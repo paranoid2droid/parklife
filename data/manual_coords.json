@@ -1,0 +1,24 @@
+{
+  "_comment": "Manual lat/lon for parks Nominatim couldn't resolve. Approximate; refine with the official map if more precision is needed.",
+
+  "tokyo/takao":                         [35.6263, 139.2438],
+  "tokyo/hachijo":                       [33.1126, 139.7847],
+  "tokyo/ogasawara":                     [27.0938, 142.1924],
+  "tokyo/oshima":                        [34.7528, 139.4156],
+  "tokyo/okutamakohan":                  [35.7833, 139.0500],
+  "tokyo/komine":                        [35.7331, 139.2306],
+  "tokyo/noyamakita-rokudoyama":         [35.7793, 139.3537],
+  "tokyo/oifuto-chuokaihin":             [35.5889, 139.7547],
+
+  "kanagawa/p2101147":                   [35.4033, 139.3303],
+  "kanagawa/park-5":                     [35.2600, 139.5828],
+  "kanagawa/shounanshiomidai":           [35.3328, 139.4892],
+
+  "chiba/chousei":                       [35.4036, 140.3739],
+  "chiba/teganuma":                      [35.8554, 140.0022],
+
+  "saitama/kasukabe-yumenomori-2":       [35.9625, 139.7681],
+  "saitama/www-activity":                [36.1675, 139.4097],
+  "saitama/www-kazohanasaki":            [36.1308, 139.5944],
+  "saitama/www-oomiya2-3":               [35.9094, 139.6372]
+}

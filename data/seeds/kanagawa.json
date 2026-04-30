@@ -1,0 +1,141 @@
+{
+  "prefecture": "kanagawa",
+  "operator": "神奈川県公園協会",
+  "parks": [
+    {
+      "slug": "hodogaya",
+      "name_ja": "保土ケ谷公園",
+      "official_url": "https://www.kanagawa-park.or.jp/hodogaya/"
+    },
+    {
+      "slug": "mitsuike",
+      "name_ja": "三ツ池公園",
+      "official_url": "https://www.kanagawa-park.or.jp/mitsuike/"
+    },
+    {
+      "slug": "shikinomori",
+      "name_ja": "四季の森公園",
+      "official_url": "https://www.kanagawa-park.or.jp/shikinomori/"
+    },
+    {
+      "slug": "park",
+      "name_ja": "東高根森林公園",
+      "official_url": "https://higashitakane.com/"
+    },
+    {
+      "slug": "park-4",
+      "name_ja": "葉山公園",
+      "official_url": "https://www.hayama-park.com/"
+    },
+    {
+      "slug": "park-5",
+      "name_ja": "はやま三ヶ岡山緑地",
+      "official_url": "https://www.hayama-park.com/"
+    },
+    {
+      "slug": "tsukayama",
+      "name_ja": "塚山公園",
+      "official_url": "https://www.kanagawa-park.or.jp/tsukayama/"
+    },
+    {
+      "slug": "kannonzaki",
+      "name_ja": "観音崎公園",
+      "official_url": "https://www.kanagawa-park.or.jp/kannonzaki/"
+    },
+    {
+      "slug": "nature-2",
+      "name_ja": "城ケ島公園",
+      "official_url": "https://www.miura-info.ne.jp/sightseeing/nature-2/"
+    },
+    {
+      "slug": "sagamihara",
+      "name_ja": "相模原公園",
+      "official_url": "https://www.kanagawa-park.or.jp/sagamihara/"
+    },
+    {
+      "slug": "zamayatoyama",
+      "name_ja": "座間谷戸山公園",
+      "official_url": "https://www.kanagawa-park.or.jp/zamayatoyama/"
+    },
+    {
+      "slug": "shonankaigan_park",
+      "name_ja": "湘南海岸公園",
+      "official_url": "http://www.s-n-p.jp/shonankaigan_park/"
+    },
+    {
+      "slug": "tujidou",
+      "name_ja": "辻堂海浜公園",
+      "official_url": "https://www.kanagawa-park.or.jp/tujidou/"
+    },
+    {
+      "slug": "shounanshiomidai",
+      "name_ja": "湘南汐見台公園",
+      "official_url": "https://www.kanagawa-park.or.jp/shounanshiomidai/"
+    },
+    {
+      "slug": "ooisojoyama",
+      "name_ja": "大磯城山公園",
+      "official_url": "https://www.kanagawa-park.or.jp/ooisojoyama/"
+    },
+    {
+      "slug": "hadanotokawa",
+      "name_ja": "秦野戸川公園",
+      "official_url": "https://www.kanagawa-park.or.jp/hadanotokawa/"
+    },
+    {
+      "slug": "nanasawa",
+      "name_ja": "七沢森林公園",
+      "official_url": "https://www.kanagawa-park.or.jp/nanasawa/"
+    },
+    {
+      "slug": "park-17",
+      "name_ja": "相模湖公園",
+      "official_url": "https://sagamiko.info/#top-park"
+    },
+    {
+      "slug": "onsisite",
+      "name_ja": "恩賜箱根公園",
+      "official_url": "https://www.kanagawa-park.or.jp/onsisite/"
+    },
+    {
+      "slug": "tsukuikoshiroyama",
+      "name_ja": "津久井湖城山公園",
+      "official_url": "https://www.kanagawa-park.or.jp/tsukuikoshiroyama/"
+    },
+    {
+      "slug": "satoyama",
+      "name_ja": "茅ケ崎里山公園",
+      "official_url": "https://www.kanagawa-park.or.jp/satoyama/"
+    },
+    {
+      "slug": "park-21",
+      "name_ja": "あいかわ公園",
+      "official_url": "http://www.aikawa-park.jp/"
+    },
+    {
+      "slug": "sagamisansen",
+      "name_ja": "相模三川公園",
+      "official_url": "https://www.kanagawa-park.or.jp/sagamisansen/"
+    },
+    {
+      "slug": "suwanohara",
+      "name_ja": "おだわら諏訪の原公園",
+      "official_url": "https://www.kanagawaparks.com/suwanohara/"
+    },
+    {
+      "slug": "sakaigawa",
+      "name_ja": "境川遊水地公園",
+      "official_url": "https://www.kanagawa-park.or.jp/sakaigawa/"
+    },
+    {
+      "slug": "tsuburano",
+      "name_ja": "山北つぶらの公園",
+      "official_url": "https://www.kanagawa-park.or.jp/tsuburano/"
+    },
+    {
+      "slug": "p2101147",
+      "name_ja": "いせはら塔の山緑地公園",
+      "official_url": "https://www.pref.kanagawa.jp/docs/rt3/cnt/f645/p2101147.html"
+    }
+  ]
+}

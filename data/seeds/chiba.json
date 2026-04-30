@@ -1,0 +1,71 @@
+{
+  "prefecture": "chiba",
+  "operator": "千葉県",
+  "parks": [
+    {
+      "slug": "hagoromo",
+      "name_ja": "羽衣公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/hagoromo/index.html"
+    },
+    {
+      "slug": "aoba",
+      "name_ja": "青葉の森公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/aoba/index.html"
+    },
+    {
+      "slug": "sports-c",
+      "name_ja": "千葉県総合スポーツセンター",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/sports-c.html"
+    },
+    {
+      "slug": "makuhari",
+      "name_ja": "幕張海浜公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/makuhari.html"
+    },
+    {
+      "slug": "gyouda",
+      "name_ja": "行田公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/gyouda.html"
+    },
+    {
+      "slug": "kashiwanoha",
+      "name_ja": "柏の葉公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/kashiwanoha/index.html"
+    },
+    {
+      "slug": "teganuma",
+      "name_ja": "手賀沼自然ふれあい緑道",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/teganuma.html"
+    },
+    {
+      "slug": "inbanuma",
+      "name_ja": "印旛沼公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/inbanuma.html"
+    },
+    {
+      "slug": "hokusou",
+      "name_ja": "北総花の丘公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/hokusou/index.html"
+    },
+    {
+      "slug": "chousei",
+      "name_ja": "長生の森公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/chousei/index.html"
+    },
+    {
+      "slug": "tateyama",
+      "name_ja": "館山運動公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/tateyama/index.html"
+    },
+    {
+      "slug": "futtsu",
+      "name_ja": "富津公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/futtsu/index.html"
+    },
+    {
+      "slug": "yachiyo",
+      "name_ja": "八千代広域公園",
+      "official_url": "https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/yachiyo.html"
+    }
+  ]
+}
