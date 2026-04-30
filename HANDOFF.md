@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, ~7k species. **Repo consolidated 2026-04-30**: code + Pages site now live in <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. The old `parklife-demo` repo is frozen (no longer updated). User is waiting on quota reset before tackling the queued TODOs.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,137 species, 94k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active session 2026-04-30: shipped TODO #6 (demo checkbox+sort) and TODO #4 GBIF main pass; identified follow-up cleanups (near-duplicate species merge, microbial-kingdom display policy, `gbif_vernacular` long-running pass).
 
 ## In progress
 
@@ -47,11 +47,13 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
    - **eBird** (birds, highest value) — needs API key, env var `EBIRD_API_KEY`, cache under `data/cache/ebird/`. Endpoint: `data/obs/geo/recent` (lat/lon + radius_km).
-   - **GBIF Occurrence API** (<https://api.gbif.org>, no key) — aggregates iNat + eBird + museum specimens. Cross-check + rare taxa. Also use `vernacularNames` for TODO #3.
+   - **GBIF Occurrence API** ✅ main pass shipped 2026-04-30 (45k obs, +4k species, demo regenerated). `scripts.gbif_vernacular` scaffold written but not yet run — that's the multi-language vernacular pass for TODO #3.
    - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
    - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
 
-5. **Demo: checkbox-filtered species list + sort controls** — ✅ shipped 2026-04-30. Sort options: 出現公園数 / 名称（日本語）/ 学名. Group checkboxes + sort persisted via localStorage (`parklife.hiddenGroups`, `parklife.speciesSort`).
+5. **Demo: data-source filter** — add a top-bar selector ("全て / 公園官网 / iNaturalist / GBIF / iNat+GBIF") so users can scope which provenance they're looking at. Useful because 97% of observations come from geographic enrichment (iNat 50% + GBIF 48%), only ~2% from the original park-website scrape. The `observation.location_hint` field already tags this; export needs to surface per-pair source set into `parklife.json` so the front-end can filter without re-querying. Estimate: ~1 hour. Recorded 2026-04-30.
+
+6. **Demo: checkbox-filtered species list + sort controls** — ✅ shipped 2026-04-30. Sort options: 出現公園数 / 名称（日本語）/ 学名. Group checkboxes + sort persisted via localStorage (`parklife.hiddenGroups`, `parklife.speciesSort`).
 
    **Follow-up** (decided 2026-04-30, not yet done): better frequency metric. Currently sort uses `sp.n` = global count of parks containing the species. Two improvements queued:
    - Acquire **per-park observation count** (would require adding a `park_species.obs_count` column or surfacing existing `observation` counts to the export) — most accurate.
@@ -60,7 +62,13 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 ## Recent sessions
 
-### 2026-04-30 (Claude) — TODO #5 shipped
+### 2026-04-30 (Claude) — TODO #4 GBIF main pass shipped
+- Added `scripts/gbif.py` (per-park GBIF occurrence search, 1.5km radius, idempotent on `location_hint='GBIF'`) and `scripts/gbif_vernacular.py` (vernacular-name scaffold, not yet run).
+- Ingested 45,203 GBIF observations across 207/209 parks. Species 2982 → 7137; park_species 28k → 57k.
+- New TODO #5 added (data-source filter on demo) — user noticed only ~2% of obs are from original website scrape, rest is geographic enrichment.
+- Permission allowlist extended for api.gbif.org + common pipeline scripts; pending cleanups: dedupe near-duplicate species (`Quercus crispula` vs `Q. mongolica subsp. crispula` etc.), and decide whether to hide microbial kingdoms (archaea/bacteria/chromista/protozoa) from the demo.
+
+### 2026-04-30 (Claude) — TODO #6 shipped (was #5 before renumber)
 - Implemented per-park species panel: group checkboxes + 3-way sort (出現公園数 / 名称 / 学名), all persistent via localStorage.
 - Edits in `scripts/export_html.py` (CSS in HTML_TEMPLATE, JS in CLIENT_JS / `selectPark`). Regenerated `docs/index.html`.
 - Added Follow-up note under TODO #5 for better frequency metric (per-park obs count, or geographically-constrained sp.n fallback).
