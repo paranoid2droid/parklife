@@ -150,7 +150,19 @@ main { display: flex; height: calc(100vh - 50px); }
 .park-meta { font-size: 12px; color: #666; }
 .park-meta a { color: #2a6b3b; }
 .species-count { margin: 8px 0; font-size: 13px; color: #444; }
+.species-controls { position: sticky; top: 0; background: #fff; padding: 6px 0 8px;
+                    margin-top: 6px; border-bottom: 1px solid #eee; z-index: 5; }
+.species-controls .row { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
+.species-controls .row.sort { margin-top: 6px; font-size: 12px; color: #555; }
+.species-controls .gck { display: inline-flex; align-items: center; gap: 3px;
+                         background: #f4f4f4; padding: 2px 8px; border-radius: 12px;
+                         font-size: 11px; cursor: pointer; user-select: none; }
+.species-controls .gck input { margin: 0 2px 0 0; }
+.species-controls .gck.off { opacity: 0.45; background: #eee; }
+.species-controls select { padding: 2px 6px; font-size: 12px; border-radius: 4px;
+                            border: 1px solid #ccc; background: #fff; }
 .group { margin-top: 14px; }
+.group.hidden { display: none; }
 .group h3 { font-size: 13px; margin: 0 0 6px; color: #444; border-bottom: 1px solid #eee;
             padding-bottom: 2px; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px,1fr)); gap: 6px; }
@@ -276,6 +288,32 @@ const sideEl = document.getElementById('side');
 const statEl = document.getElementById('stat');
 let selectedParkIdx = null;
 
+// Per-park species panel: persistent group-checkbox + sort state
+const HIDDEN_GROUPS_KEY = 'parklife.hiddenGroups';
+const SORT_KEY = 'parklife.speciesSort';
+let hiddenGroups = new Set();
+try { hiddenGroups = new Set(JSON.parse(localStorage.getItem(HIDDEN_GROUPS_KEY) || '[]')); }
+catch (e) { hiddenGroups = new Set(); }
+let sortMode = localStorage.getItem(SORT_KEY) || 'freq'; // 'freq' | 'ja' | 'sci'
+
+function persistHidden() {
+  try { localStorage.setItem(HIDDEN_GROUPS_KEY, JSON.stringify([...hiddenGroups])); } catch(e) {}
+}
+function persistSort() { try { localStorage.setItem(SORT_KEY, sortMode); } catch(e) {} }
+
+function sortGroupItems(items) {
+  if (sortMode === 'ja') {
+    return items.slice().sort((a, b) =>
+      (a.sp.ja || a.sp.sci || '').localeCompare(b.sp.ja || b.sp.sci || '', 'ja'));
+  }
+  if (sortMode === 'sci') {
+    return items.slice().sort((a, b) =>
+      (a.sp.sci || '').localeCompare(b.sp.sci || ''));
+  }
+  // freq (default): widely-occurring species first
+  return items.slice().sort((a, b) => (b.sp.n || 0) - (a.sp.n || 0));
+}
+
 function currentFilter() {
   const m = parseInt(document.getElementById('m').value, 10) || 0;
   const g = document.getElementById('g').value || '';
@@ -386,10 +424,34 @@ function selectPark(pi) {
   html += `<div class="species-count">${total} 種が条件に合致</div>`;
   if (total === 0) {
     html += `<div class="placeholder">フィルタに一致する物種なし</div>`;
+    sideEl.innerHTML = html;
+    return;
   }
+
+  // Controls bar: per-group checkboxes (persistent) + sort selector
+  html += `<div class="species-controls">`;
+  html += `<div class="row taxa">`;
   for (const g of groupKeys) {
-    const items = groups[g].sort((a, b) => b.sp.n - a.sp.n);
-    html += `<div class="group"><h3>${GROUP_LABEL[g] || g} (${items.length})</h3>`;
+    const checked = !hiddenGroups.has(g);
+    const cls = checked ? 'gck' : 'gck off';
+    html += `<label class="${cls}">`
+         +  `<input type="checkbox" data-group-cb="${g}"${checked ? ' checked' : ''}/>`
+         +  `${GROUP_LABEL[g] || g} (${groups[g].length})`
+         +  `</label>`;
+  }
+  html += `</div>`;
+  html += `<div class="row sort">並び順: `;
+  html += `<select id="sort-mode">`
+       +  `<option value="freq"${sortMode==='freq'?' selected':''}>出現公園数（多→少）</option>`
+       +  `<option value="ja"${sortMode==='ja'?' selected':''}>名称（あいうえお）</option>`
+       +  `<option value="sci"${sortMode==='sci'?' selected':''}>学名（A→Z）</option>`
+       +  `</select>`;
+  html += `</div></div>`;
+
+  for (const g of groupKeys) {
+    const items = sortGroupItems(groups[g]);
+    const hidden = hiddenGroups.has(g) ? ' hidden' : '';
+    html += `<div class="group${hidden}" data-group="${g}"><h3>${GROUP_LABEL[g] || g} (${items.length})</h3>`;
     html += `<div class="grid">`;
     for (const { sp, pair } of items.slice(0, 80)) {
       const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
@@ -403,6 +465,31 @@ function selectPark(pi) {
     if (items.length > 80) html += `<div class="legend">…他 ${items.length-80} 種</div>`;
   }
   sideEl.innerHTML = html;
+
+  // Wire up controls (CSS-only for checkboxes; re-render for sort)
+  sideEl.querySelectorAll('[data-group-cb]').forEach(cb => {
+    cb.addEventListener('change', () => {
+      const g = cb.dataset.groupCb;
+      const groupEl = sideEl.querySelector(`.group[data-group="${g}"]`);
+      const labelEl = cb.closest('.gck');
+      if (cb.checked) {
+        hiddenGroups.delete(g);
+        if (groupEl) groupEl.classList.remove('hidden');
+        if (labelEl) labelEl.classList.remove('off');
+      } else {
+        hiddenGroups.add(g);
+        if (groupEl) groupEl.classList.add('hidden');
+        if (labelEl) labelEl.classList.add('off');
+      }
+      persistHidden();
+    });
+  });
+  const sortSel = sideEl.querySelector('#sort-mode');
+  if (sortSel) sortSel.addEventListener('change', () => {
+    sortMode = sortSel.value;
+    persistSort();
+    selectPark(selectedParkIdx);
+  });
 }
 
 document.getElementById('m').addEventListener('change', refreshMap);
