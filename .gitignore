@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local-only data (regeneratable, large, or transient)
+data/raw/
+data/cache/
+data/parklife.db
+*.db-journal
+*.db-wal
+*.db-shm
+data/parks/*/raw/
+
+# Build intermediates — published copy lives under docs/
+data/export/
+
+# Autonomous queue runtime state (operational, mutating)
+data/run_queue.txt
+data/run_queue.lock
+data/run_queue.log
+data/run_queue.stderr
+data/run_queue.stdout
+*.log

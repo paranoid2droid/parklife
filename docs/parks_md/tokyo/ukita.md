@@ -1,0 +1,191 @@
+# 宇喜田公園
+
+**所在**: tokyo / 江戸川区 | **位置**: 35.6735, 139.8592 | **公式**: <https://www.tokyo-park.or.jp/park/ukita/index.html>
+
+**観察記録**: 146 件 / 8 カテゴリ
+
+## 🦜 鳥類 (45)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| アオサギ | *Ardea cinerea* | 2月, 3月, 5月, 6月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 22 |
+| アオジ | *Emberiza spodocephala personata* | 11月 | iNaturalist (research grade); observations: 1 |
+| イソシギ | *Actitis hypoleucos* | 11月 | iNaturalist (research grade); observations: 1 |
+| ウミウ | *Phalacrocorax capillatus* | 12月 | iNaturalist (research grade); observations: 1 |
+| ウミネコ | *Larus crassirostris* | 11月 | iNaturalist (research grade); observations: 3 |
+| オオソリハシシギ | *Limosa lapponica* | 9月 | iNaturalist (research grade); observations: 1 |
+| オオバン | *Fulica atra* | 1月, 2月, 3月, 11月, 12月 | iNaturalist (research grade); observations: 60 |
+| オナガ | *Cyanopica cyanus* | 2月, 3月, 5月, 6月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 35 |
+| カシラダカ | *Emberiza rustica* | 4月 | iNaturalist (research grade); observations: 1 |
+| カルガモ | *Anas zonorhyncha* | 1月, 2月, 3月, 4月, 5月, 7月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 80 |
+| カワウ | *Phalacrocorax carbo* | 1月, 2月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 18 |
+| カワセミ | *Alcedo atthis* | 1月, 2月 | iNaturalist (research grade); observations: 2 |
+| カワラバト | *Columba livia* | 1月, 2月, 3月, 6月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 65 |
+| カンムリカイツブリ | *Podiceps cristatus* | 1月, 2月 | iNaturalist (research grade); observations: 2 |
+| キジバト | *Streptopelia orientalis* | 1月, 2月, 3月, 9月, 11月, 12月 | iNaturalist (research grade); observations: 12 |
+| キンクロハジロ | *Aythya fuligula* | 1月, 2月, 3月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 76 |
+| クロツラヘラサギ | *Platalea minor* | 1月, 4月, 11月 | iNaturalist (research grade); observations: 3 |
+| コサギ | *Egretta garzetta* | 1月, 3月, 5月, 9月, 11月, 12月 | iNaturalist (research grade); observations: 9 |
+| ゴイサギ | *Nycticorax nycticorax* | 5月 | iNaturalist (research grade); observations: 2 |
+| シジュウカラ | *Parus cinereus* | 2月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 7 |
+| ジョウビタキ | *Phoenicurus auroreus* | 12月 | iNaturalist (research grade); observations: 1 |
+| スズガモ | *Aythya marila* | 1月, 5月 | iNaturalist (research grade); observations: 3 |
+| スズメ | *Passer montanus* | 1月, 2月, 3月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 58 |
+| ズグロカモメ | *Saundersilarus saundersi* | 1月 | iNaturalist (research grade); observations: 1 |
+| セグロカモメ | *Larus vegae* | 11月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Casmerodius albus* | 9月, 11月, 12月 | iNaturalist (research grade); observations: 3 |
+| ツグミ | *Turdus eunomus* | 3月 | iNaturalist (research grade); observations: 1 |
+| トビ | *Milvus migrans* | 10月, 11月 | iNaturalist (research grade); observations: 2 |
+| ノスリ | *Buteo japonicus* | 11月 | iNaturalist (research grade); observations: 1 |
+| ハクセキレイ | *Motacilla alba lugens* | 3月, 9月, 11月, 12月 | iNaturalist (research grade); observations: 13 |
+| ハシブトガラス | *Corvus macrorhynchos* | 1月, 3月, 9月, 11月 | iNaturalist (research grade); observations: 4 |
+| ハシボソガラス | *Corvus corone* | 12月 | iNaturalist (research grade); observations: 2 |
+| ハマシギ | *Calidris alpina* | 9月 | iNaturalist (research grade); observations: 1 |
+| ヒドリガモ | *Mareca penelope* | 11月, 12月 | iNaturalist (research grade); observations: 5 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 1月, 2月, 3月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 45 |
+| ホオジロガモ | *Bucephala clangula* | 12月 | iNaturalist (research grade); observations: 1 |
+| ホシハジロ | *Aythya ferina* | 1月, 2月, 11月, 12月 | iNaturalist (research grade); observations: 27 |
+| マガモ | *Anas platyrhynchos* | 1月, 2月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 13 |
+| マルガモ | *Anas platyrhynchos × zonorhyncha* | 8月 | iNaturalist (research grade); observations: 1 |
+| ムクドリ | *Spodiopsar cineraceus* | 2月, 3月, 4月, 6月, 7月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 39 |
+| メジロ | *Zosterops japonicus* | 2月, 3月 | iNaturalist (research grade); observations: 18 |
+| メダイチドリ（広義） | *Anarhynchus mongolus* | 4月 | iNaturalist (research grade); observations: 1 |
+| モズ | *Lanius bucephalus* | 1月, 2月, 3月, 11月, 12月 | iNaturalist (research grade); observations: 6 |
+| ユリカモメ | *Chroicocephalus ridibundus* | 1月, 2月, 3月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 15 |
+| ルリビタキ | *Tarsiger cyanurus* | 3月 | iNaturalist (research grade); observations: 1 |
+
+## 🦌 哺乳類 (2)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| ドブネズミ | *Rattus norvegicus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ホンドタヌキ | *Nyctereutes viverrinus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+
+## 🦎 爬虫類 (3)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| アカミミガメ | *Trachemys scripta* | 2月, 9月 | iNaturalist (research grade); observations: 2 |
+| ニホンカナヘビ | *Takydromus tachydromoides* | 4月, 8月 | iNaturalist (research grade); observations: 5 |
+| ニホンヤモリ | *Gekko japonicus* | 8月 | iNaturalist (research grade); observations: 1 |
+
+## 🐸 両生類 (4)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| アズマヒキガエル | *Bufo formosus* | 2月, 7月 | iNaturalist (research grade); observations: 2 |
+| ニホンアカガエル | *Rana japonica* | 1月 | iNaturalist (research grade); observations: 1 |
+| ヌマガエル | *Fejervarya kawamurai* | 4月 | iNaturalist (research grade); observations: 1 |
+| ヒガシニホンアマガエル | *Dryophytes leopardus* | 4月 | iNaturalist (research grade); observations: 1 |
+
+## 🐟 魚類 (6)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| カダヤシ | *Gambusia affinis* | 3月, 4月, 9月 | iNaturalist (research grade); observations: 3 |
+| クロダイ | *Acanthopagrus schlegelii* | 9月, 10月 | iNaturalist (research grade); observations: 2 |
+| コイ | *Cyprinus carpio* | 10月 | iNaturalist (research grade); observations: 1 |
+| コイ(飼育型) | *Cyprinus rubrofuscus* | 10月, 12月 | iNaturalist (research grade); observations: 3 |
+| シモフリシマハゼ | *Tridentiger bifasciatus* | 12月 | iNaturalist (research grade); observations: 1 |
+| ボラ | *Mugil cephalus* | 2月, 3月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 20 |
+
+## 🐛 昆虫 (78)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| Aiolopus thalassinus | *Aiolopus thalassinus* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| Aquarius paludum | *Aquarius paludum* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| アオアツバ | *Hypena subcyanea* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| アオスジアゲハ | *Graphium sarpedon* | 通年/不明 | iNaturalist (research grade); observations: 6 |
+| アオドウガネ | *Anomala albopilosa* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| アオバハゴロモ | *Geisha distinctissima* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| アオモンイトトンボ | *Ischnura senegalensis* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| アキアカネ | *Sympetrum frequens* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| アブラゼミ | *Graptopsaltria nigrofuscata* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| アミガサハゴロモ | *Pochazia albomaculata* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| アミメアリ | *Pristomyrmex punctatus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| イチモンジセセリ | *Parnara guttata* | 通年/不明 | iNaturalist (research grade); observations: 6 |
+| ウスイロササキリ | *Conocephalus chinensis* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ウメマツオオアリ | *Camponotus vitiosus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ウラナミシジミ | *Lampides boeticus* | 通年/不明 | iNaturalist (research grade); observations: 7 |
+| ウンモンスズメ | *Callambulyx gabyae* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| エビガラスズメ | *Agrius convolvuli* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| エンマコオロギ | *Teleogryllus emma* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| オオカマキリ | *Tenodera aridifolia* | 通年/不明 | iNaturalist (research grade); observations: 4 |
+| オオスカシバ | *Cephonodes hylas* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| オオハナアブ | *Phytomia zonata* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| オンブバッタ | *Atractomorpha lata* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| キゴシハナアブ | *Eristalinus quinquestriatus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| キタテハ | *Polygonia c-aureum* | 通年/不明 | iNaturalist (research grade); observations: 6 |
+| キマダラカメムシ | *Erthesina fullo* | 通年/不明 | iNaturalist (research grade); observations: 7 |
+| キムネクマバチ | *Xylocopa appendiculata* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ギンヤンマ | *Anax julius* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| クズクビボソハムシ | *Lema diversipes* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| クビキリギス | *Euconocephalus varius* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| クルマバッタモドキ | *Oedaleus infernalis* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| クロアゲハ | *Papilio demetrius* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| クロゴキブリ | *Validiblatta fuliginosa* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| クロヤマアリ | *Formica japonica* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| コカマキリ | *Statilia maculata* | 通年/不明 | iNaturalist (research grade); observations: 4 |
+| コバネイナゴ | *Oxya yezoensis* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| サクラアリ | *Paraparatrechina sakurae* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| シオカラトンボ | *Orthetrum albistylum* | 通年/不明 | iNaturalist (research grade); observations: 7 |
+| シオヤアブ | *Promachus yesonicus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| シブイロカヤキリ | *Xestophrys javanicus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ショウリョウバッタ | *Acrida cinerea* | 通年/不明 | iNaturalist (research grade); observations: 5 |
+| ショウリョウバッタモドキ | *Gonista bicolor* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| シロオビノメイガ | *Spoladea recurvalis* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| セグロアシナガバチ | *Polistes jokahamae* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| セスジスズメ | *Theretra oldenlandiae* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| セマダラコガネ | *Exomala orientalis* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ダンダラテントウ | *Cheilomenes sexmaculata* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| チャドクガ | *Arna pseudoconspersa* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| チャバネセセリ | *Pelopidas mathias* | 通年/不明 | iNaturalist (research grade); observations: 6 |
+| チュウゴクアミガサハゴロモ | *Pochazia shantungensis* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| チョウセンカマキリ | *Tenodera angustipennis* | 通年/不明 | iNaturalist (research grade); observations: 7 |
+| ツゲノメイガ | *Cydalima perspectalis* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ツチイナゴ | *Patanga japonica* | 通年/不明 | iNaturalist (research grade); observations: 5 |
+| ツマグロキンバエ | *Stomorhina obsoleta* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| ツヤアオカメムシ | *Glaucias subpunctatus* | 通年/不明 | iNaturalist (research grade); observations: 9 |
+| ツユムシ | *Phaneroptera falcata* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| トウヨウミツバチ | *Apis cerana* | 通年/不明 | iNaturalist (research grade); observations: 4 |
+| トックリバチ属 | *Eumenes* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| トノサマバッタ | *Locusta migratoria* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| ナナホシテントウ | *Coccinella septempunctata* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| ナミアゲハ | *Papilio xuthus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ナミテントウ | *Harmonia axyridis* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| ナミハナアブ | *Eristalis tenax* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ハイイロゲンゴロウ | *Eretes griseus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ヒメアカタテハ | *Vanessa cardui* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ヒメハラナガツチバチ | *Campsomeriella annulata* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ヒラアシハバチ | *Nematus japonicus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ベニシジミ | *Lycaena phlaeas* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| ホシササキリ | *Conocephalus maculatus* | 通年/不明 | iNaturalist (research grade); observations: 4 |
+| ホシホウジャク | *Macroglossum pyrrhosticta* | 通年/不明 | iNaturalist (research grade); observations: 3 |
+| ミナミトゲヘリカメムシ | *Paradasynus spinosus* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| ムネアカオオクロテントウ | *Synona consanguinea* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ムラサキシジミ | *Narathura japonica* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ムーアシロホシテントウ | *Calvia muiri* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| モリチャバネゴキブリ | *Blattella nipponica* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| モンキチョウ | *Colias poliographus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| モンシロチョウ | *Pieris rapae* | 通年/不明 | iNaturalist (research grade); observations: 4 |
+| ヤマトシジミ | *Pseudozizeeria maha* | 通年/不明 | iNaturalist (research grade); observations: 7 |
+| ヨモギハムシ | *Chrysolina aurichalcea* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+
+## 🕷 クモ類 (6)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| アダンソンハエトリ | *Hasarius adansoni* | 通年/不明 | iNaturalist (research grade); observations: 4 |
+| イエユウレイグモ | *Pholcus phalangioides* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| コガネグモ | *Argiope amoena* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| ジョロウグモ | *Trichonephila clavata* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| ナガコガネグモ | *Argiope bruennichi* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| マミジロハエトリ | *Evarcha albaria* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+
+## 🐚 軟体動物 (2)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| ウスカワマイマイ | *Acusta sieboldtiana* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| オナジマイマイ | *Bradybaena similaris* | 通年/不明 | iNaturalist (research grade); observations: 2 |

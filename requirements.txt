@@ -1,0 +1,5 @@
+scrapling[fetchers]>=0.4.7
+beautifulsoup4>=4.14
+httpx>=0.28
+lxml>=6.0
+pypdf>=6.0

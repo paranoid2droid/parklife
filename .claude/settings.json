@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/zhe/ClaudeCode/parklife/**)",
+      "Read(//Users/zhe/.claude/skills/**)",
+      "Read(//Users/zhe/.claude/plugins/**)",
+
+      "WebSearch",
+      "WebFetch(domain:www.tokyo-park.or.jp)",
+      "WebFetch(domain:tokyo-park.or.jp)",
+      "WebFetch(domain:www.kanagawa-park.or.jp)",
+      "WebFetch(domain:www.kanagawa-kouen.jp)",
+      "WebFetch(domain:www.pref.kanagawa.jp)",
+      "WebFetch(domain:www.pref.chiba.lg.jp)",
+      "WebFetch(domain:www.pref.saitama.lg.jp)",
+      "WebFetch(domain:www.parks.or.jp)",
+      "WebFetch(domain:parks.or.jp)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+
+      "Bash(.venv/bin/python -m scripts.init_db)",
+      "Bash(.venv/bin/python -m scripts.fetch_seed_lists)",
+      "Bash(.venv/bin/python -m scripts.build_seeds)",
+      "Bash(.venv/bin/python -m scripts.load_seeds)",
+      "Bash(.venv/bin/python -m scripts.inspect_seed *)",
+
+      "mcp__plugin_Notion_notion__notion-fetch",
+      "mcp__plugin_Notion_notion__notion-search",
+      "mcp__notion__API-get-self",
+      "mcp__plugin_Notion_notion__authenticate",
+      "mcp__plugin_Notion_notion__complete_authentication"
+    ]
+  }
+}

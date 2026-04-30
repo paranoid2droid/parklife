@@ -1,0 +1,166 @@
+{
+  "prefecture": "saitama",
+  "operator": "埼玉県公園緑地協会",
+  "parks": [
+    {
+      "slug": "www-toda",
+      "name_ja": "戸田公園",
+      "official_url": "https://www.parks.or.jp/toda/"
+    },
+    {
+      "slug": "www-akigase",
+      "name_ja": "秋ヶ瀬公園",
+      "official_url": "https://www.parks.or.jp/akigase/"
+    },
+    {
+      "slug": "www-shirakobatosuijo",
+      "name_ja": "しらこばと水上公園",
+      "official_url": "https://www.parks.or.jp/shirakobatosuijo/"
+    },
+    {
+      "slug": "www-kawagoesuijo",
+      "name_ja": "川越水上公園",
+      "official_url": "https://www.parks.or.jp/kawagoesuijo/"
+    },
+    {
+      "slug": "www-wako-jurin",
+      "name_ja": "和光樹林公園",
+      "official_url": "https://www.seibu-green.co.jp/wako-jurin/"
+    },
+    {
+      "slug": "www-kazohanasaki",
+      "name_ja": "加須はなさき水上公園",
+      "official_url": "https://www.parks.or.jp/kazohanasaki/"
+    },
+    {
+      "slug": "www-misato-yoshikawa",
+      "name_ja": "吉川公園",
+      "official_url": "https://www.seibu-la.co.jp/misato-yoshikawa/about/yoshikawa.html"
+    },
+    {
+      "slug": "www-sainomori",
+      "name_ja": "彩の森入間公園",
+      "official_url": "https://www.seibu-green.co.jp/sainomori/"
+    },
+    {
+      "slug": "www-inariyama",
+      "name_ja": "狭山稲荷山公園",
+      "official_url": "https://www.seibu-green.co.jp/inariyama/"
+    },
+    {
+      "slug": "www-www",
+      "name_ja": "まつぶし緑の丘公園",
+      "official_url": "https://www.town.matsubushi.lg.jp/www/contents/1260148701019/"
+    },
+    {
+      "slug": "gongendo",
+      "name_ja": "権現堂公園",
+      "official_url": "https://gongendo.jp"
+    },
+    {
+      "slug": "kasukabe-yumenomori",
+      "name_ja": "春日部夢の森公園",
+      "official_url": "https://kasukabe-yumenomori.jp"
+    },
+    {
+      "slug": "www-fukushimura",
+      "name_ja": "越谷公園",
+      "official_url": "https://www.parks.or.jp/fukushimura/"
+    },
+    {
+      "slug": "sakitama-hananosato-gr",
+      "name_ja": "さきたま緑道",
+      "official_url": "https://sakitama-hananosato-gr.gyoda-center.jp"
+    },
+    {
+      "slug": "sakitama-hananosato-gr-2",
+      "name_ja": "花の里緑道",
+      "official_url": "https://sakitama-hananosato-gr.gyoda-center.jp"
+    },
+    {
+      "slug": "www-omiya-park",
+      "name_ja": "大宮公園",
+      "official_url": "http://www.pref.saitama.lg.jp/omiya-park/"
+    },
+    {
+      "slug": "www-oomiya2-3",
+      "name_ja": "大宮第二・第三公園",
+      "official_url": "http://www.parks.or.jp/oomiya2-3/"
+    },
+    {
+      "slug": "www-saitamasuijo",
+      "name_ja": "上尾運動公園",
+      "official_url": "http://www.parks.or.jp/saitamasuijo/"
+    },
+    {
+      "slug": "www-momas",
+      "name_ja": "北浦和公園",
+      "official_url": "http://www.pref.spec.ed.jp/momas/index.php?page_id=0"
+    },
+    {
+      "slug": "www",
+      "name_ja": "北本自然観察公園",
+      "official_url": "http://www.saitama-shizen.info/"
+    },
+    {
+      "slug": "www-2",
+      "name_ja": "埼玉スタジアム2002公園",
+      "official_url": "https://www.stadium2002.com/"
+    },
+    {
+      "slug": "ryokudou",
+      "name_ja": "森林公園緑道",
+      "official_url": "http://ryokudou.saizoukyo.or.jp/"
+    },
+    {
+      "slug": "www-tokorozawa-kokuu",
+      "name_ja": "所沢航空記念公園",
+      "official_url": "http://www.parks.or.jp/tokorozawa-kokuu/"
+    },
+    {
+      "slug": "www-sczoo",
+      "name_ja": "こども動物自然公園",
+      "official_url": "http://www.parks.or.jp/sczoo/index.html"
+    },
+    {
+      "slug": "www-yoshimi",
+      "name_ja": "吉見総合運動公園",
+      "official_url": "https://www.parks.or.jp/yoshimi/"
+    },
+    {
+      "slug": "www-wako-jurin-2",
+      "name_ja": "新座緑道",
+      "official_url": "https://www.seibu-green.co.jp/wako-jurin/about.html"
+    },
+    {
+      "slug": "www-kukisyobu",
+      "name_ja": "久喜菖蒲公園",
+      "official_url": "https://www.parks.or.jp/kukisyobu/"
+    },
+    {
+      "slug": "www-3",
+      "name_ja": "さきたま古墳公園",
+      "official_url": "http://www.sakitama-muse.spec.ed.jp/"
+    },
+    {
+      "slug": "www-misato-yoshikawa-2",
+      "name_ja": "みさと公園",
+      "official_url": "https://www.seibu-la.co.jp/misato-yoshikawa/"
+    },
+    {
+      "slug": "kasukabe-yumenomori-2",
+      "name_ja": "豊春会かすかべ夢の森公園",
+      "official_url": "https://kasukabe-yumenomori.jp/"
+    },
+    {
+      "slug": "www-activity",
+      "name_ja": "荒川大麻生公園",
+      "official_url": "http://www.eco-saitama.or.jp/activity/shitei/ooaso/index.html"
+    },
+    {
+      "slug": "www-kumagaya",
+      "name_ja": "熊谷スポーツ文化公園",
+      "official_url": "http://www.parks.or.jp/kumagaya/"
+    }
+  ]
+}

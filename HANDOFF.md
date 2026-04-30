@@ -1,0 +1,61 @@
+# HANDOFF — cross-agent live state
+
+Shared between Claude Code and Codex (and any other agent the user adds). This file is the **source of truth for what to do next**. SUMMARY.md is deep history; RUN_LOG.md is per-batch operational log; this file is the live baton.
+
+## Protocol
+
+**On session start** (before doing anything else):
+1. Read this whole file.
+2. Read CLAUDE.md if you haven't this session (project knowledge, won't change often).
+3. Skim the last 2–3 entries under "Recent sessions" to know what just happened.
+
+**On session end** (or before quota runs out):
+1. Update **Status**, **In progress**, **Blocked**, **Next up** to reflect reality *now*.
+2. Prepend one new entry to **Recent sessions** — date, agent name, 1–3 bullets on what changed. Keep entries ≤6 lines.
+3. If you started something and didn't finish, leave concrete pointers in **In progress** (file paths, line numbers, the exact next command). Assume the next agent has zero memory of this session.
+4. Trim **Recent sessions** to the last ~15 entries; older history belongs in SUMMARY.md or git log.
+
+**Editing rules**:
+- Never delete another agent's "In progress" notes without confirming the work is done. If unsure, move them to "Blocked / waiting" with a question.
+- Concrete > vague. "Run `.venv/bin/python -m scripts.X`" beats "continue the import".
+- Mark agent in entries: `(Claude)` or `(Codex)`.
+
+---
+
+## Status
+
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, ~7k species, demo live at <https://github.com/paranoid2droid/parklife-demo>. User is waiting on quota reset (recorded 2026-04-30) before tackling the queued TODOs.
+
+## In progress
+
+*(none — nothing mid-flight at handoff time)*
+
+## Blocked / waiting
+
+- **eBird API key** — user needs to register at <https://ebird.org/api/keygen> before TODO #4 can start. Free, instant.
+- **User decisions still open**: default state of taxon-checkbox filter on demo (all-checked vs. localStorage memory) — see TODO #5.
+
+## Next up
+
+Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top unless the user redirects.
+
+1. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
+
+2. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
+
+3. **Demo: multi-language toggle** — order English → 簡体 → 繁体. `common_name_en` mostly exists; Chinese names via Wikipedia zh interlanguage links or GBIF vernacularNames (overlaps with TODO #4).
+
+4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
+   - **eBird** (birds, highest value) — needs API key, env var `EBIRD_API_KEY`, cache under `data/cache/ebird/`. Endpoint: `data/obs/geo/recent` (lat/lon + radius_km).
+   - **GBIF Occurrence API** (<https://api.gbif.org>, no key) — aggregates iNat + eBird + museum specimens. Cross-check + rare taxa. Also use `vernacularNames` for TODO #3.
+   - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
+   - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
+
+5. **Demo: checkbox-filtered species list + sort controls** — taxon checkboxes (鳥/昆虫/植物/…) at top of park-page species list, ticked groups render. "全部" = all checked. Add sort: name first (Japanese/Latin), then occurrence-frequency (parks-per-species or per-park observation count). Vanilla JS, no build step. Default state of checkboxes is open — confirm with user.
+
+## Recent sessions
+
+### 2026-04-30 (Claude)
+- Added TODO #4 (eBird + GBIF + いきものログ enrichment, prioritized) and TODO #5 (checkbox-filter + sort UI on demo).
+- Set up this HANDOFF.md + AGENTS.md as the cross-agent sync mechanism (per user request to start collaborating with Codex).
+- No code changed this session — planning + memory only.
