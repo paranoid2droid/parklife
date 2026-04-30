@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, ~7k species, demo live at <https://github.com/paranoid2droid/parklife-demo>. User is waiting on quota reset (recorded 2026-04-30) before tackling the queued TODOs.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, ~7k species. **Repo consolidated 2026-04-30**: code + Pages site now live in <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. The old `parklife-demo` repo is frozen (no longer updated). User is waiting on quota reset before tackling the queued TODOs.
 
 ## In progress
 
@@ -55,7 +55,13 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 ## Recent sessions
 
-### 2026-04-30 (Claude)
+### 2026-04-30 (Claude) — repo consolidation
+- `git init` + first commit (9f3add9, 318 files), pushed to new <https://github.com/paranoid2droid/parklife>.
+- Rewrote `scripts/deploy.py`: outputs to `./docs/` instead of `/tmp/parklife-demo/`; no longer auto-commits/pushes — review with `git status docs` and push manually.
+- `.gitignore` extended: `data/parklife.db`, `data/cache/`, `data/export/`, `data/run_queue.*` all local-only.
+- GitHub Pages configured: source = main / `/docs`. Live at <https://paranoid2droid.github.io/parklife/>.
+- Old `parklife-demo` GitHub repo frozen (kept as-is, not updated). Local `/tmp/parklife-demo/` can be deleted.
+
+### 2026-04-30 (Claude) — planning
 - Added TODO #4 (eBird + GBIF + いきものログ enrichment, prioritized) and TODO #5 (checkbox-filter + sort UI on demo).
-- Set up this HANDOFF.md + AGENTS.md as the cross-agent sync mechanism (per user request to start collaborating with Codex).
-- No code changed this session — planning + memory only.
+- Set up HANDOFF.md + AGENTS.md as the cross-agent sync mechanism (per user request to start collaborating with Codex).
