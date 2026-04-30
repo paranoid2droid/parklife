@@ -461,8 +461,9 @@ function selectPark(pi) {
       html += `<div class="${cls}"><div class="ph" ${photo}></div>` +
               `<div class="lab"><div class="ja">${name}</div>${sci}</div></div>`;
     }
-    html += `</div></div>`;
+    html += `</div>`;
     if (items.length > 80) html += `<div class="legend">…他 ${items.length-80} 種</div>`;
+    html += `</div>`;
   }
   sideEl.innerHTML = html;
 
