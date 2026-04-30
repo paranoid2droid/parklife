@@ -51,9 +51,19 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
    - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
 
-5. **Demo: checkbox-filtered species list + sort controls** — taxon checkboxes (鳥/昆虫/植物/…) at top of park-page species list, ticked groups render. "全部" = all checked. Add sort: name first (Japanese/Latin), then occurrence-frequency (parks-per-species or per-park observation count). Vanilla JS, no build step. Default state of checkboxes is open — confirm with user.
+5. **Demo: checkbox-filtered species list + sort controls** — ✅ shipped 2026-04-30. Sort options: 出現公園数 / 名称（日本語）/ 学名. Group checkboxes + sort persisted via localStorage (`parklife.hiddenGroups`, `parklife.speciesSort`).
+
+   **Follow-up** (decided 2026-04-30, not yet done): better frequency metric. Currently sort uses `sp.n` = global count of parks containing the species. Two improvements queued:
+   - Acquire **per-park observation count** (would require adding a `park_species.obs_count` column or surfacing existing `observation` counts to the export) — most accurate.
+   - Until that exists, **constrain the `sp.n` fallback to geographically nearby parks** so a 関東-wide common species doesn't dominate over a locally-clustered one. Define "nearby" via lat/lon radius (e.g. 30 km) or by prefecture.
+   - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
 ## Recent sessions
+
+### 2026-04-30 (Claude) — TODO #5 shipped
+- Implemented per-park species panel: group checkboxes + 3-way sort (出現公園数 / 名称 / 学名), all persistent via localStorage.
+- Edits in `scripts/export_html.py` (CSS in HTML_TEMPLATE, JS in CLIENT_JS / `selectPark`). Regenerated `docs/index.html`.
+- Added Follow-up note under TODO #5 for better frequency metric (per-park obs count, or geographically-constrained sp.n fallback).
 
 ### 2026-04-30 (Claude) — repo consolidation
 - `git init` + first commit (9f3add9, 318 files), pushed to new <https://github.com/paranoid2droid/parklife>.
