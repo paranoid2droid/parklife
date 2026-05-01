@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,137 species, 94k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active session 2026-04-30: shipped TODO #6 (demo checkbox+sort) and TODO #4 GBIF main pass; identified follow-up cleanups (near-duplicate species merge, microbial-kingdom display policy, `gbif_vernacular` long-running pass).
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,137 species, 94k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, and Japanese-name backfill. Current demo export has 7,044 visible species; photo coverage 6,521/7,044.
 
 ## In progress
 
@@ -33,7 +33,7 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 ## Blocked / waiting
 
 - **eBird API key** — user needs to register at <https://ebird.org/api/keygen> before TODO #4 can start. Free, instant.
-- **User decisions still open**: default state of taxon-checkbox filter on demo (all-checked vs. localStorage memory) — see TODO #5.
+- **User decisions still open**: default state of taxon-checkbox filter on demo (all-checked vs. localStorage memory) — see TODO #6 follow-up if revisiting filter UX.
 
 ## Next up
 
@@ -43,7 +43,15 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 2. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
 
-3. **Demo: multi-language toggle** — order English → 簡体 → 繁体. `common_name_en` exists for ~3431 species (GBIF). **zh coverage is still thin** (337 aliases total, ~5% of species) after both GBIF vernaculars and Wikipedia langlinks. Two unexplored options for densifying zh: (a) Wikidata Q-IDs → labels in zh-Hans/zh-Hant (most thorough), (b) harvest zh.wikipedia taxoboxes by scientific name. Decide before committing UI work.
+3. **Demo: multi-language toggle** — ✅ shipped 2026-05-01 in `d1d4ac0`. UI order: 日本語 / English / 简体中文 / 繁體中文. Language persists via `localStorage('parklife.lang')`; names/search/sort/group labels/parking labels localize in `scripts/export_html.py`.
+
+   **Future task: language coverage/quality polish**:
+   - Current DB coverage: `common_name_ja` 5,084/7,137 species; `common_name_en` 3,431/7,137; zh-Hans aliases cover 4,591 species; zh-Hant aliases cover 260 species.
+   - Current demo export coverage after Japanese-name backfill: Japanese missing+English fallback 696/7,044 visible species (down from 1,797); English 3,414/7,044; 简体 4,534/7,044; 繁體 258/7,044.
+   - `scripts/wikidata_zh.py` exists and has already run once (Wikidata SPARQL via `wdt:P225`); remaining gap is mostly Traditional Chinese coverage/label quality, not UI plumbing.
+   - `scripts/backfill_ja_from_inat_cache.py` and `scripts/wikidata_ja.py` exist for Japanese-name repair. Avoid English Wikipedia-title backfill: tested briefly and it caused unsafe generic-name matches.
+   - Recommended next step when revisiting language: add OpenCC-style Hans→Hant fallback for display/export so Traditional UI does not fall back to Japanese for most species. Optional second pass: targeted zh.wikipedia taxobox harvest for missing/high-traffic species.
+   - Keep raw aliases first-class; do not overwrite Japanese names.
 
 4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
    - **eBird** (birds, highest value) — needs API key, env var `EBIRD_API_KEY`, cache under `data/cache/ebird/`. Endpoint: `data/obs/geo/recent` (lat/lon + radius_km).
@@ -61,6 +69,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — Japanese-name display repair
+- Confirmed Japanese UI was falling back to English because 1,797 visible species had no `ja` display name but did have `en`.
+- Added offline iNat-cache backfill (`scripts/backfill_ja_from_inat_cache.py`, +89 names) and Wikidata-by-scientific-name backfill (`scripts/wikidata_ja.py`, +1,362 names); regenerated `docs/`.
+- Current visible demo fallback count: 696 species still have no Japanese name but do have English; English-Wikipedia-title backfill was tested and rejected as unsafe due generic-name false matches.
 
 ### 2026-05-01 (Codex) — iNat photo backfill for demo
 - Extended `scripts.ensure_inat_taxon` with `--missing-photo`, park-count ordering, microbe exclusion, cache accounting, and 1 req/sec network throttling.

@@ -10,8 +10,6 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [?] (16)
 
-- **None** *(_Platydemus manokwari_)*
-- **None** *(_Scolopendra subspinipes_)*
 - **None** *(_Grandidierella ogasawarensis_)*
 - **None** *(_Aoroides macrops_)*
 - **オガサワラクロベンケイガニ** *(_Orisarma magnum_)*
@@ -21,7 +19,9 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 - **シロワニ** *(_Carcharias taurus_)*
 - **ジュズベリヒトデ** *(_Fromia monilis_)*
 - **ニッポンマエアシヨコエビ** *(_Tethylembos japonicus_)*
+- **ニューギニアヤリガタリクウズムシ** *(_Platydemus manokwari_)*
 - **ネムリブカ** *(_Triaenodon obesus_)*
+- **ハブムカデ** *(_Scolopendra subspinipes_)*
 - **パイプウニ** *(_Heterocentrotus mamillatus_)*
 - **ムラサキオカヤドカリ** *(_Coenobita purpureus_)*
 - **ムラサキヒトデ** *(_Linckia guildingi_)*
@@ -39,24 +39,24 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [bird] (18)
 
-- **None** *(_Motacilla tschutschensis_)*
-- **None** *(_Sturnus vulgaris_)*
-- **None** *(_Upupa epops_)*
-- **None** *(_Anthus cervinus_)*
-- **None** *(_Motacilla citreola_)*
-- **None** *(_Sturnia sinensis_)*
-- **None** *(_Spodiopsar sericeus_)*
-- **None** *(_Saxicola rubetra_)*
-- **None** *(_Calidris falcinellus_)*
 - **アカオネッタイチョウ** *(_Phaethon rubricauda_)*
 - **オナガミズナギドリ** *(_Puffinus pacificus_)*
+- **カラムクドリ** *(_Sturnia sinensis_)*
+- **キガシラセキレイ** *(_Motacilla citreola_)*
+- **キリアイ** *(_Calidris falcinellus_)*
+- **ギンムクドリ** *(_Spodiopsar sericeus_)*
 - **クロアジサシ** *(_Anous stolidus_)*
 - **クロウミツバメ** *(_Oceanodroma matsudairae_)*
 - **コオバシギ** *(_Calidris canutus_)*
 - **サルハマシギ** *(_Calidris ferruginea_)*
 - **シロハラミズナギドリ** *(_Pterodroma hypoleuca_)*
+- **ズアオツメナガセキレイ** *(_Motacilla tschutschensis_)*
 - **ソリハシセイタカシギ** *(_Recurvirostra avosetta_)*
 - **ハリモモチュウシャク** *(_Numenius tahitiensis_)*
+- **ホシムクドリ** *(_Sturnus vulgaris_)*
+- **マミジロノビタキ** *(_Saxicola rubetra_)*
+- **ムネアカタヒバリ** *(_Anthus cervinus_)*
+- **ヤツガシラ** *(_Upupa epops_)*
 
 ### [fish] (31)
 
@@ -96,14 +96,14 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [insect] (8)
 
-- **None** *(_Gryllodes sigillatus_)*
 - **None** *(_Xylocopa ogasawarensis_)*
 - **None** *(_Morophaga formosana_)*
-- **None** *(_Pheidole megacephala_)*
 - **None** *(_Erechthias zebrina_)*
 - **None** *(_Euconocephalus nasutus_)*
 - **None** *(_Balta vilis_)*
+- **カマドコオロギ** *(_Gryllodes sigillatus_)*
 - **チャイロネッタイスズバチ** *(_Delta pyriforme_)*
+- **ツヤオオズアリ** *(_Pheidole megacephala_)*
 
 ### [mammal] (6)
 
@@ -133,31 +133,31 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [plant] (91)
 
-- **None** *(_Ipomoea pes-caprae_)*
-- **None** *(_Dracaena trifasciata_)*
-- **None** *(_Elaeagnus rotundata_)*
-- **None** *(_Leucaena leucocephala_)*
-- **None** *(_Epipremnum aureum_)*
 - **None** *(_Euphorbia hypericifolia_)*
 - **None** *(_Bothriochloa bladhii_)*
-- **None** *(_Morinda citrifolia_)*
-- **None** *(_Malvastrum coromandelianum_)*
 - **None** *(_Gahnia aspera_)*
-- **None** *(_Bischofia javanica_)*
-- **None** *(_Tridax procumbens_)*
-- **None** *(_Cyanthillium cinereum_)*
 - **None** *(_Gomphrena celosioides_)*
-- **None** *(_Sphagneticola trilobata_)*
-- **None** *(_Tradescantia spathacea_)*
 - **None** *(_Jasminum nervosum_)*
 - **None** *(_Justicia betonica_)*
 - **None** *(_Heliotropium velutinum_)*
-- **None** *(_Talipariti glabrum_)*
 - **None** *(_Platypholis boninsimae_)*
 - **None** *(_Euphorbia thymifolia_)*
 - **None** *(_Christella parasitica_)*
-- **None** *(_Pilea microphylla_)*
-- **None** *(_Cenchrus echinatus_)*
+- **None** *(_Cinnamomum pseudopedunculatum_)*
+- **None** *(_Drypetes integerrima_)*
+- **None** *(_Ceodes umbellifera_)*
+- **None** *(_Osteomeles schweriniae_)*
+- **None** *(_Nephrolepis hirsutula_)*
+- **None** *(_Cyrtococcum patens_)*
+- **None** *(_Oldenlandia corymbosa_)*
+- **None** *(_Callicarpa subpubescens_)*
+- **Kuwanoha-enoki** *(_Celtis boninensis_)*
+- **Ryûkyû-matsu** *(_Pinus luchuensis_)*
+- **アオノリュウゼツラン** *(_Agave americana_)*
+- **アカギ** *(_Bischofia javanica_)*
+- **アカテツ** *(_Planchonella obovata_)*
+- **アメリカハマグルマ** *(_Sphagneticola trilobata_)*
+- **アリアケカズラ** *(_Allamanda cathartica_)*
 - … and 66 more
 
 ### [reptile] (3)
@@ -202,8 +202,8 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [bird] (11)
 
-- **None** *(_Phylloscopus ijimae_)*
-- **None** *(_Gallinago hardwickii_)*
+- **イイジマムシクイ** *(_Phylloscopus ijimae_)*
+- **オオジシギ** *(_Gallinago hardwickii_)*
 - **オオチドリ** *(_Charadrius veredus_)*
 - **オガサワラヒメミズナギドリ** *(_Puffinus bryani_)*
 - **カワリシロハラミズナギドリ** *(_Pterodroma neglecta_)*
@@ -231,7 +231,6 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 ### [insect] (17)
 
 - **None** *(_Meloe coarctatus_)*
-- **None** *(_Symploce japonica_)*
 - **None** *(_Paracyphononyx alienus_)*
 - **None** *(_Tiphia popilliavora_)*
 - **None** *(_Catarrhinus umbrosus_)*
@@ -242,6 +241,7 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 - **ウスヒラタゴキブリ** *(_Megamareta pallidiola_)*
 - **オオシロテンクチバ** *(_Hypersypnoides submarginata_)*
 - **キチャバネゴキブリ** *(_Centrocolumna japonica_)*
+- **キチャバネゴキブリ** *(_Symploce japonica_)*
 - **クロアシナガゾウムシ** *(_Cylindralcides takahashii_)*
 - **コケシタムシ** *(_Aposthonia japonica_)*
 - **ハチジョウノコギリクワガタ** *(_Prosopocoilus hachijoensis_)*
@@ -284,31 +284,31 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [plant] (28)
 
-- **None** *(_Alsophila lepifera_)*
-- **None** *(_Monstera deliciosa_)*
 - **None** *(_Rubus ribisoideus_)*
 - **None** *(_Sasa jotanii_)*
 - **None** *(_Racopilum cuspidigerum_)*
-- **None** *(_Lilium longiflorum_)*
-- **None** *(_Gymnosphaera podophylla_)*
-- **None** *(_Plagiogyria adnata_)*
-- **None** *(_Debregeasia orientalis_)*
-- **None** *(_Drymaria diandra_)*
 - **アオノクマタケラン** *(_Alpinia intermedia_)*
 - **オオタニワタリ** *(_Asplenium antiquum_)*
 - **キバナシュクシャ** *(_Hedychium gardnerianum_)*
+- **クロヘゴ** *(_Gymnosphaera podophylla_)*
 - **シマテンナンショウ** *(_Arisaema negishii_)*
 - **セイタカホラゴケ** *(_Vandenboschia quelpaertensis_)*
+- **タカサゴキジノオ** *(_Plagiogyria adnata_)*
 - **タニイヌワラビ** *(_Athyrium otophorum_)*
+- **テッポウユリ** *(_Lilium longiflorum_)*
 - **ナチシダ** *(_Pteris wallichiana_)*
 - **ナンカイヌリトラノオ** *(_Asplenium serratipinnae_)*
 - **ナンゴクイヌワラビ** *(_Athyrium austrojaponense_)*
 - **ヌカボシクリハラン** *(_Lepisorus superficialis_)*
 - **ノコギリヘラシダ** *(_Deparia tomitaroana_)*
 - **ハチジョウシダ** *(_Pteris fauriei_)*
+- **ヒカゲヘゴ** *(_Alsophila lepifera_)*
 - **ヒメクラマゴケ** *(_Selaginella heterostachys_)*
+- **ホウライショウ** *(_Monstera deliciosa_)*
 - **ホルトノキ** *(_Elaeocarpus zollingeri_)*
 - **ホングウシダ** *(_Osmolindsaea odorata_)*
+- **モンステラ属** *(_Monstera adansonii_)*
+- **ヤナギイチゴ** *(_Debregeasia orientalis_)*
 - … and 3 more
 
 ### [reptile] (1)
@@ -327,16 +327,16 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [insect] (3)
 
-- **None** *(_Meloimorpha japonica_)*
 - **オオホソクビゴミムシ** *(_Brachinus scotomedes_)*
 - **クビボソゴミムシ** *(_Galerita orientalis_)*
+- **スズムシ** *(_Meloimorpha japonica_)*
 
 ### [plant] (4)
 
-- **None** *(_Rubus sieboldii_)*
-- **None** *(_Dioscorea nipponica_)*
 - **ウンシュウミカン** *(_Citrus unshiu_)*
 - **パッションフルーツ** *(_Passiflora edulis_)*
+- **ホウロクイチゴ** *(_Rubus sieboldii_)*
+- **穿山龍** *(_Dioscorea nipponica_)*
 
 ## 神津島 (Kozushima — Tako Bay) — 多幸湾公園
 
@@ -355,7 +355,7 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [insect] (1)
 
-- **None** *(_Lucanus gamunus_)*
+- **ミクラミヤマクワガタ** *(_Lucanus gamunus_)*
 
 ### [mollusk] (1)
 
@@ -368,10 +368,10 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 ### [plant] (5)
 
 - **None** *(_Helonias orientalis_)*
-- **None** *(_Metanarthecium luteoviride_)*
-- **None** *(_Aletris spicata_)*
 - **None** *(_Leveillea jungermannioides_)*
 - **None** *(_Macromitrium japonicum_)*
+- **ソクシンラン** *(_Aletris spicata_)*
+- **ノギラン** *(_Metanarthecium luteoviride_)*
 
 ## 伊豆大島 (Izu Oshima) — 大島公園（海のふるさと村）
 
@@ -388,7 +388,7 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 
 ### [mammal] (1)
 
-- **None** *(_Muntiacus reevesi_)*
+- **キョン** *(_Muntiacus reevesi_)*
 
 ### [mollusk] (1)
 

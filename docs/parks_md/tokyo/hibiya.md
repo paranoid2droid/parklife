@@ -126,7 +126,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Aquarius paludum | *Aquarius paludum* | 通年/不明 | iNaturalist (research grade); observations: 12 |
 | アオスジアゲハ | *Graphium sarpedon* | 通年/不明 | iNaturalist (research grade); observations: 48 |
 | アオドウガネ | *Anomala albopilosa* | 通年/不明 | iNaturalist (research grade); observations: 9 |
 | アオマツムシ | *Truljalia hibinonis* | 通年/不明 | iNaturalist (research grade); observations: 2 |
@@ -138,6 +137,7 @@
 | アブラゼミ | *Graptopsaltria nigrofuscata* | 通年/不明 | iNaturalist (research grade); observations: 26 |
 | アメリカピンクノメイガ | *Pyrausta inornatalis* | 通年/不明 | iNaturalist (research grade); observations: 2 |
 | アメリカミズアブ | *Hermetia illucens* | 通年/不明 | iNaturalist (research grade); observations: 2 |
+| アメンボ | *Aquarius paludum* | 通年/不明 | iNaturalist (research grade); observations: 12 |
 | イチモンジセセリ | *Parnara guttata* | 通年/不明 | iNaturalist (research grade); observations: 12 |
 | イトカメムシ | *Yemma exilis* | 通年/不明 | iNaturalist (research grade); observations: 3 |
 | イボバッタ | *Trilophidia annulata* | 通年/不明 | iNaturalist (research grade); observations: 2 |
