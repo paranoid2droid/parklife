@@ -36,11 +36,10 @@ GROUP_ORDER = [
     ("insect",    "🐛 昆虫"),
     ("arachnid",  "🕷 クモ類"),
     ("mollusk",   "🐚 軟体動物"),
+    ("other_animal", "🐾 その他動物"),
     ("plant",     "🌸 植物"),
-    ("tree",      "🌳 樹木"),
-    ("shrub",     "🪴 灌木"),
-    ("herb",      "🌿 草本"),
-    ("vine",      "🍇 藤本"),
+    ("mushroom",  "🍄 菌類"),
+    ("unclassified", "❓ 未分類"),
 ]
 PREF_NAMES = {
     "tokyo":    "東京都",
@@ -48,6 +47,24 @@ PREF_NAMES = {
     "chiba":    "千葉県",
     "saitama":  "埼玉県",
 }
+
+
+def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
+    """Map DB taxonomy to user-facing demo buckets."""
+    if taxon_group in {"plant", "tree", "shrub", "herb", "vine", "fern", "moss"}:
+        return "plant"
+    if taxon_group:
+        return taxon_group
+    k = (kingdom or "").lower()
+    if k == "animalia":
+        return "other_animal"
+    if k == "plantae":
+        return "plant"
+    if k == "fungi":
+        return "mushroom"
+    if k in {"archaea", "bacteria", "chromista", "protozoa"}:
+        return ""
+    return "unclassified"
 
 
 def collect_data() -> dict:
@@ -90,23 +107,26 @@ def collect_data() -> dict:
             zh_hant.setdefault(r["species_id"], r["raw_name"])
 
     # build dense indexes (DB ids may have gaps)
-    sp_idx = {r["id"]: i for i, r in enumerate(species_rows)}
     pk_idx = {r["id"]: i for i, r in enumerate(park_rows)}
 
-    species = [
-        {
+    species = []
+    sp_idx = {}
+    for r in species_rows:
+        group = demo_group(r["taxon_group"], r["kingdom"])
+        if not group:
+            continue
+        sp_idx[r["id"]] = len(species)
+        species.append({
             "ja":   r["common_name_ja"] or "",
             "en":   r["common_name_en"] or "",
             "zh":   zh_hans.get(r["id"], ""),
             "zhT":  zh_hant.get(r["id"], ""),
             "sci":  r["scientific_name"] or "",
-            "g":    r["taxon_group"] or "",
+            "g":    group,
             "k":    r["kingdom"] or "",
             "p":    r["photo_url"] or "",
             "n":    pop.get(r["id"], 0),
-        }
-        for r in species_rows
-    ]
+        })
     parks = [
         {
             "s":  r["slug"],
@@ -289,29 +309,33 @@ const GROUP_LABEL = {
     bird: '🦜 鳥類', mammal: '🦌 哺乳類', reptile: '🦎 爬虫類',
     amphibian: '🐸 両生類', fish: '🐟 魚類', insect: '🐛 昆虫',
     arachnid: '🕷 クモ類', mollusk: '🐚 軟体動物',
-    plant: '🌸 植物', tree: '🌳 樹木', shrub: '🪴 灌木',
-    herb: '🌿 草本', vine: '🍇 藤本',
+    other_animal: '🐾 その他動物',
+    plant: '🌸 植物', mushroom: '🍄 菌類',
+    unclassified: '❓ 未分類',
   },
   en: {
     bird: '🦜 Birds', mammal: '🦌 Mammals', reptile: '🦎 Reptiles',
     amphibian: '🐸 Amphibians', fish: '🐟 Fish', insect: '🐛 Insects',
     arachnid: '🕷 Arachnids', mollusk: '🐚 Molluscs',
-    plant: '🌸 Plants', tree: '🌳 Trees', shrub: '🪴 Shrubs',
-    herb: '🌿 Herbs', vine: '🍇 Vines',
+    other_animal: '🐾 Other animals',
+    plant: '🌸 Plants', mushroom: '🍄 Fungi',
+    unclassified: '❓ Unclassified',
   },
   zh: {
     bird: '🦜 鸟类', mammal: '🦌 哺乳动物', reptile: '🦎 爬行动物',
     amphibian: '🐸 两栖动物', fish: '🐟 鱼类', insect: '🐛 昆虫',
     arachnid: '🕷 蛛形纲', mollusk: '🐚 软体动物',
-    plant: '🌸 植物', tree: '🌳 乔木', shrub: '🪴 灌木',
-    herb: '🌿 草本', vine: '🍇 藤本',
+    other_animal: '🐾 其他动物',
+    plant: '🌸 植物', mushroom: '🍄 菌类',
+    unclassified: '❓ 未分类',
   },
   zhT: {
     bird: '🦜 鳥類', mammal: '🦌 哺乳動物', reptile: '🦎 爬蟲動物',
     amphibian: '🐸 兩棲動物', fish: '🐟 魚類', insect: '🐛 昆蟲',
     arachnid: '🕷 蛛形綱', mollusk: '🐚 軟體動物',
-    plant: '🌸 植物', tree: '🌳 喬木', shrub: '🪴 灌木',
-    herb: '🌿 草本', vine: '🍇 藤本',
+    other_animal: '🐾 其他動物',
+    plant: '🌸 植物', mushroom: '🍄 菌類',
+    unclassified: '❓ 未分類',
   },
 };
 
