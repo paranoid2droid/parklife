@@ -47,7 +47,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
    - **eBird** (birds, highest value) — needs API key, env var `EBIRD_API_KEY`, cache under `data/cache/ebird/`. Endpoint: `data/obs/geo/recent` (lat/lon + radius_km).
-   - **GBIF Occurrence API** ✅ main pass shipped 2026-04-30 (45k obs, +4k species, demo regenerated). `scripts.gbif_vernacular` scaffold written but not yet run — that's the multi-language vernacular pass for TODO #3.
+   - **GBIF** ✅ both passes shipped: occurrence (2026-04-30, 45k obs, +4k species) and vernacular (2026-05-01, +3431 en / +170 zh aliases). Chinese coverage is thin in GBIF — TODO #3 will need Wikipedia zh interlanguage links to densify.
    - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
    - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
 
@@ -61,6 +61,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
 ## Recent sessions
+
+### 2026-05-01 (Claude) — GBIF vernacular pass shipped
+- Ran `scripts.gbif_vernacular` over 7103 species (~3 hr). 36 unmatched, 3431 English names filled, 682 ja names filled, 170 zh aliases (168 Hans + 2 Hant).
+- Chinese coverage in GBIF is sparse (~2.4%) — TODO #3 multi-language will still need Wikipedia zh interlanguage links.
+- Re-ran dedupe (no change to park_species count) + regenerated all exports. Pushed.
 
 ### 2026-04-30 (Claude) — TODO #4 GBIF main pass shipped
 - Added `scripts/gbif.py` (per-park GBIF occurrence search, 1.5km radius, idempotent on `location_hint='GBIF'`) and `scripts/gbif_vernacular.py` (vernacular-name scaffold, not yet run).
