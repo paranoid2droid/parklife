@@ -8,14 +8,10 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | アメリカヒドリ | *Mareca americana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イソシギ | *Actitis hypoleucos* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウグイス | *Cettia diphone* | 通年/不明 | iNaturalist (research grade); observations: 1 |
 | オオバン | *Fulica atra* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -23,10 +19,12 @@
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | カイツブリ | *Tachybaptus ruficollis* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
 | カリガネ | *Anser erythropus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | カルガモ | *Anas zonorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | カワセミ | *Alcedo atthis* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |
 | カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 11 |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | カワラヒワ | *Carduelis sinica minor* | 11月 | iNaturalist (research grade); observations: 1 |
 | キアシシギ | *Tringa brevipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キジ | *Phasianus versicolor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -35,6 +33,7 @@
 | コアジサシ | *Sternula albifrons* | 3月, 4月, 5月 |  |
 | コガモ | *Anas crecca* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 21 |
 | コサギ | *Egretta garzetta* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| コジュケイ | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コチドリ | *Thinornis dubius* | 11月 | iNaturalist (research grade); observations: 1 |
 | サカツラガン | *Anser cygnoides* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 13 |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -45,6 +44,7 @@
 | タヒバリ | *Anthus japonicus* | 1月 | iNaturalist (research grade); observations: 1 |
 | ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ハシビロガモ | *Spatula clypeata* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; GBIF occurrences: 3 |
@@ -60,12 +60,12 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Argynnis hyperbius | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Onthophilus flavicornis | *Onthophilus flavicornis* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | アオスジアゲハ | *Graphium sarpedon* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ウスバカミキリ | *Aegosoma sinicum* | 7月 | iNaturalist (research grade); observations: 1 |
 | クロハネシロヒゲナガ | *Nemophora albiantennella* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | チャエダシャク | *Megabiston plumosaria* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ツマグロヒョウモン | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツマグロヒョウモン | *Argyreus hyperbius* | 5月 | iNaturalist (research grade); observations: 1 |
 | トノサマバッタ | *Locusta migratoria* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ハネナガイナゴ | *Oxya japonica* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -75,10 +75,10 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Cyperus glomeratus | *Cyperus glomeratus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Higo-Kusa | *Carex japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アゼナルコ（Aze-naruko） | *Carex dimorpholepis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アワスゲ（Awa-suge） | *Carex aequialta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | エノキ | *Celtis sinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ナンテン | *Nandina domestica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヌマガヤツリ | *Cyperus glomeratus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒカゲスゲ（Hikage-suge） | *Carex lanceolata* | 通年/不明 | GBIF; GBIF occurrences: 1 |

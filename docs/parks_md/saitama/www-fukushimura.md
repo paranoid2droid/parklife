@@ -8,12 +8,12 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | アオサギ | *Ardea cinerea* | 4月 | iNaturalist (research grade); observations: 1 |
 | イソシギ | *Actitis hypoleucos* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オシドリ | *Aix galericulata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 12 |
+| カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | カルガモ | *Anas zonorhyncha* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | キンクロハジロ | *Aythya fuligula* | 通年/不明 | GBIF; GBIF occurrences: 7 |
@@ -56,30 +56,30 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Achillea millefolium | *Achillea millefolium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Allium tuberosum | *Allium tuberosum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ambrosia artemisiifolia | *Ambrosia artemisiifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Andropogon virginicus | *Andropogon virginicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Artemisia annua | *Artemisia annua* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Cyperus microiria | *Cyperus microiria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Datura innoxia | *Datura innoxia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Diospyros kaki | *Diospyros kaki* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Eragrostis curvula | *Eragrostis curvula* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Eragrostis minor | *Eragrostis minor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Fallopia convolvulus | *Fallopia convolvulus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Gamochaeta pensylvanica | *Gamochaeta pensylvanica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Hylodesmum podocarpum | *Hylodesmum podocarpum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ipomoea lacunosa | *Ipomoea lacunosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Jishibari | *Ixeris stolonifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lolium arundinaceum | *Lolium arundinaceum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Medicago sativa | *Medicago sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Paspalum urvillei | *Paspalum urvillei* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Punica granatum | *Punica granatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Symphyotrichum squamatum | *Symphyotrichum squamatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Veronica arvensis | *Veronica arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オニウシノケグサ | *Lolium arundinaceum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カキノキ | *Diospyros kaki* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カヤツリグサ | *Cyperus microiria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クソニンジン | *Artemisia annua* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ザクロ | *Punica granatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| シナダレスズメガヤ | *Eragrostis curvula* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| セイヨウノコギリソウ | *Achillea millefolium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ソバカズラ | *Fallopia convolvulus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| タチイヌノフグリ | *Veronica arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| タチスズメノヒエ | *Paspalum urvillei* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| チチコグサモドキ | *Gamochaeta pensylvanica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ニラ | *Allium tuberosum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハナニラ | *Ipheion uniflorum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハルジオン | *Erigeron philadelphicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒガンバナ | *Lycoris radiata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒメオドリコソウ | *Lamium purpureum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ブタクサ | *Ambrosia artemisiifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| マメアサガオ | *Ipomoea lacunosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ムラサキウマゴヤシ | *Medicago sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| メリケンカルカヤ | *Andropogon virginicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ユウゲショウ | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |

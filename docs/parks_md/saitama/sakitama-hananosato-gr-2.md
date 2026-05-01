@@ -31,8 +31,8 @@
 |---|---|---|---|
 | Arisaema japonicum | *Arisaema japonicum* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Crepidomanes parvulum | *Crepidomanes parvulum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Pinellia tripartita | *Pinellia tripartita* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イヌシダ | *Sitobolium hirsutum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イノデ | *Polystichum polyblepharon* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オオハンゲ | *Pinellia tripartita* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シシガシラ | *Spicantopsis niponica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | マメヅタ | *Lepisorus microphyllus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

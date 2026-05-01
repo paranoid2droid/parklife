@@ -8,11 +8,11 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | アオサギ | *Ardea cinerea* | 8月, 9月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
 | イカルチドリ | *Charadrius placidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トビ | *Milvus migrans* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -70,14 +70,14 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Cristaria plicata | *Cristaria plicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Inversiunio reinianus | *Inversiunio reinianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Nodularia douglasiae | *Nodularia douglasiae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Sinanodonta woodiana | *Sinanodonta woodiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カラスガイ | *Cristaria plicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ドブガイ | *Sinanodonta woodiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## 🌸 植物 (2)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Trachypus bicolor | *Trachypus bicolor* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Vallisneria natans | *Vallisneria natans* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| セキショウモ | *Vallisneria natans* | 通年/不明 | GBIF; GBIF occurrences: 1 |
