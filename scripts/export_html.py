@@ -73,7 +73,7 @@ def collect_data() -> dict:
         # species: id is the row PK; we pre-collect to use as a dense index
         species_rows = list(conn.execute("""
             SELECT id, scientific_name, common_name_ja, common_name_en,
-                   taxon_group, kingdom, photo_url
+                   taxon_group, kingdom, photo_url, inat_taxon_id
             FROM species
             ORDER BY id
         """))
@@ -125,6 +125,7 @@ def collect_data() -> dict:
             "g":    group,
             "k":    r["kingdom"] or "",
             "p":    r["photo_url"] or "",
+            "tid":  r["inat_taxon_id"] or 0,
             "n":    pop.get(r["id"], 0),
         })
     parks = [
@@ -207,11 +208,16 @@ main { display: flex; height: calc(100vh - 50px); }
 .group.collapsed .group-head { margin-bottom: 0; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px,1fr)); gap: 6px; }
 .card { background: #f4f4f4; border-radius: 4px; overflow: hidden;
-        font-size: 11px; line-height: 1.3; cursor: pointer; }
+        font-size: 11px; line-height: 1.3; }
 .card .ph { width: 100%; aspect-ratio: 1 / 1; background: #ddd no-repeat center / cover; }
-.card .lab { padding: 4px 6px; }
+.card .lab { padding: 4px 6px; min-height: 54px; display: flex; flex-direction: column; gap: 2px; }
 .card .ja { font-weight: 500; color: #222; }
 .card .sci { color: #666; font-style: italic; font-size: 10px; word-break: break-all; }
+.card .links { margin-top: auto; display: flex; justify-content: flex-end; gap: 4px; }
+.card .links a { color: #2a6b3b; border: 1px solid #c9d8cc; background: #fff;
+                 border-radius: 3px; padding: 1px 4px; font-size: 10px;
+                 text-decoration: none; font-style: normal; }
+.card .links a:hover { background: #e8f4eb; }
 .card.no-photo .ph { background: linear-gradient(135deg,#cfe7d4,#9bd1a8); }
 
 .legend { font-size: 11px; color: #666; }
@@ -416,13 +422,24 @@ function setVisibleLimit(pi, g, n) {
   expandedGroupLimits[groupLimitKey(pi, g)] = n;
 }
 
+function wikiSearchUrl(sp) {
+  const host = displayLang === 'en' ? 'en.wikipedia.org'
+             : (displayLang === 'zh' || displayLang === 'zhT') ? 'zh.wikipedia.org'
+             : 'ja.wikipedia.org';
+  const q = displayName(sp) || sp.sci || '';
+  return `https://${host}/wiki/Special:Search?search=${encodeURIComponent(q)}`;
+}
+
 function speciesCardHtml(sp) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
   const name = displayName(sp);
   const sci = sp.sci ? `<div class="sci">${sp.sci}</div>` : '';
+  const wiki = `<a href="${wikiSearchUrl(sp)}" target="_blank" rel="noopener" title="Wikipedia">Wiki</a>`;
+  const inat = sp.tid ? `<a href="https://www.inaturalist.org/taxa/${sp.tid}" target="_blank" rel="noopener" title="iNaturalist">iNat</a>` : '';
+  const links = `<div class="links">${wiki}${inat}</div>`;
   return `<div class="${cls}"><div class="ph" ${photo}></div>` +
-         `<div class="lab"><div class="ja">${name}</div>${sci}</div></div>`;
+         `<div class="lab"><div class="ja">${name}</div>${sci}${links}</div></div>`;
 }
 
 function sortGroupItems(items) {
