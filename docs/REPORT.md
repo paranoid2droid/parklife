@@ -172,47 +172,47 @@ Sample (max 30, by taxon group):
 
 ### 🦜 鳥類
 
-- **コオバシギ** *(_Calidris canutus_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
-- **オガサワラヒメミズナギドリ** *(_Puffinus bryani_)* — only at [八丈植物公園・八丈ビジターセンター](parks_md/tokyo/hachijo.md)
-- **クロアジサシ** *(_Anous stolidus_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
+- **None** *(_Calidris falcinellus_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
+- **None** *(_Pterorhinus sannio_)* — only at [七沢森林公園](parks_md/kanagawa/nanasawa.md)
+- **オナガミズナギドリ** *(_Puffinus pacificus_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
+- **マミジロ** *(_Geokichla sibirica_)* — only at [舎人公園](parks_md/tokyo/toneri.md)
+- **None** *(_Muscicapa sibirica_)* — only at [中藤公園](parks_md/tokyo/nakato.md)
 - **ハジロミズナギドリ** *(_Pterodroma solandri_)* — only at [八丈植物公園・八丈ビジターセンター](parks_md/tokyo/hachijo.md)
-- **None** *(_Sturnia sinensis_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
-- **ソリハシセイタカシギ** *(_Recurvirostra avosetta_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
-- **サギ** *(_—_)* — only at [石神井公園](parks_md/tokyo/shakujii.md)
-- **ウミガラス** *(_Uria aalge_)* — only at [城ケ島公園](parks_md/kanagawa/nature-2.md)
+- **None** *(_Motacilla tschutschensis_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
+- **None** *(_Luscinia svecica_)* — only at [印旛沼公園](parks_md/chiba/inbanuma.md)
 
 ### 🐛 昆虫
 
-- **フタモンクロテントウ** *(_Cryptogonus orbiculus_)* — only at [津久井湖城山公園](parks_md/kanagawa/tsukuikoshiroyama.md)
-- **コガタコオロギ** *(_Velarifictorus ornatus_)* — only at [光が丘公園](parks_md/tokyo/hikarigaoka.md)
-- **ヒメコンボウハバチ** *(_Abia metallica_)* — only at [川越水上公園](parks_md/saitama/www-kawagoesuijo.md)
-- **None** *(_Paroosternum sorex_)* — only at [柏の葉公園](parks_md/chiba/kashiwanoha.md)
-- **タイワンタケクマバチ** *(_Xylocopa tranquebarorum_)* — only at [大戸緑地](parks_md/tokyo/oto-ryokuchi.md)
-- **ハマダラヒロクチバエ** *(_Prosthiochaeta flavihirta_)* — only at [相模湖公園](parks_md/kanagawa/park-17.md)
-- **キマダラコウモリ** *(_Endoclita sinensis_)* — only at [津久井湖城山公園](parks_md/kanagawa/tsukuikoshiroyama.md)
-- **ミナミクロホシフタオ** *(_Dysaethria meridiana_)* — only at [代々木公園](parks_md/tokyo/yoyogi.md)
+- **ギンツバメ** *(_Acropteris iphiata_)* — only at [長沼公園](parks_md/tokyo/naganuma.md)
+- **None** *(_Cicindela transbaicalica_)* — only at [相模三川公園](parks_md/kanagawa/sagamisansen.md)
+- **スジボソフトハナバチ** *(_Amegilla florea_)* — only at [湘南海岸公園](parks_md/kanagawa/shonankaigan_park.md)
+- **クロテンカバアツバ** *(_Anachrostis nigripunctalis_)* — only at [東大和公園](parks_md/tokyo/higashiyamato.md)
+- **コガタツバメエダシャク** *(_Ourapteryx obtusicauda_)* — only at [多摩動物公園](parks_md/tokyo/tama-zoological-park.md)
+- **None** *(_Lucidina accensa_)* — only at [陵南公園](parks_md/tokyo/ryonan.md)
+- **None** *(_Ceuthorrhynchidius hypocritus_)* — only at [いせはら塔の山緑地公園](parks_md/kanagawa/p2101147.md)
+- **None** *(_Cydnocoris russatus_)* — only at [羽衣公園](parks_md/chiba/hagoromo.md)
 
 ### 🌳 樹木
 
-- **カンザクラ** *(_Cerasus × kanzakura_)* — only at [石神井公園](parks_md/tokyo/shakujii.md)
-- **キンギョツバキ** *(_Camellia japonica 'Kingyo'_)* — only at [浮間公園](parks_md/tokyo/ukima.md)
-- **ジョウリョクヤマボウシ** *(_Cornus hongkongensis_)* — only at [戸山公園](parks_md/tokyo/toyama.md)
-- **カワズサクラ** *(_Cerasus × kanzakura 'Kawazu-zakura'_)* — only at [武蔵野中央公園](parks_md/tokyo/musashino-chuo.md)
 - **タカトオコヒガンザクラ** *(_Cerasus × subhirtella_)* — only at [蘆花恒春園](parks_md/tokyo/rokakoshun-en.md)
-- **タマノホシザクラ** *(_Cerasus 'Tamano-hoshizakura'_)* — only at [小山内裏公園](parks_md/tokyo/oyamadairi.md)
 - **ムニンヒメツバキ** *(_Schima mertensiana_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
-- **カンザンサクラ** *(_Cerasus serrulata 'Kanzan'_)* — only at [東村山中央公園](parks_md/tokyo/higashimurayama-chuo.md)
+- **マルバマンサク** *(_Hamamelis japonica var. obtusata_)* — only at [駒沢オリンピック公園](parks_md/tokyo/komazawa-olympic.md)
+- **カワズサクラ** *(_Cerasus × kanzakura 'Kawazu-zakura'_)* — only at [武蔵野中央公園](parks_md/tokyo/musashino-chuo.md)
+- **ヤロード** *(_Ochrosia nakaiana_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
+- **ジョウリョクヤマボウシ** *(_Cornus hongkongensis_)* — only at [戸山公園](parks_md/tokyo/toyama.md)
+- **タマノホシザクラ** *(_Cerasus 'Tamano-hoshizakura'_)* — only at [小山内裏公園](parks_md/tokyo/oyamadairi.md)
+- **オオバネムノキ** *(_Albizia kalkora_)* — only at [浜離宮恩賜庭園](parks_md/tokyo/hama-rikyu.md)
 
 ### 🌿 草本
 
+- **シライトソウ** *(_Chionographis japonica_)* — only at [殿ヶ谷戸庭園](parks_md/tokyo/tonogayato.md)
+- **インドハマユウ** *(_Crinum latifolium_)* — only at [青山公園](parks_md/tokyo/aoyama.md)
 - **オオハマオモト** *(_Crinum asiaticum var. japonicum_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
-- **ゴクラクチョウカ属** *(_Strelitzia reginae_)* — only at [八丈植物公園・八丈ビジターセンター](parks_md/tokyo/hachijo.md)
-- **ハチジョウテンナンショウ** *(_Arisaema hatizyoense_)* — only at [八丈植物公園・八丈ビジターセンター](parks_md/tokyo/hachijo.md)
-- **コギク** *(_Chrysanthemum_)* — only at [東村山中央公園](parks_md/tokyo/higashimurayama-chuo.md)
 - **ココヤシ** *(_Cocos nucifera_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
-- **トウゴウギク** *(_Rudbeckia laciniata var. hortensia_)* — only at [向島百花園](parks_md/tokyo/mukojima-hyakkaen.md)
-- **イヌコウジュ** *(_Mosla punctulata_)* — only at [平山城址公園](parks_md/tokyo/hirayama-joshi.md)
-- **ミューレンベルギア** *(_Muhlenbergia capillaris_)* — only at [東村山中央公園](parks_md/tokyo/higashimurayama-chuo.md)
+- **ナガバハエドクソウ** *(_Phryma leptostachya var. asiatica_)* — only at [長沼公園](parks_md/tokyo/naganuma.md)
+- **オガサワラススキ** *(_Miscanthus condensatus_)* — only at [小笠原ビジターセンター・大神山公園](parks_md/tokyo/ogasawara.md)
+- **セリバオウレン** *(_Coptis japonica var. dissecta_)* — only at [小峰公園・小峰ビジターセンター](parks_md/tokyo/komine.md)
+- **ゴクラクチョウカ属** *(_Strelitzia reginae_)* — only at [八丈植物公園・八丈ビジターセンター](parks_md/tokyo/hachijo.md)
 
 ## 📅 月別開花 (Tokyo park 花の見ごろ data)
 

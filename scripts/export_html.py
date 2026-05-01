@@ -76,6 +76,18 @@ def collect_data() -> dict:
             SELECT park_id, species_id, months_bitmap, source_count
             FROM park_species
         """))
+        # zh aliases (one preferred per species per variant)
+        zh_rows = list(conn.execute("""
+            SELECT species_id, raw_name, lang FROM species_alias
+            WHERE lang IN ('zh-Hans', 'zh-Hant')
+        """))
+    zh_hans: dict[int, str] = {}
+    zh_hant: dict[int, str] = {}
+    for r in zh_rows:
+        if r["lang"] == "zh-Hans":
+            zh_hans.setdefault(r["species_id"], r["raw_name"])
+        elif r["lang"] == "zh-Hant":
+            zh_hant.setdefault(r["species_id"], r["raw_name"])
 
     # build dense indexes (DB ids may have gaps)
     sp_idx = {r["id"]: i for i, r in enumerate(species_rows)}
@@ -83,13 +95,15 @@ def collect_data() -> dict:
 
     species = [
         {
-            "ja":  r["common_name_ja"] or "",
-            "en":  r["common_name_en"] or "",
-            "sci": r["scientific_name"] or "",
-            "g":   r["taxon_group"] or "",
-            "k":   r["kingdom"] or "",
-            "p":   r["photo_url"] or "",
-            "n":   pop.get(r["id"], 0),
+            "ja":   r["common_name_ja"] or "",
+            "en":   r["common_name_en"] or "",
+            "zh":   zh_hans.get(r["id"], ""),
+            "zhT":  zh_hant.get(r["id"], ""),
+            "sci":  r["scientific_name"] or "",
+            "g":    r["taxon_group"] or "",
+            "k":    r["kingdom"] or "",
+            "p":    r["photo_url"] or "",
+            "n":    pop.get(r["id"], 0),
         }
         for r in species_rows
     ]
@@ -241,6 +255,12 @@ main { display: flex; height: calc(100vh - 50px); }
     <option value="0">なし</option>
     <option value="?">不明</option>
   </select></label>
+  <label>🌐 <select id="lang">
+    <option value="ja">日本語</option>
+    <option value="en">English</option>
+    <option value="zh">简体中文</option>
+    <option value="zhT">繁體中文</option>
+  </select></label>
   <label>検索: <input type="search" id="q" placeholder="物種名 / 学名 / 公園名" /></label>
   <span class="stats" id="stat"></span>
 </header>
@@ -265,12 +285,56 @@ __SCRIPT__
 
 CLIENT_JS = r"""
 const GROUP_LABEL = {
-  bird: '🦜 鳥類', mammal: '🦌 哺乳類', reptile: '🦎 爬虫類',
-  amphibian: '🐸 両生類', fish: '🐟 魚類', insect: '🐛 昆虫',
-  arachnid: '🕷 クモ類', mollusk: '🐚 軟体動物',
-  plant: '🌸 植物', tree: '🌳 樹木', shrub: '🪴 灌木',
-  herb: '🌿 草本', vine: '🍇 藤本',
+  ja: {
+    bird: '🦜 鳥類', mammal: '🦌 哺乳類', reptile: '🦎 爬虫類',
+    amphibian: '🐸 両生類', fish: '🐟 魚類', insect: '🐛 昆虫',
+    arachnid: '🕷 クモ類', mollusk: '🐚 軟体動物',
+    plant: '🌸 植物', tree: '🌳 樹木', shrub: '🪴 灌木',
+    herb: '🌿 草本', vine: '🍇 藤本',
+  },
+  en: {
+    bird: '🦜 Birds', mammal: '🦌 Mammals', reptile: '🦎 Reptiles',
+    amphibian: '🐸 Amphibians', fish: '🐟 Fish', insect: '🐛 Insects',
+    arachnid: '🕷 Arachnids', mollusk: '🐚 Molluscs',
+    plant: '🌸 Plants', tree: '🌳 Trees', shrub: '🪴 Shrubs',
+    herb: '🌿 Herbs', vine: '🍇 Vines',
+  },
+  zh: {
+    bird: '🦜 鸟类', mammal: '🦌 哺乳动物', reptile: '🦎 爬行动物',
+    amphibian: '🐸 两栖动物', fish: '🐟 鱼类', insect: '🐛 昆虫',
+    arachnid: '🕷 蛛形纲', mollusk: '🐚 软体动物',
+    plant: '🌸 植物', tree: '🌳 乔木', shrub: '🪴 灌木',
+    herb: '🌿 草本', vine: '🍇 藤本',
+  },
+  zhT: {
+    bird: '🦜 鳥類', mammal: '🦌 哺乳動物', reptile: '🦎 爬蟲動物',
+    amphibian: '🐸 兩棲動物', fish: '🐟 魚類', insect: '🐛 昆蟲',
+    arachnid: '🕷 蛛形綱', mollusk: '🐚 軟體動物',
+    plant: '🌸 植物', tree: '🌳 喬木', shrub: '🪴 灌木',
+    herb: '🌿 草本', vine: '🍇 藤本',
+  },
 };
+
+const PARKING_LABELS = {
+  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: 'フィルタに一致する物種なし', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…他 ${n} 種`, official: '公式 ↗', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
+  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'No species match the filter', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', overflow: n => `…and ${n} more`, official: 'Official ↗', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
+  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '没有符合筛选条件的物种', sortLabel: '排序', sortFreq: '公园数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…还有 ${n} 种`, official: '官网 ↗', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
+  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '沒有符合篩選條件的物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', overflow: n => `…還有 ${n} 種`, official: '官網 ↗', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
+};
+
+// Active UI language (persistent)
+const LANG_KEY = 'parklife.lang';
+let displayLang = localStorage.getItem(LANG_KEY) || 'ja';
+const LOCALE_FOR_LANG = { ja: 'ja', en: 'en', zh: 'zh-Hans', zhT: 'zh-Hant' };
+
+// Best-effort name in active language with fallback chain
+function displayName(sp) {
+  return sp[displayLang] || sp.ja || sp.en || sp.sci || '?';
+}
+function groupLabel(g) {
+  return (GROUP_LABEL[displayLang] || GROUP_LABEL.ja)[g] || g;
+}
+function L() { return PARKING_LABELS[displayLang] || PARKING_LABELS.ja; }
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
@@ -294,7 +358,8 @@ const SORT_KEY = 'parklife.speciesSort';
 let hiddenGroups = new Set();
 try { hiddenGroups = new Set(JSON.parse(localStorage.getItem(HIDDEN_GROUPS_KEY) || '[]')); }
 catch (e) { hiddenGroups = new Set(); }
-let sortMode = localStorage.getItem(SORT_KEY) || 'freq'; // 'freq' | 'ja' | 'sci'
+let sortMode = localStorage.getItem(SORT_KEY) || 'freq'; // 'freq' | 'name' | 'sci'
+if (sortMode === 'ja') sortMode = 'name'; // migration from old key
 
 function persistHidden() {
   try { localStorage.setItem(HIDDEN_GROUPS_KEY, JSON.stringify([...hiddenGroups])); } catch(e) {}
@@ -302,9 +367,10 @@ function persistHidden() {
 function persistSort() { try { localStorage.setItem(SORT_KEY, sortMode); } catch(e) {} }
 
 function sortGroupItems(items) {
-  if (sortMode === 'ja') {
+  if (sortMode === 'name') {
+    const loc = LOCALE_FOR_LANG[displayLang] || 'ja';
     return items.slice().sort((a, b) =>
-      (a.sp.ja || a.sp.sci || '').localeCompare(b.sp.ja || b.sp.sci || '', 'ja'));
+      displayName(a.sp).localeCompare(displayName(b.sp), loc));
   }
   if (sortMode === 'sci') {
     return items.slice().sort((a, b) =>
@@ -333,7 +399,8 @@ function parkPassesParking(park, filter) {
 function speciesMatchesFilter(s, f) {
   if (f.group && s.g !== f.group) return false;
   if (f.query) {
-    const hay = (s.ja + ' ' + s.sci + ' ' + s.en).toLowerCase();
+    const hay = (s.ja + ' ' + s.sci + ' ' + s.en + ' ' +
+                 (s.zh || '') + ' ' + (s.zhT || '')).toLowerCase();
     if (!hay.includes(f.query)) return false;
   }
   return true;
@@ -407,23 +474,24 @@ function selectPark(pi) {
   }
   const groupKeys = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
 
+  const T = L();
   let html = `<div class="park-name">${park.n}</div>`;
   html += `<div class="park-meta">${park.pf} ${park.m}`;
-  if (park.u) html += ` · <a href="${park.u}" target="_blank">公式 ↗</a>`;
+  if (park.u) html += ` · <a href="${park.u}" target="_blank">${T.official}</a>`;
   html += `</div>`;
   // parking line
   if (park.park === 1) {
-    html += `<div class="parking yes" title="${(park.pi||'').replace(/"/g,'&quot;')}">🅿️ 駐車場あり</div>`;
+    html += `<div class="parking yes" title="${(park.pi||'').replace(/"/g,'&quot;')}">${T.yes}</div>`;
   } else if (park.park === 0) {
-    html += `<div class="parking no" title="${(park.pi||'').replace(/"/g,'&quot;')}">🚫 駐車場なし</div>`;
+    html += `<div class="parking no" title="${(park.pi||'').replace(/"/g,'&quot;')}">${T.no}</div>`;
   } else {
-    html += `<div class="parking unknown">🅿️ 駐車場情報なし</div>`;
+    html += `<div class="parking unknown">${T.unknown}</div>`;
   }
   let total = 0;
   for (const g of groupKeys) total += groups[g].length;
-  html += `<div class="species-count">${total} 種が条件に合致</div>`;
+  html += `<div class="species-count">${T.count(total)}</div>`;
   if (total === 0) {
-    html += `<div class="placeholder">フィルタに一致する物種なし</div>`;
+    html += `<div class="placeholder">${T.none}</div>`;
     sideEl.innerHTML = html;
     return;
   }
@@ -436,33 +504,33 @@ function selectPark(pi) {
     const cls = checked ? 'gck' : 'gck off';
     html += `<label class="${cls}">`
          +  `<input type="checkbox" data-group-cb="${g}"${checked ? ' checked' : ''}/>`
-         +  `${GROUP_LABEL[g] || g} (${groups[g].length})`
+         +  `${groupLabel(g)} (${groups[g].length})`
          +  `</label>`;
   }
   html += `</div>`;
-  html += `<div class="row sort">並び順: `;
+  html += `<div class="row sort">${T.sortLabel}: `;
   html += `<select id="sort-mode">`
-       +  `<option value="freq"${sortMode==='freq'?' selected':''}>出現公園数（多→少）</option>`
-       +  `<option value="ja"${sortMode==='ja'?' selected':''}>名称（あいうえお）</option>`
-       +  `<option value="sci"${sortMode==='sci'?' selected':''}>学名（A→Z）</option>`
+       +  `<option value="freq"${sortMode==='freq'?' selected':''}>${T.sortFreq}</option>`
+       +  `<option value="name"${sortMode==='name'?' selected':''}>${T.sortName}</option>`
+       +  `<option value="sci"${sortMode==='sci'?' selected':''}>${T.sortSci}</option>`
        +  `</select>`;
   html += `</div></div>`;
 
   for (const g of groupKeys) {
     const items = sortGroupItems(groups[g]);
     const hidden = hiddenGroups.has(g) ? ' hidden' : '';
-    html += `<div class="group${hidden}" data-group="${g}"><h3>${GROUP_LABEL[g] || g} (${items.length})</h3>`;
+    html += `<div class="group${hidden}" data-group="${g}"><h3>${groupLabel(g)} (${items.length})</h3>`;
     html += `<div class="grid">`;
     for (const { sp, pair } of items.slice(0, 80)) {
       const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
       const cls = sp.p ? 'card' : 'card no-photo';
-      const name = sp.ja || sp.sci || '?';
+      const name = displayName(sp);
       const sci = sp.sci ? `<div class="sci">${sp.sci}</div>` : '';
       html += `<div class="${cls}"><div class="ph" ${photo}></div>` +
               `<div class="lab"><div class="ja">${name}</div>${sci}</div></div>`;
     }
     html += `</div>`;
-    if (items.length > 80) html += `<div class="legend">…他 ${items.length-80} 種</div>`;
+    if (items.length > 80) html += `<div class="legend">${T.overflow(items.length-80)}</div>`;
     html += `</div>`;
   }
   sideEl.innerHTML = html;
@@ -500,6 +568,26 @@ let qTimer = 0;
 document.getElementById('q').addEventListener('input', () => {
   clearTimeout(qTimer); qTimer = setTimeout(refreshMap, 200);
 });
+
+// language switcher: re-render side panel and update placeholder
+const langSel = document.getElementById('lang');
+if (langSel) {
+  langSel.value = displayLang;
+  langSel.addEventListener('change', () => {
+    displayLang = langSel.value;
+    try { localStorage.setItem(LANG_KEY, displayLang); } catch (e) {}
+    if (selectedParkIdx != null) selectPark(selectedParkIdx);
+    else {
+      const ph = sideEl.querySelector('.placeholder');
+      if (ph) ph.innerHTML = L().placeholder;
+    }
+  });
+}
+// On load, replace static placeholder text with localized version
+{
+  const ph = sideEl.querySelector('.placeholder');
+  if (ph) ph.innerHTML = L().placeholder;
+}
 
 refreshMap();
 
