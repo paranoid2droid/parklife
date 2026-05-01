@@ -62,6 +62,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 ## Recent sessions
 
+### 2026-05-01 (Codex) — demo map fix
+- Read project handoff/docs and reproduced blank demo map locally at `http://localhost:8000/`.
+- Fixed `scripts/export_html.py`: renamed helper `L()` to `labels()` so it no longer shadows Leaflet's global `L`.
+- Regenerated `docs/index.html`; browser verification shows map tiles/markers rendering again.
+
 ### 2026-05-01 (Claude) — Wikipedia zh langlinks pass shipped
 - `scripts/wikipedia_zh.py`: batched 50 titles/req against ja.wiki then en.wiki fallback. Hit rate 31/3469 ja + 136/6902 en = ~2% — most species articles have no direct zh interlanguage link.
 - 165 new zh aliases (164 Hans + 1 Hant). zh totals: 334 Hans + 3 Hant = 337.
