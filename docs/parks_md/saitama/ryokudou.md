@@ -2,22 +2,45 @@
 
 **所在**: saitama / - | **位置**: 36.0608, 139.3693 | **公式**: <http://ryokudou.saizoukyo.or.jp/>
 
-**観察記録**: 128 件 / 10 カテゴリ
+**観察記録**: 151 件 / 10 カテゴリ
 
-## 🦜 鳥類 (10)
+## 🦜 鳥類 (33)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| アオサギ | *Ardea cinerea* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| アオゲラ | *Picus awokera* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
+| アオサギ | *Ardea cinerea* | 11月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
+| アカゲラ | *Dendrocopos major* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 2; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
+| ウグイス | *Horornis diphone* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| エナガ | *Aegithalos caudatus* | 通年/不明 | eBird; latest: 2026-04-18 14:42; count: 2; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| カイツブリ | *Tachybaptus ruficollis* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| カイツブリ | *Tachybaptus ruficollis* | 7月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| カルガモ | *Anas zonorhyncha* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| カワセミ | *Alcedo atthis* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | eBird; latest: 2026-04-18 14:42; count: 50; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Mus |
+| ガビチョウ | *Garrulax canorus* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| キジバト | *Streptopelia orientalis* | 通年/不明 | eBird; latest: 2026-04-18 14:42; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
+| キビタキ | *Ficedula narcissina* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
 | キンクロハジロ | *Aythya fuligula* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| ヒヨドリ | *Hypsipetes amaurotis* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| コガモ | *Anas crecca* | 通年/不明 | GBIF; eBird; GBIF occurrences: 8; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| コジュケイ | *Bambusicola thoracicus* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
+| シジュウカラ | *Parus cinereus* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| シメ | *Coccothraustes coccothraustes* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| シロハラ | *Turdus pallidus* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| ハシボソガラス | *Corvus corone* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| ヒガラ | *Periparus ater* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| ヒヨドリ | *Hypsipetes amaurotis* | 1月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | ビンズイ | *Anthus hodgsoni* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | マガモ | *Anas platyrhynchos* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 14 |
+| マヒワ | *Spinus spinus* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
+| ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | eBird; latest: 2026-04-18 14:42; count: 30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Mus |
+| メジロ | *Zosterops japonicus* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
+| ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-19 11:30; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musashi Hills  |
 | ルリビタキ | *Tarsiger cyanurus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| 雑種 マガモ ｘ カルガモ | *Anas zonorhyncha x platyrhynchos* | 通年/不明 | eBird; latest: 2026-04-19 11:30; count: 1; near: 滑川町--国営武蔵丘陵森林公園 (Namegawa--Musa |
 
 ## 🦎 爬虫類 (1)
 

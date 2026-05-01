@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,137 species, 94k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, and Japanese-name backfill. Current demo export has 7,044 visible species; photo coverage 6,521/7,044.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, and eBird bird enrichment. Current demo export has 7,052 visible species; photo coverage last measured 6,521/7,044 before eBird.
 
 ## In progress
 
@@ -32,7 +32,6 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 ## Blocked / waiting
 
-- **eBird API key** — user needs to register at <https://ebird.org/api/keygen> before TODO #4 can start. Free, instant.
 - **User decisions still open**: default state of taxon-checkbox filter on demo (all-checked vs. localStorage memory) — see TODO #6 follow-up if revisiting filter UX.
 
 ## Next up
@@ -54,12 +53,12 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - Keep raw aliases first-class; do not overwrite Japanese names.
 
 4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
-   - **eBird** (birds, highest value) — needs API key, env var `EBIRD_API_KEY`, cache under `data/cache/ebird/`. Endpoint: `data/obs/geo/recent` (lat/lon + radius_km).
+   - **eBird** ✅ shipped 2026-05-02. Added `scripts/ebird.py`; run with `EBIRD_API_KEY=<token> .venv/bin/python -m scripts.ebird`. Uses recent nearby observations (`data/obs/geo/recent`) with 2km radius / 30-day lookback, caches under `data/cache/ebird/`, inserts `location_hint='eBird'`. Full run: 209 parks, 208 network calls + 1 cache hit, 0 errors, 4,884 eBird observations; bird species count now 380.
    - **GBIF** ✅ both passes shipped: occurrence (2026-04-30, 45k obs, +4k species) and vernacular (2026-05-01, +3431 en / +170 zh aliases). Chinese coverage is thin in GBIF — TODO #3 will need Wikipedia zh interlanguage links to densify.
    - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
    - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
 
-5. **Demo: data-source filter** — add a top-bar selector ("全て / 公園官网 / iNaturalist / GBIF / iNat+GBIF") so users can scope which provenance they're looking at. Useful because 97% of observations come from geographic enrichment (iNat 50% + GBIF 48%), only ~2% from the original park-website scrape. The `observation.location_hint` field already tags this; export needs to surface per-pair source set into `parklife.json` so the front-end can filter without re-querying. Estimate: ~1 hour. Recorded 2026-04-30.
+5. **Demo: data-source filter** — add a top-bar selector ("全て / 公園官网 / iNaturalist / GBIF / eBird") so users can scope which provenance they're looking at. Useful because most observations come from geographic enrichment, only a small share from the original park-website scrape. The `observation.location_hint` field already tags this (`iNaturalist`, `GBIF`, `eBird`); export needs to surface per-pair source set into `parklife.json` so the front-end can filter without re-querying. Estimate: ~1 hour. Recorded 2026-04-30, updated after eBird landed.
 
 6. **Demo: checkbox-filtered species list + sort controls** — ✅ shipped 2026-04-30. Sort options: 出現公園数 / 名称（日本語）/ 学名. Group checkboxes + sort persisted via localStorage (`parklife.hiddenGroups`, `parklife.speciesSort`).
 
@@ -69,6 +68,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — eBird bird enrichment
+- Added `scripts/ebird.py` using eBird recent nearby observations, 2km radius, 30-day lookback, cached under `data/cache/ebird/`; API key is env-only and not committed.
+- Full run inserted 4,884 eBird observations across 209 parks (0 errors); dedupe/export regenerated docs. Stats now 7,145 species, 99,011 observations, 58,172 park-species pairs, 380 bird species.
+- Verified no API token string in tracked files; `node --check` passed for generated `docs/index.html`.
 
 ### 2026-05-02 (Codex) — Japanese-name display repair
 - Confirmed Japanese UI was falling back to English because 1,797 visible species had no `ja` display name but did have `en`.

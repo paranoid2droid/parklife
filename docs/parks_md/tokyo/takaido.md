@@ -47,7 +47,7 @@
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タシギ | *Gallinago gallinago* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 10 |
-| ツバメ | *Hirundo rustica* | 4月, 5月, 6月, 7月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 4 |
+| ツバメ | *Hirundo rustica* | 4月, 5月, 6月, 7月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 4; |
 | ノスリ | *Buteo japonicus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 28 |
 | ハクセキレイ | *Motacilla alba lugens* | 1月, 3月, 4月, 7月, 8月 | iNaturalist (research grade); observations: 9 |

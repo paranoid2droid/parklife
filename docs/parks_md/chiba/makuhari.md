@@ -17,7 +17,7 @@
 | イソシギ | *Actitis hypoleucos* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | イソヒヨドリ | *Monticola solitarius* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | イワツバメ | *Delichon dasypus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-14 11:49; count: 1; near: kuis |
 | ウミアイサ | *Mergus serrator* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ウミウ | *Phalacrocorax capillatus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ウミネコ | *Larus crassirostris* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 21 |

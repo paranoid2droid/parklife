@@ -15,10 +15,10 @@
 | イワツバメ | *Delichon dasypus* | 7月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 10 |
 | ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 17 |
 | エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| オシドリ | *Aix galericulata* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
+| オシドリ | *Aix galericulata* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 5; |
 | カケス | *Garrulus glandarius* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | カルガモ | *Anas zonorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; GBIF occurrences: 13 |
+| カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; eBird; GBIF occurrences: 13; latest: 2026-04-05 12:43; count: 1; near: Kos |
 | カワガラス | *Cinclus pallasii* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 7 |
 | カワセミ | *Alcedo atthis* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -26,7 +26,7 @@
 | カンムリカイツブリ | *Podiceps cristatus* | 10月 | iNaturalist (research grade); observations: 1 |
 | ガビチョウ | *Garrulax canorus* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 10 |
 | キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| キセキレイ | *Motacilla cinerea* | 5月, 11月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 28 |
+| キセキレイ | *Motacilla cinerea* | 5月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 4; GBIF occurrences: 28 |
 | キビタキ | *Ficedula narcissina* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | コガモ | *Anas crecca* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; GBIF occurrences: 6 |

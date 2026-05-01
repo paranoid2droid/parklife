@@ -2,9 +2,9 @@
 
 **所在**: tokyo / 武蔵村山市 | **位置**: 35.7793, 139.3537 | **公式**: <https://www.tokyo-park.or.jp/park/noyamakita-rokudoyama/index.html>
 
-**観察記録**: 194 件 / 11 カテゴリ
+**観察記録**: 195 件 / 11 カテゴリ
 
-## 🦜 鳥類 (56)
+## 🦜 鳥類 (57)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -28,12 +28,12 @@
 | カワセミ | *Alcedo atthis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| ガビチョウ | *Garrulax canorus* | 通年/不明 | GBIF; GBIF occurrences: 10 |
+| ガビチョウ | *Garrulax canorus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 10; latest: 2026-04-11 16:01; count: 1; near: 瑞穂町 |
 | キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | キセキレイ | *Motacilla cinerea* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | キビタキ | *Ficedula narcissina* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コウライキジ | *Phasianus colchicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; GBIF occurrences: 11 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; eBird; GBIF occurrences: 11; latest: 2026-04-11 16:01; count: 3; near: 瑞穂町 |
 | コサメビタキ | *Muscicapa latirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コジュケイ | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | サシバ | *Butastur indicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
@@ -47,22 +47,23 @@
 | ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ツツドリ | *Cuculus optatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 6 |
+| ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-26 15:13; count: 1; near: 瑞穂町- |
+| トビ | *Milvus migrans* | 通年/不明 | GBIF; eBird; GBIF occurrences: 6; latest: 2026-04-26 15:13; count: 1; near: 瑞穂町- |
 | ニシオジロビタキ | *Ficedula parva* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ノスリ | *Buteo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ハイタカ | *Accipiter nisus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 2; latest: 2026-04-26 15:13; count: 2; near: 瑞穂町- |
 | ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハチクマ | *Pernis ptilorhynchus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | GBIF; GBIF occurrences: 11 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | GBIF; eBird; GBIF occurrences: 11; latest: 2026-04-11 16:01; count: 1; near: 瑞穂町 |
 | ビンズイ | *Anthus hodgsoni* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ホンセイインコ | *Psittacula krameri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ミサゴ | *Pandion haliaetus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| メジロ | *Zosterops japonicus* | 通年/不明 | GBIF; GBIF occurrences: 11 |
+| ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-26 15:13; count: 15; near: 瑞穂町 |
+| メジロ | *Zosterops japonicus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 11; latest: 2026-04-11 16:01; count: 3; near: 瑞穂町 |
 | モズ | *Lanius bucephalus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-11 16:01; count: 3; near: 瑞穂町--六道山公園·展望塔 (Mizuho--Rokudoy |
 | ルリビタキ | *Tarsiger cyanurus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 
 ## 🦌 哺乳類 (2)

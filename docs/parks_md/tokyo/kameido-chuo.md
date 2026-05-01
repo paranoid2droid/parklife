@@ -52,7 +52,7 @@
 | マガモ | *Anas platyrhynchos* | 3月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | マヒワ | *Spinus spinus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ミサゴ | *Pandion haliaetus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| ムクドリ | *Spodiopsar cineraceus* | 1月, 4月, 5月, 6月, 12月 | iNaturalist (research grade); GBIF; observations: 20; GBIF occurrences: 27 |
+| ムクドリ | *Spodiopsar cineraceus* | 1月, 4月, 5月, 6月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 20; GBIF occurrences: 2 |
 | メジロ | *Zosterops japonicus* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
 | モズ | *Lanius bucephalus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ユリカモメ | *Chroicocephalus ridibundus* | 1月, 2月, 3月, 4月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 30; GBIF occurrences: 40 |

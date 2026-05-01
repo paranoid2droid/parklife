@@ -47,11 +47,11 @@ Species recorded mainly or exclusively at one of Tokyo's island park areas.
 - **ギンムクドリ** *(_Spodiopsar sericeus_)*
 - **クロアジサシ** *(_Anous stolidus_)*
 - **クロウミツバメ** *(_Oceanodroma matsudairae_)*
-- **コオバシギ** *(_Calidris canutus_)*
 - **サルハマシギ** *(_Calidris ferruginea_)*
 - **シロハラミズナギドリ** *(_Pterodroma hypoleuca_)*
 - **ズアオツメナガセキレイ** *(_Motacilla tschutschensis_)*
 - **ソリハシセイタカシギ** *(_Recurvirostra avosetta_)*
+- **ハリオシギ** *(_Gallinago stenura_)*
 - **ハリモモチュウシャク** *(_Numenius tahitiensis_)*
 - **ホシムクドリ** *(_Sturnus vulgaris_)*
 - **マミジロノビタキ** *(_Saxicola rubetra_)*

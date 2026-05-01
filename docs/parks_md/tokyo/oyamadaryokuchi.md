@@ -20,7 +20,7 @@
 | カルガモ | *Anas zonorhyncha* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
 | カワアイサ | *Mergus merganser* | 9月 | iNaturalist (research grade); observations: 1 |
 | カワセミ | *Alcedo atthis* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
-| カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| カワラバト | *Columba livia* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-29 12:42; count: 5; near: Auto |
 | カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | キセキレイ | *Motacilla cinerea* | 通年/不明 | GBIF; GBIF occurrences: 1 |

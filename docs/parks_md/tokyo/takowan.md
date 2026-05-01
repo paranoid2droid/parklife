@@ -2,9 +2,9 @@
 
 **所在**: tokyo / 伊豆諸島 | **位置**: 34.2025, 139.1524 | **公式**: <https://www.tokyo-park.or.jp/park/takowan/index.html>
 
-**観察記録**: 133 件 / 12 カテゴリ
+**観察記録**: 136 件 / 12 カテゴリ
 
-## 🦜 鳥類 (48)
+## 🦜 鳥類 (51)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -12,23 +12,25 @@
 | アオジ | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アオバト | *Treron sieboldii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アカコッコ | *Turdus celaenops* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| アホウドリ | *Phoebastria albatrus* | 通年/不明 | eBird; latest: 2026-04-23 04:10; count: 1; near: 多幸湾　34.19956, 139.15455; eBird  |
 | アマツバメ | *Apus pacificus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | イスカ | *Loxia curvirostra* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イソシギ | *Actitis hypoleucos* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| イソヒヨドリ | *Monticola solitarius* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 8 |
+| イソヒヨドリ | *Monticola solitarius* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 8; |
 | ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | ウグイス | *Cettia diphone* | 5月 | iNaturalist (research grade); observations: 1 |
-| ウミウ | *Phalacrocorax capillatus* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
-| ウミネコ | *Larus crassirostris* | 通年/不明 | GBIF; GBIF occurrences: 7 |
+| ウミウ | *Phalacrocorax capillatus* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 2; |
+| ウミネコ | *Larus crassirostris* | 通年/不明 | GBIF; eBird; GBIF occurrences: 7; latest: 2026-04-23 13:37; count: 5; near: 式根島ー |
 | オオセグロカモメ | *Larus schistisagus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| オオミズナギドリ | *Calonectris leucomelas* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| カツオドリ | *Sula leucogaster* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オオミズナギドリ | *Calonectris leucomelas* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-23 13:37; count: 2; near: 式根島ー |
+| カツオドリ | *Sula leucogaster* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-23 04:10; count: 2; near: 多幸湾　 |
 | カラスバト | *Columba janthina* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| カンムリウミスズメ | *Synthliboramphus wumizusume* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カンムリウミスズメ | *Synthliboramphus wumizusume* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-23 13:37; count: 2; near: 式根島ー |
 | キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クロサギ | *Egretta sacra* | 通年/不明 | eBird; latest: 2026-04-22 15:03; count: 1; near: 多幸湾　34.19956, 139.15455; eBird  |
 | コマドリ | *Erithacus akahige* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コムクドリ | *Agropsar philippensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -38,7 +40,7 @@
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| トビ | *Milvus migrans* | 5月, 7月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 8 |
+| トビ | *Milvus migrans* | 5月, 7月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 8; |
 | ノスリ | *Buteo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハイタカ | *Accipiter nisus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -47,6 +49,7 @@
 | ハヤブサ | *Falco peregrinus* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ヒメウ | *Phalacrocorax pelagicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒヨドリ | *Hypsipetes amaurotis* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 7 |
+| ホオアカ | *Emberiza fucata* | 通年/不明 | eBird; latest: 2026-04-23 03:29; count: 1; near: 多幸湾　34.19956, 139.15455; eBird  |
 | ホオジロ | *Emberiza cioides* | 5月, 7月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 10 |
 | ホトトギス | *Cuculus poliocephalus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | マガン | *Anser albifrons* | 通年/不明 | GBIF; GBIF occurrences: 1 |
