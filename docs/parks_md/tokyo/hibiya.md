@@ -2,85 +2,97 @@
 
 **所在**: tokyo / 千代田区 | **位置**: 35.6740, 139.7563 | **公式**: <https://www.tokyo-park.or.jp/park/hibiya/index.html>
 
-**観察記録**: 224 件 / 10 カテゴリ
+**観察記録**: 236 件 / 10 カテゴリ
 
-## 🦜 鳥類 (74)
+## 🦜 鳥類 (86)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アイスランドカモメ | *Larus glaucoides* | 2月 | iNaturalist (research grade); observations: 1 |
-| アオサギ | *Ardea cinerea* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 107 |
+| アオサギ | *Ardea cinerea* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 107; latest: 2026-04-28 14:22 |
 | アオジ | *Emberiza spodocephala personata* | 1月 | iNaturalist (research grade); observations: 1 |
-| アカハラ | *Turdus chrysolaus* | 1月 | iNaturalist (research grade); observations: 2 |
+| アオジ | *Emberiza personata* | 通年/不明 | eBird; latest: 2026-04-11 07:47; near: 千代田区--皇居--北の丸公園 (Chiyoda Ward--Imperial P |
+| アカハラ | *Turdus chrysolaus* | 1月 | iNaturalist (research grade); eBird; observations: 2; latest: 2026-04-07 10:22;  |
 | アメリカヒドリ | *Mareca americana* | 11月 | iNaturalist (research grade); observations: 1 |
-| イソシギ | *Actitis hypoleucos* | 1月, 12月 | iNaturalist (research grade); observations: 3 |
-| イソヒヨドリ | *Monticola solitarius* | 4月 | iNaturalist (research grade); observations: 1 |
+| イソシギ | *Actitis hypoleucos* | 1月, 12月 | iNaturalist (research grade); eBird; observations: 3; latest: 2026-04-28 14:22;  |
+| イソヒヨドリ | *Monticola solitarius* | 4月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-08 11:59;  |
+| イワツバメ | *Delichon dasypus* | 通年/不明 | eBird; latest: 2026-04-27 11:18; count: 1; near: 中央区--浜離宮恩賜庭園 (Chuo Ward--Hamari |
 | ウグイス | *Cettia diphone* | 1月 | iNaturalist (research grade); observations: 3 |
-| ウミネコ | *Larus crassirostris* | 4月, 6月 | iNaturalist (research grade); observations: 2 |
+| ウミネコ | *Larus crassirostris* | 4月, 6月 | iNaturalist (research grade); eBird; observations: 2; latest: 2026-04-27 11:18;  |
+| エゾムシクイ | *Phylloscopus borealoides* | 通年/不明 | eBird; latest: 2026-04-28 07:15; count: 1; near: 千代田区--日比谷公園 (Chiyoda Ward--Hibi |
 | エナガ | *Aegithalos caudatus trivirgatus* | 1月, 3月, 11月 | iNaturalist (research grade); observations: 6 |
-| オオバン | *Fulica atra* | 1月, 2月, 3月, 4月, 5月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 191 |
+| エナガ | *Aegithalos caudatus* | 通年/不明 | eBird; latest: 2026-04-21 14:08; count: 4; near: 千代田区--皇居--東御苑 (Chiyoda Ward--Im |
+| オオバン | *Fulica atra* | 1月, 2月, 3月, 4月, 5月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 191; latest: 2026-04-29 13:15 |
 | オカヨシガモ | *Mareca strepera* | 1月, 2月, 3月, 4月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 120 |
 | オシドリ | *Aix galericulata* | 1月 | iNaturalist (research grade); observations: 1 |
-| オナガ | *Cyanopica cyanus* | 1月, 2月, 3月, 4月, 5月, 8月, 9月, 12月 | iNaturalist (research grade); observations: 12 |
+| オナガ | *Cyanopica cyanus* | 1月, 2月, 3月, 4月, 5月, 8月, 9月, 12月 | iNaturalist (research grade); eBird; observations: 12; latest: 2026-04-22 13:39; |
 | オナガガモ | *Anas acuta* | 3月, 11月 | iNaturalist (research grade); observations: 8 |
-| カイツブリ | *Tachybaptus ruficollis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 152 |
-| カルガモ | *Anas zonorhyncha* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 123 |
-| カワウ | *Phalacrocorax carbo* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 101 |
-| カワセミ | *Alcedo atthis* | 1月, 2月, 3月, 4月, 5月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 45 |
-| カワラバト | *Columba livia* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 142 |
+| カイツブリ | *Tachybaptus ruficollis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 152; latest: 2026-04-29 13:15 |
+| カルガモ | *Anas zonorhyncha* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 123; latest: 2026-04-28 14:22 |
+| カワウ | *Phalacrocorax carbo* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 101; latest: 2026-04-29 13:15 |
+| カワセミ | *Alcedo atthis* | 1月, 2月, 3月, 4月, 5月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 45; latest: 2026-04-28 14:22; |
+| カワラバト | *Columba livia* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 142; latest: 2026-04-29 09:52 |
 | カワラヒワ | *Carduelis sinica minor* | 2月, 12月 | iNaturalist (research grade); observations: 3 |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | eBird; latest: 2026-04-28 14:22; count: 1; near: 中央区--浜離宮恩賜庭園 (Chuo Ward--Hamari |
 | カンムリカイツブリ | *Podiceps cristatus* | 1月, 3月 | iNaturalist (research grade); observations: 2 |
-| キジバト | *Streptopelia orientalis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 9月, 11月, 12月 | iNaturalist (research grade); observations: 45 |
+| キジバト | *Streptopelia orientalis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 9月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 45; latest: 2026-04-30 08:30; |
 | キセキレイ | *Motacilla cinerea* | 1月, 3月, 10月, 12月 | iNaturalist (research grade); observations: 4 |
-| キビタキ | *Ficedula narcissina* | 9月 | iNaturalist (research grade); observations: 1 |
-| キンクロハジロ | *Aythya fuligula* | 1月, 2月, 3月, 4月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 131 |
+| キビタキ | *Ficedula narcissina* | 9月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-28 07:15;  |
+| キンクロハジロ | *Aythya fuligula* | 1月, 2月, 3月, 4月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 131; latest: 2026-04-12 13:13 |
 | コウラウン | *Pycnonotus jocosus* | 2月 | iNaturalist (research grade); observations: 1 |
-| コガモ | *Anas crecca* | 1月, 3月, 4月, 11月 | iNaturalist (research grade); observations: 13 |
+| コガモ | *Anas crecca* | 1月, 3月, 4月, 11月 | iNaturalist (research grade); eBird; observations: 13; latest: 2026-04-28 07:15; |
 | コゲラ | *Dendrocopos kizuki* | 1月, 2月, 3月, 6月, 11月 | iNaturalist (research grade); observations: 12 |
-| コサギ | *Egretta garzetta* | 1月, 2月, 3月, 4月, 5月, 6月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 37 |
-| コブハクチョウ | *Cygnus olor* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 178 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | eBird; latest: 2026-04-28 07:15; count: 1; near: 千代田区--日比谷公園 (Chiyoda Ward--Hibi |
+| コサギ | *Egretta garzetta* | 1月, 2月, 3月, 4月, 5月, 6月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 37; latest: 2026-04-28 14:22; |
+| コチドリ | *Thinornis dubius* | 通年/不明 | eBird; latest: 2026-04-06 14:09; count: 1; near: 中央区--浜離宮恩賜庭園 (Chuo Ward--Hamari |
+| コブハクチョウ | *Cygnus olor* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 178; latest: 2026-04-29 13:15 |
 | ゴイサギ | *Nycticorax nycticorax* | 1月, 5月, 10月, 12月 | iNaturalist (research grade); observations: 11 |
-| シジュウカラ | *Parus cinereus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 51 |
-| シメ | *Coccothraustes coccothraustes* | 2月 | iNaturalist (research grade); observations: 1 |
-| シロハラ | *Turdus pallidus* | 1月, 2月, 3月, 4月 | iNaturalist (research grade); observations: 14 |
+| シジュウカラ | *Parus cinereus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 51; latest: 2026-04-30 08:30; |
+| シメ | *Coccothraustes coccothraustes* | 2月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-23 11:04;  |
+| シロハラ | *Turdus pallidus* | 1月, 2月, 3月, 4月 | iNaturalist (research grade); eBird; observations: 14; latest: 2026-04-18 15:05; |
 | ジョウビタキ | *Phoenicurus auroreus* | 1月, 2月, 3月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 13 |
-| スズガモ | *Aythya marila* | 1月, 2月, 4月, 11月 | iNaturalist (research grade); observations: 7 |
-| スズメ | *Passer montanus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 132 |
+| スズガモ | *Aythya marila* | 1月, 2月, 4月, 11月 | iNaturalist (research grade); eBird; observations: 7; latest: 2026-04-11 10:13;  |
+| スズメ | *Passer montanus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 132; latest: 2026-04-29 09:52 |
 | セグロカモメ | *Larus vegae* | 1月, 2月, 3月 | iNaturalist (research grade); observations: 4 |
+| セグロセキレイ | *Motacilla grandis* | 通年/不明 | eBird; latest: 2026-04-11 09:48; count: 1; near: Kokyo Gaien National Garden, Ch |
 | セッカ | *Cisticola juncidis* | 8月 | iNaturalist (research grade); observations: 1 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 4月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 38 |
-| チョウゲンボウ | *Falco tinnunculus* | 10月 | iNaturalist (research grade); observations: 1 |
-| ツグミ | *Turdus eunomus* | 1月, 2月, 3月, 4月, 12月 | iNaturalist (research grade); observations: 38 |
-| ツバメ | *Hirundo rustica* | 4月, 6月 | iNaturalist (research grade); observations: 5 |
-| ツミ | *Tachyspiza gularis* | 2月 | iNaturalist (research grade); observations: 1 |
-| トビ | *Milvus migrans* | 1月, 2月, 4月 | iNaturalist (research grade); observations: 5 |
+| ダイサギ | *Ardea alba* | 通年/不明 | eBird; latest: 2026-04-29 09:52; count: 1; near: 千代田区--皇居--蛤濠 (Chiyoda Ward--Imp |
+| チョウゲンボウ | *Falco tinnunculus* | 10月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-05 12:22;  |
+| ツグミ | *Turdus eunomus* | 1月, 2月, 3月, 4月, 12月 | iNaturalist (research grade); eBird; observations: 38; latest: 2026-04-27 11:18; |
+| ツバメ | *Hirundo rustica* | 4月, 6月 | iNaturalist (research grade); eBird; observations: 5; latest: 2026-04-28 14:22;  |
+| ツミ | *Tachyspiza gularis* | 2月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-27 11:18;  |
+| トビ | *Milvus migrans* | 1月, 2月, 4月 | iNaturalist (research grade); eBird; observations: 5; latest: 2026-04-08 08:00;  |
 | ニシオジロビタキ | *Ficedula parva* | 3月 | iNaturalist (research grade); observations: 1 |
-| ニシセグロカモメ | *Larus fuscus* | 3月 | iNaturalist (research grade); observations: 1 |
+| ニシセグロカモメ | *Larus fuscus* | 3月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-06 14:09;  |
 | ノスリ | *Buteo japonicus* | 1月, 2月, 3月, 5月 | iNaturalist (research grade); observations: 13 |
-| ハイタカ | *Accipiter nisus* | 1月, 3月, 11月 | iNaturalist (research grade); observations: 6 |
+| ハイタカ | *Accipiter nisus* | 1月, 3月, 11月 | iNaturalist (research grade); eBird; observations: 6; latest: 2026-04-19 09:25;  |
 | ハクセキレイ | *Motacilla alba lugens* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 171 |
-| ハシビロガモ | *Spatula clypeata* | 1月, 2月, 3月, 4月, 6月, 7月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 83 |
-| ハシブトガラス | *Corvus macrorhynchos* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 145 |
-| ハシボソガラス | *Corvus corone* | 3月, 10月, 11月 | iNaturalist (research grade); observations: 3 |
+| ハクセキレイ | *Motacilla alba* | 通年/不明 | eBird; latest: 2026-04-27 16:41; near: 中央区--浜離宮恩賜庭園 (Chuo Ward--Hamarikyu Garden |
+| ハシビロガモ | *Spatula clypeata* | 1月, 2月, 3月, 4月, 6月, 7月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 83; latest: 2026-04-26 06:42; |
+| ハシブトガラス | *Corvus macrorhynchos* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 145; latest: 2026-04-30 08:30 |
+| ハシボソガラス | *Corvus corone* | 3月, 10月, 11月 | iNaturalist (research grade); eBird; observations: 3; latest: 2026-04-28 07:15;  |
 | ハヤブサ | *Falco peregrinus* | 1月, 3月 | iNaturalist (research grade); observations: 3 |
 | バン | *Gallinula chloropus* | 1月, 3月, 11月 | iNaturalist (research grade); observations: 6 |
-| ヒドリガモ | *Mareca penelope* | 1月, 2月, 3月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 66 |
+| ヒガラ | *Periparus ater* | 通年/不明 | eBird; latest: 2026-04-30 08:30; count: 1; near: 港区--東京タワー (Minato Ward--Tokyo T |
+| ヒドリガモ | *Mareca penelope* | 1月, 2月, 3月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 66; latest: 2026-04-28 14:22; |
 | ヒメアマツバメ | *Apus nipalensis* | 12月 | iNaturalist (research grade); observations: 1 |
-| ヒヨドリ | *Hypsipetes amaurotis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 98 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 98; latest: 2026-04-30 08:30; |
 | ビンズイ | *Anthus hodgsoni* | 3月 | iNaturalist (research grade); observations: 1 |
 | ホオジロガモ | *Bucephala clangula* | 1月 | iNaturalist (research grade); observations: 2 |
-| ホシハジロ | *Aythya ferina* | 1月, 2月, 3月, 4月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 88 |
-| ホンセイインコ | *Psittacula krameri* | 1月 | iNaturalist (research grade); observations: 1 |
+| ホシハジロ | *Aythya ferina* | 1月, 2月, 3月, 4月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 88; latest: 2026-04-28 14:22; |
+| ホンセイインコ | *Psittacula krameri* | 1月 | iNaturalist (research grade); eBird; observations: 1; latest: 2026-04-06 14:09;  |
 | マガモ | *Anas platyrhynchos* | 1月, 2月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 13 |
 | マルガモ | *Anas platyrhynchos × zonorhyncha* | 3月 | iNaturalist (research grade); observations: 1 |
 | ミコアイサ | *Mergellus albellus* | 12月 | iNaturalist (research grade); observations: 1 |
 | ミサゴ | *Pandion haliaetus* | 1月 | iNaturalist (research grade); observations: 1 |
-| ムクドリ | *Spodiopsar cineraceus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 9月, 10月, 12月 | iNaturalist (research grade); observations: 88 |
-| メジロ | *Zosterops japonicus* | 1月, 2月, 3月, 4月, 7月, 8月, 11月 | iNaturalist (research grade); observations: 32 |
+| ムクドリ | *Spodiopsar cineraceus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 9月, 10月, 12月 | iNaturalist (research grade); eBird; observations: 88; latest: 2026-04-30 08:30; |
+| メジロ | *Zosterops japonicus* | 1月, 2月, 3月, 4月, 7月, 8月, 11月 | iNaturalist (research grade); eBird; observations: 32; latest: 2026-04-28 07:15; |
 | モズ | *Lanius bucephalus* | 1月 | iNaturalist (research grade); observations: 1 |
 | ヤマガラ | *Sittiparus varius amamii* | 1月, 2月, 3月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 16 |
-| ユリカモメ | *Chroicocephalus ridibundus* | 1月, 2月, 3月, 11月, 12月 | iNaturalist (research grade); observations: 19 |
-| ヨシガモ | *Mareca falcata* | 1月, 2月, 3月, 4月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 239 |
+| ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-07 09:52; count: 1; near: 千代田区--皇居--天神堀 (Chiyoda Ward--Im |
+| ユリカモメ | *Chroicocephalus ridibundus* | 1月, 2月, 3月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 19; latest: 2026-04-11 14:23; |
+| ヨシガモ | *Mareca falcata* | 1月, 2月, 3月, 4月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); eBird; observations: 239; latest: 2026-04-22 10:44 |
 | ルリビタキ | *Tarsiger cyanurus* | 2月 | iNaturalist (research grade); observations: 1 |
 
 ## 🦌 哺乳類 (3)

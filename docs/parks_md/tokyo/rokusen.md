@@ -2,14 +2,14 @@
 
 **所在**: tokyo / 東久留米市 | **位置**: 35.7501, 139.5226 | **公式**: <https://www.tokyo-park.or.jp/park/rokusen/index.html>
 
-**観察記録**: 222 件 / 10 カテゴリ
+**観察記録**: 223 件 / 10 カテゴリ
 
-## 🦜 鳥類 (37)
+## 🦜 鳥類 (38)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; GBIF occurrences: 6 |
-| イソヒヨドリ | *Monticola solitarius* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| イソヒヨドリ | *Monticola solitarius* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オカヨシガモ | *Mareca strepera* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -25,6 +25,7 @@
 | キセキレイ | *Motacilla cinerea* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | コサギ | *Egretta garzetta* | 3月, 11月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 4 |
+| コジュケイ | *Bambusicola thoracicus* | 通年/不明 | eBird; latest: 2026-04-24 07:29; count: 1; near: ４ ３丁目, 東久留米市, 東京都, JP (35.754,  |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | シメ | *Coccothraustes coccothraustes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

@@ -16,7 +16,7 @@
 | アカハラ | *Turdus chrysolaus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イカル | *Eophona personata* | 1月, 3月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 6 |
 | イソシギ | *Actitis hypoleucos* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 44 |
-| イソヒヨドリ | *Monticola solitarius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イソヒヨドリ | *Monticola solitarius* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-13 08:02; count: 1; near: 相模原市 |
 | イワツバメ | *Delichon dasypus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | ウグイス | *Cettia diphone* | 3月, 4月, 5月 | iNaturalist (research grade); observations: 3 |

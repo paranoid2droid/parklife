@@ -2,18 +2,35 @@
 
 **所在**: chiba / - | **位置**: 35.4036, 140.3739 | **公式**: <https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/chousei/index.html>
 
-**観察記録**: 81 件 / 7 カテゴリ
+**観察記録**: 98 件 / 7 カテゴリ
 
-## 🦜 鳥類 (6)
+## 🦜 鳥類 (23)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| アオサギ | *Ardea cinerea* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 1; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
 | イソシギ | *Actitis hypoleucos* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| イソヒヨドリ | *Monticola solitarius* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 1; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ウグイス | *Horornis diphone* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 1; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| オオバン | *Fulica atra* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 1; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
 | カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| カルガモ | *Anas zonorhyncha* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 13; near: 長生村--東庄町--一宮川の河口 (Chosei--Kuju |
+| カワウ | *Phalacrocorax carbo* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 1; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| カワラバト | *Columba livia* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 5; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| キジバト | *Streptopelia orientalis* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 2; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
 | クロガモ | *Melanitta americana* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | コガモ | *Anas crecca* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 6 |
+| コサギ | *Egretta garzetta* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 3; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| スズガモ | *Aythya marila* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 107; near: 長生村--東庄町--一宮川の河口 (Chosei--Kuj |
+| トビ | *Milvus migrans* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 2; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ハクセキレイ | *Motacilla alba* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 2; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 3; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ハシボソガラス | *Corvus corone* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 3; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ヒドリガモ | *Mareca penelope* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 2; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ヒバリ | *Alauda arvensis* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 2; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
+| ホオジロ | *Emberiza cioides* | 通年/不明 | eBird; latest: 2026-04-05 12:30; count: 1; near: 長生村--東庄町--一宮川の河口 (Chosei--Kujuk |
 | マガモ | *Anas platyrhynchos* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| ミサゴ | *Pandion haliaetus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ミサゴ | *Pandion haliaetus* | 4月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 
 ## 🐟 魚類 (1)
 

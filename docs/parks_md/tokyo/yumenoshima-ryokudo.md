@@ -2,86 +2,99 @@
 
 **所在**: tokyo / 江東区 | **位置**: 35.6494, 139.8388 | **公式**: <https://www.tokyo-park.or.jp/park/yumenoshima-ryokudo/index.html>
 
-**観察記録**: 270 件 / 11 カテゴリ
+**観察記録**: 283 件 / 11 カテゴリ
 
-## 🦜 鳥類 (75)
+## 🦜 鳥類 (88)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| アオサギ | *Ardea cinerea* | 3月, 5月, 8月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 9; GBIF occurrences: 32 |
+| アオサギ | *Ardea cinerea* | 3月, 5月, 8月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 9; GBIF occurrences: 32 |
+| アオジ | *Emberiza personata* | 通年/不明 | eBird; latest: 2026-04-15 10:23; count: 1; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64210, 1 |
 | アカエリカイツブリ | *Podiceps grisegena* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| イソシギ | *Actitis hypoleucos* | 1月, 3月, 5月, 8月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 9; GBIF occurrences: 22 |
+| アジサシ | *Sterna hirundo* | 通年/不明 | eBird; latest: 2026-04-13 08:35; count: 1; near: 江戸川区--葛西臨海公園--西なぎさ (Edogawa War |
+| アマツバメ | *Apus pacificus* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 1; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
+| イソシギ | *Actitis hypoleucos* | 1月, 3月, 5月, 8月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 9; GBIF occurrences: 22 |
 | イソヒヨドリ | *Monticola solitarius* | 2月, 3月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 8; GBIF occurrences: 11 |
-| ウミアイサ | *Mergus serrator* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
+| ウグイス | *Horornis diphone* | 通年/不明 | eBird; latest: 2026-04-13 10:29; count: 1; near: 江戸川区--葛西臨海公園--芦ヶ池 (Edogawa Ward |
+| ウミアイサ | *Mergus serrator* | 1月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 5; |
 | ウミウ | *Phalacrocorax capillatus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
-| ウミネコ | *Larus crassirostris* | 3月, 7月, 8月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 19 |
+| ウミネコ | *Larus crassirostris* | 3月, 7月, 8月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 19 |
 | エゾビタキ | *Muscicapa griseisticta* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| オオセグロカモメ | *Larus schistisagus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| オオバン | *Fulica atra* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 14 |
-| オオヨシキリ | *Acrocephalus orientalis* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| オカヨシガモ | *Mareca strepera* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| オナガ | *Cyanopica cyanus* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
+| オオセグロカモメ | *Larus schistisagus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-26 09:19; count: 1; near: 葛西臨海 |
+| オオソリハシシギ | *Limosa lapponica* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 1; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
+| オオバン | *Fulica atra* | 1月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 14 |
+| オオヨシキリ | *Acrocephalus orientalis* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
+| オカヨシガモ | *Mareca strepera* | 11月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
+| オナガ | *Cyanopica cyanus* | 12月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 5; |
 | オナガガモ | *Anas acuta* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
 | オバシギ | *Calidris tenuirostris* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| カイツブリ | *Tachybaptus ruficollis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カイツブリ | *Tachybaptus ruficollis* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-26 09:19; count: 2; near: 葛西臨海 |
 | カモメ | *Larus canus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| カルガモ | *Anas zonorhyncha* | 3月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 16 |
-| カワウ | *Phalacrocorax carbo* | 1月, 5月, 7月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 7; GBIF occurrences: 38 |
+| カルガモ | *Anas zonorhyncha* | 3月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 16 |
+| カワウ | *Phalacrocorax carbo* | 1月, 5月, 7月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 7; GBIF occurrences: 38 |
 | カワセミ | *Alcedo atthis* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| カワラバト | *Columba livia* | 3月, 9月, 11月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 26 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| カワラバト | *Columba livia* | 3月, 9月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 26 |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 3; latest: 2026-04-26 09:19; count: 3; near: 葛西臨海 |
 | カワラヒワ | *Carduelis sinica minor* | 10月 | iNaturalist (research grade); observations: 1 |
-| カンムリカイツブリ | *Podiceps cristatus* | 1月, 2月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 18 |
-| キアシシギ | *Tringa brevipes* | 5月, 7月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 5 |
-| キジバト | *Streptopelia orientalis* | 2月, 5月, 7月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 10 |
-| キビタキ | *Ficedula narcissina* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| キョウジョシギ | *Arenaria interpres* | 5月, 7月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 5 |
-| キンクロハジロ | *Aythya fuligula* | 1月, 11月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
+| カンムリカイツブリ | *Podiceps cristatus* | 1月, 2月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 6; GBIF occurrences: 18 |
+| キアシシギ | *Tringa brevipes* | 5月, 7月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 5; |
+| キジバト | *Streptopelia orientalis* | 2月, 5月, 7月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 10 |
+| キビタキ | *Ficedula narcissina* | 9月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
+| キョウジョシギ | *Arenaria interpres* | 5月, 7月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 5; |
+| キンクロハジロ | *Aythya fuligula* | 1月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 2; |
 | クロサギ | *Egretta sacra* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コサギ | *Egretta garzetta* | 5月, 7月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 21 |
+| クロジ | *Emberiza variabilis* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 1; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
+| コアジサシ | *Sternula albifrons* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 2; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
+| コガモ | *Anas crecca* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 20; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252,  |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-15 10:23; count: 2; near: 葛西臨海 |
+| コサギ | *Egretta garzetta* | 5月, 7月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 6; GBIF occurrences: 21 |
 | コチドリ | *Charadrius dubius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コチドリ | *Thinornis dubius* | 5月 | iNaturalist (research grade); observations: 2 |
+| コチドリ | *Thinornis dubius* | 5月 | iNaturalist (research grade); eBird; observations: 2; latest: 2026-04-26 09:19;  |
 | ゴイサギ | *Nycticorax nycticorax* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| シジュウカラ | *Parus cinereus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
+| シジュウカラ | *Parus cinereus* | 4月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 5; |
 | シロチドリ | *Charadrius alexandrinus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 2; latest: 2026-04-15 10:23; count: 1; near: 葛西臨海 |
 | ジョウビタキ | *Phoenicurus auroreus* | 3月, 11月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 4 |
-| スズガモ | *Aythya marila* | 2月, 3月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 15 |
-| スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 18 |
+| スズガモ | *Aythya marila* | 2月, 3月, 10月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 15 |
+| スズメ | *Passer montanus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 18; latest: 2026-04-26 09:19; count: 40; near: 葛西 |
 | ズグロカモメ | *Chroicocephalus saundersi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ズグロカモメ | *Saundersilarus saundersi* | 1月 | iNaturalist (research grade); observations: 1 |
-| セグロカモメ | *Larus vegae* | 2月, 3月, 5月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
+| セグロカモメ | *Larus vegae* | 2月, 3月, 5月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 3; |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タヒバリ | *Anthus japonicus* | 3月, 4月 | iNaturalist (research grade); observations: 2 |
-| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 12 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 12; latest: 2026-04-26 09:19; count: 8; near: 葛西臨 |
 | ダイサギ | *Casmerodius albus* | 11月 | iNaturalist (research grade); observations: 1 |
-| ダイゼン | *Pluvialis squatarola* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ダイシャクシギ | *Numenius arquata* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 1; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
+| ダイゼン | *Pluvialis squatarola* | 9月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | チュウサギ | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| チュウシャクシギ | *Numenius phaeopus* | 5月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
+| チュウシャクシギ | *Numenius phaeopus* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 2; |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| ツグミ | *Turdus eunomus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
-| ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| トビ | *Milvus migrans* | 1月, 8月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 20 |
+| ツグミ | *Turdus eunomus* | 3月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 4; |
+| ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-26 09:19; count: 20; near: 葛西臨 |
+| トビ | *Milvus migrans* | 1月, 8月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 6; GBIF occurrences: 20 |
 | ハイタカ | *Accipiter nisus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 18 |
+| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 18; latest: 2026-04-26 09:19; count: 5; near: 葛西臨 |
 | ハクセキレイ | *Motacilla alba lugens* | 2月, 5月, 12月 | iNaturalist (research grade); observations: 5 |
-| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 20 |
-| ハシボソガラス | *Corvus corone* | 2月, 3月, 9月, 12月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 9 |
-| ハジロカイツブリ | *Podiceps nigricollis* | 2月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 11 |
+| ハシビロガモ | *Spatula clypeata* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 2; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 20; latest: 2026-04-26 09:19; count: 30; near: 葛西 |
+| ハシボソガラス | *Corvus corone* | 2月, 3月, 9月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 4; GBIF occurrences: 9; |
+| ハジロカイツブリ | *Podiceps nigricollis* | 2月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 11 |
 | ハチジョウツグミ | *Turdus naumanni* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハマシギ | *Calidris alpina* | 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 6 |
-| ヒドリガモ | *Mareca penelope* | 10月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 8; GBIF occurrences: 20 |
-| ヒバリ | *Alauda arvensis* | 1月, 5月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 3 |
-| ヒヨドリ | *Hypsipetes amaurotis* | 3月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 21 |
+| ヒドリガモ | *Mareca penelope* | 10月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 8; GBIF occurrences: 20 |
+| ヒバリ | *Alauda arvensis* | 1月, 5月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 3; |
+| ヒヨドリ | *Hypsipetes amaurotis* | 3月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 21 |
 | ビンズイ | *Anthus hodgsoni* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ホウロクシギ | *Numenius madagascariensis* | 通年/不明 | eBird; latest: 2026-04-15 10:23; count: 1; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64210, 1 |
 | ホシハジロ | *Aythya ferina* | 3月, 11月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 9 |
-| マガモ | *Anas platyrhynchos* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
-| ミサゴ | *Pandion haliaetus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| ムクドリ | *Spodiopsar cineraceus* | 5月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 8 |
-| メジロ | *Zosterops japonicus* | 1月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 9 |
+| マガモ | *Anas platyrhynchos* | 10月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 2; |
+| ミサゴ | *Pandion haliaetus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-26 09:19; count: 1; near: 葛西臨海 |
+| ミヤコドリ | *Haematopus ostralegus* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 30; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252,  |
+| ムクドリ | *Spodiopsar cineraceus* | 5月, 10月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 8; |
+| メジロ | *Zosterops japonicus* | 1月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 9; |
+| メダイチドリ（広義） | *Anarhynchus mongolus* | 通年/不明 | eBird; latest: 2026-04-26 09:19; count: 3; near: 葛西臨海公園, 江戸川区 JP-東京都 35.64252, 1 |
 | モズ | *Lanius bucephalus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| ユリカモメ | *Chroicocephalus ridibundus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 12 |
+| ユリカモメ | *Chroicocephalus ridibundus* | 11月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 12 |
 | ヨシガモ | *Mareca falcata* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
 ## 🦌 哺乳類 (1)

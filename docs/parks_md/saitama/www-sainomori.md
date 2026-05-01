@@ -24,7 +24,7 @@
 | カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カワセミ | *Alcedo atthis* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 13 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 11 |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 11; latest: 2026-04-06 10:24; count: 1; near: 狭山市 |
 | ガビチョウ | *Garrulax canorus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | キクイタダキ | *Regulus regulus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キジバト | *Streptopelia orientalis* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 35 |
@@ -43,17 +43,17 @@
 | ソウシチョウ | *Leiothrix lutea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ツグミ | *Turdus eunomus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 13 |
+| ツグミ | *Turdus eunomus* | 4月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 13 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | トラツグミ | *Zoothera aurea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 22 |
 | ハクセキレイ | *Motacilla alba lugens* | 11月 | iNaturalist (research grade); observations: 1 |
-| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 35 |
-| ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; GBIF occurrences: 17 |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 35; latest: 2026-04-06 10:24; count: 4; near: 狭山市 |
+| ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 17; latest: 2026-04-06 10:24; count: 2; near: 狭山市 |
 | バン | *Gallinula chloropus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒメアマツバメ | *Apus nipalensis* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| ヒヨドリ | *Hypsipetes amaurotis* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 44 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 11月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 44 |
 | ビンズイ | *Anthus hodgsoni* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | ホオジロ | *Emberiza cioides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | マガモ | *Anas platyrhynchos* | 通年/不明 | GBIF; GBIF occurrences: 8 |

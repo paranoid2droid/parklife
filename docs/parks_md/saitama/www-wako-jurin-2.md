@@ -2,15 +2,16 @@
 
 **所在**: saitama / - | **位置**: 35.7766, 139.5563 | **公式**: <https://www.seibu-green.co.jp/wako-jurin/about.html>
 
-**観察記録**: 116 件 / 7 カテゴリ
+**観察記録**: 122 件 / 7 カテゴリ
 
-## 🦜 鳥類 (23)
+## 🦜 鳥類 (29)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イソシギ | *Actitis hypoleucos* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イワツバメ | *Delichon dasypus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ウグイス | *Horornis diphone* | 通年/不明 | eBird; latest: 2026-04-11 14:08; count: 1; near: 新座市--金鳳山平林寺 (Niiza--Kinposan He |
 | オナガ | *Cyanopica cyanus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カルガモ | *Anas zonorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; GBIF occurrences: 3 |
@@ -18,19 +19,24 @@
 | カワラバト | *Columba livia* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | キジバト | *Streptopelia orientalis* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | eBird; latest: 2026-04-11 14:08; count: 4; near: 新座市--金鳳山平林寺 (Niiza--Kinposan He |
 | コミミズク | *Asio flammeus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| シジュウカラ | *Parus cinereus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
+| シジュウカラ | *Parus cinereus* | 11月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 4; |
+| シメ | *Coccothraustes coccothraustes* | 通年/不明 | eBird; latest: 2026-04-11 14:08; count: 5; near: 新座市--金鳳山平林寺 (Niiza--Kinposan He |
+| シロハラ | *Turdus pallidus* | 通年/不明 | eBird; latest: 2026-04-11 14:08; count: 2; near: 新座市--金鳳山平林寺 (Niiza--Kinposan He |
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 5; latest: 2026-04-11 14:08; count: 20; near: 新座市 |
+| ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-11 14:08; count: 2; near: 新座市- |
 | ヒバリ | *Alauda arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-11 14:08; count: 7; near: 新座市- |
 | ビンズイ | *Anthus hodgsoni* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ホンセイインコ | *Psittacula krameri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| メジロ | *Zosterops japonicus* | 通年/不明 | eBird; latest: 2026-04-11 14:08; count: 4; near: 新座市--金鳳山平林寺 (Niiza--Kinposan He |
+| ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-11 14:08; count: 1; near: 新座市--金鳳山平林寺 (Niiza--Kinposan He |
 
 ## 🐟 魚類 (1)
 

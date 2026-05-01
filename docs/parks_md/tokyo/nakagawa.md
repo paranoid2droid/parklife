@@ -15,9 +15,9 @@
 | オオバン | *Fulica atra* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オナガ | *Cyanopica cyanus* | 6月, 7月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 4 |
 | カルガモ | *Anas zonorhyncha* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| カワラバト | *Columba livia* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; eBird; GBIF occurrences: 2; latest: 2026-04-03 13:46; count: 1; near: 22 3 |
+| カワラバト | *Columba livia* | 9月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 5; |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-03 13:46; count: 1; near: 22 3 |
 | カンムリカイツブリ | *Podiceps cristatus* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
 | キアシシギ | *Tringa brevipes* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | キジバト | *Streptopelia orientalis* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |

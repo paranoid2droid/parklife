@@ -18,7 +18,7 @@
 | エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オオジュリン | *Emberiza schoeniclus* | 4月 | iNaturalist (research grade); observations: 1 |
 | オオバン | *Fulica atra* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 38 |
-| オナガ | *Cyanopica cyanus* | 通年/不明 | GBIF; GBIF occurrences: 16 |
+| オナガ | *Cyanopica cyanus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 16; latest: 2026-04-19 12:34; count: 1; near: 足立区 |
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | カイツブリ | *Tachybaptus ruficollis* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 47 |
 | カシラダカ | *Emberiza rustica* | 通年/不明 | GBIF; GBIF occurrences: 1 |

@@ -11,7 +11,7 @@
 | Ardea modesta | *Ardea modesta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Poecile varius | *Poecile varius* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | アオアシシギ | *Tringa nebularia* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| アオサギ | *Ardea cinerea* | 1月, 5月, 11月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 44 |
+| アオサギ | *Ardea cinerea* | 1月, 5月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 4; GBIF occurrences: 44 |
 | アオジ | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 19 |
 | アオジ | *Emberiza spodocephala personata* | 1月 | iNaturalist (research grade); observations: 1 |
 | アオバト | *Treron sieboldii* | 通年/不明 | GBIF; GBIF occurrences: 1 |

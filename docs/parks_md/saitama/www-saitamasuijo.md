@@ -2,26 +2,41 @@
 
 **所在**: saitama / - | **位置**: 35.9693, 139.6082 | **公式**: <http://www.parks.or.jp/saitamasuijo/>
 
-**観察記録**: 53 件 / 5 カテゴリ
+**観察記録**: 68 件 / 5 カテゴリ
 
-## 🦜 鳥類 (14)
+## 🦜 鳥類 (29)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-05 07:19; count: 2; near: 上尾運動 |
+| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-05 07:19; count: 1; near: 上尾運動 |
 | ウグイス | *Cettia diphone* | 2月 | iNaturalist (research grade); observations: 1 |
+| エナガ | *Aegithalos caudatus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 4; near: 上尾運動公園; eBird code: lottit1 |
+| オナガ | *Cyanopica cyanus* | 通年/不明 | eBird; latest: 2026-04-05 08:20; count: 1; near: 上尾運動公園; eBird code: azwmag2 |
 | カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| カワラバト | *Columba livia* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 6; near: 上尾運動公園; eBird code: rocpig |
+| キジバト | *Streptopelia orientalis* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 8; near: 上尾運動公園; eBird code: ortdov |
 | コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 3; near: 上尾運動公園; eBird code: pygwoo1 |
+| コチドリ | *Thinornis dubius* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: lirplo |
+| シジュウカラ | *Parus cinereus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 16; near: 上尾運動公園; eBird code: cintit13 |
 | シメ | *Coccothraustes coccothraustes* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ジョウビタキ | *Phoenicurus auroreus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ダイサギ | *Casmerodius albus* | 10月 | iNaturalist (research grade); observations: 1 |
+| ツグミ | *Turdus eunomus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: dusthr2 |
+| ツバメ | *Hirundo rustica* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: barswa |
+| ツミ | *Tachyspiza gularis* | 通年/不明 | eBird; latest: 2026-04-05 08:20; count: 2; near: 上尾運動公園; eBird code: japspa1 |
 | ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハクセキレイ | *Motacilla alba lugens* | 2月 | iNaturalist (research grade); observations: 1 |
-| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ホオジロ | *Emberiza cioides* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-05 07:19; count: 4; near: 上尾運動 |
+| ハシボソガラス | *Corvus corone* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: carcro1 |
+| ヒガラ | *Periparus ater* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 4; near: 上尾運動公園; eBird code: coatit2 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 26; near: 上尾運動公園; eBird code: brebul1 |
+| ホオジロ | *Emberiza cioides* | 3月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | マガモ | *Anas platyrhynchos* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| メジロ | *Zosterops japonicus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 12; near: 上尾運動公園; eBird code: warwhe1 |
+| ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 5; near: 上尾運動公園; eBird code: vartit1 |
 
 ## 🐛 昆虫 (32)
 
