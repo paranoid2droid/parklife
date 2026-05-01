@@ -197,8 +197,14 @@ main { display: flex; height: calc(100vh - 50px); }
                             border: 1px solid #ccc; background: #fff; }
 .group { margin-top: 14px; }
 .group.hidden { display: none; }
-.group h3 { font-size: 13px; margin: 0 0 6px; color: #444; border-bottom: 1px solid #eee;
-            padding-bottom: 2px; }
+.group-head { width: 100%; border: none; border-bottom: 1px solid #eee; background: transparent;
+              padding: 3px 0 4px; margin: 0 0 6px; display: flex; align-items: center;
+              gap: 6px; color: #444; font: inherit; font-size: 13px; font-weight: 600;
+              text-align: left; cursor: pointer; }
+.group-head:hover { color: #2a6b3b; }
+.group-head .chev { width: 1.2em; color: #777; text-align: center; }
+.group.collapsed .grid, .group.collapsed .legend { display: none; }
+.group.collapsed .group-head { margin-bottom: 0; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px,1fr)); gap: 6px; }
 .card { background: #f4f4f4; border-radius: 4px; overflow: hidden;
         font-size: 11px; line-height: 1.3; cursor: pointer; }
@@ -379,16 +385,23 @@ let selectedParkIdx = null;
 // Per-park species panel: persistent group-checkbox + sort state
 const HIDDEN_GROUPS_KEY = 'parklife.hiddenGroups';
 const SORT_KEY = 'parklife.speciesSort';
+const COLLAPSED_GROUPS_KEY = 'parklife.collapsedGroups';
 let hiddenGroups = new Set();
 try { hiddenGroups = new Set(JSON.parse(localStorage.getItem(HIDDEN_GROUPS_KEY) || '[]')); }
 catch (e) { hiddenGroups = new Set(); }
 let sortMode = localStorage.getItem(SORT_KEY) || 'freq'; // 'freq' | 'name' | 'sci'
 if (sortMode === 'ja') sortMode = 'name'; // migration from old key
+let collapsedGroups = new Set();
+try { collapsedGroups = new Set(JSON.parse(localStorage.getItem(COLLAPSED_GROUPS_KEY) || '[]')); }
+catch (e) { collapsedGroups = new Set(); }
 
 function persistHidden() {
   try { localStorage.setItem(HIDDEN_GROUPS_KEY, JSON.stringify([...hiddenGroups])); } catch(e) {}
 }
 function persistSort() { try { localStorage.setItem(SORT_KEY, sortMode); } catch(e) {} }
+function persistCollapsed() {
+  try { localStorage.setItem(COLLAPSED_GROUPS_KEY, JSON.stringify([...collapsedGroups])); } catch(e) {}
+}
 
 function sortGroupItems(items) {
   if (sortMode === 'name') {
@@ -543,7 +556,12 @@ function selectPark(pi) {
   for (const g of groupKeys) {
     const items = sortGroupItems(groups[g]);
     const hidden = hiddenGroups.has(g) ? ' hidden' : '';
-    html += `<div class="group${hidden}" data-group="${g}"><h3>${groupLabel(g)} (${items.length})</h3>`;
+    const collapsed = collapsedGroups.has(g) ? ' collapsed' : '';
+    const chev = collapsedGroups.has(g) ? '▸' : '▾';
+    html += `<div class="group${hidden}${collapsed}" data-group="${g}">`;
+    html += `<button class="group-head" type="button" data-collapse-group="${g}" aria-expanded="${collapsed ? 'false' : 'true'}">`
+         +  `<span class="chev">${chev}</span><span>${groupLabel(g)} (${items.length})</span>`
+         +  `</button>`;
     html += `<div class="grid">`;
     for (const { sp, pair } of items.slice(0, 80)) {
       const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
@@ -582,6 +600,20 @@ function selectPark(pi) {
     sortMode = sortSel.value;
     persistSort();
     selectPark(selectedParkIdx);
+  });
+  sideEl.querySelectorAll('[data-collapse-group]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const g = btn.dataset.collapseGroup;
+      const groupEl = sideEl.querySelector(`.group[data-group="${g}"]`);
+      const willCollapse = !collapsedGroups.has(g);
+      if (willCollapse) collapsedGroups.add(g);
+      else collapsedGroups.delete(g);
+      if (groupEl) groupEl.classList.toggle('collapsed', willCollapse);
+      btn.setAttribute('aria-expanded', willCollapse ? 'false' : 'true');
+      const chev = btn.querySelector('.chev');
+      if (chev) chev.textContent = willCollapse ? '▸' : '▾';
+      persistCollapsed();
+    });
   });
 }
 
