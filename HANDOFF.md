@@ -43,7 +43,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 2. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
 
-3. **Demo: multi-language toggle** — order English → 簡体 → 繁体. `common_name_en` mostly exists; Chinese names via Wikipedia zh interlanguage links or GBIF vernacularNames (overlaps with TODO #4).
+3. **Demo: multi-language toggle** — order English → 簡体 → 繁体. `common_name_en` exists for ~3431 species (GBIF). **zh coverage is still thin** (337 aliases total, ~5% of species) after both GBIF vernaculars and Wikipedia langlinks. Two unexplored options for densifying zh: (a) Wikidata Q-IDs → labels in zh-Hans/zh-Hant (most thorough), (b) harvest zh.wikipedia taxoboxes by scientific name. Decide before committing UI work.
 
 4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
    - **eBird** (birds, highest value) — needs API key, env var `EBIRD_API_KEY`, cache under `data/cache/ebird/`. Endpoint: `data/obs/geo/recent` (lat/lon + radius_km).
@@ -61,6 +61,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
 ## Recent sessions
+
+### 2026-05-01 (Claude) — Wikipedia zh langlinks pass shipped
+- `scripts/wikipedia_zh.py`: batched 50 titles/req against ja.wiki then en.wiki fallback. Hit rate 31/3469 ja + 136/6902 en = ~2% — most species articles have no direct zh interlanguage link.
+- 165 new zh aliases (164 Hans + 1 Hant). zh totals: 334 Hans + 3 Hant = 337.
+- Still too thin for full multi-language UI; TODO #3 updated to flag Wikidata or zh.wiki taxobox harvest as next-step options.
 
 ### 2026-05-01 (Claude) — GBIF vernacular pass shipped
 - Ran `scripts.gbif_vernacular` over 7103 species (~3 hr). 36 unmatched, 3431 English names filled, 682 ja names filled, 170 zh aliases (168 Hans + 2 Hant).
