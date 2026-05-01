@@ -9,9 +9,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 11 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 41 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| Butorides striata | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 24 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 16 |
@@ -57,6 +55,7 @@
 | コジュケイ | *Bambusicola thoracicus thoracicus* | 2月, 3月, 4月, 8月, 12月 | iNaturalist (research grade); observations: 5 |
 | コムクドリ | *Agropsar philippensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ゴイサギ | *Nycticorax nycticorax* | 通年/不明 | GBIF; GBIF occurrences: 9 |
+| ササゴイ | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | シジュウカラ | *Parus cinereus* | 1月, 2月, 3月, 4月, 9月, 12月 | iNaturalist (research grade); GBIF; observations: 20; GBIF occurrences: 36 |
 | シメ | *Coccothraustes coccothraustes* | 1月, 2月, 3月, 11月 | iNaturalist (research grade); GBIF; observations: 12; GBIF occurrences: 16 |
 | シロハラ | *Turdus pallidus* | 1月, 2月, 3月, 4月, 12月 | iNaturalist (research grade); GBIF; observations: 10; GBIF occurrences: 14 |
@@ -64,6 +63,7 @@
 | スズメ | *Passer montanus* | 1月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 26 |
 | セグロセキレイ | *Motacilla grandis* | 2月, 3月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 8; GBIF occurrences: 21 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 41 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 8月, 11月, 12月 | iNaturalist (research grade); observations: 14 |
 | チョウゲンボウ | *Falco tinnunculus* | 1月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 9 |
 | ツグミ | *Turdus eunomus* | 1月, 2月, 3月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 27; GBIF occurrences: 33 |
@@ -330,6 +330,7 @@
 | Boehmeria nivea | *Boehmeria nivea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Bromus catharticus | *Bromus catharticus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Bryum argenteum | *Bryum argenteum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Buta-na | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cerastium glomeratum | *Cerastium glomeratum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Clerodendrum bungei | *Clerodendrum bungei* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cocculus orbiculatus | *Cocculus orbiculatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -348,7 +349,6 @@
 | Geranium carolinianum | *Geranium carolinianum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Humulus scandens | *Humulus scandens* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Hypochaeris radicata | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ipomoea coccinea | *Ipomoea coccinea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ipomoea triloba | *Ipomoea triloba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Juglans ailantifolia | *Juglans ailantifolia* | 通年/不明 | GBIF; GBIF occurrences: 3 |
@@ -385,7 +385,7 @@
 | Verbena brasiliensis | *Verbena brasiliensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Veronica arvensis | *Veronica arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Veronica polita | *Veronica polita* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アケビ | *Akebia quinata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | イヌホオズキ | *Solanum nigrum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -421,6 +421,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Epanerchodus koreanus | *Epanerchodus koreanus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Porcellio scaber | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Scolopendra japonica | *Scolopendra japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Thereuonema tuberculata | *Thereuonema tuberculata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ワラジムシ | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |

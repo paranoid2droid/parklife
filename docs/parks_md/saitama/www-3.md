@@ -10,7 +10,6 @@
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -40,6 +39,7 @@
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ツツドリ | *Cuculus optatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -84,11 +84,11 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Carex breviculmis | *Carex breviculmis* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Carex dimorpholepis | *Carex dimorpholepis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Carex dispalata | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Carex thunbergii | *Carex thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus flaccidus | *Cyperus flaccidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus iria | *Cyperus iria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Fimbristylis dichotoma | *Fimbristylis dichotoma* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Fimbristylis quinquangularis | *Fimbristylis quinquangularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アゼスゲ（Aze-suge） | *Carex thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アゼナルコ（Aze-naruko） | *Carex dimorpholepis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カサスゲ（Kasa-suge） | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 2 |

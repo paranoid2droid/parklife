@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Acridotheres cristatellus | *Acridotheres cristatellus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 20 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -51,6 +50,7 @@
 | スズメ | *Passer montanus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 31; GBIF occurrences: 100 |
 | セグロカモメ | *Larus vegae* | 3月, 11月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 8 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 20 |
 | チュウシャクシギ | *Numenius phaeopus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ツグミ | *Turdus eunomus* | 3月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 18 |
 | ツバメ | *Hirundo rustica* | 6月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 18 |
@@ -238,9 +238,9 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Chrysaora pacifica | *Chrysaora pacifica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Fuligo septica | *Fuligo septica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Hemigrapsus takanoi | *Hemigrapsus takanoi* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Ligia exotica | *Ligia exotica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Palaemon macrodactylus | *Palaemon macrodactylus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Scopimera globosa | *Scopimera globosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| アカクラゲ (aka kurage) | *Chrysaora pacifica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| コメツキガニ | *Scopimera globosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| タカノケフサイソガニ | *Hemigrapsus takanoi* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| フナムシ | *Ligia exotica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ユビナガスジエビ［フトユビスジエビ］ | *Palaemon macrodactylus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

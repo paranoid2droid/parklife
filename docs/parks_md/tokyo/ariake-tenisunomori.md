@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Acridotheres cristatellus | *Acridotheres cristatellus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 80 |
@@ -53,6 +52,7 @@
 | スズメ | *Passer montanus* | 3月, 4月, 6月, 7月, 8月, 9月, 12月 | iNaturalist (research grade); GBIF; observations: 18; GBIF occurrences: 99 |
 | セグロカモメ | *Larus vegae* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | チュウシャクシギ | *Numenius phaeopus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 3月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 21 |
@@ -222,7 +222,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aurelia coerulea | *Aurelia coerulea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chrysaora pacifica | *Chrysaora pacifica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Hemigrapsus takanoi | *Hemigrapsus takanoi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Palaemon macrodactylus | *Palaemon macrodactylus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Scopimera globosa | *Scopimera globosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| アカクラゲ (aka kurage) | *Chrysaora pacifica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| コメツキガニ | *Scopimera globosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| タカノケフサイソガニ | *Hemigrapsus takanoi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ユビナガスジエビ［フトユビスジエビ］ | *Palaemon macrodactylus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

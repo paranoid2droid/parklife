@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 19 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 16 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | Cuculus hyperythrus | *Cuculus hyperythrus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -46,6 +45,7 @@
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 20 |
 | セグロセキレイ | *Motacilla grandis* | 1月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 3 |
 | タヒバリ | *Anthus japonicus* | 12月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 16 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 9 |
@@ -159,19 +159,18 @@
 | Acalypha australis | *Acalypha australis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Boehmeria japonica | *Boehmeria japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cephalanthera longibracteata | *Cephalanthera longibracteata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chamaecyparis pisifera | *Chamaecyparis pisifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cymbalaria muralis | *Cymbalaria muralis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Fatoua villosa | *Fatoua villosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Galinsoga quadriradiata | *Galinsoga quadriradiata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Gentiana zollingeri | *Gentiana zollingeri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Glycine max | *Glycine max* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| Macrothelypteris viridifrons | *Macrothelypteris viridifrons* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Oxalis pes-caprae | *Oxalis pes-caprae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Papaver dubium | *Papaver dubium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Phalaris arundinacea | *Phalaris arundinacea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Phragmites australis | *Phragmites australis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Pueraria montana | *Pueraria montana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Quercus phillyreoides | *Quercus phillyreoides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Sawara | *Chamaecyparis pisifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Spiranthes australis | *Spiranthes australis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Taraxacum officinale | *Taraxacum officinale* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -183,10 +182,11 @@
 | ナンテン | *Nandina domestica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ヒヨドリジョウゴ | *Solanum lyratum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ホウチャクソウ | *Disporum sessile* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ミドリヒメワラビ | *Macrothelypteris viridifrons* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 
 ## ❓ 未分類 (2)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Geothelphusa dehaani | *Geothelphusa dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Paratya improvisa | *Paratya improvisa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| サワガニ | *Geothelphusa dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヌカエビ | *Paratya improvisa* | 通年/不明 | GBIF; GBIF occurrences: 1 |

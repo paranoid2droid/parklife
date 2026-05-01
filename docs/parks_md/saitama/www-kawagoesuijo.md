@@ -10,7 +10,6 @@
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 13 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 11 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 3 |
@@ -51,6 +50,7 @@
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | セグロセキレイ | *Motacilla grandis* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 7 |
 | タシギ | *Gallinago gallinago* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 13 |
 | ダイサギ | *Casmerodius albus* | 1月, 3月 | iNaturalist (research grade); observations: 3 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ツグミ | *Turdus eunomus* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 13 |
@@ -167,9 +167,9 @@
 | Cyperus rotundus | *Cyperus rotundus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus sanguinolentus | *Cyperus sanguinolentus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Juglans ailantifolia | *Juglans ailantifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lespedeza thunbergii | *Lespedeza thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Malva neglecta | *Malva neglecta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mirabilis jalapa | *Mirabilis jalapa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Miyagino-hagi | *Lespedeza thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera speciosa | *Oenothera speciosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ophiopogon planiscapus | *Ophiopogon planiscapus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Stellaria aquatica | *Stellaria aquatica* | 通年/不明 | GBIF; GBIF occurrences: 1 |

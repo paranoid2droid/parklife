@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 44 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 60 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 45 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 8 |
@@ -49,6 +48,7 @@
 | ジョウビタキ | *Phoenicurus auroreus* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | スズメ | *Passer montanus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 75 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ツグミ | *Turdus eunomus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 23 |
 | ツバメ | *Hirundo rustica* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 57 |
@@ -78,7 +78,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 3月, 6月, 7月 | iNaturalist (research grade); observations: 3 |
 
 ## 🐟 魚類 (1)
@@ -162,7 +162,7 @@
 | Panicum bisulcatum | *Panicum bisulcatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Plantago lanceolata | *Plantago lanceolata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | カントウタンポポ | *Taraxacum platycarpum* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | コブシ | *Magnolia kobus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スイセン | *Narcissus tazetta* | 通年/不明 | GBIF; GBIF occurrences: 1 |

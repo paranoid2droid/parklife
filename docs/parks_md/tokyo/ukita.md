@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chroicocephalus saundersi | *Chroicocephalus saundersi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -45,6 +44,7 @@
 | ズグロカモメ | *Saundersilarus saundersi* | 1月 | iNaturalist (research grade); observations: 1 |
 | セグロカモメ | *Larus vegae* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | ダイサギ | *Casmerodius albus* | 9月, 11月, 12月 | iNaturalist (research grade); observations: 3 |
 | チュウシャクシギ | *Numenius phaeopus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
@@ -242,7 +242,6 @@
 | Phragmites australis | *Phragmites australis* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Phyllanthus tenellus | *Phyllanthus tenellus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Portulaca pilosa | *Portulaca pilosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Psilotum nudum | *Psilotum nudum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Rhaphiolepis bibas | *Rhaphiolepis bibas* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Salvia guaranitica | *Salvia guaranitica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Solidago altissima | *Solidago altissima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -264,6 +263,7 @@
 | ノハナショウブ | *Iris ensata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒガンバナ | *Lycoris radiata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ホトケノザ | *Lamium amplexicaule* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| マツバラン | *Psilotum nudum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ユキヤナギ | *Spiraea thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ランタナ | *Lantana camara* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
@@ -271,10 +271,10 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chiromantes haematocheir | *Chiromantes haematocheir* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Hemigrapsus takanoi | *Hemigrapsus takanoi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Orisarma dehaani | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Orisarma intermedium | *Orisarma intermedium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Procambarus clarkii | *Procambarus clarkii* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| Pyrhila pisum | *Pyrhila pisum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アカテガニ | *Chiromantes haematocheir* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| アメリカザリガニ | *Procambarus clarkii* | 通年/不明 | GBIF; GBIF occurrences: 8 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クロベンケイガニ | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| タカノケフサイソガニ | *Hemigrapsus takanoi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ベンケイガニ | *Orisarma intermedium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| マメコブシガニ | *Pyrhila pisum* | 通年/不明 | GBIF; GBIF occurrences: 1 |

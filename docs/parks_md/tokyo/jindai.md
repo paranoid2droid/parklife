@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 14 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 30 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -52,6 +51,7 @@
 | スズメ | *Passer montanus* | 2月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 82 |
 | セグロセキレイ | *Motacilla grandis* | 1月, 12月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 14 |
 | タシギ | *Gallinago gallinago* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 30 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 5月, 9月, 10月, 12月 | iNaturalist (research grade); observations: 10 |
 | ツグミ | *Turdus eunomus* | 2月, 3月, 4月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 14 |
 | ツバメ | *Hirundo rustica* | 4月, 5月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 10 |
@@ -110,9 +110,9 @@
 | Aquarius paludum | *Aquarius paludum* | 通年/不明 | iNaturalist (research grade); observations: 1 |
 | Argynnis hyperbius | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Campsomeris annulata | *Campsomeris annulata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Monosashi-tombo | *Pseudocopera annulata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Necrophila japonica | *Necrophila japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Parnara guttatus | *Parnara guttatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Pseudocopera annulata | *Pseudocopera annulata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Rhinia obsoleta | *Rhinia obsoleta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Tenodera sinensis | *Tenodera sinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオスジアゲハ | *Graphium sarpedon* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -269,6 +269,7 @@
 | Farfugium japonicum | *Farfugium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Oni-tabirako | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis articulata | *Oxalis articulata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Pachysandra terminalis | *Pachysandra terminalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Paederia foetida | *Paederia foetida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -279,8 +280,7 @@
 | Saxifraga stolonifera | *Saxifraga stolonifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Solanum carolinense | *Solanum carolinense* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Youngia japonica | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Zanthoxylum piperitum | *Zanthoxylum piperitum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アジサイ | *Hydrangea macrophylla* | 6月, 7月, 8月 |  |
 | ウツギ | *Deutzia crenata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -345,5 +345,5 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Procambarus clarkii | *Procambarus clarkii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| アメリカザリガニ | *Procambarus clarkii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |

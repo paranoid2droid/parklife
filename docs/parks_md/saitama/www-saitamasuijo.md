@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -17,6 +16,7 @@
 | コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | シメ | *Coccothraustes coccothraustes* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ジョウビタキ | *Phoenicurus auroreus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ダイサギ | *Casmerodius albus* | 10月 | iNaturalist (research grade); observations: 1 |
 | ハクセキレイ | *Motacilla alba lugens* | 2月 | iNaturalist (research grade); observations: 1 |
 | ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -72,8 +72,8 @@
 |---|---|---|---|
 | Cyperus amuricus | *Cyperus amuricus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus microiria | *Cyperus microiria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Dryopteris bissetiana | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヤマイタチシダ | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤマブキ | *Kerria japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (1)

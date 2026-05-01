@@ -26,7 +26,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | アズマヒキガエル | *Bufo formosus* | 3月 | iNaturalist (research grade); observations: 3 |
 | モリアオガエル | *Zhangixalus arboreus* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
@@ -61,7 +61,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Lima vulgaris | *Lima vulgaris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ミノガイ | *Lima vulgaris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## 🌸 植物 (15)
 
@@ -69,7 +69,6 @@
 |---|---|---|---|
 | Aralia elata | *Aralia elata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Daphniphyllum teijsmannii | *Daphniphyllum teijsmannii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lygodium japonicum | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Neolitsea sericea | *Neolitsea sericea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Petasites japonicus | *Petasites japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Prunus speciosa | *Prunus speciosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -77,6 +76,7 @@
 | Trachelospermum gracilipes | *Trachelospermum gracilipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アジサイ | *Hydrangea macrophylla* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カニクサ | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キブシ | *Stachyurus praecox* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | サクユリ | *Lilium auratum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タマアジサイ | *Hydrangea involucrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -87,5 +87,5 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Paratrypauchen microcephalus | *Paratrypauchen microcephalus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Thereuopoda clunifera | *Thereuopoda clunifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アカウオ | *Paratrypauchen microcephalus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

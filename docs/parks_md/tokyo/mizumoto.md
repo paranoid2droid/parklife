@@ -10,7 +10,6 @@
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 18 |
 | Anas acuta × Mareca penelope | *Anas acuta × Mareca penelope* | 1月 | iNaturalist (research grade); observations: 3 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 31 |
 | Ardea modesta | *Ardea modesta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 34 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -79,6 +78,7 @@
 | タシギ | *Gallinago gallinago* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 8 |
 | タヒバリ | *Anthus japonicus* | 1月, 2月 | iNaturalist (research grade); observations: 5 |
 | タマシギ | *Rostratula benghalensis* | 2月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 31 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 4月, 5月, 7月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 28 |
 | チュウサギ | *Ardea intermedia* | 1月 | iNaturalist (research grade); observations: 1 |
 | ツグミ | *Turdus eunomus* | 1月, 2月, 3月, 12月 | iNaturalist (research grade); GBIF; observations: 18; GBIF occurrences: 37 |

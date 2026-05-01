@@ -85,6 +85,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Capsella bursa-pastoris | *Capsella bursa-pastoris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Equisetum palustre | *Equisetum palustre* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Macleaya cordata | *Macleaya cordata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イヌスギナ | *Equisetum palustre* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ホトケノザ | *Lamium amplexicaule* | 通年/不明 | GBIF; GBIF occurrences: 1 |

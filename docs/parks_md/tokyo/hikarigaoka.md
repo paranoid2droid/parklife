@@ -95,7 +95,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | アズマヒキガエル | *Bufo formosus* | 3月, 7月, 9月, 10月 | iNaturalist (research grade); observations: 6 |
 | ニホンアカガエル | *Rana japonica* | 7月, 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 
@@ -112,10 +112,10 @@
 |---|---|---|---|
 | Apatura ilia | *Apatura ilia* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Argynnis hyperbius | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Atrocalopteryx atrata | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Clogmia albipunctatus | *Clogmia albipunctatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Euproctis pseudoconspersa | *Euproctis pseudoconspersa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Eurydema gebleri | *Eurydema gebleri* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
+| Haguro-tombo | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Helophilus eristaloideus | *Helophilus eristaloideus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Necrophila japonica | *Necrophila japonica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Parnara guttatus | *Parnara guttatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -427,11 +427,12 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Carex japonica | *Carex japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Causonis japonica | *Causonis japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cynanchum rostellatum | *Cynanchum rostellatum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Erigeron annuus | *Erigeron annuus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Higo-Kusa | *Carex japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Muscari neglectum | *Muscari neglectum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Oni-tabirako | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis debilis | *Oxalis debilis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis dillenii | *Oxalis dillenii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis pes-caprae | *Oxalis pes-caprae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -439,7 +440,6 @@
 | Potentilla wallichiana | *Potentilla wallichiana* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Trifolium incarnatum | *Trifolium incarnatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Youngia japonica | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウメ | *Prunus mume* | 3月, 4月, 5月 |  |
 | エンジュ | *Styphnolobium japonicum* | 9月, 10月, 11月 |  |
@@ -476,7 +476,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Oxidus gracilis | *Oxidus gracilis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Scolopendra japonica | *Scolopendra japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Thereuonema tuberculata | *Thereuonema tuberculata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 2 |

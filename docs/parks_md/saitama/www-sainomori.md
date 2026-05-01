@@ -9,9 +9,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Butorides striata | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 11 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -36,6 +34,7 @@
 | キセキレイ | *Motacilla cinerea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キビタキ | *Ficedula narcissina* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コサギ | *Egretta garzetta* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
+| ササゴイ | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 29 |
 | シメ | *Coccothraustes coccothraustes* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
@@ -43,6 +42,7 @@
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 26 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | ソウシチョウ | *Leiothrix lutea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 13 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 8 |
@@ -82,7 +82,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 3月 | iNaturalist (research grade); observations: 1 |
 
 ## 🐛 昆虫 (49)
@@ -158,9 +158,6 @@
 | Atocion armeria | *Atocion armeria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Callitriche japonica | *Callitriche japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cardamine hirsuta | *Cardamine hirsuta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex doniana | *Carex doniana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex ischnostachya | *Carex ischnostachya* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex maximowiczii | *Carex maximowiczii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus sanguinolentus | *Cyperus sanguinolentus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Frullania densiloba | *Frullania densiloba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Frullania valida | *Frullania valida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -170,6 +167,9 @@
 | ウツギ | *Deutzia crenata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カタバミ | *Oxalis corniculata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コアジサイ | *Hydrangea hirta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ゴウソ（Goso） | *Carex maximowiczii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| シラスゲ（Shira-suge） | *Carex doniana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ジュズスゲ（Juzusuge） | *Carex ischnostachya* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スギナ | *Equisetum arvense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツルニチニチソウ | *Vinca major* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ホトケノザ | *Lamium amplexicaule* | 通年/不明 | GBIF; GBIF occurrences: 1 |

@@ -210,36 +210,32 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Anisocampium niponicum | *Anisocampium niponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Athyrium yokoscense | *Athyrium yokoscense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Causonis japonica | *Causonis japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Cyrtomium laetevirens | *Cyrtomium laetevirens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Dryopteris bissetiana | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Dryopteris uniformis | *Dryopteris uniformis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Erigeron canadensis | *Erigeron canadensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Geranium carolinianum | *Geranium carolinianum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Macrothelypteris torresiana | *Macrothelypteris torresiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Macrothelypteris viridifrons | *Macrothelypteris viridifrons* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Neolitsea sericea | *Neolitsea sericea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Orlaya grandiflora | *Orlaya grandiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Orobanche minor | *Orobanche minor* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Osmunda japonica | *Osmunda japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Papaver dubium | *Papaver dubium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Sisyrinchium micranthum | *Sisyrinchium micranthum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Sonchus oleraceus | *Sonchus oleraceus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trifolium pratense | *Trifolium pratense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Vicia villosa | *Vicia villosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アジサイ | *Hydrangea macrophylla* | 6月, 7月, 8月 |  |
 | アベリア | *Abelia chinensis* | 6月, 7月, 8月 |  |
+| イヌワラビ | *Anisocampium niponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウツギ | *Deutzia crenata* | 3月, 4月, 5月 |  |
 | ウバユリ | *Cardiocrinum cordatum* | 6月, 7月, 8月 |  |
 | ウワミズザクラ | *Padus grayana* | 3月, 4月, 5月 |  |
 | オオイヌノフグリ | *Veronica persica* | 3月, 4月, 5月 |  |
+| オクマワラビ | *Dryopteris uniformis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オドリコソウ | *Lamium album* | 3月, 4月, 5月 |  |
+| カナヤマシダ | *Athyrium yokoscense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キツネノカミソリ | *Lycoris sanguinea* | 6月, 7月, 8月 |  |
 | キバナコスモス | *Cosmos sulphureus* | 9月, 10月, 11月 |  |
 | キュウリグサ | *Trigonotis peduncularis* | 3月, 4月, 5月 |  |
@@ -259,9 +255,11 @@
 | ジロボウエンゴサク | *Corydalis decumbens* | 3月, 4月, 5月 |  |
 | センニンソウ | *Clematis terniflora* | 6月, 7月, 8月 |  |
 | ゼニアオイ | *Malva mauritiana* | 3月, 4月, 5月 |  |
+| ゼンマイ | *Osmunda japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タマスダレ | *Zephyranthes candida* | 9月, 10月, 11月 |  |
 | ツツジ | *—* | 3月, 4月, 5月 |  |
 | ツバキ | *Camellia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| テリハヤブソテツ | *Cyrtomium laetevirens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トケイソウ | *Passiflora caerulea* | 6月, 7月, 8月 |  |
 | ニリンソウ | *Anemone flaccida* | 3月, 4月, 5月 | バードサンクチュアリ |
 | ニワゼキショウ | *Sisyrinchium rosulatum* | 3月, 4月, 5月 |  |
@@ -274,12 +272,14 @@
 | ヒガンバナ | *Lycoris radiata* | 9月, 10月, 11月 |  |
 | ベニシダ | *Dryopteris erythrosora* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ミズヒキ | *Persicaria filiformis* | 9月, 10月, 11月 | GBIF; GBIF occurrences: 1 |
+| ミドリヒメワラビ | *Macrothelypteris viridifrons* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ムクゲ | *Hibiscus syriacus* | 6月, 7月, 8月 |  |
 | ムラサキケマン | *Corydalis incisa* | 3月, 4月, 5月 |  |
 | ムラサキシキブ | *Callicarpa japonica* | 9月, 10月, 11月 |  |
 | モミジアオイ | *Hibiscus coccineus* | 6月, 7月, 8月 |  |
 | ヤブニンジン | *Osmorhiza aristata* | 3月, 4月, 5月 |  |
 | ヤブミョウガ | *Pollia japonica* | 6月, 7月, 8月 | GBIF; GBIF occurrences: 1 |
+| ヤマイタチシダ | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤマブキソウ | *Hylomecon japonica* | 3月, 4月, 5月 |  |
 | ヤマモモ | *Morella rubra* | 6月, 7月, 8月 |  |
 | ユキヤナギ | *Spiraea thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -290,6 +290,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Porcellio scaber | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Scolopendra japonica | *Scolopendra japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ワラジムシ | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |

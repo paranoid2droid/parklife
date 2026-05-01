@@ -70,7 +70,7 @@
 | Gamochaeta pensylvanica | *Gamochaeta pensylvanica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Hylodesmum podocarpum | *Hylodesmum podocarpum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ipomoea lacunosa | *Ipomoea lacunosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ixeris stolonifera | *Ixeris stolonifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Jishibari | *Ixeris stolonifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lolium arundinaceum | *Lolium arundinaceum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Medicago sativa | *Medicago sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -78,7 +78,7 @@
 | Punica granatum | *Punica granatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Symphyotrichum squamatum | *Symphyotrichum squamatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Veronica arvensis | *Veronica arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハナニラ | *Ipheion uniflorum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハルジオン | *Erigeron philadelphicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒガンバナ | *Lycoris radiata* | 通年/不明 | GBIF; GBIF occurrences: 1 |

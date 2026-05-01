@@ -10,11 +10,9 @@
 |---|---|---|---|
 | Acridotheres cristatellus | *Acridotheres cristatellus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 18 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 22 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Gavia arctica | *Gavia arctica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 43 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 67 |
 | Muscicapa latirostris | *Muscicapa latirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -27,6 +25,7 @@
 | イソヒヨドリ | *Monticola solitarius* | 通年/不明 | GBIF; GBIF occurrences: 46 |
 | イワツバメ | *Delichon dasypus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | エナガ | *Aegithalos caudatus trivirgatus* | 3月 | iNaturalist (research grade); observations: 1 |
+| オオハム | *Gavia arctica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオバン | *Fulica atra* | 3月 | iNaturalist (research grade); GBIF; observations: 15; GBIF occurrences: 61 |
 | オオヨシキリ | *Acrocephalus orientalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オカヨシガモ | *Mareca strepera* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 26 |
@@ -56,6 +55,7 @@
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | センダイムシクイ | *Phylloscopus coronatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ソウシチョウ | *Leiothrix lutea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 18 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 15 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 24 |
@@ -282,15 +282,15 @@
 | Gomphocarpus physocarpus | *Gomphocarpus physocarpus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis pes-caprae | *Oxalis pes-caprae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Persicaria capitata | *Persicaria capitata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Psilotum nudum | *Psilotum nudum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Reboulia hemisphaerica | *Reboulia hemisphaerica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | イロハモミジ | *Acer palmatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウラシマソウ | *Arisaema thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | キランソウ | *Ajuga decumbens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| マツバラン | *Psilotum nudum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (2)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Porcellio scaber | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ワラジムシ | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |

@@ -78,7 +78,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 6月 | iNaturalist (research grade); observations: 1 |
 
 ## 🐟 魚類 (1)
@@ -191,15 +191,14 @@
 | Boehmeria nivea | *Boehmeria nivea* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | Briza maxima | *Briza maxima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Briza minor | *Briza minor* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Carex filipes | *Carex filipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cenchrus alopecuroides | *Cenchrus alopecuroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chaenomeles japonica | *Chaenomeles japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cirsium nipponicum | *Cirsium nipponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Eleutherococcus sieboldianus | *Eleutherococcus sieboldianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Geranium carolinianum | *Geranium carolinianum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Glyphomitrium humillimum | *Glyphomitrium humillimum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Gymnocoronis spilanthoides | *Gymnocoronis spilanthoides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Hordeum vulgare | *Hordeum vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Kusa-boke | *Chaenomeles japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lespedeza homoloba | *Lespedeza homoloba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Matteuccia struthiopteris | *Matteuccia struthiopteris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -226,6 +225,7 @@
 | コナラ | *Quercus serrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ジュウニヒトエ | *Ajuga nipponensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タチツボスミレ | *Viola grypoceras* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| タマツリスゲ（Tamatsuri-suge） | *Carex filipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツリガネニンジン | *Adenophora triphylla* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ノコンギク | *Aster microcephalus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハクモクレン | *Magnolia denudata* | 通年/不明 | GBIF; GBIF occurrences: 1 |

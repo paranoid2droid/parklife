@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 14 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | Ardea modesta | *Ardea modesta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -40,6 +39,7 @@
 | ジョウビタキ | *Phoenicurus auroreus* | 1月, 11月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 6 |
 | スズメ | *Passer montanus* | 2月, 3月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 80 |
 | セグロセキレイ | *Motacilla grandis* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 5 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 11月, 12月 | iNaturalist (research grade); observations: 6 |
 | ツグミ | *Turdus eunomus* | 2月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 5 |
 | ツバメ | *Hirundo rustica* | 5月, 6月, 8月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 1 |
@@ -203,14 +203,14 @@
 | Coix lacryma-jobi | *Coix lacryma-jobi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Farfugium japonicum | *Farfugium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Imperata cylindrica | *Imperata cylindrica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Kaya | *Torreya nucifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Oni-tabirako | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Pachysandra terminalis | *Pachysandra terminalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Papaver dubium | *Papaver dubium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Persicaria longiseta | *Persicaria longiseta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Solanum pseudocapsicum | *Solanum pseudocapsicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Solidago altissima | *Solidago altissima* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Torreya nucifera | *Torreya nucifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trachycarpus fortunei | *Trachycarpus fortunei* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Youngia japonica | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アンズ | *Prunus armeniaca* | 3月, 4月, 5月 |  |
 | イロハモミジ | *Acer palmatum* | 9月, 10月, 11月 |  |
 | ウメ | *Prunus mume* | 1月, 2月, 12月 |  |

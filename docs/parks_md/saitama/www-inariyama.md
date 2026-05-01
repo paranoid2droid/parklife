@@ -9,9 +9,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 13 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 31 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Butorides striata | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 30 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 16 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 19 |
@@ -53,6 +51,7 @@
 | コガモ | *Anas crecca* | 1月, 5月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 23 |
 | コゲラ | *Dendrocopos kizuki* | 12月 | iNaturalist (research grade); observations: 2 |
 | コサギ | *Egretta garzetta* | 1月, 2月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 26 |
+| ササゴイ | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | シジュウカラ | *Parus cinereus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 56 |
 | シメ | *Coccothraustes coccothraustes* | 通年/不明 | GBIF; GBIF occurrences: 13 |
 | シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -65,6 +64,7 @@
 | タゲリ | *Vanellus vanellus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タシギ | *Gallinago gallinago* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | タヒバリ | *Anthus japonicus* | 1月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 31 |
 | ダイサギ | *Casmerodius albus* | 10月 | iNaturalist (research grade); observations: 2 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | ツグミ | *Turdus eunomus* | 1月, 4月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 25 |
@@ -108,7 +108,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 3月 | iNaturalist (research grade); observations: 1 |
 | ウシガエル | *Lithobates catesbeianus* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 

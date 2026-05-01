@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 17 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -48,6 +47,7 @@
 | スズメ | *Passer montanus* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 20 |
 | セグロセキレイ | *Motacilla grandis* | 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 5 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | ダイサギ | *Casmerodius albus* | 8月, 10月 | iNaturalist (research grade); observations: 4 |
 | ツグミ | *Turdus eunomus* | 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 17 |
 | ツツドリ | *Cuculus optatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -162,7 +162,6 @@
 | Migneauxia lederi | *Migneauxia lederi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Molorchus kojimai | *Molorchus kojimai* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Neopristilophus serrifer | *Neopristilophus serrifer* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Nipponoserica pubiventris | *Nipponoserica pubiventris* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Notolaemus lewisi | *Notolaemus lewisi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oomorphoides cupreatus | *Oomorphoides cupreatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Pachylomalus musculus | *Pachylomalus musculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -313,6 +312,7 @@
 | ノシメトンボ | *Sympetrum infuscatum* | 6月 | iNaturalist (research grade); observations: 1 |
 | ハネナガイナゴ | *Oxya japonica* | 10月 | iNaturalist (research grade); observations: 1 |
 | ハネナシコロギス | *Nippancistroger testaceus* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
+| ハラゲビロウドコガネ | *Nipponoserica pubiventris* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ハラビロカマキリ | *Hierodula patellifera* | 4月, 6月, 8月, 10月, 12月 | iNaturalist (research grade); GBIF; observations: 7; GBIF occurrences: 5 |
 | ヒカゲチョウ | *Lethe sicelis* | 6月, 10月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 4 |
 | ヒグラシ | *Tanna japonensis* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -433,4 +433,4 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |

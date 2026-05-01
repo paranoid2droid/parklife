@@ -49,8 +49,8 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Aeschynomene indica | *Aeschynomene indica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Amorpha fruticosa | *Amorpha fruticosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Aogayaturi | *Cyperus nipponicus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Arenaria serpyllifolia | *Arenaria serpyllifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Atriplex gmelinii | *Atriplex gmelinii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Bellardia viscosa | *Bellardia viscosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -59,24 +59,17 @@
 | Briza maxima | *Briza maxima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Calystegia soldanella | *Calystegia soldanella* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Carex brownii | *Carex brownii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex brunnea | *Carex brunnea* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Carex fibrillosa | *Carex fibrillosa* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Carex kobomugi | *Carex kobomugi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Carex lenta | *Carex lenta* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Carex pumila | *Carex pumila* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ceratopteris thalictroides | *Ceratopteris thalictroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chenopodium acuminatum | *Chenopodium acuminatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus brevifolioides | *Cyperus brevifolioides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus brevifolius | *Cyperus brevifolius* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cyperus compressus | *Cyperus compressus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus iria | *Cyperus iria* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cyperus microiria | *Cyperus microiria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Cyperus nipponicus | *Cyperus nipponicus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Cyperus odoratus | *Cyperus odoratus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cyperus pacificus | *Cyperus pacificus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus polystachyos | *Cyperus polystachyos* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cyperus sanguinolentus | *Cyperus sanguinolentus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Deparia japonica | *Deparia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Elaeagnus glabra | *Elaeagnus glabra* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Elatine ambigua | *Elatine ambigua* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Eleocharis choseiensis | *Eleocharis choseiensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -87,13 +80,14 @@
 | Fimbristylis tristachya | *Fimbristylis tristachya* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Fimbristylis velata | *Fimbristylis velata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Glehnia littoralis | *Glehnia littoralis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Hama-nigana | *Ixeris repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Hydrocotyle bonariensis | *Hydrocotyle bonariensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Imperata cylindrica | *Imperata cylindrica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ischaemum aristatum | *Ischaemum aristatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ixeris repens | *Ixeris repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Juncus bufonius | *Juncus bufonius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Kalimeris incisa | *Kalimeris incisa* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Kalimeris pinnatifida | *Kalimeris pinnatifida* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Kusanemu | *Aeschynomene indica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Lathyrus japonicus | *Lathyrus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Lespedeza cuneata | *Lespedeza cuneata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Leymus mollis | *Leymus mollis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -110,8 +104,14 @@
 | Tournefortia sibirica | *Tournefortia sibirica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Veronica undulata | *Veronica undulata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Vicia hirsuta | *Vicia hirsuta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コウボウシバ（Kouboushiba） | *Carex pumila* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コウボウムギ | *Carex kobomugi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コゴメナキリスゲ（Kogome-nakirisuge） | *Carex brunnea* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| シケシダ | *Deparia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ノアザミ | *Cirsium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ノコンギク | *Aster microcephalus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ハマアオスゲ（Hama-ao-suge） | *Carex fibrillosa* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ミズワラビ | *Ceratopteris thalictroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (2)
 

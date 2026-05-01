@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -27,6 +26,7 @@
 | コサギ | *Egretta garzetta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | スズメ | *Passer montanus* | 3月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 6 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハクセキレイ | *Motacilla alba lugens* | 5月, 11月 | iNaturalist (research grade); observations: 2 |
 | ハシブトガラス | *Corvus macrorhynchos* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
@@ -121,6 +121,7 @@
 | Briza minor | *Briza minor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Bromus japonicus | *Bromus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Brotherella yokohamae | *Brotherella yokohamae* | 通年/不明 | GBIF; GBIF occurrences: 6 |
+| Buta-na | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Callicladium haldanianum | *Callicladium haldanianum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Carpesium divaricatum | *Carpesium divaricatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cerastium glomeratum | *Cerastium glomeratum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -140,7 +141,6 @@
 | Haplocladium microphyllum | *Haplocladium microphyllum* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | Herzogiella perrobusta | *Herzogiella perrobusta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Hypochaeris radicata | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Imperata cylindrica | *Imperata cylindrica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Isopterygium albescens | *Isopterygium albescens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Juncus tenuis | *Juncus tenuis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -150,6 +150,7 @@
 | Lophocolea minor | *Lophocolea minor* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Microlejeunea ulicina | *Microlejeunea ulicina* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera laciniata | *Oenothera laciniata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Oni-tabirako | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Oxalis debilis | *Oxalis debilis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxyrrhynchium savatieri | *Oxyrrhynchium savatieri* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Paspalum dilatatum | *Paspalum dilatatum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -177,7 +178,6 @@
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Triodanis perfoliata | *Triodanis perfoliata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Valeriana flaccidissima | *Valeriana flaccidissima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Youngia japonica | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アオイスミレ | *Viola hondoensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウラシマソウ | *Arisaema thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | エノキ | *Celtis sinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |

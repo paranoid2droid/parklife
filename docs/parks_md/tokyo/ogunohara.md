@@ -9,8 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 6 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 29 |
-| Butorides striata | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 40 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 13 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 8 |
@@ -39,6 +37,7 @@
 | コサギ | *Egretta garzetta* | 3月, 4月, 6月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 30 |
 | コチドリ | *Thinornis dubius* | 4月 | iNaturalist (research grade); observations: 1 |
 | コブハクチョウ | *Cygnus olor* | 1月, 2月, 4月, 8月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 4 |
+| ササゴイ | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シジュウカラ | *Parus cinereus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 15 |
 | ジョウビタキ | *Phoenicurus auroreus* | 1月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
 | スズメ | *Passer montanus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 56 |
@@ -46,6 +45,7 @@
 | セグロカモメ | *Larus vegae* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
 | セッカ | *Cisticola juncidis* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 11 |
 | タシギ | *Gallinago gallinago* | 通年/不明 | GBIF; GBIF occurrences: 10 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 29 |
 | チュウシャクシギ | *Numenius phaeopus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | チョウゲンボウ | *Falco tinnunculus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |
 | ツグミ | *Turdus eunomus* | 1月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 15 |
@@ -93,7 +93,7 @@
 | Aiolopus thalassinus | *Aiolopus thalassinus* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | Aquarius paludum | *Aquarius paludum* | 通年/不明 | iNaturalist (research grade); observations: 1 |
 | Argynnis hyperbius | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Atrocalopteryx atrata | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Haguro-tombo | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオスジアゲハ | *Graphium sarpedon* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | アオドウガネ | *Anomala albopilosa* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ウラナミシジミ | *Lampides boeticus* | 通年/不明 | iNaturalist (research grade); observations: 1 |
@@ -168,8 +168,8 @@
 | Solidago altissima | *Solidago altissima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Sonchus oleraceus | *Sonchus oleraceus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Veronica arvensis | *Veronica arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Vicia villosa | *Vicia villosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | エビネ | *Calanthe discolor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キンモクセイ | *Osmanthus fragrans* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キンラン | *Cephalanthera falcata* | 通年/不明 | GBIF; GBIF occurrences: 1 |

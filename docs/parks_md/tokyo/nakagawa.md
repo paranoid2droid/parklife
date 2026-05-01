@@ -115,17 +115,17 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Anisocampium niponicum | *Anisocampium niponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Artemisia princeps | *Artemisia princeps* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cucumis sativus | *Cucumis sativus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus serotinus | *Cyperus serotinus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Persicaria thunbergii | *Persicaria thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Pteris multifida | *Pteris multifida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Sasaella shiobarensis | *Sasaella shiobarensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Spiranthes australis | *Spiranthes australis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Taraxacum officinale | *Taraxacum officinale* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Zanthoxylum ailanthoides | *Zanthoxylum ailanthoides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イヌワラビ | *Anisocampium niponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イノモトソウ | *Pteris multifida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スギナ | *Equisetum arvense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ランタナ | *Lantana camara* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
@@ -133,4 +133,4 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Orisarma dehaani | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クロベンケイガニ | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |

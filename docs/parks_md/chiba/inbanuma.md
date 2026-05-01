@@ -11,9 +11,7 @@
 | Acrocephalus bistrigiceps | *Acrocephalus bistrigiceps* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| Anser fabalis | *Anser fabalis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Anser serrirostris | *Anser serrirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 43 |
 | Ardea modesta | *Ardea modesta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chlidonias hybrida | *Chlidonias hybrida* | 通年/不明 | GBIF; GBIF occurrences: 4 |
@@ -24,7 +22,6 @@
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 19 |
 | Emberiza yessoensis | *Emberiza yessoensis* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Glareola maldivarum | *Glareola maldivarum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 20 |
 | Luscinia svecica | *Luscinia svecica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 30 |
@@ -88,12 +85,14 @@
 | タゲリ | *Vanellus vanellus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | タシギ | *Gallinago gallinago* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | タヒバリ | *Anthus japonicus* | 1月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 43 |
 | ダイサギ | *Casmerodius albus* | 4月, 5月 | iNaturalist (research grade); observations: 2 |
 | ダイゼン | *Pluvialis squatarola* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | チュウシャクシギ | *Numenius phaeopus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | ツグミ | *Turdus eunomus* | 1月, 3月, 11月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 31 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 15 |
+| ツバメチドリ | *Glareola maldivarum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トウネン | *Calidris ruficollis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トビ | *Milvus migrans* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 38 |
 | トモエガモ | *Sibirionetta formosa* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -108,6 +107,7 @@
 | ハジロカイツブリ | *Podiceps nigricollis* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | ハマシギ | *Calidris alpina* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | バン | *Gallinula chloropus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| ヒシクイ | *Anser fabalis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ヒドリガモ | *Mareca penelope* | 通年/不明 | GBIF; GBIF occurrences: 14 |
 | ヒバリ | *Alauda arvensis* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | GBIF; GBIF occurrences: 21 |

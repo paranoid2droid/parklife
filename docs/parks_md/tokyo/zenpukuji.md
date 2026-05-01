@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 34 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 23 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 26 |
@@ -45,6 +44,7 @@
 | シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | ジョウビタキ | *Phoenicurus auroreus* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 34 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 23 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | 園内の野鳥たち |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 13 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 7 |
@@ -210,7 +210,6 @@
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Humulus scandens | *Humulus scandens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Impatiens noli-tangere | *Impatiens noli-tangere* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lygodium japonicum | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mazus pumilus | *Mazus pumilus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis debilis | *Oxalis debilis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -226,6 +225,7 @@
 | イロハモミジ | *Acer palmatum* | 9月, 10月, 11月 |  |
 | ウメ | *Prunus mume* | 1月, 2月, 12月 |  |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| カニクサ | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カリガネソウ | *Tripora divaricata* | 9月, 10月, 11月 |  |
 | カワヅザクラ | *—* | 3月, 4月, 5月 |  |
 | キンシバイ | *Hypericum patulum* | 6月, 7月, 8月 |  |
@@ -264,4 +264,4 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Crangonyx floridanus | *Crangonyx floridanus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| furorida mamizu yokoebi | *Crangonyx floridanus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
