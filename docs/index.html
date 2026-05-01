@@ -194,7 +194,7 @@ function displayName(sp) {
 function groupLabel(g) {
   return (GROUP_LABEL[displayLang] || GROUP_LABEL.ja)[g] || g;
 }
-function L() { return PARKING_LABELS[displayLang] || PARKING_LABELS.ja; }
+function labels() { return PARKING_LABELS[displayLang] || PARKING_LABELS.ja; }
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
@@ -334,7 +334,7 @@ function selectPark(pi) {
   }
   const groupKeys = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
 
-  const T = L();
+  const T = labels();
   let html = `<div class="park-name">${park.n}</div>`;
   html += `<div class="park-meta">${park.pf} ${park.m}`;
   if (park.u) html += ` · <a href="${park.u}" target="_blank">${T.official}</a>`;
@@ -439,14 +439,14 @@ if (langSel) {
     if (selectedParkIdx != null) selectPark(selectedParkIdx);
     else {
       const ph = sideEl.querySelector('.placeholder');
-      if (ph) ph.innerHTML = L().placeholder;
+      if (ph) ph.innerHTML = labels().placeholder;
     }
   });
 }
 // On load, replace static placeholder text with localized version
 {
   const ph = sideEl.querySelector('.placeholder');
-  if (ph) ph.innerHTML = L().placeholder;
+  if (ph) ph.innerHTML = labels().placeholder;
 }
 
 refreshMap();
