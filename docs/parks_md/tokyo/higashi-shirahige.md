@@ -8,7 +8,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Circus spilonotus | *Circus spilonotus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mareca americana x penelope | *Mareca americana x penelope* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -40,6 +39,7 @@
 | スズメ | *Passer montanus* | 1月, 2月, 5月, 9月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 7; GBIF occurrences: 15 |
 | セグロカモメ | *Larus vegae* | 1月, 2月, 11月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 6 |
 | タヒバリ | *Anthus japonicus* | 1月, 2月, 11月 | iNaturalist (research grade); observations: 5 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ダイサギ | *Casmerodius albus* | 12月 | iNaturalist (research grade); observations: 1 |
 | チョウゲンボウ | *Falco tinnunculus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 5 |
@@ -72,7 +72,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 6月 | iNaturalist (research grade); observations: 1 |
 
 ## 🐟 魚類 (1)
@@ -201,7 +201,6 @@
 | Causonis japonica | *Causonis japonica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Cenchrus alopecuroides | *Cenchrus alopecuroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cerastium glomeratum | *Cerastium glomeratum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ceratopteris thalictroides | *Ceratopteris thalictroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Crocosmia crocosmiiflora | *Crocosmia crocosmiiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cymbalaria muralis | *Cymbalaria muralis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Draparnaldia mutabilis | *Draparnaldia mutabilis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -211,10 +210,10 @@
 | Geranium carolinianum | *Geranium carolinianum* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Imperata cylindrica | *Imperata cylindrica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Lespedeza thunbergii | *Lespedeza thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lycoris albiflora | *Lycoris albiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lycoris squamigera | *Lycoris squamigera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mazus pumilus | *Mazus pumilus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Miyagino-hagi | *Lespedeza thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera laciniata | *Oenothera laciniata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Oenothera speciosa | *Oenothera speciosa* | 通年/不明 | GBIF; GBIF occurrences: 4 |
@@ -266,6 +265,7 @@
 | ヒガンバナ | *Lycoris radiata* | 9月, 10月, 11月 | GBIF; GBIF occurrences: 2 |
 | フヨウ | *Hibiscus mutabilis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ホトケノザ | *Lamium amplexicaule* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ミズワラビ | *Ceratopteris thalictroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ユキヤナギ | *Spiraea thunbergii* | 3月, 4月, 5月 |  |
 | ロウバイ | *Chimonanthus praecox* | 1月, 2月, 12月 |  |
 | ワレモコウ | *Sanguisorba officinalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -274,8 +274,8 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Cyclotella meneghiniana | *Cyclotella meneghiniana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Orisarma dehaani | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Orisarma intermedium | *Orisarma intermedium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxidus gracilis | *Oxidus gracilis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| クロベンケイガニ | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| ベンケイガニ | *Orisarma intermedium* | 通年/不明 | GBIF; GBIF occurrences: 1 |

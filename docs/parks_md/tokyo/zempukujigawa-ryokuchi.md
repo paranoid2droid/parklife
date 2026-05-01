@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 45 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 28 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 26 |
@@ -51,6 +50,7 @@
 | スズガモ | *Aythya marila* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スズメ | *Passer montanus* | 2月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 58 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | 清流と水鳥; GBIF; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ダイサギ | *Casmerodius albus* | 9月 | iNaturalist (research grade); observations: 2 |
 | ツグミ | *Turdus eunomus* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 50 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 9 |
@@ -252,17 +252,16 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Adiantum capillus-veneris | *Adiantum capillus-veneris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Artemisia princeps | *Artemisia princeps* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cirsium vulgare | *Cirsium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Farfugium japonicum | *Farfugium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lygodium japonicum | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera speciosa | *Oenothera speciosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Pittosporum tobira | *Pittosporum tobira* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Tetradesmus obliquus | *Tetradesmus obliquus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | エンジュ | *Styphnolobium japonicum* | 6月, 7月, 8月 |  |
 | オオカナダモ | *Egeria densa* | 通年/不明 | 清流と水鳥 |
 | カタバミ | *Oxalis corniculata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カニクサ | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キョウチクトウ | *Nerium oleander* | 6月, 7月, 8月 |  |
 | キンモクセイ | *Osmanthus fragrans* | 6月, 7月, 8月 |  |
 | ケヤキ | *Zelkova serrata* | 9月, 10月, 11月 |  |
@@ -275,6 +274,7 @@
 | トウカエデ | *Acer buergerianum* | 9月, 10月, 11月 |  |
 | ハナミズキ | *Benthamidia florida* | 3月, 4月, 5月 |  |
 | ヒメオドリコソウ | *Lamium purpureum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ホウライシダ | *Adiantum capillus-veneris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ムクゲ | *Hibiscus syriacus* | 6月, 7月, 8月 |  |
 
 ## ❓ 未分類 (1)

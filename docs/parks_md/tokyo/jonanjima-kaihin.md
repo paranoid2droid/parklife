@@ -9,8 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Charadrius alexandrinus | *Charadrius alexandrinus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Charadrius mongolus | *Charadrius mongolus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | アオアシシギ | *Tringa nebularia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -36,6 +34,7 @@
 | キンクロハジロ | *Aythya fuligula* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | コチドリ | *Thinornis dubius* | 4月 | iNaturalist (research grade); observations: 1 |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| シロチドリ | *Charadrius alexandrinus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ジョウビタキ | *Phoenicurus auroreus* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | スズガモ | *Aythya marila* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 17 |
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -63,6 +62,7 @@
 | マガモ | *Anas platyrhynchos* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |
 | ミサゴ | *Pandion haliaetus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
 | ムクドリ | *Spodiopsar cineraceus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 9 |
+| メダイチドリ | *Charadrius mongolus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ユリカモメ | *Chroicocephalus ridibundus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 
 ## 🐟 魚類 (1)
@@ -118,7 +118,7 @@
 | Talinum paniculatum | *Talinum paniculatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trifolium pratense | *Trifolium pratense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スギナ | *Equisetum arvense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | フラサバソウ | *Veronica hederifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -128,6 +128,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Gaetice depressus | *Gaetice depressus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Hemigrapsus sanguineus | *Hemigrapsus sanguineus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Pagurus minutus | *Pagurus minutus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イソガニ | *Hemigrapsus sanguineus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヒライソガニ | *Gaetice depressus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ユビナガホンヤドカリ | *Pagurus minutus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

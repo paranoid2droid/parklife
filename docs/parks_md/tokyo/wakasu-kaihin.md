@@ -8,10 +8,8 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Puffinus tenuirostris | *Puffinus tenuirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アジサシ | *Sterna hirundo* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アトリ | *Fringilla montifringilla* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -41,11 +39,13 @@
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タヒバリ | *Anthus japonicus* | 2月, 3月, 11月, 12月 | iNaturalist (research grade); observations: 4 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トビ | *Milvus migrans* | 8月, 11月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 5 |
 | ハクセキレイ | *Motacilla alba lugens* | 2月, 8月, 12月 | iNaturalist (research grade); observations: 3 |
 | ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ハシボソミズナギドリ | *Puffinus tenuirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハマシギ | *Calidris alpina* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ヒヨドリ | *Hypsipetes amaurotis* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ホシハジロ | *Aythya ferina* | 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
@@ -153,4 +153,4 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Clibanarius infraspinatus | *Clibanarius infraspinatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コブヨコバサミ | *Clibanarius infraspinatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

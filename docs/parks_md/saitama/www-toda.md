@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 36 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 68 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 51 |
@@ -53,6 +52,7 @@
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 21 |
 | センダイムシクイ | *Phylloscopus coronatus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | タヒバリ | *Anthus japonicus* | 1月, 2月 | iNaturalist (research grade); observations: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | ダイサギ | *Casmerodius albus* | 3月, 6月, 8月, 11月 | iNaturalist (research grade); observations: 4 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 1月, 2月, 3月, 12月 | iNaturalist (research grade); GBIF; observations: 7; GBIF occurrences: 53 |

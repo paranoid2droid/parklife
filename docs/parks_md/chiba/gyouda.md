@@ -150,9 +150,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Acrolejeunea pusilla | *Acrolejeunea pusilla* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Anisocampium niponicum | *Anisocampium niponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Apopellia endiviifolia | *Apopellia endiviifolia* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Arachniodes standishii | *Arachniodes standishii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Atrichum undulatum | *Atrichum undulatum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Barbula unguiculata | *Barbula unguiculata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Brachythecium buchananii | *Brachythecium buchananii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -164,9 +162,6 @@
 | Cerastium glomeratum | *Cerastium glomeratum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Chenia leptophylla | *Chenia leptophylla* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Cololejeunea japonica | *Cololejeunea japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Coniogramme japonica | *Coniogramme japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Dryopteris bissetiana | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Dryopteris lacera | *Dryopteris lacera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Entodon challengeri | *Entodon challengeri* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Fissidens taxifolius | *Fissidens taxifolius* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Fissidens tosaensis | *Fissidens tosaensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -219,9 +214,14 @@
 | Veronica arvensis | *Veronica arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Vinealobryum vineale | *Vinealobryum vineale* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Weissia controversa | *Weissia controversa* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| イヌワラビ | *Anisocampium niponicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イワガネソウ | *Coniogramme japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クマワラビ | *Dryopteris lacera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シロヤマブキ | *Rhodotypos scandens* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | スギナ | *Equisetum arvense* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ヒメオドリコソウ | *Lamium purpureum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヤマイタチシダ | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| リョウメンシダ | *Arachniodes standishii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (1)
 

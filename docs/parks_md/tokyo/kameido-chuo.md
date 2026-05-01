@@ -8,7 +8,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 27 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 37 |
 | Porzana fusca | *Porzana fusca* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオサギ | *Ardea cinerea* | 1月, 2月, 4月, 5月, 9月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 24; GBIF occurrences: 29 |
@@ -37,6 +36,7 @@
 | ジョウビタキ | *Phoenicurus auroreus* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | スズメ | *Passer montanus* | 1月, 2月, 4月, 5月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 22; GBIF occurrences: 34 |
 | タマシギ | *Rostratula benghalensis* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 27 |
 | ダイサギ | *Casmerodius albus* | 4月, 9月, 11月, 12月 | iNaturalist (research grade); observations: 19 |
 | ツグミ | *Turdus eunomus* | 1月, 2月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 5 |
 | トウネン | *Calidris ruficollis* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -229,13 +229,13 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| Buta-na | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Capsella bursa-pastoris | *Capsella bursa-pastoris* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cyperus glomeratus | *Cyperus glomeratus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Digitaria radicosa | *Digitaria radicosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Elaeagnus multiflora | *Elaeagnus multiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Glycine max | *Glycine max* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Hypochaeris radicata | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lathyrus oleraceus | *Lathyrus oleraceus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Orobanche minor | *Orobanche minor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -266,8 +266,8 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Helice tridens | *Helice tridens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Nostoc commune | *Nostoc commune* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Orisarma dehaani | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Plasmopara viticola | *Plasmopara viticola* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アシハラガニ | *Helice tridens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クロベンケイガニ | *Orisarma dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |

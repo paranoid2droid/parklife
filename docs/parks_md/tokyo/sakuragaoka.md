@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 26 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 44 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 17 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 56 |
@@ -102,6 +101,7 @@
 | タゲリ | *Vanellus vanellus* | 1月, 2月 | iNaturalist (research grade); GBIF; observations: 14; GBIF occurrences: 13 |
 | タシギ | *Gallinago gallinago* | 1月, 2月, 3月, 11月, 12月 | iNaturalist (research grade); observations: 16 |
 | タヒバリ | *Anthus japonicus* | 1月, 10月, 11月 | iNaturalist (research grade) |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 44 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 577 |
 | チゴハヤブサ | *Falco subbuteo* | 10月 | iNaturalist (research grade) |
 | チュウサギ | *Ardea intermedia* | 9月 | iNaturalist (research grade) |
@@ -193,7 +193,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アズマヒキガエル | *Bufo formosus* | 2月, 3月, 4月, 6月, 7月, 8月, 10月, 11月 | iNaturalist (research grade); observations: 32 |
 | ウシガエル | *Lithobates catesbeianus* | 3月 | iNaturalist (research grade); observations: 2 |
 | カジカガエル | *Buergeria buergeri* | 3月, 4月, 5月, 6月 | iNaturalist (research grade); observations: 10 |
@@ -444,9 +444,6 @@
 | Capsella bursa-pastoris | *Capsella bursa-pastoris* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Cardamine hirsuta | *Cardamine hirsuta* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Cardamine occulta | *Cardamine occulta* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Carex conica | *Carex conica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carpinus japonica | *Carpinus japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chaenomeles japonica | *Chaenomeles japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Citrus japonica | *Citrus japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Delphinium anthriscifolium | *Delphinium anthriscifolium* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Euonymus alatus | *Euonymus alatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -456,17 +453,16 @@
 | Gentiana zollingeri | *Gentiana zollingeri* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Glechoma grandis | *Glechoma grandis* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Houttuynia cordata | *Houttuynia cordata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Ixeris japonica | *Ixeris japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lepisorus thunbergianus | *Lepisorus thunbergianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Kusa-boke | *Chaenomeles japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Lindera glauca | *Lindera glauca* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lycium chinense | *Lycium chinense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mazus miquelii | *Mazus miquelii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mazus pumilus | *Mazus pumilus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Mitsuba-tsutsuji | *Rhododendron dilatatum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Muscari neglectum | *Muscari neglectum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Nasturtium officinale | *Nasturtium officinale* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Orobanche minor | *Orobanche minor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Osmunda japonica | *Osmunda japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Pachysandra terminalis | *Pachysandra terminalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Papaver dubium | *Papaver dubium* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Petasites japonicus | *Petasites japonicus* | 通年/不明 | GBIF; GBIF occurrences: 4 |
@@ -474,7 +470,6 @@
 | Potentilla freyniana | *Potentilla freyniana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Pueraria montana | *Pueraria montana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Reynoutria japonica | *Reynoutria japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Rhododendron dilatatum | *Rhododendron dilatatum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Rumex acetosa | *Rumex acetosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Saxifraga stolonifera | *Saxifraga stolonifera* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Sonchus oleraceus | *Sonchus oleraceus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -484,12 +479,14 @@
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Valerianella locusta | *Valerianella locusta* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Veronica cymbalaria | *Veronica cymbalaria* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | Viola betonicifolia | *Viola betonicifolia* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Viola inconspicua | *Viola inconspicua* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Viola phalacrocarpa | *Viola phalacrocarpa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Viola philippica | *Viola philippica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Viola sororia | *Viola sororia* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 10 |
+| kuma-shide | *Carpinus japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Ō-jishibari | *Ixeris japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオイスミレ | *Viola hondoensis* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | アカシデ | *Carpinus laxiflora* | 3月, 4月, 5月 | GBIF; GBIF occurrences: 1 |
 | アキノタムラソウ | *Salvia japonica* | 6月, 7月, 8月 |  |
@@ -540,6 +537,7 @@
 | シロバナタンポポ | *Taraxacum albidum* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | ジロボウエンゴサク | *Corydalis decumbens* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | スギナ | *Equisetum arvense* | 通年/不明 | GBIF; GBIF occurrences: 7 |
+| ゼンマイ | *Osmunda japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タイサンボク | *Magnolia grandiflora* | 6月, 7月, 8月 |  |
 | タチツボスミレ | *Viola grypoceras* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | タマアジサイ | *Hydrangea involucrata* | 6月, 7月, 8月 |  |
@@ -549,12 +547,14 @@
 | ツワブキ | *Farfugium grande* | 9月, 10月, 11月 |  |
 | トチノキ | *Aesculus turbinata* | 3月, 4月, 5月 |  |
 | ネムノキ | *Albizia julibrissin* | 6月, 7月, 8月 |  |
+| ノキシノブ | *Lepisorus thunbergianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハナニラ | *Ipheion uniflorum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハルジオン | *Erigeron philadelphicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ハンショウヅル | *Clematis japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒサカキ | *Eurya japonica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ヒメウズ | *Semiaquilegia adoxoides* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ヒメオドリコソウ | *Lamium purpureum* | 通年/不明 | GBIF; GBIF occurrences: 9 |
+| ヒメカンスゲ（Hime-kansuge） | *Carex conica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒュウガミズキ | *Corylopsis pauciflora* | 3月, 4月, 5月 | GBIF; GBIF occurrences: 1 |
 | ヒヨドリバナ | *Eupatorium chinense* | 6月, 7月, 8月 |  |
 | フクジュソウ | *Adonis ramosa* | 1月, 2月, 12月 |  |
@@ -582,6 +582,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Armadillidium vulgare | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キツリフネ | *Impatiens noli* | 9月, 10月, 11月 |  |
 | ツリフネソウ | *Impatiens hypophylla* | 9月, 10月, 11月 |  |

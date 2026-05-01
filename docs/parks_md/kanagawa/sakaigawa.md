@@ -37,7 +37,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Ziphius cavirostris | *Ziphius cavirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Akabou | *Ziphius cavirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## 🦎 爬虫類 (1)
 
@@ -74,7 +74,6 @@
 | Andropogon virginicus | *Andropogon virginicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Euphorbia ophthalmica | *Euphorbia ophthalmica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lepidium virginicum | *Lepidium virginicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lygodium japonicum | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera speciosa | *Oenothera speciosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Phytolacca americana | *Phytolacca americana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ruellia simplex | *Ruellia simplex* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -82,10 +81,11 @@
 | Trifolium repens | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | エノキ | *Celtis sinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオキンケイギク | *Coreopsis lanceolata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カニクサ | *Lygodium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (2)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Chydorus sphaericus | *Chydorus sphaericus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Palaemon paucidens | *Palaemon paucidens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| スジエビ | *Palaemon paucidens* | 通年/不明 | GBIF; GBIF occurrences: 1 |

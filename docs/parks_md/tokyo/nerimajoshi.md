@@ -202,24 +202,21 @@
 | Coix lacryma-jobi | *Coix lacryma-jobi* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Coryphopteris japonica | *Coryphopteris japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Dactylis glomerata | *Dactylis glomerata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Deparia conilii | *Deparia conilii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Deparia japonica | *Deparia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Digitaria radicosa | *Digitaria radicosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Eragrostis ferruginea | *Eragrostis ferruginea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Mirabilis jalapa | *Mirabilis jalapa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oenothera rosea | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Oni-tabirako | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Papaver dubium | *Papaver dubium* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Persicaria extremiorientalis | *Persicaria extremiorientalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Persicaria lapathifolia | *Persicaria lapathifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Persicaria longiseta | *Persicaria longiseta* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Persicaria thunbergii | *Persicaria thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Phegopteris decursive-pinnata | *Phegopteris decursive-pinnata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Sagittaria trifolia | *Sagittaria trifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Salix chaenomeloides | *Salix chaenomeloides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Salix integra | *Salix integra* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Sonchus oleraceus | *Sonchus oleraceus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Veronica anagallis-aquatica | *Veronica anagallis-aquatica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Youngia japonica | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アガパンサス | *Agapanthus africanus* | 6月, 7月, 8月 | iNat phenology; total=3 fallback=True |
 | アジサイ | *Hydrangea macrophylla* | 6月, 7月, 8月 | GBIF; GBIF occurrences: 4 |
 | アセビ | *Pieris japonica* | 1月, 2月, 12月 |  |
@@ -232,10 +229,12 @@
 | キチジョウソウ | *Reineckea carnea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | クチナシ | *Gardenia jasminoides* | 6月, 7月, 8月 |  |
 | ケヤキ | *Zelkova serrata* | 9月, 10月, 11月 |  |
+| コゲジゲジシダ | *Phegopteris decursive-pinnata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コスモス | *Cosmos bipinnatus* | 9月, 10月, 11月 |  |
 | コブシ | *Magnolia kobus* | 3月, 4月, 5月 |  |
 | サクラ | *—* | 3月, 4月, 5月, 9月, 10月, 11月 |  |
 | サルスベリ | *Lagerstroemia indica* | 6月, 7月, 8月 |  |
+| シケシダ | *Deparia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シバザクラ | *Phlox subulata* | 3月, 4月, 5月 |  |
 | シモツケ | *Spiraea japonica* | 6月, 7月, 8月 |  |
 | シャガ | *Iris japonica* | 3月, 4月, 5月 |  |
@@ -253,6 +252,7 @@
 | フジウツギ属 | *Buddleja davidii* | 6月, 7月, 8月 |  |
 | ヘレボルス | *Helleborus niger* | 1月, 2月, 12月 |  |
 | ヤグルマソウ | *Rodgersia podophylla* | 3月, 4月, 5月 |  |
+| ヤブシダ | *Deparia conilii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤブラン | *Liriope muscari* | 9月, 10月, 11月 |  |
 | ヤマブキ | *Kerria japonica* | 3月, 4月, 5月 |  |
 | ヤマボウシ | *Cornus kousa* | 3月, 4月, 5月 |  |
@@ -264,5 +264,5 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Porcellio scaber | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ラベンダー | *Lavandula angustifolia* | 6月, 7月, 8月 |  |
+| ワラジムシ | *Porcellio scaber* | 通年/不明 | GBIF; GBIF occurrences: 1 |

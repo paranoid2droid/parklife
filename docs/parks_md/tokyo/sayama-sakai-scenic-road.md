@@ -9,8 +9,8 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| Charadrius placidus | *Charadrius placidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオサギ | *Ardea cinerea* | 8月, 9月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
+| イカルチドリ | *Charadrius placidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 10 |

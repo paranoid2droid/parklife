@@ -11,7 +11,6 @@
 | Accipiter gularis | *Accipiter gularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Anas poecilorhyncha | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 10 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Motacilla alba | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -38,6 +37,7 @@
 | ジョウビタキ | *Phoenicurus auroreus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | トモエガモ | *Sibirionetta formosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ノスリ | *Buteo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -59,7 +59,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aiolopus thalassinus | *Aiolopus thalassinus* | 10月 | iNaturalist (research grade); observations: 2 |
-| Atrocalopteryx atrata | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Haguro-tombo | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオバハゴロモ | *Geisha distinctissima* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | アカタテハ | *Vanessa indica* | 6月 | iNaturalist (research grade); observations: 1 |
 | コフキコガネ | *Melolontha japonica* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -91,7 +91,6 @@
 | Cyperus microiria | *Cyperus microiria* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cyperus rotundus | *Cyperus rotundus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cyperus sanguinolentus | *Cyperus sanguinolentus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Dryopteris bissetiana | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Eleocharis acicularis | *Eleocharis acicularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Fimbristylis quinquangularis | *Fimbristylis quinquangularis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Lindernia dubia | *Lindernia dubia* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -99,14 +98,15 @@
 | Lysimachia fortunei | *Lysimachia fortunei* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Lysimachia pilophora | *Lysimachia pilophora* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Phragmites australis | *Phragmites australis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Pteris multifida | *Pteris multifida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Stachys riederi | *Stachys riederi* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| イノモトソウ | *Pteris multifida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオハナワラビ | *Sceptridium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スギナ | *Equisetum arvense* | 3月, 4月, 5月 |  |
 | スミレ | *Viola mandshurica* | 3月, 4月, 5月 |  |
 | ソメイヨシノ | *Cerasus x yedoensis* | 通年/不明 |  |
 | タンポポ | *—* | 3月, 4月, 5月 |  |
 | ホトケノザ | *Lamium amplexicaule* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ヤマイタチシダ | *Dryopteris bissetiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (1)
 

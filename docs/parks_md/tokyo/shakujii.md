@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 32 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 36 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 44 |
@@ -56,6 +55,7 @@
 | スズガモ | *Aythya marila* | 11月 | iNaturalist (research grade); observations: 1 |
 | スズメ | *Passer montanus* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 31 |
 | セグロセキレイ | *Motacilla grandis* | 1月, 4月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 9 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | ダイサギ | *Casmerodius albus* | 3月, 9月, 11月 | iNaturalist (research grade); observations: 3 |
 | ツグミ | *Turdus eunomus* | 1月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 37 |
 | ツバメ | *Hirundo rustica* | 4月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
@@ -300,10 +300,9 @@
 | Cerastium glomeratum | *Cerastium glomeratum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Distylium racemosum | *Distylium racemosum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ficaria verna | *Ficaria verna* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Onychium japonicum | *Onychium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Paederia foetida | *Paederia foetida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Solidago altissima | *Solidago altissima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Vicia sativa | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アジサイ | *Hydrangea macrophylla* | 6月, 7月, 8月 |  |
 | イチリンソウ | *Anemone nikoensis* | 3月, 4月, 5月 |  |
 | イロハモミジ | *Acer palmatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -352,3 +351,4 @@
 | モミジイチゴ | *Rubus palmatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤマザクラ | *Cerasus jamasakura* | 3月, 4月, 5月 | 花と鳥 |
 | ワスレグサ | *Hemerocallis fulva* | 9月, 10月, 11月 |  |
+| 維管束植物門 | *Onychium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |

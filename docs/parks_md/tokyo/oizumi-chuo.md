@@ -85,7 +85,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 6月 | iNaturalist (research grade); observations: 1 |
 
 ## 🐟 魚類 (1)
@@ -207,7 +207,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Acorus gramineus | *Acorus gramineus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Alnus hirsuta | *Alnus hirsuta* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | Amaranthus hybridus | *Amaranthus hybridus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Amaranthus viridis | *Amaranthus viridis* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Ambrosia artemisiifolia | *Ambrosia artemisiifolia* | 通年/不明 | GBIF; GBIF occurrences: 8 |
@@ -227,20 +226,10 @@
 | Caragana sinica | *Caragana sinica* | 通年/不明 | GBIF; GBIF occurrences: 20 |
 | Cardiagyris scabra | *Cardiagyris scabra* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Carex breviculmis | *Carex breviculmis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex dispalata | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex doniana | *Carex doniana* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| Carex filipes | *Carex filipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex gifuensis | *Carex gifuensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Carex japonica | *Carex japonica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Carex macroglossa | *Carex macroglossa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Carex makinoensis | *Carex makinoensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Carex pisiformis | *Carex pisiformis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Carex siderosticta | *Carex siderosticta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Castanea mollissima | *Castanea mollissima* | 通年/不明 | GBIF; GBIF occurrences: 11 |
 | Celtis jessoensis | *Celtis jessoensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cenchrus alopecuroides | *Cenchrus alopecuroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Chaenomeles japonica | *Chaenomeles japonica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| Chamaecyparis pisifera | *Chamaecyparis pisifera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Chrysanthemum indicum | *Chrysanthemum indicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cirsium nipponicum | *Cirsium nipponicum* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | Cirsium oligophyllum | *Cirsium oligophyllum* | 通年/不明 | GBIF; GBIF occurrences: 5 |
@@ -283,16 +272,18 @@
 | Gynostemma pentaphyllum | *Gynostemma pentaphyllum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Helenium autumnale | *Helenium autumnale* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Helianthus tuberosus | *Helianthus tuberosus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Higo-Kusa | *Carex japonica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Hordeum vulgare | *Hordeum vulgare* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Hydrangea serrata | *Hydrangea serrata* | 通年/不明 | GBIF; GBIF occurrences: 61 |
 | Hydrocotyle ramiflora | *Hydrocotyle ramiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Hylodesmum podocarpum | *Hylodesmum podocarpum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Ibuki | *Juniperus chinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ilex cornuta | *Ilex cornuta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ilex crenata | *Ilex crenata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ilex integra | *Ilex integra* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Isodon umbrosus | *Isodon umbrosus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Juniperus chinensis | *Juniperus chinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Kadsura japonica | *Kadsura japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Kusa-boke | *Chaenomeles japonica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | Lespedeza homoloba | *Lespedeza homoloba* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Ligustrum japonicum | *Ligustrum japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lindera aggregata | *Lindera aggregata* | 通年/不明 | GBIF; GBIF occurrences: 38 |
@@ -329,6 +320,7 @@
 | Rhododendron stenopetalum | *Rhododendron stenopetalum* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | Rostellularia procumbens | *Rostellularia procumbens* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Rubus minusculus | *Rubus minusculus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Sawara | *Chamaecyparis pisifera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Saxifraga stolonifera | *Saxifraga stolonifera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Schoenoplectus triqueter | *Schoenoplectus triqueter* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Scirpus hattorianus | *Scirpus hattorianus* | 通年/不明 | GBIF; GBIF occurrences: 7 |
@@ -350,6 +342,7 @@
 | Zanthoxylum piperitum | *Zanthoxylum piperitum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Zea mays | *Zea mays* | 通年/不明 | GBIF; GBIF occurrences: 11 |
 | Zoysia japonica | *Zoysia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ke-yama-han-no-ki | *Alnus hirsuta* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | アカシデ | *Carpinus laxiflora* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アキノキリンソウ | *Solidago virgaurea* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -357,6 +350,7 @@
 | アセビ | *Pieris japonica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アブラチャン | *Lindera praecox* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | イロハモミジ | *Acer palmatum* | 9月, 10月, 11月 | GBIF; GBIF occurrences: 4 |
+| イワカンスゲ（Iwa-kan-suge） | *Carex makinoensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ウグイスカグラ | *Lonicera gracilipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウツギ | *Deutzia crenata* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | ウワミズザクラ | *Padus grayana* | 3月, 4月, 5月, 9月, 10月, 11月 |  |
@@ -365,6 +359,7 @@
 | エビネ | *Calanthe discolor* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | エンジュ | *Styphnolobium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 24 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カサスゲ（Kasa-suge） | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カタクリ | *Erythronium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | カリガネソウ | *Tripora divaricata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カワラナデシコ | *Dianthus superbus* | 6月, 7月, 8月 |  |
@@ -377,8 +372,10 @@
 | クサギ | *Clerodendrum trichotomum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | クチナシ | *Gardenia jasminoides* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | クヌギ | *Quercus acutissima* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| クロヒナスゲ（Kurohina-suge） | *Carex gifuensis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ケヤキ | *Zelkova serrata* | 9月, 10月, 11月 |  |
 | ゲンノショウコ | *Geranium thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| コジュズスゲ（Ko-juzusuge） | *Carex macroglossa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コナラ | *Quercus serrata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コブシ | *Magnolia kobus* | 3月, 4月, 5月 |  |
 | サクラ | *—* | 3月, 4月, 5月 |  |
@@ -389,6 +386,7 @@
 | サンシュユ | *Cornus officinalis* | 1月, 2月, 12月 | GBIF; GBIF occurrences: 1 |
 | シモツケ | *Spiraea japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シモツケソウ | *Filipendula multijuga* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| シラスゲ（Shira-suge） | *Carex doniana* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | ジャノヒゲ | *Ophiopogon japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ジンチョウゲ | *Daphne odora* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ススキ | *Miscanthus sinensis* | 通年/不明 | GBIF; GBIF occurrences: 24 |
@@ -396,6 +394,7 @@
 | タイサンボク | *Magnolia grandiflora* | 6月, 7月, 8月 |  |
 | タチツボスミレ | *Viola grypoceras* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | タニウツギ | *Weigela hortensis* | 3月, 4月, 5月 |  |
+| タマツリスゲ（Tamatsuri-suge） | *Carex filipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | チャノキ | *Camellia sinensis* | 通年/不明 | GBIF; GBIF occurrences: 12 |
 | ツツジ | *—* | 3月, 4月, 5月 |  |
 | ツバキ | *Camellia japonica* | 1月, 2月, 12月 | GBIF; GBIF occurrences: 3 |
@@ -412,6 +411,7 @@
 | ヒガンバナ | *Lycoris radiata* | 9月, 10月, 11月 | GBIF; GBIF occurrences: 4 |
 | ヒサカキ | *Eurya japonica* | 通年/不明 | GBIF; GBIF occurrences: 24 |
 | ヒュウガミズキ | *Corylopsis pauciflora* | 通年/不明 | GBIF; GBIF occurrences: 20 |
+| ホンモンジスゲ（Honmonji-suge） | *Carex pisiformis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ミツマタ | *Edgeworthia chrysantha* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | ムクゲ | *Hibiscus syriacus* | 6月, 7月, 8月 |  |
 | ムラサキケマン | *Corydalis incisa* | 通年/不明 | GBIF; GBIF occurrences: 1 |

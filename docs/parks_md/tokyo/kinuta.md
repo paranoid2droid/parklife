@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 11 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 23 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 20 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 12 |
@@ -58,6 +57,7 @@
 | セグロセキレイ | *Motacilla grandis* | 4月, 5月, 9月, 10月, 12月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 10 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タシギ | *Gallinago gallinago* | 1月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 8 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 23 |
 | ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 6月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); observations: 23 |
 | チョウゲンボウ | *Falco tinnunculus* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 1月, 2月, 3月 | iNaturalist (research grade); GBIF; observations: 11; GBIF occurrences: 30 |
@@ -229,7 +229,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Castanopsis cuspidata | *Castanopsis cuspidata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Iris pseudacorus | *Iris pseudacorus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis pes-caprae | *Oxalis pes-caprae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Pachysandra terminalis | *Pachysandra terminalis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -263,6 +262,7 @@
 | ヤブミョウガ | *Pollia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤブラン | *Liriope muscari* | 9月, 10月, 11月 |  |
 | ヤマモモ | *Morella rubra* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| 円椎 | *Castanopsis cuspidata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (2)
 

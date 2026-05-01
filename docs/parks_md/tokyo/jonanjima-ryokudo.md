@@ -9,9 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 27 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 16 |
-| Butorides striata | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Charadrius dubius | *Charadrius dubius* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 15 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 30 |
 | Horornis diphone | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 19 |
@@ -60,8 +57,10 @@
 | コゲラ | *Dendrocopos kizuki* | 2月, 3月, 4月, 10月, 11月 | iNaturalist (research grade); observations: 5 |
 | コサギ | *Egretta garzetta* | 1月, 2月, 3月, 4月, 5月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 38; GBIF occurrences: 21 |
 | コサメビタキ | *Muscicapa dauurica* | 10月 | iNaturalist (research grade); observations: 2 |
+| コチドリ | *Charadrius dubius* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コチドリ | *Thinornis dubius* | 4月, 5月, 6月, 7月, 8月, 9月 | iNaturalist (research grade); observations: 31 |
 | ゴイサギ | *Nycticorax nycticorax* | 7月, 8月, 9月, 10月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 1 |
+| ササゴイ | *Butorides striata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ササゴイ | *Butorides atricapilla* | 5月, 6月, 7月, 8月 | iNaturalist (research grade); observations: 8 |
 | サシバ | *Butastur indicus* | 10月 | iNaturalist (research grade); observations: 1 |
 | シジュウカラ | *Parus cinereus* | 2月, 4月, 5月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 35 |
@@ -76,6 +75,7 @@
 | ソリハシシギ | *Xenus cinereus* | 5月, 9月 | iNaturalist (research grade); observations: 2 |
 | タシギ | *Gallinago gallinago* | 3月, 4月, 5月, 10月 | iNaturalist (research grade); GBIF; observations: 8; GBIF occurrences: 1 |
 | タヒバリ | *Anthus japonicus* | 1月, 2月 | iNaturalist (research grade); observations: 5 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 16 |
 | ダイサギ | *Casmerodius albus* | 4月, 5月, 7月, 8月, 9月, 10月, 11月 | iNaturalist (research grade); observations: 31 |
 | チュウサギ | *Ardea intermedia* | 8月, 9月, 10月 | iNaturalist (research grade); observations: 6 |
 | チュウシャクシギ | *Numenius phaeopus* | 4月, 5月, 6月, 7月, 8月 | iNaturalist (research grade); GBIF; observations: 25; GBIF occurrences: 9 |
@@ -135,7 +135,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Bufo japonicus | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アズマヒキガエル | *Bufo formosus* | 3月, 7月 | iNaturalist (research grade); observations: 2 |
 | ウシガエル | *Lithobates catesbeianus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
@@ -293,6 +293,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Helice tridens | *Helice tridens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Scopimera globosa | *Scopimera globosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Thereuopoda clunifera | *Thereuopoda clunifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アシハラガニ | *Helice tridens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コメツキガニ | *Scopimera globosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |

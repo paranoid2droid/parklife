@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 40 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 11 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 13 |
 | Egretta intermedia | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -62,6 +61,7 @@
 | セグロセキレイ | *Motacilla grandis* | 1月, 2月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 18 |
 | センダイムシクイ | *Phylloscopus coronatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ソウシチョウ | *Leiothrix lutea* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 11 |
 | ダイサギ | *Casmerodius albus* | 2月 | iNaturalist (research grade); observations: 3 |
 | ツグミ | *Turdus eunomus* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 13 |
 | ツバメ | *Hirundo rustica* | 5月, 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 31 |
@@ -132,7 +132,6 @@
 | Aquarius paludum | *Aquarius paludum* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | Argynnis hyperbius | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | Arhopala japonica | *Arhopala japonica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Atrocalopteryx atrata | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Basilepta ruficollis | *Basilepta ruficollis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Byctiscus venustus | *Byctiscus venustus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cacopsylla coccinea | *Cacopsylla coccinea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -152,6 +151,7 @@
 | Favonius orientalis | *Favonius orientalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Gigantomiris jupiter | *Gigantomiris jupiter* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Ginzia frivaldsky | *Ginzia frivaldsky* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Haguro-tombo | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Idiostrangalia contracta | *Idiostrangalia contracta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lagidina platycerus | *Lagidina platycerus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Lecitholaxa thiodora | *Lecitholaxa thiodora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -431,14 +431,12 @@
 |---|---|---|---|
 | Arisaema limbatum | *Arisaema limbatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Asarum tamaense | *Asarum tamaense* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Athyrium yokoscense | *Athyrium yokoscense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Bryum argenteum | *Bryum argenteum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Cephalanthera erecta | *Cephalanthera erecta* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Chloranthus serratus | *Chloranthus serratus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Erigeron karvinskianus | *Erigeron karvinskianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Hydrangea sikokiana | *Hydrangea sikokiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Iris pseudacorus | *Iris pseudacorus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Lepisorus thunbergianus | *Lepisorus thunbergianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Papaver dubium | *Papaver dubium* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Quercus sessilifolia | *Quercus sessilifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Rubus hirsutus | *Rubus hirsutus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -446,9 +444,11 @@
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオアラセイトウ | *Orychophragmus violaceus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カナヤマシダ | *Athyrium yokoscense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キンラン | *Cephalanthera falcata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | シロヤマブキ | *Rhodotypos scandens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スイセン | *Narcissus tazetta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ノキシノブ | *Lepisorus thunbergianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハンショウヅル | *Clematis japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## ❓ 未分類 (1)

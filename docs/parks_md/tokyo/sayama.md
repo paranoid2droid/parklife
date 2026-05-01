@@ -9,7 +9,6 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Aegithalos caudatus | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 41 |
-| Ardea alba | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | Bambusicola thoracicus | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 41 |
 | Chloris sinica | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 16 |
 | Emberiza personata | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 25 |
@@ -63,6 +62,7 @@
 | スズメ | *Passer montanus* | 2月, 11月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 43 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | タヒバリ | *Anthus japonicus* | 2月 | iNaturalist (research grade); observations: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | ツグミ | *Turdus eunomus* | 2月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 29 |
 | ツバメ | *Hirundo rustica* | 4月, 5月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 14 |
 | トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 11 |
@@ -265,5 +265,5 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Geothelphusa dehaani | *Geothelphusa dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Scolopendra mutilans | *Scolopendra mutilans* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| サワガニ | *Geothelphusa dehaani* | 通年/不明 | GBIF; GBIF occurrences: 1 |
