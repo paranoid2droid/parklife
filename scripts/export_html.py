@@ -39,7 +39,7 @@ GROUP_ORDER = [
     ("other_animal", "🐾 その他動物"),
     ("plant",     "🌸 植物"),
     ("mushroom",  "🍄 菌類"),
-    ("unclassified", "❓ 未分類"),
+    ("unclassified", "🐾 その他生き物"),
 ]
 PREF_NAMES = {
     "tokyo":    "東京都",
@@ -451,7 +451,7 @@ const GROUP_LABEL = {
     arachnid: '🕷 クモ類', mollusk: '🐚 軟体動物',
     other_animal: '🐾 その他動物',
     plant: '🌸 植物', mushroom: '🍄 菌類',
-    unclassified: '❓ 未分類',
+    unclassified: '🐾 その他生き物',
   },
   en: {
     bird: '🦜 Birds', mammal: '🦌 Mammals', reptile: '🦎 Reptiles',
@@ -459,7 +459,7 @@ const GROUP_LABEL = {
     arachnid: '🕷 Arachnids', mollusk: '🐚 Molluscs',
     other_animal: '🐾 Other animals',
     plant: '🌸 Plants', mushroom: '🍄 Fungi',
-    unclassified: '❓ Unclassified',
+    unclassified: '🐾 Other life',
   },
   zh: {
     bird: '🦜 鸟类', mammal: '🦌 哺乳动物', reptile: '🦎 爬行动物',
@@ -467,7 +467,7 @@ const GROUP_LABEL = {
     arachnid: '🕷 蛛形纲', mollusk: '🐚 软体动物',
     other_animal: '🐾 其他动物',
     plant: '🌸 植物', mushroom: '🍄 菌类',
-    unclassified: '❓ 未分类',
+    unclassified: '🐾 其他生物',
   },
   zhT: {
     bird: '🦜 鳥類', mammal: '🦌 哺乳動物', reptile: '🦎 爬蟲動物',
@@ -475,7 +475,7 @@ const GROUP_LABEL = {
     arachnid: '🕷 蛛形綱', mollusk: '🐚 軟體動物',
     other_animal: '🐾 其他動物',
     plant: '🌸 植物', mushroom: '🍄 菌類',
-    unclassified: '❓ 未分類',
+    unclassified: '🐾 其他生物',
   },
 };
 
