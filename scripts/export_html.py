@@ -136,6 +136,10 @@ def collect_data() -> dict:
             FROM species_photo
             ORDER BY species_id, sort_order, id
         """))
+        profile_rows = list(conn.execute("""
+            SELECT species_id, lang, summary, habitat_hint, finding_tips, sources
+            FROM species_profile
+        """))
     zh_hans: dict[int, str] = {}
     zh_hant: dict[int, str] = {}
     for r in zh_rows:
@@ -152,6 +156,14 @@ def collect_data() -> dict:
         url = medium_photo_url(r["url"]) if r["url"] else ""
         if url and url not in gallery[r["species_id"]]:
             gallery[r["species_id"]].append(url)
+    profiles: dict[int, dict[str, dict[str, str]]] = {}
+    for r in profile_rows:
+        profiles.setdefault(r["species_id"], {})[r["lang"]] = {
+            "summary": r["summary"] or "",
+            "habitat": r["habitat_hint"] or "",
+            "tips": r["finding_tips"] or "",
+            "sources": r["sources"] or "",
+        }
 
     # build dense indexes (DB ids may have gaps)
     pk_idx = {r["id"]: i for i, r in enumerate(park_rows)}
@@ -167,7 +179,7 @@ def collect_data() -> dict:
         if hero_photo and hero_photo not in imgs:
             imgs.insert(0, hero_photo)
         sp_idx[r["id"]] = len(species)
-        species.append({
+        item = {
             "ja":   r["common_name_ja"] or "",
             "en":   r["common_name_en"] or "",
             "zh":   zh_hans.get(r["id"], ""),
@@ -181,7 +193,10 @@ def collect_data() -> dict:
             "tid":  r["inat_taxon_id"] or 0,
             "eb":   ebird_code.get(r["id"], ""),
             "n":    pop.get(r["id"], 0),
-        })
+        }
+        if r["id"] in profiles:
+            item["pr"] = profiles[r["id"]]
+        species.append(item)
     parks = [
         {
             "s":  r["slug"],
@@ -608,6 +623,8 @@ const PARKING_LABELS = {
 const DETAIL_LABELS = {
   ja: {
     inspect: '観察ガイドを開く', difficulty: '観察難度', guide: '見つけ方',
+    profile: 'この生き物について', habitat: 'いそうな場所',
+    fieldTips: '探し方', profileSources: 'プロフィール参考',
     parkClue: 'この公園での手がかり', season: '季節', source: '記録ソース',
     taxonomy: '詳しい分類',
     spread: '記録公園数', unknownSeason: '通年または不明',
@@ -617,6 +634,8 @@ const DETAIL_LABELS = {
   },
   en: {
     inspect: 'Open field guide', difficulty: 'Finding difficulty', guide: 'How to find it',
+    profile: 'About this species', habitat: 'Likely places',
+    fieldTips: 'How to find it', profileSources: 'Profile references',
     parkClue: 'Clues in this park', season: 'Season', source: 'Record sources',
     taxonomy: 'Detailed group',
     spread: 'Parks recorded', unknownSeason: 'Year-round or unknown',
@@ -626,6 +645,8 @@ const DETAIL_LABELS = {
   },
   zh: {
     inspect: '打开观察指南', difficulty: '观察难度', guide: '寻找方法',
+    profile: '关于这个物种', habitat: '可能出现的地方',
+    fieldTips: '寻找方法', profileSources: '简介参考',
     parkClue: '这个公园里的线索', season: '季节', source: '记录来源',
     taxonomy: '详细分类',
     spread: '有记录的公园数', unknownSeason: '全年或未知',
@@ -635,6 +656,8 @@ const DETAIL_LABELS = {
   },
   zhT: {
     inspect: '打開觀察指南', difficulty: '觀察難度', guide: '尋找方法',
+    profile: '關於這個物種', habitat: '可能出現的地方',
+    fieldTips: '尋找方法', profileSources: '簡介參考',
     parkClue: '這個公園裡的線索', season: '季節', source: '記錄來源',
     taxonomy: '詳細分類',
     spread: '有記錄的公園數', unknownSeason: '全年或未知',
@@ -883,6 +906,46 @@ function guideText(sp) {
   return templates[sp.g] || templates[sp.tg] || templates.unclassified;
 }
 
+function profileFor(sp) {
+  if (!sp.pr) return null;
+  return sp.pr[displayLang] || sp.pr.ja || sp.pr.en || null;
+}
+
+function escapeHtml(text) {
+  return String(text || '').replace(/[&<>"']/g, ch => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[ch]));
+}
+
+function profileSourceText(profile) {
+  if (!profile || !profile.sources) return '';
+  try {
+    const parsed = JSON.parse(profile.sources);
+    if (Array.isArray(parsed)) return parsed.join(' · ');
+  } catch (e) {}
+  return profile.sources;
+}
+
+function profileSectionHtml(sp) {
+  const D = detailLabels();
+  const profile = profileFor(sp);
+  if (!profile) {
+    return `<div class="modal-section"><h3>${D.guide}</h3><p>${escapeHtml(guideText(sp))}</p></div>`;
+  }
+  const source = profileSourceText(profile);
+  let html = `<div class="modal-section"><h3>${D.profile}</h3><p>${escapeHtml(profile.summary)}</p></div>`;
+  if (profile.habitat) {
+    html += `<div class="modal-section"><h3>${D.habitat}</h3><p>${escapeHtml(profile.habitat)}</p></div>`;
+  }
+  if (profile.tips) {
+    html += `<div class="modal-section"><h3>${D.fieldTips}</h3><p>${escapeHtml(profile.tips)}</p></div>`;
+  }
+  if (source) {
+    html += `<div class="modal-section subtle"><h3>${D.profileSources}</h3><p>${escapeHtml(source)}</p></div>`;
+  }
+  return html;
+}
+
 function speciesPhotos(sp) {
   return sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [sp.p] : []);
 }
@@ -946,7 +1009,7 @@ function openSpeciesModal(si) {
       `<h2 class="modal-title" id="modal-title">${displayName(sp)}</h2>${sci}` +
       `<div class="difficulty">${D.difficulty}: ${difficultyHtml(sp, pair)}</div>` +
       `<div class="modal-facts">${facts.map(f => `<span>${f}</span>`).join('')}</div>` +
-      `<div class="modal-section"><h3>${D.guide}</h3><p>${guideText(sp)}</p></div>` +
+      profileSectionHtml(sp) +
       `<div class="modal-section"><h3>${D.parkClue}${park ? ` · ${park.n}` : ''}</h3>` +
       `<p>${monthsText(pair ? pair.mb : 0)} / ${D.source}: ${sourceText(pair)}</p></div>` +
     `</div>`;

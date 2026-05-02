@@ -115,6 +115,22 @@ CREATE TABLE IF NOT EXISTS species_photo (
 );
 
 CREATE INDEX IF NOT EXISTS idx_species_photo_species ON species_photo(species_id);
+
+-- Optional species-level field guide text for the detail modal. The demo uses
+-- this when available and falls back to group-level guide text otherwise.
+CREATE TABLE IF NOT EXISTS species_profile (
+    id              INTEGER PRIMARY KEY,
+    species_id      INTEGER NOT NULL REFERENCES species(id) ON DELETE CASCADE,
+    lang            TEXT NOT NULL,           -- 'ja' | 'en' | 'zh' | 'zhT'
+    summary         TEXT NOT NULL,
+    habitat_hint    TEXT,
+    finding_tips    TEXT,
+    sources         TEXT,                    -- JSON array or short source note
+    updated_at      TEXT NOT NULL,
+    UNIQUE(species_id, lang)
+);
+
+CREATE INDEX IF NOT EXISTS idx_species_profile_species_lang ON species_profile(species_id, lang);
 """
 
 
