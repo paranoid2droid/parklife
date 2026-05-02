@@ -77,9 +77,14 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - 2026-05-02 partial follow-up: user paused a long `collect_species_photos 1000 5` run before commit. It had already added more rows before stopping; resume later with `.venv/bin/python -m scripts.collect_species_photos 1000 5` during a long wait. Progress output now uses `flush=True` so future long runs show live status.
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
-8. **Mobile demo UX** — ✅ shipped 2026-05-02. On small screens, tapping a map marker now switches directly to the species/detail list; the park header includes a localized `地図 / Map / 地图 / 地圖` button to return to the map. The floating split/map/list toggle remains as a secondary control.
+8. **Mobile demo UX** — ✅ shipped 2026-05-02. On small screens, tapping a map marker now switches directly to the species/detail list; the park header includes a localized `地図 / Map / 地图 / 地圖` button to return to the default split map+detail view. The old bottom-right split/map/list floating toggle and pure-map mode were removed as redundant.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — simplify mobile view switching
+- Removed the bottom-right mobile view toggle and pure-map mode from `scripts/export_html.py`.
+- Mobile now has two states only: default split map+detail, and marker-focused detail list; the in-panel map button returns to split view.
+- Regenerated `docs/index.html`; Python compile and generated JS `node --check` passed.
 
 ### 2026-05-02 (Codex) — mobile detail flow + partial photo commit
 - Paused the in-progress `scripts.collect_species_photos 1000 5` run at user request and exported the partial result: current docs have 1,282 visible species with 5-image galleries.
