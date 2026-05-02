@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, a multi-photo species modal carousel, demo data-source filter, unclassified display cleanup, detailed animal taxonomy cleanup, and user-friendly top-level observation groups. Current demo export has 7,052 visible species; 6,521 have at least one image, 858 visible species have 5-image galleries, and top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, a multi-photo species modal carousel, demo data-source filter, unclassified display cleanup, detailed animal taxonomy cleanup, user-friendly top-level observation groups, and the first species-level profile layer. Current demo export has 7,052 visible species; 6,521 have at least one image, 858 visible species have 5-image galleries, 24 visible species have curated Japanese profile text, and top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
 
 ## In progress
 
@@ -70,7 +70,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 7. **Species observation-guide profiles** — MVP shipped 2026-05-02 in `scripts/export_html.py`: photo hover/tap shows a 🔍 button; clicking opens a modal with enlarged photo, difficulty score, season/source clues, and group-based finding tips in all UI languages.
 
    **Follow-up**:
-   - Add a real `species_profile` data layer (`species_id`, `lang`, `summary`, `habitat_hint`, `finding_tips`, `sources`, `updated_at`) for curated / generated species-specific text.
+   - ✅ First `species_profile` data layer shipped 2026-05-02: schema in `parklife/db.py`, seed script `scripts.seed_species_profiles`, export field `sp.pr`, and modal profile rendering. Current seed has 24 curated Japanese profiles. Continue by adding more entries to `PROFILES_JA`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`.
    - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
    - Improve difficulty using per-park `observation_count`, month selected, and source diversity; current MVP uses global park count + pair source count + taxon-group heuristics.
    - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Current DB/docs cover 510 high-frequency species with 5 images each; continue with `.venv/bin/python -m scripts.collect_species_photos 500 5` to add the next 500 species.
@@ -78,6 +78,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — species-level profile MVP
+- Added `species_profile` schema (`species_id`, `lang`, `summary`, `habitat_hint`, `finding_tips`, `sources`, `updated_at`) and `scripts.seed_species_profiles`.
+- Seeded 24 curated Japanese profiles for common/high-impact species (birds, insects, reptile/amphibian, crustaceans, plants, fungus, fish, mammal), including アメリカザリガニ, サワガニ, ハスノハカシパン.
+- Export now includes `sp.pr`; modal shows profile sections when available and falls back to group-level guide text otherwise. Regenerated `docs/index.html`; JS syntax check passed.
 
 ### 2026-05-02 (Codex) — user-friendly observation groups
 - Reworked demo top-level grouping in `scripts/export_html.py`: DB `taxon_group` stays detailed, export now maps to observation groups (`plant`, `bird`, `insect`, `arachnid_myriapod`, `crustacean`, `fish`, `herp`, `mammal`, `mollusk`, `small_aquatic`, `mushroom`).
