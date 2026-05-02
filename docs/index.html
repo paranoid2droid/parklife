@@ -278,13 +278,20 @@ function ebirdSpeciesUrl(sp) {
   return siteLanguage ? `${base}?siteLanguage=${siteLanguage}` : base;
 }
 
+function inatTaxonUrl(sp) {
+  const locale = displayLang === 'ja' ? 'ja'
+               : (displayLang === 'zh' || displayLang === 'zhT') ? 'zh'
+               : 'en';
+  return `https://www.inaturalist.org/taxa/${sp.tid}?locale=${locale}`;
+}
+
 function speciesCardHtml(sp) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
   const name = displayName(sp);
   const sci = sp.sci ? `<div class="sci">${sp.sci}</div>` : '';
   const wiki = `<a href="${wikiSearchUrl(sp)}" target="_blank" rel="noopener" title="Wikipedia">Wiki</a>`;
-  const inat = sp.tid ? `<a href="https://www.inaturalist.org/taxa/${sp.tid}" target="_blank" rel="noopener" title="iNaturalist">iNat</a>` : '';
+  const inat = sp.tid ? `<a href="${inatTaxonUrl(sp)}" target="_blank" rel="noopener" title="iNaturalist">iNat</a>` : '';
   const ebird = sp.eb ? `<a href="${ebirdSpeciesUrl(sp)}" target="_blank" rel="noopener" title="eBird">eBird</a>` : '';
   const links = `<div class="links">${wiki}${inat}${ebird}</div>`;
   return `<div class="${cls}"><div class="ph" ${photo}></div>` +
