@@ -111,7 +111,11 @@ def _extract_scientific(text: str) -> str | None:
 GROUP_TO_KINGDOM: dict[str, str] = {
     "bird": "animalia", "mammal": "animalia", "amphibian": "animalia",
     "reptile": "animalia", "insect": "animalia", "arachnid": "animalia",
-    "fish": "animalia", "mollusk": "animalia",
+    "fish": "animalia", "mollusk": "animalia", "crustacean": "animalia",
+    "myriapod": "animalia", "echinoderm": "animalia", "cnidarian": "animalia",
+    "annelid": "animalia", "flatworm": "animalia", "sea_spider": "animalia",
+    "springtail": "animalia", "nematode": "animalia", "rotifer": "animalia",
+    "bryozoan": "animalia", "brachiopod": "animalia", "arthropod": "animalia",
     "tree": "plantae", "shrub": "plantae", "herb": "plantae",
     "vine": "plantae", "fern": "plantae", "moss": "plantae",
     "plant": "plantae",
