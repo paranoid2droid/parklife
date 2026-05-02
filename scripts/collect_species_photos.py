@@ -67,7 +67,7 @@ def fetch_photos(taxon_id: int, *, per_page: int = 40) -> tuple[dict | None, boo
         timeout=30,
     )
     if r.status_code != 200:
-        print(f"  taxon {taxon_id}: HTTP {r.status_code}", file=sys.stderr)
+        print(f"  taxon {taxon_id}: HTTP {r.status_code}", file=sys.stderr, flush=True)
         return None, True
     data = r.json()
     cp.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
@@ -122,7 +122,7 @@ def main(limit: int | None = 500, max_photos: int = 5) -> int:
         """, (max_photos,)))
     if limit:
         rows = rows[:limit]
-    print(f"species needing gallery photos: {len(rows)}")
+    print(f"species needing gallery photos: {len(rows)}", flush=True)
 
     fetched = cache_hits = inserted = with_photos = 0
     with db.connect(db_path) as conn:
@@ -148,14 +148,14 @@ def main(limit: int | None = 500, max_photos: int = 5) -> int:
                 conn.commit()
                 name = r["common_name_ja"] or r["scientific_name"] or r["id"]
                 print(f"  [{i:>4}/{len(rows)}] {str(name)[:28]:<28} photos={len(photos)} "
-                      f"inserted={inserted} fetched={fetched} cache={cache_hits}")
+                      f"inserted={inserted} fetched={fetched} cache={cache_hits}", flush=True)
         conn.commit()
 
-    print("\n=== collect_species_photos done ===")
-    print(f"  species tried: {len(rows)}")
-    print(f"  species with photos: {with_photos}")
-    print(f"  fetched: {fetched}  cache: {cache_hits}")
-    print(f"  new photo rows: {inserted}")
+    print("\n=== collect_species_photos done ===", flush=True)
+    print(f"  species tried: {len(rows)}", flush=True)
+    print(f"  species with photos: {with_photos}", flush=True)
+    print(f"  fetched: {fetched}  cache: {cache_hits}", flush=True)
+    print(f"  new photo rows: {inserted}", flush=True)
     return 0
 
 
