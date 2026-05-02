@@ -389,9 +389,6 @@ main { display: flex; height: calc(100vh - 50px); }
 .parking.no { background: #fde7e7; color: #b03030; }
 .parking.unknown { background: #f0f0f0; color: #888; }
 
-/* mobile toggle: hidden on desktop, visible <=768px */
-#view-toggle { display: none; }
-
 @media (max-width: 768px) {
   header { padding: 6px 8px; gap: 6px 10px; }
   header h1 { font-size: 14px; flex-basis: 100%; }
@@ -406,19 +403,10 @@ main { display: flex; height: calc(100vh - 50px); }
           height: 45vh; border-left: none; border-top: 1px solid #ddd;
           padding: 10px 12px; }
 
-  /* full-view modes */
-  body.view-map #side { display: none; }
-  body.view-map #map  { height: calc(100vh - 90px); }
+  /* Mobile detail mode: marker tap hides the map until the user returns. */
   body.view-list #map { display: none; }
   body.view-list #side { height: calc(100vh - 90px); }
   .park-map-btn { display: inline-flex; align-items: center; }
-
-  #view-toggle {
-    display: block; position: fixed; right: 10px; bottom: 10px; z-index: 1000;
-    background: #2a6b3b; color: #fff; border: none; border-radius: 24px;
-    padding: 10px 14px; font-size: 14px; box-shadow: 0 2px 8px rgba(0,0,0,.25);
-    cursor: pointer;
-  }
 
   .grid { grid-template-columns: repeat(auto-fill, minmax(96px,1fr)); }
   .inspect-btn { opacity: 1; transform: none; }
@@ -466,7 +454,6 @@ main { display: flex; height: calc(100vh - 50px); }
     <div class="placeholder">📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用</div>
   </aside>
 </main>
-<button id="view-toggle" type="button" aria-label="切り替え">📋 一覧</button>
 <div id="species-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
   <div class="modal-backdrop" data-modal-close></div>
   <div class="modal-panel">
@@ -1440,15 +1427,8 @@ if (langSel) {
 
 refreshMap();
 
-// Mobile view toggle (split / map-only / list-only)
-const toggleBtn = document.getElementById('view-toggle');
-const VIEWS = ['split', 'map', 'list'];
-const VIEW_LABELS = {
-  ja: { split: '🗺 全画面地図', map: '📋 一覧', list: '🗺 地図' },
-  en: { split: '🗺 Full map', map: '📋 List', list: '🗺 Map' },
-  zh: { split: '🗺 全屏地图', map: '📋 列表', list: '🗺 地图' },
-  zhT: { split: '🗺 全螢幕地圖', map: '📋 列表', list: '🗺 地圖' },
-};
+// Mobile view: default split map+detail, marker tap focuses the detail list.
+const VIEWS = ['split', 'list'];
 let viewIdx = 0;
 function isMobileView() {
   return window.matchMedia && window.matchMedia('(max-width: 768px)').matches;
@@ -1463,7 +1443,7 @@ function showListViewOnMobile() {
   if (isMobileView()) setView('list');
 }
 function showMapViewOnMobile() {
-  if (isMobileView()) setView('map');
+  if (isMobileView()) setView('split');
 }
 function wirePanelViewButtons() {
   sideEl.querySelectorAll('[data-show-map]').forEach(btn => {
@@ -1472,17 +1452,10 @@ function wirePanelViewButtons() {
 }
 function applyView() {
   const v = VIEWS[viewIdx];
-  const L = VIEW_LABELS[displayLang] || VIEW_LABELS.ja;
   document.body.classList.remove('view-map', 'view-list');
-  if (v === 'map')  document.body.classList.add('view-map');
   if (v === 'list') document.body.classList.add('view-list');
-  toggleBtn.textContent = L[VIEWS[(viewIdx + 1) % VIEWS.length]];
   setTimeout(() => map.invalidateSize(), 50);
 }
-toggleBtn.addEventListener('click', () => {
-  viewIdx = (viewIdx + 1) % VIEWS.length;
-  applyView();
-});
 applyView();
 window.addEventListener('resize', () => map.invalidateSize());
 
