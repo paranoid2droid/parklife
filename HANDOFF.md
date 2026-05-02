@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, and modal source labels. Current demo export has 7,052 visible species; photo coverage last measured 6,521/7,044 before eBird.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, and a multi-photo species modal carousel. Current demo export has 7,052 visible species; 6,521 have at least one image, and 510 high-frequency species have 5-image galleries.
 
 ## In progress
 
@@ -73,10 +73,15 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - Add a real `species_profile` data layer (`species_id`, `lang`, `summary`, `habitat_hint`, `finding_tips`, `sources`, `updated_at`) for curated / generated species-specific text.
    - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
    - Improve difficulty using per-park `observation_count`, month selected, and source diversity; current MVP uses global park count + pair source count + taxon-group heuristics.
-   - Add multi-photo modal carousel. Current DB/export has only `species.photo_url`; iNat cache mostly stores taxon `default_photo`. Recommended design: add `species_photos` or exported `sp.imgs`, populate top/common species first via iNat observations/photos (3–5 licensed medium URLs per taxon), then add left/right buttons + touch swipe in modal.
+   - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Current DB/docs cover 510 high-frequency species with 5 images each; continue with `.venv/bin/python -m scripts.collect_species_photos 500 5` to add the next 500 species.
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — multi-photo species modal
+- Added `species_photo` schema and `scripts/collect_species_photos.py`, which caches iNat observation photo queries under `data/cache/inat_photos/` and stores 3–5 gallery URLs per species.
+- Ran the script for 510 high-frequency species total, adding 2,550 local DB photo rows; export now includes `sp.imgs` and 510 species have 5-image galleries.
+- Modal now supports previous/next buttons, keyboard arrows, and touch swipe; regenerated `docs/index.html` (3.8 MB) and `node --check` passed.
 
 ### 2026-05-02 (Codex) — modal source labels + photo-carousel planning
 - Export now derives per park-species source codes from `observation.location_hint` / `source.url` and appends them to `DATA.pairs`; modal displays localized source names instead of only a count.
