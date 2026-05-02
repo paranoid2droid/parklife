@@ -165,6 +165,126 @@ PROFILES_JA: dict[str, dict[str, str | list[str]]] = {
         "finding_tips": "早朝や夕方に静かな場所を観察します。野生動物なので近づきすぎず、餌を与えないでください。",
         "sources": ["iNaturalist", "Wikipedia"],
     },
+    "Corvus macrorhynchos": {
+        "summary": "大きなくちばしと額の盛り上がりが目立つ都市公園の代表的なカラスです。雑食性で、木の実、小動物、人の活動に由来する食べ物も利用します。",
+        "habitat_hint": "高木、広場、園路、池の周辺、売店やごみ置き場の近く。",
+        "finding_tips": "太い声と大きな体を手がかりに探します。ハシボソガラスより額が高く、くちばしが太く見えます。繁殖期は巣に近づきすぎないでください。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Ardea cinerea": {
+        "summary": "日本の公園で見られる大型のサギです。長い首と脚をもち、水辺で魚やカエル、小動物をじっと待って捕らえます。",
+        "habitat_hint": "池、川、湿地、浅い水辺、岸辺の木や杭。",
+        "finding_tips": "水際に立つ灰色の大きな鳥を探します。動きは少ないので、岸辺を広く見渡すと見つけやすいです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Corvus corone": {
+        "summary": "開けた草地や農地、公園にも現れるカラスです。ハシブトガラスよりくちばしが細めで、額の段差がなだらかです。",
+        "habitat_hint": "芝生、広場、川沿い、畑に近い公園、開けた園路。",
+        "finding_tips": "地面を歩いて採食する姿を探します。近くにハシブトガラスがいれば、くちばしと頭の形を比べると識別しやすいです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Spodiopsar cineraceus": {
+        "summary": "群れで行動することが多い都市公園の身近な鳥です。芝生や園路で虫や種子を探し、夕方には集団ねぐらへ向かいます。",
+        "habitat_hint": "芝生、広場、低い草地、街路樹、建物周辺。",
+        "finding_tips": "地面で群れて歩く黒っぽい鳥を探します。白い顔と橙色の脚が見えたらムクドリの可能性が高いです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Chloris sinica": {
+        "summary": "黄色みのある翼が目立つ小鳥で、種子をよく食べます。群れで木の上や草地を移動することがあります。",
+        "habitat_hint": "草地、林縁、実や種子の多い木、開けた園路沿い。",
+        "finding_tips": "飛んだ時に翼の黄色い帯を確認します。冬は群れで見つかりやすく、木の上から声が聞こえることもあります。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Columba livia": {
+        "summary": "都市部で非常に身近なハトです。公園の広場や建物周辺を利用し、地面で種子や落ちた食べ物を探します。",
+        "habitat_hint": "広場、駅や建物に近い公園、橋の下、舗装された園路。",
+        "finding_tips": "群れで歩く姿を探します。野生由来ではなく都市環境に適応した個体が多いので、餌やりは避けて観察します。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Phalacrocorax carbo": {
+        "summary": "黒い体で水中に潜って魚を捕る大型の水鳥です。休む時は杭や木の上で翼を広げることがあります。",
+        "habitat_hint": "大きめの池、川、海辺に近い水域、杭や中洲。",
+        "finding_tips": "水面に低く浮かぶ黒い鳥や、潜った後に少し離れて浮上する姿を探します。翼を広げて乾かす姿も目印です。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Hirundo rustica": {
+        "summary": "春から夏にかけて見られる身近なツバメです。空中で小さな昆虫を捕り、建物や橋の近くで繁殖します。",
+        "habitat_hint": "開けた広場、水辺、建物の軒下、橋や管理施設の周辺。",
+        "finding_tips": "低くすばやく飛ぶ細い翼の鳥を探します。雨前や水辺では低空を飛ぶことが多く、尾の長い形が手がかりです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Phoenicurus auroreus": {
+        "summary": "冬に公園へやってくる小鳥で、雄は橙色の腹と黒い顔が目立ちます。開けた場所の低い枝や杭から虫を探します。",
+        "habitat_hint": "林縁、低木、畑や草地の縁、フェンスや杭のある場所。",
+        "finding_tips": "尾を細かく震わせる小鳥を探します。同じ止まり場所に戻ることがあるので、少し待つと観察しやすいです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Turdus eunomus": {
+        "summary": "冬に芝生や林床でよく見られるツグミ類です。地面を数歩歩いて止まる動きを繰り返し、ミミズや実を探します。",
+        "habitat_hint": "芝生、明るい林床、落ち葉のある広場、実のなる木の下。",
+        "finding_tips": "地面で胸を張って立ち止まる鳥を探します。冬から早春に見つけやすく、落ち葉をめくる音も手がかりです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Egretta garzetta": {
+        "summary": "白い体と黒い脚、黄色い足先が特徴の小型のサギです。浅い水辺を歩きながら魚や小動物を捕ります。",
+        "habitat_hint": "池や川の浅瀬、湿地、水路、干潟に近い水辺。",
+        "finding_tips": "白いサギを見つけたら足先の黄色を確認します。水際を歩き回る個体は採食中で、動きを観察しやすいです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Anas platyrhynchos": {
+        "summary": "世界的に広く見られるカモで、公園の池でも観察しやすい鳥です。水面で休み、水草や小動物を利用します。",
+        "habitat_hint": "池、流れの緩い川、岸辺の草地、人工池。",
+        "finding_tips": "池の岸から水面をゆっくり見渡します。雄は緑色の頭が目立ちますが、雌や若鳥は褐色で周囲に溶け込みます。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Lanius bucephalus": {
+        "summary": "小さな猛禽のような習性をもつ鳥で、昆虫や小動物を捕ります。秋冬の公園では低木や杭の上に止まる姿が目立ちます。",
+        "habitat_hint": "草地の縁、低木、開けた林縁、フェンスや杭のある場所。",
+        "finding_tips": "見晴らしのよい低い枝や杭に単独で止まる鳥を探します。尾を回すように動かすしぐさも手がかりです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Anas crecca": {
+        "summary": "小型のカモで、冬に池や湿地で見られます。水面や浅瀬で植物質の餌を探します。",
+        "habitat_hint": "池、湿地、浅い水辺、流れのゆるい川。",
+        "finding_tips": "ほかのカモより小さい個体を探します。岸近くや草の陰にいることが多いので、双眼鏡があると見つけやすいです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Ardea alba": {
+        "summary": "白い大型のサギで、長い首と脚が目立ちます。浅い水辺で魚や小動物を待ち伏せします。",
+        "habitat_hint": "池、川、湿地、干潟に近い浅い水辺。",
+        "finding_tips": "遠くからでも白く大きな姿が目立ちます。コサギより大きく、脚全体が黒っぽく見えることが多いです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Yungipicus kizuki": {
+        "summary": "日本の公園でも出会いやすい小型のキツツキです。幹や枝を移動しながら、樹皮のすき間の昆虫を探します。",
+        "habitat_hint": "雑木林、古い木の多い園路、林縁、枯れ枝のある木立。",
+        "finding_tips": "細い鳴き声や軽いドラミング音を聞いたら、幹や枝を下から上へ移動する小鳥を探します。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Horornis diphone": {
+        "summary": "春のさえずりで有名な小鳥ですが、姿は藪の中に隠れがちです。虫を食べ、低木や笹の多い場所を利用します。",
+        "habitat_hint": "藪、笹、低木の多い林縁、湿った谷筋。",
+        "finding_tips": "春は声を頼りに探します。姿を見るには、声のする藪の縁で静かに待ち、動く影を追うのが近道です。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Milvus migrans": {
+        "summary": "空を旋回する大型の猛禽です。海岸や川、公園上空でも見られ、死肉や魚、人の食べ物由来のものも利用します。",
+        "habitat_hint": "海や川に近い公園、広い空が見える場所、上昇気流の出る斜面や広場。",
+        "finding_tips": "空を見上げ、翼を広げて輪を描く大きな鳥を探します。尾が浅く二股に見えることがあります。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Cyanopica cyanus": {
+        "summary": "長い尾と青い翼が美しいカラスの仲間です。群れで行動し、林縁や住宅地に近い公園にも現れます。",
+        "habitat_hint": "明るい林、林縁、園路沿いの高木、住宅地に近い緑地。",
+        "finding_tips": "にぎやかな群れの声を聞いたら、木の中ほどから上を探します。飛ぶと長い尾と青い翼がよく目立ちます。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
+    "Emberiza personata": {
+        "summary": "冬の藪や林縁でよく見られるホオジロ類です。地面や低い草の間で種子を探します。",
+        "habitat_hint": "藪、草地の縁、林床、落ち葉のある低木帯。",
+        "finding_tips": "地面近くで小さく動く鳥を探します。驚くと近くの枝に上がることがあるので、飛んだ先を追うと確認しやすいです。",
+        "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    },
 }
 
 
@@ -264,6 +384,86 @@ PROFILES_EN_ZH: dict[str, dict[str, dict[str, str]]] = {
     "Nyctereutes viverrinus": {
         "en": {"summary": "A mostly nocturnal mammal that can appear in suburban woods and watersides. Tracks and latrine sites are often easier to notice than the animal itself.", "habitat_hint": "Woodland edges, grassland, watersides, and quiet paths.", "finding_tips": "Try early morning or evening in quiet areas. Keep distance and never feed wild mammals."},
         "zh": {"summary": "偏夜行性的哺乳动物，也会出现在城市近郊的林地和水边。足迹和固定排便点有时比本体更容易发现。", "habitat_hint": "林缘、草地、水边和人少的园路周边。", "finding_tips": "清晨或傍晚在安静地点观察。请保持距离，不要投喂野生动物。"},
+    },
+    "Corvus macrorhynchos": {
+        "en": {"summary": "A large-billed crow that is very common in urban parks. It is omnivorous, using fruit, small animals, and food linked to human activity.", "habitat_hint": "Tall trees, plazas, paths, watersides, and areas near shops or bins.", "finding_tips": "Listen for the deep call and look for a large crow with a heavy bill and high forehead. Avoid nest areas in breeding season."},
+        "zh": {"summary": "城市公园里常见的大嘴乌鸦，嘴粗、额头隆起明显。杂食，会利用果实、小动物和人类活动相关的食物。", "habitat_hint": "高树、广场、园路、水边、售店或垃圾点附近。", "finding_tips": "先听低沉叫声，再找体型大、嘴粗的乌鸦。繁殖期请不要靠近巢区。"},
+    },
+    "Ardea cinerea": {
+        "en": {"summary": "A large heron often seen in Japanese parks. It waits patiently at watersides to catch fish, frogs, and small animals.", "habitat_hint": "Ponds, rivers, wetlands, shallow water, waterside trees, and posts.", "finding_tips": "Scan broadly for a tall grey bird standing at the edge of water. It often moves very little, so slow looking helps."},
+        "zh": {"summary": "日本公园水边常见的大型鹭类，长颈长脚，会静候鱼、蛙和小动物。", "habitat_hint": "池塘、河流、湿地、浅水边、岸边树木和木桩。", "finding_tips": "沿水边寻找灰色大型鸟。它常常几乎不动，慢慢扫视更容易发现。"},
+    },
+    "Corvus corone": {
+        "en": {"summary": "A crow of open lawns, farmland edges, and parks. Compared with the large-billed crow, the bill is slimmer and the forehead is smoother.", "habitat_hint": "Lawns, plazas, riversides, open paths, and parks near fields.", "finding_tips": "Look for crows feeding on the ground. If large-billed crows are nearby, compare bill thickness and head shape."},
+        "zh": {"summary": "常见于开阔草地、农地边缘和公园的乌鸦。与大嘴乌鸦相比，嘴较细、额头较平缓。", "habitat_hint": "草坪、广场、河边、开阔园路和靠近农地的公园。", "finding_tips": "寻找在地面觅食的乌鸦。附近若有大嘴乌鸦，可比较嘴和头部轮廓。"},
+    },
+    "Spodiopsar cineraceus": {
+        "en": {"summary": "A familiar park bird that often moves in flocks. It feeds on insects and seeds on lawns and paths and may gather at roosts in the evening.", "habitat_hint": "Lawns, plazas, low grass, roadside trees, and building edges.", "finding_tips": "Watch for dark birds walking together on the ground. A pale face and orange legs are useful clues."},
+        "zh": {"summary": "常成群活动的熟悉公园鸟类，会在草坪和园路上寻找昆虫与种子，傍晚可能集群归巢。", "habitat_hint": "草坪、广场、低草地、行道树和建筑周边。", "finding_tips": "寻找在地面成群行走的黑色鸟。白脸和橙色脚是重要线索。"},
+    },
+    "Chloris sinica": {
+        "en": {"summary": "A small seed-eating bird with yellow wing patches. It may move in flocks between trees and open grassy areas.", "habitat_hint": "Grassland, woodland edges, seed-rich trees, and open paths.", "finding_tips": "Check for yellow bands in the wings when it flies. In winter, flocks and calls from treetops make it easier to find."},
+        "zh": {"summary": "带黄色翼斑的小型食籽鸟，会成群在树上和开阔草地间移动。", "habitat_hint": "草地、林缘、种子多的树和开阔园路。", "finding_tips": "飞起时注意翅上的黄色带。冬季群体和树冠上的叫声更容易提供线索。"},
+    },
+    "Columba livia": {
+        "en": {"summary": "A very familiar pigeon of urban areas. It uses plazas and building edges and feeds on seeds and fallen food on the ground.", "habitat_hint": "Plazas, parks near stations or buildings, under bridges, and paved paths.", "finding_tips": "Look for flocks walking on open ground. Observe without feeding, especially where feeding pigeons is discouraged."},
+        "zh": {"summary": "城市里非常常见的鸽类，常利用广场和建筑周边，在地面寻找种子和掉落食物。", "habitat_hint": "广场、靠近车站或建筑的公园、桥下和铺装园路。", "finding_tips": "寻找在开阔地行走的鸽群。观察即可，请避免投喂。"},
+    },
+    "Phalacrocorax carbo": {
+        "en": {"summary": "A large black waterbird that dives for fish. When resting, it may spread its wings on posts or trees.", "habitat_hint": "Large ponds, rivers, coastal waters, posts, and small islands.", "finding_tips": "Look for a dark bird floating low, diving, then resurfacing some distance away. Wing-spreading is another strong clue."},
+        "zh": {"summary": "大型黑色水鸟，会潜水捕鱼。休息时常在木桩或树上张开翅膀。", "habitat_hint": "较大的池塘、河流、近海水域、木桩和小洲。", "finding_tips": "寻找低浮在水面的黑色鸟，潜水后会在较远处浮出。张翼晾干也很醒目。"},
+    },
+    "Hirundo rustica": {
+        "en": {"summary": "A swallow seen from spring to summer. It catches tiny insects in the air and often nests near buildings or bridges.", "habitat_hint": "Open plazas, watersides, building eaves, bridges, and park facilities.", "finding_tips": "Watch for fast, low flight with narrow wings and a forked tail. Before rain and near water it often flies low."},
+        "zh": {"summary": "春夏常见的燕子，会在空中捕食小昆虫，也常在建筑和桥附近繁殖。", "habitat_hint": "开阔广场、水边、屋檐、桥和公园设施周边。", "finding_tips": "寻找低空快速飞行、翅窄尾叉的鸟。雨前和水边常飞得更低。"},
+    },
+    "Phoenicurus auroreus": {
+        "en": {"summary": "A winter visitor to parks. Males show an orange belly and dark face, and both sexes hunt from low perches.", "habitat_hint": "Woodland edges, shrubs, field edges, fences, and posts.", "finding_tips": "Look for a small bird that quivers its tail. It often returns to the same perch, so waiting can pay off."},
+        "zh": {"summary": "冬季来到公园的小鸟，雄鸟橙色腹部和黑脸明显，常从低枝或木桩上捕虫。", "habitat_hint": "林缘、灌木、田地边缘、围栏和木桩。", "finding_tips": "寻找会轻轻抖尾的小鸟。它常回到同一停歇点，等一会儿更容易观察。"},
+    },
+    "Turdus eunomus": {
+        "en": {"summary": "A winter thrush often seen on lawns and forest floors. It walks a few steps, pauses upright, then searches for worms and fruit.", "habitat_hint": "Lawns, bright forest floor, leafy plazas, and under fruiting trees.", "finding_tips": "Watch the ground for a bird that walks and stops with an upright posture. Winter to early spring is best."},
+        "zh": {"summary": "冬季常在草坪和林床出现的鸫类，会走几步后直立停顿，寻找蚯蚓和果实。", "habitat_hint": "草坪、明亮林床、有落叶的广场和结果树下。", "finding_tips": "观察地面上走走停停、姿态较直的鸟。冬季到早春最容易遇到。"},
+    },
+    "Egretta garzetta": {
+        "en": {"summary": "A small white heron with black legs and yellow feet. It walks through shallow water catching fish and small animals.", "habitat_hint": "Shallow pond or river edges, wetlands, channels, and tidal watersides.", "finding_tips": "When you see a white egret, check for yellow feet. Actively walking birds are often feeding and easy to watch."},
+        "zh": {"summary": "小型白色鹭类，黑脚配黄色脚趾，会在浅水中行走捕食鱼和小动物。", "habitat_hint": "池塘或河流浅水边、湿地、水路和近潮汐水边。", "finding_tips": "看到白鹭时注意黄色脚趾。来回走动的个体多在觅食，便于观察。"},
+    },
+    "Anas platyrhynchos": {
+        "en": {"summary": "A widespread duck that is easy to observe on park ponds. It rests on water and feeds on aquatic plants and small animals.", "habitat_hint": "Ponds, slow rivers, grassy banks, and artificial ponds.", "finding_tips": "Scan the water slowly from the bank. Males have a green head, while females and young birds are mottled brown."},
+        "zh": {"summary": "分布广、在公园池塘容易观察的鸭类，会在水面休息并取食水草和小动物。", "habitat_hint": "池塘、缓流河段、岸边草地和人工池。", "finding_tips": "从岸边慢慢扫视水面。雄鸟绿头明显，雌鸟和幼鸟为褐色斑驳。"},
+    },
+    "Lanius bucephalus": {
+        "en": {"summary": "A songbird with raptor-like habits, catching insects and small animals. In autumn and winter it often perches on shrubs or posts.", "habitat_hint": "Grassland edges, shrubs, open woodland edges, fences, and posts.", "finding_tips": "Look for a solitary bird on a low exposed perch. Tail movements and a hooked bill are helpful clues."},
+        "zh": {"summary": "习性像小型猛禽的鸣禽，会捕食昆虫和小动物。秋冬常停在灌木或木桩上。", "habitat_hint": "草地边缘、灌木、开阔林缘、围栏和木桩。", "finding_tips": "寻找单独停在低处显眼位置的鸟。尾部动作和略钩的嘴是线索。"},
+    },
+    "Anas crecca": {
+        "en": {"summary": "A small duck seen on ponds and wetlands in winter. It feeds on plant material at the surface and in shallow water.", "habitat_hint": "Ponds, wetlands, shallow water, and slow rivers.", "finding_tips": "Look for ducks smaller than the others, often near banks or vegetation. Binoculars help because they can stay partly hidden."},
+        "zh": {"summary": "冬季在池塘和湿地可见的小型鸭类，会在水面和浅水处取食植物质。", "habitat_hint": "池塘、湿地、浅水区和缓流河段。", "finding_tips": "寻找比其他鸭子更小的个体，常在岸边或水草附近。用望远镜更容易确认。"},
+    },
+    "Ardea alba": {
+        "en": {"summary": "A large white heron with long legs and neck. It waits in shallow water for fish and small animals.", "habitat_hint": "Ponds, rivers, wetlands, tidal flats, and shallow watersides.", "finding_tips": "Its large white body is visible from far away. It is larger than a little egret and often looks long-legged and all-white."},
+        "zh": {"summary": "大型白色鹭类，长颈长脚，会在浅水中等待鱼和小动物。", "habitat_hint": "池塘、河流、湿地、干潟和浅水边。", "finding_tips": "远处也能看到它醒目的大型白色身影。比小白鹭更大，腿和颈显得更长。"},
+    },
+    "Yungipicus kizuki": {
+        "en": {"summary": "A small woodpecker that is fairly easy to meet in Japanese parks. It searches bark and branches for insects.", "habitat_hint": "Woodlots, older trees, woodland edges, and trees with dead branches.", "finding_tips": "Listen for thin calls or light drumming, then scan trunks and branches for a small bird moving upward."},
+        "zh": {"summary": "日本公园里较容易遇到的小型啄木鸟，会沿树干和枝条寻找树皮缝中的昆虫。", "habitat_hint": "杂木林、老树多的园路、林缘和有枯枝的树木。", "finding_tips": "听到细声或轻微啄木声后，沿树干和枝条寻找向上移动的小鸟。"},
+    },
+    "Horornis diphone": {
+        "en": {"summary": "Famous for its spring song but often hidden in dense vegetation. It feeds on insects in shrubs and bamboo grass.", "habitat_hint": "Thickets, bamboo grass, shrubby woodland edges, and damp valleys.", "finding_tips": "In spring, use the song as your guide. Wait quietly at the edge of the thicket and watch for movement."},
+        "zh": {"summary": "以春季鸣唱闻名，但本体常藏在密丛中。会在灌木和竹草间取食昆虫。", "habitat_hint": "灌丛、竹草、低木多的林缘和潮湿谷地。", "finding_tips": "春季先靠声音定位，在灌丛边安静等待，注意移动的影子。"},
+    },
+    "Milvus migrans": {
+        "en": {"summary": "A large raptor often seen circling in the sky. It uses coastal and riverside areas and may scavenge fish or food scraps.", "habitat_hint": "Parks near the sea or rivers, open skies, slopes, and wide plazas.", "finding_tips": "Look upward for a large bird circling with broad wings. The tail can look shallowly forked."},
+        "zh": {"summary": "常在天空盘旋的大型猛禽，常利用海边和河边环境，也会取食鱼或残食。", "habitat_hint": "靠海或河流的公园、视野开阔的天空、斜坡和大广场。", "finding_tips": "抬头寻找张开宽翼盘旋的大鸟。尾部有时看起来浅浅分叉。"},
+    },
+    "Cyanopica cyanus": {
+        "en": {"summary": "A crow relative with a long tail and blue wings. It moves in noisy groups through woodland edges and suburban parks.", "habitat_hint": "Open woods, woodland edges, tall trees along paths, and green spaces near housing.", "finding_tips": "When you hear a lively group, scan the middle and upper tree levels. The long tail and blue wings stand out in flight."},
+        "zh": {"summary": "长尾、蓝翼很漂亮的鸦科鸟类，常成群在林缘和住宅地附近公园活动。", "habitat_hint": "明亮树林、林缘、园路旁高树和靠近住宅的绿地。", "finding_tips": "听到热闹群声后，查看树的中上层。飞行时长尾和蓝色翅膀很明显。"},
+    },
+    "Emberiza personata": {
+        "en": {"summary": "A bunting often found in winter thickets and woodland edges. It searches for seeds on the ground and in low grass.", "habitat_hint": "Thickets, grass edges, forest floor, and low shrubs with leaf litter.", "finding_tips": "Look for small movements close to the ground. If it flushes, follow it to a nearby branch for a better view."},
+        "zh": {"summary": "冬季常见于灌丛和林缘的鹀类，会在地面和低草间寻找种子。", "habitat_hint": "灌丛、草地边缘、林床和有落叶的低木带。", "finding_tips": "寻找贴近地面的小动作。受惊飞起后常落到附近枝条上，跟过去更容易确认。"},
     },
 }
 
