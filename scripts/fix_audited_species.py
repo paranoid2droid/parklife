@@ -28,6 +28,32 @@ FIXES: list[dict] = [
      "set": {"taxon_group": "mammal"}},
 ]
 
+PLANT_NAME_FIXES = [
+    "アナベル",
+    "イヌザクラ",
+    "エリカ",
+    "カシワバアジサイ",
+    "カッコウアザミ属",
+    "キクタニギク",
+    "キツリフネ",
+    "コゴメウツギ",
+    "コブクザクラ",
+    "シオン",
+    "シロタエギク",
+    "ツリフネソウ",
+    "ドングリ",
+    "ニオイバンマツリ",
+    "ハナカイドウ",
+    "ヒャクニチソウ属",
+    "マリーゴールド",
+    "マーガレット",
+    "ミヤマヨメナ",
+    "ムラサキニガナ",
+    "ヤエザクラ",
+    "ラベンダー",
+    "ルリタマアザミ",
+]
+
 
 def main() -> None:
     db_path = ROOT / "data" / "parklife.db"
@@ -43,6 +69,15 @@ def main() -> None:
             params = list(f["set"].values()) + [sid]
             conn.execute(f"UPDATE species SET {sets} WHERE id=?", params)
             fixed += 1
+        for name in PLANT_NAME_FIXES:
+            cur = conn.execute(
+                """UPDATE species
+                   SET kingdom='plantae', taxon_group='plant'
+                   WHERE common_name_ja=?
+                     AND (kingdom IS NULL OR taxon_group IS NULL)""",
+                (name,),
+            )
+            fixed += cur.rowcount
         conn.commit()
     print(f"fixed {fixed} species rows")
 
