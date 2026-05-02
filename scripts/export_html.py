@@ -51,6 +51,14 @@ PREF_NAMES = {
 SOURCE_CODE_ORDER = ["official", "inat", "gbif", "ebird"]
 
 
+def modal_photo_url(url: str) -> str:
+    """Use a larger iNaturalist rendition for modal display when possible."""
+    return (url
+            .replace("/medium.", "/large.")
+            .replace("/small.", "/large.")
+            .replace("/square.", "/large."))
+
+
 def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
     """Map DB taxonomy to user-facing demo buckets."""
     if taxon_group in {"plant", "tree", "shrub", "herb", "vine", "fern", "moss"}:
@@ -129,8 +137,9 @@ def collect_data() -> dict:
     gallery: dict[int, list[str]] = {}
     for r in photo_rows:
         gallery.setdefault(r["species_id"], [])
-        if r["url"] and r["url"] not in gallery[r["species_id"]]:
-            gallery[r["species_id"]].append(r["url"])
+        url = modal_photo_url(r["url"]) if r["url"] else ""
+        if url and url not in gallery[r["species_id"]]:
+            gallery[r["species_id"]].append(url)
 
     # build dense indexes (DB ids may have gaps)
     pk_idx = {r["id"]: i for i, r in enumerate(park_rows)}
@@ -142,8 +151,9 @@ def collect_data() -> dict:
         if not group:
             continue
         imgs = list(gallery.get(r["id"], []))
-        if r["photo_url"] and r["photo_url"] not in imgs:
-            imgs.insert(0, r["photo_url"])
+        hero_photo = modal_photo_url(r["photo_url"]) if r["photo_url"] else ""
+        if hero_photo and hero_photo not in imgs:
+            imgs.insert(0, hero_photo)
         sp_idx[r["id"]] = len(species)
         species.append({
             "ja":   r["common_name_ja"] or "",
@@ -287,8 +297,9 @@ main { display: flex; height: calc(100vh - 50px); }
 .modal-close { position: absolute; top: 8px; right: 8px; width: 32px; height: 32px;
                border: 1px solid #ddd; border-radius: 50%; background: rgba(255,255,255,.92);
                cursor: pointer; font-size: 20px; line-height: 1; z-index: 2; }
-.modal-photo-wrap { position: relative; width: 100%; background: #ddd; overflow: hidden; }
-.modal-photo { width: 100%; aspect-ratio: 16 / 9; background: #ddd no-repeat center / cover; }
+.modal-photo-wrap { position: relative; width: 100%; aspect-ratio: 16 / 9;
+                    background: #111; overflow: hidden; display: grid; place-items: center; }
+.modal-photo { width: 100%; height: 100%; object-fit: contain; display: block; background: #111; }
 .modal-photo.no-photo { background: linear-gradient(135deg,#cfe7d4,#9bd1a8); }
 .photo-nav { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 48px;
              border: none; background: rgba(0,0,0,.36); color: #fff; font-size: 28px;
@@ -709,8 +720,9 @@ function openSpeciesModal(si) {
   const photos = speciesPhotos(sp);
   currentModal = { si, photoIdx: 0, photos };
   const hasGallery = photos.length > 1;
-  const photoCls = photos.length ? 'modal-photo' : 'modal-photo no-photo';
-  const photoStyle = photos.length ? `style="background-image:url('${photos[0]}')"` : '';
+  const photoEl = photos.length
+    ? `<img id="modal-photo" class="modal-photo" src="${photos[0]}" alt="${displayName(sp)}" />`
+    : `<div id="modal-photo" class="modal-photo no-photo"></div>`;
   const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
   const facts = [
     `${D.spread}: ${sp.n || 0}`,
@@ -720,7 +732,7 @@ function openSpeciesModal(si) {
   const content = document.getElementById('modal-content');
   content.innerHTML =
     `<div class="modal-photo-wrap" data-gallery-touch>` +
-      `<div id="modal-photo" class="${photoCls}" ${photoStyle}></div>` +
+      photoEl +
       `<button class="photo-nav prev${hasGallery ? '' : ' hidden'}" type="button" data-photo-prev aria-label="Previous photo">‹</button>` +
       `<button class="photo-nav next${hasGallery ? '' : ' hidden'}" type="button" data-photo-next aria-label="Next photo">›</button>` +
       `<div id="photo-count" class="photo-count${hasGallery ? '' : ' hidden'}">1 / ${photos.length}</div>` +
@@ -749,7 +761,7 @@ function renderModalPhoto() {
   const countEl = document.getElementById('photo-count');
   if (photoEl) {
     photoEl.classList.remove('no-photo');
-    photoEl.style.backgroundImage = `url('${currentModal.photos[currentModal.photoIdx]}')`;
+    if (photoEl.tagName === 'IMG') photoEl.src = currentModal.photos[currentModal.photoIdx];
   }
   if (countEl) {
     countEl.textContent = `${currentModal.photoIdx + 1} / ${currentModal.photos.length}`;
