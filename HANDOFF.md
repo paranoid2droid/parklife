@@ -81,7 +81,14 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 9. **Species category selection UX** — ✅ shipped 2026-05-02. The selected-park species panel now defaults to no category selected using `localStorage('parklife.selectedGroups.v2')`; users choose categories before species cards render. One selected category opens directly; multiple selected categories default collapsed with manual expand. Added localized quick actions: 全選択/全解除, Select all/none, 全选/全不选, 全選/全不選.
 
+10. **Location-based park recommendation** — ✅ shipped 2026-05-03. Initial selected park now defaults to the park nearest Tokyo Station. In secure contexts, the page requests browser geolocation; if the user is in Japan and within 80km of a data-backed park, it recommends the nearest park instead. If location is unavailable, outside Japan, or too far from the dataset, the Tokyo-center default remains. Manual marker clicks are respected and not overwritten by a late geolocation callback.
+
 ## Recent sessions
+
+### 2026-05-03 (Codex) — location-based recommendation
+- Added browser-geolocation recommendation to `scripts/export_html.py`: nearest data park is selected only when the user is in Japan and within 80km of available park data.
+- Default fallback changed from most-diverse park to nearest park around Tokyo Station, matching the "Tokyo center" fallback.
+- Regenerated `docs/index.html`; Python compile and generated JS `node --check` passed.
 
 ### 2026-05-03 (Codex) — category action placement
 - Moved Select all / Select none quick actions from their own controls row into the species-count line to save vertical space.
