@@ -285,6 +285,36 @@ PROFILES_JA: dict[str, dict[str, str | list[str]]] = {
         "finding_tips": "地面近くで小さく動く鳥を探します。驚くと近くの枝に上がることがあるので、飛んだ先を追うと確認しやすいです。",
         "sources": ["eBird", "iNaturalist", "Wikipedia"],
     },
+    "Erthesina fullo": {
+        "summary": "街路樹や公園の木でよく見られる大型のカメムシです。黒と黄色のまだら模様が目立ち、成虫は樹上や幹で見つかります。",
+        "habitat_hint": "サクラ、ケヤキなどの樹木、林縁、園路沿いの街路樹。",
+        "finding_tips": "幹や葉の裏をゆっくり見てください。日当たりのよい幹に止まっていることがあり、刺激すると飛ぶので近づきすぎないのがこつです。",
+        "sources": ["iNaturalist", "Wikipedia"],
+    },
+    "Hierodula patellifera": {
+        "summary": "幅広い緑色の体が目立つカマキリです。低木や草の上で待ち伏せし、近づく昆虫を捕らえます。",
+        "habitat_hint": "低木、花壇、草地の縁、林縁の明るい植え込み。",
+        "finding_tips": "花や低木の周りで、葉にまぎれる緑色の体を探します。秋は成虫が見つかりやすく、卵のうも手がかりになります。",
+        "sources": ["iNaturalist", "Wikipedia"],
+    },
+    "Harmonia axyridis": {
+        "summary": "公園でよく見られるテントウムシです。斑紋の変化が大きく、アブラムシを食べるため植物の新芽や茎で見つかります。",
+        "habitat_hint": "草地、花壇、低木、新芽の多い植え込み、アブラムシのいる植物。",
+        "finding_tips": "アブラムシがついた植物を探すと出会いやすいです。赤地に黒点だけでなく、黒地に赤点など模様の違いも観察できます。",
+        "sources": ["iNaturalist", "Wikipedia"],
+    },
+    "Graphium sarpedon": {
+        "summary": "青緑色の帯が美しい大型のチョウです。すばやく飛び、花や湿った地面に来ることがあります。",
+        "habitat_hint": "林縁、照葉樹のある場所、花の多い園路、水辺や湿った地面。",
+        "finding_tips": "黒っぽい大型のチョウが高速で飛ぶ姿を追います。花に来た時や地面で吸水している時が観察のチャンスです。",
+        "sources": ["iNaturalist", "Wikipedia"],
+    },
+    "Acrida cinerea": {
+        "summary": "細長い体と尖った頭が特徴のバッタです。草地で暮らし、近づくと細長い姿のまま飛び出します。",
+        "habitat_hint": "芝生、草地、河川敷風の開けた場所、園路脇の背の低い草。",
+        "finding_tips": "足元の草地をゆっくり歩き、飛び出す細長いバッタを目で追います。止まった先を確認すると形がよく分かります。",
+        "sources": ["iNaturalist", "Wikipedia"],
+    },
 }
 
 
@@ -464,6 +494,26 @@ PROFILES_EN_ZH: dict[str, dict[str, dict[str, str]]] = {
     "Emberiza personata": {
         "en": {"summary": "A bunting often found in winter thickets and woodland edges. It searches for seeds on the ground and in low grass.", "habitat_hint": "Thickets, grass edges, forest floor, and low shrubs with leaf litter.", "finding_tips": "Look for small movements close to the ground. If it flushes, follow it to a nearby branch for a better view."},
         "zh": {"summary": "冬季常见于灌丛和林缘的鹀类，会在地面和低草间寻找种子。", "habitat_hint": "灌丛、草地边缘、林床和有落叶的低木带。", "finding_tips": "寻找贴近地面的小动作。受惊飞起后常落到附近枝条上，跟过去更容易确认。"},
+    },
+    "Erthesina fullo": {
+        "en": {"summary": "A large stink bug often found on park trees and street trees. Its black-and-yellow mottled pattern is easy to notice on trunks and leaves.", "habitat_hint": "Cherry, zelkova, and other trees, woodland edges, and tree-lined paths.", "finding_tips": "Scan trunks and leaf undersides slowly. It may sit on sunny bark and can fly if disturbed, so approach gently."},
+        "zh": {"summary": "常见于公园树木和行道树上的大型椿象，黑黄斑驳的花纹在树干和叶片上很醒目。", "habitat_hint": "樱树、榉树等树木、林缘和园路旁行道树。", "finding_tips": "慢慢查看树干和叶背。它有时停在向阳树皮上，受惊会飞走，所以不要靠得太急。"},
+    },
+    "Hierodula patellifera": {
+        "en": {"summary": "A green mantis with a broad body. It waits on shrubs and grasses to ambush insects that come within reach.", "habitat_hint": "Shrubs, flower beds, grass edges, and bright woodland-edge plantings.", "finding_tips": "Look around flowers and low shrubs for a green body blending with leaves. Adults are easiest in autumn; egg cases are also clues."},
+        "zh": {"summary": "体型较宽的绿色螳螂，常在灌木和草上伏击靠近的昆虫。", "habitat_hint": "灌木、花坛、草地边缘和明亮林缘的植丛。", "finding_tips": "在花和低灌木周围寻找融入叶片的绿色身体。秋季成虫更容易见到，卵鞘也是线索。"},
+    },
+    "Harmonia axyridis": {
+        "en": {"summary": "A common lady beetle with highly variable markings. It eats aphids and is often found on new shoots and stems.", "habitat_hint": "Grassland, flower beds, shrubs, fresh shoots, and plants with aphids.", "finding_tips": "Check plants with aphids. Look for many color forms, from red with black spots to black with red spots."},
+        "zh": {"summary": "常见瓢虫，斑纹变化很大。它会捕食蚜虫，常出现在新芽和茎上。", "habitat_hint": "草地、花坛、灌木、新芽多的植丛和有蚜虫的植物。", "finding_tips": "查看有蚜虫的植物最容易遇到。除了红底黑点，也可观察黑底红点等不同花纹。"},
+    },
+    "Graphium sarpedon": {
+        "en": {"summary": "A large fast butterfly with a beautiful blue-green band. It visits flowers and sometimes damp ground.", "habitat_hint": "Woodland edges, evergreen trees, flower-rich paths, watersides, and damp ground.", "finding_tips": "Follow a dark large butterfly flying quickly. When it visits flowers or drinks on wet ground, you get the best view."},
+        "zh": {"summary": "带有蓝绿色条带的大型快速凤蝶，会访花，也会来到潮湿地面吸水。", "habitat_hint": "林缘、常绿树附近、花多的园路、水边和潮湿地面。", "finding_tips": "追踪快速飞行的黑色大型蝴蝶。它停在花上或湿地吸水时最容易观察。"},
+    },
+    "Acrida cinerea": {
+        "en": {"summary": "A slender grasshopper with a pointed head. It lives in grassland and jumps or flies out while keeping its long narrow shape.", "habitat_hint": "Lawns, grassland, open riverbank-like areas, and low grass along paths.", "finding_tips": "Walk slowly through grass and follow slender grasshoppers that spring out. Checking where they land reveals the body shape well."},
+        "zh": {"summary": "身体细长、头部尖的蝗虫，生活在草地中，靠近时会以细长身形跳飞出来。", "habitat_hint": "草坪、草地、类似河岸的开阔地和园路旁低草。", "finding_tips": "慢慢走过草地，追踪飞出的细长蝗虫。看清它落下的位置，就能很好确认体形。"},
     },
 }
 
