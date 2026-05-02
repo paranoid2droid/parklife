@@ -26,31 +26,19 @@ from parklife import db
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "export" / "index.html"
 
-# Render order for taxon group dropdown
+# User-facing observation groups. Detailed DB taxon_group values are preserved
+# in exported species rows as "tg" and shown in the modal.
 GROUP_ORDER = [
-    ("bird",      "🦜 鳥類"),
-    ("mammal",    "🦌 哺乳類"),
-    ("reptile",   "🦎 爬虫類"),
-    ("amphibian", "🐸 両生類"),
-    ("fish",      "🐟 魚類"),
-    ("crustacean", "🦀 甲殻類"),
-    ("insect",    "🐛 昆虫"),
-    ("arachnid",  "🕷 クモ類"),
-    ("myriapod",  "〰️ 多足類"),
-    ("mollusk",   "🐚 軟体動物"),
-    ("echinoderm", "✳️ 棘皮動物"),
-    ("cnidarian", "🪸 刺胞動物"),
-    ("annelid",   "🪱 環形動物"),
-    ("flatworm",  "➰ 扁形動物"),
-    ("sea_spider", "🕷 ウミグモ類"),
-    ("springtail", "▫️ トビムシ類"),
-    ("nematode",  "〰️ 線形動物"),
-    ("rotifer",   "◌ 輪形動物"),
-    ("bryozoan",  "▦ コケムシ類"),
-    ("brachiopod", "◖ 腕足動物"),
-    ("arthropod", "🐾 節足動物"),
-    ("other_animal", "🐾 その他動物"),
     ("plant",     "🌸 植物"),
+    ("bird",      "🦜 鳥類"),
+    ("insect",    "🐛 昆虫"),
+    ("arachnid_myriapod", "🕷 クモ・多足類"),
+    ("crustacean", "🦀 甲殻類"),
+    ("fish",      "🐟 魚類"),
+    ("herp",      "🐸 両生・爬虫類"),
+    ("mammal",    "🦌 哺乳類"),
+    ("mollusk",   "🐚 貝・軟体動物"),
+    ("small_aquatic", "🪸 その他水生・小動物"),
     ("mushroom",  "🍄 菌類"),
     ("unclassified", "🐾 その他生き物"),
 ]
@@ -76,8 +64,19 @@ def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
     """Map DB taxonomy to user-facing demo buckets."""
     if taxon_group in {"plant", "tree", "shrub", "herb", "vine", "fern", "moss"}:
         return "plant"
-    if taxon_group:
+    if taxon_group in {"bird", "mammal", "fish", "insect", "crustacean", "mollusk", "mushroom"}:
         return taxon_group
+    if taxon_group in {"reptile", "amphibian"}:
+        return "herp"
+    if taxon_group in {"arachnid", "myriapod", "sea_spider", "springtail", "arthropod"}:
+        return "arachnid_myriapod"
+    if taxon_group in {
+        "echinoderm", "cnidarian", "annelid", "flatworm",
+        "nematode", "rotifer", "bryozoan", "brachiopod",
+    }:
+        return "small_aquatic"
+    if taxon_group:
+        return "unclassified"
     k = (kingdom or "").lower()
     if k == "animalia":
         return "other_animal"
@@ -175,6 +174,7 @@ def collect_data() -> dict:
             "zhT":  zh_hant.get(r["id"], ""),
             "sci":  r["scientific_name"] or "",
             "g":    group,
+            "tg":   r["taxon_group"] or "",
             "k":    r["kingdom"] or "",
             "p":    r["photo_url"] or "",
             "imgs": imgs[:5],
@@ -520,6 +520,84 @@ const GROUP_LABEL = {
   },
 };
 
+const OBS_GROUP_LABEL = {
+  ja: {
+    plant: '🌸 植物', bird: '🦜 鳥類', insect: '🐛 昆虫',
+    arachnid_myriapod: '🕷 クモ・多足類', crustacean: '🦀 甲殻類',
+    fish: '🐟 魚類', herp: '🐸 両生・爬虫類', mammal: '🦌 哺乳類',
+    mollusk: '🐚 貝・軟体動物', small_aquatic: '🪸 その他水生・小動物',
+    mushroom: '🍄 菌類', unclassified: '🐾 その他生き物',
+  },
+  en: {
+    plant: '🌸 Plants', bird: '🦜 Birds', insect: '🐛 Insects',
+    arachnid_myriapod: '🕷 Spiders & myriapods', crustacean: '🦀 Crustaceans',
+    fish: '🐟 Fish', herp: '🐸 Amphibians & reptiles', mammal: '🦌 Mammals',
+    mollusk: '🐚 Shells & molluscs', small_aquatic: '🪸 Other aquatic small animals',
+    mushroom: '🍄 Fungi', unclassified: '🐾 Other life',
+  },
+  zh: {
+    plant: '🌸 植物', bird: '🦜 鸟类', insect: '🐛 昆虫',
+    arachnid_myriapod: '🕷 蜘蛛与多足类', crustacean: '🦀 甲壳类',
+    fish: '🐟 鱼类', herp: '🐸 两栖与爬行动物', mammal: '🦌 哺乳动物',
+    mollusk: '🐚 贝类与软体动物', small_aquatic: '🪸 其他水生小动物',
+    mushroom: '🍄 菌类', unclassified: '🐾 其他生物',
+  },
+  zhT: {
+    plant: '🌸 植物', bird: '🦜 鳥類', insect: '🐛 昆蟲',
+    arachnid_myriapod: '🕷 蜘蛛與多足類', crustacean: '🦀 甲殼類',
+    fish: '🐟 魚類', herp: '🐸 兩棲與爬蟲動物', mammal: '🦌 哺乳動物',
+    mollusk: '🐚 貝類與軟體動物', small_aquatic: '🪸 其他水生小動物',
+    mushroom: '🍄 菌類', unclassified: '🐾 其他生物',
+  },
+};
+
+const TAXON_GROUP_LABEL = {
+  ja: {
+    bird: '鳥類', mammal: '哺乳類', reptile: '爬虫類', amphibian: '両生類',
+    fish: '魚類', insect: '昆虫', crustacean: '甲殻類', arachnid: 'クモ類',
+    myriapod: '多足類', mollusk: '軟体動物', echinoderm: '棘皮動物',
+    cnidarian: '刺胞動物', annelid: '環形動物', flatworm: '扁形動物',
+    sea_spider: 'ウミグモ類', springtail: 'トビムシ類', nematode: '線形動物',
+    rotifer: '輪形動物', bryozoan: 'コケムシ類', brachiopod: '腕足動物',
+    arthropod: '節足動物', plant: '植物', tree: '樹木', shrub: '低木',
+    herb: '草本', vine: 'つる植物', fern: 'シダ植物', moss: 'コケ植物',
+    mushroom: '菌類',
+  },
+  en: {
+    bird: 'Birds', mammal: 'Mammals', reptile: 'Reptiles', amphibian: 'Amphibians',
+    fish: 'Fish', insect: 'Insects', crustacean: 'Crustaceans', arachnid: 'Arachnids',
+    myriapod: 'Myriapods', mollusk: 'Molluscs', echinoderm: 'Echinoderms',
+    cnidarian: 'Cnidarians', annelid: 'Annelids', flatworm: 'Flatworms',
+    sea_spider: 'Sea spiders', springtail: 'Springtails', nematode: 'Nematodes',
+    rotifer: 'Rotifers', bryozoan: 'Bryozoans', brachiopod: 'Brachiopods',
+    arthropod: 'Arthropods', plant: 'Plants', tree: 'Trees', shrub: 'Shrubs',
+    herb: 'Herbs', vine: 'Vines', fern: 'Ferns', moss: 'Mosses',
+    mushroom: 'Fungi',
+  },
+  zh: {
+    bird: '鸟类', mammal: '哺乳动物', reptile: '爬行动物', amphibian: '两栖动物',
+    fish: '鱼类', insect: '昆虫', crustacean: '甲壳类', arachnid: '蛛形类',
+    myriapod: '多足类', mollusk: '软体动物', echinoderm: '棘皮动物',
+    cnidarian: '刺胞动物', annelid: '环节动物', flatworm: '扁形动物',
+    sea_spider: '海蜘蛛类', springtail: '弹尾类', nematode: '线虫类',
+    rotifer: '轮虫类', bryozoan: '苔藓动物', brachiopod: '腕足动物',
+    arthropod: '节肢动物', plant: '植物', tree: '树木', shrub: '灌木',
+    herb: '草本', vine: '藤本', fern: '蕨类', moss: '苔藓植物',
+    mushroom: '菌类',
+  },
+  zhT: {
+    bird: '鳥類', mammal: '哺乳動物', reptile: '爬蟲動物', amphibian: '兩棲動物',
+    fish: '魚類', insect: '昆蟲', crustacean: '甲殼類', arachnid: '蛛形類',
+    myriapod: '多足類', mollusk: '軟體動物', echinoderm: '棘皮動物',
+    cnidarian: '刺胞動物', annelid: '環節動物', flatworm: '扁形動物',
+    sea_spider: '海蜘蛛類', springtail: '彈尾類', nematode: '線蟲類',
+    rotifer: '輪蟲類', bryozoan: '苔蘚動物', brachiopod: '腕足動物',
+    arthropod: '節肢動物', plant: '植物', tree: '樹木', shrub: '灌木',
+    herb: '草本', vine: '藤本', fern: '蕨類', moss: '苔蘚植物',
+    mushroom: '菌類',
+  },
+};
+
 const PARKING_LABELS = {
   ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: 'フィルタに一致する物種なし', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
   en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'No species match the filter', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
@@ -531,6 +609,7 @@ const DETAIL_LABELS = {
   ja: {
     inspect: '観察ガイドを開く', difficulty: '観察難度', guide: '見つけ方',
     parkClue: 'この公園での手がかり', season: '季節', source: '記録ソース',
+    taxonomy: '詳しい分類',
     spread: '記録公園数', unknownSeason: '通年または不明',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
     levels: ['とても見つけやすい','見つけやすい','少し探す','条件が合うと見つかる','かなり難しい'],
@@ -539,6 +618,7 @@ const DETAIL_LABELS = {
   en: {
     inspect: 'Open field guide', difficulty: 'Finding difficulty', guide: 'How to find it',
     parkClue: 'Clues in this park', season: 'Season', source: 'Record sources',
+    taxonomy: 'Detailed group',
     spread: 'Parks recorded', unknownSeason: 'Year-round or unknown',
     months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
     levels: ['Very easy','Easy','Takes some searching','Seasonal or habitat-dependent','Hard to find'],
@@ -547,6 +627,7 @@ const DETAIL_LABELS = {
   zh: {
     inspect: '打开观察指南', difficulty: '观察难度', guide: '寻找方法',
     parkClue: '这个公园里的线索', season: '季节', source: '记录来源',
+    taxonomy: '详细分类',
     spread: '有记录的公园数', unknownSeason: '全年或未知',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
     levels: ['很容易看到','比较容易','需要稍微寻找','看季节和环境','比较难看到'],
@@ -555,6 +636,7 @@ const DETAIL_LABELS = {
   zhT: {
     inspect: '打開觀察指南', difficulty: '觀察難度', guide: '尋找方法',
     parkClue: '這個公園裡的線索', season: '季節', source: '記錄來源',
+    taxonomy: '詳細分類',
     spread: '有記錄的公園數', unknownSeason: '全年或未知',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
     levels: ['很容易看到','比較容易','需要稍微尋找','看季節和環境','比較難看到'],
@@ -679,7 +761,14 @@ function displayName(sp) {
   return sp[displayLang] || sp.ja || sp.en || sp.sci || '?';
 }
 function groupLabel(g) {
-  return (GROUP_LABEL[displayLang] || GROUP_LABEL.ja)[g] || g;
+  return (OBS_GROUP_LABEL[displayLang] || OBS_GROUP_LABEL.ja)[g] || g;
+}
+function detailGroupLabel(sp) {
+  const key = sp.tg || sp.g || '';
+  return (TAXON_GROUP_LABEL[displayLang] || TAXON_GROUP_LABEL.ja)[key]
+      || (OBS_GROUP_LABEL[displayLang] || OBS_GROUP_LABEL.ja)[sp.g]
+      || key
+      || '-';
 }
 function labels() { return PARKING_LABELS[displayLang] || PARKING_LABELS.ja; }
 function detailLabels() { return DETAIL_LABELS[displayLang] || DETAIL_LABELS.ja; }
@@ -779,7 +868,7 @@ function difficultyLevel(sp, pair) {
   let level = n >= 80 ? 1 : n >= 30 ? 2 : n >= 10 ? 3 : n >= 3 ? 4 : 5;
   if ((pair && pair.sc || 0) >= 3) level -= 1;
   if (sp.g === 'plant' && n >= 3) level -= 1;
-  if ((sp.g === 'mushroom' || sp.g === 'amphibian' || sp.g === 'reptile') && level < 5) level += 1;
+  if ((sp.g === 'mushroom' || sp.g === 'herp' || sp.g === 'small_aquatic') && level < 5) level += 1;
   return Math.max(1, Math.min(5, level));
 }
 
@@ -791,7 +880,7 @@ function difficultyHtml(sp, pair) {
 
 function guideText(sp) {
   const templates = GUIDE_TEMPLATES[displayLang] || GUIDE_TEMPLATES.ja;
-  return templates[sp.g] || templates.unclassified;
+  return templates[sp.g] || templates[sp.tg] || templates.unclassified;
 }
 
 function speciesPhotos(sp) {
@@ -840,6 +929,7 @@ function openSpeciesModal(si) {
     : `<div id="modal-photo" class="modal-photo no-photo"></div>`;
   const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
   const facts = [
+    `${D.taxonomy}: ${detailGroupLabel(sp)}`,
     `${D.spread}: ${sp.n || 0}`,
     `${D.source}: ${sourceText(pair)}`,
     `${D.season}: ${monthsText(pair ? pair.mb : 0)}`,
