@@ -48,6 +48,8 @@ PREF_NAMES = {
     "saitama":  "埼玉県",
 }
 
+SOURCE_CODE_ORDER = ["official", "inat", "gbif", "ebird"]
+
 
 def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
     """Map DB taxonomy to user-facing demo buckets."""
@@ -92,6 +94,12 @@ def collect_data() -> dict:
         pair_rows = list(conn.execute("""
             SELECT park_id, species_id, months_bitmap, source_count
             FROM park_species
+        """))
+        source_rows = list(conn.execute("""
+            SELECT o.park_id, o.species_id, o.location_hint, s.url
+            FROM observation o
+            LEFT JOIN source s ON s.id = o.source_id
+            WHERE o.species_id IS NOT NULL
         """))
         # zh aliases (one preferred per species per variant)
         zh_rows = list(conn.execute("""
@@ -149,13 +157,32 @@ def collect_data() -> dict:
         }
         for r in park_rows
     ]
+
+    pair_sources: dict[tuple[int, int], set[str]] = {}
+    for r in source_rows:
+        codes = pair_sources.setdefault((r["park_id"], r["species_id"]), set())
+        hint = (r["location_hint"] or "").lower()
+        url = (r["url"] or "").lower()
+        if "ebird" in hint or "ebird" in url:
+            codes.add("ebird")
+        elif "gbif" in hint or "gbif" in url:
+            codes.add("gbif")
+        elif "inat" in hint or "inaturalist" in hint or "inaturalist" in url:
+            codes.add("inat")
+        else:
+            codes.add("official")
+
     pairs = []
     for r in pair_rows:
         pi = pk_idx.get(r["park_id"])
         si = sp_idx.get(r["species_id"])
         if pi is None or si is None:
             continue
-        pairs.append([pi, si, r["months_bitmap"] or 0, r["source_count"] or 1])
+        src = [
+            code for code in SOURCE_CODE_ORDER
+            if code in pair_sources.get((r["park_id"], r["species_id"]), set())
+        ]
+        pairs.append([pi, si, r["months_bitmap"] or 0, r["source_count"] or 1, src])
 
     return {
         "species": species, "parks": parks, "pairs": pairs,
@@ -228,12 +255,12 @@ main { display: flex; height: calc(100vh - 50px); }
 .card .links a:hover { background: #e8f4eb; }
 .card.no-photo .ph { background: linear-gradient(135deg,#cfe7d4,#9bd1a8); }
 .inspect-btn { position: absolute; right: 5px; bottom: 5px; width: 28px; height: 28px;
-               border: 1px solid rgba(255,255,255,.9); border-radius: 50%;
-               background: rgba(34,34,34,.72); color: #fff; display: grid;
-               place-items: center; font-size: 14px; cursor: pointer; opacity: 0;
-               transform: translateY(3px); transition: opacity .15s, transform .15s, background .15s; }
+               border: none; background: transparent; color: #fff; display: grid;
+               place-items: center; font-size: 17px; cursor: pointer; opacity: 0;
+               text-shadow: 0 1px 4px rgba(0,0,0,.85);
+               transform: translateY(3px); transition: opacity .15s, transform .15s, color .15s; }
 .card:hover .inspect-btn, .inspect-btn:focus { opacity: 1; transform: translateY(0); }
-.inspect-btn:hover { background: rgba(42,107,59,.92); }
+.inspect-btn:hover { color: #e8f4eb; }
 
 .modal.hidden { display: none; }
 .modal { position: fixed; inset: 0; z-index: 2000; display: grid; place-items: center;
@@ -418,6 +445,7 @@ const DETAIL_LABELS = {
     spread: '記録公園数', unknownSeason: '通年または不明',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
     levels: ['とても見つけやすい','見つけやすい','少し探す','条件が合うと見つかる','かなり難しい'],
+    sources: { official: '公園公式', inat: 'iNaturalist', gbif: 'GBIF', ebird: 'eBird' },
   },
   en: {
     inspect: 'Open field guide', difficulty: 'Finding difficulty', guide: 'How to find it',
@@ -425,6 +453,7 @@ const DETAIL_LABELS = {
     spread: 'Parks recorded', unknownSeason: 'Year-round or unknown',
     months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
     levels: ['Very easy','Easy','Takes some searching','Seasonal or habitat-dependent','Hard to find'],
+    sources: { official: 'Official park data', inat: 'iNaturalist', gbif: 'GBIF', ebird: 'eBird' },
   },
   zh: {
     inspect: '打开观察指南', difficulty: '观察难度', guide: '寻找方法',
@@ -432,6 +461,7 @@ const DETAIL_LABELS = {
     spread: '有记录的公园数', unknownSeason: '全年或未知',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
     levels: ['很容易看到','比较容易','需要稍微寻找','看季节和环境','比较难看到'],
+    sources: { official: '公园官网', inat: 'iNaturalist', gbif: 'GBIF', ebird: 'eBird' },
   },
   zhT: {
     inspect: '打開觀察指南', difficulty: '觀察難度', guide: '尋找方法',
@@ -439,6 +469,7 @@ const DETAIL_LABELS = {
     spread: '有記錄的公園數', unknownSeason: '全年或未知',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
     levels: ['很容易看到','比較容易','需要稍微尋找','看季節和環境','比較難看到'],
+    sources: { official: '公園官網', inat: 'iNaturalist', gbif: 'GBIF', ebird: 'eBird' },
   },
 };
 
@@ -514,8 +545,8 @@ function detailLabels() { return DETAIL_LABELS[displayLang] || DETAIL_LABELS.ja;
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
-for (const [pi, si, mb, sc] of DATA.pairs) {
-  parkSpecies[pi].push({si, mb, sc});
+for (const [pi, si, mb, sc, src] of DATA.pairs) {
+  parkSpecies[pi].push({si, mb, sc, src: src || []});
 }
 
 const map = L.map('map', { zoomControl: true }).setView([35.65, 139.7], 9);
@@ -592,6 +623,13 @@ function monthsText(bitmap) {
   return months.length ? months.join(' · ') : D.unknownSeason;
 }
 
+function sourceText(pair) {
+  const D = detailLabels();
+  const src = pair && pair.src && pair.src.length ? pair.src : [];
+  if (!src.length) return `${pair ? pair.sc || 1 : 1}`;
+  return src.map(code => D.sources[code] || code).join(' · ');
+}
+
 function difficultyLevel(sp, pair) {
   const n = sp.n || 0;
   let level = n >= 80 ? 1 : n >= 30 ? 2 : n >= 10 ? 3 : n >= 3 ? 4 : 5;
@@ -637,10 +675,9 @@ function openSpeciesModal(si) {
   const photoCls = sp.p ? 'modal-photo' : 'modal-photo no-photo';
   const photoStyle = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
-  const sourceCount = pair ? pair.sc || 1 : 1;
   const facts = [
     `${D.spread}: ${sp.n || 0}`,
-    `${D.source}: ${sourceCount}`,
+    `${D.source}: ${sourceText(pair)}`,
     `${D.season}: ${monthsText(pair ? pair.mb : 0)}`,
   ];
   const content = document.getElementById('modal-content');
@@ -652,7 +689,7 @@ function openSpeciesModal(si) {
       `<div class="modal-facts">${facts.map(f => `<span>${f}</span>`).join('')}</div>` +
       `<div class="modal-section"><h3>${D.guide}</h3><p>${guideText(sp)}</p></div>` +
       `<div class="modal-section"><h3>${D.parkClue}${park ? ` · ${park.n}` : ''}</h3>` +
-      `<p>${monthsText(pair ? pair.mb : 0)} / ${D.source}: ${sourceCount}</p></div>` +
+      `<p>${monthsText(pair ? pair.mb : 0)} / ${D.source}: ${sourceText(pair)}</p></div>` +
     `</div>`;
   document.getElementById('species-modal').classList.remove('hidden');
 }
