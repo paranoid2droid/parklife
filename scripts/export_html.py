@@ -113,7 +113,7 @@ def collect_data() -> dict:
         """))
         # park_species pairs (deduped)
         pair_rows = list(conn.execute("""
-            SELECT park_id, species_id, months_bitmap, source_count
+            SELECT park_id, species_id, months_bitmap, observation_count, source_count
             FROM park_species
         """))
         source_rows = list(conn.execute("""
@@ -236,7 +236,13 @@ def collect_data() -> dict:
             code for code in SOURCE_CODE_ORDER
             if code in pair_sources.get((r["park_id"], r["species_id"]), set())
         ]
-        pairs.append([pi, si, r["months_bitmap"] or 0, r["source_count"] or 1, src])
+        pairs.append([
+            pi, si,
+            r["months_bitmap"] or 0,
+            r["source_count"] or 1,
+            src,
+            r["observation_count"] or 1,
+        ])
 
     return {
         "species": species, "parks": parks, "pairs": pairs,
@@ -270,7 +276,14 @@ main { display: flex; height: calc(100vh - 50px); }
         background: #fff; border-left: 1px solid #ddd; padding: 12px 16px; }
 
 .placeholder { color: #888; padding: 30px 0; text-align: center; }
+.park-title-row { display: flex; align-items: center; justify-content: space-between;
+                  gap: 10px; margin: 4px 0 2px; }
 .park-name { font-size: 18px; font-weight: 600; margin: 4px 0 2px; }
+.park-title-row .park-name { margin: 0; }
+.park-map-btn { display: none; border: 1px solid #c9d8cc; background: #f3faf5;
+                color: #2a6b3b; border-radius: 4px; padding: 5px 8px;
+                font-size: 12px; cursor: pointer; white-space: nowrap; }
+.park-map-btn:hover { background: #e8f4eb; }
 .park-meta { font-size: 12px; color: #666; }
 .park-meta a { color: #2a6b3b; }
 .species-count { margin: 8px 0; font-size: 13px; color: #444; }
@@ -398,6 +411,7 @@ main { display: flex; height: calc(100vh - 50px); }
   body.view-map #map  { height: calc(100vh - 90px); }
   body.view-list #map { display: none; }
   body.view-list #side { height: calc(100vh - 90px); }
+  .park-map-btn { display: inline-flex; align-items: center; }
 
   #view-toggle {
     display: block; position: fixed; right: 10px; bottom: 10px; z-index: 1000;
@@ -615,10 +629,10 @@ const TAXON_GROUP_LABEL = {
 };
 
 const PARKING_LABELS = {
-  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: 'フィルタに一致する物種なし', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
-  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'No species match the filter', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
-  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '没有符合筛选条件的物种', sortLabel: '排序', sortFreq: '公园数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…还有 ${n} 种`, showMore: n => `再显示 ${n} 种`, showAll: n => `显示剩余全部 ${n} 种`, official: '官网 ↗', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
-  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '沒有符合篩選條件的物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
+  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: 'フィルタに一致する物種なし', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', showMap: '🗺 地図', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
+  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'No species match the filter', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', showMap: '🗺 Map', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
+  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '没有符合筛选条件的物种', sortLabel: '排序', sortFreq: '公园数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…还有 ${n} 种`, showMore: n => `再显示 ${n} 种`, showAll: n => `显示剩余全部 ${n} 种`, official: '官网 ↗', showMap: '🗺 地图', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
+  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '沒有符合篩選條件的物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', showMap: '🗺 地圖', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
 };
 
 const DETAIL_LABELS = {
@@ -627,6 +641,7 @@ const DETAIL_LABELS = {
     profile: 'この生き物について', habitat: 'いそうな場所',
     fieldTips: '探し方', profileSources: 'プロフィール参考',
     parkClue: 'この公園での手がかり', season: '季節', source: '記録ソース',
+    evidence: 'この公園での記録数',
     taxonomy: '詳しい分類',
     spread: '記録公園数', unknownSeason: '通年または不明',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
@@ -638,6 +653,7 @@ const DETAIL_LABELS = {
     profile: 'About this species', habitat: 'Likely places',
     fieldTips: 'How to find it', profileSources: 'Profile references',
     parkClue: 'Clues in this park', season: 'Season', source: 'Record sources',
+    evidence: 'Records in this park',
     taxonomy: 'Detailed group',
     spread: 'Parks recorded', unknownSeason: 'Year-round or unknown',
     months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
@@ -649,6 +665,7 @@ const DETAIL_LABELS = {
     profile: '关于这个物种', habitat: '可能出现的地方',
     fieldTips: '寻找方法', profileSources: '简介参考',
     parkClue: '这个公园里的线索', season: '季节', source: '记录来源',
+    evidence: '这个公园的记录数',
     taxonomy: '详细分类',
     spread: '有记录的公园数', unknownSeason: '全年或未知',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
@@ -660,6 +677,7 @@ const DETAIL_LABELS = {
     profile: '關於這個物種', habitat: '可能出現的地方',
     fieldTips: '尋找方法', profileSources: '簡介參考',
     parkClue: '這個公園裡的線索', season: '季節', source: '記錄來源',
+    evidence: '這個公園的記錄數',
     taxonomy: '詳細分類',
     spread: '有記錄的公園數', unknownSeason: '全年或未知',
     months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
@@ -799,8 +817,8 @@ function detailLabels() { return DETAIL_LABELS[displayLang] || DETAIL_LABELS.ja;
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
-for (const [pi, si, mb, sc, src] of DATA.pairs) {
-  parkSpecies[pi].push({si, mb, sc, src: src || []});
+for (const [pi, si, mb, sc, src, oc] of DATA.pairs) {
+  parkSpecies[pi].push({si, mb, sc, src: src || [], oc: oc || 1});
 }
 
 const map = L.map('map', { zoomControl: true }).setView([35.65, 139.7], 9);
@@ -889,10 +907,27 @@ function sourceText(pair) {
 
 function difficultyLevel(sp, pair) {
   const n = sp.n || 0;
-  let level = n >= 80 ? 1 : n >= 30 ? 2 : n >= 10 ? 3 : n >= 3 ? 4 : 5;
-  if ((pair && pair.sc || 0) >= 3) level -= 1;
+  const oc = pair && pair.oc ? pair.oc : 1;
+  const sc = pair && pair.sc ? pair.sc : 1;
+  const src = pair && pair.src ? pair.src : [];
+  let level = 4;
+
+  if (oc >= 5 || sc >= 4) level = 1;
+  else if (oc >= 3 || sc >= 3) level = 2;
+  else if (oc >= 2 || sc >= 2) level = 3;
+
+  if (src.includes('official')) level -= 1;
+  if (src.length >= 2) level -= 1;
+  if (src.length === 1 && src[0] === 'gbif') level += 1;
+  if (n >= 100) level -= 1;
+  else if (n <= 3) level += 1;
+
+  const f = currentFilter();
+  if (f.monthBit && pair && pair.mb && (pair.mb & f.monthBit)) level -= 1;
+
   if (sp.g === 'plant' && n >= 3) level -= 1;
-  if ((sp.g === 'mushroom' || sp.g === 'herp' || sp.g === 'small_aquatic') && level < 5) level += 1;
+  if (sp.g === 'mushroom' || sp.g === 'herp' || sp.g === 'small_aquatic') level += 1;
+  if (sp.g === 'mammal') level += 1;
   return Math.max(1, Math.min(5, level));
 }
 
@@ -1010,6 +1045,7 @@ function openSpeciesModal(si) {
   const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
   const facts = [
     `${D.taxonomy}: ${detailGroupLabel(sp)}`,
+    `${D.evidence}: ${pair ? pair.oc || 1 : 1}`,
     `${D.spread}: ${sp.n || 0}`,
     `${D.source}: ${sourceText(pair)}`,
     `${D.season}: ${monthsText(pair ? pair.mb : 0)}`,
@@ -1200,13 +1236,13 @@ function refreshMap() {
       radius, color: '#2a6b3b', weight: 1, fillColor: '#6cae7e', fillOpacity: 0.7,
     }).addTo(markerLayer);
     marker.bindTooltip(`${park.n} (${count})`, { direction: 'top' });
-    marker.on('click', () => selectPark(pi));
+    marker.on('click', () => selectPark(pi, { focusList: true }));
     shown++; totalSpecies += count;
   }
   statEl.textContent = `${shown} 公園 / ${totalSpecies} 観察記録`;
 }
 
-function selectPark(pi) {
+function selectPark(pi, opts = {}) {
   selectedParkIdx = pi;
   const park = DATA.parks[pi];
   const f = currentFilter();
@@ -1222,7 +1258,8 @@ function selectPark(pi) {
   const groupKeys = Object.keys(groups).sort((a, b) => groups[b].length - groups[a].length);
 
   const T = labels();
-  let html = `<div class="park-name">${park.n}</div>`;
+  let html = `<div class="park-title-row"><div class="park-name">${park.n}</div>`
+          +  `<button class="park-map-btn" type="button" data-show-map>${T.showMap}</button></div>`;
   html += `<div class="park-meta">${park.pf} ${park.m}`;
   if (park.u) html += ` · <a href="${park.u}" target="_blank">${T.official}</a>`;
   html += `</div>`;
@@ -1240,6 +1277,8 @@ function selectPark(pi) {
   if (total === 0) {
     html += `<div class="placeholder">${T.none}</div>`;
     sideEl.innerHTML = html;
+    wirePanelViewButtons();
+    if (opts.focusList) showListViewOnMobile();
     return;
   }
 
@@ -1289,6 +1328,8 @@ function selectPark(pi) {
     html += `</div>`;
   }
   sideEl.innerHTML = html;
+  wirePanelViewButtons();
+  if (opts.focusList) showListViewOnMobile();
 
   // Wire up controls (CSS-only for checkboxes; re-render for sort)
   sideEl.querySelectorAll('[data-group-cb]').forEach(cb => {
@@ -1388,6 +1429,7 @@ if (langSel) {
       const ph = sideEl.querySelector('.placeholder');
       if (ph) ph.innerHTML = labels().placeholder;
     }
+    applyView();
   });
 }
 // On load, replace static placeholder text with localized version
@@ -1401,14 +1443,40 @@ refreshMap();
 // Mobile view toggle (split / map-only / list-only)
 const toggleBtn = document.getElementById('view-toggle');
 const VIEWS = ['split', 'map', 'list'];
-const LABELS = { split: '🗺 全画面地図', map: '📋 一覧', list: '🗺 地図' };
+const VIEW_LABELS = {
+  ja: { split: '🗺 全画面地図', map: '📋 一覧', list: '🗺 地図' },
+  en: { split: '🗺 Full map', map: '📋 List', list: '🗺 Map' },
+  zh: { split: '🗺 全屏地图', map: '📋 列表', list: '🗺 地图' },
+  zhT: { split: '🗺 全螢幕地圖', map: '📋 列表', list: '🗺 地圖' },
+};
 let viewIdx = 0;
+function isMobileView() {
+  return window.matchMedia && window.matchMedia('(max-width: 768px)').matches;
+}
+function setView(view) {
+  const next = VIEWS.indexOf(view);
+  if (next < 0 || next === viewIdx) return;
+  viewIdx = next;
+  applyView();
+}
+function showListViewOnMobile() {
+  if (isMobileView()) setView('list');
+}
+function showMapViewOnMobile() {
+  if (isMobileView()) setView('map');
+}
+function wirePanelViewButtons() {
+  sideEl.querySelectorAll('[data-show-map]').forEach(btn => {
+    btn.addEventListener('click', showMapViewOnMobile);
+  });
+}
 function applyView() {
   const v = VIEWS[viewIdx];
+  const L = VIEW_LABELS[displayLang] || VIEW_LABELS.ja;
   document.body.classList.remove('view-map', 'view-list');
   if (v === 'map')  document.body.classList.add('view-map');
   if (v === 'list') document.body.classList.add('view-list');
-  toggleBtn.textContent = LABELS[VIEWS[(viewIdx + 1) % VIEWS.length]];
+  toggleBtn.textContent = L[VIEWS[(viewIdx + 1) % VIEWS.length]];
   setTimeout(() => map.invalidateSize(), 50);
 }
 toggleBtn.addEventListener('click', () => {
