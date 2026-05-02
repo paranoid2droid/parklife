@@ -100,6 +100,21 @@ CREATE TABLE IF NOT EXISTS park_species (
 CREATE INDEX IF NOT EXISTS idx_park_species_park    ON park_species(park_id);
 CREATE INDEX IF NOT EXISTS idx_park_species_species ON park_species(species_id);
 CREATE INDEX IF NOT EXISTS idx_park_species_months  ON park_species(months_bitmap);
+
+-- Optional photo gallery for species detail modals. Populated by
+-- scripts.collect_species_photos from licensed iNaturalist observation photos.
+CREATE TABLE IF NOT EXISTS species_photo (
+    id              INTEGER PRIMARY KEY,
+    species_id      INTEGER NOT NULL REFERENCES species(id) ON DELETE CASCADE,
+    url             TEXT NOT NULL,
+    thumb_url       TEXT,
+    attribution     TEXT,
+    source          TEXT NOT NULL DEFAULT 'iNaturalist',
+    sort_order      INTEGER NOT NULL DEFAULT 0,
+    UNIQUE(species_id, url)
+);
+
+CREATE INDEX IF NOT EXISTS idx_species_photo_species ON species_photo(species_id);
 """
 
 

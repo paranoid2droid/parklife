@@ -71,6 +71,7 @@ def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
 
 def collect_data() -> dict:
     db_path = ROOT / "data" / "parklife.db"
+    db.init(db_path)
     with db.connect(db_path) as conn:
         # species: id is the row PK; we pre-collect to use as a dense index
         species_rows = list(conn.execute("""
@@ -110,6 +111,11 @@ def collect_data() -> dict:
             SELECT species_id, raw_name FROM species_alias
             WHERE lang = 'ebird'
         """))
+        photo_rows = list(conn.execute("""
+            SELECT species_id, url
+            FROM species_photo
+            ORDER BY species_id, sort_order, id
+        """))
     zh_hans: dict[int, str] = {}
     zh_hant: dict[int, str] = {}
     for r in zh_rows:
@@ -120,6 +126,11 @@ def collect_data() -> dict:
     ebird_code: dict[int, str] = {}
     for r in ebird_rows:
         ebird_code.setdefault(r["species_id"], r["raw_name"])
+    gallery: dict[int, list[str]] = {}
+    for r in photo_rows:
+        gallery.setdefault(r["species_id"], [])
+        if r["url"] and r["url"] not in gallery[r["species_id"]]:
+            gallery[r["species_id"]].append(r["url"])
 
     # build dense indexes (DB ids may have gaps)
     pk_idx = {r["id"]: i for i, r in enumerate(park_rows)}
@@ -130,6 +141,9 @@ def collect_data() -> dict:
         group = demo_group(r["taxon_group"], r["kingdom"])
         if not group:
             continue
+        imgs = list(gallery.get(r["id"], []))
+        if r["photo_url"] and r["photo_url"] not in imgs:
+            imgs.insert(0, r["photo_url"])
         sp_idx[r["id"]] = len(species)
         species.append({
             "ja":   r["common_name_ja"] or "",
@@ -140,6 +154,7 @@ def collect_data() -> dict:
             "g":    group,
             "k":    r["kingdom"] or "",
             "p":    r["photo_url"] or "",
+            "imgs": imgs[:5],
             "tid":  r["inat_taxon_id"] or 0,
             "eb":   ebird_code.get(r["id"], ""),
             "n":    pop.get(r["id"], 0),
@@ -272,8 +287,19 @@ main { display: flex; height: calc(100vh - 50px); }
 .modal-close { position: absolute; top: 8px; right: 8px; width: 32px; height: 32px;
                border: 1px solid #ddd; border-radius: 50%; background: rgba(255,255,255,.92);
                cursor: pointer; font-size: 20px; line-height: 1; z-index: 2; }
+.modal-photo-wrap { position: relative; width: 100%; background: #ddd; overflow: hidden; }
 .modal-photo { width: 100%; aspect-ratio: 16 / 9; background: #ddd no-repeat center / cover; }
 .modal-photo.no-photo { background: linear-gradient(135deg,#cfe7d4,#9bd1a8); }
+.photo-nav { position: absolute; top: 50%; transform: translateY(-50%); width: 36px; height: 48px;
+             border: none; background: rgba(0,0,0,.36); color: #fff; font-size: 28px;
+             cursor: pointer; line-height: 1; }
+.photo-nav:hover { background: rgba(42,107,59,.72); }
+.photo-nav.prev { left: 0; }
+.photo-nav.next { right: 0; }
+.photo-nav.hidden, .photo-count.hidden { display: none; }
+.photo-count { position: absolute; right: 8px; bottom: 8px; padding: 2px 7px;
+               border-radius: 10px; background: rgba(0,0,0,.5); color: #fff;
+               font-size: 12px; }
 .modal-body { padding: 14px 16px 16px; }
 .modal-title { font-size: 20px; font-weight: 700; margin: 0; }
 .modal-sci { margin-top: 2px; color: #666; font-size: 13px; font-style: italic; }
@@ -341,6 +367,8 @@ main { display: flex; height: calc(100vh - 50px); }
 
   .grid { grid-template-columns: repeat(auto-fill, minmax(96px,1fr)); }
   .inspect-btn { opacity: 1; transform: none; }
+  .modal { padding: 10px; }
+  .photo-nav { width: 32px; height: 42px; font-size: 24px; }
 }
 </style>
 </head>
@@ -573,6 +601,8 @@ let collapsedGroups = new Set();
 try { collapsedGroups = new Set(JSON.parse(localStorage.getItem(COLLAPSED_GROUPS_KEY) || '[]')); }
 catch (e) { collapsedGroups = new Set(); }
 let expandedGroupLimits = {};
+let currentModal = null;
+let modalTouchStartX = null;
 
 function persistHidden() {
   try { localStorage.setItem(HIDDEN_GROUPS_KEY, JSON.stringify([...hiddenGroups])); } catch(e) {}
@@ -650,6 +680,10 @@ function guideText(sp) {
   return templates[sp.g] || templates.unclassified;
 }
 
+function speciesPhotos(sp) {
+  return sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [sp.p] : []);
+}
+
 function speciesCardHtml(sp, pair) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
@@ -672,8 +706,11 @@ function openSpeciesModal(si) {
   const pair = selectedParkIdx == null ? null : parkSpecies[selectedParkIdx].find(p => p.si === si);
   const park = selectedParkIdx == null ? null : DATA.parks[selectedParkIdx];
   const D = detailLabels();
-  const photoCls = sp.p ? 'modal-photo' : 'modal-photo no-photo';
-  const photoStyle = sp.p ? `style="background-image:url('${sp.p}')"` : '';
+  const photos = speciesPhotos(sp);
+  currentModal = { si, photoIdx: 0, photos };
+  const hasGallery = photos.length > 1;
+  const photoCls = photos.length ? 'modal-photo' : 'modal-photo no-photo';
+  const photoStyle = photos.length ? `style="background-image:url('${photos[0]}')"` : '';
   const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
   const facts = [
     `${D.spread}: ${sp.n || 0}`,
@@ -682,7 +719,12 @@ function openSpeciesModal(si) {
   ];
   const content = document.getElementById('modal-content');
   content.innerHTML =
-    `<div class="${photoCls}" ${photoStyle}></div>` +
+    `<div class="modal-photo-wrap" data-gallery-touch>` +
+      `<div id="modal-photo" class="${photoCls}" ${photoStyle}></div>` +
+      `<button class="photo-nav prev${hasGallery ? '' : ' hidden'}" type="button" data-photo-prev aria-label="Previous photo">‹</button>` +
+      `<button class="photo-nav next${hasGallery ? '' : ' hidden'}" type="button" data-photo-next aria-label="Next photo">›</button>` +
+      `<div id="photo-count" class="photo-count${hasGallery ? '' : ' hidden'}">1 / ${photos.length}</div>` +
+    `</div>` +
     `<div class="modal-body">` +
       `<h2 class="modal-title" id="modal-title">${displayName(sp)}</h2>${sci}` +
       `<div class="difficulty">${D.difficulty}: ${difficultyHtml(sp, pair)}</div>` +
@@ -692,10 +734,52 @@ function openSpeciesModal(si) {
       `<p>${monthsText(pair ? pair.mb : 0)} / ${D.source}: ${sourceText(pair)}</p></div>` +
     `</div>`;
   document.getElementById('species-modal').classList.remove('hidden');
+  wireGalleryControls();
 }
 
 function closeSpeciesModal() {
   document.getElementById('species-modal').classList.add('hidden');
+  currentModal = null;
+  modalTouchStartX = null;
+}
+
+function renderModalPhoto() {
+  if (!currentModal || !currentModal.photos.length) return;
+  const photoEl = document.getElementById('modal-photo');
+  const countEl = document.getElementById('photo-count');
+  if (photoEl) {
+    photoEl.classList.remove('no-photo');
+    photoEl.style.backgroundImage = `url('${currentModal.photos[currentModal.photoIdx]}')`;
+  }
+  if (countEl) {
+    countEl.textContent = `${currentModal.photoIdx + 1} / ${currentModal.photos.length}`;
+  }
+}
+
+function changeModalPhoto(delta) {
+  if (!currentModal || currentModal.photos.length < 2) return;
+  const n = currentModal.photos.length;
+  currentModal.photoIdx = (currentModal.photoIdx + delta + n) % n;
+  renderModalPhoto();
+}
+
+function wireGalleryControls() {
+  const prev = document.querySelector('[data-photo-prev]');
+  const next = document.querySelector('[data-photo-next]');
+  if (prev) prev.addEventListener('click', () => changeModalPhoto(-1));
+  if (next) next.addEventListener('click', () => changeModalPhoto(1));
+  const touchEl = document.querySelector('[data-gallery-touch]');
+  if (!touchEl) return;
+  touchEl.addEventListener('touchstart', ev => {
+    modalTouchStartX = ev.changedTouches && ev.changedTouches[0] ? ev.changedTouches[0].clientX : null;
+  }, { passive: true });
+  touchEl.addEventListener('touchend', ev => {
+    if (modalTouchStartX == null || !ev.changedTouches || !ev.changedTouches[0]) return;
+    const dx = ev.changedTouches[0].clientX - modalTouchStartX;
+    modalTouchStartX = null;
+    if (Math.abs(dx) < 40) return;
+    changeModalPhoto(dx < 0 ? 1 : -1);
+  }, { passive: true });
 }
 
 function sortGroupItems(items) {
@@ -943,6 +1027,8 @@ document.querySelectorAll('[data-modal-close]').forEach(el => {
 });
 document.addEventListener('keydown', ev => {
   if (ev.key === 'Escape') closeSpeciesModal();
+  if (ev.key === 'ArrowLeft') changeModalPhoto(-1);
+  if (ev.key === 'ArrowRight') changeModalPhoto(1);
 });
 
 document.getElementById('m').addEventListener('change', refreshMap);
