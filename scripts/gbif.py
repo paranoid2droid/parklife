@@ -38,15 +38,75 @@ CLASS_TO_GROUP = {
     "Aves": "bird",
     "Mammalia": "mammal",
     "Reptilia": "reptile",
+    "Testudines": "reptile",
     "Amphibia": "amphibian",
     "Insecta": "insect",
     "Arachnida": "arachnid",
+    "Collembola": "springtail",
     "Bivalvia": "mollusk",
     "Gastropoda": "mollusk",
     "Cephalopoda": "mollusk",
+    "Polyplacophora": "mollusk",
+    "Scaphopoda": "mollusk",
     "Actinopterygii": "fish",
     "Chondrichthyes": "fish",
+    "Elasmobranchii": "fish",
     "Cephalaspidomorphi": "fish",
+    "Myxini": "fish",
+    "Malacostraca": "crustacean",
+    "Maxillopoda": "crustacean",
+    "Branchiopoda": "crustacean",
+    "Copepoda": "crustacean",
+    "Ostracoda": "crustacean",
+    "Chilopoda": "myriapod",
+    "Diplopoda": "myriapod",
+    "Echinoidea": "echinoderm",
+    "Asteroidea": "echinoderm",
+    "Ophiuroidea": "echinoderm",
+    "Scyphozoa": "cnidarian",
+    "Anthozoa": "cnidarian",
+    "Hydrozoa": "cnidarian",
+    "Cubozoa": "cnidarian",
+    "Polychaeta": "annelid",
+    "Clitellata": "annelid",
+    "Pycnogonida": "sea_spider",
+    "Chromadorea": "nematode",
+    "Eurotatoria": "rotifer",
+    "Stenolaemata": "bryozoan",
+    "Rhynchonellata": "brachiopod",
+}
+
+PHYLUM_TO_GROUP = {
+    "Arthropoda": "arthropod",
+    "Echinodermata": "echinoderm",
+    "Mollusca": "mollusk",
+    "Annelida": "annelid",
+    "Cnidaria": "cnidarian",
+    "Platyhelminthes": "flatworm",
+    "Nematoda": "nematode",
+    "Rotifera": "rotifer",
+    "Bryozoa": "bryozoan",
+    "Brachiopoda": "brachiopod",
+}
+
+ORDER_TO_GROUP = {
+    "Aulopiformes": "fish",
+    "Beryciformes": "fish",
+    "Cypriniformes": "fish",
+    "Cyprinodontiformes": "fish",
+    "Gadiformes": "fish",
+    "Gobiesociformes": "fish",
+    "Lophiiformes": "fish",
+    "Mugiliformes": "fish",
+    "Perciformes": "fish",
+    "Pleuronectiformes": "fish",
+    "Scorpaeniformes": "fish",
+    "Syngnathiformes": "fish",
+    "Tetraodontiformes": "fish",
+    "Zeiformes": "fish",
+}
+FAMILY_TO_GROUP = {
+    "Cheloniidae": "reptile",
 }
 # Kingdom-level fallback when class doesn't map (plants, fungi, etc.)
 KINGDOM_TO_GROUP = {
@@ -114,7 +174,14 @@ def aggregate_species(occurrences: list[dict]) -> dict[int, dict]:
         if info is None:
             cls = occ.get("class") or ""
             kingdom = occ.get("kingdom") or ""
-            tg = CLASS_TO_GROUP.get(cls) or KINGDOM_TO_GROUP.get(kingdom)
+            phylum = occ.get("phylum") or ""
+            order = occ.get("order") or ""
+            family = occ.get("family") or ""
+            tg = (CLASS_TO_GROUP.get(cls)
+                  or ORDER_TO_GROUP.get(order)
+                  or FAMILY_TO_GROUP.get(family)
+                  or PHYLUM_TO_GROUP.get(phylum)
+                  or KINGDOM_TO_GROUP.get(kingdom))
             out[sk] = {
                 "species": occ.get("species"),
                 "scientific_name": occ.get("scientificName"),
