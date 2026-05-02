@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, and a multi-photo species modal carousel. Current demo export has 7,052 visible species; 6,521 have at least one image, and 510 high-frequency species have 5-image galleries.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, a multi-photo species modal carousel, and the demo data-source filter. Current demo export has 7,052 visible species; 6,521 have at least one image, and 858 visible species have 5-image galleries.
 
 ## In progress
 
@@ -58,7 +58,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
    - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
 
-5. **Demo: data-source filter** — add a top-bar selector ("全て / 公園官网 / iNaturalist / GBIF / eBird") so users can scope which provenance they're looking at. Useful because most observations come from geographic enrichment, only a small share from the original park-website scrape. The `observation.location_hint` field already tags this (`iNaturalist`, `GBIF`, `eBird`); export needs to surface per-pair source set into `parklife.json` so the front-end can filter without re-querying. Estimate: ~1 hour. Recorded 2026-04-30, updated after eBird landed.
+5. **Demo: data-source filter** — ✅ shipped 2026-05-02. Top-bar selector ("全て / 公園公式 / iNaturalist / GBIF / eBird") filters map and selected-park species list by per-pair source codes exported from `observation.location_hint` / `source.url`. Current pair counts in demo export: official 2,041; iNat 27,022; GBIF 45,055; eBird 4,884.
 
 6. **Demo: checkbox-filtered species list + sort controls** — ✅ shipped 2026-04-30. Sort options: 出現公園数 / 名称（日本語）/ 学名. Group checkboxes + sort persisted via localStorage (`parklife.hiddenGroups`, `parklife.speciesSort`).
 
@@ -74,9 +74,15 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
    - Improve difficulty using per-park `observation_count`, month selected, and source diversity; current MVP uses global park count + pair source count + taxon-group heuristics.
    - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Current DB/docs cover 510 high-frequency species with 5 images each; continue with `.venv/bin/python -m scripts.collect_species_photos 500 5` to add the next 500 species.
+   - 2026-05-02 partial follow-up: user paused a long `collect_species_photos 1000 5` run. It had already added more rows before stopping; current visible export has 858 species with 5-image galleries. Resume later with `.venv/bin/python -m scripts.collect_species_photos 1000 5` during a long wait.
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — data-source filter
+- Added top-bar source selector (`全て / 公園公式 / iNaturalist / GBIF / eBird`) in `scripts/export_html.py`; it filters both map markers and the selected-park species panel.
+- Filter uses per-pair source codes already exported in `DATA.pairs`; source changes now re-render the selected park list immediately.
+- User paused a long photo-gallery backfill run; partial result is kept in local DB/docs, bringing visible 5-image gallery coverage to 858 species.
 
 ### 2026-05-02 (Codex) — multi-photo species modal
 - Added `species_photo` schema and `scripts/collect_species_photos.py`, which caches iNat observation photo queries under `data/cache/inat_photos/` and stores 3–5 gallery URLs per species.

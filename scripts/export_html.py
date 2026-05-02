@@ -401,6 +401,13 @@ main { display: flex; height: calc(100vh - 50px); }
     <option value="0">なし</option>
     <option value="?">不明</option>
   </select></label>
+  <label>情報源: <select id="src">
+    <option value="">全て</option>
+    <option value="official">公園公式</option>
+    <option value="inat">iNaturalist</option>
+    <option value="gbif">GBIF</option>
+    <option value="ebird">eBird</option>
+  </select></label>
   <label>🌐 <select id="lang">
     <option value="ja">日本語</option>
     <option value="en">English</option>
@@ -853,7 +860,8 @@ function currentFilter() {
   const g = document.getElementById('g').value || '';
   const q = (document.getElementById('q').value || '').trim().toLowerCase();
   const pk = document.getElementById('park').value;
-  return { monthBit: m ? (1<<(m-1)) : 0, group: g, query: q, parking: pk };
+  const src = document.getElementById('src').value || '';
+  return { monthBit: m ? (1<<(m-1)) : 0, group: g, query: q, parking: pk, source: src };
 }
 
 function parkPassesParking(park, filter) {
@@ -874,6 +882,11 @@ function speciesMatchesFilter(s, f) {
   return true;
 }
 
+function pairMatchesSource(pair, source) {
+  if (!source) return true;
+  return pair.src && pair.src.includes(source);
+}
+
 function pairMatchesMonth(pair, monthBit) {
   if (!monthBit) return true;
   // species without explicit month data (year-round / unknown timing)
@@ -891,6 +904,7 @@ function parkMatchesFilter(pi, f) {
                               || park.s.toLowerCase().includes(f.query));
   if (parkHit) return { reason: 'park-name' };
   for (const pair of parkSpecies[pi]) {
+    if (!pairMatchesSource(pair, f.source)) continue;
     if (!pairMatchesMonth(pair, f.monthBit)) continue;
     const sp = DATA.species[pair.si];
     if (!speciesMatchesFilter(sp, f)) continue;
@@ -912,6 +926,7 @@ function refreshMap() {
     // species count in this park matching filter
     let count = 0;
     for (const pair of parkSpecies[pi]) {
+      if (!pairMatchesSource(pair, f.source)) continue;
       if (!pairMatchesMonth(pair, f.monthBit)) continue;
       if (!speciesMatchesFilter(DATA.species[pair.si], f)) continue;
       count++;
@@ -934,6 +949,7 @@ function selectPark(pi) {
   const f = currentFilter();
   const groups = {};
   for (const pair of parkSpecies[pi]) {
+    if (!pairMatchesSource(pair, f.source)) continue;
     if (!pairMatchesMonth(pair, f.monthBit)) continue;
     const sp = DATA.species[pair.si];
     if (!speciesMatchesFilter(sp, f)) continue;
@@ -1083,12 +1099,18 @@ document.addEventListener('keydown', ev => {
   if (ev.key === 'ArrowRight') changeModalPhoto(1);
 });
 
-document.getElementById('m').addEventListener('change', refreshMap);
-document.getElementById('g').addEventListener('change', refreshMap);
-document.getElementById('park').addEventListener('change', refreshMap);
+function applyFilters() {
+  refreshMap();
+  if (selectedParkIdx != null) selectPark(selectedParkIdx);
+}
+
+document.getElementById('m').addEventListener('change', applyFilters);
+document.getElementById('g').addEventListener('change', applyFilters);
+document.getElementById('park').addEventListener('change', applyFilters);
+document.getElementById('src').addEventListener('change', applyFilters);
 let qTimer = 0;
 document.getElementById('q').addEventListener('input', () => {
-  clearTimeout(qTimer); qTimer = setTimeout(refreshMap, 200);
+  clearTimeout(qTimer); qTimer = setTimeout(applyFilters, 200);
 });
 
 // language switcher: re-render side panel and update placeholder
