@@ -83,6 +83,10 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 ## Recent sessions
 
+### 2026-05-03 (Codex) — category action placement
+- Moved Select all / Select none quick actions from their own controls row into the species-count line to save vertical space.
+- Regenerated `docs/index.html`; Python compile and generated JS `node --check` passed.
+
 ### 2026-05-02 (Codex) — category-first species panel
 - Changed per-park category checkboxes from hide-by-default to select-by-default-empty (`parklife.selectedGroups.v2`), so species cards do not render until a category is chosen.
 - Added localized Select all / Select none quick buttons; single selected category expands, multiple selected categories collapse by default.
