@@ -51,12 +51,12 @@ PREF_NAMES = {
 SOURCE_CODE_ORDER = ["official", "inat", "gbif", "ebird"]
 
 
-def modal_photo_url(url: str) -> str:
-    """Use a larger iNaturalist rendition for modal display when possible."""
+def medium_photo_url(url: str) -> str:
+    """Use medium iNaturalist renditions in embedded data for fast modal open."""
     return (url
-            .replace("/medium.", "/large.")
-            .replace("/small.", "/large.")
-            .replace("/square.", "/large."))
+            .replace("/large.", "/medium.")
+            .replace("/small.", "/medium.")
+            .replace("/square.", "/medium."))
 
 
 def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
@@ -137,7 +137,7 @@ def collect_data() -> dict:
     gallery: dict[int, list[str]] = {}
     for r in photo_rows:
         gallery.setdefault(r["species_id"], [])
-        url = modal_photo_url(r["url"]) if r["url"] else ""
+        url = medium_photo_url(r["url"]) if r["url"] else ""
         if url and url not in gallery[r["species_id"]]:
             gallery[r["species_id"]].append(url)
 
@@ -151,7 +151,7 @@ def collect_data() -> dict:
         if not group:
             continue
         imgs = list(gallery.get(r["id"], []))
-        hero_photo = modal_photo_url(r["photo_url"]) if r["photo_url"] else ""
+        hero_photo = medium_photo_url(r["photo_url"]) if r["photo_url"] else ""
         if hero_photo and hero_photo not in imgs:
             imgs.insert(0, hero_photo)
         sp_idx[r["id"]] = len(species)
@@ -615,6 +615,7 @@ catch (e) { collapsedGroups = new Set(); }
 let expandedGroupLimits = {};
 let currentModal = null;
 let modalTouchStartX = null;
+const largePhotoCache = new Set();
 
 function persistHidden() {
   try { localStorage.setItem(HIDDEN_GROUPS_KEY, JSON.stringify([...hiddenGroups])); } catch(e) {}
@@ -696,6 +697,18 @@ function speciesPhotos(sp) {
   return sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [sp.p] : []);
 }
 
+function largePhotoUrl(url) {
+  return (url || '').replace('/medium.', '/large.').replace('/small.', '/large.').replace('/square.', '/large.');
+}
+
+function preloadLargePhoto(url) {
+  const large = largePhotoUrl(url);
+  if (!large || largePhotoCache.has(large)) return;
+  const img = new Image();
+  img.onload = () => largePhotoCache.add(large);
+  img.src = large;
+}
+
 function speciesCardHtml(sp, pair) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
@@ -748,6 +761,8 @@ function openSpeciesModal(si) {
     `</div>`;
   document.getElementById('species-modal').classList.remove('hidden');
   wireGalleryControls();
+  upgradeModalPhoto();
+  if (photos.length > 1) preloadLargePhoto(photos[1]);
 }
 
 function closeSpeciesModal() {
@@ -760,13 +775,36 @@ function renderModalPhoto() {
   if (!currentModal || !currentModal.photos.length) return;
   const photoEl = document.getElementById('modal-photo');
   const countEl = document.getElementById('photo-count');
+  const medium = currentModal.photos[currentModal.photoIdx];
   if (photoEl) {
     photoEl.classList.remove('no-photo');
-    if (photoEl.tagName === 'IMG') photoEl.src = currentModal.photos[currentModal.photoIdx];
+    if (photoEl.tagName === 'IMG') photoEl.src = medium;
   }
   if (countEl) {
     countEl.textContent = `${currentModal.photoIdx + 1} / ${currentModal.photos.length}`;
   }
+  upgradeModalPhoto();
+  if (currentModal.photos.length > 1) {
+    const n = currentModal.photos.length;
+    preloadLargePhoto(currentModal.photos[(currentModal.photoIdx + 1) % n]);
+    preloadLargePhoto(currentModal.photos[(currentModal.photoIdx - 1 + n) % n]);
+  }
+}
+
+function upgradeModalPhoto() {
+  if (!currentModal || !currentModal.photos.length) return;
+  const photoEl = document.getElementById('modal-photo');
+  if (!photoEl || photoEl.tagName !== 'IMG') return;
+  const idx = currentModal.photoIdx;
+  const large = largePhotoUrl(currentModal.photos[idx]);
+  if (!large || photoEl.src === large) return;
+  const img = new Image();
+  img.onload = () => {
+    if (!currentModal || currentModal.photoIdx !== idx) return;
+    photoEl.src = large;
+    largePhotoCache.add(large);
+  };
+  img.src = large;
 }
 
 function changeModalPhoto(delta) {
