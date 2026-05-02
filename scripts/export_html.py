@@ -215,9 +215,9 @@ main { display: flex; height: calc(100vh - 50px); }
 .group.collapsed .grid, .group.collapsed .legend, .group.collapsed .more-row { display: none; }
 .group.collapsed .group-head { margin-bottom: 0; }
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px,1fr)); gap: 6px; }
-.card { background: #f4f4f4; border-radius: 4px; overflow: hidden;
+.card { position: relative; background: #f4f4f4; border-radius: 4px; overflow: hidden;
         font-size: 11px; line-height: 1.3; }
-.card .ph { width: 100%; aspect-ratio: 1 / 1; background: #ddd no-repeat center / cover; }
+.card .ph { position: relative; width: 100%; aspect-ratio: 1 / 1; background: #ddd no-repeat center / cover; }
 .card .lab { padding: 4px 6px; min-height: 54px; display: flex; flex-direction: column; gap: 2px; }
 .card .ja { font-weight: 500; color: #222; }
 .card .sci { color: #666; font-style: italic; font-size: 10px; word-break: break-all; }
@@ -227,6 +227,39 @@ main { display: flex; height: calc(100vh - 50px); }
                  text-decoration: none; font-style: normal; }
 .card .links a:hover { background: #e8f4eb; }
 .card.no-photo .ph { background: linear-gradient(135deg,#cfe7d4,#9bd1a8); }
+.inspect-btn { position: absolute; right: 5px; bottom: 5px; width: 28px; height: 28px;
+               border: 1px solid rgba(255,255,255,.9); border-radius: 50%;
+               background: rgba(34,34,34,.72); color: #fff; display: grid;
+               place-items: center; font-size: 14px; cursor: pointer; opacity: 0;
+               transform: translateY(3px); transition: opacity .15s, transform .15s, background .15s; }
+.card:hover .inspect-btn, .inspect-btn:focus { opacity: 1; transform: translateY(0); }
+.inspect-btn:hover { background: rgba(42,107,59,.92); }
+
+.modal.hidden { display: none; }
+.modal { position: fixed; inset: 0; z-index: 2000; display: grid; place-items: center;
+         padding: 20px; }
+.modal-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.42); }
+.modal-panel { position: relative; width: min(760px, 100%); max-height: min(86vh, 820px);
+               overflow: auto; background: #fff; border-radius: 8px;
+               box-shadow: 0 16px 42px rgba(0,0,0,.24); }
+.modal-close { position: absolute; top: 8px; right: 8px; width: 32px; height: 32px;
+               border: 1px solid #ddd; border-radius: 50%; background: rgba(255,255,255,.92);
+               cursor: pointer; font-size: 20px; line-height: 1; z-index: 2; }
+.modal-photo { width: 100%; aspect-ratio: 16 / 9; background: #ddd no-repeat center / cover; }
+.modal-photo.no-photo { background: linear-gradient(135deg,#cfe7d4,#9bd1a8); }
+.modal-body { padding: 14px 16px 16px; }
+.modal-title { font-size: 20px; font-weight: 700; margin: 0; }
+.modal-sci { margin-top: 2px; color: #666; font-size: 13px; font-style: italic; }
+.difficulty { display: inline-flex; gap: 8px; align-items: center; margin-top: 10px;
+              padding: 5px 9px; border-radius: 4px; background: #f3faf5; color: #2a6b3b;
+              font-size: 13px; font-weight: 600; }
+.modal-section { margin-top: 14px; }
+.modal-section h3 { margin: 0 0 5px; font-size: 13px; color: #444; }
+.modal-section p, .modal-section ul { margin: 0; color: #333; font-size: 13px; line-height: 1.55; }
+.modal-section ul { padding-left: 18px; }
+.modal-facts { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.modal-facts span { background: #f4f4f4; border-radius: 4px; padding: 3px 7px;
+                    color: #555; font-size: 12px; }
 
 .legend { font-size: 11px; color: #666; }
 .more-row { margin-top: 8px; display: flex; gap: 6px; flex-wrap: wrap; }
@@ -280,6 +313,7 @@ main { display: flex; height: calc(100vh - 50px); }
   }
 
   .grid { grid-template-columns: repeat(auto-fill, minmax(96px,1fr)); }
+  .inspect-btn { opacity: 1; transform: none; }
 }
 </style>
 </head>
@@ -315,6 +349,13 @@ main { display: flex; height: calc(100vh - 50px); }
   </aside>
 </main>
 <button id="view-toggle" type="button" aria-label="切り替え">📋 一覧</button>
+<div id="species-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div class="modal-backdrop" data-modal-close></div>
+  <div class="modal-panel">
+    <button class="modal-close" type="button" data-modal-close aria-label="閉じる">×</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
 
 <script>
 const DATA = __DATA__;
@@ -370,6 +411,92 @@ const PARKING_LABELS = {
   zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '沒有符合篩選條件的物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
 };
 
+const DETAIL_LABELS = {
+  ja: {
+    inspect: '観察ガイドを開く', difficulty: '観察難度', guide: '見つけ方',
+    parkClue: 'この公園での手がかり', season: '季節', source: '記録ソース',
+    spread: '記録公園数', unknownSeason: '通年または不明',
+    months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    levels: ['とても見つけやすい','見つけやすい','少し探す','条件が合うと見つかる','かなり難しい'],
+  },
+  en: {
+    inspect: 'Open field guide', difficulty: 'Finding difficulty', guide: 'How to find it',
+    parkClue: 'Clues in this park', season: 'Season', source: 'Record sources',
+    spread: 'Parks recorded', unknownSeason: 'Year-round or unknown',
+    months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    levels: ['Very easy','Easy','Takes some searching','Seasonal or habitat-dependent','Hard to find'],
+  },
+  zh: {
+    inspect: '打开观察指南', difficulty: '观察难度', guide: '寻找方法',
+    parkClue: '这个公园里的线索', season: '季节', source: '记录来源',
+    spread: '有记录的公园数', unknownSeason: '全年或未知',
+    months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    levels: ['很容易看到','比较容易','需要稍微寻找','看季节和环境','比较难看到'],
+  },
+  zhT: {
+    inspect: '打開觀察指南', difficulty: '觀察難度', guide: '尋找方法',
+    parkClue: '這個公園裡的線索', season: '季節', source: '記錄來源',
+    spread: '有記錄的公園數', unknownSeason: '全年或未知',
+    months: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    levels: ['很容易看到','比較容易','需要稍微尋找','看季節和環境','比較難看到'],
+  },
+};
+
+const GUIDE_TEMPLATES = {
+  ja: {
+    bird: '水辺、樹冠、草地の縁をゆっくり見てください。鳥は朝夕に動きが出やすく、先に声や動きを見つけると探しやすくなります。',
+    plant: '園路沿い、林縁、花壇や湿った場所を見比べてください。花や果実の時期は見つけやすく、葉の形も大事な手がかりです。',
+    insect: '晴れて暖かい時間帯に、花、草地、林縁を重点的に探してください。飛んでいる姿だけでなく、葉の裏や茎も見ると見つかりやすいです。',
+    arachnid: '草むら、低木、柵まわり、林縁をゆっくり見てください。網、葉の裏、地表近くが手がかりになります。',
+    mushroom: '雨の後に、落ち葉、枯れ木、湿った林床を探してください。短期間だけ出ることが多いのでタイミングが重要です。',
+    fish: '池や流れの浅い場所、水草の周辺、橋やデッキの上から水面を静かに観察してください。',
+    amphibian: '雨上がりや夕方に、水辺、湿った草地、落ち葉の下を探すと出会いやすくなります。',
+    reptile: '日当たりのよい石、草地の縁、水辺近くを静かに探してください。近づきすぎるとすぐ隠れます。',
+    mammal: '早朝や夕方に、林縁、草地、足跡や食痕を探してください。姿よりも痕跡から気づくことが多いです。',
+    other_animal: '水辺、落ち葉、石の下、草地の縁など、小さな環境の違いをゆっくり見てください。',
+    unclassified: '写真、季節、見つかった場所を手がかりに、外部リンクで特徴を確認しながら探してください。',
+  },
+  en: {
+    bird: 'Scan water edges, tree canopies, and meadow edges slowly. Birds are often more active in the morning and evening; sound and movement are the first clues.',
+    plant: 'Compare path edges, woodland edges, flower beds, and damp spots. Flowers or fruit make it easier, but leaf shape is often the key clue.',
+    insect: 'Look on warm sunny hours around flowers, grassland, and woodland edges. Check leaf undersides and stems, not only flying individuals.',
+    arachnid: 'Search grass, shrubs, fences, and woodland edges slowly. Webs, leaf undersides, and low vegetation are useful clues.',
+    mushroom: 'After rain, check leaf litter, dead wood, and damp woodland floor. Many fruiting bodies appear only briefly, so timing matters.',
+    fish: 'Watch shallow pond or stream edges, aquatic plants, and quiet water from bridges or decks.',
+    amphibian: 'After rain or near dusk, check watersides, damp grass, and leaf litter.',
+    reptile: 'Search sunny stones, grass edges, and watersides quietly. They often hide quickly if approached.',
+    mammal: 'Early morning or evening is best. Check woodland edges, grassland, tracks, and feeding signs.',
+    other_animal: 'Look slowly across small habitat changes such as water edges, leaf litter, under stones, and grass margins.',
+    unclassified: 'Use the photo, season, and location as clues, then confirm details through the external reference links.',
+  },
+  zh: {
+    bird: '慢慢观察水边、树冠和草地边缘。鸟类在清晨和傍晚更活跃，声音和移动往往是最先出现的线索。',
+    plant: '比较园路边、林缘、花坛和潮湿处。开花或结果时最容易确认，叶形也是重要线索。',
+    insect: '晴朗温暖的时段，重点看花附近、草地和林缘。除了飞行中的个体，也要看叶背和茎上。',
+    arachnid: '慢慢查看草丛、灌木、围栏附近和林缘。蛛网、叶背和靠近地面的植被都是线索。',
+    mushroom: '雨后留意落叶层、枯木和潮湿林地。很多菌类出现时间很短，时机很重要。',
+    fish: '在池塘、溪流浅水处、水草周围，或桥和平台上安静观察水面。',
+    amphibian: '雨后或傍晚，在水边、潮湿草地和落叶层附近更容易遇到。',
+    reptile: '安静查看向阳的石头、草地边缘和水边附近。靠太近时它们通常会很快躲开。',
+    mammal: '清晨或傍晚更适合。可以留意林缘、草地、足迹和取食痕迹。',
+    other_animal: '慢慢观察水边、落叶层、石头下和草地边缘等小环境差异。',
+    unclassified: '先用照片、季节和发现地点作为线索，再通过外部链接确认特征。',
+  },
+  zhT: {
+    bird: '慢慢觀察水邊、樹冠和草地邊緣。鳥類在清晨和傍晚更活躍，聲音和移動往往是最先出現的線索。',
+    plant: '比較園路邊、林緣、花壇和潮濕處。開花或結果時最容易確認，葉形也是重要線索。',
+    insect: '晴朗溫暖的時段，重點看花附近、草地和林緣。除了飛行中的個體，也要看葉背和莖上。',
+    arachnid: '慢慢查看草叢、灌木、圍欄附近和林緣。蛛網、葉背和靠近地面的植被都是線索。',
+    mushroom: '雨後留意落葉層、枯木和潮濕林地。很多菌類出現時間很短，時機很重要。',
+    fish: '在池塘、溪流淺水處、水草周圍，或橋和平台上安靜觀察水面。',
+    amphibian: '雨後或傍晚，在水邊、潮濕草地和落葉層附近更容易遇到。',
+    reptile: '安靜查看向陽的石頭、草地邊緣和水邊附近。靠太近時牠們通常會很快躲開。',
+    mammal: '清晨或傍晚更適合。可以留意林緣、草地、足跡和取食痕跡。',
+    other_animal: '慢慢觀察水邊、落葉層、石頭下和草地邊緣等小環境差異。',
+    unclassified: '先用照片、季節和發現地點作為線索，再透過外部連結確認特徵。',
+  },
+};
+
 // Active UI language (persistent)
 const LANG_KEY = 'parklife.lang';
 let displayLang = localStorage.getItem(LANG_KEY) || 'ja';
@@ -383,6 +510,7 @@ function groupLabel(g) {
   return (GROUP_LABEL[displayLang] || GROUP_LABEL.ja)[g] || g;
 }
 function labels() { return PARKING_LABELS[displayLang] || PARKING_LABELS.ja; }
+function detailLabels() { return DETAIL_LABELS[displayLang] || DETAIL_LABELS.ja; }
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
@@ -454,17 +582,83 @@ function inatTaxonUrl(sp) {
   return `https://www.inaturalist.org/taxa/${sp.tid}?locale=${locale}`;
 }
 
-function speciesCardHtml(sp) {
+function monthsText(bitmap) {
+  const D = detailLabels();
+  if (!bitmap) return D.unknownSeason;
+  const months = [];
+  for (let i = 0; i < 12; i++) {
+    if (bitmap & (1 << i)) months.push(D.months[i]);
+  }
+  return months.length ? months.join(' · ') : D.unknownSeason;
+}
+
+function difficultyLevel(sp, pair) {
+  const n = sp.n || 0;
+  let level = n >= 80 ? 1 : n >= 30 ? 2 : n >= 10 ? 3 : n >= 3 ? 4 : 5;
+  if ((pair && pair.sc || 0) >= 3) level -= 1;
+  if (sp.g === 'plant' && n >= 3) level -= 1;
+  if ((sp.g === 'mushroom' || sp.g === 'amphibian' || sp.g === 'reptile') && level < 5) level += 1;
+  return Math.max(1, Math.min(5, level));
+}
+
+function difficultyHtml(sp, pair) {
+  const D = detailLabels();
+  const level = difficultyLevel(sp, pair);
+  return `${'★'.repeat(level)}${'☆'.repeat(5 - level)} ${D.levels[level - 1]}`;
+}
+
+function guideText(sp) {
+  const templates = GUIDE_TEMPLATES[displayLang] || GUIDE_TEMPLATES.ja;
+  return templates[sp.g] || templates.unclassified;
+}
+
+function speciesCardHtml(sp, pair) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
   const name = displayName(sp);
   const sci = sp.sci ? `<div class="sci">${sp.sci}</div>` : '';
+  const inspect = detailLabels().inspect;
   const wiki = `<a href="${wikiSearchUrl(sp)}" target="_blank" rel="noopener" title="Wikipedia">Wiki</a>`;
   const inat = sp.tid ? `<a href="${inatTaxonUrl(sp)}" target="_blank" rel="noopener" title="iNaturalist">iNat</a>` : '';
   const ebird = sp.eb ? `<a href="${ebirdSpeciesUrl(sp)}" target="_blank" rel="noopener" title="eBird">eBird</a>` : '';
   const links = `<div class="links">${wiki}${inat}${ebird}</div>`;
-  return `<div class="${cls}"><div class="ph" ${photo}></div>` +
+  return `<div class="${cls}"><div class="ph" ${photo}>` +
+         `<button class="inspect-btn" type="button" data-open-species="${pair.si}" aria-label="${inspect}" title="${inspect}">🔍</button>` +
+         `</div>` +
          `<div class="lab"><div class="ja">${name}</div>${sci}${links}</div></div>`;
+}
+
+function openSpeciesModal(si) {
+  const sp = DATA.species[si];
+  if (!sp) return;
+  const pair = selectedParkIdx == null ? null : parkSpecies[selectedParkIdx].find(p => p.si === si);
+  const park = selectedParkIdx == null ? null : DATA.parks[selectedParkIdx];
+  const D = detailLabels();
+  const photoCls = sp.p ? 'modal-photo' : 'modal-photo no-photo';
+  const photoStyle = sp.p ? `style="background-image:url('${sp.p}')"` : '';
+  const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
+  const sourceCount = pair ? pair.sc || 1 : 1;
+  const facts = [
+    `${D.spread}: ${sp.n || 0}`,
+    `${D.source}: ${sourceCount}`,
+    `${D.season}: ${monthsText(pair ? pair.mb : 0)}`,
+  ];
+  const content = document.getElementById('modal-content');
+  content.innerHTML =
+    `<div class="${photoCls}" ${photoStyle}></div>` +
+    `<div class="modal-body">` +
+      `<h2 class="modal-title" id="modal-title">${displayName(sp)}</h2>${sci}` +
+      `<div class="difficulty">${D.difficulty}: ${difficultyHtml(sp, pair)}</div>` +
+      `<div class="modal-facts">${facts.map(f => `<span>${f}</span>`).join('')}</div>` +
+      `<div class="modal-section"><h3>${D.guide}</h3><p>${guideText(sp)}</p></div>` +
+      `<div class="modal-section"><h3>${D.parkClue}${park ? ` · ${park.n}` : ''}</h3>` +
+      `<p>${monthsText(pair ? pair.mb : 0)} / ${D.source}: ${sourceCount}</p></div>` +
+    `</div>`;
+  document.getElementById('species-modal').classList.remove('hidden');
+}
+
+function closeSpeciesModal() {
+  document.getElementById('species-modal').classList.add('hidden');
 }
 
 function sortGroupItems(items) {
@@ -628,8 +822,8 @@ function selectPark(pi) {
          +  `</button>`;
     html += `<div class="grid">`;
     const visibleLimit = Math.min(visibleLimitFor(pi, g), items.length);
-    for (const { sp } of items.slice(0, visibleLimit)) {
-      html += speciesCardHtml(sp);
+    for (const { sp, pair } of items.slice(0, visibleLimit)) {
+      html += speciesCardHtml(sp, pair);
     }
     html += `</div>`;
     if (items.length > visibleLimit) {
@@ -698,7 +892,21 @@ function selectPark(pi) {
       selectPark(selectedParkIdx);
     });
   });
+  sideEl.querySelectorAll('[data-open-species]').forEach(btn => {
+    btn.addEventListener('click', (ev) => {
+      ev.preventDefault();
+      ev.stopPropagation();
+      openSpeciesModal(parseInt(btn.dataset.openSpecies, 10));
+    });
+  });
 }
+
+document.querySelectorAll('[data-modal-close]').forEach(el => {
+  el.addEventListener('click', closeSpeciesModal);
+});
+document.addEventListener('keydown', ev => {
+  if (ev.key === 'Escape') closeSpeciesModal();
+});
 
 document.getElementById('m').addEventListener('change', refreshMap);
 document.getElementById('g').addEventListener('change', refreshMap);

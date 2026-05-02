@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, and language-aware iNat links. Current demo export has 7,052 visible species; photo coverage last measured 6,521/7,044 before eBird.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, and an MVP species observation-guide modal. Current demo export has 7,052 visible species; photo coverage last measured 6,521/7,044 before eBird.
 
 ## In progress
 
@@ -67,7 +67,20 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - Until that exists, **constrain the `sp.n` fallback to geographically nearby parks** so a 関東-wide common species doesn't dominate over a locally-clustered one. Define "nearby" via lat/lon radius (e.g. 30 km) or by prefecture.
    - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
+7. **Species observation-guide profiles** — MVP shipped 2026-05-02 in `scripts/export_html.py`: photo hover/tap shows a 🔍 button; clicking opens a modal with enlarged photo, difficulty score, season/source clues, and group-based finding tips in all UI languages.
+
+   **Follow-up**:
+   - Add a real `species_profile` data layer (`species_id`, `lang`, `summary`, `habitat_hint`, `finding_tips`, `sources`, `updated_at`) for curated / generated species-specific text.
+   - Export source names, not just `source_count`, into the modal so users can see 公園公式 / iNaturalist / GBIF / eBird.
+   - Improve difficulty using per-park `observation_count`, month selected, and source diversity; current MVP uses global park count + pair source count + taxon-group heuristics.
+   - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
+
 ## Recent sessions
+
+### 2026-05-02 (Codex) — observation-guide modal MVP
+- Added photo hover/tap 🔍 buttons and a species modal in `scripts/export_html.py`; modal shows enlarged photo, difficulty score, season/source-count clues, and localized group-level finding tips.
+- Difficulty is data-driven but heuristic: global park count (`sp.n`), selected-park source count (`pair.sc`), and taxon group adjustments.
+- Regenerated `docs/index.html`; Node syntax check passed. Playwright was unavailable locally, so no browser-click automation was run.
 
 ### 2026-05-02 (Codex) — language-aware iNat links
 - Updated species-card iNaturalist links to include `?locale=ja/en/zh` based on the active demo language; Simplified and Traditional Chinese both use iNat's `zh` locale.
