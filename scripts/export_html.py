@@ -286,15 +286,17 @@ main { display: flex; height: calc(100vh - 50px); }
 .park-map-btn:hover { background: #e8f4eb; }
 .park-meta { font-size: 12px; color: #666; }
 .park-meta a { color: #2a6b3b; }
-.species-count { margin: 8px 0; font-size: 13px; color: #444; }
+.species-count { margin: 8px 0; font-size: 13px; color: #444;
+                 display: flex; align-items: center; justify-content: space-between;
+                 gap: 8px; flex-wrap: wrap; }
+.species-count .quick-actions { display: inline-flex; align-items: center; gap: 6px; }
 .species-controls { position: sticky; top: 0; background: #fff; padding: 6px 0 8px;
                     margin-top: 6px; border-bottom: 1px solid #eee; z-index: 5; }
 .species-controls .row { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
 .species-controls .row.sort { margin-top: 6px; font-size: 12px; color: #555; }
-.species-controls .quick { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b;
-                           border-radius: 4px; padding: 3px 7px; font-size: 11px;
-                           cursor: pointer; }
-.species-controls .quick:hover { background: #e8f4eb; }
+.quick { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b;
+         border-radius: 4px; padding: 3px 7px; font-size: 11px; cursor: pointer; }
+.quick:hover { background: #e8f4eb; }
 .species-controls .gck { display: inline-flex; align-items: center; gap: 3px;
                          background: #f4f4f4; padding: 2px 8px; border-radius: 12px;
                          font-size: 11px; cursor: pointer; user-select: none; }
@@ -1264,7 +1266,11 @@ function selectPark(pi, opts = {}) {
   }
   let total = 0;
   for (const g of groupKeys) total += groups[g].length;
-  html += `<div class="species-count">${T.count(total)}</div>`;
+  html += `<div class="species-count"><span>${T.count(total)}</span>`
+       +  `<span class="quick-actions">`
+       +  `<button class="quick" type="button" data-select-all>${T.selectAll}</button>`
+       +  `<button class="quick" type="button" data-select-none>${T.selectNone}</button>`
+       +  `</span></div>`;
   if (total === 0) {
     html += `<div class="placeholder">${T.none}</div>`;
     sideEl.innerHTML = html;
@@ -1275,10 +1281,6 @@ function selectPark(pi, opts = {}) {
 
   // Controls bar: per-group checkboxes (persistent) + sort selector
   html += `<div class="species-controls">`;
-  html += `<div class="row actions">`
-       +  `<button class="quick" type="button" data-select-all>${T.selectAll}</button>`
-       +  `<button class="quick" type="button" data-select-none>${T.selectNone}</button>`
-       +  `</div>`;
   html += `<div class="row taxa">`;
   for (const g of groupKeys) {
     const checked = selectedGroups.has(g);
