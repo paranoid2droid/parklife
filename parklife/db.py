@@ -126,6 +126,7 @@ CREATE TABLE IF NOT EXISTS species_profile (
     habitat_hint    TEXT,
     finding_tips    TEXT,
     sources         TEXT,                    -- JSON array or short source note
+    source_urls     TEXT,                    -- JSON array of {label,url}
     updated_at      TEXT NOT NULL,
     UNIQUE(species_id, lang)
 );
