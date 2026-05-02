@@ -823,6 +823,9 @@ const markerLayer = L.layerGroup().addTo(map);
 const sideEl = document.getElementById('side');
 const statEl = document.getElementById('stat');
 let selectedParkIdx = null;
+let userSelectedPark = false;
+const DEFAULT_RECOMMEND_POINT = { lat: 35.681236, lon: 139.767125 }; // Tokyo Station
+const MAX_LOCATION_RECOMMEND_KM = 80;
 
 // Per-park species panel: persistent group-checkbox + sort state
 const SELECTED_GROUPS_KEY = 'parklife.selectedGroups.v2';
@@ -1229,13 +1232,14 @@ function refreshMap() {
       radius, color: '#2a6b3b', weight: 1, fillColor: '#6cae7e', fillOpacity: 0.7,
     }).addTo(markerLayer);
     marker.bindTooltip(`${park.n} (${count})`, { direction: 'top' });
-    marker.on('click', () => selectPark(pi, { focusList: true }));
+    marker.on('click', () => selectPark(pi, { focusList: true, user: true }));
     shown++; totalSpecies += count;
   }
   statEl.textContent = `${shown} 公園 / ${totalSpecies} 観察記録`;
 }
 
 function selectPark(pi, opts = {}) {
+  if (opts.user) userSelectedPark = true;
   selectedParkIdx = pi;
   const park = DATA.parks[pi];
   const f = currentFilter();
@@ -1499,13 +1503,49 @@ function applyView() {
 applyView();
 window.addEventListener('resize', () => map.invalidateSize());
 
-// initial selection: most-diverse park visible
-let bestIdx = 0, bestN = 0;
-for (let pi = 0; pi < DATA.parks.length; pi++) {
-  const n = parkSpecies[pi].length;
-  if (n > bestN) { bestN = n; bestIdx = pi; }
+function distanceKm(lat1, lon1, lat2, lon2) {
+  const R = 6371;
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat / 2) ** 2
+          + Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180)
+          * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
-selectPark(bestIdx);
+function isProbablyJapan(lat, lon) {
+  return lat >= 24 && lat <= 46 && lon >= 122 && lon <= 146;
+}
+function nearestParkIdx(lat, lon) {
+  let bestIdx = null, bestDist = Infinity;
+  for (let pi = 0; pi < DATA.parks.length; pi++) {
+    const p = DATA.parks[pi];
+    if (p.lat == null || p.lon == null || parkSpecies[pi].length === 0) continue;
+    const d = distanceKm(lat, lon, p.lat, p.lon);
+    if (d < bestDist) { bestDist = d; bestIdx = pi; }
+  }
+  return { idx: bestIdx, distanceKm: bestDist };
+}
+function recommendParkFromPoint(lat, lon, opts = {}) {
+  const rec = nearestParkIdx(lat, lon);
+  if (rec.idx == null) return false;
+  if (opts.requireNearby && rec.distanceKm > MAX_LOCATION_RECOMMEND_KM) return false;
+  selectPark(rec.idx);
+  const p = DATA.parks[rec.idx];
+  map.setView([p.lat, p.lon], opts.zoom || 11);
+  return true;
+}
+function requestLocationRecommendation() {
+  if (!navigator.geolocation || !window.isSecureContext) return;
+  navigator.geolocation.getCurrentPosition(pos => {
+    if (userSelectedPark) return;
+    const lat = pos.coords.latitude;
+    const lon = pos.coords.longitude;
+    if (!isProbablyJapan(lat, lon)) return;
+    recommendParkFromPoint(lat, lon, { requireNearby: true, zoom: 12 });
+  }, () => {}, { enableHighAccuracy: false, timeout: 5000, maximumAge: 3600000 });
+}
+recommendParkFromPoint(DEFAULT_RECOMMEND_POINT.lat, DEFAULT_RECOMMEND_POINT.lon, { zoom: 11 });
+requestLocationRecommendation();
 """
 
 
