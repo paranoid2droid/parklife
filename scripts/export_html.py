@@ -291,6 +291,10 @@ main { display: flex; height: calc(100vh - 50px); }
                     margin-top: 6px; border-bottom: 1px solid #eee; z-index: 5; }
 .species-controls .row { display: flex; flex-wrap: wrap; gap: 4px 6px; align-items: center; }
 .species-controls .row.sort { margin-top: 6px; font-size: 12px; color: #555; }
+.species-controls .quick { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b;
+                           border-radius: 4px; padding: 3px 7px; font-size: 11px;
+                           cursor: pointer; }
+.species-controls .quick:hover { background: #e8f4eb; }
 .species-controls .gck { display: inline-flex; align-items: center; gap: 3px;
                          background: #f4f4f4; padding: 2px 8px; border-radius: 12px;
                          font-size: 11px; cursor: pointer; user-select: none; }
@@ -616,10 +620,10 @@ const TAXON_GROUP_LABEL = {
 };
 
 const PARKING_LABELS = {
-  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: 'フィルタに一致する物種なし', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', showMap: '🗺 地図', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
-  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'No species match the filter', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', showMap: '🗺 Map', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
-  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '没有符合筛选条件的物种', sortLabel: '排序', sortFreq: '公园数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', overflow: n => `…还有 ${n} 种`, showMore: n => `再显示 ${n} 种`, showAll: n => `显示剩余全部 ${n} 种`, official: '官网 ↗', showMap: '🗺 地图', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
-  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '沒有符合篩選條件的物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', showMap: '🗺 地圖', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
+  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: '表示する分類を選択してください', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', selectAll: '全選択', selectNone: '全解除', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', showMap: '🗺 地図', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
+  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'Choose a group to show species', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', selectAll: 'Select all', selectNone: 'Select none', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', showMap: '🗺 Map', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
+  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '请选择分类后显示物种', sortLabel: '排序', sortFreq: '公园数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', selectAll: '全选', selectNone: '全不选', overflow: n => `…还有 ${n} 种`, showMore: n => `再显示 ${n} 种`, showAll: n => `显示剩余全部 ${n} 种`, official: '官网 ↗', showMap: '🗺 地图', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
+  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '請選擇分類後顯示物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', selectAll: '全選', selectNone: '全不選', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', showMap: '🗺 地圖', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
 };
 
 const DETAIL_LABELS = {
@@ -819,29 +823,29 @@ const statEl = document.getElementById('stat');
 let selectedParkIdx = null;
 
 // Per-park species panel: persistent group-checkbox + sort state
-const HIDDEN_GROUPS_KEY = 'parklife.hiddenGroups';
+const SELECTED_GROUPS_KEY = 'parklife.selectedGroups.v2';
 const SORT_KEY = 'parklife.speciesSort';
-const COLLAPSED_GROUPS_KEY = 'parklife.collapsedGroups';
+const EXPANDED_GROUPS_KEY = 'parklife.expandedGroups.v1';
 const GROUP_LIMIT_STEP = 80;
-let hiddenGroups = new Set();
-try { hiddenGroups = new Set(JSON.parse(localStorage.getItem(HIDDEN_GROUPS_KEY) || '[]')); }
-catch (e) { hiddenGroups = new Set(); }
+let selectedGroups = new Set();
+try { selectedGroups = new Set(JSON.parse(localStorage.getItem(SELECTED_GROUPS_KEY) || '[]')); }
+catch (e) { selectedGroups = new Set(); }
 let sortMode = localStorage.getItem(SORT_KEY) || 'freq'; // 'freq' | 'name' | 'sci'
 if (sortMode === 'ja') sortMode = 'name'; // migration from old key
-let collapsedGroups = new Set();
-try { collapsedGroups = new Set(JSON.parse(localStorage.getItem(COLLAPSED_GROUPS_KEY) || '[]')); }
-catch (e) { collapsedGroups = new Set(); }
+let expandedGroups = new Set();
+try { expandedGroups = new Set(JSON.parse(localStorage.getItem(EXPANDED_GROUPS_KEY) || '[]')); }
+catch (e) { expandedGroups = new Set(); }
 let expandedGroupLimits = {};
 let currentModal = null;
 let modalTouchStartX = null;
 const largePhotoCache = new Set();
 
-function persistHidden() {
-  try { localStorage.setItem(HIDDEN_GROUPS_KEY, JSON.stringify([...hiddenGroups])); } catch(e) {}
+function persistSelectedGroups() {
+  try { localStorage.setItem(SELECTED_GROUPS_KEY, JSON.stringify([...selectedGroups])); } catch(e) {}
 }
 function persistSort() { try { localStorage.setItem(SORT_KEY, sortMode); } catch(e) {} }
-function persistCollapsed() {
-  try { localStorage.setItem(COLLAPSED_GROUPS_KEY, JSON.stringify([...collapsedGroups])); } catch(e) {}
+function persistExpanded() {
+  try { localStorage.setItem(EXPANDED_GROUPS_KEY, JSON.stringify([...expandedGroups])); } catch(e) {}
 }
 function groupLimitKey(pi, g) { return `${pi}:${g}`; }
 function visibleLimitFor(pi, g) {
@@ -1271,9 +1275,13 @@ function selectPark(pi, opts = {}) {
 
   // Controls bar: per-group checkboxes (persistent) + sort selector
   html += `<div class="species-controls">`;
+  html += `<div class="row actions">`
+       +  `<button class="quick" type="button" data-select-all>${T.selectAll}</button>`
+       +  `<button class="quick" type="button" data-select-none>${T.selectNone}</button>`
+       +  `</div>`;
   html += `<div class="row taxa">`;
   for (const g of groupKeys) {
-    const checked = !hiddenGroups.has(g);
+    const checked = selectedGroups.has(g);
     const cls = checked ? 'gck' : 'gck off';
     html += `<label class="${cls}">`
          +  `<input type="checkbox" data-group-cb="${g}"${checked ? ' checked' : ''}/>`
@@ -1289,13 +1297,19 @@ function selectPark(pi, opts = {}) {
        +  `</select>`;
   html += `</div></div>`;
 
+  const selectedVisibleGroups = groupKeys.filter(g => selectedGroups.has(g));
+  if (selectedVisibleGroups.length === 0) {
+    html += `<div class="placeholder">${T.none}</div>`;
+  }
   for (const g of groupKeys) {
     const items = sortGroupItems(groups[g]);
-    const hidden = hiddenGroups.has(g) ? ' hidden' : '';
-    const collapsed = collapsedGroups.has(g) ? ' collapsed' : '';
-    const chev = collapsedGroups.has(g) ? '▸' : '▾';
+    const hidden = selectedGroups.has(g) ? '' : ' hidden';
+    const autoCollapse = selectedVisibleGroups.length > 1;
+    const isCollapsed = autoCollapse ? !expandedGroups.has(g) : false;
+    const collapsed = isCollapsed ? ' collapsed' : '';
+    const chev = isCollapsed ? '▸' : '▾';
     html += `<div class="group${hidden}${collapsed}" data-group="${g}">`;
-    html += `<button class="group-head" type="button" data-collapse-group="${g}" aria-expanded="${collapsed ? 'false' : 'true'}">`
+    html += `<button class="group-head" type="button" data-collapse-group="${g}" aria-expanded="${isCollapsed ? 'false' : 'true'}">`
          +  `<span class="chev">${chev}</span><span>${groupLabel(g)} (${items.length})</span>`
          +  `</button>`;
     html += `<div class="grid">`;
@@ -1325,16 +1339,35 @@ function selectPark(pi, opts = {}) {
       const groupEl = sideEl.querySelector(`.group[data-group="${g}"]`);
       const labelEl = cb.closest('.gck');
       if (cb.checked) {
-        hiddenGroups.delete(g);
+        selectedGroups.add(g);
         if (groupEl) groupEl.classList.remove('hidden');
         if (labelEl) labelEl.classList.remove('off');
       } else {
-        hiddenGroups.add(g);
+        selectedGroups.delete(g);
+        expandedGroups.delete(g);
         if (groupEl) groupEl.classList.add('hidden');
         if (labelEl) labelEl.classList.add('off');
       }
-      persistHidden();
+      persistSelectedGroups();
+      persistExpanded();
+      selectPark(selectedParkIdx);
     });
+  });
+  const selectAllBtn = sideEl.querySelector('[data-select-all]');
+  if (selectAllBtn) selectAllBtn.addEventListener('click', () => {
+    groupKeys.forEach(g => selectedGroups.add(g));
+    expandedGroups.clear();
+    persistSelectedGroups();
+    persistExpanded();
+    selectPark(selectedParkIdx);
+  });
+  const selectNoneBtn = sideEl.querySelector('[data-select-none]');
+  if (selectNoneBtn) selectNoneBtn.addEventListener('click', () => {
+    groupKeys.forEach(g => selectedGroups.delete(g));
+    expandedGroups.clear();
+    persistSelectedGroups();
+    persistExpanded();
+    selectPark(selectedParkIdx);
   });
   const sortSel = sideEl.querySelector('#sort-mode');
   if (sortSel) sortSel.addEventListener('change', () => {
@@ -1346,14 +1379,19 @@ function selectPark(pi, opts = {}) {
     btn.addEventListener('click', () => {
       const g = btn.dataset.collapseGroup;
       const groupEl = sideEl.querySelector(`.group[data-group="${g}"]`);
-      const willCollapse = !collapsedGroups.has(g);
-      if (willCollapse) collapsedGroups.add(g);
-      else collapsedGroups.delete(g);
+      const selectedVisibleGroups = groupKeys.filter(key => selectedGroups.has(key));
+      const autoCollapse = selectedVisibleGroups.length > 1;
+      const isCollapsed = groupEl ? groupEl.classList.contains('collapsed') : autoCollapse;
+      const willCollapse = !isCollapsed;
+      if (autoCollapse) {
+        if (willCollapse) expandedGroups.delete(g);
+        else expandedGroups.add(g);
+        persistExpanded();
+      }
       if (groupEl) groupEl.classList.toggle('collapsed', willCollapse);
       btn.setAttribute('aria-expanded', willCollapse ? 'false' : 'true');
       const chev = btn.querySelector('.chev');
       if (chev) chev.textContent = willCollapse ? '▸' : '▾';
-      persistCollapsed();
     });
   });
   sideEl.querySelectorAll('[data-more-group]').forEach(btn => {
