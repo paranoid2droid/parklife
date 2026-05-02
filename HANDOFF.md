@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, a multi-photo species modal carousel, demo data-source filter, unclassified display cleanup, detailed animal taxonomy cleanup, user-friendly top-level observation groups, multilingual species-level profiles with source URLs, per-park observation-count difficulty scoring, and mobile park-detail navigation. Current demo export has 7,052 visible species; 6,521 have at least one image, 1,282 visible species have 5-image galleries, 24 visible species have curated profiles in ja/en/zh/zhT with source URLs, and top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, and the first expanded bird-profile batch. Current committed demo export has 7,052 visible species; 6,521 have at least one image; roughly 1,393 visible species have 5-image galleries; 44 visible species have curated profiles in ja/en/zh/zhT with source URLs. Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`. Local DB gallery coverage is increasing while the long-running photo sweep continues.
 
 ## In progress
 
@@ -32,11 +32,17 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 ## Blocked / waiting
 
-- **User decisions still open**: default state of taxon-checkbox filter on demo (all-checked vs. localStorage memory) — see TODO #6 follow-up if revisiting filter UX.
+*(none currently — current blocker/risk is only the active long-running photo job in "In progress")*
 
 ## Next up
 
 Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top unless the user redirects.
+
+**Short-term practical queue (2026-05-03):**
+- Let the active photo sweep finish, then export/check/commit/push the final gallery coverage.
+- If token/time remains while the sweep runs, add another small `species_profile` batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`.
+- Good small polish: Traditional Chinese display fallback (Hans→Hant) to reduce Japanese fallback in zhT UI.
+- Bigger tasks to defer until fresh quota: expand park coverage; ingest いきものログ; parking-unknown audit.
 
 1. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
 
@@ -70,12 +76,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 7. **Species observation-guide profiles** — MVP shipped 2026-05-02 in `scripts/export_html.py`: photo hover/tap shows a 🔍 button; clicking opens a modal with enlarged photo, difficulty score, season/source clues, and group-based finding tips in all UI languages.
 
    **Follow-up**:
-   - ✅ First `species_profile` data layer shipped 2026-05-02: schema in `parklife/db.py`, seed script `scripts.seed_species_profiles`, export field `sp.pr`, and modal profile rendering. Current seed has 24 curated profiles in ja/en/zh/zhT and structured `source_urls`. Continue by adding more entries to `PROFILES_JA` + `PROFILES_EN_ZH`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`.
+   - ✅ First `species_profile` data layer shipped 2026-05-02: schema in `parklife/db.py`, seed script `scripts.seed_species_profiles`, export field `sp.pr`, and modal profile rendering. Current seed has 44 curated profiles in ja/en/zh/zhT and structured `source_urls`. Continue by adding more entries to `PROFILES_JA` + `PROFILES_EN_ZH`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`.
    - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
    - ✅ Difficulty now uses per-park `observation_count`, source diversity, official/eBird/iNat/GBIF provenance, selected month match, global park count, and taxon-group heuristics. Exported `DATA.pairs` shape is now `[parkIdx, speciesIdx, monthsBitmap, sourceCount, sourceCodes, observationCount]`.
-   - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Current DB/docs cover 1,282 high-frequency species with 5 images each.
-- 2026-05-02 partial follow-up: user paused a long `collect_species_photos 1000 5` run before commit. It had already added more rows before stopping; resume later with `.venv/bin/python -m scripts.collect_species_photos 1000 5` during a long wait. Progress output now uses `flush=True` so future long runs show live status.
-- 2026-05-03 long follow-up: `collect_species_photos 0 5` was started in local exec session `27094` to sweep all remaining candidates. Script now catches per-species exceptions and continues. If the session is still running, let it finish; then run `.venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`, check JS, commit, and push. At start there were 5,398 candidates with fewer than 5 gallery photos.
+   - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Current committed docs cover roughly 1,393 visible species with 5 images each.
+   - 2026-05-03 long follow-up: `collect_species_photos 0 5` was started in local exec session `27094` to sweep all remaining candidates. Script now catches per-species exceptions and continues. If the session is still running, let it finish; then run `.venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`, check JS, commit, and push. At start there were 5,398 candidates with fewer than 5 gallery photos; latest observed progress was beyond `[277/5398]`, with >1,350 new photo rows inserted.
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
 8. **Mobile demo UX** — ✅ shipped 2026-05-02. On small screens, tapping a map marker now switches directly to the species/detail list; the park header includes a localized `地図 / Map / 地图 / 地圖` button to return to the default split map+detail view. The old bottom-right split/map/list floating toggle and pure-map mode were removed as redundant.
