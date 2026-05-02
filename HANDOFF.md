@@ -81,7 +81,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 ### 2026-05-02 (Codex) — multi-photo species modal
 - Added `species_photo` schema and `scripts/collect_species_photos.py`, which caches iNat observation photo queries under `data/cache/inat_photos/` and stores 3–5 gallery URLs per species.
 - Ran the script for 510 high-frequency species total, adding 2,550 local DB photo rows; export now includes `sp.imgs` and 510 species have 5-image galleries.
-- Modal now supports previous/next buttons, keyboard arrows, and touch swipe; gallery export embeds iNat `medium` URLs for fast opening, then lazily upgrades the visible image to `large` and preloads adjacent images. Renders via `<img>` at the photo's natural aspect ratio (max-height bounded, no fixed 16:9 crop). Regenerated `docs/index.html` (3.8 MB) and `node --check` passed.
+- Modal now supports previous/next buttons, keyboard arrows, and touch swipe; gallery export embeds iNat `medium` URLs for fast opening, then lazily upgrades the visible image to `large` and preloads adjacent images. Image area is fixed-height/responsive (`clamp`) with `<img object-fit: contain>` for stable layout without cropping. Regenerated `docs/index.html` (3.8 MB) and `node --check` passed.
 
 ### 2026-05-02 (Codex) — modal source labels + photo-carousel planning
 - Export now derives per park-species source codes from `observation.location_hint` / `source.url` and appends them to `DATA.pairs`; modal displays localized source names instead of only a count.
