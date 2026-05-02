@@ -79,7 +79,14 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 8. **Mobile demo UX** — ✅ shipped 2026-05-02. On small screens, tapping a map marker now switches directly to the species/detail list; the park header includes a localized `地図 / Map / 地图 / 地圖` button to return to the default split map+detail view. The old bottom-right split/map/list floating toggle and pure-map mode were removed as redundant.
 
+9. **Species category selection UX** — ✅ shipped 2026-05-02. The selected-park species panel now defaults to no category selected using `localStorage('parklife.selectedGroups.v2')`; users choose categories before species cards render. One selected category opens directly; multiple selected categories default collapsed with manual expand. Added localized quick actions: 全選択/全解除, Select all/none, 全选/全不选, 全選/全不選.
+
 ## Recent sessions
+
+### 2026-05-02 (Codex) — category-first species panel
+- Changed per-park category checkboxes from hide-by-default to select-by-default-empty (`parklife.selectedGroups.v2`), so species cards do not render until a category is chosen.
+- Added localized Select all / Select none quick buttons; single selected category expands, multiple selected categories collapse by default.
+- Regenerated `docs/index.html`; Python compile and generated JS `node --check` passed.
 
 ### 2026-05-02 (Codex) — simplify mobile view switching
 - Removed the bottom-right mobile view toggle and pure-map mode from `scripts/export_html.py`.
