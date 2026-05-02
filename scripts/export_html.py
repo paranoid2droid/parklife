@@ -137,7 +137,7 @@ def collect_data() -> dict:
             ORDER BY species_id, sort_order, id
         """))
         profile_rows = list(conn.execute("""
-            SELECT species_id, lang, summary, habitat_hint, finding_tips, sources
+            SELECT species_id, lang, summary, habitat_hint, finding_tips, sources, source_urls
             FROM species_profile
         """))
     zh_hans: dict[int, str] = {}
@@ -163,6 +163,7 @@ def collect_data() -> dict:
             "habitat": r["habitat_hint"] or "",
             "tips": r["finding_tips"] or "",
             "sources": r["sources"] or "",
+            "sourceUrls": r["source_urls"] or "",
         }
 
     # build dense indexes (DB ids may have gaps)
@@ -926,6 +927,21 @@ function profileSourceText(profile) {
   return profile.sources;
 }
 
+function profileSourceLinks(profile) {
+  if (!profile || !profile.sourceUrls) return '';
+  let parsed = [];
+  try {
+    parsed = JSON.parse(profile.sourceUrls);
+  } catch (e) {
+    return '';
+  }
+  if (!Array.isArray(parsed) || !parsed.length) return '';
+  return parsed
+    .filter(item => item && item.url)
+    .map(item => `<a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.label || item.url)}</a>`)
+    .join(' · ');
+}
+
 function profileSectionHtml(sp) {
   const D = detailLabels();
   const profile = profileFor(sp);
@@ -933,6 +949,7 @@ function profileSectionHtml(sp) {
     return `<div class="modal-section"><h3>${D.guide}</h3><p>${escapeHtml(guideText(sp))}</p></div>`;
   }
   const source = profileSourceText(profile);
+  const sourceLinks = profileSourceLinks(profile);
   let html = `<div class="modal-section"><h3>${D.profile}</h3><p>${escapeHtml(profile.summary)}</p></div>`;
   if (profile.habitat) {
     html += `<div class="modal-section"><h3>${D.habitat}</h3><p>${escapeHtml(profile.habitat)}</p></div>`;
@@ -941,7 +958,7 @@ function profileSectionHtml(sp) {
     html += `<div class="modal-section"><h3>${D.fieldTips}</h3><p>${escapeHtml(profile.tips)}</p></div>`;
   }
   if (source) {
-    html += `<div class="modal-section subtle"><h3>${D.profileSources}</h3><p>${escapeHtml(source)}</p></div>`;
+    html += `<div class="modal-section subtle"><h3>${D.profileSources}</h3><p>${escapeHtml(source)}${sourceLinks ? `<br>${sourceLinks}` : ''}</p></div>`;
   }
   return html;
 }
