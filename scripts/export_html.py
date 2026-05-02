@@ -98,6 +98,10 @@ def collect_data() -> dict:
             SELECT species_id, raw_name, lang FROM species_alias
             WHERE lang IN ('zh-Hans', 'zh-Hant')
         """))
+        ebird_rows = list(conn.execute("""
+            SELECT species_id, raw_name FROM species_alias
+            WHERE lang = 'ebird'
+        """))
     zh_hans: dict[int, str] = {}
     zh_hant: dict[int, str] = {}
     for r in zh_rows:
@@ -105,6 +109,9 @@ def collect_data() -> dict:
             zh_hans.setdefault(r["species_id"], r["raw_name"])
         elif r["lang"] == "zh-Hant":
             zh_hant.setdefault(r["species_id"], r["raw_name"])
+    ebird_code: dict[int, str] = {}
+    for r in ebird_rows:
+        ebird_code.setdefault(r["species_id"], r["raw_name"])
 
     # build dense indexes (DB ids may have gaps)
     pk_idx = {r["id"]: i for i, r in enumerate(park_rows)}
@@ -126,6 +133,7 @@ def collect_data() -> dict:
             "k":    r["kingdom"] or "",
             "p":    r["photo_url"] or "",
             "tid":  r["inat_taxon_id"] or 0,
+            "eb":   ebird_code.get(r["id"], ""),
             "n":    pop.get(r["id"], 0),
         })
     parks = [
@@ -430,6 +438,15 @@ function wikiSearchUrl(sp) {
   return `https://${host}/wiki/Special:Search?search=${encodeURIComponent(q)}`;
 }
 
+function ebirdSpeciesUrl(sp) {
+  const siteLanguage = displayLang === 'ja' ? 'ja'
+                     : displayLang === 'zh' ? 'zh_CN'
+                     : displayLang === 'zhT' ? 'zh_TW'
+                     : '';
+  const base = `https://ebird.org/species/${encodeURIComponent(sp.eb)}`;
+  return siteLanguage ? `${base}?siteLanguage=${siteLanguage}` : base;
+}
+
 function speciesCardHtml(sp) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
@@ -437,7 +454,8 @@ function speciesCardHtml(sp) {
   const sci = sp.sci ? `<div class="sci">${sp.sci}</div>` : '';
   const wiki = `<a href="${wikiSearchUrl(sp)}" target="_blank" rel="noopener" title="Wikipedia">Wiki</a>`;
   const inat = sp.tid ? `<a href="https://www.inaturalist.org/taxa/${sp.tid}" target="_blank" rel="noopener" title="iNaturalist">iNat</a>` : '';
-  const links = `<div class="links">${wiki}${inat}</div>`;
+  const ebird = sp.eb ? `<a href="${ebirdSpeciesUrl(sp)}" target="_blank" rel="noopener" title="eBird">eBird</a>` : '';
+  const links = `<div class="links">${wiki}${inat}${ebird}</div>`;
   return `<div class="${cls}"><div class="ph" ${photo}></div>` +
          `<div class="lab"><div class="ja">${name}</div>${sci}${links}</div></div>`;
 }
