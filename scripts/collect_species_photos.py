@@ -128,12 +128,19 @@ def main(limit: int | None = 500, max_photos: int = 5) -> int:
     with db.connect(db_path) as conn:
         conn.executescript(PHOTO_SCHEMA)
         for i, r in enumerate(rows, 1):
-            payload, did_fetch = fetch_photos(r["inat_taxon_id"])
-            fetched += int(did_fetch)
-            cache_hits += int(not did_fetch)
-            if did_fetch:
-                time.sleep(REQUEST_DELAY_SECONDS)
-            photos = extract_photos(payload or {}, max_photos)
+            name = r["common_name_ja"] or r["scientific_name"] or r["id"]
+            try:
+                payload, did_fetch = fetch_photos(r["inat_taxon_id"])
+                fetched += int(did_fetch)
+                cache_hits += int(not did_fetch)
+                if did_fetch:
+                    time.sleep(REQUEST_DELAY_SECONDS)
+                photos = extract_photos(payload or {}, max_photos)
+            except Exception as exc:
+                print(f"  [{i:>4}/{len(rows)}] {str(name)[:28]:<28} skipped: {exc}",
+                      file=sys.stderr, flush=True)
+                conn.commit()
+                continue
             if photos:
                 with_photos += 1
             for order, photo in enumerate(photos):
@@ -146,7 +153,6 @@ def main(limit: int | None = 500, max_photos: int = 5) -> int:
                 inserted += cur.rowcount
             if i % 25 == 0 or photos:
                 conn.commit()
-                name = r["common_name_ja"] or r["scientific_name"] or r["id"]
                 print(f"  [{i:>4}/{len(rows)}] {str(name)[:28]:<28} photos={len(photos)} "
                       f"inserted={inserted} fetched={fetched} cache={cache_hits}", flush=True)
         conn.commit()

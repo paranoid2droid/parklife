@@ -28,7 +28,7 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 ## In progress
 
-*(none — nothing mid-flight at handoff time)*
+- (Codex, 2026-05-03) Long-running photo gallery sweep is active in exec session `27094`: `.venv/bin/python -m scripts.collect_species_photos 0 5`. Do not stop it unless the user asks. When complete, run `.venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`, extract/check JS, update this handoff, commit, and push.
 
 ## Blocked / waiting
 
@@ -74,7 +74,8 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
    - ✅ Difficulty now uses per-park `observation_count`, source diversity, official/eBird/iNat/GBIF provenance, selected month match, global park count, and taxon-group heuristics. Exported `DATA.pairs` shape is now `[parkIdx, speciesIdx, monthsBitmap, sourceCount, sourceCodes, observationCount]`.
    - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Current DB/docs cover 1,282 high-frequency species with 5 images each.
-   - 2026-05-02 partial follow-up: user paused a long `collect_species_photos 1000 5` run before commit. It had already added more rows before stopping; resume later with `.venv/bin/python -m scripts.collect_species_photos 1000 5` during a long wait. Progress output now uses `flush=True` so future long runs show live status.
+- 2026-05-02 partial follow-up: user paused a long `collect_species_photos 1000 5` run before commit. It had already added more rows before stopping; resume later with `.venv/bin/python -m scripts.collect_species_photos 1000 5` during a long wait. Progress output now uses `flush=True` so future long runs show live status.
+- 2026-05-03 long follow-up: `collect_species_photos 0 5` was started in local exec session `27094` to sweep all remaining candidates. Script now catches per-species exceptions and continues. If the session is still running, let it finish; then run `.venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`, check JS, commit, and push. At start there were 5,398 candidates with fewer than 5 gallery photos.
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
 8. **Mobile demo UX** — ✅ shipped 2026-05-02. On small screens, tapping a map marker now switches directly to the species/detail list; the park header includes a localized `地図 / Map / 地图 / 地圖` button to return to the default split map+detail view. The old bottom-right split/map/list floating toggle and pure-map mode were removed as redundant.
@@ -89,6 +90,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 - Added browser-geolocation recommendation to `scripts/export_html.py`: nearest data park is selected only when the user is in Japan and within 80km of available park data.
 - Default fallback changed from most-diverse park to nearest park around Tokyo Station, matching the "Tokyo center" fallback.
 - Regenerated `docs/index.html`; Python compile and generated JS `node --check` passed.
+
+### 2026-05-03 (Codex) — profile batch + photo backfill running
+- Started long-running photo gallery sweep: `.venv/bin/python -m scripts.collect_species_photos 0 5` in exec session `27094`; keep it running and export docs after it finishes.
+- Added per-species exception handling to `scripts.collect_species_photos` so one failed taxon does not stop the batch.
+- Added 20 high-frequency bird profiles to `scripts.seed_species_profiles`; current DB/docs have 44 profiled species / 176 localized rows.
 
 ### 2026-05-03 (Codex) — category action placement
 - Moved Select all / Select none quick actions from their own controls row into the species-count line to save vertical space.
