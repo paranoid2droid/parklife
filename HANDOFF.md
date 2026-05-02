@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, a multi-photo species modal carousel, demo data-source filter, unclassified display cleanup, and detailed animal taxonomy cleanup. Current demo export has 7,052 visible species; 6,521 have at least one image, 858 visible species have 5-image galleries, and `other_animal` has 0 visible species after class/phylum backfill.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, bird-card eBird species links, language-aware iNat links, MVP species observation-guide modal, modal source labels, a multi-photo species modal carousel, demo data-source filter, unclassified display cleanup, detailed animal taxonomy cleanup, and user-friendly top-level observation groups. Current demo export has 7,052 visible species; 6,521 have at least one image, 858 visible species have 5-image galleries, and top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
 
 ## In progress
 
@@ -78,6 +78,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — user-friendly observation groups
+- Reworked demo top-level grouping in `scripts/export_html.py`: DB `taxon_group` stays detailed, export now maps to observation groups (`plant`, `bird`, `insect`, `arachnid_myriapod`, `crustacean`, `fish`, `herp`, `mammal`, `mollusk`, `small_aquatic`, `mushroom`).
+- Exported detailed DB group as `sp.tg` and added modal "詳しい分類 / Detailed group" display, so examples like ハスノハカシパン show top-level `small_aquatic` but detailed `echinoderm`.
+- Regenerated `docs/index.html`; current group counts: plant 2955, insect 2321, mollusk 402, bird 380, mushroom 356, fish 262, spider/myriapod 145, crustacean 87, mammal 51, herp 50, other aquatic/small animals 43.
 
 ### 2026-05-02 (Codex) — detailed animal taxonomy cleanup
 - Audited all visible `その他動物`: 242 species / 786 park pairs were `animalia` with `taxon_group=NULL`, mostly GBIF records for crustaceans, fish with missing class, echinoderms, myriapods, cnidarians, annelids, and flatworms.
