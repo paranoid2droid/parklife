@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, and eBird bird enrichment. Current demo export has 7,052 visible species; photo coverage last measured 6,521/7,044 before eBird.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/02: shipped multilingual demo UI + Wikidata zh densification, taxonomy display cleanup, map fix, iNat photo backfill, Japanese-name backfill, eBird bird enrichment, and bird-card eBird species links. Current demo export has 7,052 visible species; photo coverage last measured 6,521/7,044 before eBird.
 
 ## In progress
 
@@ -68,6 +68,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
 
 ## Recent sessions
+
+### 2026-05-02 (Codex) — bird-card eBird links
+- Added export of stored eBird species codes (`species_alias.lang='ebird'`) into `docs/index.html` as `sp.eb`; 185 exported, all bird-group species.
+- Species cards now show an `eBird` external link when `sp.eb` is present, with language-aware `siteLanguage` for Japanese / Simplified Chinese / Traditional Chinese.
+- Regenerated `docs/index.html` and syntax-checked the generated client JS with Node.
 
 ### 2026-05-02 (Codex) — eBird bird enrichment
 - Added `scripts/ebird.py` using eBird recent nearby observations, 2km radius, 30-day lookback, cached under `data/cache/ebird/`; API key is env-only and not committed.
