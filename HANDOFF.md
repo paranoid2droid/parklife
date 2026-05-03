@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, and expanded bird/insect profile batches. Current committed demo export has 7,052 visible species; 6,521 have at least one image; local DB now has 30,646 `species_photo` rows, 6,280 species with gallery rows, and 6,013 species with 5+ gallery photos; 49 visible species have curated profiles in ja/en/zh/zhT with source URLs. Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
+Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, and expanded bird/insect profile batches. Current committed demo export has 7,052 visible species; 6,521 have at least one image; local DB now has 31,348 `species_photo` rows, 6,429 species with gallery rows, and 6,146 species with 5+ gallery photos; 49 visible species have curated profiles in ja/en/zh/zhT with source URLs. Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
 
 ## In progress
 
@@ -41,7 +41,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 **Short-term practical queue (2026-05-03):**
 - Add another small `species_profile` batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`.
 - Good small polish: Traditional Chinese display fallback (Hans→Hant) to reduce Japanese fallback in zhT UI.
-- Photo follow-up: the sweep hit many iNaturalist `HTTP 429` responses near the end; rerun `.venv/bin/python -m scripts.collect_species_photos 0 5` another day to retry remaining species after rate limits cool down.
+- Photo follow-up: 2026-05-03 retry after `HTTP 429` cooldown succeeded with no new 429s; remaining `<5 photos` candidates are now mostly genuinely sparse. A future retry may still add a little, but it is no longer urgent.
 - Bigger tasks to defer until fresh quota: expand park coverage; ingest いきものログ; parking-unknown audit.
 
 1. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
@@ -79,7 +79,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
    - ✅ First `species_profile` data layer shipped 2026-05-02: schema in `parklife/db.py`, seed script `scripts.seed_species_profiles`, export field `sp.pr`, and modal profile rendering. Current seed has 49 curated profiles in ja/en/zh/zhT and structured `source_urls`. Continue by adding more entries to `PROFILES_JA` + `PROFILES_EN_ZH`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`.
    - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
    - ✅ Difficulty now uses per-park `observation_count`, source diversity, official/eBird/iNat/GBIF provenance, selected month match, global park count, and taxon-group heuristics. Exported `DATA.pairs` shape is now `[parkIdx, speciesIdx, monthsBitmap, sourceCount, sourceCodes, observationCount]`.
-   - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Long sweep `collect_species_photos 0 5` completed 2026-05-03: tried 5,398 species, 4,997 had photos, inserted 24,234 new photo rows. Local DB now has 30,646 photo rows, 6,280 species with gallery rows, and 6,013 species with 5+ gallery photos. Near the end iNaturalist returned many `HTTP 429`; rerun another day to retry remaining misses.
+   - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Long sweep `collect_species_photos 0 5` completed 2026-05-03: tried 5,398 species, 4,997 had photos, inserted 24,234 new photo rows. Same-day cooldown retry tried the remaining 610 candidates with no new 429s, fetched 152, and inserted 702 more rows. Local DB now has 31,348 photo rows, 6,429 species with gallery rows, 6,146 species with 5+ gallery photos, and 477 candidates still below 5 photos.
    - ✅ Modal timing wording fixed 2026-05-03: the modal no longer presents source/record upload months as true biological season. It now shows a natural-history "observation timing" hint, with species-level overrides for common resident birds and group-level fallbacks for others. Park clues show record count/source only.
    - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
 
@@ -94,7 +94,7 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 ### 2026-05-03 (Codex) — modal timing fix + photo sweep deployed
 - Replaced modal record-month display with natural-history observation timing hints; park clues now show record count/source only, avoiding misleading "only seen in Apr/Dec" wording for year-round species.
 - Long `collect_species_photos 0 5` run completed: 5,398 tried, 4,997 with photos, +24,234 photo rows. Exported final docs; DB now has 30,646 species_photo rows and 6,013 species with 5+ photos.
-- Noted many iNaturalist `HTTP 429` responses near the end; rerun the photo script another day to retry remaining misses.
+- Same-day cooldown retry of the remaining 610 candidates saw no new 429s and added 702 more photo rows; DB now has 31,348 species_photo rows and 6,146 species with 5+ photos.
 
 ### 2026-05-03 (Codex) — location-based recommendation
 - Added browser-geolocation recommendation to `scripts/export_html.py`: nearest data park is selected only when the user is in Japan and within 80km of available park data.
