@@ -633,7 +633,7 @@ const DETAIL_LABELS = {
     inspect: '観察ガイドを開く', difficulty: '観察難度', guide: '見つけ方',
     profile: 'この生き物について', habitat: 'いそうな場所',
     fieldTips: '探し方', profileSources: 'プロフィール参考',
-    parkClue: 'この公園での手がかり', season: '季節', source: '記録ソース',
+    parkClue: 'この公園での手がかり', timing: '観察時期の目安', source: '記録ソース',
     evidence: 'この公園での記録数',
     taxonomy: '詳しい分類',
     spread: '記録公園数', unknownSeason: '通年または不明',
@@ -645,7 +645,7 @@ const DETAIL_LABELS = {
     inspect: 'Open field guide', difficulty: 'Finding difficulty', guide: 'How to find it',
     profile: 'About this species', habitat: 'Likely places',
     fieldTips: 'How to find it', profileSources: 'Profile references',
-    parkClue: 'Clues in this park', season: 'Season', source: 'Record sources',
+    parkClue: 'Clues in this park', timing: 'Observation timing', source: 'Record sources',
     evidence: 'Records in this park',
     taxonomy: 'Detailed group',
     spread: 'Parks recorded', unknownSeason: 'Year-round or unknown',
@@ -657,7 +657,7 @@ const DETAIL_LABELS = {
     inspect: '打开观察指南', difficulty: '观察难度', guide: '寻找方法',
     profile: '关于这个物种', habitat: '可能出现的地方',
     fieldTips: '寻找方法', profileSources: '简介参考',
-    parkClue: '这个公园里的线索', season: '季节', source: '记录来源',
+    parkClue: '这个公园里的线索', timing: '观察时机参考', source: '记录来源',
     evidence: '这个公园的记录数',
     taxonomy: '详细分类',
     spread: '有记录的公园数', unknownSeason: '全年或未知',
@@ -669,7 +669,7 @@ const DETAIL_LABELS = {
     inspect: '打開觀察指南', difficulty: '觀察難度', guide: '尋找方法',
     profile: '關於這個物種', habitat: '可能出現的地方',
     fieldTips: '尋找方法', profileSources: '簡介參考',
-    parkClue: '這個公園裡的線索', season: '季節', source: '記錄來源',
+    parkClue: '這個公園裡的線索', timing: '觀察時機參考', source: '記錄來源',
     evidence: '這個公園的記錄數',
     taxonomy: '詳細分類',
     spread: '有記錄的公園數', unknownSeason: '全年或未知',
@@ -894,6 +894,58 @@ function monthsText(bitmap) {
   return months.length ? months.join(' · ') : D.unknownSeason;
 }
 
+const TIMING_OVERRIDES = {
+  ja: {
+    'Streptopelia orientalis': '留鳥として一年を通して観察できます。繁殖期は春から夏、採食中は地面や低い枝で見つけやすいです。',
+    'Hypsipetes amaurotis': '一年を通して見られます。花や実が多い時期は木の上部に集まりやすく、声も手がかりになります。',
+    'Motacilla alba': '一年を通して見られます。開けた地面や水辺では季節を問わず探せます。',
+    'Parus cinereus': '一年を通して見られます。冬は混群で動くことがあり、春は声で気づきやすくなります。',
+    'Zosterops japonicus': '一年を通して見られます。冬から春は花木、秋は実のなる木で探しやすいです。',
+    'Passer montanus': '一年を通して見られます。繁殖期は巣材や餌を運ぶ行動も手がかりになります。',
+  },
+  en: {
+    'Streptopelia orientalis': 'Usually observable year-round as a resident bird. Spring to summer is breeding season; feeding birds are often on the ground or low branches.',
+    'Hypsipetes amaurotis': 'Usually observable year-round. Flowering and fruiting trees make it easier to find.',
+    'Motacilla alba': 'Usually observable year-round around open ground and watersides.',
+    'Parus cinereus': 'Usually observable year-round. Winter mixed flocks and spring calls are good clues.',
+    'Zosterops japonicus': 'Usually observable year-round. Flowering trees in winter-spring and fruiting trees in autumn are useful spots.',
+    'Passer montanus': 'Usually observable year-round. Nest material or food-carrying behavior can be visible in breeding season.',
+  },
+  zh: {
+    'Streptopelia orientalis': '作为留鸟通常全年都能观察。春夏为繁殖期，觅食时常在地面或低枝上。', 'Hypsipetes amaurotis': '通常全年可见。开花、结果的树会让它更容易被发现。',
+    'Motacilla alba': '通常全年可见，开阔地面和水边都适合寻找。', 'Parus cinereus': '通常全年可见。冬季混群和春季叫声都是好线索。',
+    'Zosterops japonicus': '通常全年可见。冬春看花木，秋季看结果树更容易。', 'Passer montanus': '通常全年可见。繁殖期搬运巢材或食物的行为也是线索。',
+  },
+  zhT: {
+    'Streptopelia orientalis': '作為留鳥通常全年都能觀察。春夏為繁殖期，覓食時常在地面或低枝上。', 'Hypsipetes amaurotis': '通常全年可見。開花、結果的樹會讓牠更容易被發現。',
+    'Motacilla alba': '通常全年可見，開闊地面和水邊都適合尋找。', 'Parus cinereus': '通常全年可見。冬季混群和春季叫聲都是好線索。',
+    'Zosterops japonicus': '通常全年可見。冬春看花木，秋季看結果樹更容易。', 'Passer montanus': '通常全年可見。繁殖期搬運巢材或食物的行為也是線索。',
+  },
+};
+
+const TIMING_BY_GROUP = {
+  ja: {
+    bird: '種によって異なります。留鳥は通年、冬鳥は冬、夏鳥は春から夏が中心です。記録月ではなく生活史の目安として見てください。',
+    plant: '花・果実・紅葉など見たい状態で時期が変わります。葉だけなら長く見られる種も多いです。',
+    insect: '多くは暖かい季節、とくに春から秋の晴れた日中に見つけやすいです。',
+    mushroom: '雨の後や湿度の高い時期が中心です。子実体は短期間だけ出ることがあります。',
+    herp: '暖かい季節と雨上がりに活動しやすく、冬は見つけにくくなります。',
+    fish: '水中では通年見られる種も多いですが、水温や繁殖期で見えやすさが変わります。',
+    default: '時期は種によって異なります。ここでは記録月ではなく、分類と生活習性に基づく目安を表示しています。',
+  },
+  en: { default: 'Timing varies by species. This is a natural-history hint, not a list of upload or record months.' },
+  zh: { default: '观察时机会因物种而异。这里显示的是生活习性参考，不是照片上传或记录月份。' },
+  zhT: { default: '觀察時機會因物種而異。這裡顯示的是生活習性參考，不是照片上傳或記錄月份。' },
+};
+
+function observationTimingText(sp) {
+  const lang = displayLang;
+  const override = (TIMING_OVERRIDES[lang] || TIMING_OVERRIDES.ja)[sp.sci];
+  if (override) return override;
+  const groupHints = TIMING_BY_GROUP[lang] || TIMING_BY_GROUP.ja;
+  return groupHints[sp.g] || groupHints[sp.tg] || groupHints.default || TIMING_BY_GROUP.ja.default;
+}
+
 function sourceText(pair) {
   const D = detailLabels();
   const src = pair && pair.src && pair.src.length ? pair.src : [];
@@ -1044,7 +1096,6 @@ function openSpeciesModal(si) {
     `${D.evidence}: ${pair ? pair.oc || 1 : 1}`,
     `${D.spread}: ${sp.n || 0}`,
     `${D.source}: ${sourceText(pair)}`,
-    `${D.season}: ${monthsText(pair ? pair.mb : 0)}`,
   ];
   const content = document.getElementById('modal-content');
   content.innerHTML =
@@ -1058,9 +1109,10 @@ function openSpeciesModal(si) {
       `<h2 class="modal-title" id="modal-title">${displayName(sp)}</h2>${sci}` +
       `<div class="difficulty">${D.difficulty}: ${difficultyHtml(sp, pair)}</div>` +
       `<div class="modal-facts">${facts.map(f => `<span>${f}</span>`).join('')}</div>` +
+      `<div class="modal-section"><h3>${D.timing}</h3><p>${escapeHtml(observationTimingText(sp))}</p></div>` +
       profileSectionHtml(sp) +
       `<div class="modal-section"><h3>${D.parkClue}${park ? ` · ${park.n}` : ''}</h3>` +
-      `<p>${monthsText(pair ? pair.mb : 0)} / ${D.source}: ${sourceText(pair)}</p></div>` +
+      `<p>${D.evidence}: ${pair ? pair.oc || 1 : 1} / ${D.source}: ${sourceText(pair)}</p></div>` +
     `</div>`;
   document.getElementById('species-modal').classList.remove('hidden');
   wireGalleryControls();
