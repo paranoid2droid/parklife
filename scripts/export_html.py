@@ -26,6 +26,20 @@ from parklife import db
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "export" / "index.html"
 
+# Best-effort Simplified Chinese -> Traditional Chinese fallback used only when
+# zh-Hant alias is missing. Keep this conservative and easy to extend.
+HANS_TO_HANT = str.maketrans({
+    "鸟": "鳥", "鱼": "魚", "龟": "龜", "龙": "龍", "虫": "蟲", "贝": "貝", "马": "馬",
+    "东": "東", "风": "風", "叶": "葉", "兰": "蘭", "莲": "蓮", "苹": "蘋", "黄": "黃",
+    "类": "類", "纲": "綱", "种": "種", "亚": "亞", "属": "屬", "变": "變", "体": "體",
+    "广": "廣", "台": "臺", "复": "複", "后": "後", "里": "裡", "万": "萬", "与": "與",
+    "云": "雲", "为": "為", "凤": "鳳", "药": "藥", "树": "樹", "荚": "莢", "苍": "蒼",
+})
+
+
+def hans_to_hant(text: str) -> str:
+    return (text or "").translate(HANS_TO_HANT)
+
 # User-facing observation groups. Detailed DB taxon_group values are preserved
 # in exported species rows as "tg" and shown in the modal.
 GROUP_ORDER = [
@@ -184,7 +198,7 @@ def collect_data() -> dict:
             "ja":   r["common_name_ja"] or "",
             "en":   r["common_name_en"] or "",
             "zh":   zh_hans.get(r["id"], ""),
-            "zhT":  zh_hant.get(r["id"], ""),
+            "zhT":  zh_hant.get(r["id"], "") or hans_to_hant(zh_hans.get(r["id"], "")),
             "sci":  r["scientific_name"] or "",
             "g":    group,
             "tg":   r["taxon_group"] or "",
