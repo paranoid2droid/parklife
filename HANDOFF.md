@@ -91,6 +91,10 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 
 ## Recent sessions
 
+### 2026-05-03 (Codex) — local session wrap-up
+- Prepared handoff for continuing from web: working tree was clean after push; latest deployed commit is `2cbe3be Complete iNat photo broad fallback`.
+- No known in-progress batch remains; the broad iNat photo fallback completed before this handoff. If continuing photo work later, start from the recorded 230 `<5 photos` iNat candidates / 552 visible no-gallery species rather than rerunning the whole sweep.
+
 ### 2026-05-03 (Codex) — broad iNat photo fallback
 - Added a broad fallback path to `scripts.collect_species_photos`: if research-grade/non-captive iNat photo results are below target, query cached broader iNat observation photos under `data/cache/inat_photos_broad/`.
 - Ran the fallback over 477 remaining `<5 photos` iNat candidates: 389 species gained photos, +1,054 `species_photo` rows, no new `HTTP 429`.
