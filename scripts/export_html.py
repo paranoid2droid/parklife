@@ -21,10 +21,18 @@ import json
 import textwrap
 from pathlib import Path
 
+from opencc import OpenCC
 from parklife import db
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "export" / "index.html"
+
+# Robust Simplified Chinese -> Traditional Chinese conversion for zhT fallback.
+_OPENCC_S2T = OpenCC("s2t")
+
+
+def hans_to_hant(text: str) -> str:
+    return _OPENCC_S2T.convert(text or "")
 
 # User-facing observation groups. Detailed DB taxon_group values are preserved
 # in exported species rows as "tg" and shown in the modal.
@@ -184,7 +192,7 @@ def collect_data() -> dict:
             "ja":   r["common_name_ja"] or "",
             "en":   r["common_name_en"] or "",
             "zh":   zh_hans.get(r["id"], ""),
-            "zhT":  zh_hant.get(r["id"], ""),
+            "zhT":  zh_hant.get(r["id"], "") or hans_to_hant(zh_hans.get(r["id"], "")),
             "sci":  r["scientific_name"] or "",
             "g":    group,
             "tg":   r["taxon_group"] or "",
