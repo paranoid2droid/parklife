@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
 API = "https://api.inaturalist.org/v1/observations"
 CACHE = ROOT / "data" / "cache" / "inat_photos"
+BROAD_CACHE = ROOT / "data" / "cache" / "inat_photos_broad"
 REQUEST_DELAY_SECONDS = 1.0
 
 PHOTO_SCHEMA = """
@@ -74,6 +75,37 @@ def fetch_photos(taxon_id: int, *, per_page: int = 40) -> tuple[dict | None, boo
     return data, True
 
 
+def fetch_broad_photos(taxon_id: int, *, per_page: int = 40) -> tuple[dict | None, bool]:
+    cp = BROAD_CACHE / f"{taxon_id}.json"
+    cp.parent.mkdir(parents=True, exist_ok=True)
+    if cp.exists():
+        try:
+            return json.loads(cp.read_text(encoding="utf-8")), False
+        except Exception:
+            pass
+    params = {
+        "taxon_id": taxon_id,
+        "photos": "true",
+        "per_page": per_page,
+        "order_by": "observed_on",
+        "order": "desc",
+        "locale": "ja",
+    }
+    r = requests.get(
+        API,
+        params=params,
+        headers={"User-Agent": UA, "Accept-Language": "ja"},
+        impersonate="chrome",
+        timeout=30,
+    )
+    if r.status_code != 200:
+        print(f"  taxon {taxon_id}: broad HTTP {r.status_code}", file=sys.stderr, flush=True)
+        return None, True
+    data = r.json()
+    cp.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+    return data, True
+
+
 def _photo_urls(photo: dict) -> tuple[str | None, str | None]:
     medium = photo.get("medium_url")
     square = photo.get("square_url")
@@ -83,8 +115,9 @@ def _photo_urls(photo: dict) -> tuple[str | None, str | None]:
     return medium or url, square or url
 
 
-def extract_photos(payload: dict, max_photos: int) -> list[dict]:
-    seen: set[str] = set()
+def extract_photos(payload: dict, max_photos: int, seen: set[str] | None = None) -> list[dict]:
+    if seen is None:
+        seen = set()
     out: list[dict] = []
     for obs in payload.get("results") or []:
         for photo in obs.get("photos") or []:
@@ -135,7 +168,15 @@ def main(limit: int | None = 500, max_photos: int = 5) -> int:
                 cache_hits += int(not did_fetch)
                 if did_fetch:
                     time.sleep(REQUEST_DELAY_SECONDS)
+                seen = {p["url"] for p in extract_photos(payload or {}, max_photos=10_000)}
                 photos = extract_photos(payload or {}, max_photos)
+                if len(photos) < max_photos:
+                    broad_payload, broad_did_fetch = fetch_broad_photos(r["inat_taxon_id"])
+                    fetched += int(broad_did_fetch)
+                    cache_hits += int(not broad_did_fetch)
+                    if broad_did_fetch:
+                        time.sleep(REQUEST_DELAY_SECONDS)
+                    photos.extend(extract_photos(broad_payload or {}, max_photos - len(photos), seen))
             except Exception as exc:
                 print(f"  [{i:>4}/{len(rows)}] {str(name)[:28]:<28} skipped: {exc}",
                       file=sys.stderr, flush=True)
