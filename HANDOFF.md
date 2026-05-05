@@ -38,9 +38,9 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top unless the user redirects.
 
-**Short-term practical queue (2026-05-03):**
+**Short-term practical queue (2026-05-05):**
 - Add another small `species_profile` batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`.
-- Good small polish: Traditional Chinese display fallback (Hans→Hant) to reduce Japanese fallback in zhT UI.
+- ✅ Traditional Chinese display fallback (Hans→Hant) shipped via PR #2 merge (OpenCC path + conservative no-OpenCC fallback in `scripts/export_html.py`).
 - Photo follow-up: 2026-05-03 retry after `HTTP 429` cooldown succeeded with no new 429s, then broad iNat fallback (`data/cache/inat_photos_broad/`) completed with no 429s. Remaining `<5 photos` iNat candidates: 230; visible species with no gallery rows: 552. These are likely genuinely sparse, non-iNat, or taxonomy-edge cases, so future work should inspect samples before another blind retry.
 - Bigger tasks to defer until fresh quota: expand park coverage; ingest いきものログ; parking-unknown audit.
 
@@ -90,6 +90,11 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 10. **Location-based park recommendation** — ✅ shipped 2026-05-03. Initial selected park now defaults to the park nearest Tokyo Station. In secure contexts, the page requests browser geolocation; if the user is in Japan and within 80km of a data-backed park, it recommends the nearest park instead. If location is unavailable, outside Japan, or too far from the dataset, the Tokyo-center default remains. Manual marker clicks are respected and not overwritten by a late geolocation callback.
 
 ## Recent sessions
+
+### 2026-05-05 (Codex) — PR #2 conflict assist + merge confirmation
+- Resolved PR #2 conflict block for `scripts/export_html.py` (kept OpenCC conversion with conservative fallback when `opencc` is unavailable).
+- Verified GitHub state after user merge confirmation: PR queue is clean (0 open), and `main` includes both zhT fallback commits (`4e2af26`, `e24f3de`).
+- Updated handoff queue: Traditional Chinese fallback item is now marked shipped; next practical item remains small `species_profile` expansion.
 
 ### 2026-05-03 (Codex) — local session wrap-up
 - Prepared handoff for continuing from web: working tree was clean after push; latest deployed commit is `2cbe3be Complete iNat photo broad fallback`.
