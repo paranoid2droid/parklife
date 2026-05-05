@@ -44,7 +44,6 @@ _HANS_TO_HANT_FALLBACK = str.maketrans({
 })
 
 
-
 def hans_to_hant(text: str) -> str:
     txt = text or ""
     if _OPENCC_S2T is not None:
