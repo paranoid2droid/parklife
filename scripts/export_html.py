@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import json
 import textwrap
+import importlib.util
 from pathlib import Path
 
 from parklife import db
@@ -26,9 +27,15 @@ from parklife import db
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "export" / "index.html"
 
-# Best-effort Simplified Chinese -> Traditional Chinese fallback used only when
-# zh-Hant alias is missing. Keep this conservative and easy to extend.
-HANS_TO_HANT = str.maketrans({
+# Robust Simplified Chinese -> Traditional Chinese conversion for zhT fallback.
+# If OpenCC is unavailable, use a conservative character-map fallback so exports
+# still run in constrained environments.
+_OPENCC_S2T = None
+if importlib.util.find_spec("opencc"):
+    from opencc import OpenCC
+    _OPENCC_S2T = OpenCC("s2t")
+
+_HANS_TO_HANT_FALLBACK = str.maketrans({
     "鸟": "鳥", "鱼": "魚", "龟": "龜", "龙": "龍", "虫": "蟲", "贝": "貝", "马": "馬",
     "东": "東", "风": "風", "叶": "葉", "兰": "蘭", "莲": "蓮", "苹": "蘋", "黄": "黃",
     "类": "類", "纲": "綱", "种": "種", "亚": "亞", "属": "屬", "变": "變", "体": "體",
@@ -37,8 +44,12 @@ HANS_TO_HANT = str.maketrans({
 })
 
 
+
 def hans_to_hant(text: str) -> str:
-    return (text or "").translate(HANS_TO_HANT)
+    txt = text or ""
+    if _OPENCC_S2T is not None:
+        return _OPENCC_S2T.convert(txt)
+    return txt.translate(_HANS_TO_HANT_FALLBACK)
 
 # User-facing observation groups. Detailed DB taxon_group values are preserved
 # in exported species rows as "tg" and shown in the modal.
