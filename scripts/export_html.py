@@ -345,6 +345,8 @@ main { display: flex; height: calc(100vh - 50px); }
 .card .lab { padding: 4px 6px; min-height: 54px; display: flex; flex-direction: column; gap: 2px; }
 .card .ja { font-weight: 500; color: #222; }
 .card .sci { color: #666; font-style: italic; font-size: 10px; word-break: break-all; }
+.name-fallback { color: #888; font-style: italic; border-bottom: 1px dotted #c0c0c0; cursor: help; }
+.name-fallback[data-fb="sci"] { font-style: italic; }
 .card .links { margin-top: auto; display: flex; justify-content: flex-end; gap: 4px; }
 .card .links a { color: #2a6b3b; border: 1px solid #c9d8cc; background: #fff;
                  border-radius: 3px; padding: 1px 4px; font-size: 10px;
@@ -815,9 +817,42 @@ const LANG_KEY = 'parklife.lang';
 let displayLang = localStorage.getItem(LANG_KEY) || 'ja';
 const LOCALE_FOR_LANG = { ja: 'ja', en: 'en', zh: 'zh-Hans', zhT: 'zh-Hant' };
 
-// Best-effort name in active language with fallback chain
+// Best-effort name in active language. For zh / zhT users, prefer English
+// over silently falling back to Japanese — see nameInfo() for the marker.
 function displayName(sp) {
-  return sp[displayLang] || sp.ja || sp.en || sp.sci || '?';
+  return nameInfo(sp).text;
+}
+// Returns { text, fallback } where fallback is null when the active-language
+// name was used, or one of 'en' | 'sci' | 'ja' when a fallback was substituted.
+// Renderers may show a visual marker when fallback !== null.
+const NO_ZH_NAME_LABEL = { zh: '暂无中文名', zhT: '暫無中文名' };
+function nameInfo(sp) {
+  const primary = sp[displayLang];
+  if (primary) return { text: primary, fallback: null };
+  // For zh / zhT: prefer en, then scientific, then ja as last resort.
+  if (displayLang === 'zh' || displayLang === 'zhT') {
+    if (sp.en)  return { text: sp.en,  fallback: 'en' };
+    if (sp.sci) return { text: sp.sci, fallback: 'sci' };
+    if (sp.ja)  return { text: sp.ja,  fallback: 'ja' };
+    return { text: '?', fallback: 'na' };
+  }
+  // ja / en: existing chain (ja → en → sci) but mark when not native.
+  if (displayLang === 'ja') {
+    if (sp.en)  return { text: sp.en,  fallback: 'en' };
+    if (sp.sci) return { text: sp.sci, fallback: 'sci' };
+  } else { // en
+    if (sp.ja)  return { text: sp.ja,  fallback: 'ja' };
+    if (sp.sci) return { text: sp.sci, fallback: 'sci' };
+  }
+  return { text: '?', fallback: 'na' };
+}
+function displayNameHtml(sp) {
+  const info = nameInfo(sp);
+  if (!info.fallback) return escapeHtml(info.text);
+  const tip = (displayLang === 'zh' || displayLang === 'zhT')
+    ? NO_ZH_NAME_LABEL[displayLang]
+    : `no ${displayLang} name`;
+  return `<span class="name-fallback" title="${escapeHtml(tip)}" data-fb="${info.fallback}">${escapeHtml(info.text)}</span>`;
 }
 function groupLabel(g) {
   return (OBS_GROUP_LABEL[displayLang] || OBS_GROUP_LABEL.ja)[g] || g;
@@ -1089,8 +1124,8 @@ function preloadLargePhoto(url) {
 function speciesCardHtml(sp, pair) {
   const photo = sp.p ? `style="background-image:url('${sp.p}')"` : '';
   const cls = sp.p ? 'card' : 'card no-photo';
-  const name = displayName(sp);
-  const sci = sp.sci ? `<div class="sci">${sp.sci}</div>` : '';
+  const name = displayNameHtml(sp);
+  const sci = sp.sci ? `<div class="sci">${escapeHtml(sp.sci)}</div>` : '';
   const inspect = detailLabels().inspect;
   const wiki = `<a href="${wikiSearchUrl(sp)}" target="_blank" rel="noopener" title="Wikipedia">Wiki</a>`;
   const inat = sp.tid ? `<a href="${inatTaxonUrl(sp)}" target="_blank" rel="noopener" title="iNaturalist">iNat</a>` : '';
@@ -1112,9 +1147,9 @@ function openSpeciesModal(si) {
   currentModal = { si, photoIdx: 0, photos };
   const hasGallery = photos.length > 1;
   const photoEl = photos.length
-    ? `<img id="modal-photo" class="modal-photo" src="${photos[0]}" alt="${displayName(sp)}" />`
+    ? `<img id="modal-photo" class="modal-photo" src="${photos[0]}" alt="${escapeHtml(displayName(sp))}" />`
     : `<div id="modal-photo" class="modal-photo no-photo"></div>`;
-  const sci = sp.sci ? `<div class="modal-sci">${sp.sci}</div>` : '';
+  const sci = sp.sci ? `<div class="modal-sci">${escapeHtml(sp.sci)}</div>` : '';
   const facts = [
     `${D.taxonomy}: ${detailGroupLabel(sp)}`,
     `${D.evidence}: ${pair ? pair.oc || 1 : 1}`,
@@ -1130,7 +1165,7 @@ function openSpeciesModal(si) {
       `<div id="photo-count" class="photo-count${hasGallery ? '' : ' hidden'}">1 / ${photos.length}</div>` +
     `</div>` +
     `<div class="modal-body">` +
-      `<h2 class="modal-title" id="modal-title">${displayName(sp)}</h2>${sci}` +
+      `<h2 class="modal-title" id="modal-title">${displayNameHtml(sp)}</h2>${sci}` +
       `<div class="difficulty">${D.difficulty}: ${difficultyHtml(sp, pair)}</div>` +
       `<div class="modal-facts">${facts.map(f => `<span>${f}</span>`).join('')}</div>` +
       `<div class="modal-section"><h3>${D.timing}</h3><p>${escapeHtml(observationTimingText(sp))}</p></div>` +
