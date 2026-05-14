@@ -38,15 +38,16 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick from the top unless the user redirects.
 
-1. **Chinese name coverage gap** *(NEW 2026-05-14, highest priority)* — In 简体/繁體 UI, many species still fall back to Japanese or English because no zh alias exists.
-   - **Audit**: count visible species whose displayed name is not in the requested language. Current pre-task baseline: zh-Hans aliases 4,591/7,137 species, zh-Hant aliases 260/7,137 (OpenCC Hans→Hant display fallback shipped via PR #2, but raw zh-Hant source coverage is still thin).
-   - **Backfill candidates** (cheapest → hardest):
-     - Re-run `scripts/wikidata_zh.py` with broader SPARQL (`wdt:P1843` zh vernacular + `rdfs:label@zh`/`@zh-hans`/`@zh-hant`, not only `wdt:P225`).
-     - Targeted zh.wikipedia taxobox harvest by direct title search on scientific name and ja common name. (Prior 2026-05-01 ja/en interlanguage pass only hit ~2%.)
-     - 中国生物物种名录 (sp2000.org.cn) — authoritative for CN flora/fauna; check for bulk download or API.
-     - GBIF vernacularName language=`zho`/`zh`/`cmn` re-confirm pass.
-   - **Display rule** when no zh alias exists: do not silently fall back to Japanese. Show English with a visual marker (e.g. trailing `*` or muted color + tooltip "暂无中文名"). Keep ja as last resort only when English is also missing.
-   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans` / `zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe generic-name false matches).
+1. **Chinese name coverage gap** *(2026-05-14, partial ship — follow-up open)*
+   - ✅ Display rule fixed (`15cbd4c`): `displayNameHtml()` in `scripts/export_html.py` now prefers English (with dotted-underline marker + "暂无中文名" tooltip) for zh/zhT users, falling back to scientific then Japanese only as last resort. Same marker is used for ja/en users when their native name is missing.
+   - ✅ Broader Wikidata SPARQL (`909bf31`): `scripts/wikidata_zh_broad.py` adds `wdt:P1843` (taxon common name) and `skos:altLabel@zh*` on top of `rdfs:label`, cached under `data/cache/wikidata_zh_broad/`. Full run: 117/2480 binomials matched (4.7%), +74 zh-Hans / +3 zh-Hant.
+   - ✅ zh.wikipedia direct-title pass (`909bf31`): `scripts/wikipedia_zh_direct.py` resolves scientific/ja-name titles on zh.wiki via redirects, accepting ≥2 Han chars in the resolved title. Added +10 zh-Hans.
+   - **Post-task coverage** (visible species): zh-Hans 4,591→4,690; zh-Hant 260→263; any zh 4,619→4,720 (+101). 2,425 still lack zh source → 422 show English, 1,969 show scientific, 34 still fall back to Japanese.
+   - **Follow-up still open**:
+     - **sp2000.org.cn (中国生物物种名录)** harvest — authoritative for CN flora/fauna. No documented public API; investigate Catalogue of China download or DwC-A export. Highest expected yield for native species.
+     - GBIF `vernacularName language=zho/zh/cmn` re-confirmation pass against the 2,425 still-missing set.
+     - Manual curation for the 49 species in `species_profile` and other high-frequency missing names.
+   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe generic-name false matches).
 
 2. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
 
@@ -64,6 +65,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 7. **Photo gap sample inspection** *(follow-up to shipped photo carousel)* — 230 iNat candidates still <5 photos; 552 visible species have no gallery rows. Before another blind retry, inspect samples to see whether they are genuinely sparse, non-iNat, or taxonomy-edge cases. Local DB: 32,402 `species_photo` rows, 6,369 species with ≥5.
 
 ## Recent sessions
+
+### 2026-05-14 (Claude) — Chinese name coverage pass
+- Fixed display fallback in `scripts/export_html.py`: zh/zhT users now see English (with `.name-fallback` dotted-underline + "暂无中文名" tooltip) instead of silently falling back to Japanese. Modal/card/alt sites now go through `displayNameHtml()` / `escapeHtml()`. Commit `15cbd4c`.
+- Added `scripts/wikidata_zh_broad.py` (P1843 + altLabel SPARQL) and `scripts/wikipedia_zh_direct.py` (zh.wiki redirect resolution). Combined gain: +87 new aliases inserted; visible zh coverage 4,619 → 4,720. Commit `909bf31`.
+- TODO #1 marked partial; follow-up subtasks queued (sp2000 harvest, GBIF zh re-confirm, manual curation).
 
 ### 2026-05-05 (Codex) — PR #2 conflict assist + merge confirmation
 - Resolved PR #2 conflict block for `scripts/export_html.py` (kept OpenCC conversion with conservative fallback when `opencc` is unavailable).
