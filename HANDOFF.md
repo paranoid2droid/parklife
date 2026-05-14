@@ -36,70 +36,32 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 ## Next up
 
-Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top unless the user redirects.
+Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick from the top unless the user redirects.
 
-**Short-term practical queue (2026-05-14):**
-- **(NEW 2026-05-14) Improve Chinese name coverage** — when browsing in 简体/繁體, many species still fall back to Japanese or English. Find authoritative Chinese names and display them; only when none exist, use a marked fallback (e.g. English with an explicit visual hint). See TODO #11 below for details.
-- Add another small `species_profile` batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`.
-- ✅ Traditional Chinese display fallback (Hans→Hant) shipped via PR #2 merge (OpenCC path + conservative no-OpenCC fallback in `scripts/export_html.py`).
-- Photo follow-up: 2026-05-03 retry after `HTTP 429` cooldown succeeded with no new 429s, then broad iNat fallback (`data/cache/inat_photos_broad/`) completed with no 429s. Remaining `<5 photos` iNat candidates: 230; visible species with no gallery rows: 552. These are likely genuinely sparse, non-iNat, or taxonomy-edge cases, so future work should inspect samples before another blind retry.
-- Bigger tasks to defer until fresh quota: expand park coverage; ingest いきものログ; parking-unknown audit.
+1. **Chinese name coverage gap** *(NEW 2026-05-14, highest priority)* — In 简体/繁體 UI, many species still fall back to Japanese or English because no zh alias exists.
+   - **Audit**: count visible species whose displayed name is not in the requested language. Current pre-task baseline: zh-Hans aliases 4,591/7,137 species, zh-Hant aliases 260/7,137 (OpenCC Hans→Hant display fallback shipped via PR #2, but raw zh-Hant source coverage is still thin).
+   - **Backfill candidates** (cheapest → hardest):
+     - Re-run `scripts/wikidata_zh.py` with broader SPARQL (`wdt:P1843` zh vernacular + `rdfs:label@zh`/`@zh-hans`/`@zh-hant`, not only `wdt:P225`).
+     - Targeted zh.wikipedia taxobox harvest by direct title search on scientific name and ja common name. (Prior 2026-05-01 ja/en interlanguage pass only hit ~2%.)
+     - 中国生物物种名录 (sp2000.org.cn) — authoritative for CN flora/fauna; check for bulk download or API.
+     - GBIF vernacularName language=`zho`/`zh`/`cmn` re-confirm pass.
+   - **Display rule** when no zh alias exists: do not silently fall back to Japanese. Show English with a visual marker (e.g. trailing `*` or muted color + tooltip "暂无中文名"). Keep ja as last resort only when English is also missing.
+   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans` / `zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe generic-name false matches).
 
-1. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
+2. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
 
-2. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
+3. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
 
-3. **Demo: multi-language toggle** — ✅ shipped 2026-05-01 in `d1d4ac0`. UI order: 日本語 / English / 简体中文 / 繁體中文. Language persists via `localStorage('parklife.lang')`; names/search/sort/group labels/parking labels localize in `scripts/export_html.py`.
+4. **いきものログ ingest (env.go.jp)** — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience. (eBird + GBIF already shipped; FishBase/MushroomObserver/Pl@ntNet evaluated and skipped.)
 
-   **Future task: language coverage/quality polish**:
-   - Current DB coverage: `common_name_ja` 5,084/7,137 species; `common_name_en` 3,431/7,137; zh-Hans aliases cover 4,591 species; zh-Hant aliases cover 260 species.
-   - Current demo export coverage after Japanese-name backfill: Japanese missing+English fallback 696/7,044 visible species (down from 1,797); English 3,414/7,044; 简体 4,534/7,044; 繁體 258/7,044.
-   - `scripts/wikidata_zh.py` exists and has already run once (Wikidata SPARQL via `wdt:P225`); remaining gap is mostly Traditional Chinese coverage/label quality, not UI plumbing.
-   - `scripts/backfill_ja_from_inat_cache.py` and `scripts/wikidata_ja.py` exist for Japanese-name repair. Avoid English Wikipedia-title backfill: tested briefly and it caused unsafe generic-name matches.
-   - Recommended next step when revisiting language: add OpenCC-style Hans→Hant fallback for display/export so Traditional UI does not fall back to Japanese for most species. Optional second pass: targeted zh.wikipedia taxobox harvest for missing/high-traffic species.
-   - Keep raw aliases first-class; do not overwrite Japanese names.
+5. **Better species frequency metric for sort** *(follow-up to shipped checkbox+sort UI)* — current sort uses `sp.n` = global park count, which lets 関東-wide commons dominate locally-clustered species. Two improvements queued:
+   - Surface **per-park observation count** to export (add `park_species.obs_count` or aggregate from `observation`) — most accurate.
+   - Until that exists, constrain the `sp.n` fallback to **geographically nearby parks** (e.g. 30 km radius or same prefecture).
+   - Name-sort should use the active UI language's name field, not always Japanese.
 
-4. **External occurrence-data enrichment** (Gap #10 in SUMMARY.md), priority order:
-   - **eBird** ✅ shipped 2026-05-02. Added `scripts/ebird.py`; run with `EBIRD_API_KEY=<token> .venv/bin/python -m scripts.ebird`. Uses recent nearby observations (`data/obs/geo/recent`) with 2km radius / 30-day lookback, caches under `data/cache/ebird/`, inserts `location_hint='eBird'`. Full run: 209 parks, 208 network calls + 1 cache hit, 0 errors, 4,884 eBird observations; bird species count now 380.
-   - **GBIF** ✅ both passes shipped: occurrence (2026-04-30, 45k obs, +4k species) and vernacular (2026-05-01, +3431 en / +170 zh aliases). Chinese coverage is thin in GBIF — TODO #3 will need Wikipedia zh interlanguage links to densify.
-   - **いきものログ** (env.go.jp) — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience.
-   - Skipped (evaluated): FishBase, MushroomObserver, Pl@ntNet.
+6. **Continue species_profile curation** — add another small batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`. Workflow: edit `PROFILES_JA` + `PROFILES_EN_ZH`, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`. Current seed: 49 profiles × 4 langs.
 
-5. **Demo: data-source filter** — ✅ shipped 2026-05-02. Top-bar selector ("全て / 公園公式 / iNaturalist / GBIF / eBird") filters map and selected-park species list by per-pair source codes exported from `observation.location_hint` / `source.url`. Current pair counts in demo export: official 2,041; iNat 27,022; GBIF 45,055; eBird 4,884.
-
-6. **Demo: checkbox-filtered species list + sort controls** — ✅ shipped 2026-04-30. Sort options: 出現公園数 / 名称（日本語）/ 学名. Group checkboxes + sort persisted via localStorage (`parklife.hiddenGroups`, `parklife.speciesSort`).
-
-   **Follow-up** (decided 2026-04-30, not yet done): better frequency metric. Currently sort uses `sp.n` = global count of parks containing the species. Two improvements queued:
-   - Acquire **per-park observation count** (would require adding a `park_species.obs_count` column or surfacing existing `observation` counts to the export) — most accurate.
-   - Until that exists, **constrain the `sp.n` fallback to geographically nearby parks** so a 関東-wide common species doesn't dominate over a locally-clustered one. Define "nearby" via lat/lon radius (e.g. 30 km) or by prefecture.
-   - When multilingual support (TODO #3) lands, name sort should switch to the active UI language's name field, not always Japanese.
-
-7. **Species observation-guide profiles** — MVP shipped 2026-05-02 in `scripts/export_html.py`: photo hover/tap shows a 🔍 button; clicking opens a modal with enlarged photo, difficulty score, season/source clues, and group-based finding tips in all UI languages.
-
-   **Follow-up**:
-   - ✅ First `species_profile` data layer shipped 2026-05-02: schema in `parklife/db.py`, seed script `scripts.seed_species_profiles`, export field `sp.pr`, and modal profile rendering. Current seed has 49 curated profiles in ja/en/zh/zhT and structured `source_urls`. Continue by adding more entries to `PROFILES_JA` + `PROFILES_EN_ZH`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`.
-   - ✅ Source names shipped 2026-05-02: modal now shows 公園公式 / iNaturalist / GBIF / eBird from per-pair observation provenance.
-   - ✅ Difficulty now uses per-park `observation_count`, source diversity, official/eBird/iNat/GBIF provenance, selected month match, global park count, and taxon-group heuristics. Exported `DATA.pairs` shape is now `[parkIdx, speciesIdx, monthsBitmap, sourceCount, sourceCodes, observationCount]`.
-   - ✅ Multi-photo modal carousel shipped 2026-05-02: added `species_photo` table, `scripts.collect_species_photos`, exported `sp.imgs`, and modal left/right buttons + keyboard arrows + touch swipe. Long sweep `collect_species_photos 0 5` completed 2026-05-03: tried 5,398 species, 4,997 had photos, inserted 24,234 new photo rows. Same-day cooldown retry tried the remaining 610 candidates with no new 429s, fetched 152, and inserted 702 more rows. Broad iNat fallback then tried 477 `<5 photos` candidates, added relaxed observation-photo lookups under `data/cache/inat_photos_broad/`, found extra photos for 389 species, and inserted 1,054 more rows with no 429s. Local DB now has 32,402 photo rows, 6,593 species with gallery rows, 6,369 species with 5+ gallery photos, and 230 iNat candidates still below 5 photos.
-   - ✅ Modal timing wording fixed 2026-05-03: the modal no longer presents source/record upload months as true biological season. It now shows a natural-history "observation timing" hint, with species-level overrides for common resident birds and group-level fallbacks for others. Park clues show record count/source only.
-   - Browser automation was unavailable locally (`playwright` not installed); only JS syntax/static structure were checked before deploy.
-
-8. **Mobile demo UX** — ✅ shipped 2026-05-02. On small screens, tapping a map marker now switches directly to the species/detail list; the park header includes a localized `地図 / Map / 地图 / 地圖` button to return to the default split map+detail view. The old bottom-right split/map/list floating toggle and pure-map mode were removed as redundant.
-
-9. **Species category selection UX** — ✅ shipped 2026-05-02. The selected-park species panel now defaults to no category selected using `localStorage('parklife.selectedGroups.v2')`; users choose categories before species cards render. One selected category opens directly; multiple selected categories default collapsed with manual expand. Added localized quick actions: 全選択/全解除, Select all/none, 全选/全不选, 全選/全不選.
-
-10. **Location-based park recommendation** — ✅ shipped 2026-05-03. Initial selected park now defaults to the park nearest Tokyo Station. In secure contexts, the page requests browser geolocation; if the user is in Japan and within 80km of a data-backed park, it recommends the nearest park instead. If location is unavailable, outside Japan, or too far from the dataset, the Tokyo-center default remains. Manual marker clicks are respected and not overwritten by a late geolocation callback.
-
-11. **Chinese name coverage gap (2026-05-14)** — When the UI language is 简体中文 or 繁體中文, many species still display Japanese or English because no zh alias exists. Fix in this order:
-    - **Audit current gap**: count visible species per UI language whose displayed name is *not* in that language (i.e. zh requested but ja/en fallback used). Export should expose enough info to compute this without re-querying the DB.
-    - **Backfill candidates** (cheapest to most expensive):
-      - Re-run `scripts/wikidata_zh.py` with broader SPARQL (try `wdt:P1843` zh vernacular + `rdfs:label@zh`/`@zh-hans`/`@zh-hant`, not only `wdt:P225`).
-      - Targeted zh.wikipedia taxobox harvest for species with a zh interlanguage link (the 2026-05-01 Claude pass only hit ~2% via ja/en interlanguage; try direct title search on scientific name and ja common name).
-      - 中国生物物种名录 (sp2000.org.cn) — authoritative for CN flora/fauna; check for bulk download or API.
-      - GBIF vernacularName language=`zho`/`zh`/`cmn` (already partly done, re-confirm).
-    - **Display rule** when no zh alias exists: do *not* silently fall back to Japanese (current behavior is misleading for zh users). Instead show the English name with a visual marker (e.g. trailing `*` or muted color + tooltip "暂无中文名"). Keep ja as a last resort only when English is also missing.
-    - **Hans↔Hant**: existing OpenCC fallback (PR #2) covers display-side conversion; this task is about acquiring *source* zh names, not about script conversion.
-    - Keep aliases first-class in `species_alias` (lang=`zh-Hans` / `zh-Hant`); do not overwrite Japanese names.
+7. **Photo gap sample inspection** *(follow-up to shipped photo carousel)* — 230 iNat candidates still <5 photos; 552 visible species have no gallery rows. Before another blind retry, inspect samples to see whether they are genuinely sparse, non-iNat, or taxonomy-edge cases. Local DB: 32,402 `species_photo` rows, 6,369 species with ≥5.
 
 ## Recent sessions
 
