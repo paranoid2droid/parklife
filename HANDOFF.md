@@ -38,7 +38,8 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top unless the user redirects.
 
-**Short-term practical queue (2026-05-05):**
+**Short-term practical queue (2026-05-14):**
+- **(NEW 2026-05-14) Improve Chinese name coverage** — when browsing in 简体/繁體, many species still fall back to Japanese or English. Find authoritative Chinese names and display them; only when none exist, use a marked fallback (e.g. English with an explicit visual hint). See TODO #11 below for details.
 - Add another small `species_profile` batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`.
 - ✅ Traditional Chinese display fallback (Hans→Hant) shipped via PR #2 merge (OpenCC path + conservative no-OpenCC fallback in `scripts/export_html.py`).
 - Photo follow-up: 2026-05-03 retry after `HTTP 429` cooldown succeeded with no new 429s, then broad iNat fallback (`data/cache/inat_photos_broad/`) completed with no 429s. Remaining `<5 photos` iNat candidates: 230; visible species with no gallery rows: 552. These are likely genuinely sparse, non-iNat, or taxonomy-edge cases, so future work should inspect samples before another blind retry.
@@ -88,6 +89,17 @@ Mirror of the user's prioritized TODOs (recorded 2026-04-30). Pick from the top 
 9. **Species category selection UX** — ✅ shipped 2026-05-02. The selected-park species panel now defaults to no category selected using `localStorage('parklife.selectedGroups.v2')`; users choose categories before species cards render. One selected category opens directly; multiple selected categories default collapsed with manual expand. Added localized quick actions: 全選択/全解除, Select all/none, 全选/全不选, 全選/全不選.
 
 10. **Location-based park recommendation** — ✅ shipped 2026-05-03. Initial selected park now defaults to the park nearest Tokyo Station. In secure contexts, the page requests browser geolocation; if the user is in Japan and within 80km of a data-backed park, it recommends the nearest park instead. If location is unavailable, outside Japan, or too far from the dataset, the Tokyo-center default remains. Manual marker clicks are respected and not overwritten by a late geolocation callback.
+
+11. **Chinese name coverage gap (2026-05-14)** — When the UI language is 简体中文 or 繁體中文, many species still display Japanese or English because no zh alias exists. Fix in this order:
+    - **Audit current gap**: count visible species per UI language whose displayed name is *not* in that language (i.e. zh requested but ja/en fallback used). Export should expose enough info to compute this without re-querying the DB.
+    - **Backfill candidates** (cheapest to most expensive):
+      - Re-run `scripts/wikidata_zh.py` with broader SPARQL (try `wdt:P1843` zh vernacular + `rdfs:label@zh`/`@zh-hans`/`@zh-hant`, not only `wdt:P225`).
+      - Targeted zh.wikipedia taxobox harvest for species with a zh interlanguage link (the 2026-05-01 Claude pass only hit ~2% via ja/en interlanguage; try direct title search on scientific name and ja common name).
+      - 中国生物物种名录 (sp2000.org.cn) — authoritative for CN flora/fauna; check for bulk download or API.
+      - GBIF vernacularName language=`zho`/`zh`/`cmn` (already partly done, re-confirm).
+    - **Display rule** when no zh alias exists: do *not* silently fall back to Japanese (current behavior is misleading for zh users). Instead show the English name with a visual marker (e.g. trailing `*` or muted color + tooltip "暂无中文名"). Keep ja as a last resort only when English is also missing.
+    - **Hans↔Hant**: existing OpenCC fallback (PR #2) covers display-side conversion; this task is about acquiring *source* zh names, not about script conversion.
+    - Keep aliases first-class in `species_alias` (lang=`zh-Hans` / `zh-Hant`); do not overwrite Japanese names.
 
 ## Recent sessions
 
