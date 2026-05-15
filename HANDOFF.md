@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, **7,145 species, 99k observations**. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, expanded bird/insect profile batches, and broad iNat photo fallback. Current committed demo export has 7,052 visible species; 6,521 have at least one primary image; local DB now has 32,402 `species_photo` rows, 6,593 species with gallery rows, and 6,369 species with 5+ gallery photos; 49 visible species have curated profiles in ja/en/zh/zhT with source URLs. Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
+Project is in maintenance + enrichment mode. Core pipeline shipped: **482 parks, 9,915 species, 191k observations** (after the 2026-05-15/16 P13 expansion). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, expanded bird/insect profile batches, and broad iNat photo fallback. Current committed demo export has 7,052 visible species; 6,521 have at least one primary image; local DB now has 32,402 `species_photo` rows, 6,593 species with gallery rows, and 6,369 species with 5+ gallery photos; 49 visible species have curated profiles in ja/en/zh/zhT with source URLs. Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
 
 ## In progress
 
@@ -51,7 +51,14 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
      - Consider iNaturalist `?locale=zh-CN` taxon names for high-traffic taxa not in CoL China.
    - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe).
 
-2. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
+2. **Expand park coverage beyond 都立/県立** *(2026-05-15/16, shipped — see follow-up)*
+   - ✅ First wave shipped (`e1f93b2`): `scripts/p13_seed.py` ingests 国土数値情報 P13-11 (都市公園, 2011 snapshot) for the 4 prefectures. Filters: park type ∈ {総合/広域/特殊/都市林/都市緑地} ∩ area ≥ 5 ha, dedup vs existing within 500 m. **+273 parks (209→482)**. Output: `data/seeds/<pref>-p13.json` (curated seeds left untouched). Raw zips cached under `data/raw/p13/` (gitignored).
+   - ✅ Enrichment ran against all 482 parks: iNat +21,792 obs, GBIF +66,406, eBird +4,042 (total +92,242). New 2,770 species got zh names backfilled via re-running sp2000 (+1,103), wikidata_zh (+891), wikidata_zh_broad (+23), wikipedia_zh_direct (+10).
+   - **Follow-up**:
+     - **P13 is 2011 snapshot** — newer parks (e.g. 2020s urban-rewilding 自然観察園 spinoffs) are missed. When a 2024+ refresh ships, re-run `scripts/p13_seed.py` (idempotent on slug hash).
+     - Consider relaxing filters: 街区/近隣公園 ≥ 5 ha exist and were filtered out; 自然観察園 inside larger parks remain invisible.
+     - Beyond P13: 国営公園 (managed by 環境省 system, ~17 nationwide), 区立 nature observation gardens, 都市林 < 5 ha that are genuinely forested — would need manual curation or OSM `leisure=park`/`landuse=forest` cross-reference.
+     - Many new P13 parks have no `official_url` — for these, only iNat/GBIF/eBird observations exist (no narrative scrape).
 
 3. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
 
@@ -67,6 +74,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 7. **Photo gap sample inspection** *(follow-up to shipped photo carousel)* — 230 iNat candidates still <5 photos; 552 visible species have no gallery rows. Before another blind retry, inspect samples to see whether they are genuinely sparse, non-iNat, or taxonomy-edge cases. Local DB: 32,402 `species_photo` rows, 6,369 species with ≥5.
 
 ## Recent sessions
+
+### 2026-05-15/16 (Claude) — TODO #2 P13 expansion shipped
+- Added `scripts/p13_seed.py`: downloads 国土数値情報 P13 GML zips for 4 prefectures, filters to biodiv park types ≥ 5 ha, dedupes by 500 m radius vs existing parks, writes `data/seeds/<pref>-p13.json`. +273 parks (209 → 482). Cache: `data/raw/p13/`.
+- Ran full geographic enrichment: iNat +21,792, GBIF +66,406, eBird +4,042 obs (using the EBIRD_API_KEY the user provided in-session). Re-ran zh backfill pipeline on the new 2,770 species: +2,027 zh-Hans + +65 zh-Hant aliases total.
+- DB now 482 parks / 9,915 species / 191k observations / 131k park_species pairs. Commit `e1f93b2`.
 
 ### 2026-05-15 (Claude) — Chinese name coverage follow-up
 - Cleaned 48 pinyin "zh" aliases (e.g. "Bai Guo" / "Felis catus") via `scripts/cleanup_zh_aliases.py`; re-processed GBIF cache to recover 6 Han-only names previously masked by `pick_best`.
