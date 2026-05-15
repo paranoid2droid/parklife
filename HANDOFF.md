@@ -38,16 +38,18 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: 209 parks, *
 
 Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick from the top unless the user redirects.
 
-1. **Chinese name coverage gap** *(2026-05-14, partial ship — follow-up open)*
-   - ✅ Display rule fixed (`15cbd4c`): `displayNameHtml()` in `scripts/export_html.py` now prefers English (with dotted-underline marker + "暂无中文名" tooltip) for zh/zhT users, falling back to scientific then Japanese only as last resort. Same marker is used for ja/en users when their native name is missing.
-   - ✅ Broader Wikidata SPARQL (`909bf31`): `scripts/wikidata_zh_broad.py` adds `wdt:P1843` (taxon common name) and `skos:altLabel@zh*` on top of `rdfs:label`, cached under `data/cache/wikidata_zh_broad/`. Full run: 117/2480 binomials matched (4.7%), +74 zh-Hans / +3 zh-Hant.
-   - ✅ zh.wikipedia direct-title pass (`909bf31`): `scripts/wikipedia_zh_direct.py` resolves scientific/ja-name titles on zh.wiki via redirects, accepting ≥2 Han chars in the resolved title. Added +10 zh-Hans.
-   - **Post-task coverage** (visible species): zh-Hans 4,591→4,690; zh-Hant 260→263; any zh 4,619→4,720 (+101). 2,425 still lack zh source → 422 show English, 1,969 show scientific, 34 still fall back to Japanese.
-   - **Follow-up still open**:
-     - **sp2000.org.cn (中国生物物种名录)** harvest — authoritative for CN flora/fauna. No documented public API; investigate Catalogue of China download or DwC-A export. Highest expected yield for native species.
-     - GBIF `vernacularName language=zho/zh/cmn` re-confirmation pass against the 2,425 still-missing set.
-     - Manual curation for the 49 species in `species_profile` and other high-frequency missing names.
-   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe generic-name false matches).
+1. **Chinese name coverage gap** *(2026-05-14/15, mostly shipped)*
+   - ✅ Display rule fixed (`15cbd4c`): `displayNameHtml()` in `scripts/export_html.py` prefers English (with dotted-underline marker + "暂无中文名" tooltip) for zh/zhT users; ja last resort.
+   - ✅ Broader Wikidata SPARQL (`909bf31`): `scripts/wikidata_zh_broad.py` (+74 zh-Hans, +3 zh-Hant). Cache: `data/cache/wikidata_zh_broad/`.
+   - ✅ zh.wikipedia direct-title (`909bf31`): `scripts/wikipedia_zh_direct.py` (+10 zh-Hans). Cache: `data/cache/wikipedia_zh_direct/`.
+   - ✅ Pinyin cleanup (`f3078aa`): `scripts/cleanup_zh_aliases.py` removed 48 polluted pinyin aliases (e.g. "Bai Guo") and re-picked Han-only names from GBIF cache (+6).
+   - ✅ CoL China DwC-A import (`f3078aa`): `scripts/sp2000_import.py` reads 288k taxa from `data/raw/sp2000/taxon.txt` (chinacol2023, 13MB zip from gbifchina.org.cn — gitignored). Matches by exact `scientificName` then binomial prefix. **+231 zh-Hans**, biggest single source. To re-download: `curl -sL --max-time 120 -A "parklife-bot/0.1" -o data/raw/sp2000/chinacol2023.zip "https://www.gbifchina.org.cn/archive.do?r=chinacol2023&v=1.1" && cd data/raw/sp2000 && unzip -o chinacol2023.zip`.
+   - **Final coverage** (visible species): zh-Hans 4,591→4,918; any zh 4,619→4,948 (**+329, 64.6%→69.3%**). 2,197 still lack zh: most show English (or scientific) with the marker — only ~30 hit the ja last-resort.
+   - **Remaining follow-up** (lower priority):
+     - Targeted manual curation for high-frequency species still missing zh (run `query top --group X` and seed `species_profile` zh fields or `species_alias` directly).
+     - Try newer sp2000 release if/when published (current is `chinacol2023`).
+     - Consider iNaturalist `?locale=zh-CN` taxon names for high-traffic taxa not in CoL China.
+   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe).
 
 2. **Expand park coverage beyond 都立/県立** — current 209 misses 国営/区立/市立/自然観察園. Discuss difficulties before scraping. Sources: 国土数値情報, Wikipedia 都県別公園一覧, OSM `leisure=park`.
 
@@ -65,6 +67,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 7. **Photo gap sample inspection** *(follow-up to shipped photo carousel)* — 230 iNat candidates still <5 photos; 552 visible species have no gallery rows. Before another blind retry, inspect samples to see whether they are genuinely sparse, non-iNat, or taxonomy-edge cases. Local DB: 32,402 `species_photo` rows, 6,369 species with ≥5.
 
 ## Recent sessions
+
+### 2026-05-15 (Claude) — Chinese name coverage follow-up
+- Cleaned 48 pinyin "zh" aliases (e.g. "Bai Guo" / "Felis catus") via `scripts/cleanup_zh_aliases.py`; re-processed GBIF cache to recover 6 Han-only names previously masked by `pick_best`.
+- Imported Catalogue of Life China 2023 DwC-A (288k taxa) via `scripts/sp2000_import.py`: +231 zh-Hans aliases by exact / binomial-prefix match. Raw archive lives under `data/raw/sp2000/` (gitignored).
+- Final visible zh coverage 4,720 → 4,948 (+228 net of cleanup); any-zh 64.6% → 69.3%. Commit `f3078aa`.
 
 ### 2026-05-14 (Claude) — Chinese name coverage pass
 - Fixed display fallback in `scripts/export_html.py`: zh/zhT users now see English (with `.name-fallback` dotted-underline + "暂无中文名" tooltip) instead of silently falling back to Japanese. Modal/card/alt sites now go through `displayNameHtml()` / `escapeHtml()`. Commit `15cbd4c`.
