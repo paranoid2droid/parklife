@@ -1,0 +1,526 @@
+{
+  "prefecture": "chiba",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1ac39e82ad",
+      "name_ja": "千葉県立富津公園",
+      "municipality": "富津市",
+      "operator": "千葉県",
+      "lat": 35.313259,
+      "lon": 139.802288,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 97.3
+    },
+    {
+      "slug": "p13-3bafe3dcc3",
+      "name_ja": "千葉県立北総花の丘公園",
+      "municipality": "印西市",
+      "operator": "千葉県",
+      "lat": 35.792325,
+      "lon": 140.122678,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.1
+    },
+    {
+      "slug": "p13-f2c563ebbb",
+      "name_ja": "千葉県立長生の森公園",
+      "municipality": "茂原市",
+      "operator": "千葉県",
+      "lat": 35.454631,
+      "lon": 140.267326,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-f15e4f92fb",
+      "name_ja": "花島公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.682705,
+      "lon": 140.098078,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-cd95db5434",
+      "name_ja": "あすみが丘第８緑地",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.518533,
+      "lon": 140.257572,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-3226134bea",
+      "name_ja": "あすみが丘水辺の郷公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.514055,
+      "lon": 140.271298,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-712e152292",
+      "name_ja": "大百池公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.55595,
+      "lon": 140.15952,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-cb850bb556",
+      "name_ja": "大野台東緑地",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.50804,
+      "lon": 140.242242,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-ad923093c1",
+      "name_ja": "昭和の森",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.518092,
+      "lon": 140.279564,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 92.5
+    },
+    {
+      "slug": "p13-e98f6ca16c",
+      "name_ja": "泉自然公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.579444,
+      "lon": 140.226059,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 42.5
+    },
+    {
+      "slug": "p13-6d23255b3d",
+      "name_ja": "加曽利貝塚公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.624463,
+      "lon": 140.164615,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-ed4d06679c",
+      "name_ja": "千葉市動物公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.645772,
+      "lon": 140.127002,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 34.0
+    },
+    {
+      "slug": "p13-06b2c947c3",
+      "name_ja": "千葉公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.619741,
+      "lon": 140.117593,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.1
+    },
+    {
+      "slug": "p13-88fa5d0cb9",
+      "name_ja": "稲毛海浜公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.61924,
+      "lon": 140.06129,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 83.1
+    },
+    {
+      "slug": "p13-e7a64ec4d8",
+      "name_ja": "袖ヶ浦第４緑地",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.618535,
+      "lon": 140.066063,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-41f48e426d",
+      "name_ja": "花見川緑地",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.639976,
+      "lon": 140.051264,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-be1ab86a35",
+      "name_ja": "大町公園",
+      "municipality": "市川市",
+      "operator": "千葉県",
+      "lat": 35.765261,
+      "lon": 139.972077,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-2af5ff117a",
+      "name_ja": "江戸川河川敷緑地",
+      "municipality": "市川市",
+      "operator": "千葉県",
+      "lat": 35.705057,
+      "lon": 139.922735,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 24.5
+    },
+    {
+      "slug": "p13-a830b2b487",
+      "name_ja": "大柏川第1調節池緑地",
+      "municipality": "市川市",
+      "operator": "千葉県",
+      "lat": 35.734429,
+      "lon": 139.951034,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-1fa013f4d2",
+      "name_ja": "蓴菜池緑地",
+      "municipality": "市川市",
+      "operator": "千葉県",
+      "lat": 35.751452,
+      "lon": 139.90629,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-4dd4396d02",
+      "name_ja": "アンデルセン公園",
+      "municipality": "船橋市",
+      "operator": "千葉県",
+      "lat": 35.758506,
+      "lon": 140.059672,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.5
+    },
+    {
+      "slug": "p13-23004aac24",
+      "name_ja": "船橋市馬込霊園",
+      "municipality": "船橋市",
+      "operator": "千葉県",
+      "lat": 35.737692,
+      "lon": 140.006062,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 28.7
+    },
+    {
+      "slug": "p13-7587c55cf3",
+      "name_ja": "城山公園",
+      "municipality": "館山市",
+      "operator": "千葉県",
+      "lat": 34.980754,
+      "lon": 139.856021,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-10b9b4ff5a",
+      "name_ja": "太田山公園",
+      "municipality": "木更津市",
+      "operator": "千葉県",
+      "lat": 35.380542,
+      "lon": 139.938836,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-a6d4300b69",
+      "name_ja": "小櫃堰公園",
+      "municipality": "木更津市",
+      "operator": "千葉県",
+      "lat": 35.394572,
+      "lon": 139.955286,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-dd84ded429",
+      "name_ja": "江戸川左岸河川敷緑地",
+      "municipality": "松戸市",
+      "operator": "千葉県",
+      "lat": 35.802673,
+      "lon": 139.892311,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 18.6
+    },
+    {
+      "slug": "p13-85161dce4e",
+      "name_ja": "二十一世紀の森と広場",
+      "municipality": "松戸市",
+      "operator": "千葉県",
+      "lat": 35.803068,
+      "lon": 139.938656,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 50.1
+    },
+    {
+      "slug": "p13-853bc426a2",
+      "name_ja": "野田市総合公園",
+      "municipality": "野田市",
+      "operator": "千葉県",
+      "lat": 35.964182,
+      "lon": 139.850891,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-90c01d7972",
+      "name_ja": "野田市スポーツ公園",
+      "municipality": "野田市",
+      "operator": "千葉県",
+      "lat": 35.957187,
+      "lon": 139.923012,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 136.0
+    },
+    {
+      "slug": "p13-74f01c1990",
+      "name_ja": "茂原公園",
+      "municipality": "茂原市",
+      "operator": "千葉県",
+      "lat": 35.430192,
+      "lon": 140.282343,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.1
+    },
+    {
+      "slug": "p13-dc3c6495f2",
+      "name_ja": "坂田ヶ池総合公園",
+      "municipality": "成田市",
+      "operator": "千葉県",
+      "lat": 35.816469,
+      "lon": 140.275727,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.2
+    },
+    {
+      "slug": "p13-7a4a61b3b9",
+      "name_ja": "佐倉城址公園",
+      "municipality": "佐倉市",
+      "operator": "千葉県",
+      "lat": 35.721114,
+      "lon": 140.21793,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.3
+    },
+    {
+      "slug": "p13-98bc68ad44",
+      "name_ja": "上座総合公園",
+      "municipality": "佐倉市",
+      "operator": "千葉県",
+      "lat": 35.727614,
+      "lon": 140.164094,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-68a2ca11f9",
+      "name_ja": "茜浜緑地",
+      "municipality": "習志野市",
+      "operator": "千葉県",
+      "lat": 35.663905,
+      "lon": 140.013246,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-6b7e9840b1",
+      "name_ja": "あけぼの山公園",
+      "municipality": "柏市",
+      "operator": "千葉県",
+      "lat": 35.896913,
+      "lon": 140.003999,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-eeefec0c65",
+      "name_ja": "増尾城址総合公園",
+      "municipality": "柏市",
+      "operator": "千葉県",
+      "lat": 35.841682,
+      "lon": 139.984266,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-57332eaae5",
+      "name_ja": "手賀の丘公園",
+      "municipality": "柏市",
+      "operator": "千葉県",
+      "lat": 35.842767,
+      "lon": 140.057765,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.9
+    },
+    {
+      "slug": "p13-91af7ee399",
+      "name_ja": "海保墓園",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.465047,
+      "lon": 140.082923,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-e1bee6cf7a",
+      "name_ja": "能満墓園",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.504078,
+      "lon": 140.136997,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-2cd7c92d04",
+      "name_ja": "桜台緑地",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.443972,
+      "lon": 140.047237,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-c016309400",
+      "name_ja": "江戸川河川敷緑地",
+      "municipality": "流山市",
+      "operator": "千葉県",
+      "lat": 35.841513,
+      "lon": 139.891014,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.3
+    },
+    {
+      "slug": "p13-d5060bb9da",
+      "name_ja": "村上緑地公園",
+      "municipality": "八千代市",
+      "operator": "千葉県",
+      "lat": 35.730714,
+      "lon": 140.126643,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-9f4230646c",
+      "name_ja": "浦安市総合公園",
+      "municipality": "浦安市",
+      "operator": "千葉県",
+      "lat": 35.636414,
+      "lon": 139.927913,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-e12ead7aaf",
+      "name_ja": "四街道総合公園",
+      "municipality": "四街道市",
+      "operator": "千葉県",
+      "lat": 35.653777,
+      "lon": 140.190696,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.3
+    },
+    {
+      "slug": "p13-f569fd3dac",
+      "name_ja": "千代田緑地",
+      "municipality": "四街道市",
+      "operator": "千葉県",
+      "lat": 35.698916,
+      "lon": 140.187654,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-3845b8790d",
+      "name_ja": "袖ケ浦公園",
+      "municipality": "袖ケ浦市",
+      "operator": "千葉県",
+      "lat": 35.41919,
+      "lon": 139.992154,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.2
+    },
+    {
+      "slug": "p13-8814b4c12b",
+      "name_ja": "松山下公園",
+      "municipality": "印西市",
+      "operator": "千葉県",
+      "lat": 35.824635,
+      "lon": 140.11504,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-c9c934e2e0",
+      "name_ja": "富里中央公園",
+      "municipality": "富里市",
+      "operator": "千葉県",
+      "lat": 35.728355,
+      "lon": 140.345582,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-c9f41578e8",
+      "name_ja": "佐原河川敷緑地",
+      "municipality": "香取市",
+      "operator": "千葉県",
+      "lat": 35.902161,
+      "lon": 140.502018,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-f00b23dce3",
+      "name_ja": "小見川城山公園",
+      "municipality": "香取市",
+      "operator": "千葉県",
+      "lat": 35.857955,
+      "lon": 140.592478,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-dc4209172d",
+      "name_ja": "小見川河川敷運動公園",
+      "municipality": "香取市",
+      "operator": "千葉県",
+      "lat": 35.867275,
+      "lon": 140.620043,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-1cdd3b01fb",
+      "name_ja": "酒々井総合公園",
+      "municipality": "印旛郡酒々井町",
+      "operator": "千葉県",
+      "lat": 35.721489,
+      "lon": 140.279872,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.2
+    }
+  ]
+}

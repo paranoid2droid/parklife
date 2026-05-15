@@ -1,0 +1,756 @@
+{
+  "prefecture": "kanagawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4ef52da626",
+      "name_ja": "四季の森公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.505801,
+      "lon": 139.536948,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 45.3
+    },
+    {
+      "slug": "p13-f63160d2bb",
+      "name_ja": "境川遊水池公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.388291,
+      "lon": 139.485519,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.5
+    },
+    {
+      "slug": "p13-136e7da9c0",
+      "name_ja": "あいかわ公園",
+      "municipality": "愛甲郡愛川町",
+      "operator": "神奈川県",
+      "lat": 35.540609,
+      "lon": 139.256856,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 51.8
+    },
+    {
+      "slug": "p13-fdbba3ac9b",
+      "name_ja": "野毛山公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.444952,
+      "lon": 139.622474,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-364491a00f",
+      "name_ja": "港の見える丘公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.439614,
+      "lon": 139.655084,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-a871be877e",
+      "name_ja": "山下公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.445769,
+      "lon": 139.649625,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-2c759cc5e8",
+      "name_ja": "根岸森林公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.422844,
+      "lon": 139.63878,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.3
+    },
+    {
+      "slug": "p13-34b873f9c5",
+      "name_ja": "本牧山頂公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.425726,
+      "lon": 139.663193,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.9
+    },
+    {
+      "slug": "p13-9650f4bb37",
+      "name_ja": "本牧市民公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.413523,
+      "lon": 139.660833,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-c05c843350",
+      "name_ja": "横浜公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.443658,
+      "lon": 139.640286,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-3fe17675a3",
+      "name_ja": "久良岐公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.405473,
+      "lon": 139.607375,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.1
+    },
+    {
+      "slug": "p13-deae29789a",
+      "name_ja": "横浜市児童遊園地",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.436712,
+      "lon": 139.577902,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.1
+    },
+    {
+      "slug": "p13-156009a8a3",
+      "name_ja": "こども自然公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.453618,
+      "lon": 139.537667,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 46.4
+    },
+    {
+      "slug": "p13-7761d906fc",
+      "name_ja": "横浜動物の森公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.501221,
+      "lon": 139.520771,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 54.1
+    },
+    {
+      "slug": "p13-3658d8554d",
+      "name_ja": "能見堂緑地",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.353913,
+      "lon": 139.615219,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.8
+    },
+    {
+      "slug": "p13-1caa49f55d",
+      "name_ja": "金沢自然公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.351119,
+      "lon": 139.599848,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 57.8
+    },
+    {
+      "slug": "p13-a058659f5a",
+      "name_ja": "海の公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.339673,
+      "lon": 139.635707,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 47.0
+    },
+    {
+      "slug": "p13-e9a1579932",
+      "name_ja": "富岡総合公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.376233,
+      "lon": 139.63154,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.9
+    },
+    {
+      "slug": "p13-02f9943178",
+      "name_ja": "野島公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.328211,
+      "lon": 139.633459,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.5
+    },
+    {
+      "slug": "p13-e1e477dae4",
+      "name_ja": "北八朔公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.533957,
+      "lon": 139.533284,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-c23e590e8c",
+      "name_ja": "玄海田公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.519361,
+      "lon": 139.495343,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-4cd6de4fa4",
+      "name_ja": "大塚・歳勝土遺跡公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.550326,
+      "lon": 139.581025,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-ee08401ae4",
+      "name_ja": "都筑中央公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.54904,
+      "lon": 139.569818,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.6
+    },
+    {
+      "slug": "p13-02a9355edc",
+      "name_ja": "舞岡公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.385645,
+      "lon": 139.551474,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 28.5
+    },
+    {
+      "slug": "p13-0572f94fd3",
+      "name_ja": "小雀公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.368723,
+      "lon": 139.511938,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-82483b8eed",
+      "name_ja": "俣野公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.386252,
+      "lon": 139.491756,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-b46d931c51",
+      "name_ja": "上郷九号緑地",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.351001,
+      "lon": 139.589485,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-9a51bb6941",
+      "name_ja": "富士見公園",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.529843,
+      "lon": 139.710872,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.7
+    },
+    {
+      "slug": "p13-e1a05e951b",
+      "name_ja": "等々力緑地",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.584789,
+      "lon": 139.651338,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.6
+    },
+    {
+      "slug": "p13-ef0fa5e9ef",
+      "name_ja": "生田緑地",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.608,
+      "lon": 139.561267,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 96.1
+    },
+    {
+      "slug": "p13-b2877748da",
+      "name_ja": "王禅寺ふるさと公園",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.585531,
+      "lon": 139.519283,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-13099e97e6",
+      "name_ja": "緑ヶ丘霊園",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.604736,
+      "lon": 139.592183,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-7b0dbb28e9",
+      "name_ja": "菅生緑地",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.589155,
+      "lon": 139.54953,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-e4e0fe5c04",
+      "name_ja": "菅北浦緑地",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.629178,
+      "lon": 139.53166,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-8ba6c29340",
+      "name_ja": "鷹取山公園",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.306304,
+      "lon": 139.61441,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-8ce1c73fdb",
+      "name_ja": "田浦梅の里",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.285265,
+      "lon": 139.631355,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 42.3
+    },
+    {
+      "slug": "p13-b035b9992a",
+      "name_ja": "猿島公園",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.284766,
+      "lon": 139.693816,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-90d86d2688",
+      "name_ja": "衣笠山公園",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.249216,
+      "lon": 139.659076,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-03ea7efe0a",
+      "name_ja": "くりはま花の国",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.21865,
+      "lon": 139.702454,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 58.3
+    },
+    {
+      "slug": "p13-506cb4091a",
+      "name_ja": "光の丘水辺公園",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.22572,
+      "lon": 139.673641,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-38376fbac0",
+      "name_ja": "荒崎公園",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.195179,
+      "lon": 139.602087,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-8036998711",
+      "name_ja": "長井海の手公園",
+      "municipality": "横須賀市",
+      "operator": "神奈川県",
+      "lat": 35.193989,
+      "lon": 139.611758,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-de7b620eb9",
+      "name_ja": "湘南海岸公園",
+      "municipality": "平塚市",
+      "operator": "神奈川県",
+      "lat": 35.317613,
+      "lon": 139.355657,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.8
+    },
+    {
+      "slug": "p13-ab05e75d91",
+      "name_ja": "平塚市総合公園",
+      "municipality": "平塚市",
+      "operator": "神奈川県",
+      "lat": 35.342334,
+      "lon": 139.342271,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.3
+    },
+    {
+      "slug": "p13-a452e27999",
+      "name_ja": "高麗山公園",
+      "municipality": "平塚市",
+      "operator": "神奈川県",
+      "lat": 35.322652,
+      "lon": 139.313522,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-dbaaa222de",
+      "name_ja": "平塚市土屋霊園",
+      "municipality": "平塚市",
+      "operator": "神奈川県",
+      "lat": 35.34474,
+      "lon": 139.24219,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-ec02afb4bc",
+      "name_ja": "鎌倉海浜公園",
+      "municipality": "鎌倉市",
+      "operator": "神奈川県",
+      "lat": 35.309015,
+      "lon": 139.543657,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-ca4ffc6f28",
+      "name_ja": "鎌倉中央公園",
+      "municipality": "鎌倉市",
+      "operator": "神奈川県",
+      "lat": 35.33587,
+      "lon": 139.53284,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 23.7
+    },
+    {
+      "slug": "p13-6cb0458e7b",
+      "name_ja": "夫婦池公園",
+      "municipality": "鎌倉市",
+      "operator": "神奈川県",
+      "lat": 35.320238,
+      "lon": 139.516338,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-cd736e20d4",
+      "name_ja": "六国見山森林公園",
+      "municipality": "鎌倉市",
+      "operator": "神奈川県",
+      "lat": 35.34177,
+      "lon": 139.5489,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-722520ec61",
+      "name_ja": "散在ガ池森林公園",
+      "municipality": "鎌倉市",
+      "operator": "神奈川県",
+      "lat": 35.341028,
+      "lon": 139.561671,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-6330d99f67",
+      "name_ja": "大庭城址公園",
+      "municipality": "藤沢市",
+      "operator": "神奈川県",
+      "lat": 35.361267,
+      "lon": 139.451555,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-0ae6d94d74",
+      "name_ja": "大庭台墓園",
+      "municipality": "藤沢市",
+      "operator": "神奈川県",
+      "lat": 35.357031,
+      "lon": 139.438896,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 17.2
+    },
+    {
+      "slug": "p13-b9b30841b8",
+      "name_ja": "小田原こどもの森公園わんぱくらんど",
+      "municipality": "小田原市",
+      "operator": "神奈川県",
+      "lat": 35.258973,
+      "lon": 139.12446,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.5
+    },
+    {
+      "slug": "p13-24af25da0b",
+      "name_ja": "上府中公園",
+      "municipality": "小田原市",
+      "operator": "神奈川県",
+      "lat": 35.303959,
+      "lon": 139.172759,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-abf29c1476",
+      "name_ja": "城址公園",
+      "municipality": "小田原市",
+      "operator": "神奈川県",
+      "lat": 35.250845,
+      "lon": 139.15348,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-35ad0bd9f7",
+      "name_ja": "披露山公園",
+      "municipality": "逗子市",
+      "operator": "神奈川県",
+      "lat": 35.295787,
+      "lon": 139.564718,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-d0a46bb1e4",
+      "name_ja": "道保川公園",
+      "municipality": "相模原市",
+      "operator": "神奈川県",
+      "lat": 35.549152,
+      "lon": 139.373056,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-eb31bea2e3",
+      "name_ja": "相模原麻溝公園",
+      "municipality": "相模原市",
+      "operator": "神奈川県",
+      "lat": 35.53412,
+      "lon": 139.39847,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.7
+    },
+    {
+      "slug": "p13-aa33294a56",
+      "name_ja": "相模原中央緑地",
+      "municipality": "相模原市",
+      "operator": "神奈川県",
+      "lat": 35.54581,
+      "lon": 139.41046,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-b6a11f8095",
+      "name_ja": "相模原北公園",
+      "municipality": "相模原市",
+      "operator": "神奈川県",
+      "lat": 35.534041,
+      "lon": 139.381734,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-72eb9d9509",
+      "name_ja": "勝坂歴史公園",
+      "municipality": "相模原市",
+      "operator": "神奈川県",
+      "lat": 35.513835,
+      "lon": 139.390579,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-8cbc17b0be",
+      "name_ja": "相模湖林間公園",
+      "municipality": "相模原市",
+      "operator": "神奈川県",
+      "lat": 35.60858,
+      "lon": 139.20407,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-bddb095cb8",
+      "name_ja": "立野緑地",
+      "municipality": "秦野市",
+      "operator": "神奈川県",
+      "lat": 35.35672,
+      "lon": 139.2307,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-69f65c11f3",
+      "name_ja": "上古沢緑地（あつぎつつじの丘公園）",
+      "municipality": "厚木市",
+      "operator": "神奈川県",
+      "lat": 35.455716,
+      "lon": 139.306814,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-9d90c5f1bb",
+      "name_ja": "愛名緑地",
+      "municipality": "厚木市",
+      "operator": "神奈川県",
+      "lat": 35.445978,
+      "lon": 139.320046,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-d95d072c23",
+      "name_ja": "ぼうさいの丘公園（厚木西）",
+      "municipality": "厚木市",
+      "operator": "神奈川県",
+      "lat": 35.43491,
+      "lon": 139.34389,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-ca3d75df18",
+      "name_ja": "小町緑地",
+      "municipality": "厚木市",
+      "operator": "神奈川県",
+      "lat": 35.43583,
+      "lon": 139.31927,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-8156da4e68",
+      "name_ja": "引地台公園",
+      "municipality": "大和市",
+      "operator": "神奈川県",
+      "lat": 35.45583,
+      "lon": 139.46013,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-4264a6bed0",
+      "name_ja": "引地川公園ゆとりの森",
+      "municipality": "大和市",
+      "operator": "神奈川県",
+      "lat": 35.439061,
+      "lon": 139.45169,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-cb7186c931",
+      "name_ja": "芹沢公園",
+      "municipality": "座間市",
+      "operator": "神奈川県",
+      "lat": 35.48598,
+      "lon": 139.42145,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-295403bffc",
+      "name_ja": "南郷上ノ山公園",
+      "municipality": "三浦郡葉山町",
+      "operator": "神奈川県",
+      "lat": 35.28437,
+      "lon": 139.60143,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.8
+    },
+    {
+      "slug": "p13-eb38285b23",
+      "name_ja": "吾妻山公園",
+      "municipality": "中郡二宮町",
+      "operator": "神奈川県",
+      "lat": 35.299492,
+      "lon": 139.250802,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-f197de6822",
+      "name_ja": "湯河原町総合運動公園",
+      "municipality": "足柄下郡湯河原町",
+      "operator": "神奈川県",
+      "lat": 35.15142,
+      "lon": 139.12469,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-6f707def3d",
+      "name_ja": "八菅山いこいの森",
+      "municipality": "愛甲郡愛川町",
+      "operator": "神奈川県",
+      "lat": 35.5122,
+      "lon": 139.31906,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.6
+    }
+  ]
+}

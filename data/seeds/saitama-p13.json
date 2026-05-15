@@ -1,0 +1,746 @@
+{
+  "prefecture": "saitama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-6858f9a59d",
+      "name_ja": "秩父ミューズパーク",
+      "municipality": "秩父市",
+      "operator": "埼玉県",
+      "lat": 35.99659,
+      "lon": 139.054763,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 271.3
+    },
+    {
+      "slug": "p13-14ec869d6f",
+      "name_ja": "戸田公園",
+      "municipality": "戸田市",
+      "operator": "埼玉県",
+      "lat": 35.801812,
+      "lon": 139.675322,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 34.9
+    },
+    {
+      "slug": "p13-816f843f82",
+      "name_ja": "羽生水郷公園",
+      "municipality": "羽生市",
+      "operator": "埼玉県",
+      "lat": 36.170385,
+      "lon": 139.596787,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 27.0
+    },
+    {
+      "slug": "p13-699273f9e3",
+      "name_ja": "荒川大麻生公園",
+      "municipality": "熊谷市",
+      "operator": "埼玉県",
+      "lat": 36.141191,
+      "lon": 139.338572,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 166.7
+    },
+    {
+      "slug": "p13-4248a5c6a3",
+      "name_ja": "加須はなさき公園",
+      "municipality": "加須市",
+      "operator": "埼玉県",
+      "lat": 36.106358,
+      "lon": 139.620467,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 24.9
+    },
+    {
+      "slug": "p13-ab379c2a81",
+      "name_ja": "吉川公園",
+      "municipality": "吉川市",
+      "operator": "埼玉県",
+      "lat": 35.916991,
+      "lon": 139.869661,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-31e746d513",
+      "name_ja": "三橋総合公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.911868,
+      "lon": 139.596808,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-1cfaee74f2",
+      "name_ja": "秋葉の森総合公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.937595,
+      "lon": 139.564805,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-21671c298b",
+      "name_ja": "西遊馬公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.905292,
+      "lon": 139.560532,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-0a090b553c",
+      "name_ja": "七里総合公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.923459,
+      "lon": 139.68044,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-848eb35c8f",
+      "name_ja": "市営霊園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.916574,
+      "lon": 139.679482,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 27.1
+    },
+    {
+      "slug": "p13-ef16df0a38",
+      "name_ja": "桜草公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.83674,
+      "lon": 139.61354,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-4472c56e63",
+      "name_ja": "荒川彩湖公園（桜草公園）",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.83619,
+      "lon": 139.619006,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.0
+    },
+    {
+      "slug": "p13-7f75799202",
+      "name_ja": "別所沼公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.85609,
+      "lon": 139.640936,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-8177fca95a",
+      "name_ja": "見沼自然公園（さぎ山記念公園内）",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.905107,
+      "lon": 139.697785,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-55193dc162",
+      "name_ja": "岩槻城址公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.951346,
+      "lon": 139.710341,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.5
+    },
+    {
+      "slug": "p13-6356f2c2f3",
+      "name_ja": "岩槻文化公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.944129,
+      "lon": 139.722373,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-b527572760",
+      "name_ja": "入間大橋緑地",
+      "municipality": "川越市",
+      "operator": "埼玉県",
+      "lat": 35.933637,
+      "lon": 139.535641,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-b9cbe4368f",
+      "name_ja": "別府沼公園",
+      "municipality": "熊谷市",
+      "operator": "埼玉県",
+      "lat": 36.19462,
+      "lon": 139.337792,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.1
+    },
+    {
+      "slug": "p13-2e5f3eed1d",
+      "name_ja": "妻沼運動公園",
+      "municipality": "熊谷市",
+      "operator": "埼玉県",
+      "lat": 36.2244,
+      "lon": 139.357345,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-19a4247ced",
+      "name_ja": "江南町総合公園",
+      "municipality": "熊谷市",
+      "operator": "埼玉県",
+      "lat": 36.108258,
+      "lon": 139.30815,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-b69f74614d",
+      "name_ja": "熊谷荒川緑地",
+      "municipality": "熊谷市",
+      "operator": "埼玉県",
+      "lat": 36.136284,
+      "lon": 139.381443,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 25.6
+    },
+    {
+      "slug": "p13-2ce0ae0e61",
+      "name_ja": "利根川総合運動公園",
+      "municipality": "熊谷市",
+      "operator": "埼玉県",
+      "lat": 36.240383,
+      "lon": 139.364246,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 59.1
+    },
+    {
+      "slug": "p13-7b0ed2c2b7",
+      "name_ja": "川口市グリーンセンター公園",
+      "municipality": "川口市",
+      "operator": "埼玉県",
+      "lat": 35.845326,
+      "lon": 139.727303,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-ed7eacd1f4",
+      "name_ja": "荒川緑地",
+      "municipality": "川口市",
+      "operator": "埼玉県",
+      "lat": 35.784902,
+      "lon": 139.740868,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 42.1
+    },
+    {
+      "slug": "p13-35c6c72eba",
+      "name_ja": "水城公園",
+      "municipality": "行田市",
+      "operator": "埼玉県",
+      "lat": 36.134137,
+      "lon": 139.459392,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-2bc77d17ea",
+      "name_ja": "行田市総合公園",
+      "municipality": "行田市",
+      "operator": "埼玉県",
+      "lat": 36.154494,
+      "lon": 139.451443,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.9
+    },
+    {
+      "slug": "p13-dba7b7572f",
+      "name_ja": "古代蓮の里",
+      "municipality": "行田市",
+      "operator": "埼玉県",
+      "lat": 36.13174,
+      "lon": 139.500078,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.0
+    },
+    {
+      "slug": "p13-472aded840",
+      "name_ja": "羊山公園",
+      "municipality": "秩父市",
+      "operator": "埼玉県",
+      "lat": 35.989427,
+      "lon": 139.089475,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.1
+    },
+    {
+      "slug": "p13-2819c041d6",
+      "name_ja": "秩父聖地公園",
+      "municipality": "秩父市",
+      "operator": "埼玉県",
+      "lat": 36.009194,
+      "lon": 139.099857,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.0
+    },
+    {
+      "slug": "p13-68ac14a356",
+      "name_ja": "滝の城址公園",
+      "municipality": "所沢市",
+      "operator": "埼玉県",
+      "lat": 35.800949,
+      "lon": 139.533828,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-bc020da33f",
+      "name_ja": "鳩峯公園",
+      "municipality": "所沢市",
+      "operator": "埼玉県",
+      "lat": 35.776366,
+      "lon": 139.456049,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-a0201f029f",
+      "name_ja": "騎西総合公園",
+      "municipality": "加須市",
+      "operator": "埼玉県",
+      "lat": 36.108443,
+      "lon": 139.579009,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-d7567c5c07",
+      "name_ja": "本庄市若泉運動公園",
+      "municipality": "本庄市",
+      "operator": "埼玉県",
+      "lat": 36.247505,
+      "lon": 139.181451,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-bc3f390395",
+      "name_ja": "本庄市本庄総合公園",
+      "municipality": "本庄市",
+      "operator": "埼玉県",
+      "lat": 36.220248,
+      "lon": 139.198605,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.9
+    },
+    {
+      "slug": "p13-c18f488ce3",
+      "name_ja": "物見山公園",
+      "municipality": "東松山市",
+      "operator": "埼玉県",
+      "lat": 35.999731,
+      "lon": 139.363097,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-0c9bc233e3",
+      "name_ja": "高坂丘陵三号緑地",
+      "municipality": "東松山市",
+      "operator": "埼玉県",
+      "lat": 35.986195,
+      "lon": 139.379746,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-29b7e2650c",
+      "name_ja": "東松山ぼたん園",
+      "municipality": "東松山市",
+      "operator": "埼玉県",
+      "lat": 36.06509,
+      "lon": 139.38568,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-bee78a33fd",
+      "name_ja": "内牧公園",
+      "municipality": "春日部市",
+      "operator": "埼玉県",
+      "lat": 35.991803,
+      "lon": 139.718717,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-77ed2572dd",
+      "name_ja": "庄和総合公園",
+      "municipality": "春日部市",
+      "operator": "埼玉県",
+      "lat": 35.99087,
+      "lon": 139.801289,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.0
+    },
+    {
+      "slug": "p13-a406f6c470",
+      "name_ja": "智光山公園",
+      "municipality": "狭山市",
+      "operator": "埼玉県",
+      "lat": 35.881735,
+      "lon": 139.394771,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 47.4
+    },
+    {
+      "slug": "p13-d6af13f5cb",
+      "name_ja": "羽生中央公園",
+      "municipality": "羽生市",
+      "operator": "埼玉県",
+      "lat": 36.175341,
+      "lon": 139.554927,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-d747ebd40f",
+      "name_ja": "羽生スカイスポーツ公園",
+      "municipality": "羽生市",
+      "operator": "埼玉県",
+      "lat": 36.195952,
+      "lon": 139.603295,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.3
+    },
+    {
+      "slug": "p13-813cba1134",
+      "name_ja": "上谷総合公園",
+      "municipality": "鴻巣市",
+      "operator": "埼玉県",
+      "lat": 36.058736,
+      "lon": 139.552431,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-022f56ff3c",
+      "name_ja": "川里中央公園",
+      "municipality": "鴻巣市",
+      "operator": "埼玉県",
+      "lat": 36.092366,
+      "lon": 139.52569,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-57f9fde1a5",
+      "name_ja": "糠田運動場",
+      "municipality": "鴻巣市",
+      "operator": "埼玉県",
+      "lat": 36.06332,
+      "lon": 139.487664,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-fd7161cd30",
+      "name_ja": "仙元山公園",
+      "municipality": "深谷市",
+      "operator": "埼玉県",
+      "lat": 36.176894,
+      "lon": 139.270199,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.7
+    },
+    {
+      "slug": "p13-d7f82942c2",
+      "name_ja": "上尾丸山公園",
+      "municipality": "上尾市",
+      "operator": "埼玉県",
+      "lat": 35.957529,
+      "lon": 139.547791,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.9
+    },
+    {
+      "slug": "p13-d625780d51",
+      "name_ja": "上平公園",
+      "municipality": "上尾市",
+      "operator": "埼玉県",
+      "lat": 35.991999,
+      "lon": 139.593131,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-71c61b2dd7",
+      "name_ja": "そうか公園",
+      "municipality": "草加市",
+      "operator": "埼玉県",
+      "lat": 35.861923,
+      "lon": 139.826744,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.8
+    },
+    {
+      "slug": "p13-a31d7ce1fc",
+      "name_ja": "しらこばと運動公園",
+      "municipality": "越谷市",
+      "operator": "埼玉県",
+      "lat": 35.911451,
+      "lon": 139.754727,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-04af24bc47",
+      "name_ja": "戸田公園",
+      "municipality": "戸田市",
+      "operator": "埼玉県",
+      "lat": 35.803159,
+      "lon": 139.658227,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-549e9e5e99",
+      "name_ja": "彩湖・道満グリーンパーク",
+      "municipality": "戸田市",
+      "operator": "埼玉県",
+      "lat": 35.827479,
+      "lon": 139.628407,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 66.7
+    },
+    {
+      "slug": "p13-f988e0692f",
+      "name_ja": "志木市立秋ヶ瀬運動公園",
+      "municipality": "志木市",
+      "operator": "埼玉県",
+      "lat": 35.853186,
+      "lon": 139.599584,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-acdaff59fa",
+      "name_ja": "荒川河川敷運動公園",
+      "municipality": "和光市",
+      "operator": "埼玉県",
+      "lat": 35.803067,
+      "lon": 139.635152,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-1682e2eec2",
+      "name_ja": "城山公園",
+      "municipality": "桶川市",
+      "operator": "埼玉県",
+      "lat": 35.99098,
+      "lon": 139.524555,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-049bcc0780",
+      "name_ja": "北本総合公園",
+      "municipality": "北本市",
+      "operator": "埼玉県",
+      "lat": 36.043321,
+      "lon": 139.549595,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-03f7df3194",
+      "name_ja": "富士見市運動公園",
+      "municipality": "富士見市",
+      "operator": "埼玉県",
+      "lat": 35.854721,
+      "lon": 139.584493,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-43b041a12b",
+      "name_ja": "びん沼自然公園",
+      "municipality": "富士見市",
+      "operator": "埼玉県",
+      "lat": 35.87902,
+      "lon": 139.556418,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-e0644a9d7a",
+      "name_ja": "三郷スカイパーク",
+      "municipality": "三郷市",
+      "operator": "埼玉県",
+      "lat": 35.835017,
+      "lon": 139.866284,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-77cf756c47",
+      "name_ja": "幸手総合公園",
+      "municipality": "幸手市",
+      "operator": "埼玉県",
+      "lat": 36.082643,
+      "lon": 139.752774,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-82f62d63ed",
+      "name_ja": "日高総合公園",
+      "municipality": "日高市",
+      "operator": "埼玉県",
+      "lat": 35.900202,
+      "lon": 139.383434,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-7ccf908b45",
+      "name_ja": "巾着田曼珠沙華公園",
+      "municipality": "日高市",
+      "operator": "埼玉県",
+      "lat": 35.881321,
+      "lon": 139.312781,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-5faeb82e96",
+      "name_ja": "伊奈町制施行記念公園",
+      "municipality": "北足立郡伊奈町",
+      "operator": "埼玉県",
+      "lat": 36.013739,
+      "lon": 139.608651,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-d5efd9cbb0",
+      "name_ja": "毛呂山総合公園",
+      "municipality": "入間郡毛呂山町",
+      "operator": "埼玉県",
+      "lat": 35.923207,
+      "lon": 139.309835,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-e45da3e389",
+      "name_ja": "花見台第１公園",
+      "municipality": "比企郡嵐山町",
+      "operator": "埼玉県",
+      "lat": 36.077552,
+      "lon": 139.323084,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-655fee0f3f",
+      "name_ja": "平成の森公園",
+      "municipality": "比企郡川島町",
+      "operator": "埼玉県",
+      "lat": 35.991925,
+      "lon": 139.487139,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-3b99346e64",
+      "name_ja": "八丁湖公園",
+      "municipality": "比企郡吉見町",
+      "operator": "埼玉県",
+      "lat": 36.059167,
+      "lon": 139.441218,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-908bfa005a",
+      "name_ja": "ふれあい広場",
+      "municipality": "比企郡吉見町",
+      "operator": "埼玉県",
+      "lat": 36.054164,
+      "lon": 139.453876,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-85024ac607",
+      "name_ja": "神川ゆ～ゆ～ランド",
+      "municipality": "児玉郡神川町",
+      "operator": "埼玉県",
+      "lat": 36.209908,
+      "lon": 139.080331,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.3
+    },
+    {
+      "slug": "p13-77d49839db",
+      "name_ja": "寄居運動公園",
+      "municipality": "大里郡寄居町",
+      "operator": "埼玉県",
+      "lat": 36.107313,
+      "lon": 139.185023,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-61bb286027",
+      "name_ja": "鉢形城公園",
+      "municipality": "大里郡寄居町",
+      "operator": "埼玉県",
+      "lat": 36.109153,
+      "lon": 139.195504,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.9
+    },
+    {
+      "slug": "p13-2e63a6e279",
+      "name_ja": "はらっパーク宮代",
+      "municipality": "南埼玉郡宮代町",
+      "operator": "埼玉県",
+      "lat": 36.00556,
+      "lon": 139.715114,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-798491dcbc",
+      "name_ja": "松伏総合公園",
+      "municipality": "北葛飾郡松伏町",
+      "operator": "埼玉県",
+      "lat": 35.919798,
+      "lon": 139.830454,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.2
+    }
+  ]
+}

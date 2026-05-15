@@ -1,0 +1,726 @@
+{
+  "prefecture": "tokyo",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-525495f5cc",
+      "name_ja": "大島小松川公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.692072,
+      "lon": 139.850089,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.9
+    },
+    {
+      "slug": "p13-622019f1aa",
+      "name_ja": "明治公園",
+      "municipality": "新宿区",
+      "operator": "東京都",
+      "lat": 35.675996,
+      "lon": 139.713025,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-b0ec82e1f0",
+      "name_ja": "光が丘公園",
+      "municipality": "練馬区",
+      "operator": "東京都",
+      "lat": 35.763123,
+      "lon": 139.628384,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 60.8
+    },
+    {
+      "slug": "p13-ca03364197",
+      "name_ja": "篠崎公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.715684,
+      "lon": 139.899191,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 29.9
+    },
+    {
+      "slug": "p13-c2091f7296",
+      "name_ja": "滝山公園",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.701251,
+      "lon": 139.329307,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.9
+    },
+    {
+      "slug": "p13-a775cca2cf",
+      "name_ja": "玉川上水緑道",
+      "municipality": "小平市",
+      "operator": "東京都",
+      "lat": 35.717266,
+      "lon": 139.477849,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-bd6e51be52",
+      "name_ja": "武蔵野の森公園",
+      "municipality": "調布市",
+      "operator": "東京都",
+      "lat": 35.667674,
+      "lon": 139.529426,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 26.2
+    },
+    {
+      "slug": "p13-7e6c9bba8a",
+      "name_ja": "神代植物公園",
+      "municipality": "調布市",
+      "operator": "東京都",
+      "lat": 35.663769,
+      "lon": 139.549119,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 47.7
+    },
+    {
+      "slug": "p13-d50c65e0d9",
+      "name_ja": "小山田緑地",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.597132,
+      "lon": 139.414956,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 42.0
+    },
+    {
+      "slug": "p13-9dba5105d7",
+      "name_ja": "野山北・六道山公園",
+      "municipality": "武蔵村山市",
+      "operator": "東京都",
+      "lat": 35.763274,
+      "lon": 139.371576,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 170.1
+    },
+    {
+      "slug": "p13-6389c63fac",
+      "name_ja": "桜ヶ丘公園",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.633171,
+      "lon": 139.459352,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-4077e4caa1",
+      "name_ja": "有栖川宮記念公園",
+      "municipality": "港区",
+      "operator": "東京都",
+      "lat": 35.65228,
+      "lon": 139.72577,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-a738badf92",
+      "name_ja": "新宿中央公園",
+      "municipality": "新宿区",
+      "operator": "東京都",
+      "lat": 35.688821,
+      "lon": 139.689333,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-7059a8e1cb",
+      "name_ja": "隅田公園",
+      "municipality": "台東区",
+      "operator": "東京都",
+      "lat": 35.715916,
+      "lon": 139.803635,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-c2f9a27ae4",
+      "name_ja": "隅田公園",
+      "municipality": "墨田区",
+      "operator": "東京都",
+      "lat": 35.712754,
+      "lon": 139.804288,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-988a99b957",
+      "name_ja": "仙台堀川",
+      "municipality": "江東区",
+      "operator": "東京都",
+      "lat": 35.68525,
+      "lon": 139.83913,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-44d657fdc8",
+      "name_ja": "荒川・砂町水辺",
+      "municipality": "江東区",
+      "operator": "東京都",
+      "lat": 35.68103,
+      "lon": 139.84471,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-d05abbcbbe",
+      "name_ja": "若洲",
+      "municipality": "江東区",
+      "operator": "東京都",
+      "lat": 35.61889,
+      "lon": 139.833879,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-13a308de21",
+      "name_ja": "しながわ区民公園",
+      "municipality": "品川区",
+      "operator": "東京都",
+      "lat": 35.58962,
+      "lon": 139.73831,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-8bb3266fa0",
+      "name_ja": "洗足池公園",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.60283,
+      "lon": 139.68951,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-1ebd3b1cfc",
+      "name_ja": "平和の森公園",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.578677,
+      "lon": 139.74073,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-6816fb1187",
+      "name_ja": "多摩川緑地",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.541101,
+      "lon": 139.701275,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 35.2
+    },
+    {
+      "slug": "p13-e3e020f386",
+      "name_ja": "多摩川ガス橋緑地",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.561805,
+      "lon": 139.683211,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-8af3ea64ce",
+      "name_ja": "多摩川六郷橋緑地",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.540221,
+      "lon": 139.71294,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-7b76d1ecb6",
+      "name_ja": "多摩川遊園",
+      "municipality": "世田谷区",
+      "operator": "東京都",
+      "lat": 35.598486,
+      "lon": 139.644322,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-06652861af",
+      "name_ja": "兵庫島公園",
+      "municipality": "世田谷区",
+      "operator": "東京都",
+      "lat": 35.611377,
+      "lon": 139.625508,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-80e03dc4ff",
+      "name_ja": "哲学堂公園",
+      "municipality": "中野区",
+      "operator": "東京都",
+      "lat": 35.72246,
+      "lon": 139.67403,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-a4ae27775a",
+      "name_ja": "飛鳥山公園",
+      "municipality": "北区",
+      "operator": "東京都",
+      "lat": 35.74895,
+      "lon": 139.740228,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-64a380a700",
+      "name_ja": "新荒川大橋緑地",
+      "municipality": "北区",
+      "operator": "東京都",
+      "lat": 35.789058,
+      "lon": 139.720335,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-a0f3c2625a",
+      "name_ja": "桐ヶ丘中央公園",
+      "municipality": "北区",
+      "operator": "東京都",
+      "lat": 35.78012,
+      "lon": 139.70778,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-5da00c9fd9",
+      "name_ja": "高島平緑地",
+      "municipality": "板橋区",
+      "operator": "東京都",
+      "lat": 35.78736,
+      "lon": 139.66557,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-ef63115d5f",
+      "name_ja": "荒川戸田橋緑地",
+      "municipality": "板橋区",
+      "operator": "東京都",
+      "lat": 35.798756,
+      "lon": 139.661682,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 59.7
+    },
+    {
+      "slug": "p13-ed8947301f",
+      "name_ja": "荒川千住新橋緑地",
+      "municipality": "足立区",
+      "operator": "東京都",
+      "lat": 35.760287,
+      "lon": 139.805,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-b80de34a53",
+      "name_ja": "荒川江北橋緑地",
+      "municipality": "足立区",
+      "operator": "東京都",
+      "lat": 35.755884,
+      "lon": 139.773095,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-65792d12a0",
+      "name_ja": "荒川西新井橋緑地",
+      "municipality": "足立区",
+      "operator": "東京都",
+      "lat": 35.760688,
+      "lon": 139.794022,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-2101d51b32",
+      "name_ja": "柴又公園",
+      "municipality": "葛飾区",
+      "operator": "東京都",
+      "lat": 35.75739,
+      "lon": 139.8799,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-2a1de40f7f",
+      "name_ja": "小岩緑地",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.7304,
+      "lon": 139.895345,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 42.1
+    },
+    {
+      "slug": "p13-3474ce1555",
+      "name_ja": "篠崎緑地",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.720229,
+      "lon": 139.899422,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 26.2
+    },
+    {
+      "slug": "p13-9be32e7abc",
+      "name_ja": "平井運動公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.714075,
+      "lon": 139.844628,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-87360e5931",
+      "name_ja": "総合レクリエーション公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.650685,
+      "lon": 139.873086,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.9
+    },
+    {
+      "slug": "p13-71a66ba7bd",
+      "name_ja": "新左近川親水公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.653928,
+      "lon": 139.860504,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-86eca9909a",
+      "name_ja": "小松川千本桜",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.691986,
+      "lon": 139.853547,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-3efb4a4d00",
+      "name_ja": "片倉城跡公園",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.63863,
+      "lon": 139.33727,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-9021734ee0",
+      "name_ja": "大塚公園",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.632328,
+      "lon": 139.416269,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-d647bd375d",
+      "name_ja": "宇津木台緑地",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.6867,
+      "lon": 139.3564,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-4822a4945a",
+      "name_ja": "観栖寺台緑地",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.670582,
+      "lon": 139.265004,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-969121547c",
+      "name_ja": "高尾台緑地",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.653069,
+      "lon": 139.269051,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-fa4d4b2cff",
+      "name_ja": "上柚木公園",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.62088,
+      "lon": 139.37273,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.2
+    },
+    {
+      "slug": "p13-34514625d9",
+      "name_ja": "寺田緑地",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.619793,
+      "lon": 139.302347,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-d2fbb631f2",
+      "name_ja": "長池公園",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.6069,
+      "lon": 139.38785,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.4
+    },
+    {
+      "slug": "p13-c243c1fc5e",
+      "name_ja": "清水入緑地",
+      "municipality": "八王子市",
+      "operator": "東京都",
+      "lat": 35.60765,
+      "lon": 139.38428,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-14234d11c4",
+      "name_ja": "多摩川",
+      "municipality": "立川市",
+      "operator": "東京都",
+      "lat": 35.687646,
+      "lon": 139.400677,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 18.0
+    },
+    {
+      "slug": "p13-9b3fdb9251",
+      "name_ja": "立川",
+      "municipality": "立川市",
+      "operator": "東京都",
+      "lat": 35.684119,
+      "lon": 139.415098,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.6
+    },
+    {
+      "slug": "p13-5f2afdb1a5",
+      "name_ja": "永山公園",
+      "municipality": "青梅市",
+      "operator": "東京都",
+      "lat": 35.791357,
+      "lon": 139.260164,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.1
+    },
+    {
+      "slug": "p13-e1bb2307d5",
+      "name_ja": "釜の淵公園",
+      "municipality": "青梅市",
+      "operator": "東京都",
+      "lat": 35.78626,
+      "lon": 139.255617,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-9dabf023d2",
+      "name_ja": "郷土の森公園",
+      "municipality": "府中市",
+      "operator": "東京都",
+      "lat": 35.65644,
+      "lon": 139.478274,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.8
+    },
+    {
+      "slug": "p13-e50ea66115",
+      "name_ja": "忠生公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.572474,
+      "lon": 139.423482,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-10b8c93f15",
+      "name_ja": "野津田公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.592591,
+      "lon": 139.442441,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 39.3
+    },
+    {
+      "slug": "p13-05cc04c2c8",
+      "name_ja": "相原中央公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.610709,
+      "lon": 139.319627,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.7
+    },
+    {
+      "slug": "p13-e977062278",
+      "name_ja": "薬師池公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.57878,
+      "lon": 139.44775,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-5781792fc0",
+      "name_ja": "芹ヶ谷公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.545134,
+      "lon": 139.454569,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-6f33b97bf3",
+      "name_ja": "尾根緑道",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.60227,
+      "lon": 139.379734,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-7f1152b272",
+      "name_ja": "多摩川緑地福生南公園",
+      "municipality": "福生市",
+      "operator": "東京都",
+      "lat": 35.716566,
+      "lon": 139.331152,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-5ca770c3b5",
+      "name_ja": "多摩川中央公園",
+      "municipality": "福生市",
+      "operator": "東京都",
+      "lat": 35.729362,
+      "lon": 139.325984,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-5af1bc1633",
+      "name_ja": "東大和狭山緑地",
+      "municipality": "東大和市",
+      "operator": "東京都",
+      "lat": 35.75652,
+      "lon": 139.42216,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.5
+    },
+    {
+      "slug": "p13-bf3114fb33",
+      "name_ja": "大南公園",
+      "municipality": "武蔵村山市",
+      "operator": "東京都",
+      "lat": 35.73845,
+      "lon": 139.40826,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-925a0c165f",
+      "name_ja": "総合運動公園",
+      "municipality": "武蔵村山市",
+      "operator": "東京都",
+      "lat": 35.76485,
+      "lon": 139.37198,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-73ce0e74d3",
+      "name_ja": "貝取山緑地",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.6274,
+      "lon": 139.44046,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-683f9aee33",
+      "name_ja": "からきだの道",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.616314,
+      "lon": 139.403097,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-a982def60f",
+      "name_ja": "多摩中央公園",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.6206,
+      "lon": 139.42567,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-1dae0b2083",
+      "name_ja": "よこやまの道",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.62178,
+      "lon": 139.460542,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-5cbe13d2fb",
+      "name_ja": "稲城中央公園",
+      "municipality": "稲城市",
+      "operator": "東京都",
+      "lat": 35.632856,
+      "lon": 139.48712,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.4
+    }
+  ]
+}
