@@ -71,7 +71,13 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - ✅ Name-sort already uses `LOCALE_FOR_LANG[displayLang]` — confirmed working.
    - **Follow-up still open**: geographically-nearby `sp.n` fallback for tiebreakers. When two species both have 1 record at the selected park, currently the tiebreaker is global park count, which still favors 関東-wide commons over locally-clustered species. Would need a precomputed `sp.regional_n` per (species, prefecture) or radius-based aggregation; defer until a complaint surfaces.
 
-6. **Continue species_profile curation** — add another small batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`. Workflow: edit `PROFILES_JA` + `PROFILES_EN_ZH`, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`. Current seed: 49 profiles × 4 langs.
+6. **Continue species_profile curation** *(2026-05-16, mid-sweep)*
+   - Major expansion in progress: 49 → **~405 curated species × 4 langs** (commits `45071e1` through `e4162df`).
+   - **Sidecar workflow** (`scripts/seed_species_profiles.py` now loads `data/species_profiles_extra.json` in addition to in-file `PROFILES_JA/EN_ZH`): append entries to the JSON, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html && git commit && git push`.
+   - Selection strategy: top-N most-widespread visible species (`ORDER BY park_count DESC`), excluding species that already have profiles. Skip cultivars, microbes, and anything with no published natural-history info.
+   - Each profile carries 4 languages (ja/en/zh/zhT) + structured `source_urls` (Wikipedia + iNaturalist + eBird when applicable). Hant is auto-generated from Hans via the OpenCC-like substitution table.
+   - **Resume command**: `.venv/bin/python -c "import sqlite3; c=sqlite3.connect('data/parklife.db'); done=set(r[0] for r in c.execute(\"SELECT DISTINCT s.scientific_name FROM species s JOIN species_profile p ON p.species_id=s.id\")); rows=list(c.execute(\"SELECT s.scientific_name, s.common_name_ja, s.taxon_group, COUNT(DISTINCT ps.park_id) FROM species s JOIN park_species ps ON ps.species_id=s.id WHERE COALESCE(s.kingdom,'') NOT IN ('archaea','bacteria','chromista','protozoa') GROUP BY s.id ORDER BY 4 DESC LIMIT 900\")); [print(r) for r in rows if r[0] not in done][:30]"` — shows next ~30 candidates by frequency.
+   - When the sweep wraps up, prune this entry and add a final-state line to Status.
 
 7. **Photo gallery quality + licensing** *(2026-05-16, shipped — see follow-up)*
    - ✅ Diversity dedup (`87f5553`): `scripts/repopulate_species_photos.py` re-picks from cached iNat data with dedup keys `(user, observed-day)` and `(user, week, ~1 km grid)`. Stops bursts from the same observer at the same spot.
@@ -87,6 +93,12 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
      - Could add Flickr/GBIF media as a 3rd hero source for taxa with neither iNat nor Commons coverage.
 
 ## Recent sessions
+
+### 2026-05-16/onward (Claude) — TODO #6 species_profile mass expansion
+- Added `data/species_profiles_extra.json` sidecar + loader in `scripts/seed_species_profiles.py` so future curation grows without ballooning the Python source.
+- Wrote ~355 new 4-language profiles across many batches (commits `45071e1`, `2566f64`, `2fb984d`, `c501c22`, `a402abb`, `17d0125`, `c20f2f3`, `4e59dc6`, `7469e61`, `714d647`, `19f7e65`, `cd803ef`, `1b9cb3f`, `ec81bcd`, `6a999a7`, `2768097`, `16cc2df`, `23989b5`, `6697a88`, `a0273c5`, `3936f00`, `b00121d`, `77bd061`, `8ad9627`, `fc71a22`, `2c38f47`, `b78c798`, `fd5d5e6`, `e4162df`). Profile total: 49 → ~405 species.
+- Coverage strategy: high-frequency visible species first (sort by global park count). Targeted ranks 1–~430. Many include safety notes (hornets, toxic plants, invasive species) and cultural context (春の七草, festivals, traditional uses).
+- HANDOFF #6 updated with sidecar workflow and a SQL one-liner to find the next batch of candidates.
 
 ### 2026-05-16 (Claude) — TODO #3 parking-unknown closed
 - Added `scripts/osm_parking.py` using OSM Overpass `amenity=parking` within 300 m. Replaces and outscales the per-page scrape approach: it handles both the 45 curated NULLs *and* the 273 P13 parks (no `official_url`) in one pass.
