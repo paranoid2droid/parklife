@@ -5723,5 +5723,167 @@
       "habitat_hint": "明亮草地、河滩、农田、林缘、草坪边。",
       "finding_tips": "晴天观察在地面低空缓飞的大型黑色蜂。腹部细黄带为辨识。**勿徒手接触。**"
     }
+  },
+  "Cryptomeria japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スギ。日本固有の常緑針葉樹で、神社や寺院の境内で巨木として見られます。林業の主要樹種ですが、春の花粉症の主要原因でもあります。",
+      "habitat_hint": "神社・寺院の境内、人工林、山地の谷、社寺林、植林地。",
+      "finding_tips": "細かい針葉が枝に密生する常緑の高木を探します。樹皮は赤褐色で縦に裂け、神社の御神木としても多く植えられています。"
+    },
+    "en": {
+      "summary": "Japanese Cedar, an endemic evergreen conifer. Massive specimens grow at shrines and temples. A major forestry species — and the leading cause of springtime hay fever in Japan.",
+      "habitat_hint": "Shrine and temple grounds, plantations, mountain valleys, shrine groves, and forestry sites.",
+      "finding_tips": "Look for a tall evergreen with finely needled foliage densely covering twigs. Reddish-brown bark peels in vertical strips. Often planted as sacred 'shinboku' trees."
+    },
+    "zh": {
+      "summary": "日本柳杉，日本特有的常绿针叶树。神社寺庙常见巨木，是林业主要树种，也是日本春季花粉症的主要诱因。",
+      "habitat_hint": "神社寺庙境内、人工林、山地谷地、神社树林、植林地。",
+      "finding_tips": "找密生针叶的常绿高大乔木。树皮红褐色纵裂，神社多作神木栽培。"
+    }
+  },
+  "Iris pseudacorus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キショウブ。外来種のアヤメ類で、湿地や池の縁で初夏に鮮やかな黄色い花を咲かせます。在来植生を圧迫することがあるため要注意外来生物。",
+      "habitat_hint": "池の縁、湿地、河川の岸辺、ため池、用水路の周辺。",
+      "finding_tips": "5〜6月、水辺で大きな鮮やかな黄色いアヤメ類を探します。葉は剣状で背丈は1mに達します。**駆除対象の外来種なので庭に植えないでください。**"
+    },
+    "en": {
+      "summary": "Yellow Flag Iris, an introduced iris that produces bright yellow flowers at wet margins in early summer. Listed as a problematic invasive in Japan.",
+      "habitat_hint": "Pond margins, wetlands, riverbanks, reservoirs, and around irrigation ditches.",
+      "finding_tips": "From May to June look on waterside for tall (1 m) iris-like plants with vivid yellow flowers. **Recognised invasive — do not transplant or cultivate.**"
+    },
+    "zh": {
+      "summary": "黄菖蒲，外来鸢尾。初夏在水边开亮黄花。已被列为日本要警戒的外来生物。",
+      "habitat_hint": "池边、湿地、河岸、蓄水池、灌渠周边。",
+      "finding_tips": "五至六月在水边找高大（约 1 m）的亮黄色鸢尾花。**已知入侵物种，请勿栽种。**"
+    }
+  },
+  "Atrocalopteryx atrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハグロトンボ。黒い翅と光沢のある緑色の体が美しい大型のイトトンボ類。渓流や清流の岸でゆっくりと飛ぶ姿が優雅です。",
+      "habitat_hint": "渓流、清流の岸辺、湿地、流れのある池、清らかな川の周辺。",
+      "finding_tips": "5〜10月、水辺で黒い大きな翅をゆっくり開閉しながら飛ぶ細長いトンボを探します。雄は体が緑光沢、雌は黒褐色です。"
+    },
+    "en": {
+      "summary": "Black-winged Damselfly, a large damselfly with smoky-black wings and an iridescent green body. Flies elegantly along clear streams.",
+      "habitat_hint": "Streams, clear-water banks, wetlands, flowing ponds, and around clean rivers.",
+      "finding_tips": "From May to October watch waterside areas for a slender black-winged damselfly opening and closing its wings slowly in flight. Males are metallic green; females blackish brown."
+    },
+    "zh": {
+      "summary": "黑翅细蟌（黑翅豆娘），翅黑、体绿带金属光泽的大型豆娘。在清溪边缓飞优雅。",
+      "habitat_hint": "溪流、清水河岸、湿地、流动池塘、清洁河流周边。",
+      "finding_tips": "五至十月在水边找翅黑、慢飞缓张合的细长豆娘。雄虫金属绿，雌虫黑褐色。"
+    }
+  },
+  "Ardisia crenata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マンリョウ。冬に赤い実をぶら下げる常緑低木。「万両」の名前は「千両（センリョウ）」と並ぶ縁起木として正月の飾りに使われます。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、半日陰の庭園、谷沿いの林。",
+      "finding_tips": "光沢のある厚い葉と、冬の鮮やかな赤い実（葉の下に下垂）を探します。同じく赤い実をつけるセンリョウは実が葉の上につくので区別できます。"
+    },
+    "en": {
+      "summary": "Coral Bush. An evergreen shrub displaying brilliant red berries in winter. Considered auspicious — the Japanese name 'manryo' ('ten-thousand-ryo') is paired with the related senryo as New-Year decor.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, half-shaded gardens, and valley woods.",
+      "finding_tips": "Look for an evergreen shrub with glossy thick leaves and clusters of bright red berries hanging below the leaves. The related Sarcandra (senryo) has its berries above the leaves."
+    },
+    "zh": {
+      "summary": "朱砂根（万两），常绿灌木。冬季垂挂鲜红果实。日本视为吉祥植物，与近缘的『千两』并列做新年装饰。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、半阴庭园、谷地林。",
+      "finding_tips": "找叶厚有光泽、冬季叶下垂挂鲜红果实的灌木。同样红果的草珊瑚（千两）果实位于叶上方，可作区分。"
+    }
+  },
+  "Hemerocallis fulva": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワスレグサ。オレンジ色の大きな花を夏に咲かせるユリ科多年草。「忘れ草」の名は古代から食用にされてきたことに関連しています。",
+      "habitat_hint": "河川敷、空き地、農地の縁、土手、明るい斜面。",
+      "finding_tips": "6〜8月、人の腰高ほどの茎の先にオレンジ色の大きな花が連続して咲きます。花は1日で散る一日花です。"
+    },
+    "en": {
+      "summary": "Orange Daylily. Large orange summer flowers atop tall stems. The Japanese name 'wasure-gusa' (forget-grass) traces back to its long use as a food and herb.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, levees, and bright slopes.",
+      "finding_tips": "From June to August look for tall stems holding large orange flowers in succession — each bloom lasts a single day."
+    },
+    "zh": {
+      "summary": "萱草（金针菜），夏季在腰高茎顶开大型橙色花的百合科多年生植物。日文俗名『忘草』源于其自古作食用与药用。",
+      "habitat_hint": "河滩、空地、田边、堤岸、明亮斜坡。",
+      "finding_tips": "六至八月寻找腰高茎顶相继开放橙花的植物。每朵花只开一日。"
+    }
+  },
+  "Calvia muiri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムーアシロホシテントウ。黒い体に白い斑点が散らばる小型のテントウムシ。うどんこ病菌を食べる菌食性で、葉の上で見られます。",
+      "habitat_hint": "雑木林の林縁、農地、家庭菜園、河川敷の植物、うどんこ病が出る場所。",
+      "finding_tips": "葉の白い粉（うどんこ病）の上にいる黒+白斑の小型テントウを探します。キイロテントウと同じく菌食性です。"
+    },
+    "en": {
+      "summary": "Muir's Ladybird, a small dark ladybird scattered with white spots. Mycophagous — feeds on powdery-mildew fungus on leaves.",
+      "habitat_hint": "Woodland edges, farmland, kitchen gardens, riverside plants, and powdery-mildew sites.",
+      "finding_tips": "On powdery-mildewed leaves look for a small black ladybird flecked with white spots. Shares its fungal diet with the Yellow Ladybird."
+    },
+    "zh": {
+      "summary": "缪氏白星瓢虫，黑底白斑的小型瓢虫。食白粉病菌的菌食性瓢虫。",
+      "habitat_hint": "林缘、农田、家庭菜园、河滩植物、白粉病发生处。",
+      "finding_tips": "在生白粉的叶面找黑底带白斑的小瓢虫。与黄瓢虫同属食菌习性。"
+    }
+  },
+  "Erigeron annuus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメジョオン。外来種のキク科で、夏〜秋に白い小さな菊状の花を多数咲かせます。ハルジオンより遅く咲き、茎が中実です。",
+      "habitat_hint": "河川敷、空き地、農地の縁、芝生の縁、道端、明るい斜面。",
+      "finding_tips": "6〜10月、白い細い花弁の頭花を腰高に多数つけるキク科を探します。茎が中実（中空ではない）でハルジオンと区別できます。"
+    },
+    "en": {
+      "summary": "Annual Fleabane, an introduced daisy. Many small white daisy heads from summer into autumn. Blooms later than Philadelphia Fleabane and has solid (not hollow) stems.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, lawn edges, roadsides, and bright slopes.",
+      "finding_tips": "From June to October look at waist height for plants with many small white daisies. Solid stems separate it from the related Philadelphia Fleabane."
+    },
+    "zh": {
+      "summary": "一年蓬，外来菊科。夏秋开许多白色细瓣菊状头花。比小蓬草晚花，茎中实（非中空）。",
+      "habitat_hint": "河滩、空地、田边、草坪边、路边、明亮斜坡。",
+      "finding_tips": "六至十月在腰高处找许多白色细瓣头花的菊科。茎中实可与小蓬草区分。"
+    }
+  },
+  "Pericrocotus tegimae": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リュウキュウサンショウクイ。もとは南西諸島の鳥でしたが、近年関東でも観察されるようになった南方系の小鳥。「ヒリリリ」と細い声で鳴きます。",
+      "habitat_hint": "雑木林、社寺林、街路樹、河川敷の樹林、明るい林縁。",
+      "finding_tips": "細い「ヒリリリ」鳴き声を頼りに樹冠を探します。サンショウクイより少し色が暗く、温暖化で分布が北上しています。"
+    },
+    "en": {
+      "summary": "Ryukyu Minivet, originally a Nansei-shoto bird now expanding north — recorded increasingly in Kanto. A high-pitched trilling call helps locate it.",
+      "habitat_hint": "Mixed woodland, shrine groves, street trees, riverside woods, and bright woodland edges.",
+      "finding_tips": "Follow a thin trilling call up into the canopy. Darker plumage than the nominate Ashy Minivet; range is shifting north with warming."
+    },
+    "zh": {
+      "summary": "琉球山椒鸟，原本是西南诸岛的鸟，随气候变暖近年向北扩展，关东也有记录。叫声细密颤抖。",
+      "habitat_hint": "杂木林、神社树林、行道树、河岸林、明亮林缘。",
+      "finding_tips": "沿细密颤鸣声扫视树冠。羽色比指名亚种山椒鸟更深，分布正北移。"
+    }
+  },
+  "Phellinus gilvus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメオオキトリ（暫定名）。黄褐色〜赤褐色の硬い多年生のキノコで、立ち枯れの広葉樹の幹に層をなしてつきます。",
+      "habitat_hint": "立ち枯れ広葉樹、倒木、神社の古木、雑木林の枯損木。",
+      "finding_tips": "立ち枯れの木の幹に黄褐色〜赤褐色の硬いキノコが層をなしてつき、複数年残るキノコを探します。"
+    },
+    "en": {
+      "summary": "Mustard Yellow Polypore, a hard perennial bracket fungus in shades of mustard to rusty brown. Forms long-lasting shelves on standing dead broadleaf trunks.",
+      "habitat_hint": "Standing dead broadleaf trees, logs, ancient shrine trees, and dying trees in mixed woodland.",
+      "finding_tips": "Look on standing dead trunks for hard yellow-brown to rusty-brown bracket fungi growing in tiered shelves — they persist for years."
+    },
+    "zh": {
+      "summary": "鲍姆木层孔菌，黄褐至铜褐色的多年生硬质多孔菌。常在立枯阔叶树干上层叠生长。",
+      "habitat_hint": "立枯阔叶树、倒木、神社古树、杂木林衰败木。",
+      "finding_tips": "在立枯树干上寻找层叠生长的黄褐至铜褐色硬菌，可存留多年。"
+    }
   }
 }
