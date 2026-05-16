@@ -60,7 +60,9 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
      - Beyond P13: 国営公園 (managed by 環境省 system, ~17 nationwide), 区立 nature observation gardens, 都市林 < 5 ha that are genuinely forested — would need manual curation or OSM `leisure=park`/`landuse=forest` cross-reference.
      - Many new P13 parks have no `official_url` — for these, only iNat/GBIF/eBird observations exist (no narrative scrape).
 
-3. **Reduce parking-unknown count (71 NULL)** — investigate per-page why classifier misses. Constraint: `団体予約のみ可` ≠ `公開駐車場あり`; must distinguish before loosening matching.
+3. **Reduce parking-unknown count** *(2026-05-16, shipped)*
+   - ✅ `scripts/osm_parking.py` (`6a9ca7d`): for any park with NULL `has_parking` and known coords, probes OSM Overpass for `amenity=parking` within 300 m of the centre point. Rejects private/disused entries. Caches per (lat, lon, radius). After full run: NULL 318 → 0 (140→363 has=1, 24→119 has=0). 3 parenthesised-name TMG parks were manually marked YES because Nominatim couldn't geocode them.
+   - Pre-existing `scripts/extract_parking.py` still handles the 団体予約 / 障害者専用 etc. distinctions on official park pages; OSM is the catch-all for everything else.
 
 4. **いきものログ ingest (env.go.jp)** — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience. (eBird + GBIF already shipped; FishBase/MushroomObserver/Pl@ntNet evaluated and skipped.)
 
@@ -85,6 +87,10 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
      - Could add Flickr/GBIF media as a 3rd hero source for taxa with neither iNat nor Commons coverage.
 
 ## Recent sessions
+
+### 2026-05-16 (Claude) — TODO #3 parking-unknown closed
+- Added `scripts/osm_parking.py` using OSM Overpass `amenity=parking` within 300 m. Replaces and outscales the per-page scrape approach: it handles both the 45 curated NULLs *and* the 273 P13 parks (no `official_url`) in one pass.
+- Re-ran `scripts/geocode.py` first to fill 14 missing coordinates that had been blocking the OSM query. Manual UPDATE for the 3 final parks whose parenthesised Japanese names defeat Nominatim. NULL count 318 → 0. Commit `6a9ca7d`.
 
 ### 2026-05-16 (Claude) — TODO #7 photo quality + attribution
 - Added `scripts/repopulate_species_photos.py` — pure-local rebuild from cached iNat data with diversity dedup `(user, day)` / `(user, week, ~1km)`, CC-license filter, 5→6 target. 34,979 iNat rows for 6,229 species.
