@@ -8874,5 +8874,167 @@
       "habitat_hint": "林缘、河滩、住宅绿篱、神社境内、灌木顶。",
       "finding_tips": "在叶上找翅如鳖甲、立帐篷状静伏的小型昆虫。叶面拟态独特。"
     }
+  },
+  "Phragmites australis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨシ（アシ）。水辺で大群落を作る大型のイネ科多年草。秋の風になびく姿が「葦原」として日本の原風景の一つです。多くの水生生物の住処になります。",
+      "habitat_hint": "湿地、河川の岸辺、池の縁、河口、塩性湿地。",
+      "finding_tips": "夏〜秋、人の背丈を超える大型のイネ科で、銀白色〜淡褐色の大型の花穂を立てる場所を探します。冬は枯れたヨシ原がオオヨシキリやセッカの繁殖地として重要です。"
+    },
+    "en": {
+      "summary": "Common Reed. A tall perennial grass that forms vast 'reedbed' colonies along water. A defining Japanese landscape; reedbeds host many aquatic species.",
+      "habitat_hint": "Wetlands, riverbanks, pond margins, estuaries, and salt marshes.",
+      "finding_tips": "In summer and autumn look for tall (over human height) grass colonies with silvery-brown plumes. Reedbeds are crucial breeding habitat for Reed Warbler and Zitting Cisticola."
+    },
+    "zh": {
+      "summary": "芦苇，水边形成大片群落的大型禾本科多年生草。是日本传统景观『芦原』。芦苇丛是众多水生生物的栖息地。",
+      "habitat_hint": "湿地、河岸、池边、河口、盐沼。",
+      "finding_tips": "夏秋找超过人高、抽银白褐色大型花穗的禾本科群落。芦苇丛是东方大苇莺与棕扇尾莺的重要繁殖地。"
+    }
+  },
+  "Bombycilla japonica": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒレンジャク。冬鳥として渡来する華やかな小鳥。頭の冠羽と尾の赤い帯が美しく、群れでヤドリギなどの実を食べに来ます。",
+      "habitat_hint": "雑木林、社寺林、街路樹、ヤドリギのある樹木、河川敷の樹林。",
+      "finding_tips": "11〜3月、群れで樹冠を移動する華やかな小鳥を探します。頭の冠羽、尾の赤い帯、お腹のクリーム色が組み合わさった姿は他に類を見ません。"
+    },
+    "en": {
+      "summary": "Japanese Waxwing, a flamboyant wintering songbird. A crested head and a red-tipped tail give it a unique silhouette; flocks feed on mistletoe and other berries.",
+      "habitat_hint": "Mixed woodland, shrine groves, street trees, mistletoe-bearing trees, and riverside woods.",
+      "finding_tips": "From November to March watch for flocks moving through tree tops. The crest, red tail tip, and creamy underparts are unmistakable."
+    },
+    "zh": {
+      "summary": "小太平鸟（日本太平鸟），冬季渡来。头顶冠羽配尾末红带，组合独特。常成群取食槲寄生等浆果。",
+      "habitat_hint": "杂木林、神社树林、行道树、有槲寄生的树木、河岸林。",
+      "finding_tips": "11月至3月观察树冠成群移动的小鸟。冠羽配红尾带、奶白腹的组合独一无二。"
+    }
+  },
+  "Tenodera angustipennis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チョウセンカマキリ。前胸がオオカマキリより短いことが特徴の中〜大型カマキリ。日本に普通に見られるカマキリの一つです。",
+      "habitat_hint": "草地、低木のある林縁、家庭菜園、河川敷、雑木林の下草。",
+      "finding_tips": "オオカマキリと似ますが、前胸（頭の後ろの細長い部分）が明らかに短いのが識別点。秋には卵鞘を枝に産み付けます。"
+    },
+    "en": {
+      "summary": "Narrow-winged Mantis. Smaller pronotum than the Japanese Giant Mantis is the key distinguishing feature. One of Japan's common mantis species.",
+      "habitat_hint": "Grassland, shrubby woodland edges, gardens, riverbanks, and woodland understory.",
+      "finding_tips": "Similar to Tenodera sinensis/aridifolia but with a notably shorter pronotum. Autumn egg cases are laid on twigs."
+    },
+    "zh": {
+      "summary": "狭翅大刀螳（朝鲜螳螂），与日本巨型螳螂相似但前胸明显较短，是辨识要点。日本常见螳螂之一。",
+      "habitat_hint": "草地、灌丛林缘、家庭菜园、河滩、林下草。",
+      "finding_tips": "和日本巨型螳螂相似但前胸短。秋季产卵鞘于枝上。"
+    }
+  },
+  "Taraxacum albidum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロバナタンポポ。在来種の白い花を咲かせるタンポポ。本州西部以南で多く、近年は関東でも観察されます。",
+      "habitat_hint": "農地、河川敷、空き地、農地の縁、明るい斜面。",
+      "finding_tips": "3〜5月、白い〜淡黄色の頭花を持つタンポポを探します。総苞片が反り返らない（在来種の特徴）点も確認してください。"
+    },
+    "en": {
+      "summary": "Japanese White Dandelion, a native dandelion with white-to-pale-yellow flowers. Most common in western Honshu but now seen in Kanto too.",
+      "habitat_hint": "Farmland, riverbanks, vacant lots, field margins, and bright slopes.",
+      "finding_tips": "From March to May find a dandelion with white-to-pale-yellow flowers. As with other natives, the bracts at the flower base do not curl down."
+    },
+    "zh": {
+      "summary": "白花蒲公英，本土开白色花的蒲公英。本州西部以南更常见，近年关东也有记录。",
+      "habitat_hint": "农田、河滩、空地、田边、明亮斜坡。",
+      "finding_tips": "三至五月寻找开白至浅黄色花的蒲公英。花基总苞片不反折也是本土种特征。"
+    }
+  },
+  "Camponotus vitiosus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウメマツオオアリ。中型のオオアリの仲間で、樹木の幹や枯れ木の中で巣を作ります。クロオオアリより小型です。",
+      "habitat_hint": "雑木林、神社の樹幹、朽ち木、樹皮の隙間、湿った地面。",
+      "finding_tips": "樹幹を行き来する黒っぽい中型のアリを探します。クロオオアリより小型で、樹上での活動が多いのが特徴です。"
+    },
+    "en": {
+      "summary": "A medium carpenter ant that nests in tree trunks and rotting wood. Smaller than the Japanese Carpenter Ant.",
+      "habitat_hint": "Mixed woodland, shrine tree trunks, rotting wood, bark crevices, and damp ground.",
+      "finding_tips": "Look on trunks for medium-sized dark ants. Smaller than the Japanese Carpenter Ant and more arboreal."
+    },
+    "zh": {
+      "summary": "梅松大蚁，中型弓背蚁。在树干和朽木中筑巢，比日本弓背蚁小，更多树栖。",
+      "habitat_hint": "杂木林、神社树干、朽木、树皮缝、潮湿地面。",
+      "finding_tips": "在树干找中型深色蚂蚁。比日本弓背蚁小，且更多在树上活动。"
+    }
+  },
+  "Arge similis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ルリチュウレンジ。鮮やかな瑠璃色の体に黒い翅のハバチ類。幼虫がツツジ類の葉を食害し、集団で発生することがあります。",
+      "habitat_hint": "ツツジの植え込み、公園、神社の境内、家庭菜園、住宅地の生け垣。",
+      "finding_tips": "ツツジの葉の上で瑠璃色の体に黒い翅の細長いハチに似た虫を探します。幼虫は黄緑色で、集団で葉を食害します。"
+    },
+    "en": {
+      "summary": "Azalea Sawfly. A sawfly with a brilliant blue body and dark wings. Larvae defoliate azaleas, often in groups.",
+      "habitat_hint": "Azalea plantings, parks, shrine grounds, kitchen gardens, and residential hedges.",
+      "finding_tips": "On azalea leaves look for a slender wasp-like insect with a bright blue body. Yellow-green larvae feed in groups on the leaves."
+    },
+    "zh": {
+      "summary": "杜鹃叶蜂（蓝身锯腹叶蜂），鲜艳琉璃蓝体配黑色翅。幼虫食杜鹃花叶，常成群。",
+      "habitat_hint": "杜鹃花植被、公园、神社境内、家庭菜园、住宅区绿篱。",
+      "finding_tips": "在杜鹃花叶上找细长拟蜂、体亮蓝的昆虫。黄绿色幼虫成群食叶。"
+    }
+  },
+  "Eupromus ruber": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホシベニカミキリ。鮮やかな赤色の体に黒い斑点が散らばる美しい中型のカミキリムシ。タブノキを食樹とし、海岸近くで見られます。",
+      "habitat_hint": "海岸近くの林、タブノキのある雑木林、神社の境内、社寺林。",
+      "finding_tips": "夏、タブノキの幹や葉の上で赤い体に黒い斑のカミキリを探します。色彩が非常に鮮やかで見逃しにくいです。"
+    },
+    "en": {
+      "summary": "A striking medium longhorn beetle — vivid red body with scattered black spots. Larvae use Machilus (red machilus) trees; usually seen near coasts.",
+      "habitat_hint": "Coastal woods, mixed woodland with Machilus, shrine grounds, and shrine groves.",
+      "finding_tips": "In summer search Machilus trunks and leaves for a beetle with a vivid red body and black spots. Hard to miss when present."
+    },
+    "zh": {
+      "summary": "红星天牛，体色鲜红配黑色斑点的中型天牛。幼虫食红楠，多见于海岸附近。",
+      "habitat_hint": "近海林、有红楠的杂木林、神社境内、神社树林。",
+      "finding_tips": "夏季在红楠树干与叶上找鲜红体配黑斑的天牛。色彩鲜明，遇见极易识。"
+    }
+  },
+  "Phegopteris decursive-pinnata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゲジゲジシダ。湿った林床に生える中型のシダ。葉軸に翼があり、葉の基部の小羽片が下に向かって徐々に小さくなる独特の姿です。",
+      "habitat_hint": "湿った林床、谷沿いの林、神社の境内、半日陰の斜面、河川敷の林。",
+      "finding_tips": "葉軸に明瞭な翼があり、葉の下部に向かって小羽片が小さくなる中型シダを探します。湿った場所で群生します。"
+    },
+    "en": {
+      "summary": "A medium fern of damp forest floor. The winged rachis and the gradual reduction of basal pinnae make a distinctive silhouette.",
+      "habitat_hint": "Damp forest floor, valley woods, shrine grounds, shaded slopes, and riverside woods.",
+      "finding_tips": "Look for a medium fern with a clearly winged rachis whose lowermost pinnae shrink toward the stem base. Often colonial in damp places."
+    },
+    "zh": {
+      "summary": "延羽卵果蕨，潮湿林床的中型蕨。叶轴具翼，基部小羽片向下渐变小，轮廓独特。",
+      "habitat_hint": "潮湿林床、谷地林、神社境内、半阴斜坡、河岸林。",
+      "finding_tips": "找叶轴具明显翼、基部羽片向下渐缩的中型蕨。常成片于潮湿处。"
+    }
+  },
+  "Aeolesthes chrysothrix": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キマダラカミキリ。黒い体に金色の毛が密集して斑紋を作る大型のカミキリムシ。サクラなどを食樹とし、夜の街灯に飛来します。",
+      "habitat_hint": "サクラ・クヌギなどの広葉樹林、果樹園、神社の境内、夜の街灯。",
+      "finding_tips": "夜、街灯に集まる大型のカミキリを探します。金色の毛による独特の斑模様が遠目にも目立ちます。"
+    },
+    "en": {
+      "summary": "A large longhorn beetle whose body is decorated with patches of golden hair. Larvae use cherry and oak; adults come to lights at night.",
+      "habitat_hint": "Cherry and oak woodland, orchards, shrine grounds, and around streetlights at night.",
+      "finding_tips": "At night search streetlights for a large longhorn beetle. The patches of gold hair are striking even at a distance."
+    },
+    "zh": {
+      "summary": "金黄毛天牛，大型天牛，体被金色毛形成独特斑。幼虫食樱花和栎类，成虫趋光。",
+      "habitat_hint": "樱花栎类阔叶林、果园、神社境内、夜灯下。",
+      "finding_tips": "夜里在路灯下找大型天牛。金色毛斑远观即显眼。"
+    }
   }
 }
