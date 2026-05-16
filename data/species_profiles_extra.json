@@ -1,0 +1,507 @@
+{
+  "Fulica atra": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "黒い体に白いくちばしと額が目立つ水鳥です。都市公園の池でもよく見られ、潜って水草などを食べます。",
+      "habitat_hint": "池、湖、流れのゆるい川、ハスやヨシのある水辺。",
+      "finding_tips": "池の中央や岸近くを泳ぐ黒い水鳥を探します。額の白い「板」とオオバンと書く名前の通り、しっかり見ると白い額がはっきりわかります。"
+    },
+    "en": {
+      "summary": "A black waterbird with a striking white bill and frontal shield. Common on urban park ponds where it dives for water plants.",
+      "habitat_hint": "Ponds, lakes, slow rivers, and water edges with lotus or reeds.",
+      "finding_tips": "Scan open water for a black duck-like bird. The white shield on the forehead is diagnostic at any distance."
+    },
+    "zh": {
+      "summary": "黑色身体配亮白色喙和额甲的水鸟，城市公园池塘也常见，会潜水取食水草。",
+      "habitat_hint": "池塘、湖泊、缓流河段、有荷花或芦苇的水边。",
+      "finding_tips": "在开阔水面寻找像鸭子的黑色水鸟。白色额甲是任何距离都能确认的关键特征。"
+    }
+  },
+  "Motacilla grandis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "日本固有のセキレイで、ハクセキレイより背中の黒い面積が広く、顔の白い「眉」が短いのが特徴です。",
+      "habitat_hint": "渓流、岸辺の石が露出する川、湿った草地、公園内の水辺。",
+      "finding_tips": "水辺の石の上を歩いたり、尾を上下に振る姿を探します。地味なハクセキレイと混在しやすいので、顔の白黒パターンを確認してください。"
+    },
+    "en": {
+      "summary": "A Japan-endemic wagtail with more black on the back than the common White Wagtail and a shorter white supercilium.",
+      "habitat_hint": "Pebbly stream beds, rocky riversides, damp lawns, and waterside areas in parks.",
+      "finding_tips": "Look for a wagtail walking on stones along streams and tail-bobbing. Check the face pattern carefully — black-and-white face but a small white eyebrow."
+    },
+    "zh": {
+      "summary": "日本特有的鹡鸰，背部黑色面积比白鹡鸰更多，脸上白色眉纹更短。",
+      "habitat_hint": "溪流、有露石的河岸、潮湿草地、公园水边。",
+      "finding_tips": "在水边石头上行走、不断摆尾的鹡鸰即是。和白鹡鸰相似，注意脸部黑白图案——白眉短而不完整。"
+    }
+  },
+  "Aegithalos caudatus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "白くて丸い体に長い尾をもつ小鳥。冬は小群で「ジュリジュリ」と鳴きながら樹間を移動します。",
+      "habitat_hint": "雑木林、林縁、街中の街路樹、針葉樹と落葉樹が混じる場所。",
+      "finding_tips": "「チリチリ」「ジュリジュリ」と鈴を振るような声を頼りに上方を探します。動きが速いので、声で位置を絞ってから視線を向けるとよいです。"
+    },
+    "en": {
+      "summary": "A tiny, almost spherical bird with a very long tail. In winter it moves through trees in small chattering flocks.",
+      "habitat_hint": "Mixed woodland, woodland edges, street trees, and areas where conifers meet deciduous trees.",
+      "finding_tips": "Listen for high-pitched 'tsri-tsri' chattering and look up. They are fast, so locate by sound first, then watch the branch tips."
+    },
+    "zh": {
+      "summary": "身体几乎呈圆球状的小鸟，配很长的尾巴。冬季常以小群在树间一边发出铃铛般的叫声一边移动。",
+      "habitat_hint": "杂木林、林缘、街道行道树、针阔叶混交的地方。",
+      "finding_tips": "先听到细碎的『叽-叽』叫声，再抬头寻找。它们动作很快，先用声音锁定位置再观察枝梢比较容易。"
+    }
+  },
+  "Turdus pallidus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "冬鳥として渡来するツグミの仲間。落ち葉の中を歩き、ミミズや木の実を食べます。",
+      "habitat_hint": "雑木林の林床、落ち葉のたまる地面、実のなる低木の周辺。",
+      "finding_tips": "晩秋〜春先に林床で「ガサッ」と落ち葉をかき分ける音を頼りに探します。お腹は灰白色で、地味な色のため動きを目印に。"
+    },
+    "en": {
+      "summary": "A wintering thrush that walks through leaf litter, feeding on earthworms and berries.",
+      "habitat_hint": "Woodland floor, leaf-littered ground, and around fruiting shrubs.",
+      "finding_tips": "From late autumn to early spring, listen for the rustle of a bird turning over leaves. The pale grey-white belly distinguishes it from other thrushes."
+    },
+    "zh": {
+      "summary": "冬季渡来的鸫，习惯在落叶层中翻找蚯蚓和浆果。",
+      "habitat_hint": "杂木林林床、堆积落叶的地面、结果灌木周围。",
+      "finding_tips": "晚秋至早春，听到落叶翻动声后再寻找。腹部灰白是和其他鸫属的关键区别。"
+    }
+  },
+  "Mareca penelope": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "冬の池に多いカモ。雄は頭が赤褐色で額がクリーム色、口笛のような甲高い「ピューピュー」という声でよく目立ちます。",
+      "habitat_hint": "池、湖、河口、水面が広く岸辺に草地が続く水辺。",
+      "finding_tips": "雄の赤褐色の頭+クリーム色の額を探します。声が独特なので、姿が見えなくても声で在不在を判定できます。"
+    },
+    "en": {
+      "summary": "A common wintering duck. The drake has a chestnut head and pale cream forehead, and gives a far-carrying whistled 'wheeoo' call.",
+      "habitat_hint": "Ponds, lakes, estuaries, and waterbodies fringed with grassland.",
+      "finding_tips": "Look for the male's chestnut head and cream forehead. The whistled call is so distinctive you can confirm presence without seeing the birds."
+    },
+    "zh": {
+      "summary": "冬季常见的鸭类。雄鸟头部栗红、额头奶黄，叫声为独特的口哨般『嘘——嘘』声，远处也能听到。",
+      "habitat_hint": "池塘、湖泊、河口、岸边有草地的开阔水域。",
+      "finding_tips": "找雄鸟栗红色头部加奶黄色额头。哨声辨识度极高，不见鸟也能判断在不在。"
+    }
+  },
+  "Tachybaptus ruficollis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "公園の池に最も普通の小型カイツブリ。潜水が得意で、現れる場所が予測しにくいのも魅力です。",
+      "habitat_hint": "池、湖、湿地、ヨシ原が縁にある水面。",
+      "finding_tips": "茶色っぽくずんぐりした水鳥が潜って消えたら、20〜30秒後に少し離れた場所に浮上することが多いです。"
+    },
+    "en": {
+      "summary": "The smallest grebe and a familiar sight on park ponds. An expert diver — half the fun is guessing where it will resurface.",
+      "habitat_hint": "Ponds, lakes, wetlands, and water with a reedy fringe.",
+      "finding_tips": "If a stubby brown waterbird dives, watch for 20–30 seconds — it usually pops up somewhere unexpected."
+    },
+    "zh": {
+      "summary": "公园池塘最常见的小型䴙䴘。擅长潜水，浮出位置难以预料正是观察乐趣所在。",
+      "habitat_hint": "池塘、湖泊、湿地、岸边有芦苇的水域。",
+      "finding_tips": "看到棕褐色矮胖的水鸟潜入水里后，等 20–30 秒，它通常会在出乎意料的位置浮出。"
+    }
+  },
+  "Monticola solitarius": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "もとは岩場の鳥でしたが、現在は都市の建物や河川敷でもよく見られます。雄は鮮やかな青い体色とレンガ色の腹。",
+      "habitat_hint": "海岸の岩場、河川敷の橋やコンクリート構造物、ビル屋上、駐車場の縁。",
+      "finding_tips": "高い場所に止まり、開けた場所を見渡す姿を探します。雄は青+赤、雌は地味な褐色で胸に細かい模様。"
+    },
+    "en": {
+      "summary": "Originally a coastal rock specialist, now also a familiar bird of urban buildings and riverbanks. Males have a vivid blue body and brick-red belly.",
+      "habitat_hint": "Sea cliffs, bridges and concrete structures along rivers, rooftops, and parking-lot edges.",
+      "finding_tips": "Look for a bird perched high, scanning open ground. Males are blue and red; females are scaly brown — both prefer exposed perches."
+    },
+    "zh": {
+      "summary": "原本是海岸岩石的鸟类，如今城市建筑和河岸也很常见。雄鸟身体鲜蓝、腹部砖红。",
+      "habitat_hint": "海岸岩石、河岸的桥梁与水泥结构、楼顶、停车场边缘。",
+      "finding_tips": "寻找停在高处、俯视开阔地的鸟。雄鸟蓝加红，雌鸟为带细纹的褐色，都偏爱视野开阔的栖位。"
+    }
+  },
+  "Anas acuta": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "首が長く尾の中央が細く伸びた優雅なカモ。冬の池や河口に渡来し、岸辺で休んでいることが多いです。",
+      "habitat_hint": "広い池、河口、湖、見通しのよい水面。",
+      "finding_tips": "他のカモより首が長く、雄は細く尖った尾羽が目印。群れの中で輪郭が違うものを探します。"
+    },
+    "en": {
+      "summary": "An elegant duck with a slim neck and a long, needle-like central tail in males. Winters on large ponds and estuaries.",
+      "habitat_hint": "Large ponds, estuaries, lakes, and open water.",
+      "finding_tips": "Compared to other ducks, the neck looks longer; males show a sharp pointed tail. In mixed flocks look for the silhouette that 'sticks out'."
+    },
+    "zh": {
+      "summary": "颈细长、雄鸟中央尾羽尖长的优雅鸭。冬季渡来于较大水域和河口，常在岸边休息。",
+      "habitat_hint": "大池塘、河口、湖泊、开阔水面。",
+      "finding_tips": "和其他鸭子相比颈部明显更长，雄鸟尾羽细尖。在混群中寻找轮廓与众不同的个体。"
+    }
+  },
+  "Poecile varius": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "頭が黒く頬と腹がレンガ色のかわいいカラ類。落葉広葉樹林を好み、ドングリなどを蓄える習性があります。",
+      "habitat_hint": "雑木林、コナラやシイの林、林縁、巣箱や枯れ枝の多い場所。",
+      "finding_tips": "他のシジュウカラ類と混群でいることが多いです。頬と腹の暖かいレンガ色を確認してください。声は「ニーニー」と鼻にかかる音。"
+    },
+    "en": {
+      "summary": "A handsome tit with a black head, chestnut cheeks and belly. Prefers broadleaf forest and caches acorns and seeds.",
+      "habitat_hint": "Mixed woodland, oak forest, woodland edges, and places with nest boxes or dead branches.",
+      "finding_tips": "Usually joins mixed flocks with other tits. Confirm the warm chestnut cheek and belly. The nasal 'tsiii-tsiii' call is distinctive."
+    },
+    "zh": {
+      "summary": "头黑、脸颊和腹部为砖红色的小巧山雀，偏爱阔叶林，会储藏橡子等坚果。",
+      "habitat_hint": "杂木林、栎树或栲树林、林缘、有巢箱或枯枝的地方。",
+      "finding_tips": "常与其他山雀混群。要确认温暖的栗红色脸颊与腹部。叫声为带鼻音的『泥-泥』声。"
+    }
+  },
+  "Aythya fuligula": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "黒と白のコントラストが目立つ潜水ガモ。雄の頭部後方にある冠羽（マゲ）が名前の由来です。",
+      "habitat_hint": "深さのある池、湖、ダム湖、河口。",
+      "finding_tips": "群れで潜水を繰り返す姿を探します。雄は白い脇腹と黒い背中、雌は全体に茶色で頭後ろが少し膨らみます。"
+    },
+    "en": {
+      "summary": "A diving duck with striking black-and-white contrast. The male's drooping crest behind the head gives the species its name.",
+      "habitat_hint": "Deeper ponds, lakes, reservoirs, and estuaries.",
+      "finding_tips": "Look for groups diving in unison. Males show clean white flanks against a black back; females are warm brown with a slight bump on the rear crown."
+    },
+    "zh": {
+      "summary": "潜水鸭的一种，黑白对比强烈，雄鸟脑后的下垂冠羽（即『凤头』）是命名由来。",
+      "habitat_hint": "较深的池塘、湖泊、水库、河口。",
+      "finding_tips": "找成群反复潜水的鸭子。雄鸟白色胁部配黑色背部，雌鸟整体棕色但脑后略凸。"
+    }
+  },
+  "Coccothraustes coccothraustes": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ずんぐりした体形と非常に太いくちばしが目立つ大型のアトリ類。固い種子も砕ける強力なくちばしが特徴です。",
+      "habitat_hint": "落葉広葉樹林、エノキやムクノキのある林、林縁、明るい雑木林。",
+      "finding_tips": "「チチッ」という鋭い声を頼りに、樹冠を探します。地上に降りて種子を食べていることもあるので、足元の落ち葉も観察してください。"
+    },
+    "en": {
+      "summary": "A large, chunky finch with an enormous bill that can crack hard seeds. The silhouette alone is distinctive among forest finches.",
+      "habitat_hint": "Broadleaf woodland, woods with hackberry or zelkova, woodland edges, and bright mixed forest.",
+      "finding_tips": "Listen for a sharp metallic 'tsick' and scan the canopy. They also feed on the ground, so check leaf litter too."
+    },
+    "zh": {
+      "summary": "体形矮胖、喙非常粗大的雀，能咬碎坚硬种子。粗大的喙是它在林鸟中的辨识标志。",
+      "habitat_hint": "落叶阔叶林、有朴树或榉树的林子、林缘、明亮的杂木林。",
+      "finding_tips": "听到尖锐的『叽-』声后，扫视树冠寻找。它们也会下到地面取食，落叶层也值得留意。"
+    }
+  },
+  "Aythya ferina": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "雄の赤褐色の頭と灰白色の体が美しい潜水ガモ。冬の池や湖で群れていることが多いです。",
+      "habitat_hint": "広い池、湖、ダム湖、しずかな河口。",
+      "finding_tips": "雄は遠目にも頭の赤褐色がよく目立ちます。キンクロハジロと混群になることも多いので、頭の色で見分けてください。"
+    },
+    "en": {
+      "summary": "A diving duck whose male has a chestnut head and pale grey body. Often flocks on lakes in winter.",
+      "habitat_hint": "Large ponds, lakes, reservoirs, and calm estuaries.",
+      "finding_tips": "The male's chestnut head shows from a distance. They often mix with Tufted Ducks — use head colour to separate them."
+    },
+    "zh": {
+      "summary": "潜水鸭，雄鸟头部栗红、体侧灰白，组合很美。冬季多在湖池中成群。",
+      "habitat_hint": "较大的池塘、湖泊、水库、平静河口。",
+      "finding_tips": "雄鸟栗红色头部远处也很显眼。常与凤头潜鸭混群，可用头色区分。"
+    }
+  },
+  "Motacilla cinerea": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "黄色いお腹と長い尾が目立つセキレイ。渓流や水辺を好み、岩から岩へ尾を振りながら移動します。",
+      "habitat_hint": "渓流、岩のある川、小川、湿った林の縁、公園の人工水路。",
+      "finding_tips": "黄色いお腹+長い尾+尾振りでほぼ確定。背中は灰色なので、ハクセキレイより細身に見えます。"
+    },
+    "en": {
+      "summary": "A wagtail with a bright yellow belly and a notably long tail. Favours stony streams and waterside habitats.",
+      "habitat_hint": "Mountain streams, rocky rivers, brooks, damp woodland edges, and ornamental water channels.",
+      "finding_tips": "Yellow belly plus very long tail plus the wagtail bob is diagnostic. The grey back makes it look slimmer than the White Wagtail."
+    },
+    "zh": {
+      "summary": "腹部鲜黄、尾巴特长的鹡鸰。喜溪流和水边，在岩石间一边摆尾一边移动。",
+      "habitat_hint": "山溪、有岩石的河流、小溪、潮湿林缘、公园的人工水道。",
+      "finding_tips": "黄腹 + 长尾 + 摆尾动作几乎可以确认。背为灰色，比白鹡鸰显得更纤细。"
+    }
+  },
+  "Orthetrum albistylum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "腹部に白い粉を吹いたような色合いの大型トンボ。池や湿地の周辺で枝先や石の上に止まる姿が目立ちます。",
+      "habitat_hint": "池、湿地、用水路、開けた水辺、水際の草地。",
+      "finding_tips": "成熟した雄は腹部全体に白い粉。止まる場所が決まっていることが多いので、飛び去っても少し待つと同じ場所に戻ります。"
+    },
+    "en": {
+      "summary": "A large dragonfly whose mature males look powdery-blue along the abdomen. Often perches on twigs or stones near water.",
+      "habitat_hint": "Ponds, wetlands, irrigation ditches, open water edges, and waterside grasslands.",
+      "finding_tips": "Mature males have a heavily pruinose, almost white abdomen. They tend to use favourite perches — wait after one flies off and it may return."
+    },
+    "zh": {
+      "summary": "大型蜻蜓，成熟雄虫腹部覆盖白色粉霜。常在池塘湿地附近的枝梢或石头上停歇。",
+      "habitat_hint": "池塘、湿地、灌溉沟、开阔水边、岸边草地。",
+      "finding_tips": "成熟雄虫腹部明显发白。它们偏爱固定停歇位，飞走后稍等可能会回到同一处。"
+    }
+  },
+  "Emberiza cioides": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "頬の白黒模様が美しいホオジロ科の鳥。明るい草地や林縁を好み、よくさえずります。",
+      "habitat_hint": "草地、林縁、河川敷、低木混じりの斜面、明るい開放地。",
+      "finding_tips": "高い枝や草の先で「チョッピーチリリ」とさえずる姿を探します。地上で種子を拾うことも多く、地味な茶色なので動きで気づきやすいです。"
+    },
+    "en": {
+      "summary": "A bunting with a striking black-and-white face pattern. Prefers open grass and forest edges and sings often from exposed perches.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks, scrubby slopes, and bright open ground.",
+      "finding_tips": "Listen for a cheerful song from the top of a twig or tall grass. They also feed on the ground — movement is easier to spot than colour."
+    },
+    "zh": {
+      "summary": "脸部黑白图案醒目的鹀。喜爱明亮的草地和林缘，喜欢高声鸣唱。",
+      "habitat_hint": "草地、林缘、河滩、有灌木的斜坡、明亮的开放地。",
+      "finding_tips": "听到从枝梢或草尖传来的清脆鸣唱后再寻找。它们也在地面取食，整体棕色不明显，先看动作较快。"
+    }
+  },
+  "Actitis hypoleucos": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "小型のシギで、尾を上下に振る癖が特徴的。冬から春先にかけて、池や川の岸辺で見られます。",
+      "habitat_hint": "池の岸、川岸、湿地、河口、流れのあるコンクリート護岸。",
+      "finding_tips": "水辺で歩きながら尾を上下に振る小鳥がいたらほぼイソシギ。低く飛び、白い翼帯がチラチラ見えます。"
+    },
+    "en": {
+      "summary": "A small sandpiper with a constant tail-bobbing habit. Often seen on park pond margins and streamsides from winter into early spring.",
+      "habitat_hint": "Pond edges, riverbanks, wetlands, estuaries, and even concrete-lined streams.",
+      "finding_tips": "A small bird that walks while bobbing its rear end is almost certainly this species. In flight it shows a flickering white wing-bar."
+    },
+    "zh": {
+      "summary": "小型鹬，习惯不断点尾。冬季到早春常见于池岸、河边。",
+      "habitat_hint": "池塘岸边、河岸、湿地、河口、甚至混凝土水道。",
+      "finding_tips": "水边小鸟边走边不停点尾，基本就是它。低飞时翅上能瞥见闪烁的白带。"
+    }
+  },
+  "Buteo japonicus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "茶色く中型の身近なタカ。河川敷や農耕地で、電柱の上などで獲物を待つ姿がよく見られます。",
+      "habitat_hint": "河川敷、田畑、雑木林の縁、電柱や鉄塔のある開けた場所。",
+      "finding_tips": "電柱や枯れ枝に止まる「茶色いタカ」を探します。飛ぶと翼下面の黒帯と白っぽい色がよく目立ちます。"
+    },
+    "en": {
+      "summary": "A medium-sized brown buzzard, often the most familiar raptor along rivers and farmland. Frequently perches on poles to scan for prey.",
+      "habitat_hint": "Riverbanks, farmland, woodland edges, and open ground with poles or pylons.",
+      "finding_tips": "Look for a brown hawk-shape on a pole. In flight, the dark wrist patch on a pale underwing is a key field mark."
+    },
+    "zh": {
+      "summary": "中型棕色猛禽，在河滩和农田最常见。常停在电线杆上守望猎物。",
+      "habitat_hint": "河滩、农田、林缘、有电杆或铁塔的开阔地。",
+      "finding_tips": "在电杆或枯枝上找棕色鹰形剪影。飞行时翅下偏白带深色腕斑是关键识别点。"
+    }
+  },
+  "Hestina assimilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "外来種のチョウで、もとは中国・朝鮮半島産。エノキを食樹とし、近年関東で広がっています。在来種のゴマダラチョウを圧迫する点で注目されます。",
+      "habitat_hint": "エノキのある林縁、雑木林、公園の樹冠、開けた園路。",
+      "finding_tips": "白地に黒い模様+赤い斑点があるチョウ。樹液や腐果に集まることが多いので、エノキやクヌギの幹を見てください。"
+    },
+    "en": {
+      "summary": "An invasive nymphalid butterfly originally from China and Korea. Its larvae use hackberry, and the species has been spreading in the Kanto region — a conservation concern as it competes with native Hestina species.",
+      "habitat_hint": "Woodland edges with hackberry, mixed woods, park canopies, and open paths.",
+      "finding_tips": "Black-and-white wings with red spots. Often gathers on tree sap or rotten fruit, so check hackberry and oak trunks."
+    },
+    "zh": {
+      "summary": "外来蝶种，原产中国和朝鲜半岛。幼虫食朴树，近年在关东扩散，已成为对本地白蛱蝶具有竞争压力的关注物种。",
+      "habitat_hint": "有朴树的林缘、杂木林、公园树冠、开阔园路。",
+      "finding_tips": "白底黑纹加红色斑点的蝶。常在树液或腐果上聚集，可在朴树、麻栎等树干寻找。"
+    }
+  },
+  "Garrulax canorus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "外来種の鳥で、もとは中国南部産。眼の白いリングと長い尾、よく通る歌声が特徴です。",
+      "habitat_hint": "丘陵地の藪、雑木林、河川敷の竹林、低木の繁茂する場所。",
+      "finding_tips": "薮の中から複雑な節回しのさえずりが聞こえたら本種の可能性が高いです。姿は警戒心が強く、葉影をすばやく動きます。"
+    },
+    "en": {
+      "summary": "An introduced thrush-like babbler originally from southern China. Marked by a white eye-ring and powerful song.",
+      "habitat_hint": "Hillside thickets, mixed woodland, bamboo along riverbanks, and dense shrubbery.",
+      "finding_tips": "A complex, varied song coming from inside dense scrub is often this species. The bird itself is shy — look for movement through leaves."
+    },
+    "zh": {
+      "summary": "外来种，原产中国南方。眼周白圈和复杂悠扬的歌声是辨识特征。",
+      "habitat_hint": "丘陵灌丛、杂木林、河岸竹林、茂密低木丛。",
+      "finding_tips": "听到灌丛深处传来曲折多变的鸣唱大概率就是它。鸟本身较害羞，要在叶影中找快速移动的身影。"
+    }
+  },
+  "Trachemys scripta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "外来種のミシシッピアカミミガメ。耳の位置に赤い線があり、池や川に広く定着しています。在来カメへの影響が懸念されます。",
+      "habitat_hint": "池、湖、流れのゆるい川、護岸の隙間、水辺の石や倒木の上。",
+      "finding_tips": "晴れた日に、池の岸や水面に出た丸太・石の上で甲羅干しをしている姿を探します。複数頭が並んで日光浴することが多いです。"
+    },
+    "en": {
+      "summary": "The introduced Red-eared Slider. The red mark behind the eye is diagnostic. Established widely in ponds and rivers — a concern for native turtles.",
+      "habitat_hint": "Ponds, lakes, slow rivers, riprap crevices, and logs or rocks at the water's edge.",
+      "finding_tips": "On sunny days, scan logs and rocks at pond edges for turtles basking. They often line up several individuals on the same perch."
+    },
+    "zh": {
+      "summary": "外来种红耳龟（巴西龟）。耳后红色线纹是辨识标志，已广泛定殖于池塘河流，对本土龟类构成压力。",
+      "habitat_hint": "池塘、湖泊、缓流河段、堤岸石缝、水边的木桩或岩石。",
+      "finding_tips": "晴天时观察池岸的木桩或石头，常见多只在同一处晒甲。"
+    }
+  },
+  "Falco tinnunculus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホバリング（停空飛行）が得意な小型のハヤブサ類。河川敷やビル街の上空で見られます。",
+      "habitat_hint": "河川敷、農地、ビル屋上、開けた斜面、岩がちな高架構造物。",
+      "finding_tips": "空中で羽ばたきながら止まって獲物を探す姿（ホバリング）を見つけたら本種です。電柱や鉄塔の頂上にもよく止まります。"
+    },
+    "en": {
+      "summary": "A small falcon famous for hovering. Common over riverbanks and urban skylines in Japan.",
+      "habitat_hint": "Riverbanks, farmland, rooftops, open slopes, and rocky elevated structures.",
+      "finding_tips": "Watch the sky for a hovering raptor with rapid wingbeats — the hover almost always means this species. Also perches on poles and pylons."
+    },
+    "zh": {
+      "summary": "擅长悬停的小型隼。河滩与城市上空都能见到。",
+      "habitat_hint": "河滩、农田、楼顶、开阔斜坡、岩石或高架构造物。",
+      "finding_tips": "看到一只在空中快速振翅停悬寻找猎物的猛禽，几乎可以确定是红隼。也常停在电杆或铁塔顶端。"
+    }
+  },
+  "Coccinella septempunctata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "赤い体に黒い7つの星模様があるおなじみのテントウムシ。アブラムシを多く食べる益虫として知られます。",
+      "habitat_hint": "草地、畑の縁、低木のあるアブラムシが付く植物、河川敷。",
+      "finding_tips": "葉の裏や茎にアブラムシが集まる場所を探すと、成虫・幼虫・蛹のいずれかが見つかりやすいです。",
+      "sources": ["iNaturalist", "Wikipedia"]
+    },
+    "en": {
+      "summary": "The familiar Seven-spot Ladybird, red with seven black dots. An important predator of aphids.",
+      "habitat_hint": "Meadows, field margins, aphid-bearing plants in low growth, and riverbank vegetation.",
+      "finding_tips": "Search around clusters of aphids on undersides of leaves and along stems — adults, larvae, and pupae are usually together."
+    },
+    "zh": {
+      "summary": "熟悉的七星瓢虫，红底配七个黑点。是捕食蚜虫的重要益虫。",
+      "habitat_hint": "草地、田边、低矮的有蚜虫的植物、河滩植被。",
+      "finding_tips": "在叶背和茎部寻找蚜虫聚集处，常能同时找到成虫、幼虫和蛹。"
+    }
+  },
+  "Atractomorpha lata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "細長い緑色の体と尖った頭部が特徴のバッタ。雌の背中に小さな雄が乗っていることが多く、「オンブバッタ」の名前の由来です。",
+      "habitat_hint": "草地、芝生、畑の縁、雑草の繁る園路脇。",
+      "finding_tips": "草の中で雌の背に雄が乗っているペアを探します。明るい緑色のものと茶色っぽい褐色型の両方が見つかります。"
+    },
+    "en": {
+      "summary": "A slender green grasshopper with a pointed head. Females often carry small males on their backs — hence the Japanese name 'piggyback grasshopper'.",
+      "habitat_hint": "Grassland, lawns, field edges, and weedy path verges.",
+      "finding_tips": "Look low among grasses for paired insects with a smaller individual on top. Both bright green and brown forms occur."
+    },
+    "zh": {
+      "summary": "身体细长、头部尖的绿色蝗虫。雌虫常被较小的雄虫骑在背上，日文俗名因此叫『背负蝗虫』。",
+      "habitat_hint": "草地、草坪、田边、园路旁杂草丛。",
+      "finding_tips": "在草丛低处寻找一对成虫（小的在大的背上）。有亮绿色型和褐色型。"
+    }
+  },
+  "Nycticorax nycticorax": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "成鳥は頭・背が黒く、胸腹が白い、ずんぐりした夜行性のサギ。幼鳥は褐色で白い斑点が散らばります。",
+      "habitat_hint": "池、川、湿地、繁茂した水辺の樹木、河口。",
+      "finding_tips": "日中は林の中で寝ていることが多く、夕方に動き出します。「ガオッ」と短い濁った声で飛び去ることがあります。"
+    },
+    "en": {
+      "summary": "A stocky nocturnal heron — adults are black-and-white, juveniles brown with pale spots.",
+      "habitat_hint": "Ponds, streams, wetlands, leafy waterside trees, and estuaries.",
+      "finding_tips": "Roosts in trees by day; gets active at dusk. A short, guttural 'gawk' as it flies overhead at twilight is often the first clue."
+    },
+    "zh": {
+      "summary": "夜行性的矮胖鹭，成鸟头背黑、胸腹白；幼鸟褐色带白色斑点。",
+      "habitat_hint": "池塘、河流、湿地、岸边茂密树木、河口。",
+      "finding_tips": "白天在树林中休息，黄昏开始活动。傍晚听到短促的『嘎』声从头顶掠过，常是它的信号。"
+    }
+  },
+  "Parnara guttata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "草地や水田周辺で普通に見られる小型のセセリチョウ。翅にひし形の白い斑が並ぶのが目印です。",
+      "habitat_hint": "草地、水田、河川敷、芝生、イネ科植物の生える場所。",
+      "finding_tips": "草の上を素早く直線的に飛ぶ茶色いセセリチョウを探します。止まると翅を半開きにして日光浴することが多いです。"
+    },
+    "en": {
+      "summary": "A small skipper common around grass and rice paddies. Diagnostic rectangular white spots on the wings.",
+      "habitat_hint": "Grassland, rice paddies, riverbanks, lawns, and places with wild grasses.",
+      "finding_tips": "Look for a fast, straight-flying brown skipper over grass. When perched it often opens the wings halfway to bask."
+    },
+    "zh": {
+      "summary": "草地与水田周边常见的小型弄蝶。翅上排列方形白斑是识别要点。",
+      "habitat_hint": "草地、水田、河滩、草坪、有禾本科植物的地方。",
+      "finding_tips": "找在草丛上方笔直快速飞行的褐色弄蝶。停下时常半张翅膀晒太阳。"
+    }
+  },
+  "Turdus chrysolaus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "冬鳥として渡来するツグミの仲間。胸から脇のオレンジ色が和名「赤腹」の由来です。",
+      "habitat_hint": "雑木林、林床、落ち葉のたまる場所、実のなる低木。",
+      "finding_tips": "落ち葉をひっくり返してミミズを探す姿を見ます。シロハラと混生しますが、胸の赤茶色で区別できます。"
+    },
+    "en": {
+      "summary": "A wintering thrush, named in Japanese for its rusty-orange flanks ('red belly').",
+      "habitat_hint": "Mixed woodland, forest floors, leaf-littered ground, and fruiting shrubs.",
+      "finding_tips": "Often seen flicking leaf litter for earthworms. Separated from Pale Thrush by the rusty-orange wash on the underparts."
+    },
+    "zh": {
+      "summary": "冬季渡来的鸫，胸侧的橙红色是日文俗名『红腹鸫』的由来。",
+      "habitat_hint": "杂木林、林床、落叶堆积处、结果灌木。",
+      "finding_tips": "常见翻动落叶寻找蚯蚓。和白腹鸫共栖，但胸侧的橙红色可作区分。"
+    }
+  },
+  "Polygonia c-aureum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "翅縁が深く切れ込んだチョウ。夏型と秋型で色合いがやや異なり、秋型はより暗い色になります。成虫越冬します。",
+      "habitat_hint": "雑木林の林縁、庭、河川敷、ハナゾノツクバネウツギなどの花の周辺。",
+      "finding_tips": "翅の切れ込みが目印。閉じた翅の裏面には金色の『C』マークがあります。落ち葉のような枯れ葉色の裏面でも擬態します。"
+    },
+    "en": {
+      "summary": "A nymphalid with deeply scalloped wing margins. Summer and autumn forms differ in shade — the autumn form is much darker. Overwinters as an adult.",
+      "habitat_hint": "Woodland edges, gardens, riverbanks, and around nectar flowers such as abelia.",
+      "finding_tips": "Note the jagged wing outline. The closed underside shows a small golden 'C' mark and resembles a dead leaf."
+    },
+    "zh": {
+      "summary": "翅缘呈深锯齿状的蛱蝶。夏型与秋型颜色不同，秋型更暗。以成虫越冬。",
+      "habitat_hint": "林缘、庭院、河滩、糯米条等开花植物附近。",
+      "finding_tips": "翅缘的深锯齿是识别要点。闭翅时翅背反面有金色的『C』纹，并整体拟态枯叶色。"
+    }
+  },
+  "Theretra oldenlandiae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "細長い体と翼形からホバリングしながら花蜜を吸う姿が見られるスズメガ。幼虫は緑色で大きく、サトイモやヤブガラシなどを食べます。",
+      "habitat_hint": "庭、雑木林の林縁、水田の畔、花の咲く場所、街灯の周り。",
+      "finding_tips": "夕暮れ時に花の前をホバリングしながら長い口吻で吸蜜する姿を観察できます。日中は枝の影で休んでいます。"
+    },
+    "en": {
+      "summary": "A hawkmoth that hovers at flowers to feed at dusk. Larvae are large and green, feeding on taro, Cayratia, and related vines.",
+      "habitat_hint": "Gardens, woodland edges, paddy verges, flower beds, and around streetlights.",
+      "finding_tips": "At dusk, watch flowers for a moth hovering and extending a long proboscis. By day it rests motionless on twigs."
+    },
+    "zh": {
+      "summary": "天蛾的一种，会像蜂鸟那样悬停于花前吸蜜。幼虫为大型绿色，取食芋头、乌蔹莓等。",
+      "habitat_hint": "庭院、林缘、稻田田埂、有花的地方、路灯周围。",
+      "finding_tips": "黄昏时观察花丛，能看到一只蛾子悬停吸蜜，伸出长口吻。白天在枝条阴影中静止休息。"
+    }
+  }
+}

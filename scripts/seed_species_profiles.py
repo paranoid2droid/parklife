@@ -597,9 +597,54 @@ def profile_variants(sci: str, ja_profile: dict[str, str | list[str]]) -> dict[s
     return variants
 
 
+def load_extra_profiles() -> None:
+    """Merge entries from data/species_profiles_extra.json into the two
+    in-memory dicts. The JSON file is the bulk-curation channel: each top-
+    level entry keys on the scientific name and carries `ja`, `en`, `zh`
+    sub-objects plus `sources`. Letting it override means individual edits
+    in PROFILES_JA / PROFILES_EN_ZH still win for any species also listed
+    in the JSON."""
+    path = ROOT / "data" / "species_profiles_extra.json"
+    if not path.exists():
+        return
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"warn: failed to load {path}: {e}")
+        return
+    for sci, payload in data.items():
+        ja = payload.get("ja") or {}
+        sources = payload.get("sources") or ["Wikipedia", "iNaturalist"]
+        if sci not in PROFILES_JA and ja:
+            PROFILES_JA[sci] = {
+                "summary":       ja.get("summary", ""),
+                "habitat_hint":  ja.get("habitat_hint", ""),
+                "finding_tips":  ja.get("finding_tips", ""),
+                "sources":       sources,
+            }
+        en = payload.get("en") or {}
+        zh = payload.get("zh") or {}
+        if (en or zh) and sci not in PROFILES_EN_ZH:
+            entry: dict[str, dict[str, str]] = {}
+            if en:
+                entry["en"] = {
+                    "summary":       en.get("summary", ""),
+                    "habitat_hint":  en.get("habitat_hint", ""),
+                    "finding_tips":  en.get("finding_tips", ""),
+                }
+            if zh:
+                entry["zh"] = {
+                    "summary":       zh.get("summary", ""),
+                    "habitat_hint":  zh.get("habitat_hint", ""),
+                    "finding_tips":  zh.get("finding_tips", ""),
+                }
+            PROFILES_EN_ZH[sci] = entry
+
+
 def main() -> int:
     db_path = ROOT / "data" / "parklife.db"
     db.init(db_path)
+    load_extra_profiles()
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
     inserted = 0
     missing = []
