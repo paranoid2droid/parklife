@@ -3275,5 +3275,185 @@
       "habitat_hint": "河滩、田边、草坪、路边、空地、明亮斜坡。",
       "finding_tips": "四至六月低头找贴地的深裂叶配粉色五瓣小花。果实细长尖如鹤喙。"
     }
+  },
+  "Euconocephalus varius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クビキリギス。緑または褐色の細長いキリギリス類で、成虫越冬する珍しいタイプです。口の中が赤いことが特徴。",
+      "habitat_hint": "河川敷の草地、農地の縁、雑木林の下草、湿った草地、休耕田。",
+      "finding_tips": "晩秋〜早春の暖かい日にも見られる細長いキリギリスを探します。**捕まえると噛みつくことがあるので注意。** 口を開けると赤色が見えます。"
+    },
+    "en": {
+      "summary": "Long-headed katydid that overwinters as an adult — unusual among Tettigoniidae. The red interior of the mouth is diagnostic.",
+      "habitat_hint": "Grassy riverbanks, field margins, woodland understory, damp grassland, and fallow fields.",
+      "finding_tips": "Slender katydid that can be seen on warm days from late autumn into early spring. **Handle gently — it can bite.** The mouth interior flashes red when opened."
+    },
+    "zh": {
+      "summary": "锥头螽斯（クビキリギス）。细长螽斯类，可以成虫越冬。口腔内为红色。",
+      "habitat_hint": "河滩草地、田边、林下草、潮湿草地、休耕田。",
+      "finding_tips": "晚秋至早春暖日也可见。**抓握会咬人，需小心。** 张口可见红色。"
+    }
+  },
+  "Meghimatium bilineatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナメクジ類で、背中に明瞭な二本の暗色線が走るのが特徴。湿った場所で植物や腐葉を食べます。",
+      "habitat_hint": "庭、農地、雑木林の林床、湿った石垣の隙間、雨上がりの園路。",
+      "finding_tips": "雨上がり、夜の地面や石垣で背中に2本の濃い線がある軟体動物を探します。粘液の跡を残して移動します。"
+    },
+    "en": {
+      "summary": "A slug with two distinct dark lines running along the back. Feeds on plants and leaf litter in damp places.",
+      "habitat_hint": "Gardens, farmland, forest floor, damp stone-wall crevices, and paths after rain.",
+      "finding_tips": "After rain or at night, check the ground and stone walls for a slug with two prominent dark dorsal lines. The mucus trail is another giveaway."
+    },
+    "zh": {
+      "summary": "背部具两条明显深色纵纹的蛞蝓，取食植物和腐叶。",
+      "habitat_hint": "庭园、农田、林床、潮湿石墙缝、雨后园路。",
+      "finding_tips": "雨后或夜间在地面和石墙寻找背部有两条深色纵纹的软体动物。粘液痕迹也是线索。"
+    }
+  },
+  "Casmerodius albus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダイサギ（学名異表記、現Ardea alba）。大型の白いサギで、首をS字に曲げて静かに魚を待ち伏せします。",
+      "habitat_hint": "大きな池、河川、河口、湿地、ヨシ原の縁。",
+      "finding_tips": "白い大型のサギ。コサギより明らかに大きく、季節で嘴の色が変わります（夏は黒、冬は黄）。"
+    },
+    "en": {
+      "summary": "Great Egret (older genus name; now Ardea alba). Large white heron that stands still with an S-curved neck to ambush fish.",
+      "habitat_hint": "Large ponds, rivers, estuaries, wetlands, and reedy fringes.",
+      "finding_tips": "Clearly larger than Little Egret; bill turns from yellow (winter) to black (breeding). The S-curved neck while hunting is distinctive."
+    },
+    "zh": {
+      "summary": "大白鹭（旧属名）。大型白鹭，颈呈 S 形伏击鱼类。",
+      "habitat_hint": "大池塘、河流、河口、湿地、芦苇丛边。",
+      "finding_tips": "明显大于白鹭，喙色随季节变化（冬黄夏黑）。捕食时颈 S 形是特征。"
+    }
+  },
+  "Macleaya cordata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タケニグサ。大型の白い葉裏と、夏に立ち上がる白い花穂が特徴の在来植物。茎を折ると黄色い汁が出ます。",
+      "habitat_hint": "河川敷、林縁、伐採跡地、空き地、明るい斜面。",
+      "finding_tips": "人の背丈ほどに育つ大型植物で、葉裏が白っぽいのが目印。夏に立ち上がる白い円錐花序も特徴的です。"
+    },
+    "en": {
+      "summary": "Plume Poppy. A tall native with leaves white-tomentose underneath and tall white panicles in summer. Stems exude yellow latex when broken.",
+      "habitat_hint": "Riverbanks, woodland edges, clearings, vacant lots, and bright slopes.",
+      "finding_tips": "Look for a person-tall plant with whitish leaf undersides and feathery summer flower spikes."
+    },
+    "zh": {
+      "summary": "博落回，大型本土植物。叶背覆白色绒毛，夏季抽出白色圆锥花序。折断茎流黄色乳汁。",
+      "habitat_hint": "河滩、林缘、伐木迹地、空地、明亮斜坡。",
+      "finding_tips": "找人高的大型植物，叶背白色，夏季有立式白色羽状花序。"
+    }
+  },
+  "Actias aliena": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオミズアオ。淡い水色の大型の蛾で、後翅に長い尾状突起があります。月の女神を思わせる優美な姿で人気があります。",
+      "habitat_hint": "雑木林、社寺林、ブナ・サクラなど広葉樹林、夜の街灯。",
+      "finding_tips": "夏の夜、街灯や自販機の灯りに集まる淡い水色の大型蛾を探します。翅幅は10cmを超え、長い尾が独特です。"
+    },
+    "en": {
+      "summary": "Japanese Moon Moth, a large pale-blue silkmoth with long sweeping hindwing tails. Its ethereal moonlit appearance makes it a favorite of moth-watchers.",
+      "habitat_hint": "Mixed woodland, shrine groves, beech-and-cherry forest, and around streetlights at night.",
+      "finding_tips": "On summer nights look at streetlights for a large, pale blue-green moth. Wingspan exceeds 10 cm and the long tails are unmistakable."
+    },
+    "zh": {
+      "summary": "日本月蛾（绿尾大蚕蛾近缘），大型淡蓝色蚕蛾，后翅长尾突显眼。",
+      "habitat_hint": "杂木林、神社树林、山毛榉樱花阔叶林、夜间路灯。",
+      "finding_tips": "夏夜在路灯或自动售货机灯下找淡蓝色大型蛾。翼展超 10 cm，长尾极具辨识度。"
+    }
+  },
+  "Carabus insulicola": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオオサムシ。緑色〜銅色の金属光沢を持つ大型の地表性甲虫。地上を素早く走り、ミミズや昆虫を捕食します。",
+      "habitat_hint": "雑木林の林床、社寺林、湿った落ち葉の下、石の下、谷沿いの林。",
+      "finding_tips": "落ち葉や石をめくって探します。日中は隠れていることが多いので、夜行性の活動時間（夕方〜夜）に園路で見ることもあります。**観察後は元の場所に戻してください。**"
+    },
+    "en": {
+      "summary": "A large iridescent ground beetle in shades of green and copper. Hunts earthworms and small invertebrates on the forest floor.",
+      "habitat_hint": "Mixed woodland floor, shrine groves, under damp leaf litter and stones, and valley woods.",
+      "finding_tips": "Look under leaves and stones. Mostly nocturnal — they sometimes turn up on paths at dusk. **Replace any cover you lift.**"
+    },
+    "zh": {
+      "summary": "蓝步甲（青步甲），鞘翅金属绿至铜色的大型地栖甲虫。猎食蚯蚓和小型无脊椎动物。",
+      "habitat_hint": "林床、神社树林、潮湿落叶下、石下、谷地林。",
+      "finding_tips": "翻起落叶或石块寻找。多夜行，黄昏到夜晚可能在园路出现。**翻找后请将覆盖物恢复原状。**"
+    }
+  },
+  "Petasites japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フキ。春先に花穂（フキノトウ）を出し、その後に丸く大きな葉が伸びる在来植物。食用や山菜として親しまれます。",
+      "habitat_hint": "湿った林床、谷沿いの林、河川敷、農村の畦、明るい斜面。",
+      "finding_tips": "2〜4月、地面から白〜薄緑のずんぐりした花蕾（フキノトウ）を探します。その後に伸びる大型のハート形〜円形の葉が群生します。"
+    },
+    "en": {
+      "summary": "Japanese Butterbur. Sends up edible flower buds ('fukinoto') in early spring, followed by large round leaves. A familiar foraging plant.",
+      "habitat_hint": "Damp forest floor, valley woods, riverbanks, paddy levees, and bright slopes.",
+      "finding_tips": "From February to April, watch for stout white-to-pale-green flower buds at the ground. Large heart-shaped leaves follow and form colonies."
+    },
+    "zh": {
+      "summary": "蜂斗菜。早春先出花蕾（『蕗の薹』），随后展开大型圆叶。是常见食用山菜。",
+      "habitat_hint": "潮湿林床、谷地林、河滩、田埂、明亮斜坡。",
+      "finding_tips": "二至四月在地面找白至浅绿色矮胖花蕾。随后大型心圆叶成片生长。"
+    }
+  },
+  "Nandina domestica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナンテン。冬の赤い実と、年中見られる細かい葉が特徴の常緑低木。「難を転ずる」縁起木として神社や庭園に植栽されます。",
+      "habitat_hint": "庭園、神社・寺院の境内、雑木林の林縁、街路樹下の植え込み。",
+      "finding_tips": "細かく3回羽状複葉の常緑低木。冬は鮮やかな赤い実、初夏は白い花穂を確認できます。"
+    },
+    "en": {
+      "summary": "Heavenly Bamboo. Evergreen shrub with finely divided leaves and bright red winter berries. Considered auspicious in Japan ('nan-ten' puns on 'turning away troubles').",
+      "habitat_hint": "Gardens, shrine and temple grounds, woodland edges, and underplantings of street trees.",
+      "finding_tips": "Look for a small shrub with finely tripinnate leaves. Bright red winter berries and white summer flower spikes confirm the species."
+    },
+    "zh": {
+      "summary": "南天竹，常绿灌木。叶细密三回羽状，冬季结鲜红果，日本视为吉祥植物。",
+      "habitat_hint": "庭园、神社寺庙境内、林缘、行道树下植被。",
+      "finding_tips": "找细密三回羽状叶的常绿灌木。冬季鲜红果、初夏白色花序皆可识。"
+    }
+  },
+  "Garrulus glandarius": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カケス。茶褐色の体に翼の青い縞模様が美しいカラス科の鳥。「ジェー」と濁った大きな声で鳴き、ドングリを地中に隠す貯食行動が森林の更新に貢献します。",
+      "habitat_hint": "雑木林、社寺林、ブナ・コナラ・シイの林、山地の林床。",
+      "finding_tips": "「ジェー」と濁った声を頼りに、樹間を移動する茶褐色の鳥を探します。翼の鮮やかな水色の縞模様で識別できます。"
+    },
+    "en": {
+      "summary": "Eurasian Jay. A warm brown corvid with striking blue-and-black wing barring. Loud 'jay!' call. Famous for caching acorns and helping forests regenerate.",
+      "habitat_hint": "Mixed woodland, shrine groves, beech-oak-chinquapin forest, and montane understory.",
+      "finding_tips": "Listen for harsh 'jay' calls and find a warm brown bird in the trees. The flashing blue wing patch is unmistakable."
+    },
+    "zh": {
+      "summary": "松鸦。茶褐色身体配翅膀蓝色横纹的鸦科鸟。叫声粗哑响亮。会埋藏橡子助森林更新。",
+      "habitat_hint": "杂木林、神社树林、山毛榉/栎/栲林、山地林下。",
+      "finding_tips": "听到粗哑『嘎』声后找树间移动的褐色鸟。翼上鲜亮的蓝色横纹是辨识标志。"
+    }
+  },
+  "Ajuga decumbens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キランソウ。地面に張り付くように広がる小型のシソ科。春に濃い青紫色の唇形花を多数つけ、「ジゴクノカマノフタ」とも呼ばれます。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、神社の参道、芝生の隅、農地の縁。",
+      "finding_tips": "3〜5月、地面に張り付くロゼットから濃い青紫色の小さな花を立てる植物を探します。葉は表面がやや毛深いです。"
+    },
+    "en": {
+      "summary": "Decumbent Bugleweed, a creeping mint. Forms ground-hugging rosettes that bear deep blue-purple lipped flowers in spring; an old Japanese name is 'lid of hell's pot'.",
+      "habitat_hint": "Woodland edges, bright slopes, shrine paths, lawn corners, and field margins.",
+      "finding_tips": "From March to May look for flat rosettes pressed to the ground producing small deep-purple flowers. Leaves are slightly hairy."
+    },
+    "zh": {
+      "summary": "筋骨草（匍匐型唇形科），春季在贴地莲座间抽出深蓝紫色唇形小花。日文俗名也叫『地狱锅盖』。",
+      "habitat_hint": "林缘、明亮斜坡、神社参道、草坪角落、田边。",
+      "finding_tips": "三至五月寻找贴地莲座上抽出的深紫色小花。叶面略带毛。"
+    }
   }
 }
