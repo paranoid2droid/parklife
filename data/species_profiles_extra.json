@@ -7613,5 +7613,149 @@
       "habitat_hint": "路边、铺装缝、田边、运动场、空地、河滩。",
       "finding_tips": "七至十月找茎顶散开 2 条以上指状穗的禾本科。根系坚韧，难拔。"
     }
+  },
+  "Paguma larvata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハクビシン。額〜鼻先にかけて白い線が走る中型の哺乳類。夜行性で、屋根裏や樹上で生活し、近年は都市部でも増えています。本来は外来種とされていますが詳細は議論あり。",
+      "habitat_hint": "雑木林、社寺林、住宅地の屋根裏、果樹園、河川敷の樹林。",
+      "finding_tips": "夜、樹上や塀の上を歩く猫より大きい動物を見たら本種の可能性。**野生動物なので近づかないこと。** 果樹の食害が報告されています。"
+    },
+    "en": {
+      "summary": "Masked Palm Civet, a medium nocturnal mammal with a white forehead-to-nose stripe. Lives in attics and trees; expanding into urban areas. Generally considered introduced to Japan though its history is debated.",
+      "habitat_hint": "Mixed woodland, shrine groves, residential attics, orchards, and riverside woods.",
+      "finding_tips": "At night an animal larger than a cat moving along trees or fences is likely this species. **Do not approach — wild and capable of biting.** Reports of fruit-tree damage."
+    },
+    "zh": {
+      "summary": "果子狸（白鼻心），中型夜行哺乳类，额到鼻有白色纵纹。住屋顶夹层与树上，近年城市增多。日本一般视为外来种。",
+      "habitat_hint": "杂木林、神社树林、住宅屋顶夹层、果园、河岸林。",
+      "finding_tips": "夜里在树上或墙上行走、比猫大的动物多为本种。**野生动物请勿靠近。** 果园偶有被害报告。"
+    }
+  },
+  "Castanopsis sieboldii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スダジイ。日本の照葉樹林を代表する大型の常緑樹。神社の境内に巨木として見られることが多く、秋に小さなどんぐり（殻斗が全体を包む）をつけます。",
+      "habitat_hint": "神社・寺院の境内、社寺林、関東以南の照葉樹林、海岸近くの林。",
+      "finding_tips": "光沢のある厚い葉と、葉裏が金〜銅色の常緑大木を探します。秋に小型のどんぐりが地面に落ちます。神社の御神木として大木が多く残されています。"
+    },
+    "en": {
+      "summary": "Itajii / Sudajii, a large evergreen tree defining the lucidophyllous forests of southern Japan. Often massive at shrine grounds. Acorns with cups that fully enclose the nut.",
+      "habitat_hint": "Shrine and temple grounds, shrine groves, lucidophyllous forests south of Kanto, and coastal woods.",
+      "finding_tips": "Look for an evergreen tree with glossy thick leaves and golden-coppery undersides. Small acorns whose cups fully wrap the nut fall in autumn. Often preserved as massive shrine 'shinboku'."
+    },
+    "zh": {
+      "summary": "苦槠（西博尔德锥栗），日本照叶林代表性常绿乔木。神社境内常见巨木。秋季结被壳斗全包的小橡子。",
+      "habitat_hint": "神社寺庙境内、神社树林、关东以南照叶林、近海林。",
+      "finding_tips": "找叶厚有光泽、叶背金铜色的常绿大乔木。秋季结小型完全被壳斗包裹的橡子。神社多保留为神木巨树。"
+    }
+  },
+  "Bombus ardens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コマルハナバチ。在来の小型マルハナバチで、雄は赤褐色〜橙色の体色が美しいです。春先からの早春に花を訪れる重要な送粉者です。",
+      "habitat_hint": "雑木林の林縁、河川敷の花、神社の境内、サクラ・ツツジなどの花。",
+      "finding_tips": "春〜初夏、赤褐色〜橙色のもふもふしたマルハナバチを花の上で探します。**温和なハチですが、巣に近づくと刺すので注意。**"
+    },
+    "en": {
+      "summary": "A native bumblebee. Males have a striking chestnut-orange body. An important early-spring pollinator.",
+      "habitat_hint": "Woodland edges, riverside flowers, shrine grounds, and around cherry and azalea flowers.",
+      "finding_tips": "In spring and early summer look on flowers for a fuzzy chestnut-to-orange bumblebee. **Gentle by nature but will sting if you disturb a nest.**"
+    },
+    "zh": {
+      "summary": "本土小型熊蜂。雄虫体色栗橙色，美丽显眼。早春重要的传粉者。",
+      "habitat_hint": "林缘、河滩花卉、神社境内、樱花和杜鹃花附近。",
+      "finding_tips": "春至初夏在花上寻找栗橙色毛绒绒的熊蜂。**性情温和但巢附近会蛰人。**"
+    }
+  },
+  "Protaetia brevitarsis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シラホシハナムグリ。緑〜銅色の金属光沢を持つ中型のハナムグリで、背中に小さな白い斑点が散らばります。樹液や花にやってきます。",
+      "habitat_hint": "雑木林の樹液場、花の咲く低木、開花した花壇、神社の境内。",
+      "finding_tips": "クヌギの樹液や夏の花壇で、緑〜銅色の金属光沢に白い小斑のあるコガネムシを探します。シロテンハナムグリと似ますが、本種は鞘翅の縁にも白斑があります。"
+    },
+    "en": {
+      "summary": "A flower chafer with green-to-coppery iridescence and scattered small white spots. Visits tree sap and flowers.",
+      "habitat_hint": "Sap flows in mixed woodland, flowering shrubs, flower beds, and shrine grounds.",
+      "finding_tips": "On oak sap and summer flowers look for a chafer with metallic green-to-copper sheen and white speckles. Similar to other Protaetia but with extra white spots near the elytral edges."
+    },
+    "zh": {
+      "summary": "短跗花潜，绿至铜色金属光泽配白斑的中型花潜金龟。访树液与花。",
+      "habitat_hint": "杂木林树液处、开花灌木、花坛、神社境内。",
+      "finding_tips": "在麻栎树液或夏季花坛找金绿至铜色配白色斑点的金龟。与近缘种相似但鞘翅边缘也有白斑。"
+    }
+  },
+  "Euonymus hamiltonianus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マユミ。秋にピンク色の果実が裂けて橙色の種子が見える独特の姿で美しい落葉樹。和名は弓に使われたことに由来します。",
+      "habitat_hint": "雑木林、神社の境内、明るい斜面、谷沿いの林、河川敷の樹林。",
+      "finding_tips": "10〜11月、ピンクの果実が裂けて中の橙色の種子が露出する独特の景観を作る低木〜小高木を探します。葉は対生する卵形〜楕円形です。"
+    },
+    "en": {
+      "summary": "Hamilton's Spindle. A deciduous tree famous for its autumn 'opening' fruit — pink capsules split to expose bright orange seeds. The Japanese name traces back to use of its wood in bows ('mayumi').",
+      "habitat_hint": "Mixed woodland, shrine grounds, bright slopes, valley woods, and riverside woods.",
+      "finding_tips": "From October to November look for a small tree whose pink capsules split open to display orange seeds. Opposite oval leaves."
+    },
+    "zh": {
+      "summary": "西南卫矛（マユミ），秋季粉色蒴果开裂露出橙色种子的落叶小乔木，景观独特。日文俗名源自其木曾用作弓。",
+      "habitat_hint": "杂木林、神社境内、明亮斜坡、谷地林、河岸林。",
+      "finding_tips": "十至十一月寻找粉色蒴果开裂露橙色种子的乔灌木。叶对生卵形或椭圆形。"
+    }
+  },
+  "Lysimachia clethroides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オカトラノオ。湿った草地に生える在来種の多年草。夏に長く一方向に湾曲する白い花穂を立て、その形が虎の尾に似ることが名前の由来です。",
+      "habitat_hint": "雑木林の林縁、明るい湿った草地、河川敷、神社の境内、農地の縁。",
+      "finding_tips": "6〜8月、人の腰高ほどの茎の先に湾曲した白い花穂を立てる植物を探します。花穂が一方向にしなる姿が独特です。"
+    },
+    "en": {
+      "summary": "Gooseneck Loosestrife. A native perennial of damp meadows with curving white flower spikes in summer — the shape inspired the Japanese name 'mountain tiger's tail'.",
+      "habitat_hint": "Woodland edges, bright damp meadows, riverbanks, shrine grounds, and field margins.",
+      "finding_tips": "From June to August look for plants at knee-to-waist height with white flower spikes that curve to one side like a tail."
+    },
+    "zh": {
+      "summary": "矮桃（虎尾草），本土多年生草本。夏季抽出向一侧弯曲的白色花穗，形似虎尾，日文俗名因此而得。",
+      "habitat_hint": "林缘、明亮潮湿草地、河滩、神社境内、田边。",
+      "finding_tips": "六至八月寻找腰高茎顶弯向一侧的白色花穗的植物。"
+    }
+  },
+  "Chorthippus maritimus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒナバッタ。小型の褐色〜緑色のバッタで、河川敷の砂地や明るい草地で普通に見られます。「ジリリリ」と細かい鳴き声を出します。",
+      "habitat_hint": "河川敷の砂地、明るい草地、空き地、農地の縁、芝生の縁。",
+      "finding_tips": "晴れた日、足元から飛び出す小型のバッタを探します。鳴き声「ジリリリ」も識別の手がかりです。"
+    },
+    "en": {
+      "summary": "A small brown-to-green grasshopper of sandy riverbanks and bright meadows. Sings a fine 'jiriri' from grass.",
+      "habitat_hint": "Sandy riverbanks, bright meadows, vacant lots, field margins, and lawn edges.",
+      "finding_tips": "On sunny days flush small grasshoppers underfoot. The fine 'jiriri' song also helps."
+    },
+    "zh": {
+      "summary": "海滨雏蝗，小型褐至绿色蝗虫，多见于河滩沙地与明亮草地。鸣声为细密『叽哩哩』。",
+      "habitat_hint": "河滩沙地、明亮草地、空地、田边、草坪边。",
+      "finding_tips": "晴天脚边跳出小型蝗虫。细密『叽哩哩』鸣声亦可辨识。"
+    }
+  },
+  "Persicaria lapathifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サナエタデ。湿った場所に普通の大型タデ類で、夏〜秋に淡桃色〜白色の太い花穂を立てます。葉に黒い斑紋があることがあります。",
+      "habitat_hint": "水田、湿地、河川敷、用水路の縁、湿った草地。",
+      "finding_tips": "8〜10月、人の腰高ほどに育つ植物で、淡桃色〜白色の太い穂状花序を立てるのが目印。葉中央に黒い斑があることが多いです。"
+    },
+    "en": {
+      "summary": "Pale Smartweed. A common large knotweed of damp ground; thick pale pink-to-white flower spikes in late summer and autumn. Leaves often have a dark central blotch.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, ditch margins, and damp meadows.",
+      "finding_tips": "From August to October look for waist-high plants with thick pale flower spikes. The dark leaf blotch is a useful confirmation."
+    },
+    "zh": {
+      "summary": "酸模叶蓼，常见湿地大型蓼属。夏秋抽出粉白色粗短花穗。叶中央常带黑斑。",
+      "habitat_hint": "水田、湿地、河滩、灌渠边、潮湿草地。",
+      "finding_tips": "八至十月寻找腰高的植物，粉白色粗短花穗为辨识要点。叶中央常黑斑。"
+    }
   }
 }
