@@ -64,16 +64,20 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 4. **いきものログ ingest (env.go.jp)** — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience. (eBird + GBIF already shipped; FishBase/MushroomObserver/Pl@ntNet evaluated and skipped.)
 
-5. **Better species frequency metric for sort** *(follow-up to shipped checkbox+sort UI)* — current sort uses `sp.n` = global park count, which lets 関東-wide commons dominate locally-clustered species. Two improvements queued:
-   - Surface **per-park observation count** to export (add `park_species.obs_count` or aggregate from `observation`) — most accurate.
-   - Until that exists, constrain the `sp.n` fallback to **geographically nearby parks** (e.g. 30 km radius or same prefecture).
-   - Name-sort should use the active UI language's name field, not always Japanese.
+5. **Better species frequency metric for sort** *(2026-05-16, mostly shipped)*
+   - ✅ `freq` sort now uses per-park observation count `pair.oc` first, with global spread `sp.n` as tiebreaker (`a85c1ba`). Labels updated to 観察記録数 / Record count / 观察记录数 / 觀察記錄數 in all 4 languages.
+   - ✅ Name-sort already uses `LOCALE_FOR_LANG[displayLang]` — confirmed working.
+   - **Follow-up still open**: geographically-nearby `sp.n` fallback for tiebreakers. When two species both have 1 record at the selected park, currently the tiebreaker is global park count, which still favors 関東-wide commons over locally-clustered species. Would need a precomputed `sp.regional_n` per (species, prefecture) or radius-based aggregation; defer until a complaint surfaces.
 
 6. **Continue species_profile curation** — add another small batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`. Workflow: edit `PROFILES_JA` + `PROFILES_EN_ZH`, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`. Current seed: 49 profiles × 4 langs.
 
 7. **Photo gap sample inspection** *(follow-up to shipped photo carousel)* — 230 iNat candidates still <5 photos; 552 visible species have no gallery rows. Before another blind retry, inspect samples to see whether they are genuinely sparse, non-iNat, or taxonomy-edge cases. Local DB: 32,402 `species_photo` rows, 6,369 species with ≥5.
 
 ## Recent sessions
+
+### 2026-05-16 (Claude) — TODO #5 freq-sort improvement
+- Changed `sortGroupItems` in `scripts/export_html.py` so the freq sort ranks by `pair.oc` (per-park observation count) descending, with `sp.n` (global) as tiebreaker. Updated labels in ja/en/zh/zhT to reflect the new meaning. Commit `a85c1ba`.
+- Geographic-radius fallback for tiebreakers deferred to follow-up; the per-park record count already addresses the main pain point of 関東-wide commons dominating every park's list after the 209→482 expansion.
 
 ### 2026-05-15/16 (Claude) — TODO #2 P13 expansion shipped
 - Added `scripts/p13_seed.py`: downloads 国土数値情報 P13 GML zips for 4 prefectures, filters to biodiv park types ≥ 5 ha, dedupes by 500 m radius vs existing parks, writes `data/seeds/<pref>-p13.json`. +273 parks (209 → 482). Cache: `data/raw/p13/`.
