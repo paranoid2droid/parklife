@@ -2789,5 +2789,167 @@
       "habitat_hint": "河滩草地、沙地、休耕田、海岸草地、田边。",
       "finding_tips": "受惊后能长距离飞行的大型蝗虫可能就是它。有绿色和褐色型。"
     }
+  },
+  "Apis cerana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニホンミツバチ。在来種のミツバチで、セイヨウミツバチより小型で腹の縞模様がはっきりしています。スズメバチ襲撃時に集団で熱殺する「蜂球」行動で知られます。",
+      "habitat_hint": "雑木林、神社の境内、果樹園、開花した山の植物、自然樹洞のある場所。",
+      "finding_tips": "セイヨウミツバチに比べやや小さく、腹の縞がはっきりと黒い。古い樹洞や石垣の隙間に自然巣を作ります。"
+    },
+    "en": {
+      "summary": "Japanese Honeybee, native to East Asia. Smaller than the introduced Western Honeybee with bolder black abdominal bands. Famous for the 'bee ball' defense against hornets — workers cook the intruder with body heat.",
+      "habitat_hint": "Mixed woodland, shrine grounds, orchards, flowering mountain plants, and places with natural tree cavities.",
+      "finding_tips": "Smaller than Western Honeybee with sharper black bands. Builds wild colonies in tree hollows and stone-wall crevices."
+    },
+    "zh": {
+      "summary": "东方蜜蜂（日本蜂亚种），本土蜂。比西方蜜蜂略小，腹部黑带更明显。以集体『蜂球』高温杀死入侵胡蜂著称。",
+      "habitat_hint": "杂木林、神社境内、果园、山地开花植物、有天然树洞处。",
+      "finding_tips": "比西方蜜蜂略小，腹部黑带分明。在树洞或石墙缝筑野生巢。"
+    }
+  },
+  "Tettigonia orientalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブキリ。大型のキリギリスの仲間で、雑食性。樹上で「シリリリ」と独特の連続音で鳴きます。",
+      "habitat_hint": "藪、雑木林の林縁、河川敷の草むら、低木の上、明るい園路の縁の植え込み。",
+      "finding_tips": "夜〜早朝、樹上から長く続く「シリリリ」鳴き声で気づきます。緑色で隠れているので姿は見つけにくいです。"
+    },
+    "en": {
+      "summary": "An oriental long-horned bush-cricket. Large, omnivorous, and sings a long continuous 'sirrrrr' from trees and shrubs.",
+      "habitat_hint": "Thickets, woodland edges, grassy riverbanks, shrubs, and plantings along bright paths.",
+      "finding_tips": "Listen at night or early morning for a long continuous trill from trees. The insect itself is green and well camouflaged — hard to find by sight."
+    },
+    "zh": {
+      "summary": "东方螽斯。大型杂食性螽斯，会从树上发出持续的『嘶——』声。",
+      "habitat_hint": "灌丛、林缘、河滩草丛、低木、明亮园路边的植被。",
+      "finding_tips": "夜或清晨听树上持续『嘶——』即是。体色绿，藏身良好，难以目击。"
+    }
+  },
+  "Exomala orientalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セマダラコガネ。茶色〜黄褐色の小型のコガネムシで、芝生の地下に幼虫が住み、葉や花を食害することで知られます。",
+      "habitat_hint": "芝生、ゴルフ場、河川敷の草地、農地、公園のグリーン。",
+      "finding_tips": "成虫は夏に芝生上を飛び回り、葉を食害します。鞘翅に縞模様、上翅の縁が明るい色なのが目印です。"
+    },
+    "en": {
+      "summary": "Oriental Beetle. A small tan-brown scarab whose grubs damage turfgrass roots; adults feed on leaves and flowers.",
+      "habitat_hint": "Lawns, golf courses, grassy riverbanks, farmland, and park greens.",
+      "finding_tips": "In summer adults fly over lawns and feed on foliage. Look for tan elytra with darker streaks and pale edges."
+    },
+    "zh": {
+      "summary": "东方金龟，小型黄褐色金龟。幼虫危害草坪根系，成虫食叶花。",
+      "habitat_hint": "草坪、高尔夫球场、河滩草地、农田、公园绿地。",
+      "finding_tips": "夏季成虫飞行于草坪上方并取食叶片。鞘翅黄褐带深色条纹、边缘色浅是辨识。"
+    }
+  },
+  "Ramulus mikado": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナナフシモドキ。木の枝にそっくりに擬態する細長い昆虫。動かないと見つけられないほどの完璧な擬態です。",
+      "habitat_hint": "雑木林、コナラ・サクラなどの広葉樹、神社の樹林、藪。",
+      "finding_tips": "葉の上や枝で「枝に見える虫」を探します。歩くときの動きで初めて気づくことが多いです。雌が単為生殖する珍しい昆虫でもあります。"
+    },
+    "en": {
+      "summary": "Japanese Stick Insect. Slender body mimics a twig so perfectly that it is usually only detected when it moves. Females reproduce parthenogenetically — males are very rare.",
+      "habitat_hint": "Mixed woodland, oak and cherry trees, shrine groves, and thickets.",
+      "finding_tips": "On twigs and leaves, look for a 'twig that walks'. Movement is usually the first cue."
+    },
+    "zh": {
+      "summary": "日本竹节虫。极致拟态枝条，不动几乎无法发现。多以雌虫孤雌生殖，雄虫极稀。",
+      "habitat_hint": "杂木林、麻栎/樱花等阔叶树、神社树林、灌丛。",
+      "finding_tips": "在枝叶上找『会动的小枝』，多由其动作露馅。"
+    }
+  },
+  "Dryopteris erythrosora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ベニシダ。若葉が紅色を帯びることが名前の由来の常緑シダ。雑木林の林床や石垣によく見られます。",
+      "habitat_hint": "雑木林の林床、神社の境内、石垣、半日陰の谷沿い。",
+      "finding_tips": "春の新葉が赤紫色を帯びるシダを探します。胞子嚢が赤い点として葉裏に並ぶのも目印。"
+    },
+    "en": {
+      "summary": "Autumn Fern, an evergreen fern whose new fronds emerge with a coppery-red flush. Common in forest understory and on stone walls.",
+      "habitat_hint": "Forest understory, shrine grounds, stone walls, and damp half-shade.",
+      "finding_tips": "In spring look for ferns with reddish-bronze new fronds. The red dot-like sori on the underside are another clue."
+    },
+    "zh": {
+      "summary": "红盖鳞毛蕨，常绿蕨类。新生叶带红铜色，是日文俗名『红羊齿』的由来。",
+      "habitat_hint": "杂木林林床、神社境内、石墙、半阴谷地。",
+      "finding_tips": "春季寻找新叶带红铜色的蕨。叶背红色孢子囊群也是辨识特征。"
+    }
+  },
+  "Gametis jucunda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コアオハナムグリ。緑色の体に白い小斑点が散らばる小型のハナムグリ。春〜夏に花の上でよく見られます。",
+      "habitat_hint": "花壇、樹液場、河川敷の花、雑木林の林縁、明るい園路の縁。",
+      "finding_tips": "春〜夏の花、特にアザミやコスモスの上で、緑+白斑の小さなコガネムシを探します。シロテンハナムグリより小型です。"
+    },
+    "en": {
+      "summary": "A small green flower chafer with white speckles. Often found on flowers in spring and summer.",
+      "habitat_hint": "Flower beds, sap flows, riverside flowers, woodland edges, and bright path borders.",
+      "finding_tips": "Search flowers — especially thistles and cosmos — for a small green chafer with white spots. Smaller than the related Protaetia."
+    },
+    "zh": {
+      "summary": "小青花潜，小型花潜金龟，绿色带白色小斑点。春夏常在花上出现。",
+      "habitat_hint": "花坛、树液处、河滩花卉、林缘、明亮园路边。",
+      "finding_tips": "春夏在花上（尤其菊蓟和波斯菊）找绿底带白斑的小金龟。比白星花潜小。"
+    }
+  },
+  "Carrhotus xanthogramma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネコハエトリ。黒い体に黄色いV字模様の小型のハエトリグモ。住宅の壁や公園の手すりでよく見られます。",
+      "habitat_hint": "家屋の壁、塀、公園のベンチや手すり、石垣、樹幹。",
+      "finding_tips": "壁や手すりを跳ねるように歩く小さな蜘蛛で、黒+黄色のコントラストが目印。中央の大きな2つの目がハエトリグモ類の証です。"
+    },
+    "en": {
+      "summary": "A small jumping spider, black with a bold yellow 'V'. Often seen on house walls, park railings, and stone walls.",
+      "habitat_hint": "House walls, fences, park benches and railings, stone walls, and tree trunks.",
+      "finding_tips": "A small spider hopping on walls with a striking black-and-yellow pattern. The two large central eyes confirm it as a jumping spider."
+    },
+    "zh": {
+      "summary": "小型跳蛛，黑底带黄色 V 字纹。常见于民居墙面与公园栏杆。",
+      "habitat_hint": "房屋墙面、围墙、公园长椅与栏杆、石墙、树干。",
+      "finding_tips": "在墙面或栏杆跳跃前进的小蜘蛛，黑黄对比鲜明。中央两个大眼是跳蛛特征。"
+    }
+  },
+  "Tringa brevipes": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キアシシギ。長距離渡りを行う中型シギで、足が鮮やかな黄色なのが目印。春・秋の渡り時期に河口や海岸近くで見られます。",
+      "habitat_hint": "河口、海岸の岩場、河川下流、湿地、護岸近くの浅瀬。",
+      "finding_tips": "黄色い長い足と、灰褐色の細かい斑模様の体を探します。「ピューイ」と通る鳴き声でも気づきます。"
+    },
+    "en": {
+      "summary": "Grey-tailed Tattler, a medium long-distance migrant wader. Bright yellow legs are diagnostic. Seen at estuaries during spring and autumn migration.",
+      "habitat_hint": "Estuaries, rocky coasts, lower rivers, wetlands, and shallow water near concrete revetments.",
+      "finding_tips": "Yellow legs plus a finely speckled grey-brown body. A clear 'pyu-wii' call helps locate them."
+    },
+    "zh": {
+      "summary": "灰尾漂鹬，中型迁徙鹬，腿亮黄。春秋迁徙期出现在河口与海岸。",
+      "habitat_hint": "河口、岩石海岸、河流下游、湿地、护岸浅水。",
+      "finding_tips": "黄长腿配灰褐细斑身。叫声『噗——咿』也有助定位。"
+    }
+  },
+  "Lithobates catesbeianus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウシガエル。北米原産の大型カエルで、特定外来生物に指定。「ブォー」という低い大きな声で鳴き、池の在来生物を捕食します。",
+      "habitat_hint": "池、ため池、湿地、河川の流れのゆるい場所、用水路。",
+      "finding_tips": "夜、池から「ブォー」という低い声が聞こえたら本種。体長は10〜20cmと大型で、岸辺で日光浴することもあります。**捕獲・運搬・飼育は法律で禁止。**"
+    },
+    "en": {
+      "summary": "American Bullfrog, a North-American import classified as an Invasive Alien Species under Japanese law. The deep 'broom' call carries far; preys on native pond fauna.",
+      "habitat_hint": "Ponds, reservoirs, wetlands, slow rivers, and irrigation channels.",
+      "finding_tips": "At night, deep booming calls from a pond often mean bullfrog. Adults are 10–20 cm and sometimes bask at the bank. **Capture, transport, and keeping are prohibited by law.**"
+    },
+    "zh": {
+      "summary": "美洲牛蛙。北美原产，被日本列为特定外来生物。低沉响亮的『嗯——』叫声远闻，捕食本土水生动物。",
+      "habitat_hint": "池塘、蓄水池、湿地、缓流河段、灌渠。",
+      "finding_tips": "夜里池塘传来低沉鸣叫即是。成体长 10–20 cm，常在岸边晒太阳。**禁止捕捉、运输和饲养。**"
+    }
   }
 }
