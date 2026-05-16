@@ -4589,5 +4589,167 @@
       "habitat_hint": "建筑地板下、排水沟、植被落叶、神社境内、公园长椅附近。",
       "finding_tips": "夜里在厨房或植被处可见大型深褐色蜚蠊。室外落叶和朽木下也常见。建议仅观察，不捕捉。"
     }
+  },
+  "Heteropoda venatoria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アシダカグモ。日本で見られる最大級の徘徊性クモ。家屋に住みつき、ゴキブリなどを捕食する益虫として知られます。**人を噛まないので恐れる必要はありません。**",
+      "habitat_hint": "家屋の壁、押入れ、神社の境内、雑木林の樹幹、夜の建物外壁。",
+      "finding_tips": "夜、家屋の壁を素早く歩く大型の長い脚のクモを探します。網を張らず、獲物を追いかけて捕らえる徘徊性です。"
+    },
+    "en": {
+      "summary": "Huntsman Spider. Among the largest wandering spiders in Japan. Lives in houses and is considered beneficial — it hunts cockroaches. **Harmless to humans.**",
+      "habitat_hint": "House walls, closets, shrine grounds, tree trunks in mixed woodland, and exterior walls at night.",
+      "finding_tips": "At night look for a large long-legged spider walking quickly on walls. It builds no web — instead it stalks prey actively."
+    },
+    "zh": {
+      "summary": "巨蟹蛛，日本最大型的游猎型蛛之一。常住人家，捕食蜚蠊为益虫。**对人无害，无需畏惧。**",
+      "habitat_hint": "房屋墙面、壁橱、神社境内、杂木林树干、夜间建筑外墙。",
+      "finding_tips": "夜里在墙面寻找快速行走的大型长腿蛛。不结网，主动追猎猎物。"
+    }
+  },
+  "Trachycarpus fortunei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シュロ。耐寒性のある常緑ヤシで、関東以南に自生・植栽されています。幹は黒い繊維（シュロ皮）で覆われ、扇形の葉が特徴。",
+      "habitat_hint": "庭園、神社の境内、住宅地、雑木林、空き地（自然下種で増えることも）。",
+      "finding_tips": "扇形の大きな葉と、繊維で覆われた幹を探します。関東でも野生化しており、雑木林でも見かけます。"
+    },
+    "en": {
+      "summary": "Windmill Palm, a cold-tolerant evergreen palm. Naturalised and widely planted south of the Kanto region. Trunk wrapped in dark fibrous material; fan-shaped leaves.",
+      "habitat_hint": "Gardens, shrine grounds, residential areas, mixed woodland, and vacant lots (often self-sown).",
+      "finding_tips": "Look for fan-shaped large leaves and a fibre-wrapped trunk. Increasingly naturalised — also turns up in woodland."
+    },
+    "zh": {
+      "summary": "棕榈，耐寒常绿棕榈。关东以南广泛野生与栽培。干被黑色纤维（棕皮），叶扇形。",
+      "habitat_hint": "庭园、神社境内、住宅区、杂木林、空地（自然下种繁殖）。",
+      "finding_tips": "找扇形大叶配棕色纤维包裹的茎干。野化倾向明显，杂木林也会出现。"
+    }
+  },
+  "Bothrogonia ferruginea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツマグロオオヨコバイ。鮮やかな黄色〜橙色の体に黒い斑点があるよくいるヨコバイ類。葉の裏に並んで止まることが多いです。",
+      "habitat_hint": "雑木林、河川敷の樹木、公園の植え込み、明るい林縁、農地の縁。",
+      "finding_tips": "葉の上で「黄色っぽい体に黒斑」の細長い虫を探します。驚くと素早く横にスライド移動して隠れます。"
+    },
+    "en": {
+      "summary": "A common leafhopper, bright yellow to orange with black spots. Often perches in rows on leaf undersides.",
+      "habitat_hint": "Mixed woodland, riverside trees, park plantings, bright woodland edges, and field margins.",
+      "finding_tips": "Look on leaves for slender yellow-to-orange insects with black spots. When disturbed they slide sideways to hide."
+    },
+    "zh": {
+      "summary": "锈色叶蝉，常见叶蝉。鲜黄至橙色配黑色斑点，常排成列停在叶背。",
+      "habitat_hint": "杂木林、河岸树木、公园植被、明亮林缘、田边。",
+      "finding_tips": "在叶上找细长的黄至橙色带黑斑昆虫。受惊会侧向滑动躲避。"
+    }
+  },
+  "Eugnathus distinctus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コフキゾウムシ。葉を食害する小型のゾウムシで、灰白色の鱗片（粉のような）に覆われていることが特徴。",
+      "habitat_hint": "草地、河川敷、農地、雑木林の林縁、マメ科植物のある場所。",
+      "finding_tips": "葉の上で粉を吹いたような灰色の小型ゾウムシを探します。マメ科植物（クズなど）の上に多いです。"
+    },
+    "en": {
+      "summary": "A small weevil whose body is coated in pale scales that look like a dusting of powder. Feeds on a range of leaves.",
+      "habitat_hint": "Grassland, riverbanks, farmland, woodland edges, and on legumes.",
+      "finding_tips": "Look on leaves for a small powdery-grey weevil. Often common on legumes such as kudzu."
+    },
+    "zh": {
+      "summary": "粉象虫一种，体表覆灰白鳞片如沾粉的小型象甲。",
+      "habitat_hint": "草地、河滩、农田、林缘、有豆科植物的地方。",
+      "finding_tips": "在叶上找体表如沾粉的灰色小型象甲。葛藤等豆科植物上常见。"
+    }
+  },
+  "Oedaleus infernalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クルマバッタモドキ。中型の褐色〜緑色のバッタで、飛ぶと後翅に黒い『車輪』模様が見えます。河川敷の砂地や草地に住みます。",
+      "habitat_hint": "河川敷の草地、休耕田、堤防、芝生、農地の縁。",
+      "finding_tips": "驚かせると後翅を広げて飛び、黒い車輪状の模様が一瞬見えるバッタを探します。トノサマバッタより小型です。"
+    },
+    "en": {
+      "summary": "A medium brown-to-green grasshopper. When it flies, its hindwings flash a striking black 'wheel' pattern. Found on sandy and grassy riverbanks.",
+      "habitat_hint": "Grassy riverbanks, fallow fields, levees, lawns, and field margins.",
+      "finding_tips": "Flush a grasshopper and watch for the dark wheel-shaped hindwing flash. Smaller than the Migratory Locust."
+    },
+    "zh": {
+      "summary": "黄胫小车蝗，褐至绿色的中型蝗虫。飞行时后翅展开有黑色『车轮』纹。生于河滩草地。",
+      "habitat_hint": "河滩草地、休耕田、堤岸、草坪、田边。",
+      "finding_tips": "受惊后飞起，可见后翅上闪过黑色车轮纹。体形比飞蝗小。"
+    }
+  },
+  "Oxytate striatipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワカバグモ。鮮やかな黄緑色のカニグモ類。葉の上で獲物の昆虫を待ち伏せる徘徊性で、網を張りません。",
+      "habitat_hint": "雑木林の林縁、草地、河川敷、農地、家庭菜園の葉の上。",
+      "finding_tips": "葉の上でじっとしている鮮やかな黄緑色の小型の蜘蛛を探します。第一脚と第二脚が長く、横歩きするのも特徴です。"
+    },
+    "en": {
+      "summary": "A vivid yellow-green crab spider. An ambush hunter that waits on leaves for prey rather than building a web.",
+      "habitat_hint": "Woodland edges, grassland, riverbanks, farmland, and kitchen-garden foliage.",
+      "finding_tips": "Look on bright leaves for a small spider in vivid lime-green, still and watchful. The first two pairs of legs are longer, and it walks sideways."
+    },
+    "zh": {
+      "summary": "鲜黄绿色的蟹蛛，伏击型猎手，不结网。常静伏叶面等候猎物。",
+      "habitat_hint": "林缘、草地、河滩、农田、家庭菜园叶面。",
+      "finding_tips": "在亮叶上找鲜黄绿的小型蛛。前两对足较长，横向行走。"
+    }
+  },
+  "Phaulula macilenta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメクダマキモドキ。中型の緑色のキリギリス類で、雑木林や河川敷の樹冠に住みます。「ジー」と細く長く鳴きます。",
+      "habitat_hint": "雑木林、河川敷の樹冠、神社の樹林、低木と高木の混じる林。",
+      "finding_tips": "夏〜秋の夜、樹冠から細い「ジー」鳴き声を頼りに探します。緑色で葉に擬態しているので姿は見つけにくいです。"
+    },
+    "en": {
+      "summary": "A medium green tettigoniid katydid of woodland canopies. Sings a fine sustained 'jee' at night.",
+      "habitat_hint": "Mixed woodland, riverside canopies, shrine groves, and mixed shrub-tree forest.",
+      "finding_tips": "On summer and autumn nights follow the fine sustained 'jee' upward. The katydid itself is leaf-green and hard to see."
+    },
+    "zh": {
+      "summary": "小型绿色螽斯，栖林冠。夜里发出细长的『嘶——』声。",
+      "habitat_hint": "杂木林、河岸树冠、神社树林、灌乔混合林。",
+      "finding_tips": "夏秋夜里沿细长鸣叫向上寻找。绿色拟态叶片，难以目击。"
+    }
+  },
+  "Lepisorus thunbergianus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノキシノブ。石垣や樹皮、家屋の屋根の隙間に着生する小型のシダ。線形の単葉が房状に伸びます。",
+      "habitat_hint": "石垣、樹皮、神社の建物の屋根、岩の隙間、ブロック塀。",
+      "finding_tips": "石垣や樹幹の隙間から細長い舌のような葉が房状に出ているシダを探します。葉裏に丸い胞子嚢群が並びます。"
+    },
+    "en": {
+      "summary": "Thunberg's Felt Fern, a small epiphytic fern on stone walls, tree bark, and rooftops. Linear single fronds form clusters.",
+      "habitat_hint": "Stone walls, tree bark, shrine building roofs, rock crevices, and concrete-block walls.",
+      "finding_tips": "Look for clusters of long tongue-shaped fronds growing from crevices in walls or trunks. Round sori cluster on the underside."
+    },
+    "zh": {
+      "summary": "瓦韦，附生于石墙、树皮和屋瓦缝隙的小型蕨。叶单生线形成簇。",
+      "habitat_hint": "石墙、树皮、神社建筑屋瓦、岩石缝、混凝土砖墙。",
+      "finding_tips": "在石墙或树干缝隙找成簇舌状长叶的蕨。叶背圆形孢子囊群整齐排列。"
+    }
+  },
+  "Arenaria interpres": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キョウジョシギ。複雑な赤茶+黒+白の模様が華やかなシギ。岩場や砂浜で石をひっくり返して食物を探します。",
+      "habitat_hint": "海岸の岩場、河口、防波堤、東京湾の干潟、漁港の周辺。",
+      "finding_tips": "海岸で石や海藻をひっくり返している姿が目印。短い橙色の脚と、頭〜背の派手な模様で識別できます。"
+    },
+    "en": {
+      "summary": "Ruddy Turnstone, a wader with bold rusty-and-black-and-white plumage. Famously flips over stones and seaweed to find prey.",
+      "habitat_hint": "Rocky coasts, estuaries, breakwaters, Tokyo Bay tidal flats, and around fishing harbours.",
+      "finding_tips": "Watch for a wader actively turning over stones and seaweed. The bold harlequin pattern and short orange legs confirm ID."
+    },
+    "zh": {
+      "summary": "翻石鹬，体披栗、黑、白复杂图案。会翻动石头和海藻寻找食物，特征鲜明。",
+      "habitat_hint": "海岸岩石、河口、防波堤、东京湾滩涂、渔港周边。",
+      "finding_tips": "在海岸找主动翻石头和海藻的涉禽。鲜明的拼花羽色和短橙腿可确认。"
+    }
   }
 }
