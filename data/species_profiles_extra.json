@@ -3941,5 +3941,167 @@
       "habitat_hint": "海岸岩石、林床、神社境内、谷地林、半阴庭园。",
       "finding_tips": "找叶厚而有光泽、近心形的莲座。十一至十二月叶丛中央抽出黄色菊状花。"
     }
+  },
+  "Trigonotis peduncularis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キュウリグサ。葉をもむとキュウリのような匂いがすることが名前の由来の小型ムラサキ科。早春に淡い水色の小花を多数つけます。",
+      "habitat_hint": "畑、道端、芝生、河川敷、空き地、半日陰の地面。",
+      "finding_tips": "3〜5月、地面近くに直径3mmほどの淡水色の小花がサソリ型に並ぶ植物を探します。葉をちぎってキュウリの匂いを確認できれば確定です。"
+    },
+    "en": {
+      "summary": "Trigonotis. Crushed leaves smell of cucumber — the source of the Japanese name. Tiny pale blue flowers in scorpioid coils in early spring.",
+      "habitat_hint": "Field margins, roadsides, lawns, riverbanks, vacant lots, and half-shaded ground.",
+      "finding_tips": "From March to May look low for plants bearing pale-blue 3-mm flowers in coiled rows. Crush a leaf — the cucumber smell confirms it."
+    },
+    "zh": {
+      "summary": "附地菜，叶搓有黄瓜味（日文俗名由此）。早春开许多直径约 3 mm 的淡蓝色小花，蝎尾状排列。",
+      "habitat_hint": "菜地、路边、草坪、河滩、空地、半阴地面。",
+      "finding_tips": "三至五月低头寻找蝎尾状排列的淡蓝小花植物。揉碎叶片有黄瓜味即可确认。"
+    }
+  },
+  "Quercus myrsinifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シラカシ。常緑のカシ類で、防風林や生け垣に広く植栽されています。葉は細長く先が尖り、表面は光沢があります。どんぐりは細長い形です。",
+      "habitat_hint": "雑木林、社寺林、屋敷林、生け垣、街路樹、神社の境内。",
+      "finding_tips": "光沢のある細長い常緑樹を探します。秋に細長いどんぐりが地面に落ちます。葉裏が緑白色なのも特徴です。"
+    },
+    "en": {
+      "summary": "Bamboo-leaf Oak, an evergreen oak widely planted for windbreaks and hedges. Leaves are narrow, glossy, and pointed; acorns are elongated.",
+      "habitat_hint": "Mixed woodland, shrine groves, homestead windbreaks, hedges, street trees, and shrine grounds.",
+      "finding_tips": "Look for a glossy-leaved evergreen tree with narrow lanceolate leaves. Elongated acorns drop in autumn. Pale-green leaf undersides also help."
+    },
+    "zh": {
+      "summary": "小叶青冈，常绿栎类。常作防风林与绿篱栽培。叶细长尖锐有光泽，橡子细长。",
+      "habitat_hint": "杂木林、神社树林、住宅防风林、绿篱、行道树、神社境内。",
+      "finding_tips": "找叶细长有光泽的常绿树。秋季有细长橡子落地。叶背浅绿亦可辨。"
+    }
+  },
+  "Rallus indicus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クイナ。湿地のヨシ原や水田に住む暗赤褐色の中型水鳥。警戒心が強く、姿を見せることは少ないですが「キュキュ」と短い声で鳴きます。",
+      "habitat_hint": "湿地のヨシ原、河川敷の藪、田の畔、用水路の縁、ハスのある池。",
+      "finding_tips": "ヨシ原の縁を素早く歩く姿を運良く目撃します。冬は南方に渡るので秋以降は寒さでヨシが倒れた場所がチャンス。"
+    },
+    "en": {
+      "summary": "Brown-cheeked Rail, a secretive dark rusty-brown rail of marshes. Often heard ('kyu-kyu') more than seen.",
+      "habitat_hint": "Reedy wetlands, riverbank thickets, paddy edges, ditch margins, and lotus ponds.",
+      "finding_tips": "If lucky you may glimpse one slipping along the edge of a reedbed. Areas where reeds have flattened in autumn offer the best chances."
+    },
+    "zh": {
+      "summary": "棕颊秧鸡，棕褐色的中型秧鸡，常隐于芦苇湿地。叫声『叽-叽』比目击更常被察觉。",
+      "habitat_hint": "芦苇湿地、河滩灌丛、稻田田埂、灌渠边、荷塘。",
+      "finding_tips": "运气好时可见沿芦苇丛边缘快速行走。秋季芦苇倒伏后机会较大。"
+    }
+  },
+  "Zoothera aurea": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トラツグミ。全身が黄褐色に黒い細かい鱗模様で、林床に潜むためトラの毛皮のような擬態と言われます。「ヒー、ヒー」と高い夜鳴きで知られます。",
+      "habitat_hint": "雑木林の林床、社寺林、湿った谷沿いの林、針葉樹混じりの林。",
+      "finding_tips": "暗い林床で落ち葉を翻すツグミ大の鳥を探します。背中の鱗模様で識別できます。夜に「ヒー、ヒー」と長く高い声で鳴くのも有名。"
+    },
+    "en": {
+      "summary": "White's Thrush, a large thrush with golden-brown plumage marked by fine dark scales — superb leaf-litter camouflage. Famous for an eerie high whistle at night.",
+      "habitat_hint": "Forest understory, shrine groves, damp valley woods, and mixed conifer-broadleaf forest.",
+      "finding_tips": "Look in dim leaf litter for a thrush-sized bird flicking debris. The scaly back is the field mark. Night-time long whistles are also memorable."
+    },
+    "zh": {
+      "summary": "怀氏虎鸫，体黄褐密布黑色鳞纹，与落叶层伪装一致。夜里发出长高频的『嘶——』哨声而著称。",
+      "habitat_hint": "杂木林林床、神社树林、潮湿谷地林、针阔混交林。",
+      "finding_tips": "在阴暗林床找翻动落叶的鸫大鸟。背部鳞纹是辨识要点。夜里高频长哨也很特别。"
+    }
+  },
+  "Podiceps nigricollis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハジロカイツブリ。冬に渡来する小型のカイツブリで、頭頂の赤い目とふっくらした頬が特徴。群れで潜水を繰り返します。",
+      "habitat_hint": "大きな池、湖、河口、東京湾、ダム湖。",
+      "finding_tips": "首がやや短く、頬が膨らんで見える小型のカイツブリを探します。鮮やかな赤い目が距離があってもよく目立ちます。"
+    },
+    "en": {
+      "summary": "Black-necked Grebe, a small wintering grebe. Bright red eyes and a 'puffed cheek' silhouette are distinctive. Dives in groups.",
+      "habitat_hint": "Large ponds, lakes, estuaries, Tokyo Bay, and reservoirs.",
+      "finding_tips": "Look for a small short-necked grebe with a puffy cheek profile. The vivid red eye stands out even at distance."
+    },
+    "zh": {
+      "summary": "黑颈䴙䴘，冬季渡来的小型䴙䴘。眼红明亮、面颊鼓起是特征，常成群潜水。",
+      "habitat_hint": "大池塘、湖泊、河口、东京湾、水库。",
+      "finding_tips": "找短颈、面颊鼓起的小型䴙䴘。鲜红的眼即使有距离也很显眼。"
+    }
+  },
+  "Capsella bursa-pastoris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナズナ。春の七草の一つで、ハート形の小さな実が「ぺんぺん草」と呼ばれる由来。世界中に広く分布する小さな越年草です。",
+      "habitat_hint": "畑、道端、河川敷、芝生、空き地、舗装の隙間。",
+      "finding_tips": "3〜5月、地面のロゼットから細い茎を立て、小さな白い4弁花とハート形の実を多数つける植物を探します。実をつまんで振ると音が鳴ります。"
+    },
+    "en": {
+      "summary": "Shepherd's Purse, a small winter annual found worldwide. Heart-shaped seed pods give the Japanese nickname 'pen-pen grass' — they jingle when shaken.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, lawns, vacant lots, and pavement cracks.",
+      "finding_tips": "From March to May look for plants with basal rosettes, slender stems bearing tiny white four-petalled flowers, and many heart-shaped seed pods."
+    },
+    "zh": {
+      "summary": "荠菜，越年生小型杂草，全球广布。心形果荚（『锅铲果』）是其特征，摇动可发响声。",
+      "habitat_hint": "菜园、路边、河滩、草坪、空地、铺装缝隙。",
+      "finding_tips": "三至五月寻找有莲座并抽出细茎、开白色四瓣小花、结许多心形荚果的植物。"
+    }
+  },
+  "Osmunda japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゼンマイ。春の山菜として親しまれる大型のシダ。若芽は綿毛に包まれ、ゼンマイ仕掛けのような形をしています。",
+      "habitat_hint": "湿った林床、谷沿いの林、農村の畦、湿った斜面、河川敷の林。",
+      "finding_tips": "春、地面から渦巻き状の若芽が出ているシダを探します。成葉は大型の二回羽状で、群生することが多いです。"
+    },
+    "en": {
+      "summary": "Japanese Royal Fern, a large fern famous as a spring foraging vegetable. Young fronds are coiled and clothed in cottony fibres, reminiscent of a clock spring.",
+      "habitat_hint": "Damp forest floors, valley woods, paddy levees, damp slopes, and riverside woods.",
+      "finding_tips": "In spring look for ferns with tightly coiled, wool-covered fiddleheads emerging from the ground. Mature fronds are large and twice-pinnate, often growing in colonies."
+    },
+    "zh": {
+      "summary": "紫萁，大型蕨类，嫩芽是日本春季常见野菜。嫩芽呈卷曲状被棉毛覆盖，形如发条。",
+      "habitat_hint": "潮湿林床、谷地林、田埂、潮湿斜坡、河岸林。",
+      "finding_tips": "春季找地面长出卷曲带棉毛嫩芽的蕨。成株叶大二回羽状，常成片。"
+    }
+  },
+  "Gonista bicolor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ショウリョウバッタモドキ。ショウリョウバッタに似た細長い大型バッタですが、より明るい緑〜褐色で、河川敷の草地に住みます。",
+      "habitat_hint": "河川敷の草地、湿った草原、河岸の藪、明るい休耕田。",
+      "finding_tips": "細長い大型バッタを草地で探します。ショウリョウバッタとの違いは、頭がやや短く、後脚の付け根に特徴的な斑があります。"
+    },
+    "en": {
+      "summary": "A slender large grasshopper similar to the Acrida grasshopper but brighter green-or-tan, found on grassy riverbanks.",
+      "habitat_hint": "Grassy riverbanks, wet meadows, riparian thickets, and bright fallow fields.",
+      "finding_tips": "A slender, large grasshopper. Differs from Acrida by a slightly shorter head and a characteristic mark on the inner hindleg."
+    },
+    "zh": {
+      "summary": "拟尖头蚱蜢，与日本尖头蚱相似的细长大型蝗虫，多生于河滩草地。",
+      "habitat_hint": "河滩草地、湿润草原、河岸灌丛、明亮休耕田。",
+      "finding_tips": "草地中找细长大型蝗虫。与近缘种区别在于头略短、后腿基部有特征斑纹。"
+    }
+  },
+  "Annulohypoxylon truncatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "黒く小さく球状〜半球状の硬いキノコ。倒木や枯れ枝に並んでつき、木材を分解します。よく見ると表面に微細な穴（子嚢殻）があります。",
+      "habitat_hint": "雑木林の倒木、枯れ枝、地表に落ちた枝。",
+      "finding_tips": "倒木の表面に黒く小さな半球がぽつぽつと並んでいたら本種の可能性。乾燥に強く、年中観察できます。"
+    },
+    "en": {
+      "summary": "Cramp Balls (Annulohypoxylon truncatum), small black hemispherical pyrenomycete fungi that grow on dead wood. The surface bears tiny pores (perithecia) when examined closely.",
+      "habitat_hint": "Logs, dead branches, and fallen wood in mixed woodland.",
+      "finding_tips": "Look for hard black hemispheres dotted across the surface of dead wood. Drought-tolerant and visible year-round."
+    },
+    "zh": {
+      "summary": "炭团菌一种，小型黑色坚硬半球形菌，常密布于朽木枯枝。仔细观察可见表面微细的子囊壳孔。",
+      "habitat_hint": "杂木林倒木、枯枝、地面枯木。",
+      "finding_tips": "朽木表面密集排列的黑色硬质半球可能即是。耐旱，全年可观察。"
+    }
   }
 }
