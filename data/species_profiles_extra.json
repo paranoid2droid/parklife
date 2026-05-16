@@ -4751,5 +4751,167 @@
       "habitat_hint": "海岸岩石、河口、防波堤、东京湾滩涂、渔港周边。",
       "finding_tips": "在海岸找主动翻石头和海藻的涉禽。鲜明的拼花羽色和短橙腿可确认。"
     }
+  },
+  "Siler cupreus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオオビハエトリ。鮮やかな金属光沢の青色の帯を持つ小型のハエトリグモ。アリを擬態・捕食することで知られます。",
+      "habitat_hint": "雑木林の林床、神社の境内、石垣、樹幹、葉の上。",
+      "finding_tips": "アリと同じような大きさと動きの中で、よく見ると青く光る帯がある小さな蜘蛛を探します。アリを捕食するため、アリ列の近くに潜むことがあります。"
+    },
+    "en": {
+      "summary": "A small jumping spider with striking metallic-blue bands. Famously mimics and preys on ants.",
+      "habitat_hint": "Forest floor, shrine grounds, stone walls, tree trunks, and leaf surfaces.",
+      "finding_tips": "Among ant-sized things moving like ants, look for a small spider that flashes metallic blue. It hunts ants, so check near ant trails."
+    },
+    "zh": {
+      "summary": "蓝带跳蛛，小型跳蛛具金属蓝色横带。拟态并捕食蚂蚁。",
+      "habitat_hint": "林床、神社境内、石墙、树干、叶面。",
+      "finding_tips": "在蚂蚁大小且行动类似蚂蚁的小动物中，找带蓝色金属带的小蛛。常埋伏在蚁路附近。"
+    }
+  },
+  "Persicaria longiseta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌタデ。秋に細長い穂状の赤い花を立てるタデ類。子供の遊びで「赤まんま」と呼ばれた身近な雑草です。",
+      "habitat_hint": "河川敷、農地の縁、空き地、道端、湿った草地。",
+      "finding_tips": "8〜11月、地面から細長い茎を伸ばして先に赤い小花が穂状に並ぶ植物を探します。葉の中央に黒い斑紋があるのも目印です。"
+    },
+    "en": {
+      "summary": "Long-Bristled Smartweed, with slender spikes of small red flowers in autumn. Its Japanese name 'aka-manma' echoes a children's game of pretending the spikes are red rice.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, roadsides, and damp meadows.",
+      "finding_tips": "From August to November look for slender stems with tight red flower spikes at the tip. Leaves often have a dark central blotch."
+    },
+    "zh": {
+      "summary": "长鬃蓼，秋季抽出红色穗状花序。日文俗名『红饭』源自儿童把花穗当红饭玩。",
+      "habitat_hint": "河滩、田边、空地、路边、潮湿草地。",
+      "finding_tips": "八至十一月寻找细茎顶端的红色花穗植物。叶中央常带黑色斑纹。"
+    }
+  },
+  "Plantago asiatica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバコ。在来のオオバコで、踏まれた場所でも丈夫に育つ多年草。漢方では「車前草」と呼ばれます。",
+      "habitat_hint": "道端、芝生、公園のグリーン、農道、踏み固められた地面。",
+      "finding_tips": "ロゼット状の幅広い葉と、地面から立ち上がる細長い花穂を探します。子供の「すもう草」遊びにも使われます。"
+    },
+    "en": {
+      "summary": "Asian Plantain. A tough native plantain that thrives even on trampled ground. Known in herbal medicine as 'cheqian' (车前).",
+      "habitat_hint": "Roadsides, lawns, park greens, farm roads, and trampled ground.",
+      "finding_tips": "Look for rosettes of broad leaves and slender flower spikes rising from the centre. Used in a traditional 'sumo' children's game where stems are tugged against each other."
+    },
+    "zh": {
+      "summary": "车前（亚洲车前），本土耐踏车前草。汉方医学称『车前草』。",
+      "habitat_hint": "路边、草坪、公园绿地、农道、踩实的地面。",
+      "finding_tips": "找宽叶莲座配从中心抽出的细长花穗。日本儿童游戏『相扑草』也用其茎相互拉拽。"
+    }
+  },
+  "Senecio vulgaris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノボロギク。外来種のキク科で、年中見られる小型の雑草。蕾は黄色で開かないように見え、白い綿毛で結実します。",
+      "habitat_hint": "畑、道端、空き地、河川敷、舗装の隙間、農地の縁。",
+      "finding_tips": "黄色い小さな筒状花が開かずに見える状態と、たんぽぽに似た白い綿毛の冠毛を探します。背丈10〜30cm程度です。"
+    },
+    "en": {
+      "summary": "Common Groundsel, an introduced annual found year-round. Tiny yellow disc flowers barely open before going to seed with white pappus.",
+      "habitat_hint": "Gardens, roadsides, vacant lots, riverbanks, pavement cracks, and field margins.",
+      "finding_tips": "Look for small plants (10–30 cm) with yellow flower buds that look closed and white dandelion-like seed heads."
+    },
+    "zh": {
+      "summary": "欧洲千里光，外来一年生杂草，全年可见。黄色筒状花几乎不开就结种，冠毛白色。",
+      "habitat_hint": "菜园、路边、空地、河滩、铺装缝隙、田边。",
+      "finding_tips": "找 10–30 cm 高的小植物，黄花蕾似不开放，白色冠毛似小型蒲公英。"
+    }
+  },
+  "Lygodium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カニクサ。日本で唯一のつる性シダ。明るい緑の細かい葉を持ち、低木やフェンスに絡みつくように伸びます。",
+      "habitat_hint": "雑木林の林縁、河川敷、住宅地のフェンス、低木の上、神社の境内。",
+      "finding_tips": "他の植物に絡みついて細かい羽状の葉を伸ばすシダを探します。葉柄が長く、つるのように見えるのが特徴です。"
+    },
+    "en": {
+      "summary": "Japanese Climbing Fern, the only climbing fern native to Japan. Bright green finely divided fronds drape over shrubs and fences.",
+      "habitat_hint": "Woodland edges, riverbanks, residential fences, low shrubs, and shrine grounds.",
+      "finding_tips": "Watch for a fern climbing or scrambling over other vegetation with fine pinnate leaves. Long stipes give it a vine-like look."
+    },
+    "zh": {
+      "summary": "海金沙，日本唯一的攀缘蕨。叶细密亮绿，缠绕灌丛和围栏。",
+      "habitat_hint": "林缘、河滩、住宅围栏、低木上、神社境内。",
+      "finding_tips": "找攀缘其他植物、叶细羽状的蕨。叶柄长如藤蔓。"
+    }
+  },
+  "Numenius phaeopus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チュウシャクシギ。長く下に湾曲したくちばしを持つ大型のシギ。春・秋の渡りの時期に河口や干潟で見られます。",
+      "habitat_hint": "河口、東京湾の干潟、河川下流、海岸近くの湿地、湖岸。",
+      "finding_tips": "下に湾曲した長いくちばしと、頭頂部の縦縞模様を探します。「ホーホイホイ」と特徴的な鳴き声でも識別できます。"
+    },
+    "en": {
+      "summary": "Whimbrel, a large wader with a long down-curved bill. Seen at estuaries and tidal flats during spring and autumn migration.",
+      "habitat_hint": "Estuaries, Tokyo Bay tidal flats, lower rivers, coastal wetlands, and lake shores.",
+      "finding_tips": "Look for a long down-curved bill and crown stripes. The distinctive rippling 'whew-whew-whew' call also helps."
+    },
+    "zh": {
+      "summary": "中杓鹬，大型涉禽，喙长且下弯。春秋迁徙期出现在河口与滩涂。",
+      "habitat_hint": "河口、东京湾滩涂、河流下游、海岸湿地、湖岸。",
+      "finding_tips": "找下弯长喙加头顶纵纹。鸣声为特征的『嘘——嘘——嘘』也有助辨识。"
+    }
+  },
+  "Libythea lepita": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "テングチョウ。頭部の長い天狗の鼻のような突起を持つチョウ。エノキを食樹とし、成虫越冬し早春から飛び始めます。",
+      "habitat_hint": "雑木林、エノキのある場所、神社の境内、雑木林の樹液場、河川敷の樹木。",
+      "finding_tips": "翅を閉じると枯葉そっくり、開くとオレンジと黒の模様が見えます。頭の長い突起（パルピ）が独特で、近接で確認できます。"
+    },
+    "en": {
+      "summary": "Beak Butterfly, named for its long beak-like palpi. Larvae feed on hackberry; overwinters as an adult and flies from early spring.",
+      "habitat_hint": "Mixed woodland, areas with hackberry, shrine grounds, woodland sap flows, and riverside trees.",
+      "finding_tips": "Closed wings mimic a dead leaf; open wings show orange and black. The pronounced 'snout' palpi confirm ID up close."
+    },
+    "zh": {
+      "summary": "朴喙蝶，因头部长喙状须而得名。幼虫食朴树，以成虫越冬，早春就开始飞。",
+      "habitat_hint": "杂木林、有朴树的地方、神社境内、林缘树液处、河岸树木。",
+      "finding_tips": "闭翅似枯叶，张翅显橙黑纹。近观可见头部突出的『天狗鼻』喙须为辨识要点。"
+    }
+  },
+  "Pseudognaphalium affine": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハハコグサ。春の七草の一つ「御形（ごぎょう）」。柔らかい綿毛に覆われた葉と、淡黄色の小さな花序が特徴。",
+      "habitat_hint": "畑、道端、河川敷、芝生の縁、空き地、明るい斜面。",
+      "finding_tips": "4〜6月、白い綿毛で覆われた灰緑色の葉と、頂部にまとまる淡黄色の小花を探します。"
+    },
+    "en": {
+      "summary": "Jersey Cudweed, one of the Seven Spring Herbs of Japan ('gogyo'). Soft woolly leaves and clustered pale-yellow flower heads.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, lawn edges, vacant lots, and bright slopes.",
+      "finding_tips": "From April to June, look for grey-green woolly leaves and pale yellow flower clusters at the top."
+    },
+    "zh": {
+      "summary": "鼠麴草，日本『春之七草』之一（御形）。叶被白色绒毛，顶端集开淡黄小花。",
+      "habitat_hint": "菜园、路边、河滩、草坪边、空地、明亮斜坡。",
+      "finding_tips": "四至六月寻找叶覆白色绒毛、顶端集开淡黄小花的植物。"
+    }
+  },
+  "Oxalis articulata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イモカタバミ。南米原産の外来種のカタバミで、地下に小さな塊茎を多数つけます。ピンクの花を多数咲かせます。",
+      "habitat_hint": "庭、公園の植え込み、芝生、道端、空き地。",
+      "finding_tips": "在来カタバミより花が大きく、薄ピンク色。地下に小さなイモ状の塊茎があるのが名前の由来です。"
+    },
+    "en": {
+      "summary": "Pink Wood Sorrel from South America, with showy pink flowers. Forms many small underground tubers (the source of the Japanese name 'imo-katabami').",
+      "habitat_hint": "Gardens, park plantings, lawns, roadsides, and vacant lots.",
+      "finding_tips": "Larger and pinker than native wood sorrel. Small underground tubers distinguish it from the related Large-Flowered Wood Sorrel."
+    },
+    "zh": {
+      "summary": "块茎酢浆草，南美原产外来酢浆草。开许多粉色花，地下生小型块茎（日文俗名因此）。",
+      "habitat_hint": "庭园、公园植被、草坪、路边、空地。",
+      "finding_tips": "比本土酢浆草花大、色更粉。地下小块茎与近缘的红花酢浆草区分。"
+    }
   }
 }
