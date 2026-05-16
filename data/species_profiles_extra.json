@@ -9198,5 +9198,167 @@
       "habitat_hint": "明亮草地、河滩、田边、草坪、明亮斜坡。",
       "finding_tips": "四至六月寻找莲座基生、细茎抽出许多类蒲公英黄色小头花的植物。叶深裂。"
     }
+  },
+  "Psilogramma increta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シモフリスズメ。前翅に独特の灰色の霜のような模様がある大型のスズメガ。夕方〜夜に花の前でホバリングして蜜を吸います。",
+      "habitat_hint": "庭、花壇、雑木林の林縁、夜の街灯、開けた園路。",
+      "finding_tips": "夕方〜夜、花の前でホバリングする灰色の大型スズメガを探します。翅の「霜降り」模様で他の種と区別できます。"
+    },
+    "en": {
+      "summary": "Plain Hawkmoth, a large hawkmoth with frosty grey wing markings. Hovers at flowers in the evening and at night.",
+      "habitat_hint": "Gardens, flower beds, woodland edges, around streetlights at night, and open paths.",
+      "finding_tips": "At dusk and night watch flowers for a large grey hawkmoth hovering. The 'frosted' grey wing pattern is the field mark."
+    },
+    "zh": {
+      "summary": "深霜天蛾，大型天蛾，前翅有独特灰色霜状斑纹。黄昏与夜间在花前悬停吸蜜。",
+      "habitat_hint": "庭园、花坛、林缘、夜灯下、开阔园路。",
+      "finding_tips": "黄昏与夜间在花前找悬停的大型灰色天蛾。翅上『霜降』斑纹是辨识。"
+    }
+  },
+  "Dactylis glomerata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カモガヤ。ヨーロッパ原産の外来種の大型イネ科で、牧草として導入されました。花粉症の原因植物としても知られます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、土手、明るい斜面。",
+      "finding_tips": "5〜7月、人の腰高ほどに育ち、塊状の独特な花序を立てる大型イネ科を探します。**花粉症の原因なので、花期は近寄りすぎないこと。**"
+    },
+    "en": {
+      "summary": "Orchard Grass / Cocksfoot. A tall European introduced grass cultivated as forage. Also a notable cause of hay fever.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, levees, and bright slopes.",
+      "finding_tips": "From May to July look for waist-high grasses with distinctive lumpy panicles. **Hay-fever allergen — avoid close contact when in flower.**"
+    },
+    "zh": {
+      "summary": "鸭茅，欧洲原产外来大型禾本科，作牧草引入。也是花粉症常见诱因。",
+      "habitat_hint": "河滩、空地、田边、堤岸、明亮斜坡。",
+      "finding_tips": "五至七月找腰高、花序呈团块状的大型禾本科。**花期是花粉症原因，请勿靠近。**"
+    }
+  },
+  "Sympetrum eroticum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マユタテアカネ。中型の赤トンボで、雄の顔に「眉」のような黒い模様があります。秋に水田や湿地で見られます。",
+      "habitat_hint": "水田、湿地、池、用水路、開けた水辺。",
+      "finding_tips": "秋、水田の上を飛ぶ赤いトンボのうち、顔に黒い「眉」模様があるものを探します。アキアカネより小型です。"
+    },
+    "en": {
+      "summary": "A medium red dragonfly. Males have a distinctive black 'eyebrow' mark on the face. Found around paddies and wetlands in autumn.",
+      "habitat_hint": "Rice paddies, wetlands, ponds, ditches, and open water margins.",
+      "finding_tips": "In autumn over paddies look for red dragonflies; those with a black mark on the face are likely this species. Smaller than the Autumn Red Dragonfly."
+    },
+    "zh": {
+      "summary": "中型红蜻蜓，雄虫面部具黑色『眉』状斑。秋季见于水田与湿地。",
+      "habitat_hint": "水田、湿地、池塘、灌渠、开阔水边。",
+      "finding_tips": "秋季在水田上找面部具黑斑的红蜻蜓。比秋赤蜓小。"
+    }
+  },
+  "Anthrenus verbasci": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメマルカツオブシムシ。小型の丸い甲虫で、屋内では衣類害虫として知られますが、屋外では花の上で蜜を吸う日中活動性です。",
+      "habitat_hint": "花壇、河川敷の花、家屋の窓周辺、ベランダの植え込み。",
+      "finding_tips": "春、白い花（特にウツギなど）の上で背中に細かい模様のある小型甲虫を探します。屋内では衣類のクローゼットでも見つかります。"
+    },
+    "en": {
+      "summary": "Varied Carpet Beetle, a small round beetle. Famous indoors as a textile pest, but outdoors it visits flowers in daylight to feed on nectar.",
+      "habitat_hint": "Flower beds, riverside flowers, around windows of houses, and balcony plantings.",
+      "finding_tips": "In spring look on white flowers (especially Deutzia) for a small round beetle with fine mottled patterns. Indoors it also turns up in closets."
+    },
+    "zh": {
+      "summary": "花斑皮蠹，小型圆形甲虫。室内是衣物害虫，室外则白天访花吸蜜。",
+      "habitat_hint": "花坛、河滩花卉、家屋窗附近、阳台植被。",
+      "finding_tips": "春季在白花（尤其溲疏）上找背具细密斑纹的小型圆甲虫。室内衣橱也可能见到。"
+    }
+  },
+  "Paraglenea fortunei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ラミーカミキリ。鮮やかな水色の体に黒い模様の中型カミキリムシ。ラミー（カラムシ）を食樹とし、外来種ですが日本各地で定着しています。",
+      "habitat_hint": "雑木林の林縁、河川敷、農地、ラミーやカラムシのある場所。",
+      "finding_tips": "夏、葉の上で水色に黒い模様のあるカミキリを探します。色彩が美しく、近くで観察する価値があります。"
+    },
+    "en": {
+      "summary": "Ramie Longhorn Beetle. A medium longhorn with a striking sky-blue body and black markings. Introduced to Japan but well established; feeds on ramie and related plants.",
+      "habitat_hint": "Woodland edges, riverbanks, farmland, and around ramie/nettles.",
+      "finding_tips": "In summer search leaves for a longhorn with a sky-blue body marked in black. Worth a close look — strikingly coloured."
+    },
+    "zh": {
+      "summary": "苎麻天牛，中型天牛，体亮天蓝色配黑斑。原为外来种，在日本各地定殖。幼虫食苎麻。",
+      "habitat_hint": "林缘、河滩、农田、有苎麻的地方。",
+      "finding_tips": "夏季在叶上找天蓝色配黑斑的天牛。色彩鲜美，值得近观。"
+    }
+  },
+  "Andropogon virginicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メリケンカルカヤ。北米原産の外来種の大型イネ科で、秋に綿毛状の花穂を立てます。日当たりの良い荒地に群生し、近年急速に拡大しています。",
+      "habitat_hint": "河川敷、空き地、農地の縁、休耕田、明るい斜面。",
+      "finding_tips": "10〜11月、人の腰高ほどに育つ茶褐色の茎と、白い綿毛のような花穂を立てる場所を探します。秋の風景に独特の雰囲気を加えます。"
+    },
+    "en": {
+      "summary": "Broomsedge Bluestem, a North-American introduced grass forming dense colonies on sunny disturbed ground. Cottony flower spikes in autumn; rapidly expanding in Japan.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, fallow fields, and bright slopes.",
+      "finding_tips": "From October to November look for waist-high colonies with reddish-tan stems and cottony plumes. Increasingly visible across the Kanto landscape."
+    },
+    "zh": {
+      "summary": "美洲须芒草，北美原产外来大型禾本科。秋季抽棉毛状花穗，在向阳荒地成片，近年快速扩散。",
+      "habitat_hint": "河滩、空地、田边、休耕田、明亮斜坡。",
+      "finding_tips": "十至十一月寻找腰高、茎红褐色配棉毛花穗的群落。秋色景观中很显眼。"
+    }
+  },
+  "Acalypha australis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エノキグサ。葉がエノキに似ることが名前の由来の在来種一年草。秋に独特な「お椀」型の苞葉に包まれた花序をつけます。",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、道端。",
+      "finding_tips": "8〜10月、エノキに似た卵形の葉と、独特の浅いお椀型の苞に包まれた花序を持つ植物を探します。"
+    },
+    "en": {
+      "summary": "Asian Copperleaf, a native annual. Leaves resemble hackberry (Celtis) — hence the Japanese name 'enoki-gusa'. Autumn flowers are wrapped in distinctive cup-like bracts.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, and roadsides.",
+      "finding_tips": "From August to October look for plants with hackberry-like oval leaves and unusual cupped bracts surrounding the flowers."
+    },
+    "zh": {
+      "summary": "铁苋菜，本土一年生植物。叶似朴树（日文俗名因此）。秋季花序包裹于独特的浅杯状苞片中。",
+      "habitat_hint": "菜园、河滩、空地、田边、路边。",
+      "finding_tips": "八至十月寻找叶似朴树的卵形叶、花序被浅杯状苞包裹的植物。"
+    }
+  },
+  "Coryphopteris japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハシゴシダ。湿った林床に生える中型のシダ。葉は二回羽状で、葉軸に毛があり、湿った場所で群生します。",
+      "habitat_hint": "湿った林床、谷沿いの林、神社の境内、半日陰の斜面、河川敷の林。",
+      "finding_tips": "湿った林床で、葉軸に毛のある二回羽状の中型シダを探します。葉裏の胞子嚢群は丸く、葉脈の途中につきます。"
+    },
+    "en": {
+      "summary": "A medium fern of damp forest floor with hairy rachis. Bipinnate fronds; often colonial in damp half-shade.",
+      "habitat_hint": "Damp forest floor, valley woods, shrine grounds, shaded slopes, and riverside woods.",
+      "finding_tips": "On damp forest floor look for a medium bipinnate fern with hairy rachis. Round sori sit along vein midpoints on the underside."
+    },
+    "zh": {
+      "summary": "卵果蕨（梯形蕨），潮湿林床中型蕨。叶轴具毛，二回羽状叶常成片。",
+      "habitat_hint": "潮湿林床、谷地林、神社境内、半阴斜坡、河岸林。",
+      "finding_tips": "在潮湿林床找叶轴具毛、二回羽状的中型蕨。叶背圆形孢子囊群位于叶脉中部。"
+    }
+  },
+  "Neillia incisa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゴメウツギ。雑木林の林縁に普通の落葉低木で、初夏に白い小花を多数つけます。葉は深く切れ込み、独特の形をしています。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の境内、明るい斜面、社寺林。",
+      "finding_tips": "5〜6月、白い小花が枝先に集まる低木を探します。葉が独特の深い切れ込みを持ち、ウツギに似た姿ですが小型です。"
+    },
+    "en": {
+      "summary": "A native shrub of mixed woodland edges. Clusters of small white flowers in early summer; leaves are deeply lobed and distinctive.",
+      "habitat_hint": "Woodland edges, valley woods, shrine grounds, bright slopes, and shrine groves.",
+      "finding_tips": "From May to June look for shrubs with clusters of small white flowers at branch tips. The deeply lobed leaves help separate it from related shrubs."
+    },
+    "zh": {
+      "summary": "粉花绣线菊近缘（小米空木），杂木林林缘常见落叶灌木。初夏开许多白色小花，叶深裂独特。",
+      "habitat_hint": "杂木林林缘、谷地林、神社境内、明亮斜坡、神社树林。",
+      "finding_tips": "五至六月寻找枝梢集开白色小花的灌木。叶深裂可与近缘种区分。"
+    }
   }
 }
