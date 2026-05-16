@@ -8712,5 +8712,167 @@
       "habitat_hint": "花坛、杂木林树液处、开花灌木、神社境内、明亮园路。",
       "finding_tips": "在花上（尤其菊蓟与八角金盘）找背具黄色不规则斑的小型黑色金龟。"
     }
+  },
+  "Eristalis tenax": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナミハナアブ。ミツバチに擬態した大型のハナアブで、花を訪れます。幼虫は水中で「オナガウジ」と呼ばれる尾を持つ姿で、汚水でも生きられます。",
+      "habitat_hint": "花壇、河川敷の花、湿地、農地、街路樹下の花。",
+      "finding_tips": "花の上で長く滞在するミツバチに似た大型のハナアブを探します。羽は透明2枚（本物のハチは4枚）、目が大きく丸いのが特徴です。"
+    },
+    "en": {
+      "summary": "Drone Fly, a large bee-mimic hover fly common at flowers. Larvae are 'rat-tailed maggots' that live in stagnant water with a breathing siphon.",
+      "habitat_hint": "Flower beds, riverside flowers, wetlands, farmland, and flowers under street trees.",
+      "finding_tips": "Look at flowers for a bee-like insect lingering at the bloom. Two transparent wings (vs four in real bees) and large rounded eyes confirm it as a fly."
+    },
+    "zh": {
+      "summary": "长尾管蚜蝇（拟蜜蜂食蚜蝇），大型食蚜蝇，访花。幼虫『鼠尾蛆』生活在腐水中以呼吸管换气。",
+      "habitat_hint": "花坛、河滩花卉、湿地、农田、行道树下花卉。",
+      "finding_tips": "在花上找停留较久的拟蜂昆虫。两片透明翅（真蜂为四片）加大圆眼可识为蝇。"
+    }
+  },
+  "Vespa simillima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キイロスズメバチ。鮮やかな黄色と黒の縞模様の大型スズメバチで、攻撃性が高いです。住宅地でも巣を作ることがあるため要注意。",
+      "habitat_hint": "雑木林、住宅地の軒下、樹木のうろ、地中、神社の境内。",
+      "finding_tips": "**安全距離を厳守してください。** 鮮やかな黄色が目立つ大型スズメバチ。秋は特に攻撃的なので、巣の場所に近づかないこと。"
+    },
+    "en": {
+      "summary": "Japanese Yellow Hornet, a large hornet with vivid yellow-and-black banding. Aggressive — also builds nests around houses.",
+      "habitat_hint": "Mixed woodland, eaves of houses, tree hollows, underground, and shrine grounds.",
+      "finding_tips": "**Keep a firm safety distance.** Bright yellow is the field mark. Particularly aggressive in autumn — never approach a nest."
+    },
+    "zh": {
+      "summary": "黄胡蜂（日本黄足胡蜂），大型胡蜂，亮黄黑相间。攻击性强，也会在住宅周围筑巢。",
+      "habitat_hint": "杂木林、住宅屋檐、树洞、地下、神社境内。",
+      "finding_tips": "**严守安全距离。** 鲜亮黄色为辨识特征。秋季尤具攻击性，请勿靠近蜂巢。"
+    }
+  },
+  "Butorides striata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササゴイ。小型のサギで、水辺で待ち伏せ漁を行います。「ササ」のような葉模様の体色と、餌を釣るために物を水面に置く「漁具使用」行動で有名。",
+      "habitat_hint": "河川の岸辺、池、湿地、河口、橋下の浅瀬。",
+      "finding_tips": "夏、河川の岸辺で背を丸めてじっと立つ小型のサギを探します。羽の縞模様が「ササ」の葉に似ていることが名前の由来です。"
+    },
+    "en": {
+      "summary": "Striated Heron, a small heron that ambushes fish. Famous for tool use — drops bait onto the water surface to lure fish.",
+      "habitat_hint": "Riverbanks, ponds, wetlands, estuaries, and shallow water under bridges.",
+      "finding_tips": "In summer look for a small hunched heron standing still by water. The streaky wing pattern (likened to bamboo grass leaves in Japanese) is diagnostic."
+    },
+    "zh": {
+      "summary": "绿鹭，小型鹭，水边伏击捕鱼。著名以工具诱鱼（把诱饵丢入水面引鱼）。",
+      "habitat_hint": "河岸、池塘、湿地、河口、桥下浅水。",
+      "finding_tips": "夏季在河岸找弓背伫立的小型鹭。翅上斑纹似笹竹叶，日文俗名因此。"
+    }
+  },
+  "Sagina japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツメクサ。非常に小型の在来種で、芝生や舗装の隙間に普通の越年草。針状の細い葉と、小さな白い5弁花が特徴です。",
+      "habitat_hint": "芝生、道端、舗装の隙間、農地の縁、空き地。",
+      "finding_tips": "3〜7月、地面近くで針のような細い葉と直径3mmほどの白い5弁花を探します。シロツメクサとは別物で、芝生の隙間にも生えます。"
+    },
+    "en": {
+      "summary": "Japanese Pearlwort, a tiny native annual common in lawns and pavement cracks. Needle-like leaves and small white five-petalled flowers.",
+      "habitat_hint": "Lawns, roadsides, pavement cracks, field margins, and vacant lots.",
+      "finding_tips": "From March to July look low for plants with needle-like leaves and tiny white flowers. Despite the name in Japanese being 'tsume-kusa', it is unrelated to clover."
+    },
+    "zh": {
+      "summary": "日本漆姑草，极小型本土越年生草。叶针状细线形，开白色五瓣小花。",
+      "habitat_hint": "草坪、路边、铺装缝、田边、空地。",
+      "finding_tips": "三至七月低头找针状叶配直径约 3 mm 白色五瓣小花的极小植物。"
+    }
+  },
+  "Carpinus tschonoskii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌシデ。雑木林に普通の落葉樹。シデ類の中でも普通種で、葉脈が目立つ細長い葉と、垂れ下がる果穂が特徴です。",
+      "habitat_hint": "雑木林、社寺林、コナラ・クヌギ林、谷沿いの林、明るい斜面。",
+      "finding_tips": "葉脈が深く目立つ細長い葉と、秋〜冬に枝先から垂れ下がる果穂（鱗状の苞葉の集まり）を探します。樹皮は灰白色で滑らかです。"
+    },
+    "en": {
+      "summary": "Tschonoski's Hornbeam, a common deciduous tree of mixed woodland. Elongated leaves with deeply impressed veins; pendulous fruit clusters with scale-like bracts in autumn-winter.",
+      "habitat_hint": "Mixed woodland, shrine groves, oak woods, valley woods, and bright slopes.",
+      "finding_tips": "Look for elongated leaves with strongly marked veins. In autumn-winter the trailing scaly fruit clusters are diagnostic; bark is smooth grey-white."
+    },
+    "zh": {
+      "summary": "千金榆（鹅耳枥的一种），杂木林常见落叶树。叶脉明显的长椭圆叶，秋冬枝梢垂下鳞状果序。",
+      "habitat_hint": "杂木林、神社树林、栎林、谷地林、明亮斜坡。",
+      "finding_tips": "找叶脉深陷的长椭圆叶。秋冬枝梢垂下鳞状果序。树皮灰白光滑。"
+    }
+  },
+  "Rumex acetosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スイバ。葉に強い酸味があるタデ科の多年草。在来種で、春の若葉は山菜として食用にもなります。秋に赤褐色の果実をつけます。",
+      "habitat_hint": "河川敷、農地の縁、空き地、明るい斜面、湿った草地。",
+      "finding_tips": "5〜7月、矢じり形の細長い葉と、赤褐色を帯びた花序を持つ植物を探します。葉をかじると強い酸味があるのが名前の由来です。"
+    },
+    "en": {
+      "summary": "Common Sorrel, a native perennial whose leaves have a strong sour taste. Spring shoots are a foraging vegetable. Reddish-brown fruits in autumn.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, bright slopes, and damp meadows.",
+      "finding_tips": "From May to July look for plants with arrow-shaped narrow leaves and reddish-brown inflorescences. Chewing a leaf gives a sharp sour taste."
+    },
+    "zh": {
+      "summary": "酸模，本土多年生蓼科。叶具强酸味，春嫩芽可食。秋季结红褐色果。",
+      "habitat_hint": "河滩、田边、空地、明亮斜坡、潮湿草地。",
+      "finding_tips": "五至七月寻找矢形长椭圆叶配红褐色花序的植物。嚼叶有强酸味即可确认。"
+    }
+  },
+  "Adiantum capillus-veneris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホウライシダ。湿った石灰岩の岩壁や石垣に生える常緑シダ。細かい扇形の葉が密につく姿が美しく、観賞用にも栽培されます。",
+      "habitat_hint": "湿った石灰岩の岩壁、石垣、神社の境内の石組み、温泉の周辺。",
+      "finding_tips": "湿った岩や石垣で、黒い細い葉軸に扇形の小さな葉が密につく繊細なシダを探します。"
+    },
+    "en": {
+      "summary": "Southern Maidenhair Fern, a delicate evergreen fern of damp limestone walls. Black wiry stipes carry many small fan-shaped pinnules — also widely grown as an ornamental.",
+      "habitat_hint": "Damp limestone cliffs, stone walls, shrine masonry, and hot-spring surroundings.",
+      "finding_tips": "On damp walls and rocks look for a delicate fern with black wiry stems and many small fan-shaped leaflets."
+    },
+    "zh": {
+      "summary": "铁线蕨，潮湿石灰岩与石墙上的纤巧常绿蕨。黑色细茎上密生小扇形小叶，常作观赏栽培。",
+      "habitat_hint": "潮湿石灰岩、石墙、神社石砌、温泉周边。",
+      "finding_tips": "在潮湿岩石和石墙找细茎黑亮、密生扇形小叶的纤巧蕨。"
+    }
+  },
+  "Luzula capitata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズメノヤリ。早春に咲く小型のイグサ科。茶褐色の球状の小花序が「すずめの槍」の見立てとなった名前の由来です。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、芝生の縁、神社の境内、農地の縁。",
+      "finding_tips": "3〜5月、地面近くで茶褐色の球状の小さな花序を立てる植物を探します。細長い葉のロゼットも目印です。"
+    },
+    "en": {
+      "summary": "A small woodrush. Brown ball-shaped flower clusters in early spring — the source of the Japanese name 'sparrow's spear'.",
+      "habitat_hint": "Woodland edges, bright slopes, lawn edges, shrine grounds, and field margins.",
+      "finding_tips": "From March to May look low for plants with small brown ball-shaped flower clusters. Narrow leaves form rosettes at the base."
+    },
+    "zh": {
+      "summary": "小灯心草（『雀矛』），早春开褐色球状小花序的小型灯心草。",
+      "habitat_hint": "林缘、明亮斜坡、草坪边、神社境内、田边。",
+      "finding_tips": "三至五月低头找开褐色球状小花序的植物。基部细叶莲座。"
+    }
+  },
+  "Orosanga japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ベッコウハゴロモ。鮮やかな鼈甲色の翅を持つ独特の半翅目。葉の上に静止し、警戒すると素早く跳ねます。",
+      "habitat_hint": "雑木林の林縁、河川敷、住宅地の生け垣、神社の境内、低木の上。",
+      "finding_tips": "葉の上で鼈甲色（茶色〜橙色のまだら）の翅を立てた状態で静止する小型の昆虫を探します。葉に擬態した姿が独特です。"
+    },
+    "en": {
+      "summary": "A planthopper with strikingly tortoiseshell-coloured wings (orange-brown variegation). Rests on leaves with wings held tent-like; leaps when alarmed.",
+      "habitat_hint": "Woodland edges, riverbanks, residential hedges, shrine grounds, and shrub tops.",
+      "finding_tips": "Look on leaves for a small planthopper with tent-roof orange-brown wings. The leaf-mimic appearance is distinctive."
+    },
+    "zh": {
+      "summary": "日本褐瓢蜡蝉（『鳖甲蛾蜡蝉』），翅呈鳖甲（褐橙杂色）的独特半翅目。叶上静伏，受惊跳跃。",
+      "habitat_hint": "林缘、河滩、住宅绿篱、神社境内、灌木顶。",
+      "finding_tips": "在叶上找翅如鳖甲、立帐篷状静伏的小型昆虫。叶面拟态独特。"
+    }
   }
 }
