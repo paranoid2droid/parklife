@@ -7325,5 +7325,149 @@
       "habitat_hint": "林缘、神社参道旁、田边、半阴草地。",
       "finding_tips": "八至十月寻找抽出淡紫蝶形小花穗的植物。后结三角节状果会粘上衣服。"
     }
+  },
+  "Celastrina argiolus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ルリシジミ。翅表が淡青紫色に光るシジミチョウ。年中見られ、明るい林縁や開けた場所で素早く飛びます。",
+      "habitat_hint": "雑木林の林縁、河川敷、明るい園路、農地の縁、住宅地の庭。",
+      "finding_tips": "翅を閉じると裏が淡灰色に細かい黒点、翅を開くと淡青紫色が光ります。地面で吸水することもあります。"
+    },
+    "en": {
+      "summary": "Holly Blue, a lycaenid butterfly with pale violet-blue uppersides. Active year-round, flying fast along woodland edges and open spaces.",
+      "habitat_hint": "Woodland edges, riverbanks, bright paths, field margins, and residential gardens.",
+      "finding_tips": "Closed wings are pale grey with fine black dots; open wings flash pale violet-blue. Sometimes takes water from damp ground."
+    },
+    "zh": {
+      "summary": "琉璃灰蝶，翅面闪淡紫蓝色的灰蝶。全年可见，在林缘和开阔地快飞。",
+      "habitat_hint": "林缘、河滩、明亮园路、田边、住宅区庭院。",
+      "finding_tips": "闭翅时反面浅灰带细黑点，张翅显淡紫蓝。也会在地面吸水。"
+    }
+  },
+  "Muscicapa dauurica": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コサメビタキ。小型のヒタキ類で、頭が大きく見える独特のシルエット。秋の渡りの時期に雑木林の樹冠で見られます。",
+      "habitat_hint": "雑木林、社寺林、明るい林縁、河川敷の樹林、街路樹の頂部。",
+      "finding_tips": "9〜10月、頭が大きく見える小型の灰褐色の鳥を樹冠で探します。エゾビタキより小型で胸の縞が薄いです。樹上から「フライキャッチ」する行動が特徴。"
+    },
+    "en": {
+      "summary": "Asian Brown Flycatcher, a small flycatcher with a large-headed silhouette. Seen in canopies during autumn migration.",
+      "habitat_hint": "Mixed woodland, shrine groves, bright woodland edges, riverside trees, and top of street trees.",
+      "finding_tips": "From September to October scan canopies for a small grey-brown bird with a notably large head. Smaller than Grey-streaked Flycatcher and with fainter chest streaks; sallies from perches to catch insects."
+    },
+    "zh": {
+      "summary": "北灰鹟，小型鹟，头显大形成独特轮廓。秋季迁徙时见于杂木林冠层。",
+      "habitat_hint": "杂木林、神社树林、明亮林缘、河岸林、行道树顶。",
+      "finding_tips": "九至十月在树冠找头大、体灰褐的小型鸟。比灰纹鹟小，胸纹更淡。常从枝头飞起捕虫。"
+    }
+  },
+  "Rubus palmatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モミジイチゴ。葉がモミジに似た形の在来種の木イチゴ。春に白い5弁花を下向きに咲かせ、初夏に黄〜橙色の甘い実をつけ食用になります。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、伐採跡地、神社の境内、河川敷の藪。",
+      "finding_tips": "3〜4月、モミジに似た葉と下向きの白花を持つ低木を探します。5〜6月の黄橙色の集合果は甘くて美味しいです。**茎にトゲがあるので注意。**"
+    },
+    "en": {
+      "summary": "Maple-leaf Bramble. A native Rubus whose leaves resemble Japanese maple. White downward-facing five-petalled flowers in spring; sweet yellow-orange fruits in early summer.",
+      "habitat_hint": "Woodland edges, bright slopes, clearings, shrine grounds, and riverbank thickets.",
+      "finding_tips": "In March-April look for shrubs with maple-shaped leaves and nodding white flowers. May-June fruits are yellow-orange and very sweet. **Stems are thorny — handle with care.**"
+    },
+    "zh": {
+      "summary": "掌叶悬钩子（似枫叶悬钩子），叶形似枫叶的本土悬钩子。春季开下垂白色五瓣花，初夏结甜美的橙黄色聚合果，可食。",
+      "habitat_hint": "林缘、明亮斜坡、伐木迹地、神社境内、河滩灌丛。",
+      "finding_tips": "三至四月找叶似枫的灌木与下垂白花。五至六月橙黄聚合果甜美。**茎具刺，请小心。**"
+    }
+  },
+  "Melolontha japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コフキコガネ。灰白色の鱗粉に覆われた大型のコガネムシ類。夏の夜に街灯に飛来します。",
+      "habitat_hint": "雑木林、果樹園、神社の境内、夜の街灯、明るい林縁。",
+      "finding_tips": "夏の夜、街灯や自販機の灯りに集まる灰白色のコガネムシを探します。「フキ」のように粉を吹いた見た目が独特です。"
+    },
+    "en": {
+      "summary": "Japanese Cockchafer, a large scarab covered with greyish white scales — looking 'dusted with flour'. Comes to summer lights at night.",
+      "habitat_hint": "Mixed woodland, orchards, shrine grounds, around streetlights at night, and bright woodland edges.",
+      "finding_tips": "On summer nights look at streetlights for a large grey-dusted scarab. The 'powdery' appearance is the field mark."
+    },
+    "zh": {
+      "summary": "粉胸金龟，大型金龟，体覆灰白色鳞粉如『撒粉』。夏夜趋灯。",
+      "habitat_hint": "杂木林、果园、神社境内、夜灯下、明亮林缘。",
+      "finding_tips": "夏夜在路灯下找灰白如沾粉的大型金龟。粉状外观为辨识标志。"
+    }
+  },
+  "Eusilpha japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオヒラタシデムシ。動物の死骸を分解する大型の平たい甲虫。前胸が橙色〜黄褐色で、翅が黒く光沢があります。生態系の重要な分解者です。",
+      "habitat_hint": "雑木林の林床、河川敷、動物の死骸付近、農地、湿った地面。",
+      "finding_tips": "落ち葉や石をめくると見つかる平たい甲虫で、前胸の橙色が目印。死骸の下では集団で見られます。**触ると独特の悪臭を出すので素手は避けて。**"
+    },
+    "en": {
+      "summary": "A large carrion beetle with a striking orange-to-yellow pronotum and glossy black elytra. Important decomposer in woodland ecosystems.",
+      "habitat_hint": "Forest understory, riverbanks, around animal carcasses, farmland, and damp ground.",
+      "finding_tips": "Turn over leaves and stones for a large flat beetle whose orange pronotum stands out. Groups gather under carrion. **Releases a foul smell when handled.**"
+    },
+    "zh": {
+      "summary": "日本葬甲（前胸橙黄色），大型扁平食腐甲虫。林地生态系统的重要分解者。",
+      "habitat_hint": "杂木林林床、河滩、动物尸体附近、农田、潮湿地面。",
+      "finding_tips": "翻起落叶或石头找扁平甲虫，前胸橙黄是辨识标志。尸体下常聚集。**勿徒手接触，会放恶臭。**"
+    }
+  },
+  "Chaenomeles japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサボケ。在来種の小型のボケで、地面を這うように低く広がります。春に鮮やかな朱赤色の花を咲かせ、秋に香りの良い果実をつけます。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、神社の境内、河川敷の砂地、農地の縁。",
+      "finding_tips": "3〜4月、地面近くで朱赤色の5弁花を多数咲かせる低い灌木を探します。葉は小型で、果実は黄色く香りがあります。"
+    },
+    "en": {
+      "summary": "Japanese Quince. A native low-spreading quince. Vivid orange-red flowers in spring; fragrant yellow autumn fruits.",
+      "habitat_hint": "Woodland edges, bright slopes, shrine grounds, sandy riverbanks, and field margins.",
+      "finding_tips": "From March to April find a low shrub bearing many bright orange-red five-petalled flowers near the ground. Leaves are small; yellow autumn fruits have a strong fragrance."
+    },
+    "zh": {
+      "summary": "日本木瓜，本土低矮木瓜灌木。春季开许多鲜朱红色五瓣花，秋季结芳香的黄色果。",
+      "habitat_hint": "林缘、明亮斜坡、神社境内、河滩沙地、田边。",
+      "finding_tips": "三至四月寻找近地面开许多朱红色五瓣花的低矮灌木。叶小，秋季黄果有香气。"
+    }
+  },
+  "Chlorophyllum molybdites": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオシロカラカサタケ。芝生や公園のグリーンに発生する大型の白いキノコ。**有毒で、食中毒症状を引き起こすので絶対に食べないでください。**",
+      "habitat_hint": "芝生、公園のグリーン、ゴルフ場、運動場、農地の縁。",
+      "finding_tips": "夏〜秋、芝生に大型（傘の直径10〜20cm）の白いキノコが円形に並んで（フェアリーリング）出現します。**有毒。** 観察のみで採取しないこと。"
+    },
+    "en": {
+      "summary": "Green-spored Parasol, a large white mushroom of lawns and park greens. **Toxic — causes gastrointestinal poisoning. Do not eat under any circumstances.**",
+      "habitat_hint": "Lawns, park greens, golf courses, sports fields, and field margins.",
+      "finding_tips": "From summer to autumn look for large white mushrooms (cap 10–20 cm) appearing in 'fairy rings' on lawns. **Toxic — observe only, never harvest.**"
+    },
+    "zh": {
+      "summary": "大青褶伞，常生于草坪与公园绿地的大型白菌。**有毒，致胃肠中毒，切勿食用。**",
+      "habitat_hint": "草坪、公园绿地、高尔夫球场、运动场、田边。",
+      "finding_tips": "夏秋在草坪上出现大型（盖直径 10–20 cm）白色菌，常成圆环（仙女环）。**有毒，仅观察不采集。**"
+    }
+  },
+  "Carex leucochlora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオスゲ。雑木林の林床や明るい斜面に生える小型の常緑スゲ類。細長い葉を密に伸ばし、春に花穂を立てます。",
+      "habitat_hint": "雑木林の林床、明るい斜面、神社の境内、農地の縁、半日陰の草地。",
+      "finding_tips": "4〜6月、細長い緑の葉を密に伸ばす株から細い茎の先に花穂を立てる小型スゲを探します。林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A small evergreen sedge of forest understory and bright slopes. Slender leaves form dense tufts; flower spikes appear in spring.",
+      "habitat_hint": "Forest understory, bright slopes, shrine grounds, field margins, and shaded grass.",
+      "finding_tips": "From April to June look for small evergreen sedges with dense narrow leaves and slender flower spikes at the top. Often forms ground-covering colonies."
+    },
+    "zh": {
+      "summary": "青笺薹草，小型常绿薹草。生于林床与明亮斜坡，细叶密生，春季抽花穗。",
+      "habitat_hint": "杂木林林床、明亮斜坡、神社境内、田边、半阴草地。",
+      "finding_tips": "四至六月找细叶密生的小型薹草，细茎顶端抽花穗。常成片覆地。"
+    }
   }
 }
