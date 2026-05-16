@@ -4427,5 +4427,167 @@
       "habitat_hint": "菜地、庭院、河滩、草地、杂草丛、有蚜虫的植物。",
       "finding_tips": "在叶上找红底黑斑变化多端的瓢虫。若与七星和异色瓢虫都对不上，可能就是本种。"
     }
+  },
+  "Wisteria floribunda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノダフジ。日本固有のフジで、長く垂れ下がる紫色の花房が春の名物。蔓は時計回り（右巻き）に他の木に絡みます。",
+      "habitat_hint": "雑木林、神社の境内、藤棚、谷沿いの林、河川敷の樹木。",
+      "finding_tips": "4〜5月、長い紫色の花房が藤棚や林冠から垂れ下がります。同じくフジと呼ばれるヤマフジ（Wisteria brachybotrys）は左巻きで花房が短いので区別できます。"
+    },
+    "en": {
+      "summary": "Japanese Wisteria, an endemic wisteria. Famous for long pendulous purple flower racemes in spring. Vines twine clockwise around hosts.",
+      "habitat_hint": "Mixed woodland, shrine grounds, wisteria trellises, valley woods, and riverside trees.",
+      "finding_tips": "From April to May look for long purple flower racemes draping from trellises or canopies. Differs from the related Yama-fuji (left-twining vines, shorter racemes)."
+    },
+    "zh": {
+      "summary": "野田藤，日本特有的紫藤。春季垂下长串紫色花序十分著名，藤蔓顺时针缠绕。",
+      "habitat_hint": "杂木林、神社境内、紫藤架、谷地林、河岸树木。",
+      "finding_tips": "四至五月寻找紫藤架或林冠垂下的长串紫色花序。与山藤（左旋短花序）相区分。"
+    }
+  },
+  "Trichosanthes cucumeroides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラスウリ。夜に純白の繊細なレース状の花を咲かせるつる植物。秋に赤い実をつけることでも親しまれ、絵やお正月の飾りにも使われます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、空き地。",
+      "finding_tips": "夏の夜、長い糸状の繊細な白い花を探します。日中はしぼんでしまうので、夜の観察が必須。秋には朱赤色の楕円形の実が目立ちます。"
+    },
+    "en": {
+      "summary": "Japanese Snake Gourd, a vine that opens delicate lacy white flowers at night. Bright orange-red fruits in autumn are used in decorations and folk art.",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, and vacant lots.",
+      "finding_tips": "On summer nights look for fragile long white flowers with thread-like petal extensions — they wilt by day. Bright orange-red elongated fruits in autumn."
+    },
+    "zh": {
+      "summary": "王瓜（栝楼属），夜间开放纯白蕾丝状花的藤本。秋季结鲜橙红色椭圆形果，常用作传统装饰。",
+      "habitat_hint": "林缘、河滩灌丛、住宅围栏、空地。",
+      "finding_tips": "夏夜寻找带丝状裂片的白色细花。白天即闭合。秋季醒目橙红色长椭圆果。"
+    }
+  },
+  "Trachelospermum asiaticum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "テイカカズラ。常緑のつる植物で、初夏に風車のような形の白い花を咲かせます。茎を切ると白い乳液が出ます（有毒）。",
+      "habitat_hint": "雑木林、社寺林、神社の境内、岩や樹幹、明るい斜面。",
+      "finding_tips": "5〜6月、白い5枚の風車のような花が枝先に集まる常緑のつるを探します。光沢のある厚い葉が年中見られます。**乳液は皮膚刺激あり。**"
+    },
+    "en": {
+      "summary": "Asian Star Jasmine, an evergreen climber with pinwheel-shaped white flowers in early summer. Stems exude white latex when cut (mildly toxic).",
+      "habitat_hint": "Mixed woodland, shrine groves, shrine grounds, rocks and tree trunks, and bright slopes.",
+      "finding_tips": "From May to June look for clusters of white pinwheel flowers on an evergreen climber. Glossy thick leaves visible year-round. **Latex can irritate skin.**"
+    },
+    "zh": {
+      "summary": "亚洲络石，常绿藤本。初夏开白色风车状花。茎断流白色乳汁（有毒）。",
+      "habitat_hint": "杂木林、神社树林、神社境内、岩石与树干、明亮斜坡。",
+      "finding_tips": "五至六月寻找枝梢集开白色风车形花的常绿藤蔓。叶厚有光泽，全年可识。**乳汁可刺激皮肤。**"
+    }
+  },
+  "Lethe sicelis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒカゲチョウ。雑木林の薄暗い場所をひらひらと飛ぶ茶色いジャノメチョウ。樹液場や腐果に集まり、薄暗い林床にとけ込む保護色を持ちます。",
+      "habitat_hint": "雑木林の薄暗い林床、林縁、樹液場、神社の社叢、谷沿いの林。",
+      "finding_tips": "薄暗い林を低くフラフラと飛ぶ茶色いチョウを探します。地面や樹幹に止まると保護色で見つけにくいので、目で動きを追います。"
+    },
+    "en": {
+      "summary": "Japanese Treebrown, a brown satyrid that flutters through shaded woodland understory. Visits sap flows and rotten fruit; well camouflaged on leaf litter.",
+      "habitat_hint": "Shaded woodland understory, woodland edges, sap flows, shrine groves, and valley woods.",
+      "finding_tips": "Watch for a brown butterfly fluttering low in dim woods. Once it lands on bark or leaves it blends in — track movement rather than colour."
+    },
+    "zh": {
+      "summary": "日本黛眼蝶，褐色眉眼蝶，常在阴林低空翩飞。访树液和腐果，落叶层伪装良好。",
+      "habitat_hint": "阴暗林床、林缘、树液处、神社林、谷地林。",
+      "finding_tips": "在阴林内低飞的褐色蝶。停在树皮和落叶上后伪装极好，需追踪动作。"
+    }
+  },
+  "Artemisia princeps": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨモギ。日本中で最も普通の在来多年草。葉の裏に白い綿毛があり、餅やお灸の原料として知られます。秋に地味な花穂を立てます。",
+      "habitat_hint": "河川敷、農地の縁、空き地、道端、明るい斜面、休耕田。",
+      "finding_tips": "葉の裏が白く綿毛で覆われる多年草を探します。葉をちぎると独特のヨモギ香りがします。春の新葉はもち草として食用にされます。"
+    },
+    "en": {
+      "summary": "Japanese Mugwort, the most widespread native mugwort. Leaves have a white woolly underside; used in mochi and moxibustion. Inconspicuous autumn flower spikes.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, roadsides, bright slopes, and fallow fields.",
+      "finding_tips": "Look for a perennial with white-woolly leaf undersides. Crushed leaves have an unmistakable mugwort fragrance. Young spring shoots are used in mochi."
+    },
+    "zh": {
+      "summary": "魁蒿（日本艾蒿），日本最常见的本土艾。叶背覆白色绒毛，用于糯米饼和艾灸。秋季花穗不显眼。",
+      "habitat_hint": "河滩、田边、空地、路边、明亮斜坡、休耕田。",
+      "finding_tips": "找叶背白绵毛的多年生草。揉碎叶有独特艾香。春季嫩芽用作艾糍原料。"
+    }
+  },
+  "Zelkova serrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケヤキ。日本を代表する街路樹の一つ。ほうき状の樹形と、秋の鮮やかな黄〜赤の紅葉が美しい大木です。",
+      "habitat_hint": "街路樹、雑木林、神社の境内、社寺林、河川敷の大木、公園のシンボル木。",
+      "finding_tips": "扇形に枝が広がる樹形と、細かい鋸歯のある楕円形の葉を探します。秋の紅葉時期は街路樹として特に目立ちます。"
+    },
+    "en": {
+      "summary": "Japanese Zelkova, a defining Japanese street tree. Vase-shaped silhouette and brilliant yellow-to-red autumn foliage on a tall trunk.",
+      "habitat_hint": "Street trees, mixed woodland, shrine grounds, shrine groves, large riverside trees, and park signature trees.",
+      "finding_tips": "Look for a tree with a fan-shaped crown and oval finely-serrated leaves. Spectacular when planted in rows along streets in autumn."
+    },
+    "zh": {
+      "summary": "榉树，日本最具代表性的行道树之一。树冠呈扇形展开，秋季叶色鲜艳黄红。",
+      "habitat_hint": "行道树、杂木林、神社境内、神社树林、河岸大树、公园象征树。",
+      "finding_tips": "找树冠扇形展开、叶椭圆带细密锯齿的高大乔木。秋季成排黄红尤为壮观。"
+    }
+  },
+  "Lonicera japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スイカズラ。初夏に咲く白〜淡黄色の二唇形の花が芳香を放つ常緑つる植物。和名は花の蜜を吸って楽しんだことに由来します。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、神社の植え込み、明るい斜面。",
+      "finding_tips": "5〜7月、初め白く後に黄色く変わる二唇形の芳香花を探します。葉は対生で、花が同じ枝に白と黄の両方が混在することがあります。"
+    },
+    "en": {
+      "summary": "Japanese Honeysuckle, an evergreen vine. Fragrant tubular flowers open white and age to yellow in early summer. The Japanese name refers to children sipping nectar from the flowers.",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, shrine plantings, and bright slopes.",
+      "finding_tips": "From May to July look for fragrant two-lipped flowers that start white and turn yellow — both colours often appear on the same vine."
+    },
+    "zh": {
+      "summary": "金银花（忍冬），常绿藤本。初夏开二唇形花，初白后黄，芳香怡人。",
+      "habitat_hint": "林缘、河滩灌丛、住宅围栏、神社植被、明亮斜坡。",
+      "finding_tips": "五至七月寻找有芳香的二唇形花，同一藤蔓常白黄并存。"
+    }
+  },
+  "Clerodendrum trichotomum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサギ。葉に独特の匂いがあることが名前の由来。夏に白い芳香花、秋に赤い萼に乗った青い果実が美しい在来落葉樹です。",
+      "habitat_hint": "雑木林の林縁、河川敷、明るい伐採跡地、空き地、海岸近くの林。",
+      "finding_tips": "夏、白い長い筒状花とその後の青い実+赤い萼の組み合わせを探します。葉をちぎると独特の臭いがあるので名前の由来を確認できます。"
+    },
+    "en": {
+      "summary": "Harlequin Glorybower. Native deciduous tree; its leaves have a distinctive odour (the source of the Japanese name 'stink tree'). Fragrant white summer flowers; stunning blue berries with red calyces in autumn.",
+      "habitat_hint": "Woodland edges, riverbanks, bright clearings, vacant lots, and coastal woodland.",
+      "finding_tips": "Watch for white tubular flowers in summer and the striking blue-fruit-on-red-calyx display in autumn. Crushed leaves confirm the species via smell."
+    },
+    "zh": {
+      "summary": "海州常山，本土落叶树。叶有独特气味（日文俗名『臭木』）。夏开芳香白色筒状花，秋季蓝色果实托红色花萼非常美。",
+      "habitat_hint": "林缘、河滩、明亮伐木迹地、空地、近海林。",
+      "finding_tips": "夏季观察白色长筒花，秋季欣赏蓝果配红萼的独特组合。揉碎叶片可闻特殊气味。"
+    }
+  },
+  "Validiblatta fuliginosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロゴキブリ。屋内外で見られる大型のゴキブリ。日本の家屋環境に古くから定着し、暖かい場所を好みます。",
+      "habitat_hint": "家屋の床下、排水溝、植え込みの落ち葉、神社の境内、公園のベンチ周辺。",
+      "finding_tips": "夜、台所や植え込みでうろうろする黒褐色の大型ゴキブリ。屋外の落ち葉や朽木の下にもいます。観察のみで、捕獲は推奨しません。"
+    },
+    "en": {
+      "summary": "Smokybrown Cockroach, a large cockroach common in and around Japanese buildings. Long-established and prefers warm sites.",
+      "habitat_hint": "Building crawl spaces, drains, leaf litter in plantings, shrine grounds, and around park benches.",
+      "finding_tips": "At night kitchen and hedge surroundings reveal large dark-brown cockroaches. Also found outdoors under leaf litter and rotten wood. Observe rather than handle."
+    },
+    "zh": {
+      "summary": "黑胸大蠊，常见于建筑内外的大型蜚蠊。在日本家居环境长期定居，喜温暖处。",
+      "habitat_hint": "建筑地板下、排水沟、植被落叶、神社境内、公园长椅附近。",
+      "finding_tips": "夜里在厨房或植被处可见大型深褐色蜚蠊。室外落叶和朽木下也常见。建议仅观察，不捕捉。"
+    }
   }
 }
