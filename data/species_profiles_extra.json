@@ -8388,5 +8388,167 @@
       "habitat_hint": "河滩、空地、田边、堤岸、明亮斜坡。",
       "finding_tips": "夏秋找超腰高的大型禾本科。花穗分枝、小穗带紫色是辨识要点。"
     }
+  },
+  "Vespa crabro": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モンスズメバチ。黒地に明るい黄色の縞模様の大型スズメバチ。樹液場でカブトムシなどを攻撃して餌を奪う行動も見られます。",
+      "habitat_hint": "雑木林、樹液場、神社の境内、軒下、夜の街灯。",
+      "finding_tips": "**安全距離を保ってください。** オオスズメバチより小型で、腹部の縞が明瞭。樹液場では他の昆虫を排除する姿が見られます。"
+    },
+    "en": {
+      "summary": "European Hornet (Japanese form). A large hornet with bold black-and-yellow striping. Often seen seizing prey at sap flows.",
+      "habitat_hint": "Mixed woodland, sap flows, shrine grounds, under eaves, and around streetlights at night.",
+      "finding_tips": "**Maintain a safe distance.** Smaller than the Asian Giant Hornet but still large; the contrasted abdomen helps ID. Aggressive at sap flows."
+    },
+    "zh": {
+      "summary": "黄边胡蜂（日本亚种），大型胡蜂，黑底配明黄横纹。常在树液场抢夺其他昆虫。",
+      "habitat_hint": "杂木林、树液处、神社境内、屋檐下、夜灯下。",
+      "finding_tips": "**保持安全距离。** 比大胡蜂小但仍属大型，腹部黑黄对比明显。"
+    }
+  },
+  "Pyrrhula pyrrhula": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウソ。雄が淡赤色の頬と喉を持つ美しい冬鳥のアトリ類。「フィー、フィー」と口笛のような声で鳴き、サクラやウメの花芽を食べる「天神様の使い」とも呼ばれます。",
+      "habitat_hint": "雑木林、社寺林、針葉樹林、果樹園、神社の境内。",
+      "finding_tips": "11〜3月、樹冠で口笛のような細い声を頼りに探します。雄の頬の桃色がよく目立ち、果樹の花芽を食べていることもあります。"
+    },
+    "en": {
+      "summary": "Eurasian Bullfinch. A wintering finch; males have a soft pink cheek and throat. Whistled 'fee fee' call. Known in Japan as 'Tenjin's messenger' for its habit of eating cherry and plum flower buds.",
+      "habitat_hint": "Mixed woodland, shrine groves, conifer forest, orchards, and shrine grounds.",
+      "finding_tips": "From November to March follow the soft whistle into the canopy. The male's pink cheek is the field mark; often seen picking buds from cherry and plum."
+    },
+    "zh": {
+      "summary": "红腹灰雀，冬季渡来。雄鸟脸颊与喉部粉红，叫声为吹哨般『嘘-嘘』。在日本因吃樱花和梅花芽被称为『天神使者』。",
+      "habitat_hint": "杂木林、神社树林、针叶林、果园、神社境内。",
+      "finding_tips": "11月至3月沿吹哨般细声寻找树冠。雄鸟粉色脸颊很显眼，常摘樱花和梅花芽。"
+    }
+  },
+  "Pieris melete": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スジグロシロチョウ。モンシロチョウに似た白いチョウですが、翅脈が黒く明瞭で、半日陰の林縁を好みます。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、社寺林、湿った林床、明るい園路の縁。",
+      "finding_tips": "白いチョウのうち、翅脈が黒く明瞭なものを探します。モンシロチョウより半日陰や林縁を好み、緩やかに飛ぶ点で区別。"
+    },
+    "en": {
+      "summary": "Gray-veined White, a white butterfly similar to Small White but with bold black wing veins. Prefers half-shade and woodland edges.",
+      "habitat_hint": "Woodland edges, valley woods, shrine groves, damp forest floor, and bright path edges.",
+      "finding_tips": "Among white butterflies, look for one with prominently dark wing veins. Prefers shaded edges and flies more slowly than Small White."
+    },
+    "zh": {
+      "summary": "黑脉粉蝶，白色蝶。与菜粉蝶相似但翅脉黑色明显。偏爱半阴林缘。",
+      "habitat_hint": "林缘、谷地林、神社树林、潮湿林床、明亮园路边。",
+      "finding_tips": "在白蝶中找翅脉黑色明显的种类。比菜粉蝶更偏阴处，飞行较缓。"
+    }
+  },
+  "Mycalesis gotama": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメジャノメ。茶色い翅に目玉模様（眼状紋）が並ぶ小型のジャノメチョウ。雑木林の薄暗い林床を低く飛び、樹液や腐果に集まります。",
+      "habitat_hint": "雑木林の薄暗い林床、林縁、樹液場、神社の社叢、谷沿いの林。",
+      "finding_tips": "薄暗い林の中を低くゆっくり飛ぶ茶色いチョウを探します。翅を閉じたときに見える複数の目玉模様で識別できます。"
+    },
+    "en": {
+      "summary": "A small satyrid butterfly with rows of eye-spots on brown wings. Flies low through shaded woodland understory; visits sap and rotten fruit.",
+      "habitat_hint": "Shaded woodland understory, edges, sap flows, shrine groves, and valley woods.",
+      "finding_tips": "In dim woods watch for a brown butterfly drifting low. The eye-spots on the closed underside confirm ID."
+    },
+    "zh": {
+      "summary": "稻眉眼蝶，小型眉眼蝶，褐色翅上排列眼斑。在阴林低空缓飞，访树液与腐果。",
+      "habitat_hint": "阴林床、林缘、树液处、神社林、谷地林。",
+      "finding_tips": "阴林中找低飞缓行的褐色蝶。闭翅时反面眼斑可作辨识。"
+    }
+  },
+  "Allagelena opulenta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コクサグモ。クサグモより小型の漏斗状の網を張るクモ。生け垣や草の茂みで、漏斗の奥に隠れて獲物を待ちます。",
+      "habitat_hint": "生け垣、雑木林の藪、河川敷の草藪、神社の植え込み、低木の間。",
+      "finding_tips": "茂みに張られた小型の漏斗（じょうご）型の網を探します。網の奥にトンネルがあり、そこからクモが飛び出します。"
+    },
+    "en": {
+      "summary": "A smaller funnel-weaver than the related Agelena. Builds funnel-shaped webs in hedges and grass; hides in a tunnel at the back.",
+      "habitat_hint": "Hedges, woodland thickets, riverbank scrub, shrine plantings, and between low shrubs.",
+      "finding_tips": "Look in thickets for smaller funnel-shaped webs with a tubular retreat at the back."
+    },
+    "zh": {
+      "summary": "丰满草蛛，比克莎尔草蛛小的漏斗网蛛。在绿篱与灌丛中织漏斗网，藏于后管伏击。",
+      "habitat_hint": "绿篱、林缘灌丛、河滩草丛、神社植被、低木间。",
+      "finding_tips": "在灌丛中找较小的漏斗形网，网后具管状退避所。"
+    }
+  },
+  "Riptortus pedestris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホソヘリカメムシ。細長い体に脚が長く、後脚に小さなトゲがあるヘリカメムシ。マメ科の害虫として知られ、農地で多く見られます。",
+      "habitat_hint": "農地（特に大豆畑）、家庭菜園、河川敷、空き地、マメ科植物のある場所。",
+      "finding_tips": "細長い茶褐色のヘリカメムシをマメ科植物の上で探します。後脚の腿節にトゲがあるのが識別点で、アリに擬態した若齢幼虫は驚きの姿です。"
+    },
+    "en": {
+      "summary": "Bean Bug. A slender brown coreid with long spiny hind legs. A pest of soybeans and other legumes.",
+      "habitat_hint": "Farmland (especially soybean fields), kitchen gardens, riverbanks, vacant lots, and legumes.",
+      "finding_tips": "Look on legume plants for a slender brown coreid with spiny hind femurs. The first-instar nymphs are striking ant-mimics."
+    },
+    "zh": {
+      "summary": "点蜂缘蝽（细缘蝽），体细长、后腿股节具刺的缘蝽。大豆等豆科作物害虫。",
+      "habitat_hint": "农田（尤其大豆地）、家庭菜园、河滩、空地、有豆科植物的地方。",
+      "finding_tips": "在豆科植物上找细长褐色缘蝽。后腿股节具刺为辨识。若虫拟蚁有趣。"
+    }
+  },
+  "Humulus scandens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カナムグラ。アサ科の蔓性一年草。茎と葉柄に下向きの細かいトゲがあり、衣服や肌に引っかかります。秋に独特の球状の果穂をつけます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、住宅地のフェンス、明るい斜面。",
+      "finding_tips": "茎に下向きの細かいトゲがあり、葉が掌状の蔓植物を探します。秋に小さなホップに似た球状の雌花穂が目立ちます。**トゲで肌を擦ると痛いので注意。**"
+    },
+    "en": {
+      "summary": "Japanese Hop. A vining annual whose stems and petioles bear tiny downward-pointing prickles that snag clothing and skin. Female cones look like small hops.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, residential fences, and bright slopes.",
+      "finding_tips": "Vines with palmately lobed leaves and prickly stems. Hop-like cone clusters appear in autumn. **Rubbing against the prickles can scratch — wear long sleeves.**"
+    },
+    "zh": {
+      "summary": "葎草，大麻科蔓生一年生植物。茎和叶柄具反向小刺，易勾衣物皮肤。秋季雌花穗似小型啤酒花。",
+      "habitat_hint": "河滩、空地、田边、住宅围栏、明亮斜坡。",
+      "finding_tips": "找茎具反向小刺、叶掌状的蔓本。秋季雌花穗似啤酒花。**触刺会划伤皮肤，需穿长袖。**"
+    }
+  },
+  "Carex gibba": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マスクサ。湿った草地に生える中型のスゲ類。茎の先に密集した穂をつけ、河川敷や田の畦で普通に見られます。",
+      "habitat_hint": "湿った草地、河川敷、田の畦、神社の境内、農地の縁。",
+      "finding_tips": "5〜7月、細い茎の先に密集した小穂を持つ中型のスゲを探します。葉は線形でやや幅広く、半日陰でもよく育ちます。"
+    },
+    "en": {
+      "summary": "A medium sedge of damp meadows. Flowers as compact spikes at the top of slender stems. Common on riverbanks and paddy levees.",
+      "habitat_hint": "Damp meadows, riverbanks, paddy levees, shrine grounds, and field margins.",
+      "finding_tips": "From May to July look for medium sedges with dense flower clusters at the top of slender stems. Linear leaves are somewhat wide."
+    },
+    "zh": {
+      "summary": "驼背薹草，潮湿草地的中型薹草。茎顶具密集小穗，常见于河滩与田埂。",
+      "habitat_hint": "潮湿草地、河滩、田埂、神社境内、田边。",
+      "finding_tips": "五至七月寻找茎顶集生小穗的中型薹草。叶线形稍宽。"
+    }
+  },
+  "Ligyra tantalus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロバネツリアブ。黒い翅と腹部の白い帯を持つ大型のツリアブ。ハチに擬態した姿で、花の前でホバリングしながら蜜を吸います。",
+      "habitat_hint": "花壇、河川敷の花、雑木林の林縁、明るい園路、神社の境内。",
+      "finding_tips": "夏、花の上で黒い翅をふるわせて空中静止する大型のアブを探します。腹部の白帯と「ハチに似て翅が透ける」見た目が独特です。"
+    },
+    "en": {
+      "summary": "A large bee fly with dark wings and a white abdominal band. Hovers at flowers like a small hummingbird while feeding.",
+      "habitat_hint": "Flower beds, riverside flowers, woodland edges, bright paths, and shrine grounds.",
+      "finding_tips": "In summer watch flowers for a large fly hovering with dark wings and a white abdominal band — striking and easy to recognise."
+    },
+    "zh": {
+      "summary": "黑翅蜂虻，大型蜂虻。黑翅配腹部白带，悬停花前吸蜜。",
+      "habitat_hint": "花坛、河滩花卉、林缘、明亮园路、神社境内。",
+      "finding_tips": "夏季在花上找黑翅悬停的大型蜂虻。腹部白带和拟蜂特征明显。"
+    }
   }
 }
