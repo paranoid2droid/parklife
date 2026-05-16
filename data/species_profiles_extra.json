@@ -5399,5 +5399,167 @@
       "habitat_hint": "河滩、田埂、空地、农道边、堤岸。",
       "finding_tips": "九至十一月在腰高处找毛刷状暗色花穗。穗带粗芒，易粘衣服。"
     }
+  },
+  "Cettia diphone": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウグイス。日本三鳴鳥の一つ。「ホーホケキョ」という春の代表的なさえずりで知られ、藪の中に隠れているため姿は見にくい鳥です。",
+      "habitat_hint": "雑木林の藪、笹の茂み、河川敷の草藪、神社の境内、住宅地の生け垣。",
+      "finding_tips": "2〜7月、「ホーホケキョ」のさえずりが聞こえたら本種。藪の中をすばやく動くので、姿の確認は根気が必要です。声で楽しむ鳥と言えます。"
+    },
+    "en": {
+      "summary": "Japanese Bush Warbler, one of Japan's 'Three Songbirds'. Famous for the spring 'ho-hokekyo' song. The bird itself stays hidden in dense thickets and is rarely seen.",
+      "habitat_hint": "Thickets in mixed woodland, bamboo grass, riverbank scrub, shrine grounds, and residential hedges.",
+      "finding_tips": "From February to July the 'ho-hokekyo' song is unmistakable. Even with patience the bird itself is hard to see — best appreciated by ear."
+    },
+    "zh": {
+      "summary": "短翅树莺，日本三鸣鸟之一。以春季『嚯—嚯—咳-嘁』鸣声闻名，藏匿于灌丛少见目击。",
+      "habitat_hint": "杂木林灌丛、矮竹丛、河滩草丛、神社境内、住宅区绿篱。",
+      "finding_tips": "二至七月听到典型鸣唱即是。鸟匿于灌丛少见，以听声为主。"
+    }
+  },
+  "Emberiza spodocephala personata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオジ（東日本亜種）。雄は頭が暗緑灰色で目の周りが黒、お腹が黄色のホオジロ類。冬に河川敷や雑木林の縁で見られます。",
+      "habitat_hint": "河川敷の藪、雑木林の林床、ヨシ原、農地の縁、神社の境内。",
+      "finding_tips": "藪の縁を行ったり来たりする黄色いお腹の小鳥を探します。冬鳥として渡来し、地味な「チッ」という声を出します。"
+    },
+    "en": {
+      "summary": "Black-faced Bunting (Honshu subspecies). Males have a dark greenish-grey head with a black mask and a yellow belly. Common winter visitor along riverbanks and woodland edges.",
+      "habitat_hint": "Riverbank thickets, woodland understory, reedbeds, field margins, and shrine grounds.",
+      "finding_tips": "Watch the edges of thickets for a small bird with a yellow belly. Wintering — gives a subtle 'tic' contact call."
+    },
+    "zh": {
+      "summary": "灰头鹀（本州亚种）。雄鸟头暗绿灰、面具状黑斑，腹黄色。冬季常见于河滩与林缘。",
+      "habitat_hint": "河滩灌丛、杂木林林下、芦苇丛、田边、神社境内。",
+      "finding_tips": "灌丛边活动的腹黄色小鸟。冬候鸟，发出含蓄的『嘁』叫声。"
+    }
+  },
+  "Mirabilis jalapa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オシロイバナ。夕方に開く色とりどりの花が美しい外来種の多年草。種子の中に「おしろい」のような白い粉があることが名前の由来。",
+      "habitat_hint": "庭、空き地、河川敷、住宅地の道端、農地の縁。",
+      "finding_tips": "夏〜秋の夕方〜朝、ラッパ状の鮮やかな花（赤・黄・白の混色）を探します。一株で複数色の花が咲くこともあります。"
+    },
+    "en": {
+      "summary": "Four o'clock Flower, an introduced perennial with colourful trumpet flowers that open in late afternoon. The Japanese name refers to the white powder inside the seeds — once used as cosmetic 'oshiroi'.",
+      "habitat_hint": "Gardens, vacant lots, riverbanks, residential roadsides, and field margins.",
+      "finding_tips": "From summer to autumn, evenings and mornings, look for bright trumpet flowers in mixed reds, yellows, and whites. A single plant may produce flowers in different colours."
+    },
+    "zh": {
+      "summary": "紫茉莉，外来多年生植物。傍晚开放色彩多变的喇叭状花。种子内含白色粉末（似化妆品『白粉』），日文俗名由此。",
+      "habitat_hint": "庭园、空地、河滩、住宅区路边、田边。",
+      "finding_tips": "夏秋傍晚或清晨寻找鲜艳的红、黄、白等多色喇叭花。同一植株可开多色花。"
+    }
+  },
+  "Illeis koebelei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キイロテントウ。鮮やかな黄色の小型テントウムシで、葉につくうどんこ病の菌を食べる「菌食性」のテントウです。",
+      "habitat_hint": "農地、家庭菜園、雑木林の林縁、河川敷、葉のうどんこ病が出る場所。",
+      "finding_tips": "葉の白い粉（うどんこ病）の上にいる小さな黄色いテントウムシを探します。アブラムシ食ではなく菌を食べる珍しい習性です。"
+    },
+    "en": {
+      "summary": "Yellow Ladybird, a small bright-yellow ladybird that — unusually — feeds on powdery mildew fungus rather than aphids.",
+      "habitat_hint": "Farmland, kitchen gardens, woodland edges, riverbanks, and on leaves with powdery-mildew infections.",
+      "finding_tips": "Look for a small yellow ladybird on leaves with white powdery mildew. Mycophagy makes this species distinctive among ladybirds."
+    },
+    "zh": {
+      "summary": "黄瓢虫，小型亮黄色瓢虫。习性特别，以叶面白粉病菌为食而非蚜虫。",
+      "habitat_hint": "农田、家庭菜园、林缘、河滩、有白粉病的叶面。",
+      "finding_tips": "在生白粉的叶面找小型黄色瓢虫。食菌习性在瓢虫中颇为特别。"
+    }
+  },
+  "Sternula albifrons": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コアジサシ。小型のアジサシで、夏に河口や海岸の砂地で繁殖します。空中をホバリングして水中に飛び込み、小魚を捕らえます。",
+      "habitat_hint": "河口、東京湾、海岸の砂地、湖、ダム湖。",
+      "finding_tips": "黄色いくちばしと、空中でホバリングしてから水に飛び込む狩り方が目印。**繁殖地（砂地）には絶対立ち入らないでください。**"
+    },
+    "en": {
+      "summary": "Little Tern, a small migratory tern. Breeds on sandy estuaries and beaches in summer. Hovers and plunges to catch small fish.",
+      "habitat_hint": "Estuaries, Tokyo Bay, sandy coasts, lakes, and reservoirs.",
+      "finding_tips": "Identified by the yellow bill and the distinctive hover-and-plunge hunting style. **Never enter breeding sites on sand — colonies are highly vulnerable to disturbance.**"
+    },
+    "zh": {
+      "summary": "白额燕鸥，小型燕鸥。夏季在河口与沙岸繁殖，空中悬停后俯冲入水捕小鱼。",
+      "habitat_hint": "河口、东京湾、沙岸、湖泊、水库。",
+      "finding_tips": "黄色喙加悬停俯冲是辨识特征。**繁殖地（沙地）切勿进入，对干扰极敏感。**"
+    }
+  },
+  "Glechoma grandis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カキドオシ。湿った場所に這うように広がるシソ科の多年草。春に淡紫色の唇形花を咲かせ、葉には独特の香りがあります。",
+      "habitat_hint": "雑木林の林縁、河川敷、湿った草地、神社の境内、農地の縁。",
+      "finding_tips": "3〜5月、地面に這うつる状の茎と、円形〜腎臓形の葉、淡紫色の唇形花を探します。葉をちぎると独特の香りがします。"
+    },
+    "en": {
+      "summary": "Japanese Ground Ivy, a creeping mint perennial. Pale violet lipped flowers in spring; leaves have a distinctive aroma.",
+      "habitat_hint": "Woodland edges, riverbanks, damp meadows, shrine grounds, and field margins.",
+      "finding_tips": "From March to May look for a creeping plant with kidney-shaped leaves and small pale-violet lipped flowers. Crushed leaves smell distinctive."
+    },
+    "zh": {
+      "summary": "活血丹（连钱草），匍匐唇形科多年生。春季开淡紫色唇形花，叶有独特气味。",
+      "habitat_hint": "林缘、河滩、潮湿草地、神社境内、田边。",
+      "finding_tips": "三至五月找匍匐茎、肾形或圆形叶、淡紫唇形花的植物。揉碎叶有独特香气。"
+    }
+  },
+  "Mazus pumilus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トキワハゼ。芝生や畑の縁に普通の小型一年草。年中見られ、唇形の小さな淡紫色花を地面近くに咲かせます。",
+      "habitat_hint": "芝生、畑、河川敷、空き地、舗装の隙間、農地の縁。",
+      "finding_tips": "地面近くで淡紫色の唇形小花を年中通して探します。同じマズス属のムラサキサギゴケと似ますが、本種は走出枝を出しません。"
+    },
+    "en": {
+      "summary": "Japanese Mazus, a small annual common in lawns and field edges. Year-round bloom of small pale-violet lipped flowers near the ground.",
+      "habitat_hint": "Lawns, gardens, riverbanks, vacant lots, pavement cracks, and field margins.",
+      "finding_tips": "Look low for pale violet lipped flowers year-round. Similar to M. miquelii but lacks the runner-like stolons."
+    },
+    "zh": {
+      "summary": "通泉草，常见小型一年生草，全年开放淡紫色唇形小花。",
+      "habitat_hint": "草坪、菜园、河滩、空地、铺装缝隙、田边。",
+      "finding_tips": "全年低头找淡紫唇形小花。与匍茎通泉草近似但无匍匐茎。"
+    }
+  },
+  "Pseudothemis zonata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コシアキトンボ。黒い体に白い帯（雌雄で位置が異なる）が腹部にあるトンボ。池の上を巡回飛行する姿が特徴です。",
+      "habitat_hint": "池、湿地、ダム湖、公園の水辺、湧水のある池。",
+      "finding_tips": "池の上をパトロールするように飛ぶ黒+白の中型トンボを探します。雄は腹節の中央に白帯、雌はより細い白帯です。"
+    },
+    "en": {
+      "summary": "Banded Skimmer, a dark dragonfly with a striking white band on the abdomen (placement differs by sex). Often patrols above pond surfaces.",
+      "habitat_hint": "Ponds, wetlands, reservoirs, park waterbodies, and spring-fed ponds.",
+      "finding_tips": "Look for a medium black-and-white dragonfly patrolling back and forth above a pond. Males have a broader central band; females show a narrower one."
+    },
+    "zh": {
+      "summary": "黑黄白蜻（白尾灰蜻一支），黑色体配腹部白带（雌雄位置不同）。常巡飞池面。",
+      "habitat_hint": "池塘、湿地、水库、公园水域、泉水池。",
+      "finding_tips": "在池上找黑白对比的中型蜻蜓巡飞。雄虫白带较宽居中，雌虫白带较细。"
+    }
+  },
+  "Papilio machaon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キアゲハ。鮮やかな黄色と黒の縞模様が美しい大型のアゲハチョウ。幼虫はセリ科植物（パセリ・ニンジンなど）を食害します。",
+      "habitat_hint": "農地、家庭菜園、河川敷、花壇、明るい園路の縁。",
+      "finding_tips": "アゲハチョウの中で黒い縞が明瞭な黄色いチョウを探します。家庭菜園のセリ科にキアゲハの幼虫が大量についていることもあります。"
+    },
+    "en": {
+      "summary": "Old World Swallowtail, a large butterfly with bold yellow and black stripes. Larvae feed on Apiaceae (parsley, carrot tops, fennel) and may strip garden plants.",
+      "habitat_hint": "Farmland, kitchen gardens, riverbanks, flower beds, and bright path edges.",
+      "finding_tips": "Among swallowtails, this is the strikingly yellow-and-black one. Caterpillars cluster on garden Apiaceae and are themselves dramatically banded."
+    },
+    "zh": {
+      "summary": "金凤蝶，大型黄黑相间凤蝶。幼虫食伞形科植物（西芹、胡萝卜叶、茴香等），可能聚集为患。",
+      "habitat_hint": "农田、家庭菜园、河滩、花坛、明亮园路边。",
+      "finding_tips": "凤蝶中翅黄色配清晰黑纹的一种。家庭菜园伞形科植物上常聚集其幼虫，幼虫亦带鲜明条纹。"
+    }
   }
 }
