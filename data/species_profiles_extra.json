@@ -6533,5 +6533,167 @@
       "habitat_hint": "杂木林、神社树林、行道树、夜灯、房屋外墙。",
       "finding_tips": "找翅平展停歇的蛾。前翅末端有白色三角斑是辨识要点，体形细长为尺蛾科特征。"
     }
+  },
+  "Papilio demetrius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロアゲハ。黒い翅に微妙な青〜紫の光沢を持つ大型のアゲハチョウ。林縁や神社の境内で優雅に飛びます。",
+      "habitat_hint": "雑木林の林縁、神社の境内、社寺林、サンショウやミカン科の植え込み。",
+      "finding_tips": "黒いアゲハチョウを探します。アゲハチョウ（黄色いキアゲハ）と異なり、翅は黒一色で青〜紫の光沢が出ます。"
+    },
+    "en": {
+      "summary": "Spangle Swallowtail, a large dark swallowtail with subtle blue-violet iridescence. Glides elegantly along woodland edges and around shrines.",
+      "habitat_hint": "Woodland edges, shrine grounds, shrine groves, and plantings of citrus or Sansho.",
+      "finding_tips": "Among swallowtails, this is the all-black one with iridescent blue-violet highlights. Larger and darker than the yellow-and-black swallowtails."
+    },
+    "zh": {
+      "summary": "美姝凤蝶（黑凤蝶），大型黑色凤蝶，带蓝紫色金属光泽。在林缘和神社境内优雅滑翔。",
+      "habitat_hint": "林缘、神社境内、神社树林、有花椒或柑橘类的种植区。",
+      "finding_tips": "凤蝶中通体黑色且带蓝紫光的种类。比黄黑色凤蝶大且色深。"
+    }
+  },
+  "Castanea crenata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クリ。秋に大きなイガに包まれた食用の実をつける落葉樹。雑木林の代表的な実のなる木で、樹液場としても重要です。",
+      "habitat_hint": "雑木林、里山、社寺林、栗林、明るい斜面林。",
+      "finding_tips": "葉は細長い鋸歯のある楕円形。秋にトゲのあるイガと、その中の茶色い堅果（栗）を地面で探します。初夏には独特の匂いの白いブラシ状花穂を立てます。"
+    },
+    "en": {
+      "summary": "Japanese Chestnut. Deciduous tree with edible nuts in spiny burs in autumn. A signature satoyama tree, also important at sap flows for insects.",
+      "habitat_hint": "Mixed woodland, satoyama, shrine groves, chestnut plantations, and bright slope forests.",
+      "finding_tips": "Elongated serrated leaves; spiny burs and brown nuts on the ground in autumn. In early summer the long white catkins have a distinctive aroma."
+    },
+    "zh": {
+      "summary": "日本栗。秋季结带刺壳斗的可食栗果，是里山代表性果木，也是夏季虫流胶点。",
+      "habitat_hint": "杂木林、里山、神社树林、栗林、明亮斜坡林。",
+      "finding_tips": "叶椭圆带细密锯齿。秋季地面有带刺壳斗与褐色栗果。初夏长白色花穗有独特气味。"
+    }
+  },
+  "Carpodacus sibiricus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ベニマシコ。雄が鮮やかな赤色の体に長い尾を持つ冬鳥。河川敷のヨシ原や雑木林の縁で群れて種子を食べます。",
+      "habitat_hint": "河川敷のヨシ原、雑木林の林縁、農地の藪、休耕田、針葉樹混じりの林。",
+      "finding_tips": "11〜3月、河川敷で赤い小鳥を探します。雄は鮮やかな赤色がよく目立ちます。雌は地味な褐色で胸に縦縞があります。"
+    },
+    "en": {
+      "summary": "Long-tailed Rosefinch, a wintering finch. Males are bright reddish-pink with a long tail. Flocks feed on seeds in riverbank reedbeds and woodland edges.",
+      "habitat_hint": "Riverbank reedbeds, woodland edges, farmland thickets, fallow fields, and mixed forest.",
+      "finding_tips": "From November to March look on riverbanks for small reddish birds. Males show bright pink-red; females are streaky brown."
+    },
+    "zh": {
+      "summary": "长尾雀，冬季渡来。雄鸟亮粉红色配长尾，常成群在河滩芦苇丛与林缘吃种子。",
+      "habitat_hint": "河滩芦苇丛、杂木林林缘、农田灌丛、休耕田、混交林。",
+      "finding_tips": "11月至3月在河滩寻找小型红色鸟。雄鸟亮粉红显眼，雌鸟褐色带纵纹。"
+    }
+  },
+  "Pericrocotus divaricatus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サンショウクイ。「ヒリリン、ヒリリン」と細い声で鳴く中型の夏鳥。雑木林の樹冠で群れて移動し、空中で虫を捕らえます。",
+      "habitat_hint": "雑木林、社寺林、河川敷の樹林、明るい林縁、山地の林。",
+      "finding_tips": "5〜9月、樹冠から細い「ヒリリン」の連続音が聞こえたら本種。白と灰黒のシンプルな色彩で、群れで移動します。"
+    },
+    "en": {
+      "summary": "Ashy Minivet, a medium summer visitor with a thin 'hiri-rin' call. Flocks move through woodland canopies catching insects on the wing.",
+      "habitat_hint": "Mixed woodland, shrine groves, riverside trees, bright woodland edges, and montane forest.",
+      "finding_tips": "From May to September listen for a thin trilling call high up. The bird is simple grey-white-and-black; usually in small mobile flocks."
+    },
+    "zh": {
+      "summary": "灰山椒鸟，中型夏候鸟。叫声细『嘶哩哩』，常成小群在树冠移动空中捕虫。",
+      "habitat_hint": "杂木林、神社树林、河岸林、明亮林缘、山地林。",
+      "finding_tips": "五至九月听到高树细颤鸣即是。羽色简洁灰白黑，多成群移动。"
+    }
+  },
+  "Sastragala esakii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エサキモンキツノカメムシ。背中にハート形の黄色い斑紋がある美しいカメムシ。雌が卵と幼虫を守る亜社会性で知られます。",
+      "habitat_hint": "雑木林、ヤマボウシ・ハナミズキ・ミズキ類のある場所、神社の境内、明るい林縁。",
+      "finding_tips": "背中の鮮やかなハート形の黄色い斑を探します。葉の上で雌が卵塊や若齢幼虫を守る姿が観察できれば貴重です。"
+    },
+    "en": {
+      "summary": "Sastragala. A shield bug with a bright yellow heart-shaped mark on the back. Famous for subsocial maternal care — females guard eggs and young.",
+      "habitat_hint": "Mixed woodland, areas with kousa dogwood or related trees, shrine grounds, and bright woodland edges.",
+      "finding_tips": "Look on leaves for a bug with a vivid yellow heart on the back. A female guarding her eggs or nymphs is a special sight."
+    },
+    "zh": {
+      "summary": "黄星蝽（江崎角蝽），背具鲜黄色心形斑的蝽。以雌虫护卵护幼的亚社会行为闻名。",
+      "habitat_hint": "杂木林、有四照花/灯台树等的地方、神社境内、明亮林缘。",
+      "finding_tips": "在叶上找背具鲜黄心形斑的蝽。能看到雌虫守护卵或若虫是难得景象。"
+    }
+  },
+  "Agrius convolvuli": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エビガラスズメ。日本最大級のスズメガで、長い口吻で花の蜜を吸います。夕方〜夜に花の前でホバリングする姿が見られます。",
+      "habitat_hint": "庭、花壇、農地（特にサツマイモ・アサガオ）、河川敷の花、夜の街灯。",
+      "finding_tips": "夕方、花の前で大型のスズメガがホバリングしていれば本種の可能性。腹部側面に薄い橙色の縞があるのが目印です。"
+    },
+    "en": {
+      "summary": "Convolvulus Hawkmoth, one of Japan's largest hawkmoths. The very long proboscis lets it feed at deep flowers. Hovers at dusk and night.",
+      "habitat_hint": "Gardens, flower beds, farmland (especially sweet potato and morning glory), riverside flowers, and around lights at night.",
+      "finding_tips": "At dusk if a very large moth is hovering at a flower, this is a likely candidate. Pinkish bands on the sides of the abdomen are diagnostic."
+    },
+    "zh": {
+      "summary": "白薯天蛾，日本最大级别天蛾。具长口吻可吸食深筒花蜜。黄昏夜里花前悬停。",
+      "habitat_hint": "庭园、花坛、农田（甘薯、牵牛花）、河滩花卉、夜灯下。",
+      "finding_tips": "黄昏在花前悬停的特大型蛾可能即是。腹部两侧浅橙色条带为辨识要点。"
+    }
+  },
+  "Boehmeria japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブマオ。湿った場所に生える大型のイラクサ科多年草。葉は対生する大きな卵形で、夏に細長い緑色の花穂を立てます。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、河川敷の湿地、神社の境内、半日陰の斜面。",
+      "finding_tips": "対生する大型の卵形の葉と、夏〜秋の細長い緑色の花穂を持つ植物を探します。茎は丈夫で、衣服に使われた歴史があります。"
+    },
+    "en": {
+      "summary": "Yabu-mao, a large nettle-family perennial of damp places. Opposite oval leaves and slender green flower spikes in summer. Stems were historically used for fibre.",
+      "habitat_hint": "Woodland edges, valley woods, riverside wetlands, shrine grounds, and shaded slopes.",
+      "finding_tips": "Look for plants with large opposite oval leaves and long slender green flower spikes in summer. Sturdy stems hint at the historic textile use."
+    },
+    "zh": {
+      "summary": "野线麻（薮萢），荨麻科大型多年生草本。叶大对生、夏季抽细长绿色花穗。茎韧历史上作纤维使用。",
+      "habitat_hint": "林缘、谷地林、河滩湿地、神社境内、半阴斜坡。",
+      "finding_tips": "找叶大对生卵形、夏季抽细长绿色花穗的植物。茎坚韧。"
+    }
+  },
+  "Deutzia crenata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウツギ。初夏に白い花を多数咲かせる落葉低木。茎の中が空洞（卯の花空木）が名前の由来で、「夏は来ぬ」の歌で歌われる花です。",
+      "habitat_hint": "雑木林の林縁、河川敷、明るい斜面、神社の境内、生け垣。",
+      "finding_tips": "5〜6月、白い5弁花が枝先に多数集まる低木を探します。茎を折ると中空であることが確認できます。"
+    },
+    "en": {
+      "summary": "Crenate Pride-of-Rochester. A deciduous shrub bearing many small white flowers in early summer. The Japanese name 'utsugi' refers to the hollow stems; immortalised in the song 'Natsu wa Kinu'.",
+      "habitat_hint": "Woodland edges, riverbanks, bright slopes, shrine grounds, and hedges.",
+      "finding_tips": "From May to June look for shrubs covered in clusters of small white five-petalled flowers. Snap a twig to see the hollow interior."
+    },
+    "zh": {
+      "summary": "齿叶溲疏，落叶灌木。初夏开许多白色五瓣小花。茎中空，日文俗名『空木』即源于此。",
+      "habitat_hint": "林缘、河滩、明亮斜坡、神社境内、绿篱。",
+      "finding_tips": "五至六月寻找枝梢集开许多白色五瓣花的灌木。折断茎可见中空。"
+    }
+  },
+  "Dryopteris bissetiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマイタチシダ。雑木林の林床に普通の常緑シダ。葉は二回羽状で、湿った林の地面に群生し、年中緑を保ちます。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "二回羽状の中型シダで、葉軸が緑色〜赤褐色を帯びるのが特徴。群生して林床を覆います。"
+    },
+    "en": {
+      "summary": "A common evergreen wood fern of mixed woodland understory. Bipinnate fronds form colonies on damp forest floors and remain green year-round.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Medium bipinnate evergreen fern whose rachis is greenish to reddish-brown. Often forms ground-covering colonies."
+    },
+    "zh": {
+      "summary": "山贯众（鳞毛蕨一种）。杂木林林床常见的常绿蕨。二回羽状叶常成片，林床全年保持绿色。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "中型二回羽状常绿蕨，叶轴绿至红褐色。常成片覆盖林床。"
+    }
   }
 }
