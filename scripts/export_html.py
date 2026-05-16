@@ -648,10 +648,10 @@ const TAXON_GROUP_LABEL = {
 };
 
 const PARKING_LABELS = {
-  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: '表示する分類を選択してください', sortLabel: '並び順', sortFreq: '出現公園数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', selectAll: '全選択', selectNone: '全解除', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', showMap: '🗺 地図', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
-  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'Choose a group to show species', sortLabel: 'Sort', sortFreq: 'Park count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', selectAll: 'Select all', selectNone: 'Select none', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', showMap: '🗺 Map', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
-  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '请选择分类后显示物种', sortLabel: '排序', sortFreq: '公园数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', selectAll: '全选', selectNone: '全不选', overflow: n => `…还有 ${n} 种`, showMore: n => `再显示 ${n} 种`, showAll: n => `显示剩余全部 ${n} 种`, official: '官网 ↗', showMap: '🗺 地图', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
-  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '請選擇分類後顯示物種', sortLabel: '排序', sortFreq: '公園數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', selectAll: '全選', selectNone: '全不選', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', showMap: '🗺 地圖', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
+  ja: { yes: '🅿️ 駐車場あり', no: '🚫 駐車場なし', unknown: '🅿️ 駐車場情報なし', count: n => `${n} 種が条件に合致`, none: '表示する分類を選択してください', sortLabel: '並び順', sortFreq: '観察記録数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', selectAll: '全選択', selectNone: '全解除', overflow: n => `…他 ${n} 種`, showMore: n => `さらに ${n} 種を表示`, showAll: n => `残り ${n} 種をすべて表示`, official: '公式 ↗', showMap: '🗺 地図', placeholder: '📍 地図上の公園マーカーをクリック<br/>または右上の検索ボックスを使用' },
+  en: { yes: '🅿️ Parking available', no: '🚫 No parking', unknown: '🅿️ Parking unknown', count: n => `${n} species matched`, none: 'Choose a group to show species', sortLabel: 'Sort', sortFreq: 'Record count (high→low)', sortName: 'Name', sortSci: 'Scientific name (A→Z)', selectAll: 'Select all', selectNone: 'Select none', overflow: n => `…and ${n} more`, showMore: n => `Show ${n} more`, showAll: n => `Show all ${n} remaining`, official: 'Official ↗', showMap: '🗺 Map', placeholder: '📍 Click a park marker on the map<br/>or use the search box' },
+  zh: { yes: '🅿️ 有停车场', no: '🚫 无停车场', unknown: '🅿️ 停车场信息未知', count: n => `共 ${n} 种符合条件`, none: '请选择分类后显示物种', sortLabel: '排序', sortFreq: '观察记录数（多→少）', sortName: '名称', sortSci: '学名（A→Z）', selectAll: '全选', selectNone: '全不选', overflow: n => `…还有 ${n} 种`, showMore: n => `再显示 ${n} 种`, showAll: n => `显示剩余全部 ${n} 种`, official: '官网 ↗', showMap: '🗺 地图', placeholder: '📍 点击地图上的公园标记<br/>或使用右上角搜索框' },
+  zhT: { yes: '🅿️ 有停車場', no: '🚫 無停車場', unknown: '🅿️ 停車場資訊未知', count: n => `共 ${n} 種符合條件`, none: '請選擇分類後顯示物種', sortLabel: '排序', sortFreq: '觀察記錄數（多→少）', sortName: '名稱', sortSci: '學名（A→Z）', selectAll: '全選', selectNone: '全不選', overflow: n => `…還有 ${n} 種`, showMore: n => `再顯示 ${n} 種`, showAll: n => `顯示剩餘全部 ${n} 種`, official: '官網 ↗', showMap: '🗺 地圖', placeholder: '📍 點擊地圖上的公園標記<br/>或使用右上角搜尋框' },
 };
 
 const DETAIL_LABELS = {
@@ -1257,8 +1257,14 @@ function sortGroupItems(items) {
     return items.slice().sort((a, b) =>
       (a.sp.sci || '').localeCompare(b.sp.sci || ''));
   }
-  // freq (default): widely-occurring species first
-  return items.slice().sort((a, b) => (b.sp.n || 0) - (a.sp.n || 0));
+  // freq (default): species with the most observation records in THIS park
+  // first; ties broken by global park spread (sp.n).
+  return items.slice().sort((a, b) => {
+    const oa = (a.pair && a.pair.oc) || 0;
+    const ob = (b.pair && b.pair.oc) || 0;
+    if (ob !== oa) return ob - oa;
+    return (b.sp.n || 0) - (a.sp.n || 0);
+  });
 }
 
 function currentFilter() {
