@@ -9036,5 +9036,167 @@
       "habitat_hint": "樱花栎类阔叶林、果园、神社境内、夜灯下。",
       "finding_tips": "夜里在路灯下找大型天牛。金色毛斑远观即显眼。"
     }
+  },
+  "Astragalus sinicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゲンゲ（レンゲソウ）。春の田に咲く赤紫色のマメ科多年草。緑肥として古くから水田に播かれ、田植え前に鋤き込まれます。「レンゲ畑」は春の風物詩です。",
+      "habitat_hint": "水田、休耕田、河川敷、農地の縁、明るい斜面。",
+      "finding_tips": "4〜5月、水田や休耕田で赤紫色の蝶形花が集まる球状花序を地面近くで探します。葉は奇数羽状複葉、茎は地面を這います。"
+    },
+    "en": {
+      "summary": "Chinese Milkvetch (renge), a spring-flowering legume. Long used as a green manure in rice paddies before transplanting. 'Renge fields' in bloom are a classic Japanese springtime scene.",
+      "habitat_hint": "Rice paddies, fallow fields, riverbanks, field margins, and bright slopes.",
+      "finding_tips": "From April to May look low in paddies for ball-shaped clusters of pinkish-violet pea flowers. Pinnate leaves and creeping stems."
+    },
+    "zh": {
+      "summary": "紫云英，春季水田常见的豆科多年生草。自古作绿肥种于水田，插秧前翻耕入土。盛开的紫云英田是日本春景代表。",
+      "habitat_hint": "水田、休耕田、河滩、田边、明亮斜坡。",
+      "finding_tips": "四至五月在水田找贴地的球状紫红色蝶形花序。奇数羽状叶，茎匍匐。"
+    }
+  },
+  "Viola mandshurica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スミレ。在来種のスミレの代表種で、紫色の花を咲かせます。タチツボスミレに次いで日本で普通に見られるスミレで、明るい草地を好みます。",
+      "habitat_hint": "明るい草地、河川敷、農地の縁、神社の境内、芝生の縁。",
+      "finding_tips": "4〜5月、明るい草地で濃い紫色の花を咲かせるスミレを探します。葉はやや細長くヘラ状で、タチツボスミレ（円形に近い葉）と区別できます。"
+    },
+    "en": {
+      "summary": "Manchurian Violet. A typical native violet with deep purple flowers. After the Common Blue Violet, the most familiar violet in Japan; prefers open meadows.",
+      "habitat_hint": "Bright meadows, riverbanks, field margins, shrine grounds, and lawn margins.",
+      "finding_tips": "From April to May look for deep purple violets in open grass. Leaves are spatulate (more elongated), distinguishing it from Common Blue Violet's rounded leaves."
+    },
+    "zh": {
+      "summary": "东北堇菜，本土代表性堇菜，开深紫色花。仅次于立坪堇是日本最常见的堇菜，喜明亮草地。",
+      "habitat_hint": "明亮草地、河滩、田边、神社境内、草坪边。",
+      "finding_tips": "四至五月在明亮草地找深紫色花的堇菜。叶细长匙形（与立坪堇圆形叶可区分）。"
+    }
+  },
+  "Pertya scandens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コウヤボウキ。雑木林の林床に普通の落葉低木で、秋に白い細長い花弁の独特の花を咲かせます。「高野山で箒に使われた」ことが名前の由来です。",
+      "habitat_hint": "雑木林の林床、神社の参道脇、明るい斜面、半日陰、谷沿いの林。",
+      "finding_tips": "9〜10月、地面近くで白〜淡桃色の細長い花弁が放射状に広がる独特の花を持つ低木を探します。葉は細長い卵形です。"
+    },
+    "en": {
+      "summary": "Pertya, a deciduous shrub of mixed woodland understory. Distinctive autumn flowers — narrow white-to-pinkish florets radiating from a head. Named for use as broom material at Mt. Kōya temple.",
+      "habitat_hint": "Forest understory, shrine paths, bright slopes, half-shade, and valley woods.",
+      "finding_tips": "From September to October look low for shrubs with flowers whose narrow white-to-pinkish 'petals' radiate like a small firework. Narrow oval leaves."
+    },
+    "zh": {
+      "summary": "蔓三七草（毛大丁草近缘），杂木林林床常见的落叶灌木。秋季开白色细长花瓣放射状的独特花。日文俗名源于高野山曾用作扫帚。",
+      "habitat_hint": "杂木林林床、神社参道旁、明亮斜坡、半阴、谷地林。",
+      "finding_tips": "九至十月在地面找开白色或淡粉细长放射形花瓣的小灌木。叶细长卵形。"
+    }
+  },
+  "Conocephalus melaenus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササキリ。小型の緑色のササキリで、湿った草地や河川敷で「ジリリ」と細い声で鳴きます。前脚と触角が非常に長いのも特徴。",
+      "habitat_hint": "湿った草地、河川敷、水田の畦、ヨシ原の縁、明るい林縁。",
+      "finding_tips": "夏〜秋、湿った草地で細長い緑色のキリギリスを探します。長い触角と「ジリリ」の鳴き声が手がかりです。"
+    },
+    "en": {
+      "summary": "A small green meadow katydid with very long antennae. Sings a fine 'jiriri' from damp grass.",
+      "habitat_hint": "Damp meadows, riverbanks, paddy levees, reedbed edges, and bright woodland edges.",
+      "finding_tips": "In summer and autumn look for slender green katydids in damp grass. The long antennae and 'jiriri' song help."
+    },
+    "zh": {
+      "summary": "黑笛角螽（小型湿地螽斯），细长绿色。在潮湿草地发出『叽哩哩』细鸣。",
+      "habitat_hint": "潮湿草地、河滩、田埂、芦苇丛边、明亮林缘。",
+      "finding_tips": "夏秋在潮湿草地找细长绿色螽斯。长触角与『叽哩哩』鸣可作辨识。"
+    }
+  },
+  "Tetramorium tsushimae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビイロシワアリ。小型の褐色のアリで、地面や石の下で大群で活動します。日本各地で非常に普通に見られます。",
+      "habitat_hint": "雑木林の林床、芝生、河川敷、農地、舗装の継ぎ目。",
+      "finding_tips": "石や落ち葉をめくると大量に現れる体長3mmほどの褐色のアリを探します。日本各地で最も普通のアリの一つです。"
+    },
+    "en": {
+      "summary": "A common small brown ant. Forms large colonies under stones and in leaf litter; one of Japan's most familiar ants.",
+      "habitat_hint": "Forest understory, lawns, riverbanks, farmland, and pavement seams.",
+      "finding_tips": "Lift a stone or leaf and many small (~3 mm) brown ants pour out — likely this species. One of the most common ants in Japan."
+    },
+    "zh": {
+      "summary": "对马铺道蚁，小型褐色蚂蚁。常在地下和石头下成大群活动，是日本最常见的蚂蚁之一。",
+      "habitat_hint": "杂木林林床、草坪、河滩、农田、铺装缝。",
+      "finding_tips": "翻起石头或落叶时大量出现的约 3 mm 褐色蚂蚁。日本最常见蚂蚁之一。"
+    }
+  },
+  "Diekeana admirabilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トホシテントウ。赤地に10個の黒い斑点のある大型のテントウムシ。**ウリ科植物の害虫として知られ、ナナホシテントウなどと異なり植食性です。**",
+      "habitat_hint": "農地（ウリ科畑）、家庭菜園、河川敷、雑草地。",
+      "finding_tips": "ウリ科植物の葉の上で赤地に10個の黒斑があるテントウムシを探します。葉に独特の輪状の食痕を残すので発見の手がかりになります。"
+    },
+    "en": {
+      "summary": "A large red ladybird with ten black spots. **Unlike most ladybirds it is herbivorous — a pest of cucurbits.**",
+      "habitat_hint": "Farmland (cucurbit fields), kitchen gardens, riverbanks, and weedy ground.",
+      "finding_tips": "On cucurbit leaves look for a red ladybird with 10 black spots. Distinctive ring-shaped feeding traces on leaves help locate it."
+    },
+    "zh": {
+      "summary": "十星瓢虫（茄二十八星瓢虫近缘），红底配 10 个黑斑的大型瓢虫。**与多数瓢虫不同，本种植食性，是葫芦科害虫。**",
+      "habitat_hint": "农田（葫芦科菜地）、家庭菜园、河滩、杂草地。",
+      "finding_tips": "在葫芦科叶上找红底带 10 黑斑的瓢虫。叶上特有环状咬痕可辅助发现。"
+    }
+  },
+  "Nonarthra cyanea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ルリマルノミハムシ。瑠璃色の金属光沢を持つ小型ハムシで、葉の上を跳ねるように動きます。樹木の葉を食害します。",
+      "habitat_hint": "雑木林の林縁、河川敷の樹木、神社の樹林、家庭菜園、明るい園路。",
+      "finding_tips": "葉の上でキラリと光る瑠璃色の小型甲虫を探します。触ると素早く飛び跳ねて逃げるのも特徴です。"
+    },
+    "en": {
+      "summary": "A small flea beetle with brilliant blue iridescence. Jumps from leaves when disturbed; feeds on tree foliage.",
+      "habitat_hint": "Woodland edges, riverside trees, shrine groves, kitchen gardens, and bright paths.",
+      "finding_tips": "On leaves look for a small beetle flashing metallic blue. Jumps away rapidly when approached."
+    },
+    "zh": {
+      "summary": "蓝纹跳甲，小型跳甲，金属琉璃蓝色。叶上跳跃移动，食树叶。",
+      "habitat_hint": "林缘、河岸树木、神社树林、家庭菜园、明亮园路。",
+      "finding_tips": "在叶上找闪琉璃蓝光的小型甲虫。触碰会快速跳走。"
+    }
+  },
+  "Festuca parvigluma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トボシガラ。雑木林の林床や林縁に生える在来種のイネ科。柔らかい線形の葉を持ち、初夏に細い穂を立てます。",
+      "habitat_hint": "雑木林の林床、林縁、社寺林、半日陰の斜面、谷沿いの林。",
+      "finding_tips": "5〜7月、林床や林縁で細長い葉と、細く垂れる花穂を持つ小〜中型のイネ科を探します。半日陰でよく育ちます。"
+    },
+    "en": {
+      "summary": "A native fescue of forest understory and woodland edges. Soft linear leaves and slender early-summer spikes.",
+      "habitat_hint": "Forest understory, woodland edges, shrine groves, shaded slopes, and valley woods.",
+      "finding_tips": "From May to July look in shade for small-to-medium grasses with soft narrow leaves and thin drooping spikes."
+    },
+    "zh": {
+      "summary": "小颖羊茅，本土禾本科。生于林床与林缘，叶细长柔软，初夏抽细花穗。",
+      "habitat_hint": "杂木林林床、林缘、神社树林、半阴斜坡、谷地林。",
+      "finding_tips": "五至七月在林下与林缘找叶细长、细花穗下垂的中小型禾本科。"
+    }
+  },
+  "Ixeridium dentatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニガナ。在来種のキク科で、葉に苦みがあることが名前の由来。春〜初夏に黄色いタンポポに似た小型の頭花を立て、開けた草地で群生します。",
+      "habitat_hint": "明るい草地、河川敷、農地の縁、芝生、明るい斜面。",
+      "finding_tips": "4〜6月、地面のロゼットから細い茎を立て、その先に黄色い小型のタンポポ状の頭花を持つ植物を探します。葉は深く切れ込みます。"
+    },
+    "en": {
+      "summary": "A native composite whose leaves are bitter — the source of the Japanese name 'niga-na'. Yellow dandelion-like small flower heads atop slender stems in spring and early summer.",
+      "habitat_hint": "Bright meadows, riverbanks, field margins, lawns, and bright slopes.",
+      "finding_tips": "From April to June look for plants with basal rosettes sending up thin stems carrying small yellow dandelion-like heads. Leaves are deeply lobed."
+    },
+    "zh": {
+      "summary": "苦菜（齿叶苦荬），本土菊科。叶有苦味，因此得名『苦菜』。春初夏抽细茎，顶端开许多类蒲公英黄色小头花。",
+      "habitat_hint": "明亮草地、河滩、田边、草坪、明亮斜坡。",
+      "finding_tips": "四至六月寻找莲座基生、细茎抽出许多类蒲公英黄色小头花的植物。叶深裂。"
+    }
   }
 }
