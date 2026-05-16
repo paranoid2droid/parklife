@@ -5075,5 +5075,167 @@
       "habitat_hint": "杂木林林床、神社树林、谷地林、针阔混交林。",
       "finding_tips": "阴林中听到落叶翻动声后找深色中型鸟。雄鸟近观可见灰青色调。"
     }
+  },
+  "Sibirionetta formosa": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トモエガモ。雄の顔に「巴」文様（黒・緑・クリーム色）があることが名前の由来の冬鳥。近年は東京湾近くの池でも見られます。",
+      "habitat_hint": "大きな池、湖、河口、湿地、ダム湖。",
+      "finding_tips": "雄の顔の派手な巴模様は遠くからでも目立ちます。雌はやや地味な褐色ですが、耳のあたりに白斑があります。"
+    },
+    "en": {
+      "summary": "Baikal Teal. Males have a striking face pattern of green, black, and cream — the Japanese name 'tomoe' refers to the swirling 'comma' design.",
+      "habitat_hint": "Large ponds, lakes, estuaries, wetlands, and reservoirs.",
+      "finding_tips": "The male's flamboyant face pattern is visible at distance. Females are mottled brown with a notable white spot near the ear."
+    },
+    "zh": {
+      "summary": "花脸鸭。雄鸟脸部具绿、黑、奶白色组成的『巴』形旋纹，日文俗名由此。冬季渡来。",
+      "habitat_hint": "大池塘、湖泊、河口、湿地、水库。",
+      "finding_tips": "雄鸟华丽脸纹远观即显眼。雌鸟偏褐色，耳后白斑可作辅助识别。"
+    }
+  },
+  "Cupido argiades": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツバメシジミ。後翅に小さな尾状突起があり、雄の翅表は青紫色に光ります。マメ科植物を食草とし、明るい草地で普通に見られます。",
+      "habitat_hint": "草地、河川敷、農地の縁、マメ科植物のある明るい場所。",
+      "finding_tips": "シジミチョウの中で後翅に細い尾突起があるものを探します。雄の青紫色は日光を浴びると鮮やかに見えます。"
+    },
+    "en": {
+      "summary": "Short-tailed Blue, a lycaenid with small hindwing tails. Male uppersides flash blue-violet. Common where legumes grow.",
+      "habitat_hint": "Grassland, riverbanks, field margins, and bright sites with leguminous plants.",
+      "finding_tips": "Among small lycaenids look for ones with tiny tail extensions on the hindwing. Males show bright blue-violet uppersides in sun."
+    },
+    "zh": {
+      "summary": "燕灰蝶（短尾蓝），小型灰蝶后翅具尾突。雄虫翅面闪蓝紫光。常见于有豆科植物的明亮草地。",
+      "habitat_hint": "草地、河滩、田边、有豆科植物的明亮处。",
+      "finding_tips": "在灰蝶中找后翅有细小尾突的种类。雄虫翅面阳光下显蓝紫色。"
+    }
+  },
+  "Echinochloa crus-galli": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌビエ。水田や畑に普通に生えるイネ科の雑草。穂が雄鶏（クルス＝鶏脚の意）の足の形に似ることが学名の由来です。",
+      "habitat_hint": "水田、畑、河川敷、湿った草地、用水路の縁。",
+      "finding_tips": "稲に似た見た目の大型のイネ科を水田周辺で探します。穂が湾曲した枝に分かれ、剛毛があるのが特徴です。"
+    },
+    "en": {
+      "summary": "Barnyard Grass, a common weedy grass of rice paddies and gardens. The species epithet 'crus-galli' (cock's leg) refers to the shape of the inflorescence.",
+      "habitat_hint": "Rice paddies, gardens, riverbanks, damp meadows, and ditch margins.",
+      "finding_tips": "Look around paddies for a large rice-like grass with curved bristly inflorescence branches."
+    },
+    "zh": {
+      "summary": "稗（无芒稗），水田与菜地的常见禾本科杂草。学名意为『公鸡腿』，源自其花序形状。",
+      "habitat_hint": "水田、菜地、河滩、潮湿草地、灌渠边。",
+      "finding_tips": "水田附近找类似水稻的大型禾本科。花序分枝弯曲带芒是辨识要点。"
+    }
+  },
+  "Stachyurus praecox": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キブシ。葉が出る前の早春に、淡黄色の花を多数つけた長い穂を垂れ下げる落葉低木。雑木林の春の風物詩です。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の境内、明るい斜面、社寺林。",
+      "finding_tips": "3月、葉のない枝から黄色いブドウ状の花穂が下垂する低木を探します。花の後に丸い実をつけ、独特の景観を作ります。"
+    },
+    "en": {
+      "summary": "Early Spiketail, a deciduous shrub that hangs long catkins of pale-yellow flowers in early spring, before the leaves emerge. A classic spring sight of mixed woodland.",
+      "habitat_hint": "Woodland edges, valley woods, shrine grounds, bright slopes, and shrine groves.",
+      "finding_tips": "In March look for a shrub with bare branches dangling pendulous chains of yellow flowers. Round fruits follow after blooming."
+    },
+    "zh": {
+      "summary": "通条树（早春木），落叶灌木。早春叶未展时枝条垂下多串淡黄色花穗，是杂木林春日代表景观。",
+      "habitat_hint": "林缘、谷地林、神社境内、明亮斜坡、神社树林。",
+      "finding_tips": "三月寻找叶未展枝条悬挂葡萄串状黄色花穗的灌木。花后结圆果。"
+    }
+  },
+  "Cornus controversa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミズキ。階段状に水平に伸びる枝が独特の落葉樹。初夏に白い花を多数咲かせ、秋に黒い実をつけます。",
+      "habitat_hint": "雑木林、谷沿いの林、神社の境内、河川敷の大木、社寺林。",
+      "finding_tips": "枝が水平の層をなして広がる樹形を探します。5〜6月、白い小花が枝の上に集まり、平らな花序を作ります。"
+    },
+    "en": {
+      "summary": "Giant Dogwood, a deciduous tree with strikingly tiered, horizontal branching. White flower clusters in early summer; black fruits in autumn.",
+      "habitat_hint": "Mixed woodland, valley woods, shrine grounds, large riverside trees, and shrine groves.",
+      "finding_tips": "Look for a tree whose branches spread in horizontal layers — a 'wedding-cake' silhouette. In May/June the flat-topped white flower clusters sit on top of the branches."
+    },
+    "zh": {
+      "summary": "灯台树。落叶树，枝条水平分层伸展独特。初夏开许多白色小花，秋季结黑色果。",
+      "habitat_hint": "杂木林、谷地林、神社境内、河岸大树、神社树林。",
+      "finding_tips": "找枝条水平分层伸展、似多层蛋糕的乔木。五至六月白色平顶花序集生于枝上。"
+    }
+  },
+  "Larus schistisagus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオセグロカモメ。背中が濃い灰黒色の大型カモメ。北日本で繁殖し、関東以南では冬鳥として渡来します。",
+      "habitat_hint": "東京湾、河口、漁港、海岸、河川下流。",
+      "finding_tips": "セグロカモメより背中が暗色（灰黒色）。大型で足はピンク色。冬の港でセグロカモメ・ウミネコと混在する中で背の色を比較してください。"
+    },
+    "en": {
+      "summary": "Slaty-backed Gull, a large gull with a dark slaty-grey mantle. Breeds in northern Japan; visits the Kanto coast in winter.",
+      "habitat_hint": "Tokyo Bay, estuaries, fishing harbours, coasts, and lower rivers.",
+      "finding_tips": "Mantle is darker (slaty) than Vega Gull. Large body with pink legs. Compare mantle shade against other gulls at winter harbours."
+    },
+    "zh": {
+      "summary": "灰背鸥（大背黑鸥），背部呈暗灰黑色的大型鸥。在北日本繁殖，冬季南下至关东海岸。",
+      "habitat_hint": "东京湾、河口、渔港、海岸、河流下游。",
+      "finding_tips": "背色比织女银鸥更暗灰。大型，腿粉色。冬季港口与其他鸥比较背色即可识。"
+    }
+  },
+  "Cerastium glomeratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オランダミミナグサ。外来種のナデシコ科で、春に小さな白い花を集めて咲かせます。葉と茎に毛が多いのが特徴です。",
+      "habitat_hint": "畑、道端、芝生、河川敷、空き地、舗装の隙間。",
+      "finding_tips": "3〜5月、地面近くに白い5弁花の小花が集まる毛深い植物を探します。在来のミミナグサより花期が早く、群生します。"
+    },
+    "en": {
+      "summary": "Sticky Mouse-ear Chickweed, an introduced caryophyll with small white flowers in spring. Stems and leaves are notably hairy.",
+      "habitat_hint": "Gardens, roadsides, lawns, riverbanks, vacant lots, and pavement cracks.",
+      "finding_tips": "From March to May look low for a hairy plant with clusters of small white five-petalled flowers. Earlier blooming than the native Mouse-ear."
+    },
+    "zh": {
+      "summary": "球序卷耳，外来石竹科。早春开许多白色五瓣小花，茎叶多毛。",
+      "habitat_hint": "菜园、路边、草坪、河滩、空地、铺装缝隙。",
+      "finding_tips": "三至五月低头找贴地多毛、花白色五瓣集生的植物。比本土卷耳花期更早，常成片。"
+    }
+  },
+  "Briza maxima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コバンソウ。外来種の観賞用イネ科で、小判のような形の独特な小穂が垂れ下がります。乾燥にも強く、ドライフラワーとしても使われます。",
+      "habitat_hint": "河川敷、空き地、芝生、農地の縁、明るい斜面。",
+      "finding_tips": "5〜7月、ハート〜小判形の平らな小穂が枝先から多数垂れ下がる植物を探します。風に揺れる姿が美しいです。"
+    },
+    "en": {
+      "summary": "Greater Quaking Grass, an introduced ornamental with distinctive 'coin-shaped' nodding spikelets. Drought-tolerant; also used in dried-flower arrangements.",
+      "habitat_hint": "Riverbanks, vacant lots, lawns, field margins, and bright slopes.",
+      "finding_tips": "From May to July look for plants with flat heart-shaped spikelets dangling from branched stems. The pendulous heads tremble attractively in the wind."
+    },
+    "zh": {
+      "summary": "大凌风草，外来观赏禾本科。小穗形似日本古币『小判』，悬垂枝梢。耐旱，亦作干花。",
+      "habitat_hint": "河滩、空地、草坪、田边、明亮斜坡。",
+      "finding_tips": "五至七月寻找枝梢悬垂多个心形或币形扁平小穗的植物。风中摆动很美。"
+    }
+  },
+  "Potentilla indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブヘビイチゴ。林床や明るい湿地に這う多年草。黄色い5弁花と、赤くて小さな食用可能なイチゴ状の偽果が特徴ですが、味はほぼありません。",
+      "habitat_hint": "雑木林の林縁、芝生の縁、半日陰の草地、神社の境内、河川敷。",
+      "finding_tips": "3〜5月の黄色い小花と、その後の赤い小さな実を探します。三葉のクローバー型の葉と、地面に這う茎が特徴。"
+    },
+    "en": {
+      "summary": "Mock Strawberry. A trailing perennial with yellow five-petalled flowers and bright-red strawberry-like aggregate fruits. Edible but nearly flavourless.",
+      "habitat_hint": "Woodland edges, lawn edges, half-shaded grass, shrine grounds, and riverbanks.",
+      "finding_tips": "Look for yellow flowers in March-May and small red 'strawberries' after. Trifoliate leaves and creeping stems set it apart."
+    },
+    "zh": {
+      "summary": "蛇莓，匍匐多年生草本。黄色五瓣花，结红色草莓状聚合果，可食但几乎无味。",
+      "habitat_hint": "林缘、草坪边、半阴草地、神社境内、河滩。",
+      "finding_tips": "三至五月找黄色小花，之后找小型红色聚合果。三出叶配匍匐茎是特征。"
+    }
   }
 }
