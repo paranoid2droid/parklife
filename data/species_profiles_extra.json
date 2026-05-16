@@ -8225,5 +8225,168 @@
       "habitat_hint": "潮湿草地、田埂、河滩、神社境内、半阴斜坡。",
       "finding_tips": "五至六月找细叶密生的小型薹草，抽细花穗。常成片覆地。"
     }
+  },
+  "Regulus regulus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キクイタダキ。日本最小の鳥（カラとほぼ同等の重さ）で、頭頂の黄色〜橙色の冠羽が「菊の花を頂く」ような美しい姿。針葉樹林を好み、冬鳥として渡来します。",
+      "habitat_hint": "針葉樹林、混合林、社寺林、ヒマラヤスギ・モミの植え込み、山地の林。",
+      "finding_tips": "11〜3月、針葉樹の樹冠を素早く動く非常に小さな鳥を探します。「ツィー、ツィー」という非常に細い声と、頭頂部の鮮やかな黄色の縞が手がかり。"
+    },
+    "en": {
+      "summary": "Goldcrest, one of Japan's smallest birds (close to a tit in weight). The bright yellow-to-orange crown stripe gave it the Japanese name 'chrysanthemum-crown'. Winter visitor; prefers conifers.",
+      "habitat_hint": "Conifer forests, mixed forest, shrine groves, cedar/fir plantings, and montane woods.",
+      "finding_tips": "From November to March scan conifer canopies for a very small bird flicking through needles. The extremely thin 'tsee-tsee' call and bright yellow crown are diagnostic."
+    },
+    "zh": {
+      "summary": "戴菊，日本最小型鸟之一（与山雀近重）。头顶具明黄至橙色冠纹『菊冠』。冬季渡来，偏爱针叶林。",
+      "habitat_hint": "针叶林、混交林、神社树林、雪松/冷杉栽植、山地林。",
+      "finding_tips": "11月至3月在针叶林冠层找极小型快速移动的鸟。极细『嘁-嘁』声与头顶亮黄纹是辨识。"
+    }
+  },
+  "Tradescantia fluminensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トキワツユクサ。南米原産の外来種で、地面を這うように広がる多年草。3弁の白い花を多数咲かせます。要警戒外来生物に指定されています。",
+      "habitat_hint": "湿った林床、河川敷、住宅地、空き地、半日陰の地面。",
+      "finding_tips": "5〜8月、地面を這う茎と3弁の白い花を持つ植物を探します。光沢のある葉が密に重なります。**駆除対象なので庭に植えないでください。**"
+    },
+    "en": {
+      "summary": "Small-leaf Spiderwort, a South-American introduced perennial that creeps along the ground. Three-petalled white flowers; listed in Japan as an invasive of concern.",
+      "habitat_hint": "Damp forest floor, riverbanks, residential ground, vacant lots, and half-shaded ground.",
+      "finding_tips": "From May to August look low for creeping stems with glossy leaves and three-petalled white flowers. **Recognised invasive — do not cultivate or move.**"
+    },
+    "zh": {
+      "summary": "白花紫露草，南美原产外来。匍匐多年生草，开白色三瓣花。被列为日本要警戒的外来生物。",
+      "habitat_hint": "潮湿林床、河滩、住宅区、空地、半阴地面。",
+      "finding_tips": "五至八月找匍匐茎、亮叶、白色三瓣花的植物。**入侵物种，请勿栽种或搬移。**"
+    }
+  },
+  "Cymbalaria muralis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツタバウンラン。地中海原産の外来種で、石垣やコンクリート壁に這うように広がります。小さな淡紫色の花を多数咲かせ、葉はツタに似た形です。",
+      "habitat_hint": "石垣、コンクリート壁、舗装の隙間、住宅地の石組み、ブロック塀。",
+      "finding_tips": "4〜10月、壁面や石垣を覆うように這うつる状の植物で、ツタに似た葉と淡紫色の小さな唇形花を探します。"
+    },
+    "en": {
+      "summary": "Ivy-leaved Toadflax, a Mediterranean introduced creeper. Drapes over stone walls and concrete, bearing many tiny pale-violet snapdragon-like flowers; leaves resemble ivy.",
+      "habitat_hint": "Stone walls, concrete walls, pavement cracks, residential masonry, and brick walls.",
+      "finding_tips": "From April to October look on walls for a trailing plant with ivy-shaped leaves and small pale-violet lipped flowers."
+    },
+    "zh": {
+      "summary": "蔓柳穿鱼，地中海原产外来攀缘草。常铺挂石墙与混凝土，开许多淡紫色金鱼草状小花，叶似常春藤。",
+      "habitat_hint": "石墙、混凝土墙、铺装缝、住宅石砌、砖墙。",
+      "finding_tips": "四至十月找垂挂墙面的藤本，叶似常春藤、淡紫唇形小花。"
+    }
+  },
+  "Pelodiscus sinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チュウゴクスッポン。長い首と尖った吻が特徴の中型のスッポン。河川や池で水中生活し、岩や砂で日光浴することもあります。在来種だが養殖個体の逸出も多い。",
+      "habitat_hint": "河川、池、湿地、ダム湖、河口の汽水域。",
+      "finding_tips": "水面に首だけ出すか、岸辺の岩・砂で甲羅干しする中型のカメを探します。**触ると噛みつくので注意。**長い首と尖った吻が他のカメと違う点。"
+    },
+    "en": {
+      "summary": "Chinese Softshell Turtle, a medium turtle with a long neck and pointed snout. Aquatic — sometimes basks on rocks and sand. Native but often escaped from aquaculture.",
+      "habitat_hint": "Rivers, ponds, wetlands, reservoirs, and brackish estuarine waters.",
+      "finding_tips": "Look for a head poking out of the water, or a turtle basking on bank rocks/sand. **Will bite if handled.** The long neck and pointed snout distinguish it from other turtles."
+    },
+    "zh": {
+      "summary": "中华鳖（鳖、甲鱼）。颈长、吻尖的中型水龟。多水栖，偶在岩石沙地晒甲。本土物种，养殖逸出个体也多。",
+      "habitat_hint": "河流、池塘、湿地、水库、河口咸淡水。",
+      "finding_tips": "看水面伸出的长颈或岸边晒甲的中型龟。**手触会咬，请远观。** 长颈和尖吻是与其他龟的区别。"
+    }
+  },
+  "Narathura japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキシジミ（属名異記、Arhopala japonicaと同種）。翅表が深い紫色に輝くシジミチョウ。アラカシなど常緑樹を食樹とします。",
+      "habitat_hint": "雑木林の林縁、神社の樹林、常緑樹の植え込み、社寺林。",
+      "finding_tips": "翅を開いた時の深い青紫色の輝きが目印。樹冠で日光浴することが多く、夏〜秋に観察しやすいです。"
+    },
+    "en": {
+      "summary": "Japanese Oakblue (alternate genus). A lycaenid with iridescent deep-violet uppersides. Larvae feed on evergreen oaks; adults frequent woodland edges.",
+      "habitat_hint": "Woodland edges, shrine groves, evergreen plantings, and shrine forest.",
+      "finding_tips": "The deep violet flash when wings open is unmistakable. Often basks in the canopy from summer to autumn."
+    },
+    "zh": {
+      "summary": "紫小灰蝶（属名异写），翅面深紫色具金属光泽。幼虫食常绿栎类，常见于林缘。",
+      "habitat_hint": "林缘、神社树林、常绿植被、神社林。",
+      "finding_tips": "张翅时深紫色金属反射很显眼。夏秋常在树冠晒太阳。"
+    }
+  },
+  "Laccoptera nepalensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨツモンカメノコハムシ。亀の甲羅のような形の小型ハムシで、背中に4つの黒い斑紋があります。サツマイモやヒルガオ科を食害します。",
+      "habitat_hint": "農地（サツマイモ畑）、家庭菜園、河川敷、ヒルガオ・コヒルガオのある場所。",
+      "finding_tips": "サツマイモやヒルガオの葉の上で、亀の甲羅状の小型ハムシを探します。橙色の体に黒い4つの斑が目印です。"
+    },
+    "en": {
+      "summary": "A small tortoise beetle shaped like a turtle's shell with four black spots on the back. Feeds on sweet potato and bindweed.",
+      "habitat_hint": "Farmland (sweet potato fields), kitchen gardens, riverbanks, and around bindweed.",
+      "finding_tips": "On sweet potato or bindweed leaves look for a small tortoise-shaped beetle. The orange body with four black spots confirms the species."
+    },
+    "zh": {
+      "summary": "四纹龟甲，小型叶甲，体形似龟壳，背具 4 个黑斑。食甘薯与旋花科。",
+      "habitat_hint": "农田（甘薯地）、家庭菜园、河滩、有打碗花/旋花的地方。",
+      "finding_tips": "在甘薯或打碗花叶上找龟壳形小型甲虫。橙色体加 4 黑斑是辨识。"
+    }
+  },
+  "Euphorbia maculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオニシキソウ。地面を這うように広がる外来種のトウダイグサ科。茎を切ると白い乳液が出ます。**乳液は皮膚刺激があるので注意。**",
+      "habitat_hint": "畑、道端、河川敷、芝生、舗装の隙間、空き地。",
+      "finding_tips": "地面に這う赤みを帯びた茎と、小さな葉に黒い斑紋があるものを探します。茎を折って白い乳液が出れば本種。**乳液は刺激性があり目に入ると痛い。**"
+    },
+    "zh": {
+      "summary": "斑地锦，外来匍匐草本（大戟科）。茎断流白色乳汁，**乳汁刺激皮肤眼睛，请小心。**",
+      "habitat_hint": "菜园、路边、河滩、草坪、铺装缝、空地。",
+      "finding_tips": "找贴地的红色茎，叶具黑色斑纹。折茎流白色乳汁即是。**乳汁具刺激性，入眼会痛。**",
+      "sources": ["iNaturalist", "Wikipedia"]
+    },
+    "en": {
+      "summary": "Spotted Spurge. An introduced ground-creeping spurge with white milky latex. **The latex irritates skin and eyes — handle with care.**",
+      "habitat_hint": "Gardens, roadsides, riverbanks, lawns, pavement cracks, and vacant lots.",
+      "finding_tips": "Look for sprawling reddish stems with small leaves bearing a dark central blotch. Snap a stem — white latex confirms ID. **Latex causes irritation; avoid eye contact.**"
+    }
+  },
+  "Dryopteris uniformis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オクマワラビ。雑木林の林床に生える中型の常緑シダ。二回羽状の葉と、葉裏に並ぶ円形の胞子嚢群が特徴です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "中型の二回羽状常緑シダで、葉軸が暗褐色を帯び、葉裏に円形の胞子嚢群が並ぶものを探します。林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A medium evergreen wood fern of mixed woodland understory. Bipinnate fronds with dark rachis and round sori in two rows on the underside.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium evergreen fern with bipinnate fronds. Dark rachis and round sori in two rows on the leaf underside confirm it."
+    },
+    "zh": {
+      "summary": "山贯众一种（鳞毛蕨），杂木林林床常见常绿蕨。二回羽状叶、叶轴深褐色，叶背两列圆形孢子囊群。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找中型二回羽状常绿蕨，叶轴深褐、叶背圆形孢子囊群成两列。常成片覆地。"
+    }
+  },
+  "Paspalum dilatatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シマスズメノヒエ。南米原産の外来種の大型イネ科で、河川敷で大群落を作ります。穂は枝分かれし、小穂に毛があります。",
+      "habitat_hint": "河川敷、空き地、農地の縁、土手、明るい斜面。",
+      "finding_tips": "夏〜秋、人の腰高以上に育つ大型のイネ科を探します。穂が枝分かれし、小穂が紫色を帯びるのが目印です。"
+    },
+    "en": {
+      "summary": "Dallisgrass, a tall South-American introduced grass forming dense colonies on riverbanks. Branched flowering spikes with hairy spikelets.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, levees, and bright slopes.",
+      "finding_tips": "In summer and autumn look for tall grasses (over waist height) with branched spikes; spikelets often have a purplish tint."
+    },
+    "zh": {
+      "summary": "毛花雀稗，南美原产外来大型禾本科。河滩成片，花穗分枝、小穗带紫色。",
+      "habitat_hint": "河滩、空地、田边、堤岸、明亮斜坡。",
+      "finding_tips": "夏秋找超腰高的大型禾本科。花穗分枝、小穗带紫色是辨识要点。"
+    }
   }
 }
