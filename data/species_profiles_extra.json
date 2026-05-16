@@ -2465,5 +2465,329 @@
       "habitat_hint": "杂木林、里山、谷地林、神社林、明亮斜坡林。",
       "finding_tips": "叶椭圆形带细密锯齿，叶背偏白。秋冬地上有许多带浅杯的小橡子。"
     }
+  },
+  "Cyprinus rubrofuscus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "東アジア原産のコイ。日本の公園の池に泳ぐコイの多くは飼育型・放流型で、本来の在来コイ（マゴイ）とは別系統です。錦鯉も本種に含まれます。",
+      "habitat_hint": "公園の池、河川下流、湖、ため池、放流された水域。",
+      "finding_tips": "大きな鱗とヒゲのある大型魚を池底や水面で探します。岸辺で人影が見えるとパクパクと口を寄せてくることが多いです。"
+    },
+    "en": {
+      "summary": "Amur Carp. Most carp in Japanese park ponds are domestic/stocked stock (including koi varieties), a separate lineage from the truly native Japanese carp.",
+      "habitat_hint": "Park ponds, lower rivers, lakes, reservoirs, and stocked waters.",
+      "finding_tips": "Look for a large fish with prominent scales and barbels near the bottom or surface. Often approaches the bank with mouth open when people appear."
+    },
+    "zh": {
+      "summary": "鲤鱼（亚洲鲤）。日本公园池塘中的鲤多为饲养型或放流个体，包括锦鲤，与真正本土的日本鲤为不同支系。",
+      "habitat_hint": "公园池塘、河流下游、湖泊、蓄水池、放流水域。",
+      "finding_tips": "在池底或水面找大型有鳞和触须的鱼。岸边人影出现常会聚拢张口。"
+    }
+  },
+  "Euhadra peliomphala": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミスジマイマイ。本州中央部で普通の中型カタツムリ。殻に3本の褐色の帯があるのが名前の由来です。",
+      "habitat_hint": "雑木林の林床、湿った石垣、神社の境内、落ち葉の下、雨上がりの園路。",
+      "finding_tips": "雨上がりや早朝、湿った石垣や落ち葉の上を探します。殻の3本帯（個体差あり）と直径2〜3cmの大きさで識別できます。"
+    },
+    "en": {
+      "summary": "A common medium-sized land snail of central Honshu. The Japanese name 'three-banded snail' refers to the brown bands across the shell.",
+      "habitat_hint": "Forest floor, damp stone walls, shrine grounds, leaf litter, and paths after rain.",
+      "finding_tips": "After rain or early in the morning check damp walls and leaf litter. Look for a 2–3 cm shell with three (variable) brown bands."
+    },
+    "zh": {
+      "summary": "三带蜗牛，本州中部常见的中型蜗牛。壳上有 3 条褐色色带（个体有变异）。",
+      "habitat_hint": "杂木林林床、潮湿石墙、神社境内、落叶下、雨后园路。",
+      "finding_tips": "雨后或清晨在潮湿石墙和落叶上寻找。壳径 2–3 cm，有 3 条色带是辨识要点。"
+    }
+  },
+  "Anthus hodgsoni": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ビンズイ。冬鳥として渡来するセキレイ類似の細身の小鳥。地味な褐色ですが、地面で尾を上下に振る癖が目印です。",
+      "habitat_hint": "雑木林の林床、芝生、林縁、開けた林の地面、落ち葉のある場所。",
+      "finding_tips": "11〜3月、地面を歩きながら尾を振る褐色の小鳥を探します。胸の縦縞が明瞭で、ハクセキレイより細身です。"
+    },
+    "en": {
+      "summary": "Olive-backed Pipit, a wintering slender brown bird. The tail-bobbing habit on the ground is the key field cue.",
+      "habitat_hint": "Forest floor, lawns, woodland edges, and open ground under trees.",
+      "finding_tips": "From November to March, watch for a streaky brown bird walking on the ground while bobbing its tail. Slimmer than wagtails and clearly streaked below."
+    },
+    "zh": {
+      "summary": "树鹨，冬季渡来。体褐细长，地面行走时不停摆尾是辨识标志。",
+      "habitat_hint": "杂木林林床、草坪、林缘、开阔林下地面。",
+      "finding_tips": "11月至3月，地面行走并摆尾的褐色细小鸟。胸部纵纹明显，体形比鹡鸰细。"
+    }
+  },
+  "Kerria japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマブキ。春に鮮やかな黄色い花を咲かせる低木。一重と八重があり、湿った林縁や谷沿いに自生・植栽されています。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の植え込み、庭園、川沿いの斜面。",
+      "finding_tips": "4〜5月、明るい鮮やかな黄色い5弁花（八重は多弁）を低木で探します。葉は鋸歯のある卵形で対生風に見えます。"
+    },
+    "en": {
+      "summary": "Japanese Kerria, a shrub with vivid yellow spring flowers (single or double). Native and widely planted along damp woodland edges and valleys.",
+      "habitat_hint": "Woodland edges, valley woods, shrine plantings, gardens, and riverside slopes.",
+      "finding_tips": "From April to May, look for shrubs covered with bright golden-yellow five-petalled flowers (or doubled flowers in the cultivated form)."
+    },
+    "zh": {
+      "summary": "棣棠花，春季开亮黄色 5 瓣花（亦有重瓣）的灌木。多见于潮湿林缘和山谷，亦广泛栽培。",
+      "habitat_hint": "杂木林林缘、谷地林、神社植被、庭园、河岸斜坡。",
+      "finding_tips": "四至五月寻找开亮黄色花的灌木。叶卵形带锯齿。"
+    }
+  },
+  "Celtis sinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エノキ。日本の雑木林の重要構成種で、多くの蝶（ゴマダラチョウ、アカボシゴマダラなど）の食樹になります。樹液場にもなりやすい大木です。",
+      "habitat_hint": "雑木林、神社の境内、街路樹、河川敷の大木、社寺林。",
+      "finding_tips": "葉は卵形で先が尖り、葉脈の付け根が3本に分かれる「三行脈」が特徴。秋に小さな黒い果実がつき、鳥もよく食べに来ます。"
+    },
+    "en": {
+      "summary": "Japanese Hackberry, a keystone tree of Japan's mixed woodland. Host plant for several nymphalid butterflies; also a major sap-flow tree.",
+      "habitat_hint": "Mixed woodland, shrine grounds, street trees, large riverside trees, and shrine groves.",
+      "finding_tips": "Look for oval pointed leaves with three veins radiating from the base. Small black drupes in autumn attract birds."
+    },
+    "zh": {
+      "summary": "朴树，日本杂木林的重要构成种，是多种蛱蝶的寄主，也是常见的树液场大木。",
+      "habitat_hint": "杂木林、神社境内、行道树、河岸大树、神社树林。",
+      "finding_tips": "叶卵形先尖，叶基三主脉是辨识要点。秋季小黑果吸引鸟来食。"
+    }
+  },
+  "Colias poliographus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モンキチョウ。明るい黄色（雄）または白っぽい（雌）翅を持つ普通のチョウ。河川敷や草地で年中見られます。",
+      "habitat_hint": "河川敷、草地、農地の縁、芝生、シロツメクサのある明るい場所。",
+      "finding_tips": "草の上を低く飛ぶ黄色〜白いチョウを探します。地面で吸水することも多いです。"
+    },
+    "en": {
+      "summary": "Eastern Pale Clouded Yellow. Males are bright yellow, females whitish. Common in grass and on riverbanks year-round in mild areas.",
+      "habitat_hint": "Riverbanks, grassland, field margins, lawns, and clover patches.",
+      "finding_tips": "Look low over grass for yellow or whitish butterflies. They also gather at damp ground for water."
+    },
+    "zh": {
+      "summary": "豆粉蝶（Eastern Pale Clouded Yellow）。雄虫亮黄、雌虫偏白。河滩与草地常见。",
+      "habitat_hint": "河滩、草地、田边、草坪、有白车轴草的地方。",
+      "finding_tips": "草地上方低飞的黄或白蝶。也常在地面吸水。"
+    }
+  },
+  "Eophona personata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イカル。太いくちばしと頭頂の黒い帽子が目立つ大型のアトリ類。「キーコキー」と通る声でさえずります。",
+      "habitat_hint": "雑木林、社寺林、エノキやムクノキのある林、樹冠の高い場所。",
+      "finding_tips": "樹冠で群れているのを声で気づきます。淡灰色の体に黒い頭・くちばし基部、太く黄色いくちばしが目立ちます。"
+    },
+    "en": {
+      "summary": "Japanese Grosbeak, a large finch with a stout bill and black 'cap'. Its clear whistled song carries well through the canopy.",
+      "habitat_hint": "Mixed woodland, shrine groves, hackberry-rich forests, and high canopies.",
+      "finding_tips": "Find it first by song. Pale grey body with black face, and a heavy yellow bill — distinctive at any distance."
+    },
+    "zh": {
+      "summary": "黑头蜡嘴雀，喙粗壮，头顶黑色如戴帽，大型雀类。叫声清亮悠扬。",
+      "habitat_hint": "杂木林、神社树林、有朴树等大树的林子、高树冠。",
+      "finding_tips": "先靠歌声定位。体浅灰、面部黑色加粗大黄喙特征鲜明。"
+    }
+  },
+  "Taraxacum platycarpum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カントウタンポポ。在来種のタンポポで、外来種のセイヨウタンポポと比べて総苞片（がく状の部分）が反り返らないのが識別ポイントです。",
+      "habitat_hint": "里山の畑、河川敷、神社の境内、明るい草地、農地の縁。",
+      "finding_tips": "4〜5月、タンポポを見つけたら花の付け根を観察。総苞片が花にぴったり付いて反り返らなければ在来種です。"
+    },
+    "en": {
+      "summary": "Kanto Dandelion, a native dandelion. Distinguished from introduced common dandelions by bracts (the green sepals) that remain pressed against the flower instead of curling down.",
+      "habitat_hint": "Satoyama fields, riverbanks, shrine grounds, bright meadows, and field margins.",
+      "finding_tips": "From April to May, when you find a dandelion check the bracts at the flower base — natives hold them up, introduced species let them flop down."
+    },
+    "zh": {
+      "summary": "关东蒲公英，本土蒲公英。与外来普通蒲公英区分要点是花基部的总苞片不反折。",
+      "habitat_hint": "里山田地、河滩、神社境内、明亮草地、田边。",
+      "finding_tips": "四至五月看到蒲公英，观察花基总苞片是否反折。不反折为本土种。"
+    }
+  },
+  "Viola grypoceras": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タチツボスミレ。日本でもっとも普通のスミレで、淡紫色〜白の花を春に咲かせます。葉はハート型で、ロゼットを作ります。",
+      "habitat_hint": "雑木林の林床、林縁、神社の参道脇、明るい斜面、芝生の縁。",
+      "finding_tips": "3〜5月、地面近くの淡紫色のスミレを探します。葉のロゼットと、距（後ろに伸びる細長い部分）が淡紫色の花が目印です。"
+    },
+    "en": {
+      "summary": "The most familiar Japanese violet, with pale lilac-to-white spring flowers. Heart-shaped leaves form a basal rosette.",
+      "habitat_hint": "Forest understory, woodland edges, shrine paths, bright slopes, and lawn margins.",
+      "finding_tips": "From March to May look low for pale lilac violets with heart-shaped leaves. The pale spur behind the flower confirms the species."
+    },
+    "zh": {
+      "summary": "立坪堇，日本最常见的堇菜。春季开淡紫至白色花，叶心形莲座。",
+      "habitat_hint": "杂木林林床、林缘、神社参道旁、明亮斜坡、草坪边。",
+      "finding_tips": "三至五月在地面寻找淡紫色堇菜。心形叶莲座加花后浅紫距是要点。"
+    }
+  },
+  "Cephalanthera falcata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キンラン。雑木林に咲く鮮やかな黄色のランで、絶滅危惧種に指定されています。菌根菌に強く依存するため、移植や栽培は非常に難しい花です。",
+      "habitat_hint": "雑木林の明るい林床、コナラ・クヌギ林、社寺林、丘陵地の二次林。",
+      "finding_tips": "4〜5月、雑木林の中で鮮やかな黄色いランの花を探します。**絶滅危惧種なので、見つけても採取せず、土を踏み固めないように。**"
+    },
+    "en": {
+      "summary": "Golden Orchid (Kinran), a vivid yellow orchid of mixed woodland — listed as threatened in Japan. Its strict dependence on mycorrhizal fungi makes transplanting almost impossible.",
+      "habitat_hint": "Bright understory of oak (Quercus serrata, Q. acutissima) woods, shrine groves, and hillside secondary forest.",
+      "finding_tips": "From April to May, look for bright yellow orchid flowers in oak woodland. **Threatened — never pick, and avoid trampling the soil around the plant.**"
+    },
+    "zh": {
+      "summary": "金兰，开亮黄色花的森林兰科植物，在日本被列为濒危。强烈依赖菌根真菌，移栽几乎不可能。",
+      "habitat_hint": "杂木林明亮林下、麻栎/枹栎林、神社树林、丘陵次生林。",
+      "finding_tips": "四至五月在杂木林内寻找亮黄色兰花。**濒危物种，请勿采摘，亦避免踩踏其根际土壤。**"
+    }
+  },
+  "Gallinago gallinago": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タシギ。非常に長いくちばしを持つ中型のシギ。湿地や水田の浅瀬で泥に深くくちばしを差し込んで虫を探します。",
+      "habitat_hint": "湿地、水田の縁、河川敷の泥地、池の浅い岸、休耕田。",
+      "finding_tips": "草の根元の泥地でじっと隠れています。驚かせると「ジェッ」と声を出してジグザグに飛んで逃げます。"
+    },
+    "en": {
+      "summary": "Common Snipe, a medium wader with a very long bill that it plunges deep into mud to probe for invertebrates.",
+      "habitat_hint": "Wetlands, paddy edges, muddy riverbanks, shallow pond margins, and fallow fields.",
+      "finding_tips": "Hides in mud at the base of grass. When flushed it gives a 'gech' call and flies away in a zig-zag pattern."
+    },
+    "zh": {
+      "summary": "扇尾沙锥，喙极长的中型鹬，在湿地与水田中将喙深插泥中探食。",
+      "habitat_hint": "湿地、水田边、河滩泥地、池塘浅岸、休耕田。",
+      "finding_tips": "藏身于草根泥地。受惊后『嘎』叫一声 Z 字形飞走。"
+    }
+  },
+  "Orychophragmus violaceus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハナダイコン、オオアラセイトウ。外来種のアブラナ科で、春に淡紫の十字花を河川敷や林縁に大群落で咲かせます。",
+      "habitat_hint": "河川敷、雑木林の林縁、神社の境内、空き地、明るい斜面。",
+      "finding_tips": "4〜5月、淡紫色の4弁花が群がって咲く場所を探します。葉は深く切れ込み、茎は60cmほどに伸びます。"
+    },
+    "en": {
+      "summary": "February Orchid, an introduced brassica with pale lilac four-petalled flowers carpeting riverbanks and woodland edges in spring.",
+      "habitat_hint": "Riverbanks, woodland edges, shrine grounds, vacant lots, and bright slopes.",
+      "finding_tips": "From April to May, find drifts of pale lilac four-petalled flowers. Leaves are lobed; stems reach about 60 cm."
+    },
+    "zh": {
+      "summary": "诸葛菜（二月兰），外来十字花科植物。春季开淡紫色十字花，常成大片群落。",
+      "habitat_hint": "河滩、林缘、神社境内、空地、明亮斜坡。",
+      "finding_tips": "四至五月寻找成片开放的淡紫四瓣花。叶羽状深裂，茎可达 60 cm。"
+    }
+  },
+  "Ypthima argus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメウラナミジャノメ。茶色の翅に大小の目玉模様（眼状紋）が並ぶ小型のジャノメチョウ。明るい草地や雑木林の縁で普通に見られます。",
+      "habitat_hint": "明るい草地、雑木林の林縁、河川敷、神社の参道脇、芝生の縁。",
+      "finding_tips": "草の上を低くゆっくり飛ぶ茶色いチョウを探します。翅を閉じたときに見える複数の目玉模様で識別できます。"
+    },
+    "en": {
+      "summary": "A small satyrid with rows of eye-spots of varying size on brown wings. Common in bright grass and along woodland edges.",
+      "habitat_hint": "Bright grassland, woodland edges, riverbanks, shrine paths, and lawn margins.",
+      "finding_tips": "Look low for a brown butterfly drifting gently over grass. The multiple eye-spots on the closed underside confirm the ID."
+    },
+    "zh": {
+      "summary": "小型矍眼蝶，褐色翅上排有多枚大小不一的眼斑。在明亮草地和林缘常见。",
+      "habitat_hint": "明亮草地、林缘、河滩、神社参道旁、草坪边。",
+      "finding_tips": "找在草上方低飞的褐色蝶。闭翅时反面多个眼斑可作辨识。"
+    }
+  },
+  "Spoladea recurvalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロオビノメイガ。前翅に白い帯のある小型のメイガで、夏〜秋に発生。アカザ科やヒユ科を食草とし、ニラやホウレンソウの害虫としても知られます。",
+      "habitat_hint": "農地、家庭菜園、空き地、河川敷、雑草地。",
+      "finding_tips": "夕方、ライトの周りや畑で前翅に細い白帯のある茶色の小さな蛾を探します。昼でも草を歩いて飛ばすと見つかります。"
+    },
+    "en": {
+      "summary": "Beet Webworm Moth, a small moth with a clean white band on the brown forewing. Active summer to autumn; a pest of amaranth-family crops.",
+      "habitat_hint": "Farmland, kitchen gardens, vacant lots, riverbanks, and weedy ground.",
+      "finding_tips": "At dusk look around lights and crops for a small moth with a narrow white band across each forewing. Walking through grass during the day flushes them up."
+    },
+    "zh": {
+      "summary": "甜菜白带野螟，小型蛾，前翅有清晰白带。夏秋活动，是苋科作物的害虫。",
+      "habitat_hint": "农田、菜园、空地、河滩、杂草地。",
+      "finding_tips": "黄昏在灯光周围或田地找前翅有窄白带的褐色小蛾。白天走过草丛也能将其惊起。"
+    }
+  },
+  "Truljalia hibinonis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオマツムシ。外来種のコオロギ類で、街中の街路樹で「リーリーリー」と大きな声で鳴きます。秋の夜の都市の代表的な音風景です。",
+      "habitat_hint": "街路樹（特にケヤキ、サクラ）、住宅地、公園の樹冠、神社の樹林。",
+      "finding_tips": "8〜10月の夜、街路樹から聞こえる連続した高い「リーリー」鳴き声で気づきます。姿は緑色で樹冠におり、声の場所を特定するのは難しいです。"
+    },
+    "en": {
+      "summary": "An introduced tree cricket. Its loud continuous 'reee-reee' song from street trees is a signature soundscape of urban autumn nights in Japan.",
+      "habitat_hint": "Street trees (especially zelkova, cherry), residential areas, park canopies, and shrine groves.",
+      "finding_tips": "From August to October listen at night for a piercing continuous 'reee'. The cricket itself is green and lives high in the canopy — hard to see."
+    },
+    "zh": {
+      "summary": "外来的青树蟋。夜晚在街道行道树上发出响亮持续的『嘶嘶』声，是日本秋夜城市的标志声景。",
+      "habitat_hint": "行道树（尤其榉树、樱花）、住宅区、公园树冠、神社树林。",
+      "finding_tips": "八至十月夜里听到行道树持续高频鸣叫即是。本身绿色藏在树冠，难以目击。"
+    }
+  },
+  "Popillia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マメコガネ。緑がかった金属光沢を持つ小型のコガネムシで、葉を網状にかじる害虫として知られます。原産は日本ですが、北米で大害虫となっています。",
+      "habitat_hint": "農地、家庭菜園、河川敷、雑草の繁る場所、ブドウやマメ科の植物。",
+      "finding_tips": "夏、葉の表面で集団でかじっている小型のコガネムシを探します。脚の付け根に白い毛束があるのが目印です。"
+    },
+    "en": {
+      "summary": "Japanese Beetle. A small metallic-green scarab whose adults skeletonise leaves. Native to Japan but a serious invasive pest in North America.",
+      "habitat_hint": "Farmland, kitchen gardens, riverbanks, weedy ground, and on grapevines and legumes.",
+      "finding_tips": "In summer find small clusters of beetles chewing leaves into lace. White tufts of hair along the edge of the abdomen are diagnostic."
+    },
+    "zh": {
+      "summary": "日本豆金龟，小型金绿色金龟。成虫将叶片啃成网状，原产日本，在北美为重大害虫。",
+      "habitat_hint": "农田、菜园、河滩、杂草丛、葡萄和豆科植物上。",
+      "finding_tips": "夏季在叶面找成群啃食的小金龟。腹侧白色毛丛是辨识标志。"
+    }
+  },
+  "Acer palmatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イロハモミジ。日本を代表する紅葉する樹木。5〜7裂する手のひら状の葉と、秋の鮮やかな赤い紅葉が特徴です。",
+      "habitat_hint": "雑木林、神社の参道、庭園、社寺林、谷沿いの林、観光地の紅葉名所。",
+      "finding_tips": "葉が掌状に5〜7裂し、葉縁に細かい鋸歯があるのが特徴。秋の紅葉時期はもちろん、春の小さな赤い花や夏のプロペラ状の翼果も観察ポイントです。"
+    },
+    "en": {
+      "summary": "Japanese Maple, the iconic autumn-foliage tree. Five- to seven-lobed palmate leaves turn vivid crimson in autumn.",
+      "habitat_hint": "Mixed woodland, shrine paths, gardens, shrine groves, valley woods, and famous autumn-colour spots.",
+      "finding_tips": "Leaves are palmate with finely serrated lobes. Beyond the famous autumn colour, look for small red spring flowers and the propeller-shaped winged seeds in summer."
+    },
+    "zh": {
+      "summary": "鸡爪槭，日本最具代表性的秋叶树木。叶掌状 5–7 裂，秋季鲜红极美。",
+      "habitat_hint": "杂木林、神社参道、庭园、神社树林、谷地林、赏红叶名胜。",
+      "finding_tips": "叶掌状 5–7 裂带细锯齿。除秋季红叶外，春季小红花和夏季螺旋翅果也是观察点。"
+    }
+  },
+  "Locusta migratoria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トノサマバッタ。大型で力強い飛翔のバッタ。河川敷の草地や砂地で見られ、密度が高くなると群れの色や形が変わる「相変異」で知られます。",
+      "habitat_hint": "河川敷の草地、砂地、休耕田、海岸近くの草地、農地の縁。",
+      "finding_tips": "大型のバッタが「バサバサ」と長く飛んだら本種の可能性大。緑色と褐色の個体があります。"
+    },
+    "en": {
+      "summary": "Migratory Locust, a large powerful grasshopper. Famous for 'phase polyphenism' — at high densities it changes colour and form to swarm.",
+      "habitat_hint": "Grassland on riverbanks, sandy ground, fallow fields, coastal grass, and field edges.",
+      "finding_tips": "A large grasshopper that takes long, noisy flights when flushed is likely this species. Green and brown forms both occur."
+    },
+    "zh": {
+      "summary": "飞蝗（东亚飞蝗），大型且飞翔有力。以『相变』著称，高密度时会成群迁飞。",
+      "habitat_hint": "河滩草地、沙地、休耕田、海岸草地、田边。",
+      "finding_tips": "受惊后能长距离飞行的大型蝗虫可能就是它。有绿色和褐色型。"
+    }
   }
 }
