@@ -71,9 +71,26 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 6. **Continue species_profile curation** — add another small batch (10–20 high-value insects/reptiles/plants) in `scripts/seed_species_profiles.py`. Workflow: edit `PROFILES_JA` + `PROFILES_EN_ZH`, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`. Current seed: 49 profiles × 4 langs.
 
-7. **Photo gap sample inspection** *(follow-up to shipped photo carousel)* — 230 iNat candidates still <5 photos; 552 visible species have no gallery rows. Before another blind retry, inspect samples to see whether they are genuinely sparse, non-iNat, or taxonomy-edge cases. Local DB: 32,402 `species_photo` rows, 6,369 species with ≥5.
+7. **Photo gallery quality + licensing** *(2026-05-16, shipped — see follow-up)*
+   - ✅ Diversity dedup (`87f5553`): `scripts/repopulate_species_photos.py` re-picks from cached iNat data with dedup keys `(user, observed-day)` and `(user, week, ~1 km grid)`. Stops bursts from the same observer at the same spot.
+   - ✅ Licensed-only: rows without a CC license (`license_code` ∈ {cc0, cc-by*, pd, pdm}) are dropped — past collection inserted some all-rights-reserved photos.
+   - ✅ Gallery target 5 → 6 photos (modest cost, more variety for ID).
+   - ✅ Wikimedia Commons hero (`scripts/wikicommons_hero.py`): Wikidata `wdt:P18` → Commons `imageinfo`; license check on `extmetadata.LicenseShortName`. Inserts with `source='Wikimedia Commons'` and `sort_order=-1` so it naturally becomes the card thumbnail / modal hero. Caches: `data/cache/wikidata_p18/`, `data/cache/commons/`.
+   - ✅ Schema: `species_photo.source_url` column added (migration via `ALTER TABLE`; `parklife/db.py` updated for fresh DBs).
+   - ✅ Demo: `sp.imgs` shape is now `[url, attribution, source_url][]`; modal overlays a credit caption (photographer · license · source ↗) under each photo.
+   - **Post-ship coverage**: 5,822 Commons hero rows + 34,979 iNat gallery rows; 7,768 visible species (78%) have at least one photo. Demo HTML 8.2 → 12.9 MB (attribution strings + extra photo URLs).
+   - **Follow-up**:
+     - Remaining ~2,150 visible species still have no photo at all (no iNat cache hits, no Commons P18). Worth periodically re-running `scripts.collect_species_photos` (broad fallback) as iNat acquires more.
+     - Some Commons `extmetadata.Artist` HTML is verbose; consider truncating to first author when "Multiple contributors" lists appear.
+     - Could add Flickr/GBIF media as a 3rd hero source for taxa with neither iNat nor Commons coverage.
 
 ## Recent sessions
+
+### 2026-05-16 (Claude) — TODO #7 photo quality + attribution
+- Added `scripts/repopulate_species_photos.py` — pure-local rebuild from cached iNat data with diversity dedup `(user, day)` / `(user, week, ~1km)`, CC-license filter, 5→6 target. 34,979 iNat rows for 6,229 species.
+- Added `scripts/wikicommons_hero.py` — Wikidata P18 + Commons imageinfo; 5,822 hero rows inserted (58.7% of visible species), 73 rejected by license filter. Caches under `data/cache/wikidata_p18/` and `data/cache/commons/`.
+- Schema: `species_photo.source_url` column (ALTER TABLE on live DB, `parklife/db.py` updated). Export shape `sp.imgs = [[url, attribution, source_url], ...]`; modal shows credit caption with photographer · license · source ↗ link.
+- Demo HTML 8.2 → 12.9 MB. Commit `87f5553`.
 
 ### 2026-05-16 (Claude) — TODO #5 freq-sort improvement
 - Changed `sortGroupItems` in `scripts/export_html.py` so the freq sort ranks by `pair.oc` (per-park observation count) descending, with `sp.n` (global) as tiebreaker. Updated labels in ja/en/zh/zhT to reflect the new meaning. Commit `a85c1ba`.
