@@ -6047,5 +6047,167 @@
       "habitat_hint": "林缘、河滩、家庭菜园、有荨麻科植物的地方。",
       "finding_tips": "秋季幼虫常群集出现并做夸张威慑动作。**无毒但视觉冲击大，怕虫者请留意。**"
     }
+  },
+  "Pittosporum tobira": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トベラ。光沢のある厚い葉を持つ常緑低木。初夏に芳香のある白い花を咲かせ、秋に橙色〜赤色の種子をのぞかせる果実をつけます。",
+      "habitat_hint": "海岸近くの植え込み、公園の生け垣、道路の植栽、神社の境内、社寺林。",
+      "finding_tips": "光沢のある厚い葉と、初夏の白い芳香花を探します。秋に裂開した果実から鮮やかな橙色〜赤色の粘着性のある種子が見えます。"
+    },
+    "en": {
+      "summary": "Japanese Pittosporum, an evergreen shrub with glossy thick leaves. Fragrant white flowers in early summer; autumn fruits split to reveal sticky orange-red seeds.",
+      "habitat_hint": "Coastal plantings, park hedges, roadside plantings, shrine grounds, and shrine groves.",
+      "finding_tips": "Look for an evergreen with glossy thick leaves and fragrant white flowers in early summer. Autumn capsules split to expose vivid sticky orange seeds."
+    },
+    "zh": {
+      "summary": "海桐，常绿灌木。叶厚有光泽，初夏开芳香白花，秋季蒴果裂开露出鲜橙红色具粘性的种子。",
+      "habitat_hint": "海岸植被、公园绿篱、道路绿化、神社境内、神社树林。",
+      "finding_tips": "找叶厚有光泽的常绿树，初夏白色芳香花。秋季果实开裂露出鲜橙红色粘性种子。"
+    }
+  },
+  "Akebia quinata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アケビ。5枚の小葉を持つつる性落葉植物。春に淡紫色の花、秋に紫色の果実が裂開して白い果肉を見せる独特の姿で知られます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、住宅地のフェンス、明るい斜面。",
+      "finding_tips": "5枚の小葉が掌状につくつるを探します。秋、紫色の長楕円形の実が縦に裂け、中の白い甘い果肉が露出するのが名前の由来です。"
+    },
+    "en": {
+      "summary": "Chocolate Vine, a deciduous climber with palmate leaves of five leaflets. Pale purple flowers in spring; in autumn purple sausage-shaped fruits split open to reveal sweet white pulp.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, residential fences, and bright slopes.",
+      "finding_tips": "Look for vines with palmately arranged five leaflets. Autumn fruits split lengthwise to expose sweet white flesh — the Japanese name 'akebi' refers to this 'opening' habit."
+    },
+    "zh": {
+      "summary": "木通（五叶木通），落叶藤本。掌状复叶具 5 小叶。春开淡紫花，秋季紫色长椭圆果纵向开裂露白色甜瓤为特征。",
+      "habitat_hint": "林缘、河滩灌丛、神社境内、住宅围栏、明亮斜坡。",
+      "finding_tips": "找掌状 5 小叶的藤蔓。秋季紫色果实纵向开裂露白甜瓤，日文俗名『开实』即由此而来。"
+    }
+  },
+  "Smilax china": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サルトリイバラ。鋭いトゲを持つつる性低木。秋に赤い実をつけ、葉は柏餅の包みに使われます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、明るい斜面、伐採跡地。",
+      "finding_tips": "茎に鋭い鉤状のトゲがあるつる性植物を探します。葉は楕円形で光沢があり、秋に光沢のある赤い玉状の実をつけます。**トゲに注意。**"
+    },
+    "en": {
+      "summary": "China Root, a thorny vine. Bright red berries in autumn; leaves are traditionally used to wrap kashiwa-mochi.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, bright slopes, and clearings.",
+      "finding_tips": "Look for a climber with sharp hooked thorns and glossy oval leaves. Shiny red berries in autumn. **Mind the thorns.**"
+    },
+    "zh": {
+      "summary": "菝葜，具锐刺的藤本灌木。秋季结亮红色球果，叶传统用于包柏饼。",
+      "habitat_hint": "林缘、河滩灌丛、神社境内、明亮斜坡、伐木迹地。",
+      "finding_tips": "找茎具锐钩刺、叶椭圆有光泽的藤本。秋季亮红球果。**注意刺。**"
+    }
+  },
+  "Rubus hirsutus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサイチゴ。低い茂みを作る木イチゴ類で、春に白い5弁花、初夏に赤い甘い実をつけます。トゲは細く、他のキイチゴほど痛くありません。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、明るい斜面、伐採跡地、神社の境内。",
+      "finding_tips": "4〜5月の白い花と、5〜6月の赤い大きめの集合果を探します。実は甘く食用にもなりますが、味は個体により異なります。"
+    },
+    "en": {
+      "summary": "A low-growing native bramble with white five-petalled flowers in spring and sweet red aggregate fruit in early summer. Thorns are slender and less painful than other Rubus.",
+      "habitat_hint": "Woodland edges, riverbank thickets, bright slopes, clearings, and shrine grounds.",
+      "finding_tips": "Watch for white flowers in April-May, large red berries in May-June. Berries are edible and can be sweet, though flavour varies."
+    },
+    "zh": {
+      "summary": "蓬蘽（粗毛悬钩子），低矮悬钩子。春开白色五瓣花，初夏结红色聚合果，可食。茎具细刺，比其他悬钩子温和。",
+      "habitat_hint": "林缘、河滩灌丛、明亮斜坡、伐木迹地、神社境内。",
+      "finding_tips": "四至五月观察白花，五至六月找红色较大聚合果。可食甜度因个体而异。"
+    }
+  },
+  "Vinca major": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルニチニチソウ。地中海原産の外来種で、つる性の常緑多年草。春〜初夏に大きな青紫色の風車形の花を咲かせます。",
+      "habitat_hint": "庭、公園の植え込み、道路の法面、住宅地、自然化した林縁。",
+      "finding_tips": "光沢のある楕円形の葉と、青紫色の風車のような5弁花を地面を這うつるで探します。グランドカバーとして広く植栽されています。"
+    },
+    "en": {
+      "summary": "Greater Periwinkle, a Mediterranean evergreen vine introduced to Japan. Large violet pinwheel flowers from spring through early summer.",
+      "habitat_hint": "Gardens, park plantings, road embankments, residential areas, and naturalised woodland edges.",
+      "finding_tips": "Look for a trailing evergreen with glossy oval leaves and violet pinwheel flowers. Widely planted as a ground cover."
+    },
+    "zh": {
+      "summary": "蔓长春花，地中海原产外来常绿藤本。春至初夏开紫蓝色风车形大花。",
+      "habitat_hint": "庭园、公园植被、道路斜坡、住宅区、归化的林缘。",
+      "finding_tips": "找叶椭圆有光泽、地面匍匐藤蔓加紫蓝风车形花的植物。广泛作覆地栽培。"
+    }
+  },
+  "Nuttallanthus canadensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マツバウンラン。北米原産の外来種で、細長い線形の葉と、すらりと伸びた茎の先に小さな青紫色の花が並びます。河川敷で群生します。",
+      "habitat_hint": "河川敷、空き地、農地の縁、芝生、道端の明るい場所。",
+      "finding_tips": "4〜6月、線形の細い葉と、地面から細く立ち上がる茎の先に青紫色の小花が連なる植物を探します。風になびく姿が美しいです。"
+    },
+    "en": {
+      "summary": "Blue Toadflax, a North-American introduced annual. Narrow needle-like leaves; slender stems carry small violet snapdragon-like flowers along the top. Forms colonies on riverbanks.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, lawns, and bright roadsides.",
+      "finding_tips": "From April to June look for thin upright stems with rows of small violet flowers and narrow leaves. Colonies sway attractively in the wind."
+    },
+    "zh": {
+      "summary": "加拿大柳穿鱼，北美外来一年生植物。叶细线形，细茎顶端排列紫蓝色金鱼草状小花。河滩成片。",
+      "habitat_hint": "河滩、空地、田边、草坪、路边明亮处。",
+      "finding_tips": "四至六月找叶细线形、细茎顶端排列紫蓝色小花的植物。风中摆动颇美。"
+    }
+  },
+  "Asplenium incisum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トラノオシダ。石垣や林床に生える小型のチャセンシダ類のシダ。細長く先細りの葉が独特で、トラの尾に見立てられました。",
+      "habitat_hint": "石垣、岩壁、雑木林の林床、神社の境内の石組み、半日陰の斜面。",
+      "finding_tips": "石垣や岩の隙間から細長く先細りする葉が垂れ下がるシダを探します。葉裏に細長い胞子嚢群が並びます。"
+    },
+    "en": {
+      "summary": "Tiger-tail Spleenwort, a small Asplenium fern. Long tapering fronds inspired the Japanese name 'tora-no-o' (tiger's tail).",
+      "habitat_hint": "Stone walls, rocky faces, forest understory, shrine masonry, and shaded slopes.",
+      "finding_tips": "Watch stone walls and rocky crevices for ferns with long narrow tapering fronds drooping over the surface."
+    },
+    "zh": {
+      "summary": "虎尾铁角蕨，小型铁角蕨。叶细长渐尖，似虎尾，日文俗名由此。常生于石墙林床。",
+      "habitat_hint": "石墙、岩壁、林床、神社石砌、半阴斜坡。",
+      "finding_tips": "在石墙或岩缝寻找细长渐尖叶下垂的蕨。叶背孢子囊群细长。"
+    }
+  },
+  "Phalera flavescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モンクロシャチホコ。サクラを食害する大型の蛾の幼虫として有名。集団でサクラの葉を食べ尽くすことがあります。",
+      "habitat_hint": "サクラの並木、神社のサクラ、街路樹、雑木林のサクラ類。",
+      "finding_tips": "夏〜秋、サクラの葉を食害している黒+白の体色の毛虫の集団を探します。木の根元に黒い糞が大量に落ちているのも見つけ方の手がかりです。"
+    },
+    "en": {
+      "summary": "A large prominent moth (Notodontidae) whose caterpillars famously strip cherry leaves in dense colonies.",
+      "habitat_hint": "Cherry-tree avenues, shrine cherries, street trees, and cherry species in mixed woodland.",
+      "finding_tips": "From summer to autumn look on cherry trees for clusters of black-and-white caterpillars. Heavy droppings under the tree are often the first sign."
+    },
+    "zh": {
+      "summary": "黑斑舟蛾，大型舟蛾。幼虫集群取食樱花叶，可将整株叶吃光。",
+      "habitat_hint": "樱花行道、神社樱花、行道树、杂木林樱花。",
+      "finding_tips": "夏秋在樱树上观察黑白体色的毛虫群集。树下大量粪便堆积是常见线索。"
+    }
+  },
+  "Propylea japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメカメノコテントウ。黄色〜橙色に細かい黒い模様の小型テントウムシ。アブラムシ捕食性で、農地・家庭菜園で見られます。",
+      "habitat_hint": "農地、家庭菜園、河川敷、雑草地、アブラムシの付く植物。",
+      "finding_tips": "葉のアブラムシ集団の周辺で、小型の黄〜橙色テントウムシを探します。模様の変化が大きいので個体差も楽しめます。"
+    },
+    "en": {
+      "summary": "Asian Lady Beetle (Propylea japonica), a small yellow-to-orange ladybird with fine black markings. A common aphid predator.",
+      "habitat_hint": "Farmland, kitchen gardens, riverbanks, weedy ground, and aphid-bearing plants.",
+      "finding_tips": "Search around aphid colonies on leaves for small yellow-to-orange ladybirds. Patterns vary notably between individuals."
+    },
+    "zh": {
+      "summary": "龟纹瓢虫，小型黄至橙色配细黑纹的瓢虫。是常见捕食蚜虫的瓢虫。",
+      "habitat_hint": "农田、家庭菜园、河滩、杂草丛、有蚜虫的植物。",
+      "finding_tips": "在叶面蚜虫群附近找小型黄至橙色瓢虫。斑型个体差异大。"
+    }
   }
 }
