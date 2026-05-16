@@ -1817,5 +1817,329 @@
       "habitat_hint": "水田、湿地、池塘边、芦苇丛、有积水的草地。",
       "finding_tips": "五至八月夜晚顺着稻田传来的细长鸣声找水边草丛。蛙本身只有 2–3 cm。"
     }
+  },
+  "Motacilla alba lugens": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハクセキレイの東アジア亜種。顔が白く、目の周りに黒い線が走るのが特徴で、ホオジロハクセキレイと呼ばれることもあります。",
+      "habitat_hint": "舗装路、芝生、池や川の縁、駐車場の周辺、河口。",
+      "finding_tips": "白い顔+目を通る黒い線で典型的なハクセキレイと区別。地上を歩きながら尾を上下に振ります。"
+    },
+    "en": {
+      "summary": "An East Asian subspecies of the White Wagtail. Diagnostic white face crossed by a black eye-line.",
+      "habitat_hint": "Paved paths, lawns, pond and stream edges, parking-lot edges, and estuaries.",
+      "finding_tips": "Distinguish from typical White Wagtail by the white face with a clear black line through the eye. Trots on the ground with the usual tail-bob."
+    },
+    "zh": {
+      "summary": "白鹡鸰东亚亚种。脸白配穿过眼睛的黑色眼线为辨识特征。",
+      "habitat_hint": "铺装路、草坪、池塘和河流边、停车场附近、河口。",
+      "finding_tips": "和典型白鹡鸰相比，脸白且有清晰穿眼黑线。地面行走时仍持续摆尾。"
+    }
+  },
+  "Anas poecilorhyncha": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "都市公園の池でもっとも普通に見られる留鳥のカモ。黒っぽいくちばしの先端が黄色いのが目印です。",
+      "habitat_hint": "池、川、河口、湿地、公園の水辺。",
+      "finding_tips": "黒褐色の体に黄色いくちばしの先端を探します。雌雄ほぼ同色で、家族で並んで歩く姿もよく見られます。"
+    },
+    "en": {
+      "summary": "The Eastern Spot-billed Duck, a resident duck on virtually every urban park pond. The yellow tip on a dark bill is the field mark.",
+      "habitat_hint": "Ponds, rivers, estuaries, wetlands, and any park waterside.",
+      "finding_tips": "Dark brown body with a bright yellow bill tip. Sexes look almost the same, and family groups often walk in line near the water."
+    },
+    "zh": {
+      "summary": "城市公园池塘最常见的留鸟鸭。黑色喙端的明亮黄色为识别要点。",
+      "habitat_hint": "池塘、河流、河口、湿地、公园水边。",
+      "finding_tips": "通体深褐配亮黄色喙端。雌雄相似，常见全家排成一队走在水边。"
+    }
+  },
+  "Curetis acuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "翅の裏が銀白色、翅表が雄では橙色のシジミチョウ。クズなどマメ科を食草とし、季節によって発生量が変動します。",
+      "habitat_hint": "クズの繁る河川敷、林縁、明るい草地、街中の空き地。",
+      "finding_tips": "翅を閉じると裏が銀白色で目立ちます。雄が日光浴で翅を開くと鮮やかな橙色が見えます。"
+    },
+    "en": {
+      "summary": "The Angled Sunbeam, a lycaenid with silvery-white underwings and orange uppersides in males. Larvae feed on kudzu.",
+      "habitat_hint": "Kudzu-rich riverbanks, woodland edges, bright meadows, and urban vacant lots.",
+      "finding_tips": "When closed the silvery underside stands out. Watch perched males open their wings to flash bright orange."
+    },
+    "zh": {
+      "summary": "银白色翅反面的灰蝶，雄虫翅面橙色。幼虫食葛藤。",
+      "habitat_hint": "葛藤茂盛的河滩、林缘、明亮草地、市内空地。",
+      "finding_tips": "闭翅时银白色反面醒目。雄虫晒太阳张翅可见鲜橙色翅面。"
+    }
+  },
+  "Mareca falcata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "雄の頭は緑光沢の暗赤、長く湾曲した三列風切が垂れ下がる独特の姿のカモ。冬鳥として日本に渡来します。",
+      "habitat_hint": "大きな池、河川、河口、湖、ダム湖。",
+      "finding_tips": "頭の暗赤緑+体側に垂れるカーブした飾り羽。他の中型カモと並べると姿が独特ですぐわかります。"
+    },
+    "en": {
+      "summary": "The Falcated Duck, a winter visitor. Males have a dark green-and-chestnut head and long sickle-shaped tertials that drape over the flank.",
+      "habitat_hint": "Large ponds, rivers, estuaries, lakes, and reservoirs.",
+      "finding_tips": "Look for the male's dark iridescent head and the unique drooping tertials. Easily picked out from other medium dabbling ducks."
+    },
+    "zh": {
+      "summary": "罗纹鸭，冬季渡来。雄鸟头部暗绿带暗红，胁部覆盖长且镰刀状下垂的三级飞羽，造型独特。",
+      "habitat_hint": "大池塘、河流、河口、湖泊、水库。",
+      "finding_tips": "雄鸟暗绿头加镰刀状下垂飞羽十分特别，在中型鸭群中一眼可辨。"
+    }
+  },
+  "Trypoxylus dichotomus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "日本人にもっとも親しまれている甲虫の一つ、カブトムシ。雄は二又に分かれた長い角を持ち、樹液場で他の昆虫と争います。",
+      "habitat_hint": "雑木林、クヌギ・コナラの樹液場、夜の街灯、堆肥のある場所。",
+      "finding_tips": "夏の夜、樹液の出るクヌギで他の甲虫と一緒に観察できます。日中は朽ち木の中や根元の落ち葉の下にいます。"
+    },
+    "en": {
+      "summary": "The Japanese Rhinoceros Beetle, one of the most beloved insects in Japan. Males have a long forked horn and fight at sap flows.",
+      "habitat_hint": "Mixed woodland, sap on oaks, streetlights at night, and around compost.",
+      "finding_tips": "On summer nights, find them at sap-running oaks. By day they hide in rotting wood or leaf litter at the base of trees."
+    },
+    "zh": {
+      "summary": "日本独角仙，最受喜爱的甲虫之一。雄虫具长而分叉的角，在树液场与其他昆虫争斗。",
+      "habitat_hint": "杂木林、麻栎树液处、夜间路灯、堆肥附近。",
+      "finding_tips": "夏夜在流胶的麻栎可看到与其他甲虫一起。白天藏在朽木或树根落叶下。"
+    }
+  },
+  "Halyomorpha halys": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "茶褐色の盾型の大型カメムシ。秋になると家屋の壁や窓に集まり、室内に入り込んで悪臭を放つことで知られます。",
+      "habitat_hint": "農地、庭、雑木林、家屋の壁、夜の街灯。",
+      "finding_tips": "茶褐色の中型カメムシで触角に白い節があります。秋〜冬は越冬場所として人家の壁や窓に集まります。"
+    },
+    "en": {
+      "summary": "The Brown Marmorated Stink Bug, a large shield bug. Famous for invading houses in autumn to overwinter and releasing a foul odour when disturbed.",
+      "habitat_hint": "Farmland, gardens, mixed woodland, house walls, and around streetlights at night.",
+      "finding_tips": "Brown shield-shaped bug with white bands on the antennae. In autumn and winter it aggregates on house walls and windows."
+    },
+    "zh": {
+      "summary": "棕色盾形大型蝽。秋季会聚集在房屋墙窗准备越冬，受惊会放出恶臭。",
+      "habitat_hint": "农田、庭院、杂木林、房屋外墙、夜间路灯。",
+      "finding_tips": "中型棕色蝽，触角有白色环节。秋冬会大量集结在房屋墙面与窗户处。"
+    }
+  },
+  "Causonis japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブガラシ。生命力が非常に強いつる植物で、他の植物の上に覆いかぶさるように繁茂します。和名は「藪を枯らす」の意。",
+      "habitat_hint": "雑木林の林縁、河川敷、空き地、住宅地のフェンス、農地の縁。",
+      "finding_tips": "5枚の小葉を持つ掌状の葉と、橙色の小花が独特の散房花序を作ります。庭や植え込みに絡みつくつるは本種の可能性大。"
+    },
+    "en": {
+      "summary": "Bushkiller, a vigorous vine that smothers other plants — its Japanese name literally means 'thicket-killer'.",
+      "habitat_hint": "Woodland edges, riverbanks, vacant lots, fences in residential areas, and field margins.",
+      "finding_tips": "Palmate leaves of five leaflets and unusual orange disc-shaped flower clusters. Any vine smothering a garden hedge is a likely candidate."
+    },
+    "zh": {
+      "summary": "乌蔹莓，生命力极强的藤蔓植物，常覆压其他植物。日文俗名意为『枯丛之草』。",
+      "habitat_hint": "林缘、河滩、空地、住宅区围栏、田边。",
+      "finding_tips": "掌状五小叶加橙色散房花序为辨识特征。庭院围栏上缠绕的藤蔓多为本种。"
+    }
+  },
+  "Erigeron philadelphicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "外来種のキク科。ハルジオンと呼ばれ、春に淡いピンク〜白の頭花を多数つけます。茎が中空で、ヒメジョオンより早く咲きます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、芝生の縁、道端、明るい斜面。",
+      "finding_tips": "4〜6月、薄ピンクの細い花弁を多数持つ頭花を地面〜腰の高さで探します。蕾が垂れるのも目印。"
+    },
+    "en": {
+      "summary": "Philadelphia Fleabane, an introduced daisy. Pale pink-to-white daisy-like heads in spring. Stem is hollow, and it flowers earlier than the related Annual Fleabane.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, lawn edges, roadsides, and bright slopes.",
+      "finding_tips": "From April to June, look at knee height for daisies with many thin pink-ish ray florets. Drooping buds before opening are another clue."
+    },
+    "zh": {
+      "summary": "外来菊科植物，春季开浅粉至白色多舌状花的头状花序。茎中空，花期比近缘的小蓬草早。",
+      "habitat_hint": "河滩、空地、田边、草坪边、路边、明亮斜坡。",
+      "finding_tips": "四至六月在膝盖高度找带许多细瓣的浅粉色头花。未开花蕾下垂也是线索。"
+    }
+  },
+  "Psittacula krameri": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "鮮やかな緑のインコ。脱走したペットが繁殖し、東京の社寺林や大公園で群れて見られるようになっています。",
+      "habitat_hint": "大きな樹木のある公園、社寺林、ねぐらの大木、街路樹のある住宅地。",
+      "finding_tips": "夕方、ねぐらの大木に大群で集まる姿が圧巻。鮮やかな緑と長い尾、甲高い「ギャー」という声で気づきます。"
+    },
+    "en": {
+      "summary": "The Rose-ringed Parakeet, a bright green parrot. Escaped pets have established breeding populations, and large roost flocks now occur in Tokyo shrine groves and parks.",
+      "habitat_hint": "Parks with mature trees, shrine groves, large roost trees, and residential streets with avenue trees.",
+      "finding_tips": "At dusk, watch a major roost — flocks pouring into one tree can be spectacular. The vivid green colour, long tail, and harsh screech give it away."
+    },
+    "zh": {
+      "summary": "亮绿色的红领绿鹦鹉。逃逸宠物已形成繁殖种群，东京的神社树林和大公园常见成群。",
+      "habitat_hint": "有大树的公园、神社树林、夜栖大树、有行道树的住宅区。",
+      "finding_tips": "黄昏在夜栖大树观察大群涌入的景象。亮绿色配长尾和尖锐叫声是辨识标志。"
+    }
+  },
+  "Pueraria montana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クズ。日本の代表的なつる植物で、河川敷や荒れ地を一気に覆い尽くす旺盛さで知られます。秋に赤紫色の蝶形花を咲かせ、根からは葛粉が取れます。",
+      "habitat_hint": "河川敷、空き地、雑木林の縁、土手、放棄された農地、明るい斜面。",
+      "finding_tips": "大きな三出複葉と巻きひげのつるを探します。8〜10月に紫の花穂が立ち、秋に莢実をつけます。"
+    },
+    "en": {
+      "summary": "Kudzu, the iconic vigorous vine of Japan. Smothers riverbanks and waste ground; produces purple pea-flowers in autumn. The root yields traditional kudzu starch.",
+      "habitat_hint": "Riverbanks, vacant lots, woodland edges, levees, abandoned farmland, and bright slopes.",
+      "finding_tips": "Large trifoliate leaves and twining tendrils are the signature. Purple flower spikes from August to October, with bean-like pods through autumn."
+    },
+    "zh": {
+      "summary": "葛藤，日本最有代表性的强势藤本。常迅速覆盖河滩和荒地，秋季开紫红色蝶形花穗，根可制葛粉。",
+      "habitat_hint": "河滩、空地、林缘、堤岸、撂荒农地、向阳斜坡。",
+      "finding_tips": "找大型三出复叶与卷须状藤蔓。八至十月开紫色花穗，秋季结豆荚。"
+    }
+  },
+  "Vespa analis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "中型のスズメバチ、コガタスズメバチ。腹部の先端が黒っぽいのが特徴で、公園の生け垣や軒先に丸い巣を作ります。",
+      "habitat_hint": "雑木林の林縁、生け垣、軒先、植え込みの中、樹上の枝。",
+      "finding_tips": "**安全距離を保ってください。** 腹部の先端が黒く、他のスズメバチより小型。生け垣の中に「とっくり」型の小さな巣を作る初期段階で見つかることがあります。"
+    },
+    "en": {
+      "summary": "A medium-sized hornet (Japanese Hornet, V. analis). Has a black-tipped abdomen and builds round nests in hedges and under eaves.",
+      "habitat_hint": "Woodland edges, hedges, eaves, planted borders, and tree branches.",
+      "finding_tips": "**Keep a safe distance.** Smaller than the giant hornet, with a black-tipped abdomen. Early-stage 'flask-shaped' nests in hedges sometimes give the species away."
+    },
+    "zh": {
+      "summary": "中型胡蜂（黄腰胡蜂）。腹部末端黑色，会在树篱和屋檐下筑圆形蜂巢。",
+      "habitat_hint": "林缘、绿篱、屋檐、绿化带内、树枝。",
+      "finding_tips": "**保持安全距离。** 比大胡蜂小，腹部末端黑色。早期『酒壶形』巢有时见于树篱内可作辨识。"
+    }
+  },
+  "Equisetum arvense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スギナ。春に胞子嚢穂のツクシを出し、その後に針状の葉を持つ栄養茎が伸びます。湿った荒れ地に広がる古い系統の植物です。",
+      "habitat_hint": "河川敷、農地の縁、空き地、湿った荒れ地、舗装の隙間。",
+      "finding_tips": "3〜4月に「ツクシ」を地面で探します。その後の細い針状の葉を持つ茎は夏まで残ります。"
+    },
+    "en": {
+      "summary": "Field Horsetail. In spring it sends up brown spore-bearing 'matchstick' shoots (tsukushi), followed by green sterile stems with whorls of needle-like branches.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, damp waste ground, and pavement cracks.",
+      "finding_tips": "In March and April look for the brown spore stalks at ground level. The green needle-leaved stems remain into summer."
+    },
+    "zh": {
+      "summary": "问荆。早春先出褐色孢子穗（即『土筆』），随后长出针叶轮生的绿色营养茎。是古老的植物类群。",
+      "habitat_hint": "河滩、田边、空地、潮湿荒地、铺装缝隙。",
+      "finding_tips": "三至四月在地面找褐色孢子穗。绿色针状叶茎可持续至夏季。"
+    }
+  },
+  "Egretta intermedia": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コサギとダイサギの中間サイズの白いサギ。くちばしは短めで、繁殖期は基部が黒く先が黄色になります。",
+      "habitat_hint": "水田、湿地、河川、池、河口、湿った草地。",
+      "finding_tips": "コサギより明らかに大きく、ダイサギより小さい白いサギ。くちばしの短さと、くちばしの基部の色変化を確認してください。"
+    },
+    "en": {
+      "summary": "The Intermediate Egret, in size between Little and Great Egret. Bill is relatively short; in breeding season it shows a black base and yellow tip.",
+      "habitat_hint": "Rice paddies, wetlands, rivers, ponds, estuaries, and damp meadows.",
+      "finding_tips": "Clearly bigger than Little Egret but smaller than Great Egret. Use bill length and seasonal bill colour to confirm."
+    },
+    "zh": {
+      "summary": "中白鹭，体型介于白鹭和大白鹭之间。喙较短，繁殖期喙基黑而尖黄。",
+      "habitat_hint": "稻田、湿地、河流、池塘、河口、潮湿草地。",
+      "finding_tips": "明显大于白鹭、小于大白鹭。喙长短与季节性喙色变化可作确认。"
+    }
+  },
+  "Pseudotorynorrhina japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カナブン。緑〜赤銅色の金属光沢を持つコガネムシで、樹液場でカブトムシやクワガタと並んでよく見られます。",
+      "habitat_hint": "雑木林の樹液場、クヌギ・コナラ、夏の街灯。",
+      "finding_tips": "頭の角がない金属光沢のコガネムシを樹液で探します。同じく緑のシロテンハナムグリと混同しやすいですが、本種は白斑がなく、角張った体型です。"
+    },
+    "en": {
+      "summary": "A scarab with green to coppery metallic shine. Common at sap flows alongside the rhinoceros and stag beetles.",
+      "habitat_hint": "Oak sap flows, mixed woodland, and around streetlights in summer.",
+      "finding_tips": "Look for a hornless metallic scarab at sap. Often confused with the speckled flower chafer — but this species has no white spots and a more angular outline."
+    },
+    "zh": {
+      "summary": "金龟一种，鞘翅金属绿至铜色。常与独角仙、锹甲同处于树液场。",
+      "habitat_hint": "杂木林树液处、麻栎枹栎、夏季路灯。",
+      "finding_tips": "在树液处找无角的金属光泽金龟。和白星花潜易混，本种无白斑、轮廓更方。"
+    }
+  },
+  "Episyrphus balteatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハチに擬態した小型のハナアブ、ホソヒラタアブ。腹部に黒とオレンジの細い帯があり、花の上で空中静止します。",
+      "habitat_hint": "花壇、雑草の花、農地の縁、河川敷、公園の植え込み。",
+      "finding_tips": "花の前で空中静止するハチに似た虫を探します。羽が透明で2枚（4枚に見える本物のハチと違う）、目が大きく丸いのが特徴です。"
+    },
+    "en": {
+      "summary": "The Marmalade Hoverfly, a small hover fly that mimics wasps. Black-and-orange thin bands on the abdomen; hovers motionlessly at flowers.",
+      "habitat_hint": "Flower beds, weedy flowers, field edges, riverbanks, and park borders.",
+      "finding_tips": "Look for a wasp-like insect hovering at a flower. The two transparent wings (vs four in real wasps) and large round eyes confirm it as a fly."
+    },
+    "zh": {
+      "summary": "细带食蚜蝇，模拟蜂的小型食蚜蝇。腹部具细黑橙横带，常在花前悬停。",
+      "habitat_hint": "花坛、杂草花、田边、河滩、公园植被。",
+      "finding_tips": "在花前找悬停的『像蜂』昆虫。两片透明翅膀（真蜂为四片）加圆大复眼可确认它是蝇类。"
+    }
+  },
+  "Setaria viridis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エノコログサ。日本中で最も普通の野草の一つで、犬の尻尾のような形の花穂を持ちます。和名は「犬っころ草」が由来。",
+      "habitat_hint": "道端、河川敷、芝生の縁、農地、空き地、舗装の隙間。",
+      "finding_tips": "ふさふさした緑色の花穂を探します。スズメノカタビラなど他のイネ科とは穂の形と長い剛毛で区別できます。"
+    },
+    "en": {
+      "summary": "Green Foxtail, one of the most ubiquitous wild grasses of Japan. The fluffy bristly spike resembles a small dog's tail — the source of the Japanese name.",
+      "habitat_hint": "Roadsides, riverbanks, lawn edges, farmland, vacant lots, and pavement cracks.",
+      "finding_tips": "Look for a green bottle-brush spike with long bristles. The distinctive 'tail' shape and bristles separate it from most other grass weeds."
+    },
+    "zh": {
+      "summary": "狗尾草，日本最常见的野草之一。花穗如小狗尾巴而得名。",
+      "habitat_hint": "路边、河滩、草坪边、农田、空地、铺装缝隙。",
+      "finding_tips": "找蓬松带长芒的绿色穗。其『狗尾』形状与长芒可与其他禾本科区分。"
+    }
+  },
+  "Paederia foetida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヘクソカズラ。葉や茎を傷つけると独特の匂いを放つことが名前の由来。夏に小さな白い花を咲かせ、つる性で他の植物を覆います。",
+      "habitat_hint": "河川敷、雑木林の林縁、住宅地のフェンス、生け垣、空き地。",
+      "finding_tips": "夏の花壇やフェンスに小さな白い花（中央が紅紫）が並んでいるつるを探します。葉をちぎるとはっきりした臭いがあれば本種です。"
+    },
+    "en": {
+      "summary": "Skunk Vine, named for the smell released when stems or leaves are crushed. Small white-and-purple flowers in summer; the vine drapes over fences and shrubs.",
+      "habitat_hint": "Riverbanks, woodland edges, fences in residential areas, hedges, and vacant lots.",
+      "finding_tips": "Watch for a vine with paired leaves and small bicoloured flowers along fences. Crushing a leaf reveals the unmistakable foul odour."
+    },
+    "zh": {
+      "summary": "鸡矢藤，叶茎被压碎会发出特殊气味，因此得名。夏季开白底紫心小花，藤蔓覆盖其他植物。",
+      "habitat_hint": "河滩、林缘、住宅围栏、绿篱、空地。",
+      "finding_tips": "夏季在围栏旁找开白色配紫红心小花的藤。揉碎叶片有明显恶臭即是。"
+    }
+  },
+  "Iris japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シャガ。常緑のアヤメ類で、春に白〜淡紫の花を咲かせます。半日陰の林床に大群落を作ります。",
+      "habitat_hint": "雑木林の林床、神社の参道脇、湿った斜面、谷沿いの林。",
+      "finding_tips": "4〜5月、淡紫の縞模様+黄色い斑紋が美しい花を林床で探します。光沢のある剣状の葉も特徴的です。"
+    },
+    "en": {
+      "summary": "Fringed Iris, an evergreen iris of forest floors. Pale lilac-and-white flowers with yellow crests appear in spring, often in extensive colonies.",
+      "habitat_hint": "Forest understory, shrine paths, damp slopes, and valley woods.",
+      "finding_tips": "From April to May, look on shady forest floors for delicate lilac flowers with bright yellow crests. Glossy sword-shaped leaves are a year-round clue."
+    },
+    "zh": {
+      "summary": "蝴蝶花，常绿鸢尾类。春季开淡紫白色配黄斑的花，半阴林下常成片群落。",
+      "habitat_hint": "杂木林林床、神社参道旁、潮湿斜坡、谷地林。",
+      "finding_tips": "四至五月在阴林下寻找淡紫色带黄斑的花。光泽剑形叶全年可识。"
+    }
   }
 }
