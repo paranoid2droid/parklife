@@ -5885,5 +5885,167 @@
       "habitat_hint": "立枯阔叶树、倒木、神社古树、杂木林衰败木。",
       "finding_tips": "在立枯树干上寻找层叠生长的黄褐至铜褐色硬菌，可存留多年。"
     }
+  },
+  "Mergellus albellus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミコアイサ。雄が白い体に黒い模様の独特な姿の冬鳥カモ。「パンダガモ」の愛称で人気があります。",
+      "habitat_hint": "大きな池、湖、ダム湖、河口の静かな水域。",
+      "finding_tips": "白いカモに黒い模様が散らばる姿（雄）を探します。雌は頭が赤褐色で全体に灰色。バードウォッチャーに大人気の冬の珍客です。"
+    },
+    "en": {
+      "summary": "Smew, a striking wintering duck. Males are mostly white with black markings — earning the nickname 'panda duck' in Japan.",
+      "habitat_hint": "Large ponds, lakes, reservoirs, and calm estuarine waters.",
+      "finding_tips": "Look for a white duck with bold black scribbles (male) — unmistakable. Females are mostly grey with a chestnut head."
+    },
+    "zh": {
+      "summary": "白秋沙鸭，冬季渡来。雄鸟通体白色配黑色斑纹，因外形被称为『熊猫鸭』。",
+      "habitat_hint": "大池塘、湖泊、水库、平静河口。",
+      "finding_tips": "找通体白色带黑色花纹的鸭（雄）。雌鸟灰色配栗红色头。"
+    }
+  },
+  "Ornebius kanetataki": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カネタタキ。「チンチン」と金属を叩くような独特の鳴き声で名前の通り。秋に住宅地や生け垣で鳴く小型のコオロギの仲間です。",
+      "habitat_hint": "住宅地の生け垣、雑木林の林縁、家屋の周辺、植え込み、神社の境内。",
+      "finding_tips": "9〜11月の夜、「チン、チン、チン」と金属音のような鳴き声を頼りに探します。声に対して虫はとても小さく、樹皮や葉の隙間にいます。"
+    },
+    "en": {
+      "summary": "Bell Cricket. Named for its 'chin-chin' metallic call, like a small bell being struck. Common in autumn in residential hedges.",
+      "habitat_hint": "Residential hedges, woodland edges, around houses, plantings, and shrine grounds.",
+      "finding_tips": "From September to November at night, follow the metallic 'chin-chin' call. The cricket itself is tiny and lurks in bark crevices and leaves."
+    },
+    "zh": {
+      "summary": "钟蟋蟀（钟打）。鸣声为清脆金属感的『叮-叮』，似敲钟，因此得名。秋季住宅区绿篱常听到。",
+      "habitat_hint": "住宅区绿篱、林缘、住宅周边、绿化、神社境内。",
+      "finding_tips": "九至十一月夜里循『叮叮』声寻找。虫本身极小，藏于树皮或叶缝。"
+    }
+  },
+  "Astur gentilis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオタカ。大型のタカで、近年は東京の都市公園でも繁殖が確認されています。鳥類保護の象徴的な種です。",
+      "habitat_hint": "雑木林、社寺林、河川敷の大きな樹林、都市公園の高木、ゴルフ場の樹林。",
+      "finding_tips": "灰青色の背中に細かい縞模様の腹、大型で力強い飛翔。住宅地の公園でも見られるようになり、近年は親しみやすい猛禽です。"
+    },
+    "en": {
+      "summary": "Northern Goshawk, a large powerful hawk that now breeds even in Tokyo urban parks. A flagship species in Japanese conservation.",
+      "habitat_hint": "Mixed woodland, shrine groves, large riverside woods, urban park canopies, and golf-course woods.",
+      "finding_tips": "Look for a large grey-backed raptor with finely barred underparts and strong direct flight. Now seen even in city parks — increasingly visible."
+    },
+    "zh": {
+      "summary": "苍鹰。大型猛禽，近年东京城市公园也有繁殖。是日本鸟类保护的象征性物种。",
+      "habitat_hint": "杂木林、神社树林、河岸大林、城市公园高树、高尔夫球场树林。",
+      "finding_tips": "找灰背、腹具细横纹的大型猛禽，飞行有力直线。住宅区公园也可见，越来越易亲近观察。"
+    }
+  },
+  "Ardea intermedia": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チュウサギ（学名異記）。コサギとダイサギの中間サイズの白いサギ。くちばしは短めで、夏羽では背中に飾り羽が出ます。",
+      "habitat_hint": "水田、湿地、河川、池、河口、湿った草地。",
+      "finding_tips": "コサギより明らかに大きく、ダイサギより小さい白いサギ。くちばしの基部の黒さ（季節変化）も識別に有用です。"
+    },
+    "en": {
+      "summary": "Intermediate Egret (alternate genus). Size between Little and Great Egret. Bill comparatively short; back plumes develop in breeding season.",
+      "habitat_hint": "Rice paddies, wetlands, rivers, ponds, estuaries, and damp meadows.",
+      "finding_tips": "Bigger than Little Egret, smaller than Great Egret. Bill base colour also changes with season."
+    },
+    "zh": {
+      "summary": "中白鹭（属名异写）。体型介于白鹭和大白鹭之间。喙较短，繁殖期背部生饰羽。",
+      "habitat_hint": "稻田、湿地、河流、池塘、河口、潮湿草地。",
+      "finding_tips": "明显大于白鹭、小于大白鹭。喙基颜色亦随季节变化。"
+    }
+  },
+  "Callicarpa japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキシキブ。秋に小さな鮮やかな紫色の実を多数つける落葉低木。源氏物語の作者「紫式部」にちなんで名付けられました。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の境内、半日陰の庭、河川敷の樹林。",
+      "finding_tips": "10〜11月、葉の付け根に直径3mmほどの紫色の小さな実が房状についている低木を探します。鳥もよく食べに来ます。"
+    },
+    "en": {
+      "summary": "Japanese Beautyberry, a deciduous shrub with clusters of vivid purple berries in autumn. Named in honour of the Heian writer Murasaki Shikibu.",
+      "habitat_hint": "Woodland edges, valley woods, shrine grounds, half-shaded gardens, and riverside woods.",
+      "finding_tips": "From October to November look for shrubs with clusters of tiny vivid-purple berries at the leaf bases. Birds visit them readily."
+    },
+    "zh": {
+      "summary": "日本紫珠，落叶灌木。秋季叶腋簇生鲜紫色小果实。日文俗名取自《源氏物语》作者紫式部之名。",
+      "habitat_hint": "林缘、谷地林、神社境内、半阴庭园、河岸林。",
+      "finding_tips": "十至十一月寻找叶腋簇生紫色小果（直径约 3 mm）的灌木。鸟亦喜食。"
+    }
+  },
+  "Oxalis pes-caprae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオキバナカタバミ。地中海原産の外来種のカタバミで、明るい黄色の大きな花を冬〜春に咲かせます。葉は他のカタバミより大型です。",
+      "habitat_hint": "庭、公園の植え込み、農地の縁、空き地、道端。",
+      "finding_tips": "12〜4月、地面から伸びる細い茎の先に明るい黄色い大型の5弁花を探します。葉も他のカタバミより大型です。"
+    },
+    "en": {
+      "summary": "Bermuda Buttercup, a Mediterranean-origin introduced wood sorrel with bright yellow trumpet-like flowers in winter and spring. Leaves are larger than the native Wood Sorrel.",
+      "habitat_hint": "Gardens, park borders, field margins, vacant lots, and roadsides.",
+      "finding_tips": "From December to April look for bright yellow five-petalled flowers on slender stems. The plant overall is larger than the native Wood Sorrel."
+    },
+    "zh": {
+      "summary": "黄花酢浆草（百慕大酢浆草），地中海地区原产外来。冬春开亮黄色大型五瓣花。叶比本土酢浆草更大。",
+      "habitat_hint": "庭园、公园植被、田边、空地、路边。",
+      "finding_tips": "十二月至四月寻找细茎上亮黄色五瓣大花。整体植株比本土酢浆草大。"
+    }
+  },
+  "Semiaquilegia adoxoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメウズ。雑木林の林縁や半日陰に咲く小型のキンポウゲ科。早春にうつむき加減の白〜淡紅色の小花を多数つけます。",
+      "habitat_hint": "雑木林の林縁、神社の参道脇、湿った半日陰、谷沿いの林。",
+      "finding_tips": "3〜5月、地面近くに下向きの白〜淡紫色の小さな花が散らばる小型植物を探します。葉は細かく切れ込み、繊細な姿です。"
+    },
+    "en": {
+      "summary": "False Columbine, a small buttercup-family plant of woodland edges and half-shade. Tiny nodding white-to-pale-pink flowers appear in early spring.",
+      "habitat_hint": "Woodland edges, shrine paths, damp half-shade, and valley woods.",
+      "finding_tips": "From March to May look low for plants with tiny nodding white or pinkish flowers and finely divided leaves."
+    },
+    "zh": {
+      "summary": "天葵，毛茛科小型植物。生于林缘与半阴处，早春开许多下垂的白至淡粉小花，叶细裂纤细。",
+      "habitat_hint": "林缘、神社参道旁、潮湿半阴、谷地林。",
+      "finding_tips": "三至五月低头找散布下垂白至淡粉小花的小型植物。叶细裂。"
+    }
+  },
+  "Orobanche minor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤセウツボ。葉緑素を持たない寄生植物で、マメ科植物（特にシロツメクサ）の根に寄生して栄養を奪います。外来種です。",
+      "habitat_hint": "シロツメクサのある芝生、河川敷、農地の縁、空き地。",
+      "finding_tips": "4〜6月、シロツメクサの群落の中で淡褐色〜黄色の細い棒状の植物を探します。葉は退化していて、花のみが目立ちます。"
+    },
+    "en": {
+      "summary": "Hellroot, a chlorophyll-less parasitic plant that attaches to legume roots — especially White Clover — to steal nutrients. Introduced to Japan.",
+      "habitat_hint": "Clover-rich lawns, riverbanks, field margins, and vacant lots.",
+      "finding_tips": "From April to June look within White Clover patches for pale brown-yellow stick-like plants. Leaves are reduced to scales; only the inflorescence is conspicuous."
+    },
+    "zh": {
+      "summary": "小列当（外来）。无叶绿素的寄生植物，附着豆科（尤其白车轴草）根上吸取养分。",
+      "habitat_hint": "有白车轴草的草坪、河滩、田边、空地。",
+      "finding_tips": "四至六月在白车轴草丛中找淡褐黄色细棒状植物。叶退化，仅花序醒目。"
+    }
+  },
+  "Arcte coerula": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フクラスズメ。大型の蛾で、若齢幼虫は鮮やかな黒地に赤・黄の縞模様で目立ちます。成虫は地味な褐色です。",
+      "habitat_hint": "雑木林の林縁、河川敷、家庭菜園、イラクサ科のある場所。",
+      "finding_tips": "幼虫は刺激すると体を激しく振って威嚇する派手な毛虫です。秋に集団で見られることがあります。**毒はありませんが、見た目は強烈なので苦手な方は注意。**"
+    },
+    "en": {
+      "summary": "Blue Tiger Moth (Arcte). Adults are dull brown but the larvae are spectacular — black with bright red and yellow bands, thrashing violently when disturbed.",
+      "habitat_hint": "Woodland edges, riverbanks, kitchen gardens, and places with Urticaceae plants.",
+      "finding_tips": "Caterpillars often gather in groups in autumn and put on a dramatic threat display. **They are not venomous but can be visually startling.**"
+    },
+    "zh": {
+      "summary": "暗夜蛾（Arcte coerula），大型蛾。成虫朴素褐色，幼虫黑底配鲜红与黄色条纹，受激扭动威慑。",
+      "habitat_hint": "林缘、河滩、家庭菜园、有荨麻科植物的地方。",
+      "finding_tips": "秋季幼虫常群集出现并做夸张威慑动作。**无毒但视觉冲击大，怕虫者请留意。**"
+    }
   }
 }
