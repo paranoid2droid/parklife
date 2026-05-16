@@ -6371,5 +6371,167 @@
       "habitat_hint": "倒木、枯枝、立枯阔叶树、神社古树。",
       "finding_tips": "在朽木上找薄扇形或半圆形灰白至淡褐色层叠菌。常与云芝同生。"
     }
+  },
+  "Treron sieboldii": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオバト。緑色の体に橙黄色の翼がある独特の姿のハト。沿岸の岩場で海水を飲む独特の行動で有名です。",
+      "habitat_hint": "雑木林、社寺林、海岸の岩場（夏の海水飲み）、山地の林、河川敷の樹林。",
+      "finding_tips": "「アオー、アオー」と独特の声で森から鳴きます。夏の早朝、神奈川県大磯町の照ヶ崎海岸など、海水を飲みに集まるスポットがあります。"
+    },
+    "en": {
+      "summary": "Japanese Green Pigeon, a striking green pigeon with orange-yellow wing patches. Famous for the unusual behaviour of drinking seawater at coastal rocks in summer.",
+      "habitat_hint": "Mixed woodland, shrine groves, summer coastal rocks (for sea-water drinking), montane forest, and riverside woods.",
+      "finding_tips": "Listen for a distinctive 'ao-ao' call from forest. In summer some coastal sites (e.g. Teru-ga-saki in Oiso, Kanagawa) attract famous sea-water-drinking flocks."
+    },
+    "zh": {
+      "summary": "红翅绿鸠，绿色体配橙黄色翼斑的鸽。夏季在沿海岩石饮海水的行为闻名。",
+      "habitat_hint": "杂木林、神社树林、夏季沿海岩石（饮海水）、山地林、河岸林。",
+      "finding_tips": "听林中独特『嗷-嗷』叫声。夏季神奈川县大矶町照崎海岸等地有著名的饮海水群体。"
+    }
+  },
+  "Spinus spinus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マヒワ。冬鳥として渡来する小型の黄緑色のアトリ類。ハンノキやスギの果実を群れで食べる姿が見られます。",
+      "habitat_hint": "雑木林、ハンノキ林、針葉樹林、社寺林、河川敷の樹林。",
+      "finding_tips": "11〜3月、ハンノキの果実の周りで群れて食事する小型の黄緑色の鳥を探します。「キョキョキョ」という独特の声でも気づきます。"
+    },
+    "en": {
+      "summary": "Eurasian Siskin, a small yellow-green wintering finch. Flocks feed on alder and conifer seeds.",
+      "habitat_hint": "Mixed woodland, alder groves, conifer forest, shrine groves, and riverside woods.",
+      "finding_tips": "From November to March look around alders for flocks of small yellow-green birds. The chattering 'kyo-kyo-kyo' call helps locate them."
+    },
+    "zh": {
+      "summary": "黄雀，冬季渡来的小型黄绿色雀。常成群在桤木和针叶树果实周围取食。",
+      "habitat_hint": "杂木林、桤木林、针叶林、神社树林、河岸林。",
+      "finding_tips": "11月至3月在桤木周围找成群黄绿色小鸟。叫声『叽-叽-叽』也有助定位。"
+    }
+  },
+  "Ischnura asiatica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アジアイトトンボ。細長い体に青と黒の縞模様の小型イトトンボ。アオモンイトトンボと似ますが、より小型です。",
+      "habitat_hint": "池、湿地、用水路、水田、河川の岸辺。",
+      "finding_tips": "アオモンイトトンボと混同しやすいですが、本種はやや小型で、雄の腹部の青色斑が前方に位置するのが特徴です。"
+    },
+    "en": {
+      "summary": "Asian Bluetail, a slender damselfly with blue-and-black banding. Similar to Common Bluetail but smaller; the blue mark on the male's abdomen sits more anteriorly.",
+      "habitat_hint": "Ponds, wetlands, ditches, rice paddies, and riverbank vegetation.",
+      "finding_tips": "Looks like Common Bluetail but is smaller. In males, note the position of the blue abdominal patch — more towards the front in this species."
+    },
+    "zh": {
+      "summary": "亚洲异痣蟌，细长身体配蓝黑色条纹的小型豆娘。与褐斑异痣蟌相似但更小，雄虫腹部蓝斑位置更靠前。",
+      "habitat_hint": "池塘、湿地、灌渠、水田、河岸植被。",
+      "finding_tips": "和褐斑异痣蟌易混，但本种更小。雄虫腹部蓝斑位置靠前是辨识要点。"
+    }
+  },
+  "Holochlora japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サトクダマキモドキ。緑色の中型キリギリス類で、葉の上で「リーン」と長く鳴きます。葉に擬態して見つけにくいです。",
+      "habitat_hint": "雑木林の林縁、樹冠、河川敷の樹木、神社の樹林、低木の上。",
+      "finding_tips": "夜、樹冠から「リーン」と細長く鳴く声を頼りに探します。葉に擬態した緑色のキリギリスで、葉の上で動かないと見つけにくいです。"
+    },
+    "en": {
+      "summary": "A medium green katydid that sings a long 'reeen' from leaves and twigs. Excellent leaf mimicry makes it hard to spot.",
+      "habitat_hint": "Woodland edges, canopies, riverside trees, shrine groves, and shrub tops.",
+      "finding_tips": "At night follow a long 'reeen' song into the canopy. The katydid itself is leaf-coloured and difficult to see when still."
+    },
+    "zh": {
+      "summary": "全绿螽斯一种，中型绿色螽斯。夜间在叶上发出长长的『嘶——』声。绿色叶状拟态难以目击。",
+      "habitat_hint": "林缘、树冠、河岸树木、神社树林、灌木顶。",
+      "finding_tips": "夜间循长鸣声向树冠寻找。绿色拟态叶片，静止时几乎隐形。"
+    }
+  },
+  "Cymbidium goeringii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シュンラン。早春に咲く在来のラン。雑木林の林床に淡緑色の花を咲かせ、芳香があります。乱獲により野生個体は減少しています。",
+      "habitat_hint": "雑木林の林床、社寺林、谷沿いの林、明るい斜面、コナラ・クヌギ林。",
+      "finding_tips": "3〜4月、林床で淡緑色〜淡紫色の花を立てる小型のランを探します。**乱獲対象になっているので、見つけても採取しないでください。**葉は線状の常緑です。"
+    },
+    "en": {
+      "summary": "Spring Orchid, a native Cymbidium with fragrant pale-green spring flowers. Wild populations have declined from over-collection.",
+      "habitat_hint": "Forest understory, shrine groves, valley woods, bright slopes, and oak woods.",
+      "finding_tips": "From March to April look on forest floors for small orchids with pale-green to pale-violet flowers. **Heavily collected — never dig wild plants.** Linear evergreen leaves."
+    },
+    "zh": {
+      "summary": "春兰，本土兰科植物。早春开淡绿色芳香花。因被乱挖野生种群衰退。",
+      "habitat_hint": "杂木林林床、神社树林、谷地林、明亮斜坡、栎林。",
+      "finding_tips": "三至四月在林床找抽出淡绿至淡紫色花的小兰。**已遭乱挖，请勿采集。** 叶线形常绿。"
+    }
+  },
+  "Lentinus arcularius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒトクチタケ近縁の小型のキノコで、傘の表面が放射状の模様を持ち、傘の中央が浅くくぼみます。倒木や枯れ枝に発生します。",
+      "habitat_hint": "雑木林の倒木、枯れ枝、神社の朽ち木、湿った林床。",
+      "finding_tips": "倒木の上に薄褐色の小〜中型のキノコが集まって生えていれば本種の可能性。傘の中央が浅くくぼみ、傘裏は管孔状です。"
+    },
+    "en": {
+      "summary": "A small polypore with a slightly depressed cap centre and radiating markings on the cap surface. Grows on logs and dead branches.",
+      "habitat_hint": "Logs in mixed woodland, dead branches, ancient shrine wood, and damp forest floor.",
+      "finding_tips": "On logs look for small-to-medium pale-brown mushrooms with slightly depressed cap centres and tube-pores underneath."
+    },
+    "zh": {
+      "summary": "光柄菇类小型多孔菌，菌盖中央浅凹、表面有放射状斑纹。常生于朽木枯枝。",
+      "habitat_hint": "杂木林倒木、枯枝、神社朽木、潮湿林床。",
+      "finding_tips": "在朽木上找浅褐色中小型菌，盖心浅凹，盖背为管孔。"
+    }
+  },
+  "Calystegia hederacea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コヒルガオ。在来種のヒルガオ類で、ピンク色のラッパ状の花を昼間に咲かせるつる植物。葉は鉾形で、葉柄が翼状にやや広がります。",
+      "habitat_hint": "河川敷、農地の縁、住宅地のフェンス、空き地、雑草地。",
+      "finding_tips": "5〜10月、ピンクの大型ラッパ花と鉾形葉のつる植物を探します。アサガオは別属で朝のみ、本種は昼に開きます。"
+    },
+    "en": {
+      "summary": "Japanese Bindweed, a native morning glory with pink trumpet flowers that open during the day. Leaves are arrowhead-shaped with slightly winged petioles.",
+      "habitat_hint": "Riverbanks, field margins, residential fences, vacant lots, and weedy ground.",
+      "finding_tips": "From May to October look for vines with pink trumpet flowers and arrowhead leaves. Unlike Ipomoea morning glories, this opens by day."
+    },
+    "zh": {
+      "summary": "打碗花，本土旋花科藤本。粉色喇叭花日间开放，叶戟形，叶柄略具翼。",
+      "habitat_hint": "河滩、田边、住宅围栏、空地、杂草地。",
+      "finding_tips": "五至十月寻找粉色喇叭花配戟形叶的藤本。与牵牛花（早晨开）不同，本种白天开放。"
+    }
+  },
+  "Arachniodes standishii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リョウメンシダ。雑木林の林床に普通の常緑シダ。葉の表と裏で形がほぼ同じに見えることが名前の由来です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "葉の表と裏が似て見える二回〜三回羽状の常緑シダを探します。光沢のある葉でグランドカバー的に群生します。"
+    },
+    "zh": {
+      "summary": "斜方复叶耳蕨（裏面同样蕨），杂木林林床常见的常绿蕨。叶表面与背面外形几乎相同，因此得名。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶背与叶面外形相似、有光泽的二至三回羽状常绿蕨。常密集成片如覆地植物。"
+    },
+    "en": {
+      "summary": "Upside-down Fern, a common evergreen woodland fern. Its name refers to the upper and lower leaf surfaces looking nearly identical.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for an evergreen fern with bi-tripinnate fronds whose upper and lower surfaces resemble each other. Glossy, often colonial as a ground cover."
+    }
+  },
+  "Krananda latimarginaria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツマジロエダシャク。翅の先端に白い部分のある中型のシャクガ。夜の街灯にも飛来し、林の縁で日中も止まる姿が見られます。",
+      "habitat_hint": "雑木林、社寺林、街路樹、夜の街灯、家屋の壁。",
+      "finding_tips": "翅を平らに広げて止まる蛾を探します。前翅の先端に白〜淡色の三角部があるのが目印で、シャクガ類特有の細長い姿です。"
+    },
+    "en": {
+      "summary": "A medium geometrid moth with a white-tipped forewing. Comes to lights at night; can also be found resting at woodland edges by day.",
+      "habitat_hint": "Mixed woodland, shrine groves, street trees, around streetlights at night, and house walls.",
+      "finding_tips": "Look for a flat-resting moth with a pale triangular tip on the forewing. The slender shape is typical of geometrids."
+    },
+    "zh": {
+      "summary": "白带尺蛾，前翅末端有白色斑的中型尺蛾。夜趋光，白天也可在林缘见到停歇个体。",
+      "habitat_hint": "杂木林、神社树林、行道树、夜灯、房屋外墙。",
+      "finding_tips": "找翅平展停歇的蛾。前翅末端有白色三角斑是辨识要点，体形细长为尺蛾科特征。"
+    }
   }
 }
