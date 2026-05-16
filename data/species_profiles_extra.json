@@ -9360,5 +9360,167 @@
       "habitat_hint": "杂木林林缘、谷地林、神社境内、明亮斜坡、神社树林。",
       "finding_tips": "五至六月寻找枝梢集开白色小花的灌木。叶深裂可与近缘种区分。"
     }
+  },
+  "Kalopanax septemlobus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハリギリ。葉が5〜7裂し、若い枝にはトゲがある大型の落葉樹。雑木林の代表的な高木で、若芽は山菜「タラノキ」と似た味で食用にもなります。",
+      "habitat_hint": "雑木林、社寺林、山地の谷、明るい斜面林、谷沿いの林。",
+      "finding_tips": "葉が掌状に5〜7裂し、若い幹や枝にトゲがある大木を探します。秋の紅葉も美しい。"
+    },
+    "en": {
+      "summary": "Castor Aralia. A large deciduous tree with palmate 5–7-lobed leaves and prickles on young branches. The young shoots are foraged like Aralia 'taranome'.",
+      "habitat_hint": "Mixed woodland, shrine groves, mountain valleys, bright slope forests, and valley woods.",
+      "finding_tips": "Look for a large tree with palmate 5–7-lobed leaves and prickles on the young trunk. Striking autumn colour."
+    },
+    "zh": {
+      "summary": "刺楸，大型落叶乔木。叶掌状 5–7 裂，幼枝具刺。嫩芽与楤木『棘芽』风味相近，可食。",
+      "habitat_hint": "杂木林、神社树林、山地谷地、明亮斜坡林、谷地林。",
+      "finding_tips": "找叶掌状 5–7 裂、幼茎具刺的大树。秋叶亦美。"
+    }
+  },
+  "Sambucus sieboldiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニワトコ。雑木林の林縁に普通の落葉低木。早春に淡黄色の小花を多数つけ、初夏に赤い小さな実を集めます。古くから薬用にも用いられました。",
+      "habitat_hint": "雑木林の林縁、河川敷、明るい斜面、神社の境内、住宅地の植え込み。",
+      "finding_tips": "3〜5月、複雑な羽状複葉と淡黄色の小花が円錐状にまとまる低木を探します。初夏には赤い小さな実をつけます。"
+    },
+    "en": {
+      "summary": "Japanese Elderberry. A deciduous shrub with pinnate leaves and clusters of pale-yellow flowers in early spring; small red berries follow in early summer. Used medicinally in traditional practice.",
+      "habitat_hint": "Woodland edges, riverbanks, bright slopes, shrine grounds, and residential plantings.",
+      "finding_tips": "From March to May look for shrubs with complex pinnate leaves and pyramidal clusters of small pale-yellow flowers. Red berries follow in early summer."
+    },
+    "zh": {
+      "summary": "日本接骨木，杂木林林缘常见落叶灌木。早春集开淡黄色小花，初夏结红色小果。传统药用。",
+      "habitat_hint": "林缘、河滩、明亮斜坡、神社境内、住宅区植被。",
+      "finding_tips": "三至五月寻找复杂羽状复叶、圆锥状淡黄花序的灌木。初夏结红色小果。"
+    }
+  },
+  "Matteuccia struthiopteris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサソテツ。湿った場所に生える大型の落葉シダ。春の若芽（コゴミ）は山菜として親しまれ、緑色の渦巻き状で美しいです。",
+      "habitat_hint": "湿った林床、谷沿いの林、河川敷の湿地、神社の境内、ダム湖近くの林。",
+      "finding_tips": "湿った場所で背の高いシダを探します。春の若芽は渦巻き状で「コゴミ」と呼ばれ食用に。葉軸が深く緑色〜暗褐色をします。"
+    },
+    "en": {
+      "summary": "Ostrich Fern. A large deciduous fern of damp ground. Its tightly coiled green fiddleheads ('kogomi') in spring are a popular foraged vegetable.",
+      "habitat_hint": "Damp forest floor, valley woods, riverside wetlands, shrine grounds, and woods near reservoirs.",
+      "finding_tips": "Watch damp places for tall ferns. The bright green coiled fiddleheads in spring are unmistakable and a sought-after foraging target."
+    },
+    "zh": {
+      "summary": "荚果蕨，潮湿处的大型落叶蕨。春季嫩芽（『拳菜』）呈翠绿卷曲，是受欢迎的山菜。",
+      "habitat_hint": "潮湿林床、谷地林、河滩湿地、神社境内、水库附近林。",
+      "finding_tips": "在潮湿处找高大蕨。春季亮绿卷曲嫩芽是采摘目标。"
+    }
+  },
+  "Sanguisorba officinalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワレモコウ。秋に深い赤紫色の独特な穂状の花序を立てる在来種の多年草。和歌や生け花にも登場する秋の風物詩の一つです。",
+      "habitat_hint": "明るい草地、河川敷、湿った草原、神社の境内、農地の縁。",
+      "finding_tips": "8〜10月、人の腰高の茎の先に暗赤紫色の球状〜長楕円形の花穂を立てる植物を探します。葉は奇数羽状複葉です。"
+    },
+    "en": {
+      "summary": "Great Burnet. A native perennial with dark red-purple cone-shaped flower spikes in autumn — celebrated in poetry and floral arrangements.",
+      "habitat_hint": "Bright meadows, riverbanks, damp grasslands, shrine grounds, and field margins.",
+      "finding_tips": "From August to October look for waist-high plants with dark red-purple oblong flower spikes. Pinnate leaves."
+    },
+    "zh": {
+      "summary": "地榆，本土多年生草。秋季抽暗红紫色长椭圆球形花穗，是和歌与花艺中的秋之代表。",
+      "habitat_hint": "明亮草地、河滩、潮湿草原、神社境内、田边。",
+      "finding_tips": "八至十月寻找腰高、顶端抽暗红紫长椭圆球形花穗的植物。叶为奇数羽状复叶。"
+    }
+  },
+  "Ophiopogon japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジャノヒゲ。常緑の細長い葉を密に伸ばす多年草で、林床のグランドカバーとして広く利用されます。秋に深い藍色の球状の実を地際で見ることができます。",
+      "habitat_hint": "雑木林の林床、神社の参道脇、公園の植え込み、半日陰の庭、街路樹の根元。",
+      "finding_tips": "細長い線形の常緑葉が密に重なる場所を探します。秋〜冬、葉の付け根に鮮やかな藍青色の球形の実をつけるのが目印です。"
+    },
+    "en": {
+      "summary": "Mondo Grass, an evergreen perennial with dense narrow leaves. Widely used as a ground cover; bright cobalt-blue spherical fruits at the base in autumn-winter are striking up close.",
+      "habitat_hint": "Forest understory, shrine paths, park plantings, half-shaded gardens, and around street trees.",
+      "finding_tips": "Look for dense tufts of narrow evergreen leaves. In autumn-winter check at ground level for vivid cobalt-blue round fruits."
+    },
+    "zh": {
+      "summary": "麦冬（沿阶草），常绿多年生植物，细叶密生。常作覆地栽培，秋冬叶基处具亮蓝色球形果，颜色独特。",
+      "habitat_hint": "杂木林林床、神社参道旁、公园植被、半阴庭园、行道树根周。",
+      "finding_tips": "找细长线形叶密集成片的植物。秋冬注意叶基的亮蓝色球形果。"
+    }
+  },
+  "Auricularia nigricans": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アラゲキクラゲ。耳の形に似たゼラチン状のキノコで、倒木や枯れ木に発生します。表面は短い毛で覆われ、料理材料としても利用されます。",
+      "habitat_hint": "雑木林の倒木、枯れ枝、神社の古木、湿った木材。",
+      "finding_tips": "倒木の上に耳形のゼラチン質キノコが集まっていれば本種の可能性。表面に細かい毛があり、雨後にぷっくり膨らみます。"
+    },
+    "en": {
+      "summary": "Cloud Ear Fungus, a gelatinous ear-shaped wood-decay fungus with a hairy upper surface. Widely used as a culinary ingredient.",
+      "habitat_hint": "Logs, dead branches, ancient shrine wood, and damp lumber.",
+      "finding_tips": "Clusters of ear-shaped gelatinous fungi on logs are likely this species. After rain they swell visibly."
+    },
+    "zh": {
+      "summary": "毛木耳（黑木耳近缘），耳形胶质木腐菌，表面被细毛。常作食用菌。",
+      "habitat_hint": "杂木林倒木、枯枝、神社古木、潮湿木材。",
+      "finding_tips": "在朽木上看到一群耳形胶质菌大概率即是。雨后会明显膨胀。"
+    }
+  },
+  "Microlepia marginata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フモトシダ。雑木林の林床に普通の中型のシダ。葉は二回羽状で、葉縁が浅く切れ込み、林床のグランドカバー的に群生します。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "中型の二回羽状シダで、葉縁に細かい切れ込みがあるものを探します。胞子嚢群は葉縁に並んでつくのが特徴です。"
+    },
+    "en": {
+      "summary": "A common medium fern of mixed woodland understory. Bipinnate fronds with finely toothed margins; often colonial as a ground cover.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium bipinnate fern with finely toothed leaf margins. Sori sit along the leaf edges."
+    },
+    "zh": {
+      "summary": "边缘鳞蕨，杂木林林床常见的中型蕨。二回羽状叶，叶缘细密浅裂，常成片覆地。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶缘有细密浅裂的中型二回羽状蕨。叶背孢子囊群沿叶缘排列。"
+    }
+  },
+  "Cyperus brevifolius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメクグ。芝生や農地の縁に生える小型のカヤツリグサ。茎の頂部に球状の小穂を集めます。地下茎で繁殖し、芝生の中でも目立たず生えます。",
+      "habitat_hint": "芝生、農地の縁、河川敷、湿った草地、神社の境内。",
+      "finding_tips": "8〜10月、芝生や畦で茎の頂部に小型の球状の小穂を集めるカヤツリグサを探します。地下茎で広がります。"
+    },
+    "en": {
+      "summary": "Green Kyllinga, a small sedge of lawns and field edges. Globular small spikelets cluster at the stem tip; spreads via rhizomes.",
+      "habitat_hint": "Lawns, field margins, riverbanks, damp meadows, and shrine grounds.",
+      "finding_tips": "From August to October look in lawns and on paddy edges for small sedges with globular spikelet clusters at the stem tip."
+    },
+    "zh": {
+      "summary": "短叶水蜈蚣（球穗莎草），生于草坪和田边的小型莎草。茎顶集小型球状小穗。靠根状茎扩展。",
+      "habitat_hint": "草坪、田边、河滩、潮湿草地、神社境内。",
+      "finding_tips": "八至十月在草坪与田埂找茎顶集生球状小穗的小型莎草。"
+    }
+  },
+  "Microporus affinis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウチワタケ近縁の小型のキノコで、扇形〜うちわ形の硬い傘を倒木の上に集めてつけます。色は灰白〜淡褐色で、年中見られます。",
+      "habitat_hint": "雑木林の倒木、枯れ枝、地表に落ちた枝。",
+      "finding_tips": "倒木の表面にうちわ形〜半円形の硬めの小型キノコが集まっていれば本種の可能性。乾燥にも強く、年中観察できます。"
+    },
+    "en": {
+      "summary": "A small fan-shaped polypore of pale grey-brown colour, growing in clusters on logs. Tough and persistent — visible year-round.",
+      "habitat_hint": "Logs, dead branches, and fallen wood in mixed woodland.",
+      "finding_tips": "Clusters of small fan-shaped tough pale brackets on logs likely belong to this species. Drought-tolerant and persistent."
+    },
+    "zh": {
+      "summary": "小孔菌一种，灰白至淡褐色的小型扇形多孔菌，常成簇生于朽木。耐旱，全年可见。",
+      "habitat_hint": "杂木林倒木、枯枝、地面枯木。",
+      "finding_tips": "在朽木上成簇的扇形或半圆形浅色硬质小菌可能即是。耐旱持续。"
+    }
   }
 }
