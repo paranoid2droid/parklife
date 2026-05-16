@@ -156,7 +156,7 @@ def collect_data() -> dict:
             WHERE lang = 'ebird'
         """))
         photo_rows = list(conn.execute("""
-            SELECT species_id, url
+            SELECT species_id, url, attribution, source_url
             FROM species_photo
             ORDER BY species_id, sort_order, id
         """))
@@ -174,12 +174,24 @@ def collect_data() -> dict:
     ebird_code: dict[int, str] = {}
     for r in ebird_rows:
         ebird_code.setdefault(r["species_id"], r["raw_name"])
-    gallery: dict[int, list[str]] = {}
+    # Each entry: [url, attribution, source_url].
+    # Wiki Commons rows come first (sort_order=-1) so the gallery's [0] is
+    # the species' "hero" frame whenever Commons has it.
+    gallery: dict[int, list[list[str]]] = {}
+    seen_url_per_sp: dict[int, set[str]] = {}
     for r in photo_rows:
-        gallery.setdefault(r["species_id"], [])
         url = medium_photo_url(r["url"]) if r["url"] else ""
-        if url and url not in gallery[r["species_id"]]:
-            gallery[r["species_id"]].append(url)
+        if not url:
+            continue
+        seen = seen_url_per_sp.setdefault(r["species_id"], set())
+        if url in seen:
+            continue
+        seen.add(url)
+        gallery.setdefault(r["species_id"], []).append([
+            url,
+            r["attribution"] or "",
+            r["source_url"] or "",
+        ])
     profiles: dict[int, dict[str, dict[str, str]]] = {}
     for r in profile_rows:
         profiles.setdefault(r["species_id"], {})[r["lang"]] = {
@@ -200,9 +212,13 @@ def collect_data() -> dict:
         if not group:
             continue
         imgs = list(gallery.get(r["id"], []))
-        hero_photo = medium_photo_url(r["photo_url"]) if r["photo_url"] else ""
-        if hero_photo and hero_photo not in imgs:
-            imgs.insert(0, hero_photo)
+        legacy_hero = medium_photo_url(r["photo_url"]) if r["photo_url"] else ""
+        if legacy_hero and not any(x[0] == legacy_hero for x in imgs):
+            # Only fall back to the legacy untracked-attribution hero when we
+            # have no licensed gallery entry at all.
+            if not imgs:
+                imgs.insert(0, [legacy_hero, "", ""])
+        card_thumb = imgs[0][0] if imgs else ""
         sp_idx[r["id"]] = len(species)
         item = {
             "ja":   r["common_name_ja"] or "",
@@ -213,8 +229,8 @@ def collect_data() -> dict:
             "g":    group,
             "tg":   r["taxon_group"] or "",
             "k":    r["kingdom"] or "",
-            "p":    r["photo_url"] or "",
-            "imgs": imgs[:5],
+            "p":    card_thumb,
+            "imgs": imgs[:6],
             "tid":  r["inat_taxon_id"] or 0,
             "eb":   ebird_code.get(r["id"], ""),
             "n":    pop.get(r["id"], 0),
@@ -382,7 +398,13 @@ main { display: flex; height: calc(100vh - 50px); }
 .photo-nav:hover { background: rgba(42,107,59,.72); }
 .photo-nav.prev { left: 0; }
 .photo-nav.next { right: 0; }
-.photo-nav.hidden, .photo-count.hidden { display: none; }
+.photo-nav.hidden, .photo-count.hidden, .modal-photo-caption.hidden { display: none; }
+.modal-photo-caption { position: absolute; left: 8px; bottom: 8px;
+  padding: 4px 8px; background: rgba(0,0,0,.55); color: #f3f3f3;
+  font-size: 11px; line-height: 1.4; border-radius: 4px;
+  text-shadow: 0 1px 0 rgba(0,0,0,.5); pointer-events: auto;
+  max-width: calc(100% - 90px); /* leave room for photo-count on the right */ }
+.modal-photo-caption a { color: #d1ecff; text-decoration: underline; }
 .photo-count { position: absolute; right: 8px; bottom: 8px; padding: 2px 7px;
                border-radius: 10px; background: rgba(0,0,0,.5); color: #fff;
                font-size: 12px; }
@@ -1105,8 +1127,31 @@ function profileSectionHtml(sp) {
   return html;
 }
 
+// Each photo is a [url, attribution, source_url] tuple. Older entries may
+// still be plain URL strings (legacy hero fallback) — normalise both.
 function speciesPhotos(sp) {
-  return sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [sp.p] : []);
+  const list = sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [[sp.p, '', '']] : []);
+  return list.map(p => Array.isArray(p) ? p : [p, '', '']);
+}
+function photoUrl(p)        { return Array.isArray(p) ? p[0] : (p || ''); }
+function photoAttribution(p){ return Array.isArray(p) ? (p[1] || '') : ''; }
+function photoSourceUrl(p)  { return Array.isArray(p) ? (p[2] || '') : ''; }
+function photoSourceLabel(srcUrl) {
+  if (!srcUrl) return '';
+  if (srcUrl.indexOf('commons.wikimedia') >= 0) return 'Wikimedia Commons';
+  if (srcUrl.indexOf('inaturalist.org') >= 0)  return 'iNaturalist';
+  return 'source';
+}
+function photoCaptionHtml(p) {
+  const attr = photoAttribution(p);
+  const url  = photoSourceUrl(p);
+  if (!attr && !url) return '';
+  const label = photoSourceLabel(url);
+  const link = url
+    ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${escapeHtml(label)} ↗</a>`
+    : '';
+  const sep = attr && link ? ' · ' : '';
+  return `${escapeHtml(attr)}${sep}${link}`;
 }
 
 function largePhotoUrl(url) {
@@ -1146,9 +1191,11 @@ function openSpeciesModal(si) {
   const photos = speciesPhotos(sp);
   currentModal = { si, photoIdx: 0, photos };
   const hasGallery = photos.length > 1;
+  const firstUrl = photos.length ? photoUrl(photos[0]) : '';
   const photoEl = photos.length
-    ? `<img id="modal-photo" class="modal-photo" src="${photos[0]}" alt="${escapeHtml(displayName(sp))}" />`
+    ? `<img id="modal-photo" class="modal-photo" src="${firstUrl}" alt="${escapeHtml(displayName(sp))}" />`
     : `<div id="modal-photo" class="modal-photo no-photo"></div>`;
+  const captionHtml = photos.length ? photoCaptionHtml(photos[0]) : '';
   const sci = sp.sci ? `<div class="modal-sci">${escapeHtml(sp.sci)}</div>` : '';
   const facts = [
     `${D.taxonomy}: ${detailGroupLabel(sp)}`,
@@ -1163,6 +1210,7 @@ function openSpeciesModal(si) {
       `<button class="photo-nav prev${hasGallery ? '' : ' hidden'}" type="button" data-photo-prev aria-label="Previous photo">‹</button>` +
       `<button class="photo-nav next${hasGallery ? '' : ' hidden'}" type="button" data-photo-next aria-label="Next photo">›</button>` +
       `<div id="photo-count" class="photo-count${hasGallery ? '' : ' hidden'}">1 / ${photos.length}</div>` +
+      `<div id="modal-photo-caption" class="modal-photo-caption${captionHtml ? '' : ' hidden'}">${captionHtml}</div>` +
     `</div>` +
     `<div class="modal-body">` +
       `<h2 class="modal-title" id="modal-title">${displayNameHtml(sp)}</h2>${sci}` +
@@ -1189,7 +1237,9 @@ function renderModalPhoto() {
   if (!currentModal || !currentModal.photos.length) return;
   const photoEl = document.getElementById('modal-photo');
   const countEl = document.getElementById('photo-count');
-  const medium = currentModal.photos[currentModal.photoIdx];
+  const capEl   = document.getElementById('modal-photo-caption');
+  const current = currentModal.photos[currentModal.photoIdx];
+  const medium  = photoUrl(current);
   if (photoEl) {
     photoEl.classList.remove('no-photo');
     if (photoEl.tagName === 'IMG') photoEl.src = medium;
@@ -1197,11 +1247,16 @@ function renderModalPhoto() {
   if (countEl) {
     countEl.textContent = `${currentModal.photoIdx + 1} / ${currentModal.photos.length}`;
   }
+  if (capEl) {
+    const html = photoCaptionHtml(current);
+    capEl.innerHTML = html;
+    capEl.classList.toggle('hidden', !html);
+  }
   upgradeModalPhoto();
   if (currentModal.photos.length > 1) {
     const n = currentModal.photos.length;
-    preloadLargePhoto(currentModal.photos[(currentModal.photoIdx + 1) % n]);
-    preloadLargePhoto(currentModal.photos[(currentModal.photoIdx - 1 + n) % n]);
+    preloadLargePhoto(photoUrl(currentModal.photos[(currentModal.photoIdx + 1) % n]));
+    preloadLargePhoto(photoUrl(currentModal.photos[(currentModal.photoIdx - 1 + n) % n]));
   }
 }
 
@@ -1210,7 +1265,7 @@ function upgradeModalPhoto() {
   const photoEl = document.getElementById('modal-photo');
   if (!photoEl || photoEl.tagName !== 'IMG') return;
   const idx = currentModal.photoIdx;
-  const large = largePhotoUrl(currentModal.photos[idx]);
+  const large = largePhotoUrl(photoUrl(currentModal.photos[idx]));
   if (!large || photoEl.src === large) return;
   const img = new Image();
   img.onload = () => {

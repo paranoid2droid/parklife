@@ -110,6 +110,7 @@ CREATE TABLE IF NOT EXISTS species_photo (
     thumb_url       TEXT,
     attribution     TEXT,
     source          TEXT NOT NULL DEFAULT 'iNaturalist',
+    source_url      TEXT,                    -- link back to observation/file page
     sort_order      INTEGER NOT NULL DEFAULT 0,
     UNIQUE(species_id, url)
 );
