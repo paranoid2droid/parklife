@@ -7901,5 +7901,167 @@
       "habitat_hint": "林缘、花坛、河滩花卉、神社境内、山地花地。",
       "finding_tips": "夏秋在花上找黑底带橙色环的毛绒熊蜂。**性情温和，但巢附近会蛰。**"
     }
+  },
+  "Larus canus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カモメ。中型のカモメで、緑黄色のくちばしと足が目印。冬鳥として東京湾や河口で見られます。",
+      "habitat_hint": "東京湾、河口、漁港、海岸、河川下流。",
+      "finding_tips": "ウミネコより小型で、ユリカモメより大きい中型のカモメ。緑黄色のくちばしと足がよく目立ちます。"
+    },
+    "en": {
+      "summary": "Common Gull (Mew Gull), a medium gull with greenish-yellow bill and legs. A winter visitor to Tokyo Bay and estuaries.",
+      "habitat_hint": "Tokyo Bay, estuaries, fishing harbours, coasts, and lower rivers.",
+      "finding_tips": "Smaller than Black-tailed Gull, larger than Black-headed Gull. Look for the greenish-yellow bill and legs to confirm."
+    },
+    "zh": {
+      "summary": "海鸥（普通海鸥），中型鸥。喙与脚为黄绿色。冬季出现于东京湾与河口。",
+      "habitat_hint": "东京湾、河口、渔港、海岸、河流下游。",
+      "finding_tips": "比黑尾鸥小、比红嘴鸥大的中型鸥。注意黄绿色的喙与脚。"
+    }
+  },
+  "Porzana fusca": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒクイナ。赤褐色の体に長い赤い脚が美しい中型水鳥。湿地のヨシ原で繁殖し、警戒心が強く姿を見せることは少ないです。",
+      "habitat_hint": "湿地のヨシ原、水田、河川敷の藪、田の畔、湿地の縁。",
+      "finding_tips": "繁殖期（春〜夏）「キョッキョッキョッ」とリズミカルな大声で鳴くのを頼りに、ヨシ原の縁で素早く歩く赤褐色の鳥を探します。"
+    },
+    "en": {
+      "summary": "Ruddy-breasted Crake, a medium waterbird with chestnut underparts and long red legs. Secretive — breeds in reedy wetlands and is rarely seen openly.",
+      "habitat_hint": "Reedy wetlands, rice paddies, riverbank scrub, paddy levees, and wetland edges.",
+      "finding_tips": "In breeding season listen for a loud rhythmic 'kyo-kyo-kyo' call. Look for a chestnut bird slipping through reed bases."
+    },
+    "zh": {
+      "summary": "红胸田鸡，中型水鸟。栗红胸腹、长红腿，繁殖于芦苇湿地，警觉性高。",
+      "habitat_hint": "芦苇湿地、水田、河滩灌丛、田埂、湿地边。",
+      "finding_tips": "繁殖期听响亮节奏的『叽-叽-叽』叫，芦苇丛边找快速行走的栗色鸟。"
+    }
+  },
+  "Aster ageratoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロヨメナ。秋に白い小菊の花を多数咲かせる在来種の多年草。山野草として親しまれ、雑木林の林縁や明るい斜面で見られます。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、河川敷、神社の境内、半日陰の草地。",
+      "finding_tips": "9〜11月、白い小型の菊状花を多数咲かせる植物を探します。花の中央は黄色く、葉は楕円形で粗い鋸歯があります。"
+    },
+    "en": {
+      "summary": "White Aster. A native perennial with many small white daisy-like flowers in autumn. Familiar wildflower of woodland edges and bright slopes.",
+      "habitat_hint": "Woodland edges, bright slopes, riverbanks, shrine grounds, and shaded grass.",
+      "finding_tips": "From September to November look for plants bearing clusters of small white daisies with yellow centres. Oval leaves with coarse teeth."
+    },
+    "zh": {
+      "summary": "白舌紫菀（白姊妹），本土多年生菊科。秋季开许多白色小型菊状花。",
+      "habitat_hint": "林缘、明亮斜坡、河滩、神社境内、半阴草地。",
+      "finding_tips": "九至十一月寻找开许多白色小菊花的植物。花心黄色、叶椭圆带粗锯齿。"
+    }
+  },
+  "Parasa lepida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒロヘリアオイラガ。幼虫が緑色で派手な毛束を持つイラガ類の蛾。**幼虫の毛に触ると激痛と腫れを伴う皮膚炎を起こすので絶対に触らないこと。**",
+      "habitat_hint": "雑木林、街路樹、果樹、住宅地の植え込み、神社の樹木。",
+      "finding_tips": "夏〜秋、葉の裏で緑色の派手な「電気虫」と呼ばれる幼虫を探します。**触らず観察のみ。** 卵塊から集団で生まれることもあります。"
+    },
+    "en": {
+      "summary": "Blue-striped Nettle Caterpillar (a Cup Moth larva). The bright green caterpillar bears tufts of stinging hairs — **contact causes severe burning pain and swelling. Never handle.**",
+      "habitat_hint": "Mixed woodland, street trees, fruit trees, residential plantings, and shrine trees.",
+      "finding_tips": "From summer to autumn check leaf undersides for green caterpillars with showy hair tufts. **Look only — never touch.** Often gregarious from a single egg mass."
+    },
+    "zh": {
+      "summary": "丽绿刺蛾，幼虫鲜绿色具明显毒毛丛（俗称『电气虫』）。**触碰致剧痛与水肿，切勿接触。**",
+      "habitat_hint": "杂木林、行道树、果树、住宅区植被、神社树木。",
+      "finding_tips": "夏秋在叶背找鲜绿色具毛丛的幼虫。**只看不碰**，常成群集中。"
+    }
+  },
+  "Poecilocoris lewisi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカスジキンカメムシ。緑〜青の金属光沢の体に赤い縞が走る非常に美しい大型のキンカメムシ。「歩く宝石」とも称されます。",
+      "habitat_hint": "雑木林、神社の境内、ミズキ・サンゴジュなどの木、明るい林縁。",
+      "finding_tips": "葉の上で金属光沢の美しい大型カメムシを探します。日本一美しいカメムシともよばれ、見つけたら必見です。"
+    },
+    "en": {
+      "summary": "Akasuji-kinkamemushi. A spectacular large shield bug with green-to-blue metallic body and red stripes. Often called a 'walking jewel'.",
+      "habitat_hint": "Mixed woodland, shrine grounds, dogwood and viburnum trees, and bright woodland edges.",
+      "finding_tips": "Look on leaves for a large bug with intense metallic green-blue iridescence and red stripes. Considered one of Japan's most beautiful bugs."
+    },
+    "zh": {
+      "summary": "丽锦蝽（红条金宝蝽）。大型蝽，体具金属绿蓝光泽配红色条纹，被誉为『行走的宝石』。",
+      "habitat_hint": "杂木林、神社境内、灯台树/珊瑚树等树木、明亮林缘。",
+      "finding_tips": "在叶上找金属绿蓝光泽配红色条纹的大型蝽。被誉为日本最美蝽之一。"
+    }
+  },
+  "Quercus glauca": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アラカシ。常緑のカシ類で、葉の上部に粗い鋸歯があり、葉裏が白っぽいのが特徴。神社の境内や雑木林に普通に見られます。",
+      "habitat_hint": "神社の境内、社寺林、雑木林、街路樹、防風林、屋敷林。",
+      "finding_tips": "光沢のある楕円形の常緑葉で、上部に粗い鋸歯があるものを探します。秋に細長いどんぐりが落ちます。シラカシより葉が粗いです。"
+    },
+    "en": {
+      "summary": "Ring-cup Oak. An evergreen oak with leaves that are coarsely serrated on the upper half and pale-green underneath. Common in shrine groves and mixed woodland.",
+      "habitat_hint": "Shrine grounds, shrine groves, mixed woodland, street trees, windbreaks, and homestead woods.",
+      "finding_tips": "Look for an evergreen with glossy oval leaves whose upper half is coarsely toothed. Slender autumn acorns. Leaves are more coarsely toothed than Bamboo-leaf Oak."
+    },
+    "zh": {
+      "summary": "青冈，常绿栎。叶上半部具粗锯齿，叶背浅绿。神社境内和杂木林常见。",
+      "habitat_hint": "神社境内、神社树林、杂木林、行道树、防风林、住宅林。",
+      "finding_tips": "找叶椭圆有光泽、上半部具粗锯齿的常绿树。秋季有细长橡子。比小叶青冈叶粗。"
+    }
+  },
+  "Neoscona scylloides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サツマノミダマシ。緑色の腹部に黒い斑紋がある美しい中型のコガネグモ類。果実の「さつまのみ（みかんの実）」に似た腹部から命名されました。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、低木の間、明るい園路の縁。",
+      "finding_tips": "夜、低木の間に張られた円網と、緑色の腹部に黒斑のクモを探します。日中は葉の裏や物陰に隠れています。"
+    },
+    "en": {
+      "summary": "An orb-weaver with a green abdomen bearing black markings. The Japanese name refers to the resemblance of the abdomen to a satsuma mandarin.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, between shrubs, and bright path edges.",
+      "finding_tips": "At night look for orb webs between shrubs and spiders with greenish abdomens marked in black. By day they hide under leaves or in shaded retreats."
+    },
+    "zh": {
+      "summary": "新园蛛，腹部绿色配黑斑的中型园蛛。日文俗名因腹形似柑橘果实。",
+      "habitat_hint": "林缘、河滩灌丛、神社境内、灌木间、明亮园路边。",
+      "finding_tips": "夜里在灌丛间找圆网，腹绿带黑斑即是。白天藏在叶背或阴处。"
+    }
+  },
+  "Acusta sieboldtiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスカワマイマイ。日本本州・四国・九州に普通の中型カタツムリ。殻は薄く、淡褐色で、湿った林床や石垣の下で見られます。",
+      "habitat_hint": "雑木林の林床、湿った石垣、神社の境内、家庭菜園、雨上がりの園路。",
+      "finding_tips": "雨上がりや早朝、地面や石垣の下で殻径2cm程度の淡褐色の薄い殻のカタツムリを探します。"
+    },
+    "en": {
+      "summary": "A common medium native land snail across Honshu/Shikoku/Kyushu. Pale brown thin shell about 2 cm across; found in damp leaf litter and under stones.",
+      "habitat_hint": "Forest understory, damp stone walls, shrine grounds, kitchen gardens, and paths after rain.",
+      "finding_tips": "After rain or early in the morning look on the ground and under stones for snails with pale-brown thin shells about 2 cm across."
+    },
+    "zh": {
+      "summary": "球蜗牛一种（Siebold 蜗牛），本州/四国/九州常见的中型蜗牛。壳薄、淡褐色，常见于潮湿林床与石墙下。",
+      "habitat_hint": "杂木林林床、潮湿石墙、神社境内、家庭菜园、雨后园路。",
+      "finding_tips": "雨后或清晨在地面或石下找壳径约 2 cm 的淡褐色薄壳蜗牛。"
+    }
+  },
+  "Ajuga nipponensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジュウニヒトエ。在来種のシソ科で、春に淡紫色の唇形花が花穂状に重なって咲きます。「十二単」のような姿が名前の由来です。",
+      "habitat_hint": "雑木林の林床、明るい斜面、神社の参道脇、半日陰の草地。",
+      "finding_tips": "4〜5月、地面から立ち上がる茎に淡紫色の唇形花が穂状に重なる植物を探します。葉は対生、毛で覆われた葉と茎が独特です。"
+    },
+    "en": {
+      "summary": "Japanese Bugleweed. A native mint with pale violet lipped flowers stacked into a tiered spike — the layered look inspired the Japanese name 'twelve-layered robe'.",
+      "habitat_hint": "Forest understory, bright slopes, shrine paths, and shaded grass.",
+      "finding_tips": "From April to May look for plants with tiered spikes of pale-violet lipped flowers. Hairy opposite leaves and stems are distinctive."
+    },
+    "zh": {
+      "summary": "日本筋骨草，本土唇形科。春季淡紫色唇形花层叠成穗，形似日本『十二单』层袍而得名。",
+      "habitat_hint": "杂木林林床、明亮斜坡、神社参道旁、半阴草地。",
+      "finding_tips": "四至五月寻找抽出层叠淡紫唇形花穗的植物。叶对生、茎叶多毛。"
+    }
   }
 }
