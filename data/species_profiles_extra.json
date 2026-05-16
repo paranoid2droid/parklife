@@ -2951,5 +2951,329 @@
       "habitat_hint": "池塘、蓄水池、湿地、缓流河段、灌渠。",
       "finding_tips": "夜里池塘传来低沉鸣叫即是。成体长 10–20 cm，常在岸边晒太阳。**禁止捕捉、运输和饲养。**"
     }
+  },
+  "Neope goschkevitschii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サトキマダラヒカゲ。黄褐色の翅に目玉模様が並ぶ里地のジャノメチョウ。雑木林の薄暗い林床や林縁を低くフラフラと飛びます。",
+      "habitat_hint": "雑木林の林床、林縁、樹液場、神社の参道。",
+      "finding_tips": "薄暗い林の中を低くゆっくり飛ぶ茶色いチョウを探します。樹液に集まることも多く、樹幹で他のチョウやカナブンと一緒に観察できます。"
+    },
+    "en": {
+      "summary": "A satyrid butterfly of secondary woodland. Pale brown wings with eye-spots; flies slowly and low through woodland understory.",
+      "habitat_hint": "Mixed woodland understory, woodland edges, sap flows, and shrine paths.",
+      "finding_tips": "In shaded woods watch for a slow, low-flying brown butterfly. Often joins sap flows where it can be observed beside other butterflies and beetles."
+    },
+    "zh": {
+      "summary": "里山的眉眼蝶，翅黄褐带眼斑。在阴暗林下与林缘低空缓飞。",
+      "habitat_hint": "杂木林林床、林缘、树液处、神社参道。",
+      "finding_tips": "阴林中找低飞缓行的褐色蝶。常聚集于树液处，与其他蝶和金龟同观。"
+    }
+  },
+  "Lema diversipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クズクビボソハムシ。クズの葉を食害する細長い首と背中の赤い小型ハムシ。葉に小さな穴を多数あけます。",
+      "habitat_hint": "クズの繁る河川敷、空き地、林縁、住宅地のフェンス。",
+      "finding_tips": "クズの葉に小さな丸い食痕が並んでいたら、葉裏や茎に赤+黒の細長いハムシを探してください。"
+    },
+    "en": {
+      "summary": "A long-necked leaf beetle with a red pronotum that feeds on kudzu. Adults pock the leaves with small round holes.",
+      "habitat_hint": "Kudzu thickets on riverbanks, vacant lots, woodland edges, and residential fences.",
+      "finding_tips": "If kudzu leaves are pocked with many small round holes, check the leaf undersides and stems for slender red-and-black beetles."
+    },
+    "zh": {
+      "summary": "葛长颈叶甲，颈细长、前胸红色的小叶甲，食葛叶，叶上留小圆孔。",
+      "habitat_hint": "河滩葛丛、空地、林缘、住宅围栏。",
+      "finding_tips": "葛叶有许多小圆食痕时，在叶背和茎找红黑相间的细长叶甲。"
+    }
+  },
+  "Argyreus hyperbius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツマグロヒョウモン（学名異表記）。雌雄差が大きく、雌は前翅先端が黒く青白い帯を持ち、毒チョウのカバマダラに擬態します。温暖化で関東以北に拡大中。",
+      "habitat_hint": "公園の花壇、河川敷、雑木林の林縁、スミレの生える明るい場所。",
+      "finding_tips": "オレンジ+黒い豹紋模様。雌は翅先端の黒が大きいので地味に見えますが、近寄ると識別できます。"
+    },
+    "en": {
+      "summary": "Indian Fritillary (alternate genus name). Strong dimorphism: females mimic the toxic Plain Tiger with black wingtips and pale bands. Range expanding north with climate warming.",
+      "habitat_hint": "Flower beds, riverbanks, woodland edges, and sunny places with violets.",
+      "finding_tips": "Orange with black leopard markings. The female's larger black tips make it look duller — close up reveals the mimicry pattern."
+    },
+    "zh": {
+      "summary": "斐豹蛱蝶（属名异写）。雌雄差异显著，雌虫拟态金斑蝶。随气候变暖向北扩展。",
+      "habitat_hint": "花坛、河滩、林缘、有堇菜的向阳处。",
+      "finding_tips": "翅橙黑豹纹。雌虫翅尖大块黑色看似朴素，近观可识拟态特征。"
+    }
+  },
+  "Byasa alcinous": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジャコウアゲハ。雌雄ともに翅が黒っぽく、尾状突起を持つ大型のアゲハチョウ。幼虫の食草はウマノスズクサで、有毒です。",
+      "habitat_hint": "雑木林の林縁、河川敷、ウマノスズクサの生える明るい場所、神社の参道。",
+      "finding_tips": "翅を閉じて止まり、長い尾状突起を見せるアゲハ類を探します。雌は色がやや明るく、雄はより暗い色合いです。"
+    },
+    "en": {
+      "summary": "Chinese Windmill, a large swallowtail with dark wings and long tails. Larvae feed on Aristolochia (birthwort) and accumulate toxins.",
+      "habitat_hint": "Woodland edges, riverbanks, sunny places with birthwort vines, and shrine paths.",
+      "finding_tips": "Look for a dark swallowtail with very long tail extensions. Females are slightly paler than males."
+    },
+    "zh": {
+      "summary": "麝凤蝶，大型黑色翅带长尾突的凤蝶。幼虫食马兜铃，体内积聚毒素。",
+      "habitat_hint": "林缘、河滩、有马兜铃的向阳处、神社参道。",
+      "finding_tips": "找翅深色配长尾突的凤蝶。雌虫色稍浅，雄虫更深。"
+    }
+  },
+  "Fringilla montifringilla": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アトリ。冬鳥として渡来する小鳥で、頭部とお腹の橙色が鮮やか。大群で雑木林の樹冠を移動することがあります。",
+      "habitat_hint": "雑木林、農地の縁、河川敷の樹木、社寺林、ハンノキの林。",
+      "finding_tips": "11〜3月、群れで木の上を移動する小鳥を探します。胸の橙色がよく目立ち、群れごと一斉に飛び立つのも特徴です。"
+    },
+    "en": {
+      "summary": "Brambling, a wintering finch. Bright orange wash on the head and breast. Forms large mobile flocks through woodland canopies.",
+      "habitat_hint": "Mixed woodland, field margins, riverside trees, shrine groves, and alder woods.",
+      "finding_tips": "From November to March watch for flocks moving through tree tops. The orange chest is unmistakable; the whole flock often flushes at once."
+    },
+    "zh": {
+      "summary": "燕雀，冬季渡来。头胸橙色鲜明，常成大群在杂木林冠层移动。",
+      "habitat_hint": "杂木林、田边、河岸树木、神社树林、桤木林。",
+      "finding_tips": "11月至3月观察树冠成群移动的小鸟。胸前橙色显眼，整群同时起飞也是特征。"
+    }
+  },
+  "Schizophyllum commune": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スエヒロタケ。世界中に広く分布する小型のキノコで、世界最多の交配型（マッチング型）を持つ生物として有名です。倒木や枯れ枝に密生します。",
+      "habitat_hint": "倒木、枯れ枝、伐採後の切り株、湿った木材。",
+      "finding_tips": "白っぽくふさふさした扇形のキノコが倒木や枝に密集して生えていれば本種の可能性大。乾燥に強く、雨で復活します。"
+    },
+    "en": {
+      "summary": "Split-gill Fungus, a widespread small bracket. Famous for having the most mating types of any known organism. Grows in dense clumps on dead wood.",
+      "habitat_hint": "Logs, dead branches, stumps after logging, and damp wood.",
+      "finding_tips": "Dense colonies of small whitish fan-shaped brackets on dead wood are likely this species. Drought-tolerant; reactivates when wet."
+    },
+    "zh": {
+      "summary": "裂褶菌，全球广布的小型多孔菌。以拥有所有已知生物中最多的交配型而著名。常密集生于朽木枯枝。",
+      "habitat_hint": "倒木、枯枝、伐后树桩、潮湿木材。",
+      "finding_tips": "朽木上密集成簇的白色扇形小菌大概率即是。耐旱，遇水复活。"
+    }
+  },
+  "Imperata cylindrica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チガヤ。初夏に綿毛状の白い花穂を立てるイネ科の多年草。河川敷や土手で群生し、独特の景観を作ります。",
+      "habitat_hint": "河川敷、堤防、休耕田、空き地、火入れ後の草地。",
+      "finding_tips": "5〜6月、人の腰高に白くフワフワした花穂が群がる場所を探します。風になびく姿が遠目にも目立ちます。"
+    },
+    "en": {
+      "summary": "Cogon Grass, a perennial grass with fluffy white flower spikes in early summer. Forms striking colonies on riverbanks and levees.",
+      "habitat_hint": "Riverbanks, levees, fallow fields, vacant lots, and grasslands after burning.",
+      "finding_tips": "In May and June look for waist-high colonies with fluffy white plumes that catch the wind."
+    },
+    "zh": {
+      "summary": "白茅，禾本科多年生草，初夏抽出白色绒毛花穗。在河滩与堤岸成片，颇具特色。",
+      "habitat_hint": "河滩、堤岸、休耕田、空地、烧荒后的草地。",
+      "finding_tips": "五至六月在腰高处寻找成片的白色绒毛花穗，风中起伏。"
+    }
+  },
+  "Camellia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツバキ。冬〜春に大輪の赤い花を咲かせる常緑樹。日本の冬の代表的な花木で、メジロやヒヨドリが蜜を吸いに来ます。",
+      "habitat_hint": "庭園、神社の境内、雑木林の林床、社寺林、海岸に近い斜面。",
+      "finding_tips": "光沢のある厚い葉の常緑樹に赤い花を探します。花が「ぽとり」と丸ごと落ちるのが特徴で、地面に落ちた花も観察ポイントです。"
+    },
+    "en": {
+      "summary": "Camellia, an evergreen tree with large red flowers in winter and early spring. A signature winter bloom in Japan that attracts White-eyes and Brown-eared Bulbuls for nectar.",
+      "habitat_hint": "Gardens, shrine grounds, forest understory, shrine groves, and slopes near coasts.",
+      "finding_tips": "Look for glossy evergreen leaves with red flowers. Whole flowers drop intact to the ground — fallen flowers are equally part of the scene."
+    },
+    "zh": {
+      "summary": "山茶，冬至春开大型红花的常绿乔木。是日本冬季代表花木，常引来绣眼鸟和栗耳短脚鹎吸蜜。",
+      "habitat_hint": "庭园、神社境内、林床、神社树林、近海斜坡。",
+      "finding_tips": "找叶厚有光泽的常绿树带红花。花朵会整朵掉落于地，也是赏景点。"
+    }
+  },
+  "Geisha distinctissima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオバハゴロモ。淡緑色の翅と白い粉のような体表が特徴の小型の半翅目。葉や枝に並んで止まる姿が観察しやすいです。",
+      "habitat_hint": "雑木林、低木のある園路、河川敷の樹木、庭の生け垣。",
+      "finding_tips": "夏〜秋、葉や枝に三角形の淡緑色の小さな虫が並んで止まっていれば本種。幼虫は白い綿毛をまとった奇妙な姿です。"
+    },
+    "en": {
+      "summary": "Green-Winged Planthopper, a small hopper with pale-green wings and a powdery body. Often perches in lines along twigs and leaves.",
+      "habitat_hint": "Mixed woodland, shrubby paths, riverside trees, and garden hedges.",
+      "finding_tips": "From summer to autumn look for rows of triangular pale-green insects on leaves and twigs. Nymphs are covered in white waxy fluff and look like little snowballs."
+    },
+    "zh": {
+      "summary": "青蛾蜡蝉，翅淡绿、体覆白粉。常排列停在枝叶上，易观察。",
+      "habitat_hint": "杂木林、有灌木的园路、河岸树木、庭园绿篱。",
+      "finding_tips": "夏秋枝叶上排列的三角形淡绿色小虫即是。若虫覆白色棉毛状蜡，状似小雪球。"
+    }
+  },
+  "Emberiza schoeniclus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオジュリン。ヨシ原で繁殖する小鳥で、冬は河川敷のヨシ茂みに集まります。雄夏羽は頭が黒く、白い顎線が目立ちます。",
+      "habitat_hint": "ヨシ原、湿地、河川敷の草地、葦の茂み、湿地の縁。",
+      "finding_tips": "冬、ヨシの茎を「カサカサ」とほぐして食べる音や、群れの「チッ」と鳴く声で気づきます。茎にぴたっと縦に止まる姿が特徴です。"
+    },
+    "en": {
+      "summary": "Reed Bunting. Breeds in reedbeds; in winter flocks gather in reedy riverbanks. Breeding males have a black head and white moustache.",
+      "habitat_hint": "Reedbeds, wetlands, grassy riverbanks, willow reed thickets, and wetland edges.",
+      "finding_tips": "In winter listen for the sound of birds shredding reed stems and short 'tic' calls. They perch vertically along reed stems."
+    },
+    "zh": {
+      "summary": "苇鹀，在芦苇丛中繁殖，冬季成群于河滩芦苇。繁殖羽雄鸟头黑、唇白显眼。",
+      "habitat_hint": "芦苇丛、湿地、河滩草地、柳苇丛、湿地边。",
+      "finding_tips": "冬天注意撕咬芦苇茎的声音和『嘁』短叫。鸟垂直贴茎而立。"
+    }
+  },
+  "Trilophidia annulata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イボバッタ。背中に大きなイボ状の突起がある中型のバッタ。河川敷の砂地や石ころ地に多く、保護色で見つけにくいです。",
+      "habitat_hint": "河川敷の砂礫地、空き地、土手、明るい裸地。",
+      "finding_tips": "歩いていて足元から飛び出す茶色いバッタを目で追います。胸の上のとがった「イボ」を確認できれば本種です。"
+    },
+    "en": {
+      "summary": "A medium grasshopper with a prominent wart-like ridge on the thorax. Common on sandy and rocky riverbanks; cryptically coloured.",
+      "habitat_hint": "Gravelly riverbanks, vacant lots, levees, and bright bare ground.",
+      "finding_tips": "Watch grasshoppers that explode from underfoot. The sharp 'wart' on the pronotum confirms ID when it lands."
+    },
+    "zh": {
+      "summary": "疣蝗，胸背具显著疣状突起的中型蝗虫。多见于河滩沙砾地，伪装色重难找。",
+      "habitat_hint": "河滩砂砾地、空地、堤岸、明亮裸地。",
+      "finding_tips": "脚边跳出的褐色蝗虫，落下后看胸背尖『疣』突可确认。"
+    }
+  },
+  "Hestina persimilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゴマダラチョウ。本来日本に普通の在来チョウですが、近年は外来種のアカボシゴマダラに圧迫されつつあります。翅は白地に黒い網目模様。",
+      "habitat_hint": "雑木林、林縁、エノキやアカメガシワのある場所、河川敷の樹木。",
+      "finding_tips": "白黒のチョウを樹液場や腐果で探します。エノキの近くは要チェック。アカボシゴマダラより赤斑がないか少ない点で区別できます。"
+    },
+    "en": {
+      "summary": "Siren / Japanese hackberry butterfly, a native nymphalid increasingly squeezed by the invasive H. assimilis. Wings white with a black net pattern.",
+      "habitat_hint": "Mixed woodland, woodland edges, areas with hackberry or Mallotus, and riverside trees.",
+      "finding_tips": "Look at sap flows and rotten fruit, especially near hackberry, for black-and-white butterflies. Lack or near-lack of red spots separates it from invasive H. assimilis."
+    },
+    "zh": {
+      "summary": "白蛱蝶，日本本土蝶种，近年受外来蝶（H. assimilis）的竞争压力。翅白底带黑色网纹。",
+      "habitat_hint": "杂木林、林缘、有朴树或赤芽柏的地方、河岸树木。",
+      "finding_tips": "在树液处和腐果上找黑白蝶，朴树附近最值得留意。无或少红斑可与外来近缘种区分。"
+    }
+  },
+  "Anoplophora chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゴマダラカミキリ。黒地に白い斑点のある大型のカミキリムシ。多くの広葉樹を食害し、特に街路樹や果樹で害虫として知られます。",
+      "habitat_hint": "雑木林、街路樹、果樹園、河川敷の樹木、神社の境内の太い樹。",
+      "finding_tips": "夏、樹幹や枝の根元で長い触角を持つ黒+白斑のカミキリを探します。**雄の長い触角は体長の倍。** 樹皮にかじり跡や穴があれば被害の兆候です。"
+    },
+    "en": {
+      "summary": "Citrus Long-horned Beetle, a large black beetle with white spots. Bores into many broadleaf trees and is a significant pest of street and orchard trees.",
+      "habitat_hint": "Mixed woodland, street trees, orchards, riverside trees, and thick trees in shrine grounds.",
+      "finding_tips": "In summer search trunks for a big black beetle with white spots and long antennae. **Male antennae are about twice the body length.** Bark damage or holes signal infestation."
+    },
+    "zh": {
+      "summary": "光肩星天牛，大型黑底白斑天牛。蛀食多种阔叶树，是街道行道树和果园的重要害虫。",
+      "habitat_hint": "杂木林、行道树、果园、河岸树木、神社境内的粗树。",
+      "finding_tips": "夏季在树干寻找黑底白斑长触角的天牛。**雄虫触角约为体长两倍。** 树皮咬痕或孔洞即受害迹象。"
+    }
+  },
+  "Aix galericulata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オシドリ。雄の極彩色の羽と「銀杏羽」が美しいカモ。森林の池や渓流付近で繁殖し、冬は群れで池に集まります。",
+      "habitat_hint": "森林の池、ダム湖、渓流、雑木林に囲まれた池、神社の池。",
+      "finding_tips": "森林に近い池で雄の極彩色を探します。警戒心が強く、近づくとすぐ岸の木陰に隠れます。岸辺の落葉のような色合いの雌も観察してください。"
+    },
+    "en": {
+      "summary": "Mandarin Duck. Drakes display extraordinary colour and erect 'sail' tertials. Breeds near forested ponds and streams; flocks gather on ponds in winter.",
+      "habitat_hint": "Forest ponds, reservoirs, streams, woodland-fringed ponds, and shrine pools.",
+      "finding_tips": "Look on forested ponds for the male's flamboyant plumage. They are wary — even at a distance they may slip into shoreline shadows. Females are subtly beautiful too."
+    },
+    "zh": {
+      "summary": "鸳鸯，雄鸟羽色极绚丽，背部三级飞羽形如『银杏帆』。在林边池塘溪流繁殖，冬季成群。",
+      "habitat_hint": "林间池塘、水库、溪流、林木环绕的池塘、神社池。",
+      "finding_tips": "在林边水域寻找雄鸟极彩。警觉性高，常迅速躲入岸边树荫。雌鸟亦颇雅致。"
+    }
+  },
+  "Taraxacum officinale": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セイヨウタンポポ。外来種のタンポポで、在来種より広く繁殖。総苞片が反り返るのが識別ポイントです。",
+      "habitat_hint": "道端、芝生、河川敷、農地、空き地、舗装の隙間。",
+      "finding_tips": "黄色いタンポポの花を見つけたら花の付け根を観察。総苞片が外向きに反り返っていれば本種、ぴったり付いていれば在来種。"
+    },
+    "en": {
+      "summary": "Common Dandelion, an introduced species now widespread. Recurved bracts at the flower base separate it from native dandelions.",
+      "habitat_hint": "Roadsides, lawns, riverbanks, farmland, vacant lots, and pavement cracks.",
+      "finding_tips": "Spot a yellow dandelion, then check the bracts behind the flower — outward-curling bracts mean this introduced species; bracts pressed up mean a native."
+    },
+    "zh": {
+      "summary": "西洋蒲公英，外来已广泛归化。花基总苞片向外反折，是与本土蒲公英的关键区分。",
+      "habitat_hint": "路边、草坪、河滩、农田、空地、铺装缝隙。",
+      "finding_tips": "找到黄色蒲公英后观察花基总苞片：外卷为本种，紧贴为本土。"
+    }
+  },
+  "Phylloscopus coronatus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "センダイムシクイ。夏鳥として渡来する小型のムシクイ。「焼酎一杯ぐぃー」と聞こえる独特のさえずりで有名です。",
+      "habitat_hint": "雑木林、社寺林、針葉樹林、ブナ林、山地の樹冠。",
+      "finding_tips": "5〜8月、樹冠から「焼酎一杯ぐぃー」のメロディが聞こえたら本種。姿は小さく動きが速いので、声で確認するのが現実的です。"
+    },
+    "en": {
+      "summary": "Eastern Crowned Warbler, a summer visitor. Famous for a distinctive song often transcribed in Japanese as 'shochu ippai gui'.",
+      "habitat_hint": "Mixed woodland, shrine groves, conifer forest, beech forest, and montane canopies.",
+      "finding_tips": "From May to August, listen high for the characteristic phrase. The bird is small and fast — identifying by song is most practical."
+    },
+    "zh": {
+      "summary": "冕柳莺，夏候鸟。鸣声独特，常被日文转译为『烧酒一杯』。",
+      "habitat_hint": "杂木林、神社树林、针叶林、山毛榉林、山地树冠。",
+      "finding_tips": "五至八月树冠传来特征鸣唱即是。鸟体小动作快，靠声辨识最实用。"
+    }
+  },
+  "Anisocampium niponicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌワラビ。湿った林床や谷沿いに普通に見られる中型のシダ。葉軸が赤紫色を帯びるのが識別ポイントです。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、湿った半日陰、水辺の斜面。",
+      "finding_tips": "葉軸（葉の中央の茎）が赤紫色を帯びる中型のシダを探します。胞子嚢群は葉裏に細長く並びます。"
+    },
+    "en": {
+      "summary": "Japanese Lady Fern, a medium fern of damp forest floor and valley sides. The reddish-purple rachis is a key feature.",
+      "habitat_hint": "Forest understory, valley woods, damp half-shade, and waterside slopes.",
+      "finding_tips": "Look for a mid-sized fern whose central stem (rachis) is flushed reddish-purple. Sori on the underside appear as elongated bands."
+    },
+    "zh": {
+      "summary": "日本蹄盖蕨，常见于潮湿林床与谷地的中型蕨类。叶轴带紫红是关键识别点。",
+      "habitat_hint": "杂木林林床、谷地林、潮湿半阴、水边斜坡。",
+      "finding_tips": "找叶轴带紫红色的中型蕨。叶背孢子囊群成长条状排列。"
+    }
+  },
+  "Geranium carolinianum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカフウロ。北米原産の外来種で、春に小さなピンク色の花を多数つけます。葉が深く切れ込むのが特徴です。",
+      "habitat_hint": "河川敷、農地の縁、芝生、道端、空き地、明るい斜面。",
+      "finding_tips": "4〜6月、地面に広がる切れ込みの深い葉と、5弁の小さなピンク花を探します。実の形が「神輿の鳥居」のような独特の細長い形です。"
+    },
+    "en": {
+      "summary": "Carolina Geranium, a small introduced geranium from North America. Many small pink flowers in spring; deeply lobed leaves.",
+      "habitat_hint": "Riverbanks, field margins, lawns, roadsides, vacant lots, and bright slopes.",
+      "finding_tips": "From April to June look low for sprawling plants with deeply lobed leaves and small pink five-petalled flowers. The crane's-bill seed pods are slim and pointed."
+    },
+    "zh": {
+      "summary": "卡罗来纳老鹳草，外来。春季开许多粉色小花，叶深裂。",
+      "habitat_hint": "河滩、田边、草坪、路边、空地、明亮斜坡。",
+      "finding_tips": "四至六月低头找贴地的深裂叶配粉色五瓣小花。果实细长尖如鹤喙。"
+    }
   }
 }
