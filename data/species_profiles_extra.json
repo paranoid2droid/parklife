@@ -8063,5 +8063,167 @@
       "habitat_hint": "杂木林林床、明亮斜坡、神社参道旁、半阴草地。",
       "finding_tips": "四至五月寻找抽出层叠淡紫唇形花穗的植物。叶对生、茎叶多毛。"
     }
+  },
+  "Euonymus alatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニシキギ。秋の真紅の紅葉と、コルク質の翼がある独特の枝が特徴の落葉低木。「世界三大紅葉樹」のひとつとも言われます。",
+      "habitat_hint": "雑木林の林縁、神社の境内、庭園、明るい斜面、社寺林。",
+      "finding_tips": "枝に翼状のコルクの突起がある低木を探します。秋の真紅の紅葉は遠目にも目立ち、燃えるような色は他種に類を見ません。"
+    },
+    "en": {
+      "summary": "Burning Bush, a deciduous shrub famous for fiery scarlet autumn foliage and corky wings along the twigs. Often called one of the world's most striking autumn shrubs.",
+      "habitat_hint": "Woodland edges, shrine grounds, gardens, bright slopes, and shrine groves.",
+      "finding_tips": "Look for a shrub with prominent corky wings on the twigs. In autumn the vivid scarlet leaves are unmistakable from a distance."
+    },
+    "zh": {
+      "summary": "卫矛（『锦木』），落叶灌木。秋季真红色叶艳丽，枝条具软木质翼状突起，被称世界三大红叶树之一。",
+      "habitat_hint": "林缘、神社境内、庭园、明亮斜坡、神社树林。",
+      "finding_tips": "找枝条具软木翼突的灌木。秋季鲜红叶远观即显眼。"
+    }
+  },
+  "Helwingia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハナイカダ。葉の中央に花や実がつく非常に珍しい姿の落葉低木。雌雄異株で、雌株は秋に葉の上に黒い実をのせます。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、社寺林、半日陰の斜面。",
+      "finding_tips": "葉の中央に小さな花や黒い実が乗っている植物を探します。雌株は秋にしっかりした黒い実を葉の上にのせ、雄株は4〜6月の小さな花のみ。"
+    },
+    "en": {
+      "summary": "Hanaikada ('flower raft'). A deciduous shrub remarkable for bearing flowers — and later fruits — directly on the leaf surface. Dioecious; female plants display black fruits perched on leaves in autumn.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, shrine groves, and shaded slopes.",
+      "finding_tips": "Look for a shrub with small flowers (or, on females, black fruits) sitting in the middle of the leaf — unlike any other plant you'll see."
+    },
+    "zh": {
+      "summary": "青荚叶（『花筏』），落叶灌木。花和果实长在叶面中央，独特罕见。雌雄异株，雌株秋季叶上有显眼黑果。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、神社树林、半阴斜坡。",
+      "finding_tips": "找叶面中央有小花或黑果的灌木。雌株秋季叶上落坐黑色果实，绝无仅有。"
+    }
+  },
+  "Stellaria media": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コハコベ。春の七草の一つで、世界中に広く分布する小型の越年草。白い小花を多数つけ、葉や茎は柔らかく食用になります。",
+      "habitat_hint": "畑、道端、河川敷、芝生、空き地、舗装の隙間。",
+      "finding_tips": "3〜5月、地面に這うように広がる柔らかい植物で、白い5弁花（実は10裂に見える）の小花を探します。春の七草として親しまれます。"
+    },
+    "en": {
+      "summary": "Common Chickweed, one of Japan's Seven Spring Herbs. A small overwintering annual found worldwide; soft leaves and stems are edible.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, lawns, vacant lots, and pavement cracks.",
+      "finding_tips": "From March to May look for sprawling soft plants with tiny white flowers whose five petals are each so deeply notched they look like ten."
+    },
+    "zh": {
+      "summary": "繁缕，日本『春之七草』之一，全球广布的越年生小草。开许多白色小花（5瓣深裂似 10瓣），叶茎柔软可食。",
+      "habitat_hint": "菜园、路边、河滩、草坪、空地、铺装缝。",
+      "finding_tips": "三至五月找贴地匍匐的柔软植物，白色小花 5 瓣深裂似 10 瓣。"
+    }
+  },
+  "Oreumenes decoratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズバチ。腹部が細長い長い柄のあるドロバチで、土でつぼ型の巣を作ります。「鈴」を吊るしたような独特の姿が美しいです。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、家屋の壁、軒下、土の露出した場所。",
+      "finding_tips": "細長い腹部が独特のドロバチ。土でつぼ型の巣を作り、中にイモムシを詰めて卵を産みます。**素手で巣に触らないこと。**"
+    },
+    "en": {
+      "summary": "A potter wasp with a long slender abdominal pedicel — like a hanging bell. Builds elegant pot-shaped mud nests stocked with caterpillars for the larvae.",
+      "habitat_hint": "Woodland edges, bright slopes, house walls, under eaves, and exposed soil.",
+      "finding_tips": "Long-petioled potter wasp building pot-shaped mud nests on walls and under eaves. **Do not handle nests bare-handed.**"
+    },
+    "zh": {
+      "summary": "蜾蠃科长腹蜂，腹部细长有柄如吊钟。用泥做壶状巢，内储毛虫供幼虫食。",
+      "habitat_hint": "林缘、明亮斜坡、房屋外墙、屋檐下、裸土处。",
+      "finding_tips": "腹部细长有柄的泥蜂，墙面和屋檐下做壶状泥巢。**勿徒手碰巢。**"
+    }
+  },
+  "Chlorophorus quinquefasciatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨツスジトラカミキリ。黒地に明るい黄色〜橙色の縞模様のあるカミキリムシで、スズメバチに擬態したと言われます。花を訪れる日中活動性です。",
+      "habitat_hint": "花壇、河川敷の花、雑木林の林縁、神社の境内、明るい園路の縁。",
+      "finding_tips": "夏、花の上で黒地に黄〜橙色の縞模様のカミキリを探します。スズメバチに似て見えますが、無害です。"
+    },
+    "en": {
+      "summary": "A black-and-bright-yellow longhorn beetle thought to mimic hornets. Day-active and visits flowers.",
+      "habitat_hint": "Flower beds, riverside flowers, woodland edges, shrine grounds, and bright path edges.",
+      "finding_tips": "In summer find a longhorn beetle on flowers with bold black-and-yellow stripes. Looks waspish — harmless to handle."
+    },
+    "zh": {
+      "summary": "四纹虎天牛，黑底配明黄橙色横纹的天牛，拟态胡蜂。日间活动访花。",
+      "habitat_hint": "花坛、河滩花卉、林缘、神社境内、明亮园路边。",
+      "finding_tips": "夏季在花上找黑底带黄橙色横纹的天牛。形似胡蜂但无害。"
+    }
+  },
+  "Digitaria ciliaris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メヒシバ。世界中に広く分布する強健な雑草のイネ科。茎の先に放射状に伸びる細い穂をつけ、芝生や舗装の隙間にも普通に生えます。",
+      "habitat_hint": "芝生、道端、河川敷、農地の縁、空き地、舗装の隙間。",
+      "finding_tips": "7〜10月、茎の先から放射状に伸びた細い穂を持つイネ科を探します。オヒシバよりも穂が細く、地面を這うように広がります。"
+    },
+    "en": {
+      "summary": "Southern Crabgrass, a robust globally-distributed warm-climate grass. Slender flowering spikes radiate from the stem tip; thrives in lawns and pavement.",
+      "habitat_hint": "Lawns, roadsides, riverbanks, field margins, vacant lots, and pavement cracks.",
+      "finding_tips": "From July to October look for grasses with slender spikes radiating from the top of the stem. Spikes are thinner than Goosegrass; plants creep along the ground."
+    },
+    "zh": {
+      "summary": "升马唐，全球广布的强健禾本科杂草。茎顶散开数条细穗，常见于草坪与铺装缝。",
+      "habitat_hint": "草坪、路边、河滩、田边、空地、铺装缝。",
+      "finding_tips": "七至十月找茎顶散开细穗的禾本科。穗较牛筋草更细，常匍匐铺地。"
+    }
+  },
+  "Galium bungei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤエムグラ近縁のアカネ科植物。葉が4枚輪生し、白い小花を立ち上げます。湿った草地や林縁に普通です。",
+      "habitat_hint": "湿った草地、雑木林の林縁、河川敷、農地の縁、神社の境内。",
+      "finding_tips": "4枚の細長い葉が輪生し、白い小花を多数つける小型植物を探します。茎が四角形で、触ると粗いザラザラした手触りです。"
+    },
+    "en": {
+      "summary": "A bedstraw (Rubiaceae) with whorls of four leaves and small white flowers. Common in damp meadows and woodland edges.",
+      "habitat_hint": "Damp meadows, woodland edges, riverbanks, field margins, and shrine grounds.",
+      "finding_tips": "Look for a small plant with whorls of four narrow leaves and many tiny white flowers. Square stems feel rough to touch."
+    },
+    "zh": {
+      "summary": "线梗猪殃殃（茜草科），叶 4 枚轮生，开许多白色小花。常见于潮湿草地与林缘。",
+      "habitat_hint": "潮湿草地、林缘、河滩、田边、神社境内。",
+      "finding_tips": "找叶 4 枚轮生、开多个白色小花的小型植物。茎四棱粗糙。"
+    }
+  },
+  "Argiope minuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コガタコガネグモ。腹部に黄色と黒の縞模様がある中型のコガネグモ。本種もX字型の隠れ帯を網に作ります。",
+      "habitat_hint": "草地、河川敷の藪、低木の間、明るい園路の縁、農地の縁。",
+      "finding_tips": "草の間に張られた円網と、中央のX字形の白い帯を探します。ナガコガネグモより小型ですが、模様は似ています。"
+    },
+    "en": {
+      "summary": "A medium orb-weaver with yellow-and-black abdominal stripes. Like its larger relatives, it adorns its web with X-shaped white 'stabilimentum' bands.",
+      "habitat_hint": "Grassland, riverbank thickets, between low shrubs, bright path edges, and field margins.",
+      "finding_tips": "Find an orb web with an X-shaped white band in the centre — a smaller relative of the Wasp Spider with similar markings."
+    },
+    "zh": {
+      "summary": "小金蛛（小型蜜蛛），中型园蛛。腹部黄黑相间，网中央也常有 X 字形白色装饰带。",
+      "habitat_hint": "草地、河滩灌丛、低木间、明亮园路边、田边。",
+      "finding_tips": "找草丛中带 X 形白带的圆网。比横纹金蛛小，斑型相似。"
+    }
+  },
+  "Carex japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒゴクサ。湿った草地に生える小型のスゲ類。細長い葉を密に伸ばし、春〜初夏に細い花穂を立てます。",
+      "habitat_hint": "湿った草地、水田の畦、河川敷、神社の境内、半日陰の斜面。",
+      "finding_tips": "5〜6月、細長い緑の葉を密に伸ばす株から、細い花穂を立てる小型スゲを探します。林床や湿地でグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A small sedge of damp meadows. Slender leaves form dense tufts; thin flower spikes appear in late spring and early summer.",
+      "habitat_hint": "Damp meadows, paddy levees, riverbanks, shrine grounds, and shaded slopes.",
+      "finding_tips": "From May to June look for small sedges with dense narrow leaves and slender flower spikes. Often forms ground-covering colonies in damp places."
+    },
+    "zh": {
+      "summary": "日本薹草，潮湿草地的小型薹草。叶细长密生，春末初夏抽细花穗。",
+      "habitat_hint": "潮湿草地、田埂、河滩、神社境内、半阴斜坡。",
+      "finding_tips": "五至六月找细叶密生的小型薹草，抽细花穗。常成片覆地。"
+    }
   }
 }
