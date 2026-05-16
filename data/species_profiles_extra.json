@@ -7757,5 +7757,149 @@
       "habitat_hint": "水田、湿地、河滩、灌渠边、潮湿草地。",
       "finding_tips": "八至十月寻找腰高的植物，粉白色粗短花穗为辨识要点。叶中央常黑斑。"
     }
+  },
+  "Poa annua": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズメノカタビラ。世界中に広く分布する非常に普通の小型のイネ科。芝生や舗装の隙間にも生え、年中見られます。",
+      "habitat_hint": "芝生、道端、舗装の隙間、農地の縁、運動場、空き地。",
+      "finding_tips": "地面近くに広がる柔らかい緑の小型イネ科を探します。一年中花穂を立て、花穂の形が独特の三角錐状です。"
+    },
+    "en": {
+      "summary": "Annual Bluegrass, an almost cosmopolitan small grass. Grows in lawns, pavement cracks, and almost anywhere underfoot, year-round.",
+      "habitat_hint": "Lawns, roadsides, pavement cracks, field margins, sports fields, and vacant lots.",
+      "finding_tips": "Look low for a soft green small grass spreading along the ground. Triangular flower panicles appear year-round."
+    },
+    "zh": {
+      "summary": "早熟禾，全球广布的常见小型禾本科。草坪与铺装缝间均能生长，全年可见。",
+      "habitat_hint": "草坪、路边、铺装缝、田边、运动场、空地。",
+      "finding_tips": "在地面找柔软小型禾本科。花序为三角锥状，全年可抽。"
+    }
+  },
+  "Ixeris japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオジシバリ。地面を這うように広がるキク科多年草。春に黄色いタンポポに似た頭花を多数咲かせます。",
+      "habitat_hint": "水田の畦、河川敷、芝生、湿った草地、農地の縁。",
+      "finding_tips": "4〜6月、地面を這うつる状の茎と、タンポポに似た黄色い頭花を持つ植物を探します。葉は楕円形でロゼットを作ります。"
+    },
+    "en": {
+      "summary": "Ō-jishibari, a creeping composite. Yellow dandelion-like flowers in spring; runners spread along the ground.",
+      "habitat_hint": "Paddy levees, riverbanks, lawns, damp meadows, and field margins.",
+      "finding_tips": "From April to June look for low plants with yellow dandelion-like flowers and creeping stems. Oval leaves in rosettes."
+    },
+    "zh": {
+      "summary": "大苦荬菜（大叶剪刀股），匍匐多年生菊科。春季开许多类蒲公英黄色头花，茎匍匐铺地。",
+      "habitat_hint": "田埂、河滩、草坪、潮湿草地、田边。",
+      "finding_tips": "四至六月寻找匍匐茎配类蒲公英黄花的植物。叶椭圆形莲座。"
+    }
+  },
+  "Anas platyrhynchos": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マガモ。冬鳥のカモで、雄は緑光沢の頭と黄色いくちばし、栗色の胸が美しいです。日本中の池や河川で群れて見られます。",
+      "habitat_hint": "池、湖、河川、河口、湿地、公園の水辺。",
+      "finding_tips": "11〜3月、池で大きなカモの群れを探します。雄の緑頭は遠目にも目立ち、雌は地味な褐色斑模様です。「カルガモ」と交雑することもあります。"
+    },
+    "en": {
+      "summary": "Mallard. Wintering ducks; males have an iridescent green head, yellow bill, and chestnut breast. Common on ponds and rivers throughout Japan.",
+      "habitat_hint": "Ponds, lakes, rivers, estuaries, wetlands, and park waterbodies.",
+      "finding_tips": "From November to March look for large duck flocks. The male's green head is visible at distance; females are mottled brown. Hybridises with Spot-billed Duck."
+    },
+    "zh": {
+      "summary": "绿头鸭。冬季常见的鸭，雄鸟头部具绿色金属光泽、喙黄、胸栗色。各地池塘和河流常成群。",
+      "habitat_hint": "池塘、湖泊、河流、河口、湿地、公园水域。",
+      "finding_tips": "11月至3月观察池塘大鸭群。雄鸟绿头远观即显，雌鸟褐色斑驳。会与斑嘴鸭杂交。"
+    }
+  },
+  "Bothriospermum zeylanicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハナイバナ。小型のムラサキ科で、葉腋に小さな淡青色の花を咲かせます。葉の毛が特徴的で、畑や道端で普通に見られます。",
+      "habitat_hint": "畑、道端、河川敷、空き地、農地の縁、芝生。",
+      "finding_tips": "4〜10月、地面近くに咲く直径3mmほどの淡青色の小花を探します。葉や茎に細かい毛が密生する点でキュウリグサと区別できます。"
+    },
+    "en": {
+      "summary": "A small borage-family plant with tiny pale-blue flowers in leaf axils. Hairy leaves and stems are diagnostic.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, vacant lots, field margins, and lawns.",
+      "finding_tips": "From April to October look low for tiny ~3 mm pale-blue flowers. Densely hairy leaves and stems separate it from the related Trigonotis."
+    },
+    "zh": {
+      "summary": "斑种草，小型紫草科。叶腋开淡蓝色小花，叶茎多毛是辨识要点。",
+      "habitat_hint": "菜园、路边、河滩、空地、田边、草坪。",
+      "finding_tips": "四至十月低头找直径约 3 mm 的淡蓝色小花。叶茎密被细毛可与附地菜区分。"
+    }
+  },
+  "Elymus tsukushiensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カモジグサ。河川敷や農地の縁に普通の大型イネ科。穂が長く伸び、芒（のぎ）が垂れ下がるのが特徴です。",
+      "habitat_hint": "河川敷、農地の縁、空き地、堤防、明るい斜面。",
+      "finding_tips": "5〜7月、人の腰高ほどに育ち、長い芒のついた小穂が穂状に並ぶイネ科を探します。実は衣服にも引っ掛かりやすいです。"
+    },
+    "en": {
+      "summary": "A common large grass of riverbanks and field margins. Long awned spikes droop from the top of the stem.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, levees, and bright slopes.",
+      "finding_tips": "From May to July look for waist-high grasses with long awned spikes. The bristles can catch on clothing."
+    },
+    "zh": {
+      "summary": "鸭茅披碱草，河滩与田边常见的大型禾本科。穗长，具长芒下垂为特征。",
+      "habitat_hint": "河滩、田边、空地、堤岸、明亮斜坡。",
+      "finding_tips": "五至七月找腰高的禾本科，穗带长芒下垂。芒易粘衣物。"
+    }
+  },
+  "Gamochaeta pensylvanica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チチコグサモドキ。外来種のキク科で、ロゼット状の葉と細長い花穂が特徴。葉裏に白い綿毛があり、ハハコグサより細長い印象です。",
+      "habitat_hint": "畑、道端、河川敷、空き地、農地の縁。",
+      "finding_tips": "4〜10月、ロゼット状の葉と、地面から立ち上がる細長い花穂を持つ植物を探します。葉裏の綿毛と細長い花穂で類似種と区別。"
+    },
+    "en": {
+      "summary": "Pennsylvania Cudweed, an introduced composite. Rosette of leaves with white-woolly undersides; slender flower spikes. Looks more elongate than Jersey Cudweed.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, vacant lots, and field margins.",
+      "finding_tips": "From April to October look for plants with white-woolly leaf undersides and slender flower spikes rising from the rosette."
+    },
+    "zh": {
+      "summary": "宾州鼠麴草，外来菊科。叶莲座状、叶背具白色绒毛，花序细长。比鼠麴草更细长。",
+      "habitat_hint": "菜园、路边、河滩、空地、田边。",
+      "finding_tips": "四至十月寻找叶背白绒毛、抽出细长花穗的植物。"
+    }
+  },
+  "Macrothelypteris viridifrons": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミドリヒメワラビ。湿った場所に生える大型のシダ。葉は明るい黄緑色で、二〜三回羽状に細かく分かれます。",
+      "habitat_hint": "湿った林床、谷沿いの林、河川敷の湿地、神社の境内、半日陰の斜面。",
+      "finding_tips": "明るい黄緑色の大型シダで、葉が二〜三回羽状に細かく分かれているものを探します。湿った場所で群生することが多いです。"
+    },
+    "en": {
+      "summary": "A large fern of damp ground with bright yellow-green bi-tripinnate fronds. Forms colonies in damp half-shade.",
+      "habitat_hint": "Damp forest floor, valley woods, riverside wetlands, shrine grounds, and shaded slopes.",
+      "finding_tips": "Watch for a large bright yellow-green fern with finely divided bi-tripinnate fronds. Colonies often carpet damp ground."
+    },
+    "zh": {
+      "summary": "微毛蕨（绿小蕨），潮湿处的大型蕨。叶亮黄绿色，二至三回羽状细裂。",
+      "habitat_hint": "潮湿林床、谷地林、河滩湿地、神社境内、半阴斜坡。",
+      "finding_tips": "找亮黄绿色、叶二至三回羽状细裂的大型蕨。常成片于潮湿处。"
+    }
+  },
+  "Bombus diversus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トラマルハナバチ。黒地に橙色〜黄色の縞模様が美しい大型のマルハナバチ。重要な送粉者として知られます。",
+      "habitat_hint": "雑木林の林縁、花壇、河川敷の花、神社の境内、山地の花畑。",
+      "finding_tips": "夏〜秋、黒地に橙色の帯のもふもふしたマルハナバチを花の上で探します。**温和ですが、巣の近くは刺すので注意。**"
+    },
+    "en": {
+      "summary": "A large bumblebee with bold black-and-orange-to-yellow banding. An important pollinator of mountain flowers.",
+      "habitat_hint": "Woodland edges, flower beds, riverside flowers, shrine grounds, and mountain meadows.",
+      "finding_tips": "From summer to autumn look for a fuzzy black-and-orange bumblebee on flowers. **Gentle, but a nest in the wrong place will sting.**"
+    },
+    "zh": {
+      "summary": "三条熊蜂，大型熊蜂，黑底配橙黄色条带。是重要的传粉者。",
+      "habitat_hint": "林缘、花坛、河滩花卉、神社境内、山地花地。",
+      "finding_tips": "夏秋在花上找黑底带橙色环的毛绒熊蜂。**性情温和，但巢附近会蛰。**"
+    }
   }
 }
