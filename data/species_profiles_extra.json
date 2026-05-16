@@ -7181,5 +7181,149 @@
       "habitat_hint": "林缘、河滩、明亮草地、神社境内、田边。",
       "finding_tips": "七至十月寻找淡紫色唇形花轮生穗状的植物。茎四棱（唇形科特征），叶对生复叶。"
     }
-  }
+  },
+  "Troglodytes troglodytes": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミソサザイ。日本最小級の鳥で、茶褐色のずんぐりした体に短い尾を立てるのが特徴。意外な大音量で歌います。",
+      "habitat_hint": "渓流沿いの林、雑木林の薄暗い林床、苔むした岩、谷沿いの林。",
+      "finding_tips": "「チリリ、チリリ」と意外に大きな複雑な歌声を頼りに、林床近くの岩や倒木周辺で探します。茶色の小鳥が低く動きます。"
+    },
+    "en": {
+      "summary": "Eurasian Wren, one of Japan's smallest birds. Tiny brown-cocked-tail body, surprisingly loud and complex song.",
+      "habitat_hint": "Streamside woods, dim forest understory, mossy boulders, and valley woods.",
+      "finding_tips": "Listen for an astonishingly loud, complex song from a low place. Look around stones and fallen logs for a tiny brown bird with the tail held up."
+    },
+    "zh": {
+      "summary": "鹪鹩，日本最小型鸟之一。棕褐色矮胖体配翘起的短尾，鸣声出人意料地响亮复杂。",
+      "habitat_hint": "溪边林、阴林床、苔藓岩石、谷地林。",
+      "finding_tips": "听到低处响亮复杂的鸣声后，在岩石倒木附近找小型翘尾褐色鸟。"
+    }
+  },
+  "Cryptotympana facialis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマゼミ。大型のセミで、「シャアシャアシャア」と非常に大きな声で鳴く夏の代表種。元は西日本に多かったですが、近年関東でも増えています。",
+      "habitat_hint": "街路樹、雑木林、神社の樹林、サクラやクスノキの大木。",
+      "finding_tips": "7月後半〜8月の午前中、強烈な「シャアシャア」の声を頼りに大きな樹の幹を探します。黒い大型のセミで、温暖化で北上しています。"
+    },
+    "en": {
+      "summary": "A large cicada with an intense 'shaa-shaa-shaa' song — a symbol of summer mornings. Originally a western-Japan species, now expanding into Kanto with warming.",
+      "habitat_hint": "Street trees, mixed woodland, shrine groves, and large cherry or camphor trees.",
+      "finding_tips": "In late July and August follow the deafening morning song to large tree trunks. A large black cicada — its northward expansion is well documented."
+    },
+    "zh": {
+      "summary": "熊蝉，大型蝉，叫声极响亮的『嗄嗄嗄』，夏季上午标志声。原本主要在西日本，随气候变暖在关东扩展。",
+      "habitat_hint": "行道树、杂木林、神社树林、樱花和樟树大树。",
+      "finding_tips": "七月底至八月上午循响亮叫声找大树干上的大型黑色蝉。北扩趋势明显。"
+    }
+  },
+  "Viburnum dilatatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ガマズミ。初夏に白い花を多数つけ、秋に鮮やかな赤い小さな実を結ぶ落葉低木。実は食用にもなりますが、酸味が強いです。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の境内、明るい斜面、社寺林。",
+      "finding_tips": "5〜6月、白い小花が集まる花序と、葉の幅広い卵形を探します。秋〜冬の鮮やかな赤い実は鳥もよく食べに来ます。"
+    },
+    "en": {
+      "summary": "Linden Arrowwood. A deciduous shrub with white flower clusters in early summer and vivid red berries in autumn. Berries are edible but quite sour.",
+      "habitat_hint": "Woodland edges, valley woods, shrine grounds, bright slopes, and shrine groves.",
+      "finding_tips": "From May to June look for shrubs with broad oval leaves and clusters of small white flowers. Bright red berries follow in autumn and winter and attract birds."
+    },
+    "zh": {
+      "summary": "宽叶荚蒾，落叶灌木。初夏开白色花序，秋季结鲜红色小果，可食但酸味重。",
+      "habitat_hint": "林缘、谷地林、神社境内、明亮斜坡、神社树林。",
+      "finding_tips": "五至六月寻找叶宽卵形、白色花序集生的灌木。秋冬鲜红果实吸引鸟食。"
+    }
+  },
+  "Chloranthus serratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フタリシズカ。林床に生える小型多年草。初夏に細長い2本（時に3本）の白い花穂が立ち上がる独特の姿で、能の「二人静」の謡に由来する名前。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、半日陰の斜面。",
+      "finding_tips": "4〜6月、2本（時に3本）の細い白い花穂が立ち上がる小型植物を探します。葉は楕円形で対生風に4枚輪生します。"
+    },
+    "en": {
+      "summary": "Futari-shizuka. A small woodland perennial that sends up two (sometimes three) slender white flower spikes in early summer. Named after a Noh play.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, and shaded slopes.",
+      "finding_tips": "From April to June look for plants with the distinctive paired white flower spikes. Four oval leaves cluster near the top of the stem."
+    },
+    "zh": {
+      "summary": "及己（『二人静』），林下小型多年生草。初夏抽出 2 条（偶 3 条）细白花穗，造型独特。名取自日本能剧『二人静』。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、半阴斜坡。",
+      "finding_tips": "四至六月寻找抽出 2 条细白花穗的小型植物。叶椭圆形 4 片轮生于茎上部。"
+    }
+  },
+  "Psacothea hilaris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キボシカミキリ。茶褐色の体に黄色い斑点が散らばる中型のカミキリムシ。クワ・イチジクなどの果樹を食害することで知られます。",
+      "habitat_hint": "雑木林の林縁、果樹園、家庭菜園、河川敷、街路樹（クワ・イチジク）。",
+      "finding_tips": "クワ・イチジクの樹皮や葉の上で茶色+黄斑のカミキリを探します。**害虫扱いされますが、自然観察対象としては魅力的です。**"
+    },
+    "en": {
+      "summary": "Yellow-spotted Longhorn Beetle. A medium brown beetle with yellow speckles. A pest of mulberry and fig trees.",
+      "habitat_hint": "Woodland edges, orchards, kitchen gardens, riverbanks, and street trees (mulberry, fig).",
+      "finding_tips": "Look on mulberry and fig trunks and leaves for a brown beetle with yellow spots. Pest status aside, it is a striking find for naturalists."
+    },
+    "zh": {
+      "summary": "黄星天牛，中型棕色天牛带黄色斑点。是桑树和无花果的害虫。",
+      "habitat_hint": "林缘、果园、家庭菜园、河滩、行道树（桑、无花果）。",
+      "finding_tips": "在桑或无花果树干与叶上找棕色配黄斑的天牛。虽属害虫，但观察价值不俗。"
+    }
+  },
+  "Dryophytes leopardus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒガシニホンアマガエル。小型の緑色（または褐色変化）のアマガエル。指先の吸盤で葉や草に止まり、夜に「ケッケッケッ」と鳴きます。",
+      "habitat_hint": "水田、湿地、池の縁、家屋の周辺、田の畦の草、湿った草地。",
+      "finding_tips": "夏の夜、水田や湿地で「ケッケッケッ」と鳴く小型のカエルを探します。葉の上に止まる姿を見つけたら、緑色の体と黒い目を確認できます。"
+    },
+    "en": {
+      "summary": "Eastern Japanese Tree Frog. A small green (sometimes brown) frog with toe-disc suckers; perches on leaves and grass. Calls 'ke-ke-ke' at night.",
+      "habitat_hint": "Rice paddies, wetlands, pond margins, around homes, paddy levees, and damp grass.",
+      "finding_tips": "On summer nights listen for small frogs calling 'ke-ke-ke' around paddies. By day they perch on leaves with toe pads, revealing the green body and dark eye-stripe."
+    },
+    "zh": {
+      "summary": "东日本树蛙，小型绿色（偶褐色）树蛙。趾尖具吸盘可停于叶草。夜鸣『嘎-嘎-嘎』。",
+      "habitat_hint": "水田、湿地、池边、住宅附近、田埂草、潮湿草地。",
+      "finding_tips": "夏夜在水田与湿地找鸣『嘎-嘎-嘎』的小蛙。白天停在叶上，绿色体配黑色眼线。"
+    }
+  },
+  "Pidorus glaucopis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホタルガ近縁の昼飛ぶマダラガ。黒い翅に白い帯があり、ホタルに似た警告色を持ちます。**有毒物質があるので素手で触らないこと。**",
+      "habitat_hint": "雑木林の林縁、神社の境内、明るい園路、サカキやヒサカキのある林。",
+      "finding_tips": "白い帯のある黒い昼飛ぶ蛾を探します。ゆっくり飛ぶので観察しやすいです。**Pidorus属の蛾は毒があるので触らないこと。**"
+    },
+    "en": {
+      "summary": "A day-flying zygaenid moth related to the Pidorus atratus. Black wings with white bands and warning coloration; chemically defended — do not handle.",
+      "habitat_hint": "Woodland edges, shrine grounds, bright paths, and forests with Eurya / Cleyera shrubs.",
+      "finding_tips": "Look for a slow-flying day moth with black wings and white bands. **All Pidorus species are toxic — do not handle bare-handed.**"
+    },
+    "zh": {
+      "summary": "白带斑蛾近缘种，日行性斑蛾。黑翅带白带，警示色明显。**具毒物质，请勿徒手接触。**",
+      "habitat_hint": "林缘、神社境内、明亮园路、有杨桐/红淡比的林。",
+      "finding_tips": "找日间慢飞的黑翅白带蛾。**Pidorus 属皆有毒，请勿手碰。**"
+    }
+  },
+  "Hylodesmum podocarpum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヌスビトハギ。雑木林の林縁に生えるマメ科の多年草。秋に小さな淡紫色の蝶形花を立て、後に三角形の節果（ひっつき豆）をつけ衣服に付きます。",
+      "habitat_hint": "雑木林の林縁、神社の参道脇、農地の縁、半日陰の草地。",
+      "finding_tips": "8〜10月、淡紫色の小さな蝶形花を穂状に立てる植物を探します。後にできる三角形の節（くびれ）のある果実が衣服にくっつくのも特徴です。"
+    },
+    "en": {
+      "summary": "Tick Trefoil. A legume of woodland edges with small pale-violet pea-flowers in autumn, followed by triangular jointed seed pods that stick to clothing.",
+      "habitat_hint": "Woodland edges, shrine paths, field margins, and shaded grass.",
+      "finding_tips": "From August to October look for spike-like inflorescences of small pale-violet pea flowers. The triangular jointed seeds that follow will hitchhike on your clothes."
+    },
+    "zh": {
+      "summary": "山蚂蝗，林缘豆科多年生草。秋季抽出淡紫蝶形小花穗，结三角节状果，粘衣服。",
+      "habitat_hint": "林缘、神社参道旁、田边、半阴草地。",
+      "finding_tips": "八至十月寻找抽出淡紫蝶形小花穗的植物。后结三角节状果会粘上衣服。"
+    }
+  },
 }
