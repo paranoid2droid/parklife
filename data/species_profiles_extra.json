@@ -4913,5 +4913,167 @@
       "habitat_hint": "庭园、公园植被、草坪、路边、空地。",
       "finding_tips": "比本土酢浆草花大、色更粉。地下小块茎与近缘的红花酢浆草区分。"
     }
+  },
+  "Arisaema thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウラシマソウ。仏炎苞の先から長い糸状の付属物が伸びる独特の姿のサトイモ科多年草。「浦島太郎の釣り糸」が名前の由来です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、湿った半日陰、社寺林。",
+      "finding_tips": "4〜5月、紫褐色の仏炎苞から1本の長い糸が垂れ下がる独特の花を探します。**全草に有毒成分があります。** 葉は手のひら状で大型。"
+    },
+    "en": {
+      "summary": "A jack-in-the-pulpit relative with a long thread-like appendage trailing from the spadix — the source of the Japanese name 'fisherman Urashima's line'.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, damp half-shade, and shrine groves.",
+      "finding_tips": "From April to May look for the strange purple-brown spathe with a long thread hanging from inside. **All parts are toxic.** Leaves are large and palmate."
+    },
+    "zh": {
+      "summary": "浦岛南星，佛焰苞肉穗顶端伸出长丝状附属物，形如『浦岛太郎的钓丝』。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、潮湿半阴、神社树林。",
+      "finding_tips": "四至五月寻找紫褐佛焰苞带长丝下垂的奇特花。**全株有毒。** 叶大掌状。"
+    }
+  },
+  "Quercus acutissima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クヌギ。雑木林の代表的なドングリの木の一つ。樹液場としてカブトムシ、クワガタ、樹液チョウが集まる重要な木です。",
+      "habitat_hint": "雑木林、里山、社寺林、伐採跡地の植林、明るい斜面林。",
+      "finding_tips": "葉は細長い鋸歯のある楕円形で、葉裏が緑白色。秋に大きな丸いどんぐり（殻斗が深い）が落ちます。樹皮の凹凸が深いのも特徴。"
+    },
+    "en": {
+      "summary": "Sawtooth Oak, one of the iconic acorn trees of mixed woodland. A critical sap-flow species attracting rhinoceros and stag beetles and sap-feeding butterflies.",
+      "habitat_hint": "Mixed woodland, satoyama, shrine groves, replanted clearings, and bright slope forests.",
+      "finding_tips": "Elongated serrated leaves with pale-green undersides. Large round acorns with deeply cupped scales fall in autumn. Deeply furrowed bark is also distinctive."
+    },
+    "zh": {
+      "summary": "麻栎，杂木林代表性栎类。是独角仙、锹甲与树液蝶聚集的重要树液场。",
+      "habitat_hint": "杂木林、里山、神社树林、伐木迹地造林、明亮斜坡林。",
+      "finding_tips": "叶椭圆带细密锯齿，叶背浅绿。秋季落下大型圆橡子（壳斗深）。树皮纵深沟纹明显。"
+    }
+  },
+  "Clematis terniflora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "センニンソウ。夏に純白の十字形の花を多数咲かせるつる性多年草。秋の果実には白い「仙人のヒゲ」のような毛が伸びるのが名前の由来です。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、空き地、明るい斜面。",
+      "finding_tips": "8〜9月、白い十字花を多数つけるつるを探します。秋の白い毛のような果実も独特です。**全草に有毒成分があり、皮膚刺激があります。**"
+    },
+    "en": {
+      "summary": "Sweet Autumn Clematis, a vine with masses of pure-white cross-shaped flowers in late summer. Autumn fruits have long feathery awns — the 'hermit's beard' of the Japanese name.",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, vacant lots, and bright slopes.",
+      "finding_tips": "From August to September look for a vine covered in white four-petalled flowers. The plumed seed heads in autumn are equally distinctive. **All parts irritate skin — handle minimally.**"
+    },
+    "zh": {
+      "summary": "圆锥铁线莲，夏季开许多纯白十字形花的藤本。秋季果实带白色羽状长芒（『仙人胡须』）。",
+      "habitat_hint": "林缘、河滩灌丛、住宅围栏、空地、明亮斜坡。",
+      "finding_tips": "八至九月寻找开许多白色十字花的藤蔓。秋季白色羽状果序亦独特。**全株具刺激性，请少接触。**"
+    }
+  },
+  "Aquarius paludum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメンボ。水面に立って滑るように移動する代表的な水生昆虫。脚の細かい毛で水面を踏み、表面張力を利用しています。",
+      "habitat_hint": "池、湿地、用水路、河川の流れのゆるい場所、水たまり。",
+      "finding_tips": "池の水面で素早く滑る細長い昆虫を探します。落ちた虫を素早く食べる肉食性で、複数集まることが多いです。"
+    },
+    "en": {
+      "summary": "Water Strider, the classic pond-skater that stands on water surface. Tiny hairs on the legs exploit surface tension to keep the bug afloat.",
+      "habitat_hint": "Ponds, wetlands, ditches, slow rivers, and puddles.",
+      "finding_tips": "Watch the water surface for slender insects darting across. They scavenge fallen insects and often gather in small groups."
+    },
+    "zh": {
+      "summary": "水黾，能立于水面滑行的代表性水生昆虫。腿部细毛利用表面张力维持漂浮。",
+      "habitat_hint": "池塘、湿地、灌渠、缓流河段、积水。",
+      "finding_tips": "看水面快速滑行的细长昆虫。它们捕食落水昆虫，常成小群。"
+    }
+  },
+  "Oxya yezoensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コバネイナゴ。水田や湿った草地に住む小型のバッタ。緑色で背中に黒い縞があり、稲の害虫とされる一方で食用にも利用されました。",
+      "habitat_hint": "水田、湿地、河川敷の草地、農地の縁、湿った草原。",
+      "finding_tips": "水田や草地で「ピョン」と短く飛ぶ緑色のバッタを探します。翅が短いのも特徴で、長距離飛びません。"
+    },
+    "en": {
+      "summary": "Short-Winged Rice Grasshopper. Small green grasshopper of paddies and damp meadows. A rice pest historically also eaten as 'inago' food.",
+      "habitat_hint": "Rice paddies, wetlands, grassy riverbanks, field margins, and damp meadows.",
+      "finding_tips": "Look for short-hopping green grasshoppers in paddies and damp grass. The short wings keep flights brief."
+    },
+    "zh": {
+      "summary": "短翅稻蝗，小型绿色蝗虫，生于水田与潮湿草地。是稻害虫，传统上也作食用蝗（『稻香蝗』）。",
+      "habitat_hint": "水田、湿地、河滩草地、田边、潮湿草原。",
+      "finding_tips": "在水田或草地找短距弹跳的绿色蝗虫。翅短，不远飞。"
+    }
+  },
+  "Cyperus difformis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマガヤツリ。水田の周辺や湿地でよく見られるカヤツリグサ類。茎の頂部に球状の花序をつけます。",
+      "habitat_hint": "水田、湿地、河川の岸辺、湿った草地、用水路の縁。",
+      "finding_tips": "夏〜秋、水辺で茎の先に丸い緑色〜褐色の花序を多数つけるカヤツリグサ類を探します。茎は三角形で、葉は線状です。"
+    },
+    "en": {
+      "summary": "Smallflower Umbrella Sedge. A sedge common around rice paddies and wetlands. Globular flower heads cluster atop triangular stems.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, damp grass, and ditch margins.",
+      "finding_tips": "In summer and autumn look at waterside areas for sedges with round green-to-brown flower heads at the stem tops. Stems are triangular in cross-section."
+    },
+    "zh": {
+      "summary": "异型莎草，水田与湿地常见莎草。茎顶集生球形花序。",
+      "habitat_hint": "水田、湿地、河岸、潮湿草地、灌渠边缘。",
+      "finding_tips": "夏秋在水边寻找茎顶集生球形花序的莎草。茎三棱形，叶线形。"
+    }
+  },
+  "Aegithalos caudatus trivirgatus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エナガ（東日本亜種）。日本本州の亜種で、頭の上と背の暗色帯がよく目立ちます。「シマエナガ」（北海道亜種）と異なり、純白の顔ではありません。",
+      "habitat_hint": "雑木林、街路樹、神社の樹林、住宅地の樹木。",
+      "finding_tips": "シジュウカラ類と混群で動く小さな丸い鳥。長い尾と頭頂の暗色帯で識別できます。声は「ジュリジュリ」と高音です。"
+    },
+    "en": {
+      "summary": "Long-tailed Tit (Honshu subspecies). The Honshu form has a dark crown stripe and head — unlike the all-white-faced 'shima-enaga' subspecies of Hokkaido.",
+      "habitat_hint": "Mixed woodland, street trees, shrine groves, and residential trees.",
+      "finding_tips": "A tiny round bird that moves with tit mixed flocks. Long tail and dark crown stripe distinguish the Honshu form from the Hokkaido subspecies."
+    },
+    "zh": {
+      "summary": "银喉长尾山雀（本州亚种）。本州亚种头顶有深色冠纹，与北海道纯白脸的『岛长尾』亚种不同。",
+      "habitat_hint": "杂木林、行道树、神社树林、住宅区树木。",
+      "finding_tips": "和山雀类混群活动的小圆鸟。长尾和头顶深色冠纹是本州亚种特征。"
+    }
+  },
+  "Arhopala bazalus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキツバメ。翅表に深紫色の輝きを持つシジミチョウで、後翅の尾状突起が特徴。常緑樹のマテバシイなどを食樹とします。",
+      "habitat_hint": "雑木林、社寺林、マテバシイのある林、神社の境内、明るい林縁。",
+      "finding_tips": "翅表の深紫色の輝きと、後翅から伸びる細い尾状突起を探します。ムラサキシジミと似ますが、本種は尾突起があるので区別できます。"
+    },
+    "en": {
+      "summary": "Powdered Oakblue. A lycaenid with iridescent deep-purple uppersides and a short tail at the hindwing. Larvae use evergreen oaks (Lithocarpus).",
+      "habitat_hint": "Mixed woodland, shrine groves, oak woods (Lithocarpus), shrine grounds, and bright woodland edges.",
+      "finding_tips": "Deep purple wings plus a slender tail extension on the hindwing. The tail separates it from the otherwise similar Japanese Oakblue."
+    },
+    "zh": {
+      "summary": "燕灰蝶（紫燕灰蝶），翅面深紫光泽，后翅具尾突。幼虫食常绿栎类。",
+      "habitat_hint": "杂木林、神社树林、有常绿栎的林子、神社境内、明亮林缘。",
+      "finding_tips": "翅面深紫光泽配后翅细尾突。后翅尾突可与紫小灰蝶相区分。"
+    }
+  },
+  "Emberiza variabilis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロジ。雄は暗灰青色の体に黒い顔が特徴の冬鳥。雑木林の林床で落葉をかき分けて種子や虫を食べます。",
+      "habitat_hint": "雑木林の林床、社寺林、谷沿いの林、針葉樹混じりの林。",
+      "finding_tips": "薄暗い林の中で「カサカサ」と落葉をひっくり返す音がしたら、暗色の中型小鳥を探します。雄の暗青色は近づくとわかります。"
+    },
+    "en": {
+      "summary": "Grey Bunting, a wintering bunting. Males are dark slaty-blue with a black face. Feeds in leaf litter on the woodland floor.",
+      "habitat_hint": "Forest understory, shrine groves, valley woods, and mixed conifer-broadleaf forest.",
+      "finding_tips": "In dim woods listen for rustling in leaf litter, then look for a dark-bodied medium-sized bird. Males show the slaty-blue cast close up."
+    },
+    "zh": {
+      "summary": "灰鹀，冬季渡来。雄鸟体灰青、脸黑色。在杂木林林床翻找落叶中的种子与虫。",
+      "habitat_hint": "杂木林林床、神社树林、谷地林、针阔混交林。",
+      "finding_tips": "阴林中听到落叶翻动声后找深色中型鸟。雄鸟近观可见灰青色调。"
+    }
   }
 }
