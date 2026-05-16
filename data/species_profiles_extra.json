@@ -3455,5 +3455,167 @@
       "habitat_hint": "林缘、明亮斜坡、神社参道、草坪角落、田边。",
       "finding_tips": "三至五月寻找贴地莲座上抽出的深紫色小花。叶面略带毛。"
     }
+  },
+  "Meimuna opalifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツクツクボウシ。晩夏のセミで、「ツクツクオーシ、ツクツクオーシ」と独特のリズムで鳴き、最後に「ジーッ」と締めます。",
+      "habitat_hint": "雑木林、街路樹、神社の樹林、サクラ並木、住宅地の高木。",
+      "finding_tips": "8月後半〜9月、独特のリズミカルな鳴き声で気づきます。中型のセミで、樹幹に薄緑〜茶色の地味な姿で止まっています。"
+    },
+    "en": {
+      "summary": "Tsukutsukuboshi cicada, a late-summer species. Its rhythmic 'tsuku-tsuku-oshi' song ends with a 'ji-i' coda — a signature sound of August ending in Japan.",
+      "habitat_hint": "Mixed woodland, street trees, shrine groves, cherry avenues, and residential tall trees.",
+      "finding_tips": "Late August into September, listen for the distinctive rhythmic call. A medium cicada with pale-green and brown camouflage on trunks."
+    },
+    "zh": {
+      "summary": "蜩蝉一种，晚夏鸣，叫声为节奏感强的『嗤——嗤——哦——西』，末尾以『嘶』收尾，是日本八月末的标志音。",
+      "habitat_hint": "杂木林、行道树、神社树林、樱花行道、住宅区高树。",
+      "finding_tips": "八月底至九月听到独特节奏鸣叫即是。中型蝉，体色淡绿配褐，伪装于树干。"
+    }
+  },
+  "Pidorus atratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホタルガ。黒い体に白い帯と赤い頭が目立つ昼行性の蛾。ホタルに似た警告色で、有毒物質を持ちます。",
+      "habitat_hint": "雑木林の林縁、ヒサカキやサカキのある場所、神社の境内、明るい園路。",
+      "finding_tips": "黒い翅に白い帯+赤い頭の昼飛ぶ蛾を探します。ゆっくりひらひら飛ぶので観察しやすいです。**毒があるので素手で触らないで。**"
+    },
+    "en": {
+      "summary": "A day-flying moth with black wings, a white band, and a bright red head. Warning colours signal its toxicity.",
+      "habitat_hint": "Woodland edges, areas with Eurya/Cleyera shrubs, shrine grounds, and bright paths.",
+      "finding_tips": "Watch for a slow-flying moth with stark black-and-white wings and a red head. **Do not handle bare-handed — it is chemically defended.**"
+    },
+    "zh": {
+      "summary": "斑蛾科白带的日行蛾，黑翅白带配红头，警告色明显。具有毒物质。",
+      "habitat_hint": "林缘、有杨桐/红淡比的地方、神社境内、明亮园路。",
+      "finding_tips": "找日间慢飞的黑翅带白带、头红色的蛾。**有毒，请勿徒手接触。**"
+    }
+  },
+  "Phalacrocorax capillatus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウミウ。カワウより一回り大きい海岸性の鵜。岩礁や海岸に集まり、長良川の鵜飼に使われる伝統的な鵜です。",
+      "habitat_hint": "海岸の岩場、漁港、河口、沿岸の岸壁、東京湾。",
+      "finding_tips": "カワウより大型で、首が太く見えます。岩や護岸に翼を広げて乾かす姿で目立ちます。"
+    },
+    "en": {
+      "summary": "Japanese Cormorant, a coastal cormorant larger than the Great Cormorant. The traditional cormorant of Japanese 'ukai' fishing on the Nagara River.",
+      "habitat_hint": "Rocky coasts, fishing harbours, estuaries, sea walls, and Tokyo Bay.",
+      "finding_tips": "Larger and thicker-necked than the Great Cormorant. Often seen with wings spread to dry on rocks or revetments."
+    },
+    "zh": {
+      "summary": "暗绿背鸬鹚（海鸬鹚），比普通鸬鹚更大、颈更粗。是长良川传统鸬鹚捕鱼的鸟种。",
+      "habitat_hint": "岩石海岸、渔港、河口、海堤、东京湾。",
+      "finding_tips": "比普通鸬鹚更大、颈更粗。常在岩石与护岸展翅晾干。"
+    }
+  },
+  "Anthus japonicus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タヒバリ。冬鳥として渡来する地味な褐色の小鳥。河川敷や農地の地面で群れて行動します。",
+      "habitat_hint": "河川敷の草地、農地、湿地、湖岸、休耕田。",
+      "finding_tips": "11〜3月、地面を歩きながら群れで採食する小鳥を探します。胸の縦縞が明瞭で、ピンク色の脚も目印です。"
+    },
+    "en": {
+      "summary": "Buff-bellied Pipit, a wintering brown pipit that gathers in small flocks on open ground.",
+      "habitat_hint": "Grassy riverbanks, farmland, wetlands, lake shores, and fallow fields.",
+      "finding_tips": "From November to March, look for small flocks walking and feeding on bare ground. Streaked breast and pinkish legs help confirm."
+    },
+    "zh": {
+      "summary": "黄腹鹨，冬季渡来的褐色鹨。常成小群在开阔地面采食。",
+      "habitat_hint": "河滩草地、农田、湿地、湖岸、休耕田。",
+      "finding_tips": "11月至3月找在地面成群行走觅食的小鸟。胸部纵纹明显，腿带粉色。"
+    }
+  },
+  "Arhopala japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキシジミ。翅表が深い紫色で光るシジミチョウ。アラカシ・シラカシなどの常緑樹を食樹とし、林縁で見られます。",
+      "habitat_hint": "雑木林の林縁、神社の樹林、常緑樹の植え込み、社寺林。",
+      "finding_tips": "翅を開いた時の深い青紫色の輝きが目印。樹冠で日光浴することが多く、夏〜秋に観察しやすいです。"
+    },
+    "en": {
+      "summary": "Japanese Oakblue, a lycaenid with iridescent deep-violet uppersides. Larvae feed on evergreen oaks; adults frequent woodland edges.",
+      "habitat_hint": "Woodland edges, shrine groves, evergreen plantings, and shrine forest.",
+      "finding_tips": "The deep violet flash when the wings open is unmistakable. Often basks in the canopy from summer to autumn."
+    },
+    "zh": {
+      "summary": "蓝灰蝶（紫小灰），翅面深紫色具金属光泽。幼虫食常绿栎类，常见于林缘。",
+      "habitat_hint": "林缘、神社树林、常绿植被、神社林。",
+      "finding_tips": "张翅时深紫色金属反射很显眼。夏秋常在树冠晒太阳。"
+    }
+  },
+  "Phytolacca americana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨウシュヤマゴボウ。北米原産の大型多年草で、秋に黒紫色の実をつけます。**全草が有毒です。** 鮮やかな赤紫の果軸も目立ちます。",
+      "habitat_hint": "空き地、河川敷、農地の縁、林縁、住宅地の隙間。",
+      "finding_tips": "夏〜秋、人の背丈ほどに育つ植物の赤紫色の茎と、ぶどう状の黒い実を探します。**実や葉に触れたら手をよく洗ってください。**"
+    },
+    "en": {
+      "summary": "American Pokeweed, a large North-American perennial. Berries ripen blackish-purple in autumn. **All parts are toxic.** The vivid red-purple flower stalks are distinctive.",
+      "habitat_hint": "Vacant lots, riverbanks, field edges, woodland edges, and gaps in residential areas.",
+      "finding_tips": "In summer and autumn look for a person-tall plant with red-purple stems and clusters of dark berries. **Wash hands after handling.**"
+    },
+    "zh": {
+      "summary": "美洲商陆，北美原产大型多年生植物。秋季结深紫黑色果穗。**全株有毒**，鲜艳的紫红色果轴显眼。",
+      "habitat_hint": "空地、河滩、田边、林缘、住宅区缝隙。",
+      "finding_tips": "夏秋寻找人高、茎为紫红色的植物，果实成串黑紫色。**触碰后请洗手。**"
+    }
+  },
+  "Corydalis incisa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキケマン。早春〜初夏に紫色の独特な形の花を多数咲かせるケマンソウ科の二年草。湿った林床で群生します。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、湿った半日陰。",
+      "finding_tips": "4〜5月、紫色の細長い花が穂状に並ぶ植物を探します。葉はニンジンに似た細かい切れ込み。**全草に有毒成分があるので食べないで。**"
+    },
+    "en": {
+      "summary": "Incised Fumewort, a biennial with clusters of striking tubular purple flowers from early spring into summer. Forms colonies on damp forest floors.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, and damp half-shade.",
+      "finding_tips": "From April to May look for plants with spikes of tubular purple flowers and finely divided carrot-like leaves. **Toxic — do not eat.**"
+    },
+    "zh": {
+      "summary": "刻叶紫堇，二年生草本。早春至初夏开许多紫色管状花序，常在潮湿林床成片。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、潮湿半阴。",
+      "finding_tips": "四至五月寻找紫色管状穗状花植物，叶细碎如胡萝卜叶。**全株有毒，请勿食用。**"
+    }
+  },
+  "Spiranthes australis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネジバナ。芝生や湿った草地に咲く小型のラン。花が穂状にらせん状にねじれて咲く独特の姿が名前の由来です。",
+      "habitat_hint": "芝生、河川敷、湿った草地、公園のグリーン、神社の境内。",
+      "finding_tips": "6〜8月、芝生からスッと立ち上がる細い茎にピンク色の小花がねじれながら並ぶ植物を探します。地味だが見つけると感動する野生のランです。"
+    },
+    "en": {
+      "summary": "Ladies' Tresses, a small terrestrial orchid. Pink flowers spiral up a slender spike — the source of its name.",
+      "habitat_hint": "Lawns, riverbanks, damp meadows, park greens, and shrine grounds.",
+      "finding_tips": "From June to August, watch lawns for a thin spike with small pink flowers arranged in a spiral. Easy to overlook but exciting to find — a wild orchid in city grass."
+    },
+    "zh": {
+      "summary": "绶草，小型陆生兰。粉色小花以螺旋状排列于穗上，故名。",
+      "habitat_hint": "草坪、河滩、潮湿草地、公园绿地、神社境内。",
+      "finding_tips": "六至八月在草坪寻找细茎上螺旋排列粉色小花的植物。小而易被忽视，但发现一棵城市草坪上的野生兰会很惊喜。"
+    }
+  },
+  "Reynoutria japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イタドリ。中空の太い茎を持つ多年草。若茎は食用にもなりますが、欧米では侵略的外来種として大きな問題になっています。",
+      "habitat_hint": "河川敷、伐採跡地、空き地、土手、明るい斜面、林縁。",
+      "finding_tips": "夏〜秋、節のある太い茎と細長い卵形の葉、白い円錐花序を探します。茎は中空で切ると軽く酸味があります。"
+    },
+    "en": {
+      "summary": "Japanese Knotweed. Large native perennial with hollow bamboo-like stems. Young shoots are edible, but the species is an aggressive invasive in Europe and North America.",
+      "habitat_hint": "Riverbanks, clearings, vacant lots, levees, bright slopes, and woodland edges.",
+      "finding_tips": "Summer and autumn — look for thick jointed stems, oval-pointed leaves, and white panicles. Stems are hollow and slightly sour-tasting when fresh."
+    },
+    "zh": {
+      "summary": "虎杖。本土多年生植物，茎中空粗壮。嫩茎可食，但在欧美是严重的入侵植物。",
+      "habitat_hint": "河滩、伐木迹地、空地、堤岸、明亮斜坡、林缘。",
+      "finding_tips": "夏秋找有节中空的粗茎、长卵形叶和白色圆锥花序的植物。茎断面略带酸味。"
+    }
   }
 }
