@@ -4103,5 +4103,167 @@
       "habitat_hint": "杂木林倒木、枯枝、地面枯木。",
       "finding_tips": "朽木表面密集排列的黑色硬质半球可能即是。耐旱，全年可观察。"
     }
+  },
+  "Cyanoptila cyanomelana": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオルリ。日本三鳴鳥の一つ。雄は鮮やかな瑠璃色の背中と白いお腹が美しく、渓流沿いの林で「ピールリ、ピールリ」と高らかにさえずります。",
+      "habitat_hint": "渓流沿いの林、雑木林、社寺林、山地の谷、苔むした岩のある場所。",
+      "finding_tips": "5〜7月、渓流沿いで澄んださえずりを聞いたら本種。雄は枝先の見通しの良い場所で歌うことが多く、瑠璃色がよく目立ちます。"
+    },
+    "en": {
+      "summary": "Blue-and-white Flycatcher, one of Japan's 'Three Songbirds'. The male's brilliant ultramarine back and white belly sing from prominent perches along streams.",
+      "habitat_hint": "Streamside woodland, mixed forest, shrine groves, mountain valleys, and mossy rocky places.",
+      "finding_tips": "From May to July listen for clear melodic song by mountain streams. Males perch in the open at branch tips — the deep blue is unmistakable."
+    },
+    "zh": {
+      "summary": "白腹蓝鹟，日本三鸣鸟之一。雄鸟背部琉璃蓝、腹白，沿溪林中清亮歌唱。",
+      "habitat_hint": "溪流沿岸林、杂木林、神社树林、山谷、苔藓岩石处。",
+      "finding_tips": "五至七月在溪边听到清澈鸣唱即是。雄鸟常在枝梢显眼处唱歌，琉璃蓝色显眼。"
+    }
+  },
+  "Dendrocopos kizuki": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゲラ。スズメより少し大きいだけの日本最小のキツツキ。「ギーッ」という鋭い声で気づくことが多く、年中見られます。",
+      "habitat_hint": "雑木林、街路樹、神社の樹林、住宅地の樹木、河川敷の樹木。",
+      "finding_tips": "「ギーッ」と聞こえたら樹幹を縦に登る小さな鳥を探します。サイズが小さいので、シジュウカラと間違えないよう体形と縦の動きを確認してください。"
+    },
+    "en": {
+      "summary": "Japanese Pygmy Woodpecker, Japan's smallest woodpecker — only slightly larger than a sparrow. Year-round resident with a sharp 'gee!' call.",
+      "habitat_hint": "Mixed woodland, street trees, shrine groves, residential trees, and riverside trees.",
+      "finding_tips": "When you hear a sharp 'gee!' look for a small bird climbing vertically up a trunk. Its tiny size and vertical movement separate it from tits."
+    },
+    "zh": {
+      "summary": "小星头啄木鸟，日本最小的啄木鸟，仅略大于麻雀。叫声『叽-！』尖锐，全年留鸟。",
+      "habitat_hint": "杂木林、行道树、神社树林、住宅区树木、河岸树木。",
+      "finding_tips": "听到尖锐『叽-！』后找在树干垂直攀爬的小鸟。体小动作垂直，与山雀有别。"
+    }
+  },
+  "Persicaria filiformis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミズヒキ。細長い花茎の上下で花弁の色が違い、上から見ると赤、下から見ると白に見えることが祝儀の水引に似ていることが名前の由来です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、湿った半日陰、庭の隅。",
+      "finding_tips": "8〜10月、糸のような細長い花茎に小さな赤白の花が並ぶ植物を探します。葉には黒い斑紋があることがあります。"
+    },
+    "en": {
+      "summary": "Mizuhiki, a knotweed whose tiny flowers are red above and white below — resembling Japanese ceremonial 'mizuhiki' cord and giving the plant its name.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, damp half-shade, and garden corners.",
+      "finding_tips": "From August to October look for plants with very thin flowering spikes bearing tiny red-and-white flowers. Leaves often have a dark blotch."
+    },
+    "zh": {
+      "summary": "金线草，花序细长，小花上红下白，类似日本祝仪用『水引』绳带，故名。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、潮湿半阴、庭园角落。",
+      "finding_tips": "八至十月寻找细长花穗上排着上红下白的微小花。叶片常带黑色斑。"
+    }
+  },
+  "Pollia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブミョウガ。ミョウガに似た葉と、夏の白い花、秋の青い実が美しいツユクサ科。湿った林床に群生します。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、湿った半日陰。",
+      "finding_tips": "ミョウガに似た細長い葉のロゼットを探します。夏に円錐状の白花、秋には深い藍青色の球形果実が美しいです。"
+    },
+    "en": {
+      "summary": "Pollia, a commelinid with leaves resembling ginger (myoga), white summer flowers, and stunning metallic-blue berries in autumn. Forms colonies on damp forest floor.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, and damp half-shade.",
+      "finding_tips": "Look for rosettes of long ginger-like leaves. Conical white flower clusters in summer, then iridescent deep-blue round fruits in autumn."
+    },
+    "zh": {
+      "summary": "杜若，叶似茗荷，夏开白花、秋结深蓝果实，鸭跖草科。常在潮湿林床成片。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、潮湿半阴。",
+      "finding_tips": "找叶细长似茗荷的莲座。夏季圆锥白花、秋季金属光泽的蓝色圆果尤美。"
+    }
+  },
+  "Ischnura senegalensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオモンイトトンボ。細長い体に青と黒の縞模様のイトトンボ。池や用水路で普通に見られ、雌雄で体色が異なります。",
+      "habitat_hint": "池、用水路、湿地、水田、河川の岸辺。",
+      "finding_tips": "細長い小型のトンボを水辺の草で探します。雄は腹部先端が青、雌はオレンジ色や緑色など複数の色彩型があります。"
+    },
+    "en": {
+      "summary": "Common Bluetail, a slender damselfly with blue-and-black banding. Common around ponds and ditches; sexes look different.",
+      "habitat_hint": "Ponds, ditches, wetlands, paddies, and riverbank vegetation.",
+      "finding_tips": "Look on waterside grasses for tiny slender dragonflies. Males have a blue-tipped abdomen; females come in orange or green colour forms."
+    },
+    "zh": {
+      "summary": "褐斑异痣蟌（青纹细蟌）。细长身体配蓝黑色条纹的豆娘。池塘灌渠常见，雌雄色异。",
+      "habitat_hint": "池塘、灌渠、湿地、水田、河岸植被。",
+      "finding_tips": "在水边草上找细长豆娘。雄虫腹端蓝色，雌虫有橙色或绿色等多种色型。"
+    }
+  },
+  "Periparus ater": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒガラ。シジュウカラ類の中でも最小級。頭の冠羽と頬の白斑が目立ち、針葉樹林を好みます。",
+      "habitat_hint": "山地の針葉樹林、混合林、社寺林、ヒマラヤスギの植え込み。",
+      "finding_tips": "「ツィー、ツィー」と細い声を頼りに、針葉樹の樹冠を探します。シジュウカラより小さく、頭の冠羽が目印です。"
+    },
+    "en": {
+      "summary": "Coal Tit, one of the smallest tits. Crested head and bold white cheek patches; prefers conifer forests.",
+      "habitat_hint": "Mountain conifer forest, mixed forest, shrine groves, and cedar plantings.",
+      "finding_tips": "Listen for a thin 'tsii' call and scan conifer canopies. Smaller than Japanese Tit with a clear head crest."
+    },
+    "zh": {
+      "summary": "煤山雀，山雀类中最小者之一。头有冠羽，颊有大块白斑，偏爱针叶林。",
+      "habitat_hint": "山地针叶林、混交林、神社树林、雪松植被。",
+      "finding_tips": "听到细微『嘁』声后扫视针叶林冠。比远东山雀小，头冠羽是辨识标志。"
+    }
+  },
+  "Styrax japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゴノキ。初夏に下向きに咲く白い花が美しい在来の落葉樹。実は有毒で、洗濯石鹸として使われた歴史があります。",
+      "habitat_hint": "雑木林、神社の境内、社寺林、谷沿いの林、明るい斜面。",
+      "finding_tips": "5〜6月、下向きに咲く5弁の白い花が枝にぶら下がるように咲きます。秋〜冬は楕円形の灰白色の実が目立ちます。"
+    },
+    "en": {
+      "summary": "Japanese Snowbell, a deciduous tree with elegant downward-facing white flowers in early summer. Fruits are toxic and were historically used as a laundry soap substitute.",
+      "habitat_hint": "Mixed woodland, shrine grounds, shrine groves, valley woods, and bright slopes.",
+      "finding_tips": "From May to June look for five-petalled white flowers hanging downward from the branches. Pale grey-white oval fruits persist into winter."
+    },
+    "zh": {
+      "summary": "野茉莉（日本安息香），初夏开下垂的白色五瓣花。果实有毒，历史上曾作肥皂使用。",
+      "habitat_hint": "杂木林、神社境内、神社树林、谷地林、明亮斜坡。",
+      "finding_tips": "五至六月寻找枝下垂的白色五瓣花。秋冬可见椭圆形灰白果实。"
+    }
+  },
+  "Polistes jokahamae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セグロアシナガバチ。黄色と黒の縞模様の大型アシナガバチ。軒先や植え込みに巣を作ります。**素手で巣に近づかないでください。**",
+      "habitat_hint": "軒先、植え込み、雑木林の林縁、河川敷の藪、神社の境内。",
+      "finding_tips": "黄色と黒の細長いハチが葉の上をゆっくり飛んでいたら本種。巣（カサ状の小さな六角形セル）を見つけたら遠回りしてください。"
+    },
+    "en": {
+      "summary": "Yokohama Paper Wasp, a large black-and-yellow paper wasp. Nests under eaves and in hedges. **Do not approach a nest bare-handed.**",
+      "habitat_hint": "Eaves, hedges, woodland edges, riverbank thickets, and shrine grounds.",
+      "finding_tips": "A long-legged yellow-and-black wasp flying slowly over leaves is likely this species. If you spot the umbrella-shaped paper nest, give it a wide berth."
+    },
+    "zh": {
+      "summary": "黄星长脚蜂，大型黑黄相间的长脚胡蜂。常在屋檐与绿篱内筑伞状纸巢。**切勿徒手靠近蜂巢。**",
+      "habitat_hint": "屋檐、绿篱、林缘、河滩灌丛、神社境内。",
+      "finding_tips": "在叶面慢飞的黄黑长腿胡蜂多为本种。看到伞状纸巢请绕行。"
+    }
+  },
+  "Tachyspiza gularis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツミ。日本最小のタカで、雀ほどの小鳥を狩ります。近年は都市部の住宅地でも繁殖が確認されています。",
+      "habitat_hint": "住宅地の樹木、雑木林、社寺林、河川敷の樹林、市街地の高木。",
+      "finding_tips": "小型のタカが住宅地の上を素早く飛ぶ姿を探します。雄は灰青色の背中と赤褐色の胸、雌は褐色がやや強いです。"
+    },
+    "en": {
+      "summary": "Japanese Sparrowhawk, Japan's smallest hawk. Specialises in small birds and now breeds even in urban residential areas.",
+      "habitat_hint": "Residential trees, mixed woodland, shrine groves, riverside woods, and tall urban trees.",
+      "finding_tips": "Watch over residential streets for a small fast-flying hawk. Males are blue-grey above with rusty breast; females are browner."
+    },
+    "zh": {
+      "summary": "日本松雀鹰，日本最小型猛禽，捕食小型鸟类。近年城市住宅区也有繁殖。",
+      "habitat_hint": "住宅区树木、杂木林、神社树林、河岸林、城市高树。",
+      "finding_tips": "在住宅区上空找小型快飞的猛禽。雄鸟背蓝灰胸栗红，雌鸟更偏褐色。"
+    }
   }
 }
