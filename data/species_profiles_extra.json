@@ -6695,5 +6695,167 @@
       "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
       "finding_tips": "中型二回羽状常绿蕨，叶轴绿至红褐色。常成片覆盖林床。"
     }
+  },
+  "Albizia julibrissin": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネムノキ。夕方に葉を閉じる「就眠運動」が名前の由来の落葉樹。夏に淡桃色の絹糸のような美しい花を咲かせます。",
+      "habitat_hint": "雑木林の林縁、河川敷の樹木、神社の境内、明るい斜面、街路樹。",
+      "finding_tips": "細かい羽状の葉と、夏（6〜7月）の淡桃色の絹糸状の花を探します。花は夕方〜夜に咲き、葉は夜に閉じます。"
+    },
+    "en": {
+      "summary": "Silk Tree. Deciduous tree whose leaves fold at dusk — the source of the Japanese name 'nemu-noki' (sleeping tree). Famous pink silky flowers in summer.",
+      "habitat_hint": "Woodland edges, riverside trees, shrine grounds, bright slopes, and street trees.",
+      "finding_tips": "Look for finely pinnate leaves and pink silky flower clusters in June-July. Flowers open from evening into night; leaves fold as it gets dark."
+    },
+    "zh": {
+      "summary": "合欢，落叶树。夜间叶片合拢，日文俗名『眠木』由此。夏季开淡粉色丝绒般美丽花。",
+      "habitat_hint": "林缘、河岸树木、神社境内、明亮斜坡、行道树。",
+      "finding_tips": "找细密羽状叶配六七月淡粉色丝状花。花傍晚至夜间开放，叶夜间合拢。"
+    }
+  },
+  "Magnolia obovata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホオノキ。日本最大級の大きな葉と、初夏に咲く香りの強い白い大花が特徴の落葉樹。葉は朴葉味噌の包みなど料理にも使われます。",
+      "habitat_hint": "山地の雑木林、谷沿いの林、社寺林、神社の境内、明るい斜面。",
+      "finding_tips": "長さ20〜40cmの大きな葉と、初夏の直径15〜20cmの強い香りの白花を探します。葉一枚が手のひらより明らかに大きい点で目を引きます。"
+    },
+    "en": {
+      "summary": "Japanese Bigleaf Magnolia. Among Japan's largest tree leaves; strongly fragrant huge white flowers in early summer. Leaves are traditionally used to wrap miso (hoba-miso) and other foods.",
+      "habitat_hint": "Mountain mixed woodland, valley woods, shrine groves, shrine grounds, and bright slopes.",
+      "finding_tips": "Leaves are 20–40 cm long. Early summer flowers are 15–20 cm across and intensely fragrant. The leaf size alone is striking."
+    },
+    "zh": {
+      "summary": "日本厚朴。叶大（20–40 cm，日本最大型乔木叶之一），初夏开直径 15–20 cm 浓香大型白花。叶传统用作朴叶味噌等料理包材。",
+      "habitat_hint": "山地杂木林、谷地林、神社树林、神社境内、明亮斜坡。",
+      "finding_tips": "叶 20–40 cm 大，初夏白花直径 15–20 cm 浓香。单叶比手掌明显更大。"
+    }
+  },
+  "Elaphe quadrivirgata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シマヘビ。在来種の無毒中型ヘビで、体に4本の暗色縦縞があります。素早く動き、ネズミやカエルを食べます。",
+      "habitat_hint": "雑木林、河川敷の草地、農地、神社の境内、明るい斜面。",
+      "finding_tips": "茶色〜灰褐色の体に4本の縦縞があるヘビを探します。攻撃性は低く、近づくと素早く逃げます。**観察のみで触らないこと。**"
+    },
+    "en": {
+      "summary": "Japanese Four-lined Snake, a non-venomous native snake with four dark longitudinal stripes. Fast-moving; eats rodents and frogs.",
+      "habitat_hint": "Mixed woodland, grassy riverbanks, farmland, shrine grounds, and bright slopes.",
+      "finding_tips": "Look for a brown-to-grey snake with four long dark stripes. Generally non-aggressive — observe at a distance and do not handle."
+    },
+    "zh": {
+      "summary": "四线锦蛇（条纹蛇），无毒本土中型蛇。体侧具 4 条暗色纵纹。动作快，食鼠类和蛙类。",
+      "habitat_hint": "杂木林、河滩草地、农田、神社境内、明亮斜坡。",
+      "finding_tips": "找棕至灰褐色身体配 4 条纵纹的蛇。性情温和，请远观勿触。"
+    }
+  },
+  "Galinsoga quadriradiata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハキダメギク。北米原産の外来種で、白い小さな菊状の花を多数つけます。和名は「掃き溜め（ごみ捨て場）」で見つかったことから付けられました。",
+      "habitat_hint": "畑、道端、河川敷、空き地、農地の縁、舗装の隙間。",
+      "finding_tips": "5〜11月、白い小さな花弁（5枚）と中心の黄色い管状花を持つ小さな菊状の花を探します。茎には細かい毛があります。"
+    },
+    "en": {
+      "summary": "Shaggy Soldier, a North-American introduced daisy. Small white-and-yellow flower heads. The Japanese name 'haki-dame-giku' (rubbish-heap chrysanthemum) recalls its first record in Tokyo.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, vacant lots, field margins, and pavement cracks.",
+      "finding_tips": "From May to November look for small daisies with five tiny white ray florets around a yellow disc. Stems are finely hairy."
+    },
+    "zh": {
+      "summary": "粗毛牛膝菊，北美原产外来菊科。开许多白色（5 个舌状花）配黄色管状花的小型头花。日文俗名意为『垃圾堆菊花』，源于其最早在垃圾堆被发现。",
+      "habitat_hint": "菜园、路边、河滩、空地、田边、铺装缝隙。",
+      "finding_tips": "五至十一月找具 5 枚白色舌状花配中央黄色管状花的小型头花。茎被细毛。"
+    }
+  },
+  "Neolitsea sericea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロダモ。常緑樹で、葉裏が白いことが名前の由来。秋〜冬に赤い果実をつけ、春の新芽は金色の毛で覆われ美しいです。",
+      "habitat_hint": "雑木林、社寺林、神社の境内、海岸近くの林、半日陰の斜面。",
+      "finding_tips": "葉裏が銀白色の常緑樹を探します。秋〜冬の赤い果実と、春の金色の絹毛に覆われた新芽が観察ポイントです。"
+    },
+    "en": {
+      "summary": "Sericeous Newlitsea. An evergreen tree with strikingly silvery-white leaf undersides. Red fruits in autumn-winter; spring shoots are clothed in golden silky hairs.",
+      "habitat_hint": "Mixed woodland, shrine groves, shrine grounds, coastal woods, and shaded slopes.",
+      "finding_tips": "Look for an evergreen tree whose leaves flash silvery-white underneath. Red autumn-winter fruits and gold-silky spring shoots are both eye-catching."
+    },
+    "zh": {
+      "summary": "舟山新木姜子，常绿乔木。叶背银白色（日文俗名『白柃』由此）。秋冬结红果，春季嫩芽被金色丝毛。",
+      "habitat_hint": "杂木林、神社树林、神社境内、近海林、半阴斜坡。",
+      "finding_tips": "找叶背银白色的常绿树。秋冬红果与春季金色丝毛嫩芽皆为观察亮点。"
+    }
+  },
+  "Rosa multiflora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノイバラ。日本に普通の在来バラ。初夏に白い5弁の小花を多数咲かせ、秋に赤い小さな実（ローズヒップ）をつけます。鋭いトゲがあります。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、空き地、住宅地のフェンス、明るい斜面。",
+      "finding_tips": "5〜6月、白い小花が多数集まって咲く野生のバラを探します。葉は奇数羽状複葉、茎には鋭いトゲ。**トゲに注意。**"
+    },
+    "en": {
+      "summary": "Multiflora Rose. A native wild rose. Clusters of small white five-petalled flowers in early summer; small red rose hips in autumn. Sharp thorns.",
+      "habitat_hint": "Woodland edges, riverbank thickets, vacant lots, residential fences, and bright slopes.",
+      "finding_tips": "From May to June find clusters of small white wild roses. Pinnate leaves with serrated leaflets. **Beware of thorns.**"
+    },
+    "zh": {
+      "summary": "野蔷薇（多花蔷薇）。本土野生蔷薇。初夏开许多白色五瓣小花，秋季结小红色果。茎具锐刺。",
+      "habitat_hint": "林缘、河滩灌丛、空地、住宅围栏、明亮斜坡。",
+      "finding_tips": "五至六月寻找成串白色小花的野蔷薇。叶奇数羽状复叶。**注意刺。**"
+    }
+  },
+  "Rhododendron kaempferi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマツツジ。在来種のツツジで、4〜6月に鮮やかな朱赤色の花を咲かせます。雑木林に普通の半常緑〜落葉低木です。",
+      "habitat_hint": "雑木林、社寺林、明るい斜面、コナラ・クヌギ林、神社の境内。",
+      "finding_tips": "晩春〜初夏、雑木林の中で朱赤色のツツジが目立ちます。葉は楕円形で表面に細かい毛があり、季節により色が変わります。"
+    },
+    "en": {
+      "summary": "Kaempfer Azalea, a native rhododendron with vivid orange-red flowers from April to June. Semi-evergreen to deciduous shrub of mixed woodland.",
+      "habitat_hint": "Mixed woodland, shrine groves, bright slopes, oak woods, and shrine grounds.",
+      "finding_tips": "In late spring and early summer the bright orange-red blooms stand out in mixed woods. Oval leaves have fine surface hairs and change colour with the seasons."
+    },
+    "zh": {
+      "summary": "山杜鹃（恺氏杜鹃），本土杜鹃。四至六月开鲜朱红色花。半常绿至落叶灌木，杂木林常见。",
+      "habitat_hint": "杂木林、神社树林、明亮斜坡、栎林、神社境内。",
+      "finding_tips": "晚春至初夏在杂木林中朱红色花十分显眼。叶椭圆带细毛，颜色随季节变化。"
+    }
+  },
+  "Plautia stali": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャバネアオカメムシ。淡緑色の体に茶色い翅の中型カメムシ。果樹害虫として知られ、近年都市部でも増えています。",
+      "habitat_hint": "果樹園、農地、家庭菜園、街路樹、神社の境内、家屋の壁（越冬時）。",
+      "finding_tips": "緑+茶の中型カメムシを果樹の葉や実で探します。秋〜冬は越冬のため建物の壁に集まることもあります。"
+    },
+    "en": {
+      "summary": "Brown-winged Green Bug, a pale green shield bug with brown wings. A fruit-tree pest increasingly common in urban areas.",
+      "habitat_hint": "Orchards, farmland, kitchen gardens, street trees, shrine grounds, and house walls (during overwintering).",
+      "finding_tips": "Look on fruit-tree leaves and fruit for a medium green-and-brown bug. In autumn-winter they aggregate on building walls before overwintering."
+    },
+    "zh": {
+      "summary": "斯氏珀蝽（茶翅绿蝽），淡绿体配褐色翅的中型蝽。果树害虫，近年城市增多。",
+      "habitat_hint": "果园、农田、家庭菜园、行道树、神社境内、房屋外墙（越冬时）。",
+      "finding_tips": "在果树叶和果实上找绿配褐的中型蝽。秋冬可能聚集在建筑墙面准备越冬。"
+    }
+  },
+  "Mugil cephalus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ボラ。河口や汽水域で見られる大型の魚で、群れで水面を跳ねる姿が目立ちます。出世魚として成長段階で名前が変わります（オボコ・スバシリ・イナ・ボラ）。",
+      "habitat_hint": "河口、汽水域、東京湾、河川下流、漁港の周辺。",
+      "finding_tips": "河口や下流の水面で大型の魚が群れで跳ねたら本種の可能性。背中が灰青色で、銀色の側面が水面でキラキラ光ります。"
+    },
+    "en": {
+      "summary": "Flathead Grey Mullet, a large fish of estuaries and brackish water. Groups often leap at the surface. In Japan it has different names at different life stages (oboko, subashiri, ina, bora).",
+      "habitat_hint": "Estuaries, brackish water, Tokyo Bay, lower rivers, and around fishing harbours.",
+      "finding_tips": "Schools of large fish leaping at the surface in lower river or estuary are likely this species. Grey-blue back, silvery sides flashing at the surface."
+    },
+    "zh": {
+      "summary": "鲻鱼，河口与咸淡水交汇区的大型鱼。常成群在水面跃出。日本视其为『出世鱼』，不同生长阶段有不同名称。",
+      "habitat_hint": "河口、咸淡水、东京湾、河流下游、渔港周边。",
+      "finding_tips": "河口或下游水面成群跃出的大型鱼可能即是。背灰青、体侧银色在水面闪光。"
+    }
   }
 }
