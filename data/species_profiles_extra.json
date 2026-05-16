@@ -3617,5 +3617,167 @@
       "habitat_hint": "河滩、伐木迹地、空地、堤岸、明亮斜坡、林缘。",
       "finding_tips": "夏秋找有节中空的粗茎、长卵形叶和白色圆锥花序的植物。茎断面略带酸味。"
     }
+  },
+  "Persicaria capitata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメツルソバ。ヒマラヤ原産の外来種で、地面を覆うように広がります。ピンク色の球状の小花を多数つけ、観賞用として植栽もされます。",
+      "habitat_hint": "庭、石垣、舗装の隙間、住宅地の道端、公園の縁石近く。",
+      "finding_tips": "ハート型の葉に赤い斑紋があり、ピンクの球状花序を多数つけるグランドカバー的植物を探します。花期は春〜秋と長いです。"
+    },
+    "en": {
+      "summary": "Pink-Headed Knotweed, an introduced ground-cover from the Himalayas with pink globe-shaped flowers. Often planted ornamentally and naturalised in cracks.",
+      "habitat_hint": "Gardens, stone walls, pavement cracks, residential roadsides, and park borders.",
+      "finding_tips": "Look for a low spreading plant with heart-shaped leaves marked with a red 'V' and many pink ball-shaped flower heads. Blooms from spring through autumn."
+    },
+    "zh": {
+      "summary": "头花蓼，喜马拉雅地区原产的外来覆地植物。粉色球形小花序很显眼，常作观赏栽培。",
+      "habitat_hint": "庭园、石墙、铺装缝隙、住宅区路边、公园边石。",
+      "finding_tips": "找心形叶上有红色 V 字纹、开许多粉色球形花序的覆地植物。花期春到秋。"
+    }
+  },
+  "Chloris sinica": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワラヒワ。河川敷や農地で群れる小型のアトリ類。黄色い翼帯と尾の黄色が飛んだ時に目立ちます。",
+      "habitat_hint": "河川敷、農地、空き地、休耕田、低木の縁。",
+      "finding_tips": "「キリキリコロロ」という金属的な鳴き声で群れに気づきます。飛ぶ時の黄色いフラッシュが識別ポイント。"
+    },
+    "en": {
+      "summary": "Oriental Greenfinch, a small finch of open ground. Yellow wing flashes and yellow tail edges stand out in flight.",
+      "habitat_hint": "Riverbanks, farmland, vacant lots, fallow fields, and shrubby margins.",
+      "finding_tips": "A metallic 'kiri-kiri-koro' call usually reveals a flock. The bright yellow wing flash in flight confirms the species."
+    },
+    "zh": {
+      "summary": "金翅雀，小型雀类，常成群于开阔地。飞行时翅膀和尾边的亮黄色十分显眼。",
+      "habitat_hint": "河滩、农田、空地、休耕田、灌丛边缘。",
+      "finding_tips": "金属感的『叽—叽—咯』叫声常先暴露其位置。飞行时翅与尾的黄色闪光为辨识要点。"
+    }
+  },
+  "Phytomia zonata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオハナアブ。マルハナバチに擬態した大型のハナアブ。腹部に幅広い黄色〜橙色の帯があり、花の上に長く滞在します。",
+      "habitat_hint": "花壇、花の咲く低木、神社の境内、雑木林の林縁、河川敷の花。",
+      "finding_tips": "花の上で長く吸蜜するマルハナバチに似たハナアブを探します。羽は2枚（本物のハチは4枚）、目が大きいのが識別点です。"
+    },
+    "en": {
+      "summary": "A large hover fly that mimics bumblebees. Broad yellow-to-orange abdominal band; spends long periods at flowers.",
+      "habitat_hint": "Flower beds, flowering shrubs, shrine grounds, woodland edges, and riverside flowers.",
+      "finding_tips": "Watch for a bumblebee-like insect that lingers at a flower. Two transparent wings (vs four in real bees) and large eyes confirm it as a fly."
+    },
+    "zh": {
+      "summary": "大型食蚜蝇，拟态熊蜂。腹部具宽阔黄橙色横带，喜在花上长时间停留。",
+      "habitat_hint": "花坛、开花灌木、神社境内、林缘、河滩花卉。",
+      "finding_tips": "在花上长时间停留的似熊蜂昆虫。两片透明翅（真蜂为四片）加大复眼可识为食蚜蝇。"
+    }
+  },
+  "Homoeocerus unipunctatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホシハラビロヘリカメムシ。腹が広く、背中に白い星状の小斑がある中型のカメムシ。マメ科植物に多く付きます。",
+      "habitat_hint": "クズなどマメ科の生える場所、河川敷、空き地、農地の縁。",
+      "finding_tips": "腹部の縁が薄く広がり、背中に白い斑点があるカメムシを探します。クズの上で集団になっていることもあります。"
+    },
+    "en": {
+      "summary": "A medium broad-bellied bug with a small white star on the back. Common on legumes such as kudzu.",
+      "habitat_hint": "Kudzu-rich sites, riverbanks, vacant lots, and field margins.",
+      "finding_tips": "Look for a bug with widely flared abdominal edges and a white dorsal spot. Often gathers on kudzu in numbers."
+    },
+    "zh": {
+      "summary": "星宽缘蝽（缘蝽科），腹宽、背具白色星斑的中型蝽。多见于葛藤等豆科植物。",
+      "habitat_hint": "有葛藤的地方、河滩、空地、田边。",
+      "finding_tips": "找腹缘宽展、背具白斑的蝽，常在葛藤上聚集。"
+    }
+  },
+  "Ricania shantungensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チュウゴクアミガサハゴロモ（学名異記）。Pochaziaと同様の外来種で、三角形の翅に白い斑点を持つ小型の半翅目。果樹の害虫。",
+      "habitat_hint": "庭、果樹、公園の植え込み、街路樹、雑木林の林縁。",
+      "finding_tips": "三角形の褐色翅に白い斑点を持つセミに似た小型の虫を葉の上で探します。Pochazia と非常に似ており、専門家でも混同します。"
+    },
+    "en": {
+      "summary": "An invasive ricaniid planthopper closely related to Pochazia. Triangular brown wings with pale spots; a pest of fruit trees. Often confused with Pochazia even by specialists.",
+      "habitat_hint": "Gardens, fruit trees, park borders, street trees, and woodland edges.",
+      "finding_tips": "Look on leaves for a cicada-shaped insect with triangular brown wings and pale spots. Field separation from Pochazia is difficult — photographs help."
+    },
+    "zh": {
+      "summary": "中国蛾蜡蝉（与 Pochazia 近缘的外来种）。翅三角形带白斑，果树害虫。野外难与 Pochazia 区分。",
+      "habitat_hint": "庭园、果树、公园植被、行道树、林缘。",
+      "finding_tips": "在叶上找三角形褐翅带浅斑的蝉状小虫。与 Pochazia 极相似，需拍照鉴定。"
+    }
+  },
+  "Charadrius alexandrinus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロチドリ。砂浜や河口に住む小型のチドリ。額が白く、首と胸の黒い帯が不完全（途切れている）のが目印。",
+      "habitat_hint": "砂浜、河口、塩性湿地、干潟、海岸近くの公園。",
+      "finding_tips": "砂地で素早く走っては止まる小鳥を探します。胸の黒い帯が中央で切れていることがコチドリ（連続）との区別点です。"
+    },
+    "en": {
+      "summary": "Kentish Plover, a small plover of beaches and estuaries. The forehead is white and the breast-band is incomplete (broken in the middle).",
+      "habitat_hint": "Sandy beaches, estuaries, salt marshes, tidal flats, and coastal parks.",
+      "finding_tips": "A small wader that runs in bursts on sand. The broken breast-band separates it from Little Ringed Plover (continuous band)."
+    },
+    "zh": {
+      "summary": "环颈鸻，沙滩与河口的小型鸻。前额白色，胸带在中央断开（与金眶鸻的完整带相反）。",
+      "habitat_hint": "沙滩、河口、盐沼、滩涂、沿海公园。",
+      "finding_tips": "在沙地上跑跑停停的小型鹬。胸带中央断开是与金眶鸻的区别。"
+    }
+  },
+  "Tenodera aridifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオカマキリ。日本でもっとも普通の大型カマキリ。前胸が長く、緑〜褐色の体で草地や林縁に住みます。",
+      "habitat_hint": "草地、低木のある林縁、家庭菜園、河川敷、雑木林の下草。",
+      "finding_tips": "大型のカマキリで、前胸が細長く伸びるのが特徴。チョウセンカマキリ（前胸短い）との比較で見分けます。秋には大きな卵鞘を枝に産み付けます。"
+    },
+    "en": {
+      "summary": "Japanese Giant Mantis, the most common large mantis in Japan. Distinguished by an elongated pronotum (longer than in the related Chinese Mantis).",
+      "habitat_hint": "Grassland, shrubby woodland edges, gardens, riverbanks, and woodland understory.",
+      "finding_tips": "A large mantis with a notably long pronotum (the section just behind the head). In autumn females lay large foamy egg cases on twigs."
+    },
+    "zh": {
+      "summary": "日本巨型螳螂，日本最常见的大型螳螂。前胸细长，明显比近缘的中华大刀螳更长。",
+      "habitat_hint": "草地、灌丛林缘、家庭菜园、河滩、林下草。",
+      "finding_tips": "找前胸细长的大型螳螂。和中华大刀螳的区分主要看前胸长度。秋季雌虫产泡沫状卵鞘于枝上。"
+    }
+  },
+  "Evarcha albaria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マミジロハエトリ。雄は眼の上に白い眉のような帯がある小型のハエトリグモ。葉や石の上で跳ねるように歩きます。",
+      "habitat_hint": "草地、低木の葉、家屋の壁、石垣、河川敷、公園のベンチ。",
+      "finding_tips": "葉の上を跳ねる小さな黒い蜘蛛で、雄の眼の上の白い線がチャームポイント。雌は淡褐色で地味です。"
+    },
+    "en": {
+      "summary": "A small jumping spider; males have a striking white 'eyebrow' band above the eyes. Hops along leaves, stones, and walls.",
+      "habitat_hint": "Grassland, low shrub leaves, house walls, stone walls, riverbanks, and park benches.",
+      "finding_tips": "A small dark spider that hops on leaves and walls. The male's white eyebrow is unmistakable; females are pale brown and plain."
+    },
+    "zh": {
+      "summary": "白眉跳蛛，雄性眼上有白色横带似眉毛。常在叶面与石面跳跃前进。",
+      "habitat_hint": "草地、灌丛叶面、家屋墙面、石墙、河滩、公园长椅。",
+      "finding_tips": "找在叶或墙上跳跃的小蜘蛛，雄性眼上白色横带是亮点；雌性浅褐色较朴素。"
+    }
+  },
+  "Cylindera kaleea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウキョウヒメハンミョウ。小型のハンミョウで、河川敷の砂地や明るい裸地で見られます。素早く走って止まることを繰り返します。",
+      "habitat_hint": "河川敷の砂礫地、空き地、明るい裸地、公園の砂場の縁。",
+      "finding_tips": "晴れた日、砂地でキラリと動く小さな甲虫を探します。近づくと素早く飛び立ち、少し離れた場所に着地します。"
+    },
+    "en": {
+      "summary": "A small tiger beetle of sandy ground. Runs in short rapid bursts, paused by frequent stops to scan for prey.",
+      "habitat_hint": "Sandy riverbanks, vacant lots, bare bright ground, and sand-box edges in parks.",
+      "finding_tips": "On sunny days look on bare sand for a small beetle that runs in bursts. When approached it flies a short distance and lands again."
+    },
+    "zh": {
+      "summary": "东京小虎甲，小型虎甲，喜河滩沙地与明亮裸地。短距快跑然后停下扫视。",
+      "habitat_hint": "河滩砂砾地、空地、明亮裸地、公园沙坑边。",
+      "finding_tips": "晴天在裸沙地找短距快跑的小甲虫。靠近会短距飞走再落地。"
+    }
   }
 }
