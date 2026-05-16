@@ -4265,5 +4265,167 @@
       "habitat_hint": "住宅区树木、杂木林、神社树林、河岸林、城市高树。",
       "finding_tips": "在住宅区上空找小型快飞的猛禽。雄鸟背蓝灰胸栗红，雌鸟更偏褐色。"
     }
+  },
+  "Sisyrinchium micranthum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニワゼキショウ類の小型多年草。外来種で、芝生や河川敷で初夏に小さな白〜青紫色の花を多数咲かせます。",
+      "habitat_hint": "芝生、河川敷、空き地、農地の縁、明るい斜面。",
+      "finding_tips": "5〜6月、細い剣状の葉と地面近くに咲く星型の小花を探します。花の色は個体により白〜青紫まで変化があります。"
+    },
+    "en": {
+      "summary": "A small introduced blue-eyed grass with star-shaped white-to-violet flowers in early summer. Common in lawns and on riverbanks.",
+      "habitat_hint": "Lawns, riverbanks, vacant lots, field margins, and bright slopes.",
+      "finding_tips": "From May to June look for slender sword-shaped leaves and small star-shaped flowers low to the ground. Colour varies from white to deep violet."
+    },
+    "zh": {
+      "summary": "庭菖蒲，外来小型多年生鸢尾科。初夏开白至紫色星形小花，常见于草坪与河滩。",
+      "habitat_hint": "草坪、河滩、空地、田边、明亮斜坡。",
+      "finding_tips": "五至六月寻找细剑形叶和近地面的星形小花。花色个体差异大，从白到深紫。"
+    }
+  },
+  "Palpita nigropunctalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マエアカスカシノメイガ。前翅の縁が赤褐色、中央が透けて見える独特の蛾。庭や公園の植え込みで普通に見られます。",
+      "habitat_hint": "庭、公園の植え込み、ヒイラギモクセイなどの生け垣、街路樹、夜の街灯。",
+      "finding_tips": "夕方や夜、葉の上に止まる前縁が赤い透明な翅の蛾を探します。日中も比較的見つかりやすい蛾です。"
+    },
+    "en": {
+      "summary": "A pretty pyralid moth with translucent wings edged in reddish-brown. Common in gardens and park plantings.",
+      "habitat_hint": "Gardens, park plantings, holly-osmanthus hedges, street trees, and around lights at night.",
+      "finding_tips": "At dusk and night look on leaves for a moth with see-through wings and rusty leading edges. Often visible by day as well."
+    },
+    "zh": {
+      "summary": "前红透翅野螟，翅前缘红褐、中部透明的螟蛾。庭园与公园植被常见。",
+      "habitat_hint": "庭园、公园植被、桂花绿篱、行道树、夜灯下。",
+      "finding_tips": "黄昏或夜里在叶上找翅透明、前缘红褐的蛾。白天也较易见到。"
+    }
+  },
+  "Conocephalus maculatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホシササキリ。小型のササキリ類で、湿った草地や河川敷で「シリリ」と細い声で鳴きます。前翅に白い斑点があるのが特徴。",
+      "habitat_hint": "湿った草地、河川敷、水田の畔、ヨシ原の縁。",
+      "finding_tips": "草の中で「シリリ」と細く長く鳴く声を頼りに探します。緑色で小型なので、声で位置を特定するのが現実的です。"
+    },
+    "en": {
+      "summary": "A small marsh cricket with white spots on the forewings. Sings a fine sustained 'shrrrr' from grass in damp meadows.",
+      "habitat_hint": "Damp meadows, riverbanks, paddy levees, and reedbed margins.",
+      "finding_tips": "Locate them by ear in the grass — a thin sustained call. The cricket itself is small and green and well hidden."
+    },
+    "zh": {
+      "summary": "小型湿地蟋类。前翅有白斑，常在潮湿草地发出细长『嘶——』声。",
+      "habitat_hint": "潮湿草地、河滩、稻田田埂、芦苇丛边。",
+      "finding_tips": "靠声音定位。本身体小色绿，藏匿良好。"
+    }
+  },
+  "Helophilus eristaloidea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アシブトハナアブ。脚が太く目立つハナアブで、黒地に黄色い縞模様。湿地や池の周りで花蜜を吸います。",
+      "habitat_hint": "湿地の縁、池の周辺、花壇、河川敷の花、水田の畔。",
+      "finding_tips": "花の上で長く滞在する太い後脚を持つハチに似た虫を探します。腹部に明瞭な縦縞があり、目が大きい点で他のハナアブと区別できます。"
+    },
+    "en": {
+      "summary": "A thick-legged hover fly, black with bold yellow stripes. Feeds at flowers around wetlands and pond edges.",
+      "habitat_hint": "Wetland margins, around ponds, flower beds, riverside flowers, and paddy levees.",
+      "finding_tips": "Look at flowers for a bee-like insect with thickened hind femurs. The longitudinal abdominal stripes and large eyes help separate it from other hover flies."
+    },
+    "zh": {
+      "summary": "粗腿食蚜蝇，黑底配明黄条纹。常在湿地池塘附近花朵上吸蜜。",
+      "habitat_hint": "湿地边、池塘周边、花坛、河滩花卉、稻田田埂。",
+      "finding_tips": "在花上找后腿粗壮的拟蜂昆虫。腹部纵纹明显、大复眼可与其他食蚜蝇区分。"
+    }
+  },
+  "Oenothera speciosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒルザキツキミソウ。北米原産の外来種で、淡いピンク色の大きな花を昼間に咲かせます。マツヨイグサ類は通常夕方に咲きますが、本種は日中。",
+      "habitat_hint": "河川敷、空き地、道端、農地の縁、明るい斜面。",
+      "finding_tips": "5〜7月、地面近くに直径4〜5cmの薄ピンクの花を探します。日中に開く点でほかのマツヨイグサ類と区別できます。"
+    },
+    "en": {
+      "summary": "Pink Evening Primrose, a North-American import that — unusually for an evening primrose — opens its large pale-pink flowers in daylight.",
+      "habitat_hint": "Riverbanks, vacant lots, roadsides, field edges, and bright slopes.",
+      "finding_tips": "From May to July look low for pale pink flowers 4–5 cm across. The daytime bloom separates it from most other primroses in the area."
+    },
+    "zh": {
+      "summary": "粉花月见草，北美原产外来种。花大、淡粉色，日间开放（与多数月见草不同）。",
+      "habitat_hint": "河滩、空地、路边、田边、明亮斜坡。",
+      "finding_tips": "五至七月低头寻找直径 4–5 cm 的浅粉色花。白天开放可与其他月见草区分。"
+    }
+  },
+  "Broussonetia papyrifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カジノキ。和紙の原料として古来から利用されてきた落葉樹。葉は大型で形が多様（円形・浅裂・深裂が同じ木に混在）。",
+      "habitat_hint": "雑木林、河川敷、空き地、神社の境内、住宅地の樹木。",
+      "finding_tips": "葉の形が一本の木で大きく違うのが特徴。秋に丸いオレンジ色の集合果（クワに似る）をつけ、鳥が好んで食べます。"
+    },
+    "en": {
+      "summary": "Paper Mulberry, a deciduous tree traditionally cultivated for washi paper. Leaves vary dramatically in shape on a single tree — entire, shallow, or deeply lobed.",
+      "habitat_hint": "Mixed woodland, riverbanks, vacant lots, shrine grounds, and residential trees.",
+      "finding_tips": "The leaf-shape variability on one tree is the giveaway. Round orange compound fruits like mini-mulberries appear in autumn and attract birds."
+    },
+    "zh": {
+      "summary": "构树，自古为日本和纸原料的落叶树。同一棵树上叶形差异极大（全缘、浅裂、深裂兼有）。",
+      "habitat_hint": "杂木林、河滩、空地、神社境内、住宅区树木。",
+      "finding_tips": "同树叶形差异显著是辨识要点。秋季结橙色球形聚合果，似小桑椹，吸引鸟类。"
+    }
+  },
+  "Pteris multifida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イノモトソウ。湿った石垣や林床に普通の常緑シダ。葉は細長く分岐し、明るい緑色をしています。",
+      "habitat_hint": "石垣、湿った林床、神社の参道、谷沿いの林、半日陰の崖。",
+      "finding_tips": "石垣や舗装の隙間から細長く明るい緑色のシダが垂れ下がるように生えていれば本種の可能性。葉軸の側面に翼があるのが特徴です。"
+    },
+    "en": {
+      "summary": "Spider Brake, a common evergreen fern on damp stone walls and forest floors. Bright green narrow fronds branch into slender lobes.",
+      "habitat_hint": "Stone walls, damp forest floor, shrine paths, valley woods, and shaded cliffs.",
+      "finding_tips": "If bright-green narrow ferns drape from stone walls and pavement cracks, this is likely the species. Wing-like flanges along the rachis are diagnostic."
+    },
+    "zh": {
+      "summary": "凤尾蕨（井之元草），常见于潮湿石墙与林床的常绿蕨。叶细长分裂，呈亮绿色。",
+      "habitat_hint": "石墙、潮湿林床、神社参道、谷地林、半阴崖壁。",
+      "finding_tips": "石墙或铺装缝隙间垂下的亮绿色细蕨即是。叶轴侧面有翼状结构为辨识要点。"
+    }
+  },
+  "Disporum sessile": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホウチャクソウ。雑木林の林床に咲く春の山野草。緑がかった白い細長い花が筒状に下垂し、寺院の宝鐸（ほうちゃく）に似ることが名前の由来です。",
+      "habitat_hint": "雑木林の林床、神社の参道脇、半日陰の斜面、谷沿いの林。",
+      "finding_tips": "4〜5月、地面近くに緑白色の細長い花が垂れ下がる植物を探します。葉は卵状楕円で互生、群生することが多いです。"
+    },
+    "en": {
+      "summary": "Hochaku-sou, a spring woodland herb. Greenish-white tubular flowers hang downward, resembling Buddhist temple wind-bells (the source of the name).",
+      "habitat_hint": "Forest understory, shrine paths, half-shaded slopes, and valley woods.",
+      "finding_tips": "From April to May look low for plants with hanging tubular green-white flowers. Oval pointed alternate leaves; often forms colonies."
+    },
+    "zh": {
+      "summary": "宝铎草，杂木林林床的春季野花。绿白色细长筒状花下垂，形似寺院的宝铎而得名。",
+      "habitat_hint": "杂木林林床、神社参道旁、半阴斜坡、谷地林。",
+      "finding_tips": "四至五月在地面寻找下垂的绿白色筒状花植物。叶卵状椭圆互生，常成片。"
+    }
+  },
+  "Cheilomenes sexmaculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダンダラテントウ。地域や個体により紋様が大きく変化するテントウムシ。赤地に黒い模様（縞・水玉・連結）が様々です。",
+      "habitat_hint": "畑、庭、河川敷、草地、雑草の繁る場所、アブラムシの付く植物。",
+      "finding_tips": "葉の上で赤地に黒模様のテントウムシを探します。模様の変化が大きいので「ナナホシでもナミテントウでもない」と感じたら本種かもしれません。"
+    },
+    "en": {
+      "summary": "A highly variable ladybird whose pattern differs greatly by region and individual — red with black bars, spots, or mergers.",
+      "habitat_hint": "Fields, gardens, riverbanks, grassland, weedy ground, and aphid-bearing plants.",
+      "finding_tips": "Look on leaves for a red ladybird whose pattern doesn't match Seven-spot or Asian Lady Beetle — that variability suggests this species."
+    },
+    "zh": {
+      "summary": "六斑月瓢虫，斑型变化极大的瓢虫。鞘翅红底，黑色斑型有条纹、圆点、连合等多种变化。",
+      "habitat_hint": "菜地、庭院、河滩、草地、杂草丛、有蚜虫的植物。",
+      "finding_tips": "在叶上找红底黑斑变化多端的瓢虫。若与七星和异色瓢虫都对不上，可能就是本种。"
+    }
   }
 }
