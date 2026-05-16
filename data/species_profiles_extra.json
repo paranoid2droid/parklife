@@ -8550,5 +8550,167 @@
       "habitat_hint": "花坛、河滩花卉、林缘、明亮园路、神社境内。",
       "finding_tips": "夏季在花上找黑翅悬停的大型蜂虻。腹部白带和拟蜂特征明显。"
     }
+  },
+  "Osmanthus fragrans": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キンモクセイ。秋に強い甘い香りの橙色〜オレンジ色の小花を多数つける常緑樹。住宅地や公園に広く植栽され、秋の代表的な香りとして親しまれます。",
+      "habitat_hint": "庭園、公園、神社の境内、住宅地の生け垣、街路樹。",
+      "finding_tips": "9〜10月、橙色の小花が枝に集まり、強い甘い香りを放つ常緑樹を探します。雌雄異株で日本に植えられているのは多くが雄株。"
+    },
+    "en": {
+      "summary": "Fragrant Olive, an evergreen tree famous for tiny orange flowers in autumn with a powerful sweet fragrance. Widely planted across Japanese parks and gardens — a signature autumn scent.",
+      "habitat_hint": "Gardens, parks, shrine grounds, residential hedges, and street trees.",
+      "finding_tips": "From September to October find an evergreen tree with sprays of tiny orange flowers releasing a strong sweet scent. Most plants in Japan are males (dioecious species)."
+    },
+    "zh": {
+      "summary": "丹桂（金桂），常绿乔木。秋季开许多橙色小花，香气浓郁，是日本秋季的标志性香味之一。",
+      "habitat_hint": "庭园、公园、神社境内、住宅区绿篱、行道树。",
+      "finding_tips": "九至十月找枝条簇生橙色小花、香气浓的常绿乔木。雌雄异株，日本多为雄株。"
+    }
+  },
+  "Sonchus asper": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニノゲシ。外来種のキク科で、ノゲシより葉が硬く、葉縁に鋭いトゲがあります。茎を切ると白い乳液が出ます。",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、道端、舗装の隙間。",
+      "finding_tips": "ノゲシより葉が硬く、葉縁に鋭いトゲがある植物を探します。タンポポに似た黄色い花を多数つけます。**葉のトゲに注意。**"
+    },
+    "en": {
+      "summary": "Prickly Sow Thistle, an introduced composite. Stiffer leaves with sharply spiny margins separate it from the related Common Sow Thistle. White latex when cut.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, roadsides, and pavement cracks.",
+      "finding_tips": "Like Common Sow Thistle but with stiffer leaves bearing sharp spines along the margins. **Beware of the spines.**"
+    },
+    "zh": {
+      "summary": "续断菊（粗刺苦苣菜），外来菊科。叶比苦苣菜更硬，叶缘具锐刺。茎断流白色乳汁。",
+      "habitat_hint": "菜园、河滩、空地、田边、路边、铺装缝。",
+      "finding_tips": "和苦苣菜相似，但叶更硬、叶缘锐刺明显。**注意刺。**"
+    }
+  },
+  "Mergus serrator": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウミアイサ。冬鳥として渡来する細長いカモ。雄は緑光沢の頭に冠羽を持ち、ノコギリのような細いくちばしで魚を捕らえます。",
+      "habitat_hint": "東京湾、河口、河川下流、湖、海岸近くの水域。",
+      "finding_tips": "11〜3月、海岸や河口で細長いシルエットのカモを探します。雄は頭の冠羽と緑光沢、雌は頭が褐色で冠羽があります。"
+    },
+    "en": {
+      "summary": "Red-breasted Merganser, a slim wintering duck. Males have a green-glossed head with a tousled crest; the saw-toothed bill is adapted for catching fish.",
+      "habitat_hint": "Tokyo Bay, estuaries, lower rivers, lakes, and coastal waters.",
+      "finding_tips": "From November to March look for slim ducks at sea and in estuaries. Males show the crest and green head; females have a brown crested head."
+    },
+    "zh": {
+      "summary": "红胸秋沙鸭，冬季渡来。体形细长，雄鸟头部具绿色光泽与冠羽，喙细具锯齿善捕鱼。",
+      "habitat_hint": "东京湾、河口、河流下游、湖泊、近海。",
+      "finding_tips": "11月至3月在海岸与河口找细长身形的鸭。雄鸟绿头冠羽，雌鸟褐头亦具冠。"
+    }
+  },
+  "Cirsium nipponicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナンブアザミ。在来種のアザミで、秋に紫色の頭花を立ち上げます。葉と茎にトゲがあり、種子は綿毛で風に運ばれます。",
+      "habitat_hint": "雑木林の林縁、河川敷、明るい斜面、農地の縁、休耕田。",
+      "finding_tips": "8〜10月、紫色の大型頭花と、深く切れ込んだトゲのある葉を持つ植物を探します。**葉のトゲに注意。**"
+    },
+    "en": {
+      "summary": "A native thistle with purple flower heads in autumn. Spiny leaves and stems; seeds carried on white fluff.",
+      "habitat_hint": "Woodland edges, riverbanks, bright slopes, field margins, and fallow fields.",
+      "finding_tips": "From August to October look for plants with large purple thistle heads and deeply lobed spiny leaves. **Beware of spines.**"
+    },
+    "zh": {
+      "summary": "南部蓟，本土蓟。秋季抽紫色头花，叶茎具刺，种子带白色冠毛随风传播。",
+      "habitat_hint": "林缘、河滩、明亮斜坡、田边、休耕田。",
+      "finding_tips": "八至十月寻找紫色大型头花配深裂带刺叶的植物。**注意刺。**"
+    }
+  },
+  "Adenophora triphylla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツリガネニンジン。在来種のキキョウ科で、夏〜秋に淡紫色〜青紫色の釣鐘状の花を下向きに咲かせます。葉が3枚輪生するのが名前の由来です。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、河川敷、農地の縁、神社の境内。",
+      "finding_tips": "8〜10月、細長い茎の先に下向きに咲く釣鐘形の青紫色の花と、3枚輪生する細長い葉を探します。"
+    },
+    "en": {
+      "summary": "Lady Bells, a native Campanula relative. Pale violet bell-shaped flowers dangle on long stems from late summer into autumn. The Japanese name 'turigane-ninjin' refers to its leaves in whorls of three.",
+      "habitat_hint": "Woodland edges, bright slopes, riverbanks, field margins, and shrine grounds.",
+      "finding_tips": "From August to October look for plants with bell-shaped pale-violet hanging flowers on slender stems and leaves arranged in whorls of three."
+    },
+    "zh": {
+      "summary": "山梗菜（轮叶沙参），本土桔梗科。夏秋抽细茎，下垂淡蓝紫色钟形花。叶 3 枚轮生为辨识要点。",
+      "habitat_hint": "林缘、明亮斜坡、河滩、田边、神社境内。",
+      "finding_tips": "八至十月寻找细茎顶端下垂淡蓝紫色钟形花、叶 3 枚轮生的植物。"
+    }
+  },
+  "Cyperus rotundus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハマスゲ。地下に塊茎をつくる多年草のカヤツリグサ。世界中の暖地に広がる頑強な雑草で、根絶が難しいことで知られます。",
+      "habitat_hint": "畑、芝生、河川敷、農地、舗装の隙間、空き地。",
+      "finding_tips": "夏〜秋、赤紫色の小穂が枝先に並ぶ中型のカヤツリグサを探します。地下の塊茎が連なって繁殖するので、引き抜いても再生してきます。"
+    },
+    "en": {
+      "summary": "Nut Grass, a hardy perennial sedge with underground tubers. A globally distributed warm-climate weed notorious for its resistance to control.",
+      "habitat_hint": "Gardens, lawns, riverbanks, farmland, pavement cracks, and vacant lots.",
+      "finding_tips": "In summer and autumn look for medium sedges with red-purple spikelets at the stem tips. Underground tubers regenerate even after pulling."
+    },
+    "zh": {
+      "summary": "香附子（莎草），具地下块茎的多年生莎草。全球热带亚热带广布的顽强杂草，根除困难。",
+      "habitat_hint": "菜园、草坪、河滩、农田、铺装缝、空地。",
+      "finding_tips": "夏秋寻找枝梢具红紫色小穗的中型莎草。地下块茎相连再生，难以根除。"
+    }
+  },
+  "Hypochaeris radicata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ブタナ。外来種のキク科で、タンポポに似た黄色い花を咲かせますが、長く立ち上がる花茎と分枝することで区別できます。芝生や河川敷に大群落を作ります。",
+      "habitat_hint": "芝生、河川敷、空き地、農地の縁、運動場、明るい斜面。",
+      "finding_tips": "5〜10月、地面のロゼットから50cm以上に立ち上がる花茎と、その先に黄色いタンポポ状の花を多数つける植物を探します。タンポポより明らかに背が高いです。"
+    },
+    "en": {
+      "summary": "Cat's-ear, an introduced composite with yellow dandelion-like flowers on tall, often branched stems. Forms dense colonies on lawns and riverbanks.",
+      "habitat_hint": "Lawns, riverbanks, vacant lots, field margins, sports fields, and bright slopes.",
+      "finding_tips": "From May to October look for plants with basal rosettes and tall (~50 cm) flowering stems carrying many yellow dandelion-like heads — clearly taller than true dandelions."
+    },
+    "zh": {
+      "summary": "猫耳菊，外来菊科。黄色花似蒲公英但花茎更高、常分枝。在草坪河滩成大片。",
+      "habitat_hint": "草坪、河滩、空地、田边、运动场、明亮斜坡。",
+      "finding_tips": "五至十月寻找莲座基生、花茎高约 50 cm、抽多枚黄色头花的植物。明显比蒲公英高。"
+    }
+  },
+  "Dryopteris lacera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマワラビ。雑木林の林床に普通の常緑シダ。葉が二回羽状で、先端部分の小羽片が小さくなる独特の姿が特徴です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "二回羽状の中型シダで、葉の先端部分の小羽片が急に小さくなる「うで」のような独特の形が目印。林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A common evergreen wood fern of mixed forest understory. Bipinnate fronds with distinctively reduced upper pinnae — looking like an 'arm' with a small hand.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium bipinnate evergreen fern whose upper pinnae abruptly shrink near the tip — that profile is the key field mark."
+    },
+    "zh": {
+      "summary": "粗齿鳞毛蕨，杂木林林床常见的常绿蕨。叶二回羽状，先端羽片骤变小如『手腕』形是特征。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找中型二回羽状常绿蕨，叶先端羽片骤变小如手腕形即是。常成片覆地。"
+    }
+  },
+  "Glycyphana fulvistemma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロハナムグリ。黒い体に黄色い斑紋が散らばる小型のハナムグリ。花の上で蜜や花粉を食べ、樹液場にも集まります。",
+      "habitat_hint": "花壇、雑木林の樹液場、花の咲く低木、神社の境内、明るい園路。",
+      "finding_tips": "花の上、特にアザミやヤツデなどで黒い小型のコガネムシを探します。背中に黄色い不規則な斑紋があるのが目印です。"
+    },
+    "en": {
+      "summary": "A small black flower chafer scattered with irregular yellow spots. Feeds on nectar and pollen at flowers and visits tree sap.",
+      "habitat_hint": "Flower beds, sap flows in mixed woodland, flowering shrubs, shrine grounds, and bright paths.",
+      "finding_tips": "On flowers (especially thistles and Fatsia) look for a small black chafer with irregular yellow markings on the back."
+    },
+    "zh": {
+      "summary": "黑花潜，小型黑色花潜金龟，背具黄色不规则斑。访花蜜与树液。",
+      "habitat_hint": "花坛、杂木林树液处、开花灌木、神社境内、明亮园路。",
+      "finding_tips": "在花上（尤其菊蓟与八角金盘）找背具黄色不规则斑的小型黑色金龟。"
+    }
   }
 }
