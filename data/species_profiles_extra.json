@@ -6209,5 +6209,167 @@
       "habitat_hint": "农田、家庭菜园、河滩、杂草丛、有蚜虫的植物。",
       "finding_tips": "在叶面蚜虫群附近找小型黄至橙色瓢虫。斑型个体差异大。"
     }
+  },
+  "Eurya japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒサカキ。神事で榊の代用として使われる常緑低木。早春に小さな白い花を多数つけ、独特の臭気（ガス漏れに似た匂い）を放ちます。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、墓地、半日陰の斜面。",
+      "finding_tips": "光沢のある厚い小型葉の常緑低木を探します。2〜4月、独特の臭気を出す枝の腋に咲く小さな白い花が目印（雌雄異株）。"
+    },
+    "en": {
+      "summary": "Hisakaki, an evergreen shrub widely used in Shinto rituals as a substitute for true sakaki. Tiny white flowers in early spring give off a notable 'gas leak' odour.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, cemeteries, and shaded slopes.",
+      "finding_tips": "Look for an evergreen with glossy small thick leaves. In February-April the tiny axillary white flowers release a distinctive sulfurous scent (dioecious)."
+    },
+    "zh": {
+      "summary": "杨桐（柃木），常绿灌木。在神事中作真榊的替代。早春叶腋开许多白色小花，散发似煤气漏味的独特气味。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、墓地、半阴斜坡。",
+      "finding_tips": "找叶小厚有光泽的常绿灌木。二至四月叶腋小白花散发硫黄味为特征（雌雄异株）。"
+    }
+  },
+  "Liriope muscari": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブラン。林床や公園の植え込みで普通の常緑多年草。夏に紫色の小花が穂状に並び、秋に黒い球形の実をつけます。",
+      "habitat_hint": "雑木林の林床、神社の境内、公園の植え込み、半日陰の庭園、街路樹の根元。",
+      "finding_tips": "細長い線形の常緑葉と、夏の紫色の小花穂、秋の黒い球形の実を探します。グランドカバーとして植栽もされています。"
+    },
+    "en": {
+      "summary": "Big Blue Lilyturf, an evergreen perennial common in forest understory and park borders. Purple flower spikes in summer, glossy black berries in autumn.",
+      "habitat_hint": "Forest understory, shrine grounds, park plantings, half-shaded gardens, and around street trees.",
+      "finding_tips": "Look for long evergreen grass-like leaves with summer spikes of small purple flowers and autumn black berries. Widely used as ground cover."
+    },
+    "zh": {
+      "summary": "麦冬（阔叶山麦冬），常绿多年生草。林床和公园植被常见。夏季抽紫色小花穗，秋季结黑色球果。",
+      "habitat_hint": "杂木林林床、神社境内、公园植被、半阴庭园、行道树根周。",
+      "finding_tips": "找叶细长线形常绿、夏季紫色花穗、秋季黑色球果的植物。常作覆地栽培。"
+    }
+  },
+  "Saxifraga stolonifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ユキノシタ。湿った石垣や岩場で見られる常緑多年草。葉に白い斑紋があり、初夏に白い独特の花（下の2弁が長く伸びる）を咲かせます。葉は食用になります。",
+      "habitat_hint": "湿った石垣、岩の隙間、滝の周辺、神社の参道脇、谷沿いの林。",
+      "finding_tips": "丸い葉の表に白い斑紋がある植物を探します。5〜6月、白い独特の形の花が立ち上がる茎の先につきます。葉は天ぷらにして食べられます。"
+    },
+    "en": {
+      "summary": "Strawberry Saxifrage, an evergreen perennial on damp stone walls and rocks. Leaves have white veining; in early summer it produces unusual white flowers with two elongated lower petals. Leaves are edible.",
+      "habitat_hint": "Damp stone walls, rock crevices, around waterfalls, shrine paths, and valley woods.",
+      "finding_tips": "Look for round leaves with white-veined upper surfaces. From May to June it sends up stems with distinctive asymmetric white flowers. Leaves are often eaten as tempura."
+    },
+    "zh": {
+      "summary": "虎耳草，常绿多年生草。潮湿石墙与岩缝中常见。叶上有白色脉纹，初夏开形态独特的白花（下方两瓣特长）。叶可食用。",
+      "habitat_hint": "潮湿石墙、岩缝、瀑布周边、神社参道旁、谷地林。",
+      "finding_tips": "找叶圆形且叶面有白脉纹的植物。五至六月抽茎开白色不对称形花。叶常作天妇罗食用。"
+    }
+  },
+  "Necrophila japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオヒラタシデムシ。動物の死骸や腐ったものを食べる平たい大型甲虫。生態系の分解者として重要な役割を果たします。",
+      "habitat_hint": "雑木林の林床、河川敷、農地、動物の死骸付近、湿った地面。",
+      "finding_tips": "落ち葉や石をめくると見つかる平たい黒い大型甲虫。死骸の下では集団で見られることもあります。**触ると独特の悪臭を出すので素手は避けて。**"
+    },
+    "en": {
+      "summary": "A large flat black carrion beetle that feeds on dead animals and decaying matter — an important decomposer in woodland ecosystems.",
+      "habitat_hint": "Forest understory, riverbanks, farmland, around animal carcasses, and damp ground.",
+      "finding_tips": "Turn over leaves and stones to find a flat dark beetle. Groups gather under carrion. **Avoid bare-hand contact — releases a foul odour when disturbed.**"
+    },
+    "zh": {
+      "summary": "日本葬甲，大型扁平黑色食腐甲虫。是林地生态系统重要的分解者。",
+      "habitat_hint": "林床、河滩、农田、动物尸体附近、潮湿地面。",
+      "finding_tips": "翻起落叶或石头找扁平黑色大甲虫。尸体下常见聚集。**勿徒手接触，受扰会放恶臭。**"
+    }
+  },
+  "Thomisus labefactus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アズチグモ。花の上で獲物を待ち伏せる白〜淡黄色のカニグモ。花にやってくるハチや蝶を捕食します。網は張りません。",
+      "habitat_hint": "花壇、花の咲く低木、河川敷の花、雑木林の林縁、農地の縁。",
+      "finding_tips": "白〜淡黄色の小型蜘蛛を花の上で探します。前脚2対が長く、横歩きでカニのように動きます。花の色に擬態するので注意深く見てください。"
+    },
+    "en": {
+      "summary": "A white-to-pale-yellow crab spider that ambushes flower-visiting insects. Does not spin webs; relies on colour mimicry with flowers.",
+      "habitat_hint": "Flower beds, flowering shrubs, riverside flowers, woodland edges, and field margins.",
+      "finding_tips": "Look on flowers for a small whitish or pale-yellow spider. The long forelegs and sideways crab-like motion confirm ID — but they blend into petals."
+    },
+    "zh": {
+      "summary": "白蟹蛛，白至淡黄色的蟹蛛。在花上伏击访花的蜂蝶，不结网，靠花色拟态隐蔽。",
+      "habitat_hint": "花坛、开花灌木、河滩花卉、林缘、田边。",
+      "finding_tips": "在花上找白色或淡黄色小蛛。前两对足较长、横向蟹形行走。需仔细辨别花色拟态。"
+    }
+  },
+  "Pristomyrmex punctatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アミメアリ。雑木林の林床に大群落を作る茶褐色の小型アリ。働きアリ同士が産卵する（クローン繁殖する）珍しい習性で知られます。",
+      "habitat_hint": "雑木林の林床、神社の境内、落ち葉の下、石の下、湿った地面。",
+      "finding_tips": "落ち葉や石をめくると大量の小さな茶色いアリが現れたら本種の可能性。女王がおらず、働きアリが繁殖する珍しいシステムです。"
+    },
+    "en": {
+      "summary": "An ant species famous for unusual social biology — workers themselves reproduce parthenogenetically, with no true queen caste.",
+      "habitat_hint": "Forest understory, shrine grounds, under leaf litter, under stones, and damp ground.",
+      "finding_tips": "Lift leaves or stones to expose dense aggregations of small brown ants. Unique among Japanese ants for queenless worker reproduction."
+    },
+    "zh": {
+      "summary": "网纹蚁。习性独特：无真正蚁后，工蚁本身可孤雌产卵繁殖。常见于林床落叶下。",
+      "habitat_hint": "杂木林林床、神社境内、落叶下、石下、潮湿地面。",
+      "finding_tips": "翻起落叶或石头出现大量小型褐色蚂蚁可能即是。无蚁后、工蚁繁殖是其特殊之处。"
+    }
+  },
+  "Agelena silvatica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサグモ。茂みの中に漏斗状の網を張る大型のクサグモ類。網の奥にトンネルを作って隠れ、震動を感知して飛び出します。",
+      "habitat_hint": "雑木林の藪、生け垣、低木の間、河川敷の草藪、神社の植え込み。",
+      "finding_tips": "茂みに張られた漏斗（じょうご）型の網を探します。網の奥に細長い管があり、そこからクモが飛び出して獲物を捕らえます。"
+    },
+    "en": {
+      "summary": "A large funnel-weaver. Builds funnel-shaped webs in shrubs and hides in a tunnel at the back, rushing out at vibrations.",
+      "habitat_hint": "Woodland thickets, hedges, between low shrubs, riverbank scrub, and shrine plantings.",
+      "finding_tips": "Look in thickets for funnel-shaped webs with a tubular retreat at the back. Vibrations make the spider rush out to investigate."
+    },
+    "zh": {
+      "summary": "草蛛，大型漏斗网蛛。在灌丛中织漏斗状网，于网后管道中隐藏，感震便冲出捕食。",
+      "habitat_hint": "杂木林灌丛、绿篱、低木间、河滩草丛、神社植被。",
+      "finding_tips": "在灌丛中寻找漏斗形网，网后有管状退避所，震动可引蛛冲出。"
+    }
+  },
+  "Persicaria thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミゾソバ（あるいは類似種）。湿地や水田の縁で群生するタデ類で、葉が独特の鉾形（牛の額型）。秋に淡桃色〜白の小花を金平糖のように丸く集めて咲かせます。",
+      "habitat_hint": "湿地、水田の縁、用水路の脇、河川敷の湿地、湿った草地。",
+      "finding_tips": "9〜10月、水辺で鉾形（やじり形）の葉と金平糖状の淡桃色花序を持つ植物を探します。茎には逆向きの細かいトゲがあります。"
+    },
+    "en": {
+      "summary": "Korean Persicaria, a smartweed of wet meadows and paddy edges. Distinctive arrowhead-shaped leaves; in autumn pink-and-white flowers form ball-like clusters.",
+      "habitat_hint": "Wetlands, paddy edges, ditch margins, marshy riverbanks, and damp meadows.",
+      "finding_tips": "From September to October look at waterside areas for plants with arrowhead leaves and rounded pink flower clusters. Stems carry small backward-curving prickles."
+    },
+    "zh": {
+      "summary": "戟叶蓼，湿地与稻田周边的蓼属植物。叶形似牛额（戟形）特征明显。秋季粉白色小花集成球状花序。",
+      "habitat_hint": "湿地、水田边、灌渠旁、河滩湿地、潮湿草地。",
+      "finding_tips": "九至十月在水边找叶呈戟形、花序球状粉白的植物。茎具反向小刺。"
+    }
+  },
+  "Trametes orientalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "灰白色〜淡褐色の半円形の薄く硬いキノコで、立ち枯れの広葉樹や倒木に層をなしてつきます。雲芝（カワラタケ）の近縁種です。",
+      "habitat_hint": "雑木林の倒木、枯れ枝、立ち枯れ広葉樹、神社の古木。",
+      "finding_tips": "倒木の表面に薄い扇形〜半円形の灰白色〜淡褐色のキノコが層をなしてつき、年中見られます。カワラタケと混生することがあります。"
+    },
+    "en": {
+      "summary": "A grey-to-tan thin tough bracket fungus, growing in shelves on dead broadleaf wood. A close relative of Turkey Tail.",
+      "habitat_hint": "Logs, dead branches, standing dead broadleaf trees, and ancient shrine trees.",
+      "finding_tips": "Look on logs for thin grey-to-tan semicircular brackets in overlapping shelves. Often grows alongside Turkey Tail."
+    },
+    "zh": {
+      "summary": "东方栓菌，灰白至淡褐色的薄硬质多孔菌，常在朽木上层叠生长。是云芝的近缘种。",
+      "habitat_hint": "倒木、枯枝、立枯阔叶树、神社古树。",
+      "finding_tips": "在朽木上找薄扇形或半圆形灰白至淡褐色层叠菌。常与云芝同生。"
+    }
   }
 }
