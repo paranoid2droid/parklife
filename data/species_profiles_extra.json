@@ -5561,5 +5561,167 @@
       "habitat_hint": "农田、家庭菜园、河滩、花坛、明亮园路边。",
       "finding_tips": "凤蝶中翅黄色配清晰黑纹的一种。家庭菜园伞形科植物上常聚集其幼虫，幼虫亦带鲜明条纹。"
     }
+  },
+  "Miscanthus sinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ススキ。日本の秋の代表的なイネ科で、長く伸びた茎の先に銀白色の花穂を立てます。「中秋の名月」のお供えとして親しまれます。",
+      "habitat_hint": "河川敷、土手、空き地、明るい斜面、伐採跡地、農地の縁。",
+      "finding_tips": "秋に2〜3メートルに育った株から銀白色の長い穂が垂れる場所を探します。葉の縁は細かい鋸歯で、触ると切れることがあるので注意。"
+    },
+    "en": {
+      "summary": "Japanese Silver Grass (susuki), an iconic autumn grass of Japan. Tall stems with silver-white flowering plumes, traditionally displayed at the mid-autumn moon-viewing festival.",
+      "habitat_hint": "Riverbanks, levees, vacant lots, bright slopes, clearings, and field margins.",
+      "finding_tips": "In autumn look for 2–3 m clumps with long silvery plumes. Leaf edges are finely serrated and can cut skin — handle carefully."
+    },
+    "zh": {
+      "summary": "芒草（薄草），日本秋季代表性禾本科。茎高 2–3 米，顶端开银白色花穗，是中秋赏月祭品。",
+      "habitat_hint": "河滩、堤岸、空地、明亮斜坡、伐木迹地、田边。",
+      "finding_tips": "秋季寻找 2–3 米高、顶端银白色长穗的丛生植物。叶缘细密锯齿可割伤皮肤，需小心。"
+    }
+  },
+  "Mazus miquelii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキサギゴケ。水田や芝生で群生する小型多年草。春に明るい紫色の唇形花を多数咲かせます。走出枝で繁殖するので大群落を作ります。",
+      "habitat_hint": "水田、芝生、湿った草地、神社の境内、田の畦、河川敷の湿地。",
+      "finding_tips": "4〜6月、地面に紫色の唇形花のじゅうたんが広がる場所を探します。トキワハゼと似ますが、本種は地表を這う走出枝で群落を作ります。"
+    },
+    "en": {
+      "summary": "Japanese Mazus, a small perennial that forms dense colonies on damp lawns and around rice paddies. Vivid violet lipped flowers carpet the ground in spring.",
+      "habitat_hint": "Rice paddies, lawns, damp meadows, shrine grounds, paddy levees, and wet riverbanks.",
+      "finding_tips": "From April to June look for carpets of violet lipped flowers low to the ground. Similar to M. pumilus, but this species spreads by surface stolons forming colonies."
+    },
+    "zh": {
+      "summary": "匍茎通泉草，小型多年生植物。春季在湿草地与稻田周边形成密集紫色唇形花地毯。",
+      "habitat_hint": "水田、草坪、潮湿草地、神社境内、田埂、河滩湿地。",
+      "finding_tips": "四至六月寻找贴地成片的紫色唇形花地毯。与近缘通泉草近似但有匍匐茎成片繁殖。"
+    }
+  },
+  "Veronica arvensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タチイヌノフグリ。外来種で、立ち上がる細い茎の先に小さな青紫色の花を多数つけます。オオイヌノフグリより小型で花も小さく目立ちません。",
+      "habitat_hint": "畑、道端、芝生の縁、河川敷、空き地、舗装の隙間。",
+      "finding_tips": "3〜6月、地面から細く立ち上がる茎と、直径3mmほどの非常に小さな青紫色の花を探します。オオイヌノフグリと混生することが多いです。"
+    },
+    "en": {
+      "summary": "Wall Speedwell, an introduced speedwell with thin upright stems and tiny violet-blue flowers — much smaller than the related Persian Speedwell.",
+      "habitat_hint": "Gardens, roadsides, lawn edges, riverbanks, vacant lots, and pavement cracks.",
+      "finding_tips": "From March to June look for thin upright stems with tiny ~3 mm violet-blue flowers. Often grows beside the larger Persian Speedwell."
+    },
+    "zh": {
+      "summary": "直立婆婆纳（田野婆婆纳），外来。细茎直立，开极小的紫蓝色花，比阿拉伯婆婆纳花小很多。",
+      "habitat_hint": "菜园、路边、草坪边、河滩、空地、铺装缝隙。",
+      "finding_tips": "三至六月找细茎直立、直径约 3 mm 紫蓝色花的小植物。常与阿拉伯婆婆纳共生。"
+    }
+  },
+  "Bromus catharticus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌムギ。外来種のイネ科で、河川敷や農地の縁で大型に育ちます。緑色の大きな小穂が垂れ下がるように並びます。",
+      "habitat_hint": "河川敷、農地の縁、空き地、明るい斜面、休耕田。",
+      "finding_tips": "5〜7月、人の腰高ほどに育ち、扁平な大型の小穂が枝先から垂れ下がるイネ科を探します。"
+    },
+    "en": {
+      "summary": "Rescue Grass, an introduced grass that grows tall on riverbanks and field edges. Drooping flat green spikelets line the branches.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, bright slopes, and fallow fields.",
+      "finding_tips": "From May to July look for waist-high grasses with large, flat, drooping spikelets dangling from the branches."
+    },
+    "zh": {
+      "summary": "扁穗雀麦，外来禾本科。河滩与田边长高，分枝末端悬垂大型扁平绿色小穗。",
+      "habitat_hint": "河滩、田边、空地、明亮斜坡、休耕田。",
+      "finding_tips": "五至七月找腰高的禾本科，分枝末端垂下大型扁平绿色小穗。"
+    }
+  },
+  "Lilium auratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サクユリ（ヤマユリ）。日本固有の大型ユリで、夏に大きな白い花を咲かせ、強い芳香を放ちます。花の中央に黄色い筋と赤い斑点があります。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、林道脇、神社の境内、伊豆諸島の海岸近く。",
+      "finding_tips": "7〜8月、人の背丈ほどの茎の先に直径15〜20cmの大きな白い花が咲きます。芳香が強いので近くに来ると気づきます。"
+    },
+    "en": {
+      "summary": "Gold-Banded Lily, a large Japan-endemic lily with huge white summer flowers. Strongly fragrant; flowers feature gold central bands and red spots.",
+      "habitat_hint": "Woodland edges, bright slopes, forest road verges, shrine grounds, and coastal Izu Islands.",
+      "finding_tips": "From July to August look for human-tall stems bearing huge 15–20 cm white flowers. The strong scent often gives them away first."
+    },
+    "zh": {
+      "summary": "天香百合，日本特有大型百合。夏季开巨大白色花，花中央有金黄色条纹与红色斑点，香气浓郁。",
+      "habitat_hint": "林缘、明亮斜坡、林道旁、神社境内、伊豆群岛沿海。",
+      "finding_tips": "七至八月寻找人高茎顶开直径 15–20 cm 巨白花的植物。香气浓，远处即能察觉。"
+    }
+  },
+  "Lonicera gracilipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウグイスカグラ。早春に細長い淡桃色の花を咲かせる落葉低木。初夏に赤い甘い実をつけ、食用にもなります。",
+      "habitat_hint": "雑木林の林縁、神社の境内、明るい斜面、谷沿いの林、河川敷の樹林。",
+      "finding_tips": "3〜4月、葉が出る頃に細長い淡桃色の花が枝先から垂れる低木を探します。初夏の赤い果実は鳥もよく食べに来ます。"
+    },
+    "en": {
+      "summary": "Hairy Honeysuckle. A deciduous shrub with slender pale-pink flowers in early spring and edible sweet red berries in early summer.",
+      "habitat_hint": "Woodland edges, shrine grounds, bright slopes, valley woods, and riverside woodland.",
+      "finding_tips": "From March to April find a shrub with slender pale-pink flowers dangling as leaves emerge. Red berries follow in early summer and attract birds."
+    },
+    "zh": {
+      "summary": "细花忍冬，落叶灌木。早春开细长淡粉花，初夏结红色甜果，可食。",
+      "habitat_hint": "林缘、神社境内、明亮斜坡、谷地林、河岸林。",
+      "finding_tips": "三至四月叶展时寻找枝下垂细长淡粉花的灌木。初夏红果鸟亦喜食。"
+    }
+  },
+  "Callambulyx gabyae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウンモンスズメ。緑がかった翅に雲のような模様があるスズメガ。サクラなどを食樹とし、夏に発生します。",
+      "habitat_hint": "サクラなどの広葉樹林、街路樹、神社の境内、夜の街灯。",
+      "finding_tips": "夏の夜、街灯や自販機の灯りに集まる緑がかった翅の中型スズメガを探します。翅の雲状模様が独特です。"
+    },
+    "en": {
+      "summary": "A hawkmoth with greenish wings patterned like clouds. Larvae feed on cherry and related trees; adults appear in summer.",
+      "habitat_hint": "Cherry-tree woodland, street trees, shrine grounds, and around streetlights at night.",
+      "finding_tips": "On summer nights look at lights for a medium hawkmoth with greenish, cloud-marked wings."
+    },
+    "zh": {
+      "summary": "云纹天蛾，翅带绿色调和云纹的天蛾。幼虫食樱花等树，成虫夏季出现。",
+      "habitat_hint": "樱花等阔叶林、行道树、神社境内、夜灯下。",
+      "finding_tips": "夏夜在路灯或自动售货机灯下找翅绿带云纹的中型天蛾。"
+    }
+  },
+  "Cyperus microiria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カヤツリグサ。日本中で最も普通のカヤツリグサ類。茎の頂部に黄褐色の散房状の花序をつけ、茎は三角形です。",
+      "habitat_hint": "畑、道端、河川敷、水田の縁、空き地、湿った草地。",
+      "finding_tips": "8〜10月、茎の先から多数の細枝に小穂が広がる線香花火状の花序を探します。茎を切ると三角形なのも目印。"
+    },
+    "en": {
+      "summary": "A very common sedge of Japan with a yellowish-brown sparkler-shaped inflorescence and triangular stems.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, paddy edges, vacant lots, and damp meadows.",
+      "finding_tips": "From August to October look for sedges with a 'sparkler' of branches at the top. The triangular stem cross-section confirms the genus."
+    },
+    "zh": {
+      "summary": "微果莎草，日本最常见的莎草之一。茎顶开黄褐色散房状『烟花』状花序，茎三棱形。",
+      "habitat_hint": "菜园、路边、河滩、水田边、空地、潮湿草地。",
+      "finding_tips": "八至十月寻找茎顶向四面散开如『烟花』的花序莎草。茎三棱形可作确认。"
+    }
+  },
+  "Campsomeriella annulata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメハラナガツチバチ。腹部に黄色い帯のある大型のツチバチで、コガネムシ類の幼虫に卵を産み付ける寄生バチです。",
+      "habitat_hint": "明るい草地、河川敷、農地、雑木林の林縁、芝生の縁。",
+      "finding_tips": "晴れた日、地面を低くゆっくり飛ぶ黒い大型のハチを探します。腹部に黄色い細い帯があります。**素手で触らないこと。**"
+    },
+    "en": {
+      "summary": "A large scoliid wasp with thin yellow abdominal bands. A parasitoid that lays eggs on scarab beetle grubs underground.",
+      "habitat_hint": "Bright grassland, riverbanks, farmland, woodland edges, and lawn margins.",
+      "finding_tips": "On sunny days look for a large dark wasp flying low and slowly over the ground. Thin yellow abdominal bands distinguish it. **Do not handle bare-handed.**"
+    },
+    "zh": {
+      "summary": "环节土蜂，大型土蜂。腹部具细黄环带，是金龟幼虫的寄生蜂。",
+      "habitat_hint": "明亮草地、河滩、农田、林缘、草坪边。",
+      "finding_tips": "晴天观察在地面低空缓飞的大型黑色蜂。腹部细黄带为辨识。**勿徒手接触。**"
+    }
   }
 }
