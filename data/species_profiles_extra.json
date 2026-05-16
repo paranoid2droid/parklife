@@ -6857,5 +6857,167 @@
       "habitat_hint": "河口、咸淡水、东京湾、河流下游、渔港周边。",
       "finding_tips": "河口或下游水面成群跃出的大型鱼可能即是。背灰青、体侧银色在水面闪光。"
     }
+  },
+  "Oenothera laciniata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コマツヨイグサ。北米原産の小型外来種で、地面を這うように広がります。夏の夕方〜朝に淡黄色の小さな花を咲かせます。",
+      "habitat_hint": "海岸の砂地、河川敷、空き地、明るい斜面、農地の縁。",
+      "finding_tips": "5〜10月、地面を這うつる状の茎に淡黄色〜橙色（しおれると赤くなる）の花を探します。葉は深く切れ込み、波状のロゼットを作ります。"
+    },
+    "en": {
+      "summary": "Cutleaf Evening Primrose, a small North-American import. Sprawls along the ground; pale yellow flowers (turning red as they wither) open in summer evenings.",
+      "habitat_hint": "Sandy coasts, riverbanks, vacant lots, bright slopes, and field margins.",
+      "finding_tips": "From May to October look for sprawling stems with pale yellow flowers low to the ground. Leaves are deeply lobed in a wavy rosette."
+    },
+    "zh": {
+      "summary": "裂叶月见草，北美原产小型外来。匍匐地面，夏季傍晚至清晨开淡黄色（凋谢转红）小花。",
+      "habitat_hint": "海岸沙地、河滩、空地、明亮斜坡、田边。",
+      "finding_tips": "五至十月找贴地匍匐、淡黄色小花的植物。叶深裂呈波状莲座。"
+    }
+  },
+  "Pteris cretica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セフリイノモトソウ。湿った石垣や林床に生える中型の常緑シダ。葉は奇数羽状で、葉軸の側面に翼があるのが特徴です。",
+      "habitat_hint": "石垣、岩壁、雑木林の林床、神社の参道、半日陰の斜面。",
+      "finding_tips": "湿った石垣や林床で奇数羽状の中型シダを探します。葉軸に翼があり、葉裏に細長い胞子嚢群が並びます。"
+    },
+    "en": {
+      "summary": "Cretan Brake, a medium evergreen fern on damp walls and forest floors. Odd-pinnate fronds with a winged rachis are distinctive.",
+      "habitat_hint": "Stone walls, rocky faces, forest understory, shrine paths, and shaded slopes.",
+      "finding_tips": "On damp walls or forest floor look for a medium evergreen fern with odd-pinnate fronds and a clearly winged rachis. Long linear sori line the leaflet edges."
+    },
+    "zh": {
+      "summary": "欧洲凤尾蕨，潮湿石墙与林床的中型常绿蕨。叶为奇数羽状，叶轴有翼是辨识要点。",
+      "habitat_hint": "石墙、岩壁、林床、神社参道、半阴斜坡。",
+      "finding_tips": "在潮湿石墙或林床找奇数羽状中型常绿蕨。叶轴具翼，叶背边缘有长线形孢子囊群。"
+    }
+  },
+  "Artona martini": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タケノホソクロバ。黒い体に細い赤色の腹節があるマダラガ。幼虫が竹の葉を食害することで知られ、毛に触れると皮膚炎を起こします。",
+      "habitat_hint": "竹林、神社の境内の竹、河川敷の竹藪、住宅地の竹植え込み。",
+      "finding_tips": "竹の葉に黒い細い体の蛾を探します。**幼虫の毒毛は皮膚にかぶれを起こすので絶対に触らないこと。** 竹林近くではこすれないよう注意。"
+    },
+    "en": {
+      "summary": "Bamboo Tussock Moth. Black body with thin red abdominal bands. Larvae defoliate bamboo; their hairs can cause dermatitis.",
+      "habitat_hint": "Bamboo groves, shrine bamboo, riverbank bamboo, and residential bamboo plantings.",
+      "finding_tips": "Look on bamboo leaves for a slender black moth. **Larval hairs cause skin irritation — do not handle. Avoid rubbing against bamboo in infested areas.**"
+    },
+    "zh": {
+      "summary": "竹斑蛾，黑色配腹部细红环带。幼虫食竹叶，毒毛接触皮肤可致皮炎。",
+      "habitat_hint": "竹林、神社竹丛、河滩竹丛、住宅区竹植被。",
+      "finding_tips": "竹叶上找黑色细长蛾。**幼虫毒毛致皮炎，切勿接触；竹林附近避免擦碰。**"
+    }
+  },
+  "Cyperus iria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゴメガヤツリ。水田や畑の縁に普通の小型カヤツリグサ。茎の頂部に黄褐色の細かい小穂が広がる線香花火型の花序をつけます。",
+      "habitat_hint": "水田、畑、湿った草地、河川敷、用水路の縁。",
+      "finding_tips": "7〜10月、水田周辺で黄褐色の小穂が線香花火状に広がる小型のカヤツリグサを探します。茎は三角形です。"
+    },
+    "en": {
+      "summary": "Rice Flat-sedge. A small sedge with brownish-yellow sparkler-shaped inflorescences. Very common in and around rice paddies.",
+      "habitat_hint": "Rice paddies, gardens, damp meadows, riverbanks, and ditch margins.",
+      "finding_tips": "From July to October look around paddies for small sedges with brownish-yellow spreading spikelets. Triangular stem cross-section."
+    },
+    "zh": {
+      "summary": "异型莎草近缘的水田莎草，常见于水田与菜地。茎顶散开黄褐色烟花状小穗，茎三棱形。",
+      "habitat_hint": "水田、菜地、潮湿草地、河滩、灌渠边。",
+      "finding_tips": "七至十月在水田周边找茎顶散开黄褐色烟花状小穗的小型莎草。茎三棱形。"
+    }
+  },
+  "Helophilus eristaloideus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナミホシハナアブ。腹部に幅広い黄色〜橙色の縞があり、ハチを擬態した中〜大型のハナアブ。湿地や池の周りで花を訪れます。",
+      "habitat_hint": "湿地の縁、池の周辺、花壇、河川敷の花、水田の畔。",
+      "finding_tips": "花の上で長く滞在する太い後脚を持つハチに似た虫を探します。胸部にも縦縞があるのが目印で、目が大きい点で本物のハチと区別できます。"
+    },
+    "en": {
+      "summary": "A larger Helophilus hover fly with bold yellow-and-orange abdominal bands and longitudinal thoracic stripes. A bee-mimic that visits wetland flowers.",
+      "habitat_hint": "Wetland margins, around ponds, flower beds, riverside flowers, and paddy levees.",
+      "finding_tips": "Look at flowers for a bee-like insect with thick hind legs and bold thoracic stripes. Large eyes and two wings confirm it as a fly, not a bee."
+    },
+    "zh": {
+      "summary": "粗腿食蚜蝇大型种，腹部黄橙色横带、胸部纵纹明显。拟态熊蜂的食蚜蝇。",
+      "habitat_hint": "湿地边、池塘周边、花坛、河滩花卉、稻田田埂。",
+      "finding_tips": "在花上找带粗后腿和明显胸部纵纹的拟蜂昆虫。大复眼与两片翅可确认为食蚜蝇。"
+    }
+  },
+  "Fimbristylis quinquangularis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメテンツキ。水田や湿地に生える小型のカヤツリグサ類。細い線形の葉と、茎の先に多数の小穂が集まる花序を持ちます。",
+      "habitat_hint": "水田、湿地、河川の岸辺、湿った草地、用水路の縁。",
+      "finding_tips": "8〜10月、水辺で細い茎の先に褐色〜緑色の小穂が密集する小型のカヤツリグサ類を探します。"
+    },
+    "en": {
+      "summary": "A small Fimbristylis sedge of paddies and wetlands. Narrow leaves and clusters of small spikelets at the stem tip.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, damp meadows, and ditch margins.",
+      "finding_tips": "From August to October look at waterside for small sedges with dense brown-green spikelet clusters at the top of slender stems."
+    },
+    "zh": {
+      "summary": "五棱飘拂草，小型莎草科。水田与湿地常见，茎细顶端集生褐绿色小穗。",
+      "habitat_hint": "水田、湿地、河岸、潮湿草地、灌渠边。",
+      "finding_tips": "八至十月在水边找细茎顶端集生褐绿色小穗的小型莎草。"
+    }
+  },
+  "Cyperus sanguinolentus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワラスガナ。河川敷の砂地や湿った場所に生える小型のカヤツリグサ類。赤褐色を帯びた小穂が特徴です。",
+      "habitat_hint": "河川敷の砂地、湿地、農道の縁、湿った空き地。",
+      "finding_tips": "8〜10月、河川敷で赤褐色の小穂を持つ小型のカヤツリグサを探します。低く密集して生えます。"
+    },
+    "en": {
+      "summary": "A small sedge of sandy riverbanks and damp ground. Reddish-brown spikelets distinguish it from similar congeners.",
+      "habitat_hint": "Sandy riverbanks, wetlands, farm-road edges, and damp vacant lots.",
+      "finding_tips": "From August to October look on riverbank sand for small sedges with reddish-brown spikelets. Low and densely growing."
+    },
+    "zh": {
+      "summary": "红鳞扁莎，小型莎草。生于河滩沙地与潮湿处，小穗带赤褐色为辨识。",
+      "habitat_hint": "河滩沙地、湿地、农道边、潮湿空地。",
+      "finding_tips": "八至十月在河滩沙地寻找带赤褐色小穗的小型莎草。低矮密集。"
+    }
+  },
+  "Dryopteris immixta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "雑木林の林床に普通の常緑シダ。二回羽状の葉が放射状に広がり、年中緑を保ちます。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "二回羽状の中型シダで、葉軸が黒褐色を帯びるのが特徴。群生して林床を覆います。葉裏に丸い胞子嚢群が並びます。"
+    },
+    "en": {
+      "summary": "A common evergreen wood fern of mixed forest understory. Bipinnate fronds spread radially and stay green year-round.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Medium bipinnate evergreen fern with a darker rachis. Often colonial; round sori on the underside."
+    },
+    "zh": {
+      "summary": "鳞毛蕨一种，杂木林林床常见的常绿蕨。二回羽状叶放射状展开，全年保持绿色。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "中型二回羽状常绿蕨，叶轴偏黑褐色。常成片，叶背圆形孢子囊群。"
+    }
+  },
+  "Elkalyce argiades": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツバメシジミ（属名異記、Cupido argiadesと同種）。後翅に小さな尾状突起のあるシジミチョウで、雄の翅表は青紫に光ります。",
+      "habitat_hint": "草地、河川敷、農地の縁、マメ科植物のある明るい場所。",
+      "finding_tips": "シジミチョウの中で後翅に細い尾突起があるものを探します。雄の青紫色は日光を浴びると鮮やかです。"
+    },
+    "en": {
+      "summary": "Short-tailed Blue (alternate genus). A lycaenid with tiny hindwing tails; male uppersides flash blue-violet. Common where legumes grow.",
+      "habitat_hint": "Grassland, riverbanks, field margins, and bright sites with leguminous plants.",
+      "finding_tips": "Among small lycaenids look for ones with tiny tail extensions on the hindwing. Males show bright blue-violet uppersides in sun."
+    },
+    "zh": {
+      "summary": "短尾蓝灰蝶（属名异写）。后翅具细小尾突的灰蝶，雄虫翅面闪蓝紫光。",
+      "habitat_hint": "草地、河滩、田边、有豆科植物的明亮处。",
+      "finding_tips": "灰蝶中找后翅有细小尾突的种类。雄虫翅面阳光下显蓝紫。"
+    }
   }
 }
