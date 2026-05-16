@@ -7469,5 +7469,149 @@
       "habitat_hint": "杂木林林床、明亮斜坡、神社境内、田边、半阴草地。",
       "finding_tips": "四至六月找细叶密生的小型薹草，细茎顶端抽花穗。常成片覆地。"
     }
+  },
+  "Papilio dehaanii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラスアゲハ。黒い翅に深い青〜緑の金属光沢を持つ大型のアゲハチョウ。サンショウやミカン科を食樹とし、明るい林縁で見られます。",
+      "habitat_hint": "雑木林の林縁、社寺林、河川敷の樹木、サンショウ・ミカン類のある場所。",
+      "finding_tips": "黒地に青〜緑の光沢が美しいアゲハチョウを探します。クロアゲハと似ますが、光の角度で青〜緑の光沢が強く出ます。"
+    },
+    "en": {
+      "summary": "Chinese Peacock, a large dark swallowtail with intense blue-green iridescence. Larvae use Sansho and citrus.",
+      "habitat_hint": "Woodland edges, shrine groves, riverside trees, and places with Sansho and citrus.",
+      "finding_tips": "A black swallowtail with strong blue-green metallic sheen depending on angle. Similar to Spangle Swallowtail but with deeper iridescence."
+    },
+    "zh": {
+      "summary": "黑紫蓝凤蝶（卡拉斯凤蝶），大型黑色凤蝶，带深蓝绿色金属光泽。幼虫食花椒与柑橘类。",
+      "habitat_hint": "林缘、神社树林、河岸树木、有花椒/柑橘的地方。",
+      "finding_tips": "找黑底蓝绿金属光泽强烈的凤蝶。与黑凤蝶相似，但本种光泽更深。"
+    }
+  },
+  "Theretra japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コスズメ。前翅に独特の縞模様を持つ中型のスズメガ。夕方〜夜に花の前でホバリングして蜜を吸います。",
+      "habitat_hint": "庭、花壇、雑木林の林縁、夜の街灯、開けた園路。",
+      "finding_tips": "夕方〜夜、花の前でホバリングする中型のスズメガを探します。前翅の地味な縞模様と、後翅の橙色がチラッと見えます。"
+    },
+    "en": {
+      "summary": "A medium hawkmoth with distinct striped forewings. Hovers at flowers in the evening and at night to feed.",
+      "habitat_hint": "Gardens, flower beds, woodland edges, around streetlights at night, and open paths.",
+      "finding_tips": "At dusk and night watch flowers for a medium hawkmoth hovering with a long proboscis. The striped forewings and orange hindwing flash are diagnostic."
+    },
+    "zh": {
+      "summary": "斜带天蛾，中型天蛾。前翅具独特斜带，黄昏与夜间花前悬停吸蜜。",
+      "habitat_hint": "庭园、花坛、林缘、夜灯下、开阔园路。",
+      "finding_tips": "黄昏与夜间在花前找悬停吸蜜的中型天蛾。前翅斜带与后翅闪过的橙色是辨识。"
+    }
+  },
+  "Acanthocoris sordidus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホオズキカメムシ。茶色の体に脚に小さなトゲがあるヘリカメムシ。ホオズキやナス科植物に集まります。",
+      "habitat_hint": "農地、家庭菜園、河川敷、ホオズキやナス科植物のある場所。",
+      "finding_tips": "ホオズキやナス科植物の上で、茶色のヘリカメムシを探します。後脚の腿節にトゲがある特徴で他のカメムシと区別できます。"
+    },
+    "en": {
+      "summary": "A brown coreid (squash bug relative) whose legs bear small spines. Gathers on ground cherry (hozuki) and other Solanaceae.",
+      "habitat_hint": "Farmland, kitchen gardens, riverbanks, and around Solanaceae plants including hozuki.",
+      "finding_tips": "Search ground-cherry and Solanaceae for a brown coreid. The spiny hind femurs distinguish it from other shield bugs."
+    },
+    "zh": {
+      "summary": "灯笼草缘蝽，棕色缘蝽，腿股节具小刺。聚集于酸浆和茄科植物。",
+      "habitat_hint": "农田、家庭菜园、河滩、有酸浆或茄科植物的地方。",
+      "finding_tips": "在酸浆与茄科植物上找棕色缘蝽。后腿股节具刺与其他蝽有别。"
+    }
+  },
+  "Ducetia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セスジツユムシ。緑色の中型キリギリス類で、背中に1本の暗色縦線があります。夜に「ジリリッ」と短く鳴きます。",
+      "habitat_hint": "雑木林の林縁、河川敷の草地、農地、神社の境内、低木の上。",
+      "finding_tips": "緑色のキリギリスで、背中の中央に縦の暗色線があるものを探します。夜の鳴き声「ジリリッ」も識別に有用です。"
+    },
+    "en": {
+      "summary": "A medium green katydid with a single dark dorsal stripe along the back. Calls a short 'jiriri' at night.",
+      "habitat_hint": "Woodland edges, grassy riverbanks, farmland, shrine grounds, and shrub tops.",
+      "finding_tips": "Look for a green katydid with a dark line down the back. The brief 'jiriri' night-call helps as well."
+    },
+    "zh": {
+      "summary": "黄脊露螽（绿色螽斯）。背部正中具一条暗色纵线。夜里发出短促『叽哩』声。",
+      "habitat_hint": "林缘、河滩草地、农田、神社境内、灌木顶。",
+      "finding_tips": "找背中线为暗色的绿色螽斯。夜里短促『叽哩』鸣声亦可辅助辨识。"
+    }
+  },
+  "Anemonastrum flaccidum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニリンソウ。雑木林の林床に春に咲く白い花の山野草。一本の茎から通常2輪の花をつけることが名前の由来です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、湿った半日陰、社寺林。",
+      "finding_tips": "4〜5月、林床に白い5弁花（実は花弁ではなく萼片）が2輪ずつ咲く植物を探します。葉は深く切れ込み、群生して林床を覆います。"
+    },
+    "en": {
+      "summary": "Soft Anemone. A spring woodland herb whose flowering stems each typically bear two white flowers — hence the Japanese name 'ni-rin-sou' (two-flower grass).",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, damp half-shade, and shrine groves.",
+      "finding_tips": "From April to May look in forest understory for paired white flowers (actually sepals, not petals) on a single stem. Deeply lobed leaves; colonies cover the floor."
+    },
+    "zh": {
+      "summary": "二轮草，林床春季野花。一茎通常开 2 朵白花，日文俗名由此而得。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、潮湿半阴、神社树林。",
+      "finding_tips": "四至五月寻找一茎双花的白色野花（实为萼片非花瓣）。叶深裂，常成片覆地。"
+    }
+  },
+  "Achyranthes bidentata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イノコヅチ。林床や林縁に普通の多年草で、秋に細長い穂状の小花を立て、果実は衣服にくっつく「ひっつき虫」です。漢方では牛膝（ごしつ）として知られます。",
+      "habitat_hint": "雑木林の林床、林縁、神社の境内、半日陰の道端、農地の縁。",
+      "finding_tips": "9〜10月、地面から立ち上がる細長い穂と、後にできるトゲのある実を持つ植物を探します。実は衣服にくっつくので茂みでは要注意。"
+    },
+    "en": {
+      "summary": "Inokozuchi, a perennial of forest understory and edges. Slender autumn flower spikes; bristly seeds that cling to clothing. Known in herbal medicine as 'niu-xi' (ox knee).",
+      "habitat_hint": "Forest understory, woodland edges, shrine grounds, shaded roadsides, and field margins.",
+      "finding_tips": "From September to October look for slender vertical spikes from low plants. Seeds catch on clothing — mind the thickets."
+    },
+    "zh": {
+      "summary": "牛膝（『牛膝草』），林床与林缘常见多年生草。秋季抽细长穗，果具刺粘衣服。汉方用作『牛膝』。",
+      "habitat_hint": "杂木林林床、林缘、神社境内、半阴路边、田边。",
+      "finding_tips": "九至十月寻找抽出细长花穗的低矮植物。果实粘衣，灌丛中要小心。"
+    }
+  },
+  "Sittiparus varius amamii": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマガラの奄美亜種（亜種記載）。基本種と同様、黒い頭+白い頬+レンガ色の体ですが、地域変異の研究対象として登場します。実質的には基本種と同じ姿で観察できます。",
+      "habitat_hint": "雑木林、社寺林、エゴノキやシイの林、混合林。",
+      "finding_tips": "観察上はヤマガラ（Sittiparus varius）と同じ。レンガ色の腹とクリーム色の頬で他のカラ類と区別します。"
+    },
+    "en": {
+      "summary": "An Amami subspecies designation of the Varied Tit. In the field essentially identical to the nominate — the chestnut belly and cream cheeks separate it from other tits.",
+      "habitat_hint": "Mixed woodland, shrine groves, snowbell/chinquapin woods, and mixed forest.",
+      "finding_tips": "Field identification is the same as the Varied Tit — chestnut underparts and pale cheeks distinguish it from other tits."
+    },
+    "zh": {
+      "summary": "杂色山雀奄美亚种。野外辨识与指名亚种相同，栗红色腹与奶白色脸颊。",
+      "habitat_hint": "杂木林、神社树林、海桐栲树林、混交林。",
+      "finding_tips": "野外辨识与杂色山雀一致：栗红腹配奶白脸。"
+    }
+  },
+  "Eleusine indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オヒシバ。世界中の温帯に広く分布する強健なイネ科の雑草。掌状に分かれた穂をつけ、踏みつけや乾燥に強く、舗装の隙間にも生えます。",
+      "habitat_hint": "道端、舗装の隙間、農地の縁、運動場、空き地、河川敷。",
+      "finding_tips": "7〜10月、地面から放射状に伸びた茎の先に2〜数本の指状の穂を持つイネ科を探します。引き抜こうとしても根が頑丈で抜けにくいです。"
+    },
+    "en": {
+      "summary": "Indian Goosegrass, a tough warm-climate annual weed with finger-like flowering spikes radiating from the top of the stem. Survives trampling and grows from pavement cracks.",
+      "habitat_hint": "Roadsides, pavement cracks, field margins, sports fields, vacant lots, and riverbanks.",
+      "finding_tips": "From July to October look for grasses with 2–several finger-like spikes radiating from the stem tip. Tough roots — hard to pull out."
+    },
+    "zh": {
+      "summary": "牛筋草（粟子草），温带广布的强健禾本科杂草。茎顶散开数条指状穗，耐踩抗旱，铺装缝亦能生。",
+      "habitat_hint": "路边、铺装缝、田边、运动场、空地、河滩。",
+      "finding_tips": "七至十月找茎顶散开 2 条以上指状穗的禾本科。根系坚韧，难拔。"
+    }
   }
 }
