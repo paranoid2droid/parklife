@@ -5237,5 +5237,167 @@
       "habitat_hint": "林缘、草坪边、半阴草地、神社境内、河滩。",
       "finding_tips": "三至五月找黄色小花，之后找小型红色聚合果。三出叶配匍匐茎是特征。"
     }
+  },
+  "Melia azedarach": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "センダン。初夏に淡紫色の小花を多数つけ、秋〜冬に黄色い実を残す落葉樹。実は鳥が好んで食べますが、人にとっては有毒です。",
+      "habitat_hint": "河川敷、雑木林の林縁、神社の境内、街路樹、住宅地の大木。",
+      "finding_tips": "5〜6月の淡紫色の花、または葉の落ちた冬枝に残る黄色い実を探します。**実は有毒なので口に入れないこと。**"
+    },
+    "en": {
+      "summary": "Chinaberry, a deciduous tree with pale-purple flowers in early summer and yellow drupes that persist into winter. Birds eat the fruits readily but they are toxic to humans.",
+      "habitat_hint": "Riverbanks, woodland edges, shrine grounds, street trees, and large trees in residential areas.",
+      "finding_tips": "Look for the pale-purple flowers in May/June or the yellow fruits clinging to bare branches in winter. **Fruits are toxic to humans — do not eat.**"
+    },
+    "zh": {
+      "summary": "苦楝，落叶树。初夏开淡紫色小花，秋冬留黄色核果。鸟喜食，对人有毒。",
+      "habitat_hint": "河滩、林缘、神社境内、行道树、住宅区大树。",
+      "finding_tips": "五至六月观察淡紫色花，或冬季观察光秃枝条上的黄色果实。**对人有毒，切勿食用。**"
+    }
+  },
+  "Mauremys reevesii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサガメ。在来の中型カメで、甲羅に3本の隆起線があるのが特徴。和名は臭腺から出る匂いに由来します。アカミミガメに圧迫されています。",
+      "habitat_hint": "池、河川、ため池、湿地、岸辺の倒木や石。",
+      "finding_tips": "甲羅に3本の縦の隆起線がある中型のカメを探します。アカミミガメと異なり、頭部に黄色い線（虎の模様に似る）があります。"
+    },
+    "en": {
+      "summary": "Reeves's Pond Turtle, a native medium turtle with three keels on the carapace. The Japanese name 'kusa-game' refers to the scent from its musk glands. Increasingly displaced by Red-eared Sliders.",
+      "habitat_hint": "Ponds, rivers, reservoirs, wetlands, and logs or rocks at the water's edge.",
+      "finding_tips": "Look for a medium turtle with three lengthwise carapace keels. Unlike the slider, it has yellow head stripes (resembling a tiger pattern)."
+    },
+    "zh": {
+      "summary": "中华花龟（草龟），本土中型龟。背甲具三条纵棱。日文俗名指其臭腺气味。现被巴西龟（红耳龟）排挤。",
+      "habitat_hint": "池塘、河流、蓄水池、湿地、岸边倒木或石头。",
+      "finding_tips": "找背甲三条纵棱的中型龟。头部具黄色纵纹（虎纹状），与红耳龟有别。"
+    }
+  },
+  "Teleogryllus emma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エンマコオロギ。秋の夜の代表的な鳴き声「コロコロリー」を作る大型コオロギ。日本中で普通に見られます。",
+      "habitat_hint": "草地、河川敷、農地、雑木林の林床、家屋の周辺。",
+      "finding_tips": "9〜11月の夜、草むらや石垣の隙間から美しい鳴き声を頼りに探します。雌は鳴かないので、声がするのは雄です。"
+    },
+    "en": {
+      "summary": "Emma Field Cricket, a large cricket whose 'koro-koro-ree' song is a signature sound of Japanese autumn nights.",
+      "habitat_hint": "Grassland, riverbanks, farmland, forest floor, and around homes.",
+      "finding_tips": "From September to November listen at night in grass and stone-wall crevices for the song. Only males sing — so whatever you hear is a male."
+    },
+    "zh": {
+      "summary": "大野蟋蟀（艾玛蟋蟀），大型蟋蟀。秋夜代表性鸣声『嗞-嗞-哩』，日本各地常见。",
+      "habitat_hint": "草地、河滩、农田、林床、住宅周边。",
+      "finding_tips": "九至十一月夜里在草丛或石墙缝寻找美丽鸣声。仅雄虫鸣叫。"
+    }
+  },
+  "Menemerus fulvus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シラヒゲハエトリ。家屋の壁などで見られる中型のハエトリグモ。背中に白い毛が散らばり、口の周りに白い髭のような毛束があります。",
+      "habitat_hint": "家屋の壁、塀、神社の境内の建物、樹幹、岩の隙間。",
+      "finding_tips": "壁面を跳ねて歩く茶褐色の中型ハエトリグモを探します。口の周りの白い毛束が独特なので近接で観察できれば識別容易です。"
+    },
+    "en": {
+      "summary": "A medium jumping spider found on house walls. Brown body with white hair scattered on the back and a notable white 'moustache' tuft near the mouth.",
+      "habitat_hint": "House walls, fences, shrine buildings, tree trunks, and rock crevices.",
+      "finding_tips": "Look on walls for a medium-sized brown jumping spider that hops along the surface. The white tuft near the mouth confirms ID up close."
+    },
+    "zh": {
+      "summary": "黄褐跳蛛（白须跳蛛），常见于民居墙面的中型跳蛛。背面散布白色毛，口部具白色毛束如『胡须』。",
+      "habitat_hint": "房屋墙面、围墙、神社建筑、树干、岩石缝。",
+      "finding_tips": "在墙面找跳跃前进的褐色中型跳蛛。口周白毛束近观可确认。"
+    }
+  },
+  "Muscicapa griseisticta": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゾビタキ。秋の渡りの時期に通過する中型のヒタキ類。胸の縦縞が明瞭で、樹冠で「フライキャッチ」して虫を捕らえます。",
+      "habitat_hint": "雑木林、社寺林、河川敷の樹木、街路樹の頂部、明るい林縁。",
+      "finding_tips": "9〜10月、樹冠の枝先から飛び立って空中で虫を捕らえ、また同じ枝に戻る行動が目印。胸の明瞭な縦縞で識別できます。"
+    },
+    "en": {
+      "summary": "Grey-streaked Flycatcher, a medium flycatcher passing through Japan on autumn migration. Bold streaks on the breast; sallies from canopy perches to snatch insects.",
+      "habitat_hint": "Mixed woodland, shrine groves, riverside trees, top of street trees, and bright woodland edges.",
+      "finding_tips": "In September-October watch for a bird that flies up from a perch to catch insects mid-air and returns to the same branch. The bold breast streaks confirm it."
+    },
+    "zh": {
+      "summary": "灰纹鹟，秋季迁徙过境的中型鹟。胸前粗纵纹明显，从树冠枝头飞起空中捕虫再回原处。",
+      "habitat_hint": "杂木林、神社树林、河岸树木、行道树顶端、明亮林缘。",
+      "finding_tips": "九至十月观察从树冠枝头飞起捕虫再返回的鸟。胸纹明显可确认。"
+    }
+  },
+  "Mesosa longipennis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガゴマフカミキリ。茶褐色と灰白色のまだら模様で、樹皮に擬態した中型のカミキリムシ。樹幹に止まると非常に見つけにくいです。",
+      "habitat_hint": "雑木林、社寺林、伐採木、神社の樹幹、枯れた広葉樹の幹。",
+      "finding_tips": "樹皮に擬態した茶+白のまだらのカミキリを枯れ木や倒木で探します。動かないと見つかりにくいので、樹皮をよく観察してください。"
+    },
+    "en": {
+      "summary": "A medium longhorn beetle whose brown-and-grey mottled colouring closely matches tree bark — extremely cryptic when at rest.",
+      "habitat_hint": "Mixed woodland, shrine groves, cut wood, shrine tree trunks, and dead broadleaf trunks.",
+      "finding_tips": "Examine bark of dead and felled wood for a mottled brown-and-white longhorn. It blends in almost perfectly when still."
+    },
+    "zh": {
+      "summary": "长翅楔天牛，褐白杂色拟态树皮的中型天牛。静止时与树皮极难分辨。",
+      "habitat_hint": "杂木林、神社树林、伐木、神社树干、枯阔叶树干。",
+      "finding_tips": "在枯木或倒木树皮上找褐白杂色的天牛。静止时与树皮几乎一致，需仔细辨认。"
+    }
+  },
+  "Blattella nipponica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モリチャバネゴキブリ。屋外の落ち葉や朽木の下で見られる在来のチャバネゴキブリ類。屋内のチャバネゴキブリより小型です。",
+      "habitat_hint": "雑木林の林床、落ち葉の下、朽ち木、石垣、湿った地面。",
+      "finding_tips": "屋外の落ち葉や朽木をめくると見つかる薄褐色の小型ゴキブリ。屋内には住みつかないので野外観察の対象です。"
+    },
+    "en": {
+      "summary": "A native woodland cockroach of the same genus as the German Cockroach but living outdoors. Smaller than the indoor relative.",
+      "habitat_hint": "Forest understory, leaf litter, rotting wood, stone walls, and damp ground.",
+      "finding_tips": "Found under outdoor leaf litter and rotten wood — a pale-brown small cockroach. Unlike its indoor relative it does not invade houses."
+    },
+    "zh": {
+      "summary": "日本姬蠊，与德国小蠊同属但生活在野外。比室内近缘种小。",
+      "habitat_hint": "林床、落叶下、朽木、石墙、潮湿地面。",
+      "finding_tips": "翻起室外落叶或朽木可见浅褐色小型蜚蠊。不进入室内，是野外观察对象。"
+    }
+  },
+  "Potentilla wallichiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "湿った草地や河川敷に生える小型のキジムシロ類。黄色い5弁花と細かく切れ込んだ葉が特徴で、地面に這うように広がります。",
+      "habitat_hint": "湿った草地、河川敷、田の畦、水辺の斜面、明るい湿地。",
+      "finding_tips": "5〜7月、湿った場所に小さな黄色い5弁花が散らばる植物を探します。葉は奇数羽状の小葉で構成されます。"
+    },
+    "en": {
+      "summary": "A small cinquefoil of damp grass and riverbanks. Yellow five-petalled flowers and pinnate leaves; sprawls across the ground.",
+      "habitat_hint": "Damp grasslands, riverbanks, paddy levees, waterside slopes, and bright wet meadows.",
+      "finding_tips": "From May to July look in damp ground for small yellow five-petalled flowers. Leaves are made up of multiple toothed leaflets."
+    },
+    "zh": {
+      "summary": "瓦氏委陵菜，潮湿草地与河滩的小型委陵菜。黄色五瓣小花，叶为奇数羽状复叶，匍匐地面。",
+      "habitat_hint": "潮湿草地、河滩、田埂、水边斜坡、明亮湿地。",
+      "finding_tips": "五至七月在潮湿地寻找散布的黄色五瓣小花。叶为带细齿的多枚小叶组成。"
+    }
+  },
+  "Cenchrus alopecuroides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チカラシバ。秋にブラシのような円柱形の暗紫褐色の穂を立てるイネ科。河川敷や畦に大群落を作ります。",
+      "habitat_hint": "河川敷、農地の畦、空き地、農道の縁、堤防。",
+      "finding_tips": "9〜11月、ブラシのような穂が人の腰高に並ぶ場所を探します。穂を触るとざらざらしており、衣服にも付きにくく外れにくいです。"
+    },
+    "en": {
+      "summary": "Chinese Pennisetum. In autumn it produces brush-like dark purple-brown spikes. Forms tall colonies on riverbanks and paddy levees.",
+      "habitat_hint": "Riverbanks, paddy levees, vacant lots, farm-road edges, and levees.",
+      "finding_tips": "From September to November look for tall plants with brush-like dark spikes at waist height. The spikes are bristly and stick to clothing."
+    },
+    "zh": {
+      "summary": "狼尾草，秋季抽出毛刷状暗紫褐色花穗。河滩与田埂常成片。",
+      "habitat_hint": "河滩、田埂、空地、农道边、堤岸。",
+      "finding_tips": "九至十一月在腰高处找毛刷状暗色花穗。穗带粗芒，易粘衣服。"
+    }
   }
 }
