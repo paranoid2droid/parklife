@@ -12438,5 +12438,167 @@
       "habitat_hint": "樱花栎类阔叶林、果园、神社境内、夜灯下。",
       "finding_tips": "夜里在路灯下找大型天牛。金色毛斑远观即显眼。"
     }
+  },
+  "Prunus jamasakura": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマザクラ。日本固有種のサクラで、花と同時に赤褐色の新葉が出るのが特徴。ソメイヨシノより遅く咲き、自生する野生のサクラです。",
+      "habitat_hint": "雑木林、山地の林、神社の境内、社寺林、明るい斜面。",
+      "finding_tips": "4〜5月、花と同時に赤褐色〜緑色の新葉が出るサクラを探します。ソメイヨシノ（花が先に咲く）と異なり、花と葉が同時です。"
+    },
+    "en": {
+      "summary": "Yamazakura, a Japan-endemic wild cherry. Distinctive in opening flowers and reddish-brown new leaves at the same time — unlike the cultivated Somei-yoshino, whose flowers precede the leaves.",
+      "habitat_hint": "Mixed woodland, montane forest, shrine grounds, shrine groves, and bright slopes.",
+      "finding_tips": "From April to May look for cherry trees where flowers open together with reddish-bronze new leaves. This wild species blooms later than Somei-yoshino."
+    },
+    "zh": {
+      "summary": "山樱，日本特有的野生樱花。花与红褐色嫩叶同时展开，与染井吉野樱（先花后叶）不同。",
+      "habitat_hint": "杂木林、山地林、神社境内、神社树林、明亮斜坡。",
+      "finding_tips": "四至五月寻找花与红褐色嫩叶同时绽放的樱花。比染井吉野晚开。"
+    }
+  },
+  "Zanthoxylum piperitum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サンショウ。葉や実に独特のしびれる辛味（山椒の風味）がある落葉低木。葉と実は和食の風味付けに広く使われ、若葉は「木の芽」として珍重されます。",
+      "habitat_hint": "雑木林の林縁、神社の境内、谷沿いの林、家庭の庭、果樹園。",
+      "finding_tips": "羽状複葉の葉をちぎると独特の爽やかな辛い香りがします。茎にはトゲがあり、秋に小さな赤い実をつけます。**トゲに注意。**"
+    },
+    "en": {
+      "summary": "Japanese Pepper / Sanshō. A deciduous shrub whose leaves and fruits give a unique tingling pepper-like flavour used widely in Japanese cuisine. Young leaves ('kinome') are prized as a garnish.",
+      "habitat_hint": "Woodland edges, shrine grounds, valley woods, home gardens, and orchards.",
+      "finding_tips": "Pinnate leaves release a fresh tingling fragrance when crushed. Stems are thorny; small red fruits in autumn. **Mind the thorns.**"
+    },
+    "zh": {
+      "summary": "山椒（花椒近缘），落叶灌木。叶与果具独特麻香味（即山椒风味），是日式料理常用调味，嫩叶『木の芽』为珍贵装饰。",
+      "habitat_hint": "杂木林林缘、神社境内、谷地林、家庭庭院、果园。",
+      "finding_tips": "羽状复叶搓有独特清爽麻香。茎具刺，秋季结红色小果。**注意刺。**"
+    }
+  },
+  "Polygonatum falcatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナルコユリ。雑木林の林床に生える在来種の多年草。初夏に細長い白い筒状花が葉腋から下垂する独特の姿が美しいです。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の参道脇、半日陰の斜面、社寺林。",
+      "finding_tips": "5〜6月、細長い茎が弓状に曲がり、葉腋から下垂する白い筒状花を持つ植物を探します。葉は楕円形で互生します。"
+    },
+    "en": {
+      "summary": "Sickle Solomon's-Seal. A native perennial of forest understory. Long white tubular flowers hang from the leaf axils along arching stems in early summer — distinctively elegant.",
+      "habitat_hint": "Forest understory, valley woods, shrine paths, shaded slopes, and shrine groves.",
+      "finding_tips": "From May to June look for plants with arching stems and white tubular flowers dangling from the axils. Oval alternate leaves."
+    },
+    "zh": {
+      "summary": "镰刀玉竹，本土多年生植物。初夏沿弧形茎从叶腋下垂细长白色筒形花，姿态优雅。",
+      "habitat_hint": "杂木林林床、谷地林、神社参道旁、半阴斜坡、神社树林。",
+      "finding_tips": "五至六月寻找弧形茎、叶腋下垂白色筒形花的植物。叶椭圆形互生。"
+    }
+  },
+  "Cyrtomium fortunei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブソテツ。雑木林の林床や石垣に普通の中型常緑シダ。葉は奇数羽状で、葉先が長く伸びる「先細り」の姿が特徴。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、湿った石垣、半日陰の斜面。",
+      "finding_tips": "奇数羽状の中型常緑シダで、葉先が長く伸び、各小葉が大きく波打つように見えるものを探します。林床のグランドカバー的に普通に見られます。"
+    },
+    "en": {
+      "summary": "Holly Fern. A common medium evergreen fern of forest understory and stone walls. Odd-pinnate fronds; the leaf tip elongates into a long taper.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, damp stone walls, and shaded slopes.",
+      "finding_tips": "Look for a medium evergreen fern with odd-pinnate fronds and a long-tapered leaf tip. Each leaflet is large and wavy."
+    },
+    "zh": {
+      "summary": "贯众（『藪苏铁』），杂木林林床与石墙常见的中型常绿蕨。奇数羽状叶，叶先延长渐尖。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、潮湿石墙、半阴斜坡。",
+      "finding_tips": "找奇数羽状中型常绿蕨，叶先延长渐尖、小羽片大而波状。"
+    }
+  },
+  "Cyrtomium devexiscapulae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガバヤブソテツ。ヤブソテツに似ますが、葉が細長く、各小葉も細長いのが特徴。雑木林の林床に普通の常緑シダです。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "奇数羽状の中型常緑シダで、葉と小葉が細長いものを探します。ヤブソテツより細身に見えます。"
+    },
+    "en": {
+      "summary": "A relative of Holly Fern with notably narrower leaves and leaflets. Common evergreen of mixed forest understory.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for an evergreen fern resembling Holly Fern but with markedly slimmer fronds and leaflets."
+    },
+    "zh": {
+      "summary": "长叶贯众（与贯众近缘），杂木林林床常见的常绿蕨。叶与小羽片明显较细长。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找形似贯众但叶与小羽片更细长的常绿蕨。"
+    }
+  },
+  "Carpinus japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマシデ。日本固有種のシデで、葉脈が深く目立つ細長い葉と、秋に垂れ下がる長い果穂（鱗状の苞葉が連なる）が特徴です。",
+      "habitat_hint": "雑木林、社寺林、谷沿いの林、神社の境内、明るい斜面。",
+      "finding_tips": "葉脈が深く目立つ細長い葉と、秋〜冬に枝先から垂れ下がる長い果穂を探します。樹皮は灰色で滑らか。"
+    },
+    "en": {
+      "summary": "Japanese Hornbeam, an endemic Carpinus. Distinctive deeply impressed leaf veins and long pendulous fruit clusters with scaly bracts in autumn-winter.",
+      "habitat_hint": "Mixed woodland, shrine groves, valley woods, shrine grounds, and bright slopes.",
+      "finding_tips": "Look for elongated leaves with prominently impressed veins and trailing scaly fruit clusters in autumn-winter. Smooth grey bark."
+    },
+    "zh": {
+      "summary": "熊鹅耳枥，日本特有种。叶脉深陷、长椭圆形叶；秋冬枝梢垂下长鳞片状果序。",
+      "habitat_hint": "杂木林、神社树林、谷地林、神社境内、明亮斜坡。",
+      "finding_tips": "找叶脉深陷的长椭圆叶配秋冬下垂长鳞状果序。树皮灰色光滑。"
+    }
+  },
+  "Sceptridium ternatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フユノハナワラビ。冬に黄色い胞子嚢穂を立てる独特のシダ。緑色の葉と胞子嚢穂が同じ株から伸びる姿が「冬の妖精」のようです。",
+      "habitat_hint": "雑木林の林床、神社の境内、明るい斜面、半日陰の草地、谷沿いの林。",
+      "finding_tips": "11〜3月、葉の中央から黄色い胞子嚢穂が立ち上がる小型〜中型のシダを探します。冬に観察できる珍しいシダの一つです。"
+    },
+    "en": {
+      "summary": "Winter Grape Fern. A grape fern that puts up a yellow sporophore through winter, projecting above the green leaves — a wonderful 'winter fairy'.",
+      "habitat_hint": "Forest understory, shrine grounds, bright slopes, half-shaded meadows, and valley woods.",
+      "finding_tips": "From November to March look for small-to-medium ferns with a yellow spore-bearing spike rising above green leaves. A rare winter delight."
+    },
+    "zh": {
+      "summary": "冬阴地蕨（『冬之花蕨』），冬季抽出黄色孢子穗的独特蕨类。绿叶与孢子穗同株，宛如『冬之精灵』。",
+      "habitat_hint": "杂木林林床、神社境内、明亮斜坡、半阴草地、谷地林。",
+      "finding_tips": "十一至三月寻找叶上方挺立黄色孢子穗的中小型蕨。冬季难得的观察对象。"
+    }
+  },
+  "Deparia conilii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブシダ。雑木林の林床に生える中型の常緑シダ。葉軸が淡緑色〜淡褐色で、湿った場所で大群落を作り林床を覆います。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "中型の二回羽状の常緑シダで、群生する場所を探します。シケシダ近縁で識別が難しい場合は専門書を参照してください。"
+    },
+    "en": {
+      "summary": "A medium evergreen wood fern of mixed woodland understory. Bipinnate fronds with pale rachis; forms large colonies on damp ground.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for medium bipinnate evergreen ferns covering damp ground. Closely related to other Deparia — consult keys for precise ID."
+    },
+    "zh": {
+      "summary": "丛林蹄盖蕨，杂木林林床中型常绿蕨。叶轴浅绿至浅褐色，常成片覆地。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找中型二回羽状常绿蕨成片覆地。与近缘种相似，精确鉴定需专业资料。"
+    }
+  },
+  "Digitaria violascens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アキメヒシバ。メヒシバに似ますが、秋に出現し、より小型で繊細な穂を持つ外来種のイネ科。芝生や農地に広がります。",
+      "habitat_hint": "芝生、道端、河川敷、農地の縁、空き地。",
+      "finding_tips": "9〜11月、メヒシバに似ますがより小型・繊細な穂を持つイネ科を探します。秋に出現するのが「アキ」の名前の由来です。"
+    },
+    "en": {
+      "summary": "Smooth Crabgrass. Similar to Southern Crabgrass but smaller and more delicate; appears in autumn. Spreads through lawns and farmland.",
+      "habitat_hint": "Lawns, roadsides, riverbanks, field margins, and vacant lots.",
+      "finding_tips": "From September to November look for grasses similar to but smaller and more delicate than Southern Crabgrass. The 'aki' in the Japanese name means autumn — its appearance season."
+    },
+    "zh": {
+      "summary": "紫马唐，比升马唐更小更纤细的禾本科外来杂草，秋季出现。常在草坪与农田扩散。",
+      "habitat_hint": "草坪、路边、河滩、田边、空地。",
+      "finding_tips": "九至十一月寻找比升马唐更小、更纤细的禾本科。秋季出现，日文俗名因此带『秋』。"
+    }
   }
 }
