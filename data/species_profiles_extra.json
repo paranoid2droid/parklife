@@ -10656,5 +10656,167 @@
       "habitat_hint": "庭园、公园花坛、住宅区植被、空地、路边。",
       "finding_tips": "八至十月，尤其雨后，找贴地的白色六瓣星形花。基部细长线形叶莲座。"
     }
+  },
+  "Cygnus olor": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コブハクチョウ。額にコブ状の黒い隆起と橙色のくちばしが目立つ大型の白鳥。本来ヨーロッパ原産で、皇居の堀や公園の池に放鳥された個体が定着しています。",
+      "habitat_hint": "皇居の堀、公園の池、湖、ダム湖。",
+      "finding_tips": "額の黒いコブと橙色のくちばしが目印。在来種のオオハクチョウやコハクチョウとは異なり、年中見られます（留鳥化）。"
+    },
+    "en": {
+      "summary": "Mute Swan. A large white swan with a distinctive black 'knob' on the orange bill. Originally European, established as a resident in palace moats and park ponds.",
+      "habitat_hint": "Imperial Palace moats, park ponds, lakes, and reservoirs.",
+      "finding_tips": "The black knob on the orange bill is diagnostic. Unlike the native Whooper and Tundra Swans, present year-round."
+    },
+    "zh": {
+      "summary": "疣鼻天鹅，大型白色天鹅，喙橙色基部具黑色突起。原产欧洲，在皇宫护城河与公园池塘归化。",
+      "habitat_hint": "皇宫护城河、公园池塘、湖泊、水库。",
+      "finding_tips": "橙喙基部的黑色突起是辨识标志。与本土大天鹅、小天鹅不同，全年可见。"
+    }
+  },
+  "Vanessa indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカタテハ。鮮やかな朱赤色と黒い模様の翅を持つ中型のタテハチョウ。成虫越冬し、早春から晩秋まで長く見られます。",
+      "habitat_hint": "雑木林の林縁、河川敷、花壇、明るい園路、神社の境内。",
+      "finding_tips": "翅表の鮮やかな朱赤色と黒い斑が目印の中型チョウ。樹液や腐果に集まることもあります。"
+    },
+    "en": {
+      "summary": "Indian Red Admiral. A medium nymphalid with vivid orange-red and black-patterned wings. Overwinters as an adult; visible from early spring to late autumn.",
+      "habitat_hint": "Woodland edges, riverbanks, flower beds, bright paths, and shrine grounds.",
+      "finding_tips": "A medium butterfly with bright orange-red and black wings. Visits tree sap and rotten fruit as well as flowers."
+    },
+    "zh": {
+      "summary": "印度赤蛱蝶，中型蛱蝶，翅面鲜朱红配黑色斑纹。以成虫越冬，早春至晚秋长见。",
+      "habitat_hint": "林缘、河滩、花坛、明亮园路、神社境内。",
+      "finding_tips": "中型蝶，翅面鲜朱红配黑斑。除花外也访树液和腐果。"
+    }
+  },
+  "Saxicola stejnegeri": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノビタキ。草原に住む小型の鳥で、雄の春羽は黒い頭と赤褐色の胸が美しい。電線や草の先に立つ「やじろべえ」のような姿が特徴。",
+      "habitat_hint": "河川敷の草地、休耕田、湿った草原、明るい斜面、農地。",
+      "finding_tips": "春の渡りや秋の渡りの時期、草の先端や電線で胸を反らせて立つ小鳥を探します。雄夏羽の黒い頭と赤褐色の胸が目印。"
+    },
+    "en": {
+      "summary": "Stejneger's Stonechat, a small grassland bird. Males in breeding plumage have a black head and rusty breast. Perches upright on grass tips and wires like a tiny weather-vane.",
+      "habitat_hint": "Grassy riverbanks, fallow fields, damp meadows, bright slopes, and farmland.",
+      "finding_tips": "During spring and autumn migration look on grass tips and wires for a small bird perched bolt-upright. The breeding male's black-head-rusty-breast is unmistakable."
+    },
+    "zh": {
+      "summary": "黑喉石鵖，草原小型鸟。雄鸟繁殖羽头黑、胸栗红。常直立栖于草尖与电线，姿态如『不倒翁』。",
+      "habitat_hint": "河滩草地、休耕田、潮湿草原、明亮斜坡、农田。",
+      "finding_tips": "春秋迁徙期看到直立挺胸于草尖或电线的小鸟即是。雄夏羽黑头栗胸明显。"
+    }
+  },
+  "Bucephala clangula": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホオジロガモ。冬鳥として渡来する潜水ガモ。雄の頭部は黒く緑光沢があり、頬に独特の白い丸斑があります。",
+      "habitat_hint": "東京湾、河口、大きな池、湖、ダム湖。",
+      "finding_tips": "雄の頬の白い丸い斑紋を探します。潜水を繰り返し、群れで活動することが多いです。"
+    },
+    "en": {
+      "summary": "Common Goldeneye, a wintering diving duck. Males have a glossy green-black head with a distinctive round white cheek patch.",
+      "habitat_hint": "Tokyo Bay, estuaries, large ponds, lakes, and reservoirs.",
+      "finding_tips": "Look for the male's round white cheek patch against a glossy green-black head. Frequently dives; often in groups."
+    },
+    "zh": {
+      "summary": "鹊鸭，冬季渡来的潜水鸭。雄鸟头部具墨绿光泽、脸颊有显眼的圆形白斑。",
+      "habitat_hint": "东京湾、河口、大池塘、湖泊、水库。",
+      "finding_tips": "找雄鸟脸颊白色圆斑配墨绿头的鸭。反复潜水、常成群。"
+    }
+  },
+  "Cuculus optatus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツツドリ。夏鳥として渡来するカッコウ類。「ポポ、ポポ」と筒を叩くような独特の鳴き声から名前がつきました。",
+      "habitat_hint": "雑木林、社寺林、山地の林、河川敷の樹林。",
+      "finding_tips": "5〜7月、林の中から「ポポ、ポポ」と低く規則的に響く鳴き声を頼りに探します。姿は警戒心が強く、声で同定するのが現実的です。"
+    },
+    "en": {
+      "summary": "Oriental Cuckoo. A summer-visiting cuckoo whose call ('po-po, po-po') sounds like tapping a hollow tube — the source of its Japanese name 'tsutsu-dori'.",
+      "habitat_hint": "Mixed woodland, shrine groves, montane forest, and riverside woods.",
+      "finding_tips": "From May to July listen for the regular low 'po-po' from inside woods. Visual sightings are rare — identification is usually by sound."
+    },
+    "zh": {
+      "summary": "中杜鹃，夏候鸟。叫声『噗-噗』如敲空筒，日文俗名『筒鸟』由此。",
+      "habitat_hint": "杂木林、神社树林、山地林、河岸林。",
+      "finding_tips": "五至七月听林中低沉规则的『噗-噗』声即是。鸟性警觉，靠声辨识更现实。"
+    }
+  },
+  "Aphananthe aspera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムクノキ。葉に細かい毛があり、ザラザラした手触りが特徴の落葉樹。雑木林の代表的な構成種で、葉は研磨剤として使われた歴史もあります。",
+      "habitat_hint": "雑木林、神社の境内、社寺林、河川敷の大木、街路樹。",
+      "finding_tips": "葉が細長い楕円で、表面に細かい毛がありザラザラした手触りなのが目印。秋に小さな黒い実をつけ、鳥もよく食べに来ます。"
+    },
+    "en": {
+      "summary": "Muku Tree. A deciduous tree with finely hairy, sandpaper-rough leaves — historically used as a natural abrasive. A keystone species of secondary mixed woodland.",
+      "habitat_hint": "Mixed woodland, shrine grounds, shrine groves, large riverside trees, and street trees.",
+      "finding_tips": "Elongated leaves with a sandpaper texture (fine surface hairs). Small black drupes in autumn; birds visit readily."
+    },
+    "zh": {
+      "summary": "糙叶树（『椋木』），叶面具细毛、手感粗糙的落叶树。曾用作天然砂纸。是杂木林的重要构成种。",
+      "habitat_hint": "杂木林、神社境内、神社树林、河岸大树、行道树。",
+      "finding_tips": "找叶椭圆、叶面具细毛粗糙手感的树。秋季小黑果吸引鸟食。"
+    }
+  },
+  "Prunus grayana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウワミズザクラ。サクラの仲間ですが、桜の花とは異なり、初夏に細長い白い花穂を立てる独特の姿が特徴です。",
+      "habitat_hint": "雑木林、社寺林、谷沿いの林、明るい斜面、神社の境内。",
+      "finding_tips": "5〜6月、桜のような枝に細長い白い花穂が立ち上がる中型の樹を探します。一般的なサクラ（花弁を多数つける）と全く異なる姿です。"
+    },
+    "en": {
+      "summary": "Gray's Bird Cherry. Related to the cherries but utterly different in flower: it bears slender white bottle-brush spikes in early summer rather than typical cherry blossoms.",
+      "habitat_hint": "Mixed woodland, shrine groves, valley woods, bright slopes, and shrine grounds.",
+      "finding_tips": "From May to June look for cherry-like trees bearing tall slender white flower spikes instead of typical cherry blossoms."
+    },
+    "zh": {
+      "summary": "灰叶稠李（『上溝桜』），樱属，但花序不同于樱花，初夏抽出长白色穗状花序。",
+      "habitat_hint": "杂木林、神社树林、谷地林、明亮斜坡、神社境内。",
+      "finding_tips": "五至六月寻找类似樱树但抽出长白色穗状花序的中型乔木。与一般樱花完全不同。"
+    }
+  },
+  "Acanthosoma denticaudum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セアカツノカメムシ。背中の中央に鮮やかな赤い縦線がある美しい中型のカメムシ。山地の雑木林で見られます。",
+      "habitat_hint": "雑木林、山地の林、神社の境内、社寺林、明るい林縁。",
+      "finding_tips": "葉の上で背中に赤い縦線のある緑〜茶褐色の中型カメムシを探します。色彩のコントラストが美しいので発見しやすいです。"
+    },
+    "en": {
+      "summary": "A medium shield bug with a vivid red dorsal stripe down the back — strikingly handsome. Found in mixed woodland in hills and mountains.",
+      "habitat_hint": "Mixed woodland, montane forest, shrine grounds, shrine groves, and bright woodland edges.",
+      "finding_tips": "On leaves look for a medium shield bug with a clear red central stripe. The colour contrast makes it easy to spot."
+    },
+    "zh": {
+      "summary": "红背角蝽，中型蝽，背部正中具鲜红色纵纹。山地杂木林可见。",
+      "habitat_hint": "杂木林、山地林、神社境内、神社树林、明亮林缘。",
+      "finding_tips": "在叶上找背具鲜红纵纹的中型蝽。色彩对比鲜明，易发现。"
+    }
+  },
+  "Promethis valgipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サトユミアシゴミムシダマシ。落ち葉の中で生活する大型の黒い甲虫。ゴミムシダマシ科で、扁平な体と曲がった脚が特徴です。",
+      "habitat_hint": "雑木林の林床、神社の境内、湿った落ち葉、朽ち木、樹皮の隙間。",
+      "finding_tips": "落ち葉や石をめくると見つかる扁平な黒い大型甲虫。脚が独特に曲がっています。**観察後は元に戻してください。**"
+    },
+    "en": {
+      "summary": "A large black darkling beetle that lives in leaf litter. Distinctively flattened body and characteristically curved legs.",
+      "habitat_hint": "Forest understory, shrine grounds, damp leaf litter, rotting wood, and bark crevices.",
+      "finding_tips": "Lift leaves and stones to find a large flat black beetle with curved legs. **Replace any cover you lift.**"
+    },
+    "zh": {
+      "summary": "弓足拟步甲，生活在落叶层中的大型黑色拟步甲。身体扁平、腿弯曲是辨识要点。",
+      "habitat_hint": "杂木林林床、神社境内、潮湿落叶、朽木、树皮缝。",
+      "finding_tips": "翻起落叶或石头找扁平黑色大型甲虫。腿独特弯曲。**翻找后请恢复原状。**"
+    }
   }
 }
