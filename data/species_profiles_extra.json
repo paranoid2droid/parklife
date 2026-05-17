@@ -20880,5 +20880,185 @@
       "habitat_hint": "杂木林林缘、农田、果园、住宅区庭院、河岸林。",
       "finding_tips": "五至十月在林缘与农田寻找具红褐底配小黑斑的中型椿象。比突背斑红蝽小可区分。"
     }
+  },
+  "Pachygrontha antennata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒゲナガカメムシ。中型のカメムシで、長い触角と細長い体型が特徴。和名の「ヒゲナガ」は触角の長さに由来。イネ科植物の穂を吸います。",
+      "habitat_hint": "草地、河川敷、農地、林縁、空き地。",
+      "finding_tips": "5〜10月、草地や河川敷でイネ科の穂につく長い触角と細長い体型の中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Long-antennaed Stink Bug. A medium stink bug with long antennae and elongated body. The Japanese name 'long-beard' refers to the antennal length. Sucks juices from grass spikes.",
+      "habitat_hint": "Grasslands, riverbanks, farmland, forest edges, and vacant lots.",
+      "finding_tips": "From May to October look in grasslands and riverbanks around grass spikes for medium stink bugs with long antennae and elongated bodies."
+    },
+    "zh": {
+      "summary": "长须长蝽。中型椿象，触角长、体型细长是特征。日文俗名『长须』指触角长度。吸食禾本科穗。",
+      "habitat_hint": "草地、河滩、农田、林缘、空地。",
+      "finding_tips": "五至十月在草地与河滩的禾本科穗周边寻找触角长、体型细长的中型椿象。"
+    }
+  },
+  "Podiceps auritus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミミカイツブリ。冬羽は灰白色だが、夏羽は頭部の両側に金色の「耳羽」状の冠羽が独特。冬鳥として湖沼や港湾に渡来します。",
+      "habitat_hint": "湖沼、ダム湖、港湾、河口、内陸の大きな池。",
+      "finding_tips": "11〜3月、湖沼や港湾で潜水するカイツブリを探します。アカエリカイツブリより小型。夏羽の金色の耳羽が見られれば識別容易。"
+    },
+    "en": {
+      "summary": "Horned Grebe. Winter plumage greyish-white, but breeding plumage shows distinctive golden 'horned' tufts on each side of the head. Winters on lakes and harbours.",
+      "habitat_hint": "Lakes, reservoirs, harbours, estuaries, and large inland ponds.",
+      "finding_tips": "From November to March look on lakes and harbours for diving grebes. Smaller than Red-necked Grebe. Golden 'horns' in breeding plumage make identification easy."
+    },
+    "zh": {
+      "summary": "角䴙䴘。冬羽灰白，繁殖羽头部两侧具金色『角状』冠羽独特。冬候鸟，飞临湖沼与港湾。",
+      "habitat_hint": "湖沼、水库、港湾、河口、内陆大池。",
+      "finding_tips": "十一至三月在湖沼与港湾寻找潜水的䴙䴘。比赤颈䴙䴘小。繁殖羽金色角状冠羽易识别。"
+    }
+  },
+  "Morus indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "インドグワ。クワ科の落葉小高木で、東南アジア〜中国南部原産。日本では栽培や逸出で見られます。葉は卵形で深く2〜3裂することも多く、果実は赤紫色〜黒紫色で食用可。",
+      "habitat_hint": "果樹園、植物園、住宅地の庭、農家の屋敷林、河川敷の野生化。",
+      "finding_tips": "果期5〜7月、深く2〜3裂した葉を持つクワの仲間で、赤紫〜黒紫色の長楕円形果実をつける小高木を探します。"
+    },
+    "en": {
+      "summary": "Indian Mulberry. A deciduous small tree (Moraceae) native to Southeast Asia to southern China. In Japan it occurs in cultivation and as escapes. Ovate leaves often deeply 2-3 lobed; reddish-purple to dark-purple edible fruits.",
+      "habitat_hint": "Orchards, botanical gardens, residential gardens, farmhouse groves, and naturalised on riverbanks.",
+      "finding_tips": "Fruits May-July. Look for mulberry-relative small trees with often deeply 2-3 lobed ovate leaves and reddish to dark-purple elongated fruits."
+    },
+    "zh": {
+      "summary": "印度桑。原产东南亚至中国南部的桑科落叶小乔木。日本中作栽培或逸出。叶卵形常深 2-3 裂，果实红紫至黑紫色可食。",
+      "habitat_hint": "果园、植物园、住宅区庭院、农家屋林、河滩野化。",
+      "finding_tips": "果期五至七月寻找具深 2-3 裂叶、红紫至黑紫色长椭圆形果的桑近亲小乔木。"
+    }
+  },
+  "Tetragonia tetragonoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルナ。海岸の砂浜に這うように広がる多年草のハマミズナ科。多肉質の葉が三角形〜菱形で、海岸の塩風に耐えます。葉や若芽は食用にされ、ニュージーランド・スピナッチとも呼ばれます。",
+      "habitat_hint": "海岸の砂浜、海岸近くの草地、堤防の砂地、海岸の岩場。",
+      "finding_tips": "通年（春〜夏の若葉が食用に適）、海岸の砂浜で多肉質の三角形〜菱形の葉を持つ匍匐性多年草を探します。葉腋に黄色い小さな花が咲きます。"
+    },
+    "en": {
+      "summary": "New Zealand Spinach. A creeping perennial Aizoaceae of sandy beaches. Succulent triangular to diamond-shaped leaves tolerate coastal salt winds. Leaves and young shoots are edible.",
+      "habitat_hint": "Sandy beaches, coastal grasslands, sandy levees, and rocky coasts.",
+      "finding_tips": "Year-round (spring to summer shoots best for eating), look on sandy beaches for creeping perennials with succulent triangular to diamond-shaped leaves. Small yellow flowers in leaf axils."
+    },
+    "zh": {
+      "summary": "番杏（新西兰菠菜）。海岸沙滩匍匐生长的番杏科多年草。叶肉质三角至菱形，耐海岸盐风。叶与嫩芽可食。",
+      "habitat_hint": "海岸沙滩、海岸草地、堤防沙地、海岸岩生地。",
+      "finding_tips": "全年（春至夏嫩叶最适食用）在海岸沙滩寻找具肉质三角至菱形叶的匍匐多年草。叶腋开黄色小花。"
+    }
+  },
+  "Rumex acetosella": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメスイバ。欧州原産の小型多年草のタデ科で、芝地や道端、空き地に帰化。葉が矢じり形で、噛むと酸味（シュウ酸）があるのが特徴。雌雄異株。",
+      "habitat_hint": "芝地、道端、空き地、農地の縁、河川敷の草地。",
+      "finding_tips": "5〜7月、芝地や道端で矢じり形の葉と細い穂状の花序を持つ小型多年草を探します。葉を噛むと酸味があれば本種。"
+    },
+    "en": {
+      "summary": "Sheep Sorrel. A small European-origin perennial Polygonaceae naturalised on lawns, roadsides, and vacant lots. Arrow-shaped leaves with a sour taste (oxalic acid). Dioecious.",
+      "habitat_hint": "Lawns, roadsides, vacant lots, farmland margins, and riverside grasslands.",
+      "finding_tips": "From May to July look on lawns and roadsides for small perennials with arrow-shaped leaves and slender spike-like inflorescences. A chewed leaf with sour taste confirms identification."
+    },
+    "zh": {
+      "summary": "小酸模。原产欧洲的小型多年生蓼科，归化于草坪、路边与空地。叶箭头形，咀嚼具酸味（草酸）。雌雄异株。",
+      "habitat_hint": "草坪、路边、空地、农田边缘、河滩草地。",
+      "finding_tips": "五至七月在草坪与路边寻找具箭头形叶、细穗状花序的小型多年草。咀嚼叶具酸味可确认。"
+    }
+  },
+  "Rumex obtusifolius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゾノギシギシ。欧州原産の大型多年草のタデ科で、河川敷や空き地、農地に帰化。葉が大きく根元に集まり、ギシギシよりさらに大型。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、湿地。",
+      "finding_tips": "5〜8月、河川敷や空き地で大型の根生葉と直立する花茎、多数の緑色の小花を持つ多年草を探します。ギシギシより大型で、葉の縁が波打たないことが多い。"
+    },
+    "en": {
+      "summary": "Broad-leaved Dock. A large European-origin perennial Polygonaceae naturalised on riverbanks, vacant lots, and farmland. Larger than Japanese dock; basal leaves large, less wavy at the margins.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and wetlands.",
+      "finding_tips": "From May to August look on riverbanks and vacant lots for perennials with large basal leaves, erect flowering stems, and many small green flowers. Larger than Japanese dock with less wavy leaf margins."
+    },
+    "zh": {
+      "summary": "钝叶酸模。原产欧洲的大型多年生蓼科，归化于河滩、空地与农田。比羊蹄更大，基生叶大型，叶缘多不呈波状。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、湿地。",
+      "finding_tips": "五至八月在河滩与空地寻找具大型基生叶、直立花茎、密集绿色小花的多年草。比羊蹄大、叶缘多不呈波状。"
+    }
+  },
+  "Bryum argenteum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ギンゴケ。世界中に広く分布する小型のコケで、舗装の隙間や石垣、屋根、コンクリートに普通。銀色〜白緑色の独特の色合いが和名の由来。",
+      "habitat_hint": "舗装の隙間、石垣、屋根瓦、コンクリート、駐車場、地面の裸地。",
+      "finding_tips": "通年、舗装の隙間や石垣で銀色〜白緑色の独特の色合いを持つ小型のコケを探します。乾燥に強く、最も普通に見られるコケの一つ。"
+    },
+    "en": {
+      "summary": "Silver Bryum Moss. A small moss with worldwide distribution, common in pavement cracks, on stone walls, roofs, and concrete. Distinctive silver to whitish-green colour — the source of the Japanese name 'silver moss'.",
+      "habitat_hint": "Pavement cracks, stone walls, roof tiles, concrete, parking lots, and bare ground.",
+      "finding_tips": "Year-round, look in pavement cracks and on stone walls for small mosses with distinctive silver to whitish-green colour. Drought-tolerant and one of the most commonly seen mosses."
+    },
+    "zh": {
+      "summary": "银叶真藓。世界广布的小型苔藓，常见于路面缝、石墙、屋顶与混凝土。独特银至白绿色是日文俗名『银苔』由来。",
+      "habitat_hint": "路面缝、石墙、屋瓦、混凝土、停车场、裸地。",
+      "finding_tips": "全年在路面缝与石墙寻找具独特银至白绿色的小型苔藓。耐旱，是最常见的苔藓之一。"
+    }
+  },
+  "Odontosoria chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホラシノブ。湿った林床や石垣、半日陰の斜面に生える中型の常緑シダ。葉は3〜4回羽状に繊細に分裂し、細い葉柄が黒褐色なのが識別の手がかり。",
+      "habitat_hint": "湿った林床、石垣、岩場、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "通年、湿った林床や石垣で3〜4回羽状の繊細な葉と黒褐色の細い葉柄を持つ常緑シダを探します。"
+    },
+    "en": {
+      "summary": "Chinese Lace Fern. A medium evergreen fern of damp forest floors, stone walls, and partly shaded slopes. Fronds 3-4 times pinnately divided into delicate leaflets; slender dark-brown stipes — a diagnostic feature.",
+      "habitat_hint": "Damp forest floors, stone walls, rocky places, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round, look on damp forest floors and stone walls for evergreen ferns with delicate 3-4 times pinnate fronds and slender dark-brown stipes."
+    },
+    "zh": {
+      "summary": "乌蕨。潮湿林床、石墙与半阴斜坡的中型常绿蕨。叶 3-4 回羽状细分裂，叶柄细且黑褐色是识别要点。",
+      "habitat_hint": "潮湿林床、石墙、岩生地、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "全年在潮湿林床与石墙寻找具 3-4 回羽状纤细叶、细黑褐色叶柄的常绿蕨。"
+    }
+  },
+  "Deparia dimorphophylla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セイタカシケシダ。湿った林床に生える中型〜大型の落葉シダ。「セイタカ」（背高）の名の通り背丈が大きく、葉柄基部に淡褐色の鱗片があります。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、河畔林。",
+      "finding_tips": "5〜10月（落葉性）、湿った林床で背丈の高い（〜80cm）落葉シダを探します。葉柄基部の淡褐色鱗片も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Tall Lady Fern. A medium to large deciduous fern of damp forest floors. The Japanese name 'tall lady fern' refers to the height — up to about 80 cm. Pale-brown scales at the stipe base.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and riparian woods.",
+      "finding_tips": "From May to October (deciduous), look on damp forest floors for tall (up to ~80 cm) deciduous ferns. Pale-brown scales at the stipe base also help confirm."
+    },
+    "zh": {
+      "summary": "二形假冷蕨。潮湿林床的中至大型落叶蕨。日文俗名『背高』指植株高大（至 80 厘米）。叶柄基部具淡褐色鳞片。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、河岸林。",
+      "finding_tips": "五至十月（落叶）在潮湿林床寻找高大（至 80 厘米）的落叶蕨。叶柄基部淡褐色鳞片可助识别。"
+    }
+  },
+  "Sedum bulbiferum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コモチマンネングサ。多肉質の小型多年草のベンケイソウ科で、葉腋に「むかご（無性芽）」を多数つけて繁殖するのが和名「子持」の由来。畑や石垣、河川敷に普通。",
+      "habitat_hint": "畑、石垣、舗装の隙間、河川敷、農地の縁、空き地。",
+      "finding_tips": "5〜6月、畑や石垣で多肉質の小さな葉と葉腋のむかご、初夏に黄色い星形の小花を持つ匍匐性多年草を探します。"
+    },
+    "en": {
+      "summary": "Bulbous Stonecrop. A small succulent perennial Crassulaceae that reproduces by 'bulbils' (vegetative buds) in leaf axils — the source of the Japanese name 'baby-bearing'. Common in fields, stone walls, and riverbanks.",
+      "habitat_hint": "Fields, stone walls, pavement cracks, riverbanks, farmland margins, and vacant lots.",
+      "finding_tips": "From May to June look in fields and on stone walls for creeping perennials with small succulent leaves, axillary bulbils, and small yellow star-shaped flowers in early summer."
+    },
+    "zh": {
+      "summary": "珠芽景天。叶腋具多数『珠芽（无性芽）』繁殖的肉质小型多年生景天科，是日文俗名『子持』由来。菜地、石墙、河滩常见。",
+      "habitat_hint": "菜地、石墙、路面缝、河滩、农田边缘、空地。",
+      "finding_tips": "五至六月在菜地与石墙寻找具肉质小叶、叶腋具珠芽、初夏开黄色星形小花的匍匐多年草。"
+    }
   }
 }
