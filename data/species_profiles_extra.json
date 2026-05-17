@@ -13842,5 +13842,185 @@
       "habitat_hint": "潮湿林床、谷地林、溪边、神社林、半阴斜坡。",
       "finding_tips": "全年在潮湿林床寻找大型常绿鳞毛蕨。与近缘种的区分需查检索表。"
     }
+  },
+  "Cardiagyris scabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ザラエンマコガネ。糞や腐肉に集まる小型のコガネムシ。黒い体表に独特の凸凹（ザラザラ）があるのが和名の由来。",
+      "habitat_hint": "牧草地、林床、農地、河川敷、糞や腐肉のある場所。",
+      "finding_tips": "5〜10月、糞や腐肉の周辺で黒い小型のコガネムシを探します。背面のザラザラした質感が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A small scarab beetle attracted to dung and carrion. Black body with distinctively rough (scabrous) elytra — the source of both the Latin and Japanese names.",
+      "habitat_hint": "Pastures, forest floors, farmland, riverbanks, and around dung or carrion.",
+      "finding_tips": "From May to October look around dung and carrion for small black scarabs. The rough texture on the back helps confirm."
+    },
+    "zh": {
+      "summary": "粗糙阎甲科金龟。聚集于粪便与腐肉的小型金龟。黑色体表具独特的粗糙凸凹纹，是名字由来。",
+      "habitat_hint": "牧地、林床、农田、河滩、粪便与腐肉周边。",
+      "finding_tips": "五至十月在粪便与腐肉周边寻找小型黑色金龟。背面粗糙质感是识别线索。"
+    }
+  },
+  "Vanderbylia fraxinea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニッケイタケ。広葉樹の生立木や倒木に発生する多年生の硬質サルノコシカケ型キノコ。表面は赤褐色〜灰褐色で年輪状の縞があります。",
+      "habitat_hint": "雑木林、公園の大木、倒木、樹幹の傷口、神社林。",
+      "finding_tips": "通年、広葉樹の生立木の幹や倒木に発生する大型の硬いサルノコシカケを探します。表面に年輪状の縞模様が目印。"
+    },
+    "en": {
+      "summary": "A perennial hard bracket fungus on living broadleaf trees and fallen logs. Surface red-brown to grey-brown with concentric annual rings.",
+      "habitat_hint": "Secondary woodlands, large park trees, fallen logs, wounded trunks, and shrine groves.",
+      "finding_tips": "Year-round, look on living broadleaf trunks and fallen logs for large hard polypores. The concentric ring pattern on the surface is diagnostic."
+    },
+    "zh": {
+      "summary": "梣属硬皮孔菌。生于活立阔叶树与倒木上的多年生硬质多孔菌。表面红褐至灰褐色，具年轮状同心圆纹。",
+      "habitat_hint": "杂木林、公园大树、倒木、树干伤口、神社林。",
+      "finding_tips": "全年在活立阔叶树干与倒木上寻找大型硬质多孔菌。表面同心圆纹是关键识别。"
+    }
+  },
+  "Coreopsis lanceolata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオキンケイギク。北米原産の多年草で、5〜7月に鮮黄色の頭花を咲かせます。特定外来生物に指定され、栽培・運搬・販売は禁止されています。",
+      "habitat_hint": "河川敷、道路法面、空き地、造成地、農地の縁。",
+      "finding_tips": "5〜7月、河川敷や法面で鮮黄色の大きな頭花を咲かせる多年草を探します。葉は線形〜披針形。発見しても植え替えや拡散は厳禁。"
+    },
+    "en": {
+      "summary": "Lance-leaved Tickseed. A North American perennial with brilliant yellow flower heads in May-July. Designated 'Invasive Alien Species' in Japan — cultivation, transport, and sale are prohibited.",
+      "habitat_hint": "Riverbanks, road slopes, vacant lots, construction sites, and farmland margins.",
+      "finding_tips": "From May to July look on riverbanks and road slopes for perennials with brilliant yellow flower heads. Lanceolate leaves. Do not transplant or spread."
+    },
+    "zh": {
+      "summary": "剑叶金鸡菊。原产北美的多年草，五至七月开鲜黄色头状花。在日本被列为『特定外来生物』，禁止栽培、运输与销售。",
+      "habitat_hint": "河滩、道路斜坡、空地、工地、农田边缘。",
+      "finding_tips": "五至七月在河滩与道路斜坡寻找鲜黄色大头状花的多年草。叶线形至披针形。严禁移栽与扩散。"
+    }
+  },
+  "Camellia sinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャノキ。茶葉の原料となる常緑低木。秋に白い5弁花を下向きに咲かせ、初冬に堅い丸い果実が熟します。",
+      "habitat_hint": "茶畑、生垣、公園植栽、寺社境内、農家の屋敷林。",
+      "finding_tips": "花期10〜12月、林縁や生垣で白い5弁花を下向きにつける常緑低木を探します。葉は楕円形で表面に光沢、縁に細かい鋸歯があります。"
+    },
+    "en": {
+      "summary": "Tea Plant. The evergreen shrub whose leaves are the source of tea. White 5-petalled flowers nod downward in autumn; hard round capsules ripen in early winter.",
+      "habitat_hint": "Tea fields, hedges, park plantings, temple/shrine grounds, and farmhouse groves.",
+      "finding_tips": "Flowers October-December. Look at forest edges and hedges for evergreen shrubs with downward-nodding white 5-petalled flowers. Glossy elliptical leaves with fine serrations."
+    },
+    "zh": {
+      "summary": "茶树。茶叶原料的常绿灌木。秋季下垂开白色五瓣花，初冬硬质圆形蒴果成熟。",
+      "habitat_hint": "茶园、绿篱、公园栽植、寺社境内、农家屋林。",
+      "finding_tips": "花期十至十二月在林缘与绿篱寻找下垂开白色五瓣花的常绿灌木。叶椭圆形具光泽、边缘细锯齿。"
+    }
+  },
+  "Xanthogaleruca maculicollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニレハムシ。ニレ類（ケヤキ、エノキ等）の葉を食害する中型のハムシ。黄褐色の上翅に黒い斑点があります。",
+      "habitat_hint": "ケヤキ・エノキ・ニレ類のある雑木林、公園の植栽、街路樹、住宅地の庭木。",
+      "finding_tips": "5〜9月、ケヤキやエノキの葉上で黄褐色に黒斑のある中型ハムシを探します。葉に網目状の食痕を残すのが特徴。"
+    },
+    "en": {
+      "summary": "Elm Leaf Beetle. A medium leaf beetle feeding on elms, zelkova, and hackberry. Yellow-brown elytra with black spots.",
+      "habitat_hint": "Secondary woodlands with zelkova, hackberry, or elm; park plantings, street trees, and residential gardens.",
+      "finding_tips": "From May to September look on zelkova and hackberry leaves for medium yellow-brown leaf beetles with black spots. Skeletonised leaf damage helps confirm."
+    },
+    "zh": {
+      "summary": "榆叶甲。取食榆属、榉树、朴树叶片的中型叶甲。鞘翅黄褐色具黑斑。",
+      "habitat_hint": "有榉树、朴树、榆类的杂木林；公园栽植、行道树、住宅区庭树。",
+      "finding_tips": "五至九月在榉树与朴树叶上寻找黄褐色具黑斑的中型叶甲。叶上网状食痕可辅助识别。"
+    }
+  },
+  "Sinictinogomphus clavatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウチワヤンマ。大型のサナエトンボ。腹端の側面に「うちわ」状の幅広い突起があるのが和名と識別の決め手。",
+      "habitat_hint": "ため池、湖沼、ゆるやかな川、湿地、公園の大きな池。",
+      "finding_tips": "6〜9月、池や湖沼で腹端に「うちわ」状の突起を持つ大型サナエトンボを探します。よく杭の先などにとまります。"
+    },
+    "en": {
+      "summary": "Club-tailed Dragonfly. A large clubtail with distinctive flat 'fan-shaped' appendages at the abdomen tip — the diagnostic feature.",
+      "habitat_hint": "Ponds, lakes, slow rivers, wetlands, and large park ponds.",
+      "finding_tips": "From June to September look at ponds and lakes for large clubtails with fan-like appendages at the abdomen tip. Often perches on stake tips."
+    },
+    "zh": {
+      "summary": "棍腹蜻（扇尾春蜓）。大型春蜓。腹端两侧具『扇形』宽阔突起，是关键识别。",
+      "habitat_hint": "池塘、湖泊、缓流河流、湿地、公园大池。",
+      "finding_tips": "六至九月在池塘与湖泊寻找腹端具『扇形』突起的大型春蜓。常停于木桩顶端。"
+    }
+  },
+  "Pseudorasbora parva": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モツゴ。湖沼や水田、用水路に生息する小型コイ科。雄は繁殖期に黒くなります。「クチボソ」とも呼ばれ、釣りの対象魚として親しまれています。",
+      "habitat_hint": "湖沼、ため池、水田、用水路、緩流の小川。",
+      "finding_tips": "通年、止水〜緩流で5〜10cmの細身の魚を探します。口が小さく上向き、黒い縦線が体側にあるのが特徴。"
+    },
+    "en": {
+      "summary": "Stone Moroko (Topmouth Gudgeon). A small cyprinid of ponds, paddies, and ditches. Males blacken during breeding. A popular target for children's fishing.",
+      "habitat_hint": "Lakes, ponds, rice paddies, irrigation channels, and slow streams.",
+      "finding_tips": "Year-round, look in still or slow water for slim fish 5-10 cm long. Small upward-facing mouth and a black lateral stripe are diagnostic."
+    },
+    "zh": {
+      "summary": "麦穗鱼。湖沼、水田、灌溉沟中的小型鲤科。雄鱼繁殖期变黑。是常见的儿童垂钓对象鱼。",
+      "habitat_hint": "湖沼、池塘、水田、灌溉沟、缓流小溪。",
+      "finding_tips": "全年在静水至缓流中寻找体长 5-10 厘米的细长小鱼。口小上翘、体侧具黑色纵线是关键识别。"
+    }
+  },
+  "Platalea minor": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロツラヘラサギ。世界に約6000羽しかいない絶滅危惧種のヘラサギ。日本では西日本に多く、関東でも干潟で稀に観察されます。",
+      "habitat_hint": "干潟、河口、塩田跡、内陸の湿地、ため池。",
+      "finding_tips": "10〜4月、干潟や河口で黒い顔・嘴と白い体のヘラサギを探します。嘴を左右に振りながら浅瀬で採餌する独特の動作が決め手。"
+    },
+    "en": {
+      "summary": "Black-faced Spoonbill. An endangered spoonbill with a world population of about 6,000. Common in western Japan; rare in the Kanto region but recorded on mudflats.",
+      "habitat_hint": "Mudflats, estuaries, abandoned salt ponds, inland wetlands, and ponds.",
+      "finding_tips": "From October to April look on mudflats and estuaries for spoonbills with black face and bill on white bodies. Distinctive side-to-side bill-sweeping while foraging in shallows."
+    },
+    "zh": {
+      "summary": "黑脸琵鹭。全球仅约 6000 只的濒危琵鹭。日本以西部多见，关东偶在滩涂可见。",
+      "habitat_hint": "滩涂、河口、废盐田、内陆湿地、池塘。",
+      "finding_tips": "十月至四月在滩涂与河口寻找黑脸黑喙、白色身体的琵鹭。在浅水左右扫动喙取食的独特动作是关键识别。"
+    }
+  },
+  "Synona consanguinea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムネアカオオクロテントウ。前胸が赤く、上翅が黒い大型のテントウムシ。クズの葉などにつくマルカメムシ類を捕食します。",
+      "habitat_hint": "クズが繁茂する林縁、河川敷、藪、農地の縁。",
+      "finding_tips": "5〜10月、クズの葉上で前胸赤＋上翅黒の大型テントウムシを探します。マルカメムシの集団がいる葉を探すと出会いやすいです。"
+    },
+    "en": {
+      "summary": "A large lady beetle with red pronotum and black elytra. Preys on plataspid stink bugs on kudzu leaves.",
+      "habitat_hint": "Forest edges, riverbanks, and thickets where kudzu grows; farmland margins.",
+      "finding_tips": "From May to October look on kudzu leaves for large lady beetles with red pronotum and black elytra. Easier to find on leaves with plataspid stink bug aggregations."
+    },
+    "zh": {
+      "summary": "胸赤大黑瓢虫。前胸红色、鞘翅黑色的大型瓢虫。捕食葛叶上的豆龟蝽类。",
+      "habitat_hint": "葛蔓繁茂的林缘、河滩、灌丛、农田边缘。",
+      "finding_tips": "五至十月在葛叶上寻找前胸红色、鞘翅黑色的大型瓢虫。在豆龟蝽群聚的葛叶上易见。"
+    }
+  },
+  "Polistes rothneyi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キアシナガバチ。日本最大級のアシナガバチで、黄色と黒の縞模様が鮮やか。攻撃性は強くないが、巣に近づくと刺します。",
+      "habitat_hint": "雑木林、林縁、公園、住宅地の軒下や植木、農地の縁。",
+      "finding_tips": "4〜10月、軒下や枝先で開放的な巣（傘状）を作るアシナガバチを探します。脚が黄色いことが「キアシ」の名の由来。巣には近づかないこと。"
+    },
+    "en": {
+      "summary": "Yellow-legged Paper Wasp. One of Japan's largest paper wasps, vividly yellow and black. Not aggressive but will sting if nest is approached.",
+      "habitat_hint": "Secondary woodlands, forest edges, parks, residential eaves and shrubs, and farmland margins.",
+      "finding_tips": "From April to October look under eaves and on branch tips for paper wasps building open (umbrella-like) nests. Yellow legs give the Japanese name. Keep clear of nests."
+    },
+    "zh": {
+      "summary": "黄足马蜂。日本最大级马蜂之一，鲜艳的黄黑相间。攻击性不强，但近巢会蜇。",
+      "habitat_hint": "杂木林、林缘、公园、住宅檐下与灌木、农田边缘。",
+      "finding_tips": "四至十月在檐下与枝端寻找筑伞状开放巢的马蜂。腿黄色是日文名由来。请勿靠近蜂巢。"
+    }
   }
 }
