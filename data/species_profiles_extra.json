@@ -16002,5 +16002,185 @@
       "habitat_hint": "灌丛、林缘、路边、河滩、空地、农田边缘。",
       "finding_tips": "五至七月在灌丛与林缘寻找具白至淡红色伞形小花序的伞形科。果实粘衣物。比窃衣花期早，叶细裂更深。"
     }
+  },
+  "Boehmeria dura": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブマオの一種で、湿った林床や林縁に生える多年草のイラクサ科。葉は対生で大きな卵形、鋸歯があります。茎の繊維はかつて織物に使われました。",
+      "habitat_hint": "湿った林床、林縁、谷地林、河畔林、半日陰の斜面。",
+      "finding_tips": "8〜10月、湿った林床や林縁で大きな対生する卵形の葉を持つ多年草を探します。葉腋から穂状の地味な花序を出します。"
+    },
+    "en": {
+      "summary": "A Boehmeria (false-nettle) of damp forest floors and edges. Large opposite ovate leaves with serrate margins. Stem fibres were formerly used in textiles.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, riparian woods, and partly shaded slopes.",
+      "finding_tips": "From August to October look on damp forest floors and edges for perennials with large opposite ovate leaves. Inconspicuous spike-like inflorescences from leaf axils."
+    },
+    "zh": {
+      "summary": "苎麻属一种（厚萼苎麻类）。潮湿林床与林缘的多年生荨麻科。叶大型对生卵形、缘锯齿。茎纤维曾作纺织。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、半阴斜坡。",
+      "finding_tips": "八至十月在潮湿林床与林缘寻找具大型对生卵形叶的多年草。叶腋抽出不显眼穗状花序。"
+    }
+  },
+  "Gamochaeta americana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハハコグサ近縁の帰化種。北米原産の小型一年〜二年草で、芝地や道端に広く帰化。葉は綿毛があり灰緑色、花は淡褐色の小さな頭花が穂状に集まります。",
+      "habitat_hint": "芝地、道端、グラウンド、空き地、農地の縁。",
+      "finding_tips": "4〜7月、芝地や道端で綿毛に覆われた灰緑色の葉を持ち、淡褐色の穂状花序を立てる小型草本を探します。"
+    },
+    "en": {
+      "summary": "American Cudweed. A North American small annual to biennial widely naturalised on lawns and roadsides. Greyish-green woolly leaves; pale-brown small flower heads in spike-like clusters.",
+      "habitat_hint": "Lawns, roadsides, athletic grounds, vacant lots, and farmland margins.",
+      "finding_tips": "From April to July look on lawns and roadsides for small herbs with woolly greyish-green leaves and pale-brown spike-like flower clusters."
+    },
+    "zh": {
+      "summary": "美洲鼠麹草。原产北美的小型一至二年生草本，广泛归化于草坪与路边。叶具绵毛灰绿色，花淡褐色头状花密生成穗状。",
+      "habitat_hint": "草坪、路边、运动场、空地、农田边缘。",
+      "finding_tips": "四至七月在草坪与路边寻找叶被绵毛、灰绿色，花淡褐色穗状的小型草本。"
+    }
+  },
+  "Avena fatua": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラスムギ。麦類の野生型で、河川敷や麦畑、空き地に普通な一年生イネ科。穂は大型で垂れ下がり、長い屈曲した芒が目立ちます。",
+      "habitat_hint": "麦畑、河川敷、空き地、農地の縁、道端。",
+      "finding_tips": "5〜7月、河川敷や麦畑で大型の垂れ下がる円錐花序と長い屈曲した芒を持つ一年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Wild Oat. The wild form of cultivated oat; a common annual grass on riverbanks, wheat fields, and vacant lots. Large pendulous panicles with conspicuous bent awns.",
+      "habitat_hint": "Wheat fields, riverbanks, vacant lots, farmland margins, and roadsides.",
+      "finding_tips": "From May to July look on riverbanks and wheat fields for annual grasses with large pendulous panicles and long bent awns."
+    },
+    "zh": {
+      "summary": "野燕麦。栽培燕麦的野生型，河滩、麦田、空地常见的一年生禾本科。大型下垂圆锥花序，长而弯曲的芒显眼。",
+      "habitat_hint": "麦田、河滩、空地、农田边缘、路边。",
+      "finding_tips": "五至七月在河滩与麦田寻找具大型下垂圆锥花序、长弯曲芒的一年生禾本科。"
+    }
+  },
+  "Persicaria senticosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ママコノシリヌグイ。茎に下向きの鋭い棘がある蔓性一年草のタデ科。葉は三角形で、淡桃色〜紅色の小さな花を球状に密集して咲かせます。",
+      "habitat_hint": "湿地、藪、河川敷の藪、農地の縁、道端の湿った場所。",
+      "finding_tips": "8〜10月、湿地や藪で三角形の葉と下向きの鋭い棘のある茎を持つ蔓性のタデを探します。花は淡桃色〜紅色の小球状。"
+    },
+    "en": {
+      "summary": "Bristled Smartweed. A vining annual buckwheat relative with downward-pointing sharp prickles on the stem. Triangular leaves; pale-pink to red small flowers in globose clusters.",
+      "habitat_hint": "Wetlands, thickets, riverside thickets, farmland margins, and damp roadsides.",
+      "finding_tips": "From August to October look in wetlands and thickets for vining smartweeds with triangular leaves and downward-pointing prickly stems. Flowers pale-pink to red in small globose clusters."
+    },
+    "zh": {
+      "summary": "刺蓼。茎具下向锐刺的蔓生一年生蓼科。叶三角形，开淡粉至红色小花成球状密集。",
+      "habitat_hint": "湿地、灌丛、河滩灌丛、农田边缘、潮湿路边。",
+      "finding_tips": "八至十月在湿地与灌丛寻找具三角形叶、茎具下向锐刺的蔓生蓼。花淡粉至红色小球状。"
+    }
+  },
+  "Pinellia ternata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラスビシャク。畑や道端に普通な小型のサトイモ科。3枚の小葉を持ち、緑色の筒状の仏炎苞に長い付属体（鞭状）が突き出ます。半夏（はんげ）として漢方薬になります。",
+      "habitat_hint": "畑、農地の縁、道端、空き地、河川敷。",
+      "finding_tips": "5〜8月、畑や道端で3枚の小葉と緑色の細い仏炎苞、その先から長く伸びる鞭状の付属体を持つ小型草本を探します。"
+    },
+    "en": {
+      "summary": "Crow Dipper. A small Araceae common in fields and roadsides. Three leaflets; green tubular spathe with a long whip-like appendix protruding. Used in Kampo medicine as 'hange'.",
+      "habitat_hint": "Fields, farmland margins, roadsides, vacant lots, and riverbanks.",
+      "finding_tips": "From May to August look in fields and roadsides for small herbs with three leaflets and green slender spathes ending in long whip-like appendixes."
+    },
+    "zh": {
+      "summary": "半夏。菜地与路边常见的小型天南星科。三出小叶；绿色细筒形佛焰苞，附属物长鞭状突出。是中药『半夏』。",
+      "habitat_hint": "菜地、农田边缘、路边、空地、河滩。",
+      "finding_tips": "五至八月在菜地与路边寻找具三小叶、绿色细佛焰苞与长鞭状附属物的小型草本。"
+    }
+  },
+  "Sitobolium hirsutum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌシダ。林床や林縁に群生する小型〜中型の落葉シダ。葉や葉柄に毛が多く（学名 hirsutum は「毛深い」）、繊細な質感です。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、二次林。",
+      "finding_tips": "5〜10月（落葉性）、明るい林床で繊細な質感の小型〜中型の落葉シダを探します。葉柄や葉に毛が多いのが特徴。"
+    },
+    "en": {
+      "summary": "Hairy Stout Fern. A small to medium deciduous fern forming colonies on forest floors and edges. Notably hairy leaves and stipes (the species name 'hirsutum' means hairy), giving a delicate texture.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and secondary woods.",
+      "finding_tips": "From May to October (deciduous), look on bright forest floors for small to medium deciduous ferns of delicate texture. Hairy leaves and stipes are diagnostic."
+    },
+    "zh": {
+      "summary": "毛碗蕨。林床与林缘成片生长的中小型落叶蕨。叶与叶柄具明显毛（种加词『hirsutum』即指多毛），质感纤细。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、次生林。",
+      "finding_tips": "五至十月（落叶）在明亮林床寻找质感纤细的中小型落叶蕨。叶与叶柄多毛是关键特征。"
+    }
+  },
+  "Daedaleopsis tricolor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャミダレアミタケ。広葉樹の倒木や朽木に発生するサルノコシカケ型のキノコ。傘表面に同心円状の縞模様があり、紫褐色〜茶色の3色のグラデーションが特徴。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "通年、雑木林の倒木や朽木で傘表面に紫褐色〜茶色の同心円状の縞模様を持つサルノコシカケを探します。"
+    },
+    "en": {
+      "summary": "Tricoloured Maze Polypore. A bracket fungus on dead broadleaf logs and rotting wood. Cap surface bears concentric stripes in a purple-brown to brown three-tone gradient.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, dead trees in shrine groves, and rotting wood in riparian forests.",
+      "finding_tips": "Year-round, look on broadleaf fallen logs and rotting wood for bracket fungi with concentric purple-brown to brown striped caps."
+    },
+    "zh": {
+      "summary": "三色拟迷孔菌。生于阔叶倒木与朽木的多孔菌。菌盖表面具同心圆状条纹，呈紫褐至褐色三色渐变。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
+      "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖具紫褐至褐色同心圆条纹的多孔菌。"
+    }
+  },
+  "Talinum paniculatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハゼラン。南米原産の多年草で、午後3時頃に花を開くことから「サンジソウ（三時草）」とも呼ばれます。葉は多肉質で、紅紫色の小さな花を散らします。",
+      "habitat_hint": "道端、空き地、石垣、舗装の隙間、家庭菜園。",
+      "finding_tips": "7〜10月、道端や石垣で多肉質の楕円形の葉と長く伸びた花茎を持つ草本を探します。午後遅く（3時頃〜）に花が開く独特の性質。"
+    },
+    "en": {
+      "summary": "Jewels of Opar. A South American perennial whose flowers open in mid-afternoon — hence the Japanese name 'three-o'clock plant'. Succulent leaves; small red-purple flowers scattered along long stalks.",
+      "habitat_hint": "Roadsides, vacant lots, stone walls, pavement cracks, and home gardens.",
+      "finding_tips": "From July to October look on roadsides and stone walls for herbs with succulent elliptical leaves and long flower stalks. Flowers open in late afternoon (~3 pm)."
+    },
+    "zh": {
+      "summary": "土人参。原产南美的多年草，下午三时左右开花，因此日文俗名『三时草』。叶肉质，花茎细长，散开紫红色小花。",
+      "habitat_hint": "路边、空地、石墙、路面缝、家庭菜园。",
+      "finding_tips": "七至十月在路边与石墙寻找具肉质椭圆叶、长花茎的草本。下午（约三时）开花是独特习性。"
+    }
+  },
+  "Viola hondoensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオイスミレ。葉が双葉葵（フタバアオイ）のような心形であることが和名の由来。早春に淡紫色〜白の小さな花を咲かせる多年草のスミレ。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、土手。",
+      "finding_tips": "3〜4月、明るい林床で心形（フタバアオイのような）の葉と淡紫〜白の小さな花を持つ早春のスミレを探します。スミレ類の中で最も早く咲く部類。"
+    },
+    "en": {
+      "summary": "Hondo Violet. The Japanese name 'mallow violet' comes from the heart-shaped leaves resembling 'futaba-aoi' (Asarum caulescens). A perennial violet with pale-purple to white small flowers in early spring.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and banks.",
+      "finding_tips": "From March to April look on bright forest floors for early-spring violets with heart-shaped leaves and pale-purple to white small flowers. Among the earliest-flowering violets."
+    },
+    "zh": {
+      "summary": "本州堇菜。日文俗名『葵堇菜』源于叶呈心形似双叶葵。早春开淡紫至白色小花的多年生堇菜。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、堤岸。",
+      "finding_tips": "三至四月在明亮林床寻找具心形（似双叶葵）叶、淡紫至白色小花的早春堇菜。是开花最早的堇菜之一。"
+    }
+  },
+  "Solidago virgaurea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アキノキリンソウ。山地や明るい草原に生える多年草で、秋に鮮黄色の頭花が穂状に集まって咲きます。アメリカセイタカアワダチソウより小型で在来種。",
+      "habitat_hint": "山地の草原、明るい林縁、土手、開けた斜面、高原。",
+      "finding_tips": "8〜11月、山地や草原で鮮黄色の頭花が穂状に集まる多年草を探します。背丈は30〜80cm程度で、セイタカアワダチソウより小型です。"
+    },
+    "en": {
+      "summary": "European Goldenrod. A native perennial of mountainous grasslands and bright openings; spike-like clusters of brilliant yellow flower heads in autumn. Smaller than introduced Canada goldenrod.",
+      "habitat_hint": "Montane grasslands, bright forest edges, banks, open slopes, and highlands.",
+      "finding_tips": "From August to November look in montane areas and grasslands for perennials with spike-like clusters of brilliant yellow heads. Plants 30-80 cm tall, smaller than Canada goldenrod."
+    },
+    "zh": {
+      "summary": "一枝黄花。山地与明亮草原的多年生草本，秋季鲜黄色头状花密集成穗状。比加拿大一枝黄花更小，是本土种。",
+      "habitat_hint": "山地草原、明亮林缘、堤岸、开阔坡地、高原。",
+      "finding_tips": "八至十一月在山地与草原寻找具鲜黄色头状花密集成穗的多年草。高 30-80 厘米，比加拿大一枝黄花小。"
+    }
   }
 }
