@@ -18522,5 +18522,185 @@
       "habitat_hint": "杂木林、林缘、农田、果园、公园、住宅区庭院。",
       "finding_tips": "五至十月在叶与树干寻找黑底白斑的小型跳蛛。快速跳跃运动是关键识别。"
     }
+  },
+  "Neohirasea japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トゲナナフシ。日本固有のナナフシで、背中と腹に小さなトゲがあるのが和名と識別の決め手。雌のみで単為生殖し、雄はほとんど見つかりません。",
+      "habitat_hint": "雑木林の林床、林縁、低木の葉裏、神社林、河畔林。",
+      "finding_tips": "7〜11月、雑木林の林床や低木の葉上で小さなトゲのある細長いナナフシを探します。動きが遅く、保護色で見つけにくい。"
+    },
+    "en": {
+      "summary": "Spiny Stick Insect. A Japan-endemic stick insect with small spines on the back and abdomen — the source of the Japanese name 'spiny stick'. Reproduces parthenogenetically; males are extremely rare.",
+      "habitat_hint": "Secondary woodland floors, forest edges, undersides of shrub leaves, shrine groves, and riparian woods.",
+      "finding_tips": "From July to November look on forest floors and shrub leaves for slender stick insects with small spines. Slow-moving and cryptically coloured — hard to spot."
+    },
+    "zh": {
+      "summary": "棘竹节虫。日本固有竹节虫，背腹具小棘是日文俗名与识别要点。雌性单性生殖，雄性极罕见。",
+      "habitat_hint": "杂木林林床、林缘、灌木叶背、神社林、河岸林。",
+      "finding_tips": "七至十一月在杂木林林床与灌木叶上寻找具小棘的细长竹节虫。行动缓慢，保护色佳，不易发现。"
+    }
+  },
+  "Pardosa astrigera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウヅキコモリグモ。畑や草地、河川敷の地表を素早く歩き回る中型のコモリグモ。雌は腹部に卵嚢を抱え、子グモも背中に乗せて運ぶ「子守」習性が和名の由来。",
+      "habitat_hint": "畑、草地、河川敷、農地、芝地、湿った地面。",
+      "finding_tips": "4〜10月、畑や草地の地表を素早く歩く中型のクモを探します。雌が腹部下に丸い卵嚢を抱えているのが識別の手がかり。網は張らない徘徊性。"
+    },
+    "en": {
+      "summary": "April Wolf Spider. A medium wolf spider that walks rapidly on the ground in fields and grasslands. Females carry an egg sac on the abdomen and later carry spiderlings on the back — the basis of the Japanese name 'babysitter'.",
+      "habitat_hint": "Fields, grasslands, riverbanks, farmland, lawns, and damp ground.",
+      "finding_tips": "From April to October look on field and grassland surfaces for medium spiders walking rapidly. Females carrying a round egg sac beneath the abdomen confirm identification. A wanderer — no webs."
+    },
+    "zh": {
+      "summary": "星豹蛛。在菜地、草地与河滩地面快速行走的中型狼蛛。雌性腹下携卵囊，后背载幼蛛行走，是日文俗名『子守』由来。",
+      "habitat_hint": "菜地、草地、河滩、农田、草坪、潮湿地面。",
+      "finding_tips": "四至十月在菜地与草地地面寻找快速行走的中型蜘蛛。雌性腹下携圆形卵囊可确认。游猎性，不结网。"
+    }
+  },
+  "Trachys auricollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クズノチビタマムシ。クズの葉を食害する小型のタマムシ。金属光沢のある黒〜緑色の体で、円形に近い形が特徴。",
+      "habitat_hint": "クズが繁茂する林縁、河川敷、藪、農地、休耕田。",
+      "finding_tips": "5〜9月、クズの葉上で金属光沢のある黒〜緑色の小さなタマムシを探します。クズの葉に円形の食痕を残します。"
+    },
+    "en": {
+      "summary": "Kudzu Buprestid. A small jewel beetle feeding on kudzu leaves. Metallic black to green body, near-circular in outline.",
+      "habitat_hint": "Forest edges, riverbanks, thickets, farmland, and fallow fields with kudzu.",
+      "finding_tips": "From May to September look on kudzu leaves for small metallic black-to-green jewel beetles. Circular feeding marks on leaves help confirm."
+    },
+    "zh": {
+      "summary": "葛纹吉丁。取食葛叶的小型吉丁。具金属光泽的黑至绿色身体，近圆形。",
+      "habitat_hint": "葛蔓繁茂的林缘、河滩、灌丛、农田、休耕田。",
+      "finding_tips": "五至九月在葛叶上寻找具金属光泽的黑至绿色小型吉丁。叶上圆形蛀痕可助识别。"
+    }
+  },
+  "Eudocima tyrannus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アケビコノハ。大型のヤガで、翅を閉じると枯葉に擬態した完璧な保護色になります。果実を吸う口吻を持つため、果樹園では害虫として知られます。",
+      "habitat_hint": "雑木林、林縁、果樹園、住宅地の庭、神社林。",
+      "finding_tips": "通年（成虫越冬）、樹幹や倒木に止まると枯葉のように見える大型ガを探します。後翅は鮮やかな橙色に黒の眼状紋。"
+    },
+    "en": {
+      "summary": "Akebia Fruit-piercer. A large noctuid moth perfectly camouflaged as a dead leaf when wings are closed. Pierces ripe fruit with its proboscis — a pest of orchards.",
+      "habitat_hint": "Secondary woodlands, forest edges, orchards, residential gardens, and shrine groves.",
+      "finding_tips": "Year-round (adults overwinter), look on trunks and fallen logs for large moths that look like dead leaves. Hindwings are brilliant orange with bold black eye-spots."
+    },
+    "zh": {
+      "summary": "壶夜蛾（木通枯叶夜蛾）。翅闭合时完美拟态枯叶的大型夜蛾。具刺吸成熟果实的口器，是果园害虫。",
+      "habitat_hint": "杂木林、林缘、果园、住宅区庭院、神社林。",
+      "finding_tips": "全年（成虫越冬）在树干与倒木上寻找形似枯叶的大型蛾。后翅鲜艳橙色配黑色眼斑。"
+    }
+  },
+  "Nipponocypris temminckii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワムツ。河川中流〜下流に普通な小型コイ科で、オイカワと混生します。体側に明瞭な縦線があり、雄は繁殖期に淡紅色の婚姻色が出ます。",
+      "habitat_hint": "河川の中流〜下流、用水路、湖沼、緩流の小川。",
+      "finding_tips": "通年、河川中下流で群れで泳ぐ細長い魚を探します。体側の明瞭な縦線がオイカワとの識別ポイント。"
+    },
+    "en": {
+      "summary": "Dark Chub. A small cyprinid common in mid- to lower-reach rivers, often co-occurring with Pale Chub. Distinctive lateral stripe; males show pale-pink nuptial colours in breeding season.",
+      "habitat_hint": "Mid- to lower-reach rivers, irrigation channels, lakes, and slow streams.",
+      "finding_tips": "Year-round, look in mid- to lower river reaches for schools of slim fish. The distinct lateral stripe distinguishes it from Pale Chub."
+    },
+    "zh": {
+      "summary": "鲦鱼属一种（暗鱲）。河流中下游常见的小型鲤科，与宽鳍鱲混栖。体侧具明显纵纹；雄性繁殖期出现淡红色婚姻色。",
+      "habitat_hint": "河流中下游、灌溉沟、湖沼、缓流小溪。",
+      "finding_tips": "全年在河流中下游寻找成群游动的细长鱼。体侧明显纵纹与宽鳍鱲区分。"
+    }
+  },
+  "Exidia uvapassa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマキクラゲ。広葉樹の枯枝に発生するゼリー状のキノコ。球状〜不規則な団子状で、淡褐色〜黒褐色。乾燥すると小さく縮みます。",
+      "habitat_hint": "雑木林の枯枝、倒木、神社林の枯枝、河畔林の朽木。",
+      "finding_tips": "梅雨〜秋（特に雨上がり）、枯枝や倒木に発生する淡褐色〜黒褐色の球状〜不規則なゼリー状キノコを探します。"
+    },
+    "en": {
+      "summary": "Black Witch's Butter (raisin form). A jelly fungus on dead broadleaf branches. Globose to irregular dumpling-like, pale brown to blackish-brown; shrinks when dry.",
+      "habitat_hint": "Dead branches in secondary woodlands, fallen logs, dead branches in shrine groves, and rotting wood in riparian forests.",
+      "finding_tips": "From rainy season to autumn (especially after rain) look on dead branches and fallen logs for pale-brown to blackish-brown globose to irregular jelly fungi."
+    },
+    "zh": {
+      "summary": "黑木耳类（葡萄状黑耳）。生于阔叶枯枝的胶质菌。球形至不规则团块状，淡褐至黑褐色，干燥时缩小。",
+      "habitat_hint": "杂木林枯枝、倒木、神社林枯枝、河岸林朽木。",
+      "finding_tips": "梅雨至秋（特别雨后）在枯枝与倒木上寻找淡褐至黑褐色球形至不规则胶质菌。"
+    }
+  },
+  "Acridotheres cristatellus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハッカチョウ。中国南部原産の中型ムクドリ科で、近年関東地方で野生化が進む外来種。全身黒く、額に冠羽、翼に白い模様がある。",
+      "habitat_hint": "市街地、住宅地、公園、河川敷、農地。",
+      "finding_tips": "通年、市街地や河川敷で全身黒くて額に冠羽のある中型のムクドリ類を探します。飛翔時に翼の白斑が目立ちます。声は多様で「ヒー」や物まねもします。"
+    },
+    "en": {
+      "summary": "Crested Myna. A medium myna from southern China, increasingly naturalised in Japan's Kanto region. All black with a frontal crest and white wing patches.",
+      "habitat_hint": "Urban areas, residential areas, parks, riverbanks, and farmland.",
+      "finding_tips": "Year-round, in urban areas and riverbanks look for medium black mynas with a frontal crest. White wing patches conspicuous in flight. Varied calls including mimicry."
+    },
+    "zh": {
+      "summary": "八哥（凤头八哥）。原产中国南部的中型椋鸟科，近年在日本关东野化扩散。通体黑色，额具冠羽，翅具白色斑。",
+      "habitat_hint": "市区、住宅区、公园、河滩、农田。",
+      "finding_tips": "全年在市区与河滩寻找通体黑色、额具冠羽的中型椋鸟。飞行时翅上白斑显眼。鸣声多变并能模仿。"
+    }
+  },
+  "Eclipta prostrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タカサブロウ（広義）。水田や湿地、河川敷に普通な一年草のキク科。茎を切ると黒い汁が出るのが特徴で、薬用にも使われます。白い小さな頭花を咲かせます。",
+      "habitat_hint": "水田、湿地、河川敷、休耕田、用水路の縁、農地の縁。",
+      "finding_tips": "7〜10月、水田や湿地で対生の披針形の葉と白い小さな頭花を持つ一年草を探します。茎を切ると黒い汁が出るのが識別の決め手。"
+    },
+    "en": {
+      "summary": "False Daisy. A common annual Asteraceae of paddies, wetlands, and riverbanks. Snapped stems exude a black juice — a diagnostic feature; also used medicinally. Small white flower heads.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, fallow paddies, irrigation channel edges, and farmland margins.",
+      "finding_tips": "From July to October look in paddies and wetlands for annuals with opposite lanceolate leaves and small white flower heads. Black juice from snapped stems is diagnostic."
+    },
+    "zh": {
+      "summary": "鳢肠（墨旱莲）。水田、湿地与河滩常见的一年生菊科。茎折断流出黑色汁液是关键识别，可作药用。开白色小头状花。",
+      "habitat_hint": "水田、湿地、河滩、休耕田、灌溉沟边、农田边缘。",
+      "finding_tips": "七至十月在水田与湿地寻找具对生披针叶、白色小头状花的一年草。茎折断流黑色汁液是关键识别。"
+    }
+  },
+  "Amaranthus hybridus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホソアオゲイトウ。北米原産の大型一年草で、河川敷や畑、空き地に帰化。緑色の細長い穂状花序を立て、種子を多く実らせます。背丈は1〜2mに達します。",
+      "habitat_hint": "河川敷、畑、農地の縁、空き地、道端、造成地。",
+      "finding_tips": "7〜10月、河川敷や畑で背の高い（1〜2m）緑色の細長い穂状花序を持つ大型一年草を探します。葉は卵形〜披針形。"
+    },
+    "en": {
+      "summary": "Smooth Pigweed. A North American large annual naturalised on riverbanks, fields, and vacant lots. Slender green spike-like inflorescences; abundant seeds. Reaches 1-2 m tall.",
+      "habitat_hint": "Riverbanks, fields, farmland margins, vacant lots, roadsides, and construction sites.",
+      "finding_tips": "From July to October look on riverbanks and fields for tall (1-2 m) annuals with slender green spike-like inflorescences. Ovate to lanceolate leaves."
+    },
+    "zh": {
+      "summary": "绿穗苋。原产北美的大型一年草，归化于河滩、菜地与空地。具绿色细长穗状花序，种子丰富。高 1-2 米。",
+      "habitat_hint": "河滩、菜地、农田边缘、空地、路边、工地。",
+      "finding_tips": "七至十月在河滩与菜地寻找高 1-2 米、具绿色细长穗状花序的大型一年草。叶卵形至披针形。"
+    }
+  },
+  "Fimbristylis autumnalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメヒラテンツキ。湿地や水田畦、河川敷の湿地に生える小型〜中型の一年生〜多年生のカヤツリグサ科。秋に小さな茶色〜淡褐色の小穂を散形に多数つけます。",
+      "habitat_hint": "水田畦、湿地、河川敷の湿地、休耕田、ため池の縁。",
+      "finding_tips": "8〜10月、湿地や水田畦で小さな茶色〜淡褐色の小穂を散形に多数つける小型〜中型のカヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Autumn Fimbry. A small to medium annual to perennial sedge of wetlands, paddy bunds, and wet riverbanks. Many small brown to pale-brown spikelets in umbels in autumn.",
+      "habitat_hint": "Paddy bunds, wetlands, wet riverbanks, fallow paddies, and pond edges.",
+      "finding_tips": "From August to October look in wetlands and paddy bunds for small to medium sedges with many small brown to pale-brown spikelets in umbels."
+    },
+    "zh": {
+      "summary": "秋飘拂草。湿地、水田田埂与河滩湿地的中小型一至多年生莎草科。秋季伞形密生茶至淡褐色小穗。",
+      "habitat_hint": "水田田埂、湿地、河滩湿地、休耕田、池塘边。",
+      "finding_tips": "八至十月在湿地与水田田埂寻找具茶至淡褐色小穗伞形密集的中小型莎草。"
+    }
   }
 }
