@@ -18162,5 +18162,185 @@
       "habitat_hint": "绿篱、公园栽植、行道树、住宅区栽植、寺社境内。",
       "finding_tips": "花期五至六月，果期十至十二月。在绿篱与公园寻找具椭圆叶、白色小花圆锥花序的半常绿至常绿灌木。"
     }
+  },
+  "Allium tuberosum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニラ。アジア原産の多年草で、独特のニンニク様の香りを持つ食用ハーブ。畑で栽培されますが、空き地や河川敷にも野生化。夏に白い6弁の星形花を散形に咲かせます。",
+      "habitat_hint": "畑、家庭菜園、農地の縁、空き地、河川敷、道端。",
+      "finding_tips": "花期8〜9月、線形の葉に独特のニンニク様の香りを持つ多年草を探します。夏に白い星形花が散形に並ぶのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Garlic Chives. An Asian perennial culinary herb with garlic-like aroma. Cultivated in fields but also naturalised on vacant lots and riverbanks. White 6-petalled star-shaped flowers in umbels in summer.",
+      "habitat_hint": "Fields, home gardens, farmland margins, vacant lots, riverbanks, and roadsides.",
+      "finding_tips": "Flowers August-September. Look for perennials with linear leaves smelling strongly of garlic. White star-shaped flowers in umbels in summer confirm identification."
+    },
+    "zh": {
+      "summary": "韭菜。原产亚洲的多年生草本，具独特蒜味的食用香草。多在田间栽培，亦在空地与河滩野化。夏季伞形开放白色六瓣星形花。",
+      "habitat_hint": "菜地、家庭菜园、农田边缘、空地、河滩、路边。",
+      "finding_tips": "花期八至九月。寻找具线形叶、强烈蒜香气的多年草。夏季伞形排列白色星形花是关键识别。"
+    }
+  },
+  "Paspalum thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズメノヒエ。多年生の中型イネ科で、芝地や畦、河川敷に普通。穂が指状に3〜5本に分かれ、それぞれ小穂が2列に並びます。",
+      "habitat_hint": "芝地、水田畦、河川敷、道端、農地の縁、グラウンドの縁。",
+      "finding_tips": "7〜10月、芝地や畦で穂が指状に3〜5本に分かれた多年生イネ科を探します。穂上の小穂が2列に並ぶのが特徴。"
+    },
+    "en": {
+      "summary": "Thunberg's Paspalum. A medium perennial grass common on lawns, paddy bunds, and riverbanks. Inflorescence divided into 3-5 finger-like racemes, each with spikelets in two rows.",
+      "habitat_hint": "Lawns, paddy bunds, riverbanks, roadsides, farmland margins, and athletic field edges.",
+      "finding_tips": "From July to October look on lawns and paddy bunds for perennial grasses with 3-5 finger-like racemes. Two rows of spikelets per raceme is the diagnostic feature."
+    },
+    "zh": {
+      "summary": "雀稗（日本雀稗）。中型多年生禾本科，草坪、田埂、河滩常见。花序分 3-5 个指状总状花序，每个总状花序上小穗 2 列排列。",
+      "habitat_hint": "草坪、水田田埂、河滩、路边、农田边缘、运动场边。",
+      "finding_tips": "七至十月在草坪与田埂寻找具 3-5 个指状总状花序的多年生禾本科。每总状花序上小穗 2 列排列是关键识别。"
+    }
+  },
+  "Ranunculus japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウマノアシガタ。明るい草地や林縁に生える多年草のキンポウゲ科。光沢のある黄色い5弁花が美しく、和名は葉が馬の脚形に似ることから。汁に皮膚刺激あり。",
+      "habitat_hint": "明るい草地、林縁、土手、湿った草地、河川敷の草地。",
+      "finding_tips": "4〜6月、明るい草地や林縁で光沢のある鮮黄色の5弁花を持つ多年草を探します。花弁が光って見えるのが特徴。汁にプロトアネモニンが含まれ皮膚を刺激します。"
+    },
+    "en": {
+      "summary": "Japanese Buttercup. A Ranunculus of bright grasslands and forest edges. Glossy yellow 5-petalled flowers. The Japanese name 'horse-foot' compares the leaf shape to a horse's hoof. Sap contains skin-irritating protoanemonin.",
+      "habitat_hint": "Bright grasslands, forest edges, banks, damp grasslands, and riverside grasslands.",
+      "finding_tips": "From April to June look in bright grasslands and forest edges for perennials with glossy bright-yellow 5-petalled flowers. Petals appear shiny. Skin irritant — handle carefully."
+    },
+    "zh": {
+      "summary": "日本毛茛。明亮草地与林缘的多年生毛茛科。具光泽鲜黄色五瓣花美丽，日文俗名『马蹄草』源于叶形似马蹄。汁液含原白头翁素刺激皮肤。",
+      "habitat_hint": "明亮草地、林缘、堤岸、潮湿草地、河滩草地。",
+      "finding_tips": "四至六月在明亮草地与林缘寻找具光泽鲜黄色五瓣花的多年草。花瓣具反光。汁液刺激皮肤，请小心处理。"
+    }
+  },
+  "Astilbe thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカショウマ。山地の林縁や明るい林床に生える多年草のユキノシタ科。夏に白い小花が円錐花序に密生し、ふわふわとした白い穂状の花姿が美しい。",
+      "habitat_hint": "山地の明るい林床、林縁、半日陰の斜面、神社林、谷地林。",
+      "finding_tips": "6〜8月、山地の林縁や林床で白いふわふわとした円錐花序を持つ多年草を探します。葉は2〜3回三出複葉で、小葉は鋸歯のある卵形。"
+    },
+    "en": {
+      "summary": "Thunberg's Astilbe. A perennial Saxifragaceae of montane forest edges and bright forest floors. Many small white flowers in fluffy panicles in summer.",
+      "habitat_hint": "Bright montane forest floors, forest edges, partly shaded slopes, shrine groves, and valley woods.",
+      "finding_tips": "From June to August look in montane forest edges and floors for perennials with white fluffy panicles. Leaves 2-3 times ternately compound; leaflets ovate-serrate."
+    },
+    "zh": {
+      "summary": "落新妇（日本落新妇）。山地林缘与明亮林床的虎耳草科多年草。夏季白色小花密集成蓬松圆锥花序美丽。",
+      "habitat_hint": "山地明亮林床、林缘、半阴斜坡、神社林、谷地林。",
+      "finding_tips": "六至八月在山地林缘与林床寻找具白色蓬松圆锥花序的多年草。叶 2-3 回三出复叶，小叶卵形具锯齿。"
+    }
+  },
+  "Phryma oblongifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガバハエドクソウ。湿った林床や林縁に生える多年草のハエドクソウ科。葉が長い楕円形で、夏に淡桃色の唇形花を穂状に咲かせます。古くから蝿毒（はえどく）として使われました。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、神社林。",
+      "finding_tips": "7〜9月、湿った林床や林縁で長い楕円形の葉と淡桃色の唇形花の穂を持つ多年草を探します。果実は下向きに反転し、衣服に付着します。"
+    },
+    "en": {
+      "summary": "Long-leaved Lopseed. A perennial of damp forest floors and edges (Phrymaceae). Oblong leaves; pale-pink lipped flowers in spikes in summer. Historically used as a fly poison.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and shrine groves.",
+      "finding_tips": "From July to September look on damp forest floors and edges for perennials with oblong leaves and spikes of pale-pink lipped flowers. Fruits reflex downward and stick to clothing."
+    },
+    "zh": {
+      "summary": "长叶透骨草。潮湿林床与林缘的透骨草科多年草。叶长椭圆形，夏季穗状开淡粉唇形花。古时作灭蝇药。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
+      "finding_tips": "七至九月在潮湿林床与林缘寻找具长椭圆形叶、淡粉唇形花穗的多年草。果实下垂反折，粘附衣物。"
+    }
+  },
+  "Freesia laxa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメヒオウギ。南アフリカ原産の小型多年草で、観賞用に導入され帰化。淡桃色〜赤色の小さな6弁花を初夏に咲かせ、細い線形の葉が剣のように立ち上がります。",
+      "habitat_hint": "庭園、公園植栽、石垣、舗装の隙間、住宅地の庭、河川敷。",
+      "finding_tips": "5〜6月、庭園や公園で剣状の細い葉と淡桃色〜赤色の小さな6弁花を持つ小型多年草を探します。種子で広く野生化することがあります。"
+    },
+    "en": {
+      "summary": "Painted Petals. A small South African perennial introduced as an ornamental and naturalised. Small pale-pink to red 6-petalled flowers in early summer; narrow linear sword-like leaves.",
+      "habitat_hint": "Gardens, park plantings, stone walls, pavement cracks, residential gardens, and riverbanks.",
+      "finding_tips": "From May to June look in gardens and parks for small perennials with sword-like narrow leaves and small pale-pink to red 6-petalled flowers. Spreads widely by seed."
+    },
+    "zh": {
+      "summary": "姫绯扇（南非小苍兰近亲）。原产南非的小型多年草，作观赏引入后归化。初夏开淡粉至红色六瓣小花，细线形叶如剑般直立。",
+      "habitat_hint": "庭园、公园栽植、石墙、路面缝、住宅区庭院、河滩。",
+      "finding_tips": "五至六月在庭园与公园寻找具剑形细叶、淡粉至红色六瓣小花的小型多年草。可凭种子广泛野化。"
+    }
+  },
+  "Rosa luciae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "テリハノイバラ。日本在来の蔓性〜匍匐性の野生バラで、海岸近くや林縁に生えます。葉が光沢のある（テリハ）小さな羽状複葉で、初夏に純白の5弁花を咲かせます。",
+      "habitat_hint": "海岸近くの林、河川敷、土手、林縁、岩場。",
+      "finding_tips": "5〜6月、海岸近くや河川敷で光沢のある小さな羽状複葉を持つ蔓性〜匍匐性のバラを探します。純白の5弁花と秋の赤い偽果が美しい。"
+    },
+    "en": {
+      "summary": "Shiny-leaved Rose. A native Japanese wild rose, vining to creeping in coastal woods and forest edges. Glossy small pinnate leaves ('terihana' = shiny leaves) and pure-white 5-petalled flowers in early summer.",
+      "habitat_hint": "Coastal woods, riverbanks, banks, forest edges, and rocky places.",
+      "finding_tips": "From May to June look in coastal areas and riverbanks for vining-creeping roses with glossy small pinnate leaves. Pure-white 5-petalled flowers and red autumn hips are beautiful."
+    },
+    "zh": {
+      "summary": "光叶蔷薇。日本本土的蔓生至匍匐野蔷薇，生于海岸近郊与林缘。叶具光泽（『照叶』）小型羽状复叶，初夏开纯白色五瓣花。",
+      "habitat_hint": "海岸近郊林、河滩、堤岸、林缘、岩生地。",
+      "finding_tips": "五至六月在海岸近郊与河滩寻找具光泽小型羽状复叶的蔓生至匍匐蔷薇。纯白色五瓣花与秋季红色假果美观。"
+    }
+  },
+  "Poa sphondylodes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオイチゴツナギ。多年生の小型イネ科で、道端や芝地、空き地に普通。繊細な円錐花序を立て、淡緑色の小穂が密集します。",
+      "habitat_hint": "道端、芝地、空き地、農地の縁、河川敷、グラウンドの縁。",
+      "finding_tips": "5〜7月、道端や芝地で繊細な円錐花序と淡緑色の小穂を持つ多年生小型イネ科を探します。"
+    },
+    "en": {
+      "summary": "A small perennial bluegrass common on roadsides, lawns, and vacant lots. Delicate panicles with densely packed pale-green spikelets.",
+      "habitat_hint": "Roadsides, lawns, vacant lots, farmland margins, riverbanks, and athletic field edges.",
+      "finding_tips": "From May to July look on roadsides and lawns for small perennial grasses with delicate panicles and pale-green densely packed spikelets."
+    },
+    "zh": {
+      "summary": "硬质早熟禾。多年生小型禾本科，路边、草坪、空地常见。具纤细圆锥花序与密集淡绿色小穗。",
+      "habitat_hint": "路边、草坪、空地、农田边缘、河滩、运动场边。",
+      "finding_tips": "五至七月在路边与草坪寻找具纤细圆锥花序、淡绿色密集小穗的多年生小型禾本科。"
+    }
+  },
+  "Juncus decipiens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イ（イグサ）。湿地や水田、ため池の縁に生える多年生のイグサ科。茎が円柱形で内部に白い髄があり、古来から畳表や麻ひもに利用されてきました。",
+      "habitat_hint": "湿地、水田、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "通年（花期6〜9月）、湿地や水田で細長い円柱形の茎が叢生する多年草を探します。茎を切ると中に白い髄が詰まっているのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Japanese Mat Rush. A perennial rush of wetlands, paddies, and pond edges. Cylindrical stems with white pith inside; long used for tatami mat covers and rope.",
+      "habitat_hint": "Wetlands, rice paddies, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "Year-round (flowers June-September), look in wetlands and paddies for perennials with long cylindrical tufted stems. White pith inside the stem is diagnostic."
+    },
+    "zh": {
+      "summary": "灯心草。湿地、水田与池塘边的多年生灯心草科。茎圆柱形内具白色髓，自古作榻榻米席面与麻绳。",
+      "habitat_hint": "湿地、水田、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "全年（花期六至九月）在湿地与水田寻找具细长圆柱形丛生茎的多年草。茎中白色髓是关键识别。"
+    }
+  },
+  "Torenia crustacea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウリクサ。畑や道端、芝地に普通な小型一年草のアゼナ科。葉が小さく対生で、淡紫色の小さな唇形花を咲かせます。",
+      "habitat_hint": "畑、道端、芝地、空き地、農地の縁、舗装の隙間。",
+      "finding_tips": "6〜10月、畑や道端で小さな対生の葉と淡紫色の小さな唇形花を持つ小型一年草を探します。茎は四角形で匍匐性。"
+    },
+    "en": {
+      "summary": "Crab-leaf Wishbone Flower. A small annual Linderniaceae common in fields, roadsides, and lawns. Small opposite leaves and small pale-purple lipped flowers.",
+      "habitat_hint": "Fields, roadsides, lawns, vacant lots, farmland margins, and pavement cracks.",
+      "finding_tips": "From June to October look in fields and roadsides for small annuals with small opposite leaves and small pale-purple lipped flowers. Square creeping stems."
+    },
+    "zh": {
+      "summary": "瓜子草（蝴蝶草近亲）。菜地、路边与草坪常见的小型一年生母草科。叶小对生，开淡紫色小型唇形花。",
+      "habitat_hint": "菜地、路边、草坪、空地、农田边缘、路面缝。",
+      "finding_tips": "六至十月在菜地与路边寻找具小型对生叶、淡紫色小唇形花的小型一年草。茎四棱形匍匐生长。"
+    }
   }
 }
