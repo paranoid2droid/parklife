@@ -11952,5 +11952,167 @@
       "habitat_hint": "农田、家庭菜园、河滩、堆肥、垃圾场、潮湿地面。",
       "finding_tips": "找蜂大、黑色配体节浅斑的大型虻。**对人无害。** 幼虫常成群于堆肥与厨余。"
     }
+  },
+  "Turdus cardis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロツグミ。雄が黒い体に白いお腹のツグミ類で、夏鳥として渡来します。「キョロロロ」と独特の美しいさえずりで知られます。",
+      "habitat_hint": "雑木林、社寺林、山地の林、河川敷の樹林、明るい林縁。",
+      "finding_tips": "5〜8月、林の中から「キョロロロ」という美しいさえずりが聞こえたら本種。雄は黒+白、雌は茶褐色で目立たないので、声で同定するのが現実的です。"
+    },
+    "en": {
+      "summary": "Japanese Thrush. A summer-visiting thrush; males are black above with white belly. Known for a clear flutey song often transcribed as 'kyo-ro-ro-ro'.",
+      "habitat_hint": "Mixed woodland, shrine groves, montane forest, riverside woods, and bright woodland edges.",
+      "finding_tips": "From May to August listen for a clear flutey song from inside woods. Males are black-and-white; females browner and harder to see — song is the practical ID."
+    },
+    "zh": {
+      "summary": "乌鸫近缘（日本黑鸫），夏候鸟。雄鸟黑背白腹，鸣声悠扬独特，常被记为『嘎-罗-罗-罗』。",
+      "habitat_hint": "杂木林、神社树林、山地林、河岸林、明亮林缘。",
+      "finding_tips": "五至八月听林中悠扬鸣唱即是。雄黑白、雌偏褐难见，靠声辨识。"
+    }
+  },
+  "Ligustrum japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネズミモチ。光沢のある厚い葉と、初夏に白い小花が円錐状にまとまる常緑樹。秋〜冬の黒い実が「ネズミの糞」に似ることが名前の由来です。",
+      "habitat_hint": "庭園、神社の境内、生け垣、街路樹、公園の植え込み、海岸近くの林。",
+      "finding_tips": "光沢のある厚い卵形の常緑葉と、初夏の白い円錐状花序、秋〜冬の小さな黒い実を探します。生け垣として広く植栽されています。"
+    },
+    "en": {
+      "summary": "Japanese Privet. An evergreen tree with glossy thick leaves, pyramidal clusters of white flowers in early summer, and small black autumn-winter fruits. The fruits' resemblance to rat droppings gives the Japanese name 'rat-mochi'.",
+      "habitat_hint": "Gardens, shrine grounds, hedges, street trees, park plantings, and coastal woods.",
+      "finding_tips": "Look for an evergreen with glossy thick oval leaves and cone-shaped white flower clusters in early summer. Small black autumn-winter fruits."
+    },
+    "zh": {
+      "summary": "日本女贞（『鼠之黐』），常绿乔木。叶厚有光泽，初夏开圆锥状白色花序，秋冬结小黑果。日文俗名因黑果形似鼠粪。",
+      "habitat_hint": "庭园、神社境内、绿篱、行道树、公园植被、近海林。",
+      "finding_tips": "找叶厚有光泽、初夏圆锥状白花序、秋冬黑色小果的常绿树。常作绿篱栽培。"
+    }
+  },
+  "Euonymus japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マサキ。光沢のある厚い葉を持つ常緑低木で、生け垣として広く植栽されます。秋〜冬に赤橙色の種子が露出する裂開果が美しいです。",
+      "habitat_hint": "庭園、神社の境内、生け垣、海岸近くの林、街路樹下の植え込み。",
+      "finding_tips": "光沢のある厚い対生する葉と、秋〜冬に赤橙色の種子が裂開した果実から覗く姿が目印。海岸近くで野生個体も見られます。"
+    },
+    "zh": {
+      "summary": "冬青卫矛（『真柏』），常绿灌木。叶厚有光泽对生，常作绿篱栽培。秋冬蒴果裂开露红橙色种子。",
+      "habitat_hint": "庭园、神社境内、绿篱、近海林、行道树下植被。",
+      "finding_tips": "找叶厚有光泽对生的常绿灌木。秋冬蒴果裂开露红橙色种子。近海野生亦可见。"
+    },
+    "en": {
+      "summary": "Japanese Spindle. An evergreen shrub with glossy thick opposite leaves, widely planted as hedges. Autumn-winter capsules split to expose orange-red seeds."
+,      "habitat_hint": "Gardens, shrine grounds, hedges, coastal woods, and underplantings of street trees.",
+      "finding_tips": "Look for an evergreen shrub with glossy thick opposite leaves. In autumn-winter capsules split open to display vivid orange-red seeds."
+    }
+  },
+  "Chenopodium album": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロザ。畑や河川敷に普通の大型雑草。茎の先に粉を吹いたような白い花序を立て、若葉は山菜として食べられました（アクが強いので調理必須）。",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、道端。",
+      "finding_tips": "7〜10月、人の腰高〜背丈に育つ大型植物で、葉裏に白い粉を吹いた葉と、白っぽい花序を持つものを探します。**生食は不可、調理必要。**"
+    },
+    "en": {
+      "summary": "White Goosefoot, a common large weed of fields and riverbanks. Mealy white inflorescences; young leaves were historically foraged (require cooking due to oxalates).",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, and roadsides.",
+      "finding_tips": "From July to October look for large weeds (waist-to-head height) with mealy whitish leaf undersides and pale flower spikes. **Do not eat raw — requires cooking.**"
+    },
+    "zh": {
+      "summary": "藜（白藜），田边与河滩常见大型杂草。茎顶抽白色粉状花序，嫩叶传统作野菜（含草酸需烹煮）。",
+      "habitat_hint": "菜园、河滩、空地、田边、路边。",
+      "finding_tips": "七至十月找腰高至人高、叶背具白粉、抽白色花序的大型植物。**生食不可，须烹煮。**"
+    }
+  },
+  "Lespedeza cuneata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メドハギ。在来種のマメ科で、人の背丈に育ち、夏〜秋に淡黄色の小さな蝶形花を多数咲かせます。河川敷や明るい斜面で群生します。",
+      "habitat_hint": "河川敷、空き地、農地の縁、明るい斜面、土手、休耕田。",
+      "finding_tips": "8〜10月、人の腰高ほどに育つ植物で、茎の上部に多数の淡黄色の小型蝶形花を持つものを探します。葉は3枚の小葉で楕円形。"
+    },
+    "en": {
+      "summary": "Chinese Bushclover. A native legume that grows to waist or head height; many small pale-yellow pea flowers in late summer and autumn. Common in colonies on riverbanks and bright slopes.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, bright slopes, levees, and fallow fields.",
+      "finding_tips": "From August to October look for plants reaching knee-to-waist height with many small pale-yellow pea flowers along the upper stem. Trifoliate oval leaves."
+    },
+    "zh": {
+      "summary": "截叶铁扫帚（『目处萩』），本土豆科。可达腰高，夏秋开许多淡黄色蝶形小花。河滩与明亮斜坡常成片。",
+      "habitat_hint": "河滩、空地、田边、明亮斜坡、堤岸、休耕田。",
+      "finding_tips": "八至十月找腰高、茎上部排许多淡黄蝶形小花的植物。三出叶椭圆形。"
+    }
+  },
+  "Onoclea sensibilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コウヤワラビ。湿地や林床に生える在来種のシダ。柔らかい葉が霜に弱いことから「敏感シダ（sensibilis）」と名付けられました。胞子嚢穂は別の独特な姿で立ち上がります。",
+      "habitat_hint": "湿った林床、谷沿いの林、河川敷の湿地、神社の境内、湿った草地。",
+      "finding_tips": "湿った場所で、波打つ柔らかい葉を持つ中型シダを探します。胞子嚢穂は別の茎に立ち、ネックレス状の独特な姿が目印です。"
+    },
+    "en": {
+      "summary": "Sensitive Fern, a native fern of damp ground. Soft fronds wilt quickly with frost — the source of the Latin and English name. Spore-bearing fronds are a separate, beaded structure.",
+      "habitat_hint": "Damp forest floor, valley woods, riverside wetlands, shrine grounds, and damp meadows.",
+      "finding_tips": "On damp ground look for medium ferns with soft wavy fronds. Separate beaded spore-bearing fronds also rise from the same root mass."
+    },
+    "zh": {
+      "summary": "球子蕨（『敏感蕨』），生于潮湿处的本土蕨。叶柔软不耐霜冻而得名。孢子叶分立，呈串珠状独特造型。",
+      "habitat_hint": "潮湿林床、谷地林、河滩湿地、神社境内、潮湿草地。",
+      "finding_tips": "在潮湿处找叶柔软波状的中型蕨。孢子叶呈串珠形分立。"
+    }
+  },
+  "Impatiens textorii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツリフネソウ。湿地や林縁に生える在来種で、独特の「吊船」型の赤紫色の花が美しい。種子は熟すと「自分から弾ける」性質を持ち、ホウセンカの仲間です。",
+      "habitat_hint": "湿った林縁、谷沿いの林、河川敷、湿地、神社の境内。",
+      "finding_tips": "8〜10月、湿った場所で独特の吊船型（後ろに距が伸びる）の赤紫色の花を多数咲かせる植物を探します。**実は触ると弾けます（観察の楽しみ）。**"
+    },
+    "en": {
+      "summary": "Japanese Touch-Me-Not. A native impatiens of damp woodland edges with distinctive 'hanging boat'-shaped purple flowers in late summer. Mature seed pods explode when touched.",
+      "habitat_hint": "Damp woodland edges, valley woods, riverbanks, wetlands, and shrine grounds.",
+      "finding_tips": "From August to October look in damp ground for plants with distinctive hanging-boat-shaped purple flowers. **Touch the ripe seed pods to feel them spring open — a classic field-trip delight.**"
+    },
+    "zh": {
+      "summary": "水金凤（『吊船花』），本土凤仙花科。生于潮湿林缘，独特『吊船形』紫红色花。果熟时一触即弹（观察乐趣）。",
+      "habitat_hint": "潮湿林缘、谷地林、河滩、湿地、神社境内。",
+      "finding_tips": "八至十月在潮湿处找开吊船形紫红色花的植物。**触碰熟果可见弹射，野外观察经典体验。**"
+    }
+  },
+  "Fatoua villosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クワクサ。クワの葉に似た形の葉を持つ小型の一年草。畑や道端に普通で、夏〜秋に小さな緑色の花序を立てます。",
+      "habitat_hint": "畑、道端、河川敷、農地の縁、空き地、舗装の隙間。",
+      "finding_tips": "7〜10月、地面近くで、クワの葉に似た形の葉と地味な緑色の花序を持つ植物を探します。葉に独特の毛があるのも特徴。"
+    },
+    "en": {
+      "summary": "Hairy Crabweed. A small annual with leaves shaped like mulberry leaves. Common in gardens and roadsides; inconspicuous green flower clusters in summer and autumn.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, field margins, vacant lots, and pavement cracks.",
+      "finding_tips": "From July to October look low for plants with mulberry-shaped leaves and small green flower clusters. Distinctive hairs on the leaves."
+    },
+    "zh": {
+      "summary": "桑草（『桑科杂草』），小型一年生植物。叶形似桑叶。常见于菜园路边，夏秋抽朴素绿色花序。",
+      "habitat_hint": "菜园、路边、河滩、田边、空地、铺装缝。",
+      "finding_tips": "七至十月找叶似桑、绿色花序朴素的小型植物。叶具特殊毛。"
+    }
+  },
+  "Arthraxon hispidus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コブナグサ。湿った草地に生える小型のイネ科。葉が小さく心形で茎を抱くようにつくのが特徴で、秋に細い穂を立てます。",
+      "habitat_hint": "湿った草地、河川敷、水田の畔、農地の縁、半日陰の草地。",
+      "finding_tips": "9〜11月、湿った草地で心形に近い葉が茎を抱くようにつき、細い穂を立てる小型のイネ科を探します。"
+    },
+    "en": {
+      "summary": "Hairy Joint Grass, a small grass of damp meadows. Small heart-shaped leaves clasp the stem; slender autumn flowering spikes.",
+      "habitat_hint": "Damp meadows, riverbanks, paddy levees, field margins, and shaded meadows.",
+      "finding_tips": "From September to November look on damp ground for small grasses whose nearly heart-shaped leaves clasp the stem and that bear slender flower spikes."
+    },
+    "zh": {
+      "summary": "荩草（『小鲋草』），潮湿草地小型禾本科。叶小心形抱茎为特征，秋季抽细花穗。",
+      "habitat_hint": "潮湿草地、河滩、田埂、田边、半阴草地。",
+      "finding_tips": "九至十一月在潮湿草地找叶近心形抱茎、抽细穗的小型禾本科。"
+    }
   }
 }
