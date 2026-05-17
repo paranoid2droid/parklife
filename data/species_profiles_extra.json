@@ -19980,5 +19980,185 @@
       "habitat_hint": "杂木林、林缘、出树液的树、神社林、河岸林。",
       "finding_tips": "十至十二月在树液与腐果周边寻找翅上具 4 条纵纹的中型蛾。冬季活跃属罕见。"
     }
+  },
+  "Turdus naumanni": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハチジョウツグミ。ツグミの亜種または近縁種で、胸〜腹が赤褐色を帯びる冬鳥。日本では稀少で、ツグミの群れに混じって観察されることがあります。",
+      "habitat_hint": "農地、公園、河川敷、林縁、住宅地の庭。",
+      "finding_tips": "10〜4月、ツグミの群れの中で胸〜腹が赤褐色を帯びる個体を探します。ツグミより数は少ない。"
+    },
+    "en": {
+      "summary": "Naumann's Thrush. A subspecies/close relative of Dusky Thrush with reddish-brown breast to belly. A scarce winter visitor to Japan, often found mixed with flocks of Dusky Thrush.",
+      "habitat_hint": "Farmland, parks, riverbanks, forest edges, and residential gardens.",
+      "finding_tips": "From October to April look in Dusky Thrush flocks for individuals with reddish-brown breast and belly. Less common than Dusky Thrush."
+    },
+    "zh": {
+      "summary": "红尾鸫（瑙曼氏鸫）。斑鸫的亚种或近缘种，胸至腹带红褐色。日本不常见冬候鸟，常混于斑鸫群中。",
+      "habitat_hint": "农田、公园、河滩、林缘、住宅区庭院。",
+      "finding_tips": "十至四月在斑鸫群中寻找胸腹带红褐色的个体。比斑鸫少见。"
+    }
+  },
+  "Silurus asotus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナマズ。河川や湖沼に住む大型の淡水魚で、口の周りに4本の長い口ひげがあります。夜行性で、小魚や水生昆虫を捕食します。蒲焼きなどの食用にもされます。",
+      "habitat_hint": "河川、湖沼、ため池、用水路、ダム湖。",
+      "finding_tips": "通年、河川や湖沼の底層で長い口ひげを持つ大型の魚を探します。夜行性のため日中は石下や水草の中に隠れています。"
+    },
+    "en": {
+      "summary": "Amur Catfish. A large freshwater fish of rivers and lakes with four long barbels around the mouth. Nocturnal; preys on small fish and aquatic insects. Eaten as 'kabayaki' grilled fish.",
+      "habitat_hint": "Rivers, lakes, ponds, irrigation channels, and reservoirs.",
+      "finding_tips": "Year-round, look in bottom layers of rivers and lakes for large fish with long barbels. Nocturnal — hides under stones and in aquatic plants by day."
+    },
+    "zh": {
+      "summary": "鲶鱼。河流与湖沼中的大型淡水鱼，口周具 4 根长须。夜行性，捕食小鱼与水生昆虫。可作蒲烧等食用。",
+      "habitat_hint": "河流、湖沼、池塘、灌溉沟、水库。",
+      "finding_tips": "全年在河流与湖沼底层寻找具长须的大型鱼。夜行，白天躲于石下与水草中。"
+    }
+  },
+  "Gloydius blomhoffii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニホンマムシ。日本固有の毒蛇で、雑木林や河川敷、湿地に生息。背中に銭形（三角形〜楕円形）の暗色斑が並ぶのが識別の決め手。咬まれると非常に危険なので絶対に近づかないこと。",
+      "habitat_hint": "雑木林、河川敷、湿地、田畑の畦、神社林。",
+      "finding_tips": "4〜10月、雑木林や河川敷の地面や石の上で背中に銭形の暗色斑が並ぶ太短い蛇を探します。咬まれると激痛・腫脹・場合により死亡。発見しても近づかず、観察は遠くから。"
+    },
+    "en": {
+      "summary": "Japanese Pit Viper (Mamushi). A Japan-endemic venomous snake of secondary woodlands, riverbanks, and wetlands. Diagnostic: row of 'coin-shaped' (triangular to oval) dark blotches on the back. Bite is very dangerous — do not approach.",
+      "habitat_hint": "Secondary woodlands, riverbanks, wetlands, paddy bunds, and shrine groves.",
+      "finding_tips": "From April to October look on the ground and on stones in secondary woodlands and riverbanks for short stout snakes with coin-shaped dark blotches on the back. Bite causes severe pain, swelling, and can be fatal. Observe only from a distance."
+    },
+    "zh": {
+      "summary": "日本蝮。日本固有的毒蛇，栖于杂木林、河滩与湿地。背部具排成一列的『钱形』（三角至椭圆）暗色斑是关键识别。咬伤极危险，请勿靠近。",
+      "habitat_hint": "杂木林、河滩、湿地、田埂、神社林。",
+      "finding_tips": "四至十月在杂木林与河滩地面与石上寻找背具钱形暗斑的短粗蛇。咬伤剧痛肿胀，可致死。请远距离观察，切勿靠近。"
+    }
+  },
+  "Chalcophora japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウバタマムシ。日本最大級のタマムシで、銅色〜暗銅色の金属光沢を持ちます。マツ類の枯木で幼虫が育ち、樹液の出る樹に集まります。",
+      "habitat_hint": "マツ林、雑木林、枯マツの周辺、神社林の老マツ、河畔林。",
+      "finding_tips": "6〜9月、マツの枯木や樹液の出る樹で銅色の金属光沢のある日本最大級のタマムシを探します。タマムシより地味な色合いですが大型。"
+    },
+    "en": {
+      "summary": "Japanese Buprestid. One of Japan's largest jewel beetles, copper to dark-copper metallic. Larvae develop in dead pine wood; adults gather at sap-flowing trees.",
+      "habitat_hint": "Pine forests, secondary woodlands, around dead pines, old pines in shrine groves, and riparian woods.",
+      "finding_tips": "From June to September look on dead pine wood and sap-flowing trees for copper-metallic large jewel beetles. Drabber but larger than the more famous jewel beetle."
+    },
+    "zh": {
+      "summary": "日本大吉丁。日本最大级吉丁，铜色至暗铜色金属光泽。幼虫蛀松类枯木，成虫聚集于出树液的树。",
+      "habitat_hint": "松林、杂木林、枯松周边、神社林老松、河岸林。",
+      "finding_tips": "六至九月在枯松与出树液的树上寻找具铜色金属光泽的日本最大级吉丁。色比吉丁更暗淡但更大。"
+    }
+  },
+  "Spodoptera litura": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハスモンヨトウ。広食性の大型ヤガで、幼虫は様々な野菜や農作物を食害する害虫。成虫は灰褐色の翅に複雑な縞模様を持ちます。",
+      "habitat_hint": "畑、家庭菜園、農地、農地の縁、河川敷、住宅地の庭。",
+      "finding_tips": "5〜11月、夜間に外灯に飛来する灰褐色の中型ガを探します。幼虫は緑色〜茶褐色で、葉に大きな穴を開ける食害が見られます。"
+    },
+    "en": {
+      "summary": "Tobacco Cutworm. A large polyphagous noctuid; caterpillars are a major pest defoliating vegetables and crops. Adults have grey-brown wings with complex banded patterns.",
+      "habitat_hint": "Vegetable fields, home gardens, farmland, farmland margins, riverbanks, and residential gardens.",
+      "finding_tips": "From May to November look at night lights for grey-brown medium moths. Green-to-brown caterpillars chew large holes in leaves."
+    },
+    "zh": {
+      "summary": "斜纹夜蛾。多食性大型夜蛾，幼虫为害多种蔬菜与农作物的重要害虫。成虫翅灰褐色具复杂条纹。",
+      "habitat_hint": "菜地、家庭菜园、农田、农田边缘、河滩、住宅区庭院。",
+      "finding_tips": "五至十一月夜间在路灯下寻找灰褐色中型蛾。幼虫绿至褐色，叶上留大型蛀洞。"
+    }
+  },
+  "Agrotis segetum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カブラヤガ。畑作の重要害虫で、幼虫は土中に潜んで作物の根元を切断します（ネキリムシ）。成虫は中型のヤガで、翅は淡褐色〜灰褐色。",
+      "habitat_hint": "畑、家庭菜園、農地、河川敷、住宅地の庭。",
+      "finding_tips": "成虫は5〜10月、夜間に外灯に飛来する中型ガを探します。幼虫の被害（作物が根元から倒れている）が見られたら土の中に隠れている幼虫を探します。"
+    },
+    "en": {
+      "summary": "Turnip Moth. A major agricultural pest — caterpillars hide in soil and sever crop seedlings at the base ('cutworms'). Adults are medium noctuid moths with pale-brown to grey-brown wings.",
+      "habitat_hint": "Vegetable fields, home gardens, farmland, riverbanks, and residential gardens.",
+      "finding_tips": "Adults May-October at night lights. If crops are toppled at the base, dig in the soil for hiding cutworm larvae."
+    },
+    "zh": {
+      "summary": "黄地老虎。农作物重要害虫，幼虫躲于土中切断作物根部（『地老虎』）。成虫为中型夜蛾，翅淡褐至灰褐色。",
+      "habitat_hint": "菜地、家庭菜园、农田、河滩、住宅区庭院。",
+      "finding_tips": "成虫五至十月夜间趋光。若作物从根部被切倒，可在土中寻找躲藏的幼虫。"
+    }
+  },
+  "Teucrium viscidum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルニガクサ。湿った林床や林縁に生える多年草のシソ科。茎が匍匐性で広がり、初夏に淡桃色〜白色の唇形花を穂状に咲かせます。葉は対生の卵形。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、河畔林。",
+      "finding_tips": "6〜8月、湿った林床や林縁で匍匐性の茎と淡桃色〜白の唇形花穂を持つシソ科多年草を探します。葉や茎を揉むとほのかな苦味のある香りがあります。"
+    },
+    "en": {
+      "summary": "Sticky Germander. A perennial Lamiaceae of damp forest floors and edges. Creeping stems; spikes of pale-pink to white lipped flowers in early summer; opposite ovate leaves.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and riparian woods.",
+      "finding_tips": "From June to August look on damp forest floors and edges for Lamiaceae perennials with creeping stems and spikes of pale-pink to white lipped flowers. Crushed leaves give a slightly bitter aroma."
+    },
+    "zh": {
+      "summary": "蔓苦草（粘香科）。潮湿林床与林缘的唇形科多年草。茎匍匐扩展，初夏穗状开淡粉至白色唇形花。叶对生卵形。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、河岸林。",
+      "finding_tips": "六至八月在潮湿林床与林缘寻找具匍匐茎、淡粉至白色唇形花穗的唇形科多年草。揉碎叶具微苦香气。"
+    }
+  },
+  "Acorus gramineus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セキショウ。湿地や流水の岸辺に生える常緑の多年草のショウブ科。葉が線形で剣のように立ち、独特の爽やかな香りがあります。ショウブより小型で葉は細い。",
+      "habitat_hint": "湿地、流水の岸辺、河川敷の湿地、ため池の縁、湿った岩場。",
+      "finding_tips": "通年、湿地や流水の岸辺で線形の常緑葉が剣のように立ち、独特の香りがある多年草を探します。葉を揉むと爽やかな香りで識別できます。"
+    },
+    "en": {
+      "summary": "Japanese Sweet Flag. An evergreen perennial Acoraceae of wetlands and stream edges. Sword-like linear leaves with a distinctive fresh aroma. Smaller and with narrower leaves than common sweet flag.",
+      "habitat_hint": "Wetlands, stream edges, wet riverbanks, pond edges, and damp rocky places.",
+      "finding_tips": "Year-round, look in wetlands and stream edges for perennials with sword-like evergreen linear leaves and a distinctive aroma. Crushed leaves confirm by scent."
+    },
+    "zh": {
+      "summary": "石菖蒲。湿地与流水岸边的常绿多年生菖蒲科。叶线形如剑直立，具独特清爽香气。比菖蒲更小、叶更窄。",
+      "habitat_hint": "湿地、流水岸边、河滩湿地、池塘边、潮湿岩生地。",
+      "finding_tips": "全年在湿地与流水岸边寻找具线形常绿如剑直立叶、独特香气的多年草。揉碎叶有清爽香味可识别。"
+    }
+  },
+  "Rhynchosia acuminatifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トキリマメ。蔓性の多年草のマメ科で、林縁や藪に絡みつきます。秋に黄色い蝶形花を咲かせ、その後赤紫色の鞘が裂けて黒い種子が現れる独特の姿。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、半日陰の斜面。",
+      "finding_tips": "花期7〜9月、果期10〜11月。林縁や藪で3小葉と黄色い蝶形花、後に赤紫色の鞘から黒い種子が現れる蔓性植物を探します。"
+    },
+    "en": {
+      "summary": "Acuminate-leaf Rhynchosia. A vining perennial Fabaceae climbing in forest edges and thickets. Yellow pea-flowers in autumn; reddish-purple pods split to reveal black seeds — a distinctive autumn sight.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers July-September; fruits October-November. Look at forest edges and thickets for vines with trifoliate leaves, yellow pea-flowers, and later reddish-purple pods opening to show black seeds."
+    },
+    "zh": {
+      "summary": "尖叶鹿藿。蔓生多年生豆科，攀附林缘与灌丛。秋季开黄色蝶形花，后红紫色荚果裂开露出黑色种子是独特景观。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
+      "finding_tips": "花期七至九月，果期十至十一月。在林缘与灌丛寻找具三出叶、黄色蝶形花、后红紫色荚果裂开露出黑种子的蔓生植物。"
+    }
+  },
+  "Myriophyllum aquaticum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオフサモ。南米原産の水生〜湿生多年草で、池や湿地に帰化。羽状に細裂した青緑色の葉が水面から立ち上がり、群生して在来種を圧迫します。特定外来生物に指定。",
+      "habitat_hint": "ため池、湿地、用水路、緩流の小川、河川敷の湿地。",
+      "finding_tips": "通年、ため池や湿地で羽状に細裂した青緑色の葉が水面から立ち上がる水生植物を探します。発見しても駆除目的以外で動かさないこと。"
+    },
+    "en": {
+      "summary": "Parrot's Feather. A South American aquatic to semiaquatic perennial naturalised in ponds and wetlands. Blue-green pinnately divided leaves rise from the water surface; outcompetes native species. Designated 'Invasive Alien Species' in Japan.",
+      "habitat_hint": "Ponds, wetlands, irrigation channels, slow streams, and wet riverbanks.",
+      "finding_tips": "Year-round, look in ponds and wetlands for aquatic plants with blue-green pinnately divided leaves rising above the water. Do not move except for removal."
+    },
+    "zh": {
+      "summary": "粉绿狐尾藻。原产南美的水生至半水生多年草，归化于池塘与湿地。叶羽状细裂、青绿色，从水面伸出，挤压本土种。日本列为『特定外来生物』。",
+      "habitat_hint": "池塘、湿地、灌溉沟、缓流小溪、河滩湿地。",
+      "finding_tips": "全年在池塘与湿地寻找叶羽状细裂、青绿色伸出水面的水生植物。除清除外切勿移动。"
+    }
   }
 }
