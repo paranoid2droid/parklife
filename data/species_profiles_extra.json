@@ -21060,5 +21060,185 @@
       "habitat_hint": "菜地、石墙、路面缝、河滩、农田边缘、空地。",
       "finding_tips": "五至六月在菜地与石墙寻找具肉质小叶、叶腋具珠芽、初夏开黄色星形小花的匍匐多年草。"
     }
+  },
+  "Alcimocoris japonersis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウシカメムシ。中型のカメムシで、胸部の両側が牛の角のように突き出ているのが和名「牛」の由来。淡褐色〜灰色の体色。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、河畔林、住宅地の庭。",
+      "finding_tips": "5〜10月、雑木林の林縁や葉上で胸部両側が牛の角のように突き出た淡褐色〜灰色の中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Cow Stink Bug. A medium stink bug with pronotum projections on each side resembling cow horns — the source of the Japanese name 'cow'. Pale-brown to grey body.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, riparian woods, and residential gardens.",
+      "finding_tips": "From May to October look at forest edges and on foliage for medium pale-brown to grey stink bugs with cow-horn-like pronotum projections."
+    },
+    "zh": {
+      "summary": "牛角椿（日本牛盾蝽）。中型椿象，前胸两侧突出如牛角是日文俗名『牛』由来。体淡褐至灰色。",
+      "habitat_hint": "杂木林、林缘、农田、果园、河岸林、住宅区庭院。",
+      "finding_tips": "五至十月在杂木林林缘与叶上寻找前胸两侧具牛角状突起的淡褐至灰色中型椿象。"
+    }
+  },
+  "Ficaria verna": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キクザキリュウキンカ。欧州原産の早春に咲く小型多年草のキンポウゲ科。光沢のある黄色い花が菊のように放射状に開きます。観賞用に栽培され帰化することも。",
+      "habitat_hint": "庭園、公園植栽、林縁、湿った草地、河川敷の半日陰。",
+      "finding_tips": "3〜5月、庭園や林縁で光沢のある黄色い菊状の花と心形〜腎形の光沢のある葉を持つ小型多年草を探します。"
+    },
+    "en": {
+      "summary": "Lesser Celandine. A small European-origin Ranunculaceae perennial flowering in early spring. Glossy yellow chrysanthemum-like flowers opening radially. Cultivated as an ornamental and sometimes naturalised.",
+      "habitat_hint": "Gardens, park plantings, forest edges, damp grasslands, and partly shaded riverbanks.",
+      "finding_tips": "From March to May look in gardens and forest edges for small perennials with glossy yellow chrysanthemum-like flowers and glossy heart-to-kidney-shaped leaves."
+    },
+    "zh": {
+      "summary": "菊状毛茛（小毛茛）。原产欧洲早春开花的小型多年生毛茛科。具光泽黄色菊状花放射状开放。作观赏栽培也归化。",
+      "habitat_hint": "庭园、公园栽植、林缘、潮湿草地、河滩半阴处。",
+      "finding_tips": "三至五月在庭园与林缘寻找具光泽黄色菊状花、心至肾形光泽叶的小型多年草。"
+    }
+  },
+  "Zingiber mioga": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミョウガ。日本固有のショウガ科の多年草で、独特の香りと辛味を持つ食用ハーブ。「茗荷」として薬味（そうめんや味噌汁の薬味）に欠かせません。地下茎で広がります。",
+      "habitat_hint": "湿った林床、半日陰の畑、家庭菜園、神社林、河畔林。",
+      "finding_tips": "通年（夏〜秋の花茎が食用）、湿った林床や半日陰の畑で線形〜披針形の大きな葉と独特の香りを持つショウガ科多年草を探します。花茎は地面から直接出て、淡黄色〜淡桃色の花が咲きます。"
+    },
+    "en": {
+      "summary": "Japanese Ginger (Myoga). A Japan-endemic Zingiberaceae perennial with a distinctive aroma and pungency — essential as a condiment for somen noodles and miso soup. Spreads by rhizomes.",
+      "habitat_hint": "Damp forest floors, partly shaded fields, home gardens, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round (summer-autumn flower stalks are eaten), look on damp forest floors and partly shaded fields for Zingiberaceae perennials with linear-lanceolate large leaves and a distinctive aroma. Flower stalks emerge directly from the ground with pale-yellow to pale-pink flowers."
+    },
+    "zh": {
+      "summary": "蘘荷（茗荷）。日本固有姜科多年草，具独特香气与辛辣味的食用香草。作素面与味增汤的香辛料不可或缺。靠地下茎扩散。",
+      "habitat_hint": "潮湿林床、半阴菜地、家庭菜园、神社林、河岸林。",
+      "finding_tips": "全年（夏秋花茎食用）在潮湿林床与半阴菜地寻找具线至披针形大叶、独特香气的姜科多年草。花茎从地面直接抽出，开淡黄至淡粉花。"
+    }
+  },
+  "Atractylodes lancea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホソバオケラ。明るい林縁や草地に生える多年草のキク科で、根茎（蒼朮：そうじゅつ）が漢方薬の重要な生薬です。秋に白〜淡桃色の頭花を咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、薬草園。",
+      "finding_tips": "9〜10月、明るい林縁や草地で硬く厚みのある葉と白〜淡桃色の頭花を持つ多年草を探します。葉縁に鋭い刺があるのが特徴。"
+    },
+    "en": {
+      "summary": "Atractylodes (Souzhu). A perennial Asteraceae of bright forest edges and grasslands. The rhizome ('souzhu') is an important Kampo medicinal. White to pale-pink flower heads in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and medicinal gardens.",
+      "finding_tips": "From September to October look at bright forest edges and grasslands for perennials with stiff thick leaves and white to pale-pink flower heads. Sharp spines on the leaf margins are diagnostic."
+    },
+    "zh": {
+      "summary": "苍术。明亮林缘与草地的菊科多年草，根茎『苍术』为中药重要药材。秋季开白至淡粉色头状花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、药用植物园。",
+      "finding_tips": "九至十月在明亮林缘与草地寻找具坚硬厚叶、白至淡粉头状花的多年草。叶缘锐刺是特征。"
+    }
+  },
+  "Stellaria alsine": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノミノコブスマ。湿った道端や水田畦、湿地に生える小型一年〜多年草のナデシコ科。葉は対生で小さく、白い小さな5弁花（深く2裂して10弁に見える）を咲かせます。",
+      "habitat_hint": "湿った道端、水田畦、湿地、河川敷の湿地、農地の縁。",
+      "finding_tips": "4〜7月、湿った道端や水田畦で小さな対生の葉と白い小さな花を持つ小型草本を探します。"
+    },
+    "en": {
+      "summary": "Bog Chickweed. A small annual to perennial Caryophyllaceae of damp roadsides, paddy bunds, and wetlands. Small opposite leaves; small white 5-petalled flowers (each petal deeply 2-lobed, appearing as 10).",
+      "habitat_hint": "Damp roadsides, paddy bunds, wetlands, wet riverbanks, and farmland margins.",
+      "finding_tips": "From April to July look on damp roadsides and paddy bunds for small herbs with small opposite leaves and small white flowers."
+    },
+    "zh": {
+      "summary": "雀舌草。潮湿路边、水田田埂与湿地的小型一至多年生石竹科。叶对生小型，开白色五瓣小花（每瓣深 2 裂似 10 瓣）。",
+      "habitat_hint": "潮湿路边、水田田埂、湿地、河滩湿地、农田边缘。",
+      "finding_tips": "四至七月在潮湿路边与水田田埂寻找具对生小叶、白色小花的小型草本。"
+    }
+  },
+  "Cyperus orthostachyus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウシクグ。河川敷や湿地、農地に生える多年生のカヤツリグサ科。背丈は中〜大型で、茶褐色の小穂が直立した穂状花序を形成します。",
+      "habitat_hint": "河川敷、湿地、農地、休耕田、ため池の縁、用水路の縁。",
+      "finding_tips": "8〜10月、河川敷や湿地で茶褐色の直立する穂状花序を持つ中〜大型の多年生カヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Erect Flatsedge. A medium-to-large perennial sedge of riverbanks, wetlands, and farmland. Brown spikelets in upright spike-like inflorescences.",
+      "habitat_hint": "Riverbanks, wetlands, farmland, fallow paddies, pond edges, and irrigation channel edges.",
+      "finding_tips": "From August to October look in riverbanks and wetlands for medium-to-large perennial sedges with brown upright spike-like inflorescences."
+    },
+    "zh": {
+      "summary": "直穗莎草。河滩、湿地与农田的多年生莎草。中至大型，茶褐色小穗形成直立穗状花序。",
+      "habitat_hint": "河滩、湿地、农田、休耕田、池塘边、灌溉沟边。",
+      "finding_tips": "八至十月在河滩与湿地寻找具茶褐色直立穗状花序的中至大型多年生莎草。"
+    }
+  },
+  "Zanthoxylum ailanthoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラスザンショウ。日本固有の落葉小高木で、伐採地や荒地に最初に生える先駆樹種。葉は大型の羽状複葉で独特の香りがあり、幹に鋭い棘があります。",
+      "habitat_hint": "伐採地、林縁、河川敷、二次林、農地の縁、放棄地。",
+      "finding_tips": "通年、伐採地や林縁で大型の羽状複葉と幹の鋭い棘を持つ落葉小高木を探します。葉を揉むとサンショウ様の独特の香りがあります。"
+    },
+    "en": {
+      "summary": "Crow Pepper Tree. A Japan-endemic deciduous small tree, a pioneer species on cleared and disturbed ground. Large pinnate leaves with a distinctive aroma; sharp spines on the trunk.",
+      "habitat_hint": "Cleared land, forest edges, riverbanks, secondary woods, farmland margins, and abandoned land.",
+      "finding_tips": "Year-round, look on cleared land and forest edges for small deciduous trees with large pinnate leaves and sharp trunk spines. Crushed leaves give a distinctive Sansho-pepper aroma."
+    },
+    "zh": {
+      "summary": "椿叶花椒（食茱萸）。日本固有落叶小乔木，皆伐地与荒地的先锋树种。叶大型羽状复叶具独特香气，茎干具锐刺。",
+      "habitat_hint": "皆伐地、林缘、河滩、次生林、农田边缘、撂荒地。",
+      "finding_tips": "全年在皆伐地与林缘寻找具大型羽状复叶、茎干具锐刺的落叶小乔木。揉碎叶有花椒样独特香气。"
+    }
+  },
+  "Papilio memnon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガサキアゲハ。日本最大級のアゲハチョウで、本来は南方系。雌は後翅に白い斑紋があり、雄は黒一色。近年温暖化で関東以南に分布拡大。柑橘類を食草とします。",
+      "habitat_hint": "雑木林、公園、住宅地の庭、柑橘園、林縁。",
+      "finding_tips": "5〜10月、雑木林や公園で大型の黒いアゲハチョウを探します。雌の後翅の白い斑紋が決め手。雄は黒一色で他のアゲハと区別が難しい。"
+    },
+    "en": {
+      "summary": "Great Mormon. One of Japan's largest swallowtails, originally a southern species. Females have white markings on the hindwings; males are all black. Range expanding northward into central Honshu with warming. Caterpillars feed on citrus.",
+      "habitat_hint": "Secondary woodlands, parks, residential gardens, citrus orchards, and forest edges.",
+      "finding_tips": "From May to October look in secondary woodlands and parks for large black swallowtails. White hindwing markings of females are diagnostic. All-black males are hard to distinguish from other swallowtails."
+    },
+    "zh": {
+      "summary": "美凤蝶（长崎凤蝶）。日本最大级凤蝶之一，原为南方种。雌性后翅具白色斑纹，雄性全黑。近年因变暖向关东以南扩散。幼虫取食柑橘类。",
+      "habitat_hint": "杂木林、公园、住宅区庭院、柑橘园、林缘。",
+      "finding_tips": "五至十月在杂木林与公园寻找大型黑色凤蝶。雌性后翅白色斑纹是关键识别。雄性全黑难与其他凤蝶区分。"
+    }
+  },
+  "Solanum pseudocapsicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマサンゴ（フユサンゴ）。南米原産の常緑低木のナス科で、観賞用に栽培されます。冬に橙赤色の球形果実が長く残るのが特徴。果実は有毒なので食べてはいけません。",
+      "habitat_hint": "庭園、公園植栽、住宅地の鉢植え、植物園、寺社境内。",
+      "finding_tips": "果期10〜2月、庭園や公園で橙赤色の球形果実を長くつける常緑低木を探します。果実は有毒のため絶対に食用にしないこと。"
+    },
+    "en": {
+      "summary": "Jerusalem Cherry. A South American evergreen Solanaceae shrub grown as an ornamental. Distinctive orange-red globose fruits persisting through winter. Fruits are poisonous — do not eat.",
+      "habitat_hint": "Gardens, park plantings, residential potted plants, botanical gardens, and temple/shrine grounds.",
+      "finding_tips": "Fruits October to February. Look in gardens and parks for evergreen shrubs bearing persistent orange-red globose fruits. Fruits poisonous — never eat."
+    },
+    "zh": {
+      "summary": "珊瑚樱（冬珊瑚）。原产南美的常绿茄科灌木，作观赏栽培。冬季橙红色球形果实长留为特征。果有毒，切勿食用。",
+      "habitat_hint": "庭园、公园栽植、住宅区盆栽、植物园、寺社境内。",
+      "finding_tips": "果期十至二月在庭园与公园寻找具橙红色球形果久留的常绿灌木。果有毒，切勿食用。"
+    }
+  },
+  "Porcellio scaber": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワラジムシ。陸生の甲殻類（等脚目）で、世界中に分布。湿った石下や落ち葉の中、住宅地の鉢植えの下などに普通。分解者として重要。ダンゴムシより細長く、丸まらないのが識別の決め手。",
+      "habitat_hint": "湿った石下、落ち葉、鉢植えの下、住宅地の物置、雑木林の林床。",
+      "finding_tips": "通年（暖かい季節に活動的）、湿った石下や落ち葉の中で灰褐色の細長い甲殻類を探します。ダンゴムシと違い丸まらないのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Common Rough Woodlouse. A terrestrial crustacean (Isopoda) with worldwide distribution. Common under damp stones, in leaf litter, and beneath potted plants. An important decomposer. Distinguished from pill bugs by elongated body that does not roll into a ball.",
+      "habitat_hint": "Under damp stones, in leaf litter, beneath potted plants, residential storage areas, and secondary woodland floors.",
+      "finding_tips": "Year-round (most active in warm seasons), look under damp stones and in leaf litter for greyish-brown elongated crustaceans. Unlike pill bugs, does not roll into a ball — diagnostic."
+    },
+    "zh": {
+      "summary": "粗糙鼠妇。陆生甲壳类（等足目），世界广布。常见于潮湿石下、枯叶层、住宅区花盆下。是重要分解者。比团子虫（球形鼠妇）细长，不卷球可区分。",
+      "habitat_hint": "潮湿石下、枯叶层、花盆下、住宅区储物间、杂木林林床。",
+      "finding_tips": "全年（暖季活跃）在潮湿石下与枯叶层寻找灰褐色细长甲壳类。与卷球鼠妇不同，不卷球是关键识别。"
+    }
   }
 }
