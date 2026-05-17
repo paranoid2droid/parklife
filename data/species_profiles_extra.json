@@ -21960,5 +21960,185 @@
       "habitat_hint": "潮湿林缘、河滩、堤岸、半阴路边、潮湿草地。",
       "finding_tips": "八至十月在潮湿林缘与河滩寻找具纤细线形叶、带淡紫色细圆锥花序的多年生禾本科。"
     }
+  },
+  "Hydrocotyle sibthorpioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チドメグサ。芝地や湿った道端、水田畦に這うように広がる小型多年草のセリ科。葉は円形で、長い葉柄を持ち、独特の香りがあります。古来、止血薬として使われたことが和名「血止」の由来。",
+      "habitat_hint": "芝地、水田畦、湿った道端、林縁、河川敷の草地。",
+      "finding_tips": "5〜10月、芝地や水田畦で長い葉柄に小さな円形の葉を持つ匍匐性多年草を探します。"
+    },
+    "en": {
+      "summary": "Lawn Marshpennywort. A small creeping perennial Apiaceae of lawns, damp roadsides, and paddy bunds. Round leaves with long petioles and a distinctive aroma. Used historically to stop bleeding — the source of the Japanese name 'blood-stopper'.",
+      "habitat_hint": "Lawns, paddy bunds, damp roadsides, forest edges, and riverside grasslands.",
+      "finding_tips": "From May to October look on lawns and paddy bunds for creeping perennials with small round leaves on long petioles."
+    },
+    "zh": {
+      "summary": "天胡荽。草坪、潮湿路边与水田田埂匍匐生长的小型伞形科多年草。叶圆形具长叶柄与独特香气。自古作止血药，是日文俗名『血止』由来。",
+      "habitat_hint": "草坪、水田田埂、潮湿路边、林缘、河滩草地。",
+      "finding_tips": "五至十月在草坪与田埂寻找具长叶柄、圆形小叶的匍匐多年草。"
+    }
+  },
+  "Atocion armeria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムシトリナデシコ。欧州原産の一年〜二年草のナデシコ科で、観賞用に導入され帰化。茎の上部の節間に粘液が出て小さな虫が付着することが和名の由来（食虫植物ではありません）。鮮やかな紅紫色の花が美しい。",
+      "habitat_hint": "庭園、空き地、道端、河川敷、農地の縁、芝地の縁。",
+      "finding_tips": "5〜7月、庭園や空き地で鮮やかな紅紫色の小さな5弁花と、茎の節間にネバネバする部分を持つ一年〜二年草を探します。"
+    },
+    "en": {
+      "summary": "Sweet William Catchfly. A European-origin annual to biennial Caryophyllaceae introduced as an ornamental and naturalised. Sticky internodes on the upper stem catch small insects (not a carnivorous plant) — the source of the Japanese name 'insect-catcher pink'. Beautiful bright rose-purple flowers.",
+      "habitat_hint": "Gardens, vacant lots, roadsides, riverbanks, farmland margins, and lawn margins.",
+      "finding_tips": "From May to July look in gardens and vacant lots for annuals to biennials with bright rose-purple 5-petalled small flowers and sticky upper-stem internodes."
+    },
+    "zh": {
+      "summary": "高雪轮（捕虫瞿麦）。原产欧洲的一至二年生石竹科，作观赏引入后归化。茎上部节间分泌粘液粘附小虫（非食虫植物），是日文俗名由来。鲜艳紫红色花美丽。",
+      "habitat_hint": "庭园、空地、路边、河滩、农田边缘、草坪边。",
+      "finding_tips": "五至七月在庭园与空地寻找具鲜艳紫红色五瓣小花、茎上部节间具粘液的一至二年草。"
+    }
+  },
+  "Alnus hirsuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケヤマハンノキ。落葉高木のカバノキ科で、河川敷や湿地、山地の谷沿いに生えます。窒素固定能力があり、痩せ地の緑化に利用。葉は卵形で大型、雄花序は冬から春に下垂します。",
+      "habitat_hint": "河川敷、湿地、山地の谷地、二次林、土手。",
+      "finding_tips": "花期3〜4月、果期通年。河川敷や湿地で大きな卵形の葉と、春に下垂する黄色〜紫色の雄花序を持つ落葉高木を探します。"
+    },
+    "en": {
+      "summary": "Manchurian Alder. A deciduous tree (Betulaceae) of riverbanks, wetlands, and montane valleys. Nitrogen-fixing; used for revegetating poor soils. Large ovate leaves; pendulous yellow-to-purple male catkins in spring.",
+      "habitat_hint": "Riverbanks, wetlands, montane valleys, secondary woods, and banks.",
+      "finding_tips": "Flowers March-April; fruits year-round. Look on riverbanks and wetlands for deciduous trees with large ovate leaves and pendulous yellow-to-purple male catkins in spring."
+    },
+    "zh": {
+      "summary": "毛赤杨。落叶乔木的桦木科，生于河滩、湿地与山地谷地。具固氮能力，用于贫瘠地绿化。叶大型卵形，雄花序冬至春下垂。",
+      "habitat_hint": "河滩、湿地、山地谷地、次生林、堤岸。",
+      "finding_tips": "花期三至四月，果期全年。在河滩与湿地寻找具大型卵形叶、春季下垂黄至紫色雄花序的落叶乔木。"
+    }
+  },
+  "Sasa veitchii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマザサ。日本固有の中型のササで、葉の縁が冬に白く枯れて目立つのが特徴。庭園や公園に植栽されるほか、北海道〜本州の山地に群生します。",
+      "habitat_hint": "庭園、公園植栽、山地の林床、神社林、住宅地の生垣。",
+      "finding_tips": "通年、特に冬〜春に葉の縁が白く枯れて目立つ中型のササを探します。葉は長楕円形で大型、群生します。"
+    },
+    "en": {
+      "summary": "Kuma Bamboo Grass. A Japan-endemic medium bamboo with leaf margins that wither white in winter — its diagnostic feature. Planted in gardens and parks; also forms colonies on Honshu and Hokkaido mountains.",
+      "habitat_hint": "Gardens, park plantings, montane forest floors, shrine groves, and residential hedges.",
+      "finding_tips": "Year-round, especially winter to spring, look for medium bamboos with leaf margins withered white. Large oblong leaves; forms colonies."
+    },
+    "zh": {
+      "summary": "熊笹。日本固有的中型箬竹，叶缘冬季枯白显眼为特征。常作庭园与公园栽植，也在北海道至本州山地成片生长。",
+      "habitat_hint": "庭园、公园栽植、山地林床、神社林、住宅区绿篱。",
+      "finding_tips": "全年（尤冬至春）寻找叶缘枯白显眼的中型箬竹。叶大型长椭圆形，成片生长。"
+    }
+  },
+  "Polygonatum lasianthum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミヤマナルコユリ。山地の林床に生える多年草のキジカクシ科で、ナルコユリの近縁種。葉腋から下垂する筒状の白い花を1〜2個ずつ咲かせます。",
+      "habitat_hint": "山地の雑木林の林床、谷地林、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "5〜6月、山地の林床で葉腋から下垂する白い筒状の花を1〜2個ずつつける多年草を探します。茎は弓状に湾曲することが多い。"
+    },
+    "en": {
+      "summary": "Hairy-flowered Solomon's Seal. A perennial Asparagaceae of montane forest floors, related to common Solomon's Seal. 1-2 pendulous white tubular flowers per leaf axil.",
+      "habitat_hint": "Montane secondary woodland floors, valley woods, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From May to June look on montane forest floors for perennials with 1-2 pendulous white tubular flowers per leaf axil. Stems often arching."
+    },
+    "zh": {
+      "summary": "毛被黄精。山地林床的天门冬科多年草，是黄精的近缘种。叶腋下垂筒形白花 1-2 朵。",
+      "habitat_hint": "山地杂木林林床、谷地林、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "五至六月在山地林床寻找叶腋下垂 1-2 朵白色筒形花的多年草。茎常呈弓状弯曲。"
+    }
+  },
+  "Cenchrus americanus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウジンビエ（パールミレット）。アフリカ原産の大型一年生イネ科で、穀物（雑穀）として栽培されます。日本では飼料用や逸出で見られます。穂は太く長い円柱形で目立ちます。",
+      "habitat_hint": "農地（飼料用）、河川敷、空き地、農地の縁。",
+      "finding_tips": "8〜10月、農地や空き地で太く長い円柱形の穂を持つ大型一年生イネ科を探します。背丈は1〜2mに達することも。"
+    },
+    "en": {
+      "summary": "Pearl Millet. A large African-origin annual grass cultivated as a cereal. In Japan it occurs as forage crop and escapes. Thick long cylindrical spike-like inflorescence is conspicuous.",
+      "habitat_hint": "Farmland (forage), riverbanks, vacant lots, and farmland margins.",
+      "finding_tips": "From August to October look on farmland and vacant lots for large annual grasses with thick long cylindrical spike-like inflorescences. Plants can reach 1-2 m tall."
+    },
+    "zh": {
+      "summary": "美洲狼尾草（珍珠粟）。原产非洲的大型一年生禾本科，作谷物栽培。日本作饲料或逸出可见。穗粗大长圆柱形显眼。",
+      "habitat_hint": "农田（饲料）、河滩、空地、农田边缘。",
+      "finding_tips": "八至十月在农田与空地寻找具粗大长圆柱形穗的大型一年生禾本科。高可达 1-2 米。"
+    }
+  },
+  "Ceratiomyxa fruticulosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツノホコリ。粘菌の一種で、白い「角（つの）」のような細い突起が集まって発生します。倒木や朽木に発生し、独特の幾何学的な形が美しい。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木、湿った地面。",
+      "finding_tips": "梅雨〜秋、倒木や朽木に白い角状の突起が集まって発生する粘菌を探します。動物でも植物でも菌類でもない粘菌として観察してみてください。"
+    },
+    "en": {
+      "summary": "Coral Slime Mold. A slime mold that develops as clusters of white 'horn-like' projections. Found on fallen logs and rotting wood; the distinctive geometric shape is beautiful.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, riparian woods, and damp ground.",
+      "finding_tips": "From rainy season to autumn, look on fallen logs and rotting wood for slime molds forming clusters of white horn-like projections. Worth observing as a slime mold — neither animal, plant, nor fungus."
+    },
+    "zh": {
+      "summary": "团扇粘菌（珊瑚粘菌）。粘菌一种，白色『角状』细突起群发。生于倒木与朽木，独特几何形态美丽。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木、潮湿地面。",
+      "finding_tips": "梅雨至秋在倒木与朽木上寻找成丛白色角状突起的粘菌。值得作为粘菌观察——既非动物、植物，也非真菌。"
+    }
+  },
+  "Deparia petersenii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シケシダ。湿った林床や林縁に生える中型の落葉シダ。葉は単羽状で繊細、葉柄基部に淡褐色の鱗片があります。落葉性で冬は地上部が枯れます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、河畔林。",
+      "finding_tips": "5〜10月（落葉性）、湿った林床や林縁で単羽状の繊細な葉を持つ中型シダを探します。葉柄基部の淡褐色鱗片が手がかり。"
+    },
+    "en": {
+      "summary": "Petersen's Lady Fern. A medium deciduous fern of damp forest floors and edges. Simply pinnate delicate fronds; pale-brown scales at the stipe base. Dies back in winter.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and riparian woods.",
+      "finding_tips": "From May to October (deciduous), look on damp forest floors and edges for medium ferns with simply pinnate delicate fronds. Pale-brown stipe-base scales help confirm."
+    },
+    "zh": {
+      "summary": "彼氏假冷蕨。潮湿林床与林缘的中型落叶蕨。叶一回羽状纤细，叶柄基部具淡褐色鳞片。落叶，冬季枯死。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、河岸林。",
+      "finding_tips": "五至十月（落叶）在潮湿林床与林缘寻找叶一回羽状纤细的中型蕨。叶柄基部淡褐色鳞片可助识别。"
+    }
+  },
+  "Coniogramme intermedia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウラゲイワガネ。湿った林床や沢沿いに生える中型〜大型の常緑シダ。葉は2回羽状複生で硬く光沢があり、葉裏に細毛がある（ウラゲ＝裏毛）。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床や沢沿いで2回羽状複生の硬く光沢のある葉と葉裏の細毛を持つ常緑シダを探します。"
+    },
+    "en": {
+      "summary": "Intermediate Bamboo Fern. A medium to large evergreen fern of damp forest floors and streamsides. Twice pinnately compound fronds with stiff glossy texture; fine hairs on the underside — the source of the Japanese name 'underside-hair'.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors and streamsides for evergreen ferns with twice pinnately compound stiff glossy fronds and fine hairs on the underside."
+    },
+    "zh": {
+      "summary": "中间凤了蕨。潮湿林床与溪边的中至大型常绿蕨。叶 2 回羽状复叶、硬具光泽，叶背具细毛（『裏毛』）。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床与溪边寻找具 2 回羽状复叶、硬而光泽、叶背具细毛的常绿蕨。"
+    }
+  },
+  "Ailanthus altissima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニワウルシ（シンジュ）。中国原産の落葉高木で、空き地や河川敷、街路に帰化しています。葉は大型の羽状複葉で独特の臭気があります。成長が早く、侵略的外来種として問題視されています。",
+      "habitat_hint": "空き地、河川敷、街路、農地の縁、造成地、住宅地の野生化。",
+      "finding_tips": "通年、空き地や街路で大型の羽状複葉（葉を揉むと独特の臭気）を持つ大型落葉樹を探します。果実は翼果で風で散布されます。"
+    },
+    "en": {
+      "summary": "Tree of Heaven. A Chinese-origin deciduous tree naturalised on vacant lots, riverbanks, and streets. Large pinnate leaves with a distinctive odour. Fast-growing; regarded as an invasive species.",
+      "habitat_hint": "Vacant lots, riverbanks, streets, farmland margins, construction sites, and residential naturalised areas.",
+      "finding_tips": "Year-round, look on vacant lots and streets for large deciduous trees with large pinnate leaves (distinctive odour when crushed). Winged samara fruits wind-dispersed."
+    },
+    "zh": {
+      "summary": "臭椿。原产中国的落叶乔木，归化于空地、河滩与街道。叶大型羽状复叶具独特气味。生长快，被视为入侵种。",
+      "habitat_hint": "空地、河滩、街道、农田边缘、工地、住宅区野化。",
+      "finding_tips": "全年在空地与街道寻找具大型羽状复叶（揉碎有独特气味）的大型落叶树。果实为翅果风传。"
+    }
   }
 }
