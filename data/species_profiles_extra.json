@@ -19242,5 +19242,185 @@
       "habitat_hint": "杂木林、林缘、农田、河滩、住宅区庭院。",
       "finding_tips": "五至十月在地面寻找进出洞穴的小型黑黄条纹胡蜂。请勿靠近地下蜂巢。是长野县乡土料理『ヘボめし』的原料。"
     }
+  },
+  "Telorta divergens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノコメトガリキリガ。秋に発生する中型のヤガで、翅は淡褐色〜灰褐色で複雑な縞模様を持ちます。樹幹や葉裏で休みます。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "10〜11月、樹幹や葉裏で秋に発生する淡褐色〜灰褐色の中型ガを探します。鋸状の前縁模様（ノコメ）が和名の由来。"
+    },
+    "en": {
+      "summary": "Saw-edged Sharp-tip Moth. An autumn-emerging medium noctuid moth with pale-brown to grey-brown wings bearing complex banded patterns. Rests on tree trunks and leaf undersides.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From October to November look on tree trunks and leaf undersides for medium pale-brown to grey-brown moths. The saw-toothed forewing margin is the source of the Japanese name 'saw-edge'."
+    },
+    "zh": {
+      "summary": "锯齿尖头夜蛾。秋季发生的中型夜蛾，翅淡褐至灰褐色具复杂条纹。停于树干与叶背。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "十至十一月在树干与叶背寻找秋季发生的淡褐至灰褐色中型蛾。前翅缘具锯齿状是日文俗名『锯齿』由来。"
+    }
+  },
+  "Clogmia albipunctata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオケチョウバエ。住宅の浴室・台所などの排水周辺で見られる小型のチョウバエ。「ハート形」のような翅を立てて止まり、毛深い体が特徴。",
+      "habitat_hint": "住宅の浴室、台所、洗面所、下水周辺、湿った場所。",
+      "finding_tips": "通年、住宅の浴室や下水周辺で「ハート形」の翅を立てて止まる小さな黒褐色の毛深い虫を探します。幼虫は排水のヌメリ（バイオフィルム）で育ちます。"
+    },
+    "en": {
+      "summary": "Common Drain Fly / Moth Fly. A small drain fly seen around residential bathroom and kitchen drains. Holds heart-shaped fuzzy wings raised at rest; hairy body.",
+      "habitat_hint": "Residential bathrooms, kitchens, washrooms, around drains, and damp places.",
+      "finding_tips": "Year-round, look around drains in bathrooms and kitchens for small fuzzy black-brown flies holding heart-shaped wings raised. Larvae develop in drain biofilm."
+    },
+    "zh": {
+      "summary": "白纹大蛾蚋。住宅浴室与厨房等下水周边的小型蛾蚋。停时翅竖立呈心形，体被密毛。",
+      "habitat_hint": "住宅浴室、厨房、洗面所、下水周边、潮湿处。",
+      "finding_tips": "全年在浴室与下水周边寻找翅竖立呈心形、体被密毛的小型黑褐色虫。幼虫在下水生物膜中发育。"
+    }
+  },
+  "Listroderes costirostris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤサイゾウムシ。南米原産の中型ゾウムシで、野菜（特にアブラナ科）の葉を食害する害虫。淡灰褐色で背中に白い縞模様。",
+      "habitat_hint": "畑、家庭菜園、農地、空き地、河川敷。",
+      "finding_tips": "通年（特に春・秋）、畑や菜園でキャベツやダイコンの葉が食害されているのを見たらこの虫を疑います。淡灰褐色で背中に白い縞模様。"
+    },
+    "en": {
+      "summary": "Vegetable Weevil. A South American medium weevil — a pest defoliating vegetable crops (especially Brassicaceae). Pale grey-brown with white stripes on the back.",
+      "habitat_hint": "Vegetable fields, home gardens, farmland, vacant lots, and riverbanks.",
+      "finding_tips": "Year-round (especially spring and autumn), if cabbage or daikon leaves show damage in fields or gardens, suspect this weevil. Pale grey-brown with white stripes on the back."
+    },
+    "zh": {
+      "summary": "蔬菜象。原产南美的中型象甲，为害蔬菜叶片（尤十字花科）的害虫。淡灰褐色，背部具白色条纹。",
+      "habitat_hint": "菜地、家庭菜园、农田、空地、河滩。",
+      "finding_tips": "全年（尤春秋）若菜地的甘蓝、白萝卜叶被蛀食可怀疑此虫。淡灰褐色，背部具白色条纹。"
+    }
+  },
+  "Velarifictorus micado": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツヅレサセコオロギ。中型のコオロギで、秋に「リッ、リッ、リッ」と独特の音色で鳴きます。和名は「つづれ刺せ（衣を繕え）」と聞こえることから。",
+      "habitat_hint": "草地、林縁、農地、住宅地の庭、河川敷の草地。",
+      "finding_tips": "8〜11月、特に夜に草地や住宅地で「リッ、リッ、リッ」と鳴く中型コオロギを探します。鳴き声から「秋の繕い物の合図」と古来言われました。"
+    },
+    "en": {
+      "summary": "Mikado Cricket. A medium cricket singing 'ri, ri, ri' with a distinctive tone in autumn. The Japanese name is onomatopoetic — the call sounds like 'mend your clothes' (tsudzure-sase).",
+      "habitat_hint": "Grasslands, forest edges, farmland, residential gardens, and riverside grasslands.",
+      "finding_tips": "From August to November, especially at night, listen in grasslands and residential areas for medium crickets singing 'ri, ri, ri'. Traditionally said to signal autumn mending time."
+    },
+    "zh": {
+      "summary": "迷卡斗蟋。中型蟋蟀，秋季以『ri, ri, ri』独特音调鸣叫。日文俗名取自鸣声似『缝补衣物』。",
+      "habitat_hint": "草地、林缘、农田、住宅区庭院、河滩草地。",
+      "finding_tips": "八至十一月，特别夜间在草地与住宅区聆听『ri, ri, ri』鸣声的中型蟋蟀。古来视为秋季缝补时节信号。"
+    }
+  },
+  "Sympetrum risi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リスアカネ。アカネ属の中型アカトンボで、翅の先に黒褐色の斑があります。林縁や水辺の半日陰を好み、ノシメトンボに似ますがやや小型。",
+      "habitat_hint": "雑木林の林縁、水田、ため池、湿地、半日陰の水辺。",
+      "finding_tips": "7〜11月、林縁や水辺で翅の先に黒褐色の斑があるアカトンボを探します。ノシメトンボより一回り小型で、よりよく止まる場所が暗め。"
+    },
+    "en": {
+      "summary": "Ris's Darter. A medium Sympetrum darter with brown patches at wingtips. Prefers shaded woodland edges and watersides; smaller than Brown-tipped Darter (Sympetrum infuscatum).",
+      "habitat_hint": "Secondary woodland edges, rice paddies, ponds, wetlands, and shaded watersides.",
+      "finding_tips": "From July to November look at forest edges and watersides for red darters with brown wingtip patches. Smaller than Brown-tipped Darter and perches in shadier places."
+    },
+    "zh": {
+      "summary": "里氏赤蜻。中型赤蜻属，翅尖具黑褐色斑。喜林缘与水边半阴环境，比条斑赤蜻略小。",
+      "habitat_hint": "杂木林林缘、水田、池塘、湿地、半阴水边。",
+      "finding_tips": "七至十一月在林缘与水边寻找翅尖具黑褐色斑的赤蜻。比条斑赤蜻略小，常停于更阴暗处。"
+    }
+  },
+  "Rana japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニホンアカガエル。日本固有種で、明るい雑木林の林床や谷地田に生息する中型のアカガエル。茶褐色の体色と、頭部の三角形の暗色斑が特徴。早春（2〜3月）に繁殖します。",
+      "habitat_hint": "雑木林の林床、谷地田、湿地、ため池、河畔林。",
+      "finding_tips": "繁殖期2〜3月（早春）、湿地や谷地田で「キャラララ…」という低い鳴き声が手がかり。成体は通年、林床で茶褐色のアカガエルを探します。"
+    },
+    "en": {
+      "summary": "Japanese Brown Frog. A Japan-endemic medium brown frog of bright secondary woodland floors and valley-bottom paddies. Diagnostic features: brown body and a triangular dark mark on the head. Breeds in early spring (February-March).",
+      "habitat_hint": "Secondary woodland floors, valley-bottom paddies, wetlands, ponds, and riparian woods.",
+      "finding_tips": "Breeding February-March (early spring) — listen for a low 'kararara...' call in wetlands and valley paddies. Adults found year-round on woodland floors as brown frogs."
+    },
+    "zh": {
+      "summary": "日本林蛙。日本固有种，栖于明亮杂木林林床与谷地水田的中型林蛙。茶褐色身体与头部三角形暗斑为特征。早春（二至三月）繁殖。",
+      "habitat_hint": "杂木林林床、谷地水田、湿地、池塘、河岸林。",
+      "finding_tips": "繁殖期二至三月（早春）在湿地与谷地水田聆听『kararara...』低沉鸣声。成蛙全年可在林床见到茶褐色林蛙。"
+    }
+  },
+  "Amusurgus genji": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスグモスズ。小型のスズムシ近縁の鳴く昆虫で、林床の落ち葉の中で「リーン、リーン」と非常に高い音色で鳴きます。スズムシより小型で「薄雲」のような淡い羽が和名の由来。",
+      "habitat_hint": "雑木林の林床、落ち葉の中、神社林、河畔林、半日陰の藪。",
+      "finding_tips": "8〜10月、夜に雑木林の林床から非常に高い「リーン、リーン」と聞こえたらこの虫です。姿は小さく、落ち葉に紛れて見つけにくい。"
+    },
+    "en": {
+      "summary": "Pale-cloud Bell Cricket. A small cricket relative singing 'rin, rin' with a very high-pitched tone from the leaf litter on forest floors. Smaller than Bell Cricket; the Japanese name 'thin-cloud' refers to the pale wings.",
+      "habitat_hint": "Secondary woodland floors, leaf litter, shrine groves, riparian woods, and partly shaded thickets.",
+      "finding_tips": "From August to October at night, if very high 'rin, rin' calls come from the woodland leaf litter, this is the species. Small and hard to see among leaves."
+    },
+    "zh": {
+      "summary": "薄云铃。小型铃虫近亲，在林床枯叶中以极高音『rin, rin』鸣叫。比铃虫小，日文俗名『薄云』指淡色翅。",
+      "habitat_hint": "杂木林林床、枯叶层、神社林、河岸林、半阴灌丛。",
+      "finding_tips": "八至十月夜间若杂木林林床传出极高『rin, rin』鸣声即此虫。体小，混于枯叶难以发现。"
+    }
+  },
+  "Serrognathus titanus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒラタクワガタ。大型のクワガタムシで、扁平な体型と発達した大顎が特徴。雄は大顎の長さが体長の半分以上に達し、樹液の出る木に集まります。",
+      "habitat_hint": "雑木林の樹液の出る樹（クヌギ、コナラ等）、神社林、河畔林、低山地。",
+      "finding_tips": "6〜9月、雑木林のクヌギ・コナラの樹液で扁平な体型と発達した大顎を持つ大型クワガタを探します。雄は夜行性が強く、夜間に活動。"
+    },
+    "en": {
+      "summary": "Flat Stag Beetle. A large stag beetle with a flat body and well-developed mandibles. In males, the mandibles can reach more than half the body length; gathers at oak sap flows.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands (oaks etc.), shrine groves, riparian woods, and low mountains.",
+      "finding_tips": "From June to September look at oak sap flows for large stag beetles with flat bodies and well-developed mandibles. Males strongly nocturnal."
+    },
+    "zh": {
+      "summary": "扁锹甲。大型锹甲，体扁平且大颚发达。雄性大颚长度可达体长一半以上；聚集于栎类树液。",
+      "habitat_hint": "杂木林出树液的栎类（麻栎、小楢等）、神社林、河岸林、低山地。",
+      "finding_tips": "六至九月在杂木林栎类树液上寻找体扁平、大颚发达的大型锹甲。雄性夜行性强。"
+    }
+  },
+  "Pinus densiflora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカマツ。日本固有の常緑針葉樹で、樹皮が赤褐色なのが和名の由来。痩せ地や日当たりのよい山地に生え、マツタケ（松茸）の宿主としても重要。",
+      "habitat_hint": "山地、雑木林、海岸近くの林、公園植栽、寺社境内。",
+      "finding_tips": "通年、樹皮が赤褐色の大型常緑針葉樹を探します。葉は2本ずつ束生し、クロマツより細く柔らかい。秋にマツタケが共生する場合も。"
+    },
+    "en": {
+      "summary": "Japanese Red Pine. A Japan-endemic evergreen conifer with reddish-brown bark — the source of the Japanese name. Grows on poor soils and sunny mountains; important host for matsutake mushroom.",
+      "habitat_hint": "Mountains, secondary woodlands, coastal woods, park plantings, and temple/shrine grounds.",
+      "finding_tips": "Year-round, look for large evergreen conifers with reddish-brown bark. Needles in bundles of 2, thinner and softer than Japanese Black Pine. Matsutake may grow in symbiosis in autumn."
+    },
+    "zh": {
+      "summary": "赤松（日本赤松）。日本固有常绿针叶树，树皮赤褐色是日文俗名由来。生于贫瘠地与阳光充足山地，是松茸的重要寄主。",
+      "habitat_hint": "山地、杂木林、海岸近郊林、公园栽植、寺社境内。",
+      "finding_tips": "全年寻找树皮赤褐色的大型常绿针叶树。叶 2 针一束，比黑松更细更柔。秋季可能有松茸共生。"
+    }
+  },
+  "Euonymus fortunei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルマサキ。常緑の蔓性低木で、樹幹や岩、塀を這い上がります。葉は対生で楕円形、革質。地被植物や生垣にも利用されます。",
+      "habitat_hint": "雑木林の樹幹、岩、塀、生垣、公園植栽、神社林。",
+      "finding_tips": "通年、樹幹や塀を這い上がる常緑の蔓性低木で、対生する楕円形の革質の葉を持つものを探します。"
+    },
+    "en": {
+      "summary": "Fortune's Spindle. An evergreen vining shrub climbing tree trunks, rocks, and walls. Leathery opposite elliptical leaves. Used as ground cover and hedging.",
+      "habitat_hint": "Tree trunks in secondary woodlands, rocks, walls, hedges, park plantings, and shrine groves.",
+      "finding_tips": "Year-round, look for evergreen vining shrubs climbing tree trunks and walls with leathery opposite elliptical leaves."
+    },
+    "zh": {
+      "summary": "扶芳藤。常绿蔓生灌木，攀附树干、岩石与墙壁。叶对生椭圆形、革质。可作地被与绿篱。",
+      "habitat_hint": "杂木林树干、岩石、墙壁、绿篱、公园栽植、神社林。",
+      "finding_tips": "全年寻找具对生椭圆形革质叶、攀附树干与墙壁的常绿蔓生灌木。"
+    }
   }
 }
