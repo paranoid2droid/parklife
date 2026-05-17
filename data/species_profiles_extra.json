@@ -15102,5 +15102,185 @@
       "habitat_hint": "杂木林、出树液的树干、倒木、神社林、公园大树。",
       "finding_tips": "五至九月在杂木林寻找在树干上行走的黑至暗蓝色金属光泽中型甲虫。也躲于树皮缝隙。"
     }
+  },
+  "Podiceps grisegena": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカエリカイツブリ。冬羽は灰褐色だが、夏羽は頸が鮮やかな赤褐色になる中型のカイツブリ。冬鳥として湖沼や港湾に渡来します。",
+      "habitat_hint": "湖沼、ダム湖、港湾、河口、内陸の大きな池。",
+      "finding_tips": "11〜3月、湖沼や港湾で潜水するカイツブリ類を探します。カンムリカイツブリより小型で、嘴は黄色みを帯びます。"
+    },
+    "en": {
+      "summary": "Red-necked Grebe. Winter plumage greyish-brown, but breeding plumage shows brilliant rufous neck. A medium grebe; winters on lakes and harbours.",
+      "habitat_hint": "Lakes, reservoirs, harbours, estuaries, and large inland ponds.",
+      "finding_tips": "From November to March look on lakes and harbours for diving grebes. Smaller than Great Crested Grebe with a yellowish bill."
+    },
+    "zh": {
+      "summary": "赤颈䴙䴘。冬羽灰褐色，繁殖羽颈鲜艳红褐色的中型䴙䴘。作冬候鸟飞临湖沼与港湾。",
+      "habitat_hint": "湖沼、水库、港湾、河口、内陆大池。",
+      "finding_tips": "十一至三月在湖沼与港湾寻找潜水的䴙䴘。比凤头䴙䴘略小，喙带黄色。"
+    }
+  },
+  "Nipponovalgus angusticollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒラタハナムグリ。小型のハナムグリで、扁平な体型と短く広い体が特徴。花や朽木に集まります。",
+      "habitat_hint": "雑木林の朽木、樹液の出る樹、林縁の花、農地の縁、神社林。",
+      "finding_tips": "5〜8月、雑木林で扁平な体型を持つ小型ハナムグリを花や朽木で探します。胸部前縁が細くなっているのが学名 'angusticollis' (細頸の) の由来。"
+    },
+    "en": {
+      "summary": "A small flower chafer with a flat, short, broad body. Found on flowers and rotting wood.",
+      "habitat_hint": "Rotting wood in secondary woodlands, sap-flowing trees, flowers at forest edges, farmland margins, and shrine groves.",
+      "finding_tips": "From May to August look on flowers and rotting wood in woodlands for small flat-bodied chafers. The narrow pronotum is reflected in the Latin name 'angusticollis' (narrow-necked)."
+    },
+    "zh": {
+      "summary": "扁花金龟。小型花金龟，体扁平短宽。聚集于花朵与朽木。",
+      "habitat_hint": "杂木林朽木、出树液的树、林缘花丛、农田边缘、神社林。",
+      "finding_tips": "五至八月在杂木林的花与朽木上寻找体扁平的小型花金龟。前胸前缘窄是种加词『angusticollis』（细颈）的由来。"
+    }
+  },
+  "Aedes albopictus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒトスジシマカ。黒地に白い縞模様を持つ小型のヤブカ。日中に吸血し、デング熱などの感染症を媒介することがあります。日本では関東以南に分布。",
+      "habitat_hint": "藪、公園、住宅地の植え込み、空き缶などの溜水、河川敷の藪。",
+      "finding_tips": "5〜10月（夏に最多）、藪や植え込みで日中に活発に吸血する黒白縞のヤブカ。胸部背面の白い縦縞が決め手。"
+    },
+    "en": {
+      "summary": "Asian Tiger Mosquito. A small day-biting mosquito with bold black-and-white striped pattern. Can transmit dengue and other diseases. Distributed from Kanto southward in Japan.",
+      "habitat_hint": "Thickets, parks, residential plantings, standing water in cans, and thickets on riverbanks.",
+      "finding_tips": "From May to October (peak in summer) look for actively day-biting black-and-white mosquitoes in thickets and plantings. White stripe down the thorax is diagnostic."
+    },
+    "zh": {
+      "summary": "白纹伊蚊（亚洲虎蚊）。黑底白纹的小型库蚊。日间吸血，可传播登革热等。日本分布于关东以南。",
+      "habitat_hint": "灌丛、公园、住宅区栽植、空罐积水、河滩灌丛。",
+      "finding_tips": "五至十月（夏季最多）在灌丛与绿化带寻找日间活跃吸血的黑白条纹蚊。胸背白色纵纹是关键识别。"
+    }
+  },
+  "Mesosa hirsuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カタシロゴマフカミキリ。小型のカミキリで、灰褐色の地に白い肩斑と黒い斑紋を持ちます。枯れた広葉樹の枝で幼虫が育ちます。",
+      "habitat_hint": "雑木林の朽木・枯枝、樹液の出る樹、果樹園、薪置場、神社林。",
+      "finding_tips": "5〜8月、雑木林の朽木や枯枝の周辺で灰褐色に白い肩斑のある小型カミキリを探します。樹皮に止まると保護色になります。"
+    },
+    "en": {
+      "summary": "Hairy White-shouldered Longhorn. A small longhorn beetle, greyish-brown with white shoulder patches and black markings. Larvae develop in dead broadleaf branches.",
+      "habitat_hint": "Rotting wood and dead branches in secondary woodlands, sap-flowing trees, orchards, wood piles, and shrine groves.",
+      "finding_tips": "From May to August look around rotting wood and dead branches in secondary woodlands for small greyish-brown longhorns with white shoulder patches. Cryptic against bark."
+    },
+    "zh": {
+      "summary": "白肩瘤天牛。小型天牛，灰褐色具白色肩斑与黑色斑纹。幼虫蛀食阔叶枯枝。",
+      "habitat_hint": "杂木林朽木与枯枝、出树液的树、果园、柴堆、神社林。",
+      "finding_tips": "五至八月在杂木林朽木与枯枝周边寻找灰褐色具白色肩斑的小型天牛。停于树皮上具保护色。"
+    }
+  },
+  "Zacco platypus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オイカワ。河川中流〜下流に普通な小型コイ科。雄は繁殖期に鮮やかな婚姻色（赤・緑・青の縞）になります。釣りの対象魚としても人気。",
+      "habitat_hint": "河川の中流〜下流、用水路、緩流の小川、湖沼。",
+      "finding_tips": "通年、河川の中流〜下流で群れで泳ぐ細身の魚を探します。繁殖期（5〜8月）の雄は赤・緑・青の婚姻色が出て美しい。"
+    },
+    "en": {
+      "summary": "Pale Chub. A small cyprinid common in mid- to lower-reaches of rivers. Males develop brilliant nuptial colours (red, green, blue bands) during breeding. A popular fishing target.",
+      "habitat_hint": "Mid- to lower-reach rivers, irrigation channels, slow streams, and lakes.",
+      "finding_tips": "Year-round, look in mid- to lower river reaches for schools of slim fish. Breeding males (May-August) show beautiful red, green, and blue nuptial colours."
+    },
+    "zh": {
+      "summary": "宽鳍鱲。河流中下游常见的小型鲤科。雄性繁殖期出现鲜艳婚姻色（红、绿、蓝条纹）。垂钓常见对象。",
+      "habitat_hint": "河流中下游、灌溉沟、缓流小溪、湖沼。",
+      "finding_tips": "全年在河流中下游寻找成群游动的细长小鱼。繁殖期（五至八月）雄鱼出现红、绿、蓝婚姻色，色彩艳丽。"
+    }
+  },
+  "Grammodes geometrica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナカグロクチバ。黒褐色の翅に幾何学的な縞模様がある中型のヤガ科。和名は前翅の中央に黒い帯があることから。",
+      "habitat_hint": "雑木林、林縁、公園、農地、河川敷の藪。",
+      "finding_tips": "5〜10月、樹幹や葉裏に止まる黒褐色の中型ガを探します。前翅の中央を横切る黒帯と幾何学的な縞模様が決め手。"
+    },
+    "en": {
+      "summary": "A medium noctuid moth with geometric striped patterns on dark brown wings. The Japanese name refers to the central black band on the forewing.",
+      "habitat_hint": "Secondary woodlands, forest edges, parks, farmland, and riverside thickets.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for medium dark-brown moths. Diagnostic black band across the forewing centre and geometric stripes."
+    },
+    "zh": {
+      "summary": "几何枯叶夜蛾。黑褐色翅具几何条纹的中型夜蛾。日文俗名指前翅中央具黑色横带。",
+      "habitat_hint": "杂木林、林缘、公园、农田、河滩灌丛。",
+      "finding_tips": "五至十月在树干与叶背寻找黑褐色中型蛾。前翅中央横向黑带与几何条纹是关键识别。"
+    }
+  },
+  "Mauremys japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニホンイシガメ。日本固有のカメで、河川や池沼に生息。甲羅は楕円形で淡黄褐色〜暗褐色、後縁がギザギザしているのが特徴。",
+      "habitat_hint": "河川、ため池、湖沼、用水路、湿地。",
+      "finding_tips": "通年（暖かい季節に活動的）、河川や池の岸辺・石の上で日光浴するカメを探します。甲羅後縁のギザギザが在来種の決め手（外来ミシシッピアカミミガメは滑らか）。"
+    },
+    "en": {
+      "summary": "Japanese Pond Turtle. A Japan-endemic turtle of rivers and ponds. Oval carapace, pale yellow-brown to dark brown, with a serrated rear edge.",
+      "habitat_hint": "Rivers, ponds, lakes, irrigation channels, and wetlands.",
+      "finding_tips": "Year-round (most active in warm seasons), look for turtles basking on banks and stones. The serrated rear carapace edge is diagnostic for this native (introduced Red-eared Slider has a smooth edge)."
+    },
+    "zh": {
+      "summary": "日本石龟。日本固有龟，栖于河流与池沼。背甲椭圆形，淡黄褐至暗褐色，后缘锯齿状是关键识别。",
+      "habitat_hint": "河流、池塘、湖沼、灌溉沟、湿地。",
+      "finding_tips": "全年（暖季活跃）在河流与池塘岸边、石上寻找晒太阳的龟。背甲后缘锯齿是本土种关键识别（外来巴西龟为平滑）。"
+    }
+  },
+  "Deilephila elpenor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ベニスズメ。鮮やかなピンクとオリーブ色の対比が美しい中型のスズメガ。幼虫はアカバナ科やツユクサ科を食べます。",
+      "habitat_hint": "草地、林縁、湿地、河川敷、公園の植え込み、住宅地の庭。",
+      "finding_tips": "5〜9月、夜間に外灯に飛来するピンクとオリーブ色の中型スズメガを探します。日中は葉裏で休んでいることが多いです。"
+    },
+    "en": {
+      "summary": "Elephant Hawkmoth. A medium hawkmoth with a beautiful contrast of brilliant pink and olive. Caterpillars feed on willowherbs and dayflower family plants.",
+      "habitat_hint": "Grasslands, forest edges, wetlands, riverbanks, park plantings, and residential gardens.",
+      "finding_tips": "From May to September look at night lights for medium hawkmoths with pink and olive colours. By day usually rests on the underside of leaves."
+    },
+    "zh": {
+      "summary": "红天蛾（象天蛾）。鲜艳粉色与橄榄色对比美丽的中型天蛾。幼虫取食柳叶菜科与鸭跖草科。",
+      "habitat_hint": "草地、林缘、湿地、河滩、公园栽植、住宅区庭院。",
+      "finding_tips": "五至九月夜间在路灯下寻找粉色配橄榄色的中型天蛾。白天多在叶背休息。"
+    }
+  },
+  "Apus pacificus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アマツバメ。日本では夏鳥として崖や岩棚で繁殖。長い鎌状の翼で高速飛行し、空中で昆虫を捕食します。地上にはほとんど降りません。",
+      "habitat_hint": "海岸の崖、山地の岩棚、海上、内陸の上空、市街地の上空。",
+      "finding_tips": "5〜9月、空高くで長い鎌状の翼で高速飛行する黒い鳥を探します。腹部に白い帯があるのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Pacific Swift. A summer breeder in Japan, nesting on cliffs and rock ledges. Long sickle-shaped wings allow high-speed flight; catches insects in the air. Almost never lands on ground.",
+      "habitat_hint": "Sea cliffs, mountain rock ledges, over the ocean, inland skies, and skies over urban areas.",
+      "finding_tips": "From May to September look high overhead for fast-flying black birds with long sickle-shaped wings. The white belly band is diagnostic."
+    },
+    "zh": {
+      "summary": "白腰雨燕。日本夏候鸟，于悬崖与岩台繁殖。镰刀状长翼高速飞行，空中捕食昆虫。几乎不落地。",
+      "habitat_hint": "海岸悬崖、山地岩台、海上、内陆上空、市区上空。",
+      "finding_tips": "五至九月在高空寻找镰刀状长翼高速飞行的黑色鸟。腹部白色横带是关键识别。"
+    }
+  },
+  "Elaeagnus glabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルグミ。常緑の蔓性低木で、葉裏に銀色の鱗状毛があります。秋に小さな筒状の白〜淡黄色花を咲かせ、翌春に赤い実が熟します。",
+      "habitat_hint": "雑木林の林縁、海岸近くの林、神社林、藪、山地の岩場。",
+      "finding_tips": "花期10〜11月、果期4〜5月。葉裏が銀色に光る常緑の蔓性低木を探します。樹冠を覆うようにして他の樹に這い上がります。"
+    },
+    "en": {
+      "summary": "Climbing Silverberry. An evergreen vining shrub with silvery scaly hairs on the leaf underside. Small white-to-pale-yellow tubular flowers in autumn; red fruits ripen the following spring.",
+      "habitat_hint": "Secondary woodland edges, coastal woods, shrine groves, thickets, and montane rocky places.",
+      "finding_tips": "Flowers October-November; fruits April-May. Look for evergreen vining shrubs with silvery underside leaves, climbing over other trees."
+    },
+    "zh": {
+      "summary": "蔓胡颓子。常绿蔓生灌木，叶背具银色鳞状毛。秋开白至淡黄筒形小花，翌春结红色果。",
+      "habitat_hint": "杂木林林缘、海岸近郊林、神社林、灌丛、山地岩生地。",
+      "finding_tips": "花期十至十一月，果期四至五月。寻找叶背银光闪烁的常绿蔓生灌木，攀附其他树木。"
+    }
   }
 }
