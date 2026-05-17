@@ -14742,5 +14742,185 @@
       "habitat_hint": "生有艾蒿的河滩、空地、农田边缘、林缘、路边。",
       "finding_tips": "五至十月在艾蒿叶上寻找具蓝紫色金属光泽的中型叶甲。叶上圆形蛀洞辅助识别。"
     }
+  },
+  "Pluvialis fulva": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムナグロ。シベリアで繁殖し、日本では春・秋の渡り期に水田や干潟、芝地で見られます。夏羽は顔・胸・腹が黒く、白い縁取りが目立ちます。",
+      "habitat_hint": "水田、干潟、河口、芝地、グラウンド、湿地。",
+      "finding_tips": "4〜5月と8〜10月、水田や芝地で群れで地表近くを走る中型のチドリ類を探します。夏羽の黒い顔・胸・腹が決め手。"
+    },
+    "en": {
+      "summary": "Pacific Golden-Plover. Breeds in Siberia and seen in Japan on spring/autumn migration in paddies, mudflats, and lawns. Breeding plumage shows black face, breast, and belly with a contrasting white border.",
+      "habitat_hint": "Rice paddies, mudflats, estuaries, lawns, athletic fields, and wetlands.",
+      "finding_tips": "From April-May and August-October look in paddies and lawns for medium plovers running in flocks at ground level. Black face/breast/belly in breeding plumage is diagnostic."
+    },
+    "zh": {
+      "summary": "金鸻（太平洋金斑鸻）。在西伯利亚繁殖，日本春秋迁徙期见于水田、滩涂与草坪。繁殖羽脸、胸、腹黑色，白色边缘明显。",
+      "habitat_hint": "水田、滩涂、河口、草坪、运动场、湿地。",
+      "finding_tips": "四至五月与八至十月在水田与草坪寻找成群在地表奔跑的中型鸻。繁殖羽黑脸黑胸黑腹是关键识别。"
+    }
+  },
+  "Firmiana simplex": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオギリ。中国原産で街路樹や公園木として広く植栽される落葉高木。樹皮が緑色を帯びるのが和名の由来。葉は大きく、3〜5裂します。",
+      "habitat_hint": "街路樹、公園植栽、寺社境内、住宅地の植え込み、庭園。",
+      "finding_tips": "通年、街路や公園で樹皮が緑色を帯びる落葉高木を探します。葉は大きな掌状で3〜5裂。6〜7月には淡黄色の小さな花序をつけます。"
+    },
+    "en": {
+      "summary": "Chinese Parasol Tree. A deciduous tree native to China, widely planted as street and park trees. The green-tinted bark gives the Japanese name. Leaves large, 3-5 lobed.",
+      "habitat_hint": "Street trees, park plantings, temple/shrine grounds, residential plantings, and gardens.",
+      "finding_tips": "Year-round, look in streets and parks for deciduous trees with green-tinted bark. Large palmately 3-5 lobed leaves. Small pale-yellow flower panicles in June-July."
+    },
+    "zh": {
+      "summary": "梧桐。原产中国，作行道树与公园栽植的落叶乔木。树皮带绿色，日文俗名因此而来。叶大型，3-5 裂。",
+      "habitat_hint": "行道树、公园栽植、寺社境内、住宅区栽植、庭园。",
+      "finding_tips": "全年在街道与公园寻找树皮带绿色的落叶乔木。叶大型掌状 3-5 裂。六至七月开淡黄色小型花序。"
+    }
+  },
+  "Geum japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダイコンソウ。林縁や草地に生える多年草で、葉がダイコンの葉に似ることが和名の由来。黄色い5弁花を初夏に咲かせます。",
+      "habitat_hint": "明るい林縁、林床、草地、土手、河川敷の半日陰。",
+      "finding_tips": "5〜8月、明るい林縁や草地で黄色い5弁花を咲かせる多年草を探します。根生葉が大きく羽状複葉でダイコンの葉に似ます。果実は鉤状の刺で衣服にひっつきます。"
+    },
+    "en": {
+      "summary": "Japanese Avens. A perennial of forest edges and grasslands. The Japanese name 'daikon-grass' compares the leaves to daikon radish. Yellow 5-petalled flowers in early summer.",
+      "habitat_hint": "Bright forest edges, forest floors, grasslands, banks, and partly shaded riverbanks.",
+      "finding_tips": "From May to August look at bright forest edges for perennials with yellow 5-petalled flowers. Large pinnate basal leaves resemble daikon leaves. Hooked fruits stick to clothing."
+    },
+    "zh": {
+      "summary": "日本水杨梅。林缘与草地的多年生草本。叶形似萝卜叶，日文俗名因此而来。初夏开黄色五瓣花。",
+      "habitat_hint": "明亮林缘、林床、草地、堤岸、河滩半阴处。",
+      "finding_tips": "五至八月在明亮林缘与草地寻找开黄色五瓣花的多年草。基生叶大型羽状复叶似萝卜叶。果实具钩刺粘衣物。"
+    }
+  },
+  "Poa pratensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケンタッキーブルーグラス。欧州〜北米由来の多年生イネ科で、芝草として広く利用。匍匐性で密な芝面を作ります。",
+      "habitat_hint": "芝地、運動場、グラウンド、公園、河川敷、道端の管理草地。",
+      "finding_tips": "5〜7月、芝地や運動場で繊細な円錐花序を立てる多年生イネ科を探します。匍匐茎で密な芝面を作るのが特徴。"
+    },
+    "en": {
+      "summary": "Kentucky Bluegrass. A Eurasian/North American perennial grass widely used as turf. Creeping; forms dense lawns.",
+      "habitat_hint": "Lawns, sports fields, athletic grounds, parks, riverbanks, and managed roadside grasslands.",
+      "finding_tips": "From May to July look on lawns and sports fields for perennial grasses with delicate panicles. Spreads by rhizomes to form dense turf."
+    },
+    "zh": {
+      "summary": "草地早熟禾（肯塔基蓝草）。欧亚至北美的多年生禾本科，广作草坪草。匍匐性，形成致密草坪。",
+      "habitat_hint": "草坪、运动场、操场、公园、河滩、管理路边草地。",
+      "finding_tips": "五至七月在草坪与运动场寻找具纤细圆锥花序的多年生禾本科。靠匍匐茎形成密集草坪。"
+    }
+  },
+  "Polypogon fugax": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒエガエリ。湿地や水田、河川敷に生える一年生イネ科。柔らかく密に詰まった円柱形の穂が特徴で、芒（のぎ）が短い。",
+      "habitat_hint": "水田、湿地、河川敷、休耕田、用水路の縁。",
+      "finding_tips": "5〜7月、水田や湿地で柔らかく密に詰まった円柱形の穂を持つ一年生イネ科を探します。穂は淡緑色〜淡黄色で、触ると柔らかい印象。"
+    },
+    "en": {
+      "summary": "Asian Beardgrass. An annual grass of wetlands, paddies, and riverbanks. Diagnostic: a soft densely-packed cylindrical spike-like inflorescence with short awns.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, fallow fields, and irrigation channel edges.",
+      "finding_tips": "From May to July look in paddies and wetlands for annual grasses with soft, dense, cylindrical pale-green to pale-yellow spike-like panicles."
+    },
+    "zh": {
+      "summary": "棒头草。湿地、水田、河滩的一年生禾本科。穗柔软密集、圆柱形、芒短，是关键识别。",
+      "habitat_hint": "水田、湿地、河滩、休耕田、灌溉沟边。",
+      "finding_tips": "五至七月在水田与湿地寻找柔软密集圆柱形、淡绿至淡黄色穗状花序的一年生禾本科。"
+    }
+  },
+  "Parthenocissus tricuspidata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツタ（夏蔦）。落葉性の蔓植物で、壁や塀、樹幹を這い上がります。葉は3裂し、秋に鮮やかに紅葉します。",
+      "habitat_hint": "建物の壁、塀、岩、樹幹、公園のフェンス、河畔林の樹。",
+      "finding_tips": "通年、壁や樹幹を這い登る蔓植物で、3裂の大型葉を持つツタを探します。秋（10〜11月）の紅葉が美しく、吸盤で這い登るのが特徴。"
+    },
+    "en": {
+      "summary": "Boston Ivy. A deciduous climber that ascends walls, fences, and tree trunks. Three-lobed leaves turn brilliantly red in autumn.",
+      "habitat_hint": "Building walls, fences, rocks, tree trunks, park fences, and riparian forest trees.",
+      "finding_tips": "Year-round, look for climbing plants on walls and trunks with large 3-lobed leaves. Brilliant autumn colour (October-November); climbs using adhesive pads."
+    },
+    "zh": {
+      "summary": "爬山虎（地锦）。落叶蔓生植物，攀附墙壁、围栏与树干。叶 3 裂，秋季艳红。",
+      "habitat_hint": "建筑墙、围栏、岩石、树干、公园栅栏、河岸林乔木。",
+      "finding_tips": "全年寻找具 3 裂大型叶、攀爬墙壁与树干的蔓生植物。秋季（十至十一月）红叶美丽，以吸盘攀附。"
+    }
+  },
+  "Agrostis clavata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマヌカボ。林縁や明るい林床に生える多年生イネ科。穂は非常に繊細で、淡緑色の細い円錐花序を立てます。",
+      "habitat_hint": "明るい雑木林の林縁、林床、土手、半日陰の道端、二次林。",
+      "finding_tips": "6〜8月、林縁や明るい林床で繊細で細い淡緑色の円錐花序を持つ多年生イネ科を探します。葉は細く線形。"
+    },
+    "en": {
+      "summary": "A perennial bent grass of forest edges and bright forest floors. Extremely delicate inflorescence — slender pale-green panicles.",
+      "habitat_hint": "Bright secondary woodland edges, forest floors, banks, partly shaded roadsides, and secondary woods.",
+      "finding_tips": "From June to August look at forest edges and bright floors for perennial grasses with delicate slender pale-green panicles. Narrow linear leaves."
+    },
+    "zh": {
+      "summary": "棒穗剪股颖。林缘与明亮林床的多年生禾本科。花序极纤细，淡绿色窄圆锥形。",
+      "habitat_hint": "明亮杂木林林缘、林床、堤岸、半阴路边、次生林。",
+      "finding_tips": "六至八月在林缘与明亮林床寻找具纤细淡绿色窄圆锥花序的多年生禾本科。叶细线形。"
+    }
+  },
+  "Lindera glauca": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマコウバシ。林縁に生える落葉低木で、葉や枝に芳香があります。和名は「山香ばし」で、揉むと甘い香りがする葉が特徴。",
+      "habitat_hint": "明るい雑木林の林縁、二次林、半日陰の斜面、神社林。",
+      "finding_tips": "通年（葉の香りで識別可）、林縁で葉を揉むと甘い香りがする落葉低木を探します。葉は卵状楕円形、秋に黄褐色に紅葉します。"
+    },
+    "en": {
+      "summary": "Glaucous Spicebush. A deciduous shrub of forest edges with aromatic leaves and twigs. The Japanese name 'fragrant mountain' refers to the sweet scent when leaves are crushed.",
+      "habitat_hint": "Bright secondary woodland edges, secondary woods, partly shaded slopes, and shrine groves.",
+      "finding_tips": "Year-round (identifiable by leaf scent). Look at forest edges for deciduous shrubs whose crushed leaves give a sweet aroma. Ovate-elliptical leaves; autumn colour is yellow-brown."
+    },
+    "zh": {
+      "summary": "山胡椒。林缘落叶灌木，叶与枝具芳香。日文俗名『山香』指叶揉碎散发甜香。",
+      "habitat_hint": "明亮杂木林林缘、次生林、半阴斜坡、神社林。",
+      "finding_tips": "全年（叶香气可助识别）在林缘寻找叶揉碎散发甜香的落叶灌木。叶卵状椭圆形，秋季变黄褐色。"
+    }
+  },
+  "Selliguea hastata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツデウラボシ。岩や樹幹に着生する小型の常緑シダ。葉が3裂することが和名の由来。",
+      "habitat_hint": "湿った岩、樹幹、林床、神社林の岩、河畔林の岩壁。",
+      "finding_tips": "通年、湿った岩や樹幹に着生する小型シダで、葉が3裂（鳥足状）するものを探します。葉裏の胞子嚢群が「裏星」の名の由来。"
+    },
+    "en": {
+      "summary": "Three-fingered Star Fern. A small evergreen epiphytic fern on rocks and trunks. The Japanese name refers to the typically 3-lobed leaves.",
+      "habitat_hint": "Damp rocks, tree trunks, forest floors, rocks in shrine groves, and riparian rock faces.",
+      "finding_tips": "Year-round, look on damp rocks and trunks for small epiphytic ferns with leaves divided into three (bird-foot shape). Sori on the underside give the 'back star' name."
+    },
+    "zh": {
+      "summary": "三叉骨牌蕨（修蕨）。附生岩石与树干的小型常绿蕨。叶常 3 裂，日文俗名因此而来。",
+      "habitat_hint": "潮湿岩石、树干、林床、神社林岩石、河岸林岩壁。",
+      "finding_tips": "全年在潮湿岩石与树干寻找叶 3 裂（鸟足状）的小型附生蕨。叶背孢子囊群是日文俗名『里星』由来。"
+    }
+  },
+  "Carex mitrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメスゲ近縁。明るい雑木林の林床に生える小型のスゲ。葉が細く、密集して株状になります。短い花穂を立てます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、二次林、神社林。",
+      "finding_tips": "4〜6月、明るい林床で線形の細い葉が密集して株状になり、短い花穂を立てる小型スゲを探します。"
+    },
+    "en": {
+      "summary": "A small sedge of bright secondary woodland floors. Narrow leaves form dense tussocks; short flower spikes.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, secondary woods, and shrine groves.",
+      "finding_tips": "From April to June look on bright forest floors for small sedges with linear leaves in dense tussocks and short flower spikes."
+    },
+    "zh": {
+      "summary": "弁苔草近缘。明亮杂木林林床的小型莎草。叶细线形成丛，抽出短花穗。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、次生林、神社林。",
+      "finding_tips": "四至六月在明亮林床寻找具线形细叶成丛、抽出短花穗的小型莎草。"
+    }
   }
 }
