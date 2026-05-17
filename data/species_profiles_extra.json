@@ -10008,5 +10008,167 @@
       "habitat_hint": "杂木林林床、神社境内、明亮斜坡、半阴草地、谷地林。",
       "finding_tips": "十一至三月寻找叶上方挺立黄色孢子穗的蕨。冬季易观察的少见蕨类之一。"
     }
+  },
+  "Procyon lotor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アライグマ。北米原産の特定外来生物。夜行性で雑食、屋根裏や河川敷で生活し、農業被害・建物侵入・在来動物への影響など問題が深刻です。",
+      "habitat_hint": "河川敷、雑木林、社寺林、住宅地の屋根裏、農地。",
+      "finding_tips": "夜、河川敷や住宅地で目の周りに黒い「マスク」のある中型動物を見たら本種の可能性。**特定外来生物、捕獲・運搬・飼育は禁止。**"
+    },
+    "en": {
+      "summary": "Raccoon. A North-American import designated as an Invasive Alien Species. Nocturnal omnivore; causes serious agricultural damage and invades attics. **Capture, transport, and keeping are prohibited.**",
+      "habitat_hint": "Riverbanks, mixed woodland, shrine groves, residential attics, and farmland.",
+      "finding_tips": "At night an animal with a distinctive black 'mask' across the eyes is likely this species. **Legally classified as invasive — never handle, transport, or keep.**"
+    },
+    "zh": {
+      "summary": "浣熊，北美原产，被日本列为特定外来生物。夜行杂食，常在屋顶夹层与河滩生活，对农业、建筑与本土动物造成严重影响。",
+      "habitat_hint": "河滩、杂木林、神社树林、住宅屋顶夹层、农田。",
+      "finding_tips": "夜里在河滩或住宅区看到眼周有黑色『面具』的中型动物多为本种。**特定外来生物，禁止捕捉、运输与饲养。**"
+    }
+  },
+  "Mareca americana": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカヒドリ。冬鳥として稀に渡来する北米産のカモ。雄は頭部の緑光沢の帯とクリーム色の額が特徴で、バードウォッチャーに人気の珍鳥です。",
+      "habitat_hint": "大きな池、湖、ダム湖、河口。",
+      "finding_tips": "ヒドリガモの群れの中に混じることが多いので、雄の頭部の緑光沢帯+クリーム色の額の組み合わせを探します。"
+    },
+    "en": {
+      "summary": "American Wigeon, a rare winter visitor from North America. Males have a green eye-stripe and cream forehead. A popular vagrant for birdwatchers.",
+      "habitat_hint": "Large ponds, lakes, reservoirs, and estuaries.",
+      "finding_tips": "Often joins Eurasian Wigeon flocks — scan for males with a green eye-stripe and cream forehead among them."
+    },
+    "zh": {
+      "summary": "葡萄胸鸭（美洲赤颈鸭），北美原产，冬季偶有渡来。雄鸟眼带绿色光带、额奶白色，是受鸟友欢迎的稀客。",
+      "habitat_hint": "大池塘、湖泊、水库、河口。",
+      "finding_tips": "常混于赤颈鸭群中，扫描雄鸟眼带绿色光带与奶白额头的组合。"
+    }
+  },
+  "Papilio helenus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モンキアゲハ。後翅に大きな白い斑があるのが目印の大型アゲハチョウ。日本本州以南で見られ、林縁を優雅に飛びます。",
+      "habitat_hint": "雑木林の林縁、社寺林、河川敷の樹木、ミカン科の植え込み、明るい園路。",
+      "finding_tips": "黒い大型のアゲハで、後翅に大きな白い「紋」があるものを探します。クロアゲハと似ますが、本種の白紋は明確で位置が独特。"
+    },
+    "en": {
+      "summary": "Red Helen, a large dark swallowtail. Diagnostic large white patches on the hindwings. Found from Honshu southward; glides along woodland edges.",
+      "habitat_hint": "Woodland edges, shrine groves, riverside trees, citrus plantings, and bright paths.",
+      "finding_tips": "Among dark swallowtails this is the one with clear large white hindwing patches. Similar to Spangle Swallowtail but with much more prominent white."
+    },
+    "zh": {
+      "summary": "玉带凤蝶近缘（白纹凤蝶），大型黑色凤蝶，后翅具大型白斑明显。本州以南可见，林缘优雅滑翔。",
+      "habitat_hint": "林缘、神社树林、河岸树木、柑橘类种植、明亮园路。",
+      "finding_tips": "黑色凤蝶中后翅有大块白色斑的种类。和黑凤蝶相似但本种白斑更明显。"
+    }
+  },
+  "Oraesia emarginata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメエグリバ。翅の縁が独特に「えぐれた」形をした中型の蛾。葉に擬態した姿で、雑木林の薄暗い場所で見られます。",
+      "habitat_hint": "雑木林の薄暗い林床、林縁、樹液場、神社の社叢、夜の街灯。",
+      "finding_tips": "翅の縁が独特の弧状にえぐれた形の蛾を探します。閉じた翅は枯葉に擬態し、薄暗い林で静止していると気づきにくいです。"
+    },
+    "en": {
+      "summary": "An owlet moth whose wing margins are unusually scalloped — giving a wing-edge look like nibbled leaves. Cryptic in dim woodland.",
+      "habitat_hint": "Shaded woodland understory, edges, sap flows, shrine groves, and around streetlights at night.",
+      "finding_tips": "Watch for a moth with strongly scalloped wing margins; closed wings mimic chewed leaves and the moth is easy to miss in low light."
+    },
+    "zh": {
+      "summary": "凹翅夜蛾，翅缘呈独特『凹刻』形的中型夜蛾。闭翅时拟态被咬过的枯叶，在阴林中难以发现。",
+      "habitat_hint": "阴林床、林缘、树液处、神社林、夜灯下。",
+      "finding_tips": "找翅缘呈弧状凹刻的蛾。闭翅时与枯叶混为一体。"
+    }
+  },
+  "Sympetrum baccha": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コノシメトンボ。中型の赤トンボで、雄は鮮やかな赤色、雌は黄褐色。水田や池の周辺で群れて飛びます。",
+      "habitat_hint": "水田、池、湿地、河川の流れのゆるい場所、開けた水辺。",
+      "finding_tips": "秋、水田や池の上を飛ぶ赤いトンボを探します。アキアカネと似ますが、本種は胸の側面の黒い斑紋がより明瞭です。"
+    },
+    "en": {
+      "summary": "A medium red dragonfly. Males turn vivid red; females are tan. Common around paddies and ponds in autumn.",
+      "habitat_hint": "Rice paddies, ponds, wetlands, slow rivers, and open water margins.",
+      "finding_tips": "In autumn over paddies and ponds look for red dragonflies. Similar to Autumn Red Dragonfly but with bolder black thoracic side markings."
+    },
+    "zh": {
+      "summary": "中型红蜻蜓，雄虫鲜红，雌虫黄褐。秋季在水田与池塘周边成群飞行。",
+      "habitat_hint": "水田、池塘、湿地、缓流河段、开阔水边。",
+      "finding_tips": "秋季在水田与池塘上方找红蜻蜓。和秋赤蜓相似，但胸侧黑斑更明显。"
+    }
+  },
+  "Coniogramme japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イワガネソウ。雑木林の林床に生える中型のシダ。葉軸の翼と、葉脈が縁まではっきり見える「縞模様」が特徴です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "中型のシダで、葉に縞模様のような明確な葉脈が見えるものを探します。湿った林床で群生することが多いです。"
+    },
+    "en": {
+      "summary": "Bamboo Fern. A medium fern of mixed forest understory whose leaves show prominent parallel veins extending to the leaf margin — a distinctive 'striped' look.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for medium ferns with strongly visible parallel veins on the leaf — giving a striped appearance. Often forms colonies on damp ground."
+    },
+    "zh": {
+      "summary": "凤丫蕨，杂木林林床中型蕨。叶面平行脉直达叶缘，呈独特『条纹』状。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶面具明显平行脉延伸至叶缘的中型蕨。常在潮湿林床成片。"
+    }
+  },
+  "Dioscorea tokoro": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニドコロ。雑木林の林縁に普通のつる性多年草。心形の葉と、夏に細長く穂状にぶら下がる小さな花序が特徴です。雌雄異株。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、明るい斜面、神社の境内。",
+      "finding_tips": "6〜8月、心形の葉と細長く垂れる小さな花序を持つつる植物を探します。秋には三角形の独特の翼を持つ果実がつきます。"
+    },
+    "en": {
+      "summary": "Tokoro Yam, a vining perennial of woodland edges. Heart-shaped leaves and slender dangling flower spikes in summer. Dioecious; triangular winged fruits in autumn.",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, bright slopes, and shrine grounds.",
+      "finding_tips": "From June to August look for vines with heart-shaped leaves and slender dangling flower spikes. Autumn fruits are distinctively three-winged."
+    },
+    "zh": {
+      "summary": "穿龙薯蓣（『鬼薯蓣』），杂木林林缘藤本多年生植物。叶心形，夏季垂下细长花序。雌雄异株，秋结三角形翼果。",
+      "habitat_hint": "杂木林林缘、河滩灌丛、住宅围栏、明亮斜坡、神社境内。",
+      "finding_tips": "六至八月寻找叶心形、抽细长下垂花序的藤本。秋季三角形翼果是辨识。"
+    }
+  },
+  "Carex breviculmis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオスゲ近縁の小型スゲ類。雑木林の林床や明るい斜面に生え、細長い葉を密に伸ばす常緑のスゲです。",
+      "habitat_hint": "雑木林の林床、明るい斜面、神社の境内、農地の縁、半日陰の草地。",
+      "finding_tips": "細長い緑の葉を密に伸ばす株から、細い花穂を立てる小型のスゲを探します。林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A small Carex relative of the Aoseuge. Found in forest understory and on bright slopes; slender leaves form dense evergreen tufts.",
+      "habitat_hint": "Forest understory, bright slopes, shrine grounds, field margins, and shaded grass.",
+      "finding_tips": "Look for small evergreen sedges with dense narrow leaves and slender flower spikes. Often forms ground-covering colonies."
+    },
+    "zh": {
+      "summary": "青绿薹草，与青笺薹草近缘的小型薹草。生于林床与明亮斜坡，细叶密生常绿。",
+      "habitat_hint": "杂木林林床、明亮斜坡、神社境内、田边、半阴草地。",
+      "finding_tips": "找细叶密生的小型常绿薹草，抽细花穗。常成片覆地。"
+    }
+  },
+  "Carex conica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメカンスゲ。雑木林の林床や谷沿いに生える常緑のスゲ類。葉が密に伸び、春先に黒い花穂を立てます。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、湿った林床、社寺林。",
+      "finding_tips": "3〜5月、細長い常緑の葉と、葉の中から立ち上がる黒っぽい花穂を持つ小型スゲを探します。"
+    },
+    "en": {
+      "summary": "A small evergreen sedge of forest understory and valley sides. Dense leaves; dark flower spikes appear in early spring.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, damp forest floor, and shrine groves.",
+      "finding_tips": "From March to May look for small evergreen sedges with dense leaves and dark flower spikes rising from the centre."
+    },
+    "zh": {
+      "summary": "锥囊薹草（『姬寒菅』），常绿小型薹草。生于林床与谷地林，叶密生，早春抽黑色花穗。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、潮湿林床、神社树林。",
+      "finding_tips": "三至五月找叶密生常绿、中央抽黑色花穗的小型薹草。"
+    }
   }
 }
