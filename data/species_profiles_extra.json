@@ -19062,5 +19062,185 @@
       "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
       "finding_tips": "五至十月（落叶）在潮湿林床与林缘寻找叶一回羽状、纤细的中小型蕨。叶柄基部细毛可助识别。"
     }
+  },
+  "Miscanthus sacchariflorus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オギ。河川敷に群生する大型の多年生イネ科。ススキに似ますが、より水分の多い場所に生え、穂は銀白色でススキより柔らかい印象。",
+      "habitat_hint": "河川敷、湿地、ため池の縁、湿った草地、河口の塩性湿地。",
+      "finding_tips": "9〜11月、河川敷の湿った場所でススキに似た大型イネ科で穂が銀白色のものを探します。ススキとの違いは生育環境と穂の柔らかさ。"
+    },
+    "en": {
+      "summary": "Amur Silvergrass. A large perennial grass forming colonies on riverbanks. Similar to Miscanthus sinensis but grows in wetter sites; silver-white inflorescence with a softer appearance.",
+      "habitat_hint": "Riverbanks, wetlands, pond edges, damp grasslands, and estuarine salt marshes.",
+      "finding_tips": "From September to November look on wet riverbanks for large grasses resembling Miscanthus sinensis but with silver-white softer-looking inflorescences. Habitat and inflorescence texture separate it from Miscanthus sinensis."
+    },
+    "zh": {
+      "summary": "荻。河滩成片生长的大型多年生禾本科。似芒，但生于更湿处，穗银白色比芒柔软。",
+      "habitat_hint": "河滩、湿地、池塘边、潮湿草地、河口盐沼。",
+      "finding_tips": "九至十一月在河滩潮湿处寻找似芒、穗银白色的大型禾本科。生境与穗的柔软度可与芒区分。"
+    }
+  },
+  "Enkianthus perulatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ドウダンツツジ。日本固有の落葉低木で、生垣や公園木として広く植栽。早春に白い壷状の小花を多数下垂させて咲かせ、秋には鮮やかな紅葉が美しい。",
+      "habitat_hint": "生垣、公園植栽、庭園、寺社境内、住宅地の植え込み。",
+      "finding_tips": "花期4〜5月、紅葉期11月。生垣や公園で枝先に白い壷状の小花が多数下垂する落葉低木を探します。秋の鮮紅色の紅葉も識別の手がかり。"
+    },
+    "en": {
+      "summary": "White Enkianthus. A Japan-endemic deciduous shrub widely planted as hedging and in parks. Many small white urn-shaped flowers hang from branch tips in early spring; brilliant red autumn colour.",
+      "habitat_hint": "Hedges, park plantings, gardens, temple/shrine grounds, and residential plantings.",
+      "finding_tips": "Flowers April-May; autumn colour November. Look in hedges and parks for deciduous shrubs with many small white urn-shaped flowers hanging from branch tips. Brilliant red autumn foliage also helps identify."
+    },
+    "zh": {
+      "summary": "灯台树（吊钟花）。日本固有落叶灌木，广作绿篱与公园栽植。早春枝端密生下垂白色壶形小花，秋季艳红叶色美丽。",
+      "habitat_hint": "绿篱、公园栽植、庭园、寺社境内、住宅区栽植。",
+      "finding_tips": "花期四至五月，红叶期十一月。在绿篱与公园寻找枝端密生下垂白色壶形小花的落叶灌木。秋季鲜红叶色可助识别。"
+    }
+  },
+  "Carpesium abrotanoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブタバコ。林縁や藪に生える二年〜多年草のキク科。大型の葉は基部が広く、初秋に黄色い小さな頭花を多数つけます。葉の形が煙草に似ることが和名の由来。",
+      "habitat_hint": "雑木林の林縁、藪、半日陰の道端、神社林、河畔林。",
+      "finding_tips": "8〜10月、林縁や藪で大型の根生葉と直立する茎、黄色い小さな頭花を多数つける二年〜多年草を探します。葉が煙草に似ているか確認。"
+    },
+    "en": {
+      "summary": "Common Carpesium. A biennial to perennial Asteraceae of forest edges and thickets. Large basal leaves with broad bases; many small yellow flower heads in early autumn. The Japanese name 'thicket-tobacco' compares the leaf to tobacco.",
+      "habitat_hint": "Secondary woodland edges, thickets, partly shaded roadsides, shrine groves, and riparian woods.",
+      "finding_tips": "From August to October look at forest edges and thickets for biennial-to-perennial herbs with large basal leaves, erect stems, and many small yellow flower heads. Check if the leaves resemble tobacco."
+    },
+    "zh": {
+      "summary": "天名精。林缘与灌丛的二至多年生菊科。基生叶大型、基部宽阔，初秋密生黄色小型头状花。叶似烟草是日文俗名由来。",
+      "habitat_hint": "杂木林林缘、灌丛、半阴路边、神社林、河岸林。",
+      "finding_tips": "八至十月在林缘与灌丛寻找具大型基生叶、直立茎、密生黄色小头状花的二至多年生草本。检查叶是否似烟草。"
+    }
+  },
+  "Gentiana scabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リンドウ。秋を代表する多年草のリンドウ科で、明るい草地や林縁に生えます。深い青紫色の鐘形〜筒形花が美しく、晴れた日に開きます。観賞用にも栽培される人気種。",
+      "habitat_hint": "明るい草地、山地の草原、林縁、土手、半日陰の斜面。",
+      "finding_tips": "9〜11月、明るい草地や林縁で深い青紫色の鐘形花を持つ多年草を探します。晴天に強く開き、曇りや雨では閉じます。葉は対生の披針形。"
+    },
+    "en": {
+      "summary": "Autumn Gentian. A Gentiana perennial typifying autumn, of bright grasslands and forest edges. Deep blue-purple bell to tube flowers; opens on sunny days. Also cultivated.",
+      "habitat_hint": "Bright grasslands, montane grasslands, forest edges, banks, and partly shaded slopes.",
+      "finding_tips": "From September to November look in bright grasslands and forest edges for perennials with deep blue-purple bell-shaped flowers. Flowers open in sun and close in cloud or rain. Opposite lanceolate leaves."
+    },
+    "zh": {
+      "summary": "龙胆。代表秋季的龙胆科多年草，生于明亮草地与林缘。具深蓝紫色钟至筒形花美丽，晴天开放。也作观赏栽培。",
+      "habitat_hint": "明亮草地、山地草原、林缘、堤岸、半阴斜坡。",
+      "finding_tips": "九至十一月在明亮草地与林缘寻找具深蓝紫色钟形花的多年草。晴天大开，阴雨闭合。叶对生披针形。"
+    }
+  },
+  "Mosla dianthera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメジソ。明るい林縁や草地、道端に生える一年草のシソ科で、ヤマジソに似ますがより小型で香りも弱め。秋に淡桃色の小さな唇形花を穂状に咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、道端、農地の縁、河川敷の草地。",
+      "finding_tips": "9〜10月、明るい林縁や道端で淡桃色の唇形花が穂状に並ぶ小型一年生シソ科を探します。ヤマジソより小型で香りが弱いのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Small Mosla. A small annual Lamiaceae of bright forest edges and roadsides, similar to Mosla scabra but smaller and less aromatic. Pale-pink small lipped flowers in spikes in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, roadsides, farmland margins, and riverside grasslands.",
+      "finding_tips": "From September to October look at bright forest edges and roadsides for small annual Lamiaceae with spikes of pale-pink lipped flowers. Smaller and less aromatic than Mosla scabra."
+    },
+    "zh": {
+      "summary": "小石荠苧。明亮林缘与路边的小型一年生唇形科，似石荠苧但更小、香气更弱。秋季穗状开淡粉色小型唇形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、路边、农田边缘、河滩草地。",
+      "finding_tips": "九至十月在明亮林缘与路边寻找具淡粉色唇形花穗的小型一年生唇形科。比石荠苧更小、香气弱可区分。"
+    }
+  },
+  "Viburnum erosum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コバノガマズミ。落葉低木で、林縁や明るい林床に生えます。葉が小さいことが和名「小葉」の由来。初夏に白い小花の散房花序、秋に赤い小球形果実が美しい。",
+      "habitat_hint": "雑木林の林縁、明るい林床、神社林、二次林、半日陰の斜面。",
+      "finding_tips": "花期5〜6月、果期9〜11月。林縁や明るい林床で小さな対生の葉と白い小花の散房花序を持つ落葉低木を探します。秋の赤い果実も識別ポイント。"
+    },
+    "en": {
+      "summary": "Beech-leaf Viburnum. A deciduous shrub of forest edges and bright forest floors. The Japanese name 'small-leaf' refers to the small leaves. White flat-topped flower clusters in early summer; red small globose fruits in autumn.",
+      "habitat_hint": "Secondary woodland edges, bright forest floors, shrine groves, secondary woods, and partly shaded slopes.",
+      "finding_tips": "Flowers May-June; fruits September-November. Look at forest edges and bright forest floors for deciduous shrubs with small opposite leaves and white flat-topped flower clusters. Red autumn fruits help identify."
+    },
+    "zh": {
+      "summary": "宜昌荚蒾（小叶荚蒾）。林缘与明亮林床的落叶灌木。叶小是日文俗名『小叶』由来。初夏开白色小花伞房花序，秋季红色小球形果美丽。",
+      "habitat_hint": "杂木林林缘、明亮林床、神社林、次生林、半阴斜坡。",
+      "finding_tips": "花期五至六月，果期九至十一月。在林缘与明亮林床寻找具小型对生叶、白色小花伞房花序的落叶灌木。秋季红色果实可助识别。"
+    }
+  },
+  "Alnus sieboldiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバヤシャブシ。落葉低木〜小高木で、河川敷や荒れ地、海岸近くに生えます。窒素固定能力があり、痩せ地の緑化に利用されます。葉は卵形で大型、雄花序は冬から春に下垂します。",
+      "habitat_hint": "河川敷、荒れ地、海岸近くの林、二次林、土手。",
+      "finding_tips": "花期3〜4月、果期通年。河川敷や荒れ地で大きな卵形の葉と、春に下垂する黄色〜紫色の雄花序を持つ落葉低木〜小高木を探します。"
+    },
+    "en": {
+      "summary": "Siebold's Alder. A deciduous shrub to small tree of riverbanks, wastelands, and coastal areas. Nitrogen-fixing; used for revegetating poor soils. Large ovate leaves; pendulous yellow-to-purple male catkins in spring.",
+      "habitat_hint": "Riverbanks, wastelands, coastal woods, secondary woods, and banks.",
+      "finding_tips": "Flowers March-April; fruits year-round. Look on riverbanks and wastelands for deciduous shrubs to small trees with large ovate leaves and pendulous yellow-to-purple male catkins in spring."
+    },
+    "zh": {
+      "summary": "大叶夜叉五倍子（西博尔德赤杨）。落叶灌木至小乔木，生于河滩、荒地与海岸近郊。具固氮能力，用于贫瘠地绿化。叶大型卵形，雄花序冬至春下垂。",
+      "habitat_hint": "河滩、荒地、海岸近郊林、次生林、堤岸。",
+      "finding_tips": "花期三至四月，果期全年。在河滩与荒地寻找具大型卵形叶、春季下垂黄至紫色雄花序的落叶灌木至小乔木。"
+    }
+  },
+  "Gambusia affinis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カダヤシ。北米原産の小型淡水魚で、蚊の幼虫（ボウフラ）駆除のため明治時代に導入された外来種。在来種のメダカと競合し、特定外来生物に指定されています。",
+      "habitat_hint": "水田、用水路、ため池、湿地、緩流の小川。",
+      "finding_tips": "通年、水田や用水路の浅い水域で群れで泳ぐ全長3〜4cmの小型魚を探します。メダカに似ますが背びれが体の中央寄りにあるのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Mosquitofish. A small North American freshwater fish introduced in the Meiji era for mosquito (larva) control. Competes with native medaka; designated 'Invasive Alien Species' in Japan.",
+      "habitat_hint": "Rice paddies, irrigation channels, ponds, wetlands, and slow streams.",
+      "finding_tips": "Year-round, look in shallow waters of paddies and channels for small fish (3-4 cm) in schools. Similar to medaka but with the dorsal fin set more centrally on the body."
+    },
+    "zh": {
+      "summary": "食蚊鱼。原产北美的小型淡水鱼，明治时代为控制蚊虫幼虫引入的外来种。与本土青鳉竞争，被列为『特定外来生物』。",
+      "habitat_hint": "水田、灌溉沟、池塘、湿地、缓流小溪。",
+      "finding_tips": "全年在水田与灌溉沟浅水寻找体长 3-4 厘米成群游动的小鱼。似青鳉但背鳍位于身体中央，可作区分。"
+    }
+  },
+  "Fejervarya kawamurai": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヌマガエル。水田や湿地に普通な小型〜中型のカエル。茶褐色〜黄褐色で、背中の中央に明瞭な薄い線があることが多い。鳴き声は「グィッ、グィッ」。",
+      "habitat_hint": "水田、湿地、ため池、用水路、河川敷の湿地。",
+      "finding_tips": "繁殖期5〜8月、水田や湿地周辺で茶褐色〜黄褐色の小型〜中型カエルを探します。背中の中央線が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Kawamura's Rice Frog. A common small-to-medium frog of paddies and wetlands. Brown to yellowish-brown, often with a distinct pale central dorsal stripe. Call is 'gwi, gwi'.",
+      "habitat_hint": "Rice paddies, wetlands, ponds, irrigation channels, and wet riverbanks.",
+      "finding_tips": "Breeding May-August. Look around paddies and wetlands for small to medium brown-yellow frogs. The pale central dorsal stripe helps identify."
+    },
+    "zh": {
+      "summary": "川村泽蛙。水田与湿地常见的中小型蛙。茶褐至黄褐色，背部中央常具清晰浅色纵纹。叫声『gwi, gwi』。",
+      "habitat_hint": "水田、湿地、池塘、灌溉沟、河滩湿地。",
+      "finding_tips": "繁殖期五至八月在水田与湿地周边寻找茶至黄褐色的中小型蛙。背部中央纵纹可助识别。"
+    }
+  },
+  "Vespula flaviceps": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロスズメバチ。小型のスズメバチで、地中に巣を作るのが特徴。幼虫は地方によっては「ヘボ」と呼ばれ、長野県などで珍味として食用にされます。",
+      "habitat_hint": "雑木林、林縁、農地、河川敷、住宅地の庭。",
+      "finding_tips": "5〜10月、地面の穴に出入りする小型の黒黄縞のスズメバチを探します。地中の巣に近づかないこと。長野県の郷土料理「ヘボめし」の材料として有名。"
+    },
+    "en": {
+      "summary": "Black-headed Yellowjacket. A small hornet that nests underground — its diagnostic feature. Larvae ('hebo') are eaten as a delicacy in Nagano and other prefectures.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, riverbanks, and residential gardens.",
+      "finding_tips": "From May to October look for small black-and-yellow hornets entering ground holes. Do not approach underground nests. Famous as ingredient in Nagano's 'hebo-meshi' regional dish."
+    },
+    "zh": {
+      "summary": "黑头黄胡蜂。小型胡蜂，在地下筑巢是关键特征。幼虫（『ヘボ』）在长野县等地作为珍味食用。",
+      "habitat_hint": "杂木林、林缘、农田、河滩、住宅区庭院。",
+      "finding_tips": "五至十月在地面寻找进出洞穴的小型黑黄条纹胡蜂。请勿靠近地下蜂巢。是长野县乡土料理『ヘボめし』的原料。"
+    }
   }
 }
