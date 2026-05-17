@@ -13662,5 +13662,185 @@
       "habitat_hint": "杂木林、河岸林、农田、明亮林缘、有灌木的草地。",
       "finding_tips": "全年（日本北部为夏候鸟）。寻找不击打树干、毛色褐色隐蔽的啄木鸟，也可能在地面蚁巢取食。颈如蛇般扭转是名字由来。"
     }
+  },
+  "Cleora leucophaea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロテンエダシャク。シャクガ科の中型ガで、灰白色の翅に小さな黒点がある。樹皮に止まると保護色になります。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "4〜10月、樹幹や葉裏で灰白色の翅を広げて止まる中型シャクガを探します。樹皮との対比が薄い保護色です。"
+    },
+    "en": {
+      "summary": "A medium geometrid moth, grey-white wings with small dark spots. Cryptic on tree bark.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential gardens, and shrine groves.",
+      "finding_tips": "From April to October look on tree trunks and the undersides of leaves for medium geometrids resting with wings spread, well-camouflaged against bark."
+    },
+    "zh": {
+      "summary": "白星尺蛾。中型尺蛾，翅灰白带小黑点。停于树皮上极具保护色。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "四至十月在树干与叶背寻找翅展灰白色的中型尺蛾。与树皮反差小。"
+    }
+  },
+  "Zapornia fusca": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒクイナ。湿地や水田に生息する小型のクイナ。「キョッ、キョッ」と特徴的に鳴く。茶褐色の体に長い赤い脚が目立ちます。",
+      "habitat_hint": "湿地、水田、ヨシ原、池沼、河川敷の湿地。",
+      "finding_tips": "5〜9月、湿地のヨシ原の縁で赤い長い脚を持つ茶色のクイナを探します。早朝・夕方に「キョッキョッ」と鳴く声で存在を知ります。"
+    },
+    "en": {
+      "summary": "Ruddy-breasted Crake. A small crake of wetlands and rice paddies. Distinctive 'kyo, kyo' call. Brown body with long bright red legs.",
+      "habitat_hint": "Wetlands, rice paddies, reed beds, ponds, and wet riverbanks.",
+      "finding_tips": "From May to September look at reedbed edges for small brown crakes with long red legs. The 'kyo-kyo' call at dawn and dusk often reveals its presence."
+    },
+    "zh": {
+      "summary": "红胸田鸡。栖于湿地与水田的小型秧鸡。叫声『kyo, kyo』有特色。棕褐色身体配长红色腿显眼。",
+      "habitat_hint": "湿地、水田、芦苇丛、池沼、河滩湿地。",
+      "finding_tips": "五至九月在芦苇边缘寻找腿长红色的棕色秧鸡。清晨与黄昏的『kyo-kyo』鸣声常用于发现。"
+    }
+  },
+  "Chrysaora pacifica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカクラゲ。傘に放射状の赤褐色の縞模様を持つ中型のクラゲ。長い触手に強い毒を持ち、刺されると激しく痛みます。",
+      "habitat_hint": "沿岸海域、港湾、河口、海岸近くの浅海。",
+      "finding_tips": "春〜夏に沿岸海域や港で見られます。赤褐色の縞模様を持つ傘と長い触手が目印。打ち上げられた個体にも触れないこと（刺胞に注意）。"
+    },
+    "en": {
+      "summary": "Japanese Sea Nettle. A medium jellyfish with radial red-brown stripes on the bell. Long tentacles deliver a painful sting.",
+      "habitat_hint": "Coastal waters, harbours, estuaries, and shallow nearshore.",
+      "finding_tips": "Seen spring to summer in coastal waters and harbours. Bell with red-brown radial stripes and long tentacles are diagnostic. Avoid even beached specimens — stinging cells remain active."
+    },
+    "zh": {
+      "summary": "太平洋金黄水母（红海月）。伞上具放射状红褐色条纹的中型水母。长触手具强毒，蜇刺剧痛。",
+      "habitat_hint": "沿岸海域、港湾、河口、近岸浅海。",
+      "finding_tips": "春至夏在沿岸与港湾可见。伞上红褐色放射条纹与长触手为关键识别。即使搁浅个体也勿触碰（刺细胞仍活跃）。"
+    }
+  },
+  "Erigeron canadensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメムカシヨモギ。北米原産の一年〜二年草で、空き地や河川敷、道端に広く帰化。秋に小さな白い頭花を多数つけます。",
+      "habitat_hint": "空き地、河川敷、道端、農地の縁、造成地。",
+      "finding_tips": "8〜10月、空き地で背が高く（〜1.5m）細い茎の先に小さな白い頭花を多数つける一年草を探します。葉は細く線形です。"
+    },
+    "en": {
+      "summary": "Canadian Horseweed. A North American annual to biennial widely naturalised on vacant lots, riverbanks, and roadsides. Numerous small white heads in autumn.",
+      "habitat_hint": "Vacant lots, riverbanks, roadsides, farmland margins, and construction sites.",
+      "finding_tips": "From August to October look on vacant lots for tall (up to ~1.5 m) annuals with slender stems topped by many small white heads. Linear, narrow leaves."
+    },
+    "zh": {
+      "summary": "小蓬草（加拿大蓬）。原产北美的一至二年生草本，在空地、河滩、路边广泛归化。秋季密生小白头状花。",
+      "habitat_hint": "空地、河滩、路边、农田边缘、工地。",
+      "finding_tips": "八至十月在空地寻找高约 1.5 米、细茎顶部密生小白头状花的一年草。叶细线形。"
+    }
+  },
+  "Scolopendra japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビズムカデ。日本産最大級のムカデで、頭部が赤褐色、体は黒緑色。咬まれると激しく痛みます。林床や倒木下に住みます。",
+      "habitat_hint": "雑木林の林床、倒木・石の下、落ち葉の中、住宅地の庭の物陰。",
+      "finding_tips": "4〜10月、湿った石や倒木をひっくり返して見つかります。咬傷に注意——直接触れないこと。頭部赤褐色＋体は黒緑色が特徴。"
+    },
+    "en": {
+      "summary": "Japanese Giant Centipede. One of Japan's largest centipedes; red-brown head, blackish-green body. Bite causes severe pain.",
+      "habitat_hint": "Secondary woodland floors, under fallen logs and stones, in leaf litter, and sheltered spots in residential gardens.",
+      "finding_tips": "From April to October found by turning damp stones and logs. Beware of bite — do not handle. Red-brown head with blackish-green body is diagnostic."
+    },
+    "zh": {
+      "summary": "日本巨蜈蚣。日本最大级蜈蚣，头部红褐色，体黑绿色。咬伤剧痛。栖于林床与倒木下。",
+      "habitat_hint": "杂木林林床、倒木与石下、枯叶层、住宅区庭院隐蔽处。",
+      "finding_tips": "四至十月翻动潮湿石块与倒木可见。注意咬伤——切勿徒手触摸。头部红褐色配黑绿色身体是关键特征。"
+    }
+  },
+  "Bromus japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズメノチャヒキ。一年〜二年草の中型イネ科で、空き地や河川敷、道端に普通。垂れ下がる繊細な円錐花序が美しい。",
+      "habitat_hint": "空き地、河川敷、道端、農地の縁、造成地。",
+      "finding_tips": "5〜7月、空き地や道端で垂れ下がる繊細な円錐花序を持つ一年生イネ科を探します。穂の枝が細く優雅に曲がります。"
+    },
+    "en": {
+      "summary": "Japanese Brome. A medium annual to biennial grass, common on vacant lots, riverbanks, and roadsides. Beautiful pendulous delicate panicles.",
+      "habitat_hint": "Vacant lots, riverbanks, roadsides, farmland margins, and construction sites.",
+      "finding_tips": "From May to July look on vacant lots and roadsides for annual grasses with delicate pendulous panicles. The slender branches curve elegantly."
+    },
+    "zh": {
+      "summary": "日本雀麦。一至二年生中型禾本科，空地、河滩、路边常见。下垂的纤细圆锥花序优美。",
+      "habitat_hint": "空地、河滩、路边、农田边缘、工地。",
+      "finding_tips": "五至七月在空地与路边寻找具下垂纤细圆锥花序的一年生禾本科。穗枝细长优雅弯曲。"
+    }
+  },
+  "Eragrostis minor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コスズメガヤ。一年生の小型イネ科で、舗装の隙間や空き地、道端に生えます。葉縁に粒状の腺があるのが特徴。",
+      "habitat_hint": "舗装の隙間、駐車場、道端、空き地、グラウンドの縁。",
+      "finding_tips": "7〜10月、舗装の隙間や乾燥した道端で小型の一年生イネ科を探します。葉縁に光沢のある粒状腺があるかチェック。"
+    },
+    "en": {
+      "summary": "Little Lovegrass. A small annual grass of pavement cracks, vacant lots, and roadsides. Distinctive granular glands along the leaf margin.",
+      "habitat_hint": "Pavement cracks, parking lots, roadsides, vacant lots, and athletic field edges.",
+      "finding_tips": "From July to October look in pavement cracks and dry roadsides for small annual grasses. Check leaf margins for shiny granular glands."
+    },
+    "zh": {
+      "summary": "小画眉草。一年生小型禾本科，常见于路面缝、空地、路边。叶缘具粒状腺体是关键特征。",
+      "habitat_hint": "路面缝、停车场、路边、空地、操场边。",
+      "finding_tips": "七至十月在路面缝与干燥路边寻找小型一年生禾本科。检查叶缘是否具有光泽的粒状腺体。"
+    }
+  },
+  "Vicia hirsuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズメノエンドウ。早春から初夏に小さな白〜淡紫色の花を咲かせる一年草。豆果に毛があり「毛のあるカラスノエンドウ」の意の学名。",
+      "habitat_hint": "草地、道端、河川敷、農地の縁、空き地。",
+      "finding_tips": "4〜6月、草地や道端で小さな白〜淡紫色の蝶形花を3〜4個ずつまとめてつける細い蔓性の一年草を探します。スズメノエンドウは特に小型。"
+    },
+    "en": {
+      "summary": "Hairy Vetch. An annual producing small white-to-pale-purple flowers from early spring to early summer. The species name 'hirsuta' refers to the hairy pods.",
+      "habitat_hint": "Grasslands, roadsides, riverbanks, farmland margins, and vacant lots.",
+      "finding_tips": "From April to June look in grasslands and roadsides for slender annual vines with small white-to-pale-purple pea-flowers in groups of 3-4. Smallest of the common vetches."
+    },
+    "zh": {
+      "summary": "小巢菜。早春至初夏开小白至淡紫蝶形花的一年生草本。荚果具毛，种加词『hirsuta』即指此。",
+      "habitat_hint": "草地、路边、河滩、农田边缘、空地。",
+      "finding_tips": "四至六月在草地与路边寻找具 3-4 朵小白至淡紫蝶形花的纤细蔓生一年草。在常见野豌豆中最小。"
+    }
+  },
+  "Viola philippica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スミレ（一般に「スミレ」と呼ばれる代表種）。早春〜春に紫色の花を地面近くに咲かせる多年草。スミレの中で最も普通な野生種の一つ。",
+      "habitat_hint": "道端、芝地、草地、土手、林縁、農地の縁。",
+      "finding_tips": "3〜5月、草地や道端で長い葉柄を持つ細長いへら形の葉と濃紫色の距のある花を持つ多年草を探します。代表的なスミレです。"
+    },
+    "en": {
+      "summary": "Philippine Violet (Common Violet). The most familiar wild violet. Produces deep-purple spurred flowers near the ground in early spring.",
+      "habitat_hint": "Roadsides, lawns, grasslands, banks, forest edges, and farmland margins.",
+      "finding_tips": "From March to May look in grasslands and roadsides for perennials with long-petioled narrow spatulate leaves and deep-purple spurred flowers. The archetypal violet."
+    },
+    "zh": {
+      "summary": "紫花地丁。早春至春开紫色花、贴地生长的多年草。是最常见的野生堇菜之一。",
+      "habitat_hint": "路边、草坪、草地、堤岸、林缘、农田边缘。",
+      "finding_tips": "三至五月在草地与路边寻找具长叶柄披针匙形叶、深紫色具距花的多年草。最具代表性的堇菜种。"
+    }
+  },
+  "Dryopteris mituii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマワラビモドキ。湿った林床に生える中型〜大型の常緑シダ。クマワラビに似ますが、葉の質感がやや薄く、より湿った場所を好みます。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で大型の常緑シダを探します。クマワラビとの判別は専門書を参照。"
+    },
+    "en": {
+      "summary": "Mitsui's Wood Fern. A medium-large evergreen fern of damp forest floors. Similar to Dryopteris lacera but with slightly thinner texture and preference for wetter sites.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for large evergreen wood ferns. Identification from related species requires keys."
+    },
+    "zh": {
+      "summary": "光叶鳞毛蕨近缘种。潮湿林床中至大型常绿蕨。形似裂叶鳞毛蕨但叶质略薄、偏好更湿地点。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找大型常绿鳞毛蕨。与近缘种的区分需查检索表。"
+    }
   }
 }
