@@ -10332,5 +10332,167 @@
       "habitat_hint": "河滩、田边、空地、住宅围栏、杂草地。",
       "finding_tips": "四至六月找具反向小刺、能粘衣物的植物。叶轮生 6–8 枚是辨识要点。"
     }
+  },
+  "Pteridium aquilinum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワラビ。明るい斜面や草地に生える大型のシダ。春の若芽は山菜として親しまれますが、生のままでは発がん性物質を含むためアク抜きが必須です。",
+      "habitat_hint": "明るい斜面、河川敷、伐採跡地、山地の草地、休耕田。",
+      "finding_tips": "春、地面から渦巻き状の若芽が出る場所を探します。**生食は危険。** 食用には十分なアク抜きが必要です。"
+    },
+    "en": {
+      "summary": "Bracken. A large fern of bright slopes and grasslands. Its spring fiddleheads are a foraging staple — but require thorough leaching, as raw bracken contains carcinogens.",
+      "habitat_hint": "Bright slopes, riverbanks, clearings, mountain meadows, and fallow fields.",
+      "finding_tips": "In spring look for coiled fiddleheads emerging from open ground. **Never eat raw — proper leaching is essential before consumption.**"
+    },
+    "zh": {
+      "summary": "蕨菜，明亮斜坡与草地的大型蕨。春嫩芽是常见山菜，但生食含致癌物，需充分焯水脱涩。",
+      "habitat_hint": "明亮斜坡、河滩、伐木迹地、山地草地、休耕田。",
+      "finding_tips": "春季在开阔地找卷曲嫩芽。**禁生食**，食用前必须充分焯水去毒。"
+    }
+  },
+  "Sicyos angulatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アレチウリ。北米原産の特定外来生物に指定されたウリ科のつる植物。河川敷で他の植物を覆い尽くす被害が深刻です。",
+      "habitat_hint": "河川敷、空き地、農地の縁、放棄された農地、湿った草地。",
+      "finding_tips": "夏〜秋、河川敷で他の植物を覆い尽くす大型のつるを探します。葉は浅く5裂したカエデ状で、白い小花が集まります。**特定外来生物、駆除対象。**"
+    },
+    "en": {
+      "summary": "Bur Cucumber, a North-American gourd vine designated as an Invasive Alien Species in Japan. Smothers other vegetation on riverbanks.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, abandoned farmland, and damp meadows.",
+      "finding_tips": "In summer and autumn watch riverbanks for a vigorous vine that drapes over other plants. Five-lobed maple-like leaves with clusters of small white flowers. **Recognised invasive — do not transplant.**"
+    },
+    "zh": {
+      "summary": "刺果瓜，北美原产，被日本列为特定外来生物。在河滩可覆盖压死其他植物。",
+      "habitat_hint": "河滩、空地、田边、撂荒农地、潮湿草地。",
+      "finding_tips": "夏秋在河滩寻找覆盖其他植物的大型藤本。叶 5 裂似槭，小白花聚生。**特定外来生物，禁止运移。**"
+    }
+  },
+  "Henosepilachna vigintioctopunctata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニジュウヤホシテントウ。赤褐色の体に28個の黒い斑点を持つ大型のテントウムシ。**ナス科植物の害虫として知られる植食性のテントウで、葉に網目状の食痕を残します。**",
+      "habitat_hint": "農地（ナス・ジャガイモ畑）、家庭菜園、河川敷、雑草地。",
+      "finding_tips": "ナスやジャガイモの葉に網目状の食痕があれば、葉裏や茎で本種を探します。28個の黒い斑が目印です。"
+    },
+    "en": {
+      "summary": "28-spotted Potato Ladybird. A large reddish-brown ladybird with 28 black spots. **Unlike most ladybirds, herbivorous — a notable pest of Solanaceae (eggplant, potato), leaving lacy feeding traces.**",
+      "habitat_hint": "Farmland (eggplant and potato fields), kitchen gardens, riverbanks, and weedy ground.",
+      "finding_tips": "If eggplant or potato leaves show lacy feeding traces, check undersides for a red ladybird with 28 black spots."
+    },
+    "zh": {
+      "summary": "茄二十八星瓢虫，红褐色配 28 个黑斑的大型瓢虫。**植食性，是茄科作物（茄子、马铃薯）害虫，叶上留下网状食痕。**",
+      "habitat_hint": "农田（茄、马铃薯地）、家庭菜园、河滩、杂草地。",
+      "finding_tips": "茄或马铃薯叶有网状食痕时翻看叶背找红底带 28 黑斑的瓢虫。"
+    }
+  },
+  "Oxalis dillenii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オッタチカタバミ。北米原産の外来種のカタバミで、地面を這う他種と異なり茎が直立するのが特徴です。黄色い5弁花を咲かせます。",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、舗装の隙間、芝生の縁。",
+      "finding_tips": "4〜10月、地面から立ち上がる茎と、その先に三葉のクローバー型葉と黄色い5弁花を持つ植物を探します。他のカタバミより明らかに茎が直立します。"
+    },
+    "en": {
+      "summary": "Slender Yellow Wood Sorrel, a North-American introduced wood sorrel. Unlike the related creeping species, its stems stand upright. Yellow five-petalled flowers.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, pavement cracks, and lawn edges.",
+      "finding_tips": "From April to October look for an upright wood sorrel — stems clearly more erect than the creeping Oxalis corniculata. Trifoliate leaves and yellow flowers."
+    },
+    "zh": {
+      "summary": "直立酢浆草，北美原产外来。与匍匐型不同，茎直立。开黄色五瓣花。",
+      "habitat_hint": "菜园、河滩、空地、田边、铺装缝、草坪边。",
+      "finding_tips": "四至十月找茎明显直立的酢浆草。三出叶配黄色五瓣花。"
+    }
+  },
+  "Picris japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コウゾリナ。茎全体に剛毛があり、ざらざらした手触りの在来種キク科。夏〜秋に黄色いタンポポに似た頭花を多数立てます。",
+      "habitat_hint": "明るい草地、河川敷、農地の縁、明るい斜面、神社の境内。",
+      "finding_tips": "7〜10月、茎に「ざらつき」のある毛が密集する大型の植物を探します。タンポポに似た黄色い頭花を多数つけます。茎に触れた時のざらざらした手触りで識別。"
+    },
+    "en": {
+      "summary": "Japanese Hawkweed Picris. A native composite whose entire stem feels rough due to dense bristles. Many yellow dandelion-like flower heads in summer and autumn.",
+      "habitat_hint": "Bright meadows, riverbanks, field margins, bright slopes, and shrine grounds.",
+      "finding_tips": "From July to October look for tall plants with stems coated in dense rough bristles. Many yellow dandelion-like heads; the bristly stem confirms ID by touch."
+    },
+    "zh": {
+      "summary": "日本毛连菜，全茎被刚毛、手感粗糙的本土菊科。夏秋抽许多类蒲公英黄色头花。",
+      "habitat_hint": "明亮草地、河滩、田边、明亮斜坡、神社境内。",
+      "finding_tips": "七至十月找茎密被粗毛、手感粗糙的高大植物。开许多黄色类蒲公英头花，触茎即可确认。"
+    }
+  },
+  "Cocculus orbiculatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオツヅラフジ。雑木林の林縁に普通のつる性落葉植物。秋に黒紫色の実を多数つけ、その姿は美しいですが**有毒**。葉と実は薬用にもなります。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、神社の境内、明るい斜面。",
+      "finding_tips": "秋、葉腋に下向きにつく黒紫色〜青黒色の球状果実を持つつる植物を探します。葉は対生する卵形〜楕円形。**実は有毒なので食べないこと。**"
+    },
+    "en": {
+      "summary": "Queen Coralbead. A common deciduous vine of woodland edges. In autumn its many bluish-black berries are visually striking but **toxic**. Used medicinally in traditional practice.",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, shrine grounds, and bright slopes.",
+      "finding_tips": "In autumn look for vines with clusters of bluish-black hanging berries. Opposite oval leaves. **Berries are toxic — do not eat.**"
+    },
+    "zh": {
+      "summary": "木防己，杂木林林缘常见的落叶藤本。秋季垂挂黑紫色球形果，外观漂亮但**有毒**。叶与果传统药用。",
+      "habitat_hint": "杂木林林缘、河滩灌丛、住宅围栏、神社境内、明亮斜坡。",
+      "finding_tips": "秋季寻找下垂黑紫色球形果的藤本。叶对生卵形或椭圆形。**果有毒，请勿食用。**"
+    }
+  },
+  "Cyperus flavidus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アゼガヤツリ。湿地や水田の畦に普通の中型カヤツリグサ。茎の先に黄褐色の小穂が散房状に広がる花序をつけます。",
+      "habitat_hint": "水田、湿地、河川敷、用水路の縁、湿った草地。",
+      "finding_tips": "8〜10月、湿った場所で茎の頂部に黄褐色の小穂を散房状につけるカヤツリグサを探します。茎は三角形で、葉は線形です。"
+    },
+    "en": {
+      "summary": "A medium sedge of wetlands and paddy levees. Yellow-brown spikelets at the stem tip form a flat-topped inflorescence.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, ditch margins, and damp meadows.",
+      "finding_tips": "From August to October look in damp places for sedges with yellow-brown spikelets in flat-topped clusters. Triangular stems and linear leaves."
+    },
+    "zh": {
+      "summary": "黄色莎草，湿地与稻田田埂常见的中型莎草。茎顶集生黄褐色小穗于伞房状花序。",
+      "habitat_hint": "水田、湿地、河滩、灌渠边、潮湿草地。",
+      "finding_tips": "八至十月在潮湿处找茎顶集黄褐色小穗的莎草。茎三棱形、叶线形。"
+    }
+  },
+  "Pleioblastus argenteostriatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササクサ近縁の小型のササ類。雑木林の林床や林縁に群生し、葉に縦の白い縞模様があるものもあります（園芸品種）。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、明るい斜面、半日陰の草地。",
+      "finding_tips": "雑木林の林床や林縁で、地面から1m以下の細い竹（笹）を探します。葉に白い縦縞があれば「シマササ」型の園芸品種です。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (sasa) of mixed woodland understory. Cultivars with white-striped leaves are widely planted; the wild form is plain green.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, bright slopes, and half-shaded grass.",
+      "finding_tips": "In woodland understory look for short bamboo (under 1 m). White-striped leaves indicate the ornamental cultivar."
+    },
+    "zh": {
+      "summary": "矮竹（条纹竹近缘），杂木林林床的小型箬竹。野生型为单色绿，园艺品种叶具白色纵纹。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、明亮斜坡、半阴草地。",
+      "finding_tips": "在林下找 1 m 以下的小型竹。叶具白色纵纹是园艺『斑叶竹』。"
+    }
+  },
+  "Dioscorea japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマノイモ（自然薯）。在来種のつる性多年草で、葉腋にできるムカゴ（茎の節につく小さな球）と地下の長いイモが食用に。本種は山菜として親しまれます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、明るい斜面、農地の縁。",
+      "finding_tips": "心形〜矢じり形の葉と、夏〜秋に葉腋に小さなムカゴ（茶色〜黒褐色の球）をつけるつる植物を探します。秋にムカゴが熟して落ち、地下のイモは「自然薯」として山菜です。"
+    },
+    "en": {
+      "summary": "Japanese Yam (jinenjo). A native vining perennial. Both the bulbils ('mukago') in the leaf axils and the underground tuber are foraged staples.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, bright slopes, and field margins.",
+      "finding_tips": "Look for a vine with heart-to-arrowhead leaves bearing small brown-to-blackish bulbils in the leaf axils in late summer and autumn. The underground tuber ('jinenjo') is a celebrated mountain vegetable."
+    },
+    "zh": {
+      "summary": "日本薯蓣（自然薯），本土多年生攀缘植物。叶腋的珠芽（『ムカゴ』）与地下长块茎都可食，是著名山菜。",
+      "habitat_hint": "杂木林林缘、河滩灌丛、神社境内、明亮斜坡、田边。",
+      "finding_tips": "找叶心形或戟形、夏秋叶腋有褐至黑色珠芽的藤本。地下长块茎『自然薯』是名贵山菜。"
+    }
   }
 }
