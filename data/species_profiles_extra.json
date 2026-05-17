@@ -22140,5 +22140,185 @@
       "habitat_hint": "空地、河滩、街道、农田边缘、工地、住宅区野化。",
       "finding_tips": "全年在空地与街道寻找具大型羽状复叶（揉碎有独特气味）的大型落叶树。果实为翅果风传。"
     }
+  },
+  "Potanthus flava": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キマダラセセリ（別綴り）。橙黄色の翅に黒い斑紋がある小型のセセリチョウ。林縁や草地で素早く飛び、花で吸蜜します。Potanthus flavus と同種または極めて近縁。",
+      "habitat_hint": "草地、林縁、公園の花壇、農地、河川敷の草地。",
+      "finding_tips": "5〜10月、草地や林縁で橙黄色に黒斑のある小型セセリチョウを探します。花で吸蜜中は観察しやすい。"
+    },
+    "en": {
+      "summary": "Tropic Dart (alternate spelling). A small skipper with orange-yellow wings bearing black markings. Flies rapidly at forest edges and grasslands; nectars on flowers. Same as or very close to Potanthus flavus.",
+      "habitat_hint": "Grasslands, forest edges, park flower beds, farmland, and riverside grasslands.",
+      "finding_tips": "From May to October look in grasslands and forest edges for small orange-yellow-and-black skippers. Easier to observe while nectaring."
+    },
+    "zh": {
+      "summary": "黄翅弄蝶（异体写法）。橙黄色翅具黑斑的小型弄蝶。在林缘与草地快速飞行，访花吸蜜。与 Potanthus flavus 同种或极近缘。",
+      "habitat_hint": "草地、林缘、公园花坛、农田、河滩草地。",
+      "finding_tips": "五至十月在草地与林缘寻找橙黄色配黑斑的小型弄蝶。访花时易观察。"
+    }
+  },
+  "Idesia polycarpa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イイギリ。落葉高木で、山地や雑木林に生えます。葉は大型で心形、雌株は秋〜冬に赤い小球形果実が房状に多数実るのが美しい。鳥がよく食べに集まります。",
+      "habitat_hint": "山地、雑木林、林縁、神社林、河畔林、公園植栽。",
+      "finding_tips": "花期4〜5月、果期10〜2月。大きな心形の葉と、雌株では秋〜冬の赤い房状の球形果実を持つ落葉高木を探します。"
+    },
+    "en": {
+      "summary": "Iigiri Tree. A deciduous tree of mountains and secondary woodlands. Large heart-shaped leaves; female trees bear beautiful clusters of red small globose fruits autumn through winter. Birds gather to feed.",
+      "habitat_hint": "Mountains, secondary woodlands, forest edges, shrine groves, riparian woods, and park plantings.",
+      "finding_tips": "Flowers April-May; fruits October-February. Look for deciduous trees with large heart-shaped leaves; female trees with red clustered globose fruits in autumn-winter."
+    },
+    "zh": {
+      "summary": "山桐子。落叶乔木，生于山地与杂木林。叶大型心形，雌株秋至冬结红色小球形果实成簇美丽。常吸引鸟类取食。",
+      "habitat_hint": "山地、杂木林、林缘、神社林、河岸林、公园栽植。",
+      "finding_tips": "花期四至五月，果期十至二月。寻找具大型心形叶、雌株秋至冬结红色成簇球形果的落叶乔木。"
+    }
+  },
+  "Lilium formosanum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タカサゴユリ。台湾原産の大型多年草のユリ科で、観賞用に導入され帰化。夏〜秋に純白の大きな筒状花を横向きに咲かせ、テッポウユリに似ますが花期が遅く、葉が細い。",
+      "habitat_hint": "庭園、河川敷、空き地、道端、農地の縁、住宅地の野生化。",
+      "finding_tips": "7〜10月、河川敷や空き地で純白の大きな筒状花を横向きに咲かせる大型多年草を探します。テッポウユリより細い葉と遅い花期で識別。"
+    },
+    "en": {
+      "summary": "Formosa Lily. A large Taiwanese-origin perennial Liliaceae introduced as an ornamental and naturalised. Large pure-white horizontal tubular flowers from summer to autumn; similar to Easter Lily but flowers later and has narrower leaves.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, roadsides, farmland margins, and residential naturalised areas.",
+      "finding_tips": "From July to October look on riverbanks and vacant lots for large perennials with pure-white horizontal tubular flowers. Narrower leaves and later flowering distinguish it from Easter Lily."
+    },
+    "zh": {
+      "summary": "台湾百合。原产台湾的大型百合科多年草，作观赏引入后归化。夏秋水平开纯白色大型筒形花，似铁炮百合但花期更晚、叶更细。",
+      "habitat_hint": "庭园、河滩、空地、路边、农田边缘、住宅区野化。",
+      "finding_tips": "七至十月在河滩与空地寻找水平开放纯白色大型筒形花的大型多年草。叶更细、花期更晚与铁炮百合区分。"
+    }
+  },
+  "Spiranthes sinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネジバナ。芝地や草地に普通な小型多年草のラン科で、花序が螺旋状（ねじれた形）に並ぶことが和名の由来。淡桃色の小さな花が穂状に並びます。一般的に見られる野生ラン。",
+      "habitat_hint": "芝地、草地、土手、河川敷の草地、神社の境内。",
+      "finding_tips": "6〜8月、芝地や草地で淡桃色の小花が螺旋状に並ぶ小型ランを探します。螺旋の方向（右巻き／左巻き）が個体によって異なります。"
+    },
+    "en": {
+      "summary": "Lady's Tresses. A small perennial Orchidaceae common on lawns and grasslands. The inflorescence spirals like a twisted screw — the source of the Japanese name 'twist-flower'. Pale-pink small flowers in spikes. A commonly seen wild orchid.",
+      "habitat_hint": "Lawns, grasslands, banks, riverside grasslands, and shrine grounds.",
+      "finding_tips": "From June to August look on lawns and grasslands for small orchids with pale-pink flowers arranged in spirals. The spiral direction (left or right) varies by individual."
+    },
+    "zh": {
+      "summary": "绶草。草坪与草地常见的小型兰科多年草。花序螺旋状（如拧绳）排列是日文俗名『扭转花』由来。淡粉色小花穗状。是常见的野生兰花。",
+      "habitat_hint": "草坪、草地、堤岸、河滩草地、神社境内。",
+      "finding_tips": "六至八月在草坪与草地寻找具淡粉色小花螺旋状排列的小型兰。螺旋方向（左旋或右旋）因个体而异。"
+    }
+  },
+  "Rana ornativentris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマアカガエル。日本固有種で、山地の谷地田や湿地周辺に生息する中型のアカガエル。背中の中央線が湾曲することがニホンアカガエルとの識別ポイント。早春に繁殖。",
+      "habitat_hint": "山地の谷地田、雑木林の林床、湿地、ため池、河畔林。",
+      "finding_tips": "繁殖期2〜4月（早春）、山地の湿地や谷地田で「キャラララ…」と鳴く中型のアカガエルを探します。背中の中央線の湾曲がニホンアカガエルとの識別ポイント。"
+    },
+    "en": {
+      "summary": "Montane Brown Frog. A Japan-endemic medium brown frog of montane valley paddies and wetlands. Distinguished from Japanese Brown Frog by the curved (not straight) central dorsal line. Breeds in early spring.",
+      "habitat_hint": "Montane valley paddies, secondary woodland floors, wetlands, ponds, and riparian woods.",
+      "finding_tips": "Breeding February-April (early spring). Listen in montane wetlands and valley paddies for medium brown frogs with 'kararara...' calls. Curved dorsal line distinguishes from Japanese Brown Frog."
+    },
+    "zh": {
+      "summary": "山林蛙。日本固有种，栖于山地谷地水田与湿地周边的中型林蛙。背部中央纵纹弯曲与日本林蛙区分。早春繁殖。",
+      "habitat_hint": "山地谷地水田、杂木林林床、湿地、池塘、河岸林。",
+      "finding_tips": "繁殖期二至四月（早春）在山地湿地与谷地水田聆听『kararara...』鸣声的中型林蛙。背部中央纵纹弯曲与日本林蛙区分。"
+    }
+  },
+  "Astilbe microphylla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チダケサシ。日本固有の多年草のユキノシタ科で、明るい林縁や草地、湿った斜面に生えます。夏に淡桃色〜白の小花が円錐花序にまとめて咲きます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、湿った斜面、神社林、土手。",
+      "finding_tips": "6〜8月、明るい林縁や草地で淡桃色〜白の小花の円錐花序を持つ多年草を探します。アカショウマに似ますが小型で花は淡桃色。"
+    },
+    "en": {
+      "summary": "Small-leaved Astilbe. A Japan-endemic perennial Saxifragaceae of bright forest edges, grasslands, and moist slopes. Many small pale-pink to white flowers in panicles in summer.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, moist slopes, shrine groves, and banks.",
+      "finding_tips": "From June to August look at bright forest edges and grasslands for perennials with pale-pink to white panicles. Smaller than Thunberg's Astilbe with pale-pink flowers."
+    },
+    "zh": {
+      "summary": "小叶落新妇。日本固有的虎耳草科多年草，生于明亮林缘、草地与湿润斜坡。夏季密生淡粉至白色小花圆锥花序。",
+      "habitat_hint": "明亮杂木林林缘、草地、湿润斜坡、神社林、堤岸。",
+      "finding_tips": "六至八月在明亮林缘与草地寻找具淡粉至白色圆锥花序的多年草。比落新妇小，花淡粉色。"
+    }
+  },
+  "Megachile sculpturalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオハキリバチ。日本最大級のハキリバチで、葉を切り取って巣材にする独特の習性を持ちます。雌は腹部下面に花粉を運ぶ毛があります。",
+      "habitat_hint": "雑木林、林縁、農地、公園、住宅地の庭、神社林。",
+      "finding_tips": "5〜9月、林縁や農地、庭で葉に半円形の切れ込み（巣材として持ち去った跡）を見たら、近くで日本最大級のハキリバチを探します。"
+    },
+    "en": {
+      "summary": "Sculptured Leafcutter Bee. One of Japan's largest leafcutter bees, distinctively cutting leaves to use as nesting material. Females have pollen-carrying hairs on the underside of the abdomen.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, parks, residential gardens, and shrine groves.",
+      "finding_tips": "From May to September if you see semicircular cuts on leaves (where the bee took nest material), look nearby for one of Japan's largest leafcutter bees."
+    },
+    "zh": {
+      "summary": "雕刻切叶蜂。日本最大级切叶蜂之一，独特习性是切叶作巢材。雌性腹下具携带花粉的毛。",
+      "habitat_hint": "杂木林、林缘、农田、公园、住宅区庭院、神社林。",
+      "finding_tips": "五至九月若见叶上半圆形缺刻（被切作巢材），可在附近寻找日本最大级切叶蜂。"
+    }
+  },
+  "Mansoniella cinnamomi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クスベニヒラタカスミカメ。クスノキの葉を吸う小型のカスミカメで、赤い斑紋を持ちます。近年クスノキの街路樹や公園木で大発生し問題化しています。",
+      "habitat_hint": "クスノキのある街路、公園、神社林、住宅地の庭、植物園。",
+      "finding_tips": "5〜10月、クスノキの葉や若枝で赤い斑紋を持つ小型カスミカメを探します。被害葉は黄色く変色するので目印になります。"
+    },
+    "en": {
+      "summary": "Camphor Red Mirid. A small mirid bug with red markings sucking juices from camphor tree leaves. Recently caused outbreaks on camphor street trees and park trees, becoming a concern.",
+      "habitat_hint": "Streets, parks, shrine groves, residential gardens, and botanical gardens with camphor trees.",
+      "finding_tips": "From May to October look on camphor tree leaves and shoots for small mirid bugs with red markings. Damaged leaves turn yellow — a useful clue."
+    },
+    "zh": {
+      "summary": "樟红盲蝽。吸食樟树叶汁的小型盲蝽，具红色斑纹。近年在樟树行道树与公园木上爆发成问题。",
+      "habitat_hint": "种樟树的街道、公园、神社林、住宅区庭院、植物园。",
+      "finding_tips": "五至十月在樟树叶与嫩枝寻找具红斑的小型盲蝽。受害叶变黄是线索。"
+    }
+  },
+  "Vespa dybowskii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャイロスズメバチ。中型のスズメバチで、頭部・胸部が茶褐色なのが和名の由来。他のスズメバチの巣に侵入して女王を殺し、巣を乗っ取る「社会的寄生」をすることで知られます。",
+      "habitat_hint": "雑木林、林縁、山地、神社林、河畔林。",
+      "finding_tips": "5〜10月、雑木林や林縁で頭部・胸部が茶褐色の中型スズメバチを探します。営巣せず他種の巣を乗っ取る独特の生態。"
+    },
+    "en": {
+      "summary": "Brown Hornet. A medium hornet with brown head and thorax — the source of the Japanese name 'brown hornet'. Famous as a 'social parasite' — invades nests of other hornets, kills the queen, and takes over the colony.",
+      "habitat_hint": "Secondary woodlands, forest edges, mountains, shrine groves, and riparian woods.",
+      "finding_tips": "From May to October look in secondary woodlands and forest edges for medium hornets with brown head and thorax. Distinctive ecology — does not nest independently but takes over nests of other hornets."
+    },
+    "zh": {
+      "summary": "茶色胡蜂。中型胡蜂，头胸茶褐色是日文俗名由来。著名以『社会寄生』方式入侵其他胡蜂巢并杀死蜂后接管巢穴。",
+      "habitat_hint": "杂木林、林缘、山地、神社林、河岸林。",
+      "finding_tips": "五至十月在杂木林与林缘寻找头胸茶褐色的中型胡蜂。生态独特，不自筑巢而是接管他种巢穴。"
+    }
+  },
+  "Conocephalus chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスイロササキリ。小型のキリギリス科で、淡褐色〜淡緑色の体色を持ちます。草地や河川敷に生息し、夜に「シリシリ…」と高い音色で鳴きます。",
+      "habitat_hint": "草地、河川敷の草地、湿地、農地の縁、林縁。",
+      "finding_tips": "8〜10月、夜に草地や河川敷で淡褐色〜淡緑色の小型キリギリスが「シリシリ…」と鳴く声を探します。"
+    },
+    "en": {
+      "summary": "Chinese Conehead Katydid. A small katydid with pale-brown to pale-green coloration. Lives in grasslands and on riverbanks; sings 'shiri-shiri...' with a high tone at night.",
+      "habitat_hint": "Grasslands, riverside grasslands, wetlands, farmland margins, and forest edges.",
+      "finding_tips": "From August to October at night listen in grasslands and riverbanks for small pale-brown to pale-green katydids singing 'shiri-shiri...'."
+    },
+    "zh": {
+      "summary": "中华锥头螽。小型螽斯科，体淡褐至淡绿色。栖于草地与河滩，夜间发出『shiri-shiri...』高音鸣声。",
+      "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
+      "finding_tips": "八至十月夜间在草地与河滩聆听淡褐至淡绿色小型螽斯『shiri-shiri...』鸣声。"
+    }
   }
 }
