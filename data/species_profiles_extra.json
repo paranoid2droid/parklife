@@ -20160,5 +20160,185 @@
       "habitat_hint": "池塘、湿地、灌溉沟、缓流小溪、河滩湿地。",
       "finding_tips": "全年在池塘与湿地寻找叶羽状细裂、青绿色伸出水面的水生植物。除清除外切勿移动。"
     }
+  },
+  "Leucoagaricus rubrotinctus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカジコウキヌカラカサタケ。庭園や公園、林床に発生する中型のキノコ。傘表面に独特の赤褐色の鱗片があり、白い襞を持ちます。食毒不明のため食用にしないこと。",
+      "habitat_hint": "雑木林の林床、公園、庭園、神社林、住宅地の腐植土。",
+      "finding_tips": "夏〜秋、林床や庭園で傘表面に赤褐色の鱗片がある中型キノコを探します。食毒不明のため絶対に食用にしないこと。"
+    },
+    "en": {
+      "summary": "Reddish-tinged Lepiota. A medium mushroom of gardens, parks, and forest floors. Distinctive reddish-brown scales on the cap surface; white gills. Edibility unclear — do not eat.",
+      "habitat_hint": "Secondary woodland floors, parks, gardens, shrine groves, and residential humus.",
+      "finding_tips": "From summer to autumn look on forest floors and in gardens for medium mushrooms with reddish-brown scales on the cap. Edibility unclear — never eat."
+    },
+    "zh": {
+      "summary": "红色环柄菇。生于庭园、公园与林床的中型菇。菌盖表面具独特的红褐色鳞片，菌褶白色。食毒不明，切勿食用。",
+      "habitat_hint": "杂木林林床、公园、庭园、神社林、住宅区腐殖土。",
+      "finding_tips": "夏至秋在林床与庭园寻找菌盖表面具红褐色鳞片的中型菇。食毒不明，切勿食用。"
+    }
+  },
+  "Polygonum aviculare": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミチヤナギ。道端や畑、空き地に這うように広がる小型一年草のタデ科。葉は線形〜披針形で柳葉のような形、葉腋に小さな白〜淡桃色の花をつけます。",
+      "habitat_hint": "道端、畑、空き地、舗装の隙間、農地の縁、河川敷。",
+      "finding_tips": "5〜10月、道端や畑で柳葉のような線形〜披針形の葉と葉腋の小さな白〜淡桃色の花を持つ匍匐性一年草を探します。"
+    },
+    "en": {
+      "summary": "Knotgrass. A small annual buckwheat-family plant creeping in roadsides, fields, and vacant lots. Linear-lanceolate willow-like leaves; small white to pale-pink flowers in leaf axils.",
+      "habitat_hint": "Roadsides, fields, vacant lots, pavement cracks, farmland margins, and riverbanks.",
+      "finding_tips": "From May to October look on roadsides and in fields for creeping annuals with linear-lanceolate willow-like leaves and small white to pale-pink flowers in leaf axils."
+    },
+    "zh": {
+      "summary": "萹蓄。路边、菜地与空地匍匐生长的小型一年生蓼科。叶线形至披针形似柳叶，叶腋开白至淡粉色小花。",
+      "habitat_hint": "路边、菜地、空地、路面缝、农田边缘、河滩。",
+      "finding_tips": "五至十月在路边与菜地寻找具线形至披针形（似柳叶）叶、叶腋开白至淡粉小花的匍匐一年草。"
+    }
+  },
+  "Lindernia dubia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカアゼナ。北米原産の小型一年草のアゼナ科で、水田や湿地に帰化。在来のアゼナに似ますが、葉縁に鋸歯があるのが識別の決め手。",
+      "habitat_hint": "水田、湿地、用水路、休耕田、河川敷の湿地。",
+      "finding_tips": "7〜10月、水田や湿地で在来のアゼナに似ますが葉縁に明瞭な鋸歯のある一年草を探します。在来種を圧迫する帰化種。"
+    },
+    "en": {
+      "summary": "False Pimpernel (American). A small North American annual Linderniaceae naturalised in paddies and wetlands. Similar to native Lindernia procumbens but with serrated leaf margins — diagnostic.",
+      "habitat_hint": "Rice paddies, wetlands, irrigation channels, fallow paddies, and wet riverbanks.",
+      "finding_tips": "From July to October look in paddies and wetlands for annuals resembling native False Pimpernel but with serrated leaf margins. Outcompetes native species."
+    },
+    "zh": {
+      "summary": "美洲母草。原产北美的小型一年生母草科，归化于水田与湿地。似本土母草但叶缘具锯齿是关键识别。",
+      "habitat_hint": "水田、湿地、灌溉沟、休耕田、河滩湿地。",
+      "finding_tips": "七至十月在水田与湿地寻找似本土母草但叶缘具明显锯齿的一年草。挤压本土种。"
+    }
+  },
+  "Schoenoplectus triqueter": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サンカクイ。湿地や水辺に生える多年生のカヤツリグサ科。茎が三角形（断面）であることが和名「三角藺」の由来。茎の途中側面に小穂をつけます。",
+      "habitat_hint": "湿地、水田、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "6〜9月、湿地や水辺で三角形の断面を持つ茎と、茎の側面に小穂をつける多年生草本を探します。茎を触って三角形か確認するのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Triangular Bulrush. A perennial sedge of wetlands and waterside. Triangular stem cross-section — the source of the Japanese name 'three-cornered rush'. Spikelets emerge from the side of the stem.",
+      "habitat_hint": "Wetlands, rice paddies, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From June to September look in wetlands and waterside for perennials with triangular-cross-section stems and spikelets on the stem side. Feel the stem to confirm the triangular shape."
+    },
+    "zh": {
+      "summary": "三棱水葱。湿地与水边的多年生莎草科。茎横截面三角形是日文俗名『三角藺』由来。小穗着生于茎侧面。",
+      "habitat_hint": "湿地、水田、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "六至九月在湿地与水边寻找具三角形横截面茎、茎侧面着生小穗的多年草。触茎确认三角形为识别要点。"
+    }
+  },
+  "Lenzites styracinus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ロウタケ。広葉樹の倒木や朽木に発生する硬質のサルノコシカケ型キノコ。傘の裏面に放射状の襞があるのが特徴で、襞型多孔菌の代表。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木、薪置場。",
+      "finding_tips": "通年、広葉樹の倒木や朽木で傘の裏面に放射状の襞がある硬いサルノコシカケを探します。多孔菌の中で襞型の珍しい一群。"
+    },
+    "en": {
+      "summary": "A hard polypore on broadleaf fallen logs and rotting wood, with distinctive radiating gill-like undersides — a 'gilled polypore'.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, fallen logs in shrine groves, rotting wood in riparian forests, and wood piles.",
+      "finding_tips": "Year-round, look on broadleaf fallen logs and rotting wood for hard polypores with radiating gill-like undersides — an unusual group among polypores."
+    },
+    "zh": {
+      "summary": "栎多孔菌。生于阔叶倒木与朽木的硬质多孔菌。菌盖背面具放射状褶为特征，是褶型多孔菌代表。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木、柴堆。",
+      "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖背面具放射状褶的硬质多孔菌。在多孔菌中褶型属罕见类群。"
+    }
+  },
+  "Oplismenus burmanni": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コチヂミザサ。雑木林の林床や林縁に這うように広がる一年〜多年生イネ科。葉は細長く波打ち、穂は片側に偏った形。",
+      "habitat_hint": "雑木林の林床、林縁、谷地林、神社林、河畔林。",
+      "finding_tips": "8〜10月、雑木林の林床で這うように広がり、細長い波打つ葉と片側に偏った穂を持つイネ科を探します。"
+    },
+    "en": {
+      "summary": "Burman's Basketgrass. An annual to perennial grass creeping on secondary woodland floors and edges. Slender wavy leaves; one-sided inflorescence.",
+      "habitat_hint": "Secondary woodland floors, forest edges, valley woods, shrine groves, and riparian woods.",
+      "finding_tips": "From August to October look on woodland floors for grasses creeping with slender wavy leaves and one-sided inflorescences."
+    },
+    "zh": {
+      "summary": "求米草（缅甸求米草）。杂木林林床与林缘匍匐生长的一至多年生禾本科。叶细长波状，穗向一侧偏。",
+      "habitat_hint": "杂木林林床、林缘、谷地林、神社林、河岸林。",
+      "finding_tips": "八至十月在杂木林林床寻找匍匐生长、具细长波状叶与单侧穗的禾本科。"
+    }
+  },
+  "Erigeron sumatrensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオアレチノギク。南米原産の大型一年〜二年草で、空き地や河川敷、農地に帰化。ヒメムカシヨモギに似ますが、より大型で全体に灰緑色を帯びます。",
+      "habitat_hint": "空き地、河川敷、農地の縁、道端、造成地。",
+      "finding_tips": "7〜11月、空き地や河川敷で背が高い（1〜2m）灰緑色の大型一年〜二年草を探します。ヒメムカシヨモギより大型で、花序が枝先に密集。"
+    },
+    "en": {
+      "summary": "Tropical Horseweed. A large South American annual to biennial widely naturalised on vacant lots, riverbanks, and farmland. Similar to Canadian horseweed but larger and greyish-green throughout.",
+      "habitat_hint": "Vacant lots, riverbanks, farmland margins, roadsides, and construction sites.",
+      "finding_tips": "From July to November look on vacant lots and riverbanks for tall (1-2 m) greyish-green large annuals to biennials. Larger than Canadian horseweed with flower clusters denser at branch tips."
+    },
+    "zh": {
+      "summary": "苏门白酒草。原产南美的大型一至二年生草本，广泛归化于空地、河滩与农田。似小蓬草但更大、全株偏灰绿色。",
+      "habitat_hint": "空地、河滩、农田边缘、路边、工地。",
+      "finding_tips": "七至十一月在空地与河滩寻找高 1-2 米、灰绿色的大型一至二年草。比小蓬草更大，花序在枝端更密集。"
+    }
+  },
+  "Festuca rubra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオウシノケグサ。欧州〜北米由来の多年生イネ科で、芝草として広く利用されます。匍匐性で、繊細な葉と細長い穂を持ちます。",
+      "habitat_hint": "芝地、運動場、グラウンド、公園、道端、河川敷。",
+      "finding_tips": "5〜7月、芝地や運動場で匍匐茎で広がる多年生イネ科を探します。繊細な細い葉と細長い穂が手がかり。"
+    },
+    "en": {
+      "summary": "Red Fescue. A Eurasian/North American perennial grass widely used as turf. Creeping; delicate leaves; slender inflorescences.",
+      "habitat_hint": "Lawns, sports fields, athletic grounds, parks, roadsides, and riverbanks.",
+      "finding_tips": "From May to July look on lawns and sports fields for perennial grasses spreading by stolons. Delicate slender leaves and elongated inflorescences help confirm."
+    },
+    "zh": {
+      "summary": "紫羊茅。原产欧亚至北美的多年生禾本科，广作草坪草。匍匐性，叶纤细，穗细长。",
+      "habitat_hint": "草坪、运动场、操场、公园、路边、河滩。",
+      "finding_tips": "五至七月在草坪与运动场寻找靠匍匐茎扩散的多年生禾本科。叶纤细、穗细长可助识别。"
+    }
+  },
+  "Valerianella locusta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノヂシャ。欧州原産の小型一年〜二年草で、空き地や畑、農地に帰化。早春にロゼット状の葉から立ち上がる細い茎の先に淡青〜白の小さな花が密集して咲きます。葉は食用にされます。",
+      "habitat_hint": "空き地、畑、農地の縁、道端、河川敷の草地。",
+      "finding_tips": "4〜6月、空き地や畑でロゼット状の葉と細い茎の先に淡青〜白の小さな花序を持つ小型一年〜二年草を探します。葉はサラダとして食用に。"
+    },
+    "en": {
+      "summary": "Common Cornsalad. A small European-origin annual to biennial naturalised on vacant lots, fields, and farmland. In early spring rosette leaves give rise to slender stems with terminal clusters of pale-blue to white small flowers. Leaves edible as salad.",
+      "habitat_hint": "Vacant lots, fields, farmland margins, roadsides, and riverside grasslands.",
+      "finding_tips": "From April to June look on vacant lots and in fields for small annuals to biennials with basal rosettes and slender stems ending in clusters of pale-blue to white small flowers. Salad green."
+    },
+    "zh": {
+      "summary": "野苣（玉米苣）。原产欧洲的小型一至二年生草本，归化于空地、菜地与农田。早春基生莲座叶抽出细茎，茎端密生淡蓝至白色小花序。叶可作沙拉食用。",
+      "habitat_hint": "空地、菜地、农田边缘、路边、河滩草地。",
+      "finding_tips": "四至六月在空地与菜地寻找具基生莲座叶、细茎顶端密生淡蓝至白色小花序的小型一至二年草。叶可作沙拉。"
+    }
+  },
+  "Euphorbia sieboldiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナツトウダイ。明るい林縁や草地、海岸近くに生える多年草のトウダイグサ科。夏に独特の杯状花序を散形に咲かせ、茎を折ると白い乳液が出ます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、海岸近くの草地、河川敷の草地。",
+      "finding_tips": "5〜7月、明るい林縁や草地で杯状の花序を散形に咲かせる多年草を探します。茎を折ると白い乳液が出ます（皮膚刺激に注意）。"
+    },
+    "en": {
+      "summary": "Siebold's Spurge. A perennial Euphorbiaceae of bright forest edges, grasslands, and coastal areas. Distinctive cyathia (cup-shaped inflorescences) in umbel-like clusters in summer; snapped stems exude white latex.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, coastal grasslands, and riverside grasslands.",
+      "finding_tips": "From May to July look at bright forest edges and grasslands for perennials with cyathia in umbel-like clusters. Stems exude white latex when snapped (skin irritant — handle carefully)."
+    },
+    "zh": {
+      "summary": "夏大戟。明亮林缘、草地与海岸近郊的多年生大戟科。夏季伞形排列独特杯状花序，茎折断流白色乳液。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、海岸草地、河滩草地。",
+      "finding_tips": "五至七月在明亮林缘与草地寻找具伞形排列杯状花序的多年草。茎折断流白色乳液（注意皮肤刺激）。"
+    }
   }
 }
