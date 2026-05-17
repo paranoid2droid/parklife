@@ -12276,5 +12276,167 @@
       "habitat_hint": "杂木林林床、明亮斜坡、神社境内、神社树林、半阴草地。",
       "finding_tips": "五至六月在林床与明亮斜坡找叶密生、抽细花穗的中型薹草。"
     }
+  },
+  "Triadica sebifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナンキンハゼ。中国原産の外来種の落葉樹で、秋の鮮やかな紅葉と、冬に裂開して白いロウ質の種子が露出する独特の果実が美しい。街路樹として広く植栽されています。",
+      "habitat_hint": "街路樹、公園、神社の境内、河川敷、住宅地の植え込み。",
+      "finding_tips": "葉は菱形で先がとがり、秋に鮮やかな黄〜赤色に紅葉します。冬の裂開した果実から覗く白い種子が独特で目立ちます。"
+    },
+    "en": {
+      "summary": "Chinese Tallow. A Chinese-origin introduced deciduous tree. Vivid autumn foliage and distinctive winter capsules that split open to expose waxy white seeds. Widely planted as a street tree.",
+      "habitat_hint": "Street trees, parks, shrine grounds, riverbanks, and residential plantings.",
+      "finding_tips": "Diamond-shaped pointed leaves; brilliant yellow-to-red autumn colour. Winter capsules split to expose unusual white waxy seeds."
+    },
+    "zh": {
+      "summary": "乌桕（中国原产，日文俗名『南京黑兹』），外来落叶树。秋叶鲜艳，冬季蒴果开裂露白色蜡质种子。常作行道树。",
+      "habitat_hint": "行道树、公园、神社境内、河滩、住宅区植被。",
+      "finding_tips": "叶菱形先尖，秋季鲜艳黄红。冬季蒴果开裂露白色蜡质种子独特。"
+    }
+  },
+  "Lotus japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミヤコグサ。在来種のマメ科で、地面近くに黄色い蝶形花を多数咲かせます。植物学の研究用モデル植物としても重要です。",
+      "habitat_hint": "河川敷、明るい斜面、農地の縁、芝生、海岸近くの草地。",
+      "finding_tips": "4〜10月、地面に這う細い茎と、黄色い蝶形の小花を散房状に咲かせる植物を探します。3枚の小葉が掌状につきます。"
+    },
+    "en": {
+      "summary": "Lotus japonicus. A small native legume with yellow pea-flowers near the ground. Notable as a model organism in plant science.",
+      "habitat_hint": "Riverbanks, bright slopes, field margins, lawns, and coastal grasslands.",
+      "finding_tips": "From April to October look low for plants with creeping stems and yellow pea-flowers in small clusters. Three palmate leaflets."
+    },
+    "zh": {
+      "summary": "百脉根（日本百脉根），本土豆科。匍匐茎、贴地黄色蝶形小花。是植物学研究的模式生物。",
+      "habitat_hint": "河滩、明亮斜坡、田边、草坪、近海草地。",
+      "finding_tips": "四至十月低头找匍匐茎、贴地开黄色蝶形小花的植物。掌状 3 小叶。"
+    }
+  },
+  "Coix lacryma-jobi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジュズダマ。湿った場所に生える大型のイネ科で、硬く光沢のある実が「数珠玉」として古くから装飾品に使われてきました。",
+      "habitat_hint": "河川敷、湿った草地、田の畦、農地の縁、湿地。",
+      "finding_tips": "9〜10月、湿った場所で大型のイネ科を探し、節々に硬く光沢のある球形の実（白〜灰色）を見つけます。実は子供の遊びや工芸品にも使われます。"
+    },
+    "en": {
+      "summary": "Job's Tears. A large grass of damp ground with hard glossy bead-like fruits — long used for decorative beads (the source of the Japanese name 'rosary-bead').",
+      "habitat_hint": "Riverbanks, damp meadows, paddy levees, field margins, and wetlands.",
+      "finding_tips": "From September to October look in damp ground for large grasses with shiny grey-white bead-like fruits along the stems. Children traditionally string them as beads."
+    },
+    "zh": {
+      "summary": "薏苡（『数珠玉』），湿地大型禾本科。果实硬而有光泽，自古作念珠等饰品材料。",
+      "habitat_hint": "河滩、潮湿草地、田埂、田边、湿地。",
+      "finding_tips": "九至十月在潮湿处找大型禾本科，茎节具白灰色珠状硬果。可串作饰品。"
+    }
+  },
+  "Glycine max": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダイズ。日本の食文化に欠かせない作物（味噌・醤油・豆腐・納豆の原料）。畑で栽培されますが、河川敷や農地の周辺で野生化することもあります。",
+      "habitat_hint": "農地（特に大豆畑）、家庭菜園、河川敷の周辺、農地の縁。",
+      "finding_tips": "7〜10月、3枚の小葉と紫色〜白色の小さな蝶形花、後に細長い緑色の鞘（さや）を持つ植物を探します。野生個体は「ノダイズ」と呼ばれます。"
+    },
+    "en": {
+      "summary": "Soybean, indispensable to Japanese food culture (miso, soy sauce, tofu, natto). Grown in fields; sometimes naturalised near farmland.",
+      "habitat_hint": "Farmland (especially soybean fields), kitchen gardens, around riverbanks, and field margins.",
+      "finding_tips": "From July to October look for plants with three leaflets, small purple-to-white pea-flowers, and long green pods. Naturalised plants are called 'no-daizu' (wild soybean)."
+    },
+    "zh": {
+      "summary": "大豆，日本饮食文化不可或缺（味噌、酱油、豆腐、纳豆）。多栽培于农田，亦在河滩与田边野化。",
+      "habitat_hint": "农田（尤其大豆地）、家庭菜园、河滩周边、田边。",
+      "finding_tips": "七至十月找三出叶配紫至白色蝶形小花、后结细长绿色荚果的植物。野化个体称『野大豆』。"
+    }
+  },
+  "Trichaptum biforme": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハカワラタケ。倒木や枯れ枝に層をなしてつく薄い扇形の硬いキノコ。傘表面は灰白色〜淡褐色で、傘裏が紫色を帯びるのが特徴です。",
+      "habitat_hint": "雑木林の倒木、枯れ枝、立ち枯れ広葉樹、神社の古木。",
+      "finding_tips": "倒木の表面に薄い扇形〜半円形の灰白色〜淡褐色のキノコが層をなしてつく場所を探します。傘の裏面が淡紫色になるのが本種の識別点です。"
+    },
+    "en": {
+      "summary": "Violet-toothed Polypore. A thin tough fan-shaped polypore that grows in shelves on dead wood. Cap is grey-white-to-tan; the underside has a distinctive violet tinge.",
+      "habitat_hint": "Logs, dead branches, standing dead broadleaf trees, and ancient shrine trees.",
+      "finding_tips": "On logs look for thin tiered fan-shaped pale brackets. Check the underside — a violet tinge confirms this species over similar polypores."
+    },
+    "zh": {
+      "summary": "二色革盖菌（紫齿多孔菌），薄扇形硬质多孔菌，常成层生于朽木。盖灰白至淡褐色，盖背具淡紫色调是辨识。",
+      "habitat_hint": "杂木林倒木、枯枝、立枯阔叶树、神社古树。",
+      "finding_tips": "在朽木上找成层的薄扇形浅色硬菌。翻看盖背呈淡紫色即可与近似种区分。"
+    }
+  },
+  "Lolium arundinaceum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニウシノケグサ。ヨーロッパ原産の外来種の大型イネ科で、牧草・緑化として広く播かれます。河川敷や農地で野生化し、人の背丈に育つこともあります。",
+      "habitat_hint": "河川敷、農地の縁、土手、空き地、明るい斜面。",
+      "finding_tips": "5〜7月、人の背丈ほどに育つ大型のイネ科で、太く長い花序を立てる植物を探します。葉も幅広く、群生します。"
+    },
+    "en": {
+      "summary": "Tall Fescue, a European introduced grass widely sown for forage and revegetation. Often naturalised on riverbanks; can reach human height.",
+      "habitat_hint": "Riverbanks, field margins, levees, vacant lots, and bright slopes.",
+      "finding_tips": "From May to July look for tall grasses (often head-high) with thick long flower spikes. Wide leaves; often colonial."
+    },
+    "zh": {
+      "summary": "苇状羊茅，欧洲原产外来大型禾本科，广作牧草与绿化。在河滩野化，可达人高。",
+      "habitat_hint": "河滩、田边、堤岸、空地、明亮斜坡。",
+      "finding_tips": "五至七月找人高、抽粗长花序的大型禾本科。叶宽，常成片。"
+    }
+  },
+  "Staphylea japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツバウツギ。3枚の小葉が掌状につく落葉低木。初夏に白い花が円錐状に集まり、秋には風船のように膨らんだ果実をつけます。果実の形がユニークで観察の楽しみがあります。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の境内、明るい斜面、社寺林。",
+      "finding_tips": "5〜6月、3枚の小葉と白い小花の円錐花序を持つ低木を探します。秋〜冬に膨らんだ独特の風船状の果実が目印になります。"
+    },
+    "zh": {
+      "summary": "省沽油（『三叶空木』），落叶灌木。掌状 3 小叶。初夏开圆锥状白色花序，秋季结独特的气球形果实。",
+      "habitat_hint": "杂木林林缘、谷地林、神社境内、明亮斜坡、神社树林。",
+      "finding_tips": "五至六月找掌状 3 小叶配白色圆锥状花序的灌木。秋冬独特气球形果可作辨识。"
+    },
+    "en": {
+      "summary": "Japanese Bladdernut. A deciduous shrub with palmately trifoliate leaves. Conical white flower clusters in early summer; autumn fruits inflate like balloons — distinctive at a glance.",
+      "habitat_hint": "Woodland edges, valley woods, shrine grounds, bright slopes, and shrine groves.",
+      "finding_tips": "From May to June look for shrubs with trifoliate leaves and conical white flower clusters. Inflated bladder-like autumn fruits are unmistakable."
+    }
+  },
+  "Lapsanastrum humile": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブタビラコ。雑木林の林縁や半日陰の草地に生える小型の在来種キク科。春に黄色いタンポポに似た小型の頭花を多数咲かせます。",
+      "habitat_hint": "雑木林の林縁、神社の境内、半日陰の草地、農地の縁、湿った草地。",
+      "finding_tips": "4〜6月、半日陰の場所で地面のロゼットから細い茎を立て、黄色いタンポポ状の小型頭花を多数つける植物を探します。"
+    },
+    "en": {
+      "summary": "A small native composite of woodland edges and half-shaded meadows. Many small yellow dandelion-like flower heads in spring.",
+      "habitat_hint": "Woodland edges, shrine grounds, half-shaded meadows, field margins, and damp meadows.",
+      "finding_tips": "From April to June look in half-shade for plants with basal rosettes and thin stems carrying many small yellow dandelion-like heads."
+    },
+    "zh": {
+      "summary": "薮田平子（小型本土菊科），生于林缘与半阴草地。春季抽细茎，开许多类蒲公英黄色小型头花。",
+      "habitat_hint": "杂木林林缘、神社境内、半阴草地、田边、潮湿草地。",
+      "finding_tips": "四至六月在半阴处找莲座基生、抽细茎开许多黄色小头花的植物。"
+    }
+  },
+  "Pseudaeolesthes chrysothrix": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キマダラカミキリ（Aeolesthes近縁）。黒い体に金色の毛が密集して斑紋を作る大型のカミキリムシ。サクラなどを食樹とし、夜の街灯に飛来します。",
+      "habitat_hint": "サクラ・クヌギなどの広葉樹林、果樹園、神社の境内、夜の街灯。",
+      "finding_tips": "夜、街灯に集まる大型のカミキリを探します。金色の毛による独特の斑模様が遠目にも目立ちます。"
+    },
+    "en": {
+      "summary": "A large longhorn beetle whose body is decorated with patches of golden hair (closely related to Aeolesthes). Larvae use cherry and oak; comes to lights at night.",
+      "habitat_hint": "Cherry and oak woodland, orchards, shrine grounds, and around streetlights at night.",
+      "finding_tips": "At night search streetlights for a large longhorn beetle. The patches of gold hair are striking even at a distance."
+    },
+    "zh": {
+      "summary": "金黄毛天牛（Pseudaeolesthes 属），大型天牛，体被金色毛形成独特斑。幼虫食樱花和栎类，成虫趋光。",
+      "habitat_hint": "樱花栎类阔叶林、果园、神社境内、夜灯下。",
+      "finding_tips": "夜里在路灯下找大型天牛。金色毛斑远观即显眼。"
+    }
   }
 }
