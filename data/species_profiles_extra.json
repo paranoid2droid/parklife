@@ -17262,5 +17262,185 @@
       "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
       "finding_tips": "花期八至十月，果期十至十一月。在林缘与灌丛寻找具三出叶、淡黄色蝶形花的蔓生植物。紫色果实与青黑色种子是秋季景观。"
     }
+  },
+  "Maruca vitrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マメノメイガ。マメ科植物の花や莢を食害する小型のメイガ。翅は褐色で白い斑紋があります。世界中に分布する害虫。",
+      "habitat_hint": "畑、家庭菜園、農地、河川敷のマメ科植物、住宅地の庭。",
+      "finding_tips": "6〜10月、マメ科植物（特にダイズ、ササゲ、フジなど）の花や若い莢に幼虫が潜入します。成虫は夜間に活動。"
+    },
+    "en": {
+      "summary": "Bean Pod Borer. A small pyralid moth whose caterpillars bore into flowers and pods of legumes. Brown wings with white markings. A globally distributed pest.",
+      "habitat_hint": "Vegetable fields, home gardens, farmland, legumes on riverbanks, and residential gardens.",
+      "finding_tips": "From June to October larvae bore into flowers and young pods of legumes (soybean, cowpea, wisteria, etc.). Adults active at night."
+    },
+    "zh": {
+      "summary": "豆荚螟。幼虫蛀食豆科花与豆荚的小型螟蛾。翅褐色具白色斑纹。全球分布害虫。",
+      "habitat_hint": "菜地、家庭菜园、农田、河滩豆科植物、住宅区庭院。",
+      "finding_tips": "六至十月幼虫钻入豆科（大豆、豇豆、紫藤等）的花与嫩荚。成虫夜间活动。"
+    }
+  },
+  "Ebrechtella tricuspidata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハナグモ。花の上で待ち伏せして虫を捕える小型のカニグモ。緑色〜白色で、花の色に合わせて体色を変えることもあります。",
+      "habitat_hint": "草地、林縁、農地、公園の花壇、河川敷の花のある場所。",
+      "finding_tips": "4〜10月、花の上で待ち伏せする緑色〜白色の小さなクモを探します。花を訪れる虫を捕えるため、花に化けるように待ちます。"
+    },
+    "en": {
+      "summary": "Tricuspid Crab Spider. A small crab spider that ambushes insects from flowers. Green to white; can adjust body colour to match the flower.",
+      "habitat_hint": "Grasslands, forest edges, farmland, park flower beds, and flowering areas on riverbanks.",
+      "finding_tips": "From April to October look on flowers for small green-to-white spiders waiting in ambush. Camouflaged to catch visiting insects."
+    },
+    "zh": {
+      "summary": "三突花蛛。在花上伏击昆虫的小型蟹蛛。绿至白色，可随花色调节体色。",
+      "habitat_hint": "草地、林缘、农田、公园花坛、河滩花丛。",
+      "finding_tips": "四至十月在花上寻找绿至白色伏伺的小蜘蛛。拟态花色，捕食访花昆虫。"
+    }
+  },
+  "Dermatoxenus caesicollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメシロコブゾウムシ。中型のゾウムシで、灰白色の鱗片に覆われた上翅にコブ状の隆起があります。樹幹や葉上で見つかります。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、河畔林。",
+      "finding_tips": "5〜9月、雑木林の樹幹や葉上で灰白色の中型ゾウムシを探します。上翅のコブ状隆起と長い吻が識別の決め手。"
+    },
+    "en": {
+      "summary": "Small White-knobbed Weevil. A medium weevil covered in greyish-white scales with knob-like ridges on the elytra. Found on tree trunks and foliage.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential gardens, and riparian woods.",
+      "finding_tips": "From May to September look on tree trunks and foliage for medium greyish-white weevils. Knobs on elytra and long snout are diagnostic."
+    },
+    "zh": {
+      "summary": "小白瘤象。中型象甲，鞘翅覆灰白色鳞片并具瘤状突起。常见于树干与叶上。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、河岸林。",
+      "finding_tips": "五至九月在杂木林树干与叶上寻找灰白色中型象甲。鞘翅瘤状突起与长吻是关键识别。"
+    }
+  },
+  "Aelia fieberi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウズラカメムシ。淡褐色の地に黒い斑点と縞模様があり、鶉（ウズラ）の羽のような独特の模様が和名の由来。イネ科の穂を吸います。",
+      "habitat_hint": "草地、河川敷、農地、麦畑、芝地。",
+      "finding_tips": "5〜10月、イネ科の穂の周辺で淡褐色の地にウズラの羽のような斑点模様を持つ中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Quail Stink Bug. A pale-brown stink bug with distinctive black spots and stripes resembling quail plumage — the source of the Japanese name. Sucks juices from grass spikes.",
+      "habitat_hint": "Grasslands, riverbanks, farmland, wheat fields, and lawns.",
+      "finding_tips": "From May to October look around grass spikes for medium stink bugs with pale-brown bodies bearing quail-like spotted patterns."
+    },
+    "zh": {
+      "summary": "蜡黄盾椿（鹌鹑椿）。淡褐底配黑色斑点与条纹，独特纹路似鹌鹑羽毛是日文俗名由来。吸食禾本科穗。",
+      "habitat_hint": "草地、河滩、农田、麦田、草坪。",
+      "finding_tips": "五至十月在禾本科穗周边寻找淡褐底具鹌鹑羽状斑纹的中型椿象。"
+    }
+  },
+  "Ceriagrion melanurum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キイトトンボ。鮮やかな黄色の体を持つ小型のイトトンボ。腹端は黒色。湿地や水生植物のある池畔で見られます。",
+      "habitat_hint": "湿地、ため池、水田、ヨシ原、公園の池畔。",
+      "finding_tips": "5〜9月、湿地や池畔で全身鮮やかな黄色のイトトンボを探します。腹端の黒色も識別ポイント。"
+    },
+    "en": {
+      "summary": "Black-tailed Yellow Damselfly. A small damselfly with a brilliant yellow body and black abdomen tip. Found in wetlands and pond margins with aquatic plants.",
+      "habitat_hint": "Wetlands, ponds, rice paddies, reedbeds, and park pond margins.",
+      "finding_tips": "From May to September look in wetlands and pond margins for damselflies with brilliant yellow body and black abdomen tip."
+    },
+    "zh": {
+      "summary": "黄蟌。鲜艳黄色身体的小型蟌，腹端黑色。常见于湿地与具水生植物的池畔。",
+      "habitat_hint": "湿地、池塘、水田、芦苇丛、公园池畔。",
+      "finding_tips": "五至九月在湿地与池畔寻找全身鲜艳黄色、腹端黑色的蟌。"
+    }
+  },
+  "Sieboldius albardae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コオニヤンマ。オニヤンマに似ますが、サナエトンボ科の別属で、より小型（体長7〜8cm）。河川の中下流域や池で見られ、腹端の側面に突起があります。",
+      "habitat_hint": "河川の中下流、湖沼、ため池、ゆるやかな流れ。",
+      "finding_tips": "6〜9月、河川や池で黒地に黄色い縞模様のヤンマ型のトンボを探します。オニヤンマよりやや小型で、腹端の突起が手がかり。"
+    },
+    "en": {
+      "summary": "False Golden-ringed Dragonfly. Resembles the Golden-ringed Dragonfly but is in a different family (Gomphidae) and smaller (7-8 cm). Found in mid- to lower-reach rivers and ponds, with appendages on the abdomen tip.",
+      "habitat_hint": "Mid- to lower-reach rivers, lakes, ponds, and slow flows.",
+      "finding_tips": "From June to September look in rivers and ponds for hawker-like dragonflies in black with yellow bands. Smaller than true Golden-ringed; check for abdomen tip appendages."
+    },
+    "zh": {
+      "summary": "棘角春蜓（小无霸）。形似无霸勾蜓但属春蜓科，更小（体长 7-8 厘米）。常见于河流中下游与池塘，腹端两侧具突起。",
+      "habitat_hint": "河流中下游、湖沼、池塘、缓流。",
+      "finding_tips": "六至九月在河流与池塘寻找黑底黄条纹的蜓形蜻蜓。比无霸勾蜓略小，腹端突起是关键线索。"
+    }
+  },
+  "Falco peregrinus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハヤブサ。世界最速の動物の一つで、急降下時に時速300km以上に達します。海岸の崖や都市の高層ビルで繁殖し、空中で他の鳥を捕えます。",
+      "habitat_hint": "海岸の崖、内陸の岩壁、都市の高層ビル、河口、上空。",
+      "finding_tips": "通年、海岸の崖や都市の高層ビル周辺で大型の猛禽類を探します。鋭い翼形と高速の急降下飛行が決め手。胸の縞模様と頬の黒い「ヒゲ」も識別ポイント。"
+    },
+    "en": {
+      "summary": "Peregrine Falcon. One of the world's fastest animals, reaching over 300 km/h in stoops. Breeds on sea cliffs and urban skyscrapers; catches other birds in mid-air.",
+      "habitat_hint": "Sea cliffs, inland rock faces, urban skyscrapers, estuaries, and overhead.",
+      "finding_tips": "Year-round, look at sea cliffs and around urban skyscrapers for large raptors. Sharp wing shape and high-speed stoop are diagnostic. Barred breast and black cheek 'moustache' also help."
+    },
+    "zh": {
+      "summary": "游隼。世界上速度最快的动物之一，俯冲时超过 300 km/h。在海岸悬崖与城市高层建筑繁殖，空中捕食其他鸟。",
+      "habitat_hint": "海岸悬崖、内陆岩壁、城市高层建筑、河口、上空。",
+      "finding_tips": "全年在海岸悬崖与城市高层建筑周边寻找大型猛禽。锐利翼形与高速俯冲飞行是关键识别。胸部横纹与脸颊黑色『胡须』也可助识别。"
+    }
+  },
+  "Cletus schmidti": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハリカメムシ。中型のヘリカメムシで、胸部の両側に鋭く突き出た棘状の突起があります。イネ科植物の穂を吸います。",
+      "habitat_hint": "草地、河川敷、農地、麦畑、芝地。",
+      "finding_tips": "5〜10月、イネ科の穂の周辺で胸部両側に鋭い棘を持つ淡褐色の中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Spiny Coreid. A medium coreid bug with sharply pointed spines on each side of the pronotum. Sucks juices from grass spikes.",
+      "habitat_hint": "Grasslands, riverbanks, farmland, wheat fields, and lawns.",
+      "finding_tips": "From May to October look around grass spikes for pale-brown medium bugs with sharply pointed pronotum sides."
+    },
+    "zh": {
+      "summary": "斑须缘蝽。中型缘蝽，前胸两侧具锐刺状突起。吸食禾本科穗。",
+      "habitat_hint": "草地、河滩、农田、麦田、草坪。",
+      "finding_tips": "五至十月在禾本科穗周边寻找前胸两侧具锐刺的淡褐色中型椿象。"
+    }
+  },
+  "Gonioctena nigroplagiata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤツボシハムシ。橙黄色の上翅に8つの黒い斑点を持つ小型のハムシ。マメ科やバラ科植物の葉を食害します。",
+      "habitat_hint": "雑木林、林縁、農地、河川敷、果樹園。",
+      "finding_tips": "4〜8月、雑木林や林縁で橙黄色の上翅に8つの黒斑を持つ小型ハムシを探します。"
+    },
+    "en": {
+      "summary": "Eight-spotted Leaf Beetle. A small leaf beetle with orange-yellow elytra bearing eight black spots. Feeds on Fabaceae and Rosaceae leaves.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, riverbanks, and orchards.",
+      "finding_tips": "From April to August look in secondary woodlands and forest edges for small leaf beetles with orange-yellow elytra bearing 8 black spots."
+    },
+    "zh": {
+      "summary": "八星叶甲。鞘翅橙黄色具 8 个黑斑的小型叶甲。取食豆科与蔷薇科叶片。",
+      "habitat_hint": "杂木林、林缘、农田、河滩、果园。",
+      "finding_tips": "四至八月在杂木林与林缘寻找鞘翅橙黄色具 8 黑斑的小型叶甲。"
+    }
+  },
+  "Latouchia typica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キシノウエトタテグモ。地中に巣穴を掘り、入口に「扉（蓋）」を作る独特のクモ。日本固有で関東〜近畿に分布する希少種。",
+      "habitat_hint": "雑木林の林床、神社林、土手、半日陰の斜面、湿った土壌。",
+      "finding_tips": "通年、雑木林の林床で地面に小さな「扉」状の蓋がある巣穴を探します。扉を持ち上げると中にクモがいます。希少種なので観察のみで保護してください。"
+    },
+    "en": {
+      "summary": "Kishinoue's Trapdoor Spider. A Japan-endemic spider that digs a burrow and seals the entrance with a hinged 'trapdoor'. A rare species distributed in Kanto to Kinki regions.",
+      "habitat_hint": "Secondary woodland floors, shrine groves, banks, partly shaded slopes, and damp soil.",
+      "finding_tips": "Year-round, look on woodland floors for small 'trapdoor' lids on the ground. Lifting reveals the spider inside. Rare — observe only, do not disturb."
+    },
+    "zh": {
+      "summary": "岸上节腹蛛（活板门蛛）。挖掘地下洞穴并以铰链『活门』封口的独特蜘蛛。日本固有，分布于关东至近畿的稀有种。",
+      "habitat_hint": "杂木林林床、神社林、堤岸、半阴斜坡、潮湿土壤。",
+      "finding_tips": "全年在杂木林林床寻找具小型『活门』盖的洞穴。掀开可见蛛在内。稀有种，请仅观察勿打扰。"
+    }
   }
 }
