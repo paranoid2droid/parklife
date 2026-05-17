@@ -14022,5 +14022,185 @@
       "habitat_hint": "杂木林、林缘、公园、住宅檐下与灌木、农田边缘。",
       "finding_tips": "四至十月在檐下与枝端寻找筑伞状开放巢的马蜂。腿黄色是日文名由来。请勿靠近蜂巢。"
     }
+  },
+  "Oenanthe javanica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セリ。湿地や水田、用水路に生える多年草で、春の七草の一つ。独特の香りがあり、お粥や鍋物の素材として親しまれています。",
+      "habitat_hint": "水田畦、湿地、用水路、河川敷の湿地、ため池の縁。",
+      "finding_tips": "通年（春の若葉が食用）。湿地で2〜3回羽状複葉の独特の香りを持つ多年草を探します。6〜8月には白い小さな散形花序をつけます。"
+    },
+    "en": {
+      "summary": "Japanese Parsley (Water Dropwort). A wetland perennial of paddies and ditches; one of the seven spring herbs. Distinctive fragrance, used in rice porridge and hot pot.",
+      "habitat_hint": "Paddy bunds, wetlands, irrigation channels, wet riverbanks, and pond edges.",
+      "finding_tips": "Year-round (spring shoots are eaten). Look in wetlands for fragrant perennials with bipinnate to tripinnate leaves. White small umbels in June-August."
+    },
+    "zh": {
+      "summary": "水芹。湿地、水田、灌溉沟的多年生草本，是日本『春七草』之一。具独特香味，常用于粥与火锅。",
+      "habitat_hint": "水田田埂、湿地、灌溉沟、河滩湿地、池塘边。",
+      "finding_tips": "全年（春芽食用）。在湿地寻找具特殊香气的二至三回羽状复叶多年草。六至八月开白色小伞形花序。"
+    }
+  },
+  "Allium macrostemon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノビル。野生のネギの仲間で、地下にラッキョウのような鱗茎を持ち、葉や鱗茎を食用にできます。春〜初夏に薄紫色の花を咲かせます。",
+      "habitat_hint": "草地、土手、河川敷、道端、農地の縁。",
+      "finding_tips": "通年、線形のネギ臭のある葉を持つ多年草を探します。葉や引き抜いた鱗茎の匂いで識別できます。花期5〜6月。"
+    },
+    "en": {
+      "summary": "Long-stamen Onion. A wild onion with an underground bulb similar to a small shallot; both leaves and bulbs are edible. Pale-purple flowers in spring to early summer.",
+      "habitat_hint": "Grasslands, banks, riverbanks, roadsides, and farmland margins.",
+      "finding_tips": "Year-round, look for perennials with linear onion-scented leaves. Crush a leaf or check the bulb's smell when pulled. Flowers May-June."
+    },
+    "zh": {
+      "summary": "薤白（小蒜）。野生葱蒜近亲，地下具如小蒜的鳞茎，叶与鳞茎皆可食。春至初夏开淡紫色花。",
+      "habitat_hint": "草地、堤岸、河滩、路边、农田边缘。",
+      "finding_tips": "全年寻找具线形葱蒜气味叶的多年草。揉碎叶或拔起鳞茎可凭气味识别。花期五至六月。"
+    }
+  },
+  "Alopecurus aequalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スズメノテッポウ。早春に水田や湿地に普通な一年〜二年生のイネ科。穂は円柱形で、和名は穂の形が雀の鉄砲（吹き矢）に似ることに由来。",
+      "habitat_hint": "水田、湿地、河川敷、休耕田、用水路の縁。",
+      "finding_tips": "4〜6月、水田や湿地で円柱形（〜5cm）の細い穂を立てる一年生イネ科を探します。穂の表面は淡緑色で滑らか。"
+    },
+    "en": {
+      "summary": "Shortawn Foxtail. An annual to biennial grass common in paddies and wetlands in early spring. Cylindrical spike (~5 cm) — the Japanese name compares it to a sparrow's blowpipe.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, fallow fields, and irrigation channel edges.",
+      "finding_tips": "From April to June look in paddies and wetlands for annual grasses with cylindrical (~5 cm) slender pale-green spikes."
+    },
+    "zh": {
+      "summary": "看麦娘。早春水田与湿地常见的一至二年生禾本科。穗圆柱形，日文俗名『雀的吹箭』。",
+      "habitat_hint": "水田、湿地、河滩、休耕田、灌溉沟边。",
+      "finding_tips": "四至六月在水田与湿地寻找穗约 5 厘米圆柱形、淡绿色光滑的一年生禾本科。"
+    }
+  },
+  "Hydrocotyle ramiflora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオチドメ。芝地や湿った草地に生える小型のセリ科。葉が円形で切れ込みが浅い。チドメグサより大型。",
+      "habitat_hint": "芝地、湿った草地、水田畦、林縁、河川敷の草地。",
+      "finding_tips": "5〜10月、芝地や水田畦で長い葉柄に円形の葉を持つ小型多年草を探します。チドメグサより葉が大きく、葉縁の切れ込みが浅いのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Branched Pennywort. A small umbellifer of lawns and damp grasslands with round leaves and shallow lobing. Larger than common pennywort.",
+      "habitat_hint": "Lawns, damp grasslands, paddy bunds, forest edges, and riverside grasslands.",
+      "finding_tips": "From May to October look on lawns and paddy bunds for small perennials with long-petioled round leaves. Larger and more shallowly lobed than common pennywort."
+    },
+    "zh": {
+      "summary": "大叶天胡荽。草坪与潮湿草地的小型伞形科。叶圆形、缘浅裂。比天胡荽更大。",
+      "habitat_hint": "草坪、潮湿草地、水田田埂、林缘、河滩草地。",
+      "finding_tips": "五至十月在草坪与田埂寻找具长叶柄圆叶的小型多年草。比天胡荽叶大、缘裂浅可区分。"
+    }
+  },
+  "Euphorbia helioscopia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウダイグサ。早春に独特の杯状花序を咲かせる二年草。茎を折ると白い乳液が出るのが特徴。和名は「灯台」のような形に由来。",
+      "habitat_hint": "畑、空き地、道端、河川敷、農地の縁。",
+      "finding_tips": "3〜5月、畑や道端で杯状の花序を散形に並べる多年〜二年草を探します。茎を折ると白い乳液が出ます（皮膚刺激に注意）。"
+    },
+    "en": {
+      "summary": "Sun Spurge. A biennial with a distinctive cyathium (cup-shaped) inflorescence in early spring. Snapped stems exude white latex. The Japanese name 'lantern grass' refers to the shape.",
+      "habitat_hint": "Fields, vacant lots, roadsides, riverbanks, and farmland margins.",
+      "finding_tips": "From March to May look on fields and roadsides for biennials with cyathia arranged in umbel-like clusters. Stems exude white latex (skin irritant — handle with care)."
+    },
+    "zh": {
+      "summary": "泽漆。早春开独特杯状花序的二年生草本。茎折断出白色乳液。日文俗名取自形似『灯台』。",
+      "habitat_hint": "菜地、空地、路边、河滩、农田边缘。",
+      "finding_tips": "三至五月在菜地与路边寻找具伞形排列杯状花序的二年生草本。茎折断流白色乳液（注意皮肤刺激）。"
+    }
+  },
+  "Carex lanceolata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒカゲスゲ。明るい林床や林縁に群生する多年生のスゲ。葉が細く線形で、株状になって地表を覆います。",
+      "habitat_hint": "明るい雑木林の林床、林縁、土手、半日陰の斜面、神社林。",
+      "finding_tips": "4〜6月、明るい林床や林縁で線形の細い葉が株状に密生し、短い花穂を立てるスゲを探します。果穂は小さく目立たないことが多いです。"
+    },
+    "en": {
+      "summary": "Lanceolate Sedge. A perennial sedge of bright forest floors and edges. Narrow linear leaves form dense tussocks covering the ground.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, banks, partly shaded slopes, and shrine groves.",
+      "finding_tips": "From April to June look on bright forest floors and edges for sedges with linear leaves in dense tussocks and short flower spikes. Fruiting spikes are small and inconspicuous."
+    },
+    "zh": {
+      "summary": "披针苔草。明亮林床与林缘成丛生长的多年生莎草。叶细线形成丛覆地。",
+      "habitat_hint": "明亮杂木林林床、林缘、堤岸、半阴斜坡、神社林。",
+      "finding_tips": "四至六月在明亮林床与林缘寻找具线形细叶成丛、抽出短花穗的莎草。果穗常小而不显眼。"
+    }
+  },
+  "Bidens frondosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカセンダングサ。北米原産の一年草で、河川敷や湿地に広く帰化。秋に2本の棘のある果実が衣服や動物の毛にひっつきます。",
+      "habitat_hint": "河川敷、湿地、水田畦、空き地、農地の縁。",
+      "finding_tips": "9〜11月、河川敷や湿地で黄色い頭花を散らし、2本の棘のある果実をつける一年草を探します。果実がよく衣服にくっつくので「ひっつき虫」とも。"
+    },
+    "en": {
+      "summary": "Devil's Beggartick. A North American annual widely naturalised on riverbanks and wetlands. Autumn fruits bear two barbed awns that catch on clothes and animal fur.",
+      "habitat_hint": "Riverbanks, wetlands, paddy bunds, vacant lots, and farmland margins.",
+      "finding_tips": "From September to November look on riverbanks and wetlands for annuals with yellow heads and 2-awned barbed fruits. The fruits stick to clothing — a classic 'hitchhiker'."
+    },
+    "zh": {
+      "summary": "大狼把草。原产北美的一年生草本，在河滩与湿地广泛归化。秋季果实具两根带倒钩的芒，粘附衣物与动物毛。",
+      "habitat_hint": "河滩、湿地、水田田埂、空地、农田边缘。",
+      "finding_tips": "九至十一月在河滩与湿地寻找具黄色头状花、果实带两根倒钩芒的一年草。常粘附衣物。"
+    }
+  },
+  "Patrinia villosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オトコエシ。秋の七草「オミナエシ」の近縁種で、白い小さな花を散房状に多数つける多年草。茎や葉に毛があり、より頑健な印象です。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷の草地、二次林。",
+      "finding_tips": "8〜10月、林縁や草地で白い小花を散房状にまとめる多年草を探します。オミナエシ（黄色花）の近縁ですが白色で対照的。"
+    },
+    "en": {
+      "summary": "White Patrinia. Relative of the yellow valerian Patrinia scabiosaefolia ('ominaeshi') with white flowers in flat-topped clusters. Stems and leaves are hairy, giving a sturdier look.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverside meadows, and secondary woods.",
+      "finding_tips": "From August to October look at forest edges and grasslands for perennials with white flowers in flat-topped clusters. The white-flowered counterpart of yellow valerian."
+    },
+    "zh": {
+      "summary": "白花败酱。黄花败酱『女郎花』的近缘种，密生白色小花成伞房状的多年生草本。茎叶具毛，外观更粗壮。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、次生林。",
+      "finding_tips": "八至十月在林缘与草地寻找具白色小花伞房状花序的多年草。是黄花败酱的白花对应种。"
+    }
+  },
+  "Rattus norvegicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ドブネズミ。世界中に分布する大型のクマネズミ科。下水や河川敷、港湾に多く、人間の生活圏に密接。在来生態系への影響が懸念されています。",
+      "habitat_hint": "下水・側溝、河川敷、港湾、農地、住宅地のごみ集積所。",
+      "finding_tips": "通年、河川敷や下水周辺で大型のネズミを見ます。クマネズミより尾が短く、耳が小さい。市街地でもよく見られます。"
+    },
+    "en": {
+      "summary": "Brown Rat. A large globally distributed rat. Common in sewers, riverbanks, and harbours; closely associated with human habitation. Considered a threat to native ecosystems.",
+      "habitat_hint": "Sewers, riverbanks, harbours, farmland, and residential refuse areas.",
+      "finding_tips": "Year-round, seen on riverbanks and near sewers. Distinguished from Black Rat by shorter tail and smaller ears. Common in urban areas."
+    },
+    "zh": {
+      "summary": "褐家鼠。全球广布的大型家鼠。常见于下水道、河滩、港湾，与人居密切。对本土生态系统有影响。",
+      "habitat_hint": "下水道、河滩、港湾、农田、住宅区垃圾收集处。",
+      "finding_tips": "全年在河滩与下水周边可见大型家鼠。比黑家鼠尾短、耳小。市区常见。"
+    }
+  },
+  "Mergus merganser": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワアイサ。大型の冬鳥のアイサで、河川や湖沼に渡来。雄は緑黒色の頭と白い体、雌は赤褐色の頭と灰色の体が特徴。潜って魚を捕えます。",
+      "habitat_hint": "河川、湖沼、ダム湖、内陸の大きな池。",
+      "finding_tips": "11〜3月、大きな河川や湖で潜水して魚を捕えるアイサを探します。雄の緑黒色頭部と白い体、雌の赤褐色頭部が決め手。"
+    },
+    "en": {
+      "summary": "Common Merganser. A large winter merganser on rivers and lakes. Males have dark green head and white body; females have rufous head and grey body. Dives for fish.",
+      "habitat_hint": "Rivers, lakes, reservoirs, and large inland ponds.",
+      "finding_tips": "From November to March look on large rivers and lakes for diving mergansers. Male's dark-green head and white body, female's rufous head are diagnostic."
+    },
+    "zh": {
+      "summary": "普通秋沙鸭。大型冬候鸟秋沙鸭，飞临河流与湖泊。雄性墨绿色头配白色身体，雌性红褐色头配灰色身体。潜水捕鱼。",
+      "habitat_hint": "河流、湖泊、水库、内陆大池。",
+      "finding_tips": "十一至三月在大河与湖泊寻找潜水捕鱼的秋沙鸭。雄绿黑头配白色身体、雌红褐色头是关键识别。"
+    }
   }
 }
