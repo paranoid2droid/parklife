@@ -14562,5 +14562,185 @@
       "habitat_hint": "缓流河流、灌溉沟、流动湿地、河岸林缘、池塘进水口。",
       "finding_tips": "六至九月在缓流河边寻找翅全黑、身金属绿色翩翩飞舞的蟌。停于叶上时黑翅开合。"
     }
+  },
+  "Hibiscus syriacus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムクゲ。中国原産の落葉低木で、夏に大きな5弁の花を次々と咲かせます。花色は白、淡紫、紅紫など多様。生垣や公園植栽として広く利用。",
+      "habitat_hint": "生垣、公園植栽、庭園、街路、寺社境内。",
+      "finding_tips": "7〜9月、生垣や庭で5弁の大型の花を次々と咲かせる落葉低木を探します。一日花で朝開いて夕方しぼみます。"
+    },
+    "en": {
+      "summary": "Rose of Sharon. A deciduous shrub from China bearing large 5-petalled flowers throughout summer. Flowers white, pale-purple, or red-purple. Widely planted in hedges and parks.",
+      "habitat_hint": "Hedges, park plantings, gardens, street plantings, and temple/shrine grounds.",
+      "finding_tips": "From July to September look in hedges and gardens for deciduous shrubs producing succession of large 5-petalled flowers. Each flower lasts one day, opening in morning and closing by evening."
+    },
+    "zh": {
+      "summary": "木槿。原产中国的落叶灌木，夏季陆续开五瓣大花。花色白、淡紫、红紫多变。广作绿篱与公园栽植。",
+      "habitat_hint": "绿篱、公园栽植、庭园、街道、寺社境内。",
+      "finding_tips": "七至九月在绿篱与庭院寻找陆续开五瓣大花的落叶灌木。每朵一日花，朝开夕谢。"
+    }
+  },
+  "Syneilesis palmata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブレガサ。林床に生える多年草で、若葉が傘を破ったような独特の姿。和名はこの新葉の形に由来。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、二次林。",
+      "finding_tips": "4〜6月、明るい林床で若葉がだらしなく垂れ下がる傘のような独特な姿の多年草を探します。葉は深く掌状に切れ込みます。"
+    },
+    "en": {
+      "summary": "Shredded Umbrella Plant. A woodland perennial whose young leaves resemble a tattered umbrella — the source of the Japanese name.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and secondary woods.",
+      "finding_tips": "From April to June look on bright forest floors for perennials with young leaves drooping like tattered umbrellas. Deeply palmately divided leaves."
+    },
+    "zh": {
+      "summary": "兔儿伞。林床多年草，幼叶形似破伞，日文俗名因此而来。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、次生林。",
+      "finding_tips": "四至六月在明亮林床寻找幼叶下垂如破伞的独特多年草。叶掌状深裂。"
+    }
+  },
+  "Isodon inflexus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマハッカ。林縁や草地に生えるシソ科の多年草。秋に小さな紫色の唇形花を穂状に多数咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、農地の縁。",
+      "finding_tips": "9〜10月、林縁や草地で紫色の小さな唇形花を穂状にまとめるシソ科多年草を探します。葉は対生で卵形、縁に鋸歯があります。"
+    },
+    "en": {
+      "summary": "Mountain Mint (Isodon). A Lamiaceae perennial of forest edges and grasslands. Many small purple lipped flowers in autumn spikes.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and farmland margins.",
+      "finding_tips": "From September to October look at forest edges and grasslands for Lamiaceae perennials with small purple lipped flowers in spikes. Opposite ovate leaves with serrate margins."
+    },
+    "zh": {
+      "summary": "内折香茶菜。林缘与草地的唇形科多年草。秋季密生紫色小型唇形花穗状。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、农田边缘。",
+      "finding_tips": "九至十月在林缘与草地寻找具紫色小唇形花穗状的唇形科多年草。叶对生卵形、缘具锯齿。"
+    }
+  },
+  "Chamaecyparis obtusa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒノキ。日本固有の常緑針葉樹で、林業用に広く植栽。建築材として最高級。葉裏の白い気孔線がY字形に見えるのが識別ポイント。",
+      "habitat_hint": "植林地、雑木林、公園植栽、寺社境内、街路樹。",
+      "finding_tips": "通年、葉裏の白い気孔線がY字形に見える鱗状葉の常緑針葉樹を探します。スギと異なり香りが穏やかで葉先が丸みを帯びます。"
+    },
+    "en": {
+      "summary": "Hinoki Cypress. A Japan-endemic evergreen conifer widely planted for timber. The premium construction wood. Diagnostic feature: white Y-shaped stomatal lines on the leaf underside.",
+      "habitat_hint": "Plantations, secondary woodlands, park plantings, temple/shrine grounds, and street trees.",
+      "finding_tips": "Year-round, look for evergreen conifers with scale-like leaves bearing white Y-shaped stomatal lines on the underside. Milder scent than Japanese Cedar and more rounded leaf tips."
+    },
+    "zh": {
+      "summary": "日本扁柏。日本固有常绿针叶树，广作林业栽培。建筑用材中的顶级。叶背白色气孔线呈 Y 字形是关键识别。",
+      "habitat_hint": "人工林、杂木林、公园栽植、寺社境内、行道树。",
+      "finding_tips": "全年寻找鳞状叶、叶背具白色 Y 字形气孔线的常绿针叶树。香气比柳杉柔和，叶尖更圆。"
+    }
+  },
+  "Dolycoris baccarum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ブチヒゲカメムシ。中型のカメムシで、触角に黒と白の縞模様があるのが和名と識別の決め手。マメ科植物の汁を吸います。",
+      "habitat_hint": "草地、河川敷、農地、林縁、空き地。",
+      "finding_tips": "5〜10月、草地や農地で淡褐色の中型カメムシを探し、触角に黒と白の縞模様があるかチェック。マメ類の害虫としても知られます。"
+    },
+    "en": {
+      "summary": "Sloe Bug. A medium stink bug whose antennae bear distinctive black and white bands — the diagnostic feature and source of the Japanese name. Sucks juices from legumes.",
+      "habitat_hint": "Grasslands, riverbanks, farmland, forest edges, and vacant lots.",
+      "finding_tips": "From May to October look in grasslands and farmland for medium pale-brown stink bugs; check the antennae for black-and-white bands. A pest of legumes."
+    },
+    "zh": {
+      "summary": "斑须蝽。中型蝽，触角具黑白条纹是关键识别与日文俗名由来。吸食豆科植物汁液。",
+      "habitat_hint": "草地、河滩、农田、林缘、空地。",
+      "finding_tips": "五至十月在草地与农田寻找淡褐色中型椿象，检查触角是否具黑白条纹。是豆科害虫。"
+    }
+  },
+  "Phelotrupes laevistriatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "センチコガネ。糞に集まる中型のコガネムシで、金属光沢のある藍色〜銅色が美しい。森林の物質循環に重要な役割を果たします。",
+      "habitat_hint": "雑木林の林床、林縁、農地、糞や腐肉のある場所。",
+      "finding_tips": "5〜10月、雑木林の林床で糞や腐肉の周辺を探します。藍紫色〜銅色の金属光沢のあるコガネムシで、地面を歩く姿が見られます。"
+    },
+    "en": {
+      "summary": "Earth-boring Dung Beetle. A medium dung beetle with beautiful metallic blue to coppery sheen. Plays an important role in forest nutrient cycling.",
+      "habitat_hint": "Secondary woodland floors, forest edges, farmland, and around dung and carrion.",
+      "finding_tips": "From May to October look around dung and carrion on woodland floors for medium dung beetles with metallic blue-purple to coppery sheen, often walking on the ground."
+    },
+    "zh": {
+      "summary": "光肋粪金龟。聚集于粪便的中型金龟，具蓝紫至铜色金属光泽。在森林物质循环中作用重要。",
+      "habitat_hint": "杂木林林床、林缘、农田、粪便与腐肉周边。",
+      "finding_tips": "五至十月在杂木林林床的粪便与腐肉周边寻找具蓝紫至铜色金属光泽的金龟，常在地面爬行。"
+    }
+  },
+  "Callicaria superba": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハラグロオオテントウ。日本最大級のテントウムシで、全長10mm以上。橙色の翅に黒い斑紋。マダラカイガラムシ類を捕食します。",
+      "habitat_hint": "クワ、エノキなど広葉樹の樹幹、雑木林、公園、住宅地の庭木。",
+      "finding_tips": "5〜10月、クワやエノキの樹幹でカイガラムシの集団を探し、その周辺で大型の橙色テントウムシを探します。日本最大級のテントウムシとして覚えるとよいでしょう。"
+    },
+    "en": {
+      "summary": "Giant Lady Beetle. One of Japan's largest lady beetles (over 10 mm long). Orange elytra with black spots. Preys on scale insects.",
+      "habitat_hint": "Trunks of mulberry, hackberry and other broadleaf trees; secondary woodlands, parks, residential trees.",
+      "finding_tips": "From May to October look on mulberry and hackberry trunks for scale insect aggregations and check nearby for large orange lady beetles. Memorable as Japan's largest lady beetle."
+    },
+    "zh": {
+      "summary": "大红瓢虫。日本最大级瓢虫之一（体长 10 毫米以上）。橙色鞘翅具黑斑。捕食蚧壳虫。",
+      "habitat_hint": "桑树、朴树等阔叶树干，杂木林、公园、住宅区庭树。",
+      "finding_tips": "五至十月在桑树与朴树干上寻找蚧壳虫群聚，附近寻找大型橙色瓢虫。可作为日本最大瓢虫记忆。"
+    }
+  },
+  "Gryllotalpa orientalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケラ（オケラ）。前脚がモグラのように発達した特異な姿のコオロギ近縁種。地中に穴を掘って暮らし、夜に「ジー」と長く鳴きます。",
+      "habitat_hint": "水田、湿地、河川敷の湿った土壌、農地、芝地。",
+      "finding_tips": "通年（成虫越冬）、湿った地面の下から夜「ジー…」と長く鳴く声で存在を知ります。掘り起こすと褐色のモグラ状の昆虫が見つかります。"
+    },
+    "en": {
+      "summary": "Oriental Mole Cricket. A cricket relative with mole-like forelegs adapted for digging. Lives in burrows; sings a long 'jiiii' at night.",
+      "habitat_hint": "Rice paddies, wetlands, damp soil on riverbanks, farmland, and lawns.",
+      "finding_tips": "Year-round (adults overwinter), revealed by long 'jiii' calls at night from beneath damp ground. Digging up the soil reveals a brown mole-like insect."
+    },
+    "zh": {
+      "summary": "东方蝼蛄。前足如鼹鼠般发达、形态独特的蟋蟀近亲。穴居于地下，夜间发出长长『ji-』的鸣声。",
+      "habitat_hint": "水田、湿地、河滩潮湿土壤、农田、草坪。",
+      "finding_tips": "全年（成虫越冬）。夜间湿地下『ji-』长鸣可示其存在。掘开土壤可见褐色鼹形昆虫。"
+    }
+  },
+  "Mycalesis francisca": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コジャノメ。暗い林床や林縁に住む中型のジャノメチョウ。翅は灰褐色で、後翅表に小さな蛇の目（眼状紋）を持ちます。",
+      "habitat_hint": "雑木林の林床、林縁、谷地林、神社林、半日陰の道。",
+      "finding_tips": "5〜10月、雑木林の暗い林床や林縁で灰褐色のジャノメチョウを探します。地表近くを低く飛び、落ち葉の上に止まります。"
+    },
+    "en": {
+      "summary": "Lilacine Bushbrown. A medium satyrid butterfly of dark forest floors and edges. Grey-brown wings with small eyespots on the hindwing.",
+      "habitat_hint": "Secondary woodland floors, forest edges, valley woods, shrine groves, and partly shaded paths.",
+      "finding_tips": "From May to October look on dark forest floors and edges for grey-brown satyrid butterflies. Flies low near the ground and lands on leaf litter."
+    },
+    "zh": {
+      "summary": "拟稻眉眼蝶。栖于暗林床与林缘的中型眼蝶。翅灰褐色，后翅具小眼斑。",
+      "habitat_hint": "杂木林林床、林缘、谷地林、神社林、半阴小径。",
+      "finding_tips": "五至十月在杂木林暗林床与林缘寻找灰褐色眼蝶。低空飞行，停于枯叶上。"
+    }
+  },
+  "Chrysolina aurichalcea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨモギハムシ。ヨモギの葉を食害する中型のハムシ。藍色〜紫色の金属光沢のある翅が美しい。",
+      "habitat_hint": "ヨモギが生える河川敷、空き地、農地の縁、林縁、道端。",
+      "finding_tips": "5〜10月、ヨモギの葉上で藍紫色の金属光沢のある中型ハムシを探します。葉に丸い食痕を残します。"
+    },
+    "en": {
+      "summary": "Mugwort Leaf Beetle. A medium leaf beetle feeding on mugwort (Artemisia). Beautiful metallic blue to purple elytra.",
+      "habitat_hint": "Mugwort patches on riverbanks, vacant lots, farmland margins, forest edges, and roadsides.",
+      "finding_tips": "From May to October look on mugwort leaves for medium leaf beetles with metallic blue-purple sheen. Round feeding holes on leaves help confirm."
+    },
+    "zh": {
+      "summary": "艾叶甲。取食艾蒿叶的中型叶甲。鞘翅蓝至紫色金属光泽美丽。",
+      "habitat_hint": "生有艾蒿的河滩、空地、农田边缘、林缘、路边。",
+      "finding_tips": "五至十月在艾蒿叶上寻找具蓝紫色金属光泽的中型叶甲。叶上圆形蛀洞辅助识别。"
+    }
   }
 }
