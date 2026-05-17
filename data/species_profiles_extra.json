@@ -13122,5 +13122,185 @@
       "habitat_hint": "草坪、路边、河滩、公园边缘、操场边。",
       "finding_tips": "五至六月在草坪寻找线形叶、紫或白色星形小花的小草本。一日花，依次开放。"
     }
+  },
+  "Neoscona mellotteei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワキグロサツマノミダマシ。緑色の腹部に黒い側斑がある中型のコガネグモ科のクモ。林縁や草地に円網を張ります。",
+      "habitat_hint": "草地、林縁、雑木林、農地、河川敷の草地。",
+      "finding_tips": "7〜10月、林縁や草地で緑色の腹部に黒い帯のあるクモが円網の中央にいる姿を探します。日中は網にいることが多いです。"
+    },
+    "en": {
+      "summary": "A medium orbweaver with a green abdomen marked with black on the sides. Builds circular webs at forest edges and grasslands.",
+      "habitat_hint": "Grasslands, forest edges, secondary woodlands, farmland, and riverside meadows.",
+      "finding_tips": "From July to October look for orbweavers with green abdomens marked black on the sides at the centre of circular webs. Usually present on the web by day."
+    },
+    "zh": {
+      "summary": "白斑新园蛛近缘种。腹部绿色具黑色侧斑的中型园蛛。在林缘与草地结圆网。",
+      "habitat_hint": "草地、林缘、杂木林、农田、河滩草地。",
+      "finding_tips": "七至十月在林缘与草地寻找腹部绿色带黑侧斑、停于圆网中央的蜘蛛。白天多在网上。"
+    }
+  },
+  "Sympetrum infuscatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノシメトンボ。アカネ属の中型アカトンボで、翅の先に黒褐色の斑がある。林縁や水田周辺で見られます。",
+      "habitat_hint": "雑木林の林縁、水田、ため池、湿地、明るい林床。",
+      "finding_tips": "7〜11月、翅の先に黒褐色の帯状斑があるアカトンボを探します。林縁や日陰で休んでいることが多いです。"
+    },
+    "en": {
+      "summary": "Brown-tipped Darter. A medium Sympetrum darter with brown patches at wingtips. Found at forest edges and around rice paddies.",
+      "habitat_hint": "Secondary woodland edges, rice paddies, ponds, wetlands, and bright forest floors.",
+      "finding_tips": "From July to November look for red darters with brown bands at the wingtips. Often resting at forest edges or in shade."
+    },
+    "zh": {
+      "summary": "条斑赤蜻。中型赤蜻属，翅尖具黑褐色斑。常见于林缘与水田周边。",
+      "habitat_hint": "杂木林林缘、水田、池塘、湿地、明亮林床。",
+      "finding_tips": "七至十一月寻找翅尖具黑褐色带斑的赤蜻。常在林缘或阴处停歇。"
+    }
+  },
+  "Aulacophora indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウリハムシ。オレンジ色の小型ハムシで、キュウリやカボチャなどウリ科の葉を食害する代表的な害虫。",
+      "habitat_hint": "畑、家庭菜園、公園のウリ科植え込み、空き地のカラスウリ、河川敷。",
+      "finding_tips": "5〜10月、ウリ科の葉の上でオレンジ色の小さなハムシを探します。葉に円形の摂食痕（トレンチ）を残すのが特徴。"
+    },
+    "en": {
+      "summary": "Cucurbit Leaf Beetle. A small orange leaf beetle and a major pest of cucumber, pumpkin, and other cucurbits.",
+      "habitat_hint": "Vegetable fields, home gardens, park cucurbit plantings, wild bitter melon in vacant lots, and riverbanks.",
+      "finding_tips": "From May to October look for small orange beetles on cucurbit leaves. Distinctive circular 'trenching' feeding marks on leaves help confirm."
+    },
+    "zh": {
+      "summary": "黄守瓜。橙色小型叶甲，为害黄瓜、南瓜等葫芦科叶片的代表性害虫。",
+      "habitat_hint": "菜地、家庭菜园、公园栽植葫芦科、空地野栝楼、河滩。",
+      "finding_tips": "五至十月在葫芦科叶上寻找橙色小型叶甲。叶上圆形『沟槽状』取食痕是关键识别。"
+    }
+  },
+  "Physopelta gutta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオホシカメムシ。赤褐色に黒い斑紋のある大型のホシカメムシ。林縁や畑、樹液の出る木で見られます。",
+      "habitat_hint": "雑木林の林縁、樹液の出る樹、公園、農地、果樹園。",
+      "finding_tips": "5〜10月、赤褐色に大きな黒斑を持つ大型カメムシを樹液周りや葉上で探します。集団でいることもあります。"
+    },
+    "en": {
+      "summary": "A large red-brown stink bug with bold black spots. Found at forest edges, gardens, and on sap-flowing trees.",
+      "habitat_hint": "Secondary woodland edges, sap-flowing trees, parks, farmland, and orchards.",
+      "finding_tips": "From May to October look for large red-brown bugs with bold black spots on sap flows and foliage. Sometimes in aggregations."
+    },
+    "zh": {
+      "summary": "突背斑红蝽。红褐色具黑斑的大型红蝽。常见于林缘、菜地与出树液的树上。",
+      "habitat_hint": "杂木林林缘、出树液的乔木、公园、农田、果园。",
+      "finding_tips": "五至十月在树液周边与叶上寻找红褐色具显著黑斑的大型椿象。时有群聚。"
+    }
+  },
+  "Sympetrum darwinianum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナツアカネ。アカネ属の代表的なアカトンボ。夏に成虫が出現し、雄は全身鮮やかな赤になります。",
+      "habitat_hint": "水田、ため池、湿地、河川敷、公園の池、明るい草地。",
+      "finding_tips": "7〜11月、夏から秋に水辺や草地で見られる鮮やかな赤色のアカトンボ。アキアカネと似ますが、全身が赤くなる点で区別。"
+    },
+    "en": {
+      "summary": "Summer Darter. A classic Japanese red dragonfly. Males turn entirely brilliant red when mature.",
+      "habitat_hint": "Rice paddies, ponds, wetlands, riverbanks, park ponds, and bright grasslands.",
+      "finding_tips": "From July to November look for brilliant red darters from summer into autumn. Similar to Autumn Darter but with the entire body (not just abdomen) turning red."
+    },
+    "zh": {
+      "summary": "夏赤蜻。日本代表性赤蜻。雄性成熟时全身鲜艳赤红。",
+      "habitat_hint": "水田、池塘、湿地、河滩、公园池塘、明亮草地。",
+      "finding_tips": "七至十一月在水边与草地寻找鲜艳红色赤蜻。与秋赤蜻相似，但全身（非仅腹部）变红可区分。"
+    }
+  },
+  "Acrothinium gaschkevitchii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカガネサルハムシ。金属光沢のある赤銅色の美しい小型ハムシ。ブドウやノブドウの葉を食べます。",
+      "habitat_hint": "雑木林の林縁、ノブドウ・ヤブガラシのある藪、葡萄園、河川敷の藪。",
+      "finding_tips": "5〜8月、林縁のノブドウやヤブガラシの葉上で赤銅色の金属光沢を持つ小型ハムシを探します。光のあたり方で色が変化します。"
+    },
+    "en": {
+      "summary": "A small, beautiful copper-metallic leaf beetle feeding on grape and porcelain berry leaves.",
+      "habitat_hint": "Secondary woodland edges, thickets with porcelain berry and bushkiller, vineyards, and riverside thickets.",
+      "finding_tips": "From May to August look on porcelain berry and bushkiller leaves at forest edges for small leaf beetles with brilliant copper sheen. Iridescence shifts with the light angle."
+    },
+    "zh": {
+      "summary": "金叶甲（赤铜叶甲）。带强烈金属光泽的赤铜色美丽小型叶甲。取食葡萄属与蛇葡萄叶。",
+      "habitat_hint": "杂木林林缘、生蛇葡萄与乌蔹莓的灌丛、葡萄园、河滩灌丛。",
+      "finding_tips": "五至八月在林缘的蛇葡萄与乌蔹莓叶上寻找具赤铜金属光泽的小型叶甲。颜色随光线角度变化。"
+    }
+  },
+  "Orthetrum japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シオヤトンボ。シオカラトンボに似ますが一回り小型で、より早い時期に出現する。雄は成熟すると腹部に白い粉を吹きます。",
+      "habitat_hint": "湿地、棚田、ため池、湿った草地、河川敷の水辺。",
+      "finding_tips": "4〜7月（早春から出現）、湿地周辺でシオカラトンボに似て一回り小さいトンボを探します。早期出現が決め手です。"
+    },
+    "en": {
+      "summary": "Japanese Skimmer. Similar to White-tailed Skimmer but smaller and emerging earlier. Mature males develop a white pruinose abdomen.",
+      "habitat_hint": "Wetlands, terraced paddies, ponds, damp grasslands, and waterside on riverbanks.",
+      "finding_tips": "From April to July (early-season emerger) look near wetlands for skimmers resembling but smaller than Common Skimmer. Early emergence is the key clue."
+    },
+    "zh": {
+      "summary": "日本灰蜻。形似白尾灰蜻但更小，发生期更早。雄成熟后腹部覆白粉。",
+      "habitat_hint": "湿地、梯田、池塘、湿润草地、河滩水边。",
+      "finding_tips": "四至七月（早春即出现）在湿地附近寻找类似白尾灰蜻但更小的蜻蜓。早期发生是关键。"
+    }
+  },
+  "Lolium perenne": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホソムギ（多年生ライグラス）。欧州原産の牧草・芝生用イネ科。空き地や河川敷、グラウンドに広く帰化しています。",
+      "habitat_hint": "芝地、グラウンド、公園、河川敷、道端、空き地。",
+      "finding_tips": "5〜9月、芝地や河川敷で穂が中央軸の両側に交互につく多年生イネ科を探します。光沢のある葉が決め手の一つです。"
+    },
+    "en": {
+      "summary": "Perennial Ryegrass. A European-origin pasture and lawn grass widely naturalised on vacant lots, riverbanks, and athletic fields.",
+      "habitat_hint": "Lawns, athletic fields, parks, riverbanks, roadsides, and vacant lots.",
+      "finding_tips": "From May to September look for perennial grasses with spikelets arranged alternately on a central axis. Glossy leaves help confirm."
+    },
+    "zh": {
+      "summary": "多年生黑麦草。原产欧洲的牧草与草坪禾本科，在空地、河滩、运动场广泛归化。",
+      "habitat_hint": "草坪、运动场、公园、河滩、路边、空地。",
+      "finding_tips": "五至九月寻找小穗在中轴两侧交替排列的多年生禾本科。叶片具光泽是辅助识别特征。"
+    }
+  },
+  "Aralia elata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タラノキ。落葉低木〜小高木で、幹に鋭い棘がある。新芽の「タラの芽」は山菜として珍重されます。",
+      "habitat_hint": "雑木林の伐採地、林縁、二次林、明るい斜面、河川敷。",
+      "finding_tips": "通年（春の新芽が有名）。幹に鋭い棘を持つ低木〜小高木で、葉は大型の2回羽状複葉。8〜9月に白い花序を頂生します。"
+    },
+    "en": {
+      "summary": "Japanese Angelica Tree. A deciduous shrub to small tree with sharp spines on the trunk. The spring shoots ('tara-no-me') are a prized wild vegetable.",
+      "habitat_hint": "Cleared secondary woodland, forest edges, secondary woods, bright slopes, and riverbanks.",
+      "finding_tips": "Year-round (famous for spring shoots). Look for shrubs/small trees with sharp trunk spines and large bipinnate leaves. White terminal flower clusters in Aug-Sep."
+    },
+    "zh": {
+      "summary": "辽东楤木（日本楤木）。落叶灌木至小乔木，茎干具锐刺。春季嫩芽『楤木芽』为珍贵山菜。",
+      "habitat_hint": "杂木林皆伐迹地、林缘、次生林、明亮坡地、河滩。",
+      "finding_tips": "全年（春芽著名）。寻找茎干具锐刺的灌木至小乔木，叶大型二回羽状复叶。八至九月顶生白色花序。"
+    }
+  },
+  "Polystichum tripteron": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シュモクシダ。葉が独特の「T字形」（三本の主軸が交差したような形）になる珍しい常緑シダ。和名は「撞木（しゅもく）」（鐘を撞く木）に由来。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、湿った斜面。",
+      "finding_tips": "通年、湿った林床で葉の基部に左右1対の長い羽片を持ち、中央が長く伸びてT字またはY字に見えるシダを探します。"
+    },
+    "en": {
+      "summary": "Trident Holly Fern. A distinctive evergreen fern whose fronds form a 'T' shape — two long basal pinnae extending sideways with the central axis continuing long, evoking a bell-striking mallet (the Japanese name).",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and moist slopes.",
+      "finding_tips": "Year-round look on damp forest floors for ferns with a pair of long basal pinnae extending laterally and a long central axis, forming a T or Y shape."
+    },
+    "zh": {
+      "summary": "戟叶耳蕨。叶呈独特『T 字形』（基部一对长侧羽片加延长中轴）的常绿蕨。日文俗名取自撞钟用的木槌。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、湿润斜坡。",
+      "finding_tips": "全年在潮湿林床寻找基部具一对延长侧羽片、中轴延长成 T 字或 Y 字形的蕨。"
+    }
   }
 }
