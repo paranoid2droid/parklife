@@ -21600,5 +21600,185 @@
       "habitat_hint": "杂木林林床、神社林、河岸林、潮湿石下、半阴枯叶层。",
       "finding_tips": "全年（暖季活跃）在林床与石下寻找头胸极细长的大型步甲。可能在蜗牛壳周边发现。"
     }
+  },
+  "Xylena formosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キバラモクメキリガ。秋〜冬に発生する大型のヤガで、翅の模様が「木目」のように見え腹部が黄色なのが和名の由来。樹液や腐果に集まります。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、果樹園、神社林。",
+      "finding_tips": "10〜12月、樹液の出る樹や腐果の周辺で翅に木目模様、腹部が黄色の大型ガを探します。"
+    },
+    "en": {
+      "summary": "Yellow-bellied Woodgrain Sallow. A large autumn-to-winter-emerging noctuid moth with wood-grain wing patterns and a yellow abdomen — the source of the Japanese name. Attracted to tree sap and fallen fruit.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, orchards, and shrine groves.",
+      "finding_tips": "From October to December look at sap flows and fallen fruit for large moths with wood-grain wing patterns and yellow abdomens."
+    },
+    "zh": {
+      "summary": "黄腹木纹秋翅夜蛾。秋至冬发生的大型夜蛾，翅纹似木纹、腹部黄色是日文俗名由来。聚集于树液与腐果。",
+      "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
+      "finding_tips": "十至十二月在树液与腐果周边寻找具木纹翅、黄色腹部的大型蛾。"
+    }
+  },
+  "Tetrix japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハラヒシバッタ。小型のバッタで、前胸背が腹部全体を覆って「菱形」に見えるのが「ハラヒシ（腹菱）」の名の由来。地面や落ち葉の中で見つかります。",
+      "habitat_hint": "草地、河川敷の裸地、農地、湿った地面、林縁の落ち葉。",
+      "finding_tips": "通年（暖かい季節に活動的）、草地や河川敷の裸地で前胸背が腹部全体を覆って菱形に見える小型バッタを探します。"
+    },
+    "en": {
+      "summary": "Japanese Pygmy Grasshopper. A small grasshopper in which the pronotum extends back to cover the whole abdomen, giving a diamond shape — the source of the Japanese name 'belly-diamond'. Found on bare ground and in leaf litter.",
+      "habitat_hint": "Grasslands, bare ground on riverbanks, farmland, damp ground, and leaf litter at forest edges.",
+      "finding_tips": "Year-round (most active in warm seasons), look on grasslands and bare ground on riverbanks for small grasshoppers with pronotum extending over the abdomen in a diamond shape."
+    },
+    "zh": {
+      "summary": "日本菱蝗。小型蝗虫，前胸背向后延伸覆盖整个腹部呈菱形是日文俗名『腹菱』由来。常见于地面与枯叶层。",
+      "habitat_hint": "草地、河滩裸地、农田、潮湿地面、林缘枯叶。",
+      "finding_tips": "全年（暖季活跃）在草地与河滩裸地寻找前胸背延伸覆盖腹部呈菱形的小型蝗虫。"
+    }
+  },
+  "Biston robustum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビモンオオエダシャク。大型のシャクガで、雌の体は太く翅が退化しています。雄は翅に小さな黒点があり、樹幹で休みます。幼虫は様々な広葉樹を食害。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "3〜5月（春の早い時期に出現）、樹幹で翅に小さな黒点を持つ大型のシャクガを探します。雌は飛べないため樹皮上で見つけられます。"
+    },
+    "en": {
+      "summary": "Black-dotted Geometer. A large geometrid moth in which females are stout-bodied with reduced wings (flightless). Males have small black spots on the wings; rest on tree trunks. Caterpillars defoliate many broadleaf trees.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From March to May (early-spring emerger), look on tree trunks for large geometrid moths with small black spots on the wings. Flightless females are found on bark."
+    },
+    "zh": {
+      "summary": "黑点大尺蛾。大型尺蛾，雌性体粗翅退化（不能飞）。雄性翅上具小黑点，停于树干。幼虫为害多种阔叶树。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "三至五月（早春发生）在树干寻找翅上具小黑点的大型尺蛾。不能飞的雌性可在树皮上找到。"
+    }
+  },
+  "Operophtera rectipostmediana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イチモジフユナミシャク。冬（11〜2月）に発生する小型のシャクガ。雄は淡褐色の翅を持ちますが、雌は翅が退化して飛べません。雪の積もる山地でも活動できる珍しい部類のガ。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、神社林、河畔林。",
+      "finding_tips": "11〜2月、雑木林の樹幹で淡褐色の翅を持つ雄の小型シャクガを探します。冬に活動する珍しいガで、雌は翅がないので樹皮上で見つけられます。"
+    },
+    "en": {
+      "summary": "Winter Geometer. A small geometrid moth emerging in winter (November-February). Males have pale-brown wings; females are wingless (flightless). One of the rare moths active in winter — including in snowy mountain areas.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, shrine groves, and riparian woods.",
+      "finding_tips": "From November to February look on tree trunks in secondary woodlands for small pale-brown winged males. One of few moths active in winter; wingless females are found on bark."
+    },
+    "zh": {
+      "summary": "直纹冬尺蛾。冬季（十一至二月）发生的小型尺蛾。雄性具淡褐色翅，雌性翅退化不能飞。能在积雪山地活动属罕见冬蛾。",
+      "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
+      "finding_tips": "十一至二月在杂木林树干寻找具淡褐色翅的小型雄性尺蛾。冬季活跃的稀有蛾种；无翅雌性可在树皮上发现。"
+    }
+  },
+  "Antigius attilia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミズイロオナガシジミ。初夏に発生する小型のシジミチョウで、ゼフィルス（樹上性シジミ）の一種。翅の表が淡水色〜淡灰色で、後翅に長い尾状突起（オナガ）があります。",
+      "habitat_hint": "クヌギ・コナラのある雑木林、林縁、神社林、河畔林。",
+      "finding_tips": "6〜7月、雑木林の林縁や樹冠で翅の表が淡水色、後翅に長い尾状突起を持つ小型シジミチョウを探します。"
+    },
+    "en": {
+      "summary": "Water-blue Long-tailed Hairstreak. A small lycaenid emerging in early summer; a member of the 'zephyrus' canopy hairstreaks. Upperside pale water-blue to pale grey; hindwings bear long tail-like projections.",
+      "habitat_hint": "Secondary woodlands with oaks, forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From June to July look at forest edges and canopies for small lycaenids with pale water-blue upperwings and long hindwing tails."
+    },
+    "zh": {
+      "summary": "水色长尾灰蝶。初夏发生的小型灰蝶，属树冠『泽豹蝶』类。翅表淡水蓝至淡灰色，后翅具长尾状突起。",
+      "habitat_hint": "有麻栎与小楢的杂木林、林缘、神社林、河岸林。",
+      "finding_tips": "六至七月在杂木林林缘与树冠寻找具淡水蓝翅表、长后翅尾突起的小型灰蝶。"
+    }
+  },
+  "Comostola subtiliaria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コヨツメアオシャク。小型のアオシャクで、緑色の翅に4つの小さな白い斑点（ヨツメ＝四目）があります。樹幹や葉裏で休み、夜間に活動。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で緑色の翅に4つの白い斑点を持つ小型ガを探します。"
+    },
+    "en": {
+      "summary": "Small Four-spotted Emerald. A small green geometrid moth with four small white spots on the wings — the source of the Japanese name 'four-eye'. Rests on tree trunks and leaf undersides; nocturnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for small green moths with four white spots."
+    },
+    "zh": {
+      "summary": "小四眼绿尺蛾。小型绿尺蛾，绿色翅上具 4 个白色小斑（『四眼』）。停于树干与叶背，夜间活动。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找绿色翅具 4 个白斑的小型蛾。"
+    }
+  },
+  "Sisymbrium officinale": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カキネガラシ。欧州原産の一年〜二年草のアブラナ科で、空き地や道端、農地に帰化。背が高く（〜1m）、細長い直立した茎の先に黄色い小花を付け、果実は茎にぴったりと付くのが特徴。",
+      "habitat_hint": "空き地、道端、農地の縁、河川敷、舗装の隙間。",
+      "finding_tips": "5〜10月、空き地や道端で背が高く、細長い茎の先に黄色い小花と、茎にぴったり付く細い果実を持つ多年草を探します。"
+    },
+    "en": {
+      "summary": "Hedge Mustard. A European-origin annual to biennial crucifer naturalised on vacant lots, roadsides, and farmland. Tall (up to 1 m) with slender erect stems bearing yellow small flowers and pods pressed tightly against the stem — diagnostic.",
+      "habitat_hint": "Vacant lots, roadsides, farmland margins, riverbanks, and pavement cracks.",
+      "finding_tips": "From May to October look on vacant lots and roadsides for tall annuals with slender stems bearing yellow flowers and pods tightly appressed to the stem."
+    },
+    "zh": {
+      "summary": "钻形荠（垣篱芥）。原产欧洲的一至二年生十字花科，归化于空地、路边与农田。高 1 米左右，细长直立茎顶生黄色小花，果实紧贴茎为特征。",
+      "habitat_hint": "空地、路边、农田边缘、河滩、路面缝。",
+      "finding_tips": "五至十月在空地与路边寻找具高大、细长茎、顶部黄色小花、果实紧贴茎的一至二年生草本。"
+    }
+  },
+  "Mentha canadensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニホンハッカ。日本固有の多年草のシソ科で、湿った場所に生え、独特の爽やかなミントの香りを持ちます。古くから薬用・香料用に栽培されたハッカの原種。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、半日陰の道端、農地の縁。",
+      "finding_tips": "8〜10月、湿地や水田畦で対生の披針形の葉と淡紫色の小花の葉腋花序を持つ多年草を探します。葉を揉むとミントの強い香りで識別できます。"
+    },
+    "en": {
+      "summary": "Japanese Mint. A Japan-endemic Lamiaceae perennial of damp places, with a distinctive fresh mint aroma. The ancestral source of cultivated Japanese mint for medicine and flavouring.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, partly shaded roadsides, and farmland margins.",
+      "finding_tips": "From August to October look in wetlands and paddy bunds for perennials with opposite lanceolate leaves and pale-purple flowers in axillary clusters. Strong mint aroma when crushed confirms identification."
+    },
+    "zh": {
+      "summary": "薄荷（日本薄荷）。日本固有的唇形科多年草，生于潮湿处，具独特清爽薄荷香气。是日本栽培作药用与香料的薄荷原种。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、半阴路边、农田边缘。",
+      "finding_tips": "八至十月在湿地与水田田埂寻找具对生披针叶、叶腋淡紫色小花的多年草。揉碎叶有浓郁薄荷香可识别。"
+    }
+  },
+  "Glyceria ischyroneura": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ドジョウツナギ。湿地や水田、用水路に生える多年生イネ科。茎が柔らかく這うように広がり、淡緑色の繊細な円錐花序を持ちます。",
+      "habitat_hint": "湿地、水田、用水路、河川敷の湿地、休耕田。",
+      "finding_tips": "5〜8月、湿地や水田で柔らかく這う茎と淡緑色の繊細な円錐花序を持つ多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Manchurian Mannagrass. A perennial grass of wetlands, paddies, and irrigation channels. Soft creeping stems; delicate pale-green panicles.",
+      "habitat_hint": "Wetlands, rice paddies, irrigation channels, wet riverbanks, and fallow paddies.",
+      "finding_tips": "From May to August look in wetlands and paddies for perennial grasses with soft creeping stems and delicate pale-green panicles."
+    },
+    "zh": {
+      "summary": "硬脉甜茅。湿地、水田与灌溉沟的多年生禾本科。茎柔软匍匐扩展，具淡绿色纤细圆锥花序。",
+      "habitat_hint": "湿地、水田、灌溉沟、河滩湿地、休耕田。",
+      "finding_tips": "五至八月在湿地与水田寻找具柔软匍匐茎、淡绿色纤细圆锥花序的多年生禾本科。"
+    }
+  },
+  "Vicia unijuga": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナンテンハギ。明るい林縁や草地に生える多年草のマメ科。葉が2枚の小葉で構成され、ナンテンの葉に似ることが和名の由来。秋に淡紫色の蝶形花が穂状に並びます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、河川敷の草地。",
+      "finding_tips": "7〜10月、明るい林縁や草地で2小葉と淡紫色の蝶形花の穂を持つ多年草を探します。葉がナンテンに似るのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Single-pair Vetch. A perennial Fabaceae of bright forest edges and grasslands. Leaves with 2 leaflets resembling Nandina — the source of the Japanese name. Pale-purple pea-flowers in spikes in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and riverside grasslands.",
+      "finding_tips": "From July to October look at bright forest edges and grasslands for perennials with 2-leaflet leaves and spikes of pale-purple pea-flowers. Leaves resembling Nandina help identify."
+    },
+    "zh": {
+      "summary": "歪头菜。明亮林缘与草地的多年生豆科。叶仅 2 小叶似南天竹是日文俗名由来。秋季穗状开淡紫色蝶形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、河滩草地。",
+      "finding_tips": "七至十月在明亮林缘与草地寻找具 2 小叶、淡紫色蝶形花穗的多年草。叶似南天竹是识别要点。"
+    }
   }
 }
