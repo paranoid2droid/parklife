@@ -19620,5 +19620,185 @@
       "habitat_hint": "山地谷地林、溪边、杂木林林缘、神社林、湿润斜坡。",
       "finding_tips": "花期六至七月在山地谷地与林缘寻找装饰花仅在花序周围稀疏排列的绣球近亲。比绣球更小更纤细。"
     }
+  },
+  "Sinica sinica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゲラ近縁種で、東アジア産の鳥または昆虫の一種。詳細不明な分類群のため、観察時には専門書で確認をお勧めします。",
+      "habitat_hint": "雑木林、林縁、河畔林、神社林、農地の縁。",
+      "finding_tips": "観察時には詳細な特徴（体色、サイズ、動きなど）を記録し、専門書やiNaturalistの専門家コミュニティに照会することをお勧めします。"
+    },
+    "en": {
+      "summary": "An East Asian taxon (Sinica sinica). Identification details unclear; recommend confirming with reference books and the iNaturalist expert community when observing.",
+      "habitat_hint": "Secondary woodlands, forest edges, riparian woods, shrine groves, and farmland margins.",
+      "finding_tips": "When observed, record detailed features (colour, size, movement) and check with reference books or the iNaturalist expert community."
+    },
+    "zh": {
+      "summary": "东亚分类群一种（Sinica sinica）。识别细节不明，观察时建议查阅专业资料或 iNaturalist 专家社区确认。",
+      "habitat_hint": "杂木林、林缘、河岸林、神社林、农田边缘。",
+      "finding_tips": "观察时记录详细特征（体色、大小、行动等），并查阅专业资料或向 iNaturalist 专家社区咨询。"
+    }
+  },
+  "Carex dispalata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カサスゲ。湿地や水田畦に普通な多年生のスゲ。葉が硬く長く、かつて笠（カサ）や蓑（みの）の材料として利用されたことが和名の由来。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "5〜7月、湿地や水田畦で硬く長い線形の葉を持つ大型スゲを探します。果穂は太く長い円柱形。"
+    },
+    "en": {
+      "summary": "Umbrella Sedge. A perennial sedge common in wetlands and on paddy bunds. Hard long leaves were historically used to make woven rain hats and capes — the source of the Japanese name 'kasa-suge'.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From May to July look in wetlands and paddy bunds for large sedges with hard long linear leaves. Fruiting spikes are thick and elongated cylinders."
+    },
+    "zh": {
+      "summary": "笠苔草。湿地与水田田埂常见的多年生莎草。叶硬而长，曾用于编织斗笠与蓑衣，是日文俗名『笠菅』由来。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "五至七月在湿地与水田田埂寻找具硬而长线形叶的大型莎草。果穗为粗壮长圆柱形。"
+    }
+  },
+  "Polystichum anceps": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ドウリョウイノデ。湿った林床に生える中型〜大型の常緑シダ。葉柄基部に密集した淡褐色の鱗片を持ち、葉は2回羽状に分裂します。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で2回羽状の中型〜大型の常緑シダを探します。葉柄基部の密な淡褐色鱗片が手がかり。"
+    },
+    "en": {
+      "summary": "Two-edged Holly Fern. A medium to large evergreen wood fern of damp forest floors. Dense pale-brown scales at the stipe base; bipinnate fronds.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for medium to large bipinnate evergreen wood ferns. Dense pale-brown scales at the stipe base help confirm."
+    },
+    "zh": {
+      "summary": "二尖耳蕨。潮湿林床的中至大型常绿蕨。叶柄基部密生淡褐色鳞片，叶 2 回羽状。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找叶 2 回羽状的中至大型常绿蕨。叶柄基部密集淡褐色鳞片可助识别。"
+    }
+  },
+  "Arachniodes miqueliana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タカヤマナライシダ。湿った林床に生える中型の常緑シダ。葉が独特の硬い質感で、最下羽片の基部にある下向きの「下羽片」が特徴。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で硬い質感の単羽状〜2回羽状の常緑シダを探します。最下羽片の下側にある「下羽片」（耳のような突起）が識別ポイント。"
+    },
+    "en": {
+      "summary": "Miquel's East Indian Holly Fern. A medium evergreen fern of damp forest floors. Distinctively stiff-textured fronds with a downward-pointing pinnule at the base of the lowest pinna.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for stiff-textured simply pinnate to bipinnate evergreen ferns. The downward 'ear-like' pinnule at the base of the lowest pinna is diagnostic."
+    },
+    "zh": {
+      "summary": "高山亮蕨。潮湿林床的中型常绿蕨。叶质独特坚硬，最下羽片基部具向下『下羽片』为特征。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找叶质坚硬、一至二回羽状的常绿蕨。最下羽片基部具向下『耳状』羽片是识别要点。"
+    }
+  },
+  "Setaria pumila": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キンエノコロ。河川敷や畑、空き地に普通な一年生イネ科。穂はエノコログサに似ますが芒（のぎ）が黄金色〜橙色を帯びるのが和名「金狗尾草」の由来。",
+      "habitat_hint": "河川敷、畑、農地の縁、道端、空き地、芝地の縁。",
+      "finding_tips": "8〜10月、河川敷や畑で穂の芒が黄金色〜橙色を帯びる一年生イネ科を探します。エノコログサとの違いは芒の色。"
+    },
+    "en": {
+      "summary": "Yellow Foxtail. A common annual grass of riverbanks, fields, and vacant lots. Similar to green foxtail but with golden-orange bristles — the source of the Japanese name 'golden-foxtail'.",
+      "habitat_hint": "Riverbanks, fields, farmland margins, roadsides, vacant lots, and lawn margins.",
+      "finding_tips": "From August to October look on riverbanks and fields for annual grasses with golden-orange tinged spike bristles. Bristle colour separates it from green foxtail."
+    },
+    "zh": {
+      "summary": "金色狗尾草。河滩、菜地与空地常见的一年生禾本科。穗形似狗尾草但芒带金黄至橙色，是日文俗名『金狗尾草』由来。",
+      "habitat_hint": "河滩、菜地、农田边缘、路边、空地、草坪边。",
+      "finding_tips": "八至十月在河滩与菜地寻找穗上芒带金黄至橙色的一年生禾本科。芒色与狗尾草区分。"
+    }
+  },
+  "Persicaria japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロバナサクラタデ。湿地や水辺に生える多年草のタデ科。白色の小さな花が穂状に密集し、サクラタデ（淡桃色）と対をなす白花型。雌雄異株。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "8〜10月、湿地や水辺で白い小花が穂状に密集する多年草を探します。葉は披針形で対生に近い互生。"
+    },
+    "en": {
+      "summary": "White-flowered Sakura Smartweed. A perennial smartweed of wetlands and waterside. White small flowers densely packed in spikes — the white-flowered counterpart of pink-flowered Sakura Smartweed. Dioecious.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From August to October look in wetlands and waterside for perennials with white flowers densely packed in spikes. Lanceolate alternate (almost opposite) leaves."
+    },
+    "zh": {
+      "summary": "白花樱蓼。湿地与水边的多年生蓼科。白色小花密集成穗状，是淡粉色樱蓼的白花对应种。雌雄异株。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "八至十月在湿地与水边寻找具白色小花密集成穗的多年草。叶披针形互生（近对生）。"
+    }
+  },
+  "Corydalis decumbens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジロボウエンゴサク。早春に淡紫色〜紅紫色の独特な距のある花を咲かせる小型多年草のケシ科。スプリングエフェメラルで、夏には地上部が消えます。",
+      "habitat_hint": "明るい雑木林の林床、谷地林、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "3〜4月、明るい雑木林の林床で淡紫〜紅紫色の独特な距のある花を持つ小型多年草を探します。葉は3小葉が2〜3回つく繊細な複葉。"
+    },
+    "en": {
+      "summary": "Decumbent Corydalis. A small Papaveraceae perennial with distinctive pale-purple to reddish-purple spurred flowers in early spring. A spring ephemeral — aboveground parts wither by summer.",
+      "habitat_hint": "Bright secondary woodland floors, valley woods, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From March to April look on bright secondary woodland floors for small perennials with distinctive pale-purple to reddish-purple spurred flowers. Delicate trifoliate compound leaves."
+    },
+    "zh": {
+      "summary": "夏天无（伏生紫堇）。早春开淡紫至红紫色独特具距花的小型多年生罂粟科。属春季短生植物，夏季地上部分凋萎。",
+      "habitat_hint": "明亮杂木林林床、谷地林、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "三至四月在明亮杂木林林床寻找具淡紫至红紫色独特具距花的小型多年草。叶为纤细的三出复叶。"
+    }
+  },
+  "Sarcandra glabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "センリョウ。常緑低木で、葉の縁に粗い鋸歯と光沢があります。冬に赤い小球形果実が房状に上向きにつき、正月飾りに使われます。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、雑木林の林床、住宅地の庭木。",
+      "finding_tips": "果期11〜2月、庭園や林床で光沢のある葉と上向きに付く赤い小球形果実を持つ常緑低木を探します。マンリョウとの違いは果実が上向き（マンリョウは下向き）。"
+    },
+    "en": {
+      "summary": "Senryo. An evergreen shrub with glossy leaves with coarsely serrated margins. Small red globose fruits in upward-facing clusters in winter — used as New Year decoration in Japan.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, secondary woodland floors, and residential gardens.",
+      "finding_tips": "Fruits November to February. Look in gardens and forest floors for evergreen shrubs with glossy leaves and upward-facing clusters of small red globose fruits. Differs from Manryo (Ardisia crenata) by upward (not downward) fruits."
+    },
+    "zh": {
+      "summary": "草珊瑚（千两）。常绿灌木，叶具光泽与粗锯齿缘。冬季向上结红色小球形果实，常用于日本新年装饰。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、杂木林林床、住宅区庭树。",
+      "finding_tips": "果期十一至二月在庭园与林床寻找具光泽叶、向上结红色小球形果的常绿灌木。果向上与朱砂根（向下）可区分。"
+    }
+  },
+  "Broussonetia kazinoki": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメコウゾ。落葉低木〜小高木のクワ科で、和紙の原料コウゾの近縁種。葉は深く2〜3裂することが多く、不規則な切れ込み。初夏に赤い小球形果実が熟します。",
+      "habitat_hint": "雑木林の林縁、二次林、神社林、河畔林、住宅地の藪。",
+      "finding_tips": "果期6〜7月、林縁で深く2〜3裂した不規則な葉と赤い小球形果実を持つ落葉低木を探します。クワ科の樹液が出ます。"
+    },
+    "en": {
+      "summary": "Small Paper Mulberry. A deciduous shrub to small tree (Moraceae), related to the paper mulberry used in Japanese paper making. Leaves often deeply 2-3 lobed; red small globose fruits ripen in early summer.",
+      "habitat_hint": "Secondary woodland edges, secondary woods, shrine groves, riparian woods, and residential thickets.",
+      "finding_tips": "Fruits June to July. Look at forest edges for deciduous shrubs with deeply 2-3 lobed irregular leaves and red small globose fruits. Mulberry-family sap."
+    },
+    "zh": {
+      "summary": "小构树。桑科落叶灌木至小乔木，是和纸原料构树的近缘种。叶常深 2-3 裂不规则。初夏结红色小球形果。",
+      "habitat_hint": "杂木林林缘、次生林、神社林、河岸林、住宅区灌丛。",
+      "finding_tips": "果期六至七月在林缘寻找具深 2-3 裂不规则叶、红色小球形果的落叶灌木。桑科树液。"
+    }
+  },
+  "Chrysosplenium macrostemon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イワボタン。湿った林床や沢沿いに生える多年草のユキノシタ科。葉は対生で円形〜腎形、早春に黄緑色の小さな花を咲かせます。「岩牡丹」の名は岩の上に生える姿から。",
+      "habitat_hint": "湿った林床、沢沿い、谷地林、神社林、湿った岩場。",
+      "finding_tips": "4〜5月、湿った林床や沢沿いで対生する円形〜腎形の葉と黄緑色の小花を持つ多年草を探します。岩や倒木の上にも生えることがあります。"
+    },
+    "en": {
+      "summary": "Large-stamen Golden Saxifrage. A perennial Saxifragaceae of damp forest floors and streamsides. Opposite round to kidney-shaped leaves; small yellow-green flowers in early spring. The Japanese name 'rock peony' refers to growth on rocks.",
+      "habitat_hint": "Damp forest floors, streamsides, valley woods, shrine groves, and damp rocky places.",
+      "finding_tips": "From April to May look on damp forest floors and streamsides for perennials with opposite round to kidney-shaped leaves and small yellow-green flowers. May also grow on rocks and fallen logs."
+    },
+    "zh": {
+      "summary": "大花猫眼草。潮湿林床与溪边的虎耳草科多年草。叶对生圆形至肾形，早春开黄绿色小花。日文俗名『岩牡丹』指其常生于岩上。",
+      "habitat_hint": "潮湿林床、溪边、谷地林、神社林、潮湿岩生地。",
+      "finding_tips": "四至五月在潮湿林床与溪边寻找具对生圆至肾形叶、黄绿色小花的多年草。也可能生于岩石与倒木上。"
+    }
   }
 }
