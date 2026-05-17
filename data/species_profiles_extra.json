@@ -14922,5 +14922,185 @@
       "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、次生林、神社林。",
       "finding_tips": "四至六月在明亮林床寻找具线形细叶成丛、抽出短花穗的小型莎草。"
     }
+  },
+  "Rhinia obsoleta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニクバエの一種で、青藍色〜黒色の金属光沢を持つ中型のハエ。腐肉や糞、傷口に集まり、分解者として生態系で重要な役割を果たします。",
+      "habitat_hint": "雑木林の林床、河川敷、農地、ごみ集積所、糞や腐肉のある場所。",
+      "finding_tips": "通年（成虫は暖かい季節に活動）、糞や腐肉、傷口の動物に集まる青藍色の金属光沢を持つ中型のハエを探します。"
+    },
+    "en": {
+      "summary": "A medium fly with metallic blue-black sheen, a member of the flesh fly family. Attracted to carrion, dung, and wounds; an important ecological decomposer.",
+      "habitat_hint": "Secondary woodland floors, riverbanks, farmland, refuse areas, and around dung or carrion.",
+      "finding_tips": "Year-round (adults active in warm seasons), look around dung, carrion, and wounded animals for medium flies with metallic blue-black sheen."
+    },
+    "zh": {
+      "summary": "肉蝇科一种，具蓝黑色金属光泽的中型蝇。聚集于腐肉、粪便、伤口，作为分解者在生态系统中作用重要。",
+      "habitat_hint": "杂木林林床、河滩、农田、垃圾收集处、粪便与腐肉周边。",
+      "finding_tips": "全年（成虫暖季活跃）在粪便、腐肉、伤口动物周边寻找具蓝黑色金属光泽的中型蝇。"
+    }
+  },
+  "Thelypteris palustris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ショリマ（ヌマシダ）。湿地や沼地に生える中型のシダ。葉柄が長く、湿った泥地に直立して生えます。落葉性。",
+      "habitat_hint": "湿地、沼地、ため池の縁、湿原、河畔林の湿った地表。",
+      "finding_tips": "5〜10月（落葉性）、湿地や沼地で長い葉柄を持ち、湿った泥地に直立して生える中型シダを探します。乾燥地では見つかりません。"
+    },
+    "en": {
+      "summary": "Marsh Fern. A medium deciduous fern of wetlands and bogs. Long stipe; stands erect from wet mud.",
+      "habitat_hint": "Wetlands, bogs, pond edges, mires, and wet ground in riparian forests.",
+      "finding_tips": "From May to October (deciduous), look in wetlands and bogs for medium ferns with long stipes standing erect from wet mud. Not found in dry sites."
+    },
+    "zh": {
+      "summary": "沼泽蕨。湿地与沼泽中型落叶蕨。叶柄长，自湿泥地直立而出。",
+      "habitat_hint": "湿地、沼泽、池塘边、沼原、河岸林湿地表。",
+      "finding_tips": "五至十月（落叶）在湿地与沼泽寻找叶柄长、从湿泥地直立而出的中型蕨。干燥地无分布。"
+    }
+  },
+  "Thalictrum minus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アキカラマツ。秋に小さな黄白色の花を多数咲かせる多年草。葉が小さく繊細で、カラマツの葉のように見えることが和名の由来。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、河川敷の草地。",
+      "finding_tips": "8〜10月、林縁や草地で小さな葉が繊細に分かれた多年草を探します。花は花弁が退化し雄しべが目立つ独特の形。"
+    },
+    "en": {
+      "summary": "Lesser Meadow-Rue. A perennial with many small whitish-yellow flowers in autumn. Small delicate leaves resembling those of larch — the source of the Japanese name.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and riverside grasslands.",
+      "finding_tips": "From August to October look at forest edges and grasslands for perennials with delicate dissected leaves. Flowers lack petals; conspicuous stamens give the distinctive look."
+    },
+    "zh": {
+      "summary": "亚欧唐松草。秋季密生小型黄白色花的多年草。叶小而纤细，似落叶松叶，日文俗名因此而来。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、河滩草地。",
+      "finding_tips": "八至十月在林缘与草地寻找叶细分裂的多年草。花瓣退化，雄蕊显眼形成独特外观。"
+    }
+  },
+  "Ginkgo biloba": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イチョウ。生きた化石とも呼ばれる原始的な落葉樹で、扇形の葉が特徴。秋の黄葉が美しく、街路樹や寺社木として広く植栽。雌株は銀杏（ぎんなん）を実らせます。",
+      "habitat_hint": "街路樹、公園植栽、寺社境内、庭園、学校。",
+      "finding_tips": "通年、扇形の独特な葉を持つ大型落葉樹を探します。秋（11月）の鮮黄色の黄葉が見事。雌株では秋に銀杏が実り、独特の臭いがします。"
+    },
+    "en": {
+      "summary": "Ginkgo. A 'living fossil' deciduous tree with distinctive fan-shaped leaves. Stunning yellow autumn colour; widely planted as a street and temple tree. Female trees bear ginkgo nuts.",
+      "habitat_hint": "Street trees, park plantings, temple/shrine grounds, gardens, and schools.",
+      "finding_tips": "Year-round, look for large deciduous trees with distinctive fan-shaped leaves. Brilliant yellow in November. Female trees produce malodorous ginkgo nuts in autumn."
+    },
+    "zh": {
+      "summary": "银杏。被称为『活化石』的原始落叶树，扇形叶独特。秋季金黄叶色壮观，广作行道树与寺庙木。雌株结银杏果。",
+      "habitat_hint": "行道树、公园栽植、寺社境内、庭园、学校。",
+      "finding_tips": "全年寻找具扇形独特叶的大型落叶树。秋季（十一月）鲜黄叶色壮观。雌株秋结银杏果，具独特气味。"
+    }
+  },
+  "Murdannia keisak": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イボクサ。水田や湿地に生える一年草で、ツユクサ科。淡桃色〜淡紫色の小さな3弁花を咲かせます。和名は葉を揉んだ汁がイボに効くという俗説から。",
+      "habitat_hint": "水田、湿地、用水路、休耕田、河川敷の湿地。",
+      "finding_tips": "8〜10月、水田や湿地で線形〜披針形の葉と淡桃色の3弁花を持つ匍匐性の一年草を探します。"
+    },
+    "en": {
+      "summary": "Marsh Dewflower. An annual of paddies and wetlands in the Commelinaceae family. Small pale-pink to pale-purple 3-petalled flowers. Japanese name from folk belief that the leaf sap cures warts ('ibo').",
+      "habitat_hint": "Rice paddies, wetlands, irrigation channels, fallow fields, and wet riverbanks.",
+      "finding_tips": "From August to October look in paddies and wetlands for creeping annuals with linear-lanceolate leaves and pale-pink 3-petalled flowers."
+    },
+    "zh": {
+      "summary": "水竹叶。水田与湿地的一年生鸭跖草科。开淡粉至淡紫色三瓣小花。日文俗名源自民间『叶汁治疣』之说。",
+      "habitat_hint": "水田、湿地、灌溉沟、休耕田、河滩湿地。",
+      "finding_tips": "八至十月在水田与湿地寻找具线形至披针形叶、淡粉色三瓣花的匍匐一年草。"
+    }
+  },
+  "Anotogaster sieboldii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニヤンマ。日本最大のトンボで、体長10cm以上。黒地に鮮やかな黄色の縞模様を持ち、エメラルドグリーンの大きな目が印象的です。",
+      "habitat_hint": "山地や丘陵地の沢、ゆるやかな清流、湿地、林縁の水辺。",
+      "finding_tips": "7〜10月、山地や丘陵地の沢や水辺で日本最大級の黒黄縞模様のトンボを探します。一定のパトロールルートを巡回する習性があります。"
+    },
+    "en": {
+      "summary": "Golden-ringed Dragonfly. Japan's largest dragonfly at over 10 cm long. Black body with brilliant yellow bands and striking emerald green eyes.",
+      "habitat_hint": "Streams in hills and mountains, slow clear streams, wetlands, and waterside forest edges.",
+      "finding_tips": "From July to October look along hill and mountain streams for Japan's largest dragonfly, black with yellow bands. Patrols set routes repeatedly."
+    },
+    "zh": {
+      "summary": "无霸勾蜓。日本最大蜻蜓，体长 10 厘米以上。黑底配鲜艳黄色条纹，翠绿色大眼引人注目。",
+      "habitat_hint": "山地丘陵溪流、缓流清流、湿地、林缘水边。",
+      "finding_tips": "七至十月在山地与丘陵溪流寻找日本最大级、黑黄相间的蜻蜓。具固定巡逻路线习性。"
+    }
+  },
+  "Veronica hederifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フラサバソウ。欧州原産の小型一年草で、早春に淡青〜淡紫色の小さな4弁花を咲かせます。葉がツタに似ることから学名 'hederifolia' (ツタ葉の)。",
+      "habitat_hint": "畑、道端、空き地、芝地、農地の縁、河川敷の草地。",
+      "finding_tips": "2〜5月、畑や道端でハート形〜円形の葉と淡青〜淡紫の小さな4弁花を持つ小型の匍匐性一年草を探します。"
+    },
+    "en": {
+      "summary": "Ivy-leaved Speedwell. A small European-origin annual with pale-blue to pale-purple 4-petalled flowers in early spring. The species name 'hederifolia' means 'ivy-leaved'.",
+      "habitat_hint": "Fields, roadsides, vacant lots, lawns, farmland margins, and riverside grasslands.",
+      "finding_tips": "From February to May look in fields and roadsides for small creeping annuals with heart-to-round-shaped leaves and pale-blue to pale-purple 4-petalled flowers."
+    },
+    "zh": {
+      "summary": "常春藤叶婆婆纳。原产欧洲的小型一年草，早春开淡蓝至淡紫四瓣小花。叶似常春藤，种加词『hederifolia』即指此。",
+      "habitat_hint": "菜地、路边、空地、草坪、农田边缘、河滩草地。",
+      "finding_tips": "二至五月在菜地与路边寻找具心形至圆形叶、淡蓝至淡紫四瓣小花的小型匍匐一年草。"
+    }
+  },
+  "Polistes snelleni": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コアシナガバチ。小型のアシナガバチで、黒地に黄色の縞模様。軒下や植え込みに小さな傘状の巣を作ります。",
+      "habitat_hint": "住宅地の軒下、生垣、雑木林、林縁、農地の縁。",
+      "finding_tips": "4〜10月、軒下や生垣で小さな傘状の巣を作る黒黄縞模様のアシナガバチを探します。キアシナガバチより小型で脚も黒っぽい。"
+    },
+    "en": {
+      "summary": "Small Paper Wasp. A small paper wasp, black with yellow bands. Builds small umbrella-shaped nests under eaves and in shrubs.",
+      "habitat_hint": "Residential eaves, hedges, secondary woodlands, forest edges, and farmland margins.",
+      "finding_tips": "From April to October look under eaves and in hedges for black-and-yellow paper wasps building small umbrella-shaped nests. Smaller and with darker legs than Yellow-legged Paper Wasp."
+    },
+    "zh": {
+      "summary": "斯氏马蜂。小型马蜂，黑底配黄色条纹。在檐下与灌木中筑小型伞状巢。",
+      "habitat_hint": "住宅檐下、绿篱、杂木林、林缘、农田边缘。",
+      "finding_tips": "四至十月在檐下与绿篱寻找筑小型伞状巢的黑黄条纹马蜂。比黄足马蜂更小、腿更黑。"
+    }
+  },
+  "Dolomedes sulfureus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イオウイロハシリグモ。水辺に住む大型のキシダグモ科のクモ。水面を走り、水中の昆虫や小魚を捕えます。網は張りません。",
+      "habitat_hint": "湿地、ため池、水田、用水路、河川敷の水辺。",
+      "finding_tips": "5〜10月、湿地や池の水面・水草で大型のクモを探します。淡黄色〜褐色で、水面を走る能力が特徴。網は張らない徘徊性。"
+    },
+    "en": {
+      "summary": "Sulphur-yellow Fishing Spider. A large nursery web spider of waterside habitats. Runs on the water surface and catches aquatic insects and small fish. No webs.",
+      "habitat_hint": "Wetlands, ponds, rice paddies, irrigation channels, and waterside on riverbanks.",
+      "finding_tips": "From May to October look on the surface and aquatic plants of wetlands and ponds for large spiders. Pale yellow to brown; distinctively runs on water. A wanderer — no webs."
+    },
+    "zh": {
+      "summary": "硫磺色狡蛛。栖于水边的大型育幼网蛛科蜘蛛。在水面奔跑捕食水生昆虫与小鱼，不结网。",
+      "habitat_hint": "湿地、池塘、水田、灌溉沟、河滩水边。",
+      "finding_tips": "五至十月在湿地与池塘水面、水草上寻找大型蜘蛛。淡黄至褐色，能在水面奔跑。游猎性，不结网。"
+    }
+  },
+  "Plesiophthalmus nigrocyaneus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キマワリ。樹幹を歩き回ることが和名の由来の中型のゴミムシダマシ科。黒〜暗藍色で金属光沢があります。",
+      "habitat_hint": "雑木林、樹液の出る樹幹、倒木、神社林、公園の大木。",
+      "finding_tips": "5〜9月、雑木林で樹幹を歩き回る黒〜暗藍色の金属光沢を持つ中型甲虫を探します。樹皮の隙間にも潜んでいます。"
+    },
+    "en": {
+      "summary": "A medium darkling beetle whose Japanese name 'tree wanderer' refers to its habit of walking on tree trunks. Blackish-blue with metallic sheen.",
+      "habitat_hint": "Secondary woodlands, sap-flowing trunks, fallen logs, shrine groves, and large park trees.",
+      "finding_tips": "From May to September look in secondary woodlands for blackish-blue metallic-sheen medium beetles walking on tree trunks. Also hides in bark crevices."
+    },
+    "zh": {
+      "summary": "树皮拟步甲。日文俗名『树绕』指其在树干上四处行走的习性。中型，黑至暗蓝色具金属光泽。",
+      "habitat_hint": "杂木林、出树液的树干、倒木、神社林、公园大树。",
+      "finding_tips": "五至九月在杂木林寻找在树干上行走的黑至暗蓝色金属光泽中型甲虫。也躲于树皮缝隙。"
+    }
   }
 }
