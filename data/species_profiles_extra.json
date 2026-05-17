@@ -17082,5 +17082,185 @@
       "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
       "finding_tips": "八至十月在潮湿林床与林缘寻找具大型卵形叶、密生下垂黄色小头状花的多年草。"
     }
+  },
+  "Equisetum ramosissimum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌドクサ。河川敷や湿地、空き地に生える多年生のトクサ科。茎が分岐するのが特徴で、地下茎で広がります。シダ植物に近い古いタイプの植物。",
+      "habitat_hint": "河川敷、湿地、空き地、農地の縁、道端の湿った場所。",
+      "finding_tips": "通年（茎は冬枯れ）、河川敷や湿地で節のある分岐した緑色の茎を持つ植物を探します。葉は退化して小さく、節を囲む環状。"
+    },
+    "en": {
+      "summary": "Branched Horsetail. A perennial horsetail of riverbanks, wetlands, and vacant lots. Stems branch (unlike many horsetails); spreads by rhizomes. An ancient lineage related to ferns.",
+      "habitat_hint": "Riverbanks, wetlands, vacant lots, farmland margins, and damp roadsides.",
+      "finding_tips": "Year-round (stems die back in winter), look on riverbanks and wetlands for plants with jointed branching green stems. Leaves reduced to a sheath at each node."
+    },
+    "zh": {
+      "summary": "节节草。河滩、湿地、空地的多年生木贼科。茎分枝（区别于多数木贼），靠地下茎扩散。是与蕨类相近的古老植物。",
+      "habitat_hint": "河滩、湿地、空地、农田边缘、潮湿路边。",
+      "finding_tips": "全年（茎冬季枯死）在河滩与湿地寻找具节、分枝绿色茎的植物。叶退化为节上环状鞘。"
+    }
+  },
+  "Veronica peregrina": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムシクサ。北米原産の小型一年草で、水田や湿地、畑に帰化。茎は直立〜匍匐し、葉腋に極めて小さな白い花を1個ずつつけます。",
+      "habitat_hint": "水田、湿地、畑、休耕田、河川敷の湿地。",
+      "finding_tips": "4〜6月、水田や湿地で線形〜披針形の葉と、葉腋に極めて小さな白い花を1個ずつつける小型一年草を探します。"
+    },
+    "en": {
+      "summary": "Purslane Speedwell. A small North American annual naturalised in paddies, wetlands, and fields. Erect to creeping stems; very small white flowers singly in leaf axils.",
+      "habitat_hint": "Rice paddies, wetlands, fields, fallow paddies, and wet riverbanks.",
+      "finding_tips": "From April to June look in paddies and wetlands for small annuals with linear-lanceolate leaves and very small white flowers borne singly in leaf axils."
+    },
+    "zh": {
+      "summary": "蚊母草。原产北美的小型一年草，归化于水田、湿地与菜地。茎直立至匍匐，叶腋单生极小白色花。",
+      "habitat_hint": "水田、湿地、菜地、休耕田、河滩湿地。",
+      "finding_tips": "四至六月在水田与湿地寻找具线形至披针形叶、叶腋单生极小白色花的小型一年草。"
+    }
+  },
+  "Arenaria serpyllifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノミノツヅリ。畑や芝地、道端に普通な小型一年〜二年草のナデシコ科。和名は葉が「蚤の綴り（小さい綴れ）」のように小さいことから。",
+      "habitat_hint": "畑、芝地、道端、空き地、農地の縁、河川敷の草地。",
+      "finding_tips": "3〜6月、畑や芝地で極めて小さな卵形の葉と白い小さな5弁花を持つ小型草本を探します。葉の小ささが識別の決め手。"
+    },
+    "en": {
+      "summary": "Thymeleaf Sandwort. A small annual to biennial pink-family plant common in fields, lawns, and roadsides. The Japanese name 'flea-leaf' refers to the very small leaves.",
+      "habitat_hint": "Fields, lawns, roadsides, vacant lots, farmland margins, and riverside grasslands.",
+      "finding_tips": "From March to June look in fields and lawns for small herbs with very small ovate leaves and small white 5-petalled flowers. The tiny leaf size is diagnostic."
+    },
+    "zh": {
+      "summary": "无心菜。菜地、草坪、路边常见的小型一至二年生石竹科。日文俗名『跳蚤缀叶』指叶极小。",
+      "habitat_hint": "菜地、草坪、路边、空地、农田边缘、河滩草地。",
+      "finding_tips": "三至六月在菜地与草坪寻找具极小卵形叶、白色小型五瓣花的小型草本。叶之小是关键识别。"
+    }
+  },
+  "Oenothera biennis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メマツヨイグサ。北米原産の大型二年草で、河川敷や空き地に広く帰化。夕方に黄色い4弁花が開き、朝にしぼみます。背丈は1m近くなることも。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、造成地。",
+      "finding_tips": "6〜9月、河川敷や空き地で夕方に開く黄色い大きな4弁花を持つ大型二年草を探します。日中はしぼんで赤くなった花弁が見えることが多いです。"
+    },
+    "en": {
+      "summary": "Common Evening Primrose. A large North American biennial widely naturalised on riverbanks and vacant lots. Yellow 4-petalled flowers open in evening and close by morning. Can reach nearly 1 m tall.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and construction sites.",
+      "finding_tips": "From June to September look on riverbanks and vacant lots for large biennials with evening-opening yellow 4-petalled flowers. By day usually only see closed reddened petals."
+    },
+    "zh": {
+      "summary": "月见草。原产北美的大型二年草，在河滩与空地广泛归化。傍晚开黄色四瓣花，清晨闭合。高可近 1 米。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、工地。",
+      "finding_tips": "六至九月在河滩与空地寻找具傍晚开放的黄色大型四瓣花的大型二年草。白天多见闭合后变红的花瓣。"
+    }
+  },
+  "Eragrostis multicaulis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニワホコリ。一年生の小型イネ科で、芝地や道端、空き地に普通。多数の細い茎が叢生し、繊細な円錐花序を立てます。",
+      "habitat_hint": "芝地、道端、空き地、駐車場の縁、農地の縁、河川敷。",
+      "finding_tips": "7〜10月、芝地や道端で多数の細い茎が叢生し、繊細な円錐花序を立てる小型イネ科を探します。コスズメガヤより小型。"
+    },
+    "en": {
+      "summary": "Tufted Lovegrass. A small annual grass common on lawns, roadsides, and vacant lots. Many slender stems tufted; delicate panicles.",
+      "habitat_hint": "Lawns, roadsides, vacant lots, parking lot edges, farmland margins, and riverbanks.",
+      "finding_tips": "From July to October look on lawns and roadsides for small annual grasses with many slender tufted stems and delicate panicles. Smaller than Little Lovegrass."
+    },
+    "zh": {
+      "summary": "多茎画眉草。一年生小型禾本科，草坪、路边、空地常见。多数细茎丛生，抽出纤细圆锥花序。",
+      "habitat_hint": "草坪、路边、空地、停车场边、农田边缘、河滩。",
+      "finding_tips": "七至十月在草坪与路边寻找具多数细茎丛生、纤细圆锥花序的小型禾本科。比小画眉草更小。"
+    }
+  },
+  "Poa acroleuca": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミゾイチゴツナギ。湿った林床や畑、道端に生える一年〜二年生イネ科。穂は繊細な円錐花序で、淡緑色〜淡紫色を帯びます。",
+      "habitat_hint": "湿った林床、畑、道端、農地、河川敷の半日陰。",
+      "finding_tips": "4〜6月、湿った林床や畑で繊細な円錐花序を持つ一年〜二年生イネ科を探します。穂の質感が柔らかく、淡緑〜淡紫色。"
+    },
+    "en": {
+      "summary": "Pale-tipped Bluegrass. An annual to biennial grass of damp forest floors, fields, and roadsides. Delicate panicles with pale-green to pale-purplish hue.",
+      "habitat_hint": "Damp forest floors, fields, roadsides, farmland, and partly shaded riverbanks.",
+      "finding_tips": "From April to June look on damp forest floors and fields for annual to biennial grasses with delicate panicles. Soft texture and pale-green to pale-purplish colour."
+    },
+    "zh": {
+      "summary": "白顶早熟禾（沟早熟禾）。潮湿林床、菜地与路边的一至二年生禾本科。穗为纤细圆锥花序，带淡绿至淡紫色。",
+      "habitat_hint": "潮湿林床、菜地、路边、农田、河滩半阴处。",
+      "finding_tips": "四至六月在潮湿林床与菜地寻找具纤细圆锥花序的一至二年生禾本科。穗质柔软，淡绿至淡紫色。"
+    }
+  },
+  "Stellaria neglecta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤエムグラハコベ近縁。湿った道端や林縁、農地に生える一年〜二年生のハコベ近縁種。白い小さな5弁花（深く2裂し10弁に見える）を多数咲かせます。",
+      "habitat_hint": "湿った道端、林縁、農地、河川敷、空き地。",
+      "finding_tips": "3〜6月、湿った場所で白い小さな花を多数咲かせる小型草本を探します。葉は対生で卵形、ハコベ類の中で大型な部類。"
+    },
+    "en": {
+      "summary": "Greater Chickweed. A relative of common chickweed of damp roadsides, forest edges, and farmland. Many small white 5-petalled flowers (each petal deeply 2-lobed, appearing as 10).",
+      "habitat_hint": "Damp roadsides, forest edges, farmland, riverbanks, and vacant lots.",
+      "finding_tips": "From March to June look in damp places for small herbs with many small white flowers. Opposite ovate leaves; among the larger members of the chickweed group."
+    },
+    "zh": {
+      "summary": "繁缕近缘种（大繁缕）。潮湿路边、林缘与农田的一至二年生繁缕近亲。密生白色五瓣小花（每瓣深 2 裂似 10 瓣）。",
+      "habitat_hint": "潮湿路边、林缘、农田、河滩、空地。",
+      "finding_tips": "三至六月在潮湿处寻找密生白色小花的小型草本。叶对生卵形，在繁缕类中属较大型。"
+    }
+  },
+  "Ranunculus silerifolius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キツネノボタン。湿地や水田畦、湿った林縁に生える多年草のキンポウゲ科。黄色い小さな5弁花を咲かせ、果実は鉤状の集合果。汁に皮膚刺激あり。",
+      "habitat_hint": "湿地、水田畦、湿った林縁、河川敷の湿地、半日陰の道端。",
+      "finding_tips": "4〜7月、湿地や水田畦で黄色い小さな5弁花を持つ多年草を探します。果実が鉤状になる集合果が特徴。汁にプロトアネモニンが含まれ皮膚を刺激するので注意。"
+    },
+    "en": {
+      "summary": "Hooked Buttercup. A perennial Ranunculus of wetlands, paddy bunds, and damp forest edges. Yellow 5-petalled flowers; aggregate fruits with hooks. Sap contains skin-irritating protoanemonin.",
+      "habitat_hint": "Wetlands, paddy bunds, damp forest edges, wet riverbanks, and partly shaded roadsides.",
+      "finding_tips": "From April to July look in wetlands and paddy bunds for perennials with small yellow 5-petalled flowers. Aggregate fruits with hooks are diagnostic. Skin irritant — handle carefully."
+    },
+    "zh": {
+      "summary": "钩柱毛茛。湿地、水田田埂与潮湿林缘的多年生毛茛科。开黄色五瓣小花，聚合果具钩。汁液含原白头翁素刺激皮肤。",
+      "habitat_hint": "湿地、水田田埂、潮湿林缘、河滩湿地、半阴路边。",
+      "finding_tips": "四至七月在湿地与田埂寻找具黄色五瓣小花的多年草。具钩的聚合果是关键识别。汁液刺激皮肤，请小心处理。"
+    }
+  },
+  "Thereuopoda clunifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオゲジ。日本最大級のゲジで、長く細い15対の脚を持ちます。素早く動き、人を見ると逃げます。屋内に侵入することもありますが無害。",
+      "habitat_hint": "雑木林の林床、倒木下、石下、湿った場所、住宅地の物置・縁の下。",
+      "finding_tips": "通年（暖かい季節に活動的）、湿った石や倒木をひっくり返して見つかります。脚が極めて長く、走る速度が非常に速い。"
+    },
+    "en": {
+      "summary": "Large House Centipede. One of Japan's largest house centipedes, with 15 pairs of long slender legs. Moves rapidly; flees from people. May enter buildings but is harmless.",
+      "habitat_hint": "Secondary woodland floors, under logs and stones, damp places, and residential storage areas and crawl spaces.",
+      "finding_tips": "Year-round (most active warm seasons), found by turning damp stones and logs. Extremely long legs; very fast runner."
+    },
+    "zh": {
+      "summary": "大蚰蜒。日本最大级的蚰蜒，具 15 对细长腿。行动极快，见人即逃。可能进入室内但无害。",
+      "habitat_hint": "杂木林林床、倒木与石下、潮湿处、住宅区储物间与檐下。",
+      "finding_tips": "全年（暖季活跃）翻动潮湿石块与倒木可见。腿极长，奔跑极快。"
+    }
+  },
+  "Dumasia truncata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノササゲ。蔓性の多年草のマメ科で、林縁や藪に絡みつきます。秋に淡黄色の蝶形花を咲かせ、果実は秋に紫色に色変わりして開裂し、青黒色の種子を見せます。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、半日陰の斜面。",
+      "finding_tips": "花期8〜10月、果期10〜11月。林縁や藪で3小葉と淡黄色の蝶形花を持つ蔓性植物を探します。紫色の果実とその中の青黒色の種子は秋の風物詩。"
+    },
+    "en": {
+      "summary": "Truncate Dumasia. A vining Fabaceae perennial climbing in forest edges and thickets. Pale-yellow pea-flowers in autumn; fruits turn purple in autumn and open to reveal blue-black seeds.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers August-October; fruits October-November. Look at forest edges for vines with trifoliate leaves and pale-yellow pea-flowers. Purple autumn pods with blue-black seeds are iconic."
+    },
+    "zh": {
+      "summary": "截叶山黑豆。蔓生多年生豆科，攀附林缘与灌丛。秋季开淡黄色蝶形花，果实秋季变紫色并开裂露出青黑色种子。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
+      "finding_tips": "花期八至十月，果期十至十一月。在林缘与灌丛寻找具三出叶、淡黄色蝶形花的蔓生植物。紫色果实与青黑色种子是秋季景观。"
+    }
   }
 }
