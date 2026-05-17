@@ -16722,5 +16722,185 @@
       "habitat_hint": "草坪、路边、空地、运动场、河滩、农田边缘。",
       "finding_tips": "八至十一月在草坪与路边寻找具细长『鼠尾』穗的多年生禾本科。穗淡褐至茶褐色。"
     }
+  },
+  "Veronica anagallis-aquatica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオカワヂシャ。欧州原産の多年草で、水辺や湿地に帰化。淡青〜淡紫色の小さな花を多数咲かせます。特定外来生物に指定されています。",
+      "habitat_hint": "河川の岸辺、用水路、湿地、水田の畦、ため池の縁。",
+      "finding_tips": "4〜9月、水辺や湿地で淡青〜淡紫色の4弁花の小さな花を多数つける多年草を探します。在来のカワヂシャより大型で、特定外来生物のため駆除対象。"
+    },
+    "en": {
+      "summary": "Water Speedwell. A European-origin perennial naturalised in waterside and wetland habitats. Many small pale-blue to pale-purple 4-petalled flowers. Designated as 'Invasive Alien Species' in Japan.",
+      "habitat_hint": "River banks, irrigation channels, wetlands, paddy bunds, and pond edges.",
+      "finding_tips": "From April to September look in waterside and wetland places for perennials with many small pale-blue to pale-purple 4-petalled flowers. Larger than native Veronica undulata; targeted for removal."
+    },
+    "zh": {
+      "summary": "水苦荬。原产欧洲的多年生草本，归化于水边与湿地。密生淡蓝至淡紫色四瓣小花。日本列为『特定外来生物』。",
+      "habitat_hint": "河岸、灌溉沟、湿地、水田田埂、池塘边。",
+      "finding_tips": "四至九月在水边与湿地寻找密生淡蓝至淡紫色四瓣小花的多年草。比本土水苦荬大，应清除。"
+    }
+  },
+  "Lamium album": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オドリコソウ。林縁や草地に生える多年草のシソ科。和名は花の形が踊り子の笠に似ることから。春に白〜淡桃色の唇形花を輪生に咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の道端、河川敷の草地。",
+      "finding_tips": "4〜6月、林縁や草地で白〜淡桃色の唇形花が茎の節ごとに輪生する多年草を探します。茎は四角形で対生の鋸歯のある葉を持ちます。"
+    },
+    "en": {
+      "summary": "White Deadnettle. A Lamiaceae perennial of forest edges and grasslands. The Japanese name 'dancer plant' compares the flower shape to a dancer's hat. White to pale-pink lipped flowers in whorls in spring.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded roadsides, and riverside grasslands.",
+      "finding_tips": "From April to June look at forest edges and grasslands for perennials with white to pale-pink lipped flowers in whorls at each node. Square stems; opposite serrated leaves."
+    },
+    "zh": {
+      "summary": "白花野芝麻。林缘与草地的唇形科多年草。日文俗名『舞者草』源于花形似舞者斗笠。春季在茎节上轮生白至淡粉唇形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴路边、河滩草地。",
+      "finding_tips": "四至六月在林缘与草地寻找在茎节上轮生白至淡粉唇形花的多年草。茎四棱形，叶对生具锯齿。"
+    }
+  },
+  "Cornus officinalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サンシュユ。中国〜朝鮮半島原産の落葉小高木で、早春に葉に先立って鮮黄色の小花を散形に多数咲かせます。秋に赤い長楕円形の果実（生薬山茱萸）が熟します。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、薬用植物園、住宅地の庭木。",
+      "finding_tips": "花期2〜4月、果期9〜11月。早春、葉のない枝に鮮黄色の小花が散形に多数咲く落葉小高木を探します。秋には赤い長楕円形の果実が美しい。"
+    },
+    "en": {
+      "summary": "Japanese Cornel. A deciduous small tree from China/Korea that produces brilliant yellow umbels of small flowers in early spring before leaves emerge. Red elongated fruits (the medicinal 'sanshuyu') ripen in autumn.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, medicinal gardens, and residential trees.",
+      "finding_tips": "Flowers February-April; fruits September-November. In early spring look for small trees with brilliant yellow umbels of small flowers on leafless branches. Beautiful red elongated fruits in autumn."
+    },
+    "zh": {
+      "summary": "山茱萸。原产中国与朝鲜半岛的落叶小乔木，早春先叶开花，密生鲜黄色伞形小花。秋季结红色长椭圆形果实（即中药山茱萸）。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、药用植物园、住宅区庭木。",
+      "finding_tips": "花期二至四月，果期九至十一月。早春寻找在无叶枝上密生鲜黄色伞形小花的小乔木。秋季红色长椭圆形果实美观。"
+    }
+  },
+  "Codonopsis lanceolata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルニンジン。蔓性の多年草で、林縁や藪に絡みつきます。秋に淡緑色〜紫褐色の鐘形花を下向きに咲かせます。地下には朝鮮人参に似た太い根があり、薬用にも。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、半日陰の斜面。",
+      "finding_tips": "8〜10月、林縁や藪で淡緑色〜紫褐色の鐘形花が下向きに咲く蔓性多年草を探します。茎を折ると白い乳液が出るのも識別ポイント。"
+    },
+    "en": {
+      "summary": "Lance Asiabell. A perennial vine climbing in forest edges and thickets. Pale-green to purple-brown bell-shaped flowers hang downward in autumn. Underground rhizome resembles ginseng — used medicinally.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and partly shaded slopes.",
+      "finding_tips": "From August to October look at forest edges and thickets for vines with downward-hanging pale-green to purple-brown bell-shaped flowers. Stems exude white latex when snapped — another diagnostic."
+    },
+    "zh": {
+      "summary": "羊乳（四叶参）。蔓生多年生草本，攀附林缘与灌丛。秋季下垂开淡绿至紫褐色钟形花。地下具肥大根似人参，可药用。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
+      "finding_tips": "八至十月在林缘与灌丛寻找具下垂淡绿至紫褐色钟形花的蔓生多年草。茎折断流白色乳液可助识别。"
+    }
+  },
+  "Saururus chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハンゲショウ。湿地や水辺に生える多年草で、夏に上部の葉の半分が白く色変わりするのが和名と識別の決め手。「半夏（はんげ）の頃に化粧する」が名の由来。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、河川敷の湿地、湿った草地。",
+      "finding_tips": "6〜8月、湿地や水辺で上部の葉の半分（基部側）が白くなる多年草を探します。穂状の小さな白い花序も同時期に。"
+    },
+    "en": {
+      "summary": "Chinese Lizard's Tail. A wetland perennial whose upper leaves turn partly white in summer — the diagnostic feature and source of the Japanese name 'half-makeup'. The whitening coincides with the 'hange' midsummer marker.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, wet riverbanks, and damp grasslands.",
+      "finding_tips": "From June to August look in wetlands and waterside for perennials with the upper leaves whitening on the basal half. Spike-like white flower clusters appear at the same time."
+    },
+    "zh": {
+      "summary": "三白草。湿地与水边的多年生草本，夏季上部叶基部半边变白是关键识别。日文俗名『半化妆』指夏至『半夏』时节叶『化妆』。",
+      "habitat_hint": "湿地、水田田埂、池塘边、河滩湿地、潮湿草地。",
+      "finding_tips": "六至八月在湿地与水边寻找上部叶基部半边变白的多年草。同时抽出穗状白色小花序。"
+    }
+  },
+  "Lespedeza bicolor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマハギ。秋の七草の一つで、林縁や草地に生える落葉低木のマメ科。秋に紅紫色の蝶形花を多数咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷、二次林。",
+      "finding_tips": "8〜10月、明るい林縁や草地で紅紫色の蝶形花を多数つける落葉低木を探します。葉は3小葉で、枝の先端が垂れ下がるように咲く姿が美しい。"
+    },
+    "en": {
+      "summary": "Shrub Lespedeza. One of the 'seven autumn herbs' — a deciduous Fabaceae shrub of forest edges and grasslands. Many rose-purple pea-flowers in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverbanks, and secondary woods.",
+      "finding_tips": "From August to October look at bright forest edges and grasslands for deciduous shrubs bearing many rose-purple pea-flowers. Trifoliate leaves; gracefully drooping branch tips."
+    },
+    "zh": {
+      "summary": "胡枝子。秋季『七草』之一，林缘与草地的落叶豆科灌木。秋季密生紫红色蝶形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩、次生林。",
+      "finding_tips": "八至十月在明亮林缘与草地寻找密生紫红色蝶形花的落叶灌木。三出复叶，枝端下垂开花姿态优美。"
+    }
+  },
+  "Spiraea thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ユキヤナギ。中国原産の落葉低木で、早春に枝が枝垂れて純白の小さな5弁花を多数咲かせます。和名は枝に積もった雪のような花の姿から。",
+      "habitat_hint": "庭園、公園植栽、生垣、住宅地の植え込み、河川敷。",
+      "finding_tips": "3〜4月、庭園や公園で枝垂れた枝に純白の小さな5弁花を多数咲かせる落葉低木を探します。葉は細長く披針形。"
+    },
+    "en": {
+      "summary": "Thunberg's Meadowsweet. A Chinese-origin deciduous shrub bearing many pure-white small 5-petalled flowers on arching branches in early spring. The Japanese name 'snow willow' describes the snow-like flowers on willowy branches.",
+      "habitat_hint": "Gardens, park plantings, hedges, residential plantings, and riverbanks.",
+      "finding_tips": "From March to April look in gardens and parks for deciduous shrubs with arching branches bearing many pure-white small 5-petalled flowers. Narrow lanceolate leaves."
+    },
+    "zh": {
+      "summary": "珍珠绣线菊（雪柳）。原产中国的落叶灌木，早春拱形下垂枝条上密生纯白色五瓣小花。日文俗名『雪柳』形容花如积雪在柳形枝上。",
+      "habitat_hint": "庭园、公园栽植、绿篱、住宅区栽植、河滩。",
+      "finding_tips": "三至四月在庭园与公园寻找下垂拱形枝上密生纯白色五瓣小花的落叶灌木。叶狭长披针形。"
+    }
+  },
+  "Ourapteryx nivea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスキツバメエダシャク。淡黄白色の翅にツバメの尾のような突起がある中型のシャクガ。樹幹や葉裏に止まると保護色になります。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で淡黄白色のシャクガを探します。後翅にツバメの尾のような突起があるかチェックするのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Pale Swallow Geometer. A medium geometrid moth with pale yellowish-white wings and swallow-like tails on the hindwings. Camouflaged on tree trunks and leaf undersides.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential gardens, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for pale yellowish-white geometrids. Check for swallow-like tail projections on the hindwing."
+    },
+    "zh": {
+      "summary": "淡黄燕尾尺蛾。淡黄白色翅、后翅具燕尾状突起的中型尺蛾。停于树干与叶背具保护色。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找淡黄白色尺蛾。检查后翅是否具燕尾状突起以识别。"
+    }
+  },
+  "Leucauge blanda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チュウガタシロカネグモ。緑色と銀色のメタリックな配色を持つ中型のクモ。林縁や藪で円網を斜めに張ります。",
+      "habitat_hint": "雑木林の林縁、藪、河畔林、神社林、農地の縁。",
+      "finding_tips": "5〜10月、林縁や藪で緑色〜銀色の腹部を持つ中型のクモが斜めに張った円網にいるのを探します。網を斜めに張る習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium silver-and-green metallic-coloured orbweaver. Builds tilted circular webs at forest edges and in thickets.",
+      "habitat_hint": "Secondary woodland edges, thickets, riparian woods, shrine groves, and farmland margins.",
+      "finding_tips": "From May to October look at forest edges and thickets for medium spiders with green-and-silver abdomens on tilted circular webs. The tilted web orientation helps identify."
+    },
+    "zh": {
+      "summary": "银鳞蛛属一种。腹部绿与银色金属色的中型蜘蛛。在林缘与灌丛斜结圆网。",
+      "habitat_hint": "杂木林林缘、灌丛、河岸林、神社林、农田边缘。",
+      "finding_tips": "五至十月在林缘与灌丛寻找腹部绿至银色的中型蜘蛛停于斜置圆网上。斜网是识别要点。"
+    }
+  },
+  "Limenitis camilla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イチモンジチョウ。黒地に白い帯（一文字）が走る中型のタテハチョウ。林縁を優雅に滑空するように飛びます。",
+      "habitat_hint": "雑木林の林縁、河畔林、神社林、公園の樹冠、半日陰の道。",
+      "finding_tips": "5〜9月、雑木林の林縁で黒地に白い帯のある中型チョウを探します。羽ばたいては滑空する独特の飛び方が決め手。"
+    },
+    "en": {
+      "summary": "White Admiral. A medium nymphalid butterfly, black with a bold white band ('ichimonji' = single stroke). Glides elegantly along forest edges.",
+      "habitat_hint": "Secondary woodland edges, riparian woods, shrine groves, park canopies, and partly shaded paths.",
+      "finding_tips": "From May to September look at woodland edges for medium black-and-white-banded butterflies. The flap-and-glide flight is diagnostic."
+    },
+    "zh": {
+      "summary": "白带环蛱蝶。黑底配显眼白带（一文字）的中型蛱蝶。在林缘以扑翼后滑翔的优雅方式飞行。",
+      "habitat_hint": "杂木林林缘、河岸林、神社林、公园树冠、半阴小径。",
+      "finding_tips": "五至九月在杂木林林缘寻找黑底白带的中型蝶。扑翼后滑翔的飞行方式是关键识别。"
+    }
   }
 }
