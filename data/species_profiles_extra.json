@@ -9684,5 +9684,167 @@
       "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
       "finding_tips": "找中型二回羽状常绿蕨，常覆地。叶轴浅绿至浅褐色。"
     }
+  },
+  "Lycium chinense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クコ。漢方や薬膳の「クコの実」で知られる落葉低木。河川敷や海岸近くに自生し、夏に紫色の小花、秋に赤い実をつけます。",
+      "habitat_hint": "河川敷、海岸近くの斜面、空き地、農地の縁、住宅地の植え込み。",
+      "finding_tips": "細長い葉と、夏の紫色の小さな星型花、秋の赤いラグビーボール型の小さな実を探します。茎にはトゲがあります。**実は乾燥して薬膳に用いられる。**"
+    },
+    "en": {
+      "summary": "Chinese Wolfberry (Goji), a deciduous shrub famous for medicinal/culinary use of the dried fruits. Small purple flowers in summer; small red oval berries in autumn. Stems are thorny.",
+      "habitat_hint": "Riverbanks, coastal slopes, vacant lots, field margins, and residential plantings.",
+      "finding_tips": "Look for shrubs with narrow leaves, small purple star-shaped flowers in summer, and small red rugby-ball-shaped berries in autumn. Stems carry thorns."
+    },
+    "zh": {
+      "summary": "枸杞，常用作中药与食疗（『枸杞子』）的落叶灌木。河滩与近海生长，夏开紫色小花、秋结红色小果。茎具刺。",
+      "habitat_hint": "河滩、近海斜坡、空地、田边、住宅区植被。",
+      "finding_tips": "找细长叶、夏紫色星形小花、秋红色橄榄状小果的灌木。茎具刺。"
+    }
+  },
+  "Celastrus orbiculatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルウメモドキ。秋に赤い種子が黄色い殻から覗く独特の姿が美しいつる性落葉植物。生け花や正月飾りに使われます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、住宅地のフェンス、明るい斜面。",
+      "finding_tips": "10〜12月、黄色く裂開した果実から鮮やかな赤い種子が露出するつる植物を探します。葉は丸〜楕円で、秋に黄葉します。"
+    },
+    "en": {
+      "summary": "Oriental Bittersweet. A deciduous climber whose autumn fruits split open from yellow capsules to expose vivid red seeds — a favourite in floral arrangements and New Year décor.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, residential fences, and bright slopes.",
+      "finding_tips": "From October to December look for vines with yellow split capsules revealing red seeds. Round-to-oval leaves turn yellow in autumn."
+    },
+    "zh": {
+      "summary": "南蛇藤，落叶攀缘植物。秋季黄色蒴果裂开露出鲜红种子，是插花与新年装饰常用素材。",
+      "habitat_hint": "林缘、河滩灌丛、神社境内、住宅围栏、明亮斜坡。",
+      "finding_tips": "十至十二月寻找黄色蒴果裂开露红色种子的藤本。叶圆至椭圆，秋季转黄。"
+    }
+  },
+  "Velinus nodipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤニサシガメ。樹幹を歩き回る黒い大型のサシガメで、体にヤニのような粘り気のある分泌物を持つことが名前の由来です。**口吻で刺すことがあるので注意。**",
+      "habitat_hint": "雑木林の樹幹、神社の樹木、河川敷の樹林、明るい林縁。",
+      "finding_tips": "クヌギなどの樹幹を歩く黒い大型のサシガメを探します。体にヤニのような物質が付着しているのが目印。**素手で触らないこと。**"
+    },
+    "en": {
+      "summary": "A large black assassin bug whose body is coated with a sticky resin-like substance ('yani' = pine resin). **Can deliver a painful bite.**",
+      "habitat_hint": "Tree trunks in mixed woodland, shrine trees, riverside woods, and bright woodland edges.",
+      "finding_tips": "Search oak trunks for a large black assassin bug whose body looks tacky. **Never handle bare-handed.**"
+    },
+    "zh": {
+      "summary": "黏猎蝽（ヤニサシガメ），体表附有黏液（似松脂）的大型黑色猎蝽。**口吻刺人疼痛，请勿徒手接触。**",
+      "habitat_hint": "杂木林树干、神社树木、河岸林、明亮林缘。",
+      "finding_tips": "在麻栎等树干找体表黏湿的大型黑色猎蝽。**勿徒手接触。**"
+    }
+  },
+  "Leptocorisa chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クモヘリカメムシ。細長い緑色の体と長い脚を持つヘリカメムシ。イネの害虫として知られ、水田周辺で多く見られます。",
+      "habitat_hint": "水田、農地、河川敷、湿った草地、農地の縁。",
+      "finding_tips": "細長い緑色の体に長い脚のヘリカメムシをイネや稲の周辺で探します。クモのように細長い姿が名前の由来です。"
+    },
+    "en": {
+      "summary": "A slender green coreid with long thin legs. A notable rice-paddy pest; often seen around rice plants. The Japanese name 'spider-side bug' refers to the spidery proportions.",
+      "habitat_hint": "Rice paddies, farmland, riverbanks, damp meadows, and field margins.",
+      "finding_tips": "Look on rice plants and nearby grasses for a slender, long-legged green bug. The spidery silhouette is distinctive."
+    },
+    "zh": {
+      "summary": "稻棘缘蝽，细长绿色长腿的缘蝽。是稻田害虫，水田周边常见。日文俗名意为『蜘蛛缘蝽』，因蛛形身材。",
+      "habitat_hint": "水田、农田、河滩、潮湿草地、田边。",
+      "finding_tips": "在水稻附近找细长绿色长腿的缘蝽。蛛形比例是辨识。"
+    }
+  },
+  "Stomorhina obsoleta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツマグロキンバエ。金緑色の体と、黒い翅の先端が目印の中型のクロバエ。花に来て蜜を吸う日中活動性です。",
+      "habitat_hint": "花壇、河川敷の花、雑木林の林縁、神社の境内、明るい園路。",
+      "finding_tips": "花の上で金属緑色の体と黒い翅先のハエを探します。中型で見つけやすく、複眼に独特の縞模様があるのも特徴です。"
+    },
+    "en": {
+      "summary": "A medium calliphorid fly with a metallic-green body and dark wing tips. Day-active and visits flowers. Eyes carry distinctive striped patterns.",
+      "habitat_hint": "Flower beds, riverside flowers, woodland edges, shrine grounds, and bright paths.",
+      "finding_tips": "On flowers look for a medium fly with a glossy green body and darkened wing tips. Striped eyes are an interesting close-up detail."
+    },
+    "zh": {
+      "summary": "翅端黑丽蝇，中型丽蝇，体金属绿色配翅端黑色。白天活动，访花吸蜜。复眼有独特条纹。",
+      "habitat_hint": "花坛、河滩花卉、林缘、神社境内、明亮园路。",
+      "finding_tips": "在花上找金属绿体配翅端黑的中型蝇。复眼条纹是细看亮点。"
+    }
+  },
+  "Silene gallica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マンテマ。地中海原産の外来種のナデシコ科で、春〜初夏に白〜淡桃色の小花を咲かせます。茎と葉に毛があり、河川敷や空き地で見られます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、明るい斜面、芝生の縁。",
+      "finding_tips": "4〜6月、毛深い茎と葉、5弁の白〜淡桃色の小花を探します。花の中央に紅色の斑があるのも目印です。"
+    },
+    "en": {
+      "summary": "Common Catchfly, a Mediterranean introduced caryophyll. Small white-to-pale-pink five-petalled flowers in spring and early summer; stems and leaves are hairy.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, bright slopes, and lawn edges.",
+      "finding_tips": "From April to June look for hairy plants with small white-to-pale-pink five-petalled flowers. The petals often bear a pinkish central spot."
+    },
+    "zh": {
+      "summary": "高加索蝇子草，地中海原产外来石竹科。春至初夏开白至淡粉色五瓣小花。茎叶多毛。",
+      "habitat_hint": "河滩、空地、田边、明亮斜坡、草坪边。",
+      "finding_tips": "四至六月寻找茎叶多毛、开白至淡粉色五瓣小花的植物。花瓣中央常具粉红色斑。"
+    }
+  },
+  "Cutocoris russatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカサシガメ。鮮やかな赤色の体に黒い斑がある中型のサシガメ。林床の落ち葉や地表で他の昆虫を狩ります。**素手で触ると刺されることがある。**",
+      "habitat_hint": "雑木林の林床、神社の境内、湿った地面、落ち葉、樹幹。",
+      "finding_tips": "落ち葉や地表で鮮やかな赤色のサシガメを探します。赤い体が遠目にも目立ちます。**口吻で刺されると痛いので、観察は遠目に。**"
+    },
+    "en": {
+      "summary": "A vivid red assassin bug with black markings. Hunts other insects on leaf litter and the ground. **Can deliver a painful bite if handled.**",
+      "habitat_hint": "Forest understory, shrine grounds, damp ground, leaf litter, and tree trunks.",
+      "finding_tips": "On leaf litter and ground look for a vivid red bug. The colour stands out at distance. **Observe rather than handle.**"
+    },
+    "zh": {
+      "summary": "红猎蝽，鲜红色配黑斑的中型猎蝽。捕食林床落叶与地表的昆虫。**徒手碰会被刺，请远观。**",
+      "habitat_hint": "杂木林林床、神社境内、潮湿地面、落叶、树干。",
+      "finding_tips": "在落叶和地表找鲜红色猎蝽。**勿徒手接触。**"
+    }
+  },
+  "Carex lenta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナキリスゲ。湿った草地に生える中型のスゲ類。細長い葉と、春〜初夏に細い茎の先に密集した穂を立てます。",
+      "habitat_hint": "湿った草地、河川敷、田の畦、神社の境内、農地の縁。",
+      "finding_tips": "5〜7月、湿った草地で細長い葉と、細い茎の先に密集した小穂を持つ中型のスゲを探します。"
+    },
+    "en": {
+      "summary": "A medium sedge of damp meadows. Slender leaves and clusters of small spikelets at the stem tip in late spring and early summer.",
+      "habitat_hint": "Damp meadows, riverbanks, paddy levees, shrine grounds, and field margins.",
+      "finding_tips": "From May to July look for medium sedges with narrow leaves and clustered spikelets at the stem tips."
+    },
+    "zh": {
+      "summary": "弱穗薹草，潮湿草地的中型薹草。叶细长，春末初夏茎顶集生小穗。",
+      "habitat_hint": "潮湿草地、河滩、田埂、神社境内、田边。",
+      "finding_tips": "五至七月在潮湿草地找叶细长、茎顶集生小穗的中型薹草。"
+    }
+  },
+  "Eurydema gebleri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "黒地に明るい橙色〜赤色の模様を持つ中型のカメムシで、アブラナ科植物（特に種子）を吸汁します。警告色の意味があると考えられています。",
+      "habitat_hint": "農地（アブラナ科畑）、家庭菜園、河川敷、明るい草地。",
+      "finding_tips": "アブラナ科植物の花や種子の周りで、黒地に橙赤色の派手な模様のあるカメムシを探します。"
+    },
+    "en": {
+      "summary": "A medium shield bug with black background and bright orange-to-red markings. Feeds on brassicas (especially seeds); the bright pattern likely advertises chemical defence.",
+      "habitat_hint": "Farmland (brassica fields), kitchen gardens, riverbanks, and bright meadows.",
+      "finding_tips": "Around brassica flowers and seedheads look for a black bug with striking orange-red markings."
+    },
+    "zh": {
+      "summary": "横纹菜蝽，中型蝽。黑底配明亮橙红斑纹，取食十字花科（尤其种子），鲜艳色斑可能为警告色。",
+      "habitat_hint": "农田（十字花科菜地）、家庭菜园、河滩、明亮草地。",
+      "finding_tips": "在十字花科花序与种子周围找黑底带橙红斑的蝽。"
+    }
   }
 }
