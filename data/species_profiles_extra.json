@@ -17982,5 +17982,185 @@
       "habitat_hint": "有黄杨的庭园、公园栽植、绿篱、住宅区庭树、神社林。",
       "finding_tips": "五至十月若黄杨叶被网状蛀食可能是此幼虫。成虫为白色配黑色边的中型蛾。"
     }
+  },
+  "Pochazia albomaculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アミガサハゴロモ。淡褐色の翅に編笠（あみがさ）のような網目模様を持つ中型のハゴロモ。林縁や藪で植物の汁を吸います。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、農地、果樹園。",
+      "finding_tips": "7〜10月、林縁や藪で淡褐色の翅に網目模様（編笠のような）を持つ中型のハゴロモを探します。葉裏や枝に止まっていることが多いです。"
+    },
+    "en": {
+      "summary": "Lace-winged Planthopper. A medium planthopper with pale-brown wings bearing a lace-like network pattern resembling a basket-hat. Sucks plant juices at forest edges and in thickets.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, farmland, and orchards.",
+      "finding_tips": "From July to October look at forest edges and in thickets for medium planthoppers with pale-brown lace-patterned wings. Usually on leaf undersides or twigs."
+    },
+    "zh": {
+      "summary": "白斑広翅蜡蝉。淡褐色翅具网状斗笠纹的中型蜡蝉。在林缘与灌丛吸食植物汁液。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田、果园。",
+      "finding_tips": "七至十月在林缘与灌丛寻找具淡褐色网状（如斗笠）翅纹的中型蜡蝉。多停于叶背与枝上。"
+    }
+  },
+  "Anomala octiescostata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒラタアオコガネ。鮮やかな緑色〜青緑色の金属光沢を持つ小型のコガネムシ。葉や花で見つかります。日中活動します。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、住宅地の庭、河川敷。",
+      "finding_tips": "5〜8月、葉や花の上で鮮やかな緑色〜青緑色の金属光沢を持つ小型コガネムシを探します。コガネムシ類の中でも色が美しい部類。"
+    },
+    "en": {
+      "summary": "Flat-bodied Green Chafer. A small scarab beetle with brilliant green to blue-green metallic sheen. Found on leaves and flowers; diurnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, residential gardens, and riverbanks.",
+      "finding_tips": "From May to August look on leaves and flowers for small scarabs with brilliant green to blue-green metallic sheen. Among the most colourful scarabs."
+    },
+    "zh": {
+      "summary": "扁绿金龟。具鲜艳绿至蓝绿色金属光泽的小型金龟。在叶与花上可见，日间活动。",
+      "habitat_hint": "杂木林、林缘、农田、果园、住宅区庭院、河滩。",
+      "finding_tips": "五至八月在叶与花上寻找具鲜艳绿至蓝绿色金属光泽的小型金龟。属金龟中色彩最美的之一。"
+    }
+  },
+  "Aegopodium decumbens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゾボウフウ（広義）。湿った林床や林縁に生える多年草のセリ科。葉は3小葉が2回つき、初夏に白い小花を散形に多数咲かせます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、河畔林、半日陰の斜面。",
+      "finding_tips": "5〜7月、湿った林床や林縁で白い散形花序を持つセリ科多年草を探します。葉は2回3出複葉で、独特の形が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Asian Goutweed. A perennial umbellifer of damp forest floors and edges. Leaves twice ternate (2 × 3 leaflets); many small white flowers in umbels in early summer.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, riparian woods, and partly shaded slopes.",
+      "finding_tips": "From May to July look on damp forest floors and edges for Apiaceae perennials with white umbels. The 2× ternately compound leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "亚洲羊角芹。潮湿林床与林缘的多年生伞形科。叶 2 回三出复叶，初夏密生白色伞形小花。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、半阴斜坡。",
+      "finding_tips": "五至七月在潮湿林床与林缘寻找具白色伞形花序的伞形科多年草。叶 2 回三出复叶是关键识别。"
+    }
+  },
+  "Phryma nana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハグロソウ。明るい林床や林縁に生える多年草のキツネノマゴ科。葉は対生で楕円形、夏に淡紫色の唇形花を咲かせ、葉腋に下向きの果実が並びます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "7〜9月、明るい林床や林縁で対生する楕円形の葉と淡紫色の唇形花を持つ多年草を探します。果実が葉腋から下向きに並ぶのも特徴。"
+    },
+    "en": {
+      "summary": "Small Lopseed. A perennial Acanthaceae of bright forest floors and edges. Opposite elliptical leaves; pale-purple lipped flowers in summer; downward-facing fruits along the leaf axils.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From July to September look on bright forest floors and edges for perennials with opposite elliptical leaves and pale-purple lipped flowers. Downward-arranged fruits along leaf axils help confirm."
+    },
+    "zh": {
+      "summary": "矮透骨草。明亮林床与林缘的爵床科多年草。叶对生椭圆形，夏季开淡紫色唇形花，叶腋果实下垂排列。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "七至九月在明亮林床与林缘寻找具对生椭圆形叶、淡紫色唇形花的多年草。叶腋果实下垂排列可助识别。"
+    }
+  },
+  "Calystegia soldanella": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハマヒルガオ。海岸の砂浜に這うように広がる多年草のヒルガオ科。葉は腎形で多肉質、淡桃色の漏斗状花を咲かせます。砂浜の代表的な植物。",
+      "habitat_hint": "海岸の砂浜、砂丘、海岸近くの草地、堤防の砂地。",
+      "finding_tips": "5〜6月、海岸の砂浜で淡桃色の漏斗状花と腎形の多肉質葉を持つ匍匐性多年草を探します。砂に半ば埋もれて広がる姿が特徴。"
+    },
+    "en": {
+      "summary": "Beach Morning Glory. A creeping perennial Convolvulaceae of coastal sands. Kidney-shaped succulent leaves; pale-pink funnel-shaped flowers. An iconic beach plant.",
+      "habitat_hint": "Sandy beaches, dunes, coastal grasslands, and sandy levees.",
+      "finding_tips": "From May to June look on sandy beaches for creeping perennials with pale-pink funnel flowers and kidney-shaped succulent leaves. Spreads half-buried in sand."
+    },
+    "zh": {
+      "summary": "肾叶打碗花（海滨旋花）。海岸沙滩匍匐生长的多年生旋花科。叶肾形肉质，开淡粉漏斗形花。是沙滩代表植物。",
+      "habitat_hint": "海岸沙滩、沙丘、海岸草地、沙质堤坝。",
+      "finding_tips": "五至六月在海岸沙滩寻找具淡粉漏斗形花、肾形肉质叶的匍匐多年草。半埋于沙中扩展。"
+    }
+  },
+  "Symphyotrichum subulatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホウキギク（広義）。北米原産の一年〜二年草で、河川敷や空き地、農地に帰化。細い線形の葉を多数つけ、秋に淡桃色〜白の小さな頭花を多数咲かせます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、塩性湿地。",
+      "finding_tips": "9〜11月、河川敷や空き地で細い線形の葉と淡桃色〜白の小さな頭花を多数つける一年〜二年草を探します。背丈は50cm〜1m程度。"
+    },
+    "en": {
+      "summary": "Eastern Annual Saltmarsh Aster. A North American annual to biennial naturalised on riverbanks, vacant lots, and farmland. Many narrow linear leaves; many small pale-pink to white flower heads in autumn.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and salt marshes.",
+      "finding_tips": "From September to November look on riverbanks and vacant lots for annuals to biennials with narrow linear leaves and many small pale-pink to white flower heads. Plants 50 cm to 1 m tall."
+    },
+    "zh": {
+      "summary": "钻形紫菀（广义）。原产北美的一至二年生草本，归化于河滩、空地与农田。具多数细线形叶，秋季密生淡粉至白色小头状花。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、盐沼。",
+      "finding_tips": "九至十一月在河滩与空地寻找具细线形叶、密生淡粉至白色小头状花的一至二年草。高 50 厘米至 1 米。"
+    }
+  },
+  "Paulownia tomentosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キリ。落葉高木で、家具材として古くから利用されてきました。初夏に淡紫色の大きな筒状花を多数咲かせ、葉は大型のハート形。古来から女性の象徴・家紋にも。",
+      "habitat_hint": "雑木林、林縁、河川敷、住宅地の庭木、空き地（自生・野生化）。",
+      "finding_tips": "花期4〜5月、果期9〜11月。落葉高木で大型のハート形の葉を持ち、初夏に淡紫色の大きな筒状花を多数咲かせる木を探します。家具材として最高級。"
+    },
+    "en": {
+      "summary": "Princess Tree. A deciduous tree long used for furniture. Many large pale-purple tubular flowers in early summer; large heart-shaped leaves. Traditionally a symbol of women and used in family crests.",
+      "habitat_hint": "Secondary woodlands, forest edges, riverbanks, residential gardens, and vacant lots (naturalised).",
+      "finding_tips": "Flowers April-May; fruits September-November. Look for deciduous trees with large heart-shaped leaves and many large pale-purple tubular flowers in early summer. Premium furniture wood."
+    },
+    "zh": {
+      "summary": "毛泡桐。落叶乔木，自古作家具用材。初夏密生淡紫色大型筒形花，叶大型心形。在日本传统中是女性象征与家纹图案。",
+      "habitat_hint": "杂木林、林缘、河滩、住宅区庭树、空地（野化）。",
+      "finding_tips": "花期四至五月，果期九至十一月。寻找具大型心形叶、初夏密生淡紫色大型筒形花的落叶乔木。家具用材中的顶级。"
+    }
+  },
+  "Euchiton japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チチコグサ。芝地や道端、空き地に生える小型多年草のキク科。ハハコグサに似ますが、葉裏が白い綿毛で覆われ、頭花は淡褐色〜灰色で目立たない。",
+      "habitat_hint": "芝地、道端、空き地、グラウンドの縁、農地の縁、河川敷の草地。",
+      "finding_tips": "4〜10月、芝地や道端でハハコグサに似た小型草本を探します。葉裏が白い綿毛、頭花が淡褐色〜灰色なら本種。"
+    },
+    "en": {
+      "summary": "Japanese Cudweed. A small Asteraceae perennial of lawns, roadsides, and vacant lots. Similar to Hahakogusa (Gnaphalium) but with white-woolly leaf undersides and pale-brown to grey inconspicuous flower heads.",
+      "habitat_hint": "Lawns, roadsides, vacant lots, athletic field margins, farmland margins, and riverside grasslands.",
+      "finding_tips": "From April to October look on lawns and roadsides for small herbs resembling cudweed. White-woolly leaf undersides and pale-brown to grey flower heads confirm this species."
+    },
+    "zh": {
+      "summary": "日本鼠麹草。草坪、路边与空地的小型多年生菊科。似鼠麹草但叶背具白绵毛，头状花淡褐至灰色不显眼。",
+      "habitat_hint": "草坪、路边、空地、运动场边、农田边缘、河滩草地。",
+      "finding_tips": "四至十月在草坪与路边寻找似鼠麹草的小型草本。叶背白绵毛、头状花淡褐至灰色可确认本种。"
+    }
+  },
+  "Thesium chinense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カナビキソウ。明るい草地や林縁に生える半寄生の多年草。地下で他の植物の根に寄生しながら、線形の葉と小さな白い花をつけます。",
+      "habitat_hint": "明るい草地、土手、林縁、河川敷の草地、芝地。",
+      "finding_tips": "4〜6月、明るい草地で線形の葉と小さな白い5裂花を持つ半寄生の多年草を探します。他の植物の根に半寄生しているため、寄主植物の周辺で見られます。"
+    },
+    "en": {
+      "summary": "Chinese Bastard-toadflax. A hemiparasitic perennial of bright grasslands and forest edges. Parasitises other plants' roots underground while bearing linear leaves and small white flowers above.",
+      "habitat_hint": "Bright grasslands, banks, forest edges, riverside grasslands, and lawns.",
+      "finding_tips": "From April to June look in bright grasslands for hemiparasitic perennials with linear leaves and small white 5-lobed flowers. Found near host plants whose roots it parasitises."
+    },
+    "zh": {
+      "summary": "百蕊草。明亮草地与林缘的半寄生多年生草本。地下半寄生于其他植物根，地上具线形叶与白色五裂小花。",
+      "habitat_hint": "明亮草地、堤岸、林缘、河滩草地、草坪。",
+      "finding_tips": "四至六月在明亮草地寻找具线形叶、白色五裂小花的半寄生多年草。在寄主植物周边可见。"
+    }
+  },
+  "Ligustrum ovalifolium": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバイボタ。半常緑〜常緑の低木で、生垣として広く植栽されます。葉は楕円形で、初夏に白い小花の円錐花序を咲かせ、秋に黒紫色の小果が熟します。",
+      "habitat_hint": "生垣、公園植栽、街路樹、住宅地の植え込み、寺社境内。",
+      "finding_tips": "花期5〜6月、果期10〜12月。生垣や公園で楕円形の葉と白い小花の円錐花序を持つ半常緑〜常緑低木を探します。"
+    },
+    "en": {
+      "summary": "California Privet. A semi-evergreen to evergreen shrub widely planted as hedging. Elliptical leaves; white small flowers in panicles in early summer; small purple-black fruits ripen in autumn.",
+      "habitat_hint": "Hedges, park plantings, street trees, residential plantings, and temple/shrine grounds.",
+      "finding_tips": "Flowers May-June; fruits October-December. Look in hedges and parks for semi-evergreen to evergreen shrubs with elliptical leaves and white panicled flowers."
+    },
+    "zh": {
+      "summary": "卵叶女贞（加州女贞）。半常绿至常绿灌木，广作绿篱栽植。叶椭圆形，初夏开白色小花圆锥花序，秋季紫黑色小果成熟。",
+      "habitat_hint": "绿篱、公园栽植、行道树、住宅区栽植、寺社境内。",
+      "finding_tips": "花期五至六月，果期十至十二月。在绿篱与公园寻找具椭圆叶、白色小花圆锥花序的半常绿至常绿灌木。"
+    }
   }
 }
