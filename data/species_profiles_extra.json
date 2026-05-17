@@ -19422,5 +19422,203 @@
       "habitat_hint": "杂木林树干、岩石、墙壁、绿篱、公园栽植、神社林。",
       "finding_tips": "全年寻找具对生椭圆形革质叶、攀附树干与墙壁的常绿蔓生灌木。"
     }
+  },
+  "Rotala indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キカシグサ。水田や湿地に生える小型の一年草のミソハギ科。茎は赤みを帯び、対生する小さな葉と淡桃色の小さな花が葉腋につきます。",
+      "habitat_hint": "水田、湿地、休耕田、用水路の縁、河川敷の湿地。",
+      "finding_tips": "8〜10月、水田や湿地で茎が赤みを帯びた小型の一年草を探します。葉腋に小さな淡桃色の花がつくのも識別の手がかり。"
+    },
+    "en": {
+      "summary": "Indian Toothcup. A small annual Lythraceae of paddies and wetlands. Reddish stems; small opposite leaves; small pale-pink flowers in leaf axils.",
+      "habitat_hint": "Rice paddies, wetlands, fallow paddies, irrigation channel edges, and wet riverbanks.",
+      "finding_tips": "From August to October look in paddies and wetlands for small annuals with reddish stems. Small pale-pink flowers in leaf axils help confirm."
+    },
+    "zh": {
+      "summary": "印度节节菜。水田与湿地的小型一年生千屈菜科。茎带红色，叶对生小型，叶腋开淡粉小花。",
+      "habitat_hint": "水田、湿地、休耕田、灌溉沟边、河滩湿地。",
+      "finding_tips": "八至十月在水田与湿地寻找茎带红色的小型一年草。叶腋淡粉色小花可助识别。"
+    }
+  },
+  "Pleurotus ostreatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒラタケ。広葉樹の枯木や倒木に発生する食用キノコ。傘は灰褐色〜暗灰色で、貝殻状に重なって生えます。「シメジ」として店頭に並ぶこともある優秀な食用キノコ。",
+      "habitat_hint": "雑木林の枯木・倒木、薪置場、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "10〜3月（冬〜春）、広葉樹の枯木や倒木で灰褐色の貝殻状に重なるキノコを探します。栽培もされる優秀な食用キノコです。"
+    },
+    "en": {
+      "summary": "Oyster Mushroom. An edible mushroom on dead and fallen broadleaf trees. Cap grey-brown to dark grey; grows in overlapping shell-like clusters. A choice edible, sometimes sold commercially as 'shimeji'.",
+      "habitat_hint": "Dead and fallen broadleaf wood in secondary woodlands, wood piles, fallen logs in shrine groves, and rotting wood in riparian forests.",
+      "finding_tips": "From October to March (winter to spring), look on dead broadleaf wood for grey-brown shell-like overlapping mushrooms. Also commercially cultivated — a choice edible."
+    },
+    "zh": {
+      "summary": "平菇（侧耳）。生于阔叶枯木与倒木上的食用菌。菌盖灰褐至暗灰色，呈贝壳状重叠生长。优良食用菌，市售常作『鲜菇』。",
+      "habitat_hint": "杂木林枯木与倒木、柴堆、神社林倒木、河岸林朽木。",
+      "finding_tips": "十至三月（冬至春）在阔叶枯木上寻找灰褐色贝壳状重叠的蘑菇。也作人工栽培——优良食用菌。"
+    }
+  },
+  "Juncus prismatocarpus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハナイ。湿地や水田畦に生える多年生のイグサ科。茎は円柱形で、淡褐色〜茶色の小さな花序が頭状にまとまります。背丈は20〜50cm程度。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "6〜9月、湿地や水田畦で淡褐色〜茶色の頭状花序を持つ多年生イグサを探します。"
+    },
+    "en": {
+      "summary": "Branching Rush. A perennial Juncaceae of wetlands and paddy bunds. Cylindrical stems; pale-brown to brown small flower clusters in heads. Plants 20-50 cm tall.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From June to September look in wetlands and paddy bunds for perennial rushes with pale-brown to brown head-like flower clusters."
+    },
+    "zh": {
+      "summary": "笄石菖（多枝灯心草）。湿地与水田田埂的多年生灯心草科。茎圆柱形，淡褐至褐色小型花序集成头状。植株 20-50 厘米。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "六至九月在湿地与水田田埂寻找具淡褐至褐色头状花序的多年生灯心草。"
+    }
+  },
+  "Agrimonia nipponica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメキンミズヒキ。林縁や明るい林床に生える多年草のバラ科。秋に黄色い小さな5弁花が穂状に並び、果実に鉤状の刺があり衣服にひっつきます。キンミズヒキより小型。",
+      "habitat_hint": "明るい雑木林の林縁、林床、土手、河川敷の草地、神社林。",
+      "finding_tips": "8〜10月、明るい林縁や林床で黄色い小さな5弁花が穂状に並ぶ多年草を探します。果実が衣服にくっつくのも特徴。キンミズヒキより小型で識別。"
+    },
+    "en": {
+      "summary": "Small Agrimony. A perennial Rosaceae of forest edges and bright forest floors. Spikes of small yellow 5-petalled flowers in autumn; hooked fruits stick to clothing. Smaller than common agrimony.",
+      "habitat_hint": "Bright secondary woodland edges, forest floors, banks, riverside grasslands, and shrine groves.",
+      "finding_tips": "From August to October look at bright forest edges and floors for perennials with spikes of small yellow 5-petalled flowers. Hooked fruits stick to clothing. Smaller than common agrimony."
+    },
+    "zh": {
+      "summary": "日本龙牙草（小金水引）。林缘与明亮林床的多年生蔷薇科。秋季穗状开黄色五瓣小花，果实具钩刺粘衣物。比龙牙草更小。",
+      "habitat_hint": "明亮杂木林林缘、林床、堤岸、河滩草地、神社林。",
+      "finding_tips": "八至十月在明亮林缘与林床寻找具黄色五瓣小花穗状的多年草。果实粘衣物。比龙牙草更小可区分。"
+    }
+  },
+  "Aegonychon zollingeri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホタルカズラ。林床や草地に生える多年草のムラサキ科。早春に鮮やかな青紫色の星形の花を咲かせ、その色が螢（ホタル）の光を思わせることが和名の由来。",
+      "habitat_hint": "明るい雑木林の林床、林縁、草地、土手、半日陰の斜面。",
+      "finding_tips": "4〜5月、明るい林床や草地で鮮やかな青紫色の星形5弁花を持つ多年草を探します。花の色の鮮やかさが識別の決め手。"
+    },
+    "en": {
+      "summary": "Firefly Vine. A Boraginaceae perennial of forest floors and grasslands. Brilliant blue-purple star-shaped flowers in early spring — the colour evokes a firefly's light, the source of the Japanese name 'firefly vine'.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, grasslands, banks, and partly shaded slopes.",
+      "finding_tips": "From April to May look on bright forest floors and grasslands for perennials with brilliant blue-purple star-shaped 5-petalled flowers. The vivid colour is diagnostic."
+    },
+    "zh": {
+      "summary": "梓木草。林床与草地的紫草科多年草。早春开鲜艳蓝紫色星形花，色彩似萤火虫光，是日文俗名『萤草』由来。",
+      "habitat_hint": "明亮杂木林林床、林缘、草地、堤岸、半阴斜坡。",
+      "finding_tips": "四至五月在明亮林床与草地寻找具鲜艳蓝紫色星形五瓣花的多年草。鲜艳色彩是关键识别。"
+    }
+  },
+  "Sedum mexicanum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メキシコマンネングサ。メキシコ原産の多肉質の多年草で、石垣や舗装の隙間、公園に帰化。線形の小さな葉が密生し、初夏に黄色い星形の小花が散形に咲きます。",
+      "habitat_hint": "石垣、舗装の隙間、公園植栽、屋上、住宅地の庭、河川敷。",
+      "finding_tips": "5〜6月、石垣や舗装の隙間で線形の多肉質の葉と黄色い星形の小花を持つ匍匐性の多年草を探します。"
+    },
+    "en": {
+      "summary": "Mexican Stonecrop. A Mexican-origin succulent perennial naturalised on stone walls, pavement cracks, and parks. Linear small densely-packed leaves; yellow star-shaped flowers in umbels in early summer.",
+      "habitat_hint": "Stone walls, pavement cracks, park plantings, rooftops, residential gardens, and riverbanks.",
+      "finding_tips": "From May to June look on stone walls and pavement cracks for creeping perennials with linear succulent leaves and yellow star-shaped flowers."
+    },
+    "zh": {
+      "summary": "墨西哥景天。原产墨西哥的肉质多年草，归化于石墙、路面缝与公园。线形肉质小叶密集，初夏伞形开黄色星形小花。",
+      "habitat_hint": "石墙、路面缝、公园栽植、屋顶、住宅区庭院、河滩。",
+      "finding_tips": "五至六月在石墙与路面缝寻找具线形肉质叶、黄色星形小花的匍匐多年草。"
+    }
+  },
+  "Torreya nucifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カヤ。日本固有の常緑針葉樹で、葉が硬く尖り（触ると痛い）、独特の香りがあります。種子は炒って食用にされ、材は碁盤・将棋盤の最高級材として珍重されます。",
+      "habitat_hint": "山地の林、神社林、寺院境内、公園植栽、住宅地の庭木。",
+      "finding_tips": "通年、硬く尖った針状の葉（線形・対生）を持つ常緑針葉樹を探します。葉を揉むと独特の青臭い香りがあります。雌雄異株。"
+    },
+    "en": {
+      "summary": "Japanese Nutmeg-yew. A Japan-endemic evergreen conifer with hard sharp-pointed needles and a distinctive aroma. Seeds are roasted and eaten; wood is prized for the highest-grade go and shogi boards.",
+      "habitat_hint": "Montane forests, shrine groves, temple grounds, park plantings, and residential gardens.",
+      "finding_tips": "Year-round, look for evergreen conifers with hard sharp-pointed (linear, opposite) needles. Crushed leaves give a distinctive grassy aroma. Dioecious."
+    },
+    "zh": {
+      "summary": "榧树。日本固有常绿针叶树，叶硬而尖（触手刺痛），具独特香气。种子炒食，木材为顶级围棋与将棋棋盘材。",
+      "habitat_hint": "山地林、神社林、寺院境内、公园栽植、住宅区庭树。",
+      "finding_tips": "全年寻找具硬尖刺状（线形对生）针叶的常绿针叶树。揉碎叶有独特青草香气。雌雄异株。"
+    }
+  },
+  "Potentilla stolonifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノミノフスマ近縁。匍匐性の小型多年草のバラ科で、明るい草地や林縁に生えます。地上に長い匍匐茎を伸ばし、黄色い5弁花を咲かせます。",
+      "habitat_hint": "明るい草地、林縁、土手、芝地、河川敷の草地。",
+      "finding_tips": "5〜7月、明るい草地や芝地で長い匍匐茎を伸ばし、黄色い5弁花を持つ小型多年草を探します。"
+    },
+    "en": {
+      "summary": "Stoloniferous Cinquefoil. A small creeping perennial Rosaceae of bright grasslands and forest edges. Long stolons; yellow 5-petalled flowers.",
+      "habitat_hint": "Bright grasslands, forest edges, banks, lawns, and riverside grasslands.",
+      "finding_tips": "From May to July look in bright grasslands and lawns for small perennials with long stolons and yellow 5-petalled flowers."
+    },
+    "zh": {
+      "summary": "匍匐委陵菜。明亮草地与林缘的匍匐小型多年生蔷薇科。具长匍匐茎，开黄色五瓣花。",
+      "habitat_hint": "明亮草地、林缘、堤岸、草坪、河滩草地。",
+      "finding_tips": "五至七月在明亮草地与草坪寻找具长匍匐茎、黄色五瓣花的小型多年草。"
+    }
+  },
+  "Anthoxanthum odoratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハルガヤ。欧州原産の多年生イネ科で、河川敷や芝地、農地に帰化。葉や穂を乾燥させると甘い香りがするのが特徴（クマリンの香り）。",
+      "habitat_hint": "芝地、河川敷、農地、道端、空き地、グラウンドの縁。",
+      "finding_tips": "4〜6月、芝地や河川敷で淡緑色〜淡黄色の細長い円柱形の穂を持つ多年生イネ科を探します。乾燥した葉を嗅ぐと甘い香りがあるか確認。"
+    },
+    "en": {
+      "summary": "Sweet Vernal Grass. A European-origin perennial naturalised on riverbanks, lawns, and farmland. Dried leaves and spikes have a characteristic sweet coumarin scent.",
+      "habitat_hint": "Lawns, riverbanks, farmland, roadsides, vacant lots, and athletic field edges.",
+      "finding_tips": "From April to June look on lawns and riverbanks for perennial grasses with slender pale-green to pale-yellow cylindrical spikes. The sweet aroma of dried leaves confirms identification."
+    },
+    "zh": {
+      "summary": "黄花茅（春茅）。原产欧洲的多年生禾本科，归化于河滩、草坪与农田。叶与穗干燥后散发甜香（香豆素气味）是特征。",
+      "habitat_hint": "草坪、河滩、农田、路边、空地、运动场边。",
+      "finding_tips": "四至六月在草坪与河滩寻找具淡绿至淡黄色细长圆柱形穗的多年生禾本科。嗅干燥叶具甜香可确认。"
+    }
+  },
+  "Eleutherococcus spinosus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマウコギ。落葉低木のウコギ科で、林縁や雑木林に生えます。5小葉の掌状複葉と枝の鋭い棘が特徴。若芽は山菜（ウコギ飯）として食用に。",
+      "habitat_hint": "雑木林の林縁、神社林、二次林、農家の屋敷林、半日陰の斜面。",
+      "finding_tips": "通年（春の若芽が食用）、林縁で5小葉の掌状複葉と枝に鋭い棘を持つ落葉低木を探します。"
+    },
+    "en": {
+      "summary": "Five-leaf Aralia. A deciduous Araliaceae shrub of forest edges and secondary woodlands. Palmately compound leaves with 5 leaflets and sharply spined twigs. Young shoots are a wild vegetable (used in 'ukogi-meshi' rice).",
+      "habitat_hint": "Secondary woodland edges, shrine groves, secondary woods, farmhouse groves, and partly shaded slopes.",
+      "finding_tips": "Year-round (spring shoots edible), look at forest edges for deciduous shrubs with palmately compound 5-leaflet leaves and sharply spined twigs."
+    },
+    "zh": {
+      "summary": "刺五加（日本刺五加）。林缘与杂木林的落叶五加科灌木。5 小叶掌状复叶与枝具锐刺为特征。嫩芽作山菜（『五加饭』）食用。",
+      "habitat_hint": "杂木林林缘、神社林、次生林、农家屋林、半阴斜坡。",
+      "finding_tips": "全年（春芽食用）在林缘寻找具 5 小叶掌状复叶、枝具锐刺的落叶灌木。"
+    }
+  },
+  "Hydrangea serrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマアジサイ。落葉低木で、山地の谷沿いや林縁に生えます。アジサイより小型で繊細、装飾花が周囲に少しだけつく独特の花序（額紫陽花）。茶として「アマチャ」も同じ仲間。",
+      "habitat_hint": "山地の谷地林、沢沿い、雑木林の林縁、神社林、湿った斜面。",
+      "finding_tips": "花期6〜7月、山地の谷沿いや林縁で装飾花が周囲にまばらに並ぶアジサイの仲間を探します。アジサイより小型で繊細。"
+    },
+    "en": {
+      "summary": "Mountain Hydrangea. A deciduous shrub of montane valleys and forest edges. Smaller and more delicate than common hydrangea; the lacecap inflorescence has sterile sepals only around the edge. Sweet hydrangea (amacha) for tea is a close relative.",
+      "habitat_hint": "Montane valley woods, streamsides, secondary woodland edges, shrine groves, and moist slopes.",
+      "finding_tips": "From June to July look in montane valleys and forest edges for hydrangea relatives with sterile sepals scattered around the edge of the cluster (lacecap). Smaller and more delicate than common hydrangea."
+    },
+    "zh": {
+      "summary": "山绣球。山地谷地与林缘的落叶灌木。比绣球更小更纤细，装饰花仅在花序周围稀疏排列（额绣球）。甜茶『アマチャ』为同类。",
+      "habitat_hint": "山地谷地林、溪边、杂木林林缘、神社林、湿润斜坡。",
+      "finding_tips": "花期六至七月在山地谷地与林缘寻找装饰花仅在花序周围稀疏排列的绣球近亲。比绣球更小更纤细。"
+    }
   }
 }
