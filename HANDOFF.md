@@ -71,8 +71,8 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - ✅ Name-sort already uses `LOCALE_FOR_LANG[displayLang]` — confirmed working.
    - **Follow-up still open**: geographically-nearby `sp.n` fallback for tiebreakers. When two species both have 1 record at the selected park, currently the tiebreaker is global park count, which still favors 関東-wide commons over locally-clustered species. Would need a precomputed `sp.regional_n` per (species, prefecture) or radius-based aggregation; defer until a complaint surfaces.
 
-6. **Continue species_profile curation** *(2026-05-16, mid-sweep — crossed 500)*
-   - Major expansion in progress: 49 → **~495 curated species × 4 langs** (commits `45071e1` through `2edfef7`).
+6. **Continue species_profile curation** *(2026-05-16/17, mid-sweep — crossed 625)*
+   - Major expansion in progress: 49 → **~625 curated species × 4 langs** (commits `45071e1` through `2dc293b`).
    - **Sidecar workflow** (`scripts/seed_species_profiles.py` now loads `data/species_profiles_extra.json` in addition to in-file `PROFILES_JA/EN_ZH`): append entries to the JSON, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html && git commit && git push`.
    - Selection strategy: top-N most-widespread visible species (`ORDER BY park_count DESC`), excluding species that already have profiles. Skip cultivars, microbes, and anything with no published natural-history info.
    - Each profile carries 4 languages (ja/en/zh/zhT) + structured `source_urls` (Wikipedia + iNaturalist + eBird when applicable). Hant is auto-generated from Hans via the OpenCC-like substitution table.
