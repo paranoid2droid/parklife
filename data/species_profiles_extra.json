@@ -17622,5 +17622,185 @@
       "habitat_hint": "草地、路边、河滩、农田边缘、空地。",
       "finding_tips": "四至六月在草地与路边寻找具 1-2 朵淡紫蝶形花的蔓生一年草。体型介于小巢菜与救荒野豌豆之间。"
     }
+  },
+  "Pentarhizidium orientale": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌガンソク。湿った林床に生える大型の落葉シダ。クサソテツ（コゴミ）に似ますが大型で、葉柄基部に大きな鱗片があります。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、河畔林。",
+      "finding_tips": "5〜10月（落葉性）、湿った林床でクサソテツに似た大型のシダを探します。葉柄基部の大きな鱗片が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Oriental Ostrich Fern. A large deciduous fern of damp forest floors, similar to but larger than the edible ostrich fern (Matteuccia struthiopteris). Distinctive large scales at the stipe base.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and riparian woods.",
+      "finding_tips": "From May to October (deciduous), look on damp forest floors for large ferns resembling ostrich fern. The large stipe-base scales help confirm."
+    },
+    "zh": {
+      "summary": "东方荚果蕨。潮湿林床的大型落叶蕨，似荚果蕨（俗称 koshi-abura 同类的 kogomi）但更大，叶柄基部具大型鳞片。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、河岸林。",
+      "finding_tips": "五至十月（落叶）在潮湿林床寻找形似荚果蕨的大型蕨。叶柄基部大型鳞片可助识别。"
+    }
+  },
+  "Cynanchum rostellatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ガガイモ。蔓性の多年草のキョウチクトウ科（旧ガガイモ科）。葉は心形で、夏に淡紫色の星形の花を多数咲かせます。秋に独特の長楕円形の果実が裂け、絹のような綿毛のついた種子が飛びます。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、農地の縁、生垣。",
+      "finding_tips": "花期7〜8月、果期10〜11月。林縁や藪で心形の葉と淡紫色の星形花序を持つ蔓性植物を探します。秋の絹綿のついた種子の飛散も観察ポイント。"
+    },
+    "en": {
+      "summary": "Rough Potato Vine. A vining perennial in Apocynaceae (formerly Asclepiadaceae). Heart-shaped leaves; many pale-purple star-shaped flowers in summer. Distinctive elongated capsules split in autumn to release silk-haired wind-dispersed seeds.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, farmland margins, and hedges.",
+      "finding_tips": "Flowers July-August; fruits October-November. Look at forest edges and thickets for vines with heart-shaped leaves and pale-purple star-shaped flowers. Silk-haired seeds dispersing in autumn are also worth observing."
+    },
+    "zh": {
+      "summary": "萝藦。蔓生多年生夹竹桃科（旧萝藦科）。叶心形，夏季密生淡紫色星形花。秋季独特长椭圆果裂开释放具丝绒毛的种子飘飞。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田边缘、绿篱。",
+      "finding_tips": "花期七至八月，果期十至十一月。在林缘与灌丛寻找具心形叶、淡紫色星形花的蔓生植物。秋季丝绒毛种子飘散也是观察看点。"
+    }
+  },
+  "Gynostemma pentaphyllum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アマチャヅル。林縁や藪に絡みつく蔓性の多年草のウリ科。5枚の小葉を持ち、葉を噛むとほのかな甘みがあるのが和名の由来。茶や薬用にもなります。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、湿った斜面。",
+      "finding_tips": "通年（葉の甘味で識別可）、林縁や藪で5枚の小葉と細い蔓を持つ植物を探します。葉を一枚噛んでほのかな甘味があれば確定。"
+    },
+    "en": {
+      "summary": "Jiaogulan / Sweet Tea Vine. A vining perennial in Cucurbitaceae, climbing in forest edges and thickets. Five leaflets; chewed leaves have a slight sweet taste (the source of the Japanese name 'sweet tea-vine'). Used as a tea and in traditional medicine.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and moist slopes.",
+      "finding_tips": "Year-round (identifiable by leaf taste), look at forest edges and thickets for vines with five leaflets on slender stems. A chewed leaf with a slight sweet taste confirms identification."
+    },
+    "zh": {
+      "summary": "绞股蓝。攀附林缘与灌丛的蔓生多年生葫芦科。5 小叶，叶咀嚼略带甜味，是日文俗名『甜茶蔓』由来。可作茶饮与药用。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、湿润斜坡。",
+      "finding_tips": "全年（叶甜味可识别）在林缘与灌丛寻找具 5 小叶、细蔓的植物。咀嚼一片叶有微甜可确认。"
+    }
+  },
+  "Kadsura japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サネカズラ（ビナンカズラ）。常緑の蔓性低木で、林縁や海岸近くの林に生えます。秋に赤い集合果が球状に成熟し、装飾的にも美しい。",
+      "habitat_hint": "雑木林の林縁、海岸近くの林、神社林、生垣、河畔林。",
+      "finding_tips": "果期10〜12月、林縁や海岸近くの林で常緑の蔓性低木に球状の赤い集合果がついているのを探します。葉は楕円形〜倒卵形で光沢。"
+    },
+    "en": {
+      "summary": "Kadsura. An evergreen vining shrub of forest edges and coastal woods. Striking globe-shaped clusters of red aggregate fruits ripen in autumn, decorative.",
+      "habitat_hint": "Secondary woodland edges, coastal woods, shrine groves, hedges, and riparian woods.",
+      "finding_tips": "Fruits October-December. Look at forest edges and coastal woods for evergreen vines bearing globe-shaped clusters of red aggregate fruits. Glossy elliptical to obovate leaves."
+    },
+    "zh": {
+      "summary": "南五味子（日本五味子）。林缘与海岸近郊林的常绿蔓生灌木。秋季球状红色聚合果成熟，极具装饰性。",
+      "habitat_hint": "杂木林林缘、海岸近郊林、神社林、绿篱、河岸林。",
+      "finding_tips": "果期十至十二月在林缘与海岸近郊林寻找常绿蔓生灌木上的球状红色聚合果。叶椭圆至倒卵形具光泽。"
+    }
+  },
+  "Hypericum erectum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オトギリソウ。山地の草原や明るい林縁に生える多年草。葉に黒い油点があるのが特徴で、夏に黄色い5弁花を咲かせます。古くから民間薬として使われてきました。",
+      "habitat_hint": "山地の草原、明るい林縁、土手、半日陰の斜面、河川敷の草地。",
+      "finding_tips": "7〜9月、山地や明るい林縁で黄色い5弁花と、葉に黒い油点（透かして見るとわかる）を持つ多年草を探します。"
+    },
+    "en": {
+      "summary": "Erect St. John's Wort. A perennial of montane grasslands and bright forest edges. Distinctive black oil glands on the leaves; yellow 5-petalled flowers in summer. Long used in folk medicine.",
+      "habitat_hint": "Montane grasslands, bright forest edges, banks, partly shaded slopes, and riverside grasslands.",
+      "finding_tips": "From July to September look in montane areas and forest edges for perennials with yellow 5-petalled flowers and leaves bearing black oil glands (visible when held to light)."
+    },
+    "zh": {
+      "summary": "小连翘。山地草原与明亮林缘的多年生草本。叶上具黑色油点（透光可见），夏季开黄色五瓣花。自古作民间药。",
+      "habitat_hint": "山地草原、明亮林缘、堤岸、半阴斜坡、河滩草地。",
+      "finding_tips": "七至九月在山地与明亮林缘寻找具黄色五瓣花、叶上黑色油点（透光可见）的多年草。"
+    }
+  },
+  "Erythronium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カタクリ。早春に淡紫色の花を下向きに咲かせる多年草で、スプリングエフェメラルの代表種。地下に鱗茎があり、かつては片栗粉の原料でした。希少種として保護対象。",
+      "habitat_hint": "明るい雑木林の林床、谷地林、半日陰の斜面、神社林、丘陵地。",
+      "finding_tips": "3〜4月、明るい雑木林の林床で淡紫色の花が下向きに咲く多年草を探します。花は晴れた日に強く反り返って咲きます。初夏には地上部が消えるスプリングエフェメラル。"
+    },
+    "en": {
+      "summary": "Japanese Dogtooth Violet. A perennial bearing pale-purple downward-facing flowers in early spring — the iconic spring ephemeral. Underground bulb was once the source of katakuri-ko starch. Protected rare species.",
+      "habitat_hint": "Bright secondary woodland floors, valley woods, partly shaded slopes, shrine groves, and hill country.",
+      "finding_tips": "From March to April look on bright secondary woodland floors for perennials with downward-facing pale-purple flowers. Petals reflex strongly on sunny days. Aboveground parts wither by early summer."
+    },
+    "zh": {
+      "summary": "猪牙花（日本猪牙花）。早春下垂开淡紫色花的多年草，是春季短生植物的代表。地下具鳞茎，曾为日本片栗粉原料。受保护的稀有种。",
+      "habitat_hint": "明亮杂木林林床、谷地林、半阴斜坡、神社林、丘陵地。",
+      "finding_tips": "三至四月在明亮杂木林林床寻找下垂开淡紫色花的多年草。晴天花瓣强烈反卷。初夏地上部分凋萎。"
+    }
+  },
+  "Gardenia jasminoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クチナシ。常緑低木で、初夏に強い甘い香りのある白い花を咲かせます。秋に橙赤色の果実が熟し、染料や薬用、食品着色料に使われます。",
+      "habitat_hint": "生垣、庭園、公園植栽、住宅地の庭木、寺社境内。",
+      "finding_tips": "花期6〜7月、果期10〜12月。庭園や生垣で強い甘い香りのある白い大きな花を咲かせる常緑低木を探します。秋には橙赤色の独特な果実をつけます。"
+    },
+    "en": {
+      "summary": "Cape Jasmine. An evergreen shrub bearing white flowers with strong sweet fragrance in early summer. Orange-red fruits ripen in autumn — used as dye, medicine, and food colouring.",
+      "habitat_hint": "Hedges, gardens, park plantings, residential trees, and temple/shrine grounds.",
+      "finding_tips": "Flowers June-July; fruits October-December. Look in gardens and hedges for evergreen shrubs with large strongly-fragrant white flowers. Distinctive orange-red fruits in autumn."
+    },
+    "zh": {
+      "summary": "栀子。常绿灌木，初夏开白色大花具强烈甜香。秋季橙红色果实成熟，可作染料、药用与食品色素。",
+      "habitat_hint": "绿篱、庭园、公园栽植、住宅区庭树、寺社境内。",
+      "finding_tips": "花期六至七月，果期十至十二月。在庭园与绿篱寻找开具强烈甜香的白色大花的常绿灌木。秋季结独特橙红色果。"
+    }
+  },
+  "Cornus macrophylla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマノミズキ。落葉小高木で、ミズキに似ますが葉が対生（ミズキは互生）であることが識別の決め手。初夏に白い小花を散房状に多数咲かせます。",
+      "habitat_hint": "雑木林、林縁、河畔林、神社林、谷地林。",
+      "finding_tips": "花期6〜7月、果期9〜10月。雑木林で対生の葉と白い小花の散房花序を持つ落葉小高木を探します。ミズキとの違いは葉の付き方。"
+    },
+    "en": {
+      "summary": "Large-leaved Dogwood. A deciduous small tree similar to giant dogwood (Cornus controversa) but distinguished by opposite (not alternate) leaves. Flat-topped clusters of small white flowers in early summer.",
+      "habitat_hint": "Secondary woodlands, forest edges, riparian woods, shrine groves, and valley woods.",
+      "finding_tips": "Flowers June-July; fruits September-October. Look in secondary woodlands for small deciduous trees with opposite leaves and flat-topped white flower clusters. Leaf arrangement separates it from giant dogwood."
+    },
+    "zh": {
+      "summary": "梾木（大叶梾木）。落叶小乔木，似灯台树但叶对生（灯台树为互生）是关键识别。初夏密生白色小花伞房状。",
+      "habitat_hint": "杂木林、林缘、河岸林、神社林、谷地林。",
+      "finding_tips": "花期六至七月，果期九至十月。在杂木林寻找具对生叶、白色小花伞房状花序的落叶小乔木。叶序与灯台树区分。"
+    }
+  },
+  "Circaea mollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミズタマソウ。湿った林床や林縁に生える多年草。果実が小さく丸く、毛の生えた水玉のような姿が和名の由来。",
+      "habitat_hint": "湿った林床、林縁、谷地林、河畔林、半日陰の道端。",
+      "finding_tips": "8〜10月、湿った林床や林縁で果実が小さく丸く毛が生えた多年草を探します。葉は対生で卵形〜披針形、白い小さな花も同時に咲きます。"
+    },
+    "en": {
+      "summary": "Soft Enchanter's Nightshade. A perennial of damp forest floors and edges. Small round hairy fruits resembling 'water droplets' give the Japanese name 'water-drop grass'.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, riparian woods, and partly shaded roadsides.",
+      "finding_tips": "From August to October look on damp forest floors and edges for perennials with small round hairy fruits. Opposite ovate-lanceolate leaves; small white flowers at the same time."
+    },
+    "zh": {
+      "summary": "露珠草（毛露珠草）。潮湿林床与林缘的多年生草本。果实小圆具毛似露珠，是日文俗名『水玉草』由来。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、半阴路边。",
+      "finding_tips": "八至十月在潮湿林床与林缘寻找具小圆形多毛果的多年草。叶对生卵至披针形，同时开白色小花。"
+    }
+  },
+  "Limosa lapponica": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオソリハシシギ。大型のシギで、嘴が長く上向きに反り返ります。日本では春・秋の渡り期に干潟で見られます。シベリアやアラスカで繁殖し、ニュージーランドまで11,000kmを無着陸で渡る世界記録を持ちます。",
+      "habitat_hint": "干潟、河口、塩性湿地、海岸の砂浜、内陸の湿地。",
+      "finding_tips": "4〜5月と8〜10月、干潟や河口で長く上向きに反った嘴と長い脚を持つ大型シギを探します。夏羽の雄は赤褐色の頭・胸が美しい。"
+    },
+    "en": {
+      "summary": "Bar-tailed Godwit. A large sandpiper with a long upturned bill. Seen in Japan on mudflats during spring and autumn migration. Breeds in Siberia and Alaska; holds the world record for non-stop flight (~11,000 km to New Zealand).",
+      "habitat_hint": "Mudflats, estuaries, salt marshes, sandy beaches, and inland wetlands.",
+      "finding_tips": "From April-May and August-October look on mudflats and estuaries for large sandpipers with long upturned bills and long legs. Breeding males show beautiful rufous head and breast."
+    },
+    "zh": {
+      "summary": "斑尾塍鹬。大型鹬，喙长且上翘。日本春秋迁徙期见于滩涂。在西伯利亚与阿拉斯加繁殖，保持不着陆飞行 1.1 万公里至新西兰的世界纪录。",
+      "habitat_hint": "滩涂、河口、盐沼、海岸沙滩、内陆湿地。",
+      "finding_tips": "四至五月与八至十月在滩涂与河口寻找具长上翘喙、长腿的大型鹬。繁殖羽雄性头胸红褐色美丽。"
+    }
   }
 }
