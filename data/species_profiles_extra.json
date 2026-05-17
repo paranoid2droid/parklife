@@ -12762,5 +12762,185 @@
       "habitat_hint": "湿地边缘、水田田埂、河滩、休耕地、灌溉沟边。",
       "finding_tips": "八至十一月在湿地边缘寻找一年生、小穗如细糠的稷属禾本科。属于黍属的近亲。"
     }
+  },
+  "Carex dimorpholepis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アゼナルコ。湿地や水田の畦に多い中型のスゲ。長く垂れ下がる小穂が「鳴子（なるこ）」のように見えることから命名。",
+      "habitat_hint": "水田畦、湿地、溜池の縁、湿った草地、河川敷。",
+      "finding_tips": "5〜7月、水田畦や湿地で長く垂れ下がる小穂を持つスゲを探します。穂が風に揺れる様子が和名の由来です。"
+    },
+    "en": {
+      "summary": "A medium sedge of paddy bunds and wet ground. Long pendulous spikes resembling traditional bird-scaring 'naruko' clappers, source of the Japanese name.",
+      "habitat_hint": "Rice paddy bunds, wetlands, pond edges, damp grasslands, and riverbanks.",
+      "finding_tips": "From May to July look for sedges with long drooping spikes on paddy bunds and wet ground. The swaying spikes in the wind inspired the Japanese name."
+    },
+    "zh": {
+      "summary": "二形鳞苔草。湿地与水田田埂常见的中型莎草。小穗长而下垂，形似传统驱鸟『鸣子』，因此得名。",
+      "habitat_hint": "水田田埂、湿地、池塘边、潮湿草地、河滩。",
+      "finding_tips": "五至七月在水田田埂与湿地寻找具长下垂小穗的莎草。风中摆动的穗是日文俗名由来。"
+    }
+  },
+  "Elymus ciliaris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオカモジクサ。多年生の中型イネ科で、林縁や道端、河川敷に広く生えます。芒（のぎ）が穂から長く突き出ます。",
+      "habitat_hint": "林縁、道端、河川敷、空き地、農地の縁。",
+      "finding_tips": "5〜7月、長い芒を持つ穂が立ち上がる多年生イネ科を探します。カモジグサに似ますが穂がより緑色で直立気味。"
+    },
+    "en": {
+      "summary": "A medium perennial grass common on forest edges, roadsides, and riverbanks. Long awns project conspicuously from the spike.",
+      "habitat_hint": "Forest edges, roadsides, riverbanks, vacant lots, and farmland margins.",
+      "finding_tips": "From May to July look for perennial grasses with upright spikes bearing long awns. Similar to bearded wheatgrass but greener and more erect."
+    },
+    "zh": {
+      "summary": "纤毛披碱草。中型多年生禾本科，林缘、路边、河滩广布。穗上具长芒突出。",
+      "habitat_hint": "林缘、路边、河滩、空地、农田边缘。",
+      "finding_tips": "五至七月寻找穗直立、具长芒的多年生禾本科。类似柯孟披碱草，但更绿、更直立。"
+    }
+  },
+  "Barnardia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルボ。秋に淡紫色の花穂を立てる多年生の球根植物。芝地や草地に群生し、秋の野を彩ります。",
+      "habitat_hint": "草地、芝地、土手、林縁、河川敷の草地。",
+      "finding_tips": "8〜10月、芝地や草地で淡紫色の小花が穂状に密生する球根植物を探します。葉は花茎より遅れて出ます。"
+    },
+    "en": {
+      "summary": "Japanese Jacinth. A perennial bulb producing pale-purple flower spikes in autumn; carpets grasslands and lawns.",
+      "habitat_hint": "Grasslands, lawns, banks, forest edges, and riverside meadows.",
+      "finding_tips": "From August to October look for bulbs with dense spikes of pale-purple flowers on grasslands and lawns. Leaves emerge after the flowering stem."
+    },
+    "zh": {
+      "summary": "绵枣儿。秋季抽淡紫色穗状花的多年生球根植物，常成片覆盖草地与草坪。",
+      "habitat_hint": "草地、草坪、堤岸、林缘、河滩草地。",
+      "finding_tips": "八至十月在草地与草坪寻找具密集淡紫色穗状花的球根植物。叶常迟于花茎出现。"
+    }
+  },
+  "Paradasynus spinosus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミナミトゲヘリカメムシ。淡褐色の中型カメムシで、肩に鋭い棘を持ちます。柑橘類の害虫として知られ南方から北上中。",
+      "habitat_hint": "柑橘園、果樹園、林縁、公園の木本、住宅地の庭木。",
+      "finding_tips": "通年（成虫越冬）、柑橘やその他果樹の果実上で肩に棘を持つ淡褐色のカメムシを探します。南方系の侵入種です。"
+    },
+    "en": {
+      "summary": "A medium pale-brown stink bug with sharp shoulder spines. A citrus pest spreading northward from southern Japan.",
+      "habitat_hint": "Citrus orchards, fruit orchards, forest edges, park trees, and residential gardens.",
+      "finding_tips": "Year-round (adults overwinter), look for pale-brown stink bugs with shoulder spines on citrus and other fruit. A southern invader expanding north."
+    },
+    "zh": {
+      "summary": "刺肩棘缘蝽。中型淡褐色蝽，肩部具锐刺。柑橘类害虫，正从日本南方向北扩散。",
+      "habitat_hint": "柑橘园、果园、林缘、公园乔木、住宅区庭院。",
+      "finding_tips": "全年（成虫越冬）在柑橘与其他果树果实上寻找肩部具刺的淡褐色椿象。属南方入侵种北扩。"
+    }
+  },
+  "Lymantria dispar": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マイマイガ。広食性の大型ガで、幼虫は様々な広葉樹を食害します。約10年周期で大発生することで知られています。",
+      "habitat_hint": "雑木林、果樹園、街路樹、公園、住宅地の庭木。",
+      "finding_tips": "幼虫は5〜7月、成虫は7〜8月。雌は白っぽく大型、雄は褐色で活発に飛びます。大発生年は卵塊が樹幹に多数見られます。"
+    },
+    "en": {
+      "summary": "Gypsy Moth. A large polyphagous moth whose caterpillars defoliate many broadleaf trees. Famous for outbreaks roughly every 10 years.",
+      "habitat_hint": "Secondary woodlands, orchards, street trees, parks, and residential gardens.",
+      "finding_tips": "Caterpillars in May-July, adults in July-August. Females whitish and large, males brown and active fliers. In outbreak years egg masses cover tree trunks."
+    },
+    "zh": {
+      "summary": "舞毒蛾。多食性大型蛾，幼虫为害多种阔叶树。约十年发生一次大暴发。",
+      "habitat_hint": "杂木林、果园、行道树、公园、住宅区庭院。",
+      "finding_tips": "幼虫五至七月，成虫七至八月。雌偏白且大型，雄褐色活跃飞行。暴发年树干常布满卵块。"
+    }
+  },
+  "Purpuricenus temminckii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ベニカミキリ。鮮やかな朱赤色の上翅と黒い斑紋が美しい中型カミキリ。幼虫は枯れたタケ類で育ちます。",
+      "habitat_hint": "竹林、雑木林、林縁、公園のタケ林、住宅地のササ群落。",
+      "finding_tips": "5〜7月、竹林近くで朱赤色に黒紋のあるカミキリを探します。花にも来るのでウツギやノイバラの花上も観察対象です。"
+    },
+    "en": {
+      "summary": "A medium longhorn beetle with brilliant vermillion elytra marked with black. Larvae develop in dead bamboo.",
+      "habitat_hint": "Bamboo groves, secondary woodlands, forest edges, park bamboo stands, and residential bamboo plantings.",
+      "finding_tips": "From May to July look for vermillion-and-black longhorn beetles near bamboo. They also visit flowers — check deutzia and wild rose blooms."
+    },
+    "zh": {
+      "summary": "红天牛。中型天牛，鞘翅鲜艳朱红并具黑斑。幼虫蛀食枯死竹类。",
+      "habitat_hint": "竹林、杂木林、林缘、公园竹丛、住宅区竹篁。",
+      "finding_tips": "五至七月在竹林附近寻找鞘翅朱红带黑斑的天牛。也访花，可检查溲疏与野蔷薇花上。"
+    }
+  },
+  "Dolichus halensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セアカヒラタゴミムシ。背中（前胸〜上翅基部）が赤く、他は黒い中型のゴミムシ。畑や林床の地表を素早く歩きます。",
+      "habitat_hint": "農地、畑、雑木林の林床、河川敷、芝地。",
+      "finding_tips": "4〜10月、畑や林床で石やゴミを裏返すと出てくる、背中の赤い黒地ゴミムシを探します。動きは敏捷です。"
+    },
+    "en": {
+      "summary": "A medium ground beetle with a red 'cape' (red pronotum and elytral base) on black. Fast walker on bare ground in fields and forest floors.",
+      "habitat_hint": "Farmland, fields, forest floors of secondary woodlands, riverbanks, and lawns.",
+      "finding_tips": "From April to October look under stones and debris in fields and forests for a black ground beetle with a red 'cape'. Moves rapidly when disturbed."
+    },
+    "zh": {
+      "summary": "赤背步甲。中型步甲，黑底配前胸至鞘翅基部红色『披风』。在农田与林下地面快速行走。",
+      "habitat_hint": "农田、菜地、杂木林林床、河滩、草坪。",
+      "finding_tips": "四至十月在农田与林下翻动石块杂物，寻找背部具红色的黑色步甲。受扰跑动迅捷。"
+    }
+  },
+  "Oryzias latipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミナミメダカ。日本在来の小型淡水魚で、水田や用水路、池に生息。絶滅危惧種に指定され保全が進められています。",
+      "habitat_hint": "水田、用水路、ため池、緩流の小川、湿地の水路。",
+      "finding_tips": "4〜10月、水面近くを小群で泳ぐ全長3〜4cmの細身の魚を探します。背びれが体の後方寄りにあるのが特徴。"
+    },
+    "en": {
+      "summary": "Southern Medaka. A small native Japanese freshwater fish of paddies, ditches, and ponds. Now red-listed and subject to conservation.",
+      "habitat_hint": "Rice paddies, irrigation ditches, ponds, slow streams, and wetland channels.",
+      "finding_tips": "From April to October look for slim 3-4 cm fish swimming in small schools near the surface. The dorsal fin set far back is diagnostic."
+    },
+    "zh": {
+      "summary": "南日本青鳉。日本本土小型淡水鱼，栖于水田、灌溉沟、池塘。已列为濒危种，受保护。",
+      "habitat_hint": "水田、灌溉沟、池塘、缓流小溪、湿地沟渠。",
+      "finding_tips": "四至十月在水面附近寻找体长 3-4 厘米、成群游动的细长小鱼。背鳍偏后是关键特征。"
+    }
+  },
+  "Neogurelca himachala": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホシヒメホウジャク。昼間に飛ぶ小型のスズメガ。ハチドリのように花の前でホバリングして吸蜜します。",
+      "habitat_hint": "草地、林縁、公園、河川敷、庭の花壇。",
+      "finding_tips": "7〜10月、ヒャクニチソウやランタナなどの花の前でホバリングする小型スズメガを探します。ハチドリのような飛び方です。"
+    },
+    "en": {
+      "summary": "A small day-flying hawkmoth that hovers in front of flowers like a hummingbird while nectaring.",
+      "habitat_hint": "Grasslands, forest edges, parks, riverbanks, and garden flower beds.",
+      "finding_tips": "From July to October look for small hawkmoths hovering at zinnia, lantana, and other tubular flowers. The hummingbird-like flight is distinctive."
+    },
+    "zh": {
+      "summary": "星天蛾（小斑长喙天蛾）。小型昼飞天蛾，悬停于花前如蜂鸟般取蜜。",
+      "habitat_hint": "草地、林缘、公园、河滩、庭院花坛。",
+      "finding_tips": "七至十月在百日草、马缨丹等花前寻找悬停吸蜜的小型天蛾。形似蜂鸟。"
+    }
+  },
+  "Parus minor": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シジュウカラ。黒い頭と白い頬、腹に黒い「ネクタイ」状の縦線がある最普通のカラ類。「ツツピー、ツツピー」と鳴きます。",
+      "habitat_hint": "公園、庭、街路樹、雑木林、河畔林、住宅地。",
+      "finding_tips": "一年中。住宅地から山地まで普遍的。黒頭白頬と腹のネクタイ模様、明るい鳴き声で判別できます。"
+    },
+    "en": {
+      "summary": "Japanese Tit. The commonest tit with black head, white cheeks, and a black 'necktie' down the belly. Sings 'tsutsu-pi, tsutsu-pi'.",
+      "habitat_hint": "Parks, gardens, street trees, secondary woodlands, riparian woods, and residential areas.",
+      "finding_tips": "Year-round. Ubiquitous from residential areas to mountains. Black head with white cheeks, black belly stripe, and bright song are diagnostic."
+    },
+    "zh": {
+      "summary": "远东山雀。最常见的山雀，黑头白脸颊，腹部具黑色『领带』纵纹。鸣声『tsutsu-pi, tsutsu-pi』。",
+      "habitat_hint": "公园、庭院、行道树、杂木林、河岸林、住宅区。",
+      "finding_tips": "全年。从住宅区到山地极常见。黑头白颊与腹部纵纹、清亮鸣声是关键识别。"
+    }
   }
 }
