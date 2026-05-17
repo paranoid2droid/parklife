@@ -20520,5 +20520,185 @@
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴路边、河滩草地。",
       "finding_tips": "三至五月在明亮林缘与路边寻找具披针至长椭圆叶、淡紫色小花的堇菜。"
     }
+  },
+  "Prunella vulgaris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウツボグサ。明るい草地や林縁に生える多年草のシソ科。初夏に紫色の唇形花が穂状に密集して咲き、穂の形が「靫（うつぼ：矢を入れる筒）」に似ることが和名の由来。",
+      "habitat_hint": "明るい草地、林縁、土手、半日陰の斜面、河川敷の草地。",
+      "finding_tips": "5〜7月、明るい草地や林縁で紫色の唇形花が密集した円柱状の穂を持つ多年草を探します。穂の形が「靫」のような円柱状なのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Common Self-heal. A Lamiaceae perennial of bright grasslands and forest edges. Dense spikes of purple lipped flowers in early summer; the spike shape resembles a 'utsubo' (quiver for arrows) — the source of the Japanese name.",
+      "habitat_hint": "Bright grasslands, forest edges, banks, partly shaded slopes, and riverside grasslands.",
+      "finding_tips": "From May to July look in bright grasslands and forest edges for perennials with dense cylindrical spikes of purple lipped flowers. The cylindrical spike shape is diagnostic."
+    },
+    "zh": {
+      "summary": "夏枯草。明亮草地与林缘的唇形科多年草。初夏密集穗状开紫色唇形花，穗形似日本『靫』（箭筒）是日文俗名由来。",
+      "habitat_hint": "明亮草地、林缘、堤岸、半阴斜坡、河滩草地。",
+      "finding_tips": "五至七月在明亮草地与林缘寻找具紫色唇形花密集圆柱形穗的多年草。圆柱形穗是关键识别。"
+    }
+  },
+  "Reineckea carnea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キチジョウソウ。常緑の小型多年草で、林床に這うように広がります。秋に淡桃色の小さな筒状花を穂状に咲かせ、花が咲くと吉事があるとされて庭園にも植栽されます。",
+      "habitat_hint": "雑木林の林床、神社林、庭園、公園植栽、半日陰の斜面。",
+      "finding_tips": "9〜11月、林床や庭園で線形〜披針形の常緑葉の中から淡桃色の筒状花の穂が立ち上がるのを探します。普段は花を咲かせないことが多い。"
+    },
+    "en": {
+      "summary": "Reinecke Palm Lily. A small evergreen perennial creeping on forest floors. Spikes of pale-pink small tubular flowers in autumn; said to bring good fortune when flowering, so also planted in gardens.",
+      "habitat_hint": "Secondary woodland floors, shrine groves, gardens, park plantings, and partly shaded slopes.",
+      "finding_tips": "From September to November look on forest floors and in gardens for spikes of pale-pink tubular flowers rising from linear-lanceolate evergreen leaves. Often does not flower."
+    },
+    "zh": {
+      "summary": "吉祥草。常绿小型多年生草本，林床匍匐生长。秋季穗状开淡粉色筒形小花，花开被认为有吉事，常作庭园栽植。",
+      "habitat_hint": "杂木林林床、神社林、庭园、公园栽植、半阴斜坡。",
+      "finding_tips": "九至十一月在林床与庭园寻找从线形至披针形常绿叶中抽出淡粉色筒形花穗的植物。常不开花。"
+    }
+  },
+  "Salvia nipponica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キバナアキギリ。日本固有の多年草で、山地の林床に生えます。秋に黄色い大型の唇形花を穂状に咲かせ、雄しべが「テコの原理」で花粉を訪花昆虫につける独特の構造を持ちます。",
+      "habitat_hint": "山地の林床、谷地林、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "9〜10月、山地の林床で黄色い大型の唇形花が穂状に並ぶ多年草を探します。葉は三角形で対生。"
+    },
+    "en": {
+      "summary": "Japanese Yellow Sage. A Japan-endemic perennial salvia of montane forest floors. Spikes of large yellow lipped flowers in autumn; the stamens use a 'lever' mechanism to deposit pollen on visiting insects.",
+      "habitat_hint": "Montane forest floors, valley woods, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From September to October look on montane forest floors for perennials with spikes of large yellow lipped flowers. Triangular opposite leaves."
+    },
+    "zh": {
+      "summary": "日本黄花鼠尾草。日本固有多年生鼠尾草，生于山地林床。秋季穗状开黄色大型唇形花；雄蕊以『杠杆原理』将花粉粘附访花昆虫。",
+      "habitat_hint": "山地林床、谷地林、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "九至十月在山地林床寻找具黄色大型唇形花穗的多年草。叶三角形对生。"
+    }
+  },
+  "Carpesium glossophyllum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サジガンクビソウ。林縁や林床に生える多年草のキク科。葉が匙（さじ）形で根生し、夏に黄色い小さな頭花を下向きに「ガンクビ（雁首）」のように咲かせるのが和名の由来。",
+      "habitat_hint": "明るい雑木林の林縁、林床、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "7〜9月、明るい林縁や林床で匙形の根生葉と下向きに咲く黄色い小さな頭花（茎の先端が雁の首のように曲がる）を持つ多年草を探します。"
+    },
+    "en": {
+      "summary": "Spoon-leaf Carpesium. A perennial Asteraceae of forest edges and floors. Spoon-shaped basal leaves; small yellow flower heads nodding downward in summer — the stem tip curving like a goose's neck gives the Japanese name 'goose-neck plant'.",
+      "habitat_hint": "Bright secondary woodland edges, forest floors, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From July to September look at bright forest edges and floors for perennials with spoon-shaped basal leaves and small yellow flower heads nodding downward on goose-neck-curved stems."
+    },
+    "zh": {
+      "summary": "匙叶天名精。林缘与林床的多年生菊科。叶匙形基生，夏季下垂开放黄色小型头状花，茎端弯如雁脖是日文俗名由来。",
+      "habitat_hint": "明亮杂木林林缘、林床、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "七至九月在明亮林缘与林床寻找具匙形基生叶、茎端弯曲下垂开黄色小头状花的多年草。"
+    }
+  },
+  "Viburnum plicatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブデマリ。落葉低木〜小高木で、林縁や雑木林に生えます。初夏に大きな白い装飾花が縁を囲むレース状の独特な散房花序が美しく、栽培品種「オオデマリ」の原種。",
+      "habitat_hint": "雑木林の林縁、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "5〜6月、林縁や雑木林で大きな白い装飾花が縁を囲むレース状の独特な散房花序を持つ落葉低木〜小高木を探します。"
+    },
+    "en": {
+      "summary": "Japanese Snowball. A deciduous shrub to small tree of forest edges and secondary woodlands. Distinctive lacecap inflorescence with large white sterile flowers around the edge — the wild ancestor of cultivated 'Oodemari' (snowball viburnum).",
+      "habitat_hint": "Secondary woodland edges, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "From May to June look at forest edges and in woodlands for deciduous shrubs to small trees with distinctive lacecap inflorescences bearing large white sterile flowers around the edge."
+    },
+    "zh": {
+      "summary": "蝴蝶戏珠花（薮繡球荚蒾）。林缘与杂木林的落叶灌木至小乔木。初夏开独特蕾丝状伞房花序，大型白色装饰花在花序边缘围绕，是栽培『大手鞠』的野生原种。",
+      "habitat_hint": "杂木林林缘、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "五至六月在林缘与杂木林寻找具独特蕾丝状伞房花序、大型白色装饰花围绕花序边缘的落叶灌木至小乔木。"
+    }
+  },
+  "Chimonanthus praecox": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ロウバイ。中国原産の落葉低木で、冬（12〜2月）に蝋細工のような淡黄色の花を咲かせ、強い甘い香りを放ちます。「蝋梅」の名は花が蝋（ろう）細工のように見えることから。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、住宅地の庭木、植物園。",
+      "finding_tips": "12〜2月、庭園や公園で葉のない枝に蝋細工のような淡黄色の花を咲かせる落葉低木を探します。強い甘い香りで遠くから気付きます。"
+    },
+    "en": {
+      "summary": "Wintersweet. A Chinese-origin deciduous shrub that flowers in winter (December-February) with waxy-textured pale-yellow flowers and a strong sweet fragrance. The Japanese name 'wax plum' refers to the waxy appearance of the flowers.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, residential trees, and botanical gardens.",
+      "finding_tips": "From December to February look in gardens and parks for deciduous shrubs bearing waxy pale-yellow flowers on leafless branches. The strong sweet fragrance carries on the air."
+    },
+    "zh": {
+      "summary": "蜡梅。原产中国的落叶灌木，冬季（十二至二月）开蜡质淡黄色花并散发浓郁甜香。日文俗名『蜡梅』源于花似蜡制。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、住宅区庭树、植物园。",
+      "finding_tips": "十二至二月在庭园与公园寻找无叶枝上开蜡质淡黄色花的落叶灌木。浓郁甜香远处可闻。"
+    }
+  },
+  "Terpsiphone atrocaudata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サンコウチョウ。日本では夏鳥として渡来する小型のヒタキ科。雄は尾が体長の3倍にもなる長い飾り羽を持ち、「ツキ、ヒ、ホシ（月日星）」と聞こえる独特の鳴き声から「三光鳥」と呼ばれます。",
+      "habitat_hint": "雑木林、谷地林、河畔林、神社林、山地の暗い林。",
+      "finding_tips": "5〜9月、雑木林や河畔林の暗い場所で雄の長い尾と「ツキ、ヒ、ホシ」と聞こえる独特の鳴き声を探します。姿は地味でも声で発見できます。"
+    },
+    "en": {
+      "summary": "Japanese Paradise Flycatcher. A small flycatcher visiting Japan in summer. Males have ornamental tail feathers three times the body length; the call 'tsuki, hi, hoshi' (moon-sun-star) gives the Japanese name 'three-light bird'.",
+      "habitat_hint": "Secondary woodlands, valley woods, riparian woods, shrine groves, and dark montane forests.",
+      "finding_tips": "From May to September listen in dark woodlands and riparian woods for the distinctive 'tsuki-hi-hoshi' call. Males' very long tails are diagnostic when seen."
+    },
+    "zh": {
+      "summary": "紫寿带（日本寿带）。日本夏候鸟，小型鹟科。雄性尾羽长达体长 3 倍，鸣声『tsuki, hi, hoshi』（月日星）是日文俗名『三光鸟』由来。",
+      "habitat_hint": "杂木林、谷地林、河岸林、神社林、山地暗林。",
+      "finding_tips": "五至九月在杂木林与河岸林暗处聆听『tsuki-hi-hoshi』独特鸣声。雄性长尾是关键识别。"
+    }
+  },
+  "Viola keiskei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マルバスミレ。日本固有のスミレで、明るい林床や林縁に生えます。葉が円形〜広卵形で先端が丸いことが和名「丸葉」の由来。春に白〜淡桃色の花を咲かせます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "4〜5月、明るい林床や林縁で円形〜広卵形の葉と白〜淡桃色の花を持つスミレを探します。葉の丸さがマルバスミレの決め手。"
+    },
+    "en": {
+      "summary": "Round-leaf Violet. A Japan-endemic violet of bright forest floors and edges. Round to broadly ovate leaves with rounded tips — the source of the Japanese name 'round-leaf'. White to pale-pink flowers in spring.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From April to May look on bright forest floors and edges for violets with round to broadly ovate leaves and white to pale-pink flowers. The round leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "圆叶堇菜。日本固有堇菜，生于明亮林床与林缘。叶圆形至宽卵形、先端钝圆是日文俗名『丸叶』由来。春季开白至淡粉花。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "四至五月在明亮林床与林缘寻找具圆至宽卵形叶、白至淡粉花的堇菜。叶圆是关键识别。"
+    }
+  },
+  "Episomus turritus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロコブゾウムシ。中型のゾウムシで、白い鱗片に覆われた上翅に大きなコブ状の隆起があります。マメ科やバラ科植物の葉や新芽を食害します。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、住宅地の庭、河畔林。",
+      "finding_tips": "5〜10月、マメ科やバラ科の葉や新芽で白い鱗片に覆われた中型ゾウムシを探します。上翅の大きなコブ状隆起が識別の決め手。"
+    },
+    "en": {
+      "summary": "White-knobbed Weevil. A medium weevil covered in white scales with conspicuous knob-like ridges on the elytra. Feeds on leaves and shoots of Fabaceae and Rosaceae.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, residential gardens, and riparian woods.",
+      "finding_tips": "From May to October look on Fabaceae and Rosaceae leaves and shoots for medium weevils covered in white scales. The bold knobs on the elytra are diagnostic."
+    },
+    "zh": {
+      "summary": "白瘤象。中型象甲，鞘翅覆白色鳞片并具显著瘤状突起。取食豆科与蔷薇科叶与嫩芽。",
+      "habitat_hint": "杂木林、林缘、农田、果园、住宅区庭院、河岸林。",
+      "finding_tips": "五至十月在豆科与蔷薇科叶与嫩芽上寻找覆白色鳞片的中型象甲。鞘翅显著瘤状突起是关键识别。"
+    }
+  },
+  "Pelophylax porosus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダルマガエル（トウキョウダルマガエル）。日本固有種で、水田や湿地周辺に生息する中型のアカガエル。背中に明瞭な縦線がなく、丸みを帯びた体型が「達磨」を思わせるのが和名の由来。生息地が減少し希少種。",
+      "habitat_hint": "水田、湿地、ため池、用水路、河川敷の湿地。",
+      "finding_tips": "4〜10月、水田や湿地で背中の中央線がない丸みを帯びた中型のカエルを探します。在来種で生息地減少のため、観察のみで保護を。"
+    },
+    "en": {
+      "summary": "Dharma Frog (Tokyo Daruma Pond Frog). A Japan-endemic medium pond frog of paddies and wetlands. Lacks a distinct central dorsal stripe and has a rounded body shape evoking a 'daruma' doll — the source of the Japanese name. Declining habitat — a rare species.",
+      "habitat_hint": "Rice paddies, wetlands, ponds, irrigation channels, and wet riverbanks.",
+      "finding_tips": "From April to October look in paddies and wetlands for medium round-bodied frogs lacking a central dorsal stripe. Native and declining — observe only."
+    },
+    "zh": {
+      "summary": "达摩蛙（东京达摩泽蛙）。日本固有种，栖于水田与湿地周边的中型泽蛙。背部无明显中央纵纹、体型圆润似『达摩』是日文俗名由来。栖地减少为稀有种。",
+      "habitat_hint": "水田、湿地、池塘、灌溉沟、河滩湿地。",
+      "finding_tips": "四至十月在水田与湿地寻找背部无中央纵纹、体型圆润的中型蛙。本土种且栖地减少，请仅观察。"
+    }
   }
 }
