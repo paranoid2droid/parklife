@@ -18882,5 +18882,185 @@
       "habitat_hint": "杂木林林床、谷地林、神社林、半阴岩生地、河岸林。",
       "finding_tips": "九至十月在林床与半阴岩生地寻找具白底紫斑独特百合状花的多年草。从叶腋到茎端开多数花。"
     }
+  },
+  "Carex duvaliana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケスゲ。明るい雑木林の林床や林縁に生える小型〜中型の多年生スゲ。葉に毛があるのが和名「毛菅」の由来。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、二次林。",
+      "finding_tips": "4〜6月、明るい林床や林縁で線形の葉に毛がある多年生スゲを探します。茎や葉の毛が手がかり。"
+    },
+    "en": {
+      "summary": "Hairy Sedge. A small to medium perennial sedge of bright secondary woodland floors and forest edges. The Japanese name 'hairy sedge' refers to leaves bearing hairs.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and secondary woods.",
+      "finding_tips": "From April to June look on bright forest floors and edges for perennial sedges with hairy linear leaves. Hairs on stems and leaves help confirm."
+    },
+    "zh": {
+      "summary": "毛苔草。明亮杂木林林床与林缘的中小型多年生莎草。叶具毛是日文俗名『毛菅』由来。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、次生林。",
+      "finding_tips": "四至六月在明亮林床与林缘寻找叶具毛的多年生莎草。茎与叶上的毛是关键。"
+    }
+  },
+  "Isachne globosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チゴザサ。湿地や水田畦に生える多年生イネ科。葉は披針形で、繊細な円錐花序に小さな丸い小穂が散らばってつくのが特徴。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "7〜10月、湿地や水田畦で繊細な円錐花序に小さな丸い小穂が散らばってつく多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Globose Isachne. A perennial grass of wetlands and paddy bunds. Lanceolate leaves; delicate panicles bearing scattered small globose spikelets — diagnostic.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From July to October look in wetlands and paddy bunds for perennial grasses with delicate panicles bearing scattered small globose spikelets."
+    },
+    "zh": {
+      "summary": "球穗柳叶箬。湿地与水田田埂的多年生禾本科。叶披针形，纤细圆锥花序上散布小型球状小穗。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "七至十月在湿地与水田田埂寻找具纤细圆锥花序、散布球状小穗的多年生禾本科。"
+    }
+  },
+  "Brachypodium sylvaticum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマカモジグサ。林床や林縁に生える多年生イネ科。穂は細く長い芒のある小穂が片側に並ぶのが特徴。淡緑色〜淡褐色。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "6〜8月、林床や林縁で細い穂と長い芒のある小穂が片側に並ぶ多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "False Brome / Slender Brome. A perennial grass of forest floors and edges. Slender spike-like inflorescence with long-awned spikelets in a one-sided arrangement.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From June to August look on forest floors and edges for perennial grasses with slender spike-like inflorescences bearing one-sided long-awned spikelets."
+    },
+    "zh": {
+      "summary": "短柄草。林床与林缘的多年生禾本科。穗细，具长芒小穗排成一侧。淡绿至淡褐色。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "六至八月在林床与林缘寻找具细穗、长芒小穗单侧排列的多年生禾本科。"
+    }
+  },
+  "Chiromantes haematocheir": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカテガニ。日本固有種に近い半陸生のカニで、鋏が鮮やかな赤色なのが和名の由来。陸上で生活しますが繁殖時には海岸の汽水域に降ります。",
+      "habitat_hint": "海岸近くの林、河口の汽水域、神社林（海岸近く）、湿った石垣。",
+      "finding_tips": "通年（活動期4〜10月）、海岸近くの林や河口で赤い鋏を持つカニを探します。陸上を歩き、夜行性で繁殖時には海に向かいます。"
+    },
+    "en": {
+      "summary": "Red-clawed Crab. A semi-terrestrial crab native to Japan and neighbouring regions. The bright red claws give the Japanese name 'red-handed crab'. Lives on land but descends to brackish estuaries to breed.",
+      "habitat_hint": "Coastal woods, brackish estuaries, coastal shrine groves, and damp stone walls.",
+      "finding_tips": "Year-round (active April-October), look in coastal woods and estuaries for crabs with bright red claws. Walks on land; nocturnal; migrates to sea to breed."
+    },
+    "zh": {
+      "summary": "红螯蟹（赤手蟹）。日本及邻近地区的半陆生蟹，钳鲜艳红色是日文俗名由来。在陆地生活，繁殖时下河口汽水域。",
+      "habitat_hint": "海岸近郊林、河口汽水域、海岸近郊神社林、潮湿石墙。",
+      "finding_tips": "全年（四至十月活跃）在海岸近郊林与河口寻找具红钳的蟹。陆地行走，夜行性，繁殖时迁向海。"
+    }
+  },
+  "Lespedeza pilosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネコハギ。匍匐性の多年草のマメ科で、明るい草地や林縁に生えます。3小葉の小さな葉と全体に毛が密生することが和名「猫萩」の由来（毛が猫のように柔らかい）。",
+      "habitat_hint": "明るい草地、林縁、土手、河川敷の草地、二次林。",
+      "finding_tips": "7〜9月、明るい草地や林縁で匍匐性の毛深い3小葉と淡黄白色の小さな蝶形花を持つマメ科を探します。"
+    },
+    "en": {
+      "summary": "Cat Lespedeza. A creeping perennial Fabaceae of bright grasslands and forest edges. Small trifoliate leaves and dense hairs throughout — the Japanese name 'cat lespedeza' refers to the soft cat-like hairs.",
+      "habitat_hint": "Bright grasslands, forest edges, banks, riverside grasslands, and secondary woods.",
+      "finding_tips": "From July to September look in bright grasslands and forest edges for creeping Fabaceae with hairy trifoliate leaves and small pale-yellow-white pea-flowers."
+    },
+    "zh": {
+      "summary": "毛胡枝子。匍匐多年生豆科，生于明亮草地与林缘。三出小叶与全株密被毛是日文俗名『猫萩』由来（毛如猫般柔软）。",
+      "habitat_hint": "明亮草地、林缘、堤岸、河滩草地、次生林。",
+      "finding_tips": "七至九月在明亮草地与林缘寻找匍匐生长、具多毛三出叶与淡黄白色小蝶形花的豆科。"
+    }
+  },
+  "Smilax riparia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シオデ。蔓性の多年草のサルトリイバラ科で、林縁や藪に絡みつきます。若芽は山菜（牛尾菜）として珍重されます。秋に黒紫色の小さな球形果実が熟します。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、湿った斜面。",
+      "finding_tips": "通年（春の若芽が食用）。林縁や藪で蔓性の多年草で、葉腋から巻きひげを出して絡みつくものを探します。秋の黒紫色の小さな球形果実も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Streamside Smilax. A vining perennial Smilacaceae climbing in forest edges and thickets. Young shoots are a prized wild vegetable ('shiode'). Small purple-black globose fruits ripen in autumn.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and moist slopes.",
+      "finding_tips": "Year-round (spring shoots edible). Look at forest edges and thickets for vining perennials with tendrils from leaf axils. Small purple-black globose fruits in autumn also help identify."
+    },
+    "zh": {
+      "summary": "牛尾菜。蔓生多年生菝葜科，攀附林缘与灌丛。嫩芽（『牛尾菜』）为珍贵山菜。秋季结紫黑色小球形果。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、湿润斜坡。",
+      "finding_tips": "全年（春芽食用）在林缘与灌丛寻找具叶腋卷须的蔓生多年草。秋季紫黑色小球形果可助识别。"
+    }
+  },
+  "Carex incisa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワラスゲ。河川敷の砂礫地や開けた湿地に生える多年生のスゲ。細長い葉と短い果穂を持ち、河川敷を代表するスゲの一つ。",
+      "habitat_hint": "河川敷の砂礫地、開けた湿地、土手、ため池の縁。",
+      "finding_tips": "5〜7月、河川敷の砂礫地や開けた湿地で線形の葉と短い果穂を持つ多年生スゲを探します。"
+    },
+    "en": {
+      "summary": "Cleft Sedge (River Sedge). A perennial sedge of riverbank gravels and open wetlands. Slender leaves and short fruiting spikes. An iconic sedge of riverbed habitats.",
+      "habitat_hint": "Gravelly riverbanks, open wetlands, banks, and pond edges.",
+      "finding_tips": "From May to July look on gravelly riverbanks and open wetlands for perennial sedges with linear leaves and short fruiting spikes."
+    },
+    "zh": {
+      "summary": "截鳞苔草（河滩苔草）。河滩砂砾地与开阔湿地的多年生莎草。叶细长，果穗短，是河滩代表性莎草之一。",
+      "habitat_hint": "河滩砂砾地、开阔湿地、堤岸、池塘边。",
+      "finding_tips": "五至七月在河滩砂砾地与开阔湿地寻找具线形叶、短果穗的多年生莎草。"
+    }
+  },
+  "Dryopteris sacrosancta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメイタチシダ。湿った林床に生える小型〜中型の常緑シダ。葉柄の鱗片に暗褐色の縦線（中心線）があるのが識別の手がかり。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で小型〜中型の常緑シダを探します。葉柄基部の鱗片に暗褐色の中心線が見えるか確認。"
+    },
+    "en": {
+      "summary": "Small Weasel Fern. A small to medium evergreen wood fern of damp forest floors. The stipe scales bear a dark-brown central stripe — a diagnostic feature.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for small to medium evergreen wood ferns. Check the stipe-base scales for a dark-brown central stripe."
+    },
+    "zh": {
+      "summary": "圣鳞毛蕨。潮湿林床的中小型常绿蕨。叶柄鳞片具暗褐色中央纵线是识别要点。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找中小型常绿鳞毛蕨。检查叶柄基部鳞片是否具暗褐色中央纵线。"
+    }
+  },
+  "Cryptotaenia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツバ。湿った林床や林縁、庭園に生える多年草のセリ科で、独特の香りを持つ食用ハーブ。3小葉が特徴で、和名「三つ葉」の由来。お吸い物や茶碗蒸しの薬味として親しまれます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の庭、河畔林。",
+      "finding_tips": "通年（春〜初夏が食用に最適）、湿った林床や庭で3小葉と独特の爽やかな香りを持つセリ科多年草を探します。葉や茎を揉むと香りで識別できます。"
+    },
+    "en": {
+      "summary": "Japanese Honewort (Mitsuba). A perennial Apiaceae of damp forest floors, forest edges, and gardens. A culinary herb with distinctive aroma. Three leaflets give the Japanese name 'three-leaf'. Used as a garnish in clear soup and chawanmushi.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded gardens, and riparian woods.",
+      "finding_tips": "Year-round (spring to early summer best for eating), look on damp forest floors and in gardens for Apiaceae perennials with three leaflets and a fresh distinctive aroma. Crushed leaves and stems confirm by scent."
+    },
+    "zh": {
+      "summary": "鸭儿芹。潮湿林床、林缘与庭园的多年生伞形科，具独特香气的食用香草。三出小叶是日文俗名『三つ葉』由来。常作清汤与茶碗蒸的香辛料。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴庭院、河岸林。",
+      "finding_tips": "全年（春至初夏最适食用）在潮湿林床与庭院寻找具三出小叶、清新独特香气的伞形科多年草。揉碎叶与茎可凭气味识别。"
+    }
+  },
+  "Amauropelta glanduligera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホソバシケシダ。湿った林床や林縁に生える小型〜中型のシダ。葉は単羽状で繊細、葉柄基部に細毛があります。落葉性で冬は地上部が枯れます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、神社林。",
+      "finding_tips": "5〜10月（落葉性）、湿った林床や林縁で単羽状の繊細な葉を持つ小型〜中型シダを探します。葉柄基部の細毛が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Narrow-leaf Glandular Fern. A small to medium fern of damp forest floors and edges. Simply pinnate delicate fronds; fine hairs at the stipe base. Deciduous — dies back in winter.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and shrine groves.",
+      "finding_tips": "From May to October (deciduous), look on damp forest floors and edges for small to medium ferns with delicate simply pinnate fronds. Fine hairs at stipe base help confirm."
+    },
+    "zh": {
+      "summary": "腺羽金星蕨。潮湿林床与林缘的中小型蕨。叶一回羽状纤细，叶柄基部具细毛。落叶，冬季地上部分枯死。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
+      "finding_tips": "五至十月（落叶）在潮湿林床与林缘寻找叶一回羽状、纤细的中小型蕨。叶柄基部细毛可助识别。"
+    }
   }
 }
