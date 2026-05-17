@@ -10170,5 +10170,167 @@
       "habitat_hint": "杂木林林床、谷地林、神社境内、潮湿林床、神社树林。",
       "finding_tips": "三至五月找叶密生常绿、中央抽黑色花穗的小型薹草。"
     }
+  },
+  "Himantopus himantopus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セイタカシギ。極端に長いピンク色の脚と細長いくちばしが特徴の、エレガントなシギ・チドリ類。「水鳥のモデル」と呼ばれます。",
+      "habitat_hint": "干潟、河口、湿地、湖の浅瀬、塩田跡。",
+      "finding_tips": "他のシギ類より明らかに脚が長く、ピンク色の長い脚と黒白の体色が目を引きます。東京湾の干潟で繁殖記録もあります。"
+    },
+    "en": {
+      "summary": "Black-winged Stilt, an elegant wader with very long pink legs and a slender bill. Sometimes called 'the model among waterbirds'.",
+      "habitat_hint": "Tidal flats, estuaries, wetlands, lake shallows, and former salt pans.",
+      "finding_tips": "Much longer-legged than other waders; the pink legs and black-and-white body are striking. Has bred on Tokyo Bay tidal flats."
+    },
+    "zh": {
+      "summary": "黑翅长脚鹬，腿极长且粉红、喙细长的优雅鸻鹬。被誉为『水鸟模特』。",
+      "habitat_hint": "滩涂、河口、湿地、湖泊浅水、废盐田。",
+      "finding_tips": "腿明显比其他鹬长，粉色长腿配黑白身躯醒目。东京湾滩涂有繁殖记录。"
+    }
+  },
+  "Hebius vibakari": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒバカリ。在来種の小型のヘビで、無毒。首の後ろの白い帯模様が特徴。「噛まれたらその日ばかり（生きていられる）」と誤って恐れられたが完全に無毒です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、湿った草地、河川敷、田の畦。",
+      "finding_tips": "茶褐色〜黒褐色の小型のヘビで、首の後ろに白い帯があるものを探します。**観察のみで触らないこと。** カエルやミミズを食べる無毒種です。"
+    },
+    "en": {
+      "summary": "Japanese Keelback, a small non-venomous native snake. Has a distinctive white collar mark behind the head. Once mistakenly feared for a bite that 'lasted only a day', but in fact entirely harmless.",
+      "habitat_hint": "Forest understory, valley woods, damp meadows, riverbanks, and paddy levees.",
+      "finding_tips": "Look for a small brown-to-blackish snake with a white collar mark behind the head. **Observe only — non-venomous but always treat snakes with respect.** Feeds on frogs and earthworms."
+    },
+    "zh": {
+      "summary": "白颈腹链蛇（『一日蛇』），小型本土无毒蛇。颈后白色横带是辨识。曾被误以为毒蛇，实为完全无毒。",
+      "habitat_hint": "杂木林林床、谷地林、潮湿草地、河滩、田埂。",
+      "finding_tips": "找棕褐至黑褐色、颈后具白色带的小型蛇。**仅观察，不接触。** 食蛙类和蚯蚓，无毒。"
+    }
+  },
+  "Cirsium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノアザミ。在来種のアザミの代表種で、春〜初夏に紫色の頭花を立ち上げます。葉と茎にトゲがあり、種子は綿毛で風に運ばれます。",
+      "habitat_hint": "明るい草地、河川敷、農地の縁、明るい斜面、神社の境内。",
+      "finding_tips": "5〜7月、紫色の大型頭花と、深く切れ込んだトゲのある葉を持つ植物を探します。**葉のトゲに注意。** タテハチョウ類などの蜜源です。"
+    },
+    "en": {
+      "summary": "Japanese Thistle, a representative native thistle. Vivid purple flower heads in spring and early summer. Spiny leaves and stems; nectar source for many butterflies.",
+      "habitat_hint": "Bright meadows, riverbanks, field margins, bright slopes, and shrine grounds.",
+      "finding_tips": "From May to July look for plants with large purple thistle heads and deeply lobed spiny leaves. **Beware of spines.** Major nectar source for nymphalids."
+    },
+    "zh": {
+      "summary": "野蓟（日本蓟），本土代表性蓟。春至初夏抽紫色头花，叶茎具刺。是多种蛱蝶的重要蜜源。",
+      "habitat_hint": "明亮草地、河滩、田边、明亮斜坡、神社境内。",
+      "finding_tips": "五至七月寻找紫色大型头花配深裂带刺叶的植物。**注意刺。**"
+    }
+  },
+  "Cyclosa octotuberculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゴミグモ。円網の中央に獲物の残骸や脱皮殻、葉などを縦に並べて「ゴミ」のように飾る独特のクモ。ゴミの中に自分の体を隠します。",
+      "habitat_hint": "雑木林の林縁、住宅地の庭、神社の境内、低木の間、河川敷の藪。",
+      "finding_tips": "円網の中央に縦に並んだ「ゴミ」を探します。その中にクモが隠れていることが多く、よく見ないと気づきません。"
+    },
+    "en": {
+      "summary": "Trashline Orbweaver. Decorates the centre of its orb web with a vertical line of prey carcasses, moults, and leaves — and hides its body within the 'trash line'.",
+      "habitat_hint": "Woodland edges, residential gardens, shrine grounds, between shrubs, and riverbank thickets.",
+      "finding_tips": "Look for an orb web with a vertical line of debris down the middle. The spider hides within the line and is easy to miss."
+    },
+    "zh": {
+      "summary": "蓋干造网中央加上一列『垃圾』（猎物残骸、蜕皮、叶子）藏身的独特蛛。",
+      "habitat_hint": "林缘、住宅区庭院、神社境内、灌木间、河滩灌丛。",
+      "finding_tips": "找蛛网中央有竖直『垃圾线』的圆网。蛛常隐于线中，不细看不易发现。"
+    }
+  },
+  "Myrmarachne japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アリグモ。アリに擬態した独特のハエトリグモ。8本ある脚のうち前脚2本を触角のように上げて歩き、アリそっくりの姿で動きます。",
+      "habitat_hint": "雑木林の林縁、神社の樹幹、住宅地、河川敷、明るい園路の縁。",
+      "finding_tips": "アリの行列の中で「アリと違う」動きをする個体を探します。前脚2本を触角のように上げて歩いているのが本種の手がかりです。"
+    },
+    "en": {
+      "summary": "Japanese Ant-mimic Spider. Mimics ants — walking with the front pair of legs lifted like antennae. With practice it's distinguishable from real ants by movement.",
+      "habitat_hint": "Woodland edges, shrine tree trunks, residential areas, riverbanks, and bright path edges.",
+      "finding_tips": "Among ant trails look for an individual whose movement is just slightly 'off' — and lifts its front legs as if they were antennae. That's the spider."
+    },
+    "zh": {
+      "summary": "日本蚁蛛，拟态蚂蚁的跳蛛。前两对足举起如触角，与蚁同行，外形与动作都极像蚂蚁。",
+      "habitat_hint": "林缘、神社树干、住宅区、河滩、明亮园路边。",
+      "finding_tips": "在蚁群中找动作『稍有不同』的个体——把前足举起当触角。这就是蛛。"
+    }
+  },
+  "Cyclosa argenteoalba": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ギンメッキゴミグモ。腹部が銀色に光るゴミグモの仲間。円網の中央にゴミを並べ、その中に隠れる行動はゴミグモと同じです。",
+      "habitat_hint": "雑木林の林縁、住宅地の庭、神社の境内、低木の間。",
+      "finding_tips": "円網の中央に縦のゴミ列を探し、その中に銀色に光る腹を持つ小型のクモを見つけます。"
+    },
+    "en": {
+      "summary": "A Cyclosa relative with a silvery-shining abdomen. Like other trashline orbweavers it hides within a line of debris in the centre of its web.",
+      "habitat_hint": "Woodland edges, residential gardens, shrine grounds, and between shrubs.",
+      "finding_tips": "Look for orb webs with a vertical trash line, then find a small spider with a silvery abdomen tucked among the debris."
+    },
+    "zh": {
+      "summary": "银盖蛛，腹部银光闪亮的造盖蛛。和近缘种一样在网中央列『垃圾』藏身。",
+      "habitat_hint": "林缘、住宅区庭院、神社境内、灌木间。",
+      "finding_tips": "找网中央带竖直垃圾线的圆网，再在其中找腹部银光的小蛛。"
+    }
+  },
+  "Ambigolimax valentianus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャコウラナメクジ。ヨーロッパ原産の外来種のナメクジで、背中に「甲」のような薄い殻の名残があります。家屋周辺や庭で普通に見られます。",
+      "habitat_hint": "庭、家屋の周辺、農地、湿った植え込み、神社の境内。",
+      "finding_tips": "雨上がりや夜、地面や石垣で背中に薄い甲のような構造があるナメクジを探します。在来ナメクジより大型のことが多いです。"
+    },
+    "en": {
+      "summary": "Three-banded Garden Slug. A European introduced slug with a small vestigial shell on the back. Common in and around homes and gardens.",
+      "habitat_hint": "Gardens, around houses, farmland, damp plantings, and shrine grounds.",
+      "finding_tips": "After rain or at night look on the ground and stone walls for slugs with a small shell-like cap on the back. Usually larger than native slugs."
+    },
+    "zh": {
+      "summary": "瓦伦西亚柄眼蛞蝓，欧洲原产外来蛞蝓。背部具残留薄壳『甲』。家屋与庭园周边常见。",
+      "habitat_hint": "庭园、住宅周边、农田、潮湿植被、神社境内。",
+      "finding_tips": "雨后或夜间在地面与石墙找背部带残壳的蛞蝓。通常比本土蛞蝓大。"
+    }
+  },
+  "Polystichum fibrillosopaleaceum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アスカイノデ。雑木林の林床に普通の常緑シダ。葉軸に毛のような鱗片が密につき、葉は二回羽状でしっかりした質感です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "葉軸に毛のような鱗片が密集する中〜大型の常緑シダを探します。葉が硬く、林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A common evergreen shield fern of mixed forest understory. Hairy scales densely cover the rachis; bipinnate fronds are firm in texture.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium-to-large evergreen fern with rachis densely covered in hair-like scales. Often colonial."
+    },
+    "zh": {
+      "summary": "异盖鳞毛蕨（『飞鸟井之手』），杂木林林床常见的常绿耳蕨。叶轴密被毛状鳞片，二回羽状叶质地坚韧。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶轴密被毛状鳞片、二回羽状质坚的中至大型常绿蕨。常成片。"
+    }
+  },
+  "Galium spurium": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤエムグラ。茎と葉に下向きのトゲがあり、他の物にくっつくつる状の一年草。葉が6〜8枚輪生する独特の姿が特徴です。",
+      "habitat_hint": "河川敷、農地の縁、空き地、住宅地のフェンス、雑草地。",
+      "finding_tips": "4〜6月、茎と葉に細かい逆向きのトゲがあり、他の植物に絡みつく植物を探します。葉が車輪状に輪生する点も識別の手がかりです。"
+    },
+    "en": {
+      "summary": "False Cleavers, an annual that climbs by tiny backward-pointing prickles on stem and leaves. Leaves are arranged in whorls of 6–8 — distinctive at a glance.",
+      "habitat_hint": "Riverbanks, field margins, vacant lots, residential fences, and weedy ground.",
+      "finding_tips": "From April to June look for a plant that catches on clothing thanks to backward-pointing prickles. The whorled leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "猪殃殃（八重律），茎叶具反向小刺、能粘附其他植物的一年生攀缘草。叶 6–8 枚轮生独特。",
+      "habitat_hint": "河滩、田边、空地、住宅围栏、杂草地。",
+      "finding_tips": "四至六月找具反向小刺、能粘衣物的植物。叶轮生 6–8 枚是辨识要点。"
+    }
   }
 }
