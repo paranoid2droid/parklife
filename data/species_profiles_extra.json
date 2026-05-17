@@ -11466,5 +11466,167 @@
       "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
       "finding_tips": "找叶轴深褐色、二回羽状的中至大型半常绿蕨。常成片覆地。"
     }
+  },
+  "Bombylius major": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ビロウドツリアブ。春先のごく短い期間に出現するふわふわした体のツリアブ。空中で静止しながら長い口吻で花の蜜を吸う姿が「妖精のよう」と言われます。",
+      "habitat_hint": "雑木林の林縁、河川敷の花、明るい斜面、春の花壇、ハナニラ・タンポポなどの花。",
+      "finding_tips": "3〜5月、ふわふわした体に長い口吻を持つアブが花の前でホバリングしていれば本種。出現期間が短いので春の限られた時期にしか会えません。"
+    },
+    "en": {
+      "summary": "Large Bee Fly. A fuzzy spring bee fly visible for only a short period. Hovers in front of flowers with its long proboscis extended — often described as 'fairy-like'.",
+      "habitat_hint": "Woodland edges, riverside flowers, bright slopes, spring flower beds, and around early flowers like spring starflower and dandelion.",
+      "finding_tips": "From March to May watch flowers for a fuzzy insect hovering with a long proboscis. The flight period is brief — spring only."
+    },
+    "zh": {
+      "summary": "大蜂虻，春季短期出现的毛绒蜂虻。在花前悬停伸长口吻吸蜜，形似『花仙』。",
+      "habitat_hint": "林缘、河滩花卉、明亮斜坡、春季花坛、葱莲蒲公英等早春花。",
+      "finding_tips": "三至五月在花前找毛绒、长口吻悬停的蜂虻。仅春季短期可见。"
+    }
+  },
+  "Disporum smilacinum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チゴユリ。雑木林の林床に春に咲く小型の山野草。茎の先に1〜2輪の白い6弁の小花を下向きに咲かせる、可愛らしい姿です。",
+      "habitat_hint": "雑木林の林床、神社の参道脇、半日陰の斜面、谷沿いの林、社寺林。",
+      "finding_tips": "4〜5月、林床で茎の先に下向きの白い小花を1〜2輪つける小型植物を探します。葉は楕円形で4〜7枚互生します。"
+    },
+    "en": {
+      "summary": "Smilax Fairybells. A small spring woodland herb. Each stem bears 1–2 small white six-petalled flowers nodding downward — endearingly delicate.",
+      "habitat_hint": "Forest understory, shrine paths, half-shaded slopes, valley woods, and shrine groves.",
+      "finding_tips": "From April to May look in forest understory for small plants with one or two nodding white flowers at the stem tip. 4–7 alternate oval leaves."
+    },
+    "zh": {
+      "summary": "宝铎草（『稚百合』），春季林床小型野花。茎顶下垂 1–2 朵白色六瓣小花，秀气可爱。",
+      "habitat_hint": "杂木林林床、神社参道旁、半阴斜坡、谷地林、神社树林。",
+      "finding_tips": "四至五月在林床找茎顶下垂 1–2 朵白色小花的小型植物。叶椭圆形互生 4–7 枚。"
+    }
+  },
+  "Lethe diana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロヒカゲ。茶褐色の翅に複数の目玉模様が並ぶ大型のジャノメチョウ。雑木林の薄暗い林床や林縁を低く飛びます。",
+      "habitat_hint": "雑木林の薄暗い林床、林縁、樹液場、社寺林、谷沿いの林。",
+      "finding_tips": "薄暗い林を低くゆっくり飛ぶ大型の茶色いチョウを探します。ヒカゲチョウと似ますが、本種はより暗色で目玉模様がより明瞭です。"
+    },
+    "en": {
+      "summary": "A larger relative of the Japanese Treebrown. Dark brown wings with prominent rows of eye-spots. Flies low through shaded woodland.",
+      "habitat_hint": "Shaded woodland understory, edges, sap flows, shrine groves, and valley woods.",
+      "finding_tips": "In dim woods watch for a large dark brown butterfly drifting low. The eye-spots are more prominent than the related Japanese Treebrown."
+    },
+    "zh": {
+      "summary": "黑黛眼蝶，大型眉眼蝶。深褐翅上眼斑明显。在阴林低空缓飞。",
+      "habitat_hint": "阴林床、林缘、树液处、神社林、谷地林。",
+      "finding_tips": "在阴林找大型深褐色蝶低飞。和日本黛眼蝶相似但更深色、眼斑更明显。"
+    }
+  },
+  "Weigela coraeensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハコネウツギ。初夏に咲く花が白から赤紫に色変わりする独特の落葉低木。一本の枝に白い花と赤紫の花が同時に見られる華やかさが魅力です。",
+      "habitat_hint": "雑木林の林縁、神社の境内、社寺林、河川敷の樹木、明るい斜面。",
+      "finding_tips": "5〜6月、白い花と赤紫色の花が同じ枝に混在する漏斗状の花を持つ低木を探します。色変化が独特で、知っていればすぐ識別できます。"
+    },
+    "en": {
+      "summary": "Hakone Weigela. A deciduous shrub whose early-summer flowers change colour from white to magenta — so a single branch can show both colours at once for a striking display.",
+      "habitat_hint": "Woodland edges, shrine grounds, shrine groves, riverside trees, and bright slopes.",
+      "finding_tips": "From May to June look for shrubs whose funnel-shaped flowers on the same branch are white and magenta together. The colour change is unmistakable."
+    },
+    "zh": {
+      "summary": "海仙花（『箱根空木』），落叶灌木。初夏花朵会由白转紫红，同一枝条上常见白与紫红花并存。",
+      "habitat_hint": "杂木林林缘、神社境内、神社树林、河岸树木、明亮斜坡。",
+      "finding_tips": "五至六月找同枝白与紫红花并存、漏斗状的灌木。色变独特，知道便易识。"
+    }
+  },
+  "Agrimonia pilosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キンミズヒキ。在来種のバラ科で、夏〜秋に黄色い小花が穂状に並ぶ姿が金色の水引に似て名付けられました。花後の実に鉤状のトゲがあり、衣服にくっつきます。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、河川敷、神社の境内、農地の縁。",
+      "finding_tips": "8〜10月、地面から立ち上がる細長い茎の先に黄色い小花が穂状に並ぶ植物を探します。後にできるトゲのある果実が衣服に付くひっつき虫です。"
+    },
+    "en": {
+      "summary": "Hairy Agrimony. A native Rosaceae perennial with summer-to-autumn spikes of small yellow flowers, likened to a golden 'mizuhiki' cord. Hooked seed fruits cling to clothing.",
+      "habitat_hint": "Woodland edges, bright slopes, riverbanks, shrine grounds, and field margins.",
+      "finding_tips": "From August to October look for plants with slender stems bearing spikes of small yellow flowers. The hook-armed seeds later catch on clothing — a 'hitchhiker'."
+    },
+    "zh": {
+      "summary": "龙牙草（金水引），本土蔷薇科。夏秋抽穗状黄色小花序，似金色水引绳。果具钩刺粘衣物。",
+      "habitat_hint": "林缘、明亮斜坡、河滩、神社境内、田边。",
+      "finding_tips": "八至十月寻找抽细茎、顶端排许多黄色小花穗的植物。后结具钩刺果，沾衣物。"
+    }
+  },
+  "Aciagrion migratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホソミイトトンボ。非常に細長い体を持つ小型のイトトンボ。雄は鮮やかな青色、雌は緑色で、湿地や池の周辺で見られます。成虫越冬する珍しいイトトンボ。",
+      "habitat_hint": "池、湿地、用水路、水田、河川の岸辺。",
+      "finding_tips": "細長い体に長い腹部が目印。雄は青、雌は緑色。成虫越冬するので、暖かい日には冬でも見られることがあります。"
+    },
+    "en": {
+      "summary": "A very slender damselfly. Males are bright blue, females green. Notable for overwintering as an adult — unusual among damselflies.",
+      "habitat_hint": "Ponds, wetlands, ditches, paddies, and riverbank vegetation.",
+      "finding_tips": "An exceptionally slender damselfly with a long abdomen. Males bright blue, females green. Sometimes seen on mild winter days as well as in summer."
+    },
+    "zh": {
+      "summary": "细蟌（迁徙细蟌），极细长的小型豆娘。雄虫亮蓝、雌虫绿色。以成虫越冬，在豆娘中较特殊。",
+      "habitat_hint": "池塘、湿地、灌渠、水田、河岸植被。",
+      "finding_tips": "极细长豆娘，腹部尤长。雄蓝雌绿。暖冬日有时也可见。"
+    }
+  },
+  "Carex doniana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シラスゲ。湿った林床に生える中型のスゲ類。細長い葉と春〜初夏に立ち上がる細い花穂が特徴で、群生して林床を覆います。",
+      "habitat_hint": "湿った林床、谷沿いの林、河川敷の湿地、神社の境内、半日陰の斜面。",
+      "finding_tips": "5〜6月、湿った林床で細長い葉と、細い茎の先に細長い花穂を持つ中型スゲを探します。"
+    },
+    "en": {
+      "summary": "A medium sedge of damp forest floor. Slender leaves and thin flowering spikes in late spring and early summer; often forms ground-covering colonies.",
+      "habitat_hint": "Damp forest floor, valley woods, riverside wetlands, shrine grounds, and shaded slopes.",
+      "finding_tips": "From May to June look on damp forest floor for medium sedges with slender flower spikes at the stem tips."
+    },
+    "zh": {
+      "summary": "白菅（Don 氏薹草），潮湿林床的中型薹草。叶细长，春末初夏抽细花穗。常成片覆地。",
+      "habitat_hint": "潮湿林床、谷地林、河滩湿地、神社境内、半阴斜坡。",
+      "finding_tips": "五至六月在潮湿林床找叶细长、茎顶抽细花穗的中型薹草。"
+    }
+  },
+  "Haematoloecha nigrorufa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカシマサシガメ。赤と黒の縦縞模様の中型サシガメ。湿った林床や草地で他の昆虫を狩る捕食性。**素手で触ると刺されることがある。**",
+      "habitat_hint": "雑木林の林床、湿った草地、河川敷、神社の境内、農地の縁。",
+      "finding_tips": "葉や草の上で赤と黒の縦縞模様の細長いサシガメを探します。**口吻で刺されると痛い。**"
+    },
+    "en": {
+      "summary": "A red-and-black striped medium assassin bug. Predatory on other insects in damp leaf litter and grassland. **Bite is painful.**",
+      "habitat_hint": "Forest understory, damp meadows, riverbanks, shrine grounds, and field margins.",
+      "finding_tips": "On grass and leaves look for a slender bug with bold red-and-black longitudinal stripes. **Observe rather than handle.**"
+    },
+    "zh": {
+      "summary": "赤条猎蝽，中型猎蝽，红黑纵纹。捕食性，喜潮湿林床与草地。**徒手碰会被刺。**"
+,      "habitat_hint": "杂木林林床、潮湿草地、河滩、神社境内、田边。",
+      "finding_tips": "在叶或草上找红黑纵纹的细长猎蝽。**勿徒手接触。**"
+    }
+  },
+  "Deielia phaon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コフキトンボ。雄の成熟個体は腹部に淡い水色〜白色の粉を吹いた色合いの中型トンボ。池や湿地で見られます。",
+      "habitat_hint": "池、湿地、ため池、開けた水辺、水田の周辺。",
+      "finding_tips": "夏、池の上を低く飛ぶ中型のトンボで、雄の腹部が淡い水色の粉を吹いたような色合いのものを探します。"
+    },
+    "en": {
+      "summary": "A medium dragonfly. Mature males have a pruinose powder-blue-to-white abdomen.",
+      "habitat_hint": "Ponds, wetlands, reservoirs, open waterside, and around rice paddies.",
+      "finding_tips": "In summer over ponds look for a medium dragonfly whose male shows a pale powder-blue abdomen."
+    },
+    "zh": {
+      "summary": "粉粧蜻蜓（Deielia phaon），中型蜻蜓。成熟雄虫腹部覆淡蓝白色粉霜。",
+      "habitat_hint": "池塘、湿地、蓄水池、开阔水边、水田周边。",
+      "finding_tips": "夏季池上找腹部覆淡蓝粉霜的中型蜻蜓。"
+    }
   }
 }
