@@ -13302,5 +13302,185 @@
       "habitat_hint": "潮湿林床、谷地林、溪边、神社林、湿润斜坡。",
       "finding_tips": "全年在潮湿林床寻找基部具一对延长侧羽片、中轴延长成 T 字或 Y 字形的蕨。"
     }
+  },
+  "Schoenoplectiella juncoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌホタルイ。水田や湿地に生える一年生のカヤツリグサ科。茎の途中側面に小穂をつけ、先端は針状に延びるのが特徴。",
+      "habitat_hint": "水田、湿地、用水路、休耕田、ため池の縁。",
+      "finding_tips": "7〜10月、水田や湿地で円柱形の茎の側面（先端ではない）に小穂を付ける一年生草本を探します。先端は針状。"
+    },
+    "en": {
+      "summary": "Rock Bulrush. An annual sedge of paddies and wetlands. Diagnostic feature: spikelets emerge from the side of the cylindrical stem (not the tip), with the stem continuing as a needle-like point.",
+      "habitat_hint": "Rice paddies, wetlands, irrigation ditches, fallow fields, and pond edges.",
+      "finding_tips": "From July to October look in paddies and wetlands for annual plants with spikelets on the side of cylindrical stems and needle-like stem tips."
+    },
+    "zh": {
+      "summary": "萤蔺。水田与湿地中的一年生莎草科。小穗着生于圆柱形茎的侧面（非顶端），茎尖延伸成针状。",
+      "habitat_hint": "水田、湿地、灌溉沟、休耕田、池塘边。",
+      "finding_tips": "七至十月在水田与湿地寻找小穗侧生于圆柱形茎、茎尖针状的一年生草本。"
+    }
+  },
+  "Metathelypteris laxa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハシゴシダ。湿った林床に生える中型の落葉シダ。葉柄基部に淡色の鱗片があり、和名は葉のつき方が梯子状に見えることから。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、林縁の半日陰、神社林。",
+      "finding_tips": "5〜10月（落葉性）、湿った林床で羽片が等間隔に並んで「梯子」状に見える中型シダを探します。葉柄基部の淡色鱗片が手がかりです。"
+    },
+    "en": {
+      "summary": "Loose Maiden Fern. A medium deciduous fern of damp forest floors. Pale scales at the stipe base; the Japanese name 'ladder fern' refers to the evenly-spaced pinnae.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, partly shaded forest edges, and shrine groves.",
+      "finding_tips": "From May to October (deciduous), look on damp forest floors for medium ferns with evenly-spaced pinnae giving a ladder-like appearance. Pale stipe-base scales are a clue."
+    },
+    "zh": {
+      "summary": "疏羽凸轴蕨。潮湿林床中型落叶蕨。叶柄基部具淡色鳞片，日文俗名『梯子蕨』源于羽片等距排列形似梯子。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、半阴林缘、神社林。",
+      "finding_tips": "五至十月（落叶）在潮湿林床寻找羽片等距、形似梯子的中型蕨。叶柄基部淡色鳞片可助识别。"
+    }
+  },
+  "Torilis japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブジラミ。藪や林縁に生える二年草のセリ科。果実に小さな鉤状の刺があり、衣服や動物の毛にくっつきます。",
+      "habitat_hint": "藪、林縁、道端、河川敷、空き地、農地の縁。",
+      "finding_tips": "5〜7月、藪や林縁で小さな白い花を散形にまとめ、果実が衣服にくっつくセリ科を探します。葉は2〜3回羽状複葉。"
+    },
+    "en": {
+      "summary": "Japanese Hedge Parsley. A biennial umbellifer of thickets and forest edges. Tiny hooked spines on the fruit catch on clothes and animal fur.",
+      "habitat_hint": "Thickets, forest edges, roadsides, riverbanks, vacant lots, and farmland margins.",
+      "finding_tips": "From May to July look for umbellifers with small white umbels in thickets and forest edges, with fruits that stick to clothes. Bipinnate to tripinnate leaves."
+    },
+    "zh": {
+      "summary": "窃衣。灌丛与林缘的二年生伞形科。果实具微小钩刺，可粘附衣物与动物毛皮。",
+      "habitat_hint": "灌丛、林缘、路边、河滩、空地、农田边缘。",
+      "finding_tips": "五至七月在灌丛与林缘寻找具白色小伞形花序、果实粘衣的伞形科。叶二至三回羽状复叶。"
+    }
+  },
+  "Cardamine hirsuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミチタネツケバナ。冬から春に道端や畑、庭に普通な小型一年草のアブラナ科。タネツケバナの近縁で、より早く開花します。",
+      "habitat_hint": "道端、畑、庭、芝地、空き地、公園の縁。",
+      "finding_tips": "2〜5月、ロゼット状の葉と細長い果実（角果）が立ち上がる小型アブラナ科を探します。白い小さな十字花が特徴。"
+    },
+    "en": {
+      "summary": "Hairy Bittercress. A small annual cress, abundant winter to spring on roadsides, fields, and gardens. Closely related to wavy bittercress but flowers earlier.",
+      "habitat_hint": "Roadsides, fields, gardens, lawns, vacant lots, and park margins.",
+      "finding_tips": "From February to May look for small crucifers with a basal rosette and erect slender pods (siliques). Tiny white 4-petalled flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "弯曲碎米荠（路碎米荠）。冬至春在路边、菜地、庭院极常见的小型一年生十字花科。与碎米荠近缘但更早开花。",
+      "habitat_hint": "路边、菜地、庭院、草坪、空地、公园边缘。",
+      "finding_tips": "二至五月寻找基生莲座叶、果实细长直立的小型十字花科。白色细小四瓣花是关键特征。"
+    }
+  },
+  "Potentilla freyniana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツバツチグリ。早春に黄色い5弁花を咲かせる多年草。葉が3枚で、地下に塊根を持ちます。明るい林床や芝地に生えます。",
+      "habitat_hint": "明るい林床、林縁、草地、芝地、土手、河川敷の草地。",
+      "finding_tips": "4〜6月、明るい林床や草地で3枚葉と直径1.5cmほどの黄色い5弁花を持つ低い草本を探します。蛇苺と似ていますが果実は赤くなりません。"
+    },
+    "en": {
+      "summary": "Freyn's Cinquefoil. A perennial herb with yellow 5-petalled flowers in early spring. Trifoliate leaves and underground tubers. Bright forest floors and grasslands.",
+      "habitat_hint": "Bright forest floors, forest edges, grasslands, lawns, banks, and riverside meadows.",
+      "finding_tips": "From April to June look in bright forest floors and grasslands for low herbs with three leaflets and yellow ~1.5 cm 5-petalled flowers. Similar to mock strawberry but fruit not red."
+    },
+    "zh": {
+      "summary": "三叶委陵菜。早春开黄色五瓣花的多年草。三出复叶，地下具块根。生于明亮林床与草地。",
+      "habitat_hint": "明亮林床、林缘、草地、草坪、堤岸、河滩草地。",
+      "finding_tips": "四至六月在明亮林床与草地寻找具三出叶、约 1.5 厘米黄色五瓣花的低矮草本。形似蛇莓但果实不变红。"
+    }
+  },
+  "Carex maximowiczii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゴウソ。湿地や水田の畦に生える多年生のスゲ。垂れ下がる長い果穂が特徴で、雌穂は緑色〜黄褐色になります。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "5〜7月、湿地や水田畦で長く垂れ下がる果穂を持つ大型スゲを探します。アゼナルコより穂が大きく重たそうに垂れます。"
+    },
+    "en": {
+      "summary": "Maximowicz's Sedge. A perennial sedge of wetlands and paddy bunds. Long pendulous fruiting spikes; female spikes green to yellow-brown.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From May to July look in wetlands and paddy bunds for large sedges with long heavy-looking pendulous fruiting spikes. Spikes are larger than those of Carex dimorpholepis."
+    },
+    "zh": {
+      "summary": "马氏苔草。湿地与水田田埂的多年生莎草。果穗长而下垂，雌穗绿至黄褐色。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "五至七月在湿地与田埂寻找具沉重下垂果穗的大型莎草。穗比二形鳞苔草更大更重。"
+    }
+  },
+  "Macrothelypteris oligophlebia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハリガネワラビ。湿った林床や林縁に生える大型のシダ。葉柄が針金状に細く硬いことが和名の由来。",
+      "habitat_hint": "湿った林床、林縁、谷地林、河畔林、半日陰の道端。",
+      "finding_tips": "5〜10月、湿った林床や林縁で大型の2回羽状シダを探します。葉柄が黒褐色で針金状に硬いのが目印。"
+    },
+    "en": {
+      "summary": "Wire-stipe Maiden Fern. A large fern of damp forest floors and edges. The Japanese name 'wire fern' refers to the thin, stiff, wire-like stipe.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, riparian woods, and shaded roadsides.",
+      "finding_tips": "From May to October look on damp forest floors and edges for large bipinnate ferns with thin, stiff, dark-brown wire-like stipes."
+    },
+    "zh": {
+      "summary": "疏脉凸轴蕨。潮湿林床与林缘的大型蕨。日文俗名『铁丝蕨』指叶柄细硬如铁丝。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、半阴路边。",
+      "finding_tips": "五至十月在潮湿林床与林缘寻找叶柄黑褐色、细硬如铁丝的大型二回羽状蕨。"
+    }
+  },
+  "Polystichum polyblepharon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イノデ。常緑の大型シダで、葉柄に光沢のある黄褐色の鱗片が密生します。林床に大株を作ります。",
+      "habitat_hint": "湿った林床、谷地林、神社林、林縁の半日陰、河畔林。",
+      "finding_tips": "通年、湿った林床で葉柄に光沢のある密な鱗片を持つ大型常緑シダを探します。葉は硬く光沢があります。"
+    },
+    "en": {
+      "summary": "Inode. A large evergreen fern with dense glossy yellow-brown scales on the stipe. Forms large clumps on forest floors.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, partly shaded forest edges, and riparian woods.",
+      "finding_tips": "Year-round, look on damp forest floors for large evergreen ferns with stipes densely covered in glossy yellow-brown scales. Fronds stiff and glossy."
+    },
+    "zh": {
+      "summary": "棕鳞耳蕨。常绿大型蕨，叶柄密生光泽黄褐色鳞片。林下成大丛。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、半阴林缘、河岸林。",
+      "finding_tips": "全年在潮湿林床寻找叶柄密被光泽黄褐色鳞片的大型常绿蕨。叶硬而具光泽。"
+    }
+  },
+  "Asarum tamaense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマノカンアオイ。東京西部〜神奈川北部の限られた地域に分布する固有種のカンアオイ。多摩丘陵の名を冠した貴重種。",
+      "habitat_hint": "雑木林の林床（東京西部〜神奈川北部の丘陵地）、神社林、谷地林。",
+      "finding_tips": "3〜5月、東京西部や神奈川北部の雑木林の林床で、葉の根元の地表近くに紫褐色の壺状の花をつけるカンアオイを探します。"
+    },
+    "en": {
+      "summary": "Tama Wild Ginger. An endemic wild ginger restricted to western Tokyo and northern Kanagawa. Named after the Tama Hills, a precious local endemic.",
+      "habitat_hint": "Secondary woodland floors in the Tama Hills (western Tokyo / northern Kanagawa), shrine groves, and valley woods.",
+      "finding_tips": "From March to May in western Tokyo and northern Kanagawa woodlands, look at the base of leaves near the ground for purplish-brown pot-shaped wild ginger flowers."
+    },
+    "zh": {
+      "summary": "多摩寒葵。仅分布于东京西部至神奈川北部丘陵的固有种细辛。以多摩丘陵命名的珍稀种。",
+      "habitat_hint": "东京西部至神奈川北部丘陵杂木林林床、神社林、谷地林。",
+      "finding_tips": "三至五月在东京西部与神奈川北部杂木林林床，于叶基近地面处寻找紫褐色壶形花的细辛。"
+    }
+  },
+  "Lycoris sanguinea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キツネノカミソリ。盛夏に橙赤色の百合状の花を咲かせるヒガンバナ科。葉は早春に出て初夏に枯れ、花期には葉がありません。",
+      "habitat_hint": "雑木林の林床、林縁、明るい半日陰、神社林、丘陵地の斜面。",
+      "finding_tips": "7〜8月、雑木林の林床で葉のない花茎に橙赤色のユリ状の花をつけるヒガンバナの仲間を探します。群生することがあります。"
+    },
+    "en": {
+      "summary": "Orange Surprise Lily. A summer-flowering lily-family relative producing orange-red lily-like flowers in midsummer. Leaves appear in early spring and wither before flowering, so flowering stems are leafless.",
+      "habitat_hint": "Secondary woodland floors, forest edges, bright shade, shrine groves, and hillside slopes.",
+      "finding_tips": "From July to August look in secondary woodland floors for leafless flower stems bearing orange-red lily-like flowers. Often colonial."
+    },
+    "zh": {
+      "summary": "鹿葱（红橙石蒜）。盛夏开橙红色百合形花的石蒜科。叶早春萌发，初夏枯萎；开花时无叶。",
+      "habitat_hint": "杂木林林床、林缘、明亮半阴、神社林、丘陵斜坡。",
+      "finding_tips": "七至八月在杂木林林床寻找无叶花茎、顶生橙红色百合形花的石蒜近亲。常成片。"
+    }
   }
 }
