@@ -12600,5 +12600,167 @@
       "habitat_hint": "草坪、路边、河滩、田边、空地。",
       "finding_tips": "九至十一月寻找比升马唐更小、更纤细的禾本科。秋季出现，日文俗名因此带『秋』。"
     }
+  },
+  "Thinornis dubius": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コチドリ。日本最小級のチドリ。目の黄色いアイリングと黒い首輪が特徴で、川原や干潟、造成地などの裸地で繁殖します。",
+      "habitat_hint": "河川敷の砂礫地、干潟、造成地、池沼の縁、グラウンドの裸地。",
+      "finding_tips": "3〜10月、河川敷や裸地で「ピョ、ピョ」と鳴きながら走る小型チドリ。黄色いアイリングと黒い首輪で判別できます。"
+    },
+    "en": {
+      "summary": "Little Ringed Plover. Japan's smallest plover. Distinctive yellow eye-ring and black neck band; breeds on bare ground including riverbeds, mudflats, and construction sites.",
+      "habitat_hint": "Riverbed gravel, mudflats, construction sites, pond edges, and bare ground on athletic fields.",
+      "finding_tips": "From March to October look for small plovers running on riverbeds and bare ground with a 'pyo, pyo' call. The yellow eye-ring and black neck band are diagnostic."
+    },
+    "zh": {
+      "summary": "金眶鸻。日本最小级的鸻类。眼周明显金黄色眼圈与黑色颈环，常在河滩、滩涂、裸地繁殖。",
+      "habitat_hint": "河滩砂砾地、滩涂、工地裸地、池沼边、操场裸地。",
+      "finding_tips": "三至十月在河滩与裸地寻找边跑边鸣『piyo, piyo』的小型鸻。金黄色眼圈与黑颈环是关键特征。"
+    }
+  },
+  "Carduelis sinica minor": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワラヒワ。スズメ大の小型フィンチで、翼の黄色斑が飛翔時によく目立ちます。「キリキリコロロ」と鳴き、種子を食べます。",
+      "habitat_hint": "農耕地、河川敷、公園、住宅地、林縁。",
+      "finding_tips": "一年中、群れで樹上や地上で種子を食べる姿を探します。飛翔時の鮮やかな黄色い翼斑が決め手です。"
+    },
+    "en": {
+      "summary": "Oriental Greenfinch (Japanese subspecies). Sparrow-sized finch with conspicuous yellow wing patches in flight. Calls 'kiri-kiri-koro-ro'; feeds on seeds.",
+      "habitat_hint": "Farmland, riverbanks, parks, residential areas, and forest edges.",
+      "finding_tips": "Year-round, look for flocks feeding on seeds in trees or on the ground. The bright yellow wing patch in flight is the key field mark."
+    },
+    "zh": {
+      "summary": "金翅雀（日本亚种）。麻雀大小的小型雀类，飞翔时翼上鲜明的黄色翼斑显眼。叫声『kiri-kiri-koro-ro』，以种子为食。",
+      "habitat_hint": "农田、河滩、公园、住宅区、林缘。",
+      "finding_tips": "全年成群在树上与地面取食种子。飞翔时鲜艳黄色翼斑是关键识别特征。"
+    }
+  },
+  "Campsomeris annulata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメハラナガツチバチ。中型の土蜂で、コガネムシ類の幼虫に寄生します。黒地に黄色帯のある腹部が特徴。",
+      "habitat_hint": "草地、公園、農地、河川敷、林縁の花。",
+      "finding_tips": "8〜10月、ヒガンバナやセイタカアワダチソウなどの花で吸蜜する黒黄縞の土蜂を探します。地面近くを低く飛びます。"
+    },
+    "en": {
+      "summary": "A medium scoliid wasp parasitizing scarab beetle larvae. Black with yellow bands on the abdomen.",
+      "habitat_hint": "Grasslands, parks, farmland, riverbanks, and flowering plants at forest edges.",
+      "finding_tips": "From August to October look for black-and-yellow banded scoliid wasps nectaring on red spider lily and goldenrod. Fly low near the ground searching for grubs."
+    },
+    "zh": {
+      "summary": "环带土蜂。中型土蜂，寄生于金龟子幼虫。腹部黑底带黄色横带。",
+      "habitat_hint": "草地、公园、农田、河滩、林缘花丛。",
+      "finding_tips": "八至十月在彼岸花、加拿大一枝黄花等花上寻找腹部黑黄带的土蜂。常低空飞行搜寻寄主幼虫。"
+    }
+  },
+  "Anas platyrhynchos × zonorhyncha": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マルガモ。マガモとカルガモの雑種で、両親種の中間的な特徴を持ちます。都市近郊の水辺で増加傾向にあります。",
+      "habitat_hint": "公園の池、河川、湖沼、用水路など、両親種が同所に生息する水辺。",
+      "finding_tips": "一年中、マガモやカルガモの群れの中で「中間的」な個体を探します。嘴の色や頭部の緑色光沢の程度がヒントです。"
+    },
+    "en": {
+      "summary": "Hybrid between Mallard and Eastern Spot-billed Duck, showing intermediate features. Increasing around urban waterways.",
+      "habitat_hint": "Park ponds, rivers, lakes, and irrigation channels where both parent species co-occur.",
+      "finding_tips": "Year-round, look for 'intermediate' individuals among Mallard and Spot-billed Duck flocks. Bill colour and the extent of green head sheen are useful clues."
+    },
+    "zh": {
+      "summary": "绿头鸭与斑嘴鸭杂交个体，介于两种亲本之间。城市近郊水域逐渐增多。",
+      "habitat_hint": "公园池塘、河流、湖沼、灌溉水道等两种亲本共域水域。",
+      "finding_tips": "全年在绿头鸭与斑嘴鸭群中寻找『中间型』个体。喙色与头部绿色金属光泽程度是关键线索。"
+    }
+  },
+  "Leptogramma mollissima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミゾシダ。湿った林床に群生する中型のシダ。柔らかい質感の単羽状の葉を持ち、葉柄基部に細かい毛があります。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、湿った斜面、神社林。",
+      "finding_tips": "通年、湿った林床や沢沿いで群生する柔らかい羽状の単羽状シダを探します。葉裏に細毛があり手触りで判別できます。"
+    },
+    "en": {
+      "summary": "Soft Maiden Fern. Medium fern of damp forest floors forming colonies. Soft, simply pinnate fronds with fine hairs near the stipe base.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, moist slopes, and shrine groves.",
+      "finding_tips": "Year-round, look for colonies of soft simply pinnate ferns on damp forest floors and stream banks. Fine hairs on the underside help confirm by feel."
+    },
+    "zh": {
+      "summary": "柔软金星蕨。林下潮湿处成群生长的中型蕨类。一回羽状叶质柔软，叶柄基部具细毛。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、湿润斜坡、神社林。",
+      "finding_tips": "全年在潮湿林床与溪边寻找成片的柔软一回羽状蕨。叶背具细毛，触感可辅助识别。"
+    }
+  },
+  "Muscicapa latirostris": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コサメビタキ。スズメより小さい灰褐色の小型ヒタキ。目の白いアイリングと短い嘴が特徴。夏鳥として繁殖、または通過します。",
+      "habitat_hint": "落葉広葉樹林、河畔林、公園の樹冠、林縁。",
+      "finding_tips": "5〜10月、樹冠で「フライキャッチ」（飛び立ち→空中で虫を捕えて戻る）する姿を探します。白いアイリングが目印。"
+    },
+    "en": {
+      "summary": "Asian Brown Flycatcher. Small grey-brown flycatcher smaller than sparrow. Distinctive white eye-ring and short bill. Summer visitor or passage migrant.",
+      "habitat_hint": "Deciduous broadleaf forests, riparian woods, park canopies, and forest edges.",
+      "finding_tips": "From May to October look for individuals 'fly-catching' (sallying from a perch to catch insects in air and returning) in the canopy. The white eye-ring is the key mark."
+    },
+    "zh": {
+      "summary": "北灰鹟。比麻雀略小的灰褐色小型鹟。眼圈白色显眼，喙短。日本为夏候鸟或过境鸟。",
+      "habitat_hint": "落叶阔叶林、河岸林、公园树冠、林缘。",
+      "finding_tips": "五至十月在树冠寻找『飞捕』（从栖位起飞捕虫后回到原位）的小鸟。白眼圈是关键识别特征。"
+    }
+  },
+  "Protaetia pryeri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リュウキュウツヤハナムグリ。本来は南西諸島の種ですが、本州以南でも増えています。緑〜銅色の金属光沢を持つ中型ハナムグリ。",
+      "habitat_hint": "雑木林、樹液の出る樹、公園、果樹園、花。",
+      "finding_tips": "6〜9月、クヌギなどの樹液や花で見つかる金属光沢のあるハナムグリを探します。本来は南方系の種です。"
+    },
+    "en": {
+      "summary": "A medium flower chafer originally from the Ryukyu Islands, now increasing on the main islands. Green to coppery metallic sheen.",
+      "habitat_hint": "Secondary woodlands, sap-flowing trees, parks, orchards, and flowers.",
+      "finding_tips": "From June to September look for metallic-sheen chafers on oak sap flows and flowers. Originally a southern species expanding north."
+    },
+    "zh": {
+      "summary": "琉球艳花金龟。原产琉球群岛，现在本州以南也在增加。中型花金龟，具绿至铜色金属光泽。",
+      "habitat_hint": "杂木林、出树液的树木、公园、果园、花丛。",
+      "finding_tips": "六至九月在麻栎树液与花上寻找具金属光泽的花金龟。原为南方种，分布正在北扩。"
+    }
+  },
+  "Oxyopes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササグモ属。緑〜黄褐色の中型徘徊性クモ。長い棘のある脚で、葉や草上で待ち伏せして昆虫を捕えます。網は張りません。",
+      "habitat_hint": "草地、藪、公園の植え込み、農地、林縁の低木。",
+      "finding_tips": "4〜10月、葉上や草上で脚を広げて待つ緑〜黄褐色のクモを探します。脚に長い棘があるのが特徴。網を張らない徘徊性。"
+    },
+    "en": {
+      "summary": "Lynx Spiders. Medium wandering spiders, green to yellow-brown. Ambush insects from leaves and grass with long spiny legs. No webs.",
+      "habitat_hint": "Grasslands, thickets, park plantings, farmland, and shrubs at forest edges.",
+      "finding_tips": "From April to October look for green to yellow-brown spiders waiting with legs spread on leaves and grass. The long spines on the legs are diagnostic. Wanderers — no webs."
+    },
+    "zh": {
+      "summary": "猫蛛属。绿至黄褐色中型游猎性蜘蛛。腿上具长刺，伏在叶面或草上伏击昆虫。不结网。",
+      "habitat_hint": "草地、灌丛、公园灌木、农田、林缘灌木。",
+      "finding_tips": "四至十月在叶面与草上寻找张腿伏伺的绿黄色蜘蛛。腿上长刺是关键特征。游猎性，不结网。"
+    }
+  },
+  "Panicum bisulcatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヌカキビ。湿地〜半湿地の縁に生える一年生イネ科。細かい糠のような小穂を多数つけることから命名。",
+      "habitat_hint": "湿地の縁、水田畦、河川敷、休耕田、用水路の縁。",
+      "finding_tips": "8〜11月、湿地縁などで糠のような細かい小穂を多数つけた一年生イネ科を探します。「キビ」の仲間です。"
+    },
+    "en": {
+      "summary": "An annual panic grass of wetland edges. The Japanese name means 'bran panic grass' from the fine bran-like spikelets.",
+      "habitat_hint": "Wetland edges, rice paddy bunds, riverbanks, fallow fields, and irrigation ditch edges.",
+      "finding_tips": "From August to November look for annual panic grasses with abundant fine bran-like spikelets near wetlands. A relative of cultivated panic millet."
+    },
+    "zh": {
+      "summary": "糠稷。一年生禾本科，生于湿地边缘。小穗如细糠多数密集，因此得名。",
+      "habitat_hint": "湿地边缘、水田田埂、河滩、休耕地、灌溉沟边。",
+      "finding_tips": "八至十一月在湿地边缘寻找一年生、小穗如细糠的稷属禾本科。属于黍属的近亲。"
+    }
   }
 }
