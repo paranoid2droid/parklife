@@ -11304,5 +11304,167 @@
       "habitat_hint": "潮湿草地、河滩、农田、田埂、明亮林缘。",
       "finding_tips": "在草叶上找褐底带细黑斑的细长缘蝽，体长约 10 mm。"
     }
+  },
+  "Hedera rhombea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キヅタ。常緑のつる性植物で、木の幹や石垣を覆うように這い上がります。日本固有種で、秋に小さな黄緑色の花、冬〜春に黒い実をつけます。",
+      "habitat_hint": "雑木林、神社の境内、社寺林、石垣、樹幹、住宅地のフェンス。",
+      "finding_tips": "光沢のある革質の常緑葉が、木の幹や塀を覆うように這い上がっているつる植物を探します。葉の形は若い枝では3〜5裂、成長すると菱形（キヅタの名前の由来）に変化します。"
+    },
+    "en": {
+      "summary": "Japanese Ivy, an endemic evergreen climber that smothers tree trunks and stone walls. Small greenish flowers in autumn; black berries through winter and spring.",
+      "habitat_hint": "Mixed woodland, shrine grounds, shrine groves, stone walls, tree trunks, and residential fences.",
+      "finding_tips": "Look for evergreen leathery glossy leaves climbing trunks and walls. Juvenile leaves are 3–5-lobed; adults become rhomboid — hence the Japanese name 'ki-zuta' (tree-ivy)."
+    },
+    "zh": {
+      "summary": "常春藤（日本特有种），常绿藤本。攀缘树干和石墙。秋开黄绿小花，冬春结黑色果。",
+      "habitat_hint": "杂木林、神社境内、神社树林、石墙、树干、住宅围栏。",
+      "finding_tips": "找叶革质有光泽、攀附树干与墙面的常绿藤本。幼枝叶 3–5 裂，成枝叶菱形（日文俗名『木常春藤』由此）。"
+    }
+  },
+  "Akebia trifoliata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツバアケビ。アケビと近縁ですが、3枚の小葉を持つ落葉つる植物。春に淡紫色の花を咲かせ、秋に紫色の実が裂けて白い甘い果肉を見せます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、住宅地のフェンス、明るい斜面。",
+      "finding_tips": "3枚の小葉が掌状につくつる植物を探します。アケビ（5枚の小葉）と比べて葉数で識別できます。秋の紫色の実は同じく食用です。"
+    },
+    "en": {
+      "summary": "Three-Leaf Akebi. Similar to Akebia quinata but with three leaflets instead of five. Pale purple spring flowers; autumn purple fruits split open to expose sweet white pulp.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, residential fences, and bright slopes.",
+      "finding_tips": "Look for vines with palmate three-leaflet leaves. Counts of leaflets separates it from the five-leaflet Akebia quinata."
+    },
+    "zh": {
+      "summary": "三叶木通，与木通近缘但具 3 小叶。春开淡紫花，秋季紫色果开裂露白甜瓤。",
+      "habitat_hint": "杂木林林缘、河滩灌丛、神社境内、住宅围栏、明亮斜坡。",
+      "finding_tips": "找掌状 3 小叶的藤本。叶数（3）与木通（5）有别。秋季紫色果可食。"
+    }
+  },
+  "Scutellaria indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タツナミソウ。在来種のシソ科で、春に紫色の唇形花が同じ方向を向いて並ぶ独特の姿。「立浪（たつなみ）」のように見えることが名前の由来です。",
+      "habitat_hint": "雑木林の林床、神社の境内、明るい斜面、半日陰の庭園、谷沿いの林。",
+      "finding_tips": "4〜6月、紫色の唇形花が同じ方向を向いて並ぶ穂を持つ小型植物を探します。葉は対生する卵形で、茎は四角形（シソ科）。"
+    },
+    "en": {
+      "summary": "Indian Skullcap, a native mint. Spring spikes of violet lipped flowers all face the same direction — like a row of cresting waves, the source of the Japanese name 'tatsunami-sou'.",
+      "habitat_hint": "Forest understory, shrine grounds, bright slopes, half-shaded gardens, and valley woods.",
+      "finding_tips": "From April to June look for small plants with violet lipped flowers in one-sided spikes. Opposite oval leaves and square stems confirm the mint family."
+    },
+    "zh": {
+      "summary": "韩信草（『立浪草』），本土唇形科。春季紫色唇形花在穗上同向排列，如波涛起伏，日文俗名因此。",
+      "habitat_hint": "杂木林林床、神社境内、明亮斜坡、半阴庭园、谷地林。",
+      "finding_tips": "四至五月寻找紫色唇形花同向排列成穗的小型植物。叶对生卵形，茎四棱。"
+    }
+  },
+  "Rubus parvifolius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナワシロイチゴ。地面を這うように広がる在来種の木イチゴ。初夏に淡桃色の花、その後に赤い甘い実をつけ、田植えの時期（苗代）にちなんで名前がついています。",
+      "habitat_hint": "河川敷、農地の縁、明るい斜面、休耕田、神社の境内。",
+      "finding_tips": "5〜6月、淡桃色の5弁花と、地面を這うつる状の植物を探します。後にできる赤い小さな集合果は甘く食用に。**茎にトゲがある。**"
+    },
+    "en": {
+      "summary": "Pink Raspberry. A creeping native bramble. Pale pink flowers in early summer followed by sweet red aggregate fruits. The Japanese name 'nawashiro-ichigo' (paddy-nursery berry) refers to ripening timing with rice planting.",
+      "habitat_hint": "Riverbanks, field margins, bright slopes, fallow fields, and shrine grounds.",
+      "finding_tips": "From May to June look for creeping plants with pale-pink five-petalled flowers; sweet red aggregate berries follow. **Stems are thorny.**"
+    },
+    "zh": {
+      "summary": "茅莓，匍匐型本土悬钩子。初夏开淡粉色花，结红色甜美聚合果。日文俗名意为『苗代莓』，与水稻苗插秧时令相关。",
+      "habitat_hint": "河滩、田边、明亮斜坡、休耕田、神社境内。",
+      "finding_tips": "五至六月找贴地匍匐、淡粉色五瓣花的植物。后结红色甜美聚合果。**茎具刺。**"
+    }
+  },
+  "Ampelopsis glandulosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノブドウ。秋に紫・青・水色など様々な色の小さな球状の実をつける独特のつる植物。実は虫こぶになることが多く、色彩のグラデーションが美しいです。**実は食用ではありません。**",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、空き地、明るい斜面。",
+      "finding_tips": "10〜11月、紫・青・水色のグラデーションの球状の小さな実が並ぶつる植物を探します。**虫こぶ化して色がカラフルになりますが食用ではありません。**"
+    },
+    "en": {
+      "summary": "Porcelain Berry, a vine famous for autumn fruits in shades of violet, blue, and turquoise — a stunning pastel display, often caused by gall-insect activity. **Not edible.**",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, vacant lots, and bright slopes.",
+      "finding_tips": "From October to November look for vines with small round berries in a beautiful pastel gradient. **Berries are not edible; the colour variation is often induced by insect galls.**"
+    },
+    "zh": {
+      "summary": "蛇葡萄（『野葡萄』），秋季结紫、蓝、青等多色小球果的藤本。色彩美丽但**不可食用**，颜色变化多因虫瘿引起。",
+      "habitat_hint": "杂木林林缘、河滩灌丛、住宅围栏、空地、明亮斜坡。",
+      "finding_tips": "十至十一月找小球果呈紫、蓝、青等渐变色的藤本。**美而不可食，颜色多因虫瘿。**"
+    }
+  },
+  "Arundinella hirta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トダシバ。河川敷や明るい斜面に生える在来種の大型イネ科。秋に細長い穂が立ち、葉や茎に毛があります。",
+      "habitat_hint": "河川敷、空き地、農地の縁、明るい斜面、土手。",
+      "finding_tips": "8〜10月、人の腰高ほどに育つ大型のイネ科で、葉や茎に毛があるものを探します。秋の穂は細長く、群生します。"
+    },
+    "en": {
+      "summary": "A native large grass of riverbanks and bright slopes. Slender autumn flower spikes; stems and leaves are hairy.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, bright slopes, and levees.",
+      "finding_tips": "From August to October look for waist-high grasses with hairy stems and leaves and slender autumn spikes."
+    },
+    "zh": {
+      "summary": "石芒草（『戸田芝』），本土大型禾本科。生于河滩与明亮斜坡，茎叶具毛，秋季抽细长花穗。",
+      "habitat_hint": "河滩、空地、田边、明亮斜坡、堤岸。",
+      "finding_tips": "八至十月找腰高、茎叶具毛、秋季抽细长穗的禾本科。"
+    }
+  },
+  "Ixeris stolonifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジシバリ。地面を這うつる状の茎を伸ばす小型のキク科。春に黄色いタンポポに似た頭花を咲かせ、芝生のように地面を覆います。",
+      "habitat_hint": "芝生、河川敷、農地の縁、湿った草地、半日陰の地面。",
+      "finding_tips": "4〜6月、地面を這う細い茎と、黄色いタンポポ状の小型頭花を持つ植物を探します。葉は楕円形でロゼットを作ります。"
+    },
+    "en": {
+      "summary": "Creeping Bonnet. A small composite that creeps along the ground via runners. Yellow dandelion-like small heads in spring; carpets the ground.",
+      "habitat_hint": "Lawns, riverbanks, field margins, damp meadows, and half-shaded ground.",
+      "finding_tips": "From April to June look for low plants with creeping stems and small yellow dandelion-like heads. Oval leaves in rosettes."
+    },
+    "zh": {
+      "summary": "剪刀股，匍匐小型菊科。春季开类蒲公英黄色头花，匍匐覆地。",
+      "habitat_hint": "草坪、河滩、田边、潮湿草地、半阴地面。",
+      "finding_tips": "四至六月找匍匐茎、开类蒲公英黄色小头花的植物。叶椭圆形莲座。"
+    }
+  },
+  "Cyperus brevifolioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカヒメクグ。北米原産の外来種の小型カヤツリグサで、芝生や農地で広がります。茎の頂部に球状の小穂を集めます。",
+      "habitat_hint": "芝生、農地、河川敷、湿った草地、舗装の隙間。",
+      "finding_tips": "8〜10月、芝生や畦で茎の頂部に小型の球状の小穂を集めるカヤツリグサを探します。ヒメクグと似ますが、外来種で増殖力が強いです。"
+    },
+    "en": {
+      "summary": "American Globe Sedge, a small North-American introduced sedge spreading through lawns and farmland. Globular spikelets at the stem tip.",
+      "habitat_hint": "Lawns, farmland, riverbanks, damp meadows, and pavement cracks.",
+      "finding_tips": "From August to October look on lawns and paddy edges for small sedges with globular spikelet clusters. Similar to Green Kyllinga but more aggressive."
+    },
+    "zh": {
+      "summary": "美洲水蜈蚣（外来），小型莎草。在草坪与农田扩散。茎顶集球状小穗。",
+      "habitat_hint": "草坪、农田、河滩、潮湿草地、铺装缝。",
+      "finding_tips": "八至十月在草坪与田埂找茎顶集球状小穗的小型莎草。与短叶水蜈蚣相似但本种为外来更具扩张力。"
+    }
+  },
+  "Dryopteris hondoensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオベニシダ。雑木林の林床に生える中型〜大型のシダ。葉軸に毛のような鱗片が密集し、葉は二回羽状でしっかりとした質感です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "中型〜大型の二回羽状の常緑〜半常緑シダで、葉軸が暗褐色を帯びるものを探します。林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A medium-to-large wood fern of mixed forest understory. Bipinnate fronds with dark-rachis; firm-textured leaves form colonies on damp ground.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium-to-large bipinnate semi-evergreen fern with dark rachis. Often forms ground-covering colonies."
+    },
+    "zh": {
+      "summary": "本州鳞毛蕨（大红蕨），杂木林林床中至大型蕨。叶轴深褐色，二回羽状叶质坚韧。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶轴深褐色、二回羽状的中至大型半常绿蕨。常成片覆地。"
+    }
   }
 }
