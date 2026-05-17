@@ -14382,5 +14382,185 @@
       "habitat_hint": "河滩、空地、路边、农田边缘、潮湿草地。",
       "finding_tips": "五至八月在河滩与空地寻找具节上团块状花的多年草。叶缘常呈波状。"
     }
+  },
+  "Cyperus amuricus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャガヤツリ。河川敷や湿地、農地に普通な一年生のカヤツリグサ。茶褐色の細い小穂を持ち、丈は20〜40cm程度。",
+      "habitat_hint": "水田畦、湿地、河川敷、農地、用水路の縁。",
+      "finding_tips": "8〜10月、湿地や農地で茶褐色の細い小穂をつける小型〜中型の一年生カヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Amur Flatsedge. A common annual sedge of riverbanks, wetlands, and farmland. Brown slender spikelets, plants 20-40 cm tall.",
+      "habitat_hint": "Paddy bunds, wetlands, riverbanks, farmland, and irrigation channel edges.",
+      "finding_tips": "From August to October look in wetlands and farmland for small to medium annual sedges with brown slender spikelets."
+    },
+    "zh": {
+      "summary": "阿穆尔莎草。河滩、湿地、农田常见的一年生莎草。小穗茶褐色细长，植株 20-40 厘米。",
+      "habitat_hint": "水田田埂、湿地、河滩、农田、灌溉沟边。",
+      "finding_tips": "八至十月在湿地与农田寻找具茶褐色细长小穗的小至中型一年生莎草。"
+    }
+  },
+  "Phyllanthus tenellus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガエコミカンソウ。マダガスカル原産で、近年市街地や公園に急速に拡散している小型の帰化草本。葉の脇に小さなミカン状の果実をつけます。",
+      "habitat_hint": "市街地の歩道脇、公園の植え込み、駐車場の縁、空き地、家庭菜園。",
+      "finding_tips": "7〜11月、舗装の隙間や植え込みで小さな卵形の葉が枝にきれいに並び、葉の脇に長柄のミカン状果実をつける小型草本を探します。"
+    },
+    "en": {
+      "summary": "Mascarene Island Leaf-flower. A small naturalised herb from Madagascar, rapidly spreading in urban areas and parks. Bears small tangerine-like fruits in leaf axils on long stalks.",
+      "habitat_hint": "Urban sidewalks, park plantings, parking lot edges, vacant lots, and home gardens.",
+      "finding_tips": "From July to November look in pavement cracks and plantings for small herbs with neat ovate leaves along the stem and long-stalked mandarin-shaped fruits in the leaf axils."
+    },
+    "zh": {
+      "summary": "纤梗叶下珠。原产马达加斯加，近年在市区与公园迅速扩散的小型归化草本。叶腋具长柄柑橘状小果。",
+      "habitat_hint": "市区人行道边、公园栽植、停车场边缘、空地、家庭菜园。",
+      "finding_tips": "七至十一月在路面缝与绿化带寻找小型卵形叶整齐排列、叶腋具长柄柑橘状果的草本。"
+    }
+  },
+  "Orisarma dehaani": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロベンケイガニ。河口の汽水域や塩性湿地に住む半陸生のカニ。黒紫色の甲羅と大きな鋏が特徴です。",
+      "habitat_hint": "河口の汽水域、塩性湿地、ヨシ原、海岸近くの泥地、石護岸。",
+      "finding_tips": "通年（春〜秋に活動的）、河口の塩性湿地で黒紫色の甲羅を持つカニを探します。石下や泥地の穴に潜んでいることが多いです。"
+    },
+    "en": {
+      "summary": "Sesarmid mangrove crab. A semi-terrestrial crab of brackish estuaries and salt marshes. Dark purplish carapace and large claws.",
+      "habitat_hint": "Brackish estuaries, salt marshes, reedbeds, coastal mudflats, and stone revetments.",
+      "finding_tips": "Year-round (most active spring to autumn), look in estuarine salt marshes for crabs with dark purplish carapaces. Often hidden under stones or in mud burrows."
+    },
+    "zh": {
+      "summary": "德氏厚蟹（弁庆蟹近缘）。半陆生蟹，栖于河口汽水域与盐沼。背甲黑紫色，钳大。",
+      "habitat_hint": "河口汽水域、盐沼、芦苇丛、海岸泥地、石护岸。",
+      "finding_tips": "全年（春至秋活跃）在河口盐沼寻找背甲黑紫色的蟹。常躲于石下与泥洞中。"
+    }
+  },
+  "Rubia argyi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカネ。蔓性の多年草で、根から赤色染料「茜色」を採ります。葉は4枚輪生に見え（実は2枚＋大型托葉2枚）、茎には鋭い刺があります。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、生垣、農地の縁。",
+      "finding_tips": "通年、林縁や藪で4枚輪生の葉を持つ蔓性多年草を探します。茎の刺と4輪生葉が決め手。秋に黒い丸い実をつけます。"
+    },
+    "en": {
+      "summary": "East Asian Madder. A perennial vine; the roots yield the red dye 'akane-iro'. Leaves appear in whorls of 4 (actually 2 leaves + 2 large stipules); stems bear sharp prickles.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, hedges, and farmland margins.",
+      "finding_tips": "Year-round, look at forest edges and thickets for vines with apparent 4-whorled leaves. Stem prickles and 4-whorled leaves are diagnostic. Black round fruits in autumn."
+    },
+    "zh": {
+      "summary": "茜草。蔓生多年草，根可提取红色染料『茜红』。叶看似 4 枚轮生（实为 2 叶+2 大托叶），茎具锐刺。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、绿篱、农田边缘。",
+      "finding_tips": "全年在林缘与灌丛寻找叶 4 枚轮生的蔓生多年草。茎刺与 4 轮生叶是关键识别。秋季结黑色圆果。"
+    }
+  },
+  "Polygonatum odoratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アマドコロ。林床や林縁に生える多年草。葉腋から下垂する筒状の白い花が美しく、和名は根茎が「甘いトコロ（薯蕷）」に似ることから。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、土手、神社林。",
+      "finding_tips": "4〜5月、明るい林床や林縁で葉腋から下垂する白い筒状の花を1〜2個ずつつける多年草を探します。茎に稜があるのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Angular Solomon's Seal. A woodland perennial with attractive pendulous white tubular flowers from the leaf axils. The Japanese name refers to its rhizome being like a sweet yam.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, banks, and shrine groves.",
+      "finding_tips": "From April to May look on bright forest floors and edges for perennials with 1-2 pendulous white tubular flowers per leaf axil. Angular stem helps identify."
+    },
+    "zh": {
+      "summary": "玉竹。林床与林缘的多年生草本。叶腋下垂白色筒形花美丽，日文俗名指根茎似『甜薯蓣』。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、堤岸、神社林。",
+      "finding_tips": "四至五月在明亮林床与林缘寻找叶腋下垂 1-2 朵白色筒形花的多年草。茎具棱可辅助识别。"
+    }
+  },
+  "Anemone nikoensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イチリンソウ。早春に純白の大きな1輪の花を咲かせる多年草。スプリングエフェメラルとして知られ、初夏には地上部が枯れます。",
+      "habitat_hint": "明るい雑木林の林床、谷地林、河畔林、神社林。",
+      "finding_tips": "4〜5月、明るい林床で1本の花茎に1輪だけ純白の大きな花を咲かせる多年草を探します。葉は深く切れ込んだ3全裂。"
+    },
+    "en": {
+      "summary": "Nikko Anemone. A perennial bearing a single large pure-white flower in early spring. A spring ephemeral — the aboveground parts wither by early summer.",
+      "habitat_hint": "Bright secondary woodland floors, valley woods, riparian woods, and shrine groves.",
+      "finding_tips": "From April to May look on bright forest floors for perennials with a single large pure-white flower per stem. Leaves deeply divided into three lobes."
+    },
+    "zh": {
+      "summary": "日光银莲花。早春开一朵纯白色大花的多年草。属春季短生植物，初夏地上部分枯萎。",
+      "habitat_hint": "明亮杂木林林床、谷地林、河岸林、神社林。",
+      "finding_tips": "四至五月在明亮林床寻找每花茎仅开一朵纯白色大花的多年草。叶 3 深裂。"
+    }
+  },
+  "Cardiocrinum cordatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウバユリ。大型の多年草で、夏に緑白色の筒状の花を横向きに咲かせます。花の頃には葉が枯れていることから「姥（うば）百合」と呼ばれます。",
+      "habitat_hint": "雑木林の林床、谷地林、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "7〜8月、林床で太い茎から横向きに緑白色の筒状の花を咲かせる大型多年草を探します。花の頃には根元の葉が枯れているのが特徴。"
+    },
+    "en": {
+      "summary": "Heartleaf Lily. A large perennial bearing greenish-white horizontal tubular flowers in summer. The Japanese name 'old-woman lily' refers to leaves withering by flowering time.",
+      "habitat_hint": "Secondary woodland floors, valley woods, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From July to August look on forest floors for large perennials with horizontal greenish-white tubular flowers on stout stems. Basal leaves are wilting at flowering time."
+    },
+    "zh": {
+      "summary": "心叶大百合。大型多年草，夏季水平开绿白色筒形花。花期叶已枯萎，因此日文俗名为『姥百合』。",
+      "habitat_hint": "杂木林林床、谷地林、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "七至八月在林床寻找具粗茎、水平开放绿白色筒形花的大型多年草。花期基生叶已凋萎。"
+    }
+  },
+  "Pertya robusta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カシワバハグマ。葉がカシワに似た形をしている林床のキク科多年草。秋に淡紫色〜白の頭花を咲かせます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、二次林、神社林。",
+      "finding_tips": "9〜10月、明るい林床でカシワに似た深く切れ込んだ大きな葉を持ち、頂部に淡紫色〜白の頭花をつける多年草を探します。"
+    },
+    "en": {
+      "summary": "Oak-leaved Pertya. A woodland Asteraceae perennial with leaves shaped like oak leaves. Pale-purple to white flower heads in autumn.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, secondary woods, and shrine groves.",
+      "finding_tips": "From September to October look on bright forest floors for perennials with large deeply lobed oak-like leaves and pale-purple to white terminal flower heads."
+    },
+    "zh": {
+      "summary": "栎叶帚菊。叶形似柞栎的林床菊科多年草。秋季开淡紫至白色头状花。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、次生林、神社林。",
+      "finding_tips": "九至十月在明亮林床寻找具栎形深裂大叶、顶生淡紫至白色头状花的多年草。"
+    }
+  },
+  "Robinia pseudoacacia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニセアカシア（ハリエンジュ）。北米原産の高木で、街路樹や公園木として導入されました。5〜6月に白い藤状の花を多数下垂させて咲かせます。蜂蜜の重要な蜜源植物です。",
+      "habitat_hint": "街路樹、公園植栽、河川敷の野生化、空き地、農地の縁。",
+      "finding_tips": "5〜6月、街路や公園、河川敷で白い藤状の花序を下垂させる高木を探します。葉は羽状複葉で、枝に鋭い刺があります。"
+    },
+    "en": {
+      "summary": "Black Locust. A North American tree introduced as street and park planting. White wisteria-like pendulous flower racemes in May-June. An important honey-source plant.",
+      "habitat_hint": "Street trees, park plantings, naturalised on riverbanks, vacant lots, and farmland margins.",
+      "finding_tips": "From May to June look in streets, parks, and riverbanks for tall trees with pendulous white wisteria-like flower racemes. Pinnate leaves with sharp paired thorns on twigs."
+    },
+    "zh": {
+      "summary": "刺槐（洋槐）。原产北美的乔木，作行道树与公园栽植引入。五至六月密生白色紫藤状下垂花序。重要蜜源植物。",
+      "habitat_hint": "行道树、公园栽植、河滩野化、空地、农田边缘。",
+      "finding_tips": "五至六月在行道与公园、河滩寻找具下垂白色紫藤状花序的乔木。羽状复叶，枝具锐刺成对。"
+    }
+  },
+  "Matrona basilaris japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハグロトンボ。翅全体が黒く、体が金属緑色に輝く大型のイトトンボ。緩やかな流れの川の縁で見られ、優雅にひらひらと飛びます。",
+      "habitat_hint": "ゆるやかな川、用水路、湿地の流水、河畔林の縁、池の流入部。",
+      "finding_tips": "6〜9月、ゆるやかな川の縁で全身黒〜暗緑色のイトトンボがひらひらと飛ぶ姿を探します。葉に止まると黒い翅を立てて開閉します。"
+    },
+    "en": {
+      "summary": "Japanese Demoiselle. A large damselfly with entirely black wings and a metallic-green body. Found along slow-flowing streams, flying with elegant fluttering motion.",
+      "habitat_hint": "Slow streams, irrigation channels, flowing wetlands, riparian forest edges, and pond inflows.",
+      "finding_tips": "From June to September look along slow streams for entirely black-winged damselflies with metallic-green bodies fluttering elegantly. Wings open and close while perched on leaves."
+    },
+    "zh": {
+      "summary": "黑色丽蟌。翅全黑、身体金属绿色的大型蟌（豆娘）。栖于缓流河流边，飞行优雅翩跹。",
+      "habitat_hint": "缓流河流、灌溉沟、流动湿地、河岸林缘、池塘进水口。",
+      "finding_tips": "六至九月在缓流河边寻找翅全黑、身金属绿色翩翩飞舞的蟌。停于叶上时黑翅开合。"
+    }
   }
 }
