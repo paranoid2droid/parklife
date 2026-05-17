@@ -11142,5 +11142,167 @@
       "habitat_hint": "潮湿草地、河滩、田边、田埂、潮湿路边。",
       "finding_tips": "四至十月寻找明显比繁缕高大的植物，花亦较大。"
     }
+  },
+  "Butastur indicus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サシバ。中型のタカで、夏鳥として渡来し里山で繁殖。秋には大群で南西諸島を経由して東南アジアまで渡る「タカの渡り」で有名です。",
+      "habitat_hint": "里山、水田・農地の周辺、雑木林の林縁、伊豆半島・佐多岬などの渡り経路。",
+      "finding_tips": "4〜9月、里山の上空で「ピックィー」という独特の鳴き声を出すタカを探します。秋の渡りの時期は1日数百〜数千羽が空を渡る光景が見られます。"
+    },
+    "en": {
+      "summary": "Grey-faced Buzzard. A medium summer-visiting hawk of satoyama landscapes. Autumn migration via the Nansei Islands toward Southeast Asia is a famous spectacle.",
+      "habitat_hint": "Satoyama landscapes, around paddies and farmland, woodland edges, and migration corridors (Izu, Cape Sata).",
+      "finding_tips": "From April to September listen above satoyama for a sharp 'pyukkwee'. Autumn migration sees hundreds to thousands passing overhead daily at key sites."
+    },
+    "zh": {
+      "summary": "灰脸鵟鹰。夏候鸟，在里山繁殖。秋季大群经西南诸岛迁飞至东南亚，是著名的『猛禽迁徙』景观。",
+      "habitat_hint": "里山、水田与农田周边、林缘、伊豆半岛/佐多岬等迁徙通道。",
+      "finding_tips": "四至九月在里山上空听『嘁-嘁』鸣叫的中型猛禽。秋季迁徙日均数百至数千只过境。"
+    }
+  },
+  "Leiothrix lutea": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ソウシチョウ。中国原産の外来種で、色鮮やかな小鳥。ペットとして輸入された個体が野生化し、近年関東でも増えています。",
+      "habitat_hint": "雑木林の藪、社寺林、山地の林、河川敷の樹林、低木の繁茂する場所。",
+      "finding_tips": "緑+赤+黄色の鮮やかな色彩の小鳥を藪の中で探します。きれいなさえずりが特徴的で、姿は警戒心が強いので声で見つけることが多いです。"
+    },
+    "en": {
+      "summary": "Red-billed Leiothrix, a colourful Chinese-origin songbird. Escaped pet-trade birds have established wild populations now expanding through Kanto.",
+      "habitat_hint": "Woodland thickets, shrine groves, montane forest, riverside woods, and dense shrubbery.",
+      "finding_tips": "Look in thickets for a small bird with vivid green, red, and yellow. Often heard before seen — the song is melodic and distinctive."
+    },
+    "zh": {
+      "summary": "红嘴相思鸟，中国原产，鸟笼贸易逃逸而归化。色彩鲜艳，近年关东扩张。",
+      "habitat_hint": "杂木林灌丛、神社树林、山地林、河岸林、茂密灌丛。",
+      "finding_tips": "在灌丛中找绿红黄鲜艳色彩的小鸟。鸣唱悦耳，靠声辨识更易。"
+    }
+  },
+  "Boehmeria nivea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラムシ。古来から繊維作物として栽培されてきた在来種の多年草。葉裏が白い綿毛で覆われ、丈夫な茎の繊維は布や紙に使われてきました。",
+      "habitat_hint": "河川敷、空き地、農地の縁、明るい斜面、住宅地の藪。",
+      "finding_tips": "対生する卵形の葉と、葉裏の白い綿毛、人の腰高に育つ植物を探します。繊維作物として古い里山でしばしば見られます。"
+    },
+    "en": {
+      "summary": "Ramie, a native fibre plant long cultivated for cloth and paper. Opposite oval leaves with white-woolly undersides; tough stem fibres.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, bright slopes, and residential thickets.",
+      "finding_tips": "Look for waist-high plants with opposite oval leaves whose undersides are silvery-woolly. Often persists from historical cultivation."
+    },
+    "zh": {
+      "summary": "苎麻，自古作纤维作物栽培的本土多年生植物。叶对生卵形、叶背白色绒毛。茎纤维用于布和纸。",
+      "habitat_hint": "河滩、空地、田边、明亮斜坡、住宅区灌丛。",
+      "finding_tips": "找叶对生卵形、叶背白色绒毛、腰高的植物。常残留于旧里山。"
+    }
+  },
+  "Euonymus oxyphyllus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツリバナ。秋に5裂した赤い果実が裂け、中から橙色の種子が「吊り下がる」姿が美しい落葉低木。マユミと並ぶ秋の風物詩。",
+      "habitat_hint": "雑木林、社寺林、谷沿いの林、明るい斜面、神社の境内。",
+      "finding_tips": "10〜11月、赤い5裂の果実が裂けて中から橙色の種子が垂れ下がる低木を探します。マユミと似ますがより球形の果実です。"
+    },
+    "en": {
+      "summary": "Hanging Spindle Tree. A deciduous shrub whose autumn red five-lobed capsules split open and let orange seeds 'dangle'. A classic autumn sight alongside Hamilton's Spindle.",
+      "habitat_hint": "Mixed woodland, shrine groves, valley woods, bright slopes, and shrine grounds.",
+      "finding_tips": "From October to November look for shrubs with red five-lobed capsules splitting to let orange seeds hang on threads. More rounded fruits than the related Hamilton's Spindle."
+    },
+    "zh": {
+      "summary": "西南卫矛近缘（『钓花』），秋季红色五裂蒴果开裂、橙色种子垂吊的落叶灌木。与西南卫矛同为秋日景观。",
+      "habitat_hint": "杂木林、神社树林、谷地林、明亮斜坡、神社境内。",
+      "finding_tips": "十至十一月寻找红色五裂蒴果开裂、橙色种子垂吊的灌木。果较圆。"
+    }
+  },
+  "Pseudocneorhinus bifasciatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スグリゾウムシ。小型のゾウムシで、雌だけが知られる単為生殖の珍しい昆虫。家庭菜園や果樹園で葉を食害します。",
+      "habitat_hint": "農地、家庭菜園、河川敷、雑木林の林縁、果樹園。",
+      "finding_tips": "果樹（特にスグリ・サクラ・ニシキギ類）の葉に独特の半円形の食痕があれば、葉裏で本種を探します。**世界的に雌だけで繁殖する珍しい昆虫。**"
+    },
+    "en": {
+      "summary": "Two-Banded Japanese Weevil. A small weevil famous for parthenogenetic reproduction — only females are known. Feeds on garden and orchard leaves.",
+      "habitat_hint": "Farmland, kitchen gardens, riverbanks, woodland edges, and orchards.",
+      "finding_tips": "If fruit-tree or ornamental shrub leaves show distinctive half-circle nibbles, check the leaf undersides. **Notable as an all-female reproducing insect.**"
+    },
+    "zh": {
+      "summary": "醋栗双带象甲，小型象甲。著名以孤雌生殖繁殖，仅有雌虫。食家庭菜园与果园叶片。",
+      "habitat_hint": "农田、家庭菜园、河滩、林缘、果园。",
+      "finding_tips": "果树或观赏灌木叶上有半圆形咬痕时翻看叶背。**全雌孤雌生殖的特殊昆虫。**"
+    }
+  },
+  "Rorippa indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌガラシ。在来種のアブラナ科で、年中見られる小型多年草。黄色い4弁花を多数咲かせ、葉や茎を切ると独特の辛味があります。",
+      "habitat_hint": "畑、道端、河川敷、芝生、空き地、農地の縁。",
+      "finding_tips": "年中、黄色い小さな4弁花を立てる小型植物を探します。葉は深く切れ込み、根葉はロゼット状です。タネツケバナと似ますが、本種は黄色花。"
+    },
+    "en": {
+      "summary": "Indian Yellowcress, a native brassica that flowers year-round. Many small yellow four-petalled flowers; leaves have a pungent taste like cress.",
+      "habitat_hint": "Gardens, roadsides, riverbanks, lawns, vacant lots, and field margins.",
+      "finding_tips": "Year-round look for small plants with bright yellow four-petalled flowers. Deeply lobed leaves; basal rosette. Similar to bittercress but yellow rather than white-flowered."
+    },
+    "zh": {
+      "summary": "印度蔊菜，本土十字花科。全年开许多黄色四瓣小花。叶具辛味似水芹。",
+      "habitat_hint": "菜园、路边、河滩、草坪、空地、田边。",
+      "finding_tips": "全年寻找开黄色四瓣小花的小型植物。叶深裂、基生莲座。与碎米荠相似但本种花为黄色。"
+    }
+  },
+  "Marumba echephron": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モモスズメ。前翅に独特の桃色〜淡褐色の斑模様を持つ中型のスズメガ。サクラやモモなどバラ科を食樹とします。",
+      "habitat_hint": "サクラ・モモのある雑木林、果樹園、神社の境内、夜の街灯。",
+      "finding_tips": "夏の夜、街灯に集まる中型のスズメガを探します。前翅の独特の桃色を帯びた斑模様で識別できます。"
+    },
+    "en": {
+      "summary": "A medium hawkmoth with distinctive peach-pink-to-tan wing markings. Larvae use cherry, peach, and other Rosaceae.",
+      "habitat_hint": "Mixed woodland with cherry or peach, orchards, shrine grounds, and around streetlights at night.",
+      "finding_tips": "On summer nights look at streetlights for a medium hawkmoth. Peach-pink wing markings on the forewing are the field mark."
+    },
+    "zh": {
+      "summary": "桃天蛾近缘，中型天蛾。前翅具独特桃粉至褐色斑纹。幼虫食樱花、桃等蔷薇科。",
+      "habitat_hint": "有樱花桃树的杂木林、果园、神社境内、夜灯下。",
+      "finding_tips": "夏夜在路灯下找中型天蛾。前翅桃粉色斑是辨识。"
+    }
+  },
+  "Glischrochilus japonius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨツボシケシキスイ。黒い体に橙色の4つの斑点がある小型の甲虫。樹液場でカブトムシやクワガタと一緒に見られます。",
+      "habitat_hint": "雑木林の樹液場、クヌギ・コナラ、神社の境内、夜の街灯。",
+      "finding_tips": "クヌギの樹液で、黒地に橙色の4つの斑点のある小型甲虫を探します。樹液に集まる甲虫の中では小型ですが、模様が鮮やかで見つけやすいです。"
+    },
+    "en": {
+      "summary": "A small sap beetle, black with four orange spots. Common at sap flows alongside rhinoceros and stag beetles.",
+      "habitat_hint": "Sap flows in mixed woodland, oak trees, shrine grounds, and around streetlights at night.",
+      "finding_tips": "At oak sap flows look for a small beetle with bold orange spots on black elytra. Small but eye-catching."
+    },
+    "zh": {
+      "summary": "四星花金龟（果潜甲），小型甲虫，黑底配 4 个橙色斑。树液场常见与独角仙锹甲共存。",
+      "habitat_hint": "杂木林树液处、麻栎/枹栎、神社境内、夜灯下。",
+      "finding_tips": "在麻栎树液处找黑底配 4 个橙斑的小型甲虫。体小但斑明显。"
+    }
+  },
+  "Rhopalus maculatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカヒメヘリカメムシ。茶色の体に小さな黒斑が散らばる小型のヘリカメムシ。湿った草地や農地で普通に見られます。",
+      "habitat_hint": "湿った草地、河川敷、農地、田の畦、明るい林縁。",
+      "finding_tips": "草の葉の上で、茶褐色の体に黒い小さな斑点を持つ細長いカメムシを探します。10mm程度の小型です。"
+    },
+    "en": {
+      "summary": "A small coreid bug, brown with scattered tiny dark spots. Common on damp grass and farmland.",
+      "habitat_hint": "Damp meadows, riverbanks, farmland, paddy levees, and bright woodland edges.",
+      "finding_tips": "On grass blades look for a slender brown bug with small dark spots — about 10 mm long."
+    },
+    "zh": {
+      "summary": "红姬缘蝽，小型缘蝽，褐底散布细小黑斑。常见于潮湿草地与农田。",
+      "habitat_hint": "潮湿草地、河滩、农田、田埂、明亮林缘。",
+      "finding_tips": "在草叶上找褐底带细黑斑的细长缘蝽，体长约 10 mm。"
+    }
   }
 }
