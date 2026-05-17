@@ -15822,5 +15822,185 @@
       "habitat_hint": "杂木林林床、潮湿斜坡、神社林、谷地林、岩生地半阴处。",
       "finding_tips": "全年在潮湿林床寻找具直立茎、线形叶密集的常绿小型植物。非蕨类，属石松科（小叶植物）。"
     }
+  },
+  "Sagittaria trifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オモダカ。水田や湿地に生える多年生の水生植物。葉が矢じり形（三角形に3つの突起）で特徴的。夏に白い3弁花を輪生に咲かせます。",
+      "habitat_hint": "水田、湿地、ため池、用水路、河川敷の湿地。",
+      "finding_tips": "7〜10月、水田や湿地で矢じり形の特徴的な葉を持つ水生植物を探します。白い3弁花が輪生するのも目印。"
+    },
+    "en": {
+      "summary": "Threeleaf Arrowhead. A perennial aquatic of paddies and wetlands. Diagnostic arrow-shaped leaves (triangular with three points). White 3-petalled flowers in whorls in summer.",
+      "habitat_hint": "Rice paddies, wetlands, ponds, irrigation channels, and wet riverbanks.",
+      "finding_tips": "From July to October look in paddies and wetlands for aquatics with distinctive arrow-shaped leaves. White 3-petalled flowers in whorls help confirm."
+    },
+    "zh": {
+      "summary": "野慈姑。水田与湿地的多年生水生植物。叶呈箭头形（三角形带三个尖突）独特。夏季轮生白色三瓣花。",
+      "habitat_hint": "水田、湿地、池塘、灌溉沟、河滩湿地。",
+      "finding_tips": "七至十月在水田与湿地寻找具独特箭头形叶的水生植物。白色三瓣花轮生可辅助识别。"
+    }
+  },
+  "Festuca myuros": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナギナタガヤ。欧州原産の一年生イネ科で、河川敷や道端、空き地に帰化。穂が片側に偏った独特の形（薙刀状）が和名の由来。",
+      "habitat_hint": "河川敷、道端、空き地、農地の縁、芝地。",
+      "finding_tips": "4〜7月、河川敷や道端で穂が片側に偏った独特の形を持つ一年生イネ科を探します。芒が長く、穂が「薙刀」のような細長い形に見えます。"
+    },
+    "en": {
+      "summary": "Rat-tail Fescue. A European-origin annual grass naturalised on riverbanks, roadsides, and vacant lots. Inflorescences markedly one-sided and elongated, resembling a Japanese halberd ('naginata') — the source of the Japanese name.",
+      "habitat_hint": "Riverbanks, roadsides, vacant lots, farmland margins, and lawns.",
+      "finding_tips": "From April to July look on riverbanks and roadsides for annual grasses with one-sided elongated spike-like panicles. Long awns; halberd-like profile."
+    },
+    "zh": {
+      "summary": "鼠尾粟近缘 / 鼠尾羊茅。原产欧洲的一年生禾本科，归化于河滩、路边、空地。穗向一侧偏并细长（似日本『薙刀』），是日文俗名由来。",
+      "habitat_hint": "河滩、路边、空地、农田边缘、草坪。",
+      "finding_tips": "四至七月在河滩与路边寻找具单侧偏向、细长穗状花序的一年生禾本科。芒长，外形似薙刀。"
+    }
+  },
+  "Cyrtomium falcatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニヤブソテツ。海岸近くや明るい林縁、石垣に生える常緑シダ。葉が硬く光沢があり、単羽状で大きな鎌状の羽片が特徴。",
+      "habitat_hint": "海岸近くの林、石垣、岩場、明るい林縁、公園植栽。",
+      "finding_tips": "通年、海岸近くや明るい林縁、石垣で硬く光沢のある単羽状の常緑シダを探します。羽片が鎌状で大きいのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese Holly Fern. An evergreen fern of coastal areas, bright forest edges, and stone walls. Hard glossy simply pinnate fronds with large sickle-shaped pinnae.",
+      "habitat_hint": "Coastal woods, stone walls, rocky places, bright forest edges, and park plantings.",
+      "finding_tips": "Year-round, look in coastal areas, bright forest edges, and on stone walls for evergreen ferns with hard glossy simply pinnate fronds. Sickle-shaped large pinnae are diagnostic."
+    },
+    "zh": {
+      "summary": "全缘贯众。海岸近郊、明亮林缘与石墙的常绿蕨。叶硬具光泽，一回羽状，羽片大型镰刀状。",
+      "habitat_hint": "海岸近郊林、石墙、岩生地、明亮林缘、公园栽植。",
+      "finding_tips": "全年在海岸近郊、明亮林缘与石墙寻找叶硬具光泽、一回羽状的常绿蕨。镰刀状大型羽片是关键识别。"
+    }
+  },
+  "Sanicula chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウマノミツバ。林縁や明るい林床に生える多年草のセリ科。葉が3つに深く裂け、各小葉がさらに分裂します。小さな白い花を散形につけます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "5〜7月、明るい林床や林縁で3深裂の独特の葉を持つセリ科多年草を探します。果実に鉤状の刺があり、衣服にひっつきます。"
+    },
+    "en": {
+      "summary": "Chinese Sanicle. A perennial umbellifer of forest edges and bright forest floors. Leaves deeply trifoliate with further-divided leaflets. Small white flowers in umbels.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From May to July look on bright forest floors and edges for Apiaceae perennials with deeply 3-divided distinctive leaves. Hooked fruits stick to clothing."
+    },
+    "zh": {
+      "summary": "薄叶变豆菜。林缘与明亮林床的多年生伞形科。叶 3 深裂、小叶再分裂独特。开白色小花伞形。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "五至七月在明亮林床与林缘寻找具 3 深裂独特叶的伞形科多年草。果实具钩刺粘衣物。"
+    }
+  },
+  "Bromus remotiflorus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キツネガヤ。多年生の中型イネ科で、林縁や草地に生えます。穂が垂れ下がる円錐花序で繊細、長い芒が目立ちます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、林床、半日陰の斜面。",
+      "finding_tips": "5〜7月、林縁や草地で長い芒のある繊細な円錐花序が垂れ下がる多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Distant-flowered Brome. A medium perennial grass of forest edges and grasslands. Delicate pendulous panicles with conspicuous long awns.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, forest floors, and partly shaded slopes.",
+      "finding_tips": "From May to July look at forest edges and grasslands for perennial grasses with delicate pendulous panicles and long awns."
+    },
+    "zh": {
+      "summary": "疏花雀麦。中型多年生禾本科，林缘与草地常见。下垂的纤细圆锥花序具显眼长芒。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、林床、半阴斜坡。",
+      "finding_tips": "五至七月在林缘与草地寻找具下垂纤细圆锥花序、长芒的多年生禾本科。"
+    }
+  },
+  "Dryopteris nipponensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウゴクシダ。湿った林床に生える中型〜大型の常緑シダ。葉柄に淡褐色の鱗片が密生し、葉は2回羽状に分裂します。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で2回羽状の中型〜大型の常緑シダを探します。葉柄基部に密集する淡褐色の鱗片が手がかり。"
+    },
+    "en": {
+      "summary": "Nippon Wood Fern. A medium to large evergreen fern of damp forest floors. Dense pale-brown scales on the stipe; bipinnate fronds.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for medium-to-large bipinnate evergreen wood ferns. Dense pale-brown scales at the stipe base help confirm."
+    },
+    "zh": {
+      "summary": "日本鳞毛蕨。潮湿林床的中至大型常绿蕨。叶柄密被淡褐色鳞片，叶 2 回羽状。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找叶 2 回羽状的中至大型常绿蕨。叶柄基部密集淡褐色鳞片可助识别。"
+    }
+  },
+  "Euphorbia nutans": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオニシキソウ。北米原産の一年草で、空き地や道端、農地に帰化。茎を折ると白い乳液が出ます。コニシキソウより大型で立ち上がります。",
+      "habitat_hint": "空き地、道端、農地、河川敷、駐車場の縁。",
+      "finding_tips": "6〜10月、空き地や道端で立ち上がる枝に対生の楕円形葉を持つ一年草を探します。茎を折ると白い乳液が出ます。コニシキソウより大型。"
+    },
+    "en": {
+      "summary": "Eyebane / Nodding Spurge. A North American annual naturalised on vacant lots, roadsides, and farmland. Snapped stems exude white latex. Larger and more erect than prostrate spurge.",
+      "habitat_hint": "Vacant lots, roadsides, farmland, riverbanks, and parking lot edges.",
+      "finding_tips": "From June to October look on vacant lots for annuals with erect branches bearing opposite elliptical leaves. Stems exude white latex. Larger than prostrate spurge."
+    },
+    "zh": {
+      "summary": "大地锦。原产北美的一年草，归化于空地、路边与农田。茎折断出白色乳液。比铺地锦更大、更直立。",
+      "habitat_hint": "空地、路边、农田、河滩、停车场边。",
+      "finding_tips": "六至十月在空地与路边寻找具直立分枝、对生椭圆叶的一年草。茎折断流白色乳液。比铺地锦更大。"
+    }
+  },
+  "Phalaris arundinacea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサヨシ。多年生の大型イネ科で、湿地や河川敷に群生します。背丈は1〜2mに達し、円柱形の穂を立てます。",
+      "habitat_hint": "湿地、河川敷、ため池の縁、休耕田、用水路の縁。",
+      "finding_tips": "5〜7月、湿地や河川敷で背の高い（1〜2m）多年生イネ科を探します。円柱形〜やや尖頭の密な穂を立てます。"
+    },
+    "en": {
+      "summary": "Reed Canary Grass. A large perennial grass forming colonies in wetlands and on riverbanks. Reaches 1-2 m tall with cylindrical spike-like panicles.",
+      "habitat_hint": "Wetlands, riverbanks, pond edges, fallow fields, and irrigation channel edges.",
+      "finding_tips": "From May to July look in wetlands and riverbanks for tall (1-2 m) perennial grasses with cylindrical to somewhat pointed dense panicles."
+    },
+    "zh": {
+      "summary": "草芦（虉草）。多年生大型禾本科，在湿地与河滩成片生长。高 1-2 米，抽出圆柱形穗状花序。",
+      "habitat_hint": "湿地、河滩、池塘边、休耕田、灌溉沟边。",
+      "finding_tips": "五至七月在湿地与河滩寻找高 1-2 米、抽出圆柱形至略尖密集穗的多年生禾本科。"
+    }
+  },
+  "Agrostis gigantea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コヌカグサ。欧州原産の多年生イネ科で、河川敷や湿地、農地に帰化。穂は繊細で淡紫色を帯びる円錐花序を立てます。",
+      "habitat_hint": "河川敷、湿地、農地、道端、芝地。",
+      "finding_tips": "6〜8月、河川敷や湿地で繊細で淡紫色を帯びた円錐花序を持つ多年生イネ科を探します。匍匐茎で広がります。"
+    },
+    "en": {
+      "summary": "Redtop Bentgrass. A European-origin perennial grass naturalised on riverbanks, wetlands, and farmland. Delicate purplish-tinged panicles.",
+      "habitat_hint": "Riverbanks, wetlands, farmland, roadsides, and lawns.",
+      "finding_tips": "From June to August look on riverbanks and wetlands for perennial grasses with delicate purplish-tinged panicles. Spreads by rhizomes."
+    },
+    "zh": {
+      "summary": "巨序剪股颖（红顶草）。原产欧洲的多年生禾本科，归化于河滩、湿地与农田。具纤细带淡紫色的圆锥花序。",
+      "habitat_hint": "河滩、湿地、农田、路边、草坪。",
+      "finding_tips": "六至八月在河滩与湿地寻找具纤细淡紫色调圆锥花序的多年生禾本科。靠匍匐茎扩散。"
+    }
+  },
+  "Torilis scabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オヤブジラミ。ヤブジラミの近縁種で、初夏に小さな白〜淡紅色の花を散形につける二年草。果実は鉤状の刺で衣服にひっつきます。ヤブジラミより一回り大型。",
+      "habitat_hint": "藪、林縁、道端、河川敷、空き地、農地の縁。",
+      "finding_tips": "5〜7月、藪や林縁で小さな白〜淡紅色の散形花序を持つセリ科二年草を探します。果実が衣服にくっつくのが特徴。ヤブジラミより花期が早く、葉がより細かく裂けます。"
+    },
+    "en": {
+      "summary": "Erect Hedge Parsley. Related to Japanese Hedge Parsley but slightly larger. A biennial umbellifer with small white-to-pale-pink umbels in early summer. Hooked fruits stick to clothing.",
+      "habitat_hint": "Thickets, forest edges, roadsides, riverbanks, vacant lots, and farmland margins.",
+      "finding_tips": "From May to July look in thickets and forest edges for umbellifers with small white-to-pale-pink umbels. Fruits stick to clothing. Earlier flowering and more finely divided leaves than Torilis japonica."
+    },
+    "zh": {
+      "summary": "大窃衣。窃衣的近缘种，比窃衣略大。初夏开白至淡红色小伞形花的二年生伞形科。果实具钩刺粘衣物。",
+      "habitat_hint": "灌丛、林缘、路边、河滩、空地、农田边缘。",
+      "finding_tips": "五至七月在灌丛与林缘寻找具白至淡红色伞形小花序的伞形科。果实粘衣物。比窃衣花期早，叶细裂更深。"
+    }
   }
 }
