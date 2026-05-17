@@ -10494,5 +10494,167 @@
       "habitat_hint": "杂木林林缘、河滩灌丛、神社境内、明亮斜坡、田边。",
       "finding_tips": "找叶心形或戟形、夏秋叶腋有褐至黑色珠芽的藤本。地下长块茎『自然薯』是名贵山菜。"
     }
+  },
+  "Nelumbo nucifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハス。仏教の象徴としても親しまれる大型の水生多年草。夏に淡桃色〜白色の大きな花を水面の上に立て、葉も水面の上に大きく広がります。",
+      "habitat_hint": "池、湿地、ハス田、神社・寺院の境内の池。",
+      "finding_tips": "7〜8月、池の水面に大きく丸い葉を浮かべ、その上に立つ大型の桃色〜白色の花を探します。花は早朝に開いて午後にしぼみ、3日程度で散ります。"
+    },
+    "en": {
+      "summary": "Sacred Lotus, a large aquatic perennial revered in Buddhism. Pink-to-white flowers stand above the water on tall stems in summer; large round leaves also stand above the surface.",
+      "habitat_hint": "Ponds, wetlands, lotus fields, and temple/shrine pools.",
+      "finding_tips": "From July to August watch ponds for large round leaves and tall pink-to-white blooms above the water. Flowers open at dawn and close by afternoon for about three days."
+    },
+    "zh": {
+      "summary": "莲（荷花），大型水生多年生植物，是佛教象征。夏季粉至白色大花伫立于水面之上，圆叶亦立于水面。",
+      "habitat_hint": "池塘、湿地、莲田、神社寺庙的池。",
+      "finding_tips": "七至八月在池塘观察立于水面的大圆叶和粉白色大花。花朝开午闭，约 3 日凋谢。"
+    }
+  },
+  "Bletilla striata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シラン。春〜初夏に鮮やかな赤紫色の花を咲かせる丈夫な在来種のラン。庭園や公園に広く植栽され、野生個体は減少しています。",
+      "habitat_hint": "庭園、神社の境内、公園の花壇、湿った草地、明るい斜面。",
+      "finding_tips": "4〜6月、地面から立ち上がる細長い茎の先に鮮やかな赤紫色のラン花が並ぶ植物を探します。葉は線形で長く、株から数枚伸びます。"
+    },
+    "en": {
+      "summary": "Chinese Ground Orchid, a hardy native orchid with vivid magenta flowers in spring and early summer. Widely planted; truly wild populations are now uncommon.",
+      "habitat_hint": "Gardens, shrine grounds, park flower beds, damp meadows, and bright slopes.",
+      "finding_tips": "From April to June look for slender stems carrying a row of vivid magenta orchid flowers. Several long linear leaves rise from each clump."
+    },
+    "zh": {
+      "summary": "白及，本土兰科多年生。春至初夏开鲜艳红紫色花。耐栽培，常用于庭园，野生种群稀少。",
+      "habitat_hint": "庭园、神社境内、公园花坛、潮湿草地、明亮斜坡。",
+      "finding_tips": "四至六月寻找抽出细茎、顶端排列红紫色兰花的植物。每丛长出数枚长线形叶。"
+    }
+  },
+  "Solanum lyratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒヨドリジョウゴ。雑木林の林縁に普通のつる性多年草。夏に白い5弁花、秋に赤い実を多数つけ、ヒヨドリの好物として知られます。**全草に有毒成分あり、実は食べないこと。**",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地のフェンス、神社の境内、明るい斜面。",
+      "finding_tips": "8〜10月、葉腋から下垂する白い小花と、後の鮮やかな赤い小さな実を持つつる植物を探します。**全草有毒。**"
+    },
+    "en": {
+      "summary": "Bittersweet Nightshade (Asian form). A common vining perennial of woodland edges. Small white flowers in summer, bright red berries in autumn — favoured by Brown-eared Bulbuls, hence the Japanese name 'hiyodori-jōgo'. **All parts toxic.**",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential fences, shrine grounds, and bright slopes.",
+      "finding_tips": "From August to October look for vines with hanging clusters of small white flowers and later bright red berries. **All parts toxic — do not eat.**"
+    },
+    "zh": {
+      "summary": "白英（茄科），杂木林林缘常见藤本多年生。夏开白色五瓣小花，秋结鲜红色小果。栗耳短脚鹎喜食，因此得名（『鹎醉果』）。**全株有毒。**",
+      "habitat_hint": "杂木林林缘、河滩灌丛、住宅围栏、神社境内、明亮斜坡。",
+      "finding_tips": "八至十月寻找叶腋下垂白色小花、后结鲜红小果的藤本。**全株有毒，请勿食用。**"
+    }
+  },
+  "Solanum nigrum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌホオズキ。畑や道端に普通の一年草で、夏〜秋に白い小花と、後に黒色の小さな実をつけます。**未熟な実や葉は有毒なので食べないこと。**",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、道端、舗装の隙間。",
+      "finding_tips": "8〜10月、白い5弁の小花と黒い球形の小さな実を持つ植物を探します。茄子に似た葉の形が目印。**実は有毒のものと食用のものがあり区別が難しいので食べない。**"
+    },
+    "en": {
+      "summary": "Black Nightshade. A common annual with small white flowers in summer-autumn and small black berries afterwards. **Unripe berries and leaves are toxic.**",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, roadsides, and pavement cracks.",
+      "finding_tips": "From August to October look for plants with small white five-petalled flowers and small black round berries. Leaves resemble eggplant. **Do not eat — distinguishing edible vs toxic close relatives is difficult.**"
+    },
+    "zh": {
+      "summary": "龙葵，常见一年生植物。夏秋开白色五瓣小花，结黑色球形小果。**未熟果与叶有毒，请勿食用。**",
+      "habitat_hint": "菜园、河滩、空地、田边、路边、铺装缝。",
+      "finding_tips": "八至十月寻找白色五瓣小花配黑色球形小果的植物。叶形似茄。**与可食近缘种难以区分，请勿食用。**"
+    }
+  },
+  "Callicarpa dichotoma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コムラサキ。鮮やかな紫色の小さな実を秋に枝に密につける美しい落葉低木。ムラサキシキブより小型で、庭園に広く植栽されています。",
+      "habitat_hint": "庭園、公園、神社の境内、住宅地の植え込み、雑木林の林縁。",
+      "finding_tips": "10〜11月、鮮やかな紫色の小さな実が枝に密集してついている低木を探します。葉腋ごとに実が連なる姿は他の植物にはない美しさです。"
+    },
+    "en": {
+      "summary": "Purple Beautyberry. A deciduous shrub with vivid purple berries densely packed along the branches in autumn. Smaller than the related Japanese Beautyberry and widely planted in gardens.",
+      "habitat_hint": "Gardens, parks, shrine grounds, residential plantings, and woodland edges.",
+      "finding_tips": "From October to November look for shrubs with branches lined with vivid purple berry clusters at each leaf axil — a uniquely striking autumn display."
+    },
+    "zh": {
+      "summary": "小紫珠，秋季枝条上密集排列鲜紫色小果的美丽落叶灌木。比日本紫珠小，常用于庭园。",
+      "habitat_hint": "庭园、公园、神社境内、住宅区植被、林缘。",
+      "finding_tips": "十至十一月寻找枝条沿叶腋密布鲜紫色小果的灌木。独特的秋景。"
+    }
+  },
+  "Rhaphiolepis bibas": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ビワ。秋〜冬に花を咲かせ、初夏に橙色の食用の実をつける常緑樹。中国原産で、日本では古くから栽培されています。",
+      "habitat_hint": "庭園、神社の境内、公園、住宅地、果樹園、暖地の雑木林の縁。",
+      "finding_tips": "厚く光沢のある大型の葉と、晩秋〜初冬の白い花、初夏の橙色の食用の実を探します。種は大きく、種子内のアミグダリンは有毒です。"
+    },
+    "en": {
+      "summary": "Loquat. An evergreen tree from China, long cultivated in Japan. Flowers in late autumn and winter; edible orange fruits in early summer. The large seeds contain amygdalin and are toxic.",
+      "habitat_hint": "Gardens, shrine grounds, parks, residential areas, orchards, and warm woodland edges.",
+      "finding_tips": "Thick glossy large leaves with white flowers in late autumn-winter and edible orange fruits in early summer. The large seeds inside are toxic — do not eat the seed."
+    },
+    "zh": {
+      "summary": "枇杷，中国原产，日本自古栽培的常绿乔木。晚秋至冬季开花，初夏结橙色可食果。果内大种子含苦杏仁苷，有毒。",
+      "habitat_hint": "庭园、神社境内、公园、住宅区、果园、暖地林缘。",
+      "finding_tips": "找叶大厚有光泽、晚秋初冬开白花、初夏结橙色可食果的常绿乔木。大种子有毒勿食。"
+    }
+  },
+  "Clinopodium gracile": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウバナ。湿った草地に生える在来種のシソ科。夏〜秋に淡紫色〜白色の唇形花を穂状に立ちます。葉と茎を揉むと弱い香りがあります。",
+      "habitat_hint": "湿った草地、農地の縁、河川敷、神社の境内、半日陰の地面。",
+      "finding_tips": "6〜10月、地面近くに淡紫色の唇形花が段々に並ぶ穂を立てる植物を探します。茎は四角形で、葉は対生する卵形です。"
+    },
+    "en": {
+      "summary": "Slender Wild Basil. A native mint with pale violet-to-white lipped flowers in tiered spikes from summer through autumn. Crushed leaves give a mild fragrance.",
+      "habitat_hint": "Damp meadows, field margins, riverbanks, shrine grounds, and half-shaded ground.",
+      "finding_tips": "From June to October look low for plants with tiered spikes of pale lipped flowers. Square stems and opposite oval leaves confirm the mint family."
+    },
+    "zh": {
+      "summary": "光风轮菜，本土唇形科。夏秋抽淡紫白色唇形花轮生穗。叶搓有淡香。",
+      "habitat_hint": "潮湿草地、田边、河滩、神社境内、半阴地面。",
+      "finding_tips": "六至十月低头找淡紫色唇形花轮生穗的植物。茎四棱配对生卵形叶。"
+    }
+  },
+  "Chelidonium majus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサノオウ。茎を切ると黄橙色の乳液が出る独特の在来種ケシ科。春〜初夏に黄色い4弁花を多数咲かせます。**全草に有毒成分があり、皮膚刺激あり。**",
+      "habitat_hint": "雑木林の林縁、河川敷、空き地、農地の縁、明るい斜面。",
+      "finding_tips": "4〜6月、黄色い4弁花と、深く切れ込んだ葉を持つ植物を探します。茎を折ると黄橙色の乳液が出るのが本種の特徴です。**乳液は皮膚刺激あり。**"
+    },
+    "en": {
+      "summary": "Greater Celandine, a native poppy-family plant. Bright yellow latex pours from a cut stem — a unique field mark. Yellow four-petalled flowers in spring and early summer. **All parts toxic; latex irritates skin.**"
+,      "habitat_hint": "Woodland edges, riverbanks, vacant lots, field margins, and bright slopes.",
+      "finding_tips": "From April to June look for plants with yellow four-petalled flowers and deeply lobed leaves. A cut stem releases yellow-orange latex. **Latex irritates skin; do not handle carelessly.**"
+    },
+    "zh": {
+      "summary": "白屈菜（罂粟科），本土植物。茎断流黄橙色乳汁。春初夏开黄色四瓣花。**全株有毒，乳汁刺激皮肤。**",
+      "habitat_hint": "林缘、河滩、空地、田边、明亮斜坡。",
+      "finding_tips": "四至六月找黄色四瓣花配深裂叶的植物。茎断流黄橙色乳汁。**乳汁刺激皮肤，请小心。**"
+    }
+  },
+  "Zephyranthes candida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマスダレ。南米原産の外来種のヒガンバナ科で、夏〜秋に白い6弁花を咲かせます。雨上がりに一斉に咲く性質から「レインリリー」とも呼ばれます。",
+      "habitat_hint": "庭、公園の花壇、住宅地の植え込み、空き地、道端。",
+      "finding_tips": "8〜10月、特に雨上がりに白い6弁の星型花を地面近くに探します。細長い線形の葉のロゼットも目印。"
+    },
+    "en": {
+      "summary": "Autumn Zephyrlily, a South-American introduced amaryllid. White six-petalled flowers in late summer and autumn — often blooming en masse after rain (hence 'rain lily').",
+      "habitat_hint": "Gardens, park flower beds, residential plantings, vacant lots, and roadsides.",
+      "finding_tips": "From August to October, especially after rain, look low for white six-petalled star-shaped flowers. Narrow strap-shaped leaves form basal rosettes."
+    },
+    "zh": {
+      "summary": "葱莲（玉簾），南美原产外来石蒜科。夏秋开白色六瓣花，常雨后集体开放，因此称『雨百合』。",
+      "habitat_hint": "庭园、公园花坛、住宅区植被、空地、路边。",
+      "finding_tips": "八至十月，尤其雨后，找贴地的白色六瓣星形花。基部细长线形叶莲座。"
+    }
   }
 }
