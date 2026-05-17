@@ -11790,5 +11790,167 @@
       "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
       "finding_tips": "找叶轴密被毛状鳞片的中型常绿耳蕨。属内相似度高，物种区分需专业参考。"
     }
+  },
+  "Prunus mume": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウメ。早春に咲く白〜淡桃色の花が美しい落葉樹で、桜より早く咲き、独特の香りで春の訪れを告げます。果実は梅干し・梅酒に。",
+      "habitat_hint": "庭園、神社の境内、果樹園、公園、住宅地の庭。",
+      "finding_tips": "1〜3月、葉の出る前に白〜淡桃色の5弁花を枝に咲かせ、強い甘い香りを放つ落葉樹を探します。果実は初夏に黄色く熟します。"
+    },
+    "en": {
+      "summary": "Japanese Apricot (Ume). A deciduous tree famous for fragrant white-to-pale-pink flowers in late winter — blooming before sakura and heralding spring. Fruits go into umeboshi (pickled plums) and umeshu (plum liquor).",
+      "habitat_hint": "Gardens, shrine grounds, orchards, parks, and residential gardens.",
+      "finding_tips": "From January to March look for deciduous trees with white-to-pale-pink five-petalled flowers blooming before the leaves emerge, with a strong sweet fragrance. Yellow fruits in early summer."
+    },
+    "zh": {
+      "summary": "梅，落叶乔木。早春叶未展时开白至淡粉色花，比樱花早，浓郁芳香报春。果实做梅干、梅酒。",
+      "habitat_hint": "庭园、神社境内、果园、公园、住宅区庭院。",
+      "finding_tips": "一至三月寻找叶未展时开白至淡粉色五瓣花、香气浓郁的落叶树。初夏黄色果实。"
+    }
+  },
+  "Magnolia kobus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コブシ。早春に大型の白い花を葉の出る前に咲かせる落葉樹。桜の前に春を告げる花として親しまれ、寒さの厳しい地域では「春告げ木」と呼ばれます。",
+      "habitat_hint": "雑木林、神社の境内、公園、街路樹、社寺林、明るい斜面。",
+      "finding_tips": "3〜4月、葉の出る前に枝先に直径10cm程の白い大きな花が咲く落葉樹を探します。蕾の形が拳に似ることが名前の由来です。"
+    },
+    "en": {
+      "summary": "Kobushi Magnolia. A deciduous magnolia famous for large white flowers in early spring before the leaves emerge — a 'spring herald' tree alongside ume. The flower buds resemble closed fists, hence the Japanese name.",
+      "habitat_hint": "Mixed woodland, shrine grounds, parks, street trees, shrine groves, and bright slopes.",
+      "finding_tips": "From March to April look for large white flowers (~10 cm) at branch tips before leaves appear. The fist-shaped buds give the species its Japanese name."
+    },
+    "zh": {
+      "summary": "辛夷（日本辛夷），早春叶未展时开白色大花的落叶玉兰。是与梅花并列的报春树。日文俗名『拳』源自花蕾形似拳头。",
+      "habitat_hint": "杂木林、神社境内、公园、行道树、神社树林、明亮斜坡。",
+      "finding_tips": "三至四月寻找叶未展时枝梢开约 10 cm 白色大花的落叶树。花蕾形似拳头是日文俗名由来。"
+    }
+  },
+  "Lagerstroemia indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サルスベリ。夏に長期間ピンク〜赤・白色の花を咲かせる落葉樹。樹皮がツルツルしていて猿でも滑り落ちることから「サルスベリ」と名付けられました。",
+      "habitat_hint": "庭園、公園、街路樹、神社の境内、住宅地の植え込み。",
+      "finding_tips": "7〜9月、ピンク〜赤・白などの色の花を多数長期間咲かせる落葉樹を探します。樹皮が独特に滑らかで斑模様、葉も小型で対生風です。"
+    },
+    "en": {
+      "summary": "Crepe Myrtle. A deciduous tree famous for long-blooming summer flowers in pink, red, or white. Its Japanese name 'monkey-slipper' refers to bark so smooth even a monkey would slip off it.",
+      "habitat_hint": "Gardens, parks, street trees, shrine grounds, and residential plantings.",
+      "finding_tips": "From July to September look for deciduous trees with masses of crinkly pink, red, or white flowers persisting for months. Bark is exceptionally smooth and patterned."
+    },
+    "zh": {
+      "summary": "紫薇（『百日红』），夏季长时间开粉、红、白等花的落叶树。日文俗名『猴滑树』源自树皮极光滑。",
+      "habitat_hint": "庭园、公园、行道树、神社境内、住宅区植被。",
+      "finding_tips": "七至九月寻找长期开放粉红或白色绉纹花的落叶树。树皮光滑带斑纹是特征。"
+    }
+  },
+  "Lindera umbellata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロモジ。葉や枝に独特の爽やかな香りがある落葉低木。樹皮や葉から抽出した精油は「クロモジ油」として有名で、和菓子の楊枝にも使われます。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、谷沿いの林、明るい斜面。",
+      "finding_tips": "3〜4月、葉と同時に淡黄色の小花が房状に咲く落葉低木を探します。葉や若枝を折ると独特の爽やかな香りがします。"
+    },
+    "en": {
+      "summary": "Japanese Spicebush. A deciduous shrub whose leaves and twigs release a distinct fresh aroma. The aromatic wood is famously used to carve traditional wagashi toothpicks; essential oil is also extracted.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, valley woods, and bright slopes.",
+      "finding_tips": "From March to April look for shrubs with pale yellow flower clusters appearing with the leaves. Snap a twig and the fresh fragrance confirms identification."
+    },
+    "zh": {
+      "summary": "钓樟（黑文字），落叶灌木。叶和枝条具独特清爽香气。木材是和菓子楊枝（牙签）原料，亦提取精油『黑文字油』。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、谷地林、明亮斜坡。",
+      "finding_tips": "三至四月寻找叶与淡黄色花同时出现的落叶灌木。折嫩枝有清爽特殊香气即可确认。"
+    }
+  },
+  "Phylloscopus borealoides": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゾムシクイ。夏鳥として渡来する小型のムシクイ。「ヒー、ツーキー」と二音節の独特の鳴き声で識別できます。山地の針葉樹林を好みます。",
+      "habitat_hint": "山地の針葉樹林、混合林、社寺林、ブナ林。",
+      "finding_tips": "5〜8月、山地の林で「ヒー、ツーキー」という二音節の鳴き声を聞いたら本種。姿はセンダイムシクイに似て小型ですが、声で識別するのが現実的です。"
+    },
+    "en": {
+      "summary": "Sakhalin Leaf Warbler, a small summer-visiting Phylloscopus warbler. Identified by its distinctive two-syllable 'hi-tsuki' song. Prefers mountain conifer forest.",
+      "habitat_hint": "Montane conifer forest, mixed forest, shrine groves, and beech forest.",
+      "finding_tips": "From May to August listen in montane forest for a clear two-syllable song. The bird is small and looks like Eastern Crowned Warbler — song is the practical ID."
+    },
+    "zh": {
+      "summary": "库页岛柳莺（『虾夷虫食』），夏候鸟。叫声为独特双音节『嘶-嘁』。喜山地针叶林。",
+      "habitat_hint": "山地针叶林、混交林、神社树林、山毛榉林。",
+      "finding_tips": "五至八月在山地林听二音节『嘶-嘁』叫声即是。鸟体小似冕柳莺，靠声辨识。"
+    }
+  },
+  "Clematis japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハンショウヅル。在来種のキンポウゲ科つる植物で、初夏に紫色の釣鐘型の花を下向きに咲かせます。「半鐘」のような花の形が名前の由来。",
+      "habitat_hint": "雑木林の林縁、谷沿いの林、神社の境内、社寺林、明るい斜面。",
+      "finding_tips": "5〜6月、つる状の茎から下向きに垂れる紫色の釣鐘型の花を探します。葉は3枚の小葉で、花後の果実には白い綿毛が伸びます。"
+    },
+    "en": {
+      "summary": "Japanese Bell Clematis. A native ranunculaceous vine bearing nodding purple bell-shaped flowers in early summer — likened to a 'fire-bell' (han-shō), hence the Japanese name.",
+      "habitat_hint": "Woodland edges, valley woods, shrine grounds, shrine groves, and bright slopes.",
+      "finding_tips": "From May to June look for vines with nodding purple bell-shaped flowers. Trifoliate leaves; the fruits later develop showy white plumes."
+    },
+    "zh": {
+      "summary": "日本铁线莲（『半钟蔓』），本土毛茛科藤本。初夏开下垂紫色钟形花，形似日本『半钟』而得名。",
+      "habitat_hint": "杂木林林缘、谷地林、神社境内、神社树林、明亮斜坡。",
+      "finding_tips": "五至六月寻找下垂紫色钟形花的藤本。三出叶，果后具白色羽状冠毛。"
+    }
+  },
+  "Osmanthus heterophyllus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒイラギモクセイ（ヒイラギ）。葉の縁に鋭いトゲがある常緑樹で、節分の魔除けに使われます。秋に小さな白い芳香花を咲かせ、生け垣にも広く植栽されます。",
+      "habitat_hint": "神社の境内、住宅地の生け垣、庭園、社寺林、海岸近くの林。",
+      "finding_tips": "葉の縁にトゲがある光沢のある厚い常緑葉を探します。老木では葉のトゲがなくなることがあります。秋〜冬の小さな白い芳香花も目印です。"
+    },
+    "en": {
+      "summary": "False Holly. An evergreen tree whose leaves bear sharp spines along the edges — used in setsubun rituals to ward off demons. Small fragrant white flowers in autumn; widely planted as hedges.",
+      "habitat_hint": "Shrine grounds, residential hedges, gardens, shrine groves, and coastal woods.",
+      "finding_tips": "Look for an evergreen with glossy thick leaves bearing sharp spines along the margins. Old trees may lose the spines. Small fragrant white flowers in autumn-winter."
+    },
+    "zh": {
+      "summary": "刺桂（『柊』），常绿乔木。叶缘具锐刺，是日本节分驱魔用枝。秋季开白色芳香小花。常作绿篱栽培。",
+      "habitat_hint": "神社境内、住宅区绿篱、庭园、神社树林、近海林。",
+      "finding_tips": "找叶厚有光泽、叶缘具锐刺的常绿树。老树叶刺可能消失。秋冬白色芳香小花亦可辨。"
+    }
+  },
+  "Plexippus setipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミスジハエトリ。腹部に縦の3本の縞模様がある中型のハエトリグモ。家屋の壁や塀でよく見られ、跳ねるように歩きます。",
+      "habitat_hint": "家屋の壁、塀、神社の境内の建物、樹幹、岩の隙間。",
+      "finding_tips": "壁面を跳ねるように歩く中型のハエトリグモで、腹部に縦の3本の縞模様があるものを探します。中央の大きな2つの目がハエトリグモ類の証です。"
+    },
+    "en": {
+      "summary": "A medium jumping spider with three longitudinal stripes on the abdomen. Commonly found on house walls and fences; hops along the surface.",
+      "habitat_hint": "House walls, fences, shrine buildings, tree trunks, and rock crevices.",
+      "finding_tips": "On walls look for a medium jumping spider with three lengthwise stripes on the abdomen. The two large central eyes confirm it as a jumping spider."
+    },
+    "zh": {
+      "summary": "三纹跳蛛，中型跳蛛，腹部具 3 条纵纹。常见于民居墙面与围墙，跳跃式行进。",
+      "habitat_hint": "房屋墙面、围墙、神社建筑、树干、岩石缝。",
+      "finding_tips": "在墙面找腹具 3 条纵纹的中型跳蛛。中央两个大眼是跳蛛特征。"
+    }
+  },
+  "Hermetia illucens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカミズアブ。北米原産の外来種の大型のアブで、ハチに擬態した姿。幼虫は腐植質を分解する重要な役割を果たし、近年は食用昆虫としても注目されています。",
+      "habitat_hint": "農地、家庭菜園、河川敷、堆肥、ゴミ置き場、湿った地面。",
+      "finding_tips": "黒地に体節に淡色の模様があるハチ大の大型のアブを探します。**人を刺さない無害なアブ。** 幼虫は黒く、堆肥や生ゴミの中で群がっていることがあります。"
+    },
+    "en": {
+      "summary": "Black Soldier Fly, a North-American introduced large fly that mimics wasps. Larvae are important decomposers and recently noted as a sustainable food/feed source. **Harmless — does not bite.**",
+      "habitat_hint": "Farmland, kitchen gardens, riverbanks, compost piles, refuse sites, and damp ground.",
+      "finding_tips": "Look for a wasp-sized dark fly with pale body segment markings. **Harmless to humans.** Larvae cluster in compost and food waste."
+    },
+    "zh": {
+      "summary": "亮斑扁角水虻（黑水虻），北美原产外来大型虻。拟态胡蜂但**无害不刺人**。幼虫为重要分解者，近年作为可持续蛋白源备受关注。",
+      "habitat_hint": "农田、家庭菜园、河滩、堆肥、垃圾场、潮湿地面。",
+      "finding_tips": "找蜂大、黑色配体节浅斑的大型虻。**对人无害。** 幼虫常成群于堆肥与厨余。"
+    }
   }
 }
