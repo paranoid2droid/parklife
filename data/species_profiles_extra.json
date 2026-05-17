@@ -9522,5 +9522,167 @@
       "habitat_hint": "杂木林倒木、枯枝、地面枯木。",
       "finding_tips": "在朽木上成簇的扇形或半圆形浅色硬质小菌可能即是。耐旱持续。"
     }
+  },
+  "Pieris japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アセビ。早春に白い壺型の小花を多数房状につける常緑低木。漢字で「馬酔木」と書くように葉や花に有毒成分を含み、シカが食べないので里山に多く残ります。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、明るい斜面、谷沿いの林。",
+      "finding_tips": "2〜4月、白い小型の壺〜釣鐘型の花が房状に枝先から垂れる常緑低木を探します。**全草に有毒成分あり、馬・牛・人間も注意。**"
+    },
+    "en": {
+      "summary": "Japanese Andromeda. An evergreen shrub bearing cascades of white urn-shaped flowers in early spring. **All parts are toxic** — its Japanese name 'horse-drunk tree' refers to this; deer avoid it.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, bright slopes, and valley woods.",
+      "finding_tips": "From February to April look for evergreen shrubs draped with white urn-shaped flower racemes. **All parts toxic — do not eat any part.**"
+    },
+    "zh": {
+      "summary": "马醉木，早春开许多白色坛状小花的常绿灌木。**全株有毒**，因鹿不食常在里山保留下来。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、明亮斜坡、谷地林。",
+      "finding_tips": "二至四月寻找枝梢悬垂白色坛状或钟形花序的常绿灌木。**全株有毒，请勿食用任何部分。**"
+    }
+  },
+  "Cosmos sulphureus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キバナコスモス。メキシコ原産の外来種で、鮮やかな橙色〜黄色の花を夏〜秋に咲かせます。観賞用に植栽され、河川敷でも野生化しています。",
+      "habitat_hint": "河川敷、空き地、公園の花壇、農地の縁、明るい斜面。",
+      "finding_tips": "7〜10月、人の腰高ほどの茎の先に鮮やかな橙色〜黄色のコスモス状の花を持つ植物を探します。葉は深く切れ込みます。"
+    },
+    "en": {
+      "summary": "Sulphur Cosmos. A Mexican introduced annual with vivid orange-to-yellow daisy heads in summer and autumn. Planted ornamentally and now naturalised on riverbanks.",
+      "habitat_hint": "Riverbanks, vacant lots, park flower beds, field margins, and bright slopes.",
+      "finding_tips": "From July to October look for waist-high plants with vivid orange-yellow cosmos-like flowers and deeply divided leaves."
+    },
+    "zh": {
+      "summary": "黄秋英（硫华菊），墨西哥原产外来。夏秋开鲜橙至黄色秋英状大花，常植于花坛或在河滩野化。",
+      "habitat_hint": "河滩、空地、公园花坛、田边、明亮斜坡。",
+      "finding_tips": "七至十月寻找腰高、开鲜橙黄色秋英状大花的植物。叶深裂。"
+    }
+  },
+  "Anthocharis scolymus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツマキチョウ。春のみに出現する白いシロチョウで、雄は前翅の先端が橙色なのが目印。短い春季の限られた時期だけ会える「春の妖精」です。",
+      "habitat_hint": "雑木林の林縁、河川敷、農地、明るい斜面、アブラナ科の生える場所。",
+      "finding_tips": "3〜5月、白いチョウで前翅先端が橙色のものを探します。出現期間が短いので、春を意識して観察しに行く必要があります。"
+    },
+    "en": {
+      "summary": "Yellow-tip Butterfly, a spring-only white butterfly. Males have an orange flash on the forewing tip. A 'spring fairy' visible only during a brief seasonal window.",
+      "habitat_hint": "Woodland edges, riverbanks, farmland, bright slopes, and around brassicas.",
+      "finding_tips": "From March to May watch for a white butterfly with an orange-tipped forewing. The flight period is short — search deliberately in spring."
+    },
+    "zh": {
+      "summary": "黄尖襟粉蝶，仅春季出现的白色粉蝶。雄虫前翅尖端橙色，是『春的精灵』。",
+      "habitat_hint": "林缘、河滩、农田、明亮斜坡、有十字花科的地方。",
+      "finding_tips": "三至五月找前翅尖端橙色的白蝶。飞行期短，需春季有意找。"
+    }
+  },
+  "Acanthogobius flavimanus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マハゼ。河口や汽水域に普通の中型のハゼで、釣りの対象魚として親しまれています。秋には水深の浅い場所に集まり、観察しやすくなります。",
+      "habitat_hint": "河口、汽水域、東京湾、河川下流、漁港の周辺。",
+      "finding_tips": "河口の浅瀬で、底に着いている茶褐色の中型の魚を探します。秋には数十cm程度の浅瀬に集まり、釣り人にもよく見られます。"
+    },
+    "en": {
+      "summary": "Yellowfin Goby, a medium goby of estuaries and brackish water. A popular target for hand-line anglers. Best seen in shallow water in autumn.",
+      "habitat_hint": "Estuaries, brackish water, Tokyo Bay, lower rivers, and around fishing harbours.",
+      "finding_tips": "Look on the bottom in estuarine shallows for medium brown-grey fish. Autumn gatherings in 30-cm shallows make them very visible."
+    },
+    "zh": {
+      "summary": "黄鳍虾虎鱼，河口与咸淡水的中型鰕虎鱼。是常见的钓鱼对象。秋季常聚于浅水，易观察。",
+      "habitat_hint": "河口、咸淡水、东京湾、河流下游、渔港周边。",
+      "finding_tips": "河口浅滩底层找棕褐色中型鱼。秋季集于约 30 cm 浅水，可观察。"
+    }
+  },
+  "Tringa nebularia": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオアシシギ。長い緑黄色の脚と細いやや上向きのくちばしを持つ中型のシギ。河口や干潟で「ピョーピョー」と通る声で鳴きます。",
+      "habitat_hint": "河口、干潟、東京湾、湿地、湖岸の浅瀬。",
+      "finding_tips": "脚が緑黄色で長く、くちばしがやや上向きに反る中型シギを探します。「ピョー、ピョー」という鳴き声でも気づきます。"
+    },
+    "en": {
+      "summary": "Common Greenshank, a medium wader with long greenish-yellow legs and a slightly upturned bill. Loud whistled calls reveal it on estuaries.",
+      "habitat_hint": "Estuaries, tidal flats, Tokyo Bay, wetlands, and lake-shore shallows.",
+      "finding_tips": "Greenish-yellow long legs and a slightly upturned bill confirm ID. Listen for the loud 'pyu-pyu' whistle."
+    },
+    "zh": {
+      "summary": "青脚鹬，长黄绿色腿配略向上翘的喙的中型鹬。叫声响亮『噗-噗』，常见于河口与滩涂。",
+      "habitat_hint": "河口、滩涂、东京湾、湿地、湖岸浅水。",
+      "finding_tips": "黄绿色长腿加略翘喙是辨识。响亮『噗-噗』叫声也有助定位。"
+    }
+  },
+  "Lepomis macrochirus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ブルーギル。北米原産の外来種の中型魚で、池や湖に大量に定着し、在来魚を圧迫しています。**特定外来生物に指定され、放流・運搬が禁止。**",
+      "habitat_hint": "池、湖、ダム湖、河川の流れのゆるい場所。",
+      "finding_tips": "池の水面近くで群れて泳ぐ青緑色の体に縞模様の魚を探します。**捕獲したらリリース禁止（特定外来）。**"
+    },
+    "en": {
+      "summary": "Bluegill, a North-American introduced fish that has invaded ponds and lakes across Japan, displacing native fish. **Listed as an Invasive Alien Species — release back to water is prohibited.**",
+      "habitat_hint": "Ponds, lakes, reservoirs, and slow rivers.",
+      "finding_tips": "Look just below the water surface for schools of blue-green striped fish. **If caught, do not release — legally classified as invasive.**"
+    },
+    "zh": {
+      "summary": "蓝鳃太阳鱼，北美原产外来鱼。在日本各地池湖大量定殖，压迫本土鱼类。**被列为特定外来生物，捕获后不得放流。**",
+      "habitat_hint": "池塘、湖泊、水库、缓流河段。",
+      "finding_tips": "在水面附近找蓝绿色带条纹的鱼群。**捕获后不可放回水中（特定外来生物）。**"
+    }
+  },
+  "Sphedanolestes impressicollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シマサシガメ。黒地に橙色の縞模様の中型サシガメ。捕食性で、他の昆虫を口吻で刺して体液を吸います。**素手で触ると刺されることがあるので注意。**",
+      "habitat_hint": "雑木林、河川敷、神社の境内、農地、樹幹。",
+      "finding_tips": "葉や樹幹で黒橙の縞模様の細長い虫を探します。**口吻で刺されると痛いので、観察は遠目に。**"
+    },
+    "en": {
+      "summary": "An assassin bug with bold black-and-orange banding. Predatory — uses its rostrum to inject and feed on other insects. **Can deliver a painful bite if handled.**",
+      "habitat_hint": "Mixed woodland, riverbanks, shrine grounds, farmland, and tree trunks.",
+      "finding_tips": "On leaves and bark look for a slender black-and-orange banded bug. **Observe from a distance — bites are painful.**"
+    },
+    "zh": {
+      "summary": "条纹猎蝽，中型猎蝽，黑底配橙色条纹。捕食性，用口吻刺吸其他昆虫。**徒手碰会被刺，请远观。**",
+      "habitat_hint": "杂木林、河滩、神社境内、农田、树干。",
+      "finding_tips": "在叶或树干找黑橙条纹的细长虫。**口吻刺人疼痛，请远距观察。**"
+    }
+  },
+  "Christella acuminata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "湿った林床に生える中型のシダ。葉は二回羽状で、葉軸に毛があります。湿った場所で群生し、林床のグランドカバー的になります。",
+      "habitat_hint": "湿った林床、谷沿いの林、神社の境内、半日陰の斜面、河川敷の林。",
+      "finding_tips": "湿った林床で、葉軸に毛のある二回羽状の中型シダを探します。葉裏の胞子嚢群は丸く、葉脈の途中に並びます。"
+    },
+    "en": {
+      "summary": "A medium fern of damp forest floor. Bipinnate fronds with hairy rachis; often forms colonies in damp half-shade.",
+      "habitat_hint": "Damp forest floor, valley woods, shrine grounds, shaded slopes, and riverside woods.",
+      "finding_tips": "Look on damp forest floor for a medium bipinnate fern with hairy rachis. Round sori sit along vein midpoints."
+    },
+    "zh": {
+      "summary": "渐尖毛蕨（卵果蕨近缘），潮湿林床的中型蕨。叶轴具毛，二回羽状叶常成片。",
+      "habitat_hint": "潮湿林床、谷地林、神社境内、半阴斜坡、河岸林。",
+      "finding_tips": "在潮湿林床找叶轴具毛、二回羽状的中型蕨。叶背圆形孢子囊群位于叶脉中部。"
+    }
+  },
+  "Deparia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シケシダ。雑木林の林床に普通の常緑シダ。葉は二回羽状で、湿った場所に大群落を作り、林床を覆います。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "中型の二回羽状の常緑シダで、群生する場所を探します。葉軸が淡緑色〜淡褐色で、林床のグランドカバー的に普通に見られます。"
+    },
+    "en": {
+      "summary": "A common evergreen wood fern of mixed woodland understory. Bipinnate fronds; forms large colonies on damp ground and covers the forest floor.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium bipinnate evergreen fern that often blankets damp ground. Pale-green to tan rachis."
+    },
+    "zh": {
+      "summary": "毛叶蹄盖蕨（湿生蹄盖蕨），杂木林林床常见的常绿蕨。二回羽状叶常成片覆地。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找中型二回羽状常绿蕨，常覆地。叶轴浅绿至浅褐色。"
+    }
   }
 }
