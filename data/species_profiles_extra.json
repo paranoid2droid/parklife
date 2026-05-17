@@ -15462,5 +15462,185 @@
       "habitat_hint": "林缘、石墙、岩生地、半阴斜坡、神社林、河岸林岩石。",
       "finding_tips": "全年在林缘与石墙寻找叶细分裂、直立的常绿蕨。叶 3-4 回羽状细裂，纤细如霜柱。"
     }
+  },
+  "Ilex crenata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌツゲ。小型の常緑低木で、生垣や庭木として広く利用。葉が小さく密で、トピアリー（樹形造形）にも使われます。秋に黒い小さな球形果実をつけます。",
+      "habitat_hint": "生垣、庭園、公園植栽、寺社境内、林縁。",
+      "finding_tips": "通年、生垣や庭園で小さく密な葉を持つ常緑低木を探します。果期9〜11月に黒い小球形果をつけます。"
+    },
+    "en": {
+      "summary": "Japanese Holly. A small evergreen shrub widely used as hedging and topiary. Small dense leaves; small black globose fruits in autumn.",
+      "habitat_hint": "Hedges, gardens, park plantings, temple/shrine grounds, and forest edges.",
+      "finding_tips": "Year-round, look in hedges and gardens for evergreen shrubs with small dense leaves. Black small globose fruits September-November."
+    },
+    "zh": {
+      "summary": "钝齿冬青。小型常绿灌木，广作绿篱与造型树。叶小密集，可塑形。秋季结黑色小球形果。",
+      "habitat_hint": "绿篱、庭园、公园栽植、寺社境内、林缘。",
+      "finding_tips": "全年在绿篱与庭园寻找具小型密集叶的常绿灌木。九至十一月结黑色小球形果。"
+    }
+  },
+  "Vitis ficifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エビヅル。日本在来の落葉性ブドウで、林縁や藪に蔓を伸ばします。葉裏に白〜淡褐色の綿毛があり、秋に小さな黒紫色の果実が熟します。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、土手。",
+      "finding_tips": "通年、林縁で蔓性のブドウで葉裏に白〜淡褐色の綿毛があるものを探します。果期9〜10月、小さな黒紫色の果実は食用可（やや酸味）。"
+    },
+    "en": {
+      "summary": "Fig-leaved Grape. A native Japanese deciduous wild grape vining at forest edges. Leaf underside covered in white to pale-brown wool; small purple-black edible fruits ripen in autumn.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and banks.",
+      "finding_tips": "Year-round, look at forest edges for vining grapes with white-to-pale-brown woolly undersides. Fruits September-October — small purple-black, slightly tart."
+    },
+    "zh": {
+      "summary": "蘡薁。日本本土的落叶野葡萄，蔓生于林缘与灌丛。叶背具白至淡褐色绵毛，秋季结紫黑色小果。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、堤岸。",
+      "finding_tips": "全年在林缘寻找叶背具白至淡褐色绵毛的蔓生野葡萄。果期九至十月，紫黑色小果可食微酸。"
+    }
+  },
+  "Viola japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コスミレ。日本に普通な多年草のスミレで、林縁や草地に生えます。葉柄が長く、淡紫色の花を春に咲かせます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、草地、土手、半日陰の道端。",
+      "finding_tips": "3〜5月、明るい林床や草地で長い葉柄と卵形の葉を持つスミレを探します。花色は淡紫色〜白で、距が長いのが特徴。"
+    },
+    "en": {
+      "summary": "Small Japanese Violet. A common perennial violet of forest edges and grasslands. Long-petioled leaves; pale-purple flowers in spring.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, grasslands, banks, and partly shaded roadsides.",
+      "finding_tips": "From March to May look on bright forest floors and grasslands for violets with long petioles and ovate leaves. Flowers pale-purple to white with a long spur."
+    },
+    "zh": {
+      "summary": "小堇菜。日本常见的多年生堇菜，生于林缘与草地。叶柄长，春季开淡紫色花。",
+      "habitat_hint": "明亮杂木林林床、林缘、草地、堤岸、半阴路边。",
+      "finding_tips": "三至五月在明亮林床与草地寻找具长叶柄、卵形叶的堇菜。花淡紫至白色，距长。"
+    }
+  },
+  "Zehneria japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゴキヅル。湿地や水辺に生える蔓性のウリ科。果実が「ゴキ（食器）」のように上半分が蓋のように外れて種子が出ることが和名の由来。",
+      "habitat_hint": "湿地、水田畦、河川敷、ため池の縁、用水路の縁。",
+      "finding_tips": "8〜10月、湿地や水辺で蔓性のウリ科を探します。果実が熟すと上半分がフタのように外れる独特な構造が決め手。"
+    },
+    "en": {
+      "summary": "Japanese Zehneria. A vining cucurbit of wetlands and waterside. The Japanese name 'bowl-vine' refers to the fruit splitting like a lifted lid to release seeds.",
+      "habitat_hint": "Wetlands, paddy bunds, riverbanks, pond edges, and irrigation channel edges.",
+      "finding_tips": "From August to October look at wetlands and waterside for cucurbit vines. The distinctive lid-like upper-half splitting of the ripe fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "盒子草。湿地与水边的蔓生葫芦科。果实成熟时上半像盖子般脱开释放种子，日文俗名因此而来。",
+      "habitat_hint": "湿地、水田田埂、河滩、池塘边、灌溉沟边。",
+      "finding_tips": "八至十月在湿地与水边寻找蔓生葫芦科。果实成熟时上半呈盖状脱开是关键识别。"
+    }
+  },
+  "Hibiscus mutabilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フヨウ。中国原産の大型落葉低木で、夏〜秋に直径10cm以上の大きな花を咲かせます。花色は朝白→夕方ピンクに変化する変種（スイフヨウ）もあります。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、街路樹、住宅地の生垣。",
+      "finding_tips": "8〜10月、庭園や公園で直径10cm以上の大きな淡紅色〜白色の5弁花を咲かせる落葉低木を探します。ムクゲより花が大型で葉が掌状。"
+    },
+    "en": {
+      "summary": "Cotton Rose. A large deciduous Chinese-origin shrub bearing 10+ cm flowers in late summer to autumn. The 'sui-fuyō' variant changes from white in the morning to pink by evening.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, street trees, and residential hedges.",
+      "finding_tips": "From August to October look in gardens and parks for deciduous shrubs with pale-pink to white 5-petalled flowers over 10 cm across. Larger flowers and more palmately lobed leaves than Rose of Sharon."
+    },
+    "zh": {
+      "summary": "木芙蓉。原产中国的大型落叶灌木，夏末至秋开直径 10 厘米以上的大花。变种『醉芙蓉』花色朝白晚粉。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、行道树、住宅区绿篱。",
+      "finding_tips": "八至十月在庭园与公园寻找开淡红至白色五瓣大花（>10 厘米）的落叶灌木。比木槿花大、叶更掌状。"
+    }
+  },
+  "Tanna japonensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒグラシ。日本固有のセミで、夏の夕方と早朝に「カナカナカナ…」と物悲しく鳴きます。雑木林の林縁を好みます。",
+      "habitat_hint": "雑木林、林縁、神社林、河畔林、住宅地の屋敷林。",
+      "finding_tips": "7〜9月、特に夕方と早朝に「カナカナカナ…」と鳴く声で存在を知ります。日中は林内の暗い場所で鳴くことが多いです。"
+    },
+    "en": {
+      "summary": "Evening Cicada. A Japan-endemic cicada that sings 'kana-kana-kana...' with a wistful tone at dusk and dawn in summer. Prefers secondary woodland edges.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, riparian woods, and residential groves.",
+      "finding_tips": "From July to September, especially at dusk and dawn, identify by the wistful 'kana-kana-kana...' call. Often sings from shaded interior of woodlands during the day."
+    },
+    "zh": {
+      "summary": "茅蜩（日本暮蝉）。日本固有蝉，夏季黄昏与清晨发出『kana-kana-kana...』哀切鸣声。喜雑木林林缘。",
+      "habitat_hint": "杂木林、林缘、神社林、河岸林、住宅区屋林。",
+      "finding_tips": "七至九月，尤其黄昏与清晨可凭『kana-kana...』哀切鸣声识别。白天多在林内荫暗处鸣叫。"
+    }
+  },
+  "Eretes griseus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハイイロゲンゴロウ。中型の水生甲虫で、灰褐色の楕円形の体。止水域に普通で、夜間には灯火に飛来します。",
+      "habitat_hint": "ため池、湖沼、水田、湿地、河川敷の溜まり水。",
+      "finding_tips": "通年（暖かい季節に活動的）、ため池や水田で水草の中を泳ぐ灰褐色の楕円形ゲンゴロウを探します。夜は外灯に飛来します。"
+    },
+    "en": {
+      "summary": "Grey Diving Beetle. A medium aquatic beetle with greyish-brown oval body. Common in still water; comes to lights at night.",
+      "habitat_hint": "Ponds, lakes, rice paddies, wetlands, and standing water on riverbanks.",
+      "finding_tips": "Year-round (most active in warm seasons), look in ponds and paddies for greyish-brown oval diving beetles among aquatic plants. Comes to lights at night."
+    },
+    "zh": {
+      "summary": "灰龙虱。中型水生甲虫，灰褐色椭圆形体。止水域常见，夜间趋光。",
+      "habitat_hint": "池塘、湖沼、水田、湿地、河滩积水。",
+      "finding_tips": "全年（暖季活跃）在池塘与水田水草间寻找灰褐色椭圆形龙虱。夜间趋向灯光。"
+    }
+  },
+  "Agrilus discalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒシモンナガタマムシ。細長い体型の小型タマムシで、上翅に菱形（ヒシ）状の模様があります。広葉樹の枯枝で幼虫が育ちます。",
+      "habitat_hint": "雑木林の枯枝、樹液の出る樹、林縁、果樹園、神社林。",
+      "finding_tips": "5〜8月、雑木林の枯枝や葉上で細長い金属光沢のあるタマムシを探します。上翅の菱形模様が識別の決め手。"
+    },
+    "en": {
+      "summary": "Diamond-pattern Jewel Beetle. A small slender jewel beetle with diamond (lozenge) patterns on the elytra. Larvae develop in dead broadleaf branches.",
+      "habitat_hint": "Dead branches in secondary woodlands, sap-flowing trees, forest edges, orchards, and shrine groves.",
+      "finding_tips": "From May to August look on dead branches and foliage in secondary woodlands for slender metallic jewel beetles. The diamond-shaped marks on the elytra are diagnostic."
+    },
+    "zh": {
+      "summary": "菱纹长吉丁。细长小型吉丁，鞘翅上具菱形纹。幼虫蛀食阔叶枯枝。",
+      "habitat_hint": "杂木林枯枝、出树液的树、林缘、果园、神社林。",
+      "finding_tips": "五至八月在杂木林枯枝与叶上寻找细长金属光泽吉丁。鞘翅菱形纹是关键识别。"
+    }
+  },
+  "Callosciurus erythraeus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クリハラリス（タイワンリス）。台湾原産の中型リスで、神奈川県を中心に野生化し増加。在来種への影響が問題視されています。",
+      "habitat_hint": "雑木林、公園、神社林、住宅地の植え込み（特に神奈川県）。",
+      "finding_tips": "通年、神奈川県の雑木林や公園で長い尾の中型リスを探します。日本固有のニホンリスより一回り大きく、灰褐色〜赤褐色。"
+    },
+    "en": {
+      "summary": "Pallas's Squirrel (Taiwan Squirrel). A medium squirrel from Taiwan, naturalised and increasing especially in Kanagawa Prefecture. Causes concern as a threat to native species.",
+      "habitat_hint": "Secondary woodlands, parks, shrine groves, and residential plantings (especially in Kanagawa).",
+      "finding_tips": "Year-round, in Kanagawa woodlands and parks look for medium squirrels with long tails. Larger than the native Japanese Squirrel; greyish-brown to reddish-brown."
+    },
+    "zh": {
+      "summary": "赤腹松鼠（台湾松鼠）。原产台湾的中型松鼠，在神奈川县野化扩散。被认为威胁本土物种。",
+      "habitat_hint": "杂木林、公园、神社林、住宅区栽植（尤神奈川县）。",
+      "finding_tips": "全年在神奈川县杂木林与公园寻找长尾中型松鼠。比本土松鼠略大，灰褐至红褐色。"
+    }
+  },
+  "Acanthosoma firmatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオツノカメムシ。大型のカメムシで、胸部の両側に鋭く突き出た角があるのが和名と識別の決め手。ミズキ類の実を吸います。",
+      "habitat_hint": "雑木林、ミズキやヤマボウシのある林縁、河畔林、公園の大木。",
+      "finding_tips": "8〜10月、ミズキやヤマボウシの実が熟す頃、その葉や実の周辺で胸の両側に鋭い角を持つ大型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Sharp-shouldered Stink Bug. A large stink bug with sharply pointed projections on each side of the pronotum — the diagnostic feature and source of the Japanese name. Feeds on dogwood fruits.",
+      "habitat_hint": "Secondary woodlands, forest edges with dogwood or kousa dogwood, riparian woods, and large park trees.",
+      "finding_tips": "From August to October when dogwood fruits ripen, look on the foliage and fruits for large stink bugs with sharp-pointed shoulders."
+    },
+    "zh": {
+      "summary": "宽尖角蝽。大型椿象，前胸两侧具锐角突出，是关键识别与日文俗名由来。吸食梾木类果实。",
+      "habitat_hint": "杂木林、有梾木与四照花的林缘、河岸林、公园大树。",
+      "finding_tips": "八至十月梾木与四照花果实成熟时，于其叶与果实周边寻找具锐角突起的大型椿象。"
+    }
   }
 }
