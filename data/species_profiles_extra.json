@@ -16902,5 +16902,185 @@
       "habitat_hint": "杂木林林缘、河岸林、神社林、公园树冠、半阴小径。",
       "finding_tips": "五至九月在杂木林林缘寻找黑底白带的中型蝶。扑翼后滑翔的飞行方式是关键识别。"
     }
+  },
+  "Anarhynchus mongolus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メダイチドリ。日本では春・秋の渡り期に干潟や河口で見られる中型のチドリ。夏羽は胸が鮮やかな赤褐色になります。",
+      "habitat_hint": "干潟、河口、塩性湿地、海岸の砂浜、内陸の湿地。",
+      "finding_tips": "4〜5月と8〜10月、干潟や河口で中型のチドリ類を探します。夏羽の胸の赤褐色が決め手。冬羽は灰褐色で地味です。"
+    },
+    "en": {
+      "summary": "Lesser Sand Plover (sensu lato). A medium plover seen in Japan on mudflats and estuaries during spring and autumn migration. Breeding plumage shows brilliant rufous breast.",
+      "habitat_hint": "Mudflats, estuaries, salt marshes, sandy beaches, and inland wetlands.",
+      "finding_tips": "From April-May and August-October look on mudflats and estuaries for medium plovers. Rufous breast in breeding plumage is diagnostic; winter plumage is plain greyish-brown."
+    },
+    "zh": {
+      "summary": "蒙古沙鸻（广义）。日本春秋迁徙期见于滩涂与河口的中型鸻。繁殖羽胸部鲜艳红褐色。",
+      "habitat_hint": "滩涂、河口、盐沼、海岸沙滩、内陆湿地。",
+      "finding_tips": "四至五月与八至十月在滩涂与河口寻找中型鸻。繁殖羽胸部红褐色是关键识别。冬羽灰褐色不显眼。"
+    }
+  },
+  "Egretta sacra": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロサギ。海岸に住む中型のサギで、黒色型と白色型の2型があります。日本では主に岩礁性海岸で繁殖し、波打ち際で魚を捕えます。",
+      "habitat_hint": "岩礁性海岸、磯、防波堤、河口、漁港。",
+      "finding_tips": "通年、岩礁性海岸の波打ち際で中型のサギを探します。日本では黒色型が多く、波と岩の間でじっと立って獲物を待つ姿が観察できます。"
+    },
+    "en": {
+      "summary": "Pacific Reef Heron. A medium heron of rocky coasts, occurring in dark and light colour morphs. Breeds mainly on rocky shores in Japan; hunts fish at the water's edge.",
+      "habitat_hint": "Rocky coasts, intertidal rocks, breakwaters, estuaries, and fishing harbours.",
+      "finding_tips": "Year-round, look on rocky coasts at the water's edge for medium herons. Dark morph dominates in Japan; watch for them standing still among waves and rocks waiting for prey."
+    },
+    "zh": {
+      "summary": "岩鹭。栖于海岸的中型鹭，分黑色型与白色型两种。日本主要在岩礁海岸繁殖，于浪边捕鱼。",
+      "habitat_hint": "岩礁海岸、潮间带礁石、防波堤、河口、渔港。",
+      "finding_tips": "全年在岩礁海岸的浪边寻找中型鹭。日本以黑色型为主，常立于波浪与礁石间静候猎物。"
+    }
+  },
+  "Pectocera fortunei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒゲコメツキ。大型のコメツキムシで、雄の触角が長く櫛状に発達するのが和名と識別の決め手。広葉樹の朽木で幼虫が育ちます。",
+      "habitat_hint": "雑木林の朽木、樹液の出る樹、林縁、神社林、河畔林。",
+      "finding_tips": "5〜7月、雑木林で長い櫛状触角を持つ大型のコメツキムシを探します。雄の触角の発達が雌より顕著です。"
+    },
+    "en": {
+      "summary": "Long-antennaed Click Beetle. A large click beetle in which males have long pectinate (comb-like) antennae — the source of the Japanese name 'beard click'. Larvae develop in dead broadleaf wood.",
+      "habitat_hint": "Rotting wood in secondary woodlands, sap-flowing trees, forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to July look in secondary woodlands for large click beetles with long comb-like antennae. Antennae are more developed in males than females."
+    },
+    "zh": {
+      "summary": "栉触角叩头虫。大型叩头甲，雄性触角长且呈栉齿状，是日文俗名『胡须叩头虫』由来。幼虫蛀阔叶朽木。",
+      "habitat_hint": "杂木林朽木、出树液的树、林缘、神社林、河岸林。",
+      "finding_tips": "五至七月在杂木林寻找具长栉齿状触角的大型叩头甲。雄性触角比雌性更发达。"
+    }
+  },
+  "Icerya purchasi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イセリアカイガラムシ。柑橘類などに付く大型のカイガラムシ。雌成虫は白い綿毛のような卵嚢を背負っており、これが目立ちます。",
+      "habitat_hint": "柑橘類、果樹、街路樹、公園植栽、住宅地の庭木。",
+      "finding_tips": "通年、柑橘類などの枝や葉裏で白い綿毛のような卵嚢を背負ったカイガラムシを探します。天敵のベダリアテントウが導入され生物的防除に成功した有名な例です。"
+    },
+    "en": {
+      "summary": "Cottony Cushion Scale. A large scale insect attacking citrus and other trees. Adult females carry a conspicuous white cotton-like egg sac on their backs. Famous as a successful biological control case — the Vedalia ladybird was introduced as its natural enemy.",
+      "habitat_hint": "Citrus trees, fruit trees, street trees, park plantings, and residential trees.",
+      "finding_tips": "Year-round, look on citrus branches and leaf undersides for scale insects with white cotton-like egg sacs on their backs."
+    },
+    "zh": {
+      "summary": "吹绵蚧。寄生于柑橘类等的大型介壳虫。雌成虫背负白色棉絮状卵囊显眼。是著名的生物防治成功案例（澳洲瓢虫被引入作天敌）。",
+      "habitat_hint": "柑橘、果树、行道树、公园栽植、住宅区庭树。",
+      "finding_tips": "全年在柑橘枝条与叶背寻找背负白色棉絮状卵囊的介壳虫。"
+    }
+  },
+  "Paracercion calamorum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロイトトンボ。日本に普通な小型のイトトンボ。雄の腹端は鮮やかな青色、体は黒色基調。池や湿地の岸辺で見られます。",
+      "habitat_hint": "ため池、湿地、水田、ゆるやかな川の岸辺、公園の池。",
+      "finding_tips": "5〜9月、池や湿地の岸辺で黒い体に腹端が青いイトトンボを探します。雄雌が連結して水草に止まる姿もよく見られます。"
+    },
+    "en": {
+      "summary": "A common small damselfly in Japan. Males have a bright blue abdomen tip on an otherwise black body. Found at pond and wetland edges.",
+      "habitat_hint": "Ponds, wetlands, rice paddies, slow river edges, and park ponds.",
+      "finding_tips": "From May to September look at pond and wetland edges for black damselflies with bright blue abdomen tips. Often seen with male and female in tandem on aquatic plants."
+    },
+    "zh": {
+      "summary": "黑细蟌。日本常见的小型蟌。雄性腹端鲜艳蓝色，身体以黑色为主。常见于池塘与湿地岸边。",
+      "habitat_hint": "池塘、湿地、水田、缓流河边、公园池塘。",
+      "finding_tips": "五至九月在池塘与湿地岸边寻找黑色身体、腹端蓝色的蟌。常见雌雄连结停于水草。"
+    }
+  },
+  "Myrmarachne elongata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤガタアリグモ。アリに擬態した細長いハエトリグモ。8本の脚のうち1対を触角のように使う動きが特徴で、見た目はほぼ完全にアリ。",
+      "habitat_hint": "雑木林の樹幹、葉上、林縁、神社林、河畔林。",
+      "finding_tips": "5〜10月、樹幹や葉上で「アリのような姿」のクモを探します。前脚を触角のように動かしながら歩くため非常に紛らわしい。"
+    },
+    "en": {
+      "summary": "An ant-mimicking elongated jumping spider. Uses one pair of its 8 legs as fake antennae; the resemblance to ants is near-perfect.",
+      "habitat_hint": "Tree trunks, foliage in secondary woodlands, forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to October look on tree trunks and foliage for 'ant-like' spiders. They wave the front legs like antennae while walking, making them very deceptive."
+    },
+    "zh": {
+      "summary": "拟蚁蛛属一种。拟态蚂蚁的细长跳蛛。8 足中前一对模拟触角运动，外观几乎完全像蚂蚁。",
+      "habitat_hint": "杂木林树干、叶上、林缘、神社林、河岸林。",
+      "finding_tips": "五至十月在树干与叶上寻找『似蚂蚁』的蜘蛛。前足如触角般挥动行走，极易混淆。"
+    }
+  },
+  "Misgurnus anguillicaudatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ドジョウ。水田や湿地、用水路の底質に住む細長い淡水魚。口の周りに10本の口ひげがあり、泥の中の有機物を食べます。空気呼吸もできます。",
+      "habitat_hint": "水田、用水路、湿地、ため池、緩流の小川。",
+      "finding_tips": "通年、水田や用水路の泥の中、または水草の根元で細長い茶褐色の魚を探します。釣りでも捕獲できますが、近年は減少傾向。"
+    },
+    "en": {
+      "summary": "Pond Loach. A slender freshwater fish living in mud bottoms of paddies, wetlands, and ditches. Ten barbels around the mouth; feeds on organic matter in mud. Can also breathe air.",
+      "habitat_hint": "Rice paddies, irrigation channels, wetlands, ponds, and slow streams.",
+      "finding_tips": "Year-round, look in mud and under aquatic plant roots in paddies and ditches for slender brown fish. Catchable by fishing, but populations declining recently."
+    },
+    "zh": {
+      "summary": "泥鳅。栖于水田、湿地、灌溉沟泥底的细长淡水鱼。口周具 10 根口须，食泥中有机物。可空气呼吸。",
+      "habitat_hint": "水田、灌溉沟、湿地、池塘、缓流小溪。",
+      "finding_tips": "全年在水田与灌溉沟的泥中或水草根部寻找细长茶褐色鱼。可垂钓，但近年数量减少。"
+    }
+  },
+  "Carex brownii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゴメスゲ。湿地や水田の畦に生える多年生のスゲ。果穂が小さく目立たないことが「コゴメ」（小さい米）の名の由来。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "5〜7月、湿地や水田畦で線形の葉と小さな果穂を持つ多年生スゲを探します。同属の他種より小型で目立たないのが特徴。"
+    },
+    "en": {
+      "summary": "Brown's Sedge. A perennial sedge of wetlands and paddy bunds. Small inconspicuous fruiting spikes — the Japanese name 'small-rice' refers to these small fruits.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From May to July look in wetlands and paddy bunds for perennial sedges with linear leaves and small fruiting spikes. Smaller and less conspicuous than related species."
+    },
+    "zh": {
+      "summary": "布朗苔草。湿地与水田田埂的多年生莎草。果穗小不显眼，日文俗名『小米』由此。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "五至七月在湿地与田埂寻找具线形叶、小型果穗的多年生莎草。比近缘种更小、更不显眼。"
+    }
+  },
+  "Rubus microphyllus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニガイチゴ。落葉性の小型キイチゴで、林縁や明るい林床に生えます。果実は赤く食用可ですが、種子部分にやや苦味があり、それが和名の由来。",
+      "habitat_hint": "明るい雑木林の林床、林縁、二次林、土手、河川敷の藪。",
+      "finding_tips": "花期4〜5月、果期6〜7月。林縁で白い5弁花、後に赤い小さなイチゴ状の果実をつける落葉低木を探します。茎には小さな棘が密生。"
+    },
+    "en": {
+      "summary": "Small-leaved Bramble. A deciduous small bramble of forest edges and bright forest floors. Red fruits are edible but slightly bitter at the seeds — the source of the Japanese name 'bitter-berry'.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, secondary woods, banks, and riverside thickets.",
+      "finding_tips": "Flowers April-May; fruits June-July. Look at forest edges for deciduous shrubs with white 5-petalled flowers followed by small red berry-like fruits. Stems densely prickled."
+    },
+    "zh": {
+      "summary": "苦悬钩子。落叶小型悬钩子，生于林缘与明亮林床。果实红色可食但种子部位略苦，日文俗名『苦莓』由此。",
+      "habitat_hint": "明亮杂木林林床、林缘、次生林、堤岸、河滩灌丛。",
+      "finding_tips": "花期四至五月，果期六至七月。在林缘寻找开白色五瓣花、后结红色悬钩子状小果的落叶灌木。茎密被小刺。"
+    }
+  },
+  "Carpesium divaricatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブタバコの近縁。湿った林床や林縁に生える多年草のキク科。葉が大きく卵形で、下向きの黄色い小さな頭花を多数つけます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、神社林。",
+      "finding_tips": "8〜10月、湿った林床や林縁で大型の卵形の葉と下向きの黄色い小さな頭花を多数つける多年草を探します。"
+    },
+    "en": {
+      "summary": "Divaricate Carpesium. Related to common Carpesium. A Lamiaceae perennial of damp forest floors and edges. Large ovate leaves; many small downward-facing yellow flower heads.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and shrine groves.",
+      "finding_tips": "From August to October look on damp forest floors and edges for perennials with large ovate leaves and many small downward-facing yellow flower heads."
+    },
+    "zh": {
+      "summary": "天名精属一种（叉枝天名精）。潮湿林床与林缘的菊科多年草。叶大型卵形，密生下垂黄色小头状花。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
+      "finding_tips": "八至十月在潮湿林床与林缘寻找具大型卵形叶、密生下垂黄色小头状花的多年草。"
+    }
   }
 }
