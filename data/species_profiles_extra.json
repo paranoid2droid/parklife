@@ -18342,5 +18342,185 @@
       "habitat_hint": "菜地、路边、草坪、空地、农田边缘、路面缝。",
       "finding_tips": "六至十月在菜地与路边寻找具小型对生叶、淡紫色小唇形花的小型一年草。茎四棱形匍匐生长。"
     }
+  },
+  "Cyrtomium laetevirens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "テリハヤブソテツ。湿った林床に生える常緑シダで、ヤブソテツに似ますが葉が光沢のある明るい緑色（テリハ）であることが識別の決め手。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で光沢のある明るい緑色の単羽状常緑シダを探します。葉表の光沢がヤブソテツとの区別点。"
+    },
+    "en": {
+      "summary": "Bright Holly Fern. An evergreen fern of damp forest floors. Similar to Holly Fern (Cyrtomium fortunei) but with glossier, brighter-green fronds — the diagnostic feature.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for evergreen simply pinnate ferns with glossier, brighter-green fronds. The leaf gloss distinguishes it from Cyrtomium fortunei."
+    },
+    "zh": {
+      "summary": "亮叶贯众。潮湿林床的常绿蕨，似贯众但叶面具光泽且色明亮『照叶』为关键识别。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找叶面具光泽、亮绿色的一回羽状常绿蕨。叶面光泽与普通贯众区分。"
+    }
+  },
+  "Mosla scabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマジソ。明るい林縁や草地に生える一年草のシソ科。葉を揉むと独特のシソ様の香りがあり、秋に淡紅紫色の小さな唇形花を穂状に咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の道端、河川敷の草地。",
+      "finding_tips": "9〜10月、明るい林縁や草地で淡紅紫色の唇形花の穂を持つ一年生シソ科を探します。葉を揉むとシソ様の独特の香りがあります。"
+    },
+    "en": {
+      "summary": "Scabrous Mosla. An annual Lamiaceae of bright forest edges and grasslands. Crushed leaves give a distinctive shiso-like aroma; pale-purple small lipped flowers in spikes in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded roadsides, and riverside grasslands.",
+      "finding_tips": "From September to October look at bright forest edges and grasslands for annual Lamiaceae with spikes of pale-purple lipped flowers. Crushed leaves smell distinctively of shiso."
+    },
+    "zh": {
+      "summary": "石荠苧。明亮林缘与草地的一年生唇形科。叶揉碎散发独特紫苏样香气，秋季穗状开淡红紫色小型唇形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴路边、河滩草地。",
+      "finding_tips": "九至十月在明亮林缘与草地寻找具淡红紫色唇形花穗的一年生唇形科。揉碎叶有独特紫苏样香气。"
+    }
+  },
+  "Carex thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アゼスゲ。湿地や水田畦に生える多年生のスゲ。細長い葉と短く密集した雌穂を持ち、湿地の代表的なスゲの一つ。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "4〜6月、湿地や水田畦で細長い葉と短く密集した雌穂を持つ多年生スゲを探します。群生して湿地を覆うことが多い。"
+    },
+    "en": {
+      "summary": "Thunberg's Sedge. A perennial sedge of wetlands and paddy bunds. Slender leaves; short densely packed female spikes. One of the iconic sedges of wetland habitats.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From April to June look in wetlands and paddy bunds for perennial sedges with slender leaves and short densely packed female spikes. Often forms wetland-covering colonies."
+    },
+    "zh": {
+      "summary": "田埂苔草（日本苔草）。湿地与水田田埂的多年生莎草。叶细长，雌穗短而密集，是湿地代表性莎草之一。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "四至六月在湿地与水田田埂寻找具细长叶、短密集雌穗的多年生莎草。常成片覆盖湿地。"
+    }
+  },
+  "Aralia cordata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウド。山地の林縁に生える大型の多年草で、若芽は山菜として珍重されます。背丈は1〜2mに達し、夏に淡黄白色の球状散形花序を多数つけます。",
+      "habitat_hint": "明るい雑木林の林縁、二次林、河畔林、神社林、半日陰の斜面。",
+      "finding_tips": "通年（春の若芽が食用）。林縁で大型の2回〜3回羽状複葉と、夏に淡黄白色の球状散形花序を多数つける多年草を探します。"
+    },
+    "en": {
+      "summary": "Japanese Spikenard (Udo). A large perennial of montane forest edges; young shoots are a prized wild vegetable. Reaches 1-2 m tall; many pale yellowish-white globose umbels in summer.",
+      "habitat_hint": "Bright secondary woodland edges, secondary woods, riparian woods, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Year-round (spring shoots edible). Look at forest edges for large perennials with 2-3 times pinnately compound leaves and many pale yellowish-white globose umbels in summer."
+    },
+    "zh": {
+      "summary": "食用土当归（Udo）。山地林缘的大型多年草，嫩芽为珍贵山菜。高 1-2 米，夏季密生淡黄白色球形伞形花序。",
+      "habitat_hint": "明亮杂木林林缘、次生林、河岸林、神社林、半阴斜坡。",
+      "finding_tips": "全年（春芽食用）在林缘寻找具大型 2-3 回羽状复叶、夏季密生淡黄白色球形伞形花序的多年草。"
+    }
+  },
+  "Zhangixalus schlegelii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シュレーゲルアオガエル。日本固有のアオガエルで、水田や湿地周辺で繁殖します。鮮緑色の体色で、田んぼの畦の土の中に泡状の卵塊を産み付けます。",
+      "habitat_hint": "水田、湿地、ため池、河川敷の湿地、丘陵地の谷。",
+      "finding_tips": "繁殖期4〜6月、夜間に田んぼの畦から「コロコロコロ…」と鳴く声で存在を知ります。鮮緑色の小型〜中型のカエルで、雨上がりの夜が最も発見しやすい。"
+    },
+    "en": {
+      "summary": "Schlegel's Green Tree Frog. A Japan-endemic tree frog breeding around rice paddies and wetlands. Bright green; lays foam egg masses in burrows in paddy bunds.",
+      "habitat_hint": "Rice paddies, wetlands, ponds, wet riverbanks, and valley bottoms in hill country.",
+      "finding_tips": "Breeding April-June. At night the 'kolo-kolo-kolo...' call from paddy bunds reveals its presence. Small to medium bright-green frog; easiest to find on humid nights after rain."
+    },
+    "zh": {
+      "summary": "施氏树蛙。日本固有树蛙，在水田与湿地周边繁殖。鲜艳绿色，于田埂土中产泡沫状卵块。",
+      "habitat_hint": "水田、湿地、池塘、河滩湿地、丘陵谷地。",
+      "finding_tips": "繁殖期四至六月，夜间田埂传出『kolo-kolo-kolo...』鸣声可示其存在。中小型鲜绿色蛙，雨后湿润夜晚最易见。"
+    }
+  },
+  "Aeginetia indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナンバンギセル。ススキやイネ科植物の根に寄生する寄生植物で、光合成をしません。秋に紫色の独特なキセル（パイプ）状の花を地面近くに咲かせます。",
+      "habitat_hint": "ススキ草地、ヨシ原、サトウキビ畑、河川敷のススキ群落、神社林の草地。",
+      "finding_tips": "9〜10月、ススキ草原やヨシ原の根元で紫色のキセル状の独特な花を地面近くに探します。葉緑素を持たないため葉は退化。"
+    },
+    "en": {
+      "summary": "Indian Broomrape. A parasitic plant on Miscanthus and other grass roots; lacks chlorophyll. Distinctive purple pipe-shaped flowers near the ground in autumn.",
+      "habitat_hint": "Miscanthus grasslands, reed beds, sugarcane fields, Miscanthus stands on riverbanks, and shrine grove grasslands.",
+      "finding_tips": "From September to October look near the bases of Miscanthus and reeds for purple pipe-shaped flowers close to the ground. Leaves are reduced (no chlorophyll)."
+    },
+    "zh": {
+      "summary": "野菰。寄生于芒草等禾本科根的寄生植物，不行光合作用。秋季在地面附近开放紫色独特烟斗状花。",
+      "habitat_hint": "芒草草地、芦苇丛、甘蔗田、河滩芒草群落、神社林草地。",
+      "finding_tips": "九至十月在芒草与芦苇根部寻找贴地开放的紫色烟斗状花。叶退化（无叶绿素）。"
+    }
+  },
+  "Liriope minor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメヤブラン。林床や明るい林縁に生える常緑の小型多年草。細い線形の葉が密集して株状になり、夏に淡紫色の小花を穂状に咲かせます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "7〜9月、明るい林床で細い線形の葉が叢生し、淡紫色の小花が穂状に並ぶ常緑多年草を探します。ヤブランより小型。"
+    },
+    "en": {
+      "summary": "Small Liriope. A small evergreen perennial of forest floors and bright forest edges. Narrow linear leaves form dense tussocks; pale-purple small flowers in spikes in summer.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From July to September look on bright forest floors for evergreen perennials with narrow linear leaves in dense tussocks and spikes of pale-purple flowers. Smaller than common Liriope."
+    },
+    "zh": {
+      "summary": "小山麦冬。林床与明亮林缘的小型常绿多年草。细线形叶丛生，夏季穗状开淡紫色小花。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "七至九月在明亮林床寻找具细线形叶丛生、淡紫色穗状小花的常绿多年草。比山麦冬更小。"
+    }
+  },
+  "Hypena subcyanea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオアツバ。青みを帯びた黒褐色の翅を持つ中型のヤガ科。樹幹や葉裏で休み、夜間に活動します。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で青みを帯びた黒褐色の翅を持つ中型ガを探します。夜間外灯にも飛来します。"
+    },
+    "en": {
+      "summary": "Blue-tinged Noctuid. A medium noctuid moth with bluish-tinged dark brown wings. Rests on tree trunks and leaf undersides; nocturnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for medium moths with bluish-tinged dark brown wings. Comes to lights at night."
+    },
+    "zh": {
+      "summary": "蓝晕枯叶夜蛾。翅带蓝色色调的暗褐色中型夜蛾。停于树干与叶背，夜间活动。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找具蓝色调暗褐色翅的中型蛾。夜间趋光。"
+    }
+  },
+  "Eristalinus quinquestriatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キゴシハナアブ。腰部に黄色い帯がある中型のハナアブ。花で吸蜜し、ハチに擬態した姿で身を守ります。幼虫は腐敗水中で育ちます。",
+      "habitat_hint": "花のある草地、農地、林縁、公園の花壇、河川敷、湿地周辺。",
+      "finding_tips": "4〜10月、花の周りで腰部に黄色い帯がある中型のハナアブを探します。ハチに似ますが翅は2枚のハナアブで人を刺しません。"
+    },
+    "en": {
+      "summary": "Yellow-waisted Hoverfly. A medium hoverfly with a yellow band at the waist. Nectars on flowers; wasp-mimicking colour for protection. Larvae develop in stagnant water.",
+      "habitat_hint": "Flowering grasslands, farmland, forest edges, park flower beds, riverbanks, and around wetlands.",
+      "finding_tips": "From April to October look around flowers for medium hoverflies with a yellow band at the waist. Wasp-like but only two wings — does not sting."
+    },
+    "zh": {
+      "summary": "黄腰食蚜蝇。腰部具黄色横带的中型食蚜蝇。访花吸蜜，拟态蜂保护自己。幼虫在腐烂水中发育。",
+      "habitat_hint": "开花草地、农田、林缘、公园花坛、河滩、湿地周边。",
+      "finding_tips": "四至十月在花朵周边寻找腰部黄带的中型食蚜蝇。形似蜂但仅 2 翅，不会蜇人。"
+    }
+  },
+  "Rhene atrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラスハエトリ。黒地に白い斑紋がある小型のハエトリグモ。葉や樹幹で素早く跳んで虫を捕えます。雄は腹部に白い帯模様。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、公園、住宅地の庭。",
+      "finding_tips": "5〜10月、葉や樹幹で黒地に白斑のある小型のハエトリグモを探します。素早く跳ぶ動きが特徴。"
+    },
+    "en": {
+      "summary": "Crow Jumping Spider. A small jumping spider, black with white markings. Hunts insects on leaves and tree trunks with rapid jumps. Males have white abdominal bands.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, parks, and residential gardens.",
+      "finding_tips": "From May to October look on leaves and tree trunks for small jumping spiders, black with white markings. Rapid jumping movement is diagnostic."
+    },
+    "zh": {
+      "summary": "黑色蝇虎。黑底配白色斑纹的小型跳蛛。在叶与树干快速跳跃捕食昆虫。雄性腹部具白色横带。",
+      "habitat_hint": "杂木林、林缘、农田、果园、公园、住宅区庭院。",
+      "finding_tips": "五至十月在叶与树干寻找黑底白斑的小型跳蛛。快速跳跃运动是关键识别。"
+    }
   }
 }
