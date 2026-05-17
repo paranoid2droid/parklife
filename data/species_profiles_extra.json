@@ -21780,5 +21780,185 @@
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、河滩草地。",
       "finding_tips": "七至十月在明亮林缘与草地寻找具 2 小叶、淡紫色蝶形花穗的多年草。叶似南天竹是识别要点。"
     }
+  },
+  "Hypericum japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメオトギリ。湿地や水田畦、河川敷に生える小型一年〜多年草のオトギリソウ科。葉に黒い油点があり、夏に黄色い小さな5弁花を咲かせます。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、休耕田、湿った草地。",
+      "finding_tips": "7〜9月、湿地や水田畦で対生の小さな葉と黄色い小さな5弁花を持つ小型草本を探します。葉に黒い油点があるか確認。"
+    },
+    "en": {
+      "summary": "Matted St. John's Wort. A small annual to perennial Hypericaceae of wetlands, paddy bunds, and riverbanks. Leaves with black oil glands; small yellow 5-petalled flowers in summer.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, fallow paddies, and damp grasslands.",
+      "finding_tips": "From July to September look in wetlands and paddy bunds for small herbs with small opposite leaves and small yellow 5-petalled flowers. Check for black oil glands on leaves."
+    },
+    "zh": {
+      "summary": "地耳草。湿地、水田田埂与河滩的小型一至多年生金丝桃科。叶具黑色油点，夏季开黄色五瓣小花。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、休耕田、潮湿草地。",
+      "finding_tips": "七至九月在湿地与水田田埂寻找具对生小叶、黄色五瓣小花的小型草本。检查叶上是否具黑色油点。"
+    }
+  },
+  "Ranunculus sceleratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タガラシ。水田や湿地、用水路の縁に生える一年〜二年草のキンポウゲ科。光沢のある黄色い小さな5弁花を咲かせ、葉は3深裂。汁にプロトアネモニンが含まれ強い皮膚刺激があります。",
+      "habitat_hint": "水田、湿地、用水路の縁、河川敷の湿地、休耕田。",
+      "finding_tips": "4〜7月、水田や湿地で光沢のある黄色い小さな5弁花と3深裂の葉を持つ一年〜二年草を探します。茎を折ると黄色い汁が出ます（強い皮膚刺激あり）。"
+    },
+    "en": {
+      "summary": "Cursed Buttercup. An annual to biennial Ranunculus of paddies, wetlands, and ditch edges. Glossy yellow 5-petalled small flowers; leaves deeply 3-lobed. Sap contains strongly skin-irritating protoanemonin.",
+      "habitat_hint": "Rice paddies, wetlands, irrigation channel edges, wet riverbanks, and fallow paddies.",
+      "finding_tips": "From April to July look in paddies and wetlands for annuals to biennials with glossy yellow 5-petalled small flowers and deeply 3-lobed leaves. Yellow sap from snapped stems is strongly skin-irritating."
+    },
+    "zh": {
+      "summary": "石龙芮。水田、湿地与灌溉沟边的一至二年生毛茛科。具光泽黄色五瓣小花，叶 3 深裂。汁液含原白头翁素强烈刺激皮肤。",
+      "habitat_hint": "水田、湿地、灌溉沟边、河滩湿地、休耕田。",
+      "finding_tips": "四至七月在水田与湿地寻找具光泽黄色五瓣小花、叶 3 深裂的一至二年草。茎折断流黄色汁液，强烈刺激皮肤。"
+    }
+  },
+  "Chrysanthemum makinoi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マキノギク。日本固有の多年草のキク科で、明るい草地や林縁に生えます。秋に白色〜淡紫色の頭花を咲かせ、葉は深く切れ込む。",
+      "habitat_hint": "明るい草地、林縁、土手、山地の岩場、二次林。",
+      "finding_tips": "9〜11月、明るい草地や林縁で白色〜淡紫色の頭花を持つ多年草を探します。深く切れ込んだ葉が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Makino's Chrysanthemum. A Japan-endemic perennial Asteraceae of bright grasslands and forest edges. White to pale-purple flower heads in autumn; deeply lobed leaves.",
+      "habitat_hint": "Bright grasslands, forest edges, banks, montane rocky places, and secondary woods.",
+      "finding_tips": "From September to November look in bright grasslands and forest edges for perennials with white to pale-purple flower heads. Deeply lobed leaves help identify."
+    },
+    "zh": {
+      "summary": "牧野菊。日本固有的菊科多年草，生于明亮草地与林缘。秋季开白至淡紫色头状花，叶深裂。",
+      "habitat_hint": "明亮草地、林缘、堤岸、山地岩生地、次生林。",
+      "finding_tips": "九至十一月在明亮草地与林缘寻找具白至淡紫色头状花的多年草。叶深裂可助识别。"
+    }
+  },
+  "Poa trivialis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオスズメノカタビラ。欧州原産の多年生イネ科で、湿った場所に帰化。繊細な円錐花序を持ち、葉は線形で柔らかい。芝生や河川敷、農地に普通。",
+      "habitat_hint": "芝地、河川敷、湿った草地、農地の縁、道端。",
+      "finding_tips": "5〜7月、芝地や河川敷で繊細な円錐花序を持つ多年生イネ科を探します。葉が柔らかく光沢があるのが手がかり。"
+    },
+    "en": {
+      "summary": "Rough Bluegrass. A European-origin perennial grass naturalised in damp places. Delicate panicles; soft linear leaves. Common in lawns, riverbanks, and farmland.",
+      "habitat_hint": "Lawns, riverbanks, damp grasslands, farmland margins, and roadsides.",
+      "finding_tips": "From May to July look in lawns and riverbanks for perennial grasses with delicate panicles. Soft glossy leaves help identify."
+    },
+    "zh": {
+      "summary": "普通早熟禾。原产欧洲的多年生禾本科，归化于潮湿处。具纤细圆锥花序，叶线形柔软。常见于草坪、河滩与农田。",
+      "habitat_hint": "草坪、河滩、潮湿草地、农田边缘、路边。",
+      "finding_tips": "五至七月在草坪与河滩寻找具纤细圆锥花序的多年生禾本科。叶柔软具光泽可助识别。"
+    }
+  },
+  "Lythrum salicaria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゾミソハギ。湿地や水辺に生える多年草のミソハギ科で、夏〜秋に紅紫色の小花が穂状に長く立ち上がるのが美しい。お盆の供花としても使われます。",
+      "habitat_hint": "湿地、河川敷の湿地、ため池の縁、用水路、河口の塩性湿地。",
+      "finding_tips": "7〜9月、湿地や水辺で紅紫色の小花が長い穂状に立ち上がる多年草を探します。葉は対生の披針形。"
+    },
+    "en": {
+      "summary": "Purple Loosestrife. A perennial Lythraceae of wetlands and waterside. Beautiful tall spikes of small rose-purple flowers from summer to autumn. Used as offering flowers at Obon (festival of the dead).",
+      "habitat_hint": "Wetlands, wet riverbanks, pond edges, irrigation channels, and estuarine salt marshes.",
+      "finding_tips": "From July to September look in wetlands and waterside for perennials with tall spikes of small rose-purple flowers. Opposite lanceolate leaves."
+    },
+    "zh": {
+      "summary": "千屈菜。湿地与水边的多年生千屈菜科。夏秋紫红色小花长穗状直立美丽。也作日本盂兰盆供花。",
+      "habitat_hint": "湿地、河滩湿地、池塘边、灌溉沟、河口盐沼。",
+      "finding_tips": "七至九月在湿地与水边寻找具紫红色小花长穗状直立的多年草。叶对生披针形。"
+    }
+  },
+  "Abutilon theophrasti": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イチビ。インド原産の大型一年草のアオイ科で、空き地や畑、河川敷に帰化。背が高く（〜1.5m）、葉は大型の心形、夏〜秋に黄色い5弁花を咲かせます。果実は独特の星形。",
+      "habitat_hint": "畑、空き地、河川敷、農地の縁、道端。",
+      "finding_tips": "7〜10月、空き地や畑で大型の心形の葉と黄色い5弁花、独特の星形の果実を持つ大型一年草を探します。"
+    },
+    "en": {
+      "summary": "Velvetleaf. A large Indian-origin annual Malvaceae naturalised on vacant lots, fields, and riverbanks. Tall (up to 1.5 m) with large heart-shaped leaves; yellow 5-petalled flowers in summer-autumn; distinctive star-shaped fruits.",
+      "habitat_hint": "Fields, vacant lots, riverbanks, farmland margins, and roadsides.",
+      "finding_tips": "From July to October look on vacant lots and fields for tall annuals with large heart-shaped leaves, yellow 5-petalled flowers, and distinctive star-shaped fruits."
+    },
+    "zh": {
+      "summary": "苘麻。原产印度的大型一年生锦葵科，归化于空地、菜地与河滩。高 1.5 米左右，叶大型心形，夏秋开黄色五瓣花。果实独特星形。",
+      "habitat_hint": "菜地、空地、河滩、农田边缘、路边。",
+      "finding_tips": "七至十月在空地与菜地寻找具大型心形叶、黄色五瓣花、独特星形果的大型一年草。"
+    }
+  },
+  "Pinus thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロマツ。日本固有の常緑針葉樹で、樹皮が黒褐色なのが和名の由来。海岸近くに多く、防潮林や砂防林として植栽されます。葉はアカマツより太く硬い。",
+      "habitat_hint": "海岸近くの林、防潮林、公園植栽、寺社境内、街路樹。",
+      "finding_tips": "通年、海岸近くで樹皮が黒褐色の大型常緑針葉樹を探します。葉は2本ずつ束生し、アカマツより太く硬く濃緑色。"
+    },
+    "en": {
+      "summary": "Japanese Black Pine. A Japan-endemic evergreen conifer with blackish-brown bark — the source of the Japanese name 'black pine'. Common in coastal areas; planted as coastal protection and dune stabilisation. Needles thicker and stiffer than Japanese Red Pine.",
+      "habitat_hint": "Coastal woods, coastal protection forests, park plantings, temple/shrine grounds, and street trees.",
+      "finding_tips": "Year-round in coastal areas, look for large evergreen conifers with blackish-brown bark. Needles in bundles of 2, thicker, stiffer, and darker green than Japanese Red Pine."
+    },
+    "zh": {
+      "summary": "黑松。日本固有常绿针叶树，树皮黑褐色是日文俗名由来。海岸近郊多见，作防潮与防风林栽植。叶比赤松更粗硬。",
+      "habitat_hint": "海岸近郊林、防潮林、公园栽植、寺社境内、行道树。",
+      "finding_tips": "全年在海岸近郊寻找树皮黑褐色的大型常绿针叶树。叶 2 针一束，比赤松更粗硬、更深绿。"
+    }
+  },
+  "Portulaca oleracea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スベリヒユ。世界中に分布する小型多肉質一年草で、畑や舗装の隙間、空き地に普通。葉は多肉質で楕円形、夏に小さな黄色い花を咲かせます。葉と若芽は食用に。",
+      "habitat_hint": "畑、舗装の隙間、空き地、駐車場、農地の縁、芝地の縁。",
+      "finding_tips": "6〜10月、畑や舗装の隙間で多肉質の楕円形の葉と小さな黄色い花を持つ匍匐性一年草を探します。葉や茎を噛むと酸味があれば本種。"
+    },
+    "en": {
+      "summary": "Common Purslane. A small worldwide-distributed succulent annual, common in fields, pavement cracks, and vacant lots. Succulent oval leaves; small yellow flowers in summer. Leaves and shoots are edible.",
+      "habitat_hint": "Fields, pavement cracks, vacant lots, parking lots, farmland margins, and lawn margins.",
+      "finding_tips": "From June to October look in fields and pavement cracks for creeping annuals with succulent oval leaves and small yellow flowers. A chewed leaf with sour taste confirms identification."
+    },
+    "zh": {
+      "summary": "马齿苋。世界广布的小型肉质一年草，菜地、路面缝与空地常见。叶肉质椭圆形，夏季开黄色小花。叶与嫩芽可食。",
+      "habitat_hint": "菜地、路面缝、空地、停车场、农田边缘、草坪边。",
+      "finding_tips": "六至十月在菜地与路面缝寻找具肉质椭圆叶、黄色小花的匍匐一年草。咀嚼叶或茎具酸味可确认。"
+    }
+  },
+  "Ophiopogon planiscapus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバジャノヒゲ。日本固有の常緑多年草のキジカクシ科で、林床や林縁に生えます。葉は線形で剣のように立ち、夏に白〜淡紫色の小花が穂状に並びます。秋に深い藍色の球形果実が美しい。",
+      "habitat_hint": "雑木林の林床、林縁、神社林、庭園、半日陰の斜面。",
+      "finding_tips": "花期6〜8月、果期10〜2月、林床や庭園で線形の常緑葉と白〜淡紫色の穂状花序、後に深い藍色の球形果実を持つ多年草を探します。"
+    },
+    "en": {
+      "summary": "Black Mondograss. A Japan-endemic evergreen perennial Asparagaceae of forest floors and edges. Sword-like linear leaves; white to pale-purple flowers in spikes in summer. Beautiful deep-blue globose fruits in autumn-winter.",
+      "habitat_hint": "Secondary woodland floors, forest edges, shrine groves, gardens, and partly shaded slopes.",
+      "finding_tips": "Flowers June-August; fruits October-February. Look on forest floors and in gardens for perennials with sword-like linear evergreen leaves, spikes of white to pale-purple flowers, and deep-blue globose fruits."
+    },
+    "zh": {
+      "summary": "大叶沿阶草。日本固有的常绿天门冬科多年草，生于林床与林缘。叶线形如剑直立，夏季穗状开白至淡紫色小花。秋季深蓝色球形果美丽。",
+      "habitat_hint": "杂木林林床、林缘、神社林、庭园、半阴斜坡。",
+      "finding_tips": "花期六至八月，果期十至二月。在林床与庭园寻找具线形常绿叶、白至淡紫色穗状花序、后结深蓝色球形果的多年草。"
+    }
+  },
+  "Muhlenbergia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イトススキ近縁の小型イネ科で、湿った林縁や河川敷に生える多年草。葉は線形で繊細、穂は淡紫色を帯びた細い円錐花序。",
+      "habitat_hint": "湿った林縁、河川敷、土手、半日陰の道端、湿った草地。",
+      "finding_tips": "8〜10月、湿った林縁や河川敷で繊細な線形の葉と淡紫色を帯びた細い円錐花序を持つ多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Japanese Muhly. A small perennial grass of damp forest edges and riverbanks. Delicate linear leaves; slender pale-purplish-tinged panicles.",
+      "habitat_hint": "Damp forest edges, riverbanks, banks, partly shaded roadsides, and damp grasslands.",
+      "finding_tips": "From August to October look on damp forest edges and riverbanks for perennial grasses with delicate linear leaves and slender pale-purplish panicles."
+    },
+    "zh": {
+      "summary": "日本乱子草。潮湿林缘与河滩的多年生小型禾本科。叶线形纤细，穗为带淡紫色的细圆锥花序。",
+      "habitat_hint": "潮湿林缘、河滩、堤岸、半阴路边、潮湿草地。",
+      "finding_tips": "八至十月在潮湿林缘与河滩寻找具纤细线形叶、带淡紫色细圆锥花序的多年生禾本科。"
+    }
   }
 }
