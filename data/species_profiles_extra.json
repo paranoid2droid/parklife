@@ -15642,5 +15642,185 @@
       "habitat_hint": "杂木林、有梾木与四照花的林缘、河岸林、公园大树。",
       "finding_tips": "八至十月梾木与四照花果实成熟时，于其叶与果实周边寻找具锐角突起的大型椿象。"
     }
+  },
+  "Cecropis daurica": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コシアカツバメ。腰が赤褐色のツバメで、ツバメより一回り大きい。コンクリート建物の軒下や橋桁に泥の徳利型の巣を作ります。",
+      "habitat_hint": "市街地、住宅地、河川敷、農地、橋脚・高架下、海岸近くの建物。",
+      "finding_tips": "4〜10月、市街地の建物軒下を飛ぶツバメで、腰の赤褐色を確認します。徳利型の独特な巣も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Red-rumped Swallow. A swallow with a rufous rump, slightly larger than Barn Swallow. Builds bottle-shaped mud nests under concrete eaves and bridges.",
+      "habitat_hint": "Urban areas, residential areas, riverbanks, farmland, under bridges and viaducts, and coastal buildings.",
+      "finding_tips": "From April to October look in urban areas under eaves and check swallows for a rufous rump. The bottle-shaped mud nest also helps identify."
+    },
+    "zh": {
+      "summary": "金腰燕。腰部红褐色的燕，比家燕略大。在混凝土檐下与桥梁筑徳利状泥巢。",
+      "habitat_hint": "市区、住宅区、河滩、农田、桥墩与高架下、海岸建筑。",
+      "finding_tips": "四至十月在市区建筑檐下飞行的燕子中确认腰部红褐色。徳利状泥巢可辅助识别。"
+    }
+  },
+  "Rhomborhina polita": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロカナブン。黒〜暗緑色の金属光沢を持つ大型のカナブン。樹液の出るクヌギやコナラに集まります。",
+      "habitat_hint": "雑木林の樹液の出る樹（クヌギ、コナラ等）、神社林、河畔林、果樹園。",
+      "finding_tips": "6〜9月、雑木林のクヌギ・コナラの樹液で黒〜暗緑色の金属光沢のあるカナブンを探します。普通のカナブン（緑〜銅色）と区別するには色を確認。"
+    },
+    "en": {
+      "summary": "Black Drone Beetle. A large drone beetle with black to dark-green metallic sheen. Gathers at sap flows on sawtooth oak and konara oak.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands (oaks etc.), shrine groves, riparian woods, and orchards.",
+      "finding_tips": "From June to September look at oak sap flows for drone beetles with black to dark-green metallic sheen. Distinguished from common drone beetle (green to copper) by colour."
+    },
+    "zh": {
+      "summary": "黑光臭蜣螂（黑光金龟）。具黑至暗绿色金属光泽的大型金龟。聚集于栎类树液。",
+      "habitat_hint": "杂木林出树液的栎类、神社林、河岸林、果园。",
+      "finding_tips": "六至九月在栎类树液上寻找黑至暗绿色金属光泽的金龟。与普通金龟（绿至铜色）凭颜色区分。"
+    }
+  },
+  "Leptoglossus occidentalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マツヘリカメムシ。北米原産の大型のヘリカメムシ。後脚が葉状に拡張した独特の形状で、近年急速に拡散している外来種。マツの種子を吸います。",
+      "habitat_hint": "マツ林、針葉樹植栽地、公園のマツ、神社林、住宅地のマツ。",
+      "finding_tips": "通年（成虫越冬）、マツのある場所で後脚が葉状に拡張した大型のカメムシを探します。秋〜冬に住宅に侵入することもあります。"
+    },
+    "en": {
+      "summary": "Western Conifer Seed Bug. A large coreid bug from North America with distinctive leaf-like expanded hind tibiae. A rapidly spreading invasive that feeds on pine seeds.",
+      "habitat_hint": "Pine forests, conifer plantations, park pines, shrine groves, and residential pines.",
+      "finding_tips": "Year-round (adults overwinter), look around pines for large bugs with leaf-like hind legs. May enter homes in autumn-winter."
+    },
+    "zh": {
+      "summary": "西部松针缘蝽。原产北美的大型缘蝽。后足胫节扩展成叶状独特，近年迅速扩散的外来种。吸食松籽。",
+      "habitat_hint": "松林、针叶林、公园松树、神社林、住宅区松树。",
+      "finding_tips": "全年（成虫越冬）在松树周边寻找具叶状扩展后足的大型椿象。秋冬可能入侵住宅。"
+    }
+  },
+  "Urosphena squameiceps": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブサメ。雑木林の藪に住む小型のセンニュウ。声は「シシシシシ…」と高音域の独特の連続音で、夏鳥として渡来します。姿は地味で見つけにくい。",
+      "habitat_hint": "雑木林の藪、林床のシダ群落、谷地林、神社林、密な低木層。",
+      "finding_tips": "5〜9月、藪の中から「シシシシシ…」という極めて高い連続音が聞こえたらこの鳥です。姿はほとんど見えず、声で識別するのが基本。"
+    },
+    "en": {
+      "summary": "Asian Stubtail. A small warbler of woodland thickets. Sings a distinctive very-high-pitched continuous 'shishishishi...' Summer visitor; cryptic — hard to see.",
+      "habitat_hint": "Secondary woodland thickets, fern colonies on forest floors, valley woods, shrine groves, and dense shrub layers.",
+      "finding_tips": "From May to September identify by a very high-pitched continuous 'shishishi...' from thickets. Almost never seen — voice is the main ID."
+    },
+    "zh": {
+      "summary": "鳞头树莺。栖于杂木林灌丛的小型树莺。鸣声『shishishi...』极高音连续，是关键识别。日本夏候鸟。羽色不显眼难见。",
+      "habitat_hint": "杂木林灌丛、林床蕨丛、谷地林、神社林、密集灌木层。",
+      "finding_tips": "五至九月凭灌丛中传出的极高音『shishishi...』连续声识别。几乎不易见，主要靠声音。"
+    }
+  },
+  "Elaeagnus umbellata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アキグミ。落葉性の小高木で、夏に小さな白〜淡黄色の花を咲かせ、秋に赤い実が熟します。葉裏に銀色の鱗状毛があり、痩せ地にも育ちます。",
+      "habitat_hint": "雑木林の林縁、河川敷、土手、空き地、二次林。",
+      "finding_tips": "花期5〜6月、果期9〜11月。葉裏が銀色に光る落葉低木〜小高木を探します。秋に赤い小さな果実をつけます（食用可、やや渋い）。"
+    },
+    "en": {
+      "summary": "Autumn Olive. A deciduous shrub to small tree with small whitish-yellow flowers in summer and red fruits in autumn. Silvery scaly leaf undersides; tolerates poor soil.",
+      "habitat_hint": "Secondary woodland edges, riverbanks, banks, vacant lots, and secondary woods.",
+      "finding_tips": "Flowers May-June; fruits September-November. Look for deciduous shrubs to small trees with silvery underside leaves. Small red autumn fruits are edible (slightly astringent)."
+    },
+    "zh": {
+      "summary": "牛奶子（秋胡颓子）。落叶灌木至小乔木，夏开白至淡黄色小花，秋结红色果。叶背具银色鳞毛，耐瘠薄。",
+      "habitat_hint": "杂木林林缘、河滩、堤岸、空地、次生林。",
+      "finding_tips": "花期五至六月，果期九至十一月。寻找叶背银光闪烁的落叶灌木至小乔木。秋季红色小果可食微涩。"
+    }
+  },
+  "Berchemia floribunda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クマヤナギ。蔓性の落葉低木で、林縁や藪に絡みつきます。秋に小さな黒紫色の球形果実が熟します。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、土手。",
+      "finding_tips": "果期9〜11月、林縁や藪で蔓性の落葉低木を探します。葉は卵形〜楕円形で、葉脈が左右対称にきれいに並ぶのが特徴。"
+    },
+    "en": {
+      "summary": "Many-flowered Hovenia. A deciduous vining shrub climbing in forest edges and thickets. Small purple-black globose fruits ripen in autumn.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and banks.",
+      "finding_tips": "Fruits September-November. Look at forest edges and thickets for deciduous vining shrubs. Ovate to elliptical leaves with neatly symmetrical lateral veins."
+    },
+    "zh": {
+      "summary": "多花勾儿茶。蔓生落叶灌木，攀附林缘与灌丛。秋季结紫黑色小球形果。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、堤岸。",
+      "finding_tips": "果期九至十一月在林缘与灌丛寻找蔓生落叶灌木。叶卵形至椭圆形，侧脉左右对称整齐。"
+    }
+  },
+  "Solanum americanum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "テリミノイヌホオズキ。北米〜南米原産の一年草で、空き地や畑、道端に帰化。小さな白い5弁花と光沢のある黒い果実が特徴。",
+      "habitat_hint": "畑、空き地、道端、河川敷、農地の縁。",
+      "finding_tips": "7〜11月、畑や空き地で白い小さな5弁花と光沢のある黒い小球形果を持つ一年草を探します。果実に光沢があるのが「テリミノ」（照り実）の名前の由来。"
+    },
+    "en": {
+      "summary": "American Black Nightshade. An American annual naturalised on vacant lots, fields, and roadsides. Small white 5-petalled flowers and glossy black berries.",
+      "habitat_hint": "Fields, vacant lots, roadsides, riverbanks, and farmland margins.",
+      "finding_tips": "From July to November look in fields and vacant lots for annuals with small white 5-petalled flowers and glossy black globose berries. The 'glossy fruit' is the source of the Japanese name."
+    },
+    "zh": {
+      "summary": "美洲龙葵。原产美洲的一年生草本，归化于空地、菜地与路边。小白色五瓣花与具光泽的黑色小果是特征。",
+      "habitat_hint": "菜地、空地、路边、河滩、农田边缘。",
+      "finding_tips": "七至十一月在菜地与空地寻找具白色五瓣小花、光泽黑色小球果的一年草。果实具光泽是日文俗名『照り実』由来。"
+    }
+  },
+  "Scolopendra mutilans": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオズムカデ。日本産の中型ムカデで、頭部が青緑色を帯びる。咬まれると痛い。林床や石下に住みます。",
+      "habitat_hint": "雑木林の林床、倒木・石の下、落ち葉の中、住宅地の庭の物陰。",
+      "finding_tips": "4〜10月、湿った石や倒木をひっくり返して見つかります。咬傷に注意——直接触れないこと。頭部の青緑色が識別のポイント。"
+    },
+    "en": {
+      "summary": "Chinese Red-headed Centipede (Japanese form). A medium centipede with a bluish-green tinted head. Bite is painful. Lives in leaf litter and under stones.",
+      "habitat_hint": "Secondary woodland floors, under fallen logs and stones, in leaf litter, and sheltered spots in residential gardens.",
+      "finding_tips": "From April to October found by turning damp stones and logs. Beware of bite — do not handle. Bluish-green tinted head is the diagnostic feature."
+    },
+    "zh": {
+      "summary": "少棘蜈蚣。日本产中型蜈蚣，头部带青绿色。咬伤剧痛。栖于林床与石下。",
+      "habitat_hint": "杂木林林床、倒木与石下、枯叶层、住宅区庭院隐蔽处。",
+      "finding_tips": "四至十月翻动潮湿石块与倒木可见。注意咬伤——切勿徒手触摸。头部青绿色是关键识别。"
+    }
+  },
+  "Chamaecyparis pisifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サワラ。日本固有の常緑針葉樹で、ヒノキに似ますが葉先がやや尖ります。湿地や沢沿いの良好な木で、建築材としても利用されます。",
+      "habitat_hint": "湿地、沢沿いの植林地、谷地林、公園植栽、寺社境内。",
+      "finding_tips": "通年、ヒノキに似た鱗状葉の常緑針葉樹で、葉先がやや尖り、葉裏のX字形気孔線（ヒノキはY字形）を確認します。"
+    },
+    "en": {
+      "summary": "Sawara Cypress. A Japan-endemic evergreen conifer similar to Hinoki but with slightly pointed leaf tips. Grows well in wet places; also used as construction timber.",
+      "habitat_hint": "Wetlands, streamside plantations, valley woods, park plantings, and temple/shrine grounds.",
+      "finding_tips": "Year-round, look for evergreen conifers with scale-like leaves similar to Hinoki but with more pointed tips. Underside stomatal lines form an X-shape (Hinoki is Y-shaped)."
+    },
+    "zh": {
+      "summary": "日本花柏。日本固有常绿针叶树，似日本扁柏但叶尖稍尖。湿地与溪边生长良好，也作建筑用材。",
+      "habitat_hint": "湿地、溪边人工林、谷地林、公园栽植、寺社境内。",
+      "finding_tips": "全年寻找鳞状叶、叶尖稍尖的常绿针叶树，叶背气孔线呈 X 形（扁柏为 Y 形）。"
+    }
+  },
+  "Huperzia serrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウゲシバ。常緑のヒカゲノカズラ科の小型シダ植物。茎が直立し、線形の葉が密につきます。アルツハイマー治療薬の候補成分（ヒュペルジンA）を含むことで知られます。",
+      "habitat_hint": "雑木林の林床、湿った斜面、神社林、谷地林、岩場の半日陰。",
+      "finding_tips": "通年、湿った林床で直立する茎に線形の葉が密に並ぶ常緑の小型植物を探します。シダではなくヒカゲノカズラ科（小葉植物）。"
+    },
+    "en": {
+      "summary": "Toothed Clubmoss. A small evergreen lycophyte (Lycopodiaceae). Erect stems with densely arranged linear leaves. Known for containing huperzine A, a candidate compound for Alzheimer's treatment.",
+      "habitat_hint": "Secondary woodland floors, moist slopes, shrine groves, valley woods, and partly shaded rocky places.",
+      "finding_tips": "Year-round, look on damp forest floors for small evergreen plants with erect stems and densely arranged linear leaves. Not a fern — a lycophyte (microphyll plant)."
+    },
+    "zh": {
+      "summary": "蛇足石杉。常绿石松科小型石松植物。茎直立，线形叶密集。含石杉碱甲（阿尔茨海默症治疗候选化合物）。",
+      "habitat_hint": "杂木林林床、潮湿斜坡、神社林、谷地林、岩生地半阴处。",
+      "finding_tips": "全年在潮湿林床寻找具直立茎、线形叶密集的常绿小型植物。非蕨类，属石松科（小叶植物）。"
+    }
   }
 }
