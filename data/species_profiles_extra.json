@@ -17802,5 +17802,185 @@
       "habitat_hint": "滩涂、河口、盐沼、海岸沙滩、内陆湿地。",
       "finding_tips": "四至五月与八至十月在滩涂与河口寻找具长上翘喙、长腿的大型鹬。繁殖羽雄性头胸红褐色美丽。"
     }
+  },
+  "Spatula querquedula": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シマアジ。日本では春・秋の渡り期に水田や湖沼で稀に見られる小型のカモ。雄は目の上に幅広い白い「眉斑」が特徴的。",
+      "habitat_hint": "水田、湖沼、ため池、河川、湿地。",
+      "finding_tips": "3〜5月と9〜10月、水田や湖沼でコガモほどの小型カモを探します。雄の目の上の白い眉斑が決め手。日本では稀少な渡り鳥。"
+    },
+    "en": {
+      "summary": "Garganey. A small duck seen rarely in Japan on rice paddies and lakes during spring and autumn migration. Males show a broad distinctive white 'eyebrow' above the eye.",
+      "habitat_hint": "Rice paddies, lakes, ponds, rivers, and wetlands.",
+      "finding_tips": "From March-May and September-October look on paddies and lakes for small ducks (about the size of Common Teal). The male's broad white eyebrow stripe is diagnostic. Uncommon in Japan."
+    },
+    "zh": {
+      "summary": "白眉鸭。日本春秋迁徙期偶见于水田与湖沼的小型鸭。雄性眼上具宽阔的白色『眉斑』为特征。",
+      "habitat_hint": "水田、湖沼、池塘、河流、湿地。",
+      "finding_tips": "三至五月与九至十月在水田与湖沼寻找如绿翅鸭大小的小型鸭。雄性眼上白色眉斑是关键识别。日本不常见。"
+    }
+  },
+  "Problepsis albidior": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フタツメオオシロヒメシャク。白い翅に二つの「目玉模様」（眼状紋）がある中型のシャクガ。樹幹や葉裏で休みます。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で白い翅に二つの目玉模様（眼状紋）を持つ中型シャクガを探します。"
+    },
+    "en": {
+      "summary": "Twin-spotted White Geometer. A medium geometrid moth with two prominent eye-spots on white wings. Rests on tree trunks and leaf undersides.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for medium white geometrids with two distinct eye-spots."
+    },
+    "zh": {
+      "summary": "双目大白尺蛾。白色翅具两个显眼眼斑的中型尺蛾。停于树干与叶背。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找白色翅具两个清晰眼斑的中型尺蛾。"
+    }
+  },
+  "Pselliophora bifascipennis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホリカワクシヒゲガガンボ。雄の触角が櫛状に発達した大型のガガンボ。翅に独特の縞模様があり、湿った林床で見つかります。",
+      "habitat_hint": "湿った林床、谷地林、沢沿い、神社林、河畔林。",
+      "finding_tips": "5〜9月、湿った林床で長い脚と独特の縞模様の翅を持つ大型ガガンボを探します。雄の触角が櫛状なのも識別ポイント。"
+    },
+    "en": {
+      "summary": "Comb-antennaed Crane Fly. A large crane fly in which males have pectinate (comb-like) antennae. Distinctive banded wings; found on damp forest floors.",
+      "habitat_hint": "Damp forest floors, valley woods, streamsides, shrine groves, and riparian woods.",
+      "finding_tips": "From May to September look on damp forest floors for large crane flies with long legs and distinctive banded wings. Male comb-like antennae also help identify."
+    },
+    "zh": {
+      "summary": "栉触角大蚊。雄性触角栉齿状的大型大蚊。翅具独特条纹，常见于潮湿林床。",
+      "habitat_hint": "潮湿林床、谷地林、溪边、神社林、河岸林。",
+      "finding_tips": "五至九月在潮湿林床寻找具长腿与独特条纹翅的大型大蚊。雄性栉齿状触角也是识别要点。"
+    }
+  },
+  "Dolbina tancrei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サザナミスズメ。中型のスズメガで、翅に細波（さざなみ）のような模様があるのが和名の由来。幼虫はモクセイ科を食べます。",
+      "habitat_hint": "雑木林、林縁、公園のモクセイ科植栽、住宅地の庭、河畔林。",
+      "finding_tips": "5〜10月、樹幹や葉裏に止まる中型スズメガを探します。翅の細波模様が決め手。夜間外灯にも飛来します。"
+    },
+    "en": {
+      "summary": "Ripple Hawkmoth. A medium hawkmoth with ripple-like patterning on the wings — the source of the Japanese name. Caterpillars feed on Oleaceae plants.",
+      "habitat_hint": "Secondary woodlands, forest edges, parks with Oleaceae plantings, residential gardens, and riparian woods.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for medium hawkmoths. The ripple wing pattern is diagnostic. Also comes to lights at night."
+    },
+    "zh": {
+      "summary": "缘点斜纹天蛾（细波天蛾）。中型天蛾，翅具细波纹是日文俗名由来。幼虫取食木犀科。",
+      "habitat_hint": "杂木林、林缘、公园木犀科栽植、住宅区庭院、河岸林。",
+      "finding_tips": "五至十月在树干与叶背寻找中型天蛾。翅细波纹是关键识别。夜间趋向灯光。"
+    }
+  },
+  "Potanthus flavus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キマダラセセリ。橙黄色の翅に黒い斑紋がある小型のセセリチョウ。林縁や草地で素早く飛び、花で吸蜜します。",
+      "habitat_hint": "草地、林縁、公園の花壇、農地、河川敷の草地。",
+      "finding_tips": "5〜10月、草地や林縁で橙黄色に黒斑のある小型セセリチョウを探します。花で吸蜜中はじっくり観察できます。"
+    },
+    "en": {
+      "summary": "Tropic Dart. A small skipper with orange-yellow wings bearing black markings. Flies rapidly at forest edges and grasslands; nectars on flowers.",
+      "habitat_hint": "Grasslands, forest edges, park flower beds, farmland, and riverside grasslands.",
+      "finding_tips": "From May to October look in grasslands and forest edges for small orange-yellow-and-black skippers. Easier to observe while they nectar on flowers."
+    },
+    "zh": {
+      "summary": "黄翅弄蝶。橙黄色翅具黑斑的小型弄蝶。在林缘与草地快速飞行，访花吸蜜。",
+      "habitat_hint": "草地、林缘、公园花坛、农田、河滩草地。",
+      "finding_tips": "五至十月在草地与林缘寻找橙黄色配黑斑的小型弄蝶。访花时易观察。"
+    }
+  },
+  "Pryeria sinica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミノウスバ。マユミ・ニシキギなどニシキギ科植物を食害する小型のマダラガ科。成虫は晩秋に発生し、独特の薄い翅を持ちます。幼虫は群生して新芽を食べます。",
+      "habitat_hint": "マユミ・ニシキギのある雑木林、生垣、公園植栽、神社林、住宅地の庭木。",
+      "finding_tips": "成虫期10〜11月、幼虫期4〜5月。秋にマユミ・ニシキギの周辺で薄黄色の透けた翅を持つ小型のガを探します。春は新芽に群生する黄黒色の幼虫が目立ちます。"
+    },
+    "en": {
+      "summary": "Euonymus Leaf Caterpillar Moth. A small zygaenid moth whose larvae defoliate Euonymus (Celastraceae). Adults emerge in late autumn with distinctive translucent wings; gregarious larvae feed on new shoots in spring.",
+      "habitat_hint": "Secondary woodlands with Euonymus, hedges, park plantings, shrine groves, and residential trees.",
+      "finding_tips": "Adults October-November; larvae April-May. In autumn look around Euonymus for small moths with pale-yellow translucent wings. In spring look for groups of yellow-and-black caterpillars on new shoots."
+    },
+    "zh": {
+      "summary": "卫矛绢野螟。幼虫为害卫矛科（卫矛、明镜草等）的小型斑蛾。成虫晚秋羽化，具独特半透明翅；春季幼虫群聚取食新芽。",
+      "habitat_hint": "有卫矛的杂木林、绿篱、公园栽植、神社林、住宅区庭树。",
+      "finding_tips": "成虫期十至十一月，幼虫期四至五月。秋季在卫矛周边寻找具淡黄色半透明翅的小型蛾。春季新芽上可见黄黑色群聚幼虫。"
+    }
+  },
+  "Parantica sita": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アサギマダラ。大型のマダラチョウで、翅は半透明な浅葱色（あさぎ）と黒の模様。長距離移動することで知られ、日本本州〜南西諸島・台湾まで2000km以上を渡ります。",
+      "habitat_hint": "山地の林縁、フジバカマやヒヨドリバナのある花畑、公園、河畔林、海岸近くの林。",
+      "finding_tips": "5〜10月（夏は標高の高い場所、春・秋は平地）、フジバカマやヒヨドリバナの花で吸蜜する半透明浅葱色の大型チョウを探します。長距離移動性で、マーキング調査で識別できることも。"
+    },
+    "en": {
+      "summary": "Chestnut Tiger. A large danaid butterfly with semi-translucent pale-blue ('asagi') and black wing patterning. Famous for long-distance migration — over 2,000 km from main Honshu to the Ryukyus and Taiwan.",
+      "habitat_hint": "Montane forest edges, flower patches with Eupatorium or Eupatorium japonicum, parks, riparian woods, and coastal woods.",
+      "finding_tips": "From May to October (uplands in summer, lowlands in spring/autumn) look at Eupatorium flowers for large butterflies with semi-translucent pale-blue and black wings. Migrant — can sometimes be identified by tagging studies."
+    },
+    "zh": {
+      "summary": "大绢斑蝶（青斑蝶）。大型斑蝶，翅具半透明浅葱色与黑色斑纹。以长距离迁徙著名，从日本本州可飞 2000 公里以上至琉球与台湾。",
+      "habitat_hint": "山地林缘、有兰草与泽兰的花丛、公园、河岸林、海岸近郊林。",
+      "finding_tips": "五至十月（夏季在高海拔，春秋在平地）在兰草与泽兰花上寻找翅半透明浅葱色配黑斑的大型蝶。长距离迁徙，标记研究可识别。"
+    }
+  },
+  "Semisulcospira libertina": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワニナ。河川や湖沼、用水路に住む細長い円錐形の淡水巻貝。ホタル（ゲンジボタルなど）の幼虫の主要な餌として有名。",
+      "habitat_hint": "河川、用水路、湖沼、湿地、ため池、清流。",
+      "finding_tips": "通年、河川や用水路の石の上、底質で細長い円錐形の巻貝を探します。殻は黒褐色〜茶色。ホタルの幼虫が餌として依存しています。"
+    },
+    "en": {
+      "summary": "Japanese River Snail. An elongated conical freshwater snail of rivers, lakes, and irrigation channels. Famous as the principal food of firefly (Genji Firefly) larvae.",
+      "habitat_hint": "Rivers, irrigation channels, lakes, wetlands, ponds, and clear streams.",
+      "finding_tips": "Year-round, look on stones and substrate in rivers and channels for elongated conical snails. Shell blackish-brown to brown. Firefly larvae depend on this snail as food."
+    },
+    "zh": {
+      "summary": "川蜷螺（黑色短沟蜷）。河流、湖沼与灌溉沟中的细长锥形淡水螺。是萤火虫（源氏萤等）幼虫的主要食物。",
+      "habitat_hint": "河流、灌溉沟、湖沼、湿地、池塘、清流。",
+      "finding_tips": "全年在河流与灌溉沟的石上、底质寻找细长锥形螺。壳黑褐至褐色。萤火虫幼虫赖以为食。"
+    }
+  },
+  "Tringa ochropus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサシギ。湿地や水田、河川の岸辺に住む小型のシギ。冬鳥として日本に渡来し、内陸の水辺で単独またはペアで見られます。腰の白さが飛翔時に目立ちます。",
+      "habitat_hint": "湿地、水田、河川の岸辺、用水路、ため池の縁。",
+      "finding_tips": "10〜4月、湿地や水田で単独またはペアで歩く中型シギを探します。飛翔時に腰の白さと翼の黒さのコントラストが決め手。"
+    },
+    "en": {
+      "summary": "Green Sandpiper. A small sandpiper of wetlands, paddies, and river edges. Winter visitor to Japan, seen at inland waterside singly or in pairs. White rump conspicuous in flight.",
+      "habitat_hint": "Wetlands, rice paddies, river edges, irrigation channels, and pond edges.",
+      "finding_tips": "From October to April look in wetlands and paddies for medium sandpipers walking singly or in pairs. White rump contrasting with dark wings in flight is diagnostic."
+    },
+    "zh": {
+      "summary": "白腰草鹬。栖于湿地、水田与河岸的小型鹬。冬候鸟，常单独或成对见于内陆水边。飞行时白腰显眼。",
+      "habitat_hint": "湿地、水田、河岸、灌溉沟、池塘边。",
+      "finding_tips": "十至四月在湿地与水田寻找单独或成对行走的中型鹬。飞行时白腰与黑翅对比是关键识别。"
+    }
+  },
+  "Cydalima perspectalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツゲノメイガ。ツゲ（ボックスウッド）の葉を食害する中型のメイガ。元はアジア在来種ですが、近年欧州で大発生して問題化しています。",
+      "habitat_hint": "ツゲのある庭園、公園植栽、生垣、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、ツゲの葉が網目状に食害されているのを見たらこの幼虫の仕業。成虫は白い翅に黒い縁取りがある中型のガ。"
+    },
+    "en": {
+      "summary": "Box Tree Moth. A medium pyralid moth whose caterpillars defoliate boxwood (Buxus). Originally native to Asia but recently causing major problems in Europe.",
+      "habitat_hint": "Gardens with boxwood, park plantings, hedges, residential gardens, and shrine groves.",
+      "finding_tips": "From May to October if boxwood leaves are skeletonised, this caterpillar is the culprit. Adults are medium white-and-black-bordered moths."
+    },
+    "zh": {
+      "summary": "黄杨绢野螟。幼虫为害黄杨（boxwood）的中型螟蛾。原产亚洲，但近年在欧洲爆发成为重大问题。",
+      "habitat_hint": "有黄杨的庭园、公园栽植、绿篱、住宅区庭树、神社林。",
+      "finding_tips": "五至十月若黄杨叶被网状蛀食可能是此幼虫。成虫为白色配黑色边的中型蛾。"
+    }
   }
 }
