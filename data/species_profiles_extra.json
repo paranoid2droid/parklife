@@ -21420,5 +21420,185 @@
       "habitat_hint": "杂木林树干、神社林老树、河岸林、山地林。",
       "finding_tips": "五至七月在杂木林树干寻找颈极长的独特昆虫。稀有难见，偶可在树皮缝隙与叶上观察。"
     }
+  },
+  "Barsine striata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スジベニコケガ。小型のヒトリガ科で、淡黄色の翅に赤い縦縞模様（スジベニ）が美しい。樹幹や葉裏に止まり、夜間に活動します。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜9月、樹幹や葉裏で淡黄色の翅に赤い縦縞模様を持つ小型ヒトリガを探します。夜間外灯にも飛来します。"
+    },
+    "en": {
+      "summary": "Red-striped Lichen Moth. A small tiger moth with pale-yellow wings beautifully marked with red longitudinal stripes — the source of the Japanese name 'red-stripe'. Rests on tree trunks and leaf undersides; nocturnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to September look on tree trunks and leaf undersides for small tiger moths with pale-yellow wings bearing red longitudinal stripes. Comes to lights at night."
+    },
+    "zh": {
+      "summary": "红条苔蛾。小型灯蛾科，淡黄色翅具红色纵纹『红条』美丽。停于树干与叶背，夜间活动。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至九月在树干与叶背寻找具淡黄色翅、红色纵纹的小型灯蛾。夜间趋光。"
+    }
+  },
+  "Taylorilygus apicalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスモンミドリカスミカメ。小型のカスミカメで、淡緑色〜緑褐色の体に小さな斑紋があります。様々な植物の汁を吸う雑食性の害虫。",
+      "habitat_hint": "草地、農地、果樹園、林縁、河川敷、住宅地の庭。",
+      "finding_tips": "5〜10月、草地や農地で淡緑色〜緑褐色の小型カスミカメを探します。植物の花や葉、新芽を吸う雑食性。"
+    },
+    "en": {
+      "summary": "Broken-bordered Plant Bug. A small mirid bug, pale-green to greenish-brown with small markings. A polyphagous pest sucking juices from many plants.",
+      "habitat_hint": "Grasslands, farmland, orchards, forest edges, riverbanks, and residential gardens.",
+      "finding_tips": "From May to October look in grasslands and farmland for small pale-green to greenish-brown mirid bugs. Polyphagous on plant flowers, leaves, and shoots."
+    },
+    "zh": {
+      "summary": "浅斑绿盲蝽。小型盲蝽，淡绿至绿褐色配小斑纹。多食性害虫，吸食多种植物。",
+      "habitat_hint": "草地、农田、果园、林缘、河滩、住宅区庭院。",
+      "finding_tips": "五至十月在草地与农田寻找淡绿至绿褐色小型盲蝽。多食性，吸食花、叶、嫩芽。"
+    }
+  },
+  "Calidris tenuirostris": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オバシギ。中型のシギで、日本では春・秋の渡り期に干潟で見られます。夏羽は背〜胸が赤褐色に染まる独特の婚姻色。冬羽は灰色で地味。",
+      "habitat_hint": "干潟、河口、海岸の砂浜、内陸の湿地、塩性湿地。",
+      "finding_tips": "4〜5月と8〜10月、干潟や河口で中型のシギを探します。夏羽の赤褐色の背〜胸が決め手。"
+    },
+    "en": {
+      "summary": "Great Knot. A medium sandpiper seen in Japan on mudflats during spring and autumn migration. Breeding plumage shows distinctive rufous back and breast. Winter plumage plain grey.",
+      "habitat_hint": "Mudflats, estuaries, sandy beaches, inland wetlands, and salt marshes.",
+      "finding_tips": "From April-May and August-October look on mudflats and estuaries for medium sandpipers. Rufous back and breast in breeding plumage is diagnostic."
+    },
+    "zh": {
+      "summary": "大滨鹬。中型鹬，日本春秋迁徙期见于滩涂。繁殖羽背与胸染独特红褐色，冬羽灰色不显眼。",
+      "habitat_hint": "滩涂、河口、海岸沙滩、内陆湿地、盐沼。",
+      "finding_tips": "四至五月与八至十月在滩涂与河口寻找中型鹬。繁殖羽背胸红褐色是关键识别。"
+    }
+  },
+  "Lyriothemis pachygastra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハラビロトンボ。腹部が幅広く扁平な独特な形のトンボ。雄は成熟すると腹部が黒く、若い個体は黄色い縞模様があります。",
+      "habitat_hint": "湿地、ため池、水田、湿った草地、河川敷の湿地。",
+      "finding_tips": "5〜9月、湿地やため池で腹部が極端に幅広く扁平なトンボを探します。雄の黒い成熟個体と若い黄色縞個体の対比が観察できます。"
+    },
+    "en": {
+      "summary": "Broad-bodied Skimmer. A dragonfly with a strikingly broad flat abdomen. Mature males have a black abdomen; immatures show yellow banding.",
+      "habitat_hint": "Wetlands, ponds, rice paddies, damp grasslands, and wet riverbanks.",
+      "finding_tips": "From May to September look in wetlands and ponds for dragonflies with a strikingly broad flat abdomen. Mature black males contrast with yellow-banded immatures."
+    },
+    "zh": {
+      "summary": "宽腹蜻。腹部宽阔扁平的独特蜻蜓。雄性成熟时腹部黑色，幼体具黄色条纹。",
+      "habitat_hint": "湿地、池塘、水田、潮湿草地、河滩湿地。",
+      "finding_tips": "五至九月在湿地与池塘寻找腹部极宽阔扁平的蜻蜓。成熟雄性黑色与幼体黄条纹对比明显。"
+    }
+  },
+  "Eophileurus chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コカブトムシ。中型のコガネムシ科で、雌雄ともに角がないのが「カブトムシ」属とは異なる特徴。樹液の出る樹に集まります。黒褐色〜暗褐色の光沢のある体。",
+      "habitat_hint": "雑木林の樹液の出る樹、神社林、河畔林、果樹園、住宅地の庭。",
+      "finding_tips": "5〜9月、雑木林の樹液で角のない黒褐色〜暗褐色の中型コガネムシを探します。カブトムシより小型で、雄でも角がないのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Small Rhinoceros Beetle. A medium scarab in which both sexes lack horns — distinguishing it from the true rhinoceros beetle. Gathers at sap-flowing trees. Glossy dark-brown body.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands, shrine groves, riparian woods, orchards, and residential gardens.",
+      "finding_tips": "From May to September look at sap flows in secondary woodlands for medium dark-brown scarabs without horns. Smaller than rhinoceros beetle and males also lack horns — diagnostic."
+    },
+    "zh": {
+      "summary": "小独角仙。中型金龟，雌雄均无角与独角仙不同。聚集于出树液的树上。体黑褐至暗褐色具光泽。",
+      "habitat_hint": "杂木林出树液的树、神社林、河岸林、果园、住宅区庭院。",
+      "finding_tips": "五至九月在杂木林树液上寻找无角的黑褐至暗褐色中型金龟。比独角仙小且雄性也无角是关键识别。"
+    }
+  },
+  "Lucanus maculifemoratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミヤマクワガタ。大型のクワガタで、雄の大顎は弯曲して特徴的、頭部に「耳」のような突起があります。山地の雑木林に多く、夏に樹液で見つかります。",
+      "habitat_hint": "山地の雑木林の樹液の出る樹（クヌギ、コナラ等）、神社林、河畔林。",
+      "finding_tips": "6〜9月、山地の雑木林のクヌギ・コナラの樹液で湾曲した大顎と頭部の「耳」状突起を持つ大型クワガタを探します。"
+    },
+    "en": {
+      "summary": "Miyama Stag Beetle. A large stag beetle in which males have curved mandibles and 'ear-like' projections on the head. Common in montane secondary woodlands; found at sap flows in summer.",
+      "habitat_hint": "Sap-flowing trees in montane secondary woodlands (oaks etc.), shrine groves, and riparian woods.",
+      "finding_tips": "From June to September look at oak sap flows in montane secondary woodlands for large stag beetles with curved mandibles and ear-like head projections."
+    },
+    "zh": {
+      "summary": "深山锹甲。大型锹甲，雄性大颚弯曲、头部具『耳状』突起为特征。山地杂木林多见，夏季在树液上可见。",
+      "habitat_hint": "山地杂木林出树液的栎类、神社林、河岸林。",
+      "finding_tips": "六至九月在山地杂木林栎类树液上寻找具弯曲大颚、头部『耳状』突起的大型锹甲。"
+    }
+  },
+  "Melligomphus viridicostus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オナガサナエ。日本固有の大型サナエトンボで、河川の中下流に多い。腹端が細長く伸びるのが和名「尾長」の由来。緑色を帯びた体色も特徴。",
+      "habitat_hint": "河川の中下流、ゆるやかな流れ、湿地、河畔林の縁。",
+      "finding_tips": "6〜9月、河川の中下流で腹端が細長く伸び緑色を帯びた大型サナエトンボを探します。"
+    },
+    "en": {
+      "summary": "Long-tailed Clubtail. A Japan-endemic large clubtail of mid- to lower-reach rivers. Distinctive elongated abdomen tip — the source of the Japanese name 'long-tail'. Greenish body coloration also helps identify.",
+      "habitat_hint": "Mid- to lower-reach rivers, slow flows, wetlands, and riparian forest edges.",
+      "finding_tips": "From June to September look in mid- to lower river reaches for large clubtails with elongated abdomen tips and greenish body coloration."
+    },
+    "zh": {
+      "summary": "长尾春蜓。日本固有大型春蜓，多见于河流中下游。腹端延长是日文俗名『尾长』由来。体色带绿也是特征。",
+      "habitat_hint": "河流中下游、缓流、湿地、河岸林缘。",
+      "finding_tips": "六至九月在河流中下游寻找腹端延长、体色带绿的大型春蜓。"
+    }
+  },
+  "Isyndus obscurus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオトビサシガメ。大型のサシガメで、暗褐色〜黒褐色の体と長い脚が特徴。他の昆虫を口吻で刺して体液を吸う捕食者。庭や住宅にも侵入することがあります。",
+      "habitat_hint": "雑木林、林縁、農地、住宅地の庭、河畔林、神社林。",
+      "finding_tips": "5〜10月、雑木林の林縁や葉上で暗褐色〜黒褐色の大型サシガメを探します。咬まれると痛いので素手で触れないこと。"
+    },
+    "en": {
+      "summary": "Large Brown Assassin Bug. A large assassin bug with dark-brown to blackish-brown body and long legs. A predator that pierces other insects with its proboscis. May enter homes and gardens.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, residential gardens, riparian woods, and shrine groves.",
+      "finding_tips": "From May to October look at forest edges and on foliage for large dark-brown to blackish-brown assassin bugs. Bite is painful — do not handle bare-handed."
+    },
+    "zh": {
+      "summary": "大褐猎蝽。大型猎蝽，暗褐至黑褐色体配长腿是特征。以口针刺吸其他昆虫的捕食者。可能进入庭院与住宅。",
+      "habitat_hint": "杂木林、林缘、农田、住宅区庭院、河岸林、神社林。",
+      "finding_tips": "五至十月在林缘与叶上寻找暗褐至黑褐色的大型猎蝽。咬伤剧痛，请勿徒手触摸。"
+    }
+  },
+  "Andrallus spinidens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロヘリクチブトカメムシ。中型のカメムシで、淡褐色の体に鮮明な白い縁取りを持ち、口吻が太いのが「クチブト」の名の由来。捕食性で、害虫の幼虫を捕食します。",
+      "habitat_hint": "草地、農地、河川敷、林縁、住宅地の庭。",
+      "finding_tips": "5〜10月、草地や農地で淡褐色に白い縁取りを持つ中型カメムシを探します。口吻が太く、他の昆虫の幼虫を捕食している姿が観察できます。"
+    },
+    "en": {
+      "summary": "White-spined Predatory Stink Bug. A medium stink bug with pale-brown body bordered white and a stout proboscis (the source of the Japanese name 'thick-mouth'). A predator on pest caterpillars.",
+      "habitat_hint": "Grasslands, farmland, riverbanks, forest edges, and residential gardens.",
+      "finding_tips": "From May to October look in grasslands and farmland for medium stink bugs with pale-brown body and white border. May be seen predating on other insect larvae."
+    },
+    "zh": {
+      "summary": "白边益蝽。中型椿象，淡褐色体具明显白色边缘、口吻粗大（『阔嘴』）。捕食性，捕食害虫幼虫。",
+      "habitat_hint": "草地、农田、河滩、林缘、住宅区庭院。",
+      "finding_tips": "五至十月在草地与农田寻找淡褐色配白色边缘的中型椿象。口吻粗大，可观察其捕食其他昆虫幼虫。"
+    }
+  },
+  "Carabus blaptoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マイマイカブリ。日本固有の大型ゴミムシで、頭部と胸部が極めて細長く、カタツムリ（マイマイ）を「被る」ように頭を殻に突っ込んで肉を食べることが和名の由来。光沢のある黒色〜暗藍色。",
+      "habitat_hint": "雑木林の林床、神社林、河畔林、湿った石下、半日陰の落ち葉中。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の林床や石下で頭部・胸部が極めて細長い大型のゴミムシを探します。カタツムリの殻の周辺で発見できることも。"
+    },
+    "en": {
+      "summary": "Snail-eating Ground Beetle. A Japan-endemic large ground beetle with an extraordinarily elongated head and thorax — used to plunge into snail ('maimai') shells to eat the flesh, the source of the Japanese name 'snail-wearer'. Glossy black to dark-blue.",
+      "habitat_hint": "Secondary woodland floors, shrine groves, riparian woods, under damp stones, and in partly shaded leaf litter.",
+      "finding_tips": "Year-round (most active in warm seasons), look on woodland floors and under stones for large ground beetles with very elongated heads and thoraxes. May be found near snail shells."
+    },
+    "zh": {
+      "summary": "蜗食步甲。日本固有的大型步甲，头胸极细长，用以伸入蜗牛（『maimai』）壳中取食肉，是日文俗名『戴蜗牛』由来。具光泽的黑至暗蓝色。",
+      "habitat_hint": "杂木林林床、神社林、河岸林、潮湿石下、半阴枯叶层。",
+      "finding_tips": "全年（暖季活跃）在林床与石下寻找头胸极细长的大型步甲。可能在蜗牛壳周边发现。"
+    }
   }
 }
