@@ -17442,5 +17442,185 @@
       "habitat_hint": "杂木林林床、神社林、堤岸、半阴斜坡、潮湿土壤。",
       "finding_tips": "全年在杂木林林床寻找具小型『活门』盖的洞穴。掀开可见蛛在内。稀有种，请仅观察勿打扰。"
     }
+  },
+  "Eucera nipponensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニッポンヒゲナガハナバチ。雄の触角が体長と同じくらい長く、和名と識別の決め手。春にレンゲなどのマメ科の花で吸蜜する野生のハナバチ。",
+      "habitat_hint": "草地、農地、河川敷、林縁、果樹園、公園の花壇。",
+      "finding_tips": "4〜6月、レンゲなどマメ科の花を訪れる雄の触角が異常に長いハナバチを探します。雌は触角が普通の長さです。"
+    },
+    "en": {
+      "summary": "Japanese Long-horned Bee. Males have antennae as long as the body — the diagnostic feature and source of the Japanese name. A wild bee nectaring on legume flowers in spring.",
+      "habitat_hint": "Grasslands, farmland, riverbanks, forest edges, orchards, and park flower beds.",
+      "finding_tips": "From April to June look at legume flowers (Chinese milk vetch etc.) for bees with extraordinarily long male antennae. Female antennae are normal."
+    },
+    "zh": {
+      "summary": "日本长须蜂。雄性触角与体长相当，是日文俗名与识别要点。春季访紫云英等豆科花的野生蜂。",
+      "habitat_hint": "草地、农田、河滩、林缘、果园、公园花坛。",
+      "finding_tips": "四至六月在紫云英等豆科花上寻找雄性触角异常长的蜂。雌性触角正常长度。"
+    }
+  },
+  "Amanita orientigemmata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コタマゴテングタケ。テングタケ属の中型キノコ。淡黄色〜黄褐色の傘に白いいぼがあり、根元に膨大した球状の基部（ボルバ）を持ちます。有毒です。",
+      "habitat_hint": "雑木林の林床、コナラ・クヌギ林、神社林、河畔林。",
+      "finding_tips": "夏〜秋（特に7〜10月）、雑木林の林床で淡黄色の傘に白いいぼがあるキノコを探します。誤食すると食中毒を起こすため絶対に食べないこと。"
+    },
+    "en": {
+      "summary": "Eastern Yellow-knobbed Amanita. A medium Amanita with a pale-yellow to yellowish-brown cap bearing white warts and a bulbous volva at the base. Poisonous.",
+      "habitat_hint": "Secondary woodland floors, oak woods, shrine groves, and riparian woods.",
+      "finding_tips": "From summer to autumn (especially July-October) look on woodland floors for mushrooms with pale-yellow caps bearing white warts. Never eat — causes poisoning."
+    },
+    "zh": {
+      "summary": "东方黄盖鹅膏。中型鹅膏属，菌盖淡黄至黄褐色具白色疣，菌柄基部球状膨大（菌托）。有毒。",
+      "habitat_hint": "杂木林林床、栎类林、神社林、河岸林。",
+      "finding_tips": "夏至秋（特别七至十月）在杂木林林床寻找菌盖淡黄色具白疣的蘑菇。误食中毒，切勿食用。"
+    }
+  },
+  "Trigastrotheca pentaphylla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クルマバザクロソウ。熱帯〜亜熱帯原産の小型一年草で、舗装の隙間や畑、空き地に帰化。5枚の小葉が輪生状につくのが和名と識別の決め手。",
+      "habitat_hint": "舗装の隙間、駐車場、畑、農地、空き地、河川敷。",
+      "finding_tips": "7〜10月、舗装の隙間や畑で5枚の小葉が輪生状に並ぶ匍匐性の一年草を探します。小さな白い花が葉腋に咲きます。"
+    },
+    "en": {
+      "summary": "Five-leaved Carpetweed. A small tropical-to-subtropical annual naturalised in pavement cracks, fields, and vacant lots. The Japanese name 'wheel-leaf carpetweed' refers to the five whorled leaflets — diagnostic.",
+      "habitat_hint": "Pavement cracks, parking lots, fields, farmland, vacant lots, and riverbanks.",
+      "finding_tips": "From July to October look in pavement cracks and fields for creeping annuals with five leaflets in whorls. Small white flowers in leaf axils."
+    },
+    "zh": {
+      "summary": "五蕊粟米草。原产热带至亚热带的小型一年草，归化于路面缝、菜地与空地。5 小叶轮生状是日文俗名与识别要点。",
+      "habitat_hint": "路面缝、停车场、菜地、农田、空地、河滩。",
+      "finding_tips": "七至十月在路面缝与菜地寻找具 5 小叶轮生的匍匐一年草。叶腋开白色小花。"
+    }
+  },
+  "Desarmillaria tabescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナラタケモドキ。広葉樹の樹幹基部や倒木に発生するキノコで、ナラタケに似ますがリング（菌輪）がありません。食用可ですが消化不良を起こすこともあるので注意。",
+      "habitat_hint": "雑木林の樹幹基部、倒木、切り株、神社林、河畔林。",
+      "finding_tips": "9〜11月、樹幹基部や倒木に群生する茶色〜黄褐色のキノコを探します。菌柄にリング（つば）がないことがナラタケとの区別点。"
+    },
+    "en": {
+      "summary": "Ringless Honey Mushroom. A mushroom appearing on broadleaf tree trunks and fallen logs. Similar to honey mushroom but lacks a ring on the stem. Edible but may cause digestive upset.",
+      "habitat_hint": "Trunk bases in secondary woodlands, fallen logs, stumps, shrine groves, and riparian woods.",
+      "finding_tips": "From September to November look at trunk bases and on fallen logs for clusters of brown to yellowish-brown mushrooms. Absence of a stem ring distinguishes it from honey mushroom."
+    },
+    "zh": {
+      "summary": "无环蜜环菌。阔叶树干基部与倒木上发生的蘑菇，似蜜环菌但无菌环。可食但可能引起消化不良。",
+      "habitat_hint": "杂木林树干基部、倒木、树桩、神社林、河岸林。",
+      "finding_tips": "九至十一月在树干基部与倒木寻找成簇的茶至黄褐色蘑菇。菌柄无环可与蜜环菌区分。"
+    }
+  },
+  "Pourthiaea villosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カマツカ。落葉小高木のバラ科で、林縁や雑木林に普通。5〜6月に白い小花を散房状に咲かせ、秋に小さな赤い果実をつけます。材は硬く、鎌の柄に使われたことが和名の由来。",
+      "habitat_hint": "雑木林、林縁、神社林、河畔林、二次林。",
+      "finding_tips": "花期5〜6月、果期9〜11月。雑木林で5月に白い小花の散房花序を咲かせ、秋に小さな赤い果実をつける落葉小高木を探します。"
+    },
+    "en": {
+      "summary": "Villous Christmas Berry. A small deciduous tree in Rosaceae, common in secondary woodlands and forest edges. White flower clusters in May-June; small red fruits in autumn. Hard wood used for sickle handles — the source of the Japanese name 'sickle-handle'.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, riparian woods, and secondary woods.",
+      "finding_tips": "Flowers May-June; fruits September-November. Look in secondary woodlands for small deciduous trees with white flat-topped flower clusters in May and small red fruits in autumn."
+    },
+    "zh": {
+      "summary": "毛叶石楠。蔷薇科落叶小乔木，杂木林与林缘常见。五至六月开白色小花伞房状，秋季结红色小果。木质坚硬曾作镰柄，是日文俗名『镰柄』由来。",
+      "habitat_hint": "杂木林、林缘、神社林、河岸林、次生林。",
+      "finding_tips": "花期五至六月，果期九至十一月。在杂木林寻找五月开白色小花伞房花序、秋季结红色小果的落叶小乔木。"
+    }
+  },
+  "Lespedeza cyrtobotrya": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マルバハギ。林縁や草地に生える落葉低木のマメ科で、ヤマハギに似ますが葉が円形〜倒卵形で先端が丸いのが特徴。秋に紅紫色の蝶形花を咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷、二次林。",
+      "finding_tips": "8〜10月、明るい林縁や草地で紅紫色の蝶形花を持ち、葉が円形〜倒卵形のハギを探します。ヤマハギより葉の先端が丸い。"
+    },
+    "en": {
+      "summary": "Roundleaf Lespedeza. A deciduous Fabaceae shrub of forest edges and grasslands, similar to Lespedeza bicolor but with rounded to obovate leaves with rounded tips. Rose-purple pea-flowers in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverbanks, and secondary woods.",
+      "finding_tips": "From August to October look at bright forest edges and grasslands for lespedezas with rose-purple pea-flowers and rounded to obovate leaves. Leaf tips more rounded than in Lespedeza bicolor."
+    },
+    "zh": {
+      "summary": "圆叶胡枝子。林缘与草地的落叶豆科灌木，似胡枝子但叶圆形至倒卵形、先端钝圆。秋季开紫红色蝶形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩、次生林。",
+      "finding_tips": "八至十月在明亮林缘与草地寻找具紫红色蝶形花、叶圆至倒卵形的胡枝子。叶尖比胡枝子更圆。"
+    }
+  },
+  "Thereuonema tuberculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゲジ（普通のゲジ）。中型のゲジで、15対の長く細い脚を持ちます。住宅地にも出現し、ゴキブリなどを捕食する益虫ですが、見た目から嫌われます。無害。",
+      "habitat_hint": "雑木林の林床、住宅地の物置・縁の下、湿った場所、神社林。",
+      "finding_tips": "通年（暖かい季節に活動的）、湿った場所や住宅地で長い脚を素早く動かして走るゲジを探します。オオゲジより小型。"
+    },
+    "en": {
+      "summary": "House Centipede (common form). A medium house centipede with 15 pairs of long slender legs. Enters houses; preys on cockroaches and other pests (a beneficial insect) but often disliked. Harmless.",
+      "habitat_hint": "Secondary woodland floors, residential storage areas, crawl spaces, damp places, and shrine groves.",
+      "finding_tips": "Year-round (most active in warm seasons), look in damp places and residences for centipedes with long legs moving rapidly. Smaller than the large house centipede."
+    },
+    "zh": {
+      "summary": "蚰蜒（普通蚰蜒）。中型蚰蜒，具 15 对细长腿。可入侵住宅，捕食蟑螂等害虫（益虫），但常因外观被厌恶。无害。",
+      "habitat_hint": "杂木林林床、住宅区储物间与檐下、潮湿处、神社林。",
+      "finding_tips": "全年（暖季活跃）在潮湿处与住宅寻找长腿快速移动的蚰蜒。比大蚰蜒小。"
+    }
+  },
+  "Nasturtium officinale": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オランダガラシ（クレソン）。欧州原産の水生〜半水生の多年草で、湧水や清流に帰化。葉は食用（クレソン）、独特の辛味とビタミン豊富。",
+      "habitat_hint": "湧水、清流、用水路、湿地、河川の岸辺。",
+      "finding_tips": "通年、湧水や清流で羽状複葉の濃緑色の水生〜半水生植物を探します。葉や茎を噛むと独特の辛味があり、識別できます。"
+    },
+    "en": {
+      "summary": "Watercress. A European-origin aquatic to semiaquatic perennial naturalised in springs and clear streams. Leaves are eaten (watercress salad), with a distinctive peppery taste and rich in vitamins.",
+      "habitat_hint": "Springs, clear streams, irrigation channels, wetlands, and river edges.",
+      "finding_tips": "Year-round, look in springs and clear streams for aquatic to semiaquatic plants with dark-green pinnate leaves. The distinctive peppery taste of a chewed leaf confirms identification."
+    },
+    "zh": {
+      "summary": "豆瓣菜（西洋菜）。原产欧洲的水生至半水生多年草，归化于湧泉与清流。叶可食（豆瓣菜沙拉），具独特辛辣味与丰富维生素。",
+      "habitat_hint": "湧泉、清流、灌溉沟、湿地、河岸。",
+      "finding_tips": "全年在湧泉与清流寻找具深绿色羽状复叶的水生至半水生植物。咬嚼叶与茎具独特辛辣味可识别。"
+    }
+  },
+  "Arisaema serratum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マムシグサ。林床や半日陰の場所に生える多年草のサトイモ科。茎の模様が「蝮（マムシ）の皮」に似ることが和名の由来。秋には赤い実が穂状に集まります。有毒。",
+      "habitat_hint": "雑木林の林床、谷地林、神社林、半日陰の斜面、河畔林。",
+      "finding_tips": "4〜6月、林床で茎にマムシのような斑点模様を持つ独特な草本を探します。仏炎苞（緑色〜紫褐色の筒状の苞）の中に小さな花序があります。"
+    },
+    "en": {
+      "summary": "Jack-in-the-Pulpit (Japanese form). An Araceae perennial of forest floors and partly shaded places. The Japanese name 'pit-viper plant' refers to the snake-skin-like stem pattern. Red fruits in spikes in autumn. Poisonous.",
+      "habitat_hint": "Secondary woodland floors, valley woods, shrine groves, partly shaded slopes, and riparian woods.",
+      "finding_tips": "From April to June look on forest floors for distinctive plants with snake-skin-like spotted stems. A spadix is inside the spathe (green to purple-brown tube). Do not eat — poisonous."
+    },
+    "zh": {
+      "summary": "齿叶天南星（蝮蛇草）。林床与半阴处的多年生天南星科。茎纹似『蝮蛇皮』，是日文俗名由来。秋季穗状红色果实。有毒。",
+      "habitat_hint": "杂木林林床、谷地林、神社林、半阴斜坡、河岸林。",
+      "finding_tips": "四至六月在林床寻找茎具蝮蛇状斑纹的独特草本。佛焰苞（绿至紫褐色筒形苞）内有花序。请勿食用——有毒。"
+    }
+  },
+  "Vicia tetrasperma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カスマグサ。スズメノエンドウとカラスノエンドウの中間サイズで「カスマ」（カラス・スズメの中間）の名がついた小型一年草。淡紫色の蝶形花を1〜2個ずつつけます。",
+      "habitat_hint": "草地、道端、河川敷、農地の縁、空き地。",
+      "finding_tips": "4〜6月、草地や道端で淡紫色の蝶形花が1〜2個ずつつく蔓性の一年草を探します。スズメノエンドウとカラスノエンドウの中間サイズで識別できます。"
+    },
+    "en": {
+      "summary": "Four-seeded Vetch. An annual intermediate in size between hairy vetch (Vicia hirsuta) and common vetch (Vicia sativa) — the Japanese name 'kasuma' combines elements of both. Pale-purple pea-flowers in 1-2's.",
+      "habitat_hint": "Grasslands, roadsides, riverbanks, farmland margins, and vacant lots.",
+      "finding_tips": "From April to June look in grasslands and roadsides for vining annuals with pale-purple pea-flowers borne in groups of 1-2. Intermediate size between hairy and common vetch."
+    },
+    "zh": {
+      "summary": "四籽野豌豆。介于小巢菜与救荒野豌豆中间体型的一年生豆科，日文俗名『カスマ』即取『カラス・スズメ』中间之意。具 1-2 朵淡紫蝶形花。",
+      "habitat_hint": "草地、路边、河滩、农田边缘、空地。",
+      "finding_tips": "四至六月在草地与路边寻找具 1-2 朵淡紫蝶形花的蔓生一年草。体型介于小巢菜与救荒野豌豆之间。"
+    }
   }
 }
