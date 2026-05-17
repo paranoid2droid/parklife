@@ -11628,5 +11628,167 @@
       "habitat_hint": "池塘、湿地、蓄水池、开阔水边、水田周边。",
       "finding_tips": "夏季池上找腹部覆淡蓝粉霜的中型蜻蜓。"
     }
+  },
+  "Inurois fletcheri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスバフユシャク。冬に飛ぶ「フユシャク」の代表種で、雄は冬の寒い夜に飛びますが、雌は翅が退化してほとんど飛びません。",
+      "habitat_hint": "雑木林、社寺林、街路樹、夜の街灯、家屋の壁。",
+      "finding_tips": "12〜2月の冬の夜、街灯に薄褐色の中型の蛾が集まっていれば本種の可能性。雌は翅が退化して芋虫のような姿で樹幹を歩きます。"
+    },
+    "en": {
+      "summary": "A 'winter moth' (Inurois fletcheri). Males fly on cold winter nights while females have reduced wings and barely fly. A signature of Japanese winter woodland.",
+      "habitat_hint": "Mixed woodland, shrine groves, street trees, around streetlights at night, and house walls.",
+      "finding_tips": "On winter nights (December to February) look at streetlights for a pale brown medium moth. Females are wingless and walk on tree trunks."
+    },
+    "zh": {
+      "summary": "冬尺蛾（Inurois fletcheri），代表性冬蛾。雄虫冬夜飞行，雌虫翅退化几乎不飞，是日本冬季林地的标志。",
+      "habitat_hint": "杂木林、神社树林、行道树、夜灯、房屋外墙。",
+      "finding_tips": "12月至2月夜里在路灯下找浅褐色中型蛾。雌虫无翅，沿树干步行。"
+    }
+  },
+  "Persicaria posumbu": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハナタデ。林床や林縁に普通の在来種タデ類。秋に細長い穂状に淡桃色の小花を立てます。葉は楕円形で、葉の表面に黒い斑紋があることもあります。",
+      "habitat_hint": "雑木林の林床、林縁、湿った草地、神社の境内、農地の縁。",
+      "finding_tips": "8〜10月、林床や林縁で淡桃色〜白色の細長い花穂を立てるタデ類を探します。葉中央に黒い斑紋があるのも目印。"
+    },
+    "en": {
+      "summary": "A native knotweed of forest understory and edges. Slender autumn spikes of small pale-pink flowers; leaves often bear a dark central blotch.",
+      "habitat_hint": "Forest understory, woodland edges, damp meadows, shrine grounds, and field margins.",
+      "finding_tips": "From August to October look for plants with slender spikes of pale-pink-to-white flowers. The dark leaf blotch is a useful clue."
+    },
+    "zh": {
+      "summary": "粘毛蓼（『花蓼』），本土蓼属，林床与林缘常见。秋季抽细长穗状淡粉色小花。叶中央常带黑斑。",
+      "habitat_hint": "杂木林林床、林缘、潮湿草地、神社境内、田边。",
+      "finding_tips": "八至十月在林床与林缘找抽细长穗状淡粉至白色花的蓼。叶中央黑斑亦可辨。"
+    }
+  },
+  "Lolium multiflorum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネズミムギ。ヨーロッパ原産の外来種の大型イネ科で、牧草・緑化として広く播かれます。河川敷や農地で野生化し、5〜7月に細長い穂を立てます。",
+      "habitat_hint": "河川敷、農地の縁、土手、空き地、明るい斜面。",
+      "finding_tips": "5〜7月、人の腰高ほどの大型イネ科で、芒のある細長い穂を持つ植物を探します。野生化した個体は河川敷で群生します。"
+    },
+    "en": {
+      "summary": "Italian Ryegrass, a European introduced grass widely sown for forage and revegetation. Naturalised on riverbanks; slender awned spikes in late spring and early summer.",
+      "habitat_hint": "Riverbanks, field margins, levees, vacant lots, and bright slopes.",
+      "finding_tips": "From May to July look for waist-high grasses with long awned spikes. Naturalised colonies are common on riverbanks."
+    },
+    "zh": {
+      "summary": "多花黑麦草，欧洲原产外来禾本科。常作牧草与绿化广播。在河滩与田边野化，五至七月抽具芒细长穗。",
+      "habitat_hint": "河滩、田边、堤岸、空地、明亮斜坡。",
+      "finding_tips": "五至七月找腰高、抽具芒细长穗的禾本科。河滩成片。"
+    }
+  },
+  "Erechtites hieraciifolius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダンドボロギク。北米原産の外来種で、夏〜秋に細長い白色の頭花を多数つける大型のキク科。タンポポに似た綿毛で種子を飛ばします。",
+      "habitat_hint": "河川敷、空き地、農地の縁、伐採跡地、明るい斜面。",
+      "finding_tips": "8〜10月、人の背丈ほどに育つ大型植物で、細長い白い頭花を多数つけるものを探します。葉は深く切れ込み、茎にはほぼ毛がありません。"
+    },
+    "en": {
+      "summary": "American Burnweed, a North-American introduced composite. Tall plant with many small slender white flower heads in late summer and autumn; dandelion-like seed plumes.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, clearings, and bright slopes.",
+      "finding_tips": "From August to October look for tall plants (over human height) with many small slender white heads. Deeply lobed leaves; nearly glabrous stems."
+    },
+    "zh": {
+      "summary": "败酱叶菊芹（外来），秋季开许多细长白色头花的高大菊科。果具冠毛传播。",
+      "habitat_hint": "河滩、空地、田边、伐木迹地、明亮斜坡。",
+      "finding_tips": "八至十月找超过人高、开许多细长白色头花的大型植物。叶深裂、茎近无毛。"
+    }
+  },
+  "Ranunculus cantoniensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケキツネノボタン。湿地や水田の縁に生える在来種のキンポウゲ科。春〜初夏に黄色い5弁花を咲かせます。**全草に有毒成分があり、汁が肌に付くと水ぶくれを起こすことも。**",
+      "habitat_hint": "水田、湿地、河川敷、田の畦、湿った草地。",
+      "finding_tips": "4〜6月、湿った場所で黄色い5弁花と深く切れ込んだ葉を持つ植物を探します。**全草有毒、肌に汁が付かないように注意。**"
+    },
+    "en": {
+      "summary": "Hairy Buttercup, a native ranunculus of wetlands and paddy edges. Yellow five-petalled flowers in spring and early summer. **All parts toxic; sap can blister skin.**",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, paddy levees, and damp meadows.",
+      "finding_tips": "From April to June look in damp ground for plants with yellow five-petalled flowers and deeply divided leaves. **Sap can irritate or blister skin — handle minimally.**"
+    },
+    "zh": {
+      "summary": "禺毛茛（『毛狐之牡丹』），本土毛茛科。生于水田与湿地，春初夏开黄色五瓣花。**全株有毒，汁液接触皮肤可引起水疱。**",
+      "habitat_hint": "水田、湿地、河滩、田埂、潮湿草地。",
+      "finding_tips": "四至六月在潮湿地找黄色五瓣花配深裂叶的植物。**全株有毒，汁勿沾皮肤。**"
+    }
+  },
+  "Amphicarpaea edgeworthii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブマメ。雑木林の林縁に普通のつる性一年草マメ科。秋に淡紫色の蝶形花を咲かせ、地下と地上の両方で実を作る独特の性質（同種2型）を持ちます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、神社の境内、明るい斜面、住宅地のフェンス。",
+      "finding_tips": "9〜10月、淡紫色の小さな蝶形花が葉腋から下垂するつる植物を探します。葉は3枚の小葉で、つるが他の植物に絡みます。"
+    },
+    "en": {
+      "summary": "Hog Peanut, a vining native legume. Pale violet pea flowers in autumn; uniquely produces both aerial and underground (cleistogamous) fruits.",
+      "habitat_hint": "Woodland edges, riverbank thickets, shrine grounds, bright slopes, and residential fences.",
+      "finding_tips": "From September to October look for vines with hanging clusters of small pale-violet pea flowers. Three-leaflet leaves; climbs other plants."
+    },
+    "zh": {
+      "summary": "两型豆，本土豆科攀缘一年生植物。秋开淡紫蝶形花。同时结地上和地下两种果实，独特。",
+      "habitat_hint": "杂木林林缘、河滩灌丛、神社境内、明亮斜坡、住宅围栏。",
+      "finding_tips": "九至十月找叶腋下垂淡紫色蝶形花的藤本。三出叶配缠绕茎。"
+    }
+  },
+  "Calamagrostis arundinacea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノガリヤス。雑木林の林床や明るい斜面に生える在来種の中型イネ科。柔らかい線形の葉と、夏に立ち上がる細い花穂が特徴。",
+      "habitat_hint": "雑木林の林床、明るい斜面、社寺林、河川敷、半日陰の斜面。",
+      "finding_tips": "7〜9月、林床や明るい斜面で細長い葉と、細い茎の先に細長く垂れる花穂を持つ中型のイネ科を探します。"
+    },
+    "en": {
+      "summary": "A native reed grass of forest understory and bright slopes. Soft linear leaves and slender summer flowering spikes.",
+      "habitat_hint": "Forest understory, bright slopes, shrine groves, riverbanks, and shaded slopes.",
+      "finding_tips": "From July to September look for medium grasses with soft narrow leaves and thin drooping flower spikes."
+    },
+    "zh": {
+      "summary": "野青茅，本土禾本科。生于林床与明亮斜坡，叶柔细线形，夏季抽细花穗。",
+      "habitat_hint": "杂木林林床、明亮斜坡、神社树林、河滩、半阴斜坡。",
+      "finding_tips": "七至九月在林床与明亮斜坡找叶细长柔软、细茎抽下垂花穗的中型禾本科。"
+    }
+  },
+  "Delphinium anthriscifolium": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セリバヒエンソウ。中国原産の外来種のキンポウゲ科で、春に淡紫色のスズメの飛ぶ形の花を咲かせます。**全草に有毒成分あり。**",
+      "habitat_hint": "雑木林の林床、神社の境内、明るい斜面、河川敷、農地の縁。",
+      "finding_tips": "4〜5月、淡紫色の独特の形の花（飛燕に似る）と、セリのような細かく切れ込んだ葉を持つ植物を探します。**全草有毒。**"
+    },
+    "en": {
+      "summary": "Anthriscus-leaved Larkspur, a Chinese-origin ranunculaceous introduced plant. Pale violet flowers of swallow-flight shape in spring. **All parts toxic.**",
+      "habitat_hint": "Forest understory, shrine grounds, bright slopes, riverbanks, and field margins.",
+      "finding_tips": "From April to May look for plants with pale violet swallow-shaped flowers and finely divided celery-like leaves. **All parts toxic — handle minimally.**"
+    },
+    "zh": {
+      "summary": "还亮草，中国原产外来毛茛科。春季开淡紫色似飞燕的花。**全株有毒。**",
+      "habitat_hint": "杂木林林床、神社境内、明亮斜坡、河滩、田边。",
+      "finding_tips": "四至五月寻找淡紫色飞燕形花配细裂似芹叶的植物。**全株有毒。**"
+    }
+  },
+  "Polystichum luctuosum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "雑木林の林床に生える中型の常緑シダ。葉軸に毛のような鱗片が密につき、葉は二回羽状でしっかりした質感です。Polystichum属の典型的な姿。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "葉軸に毛のような鱗片が密集する中型の常緑シダを探します。アスカイノデなどPolystichum属と類似で、専門書での識別が必要です。"
+    },
+    "en": {
+      "summary": "A medium evergreen shield fern of mixed forest understory. Bipinnate fronds with densely scaly rachis; typical Polystichum appearance.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for a medium evergreen fern with hair-like scales densely covering the rachis. Identification to species often requires keys."
+    },
+    "zh": {
+      "summary": "悲伤鳞毛蕨近缘，杂木林林床中型常绿耳蕨。叶轴密被毛状鳞片，二回羽状叶质坚韧。需借助资料才能精确鉴定到种。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶轴密被毛状鳞片的中型常绿耳蕨。属内相似度高，物种区分需专业参考。"
+    }
   }
 }
