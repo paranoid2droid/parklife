@@ -16182,5 +16182,185 @@
       "habitat_hint": "山地草原、明亮林缘、堤岸、开阔坡地、高原。",
       "finding_tips": "八至十一月在山地与草原寻找具鲜黄色头状花密集成穗的多年草。高 30-80 厘米，比加拿大一枝黄花小。"
     }
+  },
+  "Hosta sieboldiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバギボウシ。日本在来の大型のギボウシ。山地の林床に群生し、夏に白〜淡紫色の漏斗状花を穂状に咲かせます。若葉は山菜として食用に。",
+      "habitat_hint": "山地の林床、谷地林、湿った斜面、神社林、河畔林の地表。",
+      "finding_tips": "7〜8月、山地の林床で大きな卵形の葉を持ち、長い花茎に白〜淡紫色の漏斗状花を穂状につける大型多年草を探します。"
+    },
+    "en": {
+      "summary": "Siebold's Plantain Lily. A large native Japanese hosta of montane forest floors. White to pale-purple funnel flowers on spikes in summer. Young shoots are eaten as a wild vegetable.",
+      "habitat_hint": "Montane forest floors, valley woods, moist slopes, shrine groves, and riparian forest ground.",
+      "finding_tips": "From July to August look on montane forest floors for large perennials with broad ovate leaves and tall flower stems bearing white to pale-purple funnel-shaped flowers in spikes."
+    },
+    "zh": {
+      "summary": "大叶玉簪。日本本土的大型玉簪。生于山地林床，夏季在长花茎上穗状开放白至淡紫漏斗形花。嫩芽可作山菜。",
+      "habitat_hint": "山地林床、谷地林、湿润斜坡、神社林、河岸林地表。",
+      "finding_tips": "七至八月在山地林床寻找具大型卵形叶、长花茎上穗状开放白至淡紫漏斗形花的大型多年草。"
+    }
+  },
+  "Xenus cinereus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ソリハシシギ。嘴が上向きに反り返った中型のシギ。日本では春・秋の渡り期に干潟や河口で見られます。脚が短く黄色いのも特徴。",
+      "habitat_hint": "干潟、河口、塩性湿地、内陸の湿地、海岸近くの沼。",
+      "finding_tips": "4〜5月と8〜10月、干潟や河口で上向きに反った嘴と短い黄色の脚を持つ中型シギを探します。動きはやや早足で、しばしば走るように歩きます。"
+    },
+    "en": {
+      "summary": "Terek Sandpiper. A medium sandpiper with an upturned bill. Seen in Japan on mudflats and estuaries during spring and autumn migration. Short yellow legs are also diagnostic.",
+      "habitat_hint": "Mudflats, estuaries, salt marshes, inland wetlands, and coastal marshes.",
+      "finding_tips": "From April-May and August-October look on mudflats and estuaries for medium sandpipers with upturned bills and short yellow legs. Often briskly walking or running."
+    },
+    "zh": {
+      "summary": "翘嘴鹬。喙向上翘的中型鹬。日本春秋迁徙期见于滩涂与河口。腿短黄色也是特征。",
+      "habitat_hint": "滩涂、河口、盐沼、内陆湿地、海岸近郊沼泽。",
+      "finding_tips": "四至五月与八至十月在滩涂与河口寻找具上翘喙、短黄色腿的中型鹬。常快步行走或奔跑。"
+    }
+  },
+  "Luthrodes pandava": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロマダラソテツシジミ。ソテツの新芽を食べる小型のシジミチョウ。本来南方系の種ですが、近年関東〜本州に分布拡大しています。",
+      "habitat_hint": "ソテツの植栽地（公園、庭園、寺社境内、街路）、住宅地。",
+      "finding_tips": "5〜10月、ソテツのある場所でソテツの新芽の周辺を飛ぶ小型のシジミチョウを探します。雄は表面が金属青色に輝きます。"
+    },
+    "en": {
+      "summary": "Plains Cupid. A small lycaenid butterfly whose caterpillars feed on cycad ('sotetsu') new shoots. Originally a southern species, recently expanding into Kanto and main Honshu.",
+      "habitat_hint": "Cycad plantings (parks, gardens, temple/shrine grounds, streets), and residential areas.",
+      "finding_tips": "From May to October look near cycads for small lycaenid butterflies fluttering around new shoots. Males show brilliant metallic blue on the upper wing."
+    },
+    "zh": {
+      "summary": "苏铁绮灰蝶。幼虫取食苏铁新芽的小型灰蝶。原为南方种，近年向关东与本州扩散。",
+      "habitat_hint": "苏铁栽植地（公园、庭园、寺社境内、街道）、住宅区。",
+      "finding_tips": "五至十月在苏铁周边寻找围绕新芽飞舞的小型灰蝶。雄翅表面金属蓝色闪耀。"
+    }
+  },
+  "Metochus abbreviatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオモンシロナガカメムシ。中型のナガカメムシで、淡褐色〜灰色の地に白い模様があります。林床の落ち葉の中で見つかります。",
+      "habitat_hint": "雑木林の林床、落ち葉の中、河川敷の藪、農地、公園。",
+      "finding_tips": "通年（成虫越冬）、雑木林の落ち葉をかき分けて探します。地味な体色ですが、白い模様があるかチェック。"
+    },
+    "en": {
+      "summary": "A medium seed bug (Lygaeidae). Pale brown to grey with white markings. Found in leaf litter on forest floors.",
+      "habitat_hint": "Secondary woodland floors, leaf litter, riverside thickets, farmland, and parks.",
+      "finding_tips": "Year-round (adults overwinter), found by sifting through leaf litter in secondary woodlands. Drab colour with white markings to confirm."
+    },
+    "zh": {
+      "summary": "白纹大花长蝽。中型长蝽，淡褐至灰色具白色斑纹。常见于林床枯叶层。",
+      "habitat_hint": "杂木林林床、枯叶层、河滩灌丛、农田、公园。",
+      "finding_tips": "全年（成虫越冬）翻动林床枯叶可见。体色暗淡，凭白色斑纹确认。"
+    }
+  },
+  "Plinachtus bicoloripes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キバラヘリカメムシ。腹部が鮮黄色で、ヘリ（翅の縁）に黒色の縁取りがある中型のヘリカメムシ。マサキやニシキギの実を吸います。",
+      "habitat_hint": "マサキ・ニシキギ・ツルウメモドキのある林縁、生垣、公園、河川敷。",
+      "finding_tips": "8〜11月、マサキやニシキギの果実が熟す頃、その葉や果実の周辺で腹部の黄色と黒い縁取りを持つカメムシを探します。"
+    },
+    "en": {
+      "summary": "Yellow-bellied Leaf-footed Bug. A medium coreid with a brilliant yellow abdomen and black wing margins. Feeds on fruits of Euonymus.",
+      "habitat_hint": "Forest edges, hedges, parks, and riverbanks with Euonymus or Celastrus species.",
+      "finding_tips": "From August to November when Euonymus fruits ripen, look on the foliage and fruits for bugs with yellow abdomen and black wing margins."
+    },
+    "zh": {
+      "summary": "黄腹缘蝽。腹部鲜黄色、翅缘黑色的中型缘蝽。吸食卫矛与扶芳藤的果实。",
+      "habitat_hint": "有卫矛与扶芳藤的林缘、绿篱、公园、河滩。",
+      "finding_tips": "八至十一月在卫矛果实成熟时，于其叶与果实周边寻找具黄腹与黑翅缘的椿象。"
+    }
+  },
+  "Tagiades tethys": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダイミョウセセリ。黒褐色の翅に大きな白斑がある中型のセセリチョウ。林縁を素早く飛び、ヤマノイモ類を食草とします。",
+      "habitat_hint": "雑木林の林縁、ヤマノイモのある藪、林床、神社林、河畔林の縁。",
+      "finding_tips": "5〜10月、林縁で黒褐色の翅に明瞭な白斑のあるセセリチョウを探します。「ダイミョウ」（大名）は陣羽織の白い紋にちなみます。"
+    },
+    "en": {
+      "summary": "Common Snow Flat. A medium skipper with dark brown wings bearing large white patches. Flies rapidly at forest edges; larvae feed on Dioscorea yams.",
+      "habitat_hint": "Secondary woodland edges, thickets with Dioscorea, forest floors, shrine groves, and riparian forest edges.",
+      "finding_tips": "From May to October look at forest edges for fast-flying dark-brown skippers with clear white wing patches. The Japanese name 'daimyō' refers to the white crests on samurai surcoats."
+    },
+    "zh": {
+      "summary": "白边瓢弄蝶（大名弄蝶）。黑褐色翅具大型白斑的中型弄蝶。林缘快速飞行，幼虫取食薯蓣属。",
+      "habitat_hint": "杂木林林缘、有薯蓣的灌丛、林床、神社林、河岸林缘。",
+      "finding_tips": "五至十月在林缘寻找黑褐色翅具明显白斑的弄蝶。日文俗名『大名』取自武士披风上的白纹。"
+    }
+  },
+  "Thlaspida biramosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イチモンジカメノコハムシ。葉の上で「亀の甲」のように扁平な体型を持つ小型のカメノコハムシ。前翅中央に黒い縦線（一文字）があります。",
+      "habitat_hint": "ムラサキシキブやクマツヅラ科の植物、林縁、藪、河川敷の藪。",
+      "finding_tips": "5〜9月、ムラサキシキブなどの葉上で扁平な体型を持つカメノコハムシを探します。前翅中央の黒い縦線が決め手。"
+    },
+    "en": {
+      "summary": "Single-stripe Tortoise Beetle. A small tortoise beetle with flattened body resembling a turtle shell on leaves. A black longitudinal line down the centre of the elytra is diagnostic.",
+      "habitat_hint": "On Callicarpa (beautyberry) and Verbenaceae, forest edges, thickets, and riverside thickets.",
+      "finding_tips": "From May to September look on beautyberry leaves for flat-bodied tortoise beetles. The black central stripe on the elytra is diagnostic."
+    },
+    "zh": {
+      "summary": "一字龟甲。叶上具扁平龟甲状体型的小型龟甲。鞘翅中央具黑色纵纹是关键识别。",
+      "habitat_hint": "紫珠等马鞭草科植物上、林缘、灌丛、河滩灌丛。",
+      "finding_tips": "五至九月在紫珠叶上寻找体扁平的龟甲。鞘翅中央黑色纵纹是关键识别。"
+    }
+  },
+  "Fleutiauxia armata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クワハムシ。クワの葉を食害する中型のハムシ。橙黄色〜黒色で、後脚腿節に小さな棘があります。",
+      "habitat_hint": "クワのある雑木林、河川敷、桑園、神社林、住宅地のクワ。",
+      "finding_tips": "5〜9月、クワの葉上で橙黄色〜黒色の中型ハムシを探します。後脚の腿節に棘があるか確認するのが識別のポイント。"
+    },
+    "en": {
+      "summary": "Mulberry Leaf Beetle. A medium leaf beetle feeding on mulberry leaves. Orange-yellow to black; bears small spines on the hind femora.",
+      "habitat_hint": "Secondary woodlands with mulberry, riverbanks, mulberry plantations, shrine groves, and residential mulberries.",
+      "finding_tips": "From May to September look on mulberry leaves for orange-yellow to black medium leaf beetles. Check the hind femora for spines."
+    },
+    "zh": {
+      "summary": "桑叶甲。取食桑叶的中型叶甲。橙黄至黑色，后足腿节具小刺。",
+      "habitat_hint": "有桑树的杂木林、河滩、桑园、神社林、住宅区桑树。",
+      "finding_tips": "五至九月在桑叶上寻找橙黄至黑色的中型叶甲。后足腿节具刺是识别要点。"
+    }
+  },
+  "Eupeodes corollae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フタホシヒラタアブ。黒地に黄色い帯がある中型のヒラタアブ。花で吸蜜し、幼虫はアブラムシを捕食して益虫として知られます。",
+      "habitat_hint": "花のある草地、農地、林縁、公園の花壇、河川敷。",
+      "finding_tips": "4〜11月、花の周りでハチに擬態した黒黄縞のヒラタアブを探します。花の前でホバリングする習性が特徴。"
+    },
+    "en": {
+      "summary": "Migrant Hoverfly. A medium hoverfly with bold black-and-yellow bands mimicking a wasp. Adults nectar on flowers; larvae are aphid predators (a beneficial insect).",
+      "habitat_hint": "Flowering grasslands, farmland, forest edges, park flower beds, and riverbanks.",
+      "finding_tips": "From April to November look around flowers for black-and-yellow banded hoverflies. Distinctive hovering at flowers."
+    },
+    "zh": {
+      "summary": "黑带食蚜蝇。黑底配黄色条带、拟态蜂的中型食蚜蝇。成虫访花吸蜜，幼虫捕食蚜虫，益虫。",
+      "habitat_hint": "开花草地、农田、林缘、公园花坛、河滩。",
+      "finding_tips": "四至十一月在花朵周边寻找黑黄条带的食蚜蝇。常在花前悬停。"
+    }
+  },
+  "Vespa ducalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメスズメバチ。スズメバチ属の中では小型の部類。アシナガバチ類の巣を襲って幼虫を持ち去る習性があります。",
+      "habitat_hint": "雑木林、林縁、住宅地、農地、河畔林。",
+      "finding_tips": "5〜10月、雑木林や林縁で黒褐色に黄色の縞模様を持つやや小型のスズメバチを探します。アシナガバチの巣を襲う様子を観察できることも。"
+    },
+    "en": {
+      "summary": "Banded Hornet. A relatively small hornet that attacks paper wasp nests to carry off the larvae.",
+      "habitat_hint": "Secondary woodlands, forest edges, residential areas, farmland, and riparian woods.",
+      "finding_tips": "From May to October look in secondary woodlands and forest edges for somewhat smaller hornets with dark-brown body and yellow bands. May be observed attacking paper wasp nests."
+    },
+    "zh": {
+      "summary": "姬胡蜂。胡蜂属中较小的种类。袭击马蜂巢取走幼虫。",
+      "habitat_hint": "杂木林、林缘、住宅区、农田、河岸林。",
+      "finding_tips": "五至十月在杂木林与林缘寻找黑褐色配黄色条纹、体型略小的胡蜂。可观察其袭击马蜂巢。"
+    }
   }
 }
