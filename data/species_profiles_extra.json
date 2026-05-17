@@ -19800,5 +19800,185 @@
       "habitat_hint": "潮湿林床、溪边、谷地林、神社林、潮湿岩生地。",
       "finding_tips": "四至五月在潮湿林床与溪边寻找具对生圆至肾形叶、黄绿色小花的多年草。也可能生于岩石与倒木上。"
     }
+  },
+  "Trichosanthes kirilowii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウカラスウリ。蔓性の多年草のウリ科で、林縁や藪に絡みつきます。秋に橙赤色の球形の大きな果実をつけ、根は薬用（栝楼根）になります。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、農地の縁、生垣。",
+      "finding_tips": "花期7〜8月、果期9〜11月。林縁や藪で深く5〜7裂した葉と、夜に咲く白い独特なレース状の花、秋の橙赤色の大きな球形果実を持つ蔓性植物を探します。"
+    },
+    "en": {
+      "summary": "Chinese Snake Gourd. A vining perennial Cucurbitaceae climbing in forest edges and thickets. Large orange-red globose fruits in autumn; the roots ('gua-lou-gen') are medicinal.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, farmland margins, and hedges.",
+      "finding_tips": "Flowers July-August; fruits September-November. Look at forest edges for vines with deeply 5-7 lobed leaves, distinctive lace-like white night-blooming flowers, and large orange-red globose fruits in autumn."
+    },
+    "zh": {
+      "summary": "栝楼。蔓生多年生葫芦科，攀附林缘与灌丛。秋季结橙红色球形大果，根作中药『栝楼根』。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田边缘、绿篱。",
+      "finding_tips": "花期七至八月，果期九至十一月。在林缘与灌丛寻找具深 5-7 裂叶、夜开白色独特蕾丝状花、秋季橙红色球形大果的蔓生植物。"
+    }
+  },
+  "Scutellaria brachyspica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オカタツナミソウ。明るい林縁や草地に生える小型多年草のシソ科。秋に紫色の唇形花が穂状に並びます。タツナミソウ（波の立つ姿）に似ますが、より乾いた場所を好みます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、神社林。",
+      "finding_tips": "5〜7月、明るい林縁や草地で紫色の唇形花が一方向に向いて穂状に並ぶ多年草を探します。葉は対生で卵形〜披針形。"
+    },
+    "en": {
+      "summary": "Short-spike Skullcap. A small Lamiaceae perennial of bright forest edges and grasslands. Spikes of purple lipped flowers in summer. Similar to common skullcap but prefers drier sites.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and shrine groves.",
+      "finding_tips": "From May to July look at bright forest edges and grasslands for perennials with one-sided spikes of purple lipped flowers. Opposite ovate-lanceolate leaves."
+    },
+    "zh": {
+      "summary": "短穗黄芩。明亮林缘与草地的小型唇形科多年草。夏季穗状开紫色唇形花。似立浪草但偏好更干燥处。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、神社林。",
+      "finding_tips": "五至七月在明亮林缘与草地寻找具紫色唇形花单侧穗状排列的多年草。叶对生卵至披针形。"
+    }
+  },
+  "Cerace xanthocosma": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ビロードハマキ。大型のハマキガで、翅は黒地に橙黄色の鮮やかな縞模様を持ちます。樹幹や葉裏で休み、夜に活動します。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で黒地に橙黄色の鮮やかな縞模様を持つ大型ガを探します。夜行性ですが、日中も樹幹で見つかります。"
+    },
+    "en": {
+      "summary": "Velvet Tortrix. A large tortrix moth with black wings boldly striped orange-yellow. Rests on tree trunks and leaf undersides; nocturnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for large moths with bold black-and-orange-yellow striped wings. Nocturnal but also found resting by day."
+    },
+    "zh": {
+      "summary": "天鹅绒卷蛾。大型卷蛾，翅黑底配鲜艳橙黄色条纹。停于树干与叶背，夜间活动。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找黑底配鲜艳橙黄色条纹的大型蛾。夜行，白天也常停于树干。"
+    }
+  },
+  "Anisolabis maritima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハマベハサミムシ。海岸の砂浜や石の下に住む大型のハサミムシ。黒褐色で、尾端の鋏（ハサミ）が発達しています。海岸線の代表的な土壌動物。",
+      "habitat_hint": "海岸の砂浜、海岸近くの石の下、海浜植生、漂着物の下、防波堤の隙間。",
+      "finding_tips": "通年（暖かい季節に活動的）、海岸の砂浜や石の下で黒褐色の大型ハサミムシを探します。漂着海藻の下にも多い。"
+    },
+    "en": {
+      "summary": "Maritime Earwig. A large earwig living on sandy beaches and under coastal stones. Dark brown with well-developed pincers at the rear end. An iconic soil animal of coastlines.",
+      "habitat_hint": "Sandy beaches, under stones near the coast, coastal vegetation, under washed-up debris, and breakwater crevices.",
+      "finding_tips": "Year-round (most active in warm seasons), look on sandy beaches and under coastal stones for large dark-brown earwigs. Also common under washed-up seaweed."
+    },
+    "zh": {
+      "summary": "海滨蠼螋。栖于海岸沙滩与石下的大型蠼螋。黑褐色，尾端钳发达。是海岸线代表性土壤动物。",
+      "habitat_hint": "海岸沙滩、海岸近郊石下、海滨植被、漂浮物下、防波堤缝隙。",
+      "finding_tips": "全年（暖季活跃）在海岸沙滩与石下寻找黑褐色大型蠼螋。漂浮海藻下也多。"
+    }
+  },
+  "Araneus ventricosus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニグモ。日本最大級のコガネグモ科のクモ。黒褐色〜灰褐色の大型の腹部を持ち、夜に大きな円網を樹間や軒下に張ります。日中は隅に隠れています。",
+      "habitat_hint": "雑木林、林縁、住宅地の軒下、公園、神社林、河畔林。",
+      "finding_tips": "5〜10月、夜に樹間や軒下に張られた大きな円網を探します。日中は網の隅や物陰に隠れているクモを確認。"
+    },
+    "en": {
+      "summary": "Japanese Garden Spider. One of Japan's largest orbweavers. Dark brown to grey-brown with a large abdomen; builds large circular webs between trees and under eaves at night. Hides in corners by day.",
+      "habitat_hint": "Secondary woodlands, forest edges, residential eaves, parks, shrine groves, and riparian woods.",
+      "finding_tips": "From May to October look at night for large circular webs between trees and under eaves. By day check corners of the web and sheltered spots for the spider."
+    },
+    "zh": {
+      "summary": "大腹圆蛛。日本最大级园蛛之一。黑褐至灰褐色，腹部肥大，夜间在树间与檐下结大型圆网。白天躲于网角与隐蔽处。",
+      "habitat_hint": "杂木林、林缘、住宅檐下、公园、神社林、河岸林。",
+      "finding_tips": "五至十月夜间寻找树间与檐下的大型圆网。白天检查网角与隐蔽处寻找蜘蛛。"
+    }
+  },
+  "Dianemobius fascipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネッタイマダラスズ。小型のコオロギで、夜間に「リリリリ…」と高い音色で連続して鳴きます。脚に縞模様（マダラ）があるのが和名の由来。",
+      "habitat_hint": "草地、林縁、農地、住宅地の庭、河川敷の草地。",
+      "finding_tips": "7〜10月、夜に草地や住宅地で「リリリリ…」と連続して鳴く小型コオロギを探します。脚の縞模様も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Tropical Banded Cricket. A small cricket singing 'ririri...' with a high continuous tone at night. The Japanese name 'banded' refers to striped legs.",
+      "habitat_hint": "Grasslands, forest edges, farmland, residential gardens, and riverside grasslands.",
+      "finding_tips": "From July to October at night listen in grasslands and residential areas for small crickets singing a continuous 'ririri...'. Leg banding also helps identify."
+    },
+    "zh": {
+      "summary": "热带斑蟋。小型蟋蟀，夜间发出『ririri...』高音连续鸣声。腿具条纹（斑）是日文俗名由来。",
+      "habitat_hint": "草地、林缘、农田、住宅区庭院、河滩草地。",
+      "finding_tips": "七至十月夜间在草地与住宅区聆听『ririri...』连续鸣声的小型蟋蟀。腿上条纹也可助识别。"
+    }
+  },
+  "Vargalorta nawae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナワキリガ。秋〜冬に発生する中型のヤガで、樹液や腐果に集まります。翅は淡褐色〜灰褐色で複雑な縞模様。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、果樹園、神社林。",
+      "finding_tips": "10〜12月、樹液の出る樹や腐果の周辺で淡褐色〜灰褐色の翅を持つ中型ガを探します。冬に活動する珍しい部類のガ。"
+    },
+    "en": {
+      "summary": "Nawa's Sallow. An autumn-to-winter-emerging medium noctuid moth, attracted to tree sap and fallen fruit. Pale-brown to grey-brown wings with complex banded patterns.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, orchards, and shrine groves.",
+      "finding_tips": "From October to December look at sap flows and fallen fruit for medium moths with pale-brown to grey-brown wings. Unusual among moths in being active in winter."
+    },
+    "zh": {
+      "summary": "名和秋翅夜蛾。秋至冬发生的中型夜蛾，聚集于树液与腐果。翅淡褐至灰褐色具复杂条纹。",
+      "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
+      "finding_tips": "十至十二月在树液与腐果周边寻找淡褐至灰褐色翅的中型蛾。在蛾类中冬季活跃属罕见。"
+    }
+  },
+  "Gonopsis affinis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エビイロカメムシ。中型のカメムシで、淡橙褐色〜赤褐色の独特の体色からエビ色と呼ばれます。イネ科植物（特にススキ）の穂を吸います。",
+      "habitat_hint": "ススキ草原、河川敷、田畑の縁、林縁、農地。",
+      "finding_tips": "5〜10月、ススキ草原や河川敷でススキの穂につく淡橙褐色〜赤褐色（エビ色）の中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Shrimp-coloured Stink Bug. A medium stink bug with distinctive pale orange-brown to reddish-brown colour reminiscent of cooked shrimp. Feeds on grass spikes (especially Miscanthus).",
+      "habitat_hint": "Miscanthus grasslands, riverbanks, farmland margins, forest edges, and farmland.",
+      "finding_tips": "From May to October look in Miscanthus grasslands and riverbanks on Miscanthus spikes for medium pale orange-brown to reddish-brown (shrimp-coloured) stink bugs."
+    },
+    "zh": {
+      "summary": "虾色椿（亲缘叉胸蝽）。中型椿象，淡橙褐至红褐色独特体色似熟虾。吸食禾本科（尤芒草）穗。",
+      "habitat_hint": "芒草草原、河滩、田边、林缘、农田。",
+      "finding_tips": "五至十月在芒草草原与河滩的芒草穗上寻找淡橙褐至红褐色（虾色）的中型椿象。"
+    }
+  },
+  "Ivela auripes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キアシドクガ。中型のドクガ科で、雌の脚が鮮黄色なのが和名の由来。幼虫はミズキ類の葉を食害し、大発生することもあります。",
+      "habitat_hint": "雑木林、林縁、ミズキ・ヤマボウシのある公園、神社林、河畔林。",
+      "finding_tips": "成虫期5〜6月、幼虫期4〜5月。ミズキやヤマボウシの周辺で白い翅と鮮黄色の脚を持つ中型のガを探します。幼虫はミズキの葉を食害し、毛虫として目立つ。"
+    },
+    "en": {
+      "summary": "Yellow-legged Tussock Moth. A medium tussock moth — females have brilliant yellow legs, the source of the Japanese name. Caterpillars defoliate Cornus species, sometimes in outbreaks.",
+      "habitat_hint": "Secondary woodlands, forest edges, parks with Cornus species, shrine groves, and riparian woods.",
+      "finding_tips": "Adults May-June, larvae April-May. Look around Cornus species for medium moths with white wings and bright yellow legs. Caterpillars defoliating dogwood are conspicuous."
+    },
+    "zh": {
+      "summary": "黄足毒蛾。中型毒蛾，雌性腿鲜黄色是日文俗名由来。幼虫为害梾木类叶，可暴发。",
+      "habitat_hint": "杂木林、林缘、有梾木与四照花的公园、神社林、河岸林。",
+      "finding_tips": "成虫期五至六月，幼虫期四至五月。在梾木与四照花周边寻找白翅与鲜黄腿的中型蛾。幼虫为害梾木叶时显眼。"
+    }
+  },
+  "Eupsilia quadrilinea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨスジノコメキリガ。秋〜冬に発生する中型のヤガで、翅に4本の独特な縦線（4筋）があるのが和名と識別の決め手。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、神社林、河畔林。",
+      "finding_tips": "10〜12月、樹液の出る樹や腐果の周辺で翅に4本の縦線がある中型ガを探します。冬に活動する珍しい部類。"
+    },
+    "en": {
+      "summary": "Four-stripe Sallow. An autumn-to-winter-emerging medium noctuid moth with four distinctive longitudinal stripes on the wings — the diagnostic feature and source of the Japanese name.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, shrine groves, and riparian woods.",
+      "finding_tips": "From October to December look at sap flows and fallen fruit for medium moths with four longitudinal stripes on the wings. Unusual in being active in winter."
+    },
+    "zh": {
+      "summary": "四纹秋翅夜蛾。秋至冬发生的中型夜蛾，翅上具 4 条独特纵纹是日文俗名与识别要点。",
+      "habitat_hint": "杂木林、林缘、出树液的树、神社林、河岸林。",
+      "finding_tips": "十至十二月在树液与腐果周边寻找翅上具 4 条纵纹的中型蛾。冬季活跃属罕见。"
+    }
   }
 }
