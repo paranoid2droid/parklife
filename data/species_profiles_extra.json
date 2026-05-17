@@ -21240,5 +21240,185 @@
       "habitat_hint": "潮湿石下、枯叶层、花盆下、住宅区储物间、杂木林林床。",
       "finding_tips": "全年（暖季活跃）在潮湿石下与枯叶层寻找灰褐色细长甲壳类。与卷球鼠妇不同，不卷球是关键识别。"
     }
+  },
+  "Calanthe discolor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エビネ。日本固有の地生ランで、明るい雑木林の林床に生えます。春に独特の褐色〜緑色の花を穂状に咲かせ、唇弁が白く美しい。希少種として保護対象。",
+      "habitat_hint": "明るい雑木林の林床、神社林、半日陰の斜面、コナラ・クヌギ林。",
+      "finding_tips": "4〜5月、明るい雑木林の林床で褐色〜緑色の花が穂状に並び、唇弁が白い地生ランを探します。希少種なので採取せず観察のみで。"
+    },
+    "en": {
+      "summary": "Japanese Calanthe. A Japan-endemic terrestrial orchid of bright secondary woodland floors. In spring, spikes of distinctive brown-to-green flowers with white lips. A protected rare species.",
+      "habitat_hint": "Bright secondary woodland floors, shrine groves, partly shaded slopes, and oak woods.",
+      "finding_tips": "From April to May look on bright secondary woodland floors for terrestrial orchids with brown-to-green flowers in spikes and white lips. Rare — observe only, never collect."
+    },
+    "zh": {
+      "summary": "虾脊兰。日本固有的地生兰，生于明亮杂木林林床。春季穗状开放褐至绿色独特花，唇瓣白色美丽。受保护稀有种。",
+      "habitat_hint": "明亮杂木林林床、神社林、半阴斜坡、栎类林。",
+      "finding_tips": "四至五月在明亮杂木林林床寻找具褐至绿色穗状花、白色唇瓣的地生兰。稀有种，请仅观察勿采摘。"
+    }
+  },
+  "Rhodotypos scandens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロヤマブキ。落葉低木のバラ科で、林縁や雑木林に生えます。春に白い4弁の花を咲かせ、ヤマブキ（黄色5弁）とは別属。秋に黒い4個の果実が残るのが独特。",
+      "habitat_hint": "雑木林の林縁、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "花期4〜5月、果期9〜2月。林縁で白い4弁の花と、後に4個の黒い果実が残る落葉低木を探します。葉は対生で楕円形、葉脈が際立つ。"
+    },
+    "en": {
+      "summary": "White Kerria. A deciduous Rosaceae shrub of forest edges and secondary woodlands. White 4-petalled flowers in spring (a different genus from yellow 5-petalled Kerria). Distinctive cluster of 4 black fruits in autumn-winter.",
+      "habitat_hint": "Secondary woodland edges, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Flowers April-May; fruits September-February. Look at forest edges for deciduous shrubs with white 4-petalled flowers and clusters of 4 black fruits. Opposite elliptical leaves with prominent veins."
+    },
+    "zh": {
+      "summary": "白棣棠（鸡麻）。林缘与杂木林的蔷薇科落叶灌木。春季开白色四瓣花（与黄色五瓣的棣棠属不同）。秋季留 4 个黑色果实独特。",
+      "habitat_hint": "杂木林林缘、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "花期四至五月，果期九至二月。在林缘寻找具白色四瓣花、后留 4 个黑色果实的落叶灌木。叶对生椭圆形，脉显著。"
+    }
+  },
+  "Edgeworthia chrysantha": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツマタ。中国原産の落葉低木で、樹皮が和紙の高級原料として使われてきました。早春に黄色い筒状の花が球状に集まって下垂して咲き、独特の甘い香りがあります。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、住宅地の庭、植物園。",
+      "finding_tips": "花期3〜4月、庭園や公園で枝先に黄色い筒状の小花が球状に集まって下垂する落葉低木を探します。葉のない時期に花が咲くのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Oriental Paperbush. A Chinese-origin deciduous shrub whose bark has been used as premium paper-making material. In early spring, yellow tubular flowers in pendulous globe-shaped clusters with a distinctive sweet fragrance.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, residential gardens, and botanical gardens.",
+      "finding_tips": "Flowers March to April. Look in gardens and parks for deciduous shrubs with yellow tubular flowers in pendulous globe-like clusters at branch tips. Flowering before leaves emerge is diagnostic."
+    },
+    "zh": {
+      "summary": "结香。原产中国的落叶灌木，树皮自古作和纸高级原料。早春枝端下垂的黄色筒形花球状集生，具独特甜香。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、住宅区庭院、植物园。",
+      "finding_tips": "花期三至四月在庭园与公园寻找枝端下垂球状黄色筒形花序的落叶灌木。先花后叶是关键识别。"
+    }
+  },
+  "Osmorhiza aristata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブニンジン。林縁や林床に生える多年草のセリ科。葉が大型で繊細な2〜3回羽状複葉、初夏に白い小花の散形花序を咲かせます。果実が細長く独特の形。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、神社林。",
+      "finding_tips": "5〜7月、湿った林床や林縁で繊細な2〜3回羽状複葉と白い散形花序を持つセリ科多年草を探します。果実は長い棒状で衣服にもくっつきます。"
+    },
+    "en": {
+      "summary": "Bristly Sweet-cicely. A perennial umbellifer of forest edges and floors. Large delicate 2-3 times pinnate leaves; small white umbels in early summer. Distinctively elongated fruits that stick to clothing.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and shrine groves.",
+      "finding_tips": "From May to July look on damp forest floors and edges for Apiaceae perennials with delicate 2-3 times pinnate leaves and small white umbels. Long rod-shaped fruits stick to clothing."
+    },
+    "zh": {
+      "summary": "茴芹叶香根芹。林缘与林床的伞形科多年草。叶大型纤细 2-3 回羽状复叶，初夏开白色伞形小花。果实细长独特。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
+      "finding_tips": "五至七月在潮湿林床与林缘寻找具纤细 2-3 回羽状复叶、白色伞形花序的伞形科多年草。果实细长棒状粘衣物。"
+    }
+  },
+  "Morella rubra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマモモ。常緑高木で、暖地の山地や海岸近くに生え、街路樹や公園木としても植栽されます。雌雄異株で、雌株は初夏に赤紫色の独特な集合果が熟し、食用可。",
+      "habitat_hint": "暖地の山地、海岸近くの林、街路樹、公園植栽、寺社境内。",
+      "finding_tips": "果期6〜7月、街路や公園で雌株に赤紫色の集合果（直径1〜1.5cm、表面に細かい突起）が房状に実る常緑高木を探します。葉は革質で光沢のある楕円形。"
+    },
+    "en": {
+      "summary": "Chinese Bayberry. An evergreen tree of warm-area mountains and coastal regions; also widely planted as street and park trees. Dioecious — females ripen distinctive red-purple aggregate fruits in early summer; edible.",
+      "habitat_hint": "Warm-area mountains, coastal woods, street trees, park plantings, and temple/shrine grounds.",
+      "finding_tips": "Fruits June-July. Look in streets and parks for evergreen trees with red-purple aggregate fruits (1-1.5 cm, surface with fine bumps) on female trees. Leaves leathery glossy elliptical."
+    },
+    "zh": {
+      "summary": "杨梅。常绿乔木，生于暖地山地与海岸近郊，也广作行道树与公园栽植。雌雄异株，雌株初夏结独特红紫色聚合果，可食。",
+      "habitat_hint": "暖地山地、海岸近郊林、行道树、公园栽植、寺社境内。",
+      "finding_tips": "果期六至七月在街道与公园寻找雌株上结红紫色聚合果（直径 1-1.5 厘米，表面具细颗粒）的常绿乔木。叶革质具光泽椭圆形。"
+    }
+  },
+  "Clethra barbinervis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リョウブ。日本固有の落葉小高木で、山地や雑木林に生えます。夏に白い小花の総状花序を多数咲かせ、樹皮が滑らかで斑模様（マダラ）になることが特徴。若葉は山菜として食用に。",
+      "habitat_hint": "山地の雑木林、林縁、神社林、河畔林、二次林。",
+      "finding_tips": "花期7〜8月、雑木林で白い小花の総状花序と斑模様の滑らかな樹皮を持つ落葉小高木を探します。若葉は春の山菜（リョウブ飯）。"
+    },
+    "en": {
+      "summary": "Japanese Clethra. A Japan-endemic deciduous small tree of mountains and secondary woodlands. Many white small flowers in racemes in summer; distinctively smooth mottled bark. Young leaves are eaten as wild vegetable ('ryobu-meshi').",
+      "habitat_hint": "Montane secondary woodlands, forest edges, shrine groves, riparian woods, and secondary woods.",
+      "finding_tips": "Flowers July to August. Look in secondary woodlands for small deciduous trees with white flower racemes and smooth mottled bark. Spring shoots are eaten as wild vegetable."
+    },
+    "zh": {
+      "summary": "髭脉桤叶树。日本固有落叶小乔木，生于山地与杂木林。夏季密生白色总状花序，树皮光滑具斑纹是特征。嫩叶可作山菜（『リョウブ饭』）。",
+      "habitat_hint": "山地杂木林、林缘、神社林、河岸林、次生林。",
+      "finding_tips": "花期七至八月在杂木林寻找具白色总状花序、树皮光滑具斑纹的落叶小乔木。春芽可作山菜。"
+    }
+  },
+  "Demonax notabilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キイロトラカミキリ。中型のカミキリで、黒地に鮮黄色の縦縞模様（虎の縞）が美しい。広葉樹の枯木で幼虫が育ち、樹液や花に集まります。",
+      "habitat_hint": "雑木林の樹液の出る樹、枯木、林縁の花、神社林、河畔林。",
+      "finding_tips": "5〜8月、雑木林の樹液や花の周辺で黒地に鮮黄色の縦縞模様を持つ中型カミキリを探します。虎の縞のような模様が決め手。"
+    },
+    "en": {
+      "summary": "Yellow Tiger Longhorn. A medium longhorn beetle with bold yellow longitudinal stripes on a black ground — the 'tiger' pattern of the Japanese name. Larvae develop in dead broadleaf wood; adults visit sap and flowers.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands, dead wood, flowers at forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to August look at sap flows and on flowers in secondary woodlands for medium longhorns with bold yellow stripes on black. The 'tiger' pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "黄虎天牛。中型天牛，黑底配鲜黄色纵纹（虎纹）美丽。幼虫蛀阔叶枯木，成虫访树液与花。",
+      "habitat_hint": "杂木林出树液的树、枯木、林缘花丛、神社林、河岸林。",
+      "finding_tips": "五至八月在杂木林树液与花周边寻找黑底配鲜黄色纵纹的中型天牛。虎纹是关键识别。"
+    }
+  },
+  "Tridentiger obscurus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チチブ。日本固有の小型淡水〜汽水性のハゼ。河川の中下流や河口に普通で、石の下に隠れます。胸びれが大きく、雄は繁殖期に体色が黒くなります。",
+      "habitat_hint": "河川の中下流、河口の汽水域、用水路、ため池、湖沼。",
+      "finding_tips": "通年、河川の中下流や河口で石の下に隠れる小型のハゼを探します。雄の婚姻色（黒化）は4〜7月。"
+    },
+    "en": {
+      "summary": "Dusky Tridentiger Goby. A Japan-endemic small freshwater to brackish goby. Common in mid- to lower-reach rivers and estuaries; hides under stones. Large pectoral fins; males turn dark during breeding.",
+      "habitat_hint": "Mid- to lower-reach rivers, brackish estuaries, irrigation channels, ponds, and lakes.",
+      "finding_tips": "Year-round, look in mid- to lower river reaches and estuaries under stones for small gobies. Breeding males show dark nuptial coloration April-July."
+    },
+    "zh": {
+      "summary": "黑斑乌塘鳢。日本固有的小型淡水至汽水虾虎鱼。常见于河流中下游与河口，躲于石下。胸鳍大，雄性繁殖期变黑。",
+      "habitat_hint": "河流中下游、河口汽水域、灌溉沟、池塘、湖沼。",
+      "finding_tips": "全年在河流中下游与河口的石下寻找小型虾虎鱼。雄性婚姻色（变黑）四至七月。"
+    }
+  },
+  "Butorides atricapilla": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササゴイ。小型のサギで、暗緑色の体と頭頂の冠羽が特徴。日本では夏鳥として渡来し、河川や池の岸辺で魚や昆虫を捕えます。「漁の名手」として小石を水面に落として魚をおびき寄せることも。",
+      "habitat_hint": "河川の岸辺、ため池、湖沼、湿地、河口、用水路。",
+      "finding_tips": "5〜10月、河川や池の岸辺で暗緑色の小型のサギを探します。じっと立って獲物を待つ姿が観察できます。頭頂の冠羽も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Striated Heron. A small heron with dark green body and a crown crest. Summer visitor to Japan; hunts fish and insects at river edges and pond margins. Famously uses small stones dropped on the water to lure fish.",
+      "habitat_hint": "River edges, ponds, lakes, wetlands, estuaries, and irrigation channels.",
+      "finding_tips": "From May to October look at river and pond edges for small dark-green herons. Often stands motionless waiting for prey. The crown crest also helps identify."
+    },
+    "zh": {
+      "summary": "绿鹭。小型鹭，暗绿色身体配头顶冠羽为特征。日本夏候鸟，在河岸与池边捕食鱼与昆虫。以小石投水诱鱼的『渔猎技巧』著名。",
+      "habitat_hint": "河岸、池塘、湖沼、湿地、河口、灌溉沟。",
+      "finding_tips": "五至十月在河岸与池边寻找暗绿色小型鹭。常静立伏击猎物。头顶冠羽也可助识别。"
+    }
+  },
+  "Inocellia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ラクダムシ。日本固有の珍しい昆虫で、首が極めて長く「ラクダ」のように見えることが和名の由来。捕食性で、他の昆虫を捕えます。神経翅目（脈翅目）ではない独立した目（ラクダムシ目）。",
+      "habitat_hint": "雑木林の樹幹、神社林の老木、河畔林、山地の林。",
+      "finding_tips": "5〜7月、雑木林の樹幹で首が極めて長い独特な姿の昆虫を探します。希少種で見つけにくいが、樹皮の隙間や葉上で観察できることも。"
+    },
+    "en": {
+      "summary": "Japanese Snakefly. A Japan-endemic unusual insect with an extraordinarily long 'neck' resembling a camel — the source of the Japanese name 'camel insect'. Predatory; catches other insects. Belongs to Raphidioptera, an order separate from Neuroptera.",
+      "habitat_hint": "Tree trunks in secondary woodlands, old trees in shrine groves, riparian woods, and montane forests.",
+      "finding_tips": "From May to July look on tree trunks in secondary woodlands for insects with very long 'necks'. Rare and hard to find, but sometimes seen in bark crevices and on leaves."
+    },
+    "zh": {
+      "summary": "日本蛇蛉。日本固有的独特昆虫，颈极长形似『骆驼』，是日文俗名『骆驼虫』由来。捕食性，捕食其他昆虫。属蛇蛉目，独立于脉翅目。",
+      "habitat_hint": "杂木林树干、神社林老树、河岸林、山地林。",
+      "finding_tips": "五至七月在杂木林树干寻找颈极长的独特昆虫。稀有难见，偶可在树皮缝隙与叶上观察。"
+    }
   }
 }
