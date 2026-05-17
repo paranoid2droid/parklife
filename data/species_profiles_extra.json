@@ -22320,5 +22320,185 @@
       "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
       "finding_tips": "八至十月夜间在草地与河滩聆听淡褐至淡绿色小型螽斯『shiri-shiri...』鸣声。"
     }
+  },
+  "Aquarius elongatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオアメンボ。日本最大級のアメンボで、河川や池の水面を素早く滑走します。体長は20mm以上にもなり、長い脚で水面の表面張力を利用して立ちます。",
+      "habitat_hint": "河川、ため池、湖沼、湿地、用水路。",
+      "finding_tips": "通年（暖かい季節に活動的）、河川や池の水面で長い脚を持つ大型のアメンボを探します。普通のアメンボより一回り大型。"
+    },
+    "en": {
+      "summary": "Large Water Strider. One of Japan's largest water striders, gliding rapidly across rivers and ponds. Body over 20 mm long, using long legs to stand on the water surface tension.",
+      "habitat_hint": "Rivers, ponds, lakes, wetlands, and irrigation channels.",
+      "finding_tips": "Year-round (most active in warm seasons), look on river and pond surfaces for large long-legged water striders. Larger than common water striders."
+    },
+    "zh": {
+      "summary": "大水黾。日本最大级水黾，在河流与池塘水面快速滑行。体长 20 毫米以上，长腿利用水面张力站立。",
+      "habitat_hint": "河流、池塘、湖沼、湿地、灌溉沟。",
+      "finding_tips": "全年（暖季活跃）在河流与池塘水面寻找具长腿的大型水黾。比普通水黾大一圈。"
+    }
+  },
+  "Leucauge celebesiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオシロカネグモ。緑色と銀色のメタリックな配色を持つ中型のクモで、チュウガタシロカネグモより大型。林縁や藪で円網を斜めに張ります。",
+      "habitat_hint": "雑木林の林縁、藪、河畔林、神社林、農地の縁。",
+      "finding_tips": "5〜10月、林縁や藪で緑色〜銀色の腹部を持つ大型のクモが斜めに張った円網にいるのを探します。網を斜めに張る習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Large Silver Orbweaver. A medium-large silver-and-green metallic-coloured orbweaver, larger than Leucauge blanda. Builds tilted circular webs at forest edges and in thickets.",
+      "habitat_hint": "Secondary woodland edges, thickets, riparian woods, shrine groves, and farmland margins.",
+      "finding_tips": "From May to October look at forest edges and thickets for spiders with green-and-silver abdomens on tilted circular webs. Tilted web orientation helps identify."
+    },
+    "zh": {
+      "summary": "大银鳞蛛。腹部绿与银色金属色的中至大型蜘蛛，比近缘种更大。在林缘与灌丛斜结圆网。",
+      "habitat_hint": "杂木林林缘、灌丛、河岸林、神社林、农田边缘。",
+      "finding_tips": "五至十月在林缘与灌丛寻找腹部绿至银色的较大蜘蛛停于斜置圆网。斜网是识别要点。"
+    }
+  },
+  "Rhynchaglaea scitula": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャマダラキリガ。秋〜冬に発生する中型のヤガで、淡褐色〜灰褐色の翅に複雑な縞模様。樹液や腐果に集まります。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、果樹園、神社林。",
+      "finding_tips": "10〜12月、樹液の出る樹や腐果の周辺で淡褐色〜灰褐色の翅を持つ中型ガを探します。冬に活動する珍しい部類のガ。"
+    },
+    "en": {
+      "summary": "Brown-spotted Sallow. An autumn-to-winter-emerging medium noctuid moth with pale-brown to grey-brown wings bearing complex banded patterns. Attracted to tree sap and fallen fruit.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, orchards, and shrine groves.",
+      "finding_tips": "From October to December look at sap flows and fallen fruit for medium moths with pale-brown to grey-brown wings. One of the rare moths active in winter."
+    },
+    "zh": {
+      "summary": "茶斑秋翅夜蛾。秋至冬发生的中型夜蛾，翅淡褐至灰褐色具复杂条纹。聚集于树液与腐果。",
+      "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
+      "finding_tips": "十至十二月在树液与腐果周边寻找淡褐至灰褐色翅的中型蛾。冬季活跃属罕见。"
+    }
+  },
+  "Alcimocoris japonensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウシカメムシ。中型のカメムシで、胸部の両側が牛の角のように突き出ているのが和名「牛」の由来。淡褐色〜灰色の体色。Alcimocoris japonersis と同種。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、河畔林、住宅地の庭。",
+      "finding_tips": "5〜10月、雑木林の林縁や葉上で胸部両側が牛の角のように突き出た淡褐色〜灰色の中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Cow Stink Bug (correct spelling). A medium stink bug with pronotum projections like cow horns. Same species as Alcimocoris japonersis (the misspelled form).",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, riparian woods, and residential gardens.",
+      "finding_tips": "From May to October look at forest edges and on foliage for medium pale-brown to grey stink bugs with cow-horn-like pronotum projections."
+    },
+    "zh": {
+      "summary": "牛角椿（正确拼写）。中型椿象，前胸两侧突出如牛角。与 Alcimocoris japonersis 同种。",
+      "habitat_hint": "杂木林、林缘、农田、果园、河岸林、住宅区庭院。",
+      "finding_tips": "五至十月在杂木林林缘与叶上寻找前胸两侧具牛角状突起的淡褐至灰色中型椿象。"
+    }
+  },
+  "Tridentiger brevispinis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヌマチチブ。日本固有の小型淡水ハゼで、河川や湖沼に住みます。チチブに似ますが内陸型で、河川の中上流に多い。胸びれが大きく、雄は繁殖期に体色が黒くなります。",
+      "habitat_hint": "河川の中上流、湖沼、ため池、用水路、内陸の湿地。",
+      "finding_tips": "通年、河川の中上流や湖沼で石の下に隠れる小型のハゼを探します。チチブとの違いは生息環境（より上流・内陸）。"
+    },
+    "en": {
+      "summary": "Inland Goby. A Japan-endemic small freshwater goby of rivers and lakes. Similar to Dusky Tridentiger Goby but an inland form found in upper river reaches. Large pectoral fins; males turn dark during breeding.",
+      "habitat_hint": "Mid- to upper-reach rivers, lakes, ponds, irrigation channels, and inland wetlands.",
+      "finding_tips": "Year-round, look in mid- to upper river reaches and lakes under stones for small gobies. Habitat (more upstream/inland) separates it from Dusky Tridentiger Goby."
+    },
+    "zh": {
+      "summary": "短刺乌塘鳢。日本固有的小型淡水虾虎鱼，栖于河流与湖沼。似黑斑乌塘鳢但属内陆型，常见于河流中上游。胸鳍大，雄性繁殖期变黑。",
+      "habitat_hint": "河流中上游、湖沼、池塘、灌溉沟、内陆湿地。",
+      "finding_tips": "全年在河流中上游与湖沼的石下寻找小型虾虎鱼。栖地（更上游/内陆）与黑斑乌塘鳢区分。"
+    }
+  },
+  "Pipistrellus abramus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アブラコウモリ。日本の市街地で最も普通に見られる小型のコウモリ。住宅の屋根裏や軒の隙間にも住み、夜に蚊や小昆虫を捕えます。「家コウモリ」とも呼ばれます。",
+      "habitat_hint": "市街地、住宅地、公園、河川敷、農地、低山地。",
+      "finding_tips": "4〜10月、特に夕方〜夜に住宅地や公園の上空で素早く飛ぶ小型のコウモリを探します。「ヒ、ヒ、ヒ」と高い超音波を発するため、バットディテクターでも検出可。"
+    },
+    "en": {
+      "summary": "Japanese House Bat. The most commonly seen small bat in Japan's urban areas. Roosts in attics and eave crevices; hunts mosquitoes and small insects at night. Also called 'house bat'.",
+      "habitat_hint": "Urban areas, residential areas, parks, riverbanks, farmland, and low mountains.",
+      "finding_tips": "From April to October, especially at dusk and at night, look in skies over residential areas and parks for small rapidly flying bats. High-pitched ultrasound calls 'hi, hi, hi' can be detected with a bat detector."
+    },
+    "zh": {
+      "summary": "山蝠（家蝠）。日本市区最常见的小型蝙蝠。在屋顶夹层与檐缝栖息，夜间捕食蚊与小昆虫。又称『家蝠』。",
+      "habitat_hint": "市区、住宅区、公园、河滩、农田、低山地。",
+      "finding_tips": "四至十月（尤黄昏至夜间）在住宅区与公园上空寻找快速飞行的小型蝙蝠。高频超声波『hi, hi, hi』可用蝙蝠探测器检测。"
+    }
+  },
+  "Lestes temporalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオアオイトトンボ。日本最大級のアオイトトンボで、湿地や池沼の岸辺で見られます。緑色の金属光沢のある体と、止まるときに翅を半開きにする独特の姿勢が特徴。",
+      "habitat_hint": "湿地、ため池、湖沼、ヨシ原、河川敷の湿地。",
+      "finding_tips": "6〜10月、湿地や池沼の岸辺で緑色の金属光沢のある大型イトトンボを探します。翅を半開きにして止まる習性が他のイトトンボと違う識別ポイント。"
+    },
+    "en": {
+      "summary": "Large Spreadwing Damselfly. One of Japan's largest spreadwing damselflies, found at wetland and pond edges. Distinctive green metallic body and the habit of resting with wings half-open (unlike most damselflies that fold wings).",
+      "habitat_hint": "Wetlands, ponds, lakes, reedbeds, and wet riverbanks.",
+      "finding_tips": "From June to October look at wetland and pond edges for large green-metallic damselflies. The wings-half-open resting posture is diagnostic."
+    },
+    "zh": {
+      "summary": "大青丝蟌。日本最大级丝蟌，常见于湿地与池沼岸边。体绿色金属光泽，停时翅半开是独特识别（不同于多数蟌折翅）。",
+      "habitat_hint": "湿地、池塘、湖沼、芦苇丛、河滩湿地。",
+      "finding_tips": "六至十月在湿地与池沼岸边寻找绿色金属光泽的大型蟌。停时翅半开姿势是关键识别。"
+    }
+  },
+  "Camponotus kiusiuensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミカドオオアリ。日本固有の大型オオアリ属のアリで、黒い体に光沢があり、特に女王アリが大きい。雑木林の朽木や倒木に巣を作ります。",
+      "habitat_hint": "雑木林、朽木、倒木、樹幹の隙間、神社林、河畔林。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の倒木や朽木で大型の黒い光沢のあるアリを探します。日本固有種で関東以南に分布。"
+    },
+    "en": {
+      "summary": "Mikado Carpenter Ant. A Japan-endemic large Camponotus carpenter ant; glossy black, with notably large queens. Nests in rotting wood and fallen logs in secondary woodlands.",
+      "habitat_hint": "Secondary woodlands, rotting wood, fallen logs, tree trunk crevices, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round (most active in warm seasons), look in fallen logs and rotting wood for large glossy black ants. Japan-endemic, distributed from Kanto southward."
+    },
+    "zh": {
+      "summary": "御弓背蚁。日本固有的大型弓背蚁属，黑色具光泽，蚁后尤其大。在杂木林朽木与倒木筑巢。",
+      "habitat_hint": "杂木林、朽木、倒木、树干缝隙、神社林、河岸林。",
+      "finding_tips": "全年（暖季活跃）在倒木与朽木上寻找大型黑色具光泽的蚂蚁。日本固有种，分布于关东以南。"
+    }
+  },
+  "Nezara viridula": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミナミアオカメムシ。中型の鮮緑色のカメムシで、世界中の温暖地に分布する害虫。マメ科やナス科などの作物の汁を吸い、農作物に大きな被害を与えます。",
+      "habitat_hint": "畑、家庭菜園、農地、果樹園、河川敷、住宅地の庭。",
+      "finding_tips": "5〜11月、畑や農地で鮮緑色の中型カメムシを探します。マメ類、ナス、トマト、稲などに被害を与える代表的な害虫。"
+    },
+    "en": {
+      "summary": "Southern Green Stink Bug. A medium bright-green stink bug distributed in warm regions worldwide — a major pest. Sucks juices from Fabaceae, Solanaceae, and other crops, causing significant agricultural damage.",
+      "habitat_hint": "Vegetable fields, home gardens, farmland, orchards, riverbanks, and residential gardens.",
+      "finding_tips": "From May to November look in fields and farmland for medium bright-green stink bugs. A representative pest of legumes, eggplant, tomato, and rice."
+    },
+    "zh": {
+      "summary": "稻绿蝽。中型鲜绿色椿象，全球温暖地区分布的害虫。吸食豆科、茄科等作物，造成显著农业损失。",
+      "habitat_hint": "菜地、家庭菜园、农田、果园、河滩、住宅区庭院。",
+      "finding_tips": "五至十一月在菜地与农田寻找鲜绿色中型椿象。是豆类、茄、番茄、水稻的代表性害虫。"
+    }
+  },
+  "Xestophrys javanicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シブイロカヤキリ。大型のキリギリス科で、淡褐色〜灰褐色の地味な体色と巨大な体型が特徴。夜に「ジー…」と大きく低い音色で長く鳴きます。",
+      "habitat_hint": "草地、河川敷の草地、湿地、農地の縁、林縁。",
+      "finding_tips": "8〜10月、夜に草地や河川敷で「ジー…」と大きく低い音色で長く鳴く大型キリギリスを探します。日本産キリギリス類の中で最大級。"
+    },
+    "en": {
+      "summary": "Drab Pale-coloured Katydid. A large katydid with drab pale-brown to grey-brown coloration and a massive body. Sings a long loud low 'jiii...' at night.",
+      "habitat_hint": "Grasslands, riverside grasslands, wetlands, farmland margins, and forest edges.",
+      "finding_tips": "From August to October at night in grasslands and riverbanks listen for large katydids with a long loud low 'jiii...' call. One of the largest katydids in Japan."
+    },
+    "zh": {
+      "summary": "爪哇暗螽。大型螽斯科，淡褐至灰褐色体色暗淡、体型巨大。夜间发出『ji-』长而低沉响亮的鸣声。",
+      "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
+      "finding_tips": "八至十月夜间在草地与河滩聆听『ji-』长而低沉响亮鸣声的大型螽斯。日本产螽斯中最大级。"
+    }
   }
 }
