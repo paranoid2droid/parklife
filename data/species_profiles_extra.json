@@ -12114,5 +12114,167 @@
       "habitat_hint": "潮湿草地、河滩、田埂、田边、半阴草地。",
       "finding_tips": "九至十一月在潮湿草地找叶近心形抱茎、抽细穗的小型禾本科。"
     }
+  },
+  "Calidris alpina": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハマシギ。冬鳥として東京湾や河口に大群で渡来する小型のシギ。冬羽は地味な灰褐色、夏羽の繁殖羽は腹部に大きな黒い斑があります。",
+      "habitat_hint": "東京湾の干潟、河口、湖の浅瀬、塩田跡。",
+      "finding_tips": "11〜3月、東京湾の干潟で小型のシギが大群で泥地を歩き回る姿を探します。羽の色は地味ですが、群れで一斉に飛ぶ姿は壮観です。"
+    },
+    "en": {
+      "summary": "Dunlin, a small wader that gathers in large flocks at Tokyo Bay tidal flats in winter. Plain grey-brown in winter; breeding plumage has a bold black belly patch.",
+      "habitat_hint": "Tokyo Bay tidal flats, estuaries, lake shallows, and former salt pans.",
+      "finding_tips": "From November to March look at tidal flats for small waders gathered in dense flocks. The colours are plain but the synchronized flock-flight display is dramatic."
+    },
+    "zh": {
+      "summary": "黑腹滨鹬，小型鹬，冬季在东京湾滩涂大群渡来。冬羽朴素灰褐，繁殖羽腹具大块黑斑。",
+      "habitat_hint": "东京湾滩涂、河口、湖泊浅滩、废盐田。",
+      "finding_tips": "11月至3月在东京湾滩涂找小型鹬大群。色朴素但同步起飞场面壮观。"
+    }
+  },
+  "Acer pictum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イタヤカエデ。日本各地に普通の大型のカエデ類で、葉は掌状で5〜9裂、秋の紅葉は鮮やかな黄〜赤色です。樹液は甘く、メープルシロップの原料にもなります。",
+      "habitat_hint": "山地の雑木林、社寺林、谷沿いの林、明るい斜面、神社の境内。",
+      "finding_tips": "葉が掌状に5〜9裂する大型のカエデを探します。秋の紅葉時期は黄〜赤色が鮮やかで遠目にも目立ちます。"
+    },
+    "en": {
+      "summary": "Painted Maple, a common large maple across Japan. Palmate leaves (5–9-lobed); brilliant yellow-to-red autumn colour. Sap is sweet and can yield maple syrup.",
+      "habitat_hint": "Mountain mixed woodland, shrine groves, valley woods, bright slopes, and shrine grounds.",
+      "finding_tips": "Look for a large maple with palmate 5–9-lobed leaves. Bright yellow-to-red autumn foliage is conspicuous from a distance."
+    },
+    "zh": {
+      "summary": "色木槭（『板屋枫』），日本广布的大型槭树。掌状叶 5–9 裂，秋叶鲜艳黄红。汁液甜，可制枫糖浆。",
+      "habitat_hint": "山地杂木林、神社树林、谷地林、明亮斜坡、神社境内。",
+      "finding_tips": "找叶掌状 5–9 裂的大型槭树。秋季黄红叶远观即显眼。"
+    }
+  },
+  "Spiraea japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シモツケ。初夏に赤紫色〜淡桃色の小さな花が散房状に集まる落葉低木。観賞用に庭園にも広く植栽され、山地の明るい斜面で野生にも見られます。",
+      "habitat_hint": "山地の明るい斜面、庭園、神社の境内、社寺林、河川敷の樹木。",
+      "finding_tips": "5〜7月、赤紫〜淡桃色の小花が傘状に集まる低木を探します。葉は楕円形で鋸歯があり、庭木としては園芸品種が多数あります。"
+    },
+    "en": {
+      "summary": "Japanese Spiraea. A deciduous shrub bearing flat-topped clusters of small pink-to-magenta flowers in early summer. Widely planted ornamentally and also wild on bright mountain slopes.",
+      "habitat_hint": "Bright mountain slopes, gardens, shrine grounds, shrine groves, and riverside trees.",
+      "finding_tips": "From May to July look for shrubs with flat clusters of small pink-to-magenta flowers. Many cultivars exist in gardens; wild plants occur on open slopes."
+    },
+    "zh": {
+      "summary": "粉花绣线菊（『下野』），落叶灌木。初夏开伞房状粉至紫红色小花。常作观赏栽培，山地明亮斜坡亦有野生。",
+      "habitat_hint": "山地明亮斜坡、庭园、神社境内、神社树林、河岸树木。",
+      "finding_tips": "五至七月寻找开伞房状粉至紫红色小花的灌木。园艺品种众多。"
+    }
+  },
+  "Lithocarpus edulis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マテバシイ。光沢のある厚い大型の常緑葉と、秋〜冬に細長いどんぐりをつける常緑大木。神社の境内や公園に広く植栽されています。どんぐりは食用にもなります。",
+      "habitat_hint": "神社・寺院の境内、公園、社寺林、海岸近くの林、街路樹。",
+      "finding_tips": "光沢のある厚い大型の常緑葉と、秋〜冬に枝先に長い俵型のどんぐりをつける大木を探します。シラカシより葉が大きく、どんぐりも細長いです。"
+    },
+    "en": {
+      "summary": "Mateba-shii. A large evergreen tree with glossy thick leaves and elongated barrel-shaped acorns in autumn-winter. Widely planted at shrines and parks; the acorns are edible (low bitterness).",
+      "habitat_hint": "Shrine and temple grounds, parks, shrine groves, coastal woods, and street trees.",
+      "finding_tips": "Look for a large evergreen with glossy thick large leaves and long barrel-shaped acorns. Bigger leaves than the related Quercus species; acorns are notably elongated."
+    },
+    "zh": {
+      "summary": "可食柯（『马刀椎』），常绿大乔木。叶大厚有光泽，秋冬结细长椭圆形橡子。神社与公园广泛栽培，橡子可食（涩味低）。",
+      "habitat_hint": "神社寺庙境内、公园、神社树林、近海林、行道树。",
+      "finding_tips": "找叶大厚有光泽、秋冬结长椭圆形橡子的常绿大乔木。叶比栎类大、橡子细长。"
+    }
+  },
+  "Sympetrum pedemontanum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミヤマアカネ。中型の赤トンボで、翅の縁に独特の褐色帯があるのが目印。雄は鮮やかな赤色で美しいです。",
+      "habitat_hint": "山地の池、湿地、用水路、水田、明るい斜面の水たまり。",
+      "finding_tips": "夏〜秋、翅の縁に褐色の太い帯がある赤トンボを探します。他の赤トンボには見られない翅模様で識別しやすいです。"
+    },
+    "en": {
+      "summary": "Banded Darter. A medium red dragonfly with distinctive dark wing bands near the tips. Males are vivid red — strikingly handsome.",
+      "habitat_hint": "Mountain ponds, wetlands, ditches, paddies, and puddles on bright slopes.",
+      "finding_tips": "In summer and autumn watch for red dragonflies with bold dark wing bands. The wing pattern is unique among Sympetrum and confirms ID."
+    },
+    "zh": {
+      "summary": "条斑赤蜻，中型红蜻蜓。翅尖具独特深褐色横带。雄虫亮红色美丽。",
+      "habitat_hint": "山地池塘、湿地、灌渠、水田、明亮斜坡积水。",
+      "finding_tips": "夏秋观察翅尖具深褐色横带的红蜻蜓。翅纹独特，易于辨识。"
+    }
+  },
+  "Acanthopagrus schlegelii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロダイ。河口や汽水域に普通の中型の魚で、海と淡水を行き来する性質を持ちます。釣りの対象魚として人気があります。",
+      "habitat_hint": "東京湾、河口、汽水域、河川下流、漁港の周辺。",
+      "finding_tips": "河口や港の浅瀬で、銀色〜銀黒色の中型の魚を探します。雌雄同体の珍しい性質を持ち、成長段階で性転換します。"
+    },
+    "en": {
+      "summary": "Black Sea Bream. A medium fish of estuaries and brackish water; tolerates both salt and fresh water. A popular game fish. Notably, individuals are sequential hermaphrodites — sex changes with growth.",
+      "habitat_hint": "Tokyo Bay, estuaries, brackish water, lower rivers, and around fishing harbours.",
+      "finding_tips": "In estuarine and harbour shallows look for medium silvery-grey-to-black fish. Famous for the natural sex-change life cycle."
+    },
+    "zh": {
+      "summary": "黑鲷，河口与咸淡水的中型鱼，可在海水与淡水间往来。是流行的钓鱼对象。本种为顺序性雌雄同体，会随生长性转。",
+      "habitat_hint": "东京湾、河口、咸淡水、河流下游、渔港周边。",
+      "finding_tips": "河口与港湾浅水找银灰至银黑色中型鱼。具性转特殊生活史。"
+    }
+  },
+  "Kalimeris yomena": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨメナ。秋に淡紫色の頭花を多数咲かせる在来種のキク科。若葉は山菜として古来から食用にされ、餅に練り込む「嫁菜餅」も有名です。",
+      "habitat_hint": "湿った草地、河川敷、農地の縁、明るい斜面、神社の境内。",
+      "finding_tips": "8〜10月、淡紫色の小型の菊状花を多数咲かせる植物を探します。若葉は春に山菜として摘まれます。"
+    },
+    "en": {
+      "summary": "Yomena. A native composite with many small pale-violet daisies in late summer and autumn. Young shoots are foraged as a spring vegetable; 'yomena-mochi' (yomena rice cakes) are traditional.",
+      "habitat_hint": "Damp meadows, riverbanks, field margins, bright slopes, and shrine grounds.",
+      "finding_tips": "From August to October look for plants with many small pale-violet daisies. Spring shoots have a long history of culinary use."
+    },
+    "zh": {
+      "summary": "紫菀（『嫁菜』），本土菊科。秋季开许多淡紫色小型菊花。嫩芽自古作春季山菜，与饼合做『嫁菜饼』有名。",
+      "habitat_hint": "潮湿草地、河滩、田边、明亮斜坡、神社境内。",
+      "finding_tips": "八至十月寻找开许多淡紫色小菊花的植物。春嫩芽传统作野菜。"
+    }
+  },
+  "Pseudoedophrys hilleri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒレルクチブトゾウムシ。小型のゾウムシで、雌だけで繁殖する単為生殖の珍しい昆虫。果樹や観葉植物の葉を食害する害虫です。",
+      "habitat_hint": "果樹園、家庭菜園、河川敷、雑木林の林縁、住宅地の植え込み。",
+      "finding_tips": "果樹（特にカンキツ・サクラ・カエデ類）の葉に円形の食痕があれば、葉裏で本種を探します。**雌だけで繁殖するため雄は存在しません。**"
+    },
+    "en": {
+      "summary": "A small weevil that reproduces parthenogenetically — only females are known. A pest of fruit trees and ornamental shrubs whose leaves it skeletonises.",
+      "habitat_hint": "Orchards, kitchen gardens, riverbanks, woodland edges, and residential plantings.",
+      "finding_tips": "If citrus, cherry, or maple leaves bear round nibbles, check leaf undersides. **Notable as an all-female reproducing insect.**"
+    },
+    "zh": {
+      "summary": "希氏短喙象，小型象甲。孤雌生殖，仅有雌虫。是果树与观赏植物的害虫，叶上留圆形咬痕。",
+      "habitat_hint": "果园、家庭菜园、河滩、林缘、住宅区植被。",
+      "finding_tips": "果树（柑橘、樱花、枫等）叶上有圆形咬痕时翻看叶背。**全雌孤雌生殖。**"
+    }
+  },
+  "Carex pisiformis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホンモンジスゲ。雑木林の林床や明るい斜面に生える在来種の中型スゲ。葉が密に伸び、春〜初夏に細い花穂を立てます。",
+      "habitat_hint": "雑木林の林床、明るい斜面、神社の境内、社寺林、半日陰の草地。",
+      "finding_tips": "5〜6月、林床や明るい斜面で細長い葉と細い花穂を持つ中型スゲを探します。林床のグランドカバー的に群生します。"
+    },
+    "en": {
+      "summary": "A native medium sedge of forest understory and bright slopes. Dense leaves; slender flowering spikes in late spring and early summer.",
+      "habitat_hint": "Forest understory, bright slopes, shrine grounds, shrine groves, and shaded grass.",
+      "finding_tips": "From May to June look for medium sedges with dense narrow leaves and slender flower spikes."
+    },
+    "zh": {
+      "summary": "本门寺薹草（『豆形薹』），本土中型薹草，生于林床与明亮斜坡。叶密生，春末初夏抽细花穗。",
+      "habitat_hint": "杂木林林床、明亮斜坡、神社境内、神社树林、半阴草地。",
+      "finding_tips": "五至六月在林床与明亮斜坡找叶密生、抽细花穗的中型薹草。"
+    }
   }
 }
