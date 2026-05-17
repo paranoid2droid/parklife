@@ -10818,5 +10818,167 @@
       "habitat_hint": "杂木林林床、神社境内、潮湿落叶、朽木、树皮缝。",
       "finding_tips": "翻起落叶或石头找扁平黑色大型甲虫。腿独特弯曲。**翻找后请恢复原状。**"
     }
+  },
+  "Ambrosia trifida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオブタクサ。北米原産の特定外来生物。3〜5裂する大型の葉と、人の背丈を超える大きさで河川敷を覆い尽くします。**強力な花粉症原因植物。**",
+      "habitat_hint": "河川敷、空き地、農地の縁、土手、放棄された農地。",
+      "finding_tips": "8〜10月、2〜3メートルに育つ大型植物で、3〜5裂のカエデ状の葉を持つものを探します。**特定外来生物、駆除対象。花粉症の主要原因。**"
+    },
+    "en": {
+      "summary": "Giant Ragweed. A North-American invasive that towers over riverbanks (2–3 m). 3–5-lobed maple-like leaves. **A major hay-fever cause; legally classified as invasive.**",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, levees, and abandoned farmland.",
+      "finding_tips": "From August to October look for plants 2–3 m tall with 3–5-lobed maple-shaped leaves smothering riverbanks. **Major allergen and recognised invasive.**"
+    },
+    "zh": {
+      "summary": "三裂叶豚草，北美原产，被日本列为特定外来生物。植株可达 2–3 米，叶 3–5 裂似槭，覆盖河滩。**强烈花粉过敏原。**",
+      "habitat_hint": "河滩、空地、田边、堤岸、撂荒农地。",
+      "finding_tips": "八至十月寻找 2–3 米高、叶 3–5 裂似槭、覆盖河滩的大型植物。**强力花粉过敏原，亦为特定外来生物。**"
+    }
+  },
+  "Helianthus tuberosus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キクイモ。北米原産の外来種で、ヒマワリに似た黄色い花を秋に咲かせる大型の多年草。地下に塊茎をつくり食用にもなりますが、河川敷で野生化して群生します。",
+      "habitat_hint": "河川敷、空き地、農地の縁、土手、放棄された農地。",
+      "finding_tips": "9〜10月、人の背丈を超える大型植物で、ヒマワリに似た黄色い花を多数つけるものを探します。地下の塊茎は食用「菊芋」として親しまれます。"
+    },
+    "en": {
+      "summary": "Jerusalem Artichoke. A North-American introduced perennial. Sunflower-like yellow flowers in autumn; underground tubers are edible. Naturalised in dense colonies on riverbanks.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, levees, and abandoned farmland.",
+      "finding_tips": "From September to October look for tall plants (over human height) with many sunflower-like yellow flowers. The underground 'sunchoke' tubers are foraged or cultivated."
+    },
+    "zh": {
+      "summary": "菊芋（Jerusalem Artichoke），北美原产外来多年生草。秋季开许多类向日葵黄花。地下块茎可食。在河滩野化成片。",
+      "habitat_hint": "河滩、空地、田边、堤岸、撂荒农地。",
+      "finding_tips": "九至十月寻找超过人高、开许多类向日葵黄花的大型植物。地下块茎『菊芋』可食。"
+    }
+  },
+  "Ardisia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブコウジ。雑木林の林床に普通の小型常緑低木で、地面近くに赤い実をつけることから「十両」とも呼ばれる縁起木。マンリョウ（万両）・センリョウ（千両）・ヤブコウジ（十両）と組で正月飾りに使われます。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、半日陰の庭園、谷沿いの林。",
+      "finding_tips": "光沢のある楕円形の常緑葉と、冬の地面近くで真っ赤な実をつける低い低木を探します。地下茎で繁殖し、群生することが多いです。"
+    },
+    "en": {
+      "summary": "Marlberry. A low evergreen shrub of forest understory bearing red berries at ground level in winter. Known as 'jūryō' (ten-ryo), it pairs with the related Coral Bush (manryo, ten-thousand-ryo) and Sarcandra (senryo, thousand-ryo) as auspicious New Year decor.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, half-shaded gardens, and valley woods.",
+      "finding_tips": "Look for low shrubs with glossy oval evergreen leaves and bright red winter berries near ground level. Spreads by rhizome and often colonial."
+    },
+    "zh": {
+      "summary": "紫金牛（『十两』），杂木林林床常见的低矮常绿灌木。冬季近地结鲜红果。与万两、千两并列日本新年吉祥植物。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、半阴庭园、谷地林。",
+      "finding_tips": "找叶椭圆有光泽、冬季近地结鲜红果的低矮灌木。靠地下茎繁殖，常成片。"
+    }
+  },
+  "Setaria faberi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アキノエノコログサ。エノコログサに似ますが、より大型で穂が長く垂れ下がるのが特徴。「アキ」の名前通り秋に目立ちます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、明るい斜面。",
+      "finding_tips": "9〜11月、エノコログサより明らかに大きく、穂が垂れ下がる「犬の尻尾」状の植物を探します。穂の長さは20cm以上になることもあります。"
+    },
+    "en": {
+      "summary": "Giant Foxtail. Similar to Green Foxtail but much larger, with longer drooping bristly spikes. Most visible in autumn — its Japanese name 'autumn fox-tail-grass' reflects this.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, roadsides, and bright slopes.",
+      "finding_tips": "From September to November look for plants clearly larger than Green Foxtail with drooping bristly 'dog tail' spikes that can exceed 20 cm in length."
+    },
+    "zh": {
+      "summary": "大狗尾草（『秋狗尾草』）。和狗尾草相似但明显更大、穗下垂。秋季最显眼。",
+      "habitat_hint": "河滩、空地、田边、路边、明亮斜坡。",
+      "finding_tips": "九至十一月找明显比狗尾草大、穗下垂带芒的『狗尾』状植物。穗长可超 20 cm。"
+    }
+  },
+  "Triodanis perfoliata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キキョウソウ。北米原産の外来種で、茎の節々に紫色の星型の花を咲かせる小型〜中型の一年草。葉が茎を抱くようにつくのが目印。",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、道端、明るい斜面。",
+      "finding_tips": "5〜7月、地面から立ち上がる細い茎の節々に紫色の星型花がつく植物を探します。葉が茎を抱くようにつく独特の姿が手がかりです。"
+    },
+    "en": {
+      "summary": "Clasping Venus's Looking-glass, a North-American introduced annual. Violet star-shaped flowers stud the stem at the leaf nodes; the clasping leaves are diagnostic.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, roadsides, and bright slopes.",
+      "finding_tips": "From May to July look for thin upright stems with violet star-shaped flowers at the leaf nodes. The clasping leaves confirm the species."
+    },
+    "zh": {
+      "summary": "穿叶异檐花（『桔梗草』），北美原产外来一年生植物。茎节处开紫色星形花。叶抱茎独特。",
+      "habitat_hint": "菜园、河滩、空地、田边、路边、明亮斜坡。",
+      "finding_tips": "五至七月找细茎节处开紫色星形花、叶抱茎的植物。"
+    }
+  },
+  "Kummerowia striata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤハズソウ。地面を這うように広がる小型のマメ科。葉先がへこむ「矢筈（やはず）」状なのが名前の由来。秋に小さな淡紫色の蝶形花を咲かせます。",
+      "habitat_hint": "芝生、河川敷、農地の縁、道端、空き地。",
+      "finding_tips": "8〜10月、地面を這う三葉のマメ科で、葉の先端が「V字」に凹むものを探します。淡紫色の小さな蝶形花が葉腋に咲きます。"
+    },
+    "en": {
+      "summary": "Common Lespedeza, a small native legume sprawling along the ground. Leaflets have a notched ('yahazu') tip — the source of its Japanese name. Small pale-violet pea flowers in autumn.",
+      "habitat_hint": "Lawns, riverbanks, field margins, roadsides, and vacant lots.",
+      "finding_tips": "From August to October look low for trifoliate legumes whose leaflet tips show a clear V-notch. Small pale-violet pea flowers in the leaf axils."
+    },
+    "zh": {
+      "summary": "鸡眼草（矢筈草），匍匐小型豆科。叶尖凹缺如箭尾（『矢筈』），日文俗名因此。秋季叶腋开淡紫色蝶形小花。",
+      "habitat_hint": "草坪、河滩、田边、路边、空地。",
+      "finding_tips": "八至十月低头找匍匐三出叶、叶尖呈 V 形凹缺的豆科。淡紫蝶形小花生于叶腋。"
+    }
+  },
+  "Briza minor": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメコバンソウ。コバンソウの近縁種で、より小型の小判形の小穂が垂れ下がる外来種のイネ科。河川敷や空き地で見られます。",
+      "habitat_hint": "河川敷、空き地、芝生、農地の縁、明るい斜面。",
+      "finding_tips": "5〜7月、コバンソウより明らかに小型で、小判（コイン）形の小さな扁平な小穂が枝先から垂れ下がる植物を探します。"
+    },
+    "en": {
+      "summary": "Lesser Quaking Grass. Smaller than Greater Quaking Grass; tiny flat coin-shaped spikelets dangle from branched stems. Introduced.",
+      "habitat_hint": "Riverbanks, vacant lots, lawns, field margins, and bright slopes.",
+      "finding_tips": "From May to July look for plants with much smaller dangling coin-shaped spikelets than B. maxima."
+    },
+    "zh": {
+      "summary": "小凌风草，比大凌风草更小，悬垂币形扁平小穗。外来禾本科。",
+      "habitat_hint": "河滩、空地、草坪、田边、明亮斜坡。",
+      "finding_tips": "五至七月找比大凌风草更小、悬垂币形小穗的植物。"
+    }
+  },
+  "Athyrium yokoscense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カナヤマシダ。重金属に耐性のある独特のシダで、鉱山の周辺や金属を含む土壌で生育します。日本の固有種で、貴重な生物指標として知られます。",
+      "habitat_hint": "鉱山跡地、金属を含む土壌、河川敷の特定地点、湿った林床。",
+      "finding_tips": "中型のシダで、葉は二回羽状。重金属の影響がある特殊な環境で見られることから、土壌汚染の生物指標としても研究されています。"
+    },
+    "en": {
+      "summary": "A Japanese-endemic fern remarkable for tolerating heavy-metal-rich soils. Found around former mines and metal-contaminated ground — also studied as a bio-indicator.",
+      "habitat_hint": "Old mine sites, metal-rich soils, specific riverside sites, and damp forest floor.",
+      "finding_tips": "A medium bipinnate fern that turns up in unusual metal-rich substrates. Hard to ID without context."
+    },
+    "zh": {
+      "summary": "金山蕨（耐重金属蕨），日本特有蕨类。耐金属，常出现在矿山附近与含重金属土壤。也作为土壤污染的生物指示种。",
+      "habitat_hint": "矿山旧址、含金属土壤、河滩特定点、潮湿林床。",
+      "finding_tips": "中型二回羽状蕨，出现在富含金属的特殊基质上。"
+    }
+  },
+  "Oplismenus undulatifolius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケチヂミザサ。雑木林の林床に普通の小型イネ科。波打つ葉と、秋に粘性のある小さな実をつけ、衣服にくっつく「ひっつき虫」です。",
+      "habitat_hint": "雑木林の林床、神社の境内、社寺林、半日陰の斜面、湿った林床。",
+      "finding_tips": "波打つ細長い葉と、秋に粘り気のある小さな実を持つ小型のイネ科を探します。林床のグランドカバー的に群生し、ペットの毛にも付きやすいです。"
+    },
+    "en": {
+      "summary": "Wavyleaf Basketgrass. A small grass of woodland understory with wavy leaves and tiny sticky seeds in autumn — another 'hitchhiker' plant.",
+      "habitat_hint": "Forest understory, shrine grounds, shrine groves, shaded slopes, and damp forest floors.",
+      "finding_tips": "Look for small grasses with wavy leaves carpeting the woodland floor. Autumn seeds stick to clothing and pet fur."
+    },
+    "zh": {
+      "summary": "竹叶茅（毛求米草），杂木林林床常见的小型禾本科。叶波状，秋季种子具粘性，沾衣物宠物毛。",
+      "habitat_hint": "杂木林林床、神社境内、神社树林、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶波状的小型禾本科常覆地。秋季粘性种子易粘衣物。"
+    }
   }
 }
