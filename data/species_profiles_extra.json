@@ -12942,5 +12942,185 @@
       "habitat_hint": "公园、庭院、行道树、杂木林、河岸林、住宅区。",
       "finding_tips": "全年。从住宅区到山地极常见。黑头白颊与腹部纵纹、清亮鸣声是关键识别。"
     }
+  },
+  "Eragrostis ferruginea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カゼクサ。道端や芝地、空き地に普通な多年生イネ科。風になびく繊細な花序が和名の由来。踏圧に強い丈夫な草。",
+      "habitat_hint": "道端、芝地、空き地、グラウンド縁、駐車場の隙間。",
+      "finding_tips": "7〜10月、開けた地面に紫色を帯びた繊細な円錐花序を立てる多年生イネ科を探します。踏まれても残る丈夫さが特徴。"
+    },
+    "en": {
+      "summary": "Japanese Lovegrass. A perennial grass of roadsides, lawns, and vacant lots. The Japanese name 'wind grass' refers to the delicate inflorescence swaying in wind. Tolerant of trampling.",
+      "habitat_hint": "Roadsides, lawns, vacant lots, athletic field margins, and parking lot cracks.",
+      "finding_tips": "From July to October look for perennial grasses with delicate purplish panicles on open ground. Persistence under trampling helps identification."
+    },
+    "zh": {
+      "summary": "知风草。路边、草坪、空地常见的多年生禾本科。日文俗名『风草』指其纤细花序随风摇曳。耐踩踏。",
+      "habitat_hint": "路边、草坪、空地、操场边、停车场缝隙。",
+      "finding_tips": "七至十月在开阔地面寻找具紫色调纤细圆锥花序的多年生禾本科。耐踩踏，常在被踩区残存。"
+    }
+  },
+  "Microstegium vimineum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アシボソ。林床や林縁を覆う繊細な一年生イネ科。細い茎が広がって地面を覆い、秋に細い穂を立てます。",
+      "habitat_hint": "雑木林の林床、林縁、半日陰の道端、河畔林の地表、神社林。",
+      "finding_tips": "8〜10月、半日陰の林床や林縁で細い茎が這うように広がるイネ科を探します。秋に細長い穂が立ち上がります。"
+    },
+    "en": {
+      "summary": "Japanese Stiltgrass. A delicate annual grass carpeting forest floors and edges. Slender stems creep across the ground; thin spikes rise in autumn.",
+      "habitat_hint": "Secondary woodland floors, forest edges, shaded roadsides, riparian forest ground, and shrine groves.",
+      "finding_tips": "From August to October look for slender grasses spreading creepingly on partly shaded forest floors and edges. Thin elongated spikes rise in autumn."
+    },
+    "zh": {
+      "summary": "柔枝莠竹。覆盖林床与林缘的纤细一年生禾本科。细茎匍匐覆地，秋季抽出细长穗。",
+      "habitat_hint": "杂木林林床、林缘、半阴路边、河岸林地表、神社林。",
+      "finding_tips": "八至十月在半阴林床与林缘寻找细茎匍匐展开的禾本科。秋季抽出细长穗。"
+    }
+  },
+  "Lysimachia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コナスビ。林縁や道端に這うように広がる小型の多年草。初夏に直径1cmほどの黄色い5弁花を地面近くに咲かせます。",
+      "habitat_hint": "林縁、道端、田畑の畦、芝地の縁、半日陰の湿った地面。",
+      "finding_tips": "5〜7月、林縁や道端で地を這う茎に小さな黄色い花を点々と咲かせる小型多年草を探します。葉は対生の丸い卵形。"
+    },
+    "en": {
+      "summary": "Japanese Loosestrife. A small creeping perennial of forest edges and roadsides. In early summer it dots the ground with 1 cm yellow 5-petalled flowers.",
+      "habitat_hint": "Forest edges, roadsides, field bunds, lawn margins, and shaded damp ground.",
+      "finding_tips": "From May to July look for small perennials with creeping stems bearing scattered yellow flowers along forest edges and roadsides. Opposite roundish leaves."
+    },
+    "zh": {
+      "summary": "聚花过路黄。林缘与路边匍匐生长的小型多年草。初夏在贴地茎上点状开出 1 厘米黄色五瓣花。",
+      "habitat_hint": "林缘、路边、田埂、草坪边缘、半阴潮湿地面。",
+      "finding_tips": "五至七月在林缘与路边寻找匍匐茎、点状黄花的小型多年草。叶对生圆卵形。"
+    }
+  },
+  "Gentiana zollingeri": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フデリンドウ。早春に開く小型のリンドウ。蕾が筆の穂先に似ることが和名の由来。日当たりのよい草地や林縁に生えます。",
+      "habitat_hint": "明るい二次林の林床、林縁、草地、土手、開けた斜面。",
+      "finding_tips": "4〜5月、晴れた日に開く青紫色の小さなリンドウを地面近くで探します。曇天や雨の日は花を閉じてしまいます。"
+    },
+    "en": {
+      "summary": "Zollinger's Gentian. A small spring gentian — the Japanese name 'brush gentian' comes from buds resembling a calligraphy brush tip. Grows on sunny grasslands and forest edges.",
+      "habitat_hint": "Bright secondary forest floors, forest edges, grasslands, banks, and open slopes.",
+      "finding_tips": "From April to May look near the ground for small blue-purple gentians opening on sunny days. Flowers close in cloud and rain."
+    },
+    "zh": {
+      "summary": "笔龙胆。早春开放的小型龙胆。日文俗名『笔龙胆』源于花蕾形似毛笔尖。生于阳光充足的草地与林缘。",
+      "habitat_hint": "明亮的次生林林床、林缘、草地、堤岸、开阔坡地。",
+      "finding_tips": "四至五月在晴天寻找贴地开放的蓝紫色小龙胆。阴雨天花会闭合。"
+    }
+  },
+  "Ligustrum obtusifolium": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イボタノキ。林縁や雑木林に生える落葉低木。初夏に白い小さな筒状花を多数咲かせ、樹皮にイボタロウムシが寄生することから命名。",
+      "habitat_hint": "林縁、雑木林、河畔林、土手、二次林の縁。",
+      "finding_tips": "5〜6月、林縁で白い小さな花の房を多数つける落葉低木を探します。葉は対生で楕円形。"
+    },
+    "en": {
+      "summary": "Border Privet. A deciduous shrub of forest edges and secondary woodlands. Early summer brings dense clusters of small white tubular flowers. Named for the wax scale insect that parasitises the bark.",
+      "habitat_hint": "Forest edges, secondary woodlands, riparian woods, banks, and secondary forest margins.",
+      "finding_tips": "From May to June look for deciduous shrubs with dense clusters of small white flowers at forest edges. Opposite elliptical leaves."
+    },
+    "zh": {
+      "summary": "水蜡树。林缘与杂木林常见的落叶灌木。初夏密生白色筒状小花。日文俗名源于树皮上寄生白蜡虫。",
+      "habitat_hint": "林缘、杂木林、河岸林、堤岸、次生林边缘。",
+      "finding_tips": "五至六月在林缘寻找密生白色小花序的落叶灌木。叶对生椭圆形。"
+    }
+  },
+  "Woodwardia orientalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コモチシダ。葉表に無性芽（むかご）を多数つける大型シダ。これが地面に落ちて新しい個体になります。",
+      "habitat_hint": "湿った林床、谷沿いの林、沢沿いの岩壁、神社林、湿った斜面。",
+      "finding_tips": "通年、葉表に多数の小さな芽（無性芽）をつける大型のシダを探します。葉が垂れ下がり、芽が地面に届くと発根します。"
+    },
+    "en": {
+      "summary": "Eastern Chain Fern. A large fern with abundant plantlets (vegetative buds) on its frond surfaces — these drop to the ground and form new plants.",
+      "habitat_hint": "Damp forest floors, valley woods, streamside rock faces, shrine groves, and moist slopes.",
+      "finding_tips": "Year-round, look for large ferns with small plantlets visible on the upper frond surface. Fronds droop so the plantlets can touch the ground and root."
+    },
+    "zh": {
+      "summary": "顶芽狗脊。叶面具多数无性芽的大型蕨类，芽落地后长成新植株。",
+      "habitat_hint": "潮湿林床、谷地林、溪边岩壁、神社林、湿润斜坡。",
+      "finding_tips": "全年寻找叶面布满小芽的大型蕨。叶下垂使芽触地生根。"
+    }
+  },
+  "Ficus erecta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌビワ。本州〜九州の海岸近くや低山地に生える落葉小高木。イチジクの近縁で、紫黒色の小さな実をつけます。",
+      "habitat_hint": "海岸林、低山地の林縁、雑木林、岩場、神社林。",
+      "finding_tips": "果期は7〜10月。葉はイチジクに似て小さく、紫黒色の小型イチジク状の果実をつける小高木を探します。"
+    },
+    "en": {
+      "summary": "Japanese Fig. A small deciduous tree of coastal areas and low hills in Honshu through Kyushu. Related to fig, with small purplish-black fruits.",
+      "habitat_hint": "Coastal woods, forest edges in low hills, secondary woodlands, rocky places, and shrine groves.",
+      "finding_tips": "Fruits July to October. Look for small trees with fig-like but smaller leaves and small purplish-black fig fruits."
+    },
+    "zh": {
+      "summary": "天仙果（日本野生无花果）。本州至九州海岸近郊与低山落叶小乔木。无花果近缘，结紫黑色小果。",
+      "habitat_hint": "海岸林、低山林缘、杂木林、岩生地、神社林。",
+      "finding_tips": "七至十月结果。寻找叶形似无花果但更小、果实紫黑色、形如小无花果的小乔木。"
+    }
+  },
+  "Camellia sasanqua": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サザンカ。日本固有の常緑樹で、晩秋〜初冬に白〜淡紅色の花を咲かせます。生垣や公園植栽として広く植えられています。",
+      "habitat_hint": "公園、庭園、生垣、寺社境内、住宅地の植栽。",
+      "finding_tips": "10〜2月、葉の縁に細かい鋸歯のある常緑樹で、ツバキより一足早く開花する木を探します。花弁がバラバラに散るのが特徴（ツバキは花ごと落ちる）。"
+    },
+    "en": {
+      "summary": "Sasanqua Camellia. A Japan-endemic evergreen flowering white to pale pink from late autumn to early winter. Widely planted in hedges and parks.",
+      "habitat_hint": "Parks, gardens, hedges, temple and shrine grounds, and residential plantings.",
+      "finding_tips": "From October to February look for evergreens with finely serrate leaf margins flowering before camellia. Petals drop singly (camellia drops whole flowers)."
+    },
+    "zh": {
+      "summary": "茶梅。日本固有常绿树，晚秋至初冬开白至淡红花。常作绿篱与公园栽植。",
+      "habitat_hint": "公园、庭园、绿篱、寺社境内、住宅区栽植。",
+      "finding_tips": "十至二月在叶缘具细锯齿的常绿树中寻找比山茶早开的种。花瓣单片散落（山茶整朵落）。"
+    }
+  },
+  "Narcissus tazetta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スイセン。地中海原産の球根植物で、日本では古くから栽培・帰化。冬〜早春に白い花弁と黄色いカップ状副花冠の花を咲かせます。",
+      "habitat_hint": "公園の植え込み、海岸近くの土手、庭、河川敷の人為植栽地、寺社境内。",
+      "finding_tips": "12〜3月、長い線形の葉を株立ちにし、白花に黄色いカップ状の副花冠を持つ球根植物を探します。淡い甘い香りがあります。"
+    },
+    "en": {
+      "summary": "Paperwhite / Tazetta Daffodil. A Mediterranean-origin bulb long cultivated and naturalised in Japan. White petals with a yellow cup, flowering winter to early spring.",
+      "habitat_hint": "Park plantings, coastal banks, gardens, planted riverbanks, and temple/shrine grounds.",
+      "finding_tips": "From December to March look for tufts of long linear leaves and bulbs producing white flowers with a yellow cup. Faintly sweet fragrance."
+    },
+    "zh": {
+      "summary": "水仙。原产地中海的球根植物，日本久有栽培并归化。冬至早春开白花配黄色杯状副冠。",
+      "habitat_hint": "公园栽植、海岸堤岸、庭院、河滩人工栽植地、寺社境内。",
+      "finding_tips": "十二至三月寻找具长线形丛生叶、白花配黄杯状副冠的球根植物。略带甜香。"
+    }
+  },
+  "Sisyrinchium rosulatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニワゼキショウ。北米原産の小型多年草で、芝地や道端に帰化。初夏に直径1cmほどの紫または白の星形の花を多数咲かせます。",
+      "habitat_hint": "芝地、道端、河川敷、公園の縁、グラウンド縁。",
+      "finding_tips": "5〜6月、芝地で線形の葉と星形の小さな紫または白の花をつける小型草本を探します。一日花で次々と咲きます。"
+    },
+    "en": {
+      "summary": "Annual Blue-Eyed Grass. A small North American perennial naturalised on lawns and roadsides. Profuse 1 cm star-shaped purple or white flowers in early summer.",
+      "habitat_hint": "Lawns, roadsides, riverbanks, park margins, and athletic field edges.",
+      "finding_tips": "From May to June look on lawns for small herbs with linear leaves and star-shaped purple or white flowers. Day-flowers replaced successively."
+    },
+    "zh": {
+      "summary": "庭菖蒲。原产北美的小型多年草，归化于草坪与路边。初夏密生 1 厘米紫色或白色星形花。",
+      "habitat_hint": "草坪、路边、河滩、公园边缘、操场边。",
+      "finding_tips": "五至六月在草坪寻找线形叶、紫或白色星形小花的小草本。一日花，依次开放。"
+    }
   }
 }
