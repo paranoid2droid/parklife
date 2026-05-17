@@ -20700,5 +20700,185 @@
       "habitat_hint": "水田、湿地、池塘、灌溉沟、河滩湿地。",
       "finding_tips": "四至十月在水田与湿地寻找背部无中央纵纹、体型圆润的中型蛙。本土种且栖地减少，请仅观察。"
     }
+  },
+  "Mocis undata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオウンモンクチバ。淡褐色〜灰褐色の翅に独特の波状縞模様がある大型のヤガ。樹幹や葉裏で休み、夜間に活動します。",
+      "habitat_hint": "雑木林、林縁、農地、河川敷、公園の樹木。",
+      "finding_tips": "5〜10月、樹幹や葉裏で淡褐色〜灰褐色の翅に波状縞模様を持つ大型ガを探します。夜間外灯にも飛来します。"
+    },
+    "en": {
+      "summary": "Wavy-banded Underwing. A large noctuid moth with pale-brown to grey-brown wings bearing distinctive wavy bands. Rests on tree trunks and leaf undersides; nocturnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, riverbanks, and park trees.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for large pale-brown to grey-brown moths with wavy banded patterns. Comes to lights at night."
+    },
+    "zh": {
+      "summary": "波纹枯叶夜蛾。淡褐至灰褐色翅具独特波纹的大型夜蛾。停于树干与叶背，夜间活动。",
+      "habitat_hint": "杂木林、林缘、农田、河滩、公园乔木。",
+      "finding_tips": "五至十月在树干与叶背寻找具淡褐至灰褐色翅、波纹的大型蛾。夜间趋光。"
+    }
+  },
+  "Phintella abnormis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャイロアサヒハエトリ。茶褐色の体に金属光沢のある斑紋を持つ小型のハエトリグモ。葉や樹幹で素早く跳んで虫を捕えます。",
+      "habitat_hint": "雑木林、林縁、公園、住宅地の庭、神社林。",
+      "finding_tips": "5〜10月、葉や樹幹で茶褐色の地に金属光沢のある斑紋を持つ小型ハエトリグモを探します。素早く跳ぶ動きが特徴。"
+    },
+    "en": {
+      "summary": "Brown Sunlight Jumping Spider. A small jumping spider, brown with metallic-sheen markings. Hunts insects on leaves and tree trunks with rapid jumps.",
+      "habitat_hint": "Secondary woodlands, forest edges, parks, residential gardens, and shrine groves.",
+      "finding_tips": "From May to October look on leaves and tree trunks for small brown jumping spiders with metallic-sheen markings. Rapid jumping movement is diagnostic."
+    },
+    "zh": {
+      "summary": "茶色金蛛跳蛛。茶褐色体配金属光泽斑纹的小型跳蛛。在叶与树干快速跳跃捕食昆虫。",
+      "habitat_hint": "杂木林、林缘、公园、住宅区庭院、神社林。",
+      "finding_tips": "五至十月在叶与树干寻找茶褐色配金属光泽斑纹的小型跳蛛。快速跳跃运动是关键识别。"
+    }
+  },
+  "Camponotus quadrinotatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨツボシオオアリ。中型〜大型のオオアリ属のアリで、黒い体に4つの黄褐色の斑紋があるのが和名の由来。雑木林の朽木や倒木に巣を作ります。",
+      "habitat_hint": "雑木林、朽木、倒木、樹幹の隙間、神社林、河畔林。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の倒木や朽木で黒地に4つの黄褐色斑紋を持つ大型アリを探します。働きアリは樹上で甘露や昆虫を採餌。"
+    },
+    "en": {
+      "summary": "Four-spotted Carpenter Ant. A medium to large Camponotus carpenter ant; black body with four yellow-brown spots — the source of the Japanese name 'four-spot'. Nests in rotting wood and fallen logs in secondary woodlands.",
+      "habitat_hint": "Secondary woodlands, rotting wood, fallen logs, tree trunk crevices, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round (most active in warm seasons), look in fallen logs and rotting wood for large ants, black with four yellow-brown spots. Workers forage for honeydew and insects in trees."
+    },
+    "zh": {
+      "summary": "四斑弓背蚁。中至大型弓背蚁属，黑色体配 4 个黄褐色斑是日文俗名由来。在杂木林朽木与倒木筑巢。",
+      "habitat_hint": "杂木林、朽木、倒木、树干缝隙、神社林、河岸林。",
+      "finding_tips": "全年（暖季活跃）在倒木与朽木上寻找黑底配 4 个黄褐色斑的大型蚂蚁。工蚁在树上采食蜜露与昆虫。"
+    }
+  },
+  "Salurnis marginella": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キベリハゴロモ。中型のハゴロモで、翅は淡褐色で縁が黄色く縁取られているのが和名「黄縁」の由来。林縁や藪で植物の汁を吸います。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、農地、果樹園。",
+      "finding_tips": "7〜10月、林縁や藪で淡褐色の翅に黄色い縁取りを持つ中型ハゴロモを探します。葉裏や枝に止まっていることが多い。"
+    },
+    "en": {
+      "summary": "Yellow-edged Planthopper. A medium planthopper with pale-brown wings bordered yellow — the source of the Japanese name 'yellow-edge'. Sucks plant juices at forest edges and in thickets.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, farmland, and orchards.",
+      "finding_tips": "From July to October look at forest edges and in thickets for medium planthoppers with pale-brown wings yellow-bordered. Usually on leaf undersides or twigs."
+    },
+    "zh": {
+      "summary": "黄缘蜡蝉。中型蜡蝉，翅淡褐色边缘黄色是日文俗名『黄缘』由来。林缘与灌丛吸食植物汁液。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田、果园。",
+      "finding_tips": "七至十月在林缘与灌丛寻找具淡褐色翅、黄色边缘的中型蜡蝉。多停于叶背与枝上。"
+    }
+  },
+  "Thoressa varia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コチャバネセセリ。茶色の地に淡色の斑紋がある小型のセセリチョウ。林縁や草地で素早く飛び、花で吸蜜します。",
+      "habitat_hint": "雑木林の林縁、草地、河川敷、農地の縁、神社林。",
+      "finding_tips": "5〜9月、雑木林の林縁や草地で茶色の地に淡色の斑紋を持つ小型のセセリチョウを探します。"
+    },
+    "en": {
+      "summary": "Common Pied Awlet (Small Brown-banded Skipper). A small skipper with brown ground colour and pale markings. Flies rapidly at forest edges and grasslands; nectars on flowers.",
+      "habitat_hint": "Secondary woodland edges, grasslands, riverbanks, farmland margins, and shrine groves.",
+      "finding_tips": "From May to September look at forest edges and grasslands for small brown skippers with pale markings."
+    },
+    "zh": {
+      "summary": "黑斑弄蝶（小茶斑弄蝶）。茶色底配淡色斑纹的小型弄蝶。在林缘与草地快速飞行，访花吸蜜。",
+      "habitat_hint": "杂木林林缘、草地、河滩、农田边缘、神社林。",
+      "finding_tips": "五至九月在杂木林林缘与草地寻找茶色底配淡色斑纹的小型弄蝶。"
+    }
+  },
+  "Chloridolum japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカアシオオアオカミキリ。中型〜大型のカミキリで、緑色の金属光沢のある体と赤い脚が美しい。広葉樹の枯木で幼虫が育ち、樹液の出る樹に集まります。",
+      "habitat_hint": "雑木林の樹液の出る樹、枯木、神社林、河畔林、果樹園。",
+      "finding_tips": "6〜8月、雑木林の樹液や葉上で緑色の金属光沢のある体と赤い脚を持つカミキリを探します。色のコントラストが美しい。"
+    },
+    "en": {
+      "summary": "Red-legged Green Longhorn. A medium to large longhorn beetle with a brilliant green metallic body and red legs. Larvae develop in dead broadleaf wood; adults gather at sap-flowing trees.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands, dead wood, shrine groves, riparian woods, and orchards.",
+      "finding_tips": "From June to August look at sap flows and on foliage in secondary woodlands for longhorn beetles with brilliant green metallic bodies and red legs. The colour contrast is striking."
+    },
+    "zh": {
+      "summary": "红腿大青天牛。中至大型天牛，体绿色金属光泽配红腿，色彩对比美丽。幼虫蛀阔叶枯木，成虫聚集于出树液的树。",
+      "habitat_hint": "杂木林出树液的树、枯木、神社林、河岸林、果园。",
+      "finding_tips": "六至八月在杂木林树液与叶上寻找具绿色金属光泽体配红腿的天牛。色彩对比鲜明。"
+    }
+  },
+  "Sternuchopsis trifida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オジロアシナガゾウムシ。小型のゾウムシで、長い脚と腹端の白い斑紋（オジロ＝尾白）が特徴。クズなどマメ科植物の葉や茎で見つかります。",
+      "habitat_hint": "クズが繁茂する林縁、河川敷、藪、農地、農地の縁。",
+      "finding_tips": "5〜9月、クズや他のマメ科植物の葉上で長い脚と腹端の白い斑紋を持つ小型ゾウムシを探します。"
+    },
+    "en": {
+      "summary": "Long-legged White-tailed Weevil. A small weevil with long legs and a white mark at the abdomen tip — the source of the Japanese name 'white tail long leg'. Found on kudzu and other Fabaceae.",
+      "habitat_hint": "Forest edges, riverbanks, thickets, farmland, and farmland margins with kudzu.",
+      "finding_tips": "From May to September look on kudzu and other Fabaceae leaves for small weevils with long legs and a white abdomen-tip mark."
+    },
+    "zh": {
+      "summary": "白尾长足象。小型象甲，腿长、腹端具白斑（『尾白』）为特征。常见于葛与其他豆科叶上。",
+      "habitat_hint": "葛蔓繁茂的林缘、河滩、灌丛、农田、农田边缘。",
+      "finding_tips": "五至九月在葛与其他豆科叶上寻找具长腿、腹端白斑的小型象甲。"
+    }
+  },
+  "Aegosoma sinicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスバカミキリ。大型のカミキリで、薄い茶褐色の翅と長い触角が特徴。広葉樹の枯木で幼虫が育ち、樹液の出る樹に集まります。日本最大級のカミキリの一つ。",
+      "habitat_hint": "雑木林の樹液の出る樹、枯木、神社林、河畔林、果樹園。",
+      "finding_tips": "6〜9月、雑木林の樹液の出る樹や枯木の周辺で大型の薄褐色のカミキリを探します。雄の長い触角（体長の倍以上）が識別の決め手。"
+    },
+    "en": {
+      "summary": "Sinic Sawyer Beetle. A large longhorn beetle with pale-brown wings and long antennae. Larvae develop in dead broadleaf wood; adults gather at sap-flowing trees. One of Japan's largest longhorns.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands, dead wood, shrine groves, riparian woods, and orchards.",
+      "finding_tips": "From June to September look at sap flows and around dead wood in secondary woodlands for large pale-brown longhorns. The male's very long antennae (over twice the body length) are diagnostic."
+    },
+    "zh": {
+      "summary": "薄翅天牛。大型天牛，翅淡褐色、触角长是特征。幼虫蛀阔叶枯木，成虫聚集于出树液的树。日本最大级天牛之一。",
+      "habitat_hint": "杂木林出树液的树、枯木、神社林、河岸林、果园。",
+      "finding_tips": "六至九月在杂木林树液与枯木周边寻找大型淡褐色天牛。雄性触角长（超体长 2 倍）是关键识别。"
+    }
+  },
+  "Ardea coromanda": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アマサギ。小型のサギで、夏羽は頭〜胸が橙色に染まる独特の婚姻色。牛や農機の周辺で虫を捕える習性があります。日本では夏鳥として渡来。",
+      "habitat_hint": "水田、農地、河川敷、湿地、放牧地、芝地。",
+      "finding_tips": "4〜10月、水田や農地で小型の白いサギを探します。夏羽の橙色の頭〜胸が決め手。冬羽は全身白で他のサギと区別が難しい。"
+    },
+    "en": {
+      "summary": "Cattle Egret. A small egret whose breeding plumage shows distinctive orange-buff head and breast. Often associated with cattle and farm machinery, catching insects flushed by them. Summer visitor to Japan.",
+      "habitat_hint": "Rice paddies, farmland, riverbanks, wetlands, pastures, and lawns.",
+      "finding_tips": "From April to October look in paddies and farmland for small white egrets. The orange-buff head and breast of breeding plumage is diagnostic. Winter plumage is all white and harder to distinguish from other egrets."
+    },
+    "zh": {
+      "summary": "牛背鹭。小型鹭，繁殖羽头至胸染独特橙黄色。常伴牛与农机捕食被惊起的昆虫。日本夏候鸟。",
+      "habitat_hint": "水田、农田、河滩、湿地、牧地、草坪。",
+      "finding_tips": "四至十月在水田与农田寻找小型白鹭。繁殖羽橙黄色头胸是关键识别。冬羽全白难与其他鹭区分。"
+    }
+  },
+  "Physopelta parviceps": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメホシカメムシ。オオホシカメムシに似ますが小型で、赤褐色の地に小さな黒斑があります。林縁や農地で見つかります。",
+      "habitat_hint": "雑木林の林縁、農地、果樹園、住宅地の庭、河畔林。",
+      "finding_tips": "5〜10月、林縁や農地で赤褐色の地に小さな黒斑を持つ中型カメムシを探します。オオホシカメムシより小型で識別。"
+    },
+    "en": {
+      "summary": "Small-spotted Stink Bug. Similar to Physopelta gutta but smaller; reddish-brown with smaller black spots. Found at forest edges and on farmland.",
+      "habitat_hint": "Secondary woodland edges, farmland, orchards, residential gardens, and riparian woods.",
+      "finding_tips": "From May to October look at forest edges and in farmland for medium bugs with reddish-brown body and small black spots. Smaller than Physopelta gutta."
+    },
+    "zh": {
+      "summary": "小斑红蝽。似突背斑红蝽但更小，红褐底配小黑斑。林缘与农田常见。",
+      "habitat_hint": "杂木林林缘、农田、果园、住宅区庭院、河岸林。",
+      "finding_tips": "五至十月在林缘与农田寻找具红褐底配小黑斑的中型椿象。比突背斑红蝽小可区分。"
+    }
   }
 }
