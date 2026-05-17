@@ -9846,5 +9846,167 @@
       "habitat_hint": "农田（十字花科菜地）、家庭菜园、河滩、明亮草地。",
       "finding_tips": "在十字花科花序与种子周围找黑底带橙红斑的蝽。"
     }
+  },
+  "Lactuca indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アキノノゲシ。在来種のキク科で、夏〜秋に淡黄色の小さな菊状の花を多数咲かせます。茎を切ると白い乳液が出ます。秋の代表的な雑草の一つです。",
+      "habitat_hint": "河川敷、空き地、農地の縁、明るい斜面、道端。",
+      "finding_tips": "8〜10月、人の背丈に育つ大型の植物で、淡黄色の小型の頭花を多数つけるものを探します。葉は深く切れ込み、茎を切ると白い乳液。"
+    },
+    "en": {
+      "summary": "Indian Lettuce. A native composite that grows tall and produces many small pale-yellow flower heads in late summer and autumn. White latex when stems are cut.",
+      "habitat_hint": "Riverbanks, vacant lots, field margins, bright slopes, and roadsides.",
+      "finding_tips": "From August to October look for tall plants (often taller than a person) bearing many small pale-yellow daisy heads. Deeply lobed leaves; white latex when cut."
+    },
+    "zh": {
+      "summary": "山莴苣（秋苦苣），本土菊科。夏秋抽高大植株，开许多浅黄色小头花。茎断流白色乳汁。",
+      "habitat_hint": "河滩、空地、田边、明亮斜坡、路边。",
+      "finding_tips": "八至十月找超过人高、开许多浅黄色小型头花的植物。叶深裂，茎断流白汁。"
+    }
+  },
+  "Bradybaena similaris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オナジマイマイ。日本に普通の中型カタツムリ。殻に1本の暗色帯がある個体と、ない個体（地域差）が混在します。",
+      "habitat_hint": "庭、雑木林の林床、湿った石垣、神社の境内、農家の畑。",
+      "finding_tips": "雨上がり、地面や石垣で殻径2cm程度の中型カタツムリを探します。殻に1本のリボン状の暗色帯があるものとないものの両方が見つかります。"
+    },
+    "en": {
+      "summary": "A common Japanese land snail. Shells about 2 cm across, with or without a single dark spiral band depending on the individual.",
+      "habitat_hint": "Gardens, forest understory, damp stone walls, shrine grounds, and farms.",
+      "finding_tips": "After rain look on the ground and walls for snails ~2 cm across. The single dark spiral band on some shells is a useful clue."
+    },
+    "zh": {
+      "summary": "同型蜗牛，日本常见中型蜗牛。壳径约 2 cm，部分个体壳上有 1 条深色螺带。",
+      "habitat_hint": "庭园、杂木林林床、潮湿石墙、神社境内、农户菜地。",
+      "finding_tips": "雨后在地面与石墙找壳径约 2 cm 的中型蜗牛。部分个体壳具单条暗色螺带。"
+    }
+  },
+  "Lepidium virginicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マメグンバイナズナ。北米原産の外来種のアブラナ科。細長い茎の先に小さな白い花を多数咲かせ、軍配（がんがら扇）に似た果実をつけます。",
+      "habitat_hint": "畑、河川敷、空き地、農地の縁、道端、舗装の隙間。",
+      "finding_tips": "4〜10月、地面のロゼットから細い茎を立て、白い小花の集まった穂を持つ植物を探します。後に軍配形の小さな果実が並ぶのも目印です。"
+    },
+    "en": {
+      "summary": "Virginia Pepperweed, a North-American introduced brassica. Slender stems carry many small white flowers; the round paddle-shaped seed pods are diagnostic.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, field margins, roadsides, and pavement cracks.",
+      "finding_tips": "From April to October look for plants with rosettes sending up thin stems with sprays of tiny white flowers, followed by round paddle-shaped seed pods."
+    },
+    "zh": {
+      "summary": "独行菜，北美外来十字花科。细茎上抽出许多白色小花，结圆形扇形果实。",
+      "habitat_hint": "菜园、河滩、空地、田边、路边、铺装缝。",
+      "finding_tips": "四至十月寻找莲座基生、细茎上抽穗状许多白花、结圆扇形果的植物。"
+    }
+  },
+  "Crepidiastrum denticulatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤクシソウ。秋に黄色いタンポポに似た小型の頭花を立てるキク科の二年草。林縁や明るい斜面に普通に見られます。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、河川敷、農地の縁、神社の境内。",
+      "finding_tips": "9〜11月、人の腰高ほどの茎に分枝した枝先に黄色い小型の頭花を多数咲かせる植物を探します。葉は茎を抱くようにつき、独特の形です。"
+    },
+    "en": {
+      "summary": "Yakushisō. A biennial composite that produces many small yellow dandelion-like flower heads in autumn. Common on woodland edges and bright slopes.",
+      "habitat_hint": "Woodland edges, bright slopes, riverbanks, field margins, and shrine grounds.",
+      "finding_tips": "From September to November look for waist-high branched plants with many small yellow heads. Leaves clasp the stem in a distinctive way."
+    },
+    "zh": {
+      "summary": "齿叶假还阳参（『药师草』），菊科二年生。秋季抽腰高分枝植株，开许多类蒲公英黄色小头花。",
+      "habitat_hint": "林缘、明亮斜坡、河滩、田边、神社境内。",
+      "finding_tips": "九至十一月寻找腰高分枝、开许多黄色小型头花的植物。叶抱茎形态独特。"
+    }
+  },
+  "Dendropanax trifidus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カクレミノ。葉の形が変化に富む（3裂・浅裂・全縁が同じ木に混在）独特の常緑樹。神社の境内や公園に植栽されています。",
+      "habitat_hint": "神社の境内、公園の植え込み、社寺林、半日陰の庭、海岸近くの林。",
+      "finding_tips": "葉の形が一本の木で大きく違うのが特徴。3つに裂けた葉と、裂けない楕円形の葉が混在します。光沢のある厚い常緑葉です。"
+    },
+    "en": {
+      "summary": "Kakuremino. An evergreen tree famous for dramatically variable leaf shapes on a single plant — three-lobed, shallowly lobed, and entire all mingle. Widely planted at shrines.",
+      "habitat_hint": "Shrine grounds, park plantings, shrine groves, half-shaded gardens, and coastal woods.",
+      "finding_tips": "The leaf-shape variability on one tree is the giveaway. Glossy thick evergreen leaves with three-lobed and entire forms intermixed."
+    },
+    "zh": {
+      "summary": "树参（『隐蓑』），常绿乔木。同一棵树叶形差异极大（3裂、浅裂、全缘并存）。神社境内常见栽培。",
+      "habitat_hint": "神社境内、公园植被、神社树林、半阴庭园、近海林。",
+      "finding_tips": "同树叶形差异显著是辨识。叶厚有光泽，3裂与全缘形并存。"
+    }
+  },
+  "Deutzia scabra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マルバウツギ。初夏に白い花を多数咲かせる落葉低木。ウツギ近縁ですが、葉が丸みを帯びるのが特徴です。",
+      "habitat_hint": "雑木林の林縁、河川敷、明るい斜面、神社の境内、生け垣。",
+      "finding_tips": "5〜6月、白い5弁花が枝先に多数集まる低木を探します。葉が幅広く丸みを帯びる点でウツギと区別できます。"
+    },
+    "en": {
+      "summary": "Fuzzy Pride-of-Rochester. A deciduous shrub bearing many small white flowers in early summer; related to Deutzia crenata but with rounder leaves.",
+      "habitat_hint": "Woodland edges, riverbanks, bright slopes, shrine grounds, and hedges.",
+      "finding_tips": "From May to June look for shrubs with white five-petalled flowers clustering at branch tips. The broader, rounder leaves separate it from D. crenata."
+    },
+    "zh": {
+      "summary": "粗叶溲疏，落叶灌木。初夏开许多白色花。和齿叶溲疏近缘但叶较宽圆。",
+      "habitat_hint": "林缘、河滩、明亮斜坡、神社境内、绿篱。",
+      "finding_tips": "五至六月寻找枝梢集开白色五瓣花的灌木。叶较宽圆与齿叶溲疏区分。"
+    }
+  },
+  "Juncus tenuis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサイ。北米原産の外来種のイグサ類。細長い線形の葉と、茎の先に小さな淡褐色の花序を立てます。芝生や踏まれた地面でも繁殖します。",
+      "habitat_hint": "芝生、道端、農地、踏まれた地面、湿った草地。",
+      "finding_tips": "5〜9月、地面から細長い茎を立て、その先に小さな茶色っぽい花序が集まる植物を探します。葉も細長く線形でロゼット状に広がります。"
+    },
+    "en": {
+      "summary": "Path Rush, a North-American introduced rush. Narrow linear leaves; small brownish flower clusters at the stem tip. Tolerates trampling and grows on lawns and paths.",
+      "habitat_hint": "Lawns, roadsides, farmland, trampled ground, and damp meadows.",
+      "finding_tips": "From May to September look for plants with thin stems bearing small brownish flower clusters; narrow leaves form rosettes at the base."
+    },
+    "zh": {
+      "summary": "细灯心草，北美外来灯心草科。叶细长线形，茎顶集生淡褐色小花序。耐踩，常生于草坪。",
+      "habitat_hint": "草坪、路边、农田、踩实地、潮湿草地。",
+      "finding_tips": "五至九月找细茎顶端集小型褐色花序的植物。基部细线形叶莲座。"
+    }
+  },
+  "Oxyopes sertatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササグモ。緑色〜黄緑色の中型ササグモで、葉の上で獲物を待ち伏せて捕らえます。網を張らない徘徊性です。",
+      "habitat_hint": "雑木林の林縁、草地、河川敷、農地、明るい園路の縁。",
+      "finding_tips": "葉の上で緑色の中型のクモを探します。長い前脚で獲物を捕らえる動きが見えれば、ササグモ類の可能性が高いです。"
+    },
+    "en": {
+      "summary": "A medium green-to-yellow-green lynx spider. Ambushes prey on leaves; does not build a web.",
+      "habitat_hint": "Woodland edges, grassland, riverbanks, farmland, and bright path edges.",
+      "finding_tips": "On leaves look for a medium green spider. The way it lunges with long forelegs is typical of lynx spiders."
+    },
+    "zh": {
+      "summary": "斜纹猫蛛（绿色猫蛛），中型猫蛛。在叶上伏击猎物，不结网。",
+      "habitat_hint": "林缘、草地、河滩、农田、明亮园路边。",
+      "finding_tips": "在叶上找绿色中型蛛。前足长、猎食时动作猛属猫蛛科。"
+    }
+  },
+  "Sceptridium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオハナワラビ。冬に大きな胞子嚢穂を立てる独特のシダ。緑色の葉と、その上に黄色い胞子嚢穂が伸びるユニークな姿が魅力です。",
+      "habitat_hint": "雑木林の林床、神社の境内、明るい斜面、半日陰の草地、谷沿いの林。",
+      "finding_tips": "11〜3月、葉の中央から黄色い胞子嚢穂が立ち上がるシダを探します。冬に観察できる珍しいシダの一つです。"
+    },
+    "en": {
+      "summary": "A grape fern that puts up a tall yellow sporophore through the winter, projecting above the green leaves — a striking, unusual silhouette.",
+      "habitat_hint": "Forest understory, shrine grounds, bright slopes, half-shaded grass, and valley woods.",
+      "finding_tips": "From November to March look for ferns with a yellow spore-bearing spike rising above the green leaves. One of the few ferns easiest to find in winter."
+    },
+    "zh": {
+      "summary": "日本阴地蕨（『大花蕨』），冬季抽出大型黄色孢子穗的独特蕨。绿叶上方挺立黄色孢子穗，造型独特。",
+      "habitat_hint": "杂木林林床、神社境内、明亮斜坡、半阴草地、谷地林。",
+      "finding_tips": "十一至三月寻找叶上方挺立黄色孢子穗的蕨。冬季易观察的少见蕨类之一。"
+    }
   }
 }
