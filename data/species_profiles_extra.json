@@ -16362,5 +16362,185 @@
       "habitat_hint": "杂木林、林缘、住宅区、农田、河岸林。",
       "finding_tips": "五至十月在杂木林与林缘寻找黑褐色配黄色条纹、体型略小的胡蜂。可观察其袭击马蜂巢。"
     }
+  },
+  "Scolopax rusticola": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマシギ。林床に住む中〜大型のシギ。茶褐色の見事な保護色で、長い嘴で湿った土からミミズを引き出します。冬鳥として渡来。",
+      "habitat_hint": "雑木林の林床、湿った林、河畔林、神社林、棚田の畦。",
+      "finding_tips": "11〜3月、雑木林の林床や落ち葉の上で歩き回る茶褐色の中型シギを探します。保護色が見事で、ほぼ動かないと見落とすほど。"
+    },
+    "en": {
+      "summary": "Eurasian Woodcock. A medium-large sandpiper of forest floors. Superbly camouflaged in brown; probes wet soil with the long bill for earthworms. Winter visitor.",
+      "habitat_hint": "Secondary woodland floors, damp woods, riparian woods, shrine groves, and terraced paddy bunds.",
+      "finding_tips": "From November to March look on woodland floors and leaf litter for medium brown sandpipers walking quietly. Camouflage so good that motionless birds are easily missed."
+    },
+    "zh": {
+      "summary": "丘鹬。栖于林床的中至大型鹬。茶褐色保护色极佳，用长喙在湿土中探食蚯蚓。冬候鸟。",
+      "habitat_hint": "杂木林林床、潮湿林、河岸林、神社林、梯田田埂。",
+      "finding_tips": "十一至三月在杂木林林床与枯叶上寻找茶褐色中型鹬。保护色极佳，不动时极易错过。"
+    }
+  },
+  "Plagiodera versicolora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤナギルリハムシ。ヤナギ類の葉を食害する小型のハムシ。藍色〜紫色の金属光沢があり、円形の体型が特徴。",
+      "habitat_hint": "ヤナギのある河畔林、湿地、河川敷、公園の池畔。",
+      "finding_tips": "5〜9月、ヤナギ類の葉上で藍紫色の金属光沢を持つ円形の小型ハムシを探します。葉に網目状の食痕を残します。"
+    },
+    "en": {
+      "summary": "Imported Willow Leaf Beetle. A small leaf beetle feeding on willow leaves. Round body with metallic blue-purple sheen.",
+      "habitat_hint": "Willows along riparian woods, wetlands, riverbanks, and park pond margins.",
+      "finding_tips": "From May to September look on willow leaves for small round leaf beetles with metallic blue-purple sheen. Skeletonised leaf damage helps confirm."
+    },
+    "zh": {
+      "summary": "柳蓝叶甲。取食柳叶的小型叶甲。圆形体型，具蓝紫色金属光泽。",
+      "habitat_hint": "有柳树的河岸林、湿地、河滩、公园池畔。",
+      "finding_tips": "五至九月在柳叶上寻找具蓝紫色金属光泽的圆形小型叶甲。叶上网状蛀痕辅助识别。"
+    }
+  },
+  "Japonica lutea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカシジミ。初夏に発生する中型のシジミチョウ。翅の表は鮮やかな橙赤色で、ゼフィルス（樹上性シジミ）と呼ばれる優美な仲間の一種。",
+      "habitat_hint": "クヌギ・コナラのある雑木林、林縁、神社林、河畔林。",
+      "finding_tips": "5〜6月、雑木林の林縁や樹冠で翅の表が鮮やかな橙赤色の中型シジミチョウを探します。クヌギなどの樹液にも来ます。"
+    },
+    "en": {
+      "summary": "Orange Hairstreak. A medium lycaenid emerging in early summer. Brilliant orange-red upper wings; a member of the elegant 'zephyrus' canopy hairstreaks.",
+      "habitat_hint": "Secondary woodlands with oak (Quercus), forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to June look at forest edges and canopies for medium lycaenids with brilliant orange-red upperside. Also visits oak sap flows."
+    },
+    "zh": {
+      "summary": "黄洒灰蝶。初夏发生的中型灰蝶。翅表鲜艳橙红色，属优雅的树冠『泽豹蝶』类（ゼフィルス）。",
+      "habitat_hint": "有麻栎与小楢的杂木林、林缘、神社林、河岸林。",
+      "finding_tips": "五至六月在杂木林林缘与树冠寻找翅表鲜艳橙红色的中型灰蝶。也访栎类树液。"
+    }
+  },
+  "Merodon equestris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スイセンハナアブ。スイセンや他の球根植物の球根に幼虫が寄生する大型のハナアブ。ハチに擬態した毛深い体が特徴です。",
+      "habitat_hint": "スイセン・ユリ・アマリリスのある庭園、花壇、公園、農地、河川敷。",
+      "finding_tips": "4〜6月、花壇や庭園のスイセンの周辺で毛深い大型のハナアブを探します。マルハナバチに似た外見ですが翅は2枚のハナアブ。"
+    },
+    "en": {
+      "summary": "Narcissus Bulb Fly. A large hoverfly whose larvae parasitise daffodil and other bulbs. The hairy bumblebee-mimicking body is diagnostic.",
+      "habitat_hint": "Gardens, flower beds, parks, farmland, and riverbanks with daffodils, lilies, or amaryllis.",
+      "finding_tips": "From April to June look around daffodils in gardens and flower beds for large hairy hoverflies. Resembles a bumblebee but has only two wings (it's a fly)."
+    },
+    "zh": {
+      "summary": "水仙球花蝇（水仙食蚜蝇）。幼虫寄生于水仙等球根的大型食蚜蝇。具拟态熊蜂的多毛身体。",
+      "habitat_hint": "种水仙、百合、朱顶红的庭园、花坛、公园、农田、河滩。",
+      "finding_tips": "四至六月在花坛与庭园的水仙周边寻找多毛大型食蚜蝇。形似熊蜂但只有 2 翅，是蝇类。"
+    }
+  },
+  "Fuligo septica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ススホコリ。粘菌（変形菌）の一種で、最も普通に見られる大型粘菌。倒木や朽木、湿った地面に黄色〜灰色の塊状で出現します。",
+      "habitat_hint": "雑木林の倒木・朽木、湿った腐植土、神社林、河畔林の倒木。",
+      "finding_tips": "梅雨〜秋、雨上がり後の倒木や腐植土の上に黄色〜灰色の塊（数日で黒褐色に変色）を探します。動物でも植物でも菌類でもない粘菌として観察してみてください。"
+    },
+    "en": {
+      "summary": "Dog Vomit Slime Mold. The most commonly seen large slime mold (Myxomycetes). Appears as yellow to grey masses on rotting wood and damp ground.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, damp humus, shrine groves, and riparian forest logs.",
+      "finding_tips": "From rainy season to autumn after rain, look on fallen logs and humus for yellow-to-grey masses (turning blackish-brown within days). Worth observing as a slime mold — neither animal, plant, nor fungus."
+    },
+    "zh": {
+      "summary": "煤绒菌。粘菌（变形菌）的一种，最常见的大型粘菌。倒木与潮湿地面出现黄色至灰色块状体。",
+      "habitat_hint": "杂木林倒木与朽木、潮湿腐殖土、神社林、河岸林倒木。",
+      "finding_tips": "梅雨至秋季雨后在倒木与腐殖土上寻找黄至灰色块状体（数日内变黑褐色）。值得作为粘菌观察——既非动物、植物，也非真菌。"
+    }
+  },
+  "Saussurea lyrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キツネアザミ。明るい林床や草地に生える二年〜多年草のキク科。葉が琴の形（リラ）に似ることから学名 'lyrata'。秋に淡紫色の頭花を咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷の草地、二次林。",
+      "finding_tips": "9〜11月、明るい林縁や草地で琴形の葉と淡紫色の頭花を持つ二年草を探します。アザミに似ますが葉に棘がなくサイズも小さい。"
+    },
+    "en": {
+      "summary": "Lyre-leaf Saw-wort. A Saussurea of bright forest floors and grasslands. Lyrate (lyre-shaped) leaves give the species name. Pale-purple flower heads in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverside grasslands, and secondary woods.",
+      "finding_tips": "From September to November look at bright forest edges and grasslands for biennials with lyrate leaves and pale-purple flower heads. Similar to thistle but spineless and smaller."
+    },
+    "zh": {
+      "summary": "琴叶风毛菊。明亮林床与草地的菊科二至多年生草本。叶呈琴形（lyrata），秋季开淡紫色头状花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、次生林。",
+      "finding_tips": "九至十一月在明亮林缘与草地寻找具琴形叶、淡紫色头状花的二年草。似蓟但无刺、体型较小。"
+    }
+  },
+  "Rumex japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ギシギシ。湿地や河川敷、農地に普通な多年草のタデ科。大きな根生葉と直立した茎を持ち、夏に多数の小さな緑色の花を穂状につけます。",
+      "habitat_hint": "湿地、河川敷、農地、道端、空き地、休耕田。",
+      "finding_tips": "5〜8月、湿地や河川敷で大きな披針形の根生葉と直立する花茎、多数の緑色の小花を持つ多年草を探します。果穂は赤褐色になります。"
+    },
+    "en": {
+      "summary": "Japanese Dock. A common perennial buckwheat-family plant of wetlands, riverbanks, and farmland. Large basal leaves and erect stems with many small green flowers in spike-like clusters in summer.",
+      "habitat_hint": "Wetlands, riverbanks, farmland, roadsides, vacant lots, and fallow fields.",
+      "finding_tips": "From May to August look on wetlands and riverbanks for perennials with large lanceolate basal leaves, erect flowering stems, and many small green flowers. Fruiting clusters turn reddish-brown."
+    },
+    "zh": {
+      "summary": "羊蹄（日本酸模）。湿地、河滩、农田常见的多年生蓼科。具大型基生叶与直立茎，夏季穗状密生绿色小花。",
+      "habitat_hint": "湿地、河滩、农田、路边、空地、休耕田。",
+      "finding_tips": "五至八月在湿地与河滩寻找具大型披针形基生叶、直立花茎、密集绿色小花的多年草。果穗变红褐色。"
+    }
+  },
+  "Trifolium campestre": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クスダマツメクサ。欧州原産の一年〜二年草のマメ科で、芝地や河川敷、空き地に帰化。小さな黄色い花が球状（クスダマ＝球状の頂飾）に集まります。",
+      "habitat_hint": "芝地、河川敷、空き地、道端、農地の縁。",
+      "finding_tips": "5〜7月、芝地や河川敷で3小葉と黄色い小さな花が球状に密集した花序を持つマメ科一年草を探します。"
+    },
+    "en": {
+      "summary": "Hop Trefoil. A European-origin annual to biennial clover relative naturalised on lawns, riverbanks, and vacant lots. Small yellow flowers densely packed into globe-like heads.",
+      "habitat_hint": "Lawns, riverbanks, vacant lots, roadsides, and farmland margins.",
+      "finding_tips": "From May to July look on lawns and riverbanks for Fabaceae annuals with three leaflets and dense globe-like clusters of small yellow flowers."
+    },
+    "zh": {
+      "summary": "野火球（球状黄花三叶草）。原产欧洲的一至二年生豆科，归化于草坪、河滩与空地。黄色小花密集成球状花序。",
+      "habitat_hint": "草坪、河滩、空地、路边、农田边缘。",
+      "finding_tips": "五至七月在草坪与河滩寻找具三出小叶、黄色小花密集成球状花序的豆科一年草。"
+    }
+  },
+  "Clinopodium micranthum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌトウバナ。湿った林床や林縁に生える多年草のシソ科。秋に小さな淡桃色〜白の唇形花を穂状につけます。葉は卵形で対生。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の道端、神社林。",
+      "finding_tips": "8〜10月、湿った林床や林縁で小さな淡桃色〜白の唇形花が穂状に集まるシソ科多年草を探します。葉や茎を揉むとほのかな香りがあります。"
+    },
+    "en": {
+      "summary": "Small-flowered Wild Basil. A Lamiaceae perennial of damp forest floors and edges. Small pale-pink to white lipped flowers in spikes in autumn. Opposite ovate leaves.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded roadsides, and shrine groves.",
+      "finding_tips": "From August to October look on damp forest floors and edges for Lamiaceae perennials with spikes of small pale-pink to white lipped flowers. Faint scent when leaves are crushed."
+    },
+    "zh": {
+      "summary": "细风轮菜。潮湿林床与林缘的唇形科多年草。秋季穗状密生小型淡粉至白色唇形花。叶卵形对生。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
+      "finding_tips": "八至十月在潮湿林床与林缘寻找具淡粉至白色唇形小花穗状花序的唇形科多年草。揉碎叶有微香。"
+    }
+  },
+  "Elaeagnus multiflora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナツグミ。落葉性のグミで、初夏に小さな白い花を咲かせ、夏に赤い果実が熟します。葉裏に銀色の鱗状毛があります。",
+      "habitat_hint": "雑木林の林縁、河川敷、土手、庭園、空き地。",
+      "finding_tips": "花期4〜5月、果期6〜7月。葉裏が銀色に光る落葉低木で、夏に赤い長楕円形の果実をつけるものを探します（食用可、やや酸味）。"
+    },
+    "en": {
+      "summary": "Cherry Silverberry. A deciduous Elaeagnus with small white flowers in early summer and red fruits ripening in summer. Silvery scaly leaf undersides.",
+      "habitat_hint": "Secondary woodland edges, riverbanks, banks, gardens, and vacant lots.",
+      "finding_tips": "Flowers April-May, fruits June-July. Look for deciduous shrubs with silvery underside leaves and oblong red summer fruits (edible, slightly tart)."
+    },
+    "zh": {
+      "summary": "夏胡颓子。落叶胡颓子，初夏开白色小花，夏季结红色果。叶背具银色鳞毛。",
+      "habitat_hint": "杂木林林缘、河滩、堤岸、庭园、空地。",
+      "finding_tips": "花期四至五月，果期六至七月。寻找叶背银光闪烁、夏季结红色长椭圆形果的落叶灌木（可食微酸）。"
+    }
   }
 }
