@@ -13482,5 +13482,185 @@
       "habitat_hint": "杂木林林床、林缘、明亮半阴、神社林、丘陵斜坡。",
       "finding_tips": "七至八月在杂木林林床寻找无叶花茎、顶生橙红色百合形花的石蒜近亲。常成片。"
     }
+  },
+  "Hydrangea involucrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマアジサイ。蕾が球状の苞に包まれることが和名の由来。夏遅くに咲く特異なアジサイで、関東〜中部に多く見られます。",
+      "habitat_hint": "雑木林の林縁、谷地林、沢沿い、半日陰の斜面、神社林。",
+      "finding_tips": "7〜9月、林縁や沢沿いで「玉」状の蕾が包葉に包まれて待機しているアジサイを探します。開花期が他のアジサイより遅い点も特徴。"
+    },
+    "en": {
+      "summary": "Bracted Hydrangea. The Japanese name 'ball hydrangea' refers to the spherical bracts enclosing the buds. A late-summer-blooming hydrangea common in central and eastern Honshu.",
+      "habitat_hint": "Secondary woodland edges, valley woods, streamsides, partly shaded slopes, and shrine groves.",
+      "finding_tips": "From July to September look at forest edges and streamsides for hydrangeas with spherical bracts enclosing the buds. Later flowering than other hydrangeas."
+    },
+    "zh": {
+      "summary": "球苞绣球。日文俗名『玉绣球』源于球状苞片包裹的花蕾。盛夏后开花的独特绣球，关东至中部多见。",
+      "habitat_hint": "杂木林林缘、谷地林、溪边、半阴斜坡、神社林。",
+      "finding_tips": "七至九月在林缘与溪边寻找具球状苞片包裹花蕾的绣球。比其他绣球开花更晚。"
+    }
+  },
+  "Tricyrtis macropoda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマホトトギス。山地の林床に生える多年草。白地に紫斑のある独特の花は、横向きに開いて花被片が反り返ります。",
+      "habitat_hint": "山地の林床、谷地林、半日陰の斜面、沢沿い、神社林。",
+      "finding_tips": "7〜9月、林床で白地に紫斑のある花被片が強く反り返るホトトギスを探します。同属のヤマジノホトトギスより花被片の反りが強い点で区別。"
+    },
+    "en": {
+      "summary": "Longfoot Toad Lily. A montane woodland perennial. Distinctive white flowers heavily speckled purple, with strongly recurved tepals.",
+      "habitat_hint": "Montane forest floors, valley woods, partly shaded slopes, streamsides, and shrine groves.",
+      "finding_tips": "From July to September look on forest floors for toad lilies with strongly recurved tepals. Distinguished from related species by the more strongly bent-back tepals."
+    },
+    "zh": {
+      "summary": "山油点草。山地林床多年草。花白底紫斑，花被片明显反卷开放。",
+      "habitat_hint": "山地林床、谷地林、半阴斜坡、溪边、神社林。",
+      "finding_tips": "七至九月在林床寻找花被片明显反卷的油点草。比近缘种花被片反卷更强烈可区分。"
+    }
+  },
+  "Cornus kousa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマボウシ。初夏に白い4枚の苞葉が「花」のように見える落葉樹。秋には赤い集合果が実り、食用にもなります。",
+      "habitat_hint": "雑木林、林縁、公園植栽、街路樹、庭園。",
+      "finding_tips": "花期5〜7月、果期9〜10月。初夏は十字形に開く白い大きな苞、秋は赤いボール状の集合果が目印です。"
+    },
+    "en": {
+      "summary": "Kousa Dogwood. A deciduous tree whose early-summer flowers feature four large white 'petals' (actually bracts). Autumn brings edible red aggregate fruits.",
+      "habitat_hint": "Secondary woodlands, forest edges, park plantings, street trees, and gardens.",
+      "finding_tips": "Flowers May-July, fruits September-October. Look for crucifix-shaped white bracts in early summer and red ball-shaped aggregate fruits in autumn."
+    },
+    "zh": {
+      "summary": "四照花。初夏四枚白色苞片如『花』展开的落叶树。秋季结红色聚合果，可食。",
+      "habitat_hint": "杂木林、林缘、公园栽植、行道树、庭园。",
+      "finding_tips": "花期五至七月，果期九至十月。初夏寻找十字形白色大苞片，秋季寻找红色球状聚合果。"
+    }
+  },
+  "Calidris ruficollis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウネン。世界最小級のシギで、スズメ大。日本では春・秋の渡り期に干潟や河口で見られます。夏羽は喉から胸が赤褐色。",
+      "habitat_hint": "干潟、河口、池の干上がった泥地、海岸の砂浜、内陸の沼。",
+      "finding_tips": "4〜5月と8〜10月、干潟で群れで素早く走り回る最小級のシギを探します。夏羽の赤褐色の頸が見られれば識別が容易。"
+    },
+    "en": {
+      "summary": "Red-necked Stint. One of the world's smallest sandpipers, sparrow-sized. Seen on mudflats and estuaries during spring and autumn migration. Breeding plumage shows rufous throat and breast.",
+      "habitat_hint": "Mudflats, estuaries, drained pond beds, sandy beaches, and inland marshes.",
+      "finding_tips": "From April-May and August-October, look on mudflats for tiny sandpipers running rapidly in flocks. Rufous neck in breeding plumage simplifies ID."
+    },
+    "zh": {
+      "summary": "红颈滨鹬。世界最小级鹬之一，麻雀大小。日本春秋迁徙期见于滩涂与河口。繁殖羽喉与胸红褐色。",
+      "habitat_hint": "滩涂、河口、干涸池底泥地、海岸沙滩、内陆沼泽。",
+      "finding_tips": "四至五月与八至十月在滩涂寻找成群快速奔跑的最小级鹬类。繁殖羽红褐色颈是关键识别。"
+    }
+  },
+  "Bombyx mandarina": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クワコ。カイコの野生祖先種で、桑（クワ）の葉を食べる中型ガ。家畜化されたカイコより小型で、飛ぶ力もあります。",
+      "habitat_hint": "雑木林、河畔林、クワの自生地、神社林、桑園跡。",
+      "finding_tips": "幼虫は5〜10月、桑の葉を食べる毛のない緑〜褐色の幼虫を探します。成虫は7〜9月で淡褐色の中型ガ。"
+    },
+    "en": {
+      "summary": "Wild Silkmoth. The wild ancestor of the domesticated silkworm, feeding on mulberry leaves. Smaller than the domesticated form and capable of flight.",
+      "habitat_hint": "Secondary woodlands, riparian woods, wild mulberry stands, shrine groves, and abandoned mulberry plantations.",
+      "finding_tips": "Caterpillars May-October, look on mulberry leaves for hairless green-to-brown larvae. Adults July-September are medium pale-brown moths."
+    },
+    "zh": {
+      "summary": "野桑蚕。家蚕的野生祖先种，取食桑叶的中型蛾。比家养蚕小且能飞翔。",
+      "habitat_hint": "杂木林、河岸林、野生桑树分布地、神社林、废弃桑园。",
+      "finding_tips": "幼虫五至十月在桑叶上寻找无毛绿至褐色幼虫。成虫七至九月，淡褐色中型蛾。"
+    }
+  },
+  "Scolia oculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キオビツチバチ。黒地に鮮やかな黄色帯のある大型の土蜂。雌はコガネムシ類の幼虫に寄生します。",
+      "habitat_hint": "草地、林縁、農地、河川敷、公園の花。",
+      "finding_tips": "7〜10月、ヒガンバナやセイタカアワダチソウなどの花で吸蜜する大型の黒黄縞土蜂を探します。地面近くを低く飛ぶことが多いです。"
+    },
+    "en": {
+      "summary": "A large scoliid wasp, black with bright yellow bands. Females parasitise scarab beetle grubs.",
+      "habitat_hint": "Grasslands, forest edges, farmland, riverbanks, and park flowers.",
+      "finding_tips": "From July to October look for large black-and-yellow banded scoliid wasps nectaring on red spider lily and goldenrod. Often flying low near the ground."
+    },
+    "zh": {
+      "summary": "黄带土蜂。黑底配鲜艳黄带的大型土蜂。雌虫寄生于金龟子幼虫。",
+      "habitat_hint": "草地、林缘、农田、河滩、公园花丛。",
+      "finding_tips": "七至十月在彼岸花、加拿大一枝黄花等花上寻找大型黑黄条带的土蜂。常低空飞行。"
+    }
+  },
+  "Rhyothemis fuliginosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チョウトンボ。翅全体が紫黒色の金属光沢を持つ独特なトンボ。チョウのようにひらひらと飛ぶことから命名。",
+      "habitat_hint": "湿地、ため池、湖沼、公園の池、水生植物の多い水辺。",
+      "finding_tips": "6〜9月、池や湿地で紫黒色の金属光沢のある幅広い翅を持ち、ひらひらとチョウのように飛ぶトンボを探します。"
+    },
+    "en": {
+      "summary": "Butterfly-winged Skimmer. A distinctive dragonfly with broad iridescent purple-black wings. Named for its butterfly-like fluttering flight.",
+      "habitat_hint": "Wetlands, ponds, lakes, park ponds, and waterside with abundant aquatic vegetation.",
+      "finding_tips": "From June to September look at ponds and wetlands for dragonflies with broad iridescent purple-black wings fluttering like butterflies."
+    },
+    "zh": {
+      "summary": "黑丽翅蜻。翅膀紫黑色具金属光泽的独特蜻蜓。飞行如蝴蝶般翩翩。",
+      "habitat_hint": "湿地、池塘、湖泊、公园池塘、水生植物丰富的水边。",
+      "finding_tips": "六至九月在池塘与湿地寻找翅宽紫黑色带金属光泽、飞行如蝶的蜻蜓。"
+    }
+  },
+  "Oxya japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハネナガイナゴ。水田や湿地に多い緑色の中型バッタ。翅が腹部より長く、よく飛ぶことが和名の由来です。",
+      "habitat_hint": "水田、湿地、河川敷の草地、湿った草地、農地の縁。",
+      "finding_tips": "8〜11月、水田や湿地周辺で翅が腹部より明らかに長い緑色のバッタを探します。コバネイナゴと違って翅が長いのが見分けるコツ。"
+    },
+    "en": {
+      "summary": "Long-winged Rice Grasshopper. A common green grasshopper of rice paddies and wetlands. Wings extending well beyond the abdomen — the namesake feature.",
+      "habitat_hint": "Rice paddies, wetlands, riverside meadows, damp grasslands, and farmland margins.",
+      "finding_tips": "From August to November look around paddies and wetlands for green grasshoppers with wings extending clearly beyond the abdomen. Distinguished from short-winged Oxya by wing length."
+    },
+    "zh": {
+      "summary": "中华稻蝗。水田与湿地常见的绿色中型蝗虫。翅长于腹部、善飞，日文俗名因此带『翅长』。",
+      "habitat_hint": "水田、湿地、河滩草地、潮湿草地、农田边缘。",
+      "finding_tips": "八至十一月在水田与湿地附近寻找翅明显长于腹部的绿色蝗虫。可凭翅长与短翅近缘种区分。"
+    }
+  },
+  "Gastrophysa atrocyanea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コガタルリハムシ。藍色〜黒の金属光沢を持つ小型ハムシ。スイバやギシギシなどタデ科の葉を食害します。",
+      "habitat_hint": "河川敷、空き地、農地の縁、土手、湿った草地。",
+      "finding_tips": "4〜6月、スイバやギシギシの葉上で藍黒色の金属光沢を持つ小型ハムシを探します。葉に丸い食痕を残します。"
+    },
+    "en": {
+      "summary": "Small Dock Beetle. A small leaf beetle with metallic blue-black sheen, feeding on sorrel and dock leaves (Polygonaceae).",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, banks, and damp grasslands.",
+      "finding_tips": "From April to June look on sorrel and dock leaves for small leaf beetles with metallic blue-black sheen. Round feeding holes on leaves help confirm."
+    },
+    "zh": {
+      "summary": "蓝黑酸模叶甲。带蓝黑色金属光泽的小型叶甲。取食酸模、皱叶酸模等蓼科叶片。",
+      "habitat_hint": "河滩、空地、农田边缘、堤岸、潮湿草地。",
+      "finding_tips": "四至六月在酸模与皱叶酸模叶上寻找蓝黑色金属光泽的小型叶甲。叶上圆形蛀洞可辅助识别。"
+    }
+  },
+  "Jynx torquilla": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アリスイ。キツツキ科の中ではユニークな種で、樹幹を叩かずアリを舌で捕食します。樹皮に擬態した褐色の地味な羽色。",
+      "habitat_hint": "雑木林、河畔林、農地、明るい林縁、低木のある草地。",
+      "finding_tips": "通年（北日本では夏鳥）。樹幹を叩かない地味な褐色のキツツキを探します。地上でアリを舐めとる様子も。首を蛇のように回す習性が名の由来です。"
+    },
+    "en": {
+      "summary": "Eurasian Wryneck. An unusual woodpecker that does not drum on trunks; instead licks ants from the ground with a long tongue. Cryptic bark-mimicking plumage.",
+      "habitat_hint": "Secondary woodlands, riparian woods, farmland, bright forest edges, and shrubby grasslands.",
+      "finding_tips": "Year-round (summer in northern Japan). Look for cryptic brown woodpeckers that don't drum and may be on the ground at ant nests. Named for the snake-like neck twisting."
+    },
+    "zh": {
+      "summary": "蚁鴷。啄木鸟科中独特的种，不击打树干，伸长舌头舔食蚂蚁。羽色褐色拟态树皮。",
+      "habitat_hint": "杂木林、河岸林、农田、明亮林缘、有灌木的草地。",
+      "finding_tips": "全年（日本北部为夏候鸟）。寻找不击打树干、毛色褐色隐蔽的啄木鸟，也可能在地面蚁巢取食。颈如蛇般扭转是名字由来。"
+    }
   }
 }
