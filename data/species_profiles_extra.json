@@ -15282,5 +15282,185 @@
       "habitat_hint": "杂木林林缘、海岸近郊林、神社林、灌丛、山地岩生地。",
       "finding_tips": "花期十至十一月，果期四至五月。寻找叶背银光闪烁的常绿蔓生灌木，攀附其他树木。"
     }
+  },
+  "Cirsium vulgare": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカオニアザミ（セイヨウオオアザミ）。欧州原産の二年生大型アザミ。鋭い棘で覆われ、特定外来生物に指定されています。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、牧草地。",
+      "finding_tips": "6〜10月、河川敷や空き地で全体が鋭い棘で覆われた大型のアザミを探します。発見しても素手で触れないこと。特定外来生物のため駆除対象。"
+    },
+    "en": {
+      "summary": "Bull Thistle. A European-origin biennial large thistle, covered in sharp spines. Designated as 'Invasive Alien Species' in Japan.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and pastures.",
+      "finding_tips": "From June to October look on riverbanks and vacant lots for large thistles covered in sharp spines. Do not handle bare-handed. Designated for removal as invasive."
+    },
+    "zh": {
+      "summary": "翼蓟（牛蒡蓟）。原产欧洲的二年生大型蓟。通体覆锐刺，在日本被列为『特定外来生物』。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、牧地。",
+      "finding_tips": "六至十月在河滩与空地寻找全身覆锐刺的大型蓟。请勿徒手触摸。特定外来生物，应清除。"
+    }
+  },
+  "Cyperus glomeratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヌマガヤツリ。河川敷や湿地に生える一年生の大型カヤツリグサ。茶褐色〜赤褐色の小穂が球状に密集するのが特徴。",
+      "habitat_hint": "河川敷、湿地、休耕田、ため池の縁、用水路の縁。",
+      "finding_tips": "8〜10月、河川敷や湿地で茶〜赤褐色の小穂が球状に密集する大型カヤツリグサを探します。背丈は1m近くなることもあります。"
+    },
+    "en": {
+      "summary": "Globe Flatsedge. A large annual sedge of riverbanks and wetlands. Diagnostic: brown to reddish-brown spikelets densely clustered in globe-like heads.",
+      "habitat_hint": "Riverbanks, wetlands, fallow fields, pond edges, and irrigation channel edges.",
+      "finding_tips": "From August to October look on riverbanks and wetlands for large sedges with brown-to-reddish spikelets in dense globe-like clusters. Can reach nearly 1 m tall."
+    },
+    "zh": {
+      "summary": "聚穗莎草。河滩与湿地的大型一年生莎草。茶至红褐色小穗呈球状密集是关键识别。",
+      "habitat_hint": "河滩、湿地、休耕田、池塘边、灌溉沟边。",
+      "finding_tips": "八至十月在河滩与湿地寻找茶至红褐色小穗球状密集的大型莎草。高度可近 1 米。"
+    }
+  },
+  "Crassocephalum crepidioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ベニバナボロギク。アフリカ原産の一年草で、赤橙色の筒状花が下向きに集まって咲きます。葉や若茎は食用にもなります。",
+      "habitat_hint": "畑、休耕地、林縁、河川敷、農地、道端。",
+      "finding_tips": "7〜10月、畑や林縁で下向きに咲く赤橙色の筒状花序を持つ一年草を探します。果実は綿毛で散布されます。"
+    },
+    "en": {
+      "summary": "Redflower Ragleaf. An African-origin annual with downward-facing reddish-orange tubular flower clusters. Leaves and young stems are edible.",
+      "habitat_hint": "Fields, fallow ground, forest edges, riverbanks, farmland, and roadsides.",
+      "finding_tips": "From July to October look in fields and forest edges for annuals with nodding clusters of reddish-orange tubular flowers. Fluffy seeds are wind-dispersed."
+    },
+    "zh": {
+      "summary": "野茼蒿。原产非洲的一年生草本，红橙色筒状花序下垂集生。叶与嫩茎可食。",
+      "habitat_hint": "菜地、休耕地、林缘、河滩、农田、路边。",
+      "finding_tips": "七至十月在菜地与林缘寻找具下垂红橙色筒状花序的一年草。果实具棉毛风传。"
+    }
+  },
+  "Sibirotrisetum bifidum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カニツリグサ。林縁や草地に生える多年生イネ科。穂は繊細で銀色〜淡褐色に輝き、芒が屈曲しています。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、神社林。",
+      "finding_tips": "5〜7月、林縁や草地で銀色〜淡褐色に輝く繊細な円錐花序を持つ多年生イネ科を探します。芒の屈曲が手がかり。"
+    },
+    "en": {
+      "summary": "Silver Hair Grass. A perennial grass of forest edges and grasslands. Delicate inflorescences shimmering silver to pale brown, with bent awns.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and shrine groves.",
+      "finding_tips": "From May to July look at forest edges and grasslands for perennial grasses with delicate silver-to-pale-brown shimmering panicles. Bent awns help confirm."
+    },
+    "zh": {
+      "summary": "三毛草属。林缘与草地的多年生禾本科。穗纤细，银至淡褐色闪光，芒弯曲。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、神社林。",
+      "finding_tips": "五至七月在林缘与草地寻找具银至淡褐色纤细圆锥花序的多年生禾本科。芒弯曲可辅助识别。"
+    }
+  },
+  "Diospyros kaki": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カキノキ。東アジア原産の落葉果樹で、秋に橙色の柿の実を実らせます。日本では古くから栽培され、文化的にも重要な樹木。",
+      "habitat_hint": "果樹園、農家の庭、街路樹、公園、神社境内。",
+      "finding_tips": "果期9〜11月、橙色の柿の実を多数つける落葉樹を探します。葉は楕円形で光沢があり、秋に紅葉します。"
+    },
+    "en": {
+      "summary": "Japanese Persimmon. An East Asian deciduous fruit tree bearing orange persimmon fruits in autumn. Long cultivated in Japan and culturally significant.",
+      "habitat_hint": "Orchards, farmhouse gardens, street trees, parks, and shrine grounds.",
+      "finding_tips": "Fruits September-November. Look for deciduous trees laden with bright orange fruits. Glossy elliptical leaves; autumn colour."
+    },
+    "zh": {
+      "summary": "柿树。原产东亚的落叶果树，秋季结橙色柿果。日本久有栽培，是文化上重要的树木。",
+      "habitat_hint": "果园、农家庭院、行道树、公园、神社境内。",
+      "finding_tips": "果期九至十一月寻找密生橙色柿果的落叶树。叶椭圆形具光泽，秋季变色。"
+    }
+  },
+  "Cardamine flexuosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タネツケバナ。早春に水田や畑、湿った道端に普通な小型のアブラナ科一年〜二年草。和名は田の種を播く頃に咲くことから。",
+      "habitat_hint": "水田、畑、湿った道端、芝地、空き地、農地の縁。",
+      "finding_tips": "2〜5月、水田や湿った場所でロゼット状の葉と細い直立した果実（角果）が立ち上がる小型アブラナ科を探します。白い小さな十字花が特徴。"
+    },
+    "en": {
+      "summary": "Wavy Bittercress. A small annual to biennial cress, common in early spring on paddies, fields, and damp roadsides. The Japanese name refers to flowering at rice-sowing time.",
+      "habitat_hint": "Rice paddies, fields, damp roadsides, lawns, vacant lots, and farmland margins.",
+      "finding_tips": "From February to May look in paddies and damp places for small crucifers with basal rosettes and erect slender pods (siliques). Tiny white 4-petalled flowers."
+    },
+    "zh": {
+      "summary": "弯曲碎米荠。早春在水田、菜地、潮湿路边常见的小型十字花科一至二年生草本。日文俗名指开花期与播种期一致。",
+      "habitat_hint": "水田、菜地、潮湿路边、草坪、空地、农田边缘。",
+      "finding_tips": "二至五月在水田与潮湿处寻找具基生莲座叶、细长直立角果的小型十字花科。白色小型四瓣花。"
+    }
+  },
+  "Viola phalacrocarpa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカネスミレ。日本に普通な多年草のスミレ。葉や花柄に毛が多く、紫色の花を春に咲かせます。葉は卵形〜披針形。",
+      "habitat_hint": "明るい雑木林の林床、林縁、草地、土手、半日陰の斜面。",
+      "finding_tips": "3〜5月、明るい林床や草地で毛が多い葉と紫色の花を持つスミレを探します。同属の他種より毛が多いことが識別ポイント。"
+    },
+    "en": {
+      "summary": "Hairy Violet. A common Japanese violet perennial. Leaves and pedicels noticeably hairy; purple flowers in spring. Ovate to lanceolate leaves.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, grasslands, banks, and partly shaded slopes.",
+      "finding_tips": "From March to May look on bright forest floors and grasslands for violets with notably hairy leaves and purple flowers. More hairy than related species."
+    },
+    "zh": {
+      "summary": "光果堇菜（多毛堇菜）。日本常见的多年生堇菜。叶与花梗具明显毛，春季开紫花。叶卵形至披针形。",
+      "habitat_hint": "明亮杂木林林床、林缘、草地、堤岸、半阴斜坡。",
+      "finding_tips": "三至五月在明亮林床与草地寻找叶具明显毛、开紫花的堇菜。比近缘种毛更多是识别要点。"
+    }
+  },
+  "Pilea pumila": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオミズ。湿った林床や沢沿いに生える一年草のイラクサ科。茎が透明感のある緑色で柔らかく、葉は卵形で対生します。",
+      "habitat_hint": "湿った林床、沢沿い、谷地林、湿った斜面、河畔林の地表。",
+      "finding_tips": "8〜10月、湿った林床や沢沿いで透明感のある緑色の柔らかい茎を持つ一年草を探します。対生する卵形の葉が決め手。"
+    },
+    "en": {
+      "summary": "Clearweed. An annual nettle-family plant of damp forest floors and streamsides. Translucent green soft stems; opposite ovate leaves.",
+      "habitat_hint": "Damp forest floors, streamsides, valley woods, moist slopes, and riparian forest ground.",
+      "finding_tips": "From August to October look on damp forest floors and streamsides for annuals with translucent green soft stems. Opposite ovate leaves help identify."
+    },
+    "zh": {
+      "summary": "透茎冷水花。潮湿林床与溪边的一年生荨麻科。茎绿色具透明感、柔软；叶卵形对生。",
+      "habitat_hint": "潮湿林床、溪边、谷地林、湿润斜坡、河岸林地表。",
+      "finding_tips": "八至十月在潮湿林床与溪边寻找具透明感绿色柔茎的一年草。对生卵形叶是关键识别。"
+    }
+  },
+  "Verbascum thapsus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ビロードモウズイカ。欧州原産の大型二年草で、全体に白い綿毛が密生しビロード状の質感。長い穂状花序に黄色い花を咲かせます。",
+      "habitat_hint": "河川敷、空き地、造成地、農地の縁、道路法面。",
+      "finding_tips": "6〜9月、河川敷や空き地で全体が白い綿毛に覆われた大型の二年草を探します。背丈は1〜2mに達し、黄色い穂状花序が立ち上がります。"
+    },
+    "en": {
+      "summary": "Common Mullein. A European-origin large biennial covered in dense white woolly hairs, giving a velvety texture. Yellow flowers on a long spike-like raceme.",
+      "habitat_hint": "Riverbanks, vacant lots, construction sites, farmland margins, and road slopes.",
+      "finding_tips": "From June to September look on riverbanks and vacant lots for large biennials covered in white wool. Reaches 1-2 m tall with a tall yellow flowering spike."
+    },
+    "zh": {
+      "summary": "毛蕊花。原产欧洲的大型二年生草本，全身密被白色绵毛形成绒毛感。长穗状花序密生黄花。",
+      "habitat_hint": "河滩、空地、工地、农田边缘、道路斜坡。",
+      "finding_tips": "六至九月在河滩与空地寻找全身密被白色绵毛的大型二年草。高 1-2 米，抽出黄色穗状花序。"
+    }
+  },
+  "Onychium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タチシノブ。林縁や石垣、岩場に生える小型〜中型の常緑シダ。葉が細かく繊細に分裂し、立ち上がるように生えます。",
+      "habitat_hint": "林縁、石垣、岩場、半日陰の斜面、神社林、河畔林の岩。",
+      "finding_tips": "通年、林縁や石垣で繊細に細裂した立ち性の葉を持つ常緑シダを探します。葉は3〜4回羽状複生で霜柱のような繊細さ。"
+    },
+    "en": {
+      "summary": "Japanese Claw Fern. A small to medium evergreen fern of forest edges, stone walls, and rocky places. Finely divided fronds standing erect.",
+      "habitat_hint": "Forest edges, stone walls, rocky places, partly shaded slopes, shrine groves, and riparian rocks.",
+      "finding_tips": "Year-round, look at forest edges and stone walls for evergreen ferns with finely divided erect fronds. Three to four times pinnately divided — delicate as frost columns."
+    },
+    "zh": {
+      "summary": "野雉尾金粉蕨。林缘、石墙与岩生地的中小型常绿蕨。叶细分裂、直立生长。",
+      "habitat_hint": "林缘、石墙、岩生地、半阴斜坡、神社林、河岸林岩石。",
+      "finding_tips": "全年在林缘与石墙寻找叶细分裂、直立的常绿蕨。叶 3-4 回羽状细裂，纤细如霜柱。"
+    }
   }
 }
