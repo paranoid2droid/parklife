@@ -10980,5 +10980,167 @@
       "habitat_hint": "杂木林林床、神社境内、神社树林、半阴斜坡、潮湿林床。",
       "finding_tips": "找叶波状的小型禾本科常覆地。秋季粘性种子易粘衣物。"
     }
+  },
+  "Cinnamomum camphora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クスノキ。神社の境内に大木として残ることが多い大型の常緑樹で、葉をちぎると独特の樟脳の香りがします。樹齢数百年〜千年を超える御神木も多くあります。",
+      "habitat_hint": "神社・寺院の境内、社寺林、街路樹、関東以南の海岸近くの林、屋敷林。",
+      "finding_tips": "光沢のある厚い卵形の常緑葉と、葉をちぎった時の樟脳の香りで識別します。樹皮は灰褐色で縦に細かく裂けます。神社の御神木の代表的な樹種です。"
+    },
+    "en": {
+      "summary": "Camphor Tree. A large evergreen often preserved as a centuries-old shrine 'shinboku'. Crushed leaves give the distinct smell of camphor. Bark is grey-brown and finely furrowed.",
+      "habitat_hint": "Shrine and temple grounds, shrine groves, street trees, coastal woods south of Kanto, and homestead windbreaks.",
+      "finding_tips": "Glossy oval evergreen leaves smell of camphor when crushed. Often a massive shrine tree; the cinnamon family is unmistakable up close."
+    },
+    "zh": {
+      "summary": "樟树，常绿大乔木，神社境内常保留为千年神木。叶搓有独特樟脑香。树皮灰褐细纵裂。",
+      "habitat_hint": "神社寺庙境内、神社树林、行道树、关东以南近海林、住宅防风林。",
+      "finding_tips": "找叶椭圆有光泽、揉碎有樟脑香的常绿大乔木。神社代表性神木树种。"
+    }
+  },
+  "Aster microcephalus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノコンギク。秋に淡紫色の頭花を多数咲かせる在来種のキク科。野菊の代表種として親しまれ、雑木林の林縁や明るい斜面に群生します。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、河川敷、神社の境内、農地の縁。",
+      "finding_tips": "9〜11月、淡紫色の小型の菊状花を多数咲かせる植物を探します。シロヨメナと並ぶ秋の代表的な野菊の一つです。"
+    },
+    "en": {
+      "summary": "Pale Aster. A native aster with many small pale-violet daisy heads in autumn — a typical 'wild chrysanthemum' of Japanese woodlands.",
+      "habitat_hint": "Woodland edges, bright slopes, riverbanks, shrine grounds, and field margins.",
+      "finding_tips": "From September to November look for plants bearing many small pale-violet daisies. A signature autumn wildflower alongside White Aster."
+    },
+    "zh": {
+      "summary": "南方紫菀（『野紺菊』），秋季抽许多淡紫色小型菊状花的本土菊科。是日本秋季代表性野菊之一。",
+      "habitat_hint": "林缘、明亮斜坡、河滩、神社境内、田边。",
+      "finding_tips": "九至十一月寻找开许多淡紫色小型菊花的植物。与白舌紫菀同为秋日代表野菊。"
+    }
+  },
+  "Argiope amoena": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コガネグモ。黄色と黒の縞模様の大型のコガネグモで、円網の中央にX字形の白い装飾帯を作ります。生け垣や林縁で目立ちます。",
+      "habitat_hint": "雑木林の林縁、河川敷の藪、住宅地の庭、神社の境内、低木の間。",
+      "finding_tips": "腹部の鮮やかな黄黒模様と、円網中央のX字形の白い帯を探します。ナガコガネグモより大型で、模様もより鮮やかです。"
+    },
+    "en": {
+      "summary": "Banded Argiope. A large orb-weaver with bold yellow-and-black banding and an X-shaped white stabilimentum in the centre of its web. Larger and more vivid than the Wasp Spider.",
+      "habitat_hint": "Woodland edges, riverbank thickets, residential gardens, shrine grounds, and between shrubs.",
+      "finding_tips": "Look for an orb web with an X-shaped white band and a spider with bold yellow-and-black stripes — larger and brighter than the Wasp Spider."
+    },
+    "zh": {
+      "summary": "黄金蛛，大型园蛛，腹部黄黑相间，网中央有 X 字形白色装饰带。比横纹金蛛大且更艳。",
+      "habitat_hint": "林缘、河滩灌丛、住宅区庭院、神社境内、灌木间。",
+      "finding_tips": "找具 X 形白带的圆网与腹部黄黑相间的大蛛，比横纹金蛛更大更艳。"
+    }
+  },
+  "Phaneroptera falcata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツユムシ。緑色の中型キリギリス類で、長い触角と細長い体が特徴。「ジリリリ」と細かい鳴き声で鳴きます。",
+      "habitat_hint": "雑木林の林縁、河川敷の草地、神社の境内、低木の上、明るい園路。",
+      "finding_tips": "緑色で細長い中型のキリギリスを探します。長い触角が体長を超えるほどで、夏〜秋の夜に細い鳴き声を出します。"
+    },
+    "en": {
+      "summary": "Sickle-bearing Bush-cricket. A medium green katydid with very long antennae and a slender body. Sings a fine 'jiriri' at night.",
+      "habitat_hint": "Woodland edges, grassy riverbanks, shrine grounds, shrub tops, and bright paths.",
+      "finding_tips": "Look for a slender green katydid with antennae longer than the body. Sings at night in summer and autumn."
+    },
+    "zh": {
+      "summary": "镰尾露螽，绿色中型螽斯。触角极长、体细长，夜里发出『叽哩哩』细鸣。",
+      "habitat_hint": "林缘、河滩草地、神社境内、灌木顶、明亮园路。",
+      "finding_tips": "找细长绿色螽斯，触角长过身体。夏秋夜里鸣叫。"
+    }
+  },
+  "Eupatorium chinense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒヨドリバナ。在来種のキク科で、夏〜秋に白〜淡桃色の小花を散房状に咲かせます。アサギマダラなど蝶の蜜源として重要です。",
+      "habitat_hint": "雑木林の林縁、明るい斜面、河川敷、神社の境内、農地の縁。",
+      "finding_tips": "8〜10月、白〜淡桃色の小型の花が散房状に集まる植物を探します。アサギマダラなど渡りのチョウが集まることでも有名です。"
+    },
+    "en": {
+      "summary": "Chinese Eupatorium. A native composite with clusters of small white-to-pale-pink flowers in late summer and autumn. An important nectar source for migrating butterflies like the Chestnut Tiger.",
+      "habitat_hint": "Woodland edges, bright slopes, riverbanks, shrine grounds, and field margins.",
+      "finding_tips": "From August to October look for plants with flat-topped clusters of small white-to-pink flowers. Famous for attracting migrating Chestnut Tiger butterflies."
+    },
+    "zh": {
+      "summary": "白头婆（中国泽兰），本土菊科。夏秋开许多白至淡粉色小花成伞房状。是大绢斑蝶等迁徙蝶类的重要蜜源。",
+      "habitat_hint": "林缘、明亮斜坡、河滩、神社境内、田边。",
+      "finding_tips": "八至十月寻找许多白至淡粉小花成伞房状的植物。常吸引大绢斑蝶等迁徙蝶。"
+    }
+  },
+  "Agropsar philippensis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コムクドリ。夏鳥として渡来する小型のムクドリ類。雄は頬の橙色が美しく、街路樹や河川敷の樹林で群れて活動します。",
+      "habitat_hint": "雑木林、街路樹、社寺林、河川敷の樹林、明るい林縁。",
+      "finding_tips": "4〜10月、樹冠を移動する小型のムクドリ類を探します。雄は頬の橙色斑がよく目立ち、ムクドリより小型です。"
+    },
+    "en": {
+      "summary": "Chestnut-cheeked Starling, a summer-visiting starling. Males have a striking chestnut cheek. Smaller than the White-cheeked Starling; flocks move through tree canopies.",
+      "habitat_hint": "Mixed woodland, street trees, shrine groves, riverside trees, and bright woodland edges.",
+      "finding_tips": "From April to October scan canopies for small starlings. The male's chestnut cheek separates it from the larger White-cheeked Starling."
+    },
+    "zh": {
+      "summary": "北椋鸟（小椋鸟），夏候鸟。雄鸟脸颊栗色显眼，比灰椋鸟小，常成群在树冠移动。",
+      "habitat_hint": "杂木林、行道树、神社树林、河岸林、明亮林缘。",
+      "finding_tips": "四至十月观察树冠成群移动的小椋鸟。雄鸟栗色脸颊与较大的灰椋鸟有别。"
+    }
+  },
+  "Thinornis placidus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イカルチドリ。コチドリより少し大きい中型のチドリで、河川の砂礫地で繁殖します。胸の黒帯と頭の白黒模様が目印。",
+      "habitat_hint": "河川の砂礫地、河口、湖岸、湿地、ダム湖周辺。",
+      "finding_tips": "コチドリと似ますが、本種はやや大型で目の周りに黄色いリングがないか、より細いのが特徴。河川敷の砂利地で繁殖します。"
+    },
+    "en": {
+      "summary": "Long-billed Plover, a medium plover that breeds on river shingle. Slightly larger than Little Ringed Plover; eye-ring is fainter or absent.",
+      "habitat_hint": "River shingle, estuaries, lake shores, wetlands, and reservoir margins.",
+      "finding_tips": "Similar to Little Ringed Plover but a touch larger, with a less prominent eye-ring. Breeds on gravelly riverbanks."
+    },
+    "zh": {
+      "summary": "长嘴鸻，中型鸻类，在河滩砂砾地繁殖。比金眶鸻略大，眼圈较淡或缺失。",
+      "habitat_hint": "河滩砂砾、河口、湖岸、湿地、水库周边。",
+      "finding_tips": "和金眶鸻相似但更大、眼圈淡。砾石河滩繁殖。"
+    }
+  },
+  "Polystichum longifrons": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アイアスカイノデ。雑木林の林床に生える中型の常緑シダ。葉軸に鱗片が密につき、しっかりした質感の葉が特徴です。",
+      "habitat_hint": "雑木林の林床、谷沿いの林、神社の境内、半日陰の斜面、湿った林床。",
+      "finding_tips": "葉軸に毛のような鱗片が密集する中型の常緑シダを探します。アスカイノデ近縁で識別は難しいですが、葉裏の胞子嚢群の位置で区別します。"
+    },
+    "en": {
+      "summary": "A medium evergreen shield fern of mixed woodland understory. Densely scaled rachis; firm-textured fronds. Closely related to other Polystichum and tricky to ID precisely.",
+      "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
+      "finding_tips": "A medium evergreen fern with scaly rachis. Sori position on the underside helps separate it from related Polystichum."
+    },
+    "zh": {
+      "summary": "异盖鳞毛蕨近缘，杂木林林床中型常绿耳蕨。叶轴密被鳞片，叶质坚韧。与近缘种相似难以野外精确识别。",
+      "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
+      "finding_tips": "找叶轴密被鳞片的中型常绿耳蕨。叶背孢子囊群位置可与近缘种区分。"
+    }
+  },
+  "Stellaria aquatica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウシハコベ。湿った場所に生える大型のハコベ。コハコベより明らかに大型で、白い5弁花（深く2裂して10裂に見える）を多数つけます。",
+      "habitat_hint": "湿った草地、河川敷、農地の縁、水田の畔、湿った道端。",
+      "finding_tips": "4〜10月、人の腰高ほどに育つ大型のハコベを探します。コハコベより明らかに大きく、花も大きく目立ちます。"
+    },
+    "en": {
+      "summary": "Water Chickweed. A larger relative of Common Chickweed of damp ground; bears many white five-petalled flowers (each petal deeply notched, appearing as ten).",
+      "habitat_hint": "Damp meadows, riverbanks, field margins, paddy levees, and damp roadsides.",
+      "finding_tips": "From April to October look for chickweed-like plants much larger than Common Chickweed, with larger flowers."
+    },
+    "zh": {
+      "summary": "牛繁缕，潮湿处的大型繁缕。比繁缕明显高大，开许多白色五瓣（深裂似 10瓣）花。",
+      "habitat_hint": "潮湿草地、河滩、田边、田埂、潮湿路边。",
+      "finding_tips": "四至十月寻找明显比繁缕高大的植物，花亦较大。"
+    }
   }
 }
