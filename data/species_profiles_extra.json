@@ -14202,5 +14202,185 @@
       "habitat_hint": "河流、湖泊、水库、内陆大池。",
       "finding_tips": "十一至三月在大河与湖泊寻找潜水捕鱼的秋沙鸭。雄绿黑头配白色身体、雌红褐色头是关键识别。"
     }
+  },
+  "Ectrychotes andreae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ビロウドサシガメ。黒い体表に微細な毛があるビロード状の質感を持つ中型のサシガメ。他の昆虫を捕食します。",
+      "habitat_hint": "雑木林の林床、落ち葉の中、樹皮の裂け目、石下、林縁。",
+      "finding_tips": "通年（成虫越冬）、雑木林の林床や石下で黒くビロード状の質感を持つカメムシを探します。他の昆虫を口吻で刺して体液を吸う捕食者です。"
+    },
+    "en": {
+      "summary": "Velvet Assassin Bug. A medium assassin bug with a velvet-textured black body due to fine surface hairs. Predator of other insects.",
+      "habitat_hint": "Secondary woodland floors, leaf litter, bark crevices, under stones, and forest edges.",
+      "finding_tips": "Year-round (adults overwinter), look on forest floors and under stones for black assassin bugs with a velvety texture. A predator that pierces other insects."
+    },
+    "zh": {
+      "summary": "黑光猎蝽。体表黑色具细毛形成天鹅绒质感的中型猎蝽。捕食其他昆虫。",
+      "habitat_hint": "杂木林林床、枯叶层、树皮裂缝、石下、林缘。",
+      "finding_tips": "全年（成虫越冬）在林床与石下寻找黑色具天鹅绒质感的椿象。以口针刺吸其他昆虫的捕食者。"
+    }
+  },
+  "Eobiana engelhardti": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シベリアヒメギス。小型のキリギリス科で、後翅が短く飛べません。林縁や草地で「ジー、ジー」と地味な声で鳴きます。",
+      "habitat_hint": "草地、林縁、河川敷の草地、農地の縁、二次林。",
+      "finding_tips": "7〜10月、草地や林縁で「ジー、ジー」と地味に鳴く小型のキリギリスを探します。後翅が短く跳ねることが多いです。"
+    },
+    "en": {
+      "summary": "A small katydid with reduced hindwings (flightless). Sings a quiet 'ji, ji' in grasslands and forest edges.",
+      "habitat_hint": "Grasslands, forest edges, riverside meadows, farmland margins, and secondary woods.",
+      "finding_tips": "From July to October look in grasslands and forest edges for small katydids singing a subdued 'ji, ji'. Reduced hindwings — they jump rather than fly."
+    },
+    "zh": {
+      "summary": "西伯利亚小螽。小型螽斯，后翅退化不能飞。林缘与草地以低沉『ji, ji』鸣叫。",
+      "habitat_hint": "草地、林缘、河滩草地、农田边缘、次生林。",
+      "finding_tips": "七至十月在草地与林缘寻找发出低沉『ji, ji』鸣声的小型螽斯。后翅短，多以跳跃移动。"
+    }
+  },
+  "Aiolopus thalassinus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マダラバッタ。淡褐色〜緑色で、上翅に独特の斑紋がある中型のバッタ。河川敷や草地に普通で、飛ぶときに翅が青色に見えます。",
+      "habitat_hint": "河川敷の草地、湿地、空き地、農地の縁、芝地。",
+      "finding_tips": "7〜10月、河川敷や草地で上翅に斑紋のある中型バッタを探します。飛ぶときに後翅の青色がちらりと見えるのが特徴です。"
+    },
+    "en": {
+      "summary": "Slender Groundhopper / Mottled Grasshopper. A medium grasshopper, pale-brown to green with distinctive mottling on the forewings. Hindwings flash blue in flight.",
+      "habitat_hint": "Riverside meadows, wetlands, vacant lots, farmland margins, and lawns.",
+      "finding_tips": "From July to October look on riverbanks and grasslands for medium grasshoppers with mottled forewings. Blue hindwing flash in flight is diagnostic."
+    },
+    "zh": {
+      "summary": "斑翅蝗。淡褐色至绿色、前翅具独特斑纹的中型蝗虫。河滩与草地常见，飞行时后翅显蓝色。",
+      "habitat_hint": "河滩草地、湿地、空地、农田边缘、草坪。",
+      "finding_tips": "七至十月在河滩与草地寻找前翅具斑纹的中型蝗虫。飞行时后翅闪蓝色是关键识别。"
+    }
+  },
+  "Euhadra quaesita": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒダリマキマイマイ。日本固有の大型カタツムリで、殻が左巻きの珍しい種。林床の落ち葉や石下に住みます。",
+      "habitat_hint": "雑木林の林床、神社林、湿った落ち葉、石下、谷地林。",
+      "finding_tips": "通年（梅雨〜秋に活動的）。雑木林の林床で大型のカタツムリを探し、殻の巻き方が左巻き（殻口が左側）であることを確認します。"
+    },
+    "en": {
+      "summary": "Left-coiled Snail. A Japan-endemic large land snail with the rare left-handed (sinistral) shell coiling. Lives in leaf litter and under stones in secondary woods.",
+      "habitat_hint": "Secondary woodland floors, shrine groves, damp leaf litter, under stones, and valley woods.",
+      "finding_tips": "Year-round (most active rainy season to autumn). Look in woodland floors for large land snails and check that the shell coils to the left (aperture on the left)."
+    },
+    "zh": {
+      "summary": "左旋东亚蜗牛。日本固有大型蜗牛，壳左旋（罕见）。栖于林下枯叶与石下。",
+      "habitat_hint": "杂木林林床、神社林、潮湿枯叶、石下、谷地林。",
+      "finding_tips": "全年（梅雨至秋活跃）。在杂木林林床寻找大型蜗牛，确认壳为左旋（壳口在左侧）。"
+    }
+  },
+  "Plantago virginica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツボミオオバコ。北米原産の小型オオバコ。芝地や道端に帰化し、4〜6月に細い花茎を立てて目立たない花穂をつけます。",
+      "habitat_hint": "芝地、道端、グラウンド、河川敷、空き地。",
+      "finding_tips": "4〜6月、芝地や道端でロゼット状の葉と細い花茎に蕾の閉じた花穂をつける小型オオバコを探します。「ツボミ」とは閉鎖花のことです。"
+    },
+    "en": {
+      "summary": "Virginia Plantain. A small North American plantain naturalised in lawns and roadsides. In April-June it raises slender flower stalks with inconspicuous spikes (often cleistogamous flowers).",
+      "habitat_hint": "Lawns, roadsides, athletic fields, riverbanks, and vacant lots.",
+      "finding_tips": "From April to June look on lawns and roadsides for small plantains with a basal rosette and slender flower stems bearing closed-bud spikes. The Japanese name refers to the cleistogamous flowers."
+    },
+    "zh": {
+      "summary": "北美车前。原产北美的小型车前，归化于草坪与路边。四至六月抽出细花茎，花穗不显眼（常具闭花受精花）。",
+      "habitat_hint": "草坪、路边、运动场、河滩、空地。",
+      "finding_tips": "四至六月在草坪与路边寻找具基生莲座叶、细花茎与闭蕾花穗的小型车前。日文俗名指闭花受精花。"
+    }
+  },
+  "Vicia villosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナヨクサフジ。欧州原産で、緑肥や牧草として導入され帰化した蔓性一年〜二年草。春〜初夏に紫色の蝶形花を多数咲かせます。",
+      "habitat_hint": "河川敷、農地、休耕田、道路法面、空き地。",
+      "finding_tips": "4〜6月、河川敷や法面で紫色の蝶形花を密に房状につける蔓性の一年〜二年草を探します。葉は羽状複葉で、巻きひげで他の植物に絡みます。"
+    },
+    "en": {
+      "summary": "Hairy Vetch. A European-origin annual to biennial vine, naturalised after introduction as green manure and forage. Dense racemes of purple pea-flowers in spring to early summer.",
+      "habitat_hint": "Riverbanks, farmland, fallow fields, road slopes, and vacant lots.",
+      "finding_tips": "From April to June look on riverbanks and slopes for vines with dense purple racemes. Pinnate leaves with tendrils help it climb other plants."
+    },
+    "zh": {
+      "summary": "毛苕子。原产欧洲，作绿肥与牧草引入后归化的蔓生一至二年生草本。春至初夏密生紫色蝶形花成总状。",
+      "habitat_hint": "河滩、农田、休耕田、道路斜坡、空地。",
+      "finding_tips": "四至六月在河滩与斜坡寻找密生紫色蝶形花的蔓生一至二年生草本。羽状复叶具卷须攀附他物。"
+    }
+  },
+  "Dysphania ambrosioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アリタソウ（化学的香気を持つアカザ）。中南米原産で、独特の強い香りを持つ一年草。古くから駆虫薬として使われてきました。",
+      "habitat_hint": "畑、空き地、道端、河川敷、農地の縁。",
+      "finding_tips": "7〜10月、畑や空き地で揉むと独特の強い香りを発するアカザ科の一年草を探します。葉は鋸歯のある披針形で、緑色の小さな花を多数つけます。"
+    },
+    "en": {
+      "summary": "Mexican Tea / Epazote. A Central-South American annual with a strong distinctive aroma. Long used as a vermifuge in folk medicine.",
+      "habitat_hint": "Fields, vacant lots, roadsides, riverbanks, and farmland margins.",
+      "finding_tips": "From July to October look on fields and vacant lots for goosefoot annuals with a strong distinctive scent when crushed. Lanceolate serrate leaves and many small green flowers."
+    },
+    "zh": {
+      "summary": "土荆芥。原产中南美的一年生草本，具独特强烈香气。自古作驱虫药使用。",
+      "habitat_hint": "菜地、空地、路边、河滩、农田边缘。",
+      "finding_tips": "七至十月在菜地与空地寻找揉碎散发强烈特殊气味的藜科一年草。叶披针形具锯齿，密生绿色小花。"
+    }
+  },
+  "Cynodon dactylon": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ギョウギシバ（バミューダグラス）。匍匐性で芝地や運動場に広がる多年生イネ科。踏圧に強く、芝草として広く利用されています。",
+      "habitat_hint": "芝地、運動場、グラウンド、河川敷、道端、駐車場の縁。",
+      "finding_tips": "6〜10月、芝地や運動場で匍匐茎を伸ばし、指状に分岐した3〜5本の細い花序を立てる多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Bermuda Grass. A creeping perennial grass spreading on lawns and athletic fields. Highly tolerant of trampling and widely used as turf.",
+      "habitat_hint": "Lawns, sports fields, athletic grounds, riverbanks, roadsides, and parking lot edges.",
+      "finding_tips": "From June to October look on lawns and sports fields for perennial grasses spreading by stolons with 3-5 finger-like slender inflorescences."
+    },
+    "zh": {
+      "summary": "狗牙根（百慕大草）。匍匐性多年生禾本科，常布满草坪与运动场。耐踩踏，是广泛使用的草坪草。",
+      "habitat_hint": "草坪、运动场、操场、河滩、路边、停车场边。",
+      "finding_tips": "六至十月在草坪与运动场寻找具匍匐茎、抽出 3-5 条指状细花序的多年生禾本科。"
+    }
+  },
+  "Perilla frutescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゴマ。シソ科の一年草で、種子から「えごま油」（α-リノレン酸が豊富）を採るために古くから栽培。葉は焼肉の包みなどに使われます。",
+      "habitat_hint": "畑、家庭菜園、農地の縁、河川敷の畑跡、空き地。",
+      "finding_tips": "8〜10月、畑や畑跡で大きな卵形の葉に強い香りを持つシソ科の一年草を探します。シソに似ますが葉色は緑のみ、種子が大きいのが特徴。"
+    },
+    "en": {
+      "summary": "Egoma / Perilla. An annual lamiaceous herb long cultivated for the oil (rich in alpha-linolenic acid) pressed from its seeds. The leaves are used as wraps in Korean BBQ.",
+      "habitat_hint": "Fields, home gardens, farmland margins, former fields on riverbanks, and vacant lots.",
+      "finding_tips": "From August to October look in fields and former fields for strongly aromatic Lamiaceae annuals with large ovate leaves. Similar to shiso but green only and with larger seeds."
+    },
+    "zh": {
+      "summary": "白苏（荏胡麻）。唇形科一年草，自古栽培以榨『荏胡麻油』（富含 α-亚麻酸）。叶用于烤肉包裹。",
+      "habitat_hint": "菜地、家庭菜园、农田边缘、河滩弃耕地、空地。",
+      "finding_tips": "八至十月在菜地与弃耕地寻找具大型卵形叶、强烈香气的唇形科一年草。形似紫苏但叶色仅绿色、种子更大。"
+    }
+  },
+  "Rumex conglomeratus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アレチギシギシ。欧州原産の多年草で、河川敷や空き地に帰化。葉は披針形で、果穂が枝の節ごとに塊状にまとまるのが特徴。",
+      "habitat_hint": "河川敷、空き地、道端、農地の縁、湿った草地。",
+      "finding_tips": "5〜8月、河川敷や空き地で多くの小花が節ごとに塊状にまとまる多年草を探します。葉縁が波打つことが多いです。"
+    },
+    "en": {
+      "summary": "Clustered Dock. A European-origin perennial naturalised on riverbanks and vacant lots. Lanceolate leaves; flower clusters form whorls at the nodes of the inflorescence — the diagnostic feature.",
+      "habitat_hint": "Riverbanks, vacant lots, roadsides, farmland margins, and damp grasslands.",
+      "finding_tips": "From May to August look on riverbanks and vacant lots for perennials with flower clusters at the nodes of branched inflorescences. Leaf margins often wavy."
+    },
+    "zh": {
+      "summary": "簇生酸模。原产欧洲的多年生草本，归化于河滩与空地。叶披针形，花穗在节上呈团块状是关键识别。",
+      "habitat_hint": "河滩、空地、路边、农田边缘、潮湿草地。",
+      "finding_tips": "五至八月在河滩与空地寻找具节上团块状花的多年草。叶缘常呈波状。"
+    }
   }
 }
