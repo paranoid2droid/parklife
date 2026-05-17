@@ -16542,5 +16542,185 @@
       "habitat_hint": "杂木林林缘、河滩、堤岸、庭园、空地。",
       "finding_tips": "花期四至五月，果期六至七月。寻找叶背银光闪烁、夏季结红色长椭圆形果的落叶灌木（可食微酸）。"
     }
+  },
+  "Ambrosia artemisiifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ブタクサ。北米原産の大型一年草で、河川敷や空き地、農地に広く帰化。秋の花粉症の主要な原因植物の一つ。葉はヨモギに似ますが羽状にもっと深く切れ込みます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、造成地。",
+      "finding_tips": "8〜10月、河川敷や空き地で背が高く（1〜2m）、葉が深く羽状に切れ込む大型一年草を探します。茎の上部に黄緑色の小さな雄花序が穂状に伸びるのが目印。"
+    },
+    "en": {
+      "summary": "Common Ragweed. A large North American annual widely naturalised on riverbanks, vacant lots, and farmland. A major cause of autumn hay fever. Leaves resemble mugwort but are more deeply pinnately divided.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and construction sites.",
+      "finding_tips": "From August to October look on riverbanks and vacant lots for tall (1-2 m) annuals with deeply pinnate leaves. Slender yellow-green male flower spikes at stem tops are diagnostic."
+    },
+    "zh": {
+      "summary": "豚草。原产北美的大型一年草，在河滩、空地与农田广泛归化。秋季花粉症的主要致敏植物之一。叶似艾蒿但羽状裂更深。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、工地。",
+      "finding_tips": "八至十月在河滩与空地寻找高 1-2 米、叶深羽状裂的大型一年草。茎顶细长黄绿色雄花穗是关键识别。"
+    }
+  },
+  "Centipeda minima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トキンソウ。畑や芝地、道端に這うように広がる小型一年草のキク科。葉が小さく密集し、目立たない緑色の小さな頭花を葉腋につけます。",
+      "habitat_hint": "畑、芝地、道端、農地、舗装の隙間、河川敷。",
+      "finding_tips": "7〜10月、畑や芝地で地を這うように広がる小型の一年草を探します。葉は小さく深い切れ込みがあり、葉腋に目立たない緑色の小さな頭花をつけます。"
+    },
+    "en": {
+      "summary": "Spreading Sneezeweed. A small creeping annual Asteraceae of fields, lawns, and roadsides. Small densely arranged leaves; inconspicuous small green flower heads in leaf axils.",
+      "habitat_hint": "Fields, lawns, roadsides, farmland, pavement cracks, and riverbanks.",
+      "finding_tips": "From July to October look in fields and lawns for small creeping annuals. Small deeply lobed leaves and tiny green flower heads in leaf axils."
+    },
+    "zh": {
+      "summary": "石胡荽。菜地、草坪、路边匍匐生长的小型一年生菊科。叶小密集，腋生不显眼绿色小头状花。",
+      "habitat_hint": "菜地、草坪、路边、农田、路面缝、河滩。",
+      "finding_tips": "七至十月在菜地与草坪寻找贴地匍匐的小型一年草。叶小深裂，叶腋开绿色不显眼小头状花。"
+    }
+  },
+  "Polystichum miuranum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミウライノデ。湿った林床に生える常緑のシダ。和名は三浦半島で発見されたことから。葉柄に光沢のある淡褐色の鱗片が密生します。",
+      "habitat_hint": "湿った林床、谷地林、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "通年、湿った林床で大型の常緑シダを探します。イノデ類の中で識別が難しい場合は専門書を参照。"
+    },
+    "en": {
+      "summary": "Miura Holly Fern. An evergreen fern of damp forest floors, named after the Miura Peninsula where it was discovered. Dense glossy pale-brown scales on the stipe.",
+      "habitat_hint": "Damp forest floors, valley woods, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round, look on damp forest floors for large evergreen ferns. Identification within Polystichum may need keys."
+    },
+    "zh": {
+      "summary": "三浦耳蕨。潮湿林床的常绿蕨。日文俗名取自发现地三浦半岛。叶柄密被光泽淡褐色鳞片。",
+      "habitat_hint": "潮湿林床、谷地林、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "全年在潮湿林床寻找大型常绿蕨。耳蕨属种间区分需查检索表。"
+    }
+  },
+  "Ipomoea coccinea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マルバルコウ。中南米原産の蔓性一年草で、河川敷や空き地に帰化。鮮やかな朱赤色の小さな漏斗状花が夏〜秋に咲きます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、フェンス、藪。",
+      "finding_tips": "7〜10月、河川敷や空き地で蔓性のヒルガオ科で鮮やかな朱赤色の小さな漏斗状花を持つものを探します。葉は心形〜卵形。"
+    },
+    "en": {
+      "summary": "Red Morning Glory. A Central-South American annual vine naturalised on riverbanks and vacant lots. Brilliant scarlet small funnel-shaped flowers in summer to autumn.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, fences, and thickets.",
+      "finding_tips": "From July to October look on riverbanks and vacant lots for vining Convolvulaceae with brilliant scarlet small funnel flowers. Heart-shaped to ovate leaves."
+    },
+    "zh": {
+      "summary": "圆叶茑萝。原产中南美的蔓生一年草，归化于河滩与空地。夏秋开鲜艳朱红色小型漏斗形花。",
+      "habitat_hint": "河滩、空地、农田边缘、围栏、灌丛。",
+      "finding_tips": "七至十月在河滩与空地寻找具鲜艳朱红色小型漏斗形花的蔓生旋花科。叶心形至卵形。"
+    }
+  },
+  "Cephalanthera erecta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ギンラン。明るい雑木林の林床に生える小型の地生ラン。和名は花が開ききらず銀色に見えることから。希少種として保護対象。",
+      "habitat_hint": "明るい雑木林の林床、コナラ・クヌギ林、神社林、半日陰の斜面。",
+      "finding_tips": "4〜5月、明るい雑木林の林床で白い小さな花が開ききらない（袋状の蕾のような）地生ランを探します。背丈は10〜30cm程度。観察はそっと、採取はしないこと。"
+    },
+    "en": {
+      "summary": "Silver Orchid. A small terrestrial orchid of bright secondary woodland floors. The Japanese name 'silver' refers to flowers that scarcely open. A protected rare species.",
+      "habitat_hint": "Bright secondary woodland floors, oak woods, shrine groves, and partly shaded slopes.",
+      "finding_tips": "From April to May look on bright secondary woodland floors for terrestrial orchids with small white flowers that barely open (pouch-like buds). Plants 10-30 cm tall. Observe quietly — never collect."
+    },
+    "zh": {
+      "summary": "银兰。明亮杂木林林床的小型地生兰。日文俗名『银兰』源于花几乎不开放，呈银白色。是受保护的稀有种。",
+      "habitat_hint": "明亮杂木林林床、栎类林、神社林、半阴斜坡。",
+      "finding_tips": "四至五月在明亮杂木林林床寻找白色小花几乎不张开（袋状花蕾）的地生兰。植株 10-30 厘米高。请安静观察，切勿采摘。"
+    }
+  },
+  "Lepisorus microphyllus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マメヅタ。樹幹や岩に着生する小型の常緑シダ。栄養葉は丸い豆のような形（葉長1cm程）で密に並び、胞子葉は細長く立ち上がります。",
+      "habitat_hint": "樹幹、岩、石垣、神社林の老木、河畔林の岩、湿った場所。",
+      "finding_tips": "通年、樹幹や岩、石垣に丸い豆のような小さな葉を密集してつける小型シダを探します。「マメヅタ」の名は豆のような葉に由来。"
+    },
+    "en": {
+      "summary": "Japanese Bean Fern. A small evergreen epiphytic fern on tree trunks and rocks. Sterile fronds are densely arranged small round 'beans' (~1 cm); fertile fronds are slender and erect.",
+      "habitat_hint": "Tree trunks, rocks, stone walls, old trees in shrine groves, rocks in riparian forests, and damp places.",
+      "finding_tips": "Year-round, look on tree trunks, rocks, and stone walls for small ferns with densely arranged round bean-like leaves. The Japanese name 'bean-vine' refers to these leaves."
+    },
+    "zh": {
+      "summary": "豆瓣绿（瓦韦属）。附生于树干与岩石的小型常绿蕨。营养叶圆形如豆（约 1 厘米）密集，孢子叶细长直立。",
+      "habitat_hint": "树干、岩石、石墙、神社林老树、河岸林岩石、潮湿处。",
+      "finding_tips": "全年在树干、岩石与石墙寻找具密集圆形豆状小叶的小型蕨。日文俗名『豆叶』即指此叶。"
+    }
+  },
+  "Staphylea bumalda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミツバウツギ。林縁や谷地林に生える落葉低木で、3小葉の葉が特徴。初夏に白い小さな花を散房状に咲かせ、独特の三角形の風船のような果実をつけます。",
+      "habitat_hint": "雑木林の林縁、谷地林、河畔林、神社林、半日陰の斜面。",
+      "finding_tips": "花期4〜5月、果期8〜10月。3小葉の葉と独特の三角形の風船状の果実（中に種子が入っている）を持つ落葉低木を探します。"
+    },
+    "en": {
+      "summary": "Japanese Bladdernut. A deciduous shrub of forest edges and valley woods. Trifoliate leaves; small white flowers in flat-topped clusters in early summer; distinctive triangular bladder-like fruits.",
+      "habitat_hint": "Secondary woodland edges, valley woods, riparian woods, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers April-May; fruits August-October. Look for deciduous shrubs with trifoliate leaves and distinctive triangular bladder-like fruits (seeds inside)."
+    },
+    "zh": {
+      "summary": "省沽油。林缘与谷地林的落叶灌木，三出复叶为特征。初夏开白色小花伞房状，结独特三角形气泡状果。",
+      "habitat_hint": "杂木林林缘、谷地林、河岸林、神社林、半阴斜坡。",
+      "finding_tips": "花期四至五月，果期八至十月。寻找具三出复叶、独特三角形气泡状果实（内含种子）的落叶灌木。"
+    }
+  },
+  "Ligustrum lucidum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウネズミモチ。中国原産の常緑高木で、街路樹や公園樹として広く植栽。葉が大きく光沢があり、夏に白い小さな花を多数咲かせます。秋に黒紫色の小さな果実が多数つきます。",
+      "habitat_hint": "街路樹、公園植栽、生垣、住宅地の植え込み、河川敷の野生化。",
+      "finding_tips": "花期6〜7月、果期10〜12月。光沢のある大型の対生葉と白い小花の円錐花序を持つ常緑樹を探します。野生化して在来種を圧迫することが問題視されています。"
+    },
+    "en": {
+      "summary": "Chinese Privet. A Chinese-origin evergreen tree widely planted as street and park trees. Large glossy leaves; many small white flowers in summer; many small purple-black fruits in autumn.",
+      "habitat_hint": "Street trees, park plantings, hedges, residential plantings, and naturalised on riverbanks.",
+      "finding_tips": "Flowers June-July; fruits October-December. Look for evergreens with large glossy opposite leaves and white flower panicles. Naturalisation suppressing native species is a concern."
+    },
+    "zh": {
+      "summary": "女贞（唐女贞）。原产中国的常绿乔木，广作行道树与公园栽植。叶大型具光泽，夏季密生白色小花，秋季结大量紫黑色小果。",
+      "habitat_hint": "行道树、公园栽植、绿篱、住宅区栽植、河滩野化。",
+      "finding_tips": "花期六至七月，果期十至十二月。寻找具大型光泽对生叶、白色小花圆锥花序的常绿树。野化压制本土种已成问题。"
+    }
+  },
+  "Persicaria maculosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヨウシュハルタデ。欧州原産の一年草のタデ科で、湿地や道端、空き地に帰化。葉に黒い斑点があることが多く、淡紅色〜白の小さな花を穂状に咲かせます。",
+      "habitat_hint": "湿地、道端、空き地、農地、河川敷。",
+      "finding_tips": "6〜10月、湿った場所で葉に黒い斑点がある一年草のタデを探します。穂状の淡紅色〜白の花が目印。"
+    },
+    "en": {
+      "summary": "Lady's Thumb. A European-origin annual buckwheat-family plant naturalised in wetlands, roadsides, and vacant lots. Leaves often bear a black 'thumbprint' spot; small pale-pink to white flowers in spikes.",
+      "habitat_hint": "Wetlands, roadsides, vacant lots, farmland, and riverbanks.",
+      "finding_tips": "From June to October look in damp places for annual smartweeds with leaves often bearing a black spot. Spike-like pale-pink to white flower clusters help identify."
+    },
+    "zh": {
+      "summary": "春蓼（西洋春蓼）。原产欧洲的一年生蓼科，归化于湿地、路边与空地。叶常具黑色斑点，淡红至白色小花穗状。",
+      "habitat_hint": "湿地、路边、空地、农田、河滩。",
+      "finding_tips": "六至十月在潮湿处寻找叶常具黑色斑点的一年生蓼。穗状淡红至白色花序可助识别。"
+    }
+  },
+  "Sporobolus fertilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネズミノオ。多年生の中型イネ科で、芝地や道端、空き地に普通。穂が細く長く、ネズミの尾のような形であることが和名の由来。",
+      "habitat_hint": "芝地、道端、空き地、グラウンド、河川敷、農地の縁。",
+      "finding_tips": "8〜11月、芝地や道端で細長い「ネズミの尾」のような穂を立てる多年生イネ科を探します。穂は淡褐色〜茶褐色。"
+    },
+    "en": {
+      "summary": "Rattail Smutgrass. A medium perennial grass common on lawns, roadsides, and vacant lots. The Japanese name 'rat-tail' refers to the slender elongated spike-like inflorescence.",
+      "habitat_hint": "Lawns, roadsides, vacant lots, athletic grounds, riverbanks, and farmland margins.",
+      "finding_tips": "From August to November look on lawns and roadsides for perennial grasses with slender 'rat-tail' spike-like panicles. Inflorescence pale brown to brown."
+    },
+    "zh": {
+      "summary": "鼠尾粟。中型多年生禾本科，草坪、路边、空地常见。穗细长形似鼠尾，日文俗名因此而来。",
+      "habitat_hint": "草坪、路边、空地、运动场、河滩、农田边缘。",
+      "finding_tips": "八至十一月在草坪与路边寻找具细长『鼠尾』穗的多年生禾本科。穗淡褐至茶褐色。"
+    }
   }
 }
