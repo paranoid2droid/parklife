@@ -20340,5 +20340,185 @@
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、海岸草地、河滩草地。",
       "finding_tips": "五至七月在明亮林缘与草地寻找具伞形排列杯状花序的多年草。茎折断流白色乳液（注意皮肤刺激）。"
     }
+  },
+  "Cyrtomium clivicola": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガバヤブソテツ。湿った林床や石垣に生える常緑シダで、葉が細長い披針形なのが和名「長葉」の由来。ヤブソテツの中で識別が難しい近縁種の一つ。",
+      "habitat_hint": "湿った林床、石垣、岩場、林縁、神社林、河畔林。",
+      "finding_tips": "通年、湿った林床や石垣で単羽状の細長い葉を持つ常緑シダを探します。羽片が細長い披針形なのが手がかり。"
+    },
+    "en": {
+      "summary": "Cliff Holly Fern. An evergreen fern of damp forest floors and stone walls. The Japanese name 'long-leaf' refers to the elongated lanceolate pinnae — one of the more challenging Cyrtomium species to identify.",
+      "habitat_hint": "Damp forest floors, stone walls, rocky places, forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round, look on damp forest floors and stone walls for evergreen simply pinnate ferns with elongated lanceolate pinnae."
+    },
+    "zh": {
+      "summary": "崖生贯众。潮湿林床与石墙的常绿蕨，叶为细长披针形是日文俗名『长叶』由来。属贯众属较难识别的种类之一。",
+      "habitat_hint": "潮湿林床、石墙、岩生地、林缘、神社林、河岸林。",
+      "finding_tips": "全年在潮湿林床与石墙寻找一回羽状、羽片细长披针形的常绿蕨。"
+    }
+  },
+  "Indigofera bungeana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コマツナギ。落葉低木のマメ科で、明るい林縁や草地、河川敷に生えます。初夏〜夏に淡紅紫色の小さな蝶形花が穂状に並びます。3〜5小葉の羽状複葉。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷、二次林。",
+      "finding_tips": "6〜9月、明るい林縁や河川敷で淡紅紫色の小さな蝶形花が穂状に並ぶ落葉低木を探します。葉は3〜5小葉の羽状複葉。"
+    },
+    "en": {
+      "summary": "Bunge's Indigo. A deciduous Fabaceae shrub of bright forest edges, grasslands, and riverbanks. Spikes of small pale-purplish-pink pea-flowers from early summer. Pinnate leaves with 3-5 leaflets.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverbanks, and secondary woods.",
+      "finding_tips": "From June to September look at bright forest edges and riverbanks for deciduous shrubs with spikes of small pale-purplish-pink pea-flowers. Pinnate leaves with 3-5 leaflets."
+    },
+    "zh": {
+      "summary": "本氏木蓝（马棘）。明亮林缘、草地与河滩的落叶豆科灌木。初夏至夏穗状开淡紫红色蝶形小花。羽状复叶 3-5 小叶。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩、次生林。",
+      "finding_tips": "六至九月在明亮林缘与河滩寻找具淡紫红色蝶形小花穗状的落叶灌木。羽状复叶 3-5 小叶。"
+    }
+  },
+  "Viola hamiltoniana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サワスミレ。湿った林床や沢沿いに生える小型多年草のスミレ。春に淡紫色〜白の小さな花を咲かせ、葉は卵形〜披針形。",
+      "habitat_hint": "湿った林床、沢沿い、谷地林、神社林、湿った斜面。",
+      "finding_tips": "3〜5月、湿った林床や沢沿いで淡紫〜白の小さな花を持つ小型のスミレを探します。湿った場所を好むのが識別の手がかり。"
+    },
+    "en": {
+      "summary": "Hamilton's Violet. A small perennial violet of damp forest floors and streamsides. Pale-purple to white small flowers in spring; ovate to lanceolate leaves.",
+      "habitat_hint": "Damp forest floors, streamsides, valley woods, shrine groves, and moist slopes.",
+      "finding_tips": "From March to May look on damp forest floors and streamsides for small violets with pale-purple to white flowers. Preference for damp sites helps identify."
+    },
+    "zh": {
+      "summary": "汉密尔顿堇菜。潮湿林床与溪边的小型多年生堇菜。春季开淡紫至白色小花，叶卵至披针形。",
+      "habitat_hint": "潮湿林床、溪边、谷地林、神社林、湿润斜坡。",
+      "finding_tips": "三至五月在潮湿林床与溪边寻找具淡紫至白色小花的小型堇菜。喜湿生境是识别要点。"
+    }
+  },
+  "Fagopyrum cymosum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シャクチリソバ。中国原産の多年草のタデ科で、栽培されたソバの祖先種に近い。明るい林縁や草地、河川敷に帰化。秋に白い小さな花の散房花序を咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、河川敷、農地の縁、空き地。",
+      "finding_tips": "9〜11月、明るい林縁や河川敷で三角形の葉と白い小花の散房花序を持つ大型多年草を探します。背丈は1〜1.5m。"
+    },
+    "en": {
+      "summary": "Perennial Buckwheat. A Chinese-origin perennial Polygonaceae, closely related to the ancestor of cultivated buckwheat. Naturalised on bright forest edges, grasslands, and riverbanks. Flat-topped clusters of small white flowers in autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, riverbanks, farmland margins, and vacant lots.",
+      "finding_tips": "From September to November look at bright forest edges and riverbanks for large perennials with triangular leaves and flat-topped clusters of small white flowers. Plants 1-1.5 m tall."
+    },
+    "zh": {
+      "summary": "金荞麦。原产中国的多年生蓼科，与栽培荞麦的祖先种近缘。归化于明亮林缘、草地与河滩。秋季开白色小花伞房花序。",
+      "habitat_hint": "明亮杂木林林缘、草地、河滩、农田边缘、空地。",
+      "finding_tips": "九至十一月在明亮林缘与河滩寻找具三角形叶、白色小花伞房花序的大型多年草。高 1-1.5 米。"
+    }
+  },
+  "Scirpus wichurae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アブラガヤ。湿地や河川敷に生える多年生のカヤツリグサ科。穂が油っぽい光沢を持つことから和名「油茅」。葉は線形で長く、群生します。",
+      "habitat_hint": "湿地、河川敷、ため池の縁、湿った草地、休耕田。",
+      "finding_tips": "8〜10月、湿地や河川敷で油っぽい光沢のある茶褐色〜暗褐色の穂を持つ大型多年生カヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Oily Bulrush. A perennial Cyperaceae of wetlands and riverbanks. Inflorescence with an oily sheen — the source of the Japanese name 'oil-grass'. Long linear leaves; forms colonies.",
+      "habitat_hint": "Wetlands, riverbanks, pond edges, damp grasslands, and fallow paddies.",
+      "finding_tips": "From August to October look in wetlands and riverbanks for large perennial sedges with brown to dark-brown spikes bearing an oily sheen."
+    },
+    "zh": {
+      "summary": "油茅（毛轴砂引草）。湿地与河滩的多年生莎草科。穗具油亮光泽是日文俗名『油茅』由来。叶线形长，成片生长。",
+      "habitat_hint": "湿地、河滩、池塘边、潮湿草地、休耕田。",
+      "finding_tips": "八至十月在湿地与河滩寻找具油亮光泽茶褐至暗褐色穗的大型多年生莎草。"
+    }
+  },
+  "Eragrostis curvula": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シナダレスズメガヤ。アフリカ原産の多年生イネ科で、河川敷や道路法面、空き地に帰化。葉が長く湾曲して垂れ下がるのが和名「しなだれ」の由来。",
+      "habitat_hint": "河川敷、道路法面、空き地、農地の縁、ゴルフ場のラフ。",
+      "finding_tips": "通年、河川敷や法面で長く湾曲して垂れ下がる葉を持つ大型多年生イネ科を探します。穂は淡紫色〜灰褐色の繊細な円錐花序。"
+    },
+    "en": {
+      "summary": "Weeping Lovegrass. An African-origin perennial naturalised on riverbanks, road slopes, and vacant lots. Long curved drooping leaves — the source of the Japanese name 'drooping lovegrass'.",
+      "habitat_hint": "Riverbanks, road slopes, vacant lots, farmland margins, and golf course rough.",
+      "finding_tips": "Year-round, look on riverbanks and slopes for large perennial grasses with long curved drooping leaves. Inflorescences pale-purple to grey-brown delicate panicles."
+    },
+    "zh": {
+      "summary": "弯叶画眉草。原产非洲的多年生禾本科，归化于河滩、道路斜坡与空地。叶长而弯曲下垂是日文俗名『下垂』由来。",
+      "habitat_hint": "河滩、道路斜坡、空地、农田边缘、高尔夫球场粗草区。",
+      "finding_tips": "全年在河滩与斜坡寻找具长而弯曲下垂叶的大型多年生禾本科。穗为淡紫至灰褐色的纤细圆锥花序。"
+    }
+  },
+  "Phyllostachys edulis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モウソウチク。中国原産の大型のタケで、日本最大級の竹。タケノコ（孟宗竹のタケノコ）として食用に重要。古くから竹林として植栽され、近年は野生化して問題化。",
+      "habitat_hint": "竹林、農家の屋敷林、神社林、公園、放棄竹林。",
+      "finding_tips": "通年、稈の直径が20cm以上にもなる日本最大級の太い竹を探します。タケノコの旬は3〜5月。野生化した竹林が放置されると周囲の森林に侵入します。"
+    },
+    "en": {
+      "summary": "Moso Bamboo. A large Chinese-origin bamboo — Japan's largest. Its shoots ('moso bamboo shoots') are an important edible. Long planted in bamboo groves; recently naturalising and becoming problematic.",
+      "habitat_hint": "Bamboo groves, farmhouse groves, shrine groves, parks, and abandoned bamboo groves.",
+      "finding_tips": "Year-round, look for Japan's largest bamboo with culm diameter over 20 cm. Shoots are in season March-May. Abandoned groves invade surrounding forests."
+    },
+    "zh": {
+      "summary": "毛竹（孟宗竹）。原产中国的大型竹，日本最大级竹。竹笋（孟宗竹笋）为重要食用。古来作竹林栽植，近年野化扩散成问题。",
+      "habitat_hint": "竹林、农家屋林、神社林、公园、废弃竹林。",
+      "finding_tips": "全年寻找竿径 20 厘米以上的日本最大级粗竹。竹笋时令三至五月。废弃竹林易入侵周边森林。"
+    }
+  },
+  "Halosciastrum melanotilingia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シャクの近縁種で、湿った林床や林縁に生える多年草のセリ科。3〜4回羽状複葉の繊細な葉と、初夏に白い小花の散形花序を持ちます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、半日陰の斜面、河畔林。",
+      "finding_tips": "5〜7月、湿った林床や林縁で繊細な3〜4回羽状複葉と白い小花の散形花序を持つセリ科多年草を探します。"
+    },
+    "en": {
+      "summary": "A relative of Sweet Cicely (Anthriscus). A perennial umbellifer of damp forest floors and edges. Delicate 3-4 times pinnate leaves; small white umbels in early summer.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, partly shaded slopes, and riparian woods.",
+      "finding_tips": "From May to July look on damp forest floors and edges for Apiaceae perennials with delicate 3-4 times pinnate leaves and small white umbels."
+    },
+    "zh": {
+      "summary": "山芹近缘种。潮湿林床与林缘的多年生伞形科。叶 3-4 回羽状复叶纤细，初夏开白色小花伞形花序。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、半阴斜坡、河岸林。",
+      "finding_tips": "五至七月在潮湿林床与林缘寻找具纤细 3-4 回羽状复叶、白色小花伞形花序的伞形科多年草。"
+    }
+  },
+  "Calystegia pubescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒルガオ。蔓性の多年草のヒルガオ科で、道端や河川敷、農地に普通。淡桃色の漏斗状花を昼間に咲かせます。葉は鉾形〜矢じり形。",
+      "habitat_hint": "道端、河川敷、農地、空き地、生垣、フェンス。",
+      "finding_tips": "5〜9月、道端や河川敷で淡桃色の漏斗状花と鉾形〜矢じり形の葉を持つ蔓性多年草を探します。アサガオに似ますが昼間に咲くのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Hairy False Bindweed. A vining perennial Convolvulaceae common on roadsides, riverbanks, and farmland. Pale-pink funnel-shaped flowers open during the day; spear- to arrow-shaped leaves.",
+      "habitat_hint": "Roadsides, riverbanks, farmland, vacant lots, hedges, and fences.",
+      "finding_tips": "From May to September look on roadsides and riverbanks for vines with pale-pink funnel flowers and spear- to arrow-shaped leaves. Similar to morning glory but opens during the day."
+    },
+    "zh": {
+      "summary": "毛打碗花。蔓生多年生旋花科，路边、河滩与农田常见。日间开淡粉色漏斗形花。叶戟形至箭头形。",
+      "habitat_hint": "路边、河滩、农田、空地、绿篱、围栏。",
+      "finding_tips": "五至九月在路边与河滩寻找具淡粉漏斗形花、戟至箭头形叶的蔓生多年草。似牵牛但日间开放可区分。"
+    }
+  },
+  "Viola inconspicua": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コスミレの近縁種で、明るい林縁や草地、道端に生える小型多年草のスミレ。春に淡紫色の小さな花を咲かせ、葉は披針形〜長楕円形。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の道端、河川敷の草地。",
+      "finding_tips": "3〜5月、明るい林縁や道端で披針形〜長楕円形の葉と淡紫色の小さな花を持つスミレを探します。"
+    },
+    "en": {
+      "summary": "Small Asian Violet. A small perennial violet related to V. japonica, of bright forest edges, grasslands, and roadsides. Pale-purple small flowers in spring; lanceolate to oblong leaves.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded roadsides, and riverside grasslands.",
+      "finding_tips": "From March to May look at bright forest edges and roadsides for violets with lanceolate to oblong leaves and pale-purple small flowers."
+    },
+    "zh": {
+      "summary": "长萼堇菜。小堇菜近缘种，生于明亮林缘、草地与路边的小型多年生堇菜。春季开淡紫色小花，叶披针至长椭圆形。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴路边、河滩草地。",
+      "finding_tips": "三至五月在明亮林缘与路边寻找具披针至长椭圆叶、淡紫色小花的堇菜。"
+    }
   }
 }
