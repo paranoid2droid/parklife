@@ -18702,5 +18702,185 @@
       "habitat_hint": "水田田埂、湿地、河滩湿地、休耕田、池塘边。",
       "finding_tips": "八至十月在湿地与水田田埂寻找具茶至淡褐色小穗伞形密集的中小型莎草。"
     }
+  },
+  "Lindernia procumbens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アゼナ。水田や湿地に生える小型の一年草のアゼナ科。茎は匍匐性で、小さな淡紫色の唇形花を咲かせます。葉は対生で楕円形。",
+      "habitat_hint": "水田、湿地、用水路、休耕田、河川敷の湿地。",
+      "finding_tips": "7〜10月、水田や湿地で匍匐性の小さな対生楕円形葉と淡紫色の唇形花を持つ一年草を探します。"
+    },
+    "en": {
+      "summary": "False Pimpernel. A small annual Linderniaceae of paddies and wetlands. Creeping stems; small pale-purple lipped flowers; opposite elliptical leaves.",
+      "habitat_hint": "Rice paddies, wetlands, irrigation channels, fallow paddies, and wet riverbanks.",
+      "finding_tips": "From July to October look in paddies and wetlands for creeping annuals with small opposite elliptical leaves and pale-purple lipped flowers."
+    },
+    "zh": {
+      "summary": "母草。水田与湿地的小型一年生母草科。茎匍匐，开淡紫色小型唇形花。叶对生椭圆形。",
+      "habitat_hint": "水田、湿地、灌溉沟、休耕田、河滩湿地。",
+      "finding_tips": "七至十月在水田与湿地寻找匍匐生长、具小型对生椭圆叶与淡紫色唇形花的一年草。"
+    }
+  },
+  "Microstegium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササガヤ。湿った林床や林縁に生える多年生イネ科。ササのような葉が特徴で、和名「笹茅」の由来。穂は細く繊細です。",
+      "habitat_hint": "湿った林床、林縁、谷地林、神社林、半日陰の道端。",
+      "finding_tips": "8〜10月、湿った林床や林縁で笹のような葉を持つ多年生イネ科を探します。穂は細く繊細で目立たない。"
+    },
+    "en": {
+      "summary": "Bamboo-leaf Stiltgrass. A perennial grass of damp forest floors and edges. Bamboo-like (sasa) leaves are the source of the Japanese name 'bamboo-grass'. Slender delicate inflorescence.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, shrine groves, and partly shaded roadsides.",
+      "finding_tips": "From August to October look on damp forest floors and edges for perennial grasses with bamboo-like leaves. Slender inconspicuous inflorescence."
+    },
+    "zh": {
+      "summary": "日本莠竹。潮湿林床与林缘的多年生禾本科。叶似笹竹是日文俗名『笹茅』由来。穗细纤细。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、神社林、半阴路边。",
+      "finding_tips": "八至十月在潮湿林床与林缘寻找叶似笹竹的多年生禾本科。穗细纤细不显眼。"
+    }
+  },
+  "Rostellularia procumbens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キツネノマゴ。明るい林縁や草地に生える小型一年草のキツネノマゴ科。茎は匍匐性〜直立し、夏〜秋に小さな淡紫色の唇形花を穂状に咲かせます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、道端、河川敷の草地。",
+      "finding_tips": "7〜10月、明るい林縁や草地で淡紫色の小さな唇形花が穂状に並ぶ小型一年草を探します。対生する卵形〜楕円形の葉が特徴。"
+    },
+    "en": {
+      "summary": "Procumbent Justicia. A small annual Acanthaceae of bright forest edges and grasslands. Creeping to erect stems; small pale-purple lipped flowers in spikes from summer to autumn.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, roadsides, and riverside grasslands.",
+      "finding_tips": "From July to October look at bright forest edges and grasslands for small annuals with spikes of small pale-purple lipped flowers. Opposite ovate-elliptical leaves."
+    },
+    "zh": {
+      "summary": "爵床。明亮林缘与草地的小型一年生爵床科。茎匍匐至直立，夏秋穗状开淡紫色小型唇形花。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、路边、河滩草地。",
+      "finding_tips": "七至十月在明亮林缘与草地寻找具淡紫色小唇形花穗的小型一年草。叶对生卵至椭圆形。"
+    }
+  },
+  "Persicaria sagittata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウナギツカミ。湿地や水辺に生える蔓性一年草のタデ科。茎に下向きの鋭い棘があり、葉が鏃（やじり）形で「うなぎを掴む」と例えられた和名。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、河川敷の湿地、用水路の縁。",
+      "finding_tips": "8〜10月、湿地や水辺で鏃形の葉と下向きの鋭い棘のある茎を持つ蔓性タデを探します。淡桃色〜白の小さな花が球状に集まります。"
+    },
+    "en": {
+      "summary": "Arrowleaf Tearthumb. A vining annual smartweed of wetlands and waterside. Downward-pointing prickles on stems; arrow-shaped leaves. The Japanese name 'eel-grabber' compares the prickles to gripping a slippery eel.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, wet riverbanks, and irrigation channel edges.",
+      "finding_tips": "From August to October look in wetlands and waterside for vining smartweeds with arrow-shaped leaves and downward-prickly stems. Pale-pink to white small flowers in globose clusters."
+    },
+    "zh": {
+      "summary": "箭叶蓼。湿地与水边的蔓生一年生蓼科。茎具下向锐刺，叶箭头形，日文俗名『抓鳗鱼』比喻倒刺如握住滑溜鳗鱼。",
+      "habitat_hint": "湿地、水田田埂、池塘边、河滩湿地、灌溉沟边。",
+      "finding_tips": "八至十月在湿地与水边寻找具箭头形叶、茎下向锐刺的蔓生蓼。淡粉至白色小花球状集生。"
+    }
+  },
+  "Spodiopogon cotulifer": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオアブラススキ。明るい草地や林縁に生える多年生イネ科。穂は大型で枝分かれし、独特の油っぽい光沢があるのが「アブラ（油）」の名前の由来。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷の草地、二次林。",
+      "finding_tips": "8〜10月、明るい林縁や草地で大型の枝分かれした穂を持つ多年生イネ科を探します。穂の油っぽい光沢が識別の決め手。"
+    },
+    "en": {
+      "summary": "Greater Oilseed Grass. A perennial grass of bright grasslands and forest edges. Large branched inflorescence with a characteristic oily sheen — the source of the Japanese name 'oil grass'.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverside grasslands, and secondary woods.",
+      "finding_tips": "From August to October look at bright forest edges and grasslands for perennial grasses with large branched inflorescences. Oily sheen of the inflorescence is diagnostic."
+    },
+    "zh": {
+      "summary": "大油芒。明亮草地与林缘的多年生禾本科。穗大型分枝，具独特油亮光泽，是日文俗名『油茅』由来。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、次生林。",
+      "finding_tips": "八至十月在明亮林缘与草地寻找具大型分枝穗的多年生禾本科。穗的油亮光泽是关键识别。"
+    }
+  },
+  "Persicaria hydropiper": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤナギタデ。水辺や湿地に生える一年生のタデ科。葉を噛むと辛い味があり「真蓼（まだて）」とも呼ばれ、薬味（蓼酢）として古くから利用されます。",
+      "habitat_hint": "水田、湿地、河川の岸辺、用水路、湿った草地。",
+      "finding_tips": "8〜10月、水辺や湿地で柳のような細長い披針形の葉を持つタデを探します。葉を噛むと辛味があれば本種。穂は淡桃色〜白の細長い花序。"
+    },
+    "en": {
+      "summary": "Water-pepper. An annual smartweed of waterside and wetlands. Leaves have a peppery taste when chewed; long used as a condiment ('tade-su' vinegar).",
+      "habitat_hint": "Rice paddies, wetlands, river edges, irrigation channels, and damp grasslands.",
+      "finding_tips": "From August to October look in waterside and wetlands for smartweeds with willow-like slender lanceolate leaves. Peppery taste when a leaf is chewed confirms identification. Slender pale-pink to white spike-like inflorescence."
+    },
+    "zh": {
+      "summary": "水蓼（柳蓼）。水边与湿地的一年生蓼科。叶咬嚼具辛辣味，又称『真蓼』，自古作香辛料（蓼醋）使用。",
+      "habitat_hint": "水田、湿地、河岸、灌溉沟、潮湿草地。",
+      "finding_tips": "八至十月在水边与湿地寻找具柳叶状细长披针叶的蓼。咀嚼叶具辛辣味可确认。穗为细长的淡粉至白色花序。"
+    }
+  },
+  "Cirsium oligophyllum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノハラアザミ。明るい草地や林縁に生える多年草のキク科で、秋に紅紫色の頭花を咲かせます。葉縁に鋭い棘がありますが、アメリカオニアザミよりは少なめ。",
+      "habitat_hint": "明るい草地、林縁、土手、河川敷の草地、二次林。",
+      "finding_tips": "9〜11月、明るい草地や林縁で紅紫色の頭花を咲かせる多年生のアザミを探します。葉が深く切れ込み、縁に棘があります。"
+    },
+    "en": {
+      "summary": "Few-leaf Thistle. A perennial Asteraceae of bright grasslands and forest edges. Rose-purple flower heads in autumn. Leaf margins prickly but less so than invasive Bull Thistle.",
+      "habitat_hint": "Bright grasslands, forest edges, banks, riverside grasslands, and secondary woods.",
+      "finding_tips": "From September to November look in bright grasslands and forest edges for perennial thistles with rose-purple flower heads. Deeply lobed leaves with prickly margins."
+    },
+    "zh": {
+      "summary": "少叶蓟。明亮草地与林缘的菊科多年草，秋季开紫红色头状花。叶缘具锐刺，但比翼蓟少。",
+      "habitat_hint": "明亮草地、林缘、堤岸、河滩草地、次生林。",
+      "finding_tips": "九至十一月在明亮草地与林缘寻找开紫红色头状花的多年生蓟。叶深裂，缘具刺。"
+    }
+  },
+  "Artemisia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オトコヨモギ。明るい草地や林縁、海岸近くに生える多年草のキク科。ヨモギに似ますが、葉の切れ込みが浅く、頭花は秋に淡黄褐色の細長い穂状に並びます。",
+      "habitat_hint": "明るい草地、林縁、海岸近くの草地、土手、河川敷の草地。",
+      "finding_tips": "8〜10月、明るい草地や林縁でヨモギに似ますが葉の切れ込みが浅い多年草を探します。秋の頭花は淡黄褐色の細長い穂状で目立たない。"
+    },
+    "en": {
+      "summary": "Japanese Mugwort. A perennial Artemisia of bright grasslands, forest edges, and coastal areas. Similar to common mugwort but with more shallowly lobed leaves; many pale yellowish-brown small flower heads in slender spikes in autumn.",
+      "habitat_hint": "Bright grasslands, forest edges, coastal grasslands, banks, and riverside grasslands.",
+      "finding_tips": "From August to October look in bright grasslands and forest edges for Artemisia perennials with leaves less deeply lobed than common mugwort. Autumn heads are pale yellowish-brown and inconspicuous in slender spikes."
+    },
+    "zh": {
+      "summary": "牡蒿。明亮草地、林缘与海岸近郊的菊科多年草。似艾蒿但叶缘裂浅，秋季淡黄褐色小型头状花排成细长穗状。",
+      "habitat_hint": "明亮草地、林缘、海岸草地、堤岸、河滩草地。",
+      "finding_tips": "八至十月在明亮草地与林缘寻找叶缘比艾蒿浅裂的蒿属多年草。秋季头状花淡黄褐色细长穗状不显眼。"
+    }
+  },
+  "Eriochloa villosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナルコビエ。河川敷や湿地、農地に生える一年〜多年生イネ科。穂は片側に偏った独特の形で、毛が多く密集します。",
+      "habitat_hint": "河川敷、湿地、農地、休耕田、道端の湿った場所。",
+      "finding_tips": "7〜10月、河川敷や湿地で穂が片側に偏った独特の形を持つ毛深い一年〜多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Hairy Cupgrass. An annual to perennial grass of riverbanks, wetlands, and farmland. Distinctive one-sided densely hairy inflorescence.",
+      "habitat_hint": "Riverbanks, wetlands, farmland, fallow fields, and damp roadsides.",
+      "finding_tips": "From July to October look on riverbanks and wetlands for annual to perennial grasses with distinctive one-sided densely hairy inflorescences."
+    },
+    "zh": {
+      "summary": "毛臂形草。河滩、湿地与农田的一至多年生禾本科。穗向一侧偏并具密集毛是关键识别。",
+      "habitat_hint": "河滩、湿地、农田、休耕田、潮湿路边。",
+      "finding_tips": "七至十月在河滩与湿地寻找具单侧偏向、密毛穗的一至多年生禾本科。"
+    }
+  },
+  "Tricyrtis hirta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホトトギス。日本固有の多年草で、林床や半日陰の岩場に生えます。秋に白地に紫の斑点がある独特のユリ状の花を咲かせ、花の斑点が鳥の不如帰（ホトトギス）の胸の模様に似ることが和名の由来。",
+      "habitat_hint": "雑木林の林床、谷地林、神社林、半日陰の岩場、河畔林。",
+      "finding_tips": "9〜10月、林床や半日陰の岩場で白地に紫斑のある独特のユリ状花を持つ多年草を探します。葉腋から茎の先端まで多数の花が並びます。"
+    },
+    "en": {
+      "summary": "Hairy Toad Lily. A Japan-endemic perennial of forest floors and partly shaded rocky places. Distinctive lily-like white-and-purple-spotted flowers in autumn — the spotting resembles a Lesser Cuckoo's breast plumage, hence the Japanese name.",
+      "habitat_hint": "Secondary woodland floors, valley woods, shrine groves, partly shaded rocky places, and riparian woods.",
+      "finding_tips": "From September to October look on forest floors and partly shaded rocks for perennials with distinctive lily-like white flowers spotted purple. Many flowers along stems from leaf axils to tips."
+    },
+    "zh": {
+      "summary": "毛油点草。日本固有多年草，生于林床与半阴岩生地。秋季开白底紫斑独特百合状花，斑点似杜鹃鸟胸羽，是日文俗名『ホトトギス』由来。",
+      "habitat_hint": "杂木林林床、谷地林、神社林、半阴岩生地、河岸林。",
+      "finding_tips": "九至十月在林床与半阴岩生地寻找具白底紫斑独特百合状花的多年草。从叶腋到茎端开多数花。"
+    }
   }
 }
