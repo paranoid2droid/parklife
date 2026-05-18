@@ -24984,5 +24984,185 @@
       "habitat_hint": "草坪、农田、果园、住宅区庭院、河滩草地。",
       "finding_tips": "五至八月夜间在路灯下寻找淡茶褐色的中型金龟。幼虫为害可致草坪与农田枯萎。"
     }
+  },
+  "Hovenia dulcis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ケンポナシ。落葉高木のクロウメモドキ科で、雑木林に生えます。秋に「梨の枝」のような独特の形をした多肉質の果柄（果実そのものではなく、果柄が膨らむ）が甘く、可食。",
+      "habitat_hint": "雑木林、林縁、神社林、二次林、河畔林、住宅地の野生化。",
+      "finding_tips": "果期10〜11月、雑木林で独特の多肉質に膨らんだ果柄（「梨の枝」状）を持つ落葉高木を探します。果柄は甘く食用可。"
+    },
+    "en": {
+      "summary": "Japanese Raisin Tree. A deciduous Rhamnaceae tree of secondary woodlands. Distinctive 'pear-branch'-shaped swollen fleshy pedicels (not the fruit itself) in autumn — sweet and edible.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, secondary woods, riparian woods, and residential naturalised areas.",
+      "finding_tips": "Fruits October-November. Look in secondary woodlands for deciduous trees with distinctive swollen fleshy pedicels (pear-branch-like). Pedicels are sweet and edible."
+    },
+    "zh": {
+      "summary": "枳椇（拐枣）。鼠李科落叶乔木，生于杂木林。秋季果柄独特肉质膨大（似『梨枝』，非果实本身），甜可食。",
+      "habitat_hint": "杂木林、林缘、神社林、次生林、河岸林、住宅区野化。",
+      "finding_tips": "果期十至十一月在杂木林寻找具独特肉质膨大果柄（似梨枝）的落叶乔木。果柄甜可食。"
+    }
+  },
+  "Ardea modesta": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チュウダイサギ。中型〜大型の白いサギで、ダイサギに似ますが小型。アジア南部から日本に渡来する亜種で、河川や湖沼、湿地で見られます。夏羽は嘴が黒く、目元が緑色。",
+      "habitat_hint": "河川、湖沼、湿地、水田、河口、干潟。",
+      "finding_tips": "通年（春〜秋に多い）、河川や水田で白い中型〜大型のサギを探します。ダイサギより小型で、嘴の色や首の長さで識別。"
+    },
+    "en": {
+      "summary": "Eastern Great Egret. A medium-large white egret similar to Great Egret but smaller. A subspecies migrating from South Asia to Japan; found at rivers, lakes, wetlands. Breeding plumage has black bill and green lores.",
+      "habitat_hint": "Rivers, lakes, wetlands, rice paddies, estuaries, and mudflats.",
+      "finding_tips": "Year-round (more common spring to autumn), look in rivers and paddies for medium-large white egrets. Smaller than Great Egret; distinguish by bill colour and neck length."
+    },
+    "zh": {
+      "summary": "中白鹭。中至大型白色鹭，似大白鹭但更小。南亚至日本的亚种，常见于河流、湖沼与湿地。繁殖羽喙黑、眼周绿色。",
+      "habitat_hint": "河流、湖沼、湿地、水田、河口、滩涂。",
+      "finding_tips": "全年（春至秋多见）在河流与水田寻找白色中至大型鹭。比大白鹭小，凭喙色与颈长区分。"
+    }
+  },
+  "Spirodela polyrhiza": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウキクサ。水面に浮かぶ多年生の水生植物のサトイモ科で、葉状体（葉と茎が合体したもの）が円形〜楕円形で複数の根を持つ（多根）。水田や池の水面を覆います。",
+      "habitat_hint": "水田、湖沼、ため池、用水路、湿地の水面。",
+      "finding_tips": "通年（暖かい季節に増殖）、水田や池の水面で円形〜楕円形の小さな葉状体を持つ浮遊性植物を探します。複数の根があるのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Common Duckweed (Greater Duckweed). A floating perennial aquatic Araceae with circular to oval thalli (fused leaf-stem) and multiple roots ('many roots'). Covers water surfaces of paddies and ponds.",
+      "habitat_hint": "Rice paddies, lakes, ponds, irrigation channels, and wetland water surfaces.",
+      "finding_tips": "Year-round (multiplies in warm seasons), look on paddy and pond water surfaces for floating plants with circular to oval small thalli. Multiple roots are diagnostic."
+    },
+    "zh": {
+      "summary": "紫萍（青萍）。漂浮在水面的多年生水生天南星科，叶状体（叶茎合一）圆至椭圆形，具多根（『多根』）。覆盖水田与池塘水面。",
+      "habitat_hint": "水田、湖沼、池塘、灌溉沟、湿地水面。",
+      "finding_tips": "全年（暖季增殖）在水田与池塘水面寻找具圆至椭圆形小型叶状体的漂浮植物。多根是关键识别。"
+    }
+  },
+  "Lepidium didymum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カラクサナズナ。欧州〜地中海原産の小型一年〜二年草のアブラナ科で、舗装の隙間や道端、農地に帰化。葉が独特の唐草模様のように深く分裂することが和名の由来。",
+      "habitat_hint": "舗装の隙間、道端、農地の縁、空き地、住宅地の庭。",
+      "finding_tips": "3〜6月、舗装の隙間や道端で唐草模様のような深く分裂した葉を持つ匍匐性〜直立性の小型アブラナ科を探します。"
+    },
+    "en": {
+      "summary": "Lesser Swine-cress. A small European/Mediterranean-origin annual to biennial Brassicaceae naturalised in pavement cracks, roadsides, and farmland. Distinctively deeply divided leaves (like 'arabesque' patterns) — the source of the Japanese name 'arabesque-shepherd's-purse'.",
+      "habitat_hint": "Pavement cracks, roadsides, farmland margins, vacant lots, and residential gardens.",
+      "finding_tips": "From March to June look in pavement cracks and roadsides for small creeping to erect crucifers with distinctively deeply divided leaves."
+    },
+    "zh": {
+      "summary": "臭荠（臭独行菜）。原产欧洲至地中海的小型一至二年生十字花科，归化于路面缝、路边与农田。叶深裂如唐草纹独特，是日文俗名由来。",
+      "habitat_hint": "路面缝、路边、农田边缘、空地、住宅区庭院。",
+      "finding_tips": "三至六月在路面缝与路边寻找具唐草纹状深裂叶的匍匐至直立小型十字花科。"
+    }
+  },
+  "Hemistepta lyrata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キツネアザミ。明るい草地や畔、農地に生える二年草のキク科。アザミに似ますが葉に棘がなく、紅紫色の頭花が直立した茎の先に咲きます。和名は「狐」（=だます、アザミに見えるが違う）から。",
+      "habitat_hint": "明るい草地、水田畦、農地、河川敷の草地、土手。",
+      "finding_tips": "5〜6月、草地や畔で紅紫色の頭花を持ち、アザミに似ますが葉に棘のない二年草を探します。"
+    },
+    "en": {
+      "summary": "Lyrate Hemistepta. A biennial Asteraceae of bright grasslands and paddy bunds. Similar to thistles but without leaf spines; rose-purple flower heads at the top of erect stems. The Japanese name 'fox thistle' means 'deceiving' (looks like thistle but is not).",
+      "habitat_hint": "Bright grasslands, paddy bunds, farmland, riverside grasslands, and banks.",
+      "finding_tips": "From May to June look in grasslands and on paddy bunds for biennials with rose-purple flower heads resembling thistles but without leaf spines."
+    },
+    "zh": {
+      "summary": "泥胡菜。明亮草地与田埂的二年生菊科。似蓟但叶无刺，紫红色头状花在直立茎顶开放。日文俗名『狐蓟』指『假冒』（似蓟非蓟）。",
+      "habitat_hint": "明亮草地、水田田埂、农田、河滩草地、堤岸。",
+      "finding_tips": "五至六月在草地与田埂寻找具紫红色头状花、似蓟但叶无刺的二年草。"
+    }
+  },
+  "Vandellia micrantha": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムラサキサギゴケ近縁の小型多年草で、水田畦や湿った草地、湿地に生えます。淡紫色の唇形花を咲かせ、匍匐性で広がります。",
+      "habitat_hint": "水田畦、湿地、湿った草地、河川敷の湿地、農地の縁。",
+      "finding_tips": "4〜6月、水田畦や湿地で淡紫色の唇形花を持つ匍匐性の小型多年草を探します。"
+    },
+    "en": {
+      "summary": "Small-flowered Vandellia. A small perennial herb (Linderniaceae) of paddy bunds, damp grasslands, and wetlands. Pale-purple lipped flowers; creeping habit.",
+      "habitat_hint": "Paddy bunds, wetlands, damp grasslands, wet riverbanks, and farmland margins.",
+      "finding_tips": "From April to June look on paddy bunds and in wetlands for small creeping perennials with pale-purple lipped flowers."
+    },
+    "zh": {
+      "summary": "小花母草。母草科小型多年生草本，生于水田田埂、潮湿草地与湿地。开淡紫色唇形花，匍匐生长。",
+      "habitat_hint": "水田田埂、湿地、潮湿草地、河滩湿地、农田边缘。",
+      "finding_tips": "四至六月在水田田埂与湿地寻找具淡紫色唇形花的匍匐小型多年草。"
+    }
+  },
+  "Stachys riederi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌゴマ。湿地や水田畦、河川敷の湿地に生える多年草のシソ科。淡紅色の唇形花が穂状に並び、葉は対生の披針形で、茎は四角形。湿った場所を好みます。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、湿った草地、用水路の縁。",
+      "finding_tips": "7〜9月、湿地や水田畦で淡紅色の唇形花の穂と対生の披針形葉を持つシソ科多年草を探します。茎は四角形。"
+    },
+    "en": {
+      "summary": "Marsh Woundwort. A perennial Lamiaceae of wetlands, paddy bunds, and wet riverbanks. Pale-pink lipped flowers in spikes; opposite lanceolate leaves; square stems. Prefers damp sites.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, damp grasslands, and irrigation channel edges.",
+      "finding_tips": "From July to September look in wetlands and paddy bunds for Lamiaceae perennials with spikes of pale-pink lipped flowers and opposite lanceolate leaves. Square stems."
+    },
+    "zh": {
+      "summary": "水苏。湿地、水田田埂与河滩湿地的多年生唇形科。淡红色唇形花穗状，叶对生披针形，茎四棱形。喜湿生境。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、潮湿草地、灌溉沟边。",
+      "finding_tips": "七至九月在湿地与水田田埂寻找具淡红色唇形花穗、对生披针叶的唇形科多年草。茎四棱形。"
+    }
+  },
+  "Hyophila propagulifera": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガサキホウオウゴケ近縁の小型のコケで、舗装の隙間や石垣、コンクリートに生えます。乾燥に強く、葉先が筒状に巻くのが特徴。",
+      "habitat_hint": "舗装の隙間、石垣、コンクリート、屋根瓦、駐車場、地面の裸地。",
+      "finding_tips": "通年、舗装の隙間や石垣で小型のコケを探します。乾燥時に葉先が筒状に巻くのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Propaguliferous Hyophila Moss. A small moss of pavement cracks, stone walls, and concrete. Drought-tolerant; leaf tips roll into a tube when dry — diagnostic.",
+      "habitat_hint": "Pavement cracks, stone walls, concrete, roof tiles, parking lots, and bare ground.",
+      "finding_tips": "Year-round, look in pavement cracks and on stone walls for small mosses. Leaf tips rolled into a tube when dry are diagnostic."
+    },
+    "zh": {
+      "summary": "繁体小石藓。路面缝、石墙与混凝土的小型苔藓。耐旱，叶尖干燥时卷成管状是关键识别。",
+      "habitat_hint": "路面缝、石墙、混凝土、屋瓦、停车场、裸地。",
+      "finding_tips": "全年在路面缝与石墙寻找小型苔藓。叶尖干燥时卷成管状是关键识别。"
+    }
+  },
+  "Apopellia endiviifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クビレケビラゴケ近縁の苔類で、湿った林床や沢沿いの岩、湿った地面に生えます。葉状体が緑色で独特の波状の縁を持ちます。",
+      "habitat_hint": "湿った林床、沢沿いの岩、湿った地面、神社林、河畔林。",
+      "finding_tips": "通年、湿った林床や沢沿いの岩で緑色の葉状体の苔類を探します。葉状体の縁が波状なのが識別の手がかり。"
+    },
+    "en": {
+      "summary": "Endive-leaved Pellia. A liverwort of damp forest floors, streamside rocks, and damp ground. Green thallus with distinctive wavy margins.",
+      "habitat_hint": "Damp forest floors, streamside rocks, damp ground, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round, look on damp forest floors and streamside rocks for green thallose liverworts. Wavy thallus margins help confirm."
+    },
+    "zh": {
+      "summary": "菊苣叶钱苔。潮湿林床、溪边岩石与潮湿地面的苔类。叶状体绿色具独特波状边缘。",
+      "habitat_hint": "潮湿林床、溪边岩石、潮湿地面、神社林、河岸林。",
+      "finding_tips": "全年在潮湿林床与溪边岩石寻找绿色叶状体苔类。叶状体波状边缘可助识别。"
+    }
+  },
+  "Rorippa islandica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌガラシ近縁種で、湿地や水田畦、河川敷に生える一年〜二年草のアブラナ科。黄色い小さな十字花を多数咲かせ、葉は深く切れ込みます。",
+      "habitat_hint": "水田畦、湿地、河川敷、農地の縁、用水路の縁。",
+      "finding_tips": "5〜10月、湿地や水田畦で黄色い小さな十字花と深く切れ込んだ葉を持つ一年〜二年草を探します。"
+    },
+    "en": {
+      "summary": "Northern Marsh Yellowcress. A relative of Rorippa indica, an annual to biennial Brassicaceae of wetlands, paddy bunds, and riverbanks. Many small yellow 4-petalled flowers; deeply lobed leaves.",
+      "habitat_hint": "Paddy bunds, wetlands, riverbanks, farmland margins, and irrigation channel edges.",
+      "finding_tips": "From May to October look on paddy bunds and in wetlands for annuals to biennials with many small yellow 4-petalled flowers and deeply lobed leaves."
+    },
+    "zh": {
+      "summary": "冰岛蔊菜。蔊菜近缘种，湿地、水田田埂与河滩的一至二年生十字花科。密生黄色四瓣小花，叶深裂。",
+      "habitat_hint": "水田田埂、湿地、河滩、农田边缘、灌溉沟边。",
+      "finding_tips": "五至十月在湿地与水田田埂寻找具黄色四瓣小花、叶深裂的一至二年草。"
+    }
   }
 }
