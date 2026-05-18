@@ -25524,5 +25524,185 @@
       "habitat_hint": "杂木林林床、菜地、草地、河滩、住宅区庭院。",
       "finding_tips": "全年（暖季活跃）在林床与菜地寻找黑至暗褐色具光泽的大型步甲。"
     }
+  },
+  "Calidris alba": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミユビシギ。小型のシギで、後趾がないため「三趾」の名の由来。日本では冬鳥として海岸の砂浜に渡来し、波打ち際を素早く走り回って小動物を捕えます。",
+      "habitat_hint": "海岸の砂浜、干潟、河口、防波堤の周辺。",
+      "finding_tips": "10〜4月、海岸の砂浜で波打ち際を素早く走り回る小型のシギを探します。後趾がない3趾の足跡も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Sanderling. A small sandpiper lacking the hind toe — the source of the Japanese name 'three-toed'. Winter visitor to Japan, on sandy beaches; runs rapidly at the water's edge catching small invertebrates.",
+      "habitat_hint": "Sandy beaches, mudflats, estuaries, and around breakwaters.",
+      "finding_tips": "From October to April look on sandy beaches for small sandpipers running rapidly at the water's edge. Three-toed footprints (no hind toe) also help identify."
+    },
+    "zh": {
+      "summary": "三趾滨鹬。小型鹬，无后趾是日文俗名『三趾』由来。日本冬候鸟，飞临海岸沙滩，于浪边快速奔跑捕食小动物。",
+      "habitat_hint": "海岸沙滩、滩涂、河口、防波堤周边。",
+      "finding_tips": "十至四月在海岸沙滩寻找浪边快速奔跑的小型鹬。三趾足印（无后趾）也可助识别。"
+    }
+  },
+  "Strix uralensis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フクロウ。日本最も普通の大型フクロウで、「ゴロスケホッホー」と独特の鳴き声で知られます。雑木林や神社林の樹洞に営巣し、夜にネズミや小鳥を捕食します。",
+      "habitat_hint": "雑木林、神社林、河畔林、農家の屋敷林、山地の林。",
+      "finding_tips": "通年、特に夜に雑木林や神社林で「ゴロスケホッホー」と独特の鳴き声を聞きます。日中は樹洞や枝の上で休んでいる姿を見つけられます。"
+    },
+    "en": {
+      "summary": "Ural Owl. Japan's most common large owl, famous for the distinctive 'goro-suke ho-ho' call. Nests in tree cavities in secondary woodlands and shrine groves; hunts mice and small birds at night.",
+      "habitat_hint": "Secondary woodlands, shrine groves, riparian woods, farmhouse groves, and montane forests.",
+      "finding_tips": "Year-round, especially at night, listen in secondary woodlands and shrine groves for the distinctive 'goro-suke ho-ho' call. By day may be seen roosting in tree cavities or on branches."
+    },
+    "zh": {
+      "summary": "灰林鸮。日本最常见的大型猫头鹰，著名独特鸣声『goro-suke ho-ho』。在杂木林与神社林树洞营巢，夜间捕食鼠类与小鸟。",
+      "habitat_hint": "杂木林、神社林、河岸林、农家屋林、山地林。",
+      "finding_tips": "全年（尤夜间）在杂木林与神社林聆听独特『goro-suke ho-ho』鸣声。白天可见停于树洞或枝上休息。"
+    }
+  },
+  "Japonica saepestriata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウラナミアカシジミ。初夏に発生する中型のシジミチョウで、ゼフィルス（樹上性シジミ）の一種。翅の裏面に独特の波状模様（ウラナミ＝裏波）があるのが和名の由来。",
+      "habitat_hint": "クヌギ・コナラのある雑木林、林縁、神社林、河畔林。",
+      "finding_tips": "5〜6月、雑木林の林縁や樹冠で翅の裏面に波状模様を持つ橙赤色の中型シジミチョウを探します。"
+    },
+    "en": {
+      "summary": "Wave-marked Hairstreak. A medium lycaenid emerging in early summer; a member of the 'zephyrus' canopy hairstreaks. The wavy pattern on the underside — the source of the Japanese name 'underside-wave'.",
+      "habitat_hint": "Secondary woodlands with oaks, forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to June look at forest edges and canopies for orange-red medium lycaenids with wavy patterns on the underside."
+    },
+    "zh": {
+      "summary": "波纹洒灰蝶。初夏发生的中型灰蝶，属树冠『泽豹蝶』类。翅背面具独特波纹（『裏波』）是日文俗名由来。",
+      "habitat_hint": "有麻栎与小楢的杂木林、林缘、神社林、河岸林。",
+      "finding_tips": "五至六月在杂木林林缘与树冠寻找橙红色、翅背面具波纹的中型灰蝶。"
+    }
+  },
+  "Somena pulverea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ゴマフリドクガ。小型のドクガで、淡黄色の翅にゴマのような小さな黒点が散らばっています。幼虫の毒針毛は皮膚に刺さると激しいかゆみと発疹を引き起こします。触らないこと。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で淡黄色の翅にゴマ状の小黒点を持つ小型ドクガを探します。幼虫は黄色〜橙色の毛深いタイプで、絶対に触らないこと。"
+    },
+    "en": {
+      "summary": "Speckled Tussock Moth. A small tussock moth with pale-yellow wings sprinkled with sesame-like small black spots. The caterpillars' venomous urticating hairs cause severe itching and rash on contact — do not touch.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for small tussock moths with pale-yellow wings dotted with sesame-like black spots. Yellow-orange hairy caterpillars — never touch."
+    },
+    "zh": {
+      "summary": "胡麻斑毒蛾。小型毒蛾，淡黄色翅散布如芝麻的小黑点。幼虫毒毛接触皮肤引起剧痒与皮疹，切勿触摸。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找具淡黄色翅、散布芝麻状黑点的小型毒蛾。幼虫黄至橙色多毛，切勿触摸。"
+    }
+  },
+  "Apochrysa matsumurae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アミメクサカゲロウ。中型のクサカゲロウで、翅に独特の網目模様（アミメ＝網目）があり、緑色の体色。捕食性で、アブラムシなどの害虫を食べる益虫。",
+      "habitat_hint": "雑木林、林縁、農地、公園、河川敷、住宅地の庭。",
+      "finding_tips": "5〜10月、雑木林の葉上や夜の外灯で翅に網目模様を持つ緑色の中型クサカゲロウを探します。アブラムシのいる植物の周辺で観察。"
+    },
+    "en": {
+      "summary": "Net-winged Green Lacewing. A medium lacewing with distinctive network ('net-mesh') pattern on the wings and green body. A predatory beneficial insect that eats aphids and other pests.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, parks, riverbanks, and residential gardens.",
+      "finding_tips": "From May to October look on woodland foliage and at night lights for medium green lacewings with network-patterned wings. Observe around aphid-infested plants."
+    },
+    "zh": {
+      "summary": "网翅草蛉（松村草蛉）。中型草蛉，翅具独特网纹（『网目』），体绿色。捕食性益虫，捕食蚜虫等害虫。",
+      "habitat_hint": "杂木林、林缘、农田、公园、河滩、住宅区庭院。",
+      "finding_tips": "五至十月在杂木林叶上与夜间灯下寻找翅具网纹的绿色中型草蛉。蚜虫植物周边可观察。"
+    }
+  },
+  "Theretra nessus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キイロスズメ。大型のスズメガで、淡黄色〜橙黄色の翅に独特の斜め縞模様。樹幹や葉裏で休み、夜間に活動。幼虫はサトイモ科やヤマノイモ科植物を食害します。",
+      "habitat_hint": "雑木林、林縁、農地、住宅地の庭、河畔林。",
+      "finding_tips": "5〜10月、夜間に外灯に飛来する淡黄〜橙黄色の翅に斜め縞模様を持つ大型スズメガを探します。"
+    },
+    "en": {
+      "summary": "Yellow Hawkmoth. A large hawkmoth with pale-yellow to orange-yellow wings bearing distinctive oblique stripes. Rests on tree trunks and leaf undersides; nocturnal. Caterpillars feed on Araceae and Dioscoreaceae.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, residential gardens, and riparian woods.",
+      "finding_tips": "From May to October look at night lights for large hawkmoths with pale-yellow to orange-yellow wings bearing oblique stripes."
+    },
+    "zh": {
+      "summary": "黄翅天蛾。大型天蛾，翅淡黄至橙黄色具独特斜条纹。停于树干与叶背，夜间活动。幼虫为害天南星科与薯蓣科。",
+      "habitat_hint": "杂木林、林缘、农田、住宅区庭院、河岸林。",
+      "finding_tips": "五至十月夜间在路灯下寻找具淡黄至橙黄色翅、斜条纹的大型天蛾。"
+    }
+  },
+  "Halictus aerarius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカガネコハナバチ。小型のコハナバチで、銅色の金属光沢を持つ美しい体色。花を訪れて吸蜜・送粉する重要な花粉媒介者。地中に巣を作ります。",
+      "habitat_hint": "花のある草地、農地、林縁、公園の花壇、河川敷。",
+      "finding_tips": "4〜10月、花の周りで銅色の金属光沢を持つ小型のハナバチを探します。重要な花粉媒介者として観察できます。"
+    },
+    "zh": {
+      "summary": "铜色蜜蜂。小型蜜蜂科，具铜色金属光泽美丽。访花吸蜜送粉，是重要的传粉者。在地下筑巢。",
+      "habitat_hint": "开花草地、农田、林缘、公园花坛、河滩。",
+      "finding_tips": "四至十月在花朵周边寻找具铜色金属光泽的小型蜜蜂。是重要传粉者。"
+    },
+    "en": {
+      "summary": "Coppery Sweat Bee. A small Halictidae bee with beautiful coppery metallic sheen. Visits flowers for nectar; an important pollinator. Nests in the ground.",
+      "habitat_hint": "Flowering grasslands, farmland, forest edges, park flower beds, and riverbanks.",
+      "finding_tips": "From April to October look around flowers for small bees with coppery metallic sheen. An important pollinator to observe."
+    }
+  },
+  "Plecoglossus altivelis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アユ。日本を代表する清流に住む小型〜中型の淡水魚で、藻類を食べるため独特の香りがあります。「鮎」として食用に重要で、夏の川魚として親しまれます。両側回遊性（海と川を行き来）。",
+      "habitat_hint": "河川の中流〜上流（清流）、湖沼。",
+      "finding_tips": "通年（成魚は6〜10月）、清流の中流域で群れで泳ぐ細長い銀白色の魚を探します。「友釣り」が独特の漁法。"
+    },
+    "en": {
+      "summary": "Ayu (Sweetfish). A small to medium freshwater fish representative of Japan's clear streams, with a distinctive aroma from algae feeding. An important food fish, popular as a summer river fish. Amphidromous (migrates between sea and river).",
+      "habitat_hint": "Mid- to upper-reach rivers (clear streams) and lakes.",
+      "finding_tips": "Year-round (adults June-October), look in mid-reach clear streams for slim silvery fish in schools. 'Tomotsuri' (decoy fishing) is a distinctive fishing method."
+    },
+    "zh": {
+      "summary": "香鱼（鲇鱼）。代表日本清流的中小型淡水鱼，食藻类，具独特香气。是夏季河鱼的重要食用鱼。两侧洄游（海与河往返）。",
+      "habitat_hint": "河流中至上游（清流）、湖沼。",
+      "finding_tips": "全年（成鱼六至十月）在清流中游寻找成群游动的细长银白色鱼。『友钓』是独特渔法。"
+    }
+  },
+  "Ficedula parva": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニシオジロビタキ。小型のヒタキで、雄は喉と胸が橙色になる独特の婚姻色。日本では稀少な渡り鳥として林床や林縁で観察されます。",
+      "habitat_hint": "雑木林の林床、林縁、河畔林、神社林。",
+      "finding_tips": "10〜4月、雑木林の林床や林縁で小型のヒタキを探します。雄の喉〜胸の橙色が決め手。日本では珍しい鳥なので確実な同定が必要。"
+    },
+    "en": {
+      "summary": "Red-breasted Flycatcher. A small flycatcher; males have an orange throat and breast in breeding plumage. A rare migrant in Japan, observed on woodland floors and edges.",
+      "habitat_hint": "Secondary woodland floors, forest edges, riparian woods, and shrine groves.",
+      "finding_tips": "From October to April look on woodland floors and edges for small flycatchers. Males' orange throat and breast in breeding plumage are diagnostic. Rare in Japan — confirm identification carefully."
+    },
+    "zh": {
+      "summary": "红胸姬鹟（北红胸姬鹟）。小型鹟，雄性繁殖羽喉与胸橙色独特。日本不常见的迁徙鸟，可在林床与林缘观察。",
+      "habitat_hint": "杂木林林床、林缘、河岸林、神社林。",
+      "finding_tips": "十至四月在杂木林林床与林缘寻找小型鹟。雄性繁殖羽喉与胸橙色是关键识别。日本不常见，需仔细鉴定。"
+    }
+  },
+  "Mavropanorpa japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマトシリアゲ。日本固有のシリアゲムシで、長い口吻を持ち、雄の腹部の先端が「サソリの尾」のように曲がるのが独特。林床や林縁で他の昆虫や植物を食べます。",
+      "habitat_hint": "雑木林の林床、林縁、神社林、河畔林、住宅地の庭。",
+      "finding_tips": "5〜9月、雑木林の林床や林縁で長い口吻と独特の体型を持つシリアゲムシを探します。雄の腹部先端のサソリ尾状の構造が決め手。"
+    },
+    "en": {
+      "summary": "Japanese Scorpionfly. A Japan-endemic scorpionfly with a long proboscis and a distinctive 'scorpion-tail'-like upturned abdomen tip in males. Feeds on other insects and plants on woodland floors and edges.",
+      "habitat_hint": "Secondary woodland floors, forest edges, shrine groves, riparian woods, and residential gardens.",
+      "finding_tips": "From May to September look on woodland floors and edges for scorpionflies with long proboscis and distinctive body shape. Males' scorpion-tail-like abdomen tip is diagnostic."
+    },
+    "zh": {
+      "summary": "日本蝎蛉。日本固有的蝎蛉，具长口器，雄性腹端上翘如『蝎尾』独特。在林床与林缘取食其他昆虫与植物。",
+      "habitat_hint": "杂木林林床、林缘、神社林、河岸林、住宅区庭院。",
+      "finding_tips": "五至九月在杂木林林床与林缘寻找具长口器与独特体形的蝎蛉。雄性腹端蝎尾状结构是关键识别。"
+    }
   }
 }
