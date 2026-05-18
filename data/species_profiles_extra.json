@@ -23724,5 +23724,185 @@
       "habitat_hint": "杂木林、林缘、神社林、河岸林、住宅区庭树。",
       "finding_tips": "全年在杂木林寻找叶似榧树的常绿针叶树。叶柔软不刺即本种，叶硬刺手为榧树。"
     }
+  },
+  "Lobelia chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミゾカクシ。湿地や水田畦、河川敷の湿地に這うように広がる小型多年草のキキョウ科。淡桃色〜白の独特な「半弁」状の小花（5裂のうち4枚が片側に集まる）を咲かせます。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、用水路、湿った草地。",
+      "finding_tips": "6〜10月、湿地や水田畦で淡桃色〜白の独特な「半弁」状の小花を持つ匍匐性小型多年草を探します。花の形（5裂のうち4枚が片側）が識別の決め手。"
+    },
+    "en": {
+      "summary": "Chinese Lobelia. A small creeping perennial Campanulaceae of wetlands, paddy bunds, and wet riverbanks. Distinctive 'half-petal' small flowers (4 of 5 lobes clustered on one side), pale-pink to white.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, irrigation channels, and damp grasslands.",
+      "finding_tips": "From June to October look in wetlands and paddy bunds for creeping small perennials with distinctive 'half-petal' small flowers in pale-pink to white. The flower shape (4 of 5 lobes on one side) is diagnostic."
+    },
+    "zh": {
+      "summary": "半边莲。湿地、水田田埂与河滩湿地匍匐生长的小型桔梗科多年草。开淡粉至白色独特『半边花』（5 裂中 4 瓣集于一侧）。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、灌溉沟、潮湿草地。",
+      "finding_tips": "六至十月在湿地与水田田埂寻找具淡粉至白色独特『半边花』的匍匐小型多年草。花形（5 裂中 4 瓣偏一侧）是关键识别。"
+    }
+  },
+  "Lespedeza thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミヤギノハギ。日本固有の落葉低木のマメ科で、宮城県の県花。明るい林縁や草地に生え、秋に紅紫色の蝶形花が長く垂れ下がる枝先に多数並びます。庭園や公園にも植栽。",
+      "habitat_hint": "明るい雑木林の林縁、草地、庭園、公園植栽、河川敷。",
+      "finding_tips": "8〜10月、明るい林縁や庭園で紅紫色の蝶形花が垂れ下がる枝先に多数並ぶ落葉低木を探します。枝の弓状の優雅な形が美しい。"
+    },
+    "en": {
+      "summary": "Thunberg's Bushclover (Miyagino Hagi). A Japan-endemic deciduous Fabaceae shrub; the prefectural flower of Miyagi. Grows in bright forest edges and grasslands; many rose-purple pea-flowers along arching pendulous branch tips in autumn. Planted in gardens.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, gardens, park plantings, and riverbanks.",
+      "finding_tips": "From August to October look at bright forest edges and gardens for deciduous shrubs with rose-purple pea-flowers along arching pendulous branch tips. Elegant arching branch form."
+    },
+    "zh": {
+      "summary": "胡枝子（宫城野荻）。日本固有的豆科落叶灌木，是宫城县县花。生于明亮林缘与草地，秋季弓状下垂枝端密生紫红色蝶形花。也作庭园栽植。",
+      "habitat_hint": "明亮杂木林林缘、草地、庭园、公园栽植、河滩。",
+      "finding_tips": "八至十月在明亮林缘与庭园寻找弓状下垂枝端密生紫红色蝶形花的落叶灌木。弓形枝姿优雅。"
+    }
+  },
+  "Zanthoxylum schinifolium": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌザンショウ。落葉低木のミカン科で、サンショウに似ますが葉や果実に独特の苦味があり、サンショウのような薬味としては使われません。葉は羽状複葉で、枝に対生の棘があります。",
+      "habitat_hint": "雑木林、林縁、神社林、二次林、河畔林、住宅地の野生化。",
+      "finding_tips": "通年（果実は秋）、雑木林でサンショウに似た羽状複葉と枝の対生の棘を持つ落葉低木を探します。葉を揉むとサンショウより弱い香りで識別。"
+    },
+    "en": {
+      "summary": "False Sansho. A deciduous Rutaceae shrub similar to Sansho but with leaves and fruits having a distinctive bitterness — not used as a condiment like Sansho. Pinnate leaves; paired thorns on the twigs.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, secondary woods, riparian woods, and residential naturalised areas.",
+      "finding_tips": "Year-round (fruits in autumn), look in secondary woodlands for deciduous shrubs with Sansho-like pinnate leaves and paired twig thorns. A weaker aroma than Sansho when crushed identifies."
+    },
+    "zh": {
+      "summary": "青花椒（犬山椒）。芸香科落叶灌木，似花椒但叶与果具独特苦味，不作香辛料。羽状复叶，枝具对生刺。",
+      "habitat_hint": "杂木林、林缘、神社林、次生林、河岸林、住宅区野化。",
+      "finding_tips": "全年（果期秋季）在杂木林寻找具似花椒羽状复叶、枝对生刺的落叶灌木。揉碎叶香味比花椒弱可识别。"
+    }
+  },
+  "Chenopodium ficifolium": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コアカザ。中型一年草のヒユ科で、河川敷や畑、空き地に普通。葉が「いちじく」（フィカス）に似た形であることが学名「ficifolium」の由来。葉裏には粉状の白い物質があります。",
+      "habitat_hint": "河川敷、畑、空き地、農地の縁、道端。",
+      "finding_tips": "5〜10月、河川敷や畑でいちじく葉に似た形の葉と葉裏の粉状物質を持つ中型一年草を探します。アカザに似ますが葉の形が独特。"
+    },
+    "en": {
+      "summary": "Fig-leaved Goosefoot. A medium annual Amaranthaceae common on riverbanks, fields, and vacant lots. Leaves shaped like fig (Ficus) leaves — the source of the species name 'ficifolium'. Whitish powdery substance on leaf undersides.",
+      "habitat_hint": "Riverbanks, fields, vacant lots, farmland margins, and roadsides.",
+      "finding_tips": "From May to October look on riverbanks and fields for medium annuals with fig-leaf-shaped leaves and powdery whitish leaf undersides. Similar to common goosefoot but with distinctive leaf shape."
+    },
+    "zh": {
+      "summary": "小藜（无花果叶藜）。中型一年生苋科，河滩、菜地与空地常见。叶形似无花果（Ficus）叶是种加词『ficifolium』由来。叶背具粉状白色物质。",
+      "habitat_hint": "河滩、菜地、空地、农田边缘、路边。",
+      "finding_tips": "五至十月在河滩与菜地寻找具无花果叶状叶、叶背粉状物质的中型一年草。比藜叶形独特。"
+    }
+  },
+  "Callicarpa mollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブムラサキ。日本固有の落葉低木のシソ科で、雑木林や林縁に生えます。葉や枝、果実に毛が多く、ムラサキシキブより毛深い。秋に紫色の小球形果実が房状に実りますが、果実は萼に半ば包まれます。",
+      "habitat_hint": "雑木林、林縁、神社林、二次林、河畔林。",
+      "finding_tips": "果期9〜11月、雑木林で葉や果実に毛の多い落葉低木で、紫色の小球形果実が萼に半ば包まれているものを探します。"
+    },
+    "en": {
+      "summary": "Soft Beautyberry. A Japan-endemic deciduous Lamiaceae shrub of secondary woodlands and forest edges. Densely hairy leaves, twigs, and fruits — more hairy than Japanese Beautyberry. Purple small globose fruits in autumn half-enclosed by the calyx.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, secondary woods, and riparian woods.",
+      "finding_tips": "Fruits September-November. Look in secondary woodlands for hairy deciduous shrubs with purple small globose fruits half-enclosed by the calyx."
+    },
+    "zh": {
+      "summary": "毛紫珠。日本固有的唇形科落叶灌木，生于杂木林与林缘。叶、枝与果实多毛，比紫珠更毛。秋季结紫色小球形果，半被萼包。",
+      "habitat_hint": "杂木林、林缘、神社林、次生林、河岸林。",
+      "finding_tips": "果期九至十一月在杂木林寻找叶与果实多毛、紫色小球形果半被萼包的落叶灌木。"
+    }
+  },
+  "Veronica cymbalaria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コゴメイヌノフグリ。欧州原産の小型一年草のオオバコ科で、近年道端や畑、空き地に急速に広がっている帰化種。白い小さな4弁花を多数咲かせ、葉は腎形〜円形で小さい。",
+      "habitat_hint": "道端、畑、空き地、舗装の隙間、農地の縁。",
+      "finding_tips": "2〜5月、道端や畑で白い小さな4弁花と腎形〜円形の小さな葉を持つ匍匐性の小型一年草を探します。近年急速に広がっています。"
+    },
+    "en": {
+      "summary": "Pale Speedwell. A European-origin small annual Plantaginaceae rapidly spreading recently on roadsides, fields, and vacant lots in Japan. Many small white 4-petalled flowers; small kidney to round leaves.",
+      "habitat_hint": "Roadsides, fields, vacant lots, pavement cracks, and farmland margins.",
+      "finding_tips": "From February to May look on roadsides and in fields for small creeping annuals with many small white 4-petalled flowers and small kidney-shaped to round leaves. Rapidly spreading recently."
+    },
+    "zh": {
+      "summary": "蔓藓婆婆纳（杯叶婆婆纳）。原产欧洲的小型一年生车前科，近年在日本路边、菜地与空地迅速扩散。密生白色四瓣小花，叶肾形至圆形小型。",
+      "habitat_hint": "路边、菜地、空地、路面缝、农田边缘。",
+      "finding_tips": "二至五月在路边与菜地寻找具白色四瓣小花、肾形至圆形小叶的匍匐小型一年草。近年急速扩散。"
+    }
+  },
+  "Hydrangea hirta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コアジサイ。日本固有の落葉低木のアジサイ科で、山地の雑木林に生えます。アジサイより小型で、装飾花がなく、淡青〜淡紫色の小花が散房状に集まる独特の花序が美しい。",
+      "habitat_hint": "山地の雑木林、林縁、谷地林、神社林、半日陰の斜面。",
+      "finding_tips": "花期6〜7月、山地の雑木林で装飾花のない淡青〜淡紫色の小花の散房花序を持つ落葉低木を探します。一般的なアジサイより小型・繊細。"
+    },
+    "en": {
+      "summary": "Small Hydrangea. A Japan-endemic deciduous Hydrangeaceae shrub of montane secondary woodlands. Smaller than common hydrangea, with no sterile flowers and beautiful flat-topped clusters of small pale-blue to pale-purple flowers.",
+      "habitat_hint": "Montane secondary woodlands, forest edges, valley woods, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers June-July. Look in montane secondary woodlands for deciduous shrubs with flat-topped clusters of small pale-blue to pale-purple flowers (no sterile flowers). Smaller and more delicate than common hydrangea."
+    },
+    "zh": {
+      "summary": "小绣球。日本固有的绣球科落叶灌木，生于山地杂木林。比绣球更小，无装饰花，开淡蓝至淡紫色小花伞房状美丽。",
+      "habitat_hint": "山地杂木林、林缘、谷地林、神社林、半阴斜坡。",
+      "finding_tips": "花期六至七月在山地杂木林寻找具淡蓝至淡紫色小花伞房状（无装饰花）的落叶灌木。比绣球更小更纤细。"
+    }
+  },
+  "Amana edulis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アマナ。明るい雑木林の林床や草地に生える多年草のユリ科で、早春に淡桃色を帯びた白い6弁花を咲かせます。地下の鱗茎は古来から食用にされ、和名「甘菜」の由来。",
+      "habitat_hint": "明るい雑木林の林床、林縁、草地、土手、半日陰の斜面。",
+      "finding_tips": "3〜4月、明るい林床や草地で淡桃色を帯びた白い6弁花を持つ多年草を探します。葉は2枚の線形で、花茎の根元から出ます。"
+    },
+    "en": {
+      "summary": "Edible Amana. A perennial Liliaceae of bright secondary woodland floors and grasslands. Pale-pink-tinged white 6-petalled flowers in early spring. Underground bulbs have been eaten since antiquity — the source of the Japanese name 'sweet vegetable'.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, grasslands, banks, and partly shaded slopes.",
+      "finding_tips": "From March to April look on bright forest floors and grasslands for perennials with pale-pink-tinged white 6-petalled flowers. Two linear leaves emerge at the base of the flower stem."
+    },
+    "zh": {
+      "summary": "老鸦瓣。明亮杂木林林床与草地的百合科多年草，早春开带淡粉的白色六瓣花。地下鳞茎自古食用，是日文俗名『甘菜』由来。",
+      "habitat_hint": "明亮杂木林林床、林缘、草地、堤岸、半阴斜坡。",
+      "finding_tips": "三至四月在明亮林床与草地寻找具带淡粉白色六瓣花的多年草。线形 2 叶从花茎基部出。"
+    }
+  },
+  "Leucojum aestivum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スノーフレーク（オオマツユキソウ）。欧州原産の中型多年草のヒガンバナ科で、観賞用に広く植栽。春に純白の鐘形花を下向きに咲かせ、各花弁の先に緑色の斑点があるのが特徴。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、住宅地の庭、植物園。",
+      "finding_tips": "4〜5月、庭園や公園で純白の鐘形花を下向きに咲かせる中型多年草を探します。花弁の先端の緑色の斑点も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Summer Snowflake. A European-origin medium perennial Amaryllidaceae widely planted as an ornamental. Pure-white bell-shaped flowers nodding downward in spring; distinctive green spot at the tip of each petal.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, residential gardens, and botanical gardens.",
+      "finding_tips": "From April to May look in gardens and parks for medium perennials with pure-white bell-shaped flowers nodding downward. Green spots at petal tips help identify."
+    },
+    "zh": {
+      "summary": "夏雪片莲。原产欧洲的中型石蒜科多年草，广作观赏栽植。春季下垂开纯白色钟形花，每瓣尖端具绿色斑点为特征。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、住宅区庭院、植物园。",
+      "finding_tips": "四至五月在庭园与公园寻找下垂开纯白色钟形花的中型多年草。花瓣尖端绿色斑点可助识别。"
+    }
+  },
+  "Lesticus magnus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオゴミムシ。大型のゴミムシで、黒色の光沢のある体。雑木林の林床や石下に住み、他の昆虫や落ち葉を食べます。捕食性で、害虫の幼虫も食べる益虫。",
+      "habitat_hint": "雑木林の林床、湿った石下、神社林、河畔林、住宅地の庭の石下。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の林床や石下で黒い光沢のある大型ゴミムシを探します。捕食性で益虫。"
+    },
+    "en": {
+      "summary": "Large Ground Beetle. A large ground beetle with glossy black body. Lives on secondary woodland floors and under stones; feeds on other insects and leaf litter. A predatory beneficial insect that eats pest larvae.",
+      "habitat_hint": "Secondary woodland floors, under damp stones, shrine groves, riparian woods, and under stones in residential gardens.",
+      "finding_tips": "Year-round (most active in warm seasons), look on woodland floors and under stones for large glossy black ground beetles. A predatory beneficial insect."
+    },
+    "zh": {
+      "summary": "大步甲。大型步甲，黑色具光泽。栖于杂木林林床与石下，取食其他昆虫与枯叶。捕食性益虫，捕食害虫幼虫。",
+      "habitat_hint": "杂木林林床、潮湿石下、神社林、河岸林、住宅区庭院石下。",
+      "finding_tips": "全年（暖季活跃）在林床与石下寻找黑色具光泽的大型步甲。是捕食性益虫。"
+    }
   }
 }
