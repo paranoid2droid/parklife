@@ -25164,5 +25164,185 @@
       "habitat_hint": "水田田埂、湿地、河滩、农田边缘、灌溉沟边。",
       "finding_tips": "五至十月在湿地与水田田埂寻找具黄色四瓣小花、叶深裂的一至二年草。"
     }
+  },
+  "Verbena brasiliensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アレチハナガサ。南米原産の多年草のクマツヅラ科で、河川敷や空き地、農地に帰化。背が高く（〜1.5m）、紫色の小花が穂状に集まる花序を持ちます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、造成地。",
+      "finding_tips": "6〜10月、河川敷や空き地で背が高く、紫色の小花の穂状花序を持つ多年草を探します。葉は対生の細長い披針形。"
+    },
+    "en": {
+      "summary": "Brazilian Verbena. A South American perennial Verbenaceae naturalised on riverbanks, vacant lots, and farmland. Tall (up to 1.5 m); spikes of small purple flowers. Opposite narrow lanceolate leaves.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and construction sites.",
+      "finding_tips": "From June to October look on riverbanks and vacant lots for tall perennials with spikes of small purple flowers. Opposite narrow lanceolate leaves."
+    },
+    "zh": {
+      "summary": "巴西马鞭草。原产南美的马鞭草科多年草，归化于河滩、空地与农田。高约 1.5 米，紫色小花穗状。叶对生细长披针形。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、工地。",
+      "finding_tips": "六至十月在河滩与空地寻找具紫色小花穗状花序的高大多年草。叶对生细长披针形。"
+    }
+  },
+  "Sedum sarmentosum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツルマンネングサ。中国原産の多肉質の多年草のベンケイソウ科で、石垣や舗装の隙間、屋上に帰化。線形の小さな多肉質の葉が3枚輪生し、初夏に黄色い星形の小花を散形に咲かせます。",
+      "habitat_hint": "石垣、舗装の隙間、屋上、駐車場、住宅地の庭、河川敷。",
+      "finding_tips": "5〜6月、石垣や舗装の隙間で3枚輪生する線形多肉質の葉と黄色い星形小花を持つ匍匐性多年草を探します。"
+    },
+    "en": {
+      "summary": "Stringy Stonecrop. A Chinese-origin succulent perennial Crassulaceae naturalised on stone walls, pavement cracks, and rooftops. Linear small succulent leaves in whorls of 3; yellow star-shaped flowers in umbels in early summer.",
+      "habitat_hint": "Stone walls, pavement cracks, rooftops, parking lots, residential gardens, and riverbanks.",
+      "finding_tips": "From May to June look on stone walls and pavement cracks for creeping perennials with linear succulent leaves in whorls of 3 and yellow star-shaped flowers."
+    },
+    "zh": {
+      "summary": "垂盆草。原产中国的肉质多年生景天科，归化于石墙、路面缝与屋顶。线形肉质小叶 3 枚轮生，初夏伞形开黄色星形小花。",
+      "habitat_hint": "石墙、路面缝、屋顶、停车场、住宅区庭院、河滩。",
+      "finding_tips": "五至六月在石墙与路面缝寻找具 3 枚轮生线形肉质叶、黄色星形小花的匍匐多年草。"
+    }
+  },
+  "Sacciolepis indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハイヌメリ。湿地や水田、河川敷の湿地に生える一年生イネ科で、繊細な円柱形の穂を立てます。葉は線形で柔らかく、湿った場所を好みます。",
+      "habitat_hint": "水田、湿地、河川敷の湿地、休耕田、用水路の縁。",
+      "finding_tips": "8〜10月、水田や湿地で繊細な円柱形の穂を持つ一年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Glenwood Grass (Indian Cupscale). An annual grass of wetlands, rice paddies, and wet riverbanks with delicate cylindrical spike-like inflorescences. Soft linear leaves; prefers damp sites.",
+      "habitat_hint": "Rice paddies, wetlands, wet riverbanks, fallow paddies, and irrigation channel edges.",
+      "finding_tips": "From August to October look in paddies and wetlands for annual grasses with delicate cylindrical spike-like inflorescences."
+    },
+    "zh": {
+      "summary": "囊颖草。湿地、水田与河滩湿地的一年生禾本科，具纤细圆柱形穗状花序。叶线形柔软，喜湿生境。",
+      "habitat_hint": "水田、湿地、河滩湿地、休耕田、灌溉沟边。",
+      "finding_tips": "八至十月在水田与湿地寻找具纤细圆柱形穗状花序的一年生禾本科。"
+    }
+  },
+  "Rosa onoei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤブイバラ近縁の野生バラで、雑木林の林縁や藪に絡みつきます。蔓性で、茎に下向きの棘があり、初夏に淡紅色〜白の5弁花を咲かせます。秋に赤い偽果が実ります。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、半日陰の斜面。",
+      "finding_tips": "花期5〜6月、果期9〜11月。林縁や藪で蔓性の野生バラを探します。淡紅色〜白の5弁花と秋の赤い偽果が美しい。"
+    },
+    "en": {
+      "summary": "Ono's Rose. A wild rose related to thicket roses, climbing in secondary woodland edges and thickets. Vining; downward-pointing thorns on stems; pale-pink to white 5-petalled flowers in early summer; red hips in autumn.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers May-June; fruits September-November. Look at forest edges and in thickets for vining wild roses. Pale-pink to white 5-petalled flowers and red autumn hips are beautiful."
+    },
+    "zh": {
+      "summary": "小野氏蔷薇。攀附杂木林林缘与灌丛的野蔷薇近亲。蔓生，茎具下向刺。初夏开淡红至白色五瓣花，秋季结红色假果。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
+      "finding_tips": "花期五至六月，果期九至十一月。在林缘与灌丛寻找蔓生野蔷薇。淡红至白色五瓣花与秋季红色假果美丽。"
+    }
+  },
+  "Cremastra appendiculata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サイハイラン。日本固有の地生ランで、明るい雑木林の林床に生えます。秋に淡褐色〜紫褐色の花が「采配」（武将の指揮道具）のように下垂して並ぶのが和名の由来。希少種。",
+      "habitat_hint": "明るい雑木林の林床、コナラ・クヌギ林、神社林、半日陰の斜面。",
+      "finding_tips": "5〜6月、明るい雑木林の林床で淡褐色〜紫褐色の花が「采配」のように下垂する地生ランを探します。希少種なので採取せず観察のみで。"
+    },
+    "en": {
+      "summary": "Saihai Orchid. A Japan-endemic terrestrial orchid of bright secondary woodland floors. Pale-brown to purple-brown flowers nodding downward like a 'saihai' (samurai commander's baton) — the source of the Japanese name. A rare species.",
+      "habitat_hint": "Bright secondary woodland floors, oak woods, shrine groves, and partly shaded slopes.",
+      "finding_tips": "From May to June look on bright secondary woodland floors for terrestrial orchids with pale-brown to purple-brown nodding flowers. Rare — observe only, never collect."
+    },
+    "zh": {
+      "summary": "毛唇杜鹃兰。日本固有的地生兰，生于明亮杂木林林床。秋季淡褐至紫褐色花下垂如『采配』（武将指挥棒）是日文俗名由来。稀有种。",
+      "habitat_hint": "明亮杂木林林床、栎类林、神社林、半阴斜坡。",
+      "finding_tips": "五至六月在明亮杂木林林床寻找下垂如『采配』的淡褐至紫褐色花地生兰。稀有种，请仅观察勿采摘。"
+    }
+  },
+  "Orixa japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コクサギ。日本固有の落葉低木のミカン科で、雑木林の林縁や林床に生えます。葉に独特の臭気があり、葉が「2枚互生→2枚互生」の独特の付き方（コクサギ型葉序）をするのが名前の由来。",
+      "habitat_hint": "雑木林の林縁、林床、神社林、二次林、河畔林。",
+      "finding_tips": "通年、雑木林で葉が「2枚互生→2枚互生」の独特の付き方をする落葉低木を探します。葉を揉むと独特の臭気があります。"
+    },
+    "en": {
+      "summary": "Japanese Orixa. A Japan-endemic deciduous Rutaceae shrub of secondary woodland edges and floors. Leaves have a distinctive odour and are arranged in a unique '2 alternate → 2 alternate' pattern (the 'Orixa-type' phyllotaxy).",
+      "habitat_hint": "Secondary woodland edges, forest floors, shrine groves, secondary woods, and riparian woods.",
+      "finding_tips": "Year-round, look in secondary woodlands for deciduous shrubs with the distinctive '2 alternate → 2 alternate' leaf arrangement. Crushed leaves give a distinctive odour."
+    },
+    "zh": {
+      "summary": "臭山羊。日本固有的芸香科落叶灌木，生于杂木林林缘与林床。叶具独特异味，叶序为独特『2 互生→2 互生』（『Orixa 型叶序』）是名字由来。",
+      "habitat_hint": "杂木林林缘、林床、神社林、次生林、河岸林。",
+      "finding_tips": "全年在杂木林寻找具独特『2 互生→2 互生』叶序的落叶灌木。揉碎叶有独特异味。"
+    }
+  },
+  "Phyllanthus ussuriensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメミカンソウ。小型一年草のコミカンソウ科で、畑や舗装の隙間、空き地に普通。コミカンソウに似ますがより小型で、葉腋に小さなミカン状の果実をつけます。",
+      "habitat_hint": "畑、舗装の隙間、空き地、農地の縁、住宅地の庭、河川敷。",
+      "finding_tips": "7〜10月、畑や舗装の隙間で小さな葉が規則正しく羽状に並び、葉腋にミカン状の小果実をつける小型一年草を探します。コミカンソウより小型。"
+    },
+    "en": {
+      "summary": "Ussuri Leaf-flower. A small annual Phyllanthaceae common in fields, pavement cracks, and vacant lots. Similar to Chamber Bitter but smaller; small mandarin-shaped fruits in leaf axils.",
+      "habitat_hint": "Fields, pavement cracks, vacant lots, farmland margins, residential gardens, and riverbanks.",
+      "finding_tips": "From July to October look in fields and pavement cracks for small annuals with neatly pinnate small leaves and small mandarin-shaped axillary fruits. Smaller than Chamber Bitter."
+    },
+    "zh": {
+      "summary": "蜜柑草（乌苏里叶下珠）。小型一年生叶下珠科，菜地、路面缝与空地常见。似叶下珠但更小，叶腋具柑橘状小果。",
+      "habitat_hint": "菜地、路面缝、空地、农田边缘、住宅区庭院、河滩。",
+      "finding_tips": "七至十月在菜地与路面缝寻找小叶羽状整齐排列、叶腋具柑橘状小果的小型一年草。比叶下珠小。"
+    }
+  },
+  "Epilobium pyrricholophum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカバナ。湿地や河川敷の湿地、湿った草地に生える多年草のアカバナ科。秋に紅紫色の小さな4弁花を咲かせ、和名「赤花」の由来。果実は細長く、種子に綿毛が付いて風で散布されます。",
+      "habitat_hint": "湿地、河川敷の湿地、湿った草地、水田畦、ため池の縁。",
+      "finding_tips": "8〜10月、湿地や河川敷で紅紫色の小さな4弁花を持つ多年草を探します。秋に紅葉する葉も「赤花」の名の由来。"
+    },
+    "en": {
+      "summary": "Red Willowherb. A perennial Onagraceae of wetlands, wet riverbanks, and damp grasslands. Small rose-purple 4-petalled flowers in autumn — the source of the Japanese name 'red flower'. Elongated fruits release wind-dispersed seeds with cottony tufts.",
+      "habitat_hint": "Wetlands, wet riverbanks, damp grasslands, paddy bunds, and pond edges.",
+      "finding_tips": "From August to October look in wetlands and on riverbanks for perennials with small rose-purple 4-petalled flowers. Reddish autumn foliage also contributes to the 'red flower' name."
+    },
+    "zh": {
+      "summary": "赤花柳叶菜。湿地、河滩湿地与潮湿草地的柳叶菜科多年草。秋季开紫红色四瓣小花，是日文俗名『赤花』由来。果实细长，种子具棉毛风传。",
+      "habitat_hint": "湿地、河滩湿地、潮湿草地、水田田埂、池塘边。",
+      "finding_tips": "八至十月在湿地与河滩寻找具紫红色四瓣小花的多年草。秋季红叶也是『赤花』名由来。"
+    }
+  },
+  "Sophora flavescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クララ。明るい草地や河川敷、林縁に生える多年草〜半低木のマメ科。葉は奇数羽状複葉で、夏に淡黄色の蝶形花が長い穂状に並びます。根は薬用（苦参：くじん）。",
+      "habitat_hint": "明るい草地、河川敷、林縁、土手、農地の縁。",
+      "finding_tips": "6〜7月、明るい草地や河川敷で奇数羽状複葉と淡黄色の蝶形花の長い穂を持つ多年草を探します。背丈は1m前後。"
+    },
+    "en": {
+      "summary": "Light-Yellow Sophora. A perennial to subshrub Fabaceae of bright grasslands, riverbanks, and forest edges. Odd-pinnate compound leaves; long spikes of pale-yellow pea-flowers in summer. The roots ('kujin') are medicinal.",
+      "habitat_hint": "Bright grasslands, riverbanks, forest edges, banks, and farmland margins.",
+      "finding_tips": "From June to July look in bright grasslands and riverbanks for perennials with odd-pinnate leaves and long spikes of pale-yellow pea-flowers. Plants ~1 m tall."
+    },
+    "zh": {
+      "summary": "苦参。明亮草地、河滩与林缘的豆科多年至半灌木。叶奇数羽状复叶，夏季淡黄色蝶形花长穗状。根作中药『苦参』。",
+      "habitat_hint": "明亮草地、河滩、林缘、堤岸、农田边缘。",
+      "finding_tips": "六至七月在明亮草地与河滩寻找具奇数羽状复叶、淡黄色蝶形花长穗的多年草。高约 1 米。"
+    }
+  },
+  "Irpex consors": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハチノスタケ近縁の硬質サルノコシカケ型キノコで、広葉樹の倒木や朽木に発生します。傘の裏面に「歯」のような細長い突起が密生するのが「ハチノス（蜂の巣）」の名の由来。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "通年、広葉樹の倒木や朽木で傘の裏面に歯状の突起が密生する硬質キノコを探します。"
+    },
+    "en": {
+      "summary": "Toothed Crust Fungus. A hard bracket fungus related to Irpex on dead broadleaf logs and rotting wood. Dense tooth-like elongated projections on the cap underside — the source of the Japanese name 'honeycomb'.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, and riparian forests.",
+      "finding_tips": "Year-round, look on broadleaf fallen logs and rotting wood for hard fungi with dense tooth-like projections on the cap underside."
+    },
+    "zh": {
+      "summary": "齿耳菌。生于阔叶倒木与朽木上的硬质多孔菌。菌盖背面密生齿状细长突起是日文俗名『蜂窝』由来。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
+      "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖背面密生齿状突起的硬质真菌。"
+    }
   }
 }
