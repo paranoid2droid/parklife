@@ -24084,5 +24084,185 @@
       "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
       "finding_tips": "三至五月在杂木林树液与早春花上寻找淡褐至灰褐色的中型蛾。早春活跃属稀有。"
     }
+  },
+  "Arna pseudoconspersa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャドクガ。チャノキやサザンカなどツバキ科植物の葉を食害する小型のドクガ。幼虫の毒針毛は皮膚に刺さると激しいかゆみと発疹を引き起こします。触らないこと。",
+      "habitat_hint": "チャノキ・サザンカ・ツバキのある庭園、生垣、公園植栽、住宅地の庭木。",
+      "finding_tips": "幼虫期4〜6月、9〜10月、ツバキ科植物の葉裏に群生する黄色〜橙色の毛深い幼虫を探します。絶対に触らないこと。成虫は淡黄色の中型ガ。"
+    },
+    "en": {
+      "summary": "Tea Tussock Moth. A small tussock moth defoliating tea, sasanqua, and other Theaceae plants. The caterpillars' venomous urticating hairs cause severe itching and rash on contact — do not touch.",
+      "habitat_hint": "Gardens, hedges, park plantings, and residential trees with tea, sasanqua, or camellia.",
+      "finding_tips": "Caterpillars April-June and September-October. Look on the underside of Theaceae leaves for groups of yellow-orange hairy caterpillars. Never touch. Adults are pale-yellow medium moths."
+    },
+    "zh": {
+      "summary": "茶毒蛾。为害茶树、茶梅与山茶等山茶科植物叶片的小型毒蛾。幼虫的毒毛接触皮肤引起剧痒与皮疹，切勿触摸。",
+      "habitat_hint": "种茶树、茶梅、山茶的庭园、绿篱、公园栽植、住宅区庭树。",
+      "finding_tips": "幼虫期四至六月与九至十月在山茶科叶背寻找成群黄至橙色多毛幼虫。切勿触摸。成虫为淡黄色中型蛾。"
+    }
+  },
+  "Crematogaster osakensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キイロシリアゲアリ。中型のシリアゲアリ属のアリで、黄褐色の体色。刺激を受けると腹部を上向きに反らせる独特の防御姿勢を取ります。樹幹や枝に営巣することが多い。",
+      "habitat_hint": "雑木林、樹幹、枝の隙間、神社林、河畔林、住宅地の庭木。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の樹幹で腹部を上向きに反らせる独特の姿勢を取る黄褐色の中型アリを探します。"
+    },
+    "en": {
+      "summary": "Osaka Acrobat Ant. A medium Crematogaster ant with yellowish-brown body that distinctively raises its abdomen upward when disturbed. Often nests on tree trunks and in branch crevices.",
+      "habitat_hint": "Secondary woodlands, tree trunks, branch crevices, shrine groves, riparian woods, and residential trees.",
+      "finding_tips": "Year-round (most active in warm seasons), look on tree trunks in secondary woodlands for yellowish-brown medium ants that raise their abdomen when disturbed."
+    },
+    "zh": {
+      "summary": "大阪举腹蚁。中型举腹蚁属，黄褐色体色，受刺激时独特地向上举腹。常在树干与枝缝筑巢。",
+      "habitat_hint": "杂木林、树干、枝缝、神社林、河岸林、住宅区庭树。",
+      "finding_tips": "全年（暖季活跃）在杂木林树干寻找受扰时向上举腹的黄褐色中型蚂蚁。"
+    }
+  },
+  "Pheidole nodus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオズアリ。中型のフタフシアリ属で、働きアリに「大型」（兵蟻、頭が大きい）と「小型」の二型があるのが和名「大頭蟻」の由来。雑木林や住宅地に住みます。",
+      "habitat_hint": "雑木林、住宅地、公園、農地、神社林、河畔林。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林や住宅地で頭の大きな兵蟻と小型の働きアリが混在する中型アリを探します。"
+    },
+    "en": {
+      "summary": "Big-headed Ant. A medium Pheidole ant with two worker castes — large (soldier, big-headed) and small — the source of the Japanese name 'big-head ant'. Lives in secondary woodlands and residential areas.",
+      "habitat_hint": "Secondary woodlands, residential areas, parks, farmland, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round (most active in warm seasons), look in secondary woodlands and residential areas for medium ants with mixed big-headed soldiers and smaller workers."
+    },
+    "zh": {
+      "summary": "大头蚁（结点大头蚁）。中型大头蚁属，工蚁分『大型』（兵蚁，头大）与『小型』两型是日文俗名『大头蚁』由来。栖于杂木林与住宅区。",
+      "habitat_hint": "杂木林、住宅区、公园、农田、神社林、河岸林。",
+      "finding_tips": "全年（暖季活跃）在杂木林与住宅区寻找头大兵蚁与小型工蚁混杂的中型蚂蚁。"
+    }
+  },
+  "Tauphaedusa tau": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナミコギセル。中型の陸生巻貝のキセルガイ科で、樹幹や苔の上に住みます。殻は細長く左巻きで、表面に細かい縦縞があります。日本固有種に近い分布。",
+      "habitat_hint": "雑木林の樹幹、苔のある場所、神社林の老木、河畔林、湿った石垣。",
+      "finding_tips": "通年（梅雨〜秋に活動的）、雑木林の樹幹や苔の上で細長い左巻きの殻を持つ陸貝を探します。"
+    },
+    "en": {
+      "summary": "Common Door Snail. A medium terrestrial Clausiliidae snail living on tree trunks and moss. Shell elongated, left-coiled, with fine longitudinal stripes. Near-endemic distribution to Japan.",
+      "habitat_hint": "Tree trunks in secondary woodlands, mossy places, old trees in shrine groves, riparian woods, and damp stone walls.",
+      "finding_tips": "Year-round (most active rainy season to autumn), look on tree trunks and moss for terrestrial snails with elongated left-coiled shells."
+    },
+    "zh": {
+      "summary": "煙管螺。中型陆生煙管螺科蜗牛，栖于树干与苔藓上。壳细长左旋，表面具细纵纹。近日本固有分布。",
+      "habitat_hint": "杂木林树干、有苔藓处、神社林老树、河岸林、潮湿石墙。",
+      "finding_tips": "全年（梅雨至秋活跃）在杂木林树干与苔藓上寻找具细长左旋壳的陆生螺。"
+    }
+  },
+  "Asio otus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トラフズク。中型のフクロウで、頭部に長い「耳」のような羽角（うかく）があるのが特徴。日本では冬鳥として渡来し、農地や河川敷の防風林などで日中休んでいるのを見つけられます。",
+      "habitat_hint": "農地、河川敷の防風林、神社林、雑木林、住宅地の大木。",
+      "finding_tips": "10〜4月、農地や河川敷の防風林で日中、目を閉じて休んでいる中型フクロウを探します。頭部の長い羽角が決め手。"
+    },
+    "en": {
+      "summary": "Long-eared Owl. A medium owl with long 'ear' tufts on the head — diagnostic. Winter visitor to Japan, often found roosting by day in shelterbelts on farmland and riverbanks.",
+      "habitat_hint": "Farmland, riverbank shelterbelts, shrine groves, secondary woodlands, and large residential trees.",
+      "finding_tips": "From October to April look in shelterbelts on farmland and riverbanks for medium owls roosting by day with eyes closed. Long ear tufts are diagnostic."
+    },
+    "zh": {
+      "summary": "长耳鸮。中型猫头鹰，头部具长『耳』状羽角为特征。日本为冬候鸟，常在农田与河滩防风林白天闭眼休息。",
+      "habitat_hint": "农田、河滩防风林、神社林、杂木林、住宅区大树。",
+      "finding_tips": "十至四月在农田与河滩防风林白天寻找闭眼休息的中型猫头鹰。头部长羽角是关键识别。"
+    }
+  },
+  "Asio flammeus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コミミズク。中型のフクロウで、トラフズクより羽角が短く目立たない（コミミ＝小耳）。開けた草地や農地で昼間も活動することがあり、低空をふわふわと飛ぶ姿が観察できます。",
+      "habitat_hint": "開けた草地、農地、河川敷の草地、湿地、海岸近くの草地。",
+      "finding_tips": "10〜3月、開けた草地や河川敷で昼間に低空をふわふわと飛ぶ中型フクロウを探します。羽角が短く目立たないのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Short-eared Owl. A medium owl with shorter and less conspicuous ear tufts than Long-eared Owl (hence 'short-ear' in the Japanese name). Active even by day in open grasslands and farmland; observed flying low with fluttering motion.",
+      "habitat_hint": "Open grasslands, farmland, riverside grasslands, wetlands, and coastal grasslands.",
+      "finding_tips": "From October to March look in open grasslands and on riverbanks for medium owls flying low with fluttering motion in daytime. Short inconspicuous ear tufts are diagnostic."
+    },
+    "zh": {
+      "summary": "短耳鸮。中型猫头鹰，羽角比长耳鸮短而不显眼（『小耳』）。在开阔草地与农田白天也活动，可见低空翩翩飞行。",
+      "habitat_hint": "开阔草地、农田、河滩草地、湿地、海岸草地。",
+      "finding_tips": "十至三月在开阔草地与河滩白天寻找低空翩翩飞行的中型猫头鹰。羽角短不显眼是关键识别。"
+    }
+  },
+  "Pylargosceles steganioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フタナミトビヒメシャク。小型のシャクガで、淡褐色の翅に2本の波状の縞模様（フタナミ＝二波）があります。樹幹や葉裏で休み、夜間に活動。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で淡褐色の翅に2本の波状縞模様を持つ小型ガを探します。"
+    },
+    "en": {
+      "summary": "Two-wave Geometer. A small geometrid moth with pale-brown wings bearing two wavy bands — the source of the Japanese name 'two-wave'. Rests on tree trunks and leaf undersides; nocturnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for small pale-brown moths with two wavy bands on the wings."
+    },
+    "zh": {
+      "summary": "双波尺蛾。小型尺蛾，淡褐色翅具 2 条波纹（『双波』）。停于树干与叶背，夜间活动。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找具淡褐色翅、2 条波纹的小型蛾。"
+    }
+  },
+  "Mendoza elongata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤハズハエトリ。細長い体型の中型のハエトリグモで、葉の上や草の茎で素早く跳んで虫を捕えます。雄は腹部に独特の模様があり、求愛ダンスをします。",
+      "habitat_hint": "草地、林縁、農地、公園、河川敷の草地、住宅地の庭。",
+      "finding_tips": "5〜10月、草地や葉の上で細長い体型の中型ハエトリグモを探します。雄の求愛ダンスも観察できることがあります。"
+    },
+    "en": {
+      "summary": "Elongated Jumping Spider. A medium elongated jumping spider that hunts insects on leaves and grass stems with rapid jumps. Males have distinctive abdominal markings and perform courtship dances.",
+      "habitat_hint": "Grasslands, forest edges, farmland, parks, riverside grasslands, and residential gardens.",
+      "finding_tips": "From May to October look in grasslands and on leaves for medium elongated jumping spiders. Male courtship dances may also be observed."
+    },
+    "zh": {
+      "summary": "细长跳蛛。细长体型的中型跳蛛，在叶面与草茎快速跳跃捕食昆虫。雄性腹部具独特纹路并表演求偶舞蹈。",
+      "habitat_hint": "草地、林缘、农田、公园、河滩草地、住宅区庭院。",
+      "finding_tips": "五至十月在草地与叶面寻找细长体型的中型跳蛛。可观察雄性求偶舞蹈。"
+    }
+  },
+  "Sterna hirundo": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アジサシ。中型のアジサシで、夏羽は頭頂が黒く嘴は赤い。日本では春・秋の渡り期に河口や海岸で見られます。空中で停止して水面に急降下して小魚を捕える「ダイビング」漁が特徴。",
+      "habitat_hint": "河口、海岸、干潟、内陸の湖沼、ダム湖。",
+      "finding_tips": "4〜10月、河口や海岸で頭頂が黒く嘴が赤いアジサシを探します。空中ホバリングからのダイビング漁が決め手。"
+    },
+    "en": {
+      "summary": "Common Tern. A medium tern; breeding plumage has a black crown and red bill. In Japan, seen at estuaries and coasts during spring and autumn migration. Hovers in the air then dives to catch small fish — diving feeding behaviour is diagnostic.",
+      "habitat_hint": "Estuaries, coasts, mudflats, inland lakes, and reservoirs.",
+      "finding_tips": "From April to October look at estuaries and coasts for terns with black crown and red bill. Hovering-then-diving feeding behaviour is diagnostic."
+    },
+    "zh": {
+      "summary": "普通燕鸥。中型燕鸥，繁殖羽头顶黑色喙红色。日本春秋迁徙期见于河口与海岸。空中悬停后俯冲入水捕食小鱼是关键识别。",
+      "habitat_hint": "河口、海岸、滩涂、内陆湖沼、水库。",
+      "finding_tips": "四至十月在河口与海岸寻找头顶黑、喙红色的燕鸥。悬停俯冲捕鱼行为是关键识别。"
+    }
+  },
+  "Larus fuscus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニシセグロカモメ。中型〜大型のカモメで、背中が暗灰色〜黒っぽいのが和名「西背黒鴎」の由来。日本では冬鳥として港湾や河口で見られます。セグロカモメより小型で背中の色が濃い。",
+      "habitat_hint": "港湾、河口、海岸、干潟、内陸の大きな湖。",
+      "finding_tips": "10〜4月、港湾や河口で背中が暗灰色〜黒っぽい中型〜大型のカモメを探します。セグロカモメより小型・背中が濃いのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Lesser Black-backed Gull. A medium-large gull with dark-grey to blackish back — the source of the Japanese name 'western black-back gull'. Winter visitor in Japan, seen at harbours and estuaries. Smaller and darker-backed than Vega Gull.",
+      "habitat_hint": "Harbours, estuaries, coasts, mudflats, and large inland lakes.",
+      "finding_tips": "From October to April look in harbours and estuaries for medium-large gulls with dark-grey to blackish backs. Smaller and darker-backed than Vega Gull — diagnostic."
+    },
+    "zh": {
+      "summary": "灰背鸥。中至大型鸥，背部暗灰至偏黑是日文俗名『西背黑鸥』由来。日本冬候鸟，见于港湾与河口。比织女银鸥更小、背更深可识别。",
+      "habitat_hint": "港湾、河口、海岸、滩涂、内陆大湖。",
+      "finding_tips": "十至四月在港湾与河口寻找背暗灰至偏黑的中至大型鸥。比织女银鸥更小、背更深是关键识别。"
+    }
   }
 }
