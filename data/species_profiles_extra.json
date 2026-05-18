@@ -22500,5 +22500,185 @@
       "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
       "finding_tips": "八至十月夜间在草地与河滩聆听『ji-』长而低沉响亮鸣声的大型螽斯。日本产螽斯中最大级。"
     }
+  },
+  "Agrilus imitans": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムネアカナガタマムシ。細長い体型の小型タマムシで、前胸が赤く、上翅は緑色の金属光沢があります。広葉樹の枯枝で幼虫が育ちます。",
+      "habitat_hint": "雑木林の枯枝、樹液の出る樹、林縁、神社林、河畔林。",
+      "finding_tips": "5〜8月、雑木林の枯枝や葉上で前胸赤・上翅緑の細長い金属光沢タマムシを探します。"
+    },
+    "en": {
+      "summary": "Red-thorax Slender Jewel Beetle. A small slender jewel beetle with red pronotum and green metallic elytra. Larvae develop in dead broadleaf branches.",
+      "habitat_hint": "Dead branches in secondary woodlands, sap-flowing trees, forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to August look on dead branches and foliage in secondary woodlands for slender metallic jewel beetles with red pronotum and green elytra."
+    },
+    "zh": {
+      "summary": "胸赤长吉丁。细长小型吉丁，前胸红色、鞘翅绿色金属光泽。幼虫蛀阔叶枯枝。",
+      "habitat_hint": "杂木林枯枝、出树液的树、林缘、神社林、河岸林。",
+      "finding_tips": "五至八月在杂木林枯枝与叶上寻找前胸红、鞘翅绿色金属光泽的细长吉丁。"
+    }
+  },
+  "Clanis bilineata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビイロスズメ。大型のスズメガで、淡褐色〜赤褐色の翅に独特の縞模様があります。幼虫は大型で、マメ科植物（特にダイズ、ニセアカシア）を食害します。",
+      "habitat_hint": "雑木林、林縁、農地、ニセアカシアのある場所、河畔林。",
+      "finding_tips": "5〜10月、夜間に外灯に飛来する大型のスズメガを探します。淡褐色〜赤褐色の翅と縞模様が決め手。幼虫はニセアカシアの葉でも見つかります。"
+    },
+    "en": {
+      "summary": "Tobacco Cutworm Moth. A large hawkmoth with pale-brown to reddish-brown wings bearing distinctive bands. Large caterpillars feed on Fabaceae (especially soybean and black locust).",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, black locust stands, and riparian woods.",
+      "finding_tips": "From May to October look at night lights for large hawkmoths. Pale-brown to reddish-brown banded wings are diagnostic. Caterpillars also found on black locust foliage."
+    },
+    "zh": {
+      "summary": "鸢色天蛾。大型天蛾，翅淡褐至红褐色具独特条纹。幼虫大型，取食豆科（尤大豆与刺槐）叶片。",
+      "habitat_hint": "杂木林、林缘、农田、有刺槐处、河岸林。",
+      "finding_tips": "五至十月夜间在路灯下寻找大型天蛾。淡褐至红褐色具条纹翅是关键识别。幼虫也可在刺槐叶上发现。"
+    }
+  },
+  "Messor aciculatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クロナガアリ。黒色の中型アリで、種子を巣に運んで貯蔵する独特の習性を持ちます。河川敷や草地の地中に大きな巣を作ります。",
+      "habitat_hint": "草地、河川敷、農地の縁、空き地、林縁の開けた場所。",
+      "finding_tips": "4〜10月、草地や河川敷で種子（特にイネ科の種子）を巣に運ぶ黒い中型アリを探します。種子を運ぶ姿が観察できます。"
+    },
+    "en": {
+      "summary": "Asian Harvester Ant. A black medium ant with the distinctive habit of carrying seeds to the nest for storage. Builds large underground nests in grasslands and on riverbanks.",
+      "habitat_hint": "Grasslands, riverbanks, farmland margins, vacant lots, and open areas at forest edges.",
+      "finding_tips": "From April to October look in grasslands and riverbanks for black medium ants carrying seeds (especially grass seeds) to their nests. Seed-carrying behaviour is observable."
+    },
+    "zh": {
+      "summary": "针毛收获蚁。黑色中型蚁，具搬运种子至巢中贮藏的独特习性。在草地与河滩地下筑大型巢。",
+      "habitat_hint": "草地、河滩、农田边缘、空地、林缘开阔地。",
+      "finding_tips": "四至十月在草地与河滩寻找搬运种子（尤禾本科种子）的黑色中型蚁。可观察搬种行为。"
+    }
+  },
+  "Numenius madagascariensis": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホウロクシギ。世界最大のシギで、嘴が非常に長く下に湾曲します。日本では春・秋の渡り期に干潟で見られる稀少な大型シギ。",
+      "habitat_hint": "干潟、河口、塩性湿地、海岸の砂浜、内陸の湿地。",
+      "finding_tips": "4〜5月と8〜10月、干潟や河口で世界最大級の極めて長く下湾の嘴を持つシギを探します。日本では稀少。"
+    },
+    "en": {
+      "summary": "Far Eastern Curlew. The world's largest sandpiper with an extraordinarily long down-curved bill. A rare large sandpiper seen in Japan on mudflats during spring and autumn migration.",
+      "habitat_hint": "Mudflats, estuaries, salt marshes, sandy beaches, and inland wetlands.",
+      "finding_tips": "From April-May and August-October look on mudflats and estuaries for the world's largest sandpiper with an extraordinarily long down-curved bill. Rare in Japan."
+    },
+    "zh": {
+      "summary": "大杓鹬。世界最大鹬，喙极长下弯。日本春秋迁徙期见于滩涂的稀有大型鹬。",
+      "habitat_hint": "滩涂、河口、盐沼、海岸沙滩、内陆湿地。",
+      "finding_tips": "四至五月与八至十月在滩涂与河口寻找世界最大级、喙极长下弯的鹬。日本不常见。"
+    }
+  },
+  "Hemigrapsus takanoi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タカノケフサイソガニ。河口の汽水域や干潟、海岸の石の下に住む小型のカニ。鋏脚に毛が密生することが「ケフサ（毛房）」の名の由来。日本固有種で、ケフサイソガニの近縁。",
+      "habitat_hint": "河口の汽水域、干潟、海岸の石下、塩性湿地、河川下流。",
+      "finding_tips": "通年（暖かい季節に活動的）、河口や海岸の石下で鋏脚に毛が密生する小型カニを探します。"
+    },
+    "en": {
+      "summary": "Takano's Shore Crab. A small crab living in brackish estuaries, mudflats, and under coastal stones. Dense hairs on the claws give the Japanese name 'hairy-cluster'. Japan-endemic, related to Hemigrapsus penicillatus.",
+      "habitat_hint": "Brackish estuaries, mudflats, under coastal stones, salt marshes, and lower river reaches.",
+      "finding_tips": "Year-round (most active in warm seasons), look in estuaries and under coastal stones for small crabs with hairy claws."
+    },
+    "zh": {
+      "summary": "髙野毛掌蟹。栖于河口汽水域、滩涂与海岸石下的小型蟹。钳脚密生毛是日文俗名『毛房』由来。日本固有种，与毛掌蟹近缘。",
+      "habitat_hint": "河口汽水域、滩涂、海岸石下、盐沼、河流下游。",
+      "finding_tips": "全年（暖季活跃）在河口与海岸石下寻找钳脚密生毛的小型蟹。"
+    }
+  },
+  "Scopimera globosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コメツキガニ。干潟に住む小型のカニで、砂を取り込んで有機物を漉し取って食べた後、小さな砂団子（米粒のような）を多数残すことが和名「米搗」の由来。",
+      "habitat_hint": "干潟、河口の砂泥地、海岸の砂浜（潮間帯）。",
+      "finding_tips": "通年（暖かい季節に活動的）、干潟の砂面で小さな砂団子が多数並んでいたらこのカニの「食事跡」です。潮が引いた時に巣穴の入口で観察できます。"
+    },
+    "en": {
+      "summary": "Sand Bubbler Crab. A small mudflat crab that takes in sand to filter out organic matter, leaving distinctive small sand pellets (resembling rice grains) — the source of the Japanese name 'rice-pounder'.",
+      "habitat_hint": "Mudflats, sandy-muddy estuaries, and sandy intertidal beaches.",
+      "finding_tips": "Year-round (most active in warm seasons), if you see many small sand pellets on mudflat surfaces these are this crab's feeding traces. Observable at burrow entrances at low tide."
+    },
+    "zh": {
+      "summary": "球形蟹（米虫蟹）。栖于滩涂的小型蟹，吞沙过滤有机物后留下大量小沙团（似米粒），是日文俗名『搗米』由来。",
+      "habitat_hint": "滩涂、河口砂泥地、海岸潮间带沙滩。",
+      "finding_tips": "全年（暖季活跃）若见滩涂表面成排小沙团即此蟹的取食痕迹。退潮时可在洞穴入口观察。"
+    }
+  },
+  "Galium pseudoasprellum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバノヤエムグラ。湿った林床や林縁、河川敷に生える多年草のアカネ科。葉は6〜8枚輪生（カラフォルクの仲間）で、茎に下向きの逆刺があり衣服にひっつきます。",
+      "habitat_hint": "湿った林床、林縁、河川敷、谷地林、神社林。",
+      "finding_tips": "5〜7月、湿った林床や林縁で6〜8枚輪生する葉と茎の下向き逆刺を持つ多年草を探します。衣服にひっつくので識別容易。"
+    },
+    "en": {
+      "summary": "Pseudo-rough Bedstraw. A perennial Rubiaceae of damp forest floors, edges, and riverbanks. Leaves in whorls of 6-8 (cleaver-relative); downward-pointing retrorse prickles on the stem catch on clothing.",
+      "habitat_hint": "Damp forest floors, forest edges, riverbanks, valley woods, and shrine groves.",
+      "finding_tips": "From May to July look on damp forest floors and edges for perennials with 6-8 whorled leaves and downward prickly stems. Sticks to clothing — easy to identify."
+    },
+    "zh": {
+      "summary": "类粗叶猪殃殃。潮湿林床、林缘与河滩的多年生茜草科。叶 6-8 枚轮生（拉拉藤近亲），茎具下向倒刺粘衣物。",
+      "habitat_hint": "潮湿林床、林缘、河滩、谷地林、神社林。",
+      "finding_tips": "五至七月在潮湿林床与林缘寻找具 6-8 枚轮生叶、茎下向倒刺的多年草。粘衣物易识别。"
+    }
+  },
+  "Picrasma quassioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニガキ。落葉小高木のニガキ科で、樹皮や葉が非常に苦いことが和名「苦木」の由来。古来から胃腸薬として利用されてきました。葉は羽状複葉。",
+      "habitat_hint": "雑木林、林縁、神社林、河畔林、二次林。",
+      "finding_tips": "通年（樹皮や葉の苦味で識別可）、雑木林で羽状複葉と樹皮を噛むと強い苦味のある落葉小高木を探します。"
+    },
+    "en": {
+      "summary": "Japan Quassia. A deciduous small tree of Simaroubaceae whose bark and leaves are intensely bitter — the source of the Japanese name 'bitter tree'. Used historically as a digestive medicine. Pinnate leaves.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, riparian woods, and secondary woods.",
+      "finding_tips": "Year-round (bark/leaf bitterness identifies), look in secondary woodlands for small deciduous trees with pinnate leaves; a tiny taste of bark confirms intense bitterness."
+    },
+    "zh": {
+      "summary": "苦树。苦木科落叶小乔木，树皮与叶极苦是日文俗名『苦木』由来。自古作胃肠药使用。叶羽状复叶。",
+      "habitat_hint": "杂木林、林缘、神社林、河岸林、次生林。",
+      "finding_tips": "全年（树皮或叶苦味可识别）在杂木林寻找具羽状复叶、咬树皮可感强烈苦味的落叶小乔木。"
+    }
+  },
+  "Erigeron bonariensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アレチノギク。南米原産の中型一年〜二年草で、河川敷や空き地、農地に帰化。ヒメムカシヨモギに似ますが、葉が短く幅広で全体に灰緑色を帯びます。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、造成地。",
+      "finding_tips": "7〜11月、河川敷や空き地で灰緑色の中型一年〜二年草を探します。ヒメムカシヨモギより葉が短く幅広で識別。"
+    },
+    "en": {
+      "summary": "Hairy Fleabane. A medium South American annual to biennial naturalised on riverbanks, vacant lots, and farmland. Similar to Canadian horseweed but with shorter, broader leaves and greyish-green colour throughout.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and construction sites.",
+      "finding_tips": "From July to November look on riverbanks and vacant lots for medium greyish-green annuals to biennials. Shorter broader leaves separate from Canadian horseweed."
+    },
+    "zh": {
+      "summary": "野塘蒿（香丝草）。原产南美的中型一至二年生草本，归化于河滩、空地与农田。似小蓬草但叶更短宽、全株偏灰绿色。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、工地。",
+      "finding_tips": "七至十一月在河滩与空地寻找灰绿色的中型一至二年草。叶更短宽与小蓬草区分。"
+    }
+  },
+  "Paspalum notatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アメリカスズメノヒエ（バヒアグラス）。南米原産の多年生イネ科で、芝草・牧草として利用され、河川敷や道路法面に帰化。穂は2本に分かれてV字形を作るのが特徴。",
+      "habitat_hint": "芝地、河川敷、道路法面、農地、空き地、ゴルフ場のラフ。",
+      "finding_tips": "7〜10月、芝地や河川敷で2本のV字形の穂を持つ多年生イネ科を探します。穂の独特な形が決め手。"
+    },
+    "en": {
+      "summary": "Bahia Grass. A South American perennial grass used as turf and forage, naturalised on riverbanks and road slopes. Diagnostic feature: inflorescence with two divergent V-shaped racemes.",
+      "habitat_hint": "Lawns, riverbanks, road slopes, farmland, vacant lots, and golf course rough.",
+      "finding_tips": "From July to October look on lawns and riverbanks for perennial grasses with V-shaped paired racemes. The distinctive inflorescence shape is diagnostic."
+    },
+    "zh": {
+      "summary": "百喜草。原产南美的多年生禾本科，作草坪与牧草使用，归化于河滩与道路斜坡。穗为 2 条 V 字形排列是关键识别。",
+      "habitat_hint": "草坪、河滩、道路斜坡、农田、空地、高尔夫球场粗草区。",
+      "finding_tips": "七至十月在草坪与河滩寻找具 V 字形 2 条总状穗的多年生禾本科。独特穗形是关键识别。"
+    }
   }
 }
