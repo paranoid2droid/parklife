@@ -22680,5 +22680,185 @@
       "habitat_hint": "草坪、河滩、道路斜坡、农田、空地、高尔夫球场粗草区。",
       "finding_tips": "七至十月在草坪与河滩寻找具 V 字形 2 条总状穗的多年生禾本科。独特穗形是关键识别。"
     }
+  },
+  "Panicum dichotomiflorum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオクサキビ。北米原産の大型一年生イネ科で、河川敷や農地、空き地に帰化。背丈は1m前後、繊細な円錐花序が分岐するのが特徴。",
+      "habitat_hint": "河川敷、農地、空き地、休耕田、道端。",
+      "finding_tips": "7〜10月、河川敷や農地で繊細な分岐する円錐花序を持つ大型一年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Fall Panicum. A large North American annual grass naturalised on riverbanks, farmland, and vacant lots. Plants ~1 m tall with delicate branching panicles.",
+      "habitat_hint": "Riverbanks, farmland, vacant lots, fallow paddies, and roadsides.",
+      "finding_tips": "From July to October look on riverbanks and farmland for large annual grasses with delicate branching panicles."
+    },
+    "zh": {
+      "summary": "洋野黍。原产北美的大型一年生禾本科，归化于河滩、农田与空地。高约 1 米，纤细分枝圆锥花序为特征。",
+      "habitat_hint": "河滩、农田、空地、休耕田、路边。",
+      "finding_tips": "七至十月在河滩与农田寻找具纤细分枝圆锥花序的大型一年生禾本科。"
+    }
+  },
+  "Polystichum ohtanii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオタニイノデ。湿った林床に生える中型〜大型の常緑シダ。イノデ類の中で、葉柄基部の鱗片が濃褐色で他のイノデと区別されます。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で2回羽状の中型〜大型の常緑シダを探します。イノデ類は識別が難しいので専門書を参照。"
+    },
+    "en": {
+      "summary": "Ohtani's Holly Fern. A medium to large evergreen wood fern of damp forest floors. Distinguished from other Polystichum by dark-brown scales at the stipe base.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for medium to large bipinnate evergreen wood ferns. Polystichum identification is challenging — consult keys."
+    },
+    "zh": {
+      "summary": "大谷耳蕨。潮湿林床的中至大型常绿蕨。叶柄基部具深褐色鳞片与其他耳蕨区分。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找中至大型 2 回羽状常绿蕨。耳蕨属种间区分难，需查检索表。"
+    }
+  },
+  "Henningsomyces candidus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シロクダタケ。広葉樹の倒木や朽木に発生する微小な白いキノコ。1mm程の細い管状の傘が密集して付くのが特徴で、ルーペで観察できます。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "梅雨〜秋、倒木や朽木の表面で微小な白い管状の傘が密集して付くキノコをルーペで探します。"
+    },
+    "en": {
+      "summary": "White Tubelet Fungus. A microscopic white fungus on dead broadleaf logs and rotting wood. Tiny tubular caps about 1 mm densely clustered — observable with a hand lens.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, and riparian forests.",
+      "finding_tips": "From rainy season to autumn, look on fallen logs and rotting wood for tiny white tubular caps densely clustered (use a hand lens)."
+    },
+    "zh": {
+      "summary": "白色管菌。生于阔叶倒木与朽木上的微小白色真菌。约 1 毫米细管状菌盖密集附着，需放大镜观察。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
+      "finding_tips": "梅雨至秋在倒木与朽木表面以放大镜寻找密集成丛的微小白色管状菌盖。"
+    }
+  },
+  "Malva sylvestris": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスベニアオイ（ブルーマロウ）。欧州原産の多年草のアオイ科で、観賞用に導入され帰化。淡紫色〜淡桃色の5弁花が美しく、葉は薬用ハーブとして利用されます。",
+      "habitat_hint": "庭園、空き地、道端、河川敷、農地の縁、住宅地の野生化。",
+      "finding_tips": "5〜10月、庭園や空き地で淡紫〜淡桃色の5弁花と掌状に5〜7裂する大型葉を持つ多年草を探します。"
+    },
+    "en": {
+      "summary": "Common Mallow (Blue Mallow). A European-origin perennial Malvaceae introduced as an ornamental and naturalised. Beautiful pale-purple to pale-pink 5-petalled flowers; leaves used as medicinal herb.",
+      "habitat_hint": "Gardens, vacant lots, roadsides, riverbanks, farmland margins, and residential naturalised areas.",
+      "finding_tips": "From May to October look in gardens and vacant lots for perennials with pale-purple to pale-pink 5-petalled flowers and large palmately 5-7 lobed leaves."
+    },
+    "zh": {
+      "summary": "锦葵（蓝锦葵）。原产欧洲的锦葵科多年草，作观赏引入后归化。开淡紫至淡粉色五瓣大花美丽，叶可作药用香草。",
+      "habitat_hint": "庭园、空地、路边、河滩、农田边缘、住宅区野化。",
+      "finding_tips": "五至十月在庭园与空地寻找具淡紫至淡粉色五瓣花、掌状 5-7 裂大叶的多年草。"
+    }
+  },
+  "Neanotis hirsuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハシカグサ。湿った林床や林縁、湿地に生える小型一年〜多年草のアカネ科。対生する小さな葉と、葉腋に小さな白い花を咲かせます。",
+      "habitat_hint": "湿った林床、林縁、湿地、半日陰の道端、神社林。",
+      "finding_tips": "7〜10月、湿った林床や林縁で対生する小さな葉と葉腋の小さな白い花を持つ匍匐性の小型草本を探します。"
+    },
+    "en": {
+      "summary": "Hairy Neanotis. A small annual to perennial Rubiaceae of damp forest floors, edges, and wetlands. Small opposite leaves with small white flowers in leaf axils.",
+      "habitat_hint": "Damp forest floors, forest edges, wetlands, partly shaded roadsides, and shrine groves.",
+      "finding_tips": "From July to October look on damp forest floors and edges for small creeping herbs with small opposite leaves and small white axillary flowers."
+    },
+    "zh": {
+      "summary": "毛新耳草。潮湿林床、林缘与湿地的小型一至多年生茜草科。叶对生小型，叶腋开白色小花。",
+      "habitat_hint": "潮湿林床、林缘、湿地、半阴路边、神社林。",
+      "finding_tips": "七至十月在潮湿林床与林缘寻找具对生小叶、叶腋白色小花的匍匐小型草本。"
+    }
+  },
+  "Daphne pseudomezereum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニシバリ。落葉低木のジンチョウゲ科で、樹皮が極めて強靱（鬼が縛れるほど）なことが和名「鬼縛り」の由来。早春に黄緑色の小花を咲かせ、初夏に赤い果実が熟します。果実は有毒。",
+      "habitat_hint": "雑木林の林縁、林床、神社林、半日陰の斜面、河畔林。",
+      "finding_tips": "花期2〜4月、果期5〜7月。雑木林で樹皮が強靱な落葉低木を探します。早春に黄緑色の小花、初夏に赤い果実（有毒）。"
+    },
+    "en": {
+      "summary": "False Mezereon. A deciduous Thymelaeaceae shrub with extraordinarily tough bark (could bind an ogre) — the source of the Japanese name 'ogre-binder'. Yellow-green small flowers in early spring; red fruits in early summer (poisonous).",
+      "habitat_hint": "Secondary woodland edges, forest floors, shrine groves, partly shaded slopes, and riparian woods.",
+      "finding_tips": "Flowers February-April; fruits May-July. Look in secondary woodlands for deciduous shrubs with very tough bark. Yellow-green flowers in early spring and red (poisonous) fruits in early summer."
+    },
+    "zh": {
+      "summary": "假毛瑞香（缚鬼）。瑞香科落叶灌木，树皮极坚韧（『可缚鬼』）是日文俗名由来。早春开黄绿色小花，初夏结红色果（有毒）。",
+      "habitat_hint": "杂木林林缘、林床、神社林、半阴斜坡、河岸林。",
+      "finding_tips": "花期二至四月，果期五至七月。在杂木林寻找树皮极坚韧的落叶灌木。早春黄绿色小花，初夏红色果（有毒）。"
+    }
+  },
+  "Astraeus hygrometricus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツチグリ。地中に埋もれた状態で発生し、湿度によって外皮（殻）が星形に開閉する独特のキノコ。地面の上に「星型」に開いた姿で観察できます。雨上がりに観察しやすい。",
+      "habitat_hint": "雑木林の林床、神社林、半日陰の砂地、河畔林。",
+      "finding_tips": "梅雨〜秋（雨上がり）、雑木林の林床で星型に開いた独特なキノコを探します。乾燥時には閉じ、湿度が上がると再び開く吸湿性が特徴。"
+    },
+    "en": {
+      "summary": "Earth Star. A distinctive fungus that emerges from the ground and whose outer 'shell' opens into a star shape with humidity. Visible as a star on the ground; easier to find after rain.",
+      "habitat_hint": "Secondary woodland floors, shrine groves, partly shaded sandy ground, and riparian woods.",
+      "finding_tips": "From rainy season to autumn (after rain), look on woodland floors for distinctive star-shaped fungi. Closes when dry, opens again with humidity — a hygroscopic behaviour."
+    },
+    "zh": {
+      "summary": "土星菌。从地下萌出、外皮（壳）随湿度开闭呈星形的独特真菌。地面上『星形』展开可见。雨后易观察。",
+      "habitat_hint": "杂木林林床、神社林、半阴沙地、河岸林。",
+      "finding_tips": "梅雨至秋（雨后）在杂木林林床寻找星形展开的独特真菌。干燥时闭合，湿度上升再开放是吸湿性特征。"
+    }
+  },
+  "Viola betonicifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アリアケスミレ。日本固有のスミレで、明るい林縁や草地に生えます。葉は披針形で長く、白色〜淡紫色の花を咲かせます。葉の形が他のスミレと違って細長いのが識別の決め手。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、半日陰の斜面、神社林。",
+      "finding_tips": "4〜5月、明るい林縁や草地で細長い披針形の葉と白色〜淡紫色の花を持つスミレを探します。葉の細長さが他のスミレとの区別点。"
+    },
+    "en": {
+      "summary": "Mountain Violet. A Japan-endemic violet of bright forest edges and grasslands. Long lanceolate leaves; white to pale-purple flowers. The long narrow leaf shape is diagnostic.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, partly shaded slopes, and shrine groves.",
+      "finding_tips": "From April to May look at bright forest edges and grasslands for violets with long lanceolate leaves and white to pale-purple flowers. Narrow leaves separate from other violets."
+    },
+    "zh": {
+      "summary": "戟叶堇菜。日本固有的堇菜，生于明亮林缘与草地。叶披针形长，开白至淡紫色花。叶细长是与其他堇菜区分要点。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、神社林。",
+      "finding_tips": "四至五月在明亮林缘与草地寻找具细长披针叶、白至淡紫色花的堇菜。叶细长与其他堇菜区分。"
+    }
+  },
+  "Euphorbia pekinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タカトウダイ。明るい草地や林縁、河川敷に生える多年草のトウダイグサ科。夏に独特の杯状花序を散形に咲かせます。茎を折ると白い乳液が出ます（皮膚刺激あり）。",
+      "habitat_hint": "明るい草地、林縁、河川敷、土手、河川敷の草地。",
+      "finding_tips": "6〜8月、明るい草地や林縁で杯状花序を散形に咲かせる多年草を探します。茎を折ると白い乳液が出ます（注意）。"
+    },
+    "en": {
+      "summary": "Beijing Spurge. A perennial Euphorbiaceae of bright grasslands, forest edges, and riverbanks. Distinctive cyathia in umbel-like clusters in summer; snapped stems exude skin-irritating white latex.",
+      "habitat_hint": "Bright grasslands, forest edges, riverbanks, banks, and riverside grasslands.",
+      "finding_tips": "From June to August look in bright grasslands and forest edges for perennials with cyathia in umbel-like clusters. White latex from snapped stems (caution — skin irritant)."
+    },
+    "zh": {
+      "summary": "京大戟。明亮草地、林缘与河滩的大戟科多年草。夏季伞形排列独特杯状花序。茎折断流白色乳液（注意皮肤刺激）。",
+      "habitat_hint": "明亮草地、林缘、河滩、堤岸、河滩草地。",
+      "finding_tips": "六至八月在明亮草地与林缘寻找具伞形排列杯状花序的多年草。茎折断流白色乳液（请小心）。"
+    }
+  },
+  "Salix integra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌコリヤナギ。落葉低木のヤナギ科で、河川敷や湿地に生えます。葉は対生〜互生で楕円形、春に銀白色の柔らかい花穂（ネコヤナギ様）を咲かせます。",
+      "habitat_hint": "河川敷、湿地、ため池の縁、湿った草地、河畔林。",
+      "finding_tips": "花期3〜4月、河川敷や湿地で銀白色の柔らかい花穂を咲かせる落葉低木を探します。葉が対生〜互生になるのが他のヤナギと違う点。"
+    },
+    "en": {
+      "summary": "Hakuro Willow. A deciduous Salicaceae shrub of riverbanks and wetlands. Opposite to alternate elliptical leaves; silvery-white soft catkins (cat-willow-like) in spring.",
+      "habitat_hint": "Riverbanks, wetlands, pond edges, damp grasslands, and riparian woods.",
+      "finding_tips": "Flowers March-April. Look on riverbanks and wetlands for deciduous shrubs with silvery-white soft catkins. The opposite to alternate leaf arrangement separates it from other willows."
+    },
+    "zh": {
+      "summary": "杞柳（细叶柳）。柳科落叶灌木，生于河滩与湿地。叶对生至互生椭圆形，春季开银白色柔软花穗（似猫柳）。",
+      "habitat_hint": "河滩、湿地、池塘边、潮湿草地、河岸林。",
+      "finding_tips": "花期三至四月在河滩与湿地寻找具银白色柔软花穗的落叶灌木。叶对生至互生与其他柳类区分。"
+    }
   }
 }
