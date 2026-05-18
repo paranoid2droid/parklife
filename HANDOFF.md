@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: **482 parks, 9,915 species, 191k observations** (after the 2026-05-15/16 P13 expansion). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, expanded bird/insect profile batches, and broad iNat photo fallback. Current committed demo export has 7,052 visible species; 6,521 have at least one primary image; local DB now has 32,402 `species_photo` rows, 6,593 species with gallery rows, and 6,369 species with 5+ gallery photos; 1500 species have curated profiles in ja/en/zh/zhT (6000 rows) — continuous batch sweep through commit `896a0ff` (batch 153, **1500-species milestone reached**). Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
+Project is in maintenance + enrichment mode. Core pipeline shipped: **461 parks, 9,728 species, 191k observations** (after 2026-05-18 dedup of 21 P13-introduced duplicates against existing seeded parks; see `scripts/merge_duplicate_parks.py`). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, expanded bird/insect profile batches, and broad iNat photo fallback. Current committed demo export has 7,052 visible species; 6,521 have at least one primary image; local DB now has 32,402 `species_photo` rows, 6,593 species with gallery rows, and 6,369 species with 5+ gallery photos; 1500 species have curated profiles in ja/en/zh/zhT (6000 rows) — continuous batch sweep through commit `896a0ff` (batch 153, **1500-species milestone reached**). Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
 
 ## In progress
 
@@ -37,6 +37,13 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: **482 parks,
 ## Next up
 
 Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick from the top unless the user redirects.
+
+0. **Official-URL coverage for P13-added parks** *(reported 2026-05-18 alongside duplicate-park bug)*
+   - Context: dedup of P13 duplicates (2026-05-18) recovered URLs for 17 overlapping cases, but ~254 P13-only parks (slug starts `p13-`) still have `official_url IS NULL`. They show on the demo without a website link — the user noticed many parks that "should have an official site" don't.
+   - Source data (国土数値情報 P13 GML from MLIT) carries geographic+admin fields only, no URLs — gap is structural, not a parsing miss.
+   - Plan: for each P13 park, search the prefecture's park-association site (Tokyo: tokyo-park.or.jp + tmpa.or.jp; Kanagawa: kanagawa-park.or.jp; Chiba: cga-net.jp; Saitama: parks.or.jp + saitama prefecture site) by `name_ja` + municipality; populate `park.official_url` from the first confident match. Cache search results under `data/cache/park_url_search/`.
+   - Quick check: `sqlite3 data/parklife.db "SELECT prefecture, COUNT(*) FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') GROUP BY prefecture;"`
+   - Lower-priority follow-up after that: also check Google Maps / OSM `website=*` tag for the park's lat/lon as a fallback.
 
 1. **Chinese name coverage gap** *(2026-05-14/15, mostly shipped)*
    - ✅ Display rule fixed (`15cbd4c`): `displayNameHtml()` in `scripts/export_html.py` prefers English (with dotted-underline marker + "暂无中文名" tooltip) for zh/zhT users; ja last resort.
