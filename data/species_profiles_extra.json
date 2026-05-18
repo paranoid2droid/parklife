@@ -26064,5 +26064,185 @@
       "habitat_hint": "树干、岩石、神社林老树、河岸林、潮湿处。",
       "finding_tips": "全年在树干与岩石寻找淡绿色小型垫状苔藓。"
     }
+  },
+  "Sandea japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニホンカワコザラガイ近縁の淡水性巻貝で、河川や用水路の岩や水草に付着します。殻は小型で円錐形、淡褐色〜茶色。",
+      "habitat_hint": "河川、用水路、湖沼、湿地、清流。",
+      "finding_tips": "通年、河川や用水路の岩や水草に付着する小型の円錐形巻貝を探します。"
+    },
+    "en": {
+      "summary": "A small freshwater snail attached to rocks and aquatic plants in rivers and irrigation channels. Conical shell, pale brown to brown.",
+      "habitat_hint": "Rivers, irrigation channels, lakes, wetlands, and clear streams.",
+      "finding_tips": "Year-round, look on rocks and aquatic plants in rivers and channels for small conical-shelled snails."
+    },
+    "zh": {
+      "summary": "日本河蜷近缘种。淡水螺，附着于河流与灌溉沟的岩石与水草。壳小型圆锥形，淡褐至褐色。",
+      "habitat_hint": "河流、灌溉沟、湖沼、湿地、清流。",
+      "finding_tips": "全年在河流与灌溉沟的岩石与水草上寻找小型圆锥形壳的螺。"
+    }
+  },
+  "Selaginella remotifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クラマゴケ。湿った林床や岩、石垣に這うように広がる小型のイワヒバ科の小葉植物。シダ植物に近い古いタイプで、葉が密に重なって独特の質感。",
+      "habitat_hint": "湿った林床、岩、石垣、神社林、河畔林の地表、谷地林。",
+      "finding_tips": "通年、湿った林床や岩で這うように広がる小型の小葉植物を探します。葉が密に重なり、独特の質感が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Kurama Spikemoss. A small lycophyte (Selaginellaceae) creeping on damp forest floors, rocks, and stone walls. An ancient plant related to ferns; densely overlapping leaves give a distinctive texture.",
+      "habitat_hint": "Damp forest floors, rocks, stone walls, shrine groves, riparian forest ground, and valley woods.",
+      "finding_tips": "Year-round, look on damp forest floors and rocks for small creeping lycophytes. Densely overlapping leaves with distinctive texture help identify."
+    },
+    "zh": {
+      "summary": "疏叶卷柏。卷柏科小型石松植物，匍匐生于潮湿林床、岩石与石墙。是与蕨类相近的古老植物，叶密集重叠具独特质感。",
+      "habitat_hint": "潮湿林床、岩石、石墙、神社林、河岸林地表、谷地林。",
+      "finding_tips": "全年在潮湿林床与岩石寻找匍匐生长的小型石松植物。叶密集重叠的独特质感是识别线索。"
+    }
+  },
+  "Athyrium vidalii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エゾイヌワラビ。湿った林床に生える中型〜大型の落葉シダ。葉は2回羽状に分裂し、葉柄基部に淡褐色の鱗片があります。日本各地に普通。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "5〜10月（落葉性）、湿った林床で2回羽状の中型〜大型の落葉シダを探します。"
+    },
+    "en": {
+      "summary": "Vidal's Lady Fern. A medium to large deciduous fern of damp forest floors. Bipinnate fronds; pale-brown scales at the stipe base. Common throughout Japan.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "From May to October (deciduous), look on damp forest floors for medium to large bipinnate deciduous ferns."
+    },
+    "zh": {
+      "summary": "维氏蹄盖蕨。潮湿林床的中至大型落叶蕨。叶 2 回羽状，叶柄基部具淡褐色鳞片。日本各地常见。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "五至十月（落叶）在潮湿林床寻找叶 2 回羽状的中至大型落叶蕨。"
+    }
+  },
+  "Ficus sarmentosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオイタビ。常緑の蔓性低木のクワ科で、樹幹や塀、岩を這い上がります。葉は革質で楕円形、果実は球形のイチジク状で熟すと淡紅色〜赤紫色になります。",
+      "habitat_hint": "雑木林の樹幹、塀、石垣、神社林、海岸近くの林。",
+      "finding_tips": "通年、樹幹や塀を這い上がる常緑の蔓性低木で、革質の楕円形の葉と球形のイチジク状果実を持つものを探します。"
+    },
+    "en": {
+      "summary": "Climbing Fig. An evergreen vining Moraceae shrub climbing tree trunks, walls, and rocks. Leathery elliptical leaves; globose fig-like fruits ripening pale-pink to red-purple.",
+      "habitat_hint": "Tree trunks in secondary woodlands, walls, stone walls, shrine groves, and coastal woods.",
+      "finding_tips": "Year-round, look for evergreen vining shrubs climbing trunks and walls with leathery elliptical leaves and globose fig-like fruits."
+    },
+    "zh": {
+      "summary": "薜荔（爬墙虎榕）。桑科常绿蔓生灌木，攀附树干、墙壁与岩石。叶革质椭圆形，果实球形如无花果，熟时淡红至红紫色。",
+      "habitat_hint": "杂木林树干、墙壁、石墙、神社林、海岸近郊林。",
+      "finding_tips": "全年寻找具革质椭圆叶、球形无花果状果、攀附树干与墙壁的常绿蔓生灌木。"
+    }
+  },
+  "Aristolochia debilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウマノスズクサ。蔓性の多年草のウマノスズクサ科で、林縁や藪に絡みつきます。独特なS字形の褐色の花を咲かせ、ジャコウアゲハの食草として重要。葉は心形〜矛形。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、半日陰の斜面。",
+      "finding_tips": "花期5〜7月、林縁や藪でS字形〜サキソフォン状の褐色花を持つ蔓性多年草を探します。ジャコウアゲハの幼虫も葉上で観察できます。"
+    },
+    "en": {
+      "summary": "Slender Dutchman's Pipe. A vining perennial Aristolochiaceae climbing in forest edges and thickets. Distinctive S-shaped brown flowers; an important food plant for Chinese Windmill butterfly larvae. Heart to halberd-shaped leaves.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers May-July. Look at forest edges and thickets for vines with distinctive S-shaped or saxophone-like brown flowers. Chinese Windmill caterpillars may also be observed on leaves."
+    },
+    "zh": {
+      "summary": "马兜铃（细马兜铃）。马兜铃科蔓生多年草，攀附林缘与灌丛。独特 S 形褐色花，是麝凤蝶幼虫的重要寄主。叶心至戟形。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
+      "finding_tips": "花期五至七月在林缘与灌丛寻找具 S 形或萨克斯管状褐色花的蔓生多年草。叶上可观察麝凤蝶幼虫。"
+    }
+  },
+  "Potentilla sundaica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナンゴクオヘビイチゴ。匍匐性の小型多年草のバラ科で、明るい草地や林縁、河川敷に生えます。黄色い小さな5弁花と地上に這う匍匐茎が特徴。",
+      "habitat_hint": "明るい草地、林縁、河川敷、土手、芝地。",
+      "finding_tips": "4〜7月、明るい草地や芝地で長い匍匐茎を伸ばし、黄色い5弁花を持つ小型多年草を探します。"
+    },
+    "en": {
+      "summary": "Southern Snake Cinquefoil. A small creeping perennial Rosaceae of bright grasslands, forest edges, and riverbanks. Small yellow 5-petalled flowers; spreads by creeping stolons.",
+      "habitat_hint": "Bright grasslands, forest edges, riverbanks, banks, and lawns.",
+      "finding_tips": "From April to July look in bright grasslands and lawns for small perennials with long creeping stolons and yellow 5-petalled flowers."
+    },
+    "zh": {
+      "summary": "南国蛇莓委陵菜。蔷薇科匍匐小型多年草，生于明亮草地、林缘与河滩。黄色五瓣小花，靠匍匐茎扩散。",
+      "habitat_hint": "明亮草地、林缘、河滩、堤岸、草坪。",
+      "finding_tips": "四至七月在明亮草地与草坪寻找具长匍匐茎、黄色五瓣花的小型多年草。"
+    }
+  },
+  "Phleum pratense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオアワガエリ（ティモシー）。欧州原産の多年生イネ科で、牧草として導入され帰化。穂は太く長い円柱形（〜10cm）で、淡緑色〜淡紫色を帯びるのが特徴。",
+      "habitat_hint": "牧草地、河川敷、空き地、農地の縁、道端。",
+      "finding_tips": "5〜8月、牧草地や河川敷で太く長い円柱形（〜10cm）の穂を持つ多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Timothy. A European-origin perennial grass introduced as forage and naturalised. Thick long cylindrical spike-like inflorescence (up to 10 cm) with pale-green to pale-purplish tint — diagnostic.",
+      "habitat_hint": "Pastures, riverbanks, vacant lots, farmland margins, and roadsides.",
+      "finding_tips": "From May to August look in pastures and on riverbanks for perennial grasses with thick long cylindrical (up to 10 cm) spike-like inflorescences."
+    },
+    "zh": {
+      "summary": "猫尾草（梯牧草）。原产欧洲的多年生禾本科，作牧草引入后归化。穗粗长圆柱形（至 10 厘米），带淡绿至淡紫色为特征。",
+      "habitat_hint": "牧地、河滩、空地、农田边缘、路边。",
+      "finding_tips": "五至八月在牧地与河滩寻找具粗长圆柱形（至 10 厘米）穗的多年生禾本科。"
+    }
+  },
+  "Sigesbeckia glabrescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コメナモミ。明るい草地や林縁、農地に生える一年草のキク科。果実が「米」（小さい）「菜揉み」（ナモミ）のような形で、衣服にひっつくことから命名。黄色い小さな頭花を咲かせます。",
+      "habitat_hint": "明るい草地、林縁、農地の縁、河川敷の草地、空き地。",
+      "finding_tips": "8〜10月、明るい草地や林縁で黄色い小さな頭花と粘液性の果実（衣服にくっつく）を持つ一年草を探します。"
+    },
+    "en": {
+      "summary": "Smooth Sigesbeckia. An annual Asteraceae of bright grasslands, forest edges, and farmland. Fruits with sticky glands that cling to clothing — the source of the Japanese name. Small yellow flower heads.",
+      "habitat_hint": "Bright grasslands, forest edges, farmland margins, riverside grasslands, and vacant lots.",
+      "finding_tips": "From August to October look in bright grasslands and forest edges for annuals with small yellow flower heads and sticky fruits that catch on clothing."
+    },
+    "zh": {
+      "summary": "毛梗豨莶（小豨莶）。明亮草地、林缘与农田的一年生菊科。果实具粘液腺粘附衣物是日文俗名由来。开黄色头状小花。",
+      "habitat_hint": "明亮草地、林缘、农田边缘、河滩草地、空地。",
+      "finding_tips": "八至十月在明亮草地与林缘寻找具黄色头状小花、粘液果（粘衣物）的一年草。"
+    }
+  },
+  "Cardamine scutata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コタネツケバナ。タネツケバナの近縁種で、湿った場所に生える一年〜二年草のアブラナ科。白い小さな十字花を多数咲かせ、葉は深く切れ込みます。タネツケバナよりやや大型。",
+      "habitat_hint": "水田、湿地、湿った道端、河川敷、農地の縁。",
+      "finding_tips": "3〜5月、湿った場所でロゼット状の葉と細長い果実（角果）を持つ小型アブラナ科を探します。"
+    },
+    "en": {
+      "summary": "Cuckoo Cardamine. A relative of Wavy Bittercress, an annual to biennial Brassicaceae of damp places. Many small white 4-petalled flowers; deeply lobed leaves. Slightly larger than Wavy Bittercress.",
+      "habitat_hint": "Rice paddies, wetlands, damp roadsides, riverbanks, and farmland margins.",
+      "finding_tips": "From March to May look in damp places for small crucifers with basal rosettes and slender erect pods (siliques)."
+    },
+    "zh": {
+      "summary": "弯曲碎米荠近缘种（小碎米荠）。碎米荠的近缘种，归化于潮湿处的一至二年生十字花科。密生白色十字小花，叶深裂。比弯曲碎米荠略大。",
+      "habitat_hint": "水田、湿地、潮湿路边、河滩、农田边缘。",
+      "finding_tips": "三至五月在潮湿处寻找具基生莲座叶、细长直立角果的小型十字花科。"
+    }
+  },
+  "Arisaema ringens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムサシアブミ。日本固有のテンナンショウ属で、仏炎苞が独特の「鐙（あぶみ：馬具）」のような形をしていることが和名の由来。海岸近くの林床や林縁に生えます。有毒。",
+      "habitat_hint": "海岸近くの雑木林の林床、林縁、谷地林、神社林、河畔林。",
+      "finding_tips": "4〜6月、海岸近くの雑木林の林床で仏炎苞が「鐙」のような独特な形をするテンナンショウ属を探します。有毒なので絶対に食べないこと。"
+    },
+    "en": {
+      "summary": "Stirrup Jack-in-the-Pulpit. A Japan-endemic Arisaema with the spathe distinctively shaped like a 'stirrup' (musashi-abumi) — the source of the Japanese name. Grows on coastal woodland floors and edges. Poisonous.",
+      "habitat_hint": "Coastal secondary woodland floors, forest edges, valley woods, shrine groves, and riparian woods.",
+      "finding_tips": "From April to June look on coastal secondary woodland floors for Arisaema with distinctive stirrup-shaped spathes. Do not eat — poisonous."
+    },
+    "zh": {
+      "summary": "马蹬天南星（武藏鐙）。日本固有的天南星属，佛焰苞独特如『马蹬』（武具）是日文俗名由来。生于海岸近郊林床与林缘。有毒。",
+      "habitat_hint": "海岸近郊杂木林林床、林缘、谷地林、神社林、河岸林。",
+      "finding_tips": "四至六月在海岸近郊杂木林林床寻找具马蹬状独特佛焰苞的天南星属。请勿食用——有毒。"
+    }
   }
 }
