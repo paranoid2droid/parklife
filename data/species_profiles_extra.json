@@ -24624,5 +24624,185 @@
       "habitat_hint": "行道树、公园栽植、寺社境内、住宅区庭树、植物园。",
       "finding_tips": "全年（秋季红叶显著）在街道与公园寻找具 3 裂叶的落叶乔木。秋季鲜红叶色与薄片状剥落树皮可助识别。"
     }
+  },
+  "Alnus japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハンノキ。日本固有の落葉高木のカバノキ科で、湿地や河川敷、湿った地面に生えます。窒素固定能力があり、痩せ地の緑化に重要。葉は卵形〜披針形、雄花序は冬から春に下垂します。",
+      "habitat_hint": "湿地、河川敷、ため池の縁、湿った草地、河畔林、湿った林床。",
+      "finding_tips": "花期2〜3月、湿地や河川敷で卵形〜披針形の葉と春に下垂する雄花序を持つ落葉高木を探します。湿地を代表する樹木。"
+    },
+    "en": {
+      "summary": "Japanese Alder. A Japan-endemic deciduous Betulaceae tree of wetlands, riverbanks, and damp ground. Nitrogen-fixing, important for revegetating poor soils. Ovate to lanceolate leaves; pendulous male catkins in winter to spring.",
+      "habitat_hint": "Wetlands, riverbanks, pond edges, damp grasslands, riparian woods, and damp forest floors.",
+      "finding_tips": "Flowers February-March. Look in wetlands and riverbanks for deciduous trees with ovate-lanceolate leaves and pendulous male catkins in spring. An iconic wetland tree."
+    },
+    "zh": {
+      "summary": "日本桤木。日本固有的桦木科落叶乔木，生于湿地、河滩与潮湿地面。具固氮能力，对贫瘠地绿化重要。叶卵形至披针形，雄花序冬至春下垂。",
+      "habitat_hint": "湿地、河滩、池塘边、潮湿草地、河岸林、潮湿林床。",
+      "finding_tips": "花期二至三月在湿地与河滩寻找具卵至披针形叶、春季下垂雄花序的落叶乔木。是湿地代表性树木。"
+    }
+  },
+  "Ipomoea indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "リュウキュウアサガオ（ノアサガオ）。熱帯〜亜熱帯原産の多年生蔓性アサガオで、観賞用に栽培され帰化。鮮やかな青〜青紫色の漏斗状花が美しく、温暖地では多年生で年中咲きます。",
+      "habitat_hint": "庭園、フェンス、生垣、住宅地の野生化、温暖地の海岸近く、河川敷。",
+      "finding_tips": "通年（温暖地）、庭園やフェンス、住宅地で鮮やかな青〜青紫色の漏斗状花を持つ蔓性多年草を探します。アサガオより花期が長い。"
+    },
+    "en": {
+      "summary": "Ocean Blue Morning Glory. A tropical to subtropical perennial vining Convolvulaceae cultivated as an ornamental and naturalised. Brilliant blue to blue-purple funnel-shaped flowers; perennial and year-round flowering in warm regions.",
+      "habitat_hint": "Gardens, fences, hedges, residential naturalised areas, coastal warm regions, and riverbanks.",
+      "finding_tips": "Year-round (warm regions), look in gardens, on fences, and in residential areas for vining perennials with brilliant blue to blue-purple funnel flowers. Longer flowering period than common morning glory."
+    },
+    "zh": {
+      "summary": "琉球牵牛（青牵牛）。原产热带至亚热带的多年生蔓生旋花科，作观赏栽植后归化。鲜艳蓝至蓝紫色漏斗形花美丽，暖地多年生全年开花。",
+      "habitat_hint": "庭园、围栏、绿篱、住宅区野化、暖地海岸近郊、河滩。",
+      "finding_tips": "全年（暖地）在庭园、围栏与住宅区寻找具鲜艳蓝至蓝紫色漏斗形花的蔓生多年草。花期比牵牛长。"
+    }
+  },
+  "Aster iinumae": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ユウガギク。日本固有の多年草のキク科で、明るい林縁や草地に生えます。秋に白〜淡紫色の頭花を多数咲かせ、葉は深く切れ込んだ独特の形。",
+      "habitat_hint": "明るい雑木林の林縁、草地、土手、河川敷の草地、半日陰の斜面。",
+      "finding_tips": "9〜11月、明るい林縁や草地で白〜淡紫色の頭花を持ち、葉が深く切れ込む多年草を探します。"
+    },
+    "en": {
+      "summary": "Yuga Aster. A Japan-endemic perennial Asteraceae of bright forest edges and grasslands. White to pale-purple flower heads in autumn; distinctively deeply lobed leaves.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, banks, riverside grasslands, and partly shaded slopes.",
+      "finding_tips": "From September to November look at bright forest edges and grasslands for perennials with white to pale-purple flower heads and deeply lobed leaves."
+    },
+    "zh": {
+      "summary": "饭沼菊（紫菀属）。日本固有的菊科多年草，生于明亮林缘与草地。秋季密生白至淡紫色头状花，叶深裂独特。",
+      "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、半阴斜坡。",
+      "finding_tips": "九至十一月在明亮林缘与草地寻找具白至淡紫色头状花、叶深裂的多年草。"
+    }
+  },
+  "Nesotaxonus fulvus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャイロハバチ。中型のハバチで、茶褐色の体色。幼虫はハマナス、バラ科植物の葉を食害します。成虫は花や葉の上で見つかります。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、河畔林、住宅地の庭。",
+      "finding_tips": "5〜9月、雑木林や林縁で茶褐色の中型ハバチを探します。バラ科植物の葉裏に群生する幼虫も観察できる。"
+    },
+    "en": {
+      "summary": "Brown Sawfly. A medium sawfly with brown body. Larvae defoliate roses and other Rosaceae. Adults found on flowers and leaves.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, riparian woods, and residential gardens.",
+      "finding_tips": "From May to September look in secondary woodlands and forest edges for medium brown sawflies. Larvae can be observed in groups on undersides of Rosaceae leaves."
+    },
+    "zh": {
+      "summary": "茶色叶蜂。中型叶蜂，茶褐色体。幼虫为害蔷薇与其他蔷薇科叶片。成虫常见于花与叶上。",
+      "habitat_hint": "杂木林、林缘、农田、果园、河岸林、住宅区庭院。",
+      "finding_tips": "五至九月在杂木林与林缘寻找茶褐色的中型叶蜂。也可观察蔷薇科叶背的群聚幼虫。"
+    }
+  },
+  "Odontopera arida": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エグリヅマエダシャク。中型のシャクガで、翅の縁が独特の「えぐれた」形をしています。淡褐色〜灰褐色の翅で、樹幹や葉裏で休みます。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏で翅の縁が「えぐれた」独特の形の中型ガを探します。"
+    },
+    "en": {
+      "summary": "Scalloped Geometer. A medium geometrid moth with distinctively 'scalloped' wing margins. Pale-brown to grey-brown wings; rests on tree trunks and leaf undersides.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks and leaf undersides for medium moths with distinctively scalloped wing margins."
+    },
+    "zh": {
+      "summary": "凹缘尺蛾。中型尺蛾，翅缘呈独特『凹缺』状。翅淡褐至灰褐色，停于树干与叶背。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背寻找翅缘『凹缺』独特的中型蛾。"
+    }
+  },
+  "Argynnis paphia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミドリヒョウモン。大型のヒョウモンチョウで、橙色の翅に黒い豹紋（ヒョウモン）が美しく、雄は翅の上面に緑色の金属光沢があるのが和名「緑」の由来。林縁や草地で見られます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、河川敷の草地、神社林、山地の林縁。",
+      "finding_tips": "6〜10月、明るい林縁や草地で橙色の翅に黒い豹紋を持つ大型のチョウを探します。雄の翅上面の緑色金属光沢が決め手。"
+    },
+    "en": {
+      "summary": "Silver-washed Fritillary. A large fritillary butterfly with beautiful orange wings marked with black leopard-like spots; males have a green metallic sheen on the upperside — the source of the Japanese name 'green leopard-pattern'. Found at forest edges and in grasslands.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, riverside grasslands, shrine groves, and montane forest edges.",
+      "finding_tips": "From June to October look at bright forest edges and grasslands for large butterflies with orange leopard-spotted wings. Males' green metallic upperside sheen is diagnostic."
+    },
+    "zh": {
+      "summary": "绿豹蛱蝶。大型豹蛱蝶，橙色翅配黑色豹纹美丽，雄性翅表具绿色金属光泽是日文俗名『绿』由来。常见于林缘与草地。",
+      "habitat_hint": "明亮杂木林林缘、草地、河滩草地、神社林、山地林缘。",
+      "finding_tips": "六至十月在明亮林缘与草地寻找具橙色豹纹翅的大型蝶。雄性翅表绿色金属光泽是关键识别。"
+    }
+  },
+  "Calonectris leucomelas": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオミズナギドリ。日本固有種に近い大型のミズナギドリで、海上を低空滑空して移動します。日本では海岸の離島で繁殖し、夜間に巣穴に戻ります。秋には大群で渡り。",
+      "habitat_hint": "海上、海岸近くの海、離島の繁殖地、漁港、河口。",
+      "finding_tips": "4〜11月、海上や海岸近くで海面を低空滑空する大型の海鳥を探します。日本では本土から離島の繁殖地への往復で見られます。"
+    },
+    "en": {
+      "summary": "Streaked Shearwater. A large near-Japan-endemic shearwater that glides low over the sea. Breeds on offshore islands of Japan; returns to nest burrows at night. Migrates in large flocks in autumn.",
+      "habitat_hint": "Open sea, coastal waters, offshore island breeding sites, fishing harbours, and estuaries.",
+      "finding_tips": "From April to November look over the sea and near coasts for large seabirds gliding low over the surface. Observed travelling between mainland and offshore breeding sites."
+    },
+    "zh": {
+      "summary": "白额鹱。大型近日本固有的鹱，海面低空滑翔移动。日本于海岸离岛繁殖，夜间归巢洞。秋季大群迁徙。",
+      "habitat_hint": "海上、海岸近郊海域、离岛繁殖地、渔港、河口。",
+      "finding_tips": "四至十一月在海上与海岸近郊寻找海面低空滑翔的大型海鸟。本土与离岛繁殖地间往返可见。"
+    }
+  },
+  "Gallerucida bifasciata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イタドリハムシ。中型のハムシで、橙黄色の上翅に黒い斑紋を持ち、イタドリやスイバなどタデ科植物の葉を食害します。鮮やかな色彩で目立つ。",
+      "habitat_hint": "イタドリやスイバの生える河川敷、空き地、林縁、農地。",
+      "finding_tips": "5〜9月、イタドリやスイバの葉上で橙黄色に黒斑のある中型ハムシを探します。葉に円形の食痕を残します。"
+    },
+    "en": {
+      "summary": "Polygonum Leaf Beetle. A medium leaf beetle with orange-yellow elytra and black markings, feeding on Reynoutria and Rumex (Polygonaceae). Brilliantly coloured and conspicuous.",
+      "habitat_hint": "Riverbanks, vacant lots, forest edges, and farmland with Reynoutria and Rumex.",
+      "finding_tips": "From May to September look on knotweed and dock leaves for medium leaf beetles with orange-yellow elytra and black markings. Round feeding holes on leaves help confirm."
+    },
+    "zh": {
+      "summary": "酸模叶甲。中型叶甲，鞘翅橙黄色具黑斑，取食虎杖与酸模等蓼科叶片。色彩鲜艳显眼。",
+      "habitat_hint": "生有虎杖与酸模的河滩、空地、林缘、农田。",
+      "finding_tips": "五至九月在虎杖与酸模叶上寻找鞘翅橙黄色配黑斑的中型叶甲。叶上圆形蛀痕辅助识别。"
+    }
+  },
+  "Ruspolia lineosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クサキリ。中型のキリギリス科で、淡褐色〜緑色の地に細い縦線があります。夜に「ジー…」と長く高い音色で鳴き、草地や河川敷の代表的な鳴く昆虫。",
+      "habitat_hint": "草地、河川敷の草地、湿地、農地の縁、林縁。",
+      "finding_tips": "8〜10月、夜に草地や河川敷で「ジー…」と長く鳴く中型キリギリスを探します。淡褐色〜緑色の細い縦線も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Slant-faced Cone-headed Katydid. A medium katydid with pale-brown to green coloration and fine longitudinal lines. Sings 'jiii...' long and high at night — a representative singing insect of grasslands and riverbanks.",
+      "habitat_hint": "Grasslands, riverside grasslands, wetlands, farmland margins, and forest edges.",
+      "finding_tips": "From August to October at night listen in grasslands and riverbanks for medium katydids singing long 'jiii...' calls. Pale-brown to green coloration with fine longitudinal lines also helps identify."
+    },
+    "zh": {
+      "summary": "斜面螽。中型螽斯科，淡褐至绿色具细纵纹。夜间发出『ji-』长而高音的鸣声，是草地与河滩代表性鸣虫。",
+      "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
+      "finding_tips": "八至十月夜间在草地与河滩聆听『ji-』长而高音鸣声的中型螽斯。淡褐至绿色配细纵纹可助识别。"
+    }
+  },
+  "Periophthalmus modestus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビハゼ。河口の汽水域や干潟に住む独特な小型のハゼで、胸びれを使って地面の上を跳ねるように移動します。干潟の名物。",
+      "habitat_hint": "干潟、河口の汽水域、塩性湿地、マングローブ林（沖縄）。",
+      "finding_tips": "通年（暖かい季節に活動的）、干潟や河口で胸びれで陸上を跳ねるように移動する独特な小型のハゼを探します。"
+    },
+    "en": {
+      "summary": "Mudskipper. A distinctive small goby of brackish estuaries and mudflats that uses pectoral fins to hop on the ground — a mudflat speciality.",
+      "habitat_hint": "Mudflats, brackish estuaries, salt marshes, and mangroves (Okinawa).",
+      "finding_tips": "Year-round (most active in warm seasons), look in mudflats and estuaries for distinctive small gobies hopping on the ground using pectoral fins."
+    },
+    "zh": {
+      "summary": "弹涂鱼。河口汽水域与滩涂的独特小型虾虎鱼，靠胸鳍在地面跳跃移动。滩涂特色物种。",
+      "habitat_hint": "滩涂、河口汽水域、盐沼、红树林（冲绳）。",
+      "finding_tips": "全年（暖季活跃）在滩涂与河口寻找用胸鳍在陆地跳跃移动的独特小型虾虎鱼。"
+    }
   }
 }
