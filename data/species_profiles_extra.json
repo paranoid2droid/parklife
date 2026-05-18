@@ -25704,5 +25704,185 @@
       "habitat_hint": "杂木林林床、林缘、神社林、河岸林、住宅区庭院。",
       "finding_tips": "五至九月在杂木林林床与林缘寻找具长口器与独特体形的蝎蛉。雄性腹端蝎尾状结构是关键识别。"
     }
+  },
+  "Larvivora akahige": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コマドリ。日本固有の小型のヒタキ科で、雄は喉〜胸が鮮やかな橙赤色（赤髭）。深山の渓流近くで繁殖し、「ヒン、カラララ…」と独特の鳴き声で知られます。",
+      "habitat_hint": "深山の渓流近く、谷地林、山地の雑木林、河畔林、神社林。",
+      "finding_tips": "5〜9月、深山の渓流近くで「ヒン、カラララ…」と鳴く小型のヒタキを探します。雄の橙赤色の喉〜胸が決め手。"
+    },
+    "en": {
+      "summary": "Japanese Robin. A Japan-endemic small flycatcher; males have brilliant orange-red throat and breast ('red beard'). Breeds in deep mountains near streams; famous 'hin, kararara...' call.",
+      "habitat_hint": "Near mountain streams, valley woods, montane secondary woodlands, riparian woods, and shrine groves.",
+      "finding_tips": "From May to September listen near deep-mountain streams for the 'hin, kararara...' call. Males' brilliant orange-red throat and breast are diagnostic."
+    },
+    "zh": {
+      "summary": "日本歌鸲（コマドリ）。日本固有的小型鹟科，雄性喉至胸鲜艳橙红色（『赤须』）。在深山溪流附近繁殖，著名独特鸣声『hin, kararara...』。",
+      "habitat_hint": "深山溪流附近、谷地林、山地杂木林、河岸林、神社林。",
+      "finding_tips": "五至九月在深山溪流附近聆听『hin, kararara...』鸣声的小型鹟。雄性橙红色喉与胸是关键识别。"
+    }
+  },
+  "Wilemania nitobei": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ニトベエダシャク。冬（11〜2月）に発生する中型のシャクガ。雄は淡褐色の翅、雌は翅が退化して飛べません。冬に活動する珍しい部類のガ。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、神社林、河畔林。",
+      "finding_tips": "11〜2月、雑木林の樹幹で淡褐色の翅を持つ雄の中型シャクガを探します。雌は翅がないので樹皮上で見つけられます。"
+    },
+    "en": {
+      "summary": "Nitobe's Winter Geometer. A medium geometrid moth emerging in winter (November-February). Males have pale-brown wings; females are wingless. One of the rare moths active in winter.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, shrine groves, and riparian woods.",
+      "finding_tips": "From November to February look on tree trunks in secondary woodlands for medium moths with pale-brown wings (males). Wingless females on bark."
+    },
+    "zh": {
+      "summary": "新渡户冬尺蛾。冬季（十一至二月）发生的中型尺蛾。雄性具淡褐色翅，雌性无翅。冬季活跃属罕见蛾种。",
+      "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
+      "finding_tips": "十一至二月在杂木林树干寻找具淡褐色翅的雄性中型尺蛾。无翅雌性可在树皮上发现。"
+    }
+  },
+  "Lefua echigonia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホトケドジョウ。日本固有の小型淡水ドジョウで、湧水や清流、谷地田の細い水路に生息。「仏」の名は丸い顔と穏やかな姿から。希少種として保護対象。",
+      "habitat_hint": "湧水、清流、谷地田の水路、湿地、ため池の流入部。",
+      "finding_tips": "通年、湧水や清流、谷地田の水路で全長3〜5cmの小型ドジョウを探します。丸い顔と穏やかな姿が「仏」の名の由来。希少種なので観察のみで保護を。"
+    },
+    "en": {
+      "summary": "Buddha Loach. A Japan-endemic small freshwater loach living in springs, clear streams, and valley-paddy channels. Named 'buddha' for its round face and gentle appearance. A protected rare species.",
+      "habitat_hint": "Springs, clear streams, valley-paddy channels, wetlands, and pond inflows.",
+      "finding_tips": "Year-round, look in springs and valley-paddy channels for 3-5 cm small loaches. The round face and gentle look give the 'buddha' name. Rare — observe only."
+    },
+    "zh": {
+      "summary": "佛泥鳅。日本固有的小型淡水泥鳅，栖于湧泉、清流与谷地水田水道。『佛』之名取自圆脸与温和外观。受保护稀有种。",
+      "habitat_hint": "湧泉、清流、谷地水田水道、湿地、池塘进水口。",
+      "finding_tips": "全年在湧泉与谷地水田水道寻找体长 3-5 厘米的小型泥鳅。圆脸温和外观是『佛』名由来。稀有种，请仅观察。"
+    }
+  },
+  "Asiagomphus melaenops": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマサナエ。日本固有の中型サナエトンボで、清流や山地の小川に生息。黒地に黄色の縞模様があり、河川の中上流域で見られます。",
+      "habitat_hint": "山地の清流、河川上流、ゆるやかな川、湿地の流水、河畔林の縁。",
+      "finding_tips": "5〜8月、山地の清流や河川上流で黒地に黄色の縞模様を持つ中型サナエトンボを探します。"
+    },
+    "en": {
+      "summary": "Mountain Clubtail. A Japan-endemic medium clubtail of clear streams and montane brooks. Black with yellow bands; seen in upper river reaches.",
+      "habitat_hint": "Montane clear streams, upper river reaches, slow streams, flowing wetlands, and riparian forest edges.",
+      "finding_tips": "From May to August look in montane clear streams and upper river reaches for medium clubtails, black with yellow bands."
+    },
+    "zh": {
+      "summary": "山春蜓。日本固有的中型春蜓，栖于清流与山地小溪。黑底配黄色条纹，多见于河流中上游。",
+      "habitat_hint": "山地清流、河流上游、缓流河流、流动湿地、河岸林缘。",
+      "finding_tips": "五至八月在山地清流与河流上游寻找黑底配黄色条纹的中型春蜓。"
+    }
+  },
+  "Poecile montanus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コガラ。小型のカラ類で、頭頂が黒く、頬と腹は白〜淡褐色。日本では主に山地の針葉樹林〜混交林に生息し、群れで行動します。",
+      "habitat_hint": "山地の針葉樹林、混交林、神社林、河畔林、亜高山帯の林。",
+      "finding_tips": "通年、山地の針葉樹林で頭頂が黒く頬白の小型カラ類を探します。シジュウカラより小型で、針葉樹林を好むのが識別の手がかり。"
+    },
+    "en": {
+      "summary": "Willow Tit. A small tit with a black crown and white-to-pale-brown cheeks and belly. In Japan it lives mainly in montane coniferous and mixed forests, in flocks.",
+      "habitat_hint": "Montane coniferous forests, mixed forests, shrine groves, riparian woods, and subalpine forests.",
+      "finding_tips": "Year-round, look in montane coniferous forests for small tits with black crowns and white cheeks. Smaller than Japanese Tit and preferring coniferous forests is the identifying clue."
+    },
+    "zh": {
+      "summary": "褐头山雀。小型山雀，头顶黑色，脸颊与腹白至淡褐色。日本主要栖于山地针叶林与混交林，成群活动。",
+      "habitat_hint": "山地针叶林、混交林、神社林、河岸林、亚高山带林。",
+      "finding_tips": "全年在山地针叶林寻找头顶黑、脸颊白的小型山雀。比远东山雀小、喜针叶林是识别线索。"
+    }
+  },
+  "Hoplia communis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アシナガコガネ。中型のコガネムシで、長い脚と淡褐色〜灰褐色の体色を持ちます。花や葉の上で見つかり、日中活動します。",
+      "habitat_hint": "雑木林、林縁、農地、果樹園、住宅地の庭、河川敷。",
+      "finding_tips": "5〜8月、花や葉の上で長い脚と淡褐色〜灰褐色の体色を持つ中型コガネムシを探します。日中活動するのが識別の手がかり。"
+    },
+    "en": {
+      "summary": "Long-legged Chafer. A medium scarab with long legs and pale-brown to grey-brown body. Found on flowers and leaves; diurnal.",
+      "habitat_hint": "Secondary woodlands, forest edges, farmland, orchards, residential gardens, and riverbanks.",
+      "finding_tips": "From May to August look on flowers and leaves for medium scarabs with long legs and pale-brown to grey-brown bodies. Diurnal activity helps identify."
+    },
+    "zh": {
+      "summary": "长足金龟。中型金龟，腿长，体淡褐至灰褐色。常见于花与叶上，日间活动。",
+      "habitat_hint": "杂木林、林缘、农田、果园、住宅区庭院、河滩。",
+      "finding_tips": "五至八月在花与叶上寻找腿长、淡褐至灰褐色的中型金龟。日间活动是识别线索。"
+    }
+  },
+  "Rhaphuma diminuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメクロトラカミキリ。小型のカミキリで、黒地に細い白色の縞模様（トラガ＝虎縞）が美しい。広葉樹の枯木で幼虫が育ち、花や樹液に集まります。",
+      "habitat_hint": "雑木林の樹液の出る樹、枯木、林縁の花、神社林、河畔林。",
+      "finding_tips": "5〜8月、雑木林の樹液や花の周辺で黒地に細い白縞のある小型カミキリを探します。"
+    },
+    "en": {
+      "summary": "Small Black Tiger Longhorn. A small longhorn beetle with beautiful narrow white stripes on a black body — the 'tiger' pattern. Larvae develop in dead broadleaf wood; adults visit flowers and sap.",
+      "habitat_hint": "Sap-flowing trees in secondary woodlands, dead wood, flowers at forest edges, shrine groves, and riparian woods.",
+      "finding_tips": "From May to August look at sap flows and on flowers in secondary woodlands for small longhorns with narrow white stripes on black."
+    },
+    "zh": {
+      "summary": "黑虎天牛。小型天牛，黑底配细白色条纹（虎纹）美丽。幼虫蛀阔叶枯木，成虫访花与树液。",
+      "habitat_hint": "杂木林出树液的树、枯木、林缘花丛、神社林、河岸林。",
+      "finding_tips": "五至八月在杂木林树液与花周边寻找黑底配细白条纹的小型天牛。"
+    }
+  },
+  "Ligia exotica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フナムシ。海岸の岩礁や防波堤に住む中型の陸生甲殻類（等脚目）。岩の上を素早く走り、潮間帯の代表的な生物。腐肉や海藻を食べる分解者。",
+      "habitat_hint": "海岸の岩礁、防波堤、漁港、海岸近くの石垣、海岸林の縁。",
+      "finding_tips": "通年（暖かい季節に活動的）、海岸の岩礁や防波堤で素早く走り回る中型の灰褐色甲殻類を探します。"
+    },
+    "en": {
+      "summary": "Sea Slater. A medium terrestrial crustacean (Isopoda) living on rocky coasts and breakwaters. Runs rapidly on rocks; a representative intertidal organism. Feeds on carrion and seaweed as a decomposer.",
+      "habitat_hint": "Rocky coasts, breakwaters, fishing harbours, coastal stone walls, and coastal forest edges.",
+      "finding_tips": "Year-round (most active in warm seasons), look on rocky coasts and breakwaters for medium greyish-brown crustaceans running rapidly."
+    },
+    "zh": {
+      "summary": "海蟑螂。栖于海岸岩礁与防波堤的中型陆生甲壳类（等足目）。在岩石上快速奔跑，是潮间带代表性生物。取食腐肉与海藻为分解者。",
+      "habitat_hint": "海岸岩礁、防波堤、渔港、海岸石墙、海岸林缘。",
+      "finding_tips": "全年（暖季活跃）在海岸岩礁与防波堤寻找快速奔跑的中型灰褐色甲壳类。"
+    }
+  },
+  "Magnolia praecocissima": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コブシ。日本固有の落葉高木のモクレン科で、早春に葉に先立って純白の大きな花を咲かせます。花の蕾が握り拳（こぶし）のような形をしていることが和名の由来。",
+      "habitat_hint": "雑木林、神社林、河畔林、公園植栽、街路樹、寺社境内。",
+      "finding_tips": "花期3〜4月、雑木林や公園で葉のない枝に純白の大きな花を咲かせる落葉高木を探します。蕾が拳のような形が和名の由来。"
+    },
+    "en": {
+      "summary": "Kobushi Magnolia. A Japan-endemic deciduous Magnoliaceae tree producing large pure-white flowers in early spring before leaves emerge. The Japanese name 'fist' refers to the flower buds shaped like a clenched fist.",
+      "habitat_hint": "Secondary woodlands, shrine groves, riparian woods, park plantings, street trees, and temple/shrine grounds.",
+      "finding_tips": "Flowers March-April. Look in secondary woodlands and parks for deciduous trees with large pure-white flowers on leafless branches. Fist-shaped buds give the Japanese name."
+    },
+    "zh": {
+      "summary": "辛夷（日本辛夷）。日本固有的木兰科落叶乔木，早春先叶开放纯白色大花。花蕾形如握拳是日文俗名『拳』由来。",
+      "habitat_hint": "杂木林、神社林、河岸林、公园栽植、行道树、寺社境内。",
+      "finding_tips": "花期三至四月在杂木林与公园寻找无叶枝上开放纯白色大花的落叶乔木。花蕾如握拳是日文俗名由来。"
+    }
+  },
+  "Sisymbrium orientale": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌカキネガラシ。地中海原産の一年〜二年草のアブラナ科で、空き地や道端、農地に帰化。背が高く（〜1m）、黄色い小花の散房花序を立て、果実は茎にやや反り返って付きます。",
+      "habitat_hint": "空き地、道端、農地の縁、河川敷、舗装の隙間。",
+      "finding_tips": "4〜8月、空き地や道端で背が高く、黄色い小花と細い果実を持つ一年〜二年草を探します。カキネガラシより果実が茎から離れます。"
+    },
+    "en": {
+      "summary": "Oriental Hedge Mustard. A Mediterranean-origin annual to biennial crucifer naturalised on vacant lots, roadsides, and farmland. Tall (up to 1 m) with yellow flowers in flat-topped clusters; pods slightly arching from the stem.",
+      "habitat_hint": "Vacant lots, roadsides, farmland margins, riverbanks, and pavement cracks.",
+      "finding_tips": "From April to August look on vacant lots and roadsides for tall annuals with yellow flowers and slender pods. Pods arch slightly away from the stem (more than Hedge Mustard)."
+    },
+    "zh": {
+      "summary": "东方钻形荠。原产地中海的一至二年生十字花科，归化于空地、路边与农田。高约 1 米，具黄色小花伞房花序，果实从茎略反折。",
+      "habitat_hint": "空地、路边、农田边缘、河滩、路面缝。",
+      "finding_tips": "四至八月在空地与路边寻找具高大、黄色小花与细果的一至二年草。果实比钻形荠更离开茎。"
+    }
   }
 }
