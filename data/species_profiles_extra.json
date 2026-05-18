@@ -24444,5 +24444,185 @@
       "habitat_hint": "湿地、水田田埂、池塘边、河滩湿地、灌溉沟边。",
       "finding_tips": "八至十月在湿地与水田田埂寻找具箭头形叶、茎下向锐刺的一年生蓼。叶形与刺蓼区分。"
     }
+  },
+  "Dumortiera hirsuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジャゴケ。湿った林床や沢沿いの岩壁に生える大型のコケ（蘚類ではなく苔類）。葉状体が深緑色で蛇の鱗のような模様があることが和名の由来。",
+      "habitat_hint": "湿った林床、沢沿いの岩壁、滝の周辺、神社林の湿った場所、河畔林。",
+      "finding_tips": "通年、湿った岩壁や林床で深緑色の蛇の鱗様の模様を持つ大型の葉状体のコケを探します。"
+    },
+    "en": {
+      "summary": "Hairy Dumortiera. A large liverwort of damp forest floors and streamside rock faces. Dark-green thallus with snake-scale-like patterning — the source of the Japanese name 'snake liverwort'.",
+      "habitat_hint": "Damp forest floors, streamside rock faces, around waterfalls, damp places in shrine groves, and riparian woods.",
+      "finding_tips": "Year-round, look on damp rock faces and forest floors for large thallose liverworts with dark-green snake-scale-like patterning."
+    },
+    "zh": {
+      "summary": "毛地钱。潮湿林床与溪边岩壁的大型苔类。叶状体深绿色具蛇鳞状纹是日文俗名『蛇苔』由来。",
+      "habitat_hint": "潮湿林床、溪边岩壁、瀑布周边、神社林潮湿处、河岸林。",
+      "finding_tips": "全年在潮湿岩壁与林床寻找深绿色具蛇鳞纹的大型叶状体苔类。"
+    }
+  },
+  "Lapsanastrum apogonoides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コオニタビラコ。明るい草地や畔、田の畦に生える小型一年〜二年草のキク科で、春の七草「ホトケノザ」（仏の座）の正体。早春に黄色い小さな頭花を咲かせます。",
+      "habitat_hint": "水田畦、草地、農地の縁、休耕田、河川敷の湿った草地。",
+      "finding_tips": "3〜5月、水田畦や草地で根生葉のロゼットと黄色い小さな頭花を持つ小型草本を探します。春の七草の「ホトケノザ」は本種を指します。"
+    },
+    "en": {
+      "summary": "Smooth Nipplewort. A small annual to biennial Asteraceae of grasslands and paddy bunds; the true 'hotoke-no-za' (Buddha's seat) of the seven spring herbs of Japan. Small yellow flower heads in early spring.",
+      "habitat_hint": "Paddy bunds, grasslands, farmland margins, fallow paddies, and damp riverside grasslands.",
+      "finding_tips": "From March to May look on paddy bunds and in grasslands for small herbs with basal rosettes and small yellow flower heads. The true 'hotoke-no-za' of the seven spring herbs is this species."
+    },
+    "zh": {
+      "summary": "稻槎菜。明亮草地与田埂的小型一至二年生菊科，是日本春季七草『佛の座』的真身。早春开黄色头状小花。",
+      "habitat_hint": "水田田埂、草地、农田边缘、休耕田、河滩潮湿草地。",
+      "finding_tips": "三至五月在水田田埂与草地寻找具基生莲座叶、黄色头状小花的小型草本。春季七草『佛の座』即此种。"
+    }
+  },
+  "Cephalanthera longibracteata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササバギンラン。明るい雑木林の林床に生える小型の地生ラン。ギンランに似ますが葉が大きくササの葉のような形（ササバ＝笹葉）、花序の苞が長いのが識別ポイント。希少種。",
+      "habitat_hint": "明るい雑木林の林床、コナラ・クヌギ林、神社林、半日陰の斜面。",
+      "finding_tips": "5〜6月、明るい雑木林の林床で笹葉のような大きな葉と白い小花が開ききらない地生ランを探します。希少種なので採取せず観察のみで。"
+    },
+    "en": {
+      "summary": "Bamboo-leaved Silver Orchid. A small terrestrial orchid of bright secondary woodland floors. Similar to Silver Orchid but with larger leaves resembling bamboo leaves ('sasaba') and long flower-cluster bracts — diagnostic. A rare species.",
+      "habitat_hint": "Bright secondary woodland floors, oak woods, shrine groves, and partly shaded slopes.",
+      "finding_tips": "From May to June look on bright secondary woodland floors for terrestrial orchids with large bamboo-like leaves and small white flowers that barely open. Rare — observe only, never collect."
+    },
+    "zh": {
+      "summary": "笹叶银兰。明亮杂木林林床的小型地生兰。似银兰但叶大型如笹竹叶（『笹叶』）、花序苞片长可识别。稀有种。",
+      "habitat_hint": "明亮杂木林林床、栎类林、神社林、半阴斜坡。",
+      "finding_tips": "五至六月在明亮杂木林林床寻找具笹竹叶状大叶、白色小花几乎不开放的地生兰。稀有种，请仅观察勿采摘。"
+    }
+  },
+  "Juglans ailantifolia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オニグルミ。日本固有の落葉高木で、河川敷や山地の谷沿いに生えます。葉は大型の奇数羽状複葉、秋に厚い殻に包まれた可食のクルミ（実）を結実。",
+      "habitat_hint": "河川敷、山地の谷沿い、雑木林、神社林、湿った斜面。",
+      "finding_tips": "果期9〜10月、河川敷や谷沿いで大型の羽状複葉と厚い殻のクルミを持つ落葉高木を探します。リスや人が果実を採集します。"
+    },
+    "en": {
+      "summary": "Japanese Walnut. A Japan-endemic deciduous tree of riverbanks and montane valleys. Large odd-pinnate leaves; thick-shelled edible walnuts ripen in autumn.",
+      "habitat_hint": "Riverbanks, montane valleys, secondary woodlands, shrine groves, and moist slopes.",
+      "finding_tips": "Fruits September-October. Look on riverbanks and valleys for deciduous trees with large pinnate leaves and thick-shelled walnuts. Squirrels and people collect the fruits."
+    },
+    "zh": {
+      "summary": "鬼胡桃（日本核桃）。日本固有的落叶乔木，生于河滩与山地谷沿。叶大型奇数羽状复叶，秋季结厚壳可食核桃。",
+      "habitat_hint": "河滩、山地谷沿、杂木林、神社林、湿润斜坡。",
+      "finding_tips": "果期九至十月在河滩与谷沿寻找具大型羽状复叶、厚壳核桃的落叶乔木。松鼠与人会采集果实。"
+    }
+  },
+  "Carex aphanolepis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "エナシヒゴクサ。湿った林床や林縁、河畔林に生える多年生のスゲ。果穂が無柄（エナシ＝柄なし）で、葉腋から直接付くのが和名の由来。",
+      "habitat_hint": "湿った林床、林縁、谷地林、河畔林、神社林。",
+      "finding_tips": "5〜7月、湿った林床や林縁で果穂が葉腋から直接無柄に付く多年生スゲを探します。"
+    },
+    "en": {
+      "summary": "Sessile-spike Sedge. A perennial sedge of damp forest floors, edges, and riparian woods. Fruiting spikes attached directly without stalks at leaf axils — the source of the Japanese name 'no-stalk'.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, riparian woods, and shrine groves.",
+      "finding_tips": "From May to July look on damp forest floors and edges for perennial sedges with fruiting spikes attached directly without stalks at leaf axils."
+    },
+    "zh": {
+      "summary": "无柄苔草。潮湿林床、林缘与河岸林的多年生莎草。果穗无柄、直接着生于叶腋是日文俗名『无柄』由来。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、神社林。",
+      "finding_tips": "五至七月在潮湿林床与林缘寻找具叶腋无柄果穗的多年生莎草。"
+    }
+  },
+  "Broussonetia monoica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コウゾ。和紙の原料として古来から栽培されてきた落葉低木〜小高木のクワ科。樹皮の繊維が和紙の原料。葉は深く2〜3裂、初夏に赤い集合果が熟します。",
+      "habitat_hint": "雑木林の林縁、農家の屋敷林、和紙の産地、神社林、河畔林。",
+      "finding_tips": "果期6〜7月、雑木林や農家の屋敷林で深く2〜3裂した葉と赤い集合果を持つ落葉低木〜小高木を探します。樹皮が和紙の原料として有名。"
+    },
+    "en": {
+      "summary": "Paper Mulberry. A deciduous Moraceae shrub to small tree historically cultivated as the source of Japanese paper (washi). The bark fibres are used. Leaves deeply 2-3 lobed; red aggregate fruits ripen in early summer.",
+      "habitat_hint": "Secondary woodland edges, farmhouse groves, washi production areas, shrine groves, and riparian woods.",
+      "finding_tips": "Fruits June-July. Look in secondary woodlands and farmhouse groves for deciduous shrubs to small trees with deeply 2-3 lobed leaves and red aggregate fruits. Famous as the source of Japanese paper."
+    },
+    "zh": {
+      "summary": "构树（楮）。桑科落叶灌木至小乔木，自古作和纸原料栽培。树皮纤维制和纸。叶深 2-3 裂，初夏结红色聚合果。",
+      "habitat_hint": "杂木林林缘、农家屋林、和纸产地、神社林、河岸林。",
+      "finding_tips": "果期六至七月在杂木林与农家屋林寻找具深 2-3 裂叶、红色聚合果的落叶灌木至小乔木。树皮是和纸原料。"
+    }
+  },
+  "Aurelia coerulea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミズクラゲ。日本沿岸で最も普通に見られる中型のクラゲで、傘の中央に4つの輪状の生殖巣が透けて見えます。毒は弱く触っても痛くないため、観察に適しています。",
+      "habitat_hint": "沿岸海域、港湾、河口、海岸近くの浅海、ビーチ。",
+      "finding_tips": "春〜夏に沿岸海域や港湾で半透明の中型クラゲを探します。傘の中央の4つの輪状生殖巣が決め手。打ち上げられた個体でも観察可能（毒は弱い）。"
+    },
+    "en": {
+      "summary": "Moon Jelly. The most commonly seen medium jellyfish along Japan's coasts. Four ring-shaped gonads visible through the bell centre. Weakly stinging — safe to observe, even by touch.",
+      "habitat_hint": "Coastal waters, harbours, estuaries, shallow nearshore, and beaches.",
+      "finding_tips": "Spring to summer in coastal waters and harbours look for translucent medium jellyfish. The four ring-shaped gonads at the bell centre are diagnostic. Even beached specimens are safe to observe (weakly venomous)."
+    },
+    "zh": {
+      "summary": "海月水母。日本沿岸最常见的中型水母。伞中央 4 个环状生殖腺透过伞可见。蜇毒弱，可安全观察（即使触碰）。",
+      "habitat_hint": "沿岸海域、港湾、河口、近岸浅海、海滩。",
+      "finding_tips": "春至夏在沿岸海域与港湾寻找半透明的中型水母。伞中央 4 个环状生殖腺是关键识别。搁浅个体也可观察（弱毒）。"
+    }
+  },
+  "Epimedium grandiflorum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イカリソウ。日本固有の多年草のメギ科で、明るい雑木林の林床に生えます。花が「碇（いかり）」の形に似ることが和名の由来。淡紫色〜紅紫色の独特な4本の距のある花を咲かせます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、神社林、半日陰の斜面、河畔林。",
+      "finding_tips": "4〜5月、明るい林床で淡紫色〜紅紫色の「碇」形の独特な4本の距のある花を持つ多年草を探します。葉は3〜4回三出複葉で繊細。"
+    },
+    "en": {
+      "summary": "Large-flowered Barrenwort. A Japan-endemic perennial Berberidaceae of bright secondary woodland floors. Flowers shaped like ship anchors — the source of the Japanese name 'anchor flower'. Distinctive pale-purple to rose-purple flowers with four spurs.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, shrine groves, partly shaded slopes, and riparian woods.",
+      "finding_tips": "From April to May look on bright forest floors for perennials with anchor-shaped pale-purple to rose-purple flowers bearing four spurs. Delicate 3-4 times ternately compound leaves."
+    },
+    "zh": {
+      "summary": "大花淫羊藿。日本固有的小檗科多年草，生于明亮杂木林林床。花形似船锚是日文俗名『锚草』由来。具淡紫至紫红色独特 4 距花。",
+      "habitat_hint": "明亮杂木林林床、林缘、神社林、半阴斜坡、河岸林。",
+      "finding_tips": "四至五月在明亮林床寻找具淡紫至紫红色锚形（4 距）花的多年草。叶 3-4 回三出复叶纤细。"
+    }
+  },
+  "Viburnum phlebotrichum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オトコヨウゾメ。日本固有の落葉低木のレンプクソウ科で、雑木林や林縁に生えます。秋に赤い小球形果実が美しく、葉は対生で卵形、葉脈に毛があります。",
+      "habitat_hint": "雑木林の林縁、林床、神社林、二次林、半日陰の斜面。",
+      "finding_tips": "果期9〜11月、雑木林で赤い小球形果実と対生の卵形葉（葉脈に毛）を持つ落葉低木を探します。花期は5〜6月で白い小花。"
+    },
+    "en": {
+      "summary": "Hairy-vein Viburnum. A Japan-endemic deciduous Adoxaceae shrub of secondary woodlands and forest edges. Beautiful red small globose fruits in autumn; opposite ovate leaves with hairs on the veins.",
+      "habitat_hint": "Secondary woodland edges, forest floors, shrine groves, secondary woods, and partly shaded slopes.",
+      "finding_tips": "Fruits September-November. Look in secondary woodlands for deciduous shrubs with red small globose fruits and opposite ovate leaves with hairy veins. Flowers May-June, white and small."
+    },
+    "zh": {
+      "summary": "毛脉荚蒾。日本固有的五福花科落叶灌木，生于杂木林与林缘。秋季红色小球形果美丽，叶对生卵形、脉具毛。",
+      "habitat_hint": "杂木林林缘、林床、神社林、次生林、半阴斜坡。",
+      "finding_tips": "果期九至十一月在杂木林寻找具红色小球形果、对生卵形叶（脉具毛）的落叶灌木。花期五至六月，白色小花。"
+    }
+  },
+  "Acer buergerianum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トウカエデ。中国原産の落葉高木のムクロジ科（旧カエデ科）で、街路樹や公園木として広く植栽。葉が3裂し、秋に鮮やかな紅葉が美しい。樹皮は薄く剥がれます。",
+      "habitat_hint": "街路樹、公園植栽、寺社境内、住宅地の庭木、植物園。",
+      "finding_tips": "通年（秋の紅葉が際立つ）、街路や公園で3裂した葉を持つ落葉高木を探します。秋の鮮紅色の紅葉と薄く剥がれる樹皮が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Trident Maple. A Chinese-origin deciduous Sapindaceae tree widely planted as street and park trees. Leaves 3-lobed; beautiful brilliant red autumn colour. Bark peels in thin flakes.",
+      "habitat_hint": "Street trees, park plantings, temple/shrine grounds, residential trees, and botanical gardens.",
+      "finding_tips": "Year-round (autumn red colour outstanding), look in streets and parks for deciduous trees with 3-lobed leaves. Brilliant red autumn foliage and thinly peeling bark help identify."
+    },
+    "zh": {
+      "summary": "三角槭。原产中国的无患子科（旧槭树科）落叶乔木，广作行道树与公园栽植。叶 3 裂，秋季鲜艳红叶美丽。树皮薄片状剥落。",
+      "habitat_hint": "行道树、公园栽植、寺社境内、住宅区庭树、植物园。",
+      "finding_tips": "全年（秋季红叶显著）在街道与公园寻找具 3 裂叶的落叶乔木。秋季鲜红叶色与薄片状剥落树皮可助识别。"
+    }
   }
 }
