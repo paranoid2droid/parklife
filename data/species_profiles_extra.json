@@ -25884,5 +25884,185 @@
       "habitat_hint": "空地、路边、农田边缘、河滩、路面缝。",
       "finding_tips": "四至八月在空地与路边寻找具高大、黄色小花与细果的一至二年草。果实比钻形荠更离开茎。"
     }
+  },
+  "Persicaria orientalis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオケタデ。アジア原産の大型一年草のタデ科で、観賞用に導入され帰化。背が高く（〜2m）、紅紫色の小花が長く垂れ下がる穂状花序を持ち、葉と茎に毛が多い。",
+      "habitat_hint": "庭園、河川敷、空き地、農地の縁、住宅地の野生化。",
+      "finding_tips": "8〜10月、庭園や河川敷で背が高く、紅紫色の小花が垂れ下がる穂状花序を持つ大型一年草を探します。葉と茎の毛も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Princess Feather. A large Asian-origin annual Polygonaceae introduced as an ornamental and naturalised. Tall (up to 2 m); pendulous spikes of rose-purple small flowers; hairy leaves and stems.",
+      "habitat_hint": "Gardens, riverbanks, vacant lots, farmland margins, and residential naturalised areas.",
+      "finding_tips": "From August to October look in gardens and on riverbanks for large tall annuals with pendulous rose-purple flower spikes. Hairy leaves and stems also help identify."
+    },
+    "zh": {
+      "summary": "红蓼。原产亚洲的大型一年生蓼科，作观赏引入后归化。高约 2 米，紫红色小花下垂穗状花序，叶与茎多毛。",
+      "habitat_hint": "庭园、河滩、空地、农田边缘、住宅区野化。",
+      "finding_tips": "八至十月在庭园与河滩寻找具高大、紫红色小花下垂穗状花序的大型一年草。叶与茎多毛可助识别。"
+    }
+  },
+  "Calvatia craniiformis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノウタケ。大型のホコリタケ科で、人間の脳のような独特の形（皺のある球形）が和名「脳茸」の由来。雑木林の地表に発生し、成熟すると胞子を煙のように放出します。",
+      "habitat_hint": "雑木林の林床、神社林、河畔林、住宅地の庭、芝地。",
+      "finding_tips": "夏〜秋、雑木林の林床で人間の脳のような皺のある球形のキノコを探します。若いうちは食用可能ですが、似た有毒キノコもあるので確実な同定が必要。"
+    },
+    "en": {
+      "summary": "Skull-shaped Puffball. A large Lycoperdaceae with a distinctive wrinkled spherical form resembling a human brain — the source of the Japanese name 'brain mushroom'. Develops on the ground in secondary woodlands; releases spores like smoke when mature.",
+      "habitat_hint": "Secondary woodland floors, shrine groves, riparian woods, residential gardens, and lawns.",
+      "finding_tips": "From summer to autumn look on secondary woodland floors for distinctive wrinkled spherical mushrooms resembling a brain. Edible when young but resembles some toxic species — confirm identification."
+    },
+    "zh": {
+      "summary": "头状秃马勃（脑菌）。大型马勃科，独特皱褶球形似人脑是日文俗名『脑菌』由来。在杂木林地面发生，成熟时如烟雾般释放孢子。",
+      "habitat_hint": "杂木林林床、神社林、河岸林、住宅区庭院、草坪。",
+      "finding_tips": "夏至秋在杂木林林床寻找具人脑状皱褶球形的菇。幼时可食但有类似毒菌，需仔细鉴定。"
+    }
+  },
+  "Atrichum undulatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナミガタタチゴケ。湿った林床や林縁に群生する中型の蘚類（コケ）。葉が波状に縮れることが和名の由来。湿った場所を好み、林床を緑に覆います。",
+      "habitat_hint": "湿った林床、林縁、谷地林、神社林、河畔林の地表。",
+      "finding_tips": "通年、湿った林床や林縁で葉が波状に縮れる中型の蘚類を群生する姿を探します。"
+    },
+    "en": {
+      "summary": "Wavy Catharinea Moss. A medium moss forming colonies on damp forest floors and edges. Leaves with wavy crinkles — the source of the Japanese name 'wave-shape standing moss'. Prefers damp sites, covering forest floors green.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, shrine groves, and riparian forest ground.",
+      "finding_tips": "Year-round, look on damp forest floors and edges for medium mosses with wavy crinkled leaves forming colonies."
+    },
+    "zh": {
+      "summary": "波叶仙鹤藓。潮湿林床与林缘成片生长的中型藓类。叶具波状皱褶是日文俗名由来。喜湿生境，覆盖林床。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、神社林、河岸林地表。",
+      "finding_tips": "全年在潮湿林床与林缘寻找具波状皱褶叶、成片生长的中型藓类。"
+    }
+  },
+  "Conocephalum conicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジャゴケ。湿った林床や沢沿いの岩、湿った地面に生える大型の苔類で、葉状体が深緑色で蛇の鱗のような独特の模様。Dumortiera hirsuta（同じく「ジャゴケ」）と同種の場合あり。",
+      "habitat_hint": "湿った林床、沢沿いの岩、滝の周辺、神社林の湿った場所、河畔林。",
+      "finding_tips": "通年、湿った岩や林床で深緑色の蛇の鱗様の模様を持つ大型の葉状体のコケを探します。"
+    },
+    "en": {
+      "summary": "Great Scented Liverwort. A large liverwort of damp forest floors, streamside rocks, and damp ground. Dark-green thallus with distinctive snake-scale patterning. Sometimes treated as same species as Dumortiera hirsuta (both called 'jagoke').",
+      "habitat_hint": "Damp forest floors, streamside rocks, around waterfalls, damp places in shrine groves, and riparian woods.",
+      "finding_tips": "Year-round, look on damp rocks and forest floors for large thallose liverworts with dark-green snake-scale-like patterning."
+    },
+    "zh": {
+      "summary": "蛇苔。潮湿林床、溪边岩石与潮湿地面的大型苔类，叶状体深绿色具独特蛇鳞状纹。有时与毛地钱视为同种（皆称『蛇苔』）。",
+      "habitat_hint": "潮湿林床、溪边岩石、瀑布周边、神社林潮湿处、河岸林。",
+      "finding_tips": "全年在潮湿岩石与林床寻找深绿色具蛇鳞纹的大型叶状体苔类。"
+    }
+  },
+  "Zoysia japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シバ（ノシバ）。日本固有の多年生イネ科で、芝草として日本で最も普通に利用される。匍匐茎で密な芝面を作り、踏圧に強く、ゴルフ場や運動場、公園に広く植栽。",
+      "habitat_hint": "芝地、運動場、ゴルフ場、公園、河川敷、土手、神社境内。",
+      "finding_tips": "5〜8月、芝地や運動場で匍匐茎で広がる密な多年生イネ科を探します。穂は短い円柱形で、夏に立ち上がります。"
+    },
+    "en": {
+      "summary": "Japanese Lawngrass. A Japan-endemic perennial grass — the most commonly used turfgrass in Japan. Spreads by stolons forming dense turf; tolerates trampling; widely planted on golf courses, sports fields, and parks.",
+      "habitat_hint": "Lawns, sports fields, golf courses, parks, riverbanks, banks, and shrine grounds.",
+      "finding_tips": "From May to August look on lawns and sports fields for dense creeping perennial grasses spreading by stolons. Short cylindrical spikes rise in summer."
+    },
+    "zh": {
+      "summary": "结缕草（日本结缕草）。日本固有的多年生禾本科，是日本最常用的草坪草。匍匐茎形成致密草坪，耐踩踏，广作高尔夫球场、运动场与公园栽植。",
+      "habitat_hint": "草坪、运动场、高尔夫球场、公园、河滩、堤岸、神社境内。",
+      "finding_tips": "五至八月在草坪与运动场寻找靠匍匐茎扩散、密集的多年生禾本科。穗短圆柱形，夏季抽出。"
+    }
+  },
+  "Chloranthus japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒトリシズカ。日本固有の多年草のセンリョウ科で、明るい雑木林の林床に生えます。早春に白い穂状の独特な花を1本立て、4枚の葉が対生に2対つくのが特徴。和名は静御前にちなみます。",
+      "habitat_hint": "明るい雑木林の林床、林縁、神社林、半日陰の斜面、河畔林。",
+      "finding_tips": "4〜5月、明るい雑木林の林床で4枚の葉が対生に2対つき、白い穂状の花を1本立てる多年草を探します。"
+    },
+    "en": {
+      "summary": "Japanese Chloranthus. A Japan-endemic perennial Chloranthaceae of bright secondary woodland floors. In early spring, a single white spike-like inflorescence rises from a whorl of four leaves arranged as two opposite pairs. The Japanese name 'hitori-shizuka' refers to Shizuka-gozen (a famous classical figure).",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, shrine groves, partly shaded slopes, and riparian woods.",
+      "finding_tips": "From April to May look on bright secondary woodland floors for perennials with four leaves in two opposite pairs and a single white spike-like inflorescence."
+    },
+    "zh": {
+      "summary": "银线草。日本固有的金粟兰科多年草，生于明亮杂木林林床。早春从 4 枚对生 2 对叶中抽出 1 条白色穗状花。日文俗名取自历史人物静御前。",
+      "habitat_hint": "明亮杂木林林床、林缘、神社林、半阴斜坡、河岸林。",
+      "finding_tips": "四至五月在明亮杂木林林床寻找具 4 叶（2 对生）、抽出 1 条白色穗状花的多年草。"
+    }
+  },
+  "Ludwigia epilobioides": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チョウジタデ。湿地や水田、河川敷の湿地に生える一年草のアカバナ科。黄色い4弁花を葉腋に咲かせ、果実が「丁子」（クローブ）のような形をしているのが和名「丁字蓼」の由来。",
+      "habitat_hint": "水田、湿地、河川敷の湿地、休耕田、用水路の縁。",
+      "finding_tips": "7〜10月、水田や湿地で黄色い4弁花と細長い「丁子」状の果実を持つ一年草を探します。"
+    },
+    "en": {
+      "summary": "Water Primrose. An annual Onagraceae of wetlands, rice paddies, and wet riverbanks. Yellow 4-petalled flowers in leaf axils; the fruits are shaped like cloves ('chōji') — the source of the Japanese name 'clove-knotweed'.",
+      "habitat_hint": "Rice paddies, wetlands, wet riverbanks, fallow paddies, and irrigation channel edges.",
+      "finding_tips": "From July to October look in paddies and wetlands for annuals with yellow 4-petalled axillary flowers and slender clove-shaped fruits."
+    },
+    "zh": {
+      "summary": "丁香蓼。水田、湿地与河滩湿地的一年生柳叶菜科。叶腋开黄色四瓣花，果实细长如『丁子』（丁香）是日文俗名『丁字蓼』由来。",
+      "habitat_hint": "水田、湿地、河滩湿地、休耕田、灌溉沟边。",
+      "finding_tips": "七至十月在水田与湿地寻找具叶腋黄色四瓣花、细长『丁子』状果的一年草。"
+    }
+  },
+  "Lenzites betulinus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シハイタケ。広葉樹（特にカバノキ類）の倒木や朽木に発生するサルノコシカケ型キノコで、傘の裏面に放射状の襞があるのが特徴。襞型多孔菌の代表。",
+      "habitat_hint": "雑木林の倒木・朽木（特にカバノキ類）、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "通年、広葉樹（特にカバノキ類）の倒木や朽木で傘の裏面に放射状の襞を持つ硬いサルノコシカケを探します。"
+    },
+    "en": {
+      "summary": "Birch Mazegill. A bracket fungus on dead broadleaf logs (especially Betulaceae) with radiating gill-like undersides — a 'gilled polypore'.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands (especially Betulaceae), shrine groves, and riparian forests.",
+      "finding_tips": "Year-round, look on broadleaf (especially birch) fallen logs and rotting wood for hard polypores with radiating gill-like undersides."
+    },
+    "zh": {
+      "summary": "桦多孔菌。生于阔叶倒木与朽木（尤桦木科）上的多孔菌，菌盖背面具放射状褶为特征。是褶型多孔菌代表。",
+      "habitat_hint": "杂木林倒木与朽木（尤桦木科）、神社林倒木、河岸林朽木。",
+      "finding_tips": "全年在阔叶（尤桦木科）倒木与朽木上寻找菌盖背面具放射状褶的硬质多孔菌。"
+    }
+  },
+  "Psilocladus ruficollis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカクビハナバチ近縁の小型ハナバチで、首が赤褐色を帯びるのが特徴。花を訪れて吸蜜・送粉する花粉媒介者で、地中に巣を作ります。",
+      "habitat_hint": "花のある草地、農地、林縁、公園の花壇、河川敷。",
+      "finding_tips": "4〜10月、花の周りで首が赤褐色を帯びる小型のハナバチを探します。"
+    },
+    "en": {
+      "summary": "A small bee with reddish-brown 'neck' coloration. Visits flowers for nectar; a pollinator that nests in the ground.",
+      "habitat_hint": "Flowering grasslands, farmland, forest edges, park flower beds, and riverbanks.",
+      "finding_tips": "From April to October look around flowers for small bees with reddish-brown necks."
+    },
+    "zh": {
+      "summary": "赤颈蜂近缘种。小型蜂科，颈部带红褐色为特征。访花吸蜜送粉，是传粉者，在地下筑巢。",
+      "habitat_hint": "开花草地、农田、林缘、公园花坛、河滩。",
+      "finding_tips": "四至十月在花朵周边寻找颈部带红褐色的小型蜂。"
+    }
+  },
+  "Glyphomitrium humillimum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメノキシバゴケ。樹幹や岩に着生する小型の蘚類（コケ）。淡緑色の小型のクッション状の群落を形成し、樹皮の上で目立たない。",
+      "habitat_hint": "樹幹、岩、神社林の老木、河畔林、湿った場所。",
+      "finding_tips": "通年、樹幹や岩に着生する淡緑色の小型のクッション状のコケを探します。"
+    },
+    "en": {
+      "summary": "Humble Glyphomitrium Moss. A small moss epiphytic on tree trunks and rocks. Forms pale-green small cushion-like colonies; inconspicuous on bark.",
+      "habitat_hint": "Tree trunks, rocks, old trees in shrine groves, riparian woods, and damp places.",
+      "finding_tips": "Year-round, look on tree trunks and rocks for pale-green small cushion-like mosses."
+    },
+    "zh": {
+      "summary": "矮小腐木藓。附生于树干与岩石的小型藓类。形成淡绿色小型垫状群落，在树皮上不显眼。",
+      "habitat_hint": "树干、岩石、神社林老树、河岸林、潮湿处。",
+      "finding_tips": "全年在树干与岩石寻找淡绿色小型垫状苔藓。"
+    }
   }
 }
