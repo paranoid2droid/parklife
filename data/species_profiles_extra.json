@@ -24264,5 +24264,185 @@
       "habitat_hint": "港湾、河口、海岸、滩涂、内陆大湖。",
       "finding_tips": "十至四月在港湾与河口寻找背暗灰至偏黑的中至大型鸥。比织女银鸥更小、背更深是关键识别。"
     }
+  },
+  "Pseudosasa japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤダケ。日本固有の中型のタケで、稈が真っ直ぐで矢の柄に使われたことが和名「矢竹」の由来。庭園や公園、神社林に植栽されます。",
+      "habitat_hint": "庭園、公園植栽、寺社境内、住宅地の竹林、雑木林の竹林。",
+      "finding_tips": "通年、庭園や公園で稈が真っ直ぐで節間が長い中型のタケを探します。モウソウチクより細く、葉が大型で美しい。"
+    },
+    "en": {
+      "summary": "Arrow Bamboo. A Japan-endemic medium bamboo whose straight culms were used for arrow shafts — the source of the Japanese name 'arrow bamboo'. Planted in gardens, parks, and shrine groves.",
+      "habitat_hint": "Gardens, park plantings, temple/shrine grounds, residential bamboo plantings, and secondary woodland bamboo groves.",
+      "finding_tips": "Year-round, look in gardens and parks for medium bamboos with straight culms and long internodes. Thinner than moso bamboo with beautiful large leaves."
+    },
+    "zh": {
+      "summary": "矢竹。日本固有的中型竹，竿直曾用作箭杆是日文俗名『矢竹』由来。常作庭园、公园与神社林栽植。",
+      "habitat_hint": "庭园、公园栽植、寺社境内、住宅区竹林、杂木林竹林。",
+      "finding_tips": "全年在庭园与公园寻找竿直、节间长的中型竹。比毛竹细、叶大美丽。"
+    }
+  },
+  "Adenocaulon himalaicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ノブキ。湿った林床や林縁に生える多年草のキク科で、葉が大型のフキ様で柔らかい。夏に白い小さな頭花を散房状に咲かせ、果実に粘液性の腺があり衣服にひっつきます。",
+      "habitat_hint": "湿った林床、林縁、谷地林、神社林、河畔林。",
+      "finding_tips": "8〜10月、湿った林床で大型のフキ様の葉と白い小頭花の散房花序を持つ多年草を探します。果実が衣服にくっつくのも特徴。"
+    },
+    "en": {
+      "summary": "Himalayan Pioneer Plant. A perennial Asteraceae of damp forest floors and edges. Large soft butterbur-like leaves; flat-topped clusters of small white flower heads in summer. Fruits with sticky glands stick to clothing.",
+      "habitat_hint": "Damp forest floors, forest edges, valley woods, shrine groves, and riparian woods.",
+      "finding_tips": "From August to October look on damp forest floors for perennials with large soft butterbur-like leaves and flat-topped clusters of small white flower heads. Sticky fruits cling to clothing."
+    },
+    "zh": {
+      "summary": "和尚菜。潮湿林床与林缘的菊科多年草，叶大型如蜂斗菜柔软。夏季伞房状开白色小头状花。果实具粘液腺粘附衣物。",
+      "habitat_hint": "潮湿林床、林缘、谷地林、神社林、河岸林。",
+      "finding_tips": "八至十月在潮湿林床寻找具大型如蜂斗菜叶、白色小头状花伞房花序的多年草。果实粘衣物。"
+    }
+  },
+  "Diplopterygium glaucum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウラジロ。日本固有の大型常緑シダで、葉裏が白いことが和名の由来。葉が独特のY字形に分岐するシダ植物。お正月飾りに使われる縁起物。",
+      "habitat_hint": "雑木林の林床、林縁、神社林、半日陰の斜面、河畔林。",
+      "finding_tips": "通年、雑木林で葉が独特のY字形に分岐し、葉裏が白い大型の常緑シダを探します。お正月飾りの定番。"
+    },
+    "en": {
+      "summary": "Old World Forked Fern. A Japan-endemic large evergreen fern with white underside leaves — the source of the Japanese name 'white-underside'. Distinctive Y-shaped branching frond. Used as auspicious New Year decoration.",
+      "habitat_hint": "Secondary woodland floors, forest edges, shrine groves, partly shaded slopes, and riparian woods.",
+      "finding_tips": "Year-round, look in secondary woodlands for large evergreen ferns with distinctive Y-shaped branching fronds and white undersides. A staple of New Year decoration."
+    },
+    "zh": {
+      "summary": "里白。日本固有的大型常绿蕨，叶背白色是日文俗名『里白』由来。叶呈独特 Y 字形分叉。是日本新年装饰的吉祥物。",
+      "habitat_hint": "杂木林林床、林缘、神社林、半阴斜坡、河岸林。",
+      "finding_tips": "全年在杂木林寻找叶呈 Y 字形分叉、叶背白色的大型常绿蕨。新年装饰常用。"
+    }
+  },
+  "Stereum ostrea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カワラタケ近縁種で、広葉樹の倒木や朽木に発生するサルノコシカケ型キノコ。傘表面に同心円状の縞模様と細かい毛があり、貝殻状に重なって生えます。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "通年、広葉樹の倒木や朽木で同心円状の縞模様と細かい毛のある傘を持つ貝殻状のキノコを探します。"
+    },
+    "en": {
+      "summary": "False Turkey Tail. Related to Trametes; a bracket fungus on dead broadleaf logs and rotting wood. Cap surface with concentric stripes and fine hairs; grows in overlapping shell-like clusters.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, and riparian forests.",
+      "finding_tips": "Year-round, look on broadleaf fallen logs and rotting wood for shell-like overlapping fungi with concentric stripes and fine hairs on the cap."
+    },
+    "zh": {
+      "summary": "扇形干酪菌（贝壳叠层菌）。生于阔叶倒木与朽木上的多孔菌。菌盖表面具同心圆条纹与细毛，呈贝壳状重叠生长。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
+      "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖具同心圆条纹与细毛、贝壳状重叠的真菌。"
+    }
+  },
+  "Polionemobius taprobanense": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネッタイシバスズ。小型のコオロギで、芝地や河川敷に生息。夜に「ジー…」と弱く連続して鳴きます。地味な茶褐色で目立たない。",
+      "habitat_hint": "芝地、河川敷の草地、農地の縁、公園、住宅地の庭。",
+      "finding_tips": "7〜10月、夜に芝地や河川敷で「ジー…」と弱く連続して鳴く小型コオロギを探します。"
+    },
+    "en": {
+      "summary": "Tropical Trig Cricket. A small cricket living in lawns and on riverbanks. Sings a soft continuous 'jiii...' at night. Drab brown and inconspicuous.",
+      "habitat_hint": "Lawns, riverside grasslands, farmland margins, parks, and residential gardens.",
+      "finding_tips": "From July to October at night listen in lawns and riverbanks for small crickets with a soft continuous 'jiii...' call."
+    },
+    "zh": {
+      "summary": "热带草蟋。小型蟋蟀，栖于草坪与河滩。夜间发出『ji-』微弱连续鸣声。茶褐色不显眼。",
+      "habitat_hint": "草坪、河滩草地、农田边缘、公园、住宅区庭院。",
+      "finding_tips": "七至十月夜间在草坪与河滩聆听『ji-』微弱连续鸣声的小型蟋蟀。"
+    }
+  },
+  "Phalacrocorax pelagicus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメウ。小型のウで、夏羽は頭部と頸部に金属光沢のある緑色〜紫色の婚姻色。日本では本州中部以北の海岸で繁殖し、岩礁性海岸に住みます。",
+      "habitat_hint": "岩礁性海岸、海上、漁港、河口、海岸近くの断崖。",
+      "finding_tips": "通年、岩礁性海岸で潜水する小型のウを探します。カワウやウミウより小型で、夏羽の金属緑色の頸部が決め手。"
+    },
+    "en": {
+      "summary": "Pelagic Cormorant. A small cormorant; breeding plumage shows metallic green to purple sheen on head and neck. Breeds along Honshu and northward in Japan, living on rocky coasts.",
+      "habitat_hint": "Rocky coasts, open sea, fishing harbours, estuaries, and coastal cliffs.",
+      "finding_tips": "Year-round, look on rocky coasts for small diving cormorants. Smaller than Great Cormorant and Japanese Cormorant; metallic green neck in breeding plumage is diagnostic."
+    },
+    "zh": {
+      "summary": "海鸬鹚。小型鸬鹚，繁殖羽头颈具金属绿至紫色光泽。日本于本州中部以北海岸繁殖，栖于岩礁海岸。",
+      "habitat_hint": "岩礁海岸、海上、渔港、河口、海岸悬崖。",
+      "finding_tips": "全年在岩礁海岸寻找潜水的小型鸬鹚。比普通鸬鹚与海鸬鹚（暗绿背）小，繁殖羽颈部金属绿色是关键识别。"
+    }
+  },
+  "Ilex integra": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モチノキ。常緑高木のモチノキ科で、雑木林や神社林、海岸近くに生えます。樹皮から鳥もちを採ったことが和名「黐」の由来。雌雄異株で、雌株は秋〜冬に赤い小球形果実が美しい。",
+      "habitat_hint": "雑木林、神社林、海岸近くの林、公園植栽、寺社境内、河畔林。",
+      "finding_tips": "果期10〜2月、雌株では赤い小球形果実を多数つける常緑高木を探します。葉は楕円形で光沢、葉縁が滑らか。"
+    },
+    "en": {
+      "summary": "Mochinoki Holly. An evergreen Aquifoliaceae tree of secondary woodlands, shrine groves, and coastal areas. Bird-lime was historically extracted from the bark — the source of the Japanese name 'mochi (sticky)'. Dioecious; female trees bear beautiful red small globose fruits autumn-winter.",
+      "habitat_hint": "Secondary woodlands, shrine groves, coastal woods, park plantings, temple/shrine grounds, and riparian woods.",
+      "finding_tips": "Fruits October-February. Look for evergreen trees with many red small globose fruits on female trees. Glossy elliptical entire-margined leaves."
+    },
+    "zh": {
+      "summary": "全缘冬青。冬青科常绿乔木，生于杂木林、神社林与海岸近郊。树皮曾提取捕鸟胶，是日文俗名『黐』由来。雌雄异株，雌株秋至冬结红色小球形果美丽。",
+      "habitat_hint": "杂木林、神社林、海岸近郊林、公园栽植、寺社境内、河岸林。",
+      "finding_tips": "果期十至二月雌株结红色小球形果实多数。叶椭圆形具光泽、缘全缘。"
+    }
+  },
+  "Quercus acuta": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカガシ。日本固有の常緑高木のブナ科で、暖地の山地に生えます。樹皮や材が赤いことが和名「赤樫」の由来。葉は革質で大型、ドングリは2年で熟す独特の生態。",
+      "habitat_hint": "山地の暖地林、神社林、寺院境内、公園植栽、海岸近くの林。",
+      "finding_tips": "通年、暖地の山地や神社林で樹皮が赤褐色の常緑高木を探します。葉は革質で大型、葉縁が滑らか（鋸歯がない）のがアカガシの識別点。"
+    },
+    "en": {
+      "summary": "Japanese Red Oak. A Japan-endemic evergreen Fagaceae tree of warm-area mountains. Red bark and wood — the source of the Japanese name 'red oak'. Large leathery leaves; acorns take 2 years to mature — distinctive.",
+      "habitat_hint": "Warm-area montane forests, shrine groves, temple grounds, park plantings, and coastal woods.",
+      "finding_tips": "Year-round, look in warm-area mountains and shrine groves for evergreen trees with reddish-brown bark. Large leathery leaves with entire (non-serrated) margins identify this species."
+    },
+    "zh": {
+      "summary": "赤栎（红栎）。日本固有的壳斗科常绿乔木，生于暖地山地。树皮与木材偏红是日文俗名『赤樫』由来。叶革质大型，橡果 2 年成熟独特。",
+      "habitat_hint": "山地暖地林、神社林、寺院境内、公园栽植、海岸近郊林。",
+      "finding_tips": "全年在暖地山地与神社林寻找树皮红褐色的常绿乔木。叶革质大型、缘全缘（无锯齿）可识别。"
+    }
+  },
+  "Fimbristylis tentsuki": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメテンツキ。湿地や水田畦、河川敷の湿地に生える小型多年生のカヤツリグサ科。テンツキより小型で、茶褐色の小穂を1〜3本散形に立てます。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、ため池の縁、休耕田。",
+      "finding_tips": "8〜10月、湿地や水田畦で茶褐色の小穂を1〜3本散形に立てる小型多年生カヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Small Fimbry. A small perennial sedge of wetlands, paddy bunds, and wet riverbanks. Smaller than Three-spike Fimbry, with 1-3 brown spikelets in umbel-like clusters.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, pond edges, and fallow paddies.",
+      "finding_tips": "From August to October look in wetlands and paddy bunds for small perennial sedges with 1-3 brown spikelets in umbel-like clusters."
+    },
+    "zh": {
+      "summary": "小飘拂草。湿地、水田田埂与河滩湿地的小型多年生莎草科。比三穗飘拂草小，茶褐色小穗 1-3 个伞形排列。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、池塘边、休耕田。",
+      "finding_tips": "八至十月在湿地与水田田埂寻找具茶褐色 1-3 个小穗伞形排列的小型多年生莎草。"
+    }
+  },
+  "Persicaria muricata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤノネグサ。湿地や水田畦に生える一年草のタデ科で、茎に下向きの鋭い棘があり、葉は矢じり形（ヤノネ＝矢の根）。秋に淡桃色〜白の小花が球状に集まります。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、河川敷の湿地、用水路の縁。",
+      "finding_tips": "8〜10月、湿地や水田畦で矢じり形の葉と下向きの鋭い棘のある茎を持つ一年生タデを探します。ママコノシリヌグイに似ますが葉の形が違う。"
+    },
+    "en": {
+      "summary": "Arrowleaf Smartweed (Yanone-gusa). An annual smartweed of wetlands and paddy bunds with downward-pointing prickles on the stems and arrow-shaped leaves — the source of the Japanese name 'arrowhead grass'. Small pale-pink to white flowers in globose clusters in autumn.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, wet riverbanks, and irrigation channel edges.",
+      "finding_tips": "From August to October look in wetlands and paddy bunds for annual smartweeds with arrow-shaped leaves and downward-prickly stems. Distinguished from Bristled Smartweed by leaf shape."
+    },
+    "zh": {
+      "summary": "箭叶蓼（矢之根草）。湿地与水田田埂的一年生蓼科，茎具下向锐刺，叶箭头形是日文俗名『矢之根』由来。秋季开淡粉至白色球状小花。",
+      "habitat_hint": "湿地、水田田埂、池塘边、河滩湿地、灌溉沟边。",
+      "finding_tips": "八至十月在湿地与水田田埂寻找具箭头形叶、茎下向锐刺的一年生蓼。叶形与刺蓼区分。"
+    }
   }
 }
