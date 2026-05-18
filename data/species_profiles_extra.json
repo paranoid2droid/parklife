@@ -24804,5 +24804,185 @@
       "habitat_hint": "滩涂、河口汽水域、盐沼、红树林（冲绳）。",
       "finding_tips": "全年（暖季活跃）在滩涂与河口寻找用胸鳍在陆地跳跃移动的独特小型虾虎鱼。"
     }
+  },
+  "Aulacocheilus sibiricus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ルリオオキノコ。中型のオオキノコムシ科で、藍色〜紫色の金属光沢のある美しい体色。広葉樹の倒木に発生する菌類を食べます。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "5〜9月、雑木林の倒木や朽木で藍色〜紫色の金属光沢のある中型甲虫を探します。倒木に発生する菌類の周辺で見つかります。"
+    },
+    "en": {
+      "summary": "Siberian Pleasing Fungus Beetle. A medium pleasing fungus beetle with beautiful metallic blue to purple sheen. Feeds on fungi developing on broadleaf fallen logs.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, and riparian forests.",
+      "finding_tips": "From May to September look on fallen logs and rotting wood in secondary woodlands for medium beetles with metallic blue to purple sheen. Found near fungi developing on logs."
+    },
+    "zh": {
+      "summary": "西伯利亚大蕈甲。中型大蕈甲科，具蓝至紫色金属光泽美丽。取食阔叶倒木上的真菌。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
+      "finding_tips": "五至九月在杂木林倒木与朽木上寻找具蓝至紫色金属光泽的中型甲虫。倒木真菌周边可见。"
+    }
+  },
+  "Hierodula chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ムネアカハラビロカマキリ。中国原産の大型カマキリで、近年日本に侵入し急速に分布拡大。在来のハラビロカマキリより大型で、胸部下面が赤いのが識別の決め手。",
+      "habitat_hint": "雑木林、林縁、住宅地の庭、農地、公園。",
+      "finding_tips": "7〜11月、雑木林や住宅地で大型のカマキリを探します。胸部下面の赤色がハラビロカマキリとの識別ポイント。近年の侵入種で問題視されています。"
+    },
+    "en": {
+      "summary": "Chinese Mantis. A large Chinese-origin mantis recently invading Japan and rapidly expanding its range. Larger than the native Hierodula patellifera and distinguished by red colour on the underside of the thorax.",
+      "habitat_hint": "Secondary woodlands, forest edges, residential gardens, farmland, and parks.",
+      "finding_tips": "From July to November look in secondary woodlands and residential areas for large mantises. Red thoracic underside distinguishes from native species. A recent invasive of concern."
+    },
+    "zh": {
+      "summary": "中华大刀螳（胸赤宽腹螳螂）。原产中国的大型螳螂，近年入侵日本并迅速扩散。比本土宽腹螳螂大，胸部下面红色是关键识别。",
+      "habitat_hint": "杂木林、林缘、住宅区庭院、农田、公园。",
+      "finding_tips": "七至十一月在杂木林与住宅区寻找大型螳螂。胸部下面红色与本土宽腹螳螂区分。近年入侵种，引起关注。"
+    }
+  },
+  "Vanellus vanellus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タゲリ。中型のチドリで、頭部に長い冠羽があり、緑色の金属光沢のある背と独特の二音「ミャー」のような鳴き声で知られます。日本では冬鳥として農地や河川敷に渡来します。",
+      "habitat_hint": "水田、農地、河川敷、湿地、グラウンドの周辺。",
+      "finding_tips": "11〜3月、水田や農地で頭部の長い冠羽と緑色金属光沢の背を持つ中型チドリを探します。猫のような「ミャー」という鳴き声も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Northern Lapwing. A medium plover with a long head crest, green metallic-sheen back, and distinctive two-note 'meow'-like call. Winter visitor to Japan, found in farmland and on riverbanks.",
+      "habitat_hint": "Rice paddies, farmland, riverbanks, wetlands, and around athletic grounds.",
+      "finding_tips": "From November to March look in paddies and farmland for medium plovers with long head crests and green metallic-sheen backs. The cat-like 'meow' call also helps identify."
+    },
+    "zh": {
+      "summary": "凤头麦鸡。中型鸻，头部具长冠羽，背具绿色金属光泽，著名独特两音『喵』状鸣声。日本冬候鸟，飞临农田与河滩。",
+      "habitat_hint": "水田、农田、河滩、湿地、运动场周边。",
+      "finding_tips": "十一至三月在水田与农田寻找具头部长冠羽、绿色金属光泽背的中型鸻。猫叫『喵』声也可助识别。"
+    }
+  },
+  "Paederus fuscipes": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオバアリガタハネカクシ。小型のハネカクシで、赤い胸部と藍色の上翅、長い体型が独特。体液に強い毒（ペデリン）を含み、皮膚に付くと水疱性皮膚炎を起こすため触らないこと。",
+      "habitat_hint": "水田、湿地、河川敷、農地、住宅地（夏は灯火に飛来）。",
+      "finding_tips": "5〜10月、水田や湿地、夜の外灯で赤い胸部と藍色の上翅、長い体型を持つ小型甲虫を探します。絶対に潰したり触ったりしないこと（皮膚炎の原因）。"
+    },
+    "en": {
+      "summary": "Rove Beetle (Paederus). A small rove beetle with distinctive red thorax, dark-blue elytra, and elongated body. Body fluids contain strongly toxic pederin causing blistering dermatitis on skin contact — do not touch.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, farmland, and residential areas (attracted to lights in summer).",
+      "finding_tips": "From May to October look in paddies and wetlands and at night lights for small elongated beetles with red thorax and dark-blue elytra. Never crush or touch (causes dermatitis)."
+    },
+    "zh": {
+      "summary": "毒隐翅虫。小型隐翅虫，红色胸部配深蓝色鞘翅、体型细长独特。体液含强毒（毒隐翅素），接触皮肤引起水疱性皮炎，切勿触摸。",
+      "habitat_hint": "水田、湿地、河滩、农田、住宅区（夏季趋光）。",
+      "finding_tips": "五至十月在水田、湿地与夜间灯下寻找具红胸蓝鞘翅、细长体的小型甲虫。切勿压碎或触摸（皮炎源）。"
+    }
+  },
+  "Turdus obscurus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マミチャジナイ。中型のツグミで、頭部に白い眉斑（マミ）があるのが和名の由来。日本では春・秋の渡り期に林床や草地で観察されます。",
+      "habitat_hint": "雑木林の林床、林縁、河畔林、神社林、農地。",
+      "finding_tips": "4〜5月と10〜11月、雑木林の林床で頭部に白い眉斑を持つツグミを探します。胸〜腹が淡橙色を帯びるのも識別の手がかり。"
+    },
+    "en": {
+      "summary": "Eyebrowed Thrush. A medium thrush with white eyebrows on the head — the source of the Japanese name 'eyebrow'. Observed in Japan on woodland floors and grasslands during spring and autumn migration.",
+      "habitat_hint": "Secondary woodland floors, forest edges, riparian woods, shrine groves, and farmland.",
+      "finding_tips": "From April-May and October-November look on woodland floors for thrushes with white eyebrows. Pale-orange tinted breast to belly also helps identify."
+    },
+    "zh": {
+      "summary": "白眉鸫。中型鸫，头部具白色眉纹是日文俗名『眉』由来。日本春秋迁徙期可在林床与草地观察。",
+      "habitat_hint": "杂木林林床、林缘、河岸林、神社林、农田。",
+      "finding_tips": "四至五月与十至十一月在杂木林林床寻找具白色眉纹的鸫。胸至腹带淡橙色也可助识别。"
+    }
+  },
+  "Oncocera semirubella": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカマダラメイガ。小型のメイガで、淡紅色〜橙赤色の翅に独特の模様。マメ科植物の花穂を食害する幼虫を持ちます。",
+      "habitat_hint": "草地、農地、河川敷、林縁、住宅地の庭。",
+      "finding_tips": "5〜9月、草地や農地で淡紅色〜橙赤色の翅を持つ小型メイガを探します。マメ科の花穂周辺で見つかります。"
+    },
+    "en": {
+      "summary": "Rosy-streaked Pyralid. A small pyralid moth with pale-red to orange-red wings bearing distinctive patterns. Caterpillars feed on legume flower spikes.",
+      "habitat_hint": "Grasslands, farmland, riverbanks, forest edges, and residential gardens.",
+      "finding_tips": "From May to September look in grasslands and farmland for small moths with pale-red to orange-red wings. Found around legume flower spikes."
+    },
+    "zh": {
+      "summary": "玫瑰条螟。小型螟蛾，淡红至橙红色翅具独特纹路。幼虫为害豆科花穗。",
+      "habitat_hint": "草地、农田、河滩、林缘、住宅区庭院。",
+      "finding_tips": "五至九月在草地与农田寻找具淡红至橙红色翅的小型螟蛾。豆科花穗周边可见。"
+    }
+  },
+  "Chlaenius micans": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオアトボシアオゴミムシ。中型〜大型のゴミムシで、緑色の金属光沢のある上翅に2つの黄色い斑点があります。湿った場所に住み、他の昆虫を捕食する益虫。",
+      "habitat_hint": "湿地、河川敷、農地、雑木林の林床、神社林。",
+      "finding_tips": "通年（暖かい季節に活動的）、湿地や河川敷で緑色金属光沢の上翅に黄色い2斑点を持つ中型〜大型ゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Two-spotted Green Ground Beetle. A medium to large ground beetle with metallic green elytra bearing two yellow spots. Lives in damp places; a predatory beneficial insect.",
+      "habitat_hint": "Wetlands, riverbanks, farmland, secondary woodland floors, and shrine groves.",
+      "finding_tips": "Year-round (most active in warm seasons), look in wetlands and on riverbanks for medium to large ground beetles with metallic green elytra and two yellow spots."
+    },
+    "zh": {
+      "summary": "黄斑青步甲。中至大型步甲，鞘翅绿色金属光泽配 2 个黄斑。栖于潮湿处，是捕食性益虫。",
+      "habitat_hint": "湿地、河滩、农田、杂木林林床、神社林。",
+      "finding_tips": "全年（暖季活跃）在湿地与河滩寻找具绿色金属光泽鞘翅、2 个黄斑的中至大型步甲。"
+    }
+  },
+  "Marumba sperchius": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "クチバスズメ。大型のスズメガで、淡褐色〜灰褐色の翅に独特の波状模様。樹幹や葉裏で休み、夜間に活動。幼虫はナラ類、クヌギなどブナ科植物を食害します。",
+      "habitat_hint": "雑木林、林縁、公園のクヌギ・コナラ、神社林、河畔林。",
+      "finding_tips": "5〜10月、夜間に外灯に飛来する大型のスズメガを探します。淡褐色〜灰褐色の翅に波状模様が識別の決め手。"
+    },
+    "en": {
+      "summary": "Brown Hawkmoth. A large hawkmoth with pale-brown to grey-brown wings bearing distinctive wavy patterns. Rests on tree trunks and leaf undersides; nocturnal. Caterpillars feed on Fagaceae (oaks, etc.).",
+      "habitat_hint": "Secondary woodlands, forest edges, parks with oaks, shrine groves, and riparian woods.",
+      "finding_tips": "From May to October look at night lights for large hawkmoths. Pale-brown to grey-brown wings with wavy patterns are diagnostic."
+    },
+    "zh": {
+      "summary": "栎天蛾。大型天蛾，翅淡褐至灰褐色具独特波纹。停于树干与叶背，夜间活动。幼虫为害栎类（壳斗科）。",
+      "habitat_hint": "杂木林、林缘、有麻栎与小楢的公园、神社林、河岸林。",
+      "finding_tips": "五至十月夜间在路灯下寻找大型天蛾。翅淡褐至灰褐色具波纹是关键识别。"
+    }
+  },
+  "Xestia dilatata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ウスチャヤガ。中型のヤガで、淡褐色の翅に独特の模様。樹幹や葉裏で休み、夜間に外灯に飛来します。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、住宅地の庭木、神社林。",
+      "finding_tips": "5〜10月、樹幹や葉裏、夜の外灯で淡褐色の翅を持つ中型ガを探します。"
+    },
+    "en": {
+      "summary": "Pale Brown Noctuid. A medium noctuid moth with pale-brown wings bearing distinctive patterns. Rests on tree trunks and leaf undersides; comes to lights at night.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, residential trees, and shrine groves.",
+      "finding_tips": "From May to October look on tree trunks, leaf undersides, and at night lights for medium pale-brown moths."
+    },
+    "zh": {
+      "summary": "淡褐夜蛾。中型夜蛾，翅淡褐色具独特纹路。停于树干与叶背，夜间趋光。",
+      "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
+      "finding_tips": "五至十月在树干与叶背、夜间灯下寻找淡褐色翅的中型蛾。"
+    }
+  },
+  "Heptophylla picea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガチャコガネ。中型のコガネムシで、淡茶褐色の体色。芝生や畑に被害を与える害虫として知られ、幼虫は植物の根を食害します。",
+      "habitat_hint": "芝地、農地、果樹園、住宅地の庭、河川敷の草地。",
+      "finding_tips": "5〜8月、夜間に外灯に飛来する淡茶褐色の中型コガネムシを探します。幼虫の食害で芝生や畑が枯れることがあります。"
+    },
+    "en": {
+      "summary": "Brown Chafer. A medium scarab beetle with pale-brown coloration. Known as a pest on lawns and farmland; larvae feed on plant roots.",
+      "habitat_hint": "Lawns, farmland, orchards, residential gardens, and riverside grasslands.",
+      "finding_tips": "From May to August look at night lights for pale-brown medium scarabs. Larval damage may cause lawns and farmland to die back."
+    },
+    "zh": {
+      "summary": "长茶色金龟。中型金龟，淡茶褐色体色。是草坪与农田害虫，幼虫为害植物根部。",
+      "habitat_hint": "草坪、农田、果园、住宅区庭院、河滩草地。",
+      "finding_tips": "五至八月夜间在路灯下寻找淡茶褐色的中型金龟。幼虫为害可致草坪与农田枯萎。"
+    }
   }
 }
