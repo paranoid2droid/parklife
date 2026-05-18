@@ -23544,5 +23544,185 @@
       "habitat_hint": "明亮杂木林林缘、草地、河滩草地、半阴斜坡、神社林。",
       "finding_tips": "果期十至十二月在明亮林缘与草地寻找下垂橙红色小球形果的多年草。无包果萼是关键识别。"
     }
+  },
+  "Salix subfragilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タチヤナギ。落葉低木〜小高木のヤナギ科で、河川敷や湿地に生え、河畔林の主要構成種の一つ。葉は披針形で、春に銀白色の柔らかい花穂を咲かせます。雌雄異株。",
+      "habitat_hint": "河川敷、湿地、ため池の縁、河畔林、湿った草地。",
+      "finding_tips": "花期3〜4月、河川敷や湿地で銀白色の柔らかい花穂を咲かせる落葉低木〜小高木を探します。葉は披針形で長い。"
+    },
+    "en": {
+      "summary": "Brittle Willow. A deciduous Salicaceae shrub to small tree of riverbanks and wetlands; a major component of riparian forests. Lanceolate leaves; silvery-white soft catkins in spring. Dioecious.",
+      "habitat_hint": "Riverbanks, wetlands, pond edges, riparian woods, and damp grasslands.",
+      "finding_tips": "Flowers March-April. Look on riverbanks and wetlands for deciduous shrubs to small trees with silvery-white soft catkins. Long lanceolate leaves."
+    },
+    "zh": {
+      "summary": "脆叶柳。柳科落叶灌木至小乔木，生于河滩与湿地，是河岸林主要构成种之一。叶披针形，春季开银白色柔软花穗。雌雄异株。",
+      "habitat_hint": "河滩、湿地、池塘边、河岸林、潮湿草地。",
+      "finding_tips": "花期三至四月在河滩与湿地寻找具银白色柔软花穗的落叶灌木至小乔木。叶披针形且长。"
+    }
+  },
+  "Berberis thunbergii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メギ。落葉低木のメギ科で、雑木林や林縁に生えます。茎に鋭い棘があり、秋に赤い小球形果実が房状に実るのが美しい。庭園や生垣にも植栽。",
+      "habitat_hint": "雑木林、林縁、神社林、庭園、生垣、二次林。",
+      "finding_tips": "果期9〜11月、雑木林や生垣で茎に鋭い棘と赤い小球形果実を持つ落葉低木を探します。葉は卵形で小さく、秋に紅葉します。"
+    },
+    "en": {
+      "summary": "Japanese Barberry. A deciduous Berberidaceae shrub of secondary woodlands and forest edges. Sharp thorns on the stems; beautiful red small globose fruits in clusters in autumn. Also planted in gardens and hedges.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, gardens, hedges, and secondary woods.",
+      "finding_tips": "Fruits September-November. Look in secondary woodlands and hedges for deciduous shrubs with sharp stem thorns and red small globose fruits. Small ovate leaves turn red in autumn."
+    },
+    "zh": {
+      "summary": "日本小檗。小檗科落叶灌木，生于杂木林与林缘。茎具锐刺，秋季结红色小球形果实成簇美丽。也作庭园与绿篱栽植。",
+      "habitat_hint": "杂木林、林缘、神社林、庭园、绿篱、次生林。",
+      "finding_tips": "果期九至十一月在杂木林与绿篱寻找具茎锐刺与红色小球形果的落叶灌木。叶卵形小型，秋季变红。"
+    }
+  },
+  "Trichaleurina tenuispora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオゴムタケ。広葉樹の倒木や朽木に発生する大型のキノコで、ゴムのような弾力のある質感が和名の由来。傘は黒褐色で内側は黒い円盤状。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "梅雨〜秋、広葉樹の倒木や朽木でゴムのような弾力のある黒褐色の円盤状の大型キノコを探します。"
+    },
+    "en": {
+      "summary": "Rubber Cup Fungus. A large fungus on broadleaf fallen logs and rotting wood with a rubbery elastic texture — the source of the Japanese name 'rubber mushroom'. Blackish-brown disc-shaped cap with black interior.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, and riparian forests.",
+      "finding_tips": "From rainy season to autumn look on broadleaf fallen logs and rotting wood for large blackish-brown disc-shaped fungi with rubbery elastic texture."
+    },
+    "zh": {
+      "summary": "大盘菌（橡胶菌）。生于阔叶倒木与朽木上的大型真菌，质地如橡胶有弹性是日文俗名由来。菌盖黑褐色，内侧黑色圆盘状。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
+      "finding_tips": "梅雨至秋在阔叶倒木与朽木上寻找具橡胶弹性、黑褐色圆盘状的大型真菌。"
+    }
+  },
+  "Niponia nodulosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マクラギヤスデ。中型のヤスデで、黒い節のある体に黄色い帯が並ぶ独特の模様。湿った林床や落ち葉の中に住み、分解者として重要。刺激を受けると独特の匂いを放ちます。",
+      "habitat_hint": "雑木林の林床、落ち葉、湿った石下、神社林、住宅地の鉢植えの下。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の林床や落ち葉の中で黒い節に黄色い帯のある中型ヤスデを探します。"
+    },
+    "en": {
+      "summary": "Pillow Millipede. A medium millipede with distinctive pattern — black segmented body with yellow bands. Lives in damp forest floors and leaf litter; an important decomposer. Releases a distinctive odour when disturbed.",
+      "habitat_hint": "Secondary woodland floors, leaf litter, under damp stones, shrine groves, and under residential potted plants.",
+      "finding_tips": "Year-round (most active in warm seasons), look on woodland floors and in leaf litter for medium millipedes with black segments and yellow bands."
+    },
+    "zh": {
+      "summary": "枕状马陆。中型马陆，黑色分节体配黄色横带独特。栖于潮湿林床与枯叶层，是重要分解者。受扰释放独特气味。",
+      "habitat_hint": "杂木林林床、枯叶、潮湿石下、神社林、住宅区花盆下。",
+      "finding_tips": "全年（暖季活跃）在杂木林林床与枯叶中寻找黑色分节配黄色横带的中型马陆。"
+    }
+  },
+  "Fimbristylis tristachya": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "テンツキ。湿地や水田畦、河川敷の湿地に生える多年生のカヤツリグサ科。茶褐色の小穂を3本ほど散形に立てるのが「テンツキ（点突き）」の名の由来。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、ため池の縁、休耕田。",
+      "finding_tips": "8〜10月、湿地や水田畦で茶褐色の小穂を3本ほど散形に立てる多年生カヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Three-spike Fimbry. A perennial sedge of wetlands, paddy bunds, and wet riverbanks. About 3 brown spikelets in umbel-like clusters — the source of the Japanese name 'point-pricker'.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, pond edges, and fallow paddies.",
+      "finding_tips": "From August to October look in wetlands and paddy bunds for perennial sedges with about 3 brown spikelets in umbel-like clusters."
+    },
+    "zh": {
+      "summary": "三穗飘拂草。湿地、水田田埂与河滩湿地的多年生莎草科。茶褐色小穗约 3 个伞形排列是日文俗名『点突き』由来。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、池塘边、休耕田。",
+      "finding_tips": "八至十月在湿地与水田田埂寻找具茶褐色 3 个小穗伞形排列的多年生莎草。"
+    }
+  },
+  "Diabelia spathulata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ツクバネウツギ。日本固有の落葉低木のスイカズラ科で、雑木林の林縁に生えます。初夏に淡黄色〜白の筒状花を咲かせ、果実が「ツクバネ」（羽根のような形）になるのが和名の由来。",
+      "habitat_hint": "雑木林の林縁、神社林、二次林、半日陰の斜面、河畔林。",
+      "finding_tips": "花期5〜6月、林縁で淡黄色〜白の筒状花を咲かせる落葉低木を探します。果実が羽子板の羽根のような形なのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Spatulate-leaf Abelia. A Japan-endemic deciduous Caprifoliaceae shrub of secondary woodland edges. Pale-yellow to white tubular flowers in early summer; fruits resembling shuttlecocks — the source of the Japanese name 'shuttlecock deutzia'.",
+      "habitat_hint": "Secondary woodland edges, shrine groves, secondary woods, partly shaded slopes, and riparian woods.",
+      "finding_tips": "Flowers May-June. Look at forest edges for deciduous shrubs with pale-yellow to white tubular flowers. Shuttlecock-shaped fruits are diagnostic."
+    },
+    "zh": {
+      "summary": "匙叶六道木（双羽花）。日本固有的忍冬科落叶灌木，生于杂木林林缘。初夏开淡黄至白色筒形花，果实如羽毛球是日文俗名由来。",
+      "habitat_hint": "杂木林林缘、神社林、次生林、半阴斜坡、河岸林。",
+      "finding_tips": "花期五至六月在林缘寻找具淡黄至白色筒形花的落叶灌木。羽毛球状果实是关键识别。"
+    }
+  },
+  "Fraxinus sieboldiana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "マルバアオダモ。日本固有の落葉小高木のモクセイ科で、雑木林や林縁に生えます。葉が小さく丸みを帯びることが和名「丸葉」の由来。初夏に白い小花の円錐花序が美しい。",
+      "habitat_hint": "雑木林、林縁、神社林、二次林、河畔林。",
+      "finding_tips": "花期5〜6月、雑木林で小さく丸みを帯びた羽状複葉と白い小花の円錐花序を持つ落葉小高木を探します。"
+    },
+    "en": {
+      "summary": "Siebold's Ash. A Japan-endemic deciduous small Oleaceae tree of secondary woodlands and forest edges. Small rounded leaves give the Japanese name 'round-leaf'. Beautiful white flower panicles in early summer.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, secondary woods, and riparian woods.",
+      "finding_tips": "Flowers May-June. Look in secondary woodlands for small deciduous trees with small rounded pinnate leaves and white flower panicles."
+    },
+    "zh": {
+      "summary": "圆叶梣（西博尔德梣）。日本固有的木犀科落叶小乔木，生于杂木林与林缘。叶小而圆是日文俗名『丸叶』由来。初夏白色小花圆锥花序美丽。",
+      "habitat_hint": "杂木林、林缘、神社林、次生林、河岸林。",
+      "finding_tips": "花期五至六月在杂木林寻找具小型圆形羽状复叶、白色小花圆锥花序的落叶小乔木。"
+    }
+  },
+  "Equisetum palustre": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌスギナ。湿地や水田畦に生える多年生のトクサ科で、スギナに似ますがより湿った場所を好みます。茎は中空で節があり、シダ植物に近い古いタイプの植物。",
+      "habitat_hint": "湿地、水田畦、ため池の縁、湿った草地、河川敷の湿地。",
+      "finding_tips": "通年（茎は冬枯れ）、湿地や水田畦で節のある緑色の茎を持つ植物を探します。スギナとの違いは生息環境（より湿った場所）。"
+    },
+    "en": {
+      "summary": "Marsh Horsetail. A perennial horsetail of wetlands and paddy bunds, similar to field horsetail but preferring wetter sites. Hollow jointed green stems; an ancient plant group related to ferns.",
+      "habitat_hint": "Wetlands, paddy bunds, pond edges, damp grasslands, and wet riverbanks.",
+      "finding_tips": "Year-round (stems die back in winter), look in wetlands and paddy bunds for plants with jointed green stems. Wetter habitat separates it from field horsetail."
+    },
+    "zh": {
+      "summary": "沼木贼。湿地与水田田埂的多年生木贼科，似问荆但偏好更湿处。茎中空具节，是与蕨类相近的古老植物。",
+      "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
+      "finding_tips": "全年（茎冬季枯死）在湿地与水田田埂寻找具节绿色茎的植物。比问荆更喜湿。"
+    }
+  },
+  "Arisaema limbatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミミガタテンナンショウ。日本固有のテンナンショウ属で、仏炎苞の縁が外側に折り返って「耳」のように見えるのが和名の由来。林床や林縁に生えます。有毒。",
+      "habitat_hint": "雑木林の林床、谷地林、神社林、半日陰の斜面、河畔林。",
+      "finding_tips": "4〜6月、林床で仏炎苞の縁が外側に折り返って耳状に見える独特なテンナンショウ属を探します。有毒なので絶対に食べないこと。"
+    },
+    "en": {
+      "summary": "Margined Jack-in-the-Pulpit. A Japan-endemic Arisaema with the spathe margin reflexed outward like an 'ear' — the source of the Japanese name. Found on forest floors and edges. Poisonous.",
+      "habitat_hint": "Secondary woodland floors, valley woods, shrine groves, partly shaded slopes, and riparian woods.",
+      "finding_tips": "From April to June look on forest floors for distinctive Arisaema with the spathe margin reflexed outward like an ear. Do not eat — poisonous."
+    },
+    "zh": {
+      "summary": "耳形天南星。日本固有的天南星属，佛焰苞缘向外反折似『耳』是日文俗名由来。生于林床与林缘。有毒。",
+      "habitat_hint": "杂木林林床、谷地林、神社林、半阴斜坡、河岸林。",
+      "finding_tips": "四至六月在林床寻找佛焰苞缘向外反折似耳的独特天南星属。请勿食用——有毒。"
+    }
+  },
+  "Cephalotaxus harringtonia": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌガヤ。日本固有の常緑針葉樹で、葉が硬く尖るカヤに似ますが葉が柔らかく触っても痛くないことが和名「犬榧」（カヤに劣る）の由来。果実は緑〜赤紫色で可食。",
+      "habitat_hint": "雑木林、林縁、神社林、河畔林、住宅地の庭木。",
+      "finding_tips": "通年、雑木林でカヤに似た線形の葉を持つ常緑針葉樹を探します。葉を触って柔らかければイヌガヤ、硬く尖って痛ければカヤ。"
+    },
+    "en": {
+      "summary": "Japanese Plum Yew. A Japan-endemic evergreen conifer resembling Japanese Nutmeg-yew but with soft non-prickly leaves — the Japanese name 'dog torreya' refers to being 'inferior' (dog = lesser). Edible green to reddish-purple fruits.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, riparian woods, and residential trees.",
+      "finding_tips": "Year-round, look in secondary woodlands for evergreen conifers with torreya-like linear leaves. Soft non-prickly leaves identify this; hard prickly leaves indicate true torreya."
+    },
+    "zh": {
+      "summary": "粗榧（日本粗榧）。日本固有常绿针叶树，叶似榧树但柔软不刺人，是日文俗名『犬榧』（劣于榧树）由来。果实绿至红紫色可食。",
+      "habitat_hint": "杂木林、林缘、神社林、河岸林、住宅区庭树。",
+      "finding_tips": "全年在杂木林寻找叶似榧树的常绿针叶树。叶柔软不刺即本种，叶硬刺手为榧树。"
+    }
   }
 }
