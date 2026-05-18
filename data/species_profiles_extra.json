@@ -23184,5 +23184,185 @@
       "habitat_hint": "杂木林林床、林缘、河滩草地、农田、神社林。",
       "finding_tips": "十一至三月在杂木林林床与草地寻找雄性头部黄黑对比显眼的鹀。雌性暗褐色不显眼。"
     }
+  },
+  "Neoscona scylla": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマシロオニグモ。中型のコガネグモ科のクモで、淡褐色の腹部に山のような模様（山城）を持ちます。林縁や住宅地の軒下、樹間に大きな円網を張ります。",
+      "habitat_hint": "雑木林の林縁、住宅地の軒下、公園、樹間、神社林。",
+      "finding_tips": "5〜10月、林縁や住宅地で大きな円網を張る淡褐色の中型クモを探します。腹部の山形模様が識別の決め手。"
+    },
+    "en": {
+      "summary": "Yamashiro Orbweaver. A medium orbweaver with mountain-like patterning ('yamashiro') on the pale-brown abdomen. Builds large circular webs at forest edges, under residential eaves, and between trees.",
+      "habitat_hint": "Secondary woodland edges, residential eaves, parks, between trees, and shrine groves.",
+      "finding_tips": "From May to October look at forest edges and residences for medium pale-brown spiders building large circular webs. The mountain-shaped abdomen pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "山城新园蛛。中型园蛛，腹部淡褐色具山形纹（『山城』）。在林缘、住宅檐下与树间结大型圆网。",
+      "habitat_hint": "杂木林林缘、住宅檐下、公园、树间、神社林。",
+      "finding_tips": "五至十月在林缘与住宅区寻找结大型圆网的淡褐色中型蜘蛛。腹部山形纹是关键识别。"
+    }
+  },
+  "Davidius nanus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ダビドサナエ。日本固有の小型サナエトンボで、清流や山地の小川に生息。黒地に黄色の縞模様があり、河川の上流域で見られます。",
+      "habitat_hint": "山地の清流、河川上流、ゆるやかな川、渓流、湿地の流水。",
+      "finding_tips": "4〜7月、山地の清流や河川上流で黒地に黄色の縞模様を持つ小型サナエトンボを探します。"
+    },
+    "en": {
+      "summary": "David's Clubtail. A Japan-endemic small clubtail of clear streams and montane brooks. Black with yellow bands; seen in upper river reaches.",
+      "habitat_hint": "Montane clear streams, upper river reaches, slow streams, brooks, and flowing wetlands.",
+      "finding_tips": "From April to July look in montane clear streams and upper river reaches for small clubtails, black with yellow bands."
+    },
+    "zh": {
+      "summary": "戴维春蜓。日本固有的小型春蜓，栖于清流与山地小溪。黑底配黄色条纹，多见于河流上游。",
+      "habitat_hint": "山地清流、河流上游、缓流河流、溪流、流动湿地。",
+      "finding_tips": "四至七月在山地清流与河流上游寻找黑底配黄色条纹的小型春蜓。"
+    }
+  },
+  "Metrocoris histrio": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シマアメンボ。河川の流水に住む小型のアメンボで、黒い縞模様を持ちます。流れの早い場所でも水面を滑走できる独特の能力を持ちます。",
+      "habitat_hint": "河川の流水域、渓流、用水路、河川敷の流水。",
+      "finding_tips": "通年（暖かい季節に活動的）、河川の流水で黒い縞模様を持つ小型のアメンボを探します。流れの早い場所でも水面を滑るのが特徴。"
+    },
+    "en": {
+      "summary": "Striped Water Strider. A small water strider with black stripes, living in flowing streams. Distinctively able to glide on the surface even in fast currents.",
+      "habitat_hint": "Flowing river reaches, mountain streams, irrigation channels, and flowing riverbanks.",
+      "finding_tips": "Year-round (most active in warm seasons), look in flowing rivers for small water striders with black stripes. Distinctive ability to skate on fast water."
+    },
+    "zh": {
+      "summary": "条纹水黾。小型水黾，具黑色条纹，栖于河流流水。独特能在急流水面滑行。",
+      "habitat_hint": "河流流水段、溪流、灌溉沟、河滩流水。",
+      "finding_tips": "全年（暖季活跃）在河流流水中寻找具黑色条纹的小型水黾。能在急流水面滑行是特征。"
+    }
+  },
+  "Graphosoma rubrolineatum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカスジカメムシ。中型のカメムシで、赤と黒の縦縞模様が美しい。セリ科植物の花穂に集まることが多い独特の食性。",
+      "habitat_hint": "草地、河川敷、農地の縁、林縁、セリ科植物のある場所。",
+      "finding_tips": "5〜10月、草地や河川敷でセリ科植物（ヤブジラミ、シシウドなど）の花穂上で赤と黒の縦縞模様を持つ中型カメムシを探します。"
+    },
+    "en": {
+      "summary": "Red-striped Stink Bug. A medium stink bug beautifully marked with red and black longitudinal stripes. Distinctive feeding behaviour — often gathers on Apiaceae flower umbels.",
+      "habitat_hint": "Grasslands, riverbanks, farmland margins, forest edges, and around Apiaceae plants.",
+      "finding_tips": "From May to October look in grasslands and riverbanks on umbels of Apiaceae plants (hedge parsley, angelica, etc.) for medium red-and-black-striped stink bugs."
+    },
+    "zh": {
+      "summary": "条赤须盾蝽。中型椿象，红黑相间纵纹美丽。独特习性，常聚集于伞形科植物花序上。",
+      "habitat_hint": "草地、河滩、农田边缘、林缘、有伞形科植物处。",
+      "finding_tips": "五至十月在草地与河滩的伞形科植物（窃衣、独活等）花序上寻找具红黑纵纹的中型椿象。"
+    }
+  },
+  "Rhabdophis tigrinus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤマカガシ。日本固有の中型蛇で、緑色〜オリーブ色の体に黒い斑点と橙色の側面が独特。後牙類で毒を持ち、咬まれると重症化することがあります。水辺を好み、カエルを食べます。",
+      "habitat_hint": "水田、湿地、河川敷、ため池の縁、雑木林の林床。",
+      "finding_tips": "4〜10月、水辺や水田周辺で緑〜オリーブ色に黒斑と橙色側面を持つ中型蛇を探します。後牙類で毒があるので絶対に近づかないこと。"
+    },
+    "en": {
+      "summary": "Tiger Keelback. A Japan-endemic medium snake, green to olive with black spots and orange flanks — distinctive. A rear-fanged venomous snake; bites can cause serious symptoms. Prefers wet places and eats frogs.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, pond edges, and secondary woodland floors.",
+      "finding_tips": "From April to October look around water and paddies for medium snakes that are green-olive with black spots and orange flanks. Rear-fanged venomous — never approach."
+    },
+    "zh": {
+      "summary": "虎斑游蛇。日本固有的中型蛇，绿至橄榄色身体配黑斑与橙色侧面独特。后沟牙类有毒，咬伤可引起重症。喜水边，捕食蛙类。",
+      "habitat_hint": "水田、湿地、河滩、池塘边、杂木林林床。",
+      "finding_tips": "四至十月在水边与水田周边寻找绿至橄榄色配黑斑与橙色侧面的中型蛇。后沟牙类有毒，切勿靠近。"
+    }
+  },
+  "Emberiza fucata": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ホオアカ。小型のホオジロで、雄の頬の赤褐色が和名の由来。日本では夏鳥として渡来し、開けた草地や農地で「チョイチョイチョイ…」と独特の鳴き声で繁殖します。",
+      "habitat_hint": "草地、農地、河川敷の草地、湿地、開けた林縁。",
+      "finding_tips": "5〜9月、草地や農地で雄の頬の赤褐色が目立つ小型のホオジロを探します。「チョイチョイチョイ…」という鳴き声も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Chestnut-eared Bunting. A small bunting; males have a chestnut cheek patch — the source of the Japanese name 'red-cheek'. Summer breeder in Japan, in open grasslands and farmland with a 'choi-choi-choi...' call.",
+      "habitat_hint": "Grasslands, farmland, riverside grasslands, wetlands, and open forest edges.",
+      "finding_tips": "From May to September look in grasslands and farmland for small buntings with conspicuous chestnut cheek patches in males. The 'choi-choi-choi...' call also helps identify."
+    },
+    "zh": {
+      "summary": "栗耳鹀。小型鹀，雄性脸颊红褐色是日文俗名『红颊』由来。日本夏候鸟，在开阔草地与农田繁殖，鸣声『choi-choi-choi...』。",
+      "habitat_hint": "草地、农田、河滩草地、湿地、开阔林缘。",
+      "finding_tips": "五至九月在草地与农田寻找雄性脸颊红褐色显眼的小型鹀。『choi-choi-choi...』鸣声也可助识别。"
+    }
+  },
+  "Carassius langsdorfii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ギンブナ。日本に普通な中型の淡水コイ科で、河川、湖沼、ため池に生息。雌のみで繁殖する独特の生殖様式（雌性発生）が知られます。釣りの対象魚として親しまれています。",
+      "habitat_hint": "河川、湖沼、ため池、用水路、湿地。",
+      "finding_tips": "通年、河川や湖沼で銀白色の中型コイ科の魚を探します。雌のみで繁殖する独特の魚です。"
+    },
+    "en": {
+      "summary": "Silver Crucian Carp. A common medium freshwater cyprinid of rivers, lakes, and ponds in Japan. Known for a distinctive reproductive mode — gynogenesis, with only females. A popular fishing target.",
+      "habitat_hint": "Rivers, lakes, ponds, irrigation channels, and wetlands.",
+      "finding_tips": "Year-round, look in rivers and lakes for silver-white medium cyprinids. A distinctive fish reproducing with only females."
+    },
+    "zh": {
+      "summary": "银鲫。日本常见的中型淡水鲤科，栖于河流、湖沼与池塘。以独特的雌核生殖（仅雌性繁殖）著名。是常见垂钓对象。",
+      "habitat_hint": "河流、湖沼、池塘、灌溉沟、湿地。",
+      "finding_tips": "全年在河流与湖沼寻找银白色的中型鲤科鱼。是独特的仅雌性繁殖的鱼。"
+    }
+  },
+  "Conistra ardescens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カシワオビキリガ。秋〜冬に発生する中型のヤガで、淡褐色〜赤褐色の翅に独特の帯模様があります。樹液や腐果に集まり、冬に活動する珍しい部類のガ。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、果樹園、神社林。",
+      "finding_tips": "10〜12月、樹液の出る樹や腐果の周辺で淡褐色〜赤褐色の翅に帯模様を持つ中型ガを探します。冬に活動する珍しいガ。"
+    },
+    "en": {
+      "summary": "Oak Sallow. An autumn-to-winter-emerging medium noctuid moth with pale-brown to reddish-brown wings bearing distinctive banded patterns. Attracted to tree sap and fallen fruit; one of the rare moths active in winter.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, orchards, and shrine groves.",
+      "finding_tips": "From October to December look at sap flows and fallen fruit for medium moths with pale-brown to reddish-brown banded wings. Active in winter — unusual."
+    },
+    "zh": {
+      "summary": "栎带秋翅夜蛾。秋至冬发生的中型夜蛾，翅淡褐至红褐色具独特带纹。聚集于树液与腐果，冬季活跃属罕见。",
+      "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
+      "finding_tips": "十至十二月在树液与腐果周边寻找翅淡褐至红褐色具带纹的中型蛾。冬季活跃属稀有。"
+    }
+  },
+  "Cuculus canorus": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "カッコウ。日本では夏鳥として渡来する中型のカッコウ科。「カッコウ、カッコウ」と独特の鳴き声で知られ、托卵性（他鳥の巣に卵を産む）で有名。",
+      "habitat_hint": "開けた草地、農地、河川敷、明るい林縁、山地の開けた場所。",
+      "finding_tips": "5〜8月、開けた草地や農地で「カッコウ、カッコウ」と鳴く声を聞きます。姿は地味な灰色で見つけにくいが、鳴き声で識別容易。"
+    },
+    "en": {
+      "summary": "Common Cuckoo. A medium cuckoo summering in Japan. Famous for the distinctive 'cuckoo, cuckoo' call and for brood parasitism (laying eggs in nests of other birds).",
+      "habitat_hint": "Open grasslands, farmland, riverbanks, bright forest edges, and open montane areas.",
+      "finding_tips": "From May to August listen in open grasslands and farmland for the 'cuckoo, cuckoo' call. The drab grey plumage is hard to see but the call is easy to identify."
+    },
+    "zh": {
+      "summary": "大杜鹃（布谷鸟）。日本夏候鸟，中型杜鹃科。著名鸣声『cuckoo, cuckoo』；以托卵（在其他鸟巢中产卵）著名。",
+      "habitat_hint": "开阔草地、农田、河滩、明亮林缘、山地开阔地。",
+      "finding_tips": "五至八月在开阔草地与农田聆听『cuckoo, cuckoo』鸣声。羽色暗灰难见，鸣声易识别。"
+    }
+  },
+  "Diaperis lewisi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "モンキゴミムシダマシ。中型のゴミムシダマシ科で、黒い体に橙黄色の斑紋があるのが特徴。広葉樹の倒木や朽木に生息し、菌類を食べます。",
+      "habitat_hint": "雑木林の倒木・朽木、神社林の倒木、河畔林の朽木、樹皮下。",
+      "finding_tips": "5〜9月、雑木林の倒木や朽木で黒地に橙黄色の斑紋を持つ中型甲虫を探します。樹皮の隙間にも潜みます。"
+    },
+    "en": {
+      "summary": "Lewis's Darkling Beetle. A medium darkling beetle (Tenebrionidae) with distinctive orange-yellow markings on a black body. Lives on dead broadleaf logs and rotting wood; feeds on fungi.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, shrine groves, riparian woods, and under bark.",
+      "finding_tips": "From May to September look on fallen logs and rotting wood in secondary woodlands for medium beetles with black bodies and orange-yellow markings. Also hides in bark crevices."
+    },
+    "zh": {
+      "summary": "黄斑拟步甲。中型拟步甲，黑色体配橙黄色斑纹为特征。栖于阔叶倒木与朽木，取食菌类。",
+      "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木、树皮下。",
+      "finding_tips": "五至九月在杂木林倒木与朽木上寻找黑底配橙黄色斑纹的中型甲虫。也躲于树皮缝隙。"
+    }
   }
 }
