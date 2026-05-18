@@ -23022,5 +23022,167 @@
       "habitat_hint": "杂木林倒木与朽木、柴堆、神社林倒木、河岸林朽木。",
       "finding_tips": "梅雨至秋在阔叶倒木与朽木上寻找菌盖具粗鳞的菇。可食但有类似毒菌，需仔细鉴定。"
     }
+  },
+  "Carpinus laxiflora": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカシデ。日本固有の落葉高木で、新葉が赤みを帯びることが和名の由来。雑木林に普通で、秋の紅葉が美しい。葉は卵形で側脈が際立つ。",
+      "habitat_hint": "雑木林、林縁、神社林、二次林、河畔林、山地。",
+      "finding_tips": "通年（春の新葉が赤く目立つ）、雑木林で側脈の際立つ卵形の葉を持つ落葉高木を探します。クマシデより小葉で側脈が少ない。"
+    },
+    "en": {
+      "summary": "Loose-flowered Hornbeam. A Japan-endemic deciduous tree whose new leaves are tinted red — the source of the Japanese name 'red hornbeam'. Common in secondary woodlands; beautiful autumn colour. Ovate leaves with prominent veins.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, secondary woods, riparian woods, and mountains.",
+      "finding_tips": "Year-round (spring new leaves red and conspicuous), look in secondary woodlands for deciduous trees with ovate leaves with prominent lateral veins. Smaller leaves and fewer veins than Japanese Hornbeam."
+    },
+    "zh": {
+      "summary": "疏花鹅耳枥（赤鹅耳枥）。日本固有的落叶乔木，新叶带红色是日文俗名『赤鹅耳枥』由来。杂木林常见，秋叶美丽。叶卵形侧脉显著。",
+      "habitat_hint": "杂木林、林缘、神社林、次生林、河岸林、山地。",
+      "finding_tips": "全年（春季新叶红色显眼）在杂木林寻找具卵形叶、侧脉显著的落叶乔木。叶比鹅耳枥更小、侧脉更少。"
+    }
+  },
+  "Cosmos bipinnatus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コスモス。メキシコ原産の大型一年草のキク科で、観賞用に広く植栽。秋に淡桃色〜紅紫色の頭花を多数咲かせ、秋桜として親しまれる。葉は繊細な羽状複葉。",
+      "habitat_hint": "庭園、公園植栽、河川敷、農地、空き地（植栽・野生化）。",
+      "finding_tips": "8〜11月、庭園や河川敷で淡桃色〜紅紫色の頭花を持ち、繊細な羽状複葉を持つ大型一年草を探します。"
+    },
+    "en": {
+      "summary": "Cosmos. A large Mexican-origin annual Asteraceae widely planted as an ornamental. Many pale-pink to rose-purple flower heads in autumn — beloved as 'autumn cherry'. Delicate pinnate leaves.",
+      "habitat_hint": "Gardens, park plantings, riverbanks, farmland, and vacant lots (planted and naturalised).",
+      "finding_tips": "From August to November look in gardens and on riverbanks for large annuals with pale-pink to rose-purple flower heads and delicate pinnate leaves."
+    },
+    "zh": {
+      "summary": "波斯菊。原产墨西哥的大型一年生菊科，广作观赏栽植。秋季密生淡粉至紫红色头状花，称『秋樱』。叶为纤细羽状复叶。",
+      "habitat_hint": "庭园、公园栽植、河滩、农田、空地（栽植与野化）。",
+      "finding_tips": "八至十一月在庭园与河滩寻找具淡粉至紫红色头状花、纤细羽状复叶的大型一年草。"
+    }
+  },
+  "Toxicodendron succedaneum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハゼノキ。落葉小高木のウルシ科で、樹液は強い皮膚炎を起こします（要注意）。秋の真っ赤な紅葉が美しく、かつてはロウソクの原料の蝋（木蝋）を採るために植栽されました。",
+      "habitat_hint": "雑木林、林縁、神社林、河畔林、住宅地の野生化、果樹園跡。",
+      "finding_tips": "通年（秋の紅葉が際立つ）、雑木林で羽状複葉と秋の真っ赤な紅葉を持つ落葉小高木を探します。樹液に触れないこと（強い皮膚炎の原因）。"
+    },
+    "en": {
+      "summary": "Wax Tree. A deciduous small Anacardiaceae tree whose sap causes severe dermatitis (caution). Brilliant red autumn colour; historically planted for wax extraction from fruits ('mokurō') for candles.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, riparian woods, residential naturalised areas, and former orchards.",
+      "finding_tips": "Year-round (autumn red colour outstanding), look in secondary woodlands for small deciduous trees with pinnate leaves and brilliant red autumn foliage. Do not touch the sap (causes severe dermatitis)."
+    },
+    "zh": {
+      "summary": "野漆树。漆树科落叶小乔木，树液引起强烈皮炎（注意）。秋季鲜红叶色美丽，曾作蜡烛原料蜡（木蜡）栽植。",
+      "habitat_hint": "杂木林、林缘、神社林、河岸林、住宅区野化、果园废地。",
+      "finding_tips": "全年（秋季红叶显著）在杂木林寻找具羽状复叶、秋季鲜红叶色的落叶小乔木。请勿触碰树液（强烈皮炎）。"
+    }
+  },
+  "Hylodesmum oldhamii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フジカンゾウ。明るい林縁や草地、河川敷に生える多年草のマメ科。葉は奇数羽状複葉、夏〜秋に淡紅紫色の蝶形花が穂状に並びます。果実は節果で、衣服にひっつきます。",
+      "habitat_hint": "明るい雑木林の林縁、草地、河川敷、二次林、農地の縁。",
+      "finding_tips": "8〜10月、明るい林縁や草地で奇数羽状複葉と淡紅紫色の蝶形花の穂を持つ多年草を探します。果実が衣服にくっつきます。"
+    },
+    "en": {
+      "summary": "Oldham's Tick-trefoil. A perennial Fabaceae of bright forest edges, grasslands, and riverbanks. Odd-pinnate compound leaves; spikes of pale-purple-pink pea-flowers in late summer to autumn. Loment fruits stick to clothing.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, riverbanks, secondary woods, and farmland margins.",
+      "finding_tips": "From August to October look at bright forest edges and grasslands for perennials with odd-pinnate compound leaves and spikes of pale-purple-pink pea-flowers. Fruits stick to clothing."
+    },
+    "zh": {
+      "summary": "羽叶长柄山蚂蝗。明亮林缘、草地与河滩的多年生豆科。叶为奇数羽状复叶，夏秋穗状开淡紫红色蝶形花。荚果分节粘衣物。",
+      "habitat_hint": "明亮杂木林林缘、草地、河滩、次生林、农田边缘。",
+      "finding_tips": "八至十月在明亮林缘与草地寻找具奇数羽状复叶、淡紫红色蝶形花穗的多年草。果实粘衣物。"
+    }
+  },
+  "Eupatorium japonicum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "フジバカマ。秋の七草の一つで、明るい草地や河川敷に生える多年草のキク科。淡紅紫色の頭花が散房状に密集し、独特の甘い香りがあります。アサギマダラの渡りに重要な蜜源植物。",
+      "habitat_hint": "明るい草地、河川敷、土手、湿った草地、二次林の林縁。",
+      "finding_tips": "8〜10月、明るい草地や河川敷で淡紅紫色の頭花が散房状に密集する多年草を探します。葉や茎を乾燥させると桜餅様の甘い香りがあります。"
+    },
+    "en": {
+      "summary": "Japanese Boneset (Thoroughwort). One of the 'seven autumn herbs' — a perennial Asteraceae of bright grasslands and riverbanks. Pale-purple-pink flower heads in flat-topped clusters with a distinctive sweet aroma. An important nectar source for Chestnut Tiger butterfly migration.",
+      "habitat_hint": "Bright grasslands, riverbanks, banks, damp grasslands, and secondary woodland edges.",
+      "finding_tips": "From August to October look in bright grasslands and riverbanks for perennials with pale-purple-pink flower heads in flat-topped clusters. Crushed dried leaves give a sweet sakura-rice-cake aroma."
+    },
+    "zh": {
+      "summary": "佩兰（藤袴）。秋季『七草』之一，明亮草地与河滩的菊科多年草。淡紫红色头状花伞房状密集，具独特甜香气。是大绢斑蝶迁徙的重要蜜源植物。",
+      "habitat_hint": "明亮草地、河滩、堤岸、潮湿草地、次生林林缘。",
+      "finding_tips": "八至十月在明亮草地与河滩寻找具淡紫红色头状花伞房状密集的多年草。揉碎晾干的叶有樱饼样甜香。"
+    }
+  },
+  "Ninox japonica": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アオバズク。日本では夏鳥として渡来する小型のフクロウ。「ホッホッ、ホッホッ」と独特の二音鳴き声で、神社の大木の樹洞に営巣することが多い。",
+      "habitat_hint": "神社の大木、雑木林、河畔林、住宅地の大木、寺院境内。",
+      "finding_tips": "5〜9月、特に夕方〜夜に神社や大木周辺で「ホッホッ、ホッホッ」という独特の二音鳴き声を聞きます。姿を見つけるのは樹洞や枝の上で日中に休んでいる時。"
+    },
+    "en": {
+      "summary": "Brown Hawk-Owl. A small owl summering in Japan. Distinctive two-note 'ho-ho, ho-ho' call. Often nests in tree cavities in large shrine trees.",
+      "habitat_hint": "Large shrine trees, secondary woodlands, riparian woods, large residential trees, and temple grounds.",
+      "finding_tips": "From May to September, especially at dusk and at night, listen around shrines and large trees for the distinctive two-note 'ho-ho, ho-ho' call. Daytime sightings on branches or in cavities."
+    },
+    "zh": {
+      "summary": "鹰鸮。日本夏候鸟，小型猫头鹰。独特两音『ho-ho, ho-ho』鸣声。常在神社大树树洞营巢。",
+      "habitat_hint": "神社大树、杂木林、河岸林、住宅区大树、寺院境内。",
+      "finding_tips": "五至九月（尤黄昏至夜间）在神社与大树周边聆听独特两音『ho-ho, ho-ho』鸣声。白天可见停于枝上或树洞中。"
+    }
+  },
+  "Lindera praecox": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アブラチャン。日本固有の落葉低木〜小高木のクスノキ科で、早春に淡黄色の小花を葉に先立って咲かせます。果実から灯火用の油（油茶）を採ったことが和名の由来。",
+      "habitat_hint": "雑木林の林縁、林床、神社林、二次林、河畔林。",
+      "finding_tips": "花期3〜4月、雑木林で早春に葉のない枝に淡黄色の小花を咲かせる落葉低木〜小高木を探します。"
+    },
+    "en": {
+      "summary": "Early-flowering Spicebush. A Japan-endemic deciduous shrub to small tree (Lauraceae). Pale-yellow small flowers in early spring before leaves emerge. The Japanese name 'oil camellia' refers to the historical extraction of lamp oil from the fruits.",
+      "habitat_hint": "Secondary woodland edges, forest floors, shrine groves, secondary woods, and riparian woods.",
+      "finding_tips": "Flowers March-April. Look in secondary woodlands for deciduous shrubs/small trees with pale-yellow small flowers on leafless branches in early spring."
+    },
+    "zh": {
+      "summary": "油茶（早花山胡椒）。日本固有的樟科落叶灌木至小乔木，早春先叶开淡黄色小花。日文俗名『油茶』源于果实曾榨取灯油。",
+      "habitat_hint": "杂木林林缘、林床、神社林、次生林、河岸林。",
+      "finding_tips": "花期三至四月在杂木林寻找无叶枝上早春开淡黄色小花的落叶灌木至小乔木。"
+    }
+  },
+  "Symplocos sawafutagi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サワフタギ。日本固有の落葉低木〜小高木のハイノキ科で、雑木林や林縁に生えます。秋に独特の鮮やかな瑠璃色（青色）の小球形果実が実るのが美しい。",
+      "habitat_hint": "雑木林、林縁、神社林、二次林、河畔林。",
+      "finding_tips": "果期9〜11月、雑木林で鮮やかな瑠璃色の小球形果実を房状につける落葉低木〜小高木を探します。花期は5〜6月で白い小花。"
+    },
+    "en": {
+      "summary": "Sawafutagi. A Japan-endemic deciduous Symplocaceae shrub to small tree of secondary woodlands and forest edges. Beautiful brilliant lapis-blue small globose fruits ripen in autumn — distinctive.",
+      "habitat_hint": "Secondary woodlands, forest edges, shrine groves, secondary woods, and riparian woods.",
+      "finding_tips": "Fruits September-November. Look in secondary woodlands for deciduous shrubs to small trees with brilliant lapis-blue small globose fruits in clusters. Flowers May-June, white and small."
+    },
+    "zh": {
+      "summary": "白檀。日本固有的灰木科落叶灌木至小乔木，生于杂木林与林缘。秋季结鲜艳琉璃蓝色小球形果实独特美丽。",
+      "habitat_hint": "杂木林、林缘、神社林、次生林、河岸林。",
+      "finding_tips": "果期九至十一月在杂木林寻找具鲜艳琉璃蓝色小球形果实成簇的落叶灌木至小乔木。花期五至六月，白色小花。"
+    }
+  },
+  "Emberiza elegans": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミヤマホオジロ。小型のホオジロで、雄は頭部の黄色と黒のコントラスト、頬の黒い「ヒゲ」状の模様が独特。日本では冬鳥として渡来し、林床や草地で見られます。",
+      "habitat_hint": "雑木林の林床、林縁、河川敷の草地、農地、神社林。",
+      "finding_tips": "11〜3月、雑木林の林床や草地で雄の頭部の黄色と黒のコントラストが目立つホオジロを探します。雌は地味な褐色。"
+    },
+    "en": {
+      "summary": "Yellow-throated Bunting. A small bunting; males have a distinctive contrast of yellow and black on the head with black 'whisker' marks on the cheeks. Winter visitor to Japan, seen on woodland floors and grasslands.",
+      "habitat_hint": "Secondary woodland floors, forest edges, riverside grasslands, farmland, and shrine groves.",
+      "finding_tips": "From November to March look on woodland floors and grasslands for buntings with conspicuous yellow-and-black head contrast in males. Females are plain brown."
+    },
+    "zh": {
+      "summary": "黄喉鹀。小型鹀，雄性头部具显眼的黄黑对比与脸颊黑色『胡须』状斑纹。日本为冬候鸟，常见于林床与草地。",
+      "habitat_hint": "杂木林林床、林缘、河滩草地、农田、神社林。",
+      "finding_tips": "十一至三月在杂木林林床与草地寻找雄性头部黄黑对比显眼的鹀。雌性暗褐色不显眼。"
+    }
   }
 }
