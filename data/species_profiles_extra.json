@@ -23364,5 +23364,185 @@
       "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木、树皮下。",
       "finding_tips": "五至九月在杂木林倒木与朽木上寻找黑底配橙黄色斑纹的中型甲虫。也躲于树皮缝隙。"
     }
+  },
+  "Erannis golda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "チャバネフユエダシャク。冬（11〜2月）に発生する中型のシャクガで、雄は茶褐色の翅を持ちますが、雌は翅が退化して飛べません。冬に活動する珍しい部類のガ。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、神社林、河畔林。",
+      "finding_tips": "11〜2月、雑木林の樹幹で茶褐色の翅を持つ雄の中型シャクガを探します。雌は翅がないので樹皮上で見つけられます。"
+    },
+    "en": {
+      "summary": "Brown-winged Winter Geometer. A medium geometrid moth emerging in winter (November-February). Males have brown wings; females are wingless (flightless). One of the rare moths active in winter.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, shrine groves, and riparian woods.",
+      "finding_tips": "From November to February look on tree trunks in secondary woodlands for medium moths with brown wings (males). Wingless females are found on bark."
+    },
+    "zh": {
+      "summary": "茶翅冬尺蛾。冬季（十一至二月）发生的中型尺蛾。雄性具茶褐色翅，雌性翅退化不能飞。冬季活跃属罕见蛾种。",
+      "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
+      "finding_tips": "十一至二月在杂木林树干寻找具茶褐色翅的中型雄性尺蛾。无翅雌性可在树皮上发现。"
+    }
+  },
+  "Crematogaster matsumurai": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハリブトシリアゲアリ。中型のシリアゲアリ属のアリで、刺激を受けると腹部を上向きに反らせる独特の防御姿勢を取ります。樹幹や枝に営巣することが多い。",
+      "habitat_hint": "雑木林、樹幹、枝の隙間、神社林、河畔林、住宅地の庭木。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の樹幹で腹部を上向きに反らせる独特の姿勢を取る中型アリを探します。"
+    },
+    "en": {
+      "summary": "Matsumura's Acrobat Ant. A medium Crematogaster ant that distinctively raises its abdomen upward when disturbed (defensive posture). Often nests on tree trunks and in branch crevices.",
+      "habitat_hint": "Secondary woodlands, tree trunks, branch crevices, shrine groves, riparian woods, and residential trees.",
+      "finding_tips": "Year-round (most active in warm seasons), look on tree trunks in secondary woodlands for medium ants that raise their abdomen upward when disturbed."
+    },
+    "zh": {
+      "summary": "松村举腹蚁。中型举腹蚁属，受刺激时独特地向上举起腹部（防御姿势）。常在树干与枝缝筑巢。",
+      "habitat_hint": "杂木林、树干、枝缝、神社林、河岸林、住宅区庭树。",
+      "finding_tips": "全年（暖季活跃）在杂木林树干寻找受扰时向上举腹的中型蚂蚁。"
+    }
+  },
+  "Lasius japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビイロケアリ。日本最普通の中型アリで、黒褐色〜暗褐色の体色。住宅地から雑木林まで広く生息し、地中や朽木に営巣します。アブラムシを「飼育」して甘露を採取することで知られます。",
+      "habitat_hint": "雑木林、住宅地、公園、農地、神社林、河畔林。",
+      "finding_tips": "通年（暖かい季節に活動的）、住宅地から雑木林まで広く見られる黒褐色の中型アリを探します。アブラムシのいる植物の周辺でも観察できます。"
+    },
+    "en": {
+      "summary": "Japanese Common Black Ant. The most common medium ant in Japan, blackish-brown to dark-brown. Distributed from residential areas to secondary woodlands; nests underground or in rotting wood. Known for 'tending' aphids to collect honeydew.",
+      "habitat_hint": "Secondary woodlands, residential areas, parks, farmland, shrine groves, and riparian woods.",
+      "finding_tips": "Year-round (most active in warm seasons), look from residential areas to secondary woodlands for common blackish-brown medium ants. Often observed around aphid-infested plants."
+    },
+    "zh": {
+      "summary": "日本黑蚁。日本最普通的中型蚁，黑褐至暗褐色。从住宅区到杂木林广布，在地下与朽木筑巢。著名习性是『饲养』蚜虫采食蜜露。",
+      "habitat_hint": "杂木林、住宅区、公园、农田、神社林、河岸林。",
+      "finding_tips": "全年（暖季活跃）从住宅区到杂木林广见黑褐色中型蚂蚁。蚜虫植物周边也可观察。"
+    }
+  },
+  "Sarbanissa subflava": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "トビイロトラガ。中型のヤガで、淡褐色の翅に独特の虎の縞模様（トラガ）があります。樹幹や葉裏に止まると保護色になります。",
+      "habitat_hint": "雑木林、林縁、公園の樹木、神社林、河畔林。",
+      "finding_tips": "5〜9月、樹幹や葉裏で淡褐色の翅に虎の縞模様を持つ中型ガを探します。"
+    },
+    "en": {
+      "summary": "Brown Tiger Moth. A medium noctuid moth with pale-brown wings bearing distinctive tiger-like stripes — the 'tiger moth' of the Japanese name. Cryptic on tree trunks and leaf undersides.",
+      "habitat_hint": "Secondary woodlands, forest edges, park trees, shrine groves, and riparian woods.",
+      "finding_tips": "From May to September look on tree trunks and leaf undersides for medium moths with pale-brown tiger-striped wings."
+    },
+    "zh": {
+      "summary": "茶色虎蛾。中型夜蛾，翅淡褐色具独特虎纹（『虎蛾』）。停于树干与叶背具保护色。",
+      "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
+      "finding_tips": "五至九月在树干与叶背寻找具淡褐色虎纹翅的中型蛾。"
+    }
+  },
+  "Phyllanthus urinaria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コミカンソウ。小型一年草のコミカンソウ科で、畑や舗装の隙間、空き地に普通。葉腋に小さなミカン状の果実をつけるのが和名「小蜜柑草」の由来。葉は規則正しく羽状に並ぶ。",
+      "habitat_hint": "畑、舗装の隙間、空き地、農地の縁、住宅地の庭、河川敷。",
+      "finding_tips": "7〜10月、畑や舗装の隙間で小さな葉が規則正しく羽状に並び、葉腋にミカン状の小果実を多数つける小型一年草を探します。"
+    },
+    "en": {
+      "summary": "Chamber Bitter. A small annual Phyllanthaceae common in fields, pavement cracks, and vacant lots. Small mandarin-orange-shaped fruits in leaf axils give the Japanese name 'small-mandarin grass'. Leaves arranged regularly pinnately.",
+      "habitat_hint": "Fields, pavement cracks, vacant lots, farmland margins, residential gardens, and riverbanks.",
+      "finding_tips": "From July to October look in fields and pavement cracks for small annuals with neatly pinnate leaves and many small mandarin-shaped axillary fruits."
+    },
+    "zh": {
+      "summary": "叶下珠。小型一年生叶下珠科，菜地、路面缝与空地常见。叶腋具柑橘状小果是日文俗名『小蜜柑草』由来。叶羽状整齐排列。",
+      "habitat_hint": "菜地、路面缝、空地、农田边缘、住宅区庭院、河滩。",
+      "finding_tips": "七至十月在菜地与路面缝寻找小叶羽状整齐排列、叶腋密生柑橘状小果的小型一年草。"
+    }
+  },
+  "Cyclocybe cylindracea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヤナギマツタケ。広葉樹（特にヤナギ、ポプラ、エノキ）の生立木の傷口や倒木に発生する食用キノコ。傘は淡褐色〜茶褐色で、襞は白〜淡褐色。栽培もされる優秀な食用キノコ。",
+      "habitat_hint": "ヤナギ・ポプラ・エノキの傷口、倒木、神社林の老木、河畔林。",
+      "finding_tips": "春〜秋、ヤナギやポプラの傷口や倒木で傘が淡褐色〜茶褐色の中型キノコを探します。食用可ですが、似た毒キノコもあるので確実な同定が必要。"
+    },
+    "en": {
+      "summary": "Black Poplar Mushroom (Pioppino). An edible mushroom on living broadleaf trunks (especially willow, poplar, hackberry) at wounds and on fallen logs. Pale-brown to brown cap; white to pale-brown gills. Also commercially cultivated.",
+      "habitat_hint": "Wounds on willow, poplar, hackberry trunks; fallen logs; old trees in shrine groves; and riparian woods.",
+      "finding_tips": "From spring to autumn look on willow and poplar wounds and fallen logs for medium mushrooms with pale-brown to brown caps. Edible but resembles some toxic species — confirm identification carefully."
+    },
+    "zh": {
+      "summary": "杨树菇（茶树菇近亲）。生于阔叶树（尤柳、杨、朴树）伤口与倒木上的食用菌。菌盖淡褐至茶褐色，菌褶白至淡褐色。也作人工栽培。",
+      "habitat_hint": "柳、杨、朴树伤口、倒木、神社林老树、河岸林。",
+      "finding_tips": "春至秋在柳与杨的伤口与倒木上寻找菌盖淡褐至茶褐色的中型菇。可食但有类似毒菌，需仔细鉴定。"
+    }
+  },
+  "Hemitrichia serpula": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヘビヌカホコリ。粘菌の一種で、橙黄色の独特な蛇行する細長い体が地表や倒木の表面を覆います。粘菌の中でも美しく、観察に適しています。",
+      "habitat_hint": "雑木林の倒木・朽木、湿った腐植土、神社林、河畔林の朽木。",
+      "finding_tips": "梅雨〜秋、倒木や朽木の表面で橙黄色の蛇行する細長い粘菌を探します。雨上がりが観察に最適。"
+    },
+    "en": {
+      "summary": "Pretzel Slime Mold. A slime mold with distinctive orange-yellow snake-like winding elongated form covering ground or log surfaces. One of the more beautiful slime molds, well suited for observation.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, damp humus, shrine groves, and riparian forest rotting wood.",
+      "finding_tips": "From rainy season to autumn look on log and rotting-wood surfaces for orange-yellow winding snake-like slime molds. After rain is best for observation."
+    },
+    "zh": {
+      "summary": "蛇形粘菌（脆梨饰孢菌）。粘菌一种，橙黄色独特蜿蜒细长体覆盖地表与倒木表面。粘菌中较美丽，适宜观察。",
+      "habitat_hint": "杂木林倒木与朽木、潮湿腐殖土、神社林、河岸林朽木。",
+      "finding_tips": "梅雨至秋在倒木与朽木表面寻找橙黄色蜿蜒细长粘菌。雨后最适观察。"
+    }
+  },
+  "Medicago lupulina": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "コメツブウマゴヤシ。欧州原産の小型一年〜二年草のマメ科で、芝地や道端、空き地に帰化。3小葉と黄色い小さな蝶形花が球状に集まる花序を持ちます。果実は黒く熟す。",
+      "habitat_hint": "芝地、道端、空き地、農地の縁、河川敷の草地。",
+      "finding_tips": "5〜9月、芝地や道端で3小葉と黄色い小さな蝶形花が球状に集まる小型一年〜二年草を探します。"
+    },
+    "en": {
+      "summary": "Black Medic. A small European-origin annual to biennial Fabaceae naturalised in lawns, roadsides, and vacant lots. Three leaflets; small yellow pea-flowers in compact globe-like clusters. Fruits ripen black.",
+      "habitat_hint": "Lawns, roadsides, vacant lots, farmland margins, and riverside grasslands.",
+      "finding_tips": "From May to September look on lawns and roadsides for small annuals to biennials with three leaflets and small yellow pea-flowers in compact globe-like clusters."
+    },
+    "zh": {
+      "summary": "天蓝苜蓿。原产欧洲的小型一至二年生豆科，归化于草坪、路边与空地。三出小叶，黄色小蝶形花密集球状。果熟时变黑。",
+      "habitat_hint": "草坪、路边、空地、农田边缘、河滩草地。",
+      "finding_tips": "五至九月在草坪与路边寻找具三出小叶、黄色小蝶形花球状密集的小型一至二年草。"
+    }
+  },
+  "Poa nepalensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒマラヤイチゴツナギ。多年生の中型イネ科で、湿った林縁や河川敷、農地に生えます。穂は繊細な円錐花序で、淡緑色〜淡紫色を帯びます。",
+      "habitat_hint": "湿った林縁、河川敷、農地、半日陰の道端、湿った草地。",
+      "finding_tips": "5〜7月、湿った林縁や河川敷で繊細な淡緑色〜淡紫色の円錐花序を持つ多年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Nepalese Bluegrass. A medium perennial grass of damp forest edges, riverbanks, and farmland. Delicate panicles with pale-green to pale-purplish hue.",
+      "habitat_hint": "Damp forest edges, riverbanks, farmland, partly shaded roadsides, and damp grasslands.",
+      "finding_tips": "From May to July look on damp forest edges and riverbanks for perennial grasses with delicate pale-green to pale-purplish panicles."
+    },
+    "zh": {
+      "summary": "尼泊尔早熟禾。中型多年生禾本科，生于潮湿林缘、河滩与农田。具纤细淡绿至淡紫色圆锥花序。",
+      "habitat_hint": "潮湿林缘、河滩、农田、半阴路边、潮湿草地。",
+      "finding_tips": "五至七月在潮湿林缘与河滩寻找具纤细淡绿至淡紫色圆锥花序的多年生禾本科。"
+    }
+  },
+  "Tubocapsicum anomalum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハダカホオズキ。明るい林縁や草地に生える多年草のナス科。秋に橙赤色の小球形果実が「ホオズキ」のように下向きに咲きますが、ホオズキと違い果実を包む萼がない（裸）のが和名の由来。",
+      "habitat_hint": "明るい雑木林の林縁、草地、河川敷の草地、半日陰の斜面、神社林。",
+      "finding_tips": "果期10〜12月、明るい林縁や草地で橙赤色の小球形果実が下向きに咲く多年草を探します。果実を包む萼がないのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Naked Husk Tomato. A perennial Solanaceae of bright forest edges and grasslands. Orange-red small globose fruits hang downward in autumn — like physalis but without the enclosing husk (hence 'naked' in the Japanese name).",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, riverside grasslands, partly shaded slopes, and shrine groves.",
+      "finding_tips": "Fruits October-December. Look in bright forest edges and grasslands for perennials with orange-red small globose fruits hanging downward. Absence of the enclosing husk is diagnostic."
+    },
+    "zh": {
+      "summary": "龙珠果。明亮林缘与草地的茄科多年草。秋季下垂橙红色小球形果如灯笼果，但无包被果实的萼（『裸』）是日文俗名由来。",
+      "habitat_hint": "明亮杂木林林缘、草地、河滩草地、半阴斜坡、神社林。",
+      "finding_tips": "果期十至十二月在明亮林缘与草地寻找下垂橙红色小球形果的多年草。无包果萼是关键识别。"
+    }
   }
 }
