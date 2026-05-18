@@ -23904,5 +23904,185 @@
       "habitat_hint": "杂木林林床、潮湿石下、神社林、河岸林、住宅区庭院石下。",
       "finding_tips": "全年（暖季活跃）在林床与石下寻找黑色具光泽的大型步甲。是捕食性益虫。"
     }
+  },
+  "Latrodectus hasselti": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "セアカゴケグモ。オーストラリア原産の有毒な特定外来生物のクモ。雌は黒い体に背中の赤い縦線が特徴で、咬まれると激痛・神経症状を引き起こします。日本では港湾近くで発見が増えています。",
+      "habitat_hint": "港湾、空き地、駐車場、住宅地の物陰、自販機の下、側溝。",
+      "finding_tips": "通年、港湾近くや住宅地の物陰、自販機の下などで背中に赤い縦線のある黒いクモを探します。咬傷は重症化するため絶対に触らないこと。発見したら自治体に通報を。"
+    },
+    "en": {
+      "summary": "Redback Spider. A venomous Australian-origin spider designated as an Invasive Alien Species. Females have a distinctive red stripe on a black abdomen; bites cause severe pain and neurological symptoms. Increasingly found near Japanese ports.",
+      "habitat_hint": "Ports, vacant lots, parking lots, sheltered spots in residential areas, under vending machines, and side ditches.",
+      "finding_tips": "Year-round, look near ports and in sheltered spots in residential areas for black spiders with a red dorsal stripe. Bites are serious — never touch. Report sightings to local authorities."
+    },
+    "zh": {
+      "summary": "红背蜘蛛。原产澳大利亚的有毒蜘蛛，被列为特定外来生物。雌性黑色体配背部红色纵线为特征，咬伤引起剧痛与神经症状。日本港湾附近发现增多。",
+      "habitat_hint": "港湾、空地、停车场、住宅区隐蔽处、自动售货机下、边沟。",
+      "finding_tips": "全年在港湾附近与住宅区隐蔽处寻找背部具红色纵线的黑色蜘蛛。咬伤可致重症，切勿触碰。发现请上报当局。"
+    }
+  },
+  "Loxoblemmus arietulus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハラオカメコオロギ。中型のコオロギで、雄の頭部に「お多福（おかめ）」のような独特の前突きがあるのが和名の由来。夜に「コロコロコロ…」と高い音色で連続して鳴きます。",
+      "habitat_hint": "草地、河川敷の草地、農地の縁、住宅地の庭、林縁。",
+      "finding_tips": "8〜11月、夜に草地や住宅地で「コロコロコロ…」と連続して鳴く中型コオロギを探します。雄の頭部の独特の前突きが識別の決め手。"
+    },
+    "en": {
+      "summary": "Okame Cricket. A medium cricket with a distinctive forward-projecting head in males (resembling an 'okame' mask) — the source of the Japanese name. Sings 'koro-koro-koro...' with a high continuous tone at night.",
+      "habitat_hint": "Grasslands, riverside grasslands, farmland margins, residential gardens, and forest edges.",
+      "finding_tips": "From August to November at night listen in grasslands and residential areas for medium crickets singing 'koro-koro-koro...'. Males' distinctive forward-projecting head is diagnostic."
+    },
+    "zh": {
+      "summary": "お多福蟋蟀。中型蟋蟀，雄性头部具独特前突起（似『お多福』面具）是日文俗名由来。夜间发出『koro-koro-koro...』高音连续鸣声。",
+      "habitat_hint": "草地、河滩草地、农田边缘、住宅区庭院、林缘。",
+      "finding_tips": "八至十一月夜间在草地与住宅区聆听『koro-koro-koro...』连续鸣声的中型蟋蟀。雄性头部独特前突起是关键识别。"
+    }
+  },
+  "Oraesia excavata": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アカエグリバ。中型のヤガで、翅の縁が独特の「えぐれた」形をしており、止まると枯葉に擬態する保護色。果実を吸う口吻を持つため、果樹園では害虫として知られます。",
+      "habitat_hint": "雑木林、林縁、果樹園、住宅地の庭、神社林。",
+      "finding_tips": "通年（成虫越冬）、樹幹や倒木に止まると枯葉のように見える中型ガを探します。翅の縁の「えぐれた」形が独特。"
+    },
+    "en": {
+      "summary": "Scalloped Fruit-piercing Moth. A medium noctuid moth with distinctively 'scalloped' (cut-out) wing margins; cryptic as a dead leaf when resting. Pierces ripe fruit with its proboscis — a pest of orchards.",
+      "habitat_hint": "Secondary woodlands, forest edges, orchards, residential gardens, and shrine groves.",
+      "finding_tips": "Year-round (adults overwinter), look on tree trunks and fallen logs for medium moths that look like dead leaves. The scalloped wing margin is distinctive."
+    },
+    "zh": {
+      "summary": "凹缘壶夜蛾。中型夜蛾，翅缘呈独特『凹缺』状，停时拟态枯叶具保护色。具刺吸成熟果实的口器，是果园害虫。",
+      "habitat_hint": "杂木林、林缘、果园、住宅区庭院、神社林。",
+      "finding_tips": "全年（成虫越冬）在树干与倒木上寻找形似枯叶的中型蛾。翅缘『凹缺』状独特。"
+    }
+  },
+  "Ruditapes philippinarum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アサリ。日本人に最も馴染み深い二枚貝で、味噌汁や酒蒸しの食材として広く食用にされます。干潟や河口の汽水域の砂泥地に住み、潮干狩りの対象としても人気。",
+      "habitat_hint": "干潟、河口の汽水域、海岸の砂浜（潮間帯）、浅海の砂泥地。",
+      "finding_tips": "通年、干潟や河口で殻長3〜5cm、殻の表面に放射状の凹凸模様を持つ二枚貝を探します。潮の引いた干潟で砂を掘ると見つけられます。"
+    },
+    "en": {
+      "summary": "Japanese Littleneck Clam (Asari). The most familiar bivalve in Japan, widely eaten in miso soup and sake-steamed dishes. Lives in sandy-muddy substrates of mudflats and brackish estuaries; a popular target for clam-digging.",
+      "habitat_hint": "Mudflats, brackish estuaries, sandy intertidal beaches, and shallow sandy-muddy seabeds.",
+      "finding_tips": "Year-round, look on mudflats and estuaries for 3-5 cm bivalves with radial ridges on the shell. Found by digging the sand on exposed mudflats at low tide."
+    },
+    "zh": {
+      "summary": "菲律宾蛤仔（浅蜊）。日本最熟悉的双壳贝，广作味增汤与酒蒸料理食材。栖于滩涂与河口汽水域砂泥底，是潮间挖贝热门对象。",
+      "habitat_hint": "滩涂、河口汽水域、海岸潮间带沙滩、浅海砂泥底。",
+      "finding_tips": "全年在滩涂与河口寻找壳长 3-5 厘米、壳面具放射状凹凸纹的双壳贝。退潮时挖砂可见。"
+    }
+  },
+  "Saundersilarus saundersi": {
+    "sources": ["eBird", "iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ズグロカモメ。中型のカモメで、夏羽は頭部が完全に黒くなる独特の婚姻色。世界に約1万羽しかいない絶滅危惧種で、日本では冬鳥として九州や西日本の干潟に渡来。",
+      "habitat_hint": "干潟、河口、塩性湿地、海岸の砂浜、漁港。",
+      "finding_tips": "10〜3月、干潟や河口で中型のカモメを探します。冬羽は地味な灰白色ですが、夏羽の黒い頭部が決め手。日本では稀少な渡り鳥。"
+    },
+    "en": {
+      "summary": "Saunders's Gull. A medium gull whose breeding plumage shows a fully black head — distinctive nuptial coloration. A globally endangered species with only about 10,000 individuals; winters in Kyushu and western Japan on mudflats.",
+      "habitat_hint": "Mudflats, estuaries, salt marshes, sandy beaches, and fishing harbours.",
+      "finding_tips": "From October to March look on mudflats and estuaries for medium gulls. Winter plumage is plain grey-white; the black head of breeding plumage is diagnostic. Rare in Japan."
+    },
+    "zh": {
+      "summary": "黑嘴鸥（桑氏鸥）。中型鸥，繁殖羽头部完全变黑独特。全球濒危种，约 1 万只，日本为冬候鸟，飞临九州与西日本滩涂。",
+      "habitat_hint": "滩涂、河口、盐沼、海岸沙滩、渔港。",
+      "finding_tips": "十至三月在滩涂与河口寻找中型鸥。冬羽灰白不显眼，繁殖羽黑色头部是关键识别。日本不常见。"
+    }
+  },
+  "Hypera postica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アルファルファタコゾウムシ。中型のゾウムシで、マメ科作物（特にウマゴヤシ、アルファルファ）の葉を食害する害虫。淡褐色の体に黒い縞模様。",
+      "habitat_hint": "農地、河川敷、空き地、農地の縁、住宅地の庭。",
+      "finding_tips": "通年（特に春・秋）、農地や河川敷でマメ科植物の葉が食害されているのを見たらこの虫を疑います。淡褐色の体に黒い縦縞。"
+    },
+    "en": {
+      "summary": "Alfalfa Weevil. A medium weevil and a pest defoliating leguminous crops (especially alfalfa and medic). Pale-brown body with black stripes.",
+      "habitat_hint": "Farmland, riverbanks, vacant lots, farmland margins, and residential gardens.",
+      "finding_tips": "Year-round (especially spring and autumn), if leguminous plant leaves show damage in farmland or riverbanks, suspect this weevil. Pale-brown body with black longitudinal stripes."
+    },
+    "zh": {
+      "summary": "苜蓿叶象。中型象甲，为害豆科作物（尤苜蓿）叶片的害虫。淡褐色体配黑色条纹。",
+      "habitat_hint": "农田、河滩、空地、农田边缘、住宅区庭院。",
+      "finding_tips": "全年（尤春秋）若农田与河滩的豆科叶被蛀食可怀疑此虫。淡褐色体配黑色纵纹。"
+    }
+  },
+  "Uroctea compactilis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒラタグモ。住宅の壁や石垣、岩の隙間に平らな円盤状の巣を作る小型のクモ。巣は中央に隠れる場所があり、周囲に「足場」のような糸を放射状に伸ばします。",
+      "habitat_hint": "住宅の壁、石垣、岩の隙間、神社林の老木、雑木林の樹幹。",
+      "finding_tips": "通年、住宅の壁や石垣で平らな円盤状の巣を探します。巣の中央に小さなクモが隠れているのが見られます。"
+    },
+    "en": {
+      "summary": "Flat Spider. A small spider that builds flat disc-shaped retreats on residential walls, stone walls, and in rock crevices. The retreat has a central hiding place with radial 'guy lines' extending outward.",
+      "habitat_hint": "Residential walls, stone walls, rock crevices, old trees in shrine groves, and tree trunks in secondary woodlands.",
+      "finding_tips": "Year-round, look on residential walls and stone walls for flat disc-shaped spider retreats. A small spider hides in the centre."
+    },
+    "zh": {
+      "summary": "扁蛛。小型蜘蛛，在住宅墙、石墙与岩缝筑扁平圆盘状巢。巢中央具藏身处，周围放射状延伸『支撑丝』。",
+      "habitat_hint": "住宅墙、石墙、岩缝、神社林老树、杂木林树干。",
+      "finding_tips": "全年在住宅墙与石墙寻找扁平圆盘状蛛巢。中央可见小型蜘蛛藏身。"
+    }
+  },
+  "Blenina senex": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "キノカワガ。中型のヤガで、翅が「木の皮」のような独特の擬態を持ち、樹幹に止まるとほとんど見えない保護色。樹液や腐果に集まります。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、果樹園、神社林。",
+      "finding_tips": "通年（成虫越冬）、雑木林の樹幹で翅が木の皮のような擬態を持つ中型ガを探します。じっくり見ないと見つけられないほど擬態が完璧。"
+    },
+    "en": {
+      "summary": "Tree Bark Moth. A medium noctuid moth with wings perfectly mimicking tree bark — almost invisible when resting on trunks. Attracted to tree sap and fallen fruit.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, orchards, and shrine groves.",
+      "finding_tips": "Year-round (adults overwinter), look closely on tree trunks for medium moths with wings mimicking bark. The camouflage is so perfect they're easily overlooked."
+    },
+    "zh": {
+      "summary": "树皮夜蛾。中型夜蛾，翅拟态树皮独特，停于树干上几乎不可见。聚集于树液与腐果。",
+      "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
+      "finding_tips": "全年（成虫越冬）在杂木林树干仔细寻找翅似树皮的中型蛾。拟态完美极易错过。"
+    }
+  },
+  "Periplaneta americana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ワモンゴキブリ。世界最大級のゴキブリで、熱帯〜亜熱帯原産。日本では暖かい地域の家屋、下水、ごみ集積所に住み、衛生害虫として知られます。前胸背に独特の黄色い輪状模様（ワモン＝輪紋）があります。",
+      "habitat_hint": "家屋、下水、ごみ集積所、暖かい地域の屋外（暖地）。",
+      "finding_tips": "通年（暖かい場所で）、家屋や下水で大型の褐色ゴキブリを探します。前胸背の黄色い輪状模様が識別の決め手。"
+    },
+    "en": {
+      "summary": "American Cockroach. One of the world's largest cockroaches, originally tropical to subtropical. In Japan it lives in homes, sewers, and refuse areas in warm regions; a sanitary pest. Distinctive yellow ring-pattern on the pronotum gives the Japanese name 'ring-pattern'.",
+      "habitat_hint": "Homes, sewers, refuse areas, and outdoors in warm regions.",
+      "finding_tips": "Year-round (in warm places), look in homes and sewers for large brown cockroaches. The yellow ring on the pronotum is diagnostic."
+    },
+    "zh": {
+      "summary": "美洲大蠊。世界最大级蟑螂之一，原产热带至亚热带。日本暖地的家屋、下水道、垃圾收集处可见，是卫生害虫。前胸背具独特黄色环纹（『轮纹』）。",
+      "habitat_hint": "家屋、下水道、垃圾收集处、暖地室外。",
+      "finding_tips": "全年（暖地）在家屋与下水道寻找大型褐色蟑螂。前胸背黄色环纹是关键识别。"
+    }
+  },
+  "Orthosia munda": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "スモモキリガ。早春に発生する中型のヤガで、淡褐色〜灰褐色の翅に独特の模様。樹液や花の蜜に集まり、春の早い時期に活動するため珍しい。",
+      "habitat_hint": "雑木林、林縁、樹液の出る樹、果樹園、神社林。",
+      "finding_tips": "3〜5月、雑木林の樹液や早春の花で淡褐色〜灰褐色の中型ガを探します。早春に活動する珍しい部類。"
+    },
+    "en": {
+      "summary": "Twin-spotted Quaker. A medium noctuid moth emerging in early spring with pale-brown to grey-brown wings bearing distinctive patterns. Attracted to tree sap and early-spring flower nectar; unusual for being active in early spring.",
+      "habitat_hint": "Secondary woodlands, forest edges, sap-flowing trees, orchards, and shrine groves.",
+      "finding_tips": "From March to May look at sap flows and early-spring flowers for medium pale-brown to grey-brown moths. Unusual in being active in early spring."
+    },
+    "zh": {
+      "summary": "李秋翅夜蛾。早春发生的中型夜蛾，翅淡褐至灰褐色具独特纹路。聚集于树液与早春花蜜，早春活跃属罕见。",
+      "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
+      "finding_tips": "三至五月在杂木林树液与早春花上寻找淡褐至灰褐色的中型蛾。早春活跃属稀有。"
+    }
   }
 }
