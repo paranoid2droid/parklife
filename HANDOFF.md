@@ -38,66 +38,49 @@ Project is in maintenance + enrichment mode. Core pipeline shipped: **461 parks,
 
 Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick from the top unless the user redirects.
 
-0. **Official-URL coverage for P13-added parks** *(reported 2026-05-18 alongside duplicate-park bug)*
-   - Context: dedup of P13 duplicates (2026-05-18) recovered URLs for 17 overlapping cases, but ~254 P13-only parks (slug starts `p13-`) still have `official_url IS NULL`. They show on the demo without a website link — the user noticed many parks that "should have an official site" don't.
-   - Source data (国土数値情報 P13 GML from MLIT) carries geographic+admin fields only, no URLs — gap is structural, not a parsing miss.
-   - Plan: for each P13 park, search the prefecture's park-association site (Tokyo: tokyo-park.or.jp + tmpa.or.jp; Kanagawa: kanagawa-park.or.jp; Chiba: cga-net.jp; Saitama: parks.or.jp + saitama prefecture site) by `name_ja` + municipality; populate `park.official_url` from the first confident match. Cache search results under `data/cache/park_url_search/`.
+### Active
+
+1. **Official-URL backfill for P13 parks** *(opened 2026-05-18 alongside duplicate-park bug)*
+   - Problem: ~254 P13-only parks (slug starts `p13-`) have `official_url IS NULL` and render without a website link. P13 source GML (国土数値情報) carries geographic+admin fields only, so this is a structural gap, not a parsing miss. The 2026-05-18 dedup recovered URLs for 19 overlapping cases; the rest need a different strategy.
+   - Plan: for each P13 park, search the prefecture's park-association site by `name_ja` + municipality and populate `park.official_url` from the first confident match. Cache results under `data/cache/park_url_search/`.
+     - Tokyo: tokyo-park.or.jp + tmpa.or.jp
+     - Kanagawa: kanagawa-park.or.jp
+     - Chiba: cga-net.jp
+     - Saitama: parks.or.jp + 埼玉県 公園緑地課
+   - Fallback for stragglers: OSM `website=*` tag near the park's lat/lon; Google Maps Places API if necessary.
    - Quick check: `sqlite3 data/parklife.db "SELECT prefecture, COUNT(*) FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') GROUP BY prefecture;"`
-   - Lower-priority follow-up after that: also check Google Maps / OSM `website=*` tag for the park's lat/lon as a fallback.
 
-1. **Chinese name coverage gap** *(2026-05-14/15, mostly shipped)*
-   - ✅ Display rule fixed (`15cbd4c`): `displayNameHtml()` in `scripts/export_html.py` prefers English (with dotted-underline marker + "暂无中文名" tooltip) for zh/zhT users; ja last resort.
-   - ✅ Broader Wikidata SPARQL (`909bf31`): `scripts/wikidata_zh_broad.py` (+74 zh-Hans, +3 zh-Hant). Cache: `data/cache/wikidata_zh_broad/`.
-   - ✅ zh.wikipedia direct-title (`909bf31`): `scripts/wikipedia_zh_direct.py` (+10 zh-Hans). Cache: `data/cache/wikipedia_zh_direct/`.
-   - ✅ Pinyin cleanup (`f3078aa`): `scripts/cleanup_zh_aliases.py` removed 48 polluted pinyin aliases (e.g. "Bai Guo") and re-picked Han-only names from GBIF cache (+6).
-   - ✅ CoL China DwC-A import (`f3078aa`): `scripts/sp2000_import.py` reads 288k taxa from `data/raw/sp2000/taxon.txt` (chinacol2023, 13MB zip from gbifchina.org.cn — gitignored). Matches by exact `scientificName` then binomial prefix. **+231 zh-Hans**, biggest single source. To re-download: `curl -sL --max-time 120 -A "parklife-bot/0.1" -o data/raw/sp2000/chinacol2023.zip "https://www.gbifchina.org.cn/archive.do?r=chinacol2023&v=1.1" && cd data/raw/sp2000 && unzip -o chinacol2023.zip`.
-   - **Final coverage** (visible species): zh-Hans 4,591→4,918; any zh 4,619→4,948 (**+329, 64.6%→69.3%**). 2,197 still lack zh: most show English (or scientific) with the marker — only ~30 hit the ja last-resort.
-   - **Remaining follow-up** (lower priority):
-     - Targeted manual curation for high-frequency species still missing zh (run `query top --group X` and seed `species_profile` zh fields or `species_alias` directly).
-     - Try newer sp2000 release if/when published (current is `chinacol2023`).
-     - Consider iNaturalist `?locale=zh-CN` taxon names for high-traffic taxa not in CoL China.
-   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); do not overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe).
+2. **Continue species_profile curation** *(paused at 1500 / 2026-05-18 — resumable)*
+   - **Current state**: 1500 species × 4 langs (6000 rows) curated. Last commit `894cf16`. Sweep started at 49 species (2026-05-14) and ran through batches 1–153.
+   - Sidecar workflow: append entries to `data/species_profiles_extra.json`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html && git commit && git push`. Hant is auto-generated from Hans via OpenCC-like table; each profile carries ja/en/zh/zhT + `source_urls` (Wikipedia + iNaturalist + eBird when applicable).
+   - Selection: top-N most-widespread visible species not yet profiled. Quick query: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL GROUP BY s.id ORDER BY np DESC LIMIT 12;"`.
+   - The 1500 mark covers everything observed in ≥21 parks. Remaining unprofiled species mostly appear in ≤20 parks (long-tail). Resume on user request.
 
-2. **Expand park coverage beyond 都立/県立** *(2026-05-15/16, shipped — see follow-up)*
-   - ✅ First wave shipped (`e1f93b2`): `scripts/p13_seed.py` ingests 国土数値情報 P13-11 (都市公園, 2011 snapshot) for the 4 prefectures. Filters: park type ∈ {総合/広域/特殊/都市林/都市緑地} ∩ area ≥ 5 ha, dedup vs existing within 500 m. **+273 parks (209→482)**. Output: `data/seeds/<pref>-p13.json` (curated seeds left untouched). Raw zips cached under `data/raw/p13/` (gitignored).
-   - ✅ Enrichment ran against all 482 parks: iNat +21,792 obs, GBIF +66,406, eBird +4,042 (total +92,242). New 2,770 species got zh names backfilled via re-running sp2000 (+1,103), wikidata_zh (+891), wikidata_zh_broad (+23), wikipedia_zh_direct (+10).
-   - **Follow-up**:
-     - **P13 is 2011 snapshot** — newer parks (e.g. 2020s urban-rewilding 自然観察園 spinoffs) are missed. When a 2024+ refresh ships, re-run `scripts/p13_seed.py` (idempotent on slug hash).
-     - Consider relaxing filters: 街区/近隣公園 ≥ 5 ha exist and were filtered out; 自然観察園 inside larger parks remain invisible.
-     - Beyond P13: 国営公園 (managed by 環境省 system, ~17 nationwide), 区立 nature observation gardens, 都市林 < 5 ha that are genuinely forested — would need manual curation or OSM `leisure=park`/`landuse=forest` cross-reference.
-     - Many new P13 parks have no `official_url` — for these, only iNat/GBIF/eBird observations exist (no narrative scrape).
+3. **いきものログ ingest (env.go.jp)** *(not started)*
+   - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience — would be the most authoritative source we don't yet use.
+   - eBird + GBIF + iNat already cover most of what's reachable; いきものログ would mainly add rarer/locally-restricted records and validate edge cases.
+   - FishBase / MushroomObserver / Pl@ntNet evaluated and skipped as lower ROI for this scope.
 
-3. **Reduce parking-unknown count** *(2026-05-16, shipped)*
-   - ✅ `scripts/osm_parking.py` (`6a9ca7d`): for any park with NULL `has_parking` and known coords, probes OSM Overpass for `amenity=parking` within 300 m of the centre point. Rejects private/disused entries. Caches per (lat, lon, radius). After full run: NULL 318 → 0 (140→363 has=1, 24→119 has=0). 3 parenthesised-name TMG parks were manually marked YES because Nominatim couldn't geocode them.
-   - Pre-existing `scripts/extract_parking.py` still handles the 団体予約 / 障害者専用 etc. distinctions on official park pages; OSM is the catch-all for everything else.
+### Follow-ups (defer until needed)
 
-4. **いきものログ ingest (env.go.jp)** — Japan MoE, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience. (eBird + GBIF already shipped; FishBase/MushroomObserver/Pl@ntNet evaluated and skipped.)
+- **Chinese name coverage** *(post-`f3078aa`, 4,948 / 7,145 visible species have zh)*
+  - Manual curation for high-frequency species still missing zh — `query top --group X` and seed `species_profile` zh fields directly. Most impact per hour of work.
+  - Try newer sp2000 release when published (current is `chinacol2023`).
+  - iNaturalist `?locale=zh-CN` taxon names for high-traffic taxa not in CoL China.
+  - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); never overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe).
 
-5. **Better species frequency metric for sort** *(2026-05-16, mostly shipped)*
-   - ✅ `freq` sort now uses per-park observation count `pair.oc` first, with global spread `sp.n` as tiebreaker (`a85c1ba`). Labels updated to 観察記録数 / Record count / 观察记录数 / 觀察記錄數 in all 4 languages.
-   - ✅ Name-sort already uses `LOCALE_FOR_LANG[displayLang]` — confirmed working.
-   - **Follow-up still open**: geographically-nearby `sp.n` fallback for tiebreakers. When two species both have 1 record at the selected park, currently the tiebreaker is global park count, which still favors 関東-wide commons over locally-clustered species. Would need a precomputed `sp.regional_n` per (species, prefecture) or radius-based aggregation; defer until a complaint surfaces.
+- **Park coverage beyond P13** *(post-`e1f93b2`, 461 parks)*
+  - P13 is 2011 snapshot — when MLIT ships a 2024+ refresh, re-run `scripts/p13_seed.py` (idempotent on slug hash). **Bump the dedup radius to ≥1 km** to avoid repeating the 2026-05-18 duplicate-park bug (500 m missed 590 m-offset entries).
+  - Consider relaxing filters: 街区/近隣公園 ≥ 5 ha exist and were filtered out; 自然観察園 inside larger parks remain invisible.
+  - Beyond P13: 国営公園 (~17 nationwide), 区立 nature observation gardens, 都市林 < 5 ha that are genuinely forested — would need manual curation or OSM `leisure=park`/`landuse=forest` cross-reference.
 
-6. **Continue species_profile curation** *(2026-05-16/17, mid-sweep — crossed 700)*
-   - Major expansion in progress: 49 → **~700 curated species × 4 langs** (commits `45071e1` through `591d8ca`).
-   - **Sidecar workflow** (`scripts/seed_species_profiles.py` now loads `data/species_profiles_extra.json` in addition to in-file `PROFILES_JA/EN_ZH`): append entries to the JSON, then `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html && git commit && git push`.
-   - Selection strategy: top-N most-widespread visible species (`ORDER BY park_count DESC`), excluding species that already have profiles. Skip cultivars, microbes, and anything with no published natural-history info.
-   - Each profile carries 4 languages (ja/en/zh/zhT) + structured `source_urls` (Wikipedia + iNaturalist + eBird when applicable). Hant is auto-generated from Hans via the OpenCC-like substitution table.
-   - **Resume command**: `.venv/bin/python -c "import sqlite3; c=sqlite3.connect('data/parklife.db'); done=set(r[0] for r in c.execute(\"SELECT DISTINCT s.scientific_name FROM species s JOIN species_profile p ON p.species_id=s.id\")); rows=list(c.execute(\"SELECT s.scientific_name, s.common_name_ja, s.taxon_group, COUNT(DISTINCT ps.park_id) FROM species s JOIN park_species ps ON ps.species_id=s.id WHERE COALESCE(s.kingdom,'') NOT IN ('archaea','bacteria','chromista','protozoa') GROUP BY s.id ORDER BY 4 DESC LIMIT 900\")); [print(r) for r in rows if r[0] not in done][:30]"` — shows next ~30 candidates by frequency.
-   - When the sweep wraps up, prune this entry and add a final-state line to Status.
+- **Photo gallery** *(post-`87f5553`, 78% visible-species coverage)*
+  - ~2,150 visible species still have no photo. Periodically re-run `scripts.collect_species_photos` (broad fallback) as iNat acquires more.
+  - Truncate verbose Commons `extmetadata.Artist` HTML to first author when "Multiple contributors" lists appear.
+  - Add Flickr / GBIF media as a 3rd hero source for taxa with neither iNat nor Commons coverage.
 
-7. **Photo gallery quality + licensing** *(2026-05-16, shipped — see follow-up)*
-   - ✅ Diversity dedup (`87f5553`): `scripts/repopulate_species_photos.py` re-picks from cached iNat data with dedup keys `(user, observed-day)` and `(user, week, ~1 km grid)`. Stops bursts from the same observer at the same spot.
-   - ✅ Licensed-only: rows without a CC license (`license_code` ∈ {cc0, cc-by*, pd, pdm}) are dropped — past collection inserted some all-rights-reserved photos.
-   - ✅ Gallery target 5 → 6 photos (modest cost, more variety for ID).
-   - ✅ Wikimedia Commons hero (`scripts/wikicommons_hero.py`): Wikidata `wdt:P18` → Commons `imageinfo`; license check on `extmetadata.LicenseShortName`. Inserts with `source='Wikimedia Commons'` and `sort_order=-1` so it naturally becomes the card thumbnail / modal hero. Caches: `data/cache/wikidata_p18/`, `data/cache/commons/`.
-   - ✅ Schema: `species_photo.source_url` column added (migration via `ALTER TABLE`; `parklife/db.py` updated for fresh DBs).
-   - ✅ Demo: `sp.imgs` shape is now `[url, attribution, source_url][]`; modal overlays a credit caption (photographer · license · source ↗) under each photo.
-   - **Post-ship coverage**: 5,822 Commons hero rows + 34,979 iNat gallery rows; 7,768 visible species (78%) have at least one photo. Demo HTML 8.2 → 12.9 MB (attribution strings + extra photo URLs).
-   - **Follow-up**:
-     - Remaining ~2,150 visible species still have no photo at all (no iNat cache hits, no Commons P18). Worth periodically re-running `scripts.collect_species_photos` (broad fallback) as iNat acquires more.
-     - Some Commons `extmetadata.Artist` HTML is verbose; consider truncating to first author when "Multiple contributors" lists appear.
-     - Could add Flickr/GBIF media as a 3rd hero source for taxa with neither iNat nor Commons coverage.
+- **Species sort: regional `sp.n` tiebreaker** *(post-`a85c1ba`)*
+  - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
 
