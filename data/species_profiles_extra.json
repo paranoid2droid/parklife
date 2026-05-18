@@ -25344,5 +25344,185 @@
       "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
       "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖背面密生齿状突起的硬质真菌。"
     }
+  },
+  "Viola bissetii": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ナガバノスミレサイシン。日本固有のスミレで、明るい林床や林縁に生えます。葉が長い披針形〜長楕円形で、白色〜淡紫色の花を咲かせます。葉の細長さが他のスミレと違う識別の決め手。",
+      "habitat_hint": "明るい雑木林の林床、林縁、半日陰の斜面、神社林、河畔林。",
+      "finding_tips": "4〜5月、明るい林床で長い披針形〜長楕円形の葉と白色〜淡紫色の花を持つスミレを探します。"
+    },
+    "en": {
+      "summary": "Bisset's Long-leaved Violet. A Japan-endemic violet of bright forest floors and edges. Long lanceolate to oblong leaves; white to pale-purple flowers. The narrow long leaf shape distinguishes from other violets.",
+      "habitat_hint": "Bright secondary woodland floors, forest edges, partly shaded slopes, shrine groves, and riparian woods.",
+      "finding_tips": "From April to May look on bright forest floors for violets with long lanceolate to oblong leaves and white to pale-purple flowers."
+    },
+    "zh": {
+      "summary": "长叶堇菜（毕氏堇菜）。日本固有的堇菜，生于明亮林床与林缘。叶长披针至长椭圆形，开白至淡紫色花。叶细长与其他堇菜区分。",
+      "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
+      "finding_tips": "四至五月在明亮林床寻找具长披针至长椭圆叶、白至淡紫色花的堇菜。"
+    }
+  },
+  "Helice tridens": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "アシハラガニ。河口の汽水域や塩性湿地、ヨシ原に住む中型の半陸生カニ。黒褐色の体に、ヨシの根元に巣穴を掘ります。「アシ（葦）原」に生息することが和名の由来。",
+      "habitat_hint": "河口の汽水域、塩性湿地、ヨシ原、干潟、海岸近くの湿地。",
+      "finding_tips": "通年（暖かい季節に活動的）、河口やヨシ原の根元で黒褐色の中型カニを探します。巣穴の入口で観察できます。"
+    },
+    "en": {
+      "summary": "Reed-bed Crab. A medium semi-terrestrial crab of brackish estuaries, salt marshes, and reedbeds. Dark-brown body; digs burrows at the base of reeds. The Japanese name refers to its habitat in reedbeds.",
+      "habitat_hint": "Brackish estuaries, salt marshes, reedbeds, mudflats, and coastal wetlands.",
+      "finding_tips": "Year-round (most active in warm seasons), look at the base of reeds in estuaries and reedbeds for medium dark-brown crabs. Observable at burrow entrances."
+    },
+    "zh": {
+      "summary": "三齿厚蟹。栖于河口汽水域、盐沼与芦苇丛的中型半陆生蟹。黑褐色体，在芦苇基部挖洞穴。日文俗名指其栖于『芦原』。",
+      "habitat_hint": "河口汽水域、盐沼、芦苇丛、滩涂、海岸近郊湿地。",
+      "finding_tips": "全年（暖季活跃）在河口与芦苇基部寻找黑褐色中型蟹。可在洞穴入口观察。"
+    }
+  },
+  "Coreopsis tinctoria": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ハルシャギク（ジャノメソウ）。北米原産の一年草のキク科で、観賞用に導入され帰化。黄色い頭花の中央が赤褐色（蛇の目）になる独特の模様が美しい。河川敷や空き地に広がります。",
+      "habitat_hint": "河川敷、空き地、農地の縁、道端、庭園植栽。",
+      "finding_tips": "6〜9月、河川敷や空き地で黄色い頭花の中央が赤褐色になる蛇の目模様の一年草を探します。"
+    },
+    "en": {
+      "summary": "Plains Coreopsis. A North American annual Asteraceae introduced as an ornamental and naturalised. Distinctive 'snake-eye' pattern — yellow flower head with reddish-brown centre. Spreads on riverbanks and vacant lots.",
+      "habitat_hint": "Riverbanks, vacant lots, farmland margins, roadsides, and garden plantings.",
+      "finding_tips": "From June to September look on riverbanks and vacant lots for annuals with yellow flower heads bearing reddish-brown 'snake-eye' centres."
+    },
+    "zh": {
+      "summary": "两色金鸡菊（蛇目菊）。原产北美的一年生菊科，作观赏引入后归化。头状花黄色中央红褐色（『蛇目』）独特美丽。在河滩与空地扩散。",
+      "habitat_hint": "河滩、空地、农田边缘、路边、庭园栽植。",
+      "finding_tips": "六至九月在河滩与空地寻找黄色头状花中央红褐色（蛇目纹）的一年草。"
+    }
+  },
+  "Viburnum odoratissimum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "サンゴジュ。常緑高木のレンプクソウ科で、生垣や公園植栽として広く植栽。秋〜冬に鮮やかな赤い小球形果実が多数つくのが「珊瑚樹」の名の由来。葉は革質で大型。",
+      "habitat_hint": "生垣、公園植栽、街路樹、寺社境内、住宅地の庭木。",
+      "finding_tips": "果期9〜2月、生垣や公園で鮮やかな赤い小球形果実が多数つく常緑高木を探します。葉は革質の楕円形で大型。"
+    },
+    "en": {
+      "summary": "Sweet Viburnum. An evergreen Adoxaceae tree widely planted as hedging and in parks. Brilliant red small globose fruits in clusters autumn-winter — the source of the Japanese name 'coral tree'. Large leathery leaves.",
+      "habitat_hint": "Hedges, park plantings, street trees, temple/shrine grounds, and residential trees.",
+      "finding_tips": "Fruits September-February. Look in hedges and parks for evergreen trees with many brilliant red small globose fruits in clusters. Large leathery elliptical leaves."
+    },
+    "zh": {
+      "summary": "珊瑚树（日本珊瑚树）。五福花科常绿乔木，广作绿篱与公园栽植。秋至冬鲜艳红色小球形果实成簇是日文俗名『珊瑚树』由来。叶革质大型。",
+      "habitat_hint": "绿篱、公园栽植、行道树、寺社境内、住宅区庭树。",
+      "finding_tips": "果期九至二月在绿篱与公园寻找具鲜艳红色小球形果实成簇的常绿乔木。叶革质椭圆形大型。"
+    }
+  },
+  "Rhaphiolepis indica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シャリンバイ。常緑低木のバラ科で、海岸近くや暖地に生え、生垣や公園植栽としても広く植栽。葉が「車輪」のように放射状につき、初夏に白い5弁花を咲かせるのが和名「車輪梅」の由来。",
+      "habitat_hint": "海岸近くの林、生垣、公園植栽、街路樹、寺社境内、住宅地の庭木。",
+      "finding_tips": "花期5〜6月、果期10〜12月。生垣や公園で葉が放射状（車輪状）につき、白い5弁花を咲かせる常緑低木を探します。秋の黒紫色果実も識別の手がかり。"
+    },
+    "en": {
+      "summary": "Indian Hawthorn. An evergreen Rosaceae shrub of coastal areas and warm regions; widely planted as hedging and in parks. Leaves arranged radially like 'wheel spokes' and white 5-petalled flowers in early summer — the source of the Japanese name 'wheel-plum'.",
+      "habitat_hint": "Coastal woods, hedges, park plantings, street trees, temple/shrine grounds, and residential trees.",
+      "finding_tips": "Flowers May-June; fruits October-December. Look in hedges and parks for evergreen shrubs with leaves arranged radially and white 5-petalled flowers. Purple-black autumn fruits also help identify."
+    },
+    "zh": {
+      "summary": "石斑木（车轮梅）。蔷薇科常绿灌木，生于海岸近郊与暖地，也广作绿篱与公园栽植。叶放射状如『车轮』排列，初夏开白色五瓣花是日文俗名『车轮梅』由来。",
+      "habitat_hint": "海岸近郊林、绿篱、公园栽植、行道树、寺社境内、住宅区庭树。",
+      "finding_tips": "花期五至六月，果期十至十二月。在绿篱与公园寻找叶放射状排列、开白色五瓣花的常绿灌木。秋季紫黑色果实可助识别。"
+    }
+  },
+  "Leonurus japonicus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "メハジキ（益母草：やくもそう）。明るい草地や河川敷、農地に生える二年〜多年草のシソ科で、紅紫色の唇形花が穂状に並びます。葉は深く切れ込み、漢方薬「益母草」として婦人薬に用いられます。",
+      "habitat_hint": "明るい草地、河川敷、農地の縁、道端、空き地。",
+      "finding_tips": "7〜9月、明るい草地や河川敷で紅紫色の唇形花の穂と深く切れ込んだ葉を持つ二年〜多年草を探します。背丈は1m前後。"
+    },
+    "en": {
+      "summary": "Japanese Motherwort. A biennial to perennial Lamiaceae of bright grasslands, riverbanks, and farmland. Spikes of rose-purple lipped flowers; deeply lobed leaves. The dried herb 'yakumosō' is a Kampo medicine for women's health.",
+      "habitat_hint": "Bright grasslands, riverbanks, farmland margins, roadsides, and vacant lots.",
+      "finding_tips": "From July to September look in bright grasslands and on riverbanks for biennials to perennials with spikes of rose-purple lipped flowers and deeply lobed leaves. Plants ~1 m tall."
+    },
+    "zh": {
+      "summary": "益母草。明亮草地、河滩与农田的唇形科二至多年草。穗状开紫红色唇形花，叶深裂。干燥草『益母草』为妇科中药。",
+      "habitat_hint": "明亮草地、河滩、农田边缘、路边、空地。",
+      "finding_tips": "七至九月在明亮草地与河滩寻找具紫红色唇形花穗、叶深裂的二至多年草。高约 1 米。"
+    }
+  },
+  "Perna viridis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミドリイガイ。東南アジア原産の中型のイガイで、緑色の独特の殻が美しい。日本では港湾や養殖筏に付着し、近年分布拡大している外来種。",
+      "habitat_hint": "港湾、養殖筏、岩礁、防波堤、海岸近くの杭。",
+      "finding_tips": "通年、港湾や防波堤で緑色の殻を持つ中型のイガイを探します。外来種で在来種への影響が懸念されています。"
+    },
+    "en": {
+      "summary": "Asian Green Mussel. A medium Southeast Asian-origin mussel with distinctive beautiful green shell. In Japan it attaches to harbour structures and aquaculture rafts; an invasive species expanding in recent years.",
+      "habitat_hint": "Harbours, aquaculture rafts, rocky reefs, breakwaters, and coastal pilings.",
+      "finding_tips": "Year-round, look in harbours and on breakwaters for medium mussels with green shells. Invasive — concern about impact on native species."
+    },
+    "zh": {
+      "summary": "翡翠贻贝。原产东南亚的中型贻贝，独特绿色壳美丽。日本附着于港湾设施与养殖筏，近年扩散的外来种。",
+      "habitat_hint": "港湾、养殖筏、礁石、防波堤、海岸近郊桩柱。",
+      "finding_tips": "全年在港湾与防波堤寻找具绿色壳的中型贻贝。外来种，对本土种影响受关注。"
+    }
+  },
+  "Littorina brevicula": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タマキビ。岩礁性海岸の潮間帯上部に住む小型の巻貝。殻は黒褐色〜灰色で球形に近く、岩の上に多数群生します。潮汐の変化に耐えるため乾燥に強い。",
+      "habitat_hint": "岩礁性海岸の潮間帯上部、防波堤、海岸近くの岩、磯。",
+      "finding_tips": "通年、岩礁性海岸で岩の上に群生する小型の黒褐色〜灰色の巻貝を探します。潮の引いた時に観察しやすい。"
+    },
+    "en": {
+      "summary": "Short Periwinkle. A small periwinkle living in the upper intertidal zone of rocky coasts. Black-brown to grey nearly globose shell; gathers in large numbers on rocks. Drought-tolerant to survive tidal changes.",
+      "habitat_hint": "Upper intertidal zone of rocky coasts, breakwaters, coastal rocks, and intertidal rocks.",
+      "finding_tips": "Year-round, look on rocky coasts for small blackish-brown to grey snails gathered in large numbers on rocks. Easier to observe at low tide."
+    },
+    "zh": {
+      "summary": "短滨螺。栖于岩礁海岸潮间带上部的小型滨螺。壳黑褐至灰色近球形，岩石上多群聚。耐潮汐变化与干燥。",
+      "habitat_hint": "岩礁海岸潮间带上部、防波堤、海岸近郊岩石、潮间带礁石。",
+      "finding_tips": "全年在岩礁海岸寻找岩石上群聚的小型黑褐至灰色滨螺。退潮时易观察。"
+    }
+  },
+  "Shikibutyna felis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ネコハグモ。小型のヒメグモ近縁のクモで、住宅の隅や塀の隙間に小さな天蓋型の網を張ります。地味な茶褐色の体で目立たない。",
+      "habitat_hint": "住宅の隅、塀の隙間、軒下、雑木林の樹幹、神社林。",
+      "finding_tips": "通年、住宅の隅や塀の隙間で小さな天蓋型の網を張る茶褐色の小型クモを探します。"
+    },
+    "en": {
+      "summary": "Cat Crevice Spider. A small spider related to cobweb spiders, building small canopy-shaped webs in residential corners and wall crevices. Drab brown body, inconspicuous.",
+      "habitat_hint": "Residential corners, wall crevices, eaves, tree trunks in secondary woodlands, and shrine groves.",
+      "finding_tips": "Year-round, look in residential corners and wall crevices for small canopy-webs with brown small spiders."
+    },
+    "zh": {
+      "summary": "猫蛛（隐住蛛科一种）。与卷叶蛛相关的小型蜘蛛，在住宅角落与墙缝结小型天幕状网。茶褐色身体不显眼。",
+      "habitat_hint": "住宅角落、墙缝、檐下、杂木林树干、神社林。",
+      "finding_tips": "全年在住宅角落与墙缝寻找结小型天幕网的茶褐色小型蜘蛛。"
+    }
+  },
+  "Amara gigantea": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオマルガタゴミムシ。大型のマルガタゴミムシで、黒〜暗褐色の光沢のある体。雑木林の林床や畑、草地に住み、他の昆虫や種子を食べる雑食性。",
+      "habitat_hint": "雑木林の林床、畑、草地、河川敷、住宅地の庭。",
+      "finding_tips": "通年（暖かい季節に活動的）、雑木林の林床や畑で黒〜暗褐色の光沢のある大型ゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Giant Round-bodied Ground Beetle. A large Amara ground beetle with glossy black to dark-brown body. Lives on secondary woodland floors, fields, and grasslands; omnivorous, feeding on other insects and seeds.",
+      "habitat_hint": "Secondary woodland floors, fields, grasslands, riverbanks, and residential gardens.",
+      "finding_tips": "Year-round (most active in warm seasons), look on woodland floors and in fields for large glossy black to dark-brown ground beetles."
+    },
+    "zh": {
+      "summary": "大圆步甲。大型圆步甲，黑至暗褐色具光泽。栖于杂木林林床、菜地与草地，杂食取食其他昆虫与种子。",
+      "habitat_hint": "杂木林林床、菜地、草地、河滩、住宅区庭院。",
+      "finding_tips": "全年（暖季活跃）在林床与菜地寻找黑至暗褐色具光泽的大型步甲。"
+    }
   }
 }
