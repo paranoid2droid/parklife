@@ -22860,5 +22860,167 @@
       "habitat_hint": "河滩、湿地、池塘边、潮湿草地、河岸林。",
       "finding_tips": "花期三至四月在河滩与湿地寻找具银白色柔软花穗的落叶灌木。叶对生至互生与其他柳类区分。"
     }
+  },
+  "Carex ischnostachya": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ジュズスゲ。湿地や水田畦、河川敷の湿地に生える多年生のスゲ。果穂が数珠（じゅず）状に長く伸びることが和名の由来。",
+      "habitat_hint": "湿地、水田畦、河川敷の湿地、ため池の縁、休耕田。",
+      "finding_tips": "5〜7月、湿地や水田畦で果穂が数珠状に長く伸びる多年生スゲを探します。"
+    },
+    "en": {
+      "summary": "Rosary Sedge. A perennial sedge of wetlands, paddy bunds, and wet riverbanks. Fruiting spikes elongate like a string of rosary beads — the source of the Japanese name 'rosary sedge'.",
+      "habitat_hint": "Wetlands, paddy bunds, wet riverbanks, pond edges, and fallow paddies.",
+      "finding_tips": "From May to July look in wetlands and paddy bunds for perennial sedges with fruiting spikes elongating like a rosary."
+    },
+    "zh": {
+      "summary": "细穗苔草（念珠苔草）。湿地、水田田埂与河滩湿地的多年生莎草。果穗细长如念珠是日文俗名由来。",
+      "habitat_hint": "湿地、水田田埂、河滩湿地、池塘边、休耕田。",
+      "finding_tips": "五至七月在湿地与水田田埂寻找具念珠状细长果穗的多年生莎草。"
+    }
+  },
+  "Digitaria radicosa": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ヒメメヒシバ。一年生の小型イネ科で、舗装の隙間や芝地、道端に生えます。メヒシバに似ますが小型で繊細。",
+      "habitat_hint": "舗装の隙間、芝地、道端、空き地、農地の縁。",
+      "finding_tips": "7〜10月、舗装の隙間や芝地で小型で繊細なメヒシバ様の一年生イネ科を探します。"
+    },
+    "en": {
+      "summary": "Trailing Crabgrass. A small annual grass of pavement cracks, lawns, and roadsides. Similar to crabgrass but smaller and more delicate.",
+      "habitat_hint": "Pavement cracks, lawns, roadsides, vacant lots, and farmland margins.",
+      "finding_tips": "From July to October look in pavement cracks and lawns for small delicate crabgrass-like annual grasses."
+    },
+    "zh": {
+      "summary": "小马唐。一年生小型禾本科，生于路面缝、草坪与路边。似马唐但更小更纤细。",
+      "habitat_hint": "路面缝、草坪、路边、空地、农田边缘。",
+      "finding_tips": "七至十月在路面缝与草坪寻找小型纤细的马唐样一年生禾本科。"
+    }
+  },
+  "Cardamine fallax": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "タチタネツケバナ。タネツケバナの近縁種で、より直立性が強く、河川敷や湿地、農地に生える一年〜二年草のアブラナ科。白い小さな十字花を多数咲かせます。",
+      "habitat_hint": "水田、湿地、河川敷、農地、道端の湿った場所。",
+      "finding_tips": "3〜5月、湿った場所で直立性のロゼット状の葉と細長い果実（角果）を持つ小型アブラナ科を探します。"
+    },
+    "en": {
+      "summary": "Erect Bittercress. A near relative of Wavy Bittercress but more erect; an annual to biennial crucifer of riverbanks, wetlands, and farmland. Small white 4-petalled flowers.",
+      "habitat_hint": "Rice paddies, wetlands, riverbanks, farmland, and damp roadsides.",
+      "finding_tips": "From March to May look in damp places for erect small crucifers with basal rosettes and slender erect pods (siliques)."
+    },
+    "zh": {
+      "summary": "直立碎米荠。碎米荠的近缘种但更直立，归化于河滩、湿地与农田的一至二年生十字花科。开白色十字小花。",
+      "habitat_hint": "水田、湿地、河滩、农田、潮湿路边。",
+      "finding_tips": "三至五月在潮湿处寻找具基生莲座叶、细长直立角果的直立小型十字花科。"
+    }
+  },
+  "Isotrema kaempferi": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オオバウマノスズクサ。蔓性の落葉植物のウマノスズクサ科で、林縁や藪に絡みつきます。葉は大型のハート形で、独特な形のサキソフォン状の花が春〜初夏に咲きます。",
+      "habitat_hint": "雑木林の林縁、藪、河川敷の藪、神社林、半日陰の斜面。",
+      "finding_tips": "花期5〜6月、林縁や藪で大型のハート形の葉と独特のS字形〜サキソフォン状の褐色花を持つ蔓性植物を探します。"
+    },
+    "en": {
+      "summary": "Kaempfer's Dutchman's Pipe. A deciduous vine (Aristolochiaceae) climbing in forest edges and thickets. Large heart-shaped leaves; distinctive saxophone-shaped flowers in spring to early summer.",
+      "habitat_hint": "Secondary woodland edges, thickets, riverside thickets, shrine groves, and partly shaded slopes.",
+      "finding_tips": "Flowers May-June. Look at forest edges and thickets for vines with large heart-shaped leaves and distinctive S-shaped saxophone-like brown flowers."
+    },
+    "zh": {
+      "summary": "大叶马兜铃。马兜铃科蔓生落叶植物，攀附林缘与灌丛。叶大型心形，春至初夏开独特 S 形/萨克斯管状褐色花。",
+      "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、神社林、半阴斜坡。",
+      "finding_tips": "花期五至六月在林缘与灌丛寻找具大型心形叶、独特 S 形萨克斯管状褐色花的蔓生植物。"
+    }
+  },
+  "Cerastium fontanum": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "オランダミミナグサ。欧州原産の小型一年〜二年草のナデシコ科で、芝地や道端、農地に帰化。白い小さな5弁花（深く2裂して10弁に見える）を咲かせ、葉や茎に毛が多い。",
+      "habitat_hint": "芝地、道端、農地の縁、空き地、河川敷の草地。",
+      "finding_tips": "3〜6月、芝地や道端で対生する毛深い小さな葉と白い小さな花を持つ匍匐性〜直立性の小型草本を探します。"
+    },
+    "en": {
+      "summary": "Common Mouse-ear. A small European-origin annual to biennial Caryophyllaceae naturalised in lawns, roadsides, and farmland. Small white 5-petalled flowers (deeply 2-lobed, appearing as 10); hairy leaves and stems.",
+      "habitat_hint": "Lawns, roadsides, farmland margins, vacant lots, and riverside grasslands.",
+      "finding_tips": "From March to June look in lawns and roadsides for small creeping to erect herbs with hairy opposite small leaves and small white flowers."
+    },
+    "zh": {
+      "summary": "簇生卷耳。原产欧洲的小型一至二年生石竹科，归化于草坪、路边与农田。开白色五瓣小花（深 2 裂似 10 瓣），叶与茎多毛。",
+      "habitat_hint": "草坪、路边、农田边缘、空地、河滩草地。",
+      "finding_tips": "三至六月在草坪与路边寻找具对生多毛小叶、白色小花的匍匐至直立小型草本。"
+    }
+  },
+  "Dryopteris chinensis": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ミサキカグマ。湿った林床に生える中型〜大型の常緑シダ。葉は2回羽状に分裂し、葉柄基部に褐色の鱗片があります。",
+      "habitat_hint": "湿った林床、谷地林、神社林、河畔林、半日陰の斜面。",
+      "finding_tips": "通年、湿った林床で2回羽状の中型〜大型の常緑シダを探します。葉柄基部の褐色鱗片が手がかり。"
+    },
+    "en": {
+      "summary": "Chinese Wood Fern. A medium to large evergreen wood fern of damp forest floors. Bipinnate fronds; brown scales at the stipe base.",
+      "habitat_hint": "Damp forest floors, valley woods, shrine groves, riparian woods, and partly shaded slopes.",
+      "finding_tips": "Year-round, look on damp forest floors for medium to large bipinnate evergreen wood ferns. Brown stipe-base scales help confirm."
+    },
+    "zh": {
+      "summary": "中华鳞毛蕨。潮湿林床的中至大型常绿蕨。叶 2 回羽状，叶柄基部具褐色鳞片。",
+      "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
+      "finding_tips": "全年在潮湿林床寻找叶 2 回羽状的中至大型常绿蕨。叶柄基部褐色鳞片可助识别。"
+    }
+  },
+  "Salix japonica": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "シバヤナギ。日本固有の落葉低木のヤナギ科で、明るい林縁や草地、河川敷に生えます。葉は披針形で、春に銀白色の柔らかい花穂を咲かせます。雌雄異株。",
+      "habitat_hint": "明るい雑木林の林縁、草地、河川敷、土手、二次林。",
+      "finding_tips": "花期3〜4月、林縁や河川敷で銀白色の柔らかい花穂を咲かせる小型〜中型の落葉低木を探します。葉は披針形。"
+    },
+    "en": {
+      "summary": "Japanese Willow. A Japan-endemic deciduous Salicaceae shrub of bright forest edges, grasslands, and riverbanks. Lanceolate leaves; silvery-white soft catkins in spring. Dioecious.",
+      "habitat_hint": "Bright secondary woodland edges, grasslands, riverbanks, banks, and secondary woods.",
+      "finding_tips": "Flowers March-April. Look at forest edges and riverbanks for small to medium deciduous shrubs with silvery-white soft catkins. Lanceolate leaves."
+    },
+    "zh": {
+      "summary": "日本柳。日本固有的柳科落叶灌木，生于明亮林缘、草地与河滩。叶披针形，春季开银白色柔软花穗。雌雄异株。",
+      "habitat_hint": "明亮杂木林林缘、草地、河滩、堤岸、次生林。",
+      "finding_tips": "花期三至四月在林缘与河滩寻找具银白色柔软花穗的中小型落叶灌木。叶披针形。"
+    }
+  },
+  "Prunus buergeriana": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "イヌザクラ。日本固有の落葉高木のバラ科で、雑木林や林縁に生えます。サクラの仲間ですが花期が他のサクラより遅く、白い小花を穂状に咲かせます。果実は黒紫色。",
+      "habitat_hint": "雑木林、林縁、谷地林、神社林、河畔林。",
+      "finding_tips": "花期5〜6月、雑木林で白い小花の穂状花序を咲かせる落葉高木を探します。一般的なサクラより遅い花期で、花序が穂状（房状ではない）なのが識別の決め手。"
+    },
+    "en": {
+      "summary": "Buerger's Cherry. A Japan-endemic deciduous Rosaceae tree of secondary woodlands and forest edges. A cherry relative flowering later than other cherries, with spikes of small white flowers. Purple-black fruits.",
+      "habitat_hint": "Secondary woodlands, forest edges, valley woods, shrine groves, and riparian woods.",
+      "finding_tips": "Flowers May-June. Look in secondary woodlands for deciduous trees with spikes of small white flowers. Later flowering than typical cherries and the spike-like (not clustered) inflorescence is diagnostic."
+    },
+    "zh": {
+      "summary": "稠李（伊势樱）。日本固有的蔷薇科落叶乔木，生于杂木林与林缘。樱属近亲但花期晚于其他樱花，白色小花穗状。果紫黑色。",
+      "habitat_hint": "杂木林、林缘、谷地林、神社林、河岸林。",
+      "finding_tips": "花期五至六月在杂木林寻找具白色穗状小花的落叶乔木。花期较晚、花序穗状（非簇状）是关键识别。"
+    }
+  },
+  "Lentinus squarrosulus": {
+    "sources": ["iNaturalist", "Wikipedia"],
+    "ja": {
+      "summary": "ササクレヒラタケ。広葉樹の倒木や朽木に発生する食用キノコ。傘の表面に粗い鱗片（ササクレ）があり、襞は粗くて間隔が広い。乾燥に強く、よく見つけられる。",
+      "habitat_hint": "雑木林の倒木・朽木、薪置場、神社林の倒木、河畔林の朽木。",
+      "finding_tips": "梅雨〜秋、広葉樹の倒木や朽木で傘の表面に粗い鱗片を持つキノコを探します。食用可ですが、似た毒キノコもあるので確実な同定が必要。"
+    },
+    "en": {
+      "summary": "Scaly Lentinus. An edible mushroom on dead broadleaf logs and rotting wood. Cap surface bears coarse scales; gills broadly spaced. Drought-tolerant and commonly found.",
+      "habitat_hint": "Fallen logs and rotting wood in secondary woodlands, wood piles, shrine grove logs, and riparian forest rotting wood.",
+      "finding_tips": "From rainy season to autumn look on broadleaf dead logs and rotting wood for mushrooms with coarsely scaly caps. Edible but resembles some toxic species — confirm identification carefully."
+    },
+    "zh": {
+      "summary": "粗鳞侧耳。生于阔叶倒木与朽木上的食用菌。菌盖表面具粗鳞，菌褶宽间距。耐旱常见。",
+      "habitat_hint": "杂木林倒木与朽木、柴堆、神社林倒木、河岸林朽木。",
+      "finding_tips": "梅雨至秋在阔叶倒木与朽木上寻找菌盖具粗鳞的菇。可食但有类似毒菌，需仔细鉴定。"
+    }
   }
 }
