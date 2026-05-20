@@ -40,14 +40,17 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Official-URL backfill for P13 parks — second pass** *(opened 2026-05-18; first pass shipped 2026-05-20 — 105/253 filled; 148 remain)*
-   - First pass (shipped `4eeaad5`): `scripts/wikipedia_park_url.py` extracts URLs from JA Wikipedia infoboxes / `{{Official}}` templates / `== 外部リンク ==` links. Result by pref: kanagawa 43/72 (60%), tokyo 25/60 (42%), saitama 23/70 (33%), chiba 14/51 (27%). The 133 parks with no Wikipedia article are long-tail 区立/市立/town parks; the 15 with an article but no extractable URL are weird-infobox edge cases. Tried OSM Overpass `website=*` first (`scripts/osm_park_url.py`); `website` tag effectively unused on JP parks (0/5), kept for reference.
-   - **Second pass — 148 P13 parks still lacking URL** (current breakdown: chiba 37, kanagawa 29, saitama 47, tokyo 35):
-     - **A.** Scrape prefecture park-association indexes by name: tokyo-park.or.jp + tmpa.or.jp (Tokyo); kanagawa-park.or.jp (Kanagawa); cga-net.jp (Chiba); parks.or.jp (Saitama). Reuse `parklife.fetch.fetch_cached_or_new`; cache under `data/cache/park_url_search/`. Expected to mostly hit the prefecture-managed entries.
-     - **B.** For 区立/市立 parks (largest residual): scrape the municipality's 公園緑地課 / 公園課 index. The `municipality` column is already populated for most P13 rows, so build per-municipality scraper lookup tables.
-     - **C.** Manual curation: 148 is small enough that an afternoon of name-by-name search would close most of it; write the chosen URLs to `data/manual_park_urls.json` and load via a one-shot script like `scripts/apply_manual_species` does for species.
+1. **Official-URL backfill for P13 parks — third pass (manual curation)** *(opened 2026-05-18; passes 1+2 shipped 2026-05-20 — 111/253 filled; 142 remain)*
+   - **Pass 1** (`4eeaad5`): `scripts/wikipedia_park_url.py` extracts URLs from JA Wikipedia infoboxes / `{{Official}}` templates / `== 外部リンク ==` links. +105 filled.
+   - **Pass 2** (this commit): `scripts/association_park_url.py` fetches a curated set of prefecture-association + heavy-residual municipality indexes (`tokyo-park.or.jp`, `city.saitama.jp`, `city.chiba.jp` + 4 chiba area office subpages), parses `<a>` anchors containing 公園/緑地/霊園/庭園, matches by normalized name. **+6 filled** (all from city.saitama.jp). Many association URLs returned DNS error or 404 (`tmpa.or.jp`, `cga-net.jp`, `kanagawa-park.or.jp/parklist/`, most guessed municipality URLs); option A had limited yield because the prefecture-association sites overlap heavily with what Wikipedia already provided. Option B was constrained by the difficulty of guessing each municipality's 公園緑地課 URL path.
+   - **OSM** (`scripts/osm_park_url.py`, kept for reference): Overpass `leisure=park` features with `website=*` returned 0/5 in sample — JP park OSM `website` coverage is effectively nil.
+   - **Final coverage**: kanagawa 43/72 (60%), tokyo 25/60 (42%), saitama 29/70 (41%), chiba 14/51 (27%). Total **111 / 253 P13 parks (44%)** filled.
+   - **Pass 3 — remaining 142 parks** (current breakdown: chiba 37, kanagawa 29, saitama 41, tokyo 35):
+     - The residual is dominated by small 区立/市立/町立 parks with no Wikipedia article and no dedicated city-website page. Common in: 千葉市 (8 parks like あすみが丘第8緑地, 大野台東緑地), 横浜市 (5), 八王子市 (6), さいたま市残り、各小自治体 1-2 个 each.
+     - **Plan**: manual curation. Write chosen URLs to `data/manual_park_urls.json` (schema: `{"<park slug>": "<url>"}`), then a one-shot apply script does `UPDATE park SET official_url=? WHERE slug=?`. Pattern mirrors `scripts/apply_manual_species`.
+     - Spreadsheet workflow: dump residual to TSV (`sqlite3 -separator $'\t' data/parklife.db "SELECT id, slug, prefecture, municipality, name_ja FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') ORDER BY prefecture, municipality;"`), search each by hand (1-2 min each → ~3-5 hours total), paste URLs back, ingest.
+     - Some parks genuinely have no findable URL (very small, recently-closed, name-only registered) — log these as "no URL exists" in the manual JSON to mark "investigated and skipped".
      - Quick check: `sqlite3 data/parklife.db "SELECT prefecture, COUNT(*) FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') GROUP BY prefecture;"`.
-     - Sample 5 names to inspect what's left: `sqlite3 data/parklife.db "SELECT prefecture, name_ja, municipality FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') ORDER BY RANDOM() LIMIT 5;"`.
 
 2. **Continue species_profile curation** *(paused at 1500 / 2026-05-18 — resumable)*
    - **Current state**: 1500 species × 4 langs (6000 rows) curated. Last commit `894cf16`. Sweep started at 49 species (2026-05-14) and ran through batches 1–153.
