@@ -40,15 +40,15 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Official-URL backfill for P13 parks** *(opened 2026-05-18 alongside duplicate-park bug)*
-   - Problem: ~254 P13-only parks (slug starts `p13-`) have `official_url IS NULL` and render without a website link. P13 source GML (国土数値情報) carries geographic+admin fields only, so this is a structural gap, not a parsing miss. The 2026-05-18 dedup recovered URLs for 19 overlapping cases; the rest need a different strategy.
-   - Plan: for each P13 park, search the prefecture's park-association site by `name_ja` + municipality and populate `park.official_url` from the first confident match. Cache results under `data/cache/park_url_search/`.
-     - Tokyo: tokyo-park.or.jp + tmpa.or.jp
-     - Kanagawa: kanagawa-park.or.jp
-     - Chiba: cga-net.jp
-     - Saitama: parks.or.jp + 埼玉県 公園緑地課
-   - Fallback for stragglers: OSM `website=*` tag near the park's lat/lon; Google Maps Places API if necessary.
-   - Quick check: `sqlite3 data/parklife.db "SELECT prefecture, COUNT(*) FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') GROUP BY prefecture;"`
+1. **Official-URL backfill for P13 parks** *(2026-05-18 opened; 2026-05-20 first pass shipped)*
+   - First pass shipped (`scripts/wikipedia_park_url.py`): query JA Wikipedia by `name_ja`, parse `公式サイト` / `url` infobox params, `{{Official}}` templates, and `== 外部リンク ==` links with `公式` or name match. Web-archive URLs auto-unwrapped to the original. Blacklist: dl.ndl.go.jp, laws.e-gov.go.jp, blog.goo.ne.jp, foundation.tokyu.co.jp, stib.jp/wp-content, komazawa-u.ac.jp, syougai.metro.tokyo.lg.jp/image. Cache: `data/cache/wikipedia_park_url/`.
+   - **Result**: 105/253 P13 parks (42%) filled. By pref: chiba 14/51 (27%), kanagawa 43/72 (60%), saitama 23/70 (33%), tokyo 25/60 (42%). 133 parks had no Wikipedia article (long-tail small/区立/市立 parks); 15 had an article but no extractable URL.
+   - Also tried `scripts/osm_park_url.py` first (Overpass `leisure=park` features with `website=*` tag): OSM correctly identified parks but `website` tag coverage in Japan was effectively 0%. Script kept for reference, not in pipeline.
+   - **Remaining 148 P13 parks with no URL** (next pass options, lower priority):
+     - Scrape prefecture park-association sites for name matches (tokyo-park.or.jp, tmpa.or.jp, kanagawa-park.or.jp, cga-net.jp, parks.or.jp).
+     - For 区立/市立 parks: scrape the relevant municipality's `公園緑地課` index page.
+     - Manual curation: 148 is small enough that an afternoon of name-by-name web search would close most of the gap.
+   - Quick check: `sqlite3 data/parklife.db "SELECT prefecture, COUNT(*) FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') GROUP BY prefecture;"` → currently chiba 37 / kanagawa 29 / saitama 47 / tokyo 35.
 
 2. **Continue species_profile curation** *(paused at 1500 / 2026-05-18 — resumable)*
    - **Current state**: 1500 species × 4 langs (6000 rows) curated. Last commit `894cf16`. Sweep started at 49 species (2026-05-14) and ran through batches 1–153.
