@@ -18,6 +18,7 @@ Compactness:
 from __future__ import annotations
 
 import json
+import re
 import textwrap
 import importlib.util
 from pathlib import Path
@@ -77,11 +78,17 @@ SOURCE_CODE_ORDER = ["official", "inat", "gbif", "ebird"]
 
 
 def medium_photo_url(url: str) -> str:
-    """Use medium iNaturalist renditions in embedded data for fast modal open."""
+    """Use medium iNaturalist renditions in embedded data for fast modal open.
+
+    Also catches the `/original.jpg` form used by GBIF-cached iNat photos
+    (`inaturalist-open-data.s3.amazonaws.com/photos/<id>/original.jpg`) so
+    park-local photos don't load multi-MB originals in every modal.
+    """
     return (url
             .replace("/large.", "/medium.")
             .replace("/small.", "/medium.")
-            .replace("/square.", "/medium."))
+            .replace("/square.", "/medium.")
+            .replace("/original.", "/medium."))
 
 
 def demo_group(taxon_group: str | None, kingdom: str | None) -> str:
@@ -160,6 +167,15 @@ def collect_data() -> dict:
             FROM species_photo
             ORDER BY species_id, sort_order, id
         """))
+        try:
+            local_photo_rows = list(conn.execute("""
+                SELECT park_id, species_id, url, thumb_url, attribution,
+                       source, source_url, tier, sort_order
+                FROM park_species_photo
+                ORDER BY park_id, species_id, tier, sort_order, id
+            """))
+        except Exception:
+            local_photo_rows = []
         profile_rows = list(conn.execute("""
             SELECT species_id, lang, summary, habitat_hint, finding_tips, sources, source_urls
             FROM species_profile
@@ -252,6 +268,29 @@ def collect_data() -> dict:
         for r in park_rows
     ]
 
+    # Per-(park, species) gallery: list of [url, attribution, source_url].
+    # Used to override the trailing carousel slots with photos taken at this
+    # specific park; the species hero (sp.imgs[0]) is preserved as the main
+    # image in the modal.
+    local_gallery: dict[tuple[int, int], list[list[str]]] = {}
+    seen_local_url: dict[tuple[int, int], set[str]] = {}
+    cc_noise_re = re.compile(r"\s*\(https?://creativecommons\.org/[^)]+\)")
+    for r in local_photo_rows:
+        url = medium_photo_url(r["url"]) if r["url"] else ""
+        if not url:
+            continue
+        key = (r["park_id"], r["species_id"])
+        seen = seen_local_url.setdefault(key, set())
+        if url in seen:
+            continue
+        seen.add(url)
+        attr = cc_noise_re.sub("", r["attribution"] or "").strip()
+        local_gallery.setdefault(key, []).append([
+            url,
+            attr,
+            r["source_url"] or "",
+        ])
+
     pair_sources: dict[tuple[int, int], set[str]] = {}
     for r in source_rows:
         codes = pair_sources.setdefault((r["park_id"], r["species_id"]), set())
@@ -276,13 +315,17 @@ def collect_data() -> dict:
             code for code in SOURCE_CODE_ORDER
             if code in pair_sources.get((r["park_id"], r["species_id"]), set())
         ]
-        pairs.append([
+        row = [
             pi, si,
             r["months_bitmap"] or 0,
             r["source_count"] or 1,
             src,
             r["observation_count"] or 1,
-        ])
+        ]
+        li = local_gallery.get((r["park_id"], r["species_id"]))
+        if li:
+            row.append(li[:5])
+        pairs.append(row)
 
     return {
         "species": species, "parks": parks, "pairs": pairs,
@@ -891,8 +934,9 @@ function detailLabels() { return DETAIL_LABELS[displayLang] || DETAIL_LABELS.ja;
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
-for (const [pi, si, mb, sc, src, oc] of DATA.pairs) {
-  parkSpecies[pi].push({si, mb, sc, src: src || [], oc: oc || 1});
+for (const row of DATA.pairs) {
+  const [pi, si, mb, sc, src, oc, li] = row;
+  parkSpecies[pi].push({si, mb, sc, src: src || [], oc: oc || 1, li: li || null});
 }
 
 const map = L.map('map', { zoomControl: true }).setView([35.65, 139.7], 9);
@@ -1129,9 +1173,31 @@ function profileSectionHtml(sp) {
 
 // Each photo is a [url, attribution, source_url] tuple. Older entries may
 // still be plain URL strings (legacy hero fallback) — normalise both.
-function speciesPhotos(sp) {
-  const list = sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [[sp.p, '', '']] : []);
-  return list.map(p => Array.isArray(p) ? p : [p, '', '']);
+// When `pair` is provided and the pair has `li` (photos actually taken at
+// this park), the carousel becomes: [species-hero, ...park-local..., ...rest-of-species].
+// Hero (slot 0) is preserved so the "default" iconic frame still leads.
+function speciesPhotos(sp, pair) {
+  const norm = p => Array.isArray(p) ? p : [p, '', ''];
+  const base = (sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [[sp.p, '', '']] : [])).map(norm);
+  const local = (pair && pair.li && pair.li.length) ? pair.li.map(norm) : [];
+  if (!local.length) return base;
+  if (!base.length) return local;
+  const seen = new Set();
+  const hero = base[0];
+  seen.add(hero[0]);
+  const merged = [hero];
+  for (const p of local) {
+    if (!p[0] || seen.has(p[0])) continue;
+    seen.add(p[0]);
+    merged.push(p);
+  }
+  // Top up with remaining species defaults, in case local < 5
+  for (const p of base.slice(1)) {
+    if (!p[0] || seen.has(p[0])) continue;
+    seen.add(p[0]);
+    merged.push(p);
+  }
+  return merged;
 }
 function photoUrl(p)        { return Array.isArray(p) ? p[0] : (p || ''); }
 function photoAttribution(p){ return Array.isArray(p) ? (p[1] || '') : ''; }
@@ -1140,6 +1206,7 @@ function photoSourceLabel(srcUrl) {
   if (!srcUrl) return '';
   if (srcUrl.indexOf('commons.wikimedia') >= 0) return 'Wikimedia Commons';
   if (srcUrl.indexOf('inaturalist.org') >= 0)  return 'iNaturalist';
+  if (srcUrl.indexOf('gbif.org') >= 0)         return 'GBIF';
   return 'source';
 }
 function photoCaptionHtml(p) {
@@ -1188,7 +1255,7 @@ function openSpeciesModal(si) {
   const pair = selectedParkIdx == null ? null : parkSpecies[selectedParkIdx].find(p => p.si === si);
   const park = selectedParkIdx == null ? null : DATA.parks[selectedParkIdx];
   const D = detailLabels();
-  const photos = speciesPhotos(sp);
+  const photos = speciesPhotos(sp, pair);
   currentModal = { si, photoIdx: 0, photos };
   const hasGallery = photos.length > 1;
   const firstUrl = photos.length ? photoUrl(photos[0]) : '';

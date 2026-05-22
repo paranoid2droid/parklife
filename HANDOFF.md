@@ -86,6 +86,13 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ## Recent sessions
 
+### 2026-05-21 (Claude) — park-specific gallery photos shipped
+- New `scripts/park_species_photo.py` + `park_species_photo` table. Per-(park, species) gallery, picks photos taken at the park (tier-0 ≤600 m) or nearby (tier-1 ≤5 km) from already-cached iNat and GBIF data — no new network calls.
+- GBIF cache (`data/cache/gbif/<pref>__<slug>.json`) was the big unlock: ~80% of GBIF records carry a `media[]` array with image URL + creator + license + lat/lon, already park-scoped to 1.5 km. iNat tight + broad caches add coverage where GBIF media is sparse.
+- Full sweep: 122,283 visible pairs → 57,406 (47%) got park-local photos (53,253 tier-0 + 4,153 tier-1). 46,816 photo rows inserted. Sources: 77k from GBIF, 22k from iNaturalist (lots of dedup overlap, plus diversity filter).
+- Export wiring in `scripts/export_html.py`: per-pair `li` array appended to each pair tuple when local photos exist. `speciesPhotos(sp, pair)` in the modal preserves the species hero at slot 0, inserts park-local photos after, then tops up with the rest of the species defaults. `medium_photo_url` also folds the `/original.jpg` form used by GBIF-hosted iNat photos. CC license URL stripped from attributions to keep payload down.
+- Demo HTML: 17.1 → 30.3 MB (gzipped ~10 MB). Trade-off acceptable for the UX win; if size becomes a concern, switch GBIF `inaturalist-open-data` URLs to `/small.jpg` for the carousel-only positions.
+
 ### 2026-05-16/onward (Claude) — TODO #6 species_profile mass expansion
 - Added `data/species_profiles_extra.json` sidecar + loader in `scripts/seed_species_profiles.py` so future curation grows without ballooning the Python source.
 - Wrote ~355 new 4-language profiles across many batches (commits `45071e1`, `2566f64`, `2fb984d`, `c501c22`, `a402abb`, `17d0125`, `c20f2f3`, `4e59dc6`, `7469e61`, `714d647`, `19f7e65`, `cd803ef`, `1b9cb3f`, `ec81bcd`, `6a999a7`, `2768097`, `16cc2df`, `23989b5`, `6697a88`, `a0273c5`, `3936f00`, `b00121d`, `77bd061`, `8ad9627`, `fc71a22`, `2c38f47`, `b78c798`, `fd5d5e6`, `e4162df`). Profile total: 49 → ~405 species.
