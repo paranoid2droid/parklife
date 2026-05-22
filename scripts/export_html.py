@@ -1174,30 +1174,28 @@ function profileSectionHtml(sp) {
 // Each photo is a [url, attribution, source_url] tuple. Older entries may
 // still be plain URL strings (legacy hero fallback) — normalise both.
 // When `pair` is provided and the pair has `li` (photos actually taken at
-// this park), the carousel becomes: [species-hero, ...park-local..., ...rest-of-species].
-// Hero (slot 0) is preserved so the "default" iconic frame still leads.
+// this park), the carousel becomes: [species-hero, ...park-local..., ...rest-of-species],
+// always capped at PHOTO_TARGET. The species hero stays at slot 0.
+const PHOTO_TARGET = 6;
 function speciesPhotos(sp, pair) {
   const norm = p => Array.isArray(p) ? p : [p, '', ''];
   const base = (sp.imgs && sp.imgs.length ? sp.imgs : (sp.p ? [[sp.p, '', '']] : [])).map(norm);
   const local = (pair && pair.li && pair.li.length) ? pair.li.map(norm) : [];
-  if (!local.length) return base;
-  if (!base.length) return local;
   const seen = new Set();
-  const hero = base[0];
-  seen.add(hero[0]);
-  const merged = [hero];
-  for (const p of local) {
-    if (!p[0] || seen.has(p[0])) continue;
+  const out = [];
+  const push = p => {
+    if (!p || !p[0] || seen.has(p[0])) return false;
     seen.add(p[0]);
-    merged.push(p);
-  }
-  // Top up with remaining species defaults, in case local < 5
-  for (const p of base.slice(1)) {
-    if (!p[0] || seen.has(p[0])) continue;
-    seen.add(p[0]);
-    merged.push(p);
-  }
-  return merged;
+    out.push(p);
+    return out.length >= PHOTO_TARGET;
+  };
+  // 1. hero (slot 0) — keep the species default as the main frame
+  if (base.length) push(base[0]);
+  // 2. park-local fills the trailing carousel slots
+  for (const p of local) if (push(p)) return out;
+  // 3. top up from remaining species defaults
+  for (const p of base.slice(1)) if (push(p)) return out;
+  return out;
 }
 function photoUrl(p)        { return Array.isArray(p) ? p[0] : (p || ''); }
 function photoAttribution(p){ return Array.isArray(p) ? (p[1] || '') : ''; }
