@@ -495,9 +495,12 @@ main { display: flex; height: calc(100vh - 50px); }
   .stats { flex-basis: 100%; margin-left: 0; }
 
   main { flex-direction: column; height: auto; }
-  #map { flex: none; width: 100%; height: 55vh; min-height: 0; }
+  /* min-height guarantees the map is visible even when vh evaluates oddly
+     on iOS Safari (e.g. during URL-bar collapse) or layout settles late. */
+  #map { flex: none; width: 100%; height: 55vh; min-height: 300px; }
   #side { flex: none; width: 100%; max-width: none; min-width: 0;
-          height: 45vh; border-left: none; border-top: 1px solid #ddd;
+          height: 45vh; min-height: 280px;
+          border-left: none; border-top: 1px solid #ddd;
           padding: 10px 12px; }
 
   /* Mobile detail mode: marker tap hides the map until the user returns. */
@@ -1739,6 +1742,13 @@ function applyView() {
 }
 applyView();
 window.addEventListener('resize', () => map.invalidateSize());
+// iOS Safari / mobile browsers sometimes lay out the map container with
+// stale dimensions on first paint (URL-bar collapse changes vh; large pages
+// finish layout late). Re-invalidate at the points where the viewport is
+// most likely to have settled.
+window.addEventListener('load', () => map.invalidateSize());
+window.addEventListener('orientationchange', () => setTimeout(() => map.invalidateSize(), 100));
+[100, 500, 1500].forEach(d => setTimeout(() => map.invalidateSize(), d));
 
 function distanceKm(lat1, lon1, lat2, lon2) {
   const R = 6371;
