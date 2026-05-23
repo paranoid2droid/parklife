@@ -340,6 +340,12 @@ HTML_TEMPLATE = """<!doctype html>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<!-- Load Leaflet up front so the library is parsed and ready before the
+     huge inline DATA literal blocks the main thread. Without this, mobile
+     Safari sometimes initialises the map div with stale dimensions and
+     fails to render tiles for the visible area. -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <style>
 * { box-sizing: border-box; }
 body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans",
@@ -562,11 +568,14 @@ main { display: flex; height: calc(100vh - 50px); }
   </div>
 </div>
 
+<script id="parklife-data" type="application/json">__DATA_JSON__</script>
 <script>
-const DATA = __DATA__;
+// JSON.parse is several times faster than evaluating a giant inline object
+// literal in mobile Safari, and frees the parser to keep up with the script
+// that follows. The data lives in a non-executing <script type=application/json>
+// to avoid a second pass through the JS parser.
+const DATA = JSON.parse(document.getElementById('parklife-data').textContent);
 </script>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <script>
 __SCRIPT__
 </script>
@@ -1805,9 +1814,12 @@ def main() -> None:
         if k in present_groups
     )
     embedded = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
+    # Embedded inside <script type="application/json">; the only chars that
+    # can break out are </script ... so escape < to its Unicode form.
+    embedded_safe = embedded.replace("</", "<\\/")
     html = (HTML_TEMPLATE
             .replace("__GROUP_OPTS__", group_opts)
-            .replace("__DATA__", embedded)
+            .replace("__DATA_JSON__", embedded_safe)
             .replace("__SCRIPT__", CLIENT_JS))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
