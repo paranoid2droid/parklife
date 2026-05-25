@@ -62,6 +62,7 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - **Current tier**: np=14 (mostly) with ~20 left, then drops to np=13.
    - **Remaining candidates by tier** (post-A5): np≥14 → ~20, np≥10 → ~280, np≥5 → ~970, all visible → ~5,160.
    - **Pace**: each batch of 22 entries with full 4-lang profiles + names takes ~8-10k tokens of context. Expect ~13 more batches to clear np≥10.
+   - **Batch template**: see `BATCH_TEMPLATE.md` at repo root — copy-paste skeleton + field guidelines + skip rules + tone notes.
 
 3. **いきものログ ingest (env.go.jp)** *(not started)*
    - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience — would be the most authoritative source we don't yet use.
