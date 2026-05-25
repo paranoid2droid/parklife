@@ -44205,5 +44205,496 @@
       "habitat_hint": "海岸漂积物下、盐沼、河口泥滩缘。",
       "finding_tips": "全年于海岸漂木与海藻下寻找约 3 毫米的白色半透明卵形壳。极小，需放大镜。"
     }
+  },
+  "Micronecta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pygmy Water Boatman",
+    "ja": {
+      "summary": "チビミズムシ属。本州〜九州の池沼や水田にふつうに見られる微小なチビミズムシ科の水生半翅類。体長2〜3mm、扁平な楕円形で、後脚を櫂のように使って水中を泳ぐ。",
+      "habitat_hint": "水田、ため池、緩流の溜まり、湿地。藻類や有機物に富む止水を好む。",
+      "finding_tips": "4〜10月、岸辺の水中を見ると水面下を小さく素早く泳ぐ姿が見える。多数が群れていることが多い。"
+    },
+    "en": {
+      "summary": "Pygmy Water Boatman (Chibimizumushi-zoku). A genus of tiny aquatic bugs (Micronectidae) common in ponds, rice paddies and wetlands across Honshu to Kyushu. Body 2–3 mm, flat oval, swimming with oar-like hind legs.",
+      "habitat_hint": "Rice paddies, ponds, slow backwaters, marshes — algae-rich still water.",
+      "finding_tips": "April to October scan just under the surface near the bank; many swim together in small darting groups."
+    },
+    "zh": {
+      "summary": "小划蝽属（チビミズムシ属）。本州至九州池塘、水田常见的小型水生半翅目划蝽科昆虫。体长2–3mm，扁椭圆形，以桨状后足在水下穿梭。",
+      "habitat_hint": "水田、池塘、缓流回水、湿地。喜藻类丰富的静水。",
+      "finding_tips": "4–10月在岸边水面下观察，常见小群快速游动。"
+    }
+  },
+  "Sitona hispidulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "苜蓿叶象"
+    },
+    "ja": {
+      "summary": "ケチビコフキゾウムシ。マメ科植物（クローバー、ウマゴヤシ類）に付くゾウムシ科の小型甲虫で、体長3〜5mm。世界各地の温帯に広く分布し、日本でも草地や河川敷で普通に見られる。",
+      "habitat_hint": "シロツメクサ群落、河川敷、農耕地縁、芝地。マメ科草本のあるところ。",
+      "finding_tips": "4〜9月、クローバーの葉を掬い網ですくうと得られる。葉縁に半円形の食痕を残す。"
+    },
+    "en": {
+      "summary": "Clover Root Weevil. A small (3–5 mm) Sitona weevil whose larvae feed on legume root nodules and adults on clover leaves. Cosmopolitan in temperate regions; common in Japanese grasslands and river meadows.",
+      "habitat_hint": "White-clover swards, riverbanks, field margins, lawns — anywhere legumes grow.",
+      "finding_tips": "April to September sweep-net clover patches. Look for semicircular notches along leaf edges as a clue."
+    },
+    "zh": {
+      "summary": "苜蓿叶象（ケチビコフキゾウムシ）。象甲科苜蓿叶象属小型甲虫，体长3–5mm，幼虫蛀食豆科根瘤，成虫啃食三叶草叶。广布温带，日本草地、河滩常见。",
+      "habitat_hint": "白三叶草地、河滩、农田边缘、草坪。",
+      "finding_tips": "4–9月扫网三叶草丛即可获得。叶缘半圆形缺刻为识别提示。"
+    }
+  },
+  "Hypena strigatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Streaked Snout Moth",
+    "ja": {
+      "summary": "ナミテンアツバ。ヤガ科アツバ亜科の小型蛾で、開張22〜26mm。前翅は灰褐色で黒い波線状の横線が走る。日本全国の雑木林・林縁にふつうに見られ、幼虫はカラムシなどイラクサ科を食べる。",
+      "habitat_hint": "雑木林、林縁、河川敷の藪、公園緑地。湿った藪を好む。",
+      "finding_tips": "5〜10月、夜間の灯火に飛来する。日中はカラムシ群落の葉裏でも見つかる。"
+    },
+    "en": {
+      "summary": "Streaked Snout Moth (Namiten-atsuba). A small (22–26 mm wingspan) erebid snout moth with grey-brown forewings crossed by dark wavy lines. Common in woodland edges across Japan; larvae feed on nettles (Boehmeria etc.).",
+      "habitat_hint": "Secondary woods, forest edges, riverside thickets, park groves — damp scrubby places.",
+      "finding_tips": "May to October at lights after dark; by day check undersides of false-nettle leaves."
+    },
+    "zh": {
+      "summary": "线髯须夜蛾（ナミテンアツバ）。夜蛾科髯须夜蛾亚科小型蛾，翅展22–26mm，前翅灰褐色具暗色波状横线。日本各地杂木林、林缘普见，幼虫食苎麻等荨麻科植物。",
+      "habitat_hint": "杂木林、林缘、河滩灌丛、公园林地。喜湿润灌丛。",
+      "finding_tips": "5–10月夜间趋灯。白天可在苎麻叶背找到。"
+    }
+  },
+  "Orthosia limbata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rim Quaker Moth",
+    "ja": {
+      "summary": "シロヘリキリガ。ヤガ科キリガ亜科の春の蛾。開張35〜40mm。前翅は灰褐色〜赤褐色で外縁に沿って白い縁取りがあるのが名の由来。早春のヤナギやサクラの花に集まる。",
+      "habitat_hint": "雑木林、河畔林、サクラ・ヤナギの並木。冬越し後の早春に活動。",
+      "finding_tips": "2月下旬〜4月、夜間の灯火または開花中のサクラ・ヤナギの花に集まる個体を探す。"
+    },
+    "en": {
+      "summary": "Rim Quaker (Shiroheri-kiriga). An early-spring noctuid (35–40 mm wingspan) whose grey-brown to reddish forewings show a pale outer rim. Adults emerge with the first cherry and willow blossoms and feed on their nectar.",
+      "habitat_hint": "Secondary woods, riverside forest, cherry and willow plantings.",
+      "finding_tips": "Late February to April at lights or on flowering willow/cherry blooms after dark."
+    },
+    "zh": {
+      "summary": "灵梦尼夜蛾（シロヘリキリガ）。夜蛾科早春活动种，翅展35–40mm，前翅灰褐至红褐，外缘具白边为名所由。羽化期与樱、柳花期同步。",
+      "habitat_hint": "杂木林、河畔林、樱柳行道树。早春活动。",
+      "finding_tips": "2月下旬至4月，夜间趋灯或访樱、柳花。"
+    }
+  },
+  "Amphipyra surnia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oshima Copper Underwing",
+    "ja": {
+      "summary": "オオシマカラスヨトウ。ヤガ科カラスヨトウ亜科の中型蛾で、開張45〜55mm。前翅は黒褐色で銅色光沢を帯び、後翅は鮮やかな橙色。幼虫はサクラ、ナラ類など広葉樹の葉を食べる。",
+      "habitat_hint": "雑木林、社寺林、サクラの公園。低山〜平地の落葉広葉樹林。",
+      "finding_tips": "7〜10月、夜間の灯火に飛来。樹皮や葉裏に止まる際は素早く翅を擦り合わせて飛び立つ。"
+    },
+    "en": {
+      "summary": "Oshima Copper Underwing (Oshima-karasuyotou). A medium noctuid (45–55 mm wingspan) with coppery black-brown forewings and bright orange hindwings. Larvae feed on cherry, oak and other broadleaves.",
+      "habitat_hint": "Secondary woods, shrine groves, cherry-planted parks — lowland deciduous forest.",
+      "finding_tips": "July to October at lights; resting moths on bark often shuffle wings before darting away."
+    },
+    "zh": {
+      "summary": "大红裙杂夜蛾（オオシマカラスヨトウ）。夜蛾科中型种，翅展45–55mm，前翅黑褐带铜光，后翅鲜橙色。幼虫食樱、栎等阔叶树叶。",
+      "habitat_hint": "杂木林、神社林、樱花公园。低山平地落叶阔叶林。",
+      "finding_tips": "7–10月夜间趋灯。停于树皮时常抖翅后突然飞起。"
+    }
+  },
+  "Earias roseifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pink-spotted Bollworm",
+    "ja": {
+      "summary": "ベニモンアオリンガ。コブガ科の小型蛾で、開張16〜22mm。前翅は淡緑色地に鮮やかな桃紅色の斑紋を持つ美しい蛾。幼虫はツツジ類の蕾や新芽を食害する園芸害虫としても知られる。",
+      "habitat_hint": "ツツジ・サツキの植え込み、公園植栽、人家庭園。",
+      "finding_tips": "5〜10月、夜間の灯火に飛来。ツツジの蕾に穴があれば本種の食害の可能性。"
+    },
+    "en": {
+      "summary": "Pink-spotted Bollworm (Benimon-aoringa). A small (16–22 mm wingspan) nolid moth with pale green forewings boldly marked in rose-pink. Larvae bore into azalea buds and shoots, often considered a horticultural pest.",
+      "habitat_hint": "Azalea and satsuki plantings, park hedges, gardens.",
+      "finding_tips": "May to October at lights. Holes in unopened azalea buds suggest the larvae."
+    },
+    "zh": {
+      "summary": "玫斑钻夜蛾（ベニモンアオリンガ）。瘤蛾科小型蛾，翅展16–22mm，前翅淡绿地带鲜艳玫红斑。幼虫蛀食杜鹃花蕾与新芽，为常见园艺害虫。",
+      "habitat_hint": "杜鹃、皋月植栽，公园绿篱，庭园。",
+      "finding_tips": "5–10月夜间趋灯。杜鹃花蕾若有蛀孔即为本种幼虫所为。"
+    }
+  },
+  "Grapholita delineana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヨツスジヒメシンクイ。ハマキガ科の極小型蛾で、開張10〜14mm。前翅は黒褐色に4本の白い斜帯がある。幼虫はアサ（大麻）やカナムグラ（クワ科）の茎に潜って食害する。",
+      "habitat_hint": "河川敷のカナムグラ群落、雑草地、農耕地縁。",
+      "finding_tips": "5〜9月、カナムグラの茂みで日中に飛び立つことがある。夜間の灯火採集が確実。"
+    },
+    "en": {
+      "summary": "Eurasian Hemp Moth (Yotsuji-himeshinkui). A tiny (10–14 mm wingspan) tortricid with dark forewings crossed by four oblique white bars. Larvae bore into stems of hemp and Japanese hop (Humulus japonicus).",
+      "habitat_hint": "Hop tangles along rivers, weedy fields, field margins.",
+      "finding_tips": "May to September flushed from hop thickets by day; reliably at lights at night."
+    },
+    "zh": {
+      "summary": "麻小食心虫（ヨツスジヒメシンクイ）。卷蛾科微型种，翅展10–14mm，前翅黑褐具四条斜白带。幼虫蛀食大麻、葎草茎部。",
+      "habitat_hint": "河滩葎草丛、荒地、农田边缘。",
+      "finding_tips": "5–9月日间惊起于葎草丛，夜间趋灯更易获得。"
+    }
+  },
+  "Asaphidion semilucidum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glossy Round-eyed Ground Beetle",
+    "ja": {
+      "summary": "メダカチビカワゴミムシ。オサムシ科の小型地上甲虫で、体長4〜5mm。複眼が大きく突出する（「メダカ」）のが名の由来。河川敷や湖沼の砂泥質の水際に多い。",
+      "habitat_hint": "河川敷の砂泥地、水田畦、湿地の縁、池畔。",
+      "finding_tips": "3〜10月、川や池の水際の湿った砂泥を歩く小さな甲虫を探す。素早く走り、驚くと砂に潜る。"
+    },
+    "en": {
+      "summary": "Glossy Round-eyed Ground Beetle (Medaka-chibikawa-gomimushi). A small (4–5 mm) ground beetle with conspicuously bulging eyes, hence the medaka (\"big-eye\") name. Common on damp silty banks of rivers, ponds and paddies.",
+      "habitat_hint": "Silty river banks, paddy edges, pond shores, wet seepages.",
+      "finding_tips": "March to October check moist silt at water margins; runs quickly and burrows when alarmed."
+    },
+    "zh": {
+      "summary": "亚光虎步甲（メダカチビカワゴミムシ）。步甲科小型种，体长4–5mm，复眼大而突出（和名「メダカ」即源于此）。常见于河滩、池塘湿润砂泥岸。",
+      "habitat_hint": "河滩砂泥地、水田田埂、湿地边缘、池畔。",
+      "finding_tips": "3–10月观察水边湿润砂泥，奔走迅捷，受惊钻入沙中。"
+    }
+  },
+  "Eumorphobotys eumorphalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-winged Bamboo Borer Moth",
+    "ja": {
+      "summary": "シナチクノメイガ。ツトガ科ノメイガ亜科の中型蛾で、開張35〜45mm。前翅は淡黄色〜橙黄色に黒い細い波線模様、後翅は淡黄色。幼虫はタケ・ササ類の葉を綴って食べる。",
+      "habitat_hint": "竹林、ササ群落、その周辺の雑木林。",
+      "finding_tips": "6〜9月、夜間の灯火に飛来。竹林周辺の灯火採集で多く得られる。"
+    },
+    "en": {
+      "summary": "Yellow-winged Bamboo Borer (Shinachiku-nomeiga). A medium crambid moth (35–45 mm wingspan) with pale yellow to orange-yellow forewings crossed by thin wavy black lines. Larvae web and feed on bamboo and dwarf bamboo leaves.",
+      "habitat_hint": "Bamboo groves, sasa thickets and adjacent woodland.",
+      "finding_tips": "June to September at lights, especially near bamboo stands."
+    },
+    "zh": {
+      "summary": "黄翅叉环野螟（シナチクノメイガ）。草螟科野螟亚科中型蛾，翅展35–45mm，前翅淡黄至橙黄具细黑波线。幼虫缀叶取食竹、矢竹类。",
+      "habitat_hint": "竹林、矢竹丛及周边杂木林。",
+      "finding_tips": "6–9月夜间趋灯，竹林附近灯诱效果尤佳。"
+    }
+  },
+  "Panaorus albomaculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-spotted Seed Bug",
+    "ja": {
+      "summary": "モンシロナガカメムシ。ナガカメムシ科の小型カメムシで、体長6〜7mm。黒地に白い斑紋がある。地表性で、落ち葉の下や草の根際にいてイネ科・タデ科の種子を吸う。",
+      "habitat_hint": "草地、河川敷、林床の落ち葉層、休耕地。",
+      "finding_tips": "4〜10月、落ち葉をかき分けるか、イネ科草本を掬い網ですくうと得られる。地表でも歩く姿が見られる。"
+    },
+    "en": {
+      "summary": "White-spotted Seed Bug (Monshiro-naga-kamemushi). A small (6–7 mm) lygaeid seed bug with bold white spots on a black body. Lives on the ground feeding on fallen grass and knotweed seeds.",
+      "habitat_hint": "Grasslands, riverbanks, leaf litter on woodland floors, fallow fields.",
+      "finding_tips": "April to October sift leaf litter or sweep grasses; also active on bare ground in sunshine."
+    },
+    "zh": {
+      "summary": "白斑地长蝽（モンシロナガカメムシ）。长蝽科小型种，体长6–7mm，黑底白斑。地栖性，于落叶层与草根处吸食禾本科、蓼科种子。",
+      "habitat_hint": "草地、河滩、林床落叶层、撂荒地。",
+      "finding_tips": "4–10月翻动落叶或扫网禾本草丛，地表晴天亦可见行走。"
+    }
+  },
+  "Eleocharis pellucida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハリイ。カヤツリグサ科ハリイ属の細い多年草で、湿地や水田の畔に密に群生する。茎は針のように細く高さ10〜30cm、頂に1個の小穂をつける。",
+      "habitat_hint": "水田、湿地、ため池の縁、休耕田の浅水部。",
+      "finding_tips": "6〜9月、水田の畔や浅い止水で針状の茎が密集する小群を探す。茎の先に淡褐色の穂。"
+    },
+    "en": {
+      "summary": "Pellucid Spikerush (Hari-i). A slender perennial sedge (Cyperaceae) forming dense tufts in paddies and wetland margins. Needle-like stems 10–30 cm tall, each tipped by a single small spikelet.",
+      "habitat_hint": "Rice paddies, marshes, pond edges, shallow water of fallow fields.",
+      "finding_tips": "June to September scan paddy banks and shallow stillwater for dense tufts of needle stems with a pale brown terminal spike."
+    },
+    "zh": {
+      "summary": "透明鳞荸荠（ハリイ）。莎草科荸荠属细弱多年草，丛生于水田田埂与湿地。茎针状，高10–30cm，顶生一小穗。",
+      "habitat_hint": "水田、湿地、池塘边缘、撂荒水田浅水处。",
+      "finding_tips": "6–9月观察水田田埂浅水处密生针状茎丛，顶具淡褐色穗。"
+    }
+  },
+  "Strobilurus ohshimae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cedar Twig Mushroom",
+    "aliases": {
+      "zh-Hans": "杉枝菇"
+    },
+    "ja": {
+      "summary": "スギエダタケ。タマバリタケ科スギエダタケ属の小型きのこで、傘径1〜3cm、白色〜淡灰褐色。スギの落枝・球果から発生する。可食だが特に味は良くない。",
+      "habitat_hint": "スギ林の林床、落ちたスギの枝・球果上。",
+      "finding_tips": "10〜12月、スギ林床のスギの落枝や球果を裏返してチェック。柄が長く細いのが特徴。"
+    },
+    "en": {
+      "summary": "Cedar Twig Mushroom (Sugi-eda-take). A small Strobilurus (Physalacriaceae) mushroom with white to greyish caps 1–3 cm, fruiting on fallen Japanese cedar twigs and cones. Edible but undistinguished.",
+      "habitat_hint": "Cedar (Cryptomeria) forest floor, on fallen twigs and cones.",
+      "finding_tips": "October to December turn over Cryptomeria twigs and cones on the ground. The long slender stem is diagnostic."
+    },
+    "zh": {
+      "summary": "杉枝菇（スギエダタケ）。膨瑚菌科小型菌，菌盖直径1–3cm，白至灰褐色，生于杉树落枝及球果。可食但味道平淡。",
+      "habitat_hint": "杉林林床、杉树落枝与球果上。",
+      "finding_tips": "10–12月翻看杉林落枝与球果，柄细长为辨识要点。"
+    }
+  },
+  "Pedinotrichia picea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Black Scarab",
+    "aliases": {
+      "zh-Hans": "小黑鳃金龟"
+    },
+    "ja": {
+      "summary": "コクロコガネ。コガネムシ科コフキコガネ亜科の小型甲虫で、体長12〜16mm。全体に黒色で鞘翅に細かい点刻と短毛がある。幼虫は土中で植物の根を、成虫は広葉樹の葉を食害する。",
+      "habitat_hint": "雑木林、公園、農耕地縁、河川敷の林。",
+      "finding_tips": "6〜8月の夜間、灯火に飛来する個体が最も得やすい。日中はクヌギ・コナラ類の梢の葉裏に潜む。"
+    },
+    "en": {
+      "summary": "Small Black Scarab (Kokuro-kogane). A small (12–16 mm) melolonthine scarab, uniformly black with finely punctured and lightly haired elytra. Larvae feed on roots in soil; adults nibble broadleaf foliage.",
+      "habitat_hint": "Secondary woods, parks, field margins, riverine forest.",
+      "finding_tips": "Best taken at lights on June to August evenings; by day they hide under oak (Quercus serrata/acutissima) leaves."
+    },
+    "zh": {
+      "summary": "小黑鳃金龟（コクロコガネ）。金龟科鳃金龟亚科小型甲虫，体长12–16mm，通体黑色，鞘翅细刻点并具短毛。幼虫蛀食土中植物根，成虫啃食阔叶树叶。",
+      "habitat_hint": "杂木林、公园、农田边缘、河滩林。",
+      "finding_tips": "6–8月夜间灯诱最易获得。白天藏于栎类树梢叶背。"
+    }
+  },
+  "Corchoropsis crenata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sesame Bush",
+    "ja": {
+      "summary": "カラスノゴマ。アオイ科（旧シナノキ科）の一年草で、高さ30〜90cm。葉は卵形で鋸歯があり、夏〜秋に黄色の5弁花を咲かせる。種子の形をゴマに見立てたのが名の由来。",
+      "habitat_hint": "道端、畑の縁、河川敷、空き地。やや乾いた日当たり地。",
+      "finding_tips": "8〜10月、黄色の小花と細長い果実が目印。果実中の小さな種子はゴマ状。"
+    },
+    "en": {
+      "summary": "Sesame Bush (Karasu-no-goma, \"crow's sesame\"). An annual herb (Malvaceae, formerly Tiliaceae) 30–90 cm tall with toothed ovate leaves and 5-petalled yellow flowers in summer to autumn. Named for sesame-like seeds.",
+      "habitat_hint": "Roadsides, field margins, riverbanks, vacant lots — sunny, somewhat dry ground.",
+      "finding_tips": "August to October look for small yellow flowers and slender cylindrical capsules; the small seeds inside resemble sesame."
+    },
+    "zh": {
+      "summary": "田麻（カラスノゴマ）。锦葵科（原椴树科）一年生草本，高30–90cm。叶卵形具齿，夏秋开五瓣黄花。种子形似芝麻，故和名为「乌鸦之胡麻」。",
+      "habitat_hint": "路边、田缘、河滩、荒地。喜阳光稍干燥处。",
+      "finding_tips": "8–10月寻黄色小花与细长蒴果，果内小粒种子如芝麻。"
+    }
+  },
+  "Rhinogobius giurinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ゴクラクハゼ。ハゼ科ヨシノボリ属の淡水魚で、体長5〜10cm。体側に瑠璃色の小斑点が散らばり、産卵期の雄は鮮やかに発色する。本州〜九州、台湾、中国にかけて分布。",
+      "habitat_hint": "河川中下流の砂礫底、用水路、内湾の汽水域。両側回遊性で稚魚期は海に下る。",
+      "finding_tips": "4〜10月、川底の小石をそっとどかすと、頬を立てて威嚇するハゼがいる。瑠璃色の斑点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Barcheek Goby (Gokurakuhaze). A 5–10 cm freshwater goby (Rhinogobius) with scattered bluish iridescent spots; breeding males flush vivid colours. Amphidromous — larvae drift to sea then return. Honshu to Kyushu, Taiwan and China.",
+      "habitat_hint": "Gravelly middle-lower river beds, irrigation channels, brackish estuaries.",
+      "finding_tips": "April to October lift small stones gently to find perched gobies. The iridescent blue spots are diagnostic."
+    },
+    "zh": {
+      "summary": "子陵吻鰕虎鱼（ゴクラクハゼ）。鰕虎科吻鰕虎属淡水鱼，体长5–10cm，体侧散布琉璃色小斑，繁殖期雄鱼色彩艳丽。本州至九州、台湾、中国大陆均产，两侧回游。",
+      "habitat_hint": "河流中下游砂砾底、灌渠、内湾半咸水。",
+      "finding_tips": "4–10月轻翻河床小石可见，琉璃色斑点为辨识要点。"
+    }
+  },
+  "Deparia musashiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Musashi Lady Fern",
+    "aliases": {
+      "zh-Hans": "武藏对囊蕨"
+    },
+    "ja": {
+      "summary": "ムサシシケシダ。メシダ科シケシダ属の常緑性シダで、葉は2回羽状深裂、長さ30〜60cm。関東〜中部の低山地の沢沿いや湿った林床にやや稀に見られる。",
+      "habitat_hint": "落葉広葉樹林の沢沿い、湿った林床、岩の隙間。",
+      "finding_tips": "通年、特に5〜11月、沢沿いの湿った場所で柔らかい質感の細裂した葉を探す。"
+    },
+    "en": {
+      "summary": "Musashi Lady Fern (Musashi-shikeshida). An evergreen Deparia fern of the Athyriaceae with twice-pinnatifid fronds 30–60 cm long. Locally uncommon along stream banks and damp forest floors in central Honshu.",
+      "habitat_hint": "Stream sides in deciduous forest, damp shaded floors, rock crevices.",
+      "finding_tips": "Year-round (best May to November). Search shaded streamside for softly textured, finely divided fronds."
+    },
+    "zh": {
+      "summary": "武藏对囊蕨（ムサシシケシダ）。蹄盖蕨科对囊蕨属常绿蕨，叶二回羽状深裂，长30–60cm。关东至中部低山区溪畔湿润林床稀有分布。",
+      "habitat_hint": "落叶阔叶林溪畔、湿润林床、岩隙。",
+      "finding_tips": "全年（以5–11月为佳），于溪畔阴湿处寻细裂柔软之叶。"
+    }
+  },
+  "Viola tokubuchiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fuji Violet",
+    "ja": {
+      "summary": "フジスミレ。スミレ科スミレ属の多年草で、葉は心形で表面に銀白色の斑模様が出ることが多い。春に淡紅紫色の花を咲かせる。本州中部の山地のやや乾いた林下に分布。",
+      "habitat_hint": "落葉広葉樹林の林床、林縁、やや乾いた山地斜面。",
+      "finding_tips": "4〜5月、林床で銀白色の斑入りの葉と淡紅紫色の花を探す。葉の模様が他のスミレと識別しやすい。"
+    },
+    "en": {
+      "summary": "Fuji Violet (Fuji-sumire). A perennial violet with heart-shaped leaves often patterned silvery-white, bearing pale pinkish-purple flowers in spring. Central Honshu mountain woodlands.",
+      "habitat_hint": "Deciduous-forest floor and edges, somewhat dry hillsides.",
+      "finding_tips": "April to May look for silvery-marbled heart-shaped leaves and pale pinkish-purple flowers; the leaf pattern separates it from common violets."
+    },
+    "zh": {
+      "summary": "凤凰堇菜（フジスミレ）。堇菜科多年生草本，叶心形，叶面常具银白斑纹。春开淡红紫色花。本州中部山地稍干燥林下分布。",
+      "habitat_hint": "落叶阔叶林林床、林缘、稍干山坡。",
+      "finding_tips": "4–5月于林床寻银白斑纹之心形叶与淡红紫花，叶面斑纹为识别要点。"
+    }
+  },
+  "Tradescantia pallida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムラサキゴテン（紫御殿）。ツユクサ科の常緑多年草でメキシコ原産。葉も茎も濃紫色を帯び、夏〜秋に淡桃色〜紫色の三弁花を咲かせる。公園や庭園のグランドカバーによく植えられる。",
+      "habitat_hint": "公園植栽、街路樹下、生垣の縁、家庭園芸。日向〜半日陰。",
+      "finding_tips": "通年、特に7〜10月、紫色の葉と桃紫色の小花のある植え込みを探す。明らかな園芸種なので識別容易。"
+    },
+    "en": {
+      "summary": "Purple Heart (Murasaki-goten). An evergreen commelinaceous perennial from Mexico with deep purple stems and leaves and pale pink to purple three-petalled flowers in summer to autumn. Widely planted as ornamental groundcover.",
+      "habitat_hint": "Park beds, street-tree understorey, hedge edges, gardens — sun to part shade.",
+      "finding_tips": "Year-round (flowers July to October). Unmistakable purple foliage in cultivated beds."
+    },
+    "zh": {
+      "summary": "淡色紫露草（ムラサキゴテン，紫御殿）。鸭跖草科常绿多年草，原产墨西哥，茎叶深紫色，夏秋开淡粉至紫色三瓣花。常作公园庭园地被栽植。",
+      "habitat_hint": "公园花坛、行道树下、绿篱边、庭园。喜向阳至半阴。",
+      "finding_tips": "全年（7–10月开花），栽植地紫色叶丛十分醒目，识别极易。"
+    }
+  },
+  "Orisarma intermedium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Benkei Crab",
+    "ja": {
+      "summary": "ベンケイガニ。ベンケイガニ科の半陸生のカニで、甲幅2〜3cm。甲は方形で赤褐色〜黒褐色、鋏脚は黄褐色。河口近くや内湾の岸辺に巣穴を掘り、夜間に活動する。",
+      "habitat_hint": "河口・汽水域の石垣・転石下、海岸の護岸隙間、塩生湿地。",
+      "finding_tips": "5〜10月、夕方〜夜間、河口の石垣や転石をめくると素早く隠れるカニを探す。日中は穴の中。"
+    },
+    "en": {
+      "summary": "Benkei Crab (Benkei-gani). A semi-terrestrial sesarmid crab (carapace 2–3 cm wide), squarish reddish-brown body with yellow-brown claws. Burrows along estuaries and brackish shorelines; nocturnal.",
+      "habitat_hint": "Estuarine and brackish stone walls, rocks, sea-wall crevices, salt marshes.",
+      "finding_tips": "May to October at dusk/night lift stones along estuary walls; by day they retreat into burrows."
+    },
+    "zh": {
+      "summary": "中型东方相手蟹（ベンケイガニ）。相手蟹科半陆生蟹类，甲宽2–3cm，方形，红褐至黑褐色，螯黄褐色。在河口、内湾岸边掘穴，夜行性。",
+      "habitat_hint": "河口、半咸水石墙与乱石下、海岸护岸缝隙、盐沼。",
+      "finding_tips": "5–10月傍晚至夜间翻动河口石块寻迅速隐藏之蟹。白天藏于洞中。"
+    }
+  },
+  "Carex siderosticta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タガネソウ。カヤツリグサ科スゲ属の多年草で、葉は幅2〜3cmと広く笹のような形が特徴的。山地の落葉広葉樹林の林床に群生し、春に細い穂を出す。",
+      "habitat_hint": "落葉広葉樹林の林床、谷沿いの斜面、半日陰の腐植土。",
+      "finding_tips": "4〜6月、林床の笹のような幅広い葉のスゲを探す。穂は地味で目立たないが、葉の形で識別容易。"
+    },
+    "en": {
+      "summary": "Broadleaf Sedge (Tagane-sou). A Carex with unusually broad bamboo-like leaves 2–3 cm wide, carpeting the floor of deciduous mountain forests. Thin inconspicuous spikes appear in spring.",
+      "habitat_hint": "Deciduous-forest floor, valley slopes, humus-rich part shade.",
+      "finding_tips": "April to June scan shady forest floors for sedge clumps with conspicuously wide bamboo-leaf-like blades."
+    },
+    "zh": {
+      "summary": "宽叶苔草（タガネソウ）。莎草科苔草属多年草，叶宽2–3cm，状如箬叶，群生于落叶阔叶林林床，春出细穗。",
+      "habitat_hint": "落叶阔叶林林床、谷坡、半阴富腐殖质处。",
+      "finding_tips": "4–6月观察林床宽如箬叶之苔草丛，叶形即可识别。"
+    }
+  },
+  "Verbena officinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クマツヅラ。クマツヅラ科の多年草で、高さ30〜80cm。葉は対生し3裂、夏〜秋に細長い穂状花序の先端に淡紫色の小花を咲かせる。古来ハーブ・薬草として知られる。",
+      "habitat_hint": "道端、原野、河川敷、農耕地縁、空き地。乾いた日当たり地。",
+      "finding_tips": "6〜10月、細長い穂の先に淡紫色の小花が順次開く独特の姿で識別する。"
+    },
+    "en": {
+      "summary": "Common Vervain (Kumatsuzura). A perennial herb 30–80 cm tall with opposite three-lobed leaves and slender spikes bearing small pale-lavender flowers from summer to autumn. Long used as a medicinal herb worldwide.",
+      "habitat_hint": "Roadsides, meadows, riverbanks, field margins, vacant lots — dry sunny ground.",
+      "finding_tips": "June to October — the long wand-like spikes with tiny lavender flowers opening from base upward are diagnostic."
+    },
+    "zh": {
+      "summary": "马鞭草（クマツヅラ）。马鞭草科多年生草本，高30–80cm，对生叶三裂，夏秋抽细长穗状花序，顶端续开淡紫色小花。自古为药草。",
+      "habitat_hint": "路边、原野、河滩、农田边缘、荒地。喜向阳干燥处。",
+      "finding_tips": "6–10月观察细长穗顶端依次开放的淡紫色小花，姿态独特易识。"
+    }
+  },
+  "Cyperus congestus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "密花莎草"
+    },
+    "ja": {
+      "summary": "ユメノシマガヤツリ。カヤツリグサ科の多年草で、南アフリカ原産の帰化植物。高さ40〜100cm、茎の先に多数の小穂が密集した球状の花序をつける。1970年代に夢の島（東京）で発見されたのが名の由来。",
+      "habitat_hint": "埋立地、河川敷、空き地、湿った造成地。撹乱地に強い帰化植物。",
+      "finding_tips": "7〜10月、撹乱地で茎の先に明るい黄褐色の球状の花序がある大型ガヤツリを探す。"
+    },
+    "en": {
+      "summary": "Dense Flat-sedge (Yumenoshima-gayatsuri). A 40–100 cm sedge native to South Africa, naturalised in Japan. Stems carry a dense rounded cluster of many spikelets. Named after Yumenoshima (Tokyo) where it was first recorded in the 1970s.",
+      "habitat_hint": "Landfills, riverbanks, vacant lots, disturbed damp ground.",
+      "finding_tips": "July to October look for tall sedges with a tight golden-brown rounded inflorescence in disturbed open ground."
+    },
+    "zh": {
+      "summary": "密花莎草（ユメノシマガヤツリ）。莎草科多年生草本，原产南非，归化于日本。高40–100cm，茎顶生密集球形花序。1970年代于东京「梦之岛」首次记录，故名。",
+      "habitat_hint": "填埋地、河滩、荒地、湿润扰动地。",
+      "finding_tips": "7–10月于扰动空地寻顶生黄褐色球形花序之高大莎草。"
+    }
   }
 }
