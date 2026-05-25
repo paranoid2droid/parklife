@@ -2698,6 +2698,9 @@
       "summary": "葛蝽（豆缘蝽科），小型圆形蝽，常在葛藤等豆科上集群。",
       "habitat_hint": "葛藤茂盛的河滩、住宅围栏、空地、田边。",
       "finding_tips": "葛藤的茎和叶上密集排列的黄褐色小半球状蝽即是。单只不到 1 cm，常如纽扣般成片。"
+    },
+    "aliases": {
+      "zh-Hans": "葛蝽"
     }
   },
   "Agriosphodrus dohrni": {
@@ -2867,7 +2870,8 @@
       "summary": "咖啡透翅天蛾，翅透明的日行性天蛾。会像蜂鸟般悬停于花前吸蜜。",
       "habitat_hint": "花坛、杂草花、栀子附近、明亮园路边、夏季庭院。",
       "finding_tips": "白天观察花丛中震动透明翅膀悬停的蜂大昆虫。吸蜜时可见长口吻。"
-    }
+    },
+    "common_name_en": "Coffee Bee Hawkmoth"
   },
   "Dendrocopos major": {
     "sources": [
@@ -3058,7 +3062,8 @@
       "summary": "豆粉蝶（Eastern Pale Clouded Yellow）。雄虫亮黄、雌虫偏白。河滩与草地常见。",
       "habitat_hint": "河滩、草地、田边、草坪、有白车轴草的地方。",
       "finding_tips": "草地上方低飞的黄或白蝶。也常在地面吸水。"
-    }
+    },
+    "common_name_en": "Eastern Pale Clouded Yellow"
   },
   "Eophona personata": {
     "sources": [
@@ -3396,7 +3401,8 @@
       "summary": "日本竹节虫。极致拟态枝条，不动几乎无法发现。多以雌虫孤雌生殖，雄虫极稀。",
       "habitat_hint": "杂木林、麻栎/樱花等阔叶树、神社树林、灌丛。",
       "finding_tips": "在枝叶上找『会动的小枝』，多由其动作露馅。"
-    }
+    },
+    "common_name_en": "Japanese Stick Insect"
   },
   "Dryopteris erythrosora": {
     "sources": [
@@ -3565,7 +3571,11 @@
       "summary": "斐豹蛱蝶（属名异写）。雌雄差异显著，雌虫拟态金斑蝶。随气候变暖向北扩展。",
       "habitat_hint": "花坛、河滩、林缘、有堇菜的向阳处。",
       "finding_tips": "翅橙黑豹纹。雌虫翅尖大块黑色看似朴素，近观可识拟态特征。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "斐豹蛱蝶"
+    },
+    "common_name_en": "Indian Fritillary"
   },
   "Byasa alcinous": {
     "sources": [
@@ -3990,6 +4000,9 @@
       "summary": "日本月蛾（绿尾大蚕蛾近缘），大型淡蓝色蚕蛾，后翅长尾突显眼。",
       "habitat_hint": "杂木林、神社树林、山毛榉樱花阔叶林、夜间路灯。",
       "finding_tips": "夏夜在路灯或自动售货机灯下找淡蓝色大型蛾。翼展超 10 cm，长尾极具辨识度。"
+    },
+    "aliases": {
+      "zh-Hans": "日本月蛾"
     }
   },
   "Carabus insulicola": {
@@ -4011,6 +4024,9 @@
       "summary": "蓝步甲（青步甲），鞘翅金属绿至铜色的大型地栖甲虫。猎食蚯蚓和小型无脊椎动物。",
       "habitat_hint": "林床、神社树林、潮湿落叶下、石下、谷地林。",
       "finding_tips": "翻起落叶或石块寻找。多夜行，黄昏到夜晚可能在园路出现。**翻找后请将覆盖物恢复原状。**"
+    },
+    "aliases": {
+      "zh-Hans": "蓝步甲"
     }
   },
   "Petasites japonicus": {
@@ -4372,6 +4388,9 @@
       "summary": "星宽缘蝽（缘蝽科），腹宽、背具白色星斑的中型蝽。多见于葛藤等豆科植物。",
       "habitat_hint": "有葛藤的地方、河滩、空地、田边。",
       "finding_tips": "找腹缘宽展、背具白斑的蝽，常在葛藤上聚集。"
+    },
+    "aliases": {
+      "zh-Hans": "星宽缘蝽"
     }
   },
   "Ricania shantungensis": {
@@ -4393,6 +4412,9 @@
       "summary": "中国蛾蜡蝉（与 Pochazia 近缘的外来种）。翅三角形带白斑，果树害虫。野外难与 Pochazia 区分。",
       "habitat_hint": "庭园、果树、公园植被、行道树、林缘。",
       "finding_tips": "在叶上找三角形褐翅带浅斑的蝉状小虫。与 Pochazia 极相似，需拍照鉴定。"
+    },
+    "aliases": {
+      "zh-Hans": "中国蛾蜡蝉"
     }
   },
   "Charadrius alexandrinus": {
@@ -4541,7 +4563,8 @@
       "summary": "棕静螳螂（小型螳螂）。前足捕捉肢内侧有黑色斑列，明显小于大刀螳。有绿色与褐色型。",
       "habitat_hint": "林缘、草地、河滩、农田、庭园植被。",
       "finding_tips": "明显小于大刀螳，前足张开可见内侧黑斑。秋季卵鞘也较小。"
-    }
+    },
+    "common_name_en": "Small Asian Mantis"
   },
   "Trifolium dubium": {
     "sources": [
@@ -4604,6 +4627,9 @@
       "summary": "鹿子蛾（Amata fortunei），日行性鹿子蛾科蛾。翅半透明黑色配白色斑点，被认为是拟态有蜇昆虫的警示色。",
       "habitat_hint": "草地、河滩、林缘、开阔园路、有灌木的地方。",
       "finding_tips": "找翅半透明带白色圆点的蛾，白天在草上慢飞。"
+    },
+    "aliases": {
+      "zh-Hans": "鹿子蛾"
     }
   },
   "Bufo japonicus": {
@@ -5916,7 +5942,8 @@
       "summary": "短翅稻蝗，小型绿色蝗虫，生于水田与潮湿草地。是稻害虫，传统上也作食用蝗（『稻香蝗』）。",
       "habitat_hint": "水田、湿地、河滩草地、田边、潮湿草原。",
       "finding_tips": "在水田或草地找短距弹跳的绿色蝗虫。翅短，不远飞。"
-    }
+    },
+    "common_name_en": "Short-Winged Rice Grasshopper"
   },
   "Cyperus difformis": {
     "sources": [
@@ -5980,7 +6007,8 @@
       "summary": "燕灰蝶（紫燕灰蝶），翅面深紫光泽，后翅具尾突。幼虫食常绿栎类。",
       "habitat_hint": "杂木林、神社树林、有常绿栎的林子、神社境内、明亮林缘。",
       "finding_tips": "翅面深紫光泽配后翅细尾突。后翅尾突可与紫小灰蝶相区分。"
-    }
+    },
+    "common_name_en": "Powdered Oakblue"
   },
   "Emberiza variabilis": {
     "sources": [
@@ -6701,7 +6729,8 @@
       "summary": "细花忍冬，落叶灌木。早春开细长淡粉花，初夏结红色甜果，可食。",
       "habitat_hint": "林缘、神社境内、明亮斜坡、谷地林、河岸林。",
       "finding_tips": "三至四月叶展时寻找枝下垂细长淡粉花的灌木。初夏红果鸟亦喜食。"
-    }
+    },
+    "common_name_en": "Hairy Honeysuckle"
   },
   "Callambulyx gabyae": {
     "sources": [
@@ -6997,7 +7026,8 @@
       "summary": "钟蟋蟀（钟打）。鸣声为清脆金属感的『叮-叮』，似敲钟，因此得名。秋季住宅区绿篱常听到。",
       "habitat_hint": "住宅区绿篱、林缘、住宅周边、绿化、神社境内。",
       "finding_tips": "九至十一月夜里循『叮叮』声寻找。虫本身极小，藏于树皮或叶缝。"
-    }
+    },
+    "common_name_en": "Bell Cricket"
   },
   "Astur gentilis": {
     "sources": [
@@ -7125,6 +7155,9 @@
       "summary": "小列当（外来）。无叶绿素的寄生植物，附着豆科（尤其白车轴草）根上吸取养分。",
       "habitat_hint": "有白车轴草的草坪、河滩、田边、空地。",
       "finding_tips": "四至六月在白车轴草丛中找淡褐黄色细棒状植物。叶退化，仅花序醒目。"
+    },
+    "aliases": {
+      "zh-Hans": "小列当"
     }
   },
   "Arcte coerula": {
@@ -7694,6 +7727,9 @@
       "summary": "Upside-down Fern, a common evergreen woodland fern. Its name refers to the upper and lower leaf surfaces looking nearly identical.",
       "habitat_hint": "Forest understory, valley woods, shrine grounds, shaded slopes, and damp forest floors.",
       "finding_tips": "Look for an evergreen fern with bi-tripinnate fronds whose upper and lower surfaces resemble each other. Glossy, often colonial as a ground cover."
+    },
+    "aliases": {
+      "zh-Hans": "斜方复叶耳蕨"
     }
   },
   "Krananda latimarginaria": {
@@ -7736,6 +7772,9 @@
       "summary": "美姝凤蝶（黑凤蝶），大型黑色凤蝶，带蓝紫色金属光泽。在林缘和神社境内优雅滑翔。",
       "habitat_hint": "林缘、神社境内、神社树林、有花椒或柑橘类的种植区。",
       "finding_tips": "凤蝶中通体黑色且带蓝紫光的种类。比黄黑色凤蝶大且色深。"
+    },
+    "aliases": {
+      "zh-Hans": "美姝凤蝶"
     }
   },
   "Castanea crenata": {
@@ -7969,6 +8008,9 @@
       "summary": "四线锦蛇（条纹蛇），无毒本土中型蛇。体侧具 4 条暗色纵纹。动作快，食鼠类和蛙类。",
       "habitat_hint": "杂木林、河滩草地、农田、神社境内、明亮斜坡。",
       "finding_tips": "找棕至灰褐色身体配 4 条纵纹的蛇。性情温和，请远观勿触。"
+    },
+    "aliases": {
+      "zh-Hans": "四线锦蛇"
     }
   },
   "Galinsoga quadriradiata": {
@@ -8158,7 +8200,8 @@
       "summary": "竹斑蛾，黑色配腹部细红环带。幼虫食竹叶，毒毛接触皮肤可致皮炎。",
       "habitat_hint": "竹林、神社竹丛、河滩竹丛、住宅区竹植被。",
       "finding_tips": "竹叶上找黑色细长蛾。**幼虫毒毛致皮炎，切勿接触；竹林附近避免擦碰。**"
-    }
+    },
+    "common_name_en": "Bamboo Tussock Moth"
   },
   "Cyperus iria": {
     "sources": [
@@ -8284,7 +8327,11 @@
       "summary": "短尾蓝灰蝶（属名异写）。后翅具细小尾突的灰蝶，雄虫翅面闪蓝紫光。",
       "habitat_hint": "草地、河滩、田边、有豆科植物的明亮处。",
       "finding_tips": "灰蝶中找后翅有细小尾突的种类。雄虫翅面阳光下显蓝紫。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "短尾蓝灰蝶"
+    },
+    "common_name_en": "Short-tailed Blue"
   },
   "Hydrangea macrophylla": {
     "sources": [
@@ -8326,6 +8373,9 @@
       "summary": "凯撒大蜓（碧伟蜓），日本大型蜻蜓。雄虫胸绿腹蓝，对比明显。在池塘上方高速巡飞。",
       "habitat_hint": "池塘、湿地、水库、缓流河段、公园水域。",
       "finding_tips": "夏季观察池上高速巡飞的大型蜻蜓。雄虫绿胸蓝腹明显。少停歇，主要在飞行中观察。"
+    },
+    "aliases": {
+      "zh-Hans": "凯撒大蜓"
     }
   },
   "Melanitis phedima": {
@@ -8600,7 +8650,8 @@
       "summary": "东日本树蛙，小型绿色（偶褐色）树蛙。趾尖具吸盘可停于叶草。夜鸣『嘎-嘎-嘎』。",
       "habitat_hint": "水田、湿地、池边、住宅附近、田埂草、潮湿草地。",
       "finding_tips": "夏夜在水田与湿地找鸣『嘎-嘎-嘎』的小蛙。白天停在叶上，绿色体配黑色眼线。"
-    }
+    },
+    "common_name_en": "Eastern Japanese Tree Frog"
   },
   "Pidorus glaucopis": {
     "sources": [
@@ -8832,6 +8883,9 @@
       "summary": "黑紫蓝凤蝶（卡拉斯凤蝶），大型黑色凤蝶，带深蓝绿色金属光泽。幼虫食花椒与柑橘类。",
       "habitat_hint": "林缘、神社树林、河岸树木、有花椒/柑橘的地方。",
       "finding_tips": "找黑底蓝绿金属光泽强烈的凤蝶。与黑凤蝶相似，但本种光泽更深。"
+    },
+    "aliases": {
+      "zh-Hans": "黑紫蓝凤蝶"
     }
   },
   "Theretra japonica": {
@@ -8916,7 +8970,8 @@
       "summary": "二轮草，林床春季野花。一茎通常开 2 朵白花，日文俗名由此而得。",
       "habitat_hint": "杂木林林床、谷地林、神社参道旁、潮湿半阴、神社树林。",
       "finding_tips": "四至五月寻找一茎双花的白色野花（实为萼片非花瓣）。叶深裂，常成片覆地。"
-    }
+    },
+    "common_name_en": "Soft Anemone"
   },
   "Achyranthes bidentata": {
     "sources": [
@@ -9403,7 +9458,8 @@
       "summary": "丽绿刺蛾，幼虫鲜绿色具明显毒毛丛（俗称『电气虫』）。**触碰致剧痛与水肿，切勿接触。**",
       "habitat_hint": "杂木林、行道树、果树、住宅区植被、神社树木。",
       "finding_tips": "夏秋在叶背找鲜绿色具毛丛的幼虫。**只看不碰**，常成群集中。"
-    }
+    },
+    "common_name_en": "Blue-striped Nettle Caterpillar"
   },
   "Poecilocoris lewisi": {
     "sources": [
@@ -10461,6 +10517,9 @@
       "summary": "日本褐瓢蜡蝉（『鳖甲蛾蜡蝉』），翅呈鳖甲（褐橙杂色）的独特半翅目。叶上静伏，受惊跳跃。",
       "habitat_hint": "林缘、河滩、住宅绿篱、神社境内、灌木顶。",
       "finding_tips": "在叶上找翅如鳖甲、立帐篷状静伏的小型昆虫。叶面拟态独特。"
+    },
+    "aliases": {
+      "zh-Hans": "日本褐瓢蜡蝉"
     }
   },
   "Phragmites australis": {
@@ -10588,7 +10647,8 @@
       "summary": "杜鹃叶蜂（蓝身锯腹叶蜂），鲜艳琉璃蓝体配黑色翅。幼虫食杜鹃花叶，常成群。",
       "habitat_hint": "杜鹃花植被、公园、神社境内、家庭菜园、住宅区绿篱。",
       "finding_tips": "在杜鹃花叶上找细长拟蜂、体亮蓝的昆虫。黄绿色幼虫成群食叶。"
-    }
+    },
+    "common_name_en": "Azalea Sawfly"
   },
   "Eupromus ruber": {
     "sources": [
@@ -10945,7 +11005,8 @@
       "summary": "苎麻天牛，中型天牛，体亮天蓝色配黑斑。原为外来种，在日本各地定殖。幼虫食苎麻。",
       "habitat_hint": "林缘、河滩、农田、有苎麻的地方。",
       "finding_tips": "夏季在叶上找天蓝色配黑斑的天牛。色彩鲜美，值得近观。"
-    }
+    },
+    "common_name_en": "Ramie Longhorn Beetle"
   },
   "Andropogon virginicus": {
     "sources": [
@@ -11071,7 +11132,8 @@
       "summary": "日本接骨木，杂木林林缘常见落叶灌木。早春集开淡黄色小花，初夏结红色小果。传统药用。",
       "habitat_hint": "林缘、河滩、明亮斜坡、神社境内、住宅区植被。",
       "finding_tips": "三至五月寻找复杂羽状复叶、圆锥状淡黄花序的灌木。初夏结红色小果。"
-    }
+    },
+    "common_name_en": "Japanese Elderberry"
   },
   "Matteuccia struthiopteris": {
     "sources": [
@@ -11471,6 +11533,9 @@
       "summary": "黏猎蝽（ヤニサシガメ），体表附有黏液（似松脂）的大型黑色猎蝽。**口吻刺人疼痛，请勿徒手接触。**",
       "habitat_hint": "杂木林树干、神社树木、河岸林、明亮林缘。",
       "finding_tips": "在麻栎等树干找体表黏湿的大型黑色猎蝽。**勿徒手接触。**"
+    },
+    "aliases": {
+      "zh-Hans": "黏猎蝽"
     }
   },
   "Leptocorisa chinensis": {
@@ -11976,6 +12041,9 @@
       "summary": "锥囊薹草（『姬寒菅』），常绿小型薹草。生于林床与谷地林，叶密生，早春抽黑色花穗。",
       "habitat_hint": "杂木林林床、谷地林、神社境内、潮湿林床、神社树林。",
       "finding_tips": "三至五月找叶密生常绿、中央抽黑色花穗的小型薹草。"
+    },
+    "aliases": {
+      "zh-Hans": "锥囊薹草"
     }
   },
   "Himantopus himantopus": {
@@ -12061,7 +12129,8 @@
       "summary": "蓋干造网中央加上一列『垃圾』（猎物残骸、蜕皮、叶子）藏身的独特蛛。",
       "habitat_hint": "林缘、住宅区庭院、神社境内、灌木间、河滩灌丛。",
       "finding_tips": "找蛛网中央有竖直『垃圾线』的圆网。蛛常隐于线中，不细看不易发现。"
-    }
+    },
+    "common_name_en": "Trashline Orbweaver"
   },
   "Myrmarachne japonica": {
     "sources": [
@@ -12082,7 +12151,8 @@
       "summary": "日本蚁蛛，拟态蚂蚁的跳蛛。前两对足举起如触角，与蚁同行，外形与动作都极像蚂蚁。",
       "habitat_hint": "林缘、神社树干、住宅区、河滩、明亮园路边。",
       "finding_tips": "在蚁群中找动作『稍有不同』的个体——把前足举起当触角。这就是蛛。"
-    }
+    },
+    "common_name_en": "Japanese Ant-mimic Spider"
   },
   "Cyclosa argenteoalba": {
     "sources": [
@@ -12145,6 +12215,9 @@
       "summary": "异盖鳞毛蕨（『飞鸟井之手』），杂木林林床常见的常绿耳蕨。叶轴密被毛状鳞片，二回羽状叶质地坚韧。",
       "habitat_hint": "杂木林林床、谷地林、神社境内、半阴斜坡、潮湿林床。",
       "finding_tips": "找叶轴密被毛状鳞片、二回羽状质坚的中至大型常绿蕨。常成片。"
+    },
+    "aliases": {
+      "zh-Hans": "异盖鳞毛蕨"
     }
   },
   "Galium spurium": {
@@ -12271,7 +12344,8 @@
       "summary": "日本毛连菜，全茎被刚毛、手感粗糙的本土菊科。夏秋抽许多类蒲公英黄色头花。",
       "habitat_hint": "明亮草地、河滩、田边、明亮斜坡、神社境内。",
       "finding_tips": "七至十月找茎密被粗毛、手感粗糙的高大植物。开许多黄色类蒲公英头花，触茎即可确认。"
-    }
+    },
+    "common_name_en": "Japanese Hawkweed Picris"
   },
   "Cocculus orbiculatus": {
     "sources": [
@@ -12334,6 +12408,9 @@
       "summary": "矮竹（条纹竹近缘），杂木林林床的小型箬竹。野生型为单色绿，园艺品种叶具白色纵纹。",
       "habitat_hint": "杂木林林床、神社境内、神社树林、明亮斜坡、半阴草地。",
       "finding_tips": "在林下找 1 m 以下的小型竹。叶具白色纵纹是园艺『斑叶竹』。"
+    },
+    "aliases": {
+      "zh-Hans": "矮竹"
     }
   },
   "Dioscorea japonica": {
@@ -12481,7 +12558,8 @@
       "summary": "枇杷，中国原产，日本自古栽培的常绿乔木。晚秋至冬季开花，初夏结橙色可食果。果内大种子含苦杏仁苷，有毒。",
       "habitat_hint": "庭园、神社境内、公园、住宅区、果园、暖地林缘。",
       "finding_tips": "找叶大厚有光泽、晚秋初冬开白花、初夏结橙色可食果的常绿乔木。大种子有毒勿食。"
-    }
+    },
+    "common_name_en": "Loquat"
   },
   "Clinopodium gracile": {
     "sources": [
@@ -12587,7 +12665,8 @@
       "summary": "印度赤蛱蝶，中型蛱蝶，翅面鲜朱红配黑色斑纹。以成虫越冬，早春至晚秋长见。",
       "habitat_hint": "林缘、河滩、花坛、明亮园路、神社境内。",
       "finding_tips": "中型蝶，翅面鲜朱红配黑斑。除花外也访树液和腐果。"
-    }
+    },
+    "common_name_en": "Indian Red Admiral"
   },
   "Saxicola stejnegeri": {
     "sources": [
@@ -12968,7 +13047,11 @@
       "summary": "南方紫菀（『野紺菊』），秋季抽许多淡紫色小型菊状花的本土菊科。是日本秋季代表性野菊之一。",
       "habitat_hint": "林缘、明亮斜坡、河滩、神社境内、田边。",
       "finding_tips": "九至十一月寻找开许多淡紫色小型菊花的植物。与白舌紫菀同为秋日代表野菊。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "南方紫菀"
+    },
+    "common_name_en": "Pale Aster"
   },
   "Argiope amoena": {
     "sources": [
@@ -12989,7 +13072,8 @@
       "summary": "黄金蛛，大型园蛛，腹部黄黑相间，网中央有 X 字形白色装饰带。比横纹金蛛大且更艳。",
       "habitat_hint": "林缘、河滩灌丛、住宅区庭院、神社境内、灌木间。",
       "finding_tips": "找具 X 形白带的圆网与腹部黄黑相间的大蛛，比横纹金蛛更大更艳。"
-    }
+    },
+    "common_name_en": "Banded Argiope"
   },
   "Phaneroptera falcata": {
     "sources": [
@@ -13031,7 +13115,8 @@
       "summary": "白头婆（中国泽兰），本土菊科。夏秋开许多白至淡粉色小花成伞房状。是大绢斑蝶等迁徙蝶类的重要蜜源。",
       "habitat_hint": "林缘、明亮斜坡、河滩、神社境内、田边。",
       "finding_tips": "八至十月寻找许多白至淡粉小花成伞房状的植物。常吸引大绢斑蝶等迁徙蝶。"
-    }
+    },
+    "common_name_en": "Chinese Eupatorium"
   },
   "Agropsar philippensis": {
     "sources": [
@@ -13581,7 +13666,8 @@
       "summary": "海仙花（『箱根空木』），落叶灌木。初夏花朵会由白转紫红，同一枝条上常见白与紫红花并存。",
       "habitat_hint": "杂木林林缘、神社境内、神社树林、河岸树木、明亮斜坡。",
       "finding_tips": "五至六月找同枝白与紫红花并存、漏斗状的灌木。色变独特，知道便易识。"
-    }
+    },
+    "common_name_en": "Hakone Weigela"
   },
   "Agrimonia pilosa": {
     "sources": [
@@ -13959,7 +14045,8 @@
       "summary": "钓樟（黑文字），落叶灌木。叶和枝条具独特清爽香气。木材是和菓子楊枝（牙签）原料，亦提取精油『黑文字油』。",
       "habitat_hint": "杂木林林床、神社境内、神社树林、谷地林、明亮斜坡。",
       "finding_tips": "三至四月寻找叶与淡黄色花同时出现的落叶灌木。折嫩枝有清爽特殊香气即可确认。"
-    }
+    },
+    "common_name_en": "Japanese Spicebush"
   },
   "Phylloscopus borealoides": {
     "sources": [
@@ -14002,7 +14089,11 @@
       "summary": "日本铁线莲（『半钟蔓』），本土毛茛科藤本。初夏开下垂紫色钟形花，形似日本『半钟』而得名。",
       "habitat_hint": "杂木林林缘、谷地林、神社境内、神社树林、明亮斜坡。",
       "finding_tips": "五至六月寻找下垂紫色钟形花的藤本。三出叶，果后具白色羽状冠毛。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "日本铁线莲"
+    },
+    "common_name_en": "Japanese Bell Clematis"
   },
   "Osmanthus heterophyllus": {
     "sources": [
@@ -14403,7 +14494,11 @@
       "summary": "紫菀（『嫁菜』），本土菊科。秋季开许多淡紫色小型菊花。嫩芽自古作春季山菜，与饼合做『嫁菜饼』有名。",
       "habitat_hint": "潮湿草地、河滩、田边、明亮斜坡、神社境内。",
       "finding_tips": "八至十月寻找开许多淡紫色小菊花的植物。春嫩芽传统作野菜。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "紫菀"
+    },
+    "common_name_en": "Yomena"
   },
   "Pseudoedophrys hilleri": {
     "sources": [
@@ -14487,7 +14582,8 @@
       "summary": "百脉根（日本百脉根），本土豆科。匍匐茎、贴地黄色蝶形小花。是植物学研究的模式生物。",
       "habitat_hint": "河滩、明亮斜坡、田边、草坪、近海草地。",
       "finding_tips": "四至十月低头找匍匐茎、贴地开黄色蝶形小花的植物。掌状 3 小叶。"
-    }
+    },
+    "common_name_en": "Lotus japonicus"
   },
   "Coix lacryma-jobi": {
     "sources": [
@@ -14592,7 +14688,8 @@
       "summary": "Japanese Bladdernut. A deciduous shrub with palmately trifoliate leaves. Conical white flower clusters in early summer; autumn fruits inflate like balloons — distinctive at a glance.",
       "habitat_hint": "Woodland edges, valley woods, shrine grounds, bright slopes, and shrine groves.",
       "finding_tips": "From May to June look for shrubs with trifoliate leaves and conical white flower clusters. Inflated bladder-like autumn fruits are unmistakable."
-    }
+    },
+    "common_name_en": "Japanese Bladdernut"
   },
   "Lapsanastrum humile": {
     "sources": [
@@ -14781,7 +14878,8 @@
       "summary": "冬阴地蕨（『冬之花蕨』），冬季抽出黄色孢子穗的独特蕨类。绿叶与孢子穗同株，宛如『冬之精灵』。",
       "habitat_hint": "杂木林林床、神社境内、明亮斜坡、半阴草地、谷地林。",
       "finding_tips": "十一至三月寻找叶上方挺立黄色孢子穗的中小型蕨。冬季难得的观察对象。"
-    }
+    },
+    "common_name_en": "Winter Grape Fern"
   },
   "Deparia conilii": {
     "sources": [
@@ -14845,7 +14943,8 @@
       "summary": "金眶鸻。日本最小级的鸻类。眼周明显金黄色眼圈与黑色颈环，常在河滩、滩涂、裸地繁殖。",
       "habitat_hint": "河滩砂砾地、滩涂、工地裸地、池沼边、操场裸地。",
       "finding_tips": "三至十月在河滩与裸地寻找边跑边鸣『piyo, piyo』的小型鸻。金黄色眼圈与黑颈环是关键特征。"
-    }
+    },
+    "common_name_en": "Little Ringed Plover"
   },
   "Carduelis sinica minor": {
     "sources": [
@@ -14931,7 +15030,8 @@
       "summary": "柔软金星蕨。林下潮湿处成群生长的中型蕨类。一回羽状叶质柔软，叶柄基部具细毛。",
       "habitat_hint": "潮湿林床、谷地林、溪边、湿润斜坡、神社林。",
       "finding_tips": "全年在潮湿林床与溪边寻找成片的柔软一回羽状蕨。叶背具细毛，触感可辅助识别。"
-    }
+    },
+    "common_name_en": "Soft Maiden Fern"
   },
   "Muscicapa latirostris": {
     "sources": [
@@ -14995,7 +15095,8 @@
       "summary": "猫蛛属。绿至黄褐色中型游猎性蜘蛛。腿上具长刺，伏在叶面或草上伏击昆虫。不结网。",
       "habitat_hint": "草地、灌丛、公园灌木、农田、林缘灌木。",
       "finding_tips": "四至十月在叶面与草上寻找张腿伏伺的绿黄色蜘蛛。腿上长刺是关键特征。游猎性，不结网。"
-    }
+    },
+    "common_name_en": "Lynx Spiders"
   },
   "Panicum bisulcatum": {
     "sources": [
@@ -15353,7 +15454,8 @@
       "summary": "顶芽狗脊。叶面具多数无性芽的大型蕨类，芽落地后长成新植株。",
       "habitat_hint": "潮湿林床、谷地林、溪边岩壁、神社林、湿润斜坡。",
       "finding_tips": "全年寻找叶面布满小芽的大型蕨。叶下垂使芽触地生根。"
-    }
+    },
+    "common_name_en": "Eastern Chain Fern"
   },
   "Ficus erecta": {
     "sources": [
@@ -15479,7 +15581,8 @@
       "summary": "条斑赤蜻。中型赤蜻属，翅尖具黑褐色斑。常见于林缘与水田周边。",
       "habitat_hint": "杂木林林缘、水田、池塘、湿地、明亮林床。",
       "finding_tips": "七至十一月寻找翅尖具黑褐色带斑的赤蜻。常在林缘或阴处停歇。"
-    }
+    },
+    "common_name_en": "Brown-tipped Darter"
   },
   "Aulacophora indica": {
     "sources": [
@@ -15500,7 +15603,8 @@
       "summary": "黄守瓜。橙色小型叶甲，为害黄瓜、南瓜等葫芦科叶片的代表性害虫。",
       "habitat_hint": "菜地、家庭菜园、公园栽植葫芦科、空地野栝楼、河滩。",
       "finding_tips": "五至十月在葫芦科叶上寻找橙色小型叶甲。叶上圆形『沟槽状』取食痕是关键识别。"
-    }
+    },
+    "common_name_en": "Cucurbit Leaf Beetle"
   },
   "Physopelta gutta": {
     "sources": [
@@ -15542,7 +15646,8 @@
       "summary": "夏赤蜻。日本代表性赤蜻。雄性成熟时全身鲜艳赤红。",
       "habitat_hint": "水田、池塘、湿地、河滩、公园池塘、明亮草地。",
       "finding_tips": "七至十一月在水边与草地寻找鲜艳红色赤蜻。与秋赤蜻相似，但全身（非仅腹部）变红可区分。"
-    }
+    },
+    "common_name_en": "Summer Darter"
   },
   "Acrothinium gaschkevitchii": {
     "sources": [
@@ -15584,7 +15689,8 @@
       "summary": "日本灰蜻。形似白尾灰蜻但更小，发生期更早。雄成熟后腹部覆白粉。",
       "habitat_hint": "湿地、梯田、池塘、湿润草地、河滩水边。",
       "finding_tips": "四至七月（早春即出现）在湿地附近寻找类似白尾灰蜻但更小的蜻蜓。早期发生是关键。"
-    }
+    },
+    "common_name_en": "Japanese Skimmer"
   },
   "Lolium perenne": {
     "sources": [
@@ -15668,7 +15774,8 @@
       "summary": "萤蔺。水田与湿地中的一年生莎草科。小穗着生于圆柱形茎的侧面（非顶端），茎尖延伸成针状。",
       "habitat_hint": "水田、湿地、灌溉沟、休耕田、池塘边。",
       "finding_tips": "七至十月在水田与湿地寻找小穗侧生于圆柱形茎、茎尖针状的一年生草本。"
-    }
+    },
+    "common_name_en": "Rock Bulrush"
   },
   "Metathelypteris laxa": {
     "sources": [
@@ -15794,7 +15901,8 @@
       "summary": "疏脉凸轴蕨。潮湿林床与林缘的大型蕨。日文俗名『铁丝蕨』指叶柄细硬如铁丝。",
       "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、半阴路边。",
       "finding_tips": "五至十月在潮湿林床与林缘寻找叶柄黑褐色、细硬如铁丝的大型二回羽状蕨。"
-    }
+    },
+    "common_name_en": "Wire-stipe Maiden Fern"
   },
   "Polystichum polyblepharon": {
     "sources": [
@@ -15836,7 +15944,8 @@
       "summary": "多摩寒葵。仅分布于东京西部至神奈川北部丘陵的固有种细辛。以多摩丘陵命名的珍稀种。",
       "habitat_hint": "东京西部至神奈川北部丘陵杂木林林床、神社林、谷地林。",
       "finding_tips": "三至五月在东京西部与神奈川北部杂木林林床，于叶基近地面处寻找紫褐色壶形花的细辛。"
-    }
+    },
+    "common_name_en": "Tama Wild Ginger"
   },
   "Lycoris sanguinea": {
     "sources": [
@@ -15878,7 +15987,8 @@
       "summary": "球苞绣球。日文俗名『玉绣球』源于球状苞片包裹的花蕾。盛夏后开花的独特绣球，关东至中部多见。",
       "habitat_hint": "杂木林林缘、谷地林、溪边、半阴斜坡、神社林。",
       "finding_tips": "七至九月在林缘与溪边寻找具球状苞片包裹花蕾的绣球。比其他绣球开花更晚。"
-    }
+    },
+    "common_name_en": "Bracted Hydrangea"
   },
   "Tricyrtis macropoda": {
     "sources": [
@@ -15963,7 +16073,8 @@
       "summary": "野桑蚕。家蚕的野生祖先种，取食桑叶的中型蛾。比家养蚕小且能飞翔。",
       "habitat_hint": "杂木林、河岸林、野生桑树分布地、神社林、废弃桑园。",
       "finding_tips": "幼虫五至十月在桑叶上寻找无毛绿至褐色幼虫。成虫七至九月，淡褐色中型蛾。"
-    }
+    },
+    "common_name_en": "Wild Silkmoth"
   },
   "Scolia oculata": {
     "sources": [
@@ -16005,7 +16116,8 @@
       "summary": "黑丽翅蜻。翅膀紫黑色具金属光泽的独特蜻蜓。飞行如蝴蝶般翩翩。",
       "habitat_hint": "湿地、池塘、湖泊、公园池塘、水生植物丰富的水边。",
       "finding_tips": "六至九月在池塘与湿地寻找翅宽紫黑色带金属光泽、飞行如蝶的蜻蜓。"
-    }
+    },
+    "common_name_en": "Butterfly-winged Skimmer"
   },
   "Oxya japonica": {
     "sources": [
@@ -16175,7 +16287,8 @@
       "summary": "日本巨蜈蚣。日本最大级蜈蚣，头部红褐色，体黑绿色。咬伤剧痛。栖于林床与倒木下。",
       "habitat_hint": "杂木林林床、倒木与石下、枯叶层、住宅区庭院隐蔽处。",
       "finding_tips": "四至十月翻动潮湿石块与倒木可见。注意咬伤——切勿徒手触摸。头部红褐色配黑绿色身体是关键特征。"
-    }
+    },
+    "common_name_en": "Japanese Giant Centipede"
   },
   "Bromus japonicus": {
     "sources": [
@@ -16385,7 +16498,8 @@
       "summary": "榆叶甲。取食榆属、榉树、朴树叶片的中型叶甲。鞘翅黄褐色具黑斑。",
       "habitat_hint": "有榉树、朴树、榆类的杂木林；公园栽植、行道树、住宅区庭树。",
       "finding_tips": "五至九月在榉树与朴树叶上寻找黄褐色具黑斑的中型叶甲。叶上网状食痕可辅助识别。"
-    }
+    },
+    "common_name_en": "Elm Leaf Beetle"
   },
   "Sinictinogomphus clavatus": {
     "sources": [
@@ -16723,7 +16837,8 @@
       "summary": "黑光猎蝽。体表黑色具细毛形成天鹅绒质感的中型猎蝽。捕食其他昆虫。",
       "habitat_hint": "杂木林林床、枯叶层、树皮裂缝、石下、林缘。",
       "finding_tips": "全年（成虫越冬）在林床与石下寻找黑色具天鹅绒质感的椿象。以口针刺吸其他昆虫的捕食者。"
-    }
+    },
+    "common_name_en": "Velvet Assassin Bug"
   },
   "Eobiana engelhardti": {
     "sources": [
@@ -16765,7 +16880,8 @@
       "summary": "斑翅蝗。淡褐色至绿色、前翅具独特斑纹的中型蝗虫。河滩与草地常见，飞行时后翅显蓝色。",
       "habitat_hint": "河滩草地、湿地、空地、农田边缘、草坪。",
       "finding_tips": "七至十月在河滩与草地寻找前翅具斑纹的中型蝗虫。飞行时后翅闪蓝色是关键识别。"
-    }
+    },
+    "common_name_en": "Slender Groundhopper / Mottled Grasshopper"
   },
   "Euhadra quaesita": {
     "sources": [
@@ -16786,7 +16902,8 @@
       "summary": "左旋东亚蜗牛。日本固有大型蜗牛，壳左旋（罕见）。栖于林下枯叶与石下。",
       "habitat_hint": "杂木林林床、神社林、潮湿枯叶、石下、谷地林。",
       "finding_tips": "全年（梅雨至秋活跃）。在杂木林林床寻找大型蜗牛，确认壳为左旋（壳口在左侧）。"
-    }
+    },
+    "common_name_en": "Left-coiled Snail"
   },
   "Plantago virginica": {
     "sources": [
@@ -16975,7 +17092,8 @@
       "summary": "德氏厚蟹（弁庆蟹近缘）。半陆生蟹，栖于河口汽水域与盐沼。背甲黑紫色，钳大。",
       "habitat_hint": "河口汽水域、盐沼、芦苇丛、海岸泥地、石护岸。",
       "finding_tips": "全年（春至秋活跃）在河口盐沼寻找背甲黑紫色的蟹。常躲于石下与泥洞中。"
-    }
+    },
+    "common_name_en": "Sesarmid mangrove crab"
   },
   "Rubia argyi": {
     "sources": [
@@ -16996,7 +17114,8 @@
       "summary": "茜草。蔓生多年草，根可提取红色染料『茜红』。叶看似 4 枚轮生（实为 2 叶+2 大托叶），茎具锐刺。",
       "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、绿篱、农田边缘。",
       "finding_tips": "全年在林缘与灌丛寻找叶 4 枚轮生的蔓生多年草。茎刺与 4 轮生叶是关键识别。秋季结黑色圆果。"
-    }
+    },
+    "common_name_en": "East Asian Madder"
   },
   "Polygonatum odoratum": {
     "sources": [
@@ -17080,7 +17199,8 @@
       "summary": "栎叶帚菊。叶形似柞栎的林床菊科多年草。秋季开淡紫至白色头状花。",
       "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、次生林、神社林。",
       "finding_tips": "九至十月在明亮林床寻找具栎形深裂大叶、顶生淡紫至白色头状花的多年草。"
-    }
+    },
+    "common_name_en": "Oak-leaved Pertya"
   },
   "Robinia pseudoacacia": {
     "sources": [
@@ -17248,7 +17368,8 @@
       "summary": "光肋粪金龟。聚集于粪便的中型金龟，具蓝紫至铜色金属光泽。在森林物质循环中作用重要。",
       "habitat_hint": "杂木林林床、林缘、农田、粪便与腐肉周边。",
       "finding_tips": "五至十月在杂木林林床的粪便与腐肉周边寻找具蓝紫至铜色金属光泽的金龟，常在地面爬行。"
-    }
+    },
+    "common_name_en": "Earth-boring Dung Beetle"
   },
   "Callicaria superba": {
     "sources": [
@@ -17269,7 +17390,8 @@
       "summary": "大红瓢虫。日本最大级瓢虫之一（体长 10 毫米以上）。橙色鞘翅具黑斑。捕食蚧壳虫。",
       "habitat_hint": "桑树、朴树等阔叶树干，杂木林、公园、住宅区庭树。",
       "finding_tips": "五至十月在桑树与朴树干上寻找蚧壳虫群聚，附近寻找大型橙色瓢虫。可作为日本最大瓢虫记忆。"
-    }
+    },
+    "common_name_en": "Giant Lady Beetle"
   },
   "Gryllotalpa orientalis": {
     "sources": [
@@ -17311,7 +17433,8 @@
       "summary": "拟稻眉眼蝶。栖于暗林床与林缘的中型眼蝶。翅灰褐色，后翅具小眼斑。",
       "habitat_hint": "杂木林林床、林缘、谷地林、神社林、半阴小径。",
       "finding_tips": "五至十月在杂木林暗林床与林缘寻找灰褐色眼蝶。低空飞行，停于枯叶上。"
-    }
+    },
+    "common_name_en": "Lilacine Bushbrown"
   },
   "Chrysolina aurichalcea": {
     "sources": [
@@ -17332,7 +17455,8 @@
       "summary": "艾叶甲。取食艾蒿叶的中型叶甲。鞘翅蓝至紫色金属光泽美丽。",
       "habitat_hint": "生有艾蒿的河滩、空地、农田边缘、林缘、路边。",
       "finding_tips": "五至十月在艾蒿叶上寻找具蓝紫色金属光泽的中型叶甲。叶上圆形蛀洞辅助识别。"
-    }
+    },
+    "common_name_en": "Mugwort Leaf Beetle"
   },
   "Pluvialis fulva": {
     "sources": [
@@ -17669,7 +17793,8 @@
       "summary": "无霸勾蜓。日本最大蜻蜓，体长 10 厘米以上。黑底配鲜艳黄色条纹，翠绿色大眼引人注目。",
       "habitat_hint": "山地丘陵溪流、缓流清流、湿地、林缘水边。",
       "finding_tips": "七至十月在山地与丘陵溪流寻找日本最大级、黑黄相间的蜻蜓。具固定巡逻路线习性。"
-    }
+    },
+    "common_name_en": "Golden-ringed Dragonfly"
   },
   "Veronica hederifolia": {
     "sources": [
@@ -17711,7 +17836,8 @@
       "summary": "斯氏马蜂。小型马蜂，黑底配黄色条纹。在檐下与灌木中筑小型伞状巢。",
       "habitat_hint": "住宅檐下、绿篱、杂木林、林缘、农田边缘。",
       "finding_tips": "四至十月在檐下与绿篱寻找筑小型伞状巢的黑黄条纹马蜂。比黄足马蜂更小、腿更黑。"
-    }
+    },
+    "common_name_en": "Small Paper Wasp"
   },
   "Dolomedes sulfureus": {
     "sources": [
@@ -17732,7 +17858,8 @@
       "summary": "硫磺色狡蛛。栖于水边的大型育幼网蛛科蜘蛛。在水面奔跑捕食水生昆虫与小鱼，不结网。",
       "habitat_hint": "湿地、池塘、水田、灌溉沟、河滩水边。",
       "finding_tips": "五至十月在湿地与池塘水面、水草上寻找大型蜘蛛。淡黄至褐色，能在水面奔跑。游猎性，不结网。"
-    }
+    },
+    "common_name_en": "Sulphur-yellow Fishing Spider"
   },
   "Plesiophthalmus nigrocyaneus": {
     "sources": [
@@ -17838,7 +17965,8 @@
       "summary": "白肩瘤天牛。小型天牛，灰褐色具白色肩斑与黑色斑纹。幼虫蛀食阔叶枯枝。",
       "habitat_hint": "杂木林朽木与枯枝、出树液的树、果园、柴堆、神社林。",
       "finding_tips": "五至八月在杂木林朽木与枯枝周边寻找灰褐色具白色肩斑的小型天牛。停于树皮上具保护色。"
-    }
+    },
+    "common_name_en": "Hairy White-shouldered Longhorn"
   },
   "Zacco platypus": {
     "sources": [
@@ -17859,7 +17987,8 @@
       "summary": "宽鳍鱲。河流中下游常见的小型鲤科。雄性繁殖期出现鲜艳婚姻色（红、绿、蓝条纹）。垂钓常见对象。",
       "habitat_hint": "河流中下游、灌溉沟、缓流小溪、湖沼。",
       "finding_tips": "全年在河流中下游寻找成群游动的细长小鱼。繁殖期（五至八月）雄鱼出现红、绿、蓝婚姻色，色彩艳丽。"
-    }
+    },
+    "common_name_en": "Pale Chub"
   },
   "Grammodes geometrica": {
     "sources": [
@@ -18259,7 +18388,8 @@
       "summary": "盒子草。湿地与水边的蔓生葫芦科。果实成熟时上半像盖子般脱开释放种子，日文俗名因此而来。",
       "habitat_hint": "湿地、水田田埂、河滩、池塘边、灌溉沟边。",
       "finding_tips": "八至十月在湿地与水边寻找蔓生葫芦科。果实成熟时上半呈盖状脱开是关键识别。"
-    }
+    },
+    "common_name_en": "Japanese Zehneria"
   },
   "Hibiscus mutabilis": {
     "sources": [
@@ -18301,7 +18431,8 @@
       "summary": "茅蜩（日本暮蝉）。日本固有蝉，夏季黄昏与清晨发出『kana-kana-kana...』哀切鸣声。喜雑木林林缘。",
       "habitat_hint": "杂木林、林缘、神社林、河岸林、住宅区屋林。",
       "finding_tips": "七至九月，尤其黄昏与清晨可凭『kana-kana...』哀切鸣声识别。白天多在林内荫暗处鸣叫。"
-    }
+    },
+    "common_name_en": "Evening Cicada"
   },
   "Eretes griseus": {
     "sources": [
@@ -18322,7 +18453,8 @@
       "summary": "灰龙虱。中型水生甲虫，灰褐色椭圆形体。止水域常见，夜间趋光。",
       "habitat_hint": "池塘、湖沼、水田、湿地、河滩积水。",
       "finding_tips": "全年（暖季活跃）在池塘与水田水草间寻找灰褐色椭圆形龙虱。夜间趋向灯光。"
-    }
+    },
+    "common_name_en": "Grey Diving Beetle"
   },
   "Agrilus discalis": {
     "sources": [
@@ -18343,7 +18475,8 @@
       "summary": "菱纹长吉丁。细长小型吉丁，鞘翅上具菱形纹。幼虫蛀食阔叶枯枝。",
       "habitat_hint": "杂木林枯枝、出树液的树、林缘、果园、神社林。",
       "finding_tips": "五至八月在杂木林枯枝与叶上寻找细长金属光泽吉丁。鞘翅菱形纹是关键识别。"
-    }
+    },
+    "common_name_en": "Diamond-pattern Jewel Beetle"
   },
   "Callosciurus erythraeus": {
     "sources": [
@@ -18385,7 +18518,8 @@
       "summary": "宽尖角蝽。大型椿象，前胸两侧具锐角突出，是关键识别与日文俗名由来。吸食梾木类果实。",
       "habitat_hint": "杂木林、有梾木与四照花的林缘、河岸林、公园大树。",
       "finding_tips": "八至十月梾木与四照花果实成熟时，于其叶与果实周边寻找具锐角突起的大型椿象。"
-    }
+    },
+    "common_name_en": "Sharp-shouldered Stink Bug"
   },
   "Cecropis daurica": {
     "sources": [
@@ -18428,7 +18562,11 @@
       "summary": "黑光臭蜣螂（黑光金龟）。具黑至暗绿色金属光泽的大型金龟。聚集于栎类树液。",
       "habitat_hint": "杂木林出树液的栎类、神社林、河岸林、果园。",
       "finding_tips": "六至九月在栎类树液上寻找黑至暗绿色金属光泽的金龟。与普通金龟（绿至铜色）凭颜色区分。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黑光臭蜣螂"
+    },
+    "common_name_en": "Black Drone Beetle"
   },
   "Leptoglossus occidentalis": {
     "sources": [
@@ -18555,7 +18693,8 @@
       "summary": "少棘蜈蚣。日本产中型蜈蚣，头部带青绿色。咬伤剧痛。栖于林床与石下。",
       "habitat_hint": "杂木林林床、倒木与石下、枯叶层、住宅区庭院隐蔽处。",
       "finding_tips": "四至十月翻动潮湿石块与倒木可见。注意咬伤——切勿徒手触摸。头部青绿色是关键识别。"
-    }
+    },
+    "common_name_en": "Chinese Red-headed Centipede"
   },
   "Chamaecyparis pisifera": {
     "sources": [
@@ -18639,7 +18778,8 @@
       "summary": "鼠尾粟近缘 / 鼠尾羊茅。原产欧洲的一年生禾本科，归化于河滩、路边、空地。穗向一侧偏并细长（似日本『薙刀』），是日文俗名由来。",
       "habitat_hint": "河滩、路边、空地、农田边缘、草坪。",
       "finding_tips": "四至七月在河滩与路边寻找具单侧偏向、细长穗状花序的一年生禾本科。芒长，外形似薙刀。"
-    }
+    },
+    "common_name_en": "Rat-tail Fescue"
   },
   "Cyrtomium falcatum": {
     "sources": [
@@ -18933,7 +19073,8 @@
       "summary": "毛碗蕨。林床与林缘成片生长的中小型落叶蕨。叶与叶柄具明显毛（种加词『hirsutum』即指多毛），质感纤细。",
       "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、次生林。",
       "finding_tips": "五至十月（落叶）在明亮林床寻找质感纤细的中小型落叶蕨。叶与叶柄多毛是关键特征。"
-    }
+    },
+    "common_name_en": "Hairy Stout Fern"
   },
   "Daedaleopsis tricolor": {
     "sources": [
@@ -18954,7 +19095,8 @@
       "summary": "三色拟迷孔菌。生于阔叶倒木与朽木的多孔菌。菌盖表面具同心圆状条纹，呈紫褐至褐色三色渐变。",
       "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
       "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖具紫褐至褐色同心圆条纹的多孔菌。"
-    }
+    },
+    "common_name_en": "Tricoloured Maze Polypore"
   },
   "Talinum paniculatum": {
     "sources": [
@@ -19081,7 +19223,8 @@
       "summary": "苏铁绮灰蝶。幼虫取食苏铁新芽的小型灰蝶。原为南方种，近年向关东与本州扩散。",
       "habitat_hint": "苏铁栽植地（公园、庭园、寺社境内、街道）、住宅区。",
       "finding_tips": "五至十月在苏铁周边寻找围绕新芽飞舞的小型灰蝶。雄翅表面金属蓝色闪耀。"
-    }
+    },
+    "common_name_en": "Plains Cupid"
   },
   "Metochus abbreviatus": {
     "sources": [
@@ -19123,7 +19266,8 @@
       "summary": "黄腹缘蝽。腹部鲜黄色、翅缘黑色的中型缘蝽。吸食卫矛与扶芳藤的果实。",
       "habitat_hint": "有卫矛与扶芳藤的林缘、绿篱、公园、河滩。",
       "finding_tips": "八至十一月在卫矛果实成熟时，于其叶与果实周边寻找具黄腹与黑翅缘的椿象。"
-    }
+    },
+    "common_name_en": "Yellow-bellied Leaf-footed Bug"
   },
   "Tagiades tethys": {
     "sources": [
@@ -19144,7 +19288,8 @@
       "summary": "白边瓢弄蝶（大名弄蝶）。黑褐色翅具大型白斑的中型弄蝶。林缘快速飞行，幼虫取食薯蓣属。",
       "habitat_hint": "杂木林林缘、有薯蓣的灌丛、林床、神社林、河岸林缘。",
       "finding_tips": "五至十月在林缘寻找黑褐色翅具明显白斑的弄蝶。日文俗名『大名』取自武士披风上的白纹。"
-    }
+    },
+    "common_name_en": "Common Snow Flat"
   },
   "Thlaspida biramosa": {
     "sources": [
@@ -19165,7 +19310,8 @@
       "summary": "一字龟甲。叶上具扁平龟甲状体型的小型龟甲。鞘翅中央具黑色纵纹是关键识别。",
       "habitat_hint": "紫珠等马鞭草科植物上、林缘、灌丛、河滩灌丛。",
       "finding_tips": "五至九月在紫珠叶上寻找体扁平的龟甲。鞘翅中央黑色纵纹是关键识别。"
-    }
+    },
+    "common_name_en": "Single-stripe Tortoise Beetle"
   },
   "Fleutiauxia armata": {
     "sources": [
@@ -19186,7 +19332,8 @@
       "summary": "桑叶甲。取食桑叶的中型叶甲。橙黄至黑色，后足腿节具小刺。",
       "habitat_hint": "有桑树的杂木林、河滩、桑园、神社林、住宅区桑树。",
       "finding_tips": "五至九月在桑叶上寻找橙黄至黑色的中型叶甲。后足腿节具刺是识别要点。"
-    }
+    },
+    "common_name_en": "Mulberry Leaf Beetle"
   },
   "Eupeodes corollae": {
     "sources": [
@@ -19207,7 +19354,8 @@
       "summary": "黑带食蚜蝇。黑底配黄色条带、拟态蜂的中型食蚜蝇。成虫访花吸蜜，幼虫捕食蚜虫，益虫。",
       "habitat_hint": "开花草地、农田、林缘、公园花坛、河滩。",
       "finding_tips": "四至十一月在花朵周边寻找黑黄条带的食蚜蝇。常在花前悬停。"
-    }
+    },
+    "common_name_en": "Migrant Hoverfly"
   },
   "Vespa ducalis": {
     "sources": [
@@ -19292,7 +19440,8 @@
       "summary": "黄洒灰蝶。初夏发生的中型灰蝶。翅表鲜艳橙红色，属优雅的树冠『泽豹蝶』类（ゼフィルス）。",
       "habitat_hint": "有麻栎与小楢的杂木林、林缘、神社林、河岸林。",
       "finding_tips": "五至六月在杂木林林缘与树冠寻找翅表鲜艳橙红色的中型灰蝶。也访栎类树液。"
-    }
+    },
+    "common_name_en": "Orange Hairstreak"
   },
   "Merodon equestris": {
     "sources": [
@@ -19355,7 +19504,8 @@
       "summary": "琴叶风毛菊。明亮林床与草地的菊科二至多年生草本。叶呈琴形（lyrata），秋季开淡紫色头状花。",
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、次生林。",
       "finding_tips": "九至十一月在明亮林缘与草地寻找具琴形叶、淡紫色头状花的二年草。似蓟但无刺、体型较小。"
-    }
+    },
+    "common_name_en": "Lyre-leaf Saw-wort"
   },
   "Rumex japonicus": {
     "sources": [
@@ -19502,7 +19652,8 @@
       "summary": "三浦耳蕨。潮湿林床的常绿蕨。日文俗名取自发现地三浦半岛。叶柄密被光泽淡褐色鳞片。",
       "habitat_hint": "潮湿林床、谷地林、半阴斜坡、神社林、河岸林。",
       "finding_tips": "全年在潮湿林床寻找大型常绿蕨。耳蕨属种间区分需查检索表。"
-    }
+    },
+    "common_name_en": "Miura Holly Fern"
   },
   "Ipomoea coccinea": {
     "sources": [
@@ -19565,7 +19716,11 @@
       "summary": "豆瓣绿（瓦韦属）。附生于树干与岩石的小型常绿蕨。营养叶圆形如豆（约 1 厘米）密集，孢子叶细长直立。",
       "habitat_hint": "树干、岩石、石墙、神社林老树、河岸林岩石、潮湿处。",
       "finding_tips": "全年在树干、岩石与石墙寻找具密集圆形豆状小叶的小型蕨。日文俗名『豆叶』即指此叶。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "豆瓣绿"
+    },
+    "common_name_en": "Japanese Bean Fern"
   },
   "Staphylea bumalda": {
     "sources": [
@@ -19817,7 +19972,8 @@
       "summary": "淡黄燕尾尺蛾。淡黄白色翅、后翅具燕尾状突起的中型尺蛾。停于树干与叶背具保护色。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找淡黄白色尺蛾。检查后翅是否具燕尾状突起以识别。"
-    }
+    },
+    "common_name_en": "Pale Swallow Geometer"
   },
   "Leucauge blanda": {
     "sources": [
@@ -19881,6 +20037,9 @@
       "summary": "蒙古沙鸻（广义）。日本春秋迁徙期见于滩涂与河口的中型鸻。繁殖羽胸部鲜艳红褐色。",
       "habitat_hint": "滩涂、河口、盐沼、海岸沙滩、内陆湿地。",
       "finding_tips": "四至五月与八至十月在滩涂与河口寻找中型鸻。繁殖羽胸部红褐色是关键识别。冬羽灰褐色不显眼。"
+    },
+    "aliases": {
+      "zh-Hans": "蒙古沙鸻"
     }
   },
   "Egretta sacra": {
@@ -19924,7 +20083,8 @@
       "summary": "栉触角叩头虫。大型叩头甲，雄性触角长且呈栉齿状，是日文俗名『胡须叩头虫』由来。幼虫蛀阔叶朽木。",
       "habitat_hint": "杂木林朽木、出树液的树、林缘、神社林、河岸林。",
       "finding_tips": "五至七月在杂木林寻找具长栉齿状触角的大型叩头甲。雄性触角比雌性更发达。"
-    }
+    },
+    "common_name_en": "Long-antennaed Click Beetle"
   },
   "Icerya purchasi": {
     "sources": [
@@ -20050,7 +20210,8 @@
       "summary": "苦悬钩子。落叶小型悬钩子，生于林缘与明亮林床。果实红色可食但种子部位略苦，日文俗名『苦莓』由此。",
       "habitat_hint": "明亮杂木林林床、林缘、次生林、堤岸、河滩灌丛。",
       "finding_tips": "花期四至五月，果期六至七月。在林缘寻找开白色五瓣花、后结红色悬钩子状小果的落叶灌木。茎密被小刺。"
-    }
+    },
+    "common_name_en": "Small-leaved Bramble"
   },
   "Carpesium divaricatum": {
     "sources": [
@@ -20260,7 +20421,8 @@
       "summary": "大蚰蜒。日本最大级的蚰蜒，具 15 对细长腿。行动极快，见人即逃。可能进入室内但无害。",
       "habitat_hint": "杂木林林床、倒木与石下、潮湿处、住宅区储物间与檐下。",
       "finding_tips": "全年（暖季活跃）翻动潮湿石块与倒木可见。腿极长，奔跑极快。"
-    }
+    },
+    "common_name_en": "Large House Centipede"
   },
   "Dumasia truncata": {
     "sources": [
@@ -20323,7 +20485,8 @@
       "summary": "三突花蛛。在花上伏击昆虫的小型蟹蛛。绿至白色，可随花色调节体色。",
       "habitat_hint": "草地、林缘、农田、公园花坛、河滩花丛。",
       "finding_tips": "四至十月在花上寻找绿至白色伏伺的小蜘蛛。拟态花色，捕食访花昆虫。"
-    }
+    },
+    "common_name_en": "Tricuspid Crab Spider"
   },
   "Dermatoxenus caesicollis": {
     "sources": [
@@ -20344,7 +20507,8 @@
       "summary": "小白瘤象。中型象甲，鞘翅覆灰白色鳞片并具瘤状突起。常见于树干与叶上。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、河岸林。",
       "finding_tips": "五至九月在杂木林树干与叶上寻找灰白色中型象甲。鞘翅瘤状突起与长吻是关键识别。"
-    }
+    },
+    "common_name_en": "Small White-knobbed Weevil"
   },
   "Aelia fieberi": {
     "sources": [
@@ -20386,7 +20550,8 @@
       "summary": "黄蟌。鲜艳黄色身体的小型蟌，腹端黑色。常见于湿地与具水生植物的池畔。",
       "habitat_hint": "湿地、池塘、水田、芦苇丛、公园池畔。",
       "finding_tips": "五至九月在湿地与池畔寻找全身鲜艳黄色、腹端黑色的蟌。"
-    }
+    },
+    "common_name_en": "Black-tailed Yellow Damselfly"
   },
   "Sieboldius albardae": {
     "sources": [
@@ -20407,7 +20572,11 @@
       "summary": "棘角春蜓（小无霸）。形似无霸勾蜓但属春蜓科，更小（体长 7-8 厘米）。常见于河流中下游与池塘，腹端两侧具突起。",
       "habitat_hint": "河流中下游、湖沼、池塘、缓流。",
       "finding_tips": "六至九月在河流与池塘寻找黑底黄条纹的蜓形蜻蜓。比无霸勾蜓略小，腹端突起是关键线索。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "棘角春蜓"
+    },
+    "common_name_en": "False Golden-ringed Dragonfly"
   },
   "Falco peregrinus": {
     "sources": [
@@ -20450,7 +20619,8 @@
       "summary": "斑须缘蝽。中型缘蝽，前胸两侧具锐刺状突起。吸食禾本科穗。",
       "habitat_hint": "草地、河滩、农田、麦田、草坪。",
       "finding_tips": "五至十月在禾本科穗周边寻找前胸两侧具锐刺的淡褐色中型椿象。"
-    }
+    },
+    "common_name_en": "Spiny Coreid"
   },
   "Gonioctena nigroplagiata": {
     "sources": [
@@ -20471,7 +20641,8 @@
       "summary": "八星叶甲。鞘翅橙黄色具 8 个黑斑的小型叶甲。取食豆科与蔷薇科叶片。",
       "habitat_hint": "杂木林、林缘、农田、河滩、果园。",
       "finding_tips": "四至八月在杂木林与林缘寻找鞘翅橙黄色具 8 黑斑的小型叶甲。"
-    }
+    },
+    "common_name_en": "Eight-spotted Leaf Beetle"
   },
   "Latouchia typica": {
     "sources": [
@@ -20513,7 +20684,8 @@
       "summary": "日本长须蜂。雄性触角与体长相当，是日文俗名与识别要点。春季访紫云英等豆科花的野生蜂。",
       "habitat_hint": "草地、农田、河滩、林缘、果园、公园花坛。",
       "finding_tips": "四至六月在紫云英等豆科花上寻找雄性触角异常长的蜂。雌性触角正常长度。"
-    }
+    },
+    "common_name_en": "Japanese Long-horned Bee"
   },
   "Amanita orientigemmata": {
     "sources": [
@@ -20534,7 +20706,8 @@
       "summary": "东方黄盖鹅膏。中型鹅膏属，菌盖淡黄至黄褐色具白色疣，菌柄基部球状膨大（菌托）。有毒。",
       "habitat_hint": "杂木林林床、栎类林、神社林、河岸林。",
       "finding_tips": "夏至秋（特别七至十月）在杂木林林床寻找菌盖淡黄色具白疣的蘑菇。误食中毒，切勿食用。"
-    }
+    },
+    "common_name_en": "Eastern Yellow-knobbed Amanita"
   },
   "Trigastrotheca pentaphylla": {
     "sources": [
@@ -20555,7 +20728,8 @@
       "summary": "五蕊粟米草。原产热带至亚热带的小型一年草，归化于路面缝、菜地与空地。5 小叶轮生状是日文俗名与识别要点。",
       "habitat_hint": "路面缝、停车场、菜地、农田、空地、河滩。",
       "finding_tips": "七至十月在路面缝与菜地寻找具 5 小叶轮生的匍匐一年草。叶腋开白色小花。"
-    }
+    },
+    "common_name_en": "Five-leaved Carpetweed"
   },
   "Desarmillaria tabescens": {
     "sources": [
@@ -20576,7 +20750,8 @@
       "summary": "无环蜜环菌。阔叶树干基部与倒木上发生的蘑菇，似蜜环菌但无菌环。可食但可能引起消化不良。",
       "habitat_hint": "杂木林树干基部、倒木、树桩、神社林、河岸林。",
       "finding_tips": "九至十一月在树干基部与倒木寻找成簇的茶至黄褐色蘑菇。菌柄无环可与蜜环菌区分。"
-    }
+    },
+    "common_name_en": "Ringless Honey Mushroom"
   },
   "Pourthiaea villosa": {
     "sources": [
@@ -20639,7 +20814,8 @@
       "summary": "蚰蜒（普通蚰蜒）。中型蚰蜒，具 15 对细长腿。可入侵住宅，捕食蟑螂等害虫（益虫），但常因外观被厌恶。无害。",
       "habitat_hint": "杂木林林床、住宅区储物间与檐下、潮湿处、神社林。",
       "finding_tips": "全年（暖季活跃）在潮湿处与住宅寻找长腿快速移动的蚰蜒。比大蚰蜒小。"
-    }
+    },
+    "common_name_en": "House Centipede"
   },
   "Nasturtium officinale": {
     "sources": [
@@ -20744,7 +20920,8 @@
       "summary": "萝藦。蔓生多年生夹竹桃科（旧萝藦科）。叶心形，夏季密生淡紫色星形花。秋季独特长椭圆果裂开释放具丝绒毛的种子飘飞。",
       "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田边缘、绿篱。",
       "finding_tips": "花期七至八月，果期十至十一月。在林缘与灌丛寻找具心形叶、淡紫色星形花的蔓生植物。秋季丝绒毛种子飘散也是观察看点。"
-    }
+    },
+    "common_name_en": "Rough Potato Vine"
   },
   "Gynostemma pentaphyllum": {
     "sources": [
@@ -20956,7 +21133,8 @@
       "summary": "双目大白尺蛾。白色翅具两个显眼眼斑的中型尺蛾。停于树干与叶背。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找白色翅具两个清晰眼斑的中型尺蛾。"
-    }
+    },
+    "common_name_en": "Twin-spotted White Geometer"
   },
   "Pselliophora bifascipennis": {
     "sources": [
@@ -20977,7 +21155,8 @@
       "summary": "栉触角大蚊。雄性触角栉齿状的大型大蚊。翅具独特条纹，常见于潮湿林床。",
       "habitat_hint": "潮湿林床、谷地林、溪边、神社林、河岸林。",
       "finding_tips": "五至九月在潮湿林床寻找具长腿与独特条纹翅的大型大蚊。雄性栉齿状触角也是识别要点。"
-    }
+    },
+    "common_name_en": "Comb-antennaed Crane Fly"
   },
   "Dolbina tancrei": {
     "sources": [
@@ -20998,7 +21177,8 @@
       "summary": "缘点斜纹天蛾（细波天蛾）。中型天蛾，翅具细波纹是日文俗名由来。幼虫取食木犀科。",
       "habitat_hint": "杂木林、林缘、公园木犀科栽植、住宅区庭院、河岸林。",
       "finding_tips": "五至十月在树干与叶背寻找中型天蛾。翅细波纹是关键识别。夜间趋向灯光。"
-    }
+    },
+    "common_name_en": "Ripple Hawkmoth"
   },
   "Potanthus flavus": {
     "sources": [
@@ -21019,7 +21199,8 @@
       "summary": "黄翅弄蝶。橙黄色翅具黑斑的小型弄蝶。在林缘与草地快速飞行，访花吸蜜。",
       "habitat_hint": "草地、林缘、公园花坛、农田、河滩草地。",
       "finding_tips": "五至十月在草地与林缘寻找橙黄色配黑斑的小型弄蝶。访花时易观察。"
-    }
+    },
+    "common_name_en": "Tropic Dart"
   },
   "Pryeria sinica": {
     "sources": [
@@ -21061,7 +21242,8 @@
       "summary": "大绢斑蝶（青斑蝶）。大型斑蝶，翅具半透明浅葱色与黑色斑纹。以长距离迁徙著名，从日本本州可飞 2000 公里以上至琉球与台湾。",
       "habitat_hint": "山地林缘、有兰草与泽兰的花丛、公园、河岸林、海岸近郊林。",
       "finding_tips": "五至十月（夏季在高海拔，春秋在平地）在兰草与泽兰花上寻找翅半透明浅葱色配黑斑的大型蝶。长距离迁徙，标记研究可识别。"
-    }
+    },
+    "common_name_en": "Chestnut Tiger"
   },
   "Semisulcospira libertina": {
     "sources": [
@@ -21082,7 +21264,8 @@
       "summary": "川蜷螺（黑色短沟蜷）。河流、湖沼与灌溉沟中的细长锥形淡水螺。是萤火虫（源氏萤等）幼虫的主要食物。",
       "habitat_hint": "河流、灌溉沟、湖沼、湿地、池塘、清流。",
       "finding_tips": "全年在河流与灌溉沟的石上、底质寻找细长锥形螺。壳黑褐至褐色。萤火虫幼虫赖以为食。"
-    }
+    },
+    "common_name_en": "Japanese River Snail"
   },
   "Tringa ochropus": {
     "sources": [
@@ -21146,7 +21329,8 @@
       "summary": "白斑広翅蜡蝉。淡褐色翅具网状斗笠纹的中型蜡蝉。在林缘与灌丛吸食植物汁液。",
       "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田、果园。",
       "finding_tips": "七至十月在林缘与灌丛寻找具淡褐色网状（如斗笠）翅纹的中型蜡蝉。多停于叶背与枝上。"
-    }
+    },
+    "common_name_en": "Lace-winged Planthopper"
   },
   "Anomala octiescostata": {
     "sources": [
@@ -21167,7 +21351,8 @@
       "summary": "扁绿金龟。具鲜艳绿至蓝绿色金属光泽的小型金龟。在叶与花上可见，日间活动。",
       "habitat_hint": "杂木林、林缘、农田、果园、住宅区庭院、河滩。",
       "finding_tips": "五至八月在叶与花上寻找具鲜艳绿至蓝绿色金属光泽的小型金龟。属金龟中色彩最美的之一。"
-    }
+    },
+    "common_name_en": "Flat-bodied Green Chafer"
   },
   "Aegopodium decumbens": {
     "sources": [
@@ -21188,7 +21373,8 @@
       "summary": "亚洲羊角芹。潮湿林床与林缘的多年生伞形科。叶 2 回三出复叶，初夏密生白色伞形小花。",
       "habitat_hint": "潮湿林床、林缘、谷地林、河岸林、半阴斜坡。",
       "finding_tips": "五至七月在潮湿林床与林缘寻找具白色伞形花序的伞形科多年草。叶 2 回三出复叶是关键识别。"
-    }
+    },
+    "common_name_en": "Asian Goutweed"
   },
   "Phryma nana": {
     "sources": [
@@ -21209,7 +21395,8 @@
       "summary": "矮透骨草。明亮林床与林缘的爵床科多年草。叶对生椭圆形，夏季开淡紫色唇形花，叶腋果实下垂排列。",
       "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
       "finding_tips": "七至九月在明亮林床与林缘寻找具对生椭圆形叶、淡紫色唇形花的多年草。叶腋果实下垂排列可助识别。"
-    }
+    },
+    "common_name_en": "Small Lopseed"
   },
   "Calystegia soldanella": {
     "sources": [
@@ -21440,7 +21627,8 @@
       "summary": "长叶透骨草。潮湿林床与林缘的透骨草科多年草。叶长椭圆形，夏季穗状开淡粉唇形花。古时作灭蝇药。",
       "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
       "finding_tips": "七至九月在潮湿林床与林缘寻找具长椭圆形叶、淡粉唇形花穗的多年草。果实下垂反折，粘附衣物。"
-    }
+    },
+    "common_name_en": "Long-leaved Lopseed"
   },
   "Freesia laxa": {
     "sources": [
@@ -21713,7 +21901,8 @@
       "summary": "蓝晕枯叶夜蛾。翅带蓝色色调的暗褐色中型夜蛾。停于树干与叶背，夜间活动。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找具蓝色调暗褐色翅的中型蛾。夜间趋光。"
-    }
+    },
+    "common_name_en": "Blue-tinged Noctuid"
   },
   "Eristalinus quinquestriatus": {
     "sources": [
@@ -21734,7 +21923,8 @@
       "summary": "黄腰食蚜蝇。腰部具黄色横带的中型食蚜蝇。访花吸蜜，拟态蜂保护自己。幼虫在腐烂水中发育。",
       "habitat_hint": "开花草地、农田、林缘、公园花坛、河滩、湿地周边。",
       "finding_tips": "四至十月在花朵周边寻找腰部黄带的中型食蚜蝇。形似蜂但仅 2 翅，不会蜇人。"
-    }
+    },
+    "common_name_en": "Yellow-waisted Hoverfly"
   },
   "Rhene atrata": {
     "sources": [
@@ -21755,7 +21945,8 @@
       "summary": "黑色蝇虎。黑底配白色斑纹的小型跳蛛。在叶与树干快速跳跃捕食昆虫。雄性腹部具白色横带。",
       "habitat_hint": "杂木林、林缘、农田、果园、公园、住宅区庭院。",
       "finding_tips": "五至十月在叶与树干寻找黑底白斑的小型跳蛛。快速跳跃运动是关键识别。"
-    }
+    },
+    "common_name_en": "Crow Jumping Spider"
   },
   "Neohirasea japonica": {
     "sources": [
@@ -21776,7 +21967,8 @@
       "summary": "棘竹节虫。日本固有竹节虫，背腹具小棘是日文俗名与识别要点。雌性单性生殖，雄性极罕见。",
       "habitat_hint": "杂木林林床、林缘、灌木叶背、神社林、河岸林。",
       "finding_tips": "七至十一月在杂木林林床与灌木叶上寻找具小棘的细长竹节虫。行动缓慢，保护色佳，不易发现。"
-    }
+    },
+    "common_name_en": "Spiny Stick Insect"
   },
   "Pardosa astrigera": {
     "sources": [
@@ -21797,7 +21989,8 @@
       "summary": "星豹蛛。在菜地、草地与河滩地面快速行走的中型狼蛛。雌性腹下携卵囊，后背载幼蛛行走，是日文俗名『子守』由来。",
       "habitat_hint": "菜地、草地、河滩、农田、草坪、潮湿地面。",
       "finding_tips": "四至十月在菜地与草地地面寻找快速行走的中型蜘蛛。雌性腹下携圆形卵囊可确认。游猎性，不结网。"
-    }
+    },
+    "common_name_en": "April Wolf Spider"
   },
   "Trachys auricollis": {
     "sources": [
@@ -21818,7 +22011,8 @@
       "summary": "葛纹吉丁。取食葛叶的小型吉丁。具金属光泽的黑至绿色身体，近圆形。",
       "habitat_hint": "葛蔓繁茂的林缘、河滩、灌丛、农田、休耕田。",
       "finding_tips": "五至九月在葛叶上寻找具金属光泽的黑至绿色小型吉丁。叶上圆形蛀痕可助识别。"
-    }
+    },
+    "common_name_en": "Kudzu Buprestid"
   },
   "Eudocima tyrannus": {
     "sources": [
@@ -21839,7 +22033,8 @@
       "summary": "壶夜蛾（木通枯叶夜蛾）。翅闭合时完美拟态枯叶的大型夜蛾。具刺吸成熟果实的口器，是果园害虫。",
       "habitat_hint": "杂木林、林缘、果园、住宅区庭院、神社林。",
       "finding_tips": "全年（成虫越冬）在树干与倒木上寻找形似枯叶的大型蛾。后翅鲜艳橙色配黑色眼斑。"
-    }
+    },
+    "common_name_en": "Akebia Fruit-piercer"
   },
   "Nipponocypris temminckii": {
     "sources": [
@@ -21860,7 +22055,8 @@
       "summary": "鲦鱼属一种（暗鱲）。河流中下游常见的小型鲤科，与宽鳍鱲混栖。体侧具明显纵纹；雄性繁殖期出现淡红色婚姻色。",
       "habitat_hint": "河流中下游、灌溉沟、湖沼、缓流小溪。",
       "finding_tips": "全年在河流中下游寻找成群游动的细长鱼。体侧明显纵纹与宽鳍鱲区分。"
-    }
+    },
+    "common_name_en": "Dark Chub"
   },
   "Exidia uvapassa": {
     "sources": [
@@ -21881,6 +22077,9 @@
       "summary": "黑木耳类（葡萄状黑耳）。生于阔叶枯枝的胶质菌。球形至不规则团块状，淡褐至黑褐色，干燥时缩小。",
       "habitat_hint": "杂木林枯枝、倒木、神社林枯枝、河岸林朽木。",
       "finding_tips": "梅雨至秋（特别雨后）在枯枝与倒木上寻找淡褐至黑褐色球形至不规则胶质菌。"
+    },
+    "aliases": {
+      "zh-Hans": "黑木耳类"
     }
   },
   "Acridotheres cristatellus": {
@@ -21987,7 +22186,8 @@
       "summary": "母草。水田与湿地的小型一年生母草科。茎匍匐，开淡紫色小型唇形花。叶对生椭圆形。",
       "habitat_hint": "水田、湿地、灌溉沟、休耕田、河滩湿地。",
       "finding_tips": "七至十月在水田与湿地寻找匍匐生长、具小型对生椭圆叶与淡紫色唇形花的一年草。"
-    }
+    },
+    "common_name_en": "False Pimpernel"
   },
   "Microstegium japonicum": {
     "sources": [
@@ -22029,7 +22229,8 @@
       "summary": "爵床。明亮林缘与草地的小型一年生爵床科。茎匍匐至直立，夏秋穗状开淡紫色小型唇形花。",
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、路边、河滩草地。",
       "finding_tips": "七至十月在明亮林缘与草地寻找具淡紫色小唇形花穗的小型一年草。叶对生卵至椭圆形。"
-    }
+    },
+    "common_name_en": "Procumbent Justicia"
   },
   "Persicaria sagittata": {
     "sources": [
@@ -22113,7 +22314,8 @@
       "summary": "少叶蓟。明亮草地与林缘的菊科多年草，秋季开紫红色头状花。叶缘具锐刺，但比翼蓟少。",
       "habitat_hint": "明亮草地、林缘、堤岸、河滩草地、次生林。",
       "finding_tips": "九至十一月在明亮草地与林缘寻找开紫红色头状花的多年生蓟。叶深裂，缘具刺。"
-    }
+    },
+    "common_name_en": "Few-leaf Thistle"
   },
   "Artemisia japonica": {
     "sources": [
@@ -22197,7 +22399,8 @@
       "summary": "毛苔草。明亮杂木林林床与林缘的中小型多年生莎草。叶具毛是日文俗名『毛菅』由来。",
       "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、次生林。",
       "finding_tips": "四至六月在明亮林床与林缘寻找叶具毛的多年生莎草。茎与叶上的毛是关键。"
-    }
+    },
+    "common_name_en": "Hairy Sedge"
   },
   "Isachne globosa": {
     "sources": [
@@ -22260,7 +22463,8 @@
       "summary": "红螯蟹（赤手蟹）。日本及邻近地区的半陆生蟹，钳鲜艳红色是日文俗名由来。在陆地生活，繁殖时下河口汽水域。",
       "habitat_hint": "海岸近郊林、河口汽水域、海岸近郊神社林、潮湿石墙。",
       "finding_tips": "全年（四至十月活跃）在海岸近郊林与河口寻找具红钳的蟹。陆地行走，夜行性，繁殖时迁向海。"
-    }
+    },
+    "common_name_en": "Red-clawed Crab"
   },
   "Lespedeza pilosa": {
     "sources": [
@@ -22386,7 +22590,8 @@
       "summary": "腺羽金星蕨。潮湿林床与林缘的中小型蕨。叶一回羽状纤细，叶柄基部具细毛。落叶，冬季地上部分枯死。",
       "habitat_hint": "潮湿林床、林缘、谷地林、半阴路边、神社林。",
       "finding_tips": "五至十月（落叶）在潮湿林床与林缘寻找叶一回羽状、纤细的中小型蕨。叶柄基部细毛可助识别。"
-    }
+    },
+    "common_name_en": "Narrow-leaf Glandular Fern"
   },
   "Miscanthus sacchariflorus": {
     "sources": [
@@ -22428,7 +22633,8 @@
       "summary": "灯台树（吊钟花）。日本固有落叶灌木，广作绿篱与公园栽植。早春枝端密生下垂白色壶形小花，秋季艳红叶色美丽。",
       "habitat_hint": "绿篱、公园栽植、庭园、寺社境内、住宅区栽植。",
       "finding_tips": "花期四至五月，红叶期十一月。在绿篱与公园寻找枝端密生下垂白色壶形小花的落叶灌木。秋季鲜红叶色可助识别。"
-    }
+    },
+    "common_name_en": "White Enkianthus"
   },
   "Carpesium abrotanoides": {
     "sources": [
@@ -22617,7 +22823,8 @@
       "summary": "锯齿尖头夜蛾。秋季发生的中型夜蛾，翅淡褐至灰褐色具复杂条纹。停于树干与叶背。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "十至十一月在树干与叶背寻找秋季发生的淡褐至灰褐色中型蛾。前翅缘具锯齿状是日文俗名『锯齿』由来。"
-    }
+    },
+    "common_name_en": "Saw-edged Sharp-tip Moth"
   },
   "Clogmia albipunctata": {
     "sources": [
@@ -22743,7 +22950,8 @@
       "summary": "薄云铃。小型铃虫近亲，在林床枯叶中以极高音『rin, rin』鸣叫。比铃虫小，日文俗名『薄云』指淡色翅。",
       "habitat_hint": "杂木林林床、枯叶层、神社林、河岸林、半阴灌丛。",
       "finding_tips": "八至十月夜间若杂木林林床传出极高『rin, rin』鸣声即此虫。体小，混于枯叶难以发现。"
-    }
+    },
+    "common_name_en": "Pale-cloud Bell Cricket"
   },
   "Serrognathus titanus": {
     "sources": [
@@ -22764,7 +22972,8 @@
       "summary": "扁锹甲。大型锹甲，体扁平且大颚发达。雄性大颚长度可达体长一半以上；聚集于栎类树液。",
       "habitat_hint": "杂木林出树液的栎类（麻栎、小楢等）、神社林、河岸林、低山地。",
       "finding_tips": "六至九月在杂木林栎类树液上寻找体扁平、大颚发达的大型锹甲。雄性夜行性强。"
-    }
+    },
+    "common_name_en": "Flat Stag Beetle"
   },
   "Pinus densiflora": {
     "sources": [
@@ -22869,7 +23078,8 @@
       "summary": "笄石菖（多枝灯心草）。湿地与水田田埂的多年生灯心草科。茎圆柱形，淡褐至褐色小型花序集成头状。植株 20-50 厘米。",
       "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
       "finding_tips": "六至九月在湿地与水田田埂寻找具淡褐至褐色头状花序的多年生灯心草。"
-    }
+    },
+    "common_name_en": "Branching Rush"
   },
   "Agrimonia nipponica": {
     "sources": [
@@ -22911,7 +23121,8 @@
       "summary": "梓木草。林床与草地的紫草科多年草。早春开鲜艳蓝紫色星形花，色彩似萤火虫光，是日文俗名『萤草』由来。",
       "habitat_hint": "明亮杂木林林床、林缘、草地、堤岸、半阴斜坡。",
       "finding_tips": "四至五月在明亮林床与草地寻找具鲜艳蓝紫色星形五瓣花的多年草。鲜艳色彩是关键识别。"
-    }
+    },
+    "common_name_en": "Firefly Vine"
   },
   "Sedum mexicanum": {
     "sources": [
@@ -22974,7 +23185,8 @@
       "summary": "匍匐委陵菜。明亮草地与林缘的匍匐小型多年生蔷薇科。具长匍匐茎，开黄色五瓣花。",
       "habitat_hint": "明亮草地、林缘、堤岸、草坪、河滩草地。",
       "finding_tips": "五至七月在明亮草地与草坪寻找具长匍匐茎、黄色五瓣花的小型多年草。"
-    }
+    },
+    "common_name_en": "Stoloniferous Cinquefoil"
   },
   "Anthoxanthum odoratum": {
     "sources": [
@@ -23016,7 +23228,11 @@
       "summary": "刺五加（日本刺五加）。林缘与杂木林的落叶五加科灌木。5 小叶掌状复叶与枝具锐刺为特征。嫩芽作山菜（『五加饭』）食用。",
       "habitat_hint": "杂木林林缘、神社林、次生林、农家屋林、半阴斜坡。",
       "finding_tips": "全年（春芽食用）在林缘寻找具 5 小叶掌状复叶、枝具锐刺的落叶灌木。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "刺五加"
+    },
+    "common_name_en": "Five-leaf Aralia"
   },
   "Hydrangea serrata": {
     "sources": [
@@ -23100,7 +23316,8 @@
       "summary": "二尖耳蕨。潮湿林床的中至大型常绿蕨。叶柄基部密生淡褐色鳞片，叶 2 回羽状。",
       "habitat_hint": "潮湿林床、谷地林、神社林、河岸林、半阴斜坡。",
       "finding_tips": "全年在潮湿林床寻找叶 2 回羽状的中至大型常绿蕨。叶柄基部密集淡褐色鳞片可助识别。"
-    }
+    },
+    "common_name_en": "Two-edged Holly Fern"
   },
   "Arachniodes miqueliana": {
     "sources": [
@@ -23163,7 +23380,8 @@
       "summary": "白花樱蓼。湿地与水边的多年生蓼科。白色小花密集成穗状，是淡粉色樱蓼的白花对应种。雌雄异株。",
       "habitat_hint": "湿地、水田田埂、池塘边、潮湿草地、河滩湿地。",
       "finding_tips": "八至十月在湿地与水边寻找具白色小花密集成穗的多年草。叶披针形互生（近对生）。"
-    }
+    },
+    "common_name_en": "White-flowered Sakura Smartweed"
   },
   "Corydalis decumbens": {
     "sources": [
@@ -23289,7 +23507,8 @@
       "summary": "短穗黄芩。明亮林缘与草地的小型唇形科多年草。夏季穗状开紫色唇形花。似立浪草但偏好更干燥处。",
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、神社林。",
       "finding_tips": "五至七月在明亮林缘与草地寻找具紫色唇形花单侧穗状排列的多年草。叶对生卵至披针形。"
-    }
+    },
+    "common_name_en": "Short-spike Skullcap"
   },
   "Cerace xanthocosma": {
     "sources": [
@@ -23310,7 +23529,8 @@
       "summary": "天鹅绒卷蛾。大型卷蛾，翅黑底配鲜艳橙黄色条纹。停于树干与叶背，夜间活动。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找黑底配鲜艳橙黄色条纹的大型蛾。夜行，白天也常停于树干。"
-    }
+    },
+    "common_name_en": "Velvet Tortrix"
   },
   "Anisolabis maritima": {
     "sources": [
@@ -23352,7 +23572,8 @@
       "summary": "大腹圆蛛。日本最大级园蛛之一。黑褐至灰褐色，腹部肥大，夜间在树间与檐下结大型圆网。白天躲于网角与隐蔽处。",
       "habitat_hint": "杂木林、林缘、住宅檐下、公园、神社林、河岸林。",
       "finding_tips": "五至十月夜间寻找树间与檐下的大型圆网。白天检查网角与隐蔽处寻找蜘蛛。"
-    }
+    },
+    "common_name_en": "Japanese Garden Spider"
   },
   "Dianemobius fascipes": {
     "sources": [
@@ -23373,7 +23594,8 @@
       "summary": "热带斑蟋。小型蟋蟀，夜间发出『ririri...』高音连续鸣声。腿具条纹（斑）是日文俗名由来。",
       "habitat_hint": "草地、林缘、农田、住宅区庭院、河滩草地。",
       "finding_tips": "七至十月夜间在草地与住宅区聆听『ririri...』连续鸣声的小型蟋蟀。腿上条纹也可助识别。"
-    }
+    },
+    "common_name_en": "Tropical Banded Cricket"
   },
   "Vargalorta nawae": {
     "sources": [
@@ -23415,7 +23637,8 @@
       "summary": "虾色椿（亲缘叉胸蝽）。中型椿象，淡橙褐至红褐色独特体色似熟虾。吸食禾本科（尤芒草）穗。",
       "habitat_hint": "芒草草原、河滩、田边、林缘、农田。",
       "finding_tips": "五至十月在芒草草原与河滩的芒草穗上寻找淡橙褐至红褐色（虾色）的中型椿象。"
-    }
+    },
+    "common_name_en": "Shrimp-coloured Stink Bug"
   },
   "Ivela auripes": {
     "sources": [
@@ -23436,7 +23659,8 @@
       "summary": "黄足毒蛾。中型毒蛾，雌性腿鲜黄色是日文俗名由来。幼虫为害梾木类叶，可暴发。",
       "habitat_hint": "杂木林、林缘、有梾木与四照花的公园、神社林、河岸林。",
       "finding_tips": "成虫期五至六月，幼虫期四至五月。在梾木与四照花周边寻找白翅与鲜黄腿的中型蛾。幼虫为害梾木叶时显眼。"
-    }
+    },
+    "common_name_en": "Yellow-legged Tussock Moth"
   },
   "Eupsilia quadrilinea": {
     "sources": [
@@ -23457,7 +23681,8 @@
       "summary": "四纹秋翅夜蛾。秋至冬发生的中型夜蛾，翅上具 4 条独特纵纹是日文俗名与识别要点。",
       "habitat_hint": "杂木林、林缘、出树液的树、神社林、河岸林。",
       "finding_tips": "十至十二月在树液与腐果周边寻找翅上具 4 条纵纹的中型蛾。冬季活跃属罕见。"
-    }
+    },
+    "common_name_en": "Four-stripe Sallow"
   },
   "Turdus naumanni": {
     "sources": [
@@ -23542,7 +23767,8 @@
       "summary": "日本大吉丁。日本最大级吉丁，铜色至暗铜色金属光泽。幼虫蛀松类枯木，成虫聚集于出树液的树。",
       "habitat_hint": "松林、杂木林、枯松周边、神社林老松、河岸林。",
       "finding_tips": "六至九月在枯松与出树液的树上寻找具铜色金属光泽的日本最大级吉丁。色比吉丁更暗淡但更大。"
-    }
+    },
+    "common_name_en": "Japanese Buprestid"
   },
   "Spodoptera litura": {
     "sources": [
@@ -23899,7 +24125,8 @@
       "summary": "崖生贯众。潮湿林床与石墙的常绿蕨，叶为细长披针形是日文俗名『长叶』由来。属贯众属较难识别的种类之一。",
       "habitat_hint": "潮湿林床、石墙、岩生地、林缘、神社林、河岸林。",
       "finding_tips": "全年在潮湿林床与石墙寻找一回羽状、羽片细长披针形的常绿蕨。"
-    }
+    },
+    "common_name_en": "Cliff Holly Fern"
   },
   "Indigofera bungeana": {
     "sources": [
@@ -24151,7 +24378,8 @@
       "summary": "日本黄花鼠尾草。日本固有多年生鼠尾草，生于山地林床。秋季穗状开黄色大型唇形花；雄蕊以『杠杆原理』将花粉粘附访花昆虫。",
       "habitat_hint": "山地林床、谷地林、半阴斜坡、神社林、河岸林。",
       "finding_tips": "九至十月在山地林床寻找具黄色大型唇形花穗的多年草。叶三角形对生。"
-    }
+    },
+    "common_name_en": "Japanese Yellow Sage"
   },
   "Carpesium glossophyllum": {
     "sources": [
@@ -24278,7 +24506,8 @@
       "summary": "白瘤象。中型象甲，鞘翅覆白色鳞片并具显著瘤状突起。取食豆科与蔷薇科叶与嫩芽。",
       "habitat_hint": "杂木林、林缘、农田、果园、住宅区庭院、河岸林。",
       "finding_tips": "五至十月在豆科与蔷薇科叶与嫩芽上寻找覆白色鳞片的中型象甲。鞘翅显著瘤状突起是关键识别。"
-    }
+    },
+    "common_name_en": "White-knobbed Weevil"
   },
   "Pelophylax porosus": {
     "sources": [
@@ -24320,7 +24549,8 @@
       "summary": "波纹枯叶夜蛾。淡褐至灰褐色翅具独特波纹的大型夜蛾。停于树干与叶背，夜间活动。",
       "habitat_hint": "杂木林、林缘、农田、河滩、公园乔木。",
       "finding_tips": "五至十月在树干与叶背寻找具淡褐至灰褐色翅、波纹的大型蛾。夜间趋光。"
-    }
+    },
+    "common_name_en": "Wavy-banded Underwing"
   },
   "Phintella abnormis": {
     "sources": [
@@ -24341,7 +24571,8 @@
       "summary": "茶色金蛛跳蛛。茶褐色体配金属光泽斑纹的小型跳蛛。在叶与树干快速跳跃捕食昆虫。",
       "habitat_hint": "杂木林、林缘、公园、住宅区庭院、神社林。",
       "finding_tips": "五至十月在叶与树干寻找茶褐色配金属光泽斑纹的小型跳蛛。快速跳跃运动是关键识别。"
-    }
+    },
+    "common_name_en": "Brown Sunlight Jumping Spider"
   },
   "Camponotus quadrinotatus": {
     "sources": [
@@ -24362,7 +24593,8 @@
       "summary": "四斑弓背蚁。中至大型弓背蚁属，黑色体配 4 个黄褐色斑是日文俗名由来。在杂木林朽木与倒木筑巢。",
       "habitat_hint": "杂木林、朽木、倒木、树干缝隙、神社林、河岸林。",
       "finding_tips": "全年（暖季活跃）在倒木与朽木上寻找黑底配 4 个黄褐色斑的大型蚂蚁。工蚁在树上采食蜜露与昆虫。"
-    }
+    },
+    "common_name_en": "Four-spotted Carpenter Ant"
   },
   "Salurnis marginella": {
     "sources": [
@@ -24383,7 +24615,8 @@
       "summary": "黄缘蜡蝉。中型蜡蝉，翅淡褐色边缘黄色是日文俗名『黄缘』由来。林缘与灌丛吸食植物汁液。",
       "habitat_hint": "杂木林林缘、灌丛、河滩灌丛、农田、果园。",
       "finding_tips": "七至十月在林缘与灌丛寻找具淡褐色翅、黄色边缘的中型蜡蝉。多停于叶背与枝上。"
-    }
+    },
+    "common_name_en": "Yellow-edged Planthopper"
   },
   "Thoressa varia": {
     "sources": [
@@ -24404,7 +24637,11 @@
       "summary": "黑斑弄蝶（小茶斑弄蝶）。茶色底配淡色斑纹的小型弄蝶。在林缘与草地快速飞行，访花吸蜜。",
       "habitat_hint": "杂木林林缘、草地、河滩、农田边缘、神社林。",
       "finding_tips": "五至九月在杂木林林缘与草地寻找茶色底配淡色斑纹的小型弄蝶。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黑斑弄蝶"
+    },
+    "common_name_en": "Common Pied Awlet"
   },
   "Chloridolum japonicum": {
     "sources": [
@@ -24425,7 +24662,8 @@
       "summary": "红腿大青天牛。中至大型天牛，体绿色金属光泽配红腿，色彩对比美丽。幼虫蛀阔叶枯木，成虫聚集于出树液的树。",
       "habitat_hint": "杂木林出树液的树、枯木、神社林、河岸林、果园。",
       "finding_tips": "六至八月在杂木林树液与叶上寻找具绿色金属光泽体配红腿的天牛。色彩对比鲜明。"
-    }
+    },
+    "common_name_en": "Red-legged Green Longhorn"
   },
   "Sternuchopsis trifida": {
     "sources": [
@@ -24446,7 +24684,8 @@
       "summary": "白尾长足象。小型象甲，腿长、腹端具白斑（『尾白』）为特征。常见于葛与其他豆科叶上。",
       "habitat_hint": "葛蔓繁茂的林缘、河滩、灌丛、农田、农田边缘。",
       "finding_tips": "五至九月在葛与其他豆科叶上寻找具长腿、腹端白斑的小型象甲。"
-    }
+    },
+    "common_name_en": "Long-legged White-tailed Weevil"
   },
   "Aegosoma sinicum": {
     "sources": [
@@ -24467,7 +24706,8 @@
       "summary": "薄翅天牛。大型天牛，翅淡褐色、触角长是特征。幼虫蛀阔叶枯木，成虫聚集于出树液的树。日本最大级天牛之一。",
       "habitat_hint": "杂木林出树液的树、枯木、神社林、河岸林、果园。",
       "finding_tips": "六至九月在杂木林树液与枯木周边寻找大型淡褐色天牛。雄性触角长（超体长 2 倍）是关键识别。"
-    }
+    },
+    "common_name_en": "Sinic Sawyer Beetle"
   },
   "Ardea coromanda": {
     "sources": [
@@ -24510,7 +24750,8 @@
       "summary": "小斑红蝽。似突背斑红蝽但更小，红褐底配小黑斑。林缘与农田常见。",
       "habitat_hint": "杂木林林缘、农田、果园、住宅区庭院、河岸林。",
       "finding_tips": "五至十月在林缘与农田寻找具红褐底配小黑斑的中型椿象。比突背斑红蝽小可区分。"
-    }
+    },
+    "common_name_en": "Small-spotted Stink Bug"
   },
   "Pachygrontha antennata": {
     "sources": [
@@ -24531,7 +24772,8 @@
       "summary": "长须长蝽。中型椿象，触角长、体型细长是特征。日文俗名『长须』指触角长度。吸食禾本科穗。",
       "habitat_hint": "草地、河滩、农田、林缘、空地。",
       "finding_tips": "五至十月在草地与河滩的禾本科穗周边寻找触角长、体型细长的中型椿象。"
-    }
+    },
+    "common_name_en": "Long-antennaed Stink Bug"
   },
   "Podiceps auritus": {
     "sources": [
@@ -24742,7 +24984,11 @@
       "summary": "牛角椿（日本牛盾蝽）。中型椿象，前胸两侧突出如牛角是日文俗名『牛』由来。体淡褐至灰色。",
       "habitat_hint": "杂木林、林缘、农田、果园、河岸林、住宅区庭院。",
       "finding_tips": "五至十月在杂木林林缘与叶上寻找前胸两侧具牛角状突起的淡褐至灰色中型椿象。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "牛角椿"
+    },
+    "common_name_en": "Cow Stink Bug"
   },
   "Ficaria verna": {
     "sources": [
@@ -25142,7 +25388,8 @@
       "summary": "日本蛇蛉。日本固有的独特昆虫，颈极长形似『骆驼』，是日文俗名『骆驼虫』由来。捕食性，捕食其他昆虫。属蛇蛉目，独立于脉翅目。",
       "habitat_hint": "杂木林树干、神社林老树、河岸林、山地林。",
       "finding_tips": "五至七月在杂木林树干寻找颈极长的独特昆虫。稀有难见，偶可在树皮缝隙与叶上观察。"
-    }
+    },
+    "common_name_en": "Japanese Snakefly"
   },
   "Barsine striata": {
     "sources": [
@@ -25163,7 +25410,8 @@
       "summary": "红条苔蛾。小型灯蛾科，淡黄色翅具红色纵纹『红条』美丽。停于树干与叶背，夜间活动。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至九月在树干与叶背寻找具淡黄色翅、红色纵纹的小型灯蛾。夜间趋光。"
-    }
+    },
+    "common_name_en": "Red-striped Lichen Moth"
   },
   "Taylorilygus apicalis": {
     "sources": [
@@ -25248,7 +25496,8 @@
       "summary": "小独角仙。中型金龟，雌雄均无角与独角仙不同。聚集于出树液的树上。体黑褐至暗褐色具光泽。",
       "habitat_hint": "杂木林出树液的树、神社林、河岸林、果园、住宅区庭院。",
       "finding_tips": "五至九月在杂木林树液上寻找无角的黑褐至暗褐色中型金龟。比独角仙小且雄性也无角是关键识别。"
-    }
+    },
+    "common_name_en": "Small Rhinoceros Beetle"
   },
   "Lucanus maculifemoratus": {
     "sources": [
@@ -25269,7 +25518,8 @@
       "summary": "深山锹甲。大型锹甲，雄性大颚弯曲、头部具『耳状』突起为特征。山地杂木林多见，夏季在树液上可见。",
       "habitat_hint": "山地杂木林出树液的栎类、神社林、河岸林。",
       "finding_tips": "六至九月在山地杂木林栎类树液上寻找具弯曲大颚、头部『耳状』突起的大型锹甲。"
-    }
+    },
+    "common_name_en": "Miyama Stag Beetle"
   },
   "Melligomphus viridicostus": {
     "sources": [
@@ -25290,7 +25540,8 @@
       "summary": "长尾春蜓。日本固有大型春蜓，多见于河流中下游。腹端延长是日文俗名『尾长』由来。体色带绿也是特征。",
       "habitat_hint": "河流中下游、缓流、湿地、河岸林缘。",
       "finding_tips": "六至九月在河流中下游寻找腹端延长、体色带绿的大型春蜓。"
-    }
+    },
+    "common_name_en": "Long-tailed Clubtail"
   },
   "Isyndus obscurus": {
     "sources": [
@@ -25311,7 +25562,8 @@
       "summary": "大褐猎蝽。大型猎蝽，暗褐至黑褐色体配长腿是特征。以口针刺吸其他昆虫的捕食者。可能进入庭院与住宅。",
       "habitat_hint": "杂木林、林缘、农田、住宅区庭院、河岸林、神社林。",
       "finding_tips": "五至十月在林缘与叶上寻找暗褐至黑褐色的大型猎蝽。咬伤剧痛，请勿徒手触摸。"
-    }
+    },
+    "common_name_en": "Large Brown Assassin Bug"
   },
   "Andrallus spinidens": {
     "sources": [
@@ -25332,7 +25584,8 @@
       "summary": "白边益蝽。中型椿象，淡褐色体具明显白色边缘、口吻粗大（『阔嘴』）。捕食性，捕食害虫幼虫。",
       "habitat_hint": "草地、农田、河滩、林缘、住宅区庭院。",
       "finding_tips": "五至十月在草地与农田寻找淡褐色配白色边缘的中型椿象。口吻粗大，可观察其捕食其他昆虫幼虫。"
-    }
+    },
+    "common_name_en": "White-spined Predatory Stink Bug"
   },
   "Carabus blaptoides": {
     "sources": [
@@ -25374,7 +25627,8 @@
       "summary": "黄腹木纹秋翅夜蛾。秋至冬发生的大型夜蛾，翅纹似木纹、腹部黄色是日文俗名由来。聚集于树液与腐果。",
       "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
       "finding_tips": "十至十二月在树液与腐果周边寻找具木纹翅、黄色腹部的大型蛾。"
-    }
+    },
+    "common_name_en": "Yellow-bellied Woodgrain Sallow"
   },
   "Tetrix japonica": {
     "sources": [
@@ -25395,7 +25649,8 @@
       "summary": "日本菱蝗。小型蝗虫，前胸背向后延伸覆盖整个腹部呈菱形是日文俗名『腹菱』由来。常见于地面与枯叶层。",
       "habitat_hint": "草地、河滩裸地、农田、潮湿地面、林缘枯叶。",
       "finding_tips": "全年（暖季活跃）在草地与河滩裸地寻找前胸背延伸覆盖腹部呈菱形的小型蝗虫。"
-    }
+    },
+    "common_name_en": "Japanese Pygmy Grasshopper"
   },
   "Biston robustum": {
     "sources": [
@@ -25416,7 +25671,8 @@
       "summary": "黑点大尺蛾。大型尺蛾，雌性体粗翅退化（不能飞）。雄性翅上具小黑点，停于树干。幼虫为害多种阔叶树。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "三至五月（早春发生）在树干寻找翅上具小黑点的大型尺蛾。不能飞的雌性可在树皮上找到。"
-    }
+    },
+    "common_name_en": "Black-dotted Geometer"
   },
   "Operophtera rectipostmediana": {
     "sources": [
@@ -25437,7 +25693,8 @@
       "summary": "直纹冬尺蛾。冬季（十一至二月）发生的小型尺蛾。雄性具淡褐色翅，雌性翅退化不能飞。能在积雪山地活动属罕见冬蛾。",
       "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
       "finding_tips": "十一至二月在杂木林树干寻找具淡褐色翅的小型雄性尺蛾。冬季活跃的稀有蛾种；无翅雌性可在树皮上发现。"
-    }
+    },
+    "common_name_en": "Winter Geometer"
   },
   "Antigius attilia": {
     "sources": [
@@ -25458,7 +25715,8 @@
       "summary": "水色长尾灰蝶。初夏发生的小型灰蝶，属树冠『泽豹蝶』类。翅表淡水蓝至淡灰色，后翅具长尾状突起。",
       "habitat_hint": "有麻栎与小楢的杂木林、林缘、神社林、河岸林。",
       "finding_tips": "六至七月在杂木林林缘与树冠寻找具淡水蓝翅表、长后翅尾突起的小型灰蝶。"
-    }
+    },
+    "common_name_en": "Water-blue Long-tailed Hairstreak"
   },
   "Comostola subtiliaria": {
     "sources": [
@@ -25479,7 +25737,8 @@
       "summary": "小四眼绿尺蛾。小型绿尺蛾，绿色翅上具 4 个白色小斑（『四眼』）。停于树干与叶背，夜间活动。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找绿色翅具 4 个白斑的小型蛾。"
-    }
+    },
+    "common_name_en": "Small Four-spotted Emerald"
   },
   "Sisymbrium officinale": {
     "sources": [
@@ -26004,7 +26263,11 @@
       "summary": "黄翅弄蝶（异体写法）。橙黄色翅具黑斑的小型弄蝶。在林缘与草地快速飞行，访花吸蜜。与 Potanthus flavus 同种或极近缘。",
       "habitat_hint": "草地、林缘、公园花坛、农田、河滩草地。",
       "finding_tips": "五至十月在草地与林缘寻找橙黄色配黑斑的小型弄蝶。访花时易观察。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黄翅弄蝶"
+    },
+    "common_name_en": "Tropic Dart"
   },
   "Idesia polycarpa": {
     "sources": [
@@ -26109,7 +26372,8 @@
       "summary": "小叶落新妇。日本固有的虎耳草科多年草，生于明亮林缘、草地与湿润斜坡。夏季密生淡粉至白色小花圆锥花序。",
       "habitat_hint": "明亮杂木林林缘、草地、湿润斜坡、神社林、堤岸。",
       "finding_tips": "六至八月在明亮林缘与草地寻找具淡粉至白色圆锥花序的多年草。比落新妇小，花淡粉色。"
-    }
+    },
+    "common_name_en": "Small-leaved Astilbe"
   },
   "Megachile sculpturalis": {
     "sources": [
@@ -26151,7 +26415,8 @@
       "summary": "樟红盲蝽。吸食樟树叶汁的小型盲蝽，具红色斑纹。近年在樟树行道树与公园木上爆发成问题。",
       "habitat_hint": "种樟树的街道、公园、神社林、住宅区庭院、植物园。",
       "finding_tips": "五至十月在樟树叶与嫩枝寻找具红斑的小型盲蝽。受害叶变黄是线索。"
-    }
+    },
+    "common_name_en": "Camphor Red Mirid"
   },
   "Vespa dybowskii": {
     "sources": [
@@ -26193,7 +26458,8 @@
       "summary": "中华锥头螽。小型螽斯科，体淡褐至淡绿色。栖于草地与河滩，夜间发出『shiri-shiri...』高音鸣声。",
       "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
       "finding_tips": "八至十月夜间在草地与河滩聆听淡褐至淡绿色小型螽斯『shiri-shiri...』鸣声。"
-    }
+    },
+    "common_name_en": "Chinese Conehead Katydid"
   },
   "Aquarius elongatus": {
     "sources": [
@@ -26214,7 +26480,8 @@
       "summary": "大水黾。日本最大级水黾，在河流与池塘水面快速滑行。体长 20 毫米以上，长腿利用水面张力站立。",
       "habitat_hint": "河流、池塘、湖沼、湿地、灌溉沟。",
       "finding_tips": "全年（暖季活跃）在河流与池塘水面寻找具长腿的大型水黾。比普通水黾大一圈。"
-    }
+    },
+    "common_name_en": "Large Water Strider"
   },
   "Leucauge celebesiana": {
     "sources": [
@@ -26235,7 +26502,8 @@
       "summary": "大银鳞蛛。腹部绿与银色金属色的中至大型蜘蛛，比近缘种更大。在林缘与灌丛斜结圆网。",
       "habitat_hint": "杂木林林缘、灌丛、河岸林、神社林、农田边缘。",
       "finding_tips": "五至十月在林缘与灌丛寻找腹部绿至银色的较大蜘蛛停于斜置圆网。斜网是识别要点。"
-    }
+    },
+    "common_name_en": "Large Silver Orbweaver"
   },
   "Rhynchaglaea scitula": {
     "sources": [
@@ -26256,7 +26524,8 @@
       "summary": "茶斑秋翅夜蛾。秋至冬发生的中型夜蛾，翅淡褐至灰褐色具复杂条纹。聚集于树液与腐果。",
       "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
       "finding_tips": "十至十二月在树液与腐果周边寻找淡褐至灰褐色翅的中型蛾。冬季活跃属罕见。"
-    }
+    },
+    "common_name_en": "Brown-spotted Sallow"
   },
   "Alcimocoris japonensis": {
     "sources": [
@@ -26298,7 +26567,8 @@
       "summary": "短刺乌塘鳢。日本固有的小型淡水虾虎鱼，栖于河流与湖沼。似黑斑乌塘鳢但属内陆型，常见于河流中上游。胸鳍大，雄性繁殖期变黑。",
       "habitat_hint": "河流中上游、湖沼、池塘、灌溉沟、内陆湿地。",
       "finding_tips": "全年在河流中上游与湖沼的石下寻找小型虾虎鱼。栖地（更上游/内陆）与黑斑乌塘鳢区分。"
-    }
+    },
+    "common_name_en": "Inland Goby"
   },
   "Pipistrellus abramus": {
     "sources": [
@@ -26340,7 +26610,8 @@
       "summary": "大青丝蟌。日本最大级丝蟌，常见于湿地与池沼岸边。体绿色金属光泽，停时翅半开是独特识别（不同于多数蟌折翅）。",
       "habitat_hint": "湿地、池塘、湖沼、芦苇丛、河滩湿地。",
       "finding_tips": "六至十月在湿地与池沼岸边寻找绿色金属光泽的大型蟌。停时翅半开姿势是关键识别。"
-    }
+    },
+    "common_name_en": "Large Spreadwing Damselfly"
   },
   "Camponotus kiusiuensis": {
     "sources": [
@@ -26361,7 +26632,8 @@
       "summary": "御弓背蚁。日本固有的大型弓背蚁属，黑色具光泽，蚁后尤其大。在杂木林朽木与倒木筑巢。",
       "habitat_hint": "杂木林、朽木、倒木、树干缝隙、神社林、河岸林。",
       "finding_tips": "全年（暖季活跃）在倒木与朽木上寻找大型黑色具光泽的蚂蚁。日本固有种，分布于关东以南。"
-    }
+    },
+    "common_name_en": "Mikado Carpenter Ant"
   },
   "Nezara viridula": {
     "sources": [
@@ -26403,7 +26675,8 @@
       "summary": "爪哇暗螽。大型螽斯科，淡褐至灰褐色体色暗淡、体型巨大。夜间发出『ji-』长而低沉响亮的鸣声。",
       "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
       "finding_tips": "八至十月夜间在草地与河滩聆听『ji-』长而低沉响亮鸣声的大型螽斯。日本产螽斯中最大级。"
-    }
+    },
+    "common_name_en": "Drab Pale-coloured Katydid"
   },
   "Agrilus imitans": {
     "sources": [
@@ -26424,7 +26697,8 @@
       "summary": "胸赤长吉丁。细长小型吉丁，前胸红色、鞘翅绿色金属光泽。幼虫蛀阔叶枯枝。",
       "habitat_hint": "杂木林枯枝、出树液的树、林缘、神社林、河岸林。",
       "finding_tips": "五至八月在杂木林枯枝与叶上寻找前胸红、鞘翅绿色金属光泽的细长吉丁。"
-    }
+    },
+    "common_name_en": "Red-thorax Slender Jewel Beetle"
   },
   "Clanis bilineata": {
     "sources": [
@@ -26445,7 +26719,8 @@
       "summary": "鸢色天蛾。大型天蛾，翅淡褐至红褐色具独特条纹。幼虫大型，取食豆科（尤大豆与刺槐）叶片。",
       "habitat_hint": "杂木林、林缘、农田、有刺槐处、河岸林。",
       "finding_tips": "五至十月夜间在路灯下寻找大型天蛾。淡褐至红褐色具条纹翅是关键识别。幼虫也可在刺槐叶上发现。"
-    }
+    },
+    "common_name_en": "Tobacco Cutworm Moth"
   },
   "Messor aciculatus": {
     "sources": [
@@ -26466,7 +26741,8 @@
       "summary": "针毛收获蚁。黑色中型蚁，具搬运种子至巢中贮藏的独特习性。在草地与河滩地下筑大型巢。",
       "habitat_hint": "草地、河滩、农田边缘、空地、林缘开阔地。",
       "finding_tips": "四至十月在草地与河滩寻找搬运种子（尤禾本科种子）的黑色中型蚁。可观察搬种行为。"
-    }
+    },
+    "common_name_en": "Asian Harvester Ant"
   },
   "Numenius madagascariensis": {
     "sources": [
@@ -26530,7 +26806,8 @@
       "summary": "球形蟹（米虫蟹）。栖于滩涂的小型蟹，吞沙过滤有机物后留下大量小沙团（似米粒），是日文俗名『搗米』由来。",
       "habitat_hint": "滩涂、河口砂泥地、海岸潮间带沙滩。",
       "finding_tips": "全年（暖季活跃）若见滩涂表面成排小沙团即此蟹的取食痕迹。退潮时可在洞穴入口观察。"
-    }
+    },
+    "common_name_en": "Sand Bubbler Crab"
   },
   "Galium pseudoasprellum": {
     "sources": [
@@ -26740,7 +27017,8 @@
       "summary": "假毛瑞香（缚鬼）。瑞香科落叶灌木，树皮极坚韧（『可缚鬼』）是日文俗名由来。早春开黄绿色小花，初夏结红色果（有毒）。",
       "habitat_hint": "杂木林林缘、林床、神社林、半阴斜坡、河岸林。",
       "finding_tips": "花期二至四月，果期五至七月。在杂木林寻找树皮极坚韧的落叶灌木。早春黄绿色小花，初夏红色果（有毒）。"
-    }
+    },
+    "common_name_en": "False Mezereon"
   },
   "Astraeus hygrometricus": {
     "sources": [
@@ -26782,7 +27060,8 @@
       "summary": "戟叶堇菜。日本固有的堇菜，生于明亮林缘与草地。叶披针形长，开白至淡紫色花。叶细长是与其他堇菜区分要点。",
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、半阴斜坡、神社林。",
       "finding_tips": "四至五月在明亮林缘与草地寻找具细长披针叶、白至淡紫色花的堇菜。叶细长与其他堇菜区分。"
-    }
+    },
+    "common_name_en": "Mountain Violet"
   },
   "Euphorbia pekinensis": {
     "sources": [
@@ -26971,7 +27250,8 @@
       "summary": "日本柳。日本固有的柳科落叶灌木，生于明亮林缘、草地与河滩。叶披针形，春季开银白色柔软花穗。雌雄异株。",
       "habitat_hint": "明亮杂木林林缘、草地、河滩、堤岸、次生林。",
       "finding_tips": "花期三至四月在林缘与河滩寻找具银白色柔软花穗的中小型落叶灌木。叶披针形。"
-    }
+    },
+    "common_name_en": "Japanese Willow"
   },
   "Prunus buergeriana": {
     "sources": [
@@ -27013,7 +27293,8 @@
       "summary": "粗鳞侧耳。生于阔叶倒木与朽木上的食用菌。菌盖表面具粗鳞，菌褶宽间距。耐旱常见。",
       "habitat_hint": "杂木林倒木与朽木、柴堆、神社林倒木、河岸林朽木。",
       "finding_tips": "梅雨至秋在阔叶倒木与朽木上寻找菌盖具粗鳞的菇。可食但有类似毒菌，需仔细鉴定。"
-    }
+    },
+    "common_name_en": "Scaly Lentinus"
   },
   "Carpinus laxiflora": {
     "sources": [
@@ -27161,7 +27442,8 @@
       "summary": "油茶（早花山胡椒）。日本固有的樟科落叶灌木至小乔木，早春先叶开淡黄色小花。日文俗名『油茶』源于果实曾榨取灯油。",
       "habitat_hint": "杂木林林缘、林床、神社林、次生林、河岸林。",
       "finding_tips": "花期三至四月在杂木林寻找无叶枝上早春开淡黄色小花的落叶灌木至小乔木。"
-    }
+    },
+    "common_name_en": "Early-flowering Spicebush"
   },
   "Symplocos sawafutagi": {
     "sources": [
@@ -27225,7 +27507,8 @@
       "summary": "山城新园蛛。中型园蛛，腹部淡褐色具山形纹（『山城』）。在林缘、住宅檐下与树间结大型圆网。",
       "habitat_hint": "杂木林林缘、住宅檐下、公园、树间、神社林。",
       "finding_tips": "五至十月在林缘与住宅区寻找结大型圆网的淡褐色中型蜘蛛。腹部山形纹是关键识别。"
-    }
+    },
+    "common_name_en": "Yamashiro Orbweaver"
   },
   "Davidius nanus": {
     "sources": [
@@ -27267,7 +27550,8 @@
       "summary": "条纹水黾。小型水黾，具黑色条纹，栖于河流流水。独特能在急流水面滑行。",
       "habitat_hint": "河流流水段、溪流、灌溉沟、河滩流水。",
       "finding_tips": "全年（暖季活跃）在河流流水中寻找具黑色条纹的小型水黾。能在急流水面滑行是特征。"
-    }
+    },
+    "common_name_en": "Striped Water Strider"
   },
   "Graphosoma rubrolineatum": {
     "sources": [
@@ -27288,7 +27572,8 @@
       "summary": "条赤须盾蝽。中型椿象，红黑相间纵纹美丽。独特习性，常聚集于伞形科植物花序上。",
       "habitat_hint": "草地、河滩、农田边缘、林缘、有伞形科植物处。",
       "finding_tips": "五至十月在草地与河滩的伞形科植物（窃衣、独活等）花序上寻找具红黑纵纹的中型椿象。"
-    }
+    },
+    "common_name_en": "Red-striped Stink Bug"
   },
   "Rhabdophis tigrinus": {
     "sources": [
@@ -27373,7 +27658,8 @@
       "summary": "栎带秋翅夜蛾。秋至冬发生的中型夜蛾，翅淡褐至红褐色具独特带纹。聚集于树液与腐果，冬季活跃属罕见。",
       "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
       "finding_tips": "十至十二月在树液与腐果周边寻找翅淡褐至红褐色具带纹的中型蛾。冬季活跃属稀有。"
-    }
+    },
+    "common_name_en": "Oak Sallow"
   },
   "Cuculus canorus": {
     "sources": [
@@ -27437,7 +27723,8 @@
       "summary": "茶翅冬尺蛾。冬季（十一至二月）发生的中型尺蛾。雄性具茶褐色翅，雌性翅退化不能飞。冬季活跃属罕见蛾种。",
       "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
       "finding_tips": "十一至二月在杂木林树干寻找具茶褐色翅的中型雄性尺蛾。无翅雌性可在树皮上发现。"
-    }
+    },
+    "common_name_en": "Brown-winged Winter Geometer"
   },
   "Crematogaster matsumurai": {
     "sources": [
@@ -27479,7 +27766,8 @@
       "summary": "日本黑蚁。日本最普通的中型蚁，黑褐至暗褐色。从住宅区到杂木林广布，在地下与朽木筑巢。著名习性是『饲养』蚜虫采食蜜露。",
       "habitat_hint": "杂木林、住宅区、公园、农田、神社林、河岸林。",
       "finding_tips": "全年（暖季活跃）从住宅区到杂木林广见黑褐色中型蚂蚁。蚜虫植物周边也可观察。"
-    }
+    },
+    "common_name_en": "Japanese Common Black Ant"
   },
   "Sarbanissa subflava": {
     "sources": [
@@ -27500,7 +27788,8 @@
       "summary": "茶色虎蛾。中型夜蛾，翅淡褐色具独特虎纹（『虎蛾』）。停于树干与叶背具保护色。",
       "habitat_hint": "杂木林、林缘、公园乔木、神社林、河岸林。",
       "finding_tips": "五至九月在树干与叶背寻找具淡褐色虎纹翅的中型蛾。"
-    }
+    },
+    "common_name_en": "Brown Tiger Moth"
   },
   "Phyllanthus urinaria": {
     "sources": [
@@ -27542,6 +27831,9 @@
       "summary": "杨树菇（茶树菇近亲）。生于阔叶树（尤柳、杨、朴树）伤口与倒木上的食用菌。菌盖淡褐至茶褐色，菌褶白至淡褐色。也作人工栽培。",
       "habitat_hint": "柳、杨、朴树伤口、倒木、神社林老树、河岸林。",
       "finding_tips": "春至秋在柳与杨的伤口与倒木上寻找菌盖淡褐至茶褐色的中型菇。可食但有类似毒菌，需仔细鉴定。"
+    },
+    "aliases": {
+      "zh-Hans": "杨树菇"
     }
   },
   "Hemitrichia serpula": {
@@ -27605,7 +27897,8 @@
       "summary": "尼泊尔早熟禾。中型多年生禾本科，生于潮湿林缘、河滩与农田。具纤细淡绿至淡紫色圆锥花序。",
       "habitat_hint": "潮湿林缘、河滩、农田、半阴路边、潮湿草地。",
       "finding_tips": "五至七月在潮湿林缘与河滩寻找具纤细淡绿至淡紫色圆锥花序的多年生禾本科。"
-    }
+    },
+    "common_name_en": "Nepalese Bluegrass"
   },
   "Tubocapsicum anomalum": {
     "sources": [
@@ -27647,7 +27940,8 @@
       "summary": "脆叶柳。柳科落叶灌木至小乔木，生于河滩与湿地，是河岸林主要构成种之一。叶披针形，春季开银白色柔软花穗。雌雄异株。",
       "habitat_hint": "河滩、湿地、池塘边、河岸林、潮湿草地。",
       "finding_tips": "花期三至四月在河滩与湿地寻找具银白色柔软花穗的落叶灌木至小乔木。叶披针形且长。"
-    }
+    },
+    "common_name_en": "Brittle Willow"
   },
   "Berberis thunbergii": {
     "sources": [
@@ -27689,7 +27983,11 @@
       "summary": "大盘菌（橡胶菌）。生于阔叶倒木与朽木上的大型真菌，质地如橡胶有弹性是日文俗名由来。菌盖黑褐色，内侧黑色圆盘状。",
       "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
       "finding_tips": "梅雨至秋在阔叶倒木与朽木上寻找具橡胶弹性、黑褐色圆盘状的大型真菌。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "大盘菌"
+    },
+    "common_name_en": "Rubber Cup Fungus"
   },
   "Niponia nodulosa": {
     "sources": [
@@ -27710,7 +28008,8 @@
       "summary": "枕状马陆。中型马陆，黑色分节体配黄色横带独特。栖于潮湿林床与枯叶层，是重要分解者。受扰释放独特气味。",
       "habitat_hint": "杂木林林床、枯叶、潮湿石下、神社林、住宅区花盆下。",
       "finding_tips": "全年（暖季活跃）在杂木林林床与枯叶中寻找黑色分节配黄色横带的中型马陆。"
-    }
+    },
+    "common_name_en": "Pillow Millipede"
   },
   "Fimbristylis tristachya": {
     "sources": [
@@ -27815,7 +28114,8 @@
       "summary": "耳形天南星。日本固有的天南星属，佛焰苞缘向外反折似『耳』是日文俗名由来。生于林床与林缘。有毒。",
       "habitat_hint": "杂木林林床、谷地林、神社林、半阴斜坡、河岸林。",
       "finding_tips": "四至六月在林床寻找佛焰苞缘向外反折似耳的独特天南星属。请勿食用——有毒。"
-    }
+    },
+    "common_name_en": "Margined Jack-in-the-Pulpit"
   },
   "Cephalotaxus harringtonia": {
     "sources": [
@@ -27962,6 +28262,9 @@
       "summary": "蔓藓婆婆纳（杯叶婆婆纳）。原产欧洲的小型一年生车前科，近年在日本路边、菜地与空地迅速扩散。密生白色四瓣小花，叶肾形至圆形小型。",
       "habitat_hint": "路边、菜地、空地、路面缝、农田边缘。",
       "finding_tips": "二至五月在路边与菜地寻找具白色四瓣小花、肾形至圆形小叶的匍匐小型一年草。近年急速扩散。"
+    },
+    "aliases": {
+      "zh-Hans": "蔓藓婆婆纳"
     }
   },
   "Hydrangea hirta": {
@@ -27983,7 +28286,8 @@
       "summary": "小绣球。日本固有的绣球科落叶灌木，生于山地杂木林。比绣球更小，无装饰花，开淡蓝至淡紫色小花伞房状美丽。",
       "habitat_hint": "山地杂木林、林缘、谷地林、神社林、半阴斜坡。",
       "finding_tips": "花期六至七月在山地杂木林寻找具淡蓝至淡紫色小花伞房状（无装饰花）的落叶灌木。比绣球更小更纤细。"
-    }
+    },
+    "common_name_en": "Small Hydrangea"
   },
   "Amana edulis": {
     "sources": [
@@ -28004,7 +28308,8 @@
       "summary": "老鸦瓣。明亮杂木林林床与草地的百合科多年草，早春开带淡粉的白色六瓣花。地下鳞茎自古食用，是日文俗名『甘菜』由来。",
       "habitat_hint": "明亮杂木林林床、林缘、草地、堤岸、半阴斜坡。",
       "finding_tips": "三至四月在明亮林床与草地寻找具带淡粉白色六瓣花的多年草。线形 2 叶从花茎基部出。"
-    }
+    },
+    "common_name_en": "Edible Amana"
   },
   "Leucojum aestivum": {
     "sources": [
@@ -28046,7 +28351,8 @@
       "summary": "大步甲。大型步甲，黑色具光泽。栖于杂木林林床与石下，取食其他昆虫与枯叶。捕食性益虫，捕食害虫幼虫。",
       "habitat_hint": "杂木林林床、潮湿石下、神社林、河岸林、住宅区庭院石下。",
       "finding_tips": "全年（暖季活跃）在林床与石下寻找黑色具光泽的大型步甲。是捕食性益虫。"
-    }
+    },
+    "common_name_en": "Large Ground Beetle"
   },
   "Latrodectus hasselti": {
     "sources": [
@@ -28067,7 +28373,8 @@
       "summary": "红背蜘蛛。原产澳大利亚的有毒蜘蛛，被列为特定外来生物。雌性黑色体配背部红色纵线为特征，咬伤引起剧痛与神经症状。日本港湾附近发现增多。",
       "habitat_hint": "港湾、空地、停车场、住宅区隐蔽处、自动售货机下、边沟。",
       "finding_tips": "全年在港湾附近与住宅区隐蔽处寻找背部具红色纵线的黑色蜘蛛。咬伤可致重症，切勿触碰。发现请上报当局。"
-    }
+    },
+    "common_name_en": "Redback Spider"
   },
   "Loxoblemmus arietulus": {
     "sources": [
@@ -28088,7 +28395,8 @@
       "summary": "お多福蟋蟀。中型蟋蟀，雄性头部具独特前突起（似『お多福』面具）是日文俗名由来。夜间发出『koro-koro-koro...』高音连续鸣声。",
       "habitat_hint": "草地、河滩草地、农田边缘、住宅区庭院、林缘。",
       "finding_tips": "八至十一月夜间在草地与住宅区聆听『koro-koro-koro...』连续鸣声的中型蟋蟀。雄性头部独特前突起是关键识别。"
-    }
+    },
+    "common_name_en": "Okame Cricket"
   },
   "Oraesia excavata": {
     "sources": [
@@ -28109,7 +28417,8 @@
       "summary": "凹缘壶夜蛾。中型夜蛾，翅缘呈独特『凹缺』状，停时拟态枯叶具保护色。具刺吸成熟果实的口器，是果园害虫。",
       "habitat_hint": "杂木林、林缘、果园、住宅区庭院、神社林。",
       "finding_tips": "全年（成虫越冬）在树干与倒木上寻找形似枯叶的中型蛾。翅缘『凹缺』状独特。"
-    }
+    },
+    "common_name_en": "Scalloped Fruit-piercing Moth"
   },
   "Ruditapes philippinarum": {
     "sources": [
@@ -28194,7 +28503,8 @@
       "summary": "扁蛛。小型蜘蛛，在住宅墙、石墙与岩缝筑扁平圆盘状巢。巢中央具藏身处，周围放射状延伸『支撑丝』。",
       "habitat_hint": "住宅墙、石墙、岩缝、神社林老树、杂木林树干。",
       "finding_tips": "全年在住宅墙与石墙寻找扁平圆盘状蛛巢。中央可见小型蜘蛛藏身。"
-    }
+    },
+    "common_name_en": "Flat Spider"
   },
   "Blenina senex": {
     "sources": [
@@ -28215,7 +28525,8 @@
       "summary": "树皮夜蛾。中型夜蛾，翅拟态树皮独特，停于树干上几乎不可见。聚集于树液与腐果。",
       "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
       "finding_tips": "全年（成虫越冬）在杂木林树干仔细寻找翅似树皮的中型蛾。拟态完美极易错过。"
-    }
+    },
+    "common_name_en": "Tree Bark Moth"
   },
   "Periplaneta americana": {
     "sources": [
@@ -28257,7 +28568,8 @@
       "summary": "李秋翅夜蛾。早春发生的中型夜蛾，翅淡褐至灰褐色具独特纹路。聚集于树液与早春花蜜，早春活跃属罕见。",
       "habitat_hint": "杂木林、林缘、出树液的树、果园、神社林。",
       "finding_tips": "三至五月在杂木林树液与早春花上寻找淡褐至灰褐色的中型蛾。早春活跃属稀有。"
-    }
+    },
+    "common_name_en": "Twin-spotted Quaker"
   },
   "Arna pseudoconspersa": {
     "sources": [
@@ -28278,7 +28590,8 @@
       "summary": "茶毒蛾。为害茶树、茶梅与山茶等山茶科植物叶片的小型毒蛾。幼虫的毒毛接触皮肤引起剧痒与皮疹，切勿触摸。",
       "habitat_hint": "种茶树、茶梅、山茶的庭园、绿篱、公园栽植、住宅区庭树。",
       "finding_tips": "幼虫期四至六月与九至十月在山茶科叶背寻找成群黄至橙色多毛幼虫。切勿触摸。成虫为淡黄色中型蛾。"
-    }
+    },
+    "common_name_en": "Tea Tussock Moth"
   },
   "Crematogaster osakensis": {
     "sources": [
@@ -28299,7 +28612,8 @@
       "summary": "大阪举腹蚁。中型举腹蚁属，黄褐色体色，受刺激时独特地向上举腹。常在树干与枝缝筑巢。",
       "habitat_hint": "杂木林、树干、枝缝、神社林、河岸林、住宅区庭树。",
       "finding_tips": "全年（暖季活跃）在杂木林树干寻找受扰时向上举腹的黄褐色中型蚂蚁。"
-    }
+    },
+    "common_name_en": "Osaka Acrobat Ant"
   },
   "Pheidole nodus": {
     "sources": [
@@ -28320,7 +28634,8 @@
       "summary": "大头蚁（结点大头蚁）。中型大头蚁属，工蚁分『大型』（兵蚁，头大）与『小型』两型是日文俗名『大头蚁』由来。栖于杂木林与住宅区。",
       "habitat_hint": "杂木林、住宅区、公园、农田、神社林、河岸林。",
       "finding_tips": "全年（暖季活跃）在杂木林与住宅区寻找头大兵蚁与小型工蚁混杂的中型蚂蚁。"
-    }
+    },
+    "common_name_en": "Big-headed Ant"
   },
   "Tauphaedusa tau": {
     "sources": [
@@ -28406,7 +28721,8 @@
       "summary": "双波尺蛾。小型尺蛾，淡褐色翅具 2 条波纹（『双波』）。停于树干与叶背，夜间活动。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找具淡褐色翅、2 条波纹的小型蛾。"
-    }
+    },
+    "common_name_en": "Two-wave Geometer"
   },
   "Mendoza elongata": {
     "sources": [
@@ -28427,7 +28743,8 @@
       "summary": "细长跳蛛。细长体型的中型跳蛛，在叶面与草茎快速跳跃捕食昆虫。雄性腹部具独特纹路并表演求偶舞蹈。",
       "habitat_hint": "草地、林缘、农田、公园、河滩草地、住宅区庭院。",
       "finding_tips": "五至十月在草地与叶面寻找细长体型的中型跳蛛。可观察雄性求偶舞蹈。"
-    }
+    },
+    "common_name_en": "Elongated Jumping Spider"
   },
   "Sterna hirundo": {
     "sources": [
@@ -28576,7 +28893,8 @@
       "summary": "热带草蟋。小型蟋蟀，栖于草坪与河滩。夜间发出『ji-』微弱连续鸣声。茶褐色不显眼。",
       "habitat_hint": "草坪、河滩草地、农田边缘、公园、住宅区庭院。",
       "finding_tips": "七至十月夜间在草坪与河滩聆听『ji-』微弱连续鸣声的小型蟋蟀。"
-    }
+    },
+    "common_name_en": "Tropical Trig Cricket"
   },
   "Phalacrocorax pelagicus": {
     "sources": [
@@ -28661,7 +28979,8 @@
       "summary": "小飘拂草。湿地、水田田埂与河滩湿地的小型多年生莎草科。比三穗飘拂草小，茶褐色小穗 1-3 个伞形排列。",
       "habitat_hint": "湿地、水田田埂、河滩湿地、池塘边、休耕田。",
       "finding_tips": "八至十月在湿地与水田田埂寻找具茶褐色 1-3 个小穗伞形排列的小型多年生莎草。"
-    }
+    },
+    "common_name_en": "Small Fimbry"
   },
   "Persicaria muricata": {
     "sources": [
@@ -28871,7 +29190,8 @@
       "summary": "毛脉荚蒾。日本固有的五福花科落叶灌木，生于杂木林与林缘。秋季红色小球形果美丽，叶对生卵形、脉具毛。",
       "habitat_hint": "杂木林林缘、林床、神社林、次生林、半阴斜坡。",
       "finding_tips": "果期九至十一月在杂木林寻找具红色小球形果、对生卵形叶（脉具毛）的落叶灌木。花期五至六月，白色小花。"
-    }
+    },
+    "common_name_en": "Hairy-vein Viburnum"
   },
   "Acer buergerianum": {
     "sources": [
@@ -28955,7 +29275,8 @@
       "summary": "饭沼菊（紫菀属）。日本固有的菊科多年草，生于明亮林缘与草地。秋季密生白至淡紫色头状花，叶深裂独特。",
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、半阴斜坡。",
       "finding_tips": "九至十一月在明亮林缘与草地寻找具白至淡紫色头状花、叶深裂的多年草。"
-    }
+    },
+    "common_name_en": "Yuga Aster"
   },
   "Nesotaxonus fulvus": {
     "sources": [
@@ -28976,7 +29297,8 @@
       "summary": "茶色叶蜂。中型叶蜂，茶褐色体。幼虫为害蔷薇与其他蔷薇科叶片。成虫常见于花与叶上。",
       "habitat_hint": "杂木林、林缘、农田、果园、河岸林、住宅区庭院。",
       "finding_tips": "五至九月在杂木林与林缘寻找茶褐色的中型叶蜂。也可观察蔷薇科叶背的群聚幼虫。"
-    }
+    },
+    "common_name_en": "Brown Sawfly"
   },
   "Odontopera arida": {
     "sources": [
@@ -28997,7 +29319,8 @@
       "summary": "凹缘尺蛾。中型尺蛾，翅缘呈独特『凹缺』状。翅淡褐至灰褐色，停于树干与叶背。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找翅缘『凹缺』独特的中型蛾。"
-    }
+    },
+    "common_name_en": "Scalloped Geometer"
   },
   "Argynnis paphia": {
     "sources": [
@@ -29061,7 +29384,8 @@
       "summary": "酸模叶甲。中型叶甲，鞘翅橙黄色具黑斑，取食虎杖与酸模等蓼科叶片。色彩鲜艳显眼。",
       "habitat_hint": "生有虎杖与酸模的河滩、空地、林缘、农田。",
       "finding_tips": "五至九月在虎杖与酸模叶上寻找鞘翅橙黄色配黑斑的中型叶甲。叶上圆形蛀痕辅助识别。"
-    }
+    },
+    "common_name_en": "Polygonum Leaf Beetle"
   },
   "Ruspolia lineosa": {
     "sources": [
@@ -29082,7 +29406,8 @@
       "summary": "斜面螽。中型螽斯科，淡褐至绿色具细纵纹。夜间发出『ji-』长而高音的鸣声，是草地与河滩代表性鸣虫。",
       "habitat_hint": "草地、河滩草地、湿地、农田边缘、林缘。",
       "finding_tips": "八至十月夜间在草地与河滩聆听『ji-』长而高音鸣声的中型螽斯。淡褐至绿色配细纵纹可助识别。"
-    }
+    },
+    "common_name_en": "Slant-faced Cone-headed Katydid"
   },
   "Periophthalmus modestus": {
     "sources": [
@@ -29124,7 +29449,8 @@
       "summary": "西伯利亚大蕈甲。中型大蕈甲科，具蓝至紫色金属光泽美丽。取食阔叶倒木上的真菌。",
       "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
       "finding_tips": "五至九月在杂木林倒木与朽木上寻找具蓝至紫色金属光泽的中型甲虫。倒木真菌周边可见。"
-    }
+    },
+    "common_name_en": "Siberian Pleasing Fungus Beetle"
   },
   "Hierodula chinensis": {
     "sources": [
@@ -29145,7 +29471,8 @@
       "summary": "中华大刀螳（胸赤宽腹螳螂）。原产中国的大型螳螂，近年入侵日本并迅速扩散。比本土宽腹螳螂大，胸部下面红色是关键识别。",
       "habitat_hint": "杂木林、林缘、住宅区庭院、农田、公园。",
       "finding_tips": "七至十一月在杂木林与住宅区寻找大型螳螂。胸部下面红色与本土宽腹螳螂区分。近年入侵种，引起关注。"
-    }
+    },
+    "common_name_en": "Chinese Mantis"
   },
   "Vanellus vanellus": {
     "sources": [
@@ -29188,7 +29515,8 @@
       "summary": "毒隐翅虫。小型隐翅虫，红色胸部配深蓝色鞘翅、体型细长独特。体液含强毒（毒隐翅素），接触皮肤引起水疱性皮炎，切勿触摸。",
       "habitat_hint": "水田、湿地、河滩、农田、住宅区（夏季趋光）。",
       "finding_tips": "五至十月在水田、湿地与夜间灯下寻找具红胸蓝鞘翅、细长体的小型甲虫。切勿压碎或触摸（皮炎源）。"
-    }
+    },
+    "common_name_en": "Rove Beetle"
   },
   "Turdus obscurus": {
     "sources": [
@@ -29252,7 +29580,8 @@
       "summary": "黄斑青步甲。中至大型步甲，鞘翅绿色金属光泽配 2 个黄斑。栖于潮湿处，是捕食性益虫。",
       "habitat_hint": "湿地、河滩、农田、杂木林林床、神社林。",
       "finding_tips": "全年（暖季活跃）在湿地与河滩寻找具绿色金属光泽鞘翅、2 个黄斑的中至大型步甲。"
-    }
+    },
+    "common_name_en": "Two-spotted Green Ground Beetle"
   },
   "Marumba sperchius": {
     "sources": [
@@ -29273,7 +29602,8 @@
       "summary": "栎天蛾。大型天蛾，翅淡褐至灰褐色具独特波纹。停于树干与叶背，夜间活动。幼虫为害栎类（壳斗科）。",
       "habitat_hint": "杂木林、林缘、有麻栎与小楢的公园、神社林、河岸林。",
       "finding_tips": "五至十月夜间在路灯下寻找大型天蛾。翅淡褐至灰褐色具波纹是关键识别。"
-    }
+    },
+    "common_name_en": "Brown Hawkmoth"
   },
   "Xestia dilatata": {
     "sources": [
@@ -29294,7 +29624,8 @@
       "summary": "淡褐夜蛾。中型夜蛾，翅淡褐色具独特纹路。停于树干与叶背，夜间趋光。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背、夜间灯下寻找淡褐色翅的中型蛾。"
-    }
+    },
+    "common_name_en": "Pale Brown Noctuid"
   },
   "Heptophylla picea": {
     "sources": [
@@ -29315,7 +29646,8 @@
       "summary": "长茶色金龟。中型金龟，淡茶褐色体色。是草坪与农田害虫，幼虫为害植物根部。",
       "habitat_hint": "草坪、农田、果园、住宅区庭院、河滩草地。",
       "finding_tips": "五至八月夜间在路灯下寻找淡茶褐色的中型金龟。幼虫为害可致草坪与农田枯萎。"
-    }
+    },
+    "common_name_en": "Brown Chafer"
   },
   "Hovenia dulcis": {
     "sources": [
@@ -29358,7 +29690,8 @@
       "summary": "中白鹭。中至大型白色鹭，似大白鹭但更小。南亚至日本的亚种，常见于河流、湖沼与湿地。繁殖羽喙黑、眼周绿色。",
       "habitat_hint": "河流、湖沼、湿地、水田、河口、滩涂。",
       "finding_tips": "全年（春至秋多见）在河流与水田寻找白色中至大型鹭。比大白鹭小，凭喙色与颈长区分。"
-    }
+    },
+    "common_name_en": "Eastern Great Egret"
   },
   "Spirodela polyrhiza": {
     "sources": [
@@ -29421,7 +29754,8 @@
       "summary": "泥胡菜。明亮草地与田埂的二年生菊科。似蓟但叶无刺，紫红色头状花在直立茎顶开放。日文俗名『狐蓟』指『假冒』（似蓟非蓟）。",
       "habitat_hint": "明亮草地、水田田埂、农田、河滩草地、堤岸。",
       "finding_tips": "五至六月在草地与田埂寻找具紫红色头状花、似蓟但叶无刺的二年草。"
-    }
+    },
+    "common_name_en": "Lyrate Hemistepta"
   },
   "Vandellia micrantha": {
     "sources": [
@@ -29442,7 +29776,8 @@
       "summary": "小花母草。母草科小型多年生草本，生于水田田埂、潮湿草地与湿地。开淡紫色唇形花，匍匐生长。",
       "habitat_hint": "水田田埂、湿地、潮湿草地、河滩湿地、农田边缘。",
       "finding_tips": "四至六月在水田田埂与湿地寻找具淡紫色唇形花的匍匐小型多年草。"
-    }
+    },
+    "common_name_en": "Small-flowered Vandellia"
   },
   "Stachys riederi": {
     "sources": [
@@ -29463,7 +29798,8 @@
       "summary": "水苏。湿地、水田田埂与河滩湿地的多年生唇形科。淡红色唇形花穗状，叶对生披针形，茎四棱形。喜湿生境。",
       "habitat_hint": "湿地、水田田埂、河滩湿地、潮湿草地、灌溉沟边。",
       "finding_tips": "七至九月在湿地与水田田埂寻找具淡红色唇形花穗、对生披针叶的唇形科多年草。茎四棱形。"
-    }
+    },
+    "common_name_en": "Marsh Woundwort"
   },
   "Hyophila propagulifera": {
     "sources": [
@@ -29484,7 +29820,8 @@
       "summary": "繁体小石藓。路面缝、石墙与混凝土的小型苔藓。耐旱，叶尖干燥时卷成管状是关键识别。",
       "habitat_hint": "路面缝、石墙、混凝土、屋瓦、停车场、裸地。",
       "finding_tips": "全年在路面缝与石墙寻找小型苔藓。叶尖干燥时卷成管状是关键识别。"
-    }
+    },
+    "common_name_en": "Propaguliferous Hyophila Moss"
   },
   "Apopellia endiviifolia": {
     "sources": [
@@ -29631,7 +29968,8 @@
       "summary": "毛唇杜鹃兰。日本固有的地生兰，生于明亮杂木林林床。秋季淡褐至紫褐色花下垂如『采配』（武将指挥棒）是日文俗名由来。稀有种。",
       "habitat_hint": "明亮杂木林林床、栎类林、神社林、半阴斜坡。",
       "finding_tips": "五至六月在明亮杂木林林床寻找下垂如『采配』的淡褐至紫褐色花地生兰。稀有种，请仅观察勿采摘。"
-    }
+    },
+    "common_name_en": "Saihai Orchid"
   },
   "Orixa japonica": {
     "sources": [
@@ -29736,7 +30074,8 @@
       "summary": "齿耳菌。生于阔叶倒木与朽木上的硬质多孔菌。菌盖背面密生齿状细长突起是日文俗名『蜂窝』由来。",
       "habitat_hint": "杂木林倒木与朽木、神社林倒木、河岸林朽木。",
       "finding_tips": "全年在阔叶倒木与朽木上寻找菌盖背面密生齿状突起的硬质真菌。"
-    }
+    },
+    "common_name_en": "Toothed Crust Fungus"
   },
   "Viola bissetii": {
     "sources": [
@@ -29757,6 +30096,9 @@
       "summary": "长叶堇菜（毕氏堇菜）。日本固有的堇菜，生于明亮林床与林缘。叶长披针至长椭圆形，开白至淡紫色花。叶细长与其他堇菜区分。",
       "habitat_hint": "明亮杂木林林床、林缘、半阴斜坡、神社林、河岸林。",
       "finding_tips": "四至五月在明亮林床寻找具长披针至长椭圆叶、白至淡紫色花的堇菜。"
+    },
+    "aliases": {
+      "zh-Hans": "长叶堇菜"
     }
   },
   "Helice tridens": {
@@ -29778,7 +30120,8 @@
       "summary": "三齿厚蟹。栖于河口汽水域、盐沼与芦苇丛的中型半陆生蟹。黑褐色体，在芦苇基部挖洞穴。日文俗名指其栖于『芦原』。",
       "habitat_hint": "河口汽水域、盐沼、芦苇丛、滩涂、海岸近郊湿地。",
       "finding_tips": "全年（暖季活跃）在河口与芦苇基部寻找黑褐色中型蟹。可在洞穴入口观察。"
-    }
+    },
+    "common_name_en": "Reed-bed Crab"
   },
   "Coreopsis tinctoria": {
     "sources": [
@@ -29904,7 +30247,8 @@
       "summary": "短滨螺。栖于岩礁海岸潮间带上部的小型滨螺。壳黑褐至灰色近球形，岩石上多群聚。耐潮汐变化与干燥。",
       "habitat_hint": "岩礁海岸潮间带上部、防波堤、海岸近郊岩石、潮间带礁石。",
       "finding_tips": "全年在岩礁海岸寻找岩石上群聚的小型黑褐至灰色滨螺。退潮时易观察。"
-    }
+    },
+    "common_name_en": "Short Periwinkle"
   },
   "Shikibutyna felis": {
     "sources": [
@@ -29925,7 +30269,11 @@
       "summary": "猫蛛（隐住蛛科一种）。与卷叶蛛相关的小型蜘蛛，在住宅角落与墙缝结小型天幕状网。茶褐色身体不显眼。",
       "habitat_hint": "住宅角落、墙缝、檐下、杂木林树干、神社林。",
       "finding_tips": "全年在住宅角落与墙缝寻找结小型天幕网的茶褐色小型蜘蛛。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "猫蛛"
+    },
+    "common_name_en": "Cat Crevice Spider"
   },
   "Amara gigantea": {
     "sources": [
@@ -29946,7 +30294,8 @@
       "summary": "大圆步甲。大型圆步甲，黑至暗褐色具光泽。栖于杂木林林床、菜地与草地，杂食取食其他昆虫与种子。",
       "habitat_hint": "杂木林林床、菜地、草地、河滩、住宅区庭院。",
       "finding_tips": "全年（暖季活跃）在林床与菜地寻找黑至暗褐色具光泽的大型步甲。"
-    }
+    },
+    "common_name_en": "Giant Round-bodied Ground Beetle"
   },
   "Calidris alba": {
     "sources": [
@@ -30011,7 +30360,8 @@
       "summary": "波纹洒灰蝶。初夏发生的中型灰蝶，属树冠『泽豹蝶』类。翅背面具独特波纹（『裏波』）是日文俗名由来。",
       "habitat_hint": "有麻栎与小楢的杂木林、林缘、神社林、河岸林。",
       "finding_tips": "五至六月在杂木林林缘与树冠寻找橙红色、翅背面具波纹的中型灰蝶。"
-    }
+    },
+    "common_name_en": "Wave-marked Hairstreak"
   },
   "Somena pulverea": {
     "sources": [
@@ -30032,7 +30382,8 @@
       "summary": "胡麻斑毒蛾。小型毒蛾，淡黄色翅散布如芝麻的小黑点。幼虫毒毛接触皮肤引起剧痒与皮疹，切勿触摸。",
       "habitat_hint": "杂木林、林缘、公园乔木、住宅区庭树、神社林。",
       "finding_tips": "五至十月在树干与叶背寻找具淡黄色翅、散布芝麻状黑点的小型毒蛾。幼虫黄至橙色多毛，切勿触摸。"
-    }
+    },
+    "common_name_en": "Speckled Tussock Moth"
   },
   "Apochrysa matsumurae": {
     "sources": [
@@ -30053,7 +30404,8 @@
       "summary": "网翅草蛉（松村草蛉）。中型草蛉，翅具独特网纹（『网目』），体绿色。捕食性益虫，捕食蚜虫等害虫。",
       "habitat_hint": "杂木林、林缘、农田、公园、河滩、住宅区庭院。",
       "finding_tips": "五至十月在杂木林叶上与夜间灯下寻找翅具网纹的绿色中型草蛉。蚜虫植物周边可观察。"
-    }
+    },
+    "common_name_en": "Net-winged Green Lacewing"
   },
   "Theretra nessus": {
     "sources": [
@@ -30095,7 +30447,8 @@
       "summary": "Coppery Sweat Bee. A small Halictidae bee with beautiful coppery metallic sheen. Visits flowers for nectar; an important pollinator. Nests in the ground.",
       "habitat_hint": "Flowering grasslands, farmland, forest edges, park flower beds, and riverbanks.",
       "finding_tips": "From April to October look around flowers for small bees with coppery metallic sheen. An important pollinator to observe."
-    }
+    },
+    "common_name_en": "Coppery Sweat Bee"
   },
   "Plecoglossus altivelis": {
     "sources": [
@@ -30159,7 +30512,8 @@
       "summary": "日本蝎蛉。日本固有的蝎蛉，具长口器，雄性腹端上翘如『蝎尾』独特。在林床与林缘取食其他昆虫与植物。",
       "habitat_hint": "杂木林林床、林缘、神社林、河岸林、住宅区庭院。",
       "finding_tips": "五至九月在杂木林林床与林缘寻找具长口器与独特体形的蝎蛉。雄性腹端蝎尾状结构是关键识别。"
-    }
+    },
+    "common_name_en": "Japanese Scorpionfly"
   },
   "Larvivora akahige": {
     "sources": [
@@ -30244,7 +30598,8 @@
       "summary": "山春蜓。日本固有的中型春蜓，栖于清流与山地小溪。黑底配黄色条纹，多见于河流中上游。",
       "habitat_hint": "山地清流、河流上游、缓流河流、流动湿地、河岸林缘。",
       "finding_tips": "五至八月在山地清流与河流上游寻找黑底配黄色条纹的中型春蜓。"
-    }
+    },
+    "common_name_en": "Mountain Clubtail"
   },
   "Poecile montanus": {
     "sources": [
@@ -30287,7 +30642,8 @@
       "summary": "长足金龟。中型金龟，腿长，体淡褐至灰褐色。常见于花与叶上，日间活动。",
       "habitat_hint": "杂木林、林缘、农田、果园、住宅区庭院、河滩。",
       "finding_tips": "五至八月在花与叶上寻找腿长、淡褐至灰褐色的中型金龟。日间活动是识别线索。"
-    }
+    },
+    "common_name_en": "Long-legged Chafer"
   },
   "Rhaphuma diminuta": {
     "sources": [
@@ -30308,7 +30664,8 @@
       "summary": "黑虎天牛。小型天牛，黑底配细白色条纹（虎纹）美丽。幼虫蛀阔叶枯木，成虫访花与树液。",
       "habitat_hint": "杂木林出树液的树、枯木、林缘花丛、神社林、河岸林。",
       "finding_tips": "五至八月在杂木林树液与花周边寻找黑底配细白条纹的小型天牛。"
-    }
+    },
+    "common_name_en": "Small Black Tiger Longhorn"
   },
   "Ligia exotica": {
     "sources": [
@@ -30350,7 +30707,8 @@
       "summary": "辛夷（日本辛夷）。日本固有的木兰科落叶乔木，早春先叶开放纯白色大花。花蕾形如握拳是日文俗名『拳』由来。",
       "habitat_hint": "杂木林、神社林、河岸林、公园栽植、行道树、寺社境内。",
       "finding_tips": "花期三至四月在杂木林与公园寻找无叶枝上开放纯白色大花的落叶乔木。花蕾如握拳是日文俗名由来。"
-    }
+    },
+    "common_name_en": "Kobushi Magnolia"
   },
   "Sisymbrium orientale": {
     "sources": [
@@ -30413,7 +30771,8 @@
       "summary": "头状秃马勃（脑菌）。大型马勃科，独特皱褶球形似人脑是日文俗名『脑菌』由来。在杂木林地面发生，成熟时如烟雾般释放孢子。",
       "habitat_hint": "杂木林林床、神社林、河岸林、住宅区庭院、草坪。",
       "finding_tips": "夏至秋在杂木林林床寻找具人脑状皱褶球形的菇。幼时可食但有类似毒菌，需仔细鉴定。"
-    }
+    },
+    "common_name_en": "Skull-shaped Puffball"
   },
   "Atrichum undulatum": {
     "sources": [
@@ -30497,7 +30856,8 @@
       "summary": "银线草。日本固有的金粟兰科多年草，生于明亮杂木林林床。早春从 4 枚对生 2 对叶中抽出 1 条白色穗状花。日文俗名取自历史人物静御前。",
       "habitat_hint": "明亮杂木林林床、林缘、神社林、半阴斜坡、河岸林。",
       "finding_tips": "四至五月在明亮杂木林林床寻找具 4 叶（2 对生）、抽出 1 条白色穗状花的多年草。"
-    }
+    },
+    "common_name_en": "Japanese Chloranthus"
   },
   "Ludwigia epilobioides": {
     "sources": [
@@ -30581,7 +30941,8 @@
       "summary": "矮小腐木藓。附生于树干与岩石的小型藓类。形成淡绿色小型垫状群落，在树皮上不显眼。",
       "habitat_hint": "树干、岩石、神社林老树、河岸林、潮湿处。",
       "finding_tips": "全年在树干与岩石寻找淡绿色小型垫状苔藓。"
-    }
+    },
+    "common_name_en": "Humble Glyphomitrium Moss"
   },
   "Sandea japonica": {
     "sources": [
@@ -30665,7 +31026,8 @@
       "summary": "薜荔（爬墙虎榕）。桑科常绿蔓生灌木，攀附树干、墙壁与岩石。叶革质椭圆形，果实球形如无花果，熟时淡红至红紫色。",
       "habitat_hint": "杂木林树干、墙壁、石墙、神社林、海岸近郊林。",
       "finding_tips": "全年寻找具革质椭圆叶、球形无花果状果、攀附树干与墙壁的常绿蔓生灌木。"
-    }
+    },
+    "common_name_en": "Climbing Fig"
   },
   "Aristolochia debilis": {
     "sources": [
@@ -30707,7 +31069,8 @@
       "summary": "南国蛇莓委陵菜。蔷薇科匍匐小型多年草，生于明亮草地、林缘与河滩。黄色五瓣小花，靠匍匐茎扩散。",
       "habitat_hint": "明亮草地、林缘、河滩、堤岸、草坪。",
       "finding_tips": "四至七月在明亮草地与草坪寻找具长匍匐茎、黄色五瓣花的小型多年草。"
-    }
+    },
+    "common_name_en": "Southern Snake Cinquefoil"
   },
   "Phleum pratense": {
     "sources": [
@@ -30812,7 +31175,8 @@
       "summary": "大岛樱。原产伊豆诸岛与房总半岛的樱花，白至淡红大花与新叶同时开。叶无毛而柔软具香气，为日本樱饼包叶之用。亦为染井吉野之亲本。",
       "habitat_hint": "海岸近郊林地、公园、行道树、神社境内、栽植地。自然分布于伊豆诸岛与房总南部。",
       "finding_tips": "三月底至四月初，寻找大白至淡红花与嫩绿新叶同时开放之樱。叶无毛且具浓香，为樱饼香气来源。"
-    }
+    },
+    "common_name_en": "Oshima Cherry"
   },
   "Nylanderia flavipes": {
     "sources": [
@@ -30833,7 +31197,8 @@
       "summary": "黄足捷蚁。日本各地市区、公园、林下普见的小型蚁。体淡饴色为日文俗名由来。于落叶下、朽木中筑小型蚁巢，食树汁与昆虫尸体。",
       "habitat_hint": "公园、神社林、杂木林林下、住宅庭院、行道树基部。落叶下与朽木中筑巢。",
       "finding_tips": "暖季于公园林下翻落叶可见淡饴色小蚁快速移动。亦聚于树桩与倒木之渗汁处。"
-    }
+    },
+    "common_name_en": "Yellow-footed Crazy Ant"
   },
   "Elodea densa": {
     "sources": [
@@ -30875,7 +31240,8 @@
       "summary": "鹅毛竹（オカメザサ）。日本原产矮生竹类，株矮叶宽，广泛植于庭园与公园作地被。日文称『ササ』但分类属苦竹亚科鹅毛竹属，地下茎扩散迅速。",
       "habitat_hint": "庭园、神社境内、公园栽植、住宅围篱、杂木林下。耐半阴。",
       "finding_tips": "全年可观察。于公园栽植与庭园寻找高三十至百厘米、叶宽节短之矮生竹。"
-    }
+    },
+    "common_name_en": "Okame Bamboo"
   },
   "Oenothera stricta": {
     "sources": [
@@ -30980,7 +31346,8 @@
       "summary": "染井吉野樱。江户末期于染井村（今东京都丰岛区）由江户彼岸樱与大岛樱杂交育成。日本全国广植，为樱前线与赏樱主角。所有个体皆嫁接克隆。",
       "habitat_hint": "公园、行道树、河滩、学校、神社、城迹等全国栽植地。野外不存在。",
       "finding_tips": "三月底至四月初，寻找叶未出而淡红至白花齐放之大型樱。因皆为克隆，同区域内同时开放为其特征。"
-    }
+    },
+    "common_name_en": "Yoshino Cherry"
   },
   "Cicindela chinensis japonica": {
     "sources": [
@@ -31001,7 +31368,8 @@
       "summary": "中国虎甲日本亚种（ハンミョウ）。日本各地林道与砂地可见之美丽甲虫。绿、红、蓝金属光泽鲜艳，俗称『指路虫』因常飞于行人前数米再停，反复引领。肉食性疾捕他虫。",
       "habitat_hint": "山道、林道、砂地、河滩、海岸、农道等裸地。喜阳光充足干燥地面。",
       "finding_tips": "五至九月，于山道与林道寻找于行人前飞数米复停之小型金属光泽甲虫。日光下绿红蓝闪烁明显。"
-    }
+    },
+    "common_name_en": "Japanese Tiger Beetle"
   },
   "Mahonia japonica": {
     "sources": [
@@ -31254,7 +31622,11 @@
       "summary": "宽腹水黾（ヒメアメンボ）。日本各地池塘、水道、水洼普见之小型黾蝽。体长十至十三毫米，较常见水黾小。于水面滑行捕食落水昆虫。",
       "habitat_hint": "公园池塘、稻田、灌溉水道、水洼、湿地水面。喜静水或缓流。",
       "finding_tips": "四至十月，于池塘水面寻找长足张开滑行之小型昆虫。足端在水面所造凹陷易于发现。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "宽腹水黾"
+    },
+    "common_name_en": "Small Water Strider"
   },
   "Pseudogobio esocinus": {
     "sources": [
@@ -31275,7 +31647,8 @@
       "summary": "圆口铜鱼（カマツカ）。日本各地中下游砂砾底河流所栖之鲤科淡水鱼。体细长，口小具须，以『沙筛』动作铲沙滤食为特征。亦有潜砂藏身之习。",
       "habitat_hint": "中下游砂砾底河流、灌溉水道、湖底砂底。喜清至略污流水。",
       "finding_tips": "全年于河流砂砾底窥视寻找细长、口小具须之淡水鱼。或潜砂仅露眼，惊扰则扬沙逃去。"
-    }
+    },
+    "common_name_en": "Pike Gudgeon"
   },
   "Apriona rugicollis": {
     "sources": [
@@ -31296,7 +31669,8 @@
       "summary": "桑天牛（クワカミキリ）。日本各地普见之大型天牛，体长三十五至四十五毫米。灰褐朴素，前胸背具横皱为辨识要点。于桑、无花果、柑橘、苹果干上产卵，幼虫蛀干为果园害虫。",
       "habitat_hint": "有桑、无花果、柑橘、苹果之果园、庭木、行道树。寄主木所在杂木林。",
       "finding_tips": "六至九月，仔细观察桑与无花果树干。寻找灰褐前胸背具横皱之大型天牛。树干上之纵向产卵痕与排粪孔提示本种存在。"
-    }
+    },
+    "common_name_en": "Mulberry Longicorn"
   },
   "Phintelloides versicolor": {
     "sources": [
@@ -31317,6 +31691,9 @@
       "summary": "白斑跳蛛（メスジロハエトリ）。日本各地树木、建筑、草地普见之跳蛛科。雄头胸具金属光黑色、腹具白 V 字；雌通体淡色，日文俗名意为『雌白』。不结网，行走捕猎。",
       "habitat_hint": "公园树木、建筑墙面、石垣、草地、住宅窗边。喜阳光充足处。",
       "finding_tips": "四至十月，于树干、叶面、墙面寻找跳跃移动之小型蜘蛛。雌淡色，雄黑底白 V。视力佳，靠近时转身相视。"
+    },
+    "aliases": {
+      "zh-Hans": "白斑跳蛛"
     }
   },
   "Xanthium occidentale": {
@@ -31422,6 +31799,9 @@
       "summary": "墙地大麦（鼠大麦）。地中海原产禾本科一年草，归化世界。日本路边、空地、河滩普见。穗似小麦但具长芒为特征。芒粘衣，孩童喜玩之。",
       "habitat_hint": "路边、空地、河滩、铁道边、住宅缝隙。喜干燥向阳裸地。",
       "finding_tips": "四至六月，于路边与空地寻找高二十至五十厘米、穗似小麦具长芒之禾本科。将穗置地，芒因湿度变化而『行走』可观察。"
+    },
+    "aliases": {
+      "zh-Hans": "墙地大麦"
     }
   },
   "Crocosmia crocosmiiflora": {
@@ -31443,6 +31823,9 @@
       "summary": "雄黄兰（モントブレチア）。南非原产园艺种交配产生之鸢尾科多年草，归化日本各地。夏季开鲜朱红漏斗状花排成单侧穗。球茎扩散迅猛，列为日本注意外来生物。",
       "habitat_hint": "庭园、空地、路边、河滩、废屋遗址。喜阳光充足至半阴肥沃土。",
       "finding_tips": "七至八月，于住宅区与路边寻找剑形叶、单侧排列鲜朱红漏斗状花之植物。一旦栽种球茎繁殖难除，于自然度高之地成问题。"
+    },
+    "aliases": {
+      "zh-Hans": "雄黄兰"
     }
   },
   "Beckmannia syzigachne": {
@@ -31485,6 +31868,9 @@
       "summary": "圆锥山蚂蝗（アレチヌスビトハギ）。北美原产豆科多年草，1940 年代以降归化日本全国，著名『粘衣果』。秋季开小型淡紫红蝶形花，具毛之节荚（3-5 节）强力粘附衣物兽毛。",
       "habitat_hint": "空地、路边、河滩、农田边缘、林缘。喜阳光充足干燥地。",
       "finding_tips": "八至十月，于路边与河滩寻找密生小型淡紫红蝶形花之植物。秋季出行后裤管粘满即为本种可能。较本土山蚂蝗节数更多（3-5 节）。"
+    },
+    "aliases": {
+      "zh-Hans": "圆锥山蚂蝗"
     }
   },
   "Cervus nippon": {
@@ -31527,7 +31913,8 @@
       "summary": "日本乌头。本州中部以北山地自生之毛茛科多年草。秋季开蓝紫盔形花。全株含剧毒乌头碱，列日本三大有毒植物之一。日文俗名意为『鸟兜』，得自花形似头盔。",
       "habitat_hint": "山地落叶阔叶林林床、林缘、湿润草地。多见于海拔 500 米以上凉爽处。",
       "finding_tips": "八至十月，于山地林床寻找蓝紫盔形花穗状之多年草。叶掌状深裂，常与银莲花混生致误食事故。绝勿触摸采摘。"
-    }
+    },
+    "common_name_en": "Japanese Monkshood"
   },
   "Apatura ilia": {
     "sources": [
@@ -31632,7 +32019,11 @@
       "summary": "富士鳞毛蕨（フジオシダ）。本州关东以西至九州暖温带林分布之鳞毛蕨科常绿蕨。模式地于富士山附近为日文俗名由来。叶 2 回羽状复叶，略厚有光泽，常受梅花鹿啃食。",
       "habitat_hint": "暖温带常绿林与杉林林床、谷地林、神社林。喜湿润林床。",
       "finding_tips": "全年于林床寻找高四十至八十厘米、有光泽厚 2 回羽状叶之蕨。叶轴基部密生淡褐鳞片，叶背孢子囊群圆形排列。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "富士鳞毛蕨"
+    },
+    "common_name_en": "Fuji Wood Fern"
   },
   "Pleioblastus simonii": {
     "sources": [
@@ -31695,6 +32086,9 @@
       "summary": "构莓（カジイチゴ）。本州关东以西至九州太平洋沿岸近海岸自生之蔷薇科落叶灌木。几无刺为『无刺木莓』，常用作庭木。四至五月开大白花，五至六月果熟黄橙色。",
       "habitat_hint": "海岸近郊林缘、神社林、庭园、住宅围篱下。耐盐风干旱。",
       "finding_tips": "四至五月，于近海岸寻找高一至二米、开大白花之灌木。叶 3-5 深裂之独特形、几无刺，可与他木莓相辨。"
+    },
+    "aliases": {
+      "zh-Hans": "构莓"
     }
   },
   "Phelotrupes auratus": {
@@ -31716,7 +32110,8 @@
       "summary": "彩色金龟（オオセンチコガネ）。日本各地山地与里山所栖之粪金龟科中型甲虫。体长 16-22 毫米，因地域不同而呈金属光泽之绿、蓝、紫、红等色。以哺乳动物粪为主食，于土壤生态系扮演重要角色。",
       "habitat_hint": "山地至里山落叶阔叶林、神社林、杂木林、林道。鹿、野猪等动物粪便所在处。",
       "finding_tips": "五至十月，于山道与林床动物粪便及倒木周边寻找金属光泽中型甲虫。亦可见其将粪滚成球埋于地下。"
-    }
+    },
+    "common_name_en": "Earth-boring Dung Beetle"
   },
   "Asarum nipponicum": {
     "sources": [
@@ -31737,7 +32132,11 @@
       "summary": "关东杜衡（カンアオイ）。本州关东至近畿暖温带林林床所生马兜铃科常绿多年草。冬至早春于近地面开茶褐色壶形花，极易错过。为岐阜蝶（Luehdorfia japonica）寄主植物而闻名。",
       "habitat_hint": "暖温带落叶阔叶林与杉桧林林床、神社林、谷地林。喜湿润腐叶土。",
       "finding_tips": "全年于林床寻找叶有光泽暗绿心形、贴地而生之常绿多年草。冬至早春拨开叶丛可见茶褐色壶形花贴地而开。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "关东杜衡"
+    },
+    "common_name_en": "Kantō Wild Ginger"
   },
   "Lema decempunctata": {
     "sources": [
@@ -31758,7 +32157,8 @@
       "summary": "十星瓢长跗萤叶甲。本州至九州普见之小型叶甲科。体长 5-6 毫米，橙黄色体具十枚黑斑。以食宁夏枸杞叶闻名，家庭菜园之枸杞上常见。",
       "habitat_hint": "凡有枸杞处——河滩、农田边缘、家庭菜园、空地、神社林缘。",
       "finding_tips": "五至十月，于枸杞（茄科红果灌木）寻找叶面取食之橙黄具十黑斑小甲虫。叶被啃痕亦为线索。"
-    }
+    },
+    "common_name_en": "Ten-spotted Leaf Beetle"
   },
   "Catocala actaea": {
     "sources": [
@@ -31779,7 +32179,11 @@
       "summary": "白下翅蛾（コシロシタバ）。日本各地杂木林与神社林分布之夜蛾科中型蛾。前翅灰褐拟树皮不显，惊扰时展现后翅之鲜艳黑白纹『闪色』。常聚于栎树渗汁。",
       "habitat_hint": "杂木林、神社林、河岸林。栎树渗汁处。",
       "finding_tips": "七至九月，夜间以手电照栎树渗汁可见大型蛾吸蜜。日间停于树皮拟态，难以发觉。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "白下翅蛾"
+    },
+    "common_name_en": "White Underwing"
   },
   "Nemophora albiantennella": {
     "sources": [
@@ -31800,7 +32204,11 @@
       "summary": "白须长角蛾（クロハネシロヒゲナガ）。本州至九州草地与林缘所栖之长角蛾科小型蛾。日文俗名所示，雄具体长 3-4 倍之白长触角，于阳光下群舞，极具观赏性。",
       "habitat_hint": "草地、林缘、河滩、农田边缘。春日明亮开阔草地。",
       "finding_tips": "四至六月晴日，于明亮草地寻找空中飘飞之黑色小蛾。雄异常长之白触角于日光下闪烁。多雄群飞为观察良机。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "白须长角蛾"
+    },
+    "common_name_en": "Long-horn Fairy Moth"
   },
   "Megymenum gracilicorne": {
     "sources": [
@@ -31821,7 +32229,8 @@
       "summary": "锯角缘蝽（ノコギリカメムシ）。本州至九州普见之中型蝽。体长 12-18 毫米，灰褐色，前胸背侧缘呈锯齿状为日文俗名由来。食葫芦科（尤其栝楼属）。",
       "habitat_hint": "杂木林缘、河滩、农田边缘、住宅围篱——栝楼蔓所及处。",
       "finding_tips": "六至十月，于栝楼藤蔓与叶寻找前胸两侧呈锯齿状之灰褐中型蝽。被扰则发蝽科特有臭气。"
-    }
+    },
+    "common_name_en": "Sawtooth Stink Bug"
   },
   "Eleocharis acicularis": {
     "sources": [
@@ -31842,6 +32251,9 @@
       "summary": "牛毛毡（マツバイ）。日本各地水田、湿地、浅水边普见之莎草科小型多年草。针状无叶之细茎密生成草坪状群落。水族箱中亦用作『水草坪』。",
       "habitat_hint": "水田、休耕田、池塘浅滩、湿地、河川缓流。常水浅处。",
       "finding_tips": "五至十月，于水田田埂与浅水边寻找高三至十厘米、针状细茎密生如『草坪』之群落。花穗极小生于茎端。"
+    },
+    "aliases": {
+      "zh-Hans": "牛毛毡"
     }
   },
   "Benthamidia florida": {
@@ -31863,7 +32275,11 @@
       "summary": "大花四照花（ハナミズキ）。北美原产山茱萸科落叶小乔木，1915 年作为日本赠华盛顿樱花之回礼引入。日本全国广植为行道树、公园木、庭木。四至五月开 4 枚白至淡红花瓣状苞片。秋季红叶与红果亦美。",
       "habitat_hint": "行道树、公园、学校、住宅庭木、商业设施栽植。喜阳光充足处。",
       "finding_tips": "四至五月，于叶展前寻找开 4 枚白至淡红花瓣状苞片之小乔木。真正花为中央黄绿小簇。秋季红果与红紫红叶亦显眼。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "大花四照花"
+    },
+    "common_name_en": "Flowering Dogwood"
   },
   "Prunus persica": {
     "sources": [
@@ -31947,7 +32363,8 @@
       "summary": "巨齿蛉（ヘビトンボ）。日本各地清溪所栖之齿蛉科大型昆虫。成虫翅展 80-100 毫米，烟灰翅具黑斑。幼虫（孙太郎虫）水栖于石下，为清流指标生物。古时焙烤用作小儿疳积之民间药。",
       "habitat_hint": "山地清溪、清洁河川中游。幼虫藏于河床石下。",
       "finding_tips": "六至八月夏夜，于山涧灯下寻找大型灰褐烟翅昆虫。名虽似蜻蜓实为完全不同之广翅目。翻石可见水中幼虫。"
-    }
+    },
+    "common_name_en": "Eastern Dobsonfly"
   },
   "Erynnis montanus": {
     "sources": [
@@ -31968,7 +32385,8 @@
       "summary": "深山弄蝶。本州至九州杂木林所栖之弄蝶科早春蝶。一年一代仅春出现。茶褐翅具明色斑，雌前翅淡色带显著。常见于栎、柞新芽周边。",
       "habitat_hint": "杂木林、神社林、山地落叶阔叶林林缘与林床。早春明亮林。",
       "finding_tips": "三至五月春季，于杂木林之林缘与林道寻找飞行迅速之茶色小型蝶。仅春出现，他季不见。常于栎、柞新芽与堇菜等花处吸蜜。"
-    }
+    },
+    "common_name_en": "Mountain Dusky Wing"
   },
   "Mnais pruinosa": {
     "sources": [
@@ -31989,7 +32407,11 @@
       "summary": "朝比奈川蜻（アサヒナカワトンボ）。日本各地清溪所栖之色蟌科。雄翅有橙色与透明两型。腹部被青白粉显鲜艳水蓝。日本特有种，地域变异大。",
       "habitat_hint": "山地至里山清溪、涌泉小溪、瀑布潭、缓流溪流。",
       "finding_tips": "五至七月，于清溪边草与枝上寻找细长蜻蜓。腹部青白粉蓝，雄翅橙或透明。飞姿优雅缓缓。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "朝比奈川蜻"
+    },
+    "common_name_en": "Asahina Damselfly"
   },
   "Pelodiscus maackii": {
     "sources": [
@@ -32096,7 +32518,8 @@
       "summary": "燕灰蝶（トラフシジミ）。日本各地山地至低山杂木林所栖之灰蝶科。翅腹具如虎纹之鲜艳橙黑斑为日文俗名由来。后翅具小尾突。一年两代，春夏型翅面色不同。",
       "habitat_hint": "杂木林、神社林、山地林缘、河岸林。幼虫食豆科与蔷薇科之花与芽。",
       "finding_tips": "四至九月，于林缘寻找翅腹具鲜艳虎纹之灰蝶。飞行迅速，访花停立时翅腹可见。后翅小尾突与虎纹为辨识要点。"
-    }
+    },
+    "common_name_en": "Pale Hairstreak"
   },
   "Amorpha fruticosa": {
     "sources": [
@@ -32180,7 +32603,8 @@
       "summary": "中华十字长蝽（ヒメジュウジナガカメムシ）。本州至九州普见之小型长蝽。体长 7-9 毫米，黑底具鲜艳橙红十字纹。食萝藦科（萝藦、奶浆藤）种子。警戒色御敌。",
       "habitat_hint": "凡有萝藦类藤蔓处——河滩、农田边缘、空地、围篱、杂木林缘。",
       "finding_tips": "五至十月，于萝藦藤蔓与叶上寻找黑底鲜艳橙红十字纹之小型蝽。常成群聚集，警戒色易辨。"
-    }
+    },
+    "common_name_en": "Chinese Milkweed Bug"
   },
   "Phasianus colchicus": {
     "sources": [
@@ -32349,7 +32773,8 @@
       "summary": "光叶米饭花（ネジキ）。本州至九州赤松林、栎林与山脊自生之杜鹃花科落叶小乔木。树皮纵深裂呈螺旋扭曲为日文俗名『捻木』由来。六至七月枝一侧排列白色壶形花。叶枝有毒，家畜与人误食危险。",
       "habitat_hint": "赤松林、栎林、山脊、山地次生林、贫瘠地明亮林。",
       "finding_tips": "六至七月，于明亮杂木林寻找枝一侧排列白色壶形花之小乔木。树皮扭曲纵裂为辨识要点。秋季红叶亦美。"
-    }
+    },
+    "common_name_en": "Staggerbush"
   },
   "Leibnitzia anandria": {
     "sources": [
@@ -32370,7 +32795,8 @@
       "summary": "大丁草（センボンヤリ）。本州至九州山地阳光充足草地与林缘所生菊科多年草。具春秋二型花，独特罕见：春开具白舌状花之头花，秋则闭锁花呈枪状直立穗（日文俗名『千枪』由来）。",
       "habitat_hint": "山地阳光草地、林缘、土堤、岩砾地。喜干燥贫瘠地。",
       "finding_tips": "四至五月，于阳光草地寻找基生莲座叶抽细花茎、顶生白色小头花之多年草。九至十月可见同株生闭锁花之细长枪状花茎。"
-    }
+    },
+    "common_name_en": "Thousand-spear Plant"
   },
   "Neocerambyx raddei": {
     "sources": [
@@ -32391,7 +32817,8 @@
       "summary": "深山天牛（ミヤマカミキリ）。日本各地杂木林与山地分布之大型天牛。体长 34-57 毫米，全身被暗灰褐色绒毛。夜行性，常聚于栎树渗汁。夏季灯诱主要种。雄触角可达体长两倍。",
       "habitat_hint": "杂木林、神社林、山地栎林。栎树渗汁周边。",
       "finding_tips": "七至九月夏夜，于栎树渗汁与灯下寻找大型天牛。暗灰褐绒毛与异常长触角（雄）为辨识要点。"
-    }
+    },
+    "common_name_en": "Deep-mountain Longicorn"
   },
   "Xylotrechus rufilius": {
     "sources": [
@@ -32412,7 +32839,8 @@
       "summary": "赤胸虎天牛（クビアカトラカミキリ）。本州至九州普见之小型虎天牛。体长 10-18 毫米，前胸鲜艳赤红，鞘翅黑底具黄色波纹。常聚于阔叶树枯木与薪柴产卵。",
       "habitat_hint": "杂木林、神社林、山地伐采迹地、薪柴堆、住家薪柴。阔叶树枯木周边。",
       "finding_tips": "五至八月，于伐采迹地与薪柴堆寻找小型虎天牛。前胸赤红、鞘翅黄波纹、体长 10-18 毫米为辨识要点。"
-    }
+    },
+    "common_name_en": "Red-collared Tiger Longicorn"
   },
   "Ophraella communa": {
     "sources": [
@@ -32454,7 +32882,8 @@
       "summary": "山蛞蝓（ヤマナメクジ）。本州至九州山地与林床所栖之日本最大型蛞蝓。体长 10-16 厘米巨大，背具黑色纵纹与斑。于湿润林床与倒木周边活动，食真菌与落叶。",
       "habitat_hint": "山地落叶阔叶林林床、神社林、谷地林、倒木下、湿润岩隙。",
       "finding_tips": "雨后或夜间，于山地林床与倒木下寻找体长超 10 厘米之巨型蛞蝓。背黑纵纹与斑、巨大体形为辨识要点。"
-    }
+    },
+    "common_name_en": "Mountain Slug"
   },
   "Carex macroglossa": {
     "sources": [
@@ -32475,7 +32904,11 @@
       "summary": "大喙苔草（コジュズスゲ）。本州至九州山地至里山林床与草地所生莎草科小型多年草。叶细软成丛。日文俗名意为『小数珠菅』得自花穗形如数珠。亦作山野草观赏。",
       "habitat_hint": "山地至里山落叶阔叶林林床、林缘、神社林、草地。喜半阴腐叶土。",
       "finding_tips": "四至六月，于林床寻找叶细软成丛、短花茎顶生数珠状小穗之小型菅。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "大喙苔草"
+    },
+    "common_name_en": "Small Rosary Sedge"
   },
   "Ainsliaea apiculata": {
     "sources": [
@@ -32517,7 +32950,8 @@
       "summary": "云斑车蝗（クルマバッタ）。本州至九州草地与河滩普见之大型蝗科。体长 40-65 毫米，绿型与褐型变异。飞行时后翅显鲜艳黄黑车轮纹为日文俗名『车蝗』由来。秋鸣。",
       "habitat_hint": "草地、河滩、农田边缘、空地、高尔夫球场、铁道边。喜阳光高草草原。",
       "finding_tips": "八至十一月，于草地惊起大型蝗。飞翔时后翅鲜艳黄黑车轮纹为辨识要点。与近似种以前胸背隆线有无相辨。"
-    }
+    },
+    "common_name_en": "Marbled Mottled Grasshopper"
   },
   "Channa argus": {
     "sources": [
@@ -32559,7 +32993,8 @@
       "summary": "长尾凤蝶（オナガアゲハ）。本州至九州山地与里山分布之凤蝶科。后翅尾突较他凤蝶显著长大。翅黑底散布青绿鳞片美丽。幼虫食臭常山等山地芸香科。",
       "habitat_hint": "山地至里山落叶阔叶林、神社林、谷地林、林道边。臭常山生长处。",
       "finding_tips": "五至九月，于山地溪畔与林道寻找黑底散布青绿鳞片之大型凤蝶。后翅极长尾突可与他凤蝶相辨。低空缓飞。"
-    }
+    },
+    "common_name_en": "Long-tail Spangle"
   },
   "Pluvialis squatarola": {
     "sources": [
@@ -32602,7 +33037,8 @@
       "summary": "日本暗螽（キリギリス）。本州、四国、九州草地所栖之螽斯科大型直翅目。体长 30-45 毫米，绿型与褐型并存。雄鸣声『chon-giissu』为日本夏之风物诗，亦常见于古典文学。杂食，亦捕食他虫。",
       "habitat_hint": "草地、河滩、农田边缘、芒草原、空地。喜高草草原。",
       "finding_tips": "七至九月，于草地寻找大型绿色或褐色直翅目。雄于白昼大鸣易循声寻。逃跑迅速，需轻轻靠近。"
-    }
+    },
+    "common_name_en": "Japanese Bush Cricket"
   },
   "Mytilus galloprovincialis": {
     "sources": [
@@ -32644,7 +33080,8 @@
       "summary": "疣荔枝螺（イボニシ）。日本各地岩礁海岸普见之小型肉食性骨螺科。壳长 2-3 厘米，灰白至茶褐壳面具独特疣状突起。以喙穿孔捕食藤壶与牡蛎，为潮间带重要捕食者。",
       "habitat_hint": "岩礁海岸、矶岸、港湾岸壁、潮池、护岸。潮间带中下部。",
       "finding_tips": "全年于岩礁海岸岩面与藤壶、牡蛎周边寻找壳具疣突之小型螺。退潮易观察。可见其于猎物壳上钻孔捕食。"
-    }
+    },
+    "common_name_en": "Mulberry Whelk"
   },
   "Anomala cuprea": {
     "sources": [
@@ -32665,7 +33102,8 @@
       "summary": "铜绿丽金龟（ドウガネブイブイ）。本州至九州普见之中型金龟科。体长 15-25 毫米，体具铜色金属光泽。幼虫食害土中根，成虫食害阔叶树、果树、蔬菜叶为代表性农业害虫。夏季灯诱常客。",
       "habitat_hint": "农田、果园、家庭菜园、公园、杂木林、住宅庭院。阔叶植物所在处。",
       "finding_tips": "六至九月夜间，于住宅灯下与自动贩卖机灯前寻找铜色光泽之中型金龟。日间循叶上食痕寻。常成群食果树叶为农家所恶。"
-    }
+    },
+    "common_name_en": "Cupreous Chafer"
   },
   "Helicoverpa armigera": {
     "sources": [
@@ -32707,7 +33145,8 @@
       "summary": "条颊吻虾虎鱼（シマヨシノボリ）。本州至九州河川中游普见之虾虎鱼科小型淡水鱼。体长 5-8 厘米。颊具条纹为日文俗名由来。两侧洄游，仔鱼海中度日后返河。含日本特有种之复合体。",
       "habitat_hint": "河川中下游砂砾底、浅滩、深潭、灌溉水道。喜清洁流水。",
       "finding_tips": "全年于河流砂砾底与石间寻找贴底游动之小型虾虎。颊纹明显，常以胸鳍停立石上为特征。"
-    }
+    },
+    "common_name_en": "Striped-cheek Goby"
   },
   "Plexippus paykulli": {
     "sources": [
@@ -32791,7 +33230,11 @@
       "summary": "细秆莎草（ヒナガヤツリ）。本州至九州湿润处普见之莎草科一年草。高 5-25 厘米小型，于水田、湿地、河滩裸地成群生。茎端生放射状花序，小穗淡褐至黄褐。",
       "habitat_hint": "水田田埂、湿地、河滩湿润裸地、灌溉水道边、休耕田。",
       "finding_tips": "七至十月，于水田田埂与湿润裸地寻找高 5-25 厘米之小型莎草。茎端放射状小穗丛为莎草属典型花序。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "细秆莎草"
+    },
+    "common_name_en": "Slender Cyperus"
   },
   "Euptelea polyandra": {
     "sources": [
@@ -32812,7 +33255,11 @@
       "summary": "领春木（フサザクラ）。日本特有种落叶小乔木，为领春木科（古老遗存科，1 属数种）日本唯一产种。本州至九州溪畔自生。三至四月叶未出时枝端开仅由红色雄蕊束构成之独特花（无花瓣）。",
       "habitat_hint": "山地溪畔、湿润溪谷、谷地林。喜湿润肥沃土。",
       "finding_tips": "三至四月，叶未出时寻找枝端开红色雄蕊束之小乔木。山地溪畔他树未发时极显眼。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "领春木"
+    },
+    "common_name_en": "Japanese Euptelea"
   },
   "Styrax obassia": {
     "sources": [
@@ -32875,7 +33322,8 @@
       "summary": "蚁狮成虫（ウスバカゲロウ）。日本各地分布之脉翅目蚁蛉科中型昆虫。前翅长 35-45 毫米，半透明翅具黑色网纹。形似蜻蜓但触角长、缓缓振翅。幼虫即著名『蚁狮』（アリジゴク），于砂地造漏斗陷阱捕蚁。",
       "habitat_hint": "成虫于杂木林缘、草地、神社林。幼虫于干燥砂地避雨处——神社檐下、桥底、岩遮处。",
       "finding_tips": "七至九月夏夜，于灯下寻找细长体具网纹翅之昆虫。日间于神社檐下与砂地寻找直径 2-5 厘米漏斗状砂坑，可见幼虫。"
-    }
+    },
+    "common_name_en": "Common Antlion"
   },
   "Polyrhachis lamellidens": {
     "sources": [
@@ -32896,7 +33344,8 @@
       "summary": "刺多刺蚁（トゲアリ）。本州至九州山地栎林所栖之蚁科中型蚁。体长 7-9 毫米，胸背具 4 长刺为日文俗名由来。具社会寄生之特异生态，常占据日本巨蚁、红胸巨蚁之巢。",
       "habitat_hint": "山地至里山栎林、神社林、河岸林。于树干与倒木中筑巢。",
       "finding_tips": "五至十月，于杂木林之栎树干与倒木周边寻找胸具 4 长刺之蚁。黑体红褐头、刺纹独特，易辨。"
-    }
+    },
+    "common_name_en": "Spiny Polyrhachis Ant"
   },
   "Xya japonica": {
     "sources": [
@@ -32917,7 +33366,8 @@
       "summary": "日本蚤蝼（ノミバッタ）。日本各地湿润草地与河滩所栖之蚤蝼科超小型蝗。体长 4-6 毫米为日本最小级。后肢异常发达，可如跳蚤跳跃体长 50 倍以上。常成群于湿地跳跃。",
       "habitat_hint": "湿润草地、河滩砂泥、水田田埂、池岸、湿地。常临水处。",
       "finding_tips": "五至十月，于湿地行走惊起体长 4-6 毫米之超小蝗。跳跃迅速远，难以追踪。蹲身细看可见。"
-    }
+    },
+    "common_name_en": "Japanese Pygmy Mole Cricket"
   },
   "Anisops ogasawarensis": {
     "sources": [
@@ -32938,7 +33388,11 @@
       "summary": "小仰蝽（コマツモムシ）。日本各地农塘、水田、池塘所栖之仰泳蝽科小型水生昆虫。体长 5-7 毫米，银色身体腹面朝上倒泳。长后肢如桨划水，捕食水生无脊椎动物。",
       "habitat_hint": "农塘、水田、湿地水塘、缓流水道、公园池塘。喜具植被静水。",
       "finding_tips": "五至十月，于池塘与水田水中寻找腹面朝上倒泳之小型银色昆虫。较松藻虫小，常成群。长后肢与迅速移动易辨。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "小仰蝽"
+    },
+    "common_name_en": "Small Backswimmer"
   },
   "Euricania facialis": {
     "sources": [
@@ -32959,7 +33413,8 @@
       "summary": "透翅广翅蜡蝉（スケバハゴロモ）。本州至九州普见之广翅蜡蝉科小型种。体长 10-12 毫米，翅透明而缘暗褐，姿态独特。弹跳力强，靠近即弹飞。于阔叶树枝吸汁。",
       "habitat_hint": "杂木林、神社林、河岸林、住宅庭木、果园边缘。停于阔叶枝。",
       "finding_tips": "七至十月，于杂木林枝端寻找翅透明黑缘之独特小型昆虫。靠近即弹飞，需紧盯位置。三角形半透明翅为辨识要点。"
-    }
+    },
+    "common_name_en": "Lacy-winged Planthopper"
   },
   "Chlorophorus muscosus": {
     "sources": [
@@ -32980,7 +33435,11 @@
       "summary": "二带绿虎天牛（フタオビミドリトラカミキリ）。本州至九州杂木林分布之小型虎天牛。体长 10-15 毫米，绿黄色绒毛覆体，鞘翅具 2 道黑带，美丽甲虫。于栗、栎枯木发生，成虫亦聚于花。",
       "habitat_hint": "杂木林、神社林、伐采迹地、栗林边缘。阔叶枯木与栗、绣球花周边。",
       "finding_tips": "六至八月，于杂木林伐倒木与栗林边缘寻找绿黄绒毛体与 2 道黑带之小型天牛。亦聚于绣球花与栗花。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "二带绿虎天牛"
+    },
+    "common_name_en": "Two-banded Green Tiger Longicorn"
   },
   "Aedia leucomelas": {
     "sources": [
@@ -33022,7 +33481,11 @@
       "summary": "粉缘野螟（アメリカピンクノメイガ）。北美原产螟蛾科小型蛾，近年传入日本并扩散全国。前翅长 6-9 毫米，翅鲜艳粉红具棕带，姿态显眼。幼虫食害唇形科（鼠尾草、薄荷等）。",
       "habitat_hint": "庭园、花坛、家庭菜园、公园、香草园、空地。鼠尾草、薄荷类所在处。",
       "finding_tips": "六至十月，于庭园花坛与公园鼠尾草周边寻找鲜艳粉红色小型蛾。白昼亦活动，于花周飞舞。色彩华丽极易发现。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "粉缘野螟"
+    },
+    "common_name_en": "Inornate Pyrausta"
   },
   "Lasiotrichius succinctus": {
     "sources": [
@@ -33043,7 +33506,8 @@
       "summary": "拟蜂花金龟（ヒメトラハナムグリ）。本州至九州山地至里山草地与林缘分布之花金龟科小型甲虫。体长 10-13 毫米，黑底黄斑，全身密被黄褐毛，外观拟蜂（贝氏拟态）。多访花。",
       "habitat_hint": "山地至里山草地、林缘、杂木林、农田边缘。喜花卉繁盛之明亮处。",
       "finding_tips": "五至八月，于山地草地之花（绣球花、栗、悬钩子等）寻找聚集之小型甲虫。黑底黄斑、密生毛之拟蜂姿可辨。飞行亦似蜂。"
-    }
+    },
+    "common_name_en": "Bee-mimic Flower Chafer"
   },
   "Spilosoma lubricipeda": {
     "sources": [
@@ -33064,6 +33528,9 @@
       "summary": "白雪灯蛾（キハラゴマダラヒトリ）。日本各地普见之灯蛾科中型蛾。前翅长 18-25 毫米，白翅散布黑点，腹鲜艳橙黄。幼虫为人熟知之黑色『熊毛虫』毛虫，杂食性。成虫具警戒色御敌。",
       "habitat_hint": "杂木林、公园、住宅庭院、草地、农田边缘。广泛分布。",
       "finding_tips": "五至九月夜间，于灯下寻找白底黑点、腹鲜艳橙黄之中型蛾。日间息于叶背。幼虫为黑色毛虫常见于庭院与公园。"
+    },
+    "aliases": {
+      "zh-Hans": "白雪灯蛾"
     }
   },
   "Anterhynchium flavomarginatum": {
@@ -33085,7 +33552,8 @@
       "summary": "黄缘蜾蠃（オオフタオビドロバチ）。本州至九州普见之蜾蠃科大型蜂。体长 20-28 毫米，黑底具 2 鲜艳黄腹带。独居蜂，于竹节与朽木孔内以泥造隔，捕蛾幼虫填巢产卵。",
       "habitat_hint": "杂木林、神社林、农田、住宅庭院、竹林缘。竹与朽木孔所在处。",
       "finding_tips": "五至九月，于住宅区与杂木林寻找运泥之大型蜂。黑底 2 鲜艳黄带。检查竹篱与枯竹孔之泥隔可见巢。"
-    }
+    },
+    "common_name_en": "Yellow-banded Potter Wasp"
   },
   "Piezodorus hybneri": {
     "sources": [
@@ -33127,7 +33595,8 @@
       "summary": "日本琉璃草（ヤマルリソウ）。本州至九州山地落叶阔叶林林床自生之紫草科多年草。四至五月开淡蓝紫小花。学名 Nihon japonicum 原属 Omphalodes，近年依分子系统独立为新属。",
       "habitat_hint": "山地落叶阔叶林林床、林缘、谷地林、神社林。喜半阴湿润腐叶土。",
       "finding_tips": "四至五月，于山地林床寻找开淡蓝紫小花、莲座状之多年草。叶匙形至倒卵形成莲座，花茎 10-20 厘米。"
-    }
+    },
+    "common_name_en": "Mountain Lapis Lazuli Plant"
   },
   "Amaranthus viridis": {
     "sources": [
@@ -33169,6 +33638,9 @@
       "summary": "光果龙葵（オオイヌホオズキ）。北美与南美原产茄科一年草，近年于日本归化。较本土龙葵复合体大型，果熟仍保持光泽为辨识要点。叶与未熟果有弱毒。普于田边、路边。",
       "habitat_hint": "农田、路边、空地、河滩、家庭菜园。喜阳光肥沃地。",
       "finding_tips": "七至十一月，于田边与路边寻找高三十至八十厘米、开白色 5 瓣花、直径 6-10 毫米黑球形果之茄科。较龙葵全体大型，熟果光泽黑为本种。"
+    },
+    "aliases": {
+      "zh-Hans": "光果龙葵"
     }
   },
   "Circus spilonotus": {
@@ -33317,7 +33789,8 @@
       "summary": "四带跳蛛（ヨダンハエトリ）。日本各地树干与叶上普见之跳蛛科。体长 5-7 毫米。腹具 4 道暗色横带（『四段』为日文俗名由来）。不结网，于叶与树干上行走视觉捕食。",
       "habitat_hint": "杂木林、神社林、公园树木、住宅庭院、河岸林。喜叶上与树干。",
       "finding_tips": "四至十月，于公园树木之叶与干上寻找快速移动之小型蜘蛛。腹具 4 道明显暗色横带为辨识要点。视力佳，靠近时转身相视。"
-    }
+    },
+    "common_name_en": "Four-banded Jumper"
   },
   "Tachypompilus analis": {
     "sources": [
@@ -33338,6 +33811,9 @@
       "summary": "红翅蛛蜂（ツマアカクモバチ／鳖甲蜂）。日本各地普见之蛛蜂科中型蜂。体长 15-25 毫米，黑底翅端橙红显眼。于地表行走捕食大型游猎蛛（如游猎蛛属），麻醉后拖入地下巢产卵。",
       "habitat_hint": "杂木林、神社林、公园、住宅庭院、农田边缘、河滩。多见于地面行走。",
       "finding_tips": "五至十月，于地面寻找翅颤抖快走之大型蜂。黑底翅端鲜艳橙红为辨识要点。若见拖蛛步行则极壮观。"
+    },
+    "aliases": {
+      "zh-Hans": "红翅蛛蜂"
     }
   },
   "Betasyrphus serarius": {
@@ -33359,7 +33835,8 @@
       "summary": "黄带食蚜蝇（クロヒラタアブ）。日本各地普见之食蚜蝇科小型扁食蚜蝇。体长 8-10 毫米，黑底具 4 道黄色细横带，姿态优美。善空中悬停。幼虫捕食蚜虫为园艺益虫。",
       "habitat_hint": "农田、家庭菜园、花坛、公园、杂木林缘。花卉繁茂处广见。",
       "finding_tips": "四至十一月，于花周寻找空中悬停之小型食蚜蝇。黑底 4 道黄色细横带美丽易辨。亦可见其于蚜群周边产卵。"
-    }
+    },
+    "common_name_en": "Black Banded Hoverfly"
   },
   "Heteraspis lewisii": {
     "sources": [
@@ -33401,7 +33878,8 @@
       "summary": "斑喙丽金龟（コイチャコガネ）。本州至九州普见之小型金龟科。体长 9-11 毫米，淡褐至茶褐色。日间藏于土中或植物根部，黄昏至夜活动食害阔叶树与园艺植物。蔷薇、葡萄、柿之害虫。",
       "habitat_hint": "农田、果园、家庭菜园、公园、杂木林缘、住宅庭院。阔叶植物所在处。",
       "finding_tips": "五至九月，黄昏至夜间于蔷薇、葡萄叶上寻找聚集之淡褐色小型金龟。日间藏匿难见。亦趋光。"
-    }
+    },
+    "common_name_en": "Small Brown Chafer"
   },
   "Yemma exilis": {
     "sources": [
@@ -33422,7 +33900,8 @@
       "summary": "丝蝽（イトカメムシ）。本州至九州杂木林与庭园普见之极小型蝽。体长 5-6 毫米，足与触角极细如丝而长，叶上拟枝。淡褐色不显。吸食葛等豆科叶汁。",
       "habitat_hint": "杂木林、神社林、住宅庭院、河滩、农田边缘。葛等豆科植物周边。",
       "finding_tips": "五至十月，于杂木林与庭院之葛叶上寻找具丝状长足与触角之极小蝽。行走时足动可见。静止则似枝难辨。"
-    }
+    },
+    "common_name_en": "Thread-legged Stilt Bug"
   },
   "Persicaria pubescens": {
     "sources": [
@@ -33632,7 +34111,8 @@
       "summary": "蔓败酱（ツルカノコソウ）。本州至九州山地溪谷与湿润林床所生忍冬科（旧败酱科）多年草。茎缠他植物匍匐展开。四至六月开众多白至淡桃色小花聚成花序。",
       "habitat_hint": "山地溪谷湿润林床、溪畔、神社林、谷地林湿地。喜湿润半阴。",
       "finding_tips": "四至六月，于山地溪畔寻找匍匐地面、开白至淡桃色小花聚成花序之多年草。叶羽状深裂，茎柔软匍地。"
-    }
+    },
+    "common_name_en": "Creeping Valerian"
   },
   "Arabis hirsuta": {
     "sources": [
@@ -33674,7 +34154,11 @@
       "summary": "条松墨天牛（ヒメヒゲナガカミキリ）。本州至九州杂木林普见之中型天牛。体长 12-22 毫米，灰褐至茶褐杂斑拟树皮。雄触角长于体。常聚于针叶与阔叶枯木产卵。",
       "habitat_hint": "杂木林、神社林、针叶林、伐采迹地、薪柴堆。针叶与阔叶枯木周边。",
       "finding_tips": "五至九月，于杂木林之倒木与伐倒木寻找灰褐杂斑之天牛。停于树皮拟态难辨，需细察。雄长触角为辨识要点。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "条松墨天牛"
+    },
+    "common_name_en": "Striped Pine Sawyer"
   },
   "Menida musiva": {
     "sources": [
@@ -33695,7 +34179,11 @@
       "summary": "中星菜蝽（ナカボシカメムシ）。本州至九州杂木林与农田普见之中型蝽。体长 8-10 毫米，暗褐至黑色体背中央具明显白斑（『中星』）为日文俗名由来。吸食豆科。",
       "habitat_hint": "杂木林、神社林、河岸林、农田、家庭菜园。葛、胡枝子等豆科植物周边。",
       "finding_tips": "五至十月，于杂木林与农田之葛、胡枝子叶蔓上寻找背中央具白斑之蝽。『中星』白斑为辨识要点。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "中星菜蝽"
+    },
+    "common_name_en": "Center-spot Stink Bug"
   },
   "Xylena fumosa": {
     "sources": [
@@ -33716,7 +34204,11 @@
       "summary": "灰木纹冬夜蛾（アヤモクメキリガ）。日本各地杂木林分布之夜蛾科中型蛾。前翅长 20-25 毫米，灰褐翅具复杂木纹，停于树皮拟态精湛。成虫秋冬活动，聚于树液与腐果。",
       "habitat_hint": "杂木林、神社林、河岸林、住宅庭院。阔叶树所在处。",
       "finding_tips": "十月至翌三月晚秋至早春，夜间于树液与灯下寻找灰褐中型蛾。翅复杂木纹于树皮上拟态隐形精妙。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "灰木纹冬夜蛾"
+    },
+    "common_name_en": "Pale Brindled Beauty"
   },
   "Carex nervata": {
     "sources": [
@@ -33800,7 +34292,11 @@
       "summary": "樱蚁（サクラアリ）。本州至九州市区、公园、林床普见之极小蚁科。体长 2-3 毫米为日本最小级蚁之一。淡褐至黄褐色，日文俗名得自如樱花瓣淡色。常入侵家屋。",
       "habitat_hint": "市区、公园、林床、住宅庭院、屋内、林缘。落叶下与土中筑巢。",
       "finding_tips": "暖季于公园与住宅区地表寻找快速行走之极小淡褐蚁。体长 2-3 毫米甚小，群行可观察。屋内于地面与水槽周边可见。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "樱蚁"
+    },
+    "common_name_en": "Cherry Ant"
   },
   "Lilium lancifolium": {
     "sources": [
@@ -33842,7 +34338,11 @@
       "summary": "大吴风草（ツワブキ）。本州至冲绳太平洋沿岸近海岸自生之菊科常绿多年草。叶厚有光泽圆至肾形，十一至十二月开鲜艳黄色头花。古为庭园爱物，叶柄作『佃煮蕗』食用。",
       "habitat_hint": "海岸近郊林缘、神社林、庭园、公园、住宅庭木下。喜半阴湿润处。",
       "finding_tips": "十一至十二月，于海岸近郊庭园与林缘寻找叶光泽厚圆至肾形之常绿莲座、顶生鲜艳黄色头花。叶冬亦存全年可观察。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "大吴风草"
+    },
+    "common_name_en": "Leopard Plant"
   },
   "Xenogryllus marmoratus": {
     "sources": [
@@ -33863,7 +34363,8 @@
       "summary": "松虫（マツムシ）。本州至九州草地与河滩所栖之蟋蟀科中型直翅目。秋之名虫，鸣声『chin-chiro-rin』清越，常见于古典文学。体长 20-25 毫米，淡褐色。秋之风物诗。",
       "habitat_hint": "草地、河滩、农田边缘、芒草原、空地。喜高草草原。",
       "finding_tips": "八至十月夜，于草地循『chin-chiro-rin』清亮鸣声寻之。淡褐色不显眼但声远闻。与铃虫并为日本秋鸣虫之代表。"
-    }
+    },
+    "common_name_en": "Pine Cricket"
   },
   "Pholcus phalangioides": {
     "sources": [
@@ -33905,7 +34406,8 @@
       "summary": "日本河蚬（ヤマトシジミ）。日本特有本土种，于河川下游汽水域（淡咸水交汇）所栖之蚬科双壳贝。壳长 2-3 厘米，黑褐至光泽黑色。古为味噌汁要食材，近年资源减少严重。",
       "habitat_hint": "河川下游汽水域、湖沼、泻湖、河口、泥砂底。需淡咸水交汇之微妙盐度。",
       "finding_tips": "全年于河口汽水域之泥砂底挖掘可得黑褐色双壳贝。壳近三角形、光泽黑色为辨识要点。与淡水蚬栖境不同。"
-    }
+    },
+    "common_name_en": "Brackish-water Corbicula"
   },
   "Garrulax perspicillatus": {
     "sources": [
@@ -33970,7 +34472,8 @@
       "summary": "黄背星花萤（セボシジョウカイ）。本州至九州杂木林与神社林分布之花萤科小型甲虫。体长 10-14 毫米，黑底背两侧具大型黄斑，为日文俗名『背星』由来。体软捕食他虫。春至初夏多见。",
       "habitat_hint": "杂木林、神社林、河岸林、农田边缘、草地。多样植物之叶与花周边。",
       "finding_tips": "五至七月，于杂木林缘与草地寻找黑底背两侧具大型黄斑之细长甲虫。体软于叶上快速移动。亦常访花。"
-    }
+    },
+    "common_name_en": "Yellow-spotted Soldier Beetle"
   },
   "Bassaniana decorata": {
     "sources": [
@@ -33991,7 +34494,8 @@
       "summary": "黄边蟹蛛（キハダカニグモ）。本州至九州杂木林之大树干与树皮上所栖之蟹蛛科。体长 6-8 毫米，茶褐至灰褐杂斑似树皮，拟态精妙。不结网，于树干埋伏捕食昆虫。",
       "habitat_hint": "杂木林、神社林、河岸林、行道树、大树所在处。喜粗糙树皮。",
       "finding_tips": "五至十月，于杂木林大树干与树皮凹凸处寻找拟树皮之茶褐杂斑蟹蛛。静止难辨，靠近时横走显形。"
-    }
+    },
+    "common_name_en": "Bark Crab Spider"
   },
   "Diplazium squamigerum": {
     "sources": [
@@ -34012,7 +34516,8 @@
       "summary": "清泷双盖蕨（キヨタキシダ）。本州至九州山地溪谷与湿润林床所生蹄盖蕨科夏绿蕨。叶 2-3 回羽状复叶柔软纤细、淡绿色。日文俗名得自京都『清泷』瀑布之优美姿。",
       "habitat_hint": "山地溪谷、溪畔湿润林床、神社林湿地、谷地林。喜常湿润腐叶土。",
       "finding_tips": "五至十月，于山地溪谷与溪畔湿润林床寻找高 40-80 厘米、叶柔软纤细 2-3 回羽状淡绿之蕨。姿优雅可与他蕨相辨。"
-    }
+    },
+    "common_name_en": "Kiyotaki Spleenwort"
   },
   "Asplenium anogrammoides": {
     "sources": [
@@ -34033,7 +34538,8 @@
       "summary": "细叶铁角蕨（コバノヒノキシダ）。本州至九州山地岩场与石垣所生铁角蕨科小型常绿蕨。叶 1 回羽状复叶柔软，长 5-15 厘米小型。于岩与石垣缝隙密生。耐旱，石组庭园边饰常用。",
       "habitat_hint": "山地岩场、石垣、神社石组、河岸岩、城迹石垣。喜半阴岩隙。",
       "finding_tips": "全年于石垣与岩缝寻找叶 1 回羽状柔软之小型莲座蕨。长 5-15 厘米较他铁角蕨小。"
-    }
+    },
+    "common_name_en": "Small-leaved Spleenwort"
   },
   "Weigela decora": {
     "sources": [
@@ -34054,7 +34560,8 @@
       "summary": "锦带花（ニシキウツギ）。本州中部以南至九州山地自生之忍冬科落叶灌木。五至六月花初白后渐淡红至红色变化，故日文俗名『二色（锦）空木』。一株同时开多色花之独特姿态。亦植于庭园。",
       "habitat_hint": "山地落叶阔叶林林缘、林道边、神社林、岩场、庭园。耐半阴。",
       "finding_tips": "五至六月，于山地林缘与林道边寻找开白、淡红、红色花同时之落叶灌木。一株多色花混现为辨识要点。"
-    }
+    },
+    "common_name_en": "Brocade Weigela"
   },
   "Lycopus cavaleriei": {
     "sources": [
@@ -34075,7 +34582,8 @@
       "summary": "小地笋（コシロネ）。本州至九州湿地与水田田埂所生唇形科多年草。较地笋小型。八至九月叶腋密生白色小型唇形花。地下茎白色长伸为日文俗名『小白根』由来。",
       "habitat_hint": "湿地、水田田埂、池岸、河滩湿地、灌溉水道边。喜湿润向阳。",
       "finding_tips": "八至九月，于湿地与水田田埂寻找高 20-60 厘米、叶腋密生白色小型唇形花之唇形科。较地笋全体小型，茎四方为科之辨识要点。"
-    }
+    },
+    "common_name_en": "Small Bugleweed"
   },
   "Torenia fournieri": {
     "sources": [
@@ -34117,7 +34625,11 @@
       "summary": "斑点谷蛾（マダラマルハヒロズコガ）。日本各地分布之谷蛾科小型蛾。前翅长 6-9 毫米，灰褐底具黑斑独特。幼虫以枯叶与木片造筒状巢居于其中，随巢移动，似蓑蛾生态。",
       "habitat_hint": "杂木林、神社林、住宅庭院、树皮表面、户外墙面。树皮与石墙上可见幼虫巢。",
       "finding_tips": "五至十月，于杂木林树干与石墙寻找枯叶木片造之小型筒状蓑巢。内有幼虫缓行。成虫为趋光小型蛾。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "斑点谷蛾"
+    },
+    "common_name_en": "Speckled Tineid"
   },
   "Papilio agenor": {
     "sources": [
@@ -34138,7 +34650,11 @@
       "summary": "蓝凤蝶（ナガサキアゲハ）。日本最大型黑色凤蝶之一，因气候变暖近年北扩。原北限九州至近畿，今关东以北亦定居。后翅无尾突为辨识要点。雌具大型白斑甚美。",
       "habitat_hint": "市区、公园、杂木林缘、农田、住宅庭院。柑橘类所在处。",
       "finding_tips": "五至十月，于住宅区与公园寻找缓飞之大型黑色凤蝶。后翅无尾突（与他黑色凤蝶有别）、雌具大型白斑为辨识要点。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "蓝凤蝶"
+    },
+    "common_name_en": "Great Mormon"
   },
   "Lateolabrax japonicus": {
     "sources": [
@@ -34180,7 +34696,8 @@
       "summary": "六斑异瓢虫（カメノコテントウ）。日本最大型瓢虫科之一，体长 8-12 毫米。日文俗名『龟甲瓢虫』，得自橙红体上黑色龟甲纹。捕食胡桃叶甲等叶甲幼虫之益虫。胡桃林、柳林可见。",
       "habitat_hint": "山地至里山胡桃林、柳林、河岸林、神社林。叶甲发生处。",
       "finding_tips": "五至八月，于胡桃与柳叶上寻找捕食叶甲幼虫之大型橙红瓢虫。龟甲纹与最大型体形易辨。"
-    }
+    },
+    "common_name_en": "Six-spot Lady Beetle"
   },
   "Epicopeia hainesii": {
     "sources": [
@@ -34222,7 +34739,8 @@
       "summary": "蓬莱小豆长喙天蛾（ヒメクロホウジャク）。日本各地普见之天蛾科小型蛾。前翅长 20-26 毫米，黑褐色体细长翅。昼活动，空中悬停吸花蜜，姿如蜂鸟而受爱。",
       "habitat_hint": "杂木林缘、农田、家庭菜园、公园、花坛。花卉繁茂之明亮处。",
       "finding_tips": "五至十月白昼，于花坛与林缘寻找空中悬停吸花蜜之黑褐小型蛾。蜂鸟姿独特，近不惊飞易观察。"
-    }
+    },
+    "common_name_en": "Bombylans Hummingbird Hawkmoth"
   },
   "Megacampsomeris prismatica": {
     "sources": [
@@ -34243,7 +34761,8 @@
       "summary": "金毛长腹土蜂（近缘种）。日本各地草地、农田、公园可见之大型土蜂科。与 Campsomeris annulata 形态相近实为别种。腹密被金毛，黑底具黄带。寄生金龟子幼虫，几乎不蜇人。",
       "habitat_hint": "草地、农田、河滩、公园花坛。秋季于一枝黄花与菊科花朵尤多。",
       "finding_tips": "八至十月，于明亮草地与花坛寻找黑黄带、腹具金毛之大型蜂访花。与 C. annulata 形态相近难分。"
-    }
+    },
+    "common_name_en": "Hairy Flower Wasp"
   },
   "Buddleja davidii": {
     "sources": [
@@ -34306,7 +34825,8 @@
       "summary": "腹斑狼蛛（ハラクロコモリグモ）。本州至九州草地、河滩、田畑普见之大型狼蛛科。体长 10-15 毫米，灰褐至茶褐而腹下黑（『腹黑』为日文俗名由来）。不结网，于地表行走捕猎。雌将卵囊托于腹下，孵化后小蛛群于母背之『育子』行为可观察。",
       "habitat_hint": "草地、河滩、农田、空地、田畑田埂、湿润地面。亦掘巢于地。",
       "finding_tips": "全年（暖季活跃），于草地与河滩地表寻找快速行走之大型蜘蛛。雌托卵囊或背负小蛛群之独特姿易辨。"
-    }
+    },
+    "common_name_en": "Black-bellied Wolf Spider"
   },
   "Oberea japonica": {
     "sources": [
@@ -34327,7 +34847,8 @@
       "summary": "日本苹枝天牛（リンゴカミキリ）。本州至九州杂木林与果园分布之天牛科。体长 10-17 毫米，黑底橙色前胸美丽，体细长。于蔷薇科（苹果、梨、花楸、樱等）嫩枝产卵，幼虫食害枝条。果树害虫。",
       "habitat_hint": "杂木林、果园、神社林、河岸林、住宅庭院。蔷薇科树木所在处。",
       "finding_tips": "五至七月，于果园与杂木林之蔷薇科枝条寻找黑体橙色前胸之细长天牛。被害枝因雌产卵时切皮留明显切痕。"
-    }
+    },
+    "common_name_en": "Apple Branch Longicorn"
   },
   "Megabiston plumosaria": {
     "sources": [
@@ -34348,7 +34869,11 @@
       "summary": "羽毛尺蛾（チャエダシャク）。日本各地分布之尺蛾科中型蛾。前翅长 18-25 毫米，淡褐至茶褐翅具细斑。秋羽化，晚秋至初冬成虫活动之『冬尺蛾』。雄翅正常，雌翅退化不能飞。幼虫食害樱、梅等蔷薇科。",
       "habitat_hint": "杂木林、果园、樱花林荫道、住宅庭院、公园。蔷薇科树木所在处。",
       "finding_tips": "十至十二月晚秋至初冬夜间，于灯下寻找淡褐色中型蛾。雄翅正常，雌翅退化为特异之姿。冬季樱枝上可见雌虫。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "羽毛尺蛾"
+    },
+    "common_name_en": "Plumose Geometrid"
   },
   "Viola obtusa": {
     "sources": [
@@ -34411,7 +34936,11 @@
       "summary": "黑点冬尺蛾（クロテンフユシャク）。日本各地分布之尺蛾科小型『冬尺蛾』。前翅长 12-18 毫米，灰白翅散布黑斑。秋羽化，晚秋至冬季白昼与夜间活动，为深冬罕见之蛾。雌翅退化不能飞。",
       "habitat_hint": "杂木林、神社林、河岸林、公园树木。阔叶树所在处。",
       "finding_tips": "十一至翌二月晚秋至冬季，于杂木林树干与灯下寻找灰白底具黑斑之小型蛾。寒季有蛾活动少有，易辨。雌翅退化于树干上观察。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黑点冬尺蛾"
+    },
+    "common_name_en": "Spotted Winter Geometrid"
   },
   "Ciborinia camelliae": {
     "sources": [
@@ -34432,7 +34961,8 @@
       "summary": "山茶花腐病菌（ツバキキンカクチャワンタケ）。日本各地山茶与茶梅林之落叶下发生之核盘菌科小型菌。三至四月，山茶落花中由黑色菌核生出直径 1-3 厘米褐色脐茶碗状子实体，生活史独特。山茶与茶梅花之主要病原菌。",
       "habitat_hint": "山茶与茶梅林、神社林、庭园之山茶下、住宅围篱。落花堆积处。",
       "finding_tips": "三至四月，于山茶与茶梅落花堆积之地面寻找直径 1-3 厘米茶碗状褐色菇。由落花中黑色菌核生出，观察落花本身为发现要诀。"
-    }
+    },
+    "common_name_en": "Camellia Flower Blight"
   },
   "Anguilla japonica": {
     "sources": [
@@ -34517,7 +35047,8 @@
       "summary": "锯天牛（ノコギリカミキリ）。日本各地分布之大型天牛。体长 28-48 毫米，暗褐至黑褐色，前胸两侧具锐刺，触角呈锯齿状（日文俗名由来）。幼虫蛀阔叶树根与干。夜行性趋光。",
       "habitat_hint": "杂木林、神社林、河岸林、行道树、果园。阔叶树所在处。",
       "finding_tips": "六至九月夏夜，于灯下与树液周边寻找大型黑褐色天牛。触角锯齿状、前胸两侧刺为辨识要点。体粗壮。"
-    }
+    },
+    "common_name_en": "Saw-horned Longicorn"
   },
   "Rhodinia fugax": {
     "sources": [
@@ -34538,7 +35069,8 @@
       "summary": "黄褐天蚕蛾（ウスタビガ）。日本各地杂木林分布之大蚕蛾科大型蛾。前翅长 40-55 毫米。秋季（十至十一月）成虫出现，为该科罕见之『晚秋大蚕蛾』。淡褐至橙褐翅各具 1 眼状纹。绿色茧形如便当盒独特，悬于枝上显眼。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。栎、樱等阔叶树所在处。",
       "finding_tips": "十至十一月晚秋杂木林中，于灯下与叶背寻找淡橙褐大型蛾。冬季悬于枝之绿色便当盒形茧最易发现。蛹越冬，翌秋羽化。"
-    }
+    },
+    "common_name_en": "Squeaking Silkmoth"
   },
   "Allantus luctifer": {
     "sources": [
@@ -34559,7 +35091,11 @@
       "summary": "黑边叶蜂（ハグロハバチ）。本州至九州杂木林与住宅庭院普见之叶蜂科小型蜂。体长 10-12 毫米，黑底腹部部分黄至橙色。幼虫食害灯台树、樱、蔷薇等。成虫常见于花周。",
       "habitat_hint": "杂木林、神社林、住宅庭院、河岸林、果园。灯台树、樱等所在处。",
       "finding_tips": "五至九月，于花与叶周寻找黑底腹具黄橙色之小型蜂。形似蜂但不蜇（叶蜂植食）。叶上食痕可寻幼虫。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黑边叶蜂"
+    },
+    "common_name_en": "Mourning Sawfly"
   },
   "Sclerogryllus punctatus": {
     "sources": [
@@ -34580,7 +35116,11 @@
       "summary": "熊铃蟋（クマスズムシ）。本州至九州杂木林与神社林林床所栖之蟋蟀科中型直翅目。体长 10-14 毫米，暗褐至几乎黑色。秋鸣虫，发『ri-ri-ri』细致节奏鸣声。较铃虫小，为山野鸣声。",
       "habitat_hint": "杂木林、神社林林床、落叶林、河岸林。湿润落叶堆积处。",
       "finding_tips": "八至十月夜，于杂木林林床循『ri-ri-ri』细节奏鸣声寻之。循声拨开落叶可见。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "熊铃蟋"
+    },
+    "common_name_en": "Bear Bell Cricket"
   },
   "Leptalina unicolor": {
     "sources": [
@@ -34601,7 +35141,8 @@
       "summary": "银线弄蝶（ギンイチモンジセセリ）。本州至九州山地至里山草地与河滩分布之弄蝶科。翅腹具银白色一字细带（日文俗名由来）美丽独特。幼虫食白茅、芒等禾本科。一年两代，近年减少。",
       "habitat_hint": "山地至里山草地、河滩、神社境内、芒草原。阳光高草草原。",
       "finding_tips": "五至六月、八至九月，于草地与河滩寻找飞行迅速之小型茶色弄蝶。停立合翅时所见翅腹银白色一字带为决定性辨识要点。"
-    }
+    },
+    "common_name_en": "Silver Stripe Skipper"
   },
   "Chlaenius pallipes": {
     "sources": [
@@ -34622,7 +35163,8 @@
       "summary": "青步甲（アオゴミムシ）。本州至九州水边与湿地普见之步甲科中型甲虫。体长 14-18 毫米，鞘翅具金属光泽鲜艳蓝绿色。与日文俗名『垃圾虫』相反，姿态美丽。地栖捕食他虫。",
       "habitat_hint": "河滩、湿地、水田田埂、池畔、河岸林。喜湿润地面。",
       "finding_tips": "五至九月，于河滩与水田田埂寻找蓝绿金属光泽之中型甲虫。翻石与倒木可见。行走迅捷易逃。"
-    }
+    },
+    "common_name_en": "Blue Ground Beetle"
   },
   "Aphis nerii": {
     "sources": [
@@ -34664,7 +35206,8 @@
       "summary": "斑唇瓢虫（モンクチビルテントウ）。本州至九州杂木林与农田分布之小型瓢虫。体长 3-4 毫米，黑底具 4 橙斑。捕食蚜虫、介壳虫之益虫。常群集于叶背与枝端。",
       "habitat_hint": "杂木林、农田、家庭菜园、果园、公园。蚜虫与介壳虫所在植物周边。",
       "finding_tips": "五至十月，于叶背与枝端蚜虫与介壳虫群周边观察。黑底 4 橙斑之小型瓢虫捕食姿可见。"
-    }
+    },
+    "common_name_en": "Spotted Ladybird"
   },
   "Ceroplastes rubens": {
     "sources": [
@@ -34706,7 +35249,8 @@
       "summary": "地锦草（ニシキソウ）。日本各地路边、农田、空地普见之大戟科一年草。茎匍匐地面展开，叶对生小型常带红色。茎切出白色乳液（有毒）。古亦作药草。",
       "habitat_hint": "路边、农田、空地、河滩、家庭菜园、公园草坪缝隙、行道树根部。",
       "finding_tips": "五至十月，于路边与农田寻找匍匐展开之小型草。茎叶带红、叶对生小型、茎断出白色乳液（勿沾手）为辨识要点。"
-    }
+    },
+    "common_name_en": "Prostrate Spurge"
   },
   "Leersia sayanuka": {
     "sources": [
@@ -34748,7 +35292,11 @@
       "summary": "栗胸萤（ムネクリイロボタル）。本州至九州山地至里山分布之萤科小型甲虫。体长 6-9 毫米，黑底前胸鲜艳栗色至橙红色（日文俗名由来）。不发光昼行性，于湿润林床与草地可见。近日本特有种。",
       "habitat_hint": "山地至里山落叶阔叶林林缘与林床、湿润草地、神社林。",
       "finding_tips": "五至七月，于湿润林缘与草地寻找黑底前胸栗色至橙红色之美丽小型甲虫。不发光之萤宜昼观察。多见于叶上。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "栗胸萤"
+    },
+    "common_name_en": "Chestnut-collared Firefly"
   },
   "Impatiens noli-tangere": {
     "sources": [
@@ -34979,7 +35527,8 @@
       "summary": "小叶白前（コバノカモメヅル）。本州至九州山地至里山草地与林缘分布之夹竹桃科（旧萝藦科）藤本多年草。七至九月开暗紫褐色小型星形花。果细长蓇葖果，熟则裂开释具白色种毛之种子随风。",
       "habitat_hint": "山地至里山草地、林缘、河滩、神社境内、土堤。喜阳光充足处。",
       "finding_tips": "七至九月，于山地草地与林缘寻找缠绕他植物之藤本开暗紫褐色小型星形花。叶卵形端尖对生。秋季果裂释棉絮种子甚妙。"
-    }
+    },
+    "common_name_en": "Small-leaf Swallow-wort"
   },
   "Acer cissifolium": {
     "sources": [
@@ -35042,7 +35591,8 @@
       "summary": "拟瓜叶甲（ウリハムシモドキ）。本州至九州普见之小型叶甲科。体长 5-7 毫米，橙黄底具 4 黑斑（拟瓜叶甲态）。实食豆科为大豆、赤小豆之害虫。与瓜叶甲（无斑）以斑相辨。",
       "habitat_hint": "农田、家庭菜园、河滩、空地、杂木林缘。豆科植物所在处。",
       "finding_tips": "五至十月，于大豆与赤小豆叶上寻找似瓜叶甲之橙黄小型叶甲。瓜叶甲无斑而本种具 4 黑斑为辨识要点。亦可见食痕。"
-    }
+    },
+    "common_name_en": "Soybean Leaf Beetle"
   },
   "Fimbristylis dichotoma": {
     "sources": [
@@ -35190,6 +35740,9 @@
       "summary": "黄苇鳽（ヨシゴイ）。日本夏候鸟，渡至全国湿地、芦苇荡、水田之小型鹭科。体长约 36 厘米，黄褐体背具黑色纵纹。藏于芦苇间伸颈直立拟芦之『拟态行为』而闻名。静止时难寻。",
       "habitat_hint": "芦苇荡、湿地、农塘、水田、河川缓流。需芦苇与菰类茂密之湿地。",
       "finding_tips": "五至九月，于芦苇荡与湿地寻找藏于芦苇间之小型鹭。伸颈直立拟芦时静止难辨。听『boo-boo』鸣声与繁殖期展示飞行为观察要点。"
+    },
+    "aliases": {
+      "zh-Hans": "黄苇鳽"
     }
   },
   "Abies firma": {
@@ -35274,7 +35827,11 @@
       "summary": "蔓绣球（ガクウツギ）。本州至九州山地溪谷与湿润林床自生之绣球花科落叶灌木。五至六月开绣球花型花序——中央小型淡黄两性花，外缘大型白至淡桃色装饰花（『额』）。叶对生具光泽。",
       "habitat_hint": "山地溪谷、溪畔湿润林床、谷地林、神社林湿地。喜湿润半阴。",
       "finding_tips": "五至六月，于山地溪畔寻找高 1-2 米、中央小型两性花外缘大型白色装饰花之绣球型花序之落叶灌木。叶对生有光泽暗绿。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "蔓绣球"
+    },
+    "common_name_en": "Climbing Hydrangea"
   },
   "Rubus buergeri": {
     "sources": [
@@ -35337,7 +35894,11 @@
       "summary": "白颜长角象（カオジロヒゲナガゾウムシ）。日本各地杂木林分布之长角象科小型甲虫。体长 5-10 毫米，灰褐至茶褐杂斑，头具白斑（『颜白』）为日文俗名由来。常聚于阔叶枯木产卵。",
       "habitat_hint": "杂木林、神社林、河岸林、伐采迹地、薪柴堆。阔叶枯木、倒木、薪柴。",
       "finding_tips": "五至九月，于杂木林倒木与薪柴上寻找头具白斑之小型象甲。长触角与面部白斑易辨。常成群。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "白颜长角象"
+    },
+    "common_name_en": "White-faced Anthribid"
   },
   "Chaenogobius annularis": {
     "sources": [
@@ -35442,7 +36003,11 @@
       "summary": "深山色蟌（ミヤマカワトンボ）。本州至九州山地清溪所栖之色蟌科大型蟌。体长 60-70 毫米。雄胸腹具金属光泽鲜艳青绿色，翅暗褐色。日本最大型美丽色蟌为溪流珠宝。",
       "habitat_hint": "山地清溪、溪流、瀑布潭周边、涌泉小溪。需清洁流水。",
       "finding_tips": "五至八月，于山地清溪边草与枝上寻找大型青绿色色蟌。翅暗褐色，雄体具鲜艳金属光泽。日本最大色蟌易辨。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "深山色蟌"
+    },
+    "common_name_en": "Mountain Demoiselle"
   },
   "Lycodon orientalis": {
     "sources": [
@@ -35463,6 +36028,9 @@
       "summary": "白链蛇（シロマダラ）。本州至九州山地至里山分布之游蛇科小型蛇。体长 30-70 厘米，灰至灰褐体连缀黑色斑纹。夜行性人目难见为日本『幻蛇』之称之稀有种。捕食小型蛇与蜥蜴。无毒。",
       "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、河岸林、农田周边、住宅庭院。",
       "finding_tips": "夜行性，野生个体难观察。雨后夜间山道与林道步行偶遇。日间藏石下与倒木下。发现无毒可静观察。"
+    },
+    "aliases": {
+      "zh-Hans": "白链蛇"
     }
   },
   "Takifugu alboplumbeus": {
@@ -35484,7 +36052,8 @@
       "summary": "草河鲀（クサフグ）。日本各地沿岸普见之小型鲀科。体长 15-25 厘米，上暗绿至暗褐具多白斑、下白。卵巢与肝具剧毒（河豚毒），切勿自烹。常见于磯游与垂钓之常拾鱼。",
       "habitat_hint": "沿岸岩礁、沙滩、潮池、港湾、河口汽水域。浅沿岸水域。",
       "finding_tips": "全年于沿岸岩场与潮池寻找上面具白斑之小型鲀。退潮潮池与海岸垂钓中常见。具毒勿徒手触。"
-    }
+    },
+    "common_name_en": "Shimofuri Pufferfish"
   },
   "Cystidia couaggaria": {
     "sources": [
@@ -35505,7 +36074,8 @@
       "summary": "梅尺蛾（ウメエダシャク）。本州至九州杂木林与果园分布之尺蛾科中型蛾。前翅长 20-25 毫米，白翅具黑色条纹斑马状。白昼活动飞行柔软。幼虫食害梅、樱、桃等蔷薇科。",
       "habitat_hint": "杂木林、果园、樱花林荫道、住宅庭院、公园。蔷薇科所在处。",
       "finding_tips": "五至七月白昼，于樱与梅周边寻找飘飞之白黑斑马纹中型蛾。日飞蛾少见，斑马纹易辨。形似蝶但触角端不膨大。"
-    }
+    },
+    "common_name_en": "Magpie Geometrid"
   },
   "Athyrium wardii": {
     "sources": [
@@ -35547,7 +36117,11 @@
       "summary": "角须象（ツノヒゲボソゾウムシ）。本州至九州杂木林与神社林分布之小型象甲科。体长 5-8 毫米，绿色至青绿色金属光泽（因鳞片）美丽。食害阔叶树（尤其栎、麻栎）嫩叶。早春多见。",
       "habitat_hint": "杂木林、神社林、河岸林、果园、行道树。栎、麻栎等壳斗科树周边。",
       "finding_tips": "四至六月，于杂木林之栎嫩叶寻找绿色至青绿金属光泽之小型象甲。鳞片光泽美丽，叶上有食痕。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "角须象"
+    },
+    "common_name_en": "Green Weevil"
   },
   "Cryptocephalus perelegans": {
     "sources": [
@@ -35568,7 +36142,8 @@
       "summary": "黄斑筒叶甲（キボシツツハムシ）。本州至九州杂木林与农田分布之小型叶甲科。体长 5-7 毫米，黑底具 4 个明显大型黄斑美丽。幼虫地上以落叶为食并造『包叶』之罕见生态。常于阔叶树叶上发现。",
       "habitat_hint": "杂木林、神社林、河岸林、农田边缘、果园。阔叶树所在处。",
       "finding_tips": "五至九月，于杂木林之阔叶树叶上寻找黑底具 4 个大型黄斑之小型叶甲。鲜艳色彩易辨。"
-    }
+    },
+    "common_name_en": "Yellow-spotted Case-bearing Leaf Beetle"
   },
   "Conocephalus japonicus": {
     "sources": [
@@ -35589,7 +36164,8 @@
       "summary": "日本短翅草螽（コバネササキリ）。本州至九州草地与湿地分布之螽斯科小型直翅目。体长 12-16 毫米，绿至褐色细长体，翅短（『小翅』）为日文俗名由来。于草地发清越『shi-shi』细鸣。秋鸣虫。",
       "habitat_hint": "草地、河滩、湿地、田畑田埂、农田边缘。喜湿润向阳之高草。",
       "finding_tips": "八至十月白昼，于草地与河滩听『shi-shi』清越细鸣寻之。绿至褐细长体与显著短翅为辨识要点。"
-    }
+    },
+    "common_name_en": "Short-winged Cone-head"
   },
   "Eupsilia tripunctata": {
     "sources": [
@@ -35610,7 +36186,8 @@
       "summary": "三星冬夜蛾（ミツボシキリガ）。本州至九州杂木林分布之夜蛾科中型蛾。前翅长 16-20 毫米，灰褐翅具独特 3 白点（『三星』）为日文俗名由来。秋羽化，晚秋至冬季成虫活动之『冬蛾』。聚于树液。",
       "habitat_hint": "杂木林、神社林、河岸林、住宅庭院。阔叶树所在处。",
       "finding_tips": "十至翌三月晚秋至早春夜间，于灯下与树液（栎树伤口）寻找灰褐中型蛾。翅之 3 白点为辨识要点。寒季活动之罕见蛾。"
-    }
+    },
+    "common_name_en": "Three-spot Sallow"
   },
   "Penthimia nitida": {
     "sources": [
@@ -35631,7 +36208,8 @@
       "summary": "黑扁叶蝉（クロヒラタヨコバイ）。本州至九州普见之小型叶蝉科。体长 5-7 毫米，黑至暗褐有光泽，体扁平。叶与枝上吸汁。如俗名所示体扁、前胸宽，于叶蝉中易辨。多食性附众多植物。",
       "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩、行道树。阔叶树与草本等多样植物。",
       "finding_tips": "五至十月，于杂木林与农田之叶上寻找黑色小型叶蝉。扁体与光泽黑色为辨识要点。靠近迅速跳飞。"
-    }
+    },
+    "common_name_en": "Glossy Flat Leafhopper"
   },
   "Criotettix japonicus": {
     "sources": [
@@ -35652,7 +36230,8 @@
       "summary": "刺菱蝗（トゲヒシバッタ）。本州至九州湿地与水田田埂分布之菱蝗科小型直翅目。体长 10-14 毫米，灰褐至茶褐，前胸两侧具锐刺（『刺菱蝗』之名）。于湿润地面快速跳跃。",
       "habitat_hint": "湿地、水田田埂、河滩湿地、池岸、灌溉水道边。喜湿润地面。",
       "finding_tips": "五至十月，于湿地与水田田埂行走惊起小型蝗。前胸两侧锐刺（放大镜可见）为特征。菱蝗中较大型。"
-    }
+    },
+    "common_name_en": "Spined Pygmy Grasshopper"
   },
   "Paraprenanthes sororia": {
     "sources": [
@@ -35673,7 +36252,8 @@
       "summary": "紫花山莴苣（ムラサキニガナ）。本州至九州山地至里山林缘与草地分布之菊科多年草。高 50-100 厘米。八至十月开众多淡紫色小型头花。叶茎切出白色乳液（『苦菜』之特征）。乳液味苦。",
       "habitat_hint": "山地至里山落叶阔叶林林缘、草地、河滩、神社林、土堤。耐半阴。",
       "finding_tips": "八至十月，于山地林缘与草地寻找高 50-100 厘米、开众多淡紫色小型头花之菊科。叶断流白色乳液为辨识要点（味苦慎尝）。"
-    }
+    },
+    "common_name_en": "Purple Bitter-lettuce"
   },
   "Deparia okuboana": {
     "sources": [
@@ -35759,6 +36339,9 @@
       "summary": "灰头鹀（西伯利亚亚种）（シベリアアオジ）。日本冬候鸟，渡至全国丛林、林缘、湿地之鹀科中型鸟。体长约 16 厘米，雄头暗橄榄绿，下淡黄。丛中潜行，『tsit-tsit』地鸣。视为日本灰头鹀近缘种或亚种。",
       "habitat_hint": "杂木林丛、林缘、河滩丛、湿地芦苇、农田缘。喜丛中。",
       "finding_tips": "十月至翌四月，于杂木林丛与河滩寻找丛中潜行之小型鸟。雄头暗橄榄绿，下淡黄。多循鸣声寻之。"
+    },
+    "aliases": {
+      "zh-Hans": "灰头鹀"
     }
   },
   "Stauntonia hexaphylla": {
@@ -35801,7 +36384,8 @@
       "summary": "类叶升麻（サラシナショウマ）。本州至九州山地落叶阔叶林林床与林缘自生之毛茛科大型多年草。八至十月生白色小花长穗（刷状）众多。日文俗名得自古时漂洗嫩叶以食。秋山野风物诗。古亦作药草。",
       "habitat_hint": "山地落叶阔叶林林床、林缘、谷地林、神社林、湿润草地。喜湿润肥沃土。",
       "finding_tips": "八至十月，于山地林床与林缘寻找高 1-1.5 米、白色小花长刷状穗众多之大型多年草。叶羽状复叶大型显眼。秋山野印象之花。"
-    }
+    },
+    "common_name_en": "Bugbane"
   },
   "Persicaria perfoliata": {
     "sources": [
@@ -35907,7 +36491,8 @@
       "summary": "黄盖小皮伞（ダイダイガサ）。全球热带至温带林分布之小型菇（小皮伞科）。盖与柄皆鲜艳橙黄至橙红色（『橙伞』为日文俗名），表面粗糙似簇毛。于阔叶枯木发生，小巧而显眼。",
       "habitat_hint": "杂木林、神社林、河岸林、湿润林床之阔叶枯木、倒木、落枝。",
       "finding_tips": "七至十月雨后，于阔叶枯木上寻找鲜艳橙色小型菇（盖径 1-3 厘米）。盖柄皆具粗糙簇毛之橙色与他菇不混。"
-    }
+    },
+    "common_name_en": "Golden Scruffy Collybia"
   },
   "Trachea atriplicis": {
     "sources": [
@@ -35949,7 +36534,8 @@
       "summary": "绿姬蛉（ミドリヒメカゲロウ）。日本各地分布之姬蛉科小型脉翅目。前翅长 5-8 毫米，淡绿至绿色体与翅，『如翡翠』之姿。捕食蚜虫之益虫。常于叶与草上可见之纤细美丽昆虫。",
       "habitat_hint": "农田、家庭菜园、杂木林、神社林、河滩草地。蚜虫所在植物周边。",
       "finding_tips": "五至十月，于农田与杂木林之叶上蚜群周边观察。淡绿纤细体与翅，捕食蚜虫之姿可见。较草蛉小。"
-    }
+    },
+    "common_name_en": "Green Lacewing"
   },
   "Tanaorhinus reciprocata": {
     "sources": [
@@ -35970,7 +36556,8 @@
       "summary": "钩翅尺蛾（カギバアオシャク）。本州至九州杂木林分布之尺蛾科中型蛾。前翅长 18-24 毫米，鲜艳黄绿至绿色翅具白色线条之美丽蛾。翅缘曲如钩（『钩翅青尺』为日文俗名）。幼虫食害壳斗科。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。壳斗科所在处。",
       "finding_tips": "六至九月夜间，于灯下寻找鲜艳黄绿至绿色之中型蛾。翅缘曲钩状为辨识要点。绿色蛾少见且美。"
-    }
+    },
+    "common_name_en": "Hook-tip Green Geometrid"
   },
   "Pterolophia zonata": {
     "sources": [
@@ -35991,7 +36578,11 @@
       "summary": "后白锈天牛（アトジロサビカミキリ）。本州至九州杂木林与薪柴分布之小型天牛。体长 8-13 毫米，暗褐至茶褐杂斑，鞘翅后部具白色带（『后白锈』之名）。于阔叶枯木发生，拟树皮。",
       "habitat_hint": "杂木林、神社林、河岸林、伐采迹地、薪柴堆。阔叶枯木与倒木。",
       "finding_tips": "五至九月，于杂木林倒木与薪柴上寻找暗褐杂斑、鞘翅后部具白色带之小型天牛。拟树皮需细察。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "后白锈天牛"
+    },
+    "common_name_en": "White-banded Bark Longicorn"
   },
   "Svistella bifasciata": {
     "sources": [
@@ -36327,7 +36918,8 @@
       "summary": "鹿爪草（カノツメソウ）。本州至九州山地林缘与草地分布之伞形科多年草。高 40-80 厘米。八至十月开白色小花伞形花序。日文俗名『鹿爪草』因叶序似鹿爪而得名。叶 2 回 3 出复叶纤细。",
       "habitat_hint": "山地落叶阔叶林林缘、草地、神社林、土堤、河岸。喜阳光至半阴湿润处。",
       "finding_tips": "八至十月，于山地林缘与草地寻找高 40-80 厘米、具白色小花伞形花序之伞形科。叶 2 回 3 出复叶纤细，叶柄长、叶似鹿爪为辨识要点。"
-    }
+    },
+    "common_name_en": "Deer-claw Carrot"
   },
   "Euprepiophis conspicillata": {
     "sources": [
@@ -36348,6 +36940,9 @@
       "summary": "日本地蛇（ジムグリ）。本州至九州分布之日本特有种游蛇科中型蛇。体长 70-100 厘米。茶褐体具红褐至橙色横斑，头具独特黑色『眼镜』纹。多地下生活，日文俗名意为『地潜』。捕食鼠等小型哺乳类。无毒性温和。",
       "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、农田边缘、河岸林。藏于落叶与石下。",
       "finding_tips": "夜行或晨昏活动，野生个体难观察。山道与林道上若见茶至红褐色中型蛇头具黑眼镜纹即本种。无毒可静观察。"
+    },
+    "aliases": {
+      "zh-Hans": "日本地蛇"
     }
   },
   "Catocala patala": {
@@ -36369,7 +36964,8 @@
       "summary": "黄下翅蛾（キシタバ）。日本各地杂木林分布之夜蛾科大型蛾。前翅长 30-40 毫米，前翅灰褐至茶褐拟树皮，惊扰时露后翅鲜艳黄色（『黄下』之名）与黑带之『闪色』。常聚于栎树渗汁。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。栎、麻栎等渗汁壳斗科所在处。",
       "finding_tips": "七至九月夜，以手电照栎树渗汁可见大型蛾吸蜜。轻惊扰则后翅鲜艳黄色一瞬可见为辨识要点。日间停于树皮拟态。"
-    }
+    },
+    "common_name_en": "Yellow Underwing"
   },
   "Synanthedon hector": {
     "sources": [
@@ -36390,7 +36986,11 @@
       "summary": "桃透翅蛾（コスカシバ）。日本各地果园分布之透翅蛾科小型蛾。前翅长 10-14 毫米，拟蜂（贝氏拟态）具透明翅与黄黑体。白昼活动。幼虫食害桃、梅、樱等蔷薇科干为重要害虫。",
       "habitat_hint": "果园（桃、梅、樱）、街边樱花林荫道、住宅庭院。蔷薇科树木所在处。",
       "finding_tips": "五至九月白昼，于果园与樱花林荫道寻找形似蜂之小型蛾。透明翅、黄黑体、昼飞为辨识要点。幼虫食痕（干上粘性树液与虫粪）亦可观察。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "桃透翅蛾"
+    },
+    "common_name_en": "Cherry Tree Borer"
   },
   "Acanthosoma labiduroides": {
     "sources": [
@@ -36411,7 +37011,8 @@
       "summary": "钳尾盾蝽（ハサミツノカメムシ）。本州至九州山地至里山落叶阔叶林分布之同蝽科中型蝽。体长 16-21 毫米，绿至红绿体具黑纹。日文俗名得自前胸两侧角状突与腹端独特之『钳』形突。常于树叶与干上观察。",
       "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、河岸林。阔叶树所在处。",
       "finding_tips": "五至十月，于杂木林之阔叶树叶与干上寻找前胸两侧具角状突、腹端具『钳』形突之绿至红绿色中型蝽。独特形态易辨。"
-    }
+    },
+    "common_name_en": "Scissor-tip Shield Bug"
   },
   "Eucorysses grandis": {
     "sources": [
@@ -36432,7 +37033,11 @@
       "summary": "巨蝽（オオキンカメムシ）。本州纪伊半岛以南、四国、九州暖地分布之盾蝽科大型种。体长 18-26 毫米，鲜艳朱红至橙红色具金属光泽黑斑，宝石般美姿。常群集于油桐等树木。",
       "habitat_hint": "暖地照叶林、神社林、河岸林、果园、住宅庭院。油桐、野漆等树木所在处。",
       "finding_tips": "五至十月，于暖地油桐与野漆之叶与果周边寻找鲜艳朱红色大型蝽。常成群聚集，宝石般美丽易辨。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "巨蝽"
+    },
+    "common_name_en": "Giant Jewel Bug"
   },
   "Episcapha fortunii": {
     "sources": [
@@ -36453,7 +37058,8 @@
       "summary": "二带大蕈甲（ヒメオビオオキノコ）。本州至九州杂木林分布之大蕈甲科中型甲虫。体长 10-14 毫米，黑底具 2 道橙红色带（『姫带』）显眼。聚于阔叶树菌（尤其多孔菌类）食菌。常于树皮与倒木之菇周观察。",
       "habitat_hint": "杂木林、神社林、河岸林、湿润林床。阔叶树之菇（多孔菌、木耳类）周边。",
       "finding_tips": "五至十月，于杂木林倒木与枯木之硬菌（多孔菌类）周边寻找黑底具 2 道橙红色带之中型甲虫。常成群易辨。"
-    }
+    },
+    "common_name_en": "Two-banded Pleasing Fungus Beetle"
   },
   "Yaginumia sia": {
     "sources": [
@@ -36474,7 +37080,8 @@
       "summary": "黑头园蛛（ズグロオニグモ）。本州至九州山地至里山林地、林缘、住宅区分布之园蛛科中型蛛。雌体长 12-18 毫米。雌腹大圆，头黑（『头黑』之名），背腹具独特白色斑纹。结大型垂直圆网。夜间活动。",
       "habitat_hint": "杂木林、神社林、河岸林、住宅庭院、公园树木。树间、檐下、栽植等可结网处。",
       "finding_tips": "夜间（日落后）于住宅庭院与杂木林寻找结大型圆网之头黑蜘蛛。日间藏于网角或叶背。夜至清晨为观察良机。雌大型易辨。"
-    }
+    },
+    "common_name_en": "Black-headed Orb Weaver"
   },
   "Apochima juglansiaria": {
     "sources": [
@@ -36495,7 +37102,11 @@
       "summary": "胡桃刺尺蛾（オカモトトゲエダシャク）。本州至九州杂木林分布之尺蛾科中型蛾。前翅长 20-28 毫米，灰褐至茶褐翅具黑斑，后翅具独特突起（『刺』）。早春羽化，三至四月凉爽期成虫活动之罕见『早春蛾』。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树（尤胡桃与漆树科）所在处。",
       "finding_tips": "三至四月，早春杂木林之灯下与树皮上寻找灰褐色中型蛾。后翅独特突起（刺）为辨识要点。寒季活动之罕见蛾。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "胡桃刺尺蛾"
+    },
+    "common_name_en": "Walnut Spined Geometrid"
   },
   "Macroscytus japonensis": {
     "sources": [
@@ -36516,7 +37127,8 @@
       "summary": "土蝽（ツチカメムシ）。本州至九州杂木林、农田、草地分布之土蝽科中型蝽。体长 8-10 毫米，黑至暗茶褐色，体扁平。地栖藏于落叶与石下，吸食植物根与种子。被触发臭气故亦称『臭虫』。",
       "habitat_hint": "杂木林、神社林、农田边缘、河滩、空地。喜落叶与石下、地表近处。",
       "finding_tips": "全年（暖季活跃），于杂木林与农田翻落叶与石可见黑至暗茶褐色之扁平蝽。地表迅捷行走。捕则发臭气。"
-    }
+    },
+    "common_name_en": "Burrower Bug"
   },
   "Phialodes rufipennis": {
     "sources": [
@@ -36537,7 +37149,11 @@
       "summary": "长足卷叶象（アシナガオトシブミ）。本州至九州杂木林分布之卷叶象科小型甲虫。体长 6-9 毫米，黑底鞘翅红褐至橙红色。日文俗名因足较他卷叶象长而得名。雌将阔叶（尤栎）卷成『摇篮』产卵之独特生态。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。栎与麻栎所在处。",
       "finding_tips": "五至七月，于杂木林之栎叶上寻找卷成『摇篮』之叶卷——本种之作品。成虫黑底红褐鞘翅与长足为辨识要点。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "长足卷叶象"
+    },
+    "common_name_en": "Long-legged Leaf-roller"
   },
   "Bocchoris inspersalis": {
     "sources": [
@@ -36558,7 +37174,8 @@
       "summary": "白纹野螟（シロモンノメイガ）。日本各地杂木林与农田分布之螟蛾科小型蛾。前翅长 10-14 毫米，黑褐翅具鲜艳白斑（『白纹』）显眼。白昼亦活动，常于草地与林缘飞行。幼虫食害栝楼等葫芦科。",
       "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩草地。葫芦科植物所在处。",
       "finding_tips": "五至十月，于草地与林缘寻找黑褐底具鲜艳白斑之小型蛾。白昼活动可观察。鲜艳白黑斑易辨。"
-    }
+    },
+    "common_name_en": "White-spotted Crambid"
   },
   "Euthrix albomaculata": {
     "sources": [
@@ -36579,7 +37196,8 @@
       "summary": "竹枯叶蛾（タケカレハ）。日本各地竹与笹林分布之枯叶蛾科中型蛾。前翅长 25-35 毫米，茶褐至灰褐翅拟枯叶。幼虫为人熟知之『毒毛虫』，食害竹笹叶，毛触皮肤则剧痛炎症。庭竹与公园中需注意。",
       "habitat_hint": "竹与笹林、公园竹笹栽植、住宅围篱、杂木林缘。",
       "finding_tips": "七至十月夏秋夜，于灯下寻找茶褐色中型蛾。幼虫（毒毛虫）五至七月聚于竹笹叶背，黑褐至茶褐毛绒绒。绝勿触摸——有毒。"
-    }
+    },
+    "common_name_en": "Bamboo Lappet Moth"
   },
   "Xanthodes transversa": {
     "sources": [
@@ -36600,7 +37218,8 @@
       "summary": "横线锦夜蛾（フタトガリアオイガ）。日本各地分布之夜蛾科中型蛾。前翅长 18-22 毫米，淡黄至橙黄翅具黑色细线之独特姿，拟叶脉。幼虫食害木槿、芙蓉、秋葵等锦葵科。园艺与农田害虫。",
       "habitat_hint": "庭园、公园、农田、家庭菜园、杂木林缘。木槿、芙蓉、秋葵等锦葵科所在处。",
       "finding_tips": "五至十月夜间，于灯下寻找淡黄至橙黄色中型蛾。翅之黑色线拟叶脉为特征。日间息于木槿与芙蓉叶背。"
-    }
+    },
+    "common_name_en": "Yellow Cotton Caterpillar"
   },
   "Chizuella bonneti": {
     "sources": [
@@ -36621,7 +37240,8 @@
       "summary": "短翅姫螽（コバネヒメギス）。本州至九州山地至里山草地与林缘分布之螽斯科小型直翅目。体长 12-18 毫米，绿至褐色翅短（『小翅』）。秋发『shi-ri-ri』清越细鸣之秋鸣虫。杂食亦捕食他虫。",
       "habitat_hint": "山地至里山草地、林缘、河滩、神社林缘、土堤。喜湿润荫蔽草地。",
       "finding_tips": "八至十月夜，于草地与林缘寻找发『shi-ri-ri』清越细鸣之小型螽斯。翅短跳跃移动。绿至褐体色变异。"
-    }
+    },
+    "common_name_en": "Short-winged Cone-head"
   },
   "Rhopaloscelis unifasciatus": {
     "sources": [
@@ -36642,7 +37262,11 @@
       "summary": "一带刚毛天牛（ヒトオビアラゲカミキリ）。本州至九州杂木林分布之小型天牛。体长 6-10 毫米，灰褐至茶褐杂斑，背前半具独特毛束，鞘翅中央有 1 道白带（『一带』）。于阔叶枯木发生，拟树皮。",
       "habitat_hint": "杂木林、神社林、河岸林、伐采迹地、薪柴堆。阔叶枯木与倒木。",
       "finding_tips": "五至九月，于杂木林倒木与薪柴上寻找灰褐杂斑、背具毛束、鞘翅中央具白带之小型天牛。拟树皮需细察。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "一带刚毛天牛"
+    },
+    "common_name_en": "One-banded Bristled Longicorn"
   },
   "Geocoris varius": {
     "sources": [
@@ -36663,7 +37287,8 @@
       "summary": "大眼长蝽（オオメナガカメムシ）。本州至九州农田与草地分布之长蝽科小型蝽。体长 4-5 毫米，灰褐体头具大眼（『大目』之名）为特征。捕食蚜虫与红蜘蛛之益虫，亦用于生物防治。",
       "habitat_hint": "农田、家庭菜园、河滩草地、空地、公园花坛。蚜虫所在植物周边。",
       "finding_tips": "五至十月，于农田作物（大豆、卷心菜等）与草地之蚜群周边观察。灰褐小型蝽，头部大眼显著。捕食情景可观察之益虫。"
-    }
+    },
+    "common_name_en": "Big-eyed Bug"
   },
   "Dryomyza formosa": {
     "sources": [
@@ -36684,7 +37309,8 @@
       "summary": "鳖甲蝇（ベッコウバエ）。本州至九州杂木林与神社林分布之鳖甲蝇科中型蝇。体长 10-13 毫米，橙黄至黄褐体翅带褐色，『鳖甲』般美姿。常于落叶下、朽木、菇周边可见，为分解者。",
       "habitat_hint": "杂木林、神社林、河岸林、湿润林床。落叶下、朽木、菇周边。",
       "finding_tips": "五至十月，于杂木林林床寻找橙黄体褐翅之中型蝇。落叶下、朽木、菇周边常成群可见。『鳖甲』色彩美丽。"
-    }
+    },
+    "common_name_en": "Tortoiseshell Fly"
   },
   "Sophonia orientalis": {
     "sources": [
@@ -36726,7 +37352,8 @@
       "summary": "牛膝龟甲（イノコヅチカメノコハムシ）。本州至九州杂木林与农田分布之叶甲科小型甲虫。体长 6-8 毫米，黄绿至绿色体具黑斑，扁平如龟甲（『カメノコ』之名）。食害牛膝叶。贴叶不动之独特姿。",
       "habitat_hint": "杂木林林缘、农田边缘、河滩、空地、住宅庭院。牛膝所在处。",
       "finding_tips": "六至十月，于杂木林林缘与农田之牛膝叶上寻找黄绿色龟甲形叶甲。贴叶不动为特征。捕之则收足装死。"
-    }
+    },
+    "common_name_en": "Achyranthes Tortoise Beetle"
   },
   "Chrysobothris succedanea": {
     "sources": [
@@ -36747,7 +37374,11 @@
       "summary": "六星吉丁（ムツボシタマムシ）。本州至九州杂木林分布之小型吉丁科。体长 8-13 毫米，暗绿至青绿金属光泽体具 6 黄斑（『六星』之名）。于阔叶枯木发生，夏晴日飞行姿美。",
       "habitat_hint": "杂木林、神社林、河岸林、伐采迹地、薪柴堆。阔叶枯木与倒木。",
       "finding_tips": "六至八月，夏晴白昼于杂木林之伐倒木与枯木寻找暗绿金属光泽具 6 黄斑之小型吉丁。飞行美丽，停立时金属光泽显眼。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "六星吉丁"
+    },
+    "common_name_en": "Six-spotted Jewel Beetle"
   },
   "Aplotes roelofsi": {
     "sources": [
@@ -36768,7 +37399,11 @@
       "summary": "十星象（トホシオサゾウミシ）。本州至九州山地至里山杂木林分布之象虫科小型种。体长 6-9 毫米，黑底鞘翅具 10 橙红斑（『十星』之名）美丽。常于阔叶树叶与嫩枝观察。具鲜艳警戒色。",
       "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、河岸林。阔叶树所在处。",
       "finding_tips": "五至九月，于山地杂木林之阔叶树叶与嫩枝寻找黑底具 10 橙红斑之小型象虫。鲜艳色彩易辨。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "十星象"
+    },
+    "common_name_en": "Ten-spotted Snout Weevil"
   },
   "Gyndes pallicornis": {
     "sources": [
@@ -36789,7 +37424,11 @@
       "summary": "四星葫芦长蝽（ヨツボシヒョウタンナガカメムシ）。本州至九州草地与河滩分布之长蝽科小型蝽。体长 5-7 毫米，暗褐至黑色体具 4 淡色斑（『四星』之名）、体葫芦形为特征。地栖于落叶下与石下可见。",
       "habitat_hint": "草地、河滩、农田边缘、空地、杂木林缘、土堤。地表近处观察。",
       "finding_tips": "五至十月，于草地与河滩之落叶下与石下寻找暗褐至黑色葫芦形具 4 淡色斑之小型蝽。地表迅速行走。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "四星葫芦长蝽"
+    },
+    "common_name_en": "Four-spotted Long Bug"
   },
   "Orthopagus lunulifer": {
     "sources": [
@@ -36810,7 +37449,8 @@
       "summary": "端黑额蜡蝉（ツマグロスケバ）。本州至九州杂木林与农田分布之蜡蝉科中型种。体长 8-12 毫米，淡褐至灰褐半透明翅、翅端暗褐色（『端黑透翅』之名）。于阔叶树与草本枝上吸汁。靠近迅跳。",
       "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩草地、住宅围篱。多样植物枝。",
       "finding_tips": "七至十月，于杂木林与农田之植物枝上寻找淡褐半透明翅端暗褐之中型蜡蝉。翅端黑色为辨识要点。靠近迅跳。"
-    }
+    },
+    "common_name_en": "Dark-tip Lantern Bug"
   },
   "Nacerdes waterhousei": {
     "sources": [
@@ -36831,7 +37471,8 @@
       "summary": "蓝拟天牛（アオカミキリモドキ）。本州至九州分布之拟天牛科中型甲虫。体长 12-18 毫米，青绿金属光泽美丽。非天牛而形似，『拟天牛』之名。体液含斑蝥素（毒），触之致接触性皮炎（线状皮炎）之危险甲虫。",
       "habitat_hint": "杂木林、神社林、农田、家庭菜园、住宅庭院、河滩草地。亦访花。",
       "finding_tips": "五至九月，于花与叶上寻找青绿金属光泽细长甲虫。似天牛但触之致皮炎（一夜变红），切勿徒手触。"
-    }
+    },
+    "common_name_en": "Green False Longicorn"
   },
   "Psyllobora vigintimaculata": {
     "sources": [
@@ -36873,7 +37514,11 @@
       "summary": "白带冬尺蛾（シロフフユエダシャク）。日本各地分布之尺蛾科中型『冬尺蛾』。前翅长 18-25 毫米，灰褐翅具白色波状纹。秋羽化，十一至翌二月寒冷期成虫活动。雌翅完全退化全不能飞。",
       "habitat_hint": "杂木林、神社林、河岸林、公园树木。阔叶树所在处。",
       "finding_tips": "十一至翌二月晚秋至冬夜，于树干与灯下寻找灰褐底具白色波状纹之中型蛾。雌翅退化于树干上观察。寒季活动之罕见蛾。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "白带冬尺蛾"
+    },
+    "common_name_en": "White-marbled Winter Geometrid"
   },
   "Nigrotrichia kiotonensis": {
     "sources": [
@@ -36894,7 +37539,11 @@
       "summary": "黑金龟（クロコガネ）。本州至九州普见之中型金龟科。体长 18-23 毫米，黑褐至黑色，表面具细毛而光泽收敛之朴素姿。夜行性趋光，夏代表性金龟之一。幼虫食害土中根。",
       "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩、住宅庭院。阔叶植物所在处。",
       "finding_tips": "六至八月，夏夜于住宅区与杂木林之灯下与自动贩卖机灯前寻找黑褐色中型金龟。色朴素但圆润体形与趋光习性可辨。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黑金龟"
+    },
+    "common_name_en": "Black Chafer"
   },
   "Rhynchaglaea fuscipennis": {
     "sources": [
@@ -36915,7 +37564,11 @@
       "summary": "黑茶冬夜蛾（クロチャマダラキリガ）。本州至九州杂木林分布之夜蛾科中型蛾。前翅长 18-22 毫米，暗茶褐至黑褐翅具复杂斑纹。秋羽化，晚秋至冬季成虫活动之『冬蛾』。聚于树液。",
       "habitat_hint": "杂木林、神社林、河岸林、住宅庭院。阔叶树所在处。",
       "finding_tips": "十至翌二月晚秋至冬季夜间，于灯下与树液（栎树伤口）寻找暗茶褐中型蛾。寒季活动之罕见蛾之一。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "黑茶冬夜蛾"
+    },
+    "common_name_en": "Dark Brown Sallow"
   },
   "Episteira nigrilinearia": {
     "sources": [
@@ -36936,7 +37589,11 @@
       "summary": "淡绿波纹尺蛾（ウスミドリナミシャク）。本州至九州杂木林分布之尺蛾科小型蛾。前翅长 12-16 毫米，淡绿至浅绿翅具黑色细波纹之独特姿。拟叶。常于叶与草上观察之纤细美丽蛾。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树所在处。",
       "finding_tips": "五至九月，于杂木林与林缘叶上寻找淡绿底具黑色细波纹之小型蛾。拟叶需细察。绿色蛾少见纤细美丽。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "淡绿波纹尺蛾"
+    },
+    "common_name_en": "Pale Green Wave Moth"
   },
   "Neuroctenus castaneus": {
     "sources": [
@@ -36957,7 +37614,11 @@
       "summary": "棕色扁蝽（トビイロオオヒラタカメムシ）。本州至九州杂木林与神社林分布之扁蝽科中型蝽。体长 6-10 毫米，暗褐至栗色之极扁体（『大扁』之名）。藏于树皮缝隙与倒木下。拟树皮之独特姿。",
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树（尤栎）之树皮缝隙与倒木。",
       "finding_tips": "全年（暖季活跃），于杂木林剥树皮或翻倒木可见极扁之暗褐蝽。体甚薄贴附树皮之姿为特征。"
-    }
+    },
+    "aliases": {
+      "zh-Hans": "棕色扁蝽"
+    },
+    "common_name_en": "Brown Flat Bug"
   },
   "Scepticus insularis": {
     "sources": [
