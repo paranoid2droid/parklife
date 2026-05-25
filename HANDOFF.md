@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,641 visible species / 126,586 visible park-species pairs** as of commit `3aae6e9` (2026-05-25). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 33.8 MB). **2,009 species** have curated profiles in ja/en/zh/zhT (8,036 rows), up from 1,987 at the previous batch's end (+22 this batch via A11). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 96% (37 missing, of which 26 are alias-collision with synonymous species). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
+Project is in maintenance + enrichment mode. **461 parks / 9,641 visible species / 126,586 visible park-species pairs** as of 2026-05-25 (post-A12). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 33.8 MB). **2,031 species** have curated profiles in ja/en/zh/zhT (8,124 rows), up from 2,009 at the previous batch's end (+22 this batch via A12). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 96% (37 missing, of which 26 are alias-collision with synonymous species). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
 
 ## In progress
 
@@ -52,8 +52,8 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
      - **18 en NULL**: species where no English vernacular exists in iNat, Wikidata, or established literature (mostly truly obscure Japanese-endemic invertebrates). Future sweeps could try GBIF vernacularName again or accept dotted-underline fallback.
      - **37 zh-Hans missing**: of which **26 are alias-collision** (sidecar records a name, but DB INSERT rejected because the same Chinese name is already attached to a synonymous species — e.g. `黄腹鹨` claimed by *Anthus rubescens*, blocking *A. japonicus*). The collisions are real taxonomic synonyms; fully resolving them needs a species-merge pass or a schema change to allow many-aliases-per-name. The other **11** are truly missing.
 
-2. **Continue species_profile curation** *(at 2009 / 2026-05-25 — np=12 tier, in progress)*
-   - **Current state**: 2,009 species × 4 langs (8,036 rows) curated. Last batch `3aae6e9` (A11). Latest batch added +22 in np=12 tier (mixed amphibian/bird/insect; cleared most large-name candidates at np=12).
+2. **Continue species_profile curation** *(at 2031 / 2026-05-25 — np=12 tier, in progress)*
+   - **Current state**: 2,031 species × 4 langs (8,124 rows) curated. Last batch A12 (+22). Continues to clear np=12 long tail.
    - **Sidecar workflow** (proven, repeatable; entries must include `common_name_en` + `aliases.{zh-Hans,zh-Hant}` alongside the 4-language profile):
      1. Query top unprofiled: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' GROUP BY s.id ORDER BY np DESC LIMIT 30;"` (the SUBSTR clause skips romaji-only placeholders)
      2. Write batch script `/tmp/profile_batchN.py` that patches `data/species_profiles_extra.json` with entries shaped: `{"sources": [...], "common_name_en": "...", "aliases": {"zh-Hans": "..."}, "ja": {summary, habitat_hint, finding_tips}, "en": {...}, "zh": {...}}`. zhT auto-derived via OpenCC. Skip species whose `common_name_ja` starts with ASCII (romaji placeholder).
@@ -94,6 +94,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
   - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
+
+### 2026-05-25 (Claude) — profile curation A12 (2009→2031)
+- **+22 profiles** in 1 batch (A12), sidecar format with `common_name_en` + `aliases.{zh-Hans}` per entry.
+- Mix of np=12: birds (コヨシキリ, ハシボソミズナギドリ), coastal/cultural plants (ハマボウフウ, アサガオ, ウルシ — with handling warning, シシウド, クロチク, マメガキ, アップルミント), invasives (ハルザキヤマガラシ, キシュウスズメノヒエ), wetland (カワヂシャ), fern (アマクサシダ), edible bolete (ヤマドリタケモドキ — porcini relative), insects/spiders (シャチホコガ Lobster Moth, キンイロエビグモ, ハンゲツオスナキグモ, ウグイスナガタマムシ, クロモンサシガメ, シラオビゴマフケシカミキリ, オオキノメイガ), and ナギサノシタタリ micro coastal snail.
+- Backfilled +7 common_name_en + +30 aliases via sidecar. Doc export stays at 33.8 MB.
 
 ### 2026-05-25 (Claude) — profile curation A11 (1987→2009)
 - **+22 profiles** in 1 batch (commit `3aae6e9`), sidecar format with `common_name_en` + `aliases.{zh-Hans}` per entry.
