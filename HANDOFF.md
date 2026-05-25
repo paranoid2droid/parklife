@@ -40,18 +40,19 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Fix existing profiles' missing en/zh names** *(prioritized 2026-05-25)*
-   - **Problem**: 1,761 sidecar profile entries exist, but **609 have NULL `common_name_en`** in DB and **239 have no `zh-Hans` alias**. EN UI shows 35% of profiled cards with dotted-underline JA fallback; ZH UI shows 14% with EN/sci fallback. Profile body text in all four langs is fine — only the card title falls back.
-   - **Root cause**: prior batches wrote en/zh names *inside* the profile summary's opening clause (e.g. "Eastern Marsh Harrier. A large..." / "白腹鹞（チュウヒ）。..."), but never copied them into `species.common_name_en` / `species_alias zh-Hans`.
-   - **Sidecar now supports `common_name_en` + `aliases.{zh-Hans,zh-Hant}` fields** (commit `f124c86`). `seed_species_profiles.py` applies them idempotently (only fills empty/generic en, only inserts when alias absent).
-   - **Subtask 1.1 — extract names from existing profile summaries** (dry-run done):
-     - ZH regex `^([^（(。，,]{1,20}?)\s*[（(]`: 96 DB-miss candidates extractable. Add filter to reject names containing `的` or `一种` (descriptive phrases).
-     - EN regex `^([^.]{2,60})\.\s`: 411 DB-miss candidates extractable. Add: strip trailing ` (...)` qualifier; reject romaji-style names (lowercase/hyphen heavy, no real English words).
-     - Apply path: patch `species_profiles_extra.json` (write `common_name_en` / `aliases.zh-Hans` into entries), then re-run `seed_species_profiles`.
-   - **Subtask 1.2 — manually backfill remaining gap**: after 1.1, ~143 zh + ~198 en still missing (names not present in profile summaries either). Curate alongside future profile batches or sweep separately.
-   - **Until this is done, defer new profile-curation batches** so we don't accumulate more entries with the same en/zh gap.
+1. **Fix existing profiles' missing en/zh names** — **COMPLETE 2026-05-25** *(see commits `08b8514` → `bbfa587`)*
+   - **Final state**: common_name_en NULL went from 609 → 18 (97%); zh-Hans missing went from 239 → 37 (85%).
+   - **Sidecar `species_profiles_extra.json` now supports `common_name_en` + `aliases.{zh-Hans,zh-Hant}` fields per entry** (commit `f124c86`). `seed_species_profiles.py` applies them idempotently. **New batches must use this format**.
+   - **Pipeline used (in order)**:
+     1. Regex extraction from existing profile summaries (`/tmp/extract_names_apply.py`) → +385 en, +92 zh
+     2. iNat `/v1/taxa/{id}?locale=en|zh-CN` lookup (`scripts/inat_localized_names.py`) → +78 en, +95 zh
+     3. Wikidata residual SPARQL (`scripts/wikidata_residual_names.py`) → +1 en, +6 zh-Hans, +5 zh-Hant
+     4. Manual batches B1–B5 → +94 en, +29 zh-Hans (further sidecar entries patched even when alias-collisions blocked DB insert)
+   - **Residual ~55 gaps explained**:
+     - **18 en NULL**: species where no English vernacular exists in iNat, Wikidata, or established literature (mostly truly obscure Japanese-endemic invertebrates). Future sweeps could try GBIF vernacularName again or accept dotted-underline fallback.
+     - **37 zh-Hans missing**: of which **26 are alias-collision** (sidecar records a name, but DB INSERT rejected because the same Chinese name is already attached to a synonymous species — e.g. `黄腹鹨` claimed by *Anthus rubescens*, blocking *A. japonicus*). The collisions are real taxonomic synonyms; fully resolving them needs a species-merge pass or a schema change to allow many-aliases-per-name. The other **11** are truly missing.
 
-2. **Continue species_profile curation** *(at 1788 / 2026-05-25 — long-tail tier ~15-19 parks)* — **paused pending #1**
+2. **Continue species_profile curation** *(at 1788 / 2026-05-25 — long-tail tier ~15-19 parks)* — **unblocked, ready to resume**
    - **Current state**: 1,788 species × 4 langs (7,152 rows) curated. Last batch `9be2185` (batch A1, 10 entries, np 15-19 insects).
    - **Sidecar workflow** (proven, repeatable; **now includes `common_name_en` + `aliases.{zh-Hans,zh-Hant}` fields per entry**):
      1. Query top unprofiled: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' GROUP BY s.id ORDER BY np DESC LIMIT 30;"`
