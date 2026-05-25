@@ -40762,5 +40762,485 @@
       "habitat_hint": "杂木林、神社林、河岸林、公园之枯枝、倒木、树皮下、伐采迹。",
       "finding_tips": "五至九月，于杂木林枯枝与倒木寻找鞘翅中央附近具白斑或带之小型天牛。锈色鞘翅与背面中央白斑为辨识要点。动作缓慢。"
     }
+  },
+  "Alnus firma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤシャブシ。本州（関東以西）から九州の崩壊地・痩せ尾根に生えるカバノキ科ハンノキ属の落葉小高木。根に放線菌を共生させ窒素固定するため、荒地・崩壊地の先駆樹種として植栽される。",
+      "habitat_hint": "痩せ尾根、海岸近くの崖地、伐採跡地、砂防植栽地。",
+      "finding_tips": "3〜4月、葉に先立って雄花の長い穂が垂れます。葉脈が13〜17対と多く、深く窪むのが識別点。秋の松かさ状の果穂は染料に使われます。"
+    },
+    "en": {
+      "summary": "Japanese green alder. A small deciduous tree of the birch family found from western Honshu to Kyushu on poor ridges and disturbed slopes. Its nitrogen-fixing root nodules make it a classic pioneer species, often planted for erosion control.",
+      "habitat_hint": "Dry ridges, coastal cliffs, cut-over slopes, sand-stabilization plantings.",
+      "finding_tips": "March–April look for the long drooping male catkins before leaves appear. The deeply impressed leaf veins (13–17 pairs) and persistent cone-like fruit clusters are diagnostic."
+    },
+    "zh": {
+      "summary": "夜叉五倍子（ヤシャブシ）。日本本州西部至九州贫瘠山脊及崩塌地常见的桦木科桤木属落叶小乔木。根部具放线菌共生固氮，常被作为先驱树种用于荒地绿化与水土保持。",
+      "habitat_hint": "干瘠山脊、海岸悬崖、迹地、砂防造林地。",
+      "finding_tips": "3 至 4 月先叶开花，雄花序细长下垂。叶脉 13–17 对深陷为识别要点，秋季的木质球果状果穗曾用作黑色染料。"
+    }
+  },
+  "Scopelodes contracta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black slug moth",
+    "ja": {
+      "summary": "ヒメクロイラガ。本州〜九州に分布するイラガ科の小型蛾。幼虫はナシ・カキ・サクラなどの葉裏に群生し、棘に毒があるため触れると激痛が走ります。",
+      "habitat_hint": "雑木林の縁、果樹園、公園のサクラやカキの並木。",
+      "finding_tips": "6〜9月、灯火に飛来する黒褐色の小蛾。幼虫は黄緑色で背に橙色斑、葉裏の食害痕から探します。素手で触らないこと。"
+    },
+    "en": {
+      "summary": "A small black slug-moth (family Limacodidae) found from Honshu to Kyushu. Larvae cluster on the undersides of pear, persimmon, and cherry leaves; their stinging spines deliver a painful, burning irritation on contact.",
+      "habitat_hint": "Woodland edges, orchards, park cherry and persimmon plantings.",
+      "finding_tips": "June–September the dark adults come to lights. Look for clusters of yellow-green caterpillars with orange dorsal spots on leaf undersides — do not touch with bare hands."
+    },
+    "zh": {
+      "summary": "纵带球须刺蛾（ヒメクロイラガ）。日本本州至九州常见的刺蛾科小型蛾。幼虫群集于梨、柿、樱叶背面，毒刺触之剧痛灼烧。",
+      "habitat_hint": "杂木林缘、果园、公园樱花与柿树行道。",
+      "finding_tips": "6 至 9 月成虫趋光，黑褐色小蛾。幼虫黄绿色、背具橙斑，集中于叶背为害——切勿徒手触碰。"
+    }
+  },
+  "Pistius undulatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wavy crab spider",
+    "ja": {
+      "summary": "ガザミグモ。本州〜九州の雑木林に生息するカニグモ科のクモ。腹部後縁が大きく張り出してカニのような輪郭になることが和名の由来で、葉上で待ち伏せて昆虫を捕らえます。",
+      "habitat_hint": "雑木林の下草、低木の葉上、公園の生垣。",
+      "finding_tips": "5〜8月、低木の葉上で前肢を広げて静止している姿を探します。腹部側縁が波打って張り出すのが識別点。"
+    },
+    "en": {
+      "summary": "A crab spider (Thomisidae) found from Honshu to Kyushu. Named for the broadly flared, wavy posterior abdomen that gives it a crab-like silhouette; it ambushes insects from leaf surfaces.",
+      "habitat_hint": "Understory, low shrubs, park hedges.",
+      "finding_tips": "May–August scan shrub leaves for an immobile spider with arms outstretched. The wavy, laterally flared abdomen is diagnostic."
+    },
+    "zh": {
+      "summary": "波状截腹蛛（ガザミグモ）。日本本州至九州杂木林常见的蟹蛛科蜘蛛。腹部后缘大幅外展呈蟹形轮廓，多于叶面伏击昆虫。",
+      "habitat_hint": "林下灌丛、低矮叶面、公园绿篱。",
+      "finding_tips": "5 至 8 月，注意叶面上静止张臂的蜘蛛。腹缘波状外展为最佳识别特征。"
+    }
+  },
+  "Spondylis buprestoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pine sawyer",
+    "ja": {
+      "summary": "クロカミキリ。北海道〜九州に分布する黒色の中型カミキリムシ。マツやスギなど針葉樹の枯死材に集まり、夜間は灯火にもよく飛来します。",
+      "habitat_hint": "マツ林、スギ・ヒノキ林、伐採地の貯木場。",
+      "finding_tips": "6〜9月、夜間の灯火や針葉樹の伐倒木で見つかります。光沢のある黒一色、ずんぐりした体型と短い触角が他のカミキリと違うポイント。"
+    },
+    "en": {
+      "summary": "A glossy black medium-sized longhorn beetle (Cerambycidae) ranging across Japan, associated with dead pine, fir, and cedar wood. Common at lights at night and at conifer log piles.",
+      "habitat_hint": "Pine and cedar forests, log yards, conifer clear-cuts.",
+      "finding_tips": "June–September come to lights at night or check fresh conifer logs. Uniform shiny black, stout body, and short antennae set it apart from other longhorns."
+    },
+    "zh": {
+      "summary": "短角幽天牛（クロカミキリ）。日本全境分布的黑色中型天牛，多寄生于松、杉等针叶树枯木，夜间趋光性强。",
+      "habitat_hint": "松林、杉桧林、采伐地原木堆。",
+      "finding_tips": "6 至 9 月夜间灯下或针叶树倒木旁可见。通体黝黑发亮、体型粗壮、触角较短为识别要点。"
+    }
+  },
+  "Homoeocerus striicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Striped-antenna leaf-footed bug",
+    "ja": {
+      "summary": "オオクモヘリカメムシ。本州〜九州に分布するヘリカメムシ科の大型カメムシ。ネムノキを主な寄主とし、夏にネムの花や若い莢に群がります。触ると強い青リンゴ臭を放ちます。",
+      "habitat_hint": "ネムノキのある雑木林縁、河川敷、公園植栽。",
+      "finding_tips": "6〜9月、ネムノキの花序や若い莢の上で群れています。緑褐色で触角先端が黒く、長い後脚がよく目立つのが特徴。"
+    },
+    "en": {
+      "summary": "A large leaf-footed bug (Coreidae) of Honshu through Kyushu, specialized on silk tree (Albizia julibrissin). Adults gather on flowers and young pods in summer, releasing a strong green-apple odor when disturbed.",
+      "habitat_hint": "Forest edges and parks with mimosa/silk trees, riparian thickets.",
+      "finding_tips": "June–September look on Albizia flower clusters and young pods. Greenish-brown body, black antennal tip, and conspicuously long hind legs are diagnostic."
+    },
+    "zh": {
+      "summary": "纹须同缘蝽（オオクモヘリカメムシ）。日本本州至九州合欢树上常见的大型缘蝽，夏季群集于合欢花与嫩荚，受惊时散发浓烈青苹果气味。",
+      "habitat_hint": "合欢生长的林缘、河滩、公园绿地。",
+      "finding_tips": "6 至 9 月，合欢花序与嫩荚上群集。体绿褐、触角末节黑、后足细长为识别要点。"
+    }
+  },
+  "Tipula nova": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Window crane fly",
+    "ja": {
+      "summary": "マドガガンボ。本州〜九州の湿った林床や渓流沿いに見られる中型のガガンボ。翅に半透明の小窓状斑があり、和名の由来となっています。蚊に似ますが吸血しません。",
+      "habitat_hint": "湿った雑木林、渓流沿い、湿地の縁。",
+      "finding_tips": "4〜10月、薄暗い林床や葉裏で休んでいるのを探します。翅の白い窓状斑と長い脚で他のガガンボと区別できます。"
+    },
+    "en": {
+      "summary": "A medium-sized crane fly of damp woodlands and streamsides from Honshu to Kyushu. The translucent 'window' patches on the wings give the species its Japanese name. Mosquito-like in shape but harmless.",
+      "habitat_hint": "Moist secondary woods, streamsides, wetland edges.",
+      "finding_tips": "April–October look on shaded leaves and tree trunks. The clear pale window patches on each wing and the long dangling legs are diagnostic."
+    },
+    "zh": {
+      "summary": "香港大蚊（マドガガンボ）。日本本州至九州潮湿林地与溪边可见的中型大蚊。翅面具半透明窗状斑纹，外形似蚊但不吸血。",
+      "habitat_hint": "潮湿杂木林、溪流边、湿地林缘。",
+      "finding_tips": "4 至 10 月在阴湿叶背或树干上停息。翅上透明窗斑与细长悬垂之足为识别要点。"
+    }
+  },
+  "Vulpes vulpes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red Fox",
+    "ja": {
+      "summary": "アカギツネ。本州・四国・九州に広く分布する中型の食肉目で、日本産はホンドギツネ亜種。雑食性で、農地・里山・河川敷を中心に夜間活動します。狂犬病・エキノコックス症の媒介リスクから、見ても触れないこと。",
+      "habitat_hint": "里山、草地、河川敷、農地の縁、夜間の公園。",
+      "finding_tips": "夕方〜早朝が出会いやすい時間帯。長いふさふさの尾の先が白いのが識別点。糞には毛や種子が混じります。"
+    },
+    "en": {
+      "summary": "Red fox. A widespread medium-sized canid; the Japanese mainland subspecies (Hondo fox) inhabits Honshu, Shikoku, and Kyushu. Omnivorous and largely nocturnal in farmland, satoyama, and riverbanks. Do not approach — fox dung carries Echinococcus risk in Hokkaido and ticks elsewhere.",
+      "habitat_hint": "Satoyama, grasslands, riverbanks, field margins, parks at night.",
+      "finding_tips": "Look at dusk and dawn. The bushy white-tipped tail and slender muzzle are diagnostic; scats often hold fur and seeds."
+    },
+    "zh": {
+      "summary": "赤狐（アカギツネ）。日本本州、四国、九州广泛分布的中型食肉目，本土亚种为本州狐。杂食偏夜行，多见于里山、农田、河滩。注意：狐粪可能携带包虫病等寄生虫，切勿接触。",
+      "habitat_hint": "里山、草地、河滩、田缘、夜间公园。",
+      "finding_tips": "黄昏与清晨最易遇见。蓬松大尾末端白色为识别要点；粪便常含毛与种子。"
+    }
+  },
+  "Zaptyx buschii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Busch's clausiliid snail",
+    "aliases": {
+      "zh-Hans": "光烟管螺"
+    },
+    "ja": {
+      "summary": "ヒカリギセル。本州〜九州の落葉広葉樹林の林床に住むキセルガイ科の小型陸貝。殻が光沢のある暗褐色で煙管状、湿った落ち葉の下で見つかります。",
+      "habitat_hint": "湿った広葉樹林の林床、落ち葉や倒木の下、石灰岩地。",
+      "finding_tips": "梅雨時から秋にかけて、落ち葉や倒木の裏を返して探します。光沢のある細長い暗褐色の殻が特徴です。"
+    },
+    "en": {
+      "summary": "Busch's clausiliid snail. A small glossy land snail of broadleaf forest floors from Honshu to Kyushu. The sickle-shaped, dark brown, glossy shell sits under damp leaf litter and rotting logs.",
+      "habitat_hint": "Damp broadleaf forest floor, under leaf litter and logs, limestone areas.",
+      "finding_tips": "Rainy season through autumn, lift damp leaf litter and rotting wood. The narrow, glossy, dark-brown spire-shell is diagnostic."
+    },
+    "zh": {
+      "summary": "光烟管螺（ヒカリギセル）。日本本州至九州阔叶林林下常见的烟管螺科小型陆生贝。壳呈光泽暗褐色细长烟管状，藏于潮湿落叶与朽木下。",
+      "habitat_hint": "潮湿阔叶林林床、落叶与倒木下、石灰岩地。",
+      "finding_tips": "梅雨至秋季翻看湿润落叶与朽木背面。细长光泽的暗褐烟管壳为识别要点。"
+    }
+  },
+  "Phytoecia rufiventris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chrysanthemum stem borer",
+    "ja": {
+      "summary": "キクスイカミキリ。本州〜九州の草地に普通な小型カミキリ。和名通りキク科植物の茎を産卵時に環状に齧り、上部を萎れさせる加害特性で知られます。",
+      "habitat_hint": "野菊・ヨモギ・キクなどキク科の生える草地、公園の花壇。",
+      "finding_tips": "5〜7月、キク科植物の茎を見回り、上部だけ萎れた株を探すと根元近くに成虫がいます。胸部の橙色と黒い前翅のコントラストが目印。"
+    },
+    "en": {
+      "summary": "A small longhorn beetle of grasslands across Honshu through Kyushu. Females girdle the stems of asters and chrysanthemums when laying eggs, causing the upper stem to wilt — the signature of this species.",
+      "habitat_hint": "Grasslands with wild chrysanthemums, mugwort, garden chrysanthemum beds.",
+      "finding_tips": "May–July walk along chrysanthemum or aster patches. A plant with the upper stem freshly wilted usually has the orange-and-black adult near the cut."
+    },
+    "zh": {
+      "summary": "菊小筒天牛（キクスイカミキリ）。日本本州至九州草地常见的小型天牛。雌虫产卵时环切菊科植物茎部，造成上段枯萎，是其典型为害特征。",
+      "habitat_hint": "野菊、艾草、栽培菊等所在的草地与花坛。",
+      "finding_tips": "5 至 7 月巡视菊科植株，上段萎垂者多有成虫在切口附近。胸部橙色、鞘翅黑色之对比醒目。"
+    }
+  },
+  "Zonitoides arboreus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コハクガイ。世界各地に広がる外来の小型陸貝で、日本でも公園や農地の温室・植え込みに普通。殻は淡い琥珀色で半透明、しばしば鉢植えに紛れて持ち込まれます。",
+      "habitat_hint": "公園の植え込み、温室、花壇、湿った石垣。",
+      "finding_tips": "通年、湿った落ち葉や植木鉢の裏で見つかります。直径5mm程度の半透明の琥珀色平円形殻が特徴。"
+    },
+    "en": {
+      "summary": "Quick gloss snail. A small cosmopolitan introduced land snail, common around Japanese parks, greenhouses, and ornamental plantings. Often dispersed in potted plants.",
+      "habitat_hint": "Park plantings, greenhouses, flower beds, damp stonework.",
+      "finding_tips": "Year-round under wet leaf litter and pot bases. The flat, ~5 mm translucent amber shell is diagnostic."
+    },
+    "zh": {
+      "summary": "树琥珀蜗牛（コハクガイ）。原产北美、广布全球的外来小型陆生贝，日本园圃、温室与植栽中常见，常随盆栽传播。",
+      "habitat_hint": "公园绿化、温室、花坛、潮湿石壁。",
+      "finding_tips": "全年于湿润落叶与花盆底部可见。直径约 5 mm、扁平半透明的琥珀色壳为识别要点。"
+    }
+  },
+  "Thyris usitata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Window-winged moth",
+    "aliases": {
+      "zh-Hans": "斑窗蛾"
+    },
+    "ja": {
+      "summary": "マドガ。本州〜九州に分布するマドガ科の小型蛾。黒褐色の翅に小さな半透明の白斑（窓）が点在することが和名の由来。日中もよく飛び、花にも訪れます。",
+      "habitat_hint": "雑木林の林縁、河川敷、ボタンヅル・センニンソウの生える草地。",
+      "finding_tips": "5〜9月、昼間に花を訪れている黒い小蛾を探します。翅の白い小窓と短く扇形に広げた休止姿勢が識別点。"
+    },
+    "en": {
+      "summary": "Window-winged moth. A small day-flying moth (Thyrididae) of Honshu through Kyushu. The translucent white window-spots scattered on the dark brown wings give it both its English and Japanese names.",
+      "habitat_hint": "Woodland edges, riverbanks, meadows with virgin's-bower (Clematis).",
+      "finding_tips": "May–September look for tiny black moths visiting flowers by day. The translucent wing windows and the short, fan-spread resting posture are diagnostic."
+    },
+    "zh": {
+      "summary": "斑窗蛾（マドガ）。日本本州至九州常见的窗蛾科小型蛾。翅黑褐色，散布半透明白色窗状斑，常昼飞访花。",
+      "habitat_hint": "杂木林缘、河滩、铁线莲属植物所在的草地。",
+      "finding_tips": "5 至 9 月白昼访花，注意黑色小蛾。翅上透明窗斑与短扇形展翅停姿为识别要点。"
+    }
+  },
+  "Zizania latifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マコモ。北海道〜九州の湖沼や水路の浅水域に群生するイネ科の大型多年草。秋に若い茎が黒穂菌に感染して肥大したものは『マコモタケ』として食用にされます。",
+      "habitat_hint": "湖沼の岸辺、用水路、ため池、ヨシ原に隣接する浅水域。",
+      "finding_tips": "8〜10月、水際で高さ1〜2mに伸びた群落を探します。葉が長く扁平で中肋が淡色、上部の細長い円錐花序が識別点。"
+    },
+    "en": {
+      "summary": "Manchurian wild rice. A tall (1–2 m) emergent grass forming stands at lake margins and ditches across Japan. The basal stems, infected by a smut fungus, swell into the edible vegetable 'makomotake'.",
+      "habitat_hint": "Lake margins, irrigation channels, ponds, reed-bed edges.",
+      "finding_tips": "August–October scan emergent water margins for tall, broad-leaved grass stands. The long flat leaves with a pale midrib and the narrow upper panicle are diagnostic."
+    },
+    "zh": {
+      "summary": "茭白筍／菰（マコモ）。日本北海道至九州湖沼、水沟边广布的禾本科大型多年生水生草本。秋季基部受黑穗菌侵染膨大后即为食用的茭白笋。",
+      "habitat_hint": "湖岸、灌渠、池塘、芦苇丛旁浅水带。",
+      "finding_tips": "8 至 10 月，注意 1–2 m 高的水边群落。叶长扁、中脉色浅、上部窄圆锥花序为识别要点。"
+    }
+  },
+  "Toxicodendron orientale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツタウルシ。北海道〜九州に分布するウルシ科のつる性落葉樹。気根で樹幹を這い登り、3枚の小葉と紅葉が美しい一方で、樹液は強いかぶれを引き起こすため触れないこと。",
+      "habitat_hint": "落葉広葉樹林の林縁、樹幹、岩場、登山道沿い。",
+      "finding_tips": "通年見られますが、夏は艶のある三出複葉、秋は燃えるような紅葉が目印。樹液はウルシより強い接触皮膚炎を起こす危険があり、絶対に触らないこと。"
+    },
+    "en": {
+      "summary": "Asian poison ivy. A deciduous woody vine of the cashew family found throughout Japan; climbs trunks with aerial rootlets. Beautiful in autumn but the sap causes severe contact dermatitis — do not touch any part.",
+      "habitat_hint": "Forest edges, tree trunks, rocky outcrops, trail-sides.",
+      "finding_tips": "Year-round. Glossy three-leaflet leaves in summer; brilliant scarlet to crimson in autumn. The aerial rootlets clinging to bark are diagnostic. Treat as more irritating than poison sumac — do not touch."
+    },
+    "zh": {
+      "summary": "蔦漆（ツタウルシ）。日本全境分布的漆树科木质攀缘藤本，借气生根攀附树干。三出复叶夏季鲜亮，秋叶火红，但树液致强烈接触性皮炎，切勿触碰。",
+      "habitat_hint": "阔叶林缘、树干、岩壁、登山道两侧。",
+      "finding_tips": "全年可见。夏季光亮的三出复叶、秋季火红叶色与攀附气生根为识别要点；汁液过敏比漆树更剧，请远观。"
+    }
+  },
+  "Nanocnide japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カテンソウ。本州〜九州の林床・路傍に群生するイラクサ科の小型多年草。葉や茎には弱い刺毛があり、触れるとわずかにヒリつきます。雄花序が伸びて葯が弾ける様子が観察対象として人気。",
+      "habitat_hint": "湿った雑木林の林床、林縁、半日陰の石垣。",
+      "finding_tips": "4〜5月、林床で5〜15cmの小群落を探します。雄花の葯が弾けて花粉を飛ばす瞬間が見どころ。"
+    },
+    "en": {
+      "summary": "Serrate nanocnide. A small nettle-family perennial of damp woodland floors and shaded paths from Honshu to Kyushu. Weakly stinging hairs cause only mild irritation. Famous for its explosive male flowers, which fling pollen on opening.",
+      "habitat_hint": "Damp woodland floor, forest edges, shady stonework.",
+      "finding_tips": "April–May look for 5–15 cm patches in the shade. Watching the male anthers snap open and puff pollen is the highlight."
+    },
+    "zh": {
+      "summary": "花点草（カテンソウ）。日本本州至九州林下与路旁成片的荨麻科小型多年生草本。茎叶具弱刺毛，轻触微刺感。雄花花药弹射散粉的瞬间最为有趣。",
+      "habitat_hint": "潮湿杂木林林床、林缘、半阴石垣。",
+      "finding_tips": "4 至 5 月，林下小片群落 5–15 cm 高。注意观察雄花花药弹开释放花粉的瞬间。"
+    }
+  },
+  "Rhachidosorus mesosorus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glossy axis fern",
+    "ja": {
+      "summary": "ヌリワラビ。本州〜九州の石灰岩地や陰湿な岩場に生えるイワデンダ科の中型シダ。葉柄と中軸に光沢のある黒褐色の鱗片があり、和名のとおり漆を塗ったような艶が特徴。",
+      "habitat_hint": "石灰岩地、渓谷の岩場、陰湿な林床。",
+      "finding_tips": "通年、岩の隙間や崖の側面の暗い場所を探します。光沢の強い暗色の葉柄と長楕円形の2回羽状葉、軸沿いに並ぶ細長いソーラスが識別点。"
+    },
+    "en": {
+      "summary": "A medium-sized fern of damp limestone outcrops and shaded rocks from Honshu to Kyushu. The lacquer-like, glossy black-brown rachis gives the species its Japanese name.",
+      "habitat_hint": "Limestone outcrops, shaded gorge walls, damp forest floor.",
+      "finding_tips": "Year-round on shaded rocks and cliff faces. Look for the strikingly glossy dark stipe and rachis, twice-pinnate fronds, and the elongate sori running along the pinnule axis."
+    },
+    "zh": {
+      "summary": "轴果蕨（ヌリワラビ）。日本本州至九州石灰岩地与阴湿岩壁上的中型蕨类，叶柄与叶轴呈漆黑光泽，故有「漆涂」之名。",
+      "habitat_hint": "石灰岩地、溪谷岩壁、阴湿林床。",
+      "finding_tips": "全年于背阴石缝与崖壁可见。叶柄漆黑光亮、二回羽状叶、沿小羽轴排列的长形孢子囊群为识别要点。"
+    }
+  },
+  "Toxicodendron trichocarpum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマウルシ。北海道〜九州の山地林縁や伐採跡地に生えるウルシ科の落葉小高木。秋の紅葉が美しい一方で、樹液は強いかぶれを起こすため、絶対に触らないこと。",
+      "habitat_hint": "山地の林縁、伐採跡地、林道沿い、明るい二次林。",
+      "finding_tips": "5〜6月、淡黄緑色の小花を円錐状に咲かせます。奇数羽状複葉、若枝・葉柄の赤みと毛深い果実が識別点。秋の真っ赤な紅葉が目立ちます。"
+    },
+    "en": {
+      "summary": "Hairy-fruit lacquer tree. A small deciduous tree of montane forest edges and clearings across Japan. Brilliant crimson autumn foliage, but the sap causes severe contact dermatitis — do not handle.",
+      "habitat_hint": "Mountain forest edges, clear-cuts, roadsides, bright secondary woods.",
+      "finding_tips": "May–June pale yellow-green flowers in panicles. Identify by the odd-pinnate compound leaves, reddish-hairy young twigs, and the densely hairy fruit. Stunning red autumn color from a distance is its calling card — observe from a safe distance."
+    },
+    "zh": {
+      "summary": "毛漆树（ヤマウルシ）。日本全境山地林缘与采伐迹地的漆树科落叶小乔木。秋叶艳红，但树液致强烈接触性皮炎，切勿触碰。",
+      "habitat_hint": "山地林缘、迹地、林道两侧、明亮的次生林。",
+      "finding_tips": "5 至 6 月开淡黄绿色圆锥小花。奇数羽状复叶、嫩枝叶柄泛红、果实密被毛为识别要点；秋季鲜红叶色远远可辨——请远观。"
+    }
+  },
+  "Tradescantia ohiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムラサキツユクサ。北米原産の帰化植物で、日本では本州〜九州の道端・空地・河川敷に広く野生化したツユクサ科の多年草。鮮やかな紫青の3弁花を午前中だけ咲かせます。",
+      "habitat_hint": "道端、空き地、河川敷、公園の植栽地周辺。",
+      "finding_tips": "5〜7月の午前、草丈50cm前後で青紫の3弁花を咲かせます。花は午後にはしぼみますが、毎日次々と新しい花を出すため群落は長く目立ちます。"
+    },
+    "en": {
+      "summary": "Ohio spiderwort. A North American perennial widely naturalized along roadsides and riverbanks in Honshu through Kyushu. Brilliant purple-blue three-petalled flowers open in the morning and close by afternoon.",
+      "habitat_hint": "Roadsides, waste ground, riverbanks, park margins.",
+      "finding_tips": "May–July in the morning. Look for 50 cm clumps with three-petalled purple-blue flowers and grass-like leaves. Flowers wilt by afternoon but new ones open daily for weeks."
+    },
+    "zh": {
+      "summary": "紫露草（ムラサキツユクサ）。北美原产、归化于日本本州至九州路旁、空地、河滩的鸭跖草科多年生草本。上午盛开紫蓝色三瓣花，午后即萎，但次第开放可观赏数周。",
+      "habitat_hint": "路旁、空地、河滩、公园边缘。",
+      "finding_tips": "5 至 7 月上午观察，株高约 50 cm，紫蓝色三瓣花清晰可辨。下午闭合，但群落每日续放。"
+    }
+  },
+  "Oxybasis glauca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウラジロアカザ。ユーラシア〜北米原産で日本にも帰化しているヒユ科の一年草。葉裏が白粉を帯びて灰白色になることが和名の由来。河川敷や塩湿地、空き地に生えます。",
+      "habitat_hint": "河川敷、塩性湿地、空き地、海岸近くの撹乱地。",
+      "finding_tips": "7〜10月、葉裏をめくって白粉状の灰白色を確認します。葉縁の浅い波状鋸歯と穂状に集まる小さな緑花が識別点。"
+    },
+    "en": {
+      "summary": "Oak-leaf goosefoot. An annual of the amaranth family naturalized in Japan from Eurasia and North America. The pale, mealy-white leaf undersides give it both English and Japanese names; found on riverbanks, saline flats, and waste ground.",
+      "habitat_hint": "Riverbanks, saline wetlands, waste ground, disturbed coastal ground.",
+      "finding_tips": "July–October flip leaves to confirm the pale, mealy underside. The shallowly wavy-toothed margins and small green flowers in dense spikes are diagnostic."
+    },
+    "zh": {
+      "summary": "灰绿藜（ウラジロアカザ）。原产欧亚与北美、归化于日本的苋科一年生草本。叶背粉白即和名由来；多见于河滩、盐湿地与空地。",
+      "habitat_hint": "河滩、盐性湿地、空地、海岸扰动地。",
+      "finding_tips": "7 至 10 月翻看叶背确认粉白色泽。叶缘浅波状齿、绿色小花密集成穗为识别要点。"
+    }
+  },
+  "Iris laevigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rabbit-ear iris",
+    "ja": {
+      "summary": "カキツバタ。本州〜九州の浅い沼沢や池畔に群生するアヤメ科の多年草。古来、藍染めや和歌の題材として愛され、5月の青紫色の大きな花は日本庭園の象徴的な景色。",
+      "habitat_hint": "浅い沼沢、池畔の水際、湿地、公園の花菖蒲園。",
+      "finding_tips": "5月、水際で60〜80cmの剣状葉に大きな青紫色の花。外花被片中央の白い縦筋（黄色斑がない）が同属のハナショウブ・アヤメとの識別点。"
+    },
+    "en": {
+      "summary": "Rabbit-ear iris. A perennial iris of shallow marshes and pond margins across Japan, beloved in classical poetry and Japanese gardens. The large violet-blue flowers in May are iconic.",
+      "habitat_hint": "Shallow marshes, pond edges, wetlands, ornamental iris gardens.",
+      "finding_tips": "May, on water margins. The 60–80 cm sword-shaped leaves and large violet flowers with a clean white (not yellow) signal stripe down the falls separate it from Japanese iris (I. ensata) and Siberian iris."
+    },
+    "zh": {
+      "summary": "燕子花（カキツバタ）。日本本州至九州浅沼与池畔成丛生长的鸢尾科多年生草本，自古为染料与和歌题材，亦是日式庭园五月的标志景观。",
+      "habitat_hint": "浅沼、池缘水际、湿地、公园花菖蒲园。",
+      "finding_tips": "5 月水边可见，剑形叶 60–80 cm，紫蓝大花。外花被中央仅有白色纵纹（无黄斑），借此与花菖蒲、鸢尾区别。"
+    }
+  },
+  "Monotropastrum humile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ギンリョウソウ。北海道〜九州の暗い林床に生えるツツジ科（旧シャクジョウソウ科）の腐生植物。葉緑素を持たず全身が白く半透明、菌類から栄養を得ます。別名「ユウレイタケ」。",
+      "habitat_hint": "湿った杉林・モミ林の林床、落葉が厚く積もる薄暗い場所。",
+      "finding_tips": "5〜7月の梅雨時、落ち葉の間から白い透き通った花茎が10cmほど顔を出します。下向きに咲く花の中心の青い柱頭が印象的。"
+    },
+    "en": {
+      "summary": "Ghost plant. A waxy-white, chlorophyll-less mycoheterotroph of dark forest floors throughout Japan. It steals carbon from fungi and is sometimes called 'monkflower' or 'ghost pipe' in Japan.",
+      "habitat_hint": "Dark forest floor under cedar or fir, places with deep leaf litter.",
+      "finding_tips": "May–July, during the rainy season. Look for 10 cm translucent white stems pushing up through leaf litter. The downward-facing flowers reveal a striking blue stigma when peered into."
+    },
+    "zh": {
+      "summary": "球果假水晶兰（ギンリョウソウ）。日本全境阴湿林床的腐生植物，杜鹃花科（旧水晶兰科），通体蜡白半透明，借真菌取得营养，故俗称「幽灵草」。",
+      "habitat_hint": "杉林、冷杉林林床，落叶深厚的阴湿处。",
+      "finding_tips": "5 至 7 月梅雨期，从落叶层钻出 10 cm 半透明白色花茎。低垂花心可见鲜明的蓝色柱头。"
+    }
+  },
+  "Prunus subhirtella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コヒガン。本州・四国・九州の山地に自生するバラ科サクラの一種で、エドヒガンとマメザクラの自然雑種起源と考えられています。春の彼岸ごろ、葉より先に淡紅色の小ぶりな花を咲かせます。",
+      "habitat_hint": "山地の谷筋、雑木林、神社境内、公園の植栽。",
+      "finding_tips": "3月中旬〜下旬、葉より先に淡紅色〜白色の小型の花を咲かせます。萼筒が壺型に膨らみ、花軸が短いのが識別点。"
+    },
+    "en": {
+      "summary": "Higan cherry. A small-flowered wild cherry of montane Japan, considered a natural hybrid of Edo-higan (P. itosakura) and mame-zakura (P. incisa). Pale-pink flowers open before leaves around the spring equinox.",
+      "habitat_hint": "Mountain valleys, secondary forest, shrine grounds, park plantings.",
+      "finding_tips": "Mid- to late March. Pale pink to white smallish flowers appear before leaves. The swollen pot-shaped calyx tube and short pedicels separate it from yoshino and yamazakura."
+    },
+    "zh": {
+      "summary": "江户彼岸／大叶早樱（コヒガン）。日本本州、四国、九州山地野生的蔷薇科樱属小花型樱花，被认为是江户彼岸樱与豆樱的天然杂种。早春彼岸前后先叶开花，色淡粉。",
+      "habitat_hint": "山间谷地、杂木林、神社境内、公园植栽。",
+      "finding_tips": "3 月中下旬先叶开花，花淡粉至白、个头较小。萼筒膨大成壶形、花梗较短为识别要点。"
+    }
+  },
+  "Macaca fuscata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese macaque",
+    "ja": {
+      "summary": "ニホンザル。本州・四国・九州・屋久島に分布する日本固有のサル。雪に耐える世界最北のサルで、群れで生活し、果実・芽・昆虫など何でも食べる雑食性。野生個体には絶対に餌をやらず、目を合わせないこと。",
+      "habitat_hint": "落葉樹林、照葉樹林、山地から人里近くまで。観光地周辺にも出没。",
+      "finding_tips": "早朝〜午前中、樹上や林道で群れに出会いやすい。赤い顔と尻、ずんぐりした体型が特徴。荷物を奪う事故が多いので食べ物を見せず、走らず、ゆっくり離れること。"
+    },
+    "en": {
+      "summary": "Japanese macaque. Japan's endemic monkey, ranging across Honshu, Shikoku, Kyushu, and Yakushima. The world's northernmost non-human primate, troops-living and omnivorous. Never feed or make eye contact — they snatch bags and food aggressively.",
+      "habitat_hint": "Deciduous and evergreen broadleaf forest, mountains down to villages, tourist areas.",
+      "finding_tips": "Early morning to midday, in trees and along forest roads. Look for the red face and rump and short, stocky build. Keep food out of sight, do not run, and back away slowly."
+    },
+    "zh": {
+      "summary": "日本猕猴（ニホンザル）。日本本州、四国、九州、屋久岛特有猴类，世界分布最北的非人灵长类。群居杂食。野外切勿喂食或对视，常抢夺背包与食物。",
+      "habitat_hint": "落叶阔叶林、照叶林，自山地至人居附近，亦见于观光地。",
+      "finding_tips": "清晨至上午在林中或林道边遇见率高。红色脸部与臀部、矮胖体型为识别要点。切勿展示食物、勿奔跑，缓慢后退即可。"
+    }
   }
 }
