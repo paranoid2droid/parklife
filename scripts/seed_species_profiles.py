@@ -597,13 +597,23 @@ def profile_variants(sci: str, ja_profile: dict[str, str | list[str]]) -> dict[s
     return variants
 
 
+EXTRA_RAW: dict[str, dict] = {}
+
+
 def load_extra_profiles() -> None:
     """Merge entries from data/species_profiles_extra.json into the two
     in-memory dicts. The JSON file is the bulk-curation channel: each top-
     level entry keys on the scientific name and carries `ja`, `en`, `zh`
     sub-objects plus `sources`. Letting it override means individual edits
     in PROFILES_JA / PROFILES_EN_ZH still win for any species also listed
-    in the JSON."""
+    in the JSON.
+
+    Optional per-entry fields also consumed by ``apply_extra_aliases``:
+      - ``common_name_en``: backfill into species.common_name_en if empty
+        or generic (Moth/Butterfly/Beetle/Fly/Bug).
+      - ``aliases``: mapping of lang -> raw_name, inserted into
+        species_alias if absent. Typical langs: ``zh-Hans``, ``zh-Hant``.
+    """
     path = ROOT / "data" / "species_profiles_extra.json"
     if not path.exists():
         return
@@ -612,6 +622,7 @@ def load_extra_profiles() -> None:
     except Exception as e:
         print(f"warn: failed to load {path}: {e}")
         return
+    EXTRA_RAW.update(data)
     for sci, payload in data.items():
         ja = payload.get("ja") or {}
         sources = payload.get("sources") or ["Wikipedia", "iNaturalist"]
@@ -641,6 +652,53 @@ def load_extra_profiles() -> None:
             PROFILES_EN_ZH[sci] = entry
 
 
+GENERIC_EN_NAMES = {"moth", "butterfly", "beetle", "fly", "bug", "spider", "fern"}
+
+
+def apply_extra_aliases(conn) -> tuple[int, int]:
+    """Backfill species.common_name_en and species_alias rows from the
+    optional ``common_name_en`` / ``aliases`` fields in
+    ``species_profiles_extra.json``. Idempotent: only fills empties and
+    overwrites obviously-generic en names; never duplicates alias rows."""
+    en_updated = 0
+    alias_inserted = 0
+    for sci, payload in EXTRA_RAW.items():
+        row = conn.execute(
+            "SELECT id, common_name_en FROM species WHERE scientific_name=?",
+            (sci,),
+        ).fetchone()
+        if not row:
+            continue
+        sid = row["id"]
+        new_en = payload.get("common_name_en")
+        if new_en:
+            cur_en = (row["common_name_en"] or "").strip()
+            if not cur_en or cur_en.lower() in GENERIC_EN_NAMES:
+                if cur_en != new_en:
+                    conn.execute(
+                        "UPDATE species SET common_name_en=? WHERE id=?",
+                        (new_en, sid),
+                    )
+                    en_updated += 1
+        aliases = payload.get("aliases") or {}
+        for lang, raw_name in aliases.items():
+            if not raw_name:
+                continue
+            exists = conn.execute(
+                "SELECT 1 FROM species_alias WHERE species_id=? AND lang=?",
+                (sid, lang),
+            ).fetchone()
+            if exists:
+                continue
+            conn.execute(
+                "INSERT OR IGNORE INTO species_alias(species_id, raw_name, lang, status) "
+                "VALUES (?, ?, ?, 'resolved')",
+                (sid, raw_name, lang),
+            )
+            alias_inserted += 1
+    return en_updated, alias_inserted
+
+
 def main() -> int:
     db_path = ROOT / "data" / "parklife.db"
     db.init(db_path)
@@ -650,6 +708,7 @@ def main() -> int:
     missing = []
     with db.connect(db_path) as conn:
         ensure_profile_schema(conn)
+        en_updated, alias_inserted = apply_extra_aliases(conn)
         for sci, profile in PROFILES_JA.items():
             row = conn.execute(
                 "SELECT id, common_name_ja FROM species WHERE scientific_name=?",
@@ -687,6 +746,8 @@ def main() -> int:
                 inserted += 1
         conn.commit()
     print(f"upserted {inserted} localized species profiles")
+    if en_updated or alias_inserted:
+        print(f"backfilled {en_updated} common_name_en, {alias_inserted} aliases from extras")
     if missing:
         print("missing scientific names:")
         for sci in missing:
