@@ -40,21 +40,33 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Continue species_profile curation** *(at 1778 / 2026-05-25 — long-tail tier ~15-19 parks)*
-   - **Current state**: 1,778 species × 4 langs (7,112 rows) curated. Last commit `1d6da7e`. Session 2026-05-25 added +291 species across 20 batches (15-17 per batch).
-   - **Sidecar workflow** (proven, repeatable):
+1. **Fix existing profiles' missing en/zh names** *(prioritized 2026-05-25)*
+   - **Problem**: 1,761 sidecar profile entries exist, but **609 have NULL `common_name_en`** in DB and **239 have no `zh-Hans` alias**. EN UI shows 35% of profiled cards with dotted-underline JA fallback; ZH UI shows 14% with EN/sci fallback. Profile body text in all four langs is fine — only the card title falls back.
+   - **Root cause**: prior batches wrote en/zh names *inside* the profile summary's opening clause (e.g. "Eastern Marsh Harrier. A large..." / "白腹鹞（チュウヒ）。..."), but never copied them into `species.common_name_en` / `species_alias zh-Hans`.
+   - **Sidecar now supports `common_name_en` + `aliases.{zh-Hans,zh-Hant}` fields** (commit `f124c86`). `seed_species_profiles.py` applies them idempotently (only fills empty/generic en, only inserts when alias absent).
+   - **Subtask 1.1 — extract names from existing profile summaries** (dry-run done):
+     - ZH regex `^([^（(。，,]{1,20}?)\s*[（(]`: 96 DB-miss candidates extractable. Add filter to reject names containing `的` or `一种` (descriptive phrases).
+     - EN regex `^([^.]{2,60})\.\s`: 411 DB-miss candidates extractable. Add: strip trailing ` (...)` qualifier; reject romaji-style names (lowercase/hyphen heavy, no real English words).
+     - Apply path: patch `species_profiles_extra.json` (write `common_name_en` / `aliases.zh-Hans` into entries), then re-run `seed_species_profiles`.
+   - **Subtask 1.2 — manually backfill remaining gap**: after 1.1, ~143 zh + ~198 en still missing (names not present in profile summaries either). Curate alongside future profile batches or sweep separately.
+   - **Until this is done, defer new profile-curation batches** so we don't accumulate more entries with the same en/zh gap.
+
+2. **Continue species_profile curation** *(at 1788 / 2026-05-25 — long-tail tier ~15-19 parks)* — **paused pending #1**
+   - **Current state**: 1,788 species × 4 langs (7,152 rows) curated. Last batch `9be2185` (batch A1, 10 entries, np 15-19 insects).
+   - **Sidecar workflow** (proven, repeatable; **now includes `common_name_en` + `aliases.{zh-Hans,zh-Hant}` fields per entry**):
      1. Query top unprofiled: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' GROUP BY s.id ORDER BY np DESC LIMIT 30;"`
-     2. Write batch script `/tmp/profile_batchN.py` with 15 entries (`{"scientific_name": {"sources": [...], "ja": {summary, habitat_hint, finding_tips}, "en": {...}, "zh": {...}}}`)
+     2. Write batch script `/tmp/profile_batchN.py` that directly patches `data/species_profiles_extra.json` with entries shaped: `{"sources": [...], "common_name_en": "...", "aliases": {"zh-Hans": "..."}, "ja": {...}, "en": {...}, "zh": {...}}`. zhT auto-derived via OpenCC.
      3. Run: `.venv/bin/python /tmp/profile_batchN.py && .venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`
      4. Commit + push every 2-3 batches.
    - **Current tier**: ~15-19 parks (long-tail). Skip species with no `common_name_ja` or with romaji-only names (`Yabu-tsuru-azuki`, `Murasaki-nigana` etc — usually iNat-imported placeholders).
+   - **Remaining candidates by tier**: np≥15 → ~30, np≥10 → ~458, np≥5 → ~1,429, all visible → ~6,899.
 
-2. **いきものログ ingest (env.go.jp)** *(not started)*
+3. **いきものログ ingest (env.go.jp)** *(not started)*
    - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience — would be the most authoritative source we don't yet use.
    - eBird + GBIF + iNat already cover most of what's reachable; いきものログ would mainly add rarer/locally-restricted records and validate edge cases.
    - FishBase / MushroomObserver / Pl@ntNet evaluated and skipped as lower ROI for this scope.
 
-3. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
+4. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
    - 32 `tokyo-park.or.jp/park/<slug>/index.html` URLs are JS-rendered SPA shells. Current `scripts/extract_parking.py` + `scripts/reclassify_parking.py` fail on them (stub returns 0 text). Would need `scrapling install` (~200 MB Chromium) and a browser-render fetch path. Not worth the dependency for 32 parks unless other SPA-fetch needs accumulate.
 
 ### Follow-ups (defer until needed)
