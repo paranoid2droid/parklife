@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. Core pipeline shipped: **461 parks, 9,728 species, 191k observations** (after 2026-05-18 dedup of 21 P13-introduced duplicates against existing seeded parks; see `scripts/merge_duplicate_parks.py`). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/>. Active sessions 2026-05-01/03 shipped multilingual demo UI, map fix, iNat/GBIF/eBird enrichment, Japanese-name backfill, language-aware external links, data-source filter, user-friendly taxonomy groups, species modal with profiles/source links/difficulty/multi-photo carousel, mobile UX improvements, category-first species panel, location-based recommendation, expanded bird/insect profile batches, and broad iNat photo fallback. Current committed demo export has 7,052 visible species; 6,521 have at least one primary image; local DB now has 32,402 `species_photo` rows, 6,593 species with gallery rows, and 6,369 species with 5+ gallery photos; 1500 species have curated profiles in ja/en/zh/zhT (6000 rows) — continuous batch sweep through commit `896a0ff` (batch 153, **1500-species milestone reached**). Top-level groups are observation-friendly while detailed `taxon_group` is retained as `sp.tg`.
+Project is in maintenance + enrichment mode. **461 parks / 9,641 visible species / 126,586 visible park-species pairs** as of commit `1d6da7e` (2026-05-25). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 33.0 MB). **1,778 species** have curated profiles in ja/en/zh/zhT (7,112 rows), up from 1,500 at the 2026-05-18 milestone. P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248) — 91 newly upgraded from heuristic to scraped-text via `scripts/reclassify_parking.py`.
 
 ## In progress
 
@@ -40,28 +40,22 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Official-URL backfill for P13 parks — third pass (manual curation)** *(opened 2026-05-18; passes 1+2 shipped 2026-05-20 — 111/253 filled; 142 remain)*
-   - **Pass 1** (`4eeaad5`): `scripts/wikipedia_park_url.py` extracts URLs from JA Wikipedia infoboxes / `{{Official}}` templates / `== 外部リンク ==` links. +105 filled.
-   - **Pass 2** (this commit): `scripts/association_park_url.py` fetches a curated set of prefecture-association + heavy-residual municipality indexes (`tokyo-park.or.jp`, `city.saitama.jp`, `city.chiba.jp` + 4 chiba area office subpages), parses `<a>` anchors containing 公園/緑地/霊園/庭園, matches by normalized name. **+6 filled** (all from city.saitama.jp). Many association URLs returned DNS error or 404 (`tmpa.or.jp`, `cga-net.jp`, `kanagawa-park.or.jp/parklist/`, most guessed municipality URLs); option A had limited yield because the prefecture-association sites overlap heavily with what Wikipedia already provided. Option B was constrained by the difficulty of guessing each municipality's 公園緑地課 URL path.
-   - **OSM** (`scripts/osm_park_url.py`, kept for reference): Overpass `leisure=park` features with `website=*` returned 0/5 in sample — JP park OSM `website` coverage is effectively nil.
-   - **Final coverage**: kanagawa 43/72 (60%), tokyo 25/60 (42%), saitama 29/70 (41%), chiba 14/51 (27%). Total **111 / 253 P13 parks (44%)** filled.
-   - **Pass 3 — remaining 142 parks** (current breakdown: chiba 37, kanagawa 29, saitama 41, tokyo 35):
-     - The residual is dominated by small 区立/市立/町立 parks with no Wikipedia article and no dedicated city-website page. Common in: 千葉市 (8 parks like あすみが丘第8緑地, 大野台東緑地), 横浜市 (5), 八王子市 (6), さいたま市残り、各小自治体 1-2 个 each.
-     - **Plan**: manual curation. Write chosen URLs to `data/manual_park_urls.json` (schema: `{"<park slug>": "<url>"}`), then a one-shot apply script does `UPDATE park SET official_url=? WHERE slug=?`. Pattern mirrors `scripts/apply_manual_species`.
-     - Spreadsheet workflow: dump residual to TSV (`sqlite3 -separator $'\t' data/parklife.db "SELECT id, slug, prefecture, municipality, name_ja FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') ORDER BY prefecture, municipality;"`), search each by hand (1-2 min each → ~3-5 hours total), paste URLs back, ingest.
-     - Some parks genuinely have no findable URL (very small, recently-closed, name-only registered) — log these as "no URL exists" in the manual JSON to mark "investigated and skipped".
-     - Quick check: `sqlite3 data/parklife.db "SELECT prefecture, COUNT(*) FROM park WHERE slug LIKE 'p13-%' AND (official_url IS NULL OR official_url='') GROUP BY prefecture;"`.
+1. **Continue species_profile curation** *(at 1778 / 2026-05-25 — long-tail tier ~15-19 parks)*
+   - **Current state**: 1,778 species × 4 langs (7,112 rows) curated. Last commit `1d6da7e`. Session 2026-05-25 added +291 species across 20 batches (15-17 per batch).
+   - **Sidecar workflow** (proven, repeatable):
+     1. Query top unprofiled: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' GROUP BY s.id ORDER BY np DESC LIMIT 30;"`
+     2. Write batch script `/tmp/profile_batchN.py` with 15 entries (`{"scientific_name": {"sources": [...], "ja": {summary, habitat_hint, finding_tips}, "en": {...}, "zh": {...}}}`)
+     3. Run: `.venv/bin/python /tmp/profile_batchN.py && .venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`
+     4. Commit + push every 2-3 batches.
+   - **Current tier**: ~15-19 parks (long-tail). Skip species with no `common_name_ja` or with romaji-only names (`Yabu-tsuru-azuki`, `Murasaki-nigana` etc — usually iNat-imported placeholders).
 
-2. **Continue species_profile curation** *(paused at 1500 / 2026-05-18 — resumable)*
-   - **Current state**: 1500 species × 4 langs (6000 rows) curated. Last commit `894cf16`. Sweep started at 49 species (2026-05-14) and ran through batches 1–153.
-   - Sidecar workflow: append entries to `data/species_profiles_extra.json`, then run `.venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html && git commit && git push`. Hant is auto-generated from Hans via OpenCC-like table; each profile carries ja/en/zh/zhT + `source_urls` (Wikipedia + iNaturalist + eBird when applicable).
-   - Selection: top-N most-widespread visible species not yet profiled. Quick query: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL GROUP BY s.id ORDER BY np DESC LIMIT 12;"`.
-   - The 1500 mark covers everything observed in ≥21 parks. Remaining unprofiled species mostly appear in ≤20 parks (long-tail). Resume on user request.
-
-3. **いきものログ ingest (env.go.jp)** *(not started)*
+2. **いきものログ ingest (env.go.jp)** *(not started)*
    - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience — would be the most authoritative source we don't yet use.
    - eBird + GBIF + iNat already cover most of what's reachable; いきものログ would mainly add rarer/locally-restricted records and validate edge cases.
    - FishBase / MushroomObserver / Pl@ntNet evaluated and skipped as lower ROI for this scope.
+
+3. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
+   - 32 `tokyo-park.or.jp/park/<slug>/index.html` URLs are JS-rendered SPA shells. Current `scripts/extract_parking.py` + `scripts/reclassify_parking.py` fail on them (stub returns 0 text). Would need `scrapling install` (~200 MB Chromium) and a browser-render fetch path. Not worth the dependency for 32 parks unless other SPA-fetch needs accumulate.
 
 ### Follow-ups (defer until needed)
 
@@ -85,6 +79,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
   - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
+
+### 2026-05-25 (Claude) — P13 URL pass 3 + parking reclassify + species_profile sweep (1500→1778)
+- **P13 URL pass 3 complete** (commits `d82c2b2` → `c39f065` → `e009cd3`): 124/142 NULL P13 parks filled via 4 parallel research agents (chiba 37, kanagawa 29, saitama 41, tokyo 35) + 1 chiba follow-up agent. 18 small 緑地/河川敷 confirmed `__no_url__`. New apply script `scripts/apply_manual_park_urls.py` reads `data/manual_park_urls.json` (slug → URL or `__no_url__` sentinel). **Lesson learned**: instruct agents to Write incremental JSON after EACH park (not at end) — the quota-truncated batches retain partial work this way. First attempt for kana/sai/tokyo went out with stale slug lists from memory — wasted 90 URLs; re-ran with TSVs dumped from current DB.
+- **Parking reclassify** (commit `44b6ce2` + `e009cd3`): New `scripts/fetch_parking_followups.py` + `scripts/reclassify_parking.py`. For each park whose `parking_info LIKE 'OSM:%'`, refetch `official_url` plus up to 4 intra-host links matching access/facility/parking keywords, then re-run the existing `extract_parking.classify`. 91 parks moved from OSM-only heuristic to text-confirmed (including 13 verdict flips from missed lots >300m from centroid: 高麗山, 相模原麻溝, 加須はなさき, 散在ガ池森林, etc; 2 corrections: 野毛山, 有栖川宮 confirmed no public parking).
+- **species_profile +291** across 20 batches (commits `1c4659f`, `66e4179`, `05e8062`, `ab04620`, `8b4baf2`, `b6faac1`, `1d6da7e`): 1487 → 1778 distinct species. Covered: ニホンジカ, ソメイヨシノ, シジュウカラ, ヤママユ, ヘビトンボ, ハンミョウ, トチノキ, キョウチクトウ, カムルチー, ヤマトリカブト, アゲハモドキ, ヒメクロホウジャク, ハナミズキ, カオグロガビチョウ, ニホンウナギ, キレンジャク, アカガシラサギ, ニホンアナグマ, カツラ, ショウブ, ジムグリ, クロメンガタスズメ etc.
 
 ### 2026-05-21 (Claude) — park-specific gallery photos shipped
 - New `scripts/park_species_photo.py` + `park_species_photo` table. Per-(park, species) gallery, picks photos taken at the park (tier-0 ≤600 m) or nearby (tier-1 ≤5 km) from already-cached iNat and GBIF data — no new network calls.
