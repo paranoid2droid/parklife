@@ -41737,5 +41737,513 @@
       "habitat_hint": "清流砂砾底、灌渠、泉源小溪。",
       "finding_tips": "4 至 10 月以抄网捞取浅砾即可。三对口须、体侧黑斑列、约 12 cm 细长体型为识别要点。"
     }
+  },
+  "Cottus pollux": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese sculpin",
+    "aliases": {
+      "zh-Hans": "杜父鱼"
+    },
+    "ja": {
+      "summary": "カジカ。本州〜九州の冷涼な清流に住むカジカ科の小型在来魚。日本産は卵サイズで大卵型・中卵型・小卵型に分かれ、本種は淡水陸封の大卵型。河川改修と外来種で個体数が減少しています。",
+      "habitat_hint": "山地〜中流の清流、石の多い瀬、湧水のある小川。",
+      "finding_tips": "通年、石の下に潜むのを石をそっと持ち上げて探します。大きな頭部、扁平な体型、胸鰭が大きく扇形で底に這うように泳ぐのが特徴。"
+    },
+    "en": {
+      "summary": "Japanese sculpin (large-egg form). A small native cottid of cool, clear streams in Honshu through Kyushu. Three Japanese cottid forms differ in egg size; this one is the freshwater-resident large-egg form. Declining from river works and invasive trout.",
+      "habitat_hint": "Cool clear mountain to mid-river streams, riffles with cobble, spring-fed brooks.",
+      "finding_tips": "Year-round under loose cobble — lift stones gently. Large flattened head, broad fan-like pectoral fins, and a bottom-hugging gait are diagnostic."
+    },
+    "zh": {
+      "summary": "杜父鱼／鲇形目大卵型（カジカ）。日本本州至九州冷凉清流的杜父鱼科小型本地鱼，依卵径分大、中、小三型，本种为陆封大卵型。受河川整治与外来鳟鱼影响日益减少。",
+      "habitat_hint": "冷凉清流、瀬区砾石之下、泉源溪流。",
+      "finding_tips": "全年于石下伏底，轻翻砾石可见。头大体扁、胸鳍宽如扇贴底游动为识别要点。"
+    }
+  },
+  "Loxoblemmus doenitzi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミツカドコオロギ。本州〜九州に普通な中型コオロギで、雄の頭部が前方に張り出して額に三つの突起を持つことが和名の由来。秋の夜に『リーリーリー』と高めの澄んだ声で鳴きます。",
+      "habitat_hint": "草地、河川敷、田畑の畦、林縁の草むら。",
+      "finding_tips": "8〜10月の夜、草地や畦で鳴き声を頼りに探します。雄の額に3本の角状突起があるのが識別点。"
+    },
+    "en": {
+      "summary": "A medium-sized field cricket of Honshu through Kyushu, named for the three projecting horn-like processes on the male's forehead. Males sing a high, clear 'ree-ree-ree' on autumn nights.",
+      "habitat_hint": "Grassland, riverbanks, rice-field margins, woodland-edge tussocks.",
+      "finding_tips": "August–October at night, follow the high-pitched song to find them in grass. The three forehead horns on the male are diagnostic."
+    },
+    "zh": {
+      "summary": "多伊棺头蟋（ミツカドコオロギ）。日本本州至九州常见的中型蟋蟀。雄成虫额前突出三枚角状突起即和名「三角」由来。秋夜鸣声「ree-ree-ree」清亮。",
+      "habitat_hint": "草地、河滩、田埂、林缘草丛。",
+      "finding_tips": "8 至 10 月夜间，循高亢鸣声寻找草丛即可。雄虫前额三枚角状突起为识别要点。"
+    }
+  },
+  "Chrysodeixis eriosoma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イチジクキンウワバ。本州〜南西諸島に分布するヤガ科の中型蛾。前翅の中央に金属光沢のある銀色のU字斑があるのが識別点。幼虫はイチジクのほか野菜・園芸植物の広食性害虫として知られます。",
+      "habitat_hint": "畑、家庭菜園、公園の花壇、街路樹のイチジク。",
+      "finding_tips": "5〜11月、夜間の灯火で前翅に金属光沢のあるU字斑を持つ褐色の蛾を探します。緑色の尺取り風幼虫はイチジク・キュウリ・ナスの葉裏で見つかります。"
+    },
+    "en": {
+      "summary": "Green garden looper. A medium noctuid moth ranging across Japan, with a striking silver/gold metallic 'U' on each dark forewing. Polyphagous larvae are pests on fig, beans, vegetables, and ornamentals.",
+      "habitat_hint": "Vegetable plots, home gardens, park flower beds, fig trees.",
+      "finding_tips": "May–November at lights. The metallic silver U-mark on the dark forewing is unmistakable. Green looping caterpillars are easy to find on the underside of fig, cucumber, and eggplant leaves."
+    },
+    "zh": {
+      "summary": "南方银灰夜蛾（イチジクキンウワバ）。日本本州至南西诸岛分布的中型夜蛾。前翅中央具金属光泽的「U」形银纹为识别要点。幼虫食性广，常为蔬菜与无花果害虫。",
+      "habitat_hint": "菜地、家庭菜园、公园花坛、无花果树。",
+      "finding_tips": "5 至 11 月夜间灯下，注意翅面带金属 U 斑的褐色蛾。绿色尺蠖状幼虫多见于无花果、黄瓜、茄子叶背。"
+    }
+  },
+  "Rhinogobius flumineus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lentic-type freshwater goby",
+    "aliases": {
+      "zh-Hans": "川吉栉鰕虎"
+    },
+    "ja": {
+      "summary": "カワヨシノボリ。本州・四国・九州の渓流〜中流の砂礫底に住むハゼ科の小型淡水魚。同属ヨシノボリ類より体色が淡く、頬に小さな赤い斑点が並ぶのが識別点。",
+      "habitat_hint": "渓流〜中流の砂礫底、河川源流域、湧水のある支流。",
+      "finding_tips": "4〜10月、浅い砂礫底をのぞき込むと石の上に乗っている姿が見えます。頬の赤点と尾鰭基部の濃色斑が同属の識別点。"
+    },
+    "en": {
+      "summary": "A small native goby of clear gravel-bottomed mid-to-upper river reaches in Honshu, Shikoku, and Kyushu. Paler than other Japanese Rhinogobius, with a row of small red dots on the cheek.",
+      "habitat_hint": "Clear riffles with cobble, headwater streams, spring-fed tributaries.",
+      "finding_tips": "April–October. Stand still and look into shallow runs — they perch on cobble. Red cheek-spots and the dark blotch at the tail base separate it from other Rhinogobius."
+    },
+    "zh": {
+      "summary": "川吉栉鰕虎（カワヨシノボリ）。日本本州、四国、九州清澈砂砾底河川的鰕虎鱼科小型本土淡水鱼，比同属体色更淡，颊上具一列小红点。",
+      "habitat_hint": "中上游清流砂砾、源流溪、泉源支流。",
+      "finding_tips": "4 至 10 月静观浅滩，常见伏于砾上。颊部红点列与尾鳍基黑斑为识别要点。"
+    }
+  },
+  "Oecanthus euryelytra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broad-winged tree cricket",
+    "ja": {
+      "summary": "ヒロバネカンタン。本州〜九州に分布する小型のカンタン類。淡緑色で透明感のある翅、特に雄の翅は幅広く葉を共鳴板にして『リリリ…』と連続的に鳴きます。",
+      "habitat_hint": "雑木林の林縁、河川敷、ヨモギ・カナムグラの茂る草地。",
+      "finding_tips": "8〜10月の夜、草地で連続的な高い音色の鳴き声を頼りに探します。同属カンタンより前翅が幅広く、葉に張り付くように止まるのが識別点。"
+    },
+    "en": {
+      "summary": "A small pale-green tree cricket of Honshu through Kyushu. Males have notably broad, translucent forewings that they vibrate against leaf surfaces to produce a continuous high trill on summer and autumn nights.",
+      "habitat_hint": "Woodland edges, riverbanks, tall mugwort and hop thickets.",
+      "finding_tips": "August–October at night, locate by song. The broader male forewings and the leaf-pressed singing posture separate it from the related Oecanthus longicauda."
+    },
+    "zh": {
+      "summary": "宽叶树蟋（ヒロバネカンタン）。日本本州至九州的小型树蟋，体淡绿、翅薄透明。雄虫翅特别宽，常贴叶共振发出连续高亢鸣声。",
+      "habitat_hint": "杂木林缘、河滩、艾草与葎草茂盛之草地。",
+      "finding_tips": "8 至 10 月夜间循鸣声查找。雄翅明显较同属宽阔、贴叶鸣唱姿态为识别要点。"
+    }
+  },
+  "Tipulodina joana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jeanne's crane fly",
+    "aliases": {
+      "zh-Hans": "珍氏拟大蚊"
+    },
+    "ja": {
+      "summary": "ジェーンアシワガガンボ。本州〜九州の湿った林床に見られる中型のガガンボ。脚に黒白の縞模様があるのが特徴で、湿地・沢沿いの薄暗い場所で休んでいる姿が観察されます。",
+      "habitat_hint": "湿った林床、沢沿い、湿地縁の低木の葉裏。",
+      "finding_tips": "5〜9月、湿地縁の暗い場所で長く伸びた縞模様の脚を持つガガンボを探します。脚の黒白縞が和名の由来となる識別点。"
+    },
+    "en": {
+      "summary": "A medium crane fly of damp woodland floors in Honshu through Kyushu, distinctive for the bold black-and-white banded legs that give it its Japanese name.",
+      "habitat_hint": "Damp forest floor, streamsides, leaf undersides at wetland margins.",
+      "finding_tips": "May–September on shaded foliage. The starkly banded long legs are diagnostic."
+    },
+    "zh": {
+      "summary": "珍氏拟大蚊（ジェーンアシワガガンボ）。日本本州至九州潮湿林床上的中型大蚊，足部具明显黑白环带，故和名「足轮」。",
+      "habitat_hint": "潮湿林床、溪谷、湿地缘灌叶背。",
+      "finding_tips": "5 至 9 月，阴湿叶背可见。足部黑白环带为识别要点。"
+    }
+  },
+  "Mamestra brassicae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヨトウガ。北海道〜九州に普通な大型のヤガ。和名は『夜盗虫』、幼虫が夜にキャベツ・ダイコンなどアブラナ科野菜を食害することから。被害が甚大な野菜の重要害虫です。",
+      "habitat_hint": "畑、家庭菜園、河川敷、公園の花壇、雑木林の林縁。",
+      "finding_tips": "4〜11月、夜間の灯火に飛来する灰褐色の大型蛾。幼虫は緑〜暗褐色の太い芋虫で、昼は土中に潜み夜に葉を食害します。被害葉と糞のあるアブラナ科野菜の根元を掘ると見つかります。"
+    },
+    "en": {
+      "summary": "Cabbage moth. A large noctuid common across Japan; named for the larva's habit of feeding on crucifer leaves at night and hiding in soil by day. A major vegetable pest.",
+      "habitat_hint": "Vegetable plots, gardens, riverbanks, park flower beds, forest edges.",
+      "finding_tips": "April–November at lights, a stout gray-brown moth. Look for fat green-to-dark caterpillars at the base of damaged crucifer plants by digging shallowly in the daytime."
+    },
+    "zh": {
+      "summary": "甘蓝夜蛾（ヨトウガ）。日本全境普遍的大型夜蛾，幼虫昼伏夜出取食十字花科蔬菜，故和名「夜盗虫」，为重要蔬菜害虫。",
+      "habitat_hint": "菜地、家庭菜园、河滩、公园花坛、杂木林缘。",
+      "finding_tips": "4 至 11 月夜间趋光，灰褐色大蛾。幼虫粗壮，绿至暗褐色，于受害十字花科植物根部浅土中可掘得。"
+    }
+  },
+  "Chlaenius virgulifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アトワアオゴミムシ。本州〜九州の河川敷や水田の畦に住む中型オサムシ科甲虫。鞘翅は金属光沢のある緑色〜青緑色、頭部・前胸は赤銅色というカラフルなゴミムシ。",
+      "habitat_hint": "河川敷、水田の畦、湿地縁、石の下。",
+      "finding_tips": "4〜10月、河川敷や水田の畦の石・倒木を返すと見つかります。金属光沢の緑色鞘翅と赤銅色の頭部前胸の対比が識別点。"
+    },
+    "en": {
+      "summary": "A medium colorful ground beetle of riverbanks and paddy embankments throughout Honshu and southward. Bright metallic green elytra contrast sharply with the coppery head and pronotum.",
+      "habitat_hint": "Riverbanks, paddy embankments, wetland edges, under stones.",
+      "finding_tips": "April–October by turning stones and logs near water. The shining green-and-copper contrast separates it from other Chlaenius."
+    },
+    "zh": {
+      "summary": "逗斑青步甲（アトワアオゴミムシ）。日本本州至九州河滩与稻田田埂的中型步甲。鞘翅金属翠绿、头胸赤铜色对比鲜明。",
+      "habitat_hint": "河滩、稻田田埂、湿地边、石下。",
+      "finding_tips": "4 至 10 月，翻动近水石块、倒木即可见。翠绿鞘翅与铜红头胸的对比为识别要点。"
+    }
+  },
+  "Pyrrhalta lineatipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sangoju leaf beetle",
+    "aliases": {
+      "zh-Hans": "条腿萤叶甲"
+    },
+    "ja": {
+      "summary": "サンゴジュハムシ。本州〜九州に普通なハムシで、和名通りサンゴジュ・ガマズミの葉を食害します。庭木のサンゴジュ垣根を丸ハゲにすることもある園芸害虫。",
+      "habitat_hint": "公園・庭園のサンゴジュ垣根、ガマズミの茂る林縁。",
+      "finding_tips": "5〜7月、葉が網目状にレース化したサンゴジュやガマズミの葉裏で淡黄褐色の小さなハムシと黒褐色の幼虫を探します。"
+    },
+    "en": {
+      "summary": "A common leaf beetle of Honshu through Kyushu that feeds on Viburnum awabuki (sangoju) and other Viburnum hedges; can skeletonize foliage and is a familiar garden pest.",
+      "habitat_hint": "Park and garden Viburnum hedges, woodland edges with Viburnum.",
+      "finding_tips": "May–July look on lace-skeletonized Viburnum leaves. The small pale yellow-brown adult and the dark larva cluster on the underside."
+    },
+    "zh": {
+      "summary": "条腿萤叶甲（サンゴジュハムシ）。日本本州至九州常见的叶甲，以珊瑚树等荚蒾属为食，可将绿篱啃成网状。",
+      "habitat_hint": "公园与庭园珊瑚树绿篱、荚蒾林缘。",
+      "finding_tips": "5 至 7 月，注意被啃成网状的珊瑚树叶背，淡黄褐成虫与黑褐幼虫常成群。"
+    }
+  },
+  "Platypus quercivorus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カシノナガキクイムシ。本州〜九州のカシ・ナラ類に穿孔し、共生菌（ナラ菌）を媒介して『ナラ枯れ』を引き起こす森林害虫として悪名高い小型キクイムシ。",
+      "habitat_hint": "ナラ・カシの太い幹、特に夏の日当たりのよい林縁。",
+      "finding_tips": "6〜9月、ナラ・カシの幹に細かい木屑（フラス）が積もる小穴を探します。フラスが出ている穴があれば本種の食入跡。被害木は8月以降に急に枯死します。"
+    },
+    "en": {
+      "summary": "Oak ambrosia beetle. A small ambrosia beetle of Honshu through Kyushu, notorious for boring into oak trunks and inoculating them with a symbiotic fungus that causes the catastrophic 'nara-gare' oak wilt.",
+      "habitat_hint": "Trunks of oaks (Quercus), especially sunny forest edges in summer.",
+      "finding_tips": "June–September look for fine sawdust piles ('frass') at small entrance holes on oak trunks. Affected trees often die suddenly by late summer."
+    },
+    "zh": {
+      "summary": "灾害长小蠹（カシノナガキクイムシ）。日本本州至九州栎、青冈类的小型长小蠹，钻孔传播共生真菌引发「楢枯萎」病，为重要森林害虫。",
+      "habitat_hint": "栎、青冈树干，尤其夏季日照充足之林缘。",
+      "finding_tips": "6 至 9 月，注意栎树干上堆积细木屑的小孔，即为蛀入痕。受害木 8 月后常急剧枯死。"
+    }
+  },
+  "Batocera lineolata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロスジカミキリ。本州〜九州に分布する日本最大級のカミキリムシ。体長50〜60mm、灰褐色の前翅に黄白色の斑紋が並びます。クヌギ・ナラなどの広葉樹の生木に穿孔し、樹液場でも見つかります。",
+      "habitat_hint": "クヌギ・コナラの雑木林、樹液場、夜間の灯火。",
+      "finding_tips": "6〜8月、クヌギの樹液場や夜の灯火で大きな白黄斑のカミキリを探します。体長5cmを超える大きさと黄白色の斑紋列で他種と区別できます。"
+    },
+    "en": {
+      "summary": "Whitestriped longhorn beetle. One of Japan's largest longhorns at 50–60 mm, with cream-yellow spots and short stripes on a gray-brown elytron. Bores into living oaks; visits sap flows and night lights.",
+      "habitat_hint": "Sawtooth and konara oak woods, sap flows, summer lights.",
+      "finding_tips": "June–August at oak sap and at lights. Massive size (over 5 cm) and the yellow-white spotting on the elytra are unmistakable."
+    },
+    "zh": {
+      "summary": "白条天牛（シロスジカミキリ）。日本本州至九州最大型的天牛之一，体长 50–60 mm，灰褐鞘翅上排列乳黄白斑。蛀栎木活树，亦常见于树液与夜灯。",
+      "habitat_hint": "栎类杂木林、树液点、夏夜路灯。",
+      "finding_tips": "6 至 8 月，树液场或夜间路灯附近可见。体长逾 5 cm 与鞘翅上乳黄斑列为识别要点。"
+    }
+  },
+  "Pachyerannis obliquaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Diagonal-stripe winter geometer",
+    "aliases": {
+      "zh-Hans": "斜纹冬尺蛾"
+    },
+    "ja": {
+      "summary": "クロスジフユエダシャク。本州〜九州の雑木林で初冬〜早春に出現するフユシャクの代表種。雄は灰褐色の翅に明瞭な黒い斜帯、雌は翅が退化して飛べません。日中もしばしば飛翔する数少ないフユシャクです。",
+      "habitat_hint": "雑木林、河畔林、灯火のある公園。",
+      "finding_tips": "11月〜2月の日中、雑木林の林床や林縁を飛ぶ灰褐色の小蛾を探します。前翅外縁近くの黒い斜帯が識別点。雌は林床のリター上を歩きます。"
+    },
+    "en": {
+      "summary": "A signature winter-active geometrid of secondary woodlands across Japan. Males are gray-brown with a strong dark oblique band on the forewing and — unusually for winter moths — often fly by day. Females are flightless with reduced wings.",
+      "habitat_hint": "Secondary woods, riverside forest, parks with night lighting.",
+      "finding_tips": "November–February even by day. Look for gray-brown small moths flying along woodland edges; the bold oblique forewing band is diagnostic."
+    },
+    "zh": {
+      "summary": "斜纹冬尺蛾（クロスジフユエダシャク）。日本本州至九州杂木林冬季活跃的代表性冬尺蛾，雄翅灰褐具明显黑色斜带，常昼飞；雌虫翅退化不能飞。",
+      "habitat_hint": "杂木林、河岸林、夜间照明的公园。",
+      "finding_tips": "11 月至 2 月，林缘可见昼飞的小型灰褐蛾。前翅黑色斜带为识别要点。"
+    }
+  },
+  "Cinclus pallasii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "ja": {
+      "summary": "カワガラス。北海道〜九州の山地渓流に留鳥として生息するカワガラス科の小鳥。全身黒褐色で水中に潜って水生昆虫を捕らえる、潜水できる珍しいスズメ目です。",
+      "habitat_hint": "山地の清流、滝壺、渓流の岩場、ダム下の早瀬。",
+      "finding_tips": "通年、急流の岩の上で短い尾を上下に振る黒褐色のずんぐりした鳥を探します。水に飛び込んで石の隙間を歩いて餌を探す独特な行動が識別点。"
+    },
+    "en": {
+      "summary": "Brown Dipper. A chunky dark-brown songbird of mountain streams throughout Japan, year-round resident. Remarkable for being a fully aquatic songbird that dives and walks underwater to hunt aquatic insects.",
+      "habitat_hint": "Mountain streams, plunge pools, rocky riffles, tailraces.",
+      "finding_tips": "Year-round on midstream boulders, bobbing its short tail. The plunge-and-walk underwater foraging is unique among songbirds and is the best identification cue."
+    },
+    "zh": {
+      "summary": "褐河乌（カワガラス）。日本全境山地溪流终年留鸟。通体深褐，能潜水于急流石缝中捕食水生昆虫——雀形目中极少数能潜水的鸟。",
+      "habitat_hint": "山地清流、瀑布潭、急流岩石、坝下湍流。",
+      "finding_tips": "全年于溪石上立姿，短尾上下颤动。突然潜入水中并在水底踱步觅食的行为为最佳识别要点。"
+    }
+  },
+  "Nicrophorus quadripunctatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Four-spot burying beetle",
+    "aliases": {
+      "zh-Hans": "四星葬甲"
+    },
+    "ja": {
+      "summary": "ヨツボシモンシデムシ。本州〜九州の雑木林に普通な中型シデムシ。鞘翅は黒地に4個の橙色丸紋。小型動物の死体を地中に埋めて育児するという哺乳類じみた行動で知られます。",
+      "habitat_hint": "雑木林、林床、小動物の死体周辺、トラップ。",
+      "finding_tips": "5〜9月、雑木林の林床で小鳥・ネズミの死体を見つけたら近くを探します。黒地に橙色4紋の鞘翅とこん棒状の触角先が識別点。"
+    },
+    "en": {
+      "summary": "A medium burying beetle of woodlands throughout Japan; black elytra carry four bold orange spots. Parents bury small vertebrate corpses and provide rare extended parental care to larvae.",
+      "habitat_hint": "Secondary woods, forest floor, around carrion, baited traps.",
+      "finding_tips": "May–September. Where a small carcass lies in woodland, look in the soil right beneath for adults. The four orange spots and the clubbed antennal tip are diagnostic."
+    },
+    "zh": {
+      "summary": "四星葬甲（ヨツボシモンシデムシ）。日本本州至九州杂木林常见的中型葬甲。鞘翅黑底具四个橙色圆斑，亲虫将小型动物尸体埋入土中并育幼，行为极似哺乳类。",
+      "habitat_hint": "杂木林、林床、小型尸体附近、诱捕器。",
+      "finding_tips": "5 至 9 月，于林下小型尸体周边掘土即可寻获。鞘翅四橙斑与棒状触角末端为识别要点。"
+    }
+  },
+  "Corythucha ciliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "プラタナスグンバイ。北米原産で日本に侵入したグンバイムシ科の小型カメムシ。プラタナス（スズカケノキ）の葉裏に集団寄生し、被害葉は白くかすれて見栄えを損ねます。街路樹害虫として全国に拡散中。",
+      "habitat_hint": "プラタナス並木、公園のスズカケノキ、河川敷の植栽。",
+      "finding_tips": "6〜10月、白くかすれたプラタナスの葉裏を覗くと、レース細工のような透明な翅を持つ3〜4mmの小虫が密集しています。"
+    },
+    "en": {
+      "summary": "Sycamore lace bug. A small North American lace bug now widely invasive in Japan, attacking Platanus (sycamore/plane) street trees. Heavy infestations stipple leaves a chalky white. Spreading across the country as a street-tree pest.",
+      "habitat_hint": "Sycamore/plane avenues, park Platanus, riverside plantings.",
+      "finding_tips": "June–October flip pale-stippled sycamore leaves and look for dense colonies of 3–4 mm bugs with intricately latticed transparent wings."
+    },
+    "zh": {
+      "summary": "悬铃木方翅网蝽（プラタナスグンバイ）。原产北美、入侵日本的网蝽科小蝽。集群寄生于悬铃木（法国梧桐）叶背，受害叶呈灰白斑驳，目前作为行道树害虫向全国扩散。",
+      "habitat_hint": "悬铃木行道、公园法桐、河滩种植带。",
+      "finding_tips": "6 至 10 月翻看灰白斑叶背，可见 3–4 mm 具花边状透明翅的小虫密集成群。"
+    }
+  },
+  "Lema diversa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-necked yam leaf beetle",
+    "aliases": {
+      "zh-Hans": "异胫负泥虫"
+    },
+    "ja": {
+      "summary": "アカクビボソハムシ。本州〜九州に分布するハムシ科の細身の小型甲虫。前胸が鮮紅色、鞘翅は青黒色で金属光沢があり、ヤマノイモの葉を食害する害虫として知られます。",
+      "habitat_hint": "ヤマノイモのつるが絡む林縁、河川敷、畑の周辺。",
+      "finding_tips": "5〜7月、ヤマノイモの葉上で赤い胸部と黒い前翅のコントラストが目立つ小型ハムシを探します。"
+    },
+    "en": {
+      "summary": "A slender chrysomelid of Honshu through Kyushu with a bright-red pronotum and metallic blue-black elytra. Feeds on Dioscorea yam vines and can be a minor pest of cultivated yam.",
+      "habitat_hint": "Forest edges and field margins where wild yam vines climb.",
+      "finding_tips": "May–July on Dioscorea leaves. The red-and-black contrast on a slender body separates it from the related Lema."
+    },
+    "zh": {
+      "summary": "异胫负泥虫（アカクビボソハムシ）。日本本州至九州的负泥虫科细长小甲虫，前胸鲜红、鞘翅蓝黑具金属光泽。寄主薯蓣属藤本，可为薯蓣轻度害虫。",
+      "habitat_hint": "野生薯蓣藤所在的林缘、河滩、农田周边。",
+      "finding_tips": "5 至 7 月，薯蓣叶面可见红黑对比鲜明的细长小虫即是。"
+    }
+  },
+  "Cycnotrachelodes roelofsi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snowbell leaf-rolling weevil",
+    "aliases": {
+      "zh-Hans": "罗氏卷叶象"
+    },
+    "ja": {
+      "summary": "エゴツルクビオトシブミ。本州〜九州のエゴノキに依存するオトシブミ。雌は葉を巻いて『揺籃』を作り、その中に産卵します。雄は和名通り首が長くキリンのよう。",
+      "habitat_hint": "エゴノキの茂る雑木林、神社境内、公園のエゴノキ並木。",
+      "finding_tips": "5〜7月、エゴノキの葉に小さな筒状の巻物（揺籃）が下がっていれば本種の仕事です。長い首の雄と、葉巻きを完成させる雌を同時に観察できることもあります。"
+    },
+    "en": {
+      "summary": "A leaf-rolling weevil specialist on Japanese snowbell (Styrax japonicus). Females roll a single leaf into a tight cigar and lay an egg inside; males have a notably elongated 'giraffe' neck.",
+      "habitat_hint": "Secondary woods with snowbell, shrine grounds, park snowbell rows.",
+      "finding_tips": "May–July look for small tightly rolled cigar-like leaf packets dangling from Styrax japonicus. Watch carefully and you may catch the long-necked male nearby."
+    },
+    "zh": {
+      "summary": "罗氏卷叶象（エゴツルクビオトシブミ）。日本本州至九州依赖野茉莉（Styrax japonicus）的卷叶象。雌虫将叶卷成「摇篮」产卵其中，雄虫长颈如长颈鹿。",
+      "habitat_hint": "野茉莉所在的杂木林、神社境内、公园行道。",
+      "finding_tips": "5 至 7 月，野茉莉叶上垂下的小型卷叶筒即此种作品；长颈雄虫常在附近巡视。"
+    }
+  },
+  "Circus cyaneus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Hen Harrier",
+    "ja": {
+      "summary": "ハイイロチュウヒ。冬鳥として本州〜九州の広い葦原・農地に渡来するタカ目チュウヒ属。雄は淡灰色、雌は褐色で腰が白い。地表近くを低く翼を上向きに保って滑空し、ネズミや小鳥を狩る独特の飛び方が観察ポイント。",
+      "habitat_hint": "広い葦原、湖沼周辺の農地、河口、湿原。",
+      "finding_tips": "11月〜3月、葦原や干拓地で翼をV字に保って低空をゆっくり滑空する姿を探します。雌雄で色が大きく異なるが、白い腰の班と滑空姿勢が共通の識別点。"
+    },
+    "en": {
+      "summary": "Hen Harrier. A winter visitor to wide reedbeds and farmland in Honshu through Kyushu. Males pale gray, females brown with a white rump. Hunts by gliding low over open ground with wings held in a shallow V — a distinctive flight to look for.",
+      "habitat_hint": "Extensive reedbeds, lake-side farmland, estuaries, marshes.",
+      "finding_tips": "November–March on open marsh and reclaimed land. The slow, low V-winged glide and the bright white rump in both sexes are the best ID cues."
+    },
+    "zh": {
+      "summary": "白尾鹞（ハイイロチュウヒ）。冬季到访日本本州至九州芦苇荡与农田的鹞属猛禽。雄淡灰、雌褐色，腰部均白。常以浅 V 型翅低空缓慢滑翔搜捕鼠类与小鸟，飞行姿态极具辨识度。",
+      "habitat_hint": "广阔芦苇荡、湖周农田、河口、湿原。",
+      "finding_tips": "11 月至 3 月，开阔湿地与垦区可见低空 V 翅缓滑之鹞。雌雄羽色不同，但白色腰斑与滑翔姿态均可作辨识。"
+    }
+  },
+  "Melanitta americana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "ja": {
+      "summary": "クロガモ。北海道〜九州沿岸に冬鳥として渡来する大型の海鴨。雄は全身黒で嘴基部に黄色いコブ、雌は褐色で頬が淡色。波の高い外海に群れで浮かび、潜水して貝類を食べます。",
+      "habitat_hint": "海岸線の沖合、外洋に面した湾、漁港の外側。",
+      "finding_tips": "11月〜4月、海岸の沖に黒い大型のカモの群れを探します。雄の嘴基部の黄色いコブ、雌の淡色の頬と暗い頭頂のコントラストが識別点。"
+    },
+    "en": {
+      "summary": "Black Scoter. A large sea-duck wintering offshore around Japan from Hokkaido to Kyushu. Males are entirely glossy black with a striking yellow knob at the bill base; females are brown with a pale cheek and dark cap. Dives for mollusks in flocks off open coasts.",
+      "habitat_hint": "Outer coastal waters, ocean-facing bays, fishing-port mouths.",
+      "finding_tips": "November–April. Scan offshore flocks of black ducks. The male's yellow bill knob and the female's pale cheek under a dark cap are diagnostic."
+    },
+    "zh": {
+      "summary": "黑海番鸭（クロガモ）。冬季到访日本沿岸的大型海鸭。雄通体光亮黑色、喙基具显眼黄色瘤；雌褐色、颊淡色、头顶深色。常成群于外海潜水捕食贝类。",
+      "habitat_hint": "外海近岸、向洋之海湾、渔港外海。",
+      "finding_tips": "11 月至 4 月，扫视近海黑色海鸭群。雄喙基黄瘤、雌淡颊与暗顶对比为识别要点。"
+    }
+  },
+  "Asaperda agapanthina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shinano black-flecked longhorn",
+    "aliases": {
+      "zh-Hans": "信浓黑斑天牛"
+    },
+    "ja": {
+      "summary": "シナノクロフカミキリ。本州（主に中部以北）〜九州の雑木林に住む小型のカミキリムシ。灰白色の地に黒い細かい斑点が散る独特の体色で、枯枝に止まると目立ちません。",
+      "habitat_hint": "雑木林、伐採地の枯れ木、立ち枯れの広葉樹。",
+      "finding_tips": "6〜8月、雑木林の枯れ枝に止まる15mm前後のカミキリを探します。灰白地に黒い不規則斑紋が散る体色と細長い触角が識別点。"
+    },
+    "en": {
+      "summary": "A small longhorn beetle of secondary woodlands from central Honshu to Kyushu. Mottled grayish-white elytra with scattered fine black flecks make it cryptic on dead branches.",
+      "habitat_hint": "Secondary woods, dead branches in clearings, standing dead broadleaf.",
+      "finding_tips": "June–August on dead twigs in deciduous woods. The ~15 mm body with grayish elytra scattered with fine black spots is diagnostic."
+    },
+    "zh": {
+      "summary": "信浓黑斑天牛（シナノクロフカミキリ）。日本本州（中部以北）至九州杂木林的小型天牛。灰白底色散布黑色细斑，停于枯枝时极隐蔽。",
+      "habitat_hint": "杂木林、迹地枯木、立枯阔叶树。",
+      "finding_tips": "6 至 8 月，杂木林枯枝上 15 mm 左右天牛即是。灰白底加散布黑斑的体色为识别要点。"
+    }
+  },
+  "Anisolabella marginalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-horned earwig",
+    "aliases": {
+      "zh-Hans": "髭白缘蠼螋"
+    },
+    "ja": {
+      "summary": "ヒゲジロハサミムシ。本州〜九州に普通な中型ハサミムシ。和名は触角の先端付近が白いことに由来し、湿った石下や落葉下に隠れる夜行性昆虫。攻撃性は低い。",
+      "habitat_hint": "湿った石の下、落ち葉、河川敷の倒木下、雑木林の林床。",
+      "finding_tips": "通年、湿った石や落ち葉を返すと出てきます。触角の中ほど〜先端近くにある白い節と、雄の湾曲した大きな尾鋏が識別点。"
+    },
+    "en": {
+      "summary": "A medium earwig common across Honshu through Kyushu. Named for the white-banded section near the antennal tips. Nocturnal under leaf litter and stones; not aggressive.",
+      "habitat_hint": "Under damp stones, leaf litter, riverbank logs, woodland floor.",
+      "finding_tips": "Year-round, lift damp stones or leaf litter. The pale band near the antennal tips and the strongly curved male cerci are diagnostic."
+    },
+    "zh": {
+      "summary": "髭白缘蠼螋（ヒゲジロハサミムシ）。日本本州至九州常见的中型蠼螋，触角近端具白色节即和名「鬚白」由来。夜行性，性情温和。",
+      "habitat_hint": "潮湿石下、落叶层、河滩倒木下、杂木林床。",
+      "finding_tips": "全年翻看湿石与落叶皆可见。触角近端白节与雄虫弯曲尾铗为识别要点。"
+    }
+  },
+  "Onthophagus atripennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-elytra dung beetle",
+    "ja": {
+      "summary": "コブマルエンマコガネ。本州〜九州の里山・牧場に普通な小型のエンマコガネ。哺乳類の糞や腐肉に集まり、糞を地中に運んで産卵します。雄の頭部には小さなコブ状突起があります。",
+      "habitat_hint": "里山、牧場、雑木林の林床、犬糞や腐肉のあるところ。",
+      "finding_tips": "5〜10月、雑木林や牧場で動物の糞を見つけたらその下や近くの土を掘ってみてください。黒色光沢の小型コガネに雄の頭部の小さなコブが識別点。"
+    },
+    "en": {
+      "summary": "A small dung beetle common in satoyama and pastureland across Japan. Both sexes mine vertebrate dung and carrion; males bear a small cephalic horn or tubercle.",
+      "habitat_hint": "Satoyama, pastures, woodland floor near dung or carrion.",
+      "finding_tips": "May–October dig beneath fresh mammal dung in pastures and woods. Glossy black, small (~7 mm), with a small head tubercle on males."
+    },
+    "zh": {
+      "summary": "扇嗡蜣螂（コブマルエンマコガネ）。日本本州至九州里山与牧场普见的小型嗡蜣螂，雌雄均掘食哺乳动物粪与腐肉，雄虫头部具小突起。",
+      "habitat_hint": "里山、牧场、林下、有粪便或腐肉处。",
+      "finding_tips": "5 至 10 月，于林地与牧场新鲜粪下掘土。约 7 mm 的黑色光泽小型蜣螂、雄头小角即是。"
+    }
   }
 }
