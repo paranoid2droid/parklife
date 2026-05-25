@@ -36958,5 +36958,215 @@
       "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树（尤栎）之树皮缝隙与倒木。",
       "finding_tips": "全年（暖季活跃），于杂木林剥树皮或翻倒木可见极扁之暗褐蝽。体甚薄贴附树皮之姿为特征。"
     }
+  },
+  "Scepticus insularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サビヒョウタンゾウムシ。本州〜九州の落葉広葉樹林・公園・農地周辺の地表や下草に普通な小型ゾウムシ科。体長4〜6mm、ずんぐりした丸い体型に赤褐色〜灰褐色の鱗片が密生し、和名の『サビ（錆）』の由来となっている。広食性で多くの草本・低木の葉を食害する。",
+      "habitat_hint": "雑木林、社寺林、公園の下草、農地の縁、河川敷の草地。地表や低い葉上に多い。",
+      "finding_tips": "4〜10月、公園の低木や下草の葉を観察すると見つかります。体長4〜6mmの丸くてずんぐりした褐色のゾウムシで、短い口吻が特徴。驚くと脚を縮めて落下することがあります。"
+    },
+    "en": {
+      "summary": "A small Curculionidae weevil (4–6 mm) common across Honshu to Kyushu on ground vegetation in secondary woodland, parks, and farmland margins. Stout rounded body densely covered in rusty brown to greyish scales — the source of the Japanese name 'rust'. Broadly polyphagous, feeding on many herbs and shrubs.",
+      "habitat_hint": "Secondary woodland, shrine groves, park undergrowth, farmland margins, and riverside grasslands — on the ground and low foliage.",
+      "finding_tips": "From April to October check leaves of low shrubs and herbs in parks for a small (4–6 mm) stocky rounded brown weevil with a short rostrum. Drops to the ground with legs tucked when disturbed."
+    },
+    "zh": {
+      "summary": "锈葫芦象（サビヒョウタンゾウムシ）。本州至九州落叶阔叶林、公园、农地周边地表与下草普见之小型象甲科。体长 4-6 毫米，体短圆密被赤褐至灰褐色鳞片，为日文俗名『锈』之由来。广食性，取食众多草本与灌木叶。",
+      "habitat_hint": "杂木林、神社林、公园下草、农田边缘、河滩草地。多于地表与低叶。",
+      "finding_tips": "四至十月，于公园低灌与下草叶上观察可见。体长 4-6 毫米、短圆褐色之象甲，口吻短为特征。受惊缩足坠落。"
+    }
+  },
+  "Amphicoma pectinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲブトハナムグリ。本州〜九州の里山や公園に春先〜初夏に現れる小型のハナムグリ科（Glaphyridae）。体長10〜13mm、全身が長い毛で覆われ、ハチに似た外見。雄の触角は櫛歯状に大きく広がり、和名『髭太』の由来。日中、ツツジ・アザミ・タンポポなど春の花を訪れる。",
+      "habitat_hint": "雑木林の林縁、公園の花壇、河川敷、農地の縁。日当たりの良い花の咲く場所。",
+      "finding_tips": "4〜6月、春の花（ツツジ、アザミ、タンポポなど）にハチのように毛深く飛来する小型の甲虫を探します。雄の触角が櫛状に大きく広がっているのが識別ポイント。動きが速く飛び立ちやすい。"
+    },
+    "en": {
+      "summary": "A small Glaphyridae bumble-bee scarab (10–13 mm) of spring through early summer across Honshu to Kyushu in semi-natural countryside and parks. Densely hairy body, bee-like in appearance. The male antennae bear large pectinate (comb-like) lamellae — the source of the Japanese 'thick-whiskered' name. Visits spring flowers (azalea, thistle, dandelion) by day.",
+      "habitat_hint": "Woodland edges, park flowerbeds, riverbanks, and farmland margins — sunny flowering sites.",
+      "finding_tips": "From April to June check spring flowers (azalea, thistle, dandelion) for a small densely hairy bee-like beetle. Male's broad pectinate antennae are diagnostic. Fast-moving and quick to fly off."
+    },
+    "zh": {
+      "summary": "栉角花金龟（ヒゲブトハナムグリ）。本州至九州山野与公园春至初夏出现之小型绒花金龟科（Glaphyridae）。体长 10-13 毫米，全体被长毛似蜂。雄触角栉齿状大展，为日文『髭太』俗名由来。日间访杜鹃、蓟、蒲公英等春花。",
+      "habitat_hint": "杂木林缘、公园花坛、河滩、农田边缘。阳光充足花卉繁茂处。",
+      "finding_tips": "四至六月，于春花（杜鹃、蓟、蒲公英等）寻找似蜂之多毛小甲虫。雄之栉齿状阔触角为辨识要点。动作敏捷易飞。"
+    }
+  },
+  "Harpocera orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コブヒゲカスミカメ。本州〜九州のコナラ・クヌギなど落葉性ナラ類の樹上に春に普通な小型のカスミカメムシ科。体長6〜7mm、雄の触角第2節中央に大きな『コブ』状の突起があるのが和名の由来。4〜5月の限られた季節に成虫が出現し、ナラの花穂や若葉で吸汁する。",
+      "habitat_hint": "コナラ・クヌギなど落葉性ナラ類の生える雑木林、社寺林、公園の大木。春先の限られた期間。",
+      "finding_tips": "4〜5月の短い期間、雑木林のコナラ・クヌギの花穂や若葉を観察します。体長6〜7mmの細長い淡褐色のカスミカメで、雄の触角の中ほどに膨らみが見えるのが識別ポイント。たたき網で落とすと見つけやすい。"
+    },
+    "en": {
+      "summary": "A small Miridae plant bug (6–7 mm) common in spring on deciduous oaks (Quercus serrata, Q. acutissima) from Honshu to Kyushu. The male's second antennal segment bears a large knob in the middle — the source of the Japanese 'knobbed-antenna' name. Adults appear only in April–May, feeding on oak catkins and fresh leaves.",
+      "habitat_hint": "Secondary woodlands, shrine groves, and large park trees of deciduous Quercus species — restricted to the early spring window.",
+      "finding_tips": "From April to May briefly check oak catkins and fresh leaves in secondary woods for a 6–7 mm slender pale brown plant bug. The male's mid-antennal swelling is diagnostic. Beating sheets are an effective technique."
+    },
+    "zh": {
+      "summary": "东方瘤角盲蝽（コブヒゲカスミカメ）。本州至九州枹栎、麻栎等落叶栎类树上春季普见之小型盲蝽科。体长 6-7 毫米，雄之触角第二节中部具大瘤突，为日文俗名由来。仅四至五月限期出现，于栎花穗与嫩叶吸汁。",
+      "habitat_hint": "枹栎、麻栎等落叶栎所在之杂木林、神社林、公园大树。仅春初短期。",
+      "finding_tips": "四至五月短期，于杂木林之枹栎、麻栎花穗与嫩叶观察。体长 6-7 毫米细长淡褐色盲蝽，雄触角中部具膨大为辨识要点。敲打布易得。"
+    }
+  },
+  "Luprops orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲブトゴミムシダマシ。本州〜九州の落葉樹林・社寺林・公園の落葉層に普通な中型のゴミムシダマシ科。体長7〜9mm、黒褐色〜暗褐色のずんぐりした体型。雄の触角は太く膨らむ。秋〜冬に落葉下や朽木下で集団越冬し、時に建物内に侵入することもある。",
+      "habitat_hint": "落葉広葉樹林、社寺林、公園、河畔林の落葉層、朽木の下、樹皮下。",
+      "finding_tips": "9〜5月、特に秋〜冬、雑木林の落葉をめくると地面の落葉層から黒褐色の中型甲虫が多数見つかります。雄の太い触角が識別ポイント。集団でいることが多い。"
+    },
+    "en": {
+      "summary": "A medium Tenebrionidae darkling beetle (7–9 mm) common in leaf litter of broadleaf woods, shrine groves, and parks across Honshu to Kyushu. Stocky black-brown to dark brown body. Male antennae are thickened. Overwinters in groups under fallen leaves and rotting wood from autumn through spring; sometimes enters buildings.",
+      "habitat_hint": "Leaf litter, rotting wood, and bark crevices in broadleaf forests, shrine groves, parks, and riparian woods.",
+      "finding_tips": "From September to May, especially autumn–winter, turn over fallen leaves in secondary woodland for clusters of stocky 7–9 mm dark beetles. Male's thickened antennae are diagnostic. Often gregarious."
+    },
+    "zh": {
+      "summary": "东方垫甲（ヒゲブトゴミムシダマシ）。本州至九州落叶林、神社林、公园落叶层普见之中型拟步甲科。体长 7-9 毫米，体短圆黑褐至暗褐色。雄触角粗膨。秋至冬于落叶下与朽木下集群越冬，偶入建筑。",
+      "habitat_hint": "落叶阔叶林、神社林、公园、河岸林之落叶层、朽木下、树皮下。",
+      "finding_tips": "九月至翌五月，尤秋冬，于杂木林翻起落叶可见地面群集之黑褐色中型甲虫。雄之粗触角为辨识要点。常成群。"
+    }
+  },
+  "Ctenoplusia albostriata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾギクキンウワバ。本州〜沖縄の農地・河川敷・公園に普通なヤガ科キンウワバ亜科の中型ガ。前翅長14〜17mm、暗褐色の前翅に銀白色の明瞭な縦条が走る美しい模様。幼虫は『シャクトリムシ』状に歩き、エゾギク（アスター）・キク科・マメ科など多食性で農業害虫。",
+      "habitat_hint": "農地、河川敷、家庭菜園、公園の花壇、農地周辺の雑草地。夜行性で灯火に飛来。",
+      "finding_tips": "6〜10月、夜の灯火に飛来するガで、前翅に銀白色の縦条がある中型ガを探します。幼虫はキク科やマメ科の葉を食害するシャクトリムシ状の青緑色のイモムシ。"
+    },
+    "en": {
+      "summary": "A medium Noctuidae moth (Plusiinae) (forewing 14–17 mm) common across Honshu to Okinawa on farmland, riversides, and parks. Dark brown forewing with a striking silver-white longitudinal streak. Larvae are 'inchworm-like' loopers; polyphagous on China aster (Callistephus), other Asteraceae, and Fabaceae — an agricultural pest.",
+      "habitat_hint": "Farmland, riverbanks, vegetable gardens, park flowerbeds, and weedy field margins — nocturnal, comes to lights.",
+      "finding_tips": "From June to October check lights at night for a medium moth with a bold silver-white streak on the forewing. Larvae are green looper caterpillars feeding on Asteraceae and Fabaceae foliage."
+    },
+    "zh": {
+      "summary": "白条银纹夜蛾（エゾギクキンウワバ）。本州至冲绳农地、河滩、公园普见之夜蛾科金纹夜蛾亚科中型蛾。前翅长 14-17 毫米，暗褐前翅具醒目银白色纵条。幼虫呈尺蠖状步行，多食翠菊（蓝菊）、菊科与豆科叶，为农业害虫。",
+      "habitat_hint": "农地、河滩、家庭菜园、公园花坛、农田周边杂草地。夜行性趋光。",
+      "finding_tips": "六至十月，夜灯下寻找前翅具银白色纵条之中型蛾。幼虫青绿色尺蠖状，食菊科与豆科叶。"
+    }
+  },
+  "Nothomyllocerus griseus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カシワクチブトゾウムシ。本州〜九州のカシワ・コナラ・クヌギなどブナ科の樹上に普通な小型ゾウムシ科。体長5〜7mm、灰白色〜灰褐色の鱗片に覆われた目立たない姿。短く太い口吻が和名『クチブト（口太）』の由来。新葉や若枝を食害する。",
+      "habitat_hint": "カシワ・コナラ・クヌギなどブナ科の樹木が生える雑木林、社寺林、公園の大木。",
+      "finding_tips": "5〜8月、雑木林のカシワ・コナラの若葉を観察するか、葉をたたき網で落とすと見つかります。体長5〜7mmの灰白色の目立たないゾウムシで、太く短い口吻が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small Curculionidae weevil (5–7 mm) common on Fagaceae trees (Quercus dentata, Q. serrata, Q. acutissima) from Honshu to Kyushu. Covered in greyish-white scales — cryptic. The short stout rostrum gives the Japanese name 'thick-mouthed'. Feeds on fresh leaves and young shoots.",
+      "habitat_hint": "Secondary woodlands, shrine groves, and large park trees with Fagaceae oaks.",
+      "finding_tips": "From May to August check fresh oak leaves or use a beating sheet under oak branches. The 5–7 mm cryptic greyish weevil with a stout short rostrum is the target."
+    },
+    "zh": {
+      "summary": "灰栎象（カシワクチブトゾウムシ）。本州至九州槲栎、枹栎、麻栎等壳斗科树上普见之小型象甲科。体长 5-7 毫米，被灰白至灰褐色鳞片不显眼。口吻短粗为日文『口太』俗名由来。食嫩叶与嫩枝。",
+      "habitat_hint": "槲栎、枹栎、麻栎等壳斗科所在之杂木林、神社林、公园大树。",
+      "finding_tips": "五至八月，于杂木林之槲栎、枹栎嫩叶观察或敲打可得。体长 5-7 毫米灰白色不显之象甲，口吻粗短为辨识要点。"
+    }
+  },
+  "Serendiba staliana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲナガサシガメ。本州〜九州の雑木林・公園の樹上に普通なサシガメ科の中型カメムシ。体長12〜15mm、極めて長い触角と細長い脚を持ち、葉上で枝に擬態する。淡褐色〜褐色。他の小型昆虫を待ち伏せて捕食する。素手で扱うと刺されると激しく痛む。",
+      "habitat_hint": "雑木林、社寺林、公園の樹木の葉、河畔林、住宅地の樹木。",
+      "finding_tips": "5〜10月、雑木林や公園の樹木の葉を観察すると、糸のように長い触角と細長い脚を持つカメムシが見つかります。葉上でじっとしていることが多く、枝のように見えるので注意深く探す必要があります。刺されないよう素手で触れないこと。"
+    },
+    "en": {
+      "summary": "A medium Reduviidae assassin bug (12–15 mm) common on tree foliage in secondary woodlands and parks across Honshu to Kyushu. Extremely long antennae and slender legs — twig-mimic on leaves. Pale to mid brown. Ambushes small insects. A painful bite if handled.",
+      "habitat_hint": "Tree foliage in secondary woodland, shrine groves, parks, riparian woods, and residential trees.",
+      "finding_tips": "From May to October check tree leaves in woods and parks for an assassin bug with extremely long thread-like antennae and slender legs. Often motionless and twig-like on leaves. Do not handle — bites painfully."
+    },
+    "zh": {
+      "summary": "史氏塞猎蝽（ヒゲナガサシガメ）。本州至九州杂木林与公园树上普见之猎蝽科中型蝽。体长 12-15 毫米，触角与足极细长，叶上拟枝。淡褐至褐色。伏击捕食小型昆虫。徒手触之刺痛剧烈。",
+      "habitat_hint": "杂木林、神社林、公园树木之叶、河岸林、住宅区树木。",
+      "finding_tips": "五至十月，于杂木林与公园之树叶观察可见。触角细长如丝、足细长之蝽，叶上静止似枝须细察。勿徒手触碰，刺咬剧痛。"
+    }
+  },
+  "Descoreba simplex": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハスオビエダシャク。本州〜九州の雑木林・公園に早春（3〜4月）に出現するシャクガ科エダシャク亜科の中型ガ。前翅長18〜22mm、淡灰褐色〜灰白色の翅に斜めの暗色帯（『斜び』）が走り和名の由来。早春のごく短期間に成虫が出る早春種。幼虫は広食性で各種広葉樹の葉を食う。",
+      "habitat_hint": "雑木林、社寺林、公園、河畔林の樹木。早春（3〜4月）のごく短期間。",
+      "finding_tips": "3〜4月、雑木林の樹幹や葉、夜の灯火で前翅に斜めの暗色帯が走る中型のシャクガを探します。早春のごく限られた期間しか出現せず、日中も樹幹に止まっていることが多い。"
+    },
+    "en": {
+      "summary": "A medium Geometridae moth (Ennominae) (forewing 18–22 mm) emerging in early spring (March–April) in secondary woods and parks across Honshu to Kyushu. Pale grey-brown to greyish white wings crossed by a diagonal dark band — the source of the Japanese name 'oblique band geometer'. Strictly early-spring with a narrow adult window. Larvae polyphagous on broadleaf trees.",
+      "habitat_hint": "Tree trunks and foliage in secondary woods, shrine groves, parks, and riparian woods — restricted to early spring.",
+      "finding_tips": "From March to April look on tree trunks in woods and at night lights for a medium geometer with an oblique dark band across the forewing. The narrow early-spring window is key; adults often rest on trunks by day."
+    },
+    "zh": {
+      "summary": "斜带枝尺蛾（ハスオビエダシャク）。本州至九州杂木林与公园早春（三至四月）出现之尺蛾科枝尺蛾亚科中型蛾。前翅长 18-22 毫米，淡灰褐至灰白翅具斜向暗带，为日文俗名由来。早春限期出现之早春种。幼虫广食阔叶树叶。",
+      "habitat_hint": "杂木林、神社林、公园、河岸林之树木。仅早春（三至四月）短期。",
+      "finding_tips": "三至四月，于杂木林之树干、叶与夜灯下寻找前翅具斜向暗带之中型尺蛾。仅早春限期出现，日间常停于树干。"
+    }
+  },
+  "Sphaerophoria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメヒラタアブ属。日本全国の草地・農地・公園に普通な小型ハナアブ科の属で、十数種が知られる。体長6〜10mm、細長い体に黄色と黒の縞模様。雄は腹端が球状に丸まる種が多く英名Globetailsの由来。花を訪れて花粉を食べ、幼虫は植物上のアブラムシを捕食する園芸の益虫。",
+      "habitat_hint": "草地、農地、河川敷、家庭菜園、公園の花壇、低草地。花の咲く明るい場所。",
+      "finding_tips": "4〜11月、花の周りでホバリングする細長い小型のヒラタアブを探します。体長6〜10mm、腹部が細長く黄黒の縞模様。雄の腹端が球状に膨らむのが属の特徴。種の同定には専門知識が必要。"
+    },
+    "en": {
+      "summary": "A genus (Globetails) of small Syrphidae hoverflies with over a dozen species across Japan, common in grasslands, farmland, and parks. 6–10 mm with a slender body and yellow-and-black striping. Males of many species have a spherical bulb at the abdomen tip — hence 'Globetails'. Adults visit flowers for pollen; larvae are aphid predators valued as garden beneficials.",
+      "habitat_hint": "Grasslands, farmland, riverbanks, vegetable gardens, park flowerbeds, and low herbage — open flowering sites.",
+      "finding_tips": "From April to November watch flowers for small slender hoverflies hovering motionless. 6–10 mm with a slender yellow-black-striped abdomen. The male's spherical abdomen tip is the genus mark. Species ID requires expert work."
+    },
+    "zh": {
+      "summary": "细腹蚜蝇属（ヒメヒラタアブ属）。日本全国草地、农地、公园普见之小型食蚜蝇科属，已知十数种。体长 6-10 毫米，体细长具黄黑条纹。多种雄之腹端球状膨大为英文俗名 Globetails 之由来。访花食粉，幼虫捕食植上蚜虫为园艺益虫。",
+      "habitat_hint": "草地、农地、河滩、家庭菜园、公园花坛、低草地。花卉繁茂明亮处。",
+      "finding_tips": "四至十一月，于花周寻找悬停之细长小型食蚜蝇。体长 6-10 毫米，腹细长具黄黑条纹。雄之腹端球状膨大为本属特征。种之鉴定需专家。"
+    }
+  },
+  "Sigara": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コミズムシ属。日本全国の池・ため池・水田・湿地に普通な水生カメムシ目ミズムシ科の属。体長5〜10mm、細長い卵形で淡褐色〜暗褐色、前翅に細かい横じわ模様。後脚は櫂状で水中をすばやく泳ぐ。背面を上にして泳ぎ、藻類や有機物を摂食する（マツモムシと逆向き）。",
+      "habitat_hint": "池、ため池、水田、湿地、用水路、河川の淀み。止水〜緩流。",
+      "finding_tips": "通年、池や水田の底や水生植物の間を網ですくうと多数捕れる。体長5〜10mmの淡褐色〜暗褐色の細長い水生カメムシ。背面を上にして泳ぐ姿勢でマツモムシ（背面を下にして泳ぐ）と区別。種の同定には専門知識が必要。"
+    },
+    "en": {
+      "summary": "A genus (Lesser Water Boatmen, Corixidae) of aquatic Heteroptera widespread across Japanese ponds, farm ponds, paddies, and wetlands. 5–10 mm with a slender oval pale-to-dark brown body and fine transverse striations on the forewings. Oar-like hind legs propel quick swimming. Swims back-up — opposite of the backswimmer (Notonecta). Feeds on algae and organic matter.",
+      "habitat_hint": "Ponds, farm ponds, rice paddies, wetlands, irrigation channels, and river backwaters — still to slow water.",
+      "finding_tips": "Year-round, sweep nets through pond bottoms and aquatic vegetation pick them up in numbers. 5–10 mm slender pale-to-dark brown aquatic bug. Swims back-up — distinguishing them from backswimmers (back-down). Species ID needs expert work."
+    },
+    "zh": {
+      "summary": "小划蝽属（コミズムシ属）。日本全国池塘、农塘、水田、湿地普见之水生半翅目划蝽科。体长 5-10 毫米，体细长卵形淡褐至暗褐色，前翅具细横纹。后足桨状水中速游。背朝上而泳，与仰蝽（背朝下）相反。食藻类与有机物。",
+      "habitat_hint": "池塘、农塘、水田、湿地、灌溉水道、河川缓流。止水至缓流。",
+      "finding_tips": "全年，于池底与水生植物间扫网可获多只。体长 5-10 毫米淡褐至暗褐色细长水生蝽。背朝上而泳，与仰蝽（背朝下）区分。种之鉴定需专家。"
+    }
   }
 }
