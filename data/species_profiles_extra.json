@@ -503,6 +503,10 @@
       "summary": "身体细长、头部尖的绿色蝗虫。雌虫常被较小的雄虫骑在背上，日文俗名因此叫『背负蝗虫』。",
       "habitat_hint": "草地、草坪、田边、园路旁杂草丛。",
       "finding_tips": "在草丛低处寻找一对成虫（小的在大的背上）。有亮绿色型和褐色型。"
+    },
+    "common_name_en": "Long-headed Grasshopper",
+    "aliases": {
+      "zh-Hans": "短额负蝗"
     }
   },
   "Nycticorax nycticorax": {
@@ -1352,6 +1356,10 @@
       "summary": "棕褐色的大型蝗虫，特别之处在于成虫越冬。秋季出现，春季再次活跃。",
       "habitat_hint": "杂木林林床、林缘、落叶堆积处、灌丛边缘。",
       "finding_tips": "晚秋至春季在地面落叶中寻找大型蝗虫。它们的伪装很好，先看动作再确认。"
+    },
+    "common_name_en": "Japanese Rice Grasshopper",
+    "aliases": {
+      "zh-Hans": "日本土蝗"
     }
   },
   "Tarsiger cyanurus": {
@@ -1608,6 +1616,10 @@
       "summary": "大型食虫虻。在停歇点守候，飞起后在空中捕捉其他昆虫。腹端白色毛丛是识别要点。",
       "habitat_hint": "林缘、草地、河滩、草坪边、明亮园路。",
       "finding_tips": "晴天观察停在枝梢和草尖、腹端白色的虻。捕到猎物常飞回原处取食。"
+    },
+    "common_name_en": "Yesso Robber Fly",
+    "aliases": {
+      "zh-Hans": "盐屋虻"
     }
   },
   "Orthetrum melania": {
@@ -1717,6 +1729,10 @@
       "summary": "小型叶甲，头胸足橙色、鞘翅黑色。葫芦科植物害虫，叶上留下圆形咬痕。",
       "habitat_hint": "葫芦科作物种植地、庭院、河滩、杂草丛。",
       "finding_tips": "瓜叶上有圆形咬痕时寻找本种或近缘种。橙黑对比是辨识标志。"
+    },
+    "common_name_en": "Black-winged Cucurbit Beetle",
+    "aliases": {
+      "zh-Hans": "黑足黑守瓜"
     }
   },
   "Vicia sativa": {
@@ -2063,6 +2079,10 @@
       "summary": "小型鸻类金眶鸻，眼周有鲜黄色眼圈。在河滩沙石地繁殖。",
       "habitat_hint": "河滩沙砾地、湖岸、水库边、人工裸地、海岸。",
       "finding_tips": "找在砾石上快速跑停的小型涉禽。黄色眼圈和黑色胸带是辨识标志。"
+    },
+    "aliases": {
+      "zh-Hans": "金眶鸻",
+      "zh-Hant": "金眶鴴"
     }
   },
   "Neptis sappho": {
@@ -2665,6 +2685,10 @@
       "summary": "亮绿带光泽的中型蝽，取食阔叶树叶与果实，近年城市内增多。",
       "habitat_hint": "杂木林、行道树、家庭果树、夜灯、房屋外墙。",
       "finding_tips": "在叶上找有光泽的明绿色蝽。秋冬可能聚集在建筑墙面准备越冬。"
+    },
+    "common_name_en": "Glossy Green Shield Bug",
+    "aliases": {
+      "zh-Hans": "亮绿蝽"
     }
   },
   "Pochazia shantungensis": {
@@ -2686,6 +2710,10 @@
       "summary": "外来的山东杨树斑蛾蜡蝉。三角形翅带白色斑点，近年快速扩散，是果树害虫之一。",
       "habitat_hint": "庭园、果树、公园植被、行道树、林缘。",
       "finding_tips": "叶上找三角形褐翅带浅斑的小型蝉状昆虫。受惊后会先跳后飞。"
+    },
+    "common_name_en": "Shandong Brown Planthopper",
+    "aliases": {
+      "zh-Hans": "山东褐扁蜡蝉"
     }
   },
   "Youngia japonica": {
@@ -3016,7 +3044,8 @@
     },
     "aliases": {
       "zh-Hans": "黑脐真厚螺"
-    }
+    },
+    "common_name_en": "Three-banded Land Snail"
   },
   "Anthus hodgsoni": {
     "sources": [
@@ -3518,6 +3547,10 @@
       "summary": "小型跳蛛，黑底带黄色 V 字纹。常见于民居墙面与公园栏杆。",
       "habitat_hint": "房屋墙面、围墙、公园长椅与栏杆、石墙、树干。",
       "finding_tips": "在墙面或栏杆跳跃前进的小蜘蛛，黑黄对比鲜明。中央两个大眼是跳蛛特征。"
+    },
+    "common_name_en": "Russet Jumping Spider",
+    "aliases": {
+      "zh-Hans": "黄棕条蝇虎"
     }
   },
   "Tringa brevipes": {
@@ -3607,6 +3640,10 @@
       "summary": "葛长颈叶甲，颈细长、前胸红色的小叶甲，食葛叶，叶上留小圆孔。",
       "habitat_hint": "河滩葛丛、空地、林缘、住宅围栏。",
       "finding_tips": "葛叶有许多小圆食痕时，在叶背和茎找红黑相间的细长叶甲。"
+    },
+    "common_name_en": "Kudzu Slim-necked Leaf Beetle",
+    "aliases": {
+      "zh-Hans": "葛长跗萤叶甲"
     }
   },
   "Argyreus hyperbius": {
@@ -3976,6 +4013,10 @@
       "summary": "锥头螽斯（クビキリギス）。细长螽斯类，可以成虫越冬。口腔内为红色。",
       "habitat_hint": "河滩草地、田边、林下草、潮湿草地、休耕田。",
       "finding_tips": "晚秋至早春暖日也可见。**抓握会咬人，需小心。** 张口可见红色。"
+    },
+    "common_name_en": "Variable Conehead Katydid",
+    "aliases": {
+      "zh-Hans": "短翅尖头草螽"
     }
   },
   "Meghimatium bilineatum": {
@@ -4090,7 +4131,8 @@
     },
     "aliases": {
       "zh-Hans": "蓝步甲"
-    }
+    },
+    "common_name_en": "Blue Ground Beetle"
   },
   "Petasites japonicus": {
     "sources": [
@@ -4218,6 +4260,10 @@
       "summary": "斑蛾科白带的日行蛾，黑翅白带配红头，警告色明显。具有毒物质。",
       "habitat_hint": "林缘、有杨桐/红淡比的地方、神社境内、明亮园路。",
       "finding_tips": "找日间慢飞的黑翅带白带、头红色的蛾。**有毒，请勿徒手接触。**"
+    },
+    "common_name_en": "Black Burnet Moth",
+    "aliases": {
+      "zh-Hans": "黑斑蛾"
     }
   },
   "Phalacrocorax capillatus": {
@@ -4437,6 +4483,10 @@
       "summary": "大型食蚜蝇，拟态熊蜂。腹部具宽阔黄橙色横带，喜在花上长时间停留。",
       "habitat_hint": "花坛、开花灌木、神社境内、林缘、河滩花卉。",
       "finding_tips": "在花上长时间停留的似熊蜂昆虫。两片透明翅（真蜂为四片）加大复眼可识为食蚜蝇。"
+    },
+    "common_name_en": "Banded Hover Fly",
+    "aliases": {
+      "zh-Hans": "带蚜蝇"
     }
   },
   "Homoeocerus unipunctatus": {
@@ -4461,7 +4511,8 @@
     },
     "aliases": {
       "zh-Hans": "星宽缘蝽"
-    }
+    },
+    "common_name_en": "One-spot Broad-bellied Bug"
   },
   "Ricania shantungensis": {
     "sources": [
@@ -4571,6 +4622,10 @@
       "summary": "东京小虎甲，小型虎甲，喜河滩沙地与明亮裸地。短距快跑然后停下扫视。",
       "habitat_hint": "河滩砂砾地、空地、明亮裸地、公园沙坑边。",
       "finding_tips": "晴天在裸沙地找短距快跑的小甲虫。靠近会短距飞走再落地。"
+    },
+    "common_name_en": "Tokyo Tiger Beetle",
+    "aliases": {
+      "zh-Hans": "东京虎甲"
     }
   },
   "Pantala flavescens": {
@@ -4723,6 +4778,10 @@
       "summary": "日本蟾蜍。大型蟾蜍，体粗壮、皮肤多疣。夜行性，常见于林床与庭院。**皮肤分泌物有毒，切勿徒手接触。**",
       "habitat_hint": "杂木林林床、神社境内、家庭庭院、潮湿石墙周边、夜间园路。",
       "finding_tips": "雨后夜里在园路上寻找大型蟾蜍。早春繁殖期会聚集于池塘上演『蟾蜍合战』。"
+    },
+    "aliases": {
+      "zh-Hans": "日本蟾蜍",
+      "zh-Hant": "日本蟾蜍"
     }
   },
   "Cuculus poliocephalus": {
@@ -4937,6 +4996,10 @@
       "summary": "拟尖头蚱蜢，与日本尖头蚱相似的细长大型蝗虫，多生于河滩草地。",
       "habitat_hint": "河滩草地、湿润草原、河岸灌丛、明亮休耕田。",
       "finding_tips": "草地中找细长大型蝗虫。与近缘种区别在于头略短、后腿基部有特征斑纹。"
+    },
+    "common_name_en": "False Slant-faced Grasshopper",
+    "aliases": {
+      "zh-Hans": "二色板胸蝗"
     }
   },
   "Annulohypoxylon truncatum": {
@@ -5625,7 +5688,8 @@
     },
     "aliases": {
       "zh-Hans": "短带长颚象"
-    }
+    },
+    "common_name_en": "Powdered Leaf Weevil"
   },
   "Oedaleus infernalis": {
     "sources": [
@@ -5646,6 +5710,10 @@
       "summary": "黄胫小车蝗，褐至绿色的中型蝗虫。飞行时后翅展开有黑色『车轮』纹。生于河滩草地。",
       "habitat_hint": "河滩草地、休耕田、堤岸、草坪、田边。",
       "finding_tips": "受惊后飞起，可见后翅上闪过黑色车轮纹。体形比飞蝗小。"
+    },
+    "common_name_en": "Asian Migratory Locust",
+    "aliases": {
+      "zh-Hans": "亚洲飞蝗"
     }
   },
   "Oxytate striatipes": {
@@ -5667,6 +5735,10 @@
       "summary": "鲜黄绿色的蟹蛛，伏击型猎手，不结网。常静伏叶面等候猎物。",
       "habitat_hint": "林缘、草地、河滩、农田、家庭菜园叶面。",
       "finding_tips": "在亮叶上找鲜黄绿的小型蛛。前两对足较长，横向行走。"
+    },
+    "common_name_en": "Green Crab Spider",
+    "aliases": {
+      "zh-Hans": "条纹绿蟹蛛"
     }
   },
   "Phaulula macilenta": {
@@ -5688,7 +5760,8 @@
       "summary": "小型绿色螽斯，栖林冠。夜里发出细长的『嘶——』声。",
       "habitat_hint": "杂木林、河岸树冠、神社树林、灌乔混合林。",
       "finding_tips": "夏秋夜里沿细长鸣叫向上寻找。绿色拟态叶片，难以目击。"
-    }
+    },
+    "common_name_en": "long-horned grasshopper"
   },
   "Lepisorus thunbergianus": {
     "sources": [
@@ -5752,6 +5825,10 @@
       "summary": "蓝带跳蛛，小型跳蛛具金属蓝色横带。拟态并捕食蚂蚁。",
       "habitat_hint": "林床、神社境内、石墙、树干、叶面。",
       "finding_tips": "在蚂蚁大小且行动类似蚂蚁的小动物中，找带蓝色金属带的小蛛。常埋伏在蚁路附近。"
+    },
+    "common_name_en": "Blue-banded Jumping Spider",
+    "aliases": {
+      "zh-Hans": "蓝带蝇虎"
     }
   },
   "Persicaria longiseta": {
@@ -6456,6 +6533,10 @@
       "summary": "日本姬蠊，与德国小蠊同属但生活在野外。比室内近缘种小。",
       "habitat_hint": "林床、落叶下、朽木、石墙、潮湿地面。",
       "finding_tips": "翻起室外落叶或朽木可见浅褐色小型蜚蠊。不进入室内，是野外观察对象。"
+    },
+    "common_name_en": "Japanese Wood Cockroach",
+    "aliases": {
+      "zh-Hans": "日本姬蠊"
     }
   },
   "Potentilla wallichiana": {
@@ -6895,7 +6976,8 @@
     },
     "aliases": {
       "zh-Hans": "白毛长腹土蜂"
-    }
+    },
+    "common_name_en": "Banded Scoliid Wasp"
   },
   "Cryptomeria japonica": {
     "sources": [
@@ -7564,7 +7646,8 @@
     },
     "aliases": {
       "zh-Hans": "日真葬甲"
-    }
+    },
+    "common_name_en": "Japanese Carrion Beetle"
   },
   "Thomisus labefactus": {
     "sources": [
@@ -15249,6 +15332,10 @@
       "summary": "北灰鹟。比麻雀略小的灰褐色小型鹟。眼圈白色显眼，喙短。日本为夏候鸟或过境鸟。",
       "habitat_hint": "落叶阔叶林、河岸林、公园树冠、林缘。",
       "finding_tips": "五至十月在树冠寻找『飞捕』（从栖位起飞捕虫后回到原位）的小鸟。白眼圈是关键识别特征。"
+    },
+    "aliases": {
+      "zh-Hans": "北灰鶲",
+      "zh-Hant": "寬嘴鶲"
     }
   },
   "Protaetia pryeri": {
@@ -15529,6 +15616,10 @@
       "summary": "远东山雀。最常见的山雀，黑头白脸颊，腹部具黑色『领带』纵纹。鸣声『tsutsu-pi, tsutsu-pi』。",
       "habitat_hint": "公园、庭院、行道树、杂木林、河岸林、住宅区。",
       "finding_tips": "全年。从住宅区到山地极常见。黑头白颊与腹部纵纹、清亮鸣声是关键识别。"
+    },
+    "aliases": {
+      "zh-Hans": "远东山雀",
+      "zh-Hant": "遠東山雀"
     }
   },
   "Eragrostis ferruginea": {
@@ -15740,6 +15831,10 @@
       "summary": "庭菖蒲。原产北美的小型多年草，归化于草坪与路边。初夏密生 1 厘米紫色或白色星形花。",
       "habitat_hint": "草坪、路边、河滩、公园边缘、操场边。",
       "finding_tips": "五至六月在草坪寻找线形叶、紫或白色星形小花的小草本。一日花，依次开放。"
+    },
+    "aliases": {
+      "zh-Hans": "庭菖蒲",
+      "zh-Hant": "庭菖蒲"
     }
   },
   "Neoscona mellotteei": {
@@ -19755,7 +19850,10 @@
       "habitat_hint": "明亮杂木林林缘、草地、堤岸、河滩草地、次生林。",
       "finding_tips": "九至十一月在明亮林缘与草地寻找具琴形叶、淡紫色头状花的二年草。似蓟但无刺、体型较小。"
     },
-    "common_name_en": "Lyre-leaf Saw-wort"
+    "common_name_en": "Lyre-leaf Saw-wort",
+    "aliases": {
+      "zh-Hans": "泥胡菜"
+    }
   },
   "Rumex japonicus": {
     "sources": [
