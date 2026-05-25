@@ -36328,5 +36328,635 @@
       "habitat_hint": "山地落叶阔叶林林缘、草地、神社林、土堤、河岸。喜阳光至半阴湿润处。",
       "finding_tips": "八至十月，于山地林缘与草地寻找高 40-80 厘米、具白色小花伞形花序之伞形科。叶 2 回 3 出复叶纤细，叶柄长、叶似鹿爪为辨识要点。"
     }
+  },
+  "Euprepiophis conspicillata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジムグリ。本州〜九州に分布する日本固有種のナミヘビ科の中型ヘビ。体長70〜100cm。茶褐色の体に赤褐色〜橙色の縞模様、頭部に独特の黒い『眼鏡』模様。地中生活が多く名前は『地潜り』に由来。ネズミなど小型哺乳類を捕食。無毒で大人しい性格。",
+      "habitat_hint": "山地〜里山の落葉広葉樹林、雑木林、社寺林、農地の縁、河岸林。落葉や石の下に潜む。",
+      "finding_tips": "夜行性または朝夕の活動が多く野生個体の観察は困難。山道や林道で見つけた茶色〜赤褐色の中型ヘビで頭に黒い眼鏡模様があれば本種。無毒なので静かに観察。"
+    },
+    "en": {
+      "summary": "Japanese Forest Rat Snake. A medium Colubridae snake (70–100 cm) endemic to Honshu to Kyushu. Brown body with reddish-brown to orange transverse marks and a distinctive black 'spectacles' pattern on the head. The Japanese name 'earth-burrower' reflects its largely subterranean habits. Preys on small mammals; non-venomous and docile.",
+      "habitat_hint": "Mountain and satoyama deciduous-broadleaf forests, secondary woodland, shrine groves, farmland margins, and riparian woods — hides under leaves and stones.",
+      "finding_tips": "Crepuscular or nocturnal — wild individuals are hard to see. A medium brown to reddish-brown snake with a black spectacles pattern on a mountain or forest track is this species. Non-venomous — observe quietly."
+    },
+    "zh": {
+      "summary": "日本地蛇（ジムグリ）。本州至九州分布之日本特有种游蛇科中型蛇。体长 70-100 厘米。茶褐体具红褐至橙色横斑，头具独特黑色『眼镜』纹。多地下生活，日文俗名意为『地潜』。捕食鼠等小型哺乳类。无毒性温和。",
+      "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、农田边缘、河岸林。藏于落叶与石下。",
+      "finding_tips": "夜行或晨昏活动，野生个体难观察。山道与林道上若见茶至红褐色中型蛇头具黑眼镜纹即本种。无毒可静观察。"
+    }
+  },
+  "Catocala patala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キシタバ。日本各地の雑木林に分布するヤガ科の大型蛾。前翅長30〜40mm、前翅は灰褐色〜茶褐色で樹皮に擬態、驚かすと後翅の鮮やかな黄色（『黄下』の和名）と黒い帯が現れる『フラッシュ・カラー』を持つ。クヌギ・コナラの樹液に集まる。",
+      "habitat_hint": "雑木林、社寺林、河畔林、山地の落葉広葉樹林。クヌギ・コナラなど樹液の出るブナ科のある場所。",
+      "finding_tips": "7〜9月の夜、クヌギ・コナラの樹液（傷口）を懐中電灯で照らすと吸蜜する大型蛾を見つけられる。驚かすと後翅の鮮やかな黄色が一瞬見えるのが識別ポイント。日中は樹皮に擬態。"
+    },
+    "en": {
+      "summary": "Yellow Underwing. A large Noctuidae moth across Japan, forewing 30–40 mm. Grey-brown forewings mimic bark; when disturbed, vivid yellow hindwings with black bands flash — the 'flash colour' source of the Japanese name 'yellow underwing'. Visits oak (Quercus acutissima, Q. serrata) sap flows.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and mountain deciduous-broadleaf forest — wherever sap-bleeding oaks grow.",
+      "finding_tips": "On summer nights (July–September) shine a torch on oak sap wounds to find large moths feeding. Disturb gently and the vivid yellow hindwings flash for an instant — the diagnostic moment. By day they're cryptic on bark."
+    },
+    "zh": {
+      "summary": "黄下翅蛾（キシタバ）。日本各地杂木林分布之夜蛾科大型蛾。前翅长 30-40 毫米，前翅灰褐至茶褐拟树皮，惊扰时露后翅鲜艳黄色（『黄下』之名）与黑带之『闪色』。常聚于栎树渗汁。",
+      "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。栎、麻栎等渗汁壳斗科所在处。",
+      "finding_tips": "七至九月夜，以手电照栎树渗汁可见大型蛾吸蜜。轻惊扰则后翅鲜艳黄色一瞬可见为辨识要点。日间停于树皮拟态。"
+    }
+  },
+  "Synanthedon hector": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コスカシバ。日本各地の果樹園に分布するスカシバガ科の小型蛾。前翅長10〜14mm、ハチに似た擬態（ベイツ擬態）で透明な翅と黄黒の体を持つ。日中に活動。幼虫がモモ・ウメ・サクラなどバラ科の幹を食害する重要害虫。",
+      "habitat_hint": "果樹園（モモ・ウメ・サクラ）、街路樹のサクラ、住宅地の庭。バラ科の樹木のある場所。",
+      "finding_tips": "5〜9月の日中、果樹園や桜並木でハチに似た小型の蛾を探します。透明な翅と黄黒の体、日中活動が識別ポイント。幼虫の食害痕（幹に粘性の樹液と虫糞）も観察できる。"
+    },
+    "en": {
+      "summary": "Cherry Tree Borer. A small Sesiidae clear-wing moth across Japanese orchards. Forewing 10–14 mm, with clear wings and a yellow-and-black body — a striking Batesian wasp mimic. Day-flying. Larvae bore into trunks of Rosaceae (peach, plum, cherry) — a major pest.",
+      "habitat_hint": "Peach, plum, and cherry orchards, cherry-tree avenues, and residential gardens — wherever Rosaceae trees grow.",
+      "finding_tips": "From May to September during the day check orchards and cherry avenues for small wasp-like moths. Clear wings, yellow-black body, and day-flight are diagnostic. Larval damage is visible as sticky sap exudate with frass on the trunk."
+    },
+    "zh": {
+      "summary": "桃透翅蛾（コスカシバ）。日本各地果园分布之透翅蛾科小型蛾。前翅长 10-14 毫米，拟蜂（贝氏拟态）具透明翅与黄黑体。白昼活动。幼虫食害桃、梅、樱等蔷薇科干为重要害虫。",
+      "habitat_hint": "果园（桃、梅、樱）、街边樱花林荫道、住宅庭院。蔷薇科树木所在处。",
+      "finding_tips": "五至九月白昼，于果园与樱花林荫道寻找形似蜂之小型蛾。透明翅、黄黑体、昼飞为辨识要点。幼虫食痕（干上粘性树液与虫粪）亦可观察。"
+    }
+  },
+  "Acanthosoma labiduroides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハサミツノカメムシ。本州〜九州の山地〜里山の落葉広葉樹林に分布するツノカメムシ科の中型カメムシ。体長16〜21mm、緑色〜赤緑色の体に黒い模様。和名は前胸部両側の角状突起と腹部末端の独特の『ハサミ』形の突起から。木の葉や幹で観察される。",
+      "habitat_hint": "山地〜里山の落葉広葉樹林、雑木林、社寺林、河畔林。広葉樹のある場所。",
+      "finding_tips": "5〜10月、雑木林の広葉樹の葉や幹で前胸部両側に角状突起、腹部末端に『ハサミ』形の突起を持つ緑色〜赤緑色の中型カメムシを探します。独特の形態で識別容易。"
+    },
+    "en": {
+      "summary": "Scissor-tip Shield Bug. A medium Acanthosomatidae bug (16–21 mm) of mountain and satoyama deciduous-broadleaf forests from Honshu to Kyushu. Green to reddish-green body with black markings. Japanese name from the lateral horn-like pronotal projections and distinctive 'scissor' shape at the abdomen tip. Observed on tree leaves and trunks.",
+      "habitat_hint": "Mountain and satoyama deciduous-broadleaf forest, secondary woodland, shrine groves, and riparian woods — wherever broadleaf trees grow.",
+      "finding_tips": "From May to October check leaves and trunks of broadleaf trees in woodlands for medium green to reddish-green bugs with horned lateral pronotal projections and distinctive 'scissor' abdomen-tip. The unique form is easy to identify."
+    },
+    "zh": {
+      "summary": "钳尾盾蝽（ハサミツノカメムシ）。本州至九州山地至里山落叶阔叶林分布之同蝽科中型蝽。体长 16-21 毫米，绿至红绿体具黑纹。日文俗名得自前胸两侧角状突与腹端独特之『钳』形突。常于树叶与干上观察。",
+      "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、河岸林。阔叶树所在处。",
+      "finding_tips": "五至十月，于杂木林之阔叶树叶与干上寻找前胸两侧具角状突、腹端具『钳』形突之绿至红绿色中型蝽。独特形态易辨。"
+    }
+  },
+  "Eucorysses grandis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオキンカメムシ。本州（紀伊半島以南）・四国・九州の暖地に分布する大型のキンカメムシ科。体長18〜26mm、鮮やかな朱赤色〜赤橙色に金属光沢のある黒色斑紋、宝石のような美しい姿。アブラギリなどの樹木に集団で集まる。",
+      "habitat_hint": "暖地の照葉樹林、社寺林、河岸林、果樹園、住宅地の庭。アブラギリ・ハゼノキなどの樹木のある場所。",
+      "finding_tips": "5〜10月、暖地のアブラギリやハゼノキの葉・果実周辺で鮮やかな朱赤色の大型カメムシを探します。集団でつくことが多く宝石のような美しさで識別容易。"
+    },
+    "en": {
+      "summary": "Giant Jewel Bug. A large Scutelleridae bug (18–26 mm) of warm regions of southern Honshu (Kii Peninsula southward), Shikoku, and Kyushu. Brilliant vermilion to red-orange with iridescent black markings — strikingly jewel-like. Aggregates on tung oil trees and related.",
+      "habitat_hint": "Warm-region laurel forest, shrine groves, riparian woods, orchards, and residential gardens — around tung oil tree and Rhus succedanea.",
+      "finding_tips": "From May to October in warm regions check tung oil and Rhus trees for large brilliant vermilion bugs around leaves and fruits. Often in conspicuous aggregations — jewel-like beauty is unmistakable."
+    },
+    "zh": {
+      "summary": "巨蝽（オオキンカメムシ）。本州纪伊半岛以南、四国、九州暖地分布之盾蝽科大型种。体长 18-26 毫米，鲜艳朱红至橙红色具金属光泽黑斑，宝石般美姿。常群集于油桐等树木。",
+      "habitat_hint": "暖地照叶林、神社林、河岸林、果园、住宅庭院。油桐、野漆等树木所在处。",
+      "finding_tips": "五至十月，于暖地油桐与野漆之叶与果周边寻找鲜艳朱红色大型蝽。常成群聚集，宝石般美丽易辨。"
+    }
+  },
+  "Episcapha fortunii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメオビオオキノコ。本州〜九州の雑木林に分布するオオキノコムシ科の中型甲虫。体長10〜14mm、黒地に橙赤色の2本の帯（『姫帯』）が目立つ。広葉樹のキノコ（特にサルノコシカケ類）に集まりキノコを食べる。樹皮や倒木のキノコ周辺で観察。",
+      "habitat_hint": "雑木林、社寺林、河畔林、湿った林床。広葉樹のキノコ（サルノコシカケ・キクラゲ類）周辺。",
+      "finding_tips": "5〜10月、雑木林の倒木や枯木に発生する硬いキノコ（サルノコシカケ類）周辺で黒地に橙赤色の2本の帯のある中型甲虫を探します。集団でいることが多く識別容易。"
+    },
+    "en": {
+      "summary": "Two-banded Pleasing Fungus Beetle. A medium Erotylidae beetle (10–14 mm) of Honshu to Kyushu secondary woodlands. Black with two orange-red bands — source of the Japanese name 'princess-band fungus beetle'. Gathers on broadleaf-tree fungi (especially bracket fungi) and feeds on them.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and damp forest floors — around broadleaf-tree bracket fungi and jelly fungi.",
+      "finding_tips": "From May to October check hard bracket fungi on fallen logs and dead wood in woodlands for medium beetles with two orange-red bands on a black body. Often in clusters."
+    },
+    "zh": {
+      "summary": "二带大蕈甲（ヒメオビオオキノコ）。本州至九州杂木林分布之大蕈甲科中型甲虫。体长 10-14 毫米，黑底具 2 道橙红色带（『姫带』）显眼。聚于阔叶树菌（尤其多孔菌类）食菌。常于树皮与倒木之菇周观察。",
+      "habitat_hint": "杂木林、神社林、河岸林、湿润林床。阔叶树之菇（多孔菌、木耳类）周边。",
+      "finding_tips": "五至十月，于杂木林倒木与枯木之硬菌（多孔菌类）周边寻找黑底具 2 道橙红色带之中型甲虫。常成群易辨。"
+    }
+  },
+  "Yaginumia sia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ズグロオニグモ。本州〜九州の山地〜里山の樹林・林縁・住宅地に分布するコガネグモ科の中型クモ。体長雌12〜18mm。雌は腹部が大きく丸く、頭部が黒く（『頭黒』の和名）、腹部背面に独特の白い斑紋。垂直な大型の円網を張る。夜間活動。",
+      "habitat_hint": "雑木林、社寺林、河畔林、住宅地の庭、公園の樹木。樹間や軒下、植え込みなど網を張れる場所。",
+      "finding_tips": "夜間（日没後）に住宅地の庭や雑木林で大型の円網を張る黒い頭部のクモを探します。日中は網の隅や葉裏に隠れる。網は夜間〜早朝が観察適期。雌は大型で識別容易。"
+    },
+    "en": {
+      "summary": "Black-headed Orb Weaver. A medium Araneidae orb weaver of Honshu to Kyushu woodlands and residential areas. Females 12–18 mm — large round abdomen with a black head (source of the Japanese name 'black-head') and distinctive white markings on the dorsal abdomen. Spins large vertical orb webs. Active at night.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, residential gardens, and park trees — anywhere a web can be strung.",
+      "finding_tips": "At night (after dusk) check residential gardens and woodlands for large orb webs with the spider on it. Black-headed females are diagnostic. By day they hide at the web edge or under leaves. Night to early morning is best for observation."
+    },
+    "zh": {
+      "summary": "黑头园蛛（ズグロオニグモ）。本州至九州山地至里山林地、林缘、住宅区分布之园蛛科中型蛛。雌体长 12-18 毫米。雌腹大圆，头黑（『头黑』之名），背腹具独特白色斑纹。结大型垂直圆网。夜间活动。",
+      "habitat_hint": "杂木林、神社林、河岸林、住宅庭院、公园树木。树间、檐下、栽植等可结网处。",
+      "finding_tips": "夜间（日落后）于住宅庭院与杂木林寻找结大型圆网之头黑蜘蛛。日间藏于网角或叶背。夜至清晨为观察良机。雌大型易辨。"
+    }
+  },
+  "Apochima juglansiaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オカモトトゲエダシャク。本州〜九州の雑木林に分布するシャクガ科の中型蛾。前翅長20〜28mm、灰褐色〜茶褐色の翅に黒い模様、後翅には特異な突起（『棘』）がある。早春に羽化し、3〜4月の冷涼期に成虫が活動する珍しい『早春の蛾』。",
+      "habitat_hint": "雑木林、社寺林、河畔林、山地の落葉広葉樹林。広葉樹（特にクルミ・ウルシ科）のある場所。",
+      "finding_tips": "3〜4月、早春の雑木林で灯火や樹皮にとまる灰褐色の中型蛾を探します。後翅に独特な突起（棘）があるのが識別ポイント。寒い時期に活動する珍しい蛾。"
+    },
+    "en": {
+      "summary": "Walnut Spined Geometrid. A medium Geometridae moth of Honshu to Kyushu secondary woodlands. Forewing 20–28 mm; grey-brown to tan wings with dark markings and distinctive spine-like projections on the hindwings. Eclose in early spring; adults active in cool March–April — an unusual early-spring moth.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and mountain deciduous-broadleaf forest — wherever broadleaf trees (especially walnut and Anacardiaceae) grow.",
+      "finding_tips": "From March to April in early-spring woodlands check lights and bark for medium grey-brown moths. The diagnostic spine-like projections on the hindwings are easy to spot. Unusual as a cold-season active moth."
+    },
+    "zh": {
+      "summary": "胡桃刺尺蛾（オカモトトゲエダシャク）。本州至九州杂木林分布之尺蛾科中型蛾。前翅长 20-28 毫米，灰褐至茶褐翅具黑斑，后翅具独特突起（『刺』）。早春羽化，三至四月凉爽期成虫活动之罕见『早春蛾』。",
+      "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树（尤胡桃与漆树科）所在处。",
+      "finding_tips": "三至四月，早春杂木林之灯下与树皮上寻找灰褐色中型蛾。后翅独特突起（刺）为辨识要点。寒季活动之罕见蛾。"
+    }
+  },
+  "Macroscytus japonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツチカメムシ。本州〜九州の雑木林・農地・草地に分布するツチカメムシ科の中型カメムシ。体長8〜10mm、黒色〜暗茶褐色で平たい体型。地表性で落葉下や石の下に隠れ、植物の根や種子から吸汁する。臭気を出すことから『臭虫』とも。",
+      "habitat_hint": "雑木林、社寺林、農地の縁、河川敷、空き地。落葉や石の下、地表近くを好む。",
+      "finding_tips": "通年（暖季活発）、雑木林や農地で落葉や石の下を覗くと見つかる黒色〜暗茶褐色の平たい体型のカメムシを探します。地表で素早く歩く。掴むと臭気を出す。"
+    },
+    "en": {
+      "summary": "Burrower Bug. A medium Cydnidae bug (8–10 mm) of Honshu to Kyushu secondary woodlands, farmland, and grasslands. Black to dark brown with flat body. Ground-dwelling, hiding under leaves and stones; sucks sap from plant roots and seeds. Emits a strong odour when handled.",
+      "habitat_hint": "Secondary woodland, shrine groves, farmland margins, riverbanks, and vacant lots — favours under leaves and stones near the ground.",
+      "finding_tips": "Year-round (most active in warm months) turn over leaves and stones in woodlands and farmland to find flat black to dark brown bugs. Walks quickly on the ground. Releases pungent odour when handled."
+    },
+    "zh": {
+      "summary": "土蝽（ツチカメムシ）。本州至九州杂木林、农田、草地分布之土蝽科中型蝽。体长 8-10 毫米，黑至暗茶褐色，体扁平。地栖藏于落叶与石下，吸食植物根与种子。被触发臭气故亦称『臭虫』。",
+      "habitat_hint": "杂木林、神社林、农田边缘、河滩、空地。喜落叶与石下、地表近处。",
+      "finding_tips": "全年（暖季活跃），于杂木林与农田翻落叶与石可见黑至暗茶褐色之扁平蝽。地表迅捷行走。捕则发臭气。"
+    }
+  },
+  "Phialodes rufipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アシナガオトシブミ。本州〜九州の雑木林に分布するオトシブミ科の小型甲虫。体長6〜9mm、黒地に上翅が赤褐色〜橙赤色。和名は他のオトシブミより足が長いことから。広葉樹（特にコナラ・クヌギ）の葉を巻いて『揺籃』を作り卵を産む独特の生態。",
+      "habitat_hint": "雑木林、社寺林、河畔林、山地の落葉広葉樹林。コナラ・クヌギなどのある場所。",
+      "finding_tips": "5〜7月、雑木林のコナラ・クヌギの葉で巻かれた『揺籃』（葉巻）を探します。葉が独特の形に巻かれているのが本種の作品。成虫は黒地に赤褐色の上翅と長い足が識別ポイント。"
+    },
+    "en": {
+      "summary": "Long-legged Leaf-roller. A small Attelabidae weevil (6–9 mm) of Honshu to Kyushu secondary woodlands. Black with reddish-brown to orange-red elytra. The Japanese name reflects its longer legs than other leaf-rollers. Famous for the female's tightly rolled 'cradle' of broadleaf (especially oak) leaves for the egg.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and mountain deciduous-broadleaf forest — wherever konara and sawtooth oaks grow.",
+      "finding_tips": "From May to July check oak leaves in woodlands for the distinctive tightly rolled 'cradle' leaves — the species' signature work. Adults have black body with reddish-brown elytra and noticeably long legs."
+    },
+    "zh": {
+      "summary": "长足卷叶象（アシナガオトシブミ）。本州至九州杂木林分布之卷叶象科小型甲虫。体长 6-9 毫米，黑底鞘翅红褐至橙红色。日文俗名因足较他卷叶象长而得名。雌将阔叶（尤栎）卷成『摇篮』产卵之独特生态。",
+      "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。栎与麻栎所在处。",
+      "finding_tips": "五至七月，于杂木林之栎叶上寻找卷成『摇篮』之叶卷——本种之作品。成虫黑底红褐鞘翅与长足为辨识要点。"
+    }
+  },
+  "Bocchoris inspersalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロモンノメイガ。日本各地の雑木林・農地に分布するメイガ科の小型蛾。前翅長10〜14mm、黒褐色の翅に鮮やかな白い斑紋（『白紋』）が目立つ。日中も活動し、草地や林縁で飛んでいる姿が見られる。幼虫はカラスウリなどウリ科を食害。",
+      "habitat_hint": "雑木林、社寺林、農地、家庭菜園、河川敷の草地。ウリ科の植物のある場所。",
+      "finding_tips": "5〜10月、草地や林縁で黒褐色に鮮やかな白い斑紋のある小型蛾を探します。日中も活動するので日中観察可能。鮮やかな白黒模様で識別容易。"
+    },
+    "en": {
+      "summary": "White-spotted Crambid. A small Crambidae moth (forewing 10–14 mm) across Japan's secondary woodlands and farmland. Dark brown wings with vivid white spots — diagnostic. Often active by day; seen flying in grasslands and woodland edges. Larvae feed on Cucurbitaceae (Trichosanthes etc).",
+      "habitat_hint": "Secondary woodland, shrine groves, farmland, vegetable gardens, and riverbank grasslands — where Cucurbitaceae grow.",
+      "finding_tips": "From May to October check grasslands and woodland edges for small moths with vivid white spots on dark brown wings. Day-flying often observed; the bold white-on-black pattern is easy to identify."
+    },
+    "zh": {
+      "summary": "白纹野螟（シロモンノメイガ）。日本各地杂木林与农田分布之螟蛾科小型蛾。前翅长 10-14 毫米，黑褐翅具鲜艳白斑（『白纹』）显眼。白昼亦活动，常于草地与林缘飞行。幼虫食害栝楼等葫芦科。",
+      "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩草地。葫芦科植物所在处。",
+      "finding_tips": "五至十月，于草地与林缘寻找黑褐底具鲜艳白斑之小型蛾。白昼活动可观察。鲜艳白黑斑易辨。"
+    }
+  },
+  "Euthrix albomaculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タケカレハ。日本各地のタケ・ササ林に分布するカレハガ科の中型蛾。前翅長25〜35mm、茶褐色〜灰褐色の翅で枯葉に擬態。幼虫は『毒毛虫』として有名で、タケ・ササの葉を食害し、毛が皮膚に触れると激しい痛みと炎症を起こす。庭の竹林や公園で注意。",
+      "habitat_hint": "タケ・ササ林、公園のタケ・ササ植栽、住宅地の生垣、雑木林の縁。",
+      "finding_tips": "7〜10月の夜、灯火に集まる茶褐色の中型蛾を探します。幼虫（毒毛虫）は5〜7月、タケ・ササの葉裏で群生し、黒褐色〜茶褐色の毛むくじゃらな姿。絶対に触らない（毒）。"
+    },
+    "en": {
+      "summary": "Bamboo Lappet Moth. A medium Lasiocampidae moth across Japanese bamboo and dwarf-bamboo groves. Forewing 25–35 mm, brown to grey-brown — mimics dead leaves. Famous as a 'poisonous caterpillar' — larvae feed on bamboo leaves and their hairs cause severe pain and inflammation on skin contact. Caution in garden bamboo and parks.",
+      "habitat_hint": "Bamboo and dwarf-bamboo groves, park bamboo plantings, residential hedges, and secondary woodland edges.",
+      "finding_tips": "On summer-autumn nights (July–October) check lights for medium brown moths. Larvae (poisonous caterpillars) gather on bamboo leaf undersides May–July, dark brown to brown and hairy. Never touch — toxic."
+    },
+    "zh": {
+      "summary": "竹枯叶蛾（タケカレハ）。日本各地竹与笹林分布之枯叶蛾科中型蛾。前翅长 25-35 毫米，茶褐至灰褐翅拟枯叶。幼虫为人熟知之『毒毛虫』，食害竹笹叶，毛触皮肤则剧痛炎症。庭竹与公园中需注意。",
+      "habitat_hint": "竹与笹林、公园竹笹栽植、住宅围篱、杂木林缘。",
+      "finding_tips": "七至十月夏秋夜，于灯下寻找茶褐色中型蛾。幼虫（毒毛虫）五至七月聚于竹笹叶背，黑褐至茶褐毛绒绒。绝勿触摸——有毒。"
+    }
+  },
+  "Xanthodes transversa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フタトガリアオイガ。日本各地に分布するヤガ科の中型蛾。前翅長18〜22mm、淡黄色〜橙黄色の翅に黒い細い線が走る独特の姿で、葉脈に擬態する。幼虫はムクゲ・フヨウ・オクラなどアオイ科を食害する。庭園・農地の害虫として知られる。",
+      "habitat_hint": "庭園、公園、農地、家庭菜園、雑木林の縁。ムクゲ・フヨウ・オクラなどアオイ科のある場所。",
+      "finding_tips": "5〜10月、夜間に灯火に集まる淡黄〜橙黄色の中型蛾を探します。翅の黒い線が葉脈のように見える擬態が特徴。日中はムクゲ・フヨウの葉裏で休む。"
+    },
+    "en": {
+      "summary": "Yellow Cotton Caterpillar (adult). A medium Noctuidae moth across Japan, forewing 18–22 mm. Pale-yellow to orange-yellow wings traced with thin black lines that mimic leaf veins. Larvae feed on Malvaceae (rose mallow, hibiscus, okra) — known as garden and farm pests.",
+      "habitat_hint": "Gardens, parks, farmland, vegetable gardens, and woodland edges — wherever rose mallow, hibiscus, or okra grow.",
+      "finding_tips": "From May to October check lights at night for medium pale-yellow to orange-yellow moths. The leaf-vein-mimicking black lines on the wings are distinctive. By day they rest on the undersides of rose mallow and hibiscus leaves."
+    },
+    "zh": {
+      "summary": "横线锦夜蛾（フタトガリアオイガ）。日本各地分布之夜蛾科中型蛾。前翅长 18-22 毫米，淡黄至橙黄翅具黑色细线之独特姿，拟叶脉。幼虫食害木槿、芙蓉、秋葵等锦葵科。园艺与农田害虫。",
+      "habitat_hint": "庭园、公园、农田、家庭菜园、杂木林缘。木槿、芙蓉、秋葵等锦葵科所在处。",
+      "finding_tips": "五至十月夜间，于灯下寻找淡黄至橙黄色中型蛾。翅之黑色线拟叶脉为特征。日间息于木槿与芙蓉叶背。"
+    }
+  },
+  "Chizuella bonneti": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバネヒメギス。本州〜九州の山地〜里山の草地・林縁に分布するキリギリス科の小型直翅目。体長12〜18mm、緑色〜褐色で翅が短い（『小翅』）。秋に『シリリ…』と細く澄んだ声で鳴く秋の鳴く虫。雑食性で他の昆虫も捕食。",
+      "habitat_hint": "山地〜里山の草地、林縁、河川敷、社寺林の縁、土手。湿った日陰のある草地を好む。",
+      "finding_tips": "8〜10月の夜、草地や林縁で『シリリ…』と細く澄んだ声で鳴く小型のキリギリス科を探します。翅が短く跳ねて移動。緑色〜褐色の体色変異あり。"
+    },
+    "en": {
+      "summary": "Short-winged Cone-head. A small Tettigoniidae (12–18 mm) of Honshu to Kyushu mountain and satoyama grasslands and forest edges. Green to brown with shortened wings — source of the Japanese name 'small-wing'. Sings a clear high-pitched 'shi-ri-ri' in autumn. Omnivorous; also takes other insects.",
+      "habitat_hint": "Mountain and satoyama grasslands, forest edges, riverbanks, shrine-grove edges, and embankments — favours moist shaded grass.",
+      "finding_tips": "On autumn nights (August–October) listen in grasslands and forest edges for the clear 'shi-ri-ri' song. Short wings; hops to move. Green or brown colour varies."
+    },
+    "zh": {
+      "summary": "短翅姫螽（コバネヒメギス）。本州至九州山地至里山草地与林缘分布之螽斯科小型直翅目。体长 12-18 毫米，绿至褐色翅短（『小翅』）。秋发『shi-ri-ri』清越细鸣之秋鸣虫。杂食亦捕食他虫。",
+      "habitat_hint": "山地至里山草地、林缘、河滩、神社林缘、土堤。喜湿润荫蔽草地。",
+      "finding_tips": "八至十月夜，于草地与林缘寻找发『shi-ri-ri』清越细鸣之小型螽斯。翅短跳跃移动。绿至褐体色变异。"
+    }
+  },
+  "Rhopaloscelis unifasciatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒトオビアラゲカミキリ。本州〜九州の雑木林に分布する小型カミキリムシ。体長6〜10mm、灰褐色〜茶褐色のまだら模様で背中の前半に独特の毛束、上翅中央に1本の白い帯（『一帯』）がある。広葉樹の枯木に発生し、樹皮に擬態。",
+      "habitat_hint": "雑木林、社寺林、河畔林、伐採跡地、薪材の置き場。広葉樹の枯木・倒木。",
+      "finding_tips": "5〜9月、雑木林の倒木や薪材で灰褐色のまだら模様で背中に毛束、上翅中央に白い帯のある小型カミキリを探します。樹皮に擬態するので注意深く観察。"
+    },
+    "en": {
+      "summary": "One-banded Bristled Longicorn. A small Cerambycidae beetle (6–10 mm) of Honshu to Kyushu secondary woodlands. Grey-brown to tan mottled with a distinctive hair tuft on the anterior thorax and a single white band across the middle of the elytra — source of the Japanese name 'one-band bristled longhorn'. Develops on dead broadleaf wood; mimics bark.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, clearings, and firewood stacks — on dead broadleaf wood.",
+      "finding_tips": "From May to September check fallen logs and firewood for small mottled brown longhorns with a thorax bristle tuft and a single white middle elytral band. Cryptic on bark — look carefully."
+    },
+    "zh": {
+      "summary": "一带刚毛天牛（ヒトオビアラゲカミキリ）。本州至九州杂木林分布之小型天牛。体长 6-10 毫米，灰褐至茶褐杂斑，背前半具独特毛束，鞘翅中央有 1 道白带（『一带』）。于阔叶枯木发生，拟树皮。",
+      "habitat_hint": "杂木林、神社林、河岸林、伐采迹地、薪柴堆。阔叶枯木与倒木。",
+      "finding_tips": "五至九月，于杂木林倒木与薪柴上寻找灰褐杂斑、背具毛束、鞘翅中央具白带之小型天牛。拟树皮需细察。"
+    }
+  },
+  "Geocoris varius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオメナガカメムシ。本州〜九州の農地・草地に分布するナガカメムシ科の小型カメムシ。体長4〜5mm、灰褐色の体に大きな目（『大目』の和名）が特徴。アブラムシ・ハダニなどを捕食する益虫として知られ、生物的防除に利用されることも。",
+      "habitat_hint": "農地、家庭菜園、河川敷の草地、空き地、公園の花壇。アブラムシのいる植物の周辺。",
+      "finding_tips": "5〜10月、農地の作物（ダイズ・キャベツ等）や草地でアブラムシ集団の周辺を観察します。灰褐色の小型カメムシで頭部の大きな目が特徴。捕食シーンが観察できる益虫。"
+    },
+    "en": {
+      "summary": "Big-eyed Bug. A small Geocoridae bug (4–5 mm) of Japanese farmland and grasslands from Honshu to Kyushu. Grey-brown body with characteristically large eyes — source of the Japanese name 'big-eye long bug'. A beneficial predator of aphids and mites, sometimes used in biological control.",
+      "habitat_hint": "Farmland, vegetable gardens, riverbank grasslands, vacant lots, and park flowerbeds — around aphid-infested plants.",
+      "finding_tips": "From May to October check crops (soybean, cabbage) and grasslands around aphid colonies. Small grey-brown bugs with conspicuously large eyes; you may witness predation."
+    },
+    "zh": {
+      "summary": "大眼长蝽（オオメナガカメムシ）。本州至九州农田与草地分布之长蝽科小型蝽。体长 4-5 毫米，灰褐体头具大眼（『大目』之名）为特征。捕食蚜虫与红蜘蛛之益虫，亦用于生物防治。",
+      "habitat_hint": "农田、家庭菜园、河滩草地、空地、公园花坛。蚜虫所在植物周边。",
+      "finding_tips": "五至十月，于农田作物（大豆、卷心菜等）与草地之蚜群周边观察。灰褐小型蝽，头部大眼显著。捕食情景可观察之益虫。"
+    }
+  },
+  "Dryomyza formosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ベッコウバエ。本州〜九州の雑木林・社寺林に分布するベッコウバエ科の中型ハエ。体長10〜13mm、橙黄色〜黄褐色の体に翅が褐色を帯びる『鼈甲』のような美しい姿。落葉下や朽木、キノコ周辺で見られ、有機物を分解する分解者。",
+      "habitat_hint": "雑木林、社寺林、河畔林、湿った林床。落葉下、朽木、キノコの周辺。",
+      "finding_tips": "5〜10月、雑木林の林床で橙黄色の体に褐色の翅を持つ中型のハエを探します。落葉下、朽木、キノコ周辺で多数見つかることがある。『鼈甲』のような色彩が美しい。"
+    },
+    "en": {
+      "summary": "Tortoiseshell Fly. A medium Dryomyzidae fly (10–13 mm) of Honshu to Kyushu secondary and shrine woodlands. Orange-yellow to tan body with brownish wings — a 'tortoiseshell' look. Found around leaf litter, rotting wood, and fungi as a decomposer.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and damp forest floors — around leaf litter, rotting wood, and fungi.",
+      "finding_tips": "From May to October check woodland floors for medium flies with orange-yellow body and brownish wings. Often numerous around leaf litter, rotten logs, and mushrooms. The tortoiseshell colour is striking."
+    },
+    "zh": {
+      "summary": "鳖甲蝇（ベッコウバエ）。本州至九州杂木林与神社林分布之鳖甲蝇科中型蝇。体长 10-13 毫米，橙黄至黄褐体翅带褐色，『鳖甲』般美姿。常于落叶下、朽木、菇周边可见，为分解者。",
+      "habitat_hint": "杂木林、神社林、河岸林、湿润林床。落叶下、朽木、菇周边。",
+      "finding_tips": "五至十月，于杂木林林床寻找橙黄体褐翅之中型蝇。落叶下、朽木、菇周边常成群可见。『鳖甲』色彩美丽。"
+    }
+  },
+  "Sophonia orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロスジホソサジヨコバイ。日本各地に普通な小型ヨコバイ科。体長6〜8mm、淡黄色〜白色の細長い体に黒い縦条が走る独特の姿。多種多様な植物につき、特にツツジ類で多く見られる。アジア各地に分布し、ハワイなどでは果樹害虫として侵入問題になっている。",
+      "habitat_hint": "雑木林、社寺林、住宅地の庭、農地、果樹園、公園の樹木。多様な広葉樹周辺。",
+      "finding_tips": "5〜10月、雑木林や庭の樹木の葉裏で淡黄色〜白色の細長い体に黒い縦条のある小型ヨコバイを探します。葉裏に集まることが多く、近づくと素早く跳ねる。"
+    },
+    "en": {
+      "summary": "Two-spotted Leafhopper. A small Cicadellidae leafhopper (6–8 mm) common across Japan. Slender pale-yellow to whitish body with distinctive black longitudinal stripes. Polyphagous on many plants, especially azaleas. Widely distributed across Asia and is an invasive orchard pest in Hawaii.",
+      "habitat_hint": "Secondary woodland, shrine groves, residential gardens, farmland, orchards, and park trees — on diverse broadleaf foliage.",
+      "finding_tips": "From May to October check leaf undersides on woodland and garden trees for small slender leafhoppers with pale yellow to white body and black longitudinal stripes. Gathers under leaves; jumps when disturbed."
+    },
+    "zh": {
+      "summary": "黑条匙叶蝉（クロスジホソサジヨコバイ）。日本各地普见之小型叶蝉科。体长 6-8 毫米，淡黄至白色细长体具黑色纵条之独特姿。多食性附众多植物，尤其杜鹃花类。亚洲广布，于夏威夷为入侵果树害虫。",
+      "habitat_hint": "杂木林、神社林、住宅庭院、农田、果园、公园树木。多样阔叶树周边。",
+      "finding_tips": "五至十月，于杂木林与庭院树木叶背寻找淡黄至白色细长体具黑纵条之小型叶蝉。多集叶背，近则迅跳。"
+    }
+  },
+  "Cassida japana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イノコヅチカメノコハムシ。本州〜九州の雑木林・農地に分布するハムシ科の小型甲虫。体長6〜8mm、黄緑色〜緑色の体に黒い斑紋、亀甲のように平たく広がった形（『カメノコ』の和名）。イノコヅチの葉を食害する。葉に張り付くように動かない姿が独特。",
+      "habitat_hint": "雑木林の林縁、農地の縁、河川敷、空き地、住宅地の庭。イノコヅチがある場所。",
+      "finding_tips": "6〜10月、雑木林の林縁や農地のイノコヅチの葉で黄緑色の亀甲形ハムシを探します。葉に張り付くように動かない姿が特徴。捕まえると足を引っ込めて死んだふりをする。"
+    },
+    "en": {
+      "summary": "Achyranthes Tortoise Beetle. A small Chrysomelidae tortoise beetle (6–8 mm) of Honshu to Kyushu secondary woodlands and farmland. Yellow-green to green body with black markings, with a flat tortoise-shell shape — source of the Japanese name. Feeds on Achyranthes (inokozuchi) leaves. Distinctive habit of clinging motionless to leaves.",
+      "habitat_hint": "Secondary-woodland edges, farmland margins, riverbanks, vacant lots, and residential gardens — wherever Achyranthes grows.",
+      "finding_tips": "From June to October check Achyranthes leaves on woodland edges and farmland for yellow-green tortoise-shaped beetles. Their motionless clinging is distinctive. When handled they pull in legs and play dead."
+    },
+    "zh": {
+      "summary": "牛膝龟甲（イノコヅチカメノコハムシ）。本州至九州杂木林与农田分布之叶甲科小型甲虫。体长 6-8 毫米，黄绿至绿色体具黑斑，扁平如龟甲（『カメノコ』之名）。食害牛膝叶。贴叶不动之独特姿。",
+      "habitat_hint": "杂木林林缘、农田边缘、河滩、空地、住宅庭院。牛膝所在处。",
+      "finding_tips": "六至十月，于杂木林林缘与农田之牛膝叶上寻找黄绿色龟甲形叶甲。贴叶不动为特征。捕之则收足装死。"
+    }
+  },
+  "Chrysobothris succedanea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムツボシタマムシ。本州〜九州の雑木林に分布する小型タマムシ科。体長8〜13mm、暗緑色〜青緑色の金属光沢のある体に6つの黄色い斑点（『六星』の和名）。広葉樹の枯木に発生し、夏季の晴天時に飛び回る姿が美しい。",
+      "habitat_hint": "雑木林、社寺林、河畔林、伐採跡地、薪材の置き場。広葉樹の枯木・倒木。",
+      "finding_tips": "6〜8月、夏の晴れた日中に雑木林の伐採木や枯木で暗緑色金属光沢に6つの黄色斑のある小型タマムシを探します。飛び回る姿が美しく、止まると金属光沢が目立つ。"
+    },
+    "en": {
+      "summary": "Six-spotted Jewel Beetle. A small Buprestidae beetle (8–13 mm) of Honshu to Kyushu secondary woodlands. Dark green to blue-green metallic body with six yellow spots — source of the Japanese name 'six-star jewel beetle'. Develops on dead broadleaf wood; beautiful in flight on sunny summer days.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, clearings, and firewood stacks — on dead broadleaf wood.",
+      "finding_tips": "From June to August on sunny summer days check felled wood and dead trees in woodlands for small metallic dark-green jewel beetles with six yellow spots. The flight is dazzling, and the metallic sheen pops when perched."
+    },
+    "zh": {
+      "summary": "六星吉丁（ムツボシタマムシ）。本州至九州杂木林分布之小型吉丁科。体长 8-13 毫米，暗绿至青绿金属光泽体具 6 黄斑（『六星』之名）。于阔叶枯木发生，夏晴日飞行姿美。",
+      "habitat_hint": "杂木林、神社林、河岸林、伐采迹地、薪柴堆。阔叶枯木与倒木。",
+      "finding_tips": "六至八月，夏晴白昼于杂木林之伐倒木与枯木寻找暗绿金属光泽具 6 黄斑之小型吉丁。飞行美丽，停立时金属光泽显眼。"
+    }
+  },
+  "Aplotes roelofsi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トホシオサゾウムシ。本州〜九州の山地〜里山の雑木林に分布する小型オサゾウムシ科。体長6〜9mm、黒地に上翅に10個の橙赤色の斑点（『十星』の和名）が美しい。広葉樹の葉や若枝で観察される。鮮やかな警告色を持つ。",
+      "habitat_hint": "山地〜里山の落葉広葉樹林、雑木林、社寺林、河畔林。広葉樹のある場所。",
+      "finding_tips": "5〜9月、山地の雑木林の広葉樹の葉や若枝で黒地に10個の橙赤色の斑点のある小型ゾウムシを探します。鮮やかな色彩で識別容易。"
+    },
+    "en": {
+      "summary": "Ten-spotted Snout Weevil. A small Brentidae weevil (6–9 mm) of Honshu to Kyushu mountain and satoyama secondary woodlands. Black with ten orange-red spots on the elytra — beautiful and source of the Japanese name 'ten-star weevil'. Observed on broadleaf foliage and young twigs. Bears warning colours.",
+      "habitat_hint": "Mountain and satoyama deciduous-broadleaf forests, secondary woodland, shrine groves, and riparian woods — wherever broadleaf trees grow.",
+      "finding_tips": "From May to September check broadleaf foliage and young twigs in mountain woodlands for small weevils with ten orange-red spots on a black body. The bold colours make identification easy."
+    },
+    "zh": {
+      "summary": "十星象（トホシオサゾウミシ）。本州至九州山地至里山杂木林分布之象虫科小型种。体长 6-9 毫米，黑底鞘翅具 10 橙红斑（『十星』之名）美丽。常于阔叶树叶与嫩枝观察。具鲜艳警戒色。",
+      "habitat_hint": "山地至里山落叶阔叶林、杂木林、神社林、河岸林。阔叶树所在处。",
+      "finding_tips": "五至九月，于山地杂木林之阔叶树叶与嫩枝寻找黑底具 10 橙红斑之小型象虫。鲜艳色彩易辨。"
+    }
+  },
+  "Gyndes pallicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヨツボシヒョウタンナガカメムシ。本州〜九州の草地・河川敷に分布するナガカメムシ科の小型カメムシ。体長5〜7mm、暗褐色〜黒色の体に4つの淡色斑点（『四星』の和名）、ひょうたん形の体（『瓢箪形』）が特徴。地表性で落葉下や石の下で見られる。",
+      "habitat_hint": "草地、河川敷、農地の縁、空き地、雑木林の縁、土手。地表近くで観察。",
+      "finding_tips": "5〜10月、草地や河川敷で落葉下や石の下を覗くと見つかる暗褐色〜黒色の体にひょうたん形・4つの淡色斑点の小型カメムシを探します。地表で素早く歩く。"
+    },
+    "en": {
+      "summary": "Four-spotted Long Bug. A small Lygaeidae bug (5–7 mm) of Honshu to Kyushu grasslands and riverbanks. Dark brown to black body with four pale spots — source of the Japanese name 'four-star gourd-shaped long bug' — and a gourd-shaped body. Ground-dwelling; found under leaves and stones.",
+      "habitat_hint": "Grasslands, riverbanks, farmland margins, vacant lots, woodland edges, and embankments — observe near the ground.",
+      "finding_tips": "From May to October turn over leaves and stones in grasslands and riverbanks for dark brown to black gourd-shaped bugs with four pale spots. Walks quickly on the ground."
+    },
+    "zh": {
+      "summary": "四星葫芦长蝽（ヨツボシヒョウタンナガカメムシ）。本州至九州草地与河滩分布之长蝽科小型蝽。体长 5-7 毫米，暗褐至黑色体具 4 淡色斑（『四星』之名）、体葫芦形为特征。地栖于落叶下与石下可见。",
+      "habitat_hint": "草地、河滩、农田边缘、空地、杂木林缘、土堤。地表近处观察。",
+      "finding_tips": "五至十月，于草地与河滩之落叶下与石下寻找暗褐至黑色葫芦形具 4 淡色斑之小型蝽。地表迅速行走。"
+    }
+  },
+  "Orthopagus lunulifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツマグロスケバ。本州〜九州の雑木林・農地に分布する中型ハゴロモ科。体長8〜12mm、淡褐色〜灰褐色の半透明な翅に翅端が暗褐色になる（『端黒透翅』の和名）。広葉樹や草本の枝で吸汁する。近づくと素早く跳ねる。",
+      "habitat_hint": "雑木林、社寺林、農地、家庭菜園、河川敷の草地、住宅地の生垣。多様な植物の枝。",
+      "finding_tips": "7〜10月、雑木林や農地の植物の枝で淡褐色の半透明な翅に翅端が暗褐色の中型ハゴロモを探します。翅端の黒色が識別ポイント。近づくとピンと跳ねる。"
+    },
+    "en": {
+      "summary": "Dark-tip Lantern Bug. A medium Dictyopharidae planthopper (8–12 mm) of Honshu to Kyushu secondary woodlands and farmland. Pale-brown to grey-brown translucent wings with dark brown tips — source of the Japanese name 'tip-black lantern bug'. Sucks sap on broadleaf trees and herbs. Jumps when approached.",
+      "habitat_hint": "Secondary woodland, shrine groves, farmland, vegetable gardens, riverbank grasslands, and residential hedges — on diverse plant stems.",
+      "finding_tips": "From July to October check plant stems in woodlands and farmland for medium planthoppers with pale brown translucent wings tipped in dark brown. The dark wing tips are diagnostic. Jumps fast when approached."
+    },
+    "zh": {
+      "summary": "端黑额蜡蝉（ツマグロスケバ）。本州至九州杂木林与农田分布之蜡蝉科中型种。体长 8-12 毫米，淡褐至灰褐半透明翅、翅端暗褐色（『端黑透翅』之名）。于阔叶树与草本枝上吸汁。靠近迅跳。",
+      "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩草地、住宅围篱。多样植物枝。",
+      "finding_tips": "七至十月，于杂木林与农田之植物枝上寻找淡褐半透明翅端暗褐之中型蜡蝉。翅端黑色为辨识要点。靠近迅跳。"
+    }
+  },
+  "Nacerdes waterhousei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオカミキリモドキ。本州〜九州に分布するカミキリモドキ科の中型甲虫。体長12〜18mm、青緑色の金属光沢のある美しい姿。カミキリではないが似た姿で『カミキリ擬』の和名。体液にカンタリジン（毒）を含み、触れると皮膚炎（線状皮膚炎）を起こす危険な甲虫。",
+      "habitat_hint": "雑木林、社寺林、農地、家庭菜園、住宅地の庭、河川敷の草地。花にも集まる。",
+      "finding_tips": "5〜9月、花や葉で青緑色の金属光沢のある細長い甲虫を探します。カミキリに似るが触ると皮膚炎（一夜にして赤くなる）を起こすので絶対に素手で触らない。"
+    },
+    "en": {
+      "summary": "Green False Longicorn. A medium Oedemeridae beetle (12–18 mm) across Honshu to Kyushu. Beautifully metallic blue-green. Not a true longhorn but resembles one — source of the Japanese name 'false longhorn'. Body fluid contains cantharidin (toxic); touching causes painful blistering linear dermatitis. Handle with caution.",
+      "habitat_hint": "Secondary woodland, shrine groves, farmland, vegetable gardens, residential gardens, and riverbank grasslands — also visits flowers.",
+      "finding_tips": "From May to September check flowers and foliage for slender metallic blue-green beetles. Resembles a longhorn but never handle with bare hands — contact causes painful linear dermatitis (red rash appearing overnight)."
+    },
+    "zh": {
+      "summary": "蓝拟天牛（アオカミキリモドキ）。本州至九州分布之拟天牛科中型甲虫。体长 12-18 毫米，青绿金属光泽美丽。非天牛而形似，『拟天牛』之名。体液含斑蝥素（毒），触之致接触性皮炎（线状皮炎）之危险甲虫。",
+      "habitat_hint": "杂木林、神社林、农田、家庭菜园、住宅庭院、河滩草地。亦访花。",
+      "finding_tips": "五至九月，于花与叶上寻找青绿金属光泽细长甲虫。似天牛但触之致皮炎（一夜变红），切勿徒手触。"
+    }
+  },
+  "Psyllobora vigintimaculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クモガタテントウ。日本各地に分布する小型テントウムシ科。体長2〜4mm、淡黄色〜白色の体に暗褐色〜黒色の細かい斑紋が網目状（『蜘蛛形』の和名）。多くのテントウムシと異なり、菌類（うどんこ病菌など）を食べる『菌食性』の珍しいテントウムシ。",
+      "habitat_hint": "農地、家庭菜園、果樹園、公園、雑木林の縁。うどんこ病に感染した植物の葉。",
+      "finding_tips": "5〜10月、うどんこ病で白く粉を吹いた植物の葉（カボチャ・キュウリ・バラなど）でカビを食べる極小のテントウを探します。淡黄色の体に網目状の斑紋で識別。"
+    },
+    "en": {
+      "summary": "Twenty-spotted Lady Beetle. A small Coccinellidae (2–4 mm) across Japan. Pale yellow to white body with dark brown to black fine reticulate markings — source of the Japanese name 'spider-pattern ladybug'. Unlike most ladybirds it is mycophagous, feeding on fungi (especially powdery mildews).",
+      "habitat_hint": "Farmland, vegetable gardens, orchards, parks, and woodland edges — on leaves infected with powdery mildew.",
+      "finding_tips": "From May to October check powdery-mildew-coated leaves (squash, cucumber, rose) for tiny ladybirds feeding on the fungus. Pale yellow body with reticulate markings is diagnostic."
+    },
+    "zh": {
+      "summary": "二十斑食菌瓢虫（クモガタテントウ）。日本各地分布之小型瓢虫科。体长 2-4 毫米，淡黄至白体具暗褐至黑细网纹（『蛛形』之名）。与多数瓢虫不同为食菌性，食白粉病菌等真菌之罕见瓢虫。",
+      "habitat_hint": "农田、家庭菜园、果园、公园、杂木林缘。白粉病感染之植物叶。",
+      "finding_tips": "五至十月，于白粉病植物叶（南瓜、黄瓜、蔷薇等）上寻找食霉之极小瓢虫。淡黄底网纹为辨识要点。"
+    }
+  },
+  "Agriopis dira": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロフフユエダシャク。日本各地に分布するシャクガ科の中型『冬尺蛾』。前翅長18〜25mm、灰褐色の翅に白い波状の縞模様。秋〜冬に羽化し、11〜2月の冷涼期に成虫が活動する。メスは翅が完全に退化し、まったく飛べない。",
+      "habitat_hint": "雑木林、社寺林、河畔林、公園の樹木。広葉樹のある場所。",
+      "finding_tips": "11〜2月、晩秋〜冬季の夜に樹幹や灯火で灰褐色に白い波状の縞のある中型蛾を探します。メスは翅退化のため樹幹で観察。寒い時期に活動する珍しい蛾。"
+    },
+    "en": {
+      "summary": "White-marbled Winter Geometrid. A medium Geometridae 'winter geometrid' (forewing 18–25 mm) across Japan. Grey-brown wings marked with white wavy bands. Eclose in autumn; adults active in cold November–February. Females have fully reduced wings and cannot fly at all.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and park trees — wherever broadleaf trees grow.",
+      "finding_tips": "From November to February, on late-autumn through winter nights, check tree trunks and lights for medium grey-brown moths with white wavy bands. Look for the fully reduced-wing females on tree trunks. Unusual cold-season activity."
+    },
+    "zh": {
+      "summary": "白带冬尺蛾（シロフフユエダシャク）。日本各地分布之尺蛾科中型『冬尺蛾』。前翅长 18-25 毫米，灰褐翅具白色波状纹。秋羽化，十一至翌二月寒冷期成虫活动。雌翅完全退化全不能飞。",
+      "habitat_hint": "杂木林、神社林、河岸林、公园树木。阔叶树所在处。",
+      "finding_tips": "十一至翌二月晚秋至冬夜，于树干与灯下寻找灰褐底具白色波状纹之中型蛾。雌翅退化于树干上观察。寒季活动之罕见蛾。"
+    }
+  },
+  "Nigrotrichia kiotonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロコガネ。本州〜九州に普通な中型コガネムシ。体長18〜23mm、黒褐色〜黒色で表面に細かい毛があり光沢を抑えた地味な姿。夜行性で灯火に集まる夏の代表的なコガネムシの一つ。幼虫は土中で根を食害。",
+      "habitat_hint": "雑木林、社寺林、農地、家庭菜園、河川敷、住宅地の庭。広葉樹のある場所。",
+      "finding_tips": "6〜8月、夏の夜に住宅地や雑木林の灯火・自販機の明かりに集まる黒褐色の中型コガネムシを探します。地味な黒色だがふっくらした体型と灯火に集まる習性で識別。"
+    },
+    "en": {
+      "summary": "Black Chafer. A medium Scarabaeidae (18–23 mm) common across Honshu to Kyushu. Dark brown to black with fine hair on the surface giving a matt look. Nocturnal; comes to lights — one of the iconic summer chafers. Larvae feed on roots in soil.",
+      "habitat_hint": "Secondary woodland, shrine groves, farmland, vegetable gardens, riverbanks, and residential gardens — wherever broadleaf plants grow.",
+      "finding_tips": "From June to August on summer nights check residential lights and vending-machine lights for dark brown to black medium chafers. Plain colour, but the plump body shape and habit of swarming at lights identify it."
+    },
+    "zh": {
+      "summary": "黑金龟（クロコガネ）。本州至九州普见之中型金龟科。体长 18-23 毫米，黑褐至黑色，表面具细毛而光泽收敛之朴素姿。夜行性趋光，夏代表性金龟之一。幼虫食害土中根。",
+      "habitat_hint": "杂木林、神社林、农田、家庭菜园、河滩、住宅庭院。阔叶植物所在处。",
+      "finding_tips": "六至八月，夏夜于住宅区与杂木林之灯下与自动贩卖机灯前寻找黑褐色中型金龟。色朴素但圆润体形与趋光习性可辨。"
+    }
+  },
+  "Rhynchaglaea fuscipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロチャマダラキリガ。本州〜九州の雑木林に分布するヤガ科の中型蛾。前翅長18〜22mm、暗茶褐色〜黒褐色の翅に複雑な模様。秋に羽化し、晩秋〜冬季に成虫が活動する『冬の蛾』。樹液に集まる。",
+      "habitat_hint": "雑木林、社寺林、河畔林、住宅地の庭。広葉樹のある場所。",
+      "finding_tips": "10〜2月、晩秋〜冬季の夜に灯火や樹液（クヌギの傷口）に集まる暗茶褐色の中型蛾を探します。寒い時期に活動する珍しい蛾の一つ。"
+    },
+    "en": {
+      "summary": "Dark Brown Sallow. A medium Noctuidae moth of Honshu to Kyushu secondary woodlands. Forewing 18–22 mm; dark-brown to blackish-brown wings with complex patterning. Eclose in autumn; active in late autumn to winter — a 'winter moth'. Visits sap.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and residential gardens — wherever broadleaf trees grow.",
+      "finding_tips": "From October to February on late-autumn to winter nights check lights and oak sap flows for medium dark-brown moths. One of the unusual cold-season moths."
+    },
+    "zh": {
+      "summary": "黑茶冬夜蛾（クロチャマダラキリガ）。本州至九州杂木林分布之夜蛾科中型蛾。前翅长 18-22 毫米，暗茶褐至黑褐翅具复杂斑纹。秋羽化，晚秋至冬季成虫活动之『冬蛾』。聚于树液。",
+      "habitat_hint": "杂木林、神社林、河岸林、住宅庭院。阔叶树所在处。",
+      "finding_tips": "十至翌二月晚秋至冬季夜间，于灯下与树液（栎树伤口）寻找暗茶褐中型蛾。寒季活动之罕见蛾之一。"
+    }
+  },
+  "Episteira nigrilinearia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスミドリナミシャク。本州〜九州の雑木林に分布するシャクガ科の小型蛾。前翅長12〜16mm、淡緑色〜薄緑色の翅に黒い細い波線が走る独特の姿。葉に擬態。葉や草の上で観察される繊細で美しい蛾。",
+      "habitat_hint": "雑木林、社寺林、河畔林、山地の落葉広葉樹林。広葉樹のある場所。",
+      "finding_tips": "5〜9月、雑木林や林縁の葉の上で淡緑色に黒い細い波線のある小型蛾を探します。葉に擬態するので注意深く観察。緑色の蛾は珍しく繊細で美しい。"
+    },
+    "en": {
+      "summary": "Pale Green Wave Moth. A small Geometridae moth of Honshu to Kyushu secondary woodlands. Forewing 12–16 mm; pale-green to light-green wings with thin black wavy lines — leaf-mimic. A delicate, beautiful moth observed on foliage.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and mountain deciduous-broadleaf forest — wherever broadleaf trees grow.",
+      "finding_tips": "From May to September check foliage in woodlands and edges for small pale-green moths with thin black wavy lines. Cryptic on leaves — look carefully. Green moths are rare and delicately beautiful."
+    },
+    "zh": {
+      "summary": "淡绿波纹尺蛾（ウスミドリナミシャク）。本州至九州杂木林分布之尺蛾科小型蛾。前翅长 12-16 毫米，淡绿至浅绿翅具黑色细波纹之独特姿。拟叶。常于叶与草上观察之纤细美丽蛾。",
+      "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树所在处。",
+      "finding_tips": "五至九月，于杂木林与林缘叶上寻找淡绿底具黑色细波纹之小型蛾。拟叶需细察。绿色蛾少见纤细美丽。"
+    }
+  },
+  "Neuroctenus castaneus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トビイロオオヒラタカメムシ。本州〜九州の雑木林・社寺林に分布するヒラタカメムシ科の中型カメムシ。体長6〜10mm、暗褐色〜栗色の極めて平たい体（『大平』の和名）。樹皮の隙間や倒木の下に潜む。樹皮に擬態した独特な姿。",
+      "habitat_hint": "雑木林、社寺林、河畔林、山地の落葉広葉樹林。広葉樹（特にクヌギ・コナラ）の樹皮の隙間や倒木。",
+      "finding_tips": "通年（暖季活発）、雑木林の樹皮を剥がしたり倒木の下を覗くと見つかる極めて平たい暗褐色のカメムシを探します。体が非常に薄く樹皮にぴったりと張り付いた姿が特徴。"
+    },
+    "en": {
+      "summary": "Brown Flat Bug. A medium Aradidae flat bug (6–10 mm) of Honshu to Kyushu secondary and shrine woodlands. Dark brown to chestnut with an extraordinarily flat body — source of the Japanese name 'big flat'. Hides under bark and fallen logs; bark-mimicking form.",
+      "habitat_hint": "Secondary woodland, shrine groves, riparian woods, and mountain deciduous-broadleaf forest — in bark crevices and under fallen logs of broadleaf trees (especially oaks).",
+      "finding_tips": "Year-round (most active in warm months) peel back bark or look under fallen logs in woodlands for extremely flat dark-brown bugs. The remarkably thin body that flattens against bark is distinctive."
+    },
+    "zh": {
+      "summary": "棕色扁蝽（トビイロオオヒラタカメムシ）。本州至九州杂木林与神社林分布之扁蝽科中型蝽。体长 6-10 毫米，暗褐至栗色之极扁体（『大扁』之名）。藏于树皮缝隙与倒木下。拟树皮之独特姿。",
+      "habitat_hint": "杂木林、神社林、河岸林、山地落叶阔叶林。阔叶树（尤栎）之树皮缝隙与倒木。",
+      "finding_tips": "全年（暖季活跃），于杂木林剥树皮或翻倒木可见极扁之暗褐蝽。体甚薄贴附树皮之姿为特征。"
+    }
   }
 }
