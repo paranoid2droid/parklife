@@ -48936,5 +48936,495 @@
       "habitat_hint": "公园草坪、田野、河滩、杂木林下（越冬期）。",
       "finding_tips": "11 至 3 月，于两亲种混群中寻找胸部斑纹黑红混合之过渡个体。识别专业，建议拍照后对照图鉴。"
     }
+  },
+  "Brassica rapa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アブラナ。春の野原や河川敷を黄色に染めるアブラナ科の二年草。広義には菜の花の総称で、カブやコマツナなどもこの種に含まれます。",
+      "habitat_hint": "河川敷、土手、畑の縁、空き地。日当たりのよい湿った土壌。",
+      "finding_tips": "3〜5月、十字形の四弁花が穂状に咲き、葉は基部が茎を抱きます。同所のセイヨウアブラナとは葉柄の有無で区別。"
+    },
+    "en": {
+      "summary": "Field mustard. A biennial Brassicaceae that paints riverbanks and fallow fields bright yellow in spring; the species also includes turnip and komatsuna as cultivated forms.",
+      "habitat_hint": "Riverbanks, levees, field edges, waste ground — sunny, moist soils.",
+      "finding_tips": "March–May, look for racemes of four-petalled yellow flowers; upper leaves clasp the stem at the base, distinguishing it from B. napus."
+    },
+    "zh": {
+      "summary": "芜菁（アブラナ）。十字花科二年生草本，春季在河滩与休耕地形成大片黄色花海。该种亦包括芜菁、小松菜等栽培变种。",
+      "habitat_hint": "河滩、堤岸、田边、荒地，喜阳光充足、湿润的土壤。",
+      "finding_tips": "3 至 5 月，可见总状花序与四瓣黄花；上部叶基部抱茎，可与欧洲油菜区分。"
+    }
+  },
+  "Carex pumila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウボウシバ。砂浜に長い地下茎を伸ばして群落をつくるカヤツリグサ科の小型スゲ。コウボウムギに比べ穂が小さく、葉も細めです。",
+      "habitat_hint": "海岸の砂浜、砂丘の縁、潮風の当たる開けた砂地。",
+      "finding_tips": "4〜6月、地表に短く立ち上がる穂をつけます。砂をかき分けると赤褐色の繊維に覆われた地下茎が確認できます。"
+    },
+    "en": {
+      "summary": "Sand sedge. A small dune-binding Carex spreading by long rhizomes through coastal sand; smaller than the related C. kobomugi.",
+      "habitat_hint": "Sandy beaches, dune fringes, open sand exposed to sea wind.",
+      "finding_tips": "April–June, look for short spikes barely above the sand. Scrape the surface to reveal red-brown fibrous rhizomes — diagnostic."
+    },
+    "zh": {
+      "summary": "矮生苔草（コウボウシバ）。莎草科小型苔草，以长根状茎在海岸砂地形成群落，植株较筛草（C. kobomugi）矮小。",
+      "habitat_hint": "海岸沙滩、沙丘边缘、海风吹拂的开阔砂地。",
+      "finding_tips": "4 至 6 月，可见低矮花穗略高于沙面；扒开砂面可见红褐色纤维状根状茎，是鉴别要点。"
+    }
+  },
+  "Carex fibrillosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coastal green sedge",
+    "aliases": {
+      "zh-Hans": "海绿苔草"
+    },
+    "ja": {
+      "summary": "ハマアオスゲ。海岸近くに生えるアオスゲ近縁の小型スゲ。葉は細く青みがかり、株立ちになります。",
+      "habitat_hint": "海岸の草地、砂礫地、塩風の届く明るい斜面。",
+      "finding_tips": "4〜5月、緑色の細長い小穂をつけます。アオスゲより株が小さく、葉に光沢があるのが手がかり。"
+    },
+    "en": {
+      "summary": "A small coastal Carex closely allied with C. leucochlora, forming bluish-green tufts near the sea.",
+      "habitat_hint": "Coastal grasslands, gravelly shores, sunny slopes within reach of salt spray.",
+      "finding_tips": "April–May, slender green spikelets on short stems. Smaller and glossier-leaved than the inland C. leucochlora."
+    },
+    "zh": {
+      "summary": "海绿苔草（ハマアオスゲ）。近海生长的小型苔草，与青绿苔草近缘，叶细且带蓝绿色，丛生。",
+      "habitat_hint": "海岸草地、砾石滩、能受到海风的开阔斜坡。",
+      "finding_tips": "4 至 5 月，可见细长绿色小穗；植株较青绿苔草矮小，叶面有光泽，可作辨识依据。"
+    }
+  },
+  "Carex tristachya": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モエギスゲ。明るい林床や草地に生えるカヤツリグサ科の多年草。和名の通り萌黄色のすっと立ち上がる小穂が特徴です。",
+      "habitat_hint": "落葉広葉樹林の縁、明るい雑木林、半日陰の草地。",
+      "finding_tips": "4〜5月、3〜4個の細長い小穂を直立させます。淡い黄緑色の鞘と細い葉が目印。"
+    },
+    "en": {
+      "summary": "Shiny-spike sedge. A perennial Carex of bright woodland edges and grasslands, named in Japanese for its fresh moegi-green spikes.",
+      "habitat_hint": "Edges of deciduous woods, open secondary forest, half-shaded grassland.",
+      "finding_tips": "April–May, 3–4 erect slender spikelets per stem. Pale yellow-green sheaths and narrow leaves are the field cues."
+    },
+    "zh": {
+      "summary": "三穗苔草（モエギスゲ）。莎草科多年生草本，常见于明亮林缘与草地，日文名取自其嫩黄绿色直立小穗。",
+      "habitat_hint": "落叶阔叶林缘、明亮的次生林、半阴的草地。",
+      "finding_tips": "4 至 5 月，每茎可见 3 至 4 个直立细长小穗；淡黄绿色叶鞘与窄叶为辨识要点。"
+    }
+  },
+  "Hypericum perforatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイヨウオトギリ。ヨーロッパ原産の帰化植物で、葉を透かすと明点が見えるオトギリソウ科の多年草。古くから薬草として利用されてきました。",
+      "habitat_hint": "道端、空き地、河川敷の砂礫地、日当たりのよい草地。",
+      "finding_tips": "6〜8月、五弁の黄色い花を多数つけます。葉を光に透かして黒点と明点を確認すると確実に識別できます。"
+    },
+    "en": {
+      "summary": "St John's wort. A European perennial naturalised widely in Japan; its leaves are dotted with translucent oil glands visible against the light, and the plant has a long history of medicinal use.",
+      "habitat_hint": "Roadsides, waste ground, gravelly riverbanks, sunny grasslands.",
+      "finding_tips": "June–August, abundant five-petalled yellow flowers. Hold a leaf up to the light to see the diagnostic translucent dots and black marginal glands."
+    },
+    "zh": {
+      "summary": "贯叶连翘（セイヨウオトギリ）。原产欧洲的归化植物，藤黄科多年生草本；叶片对光可见透明油点，自古作药用。",
+      "habitat_hint": "路边、荒地、河滩砾石地、阳光充足的草地。",
+      "finding_tips": "6 至 8 月开大量五瓣黄花；将叶片对光观察可见透明油点与叶缘黑色腺点，可确诊。"
+    }
+  },
+  "Carex clivorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain hairy sedge",
+    "aliases": {
+      "zh-Hans": "山地丛苔草"
+    },
+    "ja": {
+      "summary": "ヤマオオイトスゲ。山地の林床に株を作るカヤツリグサ科のスゲ。糸のように細い葉が密に立ち上がります。",
+      "habitat_hint": "落葉広葉樹林の林床、林縁、湿りけのある半日陰。",
+      "finding_tips": "4〜6月、細い小穂を立ち上げます。線形で密に束生する葉と暗緑色の株姿で見当がつきます。"
+    },
+    "en": {
+      "summary": "A montane forest-floor Carex forming dense tufts of thread-like leaves in temperate Japanese woodland.",
+      "habitat_hint": "Deciduous forest floor, woodland edges, moist half-shaded ground.",
+      "finding_tips": "April–June, slender erect spikelets above the tuft. Look for tightly clumped, fine, dark-green linear leaves."
+    },
+    "zh": {
+      "summary": "山地丛苔草（ヤマオオイトスゲ）。莎草科苔草属，丛生于山地林下，叶细如丝并密集直立。",
+      "habitat_hint": "落叶阔叶林下、林缘、湿润的半阴处。",
+      "finding_tips": "4 至 6 月，可见细长直立小穗高出叶丛；线形、密集、暗绿色的叶丛是辨识要点。"
+    }
+  },
+  "Achillea millefolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイヨウノコギリソウ。羽状に深く裂けた葉が鋸の歯のように見えるキク科の多年草。ヨーロッパ原産で日本各地に帰化しています。",
+      "habitat_hint": "草地、道端、河川敷の堤防、日当たりのよい開けた場所。",
+      "finding_tips": "6〜9月、白〜淡桃色の小花を集めた散房花序が目印。葉をちぎると独特の薬草臭がします。"
+    },
+    "en": {
+      "summary": "Yarrow. A naturalised Eurasian Asteraceae perennial with finely pinnatisect, fern-like leaves and flat-topped clusters of small white flowers.",
+      "habitat_hint": "Grasslands, roadsides, river levees, sunny open ground.",
+      "finding_tips": "June–September, flat corymbs of white to pale pink florets. Crush a leaf to release the pungent medicinal aroma."
+    },
+    "zh": {
+      "summary": "西洋蓍草（セイヨウノコギリソウ）。菊科多年生草本，原产欧洲，已在日本各地归化；叶羽状深裂如锯齿。",
+      "habitat_hint": "草地、路边、河堤、阳光充足的开阔地。",
+      "finding_tips": "6 至 9 月，伞房花序顶生白色至淡粉色小花；揉碎叶片有特殊药草香气。"
+    }
+  },
+  "Acronicta hercules": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hercules dagger moth",
+    "ja": {
+      "summary": "シロシタケンモン。前翅は灰白色に黒い剣紋が並ぶヤガ科のケンモンガ属。幼虫はニレ科やバラ科の葉を食べます。",
+      "habitat_hint": "雑木林、社寺林、街路樹のある住宅地。灯火に飛来。",
+      "finding_tips": "6〜8月、夜間の灯火や樹液で見つかります。前翅基部の細く鋭い黒条が同属他種との識別点。"
+    },
+    "en": {
+      "summary": "Hercules dagger moth. A noctuid with grey-white forewings marked by the genus's characteristic black dagger streaks; larvae feed on elms and rosaceous trees.",
+      "habitat_hint": "Secondary woods, shrine groves, residential areas with mature street trees; attracted to lights.",
+      "finding_tips": "June–August at lights or on sap runs. The slender, sharply tapered basal dagger streak separates it from congeners."
+    },
+    "zh": {
+      "summary": "榆剑纹夜蛾（シロシタケンモン）。夜蛾科剑纹夜蛾属，前翅灰白底布黑色剑状纹；幼虫取食榆科与蔷薇科叶片。",
+      "habitat_hint": "次生林、神社林、留有大乔木的住宅区，常被灯光吸引。",
+      "finding_tips": "6 至 8 月夜间灯下或树液处可见；前翅基部细长锐利的黑色剑纹为属内辨识要点。"
+    }
+  },
+  "Ainsliaea acerifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モミジハグマ。掌状に切れ込んだ葉がモミジに似るキク科モミジハグマ属の多年草。林床にロゼット状に葉を広げます。",
+      "habitat_hint": "落葉広葉樹林の林床、谷沿いのやや湿った半日陰。",
+      "finding_tips": "8〜10月、細長い茎の先に白い3小花からなる頭花を穂状につけます。葉の形が最大の目印。"
+    },
+    "en": {
+      "summary": "Maple-leaf ainsliaea. An Asian forest-floor Asteraceae perennial whose palmate leaves resemble those of a maple, splayed in a basal rosette.",
+      "habitat_hint": "Deciduous forest floor, moist half-shade along valleys.",
+      "finding_tips": "August–October, slender stems carry spikes of small white three-floret heads. The maple-shaped basal leaves are the unmistakable cue."
+    },
+    "zh": {
+      "summary": "槭叶兔儿风（モミジハグマ）。菊科兔儿风属多年生草本，掌状深裂的叶形似槭叶，于林下铺成莲座状。",
+      "habitat_hint": "落叶阔叶林下、谷地附近的湿润半阴处。",
+      "finding_tips": "8 至 10 月，细长花茎顶端形成穗状花序，每头花含 3 朵白色小花；槭形基生叶最易识别。"
+    }
+  },
+  "Alisma canaliculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヘラオモダカ。水田や池の浅瀬に生えるオモダカ科の多年草。へら形の葉と細かい白花の円錐花序が特徴です。",
+      "habitat_hint": "水田、ため池の浅瀬、用水路、湿地。",
+      "finding_tips": "7〜10月、葉より高く伸びる花茎に3弁の白い小花を多数つけます。葉柄に明瞭な溝があるのが和名の由来。"
+    },
+    "en": {
+      "summary": "Channelled water plantain. An Alismataceae perennial of paddies and shallow pond margins, with spatulate leaves and airy panicles of small white flowers.",
+      "habitat_hint": "Rice paddies, pond edges, irrigation ditches, marshland.",
+      "finding_tips": "July–October, tall panicles of three-petalled white flowers rise above the leaves. The channelled leaf petiole is the Japanese namesake feature."
+    },
+    "zh": {
+      "summary": "窄叶泽泻（ヘラオモダカ）。泽泻科多年生水生草本，常见于水田与浅水池缘，叶呈匙形，圆锥花序密布白色小花。",
+      "habitat_hint": "水田、浅水池塘、灌溉沟、湿地。",
+      "finding_tips": "7 至 10 月，高出叶面的花序密生三瓣小白花；叶柄具明显纵沟，即日文名的来源。"
+    }
+  },
+  "Allodessus megacephalus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Big-headed diving beetle",
+    "aliases": {
+      "zh-Hans": "大头小龙虱"
+    },
+    "ja": {
+      "summary": "チャイロチビゲンゴロウ。体長3mmほどの小型ゲンゴロウ科。茶色の楕円体に大きな頭部が和名・学名の由来です。",
+      "habitat_hint": "水田、休耕田、池の縁、湿地の浅い水たまり。",
+      "finding_tips": "5〜9月、水際の落葉や泥をすくうと採集できます。体型のわりに頭が大きく見えるのが識別点。"
+    },
+    "en": {
+      "summary": "Big-headed diving beetle. A tiny dytiscid about 3 mm long, named for its disproportionately large head on a brown elliptical body.",
+      "habitat_hint": "Rice paddies, fallow fields, pond edges, shallow puddles in wetlands.",
+      "finding_tips": "May–September, scoop leaf litter and silt at the water's edge. The oversized head relative to the small body is diagnostic."
+    },
+    "zh": {
+      "summary": "大头小龙虱（チャイロチビゲンゴロウ）。体长约 3 毫米的小型龙虱科甲虫，棕色椭圆形体配以异常大的头部。",
+      "habitat_hint": "水田、休耕田、池缘、湿地浅水洼。",
+      "finding_tips": "5 至 9 月，可在水边落叶与泥中采集；头部相对躯体明显偏大，为辨识要点。"
+    }
+  },
+  "Amanita rubescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ガンタケ。傷つけると組織が赤変するテングタケ科のキノコ。生食は中毒を起こすため要注意です。",
+      "habitat_hint": "夏〜秋の広葉樹林、針広混交林の地上。",
+      "finding_tips": "7〜10月、灰褐色の傘に淡色のいぼをつけます。柄を傷つけて肉が赤褐色に変われば本種の可能性が高い。"
+    },
+    "en": {
+      "summary": "Blusher. An Amanita whose flesh stains pink-red when bruised; toxic raw, it must never be eaten without thorough cooking.",
+      "habitat_hint": "Broadleaf and mixed conifer-broadleaf woodland floor, summer to autumn.",
+      "finding_tips": "July–October, grey-brown cap with paler warts. Nick the stipe — if the flesh slowly turns reddish-brown, the ID is likely."
+    },
+    "zh": {
+      "summary": "赭盖鹅膏（ガンタケ）。鹅膏科真菌，受伤后菌肉变红；生食有毒，须充分加热后方可食用。",
+      "habitat_hint": "夏秋两季的阔叶林、针阔混交林地面。",
+      "finding_tips": "7 至 10 月，菌盖灰褐色，覆淡色疣突；划破菌柄后菌肉缓慢变红褐色，可作辨识依据。"
+    }
+  },
+  "Anser erythropus": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カリガネ。マガンによく似た小型のガン類で、目の周りの黄色いアイリングと短いピンク色の嘴が特徴です。日本では数少ない冬鳥として記録されます。",
+      "habitat_hint": "湖沼、河川敷、刈り入れ後の水田、湿地の草地。",
+      "finding_tips": "11〜3月、マガンの群れに混じることが多い。黄色いアイリングと短く幅広い嘴の根元まで届く白斑で識別。"
+    },
+    "en": {
+      "summary": "Lesser white-fronted goose. A scarce winter visitor resembling the greater white-fronted goose but smaller, with a stubby pink bill and a conspicuous yellow eye-ring.",
+      "habitat_hint": "Lakes, riverbanks, harvested rice paddies, wet grasslands.",
+      "finding_tips": "November–March, scan A. albifrons flocks for the bright yellow eye-ring and a white forehead patch extending higher above the bill."
+    },
+    "zh": {
+      "summary": "小白额雁（カリガネ）。形似白额雁但体型较小，喙短粉红、眼周具明显黄色眼圈，在日本为稀少冬候鸟。",
+      "habitat_hint": "湖沼、河滩、收割后的水田、湿地草丛。",
+      "finding_tips": "11 至 3 月，常混于白额雁群中；黄色眼圈与延伸至额顶的白斑为辨识要点。"
+    }
+  },
+  "Anthaxia rubromarginata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-margined jewel beetle",
+    "aliases": {
+      "zh-Hans": "红缘小吉丁"
+    },
+    "ja": {
+      "summary": "フチトリヒメヒラタタマムシ。体長5mm前後の小型タマムシ。暗緑色の上翅の縁取りが赤銅色に光ります。",
+      "habitat_hint": "落葉広葉樹林、雑木林の林縁、伐採木の周辺。",
+      "finding_tips": "5〜7月、晴れた日に枯れ枝や伐倒木のまわりで見つかります。上翅縁の赤銅色の縁取りが識別点。"
+    },
+    "en": {
+      "summary": "Red-margined jewel beetle. A small buprestid about 5 mm long with dark green elytra bordered by a coppery-red rim.",
+      "habitat_hint": "Deciduous and secondary woodland edges, around dead branches and felled logs.",
+      "finding_tips": "May–July on sunny days, search dead branches and recently cut wood. The coppery-red elytral margin is diagnostic."
+    },
+    "zh": {
+      "summary": "红缘小吉丁（フチトリヒメヒラタタマムシ）。体长约 5 毫米的小型吉丁虫，鞘翅暗绿色，边缘为铜红色光泽。",
+      "habitat_hint": "落叶阔叶林、次生林林缘、伐木周边。",
+      "finding_tips": "5 至 7 月晴日，于枯枝与新伐木周围搜寻；鞘翅边缘的铜红色镶边为辨识要点。"
+    }
+  },
+  "Anthus rubescens": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アメリカタヒバリ。タヒバリの一型として扱われることもある冬鳥で、北アメリカで繁殖し日本では干潟や農耕地で越冬します。",
+      "habitat_hint": "河口干潟、刈り入れ後の田、海岸近くの草地、湿った裸地。",
+      "finding_tips": "10〜4月、地上を歩きながら尾を細かく振ります。腹側が淡い橙黄色を帯び、足が黒っぽいのが本種の手がかり。"
+    },
+    "en": {
+      "summary": "American pipit. A Nearctic-breeding pipit (sometimes treated as a form of A. spinoletta) that winters in Japan on tidal flats and farmland.",
+      "habitat_hint": "Estuarine flats, harvested paddies, coastal grassland, damp bare ground.",
+      "finding_tips": "October–April, walking and tail-pumping on the ground. Warm buff underparts and dark legs separate it from co-occurring buff-bellied pipits."
+    },
+    "zh": {
+      "summary": "黄腹鹨美洲亚种（アメリカタヒバリ）。原在北美繁殖，在日本为冬候鸟，多见于河口与农耕地，部分文献作单独种处理。",
+      "habitat_hint": "河口滩涂、收割后水田、海滨草地、湿润裸地。",
+      "finding_tips": "10 至 4 月，地面行走并不断摆尾；腹部带淡橙黄色、足偏黑，为辨识要点。"
+    }
+  },
+  "Arcyria cinerea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロウツボホコリ。倒木や落葉の上に小群で発生する変形菌（粘菌）。子実体は灰白色で1〜2mmと小さく、ばねのような糸状の網を残します。",
+      "habitat_hint": "湿った倒木、落葉、樹皮の裏側。",
+      "finding_tips": "梅雨〜秋、倒木上に針の頭ほどの灰白色の集団を探します。乾燥して胞子が散った後の繊細な毛球状の残骸も目印。"
+    },
+    "en": {
+      "summary": "A widespread myxomycete forming small clusters of ash-grey, 1–2 mm sporocarps on rotting wood and leaf litter; after dehiscence the springy capillitium net remains visible.",
+      "habitat_hint": "Damp rotting logs, leaf litter, underside of bark.",
+      "finding_tips": "Rainy season through autumn, scan logs for pinhead-sized whitish-grey colonies. The persistent fluffy capillitium balls after spore release are equally distinctive."
+    },
+    "zh": {
+      "summary": "灰团网菌（シロウツボホコリ）。常见黏菌，子实体灰白色、高 1–2 毫米，群生于腐木与落叶；散粉后弹性丝状网仍可见。",
+      "habitat_hint": "潮湿腐木、落叶、树皮内侧。",
+      "finding_tips": "梅雨季至秋季，于腐木表面寻找针头大小的灰白色集群；散粉后留下的细毛球状残痕同样具识别度。"
+    }
+  },
+  "Ardisia crispa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カラタチバナ。常緑の低木で、冬に赤い果実を低く垂れ下げる縁起木。万両（マンリョウ）に似ますが葉縁の波が浅く、果実は枝先寄りにつきます。",
+      "habitat_hint": "暖温帯の常緑広葉樹林の林床、社寺の森、谷沿いの半日陰。",
+      "finding_tips": "12〜3月、丈30cmほどの灌木に光沢のある赤い液果が垂れ下がります。葉縁が緩く波打つこと、果柄が短いことで万両と区別。"
+    },
+    "en": {
+      "summary": "Coralberry. An evergreen shrub bearing pendulous red berries through winter; resembles A. crenata but has gentler leaf-margin waves and fewer fruits clustered nearer the shoot tips.",
+      "habitat_hint": "Floor of warm-temperate evergreen broadleaf forest, shrine groves, half-shade in valleys.",
+      "finding_tips": "December–March, look for low ~30 cm shrubs with hanging glossy red berries. Subtler leaf margin and shorter pedicels separate from A. crenata."
+    },
+    "zh": {
+      "summary": "百两金（カラタチバナ）。常绿小灌木，冬季垂挂红色浆果，常作吉祥植物栽培；与朱砂根（万两）相似，但叶缘波纹较浅、果序更靠枝顶。",
+      "habitat_hint": "暖温带常绿阔叶林下、神社林、谷地半阴处。",
+      "finding_tips": "12 至 3 月，约 30 厘米高的灌木上垂挂光亮红色浆果；叶缘浅波与较短果柄可与朱砂根区分。"
+    }
+  },
+  "Asplenium ruprechtii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クモノスシダ。岩や石垣に張りつくチャセンシダ科の小型シダ。細長い葉の先端が地面につくと不定芽から新個体が生じ、伝うように広がります。",
+      "habitat_hint": "石灰岩や凝灰岩の岩壁、石垣、半日陰の苔むした岩。",
+      "finding_tips": "周年見られます。長さ10〜20cm、線形で先細りの葉が垂れ下がり、その先に小さな子株が並ぶのが特徴。"
+    },
+    "en": {
+      "summary": "Walking fern. A small Asplenium that clings to rocks and stone walls; the long tapering fronds root at their tips, producing chains of plantlets that 'walk' across the substrate.",
+      "habitat_hint": "Limestone and tuff cliff faces, stone walls, mossy rocks in half-shade.",
+      "finding_tips": "Year-round. Look for 10–20 cm linear, tapering fronds with rows of plantlets along the tips — diagnostic and unmistakable."
+    },
+    "zh": {
+      "summary": "过山蕨（クモノスシダ）。铁角蕨科小型蕨，紧贴岩壁与石墙生长；细长叶片顶端可生不定芽形成新植株，故有走茎之称。",
+      "habitat_hint": "石灰岩、凝灰岩岩壁，石墙，半阴处长苔的岩面。",
+      "finding_tips": "全年可见；10–20 厘米线形渐尖的叶片，顶端排列着小植株，是无可替代的辨识特征。"
+    }
+  },
+  "Bipalium fuscatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black hammerhead worm",
+    "aliases": {
+      "zh-Hans": "黑色笄蛭涡虫"
+    },
+    "ja": {
+      "summary": "クロイロコウガイビル。コウガイビル科の陸生プラナリアで、扇形の頭部と細長い黒い体が特徴。湿った石の下や落葉層でミミズや小動物を捕食します。",
+      "habitat_hint": "落葉が積もった林床、石の下、植木鉢の裏、湿った庭。",
+      "finding_tips": "梅雨〜秋、夜間や雨上がりに地表に出ます。扇形の頭部と全身が真っ黒の細長い体で識別。"
+    },
+    "en": {
+      "summary": "Black hammerhead worm. A land planarian with a fan-shaped head and elongate black body; preys on earthworms and other invertebrates in moist forest floor.",
+      "habitat_hint": "Leaf litter, undersides of stones, beneath plant pots, damp gardens.",
+      "finding_tips": "Rainy season through autumn; surfaces at night or after rain. The half-moon head and uniformly jet-black body are diagnostic."
+    },
+    "zh": {
+      "summary": "黑色笄蛭涡虫（クロイロコウガイビル）。陆生涡虫，头部呈半月扇形，全身细长漆黑，捕食蚯蚓等无脊椎动物。",
+      "habitat_hint": "落叶层、石块下、花盆底、潮湿庭院。",
+      "finding_tips": "梅雨至秋季，夜间或雨后爬出地表；扇形头部与通体漆黑细长的躯体为辨识依据。"
+    }
+  },
+  "Bipalium nobile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noble hammerhead worm",
+    "aliases": {
+      "zh-Hans": "大三纹笄蛭涡虫"
+    },
+    "ja": {
+      "summary": "オオミスジコウガイビル。体長1mに達することもある大型のコウガイビル。背面に縦に走る3本の暗色条が和名の由来です。",
+      "habitat_hint": "公園や庭の湿った林床、石垣の隙間、落葉の下。",
+      "finding_tips": "梅雨〜秋、雨後の地表で見つかります。淡褐色の背に3本の濃褐色縦条が走り、扇形の頭部を持つことで識別。"
+    },
+    "en": {
+      "summary": "Noble hammerhead worm. A very large land planarian, sometimes reaching a metre in length, named for the three dark longitudinal stripes along its pale brown back.",
+      "habitat_hint": "Moist parkland and garden floor, crevices in stone walls, beneath leaf litter.",
+      "finding_tips": "Rainy season through autumn after rain. Pale brown body with three crisp dark stripes plus the half-moon head is unmistakable."
+    },
+    "zh": {
+      "summary": "大三纹笄蛭涡虫（オオミスジコウガイビル）。大型陆生涡虫，体长可达一米；背面 3 条深色纵条为日文名来源。",
+      "habitat_hint": "公园与庭院的湿润林下、石墙缝隙、落叶层。",
+      "finding_tips": "梅雨至秋季雨后地表可见；淡褐色背部 3 条深色纵纹与扇形头部为关键识别特征。"
+    }
+  },
+  "Botaurus stellaris": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サンカノゴイ。ヨシ原に潜んで暮らす大型のサギで、上を向いて静止する独特の擬態姿勢が知られます。日本では数少ない冬鳥〜局地的留鳥。",
+      "habitat_hint": "広いヨシ原、湖沼の岸辺、河川敷の湿地。",
+      "finding_tips": "11〜4月、夕暮れにヨシ原から飛び出すのを狙います。雄は春先に「ボー」と低く響く独特の鳴き声を発します。"
+    },
+    "en": {
+      "summary": "Eurasian bittern. A large, reed-bed-dwelling heron famed for its upright 'bittern stance' camouflage; a scarce winter visitor and local breeder in Japan.",
+      "habitat_hint": "Extensive reed beds, lake and pond margins, riverine marshes.",
+      "finding_tips": "November–April, watch reed edges at dusk for emerging birds. The male's deep booming call in early spring is unmistakable when heard."
+    },
+    "zh": {
+      "summary": "大麻鳽（サンカノゴイ）。大型芦苇沼泽鹭，常以喙朝上的“竖立姿”拟态隐于苇丛；在日本为稀有冬候鸟与局地留鸟。",
+      "habitat_hint": "大片芦苇丛、湖沼岸边、河滩湿地。",
+      "finding_tips": "11 至 4 月，傍晚守候苇丛边缘观察飞出个体；早春雄鸟低沉的“嗡嗡”叫声极具辨识度。"
+    }
+  },
+  "Campsis grandiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノウゼンカズラ。中国原産のノウゼンカズラ科のつる性落葉樹。夏に橙赤色のラッパ形花をぶら下げ、古くから庭木として親しまれています。",
+      "habitat_hint": "庭園、社寺、公園のパーゴラやフェンス。明るく乾きすぎない場所。",
+      "finding_tips": "7〜9月、垂れ下がる円錐花序に長さ6cmほどのラッパ形花。羽状複葉と気根でつるを伸ばす点で同属のアメリカノウゼンカズラと区別。"
+    },
+    "en": {
+      "summary": "Chinese trumpet creeper. A Chinese-origin deciduous Bignoniaceae vine long cultivated for the cascading panicles of orange-red trumpet flowers it bears in summer.",
+      "habitat_hint": "Gardens, shrines, park pergolas and fences; bright, not too dry sites.",
+      "finding_tips": "July–September, pendulous panicles of ~6 cm trumpet flowers. Pinnate leaves and aerial-rooted vining separate from the American C. radicans."
+    },
+    "zh": {
+      "summary": "凌霄（ノウゼンカズラ）。原产中国的紫葳科落叶藤本，夏季垂挂橙红色喇叭状花，自古为庭园观赏名花。",
+      "habitat_hint": "庭园、神社、公园的花架与栅栏，明亮、土壤不过干处。",
+      "finding_tips": "7 至 9 月，圆锥花序下垂，喇叭花长约 6 厘米；羽状复叶与攀缘气生根可与美国凌霄区分。"
+    }
   }
 }
