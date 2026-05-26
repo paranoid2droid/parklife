@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,641 visible species / 126,586 visible park-species pairs** as of 2026-05-26 (post-A21). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,231 species** have curated profiles in ja/en/zh/zhT (8,924 rows), up from 2,053 at the previous handoff (+178 this session via A14–A21, clearing the np≥10 tier). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 98% on profiled species (51 missing, all genuinely lacking a published Chinese vernacular — collision-blocked cases cleared 2026-05-26 via partial-unique-index migration). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
+Project is in maintenance + enrichment mode. **461 parks / 9,640 visible species / 126,575 visible park-species pairs** as of 2026-05-26 (post-A23 + sakura merge). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,258 species** have curated profiles in ja/en/zh/zhT (9,032 rows). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 98% on profiled species (51 missing, all genuinely lacking a published Chinese vernacular — collision-blocked cases cleared 2026-05-26 via partial-unique-index migration). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
 
 ## In progress
 
@@ -51,7 +51,7 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - **Remaining tiers** (post-A21): np≥9 → ~280, np≥5 → ~830, all visible → ~5,030. Batch of 22 costs ~10–15k tokens; np=10 sweep took 8 batches.
    - **Placeholder-name cleanup shipped** *(2026-05-26, `scripts/fix_placeholder_names.py`)*: 9 per-species fixes (5 originally noted hybrids/romaji/genus + 4 nakaguro transliterations like `ヴィオラ・フィリッピカ→スミレ`, `ブラッシカ・ラパ→アブラナ`, `セント・ジョーンズ・ワート→セイヨウオトギリ`, `サルビア・ガラニチカ→メドーセージ`) + bulk strip of 53 redundant `（…）` annotations on Carex etc. Script is idempotent.
    - **Newly visible at np≥10 after cleanup** (6 species, easy follow-up batch A23 candidates): `Carex pumila` コウボウシバ (13), `Brassica rapa` アブラナ (13), `Hypericum perforatum` セイヨウオトギリ (11), `Carex fibrillosa` ハマアオスゲ (11), `Carex tristachya` モエギスゲ (11), `Carex clivorum` ヤマオオイトスゲ (10).
-   - **Remaining unprofiled placeholders** (scientific_name IS NULL — need `manual_species.json` mapping, not just renaming): `サクラ` (np=42, → likely *Cerasus × yedoensis* ソメイヨシノ) and `ツツジ` (np=25, → likely *Rhododendron indicum* サツキ or genus). High visible impact; consider as a separate normalization task.
+   - **Remaining unprofiled placeholders**: `サクラ` merged into ソメイヨシノ (id=252) 2026-05-26 via new `scripts/merge_species_pair.py` (np 12 → 51). `ツツジ` (np=25) deliberately left as NULL-sci — source pages list it alongside `サツキ` as distinct items ("ツツジ、サツキ" / "ツツジ、ヤマブキ、サツキ"), so there is no strong default cultivar to merge into. To revisit would need genus-level `Rhododendron sp.` handling.
    - **Batch template**: `BATCH_TEMPLATE.md` at repo root.
 
 2. **いきものログ ingest (env.go.jp)** *(not started)*
@@ -86,6 +86,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
   - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
+
+### 2026-05-26 (Claude) — A23 + sakura placeholder merge
+- A23 batch: +22 profiles (np≥10 remainder + start of np=9). 2,236 → 2,258. 7 common_name_en + 6 zh-Hans aliases backfilled. Cleared the post-cleanup np≥10 sedges + Brassica rapa + Hypericum perforatum.
+- New `scripts/merge_species_pair.py`: single-pair version of `merge_duplicate_species`, takes `--from`/`--to` species ids and repoints observations + aliases + photos + profiles; preserves dst common_name_ja; inserts src common_name_ja as a ja alias. Used to merge `サクラ` (NULL-sci, id=181, np=42) into `ソメイヨシノ` (id=252) — combined np now 51, making it the top-spread plant in the demo.
+- `ツツジ` (np=25) NOT merged: source pages (akirudai, oizumi-chuo, koganei) explicitly list it alongside サツキ as distinct items, so it's used as a broad genus category and there's no default cultivar to redirect into. Left as NULL-sci.
 
 ### 2026-05-26 (Claude) — species_alias partial-unique migration (Active #4 done)
 - Dropped `species_alias UNIQUE(raw_name, lang)`; replaced with partial unique index `uniq_alias_resolver` covering only `('ja','ja-kana','sci','en')`. Migration script `scripts/migrate_alias_partial_unique.py` is idempotent; row count preserved (31967→31967). DB backed up to `parklife.db.bak_pre_alias_partial` before run.
