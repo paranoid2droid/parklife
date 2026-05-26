@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,640 visible species / 126,575 visible park-species pairs** as of 2026-05-26 (post-A23 + sakura merge). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,258 species** have curated profiles in ja/en/zh/zhT (9,032 rows). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 98% on profiled species (51 missing, all genuinely lacking a published Chinese vernacular — collision-blocked cases cleared 2026-05-26 via partial-unique-index migration). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
+Project is in maintenance + enrichment mode. **461 parks / 9,638 visible species / 126,574 visible park-species pairs** as of 2026-05-26 (post-romaji fix). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,258 species** have curated profiles in ja/en/zh/zhT (9,032 rows). 62 romaji-placeholder ja names cleaned up 2026-05-26, opening ~60 high-np species (e.g. ヤハズエンドウ np=140, オニタビラコ np=130) to future profile batches. `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 98% on profiled species (51 missing, all genuinely lacking a published Chinese vernacular — collision-blocked cases cleared 2026-05-26 via partial-unique-index migration). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
 
 ## In progress
 
@@ -86,6 +86,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
   - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
+
+### 2026-05-26 (Claude) — romaji ja-name placeholder fix (62 species)
+- New `scripts/fix_romaji_ja_names.py`: queries iNat `locale=ja` to recover canonical katakana for species whose `common_name_ja` was a romaji placeholder (`Yahazu-endo` → `ヤハズエンドウ`, `Oni-tabirako` → `オニタビラコ`, ...). 60 renamed; 2 sibling-typo duplicates merged via `merge_species_pair` (Paraprenanthes sororia/sorosia, Cephalotaxus harringtonii/harringtonia); 1 homonym (`Sawara` tree vs `サワラ` fish, id=3417) skipped via SKIP_IDS. Strips trailing `(広義)` for consistency with prior cleanup.
+- These 60+ species were previously invisible to the profile-batch query (filter `SUBSTR(common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z'`) and many had very high spread — combined np ≈ 1,400 park_species pairs that now display in proper Japanese AND are eligible for future profile batches. `Yahazu-endo` alone was np=140 (wider than ソメイヨシノ post-merge).
+- Remaining 7 ASCII-prefix species: 2 truly lack a ja name in iNat (Polyphylla laticollis, Streptococcus agalactiae — the latter actually has a ja name starting with 'B'); 1 Sawara homonym; 4 without inat_taxon_id (low np).
 
 ### 2026-05-26 (Claude) — A23 + sakura placeholder merge
 - A23 batch: +22 profiles (np≥10 remainder + start of np=9). 2,236 → 2,258. 7 common_name_en + 6 zh-Hans aliases backfilled. Cleared the post-cleanup np≥10 sedges + Brassica rapa + Hypericum perforatum.
