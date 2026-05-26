@@ -336,7 +336,7 @@ HTML_TEMPLATE = """<!doctype html>
 <html lang="ja">
 <head>
 <meta charset="utf-8" />
-<title>parklife — 関東の公園で出会える生き物</title>
+<title id="page-title">parklife — 関東の公園で出会える生き物</title>
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
@@ -525,33 +525,17 @@ main { display: flex; height: calc(100vh - 50px); }
 <body>
 <header>
   <h1>🌿 parklife</h1>
-  <label>月: <select id="m"><option value="0">全て</option>
-    <option value="1">1月</option><option value="2">2月</option><option value="3">3月</option>
-    <option value="4">4月</option><option value="5">5月</option><option value="6">6月</option>
-    <option value="7">7月</option><option value="8">8月</option><option value="9">9月</option>
-    <option value="10">10月</option><option value="11">11月</option><option value="12">12月</option>
-  </select></label>
-  <label>分類: <select id="g"><option value="">全て</option>__GROUP_OPTS__</select></label>
-  <label>🅿️ <select id="park">
-    <option value="">問わず</option>
-    <option value="1">あり</option>
-    <option value="0">なし</option>
-    <option value="?">不明</option>
-  </select></label>
-  <label>情報源: <select id="src">
-    <option value="">全て</option>
-    <option value="official">公園公式</option>
-    <option value="inat">iNaturalist</option>
-    <option value="gbif">GBIF</option>
-    <option value="ebird">eBird</option>
-  </select></label>
-  <label>🌐 <select id="lang">
+  <label><span class="lbl" data-lbl="month">月</span>: <select id="m"></select></label>
+  <label><span class="lbl" data-lbl="group">分類</span>: <select id="g"></select></label>
+  <label><span class="lbl" data-lbl="parking">🅿️</span> <select id="park"></select></label>
+  <label><span class="lbl" data-lbl="source">情報源</span>: <select id="src"></select></label>
+  <label><span class="lbl" data-lbl="lang">🌐</span> <select id="lang">
     <option value="ja">日本語</option>
     <option value="en">English</option>
     <option value="zh">简体中文</option>
     <option value="zhT">繁體中文</option>
   </select></label>
-  <label>検索: <input type="search" id="q" placeholder="物種名 / 学名 / 公園名" /></label>
+  <label><span class="lbl" data-lbl="search">検索</span>: <input type="search" id="q" placeholder="物種名 / 学名 / 公園名" /></label>
   <span class="stats" id="stat"></span>
 </header>
 <main>
@@ -563,7 +547,7 @@ main { display: flex; height: calc(100vh - 50px); }
 <div id="species-modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modal-title">
   <div class="modal-backdrop" data-modal-close></div>
   <div class="modal-panel">
-    <button class="modal-close" type="button" data-modal-close aria-label="閉じる">×</button>
+    <button id="modal-close-btn" class="modal-close" type="button" data-modal-close aria-label="閉じる">×</button>
     <div id="modal-content"></div>
   </div>
 </div>
@@ -943,6 +927,137 @@ function detailGroupLabel(sp) {
 }
 function labels() { return PARKING_LABELS[displayLang] || PARKING_LABELS.ja; }
 function detailLabels() { return DETAIL_LABELS[displayLang] || DETAIL_LABELS.ja; }
+
+// Chrome (page-frame) labels for the header, page title, modal close, etc.
+// Switched in lockstep with displayLang so the whole UI follows.
+const CHROME_LABELS = {
+  ja: {
+    htmlLang: 'ja',
+    title: 'parklife — 関東の公園で出会える生き物',
+    month: '月', monthAll: '全て',
+    monthN: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    group: '分類', groupAll: '全て',
+    parking: '🅿️', parkingAny: '問わず', parkingYes: 'あり', parkingNo: 'なし', parkingUnknown: '不明',
+    source: '情報源', sourceAll: '全て', sourceOfficial: '公園公式',
+    lang: '🌐',
+    search: '検索', searchPlaceholder: '物種名 / 学名 / 公園名',
+    stat: (parks, recs) => `${parks} 公園 / ${recs} 観察記録`,
+    modalClose: '閉じる',
+  },
+  en: {
+    htmlLang: 'en',
+    title: 'parklife — wildlife in Kanto parks',
+    month: 'Month', monthAll: 'All',
+    monthN: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    group: 'Group', groupAll: 'All',
+    parking: '🅿️', parkingAny: 'Any', parkingYes: 'Yes', parkingNo: 'No', parkingUnknown: 'Unknown',
+    source: 'Source', sourceAll: 'All', sourceOfficial: 'Park website',
+    lang: '🌐',
+    search: 'Search', searchPlaceholder: 'species / scientific / park name',
+    stat: (parks, recs) => `${parks} parks / ${recs} records`,
+    modalClose: 'Close',
+  },
+  zh: {
+    htmlLang: 'zh-Hans',
+    title: 'parklife — 关东公园生物图鉴',
+    month: '月份', monthAll: '全部',
+    monthN: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    group: '分类', groupAll: '全部',
+    parking: '🅿️', parkingAny: '不限', parkingYes: '有', parkingNo: '无', parkingUnknown: '未知',
+    source: '信息源', sourceAll: '全部', sourceOfficial: '公园官网',
+    lang: '🌐',
+    search: '搜索', searchPlaceholder: '物种名 / 学名 / 公园名',
+    stat: (parks, recs) => `${parks} 个公园 / ${recs} 条记录`,
+    modalClose: '关闭',
+  },
+  zhT: {
+    htmlLang: 'zh-Hant',
+    title: 'parklife — 關東公園生物圖鑑',
+    month: '月份', monthAll: '全部',
+    monthN: ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'],
+    group: '分類', groupAll: '全部',
+    parking: '🅿️', parkingAny: '不限', parkingYes: '有', parkingNo: '無', parkingUnknown: '未知',
+    source: '資訊源', sourceAll: '全部', sourceOfficial: '公園官網',
+    lang: '🌐',
+    search: '搜尋', searchPlaceholder: '物種名 / 學名 / 公園名',
+    stat: (parks, recs) => `${parks} 個公園 / ${recs} 條記錄`,
+    modalClose: '關閉',
+  },
+};
+function chromeLabels() { return CHROME_LABELS[displayLang] || CHROME_LABELS.ja; }
+
+// Groups present in this build (injected from Python). Order = GROUP_ORDER.
+const PRESENT_GROUPS = __GROUP_KEYS__;
+
+// Stat element value cache (re-rendered when the language changes)
+let lastStat = { parks: 0, recs: 0 };
+function updateStat() {
+  statEl.textContent = chromeLabels().stat(lastStat.parks, lastStat.recs);
+}
+
+function rebuildSelect(id, options) {
+  const sel = document.getElementById(id);
+  if (!sel) return;
+  const prev = sel.value;
+  sel.innerHTML = options.map(([v, label]) =>
+    `<option value="${v}">${label}</option>`).join('');
+  // Restore previous selection if it still exists; otherwise leave the first.
+  if ([...sel.options].some(o => o.value === prev)) sel.value = prev;
+}
+
+function renderChrome() {
+  const T = chromeLabels();
+  document.documentElement.lang = T.htmlLang;
+  document.title = T.title;
+  const titleEl = document.getElementById('page-title');
+  if (titleEl) titleEl.textContent = T.title;
+
+  // Header label text spans
+  const setLbl = (key, text) => {
+    const el = document.querySelector(`.lbl[data-lbl="${key}"]`);
+    if (el) el.textContent = text;
+  };
+  setLbl('month', T.month);
+  setLbl('group', T.group);
+  setLbl('parking', T.parking);
+  setLbl('source', T.source);
+  setLbl('lang', T.lang);
+  setLbl('search', T.search);
+
+  // Select options (preserve current value)
+  rebuildSelect('m', [
+    ['0', T.monthAll],
+    ...T.monthN.map((m, i) => [String(i + 1), m]),
+  ]);
+  const groupLabels = OBS_GROUP_LABEL[displayLang] || OBS_GROUP_LABEL.ja;
+  rebuildSelect('g', [
+    ['', T.groupAll],
+    ...PRESENT_GROUPS.map(k => [k, groupLabels[k] || k]),
+  ]);
+  rebuildSelect('park', [
+    ['', T.parkingAny],
+    ['1', T.parkingYes],
+    ['0', T.parkingNo],
+    ['?', T.parkingUnknown],
+  ]);
+  rebuildSelect('src', [
+    ['', T.sourceAll],
+    ['official', T.sourceOfficial],
+    ['inat', 'iNaturalist'],
+    ['gbif', 'GBIF'],
+    ['ebird', 'eBird'],
+  ]);
+
+  // Search placeholder
+  const q = document.getElementById('q');
+  if (q) q.placeholder = T.searchPlaceholder;
+
+  // Modal close button
+  const mc = document.getElementById('modal-close-btn');
+  if (mc) mc.setAttribute('aria-label', T.modalClose);
+
+  updateStat();
+}
 
 // Build per-park indices (which species are at each park, with months)
 const parkSpecies = DATA.parks.map(()=> []);
@@ -1484,7 +1599,8 @@ function refreshMap() {
     marker.on('click', () => selectPark(pi, { focusList: true, user: true }));
     shown++; totalSpecies += count;
   }
-  statEl.textContent = `${shown} 公園 / ${totalSpecies} 観察記録`;
+  lastStat = { parks: shown, recs: totalSpecies };
+  updateStat();
 }
 
 function selectPark(pi, opts = {}) {
@@ -1697,13 +1813,14 @@ document.getElementById('q').addEventListener('input', () => {
   clearTimeout(qTimer); qTimer = setTimeout(applyFilters, 200);
 });
 
-// language switcher: re-render side panel and update placeholder
+// language switcher: re-render chrome + side panel
 const langSel = document.getElementById('lang');
 if (langSel) {
   langSel.value = displayLang;
   langSel.addEventListener('change', () => {
     displayLang = langSel.value;
     try { localStorage.setItem(LANG_KEY, displayLang); } catch (e) {}
+    renderChrome();
     if (selectedParkIdx != null) selectPark(selectedParkIdx);
     else {
       const ph = sideEl.querySelector('.placeholder');
@@ -1712,6 +1829,8 @@ if (langSel) {
     applyView();
   });
 }
+// Initial chrome render (header labels, page title, html lang, etc.)
+renderChrome();
 // On load, replace static placeholder text with localized version
 {
   const ph = sideEl.querySelector('.placeholder');
@@ -1808,19 +1927,15 @@ requestLocationRecommendation();
 def main() -> None:
     data = collect_data()
     print(f"species: {len(data['species'])} parks: {len(data['parks'])} pairs: {len(data['pairs'])}")
-    present_groups = {sp["g"] for sp in data["species"]}
-    group_opts = "".join(
-        f"<option value=\"{k}\">{label}</option>" for k, label in GROUP_ORDER
-        if k in present_groups
-    )
+    present_groups = [k for k, _ in GROUP_ORDER if k in {sp["g"] for sp in data["species"]}]
+    group_keys_js = json.dumps(present_groups)
     embedded = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
     # Embedded inside <script type="application/json">; the only chars that
     # can break out are </script ... so escape < to its Unicode form.
     embedded_safe = embedded.replace("</", "<\\/")
     html = (HTML_TEMPLATE
-            .replace("__GROUP_OPTS__", group_opts)
             .replace("__DATA_JSON__", embedded_safe)
-            .replace("__SCRIPT__", CLIENT_JS))
+            .replace("__SCRIPT__", CLIENT_JS.replace("__GROUP_KEYS__", group_keys_js)))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
     size_mb = OUT.stat().st_size / 1024 / 1024
