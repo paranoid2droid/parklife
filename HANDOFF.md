@@ -40,7 +40,7 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Continue species_profile curation — np=9 tier** *(at 2,231 / 2026-05-26; np≥10 cleared)*
+1. **Continue species_profile curation — np=9 tier** *(at 2,236 / 2026-05-26; np≥10 cleared then 5 unblocked → +5 via A22; another 6 freshly surfaced at np≥10 after the bulk cleanup, see below)*
    - **Sidecar workflow** (`data/species_profiles_extra.json`). Every entry must include `common_name_en` + `aliases.{zh-Hans,zh-Hant}` alongside the 4-language profile; zhT auto-derived via OpenCC.
    - **Query next batch**:
      ```sh
@@ -49,7 +49,9 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
      The filters skip romaji-only (`yama-rakkyō`), katakana transliteration (`ブラッシカ・ラパ`), and parens-romaji (`コウボウシバ（Kouboushiba）`) placeholders that cannot be profiled in their current name form.
    - **Per-batch loop**: write `/tmp/profile_batchN.py` → run → `.venv/bin/python -m scripts.seed_species_profiles` → `scripts.export_html` → `cp data/export/index.html docs/index.html` → commit every 1–2 batches.
    - **Remaining tiers** (post-A21): np≥9 → ~280, np≥5 → ~830, all visible → ~5,030. Batch of 22 costs ~10–15k tokens; np=10 sweep took 8 batches.
-   - **5 unprofileable placeholders at np≥10** (need DB-level `common_name_ja` cleanup before they can be profiled): `Anas zonorhyncha x platyrhynchos`, `Turdus eunomus x naumanni` (hybrid notations); `Corylus sieboldiana` (`tsuno-hashibami` romaji), `Allium thunbergii` (`yama-rakkyō` romaji); `Rudbeckia hirta` (`オオハンゴンソウ属` genus placeholder).
+   - **Placeholder-name cleanup shipped** *(2026-05-26, `scripts/fix_placeholder_names.py`)*: 9 per-species fixes (5 originally noted hybrids/romaji/genus + 4 nakaguro transliterations like `ヴィオラ・フィリッピカ→スミレ`, `ブラッシカ・ラパ→アブラナ`, `セント・ジョーンズ・ワート→セイヨウオトギリ`, `サルビア・ガラニチカ→メドーセージ`) + bulk strip of 53 redundant `（…）` annotations on Carex etc. Script is idempotent.
+   - **Newly visible at np≥10 after cleanup** (6 species, easy follow-up batch A23 candidates): `Carex pumila` コウボウシバ (13), `Brassica rapa` アブラナ (13), `Hypericum perforatum` セイヨウオトギリ (11), `Carex fibrillosa` ハマアオスゲ (11), `Carex tristachya` モエギスゲ (11), `Carex clivorum` ヤマオオイトスゲ (10).
+   - **Remaining unprofiled placeholders** (scientific_name IS NULL — need `manual_species.json` mapping, not just renaming): `サクラ` (np=42, → likely *Cerasus × yedoensis* ソメイヨシノ) and `ツツジ` (np=25, → likely *Rhododendron indicum* サツキ or genus). High visible impact; consider as a separate normalization task.
    - **Batch template**: `BATCH_TEMPLATE.md` at repo root.
 
 2. **いきものログ ingest (env.go.jp)** *(not started)*
@@ -84,6 +86,16 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
   - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
+
+### 2026-05-26 (Claude) — placeholder-name cleanup + A22 (2231→2236)
+- New `scripts/fix_placeholder_names.py`: 9 per-species fixes (hybrid notations cleaned to `マガモ×カルガモ雑種` form; romaji `tsuno-hashibami` → `ツノハシバミ`, `yama-rakkyō` → `ヤマラッキョウ`; genus placeholder `オオハンゴンソウ属` → `アラゲハンゴンソウ`; nakaguro transliterations → canonical katakana). Bulk-stripped 53 redundant `（romaji）` / `（広義）` annotations on Carex etc. Idempotent.
+- A22 sidecar batch (+5 profiles) for the originally-noted 5 hybrid/romaji/genus species, all with `common_name_en` + `aliases.{zh-Hans}` fields.
+- Cleanup surfaced 6 new np≥10 candidates (sedges + `アブラナ` + `セイヨウオトギリ`) plus 2 high-impact `scientific_name IS NULL` placeholders (`サクラ` np=42, `ツツジ` np=25) that need `manual_species.json` mapping rather than renaming. Re-exported docs (34.5 MB).
+
+### 2026-05-26 (Claude) — UI chrome i18n: switch full page on language change (commit `a8173a5`)
+- Added `CHROME_LABELS` dict (4 langs) covering `<title>`, header label texts, all select option lists, search placeholder, stats template, modal close aria-label, and `<html lang>` attribute.
+- New `renderChrome()` JS function called on init + every language change. Header labels marked with `<span class="lbl" data-lbl="…">` so JS can rewrite text without re-rendering full options; select values preserved through option rebuilds.
+- Map tile labels NOT switched — OSM default tiles use native script and there's no standard tile-language switch; would require swapping to Stadia / MapTiler etc. with API keys.
 
 ### 2026-05-26 (Claude) — profile curation A14–A21: np≥10 tier cleared (2053→2231)
 - **+178 profiles** across 8 batches (commits `d84f817`, `8f16d45`, `a540c28`), every entry in sidecar `species_profiles_extra.json` format with `common_name_en` + `aliases.{zh-Hans}` fields.

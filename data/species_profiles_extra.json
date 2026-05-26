@@ -48809,5 +48809,132 @@
       "habitat_hint": "里山至山地之池与湿地周边林、池上挑出之枝、梯田周边。",
       "finding_tips": "5 至 7 月夜，于繁殖池上方枝循复杂'koro-ro'鸣声寻之。枝上直径10〜15厘米白色泡卵团为繁殖证据。较施氏树蛙大且虹膜红色。"
     }
+  },
+  "Corylus sieboldiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian Beaked Hazel",
+    "aliases": {
+      "zh-Hans": "毛榛"
+    },
+    "ja": {
+      "summary": "ツノハシバミ。北海道〜九州、東アジアの山地・丘陵の落葉樹林に自生するカバノキ科の落葉低木で、高さ2〜5m。和名は果実を包む総苞が長く伸びて角（つの）状になることから。3〜4月、葉の出る前に雄花の長い尾状花序が垂れ下がる。秋に角状の総苞に包まれた小型の堅果（食用）をつける。",
+      "habitat_hint": "山地・丘陵の落葉樹林、林縁、明るい沢沿い、二次林。",
+      "finding_tips": "3〜4月、葉のない枝先に長い黄褐色の尾状花序が垂れる落葉低木を探します。秋の角状の総苞に包まれた堅果は他のハシバミ類と異なる識別点。果実は炒って食用に。"
+    },
+    "en": {
+      "summary": "Asian Beaked Hazel (Corylus sieboldiana). A deciduous Betulaceae shrub 2–5 m tall of mountain and hill forests across Japan and East Asia. The Japanese name 'tsuno-hashibami' (horn-hazel) refers to the involucre that wraps the nut and elongates into a horn-like beak. Long male catkins drop before the leaves in March–April; small edible nuts ripen inside the beak-like husk in autumn.",
+      "habitat_hint": "Hill and mountain deciduous forest, forest edges, bright streamsides, secondary forest.",
+      "finding_tips": "From March to April look for a deciduous shrub with long yellow-brown male catkins dropping from leafless twigs. The horn-shaped fruit involucre in autumn separates it from other hazels. Nuts are edible, traditionally roasted."
+    },
+    "zh": {
+      "summary": "毛榛（ツノハシバミ）。日本至东亚山地丘陵落叶林自生之桦木科落叶灌木，高2〜5米。和名'角榛'取自果实总苞延伸如角。3 至 4 月叶前抽长尾状黄褐色雄花序下垂。秋季角形总苞内结小型坚果（可食）。",
+      "habitat_hint": "山地丘陵落叶林、林缘、明亮溪边、次生林。",
+      "finding_tips": "3 至 4 月，于无叶枝端寻找下垂之长黄褐色尾状花序之落叶灌木。秋季角形苞内坚果可与其他榛类区分。果实可炒食。"
+    }
+  },
+  "Anas zonorhyncha x platyrhynchos": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mallard × Eastern Spot-billed Duck hybrid",
+    "aliases": {
+      "zh-Hans": "绿头鸭×斑嘴鸭杂交"
+    },
+    "ja": {
+      "summary": "マガモ×カルガモ雑種（俗称マルガモ）。日本の都市公園や河川で比較的頻繁に観察される雑種カモ。雄はマガモ雄の緑色頭と白い首輪の特徴と、カルガモのくちばし黄斑・暗色体色が混在する中間的な外見をもつ。両親種は遺伝的に非常に近く、雑種は妊性をもつことが多い。",
+      "habitat_hint": "都市公園の池、河川、湖沼、ため池（両親種が同所的に越冬する水域）。",
+      "finding_tips": "11〜3月の越冬期、マガモ・カルガモ混群の中で『マガモのような色＋カルガモのようなくちばし』の中間個体を探します。頭部の緑が中途半端、白い首輪が不完全、くちばし先に黄斑あり、などの組合せが手がかり。"
+    },
+    "en": {
+      "summary": "Mallard × Eastern Spot-billed Duck hybrid (informally 'Maru-gamo' in Japan). A relatively frequent hybrid combination in Japanese urban ponds and rivers. Males show an intermediate mix of Mallard features (green head, white neck ring) and Spot-billed Duck features (yellow bill tip, darker body). The parent species are genetically very close and hybrids are often fertile.",
+      "habitat_hint": "Urban park ponds, rivers, lakes, irrigation ponds where both parents overwinter together.",
+      "finding_tips": "From November to March within mixed Mallard / Spot-billed flocks watch for intermediate individuals: incomplete green head, partial white neck ring, yellow-tipped bill — these combinations indicate hybrid origin."
+    },
+    "zh": {
+      "summary": "绿头鸭×斑嘴鸭杂交（日本俗称'マルガモ'）。日本都市公园与河川较常见之杂交鸭。雄鸟兼具绿头鸭之绿头白颈环与斑嘴鸭之喙端黄斑、深色体羽，呈过渡形态。两亲种亲缘极近，杂交后代多具繁殖力。",
+      "habitat_hint": "都市公园池塘、河川、湖泊、灌溉池（两亲种共域越冬之水域）。",
+      "finding_tips": "11 至 3 月越冬期，于绿头鸭与斑嘴鸭混群中寻找具过渡特征之个体：头部绿色不完整、白颈环残缺、喙端有黄斑等组合即可怀疑为杂交。"
+    }
+  },
+  "Rudbeckia hirta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-eyed Susan",
+    "aliases": {
+      "zh-Hans": "黑心金光菊"
+    },
+    "ja": {
+      "summary": "アラゲハンゴンソウ。北米原産のキク科の一年〜短命多年草で、高さ40〜100cm。明治期に渡来し、公園・花壇で広く植栽されるほか、北日本〜中部山地で野生化。和名は『荒毛反魂草』で、茎・葉に粗い毛が密生する。6〜10月、直径5〜8cmの鮮黄色の舌状花＋黒紫色の球形中心（『黒い瞳』）が特徴。",
+      "habitat_hint": "公園の花壇、庭園、街路樹下、北日本〜中部山地の路傍・空き地・河川敷で野生化。",
+      "finding_tips": "夏〜秋、花壇や草地で鮮黄色花弁＋黒紫色のドーム状中心の大型キクを探します。茎・葉に粗毛が密生するのが識別点。多花性で長期間咲き続ける。"
+    },
+    "en": {
+      "summary": "Black-eyed Susan (Rudbeckia hirta). A North-American annual to short-lived perennial Asteraceae 40–100 cm tall, introduced to Japan in the Meiji era and widely planted in parks and gardens; naturalised in northern and central Honshu. Bristly stems and leaves give the Japanese name 'arage' (rough-hair). Flowers June–October: 5–8 cm heads with bright yellow rays around a dark purple-brown dome — the 'black eye' of the English name.",
+      "habitat_hint": "Park beds, gardens, street-tree understorey; naturalised along roadsides, vacant lots and riverbanks in northern and central Japan.",
+      "finding_tips": "From summer to autumn look in beds and meadows for a large daisy with bright yellow rays and a domed black-purple centre. The bristly stems and leaves are diagnostic. Blooms for a long season."
+    },
+    "zh": {
+      "summary": "黑心金光菊（アラゲハンゴンソウ）。北美原产之菊科一年至短命多年生草本，高40〜100厘米。明治期引入日本，公园与庭园广泛栽培，在北日本与中部山地逸生。茎叶被粗毛（日名'荒毛反魂草'）。6 至 10 月开直径5〜8厘米头花，鲜黄舌状花配紫黑色球形管状花中心，即英名'黑眼苏珊'。",
+      "habitat_hint": "公园花坛、庭园、行道树下；北日本与中部山地路旁、空地、河滩有逸生。",
+      "finding_tips": "夏秋于花坛与草地寻找鲜黄花瓣配紫黑色拱形花心之大型菊。茎叶粗毛为识别点。花期长，连开数月。"
+    }
+  },
+  "Allium thunbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Onion",
+    "aliases": {
+      "zh-Hans": "球序薤"
+    },
+    "ja": {
+      "summary": "ヤマラッキョウ。本州〜九州、東アジアの山地・丘陵の草地や林縁に自生するヒガンバナ科ネギ属の多年草で、高さ30〜60cm。9〜11月、球状の散形花序に多数の鮮やかな赤紫色の小花を密生させる。葉は線形の中空。鱗茎は食用可（ラッキョウより小さく繊維質）。",
+      "habitat_hint": "山地・丘陵の日当たりの良い草地、林縁、湿った斜面、棚田の畦。",
+      "finding_tips": "10〜11月、秋の草地で線形の細い葉と、茎の先に球状に密生する鮮赤紫色の花序を探します。同属の野生ネギ類より花が大きく華やか。揉むとネギ臭。"
+    },
+    "en": {
+      "summary": "Japanese Onion (Allium thunbergii). A perennial Amaryllidaceae 30–60 cm tall of hill and mountain grasslands and forest edges across Japan and East Asia. From September to November the round umbel bears many bright magenta-purple flowers; leaves are slender and hollow. Bulbs are edible (smaller and more fibrous than cultivated rakkyō).",
+      "habitat_hint": "Sunny hill and montane meadows, forest edges, damp slopes, terraced-paddy edges.",
+      "finding_tips": "From October to November in autumn meadows look for plants with slender hollow leaves and showy spherical heads of bright magenta flowers. Flowers are larger and more vivid than other wild onions in Japan; foliage smells of onion when crushed."
+    },
+    "zh": {
+      "summary": "球序薤（ヤマラッキョウ）。日本至东亚山地丘陵草地与林缘自生之石蒜科葱属多年草，高30〜60厘米。9 至 11 月伞形花序球状密生鲜艳紫红色小花。叶线形中空。鳞茎可食（较栽培薤小而纤维多）。",
+      "habitat_hint": "山地丘陵向阳草地、林缘、湿润斜坡、梯田田埂。",
+      "finding_tips": "10 至 11 月，于秋季草地寻找线形中空叶与茎顶球形紫红色花序。花较其他野生葱类大而艳；揉叶有葱味。"
+    }
+  },
+  "Turdus eunomus x naumanni": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dusky × Naumann's Thrush hybrid",
+    "aliases": {
+      "zh-Hans": "斑鸫×红尾鸫杂交"
+    },
+    "ja": {
+      "summary": "ツグミ×ハチジョウツグミ雑種。日本では冬鳥として両親種が混群で越冬し、中間的な羽衣をもつ個体がしばしば観察される。両種は近縁で繁殖地（シベリア）で交雑帯を作るため、雑種・移行型はむしろ典型。胸の斑紋がツグミ型（黒地）か、ハチジョウ型（赤褐色）か、その中間か、で判別する。",
+      "habitat_hint": "公園の芝生、田畑、河川敷、雑木林の林床（越冬期）。",
+      "finding_tips": "11〜3月、両親種が一緒にいる芝生や畑で胸の斑紋が中間的（黒と赤褐色が混在）な個体を探します。識別は専門的なので、確実な命名は写真記録で図鑑と照合を。"
+    },
+    "en": {
+      "summary": "Dusky × Naumann's Thrush hybrid. In Japan both parent species winter together and intermediate-plumaged individuals are frequently seen. The two are closely related and form a hybrid zone on the Siberian breeding grounds, so intergrades are essentially the rule. Identify by breast pattern — Dusky-type (black ground), Naumann-type (rufous), or intermediate.",
+      "habitat_hint": "Park lawns, fields, riverbanks, mixed-woodland floor in winter.",
+      "finding_tips": "From November to March in flocks containing both parent species look for birds with intermediate breast patterns mixing black and rufous. Reliable ID is technical; document with photos and a field guide."
+    },
+    "zh": {
+      "summary": "斑鸫×红尾鸫杂交（ツグミ×ハチジョウツグミ雑種）。日本冬季两亲种混群越冬，中间型羽色个体常见。两种亲缘极近，在西伯利亚繁殖地形成杂交带，故过渡型反而常见。可由胸斑底色判别：斑鸫型（黑底）、红尾鸫型（红褐）或中间型。",
+      "habitat_hint": "公园草坪、田野、河滩、杂木林下（越冬期）。",
+      "finding_tips": "11 至 3 月，于两亲种混群中寻找胸部斑纹黑红混合之过渡个体。识别专业，建议拍照后对照图鉴。"
+    }
   }
 }
