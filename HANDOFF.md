@@ -40,39 +40,27 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **Fix existing profiles' missing en/zh names** — **COMPLETE 2026-05-25** *(see commits `08b8514` → `bbfa587`)*
-   - **Final state**: common_name_en NULL went from 609 → 18 (97%); zh-Hans missing went from 239 → 37 (85%).
-   - **Sidecar `species_profiles_extra.json` now supports `common_name_en` + `aliases.{zh-Hans,zh-Hant}` fields per entry** (commit `f124c86`). `seed_species_profiles.py` applies them idempotently. **New batches must use this format**.
-   - **Pipeline used (in order)**:
-     1. Regex extraction from existing profile summaries (`/tmp/extract_names_apply.py`) → +385 en, +92 zh
-     2. iNat `/v1/taxa/{id}?locale=en|zh-CN` lookup (`scripts/inat_localized_names.py`) → +78 en, +95 zh
-     3. Wikidata residual SPARQL (`scripts/wikidata_residual_names.py`) → +1 en, +6 zh-Hans, +5 zh-Hant
-     4. Manual batches B1–B5 → +94 en, +29 zh-Hans (further sidecar entries patched even when alias-collisions blocked DB insert)
-   - **Residual ~55 gaps explained**:
-     - **18 en NULL**: species where no English vernacular exists in iNat, Wikidata, or established literature (mostly truly obscure Japanese-endemic invertebrates). Future sweeps could try GBIF vernacularName again or accept dotted-underline fallback.
-     - **37 zh-Hans missing**: of which **26 are alias-collision** (sidecar records a name, but DB INSERT rejected because the same Chinese name is already attached to a synonymous species — e.g. `黄腹鹨` claimed by *Anthus rubescens*, blocking *A. japonicus*). The collisions are real taxonomic synonyms; fully resolving them needs a species-merge pass or a schema change to allow many-aliases-per-name. The other **11** are truly missing.
+1. **Continue species_profile curation — np=9 tier** *(at 2,231 / 2026-05-26; np≥10 cleared)*
+   - **Sidecar workflow** (`data/species_profiles_extra.json`). Every entry must include `common_name_en` + `aliases.{zh-Hans,zh-Hant}` alongside the 4-language profile; zhT auto-derived via OpenCC.
+   - **Query next batch**:
+     ```sh
+     sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' AND s.common_name_ja NOT LIKE '%・%' AND s.common_name_ja NOT LIKE '%（%' GROUP BY s.id HAVING np >= 9 ORDER BY np DESC, s.scientific_name LIMIT 30;"
+     ```
+     The filters skip romaji-only (`yama-rakkyō`), katakana transliteration (`ブラッシカ・ラパ`), and parens-romaji (`コウボウシバ（Kouboushiba）`) placeholders that cannot be profiled in their current name form.
+   - **Per-batch loop**: write `/tmp/profile_batchN.py` → run → `.venv/bin/python -m scripts.seed_species_profiles` → `scripts.export_html` → `cp data/export/index.html docs/index.html` → commit every 1–2 batches.
+   - **Remaining tiers** (post-A21): np≥9 → ~280, np≥5 → ~830, all visible → ~5,030. Batch of 22 costs ~10–15k tokens; np=10 sweep took 8 batches.
+   - **5 unprofileable placeholders at np≥10** (need DB-level `common_name_ja` cleanup before they can be profiled): `Anas zonorhyncha x platyrhynchos`, `Turdus eunomus x naumanni` (hybrid notations); `Corylus sieboldiana` (`tsuno-hashibami` romaji), `Allium thunbergii` (`yama-rakkyō` romaji); `Rudbeckia hirta` (`オオハンゴンソウ属` genus placeholder).
+   - **Batch template**: `BATCH_TEMPLATE.md` at repo root.
 
-2. **Continue species_profile curation** *(at 2231 / 2026-05-26 — np≥10 tier CLEARED, next is np=9)*
-   - **Current state**: 2,231 species × 4 langs (8,924 rows) curated. Last batches A14–A21 cleared the entire np≥10 long tail (+178 in one session).
-   - **Skipped at np≥10** (5 species, all unprofileable in current name form): `Anas zonorhyncha x platyrhynchos` & `Turdus eunomus x naumanni` (hybrid placeholder names), `Corylus sieboldiana` (`tsuno-hashibami` romaji) & `Allium thunbergii` (`yama-rakkyō` romaji), `Rudbeckia hirta` (`オオハンゴンソウ属` genus placeholder). These need DB-level common_name_ja cleanup before they can be profiled.
-   - **Next tier**: np=9 (~280 candidates as of cutoff). Same workflow; the np=10 sweep took ~8 batches of 22.
-   - **Sidecar workflow** (proven, repeatable; entries must include `common_name_en` + `aliases.{zh-Hans,zh-Hant}` alongside the 4-language profile):
-     1. Query top unprofiled: `sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' GROUP BY s.id ORDER BY np DESC LIMIT 30;"` (the SUBSTR clause skips romaji-only placeholders)
-     2. Write batch script `/tmp/profile_batchN.py` that patches `data/species_profiles_extra.json` with entries shaped: `{"sources": [...], "common_name_en": "...", "aliases": {"zh-Hans": "..."}, "ja": {summary, habitat_hint, finding_tips}, "en": {...}, "zh": {...}}`. zhT auto-derived via OpenCC. Skip species whose `common_name_ja` starts with ASCII (romaji placeholder).
-     3. Run: `.venv/bin/python /tmp/profile_batchN.py && .venv/bin/python -m scripts.seed_species_profiles && .venv/bin/python -m scripts.export_html && cp data/export/index.html docs/index.html`
-     4. Commit + push every 1-2 batches.
-   - **Current tier**: np=12 deeper into the long tail (obscure moths/beetles dominate); 2 stragglers at np=13 still skipped (`コウボウシバ（Kouboushiba）` parens-romaji, `ブラッシカ・ラパ` katakana transliteration).
-   - **Remaining candidates by tier** (post-A11): np≥12 → ~3, np≥10 → ~150, np≥5 → ~830, all visible → ~5,030.
-   - **Pace**: each batch of 22 entries with full 4-lang profiles + names takes ~8-10k tokens of context. Expect ~10 more batches to clear np≥10.
-   - **Batch template**: see `BATCH_TEMPLATE.md` at repo root — copy-paste skeleton + field guidelines + skip rules + tone notes.
+2. **いきものログ ingest (env.go.jp)** *(not started)*
+   - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience — most authoritative source we don't yet use. eBird + GBIF + iNat already cover most of what's reachable; this would mainly add rarer/locally-restricted records and validate edge cases.
 
-3. **いきものログ ingest (env.go.jp)** *(not started)*
-   - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. Highest data quality, lowest convenience — would be the most authoritative source we don't yet use.
-   - eBird + GBIF + iNat already cover most of what's reachable; いきものログ would mainly add rarer/locally-restricted records and validate edge cases.
-   - FishBase / MushroomObserver / Pl@ntNet evaluated and skipped as lower ROI for this scope.
-
-4. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
+3. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
    - 32 `tokyo-park.or.jp/park/<slug>/index.html` URLs are JS-rendered SPA shells. Current `scripts/extract_parking.py` + `scripts/reclassify_parking.py` fail on them (stub returns 0 text). Would need `scrapling install` (~200 MB Chromium) and a browser-render fetch path. Not worth the dependency for 32 parks unless other SPA-fetch needs accumulate.
+
+4. **Resolve 26 alias-collision zh-Hans gaps** *(from name-sync pipeline, 2026-05-25)*
+   - 26 of the 37 zh-Hans missing names are real taxonomic synonyms blocking each other via `species_alias UNIQUE(raw_name, lang)` (e.g. `黄腹鹨` claimed by *Anthus rubescens*, blocking *A. japonicus*). Sidecar records the intended name; DB INSERT silently rejected. Needs either a species-merge pass or schema change (many-aliases-per-name). The other 11 are truly missing names with no published Chinese vernacular.
+   - 18 `common_name_en` NULL remain — obscure Japanese-endemic invertebrates with no English vernacular in iNat / Wikidata / literature.
 
 ### Follow-ups (defer until needed)
 
