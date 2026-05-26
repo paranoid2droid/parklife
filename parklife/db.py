@@ -51,10 +51,16 @@ CREATE TABLE IF NOT EXISTS species_alias (
     species_id      INTEGER REFERENCES species(id) ON DELETE CASCADE,
     raw_name        TEXT NOT NULL,           -- name as it appeared on the source page
     lang            TEXT,                    -- 'ja' | 'ja-kana' | 'en' | 'sci'
-    status          TEXT NOT NULL DEFAULT 'resolved',
+    status          TEXT NOT NULL DEFAULT 'resolved'
                                              -- 'resolved' | 'pending' | 'rejected'
-    UNIQUE(raw_name, lang)
 );
+-- Partial uniqueness: only resolver languages (raw_name → species_id lookup)
+-- must be unique. Display vernaculars (zh-Hans, zh-Hant, ebird, ...) can be
+-- shared across taxonomic synonyms — e.g. one Chinese name covering two
+-- recognised species. See HANDOFF "alias-collision" entry for context.
+CREATE UNIQUE INDEX IF NOT EXISTS uniq_alias_resolver
+    ON species_alias(raw_name, lang)
+    WHERE lang IN ('ja', 'ja-kana', 'sci', 'en');
 
 CREATE TABLE IF NOT EXISTS source (
     id              INTEGER PRIMARY KEY,

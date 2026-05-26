@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,641 visible species / 126,586 visible park-species pairs** as of 2026-05-26 (post-A21). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,231 species** have curated profiles in ja/en/zh/zhT (8,924 rows), up from 2,053 at the previous handoff (+178 this session via A14–A21, clearing the np≥10 tier). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 96% (37 missing, of which 26 are alias-collision with synonymous species). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
+Project is in maintenance + enrichment mode. **461 parks / 9,641 visible species / 126,586 visible park-species pairs** as of 2026-05-26 (post-A21). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,231 species** have curated profiles in ja/en/zh/zhT (8,924 rows), up from 2,053 at the previous handoff (+178 this session via A14–A21, clearing the np≥10 tier). `common_name_en` coverage on profiled species is 97% (18 NULL); `zh-Hans` alias coverage 98% on profiled species (51 missing, all genuinely lacking a published Chinese vernacular — collision-blocked cases cleared 2026-05-26 via partial-unique-index migration). P13 official-URL coverage: **443/461 parks (96%)** — only 18 small 緑地/河川敷 remain `__no_url__` after manual investigation. Parking classification: 122 OSM-only (down from 213) + 339 text-confirmed (up from 248).
 
 ## In progress
 
@@ -60,8 +60,8 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 3. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
    - 32 `tokyo-park.or.jp/park/<slug>/index.html` URLs are JS-rendered SPA shells. Current `scripts/extract_parking.py` + `scripts/reclassify_parking.py` fail on them (stub returns 0 text). Would need `scrapling install` (~200 MB Chromium) and a browser-render fetch path. Not worth the dependency for 32 parks unless other SPA-fetch needs accumulate.
 
-4. **Resolve 26 alias-collision zh-Hans gaps** *(from name-sync pipeline, 2026-05-25)*
-   - 26 of the 37 zh-Hans missing names are real taxonomic synonyms blocking each other via `species_alias UNIQUE(raw_name, lang)` (e.g. `黄腹鹨` claimed by *Anthus rubescens*, blocking *A. japonicus*). Sidecar records the intended name; DB INSERT silently rejected. Needs either a species-merge pass or schema change (many-aliases-per-name). The other 11 are truly missing names with no published Chinese vernacular.
+4. **~~Resolve alias-collision zh-Hans gaps~~** *(done 2026-05-26)*
+   - Migrated `species_alias` to a partial unique index (`scripts/migrate_alias_partial_unique.py`): UNIQUE only enforced for resolver langs (`ja`, `ja-kana`, `sci`, `en`); display vernaculars (`zh-Hans`, `zh-Hant`, etc.) can be shared across taxonomic synonyms. Re-ran `scripts.seed_species_profiles` → 27 aliases inserted (the 26 previously blocked + 1 from A22). `export_html.py` unchanged — already `setdefault`-keyed by species_id.
    - 18 `common_name_en` NULL remain — obscure Japanese-endemic invertebrates with no English vernacular in iNat / Wikidata / literature.
 
 ### Follow-ups (defer until needed)
@@ -86,6 +86,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
   - Current `freq` sort: `pair.oc` desc primary, `sp.n` desc tiebreaker. When two species both have 1 record at the selected park, global spread tiebreaker favors 関東-wide commons over locally-clustered species. Precomputed `sp.regional_n` per (species, prefecture) would fix this; defer until a user complaint surfaces.
 
 ## Recent sessions
+
+### 2026-05-26 (Claude) — species_alias partial-unique migration (Active #4 done)
+- Dropped `species_alias UNIQUE(raw_name, lang)`; replaced with partial unique index `uniq_alias_resolver` covering only `('ja','ja-kana','sci','en')`. Migration script `scripts/migrate_alias_partial_unique.py` is idempotent; row count preserved (31967→31967). DB backed up to `parklife.db.bak_pre_alias_partial` before run.
+- Rationale: `species_alias` was conflating two roles (resolver lookup vs display vernacular). Only resolver langs need uniqueness; display langs (zh-Hans/zh-Hant) are correctly many-to-one per species — `export_html.py:187` uses `setdefault` keyed by species_id, so multiple species sharing a Chinese name causes no display issue.
+- Re-ran `scripts.seed_species_profiles` → 27 aliases inserted (the 26 previously collision-blocked + 1 from A22). zh-Hans coverage on profiled species now 98% (51 missing — all genuinely lacking a published Chinese vernacular, no further collisions). `parklife/db.py` schema updated to match. Re-exported docs (34.5 MB) and published to `docs/`.
 
 ### 2026-05-26 (Claude) — placeholder-name cleanup + A22 (2231→2236)
 - New `scripts/fix_placeholder_names.py`: 9 per-species fixes (hybrid notations cleaned to `マガモ×カルガモ雑種` form; romaji `tsuno-hashibami` → `ツノハシバミ`, `yama-rakkyō` → `ヤマラッキョウ`; genus placeholder `オオハンゴンソウ属` → `アラゲハンゴンソウ`; nakaguro transliterations → canonical katakana). Bulk-stripped 53 redundant `（romaji）` / `（広義）` annotations on Carex etc. Idempotent.
