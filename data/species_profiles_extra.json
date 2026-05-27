@@ -49426,5 +49426,483 @@
       "habitat_hint": "庭园、神社、公园的花架与栅栏，明亮、土壤不过干处。",
       "finding_tips": "7 至 9 月，圆锥花序下垂，喇叭花长约 6 厘米；羽状复叶与攀缘气生根可与美国凌霄区分。"
     }
+  },
+  "Rhododendron sp.": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Azalea / Rhododendron (genus)",
+    "ja": {
+      "summary": "ツツジ属。日本の公園で広く植えられるツツジ科の常緑〜半落葉低木の総称。代表種にオオムラサキツツジ、クルメツツジ、ヒラドツツジ、ヤマツツジなど。源ページが「ツツジ」とだけ記す場合、種の特定は困難です。",
+      "habitat_hint": "公園の植え込み、生垣、山林の林縁。日当たりのよい酸性土壌を好む。",
+      "finding_tips": "4〜5月、漏斗形の花を多数つけます。属の特定は容易（5裂の合弁花、雄しべ5〜10本）だが、種・園芸品種の同定は花色と葉形を要確認。"
+    },
+    "en": {
+      "summary": "Genus Rhododendron — azaleas and rhododendrons collectively. Tokyo park pages frequently list bare 'ツツジ' when describing landscape plantings; common cultivar groups include Ōmurasaki, Kurume, Hirado, and the wild Yama azaleas.",
+      "habitat_hint": "Park borders, hedges, woodland edges; prefers sunny, acidic soils.",
+      "finding_tips": "April–May, abundant funnel-shaped flowers. Genus is easy (5-lobed sympetalous corolla, 5–10 stamens) but species/cultivar ID requires petal colour and leaf shape."
+    },
+    "zh": {
+      "summary": "杜鹃花属（ツツジ属）。日本公园中常作景观栽培的杜鹃花科常绿至半落叶灌木类群，常见包括大紫杜鹃、久留米杜鹃、平户杜鹃、山杜鹃等。园方页面仅注「ツツジ」时通常无法定种。",
+      "habitat_hint": "公园花圃、绿篱、林缘。喜阳光充足、酸性土壤。",
+      "finding_tips": "4 至 5 月开漏斗形花，5 裂合瓣花冠、雄蕊 5–10 枚为属级特征；具体种或品种识别需观察花色与叶形。"
+    }
+  },
+  "Cyperus nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオガヤツリ。水辺の砂泥地に小群で生えるカヤツリグサ科の一年草。淡緑色の小穂が放射状につく姿が爽やか。",
+      "habitat_hint": "水田、ため池の縁、湿った砂泥地、河川敷の湿地。",
+      "finding_tips": "8〜10月、5〜20cmと小型。茎先に淡緑色の扁平な小穂を散形につけ、苞は2〜3枚。"
+    },
+    "en": {
+      "summary": "White-scale flatsedge. A small Cyperus annual of wet sandy mud; forms loose pale-green clumps along paddy and pond edges.",
+      "habitat_hint": "Rice paddies, pond margins, damp sandy banks, river marshes.",
+      "finding_tips": "August–October, only 5–20 cm tall. Pale-green flat spikelets borne in an umbel atop the stem, subtended by 2–3 leaf-like bracts."
+    },
+    "zh": {
+      "summary": "白鳞莎草（アオガヤツリ）。莎草科一年生小草本，丛生于水边砂泥地，淡绿色小穗散生作伞形。",
+      "habitat_hint": "水田、池缘、潮湿砂泥滩、河滩湿地。",
+      "finding_tips": "8 至 10 月，高仅 5–20 厘米；茎顶散形排列扁平淡绿色小穗，下垫 2–3 枚苞片。"
+    }
+  },
+  "Acer carpinifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チドリノキ。葉が掌状ではなくクマシデのような単葉の珍しいカエデ。日本固有種で、谷沿いの落葉広葉樹林に育ちます。",
+      "habitat_hint": "山地の渓流沿い、湿った谷の落葉広葉樹林、半日陰。",
+      "finding_tips": "葉は対生で長楕円形、平行に走る側脈が16〜24対と非常に多い点が決定的。秋は黄色く紅葉。"
+    },
+    "en": {
+      "summary": "Hornbeam maple. A Japanese endemic with unlobed, hornbeam-like simple leaves — unmistakable for an Acer. Lives in moist mountain stream valleys.",
+      "habitat_hint": "Mountain streamside, moist deciduous valley forest, half-shade.",
+      "finding_tips": "Opposite simple oblong leaves with 16–24 prominent parallel side veins are diagnostic. Autumn colour is yellow."
+    },
+    "zh": {
+      "summary": "鹅耳枥叶槭（チドリノキ）。日本特有种，叶不分裂、形似鹅耳枥（千金榆）的奇特槭树，生于山地溪流谷地。",
+      "habitat_hint": "山地溪流旁、湿润谷地落叶阔叶林、半阴处。",
+      "finding_tips": "对生单叶长椭圆形，平行侧脉 16–24 对，为属内最易识别者；秋叶变黄。"
+    }
+  },
+  "Sapindus mukorossi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムクロジ。果皮にサポニンを含み、古くから石鹸や羽根突きの羽根の玉として利用されたムクロジ科の落葉高木。社寺によく植えられます。",
+      "habitat_hint": "社寺林、屋敷林、公園の高木として植栽。暖温帯〜亜熱帯。",
+      "finding_tips": "10〜11月、直径2cmほどの黄褐色の球果が枝にぶら下がります。種子は黒く硬く、振るとカラカラ音がする。"
+    },
+    "en": {
+      "summary": "Reetha / Indian soapberry. A deciduous Sapindaceae tree whose saponin-rich fruit was historically used as soap and as the weighted ball for hanetsuki feathered shuttles; common in shrine groves.",
+      "habitat_hint": "Shrine and estate groves, park specimens; warm-temperate to subtropical.",
+      "finding_tips": "October–November, pendulous yellow-brown 2 cm fruits. The hard black seeds rattle inside when shaken — a quick ID."
+    },
+    "zh": {
+      "summary": "无患子（ムクロジ）。无患子科落叶乔木，果皮富含皂素，自古作肥皂与羽毽配重之用；日本神社寺院常见。",
+      "habitat_hint": "神社林、宅院林、公园栽植大乔木；暖温带至亚热带。",
+      "finding_tips": "10 至 11 月，黄褐色球果直径约 2 厘米垂挂枝头；种子坚硬乌黑，摇晃可闻响声，为辨识要点。"
+    }
+  },
+  "Cardamine impatiens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジャニンジン。林縁や畑の周辺に生えるアブラナ科の二年草。葉は羽状複葉で、人参の葉に似ることが和名の由来。",
+      "habitat_hint": "林縁、畑の周辺、湿りけのある半日陰の道端。",
+      "finding_tips": "4〜6月、4mmほどの白い四弁花を多数つけ、長角果は触れるとはじけて種子を飛ばします。"
+    },
+    "en": {
+      "summary": "Bushy bittercress. A biennial Brassicaceae of woodland edges and field margins; pinnate leaves resemble carrot foliage, hence the Japanese name 'snake-carrot'.",
+      "habitat_hint": "Woodland edges, field borders, moist half-shaded roadsides.",
+      "finding_tips": "April–June, abundant 4 mm white four-petalled flowers; the slender pods explosively eject their seeds when touched."
+    },
+    "zh": {
+      "summary": "弹裂碎米荠（ジャニンジン）。十字花科二年生草本，常见于林缘与田边，羽状复叶形似胡萝卜叶，故和名「蛇人参」。",
+      "habitat_hint": "林缘、田边、湿润的半阴路边。",
+      "finding_tips": "4 至 6 月开大量 4 毫米四瓣白花，长角果触之即弹裂散播种子。"
+    }
+  },
+  "Carex brunnea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コゴメナキリスゲ。林床や林縁に株を作るカヤツリグサ科の常緑多年草。葉は細く光沢があり、密に束生します。",
+      "habitat_hint": "暖温帯の常緑広葉樹林の林床、林縁、岩場の半日陰。",
+      "finding_tips": "5〜10月、細長く垂れ下がる小穂をつけ、果胞は褐色。常緑で冬も株がしっかり残るのが手がかり。"
+    },
+    "en": {
+      "summary": "Greater brown sedge. An evergreen Carex forming dense glossy-leaved tufts on forest floors and shaded rock faces in warm-temperate Asia.",
+      "habitat_hint": "Floor and edges of warm-temperate evergreen woodland, half-shaded rocky slopes.",
+      "finding_tips": "May–October, slender pendulous spikelets with brown perigynia. Evergreen habit, conspicuous in winter when other sedges have died back."
+    },
+    "zh": {
+      "summary": "褐果苔草（コゴメナキリスゲ）。莎草科常绿多年生草本，叶细具光泽，于林下与林缘密丛而生。",
+      "habitat_hint": "暖温带常绿阔叶林林下、林缘、半阴岩坡。",
+      "finding_tips": "5 至 10 月，细长小穗下垂，果胞褐色；常绿习性使其在冬季其他苔草枯黄时仍易辨认。"
+    }
+  },
+  "Carex kobomugi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウボウムギ。日本各地の砂浜で群落をつくる大型のスゲ。地下茎で砂を固定し、海岸侵食を抑える代表的な砂浜植物です。",
+      "habitat_hint": "海岸の砂浜、砂丘、汀線寄りの開けた砂地。",
+      "finding_tips": "4〜6月、太く長い円柱形の花穂を直立させます。雌雄異株。コウボウシバより株が大きく葉も幅広い。"
+    },
+    "en": {
+      "summary": "Japanese sand sedge. A large dune-binding Carex that forms extensive colonies via long rhizomes on Japanese sandy beaches; a key sand-stabiliser.",
+      "habitat_hint": "Sandy beaches, dunes, open sand near the strand line.",
+      "finding_tips": "April–June, thick cylindrical spikes standing erect; dioecious. Larger and broader-leaved than the related C. pumila (コウボウシバ)."
+    },
+    "zh": {
+      "summary": "筛草（コウボウムギ）。莎草科大型苔草，以长根状茎在日本沿海沙滩形成大片群落，是重要的固沙植物。",
+      "habitat_hint": "海岸沙滩、沙丘、汀线附近开阔砂地。",
+      "finding_tips": "4 至 6 月，圆柱形粗壮花穗直立挺出；雌雄异株。植株较矮生苔草更大、叶更宽。"
+    }
+  },
+  "Catocala separans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-banded underwing moth",
+    "ja": {
+      "summary": "フシキキシタバ。前翅は樹皮そっくりの灰褐色、後翅は黄色に黒帯のヤガ科シタバガ属。驚かすと黄色を見せて捕食者を惑わします。",
+      "habitat_hint": "落葉広葉樹林、雑木林、社寺林。幼虫はブナ科の葉を食べる。",
+      "finding_tips": "7〜9月、夜間の灯火や樹液に飛来。静止時は樹皮に紛れますが、飛び立つ瞬間に後翅の黄黒が鮮やかに見えます。"
+    },
+    "en": {
+      "summary": "An underwing moth: bark-grey forewings, bright yellow hindwings banded black. The flash of colour startles predators when the moth takes flight.",
+      "habitat_hint": "Deciduous and secondary woodland, shrine groves. Larvae feed on Fagaceae leaves.",
+      "finding_tips": "July–September at lights or sap runs. Cryptic at rest; the yellow-and-black hindwing flash on flight is diagnostic for Catocala."
+    },
+    "zh": {
+      "summary": "分裳夜蛾（フシキキシタバ）。夜蛾科裳夜蛾属，前翅灰褐如树皮，后翅黄底黑带；惊飞时露黄色以吓退捕食者。",
+      "habitat_hint": "落叶阔叶林、次生林、神社林。幼虫取食壳斗科叶片。",
+      "finding_tips": "7 至 9 月夜间灯下或树液处可见；静止时高度拟态树皮，起飞瞬间后翅黄黑色斑显著。"
+    }
+  },
+  "Cellana nigrolineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-lined limpet",
+    "ja": {
+      "summary": "マツバガイ。岩礁海岸の中潮帯にしっかり吸着して生きるツタノハ科の大型笠貝。殻に放射状の黒い筋が走る姿が松葉に似ます。",
+      "habitat_hint": "外洋に面した岩礁海岸の中潮帯、潮間帯の岩面。",
+      "finding_tips": "周年見られます。直径5cmに達する楕円錐形の殻で、放射状の黒い線が10本前後走るのが識別点。"
+    },
+    "en": {
+      "summary": "Black-lined limpet. A large Patellidae limpet of rocky shores; the shell bears ~10 radial dark lines resembling pine needles, hence the Japanese name.",
+      "habitat_hint": "Mid-tidal rocky shores facing open ocean; intertidal rock faces.",
+      "finding_tips": "Year-round. Reaches 5 cm; conical-oval shell with ~10 radial black lines is the identifying mark."
+    },
+    "zh": {
+      "summary": "松叶笠螺（マツバガイ）。笠螺科大型笠贝，固着于岩礁海岸中潮带；壳上 10 余条放射状黑纹，状似松针。",
+      "habitat_hint": "面海岩礁海岸中潮带、潮间带岩面。",
+      "finding_tips": "全年可见；壳长可达 5 厘米，圆锥椭圆形，10 余条放射黑线为识别要点。"
+    }
+  },
+  "Charadrius mongolus": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "メダイチドリ。中央アジアの繁殖地から日本に旅鳥として渡来する小型チドリ。干潟や砂浜で見られ、夏羽は胸の橙色帯が鮮やか。",
+      "habitat_hint": "河口干潟、砂浜海岸、内湾の砂泥地。",
+      "finding_tips": "春・秋の渡り時期、シロチドリより一回り大きく、嘴がやや長く太め。夏羽の橙色胸帯と黒い顔のコントラストが目印。"
+    },
+    "en": {
+      "summary": "Mongolian / Lesser sand plover. A Central-Asian-breeding plover that passes through Japan on migration; summer males show a bold orange breast band and black facial mask.",
+      "habitat_hint": "Estuarine mudflats, sandy beaches, sheltered bay sand-mud.",
+      "finding_tips": "Spring and autumn passage. Slightly larger than the Kentish plover with a thicker, longer bill. Summer orange breast band against the black face is diagnostic."
+    },
+    "zh": {
+      "summary": "蒙古沙鸻（メダイチドリ）。繁殖于中亚、日本为旅鸟的小型鸻，干潟与沙滩可见；夏羽雄鸟具显著橙色胸带与黑色脸罩。",
+      "habitat_hint": "河口滩涂、沙滩海岸、内湾砂泥地。",
+      "finding_tips": "春秋迁徙季可见；较环颈鸻略大，喙稍粗长；夏羽橙色胸带与黑脸对比为识别要点。"
+    }
+  },
+  "Chauliops fallax": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bean bug-eyed seed bug",
+    "ja": {
+      "summary": "メダカナガカメムシ。マメ科植物の葉裏に群れるナガカメムシ科の小型種。和名「目高」の通り突き出した複眼が特徴。",
+      "habitat_hint": "草地、河川敷の堤防、マメ科植物（クズ、ハギ、ダイズなど）の群落。",
+      "finding_tips": "6〜10月、葉裏に成虫と幼虫が混在して見つかります。体長3mm前後、突出した複眼と頭部の幅広い形が決定的。"
+    },
+    "en": {
+      "summary": "A small Malcidae seed bug colonising legume foliage; its prominent, stalked compound eyes are the namesake feature (medaka = pop-eyed).",
+      "habitat_hint": "Grasslands, river levees, on legumes such as kudzu, bush clover, and soybean.",
+      "finding_tips": "June–October, mixed adults and nymphs on leaf undersides. About 3 mm long; the bulging eyes and broad head are diagnostic."
+    },
+    "zh": {
+      "summary": "豆突眼长蝽（メダカナガカメムシ）。长蝽科小型种，群居于豆科植物叶背；和名取自其异常突出的复眼。",
+      "habitat_hint": "草地、河堤、豆科植物（葛、胡枝子、大豆等）群落。",
+      "finding_tips": "6 至 10 月，叶背可见成、幼虫共栖；体长约 3 毫米，突出的复眼与宽阔头部为辨识要点。"
+    }
+  },
+  "Chlorophorus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese tiger longhorn beetle",
+    "aliases": {
+      "zh-Hans": "日本虎天牛"
+    },
+    "ja": {
+      "summary": "エグリトラカミキリ。黒地に黄色の縞模様を持つ小型のトラカミキリ族カミキリムシ。前胸背後縁が深く抉れる点が和名の由来。",
+      "habitat_hint": "落葉広葉樹林、伐倒木や枯枝の周辺。クリ、コナラなどブナ科。",
+      "finding_tips": "5〜7月、晴れた日に伐採木や枯れ枝で見つかります。体長8〜13mm、黒地に4本の黄色横帯が走る。"
+    },
+    "en": {
+      "summary": "A small Clytini longhorn with black ground colour crossed by four yellow bands; named in Japanese for the deeply notched rear margin of the pronotum.",
+      "habitat_hint": "Deciduous woodland, around felled wood and dead branches of Fagaceae (chestnut, oak).",
+      "finding_tips": "May–July on sunny days, on cut wood and dead branches. 8–13 mm long; the four yellow transverse bands on black are diagnostic."
+    },
+    "zh": {
+      "summary": "日本虎天牛（エグリトラカミキリ）。鞘翅目天牛科虎天牛族小型种，黑底具 4 条黄色横带；和名取自其前胸背板后缘深凹特征。",
+      "habitat_hint": "落叶阔叶林，伐倒木与枯枝周边，常见于壳斗科（栗、栎）。",
+      "finding_tips": "5 至 7 月晴日，于伐木与枯枝寻找；体长 8–13 毫米，黑底 4 条黄横带为辨识要点。"
+    }
+  },
+  "Ciconia boyciana": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウノトリ。かつて全国に分布した大型の渉禽類で、20世紀後半に日本では一度絶滅。兵庫県豊岡市で人工繁殖・放鳥が進み、各地で再観察例が増えています。",
+      "habitat_hint": "水田、湿地、河川敷、ため池の岸辺。広い湿性草地を必要とする。",
+      "finding_tips": "全長110cm前後の白い大型の鳥。嘴は黒、目の周りの赤い裸出皮膚、ゆっくりと水辺を歩きながら魚や蛙を捕る姿で識別。"
+    },
+    "en": {
+      "summary": "Oriental stork. A large white wader once widespread in Japan, locally extinct in the 20th century; reintroduced from Toyooka, Hyōgo and now resighted increasingly across the country.",
+      "habitat_hint": "Rice paddies, marshes, river floodplains, pond margins; needs extensive wet grassland.",
+      "finding_tips": "~110 cm tall, white body, black bill, bare red skin around the eye. Walks slowly in shallow water hunting fish and frogs."
+    },
+    "zh": {
+      "summary": "东方白鹳（コウノトリ）。大型涉禽，20 世纪后期一度在日本野外灭绝；兵库县丰冈市人工繁殖放归后，各地观察记录逐年增多。",
+      "habitat_hint": "水田、湿地、河滩、池塘岸。需要大片湿性草甸。",
+      "finding_tips": "全长约 110 厘米的白色大鸟，喙黑色、眼周有红色裸皮；常在浅水中缓慢踱步捕食鱼蛙。"
+    }
+  },
+  "Collinsonia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frost flower",
+    "ja": {
+      "summary": "シモバシラ。茎が枯れた冬に根からの水分が凍って茎の根本に氷の華（霜柱）を作る現象で有名なシソ科の多年草。",
+      "habitat_hint": "山地の落葉広葉樹林の林床、谷沿いの半日陰、湿りけのある斜面。",
+      "finding_tips": "9〜10月に総状の白い小花、12〜1月の冷え込んだ朝に枯茎の基部に氷の薄片状結晶（高さ数〜十数cm）。氷の華は本種の冬の見所。"
+    },
+    "en": {
+      "summary": "A Japanese woodland Lamiaceae perennial famous for forming delicate ribbon-like ice crystals at the base of its dead winter stems on freezing mornings — the namesake 'frost pillar'.",
+      "habitat_hint": "Floor of montane deciduous woodland, half-shaded valleys, moist slopes.",
+      "finding_tips": "Sept–Oct: racemes of small white flowers. Dec–Jan, frosty mornings: thin curling ice sheets at the stem base, up to ~15 cm tall — the winter spectacle."
+    },
+    "zh": {
+      "summary": "日本马香草（シモバシラ）。唇形科多年生草本，因冬季枯茎基部由根吸水冻结而形成薄片状冰花（即「霜柱」）而著名。",
+      "habitat_hint": "山地落叶阔叶林下、谷地半阴处、湿润坡地。",
+      "finding_tips": "9 至 10 月开总状白色小花；12 月至 1 月清晨严寒时，枯茎基部形成数厘米至十余厘米高的薄片冰晶，是本种冬日特有景观。"
+    }
+  },
+  "Coriarachne fulvipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fulvous flat crab spider",
+    "aliases": {
+      "zh-Hans": "黄褐扁蟹蛛"
+    },
+    "ja": {
+      "summary": "コカニグモ。樹皮の上でカニのように横歩きするカニグモ科の扁平な小型クモ。樹皮そっくりに擬態し、待ち伏せで小型昆虫を捕らえます。",
+      "habitat_hint": "落葉広葉樹林、雑木林の樹幹、社寺林の古木の樹皮。",
+      "finding_tips": "5〜10月、樹皮に張りつくように静止しています。体長5〜7mm、平たい体型と褐色〜灰色のまだら模様で識別。"
+    },
+    "en": {
+      "summary": "A flat crab spider that hunts on tree bark, cryptically matching the substrate; ambushes small insects while spread-eagled with crab-like sideways gait.",
+      "habitat_hint": "Tree trunks in deciduous and secondary woods, old shrine-grove tree bark.",
+      "finding_tips": "May–October, pressed flat against bark. 5–7 mm; flattened body and mottled brown-grey pattern are diagnostic."
+    },
+    "zh": {
+      "summary": "黄褐扁蟹蛛（コカニグモ）。蟹蛛科小型扁平种，紧贴树皮拟态伏击小昆虫；行动如蟹般横走。",
+      "habitat_hint": "落叶阔叶林、次生林乔木树干、神社老树皮上。",
+      "finding_tips": "5 至 10 月，紧贴树皮静止；体长 5–7 毫米，扁平体型与褐灰杂斑为识别要点。"
+    }
+  },
+  "Crepidomanes latealatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオホラゴケ。岩壁や樹幹に着生する薄膜状のコケシノブ科の小型シダ。葉は1細胞層の透明な膜状で、湿度の高い環境を好みます。",
+      "habitat_hint": "渓流沿いの湿った岩壁、樹幹、苔むしたオーバーハング、洞窟入口。",
+      "finding_tips": "周年見られます。葉長3〜10cm、緑色の薄い膜状で透けて見えるのが特徴。岩や樹皮に密着して群生。"
+    },
+    "en": {
+      "summary": "Insignificant bristle fern. A tiny filmy fern of humid rock faces and tree trunks; fronds are a single cell layer thick and translucent green.",
+      "habitat_hint": "Streamside damp rock faces, tree trunks, mossy overhangs, cave entrances.",
+      "finding_tips": "Year-round. 3–10 cm fronds, translucent green membrane held flat against rock or bark in colonies."
+    },
+    "zh": {
+      "summary": "翅柄假脉蕨（アオホラゴケ）。膜蕨科小型蕨，叶仅一层细胞厚的半透明绿膜，附生于潮湿岩壁与树干。",
+      "habitat_hint": "溪流旁湿岩壁、树干、长苔的悬岩、洞口。",
+      "finding_tips": "全年可见；叶长 3–10 厘米，淡绿透明膜状，紧贴岩面或树皮丛生。"
+    }
+  },
+  "Cygnus cygnus": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオハクチョウ。ユーラシア大陸北部で繁殖し、日本には越冬のため大群で渡来する大型のハクチョウ。嘴の黄色部分が広いことでコハクチョウと区別。",
+      "habitat_hint": "湖沼、内湾、河川の中下流、ため池。広い水面と餌場の水田を要する。",
+      "finding_tips": "11〜3月、白い大型水鳥の群れ。嘴の黄色が鼻孔の前まで楔形に伸びるのが本種の決定的特徴（コハクチョウは丸く小さい）。"
+    },
+    "en": {
+      "summary": "Whooper swan. A large Eurasian swan that winters in Japan in flocks; told from Tundra Swan by the broad yellow wedge on the bill extending past the nostril.",
+      "habitat_hint": "Lakes, sheltered bays, lower rivers, large ponds; needs open water plus paddy feeding grounds.",
+      "finding_tips": "November–March, flocks of large white waterfowl. The pointed yellow patch on the bill extending forward past the nostril is the key separator from Tundra Swan."
+    },
+    "zh": {
+      "summary": "大天鹅（オオハクチョウ）。繁殖于欧亚北部，冬季成群迁至日本越冬的大型天鹅；喙基黄色范围延伸超过鼻孔，可与小天鹅区分。",
+      "habitat_hint": "湖沼、内湾、河川中下游、大池塘。需要开阔水面与水田觅食地。",
+      "finding_tips": "11 至 3 月可见白色大型水禽群；喙上黄色斑呈楔形延伸过鼻孔，为与小天鹅最关键的辨识点。"
+    }
+  },
+  "Cyperus cyperoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌクグ。日当たりのよい湿った草地に群落をつくるカヤツリグサ科の多年草。茎先の苞葉の間から複数の長い花序枝を放射状に伸ばします。",
+      "habitat_hint": "湿った草地、水田の畦、河川敷、ため池の岸辺。",
+      "finding_tips": "7〜10月、頂端から放射状に伸びる花序枝の先に細長い小穂を集合させます。葉幅3〜6mmで光沢あり。"
+    },
+    "en": {
+      "summary": "Pacific Island flatsedge. A perennial Cyperus of damp sunny grassland; the inflorescence rays fan out from the leaf-like bracts at the stem top.",
+      "habitat_hint": "Damp grasslands, paddy bunds, riverbanks, pond margins.",
+      "finding_tips": "July–October, multiple slender rays radiating from the stem top, each bearing clusters of elongate spikelets. Leaves 3–6 mm wide, glossy."
+    },
+    "zh": {
+      "summary": "砖子苗（イヌクグ）。莎草科多年生草本，常群生于阳光充足的湿草地，茎顶苞片间多分枝呈放射状。",
+      "habitat_hint": "湿润草地、水田田埂、河滩、池塘岸。",
+      "finding_tips": "7 至 10 月，自茎顶辐射状伸出多条花序枝，枝端聚生细长小穗；叶宽 3–6 毫米，具光泽。"
+    }
+  },
+  "Cyperus esculentus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ショクヨウガヤツリ。地下に小さな塊茎（チガヤイモ／タイガーナッツ）を作るカヤツリグサ科の帰化多年草。地中海地方では栽培作物として利用。",
+      "habitat_hint": "畑、河川敷、湿った荒地、水田の縁。",
+      "finding_tips": "7〜10月、黄褐色の散形花序。茎の根元に塊茎ができ、これが繁殖の主要手段で駆除困難な雑草として知られます。"
+    },
+    "en": {
+      "summary": "Tigernut / yellow nutsedge. A naturalised Cyperus producing small underground tubers (tigernuts), cultivated in the Mediterranean but a noxious weed elsewhere.",
+      "habitat_hint": "Cropland, riverbanks, damp waste ground, paddy edges.",
+      "finding_tips": "July–October, yellow-brown umbel-like inflorescence. Underground tubers at the stem base are the main reproductive unit and make the species hard to eradicate."
+    },
+    "zh": {
+      "summary": "油莎草（ショクヨウガヤツリ）。莎草科归化多年生草本，地下生小块茎（虎坚果），地中海地区作经济作物，他处为难除杂草。",
+      "habitat_hint": "耕地、河滩、湿润荒地、水田边。",
+      "finding_tips": "7 至 10 月，黄褐色散形花序；茎基地下生块茎为主要繁殖体，致除草困难。"
+    }
+  },
+  "Cyrtomium yamamotoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤコヤブソテツ。光沢のある革質の羽片を持つオシダ科の常緑シダ。本州中部以西から琉球まで分布する暖地性の種。",
+      "habitat_hint": "暖温帯〜亜熱帯の常緑広葉樹林の林床、岩壁の半日陰。",
+      "finding_tips": "周年見られます。長さ30〜60cmの一回羽状葉、革質で表面に強い光沢。羽片の縁は不規則な鋸歯。"
+    },
+    "en": {
+      "summary": "Shiny arching holly fern. An evergreen Dryopteridaceae of warm Japan and the Ryukyus; fronds are leathery and conspicuously glossy.",
+      "habitat_hint": "Warm-temperate to subtropical evergreen forest floor, half-shaded rock faces.",
+      "finding_tips": "Year-round. Once-pinnate fronds 30–60 cm long, leathery with strong surface gloss; pinnae irregularly serrate."
+    },
+    "zh": {
+      "summary": "阔羽贯众（ミヤコヤブソテツ）。鳞毛蕨科常绿蕨，叶革质富光泽；分布于本州中部以西至琉球的暖地。",
+      "habitat_hint": "暖温带至亚热带常绿阔叶林下、半阴岩壁。",
+      "finding_tips": "全年可见；一回羽状叶长 30–60 厘米，革质强光泽，羽片缘具不规则锯齿。"
+    }
+  },
+  "Daphne odora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジンチョウゲ。早春に強い甘い芳香を放つジンチョウゲ科の常緑低木。中国原産で、古くから庭木として親しまれています。",
+      "habitat_hint": "庭園、公園の植え込み、社寺の境内。半日陰の腐植土を好む。",
+      "finding_tips": "2〜4月、枝先に外側が紫紅色・内側が白の小さな花を球状にまとめてつけ、強い芳香で識別。葉は革質で光沢のある倒披針形。"
+    },
+    "en": {
+      "summary": "Winter daphne. A Chinese-origin evergreen shrub of the Thymelaeaceae, famed for the intense sweet fragrance of its late-winter flowers; a classic Japanese garden plant.",
+      "habitat_hint": "Gardens, park plantings, shrine grounds; prefers half-shade in humus-rich soil.",
+      "finding_tips": "February–April, terminal clusters of small flowers, purple-pink outside and white inside, with a strong sweet scent that often identifies the plant before it is seen."
+    },
+    "zh": {
+      "summary": "瑞香（ジンチョウゲ）。原产中国的瑞香科常绿灌木，早春开花，香气浓郁甘美，为日本庭园经典花木。",
+      "habitat_hint": "庭园、公园栽植、神社境内。喜半阴、腐殖质丰富的土壤。",
+      "finding_tips": "2 至 4 月，枝顶簇生小花，花外侧紫红、内侧白色，浓香常先闻到再见花；叶倒披针形、革质有光泽。"
+    }
+  },
+  "Diadumene lineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タテジマイソギンチャク。潮間帯の岩や港湾施設に付着するイソギンチャク科の小型種。緑色の体に橙色の縦縞を持ち、世界各地に侵入帰化しています。",
+      "habitat_hint": "潮間帯の岩、港の岸壁、漁港の杭、潮だまり。",
+      "finding_tips": "周年見られます。触手を縮めると直径1cmほどの緑色の塊に。緑地に橙色縦縞の体色が決定的。"
+    },
+    "en": {
+      "summary": "Green anemone / striped sea anemone. A small actinian with green column striped vertically in orange, native to NW Pacific but invasive worldwide in harbours and intertidal rocks.",
+      "habitat_hint": "Intertidal rocks, harbour walls, fishing-port pilings, tide pools.",
+      "finding_tips": "Year-round. Retracted column ~1 cm across, green with vertical orange stripes — diagnostic."
+    },
+    "zh": {
+      "summary": "纵条矶海葵（タテジマイソギンチャク）。海葵科小型种，绿色体壁具橙色纵条；原产西北太平洋，已扩散至全球港口与潮间带。",
+      "habitat_hint": "潮间带岩石、港口岸壁、渔港木桩、潮池。",
+      "finding_tips": "全年可见；触手缩回时呈直径约 1 厘米的绿色球状；绿底橙色纵条为识别要点。"
+    }
   }
 }
