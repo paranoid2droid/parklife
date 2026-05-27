@@ -83,9 +83,13 @@ def is_japanese_name(name: str) -> bool:
 
 
 SKIP_IDS = {
-    # Sawara (Chamaecyparis pisifera) — homonym with existing サワラ (the fish
-    # Scomberomorus niphonius, id=588). Renaming would collide displayably;
-    # leave as romaji until a disambiguation strategy is chosen.
+    # Sawara (Chamaecyparis pisifera, id=3417) — homonym with サワラ (fish,
+    # Scomberomorus niphonius, id=588). Resolved 2026-05-27 by manual
+    # disambiguation (id=3417 → サワラ（椹）, id=588 → サワラ（鰆）), so the
+    # ASCII-prefix filter no longer matches id=3417. Kept here as a guard:
+    # if a future iNat refresh returns bare 'サワラ' for this taxon, the
+    # rename would collide with id=588's ja alias under the partial
+    # unique index.
     3417,
 }
 
