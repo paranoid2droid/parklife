@@ -26,7 +26,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 Project is in maintenance + enrichment mode. **461 parks / 9,583 visible species / 126,491 visible park-species pairs** as of 2026-05-26 (post-dupemerge). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.5 MB). **2,258 species** have curated profiles in ja/en/zh/zhT (9,032 rows); `common_name_en` 97% on profiled (18 NULL), `zh-Hans` 98% on profiled (51 NULL — all genuinely lacking a published Chinese vernacular). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
-**DB integrity (2026-05-26)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 7 ASCII-prefix common_name_ja remain after the romaji-fix pass: 2 with no iNat ja-name, 1 homonym (Sawara tree/fish, id=3417), 4 without inat_taxon_id.
+**DB integrity (2026-05-27)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders: 7 generic words (カワヅザクラ np=6, コブクザクラ np=3, スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2) — all low np, not worth bespoke fixes.
 
 ## In progress
 
@@ -57,18 +57,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - `.venv/bin/python -m scripts.fix_romaji_ja_names` — rescues ASCII-prefix `common_name_ja` placeholders via iNat `locale=ja`; preserves romaji form as ja alias. Last run 2026-05-26 (62 renamed). New ingestion (especially iNat) re-introduces these.
    - Both have `--dry-run`; run after eBird/GBIF/iNat enrichment passes.
 
-3. **`ツツジ` placeholder — pending decision** *(np=25, NULL-sci)*
-   - Source pages list `ツツジ` alongside `サツキ` as distinct items, so it's a genuine genus-level reference, not a default-cultivar shorthand. Merging to サツキ would mislabel.
-   - Options: (a) leave as-is, (b) introduce `Rhododendron sp.` genus-only species rows + a profile that names common ornamental candidates (オオムラサキツツジ, クルメツツジ, ヒラドツツジ). (b) requires deciding whether genus-only `scientific_name` is acceptable in this schema.
-
-4. **いきものログ ingest (env.go.jp)** *(not started, low-medium priority)*
+3. **いきものログ ingest (env.go.jp)** *(not started, low-medium priority)*
    - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. eBird + GBIF + iNat already cover the bulk of what's reachable; this would add rarer / locally-restricted records and validate edge cases.
 
-5. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
+4. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
    - 32 `tokyo-park.or.jp/park/<slug>/index.html` URLs are JS-rendered SPA shells. Current `scripts/extract_parking.py` + `scripts/reclassify_parking.py` fail on them (stub returns 0 text). Would need `scrapling install` (~200 MB Chromium). Not worth the dependency for 32 parks alone.
-
-6. **`Sawara` homonym disambiguation** *(np=35, low priority)*
-   - `Sawara` (id=3417, Chamaecyparis pisifera, the cypress) cannot be renamed to its proper katakana `サワラ` because that name is held by id=588 (Scomberomorus niphonius, the fish). `scripts/fix_romaji_ja_names.py` has it in `SKIP_IDS` until a disambiguation strategy is chosen — e.g. `サワラ（樹）` / `サワラ（魚）` suffixes, or accept the homonym and rely on the modal sci-name for distinction.
 
 ### Follow-ups (defer until needed)
 
@@ -94,6 +87,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-27 (Claude) — ツツジ + Sawara: genus entry + homonym disambig (commit `d76b147`)
+- ツツジ (id=270, was NULL-sci np=25): set `scientific_name='Rhododendron sp.'`, `common_name_ja='ツツジ属'`, `taxon_group=shrub`; added zh-Hans alias `杜鹃花属`. Existing `ツツジ` ja/ja-kana aliases preserved for resolver. **First time the schema uses genus-only `sci sp.` notation** — works fine with seed/export pipelines.
+- Sawara homonym (Wikipedia-style kanji disambig): id=3417 tree → `サワラ（椹）`, id=588 fish → `サワラ（鰆）`. New ja/ja-kana aliases for both disambiguated forms. Wrongly-tagged `en`-lang `サワラ` alias on tree row dropped. `SKIP_IDS` guard in `fix_romaji_ja_names.py` kept (now dead code, but documents the regression risk).
+- DB integrity unchanged; species/pairs totals stable at 9,583 / 126,491.
 
 ### 2026-05-26 (Claude) — system audit + merge_duplicate_species pass
 - Integrity scan: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe `scientific_name`; only 2 NULL-species observations (descriptive labels, harmless). Healthy.
