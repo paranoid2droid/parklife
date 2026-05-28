@@ -52441,5 +52441,499 @@
       "habitat_hint": "公园花坛、河滩、空地、农田边。",
       "finding_tips": "10–11 月红叶期最易辨识。球状株型、由绿转红与细线形叶为要点。"
     }
+  },
+  "Bristowia heterospinosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiny Jumping Spider",
+    "ja": {
+      "summary": "マツモトハエトリ。ハエトリグモ科ブリストウィア属の小型ハエトリで、東アジア〜東南アジアに広く分布。前脚に長い棘列をもつ独特の姿。",
+      "habitat_hint": "雑木林の落葉間、林床、樹皮の隙間。",
+      "finding_tips": "5〜9月、落葉をかき分けると見つかります。第一脚の長い棘列とずんぐりした体型が決め手。"
+    },
+    "en": {
+      "summary": "Spiny Jumping Spider. A small Bristowia salticid of east and southeast Asia, immediately recognised by the long row of spines on the front legs.",
+      "habitat_hint": "Leaf litter of secondary woodland, forest floor, loose bark.",
+      "finding_tips": "May–September; sift leaf litter. The spiny forelegs and compact body separate it from other small jumping spiders."
+    },
+    "zh": {
+      "summary": "巨刺布氏蛛（マツモトハエトリ）。跳蛛科布氏蛛属小型跳蛛，广布东亚至东南亚，第一对步足具长棘列，最为醒目。",
+      "habitat_hint": "杂木林落叶层、林床、树皮缝隙。",
+      "finding_tips": "5–9 月翻动落叶可见。第一足长棘列与短粗体型为辨识要点。"
+    }
+  },
+  "Calidris acuminata": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウズラシギ。シギ科オバシギ属の小型シギで、頭頂が赤褐色になる夏羽が美しい。日本では旅鳥として春秋に水田や干潟で見られる。",
+      "habitat_hint": "水を張った水田、干拓地、河口の干潟、湖沼の泥地。",
+      "finding_tips": "4〜5月と8〜10月、田植え期と稲刈り後の水田で群れで採食する姿を観察できます。赤褐色の頭頂と縦縞の胸が特徴。"
+    },
+    "en": {
+      "summary": "Sharp-tailed Sandpiper. A small Calidris breeding in Siberian tundra and passing through Japan in spring and autumn on flooded paddies and mudflats.",
+      "habitat_hint": "Flooded rice paddies, reclaimed land, estuarine mudflats, marshy lake edges.",
+      "finding_tips": "April–May and August–October. Look for the rufous cap and streaked breast as they feed in small flocks at flooded paddies."
+    },
+    "zh": {
+      "summary": "尖尾滨鹬（ウズラシギ）。鹬科滨鹬属小型涉禽，夏羽头顶赤褐色。日本为旅鸟，春秋见于水田与滩涂。",
+      "habitat_hint": "灌水稻田、垦区、河口滩涂、湖沼泥地。",
+      "finding_tips": "4–5 月与 8–10 月，于稻田插秧及收割期可见小群觅食。红褐色头顶与胸部纵纹为辨识要点。"
+    }
+  },
+  "Callidiellum rufipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Japanese Cedar Longhorn Beetle",
+    "ja": {
+      "summary": "ヒメスギカミキリ。カミキリムシ科の小型種で、黒い前胸と橙赤色の上翅をもつ。スギ・ヒノキの枯枝や伐採材で発生する。",
+      "habitat_hint": "スギ・ヒノキ林の伐採地、枯枝、製材所周辺。",
+      "finding_tips": "4〜6月、伐倒材や枯枝に集まる成虫を昼間に観察できます。橙赤の上翅と黒い前胸の対比が特徴。"
+    },
+    "en": {
+      "summary": "Small Japanese Cedar Longhorn Beetle. A small cerambycid with a black pronotum and bright orange-red elytra, breeding in dead branches of sugi and hinoki conifers.",
+      "habitat_hint": "Sugi/hinoki plantations, recent cuttings, dead branches, sawmill yards.",
+      "finding_tips": "April–June. Adults gather diurnally on felled timber and dead branches; the orange-red elytra against black pronotum are diagnostic."
+    },
+    "zh": {
+      "summary": "红翅小扁天牛（ヒメスギカミキリ）。天牛科小型甲虫，前胸黑色，鞘翅橙红，发生于杉、桧之枯枝伐材。",
+      "habitat_hint": "杉桧人工林伐迹地、枯枝、锯木场周边。",
+      "finding_tips": "4–6 月白昼可见成虫聚于伐木与枯枝。黑前胸与橙红鞘翅对比为辨识要点。"
+    }
+  },
+  "Calliope calliope": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノゴマ（野駒）。ヒタキ科ノゴマ属の小鳥。雄は喉が鮮やかな赤で、北海道で繁殖し本州以南は旅鳥または冬鳥。",
+      "habitat_hint": "ササ・草丈の高い草原、河川敷のヨシ原、低木林の林床。",
+      "finding_tips": "5〜6月の北海道では雄の高らかなさえずり、9〜10月の旅鳥期は草藪の地表で動く影に注意。雄の真紅の喉が決定的。"
+    },
+    "en": {
+      "summary": "Siberian Rubythroat. A small Muscicapidae chat with a vivid crimson throat in males; breeds in Hokkaido and passes through or winters further south.",
+      "habitat_hint": "Tall grass and bamboo, riverine reedbeds, scrubby clearings.",
+      "finding_tips": "May–June in Hokkaido for the loud song from low perches; September–October passage birds skulk through scrub — watch for the ruby throat."
+    },
+    "zh": {
+      "summary": "红喉歌鸲（ノゴマ）。鹟科红喉歌鸲属小型鸣禽，雄鸟喉部鲜红，繁殖于北海道，本州以南为旅鸟或冬候。",
+      "habitat_hint": "高草丛与竹丛、河滩芦苇、低矮灌丛林缘。",
+      "finding_tips": "5–6 月北海道听其高亢鸣唱；9–10 月迁徙期注意灌丛底层移动身影，雄鸟红喉为决定性识别点。"
+    }
+  },
+  "Capricornis crispus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニホンカモシカ。ウシ科カモシカ属の日本固有種で、本州・四国・九州の山岳林に生息する国の特別天然記念物。",
+      "habitat_hint": "急峻な山岳林、岩場、奥山の落葉広葉樹林。",
+      "finding_tips": "通年単独行動。早朝・夕方に林道の見通しの良い場所で立ち止まる姿が見つかります。雌雄ともに短い角があり、白っぽい顔と灰褐色の体毛が特徴。"
+    },
+    "en": {
+      "summary": "Japanese Serow. A goat-antelope endemic to Honshu, Shikoku and Kyushu, designated a Special Natural Monument of Japan.",
+      "habitat_hint": "Steep montane forest, rocky outcrops, deep deciduous woodland.",
+      "finding_tips": "Solitary year-round; best at dawn or dusk standing motionless on forest tracks. Short backward-curving horns in both sexes and the pale facial mask are diagnostic."
+    },
+    "zh": {
+      "summary": "日本鬣羚（ニホンカモシカ）。牛科鬣羚属，日本本州、四国、九州特有种，列为日本特别天然纪念物。",
+      "habitat_hint": "陡峭山地林、岩崖、深山落叶阔叶林。",
+      "finding_tips": "终年独居，清晨与黄昏常立于林道。雌雄均具短角，灰褐体毛与浅色脸部为辨识要点。"
+    }
+  },
+  "Carex dolichostachya": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-spike Sedge",
+    "ja": {
+      "summary": "ナガボスゲ。カヤツリグサ科スゲ属の多年草で、本州〜九州の山地林床に生える。長く伸びる雌小穂が和名の由来。",
+      "habitat_hint": "山地落葉樹林の林床、半日陰のやや湿った腐植土。",
+      "finding_tips": "5〜6月、長く垂れる雌小穂と細い根生葉の組み合わせで判別。沢沿いの薄暗い場所で群生します。"
+    },
+    "en": {
+      "summary": "Long-spike Sedge. A slender forest-floor Carex of Honshu–Kyushu, named for its conspicuously elongated pistillate spikes.",
+      "habitat_hint": "Semi-shaded humus-rich slopes in mid-elevation deciduous forest.",
+      "finding_tips": "May–June. The drooping elongated female spikes against narrow basal leaves separate it from most sympatric Carex."
+    },
+    "zh": {
+      "summary": "长穗苔草（ナガボスゲ）。莎草科苔草属多年生草本，分布本州至九州山地林下。雌小穗显著延长，为和名所本。",
+      "habitat_hint": "山地落叶林下、半阴湿润腐殖土。",
+      "finding_tips": "5–6 月。下垂之长雌小穗与细根生叶组合即可辨识，常于溪边阴湿处群生。"
+    }
+  },
+  "Carex reinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rein's Sedge",
+    "aliases": {
+      "zh-Hans": "莱氏苔草"
+    },
+    "ja": {
+      "summary": "コカンスゲ。カヤツリグサ科スゲ属の小型多年草で、本州〜九州の山地林床に生える。和名は「小ささ」と冬も葉が残ることに由来。",
+      "habitat_hint": "山地落葉樹林の林床、半日陰の腐植土、岩礫地。",
+      "finding_tips": "4〜5月、小さな株から短い花茎を立て、頂雌雄性の細い小穂を付けます。低い株姿が同属内での目印。"
+    },
+    "en": {
+      "summary": "Rein's Sedge. A small Carex of Honshu–Kyushu mountains, named for the 19th-century German botanist J.J. Rein; foliage often overwinters.",
+      "habitat_hint": "Humus-rich semi-shaded forest floor, stony slopes.",
+      "finding_tips": "April–May. Look for compact tussocks with short flowering stems bearing slender androgynous terminal spikes."
+    },
+    "zh": {
+      "summary": "莱氏苔草（コカンスゲ）。莎草科苔草属小型多年生草本，分布本州至九州山地林下，叶常越冬不枯。",
+      "habitat_hint": "山地阔叶林下半阴腐殖土、石砾地。",
+      "finding_tips": "4–5 月。低矮丛生株与短花茎及细顶雌雄同序小穗为辨识要点。"
+    }
+  },
+  "Carex rhizopoda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tangled Sedge",
+    "ja": {
+      "summary": "シラコスゲ。カヤツリグサ科スゲ属の多年草で、本州〜九州の湿った林床や沢沿いに分布。地下茎で広がり群生する。",
+      "habitat_hint": "落葉樹林下の湿地、沢沿いの斜面、半日陰の腐植土。",
+      "finding_tips": "5〜6月、淡緑色の細い葉と斜めに垂れる小穂で識別。地下茎による群生も決め手。"
+    },
+    "en": {
+      "summary": "Tangled Sedge. A rhizomatous Carex of Honshu–Kyushu damp forests, forming loose mats by underground runners.",
+      "habitat_hint": "Moist forest floor, streamside slopes, semi-shaded humus soils.",
+      "finding_tips": "May–June. Pale-green narrow leaves, oblique pendulous spikes and the loosely spreading colonies separate it from clump-forming congeners."
+    },
+    "zh": {
+      "summary": "根足苔草（シラコスゲ）。莎草科苔草属多年生草本，分布本州至九州湿润林下，以地下茎成片扩展。",
+      "habitat_hint": "落叶林下湿地、溪边坡地、半阴腐殖土。",
+      "finding_tips": "5–6 月。淡绿细叶、斜垂小穗及地下茎成丛之习性可辨。"
+    }
+  },
+  "Carex rugata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wrinkled Sedge",
+    "ja": {
+      "summary": "クサスゲ。カヤツリグサ科スゲ属の多年草で、本州〜九州の半日陰の林床や林縁に分布。果胞に明瞭な脈があるのが特徴。",
+      "habitat_hint": "落葉樹林の林床・林縁、半日陰のやや湿った腐植土。",
+      "finding_tips": "4〜6月、根生葉から立ち上がる花茎の先に細長い小穂が並ぶ姿で識別。果胞の脈が明瞭。"
+    },
+    "en": {
+      "summary": "Wrinkled Sedge. A modest Carex of Honshu–Kyushu woodland edges, separable by the strongly nerved perigynia.",
+      "habitat_hint": "Forest floor and margins, semi-shaded slightly moist humus.",
+      "finding_tips": "April–June. Slim flowering stems above basal leaves carry slender spikes; ribbed perigynia confirm identification under a hand lens."
+    },
+    "zh": {
+      "summary": "横纹苔草（クサスゲ）。莎草科苔草属多年生草本，分布本州至九州林缘半阴地。果囊脉纹明显为识别要点。",
+      "habitat_hint": "落叶林下与林缘、半阴微湿腐殖土。",
+      "finding_tips": "4–6 月。花茎自基生叶丛中抽出，顶生细长小穗，放大镜下可见果囊明显脉纹。"
+    }
+  },
+  "Castanea mollissima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シナグリ（中国栗）。ブナ科クリ属の落葉高木で、中国原産。果実が大きく剥きやすく、食用「天津甘栗」の主品種として栽培される。",
+      "habitat_hint": "栽培地、放棄果樹園、植栽公園。",
+      "finding_tips": "5〜6月にクリーム色の雄花穂、9〜10月に大きな実をつけたイガで識別。葉裏に短毛が密生する点でニホングリと区別。"
+    },
+    "en": {
+      "summary": "Chinese Chestnut. A deciduous Fagaceae tree native to China, widely grown for the large easily-peeled nuts marketed as Tianjin sweet chestnut.",
+      "habitat_hint": "Orchards, abandoned plantations, ornamental parks.",
+      "finding_tips": "May–June for the creamy catkins, September–October for the spiny burs. Dense short hairs on the leaf underside separate it from Japanese chestnut."
+    },
+    "zh": {
+      "summary": "中国板栗（シナグリ / 中国栗）。壳斗科栗属落叶乔木，原产中国。坚果大且易剥，是“天津甘栗”主栽培种。",
+      "habitat_hint": "栽培地、废弃果园、公园栽植。",
+      "finding_tips": "5–6 月观乳白雄花序，9–10 月观大型刺苞。叶背密生短毛可与日本栗区分。"
+    }
+  },
+  "Certhia familiaris": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キバシリ（木走）。キバシリ科の小鳥で、樹幹を螺旋状に登りながら樹皮の虫を捕食する。日本では本州中部以北の山地針葉樹林に留鳥。",
+      "habitat_hint": "標高の高い針葉樹林、ブナ・コメツガなどの混交林。",
+      "finding_tips": "通年、針葉樹の幹を下から上へ螺旋状に登る姿で見つかります。細く下に曲がる嘴と褐色の樹皮模様の背中が特徴。"
+    },
+    "en": {
+      "summary": "Eurasian Treecreeper. A tiny brown bark-creeper that spirals up trunks searching crevices for insects; resident in central and northern Honshu montane conifer forest.",
+      "habitat_hint": "Subalpine conifer stands and mixed beech-conifer forest.",
+      "finding_tips": "Year-round; watch trunks for a small streaky brown bird climbing upward in tight spirals. The thin decurved bill and stiff tail are diagnostic."
+    },
+    "zh": {
+      "summary": "欧亚旋木雀（キバシリ）。旋木雀科小型鸣禽，沿树干螺旋上行觅食。日本本州中部以北山地针叶林留鸟。",
+      "habitat_hint": "亚高山针叶林、山毛榉与冷杉混交林。",
+      "finding_tips": "全年。树干自下而上螺旋攀爬之小鸟即是；细长下弯嘴与褐斑背部为辨识要点。"
+    }
+  },
+  "Cetonia pilifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy Flower Chafer",
+    "aliases": {
+      "zh-Hans": "毛黄边花金龟"
+    },
+    "ja": {
+      "summary": "ナミハナムグリ。コガネムシ科ハナムグリ属の中型甲虫で、緑〜銅色の体に白い斑点が散る。花や樹液に集まり、しばしば翅鞘を閉じたまま飛行する。",
+      "habitat_hint": "雑木林の林縁、樹液の出るクヌギ・コナラ、花壇のキク科やセリ科。",
+      "finding_tips": "5〜8月、日中に花の中で花粉を食べる姿を観察。緑〜銅色光沢と背の白点が決め手。"
+    },
+    "en": {
+      "summary": "Hairy Flower Chafer. A medium green-to-coppery Cetonia chafer dusted with white flecks, often seen at sap and on garden flowers; can fly with elytra closed.",
+      "habitat_hint": "Edges of secondary oak woodland, sap runs on Quercus, Apiaceae and Asteraceae flowerheads.",
+      "finding_tips": "May–August in daytime on flowers. The metallic green-copper sheen with white speckling is unmistakable among Japanese Cetonia."
+    },
+    "zh": {
+      "summary": "毛黄边花金龟（ナミハナムグリ）。金龟科花金龟属中型甲虫，体绿至铜色并散布白斑。常访花与树液，飞行时鞘翅常合拢。",
+      "habitat_hint": "杂木林缘、有汁栎树、菊科与伞形科花上。",
+      "finding_tips": "5–8 月白昼可见于花心啃食花粉。金属绿铜光泽与白斑为辨识要点。"
+    }
+  },
+  "Chabulina onychinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded Crambid Moth",
+    "aliases": {
+      "zh-Hans": "白纹野螟"
+    },
+    "ja": {
+      "summary": "シロマダラノメイガ。ツトガ科ノメイガ亜科の小型蛾で、黒褐色の前翅に白い斜帯が走る。本州〜九州の低地〜山地で広く見られる。",
+      "habitat_hint": "雑木林の林縁、明るい林道、ヤブ草地。",
+      "finding_tips": "6〜9月の夜、灯火に飛来します。前翅の白い斜帯と頂角近くの小白斑が決め手。"
+    },
+    "en": {
+      "summary": "White-banded Crambid Moth. A small crambid with a dark-brown forewing crossed by a clean white oblique band, common in lowland and montane Japan.",
+      "habitat_hint": "Woodland edges, sunlit forest tracks, scrubby meadows.",
+      "finding_tips": "June–September at moth lights. The pure white oblique band and small subapical white spot on each forewing are diagnostic."
+    },
+    "zh": {
+      "summary": "白纹野螟（シロマダラノメイガ）。草螟科野螟亚科小型蛾，前翅暗褐并具一道白色斜带，本州至九州常见。",
+      "habitat_hint": "杂木林缘、明亮林道、灌草地。",
+      "finding_tips": "6–9 月夜间灯诱可见。前翅白色斜带与近顶角小白斑为辨识要点。"
+    }
+  },
+  "Chaenogobius gulosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ドロメ。ハゼ科チチブモドキ属の小型海産魚で、潮間帯の岩礁・タイドプールに生息。口が大きく、淡褐色〜暗褐色のまだら模様が特徴。",
+      "habitat_hint": "潮間帯の岩礁、タイドプール、転石下。",
+      "finding_tips": "干潮時のタイドプールで石をめくると見つかります。口の大きさと斑状の体側模様が他のハゼ類との識別点。"
+    },
+    "en": {
+      "summary": "Gluttonous Goby. A small intertidal goby of Japanese rocky shores with a notably large mouth and mottled brown body.",
+      "habitat_hint": "Rocky intertidal, tide pools, under loose cobbles.",
+      "finding_tips": "Search tide pools at low tide and lift stones. The large gape and bold dark blotches separate it from sympatric small gobies."
+    },
+    "zh": {
+      "summary": "大口裸头鰕虎（ドロメ）。鰕虎鱼科小型海产鱼，栖于潮间带岩礁与潮池。口大，体侧具淡至暗褐斑纹。",
+      "habitat_hint": "潮间带岩礁、潮池、石砾下。",
+      "finding_tips": "退潮时翻石可见。口大与暗斑体侧为辨识要点。"
+    }
+  },
+  "Chalciporus piperatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コショウイグチ（胡椒猪口）。イグチ科コショウイグチ属の小型きのこで、肉に強い辛味があり香辛料代わりに使われた歴史をもつ。",
+      "habitat_hint": "ベニタケ科のきのこ（特にベニタケ属）に寄生的に発生、針広混交林の地上。",
+      "finding_tips": "7〜10月、赤褐色傘＋赤橙色の管孔＋胡椒のように辛い味で識別。ベニタケが多い林床がヒント。"
+    },
+    "en": {
+      "summary": "Peppery Bolete. A small bolete with reddish-brown cap and bright orange tubes; the flesh has a sharp peppery taste and the species is parasitic on Russula.",
+      "habitat_hint": "Mixed coniferous-deciduous forest where Russula are abundant; ectomycorrhizal but also parasitic on them.",
+      "finding_tips": "July–October. Combination of brown cap, orange tubes and burning peppery taste is diagnostic — taste a tiny piece and spit out."
+    },
+    "zh": {
+      "summary": "胡椒牛肝菌（コショウイグチ）。牛肝菌科胡椒牛肝菌属小型菌，菌肉具强辛辣味，历史上曾作香辛料代用。",
+      "habitat_hint": "针阔混交林下，常与红菇属（Russula）相伴呈寄生关系。",
+      "finding_tips": "7–10 月。赤褐菌盖、橙红管孔与胡椒般辛辣味为辨识要点。"
+    }
+  },
+  "Chiasmia defixaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-dot Geometer Moth",
+    "aliases": {
+      "zh-Hans": "二点尺蛾"
+    },
+    "ja": {
+      "summary": "フタテンオエダシャク。シャクガ科エダシャク亜科の小型蛾で、淡褐色の地に各翅2つの黒点が並ぶ。",
+      "habitat_hint": "雑木林、林縁、社寺林、灯火周辺。",
+      "finding_tips": "5〜9月の夜、灯火で見つけます。各翅の中央寄りに小さな黒点2つが並ぶのが決め手。"
+    },
+    "en": {
+      "summary": "Two-dot Geometer Moth. A small Chiasmia geometer with pale-brown wings each bearing two distinct black dots.",
+      "habitat_hint": "Secondary woodland, forest edges, shrine groves, around lights.",
+      "finding_tips": "May–September at moth lights. The paired small black dots on each wing are the easiest field mark."
+    },
+    "zh": {
+      "summary": "二点尺蛾（フタテンオエダシャク）。尺蛾科枝尺蛾亚科小型蛾，翅淡褐，每翅具明显二黑点。",
+      "habitat_hint": "杂木林、林缘、神社林、灯火周边。",
+      "finding_tips": "5–9 月夜间灯诱可见。各翅中部之二黑点为辨识要点。"
+    }
+  },
+  "Chiasmia hebesata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dull Chiasmia Geometer",
+    "aliases": {
+      "zh-Hans": "钝纹尺蛾"
+    },
+    "ja": {
+      "summary": "ウスオエダシャク。シャクガ科エダシャク亜科の小型蛾で、淡褐色の地に細い横線が走る地味な蛾。",
+      "habitat_hint": "雑木林、林縁、公園のクヌギ・コナラ周辺。",
+      "finding_tips": "5〜9月の夜、灯火に飛来。前翅の細い横線と全体に薄い色合いが目印。"
+    },
+    "en": {
+      "summary": "Dull Chiasmia Geometer. A subtly marked small geometer with thin cross-lines on a pale-brown ground.",
+      "habitat_hint": "Lowland deciduous woodland, edges, parks with oak.",
+      "finding_tips": "May–September at lights. Faint thin cross-lines and overall washed-out colour separate it from related Chiasmia."
+    },
+    "zh": {
+      "summary": "钝纹尺蛾（ウスオエダシャク）。尺蛾科枝尺蛾亚科小型蛾，翅淡褐具细横线，整体色暗淡。",
+      "habitat_hint": "杂木林、林缘、有栎之公园。",
+      "finding_tips": "5–9 月夜间灯诱可见。前翅细横线与整体淡色为识别点。"
+    }
+  },
+  "Chlorophorus annularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タケトラカミキリ。カミキリムシ科の中型甲虫で、黒地に黄色い帯状斑をもつ。竹材を食害する代表種で、輸出材害虫としても国際的に有名。",
+      "habitat_hint": "竹林、伐採竹材の置き場、屋根葺き材の竹束、竹細工工房周辺。",
+      "finding_tips": "5〜8月、竹材の山に集まる成虫を昼間に確認できます。黒地に黄帯のはっきりした模様が決め手。"
+    },
+    "en": {
+      "summary": "Bamboo Borer. A black-and-yellow tiger longhorn beetle that develops in cut bamboo; a significant pest of bamboo timber worldwide.",
+      "habitat_hint": "Bamboo groves, stacks of cut culms, thatch supplies, craft workshops handling bamboo.",
+      "finding_tips": "May–August in daytime around stacks of cut bamboo. The bold yellow transverse bands on a black ground are unmistakable."
+    },
+    "zh": {
+      "summary": "竹绿虎天牛（タケトラカミキリ）。天牛科中型甲虫，体黑具黄色横带，是危害竹材的代表种，世界范围的检疫害虫。",
+      "habitat_hint": "竹林、伐竹堆放场、屋顶葺竹束、竹艺工坊周边。",
+      "finding_tips": "5–8 月白昼可见成虫聚于竹堆。黑底黄横带斑纹鲜明，最易辨识。"
+    }
+  },
+  "Chrysosplenium album": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-flowered Golden Saxifrage",
+    "aliases": {
+      "zh-Hans": "白花猫眼草"
+    },
+    "ja": {
+      "summary": "シロバナネコノメソウ。ユキノシタ科ネコノメソウ属の小型多年草で、白い花弁状の萼片と赤い葯がコントラストをなす。本州〜九州の山地渓流脇に生える。",
+      "habitat_hint": "山地の渓流沿い、湧水のしみ出す岩場、湿った半日陰の腐植土。",
+      "finding_tips": "3〜4月、白い萼片と赤い葯のコントラストで一目で識別できます。流れの脇の苔むした岩を探します。"
+    },
+    "en": {
+      "summary": "White-flowered Golden Saxifrage. A tiny stream-side perennial of Honshu–Kyushu with showy white bract-like sepals contrasting with dark-red anthers.",
+      "habitat_hint": "Mossy rocks beside montane streams, seeps, semi-shaded humus.",
+      "finding_tips": "March–April. The pure-white floral bracts and brick-red anthers make this the most easily identified Chrysosplenium in Japan."
+    },
+    "zh": {
+      "summary": "白花猫眼草（シロバナネコノメソウ）。虎耳草科金腰属小型多年生草本，分布本州至九州山地溪边，白色花瓣状萼片与红色花药对比强烈。",
+      "habitat_hint": "山地溪边、岩缝泉涌处、半阴湿腐殖土。",
+      "finding_tips": "3–4 月，白色苞萼与红色花药一望可辨。湿苔岩石旁多见。"
+    }
+  },
+  "Chrysosplenium grayanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ネコノメソウ（猫の目草）。ユキノシタ科ネコノメソウ属の多年草で、果実が裂開した姿が猫の瞳孔のように見えることが和名の由来。",
+      "habitat_hint": "山地の沢沿い、湿った半日陰、湧水のしみ出す土手。",
+      "finding_tips": "3〜5月の花、4〜5月の独特な裂開果のいずれかで識別可能。湿地性の指標種でもあります。"
+    },
+    "en": {
+      "summary": "Gray's Golden Saxifrage. A creeping wetland perennial whose split-open seed capsules resemble cat's pupils — the source of the Japanese name.",
+      "habitat_hint": "Streamside banks, seeps, moist semi-shaded soils in montane forest.",
+      "finding_tips": "March–May for the inconspicuous yellow-bracted flowers; April–May for the distinctive cat-eye-shaped opened capsules."
+    },
+    "zh": {
+      "summary": "猫眼草（ネコノメソウ）。虎耳草科金腰属多年生草本，果实开裂后形似猫眼瞳孔，故得和名。",
+      "habitat_hint": "山地溪畔、泉涌湿土、半阴坡地。",
+      "finding_tips": "3–5 月观花，4–5 月观裂开之“猫眼”果。可视为湿地指示植物。"
+    }
+  },
+  "Convolvulus arvensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイヨウヒルガオ（西洋昼顔）。ヒルガオ科の多年生つる草で、ユーラシア原産。畑・道端に強く侵入する世界的雑草。",
+      "habitat_hint": "畑地、道端、空地、河川敷の撹乱地。",
+      "finding_tips": "5〜9月、小型の白〜淡桃色の漏斗状花と矢じり形の小さな葉で識別。日本のヒルガオより全体に小型。"
+    },
+    "en": {
+      "summary": "Field Bindweed. A perennial twining vine of Eurasian origin, a world-class agricultural weed with small white or pale-pink funnel flowers.",
+      "habitat_hint": "Fields, roadsides, waste ground, river embankments.",
+      "finding_tips": "May–September. Small funnel-shaped flowers and arrow-shaped leaves separate it from Japan's larger-flowered Calystegia bindweeds."
+    },
+    "zh": {
+      "summary": "田旋花（セイヨウヒルガオ）。旋花科多年生缠绕藤本，原产欧亚，是世界性恶性杂草。",
+      "habitat_hint": "农田、路边、空地、河滩扰动地。",
+      "finding_tips": "5–9 月。漏斗状小花白或粉、叶箭头形，比日本本土打碗花整体显小。"
+    }
+  },
+  "Coprinellus disseminatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌセンボンタケ（犬千本茸）。ナヨタケ科ヒトヨタケ属の小型きのこで、朽木の上に数十〜数百本が群生する姿は壮観。",
+      "habitat_hint": "公園・神社の枯木株、倒木、樹皮の隙間。",
+      "finding_tips": "5〜10月、雨後すぐに大群生が現れます。淡灰色の細かい傘とすぐに溶けない柄が特徴。"
+    },
+    "en": {
+      "summary": "Fairy Inkcap. A delicate small Coprinellus that erupts in massed colonies of dozens to hundreds on rotten stumps.",
+      "habitat_hint": "Stumps and fallen logs in parks and shrine groves.",
+      "finding_tips": "May–October, especially in the days after rain. Look for dense colonies of small pale-grey caps; unlike most inky caps, the stipes do not deliquesce."
+    },
+    "zh": {
+      "summary": "小假鬼伞（イヌセンボンタケ）。脆柄菇科鬼伞属小型菌，常于朽木上数十至数百朵群生。",
+      "habitat_hint": "公园神社之枯桩、倒木、树皮缝隙。",
+      "finding_tips": "5–10 月雨后即可见大片群生。淡灰小盖与不易自溶的菌柄为识别要点。"
+    }
   }
 }
