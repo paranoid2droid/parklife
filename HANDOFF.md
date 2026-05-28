@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,583 visible species / 126,491 visible park-species pairs** as of 2026-05-26 (post-dupemerge). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 34.8 MB). **2,371 species** have curated profiles in ja/en/zh/zhT (9,480 rows). **np≥9 tier is 100% covered** (2026-05-28, A25–A29 sweep, +93 profiles). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,583 visible species / 126,491 visible park-species pairs** as of 2026-05-26 (post-dupemerge). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 35.2 MB). **2,537 species** have curated profiles in ja/en/zh/zhT (10,148 rows). **np≥8 tier is 100% covered** (2026-05-28, A30–A37 sweep, +144 profiles). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
 **DB integrity (2026-05-27)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders: 7 generic words (カワヅザクラ np=6, コブクザクラ np=3, スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2) — all low np, not worth bespoke fixes.
 
@@ -42,15 +42,16 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **species_profile curation — np≥9 DONE. Continue from A30 into np=8 tier** *(at 2,371 / 2026-05-28)*
+1. **species_profile curation — np≥8 DONE. Continue from A38 into np=7 tier** *(at 2,537 / 2026-05-28)*
    - **Sidecar workflow** (`data/species_profiles_extra.json`): every entry MUST include `common_name_en` (if DB has NULL or generic) + `aliases.{zh-Hans}` (if DB lacks it) alongside the 4-language profile. zhT auto-derived via OpenCC. See `BATCH_TEMPLATE.md` at repo root.
-   - **Query next batch** — change `np >= 9` to `np >= 8`:
+   - **Query next batch** — change `np >= 9` to `np >= 7`:
      ```sh
-     sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' AND s.common_name_ja NOT LIKE '%・%' AND s.common_name_ja NOT LIKE '%（%' GROUP BY s.id HAVING np >= 8 ORDER BY np DESC, s.scientific_name LIMIT 30;"
+     sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' AND s.common_name_ja NOT LIKE '%・%' AND s.common_name_ja NOT LIKE '%（%' GROUP BY s.id HAVING np >= 7 ORDER BY np DESC, s.scientific_name LIMIT 30;"
      ```
    - **Per-batch loop**: write `/tmp/profile_batchN.py` → run → `.venv/bin/python -m scripts.seed_species_profiles` → `scripts.export_html` → `cp data/export/index.html docs/index.html` → commit every 1–2 batches.
    - **np≥9 cleanup history**: A24 cleared romaji-rescued high-np (ヤハズエンドウ et al). A25–A28 cleared the regular np=9 species (90 entries). A29 closed the last 2 edge cases (Malus toringo had romaji ja `ko-nashi` → fixed to ズミ in DB; Macrogerris is a subgenus treated as ツツジ属 was).
-   - **Remaining tiers**: np≥8 → ~150, np≥5 → ~700, all visible → ~4,900. Batch of 22 costs ~10–15k tokens.
+   - **np=8 cleanup history (2026-05-28, A30–A37)**: cleared 144 species across 8 batches; sidecar backfilled ~74 common_name_en + ~40 zh-Hans aliases. Demo 34.8 → 35.2 MB.
+   - **Remaining tiers**: np≥7 → ~250, np≥5 → ~600, all visible → ~4,700. Batch of 22 costs ~10–15k tokens.
 
 2. **Periodic latent-data maintenance** *(run after every major ingestion; cheap)*
    - `.venv/bin/python -m scripts.merge_duplicate_species` — collapses synonym pairs sharing one `inat_taxon_id`; NULLs bogus tids covering many unrelated species. Last run 2026-05-26 (-55 dups, 6 bogus tids NULLed).
@@ -87,6 +88,18 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-28 (Claude) — np=8 tier cleared: A30–A37 sweep (2371→2537, +144; commits `0067a12` → `cce7b66`)
+- 8 consecutive batches (A30–A37) alphabetically swept Acer → Zoothera. Final batch A37 (12 entries) closed the tier; np≥8 now 0 candidates remaining.
+- **A30** (`0067a12`, +22): Acer→Bassia. Greater White-fronted Goose, Tamagotake, Sweet Annie, Thale Cress, Kochia.
+- **A31** (`cd39fed`, +22): Bristowia→Coprinellus. Sharp-tailed Sandpiper, Siberian Rubythroat, Japanese Serow, Eurasian Treecreeper, Peppery Bolete, Bamboo Borer.
+- **A32** (`17d098d`, +22): Clytus→Eurema. Japanese Quail, Constable Butterfly, Chinese Grosbeak, Bird-dropping mimic Cyrtarachne, Tasmanian Blue Gum.
+- **A33** (`004e6ca`, +22): Eutonia→Lactuca. Beefsteak Fungus, Witches' Butter, Senegal Tea, Asian Shore Crab, 13-spot Ladybird, Panicle Hydrangea.
+- **A34** (`748a8fe`, +22): Laportea→Nippancistroger. Japanese Bell Cricket, Smallmouth + Largemouth Bass, Magic Lily, Southern Magnolia, Burgundydrop Bonnet, Japanese Green Hairstreak.
+- **A35** (`6492684`, +22): Nipponobuprestis→Pyracantha. Masu Salmon, Crested Honey Buzzard, Russet Sparrow, Spangle Swallowtail, Japanese Bombardier Beetle, Misty Cherry, White-browed Laughingthrush.
+- **A36** (`c7980f4`, +22): Rhantus→Tartessus. Floating Fern (Salvinia), Goat Willow, Ancient Murrelet, Hamabō Hibiscus, East Asian Swertia, Yellow Dung Fly.
+- **A37** (`cce7b66`, +12): Ternstroemia→Zoothera closeout. Wakame, Crimson Glory Vine, Scaly Thrush, Mokkoku, Mulberry Tiger Longhorn.
+- Cumulative sidecar backfills ~74 common_name_en + ~40 zh-Hans aliases. Demo 34.8 → 35.2 MB. **np≥8 coverage 100%.**
 
 ### 2026-05-28 (Claude) — np≥9 tier cleared: A25–A29 sweep (2279→2371, +93; commits `5a4f2fd` → `f3e7804`)
 - **A25** (`5a4f2fd`, +22): Dichomeris→Matricaria. Highlights: Merlin, Tokyo Salamander, Glandirana reliquia frog, Geastrum+Lycoperdon fungi.
