@@ -55403,5 +55403,273 @@
       "habitat_hint": "杂木林缘、树皮、嫩叶背、灌木嫩枝。",
       "finding_tips": "5–10 月可见于叶上。赤褐细长体与叶蝉特征侧向移动方式为辨识要点。"
     }
+  },
+  "Ternstroemia gymnanthera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cleyera",
+    "ja": {
+      "summary": "モッコク（木斛）。サカキ科モッコク属の常緑高木で、関東以南の沿岸〜内陸の山地に自生し、社寺・庭園で「庭木の王」と呼ばれて広く植栽される。",
+      "habitat_hint": "暖地の照葉樹林、社寺の境内、武家屋敷の庭園、街路樹。",
+      "finding_tips": "通年。革質の楕円形葉と新葉の赤色、夏に白〜淡黄の小花、秋に赤い果実が裂開して赤い種子を覗かせる姿で識別。"
+    },
+    "en": {
+      "summary": "Japanese Cleyera (Mokkoku). An evergreen Pentaphylacaceae of warm temperate Japan, planted as a 'king of garden trees' in shrines and old samurai gardens.",
+      "habitat_hint": "Warm-region evergreen forest, shrine grounds, traditional gardens, avenue trees.",
+      "finding_tips": "Year-round. Leathery oval leaves with red new growth, small whitish summer flowers, and red capsules splitting to show scarlet seeds in autumn are diagnostic."
+    },
+    "zh": {
+      "summary": "厚皮香（モッコク）。五列木科厚皮香属常绿乔木，分布日本关东以南，于神社与传统庭园中誉为“庭木之王”。",
+      "habitat_hint": "暖地常绿阔叶林、神社境内、传统庭园、行道树。",
+      "finding_tips": "全年。革质椭圆叶、新叶发红、夏开白黄色小花、秋果开裂露红色种子，皆为辨识要点。"
+    }
+  },
+  "Themeda triandra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kangaroo Grass",
+    "ja": {
+      "summary": "メガルカヤ（雌刈茅）。イネ科メガルカヤ属の多年草で、本州〜九州の日当たりの良い乾燥草地に自生。秋に赤褐色に色づく穂が美しい。",
+      "habitat_hint": "里山の乾性草地、伐採跡、火入れ草原、明るい林縁。",
+      "finding_tips": "9〜11月、赤褐色に色づく花序と細い線形葉で識別。葉や穂に芳香があります。"
+    },
+    "en": {
+      "summary": "Kangaroo Grass. A widely distributed warm-region perennial grass; in Japan an autumn-bronzing component of semi-natural dry grasslands.",
+      "habitat_hint": "Dry semi-natural grassland, fire-managed meadows, recent cuttings, sunny edges.",
+      "finding_tips": "September–November. The russet-bronze inflorescences and fine linear leaves are diagnostic; the foliage is faintly aromatic."
+    },
+    "zh": {
+      "summary": "黄背草（メガルカヤ）。禾本科菅属多年生草本，分布本州至九州向阳干燥草地，秋季穗呈赤褐色。",
+      "habitat_hint": "里山干性草地、伐迹地、火管理草原、明亮林缘。",
+      "finding_tips": "9–11 月。赤褐色花序与细线形叶组合即是；叶具淡香。"
+    }
+  },
+  "Themus cyanipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blue-winged Soldier Beetle",
+    "aliases": {
+      "zh-Hans": "蓝翅花萤"
+    },
+    "ja": {
+      "summary": "アオジョウカイ。ジョウカイボン科の中型甲虫で、青藍光沢のある上翅と橙色の前胸の対比が鮮やか。柔らかい体と上向きの上翅が特徴。",
+      "habitat_hint": "雑木林、林縁、草地、各種野花の花上。",
+      "finding_tips": "5〜7月、日中に花の上で見つかります。青藍光沢の上翅と橙色の前胸という配色が決め手。"
+    },
+    "en": {
+      "summary": "Blue-winged Soldier Beetle. A medium Themus cantharid with iridescent blue elytra contrasting an orange pronotum; a frequent flower visitor.",
+      "habitat_hint": "Lowland woodland, edges, grassland, flowering shrubs.",
+      "finding_tips": "May–July on flowers in daytime. The blue-iridescent elytra and bright orange pronotum together are diagnostic."
+    },
+    "zh": {
+      "summary": "蓝翅花萤（アオジョウカイ）。花萤科中型甲虫，鞘翅蓝色金属光泽与橙色前胸对比鲜明，常访花。",
+      "habitat_hint": "杂木林、林缘、草地、各色野花上。",
+      "finding_tips": "5–7 月白昼可见于花上。蓝光鞘翅与橙色前胸为辨识要点。"
+    }
+  },
+  "Thlaspi arvense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Field Pennycress",
+    "ja": {
+      "summary": "グンバイナズナ（軍配薺）。アブラナ科グンバイナズナ属の一年〜越年草で、ユーラシア原産。和名は軍配団扇に似た楕円形の角果に由来。",
+      "habitat_hint": "畑地、空地、河川敷、道端。",
+      "finding_tips": "4〜6月、白い小花の後にできる平たい楕円形（軍配状）の角果で一目で識別。"
+    },
+    "en": {
+      "summary": "Field Pennycress. A Eurasian Brassicaceae annual whose flat circular silicles resemble small pennies — the name source.",
+      "habitat_hint": "Crop fields, waste ground, river embankments, roadsides.",
+      "finding_tips": "April–June. Tiny white flowers replaced by conspicuously flat round 'penny' silicles are unmistakable."
+    },
+    "zh": {
+      "summary": "菥蓂（グンバイナズナ）。十字花科菥蓂属一至二年生草本，原产欧亚。短角果扁圆似团扇，乃和名所本。",
+      "habitat_hint": "农田、空地、河滩、路边。",
+      "finding_tips": "4–6 月。白色小花后形成的圆扁角果极易辨识。"
+    }
+  },
+  "Trachys variolaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mottled Pygmy Jewel Beetle",
+    "ja": {
+      "summary": "ダンダラチビタマムシ。タマムシ科チビタマムシ属の超小型甲虫で、暗褐色の上翅に金属光沢と細かい斑紋が散る。葉のミナーとして発生。",
+      "habitat_hint": "雑木林、林縁の葉、フジやハギなどマメ科の葉上。",
+      "finding_tips": "5〜8月、フジやハギの葉裏で見つかります。3 mm 前後の極小サイズと暗褐色まだら模様が決め手。"
+    },
+    "en": {
+      "summary": "Mottled Pygmy Jewel Beetle. A tiny Trachys jewel beetle, dark with iridescent mottling; larvae are leaf miners on Fabaceae.",
+      "habitat_hint": "Lowland woodland, edges, Wisteria and Lespedeza leaves.",
+      "finding_tips": "May–August on Fabaceae leaves. The ~3 mm size and mottled dark elytra distinguish it from green Agrilus."
+    },
+    "zh": {
+      "summary": "斑矮吉丁虫（ダンダラチビタマムシ）。吉丁虫科矮吉丁属极小型甲虫，鞘翅暗褐具金属光斑，幼虫为豆科叶部潜叶虫。",
+      "habitat_hint": "杂木林、林缘叶面、紫藤与胡枝子等豆科叶上。",
+      "finding_tips": "5–8 月可见于豆科叶上。3 毫米左右极小体型与暗褐杂斑为辨识要点。"
+    }
+  },
+  "Trachys yanoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yano's Pygmy Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "矢野矮吉丁"
+    },
+    "ja": {
+      "summary": "ヤノナミガタチビタマムシ。タマムシ科チビタマムシ属の超小型甲虫で、上翅に波形の細い金属光沢条が並ぶ。",
+      "habitat_hint": "雑木林、林縁、ケヤキ・ニレなどの葉上。",
+      "finding_tips": "5〜8月、ケヤキやニレの葉で見つかります。3 mm 前後で上翅の波形条が決め手。"
+    },
+    "en": {
+      "summary": "Yano's Pygmy Jewel Beetle. A tiny Trachys jewel beetle with thin wave-like iridescent bands across the elytra; leaf-mining on Zelkova and elm.",
+      "habitat_hint": "Lowland woodland, edges, Zelkova and Ulmus foliage.",
+      "finding_tips": "May–August on Zelkova leaves. Wavy iridescent banding on dark elytra at ~3 mm size is diagnostic."
+    },
+    "zh": {
+      "summary": "矢野矮吉丁（ヤノナミガタチビタマムシ）。吉丁虫科矮吉丁属极小型甲虫，鞘翅具波状金属光纹，幼虫潜食榉与榆叶。",
+      "habitat_hint": "杂木林、林缘、榉、榆叶。",
+      "finding_tips": "5–8 月可见于榉与榆叶上。约 3 毫米与波状光纹为辨识要点。"
+    }
+  },
+  "Trifolium incarnatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ベニバナツメクサ（紅花詰草）。マメ科シャジクソウ属の一年草で、地中海原産。緑肥や景観植物として導入され、河川敷などで野生化。鮮やかな深紅の細長い花穂が美しい。",
+      "habitat_hint": "河川敷、農地周辺、緑肥畑、観光地の景観植栽。",
+      "finding_tips": "4〜6月、深紅の細長い円錐状花穂で識別。3小葉のシャジクソウ属の葉で属を確認。"
+    },
+    "en": {
+      "summary": "Crimson Clover. A Mediterranean Trifolium grown as a green manure and ornamental, with showy elongated crimson flower heads; naturalised on Japanese riverbanks.",
+      "habitat_hint": "River embankments, field margins, green-manure fields, landscape plantings.",
+      "finding_tips": "April–June. The elongated bright crimson flower heads over trifoliate clover leaves are unmistakable."
+    },
+    "zh": {
+      "summary": "绛三叶（ベニバナツメクサ）。豆科车轴草属一年生草本，原产地中海，作绿肥与景观植物引入，河滩野化。深红长锥形花序极显眼。",
+      "habitat_hint": "河滩、农地边、绿肥田、景观栽植。",
+      "finding_tips": "4–6 月。深红长锥形花序与三出复叶组合即是。"
+    }
+  },
+  "Undaria pinnatifida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wakame",
+    "ja": {
+      "summary": "ワカメ。コンブ目チガイソ科の褐藻で、日本食文化を代表する食用海藻。日本の沿岸の岩礁に普通だが、近年は世界各地に侵略的に拡散している。",
+      "habitat_hint": "潮間帯下〜亜潮間帯の岩礁、波あたりのある岸壁。",
+      "finding_tips": "2〜6月、岩礁にゆらゆらと揺れる羽状の葉体で識別。茎の付け根に「メカブ」と呼ばれる生殖器官（胞子体）があります。"
+    },
+    "en": {
+      "summary": "Wakame. A brown kelp of the Alariaceae, iconic in Japanese cuisine; abundant on Japanese rocky shores and an aggressive global invader.",
+      "habitat_hint": "Lower intertidal to subtidal rocky shore, wave-exposed walls.",
+      "finding_tips": "February–June. Wavy pinnatifid blades attached by a midrib; the basal sporophyll cluster ('mekabu') confirms the species."
+    },
+    "zh": {
+      "summary": "裙带菜（ワカメ）。海带目翅藻科褐藻，日本料理代表性食用海藻。日本沿岸岩礁常见，近年向世界各地强势入侵。",
+      "habitat_hint": "潮间带下至亚潮间带岩礁、浪打岩壁。",
+      "finding_tips": "2–6 月。具中肋之羽状叶体随浪摇曳；茎基部之“裙带（メカブ）”孢子叶为辨识要点。"
+    }
+  },
+  "Vitis coignetiae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crimson Glory Vine",
+    "ja": {
+      "summary": "ヤマブドウ（山葡萄）。ブドウ科ブドウ属の落葉つる植物で、日本の山地に自生。秋の紅葉と黒紫色の果実が美しく、果実は食用・果実酒の原料。",
+      "habitat_hint": "山地の落葉広葉樹林、林縁、伐採跡、河岸の二次林。",
+      "finding_tips": "9〜10月、深紅に紅葉した大きな心形葉と黒紫の球状果実で識別。葉裏は淡褐色の毛が密生。"
+    },
+    "en": {
+      "summary": "Crimson Glory Vine. A vigorous deciduous Vitis of Japanese mountain forests, prized for crimson autumn foliage and dark purple edible berries.",
+      "habitat_hint": "Montane deciduous forest, edges, cuttings, riparian secondary woodland.",
+      "finding_tips": "September–October. Large heart-shaped leaves turning vivid crimson over clusters of black-purple grapes are unmistakable; underside felt is brownish."
+    },
+    "zh": {
+      "summary": "紫葛（ヤマブドウ）。葡萄科葡萄属落叶藤本，自生日本山地。秋叶赤红、果黑紫，可食且酿酒。",
+      "habitat_hint": "山地落叶阔叶林、林缘、伐迹地、河岸次生林。",
+      "finding_tips": "9–10 月。心形大叶秋季染赤红与黑紫色球状果串组合即是；叶背密被淡褐绒毛。"
+    }
+  },
+  "Woodsia polystichoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワデンダ。イワデンダ科の常緑シダで、岩壁・石垣に着生する小型シダ。葉は一回羽状複葉で、葉軸に毛が密生する。",
+      "habitat_hint": "山地〜低地の岩壁、石垣、社寺の石段の隙間。",
+      "finding_tips": "通年、岩壁や石垣の隙間に小さな羽状葉が下垂する姿で識別。葉軸の毛が他のイワデンダ属との識別点。"
+    },
+    "en": {
+      "summary": "Holly-fern Woodsia. A small evergreen Woodsia growing on rock walls and stone walls, with hairy rachides and once-pinnate fronds.",
+      "habitat_hint": "Rock walls, stone walls, masonry crevices of shrines and temples.",
+      "finding_tips": "Year-round. Once-pinnate dangling fronds with conspicuously hairy rachides separate it from other Japanese Woodsia."
+    },
+    "zh": {
+      "summary": "耳羽岩蕨（イワデンダ）。岩蕨科常绿小型蕨，附生岩壁与石墙。叶一回羽状复叶，叶轴密被毛。",
+      "habitat_hint": "山地至低地岩壁、石墙、寺院石阶缝。",
+      "finding_tips": "全年。岩壁石缝中下垂之一回羽状叶与多毛叶轴为辨识要点。"
+    }
+  },
+  "Xylotrechus chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mulberry Tiger Longhorn",
+    "ja": {
+      "summary": "トラフカミキリ。カミキリムシ科の中型トラカミキリで、黒地に明るい黄色の帯状斑をもつ。クワ類を主食樹とし、桑園では害虫扱い。",
+      "habitat_hint": "クワ畑、雑木林のクワ、河岸のヤマグワ。",
+      "finding_tips": "6〜9月、クワの幹や枝上に成虫を観察。黒地に鮮やかな黄帯のはっきりした虎柄が決め手。"
+    },
+    "en": {
+      "summary": "Mulberry Tiger Longhorn. A medium Xylotrechus tiger longhorn with bright yellow bands on black elytra; develops in mulberry and is a sericulture pest.",
+      "habitat_hint": "Mulberry orchards, wild Morus along rivers, lowland woodland with mulberry.",
+      "finding_tips": "June–September on mulberry trunks and branches. The clean yellow-on-black tiger pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "桑脊虎天牛（トラフカミキリ）。天牛科中型虎天牛，体黑具鲜黄横带，钻蛀桑树为蚕业害虫。",
+      "habitat_hint": "桑园、杂木林之桑、河岸山桑。",
+      "finding_tips": "6–9 月可见于桑干枝。黑底鲜黄虎纹为辨识要点。"
+    }
+  },
+  "Zoothera dauma": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カッショクトラツグミ。ツグミ科の中型ツグミで、全身が金褐色の地に鱗状の暗斑が散る独特の模様。日本では本州中部以北で繁殖、本州以南で越冬。",
+      "habitat_hint": "山地の落葉広葉樹林、亜高山の針葉樹林、社寺林の林床。",
+      "finding_tips": "5〜10月の繁殖期は深い森の林床で動く影、夜間の口笛のような細い鳴き声で気づきます。鱗状模様の体が決定的識別点。"
+    },
+    "en": {
+      "summary": "Scaly Thrush. A medium thrush with bold black-and-gold scalloped plumage; breeds in central-northern Japanese montane forest and winters southward.",
+      "habitat_hint": "Montane broadleaf and subalpine conifer forest, shrine-grove understorey in winter.",
+      "finding_tips": "May–October breeding birds skulk in deep forest, located at night by a thin whistled song; the scaled body pattern is unmistakable."
+    },
+    "zh": {
+      "summary": "小虎斑地鸫（カッショクトラツグミ）。鸫科中型鸫，体被金褐底色与鳞状暗斑。日本本州中部以北繁殖，以南越冬。",
+      "habitat_hint": "山地阔叶林、亚高山针叶林、冬季神社林下层。",
+      "finding_tips": "5–10 月繁殖期深林下层活动，夜间细哨鸣声易识；通体鳞斑纹为决定性识别点。"
+    }
   }
 }
