@@ -53930,5 +53930,491 @@
       "habitat_hint": "路边、空地、河滩、扰动地。",
       "finding_tips": "6–10 月。叶缘与中脉具刺，叶面常南北向竖立，号称“指南草”，皆为识别要点。"
     }
+  },
+  "Laportea bulbifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムカゴイラクサ（零余子刺草）。イラクサ科ムカゴイラクサ属の多年草で、葉腋にむかご（珠芽）をつけ、それで栄養繁殖する。葉や茎に刺毛があり触れると痛む。",
+      "habitat_hint": "山地の沢沿い、湿った林床、半日陰の腐植土。",
+      "finding_tips": "夏〜秋、葉腋の球形むかごで一目で識別。触れるとヒリヒリ刺すので注意。"
+    },
+    "en": {
+      "summary": "Bulbiferous Woodnettle. A perennial nettle bearing bulbils in the leaf axils for vegetative spread; the stinging hairs cause a sharp burn on contact.",
+      "habitat_hint": "Streamside montane forest, damp shaded humus soils.",
+      "finding_tips": "Summer–autumn. The clusters of pea-sized bulbils in leaf axils are diagnostic; handle with care due to stinging hairs."
+    },
+    "zh": {
+      "summary": "珠芽艾麻（ムカゴイラクサ）。荨麻科艾麻属多年生草本，叶腋生珠芽以营养繁殖。茎叶具螫毛，触之刺痛。",
+      "habitat_hint": "山地溪边、湿润林下、半阴腐殖土。",
+      "finding_tips": "夏秋。叶腋之球形珠芽极易辨认；触碰即螫痛，须慎触。"
+    }
+  },
+  "Lema honorata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yam Leaf Beetle",
+    "ja": {
+      "summary": "ヤマイモハムシ。ハムシ科ネクイハムシ亜科の小型甲虫で、青藍光沢のある上翅をもつ。ヤマイモ・ナガイモなど Dioscorea 属の葉を食害する。",
+      "habitat_hint": "林縁、農地、ヤマイモが絡みつく灌木やフェンス。",
+      "finding_tips": "5〜9月、ヤマイモの葉を裏返すと幼虫の食痕とともに成虫が見つかります。藍色光沢の上翅と細長い体型が決め手。"
+    },
+    "en": {
+      "summary": "Yam Leaf Beetle. A slender metallic-blue Lema leaf beetle that feeds on the foliage of Dioscorea (yam) species.",
+      "habitat_hint": "Woodland edges, farmland, fences and shrubs with climbing yam.",
+      "finding_tips": "May–September on the undersides of Dioscorea leaves. Brilliant blue elytra and elongate body separate it from other Japanese Lema."
+    },
+    "zh": {
+      "summary": "蓝翅负泥虫（ヤマイモハムシ）。叶甲科负泥虫亚科小型甲虫，鞘翅蓝色金属光泽，啃食薯蓣属（Dioscorea）叶片。",
+      "habitat_hint": "林缘、农地、攀附薯蓣之灌木与篱笆。",
+      "finding_tips": "5–9 月翻动薯蓣叶背可见。蓝色鞘翅与细长体型为辨识要点。"
+    }
+  },
+  "Lycoris squamigera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナツズイセン（夏水仙）。ヒガンバナ科ヒガンバナ属の多年草で、夏に花茎を立ち上げ淡桃色のロート状花を傘形に咲かせる。葉と花が時期をずらして出る。",
+      "habitat_hint": "野原、人家周辺、墓地・寺社の境内、半日陰の植え込み。",
+      "finding_tips": "8月、葉がない花茎の先に淡桃色の花6〜7個を傘状につけた姿で識別。"
+    },
+    "en": {
+      "summary": "Magic Lily. A summer-flowering Lycoris with bare flowering stems carrying clusters of pale-pink funnel flowers; the leaves emerge in a separate season.",
+      "habitat_hint": "Old gardens, around houses, temple and graveyard plantings, semi-shaded borders.",
+      "finding_tips": "August. Naked stems carrying 6–7 pale-pink trumpets in an umbel are unmistakable when leaves are absent."
+    },
+    "zh": {
+      "summary": "鹿葱（ナツズイセン）。石蒜科石蒜属多年生草本，夏季先抽花葶后出叶。花淡粉漏斗状，6–7 朵成伞形花序。",
+      "habitat_hint": "野地、人家附近、墓地与寺社境内、半阴栽植。",
+      "finding_tips": "8 月，光秃花葶顶端粉红伞形花序为辨识要点。"
+    }
+  },
+  "Lysimachia acroadenia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "腺顶珍珠菜"
+    },
+    "ja": {
+      "summary": "ギンレイカ（銀鈴花）。サクラソウ科オカトラノオ属の多年草で、本州〜九州の山地林縁に分布。白い小花が穂状に密集して咲く。",
+      "habitat_hint": "山地落葉樹林の林縁、半日陰の腐植土、沢沿いの斜面。",
+      "finding_tips": "6〜7月、白い小花が長い穂状にぎっしり並ぶ姿で識別。葉は披針形で互生。"
+    },
+    "en": {
+      "summary": "Glandular-tipped Loosestrife. A montane Lysimachia of Honshu–Kyushu forest edges, producing dense racemes of small white flowers.",
+      "habitat_hint": "Mountain woodland edges, shaded humus, streamside slopes.",
+      "finding_tips": "June–July. The dense slender racemes of tiny white flowers over alternate lanceolate leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "腺顶珍珠菜（ギンレイカ）。报春花科珍珠菜属多年生草本，分布本州至九州山地林缘，白色小花密集成穗。",
+      "habitat_hint": "山地落叶林缘、半阴腐殖土、溪边坡地。",
+      "finding_tips": "6–7 月。狭长穗状之白色密花与互生披针叶为识别要点。"
+    }
+  },
+  "Magnolia grandiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイサンボク（泰山木）。モクレン科モクレン属の常緑高木で、北アメリカ南東部原産。日本では公園や街路樹として植えられ、夏に芳香のある大きな白い花を咲かせる。",
+      "habitat_hint": "公園、街路、学校・社寺の庭園、暖地の植栽。",
+      "finding_tips": "6〜7月、直径20cm以上の大きな白花と光沢ある厚い葉で識別。葉裏は赤褐色の毛。"
+    },
+    "en": {
+      "summary": "Southern Magnolia. A large evergreen magnolia from the SE United States, widely planted in Japanese parks; produces large fragrant white summer flowers.",
+      "habitat_hint": "Parks, avenues, schoolyards, shrine and temple gardens.",
+      "finding_tips": "June–July. White flowers >20 cm across and glossy thick leaves with rust-brown undersides are unmistakable."
+    },
+    "zh": {
+      "summary": "荷花玉兰（タイサンボク）。木兰科木兰属常绿乔木，原产美国东南部。日本作公园与行道树栽培，夏季开大型芳香白花。",
+      "habitat_hint": "公园、街道、校园、寺社庭园、暖地栽植。",
+      "finding_tips": "6–7 月。直径 20 cm 以上之白花与厚革光叶、叶背锈褐毛皆为辨识要点。"
+    }
+  },
+  "Maladera formosae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイワンアカビロウドコガネ。コガネムシ科ビロウドコガネ亜科の中型コガネムシで、赤褐色のビロード状光沢が和名の由来。台湾を含む東アジアに分布。",
+      "habitat_hint": "雑木林の林縁、農地、芝生、灯火に飛来。",
+      "finding_tips": "6〜8月の夜、灯火に集まる成虫を観察。赤褐色のビロード状光沢が決め手。"
+    },
+    "en": {
+      "summary": "Asiatic Garden Beetle. A medium Maladera scarab with velvety reddish-brown elytra, an east-Asian species also notorious as an invasive root-feeder in North America.",
+      "habitat_hint": "Woodland edges, farmland, lawns, around lights at night.",
+      "finding_tips": "June–August at lights. Velvety reddish-brown elytra and stout body separate it from related Sericini scarabs."
+    },
+    "zh": {
+      "summary": "台湾绒金龟（タイワンアカビロウドコガネ）。金龟科绒金龟亚科中型甲虫，鞘翅赤褐绒光，分布东亚含台湾。",
+      "habitat_hint": "杂木林缘、农地、草坪、夜间灯火附近。",
+      "finding_tips": "6–8 月夜间灯诱可见。赤褐绒光鞘翅为辨识要点。"
+    }
+  },
+  "Marasmius maximus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant Parachute",
+    "ja": {
+      "summary": "オオホウライタケ。ホウライタケ科ホウライタケ属の中型きのこで、淡褐色の傘と細長く硬い柄をもつ。林床の落葉を分解する。",
+      "habitat_hint": "落葉広葉樹林の林床、神社境内の腐葉土。",
+      "finding_tips": "6〜10月、群生する淡褐色の傘と独特の細く弾力ある柄で識別。乾燥時も傘の形を保ちます。"
+    },
+    "en": {
+      "summary": "Giant Parachute. A medium Marasmius with a pale-brown cap and tough wiry stem, decomposing forest leaf litter.",
+      "habitat_hint": "Leaf litter of deciduous forest, shrine groves, humus-rich woodland.",
+      "finding_tips": "June–October. Pale-brown caps over tough wiry stipes in scattered troops; shape is preserved even when dry."
+    },
+    "zh": {
+      "summary": "大盖小皮伞（オオホウライタケ）。小皮伞科小皮伞属中型菌，菌盖淡褐，菌柄细韧，分解林下落叶。",
+      "habitat_hint": "落叶阔叶林林床、神社境内腐叶土。",
+      "finding_tips": "6–10 月。群生淡褐菌盖与坚韧细柄为识别要点，干后形态仍存。"
+    }
+  },
+  "Marasmius pulcherripes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハナオチバタケ（花落葉茸）。ホウライタケ科の小型きのこで、紅色〜薄紅色の傘が落葉の上に咲くように見える。",
+      "habitat_hint": "落葉広葉樹林の林床、湿った腐葉土。",
+      "finding_tips": "6〜10月、雨後の落葉上で群生する小さな紅色の傘で識別。柄は細く黒褐色で弾力がある。"
+    },
+    "en": {
+      "summary": "Rosy Parachute. A delicate small Marasmius with bright pink caps and tough dark stems, scattered on leaf litter.",
+      "habitat_hint": "Leaf litter of deciduous forest, moist humus.",
+      "finding_tips": "June–October after rain. Tiny rose-pink caps on wiry dark stems are unmistakable among the litter."
+    },
+    "zh": {
+      "summary": "红美小皮伞（ハナオチバタケ）。小皮伞科小型菌，菌盖鲜粉至淡粉，于落叶上群生形似花朵。",
+      "habitat_hint": "落叶阔叶林林床、湿润腐叶土。",
+      "finding_tips": "6–10 月雨后。粉红小盖与暗褐细韧柄组合无可混淆。"
+    }
+  },
+  "Melanotus senilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Old Black Click Beetle",
+    "aliases": {
+      "zh-Hans": "暗黑梳爪叩头虫"
+    },
+    "ja": {
+      "summary": "クロクシコメツキ。コメツキムシ科の中型甲虫で、暗褐色〜黒色の細長い体に灰白色の細かい毛が散らばる。",
+      "habitat_hint": "雑木林、林縁、灯火に飛来、朽木周辺。",
+      "finding_tips": "5〜8月の夜、灯火に集まる成虫を観察。細長い体と灰白色の細毛が決め手。"
+    },
+    "en": {
+      "summary": "Old Black Click Beetle. A medium Melanotus click beetle with dark elongate body sprinkled with greyish-white pubescence.",
+      "habitat_hint": "Lowland woodland, edges, around lights, near rotting wood.",
+      "finding_tips": "May–August at lights. The slender dark body with sparse pale hairs separates it from shinier congeners."
+    },
+    "zh": {
+      "summary": "暗黑梳爪叩头虫（クロクシコメツキ）。叩头虫科中型甲虫，体细长暗褐至黑，被灰白细毛。",
+      "habitat_hint": "杂木林、林缘、夜间灯火、朽木周边。",
+      "finding_tips": "5–8 月夜间灯诱可见。细长暗黑体与稀疏灰毛为识别要点。"
+    }
+  },
+  "Meloimorpha japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Bell Cricket",
+    "ja": {
+      "summary": "スズムシ（鈴虫）。コオロギ科スズムシ属の小型直翅で、雄が鳴らす「リーンリーン」という澄んだ羽音は日本の秋を代表する音。古来より飼育の対象。",
+      "habitat_hint": "雑木林の林縁、ススキ草原、社寺の境内、家屋周辺の植え込み。",
+      "finding_tips": "8〜10月の夕方〜夜、鳴き声で位置を特定。雄は前翅をすり合わせて発音し、鳴き声と細い後肢で容易に確認できます。"
+    },
+    "en": {
+      "summary": "Japanese Bell Cricket. A small black cricket whose male produces a clear silver-bell trill — one of the iconic sounds of Japanese autumn and a traditional cage insect.",
+      "habitat_hint": "Woodland edges, Miscanthus grassland, shrine grounds, garden plantings.",
+      "finding_tips": "August–October at dusk and night, locate by ear. The shiny black male with raised tegmina rubbing in song is unmistakable."
+    },
+    "zh": {
+      "summary": "铃虫（スズムシ / 鈴蟲）。蟋蟀科铃虫属小型直翅，雄虫鸣声清亮如银铃，是日本秋夜的代表声，自古为笼养鸣虫。",
+      "habitat_hint": "杂木林缘、芒草草原、神社境内、人家庭院。",
+      "finding_tips": "8–10 月黄昏至夜间循声寻找。雄虫翘翅摩擦发声，体亮黑细长，极易辨识。"
+    }
+  },
+  "Mendoza canestrinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Reed Jumping Spider",
+    "ja": {
+      "summary": "オスクロハエトリ。ハエトリグモ科の中型ハエトリで、雄は黒く、雌は淡褐色と性的二型が顕著。湿地の植物上で見られる。",
+      "habitat_hint": "ヨシ原、湿地の植物、河川敷の草地。",
+      "finding_tips": "5〜9月、ヨシやガマの茎を縦に走る姿で見つかります。黒い雄と淡褐色の雌の対比が決め手。"
+    },
+    "en": {
+      "summary": "Reed Jumping Spider. A medium Mendoza salticid of marshes; males are black, females pale brown — sexually dimorphic.",
+      "habitat_hint": "Phragmites reedbeds, marshland vegetation, river-floodplain grass.",
+      "finding_tips": "May–September running vertically on reed and cattail stems. The sex dimorphism (black male, pale female) is diagnostic."
+    },
+    "zh": {
+      "summary": "卡氏蒙蛛（オスクロハエトリ）。跳蛛科中型跳蛛，雄黑雌淡褐，性二型显著，栖息湿地植物上。",
+      "habitat_hint": "芦苇地、湿地植物、河滩草地。",
+      "finding_tips": "5–9 月可见沿芦苇与香蒲茎直走。雄黑雌淡之性二型为识别要点。"
+    }
+  },
+  "Micadina phluctainoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本翅竹节虫"
+    },
+    "ja": {
+      "summary": "ニホントビナナフシ。ナナフシ目のうち翅をもち飛翔可能な日本産種で、緑色〜淡褐色の細長い体をもつ。雌雄ともに翅をもつ点が特殊。",
+      "habitat_hint": "雑木林、林縁、コナラ・クヌギ・ヤマザクラの葉上。",
+      "finding_tips": "7〜10月、樹冠近くの葉上で見つかります。翅をもつナナフシは日本では少なく、緑〜淡褐の細身ですぐに分かります。"
+    },
+    "en": {
+      "summary": "Japanese Winged Stick-insect. A rare Japanese phasmid in which both sexes are winged; the slender green-to-pale-brown body is unique among native stick insects.",
+      "habitat_hint": "Lowland woodland, edges, oak and cherry foliage.",
+      "finding_tips": "July–October on tree foliage. Most Japanese stick insects are wingless; the presence of small functional wings on a slender stick body identifies this species."
+    },
+    "zh": {
+      "summary": "日本翅竹节虫（ニホントビナナフシ）。竹节虫目日本产稀有翅型，雌雄均具翅，体绿至淡褐细长。",
+      "habitat_hint": "杂木林、林缘、栎与樱叶。",
+      "finding_tips": "7–10 月。日本本土多数竹节虫无翅，本种具小翅且体细长为辨识要点。"
+    }
+  },
+  "Micropterus dolomieu": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smallmouth Bass",
+    "ja": {
+      "summary": "コクチバス。サンフィッシュ科の北米原産外来魚で、日本では特定外来生物に指定。河川中流〜上流の岩礁底に生息し、在来魚を捕食する。",
+      "habitat_hint": "河川中流〜上流、ダム湖、岩礁底、流れのある湖沼。",
+      "finding_tips": "通年、岩陰や流れに沿った場所で見つかります。オオクチバスより口が小さく、目の後縁を越えない点が決定的。"
+    },
+    "en": {
+      "summary": "Smallmouth Bass. A North American sunfish designated Invasive Alien Species in Japan; prefers rocky middle and upper river reaches and preys on native fish.",
+      "habitat_hint": "Mid- to upper river reaches, dam reservoirs, rocky bottoms, lakes with flow.",
+      "finding_tips": "Year-round in fast or rocky water. Mouth gape that does not extend past the rear of the eye separates it from Largemouth Bass."
+    },
+    "zh": {
+      "summary": "小口黑鲈（コクチバス）。太阳鱼科原产北美之外来鱼，日本列为特定外来生物，栖于河流中上游岩底，捕食本土鱼类。",
+      "habitat_hint": "河流中上游、水库、岩底、有流之湖沼。",
+      "finding_tips": "全年。口裂未越过眼后缘可与大口黑鲈区分；岩底活动多见。"
+    }
+  },
+  "Micropterus salmoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Largemouth Bass",
+    "ja": {
+      "summary": "オオクチバス。サンフィッシュ科の北米原産外来魚で、日本では特定外来生物。湖沼や流れのゆるい河川に広く分布し、在来魚への影響が深刻。",
+      "habitat_hint": "湖沼、ダム湖、流れのゆるい河川、農業用ため池。",
+      "finding_tips": "通年。口裂が目の後縁を越える大きさで、コクチバスと識別。緑色がかった背と濃い縦帯が特徴。"
+    },
+    "en": {
+      "summary": "Largemouth Bass. A North American sunfish designated Invasive Alien Species in Japan, widespread in lakes and slow rivers; a major driver of native fish decline.",
+      "habitat_hint": "Lakes, reservoirs, slow rivers, irrigation ponds.",
+      "finding_tips": "Year-round. The very wide mouth extending well past the rear of the eye is the key field mark; greenish back with a dark lateral stripe."
+    },
+    "zh": {
+      "summary": "大口黑鲈（オオクチバス）。太阳鱼科北美外来鱼，日本特定外来生物，广布湖沼缓河，对本土鱼影响严重。",
+      "habitat_hint": "湖沼、水库、缓流河、灌溉塘。",
+      "finding_tips": "全年。口裂大且远超眼后缘为决定性识别点，背绿色具深色纵带。"
+    }
+  },
+  "Monetaria caputserpentis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Serpent's Head Cowry",
+    "aliases": {
+      "zh-Hans": "蛇首宝贝"
+    },
+    "ja": {
+      "summary": "ハナマルユキ（花丸雪）。タカラガイ科の小型海産巻貝で、暗褐色の貝殻に白い斑点が散る「蛇の頭」のような模様。日本では南西諸島〜本州中部以南に分布。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、サンゴ礁、海藻群落の下。",
+      "finding_tips": "干潮時の岩礁帯で石をめくると見つかります。蛇頭模様の暗褐色殻と長楕円形が決め手。"
+    },
+    "en": {
+      "summary": "Serpent's Head Cowry. A small dark-brown cowry whose pale-speckled shell resembles a snake's head; ranges from the southwest islands northwards to central Honshu in Japan.",
+      "habitat_hint": "Intertidal to shallow subtidal rocky shore, coral rubble, under seaweed.",
+      "finding_tips": "Low-tide flips of cobbles in rocky shores. Snake-head pattern of pale specks on dark brown is unmistakable."
+    },
+    "zh": {
+      "summary": "蛇首宝贝（ハナマルユキ）。宝贝科小型海产腹足，壳暗褐散布白斑形似蛇头，自日本西南诸岛分布至本州中部以南。",
+      "habitat_hint": "潮间带至浅海岩礁、珊瑚礁、海藻下。",
+      "finding_tips": "退潮翻石可见。蛇头状斑纹与暗褐底色为辨识要点。"
+    }
+  },
+  "Mycena haematopus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チシオタケ（血潮茸）。クヌギタケ科の小型きのこで、傷つけると赤い「血」のような汁が滴ることから名付けられた。朽木の上に群生する。",
+      "habitat_hint": "落葉広葉樹の朽木、倒木、伐根、特にナラ類の朽木。",
+      "finding_tips": "6〜10月、朽木上に群生。柄を折ると赤褐色の汁が滴るのが決定的な識別点。"
+    },
+    "en": {
+      "summary": "Burgundydrop Bonnet. A small bonnet mushroom on hardwood dead wood; the stem bleeds a dark-red liquid when broken — the source of the name.",
+      "habitat_hint": "Dead trunks, logs and stumps of broadleaf trees, especially oak.",
+      "finding_tips": "June–October on dead wood. Snap the stem: a dark-red 'blood' drop is diagnostic."
+    },
+    "zh": {
+      "summary": "红汁小菇（チシオタケ）。小菇科小型菌，折柄即渗暗红汁液如血，乃和名所本。常群生于阔叶树朽木。",
+      "habitat_hint": "落叶阔叶树朽木、倒木、伐桩，尤以栎类朽木为多。",
+      "finding_tips": "6–10 月朽木上群生。折柄渗红汁为决定性识别点。"
+    }
+  },
+  "Myriophyllum spicatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホザキノフサモ。アリノトウグサ科フサモ属の沈水〜抽水植物で、世界各地に分布。羽状に細裂した葉が4輪生し、水面上に小さな花穂を立ち上げる。",
+      "habitat_hint": "湖沼、池、ゆるやかな河川、農業用水路。",
+      "finding_tips": "6〜9月、水面に出る花穂で識別。葉は4輪生で羽状裂、水中で羽毛状に揺れます。"
+    },
+    "en": {
+      "summary": "Spike Watermilfoil. A widespread submerged-emergent freshwater plant with whorls of four feathery dissected leaves and small emergent flower spikes.",
+      "habitat_hint": "Lakes, ponds, slow streams, irrigation channels.",
+      "finding_tips": "June–September. The whorls of four pinnatisect leaves and the small emergent spikes above the water are diagnostic."
+    },
+    "zh": {
+      "summary": "穗状狐尾藻（ホザキノフサモ）。小二仙草科狐尾藻属沉水至挺水植物，世界广布。叶 4 枚轮生羽状深裂，水面抽出小花穗。",
+      "habitat_hint": "湖沼、池塘、缓流河、农灌渠。",
+      "finding_tips": "6–9 月。叶 4 轮生羽裂如毛，水面之小穗为辨识要点。"
+    }
+  },
+  "Myrmarachne inermichelis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smooth Ant-mimic Jumping Spider",
+    "ja": {
+      "summary": "ヤサアリグモ。ハエトリグモ科アリグモ属の小型ハエトリで、アリに擬態した姿が特徴。前脚を触角のように振って歩く。",
+      "habitat_hint": "雑木林、林縁、農地周辺、社寺林の低木の葉上。",
+      "finding_tips": "5〜10月、低木の葉上でアリのように歩く姿で識別。第二脚が脚として使われ、第一脚は触角様に振られます。"
+    },
+    "en": {
+      "summary": "Smooth Ant-mimic Jumping Spider. A small Myrmarachne ant-mimic salticid that walks on three pairs of legs with the front pair waved like antennae.",
+      "habitat_hint": "Lowland woodland, edges, field margins, low foliage in shrine groves.",
+      "finding_tips": "May–October on low foliage. Distinguish from real ants by counting legs (8) and by the salticid's larger frontal eyes."
+    },
+    "zh": {
+      "summary": "无爪蚁蛛（ヤサアリグモ）。跳蛛科蚁蛛属小型跳蛛，体型与行为模拟蚂蚁，前足如触角状挥舞。",
+      "habitat_hint": "杂木林、林缘、农地边、神社林矮木叶面。",
+      "finding_tips": "5–10 月。仔细数足为 8 而非 6，并观正面大眼，与真蚂蚁可区分。"
+    }
+  },
+  "Necrophila brunnicollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-shouldered Carrion Beetle",
+    "ja": {
+      "summary": "ベッコウヒラタシデムシ。シデムシ科の中型甲虫で、暗色の上翅に赤橙色の前胸が鮮やか。屍体や動物の糞、腐肉に集まる。",
+      "habitat_hint": "雑木林の林床、屍体周辺、罠（ピットフォール）。",
+      "finding_tips": "5〜9月、林床の動物の屍体や糞に集まる成虫を観察。赤橙の前胸と暗色の翅の対比が決め手。"
+    },
+    "en": {
+      "summary": "Red-shouldered Carrion Beetle. A medium silphid with bright red-orange pronotum and dark elytra, feeding on vertebrate carcasses and dung.",
+      "habitat_hint": "Forest floor, around carcasses, in pitfall traps.",
+      "finding_tips": "May–September at carrion. The contrast between brick-orange pronotum and dark elytra is the key field mark."
+    },
+    "zh": {
+      "summary": "红胸丽葬甲（ベッコウヒラタシデムシ）。葬甲科中型甲虫，鞘翅暗色而前胸赤橙鲜艳，访尸体与粪便。",
+      "habitat_hint": "杂木林林床、尸体周边、陷阱捕集器。",
+      "finding_tips": "5–9 月可见于尸体附近。赤橙前胸与暗色鞘翅对比为识别要点。"
+    }
+  },
+  "Neozephyrus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Green Hairstreak",
+    "ja": {
+      "summary": "ミドリシジミ。シジミチョウ科ミドリシジミ族の中型チョウで、雄の翅表が美しい金属緑色に輝く。ハンノキ類を食樹とする。",
+      "habitat_hint": "湿地〜河川敷のハンノキ林、社寺林、ヤマハンノキの群落。",
+      "finding_tips": "6〜7月、夕方にハンノキの梢付近で占有飛翔する雄の緑光沢翅で識別。卵は冬にハンノキの冬芽近くを探します。"
+    },
+    "en": {
+      "summary": "Japanese Green Hairstreak. A mid-sized hairstreak whose males display brilliant metallic-green uppersides; the larvae feed on Alnus.",
+      "habitat_hint": "Wetland alder groves, river floodplain alders, shrine groves with Alnus.",
+      "finding_tips": "June–July at dusk. Males defend perches in alder crowns, flashing iridescent green wings."
+    },
+    "zh": {
+      "summary": "日本翠灰蝶（ミドリシジミ）。灰蝶科翠灰蝶族中型蝶，雄翅面金属绿光泽鲜艳。寄主为桤木属（Alnus）。",
+      "habitat_hint": "湿地与河滩之赤杨林、神社林、山赤杨群落。",
+      "finding_tips": "6–7 月黄昏，雄蝶于桤木冠层占域飞翔，翠绿翅面闪耀，为识别要点。"
+    }
+  },
+  "Neverita didyma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bladder Moon Snail",
+    "ja": {
+      "summary": "ツメタガイ（爪滝貝）。タマガイ科の中型海産巻貝で、丸く膨らんだ滑らかな殻と大きな白い軟体が特徴。砂泥底でアサリなど二枚貝を捕食する。",
+      "habitat_hint": "干潟・砂泥底の浅海、河口の砂干潟。",
+      "finding_tips": "干潮時の干潟で大きな白い砂塊の足跡を見つけ、掘ると現れます。穴の開いたアサリの殻も本種の捕食痕。"
+    },
+    "en": {
+      "summary": "Bladder Moon Snail. A smooth-shelled moon snail with a very large white foot, hunting bivalves on sand-mud flats.",
+      "habitat_hint": "Sand-mud tidal flats, river-mouth flats, shallow soft bottoms.",
+      "finding_tips": "Low-tide flats — follow plough-like trails on the sand. Round bore-holes in clam shells are this snail's drilling marks."
+    },
+    "zh": {
+      "summary": "扁玉螺（ツメタガイ）。玉螺科中型海产腹足，壳光滑膨圆，足极大色白。于砂泥底捕食蛤蜊等双壳。",
+      "habitat_hint": "砂泥潮滩、河口砂滩、浅海软底。",
+      "finding_tips": "退潮时滩上犁状痕迹即是；蛤蜊壳上圆孔为其钻食痕。"
+    }
+  },
+  "Nippancistroger testaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハネナシコロギス。コロギス科の中型直翅で、ほとんど翅をもたず歩行性。雑木林の林床で夜間に小昆虫を捕食する。",
+      "habitat_hint": "雑木林の林床、社寺林、落葉の厚い地表。",
+      "finding_tips": "夜間、林床の落葉や倒木上で見つかります。翅を欠く点でキリギリス類と区別。"
+    },
+    "en": {
+      "summary": "Wingless Raspy Cricket. A medium nocturnal gryllacridid largely lacking wings, hunting small arthropods on the forest floor.",
+      "habitat_hint": "Forest floor of lowland deciduous woodland, shrine groves, thick litter.",
+      "finding_tips": "At night on litter and logs. Absence of wings separates it from true katydids; long delicate antennae are typical."
+    },
+    "zh": {
+      "summary": "壳瀛蟋螽（ハネナシコロギス）。蟋螽科中型直翅，几乎无翅，地面活动，夜间捕食小型节肢动物。",
+      "habitat_hint": "杂木林林床、神社林、厚落叶地表。",
+      "finding_tips": "夜间于落叶与倒木上可见。无翅与长触角组合可与螽斯类区分。"
+    }
   }
 }
