@@ -54416,5 +54416,500 @@
       "habitat_hint": "杂木林林床、神社林、厚落叶地表。",
       "finding_tips": "夜间于落叶与倒木上可见。无翅与长触角组合可与螽斯类区分。"
     }
+  },
+  "Nipponobuprestis amabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lovely Japanese Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "日本斑吉丁"
+    },
+    "ja": {
+      "summary": "アオマダラタマムシ。タマムシ科ニッポンタマムシ属の中型甲虫で、暗藍色〜暗緑色光沢の体に黄色斑が散る。コナラ・クヌギの衰弱木で発生する。",
+      "habitat_hint": "雑木林、伐採地、衰弱したコナラ・クヌギ。",
+      "finding_tips": "6〜8月の日中、伐倒材や枯枝で見つかります。藍緑光沢と黄色斑の組み合わせが決め手。"
+    },
+    "en": {
+      "summary": "Lovely Japanese Jewel Beetle. A mid-sized Nipponobuprestis with iridescent blue-green elytra spangled with yellow spots, developing in weakened oaks.",
+      "habitat_hint": "Secondary oak woodland, recent cuttings, stressed Quercus.",
+      "finding_tips": "June–August in daytime on cut timber and dying branches. Iridescent blue-green ground with yellow spots is diagnostic."
+    },
+    "zh": {
+      "summary": "日本斑吉丁（アオマダラタマムシ）。吉丁虫科日本吉丁属中型甲虫，鞘翅蓝绿金属光泽并散布黄斑，发生于衰弱栎类。",
+      "habitat_hint": "杂木林、伐迹地、衰弱栎树。",
+      "finding_tips": "6–8 月白昼可见于伐木枯枝。蓝绿底色与黄斑组合为辨识要点。"
+    }
+  },
+  "Obiphora intermedia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded Spittlebug",
+    "ja": {
+      "summary": "シロオビアワフキ。アワフキムシ科の小型半翅で、暗褐色の翅に白い帯が走る。幼虫は植物の茎で泡状の隠れ家を作る。",
+      "habitat_hint": "草地、河川敷、雑木林の林縁、灌木の若い茎。",
+      "finding_tips": "5〜8月、植物の茎上の白い泡が幼虫の隠れ家。成虫は暗褐色の翅に白い斜帯で識別。"
+    },
+    "en": {
+      "summary": "White-banded Spittlebug. A small dark-brown spittlebug with a clean white band across the forewings; nymphs hide in foam on plant stems.",
+      "habitat_hint": "Grassland, river floodplain, woodland edges, young shrub stems.",
+      "finding_tips": "May–August. The white spittle masses on stems mark nymphs; adults are dark with a contrasting white oblique band."
+    },
+    "zh": {
+      "summary": "白带尖胸沫蝉（シロオビアワフキ）。沫蝉科小型半翅，翅暗褐具一道白色斜带。若虫于植物茎上结泡沫隐居。",
+      "habitat_hint": "草地、河滩、杂木林缘、灌木嫩茎。",
+      "finding_tips": "5–8 月。茎上白色泡沫即若虫隐处；成虫暗褐翅与白色斜带为辨识要点。"
+    }
+  },
+  "Oncorhynchus masou": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Masu Salmon",
+    "ja": {
+      "summary": "ヤマメ。サケ科サケ属の渓流魚で、サクラマス（O. masou）の陸封型（河川残留型）。背中の朱点（パーマーク）と側線上のパー（楕円斑）で識別。",
+      "habitat_hint": "山地の清流、源流域の渓谷、冷たい湧水のある中流。",
+      "finding_tips": "通年、清流の淵に潜む姿で見つかります。側線上の朱点と楕円形のパーが決め手。サクラマスとの違いは降海行動の有無。"
+    },
+    "en": {
+      "summary": "Masu Salmon. The non-anadromous (river-resident) form of Oncorhynchus masou, a clear-stream salmonid recognised by oval parr marks and small red spots above the lateral line.",
+      "habitat_hint": "Cold mountain streams, headwater pools, cool spring-fed mid-river reaches.",
+      "finding_tips": "Year-round in clear stream pools. The dark oval parr marks and small red dots above the lateral line separate it from charr (iwana)."
+    },
+    "zh": {
+      "summary": "山女鱼（ヤマメ）。鲑科鲑属溪流鱼，为樱鳟（O. masou）的陆封型（终生留河型）。侧线上方红点与椭圆状幼斑（parr mark）为辨识要点。",
+      "habitat_hint": "山地清流、源头溪谷、冷泉中游。",
+      "finding_tips": "全年。清流深潭中可见；与海洋洄游之樱鳟仅生活史不同，本型不入海。"
+    }
+  },
+  "Operophtera brunnea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown Winter Moth",
+    "ja": {
+      "summary": "ナミスジフユナミシャク。シャクガ科の小型蛾で、晩秋〜初冬に成虫が出現する「冬尺蛾」の一種。雄は翅をもち、雌は翅が退化する。",
+      "habitat_hint": "雑木林、社寺林、落葉広葉樹林の幹周り。",
+      "finding_tips": "11〜1月の夜、灯火に飛来する雄を観察。冬の灯火に来る小さな灰褐色の蛾が冬尺蛾の特徴。"
+    },
+    "en": {
+      "summary": "Brown Winter Moth. A small Operophtera winter geometer that flies in late autumn and early winter; females are flightless.",
+      "habitat_hint": "Lowland deciduous woodland, shrine groves, around tree trunks.",
+      "finding_tips": "November–January at lights. Small grey-brown geometers active in winter cold are almost always Operophtera or relatives."
+    },
+    "zh": {
+      "summary": "灰褐波冬尺蛾（ナミスジフユナミシャク）。尺蛾科冬尺蛾类小型蛾，晚秋至初冬出现，雌虫翅退化不能飞。",
+      "habitat_hint": "杂木林、神社林、落叶林树干周边。",
+      "finding_tips": "11 月至次年 1 月夜间灯诱可见雄虫。严冬出现之灰褐小尺蛾即可疑为冬尺蛾。"
+    }
+  },
+  "Orgyia thyellina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメシロモンドクガ（姫白紋毒蛾）。ドクガ科のドクガで、幼虫は派手な毛束をもつ。雌の成虫は翅が短く飛べないのが特徴。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の落葉樹。",
+      "finding_tips": "幼虫は5〜9月、各種落葉樹の葉上で「毛むくじゃら」の姿で見つかります。長い毛束に皮膚炎を起こす毒があるので触らない。"
+    },
+    "en": {
+      "summary": "White-marked Tussock Moth (Asian). A tussock moth whose hairy caterpillars sport conspicuous tussocks; females are short-winged and flightless.",
+      "habitat_hint": "Lowland deciduous woodland, shrine groves, urban park trees.",
+      "finding_tips": "May–September caterpillars on a wide range of trees. Do not handle: the urticating hairs cause skin rashes."
+    },
+    "zh": {
+      "summary": "旋古毒蛾（ヒメシロモンドクガ）。毒蛾科，幼虫具显眼毛束，雌成虫翅短不能飞。",
+      "habitat_hint": "杂木林、林缘、神社林、公园落叶树。",
+      "finding_tips": "5–9 月幼虫见于多种落叶树叶面。其毛具致敏毒性，勿徒手触碰。"
+    }
+  },
+  "Orthosia fausta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-spotted Spring Moth",
+    "aliases": {
+      "zh-Hans": "黑点早春夜蛾"
+    },
+    "ja": {
+      "summary": "クロテンキリガ。ヤガ科キリガ亜科の早春出現種で、淡褐色の前翅に明瞭な黒点をもつ。",
+      "habitat_hint": "雑木林、社寺林、落葉広葉樹林。",
+      "finding_tips": "3〜4月の夜、灯火に飛来。早春に灯火に来る蛾のなかで前翅中央の黒点が決め手。"
+    },
+    "en": {
+      "summary": "Black-spotted Spring Moth. An early-spring Orthosia noctuid with a prominent black spot on each pale forewing.",
+      "habitat_hint": "Lowland deciduous woodland, shrine groves.",
+      "finding_tips": "March–April at lights. Among spring Orthosia the bold central black spot is the easiest field mark."
+    },
+    "zh": {
+      "summary": "黑点早春夜蛾（クロテンキリガ）。夜蛾科裳夜蛾亚科早春种，前翅淡褐色，具显著黑点。",
+      "habitat_hint": "杂木林、神社林、落叶阔叶林。",
+      "finding_tips": "3–4 月夜间灯诱可见。前翅中央黑点为辨识要点。"
+    }
+  },
+  "Pachyligia dolosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hindwhite Geometer Moth",
+    "aliases": {
+      "zh-Hans": "白后翅尺蛾"
+    },
+    "ja": {
+      "summary": "アトジロエダシャク。シャクガ科エダシャク亜科の中型蛾で、後翅の縁が白く縁取られるのが和名の由来。",
+      "habitat_hint": "雑木林、林縁、社寺林。",
+      "finding_tips": "4〜6月の夜、灯火に飛来。前翅は灰褐色、後翅の白い縁取りが決め手。"
+    },
+    "en": {
+      "summary": "Hindwhite Geometer Moth. A medium Pachyligia geometer whose dark hindwings are conspicuously edged in white.",
+      "habitat_hint": "Lowland deciduous woodland, edges, shrine groves.",
+      "finding_tips": "April–June at lights. The white-edged dark hindwings are diagnostic when spread."
+    },
+    "zh": {
+      "summary": "白后翅尺蛾（アトジロエダシャク）。尺蛾科枝尺蛾亚科中型蛾，后翅边缘镶白，乃和名所本。",
+      "habitat_hint": "杂木林、林缘、神社林。",
+      "finding_tips": "4–6 月夜间灯诱可见。后翅之白色边缘为辨识要点。"
+    }
+  },
+  "Papilio protenor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロアゲハ。アゲハチョウ科の大型黒色アゲハで、ナミアゲハより一回り大きく、後翅に赤い斑が並ぶ。柑橘類の葉を食樹とする。",
+      "habitat_hint": "里山、雑木林、社寺林、柑橘類の植栽。",
+      "finding_tips": "5〜9月、ゆったりとした飛翔で柑橘の周りを巡る姿。雄の後翅に白い帯（性標）があれば本種を確信できます。"
+    },
+    "en": {
+      "summary": "Spangle Swallowtail. A large black swallowtail with red spots along the hindwing margin; larvae feed on Citrus.",
+      "habitat_hint": "Satoyama, lowland woodland, shrine groves, citrus plantings.",
+      "finding_tips": "May–September on slow flight around citrus. Males have a distinctive white band on the hindwing — diagnostic when visible."
+    },
+    "zh": {
+      "summary": "蓝凤蝶（クロアゲハ）。凤蝶科大型黑凤蝶，比柑橘凤蝶大一圈，后翅缘具红斑。幼虫食柑橘叶。",
+      "habitat_hint": "里山、杂木林、神社林、柑橘栽植地。",
+      "finding_tips": "5–9 月。缓慢翻飞绕柑橘者多为本种。雄虫后翅白带是性标，为辨识要点。"
+    }
+  },
+  "Paralichas pectinatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Comb-antennaed Long-legged Beetle",
+    "aliases": {
+      "zh-Hans": "栉角长肢甲"
+    },
+    "ja": {
+      "summary": "ヒゲナガハナノミ。マルハナノミ科の中型甲虫で、雄の触角が著しく長く櫛状に分岐するのが和名の由来。湿地・水辺の指標的甲虫。",
+      "habitat_hint": "湿地、河川敷、湖沼の岸辺、湧水のある林床。",
+      "finding_tips": "5〜7月、水辺の植物上で雄の長い櫛状触角を観察。雌は触角が短いので雌雄差で区別。"
+    },
+    "en": {
+      "summary": "Comb-antennaed Long-legged Beetle. A medium Paralichas of Japanese wetlands whose males have extravagantly long bipectinate antennae.",
+      "habitat_hint": "Marshes, river floodplains, lake margins, spring-fed forest floor.",
+      "finding_tips": "May–July on waterside vegetation. Males with feathery antennae longer than the body are unmistakable; females have short antennae."
+    },
+    "zh": {
+      "summary": "栉角长肢甲（ヒゲナガハナノミ）。多变甲科中型甲虫，雄虫触角极长且栉状分支，乃和名所本，常作湿地指示。",
+      "habitat_hint": "湿地、河滩、湖沼岸、有泉之林下。",
+      "finding_tips": "5–7 月。雄虫栉状长触角超体长，为决定性识别点；雌虫触角短可与之区别。"
+    }
+  },
+  "Passer cinnamomeus": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニュウナイスズメ。ハタオリドリ科スズメ属の小鳥で、スズメより小さく雄は頭頂と背が栗色。日本では夏鳥として山地〜亜高山の樹洞繁殖、低地では旅鳥・冬鳥。",
+      "habitat_hint": "山地〜亜高山の落葉樹林、樹洞繁殖地、低地では冬の田畑・河川敷。",
+      "finding_tips": "夏は山地のシラカバ・ブナ林の樹洞付近で雄の栗色の頭で識別。冬はスズメの群れに混じることがあります。"
+    },
+    "en": {
+      "summary": "Russet Sparrow. A small chestnut-crowned and chestnut-mantled sparrow, breeding in tree cavities in Japanese montane forest and dispersing to lowland farmland in winter.",
+      "habitat_hint": "Montane–subalpine deciduous forest, cavity-nest sites, lowland farmland in winter.",
+      "finding_tips": "Summer in mountain birch and beech forest, near cavities; winter in mixed flocks with House and Eurasian Tree Sparrow. The plain unmarked cheek separates it from those two."
+    },
+    "zh": {
+      "summary": "山麻雀（ニュウナイスズメ）。雀科麻雀属小型鸣禽，雄鸟头顶与背栗色。日本山地树洞繁殖之夏候鸟，冬季下抵低地田野与河滩。",
+      "habitat_hint": "山地至亚高山落叶林、树洞繁殖地；冬季低地农田与河滩。",
+      "finding_tips": "夏季山地白桦山毛榉林树洞附近寻雄鸟栗色头顶；冬季常混入家麻雀与树麻雀群中，颊无黑斑可与之分。"
+    }
+  },
+  "Pernis ptilorhynchus": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハチクマ（蜂熊）。タカ科ハチクマ属の中型猛禽で、スズメバチ類の巣を襲って幼虫を食べる特異な生態。日本では夏鳥として山地で繁殖。",
+      "habitat_hint": "山地・丘陵の落葉広葉樹林、社寺林、二次林。",
+      "finding_tips": "5〜9月、低空をホバリングしながらスズメバチの巣を探す姿で識別。秋の渡りは九州・南西諸島で大群が観察できます。"
+    },
+    "en": {
+      "summary": "Crested Honey Buzzard. A medium raptor that specialises on social wasp nests; a summer breeder in Japanese hills with spectacular autumn passage off southern Kyushu.",
+      "habitat_hint": "Hill and montane broadleaf forest, shrine groves, secondary woodland.",
+      "finding_tips": "May–September watch for low slow flight as birds search for wasp nests; autumn migrants stream south past Sata Peninsula in tens of thousands."
+    },
+    "zh": {
+      "summary": "凤头蜂鹰（ハチクマ）。鹰科蜂鹰属中型猛禽，专食胡蜂幼虫及蜂巢，日本夏候鸟，繁殖于山林。",
+      "habitat_hint": "山地丘陵阔叶林、神社林、次生林。",
+      "finding_tips": "5–9 月低空缓飞搜寻蜂巢者多为本种。秋季迁徙时九州、西南诸岛可观大群通过。"
+    }
+  },
+  "Pheidole fervida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glowing Big-headed Ant",
+    "ja": {
+      "summary": "アズマオオズアリ。アリ科オオズアリ属の小型アリで、兵蟻の頭部が著しく大きい。落葉広葉樹林の地表性。",
+      "habitat_hint": "雑木林の林床、石下、朽木中、社寺林の腐葉土。",
+      "finding_tips": "通年活動。石をめくると、頭部の大きな兵アリと小さな働きアリの二型が同時に観察できるのが決め手。"
+    },
+    "en": {
+      "summary": "Glowing Big-headed Ant. A small Pheidole with the genus's classic worker dimorphism — small minors and disproportionately big-headed majors.",
+      "habitat_hint": "Forest floor of secondary woodland, under stones, in rotten logs, shrine humus.",
+      "finding_tips": "Year-round. Lift a stone or split punk wood: the simultaneous presence of small workers and grossly big-headed soldier ants confirms Pheidole."
+    },
+    "zh": {
+      "summary": "亮红大头蚁（アズマオオズアリ）。蚁科大头蚁属小型蚁，兵蚁头部显大，工蚁则小，二型显著。",
+      "habitat_hint": "杂木林林床、石下、朽木中、神社林腐叶土。",
+      "finding_tips": "全年。翻石或破朽木可见，兵蚁与工蚁同存且体型差异显著，即为本属特征。"
+    }
+  },
+  "Pheropsophus jessoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミイデラゴミムシ。オサムシ科の中型ゴミムシで、刺激を受けると尾部から100℃近い化学物質を爆発的に噴射する「爆ぜムシ（爆弾甲虫）」として有名。",
+      "habitat_hint": "畑地、河川敷の草地、湿った石下。",
+      "finding_tips": "夜間、石をめくると黒い体に橙色の前胸、淡色の脚で識別。捕まえると尾部から爆音とともに化学物質を噴射するので注意。"
+    },
+    "en": {
+      "summary": "Japanese Bombardier Beetle. A bombardier carabid that ejects a near-boiling spray of quinones from its tip when disturbed — a famous chemical defence.",
+      "habitat_hint": "Farmland, riverside grassland, under damp stones.",
+      "finding_tips": "Night under stones. Black body, orange pronotum and pale legs; if handled it pops loudly and burns the skin — best left alone."
+    },
+    "zh": {
+      "summary": "耶屁步甲（ミイデラゴミムシ）。步甲科中型甲虫，受惊扰可自尾部喷射近沸点之化学液并发声，是著名的“放屁虫/炮兵甲虫”。",
+      "habitat_hint": "农田、河滩草地、湿石下。",
+      "finding_tips": "夜间翻石可见。体黑、前胸橙、腿色淡；勿徒手触碰，喷射物可灼伤皮肤。"
+    }
+  },
+  "Plantago major": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイヨウオオバコ。オオバコ科オオバコ属の多年草で、ユーラシア原産。日本のオオバコより葉が厚く広い。世界各地に広がる踏みつけ強耐性の代表種。",
+      "habitat_hint": "道端、芝生、公園の通路脇、踏みつけのある草地。",
+      "finding_tips": "5〜10月、丸く広い葉と長い円筒形の花穂で識別。日本のオオバコより葉縁が波打つことが多い。"
+    },
+    "en": {
+      "summary": "Greater Plantain. A Eurasian plantain naturalised worldwide, thriving on trampled ground; broader and thicker-leaved than Japan's native Plantago asiatica.",
+      "habitat_hint": "Roadsides, lawns, park paths, trampled grassland.",
+      "finding_tips": "May–October. Broad rounded leaves and long cylindrical spike; leaves are thicker and often wavier-edged than P. asiatica."
+    },
+    "zh": {
+      "summary": "宽叶车前（セイヨウオオバコ）。车前科车前属多年生草本，原产欧亚，已遍布世界，是耐践踏代表种。叶较日本本土车前厚而宽。",
+      "habitat_hint": "路边、草坪、公园通道边、踩踏草地。",
+      "finding_tips": "5–10 月。圆宽厚叶与长圆柱状花穗为识别要点，叶缘常波状。"
+    }
+  },
+  "Platynaspis lewisii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Four-spot Hairy Ladybird",
+    "ja": {
+      "summary": "ヨツボシテントウ。テントウムシ科の小型甲虫で、黒地に4つの黄色斑をもつ。アブラムシを捕食する。",
+      "habitat_hint": "雑木林の林縁、農地、河川敷の草地、灌木上。",
+      "finding_tips": "5〜9月、アブラムシの集まる若い植物の上で見つかります。黒地に4個の黄斑と微細な毛で識別。"
+    },
+    "en": {
+      "summary": "Four-spot Hairy Ladybird. A small black ladybird with four yellow spots and a finely hairy body, an aphid predator.",
+      "habitat_hint": "Woodland edges, farmland, riverside grassland, low shrubs.",
+      "finding_tips": "May–September on aphid-infested vegetation. The combination of black ground, four yellow spots and fine pubescence separates it from Lewis's larger congeners."
+    },
+    "zh": {
+      "summary": "艳色广盾瓢虫（ヨツボシテントウ）。瓢虫科小型甲虫，体黑具四枚黄斑并被细毛，捕食蚜虫。",
+      "habitat_hint": "杂木林缘、农地、河滩草地、灌木上。",
+      "finding_tips": "5–9 月可见于多蚜植物。黑底四黄斑与细毛为识别要点。"
+    }
+  },
+  "Polystichum hakonense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakone Holly Fern",
+    "aliases": {
+      "zh-Hans": "箱根耳蕨"
+    },
+    "ja": {
+      "summary": "ハコネイノデ。オシダ科イノデ属の常緑シダで、本州〜九州の山地林床に分布。和名は神奈川県箱根に由来。",
+      "habitat_hint": "山地落葉広葉樹林の林床、半日陰の腐植土、岩礫地。",
+      "finding_tips": "通年。葉は二回羽状複葉で硬い革質、葉軸の鱗片で他のイノデ属と区別。"
+    },
+    "en": {
+      "summary": "Hakone Holly Fern. An evergreen Polystichum of Honshu–Kyushu montane forests, named for the Hakone hills of Kanagawa.",
+      "habitat_hint": "Humus-rich semi-shaded slopes in mid-elevation deciduous forest.",
+      "finding_tips": "Year-round. Twice-pinnate leathery fronds; check the rachis scales to separate it from other Japanese Polystichum."
+    },
+    "zh": {
+      "summary": "箱根耳蕨（ハコネイノデ）。鳞毛蕨科耳蕨属常绿蕨，分布本州至九州山地林下，和名取自神奈川箱根。",
+      "habitat_hint": "山地落叶阔叶林下、半阴腐殖土、石砾地。",
+      "finding_tips": "全年。叶二回羽状复叶且革质，叶轴鳞片为同属间识别要点。"
+    }
+  },
+  "Polystichum makinoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カタイノデ。オシダ科イノデ属の常緑シダで、葉軸の黒い鱗片が密生し、葉が硬い革質であることから「硬猪手（カタイノデ）」と呼ばれる。",
+      "habitat_hint": "山地落葉広葉樹林の林床、岩礫地、社寺林の腐植土。",
+      "finding_tips": "通年。葉軸の黒褐色鱗片が密で、葉が他のイノデ属より硬く感じられる点が決め手。"
+    },
+    "en": {
+      "summary": "Black-scale Holly Fern. An evergreen Polystichum of Honshu–Kyushu, distinguished by densely black-brown rachis scales and notably stiff fronds.",
+      "habitat_hint": "Humus slopes in deciduous montane forest, stony understorey, shrine groves.",
+      "finding_tips": "Year-round. The dense black-brown rachis scales and the unusually stiff leathery frond are the easiest field marks."
+    },
+    "zh": {
+      "summary": "黑鳞耳蕨（カタイノデ）。鳞毛蕨科耳蕨属常绿蕨，叶轴密被黑褐色鳞片，叶质硬革，乃和名所本。",
+      "habitat_hint": "山地落叶阔叶林下、石砾地、神社林腐殖土。",
+      "finding_tips": "全年。叶轴密黑褐鳞片与异常坚硬之革质叶为识别要点。"
+    }
+  },
+  "Polystichum retrosopaleaceum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サカゲイノデ（逆毛猪手）。オシダ科イノデ属の常緑シダで、葉軸の鱗片が下向きに反り返る（逆毛）のが和名の由来。本州〜九州の山地林床。",
+      "habitat_hint": "山地落葉広葉樹林の林床、半日陰の腐植土。",
+      "finding_tips": "通年。葉軸の鱗片が下向きに反るのを確認できれば本種。他のイノデ属より乾燥にやや強い。"
+    },
+    "en": {
+      "summary": "Reflexed-scale Holly Fern. A Honshu–Kyushu Polystichum named for the rachis scales that bend backwards toward the petiole base.",
+      "habitat_hint": "Humus-rich semi-shaded slopes in mid-elevation deciduous forest.",
+      "finding_tips": "Year-round. Look at the rachis scales under a lens — they curve sharply downward, separating it from straight-scaled congeners."
+    },
+    "zh": {
+      "summary": "倒鳞耳蕨（サカゲイノデ）。鳞毛蕨科耳蕨属常绿蕨，叶轴鳞片向下反卷，乃和名所本。分布本州至九州山地林下。",
+      "habitat_hint": "山地落叶阔叶林下、半阴腐殖土。",
+      "finding_tips": "全年。叶轴鳞片明显下反，是与同属其他种之要别。"
+    }
+  },
+  "Prunus leveilleana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Misty Cherry",
+    "ja": {
+      "summary": "カスミザクラ（霞桜）。バラ科サクラ属の落葉小高木で、本州〜九州の山地に自生する野生のサクラ。ヤマザクラより遅く咲き、葉の展開と同時に淡桃〜白の花を付ける。",
+      "habitat_hint": "山地の落葉広葉樹林、林縁、社寺林、二次林。",
+      "finding_tips": "4〜5月、若葉と同時に開花。若葉は緑色（ヤマザクラは赤褐色）で見分けます。"
+    },
+    "en": {
+      "summary": "Misty Cherry. A wild Japanese cherry of Honshu–Kyushu mountains, blooming after Yamazakura with pale-pink to white flowers that open as the leaves unfurl.",
+      "habitat_hint": "Mid-elevation deciduous woodland, edges, shrine groves, secondary forest.",
+      "finding_tips": "April–May. Pale-pink to white flowers opening with green (not red-brown) young leaves separates it from Yamazakura (P. jamasakura)."
+    },
+    "zh": {
+      "summary": "霞樱（カスミザクラ）。蔷薇科樱属落叶小乔木，分布本州至九州山地。花期较山樱稍晚，开花与展叶同时，幼叶绿色。",
+      "habitat_hint": "山地落叶阔叶林、林缘、神社林、次生林。",
+      "finding_tips": "4–5 月。粉白花与绿色幼叶同时开展，与山樱（幼叶赤褐）显著区别。"
+    }
+  },
+  "Pterolophia caudata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-tailed Rust Longhorn",
+    "aliases": {
+      "zh-Hans": "尾突锈天牛"
+    },
+    "ja": {
+      "summary": "トガリシロオビサビカミキリ。カミキリムシ科の小型甲虫で、灰褐色の体に白い帯と尖った尾端をもつ。樹皮に擬態する。",
+      "habitat_hint": "雑木林の枯枝、伐倒材、樹皮の隙間。",
+      "finding_tips": "5〜8月、枯枝に止まる成虫を観察。灰褐色地に白帯と尾端の尖りが決め手。"
+    },
+    "en": {
+      "summary": "Long-tailed Rust Longhorn. A small grey-brown Pterolophia longhorn with a sharp pointed tail and a clean white band across the elytra; bark mimic.",
+      "habitat_hint": "Dead branches in lowland woodland, cut timber, bark crevices.",
+      "finding_tips": "May–August on deadwood. The pointed tail tip and white band separate it from other small Pterolophia."
+    },
+    "zh": {
+      "summary": "尾突锈天牛（トガリシロオビサビカミキリ）。天牛科小型甲虫，体灰褐具白色横带且尾端尖出，拟态树皮。",
+      "habitat_hint": "杂木林枯枝、伐木、树皮缝。",
+      "finding_tips": "5–8 月可见于枯枝。白带与尾端尖出为辨识要点。"
+    }
+  },
+  "Pterorhinus sannio": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カオジロガビチョウ。チメドリ科の中型鳥で、白い眉斑と頬の対比が顕著。中国原産の外来種で、関東を中心に野生化している。",
+      "habitat_hint": "林縁の藪、社寺林、河川敷の灌木地、住宅地周辺の緑地。",
+      "finding_tips": "通年、藪の中から賑やかな鳴き声が聞こえます。白い眉斑と頬で他のガビチョウ類と識別。"
+    },
+    "en": {
+      "summary": "White-browed Laughingthrush. A medium laughingthrush with a striking white face and brow; introduced from China and naturalised in the Kantō region.",
+      "habitat_hint": "Scrubby woodland edges, shrine groves, riverside thickets, suburban green space.",
+      "finding_tips": "Year-round. Listen for the loud cackling chorus from dense scrub; the broad white brow and cheek mask are the key field mark."
+    },
+    "zh": {
+      "summary": "白颊噪鹛（カオジロガビチョウ）。噪鹛科中型鸣禽，眉与颊白色显著。原产中国，在日本关东等地野化。",
+      "habitat_hint": "林缘灌丛、神社林、河滩灌木、住宅区绿地。",
+      "finding_tips": "全年灌丛中嘈杂群鸣即是；宽阔白眉与白颊为辨识要点。"
+    }
+  },
+  "Pyracantha angustifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチバナモドキ。バラ科トキワサンザシ属の常緑低木で、中国西部原産。日本では公園・生垣として植えられ、秋〜冬に橙色の実が長く残る。",
+      "habitat_hint": "公園、街路、生垣、住宅地の植え込み、暖地の野生化地。",
+      "finding_tips": "10〜2月、橙色の小さな果実が房状に枝を覆う姿で識別。細長い葉と鋭い棘も特徴。"
+    },
+    "en": {
+      "summary": "Narrow-leaf Firethorn. An evergreen Chinese shrub planted in Japanese parks and hedges; bright orange berries persist from autumn into winter.",
+      "habitat_hint": "Parks, avenues, hedges, suburban plantings, naturalised in warm areas.",
+      "finding_tips": "October–February. Dense orange berry clusters on thorny stems with narrow leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "窄叶火棘（タチバナモドキ）。蔷薇科火棘属常绿灌木，原产中国西部。日本作公园与绿篱栽培，秋冬橙果久存。",
+      "habitat_hint": "公园、街道、绿篱、住宅栽植、暖地野化。",
+      "finding_tips": "10 月至次年 2 月。窄叶刺枝间橙色密果簇为辨识要点。"
+    }
   }
 }
