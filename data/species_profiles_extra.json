@@ -51913,5 +51913,47 @@
       "habitat_hint": "赤松、黑松林、社寺松并木、海岸黑松林。",
       "finding_tips": "4〜6月晴日于松林听合唱寻虫；为日本最早鸣之蝉。"
     }
+  },
+  "Malus toringo": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ズミ（コナシ）。北海道〜九州の山地に生えるバラ科の落葉小高木。5月に白〜淡紅色の5弁花を散房状に開き、秋に径8〜10 mmの赤い小型梨果。リンゴの近縁野生種で台木に使われる。",
+      "habitat_hint": "山地の明るい林縁、湿った草地、湿原周辺、河岸。",
+      "finding_tips": "5月、葉とともに開く白〜淡紅の5弁花。秋に赤い小型果実が散房状につく。葉は3〜5浅裂することが多いのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Toringo Crab. A deciduous small Rosaceae tree of mountain habitats from Hokkaido through Kyushu; white to pale pink 5-petalled flowers in May and small (8–10 mm) red pomes in autumn. A wild relative of apple, widely used as rootstock.",
+      "habitat_hint": "Light mountain forest edges, wet meadows, marsh margins, riverbanks.",
+      "finding_tips": "May for white-pink corymbs with the leaves; the often 3–5-lobed leaves and small bright red autumn fruit are diagnostic."
+    },
+    "zh": {
+      "summary": "三叶海棠（ズミ／コナシ）。日本北海道至九州山地生蔷薇科落叶小乔木，5月开白至淡红色五瓣花呈伞房状，秋结径8〜10 mm之红色小型梨果；为苹果野生近缘种，常作砧木。",
+      "habitat_hint": "山地疏林缘、湿草地、湿原边缘、河岸。",
+      "finding_tips": "5月与叶同放白至淡红五瓣花；叶常3〜5浅裂、秋见小型红果为辨识要点。"
+    }
+  },
+  "Macrogerris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コセアカアメンボ亜属。アメンボ科コセアカアメンボ属の一亜属で、日本ではコセアカアメンボ（Macrogerris insularis）を含む数種が水面で活動するアメンボ類。胸部の側面が赤橙色を帯びるのが特徴。",
+      "habitat_hint": "池沼、湿地、河川の緩流、水たまり、水田。",
+      "finding_tips": "通年（成虫は越冬）、止水面に集まる小型アメンボを探す。胸部側面の赤橙色が肉眼でわかれば本亜属の可能性。種同定は専門書を参照。"
+    },
+    "en": {
+      "summary": "A subgenus of Gerridae (water-striders) including the Japanese water strider Macrogerris insularis; small bugs that skate on still water surfaces. Characterised by an orange-red side of the thorax.",
+      "habitat_hint": "Ponds, marshes, slow rivers, puddles, paddy water surface.",
+      "finding_tips": "Year-round on still water. Small water striders with an orange-red thoracic side may belong to this subgenus; specific identification needs a key."
+    },
+    "zh": {
+      "summary": "（コセアカアメンボ亜属 / Macrogerris）。黾蝽科黾蝽属之一亚属，日本含小赤黾等数种，于静水面活动，胸侧红橙色为特征。",
+      "habitat_hint": "池塘、湿地、缓流、积水、稻田水面。",
+      "finding_tips": "全年于静水面寻小型黾蝽；胸侧红橙色为本亚属之可疑标志，定种需专书。"
+    }
   }
 }
