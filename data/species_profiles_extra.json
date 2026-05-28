@@ -53439,5 +53439,496 @@
       "habitat_hint": "农田、河滩草地、林缘、公园栽植。",
       "finding_tips": "3–11 月，暖地几乎全年。常于胡枝子等豆科植物周边观察雌蝶产卵。"
     }
+  },
+  "Eutonia satsuma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-bellied Crane Fly",
+    "aliases": {
+      "zh-Hans": "黄腹大蚊"
+    },
+    "ja": {
+      "summary": "キバラガガンボ。ガガンボ科の中型ガガンボで、腹部の鮮やかな黄色が和名の由来。本州〜九州の湿った林床に普通。",
+      "habitat_hint": "渓流脇の林床、湿った林縁、社寺林の地表。",
+      "finding_tips": "5〜9月、湿った林床で長い脚を引きずるように飛ぶ姿。腹部の鮮黄色が決め手。"
+    },
+    "en": {
+      "summary": "Yellow-bellied Crane Fly. A mid-sized crane fly of damp Japanese forests with a bright yellow abdomen, especially common near streams.",
+      "habitat_hint": "Streamside forest floor, damp woodland edges, shrine groves.",
+      "finding_tips": "May–September drifting low through humid understory. The vivid yellow abdomen contrasts strongly with the dull thorax."
+    },
+    "zh": {
+      "summary": "黄腹大蚊（キバラガガンボ）。大蚊科中型大蚊，腹部明黄，乃和名所本。本州至九州湿润林下常见。",
+      "habitat_hint": "溪边林下、湿润林缘、神社林地表。",
+      "finding_tips": "5–9 月。于湿润林下贴地飞行，腹部鲜黄为辨识要点。"
+    }
+  },
+  "Exidia glandulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメキクラゲ。キクラゲ目のゼリー状菌で、黒色のひだ寄せた塊状子実体を朽木に作る。「魔女のバター」の名でも知られる。",
+      "habitat_hint": "落葉広葉樹の枯枝・倒木、特にナラ・カシの朽木。",
+      "finding_tips": "秋〜冬、雨後に黒くてつやのあるゼリー塊で識別。乾燥時は皮のように縮みます。"
+    },
+    "en": {
+      "summary": "Witches' Butter. A black gelatinous fungus producing folded jelly masses on hardwood deadwood, named for its rich-black colour.",
+      "habitat_hint": "Dead branches and fallen logs of deciduous trees, especially oak.",
+      "finding_tips": "Autumn–winter after rain. Glossy black jelly that shrinks to a hard crust when dry; reswells with the next rain."
+    },
+    "zh": {
+      "summary": "黑耳（ヒメキクラゲ）。木耳目胶质菌，于阔叶树枯枝倒木上形成黑色折叠胶质子实体，亦称“女巫黄油”。",
+      "habitat_hint": "落叶阔叶树之枯枝倒木，尤以栎类朽木为多。",
+      "finding_tips": "秋冬雨后。黑亮胶团易辨；干时缩成薄革，遇雨再膨。"
+    }
+  },
+  "Exocentrus fasciolatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Banded Twig Longhorn",
+    "ja": {
+      "summary": "クモガタケシカミキリ。カミキリムシ科の小型甲虫で、灰褐色の体に複雑な模様をもち、樹皮上で蜘蛛模様のように見えるのが和名の由来。",
+      "habitat_hint": "雑木林の枯枝、樹皮の隙間、伐採材。",
+      "finding_tips": "5〜8月、枯枝に止まる成虫を観察。蜘蛛模様の灰褐色翅と小型サイズが決め手。"
+    },
+    "en": {
+      "summary": "Banded Twig Longhorn. A tiny grey-brown Exocentrus longhorn whose mottled wings mimic bark and produce a spider-like pattern when fresh.",
+      "habitat_hint": "Dead branches in secondary woodland, bark crevices, cut timber.",
+      "finding_tips": "May–August on dead twigs. The grey-brown spider-like mottling and very small size are diagnostic."
+    },
+    "zh": {
+      "summary": "密点勾天牛（クモガタケシカミキリ）。天牛科小型甲虫，体灰褐并具复杂斑纹，停于树皮时形似蜘蛛。",
+      "habitat_hint": "杂木林枯枝、树皮缝、伐材。",
+      "finding_tips": "5–8 月可见于枯枝。灰褐蜘蛛纹与极小体型为辨识要点。"
+    }
+  },
+  "Fallopia convolvulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ソバカズラ。タデ科ソバカズラ属のつる性一年草で、ユーラシア原産。畑や河川敷の雑草として広く分布。果実はソバに似た三稜形。",
+      "habitat_hint": "畑地、空地、河川敷、道端。",
+      "finding_tips": "6〜10月、他植物に絡みつき、白〜淡緑の小花と三稜形の果実で識別。"
+    },
+    "en": {
+      "summary": "Black-bindweed. A twining annual Polygonaceae of Eurasian origin, a common weed of cultivated and waste ground; the seeds resemble small buckwheat.",
+      "habitat_hint": "Crop fields, waste ground, riverbanks, roadsides.",
+      "finding_tips": "June–October. Pale-greenish-white flowers and angled three-sided nutlets on twining stems separate it from true bindweeds (Convolvulus)."
+    },
+    "zh": {
+      "summary": "卷茎蓼（ソバカズラ）。蓼科蓼属缠绕一年生草本，原产欧亚，为农田与荒地常见杂草，瘦果三棱状似荞麦。",
+      "habitat_hint": "农田、空地、河滩、路边。",
+      "finding_tips": "6–10 月。淡绿白小花与三棱形瘦果于缠绕茎上，与旋花属易区分。"
+    }
+  },
+  "Fimbristylis velata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Veiled Fimbry",
+    "aliases": {
+      "zh-Hans": "面纱飘拂草"
+    },
+    "ja": {
+      "summary": "メアゼテンツキ。カヤツリグサ科テンツキ属の一年草〜短命多年草で、水田畦・湿地の指標種。細い茎の先に淡褐色の小穂を散形につける。",
+      "habitat_hint": "水田畦、休耕田、湿った草地、河川敷の泥地。",
+      "finding_tips": "8〜10月、水田畦で細い株が群生。短く密な散形花序が他のテンツキ類との識別点。"
+    },
+    "en": {
+      "summary": "Veiled Fimbry. A small annual Fimbristylis of Japanese paddy banks and wet ground, with short congested umbel-like inflorescences.",
+      "habitat_hint": "Paddy banks, fallow rice fields, wet grassland, muddy floodplains.",
+      "finding_tips": "August–October on paddy banks. The compact umbel-like inflorescence separates it from open-panicled congeners."
+    },
+    "zh": {
+      "summary": "面纱飘拂草（メアゼテンツキ）。莎草科飘拂草属一年生草本，是稻田田埂与湿地指标种，细茎顶生淡褐色密集伞状花序。",
+      "habitat_hint": "稻田田埂、休耕田、湿草地、河滩泥地。",
+      "finding_tips": "8–10 月田埂常见丛生。短而紧密之伞状花序与同属其他种区分。"
+    }
+  },
+  "Fistulina hepatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カンゾウタケ（肝臓茸）。レバー色の肉質きのこで、ナラ・クリ・シイの生木に発生する。切ると赤い汁が滴り、まさに肝臓のような外観。若いものは食用になる。",
+      "habitat_hint": "ナラ・クリ・シイ（特にクリ）の生木の幹、樹皮下の心材腐朽部。",
+      "finding_tips": "7〜10月、ナラやシイの根元から大型の暗赤褐色塊として発生。表面が湿って血のように滴るのが決め手。"
+    },
+    "en": {
+      "summary": "Beefsteak Fungus. A liver-coloured polypore on living oak and chestnut whose flesh exudes red juice when cut; edible when young but causes valuable brown-oak heartwood rot.",
+      "habitat_hint": "Living oak, chestnut and Castanopsis trunks, base and lower bole.",
+      "finding_tips": "July–October. A large dark-red liver-like bracket dripping reddish sap is unmistakable; cut surface bleeds like meat."
+    },
+    "zh": {
+      "summary": "肝色牛舌菌（カンゾウタケ）。多孔菌目，子实体肉质赤褐如肝。切之渗红汁，外观酷似牛舌或生肝；幼时可食，但导致名贵栎材褐心腐朽。",
+      "habitat_hint": "活的栎、栗、栲属树干基部与中部。",
+      "finding_tips": "7–10 月。栎、栗树根部之大型暗赤褐肉质块即是；切面渗红汁如血。"
+    }
+  },
+  "Gasterocercus longipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-legged Knob-weevil",
+    "aliases": {
+      "zh-Hans": "长足驼象"
+    },
+    "ja": {
+      "summary": "アシナガオニゾウムシ。ゾウムシ科の中型ゾウムシで、細長い脚と背中の鬼面のようなこぶ模様が特徴。樹皮に擬態する。",
+      "habitat_hint": "雑木林の枯枝・倒木、樹皮の隙間。",
+      "finding_tips": "6〜9月、夜間に倒木や枯枝で見つかります。細長い脚と鬼面状のこぶ模様が決め手。"
+    },
+    "en": {
+      "summary": "Long-legged Knob-weevil. A bark-mimicking weevil with elongated legs and tubercles on the elytra that form an 'ogre face' pattern.",
+      "habitat_hint": "Dead branches and fallen logs in secondary woodland, bark crevices.",
+      "finding_tips": "June–September on deadwood at night. The very long legs and bumpy ogre-face dorsal pattern are diagnostic."
+    },
+    "zh": {
+      "summary": "长足驼象（アシナガオニゾウムシ）。象甲科中型甲虫，足细长，背具瘤突如鬼面，拟态树皮。",
+      "habitat_hint": "杂木林枯枝倒木、树皮缝。",
+      "finding_tips": "6–9 月夜间于倒木枯枝可见。细长足与鬼面状背瘤为辨识要点。"
+    }
+  },
+  "Gymnocoronis spilanthoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミズヒマワリ。キク科ミズヒマワリ属の水生〜湿生多年草で、南米原産の侵略的外来種。日本では特定外来生物に指定されている。",
+      "habitat_hint": "河川、湖沼、水路、湿地。",
+      "finding_tips": "7〜10月、白い頭花を多数つけ、水際に大群落を形成。光沢のある対生葉と中空の茎で識別。"
+    },
+    "en": {
+      "summary": "Senegal Tea. A South American aquatic Asteraceae listed as an Invasive Alien Species in Japan, forming dense waterside colonies of white-headed inflorescences.",
+      "habitat_hint": "Rivers, lakes, irrigation channels, marshes.",
+      "finding_tips": "July–October. Glossy opposite leaves on hollow stems and clusters of small white pincushion heads at the water margin are diagnostic."
+    },
+    "zh": {
+      "summary": "光冠水菊（ミズヒマワリ）。菊科水菊属水生至湿生多年生草本，原产南美，是日本特定外来生物。",
+      "habitat_hint": "河流、湖沼、水渠、湿地。",
+      "finding_tips": "7–10 月。光亮对生叶与中空茎及白色头状花序密集为识别要点，常成大片侵占水缘。"
+    }
+  },
+  "Haematoloecha rubescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red Assassin Bug",
+    "aliases": {
+      "zh-Hans": "红猎蝽"
+    },
+    "ja": {
+      "summary": "アシマダラアカサシガメ。サシガメ科の中型カメムシで、赤と黒のまだら脚が和名の由来。落葉間でヤスデや小型節足動物を捕食する。",
+      "habitat_hint": "雑木林の落葉間、林床、社寺林の地表。",
+      "finding_tips": "5〜10月、林床の落葉をめくると見つかります。赤と黒のまだら脚と細長い赤い体が決め手。"
+    },
+    "en": {
+      "summary": "Red Assassin Bug. A red-and-black Haematoloecha reduviid that hunts millipedes and small arthropods in forest leaf litter.",
+      "habitat_hint": "Leaf litter of lowland deciduous and evergreen forest, shrine groves.",
+      "finding_tips": "May–October. Sift litter to find the red elongate bug; the contrasting red and black banded legs are diagnostic."
+    },
+    "zh": {
+      "summary": "红猎蝽（アシマダラアカサシガメ）。猎蝽科中型蝽，红黑斑驳之足为和名所本，于林下落叶间捕食马陆与小型节肢动物。",
+      "habitat_hint": "杂木林落叶层、林床、神社林地表。",
+      "finding_tips": "5–10 月翻动落叶可见。红色细长虫体与红黑斑驳足为辨识要点。"
+    }
+  },
+  "Harmochirus insulanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stout-armed Jumping Spider",
+    "ja": {
+      "summary": "ウデブトハエトリ。ハエトリグモ科ウデブトハエトリ属の小型ハエトリで、雄の第一脚が著しく太く、和名の由来となっている。",
+      "habitat_hint": "草地、林縁、農地周辺の地表近く、低い植物上。",
+      "finding_tips": "5〜10月、日中に低い草の上で雄の太い第一脚を振る求愛行動を観察できます。"
+    },
+    "en": {
+      "summary": "Stout-armed Jumping Spider. A small Harmochirus salticid whose male sports markedly thickened front legs used in display.",
+      "habitat_hint": "Grassland, woodland edges, field margins, low foliage.",
+      "finding_tips": "May–October on sunny low vegetation. Watch males wave the stout front legs in courtship — diagnostic for the genus."
+    },
+    "zh": {
+      "summary": "孤哈莫蛛（ウデブトハエトリ）。跳蛛科哈莫蛛属小型跳蛛，雄虫第一对足显著粗壮，乃和名所本。",
+      "habitat_hint": "草地、林缘、农地边地表近矮植物。",
+      "finding_tips": "5–10 月晴日可见于矮草顶。雄蛛挥舞粗壮前足求偶为辨识要点。"
+    }
+  },
+  "Hemigrapsus sanguineus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イソガニ。イワガニ科の小型海産カニで、北西太平洋原産。潮間帯の岩礁に普通で、近年は欧米へ侵入して問題となっている。",
+      "habitat_hint": "潮間帯の岩礁、転石下、テトラポッド、漁港の岸壁下。",
+      "finding_tips": "通年、干潮時に石の下や岩の隙間で見つかります。甲幅3cmほど、暗褐色の甲と赤い斑点が決め手。"
+    },
+    "en": {
+      "summary": "Asian Shore Crab. A small Hemigrapsus crab native to the NW Pacific, now an aggressive invader in European and US waters.",
+      "habitat_hint": "Rocky intertidal, under loose stones, tetrapod and harbour walls.",
+      "finding_tips": "Year-round at low tide. Lift stones to reveal squat dark-brown crabs ~3 cm wide; red spots on the legs help confirmation."
+    },
+    "zh": {
+      "summary": "肉球近方蟹（イソガニ）。方蟹科小型海产蟹，原产西北太平洋，近年入侵欧美沿海。",
+      "habitat_hint": "潮间带岩礁、石下、消波块、渔港码头底。",
+      "finding_tips": "全年退潮时翻石可见。甲宽约 3 cm、暗褐色甲与腿上红斑为辨识要点。"
+    }
+  },
+  "Herpetogramma luctuosalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mourning Crambid Moth",
+    "ja": {
+      "summary": "モンキクロノメイガ。ツトガ科ノメイガ亜科の中型蛾で、暗褐色の翅に黄色い紋が浮かぶ「喪服に金紋」のような姿。幼虫はブドウ類の葉を巻く。",
+      "habitat_hint": "雑木林、ブドウ・ノブドウのある林縁、社寺林。",
+      "finding_tips": "5〜10月の夜、灯火に飛来。暗褐色地に黄色い紋が決め手。"
+    },
+    "en": {
+      "summary": "Mourning Crambid Moth. A medium crambid with sooty-black wings spangled with yellow patches; larvae are leaf-rollers on Vitis and related vines.",
+      "habitat_hint": "Lowland woodland, edges with wild grape, shrine groves.",
+      "finding_tips": "May–October at moth lights. The combination of dark-brown ground and yellow ovate spots is diagnostic."
+    },
+    "zh": {
+      "summary": "葡萄切叶野螟（モンキクロノメイガ）。草螟科野螟亚科中型蛾，翅暗褐并散布黄斑，似“黑衣金纹”。幼虫卷葡萄叶为食。",
+      "habitat_hint": "杂木林、有野葡萄之林缘、神社林。",
+      "finding_tips": "5–10 月夜间灯诱可见。暗褐底色与黄斑为辨识要点。"
+    }
+  },
+  "Hippodamia tredecimpunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジュウサンホシテントウ。テントウムシ科の中型甲虫で、橙色の上翅に13個の黒点をもつ。湿地・河川敷の指標的なテントウムシ。",
+      "habitat_hint": "湿地、河川敷の草地、湖沼の岸辺。",
+      "finding_tips": "5〜9月、湿地のヨシ・スゲ類の上を歩く成虫を観察。13個の黒点が決定的な識別点。"
+    },
+    "en": {
+      "summary": "13-spot Ladybird. A wetland-loving Hippodamia ladybird with thirteen black spots on bright orange elytra — a useful marsh indicator.",
+      "habitat_hint": "Marshes, river floodplains, lake margins with reed and sedge.",
+      "finding_tips": "May–September on Phragmites and sedge. Count the spots: 13 on orange ground is unambiguous."
+    },
+    "zh": {
+      "summary": "十三星瓢虫（ジュウサンホシテントウ）。瓢虫科中型甲虫，鞘翅橙色具 13 枚黑点，常作湿地指示种。",
+      "habitat_hint": "湿地、河滩草地、湖沼岸。",
+      "finding_tips": "5–9 月可见于芦苇与莎草上。13 枚黑点为决定性识别点。"
+    }
+  },
+  "Hosta sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's Plantain Lily",
+    "ja": {
+      "summary": "コバギボウシ（小葉擬宝珠）。キジカクシ科ギボウシ属の多年草で、日本各地の湿った草地に分布。淡紫の漏斗状花を長い花茎の先に咲かせる。",
+      "habitat_hint": "湿った草地、湿原、林縁、社寺の半日陰の植え込み。",
+      "finding_tips": "7〜9月、淡紫色の花が長い花茎の片側につく姿で識別。葉は他のギボウシより小さく薄い。"
+    },
+    "en": {
+      "summary": "Siebold's Plantain Lily. A medium Hosta of wet Japanese meadows, with pale-purple funnel flowers on a tall raceme.",
+      "habitat_hint": "Damp meadows, marshes, woodland edges, shaded temple plantings.",
+      "finding_tips": "July–September. Smaller thinner leaves than the larger garden Hosta and pale-purple one-sided racemes separate it."
+    },
+    "zh": {
+      "summary": "紫玉簪（コバギボウシ）。天门冬科玉簪属多年生草本，遍布日本湿润草地，花淡紫漏斗状，长花葶单侧着生。",
+      "habitat_hint": "湿润草地、湿原、林缘、寺院半阴栽植。",
+      "finding_tips": "7–9 月。叶较其他玉簪小而薄，淡紫花单侧花序为辨识要点。"
+    }
+  },
+  "Hydrangea paniculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノリウツギ（糊空木）。アジサイ科アジサイ属の落葉低木で、夏に大きな円錐花序の白い花を咲かせる。樹皮の粘液を和紙の糊として使ったことが和名の由来。",
+      "habitat_hint": "山地の林縁、伐採跡、河岸の崩壊地、明るい二次林。",
+      "finding_tips": "7〜9月、大型の円錐状花序に白い装飾花と小さな両性花が混じる姿で識別。樹皮が縦に剥がれる。"
+    },
+    "en": {
+      "summary": "Panicle Hydrangea. A deciduous shrub bearing large summer panicles of white flowers with sterile ray florets; bark mucilage was traditionally used to size washi paper.",
+      "habitat_hint": "Mountain woodland edges, cuttings, landslip scars, sunny secondary forest.",
+      "finding_tips": "July–September. Large white conical panicles with sterile ray florets and shreddy bark separate it from ball-headed Hydrangea."
+    },
+    "zh": {
+      "summary": "圆锥八仙花（ノリウツギ）。绣球科绣球属落叶灌木，夏季抽出大型圆锥状白色花序，树皮粘液古时用作和纸施胶。",
+      "habitat_hint": "山地林缘、伐迹地、河岸崩塌地、明亮次生林。",
+      "finding_tips": "7–9 月。圆锥花序大且白，可育花与不育花相杂，树皮纵裂剥落，与球状绣球易分。"
+    }
+  },
+  "Hydrillodes lentalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pale-margined Litter Moth",
+    "ja": {
+      "summary": "ソトウスグロアツバ。ヤガ科クルマアツバ亜科の小型蛾で、暗褐色の前翅の外縁が淡く縁取られるのが和名の由来。",
+      "habitat_hint": "雑木林、社寺林、林縁の灌木層、落葉の厚い林床。",
+      "finding_tips": "6〜9月の夜、灯火に飛来。前翅の外縁が薄く縁取られる暗褐色翅で識別。"
+    },
+    "en": {
+      "summary": "Pale-margined Litter Moth. A small dark-brown Hydrillodes noctuid whose forewing has a paler outer margin; larvae feed on leaf litter.",
+      "habitat_hint": "Lowland deciduous woodland, shrine groves, edges with thick litter layer.",
+      "finding_tips": "June–September at lights. The dark forewing with a pale outer margin distinguishes it from related litter-moths."
+    },
+    "zh": {
+      "summary": "楞亥夜蛾（ソトウスグロアツバ）。夜蛾科裙夜蛾亚科小型蛾，前翅暗褐而外缘色淡，乃和名所本。幼虫食落叶。",
+      "habitat_hint": "杂木林、神社林、林缘灌丛、落叶层厚之林床。",
+      "finding_tips": "6–9 月夜间灯诱可见。前翅暗褐而外缘淡色为辨识要点。"
+    }
+  },
+  "Hymenophyllum barbatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウヤコケシノブ（高野苔忍）。コケシノブ科の小型着生シダで、葉が1細胞層の半透明な「薄膜シダ」。高野山にちなんだ和名。",
+      "habitat_hint": "渓流脇の岩・樹幹に着生、湿った苔生す環境。",
+      "finding_tips": "通年、流れ脇の岩や樹幹の苔の中で観察。葉が半透明で1細胞層の薄さが決め手。"
+    },
+    "en": {
+      "summary": "Bearded Filmy Fern. A tiny epiphytic filmy fern with one-cell-thick translucent fronds; named for Mt Kōya in Kii Province.",
+      "habitat_hint": "Mossy rocks and tree trunks beside montane streams in shaded humid forest.",
+      "finding_tips": "Year-round in damp shade. Hold a frond to the light: a single layer of cells is unmistakable for filmy ferns."
+    },
+    "zh": {
+      "summary": "华东膜蕨（コウヤコケシノブ）。膜蕨科小型附生蕨，叶片仅一层细胞且半透明。和名取自高野山。",
+      "habitat_hint": "溪边岩石与树干苔藓上，湿润荫蔽林下。",
+      "finding_tips": "全年。叶片对光呈半透明、仅一层细胞为膜蕨标志性识别点。"
+    }
+  },
+  "Incertobole evelina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plumed Sallow Moth",
+    "aliases": {
+      "zh-Hans": "羽须秋夜蛾"
+    },
+    "ja": {
+      "summary": "フサヒゲオビキリガ。ヤガ科キリガ亜科の小型蛾で、雄の触角が羽毛状（房状）になっているのが和名の由来。",
+      "habitat_hint": "雑木林、林縁、社寺林、晩秋の落葉樹林。",
+      "finding_tips": "10〜12月の夜、灯火に飛来。雄の房状触角と細長い翅で識別。"
+    },
+    "en": {
+      "summary": "Plumed Sallow Moth. A small late-autumn sallow noctuid in which the male has bipectinate (feathery) antennae.",
+      "habitat_hint": "Lowland deciduous woodland, edges, shrine groves.",
+      "finding_tips": "October–December at lights. The strongly feathered male antennae are the key field mark."
+    },
+    "zh": {
+      "summary": "羽须秋夜蛾（フサヒゲオビキリガ）。夜蛾科裳夜蛾亚科小型蛾，雄虫触角羽状，乃和名所本。",
+      "habitat_hint": "杂木林、林缘、神社林、晚秋落叶林。",
+      "finding_tips": "10–12 月夜间灯诱可见。雄虫羽毛状触角为辨识要点。"
+    }
+  },
+  "Inurois fumosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスモンフユシャク。シャクガ科フユシャク類の小型蛾で、冬季に成虫が出現する「冬尺蛾」の一種。雌は翅が退化して飛べない。",
+      "habitat_hint": "雑木林、社寺林、落葉樹林の幹周り。",
+      "finding_tips": "12〜2月の夜、灯火に飛来する雄を観察。寒中の灯火に小さな灰色蛾が来たら冬尺蛾を疑います。"
+    },
+    "en": {
+      "summary": "Smoky Winter Moth. A small Inurois winter geometer whose adults fly in midwinter; females are wingless.",
+      "habitat_hint": "Lowland deciduous woodland, shrine groves, around tree trunks.",
+      "finding_tips": "December–February at lights — winter moths are tiny grey-brown geometers active when nothing else is. Females cling to trunks instead of flying."
+    },
+    "zh": {
+      "summary": "薄翅小冬尺蛾（ウスモンフユシャク）。尺蛾科冬尺蛾类小型蛾，成虫严冬出现，雌虫翅退化不能飞。",
+      "habitat_hint": "杂木林、神社林、落叶林树干周边。",
+      "finding_tips": "12 月至次年 2 月夜间灯诱可见雄虫。严冬出现之灰褐小尺蛾即可疑为冬尺蛾。"
+    }
+  },
+  "Juglans mandshurica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マンシュウグルミ（オニグルミ）。クルミ科クルミ属の落葉高木で、北東アジア〜日本に分布。日本産は通常 var. sachalinensis（オニグルミ）として扱われる。果実は厚い硬殻に覆われる。",
+      "habitat_hint": "河川沿いの氾濫原林、山地の沢沿い、湿った落葉樹林。",
+      "finding_tips": "5〜6月に長い穂状の雄花、9〜10月に丸い緑色の果実で識別。葉裏の星状毛と大形の奇数羽状複葉が特徴。"
+    },
+    "en": {
+      "summary": "Manchurian Walnut. A deciduous walnut of NE Asia and Japan (Japanese populations usually treated as var. sachalinensis, Oni-gurumi); thick-shelled nuts in green husks.",
+      "habitat_hint": "Floodplain forest, mountain stream banks, moist deciduous woodland.",
+      "finding_tips": "May–June for long male catkins; September–October for round green nuts. Large odd-pinnate leaves and stellate hairs on the leaf underside are diagnostic."
+    },
+    "zh": {
+      "summary": "胡桃楸（マンシュウグルミ / オニグルミ）。胡桃科胡桃属落叶乔木，分布东北亚至日本。日本产多归 var. sachalinensis（鬼胡桃），果壳厚硬。",
+      "habitat_hint": "河岸泛滥原林、山地溪边、湿润落叶林。",
+      "finding_tips": "5–6 月观长穗状雄花，9–10 月观绿色圆果。叶背星状毛与大型奇数羽状复叶为辨识要点。"
+    }
+  },
+  "Lacrymaria lacrymabunda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムジナタケ（狢茸）。ナヨタケ科ムジナタケ属の中型きのこで、傘の表面に毛が密生し、ひだから胞子液が涙のように滴ることから「Weeping Widow」とも呼ばれる。",
+      "habitat_hint": "公園・林縁の地上、草地の腐植土、伐根周辺。",
+      "finding_tips": "5〜10月、湿った地面に群生する褐色の毛深い傘で識別。傘下のひだから黒い胞子液が滴ります。"
+    },
+    "en": {
+      "summary": "Weeping Widow. A medium fibrous-capped Lacrymaria that drips dark spore liquid from the gills like tears.",
+      "habitat_hint": "Lawns, woodland edges, humus-rich ground near stumps.",
+      "finding_tips": "May–October. Hairy brown cap and weeping black-spored gills separate it from inkcaps."
+    },
+    "zh": {
+      "summary": "毡毛小脆柄菇（ムジナタケ）。脆柄菇科泪盖伞属中型菌，菌盖密被毛，菌褶常滴黑色孢子液如泪，故俗称“哭泣寡妇”。",
+      "habitat_hint": "公园林缘地表、草地腐殖土、伐桩周边。",
+      "finding_tips": "5–10 月。湿地群生之毛盖与“泪滴”菌褶为辨识要点。"
+    }
+  },
+  "Lactuca serriola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prickly Lettuce",
+    "aliases": {
+      "zh-Hans": "野莴苣"
+    },
+    "ja": {
+      "summary": "トゲチシャ。キク科アキノノゲシ属の一年〜越年草で、ユーラシア原産。栽培レタスの原種とされる。葉の縁と中肋裏にトゲがある。",
+      "habitat_hint": "道端、空地、河川敷、撹乱地。",
+      "finding_tips": "6〜10月、葉縁と中肋裏のトゲ、葉が南北方向に立つ「コンパス草」の性質で識別。"
+    },
+    "en": {
+      "summary": "Prickly Lettuce. A Eurasian annual or biennial of waste ground, considered the wild ancestor of cultivated lettuce; leaves carry spines and align north-south as a 'compass plant'.",
+      "habitat_hint": "Roadsides, waste ground, river embankments, disturbed soils.",
+      "finding_tips": "June–October. Prickles along leaf margins and midrib plus the vertical north-south leaf orientation are diagnostic."
+    },
+    "zh": {
+      "summary": "野莴苣（トゲチシャ）。菊科莴苣属一至二年生草本，原产欧亚，被视作栽培莴苣之原种。叶缘与叶背中脉具刺。",
+      "habitat_hint": "路边、空地、河滩、扰动地。",
+      "finding_tips": "6–10 月。叶缘与中脉具刺，叶面常南北向竖立，号称“指南草”，皆为识别要点。"
+    }
   }
 }
