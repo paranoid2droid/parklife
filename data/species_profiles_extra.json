@@ -51955,5 +51955,491 @@
       "habitat_hint": "池塘、湿地、缓流、积水、稻田水面。",
       "finding_tips": "全年于静水面寻小型黾蝽；胸侧红橙色为本亚属之可疑标志，定种需专书。"
     }
+  },
+  "Acer diabolicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カジカエデ（鍛冶楓）。本州〜九州の山地に自生するムクロジ科カエデ属の落葉高木。葉は大きく掌状で粗い鋸歯をもち、雌雄異株。",
+      "habitat_hint": "山地の落葉樹林、渓流沿い、湿った斜面。",
+      "finding_tips": "4〜5月は黄緑の雄花房、10〜11月は黄〜橙の紅葉と長毛をまとう翼果で識別できます。"
+    },
+    "en": {
+      "summary": "Devil Maple. A dioecious deciduous maple of Honshu–Kyushu mountains in the Sapindaceae, with very large palmate leaves bearing coarse teeth.",
+      "habitat_hint": "Mid-elevation deciduous forest, stream banks, moist slopes.",
+      "finding_tips": "In April–May look for hanging yellow-green male catkins; in autumn the long-bristled samaras and broad leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "鬼枫（カジカエデ）。无患子科槭属落叶乔木，分布于本州至九州山地。叶大型掌状，齿粗，雌雄异株。",
+      "habitat_hint": "山地落叶林、溪边、湿润坡地。",
+      "finding_tips": "4–5 月观黄绿色雄花序，10–11 月观长毛翅果与橙黄秋叶，皆为辨识要点。"
+    }
+  },
+  "Agrilus cyaneoniger": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "黑窄吉丁"
+    },
+    "ja": {
+      "summary": "クロナガタマムシ。本州以南に分布するタマムシ科ナガタマムシ属の小型甲虫。体は細長く黒色、上翅に弱い藍色光沢を帯びる。",
+      "habitat_hint": "雑木林の縁、伐採跡、衰弱したクヌギ・コナラの立木。",
+      "finding_tips": "5〜7月、日中に枯れ枝や弱った樹幹で見られます。細長い体型と暗色光沢が同属内での識別点。"
+    },
+    "en": {
+      "summary": "Black Jewel Beetle. A slender black Agrilus jewel beetle of Honshu and southward, with a faint bluish sheen on the elytra.",
+      "habitat_hint": "Edges of secondary oak woodland, recent cuttings, stressed Quercus trunks.",
+      "finding_tips": "May–July, on sunlit dead branches and weakened oak trunks. The narrow shape and dark colour separate it from greener Agrilus."
+    },
+    "zh": {
+      "summary": "黑窄吉丁（クロナガタマムシ）。吉丁虫科窄吉丁属小型甲虫，分布本州以南，体细长黑色，鞘翅微带蓝色光泽。",
+      "habitat_hint": "杂木林边缘、伐迹地、衰弱栎树干。",
+      "finding_tips": "5–7 月白昼可见于枯枝与衰弱栎树干。细长体型与暗色光泽为识别要点。"
+    }
+  },
+  "Agrypnus fuliginosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sooty Click Beetle",
+    "aliases": {
+      "zh-Hans": "细锈叩头虫"
+    },
+    "ja": {
+      "summary": "ホソサビキコリ。コメツキムシ科サビキコリ属の細身の甲虫。体表は細かい鱗状毛で覆われ、錆色〜暗褐色を呈する。",
+      "habitat_hint": "雑木林の落葉下、朽木、林縁の草地。",
+      "finding_tips": "5〜8月、落葉や朽木をめくると見つかります。同属より細い体と暗色の鱗毛が決め手。"
+    },
+    "en": {
+      "summary": "Sooty Click Beetle. A slender Agrypnus click beetle with rusty-brown scaly pubescence, common in lowland woods.",
+      "habitat_hint": "Leaf litter, decaying logs, woodland-edge grassland.",
+      "finding_tips": "Turn leaf litter or peel loose bark in May–August. Narrower body and darker scales separate it from congeners."
+    },
+    "zh": {
+      "summary": "细锈叩头虫（ホソサビキコリ）。叩头虫科锈叩头虫属体型细长之甲虫，体被锈色至暗褐色鳞毛。",
+      "habitat_hint": "杂木林落叶下、朽木、林缘草地。",
+      "finding_tips": "5–8 月翻动落叶或朽木可见。体形较同属狭长且鳞毛偏暗，是识别要点。"
+    }
+  },
+  "Alangium platanifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウリノキ（瓜の木）。北海道〜九州の落葉樹林下に生えるミズキ科ウリノキ属の小高木。葉が瓜の葉に似ることから命名。花は白く反り返り、雄しべが長く垂れる独特の姿。",
+      "habitat_hint": "落葉広葉樹林の林床、沢沿いの斜面、半日陰の腐植土。",
+      "finding_tips": "5〜6月、白い花冠片が筒状からくるりと反り返り、長い雄しべが束で垂れる花が一見の価値。"
+    },
+    "en": {
+      "summary": "Palmate-leaf Alangium. An understory shrub of the Cornaceae from Hokkaido to Kyushu, with broad melon-like leaves and curiously reflexed white flowers with long pendulous stamens.",
+      "habitat_hint": "Deciduous forest understory, shaded stream banks, humus-rich slopes.",
+      "finding_tips": "In May–June the strap-shaped petals curl back and dangle below long yellow stamens — unmistakable."
+    },
+    "zh": {
+      "summary": "瓜木（ウリノキ）。山茱萸科瓜木属落叶小乔木，分布北海道至九州。叶大形似瓜叶，花白色，花冠裂片反卷，雄蕊长而下垂。",
+      "habitat_hint": "落叶阔叶林下、溪边阴坡、富腐殖质土壤。",
+      "finding_tips": "5–6 月观花：花瓣自筒状反卷成螺旋，长雄蕊束垂下，特征鲜明。"
+    }
+  },
+  "Alcea rosea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチアオイ（立葵）。アオイ科タチアオイ属の大型二年草〜短命多年草で、地中海原産。茎は直立して2m前後となり、夏に下から順に大きな花を咲かせる。",
+      "habitat_hint": "公園花壇、河川敷、住宅周辺、日当たりの良い空地。",
+      "finding_tips": "6〜8月、長い花穂の下方から開花が進み、梅雨明け頃に頂部まで咲きます。"
+    },
+    "en": {
+      "summary": "Hollyhock. A tall biennial or short-lived perennial mallow native to the Mediterranean, with stout 1.5–2 m stems and large open flowers blooming up the spike.",
+      "habitat_hint": "Garden borders, river embankments, roadsides, sunny waste ground.",
+      "finding_tips": "June–August; the bloom front climbs the spike, reaching the tip around the end of the rainy season."
+    },
+    "zh": {
+      "summary": "蜀葵（タチアオイ）。锦葵科蜀葵属二年至短命多年生草本，原产地中海。茎直立约 2 米，夏季自下而上次第开放大型花朵。",
+      "habitat_hint": "公园花坛、河滩、住宅边、向阳荒地。",
+      "finding_tips": "6–8 月由花序下部向上开放，梅雨结束前后至花序顶端。"
+    }
+  },
+  "Aloe arborescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アロエ（キダチアロエ）。南アフリカ原産ススキノキ科アロエ属の多肉低木。日本では関東以西で露地越冬し、冬に橙赤の総状花序を立ち上げる。",
+      "habitat_hint": "海岸沿いの植え込み、暖地の庭、公園の南向き斜面。",
+      "finding_tips": "12〜2月、葉のロゼットから直立する穂状の橙赤花が見頃。多肉質で鋸歯のある剣状葉が一年を通じての目印。"
+    },
+    "en": {
+      "summary": "Krans Aloe. A succulent South African shrub naturalised in mild parts of Japan, producing torch-like orange-red racemes through winter.",
+      "habitat_hint": "Coastal plantings, warm-region gardens, sunny south-facing park slopes.",
+      "finding_tips": "December–February for the bright orange spikes rising from rosettes of toothed succulent leaves."
+    },
+    "zh": {
+      "summary": "木立芦荟（アロエ / 木立蘆薈）。芦荟科芦荟属多肉灌木，原产南非。日本关东以西可露地越冬，冬季抽出橙红色总状花序。",
+      "habitat_hint": "海岸绿化、暖地庭园、公园南向坡地。",
+      "finding_tips": "12 月至次年 2 月赏花：橙红穗状花序自莲座状叶丛中立起，剑形多肉叶带锯齿，全年可辨。"
+    }
+  },
+  "Amanita caesareoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "East Asian Caesar's Mushroom",
+    "ja": {
+      "summary": "タマゴタケ（卵茸）。テングタケ科テングタケ属の大型きのこで、白いつぼから赤橙の傘が現れる姿が卵から孵るように見える。同属に猛毒種が多いが本種は良食。",
+      "habitat_hint": "ブナ・ミズナラ・アカマツなどとの外生菌根を作り、雑木林〜針広混交林の地上に発生。",
+      "finding_tips": "6〜9月、雨後に白いつぼと赤橙の傘、黄色のひだ・柄を一そろい確認できれば本種。テングタケ属誤食は致命的なので必ず複数特徴を照合。"
+    },
+    "en": {
+      "summary": "East Asian Caesar's Mushroom. A large Amanita whose orange-red cap emerges from a thick white volva, mimicking a hatching egg; edible and prized, but the genus contains lethal lookalikes.",
+      "habitat_hint": "Ectomycorrhizal with oak, beech and red pine in mixed lowland forest.",
+      "finding_tips": "June–September after rain. Confirm the white sac-like volva, orange-red cap, yellow gills and yellow stalk together — never collect on cap colour alone."
+    },
+    "zh": {
+      "summary": "拟橙盖鹅膏（タマゴタケ）。鹅膏科鹅膏属大型菌，自白色厚菌托中伸出橙红色菌盖，形似破壳之蛋。本种可食，但属内剧毒种众多，须谨慎。",
+      "habitat_hint": "与栎、山毛榉、赤松等形成外生菌根，生于混交林地。",
+      "finding_tips": "6–9 月雨后采食；务必同时确认白色菌托、橙红菌盖、黄色菌褶与菌柄四要件，不可凭单一特征采集。"
+    }
+  },
+  "Amanita ceciliae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "テングツルタケ（天狗鶴茸）。テングタケ科の灰褐色〜暗灰色の大型きのこ。傘表面に灰色の外被膜片を残し、柄にはつばがなく蛇皮模様の鱗をもつ。",
+      "habitat_hint": "ブナ科樹木との外生菌根、夏〜秋の落葉広葉樹林。",
+      "finding_tips": "7〜10月、灰褐色傘＋無つば＋蛇皮模様の柄が組み合わせで識別の鍵。テングタケ属は誤食危険なので食用にはしません。"
+    },
+    "en": {
+      "summary": "Snakeskin Grisette. A large grey-brown Amanita lacking a ring, with grey volval patches on the cap and snake-skin scale bands up the stipe.",
+      "habitat_hint": "Ectomycorrhizal with oaks and beeches in summer–autumn deciduous forest.",
+      "finding_tips": "July–October. Look for the combination of grey-brown cap, ringless stem and zig-zag scale pattern; treat all Amanitas as inedible unless an expert confirms."
+    },
+    "zh": {
+      "summary": "圈托鹅膏菌（テングツルタケ）。鹅膏科大型菌，菌盖灰褐至暗灰，表面残留灰色外膜碎片，菌柄无环并具蛇皮纹鳞片。",
+      "habitat_hint": "与壳斗科树木形成外生菌根，夏秋见于落叶阔叶林。",
+      "finding_tips": "7–10 月。灰褐菌盖＋无菌环＋蛇皮纹菌柄三项齐备方可识别；鹅膏属误食危险，不作食用。"
+    }
+  },
+  "Amanita farinosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eastern American Floury Amanita",
+    "ja": {
+      "summary": "ヒメコナカブリツルタケ。テングタケ科テングタケ属の小型種で、傘表面と柄基部に粉状の灰白色外被膜をまとう。北米と東アジアに分布。",
+      "habitat_hint": "コナラ・クヌギ・アカマツなどの外生菌根、夏〜初秋の雑木林。",
+      "finding_tips": "7〜9月、灰白色の傘に粉を散らした外見、つばのない柄、膨らんだ基部が決め手。属内には致死的猛毒種があり、食用にはしません。"
+    },
+    "en": {
+      "summary": "Eastern American Floury Amanita. A small Amanita whose grey cap is dusted with a powdery floccose volva, also reaching east Asia.",
+      "habitat_hint": "Ectomycorrhizal with oaks and pines in summer–autumn lowland woodland.",
+      "finding_tips": "July–September. Note the mealy grey cap, ringless stem and bulbous base. All Amanitas should be left uncollected by non-experts."
+    },
+    "zh": {
+      "summary": "小托柄鹅膏（ヒメコナカブリツルタケ）。鹅膏科小型菌，菌盖与柄基覆灰白色粉状外膜，分布北美与东亚。",
+      "habitat_hint": "与栎、松形成外生菌根，夏至初秋见于杂木林。",
+      "finding_tips": "7–9 月。灰白菌盖带粉、菌柄无环、基部膨大为识别要点。鹅膏属含剧毒种，禁作食用。"
+    }
+  },
+  "Anemone hupehensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Anemone",
+    "ja": {
+      "summary": "シュウメイギク（秋明菊）。中国原産でキンポウゲ科イチリンソウ属の多年草。古く渡来し各地で半野生化、京都北山の貴船で多いことからキブネギクとも呼ぶ。",
+      "habitat_hint": "寺社の境内、人家裏の半日陰、湿った林縁。",
+      "finding_tips": "9〜10月、長い花茎の先に淡紅紫または白の花を疎らに付け、見頃は秋の彼岸過ぎ。"
+    },
+    "en": {
+      "summary": "Chinese Anemone. A Chinese perennial of the Ranunculaceae long cultivated in Japan and widely semi-naturalised; also called Kibune-giku after a Kyoto locality.",
+      "habitat_hint": "Temple grounds, semi-shaded back gardens, moist forest margins.",
+      "finding_tips": "September–October. Tall stems bear pink-purple or white flowers; peak bloom follows the autumn equinox."
+    },
+    "zh": {
+      "summary": "打破碗花花（シュウメイギク / 秋明菊）。毛茛科银莲花属多年生草本，原产中国，古时传入日本并半野生化。",
+      "habitat_hint": "寺院境内、人家后院半阴处、湿润林缘。",
+      "finding_tips": "9–10 月，长花茎顶部疏生粉紫或白色花，秋分后达盛花。"
+    }
+  },
+  "Angelica polymorpha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シラネセンキュウ（白根川芎）。セリ科シシウド属の多年草。本州〜九州の山地に分布し、白い複散形花序と大きな三回羽状複葉が目立つ。",
+      "habitat_hint": "山地の半日陰、林縁、沢沿いの斜面。",
+      "finding_tips": "9〜10月、白い複散形花序が水平に広がる頃が最も識別しやすい時期。"
+    },
+    "en": {
+      "summary": "Polymorphic Angelica. A tall Apiaceae perennial of Honshu–Kyushu mountains, with broad tripinnate leaves and flat-topped white compound umbels.",
+      "habitat_hint": "Semi-shaded mountain slopes, forest edges, streamsides.",
+      "finding_tips": "September–October. The wide, flat white umbels above large divided leaves are the easiest field mark."
+    },
+    "zh": {
+      "summary": "拐芹（シラネセンキュウ）。伞形科当归属多年生草本，分布本州至九州山地。具大型三回羽状复叶与白色复伞形花序。",
+      "habitat_hint": "山地半阴地、林缘、溪边坡地。",
+      "finding_tips": "9–10 月，白色复伞形花序平展时最易辨认。"
+    }
+  },
+  "Anser albifrons": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マガン（真雁）。カモ科マガン属の中型ガン類で、額の白い斑と腹部の不規則な黒帯が識別点。日本では冬鳥として宮城・新潟・島根の干拓地や湖沼に渡来。",
+      "habitat_hint": "湖沼、ダム湖、湿った田圃、河口の干拓地。",
+      "finding_tips": "11〜2月、夕方ねぐら入りや朝の採食地への飛立ち時に大群を観察できます。額の白斑と腹の黒斑、橙色の脚が決め手。"
+    },
+    "en": {
+      "summary": "Greater White-fronted Goose. A medium grey-brown goose with a white forehead and irregular black belly bars; a winter visitor to lakes and reclaimed farmland in Miyagi, Niigata and Shimane.",
+      "habitat_hint": "Lakes and reservoirs, flooded rice paddies, estuarine reclamation.",
+      "finding_tips": "November–February. Watch evening fly-ins to roosts and morning departures to feeding fields; note the white forehead, black belly bars and orange legs."
+    },
+    "zh": {
+      "summary": "白额雁（マガン）。鸭科雁属中型雁，额具白斑，腹部具不规则黑色横纹。日本冬季见于宫城、新潟、岛根的湖沼与垦地。",
+      "habitat_hint": "湖泊、水库、有水稻田、河口垦区。",
+      "finding_tips": "11 月至次年 2 月。傍晚归宿与晨间觅食飞行时可观大群。白额、腹部黑斑与橙色脚为识别要点。"
+    }
+  },
+  "Aplysia kurodai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kuroda's Sea Hare",
+    "ja": {
+      "summary": "アメフラシ（雨降）。アメフラシ科の大型海産後鰓類。刺激を受けると紫色の液（紫汁）を放出することで知られ、海水温が上がる春の磯で目立つ。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、海藻の繁茂する潮だまり。",
+      "finding_tips": "4〜6月、大潮の干潮時に磯のホンダワラ等の海藻間を探すと見つかります。触ると紫汁を出すのが目印。"
+    },
+    "en": {
+      "summary": "Kuroda's Sea Hare. A large brownish-purple Aplysiid sea slug of Japanese coasts; when disturbed it ejects a striking purple ink cloud.",
+      "habitat_hint": "Intertidal and shallow subtidal rocky shores with seaweed cover.",
+      "finding_tips": "April–June on spring low tides; search among Sargassum and other seaweeds in tide pools. The purple ink response confirms the genus."
+    },
+    "zh": {
+      "summary": "大海鹿（アメフラシ）。海兔科大型海产后鳃类。受惊扰时喷出紫色液体（紫汁），春季水温上升后于潮间带常见。",
+      "habitat_hint": "潮间带至浅海岩礁、海藻茂盛之潮池。",
+      "finding_tips": "4–6 月大潮退潮时，于马尾藻等海藻间寻找。触发紫汁为识别要点。"
+    }
+  },
+  "Arabidopsis thaliana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロイヌナズナ（白犬薺）。アブラナ科シロイヌナズナ属の小型一年草で、世界各地に分布。ゲノムが完全解読された初の高等植物として植物科学のモデル種。",
+      "habitat_hint": "道端、畑地、空地、線路脇などの撹乱地。",
+      "finding_tips": "3〜5月、5〜15 cm の細い茎の先に白色四弁の小花を疎らに付け、長い角果ができます。"
+    },
+    "en": {
+      "summary": "Thale Cress. A small worldwide annual Brassicaceae; the first higher plant with a fully sequenced genome and the workhorse of plant molecular biology.",
+      "habitat_hint": "Roadsides, fields, waste ground, railway ballast — any disturbed open soil.",
+      "finding_tips": "March–May. Look for thin 5–15 cm stems with tiny four-petalled white flowers and long needle-like siliques."
+    },
+    "zh": {
+      "summary": "拟南芥（シロイヌナズナ）。十字花科拟南芥属一年生小草，遍布世界。为首个完成基因组测序的高等植物，是植物分子生物学的模式种。",
+      "habitat_hint": "路边、农田、空地、铁道砾石等扰动地。",
+      "finding_tips": "3–5 月，5–15 cm 细茎顶端疏生白色四瓣小花并形成细长角果。"
+    }
+  },
+  "Araneus tsurusakii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tsurusaki's Orb Weaver",
+    "aliases": {
+      "zh-Hans": "鹤崎络新妇"
+    },
+    "ja": {
+      "summary": "カラオニグモ。コガネグモ科オニグモ属の中型造網性クモで、日本固有種に近い在来分類群。雌の腹部は淡褐〜灰褐で複雑な斑紋をもつ。",
+      "habitat_hint": "雑木林の林縁、植え込み、家屋周辺の物陰。",
+      "finding_tips": "夜間に直径数十 cm の正常円網を張り、日中は近くの葉裏に隠れます。腹部模様と中型サイズで他のオニグモ属と識別。"
+    },
+    "en": {
+      "summary": "Tsurusaki's Orb Weaver. A mid-sized Japanese Araneus orb weaver named for arachnologist Hiroyoshi Tsurusaki, with a pale-brown abdomen patterned in dark folium.",
+      "habitat_hint": "Woodland edges, garden shrubbery, building eaves.",
+      "finding_tips": "Webs are built at night; by day the spider hides in folded leaves nearby. Use abdomen pattern and medium size to separate it from related Araneus."
+    },
+    "zh": {
+      "summary": "鹤崎络新妇（カラオニグモ）。园蛛科园蛛属中型造网蜘蛛，主分布日本，体型中等，腹部淡褐至灰褐并具复杂斑纹。",
+      "habitat_hint": "杂木林缘、绿篱、屋舍周边阴处。",
+      "finding_tips": "夜间结直径数十厘米圆网，昼则隐于附近卷叶。中等体型与腹部斑纹可与同属其他种区别。"
+    }
+  },
+  "Arrhenatherum elatius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオカニツリ。ヨーロッパ原産でイネ科オオカニツリ属の大型多年草。明治期に牧草として渡来し、現在は道端・河川敷で野生化。",
+      "habitat_hint": "河川敷、道路法面、空地、牧草地跡。",
+      "finding_tips": "5〜7月、高さ80〜150 cmの茎頂に光沢のある淡緑〜淡紫の円錐花序を付け、小穂に長い芒があります。"
+    },
+    "en": {
+      "summary": "Onion Couch. A tall European perennial grass introduced as fodder in the Meiji era and now naturalised on Japanese roadsides and riverbanks.",
+      "habitat_hint": "River embankments, road verges, waste ground, former pastures.",
+      "finding_tips": "May–July. Look for glossy pale-green to purple panicles 80–150 cm tall, with bent awns on the spikelets."
+    },
+    "zh": {
+      "summary": "燕麦草（オオカニツリ）。禾本科燕麦草属高大多年生草本，原产欧洲。明治时期作为牧草引入日本，现于路边、河滩野生化。",
+      "habitat_hint": "河滩、路坡、空地、旧牧草地。",
+      "finding_tips": "5–7 月。茎高 80–150 cm，顶生淡绿至淡紫色圆锥花序，小穗具长芒。"
+    }
+  },
+  "Artemisia annua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クソニンジン（黄花蒿）。キク科ヨモギ属の一年草で、独特の強い香りをもつ。アルテミシニンを産し抗マラリア薬の原料として有名。",
+      "habitat_hint": "河川敷、道端、空地、撹乱を受けた肥沃地。",
+      "finding_tips": "8〜10月、高さ1〜2 mに育ち、葉を揉むと特有の青臭い香り。淡黄の頭花が小さく多数つきます。"
+    },
+    "en": {
+      "summary": "Sweet Annie. A pungent annual Artemisia of Asian origin, famous as the source of the antimalarial artemisinin.",
+      "habitat_hint": "Riverbanks, roadsides, waste ground and other fertile disturbed soil.",
+      "finding_tips": "August–October. Plants reach 1–2 m; crushed leaves give off a strong sharp scent and the tiny yellow heads are densely packed on the panicle."
+    },
+    "zh": {
+      "summary": "黄花蒿（クソニンジン）。菊科蒿属一年生草本，具浓烈特殊气味。所含青蒿素为抗疟药源，故举世闻名。",
+      "habitat_hint": "河滩、路边、空地、扰动肥沃地。",
+      "finding_tips": "8–10 月。株高 1–2 米，揉叶气味强烈；圆锥花序疏生淡黄色小头状花序。"
+    }
+  },
+  "Asarum caulescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-leaf Wild Ginger",
+    "ja": {
+      "summary": "フタバアオイ（双葉葵）。本州〜九州の山地林床に生えるウマノスズクサ科カンアオイ属の多年草。京都・上賀茂神社の神紋（葵紋）の元として知られる。",
+      "habitat_hint": "落葉広葉樹林下、沢沿いの斜面、半日陰の腐植土。",
+      "finding_tips": "3〜5月、地表近くで赤褐色の壺型花が咲き、ペアの心形葉のもとに隠れるように咲きます。"
+    },
+    "en": {
+      "summary": "Two-leaf Wild Ginger. A small forest-floor perennial of Honshu–Kyushu in the Aristolochiaceae, whose paired heart-shaped leaves are the model for the Kyoto Aoi-mon family crest.",
+      "habitat_hint": "Deciduous forest floor, shaded slopes, humus-rich soils along streams.",
+      "finding_tips": "March–May. The dull red-brown urn-shaped flowers sit near the ground, hidden under the pair of cordate leaves."
+    },
+    "zh": {
+      "summary": "双叶细辛（フタバアオイ）。马兜铃科细辛属多年生草本，分布本州至九州山地林下。其成对心形叶为京都上贺茂神社“葵纹”家纹之原型。",
+      "habitat_hint": "落叶阔叶林下、溪边坡地、富腐殖质半阴地。",
+      "finding_tips": "3–5 月，红褐色坛状小花贴地而生，常藏于一对心形叶下。"
+    }
+  },
+  "Ascalohybris subjacens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Owlfly",
+    "ja": {
+      "summary": "ツノトンボ（角蜻蛉）。アミメカゲロウ目ツノトンボ科で、トンボに似た翅をもつが触角が長く先端が膨らむ点で区別。本州〜九州の草原に分布。",
+      "habitat_hint": "ススキ草原、河川敷、明るい林縁。",
+      "finding_tips": "6〜9月、夕方〜薄暮にススキの穂先に止まる姿が見つかります。長く先端が膨らんだ触角と細い腹部が決め手。"
+    },
+    "en": {
+      "summary": "Japanese Owlfly. A dragonfly-like neuropteran (Ascalaphidae) of Honshu–Kyushu grasslands, separated from true Odonata by the long clubbed antennae.",
+      "habitat_hint": "Miscanthus grassland, river floodplain, sunlit woodland edges.",
+      "finding_tips": "June–September at dusk, perched on Miscanthus inflorescences. The long club-tipped antennae and slender abdomen are diagnostic."
+    },
+    "zh": {
+      "summary": "黄脊蝶角蛉（ツノトンボ）。脉翅目蝶角蛉科昆虫，翅形似蜻蜓但触角细长且端部膨大，分布本州至九州草原。",
+      "habitat_hint": "芒草草原、河滩、明亮林缘。",
+      "finding_tips": "6–9 月黄昏，常停于芒草穗上。长触角端部膨大与细长腹部为辨识要点。"
+    }
+  },
+  "Atachycines apicalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Camel Cricket",
+    "aliases": {
+      "zh-Hans": "灶马"
+    },
+    "ja": {
+      "summary": "カマドウマ（竈馬）。カマドウマ科の翅をもたない大型コオロギ近縁種。背が高く弓なりに反った姿から「便所コオロギ」とも俗称される。",
+      "habitat_hint": "床下・物置・台所裏など暗く湿った人家環境、林床の朽木下。",
+      "finding_tips": "夜間、薄暗い湿った場所で長い触角と発達した後脚をもつ姿を見かけます。翅がなく、ジャンプで逃げるのが特徴。"
+    },
+    "en": {
+      "summary": "Japanese Camel Cricket. A wingless humpbacked cricket relative of the Rhaphidophoridae, commonly found in dark damp corners of Japanese houses.",
+      "habitat_hint": "Crawl spaces, sheds, under sinks, plus rotten logs on the forest floor.",
+      "finding_tips": "At night in damp dim spaces. Look for the arched humpbacked body, enormous hind legs and very long antennae; jumping rather than flying confirms the family."
+    },
+    "zh": {
+      "summary": "灶马（カマドウマ）。穴螽科无翅大型蟋蟀近缘类，背高且呈弓状，因常居灶旁、厕旁俗称“便所蟋蟀”。",
+      "habitat_hint": "地板下、储物间、厨房后等阴暗潮湿之人家环境，亦见于林下朽木。",
+      "finding_tips": "夜间于潮湿阴暗处可见。无翅、跳跃逃逸，并具长触角与发达后腿，为科级辨识要点。"
+    }
+  },
+  "Attulus penicillatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pencil-tufted Jumping Spider",
+    "ja": {
+      "summary": "シラホシコゲチャハエトリ。ハエトリグモ科の小型ハエトリで、暗褐色の体に白い斑点をもつ。日本各地の地表性ハエトリとして比較的普通。",
+      "habitat_hint": "草地、河川敷、農地周辺の地表、石下や落葉間。",
+      "finding_tips": "4〜10月、晴れた日中に地表をぴょこぴょこ歩く姿で見つかります。暗褐色地に白斑、寸詰まりの体型が特徴。"
+    },
+    "en": {
+      "summary": "Pencil-tufted Jumping Spider. A small dark-brown ground-dwelling salticid sprinkled with white spots, widespread on Japanese grasslands.",
+      "habitat_hint": "Open grassland, river floodplains, field margins; under stones and leaf litter.",
+      "finding_tips": "April–October on sunny days, foraging on bare soil. Combination of compact body, dark ground colour and white dots separates it from other small Salticidae."
+    },
+    "zh": {
+      "summary": "五斑跃蛛（シラホシコゲチャハエトリ）。跳蛛科小型跳蛛，体暗褐并散布白斑，广布日本草地地表。",
+      "habitat_hint": "草地、河滩、农地边地表，石下与落叶间。",
+      "finding_tips": "4–10 月晴朗白昼，于裸地跳行可见。体型短粗、暗底白斑为识别要点。"
+    }
+  },
+  "Bassia scoparia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コキア（ホウキギ）。ヒユ科バッシア属の一年草で、ユーラシア原産。夏は鮮緑、秋に紅葉して球状の姿となり、近年「ひたち海浜公園」などの植栽で人気。",
+      "habitat_hint": "公園花壇、河川敷、空地、農地縁。",
+      "finding_tips": "10〜11月の紅葉期が最も識別容易。球状の樹形と緑→紅の遷移、細い線形葉が特徴。"
+    },
+    "en": {
+      "summary": "Kochia / Summer Cypress. A Eurasian annual in the Amaranthaceae forming neat green domes that turn brilliant red in autumn — famous for the mass plantings at Hitachi Seaside Park.",
+      "habitat_hint": "Park bedding, riverbanks, waste ground, field edges.",
+      "finding_tips": "October–November when foliage turns red. The rounded mound habit and narrow linear leaves separate it from other reddening annuals."
+    },
+    "zh": {
+      "summary": "地肤（コキア / 扫帚草）。苋科地肤属一年生草本，原产欧亚。夏鲜绿，秋红艳，株型球状，近年因常陆海滨公园等地的大片栽植而著名。",
+      "habitat_hint": "公园花坛、河滩、空地、农田边。",
+      "finding_tips": "10–11 月红叶期最易辨识。球状株型、由绿转红与细线形叶为要点。"
+    }
   }
 }
