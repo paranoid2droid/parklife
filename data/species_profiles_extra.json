@@ -50949,5 +50949,571 @@
       "habitat_hint": "河口汽水、内湾、渔港、盐性湿地。",
       "finding_tips": "全年于汽水岸边水草或护岸缝隙寻第二步足长之小型虾。"
     }
+  },
+  "Parasa hilarula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Green Slug Moth",
+    "aliases": {
+      "zh-Hans": "迹斑绿刺蛾"
+    },
+    "ja": {
+      "summary": "クロシタアオイラガ。本州〜九州に分布するイラガ科の小型蛾。前翅長10〜13 mm、前翅は鮮緑色で基部に褐色斑。幼虫は刺毛を持ち触れると激痛。",
+      "habitat_hint": "雑木林、公園のサクラ・カキなど落葉広葉樹。",
+      "finding_tips": "6〜9月、灯火に飛来。鮮緑色の前翅と褐色の翅基が識別ポイント。幼虫の刺毛には触れない。"
+    },
+    "en": {
+      "summary": "Small Green Slug Moth. A 10–13 mm limacodid of Honshu through Kyushu with bright green forewings and a brown patch at the base; larvae bear urticating spines causing severe sting.",
+      "habitat_hint": "Secondary woodland, parks with cherry, persimmon and other broadleaf hosts.",
+      "finding_tips": "June–September at lights. Bright green forewing with brown base patch is diagnostic. Do not handle the larvae."
+    },
+    "zh": {
+      "summary": "迹斑绿刺蛾（クロシタアオイラガ）。日本本州至九州刺蛾科小型蛾，前翅长10〜13 mm，前翅鲜绿基部具褐斑，幼虫具螫毛触之剧痛。",
+      "habitat_hint": "杂木林、公园之樱、柿等落叶阔叶树。",
+      "finding_tips": "6〜9月趋光；鲜绿翅与褐色翅基为辨识要点；勿触幼虫。"
+    }
+  },
+  "Parmotrema tinctorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウメノキゴケ。古来梅・桜・松などの古木樹皮に着生するウメノキゴケ科の地衣類。葉状体は灰緑色で大きな葉片が重なり合う。大気汚染に弱く、地衣指標として用いられる。",
+      "habitat_hint": "古い梅・桜・松などの樹幹、社寺の古木、岩面。",
+      "finding_tips": "通年、古木の幹で灰緑色の大型葉状体を探す。きれいな環境の指標。"
+    },
+    "en": {
+      "summary": "Old Gray Ruffles. A large foliose lichen of old plum, cherry and pine bark in temple groves; pale grey-green lobes overlap broadly. Sensitive to air pollution and used as a bioindicator.",
+      "habitat_hint": "Trunks of old plum, cherry, pine in shrines, parks; also rock faces.",
+      "finding_tips": "Year-round on aged bark. Broad pale grey-green ruffled thallus is diagnostic — indicates clean air."
+    },
+    "zh": {
+      "summary": "大裸緣梅衣（ウメノキゴケ）。生于古梅、樱、松树皮之梅衣科叶状地衣，灰绿色裂片宽大叠生，对空气污染敏感，可作指示生物。",
+      "habitat_hint": "古梅、樱、松树干、社寺古木、岩面。",
+      "finding_tips": "全年于古木上寻灰绿色大型叶状体；为空气清洁指标。"
+    }
+  },
+  "Phalaropus lobatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "ja": {
+      "summary": "アカエリヒレアシシギ。北極圏で繁殖し日本には旅鳥として通過するシギ科の小型シギ。指に「ひれ」状の弁膜を持ち水面で巧みに泳ぐ。夏羽は首側面が鮮赤褐色。",
+      "habitat_hint": "渡り時期の干潟、内湾、沖合の海面、塩田跡。",
+      "finding_tips": "5月・8〜10月、水面でくるくる回って餌をついばむ小型シギを探す。指の弁膜と泳ぐ習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Red-necked Phalarope. A small Arctic-breeding shorebird passing through Japan as a migrant; lobed toes allow it to swim and spin on water. Summer plumage shows bright red-brown neck patch.",
+      "habitat_hint": "Tidal flats, bays, offshore waters, salt pans during migration.",
+      "finding_tips": "May and August–October. Spinning on the water surface to stir up prey is diagnostic — unique among Japanese shorebirds."
+    },
+    "zh": {
+      "summary": "红颈瓣蹼鹬（アカエリヒレアシシギ）。北极繁殖、过境日本之鹬科小型涉禽，趾具瓣蹼可游泳；夏羽颈侧鲜红褐。",
+      "habitat_hint": "迁徙期之滩涂、内湾、近海水面、盐田。",
+      "finding_tips": "5月、8〜10月，于水面旋转觅食之小型鹬；瓣蹼与游泳习性为辨识要点。"
+    }
+  },
+  "Phrixolepia sericea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red Slug Moth",
+    "aliases": {
+      "zh-Hans": "光赤刺蛾"
+    },
+    "ja": {
+      "summary": "アカイラガ。本州〜九州に分布するイラガ科の小型蛾。前翅長10〜13 mm、前翅は鮮赤褐色〜橙褐色。幼虫は刺毛を持ち触れると痛む。",
+      "habitat_hint": "雑木林、公園のサクラ・カキなど落葉広葉樹。",
+      "finding_tips": "6〜9月、灯火に飛来。鮮赤褐色の前翅が識別ポイント。幼虫の刺毛には触れない。"
+    },
+    "en": {
+      "summary": "Red Slug Moth. A 10–13 mm limacodid of Honshu through Kyushu with vivid red-brown to orange forewings; larvae bear urticating spines.",
+      "habitat_hint": "Secondary woodland, parks with cherry and other broadleaf hosts.",
+      "finding_tips": "June–September at lights. Vivid red-brown forewing is diagnostic. Do not handle larvae."
+    },
+    "zh": {
+      "summary": "光赤刺蛾（アカイラガ）。日本本州至九州刺蛾科小型蛾，前翅长10〜13 mm，鲜赤褐至橙褐色，幼虫具螫毛。",
+      "habitat_hint": "杂木林、公园樱、柿等落叶阔叶树。",
+      "finding_tips": "6〜9月趋光；鲜赤褐前翅为辨识要点；勿触幼虫。"
+    }
+  },
+  "Physalis angulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cutleaf Groundcherry",
+    "ja": {
+      "summary": "センナリホオズキ。熱帯原産のナス科一年草で日本に広く帰化。畑地や荒地に生え、淡黄色の小花を多数つけ、袋状の宿存萼に包まれた小果を結ぶ。",
+      "habitat_hint": "畑地、空き地、河川敷、道端。",
+      "finding_tips": "7〜10月、紙袋状の宿存萼に包まれた緑色の小実を探す。葉縁は不規則な鋸歯。"
+    },
+    "en": {
+      "summary": "Cutleaf Groundcherry. A tropical-origin annual Solanaceae naturalised throughout Japan; pale yellow flowers and small berries enclosed in inflated paper-lantern calyces.",
+      "habitat_hint": "Fields, waste ground, riverbanks, roadsides.",
+      "finding_tips": "July–October. The papery inflated calyx enclosing a green berry is diagnostic; leaves have irregularly toothed margins."
+    },
+    "zh": {
+      "summary": "苦蘵（センナリホオズキ）。热带原产之茄科一年生草本，日本广泛归化于田边荒地，开淡黄小花，宿存萼膨大成纸灯笼包浆果。",
+      "habitat_hint": "农田、荒地、河滩、路旁。",
+      "finding_tips": "7〜10月，寻纸灯笼状宿存萼包裹之绿色小果；叶缘具不规则锯齿。"
+    }
+  },
+  "Pilea hamaoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミズ。本州〜九州の湿った林床に生えるイラクサ科の一年草。茎は半透明で水気が多く、若芽は山菜として食用。葉は対生で鋸歯あり。",
+      "habitat_hint": "山地〜丘陵の湿った林床、谷沿い、湧水周辺。",
+      "finding_tips": "6〜10月、湿った林床で半透明の柔らかい茎と対生の鋸歯葉を探す。葉腋に小さな緑色花序。"
+    },
+    "en": {
+      "summary": "Large Clearweed. A succulent annual Urticaceae of moist forest floors from Honshu through Kyushu; translucent watery stems, eaten as a wild edible (shoots). Toothed leaves opposite.",
+      "habitat_hint": "Wet hill forest floors, ravine sides, around springs and seeps.",
+      "finding_tips": "June–October. Translucent watery stems and opposite toothed leaves with axillary green flower clusters are diagnostic."
+    },
+    "zh": {
+      "summary": "阴地冷水花（ミズ）。日本本州至九州湿林下生荨麻科一年生草本，茎半透明多水，嫩芽可食；叶对生具齿。",
+      "habitat_hint": "山地至丘陵湿润林下、谷边、泉旁。",
+      "finding_tips": "6〜10月，于湿林下寻半透明柔茎与对生齿叶；叶腋具小绿花序。"
+    }
+  },
+  "Piper kadsura": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フウトウカズラ。本州（関東以西）〜沖縄の暖温帯〜亜熱帯林に自生するコショウ科の常緑つる性木本。気根で樹幹を登り、葉は卵心形で光沢がある。日本産唯一の野生コショウ属。",
+      "habitat_hint": "暖温帯〜亜熱帯の常緑広葉樹林、海岸林、社寺林の樹幹や岩面。",
+      "finding_tips": "通年、樹幹を覆う光沢のある心形葉と気根を探す。葉を揉むとコショウ様の香気。"
+    },
+    "en": {
+      "summary": "Kadsura Pepper. Japan's only native Piper, an evergreen woody climber of warm temperate to subtropical forests from Kanto south; climbs trunks by aerial roots, glossy heart-shaped leaves smell peppery when crushed.",
+      "habitat_hint": "Evergreen broadleaf forests, coastal woods, shrine groves on trunks and rocks.",
+      "finding_tips": "Year-round. Glossy ovate-cordate leaves climbing trunks with aerial roots; peppery scent on crushing is diagnostic."
+    },
+    "zh": {
+      "summary": "风藤（フウトウカズラ）。日本关东以西本州至冲绳暖温带至亚热带林自生之胡椒科常绿木质藤本，气生根攀附树干，叶卵心形有光泽；为日本唯一野生胡椒属。",
+      "habitat_hint": "暖温至亚热带常绿阔叶林、海岸林、社寺林之树干岩面。",
+      "finding_tips": "全年寻覆盖树干之光泽心形叶与气根；揉叶有胡椒香。"
+    }
+  },
+  "Poecilia reticulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "グッピー。中南米原産のカダヤシ科の小型卵胎生魚。観賞魚として導入され、温水排水路で野生化した個体群が各地に。雄は派手な色彩、雌は地味で大型。",
+      "habitat_hint": "温泉排水路、工業排水路、暖かい流れの淀み（外来）。",
+      "finding_tips": "通年、温かい排水流の淀みで派手な色の小型雄魚を探す。在来種ではない点を留意。"
+    },
+    "en": {
+      "summary": "Guppy. A small Central/South American livebearing fish (Poeciliidae) introduced as an aquarium fish, now feral in Japanese warm-water effluent channels; males brightly coloured, females larger and plain.",
+      "habitat_hint": "Warm effluent channels from hot springs, factories; not in natural cold waters.",
+      "finding_tips": "Year-round in warm effluent. Brightly coloured small males are diagnostic. Non-native — populations should be noted but not introduced."
+    },
+    "zh": {
+      "summary": "孔雀鱼（グッピー）。中南美原产之花鳉科小型卵胎生鱼，作观赏鱼引入，于日本温水排水沟野化定着；雄鱼花纹艳丽，雌鱼大而朴素。",
+      "habitat_hint": "温泉、工厂温水排水沟（外来）。",
+      "finding_tips": "全年于温水排水沟寻色彩艳丽之小型雄鱼；非本土种。"
+    }
+  },
+  "Polistes nipponensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Paper Wasp",
+    "ja": {
+      "summary": "キボシアシナガバチ。本州〜九州に分布するアシナガバチ科の中型蜂。体長15〜18 mm、黒地に黄色斑、特に腹部第2節の黄斑が目立つ。木材繊維で巣を作る。刺されると痛い。",
+      "habitat_hint": "雑木林、公園、人家周辺の軒下や枝先に営巣。",
+      "finding_tips": "5〜10月、軒下や枝先の小型コロニーを探す。腹部の鮮黄斑が識別ポイント。巣に近づかない。"
+    },
+    "en": {
+      "summary": "A 15–18 mm paper wasp of Honshu through Kyushu; black with bright yellow markings, especially a conspicuous yellow band on abdominal segment 2. Builds small open paper nests; sting is painful.",
+      "habitat_hint": "Woodland, parks, residential eaves and twig tips.",
+      "finding_tips": "May–October at small nests under eaves or on twigs. Bright yellow abdominal mark is diagnostic. Keep distance."
+    },
+    "zh": {
+      "summary": "倭馬蜂（キボシアシナガバチ）。日本本州至九州马蜂科中型蜂，体长15〜18 mm，黑底黄斑，腹部第2节黄斑明显；以木质纤维筑巢，蜇人剧痛。",
+      "habitat_hint": "杂木林、公园、人家屋檐与枝端筑巢。",
+      "finding_tips": "5〜10月，于屋檐或枝端寻小型蜂巢；腹部鲜黄斑为辨识要点，勿近巢。"
+    }
+  },
+  "Polytremis pellucida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clear-banded Swift",
+    "ja": {
+      "summary": "オオチャバネセセリ。本州〜九州に分布するセセリチョウ科の中型蝶。前翅長17〜20 mm、褐色地に白い斑が並び後翅に4個の白斑が直線状に並ぶ。幼虫はササ・タケ類を食べる。",
+      "habitat_hint": "雑木林の林縁、明るい林床、ササの茂る草地。",
+      "finding_tips": "6〜9月、林縁の花上で素早く飛ぶ褐色セセリを探す。後翅裏の白斑列が直線状なのが識別ポイント。"
+    },
+    "en": {
+      "summary": "Clear-banded Swift. A medium hesperiid (forewing 17–20 mm) of Honshu through Kyushu, brown with white spots — the four spots on the hindwing arranged in a straight line. Larvae on bamboo and Sasa.",
+      "habitat_hint": "Forest edges, open woodland floors, Sasa-rich grassland.",
+      "finding_tips": "June–September on edge flowers. The straight-line arrangement of four hindwing spots separates it from congeners."
+    },
+    "zh": {
+      "summary": "透纹孔弄蝶（オオチャバネセセリ）。日本本州至九州弄蝶科中型蝶，前翅长17〜20 mm，褐底白斑，后翅四白斑直线排列；幼虫食笹竹类。",
+      "habitat_hint": "杂木林缘、疏林、笹竹丰富之草地。",
+      "finding_tips": "6〜9月，于林缘花上寻迅飞褐色弄蝶；后翅四斑直线为辨识要点。"
+    }
+  },
+  "Pupinella rufa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Adzuki-bean Snail",
+    "aliases": {
+      "zh-Hans": "赤豆螺"
+    },
+    "ja": {
+      "summary": "アズキガイ。本州〜九州の落葉広葉樹林の林床に生える陸生小型巻貝。殻高7〜10 mm、艶のある赤褐色で小豆に似た形からの名。落葉下や朽木の隙間に潜む。",
+      "habitat_hint": "落葉広葉樹林の林床、朽木下、苔むした石下。",
+      "finding_tips": "通年、落葉や朽木をめくると赤褐色の小豆様の小貝が見つかる。"
+    },
+    "en": {
+      "summary": "Adzuki-bean Snail. A small (7–10 mm) terrestrial snail of broadleaf forest floors from Honshu to Kyushu; glossy red-brown shell resembling an adzuki bean. Hides under leaf litter and rotting wood.",
+      "habitat_hint": "Deciduous forest floors, under rotting wood, mossy stones.",
+      "finding_tips": "Year-round under leaf litter. The glossy red-brown bean-shaped shell is diagnostic."
+    },
+    "zh": {
+      "summary": "赤豆螺（アズキガイ）。日本本州至九州落叶林下生陆生小型腹足类，壳高7〜10 mm，光泽赤褐似赤豆，藏于落叶朽木下。",
+      "habitat_hint": "落叶阔叶林下、朽木下、苔藓石下。",
+      "finding_tips": "全年翻落叶朽木可见赤褐色赤豆状之小贝。"
+    }
+  },
+  "Pyralis farinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カシノシマメイガ。世界中の倉庫害虫として知られるツトガ科の蛾。前翅長10〜13 mm、前翅は赤紫褐色で中央部が淡黄色、波状の白線で区切られる。幼虫は穀物・乾物を食害。",
+      "habitat_hint": "倉庫、米蔵、餌料庫、屋内貯蔵食品周辺。",
+      "finding_tips": "通年（屋内）、灯火や倉庫内で前翅中央が淡黄色＋両側が赤紫褐色の小型蛾を探す。"
+    },
+    "en": {
+      "summary": "Meal Moth. A worldwide pest pyralid of stored grains; forewings 10–13 mm, red-purple brown with a pale yellow central band bordered by wavy white lines.",
+      "habitat_hint": "Granaries, food stores, animal feed warehouses, indoor pantries.",
+      "finding_tips": "Year-round indoors. The tri-coloured forewing (purple-brown / yellow / purple-brown) is diagnostic."
+    },
+    "zh": {
+      "summary": "紫斑谷螟（カシノシマメイガ）。世界仓储常见之螟蛾科蛾，前翅长10〜13 mm，前翅赤紫褐色中央淡黄、由波状白线分隔；幼虫食害谷物干货。",
+      "habitat_hint": "粮仓、米仓、饲料库、室内储食处。",
+      "finding_tips": "全年（室内）于灯下或仓库寻翅中央淡黄两侧赤紫褐之小型蛾。"
+    }
+  },
+  "Quercus dentata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カシワ。北海道〜九州の海岸〜山地に生えるブナ科の落葉高木。葉は大きく波状の鋸歯があり、枯葉が春まで残る。葉は柏餅に使われる。雌雄同株、秋に大きなドングリ。",
+      "habitat_hint": "海岸の砂丘、丘陵地、山地の乾燥した尾根、雑木林。",
+      "finding_tips": "通年、波状鋸歯の大型葉（20〜30 cm）と冬も枝に残る枯葉を探す。秋にずんぐりした大型ドングリ。"
+    },
+    "en": {
+      "summary": "Daimyo Oak. A deciduous Fagaceae tree of Hokkaido through Kyushu, in coastal dunes through hills; large wavy-toothed leaves (20–30 cm) that persist on twigs through winter. Leaves wrap the kashiwa-mochi rice cake.",
+      "habitat_hint": "Coastal dunes, hills, dry montane ridges, secondary woodland.",
+      "finding_tips": "Year-round. Large wavy-margined leaves and persistent dead leaves on winter twigs are diagnostic; stout acorns in autumn."
+    },
+    "zh": {
+      "summary": "槲树（カシワ）。日本北海道至九州海岸至山地生壳斗科落叶乔木，叶大具波状齿，枯叶宿存至春；叶用于包柏饼，秋结大型橡子。",
+      "habitat_hint": "海岸沙丘、丘陵、山地干燥脊、杂木林。",
+      "finding_tips": "全年寻波状齿大叶（20〜30 cm）及冬枝宿存枯叶；秋见短粗大橡子。"
+    }
+  },
+  "Rhododendron dilatatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-leaved Azalea",
+    "aliases": {
+      "zh-Hans": "三叶杜鹃"
+    },
+    "ja": {
+      "summary": "ミツバツツジ。本州（関東〜近畿）の山地の岩場・尾根に生えるツツジ科の落葉低木。早春、葉に先立って径3〜4 cmの紅紫色花を開く。枝先に葉が3枚輪生するのが名の由来。",
+      "habitat_hint": "山地の岩場、痩せ尾根、明るい落葉樹林の林縁。",
+      "finding_tips": "3〜5月、葉が出る前に枝先に咲く紅紫色花を探す。花後に3枚輪生する菱形葉。"
+    },
+    "en": {
+      "summary": "Three-leaved Azalea. A deciduous Rhododendron of rocky ridges in Honshu (Kanto–Kinki); 3–4 cm rose-purple flowers appear before the leaves, which are borne in whorls of three at the twig tip.",
+      "habitat_hint": "Rocky ridges, lean ridgelines, light deciduous forest edges in hill country.",
+      "finding_tips": "March–May. Rose-purple flowers on bare twigs are diagnostic, followed by the characteristic 3-leaf whorl."
+    },
+    "zh": {
+      "summary": "三叶杜鹃（ミツバツツジ）。日本本州（关东至近畿）山地岩场、脊线生杜鹃花科落叶灌木，早春先花后叶，径3〜4 cm红紫花，枝端三叶轮生。",
+      "habitat_hint": "山地岩场、瘦脊、疏落叶林缘。",
+      "finding_tips": "3〜5月，叶前于裸枝寻红紫花；花后枝端三菱形叶轮生。"
+    }
+  },
+  "Rinaca jonasii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jonas's Emperor Moth",
+    "aliases": {
+      "zh-Hans": "樗蚕近缘"
+    },
+    "ja": {
+      "summary": "ヒメヤママユ。本州〜九州に分布するヤママユガ科の大型蛾。開張80〜110 mm、前翅は黄褐色〜赤褐色で各翅に一つずつ眼状紋。秋に出現し灯火に飛来。幼虫はブナ科・カバノキ科を食べる。",
+      "habitat_hint": "雑木林、社寺林、ブナ科樹木のある林。",
+      "finding_tips": "9〜11月、夜間灯火に飛来する大型蛾を探す。各翅の眼状紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Jonas's Emperor Moth. A large saturniid (wingspan 80–110 mm) of Honshu through Kyushu; yellow- to red-brown wings each bearing a single eyespot. Adults fly in autumn at lights; larvae on Fagaceae and Betulaceae.",
+      "habitat_hint": "Secondary woodland, shrine groves with oaks and birches.",
+      "finding_tips": "September–November at lights. Large size and four single eyespots are diagnostic."
+    },
+    "zh": {
+      "summary": "（ヒメヤママユ）。日本本州至九州大蚕蛾科大型蛾，开张80〜110 mm，前翅黄褐至赤褐，每翅各具一眼斑；秋季趋光，幼虫食壳斗、桦木科。",
+      "habitat_hint": "杂木林、社寺林、壳斗科树林。",
+      "finding_tips": "9〜11月夜间趋光；每翅一眼斑为辨识要点。"
+    }
+  },
+  "Sasamorpha borealis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スズタケ。本州〜九州の山地林床に大群落をつくるイネ科の小型タケ類。稈は径3〜8 mm、高さ1〜2 m。葉は披針形で5〜8枚束生。鈴のような穂をつけることが名の由来。",
+      "habitat_hint": "ブナ帯〜温帯の山地林床、明るい林縁、伐採跡地。",
+      "finding_tips": "通年、山地林床で密生する細い稈と束生する披針形葉を探す。一斉開花は数十年に一度。"
+    },
+    "en": {
+      "summary": "Northern Bamboo. A small Poaceae bamboo (culms 3–8 mm thick, 1–2 m tall) forming dense understorey colonies in hill forests of Honshu through Kyushu; lance-shaped leaves clustered 5–8 per node.",
+      "habitat_hint": "Floor of cool-temperate beech zone forests, light forest edges, clearings.",
+      "finding_tips": "Year-round. Dense slender culms with clustered lance leaves are diagnostic; mass flowering occurs only decades apart."
+    },
+    "zh": {
+      "summary": "北方华箬竹（スズタケ）。日本本州至九州山地林下成大丛禾本科小型竹类，秆径3〜8 mm、高1〜2 m，叶披针形5〜8枚束生。",
+      "habitat_hint": "山毛榉带至温带山地林下、疏林缘、伐采迹地。",
+      "finding_tips": "全年于山地林下寻密生细秆与束生披针叶；几十年一次集体开花。"
+    }
+  },
+  "Septifer bilocularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クジャクガイ。本州中部以南の岩礁海岸潮間帯に固着するイガイ科の二枚貝。殻長2〜4 cm、緑褐色〜青緑色で放射状の細い溝。足糸で岩に着生し群生する。",
+      "habitat_hint": "岩礁海岸の潮間帯、岩面に密集して足糸で着生。",
+      "finding_tips": "通年、岩礁の潮間帯で緑褐色の小型イガイの群落を探す。放射状の細溝が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ledge Mussel. A small intertidal mussel (Mytilidae) of central Honshu south, 2–4 cm, greenish-brown with fine radial sculpture; attaches to rocks by byssus and forms dense beds.",
+      "habitat_hint": "Intertidal rocky shores, attached to bare rock by byssus.",
+      "finding_tips": "Year-round in dense beds on rock faces. The fine radial sculpture on a greenish-brown shell is diagnostic."
+    },
+    "zh": {
+      "summary": "隔贻贝（クジャクガイ）。日本中部以南岩岸潮间带贻贝科双壳类，壳长2〜4 cm，绿褐至青绿，具放射细沟，借足丝附岩成群。",
+      "habitat_hint": "岩岸潮间带，足丝固着于岩面。",
+      "finding_tips": "全年于岩岸潮间带寻绿褐色小型贻贝群；放射细沟为辨识要点。"
+    }
+  },
+  "Sinomenium acutum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオツヅラフジ。本州〜九州の山野に生えるツヅラフジ科の落葉性つる性木本。茎は丈夫で古来葛籠（つづら）の材料に。葉は心形〜浅裂、夏に黄緑色の小花の円錐花序、秋に黒い果実。雌雄異株。",
+      "habitat_hint": "山地林縁、河岸、社寺林の樹木に絡む。",
+      "finding_tips": "夏〜秋、心形〜浅裂葉の蔓と黒い液果の総状を探す。茎は古い蔓籠の素材。"
+    },
+    "en": {
+      "summary": "Orientvine. A deciduous woody climber (Menispermaceae) of Honshu through Kyushu, with tough stems traditionally used to weave wicker baskets; cordate or shallowly lobed leaves, yellow-green panicles in summer, black drupes in autumn; dioecious.",
+      "habitat_hint": "Forest edges, riverbanks, climbing trees in shrine groves.",
+      "finding_tips": "Summer–autumn. Cordate to lobed leaves on a tough climbing stem with black grape-like fruit are diagnostic."
+    },
+    "zh": {
+      "summary": "汉防己（オオツヅラフジ）。日本本州至九州山野生防己科落叶木质藤本，茎坚韧古作葛笼料；叶心形或浅裂，夏开黄绿小花圆锥花序，秋结黑果，雌雄异株。",
+      "habitat_hint": "山地林缘、河岸、社寺林乔木上。",
+      "finding_tips": "夏秋寻心形或浅裂叶之藤蔓与黑色液果穗。"
+    }
+  },
+  "Sinotaia quadrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Mystery Snail (small)",
+    "ja": {
+      "summary": "ヒメタニシ。本州〜九州の水田・用水路・池沼に普通の淡水巻貝。殻高25〜35 mm、円錐形で殻色は淡褐色〜緑褐色。デトリタス食で水質浄化に寄与。卵胎生で幼貝を産む。",
+      "habitat_hint": "水田、用水路、ため池、緩流の小川、湖沼。",
+      "finding_tips": "通年、水田や池の泥底で円錐形の小型タニシを探す。大型のオオタニシより小型で殻が滑らか。"
+    },
+    "en": {
+      "summary": "A common 25–35 mm freshwater operculate snail of paddies, ditches and ponds across Honshu through Kyushu; cone-shaped, pale to greenish brown. Detritivore that helps clear water; ovoviviparous.",
+      "habitat_hint": "Rice paddies, irrigation ditches, ponds, slow streams, lakes.",
+      "finding_tips": "Year-round on muddy bottoms of paddies and ponds. Smaller and smoother shell than Cipangopaludina chinensis."
+    },
+    "zh": {
+      "summary": "石田螺（ヒメタニシ）。日本本州至九州水田、沟渠、池塘常见之淡水有厣腹足类，壳高25〜35 mm，圆锥形、淡褐至绿褐色；食碎屑助净化水质，卵胎生。",
+      "habitat_hint": "水田、灌溉渠、池塘、缓流小溪、湖沼。",
+      "finding_tips": "全年于水田池底寻圆锥小型田螺；较中华圆田螺小且壳光滑。"
+    }
+  },
+  "Sitobolium wilfordii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wilford's Lace Fern",
+    "aliases": {
+      "zh-Hans": "光叶碗蕨"
+    },
+    "ja": {
+      "summary": "オウレンシダ。本州〜九州の山地林床に生えるコバノイシカグマ科の小型常緑シダ。葉は3〜4回羽状で繊細、葉柄は黒紫色。オウレン（キンポウゲ科）の葉に似ることが名の由来。",
+      "habitat_hint": "山地のスギ・ヒノキ林の林床、湿った林縁、岩面。",
+      "finding_tips": "通年、林床で繊細な3〜4回羽状の小型葉と黒紫色の葉柄を探す。"
+    },
+    "en": {
+      "summary": "Wilford's Lace Fern. A delicate small evergreen fern (Dennstaedtiaceae) of Honshu through Kyushu, with 3–4-pinnate finely divided fronds on dark purple-brown stipes; named for resemblance to Coptis japonica leaves.",
+      "habitat_hint": "Cedar/cypress forest floors, moist forest edges, mossy rocks.",
+      "finding_tips": "Year-round. Finely divided 3–4-pinnate fronds with dark purple stipes are diagnostic."
+    },
+    "zh": {
+      "summary": "光叶碗蕨（オウレンシダ）。日本本州至九州山地林下生碗蕨科小型常绿蕨，叶三至四回羽状细裂，叶柄黑紫色。",
+      "habitat_hint": "山地杉桧林下、湿润林缘、岩面。",
+      "finding_tips": "全年于林下寻细裂三至四回羽状小叶与黑紫叶柄。"
+    }
+  },
+  "Solenopsis japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Thief Ant",
+    "aliases": {
+      "zh-Hans": "日本火蚁"
+    },
+    "ja": {
+      "summary": "トフシアリ。本州〜九州に分布するアリ科の小型アリ。体長1.5〜2 mm、淡黄褐色で目立たず、他のアリの巣に侵入して幼虫を盗む「盗蟻」習性。攻撃性は低い。",
+      "habitat_hint": "地中、石下、家屋床下、他種アリの巣のすぐ近く。",
+      "finding_tips": "通年、石下や朽木下で淡黄褐色の極小アリを探す。在来の小型アリで害虫の Solenopsis invicta（外来）とは別種、留意。"
+    },
+    "en": {
+      "summary": "Japanese Thief Ant. A tiny (1.5–2 mm) pale yellow-brown native ant of Honshu through Kyushu; nests next to other ant colonies and steals brood. Non-aggressive — distinct from the invasive fire ant S. invicta.",
+      "habitat_hint": "Subsurface, under stones, in house foundations near other ant nests.",
+      "finding_tips": "Year-round under stones. Tiny pale yellow-brown ants near another colony are diagnostic. Native — not the invasive fire ant."
+    },
+    "zh": {
+      "summary": "日本火蚁（トフシアリ）。日本本州至九州蚁科小型蚁，体长1.5〜2 mm，淡黄褐色，习性「盗蚁」于他蚁巢中盗取幼虫，攻击性低。与入侵种红火蚁 S. invicta 不同。",
+      "habitat_hint": "地下、石下、屋基处他蚁巢附近。",
+      "finding_tips": "全年翻石可见淡黄褐色极小蚁；本土种，非入侵红火蚁。"
+    }
+  },
+  "Solidago gigantea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "巨大一枝黄花"
+    },
+    "ja": {
+      "summary": "オオアワダチソウ。北米原産のキク科多年草で日本に明治期に渡来、各地で野生化。高さ1〜2.5 m、初秋に黄色の小花を円錐状に多数つける。セイタカアワダチソウより茎が無毛で花期がやや早い。",
+      "habitat_hint": "河川敷、空き地、道端、湿った草地。",
+      "finding_tips": "8〜10月、無毛の茎と初秋の黄色花穂で識別。セイタカアワダチソウ（茎に毛、花期10〜11月）と区別。"
+    },
+    "en": {
+      "summary": "Tall Goldenrod. A North American perennial Asteraceae introduced to Japan in the Meiji era and now naturalised; 1–2.5 m with yellow plumes in early autumn. Distinguished from S. canadensis (S. altissima) by hairless stems and earlier flowering.",
+      "habitat_hint": "Riverbanks, waste ground, roadsides, damp grassland.",
+      "finding_tips": "August–October. Smooth glabrous stem and earlier yellow plume separate it from the hairy-stemmed S. altissima."
+    },
+    "zh": {
+      "summary": "巨大一枝黄花（オオアワダチソウ）。北美原产菊科多年生草本，明治期传入日本广归化；高1〜2.5 m，初秋抽黄色圆锥花序。较加拿大一枝黄花茎无毛、花期早。",
+      "habitat_hint": "河滩、荒地、路旁、湿润草地。",
+      "finding_tips": "8〜10月，茎无毛、花期较早可与加拿大一枝黄花区分。"
+    }
+  },
+  "Sorbus japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Whitebeam",
+    "ja": {
+      "summary": "ウラジロノキ／ナナカマド類。本州〜九州の山地に生えるバラ科の落葉高木。葉裏が白い綿毛で覆われるのが特徴。初夏に白い散房花序、秋に赤い小型梨果。",
+      "habitat_hint": "山地の落葉広葉樹林、尾根、岩場斜面。",
+      "finding_tips": "通年、葉裏が白く見える広葉樹を探す。秋に赤い小果が房状につく。"
+    },
+    "en": {
+      "summary": "Japanese Whitebeam. A deciduous Rosaceae tree of Honshu through Kyushu hills, diagnostic for its white-tomentose leaf underside; white corymbs in early summer, small red pomes in autumn.",
+      "habitat_hint": "Hill deciduous forests, ridges, rocky slopes.",
+      "finding_tips": "Year-round. Conspicuously white leaf undersides separate it from other broadleaves; clusters of small red fruit in autumn."
+    },
+    "zh": {
+      "summary": "日本花楸（ナナカマド）。日本本州至九州山地生蔷薇科落叶乔木，叶背被白色绵毛；初夏开白色伞房花序，秋结赤红小型梨果。",
+      "habitat_hint": "山地落叶阔叶林、脊线、岩坡。",
+      "finding_tips": "全年寻叶背白色之阔叶树；秋见赤红小果成簇。"
+    }
+  },
+  "Sphrageidus similis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モンシロドクガ。本州〜九州に普通のドクガ科の蛾。前翅長14〜20 mm、白色で前翅前縁中央に小黒点1個。幼虫・蛹・成虫・卵塊すべてに毒針毛があり触れると皮膚炎。",
+      "habitat_hint": "雑木林、サクラ・バラ科樹木、公園、街路樹。",
+      "finding_tips": "5〜9月、灯火や葉上の白い蛾を探す。前翅の小黒点が識別ポイント。触れない。"
+    },
+    "en": {
+      "summary": "Yellow-tail. A common erebid moth (Lymantriinae) of Honshu through Kyushu, forewing 14–20 mm, pure white with a single small black dot on the costa. All life stages bear urticating hairs — contact causes dermatitis.",
+      "habitat_hint": "Secondary woodland, cherries and other Rosaceae, parks, street trees.",
+      "finding_tips": "May–September at lights or on leaves. White forewing with single black costal spot is diagnostic. Do not touch."
+    },
+    "zh": {
+      "summary": "黄尾毒蛾（モンシロドクガ）。日本本州至九州常见毒蛾科蛾，前翅长14〜20 mm，纯白前缘中央具一黑点；各虫态及卵块均具螫毛，触之致皮炎。",
+      "habitat_hint": "杂木林、樱及蔷薇科树、公园、街道树。",
+      "finding_tips": "5〜9月趋光或叶上寻；前翅前缘单黑点为辨识要点；勿触。"
+    }
+  },
+  "Spicantopsis niponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Hard Fern",
+    "aliases": {
+      "zh-Hans": "日本乌毛蕨"
+    },
+    "ja": {
+      "summary": "シシガシラ。本州〜九州の山地林床に生えるシシガシラ科の常緑シダ。栄養葉は地表に放射状に広がり、胞子葉は中央から直立する独特の二形葉。葉は1回羽状で硬質。",
+      "habitat_hint": "山地のスギ・ヒノキ林床、湿った林縁、北斜面。",
+      "finding_tips": "通年、林床で放射状に広がる栄養葉と中央から立つ細長い胞子葉の二形を探す。"
+    },
+    "en": {
+      "summary": "Japanese Hard Fern. An evergreen fern of Honshu through Kyushu with distinct dimorphic fronds — sterile fronds radiating along the ground and erect narrower fertile fronds rising from the centre. Single-pinnate, leathery.",
+      "habitat_hint": "Cedar/cypress forest floors, moist edges, north-facing slopes.",
+      "finding_tips": "Year-round. The dimorphic frond arrangement (sterile rosette + erect central fertile fronds) is diagnostic."
+    },
+    "zh": {
+      "summary": "日本乌毛蕨（シシガシラ）。日本本州至九州山地林下生乌毛蕨科常绿蕨，叶二形：营养叶贴地呈放射状，孢子叶自中心直立。叶一回羽状质硬。",
+      "habitat_hint": "山地杉桧林下、湿润林缘、北坡。",
+      "finding_tips": "全年于林下寻地面放射状营养叶与中央直立孢子叶之二形结构。"
+    }
   }
 }
