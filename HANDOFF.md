@@ -24,9 +24,9 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,583 visible species / 126,491 visible park-species pairs** as of 2026-05-26 (post-dupemerge). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 35.2 MB). **2,537 species** have curated profiles in ja/en/zh/zhT (10,148 rows). **np≥8 tier is 100% covered** (2026-05-28, A30–A37 sweep, +144 profiles). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-29 (post-cleanup). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 35.2 MB). **2,537 species** have curated profiles in ja/en/zh/zhT (10,148 rows). **np≥8 tier is 100% covered** (2026-05-28, A30–A37 sweep, +144 profiles). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
-**DB integrity (2026-05-27)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders: 7 generic words (カワヅザクラ np=6, コブクザクラ np=3, スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2) — all low np, not worth bespoke fixes.
+**DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
 ## In progress
 
@@ -88,6 +88,13 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-29 (Claude) — data-quality cleanup sweep (no commit-tracked DB; manual_species.json + docs re-exported)
+- **Bufo fragmentation fixed**: `Bufo japonicus` (id=9929, romaji ja-name "Nihon Hikigaeru", np=84, no tid) was a split-off dup of `Bufo formosus`/アズマヒキガエル (id=820). iNat treats "Bufo japonicus" as a deprecated name split into formosus (Kanto) + praetextatus (W.Japan). 820 already held 92 "Bufo japonicus" raw obs via its sci alias → merged 9929→820 (now 176 + 353 obs). Romaji entry gone.
+- **3 sakura cultivars resolved** (were NULL-sci): カワヅザクラ (id=106, ヅ-variant) merged into existing カワズサクラ (id=558, `Cerasus × kanzakura 'Kawazu-zakura'`); コブクザクラ (id=175) → `Cerasus 'Kobuku-zakura'`; ジンダイアケボノ (id=234) → `Cerasus × yedoensis 'Jindai-akebono'`. All 3 added to `data/manual_species.json` for future-proofing.
+- **2 non-taxa deleted**: コミュニケーション (text-mining junk) + タケノコ (bamboo shoot, not a taxon).
+- Net: species 9770→9766; null-sci visible 28→23; romaji-ascii visible species 6→5 (remaining 5 lack iNat ja-name/tid, documented). Ran `dedupe`, re-exported (35.2 MB), synced docs/. Integrity re-verified all-green.
+- **Backups pruned**: 9 → 2 (kept `bak_pre_tsutsuji_sawara` 5/27 + `bak_pre_cleanup_20260529` today); freed ~742 MB.
 
 ### 2026-05-28 (Claude) — np=8 tier cleared: A30–A37 sweep (2371→2537, +144; commits `0067a12` → `cce7b66`)
 - 8 consecutive batches (A30–A37) alphabetically swept Acer → Zoothera. Final batch A37 (12 entries) closed the tier; np≥8 now 0 candidates remaining.
