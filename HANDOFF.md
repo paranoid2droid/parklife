@@ -24,7 +24,7 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-29 (post-cleanup). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 35.2 MB). **2,537 species** have curated profiles in ja/en/zh/zhT (10,148 rows). **np≥8 tier is 100% covered** (2026-05-28, A30–A37 sweep, +144 profiles). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-29 (post-cleanup). Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 35.6 MB). **2,694 species** have curated profiles in ja/en/zh/zhT (10,772 rows). **np≥7 tier is 100% covered** (2026-05-29, A38–A44 sweep, +158 profiles; np≥8 was cleared 2026-05-28). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
 **DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
@@ -42,16 +42,17 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **species_profile curation — np≥8 DONE. Continue from A38 into np=7 tier** *(at 2,537 / 2026-05-28)*
+1. **species_profile curation — np≥7 DONE. Continue from A45 into np=6 tier** *(at 2,694 / 2026-05-29)*
    - **Sidecar workflow** (`data/species_profiles_extra.json`): every entry MUST include `common_name_en` (if DB has NULL or generic) + `aliases.{zh-Hans}` (if DB lacks it) alongside the 4-language profile. zhT auto-derived via OpenCC. See `BATCH_TEMPLATE.md` at repo root.
-   - **Query next batch** — change `np >= 9` to `np >= 7`:
+   - **Query next batch** — change `np >= 7` to `np >= 6` (then 5, 4, …):
      ```sh
-     sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' AND s.common_name_ja NOT LIKE '%・%' AND s.common_name_ja NOT LIKE '%（%' GROUP BY s.id HAVING np >= 7 ORDER BY np DESC, s.scientific_name LIMIT 30;"
+     sqlite3 data/parklife.db "SELECT s.scientific_name, s.common_name_ja, COUNT(DISTINCT ps.park_id) AS np FROM species s JOIN park_species ps ON ps.species_id=s.id LEFT JOIN species_profile sp ON sp.species_id=s.id WHERE sp.species_id IS NULL AND s.scientific_name IS NOT NULL AND s.common_name_ja IS NOT NULL AND s.common_name_ja != '' AND SUBSTR(s.common_name_ja,1,1) NOT BETWEEN 'A' AND 'Z' AND s.common_name_ja NOT LIKE '%・%' AND s.common_name_ja NOT LIKE '%（%' GROUP BY s.id HAVING np >= 6 ORDER BY np DESC, s.scientific_name LIMIT 30;"
      ```
    - **Per-batch loop**: write `/tmp/profile_batchN.py` → run → `.venv/bin/python -m scripts.seed_species_profiles` → `scripts.export_html` → `cp data/export/index.html docs/index.html` → commit every 1–2 batches.
    - **np≥9 cleanup history**: A24 cleared romaji-rescued high-np (ヤハズエンドウ et al). A25–A28 cleared the regular np=9 species (90 entries). A29 closed the last 2 edge cases (Malus toringo had romaji ja `ko-nashi` → fixed to ズミ in DB; Macrogerris is a subgenus treated as ツツジ属 was).
    - **np=8 cleanup history (2026-05-28, A30–A37)**: cleared 144 species across 8 batches; sidecar backfilled ~74 common_name_en + ~40 zh-Hans aliases. Demo 34.8 → 35.2 MB.
-   - **Remaining tiers**: np≥7 → ~250, np≥5 → ~600, all visible → ~4,700. Batch of 22 costs ~10–15k tokens.
+   - **np=7 cleanup history (2026-05-29, A38–A44)**: cleared all 158 np=7 species across 7 batches (Acanthosoma→Vibidia); ~75 common_name_en + ~38 zh-Hans aliases backfilled. Demo 35.2 → 35.6 MB.
+   - **Remaining tiers**: np≥6 → ~150, np≥5 → ~350, all visible → ~4,500. Batch of 22 costs ~10–15k tokens.
 
 2. **Periodic latent-data maintenance** *(run after every major ingestion; cheap)*
    - `.venv/bin/python -m scripts.merge_duplicate_species` — collapses synonym pairs sharing one `inat_taxon_id`; NULLs bogus tids covering many unrelated species. Last run 2026-05-26 (-55 dups, 6 bogus tids NULLed).
@@ -88,6 +89,17 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-29 (Claude) — np=7 tier cleared: A38–A44 sweep (2536→2694, +158; commits this session)
+- 7 consecutive batches alphabetically swept Acanthosoma → Vibidia; np≥7 now 0 candidates remaining (verified).
+- **A38** (+24): Acanthosoma→Buxus. Honshu Maple, Grey Burrowing Snake (Achalinus), Many-sepal anemone, Snake Amanita (toxic).
+- **A39** (+24): Calidris→Eleutherococcus. Ruff, Taiwan Cherry + Kawazu-zakura cultivar, Strawberry conch, Green-eyed Robber Fly.
+- **A40** (+24): Endotricha→Lepista. Harlequin Duck, Silver Carp, Fall Webworm, Festive Sea Slug (Aoumiushi), Blewit.
+- **A41** (+24): Lichenophanes→Ophioglossum thermale. Tanuki (Nyctereutes), Dawn Redwood, Tallow tree, Sword fern, two adder's-tongue ferns.
+- **A42** (+24): Ophioglossum vulgatum→Rattus. Red Phalarope, Moss-pink, Samurai slave-making ant (Polyergus), Flower crab, Rapa whelk.
+- **A43** (+24): Rondibilis→Sympetrum. Rosalia batesi (iconic azure longhorn), Pussy willow, Korean stewartia, Red-veined Darter.
+- **A44** (+14): Tachycines→Vibidia CLOSEOUT. Greenhouse Camel Cricket, Baldcypress, Horned Turban (Sazae), 12-Spot fungus-eating ladybird.
+- Cumulative sidecar backfills ~75 common_name_en + ~38 zh-Hans aliases. Demo 35.2 → 35.6 MB. **np≥7 coverage 100%.**
 
 ### 2026-05-29 (Claude) — data-quality cleanup sweep (no commit-tracked DB; manual_species.json + docs re-exported)
 - **Bufo fragmentation fixed**: `Bufo japonicus` (id=9929, romaji ja-name "Nihon Hikigaeru", np=84, no tid) was a split-off dup of `Bufo formosus`/アズマヒキガエル (id=820). iNat treats "Bufo japonicus" as a deprecated name split into formosus (Kanto) + praetextatus (W.Japan). 820 already held 92 "Bufo japonicus" raw obs via its sci alias → merged 9929→820 (now 176 + 353 obs). Romaji entry gone.
