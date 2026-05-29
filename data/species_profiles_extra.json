@@ -59209,5 +59209,346 @@
       "habitat_hint": "池沼、湿地、蓄水池、缓流水边。",
       "finding_tips": "7 至 10 月，于池沼周边寻找。红色身体与翅基橙色斑为辨识要点。"
     }
+  },
+  "Tachycines asynamorus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "灶马"
+    },
+    "ja": {
+      "summary": "クラズミウマ。カマドウマ科の昆虫。翅がなく、長い触角と発達した後脚で跳ねる。背中が丸く盛り上がる。暗く湿った場所を好み、屋内や物置にも現れる。鳴かない。",
+      "habitat_hint": "床下、物置、洞穴、林床の暗く湿った場所。",
+      "finding_tips": "夜、暗く湿った場所で探します。翅がなく背中が丸く盛り上がり、長い触角と脚で跳ねる姿が識別ポイント。"
+    },
+    "en": {
+      "summary": "Greenhouse Camel Cricket. A wingless camel cricket that jumps with long antennae and powerful hind legs, with a humped back. It favours dark, damp places and enters sheds and houses; it does not sing.",
+      "habitat_hint": "Under floors, sheds, caves, and dark damp forest floor.",
+      "finding_tips": "At night search dark, damp places. The wingless humped body and long antennae and legs are diagnostic."
+    },
+    "zh": {
+      "summary": "灶马（クラズミウマ）。穴螽科昆虫，无翅，以长触角与发达后足跳跃，背部隆起。喜阴暗潮湿处，常入室内与储物间，不鸣叫。",
+      "habitat_hint": "地板下、储物间、洞穴、阴湿林床。",
+      "finding_tips": "夜间于阴湿处寻找。无翅、背隆、长触角与长足跳跃之姿为辨识要点。"
+    }
+  },
+  "Tagetes minuta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "印加孔雀草"
+    },
+    "ja": {
+      "summary": "シオザキソウ。南米原産でキク科の一年草。マリーゴールドの仲間で、強い香りをもつ。荒れ地や道端に生える外来植物で、淡黄色の小さな頭花を多数つける。",
+      "habitat_hint": "荒れ地、道端、河川敷、空き地。",
+      "finding_tips": "8〜11月、荒れ地で淡黄色の小さな頭花を探します。羽状に裂けた葉と独特の強い香りが識別ポイント。"
+    },
+    "en": {
+      "summary": "Khakibush (southern marigold). An introduced South American annual of the daisy family, a strongly scented marigold relative of waste ground and roadsides bearing many small pale-yellow flower heads.",
+      "habitat_hint": "Waste ground, roadsides, riverbanks, and vacant lots.",
+      "finding_tips": "From August to November look on waste ground for small pale-yellow flower heads. The pinnately divided leaves and strong scent are diagnostic."
+    },
+    "zh": {
+      "summary": "印加孔雀草（シオザキソウ）。原产南美的菊科一年生草本，万寿菊近亲，气味浓烈，生于荒地路边，密生淡黄色小头状花，为外来植物。",
+      "habitat_hint": "荒地、路边、河滩、空地。",
+      "finding_tips": "8 至 11 月，于荒地寻找淡黄色小头状花。羽裂叶与独特浓烈气味为辨识要点。"
+    }
+  },
+  "Takahashia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本扁链蚧"
+    },
+    "ja": {
+      "summary": "ヒモワタカイガラムシ。カイガラムシの一種。雌は枝に固着し、白いひも状（リボン状）の長い卵のうを枝から垂らすことで知られる。エノキやムクノキなどの樹木につく。",
+      "habitat_hint": "エノキ・ムクノキなどの落葉樹の枝、街路樹、公園樹。",
+      "finding_tips": "春〜初夏、樹木の枝から垂れる白いひも状の卵のうを探します。リボンのように長く伸びる白い卵のうが識別ポイント。"
+    },
+    "en": {
+      "summary": "String cottony scale. A scale insect whose female fixes to twigs and trails a long white ribbon-like egg sac from the branch; it infests hackberry (Celtis), Aphananthe, and other trees.",
+      "habitat_hint": "Twigs of hackberry and related deciduous trees; street and park trees.",
+      "finding_tips": "From spring to early summer look for white ribbon-like egg sacs hanging from twigs. The long, ribbon-like white egg sac is diagnostic."
+    },
+    "zh": {
+      "summary": "日本扁链蚧（ヒモワタカイガラムシ）。介壳虫的一种，雌虫固着于枝条，自枝上垂下白色长丝带状（绶带状）卵囊，寄生于朴树、糙叶树等。",
+      "habitat_hint": "朴树、糙叶树等落叶树枝条、行道树、公园树。",
+      "finding_tips": "春至初夏，于树木枝条寻找垂下的白色丝带状卵囊。如绶带般长垂的白色卵囊为辨识要点。"
+    }
+  },
+  "Taxodium distichum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "落羽杉"
+    },
+    "ja": {
+      "summary": "ラクウショウ（ヌマスギ）。北米原産のヒノキ科の落葉高木。湿地や水辺に強く、根の周りに「気根（呼吸根）」を地上に突き出す。秋にレンガ色に紅葉する。メタセコイアに似るが葉は互生。",
+      "habitat_hint": "水辺、池畔、湿地、公園の植栽。",
+      "finding_tips": "一年中、水辺で地上に突き出す気根（呼吸根）を探します。互生する線形の葉と、ぼこぼこと立つ気根が識別ポイント。"
+    },
+    "en": {
+      "summary": "Baldcypress. A deciduous conifer native to North America, tolerant of wet ground; around its base it pushes up 'knees' (pneumatophores). It turns brick-red in autumn and resembles dawn redwood, but its needles are alternate.",
+      "habitat_hint": "Watersides, pond margins, wetlands, and parks (planted).",
+      "finding_tips": "Year-round look for the knees (root protrusions) at the water's edge. The alternate linear needles and the cypress knees are diagnostic."
+    },
+    "zh": {
+      "summary": "落羽杉（ラクウショウ）。原产北美的柏科落叶乔木，耐湿，基部周围地面伸出“膝根”（呼吸根），秋季转砖红色。似水杉但叶互生。",
+      "habitat_hint": "水边、池畔、湿地、公园栽培。",
+      "finding_tips": "全年于水边寻找伸出地面的膝根（呼吸根）。互生线形叶与突起的膝根为辨识要点。"
+    }
+  },
+  "Tenerus hilleri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-tipped Checkered Beetle",
+    "aliases": {
+      "zh-Hans": "黑端郭公虫"
+    },
+    "ja": {
+      "summary": "ツマグロツツカッコウムシ。カッコウムシ科の細長い甲虫。光沢のある体で、上翅の先（つま）が黒い。枯れ木や花に集まり、他の小昆虫を捕える捕食者。",
+      "habitat_hint": "雑木林、枯れ木、花の咲く林縁。",
+      "finding_tips": "初夏〜夏、枯れ木や花で探します。細長い光沢のある体と、上翅先端の黒色が識別ポイント。"
+    },
+    "en": {
+      "summary": "A slender checkered beetle with a glossy body and black elytral tips; it gathers on dead wood and flowers and preys on other small insects.",
+      "habitat_hint": "Woodland, dead wood, and flowering forest edges.",
+      "finding_tips": "From early summer to summer check dead wood and flowers. The slender glossy body with black elytral tips is diagnostic."
+    },
+    "zh": {
+      "summary": "黑端郭公虫（ツマグロツツカッコウムシ）。郭公虫科细长甲虫，体有光泽、鞘翅末端黑色，聚于枯木与花上，捕食其他小虫。",
+      "habitat_hint": "杂木林、枯木、开花的林缘。",
+      "finding_tips": "初夏至夏，于枯木与花上寻找。细长有光泽的体与鞘翅末端黑色为辨识要点。"
+    }
+  },
+  "Thanatus nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Running Crab Spider",
+    "aliases": {
+      "zh-Hans": "日本图蛛"
+    },
+    "ja": {
+      "summary": "ヤマトヤドカリグモ。エビグモ科（旧）のクモ。網を張らず、草地や地表をすばやく走り回って獲物を捕える徘徊性のクモ。灰褐色で背に縦の模様がある。",
+      "habitat_hint": "草地、河川敷、海岸、地表の開けた場所。",
+      "finding_tips": "春〜秋、草地や地表で走り回る姿を探します。網を張らず徘徊し、背の縦模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "A running crab spider (Philodromidae) that spins no web but roams quickly over grassland and ground to catch prey; greyish-brown with a lengthwise dorsal mark.",
+      "habitat_hint": "Grassland, riverbanks, coasts, and open ground.",
+      "finding_tips": "From spring to autumn watch for it running over grass and ground. Web-less roaming and the dorsal stripe are diagnostic."
+    },
+    "zh": {
+      "summary": "日本图蛛（ヤマトヤドカリグモ）。逍遥蛛科蜘蛛，不结网，于草地与地表疾走捕猎，灰褐色、背具纵纹。",
+      "habitat_hint": "草地、河滩、海岸、地表开阔处。",
+      "finding_tips": "春至秋，于草地地表寻找疾走之姿。不结网游猎与背部纵纹为辨识要点。"
+    }
+  },
+  "Thrixspermum japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本风兰"
+    },
+    "ja": {
+      "summary": "カヤラン。樹幹や枝に着生するラン科の小型の常緑着生植物。垂れ下がる茎に厚い葉を2列につけ、春に淡黄色の小さな花を咲かせる。",
+      "habitat_hint": "湿った林内の樹幹や枝、社寺林の古木。",
+      "finding_tips": "4〜5月、樹幹や枝に垂れ下がる小さな株を探します。2列に並ぶ厚い葉と淡黄色の小花が識別ポイント。"
+    },
+    "en": {
+      "summary": "East Asian thrixspermum. A small evergreen epiphytic orchid that grows on tree trunks and branches, with thick leaves in two ranks on a hanging stem and small pale-yellow flowers in spring.",
+      "habitat_hint": "Trunks and branches in damp forest; old trees in shrine groves.",
+      "finding_tips": "From April to May look for small hanging plants on trunks and branches. The two-ranked thick leaves and pale-yellow flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "日本风兰（カヤラン）。附生于树干与枝条的兰科小型常绿附生植物，下垂茎上厚叶二列排列，春季开淡黄色小花。",
+      "habitat_hint": "湿润林内树干与枝条、寺社林古木。",
+      "finding_tips": "4 至 5 月，于树干枝条寻找下垂的小株。二列排列的厚叶与淡黄小花为辨识要点。"
+    }
+  },
+  "Trichoplusia ni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "粉纹夜蛾"
+    },
+    "ja": {
+      "summary": "イラクサギンウワバ。ヤガ科ウワバの仲間の蛾。前翅に銀色の小さな「ニ」字状の紋がある。幼虫は尺取虫状に歩き、キャベツなど多くの作物の葉を食べる害虫。",
+      "habitat_hint": "畑地、草地、林縁、人家周辺の灯火。",
+      "finding_tips": "春〜秋の夜、灯火や畑で探します。前翅の銀色の「ニ」字状の紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ni Moth (cabbage looper). A noctuid moth with a small silver figure-of-eight (or 'ni') mark on each forewing; its larva is a looper and a pest on cabbage and many crops.",
+      "habitat_hint": "Fields, grassland, forest edges, and lights near homes.",
+      "finding_tips": "On nights from spring to autumn check lights and fields. The silver 'ni'-shaped forewing mark is diagnostic."
+    },
+    "zh": {
+      "summary": "粉纹夜蛾（イラクサギンウワバ）。夜蛾科金翅夜蛾类，前翅具银色“ニ”字形小斑，幼虫为尺蠖状的尺蠖虫，取食甘蓝等多种作物，为害虫。",
+      "habitat_hint": "农田、草地、林缘、民居周边灯光。",
+      "finding_tips": "春至秋夜间，于灯下或农田寻找。前翅银色“ニ”字形斑为辨识要点。"
+    }
+  },
+  "Trigomphus melampus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Early Clubtail",
+    "aliases": {
+      "zh-Hans": "黑足亚春蜓"
+    },
+    "ja": {
+      "summary": "コサナエ。平地〜丘陵の池沼や湿地に生息するサナエトンボ科の小型のトンボ。春に早い時期から現れる。黒地に黄色の斑紋をもち、水辺の地面や石にとまる。",
+      "habitat_hint": "平地〜丘陵の池沼、湿地、ため池。",
+      "finding_tips": "4〜6月、池沼の周辺の地面や石の上で探します。小型で黒地に黄斑のサナエトンボが識別ポイント。"
+    },
+    "en": {
+      "summary": "Early Clubtail. A small clubtail dragonfly of lowland and hill ponds and wetlands that appears early in spring; black with yellow markings, it perches on the ground and stones near water.",
+      "habitat_hint": "Lowland and hill ponds, wetlands, and reservoirs.",
+      "finding_tips": "From April to June check the ground and stones around ponds. A small black-and-yellow clubtail flying early in spring is the clue."
+    },
+    "zh": {
+      "summary": "黑足亚春蜓（コサナエ）。栖于平地至丘陵池沼湿地的春蜓科小型蜻蜓，春季较早出现，黑底具黄斑，停于水边地面与石上。",
+      "habitat_hint": "平地至丘陵池沼、湿地、蓄水池。",
+      "finding_tips": "4 至 6 月，于池沼周边地面石上寻找。小型、黑底黄斑、春季早出的春蜓为辨识要点。"
+    }
+  },
+  "Tripora divaricata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "莸"
+    },
+    "ja": {
+      "summary": "カリガネソウ。山地の林縁や湿った草地に生えるシソ科の多年草。秋に独特の形をした青紫色の花を咲かせ、雄しべが長く弓なりに突き出す。全体に独特のにおいがある。",
+      "habitat_hint": "山地の林縁、湿った草地、谷沿いの半日陰。",
+      "finding_tips": "8〜10月、林縁で青紫色の独特な花を探します。弓なりに突き出す長い雄しべと、雁（かりがね）に見立てた花形が識別ポイント。"
+    },
+    "en": {
+      "summary": "Odor bluebeard. A mint-family perennial of montane forest edges and damp grassland, bearing oddly shaped blue-purple flowers in autumn with long, arching, protruding stamens; the whole plant has a distinctive smell.",
+      "habitat_hint": "Montane forest edges, damp grassland, shaded valleys.",
+      "finding_tips": "From August to October look at forest edges for distinctive blue-purple flowers. The long arching stamens and the goose-shaped flower are diagnostic."
+    },
+    "zh": {
+      "summary": "莸（カリガネソウ）。生于山地林缘与湿润草地的唇形科多年生草本，秋开形态独特的蓝紫色花，雄蕊长而弓形突出，全株具特殊气味。",
+      "habitat_hint": "山地林缘、湿润草地、谷沿半阴处。",
+      "finding_tips": "8 至 10 月，于林缘寻找蓝紫色的独特花朵。弓形突出的长雄蕊与似雁的花形为辨识要点。"
+    }
+  },
+  "Turbo sazae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Horned Turban",
+    "aliases": {
+      "zh-Hans": "角蝾螺"
+    },
+    "ja": {
+      "summary": "サザエ。岩礁海岸にすむリュウテン科（サザエ科）の大型の巻貝。こぶし大の殻にとげ状の突起をもつことが多い。海藻を食べ、刺身や壺焼きとして広く食用にされる。",
+      "habitat_hint": "岩礁海岸、潮間帯〜浅海の海藻の茂る岩場。",
+      "finding_tips": "潮間帯〜浅海の岩礁で探します。とげ状の突起のある厚い殻と、石灰質のふた（蓋）が識別ポイント。"
+    },
+    "en": {
+      "summary": "Horned Turban. A large turban snail of rocky shores, its fist-sized shell often bearing spiny projections. It grazes seaweed and is widely eaten (as sashimi or 'tsuboyaki').",
+      "habitat_hint": "Rocky shores; seaweed-covered rocks from intertidal to shallows.",
+      "finding_tips": "Search rocky reefs from the intertidal to the shallows. The thick spiny shell and calcareous operculum (lid) are diagnostic."
+    },
+    "zh": {
+      "summary": "角蝾螺（サザエ）。栖于岩礁海岸的蝾螺科大型腹足类，拳大壳常具刺状突起，啃食海藻，广为食用（刺身或壶烧）。",
+      "habitat_hint": "岩礁海岸、潮间带至浅海多海藻的岩处。",
+      "finding_tips": "于潮间带至浅海岩礁寻找。带刺突的厚壳与石灰质口盖为辨识要点。"
+    }
+  },
+  "Umbonium giganteum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant Button Top Shell",
+    "aliases": {
+      "zh-Hans": "大马蹄螺"
+    },
+    "ja": {
+      "summary": "ダンベイキサゴ。砂浜や浅海の砂底にすむニシキウズ科の巻貝。低く平たいボタン状の殻をもち、色や模様に変化が多い。キサゴより大型で、食用にされる。",
+      "habitat_hint": "砂浜、内湾、浅海の砂底。",
+      "finding_tips": "砂浜や浅海の砂底で探します。低く平たいボタン状の殻と多彩な模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "Giant Button Top Shell. A top-shell of sandy beaches and shallow sand bottoms, with a low, flat, button-like shell highly variable in colour and pattern; larger than the related Umbonium costatum and eaten as food.",
+      "habitat_hint": "Sandy beaches, inner bays, and shallow sand bottoms.",
+      "finding_tips": "Search sandy beaches and shallow sand bottoms. The low, flat button-like shell with varied patterns is diagnostic."
+    },
+    "zh": {
+      "summary": "大马蹄螺（ダンベイキサゴ）。栖于沙滩与浅海沙底的马蹄螺科腹足类，壳低平如纽扣、色泽花纹多变，较近缘种大，可食。",
+      "habitat_hint": "沙滩、内湾、浅海沙底。",
+      "finding_tips": "于沙滩与浅海沙底寻找。低平如纽扣的壳与多变花纹为辨识要点。"
+    }
+  },
+  "Veronica polita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "婆婆纳"
+    },
+    "ja": {
+      "summary": "イヌノフグリ。道端や畑に生えるオオバコ科（旧ゴマノハグサ科）の越年草。早春に淡紅紫色の小さな花を咲かせる在来種で、近年は外来のオオイヌノフグリに押されて減少している。",
+      "habitat_hint": "道端、畑地、土手、日当たりのよい荒れ地。",
+      "finding_tips": "3〜5月、地表を這う小さな株で淡紅紫色の小花を探します。オオイヌノフグリより小さく淡い花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Gray Speedwell. A native winter annual of roadsides and fields (plantain family) with tiny pale pink-purple flowers in early spring; it has declined as the introduced bird's-eye speedwell has spread.",
+      "habitat_hint": "Roadsides, fields, banks, and sunny waste ground.",
+      "finding_tips": "From March to May look on small ground-creeping plants for tiny pale pink-purple flowers. Flowers smaller and paler than bird's-eye speedwell are diagnostic."
+    },
+    "zh": {
+      "summary": "婆婆纳（イヌノフグリ）。生于路边农田的车前科（旧玄参科）二年生草本，早春开淡红紫色小花，为在来种，近年因外来的阿拉伯婆婆纳扩散而减少。",
+      "habitat_hint": "路边、农田、土堤、向阳荒地。",
+      "finding_tips": "3 至 5 月，于贴地小株上寻找淡红紫色小花。花较阿拉伯婆婆纳更小更淡为辨识要点。"
+    }
+  },
+  "Vibidia duodecimguttata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "十二斑菌瓢虫"
+    },
+    "ja": {
+      "summary": "シロホシテントウ。テントウムシ科の小型の甲虫。橙褐色の地に12個ほどの白い斑点をもつ。葉の表面のうどんこ病菌（カビ）を食べる菌食性のテントウムシ。",
+      "habitat_hint": "林縁、草地、うどんこ病の出た葉のある場所。",
+      "finding_tips": "春〜秋、うどんこ病で白くなった葉の上で探します。橙褐色に白い斑点という配色が識別ポイント。"
+    },
+    "en": {
+      "summary": "12-Spot Ladybird. A small ladybird, orange-brown with about twelve white spots; it is a fungus-feeder that grazes powdery-mildew on leaf surfaces.",
+      "habitat_hint": "Forest edges, grassland, and leaves with powdery mildew.",
+      "finding_tips": "From spring to autumn check leaves whitened by powdery mildew. The orange-brown body with white spots is diagnostic."
+    },
+    "zh": {
+      "summary": "十二斑菌瓢虫（シロホシテントウ）。瓢虫科小型甲虫，橙褐底具约十二个白斑，为食菌瓢虫，取食叶面白粉病菌。",
+      "habitat_hint": "林缘、草地、有白粉病叶之处。",
+      "finding_tips": "春至秋，于白粉病变白的叶上寻找。橙褐底配白斑的配色为辨识要点。"
+    }
   }
 }
