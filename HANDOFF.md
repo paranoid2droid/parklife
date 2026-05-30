@@ -30,7 +30,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 ## In progress
 
-**species_profile np=4 tier sweep (A68–A76 done, 3,427 profiled / 2026-05-30).** ~149 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA77.py`, then seed→export→`cp`→commit→push. Last done: Monochasma sheareri. Two ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ (local DB only).
+**species_profile np=4 tier sweep (A68–A77 done, 3,450 profiled / 2026-05-30).** 126 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA78.py`, then seed→export→`cp`→commit→push. Last done: Orthosia lizetta (next batch starts at Oryctolagus cuniculus / アナウサギ). Two ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ (local DB only).
 
 ## Blocked / waiting
 
