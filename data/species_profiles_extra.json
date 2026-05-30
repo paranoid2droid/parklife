@@ -69137,5 +69137,599 @@
       "habitat_hint": "暖海岩礁、珊瑚礁、潮间带至浅海岩缝。",
       "finding_tips": "退潮时或浅海岩荫处，寻找偏黄有光泽的小宝贝。光滑有光泽的偏黄壳为辨识要点。"
     }
+  },
+  "Mongolotettix japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Singing Grasshopper",
+    "aliases": {
+      "zh-Hans": "日本雏蝗"
+    },
+    "ja": {
+      "summary": "ナキイナゴ。草地に多いバッタ科の昆虫。緑色〜褐色の細身の体をもつ。雄が後脚を翅にこすりつけて「シリシリ」と鳴くことが名の由来。日当たりのよい草原で見られる。",
+      "habitat_hint": "日当たりのよい草地、草原、土手、河川敷。",
+      "finding_tips": "7〜9月、草地で細身のバッタを探します。雄が後脚をこすって鳴く点と、緑〜褐色の細身の体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A slender grasshopper of grassland, green to brown; the male is named for rasping its hind legs against the wings to 'sing'. Found in sunny meadows.",
+      "habitat_hint": "Sunny grassland, meadows, banks, and riverbanks.",
+      "finding_tips": "From July to September look in grassland for a slender grasshopper. The male's leg-rasping song and the slender green-brown body are diagnostic."
+    },
+    "zh": {
+      "summary": "日本雏蝗（ナキイナゴ）。草地常见的蝗科昆虫，体细、绿至褐，雄虫以后足摩擦翅发声鸣叫而得名，见于向阳草原。",
+      "habitat_hint": "向阳草地、草原、土堤、河滩。",
+      "finding_tips": "7 至 9 月，于草地寻找细身蝗虫。雄虫摩足鸣叫与绿褐细身为辨识要点。"
+    }
+  },
+  "Monophadnus nigriceps": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow Sawfly",
+    "aliases": {
+      "zh-Hans": "黄叶蜂"
+    },
+    "ja": {
+      "summary": "キイロハバチ。ハバチ科のハバチ。黄色っぽい体に黒い頭をもつ。幼虫はイモムシ状で、各種の草本の葉を食べる。春〜初夏に花や葉上で見られる。",
+      "habitat_hint": "草地、林縁、花の咲く場所、農地。",
+      "finding_tips": "春〜初夏、花や葉上で探します。黄色っぽい体に黒い頭という配色が識別ポイント。"
+    },
+    "en": {
+      "summary": "A sawfly with a yellowish body and a black head; its caterpillar-like larva feeds on various herbaceous leaves. Seen on flowers and foliage in spring to early summer.",
+      "habitat_hint": "Grassland, forest edges, flowering spots, and farmland.",
+      "finding_tips": "From spring to early summer check flowers and foliage. The yellowish body with a black head is diagnostic."
+    },
+    "zh": {
+      "summary": "黄叶蜂（キイロハバチ）。叶蜂科叶蜂，体偏黄、头黑，幼虫虫状、取食多种草本叶，春至初夏见于花叶上。",
+      "habitat_hint": "草地、林缘、开花处、农地。",
+      "finding_tips": "春至初夏，于花叶上寻找。偏黄体配黑头为辨识要点。"
+    }
+  },
+  "Mugilogobius abei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Abe's Mangrove Goby",
+    "aliases": {
+      "zh-Hans": "阿部鲻鰕虎"
+    },
+    "ja": {
+      "summary": "アベハゼ。内湾や河口の汽水域、潮だまりにすむハゼ科の小型魚。汚れにやや強く、都市近郊の河口や港でも見られる。褐色の体に不規則な斑紋がある。泥や石の間にすむ。",
+      "habitat_hint": "内湾、河口、汽水域、港、潮だまりの泥底。",
+      "finding_tips": "河口や港の泥っぽい水際で小さなハゼを探します。褐色の体の不規則な斑紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Abe's Mangrove Goby. A small goby of inner bays, brackish estuaries, and tide pools; somewhat pollution-tolerant, it occurs even in suburban estuaries and harbours. Brown with irregular markings, it lives among mud and stones.",
+      "habitat_hint": "Inner bays, estuaries, brackish water, harbours, and tide-pool mud.",
+      "finding_tips": "At muddy estuary and harbour edges look for a small goby. The brown body with irregular markings is diagnostic."
+    },
+    "zh": {
+      "summary": "阿部鲻鰕虎（アベハゼ）。栖于内湾、河口咸淡水与潮池的鰕虎科小型鱼，较耐污，城郊河口与港口亦见，体褐色具不规则斑纹，居泥与石间。",
+      "habitat_hint": "内湾、河口、咸淡水、港口、潮池泥底。",
+      "finding_tips": "于河口与港口泥泞水际寻找小型鰕虎。褐体上的不规则斑纹为辨识要点。"
+    }
+  },
+  "Muscari botryoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蓝壶花"
+    },
+    "ja": {
+      "summary": "ルリムスカリ(ムスカリ)。ヨーロッパ原産でキジカクシ科の球根植物。春、青紫色の小さな壺状の花が、ブドウの房のように穂状に密について咲く。花壇や鉢に広く植えられる。",
+      "habitat_hint": "花壇、庭園、公園、鉢植えの植栽。",
+      "finding_tips": "3〜4月、青紫色の小さな壺状の花がブドウの房のように密につく草を探します。ブドウの房状の青紫色の花穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Grape hyacinth. A European bulbous plant of the asparagus family; in spring it bears dense spikes of small blue-purple urn-shaped flowers clustered like a bunch of grapes. Widely planted in beds and pots.",
+      "habitat_hint": "Flower beds, gardens, parks, and containers (planted).",
+      "finding_tips": "From March to April look for dense spikes of small blue-purple urn flowers like a grape bunch. The grape-cluster blue-purple spike is diagnostic."
+    },
+    "zh": {
+      "summary": "蓝壶花（ルリムスカリ，葡萄风信子）。原产欧洲的天门冬科球根植物，春季密生蓝紫色小壶状花、聚成穗如葡萄串，广植于花坛与盆栽。",
+      "habitat_hint": "花坛、庭园、公园、盆栽。",
+      "finding_tips": "3 至 4 月，寻找蓝紫色小壶状花密集成穗如葡萄串的草。葡萄串状的蓝紫花穗为辨识要点。"
+    }
+  },
+  "Nandicius kimjoopili": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cloud Jumping Spider",
+    "aliases": {
+      "zh-Hans": "金氏蝇虎"
+    },
+    "ja": {
+      "summary": "クモマハエトリ。ハエトリグモ科の小型のクモ。樹幹や葉の上を歩いて獲物に跳びかかる。網を張らない。褐色〜灰褐色の体に斑紋がある。林縁や樹上で見られる。",
+      "habitat_hint": "樹幹、葉の上、林縁、低木のある場所。",
+      "finding_tips": "春〜秋、樹幹や葉上で跳びかかるクモを探します。網を張らず歩き回り、跳びかかる狩りが識別ポイント。"
+    },
+    "en": {
+      "summary": "A small jumping spider that walks tree trunks and leaves and pounces on prey without a web; brown to grey-brown with markings, it is seen at forest edges and in trees.",
+      "habitat_hint": "Tree trunks, foliage, forest edges, and shrubby areas.",
+      "finding_tips": "From spring to autumn watch trunks and foliage for a pouncing spider. Web-less roaming and the pouncing hunt are diagnostic."
+    },
+    "zh": {
+      "summary": "金氏蝇虎（クモマハエトリ）。跳蛛科小型蜘蛛，于树干与叶上行走、跃捕猎物、不结网，体褐至灰褐具斑纹，见于林缘与树上。",
+      "habitat_hint": "树干、叶上、林缘、有灌木之处。",
+      "finding_tips": "春至秋，于树干与叶上寻找跃捕的蜘蛛。不结网游走与跃捕方式为辨识要点。"
+    }
+  },
+  "Neoclinus bryope": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fringehead Blenny",
+    "aliases": {
+      "zh-Hans": "毛背鳚"
+    },
+    "ja": {
+      "summary": "コケギンポ。岩礁海岸の潮間帯にすむコケギンポ科の小型魚。頭部に房状の皮弁(ひげ状の飾り)があり、岩の穴や貝殻の中から顔だけ出していることが多い。岩の隙間にすむ。",
+      "habitat_hint": "岩礁海岸、潮だまり、防波堤、岩や貝殻の穴。",
+      "finding_tips": "干潮時、岩の穴や隙間から顔を出す小魚を探します。頭部の房状の皮弁と、穴から顔を出す姿が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small fringehead blenny of the rocky intertidal with tufted skin flaps (cirri) on the head; it often shows only its face from rock holes or empty shells, living in crevices.",
+      "habitat_hint": "Rocky shores, tide pools, breakwaters, and holes in rock/shells.",
+      "finding_tips": "At low tide look for a small fish peering from rock holes. The tufted head cirri and hole-peering habit are diagnostic."
+    },
+    "zh": {
+      "summary": "毛背鳚（コケギンポ）。栖于岩礁海岸潮间带的毛背鳚科小型鱼，头部具丛状皮瓣（须状饰），常仅自岩洞或贝壳中探出脸，居岩缝。",
+      "habitat_hint": "岩礁海岸、潮池、防波堤、岩与贝壳孔洞。",
+      "finding_tips": "退潮时寻找自岩洞探头的小鱼。头部丛状皮瓣与探洞之姿为辨识要点。"
+    }
+  },
+  "Neolethaeus dallasi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown Seed Bug",
+    "aliases": {
+      "zh-Hans": "褐长蝽"
+    },
+    "ja": {
+      "summary": "チャイロナガカメムシ。ナガカメムシ科の小型のカメムシ。茶褐色の細長い体をもつ。地表や落葉、草本の上にすみ、植物の種子の汁を吸う。林縁や草地で見られる。",
+      "habitat_hint": "草地、林縁、地表の落葉、河川敷。",
+      "finding_tips": "春〜秋、地表や落葉、草本で探します。茶褐色の細長い体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small seed bug with an elongate brown body; living on the ground, in leaf litter, and on herbs, it feeds on plant seeds. Seen at forest edges and in grassland.",
+      "habitat_hint": "Grassland, forest edges, ground litter, and riverbanks.",
+      "finding_tips": "From spring to autumn check the ground, leaf litter, and herbs. The elongate brown body is diagnostic."
+    },
+    "zh": {
+      "summary": "褐长蝽（チャイロナガカメムシ）。长蝽科小型蝽，体茶褐细长，栖于地表、落叶与草本上，吸食植物种子汁液，见于林缘草地。",
+      "habitat_hint": "草地、林缘、地表落叶、河滩。",
+      "finding_tips": "春至秋，于地表、落叶或草本上寻找。茶褐细长的体为辨识要点。"
+    }
+  },
+  "Nespilobaris nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rough-backed Weevil",
+    "aliases": {
+      "zh-Hans": "粗背象"
+    },
+    "ja": {
+      "summary": "サメハダヒメゾウムシ。ゾウムシ科の小型の甲虫。黒っぽい体の表面がさめ肌(鮫肌)のようにざらつくことが名の由来。葉や枯れ枝で見られる。地味で小さい。",
+      "habitat_hint": "林縁、草地、枯れ枝、食草の葉の上。",
+      "finding_tips": "春〜夏、葉や枯れ枝で探します。さめ肌のようにざらつく黒っぽい小さな体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small weevil whose darkish body surface is rough like shark skin (the source of its Japanese name); seen on foliage and dead branches, small and drab.",
+      "habitat_hint": "Forest edges, grassland, dead branches, and host foliage.",
+      "finding_tips": "From spring to summer check foliage and dead branches. The shark-skin-rough darkish small body is diagnostic."
+    },
+    "zh": {
+      "summary": "粗背象（サメハダヒメゾウムシ）。象甲科小型甲虫，体偏黑、体表粗糙如鲨皮而得名，见于叶与枯枝，朴素而小。",
+      "habitat_hint": "林缘、草地、枯枝、寄主叶上。",
+      "finding_tips": "春至夏，于叶与枯枝上寻找。如鲨皮粗糙的偏黑小体为辨识要点。"
+    }
+  },
+  "Nezara antennata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green Stink Bug",
+    "aliases": {
+      "zh-Hans": "稻绿蝽"
+    },
+    "ja": {
+      "summary": "アオクサカメムシ。畑や草地に普通に見られるカメムシ科の中型のカメムシ。鮮やかな緑色の体をもつ。各種の作物や草本の汁を吸い、ダイズなどの害虫として知られる。触ると独特の青臭いにおいを出す。",
+      "habitat_hint": "畑地、草地、河川敷、各種作物のある場所。",
+      "finding_tips": "春〜秋、草本や作物の上で鮮やかな緑色のカメムシを探します。一様な緑色の体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A common medium green stink bug of fields and grassland with a vivid green body; it sucks sap from many crops and herbs and is a pest of soybean and others, emitting a distinctive smell when touched.",
+      "habitat_hint": "Farmland, grassland, riverbanks, and various crops.",
+      "finding_tips": "From spring to autumn check herbs and crops for a vivid green bug. The uniformly green body is diagnostic."
+    },
+    "zh": {
+      "summary": "稻绿蝽（アオクサカメムシ）。农田与草地常见的蝽科中型蝽，体鲜绿色，吸食多种作物与草本汁液，为大豆等害虫，受触发出特殊气味。",
+      "habitat_hint": "农田、草地、河滩、各种作物处。",
+      "finding_tips": "春至秋，于草本与作物上寻找鲜绿色蝽。通体一致的绿色为辨识要点。"
+    }
+  },
+  "Nicrophorus concolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large Carrion Beetle",
+    "aliases": {
+      "zh-Hans": "大黑葬甲"
+    },
+    "ja": {
+      "summary": "クロシデムシ。シデムシ科の大型の甲虫。全身が黒く、日本最大級のシデムシ。動物の死体に集まり、地中に埋めて(シデムシ＝死出虫)幼虫の餌にする。死体を分解する自然界の掃除屋。夜行性で灯火にも集まる。",
+      "habitat_hint": "雑木林、草地、林縁、動物の死体のある場所。",
+      "finding_tips": "夜、動物の死体の周辺や灯火で探します。全身黒い大型のシデムシという点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Large Carrion Beetle. A large all-black burying beetle, among Japan's biggest; it gathers at animal carcasses and buries them to provision its larvae, a natural decomposer. Nocturnal, it comes to lights.",
+      "habitat_hint": "Woodland, grassland, forest edges, and around carcasses.",
+      "finding_tips": "At night check around carcasses and lights. The large all-black burying beetle is diagnostic."
+    },
+    "zh": {
+      "summary": "大黑葬甲（クロシデムシ）。葬甲科大型甲虫，通体黑色，为日本最大级葬甲，聚于动物尸体并埋入地下饲幼，是分解尸体的自然清道夫，夜行趋光。",
+      "habitat_hint": "杂木林、草地、林缘、有动物尸体之处。",
+      "finding_tips": "夜间于尸体周边或灯下寻找。通体黑色的大型葬甲为辨识要点。"
+    }
+  },
+  "Nomada japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Nomad Bee",
+    "aliases": {
+      "zh-Hans": "日本游牧蜂"
+    },
+    "ja": {
+      "summary": "ダイミョウキマダラハナバチ。コシブトハナバチ科の小型の寄生バチ。黒い体に黄色や橙色の模様があり、毛が少なくスズメバチのようにも見える。他のハナバチ(ヒメハナバチ類)の巣に托卵(労働寄生)する。",
+      "habitat_hint": "草地、林縁、他のハナバチの巣のある場所、花。",
+      "finding_tips": "春、花や、ヒメハナバチの巣のある地面の周辺で探します。毛が少なく黄・橙の模様のあるハチが識別ポイント。"
+    },
+    "en": {
+      "summary": "A small cuckoo (nomad) bee, black with yellow and orange markings and little hair, somewhat wasp-like; it is a brood parasite (kleptoparasite) in the nests of other (mining) bees.",
+      "habitat_hint": "Grassland, forest edges, near other bees' nests, and flowers.",
+      "finding_tips": "In spring check flowers and ground near mining-bee nests. The sparsely haired, yellow-and-orange-marked bee is diagnostic."
+    },
+    "zh": {
+      "summary": "日本游牧蜂（ダイミョウキマダラハナバチ）。蜜蜂科小型寄生蜂，黑体具黄橙斑、毛少、略似胡蜂，在其他（地蜂类）蜂巢中巢寄生（盗寄生）。",
+      "habitat_hint": "草地、林缘、有他蜂巢之处、花。",
+      "finding_tips": "春季于花或地蜂巢附近地面寻找。毛少、具黄橙斑的蜂为辨识要点。"
+    }
+  },
+  "Nostoc commune": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "普通念珠藻"
+    },
+    "ja": {
+      "summary": "イシクラゲ。地表や芝生、コンクリートの上などに生えるネンジュモ属のシアノバクテリア(藍藻)の集合体。乾燥するとちぢんで黒い皮のようになり、雨で水を吸うと緑色のゼリー状にふくらむ。古くから食用にもされる。",
+      "habitat_hint": "芝生、地面、道端、コンクリート、グラウンド。",
+      "finding_tips": "雨後、地面や芝生で緑色のゼリー状にふくらんだ塊を探します。乾湿で姿が変わるゼリー状の塊が識別ポイント。"
+    },
+    "en": {
+      "summary": "Star Jelly (Nostoc). A colony of cyanobacteria (blue-green algae) that grows on ground, lawns, and concrete; it shrivels to a black skin when dry and swells into a green jelly when wetted by rain. Long eaten as food.",
+      "habitat_hint": "Lawns, ground, roadsides, concrete, and sports grounds.",
+      "finding_tips": "After rain look on ground and lawns for green jelly-like masses. The mass that changes between dry and wet states is diagnostic."
+    },
+    "zh": {
+      "summary": "普通念珠藻（イシクラゲ，地木耳）。生于地表、草坪与混凝土上的念珠藻属蓝藻（蓝细菌）集合体，干时缩成黑色皮膜、遇雨吸水膨成绿色胶冻，自古可食。",
+      "habitat_hint": "草坪、地面、路边、混凝土、运动场。",
+      "finding_tips": "雨后于地面与草坪寻找膨成绿色胶冻的团块。随干湿变化形态的胶冻团块为辨识要点。"
+    }
+  },
+  "Novius cardinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "澳洲瓢虫"
+    },
+    "ja": {
+      "summary": "ベダリアテントウ。テントウムシ科の小型の甲虫。赤と黒のまだら模様の体をもつ。イセリアカイガラムシ(綿のような害虫)を食べる益虫で、その駆除のために導入された歴史で有名。柑橘の害虫対策に使われる。",
+      "habitat_hint": "柑橘園、林縁、カイガラムシのつく樹木。",
+      "finding_tips": "春〜秋、カイガラムシのつく樹木で探します。赤と黒のまだら模様の小さなテントウが識別ポイント。"
+    },
+    "en": {
+      "summary": "Vedalia Beetle. A small ladybird mottled red and black; a beneficial predator of cottony cushion scale, it is famous for being introduced to control that pest and is used in citrus pest management.",
+      "habitat_hint": "Citrus orchards, forest edges, and scale-infested trees.",
+      "finding_tips": "From spring to autumn check trees infested with scale insects. The small red-and-black mottled ladybird is diagnostic."
+    },
+    "zh": {
+      "summary": "澳洲瓢虫（ベダリアテントウ）。瓢虫科小型甲虫，体红黑相杂，为吹绵蚧（似棉害虫）的捕食益虫，因被引入防治该害虫而著名，用于柑橘害虫防治。",
+      "habitat_hint": "柑橘园、林缘、有介壳虫之树木。",
+      "finding_tips": "春至秋，于有介壳虫的树木上寻找。红黑相杂的小型瓢虫为辨识要点。"
+    }
+  },
+  "Nuphar japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本萍蓬草"
+    },
+    "ja": {
+      "summary": "コウホネ。池沼や流れのゆるい川に生えるスイレン科の水生多年草。水面に光沢のある葉を浮かべ、夏に黄色いカップ状の花を水面より上に立てて咲かせる。白い地下茎が骨のように見えることが名の由来。",
+      "habitat_hint": "池沼、ため池、流れのゆるい川、用水路。",
+      "finding_tips": "6〜9月、水面に浮かぶ光沢のある葉と、水上に立つ黄色いカップ状の花を探します。水面より上に咲く黄色い花が識別ポイント。"
+    },
+    "en": {
+      "summary": "East Asian yellow water-lily. An aquatic perennial of the water-lily family in ponds and slow rivers; it floats glossy leaves and raises yellow cup-shaped flowers above the water in summer. Its white rhizome, bone-like in appearance, gives the Japanese name.",
+      "habitat_hint": "Ponds, reservoirs, slow rivers, and ditches.",
+      "finding_tips": "From June to September look for floating glossy leaves and yellow cup-shaped flowers held above water. The yellow flowers raised above the surface are diagnostic."
+    },
+    "zh": {
+      "summary": "日本萍蓬草（コウホネ）。生于池沼与缓流河的睡莲科水生多年生草本，水面浮有光泽的叶，夏季于水面上方挺出黄色杯状花，白色地下茎似骨而得名。",
+      "habitat_hint": "池沼、蓄水池、缓流河、灌渠。",
+      "finding_tips": "6 至 9 月，寻找浮于水面的有光泽叶与挺出水面的黄色杯状花。高出水面的黄花为辨识要点。"
+    }
+  },
+  "Nylanderia amia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy Crazy Ant",
+    "aliases": {
+      "zh-Hans": "毛蚁"
+    },
+    "ja": {
+      "summary": "ケブカアメイロアリ。小型のアリ。飴色(あめいろ＝黄褐色)の体に細かい毛が生えている。地表や朽木、人家周辺で見られ、すばやく動き回る。雑食性。",
+      "habitat_hint": "草地、林縁、地表、朽木、人家周辺。",
+      "finding_tips": "春〜秋、地表や朽木で探します。飴色で毛の生えた小さなアリと、すばやく動く点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small ant with an amber (yellow-brown) body bearing fine hairs; found on the ground, in rotten wood, and near homes, it moves quickly and is omnivorous.",
+      "habitat_hint": "Grassland, forest edges, ground, rotten wood, and near homes.",
+      "finding_tips": "From spring to autumn check the ground and rotten wood. The amber hairy small ant moving quickly is diagnostic."
+    },
+    "zh": {
+      "summary": "毛蚁（ケブカアメイロアリ）。小型蚂蚁，体琥珀色（黄褐）、生细毛，见于地表、朽木与民居周边，行动迅捷，杂食。",
+      "habitat_hint": "草地、林缘、地表、朽木、民居周边。",
+      "finding_tips": "春至秋，于地表与朽木上寻找。琥珀色多毛的小蚁与迅捷行动为辨识要点。"
+    }
+  },
+  "Nysius plebeius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common Seed Bug",
+    "aliases": {
+      "zh-Hans": "小长蝽"
+    },
+    "ja": {
+      "summary": "ヒメナガカメムシ。草地に非常に多いナガカメムシ科の小型のカメムシ。褐色の地味な体で、キク科などの植物の種子や花に群がって汁を吸う。ごく普通に見られる。",
+      "habitat_hint": "草地、河川敷、林縁、各種の草本のある場所。",
+      "finding_tips": "春〜秋、キク科などの花や種子に群がる小さな褐色のカメムシを探します。種子や花に群がる小型の褐色のカメムシが識別ポイント。"
+    },
+    "en": {
+      "summary": "A very common small seed bug of grassland, drab brown, that clusters on the seeds and flowers of daisy-family and other plants to suck sap. Seen everywhere.",
+      "habitat_hint": "Grassland, riverbanks, forest edges, and various herbs.",
+      "finding_tips": "From spring to autumn look for small brown bugs clustered on daisy-family flowers and seeds. The small brown bug clustering on seeds is diagnostic."
+    },
+    "zh": {
+      "summary": "小长蝽（ヒメナガカメムシ）。草地极常见的长蝽科小型蝽，体褐色朴素，群集于菊科等植物的种子与花上吸汁，极为常见。",
+      "habitat_hint": "草地、河滩、林缘、各种草本处。",
+      "finding_tips": "春至秋，于菊科等花与种子上寻找群集的褐色小蝽。群集种子花上的小型褐蝽为辨识要点。"
+    }
+  },
+  "Ochterus marginatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "前突眼蝽"
+    },
+    "ja": {
+      "summary": "メミズムシ。水辺の泥や砂の上にすむメミズムシ科の小型の半水生のカメムシ。黒っぽい体に淡色の縁取りがあり、大きな目をもつ。水際を歩き回り、小さな虫を捕える。ミズムシ(水生)とは別物。",
+      "habitat_hint": "池沼や川の水際、湿った泥や砂、水辺の地表。",
+      "finding_tips": "春〜秋、水際の泥や砂の上を歩く小さな黒っぽいカメムシを探します。大きな目と淡色の縁取りが識別ポイント。"
+    },
+    "en": {
+      "summary": "A small semi-aquatic bug (velvety shore bug) living on mud and sand at the water's edge; darkish with pale margins and large eyes, it walks the shoreline catching tiny insects.",
+      "habitat_hint": "Water edges of ponds and rivers, damp mud and sand.",
+      "finding_tips": "From spring to autumn look for a small darkish bug walking on shoreline mud and sand. The large eyes and pale margins are diagnostic."
+    },
+    "zh": {
+      "summary": "前突眼蝽（メミズムシ，绒滨蝽）。栖于水边泥沙上的滨蝽科小型半水生蝽，体偏黑、缘色淡、眼大，于水际行走捕食小虫。",
+      "habitat_hint": "池沼与河流水际、湿润泥沙、水边地表。",
+      "finding_tips": "春至秋，于水际泥沙上寻找行走的偏黑小蝽。大眼与淡色边缘为辨识要点。"
+    }
+  },
+  "Oncocephalus breviscutum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown Stilt Assassin Bug",
+    "aliases": {
+      "zh-Hans": "短盾盗猎蝽"
+    },
+    "ja": {
+      "summary": "クロトビイロサシガメ。サシガメ科の捕食性のカメムシ。鳶色(とびいろ＝茶褐色)の細長い体で、前脚の腿節が太く鎌状になっている。夜行性で灯火にも集まる。獲物を捕えて体液を吸う。刺すので注意。",
+      "habitat_hint": "草地、林縁、地表、河川敷の草むら。",
+      "finding_tips": "夜、灯火や草地で探します。鳶色の細長い体と、太くなった前脚の腿節が識別ポイント。素手で扱わない。"
+    },
+    "en": {
+      "summary": "A predatory assassin bug with an elongate brown body and thickened, sickle-like front femora; nocturnal and coming to lights, it seizes prey and sucks their fluids. It can bite, so handle with care.",
+      "habitat_hint": "Grassland, forest edges, ground, and riverbank grass.",
+      "finding_tips": "At night check lights and grassland. The brown elongate body and thickened front femora are diagnostic. Do not handle bare-handed."
+    },
+    "zh": {
+      "summary": "短盾盗猎蝽（クロトビイロサシガメ）。猎蝽科捕食性蝽，体鸢色（茶褐）细长，前足腿节粗壮成镰状，夜行趋光，捕猎吸取体液。能刺，须注意。",
+      "habitat_hint": "草地、林缘、地表、河滩草丛。",
+      "finding_tips": "夜间于灯下或草地寻找。鸢色细长体与粗壮前足腿节为辨识要点。勿徒手捉取。"
+    }
+  },
+  "Onthophagus fodiens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Digging Dung Beetle",
+    "aliases": {
+      "zh-Hans": "掘嗡蜣螂"
+    },
+    "ja": {
+      "summary": "フトカドエンマコガネ。コガネムシ科のエンマコガネ(糞虫)の仲間。黒くつやのある体で、シカやイヌなどの糞に集まる。糞を地中に運んで幼虫の餌にする、自然界の掃除屋。",
+      "habitat_hint": "草地、牧場、林縁、糞のある場所。",
+      "finding_tips": "春〜秋、動物の糞の周辺で探します。黒くつやのある小型〜中型の糞虫が識別ポイント。"
+    },
+    "en": {
+      "summary": "A dung beetle (Onthophagus), glossy black; it gathers at deer and dog dung and carries it underground to provision its larvae, a natural decomposer.",
+      "habitat_hint": "Grassland, pastures, forest edges, and around dung.",
+      "finding_tips": "From spring to autumn check around animal dung. The glossy black small-to-medium dung beetle is diagnostic."
+    },
+    "zh": {
+      "summary": "掘嗡蜣螂（フトカドエンマコガネ）。金龟科蜣螂类（粪虫），体黑而有光泽，聚于鹿、犬等粪便，将粪运入地下饲幼，为自然清道夫。",
+      "habitat_hint": "草地、牧场、林缘、有粪便之处。",
+      "finding_tips": "春至秋，于动物粪便周边寻找。黑而有光泽的中小型粪虫为辨识要点。"
+    }
+  },
+  "Oodes desertus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flask Ground Beetle",
+    "aliases": {
+      "zh-Hans": "壶步甲"
+    },
+    "ja": {
+      "summary": "トックリゴミムシ。オサムシ科の小型の甲虫。黒くつやのある体で、後方がふくらんで徳利(とっくり)のような形に見える。水辺や湿った草地の地表にすみ、夜行性。",
+      "habitat_hint": "水田、湿地、池畔、河川敷の湿った地表。",
+      "finding_tips": "春〜秋、水辺の地表や石の下で探します。黒くつやのある徳利形の体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small ground beetle, glossy black with a rear-swollen, flask-like outline; it lives on the ground near water and in damp grassland and is nocturnal.",
+      "habitat_hint": "Rice paddies, wetlands, pond margins, and damp ground.",
+      "finding_tips": "From spring to autumn search waterside ground and under stones. The glossy black flask-shaped body is diagnostic."
+    },
+    "zh": {
+      "summary": "壶步甲（トックリゴミムシ）。步甲科小型甲虫，体黑而有光泽、后部膨大如酒壶，栖于水边与湿润草地地表，夜行。",
+      "habitat_hint": "水田、湿地、池畔、河滩湿润地表。",
+      "finding_tips": "春至秋，于水边地表或石下寻找。黑而有光泽的壶形体为辨识要点。"
+    }
+  },
+  "Ophiocordyceps nutans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stinkbug Cordyceps",
+    "aliases": {
+      "zh-Hans": "蝽虫虫草"
+    },
+    "ja": {
+      "summary": "カメムシタケ。カメムシに寄生する冬虫夏草(きのこ)の一種。地中や落葉の下で死んだカメムシの体から、オレンジ色の細長い柄を伸ばし、その先に橙色の子実体(頭部)をつける。湿った林内で見られる。",
+      "habitat_hint": "湿った林内の林床、落葉の下、土中。",
+      "finding_tips": "夏〜秋、林床でオレンジ色の細長い柄が地面から伸びる姿を探します。地中のカメムシから生え、オレンジ色の柄をもつ点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Stinkbug Cordyceps. A 'caterpillar fungus' (entomopathogenic) that parasitizes stink bugs; from a bug dead under soil or litter it sends up a slender orange stalk topped with an orange fruiting head. Seen in damp forest.",
+      "habitat_hint": "Damp forest floor, under leaf litter, and in soil.",
+      "finding_tips": "From summer to autumn look on the forest floor for a slender orange stalk rising from the ground. Growth from a buried stink bug with an orange stalk is diagnostic."
+    },
+    "zh": {
+      "summary": "蝽虫虫草（カメムシタケ）。寄生于蝽类的虫草（真菌），自土中或落叶下死亡的蝽体上伸出橙色细长柄、顶生橙色子实体（头部），见于湿润林内。",
+      "habitat_hint": "湿润林内林床、落叶下、土中。",
+      "finding_tips": "夏至秋，于林床寻找自地面伸出的橙色细长柄。自地下蝽体长出、具橙色柄为辨识要点。"
+    }
+  },
+  "Orthogonia sera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hunched Sallow Moth",
+    "aliases": {
+      "zh-Hans": "驼夜蛾"
+    },
+    "ja": {
+      "summary": "ノコメセダカヨトウ。ヤガ科の中型の蛾。背がやや盛り上がって見え(セダカ)、翅の縁が鋸の歯(ノコメ)のように見える。褐色の地味な蛾。秋に出現し、幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "雑木林、林縁、樹林地の灯火周辺。",
+      "finding_tips": "9〜11月の夜、灯火で探します。背が盛り上がった姿勢と、鋸の歯状の翅の縁が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium noctuid moth that looks hump-backed at rest, with toothed (saw-like) wing margins; a drab brown moth appearing in autumn whose larvae feed on broadleaf foliage.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On nights from September to November check lights. The hump-backed posture and saw-toothed wing margins are diagnostic."
+    },
+    "zh": {
+      "summary": "驼夜蛾（ノコメセダカヨトウ）。夜蛾科中型蛾，停栖时背部隆起、翅缘呈锯齿状，体褐色朴素，秋季出现，幼虫取食阔叶树叶。",
+      "habitat_hint": "杂木林、林缘、林地灯光周边。",
+      "finding_tips": "9 至 11 月夜间，于灯下寻找。隆起的背部姿态与锯齿状翅缘为辨识要点。"
+    }
+  },
+  "Osmunda intermedia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Intermediate Royal Fern",
+    "aliases": {
+      "zh-Hans": "中间紫萁"
+    },
+    "ja": {
+      "summary": "オクタマゼンマイ。山地の湿った場所に生えるゼンマイ科のシダ。ゼンマイとヤマドリゼンマイの中間的な性質をもつとされる。春に渦巻き状の若葉(新芽)を出す。湿った林縁や沢沿いに生える。",
+      "habitat_hint": "山地の湿った林縁、沢沿い、湿地。",
+      "finding_tips": "春、渦巻き状の若葉を出すゼンマイ類を探します。ゼンマイに似た大型のシダで、湿った場所に生える点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A royal fern (Osmunda) of damp montane places, considered intermediate between the Asian royal fern and the interrupted-type royal fern; it unfurls coiled fiddleheads in spring and grows on damp forest edges and streamsides.",
+      "habitat_hint": "Damp montane forest edges, streamsides, and wetlands.",
+      "finding_tips": "In spring look for a royal fern unfurling coiled fiddleheads. A large Osmunda-type fern in damp places is the clue."
+    },
+    "zh": {
+      "summary": "中间紫萁（オクタマゼンマイ）。生于山地湿润处的紫萁科蕨类，性状介于紫萁与桂皮紫萁之间，春出卷曲幼叶（拳卷），生于湿润林缘与溪边。",
+      "habitat_hint": "山地湿润林缘、溪边、湿地。",
+      "finding_tips": "春季寻找抽出卷曲幼叶的紫萁类。似紫萁的大型蕨、生于湿润处为辨识要点。"
+    }
+  },
+  "Ostracion immaculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "粒突箱鲀"
+    },
+    "ja": {
+      "summary": "ハコフグ。暖海の岩礁にすむハコフグ科の魚。体が硬い箱(はこ)状の甲板でおおわれ、四角い断面をもつ。黄色っぽい体に青い斑点が散る。皮膚から毒(パフトキシン)を出すことがある。ゆっくり泳ぐ。",
+      "habitat_hint": "暖海の岩礁、サンゴ礁、防波堤、浅海。",
+      "finding_tips": "浅い岩礁で、四角い箱状の体をした黄色っぽい魚を探します。硬い箱状の体と青い斑点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Bluespotted Boxfish. A boxfish of warm-water reefs whose body is encased in a rigid box-like armour with a squarish cross-section; yellowish with scattered blue spots, it can release a skin toxin and swims slowly.",
+      "habitat_hint": "Warm-water reefs, coral reefs, breakwaters, and shallows.",
+      "finding_tips": "In shallow reefs look for a yellowish fish with a square box-like body. The rigid box body and blue spots are diagnostic."
+    },
+    "zh": {
+      "summary": "粒突箱鲀（ハコフグ）。栖于暖海岩礁的箱鲀科鱼，体被硬质箱状甲板、断面近方形，体偏黄、散布蓝斑，可由皮肤释放毒素，游动缓慢。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、防波堤、浅海。",
+      "finding_tips": "于浅海岩礁寻找方形箱状体的偏黄之鱼。硬质箱状体与蓝色斑点为辨识要点。"
+    }
   }
 }
