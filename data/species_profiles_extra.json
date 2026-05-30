@@ -72461,5 +72461,568 @@
       "habitat_hint": "杂木林、林缘、林地灯光周边。",
       "finding_tips": "初夏至夏夜间，于灯下寻找。翅带绿色的少见色调为辨识要点。"
     }
+  },
+  "Acer argutum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "尖叶槭"
+    },
+    "ja": {
+      "summary": "アサノハカエデ。山地に生えるムクロジ科(カエデ属)の落葉小高木。葉が麻(あさ)の葉のように深く掌状に裂け、縁に鋭い鋸歯があることが名の由来。秋に黄色く紅葉する。",
+      "habitat_hint": "山地の落葉広葉樹林、谷沿い、林縁。",
+      "finding_tips": "秋、麻の葉のように深く掌状に裂けた葉の紅葉を探します。縁に鋭い鋸歯のある掌状の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Pointed-leaf maple. A deciduous maple of montane forest whose leaves are deeply palmately cut like hemp leaves with sharply toothed margins (the source of the Japanese name); it turns yellow in autumn.",
+      "habitat_hint": "Montane deciduous forest, valleys, and forest edges.",
+      "finding_tips": "In autumn look for deeply palmately cut, hemp-like leaves turning colour. The sharply toothed palmate leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "尖叶槭（アサノハカエデ）。生于山地的无患子科（槭属）落叶小乔木，叶深掌状裂如麻叶、缘具锐锯齿而得名，秋季变黄。",
+      "habitat_hint": "山地落叶阔叶林、谷沿、林缘。",
+      "finding_tips": "秋季寻找深掌裂、似麻叶的变色叶。缘具锐锯齿的掌状叶为辨识要点。"
+    }
+  },
+  "Acer distylum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "椴叶枫"
+    },
+    "ja": {
+      "summary": "ヒトツバカエデ。山地に生えるムクロジ科(カエデ属)の落葉高木。カエデの仲間だが葉が切れ込まず、ハート形の単葉(一つ葉)であることが名の由来。秋に黄色く紅葉する。",
+      "habitat_hint": "山地の落葉広葉樹林、谷沿い、林縁。",
+      "finding_tips": "一年中、切れ込みのないハート形の単葉をもつカエデを探します。カエデなのに裂けない単葉が識別ポイント。秋は黄葉。"
+    },
+    "en": {
+      "summary": "Lime-leaved maple. A deciduous maple of montane forest whose leaves, unusually for a maple, are unlobed heart-shaped single blades (the source of the Japanese name); it turns yellow in autumn.",
+      "habitat_hint": "Montane deciduous forest, valleys, and forest edges.",
+      "finding_tips": "Year-round look for a maple with unlobed heart-shaped single leaves. The unlobed simple leaves (unusual for a maple) are diagnostic; yellow in autumn."
+    },
+    "zh": {
+      "summary": "椴叶枫（ヒトツバカエデ）。生于山地的无患子科（槭属）落叶乔木，虽属槭类但叶不裂、为心形单叶（“一叶”）而得名，秋季变黄。",
+      "habitat_hint": "山地落叶阔叶林、谷沿、林缘。",
+      "finding_tips": "全年寻找叶不裂、心形单叶的槭。身为槭却为不裂单叶为辨识要点，秋季黄叶。"
+    }
+  },
+  "Acer japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "羽扇槭"
+    },
+    "ja": {
+      "summary": "ハウチワカエデ。山地に生えるムクロジ科(カエデ属)の落葉高木。丸く大きな葉が掌状に浅く裂け、天狗の羽団扇(はうちわ)のように見えることが名の由来。秋に赤く鮮やかに紅葉する。",
+      "habitat_hint": "山地の落葉広葉樹林、谷沿い、林縁。",
+      "finding_tips": "秋、丸く大きな掌状の葉の鮮やかな紅葉を探します。羽団扇のような丸く大きな葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Fullmoon maple (Acer japonicum). A deciduous maple of montane forest with large, rounded, shallowly palmately lobed leaves like a feather fan (the source of the Japanese name); it turns vivid red in autumn.",
+      "habitat_hint": "Montane deciduous forest, valleys, and forest edges.",
+      "finding_tips": "In autumn look for large rounded palmate leaves turning vivid red. The large fan-shaped rounded leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "羽扇槭（ハウチワカエデ）。生于山地的无患子科（槭属）落叶乔木，叶大而圆、掌状浅裂、如天狗羽扇而得名，秋季艳红。",
+      "habitat_hint": "山地落叶阔叶林、谷沿、林缘。",
+      "finding_tips": "秋季寻找大而圆的掌状叶艳红变色。如羽扇的大圆叶为辨识要点。"
+    }
+  },
+  "Acer shirasawanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "白泽槭"
+    },
+    "ja": {
+      "summary": "オオイタヤメイゲツ。山地に生えるムクロジ科(カエデ属)の落葉高木。丸く大きな葉が掌状に浅く裂ける。ハウチワカエデに似るが葉柄に毛が少ない。秋に黄〜赤に紅葉する。",
+      "habitat_hint": "山地の落葉広葉樹林、谷沿い、尾根。",
+      "finding_tips": "秋、丸く大きな掌状の葉の紅葉を探します。ハウチワカエデに似るが葉柄が無毛に近い点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Full moon maple (Acer shirasawanum). A deciduous montane maple with large rounded, shallowly palmately lobed leaves, similar to A. japonicum but with nearly hairless leaf stalks; it colours yellow to red in autumn.",
+      "habitat_hint": "Montane deciduous forest, valleys, and ridges.",
+      "finding_tips": "In autumn look for large rounded palmate leaves colouring. Nearly hairless leaf stalks (vs. A. japonicum) are diagnostic."
+    },
+    "zh": {
+      "summary": "白泽槭（オオイタヤメイゲツ）。生于山地的无患子科（槭属）落叶乔木，叶大而圆、掌状浅裂，似羽扇槭但叶柄近无毛，秋季变黄至红。",
+      "habitat_hint": "山地落叶阔叶林、谷沿、山脊。",
+      "finding_tips": "秋季寻找大而圆的掌状叶变色。似羽扇槭而叶柄近无毛为辨识要点。"
+    }
+  },
+  "Acleris hispidana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grey Mottled Tortrix",
+    "aliases": {
+      "zh-Hans": "灰斑卷蛾"
+    },
+    "ja": {
+      "summary": "ハイミダレモンハマキ。ハマキガ科の小型の蛾。灰色っぽい翅に乱れた斑紋がある。とまると翅を屋根形にたたむ。幼虫は樹木の葉を巻いて食べる。林縁や雑木林で見られ、灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、樹林地の灯火周辺。",
+      "finding_tips": "春〜秋の夜、灯火で探します。灰色っぽい翅の乱れた斑紋と、屋根形にとまる姿が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small tortrix moth with greyish wings bearing irregular mottling; it rests with wings folded roof-like, and larvae roll and feed on tree leaves. Seen at forest edges and at lights.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On nights from spring to autumn check lights. The irregular mottling on greyish wings and roof-like rest are diagnostic."
+    },
+    "zh": {
+      "summary": "灰斑卷蛾（ハイミダレモンハマキ）。卷蛾科小型蛾，翅偏灰、具杂乱斑纹，停栖时翅折成屋脊状，幼虫卷叶取食，见于杂木林与林缘，趋光。",
+      "habitat_hint": "杂木林、林缘、林地灯光周边。",
+      "finding_tips": "春至秋夜间，于灯下寻找。偏灰翅的杂乱斑纹与屋脊状停姿为辨识要点。"
+    }
+  },
+  "Acleris japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded Tortrix",
+    "aliases": {
+      "zh-Hans": "中白卷蛾"
+    },
+    "ja": {
+      "summary": "ナカジロハマキ。ハマキガ科の小型の蛾。褐色の翅の中央に白っぽい帯(中白)がある。とまると翅を屋根形にたたむ。幼虫は樹木の葉を巻いて食べる。林縁や雑木林で見られ、灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、樹林地の灯火周辺。",
+      "finding_tips": "春〜秋の夜、灯火で探します。褐色の翅の中央にある白っぽい帯が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small tortrix moth with a whitish band across the centre of brown wings; it rests with wings folded roof-like, and larvae roll and feed on tree leaves. Seen at forest edges and at lights.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On nights from spring to autumn check lights. The whitish central band on brown wings is diagnostic."
+    },
+    "zh": {
+      "summary": "中白卷蛾（ナカジロハマキ）。卷蛾科小型蛾，褐翅中央具偏白带纹（中白），停栖时翅折成屋脊状，幼虫卷叶取食，见于杂木林与林缘，趋光。",
+      "habitat_hint": "杂木林、林缘、林地灯光周边。",
+      "finding_tips": "春至秋夜间，于灯下寻找。褐翅中央的偏白带纹为辨识要点。"
+    }
+  },
+  "Adenophora remotiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "薄叶荠苨"
+    },
+    "ja": {
+      "summary": "ソバナ。山地の林縁や谷沿いに生えるキキョウ科の多年草。夏〜秋に、青紫色の鐘形(つりがね形)の花を、枝先にまばらに下向きに咲かせる。若芽は山菜として食べられる。",
+      "habitat_hint": "山地の林縁、谷沿い、やや湿った半日陰。",
+      "finding_tips": "8〜9月、山地の林縁で青紫色の鐘形の花がまばらに下向きに咲く姿を探します。つりがね形の青紫色の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Scattered ladybell. A bellflower-family perennial of montane forest edges and valleys that hangs blue-purple bell-shaped flowers loosely at the branch tips in summer to autumn; its young shoots are eaten as a wild vegetable.",
+      "habitat_hint": "Montane forest edges, valleys, and damp partial shade.",
+      "finding_tips": "From August to September look at montane edges for loosely hung blue-purple bell flowers. The bell-shaped blue-purple flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "薄叶荠苨（ソバナ）。生于山地林缘与谷沿的桔梗科多年生草本，夏秋于枝端疏松下垂开蓝紫色钟形花，嫩芽可作野菜。",
+      "habitat_hint": "山地林缘、谷沿、略湿半阴处。",
+      "finding_tips": "8 至 9 月，于山地林缘寻找疏松下垂的蓝紫色钟形花。钟形蓝紫花为辨识要点。"
+    }
+  },
+  "Adoxa moschatellina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "五福花"
+    },
+    "ja": {
+      "summary": "レンプクソウ(ゴリンバナ)。山地の林内に生える小型のレンプクソウ科の多年草。茎の先に5つの小さな緑黄色の花が、4方向と上向きにサイコロ状に集まってつく独特の花序をもつ。早春に咲く。",
+      "habitat_hint": "山地のやや湿った林床、林縁、谷沿い。",
+      "finding_tips": "4〜5月、林床で茎の先に5つの小花がサイコロ状に集まる独特の花序を探します。立方体状に5つ集まる緑黄色の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Muskroot (moschatel). A small perennial of montane forest (family Adoxaceae) with a distinctive inflorescence of five small green-yellow flowers clustered cube-like — four facing sideways and one up — at the stem tip; it blooms in early spring.",
+      "habitat_hint": "Damp montane forest floor, edges, and valleys.",
+      "finding_tips": "From April to May look on the forest floor for five small flowers clustered cube-like at the stem tip. The cube-like cluster of five green-yellow flowers is diagnostic."
+    },
+    "zh": {
+      "summary": "五福花（レンプクソウ）。生于山地林内的五福花科小型多年生草本，茎端五朵绿黄色小花呈骰子状聚集（四朵侧向、一朵向上）、花序独特，早春开花。",
+      "habitat_hint": "山地略湿林床、林缘、谷沿。",
+      "finding_tips": "4 至 5 月，于林床寻找茎端五朵小花呈骰子状聚集的独特花序。立方体状聚集的五朵绿黄花为辨识要点。"
+    }
+  },
+  "Agapanthus africanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "百子莲"
+    },
+    "ja": {
+      "summary": "アガパンサス(ムラサキクンシラン)。南アフリカ原産でヒガンバナ科(またはムラサキクンシラン科)の多年草。初夏、長い花茎の先に青紫色〜白の小さな花を放射状にまとめて多数咲かせる。丈夫で花壇や公園に広く植えられる。",
+      "habitat_hint": "花壇、公園、庭園、街路の植栽。",
+      "finding_tips": "6〜7月、長い花茎の先に青紫色の小花が放射状に集まって咲く姿を探します。放射状に集まる青紫色の花の集まりが識別ポイント。"
+    },
+    "en": {
+      "summary": "African lily (agapanthus). A South African perennial (amaryllis family) that in early summer raises a tall stalk topped with a radiating cluster of many small blue-purple-to-white flowers; tough and widely planted in beds and parks.",
+      "habitat_hint": "Flower beds, parks, gardens, and streets (planted).",
+      "finding_tips": "From June to July look for tall stalks topped with radiating clusters of blue-purple flowers. The radiating umbel of blue-purple flowers is diagnostic."
+    },
+    "zh": {
+      "summary": "百子莲（アガパンサス）。原产南非的石蒜科多年生草本，初夏抽长花葶、顶生众多蓝紫至白色小花呈放射状，强健，广植于花坛与公园。",
+      "habitat_hint": "花坛、公园、庭园、街道栽培。",
+      "finding_tips": "6 至 7 月，寻找长花葶顶端放射状聚生的蓝紫色花。放射状聚集的蓝紫花序为辨识要点。"
+    }
+  },
+  "Aglia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Tau Emperor",
+    "aliases": {
+      "zh-Hans": "黄目大蚕蛾"
+    },
+    "ja": {
+      "summary": "エゾヨツメ。早春に出現するヤママユガ科の大型の蛾。褐色の翅の四隅近くに、青く光る目玉のような斑(眼状紋＝四つ目)があることが名の由来。幼虫はカバノキ類などの葉を食べる。山地の林で見られる。",
+      "habitat_hint": "山地の落葉樹林、林縁、カバノキ類のある林の灯火周辺。",
+      "finding_tips": "4〜5月の夜、山地の灯火で探します。褐色の翅にある青く光る4つの眼状紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese Tau Emperor. A large early-spring saturniid moth named for the four blue-shining eye-spots near the wing corners on brown wings; its larvae feed on birch and related trees. Seen in montane forest.",
+      "habitat_hint": "Montane deciduous forest and edges with birches, around lights.",
+      "finding_tips": "On nights in April–May check montane lights. The four blue-shining eye-spots on brown wings are diagnostic."
+    },
+    "zh": {
+      "summary": "黄目大蚕蛾（エゾヨツメ）。早春出现的天蚕蛾科大型蛾，褐翅四角附近具四个泛蓝光的眼状斑（四目）而得名，幼虫取食桦木类等叶，见于山地林地。",
+      "habitat_hint": "山地落叶林、林缘、有桦木之林的灯光周边。",
+      "finding_tips": "4 至 5 月夜间，于山地灯下寻找。褐翅上泛蓝光的四个眼状斑为辨识要点。"
+    }
+  },
+  "Agrilus decoloratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-spotted Slender Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "白点窄吉丁"
+    },
+    "ja": {
+      "summary": "シラホシナガタマムシ。細長いナガタマムシ属のタマムシ。暗色の体に白い点(白星)がある。幼虫は樹木の樹皮下に潜って材を食べる。葉上や伐採木で見られる。",
+      "habitat_hint": "雑木林、伐採木や枯れ枝のある林、林縁。",
+      "finding_tips": "初夏〜夏、葉上や伐採木で探します。細長い体に白い点が散る点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A slender Agrilus jewel beetle, dark-bodied with white spots; its larvae bore beneath tree bark. Found on foliage and felled wood.",
+      "habitat_hint": "Woodland with felled wood and dead branches, forest edges.",
+      "finding_tips": "From early summer to summer check foliage and felled wood. The slender dark body with white spots is diagnostic."
+    },
+    "zh": {
+      "summary": "白点窄吉丁（シラホシナガタマムシ）。窄吉丁属细长吉丁虫，体暗色具白点（白星），幼虫钻蛀树皮下取食木质，见于叶上与伐木。",
+      "habitat_hint": "杂木林、有伐木枯枝之林、林缘。",
+      "finding_tips": "初夏至夏，于叶上或伐木上寻找。细长体散布白点为辨识要点。"
+    }
+  },
+  "Agrilus ribbei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender-legged Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "细足窄吉丁"
+    },
+    "ja": {
+      "summary": "ホソアシナガタマムシ。細長いナガタマムシ属のタマムシ。暗色で金属光沢のある細い体に、細い脚をもつ。幼虫は樹木の樹皮下に潜って材を食べる。葉上や伐採木で見られる。",
+      "habitat_hint": "雑木林、伐採木や枯れ枝のある林、林縁。",
+      "finding_tips": "初夏〜夏、葉上や伐採木で探します。細長い体と細い脚、暗色の金属光沢が識別ポイント。"
+    },
+    "en": {
+      "summary": "A slender Agrilus jewel beetle with a dark, metallic, narrow body and slender legs; its larvae bore beneath tree bark. Found on foliage and felled wood.",
+      "habitat_hint": "Woodland with felled wood and dead branches, forest edges.",
+      "finding_tips": "From early summer to summer check foliage and felled wood. The slender body, thin legs, and dark metallic sheen are diagnostic."
+    },
+    "zh": {
+      "summary": "细足窄吉丁（ホソアシナガタマムシ）。窄吉丁属细长吉丁虫，体暗色具金属光泽、细长、足细，幼虫钻蛀树皮下取食木质，见于叶上与伐木。",
+      "habitat_hint": "杂木林、有伐木枯枝之林、林缘。",
+      "finding_tips": "初夏至夏，于叶上或伐木上寻找。细长体、细足与暗色金属光泽为辨识要点。"
+    }
+  },
+  "Agrilus trinotatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-spotted Slender Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "三点窄吉丁"
+    },
+    "ja": {
+      "summary": "ミツボシナガタマムシ。細長いナガタマムシ属のタマムシ。暗色の上翅に3つの白い点(三星)がある。幼虫は樹木の樹皮下に潜って材を食べる。葉上や伐採木で見られる。",
+      "habitat_hint": "雑木林、伐採木や枯れ枝のある林、林縁。",
+      "finding_tips": "初夏〜夏、葉上や伐採木で探します。細長い体と上翅の3つの白い点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A slender Agrilus jewel beetle with three white spots on dark elytra; its larvae bore beneath tree bark. Found on foliage and felled wood.",
+      "habitat_hint": "Woodland with felled wood and dead branches, forest edges.",
+      "finding_tips": "From early summer to summer check foliage and felled wood. The three white spots on dark elytra are diagnostic."
+    },
+    "zh": {
+      "summary": "三点窄吉丁（ミツボシナガタマムシ）。窄吉丁属细长吉丁虫，暗色鞘翅具三个白点（三星），幼虫钻蛀树皮下取食木质，见于叶上与伐木。",
+      "habitat_hint": "杂木林、有伐木枯枝之林、林缘。",
+      "finding_tips": "初夏至夏，于叶上或伐木上寻找。细长体与鞘翅三个白点为辨识要点。"
+    }
+  },
+  "Algon grandicollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broad-thorax Rove Beetle",
+    "aliases": {
+      "zh-Hans": "宽胸隐翅虫"
+    },
+    "ja": {
+      "summary": "ムネビロハネカクシ。ハネカクシ科の甲虫。上翅が短く腹部が露出する。前胸(むね)が幅広いことが名の由来。落葉下や朽木、動物の死体などに集まり、他の小動物を捕える捕食者。",
+      "habitat_hint": "林床の落葉下、朽木、地表、動物の死体周辺。",
+      "finding_tips": "春〜秋、林床の落葉や朽木の下で探します。短い上翅と露出した腹部、幅広い前胸が識別ポイント。"
+    },
+    "en": {
+      "summary": "A rove beetle with short elytra leaving the abdomen exposed and a broad pronotum (the source of its Japanese name); it gathers under leaf litter, in rotten wood, and at carcasses, preying on small animals.",
+      "habitat_hint": "Forest-floor leaf litter, rotten wood, ground, and carcasses.",
+      "finding_tips": "From spring to autumn search under leaf litter and rotten wood. The short elytra, exposed abdomen, and broad pronotum are diagnostic."
+    },
+    "zh": {
+      "summary": "宽胸隐翅虫（ムネビロハネカクシ）。隐翅虫科甲虫，鞘翅短、腹部外露，前胸宽阔而得名，聚于落叶下、朽木与动物尸体，捕食小动物。",
+      "habitat_hint": "林床落叶下、朽木、地表、动物尸体周边。",
+      "finding_tips": "春至秋，于林床落叶或朽木下寻找。短鞘翅、外露腹部与宽阔前胸为辨识要点。"
+    }
+  },
+  "Allium chinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "薤"
+    },
+    "ja": {
+      "summary": "ラッキョウ。中国原産でヒガンバナ科(ネギ属)の多年草。地下の白い鱗茎(らっきょう)を甘酢漬けなどにして食べる、古くからの野菜。秋に紅紫色の小さな花を球状に集めて咲かせる。畑で栽培される。",
+      "habitat_hint": "畑地、栽培地、道端の野生化したもの。",
+      "finding_tips": "10〜11月、細い葉と、紅紫色の小花が球状に集まる花を探します。ネギに似た細い葉と、地下の白い鱗茎が識別ポイント。"
+    },
+    "en": {
+      "summary": "Rakkyo (Chinese onion). A Chinese perennial of the amaryllis family (Allium) long grown as a vegetable; its white underground bulbs are eaten pickled in sweet vinegar. In autumn it bears globe clusters of small purple-red flowers. Cultivated in fields.",
+      "habitat_hint": "Fields, cultivation, and naturalized roadsides.",
+      "finding_tips": "From October to November look for slender leaves and globe clusters of purple-red flowers. The onion-like leaves and white underground bulbs are diagnostic."
+    },
+    "zh": {
+      "summary": "薤（ラッキョウ，藠头）。原产中国的石蒜科（葱属）多年生草本，地下白色鳞茎（藠头）糖醋腌渍食用，为古老蔬菜，秋季球状聚生紫红色小花，田间栽培。",
+      "habitat_hint": "农田、栽培地、路边逸生处。",
+      "finding_tips": "10 至 11 月，寻找细叶与球状聚生的紫红色小花。似葱的细叶与地下白色鳞茎为辨识要点。"
+    }
+  },
+  "Allopeas clavulinum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "棒形钻头螺"
+    },
+    "ja": {
+      "summary": "オカチョウジガイ。地表や落葉下、人家周辺にすむオカチョウジガイ科の小型の陸貝。細長い塔形(きり＝錐のような形)の白っぽい殻をもつ。湿った地面や植木鉢の下などで見られる。",
+      "habitat_hint": "地表、落葉下、人家周辺、植木鉢の下、湿った場所。",
+      "finding_tips": "雨後や湿った日、地表や植木鉢の下で細長い塔形の小さな白っぽい巻貝を探します。錐のように細長い塔形の殻が識別ポイント。"
+    },
+    "en": {
+      "summary": "Spike Awlsnail. A small land snail of the ground, leaf litter, and around houses with a slender, whitish, tower-like (awl-shaped) shell; found on damp ground and under plant pots.",
+      "habitat_hint": "Ground, leaf litter, near homes, under plant pots, damp places.",
+      "finding_tips": "After rain or on damp days look on the ground and under pots for a slender tower-shaped whitish snail. The awl-like tall shell is diagnostic."
+    },
+    "zh": {
+      "summary": "棒形钻头螺（オカチョウジガイ）。栖于地表、落叶下与民居周边的钻头螺科小型陆生螺，壳细长塔形（如锥）、偏白，见于湿润地面与花盆下。",
+      "habitat_hint": "地表、落叶下、民居周边、花盆下、潮湿处。",
+      "finding_tips": "雨后或潮湿日，于地表与花盆下寻找细长塔形的偏白小螺。如锥的细长塔形壳为辨识要点。"
+    }
+  },
+  "Alpinia zerumbet": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "艳山姜"
+    },
+    "ja": {
+      "summary": "ゲットウ(月桃)。亜熱帯に生えるショウガ科の大型の多年草。大きな葉に強い芳香があり、沖縄では餅を包むのに使われる。初夏、白く先が紅色の蕾が房状に垂れ下がり、黄色く彩られた花を咲かせる。暖地で栽培・自生。",
+      "habitat_hint": "亜熱帯の林縁、海岸近く、暖地の庭園・植栽。",
+      "finding_tips": "初夏、大きな芳香のある葉と、白く先が紅色の蕾が垂れ下がる花序を探します。大きな葉の芳香と垂れ下がる花序が識別ポイント。"
+    },
+    "en": {
+      "summary": "Shell ginger. A large subtropical perennial of the ginger family with big, strongly aromatic leaves used in Okinawa to wrap rice cakes; in early summer it hangs clusters of white, pink-tipped buds opening into yellow-marked flowers. Grown and wild in warm regions.",
+      "habitat_hint": "Subtropical forest edges, near coasts, and warm-region gardens.",
+      "finding_tips": "In early summer look for large aromatic leaves and hanging clusters of white pink-tipped buds. The aromatic large leaves and drooping inflorescence are diagnostic."
+    },
+    "zh": {
+      "summary": "艳山姜（ゲットウ，月桃）。亚热带的姜科大型多年生草本，叶大而具浓香、冲绳用以包饼，初夏垂下成串白色红尖花蕾、开黄彩之花，暖地栽培与自生。",
+      "habitat_hint": "亚热带林缘、近海岸、暖地庭园与栽培。",
+      "finding_tips": "初夏寻找芳香大叶与垂下的白色红尖花蕾花序。大叶浓香与下垂花序为辨识要点。"
+    }
+  },
+  "Amanita longistriata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-striate Amanita",
+    "aliases": {
+      "zh-Hans": "长条棱鹅膏"
+    },
+    "ja": {
+      "summary": "タマゴテングタケモドキ。夏〜秋に林内に発生するテングタケ科のキノコ。灰褐色の傘の縁に長い条線(放射状の溝)があり、白いひだと根元の袋状のつぼをもつ。有毒で食べてはいけない。",
+      "habitat_hint": "雑木林、シイ・カシ・マツ林などの地上。",
+      "finding_tips": "7〜10月、林床で傘の縁に長い条線のあるキノコを探します。傘の縁の長い条線と根元の袋状つぼが識別ポイント。有毒。"
+    },
+    "en": {
+      "summary": "A summer-autumn woodland Amanita with long striations (radial grooves) at the margin of its grey-brown cap, white gills, and a sac-like basal volva. Poisonous — do not eat.",
+      "habitat_hint": "On the ground in secondary, oak, and pine woodland.",
+      "finding_tips": "From July to October look for a cap with long marginal striations. The long marginal striations and basal volva are diagnostic. Poisonous."
+    },
+    "zh": {
+      "summary": "长条棱鹅膏（タマゴテングタケモドキ）。夏秋林内发生的鹅膏科真菌，灰褐菌盖缘具长条棱（放射沟）、菌褶白、基部具袋状菌托。有毒，不可食。",
+      "habitat_hint": "杂木林、栲栎松林等地上。",
+      "finding_tips": "7 至 10 月，于林床寻找盖缘具长条棱的菇。盖缘长条棱与基部袋状菌托为辨识要点。有毒。"
+    }
+  },
+  "Amanita neo-ovoidea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Powdery Amanita",
+    "aliases": {
+      "zh-Hans": "拟卵盖鹅膏"
+    },
+    "ja": {
+      "summary": "シロテングタケ。夏〜秋に林内に発生するテングタケ科の白っぽいキノコ。傘の表面に粉状〜綿くず状の白い外被膜の名残がつき、根元に大きなつぼがある。有毒とされ、食べない方がよい。",
+      "habitat_hint": "雑木林、シイ・カシ・マツ林などの地上。",
+      "finding_tips": "7〜10月、林床で白っぽく粉状の外被膜の名残がついた傘のキノコを探します。粉状の白い外被膜と大きなつぼが識別ポイント。有毒。"
+    },
+    "en": {
+      "summary": "A whitish summer-autumn woodland Amanita whose cap surface bears powdery to cottony remnants of the white universal veil, with a large basal volva. Regarded as toxic — best not eaten.",
+      "habitat_hint": "On the ground in secondary, oak, and pine woodland.",
+      "finding_tips": "From July to October look for a whitish cap dusted with powdery veil remnants. The powdery white veil remnants and large volva are diagnostic. Toxic."
+    },
+    "zh": {
+      "summary": "拟卵盖鹅膏（シロテングタケ）。夏秋林内发生的鹅膏科偏白真菌，菌盖表面附粉状至絮状的白色外膜残片，基部具大菌托。被视为有毒，不宜食。",
+      "habitat_hint": "杂木林、栲栎松林等地上。",
+      "finding_tips": "7 至 10 月，于林床寻找附粉状白色外膜残片的偏白菌盖。粉状白外膜与大菌托为辨识要点。有毒。"
+    }
+  },
+  "Amanita perpasta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "饱满鹅膏"
+    },
+    "ja": {
+      "summary": "オニテングタケ。夏〜秋に林内に発生するテングタケ科の大型のキノコ。灰褐色の傘にとげ状・いぼ状の外被膜の名残が密につき、いかつい姿をしている。有毒で食べてはいけない。",
+      "habitat_hint": "雑木林、シイ・カシ・マツ林などの地上。",
+      "finding_tips": "7〜10月、林床で灰褐色の傘にとげ状の突起が密につく大型のキノコを探します。とげ状の外被膜が密につく大きな傘が識別ポイント。有毒。"
+    },
+    "en": {
+      "summary": "A large summer-autumn woodland Amanita whose grey-brown cap is densely set with spiny, warty universal-veil remnants, giving a rugged look. Poisonous — do not eat.",
+      "habitat_hint": "On the ground in secondary, oak, and pine woodland.",
+      "finding_tips": "From July to October look for a large grey-brown cap densely set with spiny warts. The dense spiny veil remnants on a large cap are diagnostic. Poisonous."
+    },
+    "zh": {
+      "summary": "饱满鹅膏（オニテングタケ）。夏秋林内发生的鹅膏科大型真菌，灰褐菌盖密布刺状疣状外膜残片、外形粗犷。有毒，不可食。",
+      "habitat_hint": "杂木林、栲栎松林等地上。",
+      "finding_tips": "7 至 10 月，于林床寻找灰褐菌盖密布刺状突起的大型菇。密布刺状外膜的大盖为辨识要点。有毒。"
+    }
+  },
+  "Amanita sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grey Veiled Amanita",
+    "aliases": {
+      "zh-Hans": "灰鹅膏"
+    },
+    "ja": {
+      "summary": "ハイカグラテングタケ。夏〜秋に林内に発生するテングタケ科の大型のキノコ。灰色〜灰褐色の傘に、灰色の粉状・いぼ状の外被膜の名残が密につく。柄も灰色をおびる。有毒とされ、食べない方がよい。",
+      "habitat_hint": "雑木林、シイ・カシ・マツ林などの地上。",
+      "finding_tips": "7〜10月、林床で灰色の傘に灰色のいぼ状外被膜が密につく大型のキノコを探します。全体に灰色をおびた姿と灰色のいぼが識別ポイント。有毒。"
+    },
+    "en": {
+      "summary": "A large summer-autumn woodland Amanita whose grey to grey-brown cap is densely set with grey powdery, warty universal-veil remnants; the stalk is also greyish. Regarded as toxic — best not eaten.",
+      "habitat_hint": "On the ground in secondary, oak, and pine woodland.",
+      "finding_tips": "From July to October look for a large grey cap densely set with grey warts. The overall grey colour and grey warts are diagnostic. Toxic."
+    },
+    "zh": {
+      "summary": "灰鹅膏（ハイカグラテングタケ）。夏秋林内发生的鹅膏科大型真菌，灰至灰褐菌盖密布灰色粉状疣状外膜残片、菌柄亦带灰。被视为有毒，不宜食。",
+      "habitat_hint": "杂木林、栲栎松林等地上。",
+      "finding_tips": "7 至 10 月，于林床寻找灰色菌盖密布灰色疣的大型菇。整体带灰与灰色疣为辨识要点。有毒。"
+    }
+  },
+  "Amantis nawai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf Mantis",
+    "aliases": {
+      "zh-Hans": "姬螳螂"
+    },
+    "ja": {
+      "summary": "ヒナカマキリ。日本最小級のカマキリ。体長2cmほどと小さく、褐色で、翅が短い(雌は特に短い)。林床の落葉の上や下草で、小さな昆虫を捕える。雑木林の地表近くで見られる。",
+      "habitat_hint": "雑木林の林床、落葉の上、下草、林縁。",
+      "finding_tips": "夏〜秋、林床の落葉や下草で小さな褐色のカマキリを探します。体長2cmほどの小ささと短い翅が識別ポイント。"
+    },
+    "en": {
+      "summary": "Dwarf Mantis. One of Japan's smallest mantises, only about 2 cm long, brown with short wings (especially short in females); it catches tiny insects on leaf litter and low plants near the forest floor.",
+      "habitat_hint": "Woodland floor, leaf litter, low plants, and forest edges.",
+      "finding_tips": "From summer to autumn search leaf litter and low plants for a tiny brown mantis. The ~2 cm size and short wings are diagnostic."
+    },
+    "zh": {
+      "summary": "姬螳螂（ヒナカマキリ）。日本最小级螳螂，体长仅约 2 厘米，褐色、翅短（雌虫尤短），于林床落叶与下草间捕食小虫，见于杂木林近地表处。",
+      "habitat_hint": "杂木林林床、落叶上、下草、林缘。",
+      "finding_tips": "夏至秋，于林床落叶与下草间寻找褐色小螳螂。约 2 厘米的小体型与短翅为辨识要点。"
+    }
+  },
+  "Amaranthus deflexus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "匍匐苋"
+    },
+    "ja": {
+      "summary": "ハイビユ。南米原産でヒユ科の一年草〜多年草。茎が地面を這うように広がる(這い＝はい)ことが名の由来。道端や荒れ地、市街地の隙間に生える小型の外来植物。緑色の地味な花穂をつける。",
+      "habitat_hint": "道端、荒れ地、市街地の舗装の隙間、空き地。",
+      "finding_tips": "夏〜秋、道端で地面を這うように広がる小型の草を探します。地を這う茎と緑色の地味な花穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Low amaranth. A South American annual-to-perennial of the amaranth family named for its ground-creeping stems; a small alien of roadsides, waste ground, and pavement cracks in towns, with drab green flower spikes.",
+      "habitat_hint": "Roadsides, waste ground, pavement cracks, and vacant lots.",
+      "finding_tips": "From summer to autumn look on roadsides for a small ground-creeping plant. The creeping stems and drab green flower spikes are diagnostic."
+    },
+    "zh": {
+      "summary": "匍匐苋（ハイビユ）。原产南美的苋科一二年生至多年生草本，茎匍匐铺地而得名，为生于路边荒地与市区铺装缝隙的小型外来植物，花穗绿色朴素。",
+      "habitat_hint": "路边、荒地、市区铺装缝隙、空地。",
+      "finding_tips": "夏至秋，于路边寻找匍匐铺地的小型草。匍匐茎与绿色朴素花穗为辨识要点。"
+    }
   }
 }
