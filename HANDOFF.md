@@ -30,7 +30,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 ## In progress
 
-**species_profile np=4 tier sweep (A68–A77 done, 3,450 profiled / 2026-05-30).** 126 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA78.py`, then seed→export→`cp`→commit→push. Last done: Orthosia lizetta (next batch starts at Oryctolagus cuniculus / アナウサギ). Two ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ (local DB only).
+**species_profile np=4 tier sweep (A68–A78 done, 3,474 profiled / 2026-05-30).** 102 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA79.py`, then seed→export→`cp`→commit→push. Last done: Pilosabia trigona (next batch starts at Pinellia tripartita / オオハンゲ). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
 
 ## Blocked / waiting
 
@@ -92,6 +92,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-30 (Claude) — np=4 tier A78 (3450→3474, +24; committed + pushed)
+- Batch A78 swept Oryctolagus → Pilosabia. Highlights: European Rabbit, Tree Peony (牡丹), Short-tailed Albatross (アホウドリ, endangered), Blue Bat Star (海燕), Aizoon Stonecrop (費菜), boxfish, lantern slime mould.
+- 2 ja-name DB fixes (local-only): `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ.
+- Demo 37.0 → 37.8 MB. 102 np=4 candidates remain. Next A79 from Pinellia tripartita.
 
 ### 2026-05-30 (Claude) — np=5 tier cleared: A54–A67 sweep (2901→3219, +318; committed + pushed)
 - 14 batches (A54–A67) alphabetically swept Abelia → Zaranga; np≥5 now 0 candidates (verified).
