@@ -66364,5 +66364,1135 @@
       "habitat_hint": "山地溪边、湿润林缘、谷间半阴处。",
       "finding_tips": "8 至 9 月，于溪边寻找红紫色大唇形花。叶腋的红紫花与摇动生香为辨识要点。"
     }
+  },
+  "Chimaphila japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本喜冬草"
+    },
+    "ja": {
+      "summary": "ウメガサソウ。山地の林床に生えるツツジ科(旧イチヤクソウ科)の常緑の小低木状の多年草。高さ数cmと小さく、夏に白い梅笠(うめがさ)のような下向きの花を咲かせる。菌類と共生する。",
+      "habitat_hint": "山地の針葉樹林・雑木林の林床、やや乾いた木陰。",
+      "finding_tips": "6〜7月、林床で白い下向きの小さな花を探します。常緑の小さな葉と、下向きに咲く白い花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Asian prince's pine. A small evergreen subshrub-like perennial of the heath family (formerly Pyrolaceae) on montane forest floors; only a few centimetres tall, it nods small white plum-blossom-like flowers in summer and associates with fungi.",
+      "habitat_hint": "Floor of montane coniferous and mixed forest, in dry shade.",
+      "finding_tips": "From June to July look on the forest floor for small nodding white flowers. The small evergreen leaves and nodding white flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "日本喜冬草（ウメガサソウ）。生于山地林床的杜鹃花科（旧鹿蹄草科）常绿小半灌木状多年生草本，仅数厘米高，夏开似梅笠的下垂白花，与真菌共生。",
+      "habitat_hint": "山地针叶林与杂木林林床、略干树荫。",
+      "finding_tips": "6 至 7 月，于林床寻找下垂的白色小花。常绿小叶与下垂白花为辨识要点。"
+    }
+  },
+  "Chlaenius sericimicans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broad-thorax Green Ground Beetle",
+    "aliases": {
+      "zh-Hans": "宽胸绿步甲"
+    },
+    "ja": {
+      "summary": "ムナビロアオゴミムシ。オサムシ科のアオゴミムシの仲間。上翅に緑色の金属光沢があり、前胸(むね)が幅広い。水辺や湿った地表にすみ、夜行性で小昆虫を捕える捕食者。",
+      "habitat_hint": "水田、河川敷、池畔、湿った地表。",
+      "finding_tips": "春〜秋、水辺の地表や石の下で探します。緑色の金属光沢と幅広い前胸が識別ポイント。"
+    },
+    "en": {
+      "summary": "A green ground beetle (Chlaenius) with metallic-green elytra and a broad pronotum; it lives near water and on damp ground, a nocturnal predator of small insects.",
+      "habitat_hint": "Rice paddies, riverbanks, pond margins, and damp ground.",
+      "finding_tips": "From spring to autumn search waterside ground and under stones. The metallic-green elytra and broad pronotum are diagnostic."
+    },
+    "zh": {
+      "summary": "宽胸绿步甲（ムナビロアオゴミムシ）。步甲科绿步甲类，鞘翅绿色金属光泽、前胸宽阔，栖于水边与湿润地表，夜行捕食小虫。",
+      "habitat_hint": "水田、河滩、池畔、湿润地表。",
+      "finding_tips": "春至秋，于水边地表或石下寻找。绿色金属光泽与宽阔前胸为辨识要点。"
+    }
+  },
+  "Chloroclystis v-ata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "V纹小花尺蛾"
+    },
+    "ja": {
+      "summary": "クロスジアオナミシャク。シャクガ科ナミシャク亜科の小型の蛾。淡緑色の翅に、V字形を含む黒い筋模様がある。緑色の蛾は時間がたつと退色しやすい。幼虫は花や蕾を食べる。",
+      "habitat_hint": "雑木林、林縁、草地の灯火周辺。",
+      "finding_tips": "春〜秋の夜、灯火で探します。淡緑色の翅にあるV字を含む黒い筋が識別ポイント。"
+    },
+    "en": {
+      "summary": "V-Pug. A small carpet moth (Geometridae) with pale-green wings marked by black lines including a V-shape; green moths fade with time, and the larvae feed on flowers and buds.",
+      "habitat_hint": "Woodland, forest edges, and grassland, around lights.",
+      "finding_tips": "On nights from spring to autumn check lights. The black V-shaped lines on pale-green wings are diagnostic."
+    },
+    "zh": {
+      "summary": "V纹小花尺蛾（クロスジアオナミシャク）。尺蛾科波尺蛾亚科小型蛾，翅淡绿、具含 V 字形的黑色纹，绿蛾随时间易褪色，幼虫取食花与蕾。",
+      "habitat_hint": "杂木林、林缘、草地灯光周边。",
+      "finding_tips": "春至秋夜间，于灯下寻找。淡绿翅上含 V 字的黑色纹为辨识要点。"
+    }
+  },
+  "Choaspes benjaminii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Indian Awlking",
+    "aliases": {
+      "zh-Hans": "绿弄蝶"
+    },
+    "ja": {
+      "summary": "アオバセセリ。セセリチョウ科のチョウ。翅は青緑色をおびた黒で、後翅の縁が橙色。すばやく飛ぶ。幼虫はアワブキやヤマビワの葉を食べ、葉を巻いた巣をつくる。山地の林縁で見られる。",
+      "habitat_hint": "山地の林縁、渓谷沿い、アワブキのある林。",
+      "finding_tips": "5〜8月、林縁の花や湿った地面で探します。青緑色をおびた翅と後翅の橙色の縁が識別ポイント。"
+    },
+    "en": {
+      "summary": "Indian Awlking. A skipper butterfly with blue-green-tinged black wings and orange margins on the hindwing; it flies fast, and its larvae feed on Meliosma leaves, building a rolled-leaf shelter. Seen at montane forest edges.",
+      "habitat_hint": "Montane forest edges, gorges, and woods with Meliosma.",
+      "finding_tips": "From May to August check edge flowers and damp ground. The blue-green-tinged wings and orange hindwing margin are diagnostic."
+    },
+    "zh": {
+      "summary": "绿弄蝶（アオバセセリ）。弄蝶科蝴蝶，翅黑带青绿、后翅缘橙色，飞行迅捷，幼虫取食泡花树等叶、卷叶筑巢，见于山地林缘。",
+      "habitat_hint": "山地林缘、溪谷沿岸、有泡花树之林。",
+      "finding_tips": "5 至 8 月，于林缘花上或湿润地面寻找。带青绿的翅与后翅橙色缘为辨识要点。"
+    }
+  },
+  "Coccinella ainu": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ainu Ladybird",
+    "aliases": {
+      "zh-Hans": "阿伊努瓢虫"
+    },
+    "ja": {
+      "summary": "アイヌテントウ。テントウムシ科の甲虫。ナナホシテントウに似た赤地に黒い紋をもつが、紋の数や形が異なる。アブラムシを食べる益虫。草地や農地で見られる。",
+      "habitat_hint": "草地、農地、林縁、河川敷。",
+      "finding_tips": "春〜秋、草地でアブラムシの周辺を探します。赤地に黒い紋のあるテントウで、ナナホシとは紋の違いが識別ポイント。"
+    },
+    "en": {
+      "summary": "Ainu Ladybird. A ladybird with black spots on a red ground, like the seven-spot but differing in spot number and shape; an aphid-eating beneficial insect of grassland and farmland.",
+      "habitat_hint": "Grassland, farmland, forest edges, and riverbanks.",
+      "finding_tips": "From spring to autumn check grassland near aphids. The black spots on red, differing from the seven-spot, are diagnostic."
+    },
+    "zh": {
+      "summary": "阿伊努瓢虫（アイヌテントウ）。瓢虫科甲虫，红底黑斑似七星瓢虫但斑数与形态不同，食蚜益虫，见于草地与农地。",
+      "habitat_hint": "草地、农地、林缘、河滩。",
+      "finding_tips": "春至秋，于草地蚜虫周边寻找。红底黑斑、与七星瓢虫斑纹之别为辨识要点。"
+    }
+  },
+  "Coniogramme fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "无毛凤了蕨"
+    },
+    "ja": {
+      "summary": "イヌイワガネソウ。山地の林内に生えるイノモトソウ科のシダ。羽状に分かれた葉をもち、葉脈が網目状にならず平行に走る。湿った林床や谷沿いに生える。イワガネソウに似る。",
+      "habitat_hint": "山地の林内、湿った林床、谷沿い、岩場。",
+      "finding_tips": "一年中、林内で羽状の葉をもつシダを探します。平行に走る葉脈と羽状の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "A bamboo fern (Coniogramme) of montane forest with pinnately divided fronds whose veins run parallel rather than netted; it grows on damp forest floors and valleys, resembling related Coniogramme species.",
+      "habitat_hint": "Montane forest interior, damp floor, valleys, and rocks.",
+      "finding_tips": "Year-round look in forest for a fern with pinnate fronds. The parallel (non-netted) veins and pinnate fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "无毛凤了蕨（イヌイワガネソウ）。生于山地林内的凤尾蕨科蕨类，叶羽状分裂、叶脉平行而非网状，生于湿润林床与谷沿，似凤了蕨。",
+      "habitat_hint": "山地林内、湿润林床、谷沿、岩处。",
+      "finding_tips": "全年于林内寻找羽状叶的蕨。平行走向的叶脉与羽状叶为辨识要点。"
+    }
+  },
+  "Coprinopsis atramentaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "墨汁鬼伞"
+    },
+    "ja": {
+      "summary": "ヒトヨタケ。草地や道端、庭などに群生するキノコ。灰褐色の卵形〜釣鐘形の傘が、成熟すると黒い液体になって溶けてしまう(自己消化)ことが特徴。アルコールと一緒に食べると中毒するので注意。",
+      "habitat_hint": "草地、道端、庭、切り株、肥えた地面。",
+      "finding_tips": "春・秋、地面や切り株に群生する灰褐色のキノコを探します。傘が黒い液体に溶ける性質が識別ポイント。酒と一緒に食べない。"
+    },
+    "en": {
+      "summary": "Common Inkcap. A mushroom growing in clusters on grassy ground, roadsides, and gardens; its greyish-brown egg-to-bell-shaped cap dissolves into a black liquid (autodigestion) as it matures. It causes a reaction if eaten with alcohol — beware.",
+      "habitat_hint": "Grassy ground, roadsides, gardens, stumps, and rich soil.",
+      "finding_tips": "In spring and autumn look for greyish clusters on ground or stumps. The cap dissolving into black liquid is diagnostic. Do not eat with alcohol."
+    },
+    "zh": {
+      "summary": "墨汁鬼伞（ヒトヨタケ）。群生于草地、路边与庭园的真菌，灰褐色卵形至钟形菌盖成熟时自溶为黑色液体（自体消化）为其特征。与酒同食会中毒，须注意。",
+      "habitat_hint": "草地、路边、庭园、树桩、肥沃地面。",
+      "finding_tips": "春秋于地面或树桩寻找灰褐色群生菇。菌盖自溶为黑色液体为辨识要点。勿与酒同食。"
+    }
+  },
+  "Copris acutidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sharp-toothed Dung Beetle",
+    "aliases": {
+      "zh-Hans": "尖齿蜣螂"
+    },
+    "ja": {
+      "summary": "ゴホンダイコクコガネ。コガネムシ科のフンコロガシの仲間(糞虫)。黒くつやのある体で、雄は頭部に角(つの)をもつ。シカやウシなどの糞に集まり、地中に巣をつくって糞を運び込み幼虫を育てる。",
+      "habitat_hint": "草地、牧場、シカの多い林、糞のある場所。",
+      "finding_tips": "夏、シカやウシの糞の周辺で探します。黒くつやのある体と、雄の頭部の角が識別ポイント。"
+    },
+    "en": {
+      "summary": "A dung beetle, glossy black, the male bearing a horn on the head; it gathers at deer and cattle dung, building underground nests stocked with dung to rear its larvae.",
+      "habitat_hint": "Grassland, pastures, deer-rich woods, and around dung.",
+      "finding_tips": "In summer check around deer and cattle dung. The glossy black body and the male's head horn are diagnostic."
+    },
+    "zh": {
+      "summary": "尖齿蜣螂（ゴホンダイコクコガネ）。金龟科蜣螂类（粪虫），体黑而有光泽，雄虫头具角，聚于鹿牛粪便，于地下筑巢运粪育幼。",
+      "habitat_hint": "草地、牧场、鹿多之林、有粪便之处。",
+      "finding_tips": "夏季于鹿牛粪便周边寻找。黑而有光泽的体与雄虫头角为辨识要点。"
+    }
+  },
+  "Coraebus quadriundulatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded Jewel Beetle",
+    "aliases": {
+      "zh-Hans": "白带窄吉丁"
+    },
+    "ja": {
+      "summary": "シロオビナカボソタマムシ。タマムシ科の中型の甲虫。暗色の上翅に白い波状の帯模様がある。クヌギやコナラなどの枝に集まり、幼虫は樹木の枝に潜って育つ。",
+      "habitat_hint": "雑木林、クヌギ・コナラのある林、林縁。",
+      "finding_tips": "初夏〜夏、クヌギ・コナラの枝や葉上で探します。暗色の上翅に走る白い波状の帯が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium jewel beetle with white wavy bands on dark elytra; it gathers on oak twigs, and the larvae develop inside the branches.",
+      "habitat_hint": "Woodland with oaks, and forest edges.",
+      "finding_tips": "From early summer to summer check oak twigs and foliage. The white wavy bands on dark elytra are diagnostic."
+    },
+    "zh": {
+      "summary": "白带窄吉丁（シロオビナカボソタマムシ）。吉丁科中型甲虫，暗色鞘翅具白色波状带纹，聚于麻栎、枹栎枝条，幼虫钻蛀树枝发育。",
+      "habitat_hint": "杂木林、有栎树之林、林缘。",
+      "finding_tips": "初夏至夏，于栎树枝叶上寻找。暗色鞘翅上的白色波状带为辨识要点。"
+    }
+  },
+  "Coriandrum sativum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "芫荽"
+    },
+    "ja": {
+      "summary": "コリアンダー(パクチー、コエンドロ)。地中海沿岸原産でセリ科の一年草。独特の強い香りがあり、ハーブ・香味野菜として世界中で使われる。初夏に白い小花の散形花序をつける。畑で栽培され、こぼれ種で野生化することもある。",
+      "habitat_hint": "畑地、ハーブ園、庭園、道端の野生化したもの。",
+      "finding_tips": "初夏、白い小花の散形花序と、独特の香りのする羽状の葉を探します。強い独特の香りが識別ポイント。"
+    },
+    "en": {
+      "summary": "Coriander (cilantro). A Mediterranean annual of the carrot family with a distinctive strong scent, used worldwide as a herb and aromatic vegetable; it bears white umbels of small flowers in early summer. Grown in fields and sometimes escaping from seed.",
+      "habitat_hint": "Fields, herb gardens, gardens, and naturalized roadsides.",
+      "finding_tips": "In early summer look for white umbels and pungent pinnate leaves. The strong distinctive scent is diagnostic."
+    },
+    "zh": {
+      "summary": "芫荽（コリアンダー，香菜）。原产地中海沿岸的伞形科一年生草本，气味浓烈独特，全球作香草与香味蔬菜，初夏开白色小花伞形花序，栽培于田间、有时逸生。",
+      "habitat_hint": "农田、香草园、庭园、路边逸生处。",
+      "finding_tips": "初夏寻找白色小花伞形花序与气味独特的羽状叶。浓烈独特的气味为辨识要点。"
+    }
+  },
+  "Cortaderia selloana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蒲苇"
+    },
+    "ja": {
+      "summary": "シロガネヨシ(パンパスグラス)。南米原産でイネ科の大型の多年草。高さ2〜3mになり、秋に銀白色のふさふさした大きな花穂を立てる。観賞用に公園や庭園に植栽され、河川敷などで野生化することもある。",
+      "habitat_hint": "公園、庭園、河川敷、荒れ地の植栽・野生化。",
+      "finding_tips": "9〜10月、銀白色の大きなふさ状の花穂を高く立てる大型の草を探します。背の高い銀白色の大きな花穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Pampas grass. A large South American perennial grass reaching 2–3 m, raising big silvery-white plumes in autumn; planted as an ornamental in parks and gardens and sometimes naturalized on riverbanks.",
+      "habitat_hint": "Parks, gardens, riverbanks, and waste ground (planted/naturalized).",
+      "finding_tips": "From September to October look for a large grass raising big silvery-white plumes. The tall, large silvery plumes are diagnostic."
+    },
+    "zh": {
+      "summary": "蒲苇（シロガネヨシ）。原产南美的禾本科大型多年生草本，高 2 至 3 米，秋季立银白色蓬松大花穗，植于公园庭园供观赏，河滩等处可逸生。",
+      "habitat_hint": "公园、庭园、河滩、荒地栽培与逸生。",
+      "finding_tips": "9 至 10 月，寻找高立银白色大蓬花穗的大型草。高大银白的大花穗为辨识要点。"
+    }
+  },
+  "Coscinasterias acutispina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eight-armed Sea Star",
+    "aliases": {
+      "zh-Hans": "尖棘筛海星"
+    },
+    "ja": {
+      "summary": "ヤツデヒトデ。岩礁海岸や潮だまりにすむヒトデの一種。腕がふつう8本前後あり、長さの不ぞろいなことが多い(分裂してふえるため)。腕に小さなとげが並ぶ。肉食性で貝などを食べる。",
+      "habitat_hint": "岩礁海岸、潮だまり、防波堤、浅海の岩場。",
+      "finding_tips": "干潮時の潮だまりや浅い岩礁で探します。8本前後の長さの不ぞろいな腕が識別ポイント。"
+    },
+    "en": {
+      "summary": "An eight-armed sea star of rocky shores and tide pools; it usually has around eight arms, often of uneven length (it multiplies by splitting), with small spines along the arms. Carnivorous, it eats shellfish.",
+      "habitat_hint": "Rocky shores, tide pools, breakwaters, and shallow reefs.",
+      "finding_tips": "At low tide search tide pools and shallow reefs. The roughly eight arms of uneven length are diagnostic."
+    },
+    "zh": {
+      "summary": "尖棘筛海星（ヤツデヒトデ）。栖于岩礁海岸与潮池的海星，腕通常约八条、长短常不齐（以分裂繁殖），腕上排列小棘，肉食性、取食贝类。",
+      "habitat_hint": "岩礁海岸、潮池、防波堤、浅海岩区。",
+      "finding_tips": "退潮时于潮池与浅岩礁寻找。约八条长短不齐的腕为辨识要点。"
+    }
+  },
+  "Craspedometopon basale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black Soldier Fly Relative",
+    "aliases": {
+      "zh-Hans": "黑水虻近缘种"
+    },
+    "ja": {
+      "summary": "ネグロミズアブ。ミズアブ科のアブ。黒っぽい体をもち、湿った場所や水辺で見られる。幼虫は湿った腐植土や朽木などで育つ。成虫は花などに来る。刺さない。",
+      "habitat_hint": "湿地、水辺、林縁、腐植のたまった場所。",
+      "finding_tips": "初夏〜夏、湿った場所や葉上で探します。黒っぽい体のミズアブで、刺さない点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A soldier fly (Stratiomyidae) with a darkish body, found in damp places and near water; its larvae develop in moist humus and rotten wood, and the adults visit flowers. It does not sting.",
+      "habitat_hint": "Wetlands, watersides, forest edges, and humus-rich spots.",
+      "finding_tips": "From early summer to summer check damp places and foliage. A darkish soldier fly that does not sting is the clue."
+    },
+    "zh": {
+      "summary": "黑水虻近缘种（ネグロミズアブ）。水虻科虻类，体偏黑，见于潮湿处与水边，幼虫于湿润腐殖土与朽木中发育，成虫访花，不蜇人。",
+      "habitat_hint": "湿地、水边、林缘、腐殖质聚积处。",
+      "finding_tips": "初夏至夏，于潮湿处或叶上寻找。体偏黑的水虻、不蜇人为辨识要点。"
+    }
+  },
+  "Crepidiastrum platyphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "宽叶假还阳参"
+    },
+    "ja": {
+      "summary": "ワダン。海岸の崖や岩場に生えるキク科の多年草。厚く光沢のある葉をもち、秋に黄色い頭花を多数つける。海辺の崖など塩分や乾燥に強い環境に生える。",
+      "habitat_hint": "海岸の崖、岩場、海辺の斜面。",
+      "finding_tips": "10〜11月、海岸の崖で厚く光沢のある葉と黄色い花を探します。海辺に育つ厚い葉のキク科で、黄色い頭花が識別ポイント。"
+    },
+    "en": {
+      "summary": "A daisy-family perennial of coastal cliffs and rocks with thick glossy leaves and many yellow flower heads in autumn; it grows in salt- and drought-exposed seaside cliffs.",
+      "habitat_hint": "Coastal cliffs, rocks, and seaside slopes.",
+      "finding_tips": "From October to November look on coastal cliffs for thick glossy leaves and yellow flowers. The thick seaside leaves and yellow heads are diagnostic."
+    },
+    "zh": {
+      "summary": "宽叶假还阳参（ワダン）。生于海岸崖壁与岩处的菊科多年生草本，叶厚而有光泽，秋季密生黄色头状花，生于耐盐耐旱的海边崖地。",
+      "habitat_hint": "海岸崖壁、岩处、海边坡地。",
+      "finding_tips": "10 至 11 月，于海岸崖壁寻找厚而有光泽的叶与黄花。海边的厚叶菊科与黄色头状花为辨识要点。"
+    }
+  },
+  "Cryptalaus larvatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large Eyed Click Beetle",
+    "aliases": {
+      "zh-Hans": "大斑叩甲"
+    },
+    "ja": {
+      "summary": "オオフタモンウバタマコメツキ。コメツキムシ科の大型の甲虫。灰褐色の地に黒い斑紋があり、前胸に2つの大きな黒い紋(目玉模様)がある。朽木の中で幼虫が他の昆虫の幼虫を捕える。",
+      "habitat_hint": "雑木林、朽木のある林、林縁の灯火周辺。",
+      "finding_tips": "初夏〜夏、朽木や灯火で探します。灰褐色の体と前胸の2つの大きな黒い紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "A large click beetle, grey-brown with black markings and two big black 'eye' spots on the pronotum; its larvae prey on other insect larvae in rotten wood.",
+      "habitat_hint": "Woodland with rotten wood and forest edges, around lights.",
+      "finding_tips": "From early summer to summer check rotten wood and lights. The grey-brown body and two big black pronotal spots are diagnostic."
+    },
+    "zh": {
+      "summary": "大斑叩甲（オオフタモンウバタマコメツキ）。叩甲科大型甲虫，灰褐底具黑斑、前胸有两大黑斑（眼斑），幼虫于朽木中捕食他虫幼虫。",
+      "habitat_hint": "杂木林、有朽木之林、林缘灯光周边。",
+      "finding_tips": "初夏至夏，于朽木或灯下寻找。灰褐体与前胸两大黑斑为辨识要点。"
+    }
+  },
+  "Cryptarcha maculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spotted Sap Beetle",
+    "aliases": {
+      "zh-Hans": "斑露尾甲"
+    },
+    "ja": {
+      "summary": "キボシコオニケシキスイ。ケシキスイ科の小型の甲虫。黒っぽい体に黄色い斑(黄星)がある。樹液に集まり、クヌギやコナラの樹液の出る木で見られる。",
+      "habitat_hint": "雑木林、クヌギ・コナラの樹液の出る木。",
+      "finding_tips": "夏、樹液の出るクヌギやコナラで探します。黒っぽい体にある黄色い斑が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small sap beetle (Nitidulidae), darkish with yellow spots; it gathers at tree sap, seen on the sap-runs of oaks.",
+      "habitat_hint": "Woodland, on sap-running oaks.",
+      "finding_tips": "In summer check sap-running oaks. The darkish body with yellow spots is diagnostic."
+    },
+    "zh": {
+      "summary": "斑露尾甲（キボシコオニケシキスイ）。露尾甲科小型甲虫，体偏黑、具黄斑（黄星），聚于树液，常见于栎类流液处。",
+      "habitat_hint": "杂木林、流树液的栎树。",
+      "finding_tips": "夏季于流树液的栎树上寻找。偏黑体上的黄斑为辨识要点。"
+    }
+  },
+  "Cryptomarasmius aucubae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aucuba Leaf Parachute",
+    "aliases": {
+      "zh-Hans": "桃叶珊瑚小皮伞"
+    },
+    "ja": {
+      "summary": "アオキオチバタケ。アオキの落ち葉に発生する小型のキノコ(ホウライタケの仲間)。ごく小さな白っぽい傘と細い柄をもち、暖地の林床のアオキの落ち葉に群生する。",
+      "habitat_hint": "暖地の林床、アオキの落ち葉、湿った木陰。",
+      "finding_tips": "梅雨〜秋、アオキの落ち葉の上で小さな白っぽいキノコを探します。アオキの落ち葉に出る点と、ごく小さな傘が識別ポイント。"
+    },
+    "en": {
+      "summary": "A tiny parachute-type mushroom that fruits on fallen Aucuba leaves, with a very small whitish cap and slender stalk; it grows gregariously on Aucuba leaf litter in warm-region forest.",
+      "habitat_hint": "Warm-region forest floor, fallen Aucuba leaves, damp shade.",
+      "finding_tips": "From the rainy season to autumn look on fallen Aucuba leaves for tiny whitish mushrooms. Growth on Aucuba litter and the tiny cap are diagnostic."
+    },
+    "zh": {
+      "summary": "桃叶珊瑚小皮伞（アオキオチバタケ）。发生于桃叶珊瑚落叶的小型真菌（小皮伞类），菌盖极小、偏白、菌柄细，于暖地林床的桃叶珊瑚落叶上群生。",
+      "habitat_hint": "暖地林床、桃叶珊瑚落叶、湿润树荫。",
+      "finding_tips": "梅雨至秋，于桃叶珊瑚落叶上寻找白色小菇。生于青木落叶与极小菌盖为辨识要点。"
+    }
+  },
+  "Curculio styracis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Styrax Acorn Weevil",
+    "aliases": {
+      "zh-Hans": "野茉莉象"
+    },
+    "ja": {
+      "summary": "エゴシギゾウムシ。ゾウムシ科の小型の甲虫。非常に長い口吻(くちばし)をもつ。雌は長い口吻でエゴノキの果実に穴をあけて産卵し、幼虫が果実(種子)の中を食べる。",
+      "habitat_hint": "雑木林、林縁、エゴノキのある林。",
+      "finding_tips": "初夏〜夏、エゴノキの果実の周辺で探します。体長より長い口吻と、エゴノキの実につく習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "A weevil with a very long snout; the female bores into the fruit of the Japanese snowbell (Styrax) with her long rostrum to lay eggs, and the larva feeds inside the seed.",
+      "habitat_hint": "Woodland, forest edges, and woods with Japanese snowbell.",
+      "finding_tips": "From early summer to summer check snowbell fruit. The snout longer than the body and the snowbell-fruit habit are diagnostic."
+    },
+    "zh": {
+      "summary": "野茉莉象（エゴシギゾウムシ）。象甲科小型甲虫，喙极长，雌虫以长喙在野茉莉果实上钻孔产卵，幼虫食于果实（种子）内。",
+      "habitat_hint": "杂木林、林缘、有野茉莉之林。",
+      "finding_tips": "初夏至夏，于野茉莉果实周边寻找。长过体长的喙与寄生野茉莉果的习性为辨识要点。"
+    }
+  },
+  "Cystoagaricus strobilomyces": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scaly Black Mushroom",
+    "aliases": {
+      "zh-Hans": "鳞盖黑伞"
+    },
+    "ja": {
+      "summary": "クロヒメオニタケ。朽木や倒木に発生する小型のキノコ。傘の表面が黒っぽいとげ状・鱗片状の突起におおわれる。湿った林内の朽木に発生する。地味で目立たない。",
+      "habitat_hint": "湿った林内の朽木、倒木、切り株。",
+      "finding_tips": "梅雨〜秋、朽木の上で黒っぽいとげ状の鱗片におおわれた小さなキノコを探します。黒い鱗片の傘が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small mushroom on rotten wood and logs whose cap is covered with darkish spiny scales; it fruits on rotten wood in damp forest and is drab and inconspicuous.",
+      "habitat_hint": "Rotten wood, fallen logs, and stumps in damp forest.",
+      "finding_tips": "From the rainy season to autumn look on rotten wood for a small mushroom with darkish spiny scales. The dark scaly cap is diagnostic."
+    },
+    "zh": {
+      "summary": "鳞盖黑伞（クロヒメオニタケ）。发生于朽木倒木的小型真菌，菌盖表面覆偏黑的刺状鳞片，于湿润林内朽木上发生，朴素不显眼。",
+      "habitat_hint": "湿润林内朽木、倒木、树桩。",
+      "finding_tips": "梅雨至秋，于朽木上寻找覆黑色刺状鳞片的小菇。黑色鳞片菌盖为辨识要点。"
+    }
+  },
+  "Dasysyrphus bilineatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-lined Hoverfly",
+    "aliases": {
+      "zh-Hans": "双线毛蚜蝇"
+    },
+    "ja": {
+      "summary": "フタスジヒラタアブ。ハナアブ科の小型のアブ。黒い体に黄色い帯模様(2本の筋)があり、ハチに似るが刺さない。花に集まり、幼虫はアブラムシを食べる益虫。",
+      "habitat_hint": "草地、林縁、花の咲く場所、農地。",
+      "finding_tips": "春〜秋、花の上で探します。黒地に黄色い2本の帯模様と、ハチに似た姿が識別ポイント。刺さない。"
+    },
+    "en": {
+      "summary": "A small hoverfly, black with yellow bands (two stripes), bee-like but stingless; it visits flowers, and its larvae eat aphids — a beneficial insect.",
+      "habitat_hint": "Grassland, forest edges, flowering spots, and farmland.",
+      "finding_tips": "From spring to autumn check flowers. The two yellow bands on black and bee-like look are diagnostic; it does not sting."
+    },
+    "zh": {
+      "summary": "双线毛蚜蝇（フタスジヒラタアブ）。食蚜蝇科小型蝇，黑底具黄带（两条纹）、似蜂而不蜇，访花，幼虫食蚜虫，为益虫。",
+      "habitat_hint": "草地、林缘、开花处、农地。",
+      "finding_tips": "春至秋，于花上寻找。黑底两条黄带与似蜂之姿为辨识要点。不蜇人。"
+    }
+  },
+  "Dendrolimus superans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Larch Lappet Moth",
+    "aliases": {
+      "zh-Hans": "落叶松毛虫"
+    },
+    "ja": {
+      "summary": "ツガカレハ。カレハガ科の大型の蛾。褐色の地味な翅で樹皮に紛れる。幼虫はマツやツガ、モミなどの針葉樹の葉を食べる大型の毛虫で、毒のある毛をもつので注意。",
+      "habitat_hint": "針葉樹林、マツ・ツガ・モミのある林、林縁。",
+      "finding_tips": "夏〜秋の夜、針葉樹林周辺の灯火で探します。褐色で樹皮に紛れる大型の翅が識別ポイント。幼虫の毒毛に注意。"
+    },
+    "en": {
+      "summary": "A large lappet moth with drab brown wings that blend with bark; its large caterpillar feeds on pine, hemlock, and fir and bears venomous hairs — handle with care.",
+      "habitat_hint": "Coniferous forest with pine, hemlock, and fir, and edges.",
+      "finding_tips": "On summer-autumn nights check lights near conifer forest. The large bark-like brown wings are diagnostic. Beware the larva's venomous hairs."
+    },
+    "zh": {
+      "summary": "落叶松毛虫（ツガカレハ）。枯叶蛾科大型蛾，翅褐色朴素、似树皮，幼虫为大型毛虫、取食松、铁杉、冷杉等针叶树叶，具毒毛，须注意。",
+      "habitat_hint": "针叶林、有松铁杉冷杉之林、林缘。",
+      "finding_tips": "夏秋夜间，于针叶林周边灯下寻找。褐色似树皮的大翅为辨识要点。注意幼虫毒毛。"
+    }
+  },
+  "Dentalium octangulatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eight-ribbed Tusk Shell",
+    "aliases": {
+      "zh-Hans": "八角象牙贝"
+    },
+    "ja": {
+      "summary": "ヤカドツノガイ。砂泥底にすむツノガイ綱の貝。象牙のように細長く湾曲した管状の殻をもち、殻に8本の稜(かど)がある。殻の両端が開いている独特の形。砂に潜って暮らす。",
+      "habitat_hint": "内湾〜浅海の砂泥底。",
+      "finding_tips": "砂泥底や打ち上げられた殻で、象牙状に湾曲した管状の貝を探します。8本の稜のある角張った管状の殻が識別ポイント。"
+    },
+    "en": {
+      "summary": "A tusk shell (scaphopod) of sand-mud bottoms with a slender, curved tubular shell like a tiny tusk bearing eight ribs; the shell is open at both ends, a distinctive shape. It burrows in sand.",
+      "habitat_hint": "Inner-bay to shallow sand-mud bottoms.",
+      "finding_tips": "On sand-mud bottoms or among stranded shells look for a tusk-like curved tube. The eight-ribbed, angular tubular shell is diagnostic."
+    },
+    "zh": {
+      "summary": "八角象牙贝（ヤカドツノガイ）。栖于沙泥底的掘足纲贝，壳细长弯曲如象牙、具八条棱，两端开口、形态独特，潜沙生活。",
+      "habitat_hint": "内湾至浅海沙泥底。",
+      "finding_tips": "于沙泥底或冲上岸的壳中寻找象牙状弯曲管贝。具八棱的角状管壳为辨识要点。"
+    }
+  },
+  "Deparia kiusiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "毛轴蛾眉蕨"
+    },
+    "ja": {
+      "summary": "ムクゲシケシダ。山地の林内に生えるメシダ科(イワデンダ科)のシダ。葉や葉柄に毛が多い(ムクゲ＝むくむくした毛)ことが名の由来。湿った林床や谷沿いに生える。",
+      "habitat_hint": "山地の林内、湿った林床、谷沿い、沢沿い。",
+      "finding_tips": "一年中、林内で葉柄や葉軸に毛の多い羽状のシダを探します。毛の多い葉柄と羽状の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Hairy false spleenwort. A fern of the lady-fern family in montane forest, named for the abundant hairs on its fronds and stipes; it grows on damp forest floors and along valleys.",
+      "habitat_hint": "Montane forest interior, damp floor, and valleys/streamsides.",
+      "finding_tips": "Year-round look in forest for a pinnate fern with hairy stipes and rachises. The abundant hairs on the stipe and pinnate fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "毛轴蛾眉蕨（ムクゲシケシダ）。生于山地林内的蹄盖蕨科蕨类，叶与叶柄多毛而得名，生于湿润林床与谷沿。",
+      "habitat_hint": "山地林内、湿润林床、谷沿、溪边。",
+      "finding_tips": "全年于林内寻找叶柄与叶轴多毛的羽状蕨。多毛的叶柄与羽状叶为辨识要点。"
+    }
+  },
+  "Diachea leucopodia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "白柄绒泡菌"
+    },
+    "ja": {
+      "summary": "ジクホコリ。落葉や枯れ草、生きた植物の上に発生する変形菌(粘菌)。白い柄の上に、青緑色に虹色光沢のある小さな子実体を並べてつける。湿った林内などで見られる。",
+      "habitat_hint": "落葉、枯れ草、生きた植物の表面、湿った林内。",
+      "finding_tips": "梅雨〜秋、落葉や草の上で白い柄に虹色の小さな子実体を探します。白い柄と虹色光沢の頭部が識別ポイント。"
+    },
+    "en": {
+      "summary": "White-footed Slime. A slime mould (myxomycete) that appears on leaf litter, dead grass, and living plants; on a white stalk it lines up small fruiting bodies with a blue-green iridescent sheen. Seen in damp forest.",
+      "habitat_hint": "Leaf litter, dead grass, plant surfaces, and damp forest.",
+      "finding_tips": "From the rainy season to autumn look on litter and grass for iridescent fruiting bodies on white stalks. The white stalk and iridescent head are diagnostic."
+    },
+    "zh": {
+      "summary": "白柄绒泡菌（ジクホコリ）。发生于落叶、枯草与活体植物上的变形菌（黏菌），白色柄上排列青绿带虹彩光泽的小子实体，见于湿润林内。",
+      "habitat_hint": "落叶、枯草、植物表面、湿润林内。",
+      "finding_tips": "梅雨至秋，于落叶或草上寻找白柄带虹彩的小子实体。白色柄与虹彩头部为辨识要点。"
+    }
+  },
+  "Dianthus superbus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "瞿麦"
+    },
+    "ja": {
+      "summary": "カワラナデシコ。日当たりのよい草地や河原に生えるナデシコ科の多年草。秋の七草の一つ。淡紅色の花弁が糸のように細かく裂けるのが特徴。「大和撫子」の語源にもなった日本の代表的な野草。",
+      "habitat_hint": "日当たりのよい草地、河原、土手、草原。",
+      "finding_tips": "7〜10月、草地で花弁が細かく糸状に裂けた淡紅色の花を探します。細かく裂ける花弁が識別ポイント。"
+    },
+    "en": {
+      "summary": "Large Pink (fringed pink). A pink-family perennial of sunny grassland and gravel bars, one of the 'seven autumn flowers'; its pale-pink petals are finely fringed into thread-like lobes. An iconic Japanese wildflower behind the term 'Yamato nadeshiko'.",
+      "habitat_hint": "Sunny grassland, gravel bars, banks, and meadows.",
+      "finding_tips": "From July to October look in grassland for pale-pink flowers with finely fringed petals. The thread-fringed petals are diagnostic."
+    },
+    "zh": {
+      "summary": "瞿麦（カワラナデシコ）。生于向阳草地与河滩的石竹科多年生草本，为“秋之七草”之一，淡红花瓣细裂如丝为其特征，是日本代表性野花、“大和抚子”一词之源。",
+      "habitat_hint": "向阳草地、河滩、土堤、草原。",
+      "finding_tips": "7 至 10 月，于草地寻找花瓣细裂如丝的淡红花。细裂的花瓣为辨识要点。"
+    }
+  },
+  "Dioscorea bulbifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "黄独"
+    },
+    "ja": {
+      "summary": "ニガカシュウ。林縁や草地に生えるヤマノイモ科のつる性の多年草。葉のわきに「むかご」(球芽)をつける。ヤマノイモに似るが、むかごや地下のいもに苦みがある。ハート形の葉をもつ。",
+      "habitat_hint": "林縁、草地、河川敷、他の植物に絡む場所。",
+      "finding_tips": "夏〜秋、葉のわきにつくむかご(球芽)を探します。ハート形の葉と、苦みのあるむかごが識別ポイント。"
+    },
+    "en": {
+      "summary": "Air yam. A twining perennial yam of forest edges and grassland that bears bulbils (aerial tubers) in the leaf axils; like the Japanese yam but with bitter bulbils and tubers. It has heart-shaped leaves.",
+      "habitat_hint": "Forest edges, grassland, riverbanks, on host plants.",
+      "finding_tips": "From summer to autumn look for bulbils in the leaf axils. The heart-shaped leaves and bitter bulbils are diagnostic."
+    },
+    "zh": {
+      "summary": "黄独（ニガカシュウ）。生于林缘与草地的薯蓣科缠绕多年生草本，叶腋生“珠芽”（气生块茎），似薯蓣但珠芽与地下块茎味苦，叶心形。",
+      "habitat_hint": "林缘、草地、河滩、缠绕他株之处。",
+      "finding_tips": "夏至秋，寻找叶腋的珠芽（气生块茎）。心形叶与味苦的珠芽为辨识要点。"
+    }
+  },
+  "Diplazium hachijoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "八丈双盖蕨"
+    },
+    "ja": {
+      "summary": "シロヤマシダ。山地の湿った林床に生えるメシダ科(イワデンダ科)のシダ。やや大型で、2回羽状に分かれた葉をもつ。湿った谷沿いや林内に群生する。",
+      "habitat_hint": "山地の湿った林床、谷沿い、沢沿い、林内。",
+      "finding_tips": "一年中、湿った林床で2回羽状のやや大型の葉のシダを探します。やや大型で2回羽状の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "A fairly large fern of the lady-fern family on damp montane forest floors, with bipinnate fronds; it grows in colonies along damp valleys and in forest interiors.",
+      "habitat_hint": "Damp montane forest floor, valleys, streamsides, and woods.",
+      "finding_tips": "Year-round look on damp forest floors for a largish fern with bipinnate fronds. The fairly large bipinnate fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "八丈双盖蕨（シロヤマシダ）。生于山地湿润林床的蹄盖蕨科蕨类，略大型、叶二回羽状，于湿润谷沿与林内成群。",
+      "habitat_hint": "山地湿润林床、谷沿、溪边、林内。",
+      "finding_tips": "全年于湿润林床寻找二回羽状的略大型蕨。略大型的二回羽状叶为辨识要点。"
+    }
+  },
+  "Dryopteris kinkiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kinki Wood Fern",
+    "aliases": {
+      "zh-Hans": "近畿鳞毛蕨"
+    },
+    "ja": {
+      "summary": "ギフベニシダ。暖地の林内に生えるオシダ科のシダ。ベニシダの仲間で、新葉が赤みをおびて展開する。2回羽状の葉をもち、湿った林床や林縁に生える。",
+      "habitat_hint": "暖温帯の林内、湿った林床、林縁、谷沿い。",
+      "finding_tips": "春〜初夏、赤みをおびて展開する新葉を探します。新葉の紅色と2回羽状の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "A wood fern (Dryopteris) of warm-region forest, related to the red-shield ferns, whose new fronds unfurl with a reddish tint; it has bipinnate fronds and grows on damp forest floors and edges.",
+      "habitat_hint": "Warm-temperate forest interior, damp floor, edges, valleys.",
+      "finding_tips": "From spring to early summer look for reddish-tinted new fronds. The reddish new growth and bipinnate fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "近畿鳞毛蕨（ギフベニシダ）。暖地林内的鳞毛蕨科蕨类，属红盖鳞毛蕨类，新叶展开带红色，叶二回羽状，生于湿润林床与林缘。",
+      "habitat_hint": "暖温带林内、湿润林床、林缘、谷沿。",
+      "finding_tips": "春至初夏，寻找带红色展开的新叶。新叶红色与二回羽状叶为辨识要点。"
+    }
+  },
+  "Duolandrevus ivani": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bark Cricket",
+    "aliases": {
+      "zh-Hans": "树皮蟋"
+    },
+    "ja": {
+      "summary": "クチキコオロギ。朽木や樹皮のすき間にすむコオロギの仲間。平たい体で、樹皮のすき間にもぐり込んで暮らす。褐色で目立たない。夜行性で、朽木の多い林で見られる。",
+      "habitat_hint": "朽木、立ち枯れ木の樹皮の下、雑木林。",
+      "finding_tips": "夜、朽木や樹皮のすき間で探します。平たい褐色の体と、樹皮のすき間にもぐる習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "A cricket that lives in rotten wood and bark crevices; flattened and brown, it slips into crevices under bark. Nocturnal and inconspicuous, it is found in woods rich in dead wood.",
+      "habitat_hint": "Rotten wood, under bark of standing dead trees, woodland.",
+      "finding_tips": "At night search rotten wood and bark crevices. The flattened brown body and bark-crevice habit are diagnostic."
+    },
+    "zh": {
+      "summary": "树皮蟋（クチキコオロギ）。栖于朽木与树皮缝隙的蟋蟀类，体扁、褐色，钻入树皮缝中生活，夜行不显眼，见于多枯木之林。",
+      "habitat_hint": "朽木、立枯木树皮下、杂木林。",
+      "finding_tips": "夜间于朽木与树皮缝隙中寻找。扁平褐色体与钻树皮缝习性为辨识要点。"
+    }
+  },
+  "Dysaethria moza": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-spotted Hook-tip",
+    "aliases": {
+      "zh-Hans": "黑点中网蛾"
+    },
+    "ja": {
+      "summary": "クロホシフタオ。ツバメガ科(またはトガリバ科に近い)の小型の蛾。後翅の端が尾状に2つに突き出る(二尾)。淡褐色の翅に黒い点(黒星)がある。林縁や雑木林で見られる。",
+      "habitat_hint": "雑木林、林縁、樹林地の灯火周辺。",
+      "finding_tips": "春〜秋の夜、灯火で探します。後翅の2つの尾状突起と、淡褐色の翅の黒い点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small moth whose hindwing tip is drawn out into two tail-like projections ('two-tailed'); the pale-brown wings bear black dots. Seen at forest edges and in woodland.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On nights from spring to autumn check lights. The two hindwing tails and black dots on pale-brown wings are diagnostic."
+    },
+    "zh": {
+      "summary": "黑点中网蛾（クロホシフタオ）。小型蛾，后翅端延伸成两条尾状突起（二尾），翅淡褐、具黑点（黑星），见于杂木林与林缘。",
+      "habitat_hint": "杂木林、林缘、林地灯光周边。",
+      "finding_tips": "春至秋夜间，于灯下寻找。后翅两条尾状突起与淡褐翅上的黑点为辨识要点。"
+    }
+  },
+  "Edessena hamada": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large White-spot Snout Moth",
+    "aliases": {
+      "zh-Hans": "大白点壶夜蛾"
+    },
+    "ja": {
+      "summary": "オオシラホシアツバ。ヤガ科アツバ亜科の中型の蛾。黒褐色の翅に白い大きな紋(白星)がある。下唇鬚が前方に突き出る。林縁や雑木林で見られ、灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、樹林地の灯火周辺。",
+      "finding_tips": "夏〜秋の夜、灯火で探します。黒褐色の翅にある白い大きな紋と、前方に突き出た下唇鬚が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium snout moth with large white spots on blackish-brown wings and forward-projecting labial palps; seen at forest edges and in woodland, coming to lights.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On summer-autumn nights check lights. The large white spots on blackish wings and the projecting snout are diagnostic."
+    },
+    "zh": {
+      "summary": "大白点壶夜蛾（オオシラホシアツバ）。夜蛾科中型蛾，翅黑褐、具大白斑（白星），下唇须前伸，见于杂木林与林缘，趋光。",
+      "habitat_hint": "杂木林、林缘、林地灯光周边。",
+      "finding_tips": "夏秋夜间，于灯下寻找。黑褐翅上的大白斑与前伸下唇须为辨识要点。"
+    }
+  },
+  "Elaeagnus angustifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "沙枣"
+    },
+    "ja": {
+      "summary": "ヤナギバグミ(ホソバグミ)。西アジア〜ヨーロッパ原産でグミ科の落葉低木〜小高木。ヤナギのような細長い葉と、葉や枝の銀白色の鱗片が特徴。初夏に香りのよい小花を咲かせ、楕円形の実をつける。",
+      "habitat_hint": "公園、庭園、街路、海岸近くの植栽。",
+      "finding_tips": "初夏、銀白色をおびた細長い葉と、香りのよい黄白色の小花を探します。柳のような銀色がかった葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Oleaster (Russian olive). A deciduous shrub-to-small-tree of the oleaster family from West Asia to Europe, with willow-like narrow leaves and silvery scales on leaves and twigs; it bears fragrant small flowers in early summer and oval fruits.",
+      "habitat_hint": "Parks, gardens, streets, and plantings near coasts.",
+      "finding_tips": "In early summer look for silvery narrow leaves and fragrant yellow-white flowers. The willow-like silvery leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "沙枣（ヤナギバグミ）。原产西亚至欧洲的胡颓子科落叶灌木至小乔木，叶细长如柳、叶枝具银白鳞片，初夏开芳香小花，结椭圆形果。",
+      "habitat_hint": "公园、庭园、街道、近海岸栽培。",
+      "finding_tips": "初夏寻找带银白的细长叶与芳香的黄白色小花。似柳的银色叶为辨识要点。"
+    }
+  },
+  "Emberiza yessoensis": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "苇鹀"
+    },
+    "ja": {
+      "summary": "コジュリン。ヨシ原や湿った草地にすむホオジロ科の小型の鳥。夏羽の雄は頭が黒くなる。湿地の草地で繁殖するが、生息地の減少で数が減っている希少な鳥。",
+      "habitat_hint": "ヨシ原、湿った草地、河川敷、湿原。",
+      "finding_tips": "繁殖期(春〜夏)、ヨシ原や湿った草地で、草の先にとまってさえずる小鳥を探します。夏羽の雄の黒い頭が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ochre-rumped Bunting. A small bunting of reedbeds and damp grassland; the breeding male has a black head. It breeds in wet grassland but is scarce due to habitat loss.",
+      "habitat_hint": "Reedbeds, damp grassland, riverbanks, and marshes.",
+      "finding_tips": "In the breeding season (spring–summer) watch reedbeds and wet grassland for a small bird singing from grass tips. The breeding male's black head is diagnostic."
+    },
+    "zh": {
+      "summary": "苇鹀（コジュリン）。栖于芦苇荡与湿润草地的鹀科小型鸟，繁殖羽雄鸟头部变黑，于湿草地繁殖，因栖息地减少而数量稀少。",
+      "habitat_hint": "芦苇荡、湿润草地、河滩、湿原。",
+      "finding_tips": "繁殖期（春至夏），于芦苇荡与湿草地寻找立草尖鸣唱的小鸟。繁殖羽雄鸟的黑头为辨识要点。"
+    }
+  },
+  "Emmelia trabealis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "葶苈黄夜蛾"
+    },
+    "ja": {
+      "summary": "キマダラコヤガ。ヤガ科の小型の蛾。黄色い翅に黒い斑紋が散る、明るい色彩の小さな蛾。昼間にも活動することがある。幼虫はヒルガオ類の葉を食べる。草地や畑地で見られる。",
+      "habitat_hint": "草地、畑地、林縁、ヒルガオのある場所。",
+      "finding_tips": "春〜秋、草地や畑地で黄色に黒斑の小さな蛾を探します。黄色い翅に黒い斑紋という明るい配色が識別ポイント。"
+    },
+    "en": {
+      "summary": "Spotted Sulphur. A small, brightly coloured noctuid moth with black spots scattered on yellow wings; sometimes day-active, its larvae feed on bindweed leaves. Seen in grassland and farmland.",
+      "habitat_hint": "Grassland, farmland, forest edges, and where bindweed grows.",
+      "finding_tips": "From spring to autumn look in grassland and fields for a small yellow moth with black spots. The black spots on yellow wings are diagnostic."
+    },
+    "zh": {
+      "summary": "葶苈黄夜蛾（キマダラコヤガ）。夜蛾科小型蛾，黄翅散布黑斑、色彩明亮，有时昼间活动，幼虫取食旋花类叶，见于草地与农田。",
+      "habitat_hint": "草地、农田、林缘、有旋花之处。",
+      "finding_tips": "春至秋，于草地农田寻找黄底黑斑的小蛾。黄翅黑斑的明亮配色为辨识要点。"
+    }
+  },
+  "Enochrus simulans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow Water Scavenger Beetle",
+    "aliases": {
+      "zh-Hans": "黄基牙甲"
+    },
+    "ja": {
+      "summary": "キイロヒラタガムシ。水田や池にすむガムシ科の小型の水生甲虫。黄褐色の平たい体をもつ。水草の間を泳いで有機物などを食べる。流れのゆるい止水域に多い。",
+      "habitat_hint": "水田、池沼、用水路、流れのゆるい水域。",
+      "finding_tips": "春〜秋、水田や池の水中で探します。黄褐色の平たい小さなガムシが識別ポイント。"
+    },
+    "en": {
+      "summary": "A small water scavenger beetle of paddies and ponds with a flat yellow-brown body; it swims among water plants eating organic matter and favours slow, still water.",
+      "habitat_hint": "Rice paddies, ponds, ditches, and slow water.",
+      "finding_tips": "From spring to autumn search underwater in paddies and ponds. The flat yellow-brown small water beetle is diagnostic."
+    },
+    "zh": {
+      "summary": "黄基牙甲（キイロヒラタガムシ）。栖于水田池塘的牙甲科小型水生甲虫，体黄褐而扁，于水草间游动取食有机物，多见于缓流静水。",
+      "habitat_hint": "水田、池沼、灌渠、缓流水域。",
+      "finding_tips": "春至秋，于水田池塘水中寻找。黄褐扁平的小牙甲为辨识要点。"
+    }
+  },
+  "Epicauta gorhami": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "豆芫菁"
+    },
+    "ja": {
+      "summary": "マメハンミョウ。ツチハンミョウ科の甲虫。黒い体に頭が赤く、上翅に灰白色の縦の筋がある。体液に有毒成分(カンタリジン)を含み、皮膚につくと水ぶくれを起こすので触らない。マメ類などの葉を食べる害虫。",
+      "habitat_hint": "畑地、草地、河川敷、マメ科の作物のある場所。",
+      "finding_tips": "夏〜秋、マメ科の植物の葉で集団になる虫を探します。赤い頭と黒い体に灰白色の縦筋が識別ポイント。有毒なので素手で触らない。"
+    },
+    "en": {
+      "summary": "Bean Blister Beetle. A blister beetle, black with a red head and greyish lengthwise stripes on the elytra; its body fluid contains the toxin cantharidin that blisters skin, so do not touch it. It feeds on beans and other crops as a pest.",
+      "habitat_hint": "Farmland, grassland, riverbanks, and bean crops.",
+      "finding_tips": "From summer to autumn look for clustered beetles on legume leaves. The red head, black body, and greyish stripes are diagnostic. Toxic — do not handle."
+    },
+    "zh": {
+      "summary": "豆芫菁（マメハンミョウ）。芫菁科甲虫，体黑、头红、鞘翅具灰白纵纹，体液含毒素（斑蝥素），触及皮肤起水疱，勿触。取食豆类等叶，为害虫。",
+      "habitat_hint": "农田、草地、河滩、豆科作物处。",
+      "finding_tips": "夏至秋，于豆科植物叶上寻找群集之虫。红头黑体配灰白纵纹为辨识要点。有毒，勿徒手触碰。"
+    }
+  },
+  "Epilobium amurense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "光滑柳叶菜"
+    },
+    "ja": {
+      "summary": "ケゴンアカバナ。山地の沢沿いや湿った場所に生えるアカバナ科の多年草。アカバナの仲間で、夏〜秋に淡紅色の小さな4弁花を咲かせる。湿った林縁や水辺に生える。",
+      "habitat_hint": "山地の沢沿い、湿った草地、林縁、湿地。",
+      "finding_tips": "7〜9月、湿った場所で淡紅色の小さな4弁花を探します。先が浅く2裂する花弁と湿地を好む点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Amur willowherb. A willowherb-family perennial of montane streamsides and damp places that bears small pale-pink four-petalled flowers in summer to autumn; it grows on damp forest edges and watersides.",
+      "habitat_hint": "Montane streamsides, damp grassland, edges, and wetlands.",
+      "finding_tips": "From July to September look in damp ground for small pale-pink four-petalled flowers. The notched petals and damp habitat are diagnostic."
+    },
+    "zh": {
+      "summary": "光滑柳叶菜（ケゴンアカバナ）。生于山地溪边与湿润处的柳叶菜科多年生草本，夏秋开淡红色四瓣小花，生于湿润林缘与水边。",
+      "habitat_hint": "山地溪边、湿润草地、林缘、湿地。",
+      "finding_tips": "7 至 9 月，于湿润处寻找淡红色四瓣小花。先端浅二裂的花瓣与喜湿习性为辨识要点。"
+    }
+  },
+  "Eriocaulon cinereum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "白药谷精草"
+    },
+    "ja": {
+      "summary": "ホシクサ。水田や湿地に生えるホシクサ科の小型の一年草。細い花茎の先に、小さな白っぽい球状の花の集まり(頭花)をつける。その姿が星のように見えることが名の由来。",
+      "habitat_hint": "水田、休耕田、湿地、池畔の浅水。",
+      "finding_tips": "8〜10月、水田や湿地で細い花茎の先につく小さな白い球状の頭花を探します。星のような白い球状の頭花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ashy pipewort. A small pipewort-family annual of paddies and wetlands that bears a small whitish globular flower head atop a slender stalk; its star-like look gives the Japanese name 'star grass'.",
+      "habitat_hint": "Rice paddies, fallow fields, wetlands, and pond shallows.",
+      "finding_tips": "From August to October look in paddies and wetlands for small white globular heads on slender stalks. The star-like white globular heads are diagnostic."
+    },
+    "zh": {
+      "summary": "白药谷精草（ホシクサ）。生于水田与湿地的谷精草科小型一年生草本，细花葶顶端着生白色球状头花，状如星辰，和名“星草”由此而来。",
+      "habitat_hint": "水田、休耕田、湿地、池畔浅水。",
+      "finding_tips": "8 至 10 月，于水田湿地寻找细葶顶端的白色球状头花。如星的白色球状头花为辨识要点。"
+    }
+  },
+  "Erygia apicalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-tip Owlet Moth",
+    "aliases": {
+      "zh-Hans": "红端裳夜蛾"
+    },
+    "ja": {
+      "summary": "アカテンクチバ。ヤガ科の中型の蛾。褐色の翅に、前翅の先(端)に赤い斑(赤点)がある。幼虫はマメ科の植物の葉を食べる。林縁や草地で見られ、灯火に集まる。",
+      "habitat_hint": "草地、林縁、河川敷、マメ科のある場所。",
+      "finding_tips": "夏〜秋の夜、灯火で探します。褐色の翅と、前翅の先にある赤い斑が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium owlet moth with brown wings bearing a red spot at the forewing tip; its larvae feed on legume leaves. Seen at forest edges and in grassland, coming to lights.",
+      "habitat_hint": "Grassland, forest edges, riverbanks, and legume plants.",
+      "finding_tips": "On summer-autumn nights check lights. The brown wings with a red forewing-tip spot are diagnostic."
+    },
+    "zh": {
+      "summary": "红端裳夜蛾（アカテンクチバ）。夜蛾科中型蛾，翅褐色、前翅端部具红斑（红点），幼虫取食豆科叶，见于林缘草地，趋光。",
+      "habitat_hint": "草地、林缘、河滩、有豆科之处。",
+      "finding_tips": "夏秋夜间，于灯下寻找。褐翅与前翅端部的红斑为辨识要点。"
+    }
+  },
+  "Eumenes fraterculus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-spotted Potter Wasp",
+    "aliases": {
+      "zh-Hans": "黄星蜾蠃"
+    },
+    "ja": {
+      "summary": "キボシトックリバチ。ドロバチの仲間(トックリバチ類)の狩りバチ。黒い体に黄色い斑があり、腰が細くくびれる。泥でとっくり(徳利)のような形の巣をつくり、ガの幼虫を狩って幼虫の餌にする。",
+      "habitat_hint": "草地、林縁、人家周辺、泥のある場所。",
+      "finding_tips": "夏、花や泥場、巣の周辺で探します。黒地に黄色い斑と細い腰、とっくり形の泥の巣が識別ポイント。"
+    },
+    "en": {
+      "summary": "A potter wasp, black with yellow spots and a narrow pinched waist; it builds a flask-shaped mud nest and provisions it with caterpillars for its larvae.",
+      "habitat_hint": "Grassland, forest edges, near homes, and muddy spots.",
+      "finding_tips": "In summer check flowers, mud patches, and nests. The yellow spots on black, pinched waist, and flask-shaped mud nest are diagnostic."
+    },
+    "zh": {
+      "summary": "黄星蜾蠃（キボシトックリバチ）。蜾蠃类（壶蜂）猎蜂，黑体具黄斑、腰细缢，以泥筑壶状巢，捕蛾类幼虫饲育后代。",
+      "habitat_hint": "草地、林缘、民居周边、有泥之处。",
+      "finding_tips": "夏季于花、泥地或巢周边寻找。黑底黄斑、细腰与壶状泥巢为辨识要点。"
+    }
+  },
+  "Exechesops leucopis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Styrax Fungus Weevil",
+    "aliases": {
+      "zh-Hans": "野茉莉长角象"
+    },
+    "ja": {
+      "summary": "エゴヒゲナガゾウムシ。ヒゲナガゾウムシ科の小型の甲虫。雄は目が左右に大きく張り出すユニークな顔つきをもつ。エゴノキの果実に集まり、幼虫が果実(種子)の中を食べる。",
+      "habitat_hint": "雑木林、林縁、エゴノキのある林。",
+      "finding_tips": "初夏〜夏、エゴノキの果実の周辺で探します。雄の左右に張り出す目という独特の顔つきが識別ポイント。"
+    },
+    "en": {
+      "summary": "A fungus weevil whose male has a unique face with eyes projecting widely to the sides; it gathers on the fruit of the Japanese snowbell (Styrax), where larvae feed inside the seed.",
+      "habitat_hint": "Woodland, forest edges, and woods with Japanese snowbell.",
+      "finding_tips": "From early summer to summer check snowbell fruit. The male's widely projecting eyes are diagnostic."
+    },
+    "zh": {
+      "summary": "野茉莉长角象（エゴヒゲナガゾウムシ）。长角象科小型甲虫，雄虫复眼向两侧大幅突出、面貌独特，聚于野茉莉果实，幼虫食于果实（种子）内。",
+      "habitat_hint": "杂木林、林缘、有野茉莉之林。",
+      "finding_tips": "初夏至夏，于野茉莉果实周边寻找。雄虫向两侧突出的复眼之独特面貌为辨识要点。"
+    }
+  },
+  "Filipendula multijuga": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蚊子草"
+    },
+    "ja": {
+      "summary": "シモツケソウ。山地の草地に生えるバラ科の多年草。夏、淡紅色の小さな花が集まって、霞(かすみ)のようなふんわりした花のかたまりを咲かせる。葉は手のひら状に裂ける。シモツケ(木本)に似るが草本。",
+      "habitat_hint": "山地の草地、草原、明るい林縁、湿った斜面。",
+      "finding_tips": "6〜8月、山地の草地で淡紅色の霞状の花のかたまりを探します。ふんわりした淡紅色の集合花と掌状の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "A rose-family perennial of montane grassland that in summer bears fluffy, mist-like clusters of small pink flowers; the leaves are palmately lobed. Like the shrubby Spiraea japonica but herbaceous.",
+      "habitat_hint": "Montane grassland, meadows, bright edges, and damp slopes.",
+      "finding_tips": "From June to August look in montane grassland for fluffy pink flower clusters. The misty pink flower masses and palmate leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "蚊子草属绣线菊（シモツケソウ）。生于山地草地的蔷薇科多年生草本，夏季淡红色小花聚成如霞般蓬松的花团，叶掌状裂，似绣线菊（木本）而为草本。",
+      "habitat_hint": "山地草地、草原、明亮林缘、湿润坡地。",
+      "finding_tips": "6 至 8 月，于山地草地寻找淡红色如霞的花团。蓬松的淡红聚合花与掌状叶为辨识要点。"
+    }
+  },
+  "Fissidens crispulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crisped Pocket Moss",
+    "aliases": {
+      "zh-Hans": "卷叶凤尾藓"
+    },
+    "ja": {
+      "summary": "サクラジマホウオウゴケ。湿った土や岩に生えるホウオウゴケ科のセン類(コケ植物)。葉が左右2列に並び、鳳凰(ほうおう)の羽のように見えることが仲間の名の由来。小型で湿った場所に群生する。",
+      "habitat_hint": "湿った土、岩、崖、沢沿いの陰地。",
+      "finding_tips": "一年中(特に湿った時期)、湿った土や岩で羽状に葉を並べる小さなコケを探します。左右2列に並ぶ葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "A pocket moss (Fissidens) on damp soil and rock; its leaves are arranged in two ranks like a phoenix's feather (the source of the group's Japanese name). Small, it grows in colonies in damp places.",
+      "habitat_hint": "Damp soil, rock, cliffs, and shaded streamsides.",
+      "finding_tips": "Year-round (especially when damp) look on wet soil and rock for a small moss with feather-like two-ranked leaves. The two-ranked leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "卷叶凤尾藓（サクラジマホウオウゴケ）。生于湿润土壤与岩石的凤尾藓科藓类，叶左右两列排列、状如凤凰羽（其类和名之源），体小、于湿润处成群。",
+      "habitat_hint": "湿润土壤、岩石、崖壁、溪边阴处。",
+      "finding_tips": "全年（尤潮湿时），于湿土与岩石上寻找叶呈羽状两列的小藓。左右两列排列的叶为辨识要点。"
+    }
+  },
+  "Gastrodia elata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "天麻"
+    },
+    "ja": {
+      "summary": "オニノヤガラ。山地の林内に生えるラン科の多年草。葉緑素をもたず、ナラタケ菌と共生して養分を得る。初夏、高さ1mにもなる褐色の茎を立て、その先に多数の壺状の花をつける。漢方薬「天麻」として知られる。",
+      "habitat_hint": "山地の林内、やや湿った林床、木陰。",
+      "finding_tips": "5〜7月、林床で葉のない褐色の高い茎に壺状の花が並ぶ姿を探します。葉緑素のない褐色の茎と多数の壺状の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Tall Gastrodia. An orchid of montane forest that lacks chlorophyll and obtains nutrients via symbiosis with honey-fungus (Armillaria); in early summer it raises a brown stalk up to 1 m tall topped with many urn-shaped flowers. Known as the herbal drug 'tianma'.",
+      "habitat_hint": "Montane forest interior, damp forest floor, in shade.",
+      "finding_tips": "From May to July look on the forest floor for a leafless brown stalk lined with urn-shaped flowers. The chlorophyll-less brown stalk and urn flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "天麻（オニノヤガラ）。生于山地林内的兰科多年生草本，无叶绿素，与蜜环菌共生取养，初夏立褐色茎高可达 1 米，顶生多数壶状花，为中药“天麻”。",
+      "habitat_hint": "山地林内、略湿林床、树荫。",
+      "finding_tips": "5 至 7 月，于林床寻找无叶的褐色高茎上排列壶状花之姿。无叶绿素的褐茎与多数壶状花为辨识要点。"
+    }
+  },
+  "Gavia pacifica": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "太平洋潜鸟"
+    },
+    "ja": {
+      "summary": "シロエリオオハム。冬に海や内湾に渡来するアビ科の海鳥。非繁殖期は背が黒褐色、腹が白く、首の境がはっきりする。潜水が得意で、水中を泳いで魚を捕える。沖合や内湾で見られる冬鳥。",
+      "habitat_hint": "内湾、海岸、沖合、港湾。",
+      "finding_tips": "11〜3月、海上や内湾で潜水する海鳥を探します。背の黒褐色と腹の白、首のはっきりした境目が識別ポイント。"
+    },
+    "en": {
+      "summary": "Pacific Loon. A diving seabird wintering on the sea and in inner bays; in non-breeding plumage it is dark brown above and white below with a sharp neck boundary. An expert diver, it swims after fish. A winter visitor seen offshore and in bays.",
+      "habitat_hint": "Inner bays, coasts, offshore waters, and harbours.",
+      "finding_tips": "From November to March watch the sea and bays for a diving seabird. The dark-above, white-below body with a sharp neck line is diagnostic."
+    },
+    "zh": {
+      "summary": "太平洋潜鸟（シロエリオオハム）。冬季到访海域与内湾的潜鸟科海鸟，非繁殖羽背黑褐、腹白、颈部界限分明，善潜水捕鱼，为见于外海与内湾的冬候鸟。",
+      "habitat_hint": "内湾、海岸、外海、港湾。",
+      "finding_tips": "11 至 3 月，于海上与内湾寻找潜水的海鸟。背黑褐、腹白与颈部分明界限为辨识要点。"
+    }
+  },
+  "Gleditsia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "山皂荚"
+    },
+    "ja": {
+      "summary": "サイカチ。川岸や原野に生えるマメ科の落葉高木。幹や枝に鋭く分枝した大きなとげをもつ。ねじれた大きな豆果(さや)をつけ、昔はさやを石けんの代用にした。羽状複葉をもつ。",
+      "habitat_hint": "川岸、原野、河川敷、社寺、人里近くの林。",
+      "finding_tips": "一年中、幹や枝に分枝した大きな鋭いとげをもつ高木を探します。枝分かれした大きなとげと、ねじれた豆果が識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese honey locust. A deciduous legume tree of riverbanks and open country with large, sharply branched thorns on the trunk and branches; it bears large twisted pods (once used as a soap substitute) and pinnate leaves.",
+      "habitat_hint": "Riverbanks, open country, shrines, and woods near villages.",
+      "finding_tips": "Year-round look for a tree with large branched sharp thorns on trunk and branches. The branched thorns and twisted pods are diagnostic."
+    },
+    "zh": {
+      "summary": "山皂荚（サイカチ）。生于河岸与原野的豆科落叶乔木，干枝具锐利分枝大刺，结扭曲大荚（旧时荚可代肥皂），叶为羽状复叶。",
+      "habitat_hint": "河岸、原野、河滩、寺社、近村林地。",
+      "finding_tips": "全年寻找干枝具分枝大刺的乔木。分枝的大刺与扭曲的荚果为辨识要点。"
+    }
   }
 }
