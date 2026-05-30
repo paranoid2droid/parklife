@@ -70276,5 +70276,568 @@
       "habitat_hint": "杂木林、朽木、生菌的倒木、林缘。",
       "finding_tips": "初夏至秋，于朽木与真菌周边寻找。黑体上的红斑为辨识要点。"
     }
+  },
+  "Ossoides lineatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat Lace Bug Planthopper",
+    "aliases": {
+      "zh-Hans": "扁飞虱"
+    },
+    "ja": {
+      "summary": "ヒラタグンバイウンカ。グンバイウンカ科の小型の昆虫。翅が網目状で、軍配(ぐんばい)のように平たく広がる独特の姿をしている。樹木や草本の葉で植物の汁を吸う。",
+      "habitat_hint": "林縁、樹木の葉、草地、河川敷の草本。",
+      "finding_tips": "春〜秋、樹木や草本の葉上で探します。網目状で平たく広がる翅が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small lace-bug planthopper with net-veined wings that spread flat like a fan — a distinctive look; it sucks sap on tree and herb foliage.",
+      "habitat_hint": "Forest edges, tree foliage, grassland, and riverbank herbs.",
+      "finding_tips": "From spring to autumn check tree and herb foliage. The flat, fan-like net-veined wings are diagnostic."
+    },
+    "zh": {
+      "summary": "扁飞虱（ヒラタグンバイウンカ）。军配飞虱科小型昆虫，翅具网状脉、扁平展开如团扇、形态独特，于树木与草本叶上吸食汁液。",
+      "habitat_hint": "林缘、树木叶、草地、河滩草本。",
+      "finding_tips": "春至秋，于树木与草本叶上寻找。网状脉、扁平展开的翅为辨识要点。"
+    }
+  },
+  "Plestiodon japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本石龙子"
+    },
+    "ja": {
+      "summary": "ニホントカゲ。日当たりのよい草地や石垣、林縁にすむトカゲ科の爬虫類。体に光沢があり、幼体は青い尾をもつ。すばやく動き、昆虫などを食べる。人家周辺でも見られる。日本西部に分布(東部はヒガシニホントカゲ)。",
+      "habitat_hint": "日当たりのよい草地、石垣、林縁、河原、人家周辺。",
+      "finding_tips": "春〜秋の晴れた日、石垣や地表ですばやく動くトカゲを探します。光沢のある体と、幼体の青い尾が識別ポイント。"
+    },
+    "en": {
+      "summary": "A skink of sunny grassland, stone walls, and forest edges; its body is glossy and juveniles have a blue tail. It moves quickly and eats insects, occurring even near houses. Found in western Japan (the east has a sibling species).",
+      "habitat_hint": "Sunny grassland, stone walls, forest edges, gravel, near homes.",
+      "finding_tips": "On sunny days from spring to autumn watch walls and ground for a fast-moving lizard. The glossy body and juvenile blue tail are diagnostic."
+    },
+    "zh": {
+      "summary": "日本石龙子（ニホントカゲ）。栖于向阳草地、石垣与林缘的石龙子科爬行类，体有光泽，幼体尾蓝，行动迅捷、取食昆虫，民居周边亦见。分布于日本西部（东部为东日本石龙子）。",
+      "habitat_hint": "向阳草地、石垣、林缘、河滩、民居周边。",
+      "finding_tips": "春至秋晴日，于石垣与地表寻找迅捷的蜥蜴。有光泽的体与幼体蓝尾为辨识要点。"
+    }
+  },
+  "Pleuroploca trapezium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "细带蛾螺"
+    },
+    "ja": {
+      "summary": "イトマキボラ。暖海の岩礁や砂底にすむイトマキボラ科の大型の巻貝。太く頑丈な紡錘形の殻に、糸を巻いたような筋(螺肋)がある。肉食性で他の貝などを食べる。殻は装飾にも使われる。",
+      "habitat_hint": "暖海の岩礁、潮下帯〜浅海の砂底。",
+      "finding_tips": "潮下帯〜浅海の岩礁や砂底で探します。太く頑丈な紡錘形の殻と糸を巻いたような筋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Trapeze horse conch. A large fasciolariid sea snail of warm-water reefs and sand bottoms with a stout, sturdy spindle-shaped shell ribbed by thread-like spiral cords; carnivorous, it eats other molluscs. Its shell is used for ornament.",
+      "habitat_hint": "Warm-water reefs, subtidal to shallow sand bottoms.",
+      "finding_tips": "Search reefs and sand bottoms from the subtidal to the shallows. The stout spindle shell with thread-like spiral cords is diagnostic."
+    },
+    "zh": {
+      "summary": "细带蛾螺（イトマキボラ）。栖于暖海岩礁与沙底的细带螺科大型腹足类，壳粗壮纺锤形、具如缠丝的螺肋，肉食性、捕食他贝，壳供装饰。",
+      "habitat_hint": "暖海岩礁、潮下带至浅海沙底。",
+      "finding_tips": "于潮下带至浅海岩礁与沙底寻找。粗壮纺锤壳与如缠丝的螺肋为辨识要点。"
+    }
+  },
+  "Plumbago auriculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蓝雪花"
+    },
+    "ja": {
+      "summary": "ルリマツリ(プルンバゴ)。南アフリカ原産でイソマツ科の半つる性の常緑低木。夏〜秋まで長く、淡い青色(瑠璃色)の5弁の花を房状に咲かせる。暖地で生垣や鉢に植えられる観賞植物。",
+      "habitat_hint": "庭園、生垣、鉢植え、暖地の植栽。",
+      "finding_tips": "6〜10月、淡い青色の5弁花を房状に咲かせる半つる性の低木を探します。涼しげな瑠璃色の花の房が識別ポイント。"
+    },
+    "en": {
+      "summary": "Cape leadwort (plumbago). A South African semi-climbing evergreen shrub of the leadwort family that bears clusters of pale-blue (azure) five-petalled flowers over a long season from summer into autumn; an ornamental grown in hedges and pots in warm regions.",
+      "habitat_hint": "Gardens, hedges, containers, and warm-region plantings.",
+      "finding_tips": "From June to October look for a semi-climbing shrub with clusters of pale-blue five-petalled flowers. The cool azure flower clusters are diagnostic."
+    },
+    "zh": {
+      "summary": "蓝雪花（ルリマツリ）。原产南非的白花丹科半蔓性常绿灌木，自夏至秋长期成簇开淡蓝色（琉璃色）五瓣花，为暖地植于绿篱与盆栽的观赏植物。",
+      "habitat_hint": "庭园、绿篱、盆栽、暖地栽培。",
+      "finding_tips": "6 至 10 月，寻找成簇开淡蓝色五瓣花的半蔓性灌木。清凉的琉璃色花簇为辨识要点。"
+    }
+  },
+  "Pohlia flexuosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange-bud Thread-moss",
+    "aliases": {
+      "zh-Hans": "丝瓜藓"
+    },
+    "ja": {
+      "summary": "ケヘチマゴケ。湿った土や岩、林道ののり面などに生えるセン類(コケ植物)。緑色の小さな群落をつくる。茎の上部に橙色の無性芽(むかご状の芽)をつけて増えることがある。",
+      "habitat_hint": "湿った土、岩、林道ののり面、崖、裸地。",
+      "finding_tips": "一年中、湿った土や岩で緑色の小さなコケの群落を探します。茎の上部につく橙色の無性芽が識別ポイント。"
+    },
+    "en": {
+      "summary": "Orange-bud Thread-moss (Pohlia). A moss of damp soil, rock, and trail cuttings that forms small green colonies; it can spread by orange asexual bulbils borne at the upper stem.",
+      "habitat_hint": "Damp soil, rock, trail cuttings, cliffs, and bare ground.",
+      "finding_tips": "Year-round look on damp soil and rock for small green moss colonies. The orange bulbils at the upper stem are diagnostic."
+    },
+    "zh": {
+      "summary": "丝瓜藓（ケヘチマゴケ）。生于湿润土壤、岩石与林道边坡的藓类，形成绿色小群落，茎上部常生橙色无性芽（珠芽状）以繁殖。",
+      "habitat_hint": "湿润土壤、岩石、林道边坡、崖壁、裸地。",
+      "finding_tips": "全年于湿润土与岩石上寻找绿色小藓群落。茎上部的橙色无性芽为辨识要点。"
+    }
+  },
+  "Polystichum kurokawae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kurokawa's Holly Fern",
+    "aliases": {
+      "zh-Hans": "黑川耳蕨"
+    },
+    "ja": {
+      "summary": "アカメイノデ。山地の林内に生えるオシダ科イノデの仲間の常緑シダ。新葉(芽出し)が赤みをおびることが名の由来。2回羽状の光沢のある葉をもち、湿った林床に生える。",
+      "habitat_hint": "山地の林内、湿った林床、谷沿い、木陰。",
+      "finding_tips": "春〜初夏、赤みをおびて展開する新葉と、光沢のある2回羽状の葉を探します。赤い新芽が識別ポイント。"
+    },
+    "en": {
+      "summary": "A holly fern (Polystichum) of montane forest, an evergreen 'inode' fern named for its reddish young growth; it has glossy bipinnate fronds and grows on damp forest floors.",
+      "habitat_hint": "Montane forest interior, damp floor, valleys, and shade.",
+      "finding_tips": "From spring to early summer look for reddish unfurling new fronds and glossy bipinnate fronds. The reddish new growth is diagnostic."
+    },
+    "zh": {
+      "summary": "黑川耳蕨（アカメイノデ）。生于山地林内的鳞毛蕨科耳蕨类常绿蕨，新叶（萌发）带红而得名，叶二回羽状有光泽，生于湿润林床。",
+      "habitat_hint": "山地林内、湿润林床、谷沿、树荫。",
+      "finding_tips": "春至初夏，寻找带红展开的新叶与有光泽的二回羽状叶。红色新芽为辨识要点。"
+    }
+  },
+  "Polystichum namegatae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nameaata's Holly Fern",
+    "aliases": {
+      "zh-Hans": "行方耳蕨"
+    },
+    "ja": {
+      "summary": "ミツイシイノデ。山地の林内に生えるオシダ科イノデの仲間の常緑シダ。光沢のある2回羽状の葉をもつ。イノデの仲間は種類が多く見分けが難しいが、本種は山地の湿った林床に生える。",
+      "habitat_hint": "山地の林内、湿った林床、谷沿い、木陰。",
+      "finding_tips": "一年中、林床で光沢のある2回羽状の常緑の葉を探します。やや大型でつやのある羽状葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "An evergreen holly fern (Polystichum) of montane forest with glossy bipinnate fronds; the group is species-rich and hard to tell apart, but this one grows on damp montane forest floors.",
+      "habitat_hint": "Montane forest interior, damp floor, valleys, and shade.",
+      "finding_tips": "Year-round look on the forest floor for glossy bipinnate evergreen fronds. The largish glossy pinnate fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "行方耳蕨（ミツイシイノデ）。生于山地林内的鳞毛蕨科耳蕨类常绿蕨，叶二回羽状有光泽，耳蕨类种多难辨，本种生于湿润山地林床。",
+      "habitat_hint": "山地林内、湿润林床、谷沿、树荫。",
+      "finding_tips": "全年于林床寻找有光泽的二回羽状常绿叶。略大而有光泽的羽状叶为辨识要点。"
+    }
+  },
+  "Polystichum ongataense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ongata Holly Fern",
+    "aliases": {
+      "zh-Hans": "恩方耳蕨"
+    },
+    "ja": {
+      "summary": "オンガタイノデ。丘陵〜低山の林内に生えるオシダ科イノデの仲間の常緑シダ。光沢のある2回羽状の葉をもつ。東京の恩方(おんがた)で見いだされたことが名の由来。湿った林床に生える。",
+      "habitat_hint": "丘陵〜低山の林内、湿った林床、谷沿い。",
+      "finding_tips": "一年中、林床で光沢のある2回羽状の常緑の葉を探します。つやのある羽状葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "An evergreen holly fern (Polystichum) of hill and low-montane forest with glossy bipinnate fronds; named for Ongata in Tokyo where it was found. It grows on damp forest floors.",
+      "habitat_hint": "Hill to low-montane forest, damp floor, and valleys.",
+      "finding_tips": "Year-round look on the forest floor for glossy bipinnate evergreen fronds. The glossy pinnate fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "恩方耳蕨（オンガタイノデ）。生于丘陵至低山林内的鳞毛蕨科耳蕨类常绿蕨，叶二回羽状有光泽，因发现于东京恩方而得名，生于湿润林床。",
+      "habitat_hint": "丘陵至低山林内、湿润林床、谷沿。",
+      "finding_tips": "全年于林床寻找有光泽的二回羽状常绿叶。有光泽的羽状叶为辨识要点。"
+    }
+  },
+  "Potamogeton oxyphyllus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "尖叶眼子菜"
+    },
+    "ja": {
+      "summary": "ヤナギモ。池沼や流れのある川、用水路に生える沈水性の水草(ヒルモ科)。柳の葉のように細長い葉を水中につける。流れのある水域に多く、水中で群落をつくる。",
+      "habitat_hint": "池沼、河川、用水路、流れのある水域。",
+      "finding_tips": "一年中、水中で柳の葉のように細長い葉をもつ水草を探します。細長い柳葉状の沈水葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Acuminate-leaf pondweed. A submerged aquatic (Potamogetonaceae) of ponds, flowing rivers, and ditches with long, narrow willow-like submerged leaves; common in flowing water, it forms underwater colonies.",
+      "habitat_hint": "Ponds, rivers, ditches, and flowing water.",
+      "finding_tips": "Year-round look underwater for a plant with long willow-like leaves. The long narrow willow-shaped submerged leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "尖叶眼子菜（ヤナギモ）。生于池沼、流水河与灌渠的眼子菜科沉水植物，水中叶细长如柳叶，多见于流水，于水下成群。",
+      "habitat_hint": "池沼、河川、灌渠、有流水的水域。",
+      "finding_tips": "全年于水中寻找具细长柳叶状叶的水草。细长的柳叶状沉水叶为辨识要点。"
+    }
+  },
+  "Potentilla rosulifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Creeping Cinquefoil",
+    "aliases": {
+      "zh-Hans": "匍匐委陵菜"
+    },
+    "ja": {
+      "summary": "ツルキンバイ。山地の林縁や草地に生えるバラ科の多年草。花後に走出枝(つる)を伸ばして広がる。3枚の小葉(三つ葉)の葉をもち、春に黄色い5弁の花を咲かせる。キジムシロの仲間。",
+      "habitat_hint": "山地の林縁、草地、明るい斜面、林床。",
+      "finding_tips": "4〜6月、三つ葉の葉と黄色い5弁花を探します。花後に伸びる走出枝と、3小葉の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "A creeping cinquefoil (Potentilla) of montane forest edges and grassland that spreads by runners after flowering; it has trifoliate leaves and yellow five-petalled flowers in spring.",
+      "habitat_hint": "Montane forest edges, grassland, bright slopes, and floor.",
+      "finding_tips": "From April to June look for trifoliate leaves and yellow five-petalled flowers. The post-flowering runners and three-leaflet leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "匍匐委陵菜（ツルキンバイ）。生于山地林缘与草地的蔷薇科多年生草本，花后伸匍匐枝（蔓）扩展，叶三出，春开黄色五瓣花，为委陵菜类。",
+      "habitat_hint": "山地林缘、草地、明亮坡地、林床。",
+      "finding_tips": "4 至 6 月，寻找三出叶与黄色五瓣花。花后伸出的匍匐枝与三小叶为辨识要点。"
+    }
+  },
+  "Promalactis suzukiella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-streaked Concealer Moth",
+    "aliases": {
+      "zh-Hans": "铃木白斑织蛾"
+    },
+    "ja": {
+      "summary": "シロスジカバマルハキバガ。マルハキバガ科の小型の蛾。樺色(かばいろ＝赤褐色)の翅に白い筋(白条)がある小さな蛾。林縁や雑木林で見られ、灯火に集まる。幼虫は朽木や落葉などを食べる。",
+      "habitat_hint": "雑木林、林縁、樹林地の灯火周辺。",
+      "finding_tips": "春〜秋の夜、灯火で探します。樺色の翅に走る白い筋が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small concealer moth with white streaks on tawny reddish-brown wings; seen at forest edges and in woodland, coming to lights. Its larvae feed on rotten wood and leaf litter.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On nights from spring to autumn check lights. The white streaks on tawny wings are diagnostic."
+    },
+    "zh": {
+      "summary": "铃木白斑织蛾（シロスジカバマルハキバガ）。织蛾科小型蛾，翅桦色（红褐）具白色纵纹，见于杂木林与林缘，趋光，幼虫取食朽木与落叶。",
+      "habitat_hint": "杂木林、林缘、林地灯光周边。",
+      "finding_tips": "春至秋夜间，于灯下寻找。桦色翅上的白色纵纹为辨识要点。"
+    }
+  },
+  "Pseudaspius hakonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "珠星三块鱼"
+    },
+    "ja": {
+      "summary": "ウグイ。河川の上〜中流や湖に広くすむコイ科の魚。細長い体で、ふだんは銀色だが、繁殖期には体側に赤い婚姻色の縦帯が現れる。雑食性で、各地の川にごく普通にすむ。釣りの対象にもなる。",
+      "habitat_hint": "河川の上〜中流、湖沼、流れのある水域。",
+      "finding_tips": "川の流れのある場所で、細長い銀色の魚を探します。繁殖期(春)の体側の赤い縦帯が識別ポイント。"
+    },
+    "en": {
+      "summary": "Big-scaled redfin (Japanese dace). A cyprinid widespread in upper-to-mid rivers and lakes; slender and usually silvery, in the breeding season it shows red nuptial stripes along the side. Omnivorous and very common, it is also an angling target.",
+      "habitat_hint": "Upper-to-mid rivers, lakes, and flowing waters.",
+      "finding_tips": "In flowing river stretches look for a slender silvery fish. The red lateral stripes in the breeding season (spring) are diagnostic."
+    },
+    "zh": {
+      "summary": "珠星三块鱼（ウグイ）。广布于河川上中游与湖泊的鲤科鱼，体细长、平时银色，繁殖期体侧现红色婚姻色纵带，杂食、极常见，亦为钓鱼对象。",
+      "habitat_hint": "河川上中游、湖沼、有流水的水域。",
+      "finding_tips": "于河川流水处寻找细长银色鱼。繁殖期（春）体侧红色纵带为辨识要点。"
+    }
+  },
+  "Pseudocydonia sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "木瓜"
+    },
+    "ja": {
+      "summary": "カリン。中国原産でバラ科の落葉高木。春に淡紅色の花を咲かせ、秋に大きく硬い黄色い果実をつける。果実は強い芳香があり、のど飴や果実酒に使われる(生では渋くて食べられない)。庭木や公園樹として植えられる。",
+      "habitat_hint": "庭園、公園、社寺、人家周辺の植栽。",
+      "finding_tips": "秋、大きく硬い黄色い香りのよい果実を探します。大きな黄色い果実と、まだら状にはがれる樹皮が識別ポイント。"
+    },
+    "en": {
+      "summary": "Chinese quince. A deciduous rose-family tree native to China that opens pink flowers in spring and bears large, hard yellow fruits in autumn; the fragrant fruit is used for throat lozenges and fruit liqueur (too astringent to eat raw). Planted in gardens and parks.",
+      "habitat_hint": "Gardens, parks, shrines, and plantings near homes.",
+      "finding_tips": "In autumn look for large, hard, fragrant yellow fruits. The big yellow fruit and dappled flaking bark are diagnostic."
+    },
+    "zh": {
+      "summary": "木瓜（カリン，光皮木瓜）。原产中国的蔷薇科落叶乔木，春开淡红色花，秋结大而硬的黄色果实，果香浓、用于润喉糖与果酒（生食涩不可口），植于庭园与公园。",
+      "habitat_hint": "庭园、公园、寺社、民居周边栽培。",
+      "finding_tips": "秋季寻找大而硬、芳香的黄色果实。黄色大果与斑驳剥落的树皮为辨识要点。"
+    }
+  },
+  "Pteris semipinnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "半边旗"
+    },
+    "ja": {
+      "summary": "オオアマクサシダ。暖地の林内や林縁、石垣などに生えるイノモトソウ科のシダ。羽片の片側だけが櫛(くし)状に切れ込む独特の葉の形をしている。湿った半日陰に生える。",
+      "habitat_hint": "暖地の林内、林縁、石垣、谷沿いの半日陰。",
+      "finding_tips": "一年中、羽片の片側だけが切れ込む独特の葉のシダを探します。左右非対称に切れ込む羽片が識別ポイント。"
+    },
+    "en": {
+      "summary": "Big unequal-lobe brake fern. A brake fern (Pteridaceae) of warm-region forest, edges, and stone walls with a distinctive frond in which only one side of each pinna is comb-cut; it grows in damp partial shade.",
+      "habitat_hint": "Warm-region forest, edges, stone walls, and shaded valleys.",
+      "finding_tips": "Year-round look for a fern whose pinnae are cut on only one side. The one-sided (asymmetric) comb-cut pinnae are diagnostic."
+    },
+    "zh": {
+      "summary": "半边旗（オオアマクサシダ）。生于暖地林内、林缘与石垣的凤尾蕨科蕨类，羽片仅一侧呈栉状深裂、叶形独特，生于湿润半阴处。",
+      "habitat_hint": "暖地林内、林缘、石垣、谷沿半阴处。",
+      "finding_tips": "全年寻找羽片仅一侧深裂的独特蕨。左右不对称深裂的羽片为辨识要点。"
+    }
+  },
+  "Pterodecta felderi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Anchor-marked Day Moth",
+    "aliases": {
+      "zh-Hans": "锚纹蛾"
+    },
+    "ja": {
+      "summary": "イカリモンガ。昼に活動するイカリモンガ科の蛾。橙色の翅に、いかり(錨)のような形の白い紋があることが名の由来。チョウのように昼間に花を訪れ、翅を立ててとまる。成虫で越冬する。",
+      "habitat_hint": "山地の林縁、雑木林、花の咲く場所。",
+      "finding_tips": "日中、林縁の花や葉上で探します。橙色の翅にある錨形の白い紋と、チョウのように翅を立ててとまる姿が識別ポイント。"
+    },
+    "en": {
+      "summary": "A day-flying moth named for the anchor-shaped white mark on its orange wings; like a butterfly it visits flowers by day and rests with wings raised. Adults overwinter.",
+      "habitat_hint": "Montane forest edges, woodland, and flowering spots.",
+      "finding_tips": "By day check edge flowers and foliage. The anchor-shaped white mark on orange wings and butterfly-like raised-wing rest are diagnostic."
+    },
+    "zh": {
+      "summary": "锚纹蛾（イカリモンガ）。昼行性的锚纹蛾科蛾，橙翅具锚形白斑而得名，如蝶般白昼访花、竖翅停栖，成虫越冬。",
+      "habitat_hint": "山地林缘、杂木林、开花处。",
+      "finding_tips": "日间于林缘花叶上寻找。橙翅上的锚形白斑与如蝶竖翅停栖为辨识要点。"
+    }
+  },
+  "Pterostichus haptoderoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flask Carabid Beetle",
+    "aliases": {
+      "zh-Hans": "壶步甲"
+    },
+    "ja": {
+      "summary": "トックリナガゴミムシ。オサムシ科の中型の甲虫。黒くつやのある体で、後方がふくらんで徳利(とっくり)のような形に見える。林床の地表や落葉の下にすみ、夜行性で小動物を捕える。飛べない種が多い。",
+      "habitat_hint": "雑木林、林床の地表、落葉の下、林縁。",
+      "finding_tips": "春〜秋、林床の落葉や石の下で探します。黒くつやのある徳利形の体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium ground beetle (Pterostichus), glossy black with a rear-swollen, flask-like outline; it lives on the forest floor and under leaf litter, a nocturnal predator of small animals. Many such beetles are flightless.",
+      "habitat_hint": "Woodland, forest-floor ground, under leaf litter, and edges.",
+      "finding_tips": "From spring to autumn search under leaf litter and stones on the forest floor. The glossy black flask-shaped body is diagnostic."
+    },
+    "zh": {
+      "summary": "壶步甲（トックリナガゴミムシ）。步甲科中型甲虫，体黑而有光泽、后部膨大如酒壶，栖于林床地表与落叶下，夜行捕食小动物，多不能飞。",
+      "habitat_hint": "杂木林、林床地表、落叶下、林缘。",
+      "finding_tips": "春至秋，于林床落叶或石下寻找。黑而有光泽的壶形体为辨识要点。"
+    }
+  },
+  "Pterostyrax hispidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "白辛树"
+    },
+    "ja": {
+      "summary": "オオバアサガラ。山地の沢沿いや谷に生えるエゴノキ科の落葉高木。初夏、白い小さな花が垂れ下がる房状の花序(円錐花序)を多数つける。大きな葉をもち、湿った渓谷沿いに群生することがある。",
+      "habitat_hint": "山地の沢沿い、谷、湿った林、林縁。",
+      "finding_tips": "5〜6月、白い小花が垂れ下がる房状の花序を多数つける高木を探します。垂れ下がる白い花序と大きな葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Epaulette Tree. A deciduous tree of the snowbell family along montane streamsides and valleys; in early summer it bears many drooping panicles of small white flowers. With large leaves, it can grow in stands along damp gorges.",
+      "habitat_hint": "Montane streamsides, valleys, damp woods, and edges.",
+      "finding_tips": "From May to June look for a tree with many drooping panicles of small white flowers. The drooping white panicles and large leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "白辛树（オオバアサガラ）。生于山地溪边与谷地的安息香科落叶乔木，初夏密生下垂的白色小花圆锥花序，叶大，常沿湿润溪谷成群。",
+      "habitat_hint": "山地溪边、谷地、湿润林地、林缘。",
+      "finding_tips": "5 至 6 月，寻找密生下垂白色小花圆锥花序的乔木。下垂的白色花序与大叶为辨识要点。"
+    }
+  },
+  "Pyracantha coccinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "火棘"
+    },
+    "ja": {
+      "summary": "トキワサンザシ(ピラカンサ)。ヨーロッパ〜西アジア原産でバラ科の常緑低木。枝に鋭いとげがある。初夏に白い小花を多数つけ、秋〜冬に赤い小さな実をびっしりとつける。生垣や庭木に広く植えられる。",
+      "habitat_hint": "生垣、庭園、公園、街路の植栽。",
+      "finding_tips": "10〜12月、枝にびっしりとつく赤い小さな実を探します。鋭いとげと、枝に密につく赤い実が識別ポイント。"
+    },
+    "en": {
+      "summary": "Firethorn (scarlet firethorn). An evergreen rose-family shrub from Europe to West Asia with sharp thorns; it bears many small white flowers in early summer and masses of small red berries in autumn to winter. Widely planted in hedges and gardens.",
+      "habitat_hint": "Hedges, gardens, parks, and streets (planted).",
+      "finding_tips": "From October to December look for masses of small red berries densely set on thorny branches. The sharp thorns and dense red berries are diagnostic."
+    },
+    "zh": {
+      "summary": "火棘（トキワサンザシ，火刺木）。原产欧洲至西亚的蔷薇科常绿灌木，枝具利刺，初夏密生白色小花，秋冬枝上密缀红色小果，广植为绿篱与庭木。",
+      "habitat_hint": "绿篱、庭园、公园、街道栽培。",
+      "finding_tips": "10 至 12 月，寻找枝上密缀的红色小果。利刺与密生的红果为辨识要点。"
+    }
+  },
+  "Quercus aliena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "槲栎"
+    },
+    "ja": {
+      "summary": "ナラガシワ。山地や丘陵に生えるブナ科の落葉高木。カシワに似た大きな葉をもち(葉の縁が波打つ)、コナラの仲間でもある。秋にどんぐりをつける。やや湿った肥沃な場所に多い。",
+      "habitat_hint": "山地・丘陵の落葉広葉樹林、谷沿い、社寺林。",
+      "finding_tips": "一年中、カシワに似た大きな波打つ葉をもつ高木を探します。大きく縁が波打つ葉と、秋のどんぐりが識別ポイント。"
+    },
+    "en": {
+      "summary": "Oriental white oak. A deciduous oak of hills and mountains with large leaves resembling daimyo oak (wavy-margined); a member of the konara group, it bears acorns in autumn and favours damp, fertile sites.",
+      "habitat_hint": "Hill and montane deciduous forest, valleys, and shrine groves.",
+      "finding_tips": "Year-round look for an oak with large wavy-margined leaves. The large wavy-edged leaves and autumn acorns are diagnostic."
+    },
+    "zh": {
+      "summary": "槲栎（ナラガシワ）。生于山地与丘陵的壳斗科落叶乔木，叶大、似槲树（叶缘波状），属枹栎类，秋结橡子，多见于略湿肥沃处。",
+      "habitat_hint": "山地与丘陵落叶阔叶林、谷沿、寺社林。",
+      "finding_tips": "全年寻找叶大、波状缘、似槲树的乔木。大而波状缘的叶与秋季橡子为辨识要点。"
+    }
+  },
+  "R.arborea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "石楠杜鹃"
+    },
+    "ja": {
+      "summary": "シャクナゲ。山地に生えるツツジ科の常緑低木(シャクナゲ類の総称的な呼び名)。厚く大きな葉が枝先に集まってつき、春〜初夏に大きく華やかな花(淡紅色や白など)をまとめて咲かせる。山地の岩場や林に生え、庭木にもされる。一部に有毒成分を含む。",
+      "habitat_hint": "山地の岩場、林縁、亜高山帯、庭園の植栽。",
+      "finding_tips": "4〜6月、厚く大きな常緑の葉と、枝先にまとまって咲く大きく華やかな花を探します。枝先に集まる厚い葉と大輪の花の集まりが識別ポイント。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Rhododendron. An evergreen shrub of the heath family in mountains (a general term for rhododendrons); thick large leaves cluster at the branch tips, and in spring to early summer it bears showy clusters of large flowers (pink, white, etc.). It grows on montane rocks and in woods and is planted in gardens. Some parts are toxic.",
+      "habitat_hint": "Montane rocks, forest edges, subalpine zones, and gardens.",
+      "finding_tips": "From April to June look for thick large evergreen leaves and showy clusters of large flowers at the branch tips. The clustered thick leaves and large flower trusses are diagnostic. Toxic — do not ingest."
+    },
+    "zh": {
+      "summary": "石楠杜鹃（シャクナゲ）。生于山地的杜鹃花科常绿灌木（杜鹃类的统称），厚大叶集生枝端，春至初夏于枝端成簇开大型艳丽花（淡红、白等），生于山地岩处与林地，亦作庭木，部分含毒。",
+      "habitat_hint": "山地岩处、林缘、亚高山带、庭园栽培。",
+      "finding_tips": "4 至 6 月，寻找厚大常绿叶与枝端成簇的大型艳丽花。枝端集生的厚叶与大花序为辨识要点。有毒勿食。"
+    }
+  },
+  "Ranunculus chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "茴茴蒜"
+    },
+    "ja": {
+      "summary": "コキツネノボタン。水田の畔や湿った場所に生えるキンポウゲ科の越年草〜多年草。黄色い光沢のある5弁花を咲かせ、金平糖(こんぺいとう)のような集合果をつける。キツネノボタンに似て小型。有毒。",
+      "habitat_hint": "水田の畔、湿った草地、水路沿い、河川敷。",
+      "finding_tips": "4〜7月、湿った場所で黄色い光沢のある花と、こんぺいとう状の集合果を探します。光沢のある黄花とトゲ状の集合果が識別ポイント。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Asian buttercup. A buttercup-family biennial-to-perennial of paddy bunds and damp places with glossy yellow five-petalled flowers and a knobby aggregate fruit; like the related Ranunculus silerifolius but smaller. Toxic.",
+      "habitat_hint": "Paddy bunds, damp grassland, ditch sides, and riverbanks.",
+      "finding_tips": "From April to July look in damp ground for glossy yellow flowers and knobby aggregate fruits. The glossy yellow flowers and spiky fruit head are diagnostic. Toxic — do not ingest."
+    },
+    "zh": {
+      "summary": "茴茴蒜（コキツネノボタン）。生于田埂与湿润处的毛茛科一二年生至多年生草本，开有光泽的黄色五瓣花，结如金平糖的聚合果，似石龙芮类而小型。有毒。",
+      "habitat_hint": "田埂、湿润草地、水沟沿岸、河滩。",
+      "finding_tips": "4 至 7 月，于湿润处寻找有光泽的黄花与多刺的聚合果。光泽黄花与刺状聚合果为辨识要点。有毒勿食。"
+    }
+  },
+  "Rhaphiocerina hakiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-snouted Soldier Fly",
+    "aliases": {
+      "zh-Hans": "长喙水虻"
+    },
+    "ja": {
+      "summary": "ハキナガミズアブ。ミズアブ科のアブ。口(口吻)が長く前方に伸びることが名の由来。細長い体をもち、花の蜜を吸う。湿地や水辺、草地で見られる。刺さない。",
+      "habitat_hint": "湿地、水辺、草地、林縁、花。",
+      "finding_tips": "初夏〜夏、花の上で探します。長く前方に伸びる口吻と細長い体が識別ポイント。刺さない。"
+    },
+    "en": {
+      "summary": "A soldier fly (Stratiomyidae) named for its long, forward-projecting proboscis; with a slender body it sips flower nectar. Seen in wetlands, watersides, and grassland. It does not sting.",
+      "habitat_hint": "Wetlands, watersides, grassland, forest edges, and flowers.",
+      "finding_tips": "From early summer to summer check flowers. The long forward-projecting proboscis and slender body are diagnostic; stingless."
+    },
+    "zh": {
+      "summary": "长喙水虻（ハキナガミズアブ）。水虻科虻类，口器（喙）长而前伸而得名，体细长，吸食花蜜，见于湿地、水边与草地，不蜇人。",
+      "habitat_hint": "湿地、水边、草地、林缘、花。",
+      "finding_tips": "初夏至夏，于花上寻找。长而前伸的喙与细长体为辨识要点。不蜇人。"
+    }
+  },
+  "Rhododendron semibarbatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plum-flowered Azalea",
+    "aliases": {
+      "zh-Hans": "半髯杜鹃"
+    },
+    "ja": {
+      "summary": "バイカツツジ。山地の林内に生えるツツジ科の落葉低木。ほかのツツジより遅く、初夏に葉のかげに隠れるように小さな白い花を咲かせる。花に紅色の斑点があり、梅(ばい)の花に似ることが名の由来。",
+      "habitat_hint": "山地の落葉樹林の林内、林縁、やや湿った木陰。",
+      "finding_tips": "6〜7月、山地の林内で葉のかげに咲く小さな白い花を探します。葉に隠れて咲く、紅斑のある白い小花が識別ポイント。"
+    },
+    "en": {
+      "summary": "A deciduous azalea (Rhododendron) of montane forest that, later than other azaleas, opens small white flowers half-hidden under the leaves in early summer; the flowers have red spots and resemble plum blossom (the source of the Japanese name).",
+      "habitat_hint": "Interior of montane deciduous forest, edges, and damp shade.",
+      "finding_tips": "From June to July look in montane forest for small white flowers hidden under the leaves. The leaf-hidden, red-spotted white flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "半髯杜鹃（バイカツツジ）。生于山地林内的杜鹃花科落叶灌木，较其他杜鹃晚、初夏于叶下半隐处开白色小花，花具红斑、似梅花而得名。",
+      "habitat_hint": "山地落叶林林内、林缘、略湿树荫。",
+      "finding_tips": "6 至 7 月，于山地林内寻找隐于叶下的白色小花。叶下半隐、具红斑的白色小花为辨识要点。"
+    }
   }
 }
