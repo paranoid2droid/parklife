@@ -30,7 +30,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 ## In progress
 
-*(none)*
+**species_profile np=4 tier sweep (A68–A71 done, ~3,312 profiled / 2026-05-30).** ~263 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA72.py`, then seed→export→`cp`→commit→push. Last done: Cynanchum maximoviczii. Two ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ (local DB only, not gitignored-tracked).
 
 ## Blocked / waiting
 
