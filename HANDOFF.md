@@ -24,13 +24,13 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 37.0 MB). **3,219 species** have curated profiles in ja/en/zh/zhT (12,872 rows). **np≥5 tier is 100% covered** (2026-05-30, A54–A67 sweep, +318 profiles; np≥6 cleared 2026-05-29, np≥7 same day, np≥8 on 2026-05-28). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 37.0 MB). **3,576 species** have curated profiles in ja/en/zh/zhT (14,300 rows). **np≥4 tier is 100% covered** (2026-05-30, A68–A82 sweep, +357 profiles; np≥5 cleared earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
 **DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
 ## In progress
 
-**species_profile np=4 tier sweep (A68–A81 done, 3,546 profiled / 2026-05-30).** 30 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA82.py`, then seed→export→`cp`→commit→push. Last done: Tachysurus tokiensis (next batch starts at Taeniogonalos fasciata / キスジセアカカギバラバチ). **np=4 tier nearly cleared — A82 should finish it (~30 left), then move to np=3 (~450).** ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
+**species_profile np=4 tier CLEARED (A68–A82 done, 3,576 profiled / 2026-05-30). np≥4 coverage now 100%.** Now starting **np=3 tier (~490 candidates)**. Change `np >= 4` to `np >= 3` in the query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA83.py`, then seed→export→`cp`→commit→push. Next batch starts at Abies homolepis / ウラジロモミ (alphabetical restart for the np=3 tier). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
 
 ## Blocked / waiting
 
@@ -42,7 +42,7 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **species_profile curation — np≥5 DONE. Continue from A68 into np=4 tier** *(at 3,219 / 2026-05-30)*
+1. **species_profile curation — np≥4 DONE (A82, 2026-05-30). Now in np=3 tier from A83** *(at 3,576 / 2026-05-30)*
    - **Sidecar workflow** (`data/species_profiles_extra.json`): every entry MUST include `common_name_en` (if DB has NULL or generic) + `aliases.{zh-Hans}` (if DB lacks it) alongside the 4-language profile. zhT auto-derived via OpenCC. See `BATCH_TEMPLATE.md` at repo root.
    - **Query next batch** — change `np >= 5` to `np >= 4` (then 3, 2, …):
      ```sh
@@ -55,7 +55,8 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - **np=7 cleanup history (2026-05-29, A38–A44)**: cleared all 158 np=7 species across 7 batches (Acanthosoma→Vibidia); ~75 common_name_en + ~38 zh-Hans aliases backfilled. Demo 35.2 → 35.6 MB.
    - **np=6 cleanup history (2026-05-29, A45–A53)**: cleared all 207 np=6 species across 9 batches (Acanthochitona→Weigela) + 2 stragglers; also fixed placeholder ja-name `Bucephala albeola` カモ→ヒメハジロ in DB. Demo 35.7 → 36.2 MB.
    - **np=5 cleanup history (2026-05-30, A54–A67)**: cleared all 318 np=5 species across 14 batches (Abelia→Zaranga). Demo 36.2 → 37.0 MB. Note `R.arborea`/シャクナゲ has a mangled sci name (treated as genus-level rhododendron profile) — leave as-is.
-   - **Remaining tiers**: np≥4 → ~450, np≥3 → ~900, all visible → ~4,000. Batch of 22–23 costs ~12–16k tokens.
+   - **np=4 cleanup history (2026-05-30, A68–A82)**: cleared the whole np=4 tier across ~15 batches (Abelmoschus→Yucca). 4 ja-name DB fixes (local-only): Acer japonicum, Allium chinense→ラッキョウ, Phedimus aizoon→キリンソウ, Phillipsia domingensis→ニクアツベニサラタケ. Demo 37.0 → 38.1 MB. np≥4 coverage 100%.
+   - **Remaining tiers**: np=3 → ~490 (current), np=2 + np=1 → the long tail (all visible ~4,000). Batch of 22–24 costs ~12–16k tokens.
 
 2. **Periodic latent-data maintenance** *(run after every major ingestion; cheap)*
    - `.venv/bin/python -m scripts.merge_duplicate_species` — collapses synonym pairs sharing one `inat_taxon_id`; NULLs bogus tids covering many unrelated species. Last run 2026-05-26 (-55 dups, 6 bogus tids NULLed).
@@ -92,6 +93,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-30 (Claude) — np=4 tier CLEARED: A82 closeout (3546→3576, +30; committed + pushed)
+- Batch A82 swept Taeniogonalos → Yucca (30 entries), closing the np=4 tier. **np≥4 coverage now 100%** (verified 0 remaining).
+- Highlights: Tulip (郁金香), Feverfew + Tansy (小白菊/菊蒿), Bodhi Linden (ボダイジュ/南京椴, temple tree), Japanese Trillium (延龄草), Hiba (アスナロ/罗汉柏), Banded Houndshark (ドチザメ/皱唇鲨), By-the-wind Sailor (カツオノカンムリ/帆水母), Elephant Mosquito (トワダオオカ, predatory non-biting), Golden Bladderwort (carnivorous aquatic), Yucca, 吴茱萸.
+- Demo 38.0 → 38.1 MB. **np=3 tier next: 490 candidates, restart alphabetically from Abies homolepis. A83 onward.**
 
 ### 2026-05-30 (Claude) — np=4 tier A81 (3522→3546, +24; committed + pushed)
 - Batch A81 swept Sialis → Tachysurus. Highlights: Thread-sail Filefish (カワハギ/丝背细鳞鲀), Common Lilac (ライラック/欧丁香), Cannonball Fungus (タマハジキタケ, spore-shooting), アケボノソウ (dawn-sky gentian/獐牙菜), White Mustard, 2 bagrid catfish (ギギ/ギバチ), trap-jaw scale ant.
