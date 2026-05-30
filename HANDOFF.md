@@ -30,7 +30,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 ## In progress
 
-**species_profile np=4 tier sweep (A68–A80 done, 3,522 profiled / 2026-05-30).** 54 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA81.py`, then seed→export→`cp`→commit→push. Last done: Shaka atrovittatus (next batch starts at Sialis / センブリ属 — note: genus-level entry, alderfly). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
+**species_profile np=4 tier sweep (A68–A81 done, 3,546 profiled / 2026-05-30).** 30 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA82.py`, then seed→export→`cp`→commit→push. Last done: Tachysurus tokiensis (next batch starts at Taeniogonalos fasciata / キスジセアカカギバラバチ). **np=4 tier nearly cleared — A82 should finish it (~30 left), then move to np=3 (~450).** ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
 
 ## Blocked / waiting
 
@@ -92,6 +92,10 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-30 (Claude) — np=4 tier A81 (3522→3546, +24; committed + pushed)
+- Batch A81 swept Sialis → Tachysurus. Highlights: Thread-sail Filefish (カワハギ/丝背细鳞鲀), Common Lilac (ライラック/欧丁香), Cannonball Fungus (タマハジキタケ, spore-shooting), アケボノソウ (dawn-sky gentian/獐牙菜), White Mustard, 2 bagrid catfish (ギギ/ギバチ), trap-jaw scale ant.
+- Verified Sialis/センブリ属 = alderfly genus (insect), not the gentian. Caught + fixed a bad zh alias mid-batch (`斑足出尾蕈甲近似种`→`斑足水边大眼隐翅虫`; 出尾蕈甲 is wrong family, ハネカクシ=隐翅虫). Demo 37.9 → 38.0 MB. 30 np=4 remain. Next A82 finishes the tier.
 
 ### 2026-05-30 (Claude) — np=4 tier A80 (3498→3522, +24; committed + pushed)
 - Batch A80 swept Pteris → Shaka. Highlights: Pied Avocet (反嘴鹬), Five-leaf Azalea (シロヤシオ/五叶杜鹃), Wineberry (エビガライチゴ), Green Brittlegill (アイタケ/变绿红菇, edible russula), Fortune's Saxifrage (ダイモンジソウ, "大"-character flower), Wild Radish, Japanese Cedar Longhorn, red-gilled aeolid.
