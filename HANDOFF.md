@@ -28,7 +28,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 **DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
-**species_profile np=3 tier IN PROGRESS (A83–A88 done, 3,719 profiled / 2026-05-31).** Alphabetical sweep through np=3 candidates. Next batch A89 starts at **Dimeria ornithopoda / カリマタガヤ** (query Active #1 with `np >= 3`, take next ~24 by `s.scientific_name`, write `/tmp/profile_batchA89.py`, then seed→export→`cp`→commit→push). One bad pinyin alias purged this tier: `Jin-Wu-Zéi` (Acanthosepion esculentum) → re-seeded as 金乌贼.
+**species_profile np=3 tier IN PROGRESS (A83–A94 done, 3,863 profiled / 2026-05-31).** Alphabetical sweep through np=3 candidates (~250 remain). Next batch A95 starts at **Mogera wogura / コウベモグラ** (query Active #1 with `np >= 3`, take next ~24 by `s.scientific_name`, write `/tmp/profile_batchA95.py`, then seed→export→`cp`→commit→push). Local DB fixes this tier: `Jin-Wu-Zéi`→金乌贼 alias purge (Acanthosepion esculentum); `Hosta plantaginea` romaji ja-name `tama-no-kanzashi`→タマノカンザシ (romaji kept as ja-romaji alias).
 
 ## Blocked / waiting
 
@@ -92,10 +92,10 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ## Recent sessions
 
-### 2026-05-31 (Claude) — np=3 tier A83–A88 sweep (3576→3719, +144; 6 commits)
-- 6 batches alphabetically swept Abies homolepis → Didymium squamulosum (np=3 tier).
-- Highlights: Loggerhead Sea Turtle (endangered), ドクウツギ/Japanese Coriaria (one of Japan's 3 most poisonous plants — strong toxicity warning), Aromia bungii/桃红颈天牛 (major invasive cherry pest), Grass Carp, スベスベマンジュウガニ/Floral Egg Crab (TTX-toxic), Black Wood Pigeon + Rhinoceros Auklet + 3 Calidris sandpipers, Kobuku/Ukon sakura cultivars, many nudibranchs/slime moulds/sedges/small inverts.
-- Purged bad pinyin alias `Jin-Wu-Zéi`→金乌贼. Fixed placeholder en names (Cannon→Indian Shot, mud carp→Grass Carp, Pond Bird→Pectoral Sandpiper, LIST→Little Stint). Demo 38.1 → 38.5 MB. Next A89 from Dimeria ornithopoda.
+### 2026-05-31 (Claude) — np=3 tier A83–A94 sweep (3576→3863, +288; 12 commits)
+- 12 batches alphabetically swept Abies homolepis → Mimophantia maritima (np=3 tier; ~250 candidates remain, next from Mogera wogura).
+- Highlights: Loggerhead Sea Turtle (endangered), ドクウツギ/Japanese Coriaria (one of Japan's 3 most poisonous plants — strong warning), Aromia bungii/桃红颈天牛 (major invasive cherry pest), Grass Carp, スベスベマンジュウガニ/Floral Egg Crab (TTX-toxic), カルミア/Mountain Laurel + サワギキョウ (toxic), Black Wood Pigeon + Rhinoceros Auklet + 3 Calidris + Caspian Tern + Chinese Egret + Yellow Bunting + 2 snipe + Chinese Grey Shrike + Herring Gull (eBird-sourced), abalone, purple urchin, ミズバショウ skunk cabbage, オニバス/Prickly Waterlily (endangered), many nudibranchs/slime moulds/sedges/small inverts.
+- Local DB fixes: `Jin-Wu-Zéi`→金乌贼 alias purge; `Hosta plantaginea` ja `tama-no-kanzashi`→タマノカンザシ. Fixed placeholder en names (Cannon→Indian Shot, mud carp→Grass Carp, Pond Bird→Pectoral Sandpiper, LIST→Little Stint, shenan→Wall Iris). Demo 38.1 → 38.9 MB. Next A95 from Mogera wogura.
 
 ### 2026-05-30 (Claude) — np=4 tier CLEARED: A82 closeout (3546→3576, +30; committed + pushed)
 - Batch A82 swept Taeniogonalos → Yucca (30 entries), closing the np=4 tier. **np≥4 coverage now 100%** (verified 0 remaining).
