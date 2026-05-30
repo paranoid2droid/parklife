@@ -30,7 +30,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 ## In progress
 
-**species_profile np=4 tier sweep (A68–A78 done, 3,474 profiled / 2026-05-30).** 102 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA79.py`, then seed→export→`cp`→commit→push. Last done: Pilosabia trigona (next batch starts at Pinellia tripartita / オオハンゲ). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
+**species_profile np=4 tier sweep (A68–A79 done, 3,498 profiled / 2026-05-30).** 78 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA80.py`, then seed→export→`cp`→commit→push. Last done: Pteraeolidia semperi (next batch starts at Pteris pseudosefuricola / アイイノモトソウ). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
 
 ## Blocked / waiting
 
@@ -92,6 +92,10 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-30 (Claude) — np=4 tier A79 (3474→3498, +24; committed + pushed)
+- Batch A79 swept Pinellia → Pteraeolidia. Highlights: Indianmeal Moth (印度谷螟), Moss Rose (松叶牡丹), Blue Dragon Nudibranch (蜈蚣鳃海蛞蝓), Ruler Damselfly (モノサシトンボ), Chinese Cinquefoil (委陵菜), 3 holly ferns (イノデ属), leafless haircap moss.
+- Demo stable 37.8 MB. 78 np=4 candidates remain. Next A80 from Pteris pseudosefuricola.
 
 ### 2026-05-30 (Claude) — np=4 tier A78 (3450→3474, +24; committed + pushed)
 - Batch A78 swept Oryctolagus → Pilosabia. Highlights: European Rabbit, Tree Peony (牡丹), Short-tailed Albatross (アホウドリ, endangered), Blue Bat Star (海燕), Aizoon Stonecrop (費菜), boxfish, lantern slime mould.
