@@ -67494,5 +67494,495 @@
       "habitat_hint": "河岸、原野、河滩、寺社、近村林地。",
       "finding_tips": "全年寻找干枝具分枝大刺的乔木。分枝的大刺与扭曲的荚果为辨识要点。"
     }
+  },
+  "Glenea relicta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-spotted Longhorn",
+    "aliases": {
+      "zh-Hans": "白星天牛"
+    },
+    "ja": {
+      "summary": "シラホシカミキリ。カミキリムシ科の小型の甲虫。黒〜暗褐色の体に白い点(白星)が散る。枯れ枝や伐採木、花に集まり、幼虫は枯れた広葉樹の材を食べる。",
+      "habitat_hint": "雑木林、伐採木や枯れ枝のある林、林縁。",
+      "finding_tips": "初夏〜夏、枯れ枝や花で探します。黒〜暗褐色の体に散る白い点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small longhorn beetle, black to dark brown with scattered white spots; it gathers on dead branches, felled wood, and flowers, and the larvae bore dead broadleaf wood.",
+      "habitat_hint": "Woodland with felled wood and dead branches, forest edges.",
+      "finding_tips": "From early summer to summer check dead branches and flowers. The white spots scattered on a dark body are diagnostic."
+    },
+    "zh": {
+      "summary": "白星天牛（シラホシカミキリ）。天牛科小型甲虫，体黑至暗褐、散布白点（白星），聚于枯枝、伐木与花，幼虫蛀食阔叶枯木。",
+      "habitat_hint": "杂木林、有伐木枯枝之林、林缘。",
+      "finding_tips": "初夏至夏，于枯枝或花上寻找。黑至暗褐体上散布的白点为辨识要点。"
+    }
+  },
+  "Glossogobius olivaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Olive Tank Goby",
+    "aliases": {
+      "zh-Hans": "黄鳍叶虾虎鱼"
+    },
+    "ja": {
+      "summary": "ウロハゼ。内湾や河口の汽水域にすむハゼ科の魚。やや大型のハゼで、大きな口をもつ。砂泥底にすみ、小魚や甲殻類を食べる。マハゼに似るがより大きく口が大きい。",
+      "habitat_hint": "内湾、河口、汽水域、砂泥底の浅海。",
+      "finding_tips": "河口や内湾の砂泥底で探します。やや大型で大きな口をもつハゼが識別ポイント。"
+    },
+    "en": {
+      "summary": "Olive Tank Goby. A goby of inner bays and brackish estuaries; a fairly large goby with a big mouth, it lives on sand-mud bottoms and eats small fish and crustaceans. Larger and bigger-mouthed than the common yellowfin goby.",
+      "habitat_hint": "Inner bays, estuaries, brackish water, shallow sand-mud.",
+      "finding_tips": "Search estuary and inner-bay sand-mud bottoms. A fairly large goby with a big mouth is the clue."
+    },
+    "zh": {
+      "summary": "黄鳍叶虾虎鱼（ウロハゼ）。栖于内湾与河口咸淡水的鰕虎科鱼，体较大、口大，居沙泥底，取食小鱼与甲壳类，较斑尾刺鰕虎大而口大。",
+      "habitat_hint": "内湾、河口、咸淡水、浅海沙泥底。",
+      "finding_tips": "于河口与内湾沙泥底寻找。体较大、口大的鰕虎为辨识要点。"
+    }
+  },
+  "Glycymeris aspersa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bittersweet Clam",
+    "aliases": {
+      "zh-Hans": "费氏蚶蜊"
+    },
+    "ja": {
+      "summary": "タマキガイ。砂底にすむタマキガイ科の二枚貝。丸みのある厚い殻をもち、殻の縁(腹縁)に細かな歯が並ぶ。殻表に褐色の模様がある。砂に潜って暮らす。殻はしばしば海岸に打ち上げられる。",
+      "habitat_hint": "内湾〜浅海の砂底、外洋に面した砂浜。",
+      "finding_tips": "砂底や打ち上げられた殻で、丸く厚い二枚貝を探します。丸みのある厚い殻と縁の細かい歯が識別ポイント。"
+    },
+    "en": {
+      "summary": "A bittersweet clam (Glycymeris) of sandy bottoms with a rounded, thick shell whose ventral margin is finely toothed and surface patterned brown; it burrows in sand, and its shell is often washed ashore.",
+      "habitat_hint": "Inner-bay to shallow sand bottoms and open-coast beaches.",
+      "finding_tips": "On sand bottoms or among stranded shells look for a rounded thick clam. The rounded thick shell with a finely toothed margin is diagnostic."
+    },
+    "zh": {
+      "summary": "费氏蚶蜊（タマキガイ）。栖于沙底的蚶蜊科双壳类，壳圆厚、腹缘具细齿、壳面具褐纹，潜沙生活，壳常被冲上海岸。",
+      "habitat_hint": "内湾至浅海沙底、面向外海的沙滩。",
+      "finding_tips": "于沙底或冲上岸的壳中寻找圆厚双壳贝。圆厚的壳与边缘细齿为辨识要点。"
+    }
+  },
+  "Gomphocarpus physocarpus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "钉头果"
+    },
+    "ja": {
+      "summary": "フウセントウワタ。アフリカ原産でキョウチクトウ科(旧ガガイモ科)の多年草(暖地では低木状)。風船のようにふくらんだ、やわらかいとげのある球形の果実が特徴。白い小花を咲かせる。観賞用に栽培される。有毒。",
+      "habitat_hint": "庭園、花壇、暖地の荒れ地の植栽・野生化。",
+      "finding_tips": "夏〜秋、風船のようにふくらんだとげのある球形の果実を探します。風船状の果実が最大の識別ポイント。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Swanplant (balloon plant). An African perennial (subshrubby in warm areas) of the dogbane family (formerly milkweed family) with distinctive balloon-like, softly spiny globular fruits; it bears small white flowers and is grown as an ornamental. Toxic.",
+      "habitat_hint": "Gardens, beds, and warm-region waste ground (planted/naturalized).",
+      "finding_tips": "From summer to autumn look for balloon-like, softly spiny globular fruits. The inflated balloon fruits are the key clue. Toxic — do not ingest."
+    },
+    "zh": {
+      "summary": "钉头果（フウセントウワタ）。原产非洲的夹竹桃科（旧萝藦科）多年生草本（暖地呈灌木状），果实球形膨大如气球、具软刺为其特征，开白色小花，作观赏栽培。有毒。",
+      "habitat_hint": "庭园、花坛、暖地荒地栽培与逸生。",
+      "finding_tips": "夏至秋，寻找膨大如气球、具软刺的球形果。气球状果实为最大辨识要点。有毒勿食。"
+    }
+  },
+  "Gomphrena globosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "千日红"
+    },
+    "ja": {
+      "summary": "センニチコウ(センニチソウ)。熱帯アメリカ原産でヒユ科の一年草。紅紫・白・桃色などの球形の花(実は苞)を長く咲かせる。乾燥させても色あせにくく、ドライフラワーに使われる。花壇に広く植えられる。",
+      "habitat_hint": "花壇、公園、庭園、鉢植えの植栽。",
+      "finding_tips": "夏〜秋、球形の紅紫色などの花(苞)を長くつける草を探します。乾いたような質感の球形の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Globe amaranth. A tropical-American annual of the amaranth family that bears long-lasting globular flower heads (actually bracts) in magenta, white, or pink; it keeps its colour when dried and is used in dried arrangements. Widely planted in beds.",
+      "habitat_hint": "Flower beds, parks, gardens, and containers (planted).",
+      "finding_tips": "From summer to autumn look for plants with long-lasting magenta globular heads. The papery-textured globular flower heads are diagnostic."
+    },
+    "zh": {
+      "summary": "千日红（センニチコウ）。原产热带美洲的苋科一年生草本，开紫红、白、粉等球形花（实为苞片）、花期长，干燥后不易褪色、用于干花，广植于花坛。",
+      "habitat_hint": "花坛、公园、庭园、盆栽。",
+      "finding_tips": "夏至秋，寻找长开紫红色球形花（苞）的草。质感干燥的球形花头为辨识要点。"
+    }
+  },
+  "Graptemys pseudogeographica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "拟地图龟"
+    },
+    "ja": {
+      "summary": "ニセチズガメ。北米原産のヌマガメ科のカメ。甲羅に地図のような細かい模様があり、背に低いキール(山形の隆起)がある。ペットとして輸入されたものが各地の池や川に放され、定着している外来種。",
+      "habitat_hint": "池沼、河川、用水路、公園の池。",
+      "finding_tips": "日中、池や川の倒木・石の上で甲羅干しをする姿を探します。甲羅の地図状の細かい模様と背のキールが識別ポイント。"
+    },
+    "en": {
+      "summary": "False Map Turtle. A North American pond turtle (Emydidae) with fine map-like markings on the shell and a low keel (saw-backed ridge) along the back; imported as a pet, it has been released and established in ponds and rivers. An alien species.",
+      "habitat_hint": "Ponds, rivers, ditches, and park ponds.",
+      "finding_tips": "By day look for it basking on logs and stones in ponds and rivers. The map-like shell markings and dorsal keel are diagnostic."
+    },
+    "zh": {
+      "summary": "拟地图龟（ニセチズガメ）。原产北美的泽龟科龟，背甲具地图状细纹、背中线有低脊（锯背），作宠物引入后被放生于各地池河并定居，为外来种。",
+      "habitat_hint": "池沼、河川、灌渠、公园池塘。",
+      "finding_tips": "日间于池河倒木、石上寻找晒背之姿。背甲地图状细纹与背脊为辨识要点。"
+    }
+  },
+  "Gymnostomum aeruginosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "净口藓"
+    },
+    "ja": {
+      "summary": "オオハナシゴケ。湿った岩や石灰岩、コンクリートなどに生えるセン類(コケ植物)。緑色の小さなクッション状の群落をつくる。石灰質を含む環境を好む。崖や岩のすき間に多い。",
+      "habitat_hint": "湿った岩、石灰岩、コンクリート、崖、石垣。",
+      "finding_tips": "一年中、湿った岩やコンクリートで緑色の小さなクッション状のコケを探します。石灰質の場所に生える緑のクッション状群落が識別ポイント。"
+    },
+    "en": {
+      "summary": "A moss of damp rock, limestone, and concrete that forms small green cushion-like colonies; it favours calcareous environments and is common in cliffs and rock crevices.",
+      "habitat_hint": "Damp rock, limestone, concrete, cliffs, and stone walls.",
+      "finding_tips": "Year-round look on damp rock and concrete for small green cushion-like moss. The green cushions on calcareous substrates are diagnostic."
+    },
+    "zh": {
+      "summary": "净口藓（オオハナシゴケ）。生于湿润岩石、石灰岩与混凝土的藓类，形成绿色小垫状群落，喜含钙环境，多见于崖壁与岩缝。",
+      "habitat_hint": "湿润岩石、石灰岩、混凝土、崖壁、石墙。",
+      "finding_tips": "全年于湿润岩石与混凝土上寻找绿色小垫状藓。生于含钙处的绿色垫状群落为辨识要点。"
+    }
+  },
+  "Gymnothorax kidako": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蠕纹裸胸鳝"
+    },
+    "ja": {
+      "summary": "ウツボ。暖海の岩礁にすむウツボ科の魚。細長い体で、岩の穴や隙間にすむ。褐色に黄色っぽい網目模様がある。鋭い歯をもち、かまれると危険。岩礁の代表的な肉食魚。",
+      "habitat_hint": "暖海の岩礁、潮だまり、防波堤、浅海の岩穴。",
+      "finding_tips": "岩礁の穴や隙間から頭を出している細長い魚を探します。褐色の網目模様と鋭い歯が識別ポイント。かまれると危険なので近づきすぎない。"
+    },
+    "en": {
+      "summary": "Kidako Moray. A moray eel of warm-water reefs with a long body that lives in rock holes and crevices; brown with yellowish reticulate markings, it has sharp teeth and a dangerous bite. A characteristic reef predator.",
+      "habitat_hint": "Warm-water reefs, tide pools, breakwaters, and rock holes.",
+      "finding_tips": "Look for an elongate fish peering from reef holes and crevices. The brown reticulate pattern and sharp teeth are diagnostic. It bites — keep your distance."
+    },
+    "zh": {
+      "summary": "蠕纹裸胸鳝（ウツボ）。栖于暖海岩礁的海鳝科鱼，体细长、居岩洞与缝隙，褐色具黄色网纹，齿利、咬伤危险，为岩礁代表性肉食鱼。",
+      "habitat_hint": "暖海岩礁、潮池、防波堤、浅海岩洞。",
+      "finding_tips": "于岩礁洞穴缝隙寻找探头的细长鱼。褐色网纹与利齿为辨识要点。咬伤危险，勿过近。"
+    }
+  },
+  "Haliotis diversicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "杂色鲍"
+    },
+    "ja": {
+      "summary": "トコブシ。岩礁海岸にすむミミガイ科の巻貝(アワビの仲間)。アワビより小型で、殻に並ぶ穴(呼水孔)が6〜8個と多め。岩に張りついて海藻を食べる。食用にされる。",
+      "habitat_hint": "岩礁海岸の潮間帯〜浅海、岩の表面や裏側。",
+      "finding_tips": "干潮時や浅い岩礁で、岩に張りつく小型のアワビ状の貝を探します。殻の穴が6〜8個と多めな点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Small Abalone. An abalone-relative sea snail of rocky shores, smaller than the true abalone, with a row of 6–8 (rather many) respiratory holes on the shell; it clings to rock and grazes algae. Eaten as food.",
+      "habitat_hint": "Rocky intertidal to shallow shores, on and under rock.",
+      "finding_tips": "At low tide or in the shallows look for a small abalone-like snail clamped to rock. The 6–8 shell holes (more than the abalone) are diagnostic."
+    },
+    "zh": {
+      "summary": "杂色鲍（トコブシ）。栖于岩礁海岸的鲍科腹足类（鲍近亲），较真鲍小，壳上呼吸孔多达 6 至 8 个，附岩啃食海藻，可食。",
+      "habitat_hint": "岩礁海岸潮间带至浅海、岩面与背面。",
+      "finding_tips": "退潮时或浅岩礁处寻找附岩的小型似鲍之贝。壳孔多达 6 至 8 个为辨识要点。"
+    }
+  },
+  "Haliotis gigantea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "大鲍"
+    },
+    "ja": {
+      "summary": "メガイアワビ。岩礁性の浅海にすむミミガイ科の大型の巻貝(アワビ)。耳のような平たい殻に、呼水孔が並ぶ。岩に強く張りついて海藻を食べる。高級食材として知られるアワビの一種。",
+      "habitat_hint": "岩礁性の浅海、潮下帯、磯の岩場。",
+      "finding_tips": "潮下帯〜浅海の岩礁で、岩に強く張りつく耳形の大きな貝を探します。耳形の殻と並ぶ呼水孔が識別ポイント。"
+    },
+    "en": {
+      "summary": "Giant Abalone. A large abalone of shallow rocky waters with a flat, ear-shaped shell bearing a row of respiratory holes; it clings firmly to rock and grazes algae. A prized seafood abalone.",
+      "habitat_hint": "Shallow rocky waters, the subtidal zone, and rocky shores.",
+      "finding_tips": "In the subtidal to shallows look for a large ear-shaped shell clamped firmly to rock. The ear-shaped shell with a row of holes is diagnostic."
+    },
+    "zh": {
+      "summary": "大鲍（メガイアワビ）。栖于岩礁浅海的鲍科大型腹足类（鲍），壳扁如耳、具一列呼吸孔，牢附岩石啃食海藻，为高级食材鲍之一种。",
+      "habitat_hint": "岩礁浅海、潮下带、礁石岩区。",
+      "finding_tips": "于潮下带至浅海岩礁寻找牢附岩石的耳形大贝。耳形壳与一列呼吸孔为辨识要点。"
+    }
+  },
+  "Harpalus tridens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Seed-eating Ground Beetle",
+    "aliases": {
+      "zh-Hans": "三齿婪步甲"
+    },
+    "ja": {
+      "summary": "コゴモクムシ。オサムシ科(ゴモクムシの仲間)の小型の甲虫。黒くつやのある体をもつ。草地や畑、地表にすみ、植物の種子や小昆虫を食べる。夜行性で灯火にも集まる。",
+      "habitat_hint": "草地、畑地、河川敷、地表。",
+      "finding_tips": "春〜秋、地表や草地、灯火で探します。黒くつやのある小型のゴモクムシが識別ポイント。"
+    },
+    "en": {
+      "summary": "A small ground beetle (Harpalus) with a glossy black body; on grassland, fields, and ground it eats plant seeds and small insects. Nocturnal, it comes to lights.",
+      "habitat_hint": "Grassland, farmland, riverbanks, and ground.",
+      "finding_tips": "From spring to autumn search the ground, grassland, and lights. The small glossy black ground beetle is diagnostic."
+    },
+    "zh": {
+      "summary": "三齿婪步甲（コゴモクムシ）。步甲科小型甲虫，体黑而有光泽，栖于草地、农田与地表，取食植物种子与小虫，夜行趋光。",
+      "habitat_hint": "草地、农田、河滩、地表。",
+      "finding_tips": "春至秋，于地表、草地或灯下寻找。黑而有光泽的小型步甲为辨识要点。"
+    }
+  },
+  "Hemipyxis plagioderoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-horned Blue Flea Beetle",
+    "aliases": {
+      "zh-Hans": "长角蓝跳甲"
+    },
+    "ja": {
+      "summary": "ヒゲナガルリマルノミハムシ。ハムシ科ノミハムシの仲間。後脚が太く跳ねる。瑠璃色の金属光沢のある丸い体と、長めの触角をもつ。葉を食べ、危険を感じると跳んで逃げる。",
+      "habitat_hint": "林縁、草地、食草の生える場所。",
+      "finding_tips": "春〜夏、葉上で探します。瑠璃色の金属光沢のある丸い体と、跳ねて逃げる習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "A flea beetle with thickened jumping hind legs, a rounded body with azure metallic sheen, and rather long antennae; it feeds on leaves and leaps away when disturbed.",
+      "habitat_hint": "Forest edges, grassland, and where host plants grow.",
+      "finding_tips": "From spring to summer check foliage. The rounded azure metallic body and jumping escape are diagnostic."
+    },
+    "zh": {
+      "summary": "长角蓝跳甲（ヒゲナガルリマルノミハムシ）。叶甲科跳甲类，后足粗壮善跳，体圆、具琉璃蓝金属光泽，触角较长，取食叶片，受惊跳逃。",
+      "habitat_hint": "林缘、草地、寄主植物生长处。",
+      "finding_tips": "春至夏，于叶上寻找。琉璃蓝金属光泽的圆体与跳跃逃逸为辨识要点。"
+    }
+  },
+  "Hemitrichia calyculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "高杯绒泡菌"
+    },
+    "ja": {
+      "summary": "ホソエノヌカホコリ。朽木や倒木に発生する変形菌(粘菌)の一種。細い柄の上に、黄色っぽい小さなコップ(杯)状の子実体をつける。中に綿状の胞子の塊がある。湿った林内などで見られる。",
+      "habitat_hint": "朽木、倒木、切り株の表面、湿った林内。",
+      "finding_tips": "梅雨〜秋、朽木の上で細い柄の先につく黄色いコップ状の子実体を探します。細い柄と杯状の子実体が識別ポイント。"
+    },
+    "en": {
+      "summary": "Push Pin Slime Mold. A slime mould (myxomycete) on rotten wood and logs that forms small yellowish cup-shaped fruiting bodies atop slender stalks, holding a cottony spore mass inside. Seen in damp forest.",
+      "habitat_hint": "Surfaces of rotten wood, logs, and stumps in damp forest.",
+      "finding_tips": "From the rainy season to autumn look on rotten wood for yellow cup-shaped bodies on slender stalks. The slender stalk and cup-shaped body are diagnostic."
+    },
+    "zh": {
+      "summary": "高杯绒泡菌（ホソエノヌカホコリ）。发生于朽木倒木的变形菌（黏菌），细柄顶端着生黄色小杯状子实体，内含绒状孢子团，见于湿润林内。",
+      "habitat_hint": "朽木、倒木、树桩表面、湿润林内。",
+      "finding_tips": "梅雨至秋，于朽木上寻找细柄顶端的黄色杯状子实体。细柄与杯状子实体为辨识要点。"
+    }
+  },
+  "Henosepilachna vigintioctomaculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "马铃薯瓢虫"
+    },
+    "ja": {
+      "summary": "オオニジュウヤホシテントウ。テントウムシ科の甲虫だが、植物食でジャガイモやナスの害虫。赤褐色の体に28個ほどの黒い斑点があり、体に細かい毛が生えてつやがない。葉を網目状に食べる。",
+      "habitat_hint": "畑地、草地、ジャガイモ・ナスのある場所、林縁。",
+      "finding_tips": "夏〜秋、ジャガイモやナスの葉で探します。赤褐色に28個ほどの黒斑があり、つやのない毛深い体が識別ポイント。"
+    },
+    "en": {
+      "summary": "A plant-eating ladybird (a pest of potato and eggplant) with about 28 black spots on a reddish-brown body; finely hairy and matte (not glossy), it skeletonizes leaves into a net.",
+      "habitat_hint": "Farmland, grassland, potato/eggplant plots, and forest edges.",
+      "finding_tips": "From summer to autumn check potato and eggplant leaves. The ~28 black spots on a matte hairy reddish body are diagnostic."
+    },
+    "zh": {
+      "summary": "马铃薯瓢虫（オオニジュウヤホシテントウ）。瓢虫科甲虫但食植物，为马铃薯与茄的害虫，红褐体具约 28 个黑斑、被细毛而无光泽，将叶取食成网状。",
+      "habitat_hint": "农田、草地、有马铃薯茄之处、林缘。",
+      "finding_tips": "夏至秋，于马铃薯与茄叶上寻找。红褐底约 28 黑斑、无光泽的多毛体为辨识要点。"
+    }
+  },
+  "Hermonassa cecilia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark Sword-grass Quaker",
+    "aliases": {
+      "zh-Hans": "黑云夜蛾"
+    },
+    "ja": {
+      "summary": "クロクモヤガ。ヤガ科の中型の蛾。暗褐色〜黒褐色の前翅に複雑な斑紋がある。秋に出現する。幼虫は各種の草本の葉を食べる。林縁や草地で見られ、灯火に集まる。",
+      "habitat_hint": "草地、林縁、河川敷の灯火周辺。",
+      "finding_tips": "9〜11月の夜、灯火で探します。暗褐色〜黒褐色の前翅の複雑な斑紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium noctuid moth with dark-brown to blackish-brown forewings bearing complex markings, appearing in autumn; its larvae feed on various herbs. Seen at forest edges and in grassland, coming to lights.",
+      "habitat_hint": "Grassland, forest edges, and riverbanks, around lights.",
+      "finding_tips": "On nights from September to November check lights. The complex markings on dark-brown forewings are diagnostic."
+    },
+    "zh": {
+      "summary": "黑云夜蛾（クロクモヤガ）。夜蛾科中型蛾，前翅暗褐至黑褐、具复杂斑纹，秋季出现，幼虫取食多种草本，见于林缘草地，趋光。",
+      "habitat_hint": "草地、林缘、河滩灯光周边。",
+      "finding_tips": "9 至 11 月夜间，于灯下寻找。暗褐至黑褐前翅的复杂斑纹为辨识要点。"
+    }
+  },
+  "Heterarmia charon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wavy Grey Geometer",
+    "aliases": {
+      "zh-Hans": "波纹尺蛾"
+    },
+    "ja": {
+      "summary": "ナミガタエダシャク。シャクガ科の中型の蛾。灰白色の翅に波状の線(波形)が走り、樹皮に紛れてとまる。幼虫はシャクトリムシで広葉樹の葉を食べる。林縁や雑木林で見られる。",
+      "habitat_hint": "雑木林、樹林地、林縁の灯火周辺。",
+      "finding_tips": "春〜夏の夜、灯火や樹幹で探します。灰白色の翅に走る波状の線が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium geometrid moth with wavy lines across greyish-white wings, cryptic on bark; its inchworm larvae feed on broadleaf foliage. Seen at forest edges and in woodland.",
+      "habitat_hint": "Woodland and forest edges, around lights.",
+      "finding_tips": "On spring-summer nights check lights and trunks. The wavy lines on greyish-white wings are diagnostic."
+    },
+    "zh": {
+      "summary": "波纹尺蛾（ナミガタエダシャク）。尺蛾科中型蛾，翅灰白、具波状纹，停于树皮拟态，幼虫为尺蠖取食阔叶树叶，见于杂木林与林缘。",
+      "habitat_hint": "杂木林、林地、林缘灯光周边。",
+      "finding_tips": "春至夏夜间，于灯下或树干寻找。灰白翅上的波状纹为辨识要点。"
+    }
+  },
+  "Holotrichia parallela": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "暗黑鳃金龟"
+    },
+    "ja": {
+      "summary": "オオクロコガネ。コガネムシ科の中型の甲虫。黒〜黒褐色のつやのある体をもつ。夜行性で灯火に集まり、成虫は各種の葉を食べる。幼虫は土中で植物の根を食べる。",
+      "habitat_hint": "草地、畑地、林縁、砂地のある場所。",
+      "finding_tips": "6〜8月の夜、灯火や葉上で探します。黒〜黒褐色のつやのある中型のコガネムシが識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium chafer beetle with a glossy black to blackish-brown body; nocturnal and coming to lights, the adult eats various leaves and the larvae eat plant roots underground.",
+      "habitat_hint": "Grassland, farmland, forest edges, and sandy areas.",
+      "finding_tips": "On nights from June to August check lights and foliage. The glossy black to blackish-brown medium chafer is diagnostic."
+    },
+    "zh": {
+      "summary": "暗黑鳃金龟（オオクロコガネ）。金龟科中型甲虫，体黑至黑褐有光泽，夜行趋光，成虫食多种叶、幼虫居土中食根。",
+      "habitat_hint": "草地、农田、林缘、有沙地之处。",
+      "finding_tips": "6 至 8 月夜间，于灯下或叶上寻找。黑至黑褐有光泽的中型金龟为辨识要点。"
+    }
+  },
+  "Homodes vivida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rainbow-banded Snout Moth",
+    "aliases": {
+      "zh-Hans": "虹带壶夜蛾"
+    },
+    "ja": {
+      "summary": "ニジオビベニアツバ。ヤガ科の中型の蛾。橙色〜赤褐色の翅に、虹色がかった帯模様(虹帯)がある美しい蛾。暖地の林縁や雑木林で見られ、灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、暖地の樹林の灯火周辺。",
+      "finding_tips": "夏〜秋の夜、灯火で探します。橙色〜赤褐色の翅にある虹色がかった帯模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "A medium snout moth with orange to reddish-brown wings crossed by an iridescent band — a handsome species; seen at forest edges and in woodland in warm regions, coming to lights.",
+      "habitat_hint": "Woodland and forest edges in warm regions, around lights.",
+      "finding_tips": "On summer-autumn nights check lights. The iridescent band on orange-to-reddish wings is diagnostic."
+    },
+    "zh": {
+      "summary": "虹带壶夜蛾（ニジオビベニアツバ）。夜蛾科中型蛾，翅橙至红褐、具带虹彩的带纹（虹带）、颇美丽，见于暖地林缘与杂木林，趋光。",
+      "habitat_hint": "杂木林、林缘、暖地林地灯光周边。",
+      "finding_tips": "夏秋夜间，于灯下寻找。橙至红褐翅上的虹彩带纹为辨识要点。"
+    }
+  },
+  "Horridipamera lateralis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-margined Seed Bug",
+    "aliases": {
+      "zh-Hans": "黄缘狭长蝽"
+    },
+    "ja": {
+      "summary": "キベリヒョウタンナガカメムシ。ナガカメムシ科の小型のカメムシ。体が前後で細くくびれてひょうたん(瓢箪)のような形をしており、体の縁が黄色っぽい。地表や草本で植物の種子の汁を吸う。",
+      "habitat_hint": "草地、林縁、地表、河川敷の草むら。",
+      "finding_tips": "春〜秋、地表や草本で探します。ひょうたん形にくびれた体と黄色っぽい縁が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small seed bug whose body is pinched front and back into a gourd-like shape, with yellowish margins; on the ground and herbs it feeds on plant seeds.",
+      "habitat_hint": "Grassland, forest edges, ground, and riverbank grass.",
+      "finding_tips": "From spring to autumn check the ground and herbs. The gourd-shaped pinched body with yellowish margins is diagnostic."
+    },
+    "zh": {
+      "summary": "黄缘狭长蝽（キベリヒョウタンナガカメムシ）。长蝽科小型蝽，体前后缢缩呈葫芦形、体缘偏黄，于地表与草本吸食植物种子汁液。",
+      "habitat_hint": "草地、林缘、地表、河滩草丛。",
+      "finding_tips": "春至秋，于地表或草本上寻找。葫芦形缢缩的体与偏黄边缘为辨识要点。"
+    }
+  },
+  "Hoshihananomia perlata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-spotted Tumbling Flower Beetle",
+    "aliases": {
+      "zh-Hans": "白点花蚤"
+    },
+    "ja": {
+      "summary": "シラホシハナノミ。ハナノミ科の甲虫。体が後方に向かってすぼまり、腹端がとがる独特の形をしている。黒い体に白い点(白星)が散る。花や枯れ木に集まり、跳ねるように動く。",
+      "habitat_hint": "雑木林、花の咲く林縁、枯れ木のある林。",
+      "finding_tips": "初夏〜夏、花や枯れ木で探します。後方にすぼまる独特の体形と、黒地に散る白い点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A tumbling flower beetle with a body tapering to a pointed abdomen tip — a distinctive wedge shape — black with scattered white spots; it gathers on flowers and dead wood and moves with a tumbling jump.",
+      "habitat_hint": "Woodland, flowering forest edges, and dead wood.",
+      "finding_tips": "From early summer to summer check flowers and dead wood. The wedge-shaped tapering body with white spots is diagnostic."
+    },
+    "zh": {
+      "summary": "白点花蚤（シラホシハナノミ）。花蚤科甲虫，体向后收尖、腹端尖出、形态独特，黑体散布白点（白星），聚于花与枯木，弹跳式移动。",
+      "habitat_hint": "杂木林、开花林缘、有枯木之林。",
+      "finding_tips": "初夏至夏，于花或枯木上寻找。向后收尖的独特体形与黑底白点为辨识要点。"
+    }
   }
 }
