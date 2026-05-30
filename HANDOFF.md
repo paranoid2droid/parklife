@@ -30,7 +30,7 @@ Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species
 
 ## In progress
 
-**species_profile np=4 tier sweep (A68–A79 done, 3,498 profiled / 2026-05-30).** 78 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA80.py`, then seed→export→`cp`→commit→push. Last done: Pteraeolidia semperi (next batch starts at Pteris pseudosefuricola / アイイノモトソウ). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
+**species_profile np=4 tier sweep (A68–A80 done, 3,522 profiled / 2026-05-30).** 54 np=4 candidates remain. Continue alphabetically: re-run the np=4 query (see Active #1), take the next ~23 by `s.scientific_name`, write `/tmp/profile_batchA81.py`, then seed→export→`cp`→commit→push. Last done: Shaka atrovittatus (next batch starts at Sialis / センブリ属 — note: genus-level entry, alderfly). ja-name DB fixes applied this tier: `Acer japonicum` (dropped romaji annotation), `Allium chinense` rakkyo→ラッキョウ, `Phedimus aizoon` 麒麟草→キリンソウ, `Phillipsia domingensis` 肉厚紅皿茸→ニクアツベニサラタケ (all local DB only).
 
 ## Blocked / waiting
 
@@ -92,6 +92,10 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-30 (Claude) — np=4 tier A80 (3498→3522, +24; committed + pushed)
+- Batch A80 swept Pteris → Shaka. Highlights: Pied Avocet (反嘴鹬), Five-leaf Azalea (シロヤシオ/五叶杜鹃), Wineberry (エビガライチゴ), Green Brittlegill (アイタケ/变绿红菇, edible russula), Fortune's Saxifrage (ダイモンジソウ, "大"-character flower), Wild Radish, Japanese Cedar Longhorn, red-gilled aeolid.
+- Verified Sabia conica/キクスズメ is a mollusk (hoof snail) via taxon_group before writing. Demo 37.8 → 37.9 MB. 54 np=4 candidates remain. Next A81 from Sialis.
 
 ### 2026-05-30 (Claude) — np=4 tier A79 (3474→3498, +24; committed + pushed)
 - Batch A79 swept Pinellia → Pteraeolidia. Highlights: Indianmeal Moth (印度谷螟), Moss Rose (松叶牡丹), Blue Dragon Nudibranch (蜈蚣鳃海蛞蝓), Ruler Damselfly (モノサシトンボ), Chinese Cinquefoil (委陵菜), 3 holly ferns (イノデ属), leafless haircap moss.
