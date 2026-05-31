@@ -24,11 +24,11 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 40.7 MB). **4,498 species** have curated profiles in ja/en/zh/zhT. **np≥3 tier is 100% covered** (2026-05-31, A83–A103 sweep; np≥4 cleared 2026-05-30, np≥5 earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). **np=2 tier now in progress** (A104–A121, +432; 520 candidates remaining). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 41.3 MB). **4,690 species** have curated profiles in ja/en/zh/zhT. **np≥3 tier is 100% covered** (2026-05-31, A83–A103 sweep; np≥4 cleared 2026-05-30, np≥5 earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). **np=2 tier now in progress** (A104–A129, +624; 328 candidates remaining). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
 **DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
-**species_profile np=2 tier IN PROGRESS (A104–A121 done, 4,498 profiled / 2026-05-31; 520 candidates remaining).** np=2 tier had 952 candidates at start; sweeping alphabetically by `s.scientific_name` from A (… A117 →Eumyias, A118 Eunaticina→Gabala, A119 Gagea→Gonitis, A120 Gortyna→Heracleum, A121 Heriaeus→Hypoponera). Next batch **A122**: run Active #1 query with `np >= 2`, take next ~24 by `s.scientific_name` (continues from **Hypsipyla / メイガ类** onward — Hypsizygus/Hyssopus…), write `/tmp/profile_batchA122.py`, seed→export→`cp`→commit→push. **Always count your ENTRIES = 24** before running (A113 first wrote 23). **Watch for placeholder ja-names** that slip past the `NOT BETWEEN 'A' AND 'Z'` filter — both lowercase-romaji (A114 o-hashibami/sotetsu) AND kanji junk like `菌界`/`菌類` ("Fungi kingdom") that some text-mining left (A120 Helvella crispa 菌界→ノボリリュウタケ) — fix to proper katakana in DB before profiling. **NB**: the np=2 query returns 24 rows but several already have en+zh in DB yet still lack a species_profile — include ALL 24 (profile is the deliverable; en/zh are sidecar extras), or they re-appear next batch. **Watch for homonyms** where a Japanese name is shared by a fish and a bird/tree (A119 Gerres equulus クロサギ = mojarra fish ≠ heron; A120 ビワガイ Ficus subintermedia = fig-shell mollusc, genus Ficus is NOT the plant) — verify taxon_group before writing. Many DB en-name fixes per batch (junk "Species code: Xx"/"Algae"/"Animal"/"Fungi", wrong names, typos, lowercase); see Recent sessions. **Code change A104**: added `animal`/`plant` to `GENERIC_EN_NAMES` in `scripts/seed_species_profiles.py:655` so text-mining placeholder en names ("Animal") get corrected by sidecar `common_name_en`.
+**species_profile np=2 tier IN PROGRESS (A104–A129 done, 4,690 profiled / 2026-05-31; 328 candidates remaining).** np=2 tier had 952 candidates at start; sweeping alphabetically by `s.scientific_name` from A (… A122 Hypselodoris→Laguncula, A123 Lampranthus→Leymus, A124 Libellula→Macrosemia, A125 Macrothelypteris→Meleonoma, A126 Melibe→Monocentris, A127 Monodonta→Nematogmus, A128 Nematopogon→Nymphaea alba, A129 Nymphaea tetragona→Orthotylus). Next batch **A130**: run Active #1 query with `np >= 2`, take next ~24 by `s.scientific_name` (continues from **Oryzias / メダカ类 onward — Oryzias/Osmunda…**), write `/tmp/profile_batchA130.py`, seed→export→`cp`→commit→push. **Always count your ENTRIES = 24** before running (A113 first wrote 23). **Watch for placeholder ja-names** that slip past the `NOT BETWEEN 'A' AND 'Z'` filter — both lowercase-romaji (A114 o-hashibami/sotetsu) AND kanji junk like `菌界`/`菌類` ("Fungi kingdom") that some text-mining left (A120 Helvella crispa 菌界→ノボリリュウタケ) — fix to proper katakana in DB before profiling. **NB**: the np=2 query returns 24 rows but several already have en+zh in DB yet still lack a species_profile — include ALL 24 (profile is the deliverable; en/zh are sidecar extras), or they re-appear next batch. **Watch for homonyms** where a Japanese name is shared by a fish and a bird/tree (A119 Gerres equulus クロサギ = mojarra fish ≠ heron; A120 ビワガイ Ficus subintermedia = fig-shell mollusc, genus Ficus is NOT the plant) — verify taxon_group before writing. Many DB en-name fixes per batch (junk "Species code: Xx"/"Algae"/"Animal"/"Fungi", wrong names, typos, lowercase); see Recent sessions. **Code change A104**: added `animal`/`plant` to `GENERIC_EN_NAMES` in `scripts/seed_species_profiles.py:655` so text-mining placeholder en names ("Animal") get corrected by sidecar `common_name_en`.
 
 ## Blocked / waiting
 
@@ -40,7 +40,7 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **species_profile curation — np≥3 DONE. np=2 tier in progress (A104–A121 done; next A122)** *(at 4,498 / 2026-05-31; 520 np=2 candidates remaining)*
+1. **species_profile curation — np≥3 DONE. np=2 tier in progress (A104–A129 done; next A130)** *(at 4,690 / 2026-05-31; 328 np=2 candidates remaining)*
    - **Sidecar workflow** (`data/species_profiles_extra.json`): every entry MUST include `common_name_en` (if DB has NULL or generic) + `aliases.{zh-Hans}` (if DB lacks it) alongside the 4-language profile. zhT auto-derived via OpenCC. See `BATCH_TEMPLATE.md` at repo root.
    - **Query next batch** — change `np >= 5` to `np >= 4` (then 3, 2, …):
      ```sh
@@ -92,40 +92,20 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ## Recent sessions
 
+### 2026-05-31 (Claude) — np=2 tier continued: A122–A129 (4498→4690, +192; 8 commits + pushes)
+- A122 Hypselodoris→Laguncula, A123 Lampranthus→Leymus, A124 Libellula→Macrosemia, A125 Macrothelypteris→Meleonoma, A126 Melibe→Monocentris, A127 Monodonta→Nematogmus, A128 Nematopogon→Nymphaea alba, A129 Nymphaea tetragona→Orthotylus. 328 np=2 candidates remain. **Next A130 from Oryzias/Osmunda onward.** Demo 40.7→41.3 MB.
+- Highlights: Steller's Sea Eagle/Bluethroat/Marsh Grassbird/Tristram's Storm-petrel (eBird), Japanese Marten, Coypu+Rainbow Trout (invasive), Reishi, Yesso Scallop, East Asian Common Octopus, Sweet Potato, Olive, Bitter Melon, Daffodil/Forget-me-not/Sensitive Plant, Trap-jaw Ant, blister/oil beetles (cantharidin warned), Pineconefish, Sargassum Frogfish, Schistosome snail (ミヤイリガイ).
+- **Data-error fixes**: `Macoma tokyoensis` ja-name was ゴイサギ (a heron!) → ユウシオガイ; `Oncomelania hupensis` garbled "ヒューペミゾヒダニナ" → ミヤイリガイ; `Ninox scutulata` "フーアアオバズク" → アオバズク; `Larix kaempferi`/`Myosotis` romaji ja → katakana. ~50 en placeholders/junk fixed ("Species code"/"Animal"/"Arthropod"/"Bow"/"Tabacco"/"kaphal"/"Yam"+pinyin junk aliases). Homonym watch: ヒイラギ (Nuchequula = ponyfish ≠ holly), クロサギ, ビワガイ.
+
 ### 2026-05-31 (Claude) — np=2 tier continued: A118–A121 (4402→4498, +96; 4 commits + pushes)
 - A118 Eunaticina→Gabala, A119 Gagea→Gonitis, A120 Gortyna→Heracleum, A121 Heriaeus→Hypoponera. 520 np=2 candidates remain. **Next A122 from Hypsipyla / Hypsizygus onward.** Demo 40.4→40.7 MB.
 - Highlights: Steller's Sea Eagle + Lesser Frigatebird + Red Junglefowl (eBird/Wikipedia), Reishi/Lingzhi (霊芝), Japanese Beech (ブナ), Sargassum Frogfish, Sago-palm cousins, Dragonfly Club Fungus (ヤンマタケ, cordyceps on dragonflies), Long-tailed Braconid (ウマノオバチ, giant ovipositor), Horse Dung Sea Urchin, 4 seagrasses, 3 Helvella saddles, climbing/oakleaf hydrangea, Petty Spurge (toxic latex), Common Hogweed (phototoxic sap), Giraffe.
 - **DB fixes**: ~30 en placeholders/junk fixed — "Species code: Hp/Hu" seagrass→Pineneedle/Narrowleaf Seagrass, "Algae"→Gracilaria, "Animal"→Pond Skaters, "Fungi"→White Saddle (also ja `菌界`→ノボリリュウタケ), "Chicken"→Red Junglefowl, "Giraffa"→Giraffe, "Coronet"→Bluespotted Cornetfish, typos (splindletree, pearlbrush). zh alias fixes: 努比亚长颈鹿→长颈鹿, 锯足软腹懈→锯足软腹蟹.
 
-### 2026-05-31 (Claude) — np=2 tier continued: A117 (4378→4402, +24; 1 commit + push)
-- A117 Enkianthus subsessilis→Eumyias thalassinus. 616 np=2 candidates remain. **Next A118 from Eunaticina papilla / ネコガイ onward.** Demo 40.4 MB.
-- Highlights: 2 poisonous Entoloma pinkgills (mushroom-poisoning look-alikes), inshore hagfish, verditer flycatcher (eBird vagrant), Pacific fruit-piercing moth, potter wasps genus, E. coli as water-quality indicator.
-- **DB en fix**: Eudocima phalonia 'Wasp' (wrong)→Pacific Fruit-piercing Moth. 17 en + 2 zh-Hans aliases backfilled.
-
-### 2026-05-31 (Claude) — np=2 tier continued: A116 (4354→4378, +24; 1 commit + push)
-- A116 Dischissus→Enkianthus. ~640 np=2 candidates remain. **Next A117 from Epacromius onward.** Demo 40.3 MB.
-- Highlights: pests — spotted wing drosophila, chestnut gall wasp, skunkvine lace bug, rice plant weevil; Hope's Stag Beetle (pet trade), Snowflake Moray, Japanese Anchovy, Pallas's Bunting (eBird), 2 tropical seagrasses, Redvein Enkianthus, Wedge Sea Hare.
-- **DB en fixes**: Dolabella auricularia 'donsol' (Filipino name)→Wedge Sea Hare; Engraulis japonicus 'Cape anchovy' (wrong sp)→Japanese Anchovy; Enhalus acoroides 'Species code: Ea' (junk)→Tape Seagrass.
-
-### 2026-05-31 (Claude) — np=2 tier continued: A115 (4330→4354, +24; 1 commit + push)
-- A115 Cymodocea→Dipterygina. ~664 np=2 candidates remain. **Next A116 from Disphragis onward.** Demo 40.2 MB.
-- Highlights: Scotch Broom + Sacred Datura (both toxic, warned), Tsuchi-akebi (土通草 leafless mycoheterotroph orchid w/ red sausage fruit), Round Seagrass, Scarlet-fruit fungi, Western House Martin (eBird), umbrella sedge, broom moss, ovulid soft-coral snail, clubtail dragonfly, several seed bugs/weevils/jewel beetles.
-- **DB en fixes**: Cymodocea rotundata 'Species code: Cr' (junk)→Round Seagrass; Cytisus scoparius Broom→Scotch Broom.
-
-### 2026-05-31 (Claude) — np=2 tier continued: A114 (4306→4330, +24; 1 commit + push)
-- A114 Coptis quinquefolia→Cycas. ~688 np=2 candidates remain. **Next A115 from Cyclosa onward.** Demo 40.2 MB.
-- Highlights: Sago Palm (ソテツ, cycasin-toxic), nalta jute/molokhia (toxic ripe seeds), Cat Flea, Scarlet Caterpillarclub (蛹虫草 Cordyceps), Asian Hazel, slime mould, chestnut/nut weevils, boomerang clam (hermit-crab commensal), Florida amphipod (invasive), Meadow Waxcap.
-- **DB fixes**: 3 lowercase-romaji ja placeholders → katakana (o-hashibami→オオハシバミ, furorida mamizu yokoebi→フロリダマミズヨコエビ, sotetsu→ソテツ); 2 generic en (Cryptocephalus scitulus, Cryptogonus orbiculus). These romaji slip past the A–Z filter — watch for them.
-
-### 2026-05-31 (Claude) — np=2 tier continued: A113 (4282→4306, +24; 1 commit + push)
-- A113 Cimex→Coptis. ~712 np=2 candidates remain. **Next A114 from Cordyline onward.** Demo 40.1 MB.
-- Highlights: deadly Textile Cone (Conus textile, can kill) + venomous Conus pauperculus (explicit warnings), Bed Bug, Basking-shark-adjacent marine fauna, 2 Tokyo-area endemic thistles (Hachijo/Hachioji), Japanese Goldthread (黄连 medicinal), Fairy Fingers fungus, plug-headed carpenter ant, Persian Conch, fireworm.
-- **Process note**: first pass wrote only 23 (dropped Conomurex persicus); caught by comparing 24 query rows to "added 23", fixed via addendum. Always verify ENTRIES count = 24.
-
-### 2026-05-31 (Claude) — np=2 tier continued: A112 (4258→4282, +24; 1 commit + push)
-- A112 Centaurium→Cicurina. ~736 np=2 candidates remain. **Next A113 from Cinnamomum onward.**
-- Highlights: Basking Shark, Green Sea Turtle (endangered), Portuguese Dogfish (deep-sea), fireworm (venomous bristles), cuckoo wasps, Chicory, Common/Slender Centaury, Square Bamboo, Carrageen (角叉菜), Mulberry Cup fungus, Japanese Wax Scale, mint leaf beetle.
-- **DB fixes**: Cetorhinus maximus Homer→Basking Shark (junk en), Chelonia mydas Black Turtle→Green Sea Turtle, Ceroplastes japonicus 'fig wax scale'→Japanese Wax Scale (that en belongs to C. rusci); purged garbled zh alias `菊苣 ju ju` (Cichorium intybus).
+### 2026-05-31 (Claude) — np=2 tier continued: A112–A117 (4258→4402, +144; 6 commits) [details in git log]
+- A112 Centaurium→Cicurina, A113 Cimex→Coptis, A114 Coptis quinquefolia→Cycas, A115 Cymodocea→Dipterygina, A116 Dischissus→Enkianthus, A117 Enkianthus subsessilis→Eumyias.
+- Highlights: deadly Textile Cone + Basking Shark + Green Sea Turtle, Sago Palm/Datura/Scotch Broom (toxic), Tsuchi-akebi orchid, Pallas's Bunting + Western House Martin (eBird), verditer flycatcher, several seagrasses/cones/Cordyceps.
+- **DB fixes**: romaji ja placeholders → katakana (o-hashibami/furorida/sotetsu); junk en "Species code: Cr/Ea"→Round/Tape Seagrass, Cetorhinus 'Homer'→Basking Shark, Chelonia 'Black Turtle'→Green Sea Turtle, etc.; purged garbled zh `菊苣 ju ju`. **A113 process note: first pass wrote 23 — always verify ENTRIES = 24.**
 
 ### 2026-05-31 (Claude) — np=2 tier continued: A110–A111 (4210→4258, +48; 2 commits + pushes)
 - A110 Bolbitius→Camponotus, A111 Campylopus→Centaurea. ~760 np=2 candidates remain. **Next A112 from Centipeda onward.** Demo crossed 40.0 MB.
