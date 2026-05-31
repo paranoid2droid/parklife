@@ -652,7 +652,8 @@ def load_extra_profiles() -> None:
             PROFILES_EN_ZH[sci] = entry
 
 
-GENERIC_EN_NAMES = {"moth", "butterfly", "beetle", "fly", "bug", "spider", "fern"}
+GENERIC_EN_NAMES = {"moth", "butterfly", "beetle", "fly", "bug", "spider", "fern",
+                    "animal", "plant"}
 
 
 def apply_extra_aliases(conn) -> tuple[int, int]:
