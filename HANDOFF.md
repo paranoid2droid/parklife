@@ -24,7 +24,9 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 41.5 MB). **4,762 species** have curated profiles in ja/en/zh/zhT. **np≥3 tier is 100% covered** (2026-05-31, A83–A103 sweep; np≥4 cleared 2026-05-30, np≥5 earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). **np=2 tier now in progress** (A104–A132, +696; 256 candidates remaining). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 41.7 MB). **4,859 species** have curated profiles in ja/en/zh/zhT. **np≥3 tier is 100% covered** (2026-05-31, A83–A103 sweep; np≥4 cleared 2026-05-30, np≥5 earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). **np=2 tier now in progress** (A104–A138; ~160 candidates remaining). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+
+> **⚠️ PROCESS LESSON (2026-05-31, Claude/Opus session):** Build every batch's species list ONLY from the freshly-run candidate query output you have actually SEEN rendered — never hand-type or reconstruct candidate names from memory. Two batches (A135, A137) were wasted because candidate names were fabricated from a truncated/delayed display: the names didn't exist in `species`, so seed silently skipped them (no profile rows, candidate count didn't drop) and they polluted `species_profiles_extra.json` as orphans (later purged in A136/A138). **Also: when doing per-id DB UPDATEs, never hardcode an `id` you haven't just re-queried** — a fabricated-id fix (`/tmp/fix135.py`) corrupted 4 unrelated species (Fissidens taxifolius, Baeochila horvathi, Aphis gossypii, Entoloma atrum); restored from `data/parklife.db.bak_pre_cleanup_20260529`. Prefer `WHERE scientific_name='…'` over `WHERE id=N`. **If tool output renders with a one-turn delay, run the whole batch via a single `finish*.sh` that appends count/remain/next-candidates to a file, then read that file the NEXT turn before building the following batch.**
 
 **DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
@@ -40,7 +42,8 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **species_profile curation — np≥3 DONE. np=2 tier in progress (A104–A132 done; next A133)** *(at 4,762 / 2026-05-31; 256 np=2 candidates remaining)*
+1. **species_profile curation — np≥3 DONE. np=2 tier in progress (A104–A138 done; next batch continues alphabetically)** *(at 4,859 / 2026-05-31; ~160 np=2 candidates remaining)*
+   - **Next batch start point: run the Active #1 query below (np>=2) and take the top 24 by `s.scientific_name` — the last batch A138 ended at Rudarius ercodes, so the next is around Sageretia/Salsola onward. DO NOT hand-type candidate names; copy them from the query output you actually see. See the ⚠️ PROCESS LESSON in Status.**
    - **Sidecar workflow** (`data/species_profiles_extra.json`): every entry MUST include `common_name_en` (if DB has NULL or generic) + `aliases.{zh-Hans}` (if DB lacks it) alongside the 4-language profile. zhT auto-derived via OpenCC. See `BATCH_TEMPLATE.md` at repo root.
    - **Query next batch** — change `np >= 5` to `np >= 4` (then 3, 2, …):
      ```sh
@@ -91,6 +94,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-31 (Claude/Opus) — np=2 tier continued: A133–A138 (4762→4859, +~97 net; 6 commits + pushes)
+- A133 Plagodis→Polystichum kiyozumianum, A134 Polystichum mashikoi→Pseudocneorhinus obesus, A136 Pseudogaleomma→Rapana bezoar, A138 Regimbartia→Rudarius ercodes (real, +24 each). **A135 & A137 were fabricated-candidate misfires** (names not in DB → no profiles; orphans purged in A136/A138). ~160 np=2 candidates remain.
+- DB fixes: many en cap/quality (Branching Hump Coral, Luna Lionfish, Black-legged Kittiwake, Japanese Greater Horseshoe Bat, Chinese Sumac, etc.); ja kanji→katakana (コノテガシワ, オオヤマザクラ); generic ja トカゲ→フトアゴヒゲトカゲ; purged garbled/（误） zh aliases.
+- **Restored 4 species corrupted by a bad-id UPDATE** (Fissidens taxifolius/Baeochila horvathi/Aphis gossypii/Entoloma atrum) from `bak_pre_cleanup_20260529`. See ⚠️ PROCESS LESSON in Status. Demo 41.5→41.7 MB.
 
 ### 2026-05-31 (Claude) — np=2 tier continued: A130–A132 (4690→4762, +72; 3 commits + pushes)
 - A130 Orthotylus gotohi→Paradarisa, A131 Paraglenurus→Persicaria viscosa, A132 Petrolisthes→Plagiomnium. 256 np=2 candidates remain. **Next A133 from Plantago/Platanus onward.** Demo 41.3→41.5 MB.
