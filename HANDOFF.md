@@ -24,11 +24,11 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 37.0 MB). **4,066 species** have curated profiles in ja/en/zh/zhT (16,260 rows). **np≥3 tier is 100% covered** (2026-05-31, A83–A103 sweep, +490 profiles; np≥4 cleared 2026-05-30, np≥5 earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
+Project is in maintenance + enrichment mode. **461 parks / 9,579 visible species / 126,405 visible park-species pairs** as of 2026-05-30. Code + Pages site at <https://github.com/paranoid2droid/parklife>; demo published from `docs/` at <https://paranoid2droid.github.io/parklife/> (current export 39.6 MB). **4,138 species** have curated profiles in ja/en/zh/zhT. **np≥3 tier is 100% covered** (2026-05-31, A83–A103 sweep; np≥4 cleared 2026-05-30, np≥5 earlier 2026-05-30, np≥6/7 on 2026-05-29, np≥8 on 2026-05-28). **np=2 tier now in progress** (A104–A106, +72; ~880 candidates remaining). P13 official-URL coverage **443/461 parks (96%)** — 18 small 緑地/河川敷 stay `__no_url__`. Parking: 122 OSM-only + 339 text-confirmed.
 
 **DB integrity (2026-05-29)**: 0 orphan rows across alias/profile/photo/observation; 0 dead parks; 0 dupe scientific_names; 0 iNat-id collisions. 2 NULL-species observations remain (descriptive labels, harmless). 6 ASCII-prefix common_name_ja: 2 with no iNat ja-name, 4 without inat_taxon_id (Sawara homonym resolved 2026-05-27 via kanji disambig `サワラ（椹）` / `サワラ（鰆）`). Remaining NULL-sci visible placeholders (2026-05-29): 23 generic-category words (スイレン属 np=3, ドングリ/ヤエザクラ/コオロギ/トンボ/カエル/バッタ np≤2, rest np=1 — シダ類/タンポポ/カエデ/エリカ/ダリア etc.) — all low np broad categories, not worth bespoke fixes. The two clear-junk non-taxa (コミュニケーション, タケノコ) were deleted 2026-05-29; the resolvable sakura cultivars (カワヅザクラ→558, コブクザクラ, ジンダイアケボノ) were given scientific_names.
 
-**species_profile np=3 tier CLEARED (A83–A103 done, 4,066 profiled / 2026-05-31). np≥3 coverage now 100% (0 candidates remaining, verified).** Now starting **np=2 tier (large long-tail — run the query with `np >= 2` to size it)**. Next batch A104: query Active #1 with `np >= 2`, take next ~24 by `s.scientific_name` (alphabetical restart from Abies/A), write `/tmp/profile_batchA104.py`, seed→export→`cp`→commit→push. Local DB fixes during np=3: `Jin-Wu-Zéi`→金乌贼 + `杏 xing` purges; romaji ja-names `tama-no-kanzashi`→タマノカンザシ (Hosta plantaginea), `kuro-ezo`→エゾマツ (Picea jezoensis) — romaji kept as ja-romaji aliases.
+**species_profile np=2 tier IN PROGRESS (A104–A106 done, 4,138 profiled / 2026-05-31; ~880 candidates remaining).** np=2 tier had 952 candidates at start; sweeping alphabetically by `s.scientific_name` from A (A104 Abbottina→Aegista, A105 Aeshna→Amata, A106 Amelanchier→Anthemis). Next batch **A107**: run Active #1 query with `np >= 2`, take next ~24 by `s.scientific_name` (continues from Anthemis onward — Anthocharis/Anthus/Aphis…), write `/tmp/profile_batchA107.py`, seed→export→`cp`→commit→push. Local DB fixes during np=2: purged junk aliases `竣蜓` (garbled Aeshna) + `Lian Zi Cao` (pinyin); fixed `Aglais io` en `Paecock`→`European Peacock`. **Code change A104**: added `animal`/`plant` to `GENERIC_EN_NAMES` in `scripts/seed_species_profiles.py:655` so text-mining placeholder en names ("Animal") get corrected by sidecar `common_name_en`.
 
 ## Blocked / waiting
 
@@ -40,7 +40,7 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Active
 
-1. **species_profile curation — np≥3 DONE (A103, 2026-05-31). Now in np=2 tier from A104** *(at 4,066 / 2026-05-31)*
+1. **species_profile curation — np≥3 DONE. np=2 tier in progress (A104–A106 done; next A107)** *(at 4,138 / 2026-05-31; ~880 np=2 candidates remaining)*
    - **Sidecar workflow** (`data/species_profiles_extra.json`): every entry MUST include `common_name_en` (if DB has NULL or generic) + `aliases.{zh-Hans}` (if DB lacks it) alongside the 4-language profile. zhT auto-derived via OpenCC. See `BATCH_TEMPLATE.md` at repo root.
    - **Query next batch** — change `np >= 5` to `np >= 4` (then 3, 2, …):
      ```sh
@@ -91,6 +91,11 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 - **`data/parklife.db.bak*` cleanup** — 7 backups, ~738 MB total local-only. Safe to keep 1 recent good snapshot; older ones (`.bak`, `.bak2`, `.bak3` from 5/18–5/23) can go. Not gitignored issue since `data/parklife.db*` is excluded.
 
 ## Recent sessions
+
+### 2026-05-31 (Claude) — np=2 tier opened: A104–A106 (4066→4138, +72; 3 commits + pushes)
+- Started the np=2 long-tail (952 candidates), alphabetical from A. A104 Abbottina→Aegista, A105 Aeshna→Amata, A106 Amelanchier→Anthemis. ~880 remain.
+- Highlights: 3 deadly/toxic fungi (アケボノドクツルタケ amatoxin death cap, シロオニタケ, ナカグロモリノカサ), 2 invasive aliens (alligator weed, sessile joyweed), Death's-head Hawkmoth, European Peacock, Snow/Swan/Tundra Bean Goose (eBird), Century Plant, kiwi, Feijoa, Chives, cockroach-hunting jewel wasp (Ampulex), cedar tiger longhorn (forestry pest), Chinese jumping worm, ~10 sea spiders/molluscs/jewel beetles.
+- **Code**: `scripts/seed_species_profiles.py` GENERIC_EN_NAMES += `animal`,`plant` (corrects text-mining "Animal" en placeholders). DB cleanups: purged junk aliases `竣蜓`+`Lian Zi Cao`; fixed `Aglais io` en `Paecock`→`European Peacock`. Demo 39.5→39.6 MB. **Next A107 from Anthocharis onward.**
 
 ### 2026-05-31 (Claude) — np=3 tier CLEARED: A83–A103 sweep (3576→4066, +490; 21 commits + pushes)
 - 21 batches alphabetically swept Abies homolepis → Ziphius cavirostris; **np≥3 coverage now 100%** (0 candidates remaining, verified). Crossed 4,000 profiled species.
