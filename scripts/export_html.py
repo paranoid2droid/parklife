@@ -1185,9 +1185,33 @@ const TIMING_BY_GROUP = {
     fish: '水中では通年見られる種も多いですが、水温や繁殖期で見えやすさが変わります。',
     default: '時期は種によって異なります。ここでは記録月ではなく、分類と生活習性に基づく目安を表示しています。',
   },
-  en: { default: 'Timing varies by species. This is a natural-history hint, not a list of upload or record months.' },
-  zh: { default: '观察时机会因物种而异。这里显示的是生活习性参考，不是照片上传或记录月份。' },
-  zhT: { default: '觀察時機會因物種而異。這裡顯示的是生活習性參考，不是照片上傳或記錄月份。' },
+  en: {
+    bird: 'Varies by species: resident birds year-round, winter visitors in winter, summer visitors from spring to summer. Treat this as a life-history hint, not record months.',
+    plant: 'Timing depends on what you want to see — flowers, fruit, or autumn colour. Many species are visible far longer if foliage alone is enough.',
+    insect: 'Most are easiest to find in the warm season, especially on sunny days from spring to autumn.',
+    mushroom: 'Mainly after rain or in humid periods. Fruiting bodies may appear for only a short time.',
+    herp: 'Most active in the warm season and after rain; harder to find in winter.',
+    fish: 'Many species can be seen underwater year-round, though water temperature and spawning season affect visibility.',
+    default: 'Timing varies by species. This is a natural-history hint, not a list of upload or record months.',
+  },
+  zh: {
+    bird: '因物种而异：留鸟全年可见，冬候鸟见于冬季，夏候鸟以春夏为主。请视作生活史参考，而非记录月份。',
+    plant: '时期取决于想看的状态——花、果实或红叶。若只看叶子，许多物种的可观察期要长得多。',
+    insect: '多数在温暖季节最容易找到，尤其是春到秋的晴朗白天。',
+    mushroom: '多见于雨后或潮湿时期。子实体有时只短暂出现。',
+    herp: '在温暖季节和雨后较为活跃，冬季较难发现。',
+    fish: '不少物种在水中全年可见，但水温和繁殖期会影响可见程度。',
+    default: '观察时机会因物种而异。这里显示的是生活习性参考，不是照片上传或记录月份。',
+  },
+  zhT: {
+    bird: '因物種而異：留鳥全年可見，冬候鳥見於冬季，夏候鳥以春夏為主。請視作生活史參考，而非記錄月份。',
+    plant: '時期取決於想看的狀態——花、果實或紅葉。若只看葉子，許多物種的可觀察期要長得多。',
+    insect: '多數在溫暖季節最容易找到，尤其是春到秋的晴朗白天。',
+    mushroom: '多見於雨後或潮濕時期。子實體有時只短暫出現。',
+    herp: '在溫暖季節和雨後較為活躍，冬季較難發現。',
+    fish: '不少物種在水中全年可見，但水溫和繁殖期會影響可見程度。',
+    default: '觀察時機會因物種而異。這裡顯示的是生活習性參考，不是照片上傳或記錄月份。',
+  },
 };
 
 function observationTimingText(sp) {
