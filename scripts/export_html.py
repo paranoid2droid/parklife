@@ -1,12 +1,15 @@
-"""Generate a single self-contained HTML browser at data/export/index.html.
+"""Generate the HTML browser (index.html) + its data file (parklife-data.json).
 
 Layout:
   - top bar: month picker, taxon picker, free-text search
   - left ~70%: Leaflet map of all parks (markers sized by species count)
   - right ~30%: selected park detail (species photo grid)
 
-Data is embedded as compact JS arrays so the page works opened directly
-via `file://`. Total size target < 8 MB.
+The dataset is written to a sibling parklife-data.json and fetched at runtime,
+keeping index.html small and stable across curation passes (so it no longer
+bloats git history). The page must be served over HTTP (GitHub Pages, or
+`python -m http.server` locally); opening via file:// is no longer supported
+because browsers block fetch of local files.
 
 Compactness:
   - Species rows are 1D entries; pairs reference by index.
@@ -27,6 +30,7 @@ from parklife import db
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "export" / "index.html"
+DATA_OUT = ROOT / "data" / "export" / "parklife-data.json"
 
 # Robust Simplified Chinese -> Traditional Chinese conversion for zhT fallback.
 # If OpenCC is unavailable, use a conservative character-map fallback so exports
@@ -552,16 +556,24 @@ main { display: flex; height: calc(100vh - 50px); }
   </div>
 </div>
 
-<script id="parklife-data" type="application/json">__DATA_JSON__</script>
 <script>
-// JSON.parse is several times faster than evaluating a giant inline object
-// literal in mobile Safari, and frees the parser to keep up with the script
-// that follows. The data lives in a non-executing <script type=application/json>
-// to avoid a second pass through the JS parser.
-const DATA = JSON.parse(document.getElementById('parklife-data').textContent);
-</script>
-<script>
+// The dataset used to be inlined here as a multi-MB <script type=application/json>
+// blob, which made index.html regenerate in full on every curation pass and
+// bloated git history. It now lives in the sibling parklife-data.json, fetched
+// at load. Trade-off: opening this file via file:// no longer works (browsers
+// block fetch of local files) — serve it over HTTP (GitHub Pages, or
+// `python -m http.server` in this directory) for local preview.
+function boot(DATA){
 __SCRIPT__
+}
+fetch('parklife-data.json', { cache: 'no-cache' })
+  .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(boot)
+  .catch(err => {
+    const side = document.getElementById('side');
+    if (side) side.innerHTML =
+      '<div class="placeholder">データの読み込みに失敗しました<br/>' + err + '</div>';
+  });
 </script>
 </body></html>
 """
@@ -1953,17 +1965,19 @@ def main() -> None:
     print(f"species: {len(data['species'])} parks: {len(data['parks'])} pairs: {len(data['pairs'])}")
     present_groups = [k for k, _ in GROUP_ORDER if k in {sp["g"] for sp in data["species"]}]
     group_keys_js = json.dumps(present_groups)
-    embedded = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
-    # Embedded inside <script type="application/json">; the only chars that
-    # can break out are </script ... so escape < to its Unicode form.
-    embedded_safe = embedded.replace("</", "<\\/")
-    html = (HTML_TEMPLATE
-            .replace("__DATA_JSON__", embedded_safe)
-            .replace("__SCRIPT__", CLIENT_JS.replace("__GROUP_KEYS__", group_keys_js)))
+    html = HTML_TEMPLATE.replace(
+        "__SCRIPT__", CLIENT_JS.replace("__GROUP_KEYS__", group_keys_js))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
-    size_mb = OUT.stat().st_size / 1024 / 1024
-    print(f"wrote {OUT.relative_to(ROOT)}  ({size_mb:.1f} MB)")
+    # Data is fetched at runtime from this sibling file (see HTML_TEMPLATE).
+    # Compact separators; the app schema uses short keys already.
+    DATA_OUT.write_text(
+        json.dumps(data, ensure_ascii=False, separators=(",", ":")),
+        encoding="utf-8")
+    html_kb = OUT.stat().st_size / 1024
+    data_mb = DATA_OUT.stat().st_size / 1024 / 1024
+    print(f"wrote {OUT.relative_to(ROOT)}  ({html_kb:.0f} KB)")
+    print(f"wrote {DATA_OUT.relative_to(ROOT)}  ({data_mb:.1f} MB)")
 
 
 if __name__ == "__main__":

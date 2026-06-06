@@ -30,13 +30,17 @@ REGEN_MODULES = (
 )
 
 # What to copy from data/export → docs/ (relative paths)
+# parklife-data.json is the dataset fetched at runtime by index.html.
+# The older parklife.json / park_species.ndjson dumps are no longer published:
+# nothing references them, and committing all three formats every curation pass
+# was the main driver of git bloat. They are still produced locally under
+# data/export/ by export_json if needed.
 DEPLOY_FILES = (
     "index.html",
+    "parklife-data.json",
     "REPORT.md",
     "BIRDS.md",
     "ENDEMIC.md",
-    "parklife.json",
-    "park_species.ndjson",
 )
 DEPLOY_DIRS = ("parks_md",)
 
