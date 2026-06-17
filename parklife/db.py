@@ -115,6 +115,7 @@ CREATE TABLE IF NOT EXISTS species_photo (
     url             TEXT NOT NULL,
     thumb_url       TEXT,
     attribution     TEXT,
+    license         TEXT,                    -- normalized license family (CC BY-SA, CC0, PD, ARR, ...)
     source          TEXT NOT NULL DEFAULT 'iNaturalist',
     source_url      TEXT,                    -- link back to observation/file page
     sort_order      INTEGER NOT NULL DEFAULT 0,

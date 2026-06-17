@@ -20,6 +20,7 @@ import sys
 from pathlib import Path
 
 from parklife import db
+from parklife.licenses import parse_license
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE_DIRS = [
@@ -188,11 +189,12 @@ def main(target: int = 6) -> int:
             for order, photo in enumerate(picks):
                 cur = conn.execute(
                     """INSERT OR IGNORE INTO species_photo
-                       (species_id, url, thumb_url, attribution, source,
+                       (species_id, url, thumb_url, attribution, license, source,
                         source_url, sort_order)
-                       VALUES (?, ?, ?, ?, 'iNaturalist', ?, ?)""",
+                       VALUES (?, ?, ?, ?, ?, 'iNaturalist', ?, ?)""",
                     (sp_id, photo["url"], photo["thumb_url"],
-                     photo["attribution"], photo["source_url"], order),
+                     photo["attribution"], parse_license(photo["attribution"]),
+                     photo["source_url"], order),
                 )
                 total_photos += cur.rowcount
             if i % 500 == 0:

@@ -18,6 +18,7 @@ from pathlib import Path
 from curl_cffi import requests
 
 from parklife import db
+from parklife.licenses import parse_license
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
@@ -33,6 +34,7 @@ CREATE TABLE IF NOT EXISTS species_photo (
     url             TEXT NOT NULL,
     thumb_url       TEXT,
     attribution     TEXT,
+    license         TEXT,
     source          TEXT NOT NULL DEFAULT 'iNaturalist',
     sort_order      INTEGER NOT NULL DEFAULT 0,
     UNIQUE(species_id, url)
@@ -187,9 +189,10 @@ def main(limit: int | None = 500, max_photos: int = 5) -> int:
             for order, photo in enumerate(photos):
                 cur = conn.execute(
                     """INSERT OR IGNORE INTO species_photo
-                       (species_id, url, thumb_url, attribution, source, sort_order)
-                       VALUES (?, ?, ?, ?, 'iNaturalist', ?)""",
-                    (r["id"], photo["url"], photo["thumb_url"], photo["attribution"], order),
+                       (species_id, url, thumb_url, attribution, license, source, sort_order)
+                       VALUES (?, ?, ?, ?, ?, 'iNaturalist', ?)""",
+                    (r["id"], photo["url"], photo["thumb_url"], photo["attribution"],
+                     parse_license(photo["attribution"]), order),
                 )
                 inserted += cur.rowcount
             if i % 25 == 0 or photos:

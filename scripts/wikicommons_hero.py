@@ -25,6 +25,7 @@ from urllib.parse import unquote
 from curl_cffi import requests
 
 from parklife import db
+from parklife.licenses import parse_license
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
@@ -271,6 +272,7 @@ def main(limit: int | None = None) -> int:
                 license_skipped += 1
                 continue
             attribution, _ = attr
+            license_code = parse_license(attribution)
             url = (f"https://commons.wikimedia.org/wiki/Special:FilePath/"
                    f"{fn}?width=600")
             thumb = (f"https://commons.wikimedia.org/wiki/Special:FilePath/"
@@ -278,10 +280,10 @@ def main(limit: int | None = None) -> int:
             source_url = f"https://commons.wikimedia.org/wiki/File:{fn}"
             cur = conn.execute(
                 """INSERT OR IGNORE INTO species_photo
-                   (species_id, url, thumb_url, attribution, source,
+                   (species_id, url, thumb_url, attribution, license, source,
                     source_url, sort_order)
-                   VALUES (?, ?, ?, ?, 'Wikimedia Commons', ?, -1)""",
-                (s["id"], url, thumb, attribution, source_url),
+                   VALUES (?, ?, ?, ?, ?, 'Wikimedia Commons', ?, -1)""",
+                (s["id"], url, thumb, attribution, license_code, source_url),
             )
             if cur.rowcount:
                 inserted += 1
