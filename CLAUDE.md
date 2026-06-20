@@ -95,6 +95,8 @@ The pipeline has four stages, each backed by a table in `data/parklife.db`:
 
 The Tokyo CMS gives strong flora data (花の見ごろ); everything else is heterogeneous narrative text. **iNaturalist closes the gap** for animals across all four prefectures — its species_counts endpoint per geographic radius works regardless of the park's website structure.
 
+> **Park count: the four prefectures originally seeded 209 parks; `scripts/p13_seed.py` (国土数値情報 都市公園 P13) expanded this to 461** (all still within the 4 Kanto prefectures, ≥5 ha biodiversity types). The per-prefecture figures below describe the **original 209** website-scraped parks; the P13 additions get their species purely from iNat/GBIF/eBird by geographic radius, not from website scraping. Occurrence data for ALL parks is now dominated by **GBIF (9,170 species) > iNaturalist (2,632) > eBird (203 birds)** — see `scripts/{gbif,ebird}.py`.
+
 - **Tokyo (137)** — uniform template. 132/137 parks have data (96%).
 - **Kanagawa (27)** — only nanasawa has structured catalogs; iNat covers the rest. 24/27 (89%).
 - **Chiba (13)** — pref site is narrative-only; 指定管理者 sites still 403 on default TLS. iNat fills 11/13 (85%).

@@ -8,7 +8,7 @@ Initial scope: parks managed by Tokyo (都立), Kanagawa (県立), Chiba (県立
 
 ```
 data/
-  seeds/        — curated lists of parks per prefecture (YAML)
+  seeds/        — curated lists of parks per prefecture (JSON)
   raw/          — cached HTML per source URL (gitignored)
   parklife.db   — SQLite output
 parklife/
