@@ -19,6 +19,7 @@ from pathlib import Path
 from curl_cffi import requests
 
 from parklife import db
+from parklife.parking import classify_osm
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
@@ -134,19 +135,20 @@ def main(limit: int | None = None) -> int:
             if data is None:
                 unknown += 1
                 continue
-            has, count = parking_signal(data)
-            if has:
-                info = f"OSM: {count} amenity=parking element(s) within {RADIUS_M}m"
+            _has, count = parking_signal(data)
+            verdict, source, info = classify_osm(count, RADIUS_M)
+            if verdict == 1:
                 conn.execute(
-                    "UPDATE park SET has_parking=1, parking_info=? WHERE id=?",
-                    (info, p["id"]))
+                    "UPDATE park SET has_parking=1, parking_info=?, parking_source=? WHERE id=?",
+                    (info, source, p["id"]))
                 yes += 1
             else:
-                info = f"OSM: no amenity=parking within {RADIUS_M}m"
+                # OSM absence is UNKNOWN, not "no parking" — record the source so
+                # the row stays a re-checkable NULL, never a confident negative.
                 conn.execute(
-                    "UPDATE park SET has_parking=0, parking_info=? WHERE id=?",
-                    (info, p["id"]))
-                no += 1
+                    "UPDATE park SET has_parking=NULL, parking_info=?, parking_source=? WHERE id=?",
+                    (info, source, p["id"]))
+                unknown += 1
             if i % 25 == 0:
                 conn.commit()
                 print(f"  [{i:>4}/{len(rows)}] yes={yes} no={no} unknown={unknown} "
@@ -155,9 +157,8 @@ def main(limit: int | None = None) -> int:
 
     print(f"\n=== osm_parking done ===")
     print(f"  parks probed: {len(rows)}")
-    print(f"  has_parking=1 set: {yes}")
-    print(f"  has_parking=0 set: {no}")
-    print(f"  still NULL: {unknown}")
+    print(f"  has_parking=1 set (osm:present): {yes}")
+    print(f"  left NULL (osm:absent = unknown): {unknown}")
     print(f"  cache hits: {cache_hits}  network calls: {net_calls}")
     return 0
 

@@ -34,6 +34,11 @@ All Python work runs in the project venv (`Python 3.13`):
 .venv/bin/python -m scripts.collect_photo_urls       # photo URLs from cached iNat data
 .venv/bin/python -m scripts.plant_phenology          # narrow flowering months via iNat
 
+# parking classification (run in this order after ingesting new parks; idempotent, cached)
+.venv/bin/python -m scripts.extract_parking          # 1. text verdict from cached HTML (authoritative)
+.venv/bin/python -m scripts.reclassify_parking       # 2. OSM-tagged rows → retry text on alt cached pages
+.venv/bin/python -m scripts.osm_parking              # 3. remaining NULLs → OSM presence (absence stays NULL)
+
 # normalization + dedup (run after each ingestion phase, in order)
 .venv/bin/python -m scripts.normalize                # Wikipedia ja → species
 .venv/bin/python -m scripts.apply_manual_species     # data/manual_species.json fallback
@@ -122,6 +127,17 @@ Anytime `observation` changes (new ingestion, normalization, kingdom-repair, man
 ### Months as a bitmap
 
 `observation.months_bitmap` packs Jan–Dec into 12 bits (bit 0 = Jan). `NULL` means year-round or unknown — distinguish these only if a site explicitly says so. Use bitwise ops in SQL for "which species are seen in month N" queries.
+
+### Parking classification: evidence over coverage
+
+`park.has_parking` is **3-state — 1 (public parking) / 0 (none or restricted-only) / NULL (unknown)** — and `park.parking_source` records *how* we know (the tier). All rules live in **`parklife/parking.py` (single source of truth)**; the three `scripts/*_parking` passes just feed it cached text / OSM results. Never re-implement the regexes elsewhere.
+
+Two invariants that make the labels trustworthy at nationwide scale:
+
+- **Absence is not negation.** "No `amenity=parking` within 300 m in OSM" and "no page mentions 駐車場" both mean **unknown (NULL)**, never a confident 0. OSM under-mapping in Japan is indistinguishable from a real lack of parking, so an OSM miss must leave the row re-checkable. Only explicit **text** phrasing (駐車場なし／ありません) or restricted-only access yields `has_parking=0`. Before this rule, >half of all "no parking" labels were really just unmapped parks — a confident-but-wrong negative that would have multiplied across the other 43 prefectures.
+- **Restricted ≠ public.** 団体予約のみ／障害者専用／観光バス専用 parking is tagged `text:restricted` and collapses to `has_parking=0` ("公開駐車場あり" は満たさない).
+
+Source tiers, high→low confidence: `text:negative` · `text:restricted` · `text:positive` · `text:mention` · `osm:present` · `osm:absent`(→NULL) · `manual` · `unknown`(→NULL). When expanding, run the three parking passes (see Commands) on the new parks; rows that come back NULL are honestly unknown, not silently "no parking". One-off `scripts/probe_*_parking.py` are superseded exploratory scripts — ignore them.
 
 ## Conventions
 

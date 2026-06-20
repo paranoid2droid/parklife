@@ -17,7 +17,8 @@ from __future__ import annotations
 from pathlib import Path
 
 from parklife import db
-from scripts.extract_parking import classify, parse_html
+from parklife.parking import classify_text
+from scripts.extract_parking import parse_html
 
 ROOT = Path(__file__).resolve().parent.parent
 
@@ -67,14 +68,15 @@ def main() -> None:
             verdict = None
             evidence = None
             src_used = None
+            tier = None
             for path, src_url in cands:
                 try:
                     block, full_text = parse_html(path)
                 except Exception:
                     continue
-                h, info = classify(block, full_text)
+                h, src_tier, info = classify_text(block, full_text)
                 if h is not None:
-                    verdict, evidence, src_used = h, info, src_url
+                    verdict, evidence, src_used, tier = h, info, src_url, src_tier
                     break
             if verdict is None:
                 unchanged += 1
@@ -82,8 +84,8 @@ def main() -> None:
             old_has = p["old_has"]
             tag = f"scraped({src_used[:60]}): {evidence[:400] if evidence else ''}"
             conn.execute(
-                "UPDATE park SET has_parking=?, parking_info=? WHERE id=?",
-                (verdict, tag, p["id"]),
+                "UPDATE park SET has_parking=?, parking_info=?, parking_source=? WHERE id=?",
+                (verdict, tag, tier, p["id"]),
             )
             if verdict == 1: flipped_yes += 1
             else: flipped_no += 1
