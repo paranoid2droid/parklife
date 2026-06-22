@@ -1,8 +1,8 @@
 # 大島公園（海のふるさと村）
 
-**所在**: tokyo / 伊豆諸島 | **位置**: 34.7528, 139.4156 | **公式**: <https://www.tokyo-park.or.jp/park/oshima/index.html>
+**所在**: tokyo / 伊豆諸島 | **公式**: <https://www.tokyo-park.or.jp/park/oshima/index.html>
 
-**観察記録**: 41 件 / 9 カテゴリ
+**観察記録**: 39 件 / 9 カテゴリ
 
 ## 🦜 鳥類 (7)
 
@@ -22,18 +22,18 @@
 |---|---|---|---|
 | キョン | *Muntiacus reevesi* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
-## 🐸 両生類 (3)
+## 🐸 両生類 (2)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Nihon Hikigaeru | *Bufo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| アズマヒキガエル | *Bufo formosus* | 3月 | iNaturalist (research grade); observations: 3 |
+| アズマヒキガエル | *Bufo formosus* | 3月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | モリアオガエル | *Zhangixalus arboreus* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
-## 🐟 魚類 (2)
+## 🐟 魚類 (3)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| アカウオ | *Paratrypauchen microcephalus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツノダシ | *Zanclus cornutus* | 11月 | iNaturalist (research grade); observations: 1 |
 | ハマフエフキ | *Lethrinus nebulosus* | 11月 | iNaturalist (research grade); observations: 1 |
 
@@ -63,11 +63,10 @@
 |---|---|---|---|
 | ミノガイ | *Lima vulgaris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
-## 🌸 植物 (15)
+## 🌸 植物 (14)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Trachelospermum gracilipes | *Trachelospermum gracilipes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アジサイ | *Hydrangea macrophylla* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオシマザクラ | *Prunus speciosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -82,10 +81,3 @@
 | ヒメユズリハ | *Daphniphyllum teijsmannii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | フキ | *Petasites japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ムラサキシキブ | *Callicarpa japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-
-## ❓ 未分類 (2)
-
-| 名前 | 学名 | 月 | 備考 |
-|---|---|---|---|
-| アカウオ | *Paratrypauchen microcephalus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| オオゲジ | *Thereuopoda clunifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |

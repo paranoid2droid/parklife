@@ -2,7 +2,7 @@
 
 **所在**: kanagawa / - | **位置**: 35.0137, 138.4620 | **公式**: <https://www.kanagawa-park.or.jp/sakaigawa/>
 
-**観察記録**: 51 件 / 7 カテゴリ
+**観察記録**: 50 件 / 7 カテゴリ
 
 ## 🦜 鳥類 (24)
 
@@ -37,7 +37,7 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Akabou | *Ziphius cavirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アカボウクジラ | *Ziphius cavirostris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 
 ## 🦎 爬虫類 (1)
 
@@ -45,12 +45,11 @@
 |---|---|---|---|
 | アカミミガメ | *Trachemys scripta* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
-## 🐛 昆虫 (8)
+## 🐛 昆虫 (7)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| オオカマキリ | *Tenodera sinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| オオカマキリ | *Tenodera aridifolia* | 3月 | iNaturalist (research grade); observations: 1 |
+| オオカマキリ | *Tenodera sinensis* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | オオスカシバ | *Cephonodes hylas* | 10月 | iNaturalist (research grade); observations: 1 |
 | カブトムシ | *Trypoxylus dichotomus* | 7月, 8月 | iNaturalist (research grade); observations: 2 |
 | クロウリハムシ | *Aulacophora nigripennis* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -82,10 +81,3 @@
 | メリケンカルカヤ | *Andropogon virginicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤナギバルイラソウ | *Ruellia simplex* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヨウシュヤマゴボウ | *Phytolacca americana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-
-## ❓ 未分類 (2)
-
-| 名前 | 学名 | 月 | 備考 |
-|---|---|---|---|
-| Chydorus sphaericus | *Chydorus sphaericus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| スジエビ | *Palaemon paucidens* | 通年/不明 | GBIF; GBIF occurrences: 1 |

@@ -1,0 +1,37 @@
+# 亀鶴公園
+
+**所在**: kagawa / さぬき市 | **位置**: 34.2526, 134.1833
+
+**観察記録**: 22 件 / 2 カテゴリ
+
+## 🦜 鳥類 (12)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 8 |
+| オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| キンクロハジロ | *Aythya fuligula* | 通年/不明 | GBIF; GBIF occurrences: 9 |
+| コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| スズガモ | *Aythya marila* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ツクシガモ | *Tadorna tadorna* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ハシビロガモ | *Spatula clypeata* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| ヒドリガモ | *Mareca penelope* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| ホシハジロ | *Aythya ferina* | 通年/不明 | GBIF; GBIF occurrences: 8 |
+| マガモ | *Anas platyrhynchos* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ミコアイサ | *Mergellus albellus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ヨシガモ | *Mareca falcata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+
+## 🌸 植物 (10)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| Coryphopteris japonica | *Coryphopteris japonica* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| Cyperus steudneri | *Cyperus steudneri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イノモトソウ | *Pteris multifida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イワヒメワラビ | *Hypolepis punctata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オヒシバ | *Eleusine indica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| カゼクサ | *Eragrostis ferruginea* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| シケシダ | *Deparia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ナンテン | *Nandina domestica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヒトツバ | *Pyrrosia lingua* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ベニオオイタチシダ | *Dryopteris erythrovaria* | 通年/不明 | GBIF; GBIF occurrences: 1 |

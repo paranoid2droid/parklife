@@ -2,13 +2,14 @@
 
 **所在**: tokyo / 小平市 東村山市 東大和市 西東京市 | **位置**: 34.8808, 135.7511 | **公式**: <https://www.tokyo-park.or.jp/park/sayama-sakai-scenic-road/index.html>
 
-**観察記録**: 43 件 / 7 カテゴリ
+**観察記録**: 44 件 / 7 カテゴリ
 
-## 🦜 鳥類 (13)
+## 🦜 鳥類 (14)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アオサギ | *Ardea cinerea* | 8月, 9月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
+| イカルチドリ | *Thinornis placidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イカルチドリ | *Charadrius placidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 5 |
@@ -71,7 +72,7 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Inversiunio reinianus | *Inversiunio reinianus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Nodularia douglasiae | *Nodularia douglasiae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イシガイ | *Nodularia douglasiae* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カラスガイ | *Cristaria plicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ドブガイ | *Sinanodonta woodiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 

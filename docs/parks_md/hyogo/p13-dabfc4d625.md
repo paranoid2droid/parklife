@@ -1,0 +1,119 @@
+# 瑞ヶ池公園
+
+**所在**: hyogo / 伊丹市 | **位置**: 34.7936, 135.4009
+
+**観察記録**: 94 件 / 4 カテゴリ
+
+## 🦜 鳥類 (87)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| Erithacus akahige | *Erithacus akahige* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Luscinia calliope | *Luscinia calliope* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Muscicapa latirostris | *Muscicapa latirostris* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Poecile varius | *Poecile varius* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; eBird; GBIF occurrences: 62; latest: 2026-05-24 09:13; count: 2; near: 伊丹市 |
+| アオジ | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 15 |
+| アカハラ | *Turdus chrysolaus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| アトリ | *Fringilla montifringilla* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| イカル | *Eophona personata* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| イソシギ | *Actitis hypoleucos* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イソヒヨドリ | *Monticola solitarius* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 15 |
+| エゾムシクイ | *Phylloscopus borealoides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 20 |
+| オオジュリン | *Emberiza schoeniclus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| オオバン | *Fulica atra* | 通年/不明 | GBIF; GBIF occurrences: 22 |
+| オオルリ | *Cyanoptila cyanomelana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| オカヨシガモ | *Mareca strepera* | 通年/不明 | GBIF; GBIF occurrences: 21 |
+| オナガガモ | *Anas acuta* | 通年/不明 | GBIF; GBIF occurrences: 36 |
+| カイツブリ | *Tachybaptus ruficollis* | 通年/不明 | GBIF; GBIF occurrences: 48 |
+| カルガモ | *Anas zonorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 61 |
+| カワウ | *Phalacrocorax carbo* | 通年/不明 | GBIF; eBird; GBIF occurrences: 62; latest: 2026-05-24 09:13; count: 20; near: 伊丹 |
+| カワセミ | *Alcedo atthis* | 通年/不明 | GBIF; GBIF occurrences: 20 |
+| カワラバト | *Columba livia* | 通年/不明 | GBIF; GBIF occurrences: 49 |
+| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 27 |
+| カンムリカイツブリ | *Podiceps cristatus* | 通年/不明 | GBIF; GBIF occurrences: 40 |
+| キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; eBird; GBIF occurrences: 48; latest: 2026-05-24 09:13; count: 1; near: 伊丹市 |
+| キセキレイ | *Motacilla cinerea* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| キビタキ | *Ficedula narcissina* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| キレンジャク | *Bombycilla garrulus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| キンクロハジロ | *Aythya fuligula* | 通年/不明 | GBIF; GBIF occurrences: 40 |
+| クイナ | *Rallus indicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| クサシギ | *Tringa ochropus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コウノトリ | *Ciconia boyciana* | 通年/不明 | GBIF; GBIF occurrences: 9 |
+| コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 12 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; GBIF occurrences: 28 |
+| コサギ | *Egretta garzetta* | 通年/不明 | GBIF; eBird; GBIF occurrences: 10; latest: 2026-05-24 09:13; count: 1; near: 伊丹市 |
+| コシアカツバメ | *Cecropis daurica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| コジュケイ | *Bambusicola thoracicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コブハクチョウ | *Cygnus olor* | 通年/不明 | GBIF; eBird; GBIF occurrences: 8; latest: 2026-05-24 09:13; count: 1; near: 伊丹市- |
+| ゴイサギ | *Nycticorax nycticorax* | 通年/不明 | GBIF; GBIF occurrences: 8 |
+| サシバ | *Butastur indicus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 39 |
+| シマアジ | *Spatula querquedula* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| シメ | *Coccothraustes coccothraustes* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 26 |
+| ジョウビタキ | *Phoenicurus auroreus* | 通年/不明 | GBIF; GBIF occurrences: 36 |
+| スズガモ | *Aythya marila* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| スズメ | *Passer montanus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 45; latest: 2026-05-24 09:13; count: 6; near: 伊丹市 |
+| セグロカモメ | *Larus vegae* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 18 |
+| センダイムシクイ | *Phylloscopus coronatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ソウシチョウ | *Leiothrix lutea* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 53; latest: 2026-05-24 09:13; count: 1; near: 伊丹市 |
+| チュウサギ | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 25 |
+| チュウヒ | *Circus spilonotus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 37 |
+| ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; GBIF occurrences: 8 |
+| トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 5 |
+| トモエガモ | *Sibirionetta formosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| トラツグミ | *Zoothera aurea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ノスリ | *Buteo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ノビタキ | *Saxicola stejnegeri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ハイタカ | *Accipiter nisus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 41 |
+| ハシビロガモ | *Spatula clypeata* | 通年/不明 | GBIF; GBIF occurrences: 47 |
+| ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 56; latest: 2026-05-24 09:13; count: 4; near: 伊丹市 |
+| ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 16; latest: 2026-05-24 09:13; count: 3; near: 伊丹市 |
+| ハチクマ | *Pernis ptilorhynchus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
+| バン | *Gallinula chloropus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヒドリガモ | *Mareca penelope* | 通年/不明 | GBIF; GBIF occurrences: 60 |
+| ヒヨドリ | *Hypsipetes amaurotis* | 通年/不明 | GBIF; eBird; GBIF occurrences: 55; latest: 2026-05-24 09:13; count: 5; near: 伊丹市 |
+| ヒレンジャク | *Bombycilla japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヘラサギ | *Platalea leucorodia* | 通年/不明 | GBIF; GBIF occurrences: 9 |
+| ホオジロ | *Emberiza cioides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ホシハジロ | *Aythya ferina* | 通年/不明 | GBIF; GBIF occurrences: 7 |
+| マガモ | *Anas platyrhynchos* | 通年/不明 | GBIF; GBIF occurrences: 40 |
+| マヒワ | *Spinus spinus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ミコアイサ | *Mergellus albellus* | 通年/不明 | GBIF; GBIF occurrences: 19 |
+| ミサゴ | *Pandion haliaetus* | 通年/不明 | GBIF; GBIF occurrences: 7 |
+| ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 30; latest: 2026-05-24 09:13; count: 3; near: 伊丹市 |
+| メジロ | *Zosterops japonicus* | 通年/不明 | GBIF; GBIF occurrences: 34 |
+| モズ | *Lanius bucephalus* | 通年/不明 | GBIF; GBIF occurrences: 15 |
+| ヤブサメ | *Urosphena squameiceps* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ユリカモメ | *Chroicocephalus ridibundus* | 通年/不明 | GBIF; GBIF occurrences: 20 |
+| ヨシガモ | *Mareca falcata* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+
+## 🦎 爬虫類 (1)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| アカミミガメ | *Trachemys scripta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+
+## 🐛 昆虫 (5)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| アサギマダラ | *Parantica sita* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ジャコウアゲハ | *Byasa alcinous* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ナミアゲハ | *Papilio xuthus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ヒオドシチョウ | *Nymphalis xanthomelas* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヨコヅナサシガメ | *Agriosphodrus dohrni* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+
+## 🕷 クモ類 (1)
+
+| 名前 | 学名 | 月 | 備考 |
+|---|---|---|---|
+| ジョロウグモ | *Trichonephila clavata* | 通年/不明 | GBIF; GBIF occurrences: 3 |

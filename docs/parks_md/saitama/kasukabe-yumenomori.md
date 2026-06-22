@@ -74,8 +74,8 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| タケオオツクツク | *Platylomia pieli* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| タケオオツクツク | *Macrosemia pieli* | 7月 | iNaturalist (research grade); observations: 1 |
+| Platylomia pieli | *Platylomia pieli* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| タケオオツクツク | *Macrosemia pieli* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | チャマダラキリガ | *Rhynchaglaea scitula* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
 ## 🕷 クモ類 (1)

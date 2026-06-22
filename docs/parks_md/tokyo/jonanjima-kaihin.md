@@ -2,9 +2,9 @@
 
 **所在**: tokyo / 大田区 | **位置**: 35.5814, 139.7848 | **公式**: <https://www.tokyo-park.or.jp/park/jonanjima-kaihin/index.html>
 
-**観察記録**: 127 件 / 6 カテゴリ
+**観察記録**: 126 件 / 6 カテゴリ
 
-## 🦜 鳥類 (85)
+## 🦜 鳥類 (84)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -65,19 +65,18 @@
 | タシギ | *Gallinago gallinago* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-26 15:06; count: 1; near: 大田区- |
 | タヒバリ | *Anthus japonicus* | 通年/不明 | eBird; latest: 2026-04-03 11:13; count: 2; near: 大田区--東京港野鳥公園・潮入の池 (Ota Ward--To |
 | ダイサギ | *Ardea alba* | 通年/不明 | eBird; latest: 2026-05-01 16:03; count: 1; near: 大田区--東京港野鳥公園・潮入の池 (Ota Ward--To |
-| チュウサギ | *Ardea intermedia* | 通年/不明 | eBird; latest: 2026-04-22 09:31; count: 1; near: 大田区--東京港野鳥公園・潮入の池 (Ota Ward--To |
+| チュウサギ | *Egretta intermedia* | 通年/不明 | eBird; latest: 2026-04-22 09:31; count: 1; near: 大田区--東京港野鳥公園・潮入の池 (Ota Ward--To |
 | チュウシャクシギ | *Numenius phaeopus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 2; latest: 2026-05-01 16:03; count: 1; near: 大田区- |
 | ツグミ | *Turdus eunomus* | 2月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 2; |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 3; latest: 2026-05-01 16:03; count: 2; near: 大田区- |
 | トウネン | *Calidris ruficollis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トビ | *Milvus migrans* | 10月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 2; |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 6; latest: 2026-04-28 11:18; count: 1; near: 大田区- |
-| ハクセキレイ | *Motacilla alba lugens* | 2月, 8月 | iNaturalist (research grade); observations: 2 |
+| ハクセキレイ | *Motacilla alba* | 2月, 8月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 6; |
 | ハシビロガモ | *Spatula clypeata* | 2月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-05-01 16:03; count: 1; near: 大田区- |
 | ハシボソガラス | *Corvus corone* | 1月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 4; |
 | ハマシギ | *Calidris alpina* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ヒクイナ | *Zapornia fusca* | 通年/不明 | eBird; latest: 2026-04-05 10:00; count: 1; near: 大田区--東京港野鳥公園--東淡水池 (Ota Ward--T |
+| ヒクイナ | *Porzana fusca* | 通年/不明 | eBird; latest: 2026-04-05 10:00; count: 1; near: 大田区--東京港野鳥公園--東淡水池 (Ota Ward--T |
 | ヒドリガモ | *Mareca penelope* | 11月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | ヒバリ | *Alauda arvensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒメアマツバメ | *Apus nipalensis* | 通年/不明 | eBird; latest: 2026-04-24 10:45; count: 1; near: 大田区--東京港野鳥公園・潮入の池 (Ota Ward--To |
@@ -135,7 +134,6 @@
 |---|---|---|---|
 | Fimbristylis tristachya | *Fimbristylis tristachya* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Talinum paniculatum | *Talinum paniculatum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シロツメクサ | *Trifolium repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スギナ | *Equisetum arvense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -150,13 +148,6 @@
 | ヘクソカズラ | *Paederia foetida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ホトケノザ | *Lamium amplexicaule* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ムラサキツメクサ | *Trifolium pratense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ヤハズエンドウ | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤブカラシ | *Causonis japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ユウゲショウ | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-
-## ❓ 未分類 (3)
-
-| 名前 | 学名 | 月 | 備考 |
-|---|---|---|---|
-| イソガニ | *Hemigrapsus sanguineus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ヒライソガニ | *Gaetice depressus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ユビナガホンヤドカリ | *Pagurus minutus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

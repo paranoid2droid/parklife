@@ -2,7 +2,7 @@
 
 **所在**: chiba / - | **位置**: 35.3129, 139.8084 | **公式**: <https://www.pref.chiba.lg.jp/kouen/toshikouen/guidemap/futtsu/index.html>
 
-**観察記録**: 74 件 / 7 カテゴリ
+**観察記録**: 74 件 / 8 カテゴリ
 
 ## 🦜 鳥類 (20)
 
@@ -29,17 +29,20 @@
 | マガモ | *Anas platyrhynchos* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 
-## 🐟 魚類 (7)
+## 🐟 魚類 (10)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アカオビシマハゼ | *Tridentiger trigonocephalus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
+| アカメバル | *Sebastes inermis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アゴハゼ | *Chaenogobius annularis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | イソギンポ | *Parablennius yatabei* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | イダテンカジカ | *Ocynectes maschalis* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | カワハギ | *Stephanolepis cirrhifer* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ギマ | *Triacanthus biaculeatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コケギンポ | *Neoclinus bryope* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハオコゼ | *Paracentropogon rubripinnis* | 通年/不明 | GBIF; GBIF occurrences: 7 |
+| ヨウジウオ | *Syngnathus schlegeli* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 
 ## 🕷 クモ類 (1)
 
@@ -65,7 +68,6 @@
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Hama-nigana | *Ixeris repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Melanthera prostrata | *Melanthera prostrata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Morus indica | *Morus indica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oceana serrulata | *Oceana serrulata* | 通年/不明 | GBIF; GBIF occurrences: 84 |
@@ -87,7 +89,7 @@
 | カワツルモ | *Ruppia maritima* | 通年/不明 | GBIF; GBIF occurrences: 104 |
 | ケカモノハシ | *Ischaemum anthephoroides* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コアマモ | *Zostera japonica* | 通年/不明 | GBIF; GBIF occurrences: 96 |
-| コウボウシバ（Kouboushiba） | *Carex pumila* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コウボウシバ | *Carex pumila* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コウボウムギ | *Carex kobomugi* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | シオニラ | *Syringodium isoetifolium* | 通年/不明 | GBIF; GBIF occurrences: 96 |
 | スガモ | *Phyllospadix iwatensis* | 通年/不明 | GBIF; GBIF occurrences: 85 |
@@ -95,7 +97,8 @@
 | ツリガネニンジン | *Adenophora triphylla* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ナツグミ | *Elaeagnus multiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ナワシログミ | *Elaeagnus pungens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ハマアオスゲ（Hama-ao-suge） | *Carex fibrillosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ハマアオスゲ | *Carex fibrillosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ハマニガナ | *Ixeris repens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハマヒルガオ | *Calystegia soldanella* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハマボウフウ | *Glehnia littoralis* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ハマユウ | *Crinum asiaticum* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -103,12 +106,8 @@
 | マツバウミジグサ | *Halodule pinifolia* | 通年/不明 | GBIF; GBIF occurrences: 93 |
 | リュウキュウスガモ | *Thalassia hemprichii* | 通年/不明 | GBIF; GBIF occurrences: 88 |
 
-## ❓ 未分類 (5)
+## ❓ 未分類 (1)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| アカメバル | *Sebastes inermis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| オカダンゴムシ | *Armadillidium vulgare* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コケギンポ | *Neoclinus bryope* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヘビヌカホコリ | *Hemitrichia serpula* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ヨウジウオ | *Syngnathus schlegeli* | 通年/不明 | GBIF; GBIF occurrences: 3 |

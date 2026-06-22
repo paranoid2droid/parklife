@@ -2,9 +2,9 @@
 
 **所在**: saitama / - | **位置**: 35.9461, 139.8098 | **公式**: <https://www.town.matsubushi.lg.jp/www/contents/1260148701019/>
 
-**観察記録**: 103 件 / 4 カテゴリ
+**観察記録**: 99 件 / 4 カテゴリ
 
-## 🦜 鳥類 (73)
+## 🦜 鳥類 (69)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -16,8 +16,7 @@
 | イカル | *Eophona personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウグイス | *Horornis diphone* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | エゾビタキ | *Muscicapa griseisticta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| エナガ | *Aegithalos caudatus trivirgatus* | 1月 | iNaturalist (research grade); observations: 1 |
+| エナガ | *Aegithalos caudatus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 8 |
 | オオジュリン | *Emberiza schoeniclus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | オオタカ | *Astur gentilis* | 1月, 6月 | iNaturalist (research grade); observations: 2 |
 | オオバン | *Fulica atra* | 1月, 3月 | iNaturalist (research grade); GBIF; observations: 5; GBIF occurrences: 33 |
@@ -31,8 +30,7 @@
 | カワアイサ | *Mergus merganser* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カワウ | *Phalacrocorax carbo* | 1月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 28 |
 | カワセミ | *Alcedo atthis* | 通年/不明 | GBIF; GBIF occurrences: 19 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 29 |
-| カワラヒワ | *Carduelis sinica minor* | 1月 | iNaturalist (research grade); observations: 3 |
+| カワラヒワ | *Chloris sinica* | 1月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 29 |
 | カンムリカイツブリ | *Podiceps cristatus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ガビチョウ | *Garrulax canorus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キジバト | *Streptopelia orientalis* | 1月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 24 |
@@ -54,8 +52,7 @@
 | セグロセキレイ | *Motacilla grandis* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |
 | セッカ | *Cisticola juncidis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タヒバリ | *Anthus japonicus* | 2月 | iNaturalist (research grade); observations: 1 |
-| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 17 |
-| ダイサギ | *Casmerodius albus* | 1月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Ardea alba* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 17 |
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 27 |
 | ツツドリ | *Cuculus optatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -64,8 +61,7 @@
 | ニシオジロビタキ | *Ficedula parva* | 通年/不明 | GBIF; GBIF occurrences: 17 |
 | ノビタキ | *Saxicola stejnegeri* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ハイタカ | *Accipiter nisus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 33 |
-| ハクセキレイ | *Motacilla alba lugens* | 1月, 2月, 5月 | iNaturalist (research grade); observations: 3 |
+| ハクセキレイ | *Motacilla alba* | 1月, 2月, 5月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 33 |
 | ハシブトガラス | *Corvus macrorhynchos* | 1月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 11 |
 | ハシボソガラス | *Corvus corone* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 12 |
 | バン | *Gallinula chloropus* | 通年/不明 | GBIF; GBIF occurrences: 12 |

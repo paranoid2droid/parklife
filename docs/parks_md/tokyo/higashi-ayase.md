@@ -2,9 +2,9 @@
 
 **所在**: tokyo / 足立区 | **位置**: 35.7702, 139.8326 | **公式**: <https://www.tokyo-park.or.jp/park/higashi-ayase/index.html>
 
-**観察記録**: 84 件 / 7 カテゴリ
+**観察記録**: 82 件 / 7 カテゴリ
 
-## 🦜 鳥類 (48)
+## 🦜 鳥類 (46)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -33,8 +33,7 @@
 | コサギ | *Egretta garzetta* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | シジュウカラ | *Parus cinereus* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 32 |
 | シメ | *Coccothraustes coccothraustes* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
-| シロチドリ | *Charadrius alexandrinus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| シロチドリ | *Anarhynchus alexandrinus* | 2月 | iNaturalist (research grade); observations: 1 |
+| シロチドリ | *Charadrius alexandrinus* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | シロハラ | *Turdus pallidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ジョウビタキ | *Phoenicurus auroreus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 143 |
@@ -43,8 +42,7 @@
 | チョウゲンボウ | *Falco tinnunculus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; GBIF occurrences: 21 |
 | ハイタカ | *Accipiter nisus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 53 |
-| ハクセキレイ | *Motacilla alba lugens* | 9月 | iNaturalist (research grade); observations: 1 |
+| ハクセキレイ | *Motacilla alba* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 53 |
 | ハシブトガラス | *Corvus macrorhynchos* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 134 |
 | ハシボソガラス | *Corvus corone* | 通年/不明 | GBIF; GBIF occurrences: 22 |
 | ヒドリガモ | *Mareca penelope* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 140 |
@@ -55,7 +53,7 @@
 | マヒワ | *Spinus spinus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ムクドリ | *Spodiopsar cineraceus* | 3月, 6月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 87 |
 | メジロ | *Zosterops japonicus* | 通年/不明 | GBIF; GBIF occurrences: 28 |
-| メダイチドリ（広義） | *Anarhynchus mongolus* | 5月, 9月 | iNaturalist (research grade); observations: 2 |
+| メダイチドリ | *Anarhynchus mongolus* | 5月, 9月 | iNaturalist (research grade); observations: 2 |
 
 ## 🦎 爬虫類 (2)
 

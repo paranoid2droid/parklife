@@ -4,10 +4,11 @@
 
 **観察記録**: 85 件 / 5 カテゴリ
 
-## 🦜 鳥類 (45)
+## 🦜 鳥類 (46)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| Accipiter gularis | *Accipiter gularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Phylloscopus sibillatrix | *Phylloscopus sibillatrix* | 通年/不明 | GBIF; GBIF occurrences: 9 |
 | アオサギ | *Ardea cinerea* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 5 |
 | アオジ | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -36,7 +37,7 @@
 | スズメ | *Passer montanus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | セグロセキレイ | *Motacilla grandis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| ツミ | *Accipiter gularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ツミ | *Tachyspiza gularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | トモエガモ | *Sibirionetta formosa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ノスリ | *Buteo japonicus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -54,11 +55,10 @@
 | ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | モズ | *Lanius bucephalus* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 4 |
 
-## 🐛 昆虫 (14)
+## 🐛 昆虫 (13)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| Haguro-tombo | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオバハゴロモ | *Geisha distinctissima* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | アカタテハ | *Vanessa indica* | 6月 | iNaturalist (research grade); observations: 1 |
 | コフキコガネ | *Melolontha japonica* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -67,7 +67,7 @@
 | トノサマバッタ | *Locusta migratoria* | 10月 | iNaturalist (research grade); observations: 1 |
 | ナナホシテントウ | *Coccinella septempunctata* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ノシメトンボ | *Sympetrum infuscatum* | 10月 | iNaturalist (research grade); observations: 2 |
-| ハグロトンボ | *Matrona basilaris japonica* | 6月 | iNaturalist (research grade); observations: 1 |
+| ハグロトンボ | *Atrocalopteryx atrata* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ヒゲナガヤチバエ | *Sepedon aenescens* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ベニシジミ | *Lycaena phlaeas* | 8月 | iNaturalist (research grade); observations: 1 |
 | マダラバッタ | *Aiolopus thalassinus* | 10月 | iNaturalist (research grade); observations: 2 |

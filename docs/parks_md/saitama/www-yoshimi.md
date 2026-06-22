@@ -4,7 +4,7 @@
 
 **観察記録**: 55 件 / 6 カテゴリ
 
-## 🦜 鳥類 (29)
+## 🦜 鳥類 (28)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -18,8 +18,7 @@
 | カシラダカ | *Emberiza rustica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カッコウ | *Cuculus canorus* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| カワラヒワ | *Carduelis sinica minor* | 1月 | iNaturalist (research grade); observations: 1 |
+| カワラヒワ | *Chloris sinica* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | キジ | *Phasianus versicolor* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
 | キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 2 |
@@ -50,10 +49,11 @@
 |---|---|---|---|
 | アカミミガメ | *Trachemys scripta* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
-## 🐛 昆虫 (19)
+## 🐛 昆虫 (20)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| Daimio tethys | *Daimio tethys* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオスジアゲハ | *Graphium sarpedon* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカシジミ | *Japonica lutea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オナガアゲハ | *Papilio macilentus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -63,7 +63,7 @@
 | コチャバネセセリ | *Thoressa varia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | サトキマダラヒカゲ | *Neope goschkevitschii* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | スジグロシロチョウ | *Pieris melete* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ダイミョウセセリ | *Daimio tethys* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ダイミョウセセリ | *Tagiades tethys* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | トラフシジミ | *Rapala arata* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ナミアゲハ | *Papilio xuthus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒカゲチョウ | *Lethe sicelis* | 通年/不明 | GBIF; GBIF occurrences: 1 |

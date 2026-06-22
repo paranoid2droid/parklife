@@ -2,15 +2,14 @@
 
 **所在**: saitama / - | **位置**: 35.9034, 139.7174 | **公式**: <https://www.stadium2002.com/>
 
-**観察記録**: 88 件 / 7 カテゴリ
+**観察記録**: 84 件 / 7 カテゴリ
 
-## 🦜 鳥類 (44)
+## 🦜 鳥類 (40)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アオサギ | *Ardea cinerea* | 7月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
-| アオジ | *Emberiza personata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| アオジ | *Emberiza spodocephala personata* | 1月 | iNaturalist (research grade); observations: 1 |
+| アオジ | *Emberiza personata* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | イカルチドリ | *Thinornis placidus* | 1月 | iNaturalist (research grade); observations: 1 |
 | イソシギ | *Actitis hypoleucos* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | イソヒヨドリ | *Monticola solitarius* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -21,8 +20,7 @@
 | カルガモ | *Anas zonorhyncha* | 1月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | カワウ | *Phalacrocorax carbo* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | カワセミ | *Alcedo atthis* | 1月, 2月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| カワラヒワ | *Carduelis sinica minor* | 1月, 11月 | iNaturalist (research grade); observations: 2 |
+| カワラヒワ | *Chloris sinica* | 1月, 11月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | キジ | *Phasianus versicolor* | 4月, 7月, 11月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 4 |
 | キンクロハジロ | *Aythya fuligula* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | コガモ | *Anas crecca* | 通年/不明 | GBIF; GBIF occurrences: 6 |
@@ -32,15 +30,13 @@
 | ジョウビタキ | *Phoenicurus auroreus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | セグロセキレイ | *Motacilla grandis* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | セッカ | *Cisticola juncidis* | 6月, 7月, 10月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 4 |
-| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| ダイサギ | *Casmerodius albus* | 1月, 4月, 6月, 10月 | iNaturalist (research grade); observations: 4 |
+| ダイサギ | *Ardea alba* | 1月, 4月, 6月, 10月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 4 |
 | チョウゲンボウ | *Falco tinnunculus* | 11月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ツバメ | *Hirundo rustica* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | トモエガモ | *Sibirionetta formosa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ハイタカ | *Accipiter nisus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ハクセキレイ | *Motacilla alba lugens* | 1月 | iNaturalist (research grade); observations: 1 |
+| ハクセキレイ | *Motacilla alba* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ハシビロガモ | *Spatula clypeata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | バン | *Gallinula chloropus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ヒドリガモ | *Mareca penelope* | 通年/不明 | GBIF; GBIF occurrences: 3 |
@@ -105,7 +101,7 @@
 | カナヤマシダ | *Athyrium yokoscense* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | クサソテツ | *Matteuccia struthiopteris* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コゴメガヤツリ | *Cyperus iria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コジュズスゲ（Ko-juzusuge） | *Carex macroglossa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コジュズスゲ | *Carex macroglossa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | サナエタデ | *Persicaria lapathifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ゼンマイ | *Osmunda japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タニソバ | *Persicaria nepalensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |

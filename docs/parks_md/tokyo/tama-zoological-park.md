@@ -2,26 +2,24 @@
 
 **所在**: tokyo / 日野市 | **位置**: 35.6507, 139.4009 | **公式**: <https://www.tokyo-park.or.jp/park/tama-zoological-park/index.html>
 
-**観察記録**: 496 件 / 15 カテゴリ
+**観察記録**: 481 件 / 16 カテゴリ
 
-## 🦜 鳥類 (85)
+## 🦜 鳥類 (76)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| Parus minor | *Parus minor* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Poecile varius | *Poecile varius* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | アオアシシギ | *Tringa nebularia* | 通年/不明 | eBird; latest: 2026-04-29 10:43; count: 3; near: 日野市--浅川--一番橋と高幡橋の間 (Hino City-- |
 | アオゲラ | *Picus awokera* | 10月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | アオサギ | *Ardea cinerea* | 1月, 2月, 3月, 5月, 6月, 7月, 8月, 10月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 25; GBIF occurrences: 4 |
-| アオジ | *Emberiza personata* | 通年/不明 | GBIF; eBird; GBIF occurrences: 3; latest: 2026-04-11 08:43; count: 1; near: 百草団地 |
-| アオジ | *Emberiza spodocephala personata* | 1月, 4月 | iNaturalist (research grade); observations: 4 |
+| アオジ | *Emberiza personata* | 1月, 4月 | iNaturalist (research grade); GBIF; eBird; observations: 4; GBIF occurrences: 3; |
 | イカルチドリ | *Thinornis placidus* | 1月, 2月, 4月, 5月, 6月, 7月, 8月 | iNaturalist (research grade); eBird; observations: 12; latest: 2026-04-29 09:47; |
 | イソシギ | *Actitis hypoleucos* | 5月, 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | イソヒヨドリ | *Monticola solitarius* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | イワツバメ | *Delichon dasypus* | 3月, 5月 | iNaturalist (research grade); GBIF; eBird; observations: 4; GBIF occurrences: 9; |
-| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 8; latest: 2026-04-19 09:29; count: 2; near: Ichi |
-| ウグイス | *Cettia diphone* | 5月 | iNaturalist (research grade); observations: 1 |
-| エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 8; latest: 2026-04-11 08:43; count: 4; near: 百草団地 |
-| エナガ | *Aegithalos caudatus trivirgatus* | 1月, 10月 | iNaturalist (research grade); observations: 2 |
+| ウグイス | *Horornis diphone* | 5月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 8; |
+| エナガ | *Aegithalos caudatus* | 1月, 10月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 8; |
 | オオジュリン | *Emberiza schoeniclus* | 1月, 2月, 12月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | オオタカ | *Astur gentilis* | 1月, 7月 | iNaturalist (research grade); observations: 2 |
 | オオヨシキリ | *Acrocephalus orientalis* | 7月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 3 |
@@ -33,8 +31,7 @@
 | カワウ | *Phalacrocorax carbo* | 5月, 6月, 7月, 8月 | iNaturalist (research grade); GBIF; eBird; observations: 8; GBIF occurrences: 15 |
 | カワセミ | *Alcedo atthis* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 87; GBIF occurrences: 9 |
 | カワラバト | *Columba livia* | 1月, 5月, 6月, 7月, 8月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 13 |
-| カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 15; latest: 2026-04-29 09:47; count: 29; near: 日野 |
-| カワラヒワ | *Carduelis sinica minor* | 1月, 2月, 5月, 6月, 10月 | iNaturalist (research grade); observations: 5 |
+| カワラヒワ | *Chloris sinica* | 1月, 2月, 5月, 6月, 10月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 15 |
 | ガビチョウ | *Garrulax canorus* | 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 13; GBIF occurrences: 2 |
 | キアシシギ | *Tringa brevipes* | 5月 | iNaturalist (research grade); GBIF; observations: 11; GBIF occurrences: 11 |
 | キジ | *Phasianus versicolor* | 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月 | iNaturalist (research grade); GBIF; eBird; observations: 53; GBIF occurrences: 5 |
@@ -45,14 +42,12 @@
 | クサシギ | *Tringa ochropus* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ケリ | *Vanellus cinereus* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | コガモ | *Anas crecca* | 1月, 2月, 3月, 10月 | iNaturalist (research grade); GBIF; observations: 9; GBIF occurrences: 20 |
-| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; eBird; GBIF occurrences: 8; latest: 2026-04-11 09:39; count: 1; near: 程久保橋 |
-| コゲラ | *Dendrocopos kizuki* | 3月, 11月 | iNaturalist (research grade); observations: 3 |
+| コゲラ | *Yungipicus kizuki* | 3月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 8; |
 | コサギ | *Egretta garzetta* | 5月, 7月, 8月, 9月 | iNaturalist (research grade); GBIF; eBird; observations: 6; GBIF occurrences: 10 |
 | コシアカツバメ | *Cecropis daurica* | 5月, 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | コジュケイ | *Bambusicola thoracicus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 3; latest: 2026-04-06 09:40; count: 2; near: 程久保橋 |
 | コチドリ | *Thinornis dubius* | 5月, 6月 | iNaturalist (research grade); eBird; observations: 3; latest: 2026-04-19 09:29;  |
 | ゴイサギ | *Nycticorax nycticorax* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| シジュウカラ | *Parus minor* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | シジュウカラ | *Parus cinereus* | 1月, 2月, 3月, 5月 | iNaturalist (research grade); GBIF; eBird; observations: 10; GBIF occurrences: 2 |
 | シベリアアオジ | *Emberiza spodocephala* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | シメ | *Coccothraustes coccothraustes* | 2月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 2; |
@@ -64,16 +59,13 @@
 | タゲリ | *Vanellus vanellus* | 1月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | タシギ | *Gallinago gallinago* | 1月, 3月, 4月, 11月 | iNaturalist (research grade); GBIF; observations: 7; GBIF occurrences: 7 |
 | タヒバリ | *Anthus japonicus* | 2月 | iNaturalist (research grade); observations: 1 |
-| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 38; latest: 2026-04-29 10:43; count: 4; near: 日野市 |
-| ダイサギ | *Casmerodius albus* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月 | iNaturalist (research grade); observations: 21 |
-| チュウサギ | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| チュウサギ | *Ardea intermedia* | 5月, 8月, 9月 | iNaturalist (research grade); observations: 3 |
+| ダイサギ | *Ardea alba* | 1月, 2月, 3月, 4月, 5月, 6月, 7月, 8月, 9月, 10月 | iNaturalist (research grade); GBIF; eBird; observations: 21; GBIF occurrences: 3 |
+| チュウサギ | *Egretta intermedia* | 5月, 8月, 9月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 5 |
 | チョウゲンボウ | *Falco tinnunculus* | 1月, 5月, 6月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 6 |
 | ツグミ | *Turdus eunomus* | 1月, 3月 | iNaturalist (research grade); GBIF; eBird; observations: 5; GBIF occurrences: 9; |
 | ツバメ | *Hirundo rustica* | 4月, 5月, 7月, 8月, 9月 | iNaturalist (research grade); GBIF; eBird; observations: 13; GBIF occurrences: 2 |
 | トビ | *Milvus migrans* | 3月, 5月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 9; |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; eBird; GBIF occurrences: 18; latest: 2026-04-29 09:47; count: 2; near: 日野市 |
-| ハクセキレイ | *Motacilla alba lugens* | 3月, 4月, 5月 | iNaturalist (research grade); observations: 3 |
+| ハクセキレイ | *Motacilla alba* | 3月, 4月, 5月 | iNaturalist (research grade); GBIF; eBird; observations: 3; GBIF occurrences: 18 |
 | ハシブトガラス | *Corvus macrorhynchos* | 2月, 3月 | iNaturalist (research grade); GBIF; eBird; observations: 2; GBIF occurrences: 21 |
 | ハシボソガラス | *Corvus corone* | 1月, 3月, 4月, 5月, 6月 | iNaturalist (research grade); GBIF; eBird; observations: 9; GBIF occurrences: 17 |
 | ハチジョウツグミ | *Turdus naumanni* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -89,8 +81,7 @@
 | ムナグロ | *Pluvialis fulva* | 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 2 |
 | メジロ | *Zosterops japonicus* | 1月, 11月 | iNaturalist (research grade); GBIF; eBird; observations: 9; GBIF occurrences: 17 |
 | モズ | *Lanius bucephalus* | 1月, 3月, 5月, 7月, 10月, 12月 | iNaturalist (research grade); GBIF; eBird; observations: 9; GBIF occurrences: 15 |
-| ヤマガラ | *Sittiparus varius amamii* | 5月, 10月, 12月 | iNaturalist (research grade); observations: 3 |
-| ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-11 09:39; count: 1; near: 程久保橋～高幡台団地～旧高幡台団地汚水処理場～市道11-14号 |
+| ヤマガラ | *Sittiparus varius* | 5月, 10月, 12月 | iNaturalist (research grade); eBird; observations: 3; latest: 2026-04-11 09:39;  |
 | ヨシゴイ | *Botaurus sinensis* | 9月 | iNaturalist (research grade); observations: 1 |
 | ルリビタキ | *Tarsiger cyanurus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 
@@ -130,17 +121,20 @@
 | コイ | *Cyprinus carpio* | 8月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | ナマズ | *Silurus asotus* | 2月, 5月, 9月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 2 |
 
-## 🐛 昆虫 (231)
+## 🐛 昆虫 (226)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| Belosticta funesta | *Belosticta funesta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Crocidophora butleri | *Crocidophora butleri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Ergatettix dorsifer | *Ergatettix dorsifer* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Euops splendida | *Euops splendida* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Haguro-tombo | *Atrocalopteryx atrata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Junonia orithya | *Junonia orithya* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| Potanthus flava | *Potanthus flava* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Ricania shantungensis | *Ricania shantungensis* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | Synharmonia hirayamai | *Synharmonia hirayamai* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオイラガ | *Parasa consocia* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | アオオサムシ | *Carabus insulicola* | 3月, 7月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
+| アオタテハモドキ | *Junonia orithya* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオドウガネ | *Anomala albopilosa* | 7月, 8月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | アオバハゴロモ | *Geisha distinctissima* | 7月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
 | アカアシクワガタ | *Dorcus rubrofemoratus* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
@@ -154,8 +148,7 @@
 | アワテコヌカアリ | *Tapinoma melanocephalum* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | イシガケチョウ | *Cyrestis thyodamas* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イボバッタ | *Trilophidia annulata* | 8月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
-| ウシカメムシ | *Alcimocoris japonersis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| ウシカメムシ | *Alcimocoris japonensis* | 6月, 12月 | iNaturalist (research grade); observations: 2 |
+| ウシカメムシ | *Alcimocoris japonersis* | 6月, 12月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | ウスキホシテントウ | *Oenopia hirayamai* | 11月 | iNaturalist (research grade) |
 | ウスグモスズ | *Amusurgus genji* | 9月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ウスヅマクチバ | *Dinumma deponens* | 8月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
@@ -168,8 +161,7 @@
 | エサキモンキツノカメムシ | *Sastragala esakii* | 6月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | エンマコオロギ | *Teleogryllus emma* | 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | オオイシアブ | *Laphria mitsukurii* | 5月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
-| オオカマキリ | *Tenodera sinensis* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| オオカマキリ | *Tenodera aridifolia* | 3月, 8月, 11月 | iNaturalist (research grade); observations: 3 |
+| オオカマキリ | *Tenodera sinensis* | 3月, 8月, 11月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | オオシオカラトンボ | *Orthetrum melania* | 6月, 7月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | オオシワアリ | *Tetramorium bicarinatum* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | オオスカシバ | *Cephonodes hylas* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -178,8 +170,7 @@
 | オオホシカメムシ | *Physopelta gutta* | 9月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | オオミズアオ | *Actias aliena* | 6月, 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 2 |
 | オオヤマトンボ | *Epophthalmia elegans* | 6月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| オオヨツスジハナカミキリ | *Leptura regalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| オオヨツスジハナカミキリ | *Macroleptura regalis* | 8月 | iNaturalist (research grade) |
+| オオヨツスジハナカミキリ | *Leptura regalis* | 8月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | オナガサナエ | *Melligomphus viridicostus* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | オニヤンマ | *Anotogaster sieboldii* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | オンブバッタ | *Atractomorpha lata* | 9月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 4 |
@@ -200,10 +191,9 @@
 | キタテハ | *Polygonia c-aureum* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | キバラルリクビボソハムシ | *Lema concinnipennis* | 5月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | キボシカミキリ | *Psacothea hilaris* | 7月 | iNaturalist (research grade) |
-| キマダラカミキリ | *Pseudaeolesthes chrysothrix* | 6月 | iNaturalist (research grade) |
+| キマダラカミキリ | *Aeolesthes chrysothrix* | 6月 | iNaturalist (research grade) |
 | キマダラカメムシ | *Erthesina fullo* | 6月, 7月, 10月, 12月 | iNaturalist (research grade); GBIF; observations: 4; GBIF occurrences: 2 |
-| キマダラセセリ | *Potanthus flava* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| キマダラセセリ | *Potanthus flavus* | 8月, 10月 | iNaturalist (research grade); observations: 2 |
+| キマダラセセリ | *Potanthus flavus* | 8月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | キマワリ | *Plesiophthalmus nigrocyaneus* | 7月 | iNaturalist (research grade) |
 | キモンホソバノメイガ | *Sinibotys butleri* | 6月 | iNaturalist (research grade) |
 | クサキリ | *Ruspolia lineosa* | 6月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
@@ -263,14 +253,12 @@
 | タマムシ | *Chrysochroa fulgidissima* | 6月, 8月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
 | チャバネアオカメムシ | *Plautia stali* | 3月, 5月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 1 |
 | チャバネセセリ | *Pelopidas mathias* | 9月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
-| チュウゴクアミガサハゴロモ | *Ricania shantungensis* | 通年/不明 | GBIF; GBIF occurrences: 6 |
-| チュウゴクアミガサハゴロモ | *Pochazia shantungensis* | 7月, 9月, 10月, 11月 | iNaturalist (research grade); observations: 8 |
+| チュウゴクアミガサハゴロモ | *Pochazia shantungensis* | 7月, 9月, 10月, 11月 | iNaturalist (research grade); GBIF; observations: 8; GBIF occurrences: 6 |
 | ツクツクボウシ | *Meimuna opalifera* | 9月 | iNaturalist (research grade) |
 | ツチイナゴ | *Patanga japonica* | 7月, 9月, 10月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
 | ツマグロオオヨコバイ | *Bothrogonia ferruginea* | 10月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ツマグロスケバ | *Orthopagus lunulifer* | 9月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
-| ツマグロヒョウモン | *Argynnis hyperbius* | 通年/不明 | GBIF; GBIF occurrences: 5 |
-| ツマグロヒョウモン | *Argyreus hyperbius* | 5月, 10月, 12月 | iNaturalist (research grade); observations: 6 |
+| ツマグロヒョウモン | *Argynnis hyperbius* | 5月, 10月, 12月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 5 |
 | ツマグロムネスジハネカクシ | *Hesperus tiro* | 7月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | ツマナミツマキリヨトウ | *Callopistria clava* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ツユムシ | *Phaneroptera falcata* | 7月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -289,8 +277,7 @@
 | ナミアゲハ | *Papilio xuthus* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ナミテントウ | *Harmonia axyridis* | 5月 | iNaturalist (research grade); GBIF; observations: 6; GBIF occurrences: 5 |
 | ニイニイゼミ | *Platypleura kaempferi* | 6月, 7月, 9月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
-| ニセハネナガヒシバッタ | *Ergatettix dorsifer* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ニセハネナガヒシバッタ | *Ergatettix dorsiferus* | 5月 | iNaturalist (research grade) |
+| ニセハネナガヒシバッタ | *Ergatettix dorsiferus* | 5月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ニッポンヒゲナガハナバチ | *Eucera nipponensis* | 5月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ニトベエダシャク | *Wilemania nitobei* | 5月 | iNaturalist (research grade) |
 | ニレハムシ | *Xanthogaleruca maculicollis* | 7月 | iNaturalist (research grade) |
@@ -299,7 +286,7 @@
 | ノコギリクワガタ | *Prosopocoilus inclinatus* | 6月, 7月, 8月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 2 |
 | ノコメセダカヨトウ | *Orthogonia sera* | 6月 | iNaturalist (research grade) |
 | ノコメトガリキリガ | *Telorta divergens* | 11月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
-| ハグロトンボ | *Matrona basilaris japonica* | 6月 | iNaturalist (research grade) |
+| ハグロトンボ | *Atrocalopteryx atrata* | 6月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ハサミツノカメムシ | *Acanthosoma labiduroides* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ハヤシクロヤマアリ | *Formica hayashi* | 3月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ハラグロオオテントウ | *Callicaria superba* | 4月, 5月 | iNaturalist (research grade); GBIF; observations: 3; GBIF occurrences: 3 |
@@ -330,8 +317,7 @@
 | ホシヒメホウジャク | *Neogurelca himachala* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ホシホウジャク | *Macroglossum pyrrhosticta* | 8月, 11月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | ホソハリカメムシ | *Cletus punctiger* | 7月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
-| ホソバハガタヨトウ | *Belosticta funesta* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ホソバハガタヨトウ | *Meganephria funesta* | 12月 | iNaturalist (research grade) |
+| ホソバハガタヨトウ | *Meganephria funesta* | 12月 | iNaturalist (research grade); GBIF; GBIF occurrences: 1 |
 | ホソヒラタアブ | *Episyrphus balteatus* | 5月, 10月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 2 |
 | ホソミイトトンボ | *Aciagrion migratum* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ホリカワクシヒゲガガンボ | *Pselliophora bifascipennis* | 6月 | iNaturalist (research grade) |
@@ -416,13 +402,9 @@
 |---|---|---|---|
 | Bothriospermum zeylanicum | *Bothriospermum zeylanicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Broussonetia monoica | *Broussonetia monoica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| Buta-na | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Cenchrus alopecuroides | *Cenchrus alopecuroides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Delphinium anthriscifolium | *Delphinium anthriscifolium* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Humulus scandens | *Humulus scandens* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Kōzori-na | *Picris japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Neillia incisa | *Neillia incisa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Oni-tabirako | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Orlaya grandiflora | *Orlaya grandiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | Oxalis debilis | *Oxalis debilis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Oxalis dillenii | *Oxalis dillenii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -430,7 +412,6 @@
 | Saussurea lyrata | *Saussurea lyrata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Solidago altissima | *Solidago altissima* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | Staphylea japonica | *Staphylea japonica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| Yahazu-endo | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アオキ | *Aucuba japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカシデ | *Carpinus laxiflora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アカメガシワ | *Mallotus japonicus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
@@ -454,6 +435,7 @@
 | オオバギボウシ | *Hosta sieboldiana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オオバコ | *Plantago asiatica* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オカトラノオ | *Lysimachia clethroides* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| オニタビラコ | *Youngia japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オニドコロ | *Dioscorea tokoro* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | オランダミミナグサ | *Cerastium glomeratum* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | カキノキ | *Diospyros kaki* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -472,6 +454,8 @@
 | クサギ | *Clerodendrum trichotomum* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | クズ (広義) | *Pueraria montana* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | クヌギ | *Quercus acutissima* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コウゾリナ | *Picris japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| コゴメウツギ | *Neillia incisa* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コナラ | *Quercus serrata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コバギボウシ | *Hosta sieboldii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コブシ | *Magnolia kobus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -519,6 +503,7 @@
 | フキ | *Petasites japonicus* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | フタリシズカ | *Chloranthus serratus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | フユイチゴ | *Rubus buergeri* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ブタナ | *Hypochaeris radicata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ヘクソカズラ | *Paederia foetida* | 通年/不明 | GBIF; GBIF occurrences: 3 |
 | ヘラオオバコ | *Plantago lanceolata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ベニシダ | *Dryopteris erythrosora* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -540,6 +525,7 @@
 | モミジイチゴ | *Rubus palmatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤセウツボ | *Orobanche minor* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ヤツデ | *Fatsia japonica* | 通年/不明 | GBIF; GBIF occurrences: 4 |
+| ヤハズエンドウ | *Vicia sativa* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | ヤブカラシ | *Causonis japonica* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | ヤブヘビイチゴ | *Potentilla indica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤブマメ | *Amphicarpaea edgeworthii* | 通年/不明 | GBIF; GBIF occurrences: 4 |
@@ -550,12 +536,3 @@
 | ワスレグサ | *Hemerocallis fulva* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ワルナスビ | *Solanum carolinense* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | 二輪草 | *Anemonastrum flaccidum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-
-## ❓ 未分類 (4)
-
-| 名前 | 学名 | 月 | 備考 |
-|---|---|---|---|
-| Lobella sauteri | *Lobella sauteri* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| Scolopendra mutilans | *Scolopendra mutilans* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| オオゲジ | *Thereuopoda clunifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ミュータンス菌 | *Streptococcus mutans* | 通年/不明 | GBIF; GBIF occurrences: 2 |

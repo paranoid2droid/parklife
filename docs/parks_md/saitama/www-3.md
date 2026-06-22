@@ -2,7 +2,7 @@
 
 **所在**: saitama / - | **位置**: 36.1261, 139.4788 | **公式**: <http://www.sakitama-muse.spec.ed.jp/>
 
-**観察記録**: 69 件 / 4 カテゴリ
+**観察記録**: 68 件 / 4 カテゴリ
 
 ## 🦜 鳥類 (54)
 
@@ -69,12 +69,11 @@
 |---|---|---|---|
 | ミナミメダカ | *Oryzias latipes* | 9月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 
-## 🐛 昆虫 (5)
+## 🐛 昆虫 (4)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
-| オオヒラタシデムシ | *Necrophila japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| オオヒラタシデムシ | *Eusilpha japonica* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| オオヒラタシデムシ | *Necrophila japonica* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ショウジョウトンボ | *Crocothemis servilia* | 7月 | iNaturalist (research grade); observations: 1 |
 | ハラビロカマキリ | *Hierodula patellifera* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ヨモギハムシ | *Chrysolina aurichalcea* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -85,10 +84,10 @@
 |---|---|---|---|
 | Fimbristylis quinquangularis | *Fimbristylis quinquangularis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオスゲ | *Carex breviculmis* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| アゼスゲ（Aze-suge） | *Carex thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| アゼナルコ（Aze-naruko） | *Carex dimorpholepis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| アゼスゲ | *Carex thunbergii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| アゼナルコ | *Carex dimorpholepis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | オオイヌノフグリ | *Veronica persica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| カサスゲ（Kasa-suge） | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| カサスゲ | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | コゴメガヤツリ | *Cyperus iria* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | テンツキ | *Fimbristylis dichotoma* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヒナガヤツリ | *Cyperus flaccidus* | 通年/不明 | GBIF; GBIF occurrences: 1 |

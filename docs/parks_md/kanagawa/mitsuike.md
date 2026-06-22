@@ -2,9 +2,9 @@
 
 **所在**: kanagawa / - | **位置**: 35.5232, 139.6604 | **公式**: <https://www.kanagawa-park.or.jp/mitsuike/>
 
-**観察記録**: 175 件 / 9 カテゴリ
+**観察記録**: 173 件 / 9 カテゴリ
 
-## 🦜 鳥類 (65)
+## 🦜 鳥類 (64)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -16,8 +16,7 @@
 | アカゲラ | *Dendrocopos major* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イソヒヨドリ | *Monticola solitarius* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | イワツバメ | *Delichon dasypus* | 通年/不明 | GBIF; GBIF occurrences: 3 |
-| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 23; latest: 2026-04-26 09:29; count: 5; near: 横浜市 |
-| ウグイス | *Cettia diphone* | 2月 | iNaturalist (research grade); observations: 1 |
+| ウグイス | *Horornis diphone* | 2月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 23 |
 | エゾビタキ | *Muscicapa griseisticta* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | エナガ | *Aegithalos caudatus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 27; latest: 2026-04-26 09:29; count: 2; near: 横浜市 |
 | オオバン | *Fulica atra* | 2月, 3月 | iNaturalist (research grade); GBIF; observations: 2; GBIF occurrences: 61 |
@@ -67,7 +66,7 @@
 | ミサゴ | *Pandion haliaetus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ムクドリ | *Spodiopsar cineraceus* | 通年/不明 | GBIF; GBIF occurrences: 24 |
 | メジロ | *Zosterops japonicus* | 2月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 62 |
-| メダイチドリ（広義） | *Anarhynchus mongolus* | 5月 | iNaturalist (research grade); observations: 1 |
+| メダイチドリ | *Anarhynchus mongolus* | 5月 | iNaturalist (research grade); observations: 1 |
 | モズ | *Lanius bucephalus* | 通年/不明 | GBIF; GBIF occurrences: 10 |
 | ユリカモメ | *Chroicocephalus ridibundus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 10 |
 | ヨシガモ | *Mareca falcata* | 11月 | iNaturalist (research grade); observations: 1 |
@@ -90,7 +89,7 @@
 |---|---|---|---|
 | ウシガエル | *Lithobates catesbeianus* | 6月 | iNaturalist (research grade); observations: 1 |
 
-## 🐛 昆虫 (54)
+## 🐛 昆虫 (53)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -103,8 +102,7 @@
 | イチモンジセセリ | *Parnara guttata* | 8月 | iNaturalist (research grade); observations: 2 |
 | イボバッタ | *Trilophidia annulata* | 9月 | iNaturalist (research grade); observations: 1 |
 | ウラギンシジミ | *Curetis acuta* | 11月 | iNaturalist (research grade); observations: 1 |
-| オオカマキリ | *Tenodera sinensis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| オオカマキリ | *Tenodera aridifolia* | 8月 | iNaturalist (research grade); observations: 1 |
+| オオカマキリ | *Tenodera sinensis* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | オニヤンマ | *Anotogaster sieboldii* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | オンブバッタ | *Atractomorpha lata* | 8月, 10月 | iNaturalist (research grade); observations: 2 |
 | カブトムシ | *Trypoxylus dichotomus* | 8月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -187,9 +185,3 @@
 | ヤブヘビイチゴ | *Potentilla indica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ヤマブキ | *Kerria japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ユウゲショウ | *Oenothera rosea* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-
-## ❓ 未分類 (1)
-
-| 名前 | 学名 | 月 | 備考 |
-|---|---|---|---|
-| オオゲジ | *Thereuopoda clunifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |

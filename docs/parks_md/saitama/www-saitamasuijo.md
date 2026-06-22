@@ -2,15 +2,14 @@
 
 **所在**: saitama / - | **位置**: 35.9693, 139.6082 | **公式**: <http://www.parks.or.jp/saitamasuijo/>
 
-**観察記録**: 68 件 / 5 カテゴリ
+**観察記録**: 67 件 / 5 カテゴリ
 
-## 🦜 鳥類 (29)
+## 🦜 鳥類 (26)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | アオサギ | *Ardea cinerea* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-05 07:19; count: 2; near: 上尾運動 |
-| ウグイス | *Horornis diphone* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-05 07:19; count: 1; near: 上尾運動 |
-| ウグイス | *Cettia diphone* | 2月 | iNaturalist (research grade); observations: 1 |
+| ウグイス | *Horornis diphone* | 2月 | iNaturalist (research grade); GBIF; eBird; observations: 1; GBIF occurrences: 1; |
 | エナガ | *Aegithalos caudatus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 4; near: 上尾運動公園; eBird code: lottit1 |
 | オナガ | *Cyanopica cyanus* | 通年/不明 | eBird; latest: 2026-04-05 08:20; count: 1; near: 上尾運動公園; eBird code: azwmag2 |
 | カルガモ | *Anas poecilorhyncha* | 通年/不明 | GBIF; GBIF occurrences: 4 |
@@ -22,13 +21,11 @@
 | シジュウカラ | *Parus cinereus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 16; near: 上尾運動公園; eBird code: cintit13 |
 | シメ | *Coccothraustes coccothraustes* | 3月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ジョウビタキ | *Phoenicurus auroreus* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
-| ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 2 |
-| ダイサギ | *Casmerodius albus* | 10月 | iNaturalist (research grade); observations: 1 |
+| ダイサギ | *Ardea alba* | 10月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 2 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: dusthr2 |
 | ツバメ | *Hirundo rustica* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: barswa |
 | ツミ | *Tachyspiza gularis* | 通年/不明 | eBird; latest: 2026-04-05 08:20; count: 2; near: 上尾運動公園; eBird code: japspa1 |
-| ハクセキレイ | *Motacilla alba* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| ハクセキレイ | *Motacilla alba lugens* | 2月 | iNaturalist (research grade); observations: 1 |
+| ハクセキレイ | *Motacilla alba* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ハシブトガラス | *Corvus macrorhynchos* | 通年/不明 | GBIF; eBird; GBIF occurrences: 1; latest: 2026-04-05 07:19; count: 4; near: 上尾運動 |
 | ハシボソガラス | *Corvus corone* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 1; near: 上尾運動公園; eBird code: carcro1 |
 | ヒガラ | *Periparus ater* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 4; near: 上尾運動公園; eBird code: coatit2 |
@@ -38,13 +35,15 @@
 | メジロ | *Zosterops japonicus* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 12; near: 上尾運動公園; eBird code: warwhe1 |
 | ヤマガラ | *Sittiparus varius* | 通年/不明 | eBird; latest: 2026-04-05 07:19; count: 5; near: 上尾運動公園; eBird code: vartit1 |
 
-## 🐛 昆虫 (32)
+## 🐛 昆虫 (34)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
+| Daimio tethys | *Daimio tethys* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| Parnara guttatus | *Parnara guttatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオスジアゲハ | *Graphium sarpedon* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | アカシジミ | *Japonica lutea* | 通年/不明 | GBIF; GBIF occurrences: 6 |
-| イチモンジセセリ | *Parnara guttatus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| イチモンジセセリ | *Parnara guttata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ウラギンシジミ | *Curetis acuta* | 通年/不明 | GBIF; GBIF occurrences: 4 |
 | ウラナミシジミ | *Lampides boeticus* | 通年/不明 | GBIF; GBIF occurrences: 5 |
 | オオミズアオ | *Actias aliena* | 4月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
@@ -58,7 +57,7 @@
 | シマサシガメ | *Sphedanolestes impressicollis* | 5月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ジュウジナガカメムシ | *Tropidothorax cruciger* | 12月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | スジグロシロチョウ | *Pieris melete* | 通年/不明 | GBIF; GBIF occurrences: 8 |
-| ダイミョウセセリ | *Daimio tethys* | 通年/不明 | GBIF; GBIF occurrences: 2 |
+| ダイミョウセセリ | *Tagiades tethys* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | チョウ | *Papilio maackii* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ツマキチョウ | *Anthocharis scolymus* | 通年/不明 | GBIF; GBIF occurrences: 6 |
 | トラフシジミ | *Rapala arata* | 通年/不明 | GBIF; GBIF occurrences: 1 |

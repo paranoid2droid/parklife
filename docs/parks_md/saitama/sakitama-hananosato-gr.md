@@ -2,7 +2,7 @@
 
 **所在**: saitama / - | **位置**: 36.0987, 139.4809 | **公式**: <https://sakitama-hananosato-gr.gyoda-center.jp>
 
-**観察記録**: 28 件 / 4 カテゴリ
+**観察記録**: 28 件 / 5 カテゴリ
 
 ## 🦜 鳥類 (12)
 
@@ -37,17 +37,16 @@
 | Fimbristylis quinquangularis | *Fimbristylis quinquangularis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 | Schoenoplectiella juncoides | *Schoenoplectiella juncoides* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | アオスゲ | *Carex breviculmis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| カサスゲ（Kasa-suge） | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| カサスゲ | *Carex dispalata* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カジノキ | *Broussonetia papyrifera* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | カタクリ | *Erythronium japonicum* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | コゴメガヤツリ | *Cyperus iria* | 通年/不明 | GBIF; GBIF occurrences: 4 |
-| シラスゲ（Shira-suge） | *Carex doniana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| シラスゲ | *Carex doniana* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | タマガヤツリ | *Cyperus difformis* | 通年/不明 | GBIF; GBIF occurrences: 2 |
 
-## ❓ 未分類 (3)
+## ❓ 未分類 (2)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Polynucleobacter asymbioticus | *Polynucleobacter asymbioticus* | 通年/不明 | GBIF; GBIF occurrences: 8 |
 | Polynucleobacter cosmopolitanus | *Polynucleobacter cosmopolitanus* | 通年/不明 | GBIF; GBIF occurrences: 12 |
-| ナガレモヘラムシ | *Idotea metallica* | 通年/不明 | GBIF; GBIF occurrences: 1 |

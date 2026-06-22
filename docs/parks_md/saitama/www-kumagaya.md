@@ -2,9 +2,9 @@
 
 **所在**: saitama / - | **位置**: 36.1660, 139.4083 | **公式**: <http://www.parks.or.jp/kumagaya/>
 
-**観察記録**: 82 件 / 4 カテゴリ
+**観察記録**: 81 件 / 4 カテゴリ
 
-## 🦜 鳥類 (53)
+## 🦜 鳥類 (52)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
@@ -40,8 +40,7 @@
 | セグロセキレイ | *Motacilla grandis* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 3 |
 | タシギ | *Gallinago gallinago* | 2月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ダイサギ | *Ardea alba* | 通年/不明 | GBIF; GBIF occurrences: 12 |
-| チュウサギ | *Egretta intermedia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| チュウサギ | *Ardea intermedia* | 1月 | iNaturalist (research grade); observations: 1 |
+| チュウサギ | *Egretta intermedia* | 1月 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ツグミ | *Turdus eunomus* | 通年/不明 | GBIF; eBird; GBIF occurrences: 4; latest: 2026-04-06 10:30; count: 1; near: 熊谷スポ |
 | ツバメ | *Hirundo rustica* | 通年/不明 | GBIF; eBird; GBIF occurrences: 6; latest: 2026-04-06 10:30; count: 3; near: 熊谷スポ |
 | トビ | *Milvus migrans* | 通年/不明 | GBIF; GBIF occurrences: 2 |

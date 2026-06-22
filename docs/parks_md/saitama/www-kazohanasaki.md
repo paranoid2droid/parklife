@@ -1,18 +1,17 @@
 # 加須はなさき水上公園
 
-**所在**: saitama / - | **位置**: 36.1308, 139.5944 | **公式**: <https://www.parks.or.jp/kazohanasaki/>
+**所在**: saitama / - | **公式**: <https://www.parks.or.jp/kazohanasaki/>
 
-**観察記録**: 33 件 / 4 カテゴリ
+**観察記録**: 32 件 / 4 カテゴリ
 
-## 🦜 鳥類 (15)
+## 🦜 鳥類 (14)
 
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | カワウ | *Phalacrocorax carbo* | 2月 | iNaturalist (research grade); observations: 1 |
 | カワラヒワ | *Chloris sinica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | キジバト | *Streptopelia orientalis* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コゲラ | *Yungipicus kizuki* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| コゲラ | *Dendrocopos kizuki* | 通年/不明 | iNaturalist (research grade); observations: 1 |
+| コゲラ | *Yungipicus kizuki* | 通年/不明 | iNaturalist (research grade); GBIF; observations: 1; GBIF occurrences: 1 |
 | ゴイサギ | *Nycticorax nycticorax* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | シジュウカラ | *Parus cinereus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ジョウビタキ | *Phoenicurus auroreus* | 通年/不明 | GBIF; GBIF occurrences: 1 |
@@ -47,10 +46,10 @@
 | 名前 | 学名 | 月 | 備考 |
 |---|---|---|---|
 | Cuscuta japonica | *Cuscuta japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
-| Salix subfragilis | *Salix subfragilis* | 通年/不明 | GBIF; GBIF occurrences: 7 |
-| サクラ | *—* | 6月, 7月, 8月 |  |
 | サナエタデ | *Persicaria lapathifolia* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| シダレヤナギ | *Salix subfragilis* | 通年/不明 | GBIF; GBIF occurrences: 7 |
 | シロバナサクラタデ | *Persicaria japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
+| ソメイヨシノ | *Cerasus x yedoensis* | 6月, 7月, 8月 |  |
 | ナンテン | *Nandina domestica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | ハンノキ | *Alnus japonica* | 通年/不明 | GBIF; GBIF occurrences: 1 |
 | フウトウカズラ | *Piper kadsura* | 通年/不明 | GBIF; GBIF occurrences: 1 |
