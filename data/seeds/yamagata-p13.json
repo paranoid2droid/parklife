@@ -1,0 +1,406 @@
+{
+  "prefecture": "yamagata",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-570fa3e7f9",
+      "name_ja": "山形県総合運動公園",
+      "municipality": "天童市",
+      "operator": "山形県",
+      "lat": 38.336915,
+      "lon": 140.377975,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 56.1
+    },
+    {
+      "slug": "p13-0e1f341d46",
+      "name_ja": "健康の森公園",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.298969,
+      "lon": 140.345822,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-d48514b8e6",
+      "name_ja": "悠創の丘",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.215327,
+      "lon": 140.349008,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 31.5
+    },
+    {
+      "slug": "p13-9ea567726c",
+      "name_ja": "最上川ふるさと総合公園",
+      "municipality": "寒河江市",
+      "operator": "山形県",
+      "lat": 38.364801,
+      "lon": 140.263861,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.9
+    },
+    {
+      "slug": "p13-aca7c760f5",
+      "name_ja": "最上中央公園",
+      "municipality": "新庄市",
+      "operator": "山形県",
+      "lat": 38.760346,
+      "lon": 140.308536,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-bc2eb1c647",
+      "name_ja": "霞城公園",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.255244,
+      "lon": 140.327952,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 35.9
+    },
+    {
+      "slug": "p13-7dd515827d",
+      "name_ja": "西公園",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.244562,
+      "lon": 140.282267,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.6
+    },
+    {
+      "slug": "p13-48e8976bcf",
+      "name_ja": "鈴川公園",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.262759,
+      "lon": 140.366314,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 49.8
+    },
+    {
+      "slug": "p13-172ce96ed1",
+      "name_ja": "馬見ヶ崎河川公園",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.26305,
+      "lon": 140.348496,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 39.3
+    },
+    {
+      "slug": "p13-6419ea51b0",
+      "name_ja": "松川公園",
+      "municipality": "米沢市",
+      "operator": "山形県",
+      "lat": 37.896141,
+      "lon": 140.12404,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-ca457652fe",
+      "name_ja": "米沢総合公園",
+      "municipality": "米沢市",
+      "operator": "山形県",
+      "lat": 37.926671,
+      "lon": 140.10588,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-767eaed4f2",
+      "name_ja": "御成山公園",
+      "municipality": "米沢市",
+      "operator": "山形県",
+      "lat": 37.90366,
+      "lon": 140.075459,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-362f3d3c59",
+      "name_ja": "最上川上流河川緑地",
+      "municipality": "米沢市",
+      "operator": "山形県",
+      "lat": 37.910064,
+      "lon": 140.11932,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 19.4
+    },
+    {
+      "slug": "p13-0d07e8d3cd",
+      "name_ja": "鶴岡公園",
+      "municipality": "鶴岡市",
+      "operator": "山形県",
+      "lat": 38.728504,
+      "lon": 139.824472,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-ea1f881193",
+      "name_ja": "大山公園",
+      "municipality": "鶴岡市",
+      "operator": "山形県",
+      "lat": 38.754841,
+      "lon": 139.762803,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-9ded23efcb",
+      "name_ja": "赤川河川緑地",
+      "municipality": "鶴岡市",
+      "operator": "山形県",
+      "lat": 38.728028,
+      "lon": 139.847324,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 40.8
+    },
+    {
+      "slug": "p13-196b6a5081",
+      "name_ja": "光ケ丘公園",
+      "municipality": "酒田市",
+      "operator": "山形県",
+      "lat": 38.933086,
+      "lon": 139.828737,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 44.0
+    },
+    {
+      "slug": "p13-dc15571ca8",
+      "name_ja": "最上川下流緑地",
+      "municipality": "酒田市",
+      "operator": "山形県",
+      "lat": 38.898507,
+      "lon": 139.829548,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 62.7
+    },
+    {
+      "slug": "p13-673fd0015a",
+      "name_ja": "飯森山公園",
+      "municipality": "酒田市",
+      "operator": "山形県",
+      "lat": 38.89153,
+      "lon": 139.822936,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.8
+    },
+    {
+      "slug": "p13-95bf8435cc",
+      "name_ja": "東山公園",
+      "municipality": "新庄市",
+      "operator": "山形県",
+      "lat": 38.75957,
+      "lon": 140.317015,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.1
+    },
+    {
+      "slug": "p13-1913ee360e",
+      "name_ja": "寒河江公園",
+      "municipality": "寒河江市",
+      "operator": "山形県",
+      "lat": 38.384325,
+      "lon": 140.26993,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.1
+    },
+    {
+      "slug": "p13-adc42c7c2b",
+      "name_ja": "チェリーランド河川敷公園",
+      "municipality": "寒河江市",
+      "operator": "山形県",
+      "lat": 38.398786,
+      "lon": 140.268425,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-26cd999225",
+      "name_ja": "東沢公園",
+      "municipality": "村山市",
+      "operator": "山形県",
+      "lat": 38.485175,
+      "lon": 140.400273,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 80.9
+    },
+    {
+      "slug": "p13-0c513c3877",
+      "name_ja": "あやめ公園",
+      "municipality": "長井市",
+      "operator": "山形県",
+      "lat": 38.116096,
+      "lon": 140.032743,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-8842c61e02",
+      "name_ja": "大森山公園",
+      "municipality": "東根市",
+      "operator": "山形県",
+      "lat": 38.422801,
+      "lon": 140.40469,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-2a9efeac7d",
+      "name_ja": "中央花公園",
+      "municipality": "南陽市",
+      "operator": "山形県",
+      "lat": 38.062394,
+      "lon": 140.151132,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-faff330dbd",
+      "name_ja": "白竜湖公園",
+      "municipality": "南陽市",
+      "operator": "山形県",
+      "lat": 38.055658,
+      "lon": 140.177932,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-3dc6095867",
+      "name_ja": "双松公園",
+      "municipality": "南陽市",
+      "operator": "山形県",
+      "lat": 38.079988,
+      "lon": 140.138628,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-9d10fccfa0",
+      "name_ja": "最上川中山緑地",
+      "municipality": "東村山郡中山町",
+      "operator": "山形県",
+      "lat": 38.341335,
+      "lon": 140.283251,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-f4fe626ab4",
+      "name_ja": "最上川グリーンパーク",
+      "municipality": "西村山郡河北町",
+      "operator": "山形県",
+      "lat": 38.411791,
+      "lon": 140.329989,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 34.5
+    },
+    {
+      "slug": "p13-c63f493288",
+      "name_ja": "下河原公園",
+      "municipality": "北村山郡大石田町",
+      "operator": "山形県",
+      "lat": 38.587743,
+      "lon": 140.365711,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-5fcd90ce50",
+      "name_ja": "最上西公園",
+      "municipality": "最上郡最上町",
+      "operator": "山形県",
+      "lat": 38.753075,
+      "lon": 140.467606,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-7359fa39ec",
+      "name_ja": "真室川公園",
+      "municipality": "最上郡真室川町",
+      "operator": "山形県",
+      "lat": 38.863126,
+      "lon": 140.2462,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.8
+    },
+    {
+      "slug": "p13-17ce0f1c10",
+      "name_ja": "中央公園",
+      "municipality": "東置賜郡高畠町",
+      "operator": "山形県",
+      "lat": 37.997819,
+      "lon": 140.205696,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-245454d6b1",
+      "name_ja": "まほろばの緑道",
+      "municipality": "東置賜郡高畠町",
+      "operator": "山形県",
+      "lat": 38.002979,
+      "lon": 140.160209,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-31829f163b",
+      "name_ja": "置賜公園",
+      "municipality": "東置賜郡川西町",
+      "operator": "山形県",
+      "lat": 38.003308,
+      "lon": 140.034464,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-3f3933e336",
+      "name_ja": "川西ダリヤ園",
+      "municipality": "東置賜郡川西町",
+      "operator": "山形県",
+      "lat": 38.001462,
+      "lon": 140.031938,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-3768195d89",
+      "name_ja": "神明山公園",
+      "municipality": "西置賜郡小国町",
+      "operator": "山形県",
+      "lat": 38.05398,
+      "lon": 139.742391,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-53ec7a053e",
+      "name_ja": "中丸公園",
+      "municipality": "西置賜郡白鷹町",
+      "operator": "山形県",
+      "lat": 38.188411,
+      "lon": 140.068367,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-5afd656905",
+      "name_ja": "遊ぽっと",
+      "municipality": "飽海郡遊佐町",
+      "operator": "山形県",
+      "lat": 39.059158,
+      "lon": 139.879253,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.3
+    }
+  ]
+}

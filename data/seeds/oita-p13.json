@@ -1,0 +1,326 @@
+{
+  "prefecture": "oita",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9723123ddd",
+      "name_ja": "高尾山自然公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.211019,
+      "lon": 131.657803,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 60.1
+    },
+    {
+      "slug": "p13-fb53736518",
+      "name_ja": "ハーモニーパーク",
+      "municipality": "速見郡日出町",
+      "operator": "大分県",
+      "lat": 33.401083,
+      "lon": 131.544632,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 31.5
+    },
+    {
+      "slug": "p13-df09a2df5c",
+      "name_ja": "大分スポーツ公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.199389,
+      "lon": 131.657347,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 107.8
+    },
+    {
+      "slug": "p13-e45b8828c1",
+      "name_ja": "明野緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.2251,
+      "lon": 131.656593,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-3a43df3ff3",
+      "name_ja": "一の谷緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.184542,
+      "lon": 131.657136,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-89118e71e0",
+      "name_ja": "上野丘子どものもり公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.224776,
+      "lon": 131.600827,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-45206115c1",
+      "name_ja": "梅が丘緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.118837,
+      "lon": 131.682556,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-e2dd23a7c6",
+      "name_ja": "北鼻緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.18915,
+      "lon": 131.663394,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-fb99b03cb1",
+      "name_ja": "笹尾池緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.19201,
+      "lon": 131.657458,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-fd5e8fcb5a",
+      "name_ja": "佐野植物公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.191592,
+      "lon": 131.725733,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-841eb1f431",
+      "name_ja": "松栄山公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.234131,
+      "lon": 131.6446,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-6fff7cafcb",
+      "name_ja": "田ノ浦ビーチ",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.256084,
+      "lon": 131.547017,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.4
+    },
+    {
+      "slug": "p13-f60f298ba3",
+      "name_ja": "七瀬川自然公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.182287,
+      "lon": 131.573616,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-ed78565c9c",
+      "name_ja": "平和市民公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.244415,
+      "lon": 131.636253,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-553d3ff759",
+      "name_ja": "南大分スポーツパーク",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.208864,
+      "lon": 131.602606,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-5c0be569c8",
+      "name_ja": "流通団地北緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.209237,
+      "lon": 131.721711,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-5a5e30d583",
+      "name_ja": "流通団地東緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.200339,
+      "lon": 131.721524,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-7e2df20d05",
+      "name_ja": "流通団地南緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.202511,
+      "lon": 131.714922,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-e99a1d140b",
+      "name_ja": "別府公園",
+      "municipality": "別府市",
+      "operator": "大分県",
+      "lat": 33.281839,
+      "lon": 131.490993,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.3
+    },
+    {
+      "slug": "p13-6b04a5c04d",
+      "name_ja": "南立石公園",
+      "municipality": "別府市",
+      "operator": "大分県",
+      "lat": 33.291458,
+      "lon": 131.475072,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-d653d5d393",
+      "name_ja": "鉄輪地獄地帯公園",
+      "municipality": "別府市",
+      "operator": "大分県",
+      "lat": 33.315502,
+      "lon": 131.471457,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-ae6455e1d0",
+      "name_ja": "米山公園",
+      "municipality": "中津市",
+      "operator": "大分県",
+      "lat": 33.609054,
+      "lon": 131.210707,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-848e866168",
+      "name_ja": "大原公園",
+      "municipality": "日田市",
+      "operator": "大分県",
+      "lat": 33.319184,
+      "lon": 130.949848,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.6
+    },
+    {
+      "slug": "p13-d6017bba69",
+      "name_ja": "萩尾公園",
+      "municipality": "日田市",
+      "operator": "大分県",
+      "lat": 33.33079,
+      "lon": 130.887864,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-3b967c6f4f",
+      "name_ja": "濃霞山公園",
+      "municipality": "佐伯市",
+      "operator": "大分県",
+      "lat": 32.972675,
+      "lon": 131.908775,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-2fecacc5bf",
+      "name_ja": "城山歴史公園",
+      "municipality": "佐伯市",
+      "operator": "大分県",
+      "lat": 32.960144,
+      "lon": 131.88965,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 44.4
+    },
+    {
+      "slug": "p13-4e90ad1145",
+      "name_ja": "臼杵公園",
+      "municipality": "臼杵市",
+      "operator": "大分県",
+      "lat": 33.121823,
+      "lon": 131.803874,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-393e61b1fa",
+      "name_ja": "臼杵市総合公園",
+      "municipality": "臼杵市",
+      "operator": "大分県",
+      "lat": 33.135292,
+      "lon": 131.796312,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.3
+    },
+    {
+      "slug": "p13-b97f9b2746",
+      "name_ja": "杵築市総合運動公園",
+      "municipality": "杵築市",
+      "operator": "大分県",
+      "lat": 33.417535,
+      "lon": 131.600057,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-b61eaf0c67",
+      "name_ja": "奈多公園",
+      "municipality": "杵築市",
+      "operator": "大分県",
+      "lat": 33.426472,
+      "lon": 131.705223,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-559c6a6d8f",
+      "name_ja": "大原総合公園",
+      "municipality": "豊後大野市",
+      "operator": "大分県",
+      "lat": 32.989239,
+      "lon": 131.586313,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-ea1df188d4",
+      "name_ja": "糸ヶ浜海浜公園",
+      "municipality": "速見郡日出町",
+      "operator": "大分県",
+      "lat": 33.36401,
+      "lon": 131.595123,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    }
+  ]
+}

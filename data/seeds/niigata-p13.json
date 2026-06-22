@@ -1,0 +1,576 @@
+{
+  "prefecture": "niigata",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-f59aa456ea",
+      "name_ja": "鳥屋野潟公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.883876,
+      "lon": 139.060221,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 80.1
+    },
+    {
+      "slug": "p13-0af1f9de4e",
+      "name_ja": "植物園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.760348,
+      "lon": 139.112543,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-b6314fe1fb",
+      "name_ja": "紫雲寺記念公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 38.027433,
+      "lon": 139.302411,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 72.8
+    },
+    {
+      "slug": "p13-72297184ee",
+      "name_ja": "大潟水と森公園",
+      "municipality": "上越市",
+      "operator": "新潟県",
+      "lat": 37.231362,
+      "lon": 138.349591,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 36.5
+    },
+    {
+      "slug": "p13-8bddef1485",
+      "name_ja": "阿賀野川ふれあい公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.931645,
+      "lon": 139.150546,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-d09e6f53ab",
+      "name_ja": "阿賀野川公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.905819,
+      "lon": 139.154064,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-5327f30b1d",
+      "name_ja": "水の公園福島潟",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.913699,
+      "lon": 139.236434,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.0
+    },
+    {
+      "slug": "p13-10279b2f8a",
+      "name_ja": "阿賀野川河川公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.91552,
+      "lon": 139.14169,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.1
+    },
+    {
+      "slug": "p13-85fe46f284",
+      "name_ja": "白根総合公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.759163,
+      "lon": 139.025515,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-298fa7753b",
+      "name_ja": "上堰潟公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.789253,
+      "lon": 138.865127,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.1
+    },
+    {
+      "slug": "p13-1fa170ecb2",
+      "name_ja": "秋葉公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.783053,
+      "lon": 139.137808,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 53.5
+    },
+    {
+      "slug": "p13-981bb838ca",
+      "name_ja": "花と遺跡のふるさと公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.762816,
+      "lon": 139.11479,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.4
+    },
+    {
+      "slug": "p13-2657a1550e",
+      "name_ja": "西海岸公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.918827,
+      "lon": 139.019992,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 53.9
+    },
+    {
+      "slug": "p13-2234cc95bb",
+      "name_ja": "信濃川やすらぎ堤緑地",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.911671,
+      "lon": 139.039465,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-25033af22a",
+      "name_ja": "佐潟公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.8162,
+      "lon": 138.878812,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 75.8
+    },
+    {
+      "slug": "p13-6f74faaa3f",
+      "name_ja": "悠久山公園",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.431414,
+      "lon": 138.880627,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 35.8
+    },
+    {
+      "slug": "p13-317c805acd",
+      "name_ja": "長岡ニュータウン公園",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.448357,
+      "lon": 138.748617,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.6
+    },
+    {
+      "slug": "p13-31f2bb2d77",
+      "name_ja": "長岡墓地公園",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.423159,
+      "lon": 138.873251,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-e5575df2ce",
+      "name_ja": "千秋が原ふるさとの森",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.463631,
+      "lon": 138.829487,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-a23e5fcc9a",
+      "name_ja": "越路河川公園",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.389482,
+      "lon": 138.806846,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-80163e651a",
+      "name_ja": "与板河川緑地たちばな公園",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.544963,
+      "lon": 138.814581,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-4b11618db7",
+      "name_ja": "川口運動公園",
+      "municipality": "長岡市",
+      "operator": "新潟県",
+      "lat": 37.271323,
+      "lon": 138.870926,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.9
+    },
+    {
+      "slug": "p13-bafd750044",
+      "name_ja": "大崎山公園",
+      "municipality": "三条市",
+      "operator": "新潟県",
+      "lat": 37.620136,
+      "lon": 139.002863,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.1
+    },
+    {
+      "slug": "p13-0432bb4d38",
+      "name_ja": "柏崎墓園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.331246,
+      "lon": 138.590337,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-e051d68b16",
+      "name_ja": "赤坂山公園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.359265,
+      "lon": 138.540341,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-c6943e30dd",
+      "name_ja": "番神御野立公園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.358464,
+      "lon": 138.519437,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.0
+    },
+    {
+      "slug": "p13-fc72abed11",
+      "name_ja": "海岸公園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.381053,
+      "lon": 138.557027,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.0
+    },
+    {
+      "slug": "p13-2a9abe02dc",
+      "name_ja": "柏崎夢の森公園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.334112,
+      "lon": 138.586356,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.4
+    },
+    {
+      "slug": "p13-307a139385",
+      "name_ja": "新発田中央公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 37.950902,
+      "lon": 139.339404,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-4997dac551",
+      "name_ja": "五十公野公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 37.938108,
+      "lon": 139.35575,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 89.3
+    },
+    {
+      "slug": "p13-c086aea875",
+      "name_ja": "加茂山公園",
+      "municipality": "加茂市",
+      "operator": "新潟県",
+      "lat": 37.655689,
+      "lon": 139.052579,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.3
+    },
+    {
+      "slug": "p13-e784143290",
+      "name_ja": "若宮公園",
+      "municipality": "加茂市",
+      "operator": "新潟県",
+      "lat": 37.652576,
+      "lon": 139.055116,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-b616b0bcf4",
+      "name_ja": "加茂川河川敷緑地",
+      "municipality": "加茂市",
+      "operator": "新潟県",
+      "lat": 37.657081,
+      "lon": 139.064888,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-e209674663",
+      "name_ja": "十日町市総合公園",
+      "municipality": "十日町市",
+      "operator": "新潟県",
+      "lat": 37.122333,
+      "lon": 138.765031,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-4301fc4d71",
+      "name_ja": "あじさい公園",
+      "municipality": "十日町市",
+      "operator": "新潟県",
+      "lat": 37.099595,
+      "lon": 138.794228,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-50431af4a8",
+      "name_ja": "川西総合緑地公園",
+      "municipality": "十日町市",
+      "operator": "新潟県",
+      "lat": 37.187481,
+      "lon": 138.732856,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.6
+    },
+    {
+      "slug": "p13-ab2a5c3a08",
+      "name_ja": "村上市鮭公園",
+      "municipality": "村上市",
+      "operator": "新潟県",
+      "lat": 38.228154,
+      "lon": 139.470719,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-7972a7479c",
+      "name_ja": "パルパーク神林総合運動公園",
+      "municipality": "村上市",
+      "operator": "新潟県",
+      "lat": 38.18036,
+      "lon": 139.457376,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-3188756f0d",
+      "name_ja": "お幕場森林公園",
+      "municipality": "村上市",
+      "operator": "新潟県",
+      "lat": 38.172175,
+      "lon": 139.428995,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 83.0
+    },
+    {
+      "slug": "p13-d6a18af2a0",
+      "name_ja": "吉田ふれあい広場",
+      "municipality": "燕市",
+      "operator": "新潟県",
+      "lat": 37.693195,
+      "lon": 138.903448,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.7
+    },
+    {
+      "slug": "p13-c8933233a4",
+      "name_ja": "美山公園",
+      "municipality": "糸魚川市",
+      "operator": "新潟県",
+      "lat": 37.023486,
+      "lon": 137.866753,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 57.9
+    },
+    {
+      "slug": "p13-e256764ec4",
+      "name_ja": "能生海洋公園",
+      "municipality": "糸魚川市",
+      "operator": "新潟県",
+      "lat": 37.112768,
+      "lon": 138.004589,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-674fd4cd89",
+      "name_ja": "名引山公園",
+      "municipality": "糸魚川市",
+      "operator": "新潟県",
+      "lat": 37.020232,
+      "lon": 137.798841,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-708e7acca6",
+      "name_ja": "新井総合公園",
+      "municipality": "妙高市",
+      "operator": "新潟県",
+      "lat": 37.014707,
+      "lon": 138.234226,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-aaf1f7961d",
+      "name_ja": "粟島公園",
+      "municipality": "五泉市",
+      "operator": "新潟県",
+      "lat": 37.747792,
+      "lon": 139.178801,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-b4ec25ae37",
+      "name_ja": "村松公園",
+      "municipality": "五泉市",
+      "operator": "新潟県",
+      "lat": 37.68994,
+      "lon": 139.18797,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.5
+    },
+    {
+      "slug": "p13-b3e01b0e37",
+      "name_ja": "高田公園",
+      "municipality": "上越市",
+      "operator": "新潟県",
+      "lat": 37.108872,
+      "lon": 138.254883,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.1
+    },
+    {
+      "slug": "p13-86f9192165",
+      "name_ja": "五智公園",
+      "municipality": "上越市",
+      "operator": "新潟県",
+      "lat": 37.164561,
+      "lon": 138.218937,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.9
+    },
+    {
+      "slug": "p13-875f910815",
+      "name_ja": "水きん公園",
+      "municipality": "阿賀野市",
+      "operator": "新潟県",
+      "lat": 37.83993,
+      "lon": 139.238423,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 30.4
+    },
+    {
+      "slug": "p13-2ec5ee17c7",
+      "name_ja": "城址公園",
+      "municipality": "佐渡市",
+      "operator": "新潟県",
+      "lat": 38.030015,
+      "lon": 138.245432,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-70664cb4b0",
+      "name_ja": "月岡公園",
+      "municipality": "魚沼市",
+      "operator": "新潟県",
+      "lat": 37.232173,
+      "lon": 138.921713,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-0c32743cea",
+      "name_ja": "小出公園",
+      "municipality": "魚沼市",
+      "operator": "新潟県",
+      "lat": 37.228355,
+      "lon": 138.955123,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-62007b7b7a",
+      "name_ja": "登川河川公園",
+      "municipality": "南魚沼市",
+      "operator": "新潟県",
+      "lat": 36.99477,
+      "lon": 138.881383,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.3
+    },
+    {
+      "slug": "p13-9c5609fc6e",
+      "name_ja": "国際交流公園",
+      "municipality": "胎内市",
+      "operator": "新潟県",
+      "lat": 38.03715,
+      "lon": 139.400088,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-16344e5481",
+      "name_ja": "弥彦公園",
+      "municipality": "西蒲原郡弥彦村",
+      "operator": "新潟県",
+      "lat": 37.699159,
+      "lon": 138.830211,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-c34df63265",
+      "name_ja": "田上町総合公園",
+      "municipality": "南蒲原郡田上町",
+      "operator": "新潟県",
+      "lat": 37.685742,
+      "lon": 139.071981,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.4
+    },
+    {
+      "slug": "p13-40a5447e8d",
+      "name_ja": "中央公園",
+      "municipality": "南魚沼郡湯沢町",
+      "operator": "新潟県",
+      "lat": 36.932647,
+      "lon": 138.834773,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.4
+    }
+  ]
+}

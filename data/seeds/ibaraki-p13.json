@@ -1,0 +1,406 @@
+{
+  "prefecture": "ibaraki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-99da5798ce",
+      "name_ja": "偕楽園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.372939,
+      "lon": 140.449393,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 56.7
+    },
+    {
+      "slug": "p13-49b8767be6",
+      "name_ja": "笠間芸術の森公園",
+      "municipality": "笠間市",
+      "operator": "茨城県",
+      "lat": 36.371346,
+      "lon": 140.265222,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 35.9
+    },
+    {
+      "slug": "p13-bacd8aae7f",
+      "name_ja": "大子広域公園",
+      "municipality": "久慈郡大子町",
+      "operator": "茨城県",
+      "lat": 36.793188,
+      "lon": 140.349611,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 60.4
+    },
+    {
+      "slug": "p13-014a7f5ac5",
+      "name_ja": "鹿島灘海浜公園",
+      "municipality": "鉾田市",
+      "operator": "茨城県",
+      "lat": 36.150637,
+      "lon": 140.577981,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 18.9
+    },
+    {
+      "slug": "p13-36b42be91f",
+      "name_ja": "洞峰公園",
+      "municipality": "つくば市",
+      "operator": "茨城県",
+      "lat": 36.060449,
+      "lon": 140.122109,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.0
+    },
+    {
+      "slug": "p13-7e503616f6",
+      "name_ja": "県西総合公園",
+      "municipality": "筑西市",
+      "operator": "茨城県",
+      "lat": 36.304762,
+      "lon": 140.016828,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 24.8
+    },
+    {
+      "slug": "p13-2ecac87422",
+      "name_ja": "砂沼広域公園",
+      "municipality": "下妻市",
+      "operator": "茨城県",
+      "lat": 36.188372,
+      "lon": 139.946932,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 25.6
+    },
+    {
+      "slug": "p13-cf6bc3094c",
+      "name_ja": "大洗公園",
+      "municipality": "東茨城郡大洗町",
+      "operator": "茨城県",
+      "lat": 36.319644,
+      "lon": 140.591266,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 44.4
+    },
+    {
+      "slug": "p13-e3adace856",
+      "name_ja": "千波公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.36038,
+      "lon": 140.45963,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 73.0
+    },
+    {
+      "slug": "p13-bcb7ab6f1c",
+      "name_ja": "霞ヶ浦総合公園",
+      "municipality": "土浦市",
+      "operator": "茨城県",
+      "lat": 36.063058,
+      "lon": 140.218996,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 32.3
+    },
+    {
+      "slug": "p13-68f3470434",
+      "name_ja": "北浦川緑地",
+      "municipality": "取手市",
+      "operator": "茨城県",
+      "lat": 35.908069,
+      "lon": 140.115227,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-59a492e29b",
+      "name_ja": "沢渡川緑地",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.380157,
+      "lon": 140.44572,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-53d123608c",
+      "name_ja": "桜川緑地",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.361786,
+      "lon": 140.442461,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-3c58ca1c1a",
+      "name_ja": "大塚池公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.385813,
+      "lon": 140.401382,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-d0496faab5",
+      "name_ja": "小吹水源地公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.34675,
+      "lon": 140.412331,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-8b68304093",
+      "name_ja": "七ツ洞公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.436907,
+      "lon": 140.444035,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-f0f1daa6b4",
+      "name_ja": "水戸市植物公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.340515,
+      "lon": 140.421696,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-ce29e7fbec",
+      "name_ja": "逆川緑地",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.356774,
+      "lon": 140.462829,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-63005b0886",
+      "name_ja": "水戸西流通センター緑地",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.410775,
+      "lon": 140.366632,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-1b412e8a73",
+      "name_ja": "日立市かみね公園",
+      "municipality": "日立市",
+      "operator": "茨城県",
+      "lat": 36.608973,
+      "lon": 140.657402,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.0
+    },
+    {
+      "slug": "p13-b3c6ab1922",
+      "name_ja": "日立市小木津山自然公園",
+      "municipality": "日立市",
+      "operator": "茨城県",
+      "lat": 36.637842,
+      "lon": 140.658987,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 64.6
+    },
+    {
+      "slug": "p13-b40e855bc2",
+      "name_ja": "乙戸沼公園",
+      "municipality": "土浦市",
+      "operator": "茨城県",
+      "lat": 36.042462,
+      "lon": 140.147191,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-f7b46c6ce5",
+      "name_ja": "古河総合公園",
+      "municipality": "古河市",
+      "operator": "茨城県",
+      "lat": 36.17716,
+      "lon": 139.701683,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.5
+    },
+    {
+      "slug": "p13-052d8abe07",
+      "name_ja": "渡良瀬運動公園",
+      "municipality": "古河市",
+      "operator": "茨城県",
+      "lat": 36.186717,
+      "lon": 139.694638,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 104.4
+    },
+    {
+      "slug": "p13-dde0e5d166",
+      "name_ja": "龍ケ崎市森林公園",
+      "municipality": "龍ケ崎市",
+      "operator": "茨城県",
+      "lat": 35.946486,
+      "lon": 140.215641,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-747a326dad",
+      "name_ja": "小貝川ふれあい公園",
+      "municipality": "下妻市",
+      "operator": "茨城県",
+      "lat": 36.193728,
+      "lon": 139.994092,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.2
+    },
+    {
+      "slug": "p13-b768d7486d",
+      "name_ja": "きぬ総合公園",
+      "municipality": "常総市",
+      "operator": "茨城県",
+      "lat": 36.0213,
+      "lon": 139.953155,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-504b65c599",
+      "name_ja": "笠間市総合公園",
+      "municipality": "笠間市",
+      "operator": "茨城県",
+      "lat": 36.394421,
+      "lon": 140.242316,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.5
+    },
+    {
+      "slug": "p13-6a0a3a65d1",
+      "name_ja": "名平洞公園",
+      "municipality": "ひたちなか市",
+      "operator": "茨城県",
+      "lat": 36.3515,
+      "lon": 140.591517,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-25ddacc343",
+      "name_ja": "かすみの郷公園",
+      "municipality": "潮来市",
+      "operator": "茨城県",
+      "lat": 35.977012,
+      "lon": 140.512663,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-966d6644d4",
+      "name_ja": "西部総合公園",
+      "municipality": "常陸大宮市",
+      "operator": "茨城県",
+      "lat": 36.537237,
+      "lon": 140.375544,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.4
+    },
+    {
+      "slug": "p13-5e69dca729",
+      "name_ja": "那珂総合公園",
+      "municipality": "那珂市",
+      "operator": "茨城県",
+      "lat": 36.466227,
+      "lon": 140.43964,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.7
+    },
+    {
+      "slug": "p13-4323e4d5fb",
+      "name_ja": "宮山ふるさとふれあい公園",
+      "municipality": "筑西市",
+      "operator": "茨城県",
+      "lat": 36.258066,
+      "lon": 140.048621,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-d649ff3eb3",
+      "name_ja": "八坂公園",
+      "municipality": "坂東市",
+      "operator": "茨城県",
+      "lat": 36.048692,
+      "lon": 139.878138,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-3b8b9c6940",
+      "name_ja": "江戸崎運動公園",
+      "municipality": "稲敷市",
+      "operator": "茨城県",
+      "lat": 35.954634,
+      "lon": 140.325561,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-697716d370",
+      "name_ja": "砂山都市緑地",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.895421,
+      "lon": 140.693793,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-2d4d8d439b",
+      "name_ja": "神栖総合公園",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.900844,
+      "lon": 140.706921,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.6
+    },
+    {
+      "slug": "p13-f8ac7117c7",
+      "name_ja": "鉾田総合公園",
+      "municipality": "鉾田市",
+      "operator": "茨城県",
+      "lat": 36.159034,
+      "lon": 140.489174,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-c5db2abdbf",
+      "name_ja": "豊岡なぎさの森",
+      "municipality": "那珂郡東海村",
+      "operator": "茨城県",
+      "lat": 36.479349,
+      "lon": 140.609325,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-4023d7aaaf",
+      "name_ja": "八千代町民公園",
+      "municipality": "結城郡八千代町",
+      "operator": "茨城県",
+      "lat": 36.186537,
+      "lon": 139.872806,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.1
+    }
+  ]
+}

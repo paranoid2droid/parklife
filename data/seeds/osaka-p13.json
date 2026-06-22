@@ -1,0 +1,736 @@
+{
+  "prefecture": "osaka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-dcd9979d9a",
+      "name_ja": "服部緑地",
+      "municipality": "豊中市",
+      "operator": "大阪府",
+      "lat": 34.776859,
+      "lon": 135.48824,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 126.3
+    },
+    {
+      "slug": "p13-d56d606631",
+      "name_ja": "深北緑地",
+      "municipality": "大東市",
+      "operator": "大阪府",
+      "lat": 34.726435,
+      "lon": 135.62882,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 41.0
+    },
+    {
+      "slug": "p13-8df53f2023",
+      "name_ja": "久宝寺緑地",
+      "municipality": "八尾市",
+      "operator": "大阪府",
+      "lat": 34.62993,
+      "lon": 135.578393,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 38.4
+    },
+    {
+      "slug": "p13-1ed420aa2e",
+      "name_ja": "大泉緑地",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.566463,
+      "lon": 135.524635,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 101.5
+    },
+    {
+      "slug": "p13-7e7a8ac27c",
+      "name_ja": "石川河川公園",
+      "municipality": "富田林市",
+      "operator": "大阪府",
+      "lat": 34.545209,
+      "lon": 135.621098,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 67.0
+    },
+    {
+      "slug": "p13-115562ed4b",
+      "name_ja": "浜寺公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.540892,
+      "lon": 135.44189,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 75.1
+    },
+    {
+      "slug": "p13-671cbd7213",
+      "name_ja": "りんくう公園",
+      "municipality": "泉佐野市",
+      "operator": "大阪府",
+      "lat": 34.378528,
+      "lon": 135.25929,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 19.1
+    },
+    {
+      "slug": "p13-64d26c7714",
+      "name_ja": "せんなん里海公園",
+      "municipality": "阪南市",
+      "operator": "大阪府",
+      "lat": 34.33615,
+      "lon": 135.190929,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 32.1
+    },
+    {
+      "slug": "p13-977023ea87",
+      "name_ja": "箕面公園",
+      "municipality": "箕面市",
+      "operator": "大阪府",
+      "lat": 34.84126,
+      "lon": 135.471358,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 83.8
+    },
+    {
+      "slug": "p13-a063675a27",
+      "name_ja": "寝屋川公園",
+      "municipality": "寝屋川市",
+      "operator": "大阪府",
+      "lat": 34.75996,
+      "lon": 135.653705,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 26.4
+    },
+    {
+      "slug": "p13-e6c04cb8a6",
+      "name_ja": "山田池公園",
+      "municipality": "枚方市",
+      "operator": "大阪府",
+      "lat": 34.822845,
+      "lon": 135.688776,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 67.6
+    },
+    {
+      "slug": "p13-082c530b2d",
+      "name_ja": "枚岡公園",
+      "municipality": "東大阪市",
+      "operator": "大阪府",
+      "lat": 34.674976,
+      "lon": 135.654573,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 43.8
+    },
+    {
+      "slug": "p13-5a767e8b27",
+      "name_ja": "住之江公園",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.61222,
+      "lon": 135.473884,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-23352acc5f",
+      "name_ja": "住吉公園",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.612595,
+      "lon": 135.489199,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-caef817c17",
+      "name_ja": "長野公園",
+      "municipality": "河内長野市",
+      "operator": "大阪府",
+      "lat": 34.447788,
+      "lon": 135.573386,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 46.3
+    },
+    {
+      "slug": "p13-44ea8575ea",
+      "name_ja": "錦織公園",
+      "municipality": "富田林市",
+      "operator": "大阪府",
+      "lat": 34.478552,
+      "lon": 135.575688,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 65.7
+    },
+    {
+      "slug": "p13-799b36b561",
+      "name_ja": "二色の浜公園",
+      "municipality": "貝塚市",
+      "operator": "大阪府",
+      "lat": 34.438245,
+      "lon": 135.336647,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 40.2
+    },
+    {
+      "slug": "p13-d457cf5594",
+      "name_ja": "蜻蛉池公園",
+      "municipality": "岸和田市",
+      "operator": "大阪府",
+      "lat": 34.432258,
+      "lon": 135.42316,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 52.0
+    },
+    {
+      "slug": "p13-cfbde5c1ef",
+      "name_ja": "中之島",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.69328,
+      "lon": 135.504784,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-a0d5d92f7b",
+      "name_ja": "桜之宮",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.694484,
+      "lon": 135.521762,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.7
+    },
+    {
+      "slug": "p13-3e82493679",
+      "name_ja": "大阪城",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.682023,
+      "lon": 135.531084,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 105.6
+    },
+    {
+      "slug": "p13-da9171fa84",
+      "name_ja": "靭",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.684917,
+      "lon": 135.492257,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-b8741fdb3a",
+      "name_ja": "八幡屋",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.661713,
+      "lon": 135.446045,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-19ca978115",
+      "name_ja": "千島",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.648885,
+      "lon": 135.473888,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-5ddffceaf2",
+      "name_ja": "天王寺",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.651316,
+      "lon": 135.510413,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 26.0
+    },
+    {
+      "slug": "p13-7b29a4be90",
+      "name_ja": "城北",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.72991,
+      "lon": 135.538707,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-ee54986f5f",
+      "name_ja": "鶴見緑地",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.710929,
+      "lon": 135.574578,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 173.6
+    },
+    {
+      "slug": "p13-7e4fc68975",
+      "name_ja": "南港中央",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.631362,
+      "lon": 135.432775,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.9
+    },
+    {
+      "slug": "p13-daa90eb55c",
+      "name_ja": "大浜公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.580563,
+      "lon": 135.462049,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.3
+    },
+    {
+      "slug": "p13-a6241a90c0",
+      "name_ja": "大仙公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.559267,
+      "lon": 135.486214,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.3
+    },
+    {
+      "slug": "p13-16a7aff627",
+      "name_ja": "堺公園墓地（堺市霊園）",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.463486,
+      "lon": 135.522887,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.7
+    },
+    {
+      "slug": "p13-fdf5eb5461",
+      "name_ja": "荒山公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.501661,
+      "lon": 135.497186,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.4
+    },
+    {
+      "slug": "p13-b0f6b60ad9",
+      "name_ja": "大蓮公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.491476,
+      "lon": 135.51077,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-f5a24fe408",
+      "name_ja": "白鷺公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.546605,
+      "lon": 135.512697,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-13f370b68b",
+      "name_ja": "新檜尾公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.478267,
+      "lon": 135.477448,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-1cc1894f71",
+      "name_ja": "鴨谷公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.473708,
+      "lon": 135.479976,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-73ac159b23",
+      "name_ja": "光明池緑地",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.46461,
+      "lon": 135.484196,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 33.4
+    },
+    {
+      "slug": "p13-22e76e6bfa",
+      "name_ja": "栂緑地",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.456075,
+      "lon": 135.504347,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-2b47d2ff6c",
+      "name_ja": "中央公園",
+      "municipality": "岸和田市",
+      "operator": "大阪府",
+      "lat": 34.47004,
+      "lon": 135.396874,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.8
+    },
+    {
+      "slug": "p13-92c095f3d7",
+      "name_ja": "緑と太陽の丘",
+      "municipality": "岸和田市",
+      "operator": "大阪府",
+      "lat": 34.419794,
+      "lon": 135.423734,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.3
+    },
+    {
+      "slug": "p13-3513cc6126",
+      "name_ja": "流木墓園",
+      "municipality": "岸和田市",
+      "operator": "大阪府",
+      "lat": 34.432584,
+      "lon": 135.387334,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-204b3abc72",
+      "name_ja": "千里中央公園",
+      "municipality": "豊中市",
+      "operator": "大阪府",
+      "lat": 34.810256,
+      "lon": 135.505563,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.2
+    },
+    {
+      "slug": "p13-79f0f74e39",
+      "name_ja": "千里緑地",
+      "municipality": "豊中市",
+      "operator": "大阪府",
+      "lat": 34.819299,
+      "lon": 135.492776,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-dcf9220954",
+      "name_ja": "五月山緑地",
+      "municipality": "池田市",
+      "operator": "大阪府",
+      "lat": 34.830289,
+      "lon": 135.426916,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 75.0
+    },
+    {
+      "slug": "p13-4a61bf50d2",
+      "name_ja": "五月山霊園",
+      "municipality": "池田市",
+      "operator": "大阪府",
+      "lat": 34.838164,
+      "lon": 135.448634,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-6fc9076d9a",
+      "name_ja": "千里南公園",
+      "municipality": "吹田市",
+      "operator": "大阪府",
+      "lat": 34.796082,
+      "lon": 135.509133,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-e595d36f6c",
+      "name_ja": "千里北公園",
+      "municipality": "吹田市",
+      "operator": "大阪府",
+      "lat": 34.825403,
+      "lon": 135.51225,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.1
+    },
+    {
+      "slug": "p13-27e1302ed6",
+      "name_ja": "紫金山公園",
+      "municipality": "吹田市",
+      "operator": "大阪府",
+      "lat": 34.7848,
+      "lon": 135.529944,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-691383fb74",
+      "name_ja": "千里緑地",
+      "municipality": "吹田市",
+      "operator": "大阪府",
+      "lat": 34.828045,
+      "lon": 135.510035,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 58.8
+    },
+    {
+      "slug": "p13-7dda863567",
+      "name_ja": "萩谷総合公園",
+      "municipality": "高槻市",
+      "operator": "大阪府",
+      "lat": 34.885245,
+      "lon": 135.579141,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 34.0
+    },
+    {
+      "slug": "p13-b3c5c4a17f",
+      "name_ja": "摂津峡公園",
+      "municipality": "高槻市",
+      "operator": "大阪府",
+      "lat": 34.875977,
+      "lon": 135.589365,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 37.2
+    },
+    {
+      "slug": "p13-caa4a162bc",
+      "name_ja": "安満山墓園",
+      "municipality": "高槻市",
+      "operator": "大阪府",
+      "lat": 34.865621,
+      "lon": 135.631373,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.6
+    },
+    {
+      "slug": "p13-88b957a62a",
+      "name_ja": "王仁公園",
+      "municipality": "枚方市",
+      "operator": "大阪府",
+      "lat": 34.817395,
+      "lon": 135.706935,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-b696959465",
+      "name_ja": "西河原公園",
+      "municipality": "茨木市",
+      "operator": "大阪府",
+      "lat": 34.832461,
+      "lon": 135.574116,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-932bed543d",
+      "name_ja": "元茨木川緑地",
+      "municipality": "茨木市",
+      "operator": "大阪府",
+      "lat": 34.808367,
+      "lon": 135.570777,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-994002d36a",
+      "name_ja": "末広公園",
+      "municipality": "泉佐野市",
+      "operator": "大阪府",
+      "lat": 34.400134,
+      "lon": 135.30774,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-16de62149f",
+      "name_ja": "泉佐野市公園墓地",
+      "municipality": "泉佐野市",
+      "operator": "大阪府",
+      "lat": 34.403537,
+      "lon": 135.332635,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-ee85641a8e",
+      "name_ja": "寝屋川公園墓地",
+      "municipality": "寝屋川市",
+      "operator": "大阪府",
+      "lat": 34.771504,
+      "lon": 135.647813,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-f5437d8805",
+      "name_ja": "打上川治水緑地",
+      "municipality": "寝屋川市",
+      "operator": "大阪府",
+      "lat": 34.76673,
+      "lon": 135.639572,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-992955c77d",
+      "name_ja": "寺ヶ池公園",
+      "municipality": "河内長野市",
+      "operator": "大阪府",
+      "lat": 34.457919,
+      "lon": 135.557695,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-dbaf3950ad",
+      "name_ja": "烏帽子形公園",
+      "municipality": "河内長野市",
+      "operator": "大阪府",
+      "lat": 34.444521,
+      "lon": 135.564274,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-4bcbf9bfa3",
+      "name_ja": "黒鳥山公園",
+      "municipality": "和泉市",
+      "operator": "大阪府",
+      "lat": 34.486148,
+      "lon": 135.445004,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-d39ed9c0f9",
+      "name_ja": "光明池緑地",
+      "municipality": "和泉市",
+      "operator": "大阪府",
+      "lat": 34.453694,
+      "lon": 135.487338,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 24.1
+    },
+    {
+      "slug": "p13-34a43db015",
+      "name_ja": "コスモ緑地",
+      "municipality": "和泉市",
+      "operator": "大阪府",
+      "lat": 34.42585,
+      "lon": 135.454592,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 22.2
+    },
+    {
+      "slug": "p13-892272883b",
+      "name_ja": "松尾寺公園",
+      "municipality": "和泉市",
+      "operator": "大阪府",
+      "lat": 34.431784,
+      "lon": 135.467923,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-e0b919cfec",
+      "name_ja": "花園中央公園",
+      "municipality": "東大阪市",
+      "operator": "大阪府",
+      "lat": 34.669596,
+      "lon": 135.629221,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.9
+    },
+    {
+      "slug": "p13-b50343ab76",
+      "name_ja": "飯盛霊園",
+      "municipality": "四條畷市",
+      "operator": "大阪府",
+      "lat": 34.736837,
+      "lon": 135.691753,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 31.0
+    },
+    {
+      "slug": "p13-cc2771f06a",
+      "name_ja": "狭山池公園",
+      "municipality": "大阪狭山市",
+      "operator": "大阪府",
+      "lat": 34.499641,
+      "lon": 135.551715,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-054f4223a7",
+      "name_ja": "前山緑地",
+      "municipality": "阪南市",
+      "operator": "大阪府",
+      "lat": 34.333218,
+      "lon": 135.217163,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 19.6
+    },
+    {
+      "slug": "p13-bea5d993bb",
+      "name_ja": "桃の木台展望緑地",
+      "municipality": "阪南市",
+      "operator": "大阪府",
+      "lat": 34.320976,
+      "lon": 135.219416,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.0
+    },
+    {
+      "slug": "p13-c8d8ce5a78",
+      "name_ja": "新光風台１丁目緑地",
+      "municipality": "豊能郡豊能町",
+      "operator": "大阪府",
+      "lat": 34.900436,
+      "lon": 135.430694,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-1b992c3a77",
+      "name_ja": "大津川河川公園",
+      "municipality": "泉北郡忠岡町",
+      "operator": "大阪府",
+      "lat": 34.493904,
+      "lon": 135.403232,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-8a0e626d27",
+      "name_ja": "みさき公園",
+      "municipality": "泉南郡岬町",
+      "operator": "大阪府",
+      "lat": 34.326481,
+      "lon": 135.162364,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.4
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "prefecture": "fukui",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1a050b60f8",
+      "name_ja": "若狭総合公園",
+      "municipality": "小浜市",
+      "operator": "福井県",
+      "lat": 35.515497,
+      "lon": 135.756153,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-13027b0508",
+      "name_ja": "奥越ふれあい公園",
+      "municipality": "大野市",
+      "operator": "福井県",
+      "lat": 35.965449,
+      "lon": 136.496874,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.6
+    },
+    {
+      "slug": "p13-1c0bcf3892",
+      "name_ja": "トリムパークかなづ",
+      "municipality": "あわら市",
+      "operator": "福井県",
+      "lat": 36.217504,
+      "lon": 136.249192,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.1
+    },
+    {
+      "slug": "p13-9bc236b050",
+      "name_ja": "福井都市緑化植物園",
+      "municipality": "坂井市",
+      "operator": "福井県",
+      "lat": 36.105384,
+      "lon": 136.304425,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-db3918b7e2",
+      "name_ja": "越前陶芸公園",
+      "municipality": "丹生郡越前町",
+      "operator": "福井県",
+      "lat": 35.935461,
+      "lon": 136.060287,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.8
+    },
+    {
+      "slug": "p13-615e04e867",
+      "name_ja": "足羽山公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.052437,
+      "lon": 136.201739,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 70.4
+    },
+    {
+      "slug": "p13-38e2065a7a",
+      "name_ja": "東山公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.053499,
+      "lon": 136.280897,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.5
+    },
+    {
+      "slug": "p13-027d0d898f",
+      "name_ja": "西墓地公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.056283,
+      "lon": 136.19531,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-8fd19d6f38",
+      "name_ja": "足羽川緑地",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.056696,
+      "lon": 136.217536,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-8ef949ad52",
+      "name_ja": "九頭竜川緑地",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.103006,
+      "lon": 136.227441,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-cfea8ec8c4",
+      "name_ja": "金ヶ崎公園",
+      "municipality": "敦賀市",
+      "operator": "福井県",
+      "lat": 35.660843,
+      "lon": 136.081544,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 62.3
+    },
+    {
+      "slug": "p13-7e74a1a376",
+      "name_ja": "松原公園",
+      "municipality": "敦賀市",
+      "operator": "福井県",
+      "lat": 35.655478,
+      "lon": 136.05059,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.2
+    },
+    {
+      "slug": "p13-578b3b44e4",
+      "name_ja": "亀山公園",
+      "municipality": "大野市",
+      "operator": "福井県",
+      "lat": 35.986716,
+      "lon": 136.483447,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-385818dc74",
+      "name_ja": "長山公園",
+      "municipality": "勝山市",
+      "operator": "福井県",
+      "lat": 36.067499,
+      "lon": 136.507754,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-b9387032a1",
+      "name_ja": "長尾山総合公園",
+      "municipality": "勝山市",
+      "operator": "福井県",
+      "lat": 36.086021,
+      "lon": 136.505311,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 79.6
+    },
+    {
+      "slug": "p13-01902ff143",
+      "name_ja": "西山公園",
+      "municipality": "鯖江市",
+      "operator": "福井県",
+      "lat": 35.953169,
+      "lon": 136.181501,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.4
+    },
+    {
+      "slug": "p13-39840ab2ae",
+      "name_ja": "中山公園",
+      "municipality": "鯖江市",
+      "operator": "福井県",
+      "lat": 35.95824,
+      "lon": 136.278603,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-ee9407de9a",
+      "name_ja": "芦山公園",
+      "municipality": "越前市",
+      "operator": "福井県",
+      "lat": 35.900173,
+      "lon": 136.182642,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 35.2
+    },
+    {
+      "slug": "p13-25bcc7f230",
+      "name_ja": "白崎公園",
+      "municipality": "越前市",
+      "operator": "福井県",
+      "lat": 35.864846,
+      "lon": 136.141319,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-9998d7d9cd",
+      "name_ja": "和紙の里公園",
+      "municipality": "越前市",
+      "operator": "福井県",
+      "lat": 35.909926,
+      "lon": 136.254481,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 64.3
+    },
+    {
+      "slug": "p13-8f6bb06e3c",
+      "name_ja": "文化の森公園",
+      "municipality": "坂井市",
+      "operator": "福井県",
+      "lat": 36.131763,
+      "lon": 136.214749,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-b03adac6e3",
+      "name_ja": "代官山公園",
+      "municipality": "坂井市",
+      "operator": "福井県",
+      "lat": 36.247108,
+      "lon": 136.197243,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-b626fc81a7",
+      "name_ja": "松岡公園",
+      "municipality": "吉田郡永平寺町",
+      "operator": "福井県",
+      "lat": 36.089941,
+      "lon": 136.300444,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-d89fd67f53",
+      "name_ja": "古墳公園",
+      "municipality": "丹生郡越前町",
+      "operator": "福井県",
+      "lat": 35.972004,
+      "lon": 136.120898,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.5
+    }
+  ]
+}

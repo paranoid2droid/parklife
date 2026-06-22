@@ -1,0 +1,176 @@
+{
+  "prefecture": "tottori",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-8a60ba2ae2",
+      "name_ja": "布勢総合運動公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.499666,
+      "lon": 134.180562,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 52.4
+    },
+    {
+      "slug": "p13-e78d3138c5",
+      "name_ja": "東郷湖羽合臨海公園",
+      "municipality": "東伯郡湯梨浜町",
+      "operator": "鳥取県",
+      "lat": 35.477404,
+      "lon": 133.902726,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 63.4
+    },
+    {
+      "slug": "p13-177574d35d",
+      "name_ja": "湖山池公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.505268,
+      "lon": 134.174151,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 44.1
+    },
+    {
+      "slug": "p13-53cc201b72",
+      "name_ja": "久松公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.506811,
+      "lon": 134.236979,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-b6c88068d5",
+      "name_ja": "円護寺公園墓地",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.517275,
+      "lon": 134.238121,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-51406b5338",
+      "name_ja": "千代川倉田緑地",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.447526,
+      "lon": 134.211363,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-92ba73e516",
+      "name_ja": "湊山公園",
+      "municipality": "米子市",
+      "operator": "鳥取県",
+      "lat": 35.427963,
+      "lon": 133.320852,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.5
+    },
+    {
+      "slug": "p13-73b70aea2d",
+      "name_ja": "弓ヶ浜公園",
+      "municipality": "米子市",
+      "operator": "鳥取県",
+      "lat": 35.46174,
+      "lon": 133.321686,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-2360440aa2",
+      "name_ja": "南公園",
+      "municipality": "米子市",
+      "operator": "鳥取県",
+      "lat": 35.407909,
+      "lon": 133.343369,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-0acfda31f7",
+      "name_ja": "日野川緑地",
+      "municipality": "米子市",
+      "operator": "鳥取県",
+      "lat": 35.445379,
+      "lon": 133.369564,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-67bd0ac1d9",
+      "name_ja": "日野川堰緑地",
+      "municipality": "米子市",
+      "operator": "鳥取県",
+      "lat": 35.416869,
+      "lon": 133.369177,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-f650ef9b52",
+      "name_ja": "打吹公園",
+      "municipality": "倉吉市",
+      "operator": "鳥取県",
+      "lat": 35.427663,
+      "lon": 133.822602,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.5
+    },
+    {
+      "slug": "p13-c16ab19c55",
+      "name_ja": "中浜緑地",
+      "municipality": "境港市",
+      "operator": "鳥取県",
+      "lat": 35.502781,
+      "lon": 133.245569,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-cbaf97aad2",
+      "name_ja": "いぬい公園",
+      "municipality": "八頭郡八頭町",
+      "operator": "鳥取県",
+      "lat": 35.387913,
+      "lon": 134.241164,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-89a0da55d4",
+      "name_ja": "天満山公園",
+      "municipality": "八頭郡八頭町",
+      "operator": "鳥取県",
+      "lat": 35.389628,
+      "lon": 134.252181,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-a3453ceb11",
+      "name_ja": "三朝高原公園",
+      "municipality": "東伯郡三朝町",
+      "operator": "鳥取県",
+      "lat": 35.399157,
+      "lon": 133.895908,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.6
+    },
+    {
+      "slug": "p13-a05c9303ba",
+      "name_ja": "東伯総合公園",
+      "municipality": "東伯郡琴浦町",
+      "operator": "鳥取県",
+      "lat": 35.494904,
+      "lon": 133.679748,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.8
+    }
+  ]
+}

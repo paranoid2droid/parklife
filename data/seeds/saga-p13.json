@@ -1,0 +1,166 @@
+{
+  "prefecture": "saga",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9ebb0f8891",
+      "name_ja": "佐賀城公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.24524,
+      "lon": 130.300308,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.2
+    },
+    {
+      "slug": "p13-73dcd41576",
+      "name_ja": "森林公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.241994,
+      "lon": 130.247169,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 40.0
+    },
+    {
+      "slug": "p13-3d6a31f19b",
+      "name_ja": "金立公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.330115,
+      "lon": 130.310848,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.9
+    },
+    {
+      "slug": "p13-0e933ce572",
+      "name_ja": "多布施川河畔公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.300533,
+      "lon": 130.275007,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-6ceab870f0",
+      "name_ja": "松浦河畔公園",
+      "municipality": "唐津市",
+      "operator": "佐賀県",
+      "lat": 33.42371,
+      "lon": 129.992959,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.8
+    },
+    {
+      "slug": "p13-59393063f2",
+      "name_ja": "鳥島自然公園",
+      "municipality": "唐津市",
+      "operator": "佐賀県",
+      "lat": 33.46601,
+      "lon": 129.9767,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-b62882a027",
+      "name_ja": "市民公園",
+      "municipality": "鳥栖市",
+      "operator": "佐賀県",
+      "lat": 33.371108,
+      "lon": 130.502502,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.9
+    },
+    {
+      "slug": "p13-f8b6791d58",
+      "name_ja": "東公園",
+      "municipality": "鳥栖市",
+      "operator": "佐賀県",
+      "lat": 33.408493,
+      "lon": 130.525343,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-3032f3c3a3",
+      "name_ja": "朝日山公園",
+      "municipality": "鳥栖市",
+      "operator": "佐賀県",
+      "lat": 33.365524,
+      "lon": 130.487744,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 25.1
+    },
+    {
+      "slug": "p13-2cc6803bb1",
+      "name_ja": "伊万里ファミリーパーク",
+      "municipality": "伊万里市",
+      "operator": "佐賀県",
+      "lat": 33.346987,
+      "lon": 129.85029,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-2b9c46dd2c",
+      "name_ja": "蟻尾山公園",
+      "municipality": "鹿島市",
+      "operator": "佐賀県",
+      "lat": 33.095679,
+      "lon": 130.083955,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-11a5368e4e",
+      "name_ja": "日の隈公園",
+      "municipality": "神埼市",
+      "operator": "佐賀県",
+      "lat": 33.33231,
+      "lon": 130.354082,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.1
+    },
+    {
+      "slug": "p13-967ab61185",
+      "name_ja": "基山総合公園",
+      "municipality": "三養基郡基山町",
+      "operator": "佐賀県",
+      "lat": 33.429783,
+      "lon": 130.52427,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-10d621a164",
+      "name_ja": "鎮西山いこいの森",
+      "municipality": "三養基郡上峰町",
+      "operator": "佐賀県",
+      "lat": 33.360068,
+      "lon": 130.42092,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 41.2
+    },
+    {
+      "slug": "p13-121b0d65d2",
+      "name_ja": "白磁ヶ丘公園",
+      "municipality": "西松浦郡有田町",
+      "operator": "佐賀県",
+      "lat": 33.192502,
+      "lon": 129.910951,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.7
+    },
+    {
+      "slug": "p13-a5f2c867f7",
+      "name_ja": "水堂公園",
+      "municipality": "杵島郡白石町",
+      "operator": "佐賀県",
+      "lat": 33.175953,
+      "lon": 130.087394,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.7
+    }
+  ]
+}

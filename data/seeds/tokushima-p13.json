@@ -1,0 +1,166 @@
+{
+  "prefecture": "tokushima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-79fea5e25f",
+      "name_ja": "日峯大神子広域公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.031239,
+      "lon": 134.585728,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 65.4
+    },
+    {
+      "slug": "p13-b814d243cd",
+      "name_ja": "鳴門ウチノ海総合公園",
+      "municipality": "鳴門市",
+      "operator": "徳島県",
+      "lat": 34.210599,
+      "lon": 134.594716,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.5
+    },
+    {
+      "slug": "p13-fc2e1ecb88",
+      "name_ja": "月見が丘海浜公園",
+      "municipality": "板野郡松茂町",
+      "operator": "徳島県",
+      "lat": 34.126231,
+      "lon": 134.608911,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.1
+    },
+    {
+      "slug": "p13-db8b436229",
+      "name_ja": "文化の森総合公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.039821,
+      "lon": 134.526402,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.6
+    },
+    {
+      "slug": "p13-b749393fe7",
+      "name_ja": "徳島中央公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.073945,
+      "lon": 134.557483,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.0
+    },
+    {
+      "slug": "p13-2e680fa5f0",
+      "name_ja": "眉山公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.066744,
+      "lon": 134.534407,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 24.0
+    },
+    {
+      "slug": "p13-39b3643964",
+      "name_ja": "徳島市総合動植物公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.013315,
+      "lon": 134.519087,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 58.9
+    },
+    {
+      "slug": "p13-63513bcb19",
+      "name_ja": "阿波史跡公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.058819,
+      "lon": 134.46871,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.3
+    },
+    {
+      "slug": "p13-4791fa7111",
+      "name_ja": "吉野川河川敷緑地",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.087178,
+      "lon": 134.563013,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 43.5
+    },
+    {
+      "slug": "p13-dcdc6d0bc8",
+      "name_ja": "鮎喰川河川敷緑地",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.080874,
+      "lon": 134.501846,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-82e719532f",
+      "name_ja": "ドイツ村公園",
+      "municipality": "鳴門市",
+      "operator": "徳島県",
+      "lat": 34.159266,
+      "lon": 134.496936,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-ef1b6bfc97",
+      "name_ja": "阿南市立那賀川河川敷第1緑地",
+      "municipality": "阿南市",
+      "operator": "徳島県",
+      "lat": 33.934519,
+      "lon": 134.663337,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-8bf77cf058",
+      "name_ja": "向麻山公園",
+      "municipality": "吉野川市",
+      "operator": "徳島県",
+      "lat": 34.068969,
+      "lon": 134.38554,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-42948269f7",
+      "name_ja": "丸山公園",
+      "municipality": "三好市",
+      "operator": "徳島県",
+      "lat": 34.029279,
+      "lon": 133.795858,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-196919cbde",
+      "name_ja": "前山公園",
+      "municipality": "名西郡石井町",
+      "operator": "徳島県",
+      "lat": 34.0576,
+      "lon": 134.436361,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-6a26faeeec",
+      "name_ja": "内妻公園",
+      "municipality": "海部郡牟岐町",
+      "operator": "徳島県",
+      "lat": 33.657023,
+      "lon": 134.410512,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.9
+    }
+  ]
+}

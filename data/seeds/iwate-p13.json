@@ -1,0 +1,346 @@
+{
+  "prefecture": "iwate",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2b3375ccd1",
+      "name_ja": "御所湖広域公園",
+      "municipality": "岩手郡雫石町",
+      "operator": "岩手県",
+      "lat": 39.668007,
+      "lon": 140.97134,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 83.4
+    },
+    {
+      "slug": "p13-d818244432",
+      "name_ja": "花巻広域公園",
+      "municipality": "花巻市",
+      "operator": "岩手県",
+      "lat": 39.434957,
+      "lon": 141.056055,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 91.3
+    },
+    {
+      "slug": "p13-c92e3e2b86",
+      "name_ja": "岩手公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.699365,
+      "lon": 141.149418,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-c541af6fae",
+      "name_ja": "中央公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.693638,
+      "lon": 141.126565,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-3029306c98",
+      "name_ja": "岩山南公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.69501,
+      "lon": 141.189063,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.0
+    },
+    {
+      "slug": "p13-21b4060452",
+      "name_ja": "盛岡南公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.648021,
+      "lon": 141.136092,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-803f15cb13",
+      "name_ja": "高松公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.72513,
+      "lon": 141.146302,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 24.9
+    },
+    {
+      "slug": "p13-480c0af4cc",
+      "name_ja": "岩山公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.701456,
+      "lon": 141.184497,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 26.6
+    },
+    {
+      "slug": "p13-2d8f2a4775",
+      "name_ja": "綱取公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.71058,
+      "lon": 141.207502,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-aeb20989b3",
+      "name_ja": "新庄墓園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.689272,
+      "lon": 141.205762,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 39.8
+    },
+    {
+      "slug": "p13-abe0a50964",
+      "name_ja": "閉伊川緑地公園",
+      "municipality": "宮古市",
+      "operator": "岩手県",
+      "lat": 39.636233,
+      "lon": 141.940219,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-cdf1cc1d59",
+      "name_ja": "盛川河川敷公園",
+      "municipality": "大船渡市",
+      "operator": "岩手県",
+      "lat": 39.084826,
+      "lon": 141.71577,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-085bab6926",
+      "name_ja": "戸塚森森林公園",
+      "municipality": "花巻市",
+      "operator": "岩手県",
+      "lat": 39.471944,
+      "lon": 141.181697,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.2
+    },
+    {
+      "slug": "p13-9b006d7343",
+      "name_ja": "展勝地公園",
+      "municipality": "北上市",
+      "operator": "岩手県",
+      "lat": 39.28061,
+      "lon": 141.127912,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-96e6ca1a2b",
+      "name_ja": "北上総合運動公園",
+      "municipality": "北上市",
+      "operator": "岩手県",
+      "lat": 39.259817,
+      "lon": 141.095322,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.6
+    },
+    {
+      "slug": "p13-6fc3e5483b",
+      "name_ja": "和賀川ふれあい広場",
+      "municipality": "北上市",
+      "operator": "岩手県",
+      "lat": 39.278142,
+      "lon": 141.10543,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.4
+    },
+    {
+      "slug": "p13-4465ad2111",
+      "name_ja": "久慈川河川公園",
+      "municipality": "久慈市",
+      "operator": "岩手県",
+      "lat": 40.193785,
+      "lon": 141.758688,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.8
+    },
+    {
+      "slug": "p13-56466d89bc",
+      "name_ja": "一関遊水地記念緑地公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.939632,
+      "lon": 141.157897,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-7ad6e0e727",
+      "name_ja": "唐梅館総合公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.999534,
+      "lon": 141.250478,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 42.5
+    },
+    {
+      "slug": "p13-1697ee0476",
+      "name_ja": "駒場交流公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.929327,
+      "lon": 141.342952,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-e2f82b764a",
+      "name_ja": "磐井川緑地",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.935135,
+      "lon": 141.133516,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-868cf241c0",
+      "name_ja": "一関水辺プラザ",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.938096,
+      "lon": 141.156975,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-4003bdf08a",
+      "name_ja": "高田松原公園",
+      "municipality": "陸前高田市",
+      "operator": "岩手県",
+      "lat": 39.006258,
+      "lon": 141.633672,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 64.8
+    },
+    {
+      "slug": "p13-dd6e1a5d1b",
+      "name_ja": "平田公園",
+      "municipality": "釜石市",
+      "operator": "岩手県",
+      "lat": 39.233831,
+      "lon": 141.886285,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-290b82c230",
+      "name_ja": "水海公園",
+      "municipality": "釜石市",
+      "operator": "岩手県",
+      "lat": 39.297922,
+      "lon": 141.894241,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 49.7
+    },
+    {
+      "slug": "p13-9c62dcd897",
+      "name_ja": "大平墓地公園",
+      "municipality": "釜石市",
+      "operator": "岩手県",
+      "lat": 39.256507,
+      "lon": 141.89303,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-2192239726",
+      "name_ja": "水沢公園",
+      "municipality": "奥州市",
+      "operator": "岩手県",
+      "lat": 39.135102,
+      "lon": 141.138952,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-cd0f4b0d69",
+      "name_ja": "藤橋緑地",
+      "municipality": "奥州市",
+      "operator": "岩手県",
+      "lat": 39.091731,
+      "lon": 141.188573,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-73bb957c0f",
+      "name_ja": "見分森墓園",
+      "municipality": "奥州市",
+      "operator": "岩手県",
+      "lat": 39.120173,
+      "lon": 141.103416,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.7
+    },
+    {
+      "slug": "p13-5163c362b9",
+      "name_ja": "向山公園",
+      "municipality": "奥州市",
+      "operator": "岩手県",
+      "lat": 39.191225,
+      "lon": 141.185705,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 35.0
+    },
+    {
+      "slug": "p13-d9e34b379d",
+      "name_ja": "滝沢総合公園",
+      "municipality": "岩手郡滝沢村",
+      "operator": "岩手県",
+      "lat": 39.733785,
+      "lon": 141.071193,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.2
+    },
+    {
+      "slug": "p13-5ccd86786e",
+      "name_ja": "城山公園",
+      "municipality": "紫波郡紫波町",
+      "operator": "岩手県",
+      "lat": 39.564927,
+      "lon": 141.172966,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.3
+    },
+    {
+      "slug": "p13-adb2013072",
+      "name_ja": "森山総合公園",
+      "municipality": "胆沢郡金ケ崎町",
+      "operator": "岩手県",
+      "lat": 39.210117,
+      "lon": 141.092163,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.5
+    },
+    {
+      "slug": "p13-4c445eb366",
+      "name_ja": "船越公園",
+      "municipality": "下閉伊郡山田町",
+      "operator": "岩手県",
+      "lat": 39.436097,
+      "lon": 141.978037,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    }
+  ]
+}

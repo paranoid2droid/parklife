@@ -1,0 +1,356 @@
+{
+  "prefecture": "toyama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-194328fcb9",
+      "name_ja": "富山県常願寺川公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.698292,
+      "lon": 137.280795,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 29.4
+    },
+    {
+      "slug": "p13-397b1bdc0e",
+      "name_ja": "富山県富岩運河環水公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.709659,
+      "lon": 137.211629,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-4ad6ff2f05",
+      "name_ja": "県民公園太閤山ランド",
+      "municipality": "射水市",
+      "operator": "富山県",
+      "lat": 36.691878,
+      "lon": 137.103652,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 95.9
+    },
+    {
+      "slug": "p13-f952afdee2",
+      "name_ja": "城址公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.6933,
+      "lon": 137.21106,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-53401d1bf7",
+      "name_ja": "呉羽山公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.709792,
+      "lon": 137.183202,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.7
+    },
+    {
+      "slug": "p13-c00a40897b",
+      "name_ja": "城山公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.701718,
+      "lon": 137.172109,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 150.0
+    },
+    {
+      "slug": "p13-a77e14bb42",
+      "name_ja": "富山南総合公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.63798,
+      "lon": 137.197597,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-5989e7eabf",
+      "name_ja": "稲荷公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.700187,
+      "lon": 137.233296,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-2b72dc02eb",
+      "name_ja": "寺家公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.564671,
+      "lon": 137.233743,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-77e17cb04e",
+      "name_ja": "殿様林緑地",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.621058,
+      "lon": 137.296773,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-69deef7103",
+      "name_ja": "城ヶ山公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.573868,
+      "lon": 137.133167,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-944b48bc85",
+      "name_ja": "神通川水辺プラザ",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.592971,
+      "lon": 137.178443,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-5ff6333553",
+      "name_ja": "高岡古城公園",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.749162,
+      "lon": 137.0213,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.2
+    },
+    {
+      "slug": "p13-b2904a1058",
+      "name_ja": "二上山公園",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.789912,
+      "lon": 137.019766,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-3e407c91ac",
+      "name_ja": "高岡おとぎの森公園",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.724247,
+      "lon": 137.000968,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-710067b99d",
+      "name_ja": "二上霊園",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.780456,
+      "lon": 137.026815,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-168d41c030",
+      "name_ja": "魚津総合公園",
+      "municipality": "魚津市",
+      "operator": "富山県",
+      "lat": 36.797404,
+      "lon": 137.387476,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.6
+    },
+    {
+      "slug": "p13-08429cff34",
+      "name_ja": "宮津霊園",
+      "municipality": "魚津市",
+      "operator": "富山県",
+      "lat": 36.806314,
+      "lon": 137.412729,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-c7a4b12b60",
+      "name_ja": "早月川緑地",
+      "municipality": "魚津市",
+      "operator": "富山県",
+      "lat": 36.780022,
+      "lon": 137.400753,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-ee45cdf787",
+      "name_ja": "ふれあいの森",
+      "municipality": "氷見市",
+      "operator": "富山県",
+      "lat": 36.851308,
+      "lon": 136.974027,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.8
+    },
+    {
+      "slug": "p13-8740f2fbee",
+      "name_ja": "天狗林健康広場",
+      "municipality": "氷見市",
+      "operator": "富山県",
+      "lat": 36.884172,
+      "lon": 136.886403,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-aa9afc1956",
+      "name_ja": "黒部市総合公園",
+      "municipality": "黒部市",
+      "operator": "富山県",
+      "lat": 36.881471,
+      "lon": 137.425816,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-5b87eace87",
+      "name_ja": "宮野墓地公園",
+      "municipality": "黒部市",
+      "operator": "富山県",
+      "lat": 36.862187,
+      "lon": 137.480932,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-9d5834c2e0",
+      "name_ja": "砺波チューリップ公園",
+      "municipality": "砺波市",
+      "operator": "富山県",
+      "lat": 36.640298,
+      "lon": 136.961496,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-34eb6c368a",
+      "name_ja": "夢の平公園",
+      "municipality": "砺波市",
+      "operator": "富山県",
+      "lat": 36.58563,
+      "lon": 137.021677,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-d066aa77e7",
+      "name_ja": "桜ヶ池公園",
+      "municipality": "南砺市",
+      "operator": "富山県",
+      "lat": 36.499156,
+      "lon": 136.86587,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-002bc1903a",
+      "name_ja": "安居寺公園",
+      "municipality": "南砺市",
+      "operator": "富山県",
+      "lat": 36.6035,
+      "lon": 136.882852,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.8
+    },
+    {
+      "slug": "p13-69a208f992",
+      "name_ja": "射水市薬勝寺池公園",
+      "municipality": "射水市",
+      "operator": "富山県",
+      "lat": 36.700453,
+      "lon": 137.086783,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.7
+    },
+    {
+      "slug": "p13-3e4c346d61",
+      "name_ja": "射水市堀岡緑地",
+      "municipality": "射水市",
+      "operator": "富山県",
+      "lat": 36.767757,
+      "lon": 137.126696,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-90a740ec05",
+      "name_ja": "射水市庄川左岸緑地",
+      "municipality": "射水市",
+      "operator": "富山県",
+      "lat": 36.785423,
+      "lon": 137.065884,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-557cfb383d",
+      "name_ja": "丸山総合公園",
+      "municipality": "中新川郡上市町",
+      "operator": "富山県",
+      "lat": 36.691751,
+      "lon": 137.382725,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-f75eefc99c",
+      "name_ja": "立山町総合公園",
+      "municipality": "中新川郡立山町",
+      "operator": "富山県",
+      "lat": 36.658664,
+      "lon": 137.343511,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.1
+    },
+    {
+      "slug": "p13-da70c5bbde",
+      "name_ja": "墓ノ木自然公園",
+      "municipality": "下新川郡入善町",
+      "operator": "富山県",
+      "lat": 36.870415,
+      "lon": 137.541684,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 22.2
+    },
+    {
+      "slug": "p13-fbd73f0eef",
+      "name_ja": "青野自然公園",
+      "municipality": "下新川郡入善町",
+      "operator": "富山県",
+      "lat": 36.885974,
+      "lon": 137.509932,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-610ddeb9ca",
+      "name_ja": "棚山ファミリーランド",
+      "municipality": "下新川郡朝日町",
+      "operator": "富山県",
+      "lat": 36.887072,
+      "lon": 137.571155,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    }
+  ]
+}

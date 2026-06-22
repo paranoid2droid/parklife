@@ -1,0 +1,606 @@
+{
+  "prefecture": "fukushima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-036d2e6743",
+      "name_ja": "福島空港公園",
+      "municipality": "須賀川市",
+      "operator": "福島県",
+      "lat": 37.246671,
+      "lon": 140.420208,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 52.1
+    },
+    {
+      "slug": "p13-66e4b34595",
+      "name_ja": "あづま総合運動公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.722001,
+      "lon": 140.361975,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 98.2
+    },
+    {
+      "slug": "p13-b564a358b6",
+      "name_ja": "逢瀬公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.412339,
+      "lon": 140.27387,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 34.6
+    },
+    {
+      "slug": "p13-f809f972e9",
+      "name_ja": "会津レクリエーション公園",
+      "municipality": "会津若松市",
+      "operator": "福島県",
+      "lat": 37.516428,
+      "lon": 140.016595,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 42.6
+    },
+    {
+      "slug": "p13-717423dd6d",
+      "name_ja": "東ヶ丘公園",
+      "municipality": "南相馬市",
+      "operator": "福島県",
+      "lat": 37.632595,
+      "lon": 140.967131,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 21.2
+    },
+    {
+      "slug": "p13-a85b362036",
+      "name_ja": "いわき公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.013291,
+      "lon": 140.921646,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 71.3
+    },
+    {
+      "slug": "p13-e1d733ba01",
+      "name_ja": "信夫山公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.770116,
+      "lon": 140.466467,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.4
+    },
+    {
+      "slug": "p13-b496b8f72d",
+      "name_ja": "舘ノ山公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.8313,
+      "lon": 140.436607,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-9b47db2f50",
+      "name_ja": "弁天山公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.742723,
+      "lon": 140.473035,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.7
+    },
+    {
+      "slug": "p13-fc427e19e9",
+      "name_ja": "大森城山公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.725472,
+      "lon": 140.433103,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-feeb57ab20",
+      "name_ja": "荒川運動公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.745103,
+      "lon": 140.460432,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-796dd735d0",
+      "name_ja": "信夫ヶ丘緑地公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.777094,
+      "lon": 140.489222,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-1d30a19d55",
+      "name_ja": "十六沼公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.814848,
+      "lon": 140.416043,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-54de5c673a",
+      "name_ja": "鶴ヶ城公園",
+      "municipality": "会津若松市",
+      "operator": "福島県",
+      "lat": 37.487943,
+      "lon": 139.929866,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.3
+    },
+    {
+      "slug": "p13-5df1bdb320",
+      "name_ja": "背炙山公園",
+      "municipality": "会津若松市",
+      "operator": "福島県",
+      "lat": 37.475024,
+      "lon": 139.984282,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 72.4
+    },
+    {
+      "slug": "p13-283f3e366a",
+      "name_ja": "小田山公園",
+      "municipality": "会津若松市",
+      "operator": "福島県",
+      "lat": 37.479752,
+      "lon": 139.944172,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-aa5b29363c",
+      "name_ja": "大塚山墓園",
+      "municipality": "会津若松市",
+      "operator": "福島県",
+      "lat": 37.513763,
+      "lon": 139.944465,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-3c58fb52f5",
+      "name_ja": "大川緑地",
+      "municipality": "会津若松市",
+      "operator": "福島県",
+      "lat": 37.455057,
+      "lon": 139.910069,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-903a6df5ca",
+      "name_ja": "開成山公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.398103,
+      "lon": 140.358269,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.3
+    },
+    {
+      "slug": "p13-c5613d2dbc",
+      "name_ja": "大槻公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.395152,
+      "lon": 140.304711,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.7
+    },
+    {
+      "slug": "p13-dff097cf7c",
+      "name_ja": "郡山カルチャーパーク",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.367401,
+      "lon": 140.329744,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-dd97277642",
+      "name_ja": "平成記念郡山こどものもり公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.432413,
+      "lon": 140.397112,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.2
+    },
+    {
+      "slug": "p13-22f76843f6",
+      "name_ja": "大安場史跡公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.35663,
+      "lon": 140.403925,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-a70d0d01b7",
+      "name_ja": "浄土松公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.388381,
+      "lon": 140.276141,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-1f2eddb055",
+      "name_ja": "東山霊園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.349512,
+      "lon": 140.436158,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 71.0
+    },
+    {
+      "slug": "p13-771c3b87aa",
+      "name_ja": "待池公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.446239,
+      "lon": 140.310907,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-eca64f76f5",
+      "name_ja": "五百淵公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.379718,
+      "lon": 140.361439,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-9fe297762a",
+      "name_ja": "21世紀の森公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.014916,
+      "lon": 140.862035,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 60.5
+    },
+    {
+      "slug": "p13-c6332b4f3d",
+      "name_ja": "水石山公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.108742,
+      "lon": 140.79688,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 58.3
+    },
+    {
+      "slug": "p13-7895eb30cb",
+      "name_ja": "新舞子浜公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.033456,
+      "lon": 140.970299,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-d3ec9caeb2",
+      "name_ja": "御幸山公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.004607,
+      "lon": 140.846603,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-2a7dde0d13",
+      "name_ja": "三崎公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 36.938278,
+      "lon": 140.920081,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 59.6
+    },
+    {
+      "slug": "p13-7cf727a61b",
+      "name_ja": "勿来の関公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 36.86623,
+      "lon": 140.781563,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 24.7
+    },
+    {
+      "slug": "p13-944985d5dc",
+      "name_ja": "南白土墓園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.042227,
+      "lon": 140.920072,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-e00bed4901",
+      "name_ja": "南湖公園",
+      "municipality": "白河市",
+      "operator": "福島県",
+      "lat": 37.110636,
+      "lon": 140.216608,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 44.4
+    },
+    {
+      "slug": "p13-42d2fa4da8",
+      "name_ja": "城山公園",
+      "municipality": "白河市",
+      "operator": "福島県",
+      "lat": 37.132415,
+      "lon": 140.213294,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-eace9b15ce",
+      "name_ja": "羅漢墓地",
+      "municipality": "白河市",
+      "operator": "福島県",
+      "lat": 37.133515,
+      "lon": 140.225331,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-7c5704515f",
+      "name_ja": "翠ヶ丘公園",
+      "municipality": "須賀川市",
+      "operator": "福島県",
+      "lat": 37.292697,
+      "lon": 140.382118,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.3
+    },
+    {
+      "slug": "p13-9f5aa3549d",
+      "name_ja": "須賀川墓地公園",
+      "municipality": "須賀川市",
+      "operator": "福島県",
+      "lat": 37.279847,
+      "lon": 140.326618,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-0a72772d77",
+      "name_ja": "上ノ山墓地公園",
+      "municipality": "喜多方市",
+      "operator": "福島県",
+      "lat": 37.685069,
+      "lon": 139.897459,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-9e2f07a43a",
+      "name_ja": "馬陵公園",
+      "municipality": "相馬市",
+      "operator": "福島県",
+      "lat": 37.798168,
+      "lon": 140.914527,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.7
+    },
+    {
+      "slug": "p13-9143597881",
+      "name_ja": "霞ヶ城公園",
+      "municipality": "二本松市",
+      "operator": "福島県",
+      "lat": 37.60183,
+      "lon": 140.430376,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 35.1
+    },
+    {
+      "slug": "p13-83121911ad",
+      "name_ja": "つつじヶ丘公園",
+      "municipality": "田村市",
+      "operator": "福島県",
+      "lat": 37.396688,
+      "lon": 140.645038,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.7
+    },
+    {
+      "slug": "p13-e29d54f8d2",
+      "name_ja": "北泉海浜総合公園",
+      "municipality": "南相馬市",
+      "operator": "福島県",
+      "lat": 37.661274,
+      "lon": 141.016284,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.2
+    },
+    {
+      "slug": "p13-f3c461d790",
+      "name_ja": "保原総合公園",
+      "municipality": "伊達市",
+      "operator": "福島県",
+      "lat": 37.818922,
+      "lon": 140.570062,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-e330d806d8",
+      "name_ja": "中央公園",
+      "municipality": "伊達郡川俣町",
+      "operator": "福島県",
+      "lat": 37.6633,
+      "lon": 140.60655,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-2bd411bde1",
+      "name_ja": "鳥見山公園",
+      "municipality": "岩瀬郡鏡石町",
+      "operator": "福島県",
+      "lat": 37.249393,
+      "lon": 140.356234,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.1
+    },
+    {
+      "slug": "p13-7606cdfb7a",
+      "name_ja": "枇杷影緑地",
+      "municipality": "南会津郡南会津町",
+      "operator": "福島県",
+      "lat": 37.20102,
+      "lon": 139.760851,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 19.2
+    },
+    {
+      "slug": "p13-a02a5baa0c",
+      "name_ja": "しらかば公園",
+      "municipality": "南会津郡南会津町",
+      "operator": "福島県",
+      "lat": 37.051452,
+      "lon": 139.523852,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-18e9215db7",
+      "name_ja": "さゆり公園",
+      "municipality": "耶麻郡西会津町",
+      "operator": "福島県",
+      "lat": 37.598434,
+      "lon": 139.642726,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-60d8bdde1a",
+      "name_ja": "亀ヶ城公園",
+      "municipality": "耶麻郡猪苗代町",
+      "operator": "福島県",
+      "lat": 37.561251,
+      "lon": 140.101815,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.5
+    },
+    {
+      "slug": "p13-c4a4716b55",
+      "name_ja": "鶴沼緑地",
+      "municipality": "河沼郡会津坂下町",
+      "operator": "福島県",
+      "lat": 37.565191,
+      "lon": 139.82822,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-6b435c205e",
+      "name_ja": "宮川いこいの河畔緑地公園",
+      "municipality": "大沼郡会津美里町",
+      "operator": "福島県",
+      "lat": 37.459416,
+      "lon": 139.844004,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 17.0
+    },
+    {
+      "slug": "p13-a82c1c564c",
+      "name_ja": "せせらぎ緑地",
+      "municipality": "大沼郡会津美里町",
+      "operator": "福島県",
+      "lat": 37.45015,
+      "lon": 139.905862,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-a2ab5d0f38",
+      "name_ja": "さつき公園",
+      "municipality": "西白河郡泉崎村",
+      "operator": "福島県",
+      "lat": 37.156605,
+      "lon": 140.32048,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-57844ac300",
+      "name_ja": "童里夢公園なかじま",
+      "municipality": "西白河郡中島村",
+      "operator": "福島県",
+      "lat": 37.146435,
+      "lon": 140.357682,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-fefe28a550",
+      "name_ja": "石川町総合運動公園",
+      "municipality": "石川郡石川町",
+      "operator": "福島県",
+      "lat": 37.14401,
+      "lon": 140.435581,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-9b6af61085",
+      "name_ja": "夜の森つつみ公園",
+      "municipality": "双葉郡富岡町",
+      "operator": "福島県",
+      "lat": 37.362739,
+      "lon": 140.997082,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-79a58950d0",
+      "name_ja": "双葉町総合公園",
+      "municipality": "双葉郡双葉町",
+      "operator": "福島県",
+      "lat": 37.440106,
+      "lon": 141.013078,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-7058ab457c",
+      "name_ja": "新地町総合公園",
+      "municipality": "相馬郡新地町",
+      "operator": "福島県",
+      "lat": 37.86189,
+      "lon": 140.916756,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.8
+    }
+  ]
+}

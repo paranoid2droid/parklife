@@ -25,6 +25,22 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW_DIR = ROOT / "data" / "raw" / "p13"
 SEED_DIR = ROOT / "data" / "seeds"
 
+# JIS X 0401 prefecture code -> romaji slug, all 47.
+ALL_PREFS = {
+    "hokkaido": "01", "aomori": "02", "iwate": "03", "miyagi": "04",
+    "akita": "05", "yamagata": "06", "fukushima": "07", "ibaraki": "08",
+    "tochigi": "09", "gunma": "10", "saitama": "11", "chiba": "12",
+    "tokyo": "13", "kanagawa": "14", "niigata": "15", "toyama": "16",
+    "ishikawa": "17", "fukui": "18", "yamanashi": "19", "nagano": "20",
+    "gifu": "21", "shizuoka": "22", "aichi": "23", "mie": "24",
+    "shiga": "25", "kyoto": "26", "osaka": "27", "hyogo": "28",
+    "nara": "29", "wakayama": "30", "tottori": "31", "shimane": "32",
+    "okayama": "33", "hiroshima": "34", "yamaguchi": "35", "tokushima": "36",
+    "kagawa": "37", "ehime": "38", "kochi": "39", "fukuoka": "40",
+    "saga": "41", "nagasaki": "42", "kumamoto": "43", "oita": "44",
+    "miyazaki": "45", "kagoshima": "46", "okinawa": "47",
+}
+# Original 4 Kanto prefectures — the default when no CLI args are given.
 PREFS = {"tokyo": "13", "kanagawa": "14", "chiba": "12", "saitama": "11"}
 URL_FMT = "https://nlftp.mlit.go.jp/ksj/gml/data/P13/P13-11/P13-11_{code}_GML.zip"
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
@@ -125,14 +141,36 @@ def existing_park_coords(db_path: Path) -> list[tuple[float, float]]:
     return [(r["lat"], r["lon"]) for r in rows]
 
 
-def main() -> int:
+def resolve_prefs(argv: list[str]) -> dict[str, str]:
+    """Pick the prefecture set from CLI args.
+
+    No args -> the original 4 Kanto prefectures (back-compat).
+    "all"    -> every prefecture in ALL_PREFS.
+    Otherwise each arg is a romaji slug (e.g. aichi osaka kyoto).
+    """
+    if not argv:
+        return dict(PREFS)
+    if len(argv) == 1 and argv[0] == "all":
+        return dict(ALL_PREFS)
+    sel = {}
+    for slug in argv:
+        if slug not in ALL_PREFS:
+            raise SystemExit(f"unknown prefecture slug: {slug!r} "
+                             f"(valid: {', '.join(sorted(ALL_PREFS))})")
+        sel[slug] = ALL_PREFS[slug]
+    return sel
+
+
+def main(argv: list[str] | None = None) -> int:
+    prefs = resolve_prefs(argv if argv is not None else sys.argv[1:])
     db_path = ROOT / "data" / "parklife.db"
     SEED_DIR.mkdir(parents=True, exist_ok=True)
     existing = existing_park_coords(db_path)
     print(f"existing parks with coords: {len(existing)}")
+    print(f"seeding prefectures: {', '.join(prefs)}")
 
     grand_new = grand_overlap = grand_filtered = 0
-    for pref, code in PREFS.items():
+    for pref, code in prefs.items():
         print(f"\n=== {pref} (code {code}) ===")
         zip_path = download_zip(code)
         parks = parse_xml(zip_path)

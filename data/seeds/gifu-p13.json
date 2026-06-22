@@ -1,0 +1,366 @@
+{
+  "prefecture": "gifu",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-c67fd1368c",
+      "name_ja": "養老公園",
+      "municipality": "養老郡養老町",
+      "operator": "岐阜県",
+      "lat": 35.28422,
+      "lon": 136.55204,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 78.5
+    },
+    {
+      "slug": "p13-eca1cdfd98",
+      "name_ja": "岐阜県百年公園",
+      "municipality": "関市",
+      "operator": "岐阜県",
+      "lat": 35.474959,
+      "lon": 136.872903,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 100.0
+    },
+    {
+      "slug": "p13-7543af6f42",
+      "name_ja": "花フェスタ記念公園",
+      "municipality": "可児市",
+      "operator": "岐阜県",
+      "lat": 35.420268,
+      "lon": 137.098495,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 80.7
+    },
+    {
+      "slug": "p13-e859cfb5af",
+      "name_ja": "平成記念公園",
+      "municipality": "美濃加茂市",
+      "operator": "岐阜県",
+      "lat": 35.474061,
+      "lon": 137.031361,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 83.9
+    },
+    {
+      "slug": "p13-8516c3d438",
+      "name_ja": "各務原公園",
+      "municipality": "各務原市",
+      "operator": "岐阜県",
+      "lat": 35.426872,
+      "lon": 136.933394,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-f4122d6f02",
+      "name_ja": "岐阜公園",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.434714,
+      "lon": 136.774427,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.4
+    },
+    {
+      "slug": "p13-67574ebde6",
+      "name_ja": "岐阜市民公園",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.48686,
+      "lon": 136.76305,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.7
+    },
+    {
+      "slug": "p13-bca625b149",
+      "name_ja": "岐阜ファミリーパーク",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.517569,
+      "lon": 136.831801,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 54.4
+    },
+    {
+      "slug": "p13-c467c5e712",
+      "name_ja": "柏森公園",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.423686,
+      "lon": 136.768652,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 27.6
+    },
+    {
+      "slug": "p13-91f6ccea70",
+      "name_ja": "境川緑道公園",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.367396,
+      "lon": 136.725024,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 17.4
+    },
+    {
+      "slug": "p13-aacea51f1a",
+      "name_ja": "大洞光輪公園",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.454744,
+      "lon": 136.875186,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.5
+    },
+    {
+      "slug": "p13-37d3131943",
+      "name_ja": "竹林広場",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.441491,
+      "lon": 136.796943,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-a3315cb25a",
+      "name_ja": "南一色公園",
+      "municipality": "大垣市",
+      "operator": "岐阜県",
+      "lat": 35.370202,
+      "lon": 136.59696,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-c73510de2c",
+      "name_ja": "杭瀬川スポーツ公園",
+      "municipality": "大垣市",
+      "operator": "岐阜県",
+      "lat": 35.337458,
+      "lon": 136.596802,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.9
+    },
+    {
+      "slug": "p13-2bd899b290",
+      "name_ja": "美濃国分寺跡歴史公園",
+      "municipality": "大垣市",
+      "operator": "岐阜県",
+      "lat": 35.38479,
+      "lon": 136.551132,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-54c245abff",
+      "name_ja": "城山公園",
+      "municipality": "高山市",
+      "operator": "岐阜県",
+      "lat": 36.139516,
+      "lon": 137.262952,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.6
+    },
+    {
+      "slug": "p13-f250fe3aaa",
+      "name_ja": "原山市民公園",
+      "municipality": "高山市",
+      "operator": "岐阜県",
+      "lat": 36.132357,
+      "lon": 137.220381,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-2a18d81b35",
+      "name_ja": "多治見墓地公園",
+      "municipality": "多治見市",
+      "operator": "岐阜県",
+      "lat": 35.31934,
+      "lon": 137.12093,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 25.8
+    },
+    {
+      "slug": "p13-efca9e6887",
+      "name_ja": "虎渓公園",
+      "municipality": "多治見市",
+      "operator": "岐阜県",
+      "lat": 35.343918,
+      "lon": 137.129299,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-e98e913263",
+      "name_ja": "喜多緑地",
+      "municipality": "多治見市",
+      "operator": "岐阜県",
+      "lat": 35.336198,
+      "lon": 137.100879,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 29.2
+    },
+    {
+      "slug": "p13-b506b4bd2e",
+      "name_ja": "安桜山公園",
+      "municipality": "関市",
+      "operator": "岐阜県",
+      "lat": 35.487132,
+      "lon": 136.921855,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-c7cb5617de",
+      "name_ja": "星ヶ見公園",
+      "municipality": "中津川市",
+      "operator": "岐阜県",
+      "lat": 35.494347,
+      "lon": 137.465703,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-0072a77aff",
+      "name_ja": "小倉公園",
+      "municipality": "美濃市",
+      "operator": "岐阜県",
+      "lat": 35.550768,
+      "lon": 136.911554,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-8ee12d8f0f",
+      "name_ja": "台山ヒロック",
+      "municipality": "美濃市",
+      "operator": "岐阜県",
+      "lat": 35.558661,
+      "lon": 136.922259,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-76fb6156d6",
+      "name_ja": "瑞浪市民公園",
+      "municipality": "瑞浪市",
+      "operator": "岐阜県",
+      "lat": 35.373605,
+      "lon": 137.237706,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 29.7
+    },
+    {
+      "slug": "p13-045e41627a",
+      "name_ja": "木曽川堤外正木運動場",
+      "municipality": "羽島市",
+      "operator": "岐阜県",
+      "lat": 35.320203,
+      "lon": 136.733553,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-fcaa634fbb",
+      "name_ja": "まきがね公園",
+      "municipality": "恵那市",
+      "operator": "岐阜県",
+      "lat": 35.443273,
+      "lon": 137.384599,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-192601349e",
+      "name_ja": "阿木川公園",
+      "municipality": "恵那市",
+      "operator": "岐阜県",
+      "lat": 35.447518,
+      "lon": 137.419232,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-40c19b3fc3",
+      "name_ja": "前平公園",
+      "municipality": "美濃加茂市",
+      "operator": "岐阜県",
+      "lat": 35.454154,
+      "lon": 137.001457,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-949339e7c1",
+      "name_ja": "土岐市総合公園",
+      "municipality": "土岐市",
+      "operator": "岐阜県",
+      "lat": 35.318683,
+      "lon": 137.210472,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.6
+    },
+    {
+      "slug": "p13-c880e00ce2",
+      "name_ja": "各務野自然遺産の森",
+      "municipality": "各務原市",
+      "operator": "岐阜県",
+      "lat": 35.429494,
+      "lon": 136.931775,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.8
+    },
+    {
+      "slug": "p13-d3271df96e",
+      "name_ja": "瞑想の森",
+      "municipality": "各務原市",
+      "operator": "岐阜県",
+      "lat": 35.420532,
+      "lon": 136.835685,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-f7f6add1c4",
+      "name_ja": "しらさぎ緑地",
+      "municipality": "下呂市",
+      "operator": "岐阜県",
+      "lat": 35.810597,
+      "lon": 137.237717,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-9d706d053a",
+      "name_ja": "平田リバーサイドプラザ",
+      "municipality": "海津市",
+      "operator": "岐阜県",
+      "lat": 35.279661,
+      "lon": 136.673251,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 27.7
+    },
+    {
+      "slug": "p13-4b31d36b97",
+      "name_ja": "山楠公園",
+      "municipality": "加茂郡川辺町",
+      "operator": "岐阜県",
+      "lat": 35.485398,
+      "lon": 137.05571,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-eda7150c48",
+      "name_ja": "南山公園",
+      "municipality": "可児郡御嵩町",
+      "operator": "岐阜県",
+      "lat": 35.42189,
+      "lon": 137.12906,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.3
+    }
+  ]
+}

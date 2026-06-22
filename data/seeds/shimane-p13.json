@@ -1,0 +1,236 @@
+{
+  "prefecture": "shimane",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-e026249ae6",
+      "name_ja": "石見海浜公園",
+      "municipality": "浜田市",
+      "operator": "島根県",
+      "lat": 34.948965,
+      "lon": 132.120704,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 147.3
+    },
+    {
+      "slug": "p13-45c7302767",
+      "name_ja": "浜山公園",
+      "municipality": "出雲市",
+      "operator": "島根県",
+      "lat": 35.379715,
+      "lon": 132.707042,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 54.9
+    },
+    {
+      "slug": "p13-13294c97ba",
+      "name_ja": "万葉公園",
+      "municipality": "益田市",
+      "operator": "島根県",
+      "lat": 34.681739,
+      "lon": 131.810037,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 48.4
+    },
+    {
+      "slug": "p13-e97960fd2c",
+      "name_ja": "北公園",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.47173,
+      "lon": 133.066795,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-8cd857297e",
+      "name_ja": "楽山公園",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.477917,
+      "lon": 133.073361,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.3
+    },
+    {
+      "slug": "p13-1984033cb3",
+      "name_ja": "秋鹿湖畔公園",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.477562,
+      "lon": 132.944889,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.3
+    },
+    {
+      "slug": "p13-75a72186bd",
+      "name_ja": "宍道総合公園",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.393298,
+      "lon": 132.916286,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.9
+    },
+    {
+      "slug": "p13-446f3bc597",
+      "name_ja": "城山公園",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.474681,
+      "lon": 133.050004,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.7
+    },
+    {
+      "slug": "p13-bd088c4df4",
+      "name_ja": "松江市公園墓地",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.429849,
+      "lon": 133.06513,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.3
+    },
+    {
+      "slug": "p13-3291894258",
+      "name_ja": "城山公園",
+      "municipality": "浜田市",
+      "operator": "島根県",
+      "lat": 34.902455,
+      "lon": 132.074113,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-11d06378ef",
+      "name_ja": "一の谷公園",
+      "municipality": "出雲市",
+      "operator": "島根県",
+      "lat": 35.359097,
+      "lon": 132.771526,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.6
+    },
+    {
+      "slug": "p13-a7722a2890",
+      "name_ja": "真幸ヶ丘公園",
+      "municipality": "出雲市",
+      "operator": "島根県",
+      "lat": 35.33386,
+      "lon": 132.713575,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-cd6cc822f9",
+      "name_ja": "愛宕山公園",
+      "municipality": "出雲市",
+      "operator": "島根県",
+      "lat": 35.441599,
+      "lon": 132.816914,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.3
+    },
+    {
+      "slug": "p13-4dd69340be",
+      "name_ja": "湖陵総合公園",
+      "municipality": "出雲市",
+      "operator": "島根県",
+      "lat": 35.304022,
+      "lon": 132.67936,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-a871d77ad8",
+      "name_ja": "匹見中央公園",
+      "municipality": "益田市",
+      "operator": "島根県",
+      "lat": 34.564485,
+      "lon": 132.020579,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-2e17f07e34",
+      "name_ja": "大田市民公園",
+      "municipality": "大田市",
+      "operator": "島根県",
+      "lat": 35.185026,
+      "lon": 132.510311,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-85545bb892",
+      "name_ja": "石見銀山公園",
+      "municipality": "大田市",
+      "operator": "島根県",
+      "lat": 35.113822,
+      "lon": 132.445485,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 36.9
+    },
+    {
+      "slug": "p13-8eaeada175",
+      "name_ja": "菰沢公園",
+      "municipality": "江津市",
+      "operator": "島根県",
+      "lat": 35.030239,
+      "lon": 132.277394,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 32.8
+    },
+    {
+      "slug": "p13-deebe72541",
+      "name_ja": "大東公園",
+      "municipality": "雲南市",
+      "operator": "島根県",
+      "lat": 35.319042,
+      "lon": 132.966534,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-e9cd9d2016",
+      "name_ja": "三成公園",
+      "municipality": "仁多郡奥出雲町",
+      "operator": "島根県",
+      "lat": 35.194633,
+      "lon": 132.99606,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.0
+    },
+    {
+      "slug": "p13-22d411289f",
+      "name_ja": "横田公園",
+      "municipality": "仁多郡奥出雲町",
+      "operator": "島根県",
+      "lat": 35.17121,
+      "lon": 133.089546,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-9bffd6258c",
+      "name_ja": "斐川公園",
+      "municipality": "簸川郡斐川町",
+      "operator": "島根県",
+      "lat": 35.384724,
+      "lon": 132.821615,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-b795969834",
+      "name_ja": "津和野城山公園",
+      "municipality": "鹿足郡津和野町",
+      "operator": "島根県",
+      "lat": 34.462436,
+      "lon": 131.76881,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 58.6
+    }
+  ]
+}

@@ -1,0 +1,2246 @@
+{
+  "prefecture": "hokkaido",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2fc065623d",
+      "name_ja": "北海道立十勝エコロジーパーク",
+      "municipality": "河東郡音更町",
+      "operator": "北海道",
+      "lat": 42.932567,
+      "lon": 143.314864,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 157.2
+    },
+    {
+      "slug": "p13-0402f7b1b9",
+      "name_ja": "北海道立真駒内公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.996034,
+      "lon": 141.344929,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 84.7
+    },
+    {
+      "slug": "p13-d7cfa31845",
+      "name_ja": "北海道子どもの国",
+      "municipality": "砂川市",
+      "operator": "北海道",
+      "lat": 43.528112,
+      "lon": 141.941772,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 232.5
+    },
+    {
+      "slug": "p13-41ca502429",
+      "name_ja": "北海道立野幌総合運動公園",
+      "municipality": "江別市",
+      "operator": "北海道",
+      "lat": 43.069337,
+      "lon": 141.534614,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 64.1
+    },
+    {
+      "slug": "p13-d592bf8fe9",
+      "name_ja": "北海道立オホーツク公園",
+      "municipality": "網走市",
+      "operator": "北海道",
+      "lat": 43.990098,
+      "lon": 144.241263,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 107.4
+    },
+    {
+      "slug": "p13-c790bdc112",
+      "name_ja": "北海道立宗谷ふれあい公園",
+      "municipality": "稚内市",
+      "operator": "北海道",
+      "lat": 45.395129,
+      "lon": 141.756957,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 65.3
+    },
+    {
+      "slug": "p13-5c8d938ea5",
+      "name_ja": "北海道立ゆめの森公園",
+      "municipality": "標津郡中標津町",
+      "operator": "北海道",
+      "lat": 43.564699,
+      "lon": 144.960014,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 54.2
+    },
+    {
+      "slug": "p13-bd1543d545",
+      "name_ja": "北海道立道南四季の杜公園",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.84671,
+      "lon": 140.766806,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 65.1
+    },
+    {
+      "slug": "p13-074c1717d5",
+      "name_ja": "北海道立サンピラーパーク",
+      "municipality": "名寄市",
+      "operator": "北海道",
+      "lat": 44.37474,
+      "lon": 142.480012,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 63.1
+    },
+    {
+      "slug": "p13-c4be6c617f",
+      "name_ja": "北海道立噴火湾パノラマパーク",
+      "municipality": "二海郡八雲町",
+      "operator": "北海道",
+      "lat": 42.22809,
+      "lon": 140.307008,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 61.8
+    },
+    {
+      "slug": "p13-373d5ef39e",
+      "name_ja": "北海道立オホーツク流氷公園",
+      "municipality": "紋別市",
+      "operator": "北海道",
+      "lat": 44.317503,
+      "lon": 143.393443,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-bf80bb27e8",
+      "name_ja": "中島公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.04455,
+      "lon": 141.3542,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.6
+    },
+    {
+      "slug": "p13-81d9c1f15c",
+      "name_ja": "円山公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.054797,
+      "lon": 141.308559,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 68.7
+    },
+    {
+      "slug": "p13-4d48605793",
+      "name_ja": "百合が原公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.12865,
+      "lon": 141.365701,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.3
+    },
+    {
+      "slug": "p13-bef9870089",
+      "name_ja": "月寒公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.032496,
+      "lon": 141.385012,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-020f0b43aa",
+      "name_ja": "藻南公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.983893,
+      "lon": 141.338154,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.3
+    },
+    {
+      "slug": "p13-8fb3b87a7e",
+      "name_ja": "前田森林公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.14621,
+      "lon": 141.25613,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 59.7
+    },
+    {
+      "slug": "p13-336381c468",
+      "name_ja": "平岡公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.004263,
+      "lon": 141.463605,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 66.3
+    },
+    {
+      "slug": "p13-b1f47682b8",
+      "name_ja": "モエレ沼公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.124007,
+      "lon": 141.427357,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 103.7
+    },
+    {
+      "slug": "p13-32c8682b30",
+      "name_ja": "川下公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.063338,
+      "lon": 141.444155,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.5
+    },
+    {
+      "slug": "p13-b053e203d1",
+      "name_ja": "五天山公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.047781,
+      "lon": 141.258258,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.7
+    },
+    {
+      "slug": "p13-e6f4e8673c",
+      "name_ja": "大通公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.059949,
+      "lon": 141.348391,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-48c4362d70",
+      "name_ja": "旭山記念公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.040359,
+      "lon": 141.315074,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-601887046f",
+      "name_ja": "宮丘公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.0832,
+      "lon": 141.265517,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 33.2
+    },
+    {
+      "slug": "p13-af8c563221",
+      "name_ja": "札幌芸術の森",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.938002,
+      "lon": 141.338526,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 39.0
+    },
+    {
+      "slug": "p13-c36c2b8a2e",
+      "name_ja": "西岡公園",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.986706,
+      "lon": 141.378032,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 41.0
+    },
+    {
+      "slug": "p13-0c482a6cf6",
+      "name_ja": "豊平川緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.040528,
+      "lon": 141.357791,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 123.5
+    },
+    {
+      "slug": "p13-9df394815f",
+      "name_ja": "荒井山緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.051035,
+      "lon": 141.295856,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-62e919c966",
+      "name_ja": "茨戸川緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.172669,
+      "lon": 141.394628,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-c3de42fe99",
+      "name_ja": "もみじ台緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.038728,
+      "lon": 141.498119,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 37.5
+    },
+    {
+      "slug": "p13-33a22e1a87",
+      "name_ja": "青葉緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.030462,
+      "lon": 141.480403,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-e7e1b6446f",
+      "name_ja": "厚別南緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.020667,
+      "lon": 141.482451,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-7f4076d717",
+      "name_ja": "野津幌川緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.042155,
+      "lon": 141.477751,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-bbb5ff9d99",
+      "name_ja": "東部緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.012228,
+      "lon": 141.481195,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 31.6
+    },
+    {
+      "slug": "p13-8f4d843d08",
+      "name_ja": "天神山緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.020803,
+      "lon": 141.363747,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-fba5e32d66",
+      "name_ja": "厚別川緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.952237,
+      "lon": 141.451786,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-ea7adc2a25",
+      "name_ja": "ハイテクヒル真栄緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.977149,
+      "lon": 141.432103,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.0
+    },
+    {
+      "slug": "p13-b62950aefc",
+      "name_ja": "清田緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.003788,
+      "lon": 141.442526,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-687fd84661",
+      "name_ja": "石山緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 42.968757,
+      "lon": 141.341579,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-a34831de32",
+      "name_ja": "曙西緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.133178,
+      "lon": 141.222754,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-c1722953b8",
+      "name_ja": "中の川緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.104153,
+      "lon": 141.255632,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-bb15dc555e",
+      "name_ja": "新川緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.142801,
+      "lon": 141.25084,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.8
+    },
+    {
+      "slug": "p13-228955448c",
+      "name_ja": "山口緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.143346,
+      "lon": 141.212479,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-3e89386f12",
+      "name_ja": "見晴公園",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.793105,
+      "lon": 140.803365,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 46.1
+    },
+    {
+      "slug": "p13-d58438c938",
+      "name_ja": "市民の森",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.786449,
+      "lon": 140.819615,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.4
+    },
+    {
+      "slug": "p13-521d907c5a",
+      "name_ja": "五稜郭公園",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.797021,
+      "lon": 140.756986,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 25.2
+    },
+    {
+      "slug": "p13-8209879a7f",
+      "name_ja": "東山墓園",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.813562,
+      "lon": 140.77542,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-475196becb",
+      "name_ja": "函館山緑地",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.752503,
+      "lon": 140.702342,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 326.6
+    },
+    {
+      "slug": "p13-8a7577a6a1",
+      "name_ja": "空港緑地志海苔ふれあい広場",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.767453,
+      "lon": 140.823726,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-6c1c38798c",
+      "name_ja": "白石公園",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.7603,
+      "lon": 140.9028,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-88fa22c0c8",
+      "name_ja": "すずらんの丘公園",
+      "municipality": "函館市",
+      "operator": "北海道",
+      "lat": 41.808501,
+      "lon": 140.804636,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-7413326bb9",
+      "name_ja": "手宮公園",
+      "municipality": "小樽市",
+      "operator": "北海道",
+      "lat": 43.214591,
+      "lon": 141.002137,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.7
+    },
+    {
+      "slug": "p13-9ca7aca844",
+      "name_ja": "小樽公園",
+      "municipality": "小樽市",
+      "operator": "北海道",
+      "lat": 43.187404,
+      "lon": 140.993066,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.5
+    },
+    {
+      "slug": "p13-6560d6ba9d",
+      "name_ja": "長橋なえぼ公園",
+      "municipality": "小樽市",
+      "operator": "北海道",
+      "lat": 43.213345,
+      "lon": 140.976969,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.1
+    },
+    {
+      "slug": "p13-b9702b7e58",
+      "name_ja": "春光台公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.806518,
+      "lon": 142.350501,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 50.1
+    },
+    {
+      "slug": "p13-b1f2da47b3",
+      "name_ja": "常磐公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.775349,
+      "lon": 142.357405,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.9
+    },
+    {
+      "slug": "p13-22ca2c1ef2",
+      "name_ja": "神楽岡公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.75027,
+      "lon": 142.36607,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.4
+    },
+    {
+      "slug": "p13-b14679c1ce",
+      "name_ja": "旭山公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.766227,
+      "lon": 142.478087,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 60.0
+    },
+    {
+      "slug": "p13-e48b209d82",
+      "name_ja": "嵐山公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.793125,
+      "lon": 142.303951,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 126.8
+    },
+    {
+      "slug": "p13-02f2122f0c",
+      "name_ja": "忠和公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.784035,
+      "lon": 142.31581,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-9cbc317a63",
+      "name_ja": "カムイの杜公園",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.74581,
+      "lon": 142.316594,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 17.9
+    },
+    {
+      "slug": "p13-1d208767d6",
+      "name_ja": "突哨山",
+      "municipality": "旭川市",
+      "operator": "北海道",
+      "lat": 43.856582,
+      "lon": 142.451706,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 52.7
+    },
+    {
+      "slug": "p13-8f37dfd658",
+      "name_ja": "祝津公園",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.337014,
+      "lon": 140.943585,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-196a33eaaa",
+      "name_ja": "潮見公園",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.332005,
+      "lon": 141.019375,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-0811e45a36",
+      "name_ja": "知利別公園",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.363042,
+      "lon": 141.02975,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-1af6d8b1d8",
+      "name_ja": "室蘭墓園",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.39522,
+      "lon": 141.001341,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-791bfaccb2",
+      "name_ja": "測量山緑地",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.322848,
+      "lon": 140.94414,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 121.5
+    },
+    {
+      "slug": "p13-07682d0c60",
+      "name_ja": "地球岬緑地",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.304324,
+      "lon": 140.995028,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 53.2
+    },
+    {
+      "slug": "p13-c2383df883",
+      "name_ja": "室蘭岳山麓総合公園",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.410126,
+      "lon": 141.000264,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.5
+    },
+    {
+      "slug": "p13-4e9c8af58f",
+      "name_ja": "ふるさとの森21公園",
+      "municipality": "室蘭市",
+      "operator": "北海道",
+      "lat": 42.317345,
+      "lon": 140.996976,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 39.7
+    },
+    {
+      "slug": "p13-f5cfc46d8b",
+      "name_ja": "春採公園",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 42.973757,
+      "lon": 144.403392,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.1
+    },
+    {
+      "slug": "p13-64f4e9c874",
+      "name_ja": "柳町公園",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 43.004495,
+      "lon": 144.383582,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.2
+    },
+    {
+      "slug": "p13-e6e4931e37",
+      "name_ja": "新釧路川緑地",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 43.029241,
+      "lon": 144.377888,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 45.4
+    },
+    {
+      "slug": "p13-e7e44d27a9",
+      "name_ja": "山花公園",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 43.08346,
+      "lon": 144.23415,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 100.9
+    },
+    {
+      "slug": "p13-7b4eb3bdfe",
+      "name_ja": "愛国緑地",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 43.016745,
+      "lon": 144.409038,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-8993900d70",
+      "name_ja": "鳥取10号公園",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 43.020366,
+      "lon": 144.33916,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-208901a709",
+      "name_ja": "武佐の森緑地",
+      "municipality": "釧路市",
+      "operator": "北海道",
+      "lat": 42.989768,
+      "lon": 144.4295,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-f4fa8fecfa",
+      "name_ja": "緑ヶ丘公園",
+      "municipality": "帯広市",
+      "operator": "北海道",
+      "lat": 42.905311,
+      "lon": 143.186975,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 50.5
+    },
+    {
+      "slug": "p13-3323918641",
+      "name_ja": "緑ヶ丘墓地",
+      "municipality": "帯広市",
+      "operator": "北海道",
+      "lat": 42.900174,
+      "lon": 143.185569,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-9acef8b2d0",
+      "name_ja": "つつじが丘霊園",
+      "municipality": "帯広市",
+      "operator": "北海道",
+      "lat": 42.907411,
+      "lon": 143.115011,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 31.0
+    },
+    {
+      "slug": "p13-6473fc95ca",
+      "name_ja": "帯広の森",
+      "municipality": "帯広市",
+      "operator": "北海道",
+      "lat": 42.892774,
+      "lon": 143.14361,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 341.2
+    },
+    {
+      "slug": "p13-e222dcf308",
+      "name_ja": "発祥の地公園",
+      "municipality": "帯広市",
+      "operator": "北海道",
+      "lat": 42.929189,
+      "lon": 143.220996,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-2b97e472d1",
+      "name_ja": "中島霊園",
+      "municipality": "帯広市",
+      "operator": "北海道",
+      "lat": 42.948734,
+      "lon": 143.138545,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-cd83130391",
+      "name_ja": "野付牛公園",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.81828,
+      "lon": 143.904782,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-fde176eb06",
+      "name_ja": "常呂川水系緑地",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.803711,
+      "lon": 143.913425,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 56.6
+    },
+    {
+      "slug": "p13-0302f9b507",
+      "name_ja": "緑ヶ丘霊園",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.820142,
+      "lon": 143.858922,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.5
+    },
+    {
+      "slug": "p13-81f040c036",
+      "name_ja": "北見ヶ丘霊園",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.78588,
+      "lon": 143.906774,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.7
+    },
+    {
+      "slug": "p13-5ca46ab312",
+      "name_ja": "緑ヶ丘公園",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.824271,
+      "lon": 143.865985,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-7ef2f554f4",
+      "name_ja": "若葉緑地",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.809955,
+      "lon": 143.849467,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-93dd391cac",
+      "name_ja": "フラワーパラダイス",
+      "municipality": "北見市",
+      "operator": "北海道",
+      "lat": 43.791549,
+      "lon": 143.925796,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 28.8
+    },
+    {
+      "slug": "p13-7ebd10cb66",
+      "name_ja": "滝の上公園",
+      "municipality": "夕張市",
+      "operator": "北海道",
+      "lat": 42.913025,
+      "lon": 141.966178,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 24.7
+    },
+    {
+      "slug": "p13-983bb4f511",
+      "name_ja": "東山公園",
+      "municipality": "岩見沢市",
+      "operator": "北海道",
+      "lat": 43.193838,
+      "lon": 141.775589,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.0
+    },
+    {
+      "slug": "p13-0d9bd3622b",
+      "name_ja": "利根別自然公園",
+      "municipality": "岩見沢市",
+      "operator": "北海道",
+      "lat": 43.181422,
+      "lon": 141.781194,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.2
+    },
+    {
+      "slug": "p13-44069d8f28",
+      "name_ja": "いわみざわ公園",
+      "municipality": "岩見沢市",
+      "operator": "北海道",
+      "lat": 43.163696,
+      "lon": 141.787728,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 162.6
+    },
+    {
+      "slug": "p13-45485c646e",
+      "name_ja": "緑が丘霊園",
+      "municipality": "岩見沢市",
+      "operator": "北海道",
+      "lat": 43.175541,
+      "lon": 141.773963,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.2
+    },
+    {
+      "slug": "p13-b7022c4ee0",
+      "name_ja": "幾春別川リバーパーク",
+      "municipality": "岩見沢市",
+      "operator": "北海道",
+      "lat": 43.209751,
+      "lon": 141.762454,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-a9834f1b0f",
+      "name_ja": "利根別川河川緑地",
+      "municipality": "岩見沢市",
+      "operator": "北海道",
+      "lat": 43.195922,
+      "lon": 141.764872,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-f275505681",
+      "name_ja": "駒場公園",
+      "municipality": "網走市",
+      "operator": "北海道",
+      "lat": 44.001901,
+      "lon": 144.275725,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-0147e6289a",
+      "name_ja": "網走スポーツ・トレーニングフィールド",
+      "municipality": "網走市",
+      "operator": "北海道",
+      "lat": 43.964983,
+      "lon": 144.207059,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.6
+    },
+    {
+      "slug": "p13-c9ec46fdea",
+      "name_ja": "見晴公園",
+      "municipality": "留萌市",
+      "operator": "北海道",
+      "lat": 43.934005,
+      "lon": 141.647166,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-9478db4b5a",
+      "name_ja": "神居岩公園",
+      "municipality": "留萌市",
+      "operator": "北海道",
+      "lat": 43.944812,
+      "lon": 141.679333,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.4
+    },
+    {
+      "slug": "p13-4828420eee",
+      "name_ja": "市民文化公園",
+      "municipality": "苫小牧市",
+      "operator": "北海道",
+      "lat": 42.636505,
+      "lon": 141.611428,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-d8ecd09e75",
+      "name_ja": "高丘霊園",
+      "municipality": "苫小牧市",
+      "operator": "北海道",
+      "lat": 42.661628,
+      "lon": 141.594987,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-d8d9a34576",
+      "name_ja": "高丘第2霊園",
+      "municipality": "苫小牧市",
+      "operator": "北海道",
+      "lat": 42.676356,
+      "lon": 141.567385,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-9b570339c1",
+      "name_ja": "錦大沼公園",
+      "municipality": "苫小牧市",
+      "operator": "北海道",
+      "lat": 42.622413,
+      "lon": 141.451631,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 229.8
+    },
+    {
+      "slug": "p13-cbb0a1bfdd",
+      "name_ja": "ウトナイ緑地",
+      "municipality": "苫小牧市",
+      "operator": "北海道",
+      "lat": 42.695435,
+      "lon": 141.720467,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 510.2
+    },
+    {
+      "slug": "p13-f362dc47da",
+      "name_ja": "勇払海岸緑地",
+      "municipality": "苫小牧市",
+      "operator": "北海道",
+      "lat": 42.626196,
+      "lon": 141.723565,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 16.4
+    },
+    {
+      "slug": "p13-c47dd94b54",
+      "name_ja": "ノシャップ公園",
+      "municipality": "稚内市",
+      "operator": "北海道",
+      "lat": 45.444574,
+      "lon": 141.648067,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.4
+    },
+    {
+      "slug": "p13-3e8c6f06eb",
+      "name_ja": "稚内公園",
+      "municipality": "稚内市",
+      "operator": "北海道",
+      "lat": 45.420742,
+      "lon": 141.66711,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 45.2
+    },
+    {
+      "slug": "p13-57b89dcddd",
+      "name_ja": "みどり公園",
+      "municipality": "稚内市",
+      "operator": "北海道",
+      "lat": 45.38635,
+      "lon": 141.68123,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-7977a44c54",
+      "name_ja": "声問公園",
+      "municipality": "稚内市",
+      "operator": "北海道",
+      "lat": 45.402693,
+      "lon": 141.778182,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-a1dd24325f",
+      "name_ja": "稚内霊園",
+      "municipality": "稚内市",
+      "operator": "北海道",
+      "lat": 45.41504,
+      "lon": 141.669976,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-dcb0b280e7",
+      "name_ja": "東明公園",
+      "municipality": "美唄市",
+      "operator": "北海道",
+      "lat": 43.340654,
+      "lon": 141.895839,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.5
+    },
+    {
+      "slug": "p13-cc78f54193",
+      "name_ja": "旭ヶ丘公園",
+      "municipality": "芦別市",
+      "operator": "北海道",
+      "lat": 43.518846,
+      "lon": 142.202802,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.6
+    },
+    {
+      "slug": "p13-dfba3b3ec5",
+      "name_ja": "赤平公園",
+      "municipality": "赤平市",
+      "operator": "北海道",
+      "lat": 43.555065,
+      "lon": 142.039993,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-0e71779224",
+      "name_ja": "翠光苑",
+      "municipality": "赤平市",
+      "operator": "北海道",
+      "lat": 43.545518,
+      "lon": 142.080891,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-8153080753",
+      "name_ja": "紋別公園",
+      "municipality": "紋別市",
+      "operator": "北海道",
+      "lat": 44.355545,
+      "lon": 143.347749,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.1
+    },
+    {
+      "slug": "p13-2a7432ca2c",
+      "name_ja": "つくも水郷公園",
+      "municipality": "士別市",
+      "operator": "北海道",
+      "lat": 44.188816,
+      "lon": 142.405879,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.6
+    },
+    {
+      "slug": "p13-5692ed69c6",
+      "name_ja": "天塩川水郷緑地",
+      "municipality": "士別市",
+      "operator": "北海道",
+      "lat": 44.189902,
+      "lon": 142.403946,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 22.3
+    },
+    {
+      "slug": "p13-0080c2c0df",
+      "name_ja": "しべつ霊園",
+      "municipality": "士別市",
+      "operator": "北海道",
+      "lat": 44.162007,
+      "lon": 142.369542,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-c780bc9ed7",
+      "name_ja": "剣渕川緑地",
+      "municipality": "士別市",
+      "operator": "北海道",
+      "lat": 44.168468,
+      "lon": 142.377563,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 18.5
+    },
+    {
+      "slug": "p13-ea19b29580",
+      "name_ja": "名寄公園",
+      "municipality": "名寄市",
+      "operator": "北海道",
+      "lat": 44.34388,
+      "lon": 142.469138,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.9
+    },
+    {
+      "slug": "p13-935231925f",
+      "name_ja": "浅江島公園",
+      "municipality": "名寄市",
+      "operator": "北海道",
+      "lat": 44.353373,
+      "lon": 142.444812,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-c24628d4f9",
+      "name_ja": "天塩川さざなみ公園",
+      "municipality": "名寄市",
+      "operator": "北海道",
+      "lat": 44.294668,
+      "lon": 142.36678,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-cb8052e01f",
+      "name_ja": "明治公園",
+      "municipality": "根室市",
+      "operator": "北海道",
+      "lat": 43.335924,
+      "lon": 145.598054,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-78420fc73c",
+      "name_ja": "青葉公園",
+      "municipality": "千歳市",
+      "operator": "北海道",
+      "lat": 42.816692,
+      "lon": 141.634873,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 102.3
+    },
+    {
+      "slug": "p13-1161f5b41c",
+      "name_ja": "泉沢つつじヶ丘緑地",
+      "municipality": "千歳市",
+      "operator": "北海道",
+      "lat": 42.800863,
+      "lon": 141.607616,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-3d71b441b3",
+      "name_ja": "泉沢自然の森",
+      "municipality": "千歳市",
+      "operator": "北海道",
+      "lat": 42.78796,
+      "lon": 141.60574,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 71.8
+    },
+    {
+      "slug": "p13-18543556cd",
+      "name_ja": "長都駅前緑地",
+      "municipality": "千歳市",
+      "operator": "北海道",
+      "lat": 42.850202,
+      "lon": 141.626241,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-8de50554fd",
+      "name_ja": "文京緑地",
+      "municipality": "千歳市",
+      "operator": "北海道",
+      "lat": 42.778717,
+      "lon": 141.609362,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-da4a441ee2",
+      "name_ja": "滝川公園",
+      "municipality": "滝川市",
+      "operator": "北海道",
+      "lat": 43.546522,
+      "lon": 141.924839,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.8
+    },
+    {
+      "slug": "p13-d15555519f",
+      "name_ja": "池の前水上公園",
+      "municipality": "滝川市",
+      "operator": "北海道",
+      "lat": 43.588863,
+      "lon": 141.903462,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 34.8
+    },
+    {
+      "slug": "p13-0a976aa5f8",
+      "name_ja": "北光公園",
+      "municipality": "砂川市",
+      "operator": "北海道",
+      "lat": 43.503644,
+      "lon": 141.906482,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-c35c46c910",
+      "name_ja": "石狩川水系砂川緑地",
+      "municipality": "砂川市",
+      "operator": "北海道",
+      "lat": 43.505565,
+      "lon": 141.901636,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 78.1
+    },
+    {
+      "slug": "p13-85635002fa",
+      "name_ja": "神威岳自然公園",
+      "municipality": "歌志内市",
+      "operator": "北海道",
+      "lat": 43.519077,
+      "lon": 142.006155,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 27.0
+    },
+    {
+      "slug": "p13-dde6f5e9be",
+      "name_ja": "石狩緑地",
+      "municipality": "深川市",
+      "operator": "北海道",
+      "lat": 43.715579,
+      "lon": 142.047806,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 27.7
+    },
+    {
+      "slug": "p13-afbf62223f",
+      "name_ja": "鳥沼公園",
+      "municipality": "富良野市",
+      "operator": "北海道",
+      "lat": 43.341284,
+      "lon": 142.435834,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-71384f018f",
+      "name_ja": "朝日ヶ丘総合公園",
+      "municipality": "富良野市",
+      "operator": "北海道",
+      "lat": 43.340441,
+      "lon": 142.369521,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-a5cc34605d",
+      "name_ja": "金満緑地公園",
+      "municipality": "富良野市",
+      "operator": "北海道",
+      "lat": 43.369821,
+      "lon": 142.352517,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-494901d5ef",
+      "name_ja": "亀田記念公園",
+      "municipality": "登別市",
+      "operator": "北海道",
+      "lat": 42.386446,
+      "lon": 141.059265,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.3
+    },
+    {
+      "slug": "p13-bdb02814b4",
+      "name_ja": "登別ビーチパーク",
+      "municipality": "登別市",
+      "operator": "北海道",
+      "lat": 42.45532,
+      "lon": 141.183304,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-997ebd7ea6",
+      "name_ja": "川上公園",
+      "municipality": "登別市",
+      "operator": "北海道",
+      "lat": 42.4096,
+      "lon": 141.08594,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-f37ad6befa",
+      "name_ja": "漁川河川緑地",
+      "municipality": "恵庭市",
+      "operator": "北海道",
+      "lat": 42.883898,
+      "lon": 141.572759,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-5b55f3267f",
+      "name_ja": "恵み野中央公園",
+      "municipality": "恵庭市",
+      "operator": "北海道",
+      "lat": 42.909118,
+      "lon": 141.590179,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-ec033e442c",
+      "name_ja": "恵庭公園",
+      "municipality": "恵庭市",
+      "operator": "北海道",
+      "lat": 42.870484,
+      "lon": 141.578332,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 41.1
+    },
+    {
+      "slug": "p13-ab8e71e6a8",
+      "name_ja": "だて歴史の杜",
+      "municipality": "伊達市",
+      "operator": "北海道",
+      "lat": 42.472087,
+      "lon": 140.876559,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.7
+    },
+    {
+      "slug": "p13-a5ce7230ce",
+      "name_ja": "緑葉公園",
+      "municipality": "北広島市",
+      "operator": "北海道",
+      "lat": 42.969618,
+      "lon": 141.545619,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 47.8
+    },
+    {
+      "slug": "p13-e12884164a",
+      "name_ja": "第1周辺緑地",
+      "municipality": "北広島市",
+      "operator": "北海道",
+      "lat": 42.979823,
+      "lon": 141.553117,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-9525ce4b6c",
+      "name_ja": "第2周辺緑地",
+      "municipality": "北広島市",
+      "operator": "北海道",
+      "lat": 42.962414,
+      "lon": 141.5566,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-e90013b832",
+      "name_ja": "第3周辺緑地",
+      "municipality": "北広島市",
+      "operator": "北海道",
+      "lat": 42.956178,
+      "lon": 141.547348,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-1de39d87a4",
+      "name_ja": "北広島霊園",
+      "municipality": "北広島市",
+      "operator": "北海道",
+      "lat": 42.936115,
+      "lon": 141.453868,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-0560751bdc",
+      "name_ja": "はまなすの丘公園",
+      "municipality": "石狩市",
+      "operator": "北海道",
+      "lat": 43.258525,
+      "lon": 141.360825,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 45.3
+    },
+    {
+      "slug": "p13-ff0fd5b207",
+      "name_ja": "戸切地陣屋跡史跡公園",
+      "municipality": "北斗市",
+      "operator": "北海道",
+      "lat": 41.853858,
+      "lon": 140.62167,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-86d08f71b3",
+      "name_ja": "野崎公園",
+      "municipality": "北斗市",
+      "operator": "北海道",
+      "lat": 41.854196,
+      "lon": 140.625111,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-b7ac14a91e",
+      "name_ja": "八郎沼公園",
+      "municipality": "北斗市",
+      "operator": "北海道",
+      "lat": 41.890377,
+      "lon": 140.614557,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-eb9d32d46f",
+      "name_ja": "北斗市匠の森公園",
+      "municipality": "北斗市",
+      "operator": "北海道",
+      "lat": 41.907377,
+      "lon": 140.632069,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 118.2
+    },
+    {
+      "slug": "p13-6bc09c2998",
+      "name_ja": "展望公園",
+      "municipality": "松前郡福島町",
+      "operator": "北海道",
+      "lat": 41.491146,
+      "lon": 140.257385,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-ff6c29bc7c",
+      "name_ja": "青葉ヶ丘公園",
+      "municipality": "茅部郡森町",
+      "operator": "北海道",
+      "lat": 42.102278,
+      "lon": 140.575793,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.8
+    },
+    {
+      "slug": "p13-2a8cd8fed0",
+      "name_ja": "立岩公園",
+      "municipality": "二海郡八雲町",
+      "operator": "北海道",
+      "lat": 42.266425,
+      "lon": 140.226847,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-6983ecd51c",
+      "name_ja": "遊楽部河畔公園",
+      "municipality": "二海郡八雲町",
+      "operator": "北海道",
+      "lat": 42.260418,
+      "lon": 140.253534,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-7dd8c444f7",
+      "name_ja": "あやめ公園",
+      "municipality": "山越郡長万部町",
+      "operator": "北海道",
+      "lat": 42.52582,
+      "lon": 140.376665,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-a704812e47",
+      "name_ja": "松の岱公園",
+      "municipality": "檜山郡江差町",
+      "operator": "北海道",
+      "lat": 41.865204,
+      "lon": 140.133255,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-00bea9a2e0",
+      "name_ja": "今金総合公園",
+      "municipality": "瀬棚郡今金町",
+      "operator": "北海道",
+      "lat": 42.432537,
+      "lon": 140.016362,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-5e25a86871",
+      "name_ja": "旭ヶ丘公園",
+      "municipality": "虻田郡倶知安町",
+      "operator": "北海道",
+      "lat": 42.902119,
+      "lon": 140.736519,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 45.5
+    },
+    {
+      "slug": "p13-73ee1ba27e",
+      "name_ja": "百年の森公園",
+      "municipality": "虻田郡倶知安町",
+      "operator": "北海道",
+      "lat": 42.906156,
+      "lon": 140.78455,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-ecef6ed837",
+      "name_ja": "岩内町墓地公園",
+      "municipality": "岩内郡岩内町",
+      "operator": "北海道",
+      "lat": 42.969381,
+      "lon": 140.499182,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-c8239a79b9",
+      "name_ja": "いわないリゾートパーク",
+      "municipality": "岩内郡岩内町",
+      "operator": "北海道",
+      "lat": 42.946905,
+      "lon": 140.509165,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-81ac252f92",
+      "name_ja": "三重湖公園",
+      "municipality": "空知郡南幌町",
+      "operator": "北海道",
+      "lat": 43.084099,
+      "lon": 141.679707,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-ee61e96e1b",
+      "name_ja": "なんぽろリバーサイド公園",
+      "municipality": "空知郡南幌町",
+      "operator": "北海道",
+      "lat": 43.090253,
+      "lon": 141.680754,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.6
+    },
+    {
+      "slug": "p13-7666ea923d",
+      "name_ja": "三重緑地公園",
+      "municipality": "空知郡南幌町",
+      "operator": "北海道",
+      "lat": 43.09493,
+      "lon": 141.68271,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-507e745817",
+      "name_ja": "なんぽろ親水公園",
+      "municipality": "空知郡南幌町",
+      "operator": "北海道",
+      "lat": 43.069724,
+      "lon": 141.601965,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.0
+    },
+    {
+      "slug": "p13-45e8516151",
+      "name_ja": "長沼町総合公園",
+      "municipality": "夕張郡長沼町",
+      "operator": "北海道",
+      "lat": 43.004417,
+      "lon": 141.685883,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-bca20972b6",
+      "name_ja": "栗山公園",
+      "municipality": "夕張郡栗山町",
+      "operator": "北海道",
+      "lat": 43.067665,
+      "lon": 141.780649,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-144cb7a247",
+      "name_ja": "石狩徳富河川緑地",
+      "municipality": "樺戸郡新十津川町",
+      "operator": "北海道",
+      "lat": 43.55778,
+      "lon": 141.87134,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.2
+    },
+    {
+      "slug": "p13-7c1170ac63",
+      "name_ja": "上川公園",
+      "municipality": "上川郡上川町",
+      "operator": "北海道",
+      "lat": 43.853668,
+      "lon": 142.765926,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.7
+    },
+    {
+      "slug": "p13-b63fc2dc8b",
+      "name_ja": "千代田公園",
+      "municipality": "上川郡美瑛町",
+      "operator": "北海道",
+      "lat": 43.529916,
+      "lon": 142.488541,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-2d8ff97ce8",
+      "name_ja": "美馬牛の森公園",
+      "municipality": "上川郡美瑛町",
+      "operator": "北海道",
+      "lat": 43.535552,
+      "lon": 142.454172,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-a45a6547c4",
+      "name_ja": "聖台公園",
+      "municipality": "上川郡美瑛町",
+      "operator": "北海道",
+      "lat": 43.614436,
+      "lon": 142.521373,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-ce3ec9da92",
+      "name_ja": "暑寒公園",
+      "municipality": "増毛郡増毛町",
+      "operator": "北海道",
+      "lat": 43.848504,
+      "lon": 141.516965,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.2
+    },
+    {
+      "slug": "p13-b93ce3b9f7",
+      "name_ja": "網走川河畔公園",
+      "municipality": "網走郡美幌町",
+      "operator": "北海道",
+      "lat": 43.82216,
+      "lon": 144.08696,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 40.0
+    },
+    {
+      "slug": "p13-301dc94745",
+      "name_ja": "せせらぎ公園",
+      "municipality": "網走郡美幌町",
+      "operator": "北海道",
+      "lat": 43.819771,
+      "lon": 144.106522,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-895afb7a32",
+      "name_ja": "斜里町民公園",
+      "municipality": "斜里郡斜里町",
+      "operator": "北海道",
+      "lat": 43.912371,
+      "lon": 144.677328,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.6
+    },
+    {
+      "slug": "p13-fe522bef71",
+      "name_ja": "太陽の丘えんがる公園",
+      "municipality": "紋別郡遠軽町",
+      "operator": "北海道",
+      "lat": 44.059618,
+      "lon": 143.51309,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 63.7
+    },
+    {
+      "slug": "p13-e71ec251c1",
+      "name_ja": "滝上公園",
+      "municipality": "紋別郡滝上町",
+      "operator": "北海道",
+      "lat": 44.196951,
+      "lon": 143.078716,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-02bb8e7013",
+      "name_ja": "興部川河川緑地",
+      "municipality": "紋別郡興部町",
+      "operator": "北海道",
+      "lat": 44.469894,
+      "lon": 143.113675,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-a5c6d43cd6",
+      "name_ja": "宮の森公園",
+      "municipality": "紋別郡雄武町",
+      "operator": "北海道",
+      "lat": 44.580398,
+      "lon": 142.948661,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-c567bbc705",
+      "name_ja": "白老霊園",
+      "municipality": "白老郡白老町",
+      "operator": "北海道",
+      "lat": 42.599055,
+      "lon": 141.317941,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-4051edace4",
+      "name_ja": "萩の里自然公園",
+      "municipality": "白老郡白老町",
+      "operator": "北海道",
+      "lat": 42.534506,
+      "lon": 141.295258,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 160.2
+    },
+    {
+      "slug": "p13-2e75a80002",
+      "name_ja": "大沼フイッシングパ－ク",
+      "municipality": "勇払郡厚真町",
+      "operator": "北海道",
+      "lat": 42.637262,
+      "lon": 141.897231,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-39d994c6af",
+      "name_ja": "百年記念公園",
+      "municipality": "勇払郡厚真町",
+      "operator": "北海道",
+      "lat": 42.695427,
+      "lon": 141.88061,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.2
+    },
+    {
+      "slug": "p13-c4a0605e0f",
+      "name_ja": "浜厚真野原公園",
+      "municipality": "勇払郡厚真町",
+      "operator": "北海道",
+      "lat": 42.608847,
+      "lon": 141.840925,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-11b4ba3587",
+      "name_ja": "西山火口風致公園",
+      "municipality": "虻田郡洞爺湖町",
+      "operator": "北海道",
+      "lat": 42.557825,
+      "lon": 140.802377,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.4
+    },
+    {
+      "slug": "p13-6d19a22826",
+      "name_ja": "大師ケ丘公園",
+      "municipality": "勇払郡安平町",
+      "operator": "北海道",
+      "lat": 42.758985,
+      "lon": 141.818362,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-cac16afc04",
+      "name_ja": "まちの森",
+      "municipality": "勇払郡むかわ町",
+      "operator": "北海道",
+      "lat": 42.578598,
+      "lon": 141.914934,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-31ab54ddf1",
+      "name_ja": "潮見ヶ丘公園",
+      "municipality": "浦河郡浦河町",
+      "operator": "北海道",
+      "lat": 42.164524,
+      "lon": 142.7772,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-83776bfe47",
+      "name_ja": "常盤公園",
+      "municipality": "浦河郡浦河町",
+      "operator": "北海道",
+      "lat": 42.167059,
+      "lon": 142.785801,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-474c6ef807",
+      "name_ja": "真歌公園",
+      "municipality": "日高郡新ひだか町",
+      "operator": "北海道",
+      "lat": 42.330835,
+      "lon": 142.377751,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.3
+    },
+    {
+      "slug": "p13-bdec6301bc",
+      "name_ja": "鈴蘭公園",
+      "municipality": "河東郡音更町",
+      "operator": "北海道",
+      "lat": 42.945264,
+      "lon": 143.199739,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.9
+    },
+    {
+      "slug": "p13-4830562fd2",
+      "name_ja": "十勝が丘公園",
+      "municipality": "河東郡音更町",
+      "operator": "北海道",
+      "lat": 42.939459,
+      "lon": 143.300616,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-fc3c4e3e18",
+      "name_ja": "ひばりが丘緑地",
+      "municipality": "河東郡音更町",
+      "operator": "北海道",
+      "lat": 42.942723,
+      "lon": 143.227647,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-83fac97909",
+      "name_ja": "清水公園",
+      "municipality": "上川郡清水町",
+      "operator": "北海道",
+      "lat": 43.004032,
+      "lon": 142.874868,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 41.5
+    },
+    {
+      "slug": "p13-2e98b9195a",
+      "name_ja": "芽室公園",
+      "municipality": "河西郡芽室町",
+      "operator": "北海道",
+      "lat": 42.919483,
+      "lon": 143.047915,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.2
+    },
+    {
+      "slug": "p13-5f06d257b4",
+      "name_ja": "柏林公園",
+      "municipality": "広尾郡大樹町",
+      "operator": "北海道",
+      "lat": 42.498037,
+      "lon": 143.280543,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-c84959a83d",
+      "name_ja": "丸山公園",
+      "municipality": "広尾郡広尾町",
+      "operator": "北海道",
+      "lat": 42.289771,
+      "lon": 143.306354,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 47.8
+    },
+    {
+      "slug": "p13-6e37fee087",
+      "name_ja": "明野ヶ丘公園",
+      "municipality": "中川郡幕別町",
+      "operator": "北海道",
+      "lat": 42.894476,
+      "lon": 143.369638,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.0
+    },
+    {
+      "slug": "p13-1ae7286fab",
+      "name_ja": "依田公園",
+      "municipality": "中川郡幕別町",
+      "operator": "北海道",
+      "lat": 42.900404,
+      "lon": 143.255948,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-b5c9b99d2d",
+      "name_ja": "十勝川水系河川緑地",
+      "municipality": "中川郡幕別町",
+      "operator": "北海道",
+      "lat": 42.911831,
+      "lon": 143.357445,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 86.7
+    },
+    {
+      "slug": "p13-fa648d6c09",
+      "name_ja": "スマイルパーク",
+      "municipality": "中川郡幕別町",
+      "operator": "北海道",
+      "lat": 42.919327,
+      "lon": 143.270499,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.4
+    },
+    {
+      "slug": "p13-cd72474064",
+      "name_ja": "清見ヶ丘公園",
+      "municipality": "中川郡池田町",
+      "operator": "北海道",
+      "lat": 42.925754,
+      "lon": 143.456955,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.9
+    },
+    {
+      "slug": "p13-18c6e5034b",
+      "name_ja": "利別川緑地",
+      "municipality": "中川郡池田町",
+      "operator": "北海道",
+      "lat": 42.920339,
+      "lon": 143.447044,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-5ae05274ad",
+      "name_ja": "治水公園",
+      "municipality": "中川郡池田町",
+      "operator": "北海道",
+      "lat": 42.915818,
+      "lon": 143.453037,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-f7a57bf3aa",
+      "name_ja": "清見農村公園",
+      "municipality": "中川郡池田町",
+      "operator": "北海道",
+      "lat": 42.922245,
+      "lon": 143.45622,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-eaca443a55",
+      "name_ja": "本別公園",
+      "municipality": "中川郡本別町",
+      "operator": "北海道",
+      "lat": 43.125752,
+      "lon": 143.622539,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-f1751adf30",
+      "name_ja": "義経公園",
+      "municipality": "中川郡本別町",
+      "operator": "北海道",
+      "lat": 43.128888,
+      "lon": 143.626489,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-ea12309f36",
+      "name_ja": "里見が丘公園",
+      "municipality": "足寄郡足寄町",
+      "operator": "北海道",
+      "lat": 43.239801,
+      "lon": 143.538017,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.1
+    },
+    {
+      "slug": "p13-f04e68e299",
+      "name_ja": "別保公園",
+      "municipality": "釧路郡釧路町",
+      "operator": "北海道",
+      "lat": 42.993203,
+      "lon": 144.458461,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-ba2c1c8f09",
+      "name_ja": "釧路町森林公園",
+      "municipality": "釧路郡釧路町",
+      "operator": "北海道",
+      "lat": 42.991754,
+      "lon": 144.490682,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 260.3
+    },
+    {
+      "slug": "p13-a6d1f0bf91",
+      "name_ja": "子野日公園",
+      "municipality": "厚岸郡厚岸町",
+      "operator": "北海道",
+      "lat": 43.029149,
+      "lon": 144.860164,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.8
+    },
+    {
+      "slug": "p13-551c158e25",
+      "name_ja": "駒ヶ丘公園",
+      "municipality": "川上郡標茶町",
+      "operator": "北海道",
+      "lat": 43.305602,
+      "lon": 144.596354,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.7
+    },
+    {
+      "slug": "p13-c942e3c274",
+      "name_ja": "虹別公園",
+      "municipality": "川上郡標茶町",
+      "operator": "北海道",
+      "lat": 43.45733,
+      "lon": 144.65141,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-389ebcc260",
+      "name_ja": "水郷公園",
+      "municipality": "川上郡弟子屈町",
+      "operator": "北海道",
+      "lat": 43.489648,
+      "lon": 144.447227,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-b130d9a096",
+      "name_ja": "岬の森東山公園",
+      "municipality": "白糠郡白糠町",
+      "operator": "北海道",
+      "lat": 42.957002,
+      "lon": 144.083557,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 39.8
+    },
+    {
+      "slug": "p13-339cc0f042",
+      "name_ja": "坂の丘公園",
+      "municipality": "白糠郡白糠町",
+      "operator": "北海道",
+      "lat": 42.954147,
+      "lon": 144.062995,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-56255f8095",
+      "name_ja": "緑ヶ丘森林公園",
+      "municipality": "標津郡中標津町",
+      "operator": "北海道",
+      "lat": 43.561056,
+      "lon": 144.95856,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 56.6
+    }
+  ]
+}

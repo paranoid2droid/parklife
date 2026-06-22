@@ -25,10 +25,20 @@ def main() -> None:
                 (p.prefecture, p.slug),
             ).fetchone()
             if existing:
+                # COALESCE: never overwrite an existing value with a NULL from
+                # the seed. lat/lon/official_url (and others) are backfilled by
+                # later passes (geocode, official-URL discovery) and are absent
+                # from the seed files, so a plain overwrite would wipe them.
                 conn.execute(
-                    """UPDATE park SET name_ja=?, name_en=?, municipality=?,
-                                       operator=?, official_url=?, lat=?, lon=?
-                       WHERE id=?""",
+                    """UPDATE park
+                          SET name_ja=?,
+                              name_en=COALESCE(?, name_en),
+                              municipality=COALESCE(?, municipality),
+                              operator=COALESCE(?, operator),
+                              official_url=COALESCE(?, official_url),
+                              lat=COALESCE(?, lat),
+                              lon=COALESCE(?, lon)
+                        WHERE id=?""",
                     (p.name_ja, p.name_en, p.municipality, p.operator,
                      p.official_url, p.lat, p.lon, existing["id"]),
                 )

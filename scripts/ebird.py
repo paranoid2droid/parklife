@@ -135,9 +135,17 @@ def upsert_species(conn, sci_name: str, ja_name: str | None, en_name: str | None
 
 
 def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> int:
+    # Prefer the env var; fall back to a gitignored local key file so the
+    # autonomous queue (run_pending / launchd) can run eBird unattended
+    # without the secret ever entering git or the tracked plist.
     key = os.environ.get("EBIRD_API_KEY", "").strip()
     if not key:
-        print("error: EBIRD_API_KEY is required", file=sys.stderr)
+        key_file = ROOT / "data" / ".ebird_key"
+        if key_file.exists():
+            key = key_file.read_text(encoding="utf-8").strip()
+    if not key:
+        print("error: EBIRD_API_KEY (env) or data/.ebird_key is required",
+              file=sys.stderr)
         return 2
 
     db_path = ROOT / "data" / "parklife.db"
@@ -237,6 +245,6 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
 
 
 if __name__ == "__main__":
-    pref = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] in {"tokyo", "kanagawa", "chiba", "saitama"} else None
-    cap = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    pref = next((a for a in sys.argv[1:] if not a.isdigit()), None)
+    cap = next((int(a) for a in sys.argv[1:] if a.isdigit()), None)
     raise SystemExit(main(prefecture_filter=pref, max_parks=cap))

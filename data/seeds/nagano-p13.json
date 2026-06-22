@@ -1,0 +1,626 @@
+{
+  "prefecture": "nagano",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-860db1a81c",
+      "name_ja": "松本平広域公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.178061,
+      "lon": 137.917597,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 90.6
+    },
+    {
+      "slug": "p13-2e9a4c0460",
+      "name_ja": "長野県駒場公園",
+      "municipality": "佐久市",
+      "operator": "長野県",
+      "lat": 36.25489,
+      "lon": 138.485717,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-99eb36963a",
+      "name_ja": "烏川渓谷緑地",
+      "municipality": "安曇野市",
+      "operator": "長野県",
+      "lat": 36.313373,
+      "lon": 137.830653,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 49.7
+    },
+    {
+      "slug": "p13-32c75ad5d4",
+      "name_ja": "城山公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.662364,
+      "lon": 138.190715,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-ae27f36dc9",
+      "name_ja": "八幡原史跡公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.590083,
+      "lon": 138.187947,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-ae66ef6b6f",
+      "name_ja": "昭和の森公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.685041,
+      "lon": 138.234202,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-85f35e731b",
+      "name_ja": "茶臼山公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.585544,
+      "lon": 138.115448,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-b6942fad1e",
+      "name_ja": "茶臼山自然植物園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.585779,
+      "lon": 138.116059,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 33.0
+    },
+    {
+      "slug": "p13-1dcd214af5",
+      "name_ja": "ブランド薬師公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.687683,
+      "lon": 138.190847,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-e96ec4e695",
+      "name_ja": "地附山公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.67663,
+      "lon": 138.191115,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-63382f526f",
+      "name_ja": "犀川緑地",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.624653,
+      "lon": 138.168872,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-627aaa726b",
+      "name_ja": "犀川第二緑地",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.624727,
+      "lon": 138.188652,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 24.6
+    },
+    {
+      "slug": "p13-c38743cb72",
+      "name_ja": "豊野リバーサイドパーク",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.715996,
+      "lon": 138.305212,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-3b25896422",
+      "name_ja": "松本城公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.237988,
+      "lon": 137.968259,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-f50bfb3fa0",
+      "name_ja": "アルプス公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.261841,
+      "lon": 137.954597,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 71.1
+    },
+    {
+      "slug": "p13-a8f0f9d68e",
+      "name_ja": "中山墓園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.196094,
+      "lon": 137.993783,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 38.6
+    },
+    {
+      "slug": "p13-86413a23eb",
+      "name_ja": "弘法山古墳公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.212916,
+      "lon": 137.982984,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-9416489c10",
+      "name_ja": "松本平広域公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.166282,
+      "lon": 137.927957,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-6acdae553b",
+      "name_ja": "薄川緑地",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.229325,
+      "lon": 137.991425,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-e916f62258",
+      "name_ja": "女鳥羽川緑地",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.250672,
+      "lon": 137.981289,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-a6b5add2f8",
+      "name_ja": "上田城跡公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.404048,
+      "lon": 138.244313,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.8
+    },
+    {
+      "slug": "p13-5e791910fc",
+      "name_ja": "市民の森公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.402884,
+      "lon": 138.333037,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 60.0
+    },
+    {
+      "slug": "p13-f2efce3668",
+      "name_ja": "彩りの森公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.321063,
+      "lon": 138.265745,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.4
+    },
+    {
+      "slug": "p13-6e2da08f07",
+      "name_ja": "千曲川市民緑地",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.382969,
+      "lon": 138.263173,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-b199142788",
+      "name_ja": "塩嶺御野立公園",
+      "municipality": "岡谷市",
+      "operator": "長野県",
+      "lat": 36.088109,
+      "lon": 138.028411,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-a64b88d442",
+      "name_ja": "鳥居平やまびこ公園",
+      "municipality": "岡谷市",
+      "operator": "長野県",
+      "lat": 36.069432,
+      "lon": 138.02813,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-478d8bea41",
+      "name_ja": "岡谷湖畔公園",
+      "municipality": "岡谷市",
+      "operator": "長野県",
+      "lat": 36.052843,
+      "lon": 138.052669,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-ed4aad62c3",
+      "name_ja": "風越山麓公園",
+      "municipality": "飯田市",
+      "operator": "長野県",
+      "lat": 35.536407,
+      "lon": 137.813099,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 32.2
+    },
+    {
+      "slug": "p13-a69ea4ce2a",
+      "name_ja": "風越公園",
+      "municipality": "飯田市",
+      "operator": "長野県",
+      "lat": 35.524028,
+      "lon": 137.789803,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-9eee90c216",
+      "name_ja": "諏訪市湖畔公園",
+      "municipality": "諏訪市",
+      "operator": "長野県",
+      "lat": 36.048332,
+      "lon": 138.112191,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-0af75a5e16",
+      "name_ja": "蓼の海公園",
+      "municipality": "諏訪市",
+      "operator": "長野県",
+      "lat": 36.081271,
+      "lon": 138.133348,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.2
+    },
+    {
+      "slug": "p13-7d8d40e262",
+      "name_ja": "臥竜公園",
+      "municipality": "須坂市",
+      "operator": "長野県",
+      "lat": 36.644169,
+      "lon": 138.313879,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-32aac934ab",
+      "name_ja": "百々川緑地",
+      "municipality": "須坂市",
+      "operator": "長野県",
+      "lat": 36.638825,
+      "lon": 138.314741,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 17.4
+    },
+    {
+      "slug": "p13-e7bb2ea376",
+      "name_ja": "小諸公園",
+      "municipality": "小諸市",
+      "operator": "長野県",
+      "lat": 36.326975,
+      "lon": 138.418039,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-ec9c86d52c",
+      "name_ja": "乙女湖公園",
+      "municipality": "小諸市",
+      "operator": "長野県",
+      "lat": 36.309701,
+      "lon": 138.434239,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.3
+    },
+    {
+      "slug": "p13-67119f903d",
+      "name_ja": "飯綱山公園",
+      "municipality": "小諸市",
+      "operator": "長野県",
+      "lat": 36.343135,
+      "lon": 138.418885,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.4
+    },
+    {
+      "slug": "p13-faad657511",
+      "name_ja": "春日公園",
+      "municipality": "伊那市",
+      "operator": "長野県",
+      "lat": 35.836988,
+      "lon": 137.949297,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.5
+    },
+    {
+      "slug": "p13-bf04869f40",
+      "name_ja": "伊那公園",
+      "municipality": "伊那市",
+      "operator": "長野県",
+      "lat": 35.840835,
+      "lon": 137.970974,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-2ecaae9b53",
+      "name_ja": "駒ヶ根公園",
+      "municipality": "駒ヶ根市",
+      "operator": "長野県",
+      "lat": 35.739813,
+      "lon": 137.895384,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-c499fc9d8a",
+      "name_ja": "古城公園",
+      "municipality": "駒ヶ根市",
+      "operator": "長野県",
+      "lat": 35.730777,
+      "lon": 137.886563,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-0265f33969",
+      "name_ja": "北信濃ふるさとの森文化公園",
+      "municipality": "中野市",
+      "operator": "長野県",
+      "lat": 36.753104,
+      "lon": 138.341511,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-53297c3ede",
+      "name_ja": "永明寺山公園",
+      "municipality": "茅野市",
+      "operator": "長野県",
+      "lat": 36.010752,
+      "lon": 138.154903,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.0
+    },
+    {
+      "slug": "p13-5ef1ebca64",
+      "name_ja": "小坂田公園",
+      "municipality": "塩尻市",
+      "operator": "長野県",
+      "lat": 36.105609,
+      "lon": 137.985749,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.5
+    },
+    {
+      "slug": "p13-54a072a731",
+      "name_ja": "平尾山公園",
+      "municipality": "佐久市",
+      "operator": "長野県",
+      "lat": 36.279409,
+      "lon": 138.511944,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.6
+    },
+    {
+      "slug": "p13-b7fe5200e5",
+      "name_ja": "千曲橋緑地",
+      "municipality": "千曲市",
+      "operator": "長野県",
+      "lat": 36.532183,
+      "lon": 138.107969,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-5fd318b71a",
+      "name_ja": "上山田中央緑地",
+      "municipality": "千曲市",
+      "operator": "長野県",
+      "lat": 36.471736,
+      "lon": 138.150624,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-57fa48a6fc",
+      "name_ja": "大西緑地公園",
+      "municipality": "千曲市",
+      "operator": "長野県",
+      "lat": 36.495878,
+      "lon": 138.141608,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-b4beff77ef",
+      "name_ja": "戸倉宿キティパーク",
+      "municipality": "千曲市",
+      "operator": "長野県",
+      "lat": 36.495026,
+      "lon": 138.157712,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-bd777b06c5",
+      "name_ja": "東御中央公園",
+      "municipality": "東御市",
+      "operator": "長野県",
+      "lat": 36.362682,
+      "lon": 138.348166,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.3
+    },
+    {
+      "slug": "p13-a664c017f5",
+      "name_ja": "南部総合",
+      "municipality": "安曇野市",
+      "operator": "長野県",
+      "lat": 36.274629,
+      "lon": 137.919816,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-06bb93a850",
+      "name_ja": "風越公園",
+      "municipality": "北佐久郡軽井沢町",
+      "operator": "長野県",
+      "lat": 36.322872,
+      "lon": 138.597507,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-83dc4754e3",
+      "name_ja": "離山公園",
+      "municipality": "北佐久郡軽井沢町",
+      "operator": "長野県",
+      "lat": 36.35347,
+      "lon": 138.613165,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 99.4
+    },
+    {
+      "slug": "p13-c13d952fd7",
+      "name_ja": "湯川ふるさと公園",
+      "municipality": "北佐久郡軽井沢町",
+      "operator": "長野県",
+      "lat": 36.339432,
+      "lon": 138.595311,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-bc1306da3e",
+      "name_ja": "下諏訪公園",
+      "municipality": "諏訪郡下諏訪町",
+      "operator": "長野県",
+      "lat": 36.068603,
+      "lon": 138.08029,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-2ac2839f71",
+      "name_ja": "いずみ湖公園",
+      "municipality": "諏訪郡下諏訪町",
+      "operator": "長野県",
+      "lat": 36.083148,
+      "lon": 138.128046,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 40.4
+    },
+    {
+      "slug": "p13-e5ad42c932",
+      "name_ja": "大芝公園",
+      "municipality": "上伊那郡南箕輪村",
+      "operator": "長野県",
+      "lat": 35.886354,
+      "lon": 137.945096,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 51.6
+    },
+    {
+      "slug": "p13-1f6a9c23c5",
+      "name_ja": "天の中川河川公園",
+      "municipality": "上伊那郡中川村",
+      "operator": "長野県",
+      "lat": 35.629007,
+      "lon": 137.929283,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-004167880a",
+      "name_ja": "陣馬形の森公園",
+      "municipality": "上伊那郡中川村",
+      "operator": "長野県",
+      "lat": 35.672629,
+      "lon": 137.983451,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 33.1
+    },
+    {
+      "slug": "p13-767a3066c2",
+      "name_ja": "宮田村総合公園ふれあい広場",
+      "municipality": "上伊那郡宮田村",
+      "operator": "長野県",
+      "lat": 35.751721,
+      "lon": 137.913024,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-5d6356f3a8",
+      "name_ja": "あづみ野池田クラフトパーク",
+      "municipality": "北安曇郡池田町",
+      "operator": "長野県",
+      "lat": 36.384852,
+      "lon": 137.895542,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.7
+    },
+    {
+      "slug": "p13-0e0789f8f7",
+      "name_ja": "千曲川河川公園",
+      "municipality": "上高井郡小布施町",
+      "operator": "長野県",
+      "lat": 36.702539,
+      "lon": 138.30114,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-e335c800a2",
+      "name_ja": "小布施総合公園",
+      "municipality": "上高井郡小布施町",
+      "operator": "長野県",
+      "lat": 36.688973,
+      "lon": 138.295036,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.6
+    }
+  ]
+}

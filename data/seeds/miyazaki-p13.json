@@ -1,0 +1,426 @@
+{
+  "prefecture": "miyazaki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d7116f96aa",
+      "name_ja": "宮崎県総合文化公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.934271,
+      "lon": 131.418771,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-265dae7988",
+      "name_ja": "宮崎県総合運動公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.825711,
+      "lon": 131.449349,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 102.2
+    },
+    {
+      "slug": "p13-ce1bf70bbe",
+      "name_ja": "県立阿波岐原森林公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.947628,
+      "lon": 131.470457,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 180.2
+    },
+    {
+      "slug": "p13-dfdbe36b58",
+      "name_ja": "県立平和台公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.949531,
+      "lon": 131.414538,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.5
+    },
+    {
+      "slug": "p13-9554c30b83",
+      "name_ja": "特別史跡公園西都原古墳群",
+      "municipality": "西都市",
+      "operator": "宮崎県",
+      "lat": 32.117566,
+      "lon": 131.390963,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 62.1
+    },
+    {
+      "slug": "p13-afe129388f",
+      "name_ja": "天ヶ城運動公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.960931,
+      "lon": 131.29273,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-efe7720e0e",
+      "name_ja": "久峰総合公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 32.022084,
+      "lon": 131.461186,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.0
+    },
+    {
+      "slug": "p13-6e1dfce346",
+      "name_ja": "萩の台公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.994691,
+      "lon": 131.431967,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.5
+    },
+    {
+      "slug": "p13-e2668fefc5",
+      "name_ja": "垂水公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.990503,
+      "lon": 131.405044,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-3438d14ba1",
+      "name_ja": "蓮ヶ池史跡公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.97005,
+      "lon": 131.446727,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.0
+    },
+    {
+      "slug": "p13-8fe93a00bc",
+      "name_ja": "大淀川市民緑地",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.894198,
+      "lon": 131.440068,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 83.5
+    },
+    {
+      "slug": "p13-40bc2ea371",
+      "name_ja": "宮崎みたま園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.970741,
+      "lon": 131.423704,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 36.7
+    },
+    {
+      "slug": "p13-92c14513c8",
+      "name_ja": "大塚台緑地",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.919304,
+      "lon": 131.385272,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-52c0cd27f9",
+      "name_ja": "生目台緑地",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.901058,
+      "lon": 131.370892,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 27.1
+    },
+    {
+      "slug": "p13-4a9e6cd548",
+      "name_ja": "生目古墳群史跡公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.948157,
+      "lon": 131.385269,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.0
+    },
+    {
+      "slug": "p13-fe302240d7",
+      "name_ja": "木原河川緑地",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.851713,
+      "lon": 131.407548,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 25.8
+    },
+    {
+      "slug": "p13-9ce425c152",
+      "name_ja": "早水公園",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.737494,
+      "lon": 131.095755,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.0
+    },
+    {
+      "slug": "p13-09d506b878",
+      "name_ja": "母智丘関之尾公園",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.755827,
+      "lon": 130.991968,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-15334f3ab5",
+      "name_ja": "高崎総合公園",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.882544,
+      "lon": 131.066529,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 53.4
+    },
+    {
+      "slug": "p13-cc2e1221b9",
+      "name_ja": "観音池公園",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.825458,
+      "lon": 131.137478,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 63.3
+    },
+    {
+      "slug": "p13-43f9b62590",
+      "name_ja": "金御岳公園",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.664301,
+      "lon": 131.077358,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 49.0
+    },
+    {
+      "slug": "p13-81be2f221b",
+      "name_ja": "山之口あじさい公園",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.773132,
+      "lon": 131.156241,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-cc50c46856",
+      "name_ja": "沖水川市民緑地",
+      "municipality": "都城市",
+      "operator": "宮崎県",
+      "lat": 31.749711,
+      "lon": 131.074645,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 60.9
+    },
+    {
+      "slug": "p13-43ede88b2d",
+      "name_ja": "今山公園",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.587838,
+      "lon": 131.668401,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-60a20e9329",
+      "name_ja": "城山公園",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.580608,
+      "lon": 131.662454,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-b53a48567d",
+      "name_ja": "延岡植物園",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.573284,
+      "lon": 131.611542,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-15026dc0be",
+      "name_ja": "愛宕山公園",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.562171,
+      "lon": 131.669432,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.0
+    },
+    {
+      "slug": "p13-187d2a91c5",
+      "name_ja": "第1五ヶ瀬川市民緑地",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.583635,
+      "lon": 131.663961,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 24.9
+    },
+    {
+      "slug": "p13-659c48cc44",
+      "name_ja": "第2五ヶ瀬川市民緑地",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.566827,
+      "lon": 131.627093,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 18.8
+    },
+    {
+      "slug": "p13-f69fd2697c",
+      "name_ja": "中央公園",
+      "municipality": "日南市",
+      "operator": "宮崎県",
+      "lat": 31.542039,
+      "lon": 131.373581,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-9f91405d84",
+      "name_ja": "お倉ヶ浜総合公園",
+      "municipality": "日向市",
+      "operator": "宮崎県",
+      "lat": 32.395846,
+      "lon": 131.633098,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-734efc9c40",
+      "name_ja": "城山墓地公園",
+      "municipality": "日向市",
+      "operator": "宮崎県",
+      "lat": 32.417779,
+      "lon": 131.609143,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-d904883fa4",
+      "name_ja": "福島川河川緑地公園",
+      "municipality": "串間市",
+      "operator": "宮崎県",
+      "lat": 31.453076,
+      "lon": 131.233812,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-2802aff8ce",
+      "name_ja": "串間市総合運動公園",
+      "municipality": "串間市",
+      "operator": "宮崎県",
+      "lat": 31.468257,
+      "lon": 131.21923,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-d7a154fc1a",
+      "name_ja": "清水台公園",
+      "municipality": "西都市",
+      "operator": "宮崎県",
+      "lat": 32.105071,
+      "lon": 131.379166,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.1
+    },
+    {
+      "slug": "p13-3360d39874",
+      "name_ja": "上米公園",
+      "municipality": "北諸県郡三股町",
+      "operator": "宮崎県",
+      "lat": 31.725599,
+      "lon": 131.136907,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.3
+    },
+    {
+      "slug": "p13-1415837790",
+      "name_ja": "錦原公園",
+      "municipality": "東諸県郡綾町",
+      "operator": "宮崎県",
+      "lat": 32.001899,
+      "lon": 131.247183,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-97068118aa",
+      "name_ja": "舞鶴公園",
+      "municipality": "児湯郡高鍋町",
+      "operator": "宮崎県",
+      "lat": 32.122972,
+      "lon": 131.501408,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-4178713841",
+      "name_ja": "湖水ヶ池公園",
+      "municipality": "児湯郡新富町",
+      "operator": "宮崎県",
+      "lat": 32.079105,
+      "lon": 131.512225,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-308551a311",
+      "name_ja": "藤見公園",
+      "municipality": "児湯郡都農町",
+      "operator": "宮崎県",
+      "lat": 32.266776,
+      "lon": 131.556738,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-604662aa5c",
+      "name_ja": "門川海浜総合公園",
+      "municipality": "東臼杵郡門川町",
+      "operator": "宮崎県",
+      "lat": 32.483451,
+      "lon": 131.663998,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-f2f375d941",
+      "name_ja": "高千穂町総合公園",
+      "municipality": "西臼杵郡高千穂町",
+      "operator": "宮崎県",
+      "lat": 32.715607,
+      "lon": 131.301255,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    }
+  ]
+}

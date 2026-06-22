@@ -1,0 +1,926 @@
+{
+  "prefecture": "aichi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-75878925f9",
+      "name_ja": "あいち健康の森公園",
+      "municipality": "大府市",
+      "operator": "愛知県",
+      "lat": 34.998924,
+      "lon": 136.9474,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 48.1
+    },
+    {
+      "slug": "p13-1b82605060",
+      "name_ja": "小幡緑地",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.209567,
+      "lon": 136.975275,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 76.2
+    },
+    {
+      "slug": "p13-7af13744e1",
+      "name_ja": "大高緑地",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.062531,
+      "lon": 136.953629,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 99.9
+    },
+    {
+      "slug": "p13-67e5441526",
+      "name_ja": "牧野ヶ池緑地",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.14361,
+      "lon": 137.000644,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 147.1
+    },
+    {
+      "slug": "p13-2bfb07aa02",
+      "name_ja": "木曽川祖父江緑地",
+      "municipality": "稲沢市",
+      "operator": "愛知県",
+      "lat": 35.261446,
+      "lon": 136.705612,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-36a684b544",
+      "name_ja": "新城総合公園",
+      "municipality": "新城市",
+      "operator": "愛知県",
+      "lat": 34.935821,
+      "lon": 137.538266,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 64.3
+    },
+    {
+      "slug": "p13-0017b12457",
+      "name_ja": "東三河ふるさと公園",
+      "municipality": "豊川市",
+      "operator": "愛知県",
+      "lat": 34.841046,
+      "lon": 137.311838,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 124.3
+    },
+    {
+      "slug": "p13-d69f466577",
+      "name_ja": "愛・地球博記念公園",
+      "municipality": "愛知郡長久手町",
+      "operator": "愛知県",
+      "lat": 35.180166,
+      "lon": 137.082786,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 114.8
+    },
+    {
+      "slug": "p13-6f3636158c",
+      "name_ja": "東山公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.154677,
+      "lon": 136.980874,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 118.4
+    },
+    {
+      "slug": "p13-f858003a22",
+      "name_ja": "平和公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.172518,
+      "lon": 136.979809,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 40.8
+    },
+    {
+      "slug": "p13-239b69573d",
+      "name_ja": "庄内緑地",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.212666,
+      "lon": 136.884404,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 47.4
+    },
+    {
+      "slug": "p13-5c88087704",
+      "name_ja": "名城公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.188692,
+      "lon": 136.903732,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 76.2
+    },
+    {
+      "slug": "p13-16a961e9ce",
+      "name_ja": "久屋大通公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.17266,
+      "lon": 136.908378,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.7
+    },
+    {
+      "slug": "p13-bac0e15172",
+      "name_ja": "若宮大通公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.162495,
+      "lon": 136.903074,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-f960900c1f",
+      "name_ja": "鶴舞公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.156474,
+      "lon": 136.921773,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.1
+    },
+    {
+      "slug": "p13-c0fa0ffabd",
+      "name_ja": "荒子川公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.099257,
+      "lon": 136.861624,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.1
+    },
+    {
+      "slug": "p13-e10add7a11",
+      "name_ja": "戸田川緑地",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.115474,
+      "lon": 136.8126,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.6
+    },
+    {
+      "slug": "p13-530408eb1e",
+      "name_ja": "猪高緑地",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.166673,
+      "lon": 137.020801,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-1bed3a8f97",
+      "name_ja": "天白公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.116342,
+      "lon": 136.988187,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-5fafa9ab91",
+      "name_ja": "高師緑地",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.730701,
+      "lon": 137.384936,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.6
+    },
+    {
+      "slug": "p13-7ca023c7e1",
+      "name_ja": "豊橋公園",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.770088,
+      "lon": 137.395604,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.6
+    },
+    {
+      "slug": "p13-75d7853e28",
+      "name_ja": "幸公園",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.739025,
+      "lon": 137.409339,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-0308ee0e42",
+      "name_ja": "向山緑地",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.754228,
+      "lon": 137.39778,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.1
+    },
+    {
+      "slug": "p13-e7ee7da13b",
+      "name_ja": "赤岩山緑地",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.764768,
+      "lon": 137.446169,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 32.7
+    },
+    {
+      "slug": "p13-7d54932006",
+      "name_ja": "岩屋緑地",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.730049,
+      "lon": 137.43214,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.6
+    },
+    {
+      "slug": "p13-9159f22fa9",
+      "name_ja": "高塚緑地",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.662701,
+      "lon": 137.393121,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 25.8
+    },
+    {
+      "slug": "p13-9ef76fe5a6",
+      "name_ja": "豊橋総合動植物公園",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.721099,
+      "lon": 137.432117,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 39.6
+    },
+    {
+      "slug": "p13-497fad07c8",
+      "name_ja": "万場緑地",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.6711,
+      "lon": 137.349901,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-34243b0644",
+      "name_ja": "利兵池公園",
+      "municipality": "豊橋市",
+      "operator": "愛知県",
+      "lat": 34.752605,
+      "lon": 137.444041,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-228107ad18",
+      "name_ja": "東公園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.952704,
+      "lon": 137.191866,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.9
+    },
+    {
+      "slug": "p13-c7f4a9d17f",
+      "name_ja": "南公園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.915659,
+      "lon": 137.164437,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.8
+    },
+    {
+      "slug": "p13-c6aca7eabe",
+      "name_ja": "村積山自然公園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 35.021073,
+      "lon": 137.197217,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-f043fe7686",
+      "name_ja": "岡崎公園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.956859,
+      "lon": 137.160273,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-4c496c0eaf",
+      "name_ja": "岡崎墓園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.962006,
+      "lon": 137.23331,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-bd2f575d98",
+      "name_ja": "岡崎中央総合公園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.947482,
+      "lon": 137.212737,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 104.5
+    },
+    {
+      "slug": "p13-8ddfc8e6e8",
+      "name_ja": "葵緑地",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.923172,
+      "lon": 137.221417,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-eb21a34285",
+      "name_ja": "乙川河川緑地",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.954318,
+      "lon": 137.158522,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.0
+    },
+    {
+      "slug": "p13-23cdc7af39",
+      "name_ja": "東部緑地",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.907068,
+      "lon": 137.265639,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-d5b7a36037",
+      "name_ja": "花園緑地",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 35.004632,
+      "lon": 137.194954,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-c440a61a72",
+      "name_ja": "美矢井橋河川緑地",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.920898,
+      "lon": 137.116992,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 17.8
+    },
+    {
+      "slug": "p13-0246bbfaa7",
+      "name_ja": "渡橋河川緑地",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.936994,
+      "lon": 137.14451,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-5f239ca83b",
+      "name_ja": "大野極楽寺公園",
+      "municipality": "一宮市",
+      "operator": "愛知県",
+      "lat": 35.354223,
+      "lon": 136.822826,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 38.4
+    },
+    {
+      "slug": "p13-cfb4646a15",
+      "name_ja": "木曽川緑地公園",
+      "municipality": "一宮市",
+      "operator": "愛知県",
+      "lat": 35.334597,
+      "lon": 136.753097,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-70abce7750",
+      "name_ja": "木曽川尾西緑地",
+      "municipality": "一宮市",
+      "operator": "愛知県",
+      "lat": 35.292902,
+      "lon": 136.728336,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-b980e3d9c2",
+      "name_ja": "南公園",
+      "municipality": "瀬戸市",
+      "operator": "愛知県",
+      "lat": 35.218361,
+      "lon": 137.099215,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.4
+    },
+    {
+      "slug": "p13-e05224d92d",
+      "name_ja": "東公園",
+      "municipality": "瀬戸市",
+      "operator": "愛知県",
+      "lat": 35.219537,
+      "lon": 137.112329,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.5
+    },
+    {
+      "slug": "p13-f6f3bca09d",
+      "name_ja": "陶祖公園",
+      "municipality": "瀬戸市",
+      "operator": "愛知県",
+      "lat": 35.23039,
+      "lon": 137.107496,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-4d23f0d66e",
+      "name_ja": "落合公園",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.268642,
+      "lon": 136.989354,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.0
+    },
+    {
+      "slug": "p13-a5404257a1",
+      "name_ja": "高森山公園",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.291796,
+      "lon": 137.052466,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-39d7ed8b9a",
+      "name_ja": "春日井市都市緑化植物園",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.303272,
+      "lon": 137.057323,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.8
+    },
+    {
+      "slug": "p13-87ef9f2e53",
+      "name_ja": "潮見坂墓園",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.283072,
+      "lon": 137.0064,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 32.5
+    },
+    {
+      "slug": "p13-7b3f68fd4e",
+      "name_ja": "高森台西緑地",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.292528,
+      "lon": 137.041014,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-80274f23b0",
+      "name_ja": "内津川緑地",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.243582,
+      "lon": 136.992318,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 40.0
+    },
+    {
+      "slug": "p13-5151e12ccb",
+      "name_ja": "赤塚山公園",
+      "municipality": "豊川市",
+      "operator": "愛知県",
+      "lat": 34.846926,
+      "lon": 137.35985,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.1
+    },
+    {
+      "slug": "p13-11525a8374",
+      "name_ja": "天王川公園",
+      "municipality": "津島市",
+      "operator": "愛知県",
+      "lat": 35.173651,
+      "lon": 136.721284,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.6
+    },
+    {
+      "slug": "p13-82014aa30e",
+      "name_ja": "碧南市臨海公園",
+      "municipality": "碧南市",
+      "operator": "愛知県",
+      "lat": 34.877008,
+      "lon": 136.980077,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-7374e0c4e1",
+      "name_ja": "亀城公園",
+      "municipality": "刈谷市",
+      "operator": "愛知県",
+      "lat": 34.988868,
+      "lon": 136.984601,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-e2aa2be0c3",
+      "name_ja": "洲原公園",
+      "municipality": "刈谷市",
+      "operator": "愛知県",
+      "lat": 35.056905,
+      "lon": 137.053256,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.3
+    },
+    {
+      "slug": "p13-4a30de03bd",
+      "name_ja": "岩ケ池公園",
+      "municipality": "刈谷市",
+      "operator": "愛知県",
+      "lat": 35.04272,
+      "lon": 137.046859,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-4fefd0d4b9",
+      "name_ja": "逢妻川緑地",
+      "municipality": "刈谷市",
+      "operator": "愛知県",
+      "lat": 35.020655,
+      "lon": 137.009544,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.8
+    },
+    {
+      "slug": "p13-2fa0a44d31",
+      "name_ja": "鞍ケ池緑地",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.098568,
+      "lon": 137.216772,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 95.3
+    },
+    {
+      "slug": "p13-897994d196",
+      "name_ja": "西山公園",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.104228,
+      "lon": 137.155149,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-b2e69b62bf",
+      "name_ja": "五ケ丘緑地",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.061439,
+      "lon": 137.186083,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 34.4
+    },
+    {
+      "slug": "p13-e46534d923",
+      "name_ja": "乙部緑地",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.157395,
+      "lon": 137.142453,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.7
+    },
+    {
+      "slug": "p13-5ae19b6ba7",
+      "name_ja": "古瀬間墓地公園",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.076031,
+      "lon": 137.217154,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 30.6
+    },
+    {
+      "slug": "p13-c00200c28f",
+      "name_ja": "矢作緑地",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.081766,
+      "lon": 137.165412,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 72.1
+    },
+    {
+      "slug": "p13-90f9405166",
+      "name_ja": "毘森公園",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.089328,
+      "lon": 137.148621,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-5115f6a141",
+      "name_ja": "八ツ面山公園",
+      "municipality": "西尾市",
+      "operator": "愛知県",
+      "lat": 34.875691,
+      "lon": 137.07819,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-d91725b8ce",
+      "name_ja": "古川緑地",
+      "municipality": "西尾市",
+      "operator": "愛知県",
+      "lat": 34.878428,
+      "lon": 137.086014,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-14a07976e7",
+      "name_ja": "中央公園",
+      "municipality": "蒲郡市",
+      "operator": "愛知県",
+      "lat": 34.837725,
+      "lon": 137.22874,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-dadf81f99d",
+      "name_ja": "木曽川犬山緑地",
+      "municipality": "犬山市",
+      "operator": "愛知県",
+      "lat": 35.379517,
+      "lon": 136.930008,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-108be308f3",
+      "name_ja": "桧原公園",
+      "municipality": "常滑市",
+      "operator": "愛知県",
+      "lat": 34.8622,
+      "lon": 136.880925,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.7
+    },
+    {
+      "slug": "p13-9212f45c24",
+      "name_ja": "江南緑地公園（草井）",
+      "municipality": "江南市",
+      "operator": "愛知県",
+      "lat": 35.373318,
+      "lon": 136.881773,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-05b3533088",
+      "name_ja": "市民四季の森",
+      "municipality": "小牧市",
+      "operator": "愛知県",
+      "lat": 35.311543,
+      "lon": 137.00432,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.8
+    },
+    {
+      "slug": "p13-a549c1074e",
+      "name_ja": "大府みどり公園",
+      "municipality": "大府市",
+      "operator": "愛知県",
+      "lat": 35.039779,
+      "lon": 136.985777,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-25f5a34712",
+      "name_ja": "二ツ池公園",
+      "municipality": "大府市",
+      "operator": "愛知県",
+      "lat": 35.027865,
+      "lon": 136.974526,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-7dc6bb8f36",
+      "name_ja": "知北墓園",
+      "municipality": "大府市",
+      "operator": "愛知県",
+      "lat": 34.980043,
+      "lon": 136.922487,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-44e50aada0",
+      "name_ja": "佐布里緑と花のふれあい公園",
+      "municipality": "知多市",
+      "operator": "愛知県",
+      "lat": 34.96683,
+      "lon": 136.889195,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-5ce1dd29e5",
+      "name_ja": "知多墓園",
+      "municipality": "知多市",
+      "operator": "愛知県",
+      "lat": 34.946928,
+      "lon": 136.87388,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-8961f95e08",
+      "name_ja": "城山公園",
+      "municipality": "尾張旭市",
+      "operator": "愛知県",
+      "lat": 35.218908,
+      "lon": 137.027415,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-c957670f0e",
+      "name_ja": "滝頭公園",
+      "municipality": "田原市",
+      "operator": "愛知県",
+      "lat": 34.669811,
+      "lon": 137.244855,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-94ecfc29db",
+      "name_ja": "白谷海浜公園",
+      "municipality": "田原市",
+      "operator": "愛知県",
+      "lat": 34.685271,
+      "lon": 137.233005,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-187bfac4c9",
+      "name_ja": "緑が浜緑地",
+      "municipality": "田原市",
+      "operator": "愛知県",
+      "lat": 34.694107,
+      "lon": 137.292894,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-b7a2dc5265",
+      "name_ja": "尾張大橋緑地",
+      "municipality": "弥富市",
+      "operator": "愛知県",
+      "lat": 35.105091,
+      "lon": 136.717532,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-ae05b2966c",
+      "name_ja": "三好公園",
+      "municipality": "みよし市",
+      "operator": "愛知県",
+      "lat": 35.092866,
+      "lon": 137.08777,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.8
+    },
+    {
+      "slug": "p13-9678cd6e5a",
+      "name_ja": "境川緑地",
+      "municipality": "みよし市",
+      "operator": "愛知県",
+      "lat": 35.081771,
+      "lon": 137.051602,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-8f066acb52",
+      "name_ja": "三好丘緑地",
+      "municipality": "みよし市",
+      "operator": "愛知県",
+      "lat": 35.124715,
+      "lon": 137.115429,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-68e93243d1",
+      "name_ja": "卯塚墓園",
+      "municipality": "愛知郡長久手町",
+      "operator": "愛知県",
+      "lat": 35.162053,
+      "lon": 137.034459,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-8c323b382d",
+      "name_ja": "木曽川扶桑緑地公園",
+      "municipality": "丹羽郡扶桑町",
+      "operator": "愛知県",
+      "lat": 35.374654,
+      "lon": 136.899312,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-77db144a06",
+      "name_ja": "於大公園",
+      "municipality": "知多郡東浦町",
+      "operator": "愛知県",
+      "lat": 34.977061,
+      "lon": 136.961783,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-ebdcbb90a9",
+      "name_ja": "美浜町総合公園",
+      "municipality": "知多郡美浜町",
+      "operator": "愛知県",
+      "lat": 34.795196,
+      "lon": 136.887201,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-5b0e6c4752",
+      "name_ja": "やすらぎの森墓園",
+      "municipality": "知多郡武豊町",
+      "operator": "愛知県",
+      "lat": 34.833392,
+      "lon": 136.886188,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.0
+    }
+  ]
+}

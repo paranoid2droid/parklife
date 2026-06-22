@@ -1,0 +1,316 @@
+{
+  "prefecture": "okinawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d4336876a9",
+      "name_ja": "中城公園",
+      "municipality": "中頭郡中城村",
+      "operator": "沖縄県",
+      "lat": 26.281451,
+      "lon": 127.796019,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-52d9bcfd94",
+      "name_ja": "沖縄県総合運動公園",
+      "municipality": "沖縄市",
+      "operator": "沖縄県",
+      "lat": 26.310862,
+      "lon": 127.821394,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 60.5
+    },
+    {
+      "slug": "p13-781231c669",
+      "name_ja": "名護中央公園",
+      "municipality": "名護市",
+      "operator": "沖縄県",
+      "lat": 26.591371,
+      "lon": 127.998801,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 59.0
+    },
+    {
+      "slug": "p13-f1ce0efde1",
+      "name_ja": "平和祈念公園",
+      "municipality": "糸満市",
+      "operator": "沖縄県",
+      "lat": 26.095669,
+      "lon": 127.724498,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 39.6
+    },
+    {
+      "slug": "p13-a73e0819e0",
+      "name_ja": "バンナ公園",
+      "municipality": "石垣市",
+      "operator": "沖縄県",
+      "lat": 24.378599,
+      "lon": 124.164119,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 208.5
+    },
+    {
+      "slug": "p13-8d293a578e",
+      "name_ja": "浦添大公園",
+      "municipality": "浦添市",
+      "operator": "沖縄県",
+      "lat": 26.251581,
+      "lon": 127.730101,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-4ee742a1f1",
+      "name_ja": "識名公園",
+      "municipality": "那覇市",
+      "operator": "沖縄県",
+      "lat": 26.203254,
+      "lon": 127.716381,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-be0c187e31",
+      "name_ja": "新都心公園",
+      "municipality": "那覇市",
+      "operator": "沖縄県",
+      "lat": 26.228955,
+      "lon": 127.695797,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-311c80ad9e",
+      "name_ja": "末吉公園",
+      "municipality": "那覇市",
+      "operator": "沖縄県",
+      "lat": 26.228481,
+      "lon": 127.715651,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-0f53beb22f",
+      "name_ja": "漫湖公園",
+      "municipality": "那覇市",
+      "operator": "沖縄県",
+      "lat": 26.199305,
+      "lon": 127.683758,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 43.9
+    },
+    {
+      "slug": "p13-5331da2fa0",
+      "name_ja": "浦添墓地公園",
+      "municipality": "浦添市",
+      "operator": "沖縄県",
+      "lat": 26.254518,
+      "lon": 127.726815,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-b9ebf8dcc4",
+      "name_ja": "名護浦公園",
+      "municipality": "名護市",
+      "operator": "沖縄県",
+      "lat": 26.593813,
+      "lon": 127.971647,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-df9bb90bfa",
+      "name_ja": "南浜公園",
+      "municipality": "糸満市",
+      "operator": "沖縄県",
+      "lat": 26.117584,
+      "lon": 127.664299,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-d0d34525c9",
+      "name_ja": "西崎親水公園",
+      "municipality": "糸満市",
+      "operator": "沖縄県",
+      "lat": 26.142932,
+      "lon": 127.658733,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-a9600b5ee0",
+      "name_ja": "ロンドン杜公園",
+      "municipality": "糸満市",
+      "operator": "沖縄県",
+      "lat": 26.118831,
+      "lon": 127.672941,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-b4167cd531",
+      "name_ja": "八重島公園",
+      "municipality": "沖縄市",
+      "operator": "沖縄県",
+      "lat": 26.344624,
+      "lon": 127.801697,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-a25035fd9d",
+      "name_ja": "こどもの国公園",
+      "municipality": "沖縄市",
+      "operator": "沖縄県",
+      "lat": 26.326749,
+      "lon": 127.804734,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.6
+    },
+    {
+      "slug": "p13-f61c13e917",
+      "name_ja": "豊見城総合公園",
+      "municipality": "豊見城市",
+      "operator": "沖縄県",
+      "lat": 26.174107,
+      "lon": 127.691523,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-f8b78e772c",
+      "name_ja": "豊崎総合公園",
+      "municipality": "豊見城市",
+      "operator": "沖縄県",
+      "lat": 26.155258,
+      "lon": 127.648701,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-c1e4c49ec3",
+      "name_ja": "市民の森公園",
+      "municipality": "うるま市",
+      "operator": "沖縄県",
+      "lat": 26.447114,
+      "lon": 127.832428,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-dc2d40090b",
+      "name_ja": "与那城総合公園",
+      "municipality": "うるま市",
+      "operator": "沖縄県",
+      "lat": 26.329612,
+      "lon": 127.90517,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-25bf03d1e5",
+      "name_ja": "カママ嶺公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.798165,
+      "lon": 125.277435,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-b71f124c65",
+      "name_ja": "袖山墓園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.790343,
+      "lon": 125.307805,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-8e8adcbcc8",
+      "name_ja": "城辺総合公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.76426,
+      "lon": 125.405644,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.4
+    },
+    {
+      "slug": "p13-465ee2c75c",
+      "name_ja": "東平安名崎公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.725178,
+      "lon": 125.460735,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.7
+    },
+    {
+      "slug": "p13-74a16040c6",
+      "name_ja": "大野越公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.800487,
+      "lon": 125.315801,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-02e2bf31d8",
+      "name_ja": "大嶽城址公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.760147,
+      "lon": 125.327587,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-3d39ff70d8",
+      "name_ja": "座喜味城跡公園",
+      "municipality": "中頭郡読谷村",
+      "operator": "沖縄県",
+      "lat": 26.409067,
+      "lon": 127.741716,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-df8937c654",
+      "name_ja": "残波岬公園",
+      "municipality": "中頭郡読谷村",
+      "operator": "沖縄県",
+      "lat": 26.437864,
+      "lon": 127.718747,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-c995f15a4c",
+      "name_ja": "兼久海浜公園",
+      "municipality": "中頭郡嘉手納町",
+      "operator": "沖縄県",
+      "lat": 26.353187,
+      "lon": 127.741915,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-02aa9c8ab1",
+      "name_ja": "黄金森公園",
+      "municipality": "島尻郡南風原町",
+      "operator": "沖縄県",
+      "lat": 26.188718,
+      "lon": 127.73264,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.8
+    }
+  ]
+}

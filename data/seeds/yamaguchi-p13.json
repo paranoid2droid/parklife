@@ -1,0 +1,316 @@
+{
+  "prefecture": "yamaguchi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3a347a51b9",
+      "name_ja": "維新百年記念公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.156915,
+      "lon": 131.439369,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 43.5
+    },
+    {
+      "slug": "p13-3750b6a129",
+      "name_ja": "山口きらら博記念公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.005694,
+      "lon": 131.372262,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 43.6
+    },
+    {
+      "slug": "p13-671d982b0f",
+      "name_ja": "亀山公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.180903,
+      "lon": 131.473228,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-e09366f4eb",
+      "name_ja": "江汐公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 34.033725,
+      "lon": 131.19171,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 143.2
+    },
+    {
+      "slug": "p13-60c2ab006e",
+      "name_ja": "片添ヶ浜海浜公園",
+      "municipality": "大島郡周防大島町",
+      "operator": "山口県",
+      "lat": 33.897173,
+      "lon": 132.36079,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 30.5
+    },
+    {
+      "slug": "p13-e1234e191a",
+      "name_ja": "火の山公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 33.973899,
+      "lon": 130.959462,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 122.5
+    },
+    {
+      "slug": "p13-69011da28e",
+      "name_ja": "老の山公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 33.947986,
+      "lon": 130.904393,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-50b7df7b03",
+      "name_ja": "乃木浜総合公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.042554,
+      "lon": 131.028171,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-da03aa669b",
+      "name_ja": "リフレッシュパーク豊浦",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.135267,
+      "lon": 130.928869,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-003b2e4e34",
+      "name_ja": "下関中央墓園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.046087,
+      "lon": 130.973194,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-d8c3efa3d5",
+      "name_ja": "常盤公園",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 33.945767,
+      "lon": 131.282869,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 158.0
+    },
+    {
+      "slug": "p13-2b0cc12126",
+      "name_ja": "アクトビレッジおの",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 34.104478,
+      "lon": 131.309133,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-2667b2bcfa",
+      "name_ja": "白石墓園",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 33.997641,
+      "lon": 131.285407,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-cb3bd15552",
+      "name_ja": "河原谷公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.041461,
+      "lon": 131.322499,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 51.3
+    },
+    {
+      "slug": "p13-2c7e11a8c3",
+      "name_ja": "指月公園",
+      "municipality": "萩市",
+      "operator": "山口県",
+      "lat": 34.417863,
+      "lon": 131.382965,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.4
+    },
+    {
+      "slug": "p13-548d561589",
+      "name_ja": "大平山山頂公園",
+      "municipality": "防府市",
+      "operator": "山口県",
+      "lat": 34.07324,
+      "lon": 131.631051,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-8a390c63f3",
+      "name_ja": "大光寺原霊園",
+      "municipality": "防府市",
+      "operator": "山口県",
+      "lat": 34.068366,
+      "lon": 131.617111,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-f849979378",
+      "name_ja": "吉香公園",
+      "municipality": "岩国市",
+      "operator": "山口県",
+      "lat": 34.168933,
+      "lon": 132.17563,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 58.0
+    },
+    {
+      "slug": "p13-3abeb434f7",
+      "name_ja": "玖珂総合公園",
+      "municipality": "岩国市",
+      "operator": "山口県",
+      "lat": 34.07881,
+      "lon": 132.100072,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-3252e8dbdf",
+      "name_ja": "冠山総合公園",
+      "municipality": "光市",
+      "operator": "山口県",
+      "lat": 33.951082,
+      "lon": 131.962584,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-975be2bee2",
+      "name_ja": "長門市総合公園",
+      "municipality": "長門市",
+      "operator": "山口県",
+      "lat": 34.378114,
+      "lon": 131.198591,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-3aa9698dde",
+      "name_ja": "大嶺西公園",
+      "municipality": "美祢市",
+      "operator": "山口県",
+      "lat": 34.174571,
+      "lon": 131.1904,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-9caebf35c4",
+      "name_ja": "桜山総合公園",
+      "municipality": "美祢市",
+      "operator": "山口県",
+      "lat": 34.149634,
+      "lon": 131.217717,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-d13c67da4f",
+      "name_ja": "秋吉台国際芸術村",
+      "municipality": "美祢市",
+      "operator": "山口県",
+      "lat": 34.223561,
+      "lon": 131.323203,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.9
+    },
+    {
+      "slug": "p13-b036635cf2",
+      "name_ja": "永源山公園",
+      "municipality": "周南市",
+      "operator": "山口県",
+      "lat": 34.077748,
+      "lon": 131.767278,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-296f04ffa3",
+      "name_ja": "徳山公園",
+      "municipality": "周南市",
+      "operator": "山口県",
+      "lat": 34.06389,
+      "lon": 131.817228,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-0ac860a381",
+      "name_ja": "大迫田墓地公園",
+      "municipality": "周南市",
+      "operator": "山口県",
+      "lat": 34.040815,
+      "lon": 131.834784,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-72347e579c",
+      "name_ja": "竜王山公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 33.953928,
+      "lon": 131.168938,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 50.0
+    },
+    {
+      "slug": "p13-80f83704e6",
+      "name_ja": "物見山総合公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 34.046152,
+      "lon": 131.173611,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-ff8a7f9318",
+      "name_ja": "有帆緑地",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 34.018309,
+      "lon": 131.214957,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-9fd2cf0915",
+      "name_ja": "蜂ヶ峯総合公園",
+      "municipality": "玖珂郡和木町",
+      "operator": "山口県",
+      "lat": 34.192587,
+      "lon": 132.220314,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.6
+    }
+  ]
+}

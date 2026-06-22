@@ -1,0 +1,256 @@
+{
+  "prefecture": "shiga",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-5389a9fb15",
+      "name_ja": "湖岸緑地",
+      "municipality": "彦根市",
+      "operator": "滋賀県",
+      "lat": 35.242585,
+      "lon": 136.197805,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 143.8
+    },
+    {
+      "slug": "p13-6f9e32e973",
+      "name_ja": "文化ゾーン",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 34.971397,
+      "lon": 135.943132,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 43.2
+    },
+    {
+      "slug": "p13-99a81fd46c",
+      "name_ja": "春日山公園",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 35.124342,
+      "lon": 135.903477,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.4
+    },
+    {
+      "slug": "p13-bcfa6f7828",
+      "name_ja": "奥びわスポーツの森",
+      "municipality": "長浜市",
+      "operator": "滋賀県",
+      "lat": 35.412593,
+      "lon": 136.209295,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.3
+    },
+    {
+      "slug": "p13-acea0860bf",
+      "name_ja": "びわこ地球市民の森",
+      "municipality": "守山市",
+      "operator": "滋賀県",
+      "lat": 35.104811,
+      "lon": 135.962761,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.6
+    },
+    {
+      "slug": "p13-f67b6546f7",
+      "name_ja": "皇子が丘公園",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 35.023747,
+      "lon": 135.851117,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.1
+    },
+    {
+      "slug": "p13-7722b45ff3",
+      "name_ja": "伽藍山公園",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 34.964965,
+      "lon": 135.898966,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 38.8
+    },
+    {
+      "slug": "p13-7f25af8f04",
+      "name_ja": "大津湖岸なぎさ公園",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 35.009857,
+      "lon": 135.870546,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 29.2
+    },
+    {
+      "slug": "p13-f57fba6af5",
+      "name_ja": "金亀公園",
+      "municipality": "彦根市",
+      "operator": "滋賀県",
+      "lat": 35.279822,
+      "lon": 136.25298,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.9
+    },
+    {
+      "slug": "p13-786db97893",
+      "name_ja": "千鳥ヶ丘公園",
+      "municipality": "彦根市",
+      "operator": "滋賀県",
+      "lat": 35.259439,
+      "lon": 136.253845,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-50379ea8eb",
+      "name_ja": "荒神山公園",
+      "municipality": "彦根市",
+      "operator": "滋賀県",
+      "lat": 35.241009,
+      "lon": 136.203115,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.6
+    },
+    {
+      "slug": "p13-fa95f14338",
+      "name_ja": "豊公園",
+      "municipality": "長浜市",
+      "operator": "滋賀県",
+      "lat": 35.375553,
+      "lon": 136.261099,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.6
+    },
+    {
+      "slug": "p13-2d81b100f6",
+      "name_ja": "石田山公園",
+      "municipality": "長浜市",
+      "operator": "滋賀県",
+      "lat": 35.388694,
+      "lon": 136.331868,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 56.0
+    },
+    {
+      "slug": "p13-ee02b35631",
+      "name_ja": "八条山公園",
+      "municipality": "長浜市",
+      "operator": "滋賀県",
+      "lat": 35.380308,
+      "lon": 136.315911,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-c37b16e468",
+      "name_ja": "神田山公園",
+      "municipality": "長浜市",
+      "operator": "滋賀県",
+      "lat": 35.358981,
+      "lon": 136.305234,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-a48151c3e5",
+      "name_ja": "松の岩公園",
+      "municipality": "長浜市",
+      "operator": "滋賀県",
+      "lat": 35.373432,
+      "lon": 136.317647,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-01e7dce791",
+      "name_ja": "ロクハ公園",
+      "municipality": "草津市",
+      "operator": "滋賀県",
+      "lat": 34.996704,
+      "lon": 135.968566,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-d1070d0fd3",
+      "name_ja": "水口スポーツの森",
+      "municipality": "甲賀市",
+      "operator": "滋賀県",
+      "lat": 34.95952,
+      "lon": 136.162269,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.8
+    },
+    {
+      "slug": "p13-ec88b58f5c",
+      "name_ja": "みなくち子どもの森",
+      "municipality": "甲賀市",
+      "operator": "滋賀県",
+      "lat": 34.956707,
+      "lon": 136.168041,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.3
+    },
+    {
+      "slug": "p13-711e2ca372",
+      "name_ja": "信楽運動公園",
+      "municipality": "甲賀市",
+      "operator": "滋賀県",
+      "lat": 34.864886,
+      "lon": 136.037293,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-07c265fe28",
+      "name_ja": "甲賀中央公園",
+      "municipality": "甲賀市",
+      "operator": "滋賀県",
+      "lat": 34.905056,
+      "lon": 136.219954,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-7d65d8e839",
+      "name_ja": "野洲川緑地",
+      "municipality": "湖南市",
+      "operator": "滋賀県",
+      "lat": 35.01076,
+      "lon": 136.083096,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-867fc4c391",
+      "name_ja": "高島市今津総合運動公園",
+      "municipality": "高島市",
+      "operator": "滋賀県",
+      "lat": 35.417443,
+      "lon": 135.99939,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.3
+    },
+    {
+      "slug": "p13-083c9e2547",
+      "name_ja": "布施公園",
+      "municipality": "東近江市",
+      "operator": "滋賀県",
+      "lat": 35.085369,
+      "lon": 136.178956,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-f061d08e45",
+      "name_ja": "甲良町総合公園",
+      "municipality": "犬上郡甲良町",
+      "operator": "滋賀県",
+      "lat": 35.18819,
+      "lon": 136.268889,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.8
+    }
+  ]
+}

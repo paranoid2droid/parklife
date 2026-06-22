@@ -1,0 +1,326 @@
+{
+  "prefecture": "kyoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2bcbe63c2d",
+      "name_ja": "京都府立洛西浄化センター公園",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.908971,
+      "lon": 135.709037,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-4d1c67edbf",
+      "name_ja": "京都府立山城総合運動公園",
+      "municipality": "宇治市",
+      "operator": "京都府",
+      "lat": 34.869639,
+      "lon": 135.80402,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 92.3
+    },
+    {
+      "slug": "p13-ea9294a75c",
+      "name_ja": "京都府立嵐山公園",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.014925,
+      "lon": 135.671492,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-bd72b995ff",
+      "name_ja": "京都府立嵐山東公園",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.008893,
+      "lon": 135.687155,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-21885d0e27",
+      "name_ja": "京都府立鴨川公園",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.031123,
+      "lon": 135.771565,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 34.3
+    },
+    {
+      "slug": "p13-7ac92b0710",
+      "name_ja": "京都府立天橋立公園",
+      "municipality": "宮津市",
+      "operator": "京都府",
+      "lat": 35.562668,
+      "lon": 135.187426,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 25.1
+    },
+    {
+      "slug": "p13-66017564ac",
+      "name_ja": "京都府立関西文化学術研究都市記念公園",
+      "municipality": "相楽郡精華町",
+      "operator": "京都府",
+      "lat": 34.747604,
+      "lon": 135.774979,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.1
+    },
+    {
+      "slug": "p13-b8fb0393bd",
+      "name_ja": "京都府立丹波自然運動公園",
+      "municipality": "船井郡京丹波町",
+      "operator": "京都府",
+      "lat": 35.166579,
+      "lon": 135.415787,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 53.2
+    },
+    {
+      "slug": "p13-22420a15f0",
+      "name_ja": "京都府立丹後海と星の見える丘公園",
+      "municipality": "宮津市",
+      "operator": "京都府",
+      "lat": 35.624449,
+      "lon": 135.234118,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 143.0
+    },
+    {
+      "slug": "p13-12d5c82da6",
+      "name_ja": "岡崎",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.014237,
+      "lon": 135.783447,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-2908fcb78d",
+      "name_ja": "宝が池",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.059173,
+      "lon": 135.783396,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 62.7
+    },
+    {
+      "slug": "p13-4880e68062",
+      "name_ja": "吉田山緑地",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.026546,
+      "lon": 135.787098,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-81b62f5040",
+      "name_ja": "円山",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.003507,
+      "lon": 135.782274,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-19e139e9b7",
+      "name_ja": "梅小路",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.986625,
+      "lon": 135.746584,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.7
+    },
+    {
+      "slug": "p13-8aebd11e86",
+      "name_ja": "三段池公園",
+      "municipality": "福知山市",
+      "operator": "京都府",
+      "lat": 35.310921,
+      "lon": 135.136393,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 50.5
+    },
+    {
+      "slug": "p13-ec0d610b79",
+      "name_ja": "市ノ谷公園",
+      "municipality": "福知山市",
+      "operator": "京都府",
+      "lat": 35.281767,
+      "lon": 135.163569,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.2
+    },
+    {
+      "slug": "p13-9ee920d6ec",
+      "name_ja": "平和公園",
+      "municipality": "福知山市",
+      "operator": "京都府",
+      "lat": 35.28205,
+      "lon": 135.134387,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-c5d6785dbb",
+      "name_ja": "東舞鶴公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.454056,
+      "lon": 135.390597,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-e2b4212118",
+      "name_ja": "舞鶴文化公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.455835,
+      "lon": 135.339509,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-fee86d6273",
+      "name_ja": "青葉山ろく公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.499924,
+      "lon": 135.439838,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-05c51086eb",
+      "name_ja": "五老ヶ岳公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.464701,
+      "lon": 135.343076,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-493ec9d2d4",
+      "name_ja": "引揚記念公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.51038,
+      "lon": 135.394333,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-3be06a1c3c",
+      "name_ja": "舞鶴自然文化園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.536462,
+      "lon": 135.394863,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-89d693f11d",
+      "name_ja": "紫水ヶ丘公園",
+      "municipality": "綾部市",
+      "operator": "京都府",
+      "lat": 35.298151,
+      "lon": 135.27386,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-7dd6ed6299",
+      "name_ja": "宇治市植物公園",
+      "municipality": "宇治市",
+      "operator": "京都府",
+      "lat": 34.871184,
+      "lon": 135.795364,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-ca187f6d13",
+      "name_ja": "平和台公園",
+      "municipality": "亀岡市",
+      "operator": "京都府",
+      "lat": 35.010065,
+      "lon": 135.567748,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 35.0
+    },
+    {
+      "slug": "p13-8c89097952",
+      "name_ja": "田辺公園",
+      "municipality": "京田辺市",
+      "operator": "京都府",
+      "lat": 34.813123,
+      "lon": 135.767397,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-127d50f602",
+      "name_ja": "京丹後市峰山総合公園",
+      "municipality": "京丹後市",
+      "operator": "京都府",
+      "lat": 35.620959,
+      "lon": 135.0663,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-f40d783c72",
+      "name_ja": "京丹後市八丁浜シーサイドパーク",
+      "municipality": "京丹後市",
+      "operator": "京都府",
+      "lat": 35.689793,
+      "lon": 135.02169,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-9350fffc81",
+      "name_ja": "園部公園",
+      "municipality": "南丹市",
+      "operator": "京都府",
+      "lat": 35.107365,
+      "lon": 135.468101,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-4231c5f6d5",
+      "name_ja": "八木運動公園",
+      "municipality": "南丹市",
+      "operator": "京都府",
+      "lat": 35.070758,
+      "lon": 135.538177,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-1274c9dd59",
+      "name_ja": "光台緑地",
+      "municipality": "相楽郡精華町",
+      "operator": "京都府",
+      "lat": 34.742274,
+      "lon": 135.76262,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 24.1
+    }
+  ]
+}

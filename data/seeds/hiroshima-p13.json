@@ -1,0 +1,446 @@
+{
+  "prefecture": "hiroshima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-51b111bd29",
+      "name_ja": "広島緑化植物公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.434536,
+      "lon": 132.565194,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 65.6
+    },
+    {
+      "slug": "p13-88ffbf1f3a",
+      "name_ja": "宮島公園",
+      "municipality": "廿日市市",
+      "operator": "広島県",
+      "lat": 34.287465,
+      "lon": 132.318182,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 421.8
+    },
+    {
+      "slug": "p13-01ab828ca9",
+      "name_ja": "みよし公園",
+      "municipality": "三次市",
+      "operator": "広島県",
+      "lat": 34.798075,
+      "lon": 132.903822,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 50.9
+    },
+    {
+      "slug": "p13-b58e052a99",
+      "name_ja": "びんご運動公園",
+      "municipality": "尾道市",
+      "operator": "広島県",
+      "lat": 34.433909,
+      "lon": 133.176166,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 87.6
+    },
+    {
+      "slug": "p13-f3d1caebd6",
+      "name_ja": "せら県民公園",
+      "municipality": "世羅郡世羅町",
+      "operator": "広島県",
+      "lat": 34.624959,
+      "lon": 132.979141,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 25.0
+    },
+    {
+      "slug": "p13-c6033ab0f6",
+      "name_ja": "平和記念公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.392616,
+      "lon": 132.452352,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-c8df58b19b",
+      "name_ja": "中央公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.401407,
+      "lon": 132.453924,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 41.6
+    },
+    {
+      "slug": "p13-c942c8fe95",
+      "name_ja": "東部河岸緑地",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.397309,
+      "lon": 132.470379,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.1
+    },
+    {
+      "slug": "p13-236a061d45",
+      "name_ja": "西部河岸緑地",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.389066,
+      "lon": 132.451503,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-ce27f6253a",
+      "name_ja": "牛田総合公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.416528,
+      "lon": 132.469048,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-6926c52d95",
+      "name_ja": "高天原墓園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.403653,
+      "lon": 132.495039,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-75e942beb6",
+      "name_ja": "似島臨海公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.308491,
+      "lon": 132.440169,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-6215a2414a",
+      "name_ja": "比治山公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.384479,
+      "lon": 132.473199,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.1
+    },
+    {
+      "slug": "p13-816a8867f1",
+      "name_ja": "黄金山緑地",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.365987,
+      "lon": 132.490162,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-d55c88f614",
+      "name_ja": "竜王公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.413856,
+      "lon": 132.438861,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.0
+    },
+    {
+      "slug": "p13-e5e30409b7",
+      "name_ja": "三滝墓園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.418014,
+      "lon": 132.44022,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-833fd4b106",
+      "name_ja": "広島広域公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.4407,
+      "lon": 132.394493,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 59.9
+    },
+    {
+      "slug": "p13-7ecd785204",
+      "name_ja": "絵下山公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.319605,
+      "lon": 132.542924,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 52.8
+    },
+    {
+      "slug": "p13-df2f6ed158",
+      "name_ja": "広島市植物公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.393412,
+      "lon": 132.345631,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.2
+    },
+    {
+      "slug": "p13-71e03a7389",
+      "name_ja": "狩留賀海浜公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.261394,
+      "lon": 132.516525,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-0c743c84f6",
+      "name_ja": "二河峡公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.267752,
+      "lon": 132.558156,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-1c83addf67",
+      "name_ja": "二級峡公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.281344,
+      "lon": 132.634104,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 32.9
+    },
+    {
+      "slug": "p13-2418ae86bc",
+      "name_ja": "音戸の瀬戸公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.196528,
+      "lon": 132.544411,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-268d457e9a",
+      "name_ja": "大空山公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.242968,
+      "lon": 132.60249,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.9
+    },
+    {
+      "slug": "p13-33f2cac3bf",
+      "name_ja": "焼山公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.297731,
+      "lon": 132.546214,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-1eaeb7b385",
+      "name_ja": "灰ヶ峰公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.274509,
+      "lon": 132.601834,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-a53dfc4951",
+      "name_ja": "的場公園",
+      "municipality": "竹原市",
+      "operator": "広島県",
+      "lat": 34.327927,
+      "lon": 132.919303,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-2a9ea0b9fe",
+      "name_ja": "バンブー・ジョイ・ハイランド",
+      "municipality": "竹原市",
+      "operator": "広島県",
+      "lat": 34.336495,
+      "lon": 132.930544,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.6
+    },
+    {
+      "slug": "p13-10ab8f1cbe",
+      "name_ja": "ファミリーパーク",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.423668,
+      "lon": 133.374949,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-5fc6d0c1ba",
+      "name_ja": "草戸山公園",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.478846,
+      "lon": 133.343204,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-bf0f96e720",
+      "name_ja": "奈良津墓園",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.504513,
+      "lon": 133.368174,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-9a498629fa",
+      "name_ja": "春日池公園",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.51442,
+      "lon": 133.42148,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.6
+    },
+    {
+      "slug": "p13-eee3f6cdef",
+      "name_ja": "福山城公園",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.4909,
+      "lon": 133.360476,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-b54342a536",
+      "name_ja": "緑町公園",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.477514,
+      "lon": 133.374646,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-611d5a7141",
+      "name_ja": "芦田川緑地",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.453268,
+      "lon": 133.375535,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 52.4
+    },
+    {
+      "slug": "p13-2f746a4e85",
+      "name_ja": "三室公園",
+      "municipality": "府中市",
+      "operator": "広島県",
+      "lat": 34.584093,
+      "lon": 133.221784,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-79af0563f9",
+      "name_ja": "中山公園",
+      "municipality": "府中市",
+      "operator": "広島県",
+      "lat": 34.701069,
+      "lon": 133.11428,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-a84f1cd88b",
+      "name_ja": "尾関山公園",
+      "municipality": "三次市",
+      "operator": "広島県",
+      "lat": 34.814321,
+      "lon": 132.839751,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-3f94ae08a2",
+      "name_ja": "上野総合公園",
+      "municipality": "庄原市",
+      "operator": "広島県",
+      "lat": 34.856399,
+      "lon": 133.024778,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.4
+    },
+    {
+      "slug": "p13-af23246018",
+      "name_ja": "晴海臨海公園",
+      "municipality": "大竹市",
+      "operator": "広島県",
+      "lat": 34.238719,
+      "lon": 132.226444,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-f465bbaea0",
+      "name_ja": "鏡山公園",
+      "municipality": "東広島市",
+      "operator": "広島県",
+      "lat": 34.405443,
+      "lon": 132.726944,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.6
+    },
+    {
+      "slug": "p13-ddf67c520d",
+      "name_ja": "龍王山公園",
+      "municipality": "東広島市",
+      "operator": "広島県",
+      "lat": 34.329052,
+      "lon": 132.674394,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-7f19b19e4d",
+      "name_ja": "揚倉山健康運動公園",
+      "municipality": "安芸郡府中町",
+      "operator": "広島県",
+      "lat": 34.392357,
+      "lon": 132.525122,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.3
+    },
+    {
+      "slug": "p13-d81cc92944",
+      "name_ja": "海田総合公園",
+      "municipality": "安芸郡海田町",
+      "operator": "広島県",
+      "lat": 34.372107,
+      "lon": 132.568393,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    }
+  ]
+}

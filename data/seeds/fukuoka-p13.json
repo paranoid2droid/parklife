@@ -1,0 +1,816 @@
+{
+  "prefecture": "fukuoka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2c839dd4d2",
+      "name_ja": "県営筑後広域公園",
+      "municipality": "みやま市",
+      "operator": "福岡県",
+      "lat": 33.176076,
+      "lon": 130.488052,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 33.3
+    },
+    {
+      "slug": "p13-7f099782e6",
+      "name_ja": "県営東公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.605609,
+      "lon": 130.42037,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-5761551917",
+      "name_ja": "県営西公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.598098,
+      "lon": 130.37504,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 17.0
+    },
+    {
+      "slug": "p13-5b077e75c0",
+      "name_ja": "県営大濠公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.589491,
+      "lon": 130.373722,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 39.8
+    },
+    {
+      "slug": "p13-bcbf253b80",
+      "name_ja": "県営中央公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.878465,
+      "lon": 130.839216,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.5
+    },
+    {
+      "slug": "p13-f5a15ee217",
+      "name_ja": "県営春日公園",
+      "municipality": "春日市",
+      "operator": "福岡県",
+      "lat": 33.526528,
+      "lon": 130.468856,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-7126cc5b43",
+      "name_ja": "県営筑豊緑地",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.658525,
+      "lon": 130.746767,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 51.0
+    },
+    {
+      "slug": "p13-f28d685d94",
+      "name_ja": "白野江植物公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.936112,
+      "lon": 131.001476,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-81bd9fcb44",
+      "name_ja": "和布刈公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.961047,
+      "lon": 130.963569,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 37.1
+    },
+    {
+      "slug": "p13-28f88563f2",
+      "name_ja": "足立公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.868414,
+      "lon": 130.904452,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-849a86c9e3",
+      "name_ja": "勝山公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.882975,
+      "lon": 130.873885,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.6
+    },
+    {
+      "slug": "p13-abe80f26c6",
+      "name_ja": "手向山公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.890418,
+      "lon": 130.913174,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-21d9577070",
+      "name_ja": "山田緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.851954,
+      "lon": 130.856749,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 47.1
+    },
+    {
+      "slug": "p13-78e174956b",
+      "name_ja": "文化記念公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.820281,
+      "lon": 130.927437,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-9b7b9a6a53",
+      "name_ja": "高塔山公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.903078,
+      "lon": 130.797838,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.0
+    },
+    {
+      "slug": "p13-fc1ccdd402",
+      "name_ja": "響灘緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.911681,
+      "lon": 130.73574,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 196.0
+    },
+    {
+      "slug": "p13-0542b18196",
+      "name_ja": "高炉台公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.86571,
+      "lon": 130.815968,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-9ab32bfb10",
+      "name_ja": "中央緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.869089,
+      "lon": 130.828896,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.4
+    },
+    {
+      "slug": "p13-068a3fcf9b",
+      "name_ja": "帆柱公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.854477,
+      "lon": 130.795732,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-1443b4f9a0",
+      "name_ja": "洞北緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.884767,
+      "lon": 130.743861,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-078d8871c5",
+      "name_ja": "河頭公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.853751,
+      "lon": 130.774796,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-bb8a54692f",
+      "name_ja": "瀬板の森公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.858161,
+      "lon": 130.728865,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 24.9
+    },
+    {
+      "slug": "p13-1d8edc6ea4",
+      "name_ja": "花尾公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.84982,
+      "lon": 130.780838,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-b79f45c76d",
+      "name_ja": "美術の森公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.870429,
+      "lon": 130.827772,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-5d8f785536",
+      "name_ja": "夜宮公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.88649,
+      "lon": 130.836,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-775d1efbdb",
+      "name_ja": "雁の巣レクリエーションセンター",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.681744,
+      "lon": 130.397927,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 62.8
+    },
+    {
+      "slug": "p13-efa7aa5e1c",
+      "name_ja": "青葉公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.647423,
+      "lon": 130.460575,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-910691c547",
+      "name_ja": "アイランドシティ中央公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.664256,
+      "lon": 130.420969,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.3
+    },
+    {
+      "slug": "p13-f27723a0cf",
+      "name_ja": "三日月山霊園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.66799,
+      "lon": 130.46465,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.4
+    },
+    {
+      "slug": "p13-116970cb83",
+      "name_ja": "名子緑地",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.64894,
+      "lon": 130.472657,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-cc734616ff",
+      "name_ja": "東平尾公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.586649,
+      "lon": 130.462661,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 88.1
+    },
+    {
+      "slug": "p13-7c067ed708",
+      "name_ja": "那珂川河川緑地",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.573641,
+      "lon": 130.424968,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-bd27d2dbde",
+      "name_ja": "舞鶴公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.58608,
+      "lon": 130.384398,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 39.3
+    },
+    {
+      "slug": "p13-ec1ae6a6fa",
+      "name_ja": "南公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.574146,
+      "lon": 130.388446,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 29.2
+    },
+    {
+      "slug": "p13-9458729f00",
+      "name_ja": "鴻巣山緑地",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.560921,
+      "lon": 130.395249,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-b326f9afd0",
+      "name_ja": "平尾霊園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.565318,
+      "lon": 130.397599,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.7
+    },
+    {
+      "slug": "p13-5207e0fd11",
+      "name_ja": "花畑園芸公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.526535,
+      "lon": 130.386765,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.7
+    },
+    {
+      "slug": "p13-4ccad497aa",
+      "name_ja": "西南杜の湖畔公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.552096,
+      "lon": 130.355734,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-2a17694177",
+      "name_ja": "西部霊園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.542515,
+      "lon": 130.298067,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.5
+    },
+    {
+      "slug": "p13-f15936ce28",
+      "name_ja": "小戸公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.592742,
+      "lon": 130.314122,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.8
+    },
+    {
+      "slug": "p13-672f0dce17",
+      "name_ja": "今宿森林公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.550379,
+      "lon": 130.280988,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 34.0
+    },
+    {
+      "slug": "p13-f98b7ee0f8",
+      "name_ja": "生の松原海岸森林公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.58055,
+      "lon": 130.303755,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.4
+    },
+    {
+      "slug": "p13-34361c2cec",
+      "name_ja": "延命公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.019924,
+      "lon": 130.446061,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.1
+    },
+    {
+      "slug": "p13-e7e158671a",
+      "name_ja": "黒崎公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.074074,
+      "lon": 130.430157,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-52b1cdeb0d",
+      "name_ja": "甘木公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.066492,
+      "lon": 130.461716,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-eb10bff5e3",
+      "name_ja": "三池公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.049958,
+      "lon": 130.488049,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-5e7ad1e928",
+      "name_ja": "櫟野公園墓地",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.019305,
+      "lon": 130.483958,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-4c5200c624",
+      "name_ja": "市民の森",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.019909,
+      "lon": 130.479145,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-723555602e",
+      "name_ja": "諏訪公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.029098,
+      "lon": 130.431611,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.4
+    },
+    {
+      "slug": "p13-1d70922108",
+      "name_ja": "リバーサイドパーク",
+      "municipality": "久留米市",
+      "operator": "福岡県",
+      "lat": 33.302941,
+      "lon": 130.475336,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 70.6
+    },
+    {
+      "slug": "p13-805ce535e5",
+      "name_ja": "浦山公園",
+      "municipality": "久留米市",
+      "operator": "福岡県",
+      "lat": 33.283671,
+      "lon": 130.538284,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-0cfd1a1329",
+      "name_ja": "鴨生田公園",
+      "municipality": "直方市",
+      "operator": "福岡県",
+      "lat": 33.743049,
+      "lon": 130.709037,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 17.1
+    },
+    {
+      "slug": "p13-a15fe91285",
+      "name_ja": "遠賀川河川敷公園",
+      "municipality": "直方市",
+      "operator": "福岡県",
+      "lat": 33.866701,
+      "lon": 130.681541,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 30.5
+    },
+    {
+      "slug": "p13-2090e5bb70",
+      "name_ja": "福智山ろく花公園",
+      "municipality": "直方市",
+      "operator": "福岡県",
+      "lat": 33.734536,
+      "lon": 130.76972,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-69837c3ac7",
+      "name_ja": "笠城ダム公園",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.678838,
+      "lon": 130.658463,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.6
+    },
+    {
+      "slug": "p13-30a8bbdc91",
+      "name_ja": "健康の森公園",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.683223,
+      "lon": 130.687587,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.9
+    },
+    {
+      "slug": "p13-db2218706f",
+      "name_ja": "大将陣公園",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.604652,
+      "lon": 130.680768,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-2ee8650ff5",
+      "name_ja": "飯塚霊園",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.683141,
+      "lon": 130.656838,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-10376646fb",
+      "name_ja": "成道寺公園",
+      "municipality": "田川市",
+      "operator": "福岡県",
+      "lat": 33.639028,
+      "lon": 130.82349,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-4e2bba27ed",
+      "name_ja": "大川中央公園",
+      "municipality": "大川市",
+      "operator": "福岡県",
+      "lat": 33.202817,
+      "lon": 130.384343,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-070d48c45b",
+      "name_ja": "筑後川総合運動公園",
+      "municipality": "大川市",
+      "operator": "福岡県",
+      "lat": 33.188882,
+      "lon": 130.352136,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 22.1
+    },
+    {
+      "slug": "p13-9a9a17e077",
+      "name_ja": "行橋総合公園",
+      "municipality": "行橋市",
+      "operator": "福岡県",
+      "lat": 33.736793,
+      "lon": 131.014599,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.3
+    },
+    {
+      "slug": "p13-fb76702a4a",
+      "name_ja": "天地山公園",
+      "municipality": "豊前市",
+      "operator": "福岡県",
+      "lat": 33.595321,
+      "lon": 131.111848,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.6
+    },
+    {
+      "slug": "p13-3a71ce8c69",
+      "name_ja": "垣生公園",
+      "municipality": "中間市",
+      "operator": "福岡県",
+      "lat": 33.81595,
+      "lon": 130.698407,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-1127de6f1c",
+      "name_ja": "筑紫野市総合公園",
+      "municipality": "筑紫野市",
+      "operator": "福岡県",
+      "lat": 33.472968,
+      "lon": 130.504591,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 57.0
+    },
+    {
+      "slug": "p13-0d4cae0018",
+      "name_ja": "白水大池公園",
+      "municipality": "春日市",
+      "operator": "福岡県",
+      "lat": 33.513972,
+      "lon": 130.456535,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.4
+    },
+    {
+      "slug": "p13-15242030b8",
+      "name_ja": "大野城総合公園",
+      "municipality": "大野城市",
+      "operator": "福岡県",
+      "lat": 33.539004,
+      "lon": 130.501391,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-60f06546a8",
+      "name_ja": "大野城いこいの森",
+      "municipality": "大野城市",
+      "operator": "福岡県",
+      "lat": 33.484539,
+      "lon": 130.474708,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 55.8
+    },
+    {
+      "slug": "p13-3ea0746b6a",
+      "name_ja": "宗像市総合公園",
+      "municipality": "宗像市",
+      "operator": "福岡県",
+      "lat": 33.791664,
+      "lon": 130.548253,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.2
+    },
+    {
+      "slug": "p13-d36b93d385",
+      "name_ja": "明天寺公園",
+      "municipality": "宗像市",
+      "operator": "福岡県",
+      "lat": 33.796875,
+      "lon": 130.607567,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-9c0cb511cd",
+      "name_ja": "ふれあいの森総合公園",
+      "municipality": "宗像市",
+      "operator": "福岡県",
+      "lat": 33.82876,
+      "lon": 130.555528,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 49.1
+    },
+    {
+      "slug": "p13-fb5c427077",
+      "name_ja": "古賀グリーンパーク",
+      "municipality": "古賀市",
+      "operator": "福岡県",
+      "lat": 33.709303,
+      "lon": 130.484958,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-6970dbcb92",
+      "name_ja": "久末総合公園",
+      "municipality": "福津市",
+      "operator": "福岡県",
+      "lat": 33.767386,
+      "lon": 130.519629,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.8
+    },
+    {
+      "slug": "p13-9c0b3cab0e",
+      "name_ja": "甘木公園",
+      "municipality": "朝倉市",
+      "operator": "福岡県",
+      "lat": 33.427331,
+      "lon": 130.666151,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.2
+    },
+    {
+      "slug": "p13-6057f0487f",
+      "name_ja": "高田濃施山公園",
+      "municipality": "みやま市",
+      "operator": "福岡県",
+      "lat": 33.100647,
+      "lon": 130.462336,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-9048e47929",
+      "name_ja": "一本松公園",
+      "municipality": "糟屋郡宇美町",
+      "operator": "福岡県",
+      "lat": 33.557437,
+      "lon": 130.558711,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 87.0
+    },
+    {
+      "slug": "p13-6779a260c4",
+      "name_ja": "篠栗町総合運動公園",
+      "municipality": "糟屋郡篠栗町",
+      "operator": "福岡県",
+      "lat": 33.611883,
+      "lon": 130.518568,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.7
+    },
+    {
+      "slug": "p13-6cc254ce8a",
+      "name_ja": "志免総合公園",
+      "municipality": "糟屋郡志免町",
+      "operator": "福岡県",
+      "lat": 33.592092,
+      "lon": 130.46508,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-9368c4bfda",
+      "name_ja": "芦屋海浜公園",
+      "municipality": "遠賀郡芦屋町",
+      "operator": "福岡県",
+      "lat": 33.89352,
+      "lon": 130.65645,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-b30dd61718",
+      "name_ja": "やすらぎの森湯の浦公園",
+      "municipality": "嘉穂郡桂川町",
+      "operator": "福岡県",
+      "lat": 33.56001,
+      "lon": 130.672272,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 35.2
+    },
+    {
+      "slug": "p13-b9fff97b0e",
+      "name_ja": "添田公園",
+      "municipality": "田川郡添田町",
+      "operator": "福岡県",
+      "lat": 33.571856,
+      "lon": 130.860903,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.1
+    }
+  ]
+}

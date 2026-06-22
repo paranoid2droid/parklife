@@ -1,0 +1,296 @@
+{
+  "prefecture": "kagawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-815c262e09",
+      "name_ja": "さぬき空港公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.216153,
+      "lon": 134.006097,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 67.9
+    },
+    {
+      "slug": "p13-f39bba86a0",
+      "name_ja": "瀬戸大橋記念公園",
+      "municipality": "坂出市",
+      "operator": "香川県",
+      "lat": 34.351897,
+      "lon": 133.82663,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.5
+    },
+    {
+      "slug": "p13-13d16ffbe5",
+      "name_ja": "琴弾公園",
+      "municipality": "観音寺市",
+      "operator": "香川県",
+      "lat": 34.13407,
+      "lon": 133.642203,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 38.6
+    },
+    {
+      "slug": "p13-a3d1dc1b1a",
+      "name_ja": "亀鶴公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.252619,
+      "lon": 134.183323,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-a14dd60236",
+      "name_ja": "琴林公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.286683,
+      "lon": 134.255179,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-acf6d54492",
+      "name_ja": "琴平公園",
+      "municipality": "仲多度郡琴平町",
+      "operator": "香川県",
+      "lat": 34.181986,
+      "lon": 133.819515,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-320eb6a15c",
+      "name_ja": "桃陵公園",
+      "municipality": "仲多度郡多度津町",
+      "operator": "香川県",
+      "lat": 34.268663,
+      "lon": 133.744984,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-eb34068b6c",
+      "name_ja": "栗林公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.329437,
+      "lon": 134.044075,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 75.3
+    },
+    {
+      "slug": "p13-222342ba2b",
+      "name_ja": "土器川公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.255125,
+      "lon": 133.835158,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 23.6
+    },
+    {
+      "slug": "p13-4c49f08771",
+      "name_ja": "香東川公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.293271,
+      "lon": 134.014248,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 29.3
+    },
+    {
+      "slug": "p13-ef3200421e",
+      "name_ja": "仏生山公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.272195,
+      "lon": 134.047735,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-96e19eb868",
+      "name_ja": "峰山公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.3301,
+      "lon": 134.026017,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.3
+    },
+    {
+      "slug": "p13-5850100f29",
+      "name_ja": "玉藻公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.35017,
+      "lon": 134.05135,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-b32345f674",
+      "name_ja": "平和公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.260645,
+      "lon": 134.074518,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-720f44817b",
+      "name_ja": "丸亀市飯山総合運動公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.267154,
+      "lon": 133.87327,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-33b95c43cc",
+      "name_ja": "綾歌森林公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.210217,
+      "lon": 133.864613,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 249.8
+    },
+    {
+      "slug": "p13-a76b4b9026",
+      "name_ja": "楠見池親水公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.265648,
+      "lon": 133.881268,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-005c73c657",
+      "name_ja": "亀山公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.286145,
+      "lon": 133.800462,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.5
+    },
+    {
+      "slug": "p13-6733fa0897",
+      "name_ja": "丸亀市青ノ山墓地公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.293715,
+      "lon": 133.824674,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-bbe64e1d9a",
+      "name_ja": "土器川河川公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.285408,
+      "lon": 133.814532,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-8480e8a43d",
+      "name_ja": "土器川生物公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.235588,
+      "lon": 133.835823,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-1f783c3be4",
+      "name_ja": "聖通寺山公園",
+      "municipality": "坂出市",
+      "operator": "香川県",
+      "lat": 34.317977,
+      "lon": 133.833586,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 38.5
+    },
+    {
+      "slug": "p13-6904cf4ed2",
+      "name_ja": "みろく公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.256406,
+      "lon": 134.242997,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.4
+    },
+    {
+      "slug": "p13-7a13d6870f",
+      "name_ja": "津田総合公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.294573,
+      "lon": 134.232154,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-9cd6d21b1c",
+      "name_ja": "長尾総合公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.250911,
+      "lon": 134.184251,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.9
+    },
+    {
+      "slug": "p13-57a4e7d567",
+      "name_ja": "間川三十二勝探勝公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.309194,
+      "lon": 134.162353,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-09208b0741",
+      "name_ja": "雨滝森林浴公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.277755,
+      "lon": 134.242016,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 34.4
+    },
+    {
+      "slug": "p13-2f83736426",
+      "name_ja": "とらまる公園",
+      "municipality": "東かがわ市",
+      "operator": "香川県",
+      "lat": 34.241549,
+      "lon": 134.316857,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.5
+    },
+    {
+      "slug": "p13-6ceafd41df",
+      "name_ja": "かりんの丘公園",
+      "municipality": "仲多度郡まんのう町",
+      "operator": "香川県",
+      "lat": 34.173116,
+      "lon": 133.868445,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    }
+  ]
+}

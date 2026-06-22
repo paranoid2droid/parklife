@@ -1,0 +1,406 @@
+{
+  "prefecture": "tochigi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d768185f37",
+      "name_ja": "栃木県みかも山公園",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.310112,
+      "lon": 139.62764,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 165.9
+    },
+    {
+      "slug": "p13-dc4249b9f3",
+      "name_ja": "栃木県中央公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.558493,
+      "lon": 139.862768,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-78636d324f",
+      "name_ja": "栃木県日光だいや川公園",
+      "municipality": "日光市",
+      "operator": "栃木県",
+      "lat": 36.735198,
+      "lon": 139.665698,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 55.8
+    },
+    {
+      "slug": "p13-67b2214fae",
+      "name_ja": "栃木県井頭公園",
+      "municipality": "真岡市",
+      "operator": "栃木県",
+      "lat": 36.49579,
+      "lon": 139.99644,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 93.3
+    },
+    {
+      "slug": "p13-5da3d6113e",
+      "name_ja": "栃木県那須野が原公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.930873,
+      "lon": 139.944844,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 59.4
+    },
+    {
+      "slug": "p13-3bae7955c3",
+      "name_ja": "栃木県とちぎわんぱく公園",
+      "municipality": "下都賀郡壬生町",
+      "operator": "栃木県",
+      "lat": 36.461544,
+      "lon": 139.806459,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 37.2
+    },
+    {
+      "slug": "p13-88ac600c9f",
+      "name_ja": "八幡山公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.570602,
+      "lon": 139.885164,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.6
+    },
+    {
+      "slug": "p13-a6c9c3fae9",
+      "name_ja": "長岡公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.586776,
+      "lon": 139.880004,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.9
+    },
+    {
+      "slug": "p13-1b211aa060",
+      "name_ja": "うつのみや平成記念子どもの森公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.68421,
+      "lon": 139.822463,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.7
+    },
+    {
+      "slug": "p13-d6ffd45a77",
+      "name_ja": "うつのみや文化の森公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.605268,
+      "lon": 139.875709,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.3
+    },
+    {
+      "slug": "p13-c976c7450d",
+      "name_ja": "みずほの自然の森公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.491465,
+      "lon": 139.92174,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.7
+    },
+    {
+      "slug": "p13-ecbacd7ec0",
+      "name_ja": "北山霊園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.612755,
+      "lon": 139.898116,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-0cf7cb8742",
+      "name_ja": "清原北公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.557415,
+      "lon": 139.985836,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.6
+    },
+    {
+      "slug": "p13-1eae56a6a1",
+      "name_ja": "織姫公園",
+      "municipality": "足利市",
+      "operator": "栃木県",
+      "lat": 36.342295,
+      "lon": 139.445213,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-667f412d96",
+      "name_ja": "迫間自然観察公園",
+      "municipality": "足利市",
+      "operator": "栃木県",
+      "lat": 36.31257,
+      "lon": 139.517387,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.3
+    },
+    {
+      "slug": "p13-53c3947845",
+      "name_ja": "永野川緑地公園",
+      "municipality": "栃木市",
+      "operator": "栃木県",
+      "lat": 36.386562,
+      "lon": 139.706518,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 26.3
+    },
+    {
+      "slug": "p13-f3d42f7262",
+      "name_ja": "栃木市都賀聖地公園",
+      "municipality": "栃木市",
+      "operator": "栃木県",
+      "lat": 36.431556,
+      "lon": 139.714929,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-6ab1baa308",
+      "name_ja": "秋山川堀米緑地",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.327488,
+      "lon": 139.571037,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-16223de665",
+      "name_ja": "渡良瀬川緑地",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.269158,
+      "lon": 139.579318,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-b6c4da51e5",
+      "name_ja": "愛宕山公園",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.378827,
+      "lon": 139.581207,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-3de8b3413f",
+      "name_ja": "富士山公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.559383,
+      "lon": 139.738117,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-9d1dfe5f05",
+      "name_ja": "自然の森総合公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.510048,
+      "lon": 139.797819,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-b7fa22d763",
+      "name_ja": "出会いの森総合公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.54461,
+      "lon": 139.716486,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-42aeef0192",
+      "name_ja": "鹿沼聖地公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.593175,
+      "lon": 139.716825,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-efe4722e83",
+      "name_ja": "丸山公園",
+      "municipality": "日光市",
+      "operator": "栃木県",
+      "lat": 36.737948,
+      "lon": 139.67024,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-fd0eb54051",
+      "name_ja": "小山総合公園",
+      "municipality": "小山市",
+      "operator": "栃木県",
+      "lat": 36.301943,
+      "lon": 139.781759,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.9
+    },
+    {
+      "slug": "p13-4711288434",
+      "name_ja": "やすらぎの森",
+      "municipality": "小山市",
+      "operator": "栃木県",
+      "lat": 36.341359,
+      "lon": 139.884359,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-a27bab4164",
+      "name_ja": "長峰公園",
+      "municipality": "矢板市",
+      "operator": "栃木県",
+      "lat": 36.811394,
+      "lon": 139.937701,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-f3806801ef",
+      "name_ja": "川崎城跡公園",
+      "municipality": "矢板市",
+      "operator": "栃木県",
+      "lat": 36.789363,
+      "lon": 139.917742,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-df4768b67f",
+      "name_ja": "長峰墓苑",
+      "municipality": "矢板市",
+      "operator": "栃木県",
+      "lat": 36.812898,
+      "lon": 139.941286,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-d109d2dc48",
+      "name_ja": "鳥野目河川公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.994462,
+      "lon": 140.031733,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.8
+    },
+    {
+      "slug": "p13-7f7347653a",
+      "name_ja": "東那須野公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.918549,
+      "lon": 140.020526,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-15e3f1be9e",
+      "name_ja": "烏ヶ森公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.890344,
+      "lon": 139.963351,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-c0842b83a4",
+      "name_ja": "鬼怒川運動公園",
+      "municipality": "さくら市",
+      "operator": "栃木県",
+      "lat": 36.696693,
+      "lon": 139.936862,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.8
+    },
+    {
+      "slug": "p13-2704d99f99",
+      "name_ja": "鬼怒川河川公園",
+      "municipality": "さくら市",
+      "operator": "栃木県",
+      "lat": 36.672171,
+      "lon": 139.95177,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.8
+    },
+    {
+      "slug": "p13-e8dddf7f90",
+      "name_ja": "総合公園",
+      "municipality": "さくら市",
+      "operator": "栃木県",
+      "lat": 36.696471,
+      "lon": 139.982804,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-9557fe2a26",
+      "name_ja": "西方総合公園",
+      "municipality": "上都賀郡西方町",
+      "operator": "栃木県",
+      "lat": 36.480388,
+      "lon": 139.731093,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-6e7921d3d4",
+      "name_ja": "益子町北公園",
+      "municipality": "芳賀郡益子町",
+      "operator": "栃木県",
+      "lat": 36.493435,
+      "lon": 140.115708,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-b13d088cb6",
+      "name_ja": "壬生総合公園",
+      "municipality": "下都賀郡壬生町",
+      "operator": "栃木県",
+      "lat": 36.462422,
+      "lon": 139.809316,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-9d9cbf2a1a",
+      "name_ja": "塩谷町総合公園",
+      "municipality": "塩谷郡塩谷町",
+      "operator": "栃木県",
+      "lat": 36.763451,
+      "lon": 139.83811,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.1
+    }
+  ]
+}

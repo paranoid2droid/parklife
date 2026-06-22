@@ -1,0 +1,376 @@
+{
+  "prefecture": "aomori",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d89eb0ad74",
+      "name_ja": "青森県総合運動公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.806556,
+      "lon": 140.704762,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 66.0
+    },
+    {
+      "slug": "p13-e0f6891d36",
+      "name_ja": "新青森県総合運動公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.842307,
+      "lon": 140.84242,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 59.4
+    },
+    {
+      "slug": "p13-74fe920ff8",
+      "name_ja": "合浦公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.829785,
+      "lon": 140.778586,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.0
+    },
+    {
+      "slug": "p13-a58da9033c",
+      "name_ja": "野木和公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.849521,
+      "lon": 140.674601,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.9
+    },
+    {
+      "slug": "p13-b148743b93",
+      "name_ja": "浪岡町湿生花園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.710828,
+      "lon": 140.565558,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-cf5e7fedda",
+      "name_ja": "三内霊園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.818476,
+      "lon": 140.687626,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-91c86c5b08",
+      "name_ja": "月見野霊園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.782199,
+      "lon": 140.814809,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 74.8
+    },
+    {
+      "slug": "p13-6269a8cf52",
+      "name_ja": "八甲田霊園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.742175,
+      "lon": 140.741991,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-d35adc8ff5",
+      "name_ja": "浪岡墓地公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.729728,
+      "lon": 140.62893,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-3bbd5c6f02",
+      "name_ja": "リバーランド沖館緑地",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.814577,
+      "lon": 140.695449,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-34de4a6cfa",
+      "name_ja": "鷹揚公園",
+      "municipality": "弘前市",
+      "operator": "青森県",
+      "lat": 40.608072,
+      "lon": 140.463767,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.9
+    },
+    {
+      "slug": "p13-9ef22ee0fd",
+      "name_ja": "岩木山総合公園",
+      "municipality": "弘前市",
+      "operator": "青森県",
+      "lat": 40.614243,
+      "lon": 140.303649,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 28.4
+    },
+    {
+      "slug": "p13-c2498c8caa",
+      "name_ja": "弘前市小沢墓地公園",
+      "municipality": "弘前市",
+      "operator": "青森県",
+      "lat": 40.559655,
+      "lon": 140.446776,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-2471c8f6cf",
+      "name_ja": "こどもの国",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.474356,
+      "lon": 141.516841,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.4
+    },
+    {
+      "slug": "p13-779b62c5a6",
+      "name_ja": "新井田公園",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.500047,
+      "lon": 141.515166,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-ed7dcc3a7a",
+      "name_ja": "南部山健康運動公園",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.536019,
+      "lon": 141.449809,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.1
+    },
+    {
+      "slug": "p13-354c7fc42c",
+      "name_ja": "東墓地公園",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.504152,
+      "lon": 141.550149,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.7
+    },
+    {
+      "slug": "p13-c548b64290",
+      "name_ja": "馬淵川緑地",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.536273,
+      "lon": 141.495938,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-6b81e324b0",
+      "name_ja": "とくらくぼ緑地",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.482004,
+      "lon": 141.44851,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-8995cb8696",
+      "name_ja": "第二馬淵川緑地",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.512591,
+      "lon": 141.464558,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-9b3004ae55",
+      "name_ja": "狼野長根公園",
+      "municipality": "五所川原市",
+      "operator": "青森県",
+      "lat": 40.760993,
+      "lon": 140.543552,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 32.8
+    },
+    {
+      "slug": "p13-8f9f6adca2",
+      "name_ja": "津軽フラワーセンター",
+      "municipality": "五所川原市",
+      "operator": "青森県",
+      "lat": 40.79777,
+      "lon": 140.525833,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.0
+    },
+    {
+      "slug": "p13-2c249a8c5c",
+      "name_ja": "岩木川河川公園",
+      "municipality": "五所川原市",
+      "operator": "青森県",
+      "lat": 40.824831,
+      "lon": 140.422278,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 45.5
+    },
+    {
+      "slug": "p13-f6d4093561",
+      "name_ja": "中央公園",
+      "municipality": "十和田市",
+      "operator": "青森県",
+      "lat": 40.610382,
+      "lon": 141.206795,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-f9c5359b4f",
+      "name_ja": "三沢市民の森",
+      "municipality": "三沢市",
+      "operator": "青森県",
+      "lat": 40.739498,
+      "lon": 141.370308,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 124.2
+    },
+    {
+      "slug": "p13-da31061b7f",
+      "name_ja": "三沢市墓地公園",
+      "municipality": "三沢市",
+      "operator": "青森県",
+      "lat": 40.713638,
+      "lon": 141.390479,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.2
+    },
+    {
+      "slug": "p13-27968168d6",
+      "name_ja": "早掛沼公園",
+      "municipality": "むつ市",
+      "operator": "青森県",
+      "lat": 41.315068,
+      "lon": 141.222772,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-17fe1b1899",
+      "name_ja": "むつ市墓地公園",
+      "municipality": "むつ市",
+      "operator": "青森県",
+      "lat": 41.30584,
+      "lon": 141.176632,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-e3db9f25cf",
+      "name_ja": "つがる地球村公園",
+      "municipality": "つがる市",
+      "operator": "青森県",
+      "lat": 40.765444,
+      "lon": 140.336344,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-54998f1d1c",
+      "name_ja": "猿賀公園",
+      "municipality": "平川市",
+      "operator": "青森県",
+      "lat": 40.617417,
+      "lon": 140.564495,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-4e61c48306",
+      "name_ja": "大高山総合公園",
+      "municipality": "西津軽郡鰺ヶ沢町",
+      "operator": "青森県",
+      "lat": 40.769313,
+      "lon": 140.203057,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.4
+    },
+    {
+      "slug": "p13-9f3bf790bd",
+      "name_ja": "大鰐あじゃら公園",
+      "municipality": "南津軽郡大鰐町",
+      "operator": "青森県",
+      "lat": 40.509546,
+      "lon": 140.575052,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 249.9
+    },
+    {
+      "slug": "p13-3e0cfbeb5f",
+      "name_ja": "富士見湖パーク",
+      "municipality": "北津軽郡鶴田町",
+      "operator": "青森県",
+      "lat": 40.750278,
+      "lon": 140.373606,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.4
+    },
+    {
+      "slug": "p13-596b0f7da7",
+      "name_ja": "舘野公園",
+      "municipality": "上北郡六戸町",
+      "operator": "青森県",
+      "lat": 40.614897,
+      "lon": 141.330643,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 44.8
+    },
+    {
+      "slug": "p13-691a41723c",
+      "name_ja": "市柳総合公園",
+      "municipality": "上北郡六ヶ所村",
+      "operator": "青森県",
+      "lat": 40.920031,
+      "lon": 141.332685,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 52.0
+    },
+    {
+      "slug": "p13-46c576d45a",
+      "name_ja": "八戸北丘陵下田公園",
+      "municipality": "上北郡おいらせ町",
+      "operator": "青森県",
+      "lat": 40.613543,
+      "lon": 141.399179,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.5
+    },
+    {
+      "slug": "p13-dc542cc280",
+      "name_ja": "城山公園",
+      "municipality": "三戸郡三戸町",
+      "operator": "青森県",
+      "lat": 40.382409,
+      "lon": 141.26522,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.8
+    }
+  ]
+}

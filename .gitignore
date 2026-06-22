@@ -27,4 +27,5 @@ data/run_queue.lock
 data/run_queue.log
 data/run_queue.stderr
 data/run_queue.stdout
+data/.ebird_key
 *.log

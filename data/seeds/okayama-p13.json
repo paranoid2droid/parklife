@@ -1,0 +1,356 @@
+{
+  "prefecture": "okayama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3c2495e4a0",
+      "name_ja": "岡山後楽園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.667858,
+      "lon": 133.935094,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-3ade83312b",
+      "name_ja": "浦安総合公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.60023,
+      "lon": 133.916217,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.3
+    },
+    {
+      "slug": "p13-39d15554f6",
+      "name_ja": "岡山操車場跡地公園（仮称）",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.653632,
+      "lon": 133.891724,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-15b11b085f",
+      "name_ja": "六番川水の公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.615619,
+      "lon": 133.998798,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.7
+    },
+    {
+      "slug": "p13-84d527e617",
+      "name_ja": "灘崎町総合公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.54875,
+      "lon": 133.864972,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-f300340bb1",
+      "name_ja": "瀬戸町総合運動公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.747466,
+      "lon": 134.069679,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.8
+    },
+    {
+      "slug": "p13-686cc29c1a",
+      "name_ja": "笠井山公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.717165,
+      "lon": 133.934276,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 34.0
+    },
+    {
+      "slug": "p13-7615dfaa3d",
+      "name_ja": "芥子山公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.67027,
+      "lon": 134.01425,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 37.1
+    },
+    {
+      "slug": "p13-7fed5a715a",
+      "name_ja": "操山公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.659999,
+      "lon": 133.948488,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 59.9
+    },
+    {
+      "slug": "p13-9793fe9631",
+      "name_ja": "烏城公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.663937,
+      "lon": 133.935601,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.8
+    },
+    {
+      "slug": "p13-067fc2458e",
+      "name_ja": "半田山植物園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.693223,
+      "lon": 133.930408,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-995a7033bd",
+      "name_ja": "笠井山墓園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.720444,
+      "lon": 133.942611,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-74b982cef1",
+      "name_ja": "百間川緑地",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.67037,
+      "lon": 133.957748,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 91.8
+    },
+    {
+      "slug": "p13-d01d7911a3",
+      "name_ja": "吉井川第１緑地",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.65469,
+      "lon": 134.049509,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-95aa6f32ab",
+      "name_ja": "貝殻山市民憩いの森公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.583764,
+      "lon": 134.017951,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 168.0
+    },
+    {
+      "slug": "p13-6019e6e527",
+      "name_ja": "くさかべ大池公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.714979,
+      "lon": 134.025492,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-1d81f6814c",
+      "name_ja": "松ヶ鼻ファミリーパーク",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.698551,
+      "lon": 133.785754,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-1d1e78b569",
+      "name_ja": "山田グリ－ンパ－ク",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.622377,
+      "lon": 133.846554,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-04e25440ba",
+      "name_ja": "酒津公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.611822,
+      "lon": 133.750401,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.0
+    },
+    {
+      "slug": "p13-4edd7e6606",
+      "name_ja": "瀬戸大橋架橋記念公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.442718,
+      "lon": 133.794812,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.7
+    },
+    {
+      "slug": "p13-61a172f7fb",
+      "name_ja": "種松山公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.5399,
+      "lon": 133.784961,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.5
+    },
+    {
+      "slug": "p13-1b7f2f8c50",
+      "name_ja": "真備総合公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.641508,
+      "lon": 133.684948,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-600da6dad3",
+      "name_ja": "高梁川緑地",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.566686,
+      "lon": 133.704172,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 16.6
+    },
+    {
+      "slug": "p13-a14df3f1a6",
+      "name_ja": "衆楽公園",
+      "municipality": "津山市",
+      "operator": "岡山県",
+      "lat": 35.071643,
+      "lon": 134.006126,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-073b015e76",
+      "name_ja": "神楽尾公園",
+      "municipality": "津山市",
+      "operator": "岡山県",
+      "lat": 35.078809,
+      "lon": 133.993105,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-632ea054ca",
+      "name_ja": "鶴山公園",
+      "municipality": "津山市",
+      "operator": "岡山県",
+      "lat": 35.062801,
+      "lon": 134.005244,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-169df58729",
+      "name_ja": "深山公園",
+      "municipality": "玉野市",
+      "operator": "岡山県",
+      "lat": 34.514119,
+      "lon": 133.929083,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 207.2
+    },
+    {
+      "slug": "p13-e3c77f240c",
+      "name_ja": "日之出公園",
+      "municipality": "玉野市",
+      "operator": "岡山県",
+      "lat": 34.497845,
+      "lon": 133.962429,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.4
+    },
+    {
+      "slug": "p13-946cdce49e",
+      "name_ja": "玉野市霊園",
+      "municipality": "玉野市",
+      "operator": "岡山県",
+      "lat": 34.51732,
+      "lon": 133.924573,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 33.4
+    },
+    {
+      "slug": "p13-5226e21903",
+      "name_ja": "かさおか太陽の広場",
+      "municipality": "笠岡市",
+      "operator": "岡山県",
+      "lat": 34.498499,
+      "lon": 133.500023,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 22.3
+    },
+    {
+      "slug": "p13-02d86b14f7",
+      "name_ja": "井原リフレッシュ公園",
+      "municipality": "井原市",
+      "operator": "岡山県",
+      "lat": 34.579992,
+      "lon": 133.448216,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.6
+    },
+    {
+      "slug": "p13-1192cc919a",
+      "name_ja": "清音ふるさとふれあい広場",
+      "municipality": "総社市",
+      "operator": "岡山県",
+      "lat": 34.655262,
+      "lon": 133.753712,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-dc7b2b8957",
+      "name_ja": "赤磐市山陽ふれあい公園",
+      "municipality": "赤磐市",
+      "operator": "岡山県",
+      "lat": 34.767875,
+      "lon": 134.020317,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.4
+    },
+    {
+      "slug": "p13-ba57ed621a",
+      "name_ja": "落合総合公園",
+      "municipality": "真庭市",
+      "operator": "岡山県",
+      "lat": 35.025282,
+      "lon": 133.739536,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.5
+    },
+    {
+      "slug": "p13-db36991dfc",
+      "name_ja": "浅口市遙照山総合公園",
+      "municipality": "浅口市",
+      "operator": "岡山県",
+      "lat": 34.572024,
+      "lon": 133.617499,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.7
+    }
+  ]
+}

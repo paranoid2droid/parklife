@@ -1,0 +1,346 @@
+{
+  "prefecture": "nagasaki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-082ed31d63",
+      "name_ja": "百花台公園",
+      "municipality": "雲仙市",
+      "operator": "長崎県",
+      "lat": 32.816449,
+      "lon": 130.295524,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 29.6
+    },
+    {
+      "slug": "p13-0630c2db78",
+      "name_ja": "西海橋公園",
+      "municipality": "西海市",
+      "operator": "長崎県",
+      "lat": 33.054996,
+      "lon": 129.759323,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.1
+    },
+    {
+      "slug": "p13-f032c8b70c",
+      "name_ja": "県立総合運動公園",
+      "municipality": "諫早市",
+      "operator": "長崎県",
+      "lat": 32.835857,
+      "lon": 130.041365,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 32.0
+    },
+    {
+      "slug": "p13-c99714f1d5",
+      "name_ja": "平戸公園",
+      "municipality": "平戸市",
+      "operator": "長崎県",
+      "lat": 33.356503,
+      "lon": 129.566631,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-70b6d8d53f",
+      "name_ja": "田平公園",
+      "municipality": "平戸市",
+      "operator": "長崎県",
+      "lat": 33.355068,
+      "lon": 129.576764,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-e210c2936e",
+      "name_ja": "稲佐山",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.758528,
+      "lon": 129.848058,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 92.8
+    },
+    {
+      "slug": "p13-74df2ed035",
+      "name_ja": "平和",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.775912,
+      "lon": 129.863387,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.7
+    },
+    {
+      "slug": "p13-feee8a2d4b",
+      "name_ja": "唐八景",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.718492,
+      "lon": 129.88902,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-27830f09b8",
+      "name_ja": "神の島",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.721818,
+      "lon": 129.826788,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-ded0b570b9",
+      "name_ja": "長崎東",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.769586,
+      "lon": 129.966709,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.0
+    },
+    {
+      "slug": "p13-681f3dc365",
+      "name_ja": "香焼総合",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.690495,
+      "lon": 129.79954,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-719ce32805",
+      "name_ja": "川原大池",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.625589,
+      "lon": 129.83244,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.6
+    },
+    {
+      "slug": "p13-8775ed6d74",
+      "name_ja": "中央公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.17671,
+      "lon": 129.720751,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-89ad558187",
+      "name_ja": "柚木ふれあいの森公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.201496,
+      "lon": 129.769084,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.8
+    },
+    {
+      "slug": "p13-0a0f320cc1",
+      "name_ja": "宇久町総合公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.261044,
+      "lon": 129.118466,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-7bcc2651ad",
+      "name_ja": "石盛岳公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.229538,
+      "lon": 129.730019,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 40.6
+    },
+    {
+      "slug": "p13-c1411aa280",
+      "name_ja": "隠居岳公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.178545,
+      "lon": 129.801578,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 100.0
+    },
+    {
+      "slug": "p13-23854b76f3",
+      "name_ja": "大潟墓地",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.181884,
+      "lon": 129.654388,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-7a55df0b23",
+      "name_ja": "島原城跡公園",
+      "municipality": "島原市",
+      "operator": "長崎県",
+      "lat": 32.789668,
+      "lon": 130.366927,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-9ffe93fd35",
+      "name_ja": "上山公園",
+      "municipality": "諫早市",
+      "operator": "長崎県",
+      "lat": 32.840107,
+      "lon": 130.04485,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 81.8
+    },
+    {
+      "slug": "p13-b860118752",
+      "name_ja": "御館山公園",
+      "municipality": "諫早市",
+      "operator": "長崎県",
+      "lat": 32.846828,
+      "lon": 130.034242,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.3
+    },
+    {
+      "slug": "p13-9c2909a691",
+      "name_ja": "諫早南墓園",
+      "municipality": "諫早市",
+      "operator": "長崎県",
+      "lat": 32.825709,
+      "lon": 130.042509,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-50f72a8a75",
+      "name_ja": "大村公園",
+      "municipality": "大村市",
+      "operator": "長崎県",
+      "lat": 32.897327,
+      "lon": 129.956641,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.4
+    },
+    {
+      "slug": "p13-331fe8e14e",
+      "name_ja": "岳ノ木場公園",
+      "municipality": "大村市",
+      "operator": "長崎県",
+      "lat": 32.928507,
+      "lon": 129.980725,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-dc97b7a963",
+      "name_ja": "亀岡公園",
+      "municipality": "平戸市",
+      "operator": "長崎県",
+      "lat": 33.365643,
+      "lon": 129.55504,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-4aea628fd3",
+      "name_ja": "不老山総合公園",
+      "municipality": "松浦市",
+      "operator": "長崎県",
+      "lat": 33.335286,
+      "lon": 129.722282,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.6
+    },
+    {
+      "slug": "p13-011575bea2",
+      "name_ja": "厳原総合公園",
+      "municipality": "対馬市",
+      "operator": "長崎県",
+      "lat": 34.183859,
+      "lon": 129.276748,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-eeeadce9dc",
+      "name_ja": "福江中央公園",
+      "municipality": "五島市",
+      "operator": "長崎県",
+      "lat": 32.685933,
+      "lon": 128.836551,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-7f114c78b7",
+      "name_ja": "大島総合公園",
+      "municipality": "西海市",
+      "operator": "長崎県",
+      "lat": 33.03089,
+      "lon": 129.605584,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-5fc44f1379",
+      "name_ja": "百合岳公園",
+      "municipality": "西海市",
+      "operator": "長崎県",
+      "lat": 33.04213,
+      "lon": 129.613507,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-719565b040",
+      "name_ja": "西有家みそ五郎の森総合公園",
+      "municipality": "南島原市",
+      "operator": "長崎県",
+      "lat": 32.680276,
+      "lon": 130.270409,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-11323fb3cc",
+      "name_ja": "崎野自然公園",
+      "municipality": "西彼杵郡時津町",
+      "operator": "長崎県",
+      "lat": 32.854167,
+      "lon": 129.853383,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-054b6b4cca",
+      "name_ja": "文化の森公園",
+      "municipality": "西彼杵郡時津町",
+      "operator": "長崎県",
+      "lat": 32.822314,
+      "lon": 129.846509,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.5
+    },
+    {
+      "slug": "p13-90d14a2ea7",
+      "name_ja": "やきもの公園",
+      "municipality": "東彼杵郡波佐見町",
+      "operator": "長崎県",
+      "lat": 33.141345,
+      "lon": 129.911009,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.4
+    }
+  ]
+}

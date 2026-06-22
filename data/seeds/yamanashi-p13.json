@@ -1,0 +1,196 @@
+{
+  "prefecture": "yamanashi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1348832161",
+      "name_ja": "笛吹川フルーツ公園",
+      "municipality": "山梨市",
+      "operator": "山梨県",
+      "lat": 35.701526,
+      "lon": 138.665605,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.5
+    },
+    {
+      "slug": "p13-785f3664e6",
+      "name_ja": "富士川クラフトパーク",
+      "municipality": "南巨摩郡身延町",
+      "operator": "山梨県",
+      "lat": 35.418512,
+      "lon": 138.438404,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 52.8
+    },
+    {
+      "slug": "p13-a6158bc36e",
+      "name_ja": "曽根丘陵公園",
+      "municipality": "甲府市",
+      "operator": "山梨県",
+      "lat": 35.5831,
+      "lon": 138.583892,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 38.1
+    },
+    {
+      "slug": "p13-1b1d69bbf0",
+      "name_ja": "舞鶴城公園",
+      "municipality": "甲府市",
+      "operator": "山梨県",
+      "lat": 35.664192,
+      "lon": 138.571102,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-64daa69a32",
+      "name_ja": "御勅使南公園",
+      "municipality": "南アルプス市",
+      "operator": "山梨県",
+      "lat": 35.668077,
+      "lon": 138.460162,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.5
+    },
+    {
+      "slug": "p13-66f9e4c129",
+      "name_ja": "富士北麓公園",
+      "municipality": "富士吉田市",
+      "operator": "山梨県",
+      "lat": 35.454771,
+      "lon": 138.768529,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 31.6
+    },
+    {
+      "slug": "p13-21b4a6f451",
+      "name_ja": "桂川ウェルネスパーク",
+      "municipality": "大月市",
+      "operator": "山梨県",
+      "lat": 35.621841,
+      "lon": 138.995706,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 20.1
+    },
+    {
+      "slug": "p13-4c7e5d3175",
+      "name_ja": "愛宕山広域公園",
+      "municipality": "甲府市",
+      "operator": "山梨県",
+      "lat": 35.673312,
+      "lon": 138.584488,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 52.8
+    },
+    {
+      "slug": "p13-8405da8823",
+      "name_ja": "森林公園金川の森",
+      "municipality": "笛吹市",
+      "operator": "山梨県",
+      "lat": 35.639843,
+      "lon": 138.676493,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 35.6
+    },
+    {
+      "slug": "p13-66200b20fa",
+      "name_ja": "荒川緑地",
+      "municipality": "甲府市",
+      "operator": "山梨県",
+      "lat": 35.651693,
+      "lon": 138.565795,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 46.1
+    },
+    {
+      "slug": "p13-9d000435ee",
+      "name_ja": "万力公園",
+      "municipality": "山梨市",
+      "operator": "山梨県",
+      "lat": 35.689704,
+      "lon": 138.679988,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.1
+    },
+    {
+      "slug": "p13-1efca9e2d0",
+      "name_ja": "岩殿山公園",
+      "municipality": "大月市",
+      "operator": "山梨県",
+      "lat": 35.619164,
+      "lon": 138.949063,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 33.5
+    },
+    {
+      "slug": "p13-4e7f268125",
+      "name_ja": "韮崎中央公園",
+      "municipality": "韮崎市",
+      "operator": "山梨県",
+      "lat": 35.722424,
+      "lon": 138.437833,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-cd7b12391d",
+      "name_ja": "櫛形総合公園",
+      "municipality": "南アルプス市",
+      "operator": "山梨県",
+      "lat": 35.617346,
+      "lon": 138.456439,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-75944ab849",
+      "name_ja": "赤坂台総合公園",
+      "municipality": "甲斐市",
+      "operator": "山梨県",
+      "lat": 35.674237,
+      "lon": 138.505086,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-44830cb445",
+      "name_ja": "敷島総合公園",
+      "municipality": "甲斐市",
+      "operator": "山梨県",
+      "lat": 35.701284,
+      "lon": 138.519135,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-9aaebf64c2",
+      "name_ja": "押原公園",
+      "municipality": "中巨摩郡昭和町",
+      "operator": "山梨県",
+      "lat": 35.630013,
+      "lon": 138.53928,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-144eefecd8",
+      "name_ja": "旭日丘湖畔緑地公園",
+      "municipality": "南都留郡山中湖村",
+      "operator": "山梨県",
+      "lat": 35.408381,
+      "lon": 138.878217,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-57f560826f",
+      "name_ja": "河口湖総合公園",
+      "municipality": "南都留郡富士河口湖町",
+      "operator": "山梨県",
+      "lat": 35.479636,
+      "lon": 138.759277,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.8
+    }
+  ]
+}

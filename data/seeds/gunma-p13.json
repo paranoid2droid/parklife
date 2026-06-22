@@ -1,0 +1,406 @@
+{
+  "prefecture": "gunma",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-0da4a7bd03",
+      "name_ja": "群馬の森",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.298888,
+      "lon": 139.07758,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.2
+    },
+    {
+      "slug": "p13-1ec9e41927",
+      "name_ja": "つつじが岡公園",
+      "municipality": "館林市",
+      "operator": "群馬県",
+      "lat": 36.240748,
+      "lon": 139.551485,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 38.6
+    },
+    {
+      "slug": "p13-3e101f5ed5",
+      "name_ja": "金山総合公園",
+      "municipality": "太田市",
+      "operator": "群馬県",
+      "lat": 36.317916,
+      "lon": 139.368153,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.7
+    },
+    {
+      "slug": "p13-3630aa3948",
+      "name_ja": "観音山ファミリーパーク",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.295952,
+      "lon": 138.996437,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 60.3
+    },
+    {
+      "slug": "p13-335a05d02f",
+      "name_ja": "多々良沼公園",
+      "municipality": "館林市",
+      "operator": "群馬県",
+      "lat": 36.255445,
+      "lon": 139.501597,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 45.1
+    },
+    {
+      "slug": "p13-98e0a7e9a3",
+      "name_ja": "榛名公園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.474837,
+      "lon": 138.875012,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 520.0
+    },
+    {
+      "slug": "p13-5dc005272f",
+      "name_ja": "妙義公園",
+      "municipality": "甘楽郡下仁田町",
+      "operator": "群馬県",
+      "lat": 36.287256,
+      "lon": 138.741322,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 34.0
+    },
+    {
+      "slug": "p13-26aef3c158",
+      "name_ja": "前橋公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.393669,
+      "lon": 139.060676,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.5
+    },
+    {
+      "slug": "p13-aaa32906d4",
+      "name_ja": "大室公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.386828,
+      "lon": 139.201581,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.5
+    },
+    {
+      "slug": "p13-20c85db7eb",
+      "name_ja": "荻窪公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.425401,
+      "lon": 139.127883,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-afe7cb5c89",
+      "name_ja": "嶺公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.45442,
+      "lon": 139.119745,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 55.3
+    },
+    {
+      "slug": "p13-d459105aa2",
+      "name_ja": "観音山公園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.307835,
+      "lon": 138.985152,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 75.0
+    },
+    {
+      "slug": "p13-c4fcce347f",
+      "name_ja": "烏川緑地",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.326177,
+      "lon": 138.988675,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 33.0
+    },
+    {
+      "slug": "p13-c744ff7d50",
+      "name_ja": "八幡霊園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.349003,
+      "lon": 138.936818,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.9
+    },
+    {
+      "slug": "p13-b6b31de1c4",
+      "name_ja": "烏川２号緑地",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.309258,
+      "lon": 139.007634,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 64.1
+    },
+    {
+      "slug": "p13-33c9826fa7",
+      "name_ja": "ふれあい公園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.3989,
+      "lon": 138.950824,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-a8c9c65daa",
+      "name_ja": "三ツ寺公園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.382892,
+      "lon": 138.995216,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-78e2e5e6ef",
+      "name_ja": "上毛野はにわの里公園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.380032,
+      "lon": 138.985365,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-fa42edfc63",
+      "name_ja": "桐生が岡公園",
+      "municipality": "桐生市",
+      "operator": "群馬県",
+      "lat": 36.419606,
+      "lon": 139.339226,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-95dbe9d4e5",
+      "name_ja": "吾妻公園",
+      "municipality": "桐生市",
+      "operator": "群馬県",
+      "lat": 36.420821,
+      "lon": 139.334499,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-b752d4eda8",
+      "name_ja": "水道山公園",
+      "municipality": "桐生市",
+      "operator": "群馬県",
+      "lat": 36.419015,
+      "lon": 139.333284,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-98076b5fcd",
+      "name_ja": "桐生市南公園",
+      "municipality": "桐生市",
+      "operator": "群馬県",
+      "lat": 36.373927,
+      "lon": 139.336857,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-d9f0a04143",
+      "name_ja": "松原橋公園",
+      "municipality": "桐生市",
+      "operator": "群馬県",
+      "lat": 36.374745,
+      "lon": 139.35833,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-26d60a1f0e",
+      "name_ja": "伊勢崎市華蔵寺公園",
+      "municipality": "伊勢崎市",
+      "operator": "群馬県",
+      "lat": 36.34339,
+      "lon": 139.198108,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 26.6
+    },
+    {
+      "slug": "p13-86a6701c57",
+      "name_ja": "伊勢崎市いせさき市民のもり公園",
+      "municipality": "伊勢崎市",
+      "operator": "群馬県",
+      "lat": 36.294572,
+      "lon": 139.198373,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-5e6b0a8eb1",
+      "name_ja": "西山公園",
+      "municipality": "太田市",
+      "operator": "群馬県",
+      "lat": 36.313423,
+      "lon": 139.373491,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 45.4
+    },
+    {
+      "slug": "p13-eda2dd8139",
+      "name_ja": "東山公園",
+      "municipality": "太田市",
+      "operator": "群馬県",
+      "lat": 36.309663,
+      "lon": 139.376606,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 37.7
+    },
+    {
+      "slug": "p13-a3d36dcbea",
+      "name_ja": "沼田公園",
+      "municipality": "沼田市",
+      "operator": "群馬県",
+      "lat": 36.648967,
+      "lon": 139.040811,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-2eadeee7f4",
+      "name_ja": "運動公園",
+      "municipality": "沼田市",
+      "operator": "群馬県",
+      "lat": 36.649638,
+      "lon": 139.023398,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-175c567b10",
+      "name_ja": "近藤沼公園",
+      "municipality": "館林市",
+      "operator": "群馬県",
+      "lat": 36.225278,
+      "lon": 139.502432,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-c74951d4ef",
+      "name_ja": "茂林寺公園",
+      "municipality": "館林市",
+      "operator": "群馬県",
+      "lat": 36.22674,
+      "lon": 139.531341,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-b1ce7170ea",
+      "name_ja": "渋川市総合公園",
+      "municipality": "渋川市",
+      "operator": "群馬県",
+      "lat": 36.488899,
+      "lon": 138.942559,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 57.2
+    },
+    {
+      "slug": "p13-bcf6ad1a71",
+      "name_ja": "渋川スカイランドパーク",
+      "municipality": "渋川市",
+      "operator": "群馬県",
+      "lat": 36.505389,
+      "lon": 138.962299,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.4
+    },
+    {
+      "slug": "p13-ed8feeb130",
+      "name_ja": "利根川河川敷公園",
+      "municipality": "渋川市",
+      "operator": "群馬県",
+      "lat": 36.482303,
+      "lon": 139.025963,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-11716a42e9",
+      "name_ja": "上ノ山公園",
+      "municipality": "渋川市",
+      "operator": "群馬県",
+      "lat": 36.49173,
+      "lon": 138.921069,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-967bd60fc4",
+      "name_ja": "庚申山総合公園",
+      "municipality": "藤岡市",
+      "operator": "群馬県",
+      "lat": 36.232526,
+      "lon": 139.067507,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 40.5
+    },
+    {
+      "slug": "p13-2491094217",
+      "name_ja": "甘楽総合公園",
+      "municipality": "甘楽郡甘楽町",
+      "operator": "群馬県",
+      "lat": 36.22569,
+      "lon": 138.914651,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.0
+    },
+    {
+      "slug": "p13-6d550874e3",
+      "name_ja": "総合公園",
+      "municipality": "利根郡みなかみ町",
+      "operator": "群馬県",
+      "lat": 36.677249,
+      "lon": 138.992507,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-96c0e89efe",
+      "name_ja": "板倉中央公園",
+      "municipality": "邑楽郡板倉町",
+      "operator": "群馬県",
+      "lat": 36.227943,
+      "lon": 139.605087,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-0eb292aacf",
+      "name_ja": "いずみ総合公園",
+      "municipality": "邑楽郡大泉町",
+      "operator": "群馬県",
+      "lat": 36.245164,
+      "lon": 139.394005,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.4
+    }
+  ]
+}

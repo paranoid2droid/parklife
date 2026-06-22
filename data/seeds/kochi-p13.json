@@ -1,0 +1,176 @@
+{
+  "prefecture": "kochi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-c2b1a68666",
+      "name_ja": "土佐西南大規模公園",
+      "municipality": "四万十市",
+      "operator": "高知県",
+      "lat": 32.946076,
+      "lon": 132.995888,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 82.6
+    },
+    {
+      "slug": "p13-a049e56e04",
+      "name_ja": "室戸広域公園",
+      "municipality": "室戸市",
+      "operator": "高知県",
+      "lat": 33.289578,
+      "lon": 134.172029,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 74.4
+    },
+    {
+      "slug": "p13-3f730be844",
+      "name_ja": "安芸広域公園",
+      "municipality": "安芸市",
+      "operator": "高知県",
+      "lat": 33.526884,
+      "lon": 133.911343,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-15942de1a5",
+      "name_ja": "野市総合公園",
+      "municipality": "香南市",
+      "operator": "高知県",
+      "lat": 33.570417,
+      "lon": 133.707622,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.9
+    },
+    {
+      "slug": "p13-87d6a117b3",
+      "name_ja": "高知空港緑の広場",
+      "municipality": "南国市",
+      "operator": "高知県",
+      "lat": 33.537332,
+      "lon": 133.681479,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-e857eed232",
+      "name_ja": "春野総合運動公園",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.509617,
+      "lon": 133.501267,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 59.7
+    },
+    {
+      "slug": "p13-8adf2045fc",
+      "name_ja": "高知公園",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.561037,
+      "lon": 133.531163,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.3
+    },
+    {
+      "slug": "p13-84e0b3de36",
+      "name_ja": "五台山公園",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.547188,
+      "lon": 133.574321,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.5
+    },
+    {
+      "slug": "p13-ad233376b0",
+      "name_ja": "種崎千松公園",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.503672,
+      "lon": 133.569727,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-3f1235697a",
+      "name_ja": "鏡川緑地",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.552601,
+      "lon": 133.511698,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-fa672ae9a7",
+      "name_ja": "筆山公園",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.55134,
+      "lon": 133.536251,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.6
+    },
+    {
+      "slug": "p13-3e7b12b53e",
+      "name_ja": "桂浜公園",
+      "municipality": "高知市",
+      "operator": "高知県",
+      "lat": 33.497374,
+      "lon": 133.572127,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 19.3
+    },
+    {
+      "slug": "p13-281880f91d",
+      "name_ja": "室戸中央公園",
+      "municipality": "室戸市",
+      "operator": "高知県",
+      "lat": 33.286432,
+      "lon": 134.158623,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 39.5
+    },
+    {
+      "slug": "p13-5886554829",
+      "name_ja": "西八幡公園",
+      "municipality": "安芸市",
+      "operator": "高知県",
+      "lat": 33.504463,
+      "lon": 133.891849,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-dbb91afd2a",
+      "name_ja": "宿毛市総合運動公園",
+      "municipality": "宿毛市",
+      "operator": "高知県",
+      "lat": 32.967917,
+      "lon": 132.781836,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 43.5
+    },
+    {
+      "slug": "p13-cb4f4b3373",
+      "name_ja": "土佐清水総合公園",
+      "municipality": "土佐清水市",
+      "operator": "高知県",
+      "lat": 32.790425,
+      "lon": 132.958692,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-552fcc486a",
+      "name_ja": "為松公園",
+      "municipality": "四万十市",
+      "operator": "高知県",
+      "lat": 32.997113,
+      "lon": 132.929714,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.0
+    }
+  ]
+}

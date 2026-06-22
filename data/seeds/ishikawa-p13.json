@@ -1,0 +1,356 @@
+{
+  "prefecture": "ishikawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9cd9f3e9a2",
+      "name_ja": "犀川緑地",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.548053,
+      "lon": 136.661436,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 35.4
+    },
+    {
+      "slug": "p13-440b088905",
+      "name_ja": "健民海浜公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.594983,
+      "lon": 136.584958,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 47.1
+    },
+    {
+      "slug": "p13-67dfed2c06",
+      "name_ja": "木場潟公園",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.3667,
+      "lon": 136.451201,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 49.1
+    },
+    {
+      "slug": "p13-5ad3b14fae",
+      "name_ja": "白山ろくテーマパーク",
+      "municipality": "白山市",
+      "operator": "石川県",
+      "lat": 36.38081,
+      "lon": 136.613458,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 22.7
+    },
+    {
+      "slug": "p13-da42809196",
+      "name_ja": "能登歴史公園",
+      "municipality": "鹿島郡中能登町",
+      "operator": "石川県",
+      "lat": 36.960971,
+      "lon": 136.97083,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 11.8
+    },
+    {
+      "slug": "p13-c6ab313aca",
+      "name_ja": "北部公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.626997,
+      "lon": 136.692252,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.7
+    },
+    {
+      "slug": "p13-a11bc78022",
+      "name_ja": "金沢城公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.566254,
+      "lon": 136.659395,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.7
+    },
+    {
+      "slug": "p13-7557ebb0f0",
+      "name_ja": "奥卯辰山健民公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.560057,
+      "lon": 136.69765,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.5
+    },
+    {
+      "slug": "p13-e59825c09d",
+      "name_ja": "粟津公園",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.356578,
+      "lon": 136.420018,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-75d2aef50b",
+      "name_ja": "松任海浜公園",
+      "municipality": "白山市",
+      "operator": "石川県",
+      "lat": 36.539741,
+      "lon": 136.532425,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-dc05b32895",
+      "name_ja": "本多の森公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.559557,
+      "lon": 136.661818,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-114b809a1c",
+      "name_ja": "兼六園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.562636,
+      "lon": 136.662077,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-a2a3a19752",
+      "name_ja": "卯辰山公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.567947,
+      "lon": 136.689317,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 67.3
+    },
+    {
+      "slug": "p13-5ca7322030",
+      "name_ja": "奥卯辰山墓地公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.565939,
+      "lon": 136.693734,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-0e4bb53441",
+      "name_ja": "内川墓地公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.495257,
+      "lon": 136.671865,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-c30f1a1448",
+      "name_ja": "こなん水辺公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.632219,
+      "lon": 136.664171,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-df492db1b3",
+      "name_ja": "希望の丘公園",
+      "municipality": "七尾市",
+      "operator": "石川県",
+      "lat": 37.031838,
+      "lon": 136.988771,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.8
+    },
+    {
+      "slug": "p13-fc767b4426",
+      "name_ja": "能登歴史公園",
+      "municipality": "七尾市",
+      "operator": "石川県",
+      "lat": 37.024956,
+      "lon": 136.957033,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-6733e4f5e4",
+      "name_ja": "ふれあい健康広場",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.393515,
+      "lon": 136.387453,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-50b497f075",
+      "name_ja": "安宅公園",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.418681,
+      "lon": 136.417807,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-b9a942e355",
+      "name_ja": "鉢ヶ崎総合公園",
+      "municipality": "珠洲市",
+      "operator": "石川県",
+      "lat": 37.440362,
+      "lon": 137.328157,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-e081c7c62d",
+      "name_ja": "錦城山公園",
+      "municipality": "加賀市",
+      "operator": "石川県",
+      "lat": 36.30838,
+      "lon": 136.304429,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.6
+    },
+    {
+      "slug": "p13-6300078b6c",
+      "name_ja": "中央公園",
+      "municipality": "加賀市",
+      "operator": "石川県",
+      "lat": 36.324695,
+      "lon": 136.331771,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 38.1
+    },
+    {
+      "slug": "p13-073e425fa7",
+      "name_ja": "眉丈台地自然緑地公園",
+      "municipality": "羽咋市",
+      "operator": "石川県",
+      "lat": 36.925335,
+      "lon": 136.779146,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-6be85d6a92",
+      "name_ja": "うのけ総合公園",
+      "municipality": "かほく市",
+      "operator": "石川県",
+      "lat": 36.719469,
+      "lon": 136.725415,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.3
+    },
+    {
+      "slug": "p13-cf7188f22e",
+      "name_ja": "白山郷公園",
+      "municipality": "白山市",
+      "operator": "石川県",
+      "lat": 36.454665,
+      "lon": 136.619883,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-f3622f6008",
+      "name_ja": "泉台公園",
+      "municipality": "能美市",
+      "operator": "石川県",
+      "lat": 36.429784,
+      "lon": 136.520402,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-273d8036f2",
+      "name_ja": "和田山・末寺山史跡公園",
+      "municipality": "能美市",
+      "operator": "石川県",
+      "lat": 36.442619,
+      "lon": 136.507529,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 16.2
+    },
+    {
+      "slug": "p13-06aca00c42",
+      "name_ja": "野々市中央公園",
+      "municipality": "石川郡野々市町",
+      "operator": "石川県",
+      "lat": 36.52449,
+      "lon": 136.598819,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-8005d54492",
+      "name_ja": "内灘町総合公園",
+      "municipality": "河北郡内灘町",
+      "operator": "石川県",
+      "lat": 36.664069,
+      "lon": 136.6513,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-4798daa69a",
+      "name_ja": "内灘町霊園",
+      "municipality": "河北郡内灘町",
+      "operator": "石川県",
+      "lat": 36.676291,
+      "lon": 136.656195,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 14.9
+    },
+    {
+      "slug": "p13-1989565d32",
+      "name_ja": "せせらぎ公園",
+      "municipality": "羽咋郡志賀町",
+      "operator": "石川県",
+      "lat": 37.078264,
+      "lon": 136.776249,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 35.8
+    },
+    {
+      "slug": "p13-2327c95830",
+      "name_ja": "由比ヶ丘公園",
+      "municipality": "鳳珠郡穴水町",
+      "operator": "石川県",
+      "lat": 37.224456,
+      "lon": 136.918209,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.0
+    },
+    {
+      "slug": "p13-692fc23049",
+      "name_ja": "松波城址公園",
+      "municipality": "鳳珠郡能登町",
+      "operator": "石川県",
+      "lat": 37.355463,
+      "lon": 137.240959,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-aad78e317e",
+      "name_ja": "遠島山公園",
+      "municipality": "鳳珠郡能登町",
+      "operator": "石川県",
+      "lat": 37.299878,
+      "lon": 137.161303,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.7
+    }
+  ]
+}

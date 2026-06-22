@@ -1,0 +1,386 @@
+{
+  "prefecture": "mie",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-06a52c38a2",
+      "name_ja": "北勢中央公園",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 35.065564,
+      "lon": 136.54548,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 32.4
+    },
+    {
+      "slug": "p13-f98712ca7d",
+      "name_ja": "大仏山公園",
+      "municipality": "度会郡玉城町",
+      "operator": "三重県",
+      "lat": 34.519815,
+      "lon": 136.651702,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 48.4
+    },
+    {
+      "slug": "p13-d0433702b5",
+      "name_ja": "鈴鹿青少年の森",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.853556,
+      "lon": 136.534068,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 51.3
+    },
+    {
+      "slug": "p13-413f6d039a",
+      "name_ja": "亀山サンシャインパーク",
+      "municipality": "亀山市",
+      "operator": "三重県",
+      "lat": 34.867822,
+      "lon": 136.414229,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.2
+    },
+    {
+      "slug": "p13-39e0102eec",
+      "name_ja": "安濃中央総合公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.767862,
+      "lon": 136.439229,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.1
+    },
+    {
+      "slug": "p13-fd68f0c255",
+      "name_ja": "中勢グリーンパーク",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.79475,
+      "lon": 136.50224,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-8353a6a621",
+      "name_ja": "町民の森公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.786407,
+      "lon": 136.533893,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-abc7a0c921",
+      "name_ja": "津偕楽公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.732802,
+      "lon": 136.507295,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-8c1394841d",
+      "name_ja": "偕楽霊苑",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.731939,
+      "lon": 136.502336,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-37c5fb4d8e",
+      "name_ja": "雲出川緑地",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.6477,
+      "lon": 136.48897,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 14.0
+    },
+    {
+      "slug": "p13-7d4f52db60",
+      "name_ja": "垂坂公園・羽津山緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 35.00183,
+      "lon": 136.618515,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.5
+    },
+    {
+      "slug": "p13-a01f1e927e",
+      "name_ja": "三滝公園",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.971108,
+      "lon": 136.635547,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-fa74ecf2cb",
+      "name_ja": "泊山公園",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.937557,
+      "lon": 136.590146,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-357bc493b1",
+      "name_ja": "南部丘陵公園",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.937751,
+      "lon": 136.576908,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 47.9
+    },
+    {
+      "slug": "p13-810f3f514d",
+      "name_ja": "鈴鹿川緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.920054,
+      "lon": 136.614089,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-102990acd5",
+      "name_ja": "伊坂ダム周辺緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 35.038151,
+      "lon": 136.615527,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-735d1c52f3",
+      "name_ja": "泊山霊園緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.936852,
+      "lon": 136.585581,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-5605aabea2",
+      "name_ja": "宮川堤公園",
+      "municipality": "伊勢市",
+      "operator": "三重県",
+      "lat": 34.49517,
+      "lon": 136.686364,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-8f622856be",
+      "name_ja": "倉田山公園",
+      "municipality": "伊勢市",
+      "operator": "三重県",
+      "lat": 34.489011,
+      "lon": 136.733815,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-48c9a34cce",
+      "name_ja": "宮川ラブリバー公園",
+      "municipality": "伊勢市",
+      "operator": "三重県",
+      "lat": 34.509814,
+      "lon": 136.694806,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 22.4
+    },
+    {
+      "slug": "p13-03d7d466cb",
+      "name_ja": "松阪公園",
+      "municipality": "松阪市",
+      "operator": "三重県",
+      "lat": 34.575541,
+      "lon": 136.526763,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-5ec2685d35",
+      "name_ja": "西山墓地",
+      "municipality": "松阪市",
+      "operator": "三重県",
+      "lat": 34.543199,
+      "lon": 136.523638,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 28.1
+    },
+    {
+      "slug": "p13-e3aa336d2d",
+      "name_ja": "水郷の森",
+      "municipality": "桑名市",
+      "operator": "三重県",
+      "lat": 35.120939,
+      "lon": 136.691804,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-8509fc4671",
+      "name_ja": "鈴鹿川河川緑地",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.886299,
+      "lon": 136.533492,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 15.8
+    },
+    {
+      "slug": "p13-edfe17d491",
+      "name_ja": "鈴鹿フラワーパーク",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.903091,
+      "lon": 136.517739,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-ee720ab392",
+      "name_ja": "海のみえる岸岡山緑地",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.851612,
+      "lon": 136.604441,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-c41ee575eb",
+      "name_ja": "深谷公園",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.837283,
+      "lon": 136.496066,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.5
+    },
+    {
+      "slug": "p13-49ca83d1a4",
+      "name_ja": "東山公園",
+      "municipality": "名張市",
+      "operator": "三重県",
+      "lat": 34.628965,
+      "lon": 136.130851,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 24.6
+    },
+    {
+      "slug": "p13-28ca9fe902",
+      "name_ja": "名張中央公園",
+      "municipality": "名張市",
+      "operator": "三重県",
+      "lat": 34.622448,
+      "lon": 136.110797,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.7
+    },
+    {
+      "slug": "p13-3be349582b",
+      "name_ja": "亀山公園",
+      "municipality": "亀山市",
+      "operator": "三重県",
+      "lat": 34.859855,
+      "lon": 136.449062,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-c80fcabad3",
+      "name_ja": "阿児ふるさと公園",
+      "municipality": "志摩市",
+      "operator": "三重県",
+      "lat": 34.323596,
+      "lon": 136.830397,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-4371a6e2b7",
+      "name_ja": "上野公園",
+      "municipality": "伊賀市",
+      "operator": "三重県",
+      "lat": 34.770474,
+      "lon": 136.127714,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-0ba6891ff5",
+      "name_ja": "岩倉峡公園",
+      "municipality": "伊賀市",
+      "operator": "三重県",
+      "lat": 34.78007,
+      "lon": 136.084285,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 22.2
+    },
+    {
+      "slug": "p13-4828ae8dd1",
+      "name_ja": "上野東公園",
+      "municipality": "伊賀市",
+      "operator": "三重県",
+      "lat": 34.757374,
+      "lon": 136.155349,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-84fd044986",
+      "name_ja": "東員町中部公園",
+      "municipality": "員弁郡東員町",
+      "operator": "三重県",
+      "lat": 35.073895,
+      "lon": 136.581192,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.7
+    },
+    {
+      "slug": "p13-8f2a34f112",
+      "name_ja": "朝明緑地",
+      "municipality": "三重郡菰野町",
+      "operator": "三重県",
+      "lat": 35.017887,
+      "lon": 136.492957,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-4a0c8a5a55",
+      "name_ja": "古里公園",
+      "municipality": "多気郡明和町",
+      "operator": "三重県",
+      "lat": 34.541944,
+      "lon": 136.608431,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-0803c2e659",
+      "name_ja": "寺谷総合公園",
+      "municipality": "南牟婁郡御浜町",
+      "operator": "三重県",
+      "lat": 33.80271,
+      "lon": 136.03857,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.9
+    }
+  ]
+}

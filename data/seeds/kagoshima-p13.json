@@ -1,0 +1,416 @@
+{
+  "prefecture": "kagoshima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-fa34cfb5fd",
+      "name_ja": "大隅広域公園",
+      "municipality": "鹿屋市",
+      "operator": "鹿児島県",
+      "lat": 31.298043,
+      "lon": 130.921374,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 47.2
+    },
+    {
+      "slug": "p13-9aedc9f159",
+      "name_ja": "吉野公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.633626,
+      "lon": 130.594432,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.9
+    },
+    {
+      "slug": "p13-7f37dea4df",
+      "name_ja": "吹上浜海浜公園",
+      "municipality": "南さつま市",
+      "operator": "鹿児島県",
+      "lat": 31.437741,
+      "lon": 130.289121,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 75.7
+    },
+    {
+      "slug": "p13-54fb4f809a",
+      "name_ja": "北薩広域公園",
+      "municipality": "薩摩郡さつま町",
+      "operator": "鹿児島県",
+      "lat": 31.897723,
+      "lon": 130.437517,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 41.3
+    },
+    {
+      "slug": "p13-d7c8b370a2",
+      "name_ja": "かごしま健康の森公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.645065,
+      "lon": 130.504461,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 33.7
+    },
+    {
+      "slug": "p13-f53d6010ee",
+      "name_ja": "鹿児島ふれあいスポーツランド",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.549113,
+      "lon": 130.489757,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 40.0
+    },
+    {
+      "slug": "p13-255e08134c",
+      "name_ja": "錦江湾公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.462747,
+      "lon": 130.506974,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.5
+    },
+    {
+      "slug": "p13-77e26fab22",
+      "name_ja": "慈眼寺公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.511286,
+      "lon": 130.499614,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-029156c398",
+      "name_ja": "城山公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.597409,
+      "lon": 130.551022,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.6
+    },
+    {
+      "slug": "p13-fc796f3f60",
+      "name_ja": "田上墓園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.571451,
+      "lon": 130.529318,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-f9a812bc13",
+      "name_ja": "平川動物公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.463719,
+      "lon": 130.503506,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 29.3
+    },
+    {
+      "slug": "p13-0f4a3ea126",
+      "name_ja": "鹿屋中央公園",
+      "municipality": "鹿屋市",
+      "operator": "鹿児島県",
+      "lat": 31.380837,
+      "lon": 130.849412,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-86204d35fd",
+      "name_ja": "霧島ヶ丘公園",
+      "municipality": "鹿屋市",
+      "operator": "鹿児島県",
+      "lat": 31.34328,
+      "lon": 130.814886,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-06539b9a0f",
+      "name_ja": "城山公園",
+      "municipality": "鹿屋市",
+      "operator": "鹿児島県",
+      "lat": 31.389128,
+      "lon": 130.846647,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-000483c592",
+      "name_ja": "阿久根大島公園",
+      "municipality": "阿久根市",
+      "operator": "鹿児島県",
+      "lat": 32.026378,
+      "lon": 130.165807,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 30.0
+    },
+    {
+      "slug": "p13-a4a70328b0",
+      "name_ja": "番所丘公園",
+      "municipality": "阿久根市",
+      "operator": "鹿児島県",
+      "lat": 32.004006,
+      "lon": 130.189604,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 21.9
+    },
+    {
+      "slug": "p13-456495b1ac",
+      "name_ja": "わかさ公園",
+      "municipality": "西之表市",
+      "operator": "鹿児島県",
+      "lat": 30.721795,
+      "lon": 130.993961,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-f588e5fb90",
+      "name_ja": "唐浜臨海公園",
+      "municipality": "薩摩川内市",
+      "operator": "鹿児島県",
+      "lat": 31.871307,
+      "lon": 130.214514,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-171c2ddc95",
+      "name_ja": "城山公園",
+      "municipality": "日置市",
+      "operator": "鹿児島県",
+      "lat": 31.629675,
+      "lon": 130.389185,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-26cbfb10cb",
+      "name_ja": "吹上浜公園",
+      "municipality": "日置市",
+      "operator": "鹿児島県",
+      "lat": 31.517726,
+      "lon": 130.337565,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 29.4
+    },
+    {
+      "slug": "p13-553c45aebf",
+      "name_ja": "城山公園",
+      "municipality": "曽於市",
+      "operator": "鹿児島県",
+      "lat": 31.726795,
+      "lon": 130.985922,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.0
+    },
+    {
+      "slug": "p13-0befa9d53e",
+      "name_ja": "城山公園",
+      "municipality": "霧島市",
+      "operator": "鹿児島県",
+      "lat": 31.741234,
+      "lon": 130.781051,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.9
+    },
+    {
+      "slug": "p13-ab2f782e1e",
+      "name_ja": "丸岡公園",
+      "municipality": "霧島市",
+      "operator": "鹿児島県",
+      "lat": 31.89227,
+      "lon": 130.675238,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.2
+    },
+    {
+      "slug": "p13-4fd4dbe25c",
+      "name_ja": "長崎鼻公園",
+      "municipality": "いちき串木野市",
+      "operator": "鹿児島県",
+      "lat": 31.707908,
+      "lon": 130.262925,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-de92148aa3",
+      "name_ja": "ダグリ公園",
+      "municipality": "志布志市",
+      "operator": "鹿児島県",
+      "lat": 31.465147,
+      "lon": 131.139547,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-5e0b960095",
+      "name_ja": "松山城山総合公園",
+      "municipality": "志布志市",
+      "operator": "鹿児島県",
+      "lat": 31.579769,
+      "lon": 131.040276,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.8
+    },
+    {
+      "slug": "p13-e6f9418895",
+      "name_ja": "志布志城史跡公園",
+      "municipality": "志布志市",
+      "operator": "鹿児島県",
+      "lat": 31.484863,
+      "lon": 131.108922,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-9442ca435c",
+      "name_ja": "大浜緑地",
+      "municipality": "志布志市",
+      "operator": "鹿児島県",
+      "lat": 31.466908,
+      "lon": 131.092439,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-fc18e76d27",
+      "name_ja": "おがみ山公園",
+      "municipality": "奄美市",
+      "operator": "鹿児島県",
+      "lat": 28.373496,
+      "lon": 129.494183,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-3aa0a51fa7",
+      "name_ja": "あかざき公園",
+      "municipality": "奄美市",
+      "operator": "鹿児島県",
+      "lat": 28.399352,
+      "lon": 129.488968,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-191fab98b6",
+      "name_ja": "知覧平和公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.36319,
+      "lon": 130.433951,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.2
+    },
+    {
+      "slug": "p13-d9c9250690",
+      "name_ja": "岩屋公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.417919,
+      "lon": 130.424899,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-434d314aba",
+      "name_ja": "塘之池公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.376481,
+      "lon": 130.350556,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-44ba427101",
+      "name_ja": "大野岳公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.257819,
+      "lon": 130.517975,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-80063542ec",
+      "name_ja": "番所公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.247426,
+      "lon": 130.433331,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-82c2e1bc2a",
+      "name_ja": "戸柱公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.251888,
+      "lon": 130.443172,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-1221349890",
+      "name_ja": "曽木の滝公園",
+      "municipality": "伊佐市",
+      "operator": "鹿児島県",
+      "lat": 32.012422,
+      "lon": 130.577076,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 17.6
+    },
+    {
+      "slug": "p13-7cac72d670",
+      "name_ja": "姶良市総合運動公園",
+      "municipality": "姶良市",
+      "operator": "鹿児島県",
+      "lat": 31.724482,
+      "lon": 130.601003,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 24.1
+    },
+    {
+      "slug": "p13-48d463562d",
+      "name_ja": "屋久島町健康の森公園",
+      "municipality": "熊毛郡屋久島町",
+      "operator": "鹿児島県",
+      "lat": 30.317013,
+      "lon": 130.643138,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-6210f5b142",
+      "name_ja": "清水公園",
+      "municipality": "大島郡瀬戸内町",
+      "operator": "鹿児島県",
+      "lat": 28.140214,
+      "lon": 129.327267,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-3a67347953",
+      "name_ja": "徳之島町総合運動公園",
+      "municipality": "大島郡徳之島町",
+      "operator": "鹿児島県",
+      "lat": 27.758013,
+      "lon": 129.014447,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 31.9
+    }
+  ]
+}

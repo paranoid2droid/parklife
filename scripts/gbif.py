@@ -325,6 +325,6 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
 
 
 if __name__ == "__main__":
-    pref = sys.argv[1] if len(sys.argv) > 1 and sys.argv[1] in {"tokyo", "kanagawa", "chiba", "saitama"} else None
-    cap = int(sys.argv[2]) if len(sys.argv) > 2 else None
+    pref = next((a for a in sys.argv[1:] if not a.isdigit()), None)
+    cap = next((int(a) for a in sys.argv[1:] if a.isdigit()), None)
     sys.exit(main(prefecture_filter=pref, max_parks=cap))

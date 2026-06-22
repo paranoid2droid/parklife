@@ -1,0 +1,366 @@
+{
+  "prefecture": "ehime",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3b6b8168ec",
+      "name_ja": "総合運動公園",
+      "municipality": "伊予郡砥部町",
+      "operator": "愛媛県",
+      "lat": 33.767264,
+      "lon": 132.796245,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 69.0
+    },
+    {
+      "slug": "p13-f93417102c",
+      "name_ja": "道後公園",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.848446,
+      "lon": 132.786792,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-e9b296497d",
+      "name_ja": "城山公園",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.844403,
+      "lon": 132.766453,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 52.1
+    },
+    {
+      "slug": "p13-a265c69904",
+      "name_ja": "松山総合公園",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.844508,
+      "lon": 132.737674,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 45.3
+    },
+    {
+      "slug": "p13-57950e671d",
+      "name_ja": "北条公園",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.8395,
+      "lon": 132.76527,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 43.2
+    },
+    {
+      "slug": "p13-52580864f9",
+      "name_ja": "湧ケ淵公園",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.871624,
+      "lon": 132.828795,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 29.3
+    },
+    {
+      "slug": "p13-c2fa6b0008",
+      "name_ja": "石手川緑地",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.847231,
+      "lon": 132.799809,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 28.4
+    },
+    {
+      "slug": "p13-4f064b5c5d",
+      "name_ja": "重信川緑地",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.782861,
+      "lon": 132.834539,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-49df28e656",
+      "name_ja": "桜井総合公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 33.996035,
+      "lon": 133.056094,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 15.8
+    },
+    {
+      "slug": "p13-56fd81acd5",
+      "name_ja": "玉川総合公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.022267,
+      "lon": 132.935934,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.7
+    },
+    {
+      "slug": "p13-bf70f15567",
+      "name_ja": "藤山健康文化公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.060774,
+      "lon": 132.929676,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.5
+    },
+    {
+      "slug": "p13-2e04e11b50",
+      "name_ja": "吹揚公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.063366,
+      "lon": 133.006998,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-c153ecaf1e",
+      "name_ja": "市制50年記念公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.053703,
+      "lon": 132.975451,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-b8df518c7d",
+      "name_ja": "大谷墓園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.064984,
+      "lon": 132.979283,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-921ffe07b0",
+      "name_ja": "城山公園",
+      "municipality": "宇和島市",
+      "operator": "愛媛県",
+      "lat": 33.220577,
+      "lon": 132.564266,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-5e02baa6c4",
+      "name_ja": "黒岩山公園",
+      "municipality": "宇和島市",
+      "operator": "愛媛県",
+      "lat": 33.210665,
+      "lon": 132.605852,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 64.4
+    },
+    {
+      "slug": "p13-787dcbd7b3",
+      "name_ja": "平家谷公園",
+      "municipality": "八幡浜市",
+      "operator": "愛媛県",
+      "lat": 33.516994,
+      "lon": 132.398673,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-e2940507c6",
+      "name_ja": "山根公園",
+      "municipality": "新居浜市",
+      "operator": "愛媛県",
+      "lat": 33.923499,
+      "lon": 133.311255,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-1926872b02",
+      "name_ja": "滝の宮公園",
+      "municipality": "新居浜市",
+      "operator": "愛媛県",
+      "lat": 33.945521,
+      "lon": 133.279274,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 41.7
+    },
+    {
+      "slug": "p13-ca33e716c4",
+      "name_ja": "国領川緑地",
+      "municipality": "新居浜市",
+      "operator": "愛媛県",
+      "lat": 33.939557,
+      "lon": 133.315109,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 36.0
+    },
+    {
+      "slug": "p13-31a71833e5",
+      "name_ja": "池田池公園",
+      "municipality": "新居浜市",
+      "operator": "愛媛県",
+      "lat": 33.937766,
+      "lon": 133.340146,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 22.1
+    },
+    {
+      "slug": "p13-fa970a0f9f",
+      "name_ja": "黒島海浜公園",
+      "municipality": "新居浜市",
+      "operator": "愛媛県",
+      "lat": 33.989565,
+      "lon": 133.343824,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 12.6
+    },
+    {
+      "slug": "p13-8c0b61f7ad",
+      "name_ja": "土ヶ谷墓地",
+      "municipality": "新居浜市",
+      "operator": "愛媛県",
+      "lat": 33.94909,
+      "lon": 133.25073,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-b59a8d7a6c",
+      "name_ja": "丹原総合公園",
+      "municipality": "西条市",
+      "operator": "愛媛県",
+      "lat": 33.900005,
+      "lon": 133.046106,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-65cb273ed8",
+      "name_ja": "小松中央公園",
+      "municipality": "西条市",
+      "operator": "愛媛県",
+      "lat": 33.88804,
+      "lon": 133.109865,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.9
+    },
+    {
+      "slug": "p13-e3b854f6af",
+      "name_ja": "冨士山公園",
+      "municipality": "大洲市",
+      "operator": "愛媛県",
+      "lat": 33.509414,
+      "lon": 132.561277,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 45.0
+    },
+    {
+      "slug": "p13-af2cd594bb",
+      "name_ja": "肱川緑地",
+      "municipality": "大洲市",
+      "operator": "愛媛県",
+      "lat": 33.523826,
+      "lon": 132.543882,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-7493b5b714",
+      "name_ja": "谷上山公園",
+      "municipality": "伊予市",
+      "operator": "愛媛県",
+      "lat": 33.744829,
+      "lon": 132.728132,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-fe1753db0d",
+      "name_ja": "伊予総合公園",
+      "municipality": "伊予市",
+      "operator": "愛媛県",
+      "lat": 33.744492,
+      "lon": 132.683526,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-e8f4c479e0",
+      "name_ja": "城山公園",
+      "municipality": "四国中央市",
+      "operator": "愛媛県",
+      "lat": 34.013521,
+      "lon": 133.567706,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-aabbf9ce43",
+      "name_ja": "三島公園",
+      "municipality": "四国中央市",
+      "operator": "愛媛県",
+      "lat": 33.971763,
+      "lon": 133.559149,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-bf0ed84b8b",
+      "name_ja": "宇和運動公園",
+      "municipality": "西予市",
+      "operator": "愛媛県",
+      "lat": 33.357707,
+      "lon": 132.509953,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 18.3
+    },
+    {
+      "slug": "p13-0c8137d877",
+      "name_ja": "東温市総合公園",
+      "municipality": "東温市",
+      "operator": "愛媛県",
+      "lat": 33.809838,
+      "lon": 132.868019,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.2
+    },
+    {
+      "slug": "p13-3ed2d76898",
+      "name_ja": "茶堂公園",
+      "municipality": "東温市",
+      "operator": "愛媛県",
+      "lat": 33.804187,
+      "lon": 132.892062,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-39ad2d38b9",
+      "name_ja": "笛ヶ滝",
+      "municipality": "上浮穴郡久万高原町",
+      "operator": "愛媛県",
+      "lat": 33.651023,
+      "lon": 132.900332,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-d0c9293170",
+      "name_ja": "鬼北総合公園",
+      "municipality": "北宇和郡鬼北町",
+      "operator": "愛媛県",
+      "lat": 33.246638,
+      "lon": 132.682791,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    }
+  ]
+}

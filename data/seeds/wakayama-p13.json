@@ -1,0 +1,276 @@
+{
+  "prefecture": "wakayama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-08a8295437",
+      "name_ja": "和歌公園",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.181789,
+      "lon": 135.173408,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 43.7
+    },
+    {
+      "slug": "p13-9a9248093c",
+      "name_ja": "紀北公園",
+      "municipality": "伊都郡かつらぎ町",
+      "operator": "和歌山県",
+      "lat": 34.31336,
+      "lon": 135.53906,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-3016a838e2",
+      "name_ja": "秋葉山公園",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.19919,
+      "lon": 135.172504,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-42570d1d25",
+      "name_ja": "和歌山公園",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.228222,
+      "lon": 135.171877,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 20.4
+    },
+    {
+      "slug": "p13-60e0806fd5",
+      "name_ja": "紀の川第３緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.248911,
+      "lon": 135.188816,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-a893fce763",
+      "name_ja": "紀の川第４緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.251887,
+      "lon": 135.193609,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-74b89f2ac7",
+      "name_ja": "紀の川第５緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.241854,
+      "lon": 135.169088,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-36b0eb1660",
+      "name_ja": "紀の川第９緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.253775,
+      "lon": 135.2065,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-5d4ed0f328",
+      "name_ja": "市民スポーツ広場",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.246063,
+      "lon": 135.167014,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-774db75fb5",
+      "name_ja": "中央公園",
+      "municipality": "海南市",
+      "operator": "和歌山県",
+      "lat": 34.157204,
+      "lon": 135.230796,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-bc17e70fd5",
+      "name_ja": "杉村公園",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.34175,
+      "lon": 135.59872,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-b4ecbe30b8",
+      "name_ja": "高野口公園",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.309806,
+      "lon": 135.558038,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-99ac9fd38b",
+      "name_ja": "神野々緑地",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.301653,
+      "lon": 135.581937,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-1d5872c0cf",
+      "name_ja": "南馬場緑地広場",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.30724,
+      "lon": 135.592765,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-ea58aadde5",
+      "name_ja": "橋本市墓園",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.316482,
+      "lon": 135.652598,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-122b8d84d1",
+      "name_ja": "ふるさとの川総合公園",
+      "municipality": "有田市",
+      "operator": "和歌山県",
+      "lat": 34.078401,
+      "lon": 135.161493,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.7
+    },
+    {
+      "slug": "p13-5f86e97f5d",
+      "name_ja": "日高川ふれあい水辺公園",
+      "municipality": "御坊市",
+      "operator": "和歌山県",
+      "lat": 33.898523,
+      "lon": 135.192712,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 22.1
+    },
+    {
+      "slug": "p13-ebdd2859b1",
+      "name_ja": "扇ヶ浜公園",
+      "municipality": "田辺市",
+      "operator": "和歌山県",
+      "lat": 33.72516,
+      "lon": 135.37849,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-9f0fb45b76",
+      "name_ja": "新庄総合公園",
+      "municipality": "田辺市",
+      "operator": "和歌山県",
+      "lat": 33.696262,
+      "lon": 135.398992,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.0
+    },
+    {
+      "slug": "p13-5c4fc7dd8a",
+      "name_ja": "平池緑地",
+      "municipality": "紀の川市",
+      "operator": "和歌山県",
+      "lat": 34.20996,
+      "lon": 135.301585,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-03b6906d59",
+      "name_ja": "大宮緑地",
+      "municipality": "岩出市",
+      "operator": "和歌山県",
+      "lat": 34.255072,
+      "lon": 135.306713,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-efe7442141",
+      "name_ja": "根来公園墓地",
+      "municipality": "岩出市",
+      "operator": "和歌山県",
+      "lat": 34.285282,
+      "lon": 135.325097,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 23.4
+    },
+    {
+      "slug": "p13-a721ac6461",
+      "name_ja": "白浜海岸公園",
+      "municipality": "西牟婁郡白浜町",
+      "operator": "和歌山県",
+      "lat": 33.684035,
+      "lon": 135.344059,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-70dbea0b6a",
+      "name_ja": "いそぎ公園",
+      "municipality": "西牟婁郡白浜町",
+      "operator": "和歌山県",
+      "lat": 33.65976,
+      "lon": 135.343343,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-2d46bdecc8",
+      "name_ja": "平草原公園",
+      "municipality": "西牟婁郡白浜町",
+      "operator": "和歌山県",
+      "lat": 33.671136,
+      "lon": 135.348774,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 14.1
+    },
+    {
+      "slug": "p13-6ebe072de6",
+      "name_ja": "那智勝浦海浜公園",
+      "municipality": "東牟婁郡那智勝浦町",
+      "operator": "和歌山県",
+      "lat": 33.641435,
+      "lon": 135.936093,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-fa79197333",
+      "name_ja": "総合運動公園(サン・ナンタンランド)",
+      "municipality": "東牟婁郡串本町",
+      "operator": "和歌山県",
+      "lat": 33.482054,
+      "lon": 135.78427,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 10.6
+    }
+  ]
+}

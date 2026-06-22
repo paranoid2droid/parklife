@@ -1,0 +1,366 @@
+{
+  "prefecture": "akita",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-beb33011b8",
+      "name_ja": "県立小泉潟公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.814238,
+      "lon": 140.066844,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 63.7
+    },
+    {
+      "slug": "p13-91c7ffa84a",
+      "name_ja": "県立中央公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.623768,
+      "lon": 140.207947,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 132.6
+    },
+    {
+      "slug": "p13-5381743807",
+      "name_ja": "県立北欧の杜公園",
+      "municipality": "北秋田市",
+      "operator": "秋田県",
+      "lat": 40.165391,
+      "lon": 140.365338,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 93.6
+    },
+    {
+      "slug": "p13-c73a34b0f8",
+      "name_ja": "千秋公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.721956,
+      "lon": 140.123942,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.3
+    },
+    {
+      "slug": "p13-fcbaa1d4c0",
+      "name_ja": "大森山公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.668624,
+      "lon": 140.074889,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 69.3
+    },
+    {
+      "slug": "p13-461d084787",
+      "name_ja": "一つ森公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.699111,
+      "lon": 140.14368,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 70.1
+    },
+    {
+      "slug": "p13-45f0589ba3",
+      "name_ja": "太平山リゾート公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.795467,
+      "lon": 140.21581,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 91.0
+    },
+    {
+      "slug": "p13-49837afc66",
+      "name_ja": "御所野総合公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.658466,
+      "lon": 140.158475,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 11.4
+    },
+    {
+      "slug": "p13-13d2d6d6f6",
+      "name_ja": "天徳寺墓地公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.738471,
+      "lon": 140.12292,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 21.8
+    },
+    {
+      "slug": "p13-1474ff5ecc",
+      "name_ja": "雄物川河川緑地",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.690072,
+      "lon": 140.097834,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 42.9
+    },
+    {
+      "slug": "p13-59c9348f4b",
+      "name_ja": "能代河畔公園",
+      "municipality": "能代市",
+      "operator": "秋田県",
+      "lat": 40.216337,
+      "lon": 140.026693,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-49f5700716",
+      "name_ja": "米代川河川緑地",
+      "municipality": "能代市",
+      "operator": "秋田県",
+      "lat": 40.198852,
+      "lon": 140.041332,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-253deb87fb",
+      "name_ja": "横手公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.322775,
+      "lon": 140.571575,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 38.9
+    },
+    {
+      "slug": "p13-6574e553aa",
+      "name_ja": "赤坂総合公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.296271,
+      "lon": 140.543568,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 27.6
+    },
+    {
+      "slug": "p13-5b73d5e3cb",
+      "name_ja": "真人公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.210246,
+      "lon": 140.573067,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-69fd10ceaa",
+      "name_ja": "十瀬野公園墓地",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.343208,
+      "lon": 140.551072,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-3c37e909d3",
+      "name_ja": "小柄沢墓園",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.267422,
+      "lon": 140.583468,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-c4d826ee42",
+      "name_ja": "長木川河川緑地",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.277392,
+      "lon": 140.555733,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 13.9
+    },
+    {
+      "slug": "p13-0e48135e3d",
+      "name_ja": "二ツ山総合公園",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.278741,
+      "lon": 140.528025,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-eec3eb371b",
+      "name_ja": "前森公園",
+      "municipality": "湯沢市",
+      "operator": "秋田県",
+      "lat": 39.174585,
+      "lon": 140.494377,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.0
+    },
+    {
+      "slug": "p13-04c6b66c1f",
+      "name_ja": "湯沢墓地公園",
+      "municipality": "湯沢市",
+      "operator": "秋田県",
+      "lat": 39.159585,
+      "lon": 140.521697,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-5f38d322c5",
+      "name_ja": "黒森山公園",
+      "municipality": "鹿角市",
+      "operator": "秋田県",
+      "lat": 40.306041,
+      "lon": 140.830011,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 36.0
+    },
+    {
+      "slug": "p13-8d20078c4d",
+      "name_ja": "本荘公園",
+      "municipality": "由利本荘市",
+      "operator": "秋田県",
+      "lat": 39.384526,
+      "lon": 140.047656,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 16.4
+    },
+    {
+      "slug": "p13-f66dcedd48",
+      "name_ja": "新山公園",
+      "municipality": "由利本荘市",
+      "operator": "秋田県",
+      "lat": 39.404527,
+      "lon": 140.046401,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 25.0
+    },
+    {
+      "slug": "p13-f790628a35",
+      "name_ja": "子吉川河川緑地",
+      "municipality": "由利本荘市",
+      "operator": "秋田県",
+      "lat": 39.393969,
+      "lon": 140.054515,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 8.9
+    },
+    {
+      "slug": "p13-ae526a26f9",
+      "name_ja": "鞍掛沼公園",
+      "municipality": "潟上市",
+      "operator": "秋田県",
+      "lat": 39.858069,
+      "lon": 140.010122,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.8
+    },
+    {
+      "slug": "p13-08e769a619",
+      "name_ja": "元木山公園",
+      "municipality": "潟上市",
+      "operator": "秋田県",
+      "lat": 39.863593,
+      "lon": 140.070381,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.5
+    },
+    {
+      "slug": "p13-82f4ef8394",
+      "name_ja": "南公園",
+      "municipality": "潟上市",
+      "operator": "秋田県",
+      "lat": 39.880625,
+      "lon": 140.078939,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-d41169d4d9",
+      "name_ja": "大仙市総合公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.436196,
+      "lon": 140.436159,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 19.0
+    },
+    {
+      "slug": "p13-5618e07aea",
+      "name_ja": "姫神公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.476252,
+      "lon": 140.449698,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 20.0
+    },
+    {
+      "slug": "p13-799063abcb",
+      "name_ja": "雄物川河川緑地運動公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.459145,
+      "lon": 140.46554,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 55.4
+    },
+    {
+      "slug": "p13-da3bf66d7b",
+      "name_ja": "丸子川河川緑地",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.459849,
+      "lon": 140.48096,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-ce00485e66",
+      "name_ja": "中央公園",
+      "municipality": "北秋田市",
+      "operator": "秋田県",
+      "lat": 40.214624,
+      "lon": 140.382927,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 23.5
+    },
+    {
+      "slug": "p13-0c60d9edee",
+      "name_ja": "生保内公園",
+      "municipality": "仙北市",
+      "operator": "秋田県",
+      "lat": 39.705926,
+      "lon": 140.734857,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 13.8
+    },
+    {
+      "slug": "p13-c9a7a6d8a2",
+      "name_ja": "落合公園",
+      "municipality": "仙北市",
+      "operator": "秋田県",
+      "lat": 39.58599,
+      "lon": 140.556023,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-a1f6c76f36",
+      "name_ja": "雀館公園",
+      "municipality": "南秋田郡五城目町",
+      "operator": "秋田県",
+      "lat": 39.938814,
+      "lon": 140.123693,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 9.7
+    }
+  ]
+}
