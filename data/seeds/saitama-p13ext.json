@@ -1,0 +1,96 @@
+{
+  "prefecture": "saitama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-fc8500c13c",
+      "name_ja": "与野公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.881402,
+      "lon": 139.618262,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-c4115784fd",
+      "name_ja": "美杉台公園",
+      "municipality": "飯能市",
+      "operator": "埼玉県",
+      "lat": 35.849455,
+      "lon": 139.310671,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-863645e371",
+      "name_ja": "あけぼの子どもの森公園",
+      "municipality": "飯能市",
+      "operator": "埼玉県",
+      "lat": 35.830652,
+      "lon": 139.343132,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-68b57f4c3f",
+      "name_ja": "加須市民運動公園",
+      "municipality": "加須市",
+      "operator": "埼玉県",
+      "lat": 36.136659,
+      "lon": 139.601194,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-5b4d67756a",
+      "name_ja": "大利根運動公園",
+      "municipality": "加須市",
+      "operator": "埼玉県",
+      "lat": 36.137119,
+      "lon": 139.666972,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-dbcd3594fd",
+      "name_ja": "大沼公園",
+      "municipality": "春日部市",
+      "operator": "埼玉県",
+      "lat": 35.9642,
+      "lon": 139.74855,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-7d384d3b26",
+      "name_ja": "黒須市民運動場",
+      "municipality": "入間市",
+      "operator": "埼玉県",
+      "lat": 35.849575,
+      "lon": 139.380352,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-c610bc35e6",
+      "name_ja": "朝霞中央公園",
+      "municipality": "朝霞市",
+      "operator": "埼玉県",
+      "lat": 35.791143,
+      "lon": 139.594515,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-36b1a024a9",
+      "name_ja": "小鹿野町総合運動公園",
+      "municipality": "秩父郡小鹿野町",
+      "operator": "埼玉県",
+      "lat": 36.028304,
+      "lon": 138.986592,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    }
+  ]
+}

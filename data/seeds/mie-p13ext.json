@@ -1,0 +1,116 @@
+{
+  "prefecture": "mie",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-cca8d4a51d",
+      "name_ja": "岩田池公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.697697,
+      "lon": 136.501064,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-d590b75471",
+      "name_ja": "白山町中央公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.651829,
+      "lon": 136.341337,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-e9f8aa7958",
+      "name_ja": "九華公園",
+      "municipality": "桑名市",
+      "operator": "三重県",
+      "lat": 35.063661,
+      "lon": 136.698809,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-7295bb600b",
+      "name_ja": "播磨中央公園",
+      "municipality": "桑名市",
+      "operator": "三重県",
+      "lat": 35.087244,
+      "lon": 136.642041,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-7f2757d8ce",
+      "name_ja": "東野公園",
+      "municipality": "亀山市",
+      "operator": "三重県",
+      "lat": 34.864923,
+      "lon": 136.474053,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-6c301416c9",
+      "name_ja": "西野公園",
+      "municipality": "亀山市",
+      "operator": "三重県",
+      "lat": 34.860477,
+      "lon": 136.435353,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-01d7067ef0",
+      "name_ja": "いなべ公園",
+      "municipality": "いなべ市",
+      "operator": "三重県",
+      "lat": 35.123636,
+      "lon": 136.563264,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 17.9
+    },
+    {
+      "slug": "p13-6ad238b5a4",
+      "name_ja": "磯部ふれあい公園",
+      "municipality": "志摩市",
+      "operator": "三重県",
+      "lat": 34.386535,
+      "lon": 136.807791,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-67f280bacb",
+      "name_ja": "上野南公園",
+      "municipality": "伊賀市",
+      "operator": "三重県",
+      "lat": 34.737098,
+      "lon": 136.16639,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-c408320785",
+      "name_ja": "勢和台公園",
+      "municipality": "多気郡多気町",
+      "operator": "三重県",
+      "lat": 34.458143,
+      "lon": 136.489066,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-4e8d0a3eed",
+      "name_ja": "城山公園",
+      "municipality": "度会郡玉城町",
+      "operator": "三重県",
+      "lat": 34.491245,
+      "lon": 136.627929,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    }
+  ]
+}

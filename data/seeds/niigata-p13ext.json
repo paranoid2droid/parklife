@@ -1,0 +1,176 @@
+{
+  "prefecture": "niigata",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b6cd226920",
+      "name_ja": "濁川公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.938052,
+      "lon": 139.159748,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-2a09f4dccd",
+      "name_ja": "じゅんさい池公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.941676,
+      "lon": 139.101224,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-f20bd1ae4e",
+      "name_ja": "寺尾中央公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.883662,
+      "lon": 138.972232,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-61b1cd1745",
+      "name_ja": "保内公園",
+      "municipality": "三条市",
+      "operator": "新潟県",
+      "lat": 37.63684,
+      "lon": 139.022963,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-273bb09834",
+      "name_ja": "しらさぎ森林公園",
+      "municipality": "三条市",
+      "operator": "新潟県",
+      "lat": 37.570104,
+      "lon": 138.948588,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-a95992d914",
+      "name_ja": "真木山中央公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 37.911593,
+      "lon": 139.308527,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-99dccfbedc",
+      "name_ja": "清潟公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 37.998014,
+      "lon": 139.291893,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-ee7513ff5b",
+      "name_ja": "大天城公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 37.987897,
+      "lon": 139.378762,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-e9d9f4fb46",
+      "name_ja": "水防・高水敷公園",
+      "municipality": "十日町市",
+      "operator": "新潟県",
+      "lat": 37.148034,
+      "lon": 138.750217,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 22.4
+    },
+    {
+      "slug": "p13-3e59b717e2",
+      "name_ja": "二六公園",
+      "municipality": "十日町市",
+      "operator": "新潟県",
+      "lat": 37.165977,
+      "lon": 138.727964,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-cae63af849",
+      "name_ja": "水道山観音山公園",
+      "municipality": "見附市",
+      "operator": "新潟県",
+      "lat": 37.523236,
+      "lon": 138.929362,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-85e60ac35d",
+      "name_ja": "山北総合運動公園",
+      "municipality": "村上市",
+      "operator": "新潟県",
+      "lat": 38.51161,
+      "lon": 139.535511,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-9e837781ba",
+      "name_ja": "大曲河川公園",
+      "municipality": "燕市",
+      "operator": "新潟県",
+      "lat": 37.651538,
+      "lon": 138.922045,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-9a3228b4b0",
+      "name_ja": "経塚山公園",
+      "municipality": "妙高市",
+      "operator": "新潟県",
+      "lat": 37.013973,
+      "lon": 138.253991,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-bdb5046b80",
+      "name_ja": "つつじヶ丘公園",
+      "municipality": "佐渡市",
+      "operator": "新潟県",
+      "lat": 38.010046,
+      "lon": 138.311037,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-94499bb75d",
+      "name_ja": "真野公園",
+      "municipality": "佐渡市",
+      "operator": "新潟県",
+      "lat": 37.955951,
+      "lon": 138.344138,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-1de146bb7e",
+      "name_ja": "関川村河川敷公園",
+      "municipality": "岩船郡関川村",
+      "operator": "新潟県",
+      "lat": 38.095962,
+      "lon": 139.560057,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    }
+  ]
+}

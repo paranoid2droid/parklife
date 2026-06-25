@@ -1,0 +1,136 @@
+{
+  "prefecture": "okayama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-50b7a71a87",
+      "name_ja": "日応寺自然の森公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.766108,
+      "lon": 133.865586,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 152.6
+    },
+    {
+      "slug": "p13-b4054a9af7",
+      "name_ja": "水島中央公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.534827,
+      "lon": 133.738477,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-890c6990f5",
+      "name_ja": "円通寺公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.54109,
+      "lon": 133.663141,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-885989e9fc",
+      "name_ja": "西部公園",
+      "municipality": "津山市",
+      "operator": "岡山県",
+      "lat": 35.066823,
+      "lon": 133.961486,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-3e8c554b98",
+      "name_ja": "玉原親水公園",
+      "municipality": "玉野市",
+      "operator": "岡山県",
+      "lat": 34.48294,
+      "lon": 133.912914,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-e37a942883",
+      "name_ja": "総社北公園",
+      "municipality": "総社市",
+      "operator": "岡山県",
+      "lat": 34.696306,
+      "lon": 133.747445,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-38f539bbd6",
+      "name_ja": "備前市浜山運動公園",
+      "municipality": "備前市",
+      "operator": "岡山県",
+      "lat": 34.739813,
+      "lon": 134.292245,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-51c5d84715",
+      "name_ja": "美作市総合運動公園",
+      "municipality": "美作市",
+      "operator": "岡山県",
+      "lat": 35.002509,
+      "lon": 134.136509,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-51b86bc657",
+      "name_ja": "バレンタインパーク作東",
+      "municipality": "美作市",
+      "operator": "岡山県",
+      "lat": 35.021689,
+      "lon": 134.231985,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-1811781054",
+      "name_ja": "浅口市天草公園",
+      "municipality": "浅口市",
+      "operator": "岡山県",
+      "lat": 34.530697,
+      "lon": 133.58206,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-c826386b25",
+      "name_ja": "奈義町総合運動公園",
+      "municipality": "勝田郡奈義町",
+      "operator": "岡山県",
+      "lat": 35.119079,
+      "lon": 134.190577,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-cd143c21ea",
+      "name_ja": "美咲町中央運動公園",
+      "municipality": "久米郡美咲町",
+      "operator": "岡山県",
+      "lat": 34.996392,
+      "lon": 133.952746,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 16.0
+    },
+    {
+      "slug": "p13-01c1967fbd",
+      "name_ja": "吉備中央公園",
+      "municipality": "加賀郡吉備中央町",
+      "operator": "岡山県",
+      "lat": 34.834438,
+      "lon": 133.760004,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    }
+  ]
+}

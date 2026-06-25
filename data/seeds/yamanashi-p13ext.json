@@ -1,0 +1,56 @@
+{
+  "prefecture": "yamanashi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1809ef3c77",
+      "name_ja": "芸術の森公園",
+      "municipality": "甲府市",
+      "operator": "山梨県",
+      "lat": 35.660143,
+      "lon": 138.538319,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-053a63a286",
+      "name_ja": "白根中央公園",
+      "municipality": "南アルプス市",
+      "operator": "山梨県",
+      "lat": 35.649476,
+      "lon": 138.46739,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-d09626fc70",
+      "name_ja": "市川公園",
+      "municipality": "西八代郡市川三郷町",
+      "operator": "山梨県",
+      "lat": 35.553645,
+      "lon": 138.495652,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-cfc350487e",
+      "name_ja": "利根川公園",
+      "municipality": "南巨摩郡富士川町",
+      "operator": "山梨県",
+      "lat": 35.570983,
+      "lon": 138.457323,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-2248ab7737",
+      "name_ja": "大法師公園",
+      "municipality": "南巨摩郡富士川町",
+      "operator": "山梨県",
+      "lat": 35.545488,
+      "lon": 138.454361,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    }
+  ]
+}

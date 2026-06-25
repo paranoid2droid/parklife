@@ -1,0 +1,26 @@
+{
+  "prefecture": "tottori",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-641e0414d6",
+      "name_ja": "ニュータウン中央公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.442948,
+      "lon": 134.257682,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 20.6
+    },
+    {
+      "slug": "p13-a08cd49d17",
+      "name_ja": "河原中央公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.403838,
+      "lon": 134.199306,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    }
+  ]
+}

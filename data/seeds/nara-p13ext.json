@@ -1,0 +1,146 @@
+{
+  "prefecture": "nara",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b3466329ef",
+      "name_ja": "県営うだ・アニマルパーク",
+      "municipality": "宇陀市",
+      "operator": "奈良県",
+      "lat": 34.488858,
+      "lon": 135.933049,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-8e1ac5b778",
+      "name_ja": "黒谷公園",
+      "municipality": "奈良市",
+      "operator": "奈良県",
+      "lat": 34.675112,
+      "lon": 135.731772,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-c201079f74",
+      "name_ja": "平城第２号公園",
+      "municipality": "奈良市",
+      "operator": "奈良県",
+      "lat": 34.718817,
+      "lon": 135.795538,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-7675596075",
+      "name_ja": "長柄運動公園",
+      "municipality": "天理市",
+      "operator": "奈良県",
+      "lat": 34.57549,
+      "lon": 135.820301,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-20e2258349",
+      "name_ja": "阿田峯公園",
+      "municipality": "五條市",
+      "operator": "奈良県",
+      "lat": 34.381612,
+      "lon": 135.729341,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-1be02c31cf",
+      "name_ja": "滝寺公園",
+      "municipality": "生駒市",
+      "operator": "奈良県",
+      "lat": 34.690611,
+      "lon": 135.688438,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-82ad93575b",
+      "name_ja": "イモ山公園",
+      "municipality": "生駒市",
+      "operator": "奈良県",
+      "lat": 34.729394,
+      "lon": 135.713444,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-41b97a5b91",
+      "name_ja": "屋敷山公園",
+      "municipality": "葛城市",
+      "operator": "奈良県",
+      "lat": 34.485557,
+      "lon": 135.714716,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-c2f6922d02",
+      "name_ja": "新町公園",
+      "municipality": "葛城市",
+      "operator": "奈良県",
+      "lat": 34.482154,
+      "lon": 135.741339,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-0af11705cc",
+      "name_ja": "室生山上公園芸術の森",
+      "municipality": "宇陀市",
+      "operator": "奈良県",
+      "lat": 34.534546,
+      "lon": 136.031144,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-b1a1737ca1",
+      "name_ja": "平群中央公園",
+      "municipality": "生駒郡平群町",
+      "operator": "奈良県",
+      "lat": 34.623976,
+      "lon": 135.70124,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-6ca56b7ceb",
+      "name_ja": "河合町総合スポーツ公園",
+      "municipality": "北葛城郡河合町",
+      "operator": "奈良県",
+      "lat": 34.575739,
+      "lon": 135.737449,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-0ebee1e607",
+      "name_ja": "下市中央公園",
+      "municipality": "吉野郡下市町",
+      "operator": "奈良県",
+      "lat": 34.36565,
+      "lon": 135.787575,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-bc18660e60",
+      "name_ja": "十津川村カントリーパーク",
+      "municipality": "吉野郡十津川村",
+      "operator": "奈良県",
+      "lat": 33.968048,
+      "lon": 135.856081,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    }
+  ]
+}

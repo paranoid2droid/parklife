@@ -1,0 +1,86 @@
+{
+  "prefecture": "kagawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-7ca137c653",
+      "name_ja": "橘ノ丘総合運動公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.27309,
+      "lon": 133.9503,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-d5d0ed4a4a",
+      "name_ja": "鉢伏ふれあい公園",
+      "municipality": "善通寺市",
+      "operator": "香川県",
+      "lat": 34.22722,
+      "lon": 133.805555,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-3d3c35a9c7",
+      "name_ja": "萩の丘公園",
+      "municipality": "観音寺市",
+      "operator": "香川県",
+      "lat": 34.077624,
+      "lon": 133.688054,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-3c7a0b3bc5",
+      "name_ja": "志度中央スポーツ公園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.326032,
+      "lon": 134.192565,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-10bb64c05a",
+      "name_ja": "白鳥中央公園",
+      "municipality": "東かがわ市",
+      "operator": "香川県",
+      "lat": 34.232321,
+      "lon": 134.372712,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-a0f873472a",
+      "name_ja": "不動の滝カントリーパーク",
+      "municipality": "三豊市",
+      "operator": "香川県",
+      "lat": 34.149854,
+      "lon": 133.672686,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-e52875ff53",
+      "name_ja": "高見山公園",
+      "municipality": "小豆郡土庄町",
+      "operator": "香川県",
+      "lat": 34.480172,
+      "lon": 134.175473,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-ac38acb7ad",
+      "name_ja": "宇多津臨海公園",
+      "municipality": "綾歌郡宇多津町",
+      "operator": "香川県",
+      "lat": 34.313243,
+      "lon": 133.808315,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    }
+  ]
+}

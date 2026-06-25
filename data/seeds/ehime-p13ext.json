@@ -1,0 +1,136 @@
+{
+  "prefecture": "ehime",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-042ce7cfd9",
+      "name_ja": "河野別府公園",
+      "municipality": "松山市",
+      "operator": "愛媛県",
+      "lat": 33.958697,
+      "lon": 132.780271,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-39f1f630a3",
+      "name_ja": "波方公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.10262,
+      "lon": 132.950699,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.6
+    },
+    {
+      "slug": "p13-e8142aa1f5",
+      "name_ja": "瓦のふるさと公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.032386,
+      "lon": 132.842238,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-5176d9379f",
+      "name_ja": "朝倉緑のふるさと公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 33.999083,
+      "lon": 133.006411,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-83f08f8e1f",
+      "name_ja": "緑の広場（運動公園）",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.032179,
+      "lon": 132.862622,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-c147b8c7f8",
+      "name_ja": "三間町運動公園",
+      "municipality": "宇和島市",
+      "operator": "愛媛県",
+      "lat": 33.309246,
+      "lon": 132.596937,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-11936698ed",
+      "name_ja": "稲荷山公園",
+      "municipality": "大洲市",
+      "operator": "愛媛県",
+      "lat": 33.528264,
+      "lon": 132.600973,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-69af3dcb68",
+      "name_ja": "森林公園",
+      "municipality": "大洲市",
+      "operator": "愛媛県",
+      "lat": 33.49409,
+      "lon": 132.537368,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-0c975700ec",
+      "name_ja": "大地山公園",
+      "municipality": "四国中央市",
+      "operator": "愛媛県",
+      "lat": 33.981419,
+      "lon": 133.417734,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-ccf8522d5d",
+      "name_ja": "野村地区公園",
+      "municipality": "西予市",
+      "operator": "愛媛県",
+      "lat": 33.37834,
+      "lon": 132.638089,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-e845a6230f",
+      "name_ja": "久万",
+      "municipality": "上浮穴郡久万高原町",
+      "operator": "愛媛県",
+      "lat": 33.664398,
+      "lon": 132.906686,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-60eafee787",
+      "name_ja": "龍王公園",
+      "municipality": "喜多郡内子町",
+      "operator": "愛媛県",
+      "lat": 33.54374,
+      "lon": 132.655379,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-0fcdc97905",
+      "name_ja": "城の台公園",
+      "municipality": "喜多郡内子町",
+      "operator": "愛媛県",
+      "lat": 33.568985,
+      "lon": 132.806712,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.2
+    }
+  ]
+}

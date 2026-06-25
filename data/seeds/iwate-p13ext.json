@@ -1,0 +1,66 @@
+{
+  "prefecture": "iwate",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-467f8d53fe",
+      "name_ja": "四十四田公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.753616,
+      "lon": 141.152673,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 16.1
+    },
+    {
+      "slug": "p13-f135bc0801",
+      "name_ja": "花泉運動公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.83526,
+      "lon": 141.170734,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-b85bcf5c2f",
+      "name_ja": "伊勢館公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 39.04921,
+      "lon": 141.369397,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-31e58eadbf",
+      "name_ja": "浄法寺町運動公園",
+      "municipality": "二戸市",
+      "operator": "岩手県",
+      "lat": 40.189368,
+      "lon": 141.153603,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-37982704c2",
+      "name_ja": "松尾総合運動公園",
+      "municipality": "八幡平市",
+      "operator": "岩手県",
+      "lat": 39.942483,
+      "lon": 141.04915,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 14.5
+    },
+    {
+      "slug": "p13-da6c862b3e",
+      "name_ja": "城山公園",
+      "municipality": "上閉伊郡大槌町",
+      "operator": "岩手県",
+      "lat": 39.361838,
+      "lon": 141.895826,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 16.3
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "prefecture": "tokyo",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-12886fc423",
+      "name_ja": "横十間川親水",
+      "municipality": "江東区",
+      "operator": "東京都",
+      "lat": 35.677077,
+      "lon": 139.820366,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-ec570bc1b5",
+      "name_ja": "多摩川台公園",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.59,
+      "lon": 139.66614,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-dd8ba2f8bd",
+      "name_ja": "世田谷公園",
+      "municipality": "世田谷区",
+      "operator": "東京都",
+      "lat": 35.644167,
+      "lon": 139.680468,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-c9b0f24e66",
+      "name_ja": "羽根木公園",
+      "municipality": "世田谷区",
+      "operator": "東京都",
+      "lat": 35.65863,
+      "lon": 139.65475,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-c2ad496bb0",
+      "name_ja": "平和の森公園",
+      "municipality": "中野区",
+      "operator": "東京都",
+      "lat": 35.716878,
+      "lon": 139.66194,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-556ef9086e",
+      "name_ja": "江古田の森公園",
+      "municipality": "中野区",
+      "operator": "東京都",
+      "lat": 35.730742,
+      "lon": 139.666331,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-b264f2f5ac",
+      "name_ja": "中央公園",
+      "municipality": "北区",
+      "operator": "東京都",
+      "lat": 35.753475,
+      "lon": 139.726071,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-8151fb6a12",
+      "name_ja": "荒川遊園",
+      "municipality": "荒川区",
+      "operator": "東京都",
+      "lat": 35.75393,
+      "lon": 139.75902,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-433f0afa19",
+      "name_ja": "江北公園",
+      "municipality": "足立区",
+      "operator": "東京都",
+      "lat": 35.77738,
+      "lon": 139.74886,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-24d49edf5c",
+      "name_ja": "総合スポーツセンター公園",
+      "municipality": "足立区",
+      "operator": "東京都",
+      "lat": 35.79189,
+      "lon": 139.81433,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-bd5aaf36ed",
+      "name_ja": "わかぐさ公園",
+      "municipality": "青梅市",
+      "operator": "東京都",
+      "lat": 35.78342,
+      "lon": 139.29651,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-575b84c59d",
+      "name_ja": "小柳公園",
+      "municipality": "府中市",
+      "operator": "東京都",
+      "lat": 35.65644,
+      "lon": 139.506,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-21b77739e8",
+      "name_ja": "三ツ目山公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.604375,
+      "lon": 139.353167,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-84207b0634",
+      "name_ja": "小野路公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.597985,
+      "lon": 139.454451,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-fffb75f4a9",
+      "name_ja": "かしの木山自然公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.550346,
+      "lon": 139.467446,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-164a83ca43",
+      "name_ja": "一本杉公園",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.60771,
+      "lon": 139.43216,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-3074044553",
+      "name_ja": "城山公園",
+      "municipality": "稲城市",
+      "operator": "東京都",
+      "lat": 35.64353,
+      "lon": 139.48822,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-78994fe152",
+      "name_ja": "稲城第４公園",
+      "municipality": "稲城市",
+      "operator": "東京都",
+      "lat": 35.626429,
+      "lon": 139.47206,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    }
+  ]
+}

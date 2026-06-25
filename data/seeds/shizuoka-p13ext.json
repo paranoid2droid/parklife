@@ -1,0 +1,126 @@
+{
+  "prefecture": "shizuoka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-501c2cf88f",
+      "name_ja": "城北公園",
+      "municipality": "静岡市",
+      "operator": "静岡県",
+      "lat": 34.989407,
+      "lon": 138.378556,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-cfa11868cf",
+      "name_ja": "八幡山公園",
+      "municipality": "静岡市",
+      "operator": "静岡県",
+      "lat": 34.970238,
+      "lon": 138.401449,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-efde738d26",
+      "name_ja": "美薗中央公園",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.799752,
+      "lon": 137.791814,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-8eb831cb7a",
+      "name_ja": "浜松市佐久間ふれあい公園",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 35.055393,
+      "lon": 137.771678,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-7b36109257",
+      "name_ja": "丸山公園",
+      "municipality": "伊東市",
+      "operator": "静岡県",
+      "lat": 34.971095,
+      "lon": 139.082822,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-0fd601fc6b",
+      "name_ja": "大井川緑地",
+      "municipality": "島田市",
+      "operator": "静岡県",
+      "lat": 34.824316,
+      "lon": 138.164289,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 34.2
+    },
+    {
+      "slug": "p13-01329056dc",
+      "name_ja": "かなや大井川緑地",
+      "municipality": "島田市",
+      "operator": "静岡県",
+      "lat": 34.834075,
+      "lon": 138.138161,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-511e09d211",
+      "name_ja": "中央公園",
+      "municipality": "富士市",
+      "operator": "静岡県",
+      "lat": 35.161163,
+      "lon": 138.669394,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-1d8bf9b66e",
+      "name_ja": "兎山公園",
+      "municipality": "磐田市",
+      "operator": "静岡県",
+      "lat": 34.717502,
+      "lon": 137.890292,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-3eaa4273ac",
+      "name_ja": "丸山公園",
+      "municipality": "伊豆市",
+      "operator": "静岡県",
+      "lat": 34.894685,
+      "lon": 138.77006,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-45bafc64e2",
+      "name_ja": "小堤山公園",
+      "municipality": "牧之原市",
+      "operator": "静岡県",
+      "lat": 34.680843,
+      "lon": 138.194655,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-0b727b1f68",
+      "name_ja": "柏谷公園",
+      "municipality": "田方郡函南町",
+      "operator": "静岡県",
+      "lat": 35.08209,
+      "lon": 138.95847,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    }
+  ]
+}

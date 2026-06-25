@@ -1,0 +1,146 @@
+{
+  "prefecture": "aomori",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b1f67ce476",
+      "name_ja": "浪岡総合公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.703505,
+      "lon": 140.587562,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-4b0bb2c51a",
+      "name_ja": "西山公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.719529,
+      "lon": 140.579162,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-81a99ecbcc",
+      "name_ja": "浪岡城址公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.71774,
+      "lon": 140.604902,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-593a1f16b5",
+      "name_ja": "白山台公園",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.486875,
+      "lon": 141.459992,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-88bca7ef58",
+      "name_ja": "東公園",
+      "municipality": "黒石市",
+      "operator": "青森県",
+      "lat": 40.635495,
+      "lon": 140.611132,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-8aa808ba5b",
+      "name_ja": "くらしを守る森公園",
+      "municipality": "三沢市",
+      "operator": "青森県",
+      "lat": 40.746828,
+      "lon": 141.413487,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 33.4
+    },
+    {
+      "slug": "p13-9833a77537",
+      "name_ja": "水源池公園",
+      "municipality": "むつ市",
+      "operator": "青森県",
+      "lat": 41.25868,
+      "lon": 141.139908,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-257f5c3a68",
+      "name_ja": "亀ヶ岡公園",
+      "municipality": "つがる市",
+      "operator": "青森県",
+      "lat": 40.87779,
+      "lon": 140.313471,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-0e19dcdb3b",
+      "name_ja": "玉松園カントリーパーク",
+      "municipality": "東津軽郡蓬田村",
+      "operator": "青森県",
+      "lat": 40.9965,
+      "lon": 140.652105,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-1229c352e5",
+      "name_ja": "蟹田一本松地区公園",
+      "municipality": "東津軽郡外ヶ浜町",
+      "operator": "青森県",
+      "lat": 41.044709,
+      "lon": 140.633753,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-b810af74a2",
+      "name_ja": "みんまや運動公園",
+      "municipality": "東津軽郡外ヶ浜町",
+      "operator": "青森県",
+      "lat": 41.17654,
+      "lon": 140.430805,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-4bbd33e3ec",
+      "name_ja": "八森山町民の森公園",
+      "municipality": "西津軽郡深浦町",
+      "operator": "青森県",
+      "lat": 40.634087,
+      "lon": 139.913548,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-1defa3cea5",
+      "name_ja": "中泊町運動公園",
+      "municipality": "北津軽郡中泊町",
+      "operator": "青森県",
+      "lat": 40.960404,
+      "lon": 140.458854,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-c2fcaca323",
+      "name_ja": "愛宕公園",
+      "municipality": "上北郡野辺地町",
+      "operator": "青森県",
+      "lat": 40.861271,
+      "lon": 141.133947,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.4
+    }
+  ]
+}

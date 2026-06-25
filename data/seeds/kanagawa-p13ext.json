@@ -1,0 +1,196 @@
+{
+  "prefecture": "kanagawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-ddce20e899",
+      "name_ja": "入船公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.498533,
+      "lon": 139.694323,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-c1edeea782",
+      "name_ja": "日野中央公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.386639,
+      "lon": 139.583785,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-b389f43cc9",
+      "name_ja": "今川公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.475205,
+      "lon": 139.530617,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-ba5c03d27d",
+      "name_ja": "岡村公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.41483,
+      "lon": 139.61311,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-071d96fc7c",
+      "name_ja": "大倉山公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.524845,
+      "lon": 139.627442,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-8945d141f7",
+      "name_ja": "鴨池公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.542044,
+      "lon": 139.559651,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-d14379c638",
+      "name_ja": "せせらぎ公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.538247,
+      "lon": 139.592999,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-165daa1190",
+      "name_ja": "茅ケ崎公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.539413,
+      "lon": 139.580915,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-7600768c60",
+      "name_ja": "山崎公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.558799,
+      "lon": 139.569591,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-df26313c91",
+      "name_ja": "東俣野中央公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.368288,
+      "lon": 139.493455,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-21d1219cc0",
+      "name_ja": "本郷ふじやま公園",
+      "municipality": "横浜市",
+      "operator": "神奈川県",
+      "lat": 35.365617,
+      "lon": 139.56399,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-3ca904c257",
+      "name_ja": "大師公園",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.53172,
+      "lon": 139.73167,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-2aecc78db9",
+      "name_ja": "夢見ヶ崎公園",
+      "municipality": "川崎市",
+      "operator": "神奈川県",
+      "lat": 35.549488,
+      "lon": 139.66542,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-ef588e0f50",
+      "name_ja": "源氏山公園",
+      "municipality": "鎌倉市",
+      "operator": "神奈川県",
+      "lat": 35.32452,
+      "lon": 139.54819,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-cd5a5e093b",
+      "name_ja": "茅ヶ崎公園",
+      "municipality": "茅ヶ崎市",
+      "operator": "神奈川県",
+      "lat": 35.31992,
+      "lon": 139.40187,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-2a99853343",
+      "name_ja": "第一運動公園",
+      "municipality": "逗子市",
+      "operator": "神奈川県",
+      "lat": 35.30101,
+      "lon": 139.59114,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-423223fd2a",
+      "name_ja": "おおね公園",
+      "municipality": "秦野市",
+      "operator": "神奈川県",
+      "lat": 35.374146,
+      "lon": 139.281529,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-eeb7d1f7ba",
+      "name_ja": "城山公園",
+      "municipality": "綾瀬市",
+      "operator": "神奈川県",
+      "lat": 35.43752,
+      "lon": 139.41901,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-6e697f73ad",
+      "name_ja": "田代運動公園",
+      "municipality": "愛甲郡愛川町",
+      "operator": "神奈川県",
+      "lat": 35.525163,
+      "lon": 139.286453,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    }
+  ]
+}

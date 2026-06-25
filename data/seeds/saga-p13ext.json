@@ -1,0 +1,126 @@
+{
+  "prefecture": "saga",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-cbfd3e8ba8",
+      "name_ja": "神野公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.265827,
+      "lon": 130.281613,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-3b6c2ac055",
+      "name_ja": "大和中央公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.309513,
+      "lon": 130.256244,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-cb9103b955",
+      "name_ja": "干潟よか公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.174697,
+      "lon": 130.271045,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-845c29c682",
+      "name_ja": "尾の上公園",
+      "municipality": "唐津市",
+      "operator": "佐賀県",
+      "lat": 33.548857,
+      "lon": 129.897552,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-5f5484d2b7",
+      "name_ja": "田代公園",
+      "municipality": "鳥栖市",
+      "operator": "佐賀県",
+      "lat": 33.401563,
+      "lon": 130.510247,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-007dc08944",
+      "name_ja": "山内中央公園",
+      "municipality": "武雄市",
+      "operator": "佐賀県",
+      "lat": 33.197176,
+      "lon": 129.942031,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-79d9720da7",
+      "name_ja": "小城公園",
+      "municipality": "小城市",
+      "operator": "佐賀県",
+      "lat": 33.289162,
+      "lon": 130.196366,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-3f5047789c",
+      "name_ja": "轟の滝公園",
+      "municipality": "嬉野市",
+      "operator": "佐賀県",
+      "lat": 33.085741,
+      "lon": 129.977472,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-9662117d2e",
+      "name_ja": "筑後川運動公園",
+      "municipality": "神埼市",
+      "operator": "佐賀県",
+      "lat": 33.250715,
+      "lon": 130.406406,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-adf68fb5cf",
+      "name_ja": "中原公園",
+      "municipality": "三養基郡みやき町",
+      "operator": "佐賀県",
+      "lat": 33.333435,
+      "lon": 130.430102,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-3814a9c1bf",
+      "name_ja": "唐船城公園",
+      "municipality": "西松浦郡有田町",
+      "operator": "佐賀県",
+      "lat": 33.225076,
+      "lon": 129.852109,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-bb92ffcc70",
+      "name_ja": "西有田中央公園",
+      "municipality": "西松浦郡有田町",
+      "operator": "佐賀県",
+      "lat": 33.207025,
+      "lon": 129.856153,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    }
+  ]
+}

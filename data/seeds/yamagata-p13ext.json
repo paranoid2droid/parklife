@@ -1,0 +1,66 @@
+{
+  "prefecture": "yamagata",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3b7c7ed67d",
+      "name_ja": "八幡原公園",
+      "municipality": "米沢市",
+      "operator": "山形県",
+      "lat": 37.913374,
+      "lon": 140.162837,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-17312986b1",
+      "name_ja": "最上公園",
+      "municipality": "新庄市",
+      "operator": "山形県",
+      "lat": 38.766952,
+      "lon": 140.29367,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-f38cdf355f",
+      "name_ja": "市民公園",
+      "municipality": "上山市",
+      "operator": "山形県",
+      "lat": 38.148675,
+      "lon": 140.269338,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-d7afb4d321",
+      "name_ja": "松ヶ池公園",
+      "municipality": "長井市",
+      "operator": "山形県",
+      "lat": 38.102401,
+      "lon": 140.042153,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-6db91e40a3",
+      "name_ja": "若木山公園",
+      "municipality": "東根市",
+      "operator": "山形県",
+      "lat": 38.407297,
+      "lon": 140.385398,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-29f84cfc99",
+      "name_ja": "堂ノ前公園",
+      "municipality": "東根市",
+      "operator": "山形県",
+      "lat": 38.452451,
+      "lon": 140.403529,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.1
+    }
+  ]
+}

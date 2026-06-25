@@ -1,0 +1,146 @@
+{
+  "prefecture": "miyagi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-689472bb73",
+      "name_ja": "鶴ケ谷中央公園",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.292145,
+      "lon": 140.918544,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.1
+    },
+    {
+      "slug": "p13-6bb4286b8b",
+      "name_ja": "湯元公園",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.219918,
+      "lon": 140.719175,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-8c0ee69a70",
+      "name_ja": "高森公園",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.339315,
+      "lon": 140.845196,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-23a3c9b276",
+      "name_ja": "台山公園",
+      "municipality": "角田市",
+      "operator": "宮城県",
+      "lat": 37.9723,
+      "lon": 140.775382,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-edecd734af",
+      "name_ja": "栗駒館山公園",
+      "municipality": "栗原市",
+      "operator": "宮城県",
+      "lat": 38.835698,
+      "lon": 140.99509,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-52dc3c2b8c",
+      "name_ja": "鶯沢金田森公園",
+      "municipality": "栗原市",
+      "operator": "宮城県",
+      "lat": 38.807132,
+      "lon": 140.908915,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.4
+    },
+    {
+      "slug": "p13-2ac7d84ea6",
+      "name_ja": "矢本運動公園",
+      "municipality": "東松島市",
+      "operator": "宮城県",
+      "lat": 38.423444,
+      "lon": 141.227461,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-d4702c9790",
+      "name_ja": "大河原公園",
+      "municipality": "柴田郡大河原町",
+      "operator": "宮城県",
+      "lat": 38.042187,
+      "lon": 140.722729,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-ed2a35d2ba",
+      "name_ja": "相山公園",
+      "municipality": "柴田郡村田町",
+      "operator": "宮城県",
+      "lat": 38.126972,
+      "lon": 140.722791,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-8f6efead99",
+      "name_ja": "城山公園",
+      "municipality": "柴田郡村田町",
+      "operator": "宮城県",
+      "lat": 38.118543,
+      "lon": 140.720425,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-d4498bd8bd",
+      "name_ja": "亘理公園",
+      "municipality": "亘理郡亘理町",
+      "operator": "宮城県",
+      "lat": 38.040434,
+      "lon": 140.845603,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-9fb87a7681",
+      "name_ja": "牛橋公園",
+      "municipality": "亘理郡山元町",
+      "operator": "宮城県",
+      "lat": 37.983896,
+      "lon": 140.903887,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-4eff02dac7",
+      "name_ja": "君ヶ岡公園",
+      "municipality": "宮城郡七ヶ浜町",
+      "operator": "宮城県",
+      "lat": 38.304518,
+      "lon": 141.072214,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-1c1952c1fc",
+      "name_ja": "沢乙北公園",
+      "municipality": "宮城郡利府町",
+      "operator": "宮城県",
+      "lat": 38.353382,
+      "lon": 140.967017,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    }
+  ]
+}

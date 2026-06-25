@@ -1,0 +1,116 @@
+{
+  "prefecture": "kumamoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9af790e4c4",
+      "name_ja": "八景水谷公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.845931,
+      "lon": 130.722287,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-c59309b30b",
+      "name_ja": "岱明中央公園",
+      "municipality": "玉名市",
+      "operator": "熊本県",
+      "lat": 32.920617,
+      "lon": 130.512948,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-05a24ebe37",
+      "name_ja": "小栗郷カントリーパーク",
+      "municipality": "山鹿市",
+      "operator": "熊本県",
+      "lat": 33.109939,
+      "lon": 130.688621,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-aaa2945813",
+      "name_ja": "特産工芸村ふれあい広場",
+      "municipality": "山鹿市",
+      "operator": "熊本県",
+      "lat": 33.02928,
+      "lon": 130.770418,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-b5c1b99e99",
+      "name_ja": "宇土市運動公園",
+      "municipality": "宇土市",
+      "operator": "熊本県",
+      "lat": 32.683204,
+      "lon": 130.665881,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-856b3c8953",
+      "name_ja": "カントリーパーク花海好",
+      "municipality": "上天草市",
+      "operator": "熊本県",
+      "lat": 32.579812,
+      "lon": 130.419241,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-fb2d37ced6",
+      "name_ja": "美里町カントリーパーク",
+      "municipality": "下益城郡美里町",
+      "operator": "熊本県",
+      "lat": 32.631944,
+      "lon": 130.799817,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.6
+    },
+    {
+      "slug": "p13-85065b2918",
+      "name_ja": "北里カントリーパーク",
+      "municipality": "阿蘇郡小国町",
+      "operator": "熊本県",
+      "lat": 33.140468,
+      "lon": 131.090272,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-21d0730e43",
+      "name_ja": "水上カントリーパーク",
+      "municipality": "球磨郡水上村",
+      "operator": "熊本県",
+      "lat": 32.299391,
+      "lon": 130.984504,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-1c957845ce",
+      "name_ja": "高山運動公園",
+      "municipality": "球磨郡あさぎり町",
+      "operator": "熊本県",
+      "lat": 32.250796,
+      "lon": 130.877728,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-0852b64809",
+      "name_ja": "森園カントリーパーク",
+      "municipality": "球磨郡あさぎり町",
+      "operator": "熊本県",
+      "lat": 32.219969,
+      "lon": 130.934523,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    }
+  ]
+}

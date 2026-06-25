@@ -1,0 +1,206 @@
+{
+  "prefecture": "nagano",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-bc499024d7",
+      "name_ja": "長野県若里公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.635178,
+      "lon": 138.187612,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-8769dddbbe",
+      "name_ja": "若穂中央公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.606822,
+      "lon": 138.249953,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-c9769546c5",
+      "name_ja": "城山公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.247048,
+      "lon": 137.95514,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-803bb5c445",
+      "name_ja": "梓川ふるさと公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.239107,
+      "lon": 137.830347,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 18.8
+    },
+    {
+      "slug": "p13-03bc72047b",
+      "name_ja": "別所公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.359136,
+      "lon": 138.160713,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-c97a50d75f",
+      "name_ja": "須川公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.368373,
+      "lon": 138.25463,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-b5cf8814ce",
+      "name_ja": "松尾鈴岡公園",
+      "municipality": "飯田市",
+      "operator": "長野県",
+      "lat": 35.48849,
+      "lon": 137.827343,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-5cb11a2cd1",
+      "name_ja": "諏訪中央公園",
+      "municipality": "諏訪市",
+      "operator": "長野県",
+      "lat": 36.033682,
+      "lon": 138.091817,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-e4e91c529d",
+      "name_ja": "南城公園",
+      "municipality": "小諸市",
+      "operator": "長野県",
+      "lat": 36.315632,
+      "lon": 138.423245,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-baede10120",
+      "name_ja": "鳩吹公園",
+      "municipality": "伊那市",
+      "operator": "長野県",
+      "lat": 35.843153,
+      "lon": 137.894349,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-b431622128",
+      "name_ja": "高遠城址公園",
+      "municipality": "伊那市",
+      "operator": "長野県",
+      "lat": 35.833516,
+      "lon": 138.06282,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-69ccf4cdb6",
+      "name_ja": "南割公園",
+      "municipality": "駒ヶ根市",
+      "operator": "長野県",
+      "lat": 35.718256,
+      "lon": 137.906413,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-ca0f80da25",
+      "name_ja": "城山公園",
+      "municipality": "飯山市",
+      "operator": "長野県",
+      "lat": 36.856527,
+      "lon": 138.366975,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-445ec56904",
+      "name_ja": "千曲川スポーツ交流広場",
+      "municipality": "佐久市",
+      "operator": "長野県",
+      "lat": 36.247717,
+      "lon": 138.433036,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-08ed3c4a1d",
+      "name_ja": "雪窓公園",
+      "municipality": "北佐久郡御代田町",
+      "operator": "長野県",
+      "lat": 36.310309,
+      "lon": 138.517756,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-9c13ea525e",
+      "name_ja": "番場原公園",
+      "municipality": "上伊那郡箕輪町",
+      "operator": "長野県",
+      "lat": 35.908919,
+      "lon": 138.000522,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-e560de6a9d",
+      "name_ja": "与田切公園",
+      "municipality": "上伊那郡飯島町",
+      "operator": "長野県",
+      "lat": 35.67146,
+      "lon": 137.910921,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-d7242c7b63",
+      "name_ja": "林原公園",
+      "municipality": "下伊那郡豊丘村",
+      "operator": "長野県",
+      "lat": 35.537593,
+      "lon": 137.908632,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-289301af2c",
+      "name_ja": "大桑村スポーツ公園",
+      "municipality": "木曽郡大桑村",
+      "operator": "長野県",
+      "lat": 35.699732,
+      "lon": 137.690978,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-a14d34b992",
+      "name_ja": "びんぐしの里公園",
+      "municipality": "埴科郡坂城町",
+      "operator": "長野県",
+      "lat": 36.444285,
+      "lon": 138.167601,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 16.8
+    }
+  ]
+}

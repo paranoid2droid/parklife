@@ -1,0 +1,346 @@
+{
+  "prefecture": "hyogo",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a3a0ee3d65",
+      "name_ja": "明石西公園",
+      "municipality": "明石市",
+      "operator": "兵庫県",
+      "lat": 34.660036,
+      "lon": 134.983252,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-6c867d12a3",
+      "name_ja": "大倉山公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.684228,
+      "lon": 135.173404,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-eb02adcedb",
+      "name_ja": "会下山公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.678029,
+      "lon": 135.158919,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-2fbdb4c1ed",
+      "name_ja": "御崎公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.656966,
+      "lon": 135.170441,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-3080a549bd",
+      "name_ja": "大原山公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.746514,
+      "lon": 135.136988,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-ca516c570b",
+      "name_ja": "掖谷公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.857526,
+      "lon": 135.213041,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-65b2893329",
+      "name_ja": "上津公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.863172,
+      "lon": 135.190537,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-86b7baf81c",
+      "name_ja": "落合中央公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.681899,
+      "lon": 135.096173,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-4e2cbb1b68",
+      "name_ja": "土池公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.666441,
+      "lon": 135.082516,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-6a2c395e97",
+      "name_ja": "西神中央公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.714448,
+      "lon": 135.019983,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 16.1
+    },
+    {
+      "slug": "p13-2378ca818c",
+      "name_ja": "樫野台公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.70719,
+      "lon": 134.999979,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-bd2a502348",
+      "name_ja": "井吹台谷口公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.697234,
+      "lon": 135.022737,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 18.8
+    },
+    {
+      "slug": "p13-ae8c69a5e0",
+      "name_ja": "木見中央公園",
+      "municipality": "神戸市",
+      "operator": "兵庫県",
+      "lat": 34.738105,
+      "lon": 135.08495,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-e1b7d93b5a",
+      "name_ja": "御着南山公園",
+      "municipality": "姫路市",
+      "operator": "兵庫県",
+      "lat": 34.809756,
+      "lon": 134.738878,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.6
+    },
+    {
+      "slug": "p13-ad32507f7a",
+      "name_ja": "秩父山公園",
+      "municipality": "姫路市",
+      "operator": "兵庫県",
+      "lat": 34.846874,
+      "lon": 134.653612,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-0b35819c6d",
+      "name_ja": "大蔵海岸公園",
+      "municipality": "明石市",
+      "operator": "兵庫県",
+      "lat": 34.643595,
+      "lon": 135.00549,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-2d1e5e7bcb",
+      "name_ja": "金ヶ崎公園",
+      "municipality": "明石市",
+      "operator": "兵庫県",
+      "lat": 34.698816,
+      "lon": 134.926369,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.5
+    },
+    {
+      "slug": "p13-1e475bed88",
+      "name_ja": "西宮中央運動公園",
+      "municipality": "西宮市",
+      "operator": "兵庫県",
+      "lat": 34.749034,
+      "lon": 135.345961,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-8820360bc8",
+      "name_ja": "中央公園",
+      "municipality": "相生市",
+      "operator": "兵庫県",
+      "lat": 34.80537,
+      "lon": 134.463242,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-f095ee0417",
+      "name_ja": "岩屋谷公園",
+      "municipality": "相生市",
+      "operator": "兵庫県",
+      "lat": 34.810189,
+      "lon": 134.494345,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-9c3e849e90",
+      "name_ja": "ジャジャ山公園",
+      "municipality": "豊岡市",
+      "operator": "兵庫県",
+      "lat": 35.658543,
+      "lon": 134.76632,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-62ab058315",
+      "name_ja": "向島公園",
+      "municipality": "高砂市",
+      "operator": "兵庫県",
+      "lat": 34.735716,
+      "lon": 134.803411,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-71b690a7f9",
+      "name_ja": "深山池公園",
+      "municipality": "川西市",
+      "operator": "兵庫県",
+      "lat": 34.91015,
+      "lon": 135.402635,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-9246102632",
+      "name_ja": "ひまわりの丘公園",
+      "municipality": "小野市",
+      "operator": "兵庫県",
+      "lat": 34.86971,
+      "lon": 134.954486,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-93dd837766",
+      "name_ja": "三田谷公園",
+      "municipality": "三田市",
+      "operator": "兵庫県",
+      "lat": 34.883734,
+      "lon": 135.209906,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-f0e48a7177",
+      "name_ja": "はじかみ池公園",
+      "municipality": "三田市",
+      "operator": "兵庫県",
+      "lat": 34.898903,
+      "lon": 135.18884,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-43c9130db2",
+      "name_ja": "学園東公園",
+      "municipality": "三田市",
+      "operator": "兵庫県",
+      "lat": 34.912121,
+      "lon": 135.16611,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-8ef4346053",
+      "name_ja": "テクノ公園",
+      "municipality": "三田市",
+      "operator": "兵庫県",
+      "lat": 34.932571,
+      "lon": 135.170043,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-f4a2fb0df6",
+      "name_ja": "山南中央公園",
+      "municipality": "丹波市",
+      "operator": "兵庫県",
+      "lat": 35.072758,
+      "lon": 135.038568,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-a6e84bd42c",
+      "name_ja": "うぐいす池公園",
+      "municipality": "川辺郡猪名川町",
+      "operator": "兵庫県",
+      "lat": 34.902801,
+      "lon": 135.38865,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-dfdd1d6304",
+      "name_ja": "中央公園",
+      "municipality": "多可郡多可町",
+      "operator": "兵庫県",
+      "lat": 35.056683,
+      "lon": 134.920649,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-60635ac878",
+      "name_ja": "浜田公園",
+      "municipality": "加古郡播磨町",
+      "operator": "兵庫県",
+      "lat": 34.710715,
+      "lon": 134.861993,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-240d149547",
+      "name_ja": "大中遺跡公園",
+      "municipality": "加古郡播磨町",
+      "operator": "兵庫県",
+      "lat": 34.726647,
+      "lon": 134.87743,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-f3e2b51da4",
+      "name_ja": "健康公園",
+      "municipality": "美方郡新温泉町",
+      "operator": "兵庫県",
+      "lat": 35.533888,
+      "lon": 134.491942,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.5
+    }
+  ]
+}

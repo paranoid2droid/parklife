@@ -1,0 +1,106 @@
+{
+  "prefecture": "gifu",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3c5f40c744",
+      "name_ja": "長良公園",
+      "municipality": "岐阜市",
+      "operator": "岐阜県",
+      "lat": 35.446788,
+      "lon": 136.783583,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-8a31810f2e",
+      "name_ja": "滝呂公園",
+      "municipality": "多治見市",
+      "operator": "岐阜県",
+      "lat": 35.311065,
+      "lon": 137.155426,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-ee5b29e139",
+      "name_ja": "旭ヶ丘公園",
+      "municipality": "多治見市",
+      "operator": "岐阜県",
+      "lat": 35.366145,
+      "lon": 137.111815,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-d253e20329",
+      "name_ja": "笠原運動公園",
+      "municipality": "多治見市",
+      "operator": "岐阜県",
+      "lat": 35.295554,
+      "lon": 137.145126,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-a09cab4fb9",
+      "name_ja": "各務原市民",
+      "municipality": "各務原市",
+      "operator": "岐阜県",
+      "lat": 35.399224,
+      "lon": 136.842504,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-5f13ed7222",
+      "name_ja": "河跡湖",
+      "municipality": "各務原市",
+      "operator": "岐阜県",
+      "lat": 35.366033,
+      "lon": 136.828866,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-394ff465cb",
+      "name_ja": "下呂つつじヶ丘公園",
+      "municipality": "下呂市",
+      "operator": "岐阜県",
+      "lat": 35.79772,
+      "lon": 137.23779,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-e7c579479d",
+      "name_ja": "ごうど中央スポーツ公園",
+      "municipality": "安八郡神戸町",
+      "operator": "岐阜県",
+      "lat": 35.408561,
+      "lon": 136.613765,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-20fa744994",
+      "name_ja": "池田町霞間ヶ渓スポ－ツ公園",
+      "municipality": "揖斐郡池田町",
+      "operator": "岐阜県",
+      "lat": 35.433733,
+      "lon": 136.556727,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-8aabde8d93",
+      "name_ja": "半布ヶ丘公園",
+      "municipality": "加茂郡富加町",
+      "operator": "岐阜県",
+      "lat": 35.48787,
+      "lon": 136.9875,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.3
+    }
+  ]
+}

@@ -13,6 +13,7 @@ from __future__ import annotations
 import hashlib
 import json
 import math
+import os
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -53,15 +54,29 @@ NS = {
 
 # Park-type codes (公園種別) considered biodiversity-relevant.
 # 4=総合公園, 6=広域公園, 9=特殊公園, 11=都市林, 14=都市緑地
-BIODIV_KDP = {"4", "6", "9", "11", "14"}
+# Override per-run with env P13_KDP (comma-separated codes) to seed an
+# additional tier into a separate output file — e.g. the 地区公園(3)
+# expansion writes only type-3 via `P13_KDP=3 P13_SUFFIX=p13ext`.
+DEFAULT_BIODIV_KDP = {"4", "6", "9", "11", "14"}
+BIODIV_KDP = (
+    {c.strip() for c in os.environ["P13_KDP"].split(",") if c.strip()}
+    if os.environ.get("P13_KDP")
+    else set(DEFAULT_BIODIV_KDP)
+)
+# Output filename stem: data/seeds/<pref>-<SEED_SUFFIX>.json. Keep the default
+# "p13" so the original national seeds are never clobbered; expansions use a
+# distinct suffix so seeds.load() picks up both.
+SEED_SUFFIX = os.environ.get("P13_SUFFIX", "p13")
 KDP_LABEL = {
     "1": "街区公園", "2": "近隣公園", "3": "地区公園", "4": "総合公園",
     "5": "運動公園", "6": "広域公園", "7": "レクリエーション都市",
     "8": "国営公園", "9": "特殊公園", "10": "緩衝緑地", "11": "都市林",
     "12": "広場公園", "13": "緑道", "14": "都市緑地",
 }
-MIN_AREA_M2 = 50_000  # 5 hectares
-DEDUP_RADIUS_M = 500  # treat as same park as existing if within this radius
+MIN_AREA_M2 = int(os.environ.get("P13_MIN_AREA_M2", 50_000))  # 5 hectares
+# 1 km (was 500 m): the 500 m radius missed parks offset 590 m from an existing
+# entry and created the 2026-05-18 duplicate-park bug. Override with P13_DEDUP_M.
+DEDUP_RADIUS_M = int(os.environ.get("P13_DEDUP_M", 1000))
 
 
 def download_zip(pref_code: str) -> Path:
@@ -205,7 +220,7 @@ def main(argv: list[str] | None = None) -> int:
                 "p13_kdp": KDP_LABEL.get(p["kdp"], p["kdp"]),
                 "p13_area_ha": round(p["area"] / 10000, 1),
             })
-        out_path = SEED_DIR / f"{pref}-p13.json"
+        out_path = SEED_DIR / f"{pref}-{SEED_SUFFIX}.json"
         out_path.write_text(json.dumps({
             "prefecture": pref,
             "source": "国土数値情報 P13-11 (都市公園)",

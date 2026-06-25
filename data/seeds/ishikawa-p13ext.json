@@ -1,0 +1,56 @@
+{
+  "prefecture": "ishikawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-f5c0978fce",
+      "name_ja": "安宅海浜公園",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.426522,
+      "lon": 136.424722,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-c19363ac40",
+      "name_ja": "七塚中央公園",
+      "municipality": "かほく市",
+      "operator": "石川県",
+      "lat": 36.735432,
+      "lon": 136.697329,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-ba98f31c54",
+      "name_ja": "若宮公園",
+      "municipality": "白山市",
+      "operator": "石川県",
+      "lat": 36.522125,
+      "lon": 136.575023,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-2d39f4ed17",
+      "name_ja": "道林寺公園",
+      "municipality": "能美市",
+      "operator": "石川県",
+      "lat": 36.442189,
+      "lon": 136.442243,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-957e7c39ad",
+      "name_ja": "押水運動公園",
+      "municipality": "羽咋郡宝達志水町",
+      "operator": "石川県",
+      "lat": 36.827104,
+      "lon": 136.748432,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.8
+    }
+  ]
+}

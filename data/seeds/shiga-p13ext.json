@@ -1,0 +1,126 @@
+{
+  "prefecture": "shiga",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-af77d04363",
+      "name_ja": "長等公園",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 35.004952,
+      "lon": 135.856591,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-12137e7774",
+      "name_ja": "大石緑地",
+      "municipality": "大津市",
+      "operator": "滋賀県",
+      "lat": 34.909419,
+      "lon": 135.91092,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-5588e86b3a",
+      "name_ja": "弾正公園",
+      "municipality": "草津市",
+      "operator": "滋賀県",
+      "lat": 35.03224,
+      "lon": 135.936257,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-51657872d4",
+      "name_ja": "野洲川立入河川公園",
+      "municipality": "守山市",
+      "operator": "滋賀県",
+      "lat": 35.053221,
+      "lon": 136.009552,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-f64160a54b",
+      "name_ja": "美崎公園",
+      "municipality": "守山市",
+      "operator": "滋賀県",
+      "lat": 35.120052,
+      "lon": 135.95392,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-26e160eec5",
+      "name_ja": "野洲川運動公園",
+      "municipality": "栗東市",
+      "operator": "滋賀県",
+      "lat": 35.046879,
+      "lon": 136.01413,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.4
+    },
+    {
+      "slug": "p13-703c332207",
+      "name_ja": "ひのきが丘公園",
+      "municipality": "甲賀市",
+      "operator": "滋賀県",
+      "lat": 34.995128,
+      "lon": 136.156288,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-04934cb243",
+      "name_ja": "鹿深夢の森",
+      "municipality": "甲賀市",
+      "operator": "滋賀県",
+      "lat": 34.90118,
+      "lon": 136.230242,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-971c7abfba",
+      "name_ja": "菩提寺公園",
+      "municipality": "湖南市",
+      "operator": "滋賀県",
+      "lat": 35.033683,
+      "lon": 136.058324,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-8594f5afc0",
+      "name_ja": "高島市健康の森梅の子運動公園",
+      "municipality": "高島市",
+      "operator": "滋賀県",
+      "lat": 35.345204,
+      "lon": 136.005342,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-fd2d5e7374",
+      "name_ja": "ひばり公園",
+      "municipality": "東近江市",
+      "operator": "滋賀県",
+      "lat": 35.125815,
+      "lon": 136.248307,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-b649838500",
+      "name_ja": "大谷公園",
+      "municipality": "蒲生郡日野町",
+      "operator": "滋賀県",
+      "lat": 35.029632,
+      "lon": 136.239119,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.2
+    }
+  ]
+}

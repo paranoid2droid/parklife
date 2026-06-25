@@ -1,0 +1,26 @@
+{
+  "prefecture": "kochi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-21e6e2adc8",
+      "name_ja": "鏡野公園",
+      "municipality": "香美市",
+      "operator": "高知県",
+      "lat": 33.618717,
+      "lon": 133.719279,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-ac371628cc",
+      "name_ja": "錦山公園",
+      "municipality": "高岡郡日高村",
+      "operator": "高知県",
+      "lat": 33.548293,
+      "lon": 133.348752,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.5
+    }
+  ]
+}

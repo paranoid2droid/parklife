@@ -1,0 +1,186 @@
+{
+  "prefecture": "kagoshima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a972644137",
+      "name_ja": "鴨池緑地公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.556572,
+      "lon": 130.560685,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-b2089eaf54",
+      "name_ja": "甲突川左岸緑地",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.581429,
+      "lon": 130.553409,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-254535792f",
+      "name_ja": "鹿屋運動公園",
+      "municipality": "鹿屋市",
+      "operator": "鹿児島県",
+      "lat": 31.384142,
+      "lon": 130.832472,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-b878a0a228",
+      "name_ja": "片平山公園",
+      "municipality": "枕崎市",
+      "operator": "鹿児島県",
+      "lat": 31.271193,
+      "lon": 130.301233,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-93091d7d0c",
+      "name_ja": "塩浜公園",
+      "municipality": "枕崎市",
+      "operator": "鹿児島県",
+      "lat": 31.276869,
+      "lon": 130.288714,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-db8c8f20c1",
+      "name_ja": "妙円寺中央公園",
+      "municipality": "日置市",
+      "operator": "鹿児島県",
+      "lat": 31.645475,
+      "lon": 130.394751,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-617c06f985",
+      "name_ja": "栄楽公園",
+      "municipality": "曽於市",
+      "operator": "鹿児島県",
+      "lat": 31.654734,
+      "lon": 131.016273,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-7b6d081fe1",
+      "name_ja": "国分海浜公園",
+      "municipality": "霧島市",
+      "operator": "鹿児島県",
+      "lat": 31.704605,
+      "lon": 130.78356,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-1cdad5c947",
+      "name_ja": "高太郎公園",
+      "municipality": "南さつま市",
+      "operator": "鹿児島県",
+      "lat": 31.286709,
+      "lon": 130.230307,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-0d4a04ba0a",
+      "name_ja": "忠元公園",
+      "municipality": "伊佐市",
+      "operator": "鹿児島県",
+      "lat": 32.048674,
+      "lon": 130.616346,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-4bc92957c3",
+      "name_ja": "高岡公園",
+      "municipality": "姶良市",
+      "operator": "鹿児島県",
+      "lat": 31.75608,
+      "lon": 130.656064,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-67e785cb5c",
+      "name_ja": "観音滝公園",
+      "municipality": "薩摩郡さつま町",
+      "operator": "鹿児島県",
+      "lat": 31.922992,
+      "lon": 130.565442,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-549eaad79b",
+      "name_ja": "大崎ふれあいの里公園",
+      "municipality": "曽於郡大崎町",
+      "operator": "鹿児島県",
+      "lat": 31.436641,
+      "lon": 131.032975,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-c284de956e",
+      "name_ja": "上床公園",
+      "municipality": "肝属郡肝付町",
+      "operator": "鹿児島県",
+      "lat": 31.259891,
+      "lon": 131.087077,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    },
+    {
+      "slug": "p13-2eb2d9efab",
+      "name_ja": "宇宙ヶ丘公園",
+      "municipality": "熊毛郡南種子町",
+      "operator": "鹿児島県",
+      "lat": 30.397976,
+      "lon": 130.901828,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.1
+    },
+    {
+      "slug": "p13-06a5f1ef59",
+      "name_ja": "南種子健康公園",
+      "municipality": "熊毛郡南種子町",
+      "operator": "鹿児島県",
+      "lat": 30.431881,
+      "lon": 130.905685,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-24ab569895",
+      "name_ja": "前之浜海浜公園",
+      "municipality": "熊毛郡南種子町",
+      "operator": "鹿児島県",
+      "lat": 30.36441,
+      "lon": 130.900916,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-aff5320230",
+      "name_ja": "義名山公園",
+      "municipality": "大島郡伊仙町",
+      "operator": "鹿児島県",
+      "lat": 27.691152,
+      "lon": 128.94184,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.2
+    }
+  ]
+}

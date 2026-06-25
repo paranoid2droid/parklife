@@ -1,0 +1,106 @@
+{
+  "prefecture": "fukushima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-bf9f844eac",
+      "name_ja": "蓬莱中央公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.698194,
+      "lon": 140.476019,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-3b29cb5527",
+      "name_ja": "土合舘公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.652525,
+      "lon": 140.471072,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-f5c3cb18a6",
+      "name_ja": "酒蓋公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.391108,
+      "lon": 140.368553,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-752c0c5a2d",
+      "name_ja": "好間中央公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.07764,
+      "lon": 140.844084,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-c5cf4d0c86",
+      "name_ja": "カントリーパークとうわ",
+      "municipality": "二本松市",
+      "operator": "福島県",
+      "lat": 37.592732,
+      "lon": 140.571451,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-a472389b35",
+      "name_ja": "あたご山公園",
+      "municipality": "田村市",
+      "operator": "福島県",
+      "lat": 37.32378,
+      "lon": 140.665016,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-12c8780571",
+      "name_ja": "高松ふれあい広場",
+      "municipality": "本宮市",
+      "operator": "福島県",
+      "lat": 37.492738,
+      "lon": 140.415575,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-144e072874",
+      "name_ja": "大川ふるさと公園",
+      "municipality": "南会津郡下郷町",
+      "operator": "福島県",
+      "lat": 37.245569,
+      "lon": 139.857484,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.2
+    },
+    {
+      "slug": "p13-972916a325",
+      "name_ja": "塔寺山いこいの森公園",
+      "municipality": "河沼郡会津坂下町",
+      "operator": "福島県",
+      "lat": 37.57626,
+      "lon": 139.793314,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-e0fe0d066b",
+      "name_ja": "ばんげひがし公園",
+      "municipality": "河沼郡会津坂下町",
+      "operator": "福島県",
+      "lat": 37.553874,
+      "lon": 139.836988,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    }
+  ]
+}

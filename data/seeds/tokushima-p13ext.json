@@ -1,0 +1,66 @@
+{
+  "prefecture": "tokushima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-c75164d76b",
+      "name_ja": "田宮公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.08387,
+      "lon": 134.542127,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-ee1df60ecc",
+      "name_ja": "上桜公園",
+      "municipality": "吉野川市",
+      "operator": "徳島県",
+      "lat": 34.051854,
+      "lon": 134.326308,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-d921d9cba6",
+      "name_ja": "バンブーパーク",
+      "municipality": "吉野川市",
+      "operator": "徳島県",
+      "lat": 34.063651,
+      "lon": 134.229812,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-be5c62f6d0",
+      "name_ja": "佐那河内村中央運動公園",
+      "municipality": "名東郡佐那河内村",
+      "operator": "徳島県",
+      "lat": 33.987416,
+      "lon": 134.456218,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-7b7016acb3",
+      "name_ja": "蛇王運動公園",
+      "municipality": "海部郡海陽町",
+      "operator": "徳島県",
+      "lat": 33.620305,
+      "lon": 134.37123,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-2f0114ca88",
+      "name_ja": "ぶぶるパークみかも",
+      "municipality": "三好郡東みよし町",
+      "operator": "徳島県",
+      "lat": 34.044824,
+      "lon": 133.940023,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 18.0
+    }
+  ]
+}

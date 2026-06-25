@@ -1,0 +1,116 @@
+{
+  "prefecture": "kyoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4c8643dc77",
+      "name_ja": "船岡山",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 35.039118,
+      "lon": 135.742273,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-86418ab1a0",
+      "name_ja": "小畑川中央",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.966904,
+      "lon": 135.6755,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-6b9f18ebaf",
+      "name_ja": "大蛇ヶ池",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.958233,
+      "lon": 135.67324,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-8a78f9d809",
+      "name_ja": "伏見北堀",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.941916,
+      "lon": 135.781623,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-2995977b7f",
+      "name_ja": "井ノ奥公園",
+      "municipality": "福知山市",
+      "operator": "京都府",
+      "lat": 35.217471,
+      "lon": 135.226626,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-e0d6d85b11",
+      "name_ja": "黄檗公園",
+      "municipality": "宇治市",
+      "operator": "京都府",
+      "lat": 34.912422,
+      "lon": 135.809836,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-e60dd8f39a",
+      "name_ja": "滝上公園",
+      "municipality": "宮津市",
+      "operator": "京都府",
+      "lat": 35.539902,
+      "lon": 135.186273,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-415369813b",
+      "name_ja": "八幡市民スポ-ツ公園",
+      "municipality": "八幡市",
+      "operator": "京都府",
+      "lat": 34.862217,
+      "lon": 135.743768,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-cb880562fd",
+      "name_ja": "大宮自然運動公園",
+      "municipality": "京丹後市",
+      "operator": "京都府",
+      "lat": 35.589441,
+      "lon": 135.078782,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-004212c63f",
+      "name_ja": "弥栄総合運動公園",
+      "municipality": "京丹後市",
+      "operator": "京都府",
+      "lat": 35.667996,
+      "lon": 135.078604,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-47f075833a",
+      "name_ja": "久美浜中央運動公園",
+      "municipality": "京丹後市",
+      "operator": "京都府",
+      "lat": 35.589935,
+      "lon": 134.938545,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    }
+  ]
+}

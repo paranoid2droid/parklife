@@ -1,0 +1,296 @@
+{
+  "prefecture": "fukuoka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-7e2e677217",
+      "name_ja": "志井公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.81884,
+      "lon": 130.880973,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-93bf0ec228",
+      "name_ja": "永犬丸中央公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.844802,
+      "lon": 130.733089,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-77f930f422",
+      "name_ja": "香月中央公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.80056,
+      "lon": 130.725118,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-57c4965bbd",
+      "name_ja": "皇后崎公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.859181,
+      "lon": 130.754895,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-c7af31b760",
+      "name_ja": "白岩池公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.806854,
+      "lon": 130.739262,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-2b0898af5f",
+      "name_ja": "光貞池公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.882875,
+      "lon": 130.718583,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-da8ac31deb",
+      "name_ja": "都島展望公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.890536,
+      "lon": 130.809861,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.2
+    },
+    {
+      "slug": "p13-ab85ce38d9",
+      "name_ja": "汐井公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.622792,
+      "lon": 130.415597,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-7e5b1ff57c",
+      "name_ja": "箱崎公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.621561,
+      "lon": 130.44138,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-5c4bc8251c",
+      "name_ja": "香椎浜公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.651515,
+      "lon": 130.420235,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-54ec0b759e",
+      "name_ja": "山王公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.582602,
+      "lon": 130.432247,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-c2c347a5db",
+      "name_ja": "上月隈中央公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.567668,
+      "lon": 130.463274,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-9807eb3845",
+      "name_ja": "白銀川調節池公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.065015,
+      "lon": 130.482886,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-c940d8d1e2",
+      "name_ja": "旌忠公園",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.65293,
+      "lon": 130.697449,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-a9d316834f",
+      "name_ja": "勝盛公園",
+      "municipality": "飯塚市",
+      "operator": "福岡県",
+      "lat": 33.643013,
+      "lon": 130.678441,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-41a3804d3d",
+      "name_ja": "春の山公園",
+      "municipality": "八女市",
+      "operator": "福岡県",
+      "lat": 33.23467,
+      "lon": 130.63773,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-98c69a81a1",
+      "name_ja": "星のふるさと公園",
+      "municipality": "八女市",
+      "operator": "福岡県",
+      "lat": 33.245744,
+      "lon": 130.757548,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.1
+    },
+    {
+      "slug": "p13-c2d12875db",
+      "name_ja": "城山公園",
+      "municipality": "小郡市",
+      "operator": "福岡県",
+      "lat": 33.422533,
+      "lon": 130.592173,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-6bc46aa4d0",
+      "name_ja": "日の浦池公園",
+      "municipality": "大野城市",
+      "operator": "福岡県",
+      "lat": 33.511382,
+      "lon": 130.478453,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-640f6975ec",
+      "name_ja": "三兼池公園",
+      "municipality": "大野城市",
+      "operator": "福岡県",
+      "lat": 33.515348,
+      "lon": 130.478078,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-0baeb6b646",
+      "name_ja": "宗像中央公園",
+      "municipality": "宗像市",
+      "operator": "福岡県",
+      "lat": 33.814597,
+      "lon": 130.558698,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-e9b80938b2",
+      "name_ja": "太宰府歴史スポーツ公園",
+      "municipality": "太宰府市",
+      "operator": "福岡県",
+      "lat": 33.511224,
+      "lon": 130.491537,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-e72a01daa4",
+      "name_ja": "太宰府梅林アスレチックスポーツ公園",
+      "municipality": "太宰府市",
+      "operator": "福岡県",
+      "lat": 33.527629,
+      "lon": 130.54269,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.4
+    },
+    {
+      "slug": "p13-184f94df2e",
+      "name_ja": "千鳥ヶ池公園",
+      "municipality": "古賀市",
+      "operator": "福岡県",
+      "lat": 33.744759,
+      "lon": 130.481754,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-711422b379",
+      "name_ja": "西鞍の丘総合運動公園",
+      "municipality": "宮若市",
+      "operator": "福岡県",
+      "lat": 33.704145,
+      "lon": 130.58966,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.0
+    },
+    {
+      "slug": "p13-85ee738baa",
+      "name_ja": "山野運動公園",
+      "municipality": "嘉麻市",
+      "operator": "福岡県",
+      "lat": 33.60767,
+      "lon": 130.708356,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-69a3d8ced2",
+      "name_ja": "笹山",
+      "municipality": "糸島市",
+      "operator": "福岡県",
+      "lat": 33.55349,
+      "lon": 130.199806,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-dac0a711f4",
+      "name_ja": "水巻総合運動公園",
+      "municipality": "遠賀郡水巻町",
+      "operator": "福岡県",
+      "lat": 33.860547,
+      "lon": 130.690547,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.9
+    },
+    {
+      "slug": "p13-873e38f3a1",
+      "name_ja": "ふれあいスポーツ公園",
+      "municipality": "田川郡福智町",
+      "operator": "福岡県",
+      "lat": 33.67743,
+      "lon": 130.754154,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    }
+  ]
+}

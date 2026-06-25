@@ -1,0 +1,216 @@
+{
+  "prefecture": "akita",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-aa75e6f817",
+      "name_ja": "北野田公園",
+      "municipality": "秋田市",
+      "operator": "秋田県",
+      "lat": 39.658247,
+      "lon": 140.211432,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-656f1c902a",
+      "name_ja": "赤沼公園",
+      "municipality": "能代市",
+      "operator": "秋田県",
+      "lat": 40.170413,
+      "lon": 140.014655,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-88319dd239",
+      "name_ja": "七日市公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.336655,
+      "lon": 140.562008,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-eb884702da",
+      "name_ja": "大森町カントリーパーク",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.353583,
+      "lon": 140.435492,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-e9d5883fce",
+      "name_ja": "樹海公園",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.292642,
+      "lon": 140.586671,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-cb060597ce",
+      "name_ja": "達子森公園",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.221462,
+      "lon": 140.565296,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-0acc074f88",
+      "name_ja": "若美中央公園",
+      "municipality": "男鹿市",
+      "operator": "秋田県",
+      "lat": 39.966379,
+      "lon": 139.911029,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-3a146986cb",
+      "name_ja": "ぽぽろ健康運動公園",
+      "municipality": "由利本荘市",
+      "operator": "秋田県",
+      "lat": 39.444381,
+      "lon": 140.089945,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-70e1b5fcad",
+      "name_ja": "西目カントリーパーク",
+      "municipality": "由利本荘市",
+      "operator": "秋田県",
+      "lat": 39.343051,
+      "lon": 140.004921,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-784bc901d8",
+      "name_ja": "追分地区公園",
+      "municipality": "潟上市",
+      "operator": "秋田県",
+      "lat": 39.822126,
+      "lon": 140.048233,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-0073798e59",
+      "name_ja": "川港親水公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.407408,
+      "lon": 140.485213,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-a4c19ee7ab",
+      "name_ja": "八乙女公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.534928,
+      "lon": 140.518762,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.4
+    },
+    {
+      "slug": "p13-572b375827",
+      "name_ja": "鷹巣運動公園",
+      "municipality": "北秋田市",
+      "operator": "秋田県",
+      "lat": 40.234023,
+      "lon": 140.356939,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-4decf428c3",
+      "name_ja": "中央公園",
+      "municipality": "鹿角郡小坂町",
+      "operator": "秋田県",
+      "lat": 40.327565,
+      "lon": 140.743392,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-cd895146d4",
+      "name_ja": "琴丘町総合運動公園",
+      "municipality": "山本郡三種町",
+      "operator": "秋田県",
+      "lat": 40.036366,
+      "lon": 140.094337,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 26.0
+    },
+    {
+      "slug": "p13-6081303875",
+      "name_ja": "惣三郎沼公園",
+      "municipality": "山本郡三種町",
+      "operator": "秋田県",
+      "lat": 40.087552,
+      "lon": 140.085604,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 17.5
+    },
+    {
+      "slug": "p13-608674a394",
+      "name_ja": "御所の台ふれあいパーク",
+      "municipality": "山本郡八峰町",
+      "operator": "秋田県",
+      "lat": 40.387184,
+      "lon": 139.988272,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-71b631a792",
+      "name_ja": "ポンポコ山公園",
+      "municipality": "山本郡八峰町",
+      "operator": "秋田県",
+      "lat": 40.267736,
+      "lon": 140.02589,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-ac77f6a90a",
+      "name_ja": "中羽立公園",
+      "municipality": "南秋田郡八郎潟町",
+      "operator": "秋田県",
+      "lat": 39.953227,
+      "lon": 140.080328,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-d9ed08c8b6",
+      "name_ja": "カントリーパーク",
+      "municipality": "仙北郡美郷町",
+      "operator": "秋田県",
+      "lat": 39.379128,
+      "lon": 140.593062,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 20.2
+    },
+    {
+      "slug": "p13-e529033241",
+      "name_ja": "大台野広場",
+      "municipality": "仙北郡美郷町",
+      "operator": "秋田県",
+      "lat": 39.456985,
+      "lon": 140.616395,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.8
+    }
+  ]
+}

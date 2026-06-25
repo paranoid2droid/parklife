@@ -1,0 +1,136 @@
+{
+  "prefecture": "oita",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-161e8bfdb3",
+      "name_ja": "大在公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.253827,
+      "lon": 131.718898,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-6d62c63ec2",
+      "name_ja": "日岡公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.253808,
+      "lon": 131.654659,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.9
+    },
+    {
+      "slug": "p13-f7b24ad522",
+      "name_ja": "上人ヶ浜公園",
+      "municipality": "別府市",
+      "operator": "大分県",
+      "lat": 33.314648,
+      "lon": 131.501495,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-03d8d7d18f",
+      "name_ja": "天瀬総合運動公園",
+      "municipality": "日田市",
+      "operator": "大分県",
+      "lat": 33.245543,
+      "lon": 131.031148,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.7
+    },
+    {
+      "slug": "p13-59bab8835e",
+      "name_ja": "宮山公園",
+      "municipality": "津久見市",
+      "operator": "大分県",
+      "lat": 33.074284,
+      "lon": 131.858969,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-62c8c069bd",
+      "name_ja": "直入町総合運動公園",
+      "municipality": "竹田市",
+      "operator": "大分県",
+      "lat": 33.0781,
+      "lon": 131.384794,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-22f4daf98c",
+      "name_ja": "丘の公園",
+      "municipality": "豊後高田市",
+      "operator": "大分県",
+      "lat": 33.549496,
+      "lon": 131.485078,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-af33af1a17",
+      "name_ja": "響山地区公園",
+      "municipality": "宇佐市",
+      "operator": "大分県",
+      "lat": 33.524236,
+      "lon": 131.322161,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.2
+    },
+    {
+      "slug": "p13-80c7ba41ea",
+      "name_ja": "平成の森公園",
+      "municipality": "宇佐市",
+      "operator": "大分県",
+      "lat": 33.418238,
+      "lon": 131.322299,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-76ee9aa5ec",
+      "name_ja": "緒方総合運動公園",
+      "municipality": "豊後大野市",
+      "operator": "大分県",
+      "lat": 32.978354,
+      "lon": 131.465151,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 18.1
+    },
+    {
+      "slug": "p13-9667381b8a",
+      "name_ja": "上原公園",
+      "municipality": "由布市",
+      "operator": "大分県",
+      "lat": 33.201531,
+      "lon": 131.500895,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-212c60811e",
+      "name_ja": "庄内総合運動公園",
+      "municipality": "由布市",
+      "operator": "大分県",
+      "lat": 33.178609,
+      "lon": 131.431096,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.9
+    },
+    {
+      "slug": "p13-238cee3fd7",
+      "name_ja": "国見総合運動公園",
+      "municipality": "国東市",
+      "operator": "大分県",
+      "lat": 33.677502,
+      "lon": 131.602831,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    }
+  ]
+}

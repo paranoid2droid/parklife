@@ -1,0 +1,86 @@
+{
+  "prefecture": "okinawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-eebf533947",
+      "name_ja": "海軍壕公園",
+      "municipality": "豊見城市",
+      "operator": "沖縄県",
+      "lat": 26.186459,
+      "lon": 127.676095,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-21a54d3dec",
+      "name_ja": "喜屋武マーブ公園",
+      "municipality": "うるま市",
+      "operator": "沖縄県",
+      "lat": 26.353363,
+      "lon": 127.850198,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-ba931de665",
+      "name_ja": "石川公園",
+      "municipality": "うるま市",
+      "operator": "沖縄県",
+      "lat": 26.425647,
+      "lon": 127.827582,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.2
+    },
+    {
+      "slug": "p13-d9db217a1f",
+      "name_ja": "福里公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.751478,
+      "lon": 125.395819,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.4
+    },
+    {
+      "slug": "p13-0916cfd773",
+      "name_ja": "下地公園",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.730369,
+      "lon": 125.281999,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-55249ae9c0",
+      "name_ja": "伊良部カントリーパーク",
+      "municipality": "宮古島市",
+      "operator": "沖縄県",
+      "lat": 24.832911,
+      "lon": 125.194743,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-8fe9a06cc4",
+      "name_ja": "吉の浦公園",
+      "municipality": "中頭郡中城村",
+      "operator": "沖縄県",
+      "lat": 26.258659,
+      "lon": 127.793085,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-8f1acdc800",
+      "name_ja": "久米島町総合運動公園",
+      "municipality": "島尻郡久米島町",
+      "operator": "沖縄県",
+      "lat": 26.348531,
+      "lon": 126.733465,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    }
+  ]
+}

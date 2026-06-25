@@ -1,0 +1,86 @@
+{
+  "prefecture": "miyazaki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-75eafdbe6e",
+      "name_ja": "宮崎中央公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.913287,
+      "lon": 131.434768,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-07c6aa6a59",
+      "name_ja": "木花公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.82901,
+      "lon": 131.42851,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.2
+    },
+    {
+      "slug": "p13-d75944599b",
+      "name_ja": "宝塔山公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 32.045851,
+      "lon": 131.433351,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-a6b3c8854c",
+      "name_ja": "木原公園",
+      "municipality": "宮崎市",
+      "operator": "宮崎県",
+      "lat": 31.834931,
+      "lon": 131.406916,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-f478798fb3",
+      "name_ja": "北方町総合運動公園",
+      "municipality": "延岡市",
+      "operator": "宮崎県",
+      "lat": 32.556863,
+      "lon": 131.528648,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.3
+    },
+    {
+      "slug": "p13-1cace712c0",
+      "name_ja": "緑ヶ丘公園",
+      "municipality": "小林市",
+      "operator": "宮崎県",
+      "lat": 32.000066,
+      "lon": 130.967926,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-4edad61194",
+      "name_ja": "あすなろ公園運動広場",
+      "municipality": "小林市",
+      "operator": "宮崎県",
+      "lat": 31.970104,
+      "lon": 131.107337,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 21.4
+    },
+    {
+      "slug": "p13-90ea9db6e9",
+      "name_ja": "牧水公園",
+      "municipality": "日向市",
+      "operator": "宮崎県",
+      "lat": 32.360175,
+      "lon": 131.462925,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.1
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "prefecture": "chiba",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b8008d44ff",
+      "name_ja": "泉谷公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.55372,
+      "lon": 140.17868,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-adfddb56fe",
+      "name_ja": "大野台中央公園",
+      "municipality": "千葉市",
+      "operator": "千葉県",
+      "lat": 35.512732,
+      "lon": 140.230951,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-6b54dab512",
+      "name_ja": "法典公園",
+      "municipality": "船橋市",
+      "operator": "千葉県",
+      "lat": 35.742025,
+      "lon": 139.978671,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-4c5e8a1d59",
+      "name_ja": "かずさ１号公園",
+      "municipality": "木更津市",
+      "operator": "千葉県",
+      "lat": 35.3448,
+      "lon": 139.993254,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-973253549c",
+      "name_ja": "かずさ２号公園",
+      "municipality": "木更津市",
+      "operator": "千葉県",
+      "lat": 35.334269,
+      "lon": 139.994097,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-5ab2f45216",
+      "name_ja": "赤坂地区公園",
+      "municipality": "成田市",
+      "operator": "千葉県",
+      "lat": 35.77997,
+      "lon": 140.29112,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-5bc99ebcb4",
+      "name_ja": "旭スポーツの森公園",
+      "municipality": "旭市",
+      "operator": "千葉県",
+      "lat": 35.722416,
+      "lon": 140.629058,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.5
+    },
+    {
+      "slug": "p13-4edf24f83d",
+      "name_ja": "袋公園",
+      "municipality": "旭市",
+      "operator": "千葉県",
+      "lat": 35.732508,
+      "lon": 140.648136,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.5
+    },
+    {
+      "slug": "p13-3fe32db481",
+      "name_ja": "養老川臨海公園",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.541555,
+      "lon": 140.064249,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.4
+    },
+    {
+      "slug": "p13-f6c6619fbf",
+      "name_ja": "八幡公園",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.530033,
+      "lon": 140.122837,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-ebb1b0752e",
+      "name_ja": "ちはら台公園",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.530131,
+      "lon": 140.173499,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-b03b0e2311",
+      "name_ja": "東深井地区公園",
+      "municipality": "流山市",
+      "operator": "千葉県",
+      "lat": 35.912468,
+      "lon": 139.917531,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-b58358fa10",
+      "name_ja": "湖北台中央公園",
+      "municipality": "我孫子市",
+      "operator": "千葉県",
+      "lat": 35.86273,
+      "lon": 140.073225,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-477ff5b21a",
+      "name_ja": "高洲中央公園",
+      "municipality": "浦安市",
+      "operator": "千葉県",
+      "lat": 35.635992,
+      "lon": 139.914987,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-b370d8293c",
+      "name_ja": "百目木公園",
+      "municipality": "袖ケ浦市",
+      "operator": "千葉県",
+      "lat": 35.381137,
+      "lon": 140.032938,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-ccde830f5a",
+      "name_ja": "牧の原公園",
+      "municipality": "印西市",
+      "operator": "千葉県",
+      "lat": 35.807042,
+      "lon": 140.167844,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-01aee87e49",
+      "name_ja": "印旛西部公園",
+      "municipality": "印西市",
+      "operator": "千葉県",
+      "lat": 35.764122,
+      "lon": 140.164069,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-8edb45ca85",
+      "name_ja": "松虫姫公園",
+      "municipality": "印西市",
+      "operator": "千葉県",
+      "lat": 35.785073,
+      "lon": 140.207299,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-c1d4b9a3f4",
+      "name_ja": "さんぶの森ふれあい公園",
+      "municipality": "山武市",
+      "operator": "千葉県",
+      "lat": 35.64202,
+      "lon": 140.376536,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-be2b1af276",
+      "name_ja": "水と緑の運動広場",
+      "municipality": "印旛郡栄町",
+      "operator": "千葉県",
+      "lat": 35.858999,
+      "lon": 140.254971,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-c45c2f747d",
+      "name_ja": "尼ヶ台総合公園",
+      "municipality": "長生郡長生村",
+      "operator": "千葉県",
+      "lat": 35.420912,
+      "lon": 140.338022,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.5
+    }
+  ]
+}

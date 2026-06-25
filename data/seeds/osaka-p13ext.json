@@ -1,0 +1,196 @@
+{
+  "prefecture": "osaka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-cd3775c7b9",
+      "name_ja": "扇町",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.704038,
+      "lon": 135.509163,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-d96052e7bb",
+      "name_ja": "毛馬",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.713482,
+      "lon": 135.520551,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.5
+    },
+    {
+      "slug": "p13-1071b687d2",
+      "name_ja": "真田山",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.66912,
+      "lon": 135.527005,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-dba0117f3a",
+      "name_ja": "中島",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.699356,
+      "lon": 135.426415,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-e5c05fb9f9",
+      "name_ja": "桃ヶ池",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.630823,
+      "lon": 135.521471,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-79550d3e16",
+      "name_ja": "瓜破南大和川",
+      "municipality": "大阪市",
+      "operator": "大阪府",
+      "lat": 34.597651,
+      "lon": 135.548209,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-ee9a4981e4",
+      "name_ja": "田園公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.500731,
+      "lon": 135.51637,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-9d8b362110",
+      "name_ja": "西原公園",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.488501,
+      "lon": 135.489962,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.7
+    },
+    {
+      "slug": "p13-7fe655eb01",
+      "name_ja": "浜工業公園",
+      "municipality": "岸和田市",
+      "operator": "大阪府",
+      "lat": 34.461946,
+      "lon": 135.363748,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-b95c530eba",
+      "name_ja": "豊島公園",
+      "municipality": "豊中市",
+      "operator": "大阪府",
+      "lat": 34.766816,
+      "lon": 135.469637,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-ba95b7cc72",
+      "name_ja": "中の島公園",
+      "municipality": "吹田市",
+      "operator": "大阪府",
+      "lat": 34.751663,
+      "lon": 135.52069,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-8706f599d0",
+      "name_ja": "桃山公園",
+      "municipality": "吹田市",
+      "operator": "大阪府",
+      "lat": 34.790931,
+      "lon": 135.498897,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-4481c2c94f",
+      "name_ja": "助松公園",
+      "municipality": "泉大津市",
+      "operator": "大阪府",
+      "lat": 34.515538,
+      "lon": 135.416156,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-f2181dde06",
+      "name_ja": "水間公園",
+      "municipality": "貝塚市",
+      "operator": "大阪府",
+      "lat": 34.398199,
+      "lon": 135.384665,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-bd4dc9682e",
+      "name_ja": "大枝公園",
+      "municipality": "守口市",
+      "operator": "大阪府",
+      "lat": 34.728947,
+      "lon": 135.56724,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-1e22d856bb",
+      "name_ja": "車塚公園",
+      "municipality": "枚方市",
+      "operator": "大阪府",
+      "lat": 34.833267,
+      "lon": 135.670517,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-c39037001e",
+      "name_ja": "宮ノ上公園",
+      "municipality": "和泉市",
+      "operator": "大阪府",
+      "lat": 34.449328,
+      "lon": 135.454116,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-9fdf06a1cc",
+      "name_ja": "峰塚公園",
+      "municipality": "羽曳野市",
+      "operator": "大阪府",
+      "lat": 34.551702,
+      "lon": 135.596566,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-94ebeec83c",
+      "name_ja": "八戸ノ里公園",
+      "municipality": "東大阪市",
+      "operator": "大阪府",
+      "lat": 34.657651,
+      "lon": 135.592391,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    }
+  ]
+}

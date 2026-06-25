@@ -1,0 +1,156 @@
+{
+  "prefecture": "ibaraki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d4999a6a43",
+      "name_ja": "港公園",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.913406,
+      "lon": 140.671659,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.5
+    },
+    {
+      "slug": "p13-d1db861442",
+      "name_ja": "赤塚公園",
+      "municipality": "つくば市",
+      "operator": "茨城県",
+      "lat": 36.051572,
+      "lon": 140.130463,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.6
+    },
+    {
+      "slug": "p13-31c8d5a0e5",
+      "name_ja": "上大野グランド",
+      "municipality": "古河市",
+      "operator": "茨城県",
+      "lat": 36.210616,
+      "lon": 139.780603,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-094fc2c0dd",
+      "name_ja": "つくばの里向陽台公園",
+      "municipality": "龍ケ崎市",
+      "operator": "茨城県",
+      "lat": 35.933234,
+      "lon": 140.236027,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-3bdde73694",
+      "name_ja": "北竜台公園",
+      "municipality": "龍ケ崎市",
+      "operator": "茨城県",
+      "lat": 35.93084,
+      "lon": 140.166294,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-1a4c358c69",
+      "name_ja": "龍ヶ岡公園",
+      "municipality": "龍ケ崎市",
+      "operator": "茨城県",
+      "lat": 35.928756,
+      "lon": 140.203199,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.3
+    },
+    {
+      "slug": "p13-f07466cc87",
+      "name_ja": "総合公園",
+      "municipality": "取手市",
+      "operator": "茨城県",
+      "lat": 35.931061,
+      "lon": 140.095165,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.0
+    },
+    {
+      "slug": "p13-fa33dfc036",
+      "name_ja": "川口公園",
+      "municipality": "つくば市",
+      "operator": "茨城県",
+      "lat": 36.10414,
+      "lon": 140.009619,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-1ed5439d2b",
+      "name_ja": "鹿島城山公園",
+      "municipality": "鹿嶋市",
+      "operator": "茨城県",
+      "lat": 35.968569,
+      "lon": 140.622266,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-f1069fc41e",
+      "name_ja": "津賀城址公園",
+      "municipality": "鹿嶋市",
+      "operator": "茨城県",
+      "lat": 36.036562,
+      "lon": 140.581104,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-76b8c7233c",
+      "name_ja": "勤行緑地",
+      "municipality": "筑西市",
+      "operator": "茨城県",
+      "lat": 36.331318,
+      "lon": 139.976363,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.7
+    },
+    {
+      "slug": "p13-01d08ed8ca",
+      "name_ja": "協和の杜公園",
+      "municipality": "筑西市",
+      "operator": "茨城県",
+      "lat": 36.344156,
+      "lon": 140.031384,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-bb7d7c15be",
+      "name_ja": "希望ヶ丘公園",
+      "municipality": "小美玉市",
+      "operator": "茨城県",
+      "lat": 36.218686,
+      "lon": 140.307339,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-f92d0fc631",
+      "name_ja": "茨城町運動公園",
+      "municipality": "東茨城郡茨城町",
+      "operator": "茨城県",
+      "lat": 36.300863,
+      "lon": 140.404127,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-3395901d51",
+      "name_ja": "利根緑地",
+      "municipality": "北相馬郡利根町",
+      "operator": "茨城県",
+      "lat": 35.84641,
+      "lon": 140.155967,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.4
+    }
+  ]
+}

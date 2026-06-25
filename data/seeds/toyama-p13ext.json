@@ -1,0 +1,146 @@
+{
+  "prefecture": "toyama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-c0f97f8220",
+      "name_ja": "馬場記念公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.741991,
+      "lon": 137.22528,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-b520276dfc",
+      "name_ja": "城東ふれあい公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.693976,
+      "lon": 137.245589,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-a8d60f4ce2",
+      "name_ja": "八尾西山公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.58919,
+      "lon": 137.117529,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-08346fc61d",
+      "name_ja": "高岡庄川緑地",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.749538,
+      "lon": 137.046589,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.1
+    },
+    {
+      "slug": "p13-97acc5f283",
+      "name_ja": "福岡公園",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.71518,
+      "lon": 136.907804,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-84bd5f2a42",
+      "name_ja": "十二町潟水郷公園",
+      "municipality": "氷見市",
+      "operator": "富山県",
+      "lat": 36.841179,
+      "lon": 136.972662,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-deff310214",
+      "name_ja": "滑川海浜公園",
+      "municipality": "滑川市",
+      "operator": "富山県",
+      "lat": 36.78184,
+      "lon": 137.350521,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-ac1018601a",
+      "name_ja": "行田公園",
+      "municipality": "滑川市",
+      "operator": "富山県",
+      "lat": 36.760435,
+      "lon": 137.351177,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-d546eb8126",
+      "name_ja": "黒部川公園",
+      "municipality": "黒部市",
+      "operator": "富山県",
+      "lat": 36.897254,
+      "lon": 137.47374,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 12.3
+    },
+    {
+      "slug": "p13-97891aa024",
+      "name_ja": "砺波向山健民公園",
+      "municipality": "砺波市",
+      "operator": "富山県",
+      "lat": 36.660259,
+      "lon": 137.030116,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-833d6e9c5b",
+      "name_ja": "城山公園",
+      "municipality": "小矢部市",
+      "operator": "富山県",
+      "lat": 36.681784,
+      "lon": 136.862696,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.4
+    },
+    {
+      "slug": "p13-e05afa95da",
+      "name_ja": "閑乗寺公園",
+      "municipality": "南砺市",
+      "operator": "富山県",
+      "lat": 36.560254,
+      "lon": 136.986673,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 10.8
+    },
+    {
+      "slug": "p13-c7c01fb29d",
+      "name_ja": "射水市大島中央公園",
+      "municipality": "射水市",
+      "operator": "富山県",
+      "lat": 36.7318,
+      "lon": 137.07445,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-a22f720ccc",
+      "name_ja": "末三賀緑地",
+      "municipality": "中新川郡立山町",
+      "operator": "富山県",
+      "lat": 36.633681,
+      "lon": 137.314503,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    }
+  ]
+}

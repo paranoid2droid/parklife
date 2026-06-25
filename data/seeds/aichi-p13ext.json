@@ -1,0 +1,286 @@
+{
+  "prefecture": "aichi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-357c05a54b",
+      "name_ja": "熱田神宮公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.132412,
+      "lon": 136.902575,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.6
+    },
+    {
+      "slug": "p13-577898bb84",
+      "name_ja": "千種公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.176067,
+      "lon": 136.943448,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-2aec565701",
+      "name_ja": "茶屋ヶ坂公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.180665,
+      "lon": 136.965351,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.7
+    },
+    {
+      "slug": "p13-11342baeff",
+      "name_ja": "中村公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.174707,
+      "lon": 136.854403,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-e1121e8cd3",
+      "name_ja": "興正寺公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.139104,
+      "lon": 136.963538,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-97aa22c8da",
+      "name_ja": "白鳥公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.127376,
+      "lon": 136.903778,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-0682bafbcb",
+      "name_ja": "神宮東公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.13224,
+      "lon": 136.913608,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.1
+    },
+    {
+      "slug": "p13-9c012aed98",
+      "name_ja": "富田公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.146815,
+      "lon": 136.811527,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-f240c37396",
+      "name_ja": "稲永東公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.081762,
+      "lon": 136.856477,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.2
+    },
+    {
+      "slug": "p13-4f72228c61",
+      "name_ja": "土古公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.111722,
+      "lon": 136.871186,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-92e2a6610c",
+      "name_ja": "南郊公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.118406,
+      "lon": 136.888404,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-c56a88453f",
+      "name_ja": "新海池公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.089437,
+      "lon": 136.961059,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-80bd9f5f9a",
+      "name_ja": "水広公園",
+      "municipality": "名古屋市",
+      "operator": "愛知県",
+      "lat": 35.07768,
+      "lon": 136.994464,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-c5e23d1aac",
+      "name_ja": "竜美ヶ丘公園",
+      "municipality": "岡崎市",
+      "operator": "愛知県",
+      "lat": 34.940863,
+      "lon": 137.174396,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-b9cc1d7c2a",
+      "name_ja": "雁宿公園",
+      "municipality": "半田市",
+      "operator": "愛知県",
+      "lat": 34.897218,
+      "lon": 136.920661,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-c9161a259e",
+      "name_ja": "みなと公園",
+      "municipality": "半田市",
+      "operator": "愛知県",
+      "lat": 34.885124,
+      "lon": 136.949404,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.0
+    },
+    {
+      "slug": "p13-d754308771",
+      "name_ja": "水辺公園",
+      "municipality": "春日井市",
+      "operator": "愛知県",
+      "lat": 35.280056,
+      "lon": 137.043027,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-870f1515e4",
+      "name_ja": "明石公園",
+      "municipality": "碧南市",
+      "operator": "愛知県",
+      "lat": 34.905903,
+      "lon": 136.984565,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-cc8dad633f",
+      "name_ja": "高岡公園",
+      "municipality": "豊田市",
+      "operator": "愛知県",
+      "lat": 35.02908,
+      "lon": 137.060097,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-d32630130b",
+      "name_ja": "堀内公園",
+      "municipality": "安城市",
+      "operator": "愛知県",
+      "lat": 34.927983,
+      "lon": 137.090873,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-502ab851bf",
+      "name_ja": "桃花台中央公園",
+      "municipality": "小牧市",
+      "operator": "愛知県",
+      "lat": 35.297987,
+      "lon": 136.987336,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-bc3ed4221d",
+      "name_ja": "平地公園",
+      "municipality": "東海市",
+      "operator": "愛知県",
+      "lat": 35.047259,
+      "lon": 136.924249,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.0
+    },
+    {
+      "slug": "p13-ae3f0d1cdd",
+      "name_ja": "上野台公園",
+      "municipality": "東海市",
+      "operator": "愛知県",
+      "lat": 35.018544,
+      "lon": 136.925551,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-6a0946f62c",
+      "name_ja": "中ノ池公園",
+      "municipality": "東海市",
+      "operator": "愛知県",
+      "lat": 35.001915,
+      "lon": 136.894836,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.2
+    },
+    {
+      "slug": "p13-be60fd2475",
+      "name_ja": "保田ヶ池公園",
+      "municipality": "みよし市",
+      "operator": "愛知県",
+      "lat": 35.083335,
+      "lon": 137.074723,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.8
+    },
+    {
+      "slug": "p13-1ae16de672",
+      "name_ja": "細口公園",
+      "municipality": "みよし市",
+      "operator": "愛知県",
+      "lat": 35.064387,
+      "lon": 137.083539,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-4f1ea4af25",
+      "name_ja": "一色海浜公園",
+      "municipality": "幡豆郡一色町",
+      "operator": "愛知県",
+      "lat": 34.785618,
+      "lon": 137.018869,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-4aecbdf079",
+      "name_ja": "幸田中央公園",
+      "municipality": "額田郡幸田町",
+      "operator": "愛知県",
+      "lat": 34.864485,
+      "lon": 137.167823,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    }
+  ]
+}

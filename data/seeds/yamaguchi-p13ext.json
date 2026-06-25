@@ -1,0 +1,96 @@
+{
+  "prefecture": "yamaguchi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d62b2a1499",
+      "name_ja": "戦場ヶ原公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 33.975862,
+      "lon": 130.931551,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-bbda513fe0",
+      "name_ja": "一里山公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 33.974431,
+      "lon": 130.942084,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-3b6ae9ba33",
+      "name_ja": "金比羅公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 33.969121,
+      "lon": 130.915836,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.0
+    },
+    {
+      "slug": "p13-ac847add6f",
+      "name_ja": "夢ヶ丘公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.172848,
+      "lon": 130.933976,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.8
+    },
+    {
+      "slug": "p13-eab754b315",
+      "name_ja": "木戸公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.179607,
+      "lon": 131.458718,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-7540c64e11",
+      "name_ja": "天神山公園",
+      "municipality": "防府市",
+      "operator": "山口県",
+      "lat": 34.067478,
+      "lon": 131.574653,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 29.4
+    },
+    {
+      "slug": "p13-c712eebdb0",
+      "name_ja": "桑山公園",
+      "municipality": "防府市",
+      "operator": "山口県",
+      "lat": 34.046637,
+      "lon": 131.565604,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 15.3
+    },
+    {
+      "slug": "p13-6cb6a044f2",
+      "name_ja": "糸根地区公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 34.038976,
+      "lon": 131.083443,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-334a34ade4",
+      "name_ja": "八幡山公園",
+      "municipality": "玖珂郡和木町",
+      "operator": "山口県",
+      "lat": 34.201834,
+      "lon": 132.217182,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    }
+  ]
+}

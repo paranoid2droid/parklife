@@ -1,0 +1,46 @@
+{
+  "prefecture": "fukui",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a68a60dd5a",
+      "name_ja": "臨海中央公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.167996,
+      "lon": 136.112082,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-3728388ce1",
+      "name_ja": "三里浜ハマナス公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.146975,
+      "lon": 136.088707,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-df12261f74",
+      "name_ja": "家久スポーツ公園",
+      "municipality": "越前市",
+      "operator": "福井県",
+      "lat": 35.919631,
+      "lon": 136.172857,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-b3fb6a744b",
+      "name_ja": "霞ヶ城公園",
+      "municipality": "坂井市",
+      "operator": "福井県",
+      "lat": 36.152591,
+      "lon": 136.27247,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    }
+  ]
+}

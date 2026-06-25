@@ -1,0 +1,156 @@
+{
+  "prefecture": "hiroshima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-d057905f96",
+      "name_ja": "鈴が峰公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.380129,
+      "lon": 132.390246,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-3acdaa192b",
+      "name_ja": "西風新都東公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.437956,
+      "lon": 132.420583,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-dcd3e0470b",
+      "name_ja": "岩滝公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.378947,
+      "lon": 132.526039,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.3
+    },
+    {
+      "slug": "p13-66fc4b2a97",
+      "name_ja": "海老山公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.36337,
+      "lon": 132.36563,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-099d1ec6c8",
+      "name_ja": "美鈴が丘中央公園",
+      "municipality": "広島市",
+      "operator": "広島県",
+      "lat": 34.392963,
+      "lon": 132.382155,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.9
+    },
+    {
+      "slug": "p13-ecd4243dc2",
+      "name_ja": "中央公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.249532,
+      "lon": 132.564574,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.8
+    },
+    {
+      "slug": "p13-21135c6693",
+      "name_ja": "入船山公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.240291,
+      "lon": 132.563899,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-69cf421df2",
+      "name_ja": "大浦崎公園",
+      "municipality": "呉市",
+      "operator": "広島県",
+      "lat": 34.173938,
+      "lon": 132.554965,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    },
+    {
+      "slug": "p13-fb27475925",
+      "name_ja": "白竜湖スポーツ村公園",
+      "municipality": "三原市",
+      "operator": "広島県",
+      "lat": 34.506156,
+      "lon": 132.918443,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 14.4
+    },
+    {
+      "slug": "p13-6f74062b78",
+      "name_ja": "吉野山公園",
+      "municipality": "福山市",
+      "operator": "広島県",
+      "lat": 34.538627,
+      "lon": 133.386074,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-e5251dee5e",
+      "name_ja": "十日市親水公園",
+      "municipality": "三次市",
+      "operator": "広島県",
+      "lat": 34.811173,
+      "lon": 132.857543,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.6
+    },
+    {
+      "slug": "p13-63efa79913",
+      "name_ja": "峰高公園",
+      "municipality": "廿日市市",
+      "operator": "広島県",
+      "lat": 34.352855,
+      "lon": 132.322837,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.2
+    },
+    {
+      "slug": "p13-d3270688ab",
+      "name_ja": "空城山公園",
+      "municipality": "安芸郡府中町",
+      "operator": "広島県",
+      "lat": 34.383491,
+      "lon": 132.509031,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-8e3b7024e0",
+      "name_ja": "横浜公園",
+      "municipality": "安芸郡坂町",
+      "operator": "広島県",
+      "lat": 34.337925,
+      "lon": 132.494928,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-e1284bec80",
+      "name_ja": "豊平総合運動公園",
+      "municipality": "山県郡北広島町",
+      "operator": "広島県",
+      "lat": 34.645138,
+      "lon": 132.444208,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 9.5
+    }
+  ]
+}

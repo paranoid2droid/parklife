@@ -1,0 +1,226 @@
+{
+  "prefecture": "tochigi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-bd9efb75a9",
+      "name_ja": "宮原運動公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.538182,
+      "lon": 139.868445,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-ac380c0bc1",
+      "name_ja": "平出工業団地公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.570354,
+      "lon": 139.935176,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-c2cc0f2aa6",
+      "name_ja": "山前公園",
+      "municipality": "足利市",
+      "operator": "栃木県",
+      "lat": 36.362529,
+      "lon": 139.407671,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-3d2e48207c",
+      "name_ja": "佐野市中運動公園",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.386937,
+      "lon": 139.614002,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.1
+    },
+    {
+      "slug": "p13-17442d89b4",
+      "name_ja": "児子沼公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.534298,
+      "lon": 139.808781,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-1704537f59",
+      "name_ja": "今市運動公園",
+      "municipality": "日光市",
+      "operator": "栃木県",
+      "lat": 36.727155,
+      "lon": 139.711669,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-a7803d6cfa",
+      "name_ja": "大谷川グリーンパーク",
+      "municipality": "日光市",
+      "operator": "栃木県",
+      "lat": 36.732138,
+      "lon": 139.681631,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 13.0
+    },
+    {
+      "slug": "p13-38694ee036",
+      "name_ja": "あけぼの公園",
+      "municipality": "小山市",
+      "operator": "栃木県",
+      "lat": 36.292977,
+      "lon": 139.831156,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-d3563a3422",
+      "name_ja": "城山公園",
+      "municipality": "真岡市",
+      "operator": "栃木県",
+      "lat": 36.442151,
+      "lon": 140.006707,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-3e2e486779",
+      "name_ja": "黒磯公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.976579,
+      "lon": 140.053675,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-91dbbd8dc1",
+      "name_ja": "那珂川河畔公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.980709,
+      "lon": 140.050905,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-2e7b46f657",
+      "name_ja": "那珂川河畔運動公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.98132,
+      "lon": 140.052412,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.8
+    },
+    {
+      "slug": "p13-47f28bf1fb",
+      "name_ja": "菖蒲沢公園",
+      "municipality": "さくら市",
+      "operator": "栃木県",
+      "lat": 36.738585,
+      "lon": 140.033024,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.2
+    },
+    {
+      "slug": "p13-537d6fa17a",
+      "name_ja": "国分寺運動公園",
+      "municipality": "下野市",
+      "operator": "栃木県",
+      "lat": 36.384395,
+      "lon": 139.834642,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.3
+    },
+    {
+      "slug": "p13-d9545562cc",
+      "name_ja": "別処山公園",
+      "municipality": "下野市",
+      "operator": "栃木県",
+      "lat": 36.357771,
+      "lon": 139.882758,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-f8347f00bf",
+      "name_ja": "桃畑緑地公園",
+      "municipality": "河内郡上三川町",
+      "operator": "栃木県",
+      "lat": 36.437998,
+      "lon": 139.936126,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-2a8743015c",
+      "name_ja": "富士山公園",
+      "municipality": "河内郡上三川町",
+      "operator": "栃木県",
+      "lat": 36.425828,
+      "lon": 139.907492,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-b717a8e4d4",
+      "name_ja": "蓼沼緑地公園",
+      "municipality": "河内郡上三川町",
+      "operator": "栃木県",
+      "lat": 36.462248,
+      "lon": 139.948305,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 8.7
+    },
+    {
+      "slug": "p13-29886940a3",
+      "name_ja": "蓼沼親水公園",
+      "municipality": "河内郡上三川町",
+      "operator": "栃木県",
+      "lat": 36.462539,
+      "lon": 139.945792,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.7
+    },
+    {
+      "slug": "p13-e4cc5a6049",
+      "name_ja": "かしの森公園",
+      "municipality": "芳賀郡芳賀町",
+      "operator": "栃木県",
+      "lat": 36.572999,
+      "lon": 140.013746,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.0
+    },
+    {
+      "slug": "p13-29187cd6df",
+      "name_ja": "東雲公園",
+      "municipality": "下都賀郡壬生町",
+      "operator": "栃木県",
+      "lat": 36.429155,
+      "lon": 139.807614,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 7.7
+    },
+    {
+      "slug": "p13-fcbbf70f6a",
+      "name_ja": "那須町中央運動公園",
+      "municipality": "那須郡那須町",
+      "operator": "栃木県",
+      "lat": 37.022369,
+      "lon": 140.111441,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.4
+    }
+  ]
+}
