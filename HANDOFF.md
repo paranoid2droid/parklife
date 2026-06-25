@@ -121,6 +121,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-25 (Claude/Opus) — 🏞 park-coverage milestone #2: 2,412 → 3,082 (+地区公園)
+- Added P13 type-3 **地区公園 ≥5ha** (user chose this over 運動公園/area-relax). +670 parks. `p13_seed.py` made env-configurable (`P13_KDP`/`P13_SUFFIX`/`P13_DEDUP_M`/`P13_MIN_AREA_M2`, dedup 500m→1km); seeds in 47 new `*-p13ext.json` (originals intact).
+- Enrichment queue (gbif+iNat+eBird ×47 + finishers) drained **0-fail**; 662/670 new parks got species, coverage **99.4%**. `merge_duplicate_species` cleaned GBIF-reintroduced synonyms (−98 sp, 5 bogus tids NULLed). **Final: 3,082 parks / 24,394 species / 428,893 ps-rows.**
+- Demo re-exported (61.6 MB) + **committed & pushed** (60c1272); Pages republishing. **NEXT = photo image-source expansion** (GBIF/Wikimedia-Commons fallback for ~854 no-iNat species), per user.
+
 ### 2026-06-22 (Claude/Opus) — 🎉 curation + photos all wrapped: profiles 8,156 · zh 99.8% · en 99.6% · photos 88.8%
 - **Profiling backlog cleared again** (A269–A290, +496 → **8,156** profiled species; 4-lang). Only 6 permanent skips remain (domestic dog/budgie, コブダイ junk sci, ハマダラハルカ unverifiable family, 小羽蟋蟋螽 Chinese-kanji name, 旧名ムラサキガイ). Insect/arachnid family-level-accurate descriptions; ⚠ warnings on toxic/biting/protected/endangered taxa.
 - **zh中文名 + en英文名 coverage COMPLETE** (user: "1和2都进行"). Visible-species zh **517→20 missing (99.8%)**, en **409→29 missing (99.6%)** — the residual are the same permanent skips + genus/亜属 stubs. Method: MERGE-safe sidecar batches (`/tmp/zh_batchZ1..Z6.py`, `/tmp/en_batchE1.py`) + a **taxon-group-gated suffix→generic auto-mapper** (`/tmp/zh_automap.py`,`/tmp/en_automap.py`) for the np≤2 tail. Confident real names where known (中白鹭/日本大蠊/野荸荠/低斑蜻/枯叶蛱蝶/Large brown cicada/Japanese five-lined skink…), genus-level generics otherwise — **no invented specific names**. `apply_extra_aliases` in `seed_species_profiles` writes them to DB.
