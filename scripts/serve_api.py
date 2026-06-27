@@ -122,6 +122,14 @@ class Handler(BaseHTTPRequestHandler):
             d = api.park_detail(pid)
             return self._send(d) if d else self._error(404, "park not found")
 
+        # /api/parks/<pid>/photos/<sid> -> park-local photos for a pair
+        if (len(parts) == 5 and parts[:2] == ["api", "parks"] and parts[3] == "photos"):
+            pid = self._as_int(parts[2])
+            sid = self._as_int(parts[4])
+            if pid is None or sid is None:
+                return self._error(400, "park and species ids must be integers")
+            return self._send(api.pair_photos(pid, sid))
+
         if parts == ["api", "search"]:
             q = query.get("q", [""])[0].strip()
             if not q:

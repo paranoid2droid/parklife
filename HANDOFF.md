@@ -131,6 +131,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-27 (Claude/Opus) — 🏗️ P1 cont'd: committed SPA + ported old-demo UI (sort/month/group/parking/park-photos)
+- **Committed + pushed the SPA+API baseline to main** (`bf28523`, additive; `data/parklife.db` stays gitignored, `docs/` blob untouched).
+- **Ported the remaining old-demo UI into `webapp/`** (all frontend except one new endpoint): per-park **sort** (record/name/sci), **month** seasonal soft-filter, **group toggle** (click header to collapse), map **parking-only filter**, and **park-local photos** in the species modal (📍-badged, before the global hero gallery) via new `GET /api/parks/<pid>/photos/<sid>` + `api.pair_photos()`.
+- **Verified in Chrome** (`/tmp/pl_e2e2.py`): parking filter 15→2 markers, April filter 616→277 species, sort/group-toggle work, park-local photo badge + nav present — **0 console errors, E2E2 PASS**; v1 e2e still PASS (no regression). Backups in `/tmp/parklife_webapp_bak/`. **About to commit this UI batch.** **NEXT:** the real git-slim (destructive, needs go-ahead) or deploy-the-new-stack decision.
+
 ### 2026-06-27 (Claude/Opus) — 🏗️ productization P1: thin-client SPA + read-only API, full stack working
 - User set goal "build the thin client until the new front+back end is usable; back up each step." **DONE & verified end-to-end.** Two layers, both new + additive:
   - **Backend** (stdlib only, no FastAPI dep): `parklife/api.py` (query layer over `data/parklife.db`, mirrors `export_html.collect_data` shapes but keyed by real DB ids; zh/zhT aliases batched into park-detail + search cards) + `scripts/serve_api.py` (`ThreadingHTTPServer`, also serves `webapp/` static files at `/`, path-traversal-guarded, CORS-open). Endpoints: `/api/stats` · `/api/parks` (+`?bbox=minLon,minLat,maxLon,maxLat&limit=`) · `/api/parks/<id>` · `/api/species/<id>` · `/api/species/<id>/parks` · `/api/search?q=` · `/healthz`.

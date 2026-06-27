@@ -256,6 +256,25 @@ def species_detail(species_id: int) -> dict | None:
         }
 
 
+def pair_photos(park_id: int, species_id: int) -> list[list]:
+    """Park-local photos for a (park, species) pair (park_species_photo).
+
+    These are images actually attributed to *this* park, distinct from the
+    species' global hero gallery in :func:`species_detail`. Shape matches
+    ``species_detail.imgs``: ``[url, attribution, source_url, source]``.
+    """
+    with _connect() as conn:
+        rows = conn.execute(
+            "SELECT url, attribution, source_url, source FROM park_species_photo "
+            "WHERE park_id = ? AND species_id = ? ORDER BY sort_order, id",
+            (park_id, species_id),
+        ).fetchall()
+        return [
+            [medium_photo_url(r["url"]), r["attribution"], r["source_url"], r["source"]]
+            for r in rows
+        ]
+
+
 def species_parks(species_id: int) -> list[dict]:
     """Parks where a species occurs (for the species -> map reverse view)."""
     with _connect() as conn:

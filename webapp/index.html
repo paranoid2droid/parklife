@@ -32,8 +32,17 @@
   #map { flex: 5; min-height: 300px; }
   #panel { flex: 4; max-width: 560px; overflow-y: auto; border-left: 1px solid #e3ece5; padding: 12px 14px; }
   .park-name { font-size: 18px; font-weight: 700; margin: 0 0 2px; }
-  .park-meta { font-size: 12px; color: #6a7b70; margin-bottom: 10px; }
+  .park-meta { font-size: 12px; color: #6a7b70; margin-bottom: 8px; }
   .park-meta a { color: #2a6b3b; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; margin: 6px 0 4px;
+              font-size: 12px; color: #4a5b50; }
+  .controls select { font-size: 12px; border: 1px solid #c9d8cc; border-radius: 5px; padding: 2px 5px; }
+  .grp-h { cursor: pointer; user-select: none; }
+  .grp-h.off { opacity: .45; }
+  .grp-h.off + .grid { display: none; }
+  .map-ctrl { background: #fff; padding: 5px 8px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.3);
+              font-size: 12px; color: #2a6b3b; cursor: pointer; user-select: none; }
+  .map-ctrl input { vertical-align: -1px; margin-right: 3px; }
   .placeholder { color: #8a9b90; font-size: 14px; text-align: center; margin-top: 40px; line-height: 1.7; }
   .grp-h { font-size: 13px; font-weight: 700; margin: 14px 0 6px; color: #3a5a45;
            border-bottom: 1px dashed #d6e2da; padding-bottom: 3px; }

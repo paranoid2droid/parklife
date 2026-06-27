@@ -45,19 +45,27 @@ const UI = {
   ja: { tagline:'公園の生きもの地図', placeholder:'🗺 地図の公園マーカーをクリック<br>または上の検索ボックスを使ってください',
     species:'種', parking:{1:'🅿️ 駐車場あり',0:'🚫 駐車場なし'}, official:'公式サイト ↗',
     summary:'解説', habitat:'生息環境', tips:'観察のヒント', season:'記録された月', srch:'種・公園を検索',
-    seasonUnknown:'通年／不明', parksWith:'この種が見られる公園' },
+    seasonUnknown:'通年／不明', parksWith:'この種が見られる公園',
+    sort:'並び順', sortFreq:'記録数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
+    month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致` },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
-    seasonUnknown:'Year-round / unknown', parksWith:'Parks where this species occurs' },
+    seasonUnknown:'Year-round / unknown', parksWith:'Parks where this species occurs',
+    sort:'Sort', sortFreq:'Record count (high→low)', sortName:'Name', sortSci:'Scientific A→Z',
+    month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched` },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
-    seasonUnknown:'全年／不明', parksWith:'可见到该物种的公园' },
+    seasonUnknown:'全年／不明', parksWith:'可见到该物种的公园',
+    sort:'排序', sortFreq:'记录数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
+    month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合` },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
-    seasonUnknown:'全年／不明', parksWith:'可見到該物種的公園' },
+    seasonUnknown:'全年／不明', parksWith:'可見到該物種的公園',
+    sort:'排序', sortFreq:'記錄數（多→少）', sortName:'名稱', sortSci:'學名 A→Z',
+    month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合` },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -66,7 +74,13 @@ let lang = localStorage.getItem('pl_lang') || (navigator.language || 'ja').slice
 if (!LANGS.includes(lang)) lang = lang.startsWith('zh') ? 'zh' : (lang === 'ja' ? 'ja' : 'en');
 let curPark = null;       // last loaded park detail
 let modalSpecies = null;  // species detail in modal
+let modalImgs = [];       // combined gallery shown in modal (park-local + species hero)
 let photoIdx = 0;
+let sortMode = localStorage.getItem('pl_sort') || 'freq';  // freq | name | sci
+let monthFilter = 0;      // 0 = all; 1..12 = that month (soft filter)
+let hiddenGroups = new Set();
+let parkingOnly = false;
+let allParks = [];        // cached light park index for the map filter
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -90,10 +104,16 @@ function initMap() {
   map.addLayer(cluster);
 }
 async function loadParks() {
-  const parks = await j('/parks');
+  allParks = await j('/parks');
+  renderMarkers();
+  addParkingControl();
+}
+function renderMarkers() {
+  cluster.clearLayers();
   const markers = [];
-  for (const p of parks) {
+  for (const p of allParks) {
     if (p.lat == null || p.lon == null) continue;
+    if (parkingOnly && p.has_parking !== 1) continue;
     const m = L.circleMarker([p.lat, p.lon], { radius: 5, color: '#2a6b3b', weight: 1,
       fillColor: '#4caf6e', fillOpacity: .85 });
     m.on('click', () => openPark(p.id));
@@ -101,6 +121,20 @@ async function loadParks() {
     markers.push(m);
   }
   cluster.addLayers(markers);
+}
+let parkingControl = null;
+function addParkingControl() {
+  if (parkingControl) map.removeControl(parkingControl);
+  const C = L.Control.extend({ options: { position: 'topright' },
+    onAdd() {
+      const el = L.DomUtil.create('label', 'map-ctrl');
+      el.innerHTML = `<input type="checkbox"${parkingOnly ? ' checked' : ''}>${UI[lang].parkingOnly}`;
+      L.DomEvent.disableClickPropagation(el);
+      el.querySelector('input').addEventListener('change', e => { parkingOnly = e.target.checked; renderMarkers(); });
+      return el;
+    } });
+  parkingControl = new C();
+  map.addControl(parkingControl);
 }
 
 // ---- park panel -------------------------------------------------------------
@@ -111,54 +145,91 @@ async function openPark(id) {
   renderPark();
   if (window.matchMedia('(max-width: 760px)').matches) $('panel').scrollIntoView({ behavior: 'smooth' });
 }
+const GROUP_ORDER = ['plant','bird','insect','mammal','herp','fish','mollusk','crustacean',
+                     'arachnid_myriapod','mushroom','small_aquatic','other_animal','unclassified'];
+function speciesCard(s) {
+  const bg = s.p ? `background-image:url('${esc(s.p)}')` : '';
+  return `<div class="card" onclick="App.openSpecies(${s.id},${curPark ? curPark.id : 'null'})">`
+       + `<div class="ph" style="${bg}"></div>`
+       + `<div class="nm"><b>${esc(dispName(s))}</b><i>${esc(s.sci || '')}</i></div></div>`;
+}
+function sortSpecies(arr) {
+  const a = arr.slice();
+  if (sortMode === 'name') a.sort((x, y) => dispName(x).localeCompare(dispName(y)));
+  else if (sortMode === 'sci') a.sort((x, y) => (x.sci || '~').localeCompare(y.sci || '~'));
+  else a.sort((x, y) => (y.oc || 0) - (x.oc || 0) || (y.sc || 0) - (x.sc || 0));
+  return a;
+}
+function passMonth(s) {
+  if (!monthFilter) return true;
+  if (!s.mb) return true;               // unknown/year-round passes (soft filter)
+  return (s.mb & (1 << (monthFilter - 1))) !== 0;
+}
 function renderPark() {
   const p = curPark; if (!p) return;
   const U = UI[lang];
   const name = (lang === 'ja' ? p.name_ja : (p.name_en || p.name_ja)) || p.name_ja;
   const meta = [];
-  meta.push(`${p.species.length} ${U.species}`);
   if (p.has_parking === 1 || p.has_parking === 0) meta.push(U.parking[p.has_parking]);
   if (p.official_url) meta.push(`<a href="${esc(p.official_url)}" target="_blank" rel="noopener">${U.official}</a>`);
-  // group species
+
+  const shown = p.species.filter(passMonth);
   const byGrp = {};
-  for (const s of p.species) (byGrp[s.group || 'unclassified'] ||= []).push(s);
-  const order = ['plant','bird','insect','mammal','herp','fish','mollusk','crustacean',
-                 'arachnid_myriapod','mushroom','small_aquatic','other_animal','unclassified'];
-  const groups = Object.keys(byGrp).sort((a,b) => (order.indexOf(a)+1||99) - (order.indexOf(b)+1||99));
-  let html = `<div class="park-name">${esc(name)}</div><div class="park-meta">${meta.join(' · ')}</div>`;
+  for (const s of shown) (byGrp[s.group || 'unclassified'] ||= []).push(s);
+  const groups = Object.keys(byGrp).sort((a, b) =>
+    (GROUP_ORDER.indexOf(a) + 1 || 99) - (GROUP_ORDER.indexOf(b) + 1 || 99));
+
+  const monthOpts = [`<option value="0">${U.monthAll}</option>`]
+    .concat(MONTHS[lang].map((m, i) => `<option value="${i + 1}"${monthFilter === i + 1 ? ' selected' : ''}>${m}</option>`)).join('');
+  let html = `<div class="park-name">${esc(name)}</div>`
+    + `<div class="park-meta">${U.matched(shown.length)}${meta.length ? ' · ' + meta.join(' · ') : ''}</div>`
+    + `<div class="controls">`
+    + `<span>${U.sort}: <select onchange="App.setSort(this.value)">`
+    + `<option value="freq"${sortMode==='freq'?' selected':''}>${U.sortFreq}</option>`
+    + `<option value="name"${sortMode==='name'?' selected':''}>${U.sortName}</option>`
+    + `<option value="sci"${sortMode==='sci'?' selected':''}>${U.sortSci}</option></select></span>`
+    + `<span>${U.month}: <select onchange="App.setMonth(this.value)">${monthOpts}</select></span>`
+    + `</div>`;
   for (const g of groups) {
-    html += `<div class="grp-h">${grpLabel(g)} <span class="count">(${byGrp[g].length})</span></div><div class="grid">`;
-    for (const s of byGrp[g]) {
-      const bg = s.p ? `background-image:url('${esc(s.p)}')` : '';
-      html += `<div class="card" onclick="App.openSpecies(${s.id})"><div class="ph" style="${bg}"></div>`
-            + `<div class="nm"><b>${esc(dispName(s))}</b><i>${esc(s.sci || '')}</i></div></div>`;
-    }
+    const off = hiddenGroups.has(g) ? ' off' : '';
+    html += `<div class="grp-h${off}" onclick="App.toggleGroup('${g}')">${grpLabel(g)} `
+          + `<span class="count">(${byGrp[g].length})</span></div><div class="grid">`;
+    html += sortSpecies(byGrp[g]).map(speciesCard).join('');
     html += '</div>';
   }
   $('panel').innerHTML = html;
 }
+function setSort(v) { sortMode = v; localStorage.setItem('pl_sort', v); renderPark(); }
+function setMonth(v) { monthFilter = +v; renderPark(); }
+function toggleGroup(g) { if (hiddenGroups.has(g)) hiddenGroups.delete(g); else hiddenGroups.add(g); renderPark(); }
 
 // ---- species modal ----------------------------------------------------------
-async function openSpecies(id) {
-  const s = await j('/species/' + id);
+async function openSpecies(id, parkId) {
+  const reqs = [j('/species/' + id)];
+  if (parkId != null) reqs.push(j('/parks/' + parkId + '/photos/' + id).catch(() => []));
+  const [s, parkPhotos] = await Promise.all(reqs);
   modalSpecies = s; photoIdx = 0;
+  // Combine: park-local photos first (flagged), then the species hero gallery.
+  const local = (parkPhotos || []).map(p => p.concat(['__local__']));
+  modalImgs = local.concat(s.imgs || []);
+  if (!modalImgs.length && s.p) modalImgs = [[s.p, '', '', '']];
   renderModal();
   $('modal').classList.add('on');
 }
 function renderModal() {
   const s = modalSpecies; if (!s) return;
   const U = UI[lang];
-  const imgs = s.imgs || [];
+  const imgs = modalImgs;
   const cur = imgs[photoIdx];
   let ph = '';
   if (cur) {
     const [url, attr, src] = cur;
+    const isLocal = cur[cur.length - 1] === '__local__';
     const nav = imgs.length > 1
       ? `<button class="nav l" onclick="App.photo(-1)">‹</button><button class="nav r" onclick="App.photo(1)">›</button>` : '';
-    const a = attr ? `<div class="attr">${src ? `<a href="${esc(src)}" target="_blank" rel="noopener">${esc(attr)}</a>` : esc(attr)}</div>` : '';
+    const badge = isLocal ? `<span style="background:#2a6b3b;padding:1px 6px;border-radius:8px;margin-right:6px">📍 ${U.inPark}</span>` : '';
+    const a = (attr || isLocal) ? `<div class="attr">${badge}${src ? `<a href="${esc(src)}" target="_blank" rel="noopener">${esc(attr)}</a>` : esc(attr)}</div>` : '';
     ph = `<div style="position:absolute;inset:0;background:#222 url('${esc(url)}') center/contain no-repeat"></div>${nav}${a}`;
-  } else if (s.p) {
-    ph = `<div style="position:absolute;inset:0;background:#222 url('${esc(s.p)}') center/contain no-repeat"></div>`;
   }
   $('mphoto').innerHTML = ph;
 
@@ -178,10 +249,10 @@ function renderModal() {
   $('mbody').innerHTML = body;
 }
 function photo(d) {
-  const n = (modalSpecies.imgs || []).length; if (!n) return;
+  const n = modalImgs.length; if (!n) return;
   photoIdx = (photoIdx + d + n) % n; renderModal();
 }
-function closeModal() { $('modal').classList.remove('on'); modalSpecies = null; }
+function closeModal() { $('modal').classList.remove('on'); modalSpecies = null; modalImgs = []; }
 
 // ---- search -----------------------------------------------------------------
 let searchTimer = null;
@@ -191,12 +262,9 @@ function onSearch(e) {
   if (q.length < 2) return;
   searchTimer = setTimeout(async () => {
     const res = await j('/search?q=' + encodeURIComponent(q) + '&limit=24');
+    curPark = null;  // search context: cards open without a park
     let html = `<div class="park-name">🔍 ${esc(q)}</div><div class="park-meta">${res.length} ${UI[lang].species}</div><div class="grid">`;
-    for (const s of res) {
-      const bg = s.p ? `background-image:url('${esc(s.p)}')` : '';
-      html += `<div class="card" onclick="App.openSpecies(${s.id})"><div class="ph" style="${bg}"></div>`
-            + `<div class="nm"><b>${esc(dispName(s))}</b><i>${esc(s.sci || '')}</i></div></div>`;
-    }
+    html += res.map(speciesCard).join('');
     html += '</div>';
     $('panel').innerHTML = html;
   }, 280);
@@ -207,6 +275,7 @@ function setLang(l) {
   lang = l; localStorage.setItem('pl_lang', l);
   document.documentElement.lang = l === 'zhT' ? 'zh-Hant' : l;
   renderChrome();
+  if (map) addParkingControl();  // its label is language-dependent
   if (modalSpecies) renderModal();
   if (curPark) renderPark(); else $('ph').innerHTML = UI[lang].placeholder;
 }
@@ -217,7 +286,7 @@ function renderChrome() {
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
 }
 
-const App = { openPark, openSpecies, setLang, closeModal, photo };
+const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup };
 window.App = App;
 
 (function main() {

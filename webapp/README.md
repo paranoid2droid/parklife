@@ -36,8 +36,17 @@ vs. the old demo's single **69 MB** up-front fetch.
 `/tmp/pl_e2e.py` drives the full click-flow through system Chrome (playwright,
 `channel="chrome"` — no browser download). Start the server first, then run it.
 
-## Not yet ported from the old demo
+## Ported from the old demo
 
-Parking filter, group checkboxes / sort controls, per-park gallery photos
-(`park_species_photo`), seasonal "in bloom this month" view. The API already
-exposes the data (`mb` months bitmap, `has_parking`); these are UI-only follow-ups.
+- **Sort** (record count / name / scientific) — per-park species panel.
+- **Month filter** — seasonal soft filter (species with no month data pass through).
+- **Group toggle** — click a group header to collapse/expand its grid.
+- **Parking filter** — map control ("🅿️ Parking only") filters markers to `has_parking==1`.
+- **Park-local photos** — the species modal prepends `park_species_photo` images
+  for the (park, species) pair, badged "📍 Photos at this park", before the
+  global species hero gallery. Endpoint: `GET /api/parks/<pid>/photos/<sid>`.
+
+## Not yet ported
+
+"Show more / overflow" pagination for very large groups (currently renders all
+cards). Low priority — the panel scrolls fine.
