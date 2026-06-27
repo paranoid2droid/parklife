@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>パークライフ — 公園の生きもの地図</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🌿</text></svg>">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans CJK JP", sans-serif;
+         color: #20342a; background: #fff; display: flex; flex-direction: column; height: 100vh; }
+  header { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-bottom: 1px solid #e3ece5;
+           flex: none; flex-wrap: wrap; }
+  header h1 { font-size: 16px; margin: 0; font-weight: 700; color: #2a6b3b; white-space: nowrap; }
+  header .sub { font-size: 11px; color: #7a8b80; }
+  .spacer { flex: 1; }
+  .lang { display: flex; gap: 2px; }
+  .lang button { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b; font-size: 12px;
+                 padding: 3px 8px; border-radius: 5px; cursor: pointer; }
+  .lang button.on { background: #2a6b3b; color: #fff; }
+  #search { border: 1px solid #c9d8cc; border-radius: 6px; padding: 5px 9px; font-size: 13px; width: 190px; }
+  main { flex: 1; display: flex; min-height: 0; }
+  #map { flex: 5; min-height: 300px; }
+  #panel { flex: 4; max-width: 560px; overflow-y: auto; border-left: 1px solid #e3ece5; padding: 12px 14px; }
+  .park-name { font-size: 18px; font-weight: 700; margin: 0 0 2px; }
+  .park-meta { font-size: 12px; color: #6a7b70; margin-bottom: 10px; }
+  .park-meta a { color: #2a6b3b; }
+  .placeholder { color: #8a9b90; font-size: 14px; text-align: center; margin-top: 40px; line-height: 1.7; }
+  .grp-h { font-size: 13px; font-weight: 700; margin: 14px 0 6px; color: #3a5a45;
+           border-bottom: 1px dashed #d6e2da; padding-bottom: 3px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 7px; }
+  .card { background: #f4f7f5; border-radius: 6px; overflow: hidden; cursor: pointer; position: relative;
+          border: 1px solid #e8efea; }
+  .card:hover { border-color: #9cc4ab; }
+  .card .ph { width: 100%; aspect-ratio: 1/1; background: #dde7e0 no-repeat center / cover; }
+  .card .nm { padding: 4px 5px 5px; font-size: 11px; line-height: 1.25; }
+  .card .nm b { display: block; font-size: 12px; }
+  .card .nm i { color: #7a8b80; font-style: italic; font-size: 10px; }
+  .count { font-size: 12px; color: #6a7b70; }
+  /* modal */
+  #modal { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
+           align-items: center; justify-content: center; padding: 16px; z-index: 9999; }
+  #modal.on { display: flex; }
+  .mp { background: #fff; border-radius: 12px; width: min(720px, 100%); max-height: 88vh; overflow-y: auto;
+        position: relative; }
+  .mp .close { position: absolute; top: 8px; right: 10px; font-size: 22px; cursor: pointer; color: #fff;
+               text-shadow: 0 1px 4px rgba(0,0,0,.6); z-index: 2; background: none; border: none; }
+  .mphoto { position: relative; width: 100%; height: clamp(240px, 46vh, 460px); background: #222 no-repeat center / contain; }
+  .mphoto .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 34px; height: 46px;
+                 background: rgba(0,0,0,.4); color: #fff; border: none; font-size: 20px; cursor: pointer; }
+  .mphoto .nav.l { left: 0; } .mphoto .nav.r { right: 0; }
+  .mphoto .attr { position: absolute; bottom: 0; left: 0; right: 0; font-size: 10px; color: #eee;
+                  background: linear-gradient(transparent, rgba(0,0,0,.7)); padding: 12px 8px 4px; }
+  .mphoto .attr a { color: #cfe; }
+  .mbody { padding: 14px 18px 20px; }
+  .mbody h2 { margin: 0 0 1px; font-size: 20px; }
+  .mbody .sci { font-style: italic; color: #7a8b80; font-size: 13px; margin-bottom: 2px; }
+  .mbody .alt { font-size: 13px; color: #4a5b50; margin-bottom: 10px; }
+  .mbody .sec { margin: 10px 0; font-size: 14px; line-height: 1.65; }
+  .mbody .sec b { display: block; font-size: 12px; color: #3a5a45; margin-bottom: 2px; }
+  .pill { display: inline-block; background: #eef5f0; color: #2a6b3b; border-radius: 10px; font-size: 11px;
+          padding: 2px 8px; margin: 0 4px 4px 0; }
+  @media (max-width: 760px) {
+    main { flex-direction: column; }
+    #map { flex: none; height: 42vh; }
+    #panel { max-width: none; border-left: none; border-top: 1px solid #e3ece5; }
+    #search { width: 130px; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>🌿 パークライフ</h1>
+  <span class="sub" id="tagline"></span>
+  <span class="spacer"></span>
+  <input id="search" type="search" autocomplete="off">
+  <div class="lang" id="lang"></div>
+</header>
+<main>
+  <div id="map"></div>
+  <div id="panel"><div class="placeholder" id="ph"></div></div>
+</main>
+<div id="modal"><div class="mp">
+  <button class="close" onclick="App.closeModal()">×</button>
+  <div class="mphoto" id="mphoto"></div>
+  <div class="mbody" id="mbody"></div>
+</div></div>
+<script src="app.js"></script>
+</body>
+</html>
