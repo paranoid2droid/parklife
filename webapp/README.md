@@ -46,7 +46,10 @@ vs. the old demo's single **69 MB** up-front fetch.
   for the (park, species) pair, badged "📍 Photos at this park", before the
   global species hero gallery. Endpoint: `GET /api/parks/<pid>/photos/<sid>`.
 
+- **Show more** — each group caps at 48 cards with "show N more" / "show all"
+  buttons, so a 600-species park stays light on mobile.
+
 ## Not yet ported
 
-"Show more / overflow" pagination for very large groups (currently renders all
-cards). Low priority — the panel scrolls fine.
+Everything from the old demo is now covered. Remaining ideas are net-new
+(species → map reverse view via `/api/species/<id>/parks`, URL deep-linking).

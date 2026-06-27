@@ -47,25 +47,29 @@ const UI = {
     summary:'解説', habitat:'生息環境', tips:'観察のヒント', season:'記録された月', srch:'種・公園を検索',
     seasonUnknown:'通年／不明', parksWith:'この種が見られる公園',
     sort:'並び順', sortFreq:'記録数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
-    month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致` },
+    month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致`,
+    showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示` },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
     seasonUnknown:'Year-round / unknown', parksWith:'Parks where this species occurs',
     sort:'Sort', sortFreq:'Record count (high→low)', sortName:'Name', sortSci:'Scientific A→Z',
-    month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched` },
+    month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched`,
+    showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining` },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
     seasonUnknown:'全年／不明', parksWith:'可见到该物种的公园',
     sort:'排序', sortFreq:'记录数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
-    month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合` },
+    month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合`,
+    showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种` },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
     seasonUnknown:'全年／不明', parksWith:'可見到該物種的公園',
     sort:'排序', sortFreq:'記錄數（多→少）', sortName:'名稱', sortSci:'學名 A→Z',
-    month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合` },
+    month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合`,
+    showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種` },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -81,6 +85,8 @@ let monthFilter = 0;      // 0 = all; 1..12 = that month (soft filter)
 let hiddenGroups = new Set();
 let parkingOnly = false;
 let allParks = [];        // cached light park index for the map filter
+let groupShown = {};      // group -> how many cards currently expanded (pagination)
+const GROUP_CAP = 48;     // initial cards per group before "show more"
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -142,6 +148,7 @@ async function openPark(id) {
   $('panel').innerHTML = '<div class="placeholder">…</div>';
   const p = await j('/parks/' + id);
   curPark = p;
+  groupShown = {};
   renderPark();
   if (window.matchMedia('(max-width: 760px)').matches) $('panel').scrollIntoView({ behavior: 'smooth' });
 }
@@ -192,13 +199,22 @@ function renderPark() {
     + `</div>`;
   for (const g of groups) {
     const off = hiddenGroups.has(g) ? ' off' : '';
+    const list = sortSpecies(byGrp[g]);
+    const shownN = Math.min(list.length, groupShown[g] || GROUP_CAP);
     html += `<div class="grp-h${off}" onclick="App.toggleGroup('${g}')">${grpLabel(g)} `
-          + `<span class="count">(${byGrp[g].length})</span></div><div class="grid">`;
-    html += sortSpecies(byGrp[g]).map(speciesCard).join('');
+          + `<span class="count">(${list.length})</span></div><div class="grid">`;
+    html += list.slice(0, shownN).map(speciesCard).join('');
     html += '</div>';
+    const rest = list.length - shownN;
+    if (rest > 0 && !hiddenGroups.has(g)) {
+      const step = Math.min(rest, 96);
+      html += `<button class="more-btn" onclick="App.showMore('${g}',${step})">${U.showMore(step)}</button>`;
+      if (rest > step) html += `<button class="more-btn" onclick="App.showMore('${g}',${rest})">${U.showAll(rest)}</button>`;
+    }
   }
   $('panel').innerHTML = html;
 }
+function showMore(g, n) { groupShown[g] = (groupShown[g] || GROUP_CAP) + n; renderPark(); }
 function setSort(v) { sortMode = v; localStorage.setItem('pl_sort', v); renderPark(); }
 function setMonth(v) { monthFilter = +v; renderPark(); }
 function toggleGroup(g) { if (hiddenGroups.has(g)) hiddenGroups.delete(g); else hiddenGroups.add(g); renderPark(); }
@@ -286,7 +302,7 @@ function renderChrome() {
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
 }
 
-const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup };
+const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore };
 window.App = App;
 
 (function main() {
