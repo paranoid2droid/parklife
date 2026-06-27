@@ -22,6 +22,7 @@ Endpoints (all JSON, CORS-open for local dev):
 
 from __future__ import annotations
 
+import gzip
 import json
 import mimetypes
 import os
@@ -45,12 +46,21 @@ class Handler(BaseHTTPRequestHandler):
     server_version = "parklife-api/0.1"
 
     # --- helpers -------------------------------------------------------------
+    def _accepts_gzip(self) -> bool:
+        return "gzip" in self.headers.get("Accept-Encoding", "")
+
     def _send(self, payload, status: int = 200) -> None:
         body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+        gz = len(body) > 1024 and self._accepts_gzip()
+        if gz:
+            body = gzip.compress(body, 6)
         self.send_response(status)
         self.send_header("Content-Type", "application/json; charset=utf-8")
+        if gz:
+            self.send_header("Content-Encoding", "gzip")
         self.send_header("Content-Length", str(len(body)))
         self.send_header("Access-Control-Allow-Origin", "*")
+        self.send_header("Vary", "Accept-Encoding")
         self.send_header("Cache-Control", "public, max-age=300")
         self.end_headers()
         if self.command != "HEAD":
@@ -87,9 +97,18 @@ class Handler(BaseHTTPRequestHandler):
                  or mimetypes.guess_type(str(target))[0]
                  or "application/octet-stream")
         data = target.read_bytes()
+        compressible = (ctype.startswith("text/")
+                        or ctype in ("application/manifest+json", "image/svg+xml",
+                                     "application/javascript", "text/javascript"))
+        gz = compressible and len(data) > 1024 and self._accepts_gzip()
+        if gz:
+            data = gzip.compress(data, 6)
         self.send_response(200)
         self.send_header("Content-Type", ctype)
+        if gz:
+            self.send_header("Content-Encoding", "gzip")
         self.send_header("Content-Length", str(len(data)))
+        self.send_header("Vary", "Accept-Encoding")
         self.send_header("Cache-Control", "no-cache")
         self.end_headers()
         if self.command != "HEAD":
