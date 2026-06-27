@@ -131,6 +131,13 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-27 (Claude/Opus) — 🧹 git-slim: rewrote history, `.git` 2.6 GB → ~30 MB (⚠️ FORCE-PUSHED main, all SHAs changed)
+- **⚠️ HISTORY REWRITTEN + FORCE-PUSHED to `origin/main`. Anyone with a clone (Codex etc.) MUST re-clone or `git fetch && git reset --hard origin/main` — old commit SHAs no longer exist.** Pre-rewrite HEAD was `c189442`.
+- **Cause of the 2.6 GB:** history carried every regenerated demo artifact — `docs/index.html` (old *inlined-data* form, ~43 MB × ~215 commits = **9.3 GB uncompressed**), `data/species_profiles_extra.json` (~14 MB × ~140 batches = 1.9 GB), `docs/parklife-data.json` (390 MB), dropped `docs/parklife.json` (204 MB) + `park_species.ndjson` (70 MB).
+- **Method:** `git filter-repo --strip-blobs-bigger-than 5M` (installed in venv). Stripped every >5 MB blob from all 605 commits; commit graph preserved but **173 commits that ONLY touched stripped artifacts ("docs: regenerate demo") were pruned → 605→432 commits.** All code/data/HANDOFF commits survived. Then **restored the two current source-of-truth files** (filter-repo had reverted HEAD to stale versions): `data/species_profiles_extra.json` (8,509 entries) + `docs/parklife-data.json` (23,717 species — live demo still needs it) from `/tmp/parklife_keep/`, re-committed, `git gc --prune=now`.
+- **Result: `.git` 2.6 GB → ~30 MB.** Live GitHub Pages demo unaffected (current `docs/` preserved). **Full rollback backup: `/tmp/parklife_dotgit_bak` (the original 2.6 GB `.git`)** — restore by replacing `.git` + force-pushing it back if needed.
+- **NEXT / follow-up to fully prevent re-bloat:** `docs/parklife-data.json` (69 MB) is tracked again so the legacy Pages demo keeps working; every future `regenerate demo` re-bloats. Once the NEW webapp/serve_api stack is deployed (needs a Python host — Fly/Render), retire the legacy blob demo: drop `docs/parklife-data.json` from tracking (.gitignore it) or host it as a GitHub Release asset. THEN `.git` stays permanently tiny.
+
 ### 2026-06-27 (Claude/Opus) — 🏗️ P1 cont'd: committed SPA + ported old-demo UI (sort/month/group/parking/park-photos)
 - **Committed + pushed the SPA+API baseline to main** (`bf28523`, additive; `data/parklife.db` stays gitignored, `docs/` blob untouched).
 - **Ported the remaining old-demo UI into `webapp/`** (all frontend except one new endpoint): per-park **sort** (record/name/sci), **month** seasonal soft-filter, **group toggle** (click header to collapse), map **parking-only filter**, and **park-local photos** in the species modal (📍-badged, before the global hero gallery) via new `GET /api/parks/<pid>/photos/<sid>` + `api.pair_photos()`.
