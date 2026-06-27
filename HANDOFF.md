@@ -131,6 +131,12 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-27 (Claude/Opus) — 📷 GBIF media = 3rd hero-photo source: visible photo coverage 94.2%→98.0%
+- New `scripts/gbif_media.py` — fetches GBIF occurrence `StillImage` media for visible species with NO photo (no iNat taxon + no Commons P18). **+304 species newly photo'd, 1,384 photo rows** (`source='GBIF'`); coverage **94.2%→98.0%** (8,237/8,408). Mix of museum/herbarium/iNat-via-GBIF images (Smithsonian, MBG, Academia Sinica, MSU…).
+- **⚠️ Built WITH the wrong-taxon guard the old ensure_inat_taxon lacked:** accepts ONLY GBIF `species/match` results that are `EXACT`/`FUZZY` AND `rank=SPECIES` AND whose canonical binomial still equals the input — **rejects `HIGHERRANK`** (genus-only matches whose images are for the whole genus). 113 candidates correctly skipped; spot-check showed **0 guard leaks**. Cached: `data/cache/gbif_match/`, `data/cache/gbif_media/`. Idempotent (skips already-photo'd).
+- **Remaining 171 no-photo visibles are the honest floor:** ~113 cultivar/synonym names with no species-rank GBIF taxon (`Cerasus 'Kobuku-zakura'`, `Iris germanica`…) + ~58 species GBIF has no image for. License of new rows: 1,026 CC BY-NC / 195 CC BY / 84 CC0 / rest SA/ND/none.
+- DB backup `data/parklife.db.bak_pre_gbifmedia_20260627`. Maintenance dry-runs CLEAN (photos create no species). **New webapp/API serves them live from the DB** (verified). **Legacy demo re-exported** (`docs/parklife-data.json` 69.1→69.4 MB) — committing the regen (one ~+0.3 MB blob; re-bloat acceptable per the git-slim follow-up note).
+
 ### 2026-06-27 (Claude/Opus) — 🧹 git-slim: rewrote history, `.git` 2.6 GB → ~30 MB (⚠️ FORCE-PUSHED main, all SHAs changed)
 - **⚠️ HISTORY REWRITTEN + FORCE-PUSHED to `origin/main`. Anyone with a clone (Codex etc.) MUST re-clone or `git fetch && git reset --hard origin/main` — old commit SHAs no longer exist.** Pre-rewrite HEAD was `c189442`.
 - **Cause of the 2.6 GB:** history carried every regenerated demo artifact — `docs/index.html` (old *inlined-data* form, ~43 MB × ~215 commits = **9.3 GB uncompressed**), `data/species_profiles_extra.json` (~14 MB × ~140 batches = 1.9 GB), `docs/parklife-data.json` (390 MB), dropped `docs/parklife.json` (204 MB) + `park_species.ndjson` (70 MB).
