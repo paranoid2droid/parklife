@@ -49,7 +49,13 @@ vs. the old demo's single **69 MB** up-front fetch.
 - **Show more** — each group caps at 48 cards with "show N more" / "show all"
   buttons, so a 600-species park stays light on mobile.
 
-## Not yet ported
+## Net-new (beyond the old demo)
 
-Everything from the old demo is now covered. Remaining ideas are net-new
-(species → map reverse view via `/api/species/<id>/parks`, URL deep-linking).
+- **Species → map reverse view** — the species modal has "🗺 show parks with
+  this species": plots/highlights every park where it occurs (via
+  `/api/species/<id>/parks`), fits bounds, with a banner + "back to all parks".
+
+## Ideas not yet built
+
+URL deep-linking (shareable park/species links), viewport-driven marker loading
+(`/api/parks?bbox=`) for very dense zooms.

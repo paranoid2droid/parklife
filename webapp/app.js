@@ -48,28 +48,32 @@ const UI = {
     seasonUnknown:'通年／不明', parksWith:'この種が見られる公園',
     sort:'並び順', sortFreq:'記録数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致`,
-    showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示` },
+    showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示`,
+    viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る' },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
     seasonUnknown:'Year-round / unknown', parksWith:'Parks where this species occurs',
     sort:'Sort', sortFreq:'Record count (high→low)', sortName:'Name', sortSci:'Scientific A→Z',
     month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched`,
-    showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining` },
+    showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining`,
+    viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks' },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
     seasonUnknown:'全年／不明', parksWith:'可见到该物种的公园',
     sort:'排序', sortFreq:'记录数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合`,
-    showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种` },
+    showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种`,
+    viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园' },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
     seasonUnknown:'全年／不明', parksWith:'可見到該物種的公園',
     sort:'排序', sortFreq:'記錄數（多→少）', sortName:'名稱', sortSci:'學名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合`,
-    showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種` },
+    showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種`,
+    viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園' },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -87,6 +91,7 @@ let parkingOnly = false;
 let allParks = [];        // cached light park index for the map filter
 let groupShown = {};      // group -> how many cards currently expanded (pagination)
 const GROUP_CAP = 48;     // initial cards per group before "show more"
+let speciesFilter = null; // {ids:Set<parkId>, name} when showing one species' parks on the map
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -117,16 +122,38 @@ async function loadParks() {
 function renderMarkers() {
   cluster.clearLayers();
   const markers = [];
+  const pts = [];
   for (const p of allParks) {
     if (p.lat == null || p.lon == null) continue;
     if (parkingOnly && p.has_parking !== 1) continue;
-    const m = L.circleMarker([p.lat, p.lon], { radius: 5, color: '#2a6b3b', weight: 1,
-      fillColor: '#4caf6e', fillOpacity: .85 });
+    if (speciesFilter && !speciesFilter.ids.has(p.id)) continue;
+    const hot = !!speciesFilter;
+    const m = L.circleMarker([p.lat, p.lon], { radius: hot ? 7 : 5,
+      color: hot ? '#b1430e' : '#2a6b3b', weight: 1,
+      fillColor: hot ? '#ff7a3c' : '#4caf6e', fillOpacity: .85 });
     m.on('click', () => openPark(p.id));
     m.bindTooltip(p.name_ja, { direction: 'top' });
     markers.push(m);
+    pts.push([p.lat, p.lon]);
   }
   cluster.addLayers(markers);
+  if (speciesFilter && pts.length) map.fitBounds(pts, { padding: [40, 40], maxZoom: 12 });
+}
+async function viewSpeciesOnMap() {
+  const s = modalSpecies; if (!s) return;
+  const parks = await j('/species/' + s.id + '/parks');
+  speciesFilter = { ids: new Set(parks.map(p => p.id)), name: dispName(s) };
+  closeModal();
+  renderMarkers();
+  const ban = $('mapBanner');
+  ban.innerHTML = `<span>${UI[lang].mapFiltered(esc(speciesFilter.name), speciesFilter.ids.size)}</span>`
+    + `<button onclick="App.clearSpeciesFilter()">${UI[lang].showAllParks}</button>`;
+  ban.style.display = 'flex';
+}
+function clearSpeciesFilter() {
+  speciesFilter = null;
+  $('mapBanner').style.display = 'none';
+  renderMarkers();
 }
 let parkingControl = null;
 function addParkingControl() {
@@ -256,7 +283,8 @@ function renderModal() {
   if (lang !== 'en' && s.en) alt.push(s.en);
   let body = `<h2>${esc(dispName(s))}</h2><div class="sci">${esc(s.sci || '')}</div>`;
   body += `<div class="alt">${esc(alt.join(' · '))}</div>`;
-  body += `<div><span class="pill">${grpLabel(s.group)}</span></div>`;
+  body += `<div><span class="pill">${grpLabel(s.group)}</span>`
+        + `<button class="more-btn" onclick="App.viewSpeciesOnMap()">🗺 ${U.viewOnMap}</button></div>`;
   if (pr) {
     if (pr.summary)      body += `<div class="sec"><b>${U.summary}</b>${esc(pr.summary)}</div>`;
     if (pr.habitat_hint) body += `<div class="sec"><b>${U.habitat}</b>${esc(pr.habitat_hint)}</div>`;
@@ -302,7 +330,8 @@ function renderChrome() {
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
 }
 
-const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore };
+const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
+              viewSpeciesOnMap, clearSpeciesFilter };
 window.App = App;
 
 (function main() {
