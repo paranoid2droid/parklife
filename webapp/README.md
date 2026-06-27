@@ -59,10 +59,16 @@ vs. the old demo's single **69 MB** up-front fetch.
   panel/modal on load) and drive browser back/forward (`pushState` +
   `hashchange`). The species → map reverse view also survives a reload.
 
+- **PWA** — installable (`manifest.webmanifest` + `icon.svg`, standalone display)
+  with a service worker (`sw.js`): app shell is cache-first (instant/offline),
+  `/api/*` is network-first with cache fallback (last-known data offline). The
+  server sends `application/manifest+json` for `.webmanifest`.
+
 ## Ideas not yet built
 
 Viewport-driven marker loading (`/api/parks?bbox=`) for very dense zooms;
-PWA manifest + service worker for installability/offline.
+PNG icon set (current icon is SVG — installs in current Chrome/Edge; some older
+browsers want raster icons).
 
 ## Tests
 

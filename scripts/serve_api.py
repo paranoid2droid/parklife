@@ -82,7 +82,10 @@ class Handler(BaseHTTPRequestHandler):
             return self._error(403, "forbidden")
         if not target.is_file():
             return self._error(404, "not found")
-        ctype = mimetypes.guess_type(str(target))[0] or "application/octet-stream"
+        ext_types = {".webmanifest": "application/manifest+json"}
+        ctype = (ext_types.get(target.suffix)
+                 or mimetypes.guess_type(str(target))[0]
+                 or "application/octet-stream")
         data = target.read_bytes()
         self.send_response(200)
         self.send_header("Content-Type", ctype)

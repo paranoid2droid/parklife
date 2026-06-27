@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#2a6b3b"/>
+  <!-- a simple leaf -->
+  <path d="M150 360 C150 220 270 130 392 130 C392 270 300 380 170 380 C170 380 156 372 150 360 Z"
+        fill="#9be2b4"/>
+  <path d="M168 372 C230 300 300 230 372 165" stroke="#2a6b3b" stroke-width="14"
+        fill="none" stroke-linecap="round"/>
+</svg>

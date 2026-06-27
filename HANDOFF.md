@@ -136,6 +136,7 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
   - **Per-group "show more"** pagination (caps big parks at 48 cards/group → mobile-light). `ca5d815`.
   - **Species → map reverse view** — modal "🗺 show parks with this species" plots/highlights its parks via `/api/species/<id>/parks`, fits bounds, reset banner. `b70ab84`.
   - **URL deep-linking** — shareable `#park/<id>` / `#species/<id>` (open on load) + browser back/forward via `pushState`+`hashchange`.
+  - **PWA** — installable (`manifest.webmanifest` + `icon.svg`, standalone) + service worker (`sw.js`: app-shell cache-first/offline, `/api/*` network-first w/ cache fallback). serve_api sends `application/manifest+json`. SW verified active + manifest installable in Chrome; full e2e suite still PASS with SW intercepting. (Follow-up: PNG icon set for older browsers.)
 - **Committed regression suite `webapp/e2e_test.py`** (playwright `channel="chrome"`): map, panel, modal, i18n, all filters, park-local photos, pagination, reverse view, deep-linking. Run: server up → `.venv/bin/python webapp/e2e_test.py` → "E2E PASS".
 - The new stack now **matches + exceeds the legacy 69 MB-blob demo**, served from the DB on demand. Combined with the deploy artifacts, the only thing left to retire the legacy blob (permanent git-slim) is the user deploying (`fly deploy` / any container host).
 
