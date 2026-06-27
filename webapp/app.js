@@ -346,6 +346,11 @@ function setLang(l) {
   if (map) addParkingControl();  // its label is language-dependent
   if (modalSpecies) renderModal();
   if (curPark) renderPark(); else $('ph').innerHTML = UI[lang].placeholder;
+  if (speciesFilter) {  // refresh the reverse-view banner in the new language
+    $('mapBanner').innerHTML =
+      `<span>${UI[lang].mapFiltered(esc(speciesFilter.name), speciesFilter.ids.size)}</span>`
+      + `<button onclick="App.clearSpeciesFilter()">${UI[lang].showAllParks}</button>`;
+  }
 }
 function renderChrome() {
   $('tagline').textContent = UI[lang].tagline;
