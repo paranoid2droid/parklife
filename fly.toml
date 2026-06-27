@@ -1,0 +1,33 @@
+# Fly.io deploy config for the parklife thin-client stack — ONE concrete example.
+# The Dockerfile is host-agnostic; this also works on Render / Railway / Cloud Run
+# (point them at the Dockerfile). See DEPLOY.md.
+#
+#   fly launch --no-deploy   # first time (creates the app; keep this file)
+#   fly deploy
+app = "parklife"
+primary_region = "nrt"          # Tokyo — closest to the data + most users
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  PORT = "8787"
+  PARKLIFE_DB_RO = "1"
+
+[http_service]
+  internal_port = 8787
+  force_https = true
+  auto_stop_machines = "stop"   # scale to zero when idle (cheap)
+  auto_start_machines = true
+  min_machines_running = 0
+
+  [[http_service.checks]]
+    interval = "30s"
+    timeout = "4s"
+    grace_period = "5s"
+    method = "GET"
+    path = "/healthz"
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"              # stdlib server + 245 MB DB read-only → comfortable

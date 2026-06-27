@@ -131,6 +131,12 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-27 (Claude/Opus) — 🚀 productization P1→P2: deploy artifacts for the new stack (unblocks permanent git-slim)
+- Made the thin-client stack **deployable**: `Dockerfile` + `.dockerignore` + `fly.toml` (example, Tokyo/scale-to-zero) + `DEPLOY.md`. The API path is **100% stdlib** (verified: bare `python3.13`, no venv/pip, imports `parklife.api` + queries DB), so the image = Python base + code + `data/parklife.db`, **zero deps to install**.
+- Added **immutable read-only DB mode** to `parklife/api._connect` (`PARKLIFE_DB_RO=1`): opens `file:…?mode=ro&immutable=1` — no write-lock, no `-wal`/`-shm`, works on a read-only mount. Set in the Dockerfile/fly env. **Verified natively** (bare python + RO env → healthz/stats/species all green, no `-wal` created).
+- zh-name coverage checked: 96.0% (333 missing are obscure Japan-centric moths/beetles/molluscs; iNat zh-Hans hit only ~1/8; existing gbif_vernacular+wikidata_zh+wikipedia_zh already exhausted easy sources — **at practical ceiling, not grinding it / no fabrication**).
+- **NEXT once user deploys** (needs their host account): `fly deploy` (or Render/Railway/Cloud Run from the Dockerfile) → then retire `docs/parklife-data.json` from tracking → `.git` stays permanently tiny. Files are additive; nothing deployed.
+
 ### 2026-06-27 (Claude/Opus) — 📷 GBIF media = 3rd hero-photo source: visible photo coverage 94.2%→98.0%
 - New `scripts/gbif_media.py` — fetches GBIF occurrence `StillImage` media for visible species with NO photo (no iNat taxon + no Commons P18). **+304 species newly photo'd, 1,384 photo rows** (`source='GBIF'`); coverage **94.2%→98.0%** (8,237/8,408). Mix of museum/herbarium/iNat-via-GBIF images (Smithsonian, MBG, Academia Sinica, MSU…).
 - **⚠️ Built WITH the wrong-taxon guard the old ensure_inat_taxon lacked:** accepts ONLY GBIF `species/match` results that are `EXACT`/`FUZZY` AND `rank=SPECIES` AND whose canonical binomial still equals the input — **rejects `HIGHERRANK`** (genus-only matches whose images are for the whole genus). 113 candidates correctly skipped; spot-check showed **0 guard leaks**. Cached: `data/cache/gbif_match/`, `data/cache/gbif_media/`. Idempotent (skips already-photo'd).

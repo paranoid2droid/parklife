@@ -1,0 +1,26 @@
+# Keep the image to: python + parklife/ + scripts/serve_api + webapp/ + data/parklife.db
+# Everything below is dev/build/scrape state the runtime never reads.
+.git
+.venv
+__pycache__
+**/__pycache__
+*.pyc
+
+# Large dev/scrape artifacts
+data/raw
+data/cache
+data/seeds
+data/export
+data/parklife.db.bak*
+data/parklife.db-wal
+data/parklife.db-shm
+data/.ebird_key
+
+# The legacy single-blob demo (the new stack serves data from the DB, not this)
+docs
+
+# Repo docs / scripts not used by the API runtime
+*.md
+com.parklife.queue.plist
+requirements.txt
+tests

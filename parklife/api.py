@@ -22,6 +22,7 @@ client can consume either source, but keyed by real DB ids (``park.id`` /
 
 from __future__ import annotations
 
+import os
 import sqlite3
 from functools import lru_cache
 from pathlib import Path
@@ -35,6 +36,18 @@ _PROFILE_LANGS = ("ja", "en", "zh-Hans", "zh-Hant")
 
 
 def _connect() -> sqlite3.Connection:
+    """Open a short-lived connection.
+
+    For deployment (a baked-in, never-mutated DB), set ``PARKLIFE_DB_RO=1`` to
+    open immutable read-only: no write-lock, no ``-wal``/``-shm`` sidecar files,
+    so the image's DB works even on a read-only mount. Otherwise use the normal
+    WAL connection (development, where the DB is being updated alongside).
+    """
+    if os.environ.get("PARKLIFE_DB_RO"):
+        conn = sqlite3.connect(
+            f"file:{DB_PATH}?mode=ro&immutable=1", uri=True, timeout=60)
+        conn.row_factory = sqlite3.Row
+        return conn
     return db.connect(DB_PATH)
 
 
