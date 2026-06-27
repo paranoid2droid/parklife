@@ -55,7 +55,19 @@ vs. the old demo's single **69 MB** up-front fetch.
   this species": plots/highlights every park where it occurs (via
   `/api/species/<id>/parks`), fits bounds, with a banner + "back to all parks".
 
+- **Deep-linking** — `#park/<id>` and `#species/<id>` are shareable (open the
+  panel/modal on load) and drive browser back/forward (`pushState` +
+  `hashchange`). The species → map reverse view also survives a reload.
+
 ## Ideas not yet built
 
-URL deep-linking (shareable park/species links), viewport-driven marker loading
-(`/api/parks?bbox=`) for very dense zooms.
+Viewport-driven marker loading (`/api/parks?bbox=`) for very dense zooms;
+PWA manifest + service worker for installability/offline.
+
+## Tests
+
+`webapp/e2e_test.py` drives the whole UI through system Chrome (playwright,
+`channel="chrome"`, no browser download). Start the server, then:
+`.venv/bin/python webapp/e2e_test.py`. Covers map, park panel, species modal,
+i18n, sort/month/group/parking filters, park-local photos, pagination,
+species→map reverse view, and deep-linking.

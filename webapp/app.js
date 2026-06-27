@@ -170,13 +170,33 @@ function addParkingControl() {
   map.addControl(parkingControl);
 }
 
+// ---- deep-linking (shareable #park/<id> · #species/<id> + back/forward) ------
+function setHash(h, push) {
+  const target = h || (location.pathname + location.search);
+  if (location.hash === (h || '')) return;
+  if (push) history.pushState(null, '', target);
+  else history.replaceState(null, '', target);
+}
+function hideModal() { $('modal').classList.remove('on'); modalSpecies = null; modalImgs = []; }
+async function applyHash() {
+  const m = location.hash.match(/^#(park|species)\/(\d+)$/);
+  if (!m) { hideModal(); return; }
+  if (m[1] === 'park') {
+    hideModal();
+    if (!curPark || curPark.id !== +m[2]) await openPark(+m[2], false);
+  } else if (!modalSpecies || modalSpecies.id !== +m[2]) {
+    await openSpecies(+m[2], curPark ? curPark.id : null, false);
+  }
+}
+
 // ---- park panel -------------------------------------------------------------
-async function openPark(id) {
+async function openPark(id, push = true) {
   $('panel').innerHTML = '<div class="placeholder">…</div>';
   const p = await j('/parks/' + id);
   curPark = p;
   groupShown = {};
   renderPark();
+  setHash('#park/' + id, push);
   if (window.matchMedia('(max-width: 760px)').matches) $('panel').scrollIntoView({ behavior: 'smooth' });
 }
 const GROUP_ORDER = ['plant','bird','insect','mammal','herp','fish','mollusk','crustacean',
@@ -247,11 +267,12 @@ function setMonth(v) { monthFilter = +v; renderPark(); }
 function toggleGroup(g) { if (hiddenGroups.has(g)) hiddenGroups.delete(g); else hiddenGroups.add(g); renderPark(); }
 
 // ---- species modal ----------------------------------------------------------
-async function openSpecies(id, parkId) {
+async function openSpecies(id, parkId, push = true) {
   const reqs = [j('/species/' + id)];
   if (parkId != null) reqs.push(j('/parks/' + parkId + '/photos/' + id).catch(() => []));
   const [s, parkPhotos] = await Promise.all(reqs);
   modalSpecies = s; photoIdx = 0;
+  setHash('#species/' + id, push);
   // Combine: park-local photos first (flagged), then the species hero gallery.
   const local = (parkPhotos || []).map(p => p.concat(['__local__']));
   modalImgs = local.concat(s.imgs || []);
@@ -296,7 +317,10 @@ function photo(d) {
   const n = modalImgs.length; if (!n) return;
   photoIdx = (photoIdx + d + n) % n; renderModal();
 }
-function closeModal() { $('modal').classList.remove('on'); modalSpecies = null; modalImgs = []; }
+function closeModal() {
+  $('modal').classList.remove('on'); modalSpecies = null; modalImgs = [];
+  if (/^#species\//.test(location.hash)) setHash(curPark ? '#park/' + curPark.id : '', false);
+}
 
 // ---- search -----------------------------------------------------------------
 let searchTimer = null;
@@ -344,6 +368,9 @@ window.App = App;
     if (modalSpecies && e.key === 'ArrowLeft') photo(-1);
     if (modalSpecies && e.key === 'ArrowRight') photo(1);
   });
+  window.addEventListener('hashchange', applyHash);  // back/forward + manual edits (pushState doesn't fire this)
   initMap();
-  loadParks().catch(err => { $('ph').innerHTML = 'load error: ' + esc(err.message); });
+  loadParks()
+    .then(() => applyHash())  // open a shared #park/#species link on first load
+    .catch(err => { $('ph').innerHTML = 'load error: ' + esc(err.message); });
 })();

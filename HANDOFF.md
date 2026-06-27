@@ -131,6 +131,14 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-27 (Claude/Opus) — ✨ webapp feature-complete: pagination + species→map reverse view + deep-linking + e2e suite
+- Closed every old-demo gap in the new SPA and went beyond it. New `webapp/` features (all verified in Chrome, 0 console errors):
+  - **Per-group "show more"** pagination (caps big parks at 48 cards/group → mobile-light). `ca5d815`.
+  - **Species → map reverse view** — modal "🗺 show parks with this species" plots/highlights its parks via `/api/species/<id>/parks`, fits bounds, reset banner. `b70ab84`.
+  - **URL deep-linking** — shareable `#park/<id>` / `#species/<id>` (open on load) + browser back/forward via `pushState`+`hashchange`.
+- **Committed regression suite `webapp/e2e_test.py`** (playwright `channel="chrome"`): map, panel, modal, i18n, all filters, park-local photos, pagination, reverse view, deep-linking. Run: server up → `.venv/bin/python webapp/e2e_test.py` → "E2E PASS".
+- The new stack now **matches + exceeds the legacy 69 MB-blob demo**, served from the DB on demand. Combined with the deploy artifacts, the only thing left to retire the legacy blob (permanent git-slim) is the user deploying (`fly deploy` / any container host).
+
 ### 2026-06-27 (Claude/Opus) — 🚀 productization P1→P2: deploy artifacts for the new stack (unblocks permanent git-slim)
 - Made the thin-client stack **deployable**: `Dockerfile` + `.dockerignore` + `fly.toml` (example, Tokyo/scale-to-zero) + `DEPLOY.md`. The API path is **100% stdlib** (verified: bare `python3.13`, no venv/pip, imports `parklife.api` + queries DB), so the image = Python base + code + `data/parklife.db`, **zero deps to install**.
 - Added **immutable read-only DB mode** to `parklife/api._connect` (`PARKLIFE_DB_RO=1`): opens `file:…?mode=ro&immutable=1` — no write-lock, no `-wal`/`-shm`, works on a read-only mount. Set in the Dockerfile/fly env. **Verified natively** (bare python + RO env → healthz/stats/species all green, no `-wal` created).
