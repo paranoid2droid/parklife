@@ -26,6 +26,7 @@ import gzip
 import json
 import mimetypes
 import os
+import traceback
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -80,8 +81,9 @@ class Handler(BaseHTTPRequestHandler):
             self._route(parts, query)
         except BrokenPipeError:
             pass
-        except Exception as exc:  # noqa: BLE001 - prototype: surface as 500
-            self._error(500, f"{type(exc).__name__}: {exc}")
+        except Exception:  # noqa: BLE001 - log server-side, don't leak internals
+            traceback.print_exc()
+            self._error(500, "internal error")
 
     def _send_static(self, rel: str) -> None:
         """Serve a file from webapp/ (the SPA). Path-traversal safe."""
