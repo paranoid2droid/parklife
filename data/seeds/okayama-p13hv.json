@@ -1,0 +1,36 @@
+{
+  "prefecture": "okayama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-bfcc0b8d42",
+      "name_ja": "水島緑地",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.530173,
+      "lon": 133.767712,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 12.0
+    },
+    {
+      "slug": "p13-4899746506",
+      "name_ja": "十一番町緑道",
+      "municipality": "笠岡市",
+      "operator": "岡山県",
+      "lat": 34.494757,
+      "lon": 133.510752,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 6.1
+    },
+    {
+      "slug": "p13-bf95bc8dc0",
+      "name_ja": "勝央緑地公園",
+      "municipality": "勝田郡勝央町",
+      "operator": "岡山県",
+      "lat": 35.045935,
+      "lon": 134.111938,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 29.0
+    }
+  ]
+}

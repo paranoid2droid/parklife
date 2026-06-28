@@ -1,0 +1,26 @@
+{
+  "prefecture": "okinawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-20c11c22fa",
+      "name_ja": "国営沖縄記念公園海洋博公園",
+      "municipality": "国頭郡本部町",
+      "operator": "沖縄総合事務局",
+      "lat": 26.69031,
+      "lon": 127.875868,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 71.6
+    },
+    {
+      "slug": "p13-d352bcf191",
+      "name_ja": "国営沖縄記念公園首里城公園",
+      "municipality": "那覇市",
+      "operator": "沖縄総合事務局",
+      "lat": 26.217003,
+      "lon": 127.719245,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 6.7
+    }
+  ]
+}

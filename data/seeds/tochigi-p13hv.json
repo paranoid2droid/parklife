@@ -1,0 +1,16 @@
+{
+  "prefecture": "tochigi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-ce694d6c2d",
+      "name_ja": "清原工業団地１号緑地",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.537626,
+      "lon": 139.978372,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 9.0
+    }
+  ]
+}

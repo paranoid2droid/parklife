@@ -1,0 +1,36 @@
+{
+  "prefecture": "toyama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-f1d11c1769",
+      "name_ja": "県民公園新港の森",
+      "municipality": "高岡市",
+      "operator": "富山県",
+      "lat": 36.765787,
+      "lon": 137.090653,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 26.0
+    },
+    {
+      "slug": "p13-c42f3a0f10",
+      "name_ja": "富山県空港スポーツ緑地",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.650391,
+      "lon": 137.190179,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 13.2
+    },
+    {
+      "slug": "p13-c0062d6d03",
+      "name_ja": "北代緑地",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.721363,
+      "lon": 137.186965,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 5.9
+    }
+  ]
+}

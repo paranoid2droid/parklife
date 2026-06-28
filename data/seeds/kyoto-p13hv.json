@@ -1,0 +1,56 @@
+{
+  "prefecture": "kyoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-665a774d19",
+      "name_ja": "東山自然緑地",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.993193,
+      "lon": 135.823648,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 18.6
+    },
+    {
+      "slug": "p13-00223fe88f",
+      "name_ja": "大原野森林",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.949003,
+      "lon": 135.622164,
+      "p13_kdp": "緑道",
+      "p13_area_ha": 134.0
+    },
+    {
+      "slug": "p13-ea982021a1",
+      "name_ja": "工業団地緩衝緑地",
+      "municipality": "福知山市",
+      "operator": "京都府",
+      "lat": 35.285192,
+      "lon": 135.151877,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 29.7
+    },
+    {
+      "slug": "p13-5fc499cf9a",
+      "name_ja": "淀川河川公園",
+      "municipality": "八幡市",
+      "operator": "近畿地方整備局",
+      "lat": 34.889313,
+      "lon": 135.686348,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 11.1
+    },
+    {
+      "slug": "p13-ddd9a41cd3",
+      "name_ja": "淀川河川公園",
+      "municipality": "乙訓郡大山崎町",
+      "operator": "近畿地方整備局",
+      "lat": 34.900152,
+      "lon": 135.70157,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 8.9
+    }
+  ]
+}

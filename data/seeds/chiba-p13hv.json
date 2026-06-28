@@ -1,0 +1,106 @@
+{
+  "prefecture": "chiba",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-0f8975917c",
+      "name_ja": "千葉県立手賀沼自然ふれあい緑道",
+      "municipality": "柏市",
+      "operator": "千葉県",
+      "lat": 35.869574,
+      "lon": 139.986107,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 25.1
+    },
+    {
+      "slug": "p13-2fb01f8989",
+      "name_ja": "千葉県立蓮沼海浜公園",
+      "municipality": "山武市",
+      "operator": "千葉県",
+      "lat": 35.597685,
+      "lon": 140.513391,
+      "p13_kdp": "レクリエーション都市",
+      "p13_area_ha": 38.3
+    },
+    {
+      "slug": "p13-8853c1b418",
+      "name_ja": "葦切児童公園",
+      "municipality": "習志野市",
+      "operator": "千葉県",
+      "lat": 35.679702,
+      "lon": 140.012412,
+      "p13_kdp": "街区公園",
+      "p13_area_ha": 23.4
+    },
+    {
+      "slug": "p13-7456be101d",
+      "name_ja": "市原緑地運動公園",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.527752,
+      "lon": 140.07038,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 42.7
+    },
+    {
+      "slug": "p13-dc18036d31",
+      "name_ja": "北五井緑道",
+      "municipality": "市原市",
+      "operator": "千葉県",
+      "lat": 35.514142,
+      "lon": 140.103733,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 11.9
+    },
+    {
+      "slug": "p13-ac891b3aca",
+      "name_ja": "手賀沼遊歩道",
+      "municipality": "我孫子市",
+      "operator": "千葉県",
+      "lat": 35.86363,
+      "lon": 140.019798,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 5.5
+    },
+    {
+      "slug": "p13-122cb189af",
+      "name_ja": "君津緩衝緑地",
+      "municipality": "君津市",
+      "operator": "千葉県",
+      "lat": 35.344432,
+      "lon": 139.88398,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 34.0
+    },
+    {
+      "slug": "p13-54403c5176",
+      "name_ja": "市民ふれあい公園",
+      "municipality": "富津市",
+      "operator": "千葉県",
+      "lat": 35.337747,
+      "lon": 139.850323,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 53.1
+    },
+    {
+      "slug": "p13-ea7cc374f1",
+      "name_ja": "池の上第二児童公園",
+      "municipality": "白井市",
+      "operator": "千葉県",
+      "lat": 35.777833,
+      "lon": 140.04934,
+      "p13_kdp": "街区公園",
+      "p13_area_ha": 28.2
+    },
+    {
+      "slug": "p13-ca0c8aa17c",
+      "name_ja": "天神山公園",
+      "municipality": "匝瑳市",
+      "operator": "千葉県",
+      "lat": 35.705666,
+      "lon": 140.548459,
+      "p13_kdp": "街区公園",
+      "p13_area_ha": 6.4
+    }
+  ]
+}

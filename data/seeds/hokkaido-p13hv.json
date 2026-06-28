@@ -1,0 +1,26 @@
+{
+  "prefecture": "hokkaido",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-dff720e513",
+      "name_ja": "星観緑地",
+      "municipality": "札幌市",
+      "operator": "北海道",
+      "lat": 43.137491,
+      "lon": 141.189006,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 15.5
+    },
+    {
+      "slug": "p13-12f038a48e",
+      "name_ja": "滝野すずらん丘陵公園",
+      "municipality": "札幌市",
+      "operator": "北海道開発局",
+      "lat": 42.91648,
+      "lon": 141.38863,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 313.8
+    }
+  ]
+}

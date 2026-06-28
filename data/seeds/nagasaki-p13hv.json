@@ -1,0 +1,16 @@
+{
+  "prefecture": "nagasaki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-458052946c",
+      "name_ja": "三原台自然林",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.777805,
+      "lon": 129.877352,
+      "p13_kdp": "緑道",
+      "p13_area_ha": 15.2
+    }
+  ]
+}

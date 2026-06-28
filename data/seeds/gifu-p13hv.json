@@ -1,0 +1,36 @@
+{
+  "prefecture": "gifu",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4ecb0e085c",
+      "name_ja": "川島町総合スポーツ公園",
+      "municipality": "各務原市",
+      "operator": "岐阜県",
+      "lat": 35.365962,
+      "lon": 136.85013,
+      "p13_kdp": "街区公園",
+      "p13_area_ha": 5.6
+    },
+    {
+      "slug": "p13-07bffcbed5",
+      "name_ja": "国営木曽三川公園",
+      "municipality": "海津市",
+      "operator": "中部地方整備局",
+      "lat": 35.147,
+      "lon": 136.667617,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 138.4
+    },
+    {
+      "slug": "p13-3ec8152e88",
+      "name_ja": "国営木曽三川公園",
+      "municipality": "各務原市",
+      "operator": "中部地方整備局",
+      "lat": 35.374604,
+      "lon": 136.821155,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 54.3
+    }
+  ]
+}

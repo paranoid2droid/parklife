@@ -1,0 +1,46 @@
+{
+  "prefecture": "yamagata",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b3261342c9",
+      "name_ja": "庄内空港緩衝緑地",
+      "municipality": "酒田市",
+      "operator": "山形県",
+      "lat": 38.816826,
+      "lon": 139.787515,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 60.7
+    },
+    {
+      "slug": "p13-20ecc7471c",
+      "name_ja": "西蔵王公園",
+      "municipality": "山形市",
+      "operator": "山形県",
+      "lat": 38.204803,
+      "lon": 140.354109,
+      "p13_kdp": "レクリエーション都市",
+      "p13_area_ha": 72.5
+    },
+    {
+      "slug": "p13-1f97b9bff7",
+      "name_ja": "弓張平公園",
+      "municipality": "西村山郡西川町",
+      "operator": "山形県",
+      "lat": 38.468177,
+      "lon": 140.0016,
+      "p13_kdp": "レクリエーション都市",
+      "p13_area_ha": 114.4
+    },
+    {
+      "slug": "p13-b7ddc3997b",
+      "name_ja": "八幡原緑地",
+      "municipality": "米沢市",
+      "operator": "山形県",
+      "lat": 37.898736,
+      "lon": 140.167746,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 28.3
+    }
+  ]
+}

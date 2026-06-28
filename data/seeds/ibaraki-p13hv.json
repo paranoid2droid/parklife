@@ -1,0 +1,56 @@
+{
+  "prefecture": "ibaraki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a1107319bb",
+      "name_ja": "高松緑地",
+      "municipality": "鹿嶋市",
+      "operator": "茨城県",
+      "lat": 35.952549,
+      "lon": 140.673498,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 21.7
+    },
+    {
+      "slug": "p13-b65543e60a",
+      "name_ja": "神之池緑地",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.890172,
+      "lon": 140.672072,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 73.0
+    },
+    {
+      "slug": "p13-76cfed6258",
+      "name_ja": "和田山緑地",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.909402,
+      "lon": 140.655703,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 18.3
+    },
+    {
+      "slug": "p13-f480783590",
+      "name_ja": "若松緑地",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.838409,
+      "lon": 140.738622,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 14.7
+    },
+    {
+      "slug": "p13-b67dfdd327",
+      "name_ja": "国営常陸海浜公園",
+      "municipality": "ひたちなか市",
+      "operator": "関東地方整備局",
+      "lat": 36.404375,
+      "lon": 140.597823,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 153.2
+    }
+  ]
+}

@@ -138,6 +138,13 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-06-28 (Claude/Opus) — 🌳 park expansion: high-value tier (+108 parks → 3,190), 100% species coverage
+- User picked the **high-value small-tier mix** over sports/max-coverage. Added P13 types **8 国営公園 + 10 緩衝緑地 + 12 広場公園 + 1 街区公園 + 7 レクリエーション都市 + 13 緑道, ≥5 ha** → `P13_KDP=8,10,12,1,7,13 P13_SUFFIX=p13hv .venv/bin/python -m scripts.p13_seed all`. **108 new parks** (緩衝46 / 国営27 / 広場17 / 街区7 / レク7 / 緑道4), deduped 1 km vs existing. Seeds in `data/seeds/<pref>-p13hv.json` (47 files, originals untouched).
+- **Pre-recon finding:** the blessed ≥5 ha types (総合/地区/特殊/都市林/広域/都市緑地) are **100% ingested already** (verified by direct-distance dedup vs Tokyo 49/49 sanity) — so expansion = a NEW tier, not completing old ones. The remaining un-ingested ≥5 ha tiers: 運動568 / 近隣56 / 緩衝46 / 国営27 / misc35.
+- **Pipeline:** load_seeds (3082→3190) → GBIF+iNat+eBird global run (cache made existing parks no-ops; **108 new parks fetched, ~113k new obs: GBIF 14,738 / iNat 97,550 / eBird 650, 0 errors**) → normalize (0 err) → backfill → dedupe. **All 108 new parks got species (100%)** — thesis holds (radius-only, no scraping). Totals: **3,190 parks / 3,174 w/ species / 24,786 species / 447,037 park_species / 758,440 obs.** DB backup `data/parklife.db.bak_pre_hvtier_20260628`.
+- **Photo backfill** (expansion reopened 292 no-photo): `gbif_media` +96 species, `wikicommons_hero` re-run → visible photo coverage **97.8%**. Maintenance dry-runs CLEAN (merge 0, romaji 0). New API verified serving a new national park (Okinawa Ocean Expo, 306 spp). Legacy demo re-exported (`docs/parklife-data.json` → **70.1 MB**).
+- **⚠️ STILL OPEN (expansion reopened):** **218 unprofiled visible species** (133 np≥2) — the profiling backlog reopened again. Run the batch-profiling workflow (`seed_species_profiles` + sidecar) if pursuing. ~192 obscure species remain photo-less (the floor).
+
 ### 2026-06-27 (Claude/Opus) — ✨ webapp feature-complete: pagination + species→map reverse view + deep-linking + e2e suite
 - Closed every old-demo gap in the new SPA and went beyond it. New `webapp/` features (all verified in Chrome, 0 console errors):
   - **Per-group "show more"** pagination (caps big parks at 48 cards/group → mobile-light). `ca5d815`.

@@ -1,0 +1,26 @@
+{
+  "prefecture": "hyogo",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-49c2403dd2",
+      "name_ja": "浜手緑地",
+      "municipality": "姫路市",
+      "operator": "兵庫県",
+      "lat": 34.781951,
+      "lon": 134.700974,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 72.8
+    },
+    {
+      "slug": "p13-5cb0a2f15c",
+      "name_ja": "大阪国際空港周辺緑地",
+      "municipality": "伊丹市",
+      "operator": "兵庫県",
+      "lat": 34.782041,
+      "lon": 135.435849,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 8.7
+    }
+  ]
+}

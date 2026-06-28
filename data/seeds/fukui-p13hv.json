@@ -1,0 +1,16 @@
+{
+  "prefecture": "fukui",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-84cd39cacb",
+      "name_ja": "三里浜緩衝緑地",
+      "municipality": "坂井市",
+      "operator": "福井県",
+      "lat": 36.200499,
+      "lon": 136.141426,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 134.4
+    }
+  ]
+}

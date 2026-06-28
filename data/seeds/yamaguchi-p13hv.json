@@ -1,0 +1,46 @@
+{
+  "prefecture": "yamaguchi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-cebc27dc63",
+      "name_ja": "下松市海岸通り緑地",
+      "municipality": "下松市",
+      "operator": "山口県",
+      "lat": 33.992989,
+      "lon": 131.87925,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 5.1
+    },
+    {
+      "slug": "p13-81f694b3af",
+      "name_ja": "周南緑地",
+      "municipality": "周南市",
+      "operator": "山口県",
+      "lat": 34.051257,
+      "lon": 131.820267,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 79.6
+    },
+    {
+      "slug": "p13-a8d4d8bce6",
+      "name_ja": "浜河内緑地公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 33.950135,
+      "lon": 131.180986,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 20.3
+    },
+    {
+      "slug": "p13-db0e6aa170",
+      "name_ja": "東沖緑地",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 33.987674,
+      "lon": 131.168634,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 6.1
+    }
+  ]
+}

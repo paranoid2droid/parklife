@@ -1,0 +1,16 @@
+{
+  "prefecture": "iwate",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-487226052f",
+      "name_ja": "鍋倉公園",
+      "municipality": "遠野市",
+      "operator": "岩手県",
+      "lat": 39.326638,
+      "lon": 141.528341,
+      "p13_kdp": "街区公園",
+      "p13_area_ha": 14.0
+    }
+  ]
+}

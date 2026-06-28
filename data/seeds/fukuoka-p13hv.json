@@ -1,0 +1,46 @@
+{
+  "prefecture": "fukuoka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-cab4b39b2e",
+      "name_ja": "城山緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.872349,
+      "lon": 130.775,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 13.7
+    },
+    {
+      "slug": "p13-771728a27c",
+      "name_ja": "赤坂緑道",
+      "municipality": "糟屋郡久山町",
+      "operator": "福岡県",
+      "lat": 33.659807,
+      "lon": 130.500278,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 6.3
+    },
+    {
+      "slug": "p13-4726207b2d",
+      "name_ja": "新建川緑道",
+      "municipality": "糟屋郡久山町",
+      "operator": "福岡県",
+      "lat": 33.647597,
+      "lon": 130.517546,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 5.8
+    },
+    {
+      "slug": "p13-4955cd09dd",
+      "name_ja": "海の中道海浜公園",
+      "municipality": "福岡市",
+      "operator": "九州地方整備局",
+      "lat": 33.657503,
+      "lon": 130.353801,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 264.7
+    }
+  ]
+}

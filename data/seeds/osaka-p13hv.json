@@ -1,0 +1,96 @@
+{
+  "prefecture": "osaka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-08f6ced7db",
+      "name_ja": "栂緑道",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.478093,
+      "lon": 135.493441,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 9.3
+    },
+    {
+      "slug": "p13-2417d9e09b",
+      "name_ja": "光明池緑道",
+      "municipality": "堺市",
+      "operator": "大阪府",
+      "lat": 34.491099,
+      "lon": 135.472834,
+      "p13_kdp": "広場公園",
+      "p13_area_ha": 11.5
+    },
+    {
+      "slug": "p13-bd769ca6db",
+      "name_ja": "芥川緑地",
+      "municipality": "高槻市",
+      "operator": "大阪府",
+      "lat": 34.864735,
+      "lon": 135.59141,
+      "p13_kdp": "街区公園",
+      "p13_area_ha": 8.3
+    },
+    {
+      "slug": "p13-6fd632cdea",
+      "name_ja": "淀川河川公園",
+      "municipality": "大阪市",
+      "operator": "近畿地方整備局",
+      "lat": 34.722296,
+      "lon": 135.497451,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 53.4
+    },
+    {
+      "slug": "p13-655b56f344",
+      "name_ja": "淀川河川公園",
+      "municipality": "枚方市",
+      "operator": "近畿地方整備局",
+      "lat": 34.814444,
+      "lon": 135.638603,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 47.3
+    },
+    {
+      "slug": "p13-a05b3cbaa6",
+      "name_ja": "淀川河川公園",
+      "municipality": "寝屋川市",
+      "operator": "近畿地方整備局",
+      "lat": 34.786214,
+      "lon": 135.611809,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 30.9
+    },
+    {
+      "slug": "p13-97feaef247",
+      "name_ja": "淀川河川公園",
+      "municipality": "高槻市",
+      "operator": "近畿地方整備局",
+      "lat": 34.826692,
+      "lon": 135.640654,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 30.1
+    },
+    {
+      "slug": "p13-a069eddf49",
+      "name_ja": "淀川河川公園",
+      "municipality": "守口市",
+      "operator": "近畿地方整備局",
+      "lat": 34.738967,
+      "lon": 135.556442,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 24.9
+    },
+    {
+      "slug": "p13-674dc49fe5",
+      "name_ja": "淀川河川公園",
+      "municipality": "摂津市",
+      "operator": "近畿地方整備局",
+      "lat": 34.777797,
+      "lon": 135.594281,
+      "p13_kdp": "国営公園",
+      "p13_area_ha": 24.5
+    }
+  ]
+}

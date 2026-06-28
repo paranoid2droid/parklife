@@ -1,0 +1,46 @@
+{
+  "prefecture": "mie",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3713fb72ec",
+      "name_ja": "熊野灘臨海公園",
+      "municipality": "北牟婁郡紀北町",
+      "operator": "三重県",
+      "lat": 34.213864,
+      "lon": 136.34381,
+      "p13_kdp": "レクリエーション都市",
+      "p13_area_ha": 54.9
+    },
+    {
+      "slug": "p13-54053d9231",
+      "name_ja": "中央緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.952159,
+      "lon": 136.611705,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 28.5
+    },
+    {
+      "slug": "p13-0b782da50b",
+      "name_ja": "霞ヶ浦緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.990532,
+      "lon": 136.649196,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 27.5
+    },
+    {
+      "slug": "p13-d4a3a9d5f2",
+      "name_ja": "楠中央緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.914962,
+      "lon": 136.635567,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 7.5
+    }
+  ]
+}

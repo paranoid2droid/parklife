@@ -1,0 +1,16 @@
+{
+  "prefecture": "kumamoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-7563f8ba7a",
+      "name_ja": "セミコンテクノ周辺緑地",
+      "municipality": "合志市",
+      "operator": "熊本県",
+      "lat": 32.891649,
+      "lon": 130.834783,
+      "p13_kdp": "緩衝緑地",
+      "p13_area_ha": 5.2
+    }
+  ]
+}
