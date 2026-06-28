@@ -202103,5 +202103,609 @@
       "habitat_hint": "稻田、沟渠、池塘及其周边。",
       "finding_tips": "夏夜在稻田与水边灯下寻找偏白小螟蛾，幼虫附水草。"
     }
+  },
+  "Mola mola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ocean sunfish",
+    "aliases": {
+      "zh-Hans": "翻车鲀"
+    },
+    "ja": {
+      "summary": "尾びれがなく体が円盤のように平たい巨大な魚。海面近くを漂い、クラゲなどを食べる。世界最大級の硬骨魚。",
+      "habitat_hint": "外洋の表層、暖流に乗って沿岸近くにも現れる。",
+      "finding_tips": "海面で体を横たえて漂う大きな円盤状の魚を探します。背びれを水面に出してゆらゆら動かすことがある。"
+    },
+    "en": {
+      "summary": "A huge disc-shaped fish lacking a true tail fin, drifting near the surface and eating jellyfish; among the heaviest of all bony fishes.",
+      "habitat_hint": "Open-ocean surface waters, sometimes near coasts on warm currents.",
+      "finding_tips": "Look for a large disc-shaped fish lolling at the surface; it may wave a dorsal fin above the water."
+    },
+    "zh": {
+      "summary": "无真正尾鳍、体扁如盘的巨型鱼，漂于近表层、取食水母，为最重硬骨鱼之一。",
+      "habitat_hint": "外洋表层，随暖流偶近海岸。",
+      "finding_tips": "在海面寻找侧卧漂浮的大圆盘状鱼，有时露出背鳍摇动。"
+    }
+  },
+  "Xenopus laevis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "African clawed frog",
+    "aliases": {
+      "zh-Hans": "非洲爪蟾"
+    },
+    "ja": {
+      "summary": "アフリカ原産の完全水生のカエル。後ろ足に黒い爪があり、舌がなく餌を手でかき込む。実験動物・ペット由来で各地に定着。",
+      "habitat_hint": "池、用水路、流れのよどんだ川などの止水。",
+      "finding_tips": "水中をすばやく泳ぐ平たい体のカエルを探します。陸にはほとんど上がらず、後ろ足の黒い爪が特徴。"
+    },
+    "en": {
+      "summary": "A fully aquatic African frog with black claws on the hind feet and no tongue, scooping food with its hands; established from lab and pet origins.",
+      "habitat_hint": "Ponds, channels, and stagnant still water.",
+      "finding_tips": "Look for a flat-bodied frog swimming swiftly underwater; it rarely leaves the water and has black hind-foot claws."
+    },
+    "zh": {
+      "summary": "原产非洲的全水生蛙，后足具黑爪、无舌、以前肢扒食，因实验与宠物逸出而定居。",
+      "habitat_hint": "池塘、沟渠、滞流河段的静水。",
+      "finding_tips": "寻找在水中迅捷游动的扁身蛙，几乎不上岸，后足黑爪为特征。"
+    }
+  },
+  "Arothron stellatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stellate puffer",
+    "aliases": {
+      "zh-Hans": "星斑叉鼻鲀"
+    },
+    "ja": {
+      "summary": "白っぽい体に黒い小さな斑点が一面に散らばる大型のフグ。危険を感じると水を吸って体をふくらませる。サンゴ礁や砂底にすむ。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁、砂底。",
+      "finding_tips": "暖海で、白地に黒い点が無数に散らばる大きなフグを探します。幼魚と成魚で模様が変わる。"
+    },
+    "en": {
+      "summary": "A large puffer, whitish covered with many small black spots, inflating with water when threatened; lives on reefs and sandy bottoms.",
+      "habitat_hint": "Warm-sea coral reefs, rocky reefs, and sandy bottoms.",
+      "finding_tips": "In warm seas look for a large puffer densely spotted with black on a pale body; the pattern changes from juvenile to adult."
+    },
+    "zh": {
+      "summary": "体白、遍布小黑斑的大型鲀，受威胁时吸水膨身，栖珊瑚礁与沙底。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、沙底。",
+      "finding_tips": "在暖海寻找白底密布黑点的大鲀，幼鱼与成鱼斑纹不同。"
+    }
+  },
+  "Pteropterus antennatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broadbarred firefish",
+    "ja": {
+      "summary": "長く広がった胸びれと毒のあるとげをもつミノカサゴの仲間。岩のすきまにひそみ、ひらひらと泳ぐ。とげに刺されると激しく痛む。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁、岩のすきまや洞。",
+      "finding_tips": "岩陰でひらひらと長い胸びれを広げて泳ぐ縞模様の魚を探します。毒のとげがあるので触れないこと。"
+    },
+    "en": {
+      "summary": "A lionfish with long spreading pectoral fins and venomous spines, lurking in crevices and drifting gracefully; its sting is intensely painful.",
+      "habitat_hint": "Warm-sea coral and rocky reefs, crevices, and caves.",
+      "finding_tips": "In reef shade look for a banded fish drifting with long spread pectoral fins; never touch its venomous spines."
+    },
+    "zh": {
+      "summary": "胸鳍长展、具毒棘的蓑鲉类，藏于缝隙、轻盈游动，被刺剧痛。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、缝隙与洞穴。",
+      "finding_tips": "在礁石阴处寻找张展长胸鳍的带纹鱼，毒棘切勿触碰。"
+    }
+  },
+  "Plectorhinchus chaetodonoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Harlequin sweetlips",
+    "ja": {
+      "summary": "幼魚は白地に大きな茶色の斑があり、ひらひらと泳いで有毒な生き物に擬態する。成魚は斑点模様になる大型のイサキの仲間。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁、礁の縁の物陰。",
+      "finding_tips": "幼魚は白茶のまだら模様で体をくねらせて泳ぐので目を引きます。成魚は岩陰にひそむ斑点だらけの大きな魚。"
+    },
+    "en": {
+      "summary": "A large sweetlips whose juveniles are white with large brown blotches and swim in a fluttering mimicry of toxic animals; adults become spotted.",
+      "habitat_hint": "Warm-sea coral and rocky reefs and shaded reef margins.",
+      "finding_tips": "Juveniles, blotched white and brown, draw the eye with their undulating swim; adults are spotted and shelter in reef shade."
+    },
+    "zh": {
+      "summary": "大型石鲈，幼鱼白底具大褐斑、摆动游动拟态有毒生物，成鱼转为斑点。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、礁缘阴处。",
+      "finding_tips": "幼鱼白褐斑驳、摆身而游引人注目；成鱼布满斑点、藏于礁阴。"
+    }
+  },
+  "Pseudanthias pleurotaenia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Square-spot anthias",
+    "ja": {
+      "summary": "群れで泳ぐ鮮やかなハナダイの仲間。オスは紫がかった赤に体側の四角い斑が目立つ。礁の斜面で動物プランクトンを食べる。",
+      "habitat_hint": "暖海のやや深いサンゴ礁の斜面、ドロップオフ。",
+      "finding_tips": "礁の斜面で群れて泳ぐ色鮮やかな小魚を探します。オスの体側の四角い明色斑が識別点。"
+    },
+    "en": {
+      "summary": "A colourful anthias swimming in shoals; males are purplish-red with a bold square side patch, feeding on zooplankton over reef slopes.",
+      "habitat_hint": "Deeper warm-sea coral reef slopes and drop-offs.",
+      "finding_tips": "Over reef slopes look for shoals of bright small fish; the square pale side patch marks the male."
+    },
+    "zh": {
+      "summary": "成群游动的艳丽花鮨，雄鱼紫红、体侧具明显方斑，于礁坡取食浮游动物。",
+      "habitat_hint": "暖海较深的珊瑚礁坡与陡降处。",
+      "finding_tips": "在礁坡寻找成群艳丽小鱼，雄鱼体侧方形浅斑为识别点。"
+    }
+  },
+  "Pseudanthias hypselosoma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stocky anthias",
+    "ja": {
+      "summary": "群れで泳ぐピンク色のハナダイの仲間。礁の上を漂い、流れてくる動物プランクトンを食べる。オスとメスで色が異なる。",
+      "habitat_hint": "暖海のサンゴ礁の上、礁の斜面。",
+      "finding_tips": "礁の上で群れて泳ぐピンク色の小魚を探します。オスは尾びれの色や斑が目立つ。"
+    },
+    "en": {
+      "summary": "A pink anthias that shoals over reefs, hovering to pick drifting zooplankton; males and females differ in colour.",
+      "habitat_hint": "Over warm-sea coral reefs and reef slopes.",
+      "finding_tips": "Above reefs look for shoals of pink small fish; males show distinctive tail colour and marks."
+    },
+    "zh": {
+      "summary": "成群游于礁上的粉色花鮨，悬停拾取漂来的浮游动物，雌雄异色。",
+      "habitat_hint": "暖海珊瑚礁上方与礁坡。",
+      "finding_tips": "在礁上寻找成群的粉色小鱼，雄鱼尾鳍色斑明显。"
+    }
+  },
+  "Ischikauia steenackeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "細長く側扁した銀白色のコイ科の魚。琵琶湖を中心に分布する日本固有種で、水草を主に食べる珍しい草食性のコイ科。",
+      "habitat_hint": "湖、流れのゆるい川や用水路、水草の多い止水。",
+      "finding_tips": "水草の多い湖や川で、細長く銀色の魚を探します。口が上向きで水面近くの水草を食べる。"
+    },
+    "en": {
+      "summary": "A slender, silvery, laterally compressed cyprinid endemic to Japan and centred on Lake Biwa; unusually herbivorous, feeding mainly on water plants.",
+      "habitat_hint": "Lakes, slow rivers and channels, and weedy still water.",
+      "finding_tips": "In weedy lakes and rivers look for a slim silvery fish; its upturned mouth grazes water plants near the surface."
+    },
+    "zh": {
+      "summary": "体细长侧扁、银白色的鲤科鱼，日本特有、以琵琶湖为中心，罕见地主食水草。",
+      "habitat_hint": "湖泊、缓流河与沟渠、多水草的静水。",
+      "finding_tips": "在多水草的湖河寻找细长银色鱼，口上位、近表面食水草。"
+    }
+  },
+  "Acheilognathus cyanostigma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "体高があり繁殖期のオスが美しい色になるタナゴの仲間。産卵に二枚貝を使う。西日本の川や用水路にすむ。",
+      "habitat_hint": "流れのゆるい川、用水路、ため池の二枚貝のいる砂泥底。",
+      "finding_tips": "水草や二枚貝のある止水で、体高のある小魚を探します。繁殖期のオスは婚姻色で鮮やかになる。"
+    },
+    "en": {
+      "summary": "A deep-bodied bitterling whose breeding males turn colourful; it spawns inside freshwater mussels. Lives in rivers and channels of western Japan.",
+      "habitat_hint": "Slow rivers, channels, and ponds with mussels over sandy mud.",
+      "finding_tips": "In still water with plants and mussels look for a deep-bodied small fish; breeding males show bright nuptial colour."
+    },
+    "zh": {
+      "summary": "体高的鳑鲏类，繁殖期雄鱼艳丽，借淡水蚌产卵，栖西日本河渠。",
+      "habitat_hint": "缓流河、沟渠、有蚌的池塘砂泥底。",
+      "finding_tips": "在有水草与蚌的静水寻找体高小鱼，繁殖期雄鱼具婚姻色。"
+    }
+  },
+  "Cobitis takatsuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "きれいな川の石の間にすむ細いドジョウの仲間。体側に点列や斑があり、礫底に潜む。清流の指標になる。",
+      "habitat_hint": "水のきれいな川の中〜上流、礫底や石の間。",
+      "finding_tips": "清流の石の間や礫底で、体側に斑のある細いドジョウを探します。きれいな水にすむ。"
+    },
+    "en": {
+      "summary": "A slender loach of clean rivers, living among stones with rows of spots on the sides; an indicator of clear water.",
+      "habitat_hint": "Clean middle and upper rivers, gravel beds, and between stones.",
+      "finding_tips": "Among stones and gravel in clear streams look for a slim spotted loach; it needs clean water."
+    },
+    "zh": {
+      "summary": "栖清洁河流石间的细鳅，体侧具点列，为清水指标。",
+      "habitat_hint": "清洁河流中上游、砾底、石缝。",
+      "finding_tips": "在清流石间与砾底寻找体侧具斑的细鳅，喜清水。"
+    }
+  },
+  "Eleotris acanthopomus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハゼに似た細長い魚（カワアナゴの仲間）。河口や下流の物陰にひそみ、夜に小魚や甲殻類をとる。腹びれが左右に分かれている。",
+      "habitat_hint": "河口、下流、汽水域の物陰や水草のまわり。",
+      "finding_tips": "河口や下流の岸近くの物陰で、暗色で細長い魚を探します。ハゼと違い腹びれがくっつかない。"
+    },
+    "en": {
+      "summary": "A goby-like sleeper of estuaries and lower rivers, hiding in cover and taking small fish and crustaceans at night; its pelvic fins are separate.",
+      "habitat_hint": "Estuaries, lower rivers, and brackish cover and weed.",
+      "finding_tips": "In shaded cover near estuary and lower-river banks look for a dark elongate fish; unlike true gobies its pelvic fins are not joined."
+    },
+    "zh": {
+      "summary": "似虾虎的塘鳢类，藏于河口与下游物荫，夜捕小鱼甲壳类，腹鳍分离。",
+      "habitat_hint": "河口、下游、半咸水的物荫与水草周围。",
+      "finding_tips": "在河口与下游岸边物荫寻找暗色细长鱼，腹鳍不愈合可与虾虎区分。"
+    }
+  },
+  "Exyrias puntang": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "背びれが高く広がるハゼの仲間。河口や内湾の砂泥底にすみ、底をはうように動く。体に細かい斑がある。",
+      "habitat_hint": "河口、内湾、汽水域の砂泥底。",
+      "finding_tips": "穏やかな砂泥底で、背びれを立てたハゼを探します。細かい斑のある体と高い背びれが手がかり。"
+    },
+    "en": {
+      "summary": "A goby with a tall, spread dorsal fin, living on the sandy mud of estuaries and bays and creeping over the bottom; the body is finely speckled.",
+      "habitat_hint": "Sandy-mud bottoms of estuaries, bays, and brackish water.",
+      "finding_tips": "On calm sandy mud look for a goby with a raised dorsal fin; the speckled body and tall fin are clues."
+    },
+    "zh": {
+      "summary": "背鳍高展的虾虎，栖河口与内湾砂泥底，贴底爬行，体具细斑。",
+      "habitat_hint": "河口、内湾、半咸水的砂泥底。",
+      "finding_tips": "在平静砂泥底寻找竖起背鳍的虾虎，细斑体与高背鳍为线索。"
+    }
+  },
+  "Ecsenius namiyei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "岩の穴に体を入れて顔だけ出すギンポの仲間。前半身が暗色、後半身が明色の二色の体をもつ。岩礁にすむ。",
+      "habitat_hint": "暖海の岩礁、サンゴ礁、岩の小さな穴。",
+      "finding_tips": "岩の小さな穴から顔を出している、前後で色の違う小魚を探します。近づくと穴に引っ込む。"
+    },
+    "en": {
+      "summary": "A combtooth blenny that pokes its head from a hole in the rock; the body is two-toned, dark in front and pale behind. Lives on reefs.",
+      "habitat_hint": "Warm-sea rocky and coral reefs and small holes in rock.",
+      "finding_tips": "Look for a small two-toned fish peering from a hole in the rock; it withdraws when approached."
+    },
+    "zh": {
+      "summary": "栖岩孔、仅露头的鳚类，体前暗后浅成两色，居岩礁。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、岩上小孔。",
+      "finding_tips": "寻找自岩孔探头、前后异色的小鱼，近之即缩回。"
+    }
+  },
+  "Psammogobius biocellatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "砂泥底に紛れる地味なハゼ。体に二つの目玉模様（眼状紋）があることが名の由来。河口や汽水域にすむ。",
+      "habitat_hint": "河口、汽水域、内湾の砂泥底。",
+      "finding_tips": "砂泥底で、体の模様が砂に紛れる地味なハゼを探します。背の眼状紋が手がかり。"
+    },
+    "en": {
+      "summary": "A cryptic goby blending with sandy mud, named for two eye-spots on the body; lives in estuaries and brackish water.",
+      "habitat_hint": "Sandy-mud bottoms of estuaries, brackish water, and bays.",
+      "finding_tips": "On sandy mud look for a plain goby camouflaged against the substrate; the body eye-spots are the clue."
+    },
+    "zh": {
+      "summary": "融于砂泥的素色虾虎，体具两眼状斑而得名，栖河口与半咸水。",
+      "habitat_hint": "河口、半咸水、内湾的砂泥底。",
+      "finding_tips": "在砂泥底寻找伪装于底质的素色虾虎，体上眼斑为线索。"
+    }
+  },
+  "Hynobius naevius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "体に青白い斑点が散らばる小型のサンショウウオ。山地の渓流沿いの林にすみ、繁殖期に流れの中で産卵する。",
+      "habitat_hint": "山地の渓流沿いの林、湿った林床、沢の源流域。",
+      "finding_tips": "繁殖期、渓流の石の下や流れのゆるい場所で産卵に来た個体や卵のうを探します。体の青白い斑が手がかり。"
+    },
+    "en": {
+      "summary": "A small salamander scattered with bluish-white spots, living in forest along mountain streams and spawning in the flow in the breeding season.",
+      "habitat_hint": "Forest along mountain streams, damp forest floor, and headwater reaches.",
+      "finding_tips": "In the breeding season check under stones and in slow flow for adults or egg sacs; the bluish-white spots are a clue."
+    },
+    "zh": {
+      "summary": "体散青白斑的小型小鲵，栖山地溪流林地，繁殖期于流水中产卵。",
+      "habitat_hint": "山地溪流沿林、湿润林床、源头流域。",
+      "finding_tips": "繁殖期在溪石下与缓流处寻找产卵个体或卵囊，青白斑为线索。"
+    }
+  },
+  "Hynobius tsuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "対馬にすむ小型のサンショウウオ。湿った林の地中や落ち葉の下で暮らし、冬から春に止水で産卵する。地域固有の貴重な両生類。",
+      "habitat_hint": "対馬の湿った林、林床の落ち葉や石の下、止水の水たまり。",
+      "finding_tips": "繁殖期、林の中の水たまりやため池でバナナ状の卵のうや成体を探します。地域を限って分布する。"
+    },
+    "en": {
+      "summary": "A small salamander of Tsushima, living in damp forest soil and under litter and spawning in still water from winter to spring; a precious local endemic.",
+      "habitat_hint": "Damp Tsushima forest, under litter and stones, and still pools.",
+      "finding_tips": "In the breeding season check woodland pools and ponds for banana-shaped egg sacs or adults; its range is restricted."
+    },
+    "zh": {
+      "summary": "栖对马的小型小鲵，居湿林土中与落叶下，冬春于静水产卵，为地域特有珍贵两栖类。",
+      "habitat_hint": "对马湿润林、落叶与石下、静水水洼。",
+      "finding_tips": "繁殖期在林中水洼与池塘寻找香蕉状卵囊或成体，分布局限。"
+    }
+  },
+  "Rana tsushimensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "対馬にすむ小型の赤褐色のアカガエル。早春、まだ寒いうちに止水に集まって産卵する。地域固有のカエル。",
+      "habitat_hint": "対馬の水田、湿地、林縁の止水、ため池。",
+      "finding_tips": "早春、水田や湿地の浅い止水で鳴き声や卵塊を探します。赤褐色の体が手がかり。"
+    },
+    "en": {
+      "summary": "A small reddish-brown brown frog of Tsushima that gathers to spawn in still water in early spring while it is still cold; a local endemic.",
+      "habitat_hint": "Tsushima paddies, marshes, edge still water, and ponds.",
+      "finding_tips": "In early spring listen and look for calls and egg masses in shallow still water; the reddish-brown body is a clue."
+    },
+    "zh": {
+      "summary": "栖对马的小型红褐色林蛙，早春趁寒聚于静水产卵，为地域特有蛙。",
+      "habitat_hint": "对马稻田、湿地、林缘静水、池塘。",
+      "finding_tips": "早春在浅静水寻找鸣声与卵块，红褐体色为线索。"
+    }
+  },
+  "Anchigarypus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "海岸の石の下にすむごく小さなカニムシの仲間。サソリに似た形ではさみをもつが尾はなく、無害。",
+      "habitat_hint": "海岸の転石の下、打ち上げ海藻の下、岩のすきま。",
+      "finding_tips": "海岸の石をめくると、はさみをもつ小さなサソリのような虫が見つかります。数ミリと小さい。"
+    },
+    "en": {
+      "summary": "A tiny pseudoscorpion living under coastal stones; scorpion-like with pincers but no tail, and harmless.",
+      "habitat_hint": "Under coastal boulders, stranded seaweed, and rock crevices.",
+      "finding_tips": "Lift coastal stones to find a tiny scorpion-like creature with pincers; it is only millimetres long."
+    },
+    "zh": {
+      "summary": "栖海岸石下的极小拟蝎，似蝎具螯而无尾，无害。",
+      "habitat_hint": "海岸转石下、搁浅海藻下、岩缝。",
+      "finding_tips": "翻开海岸石块可见具螯的微小似蝎虫，仅数毫米。"
+    }
+  },
+  "Pseudobiantes japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "体にとげのある赤褐色のザトウムシの仲間。脚はそれほど長くなく、湿った林床の落ち葉の間を歩く。",
+      "habitat_hint": "湿った林床、落ち葉だまり、石の下。",
+      "finding_tips": "湿った林床で落ち葉をめくると、体にとげのある赤褐色のザトウムシが見つかります。"
+    },
+    "en": {
+      "summary": "A spiny reddish-brown harvestman with not-very-long legs, walking among leaf litter on damp forest floor.",
+      "habitat_hint": "Damp forest floor, leaf litter, and under stones.",
+      "finding_tips": "On damp forest floor lift litter to find a spiny reddish-brown harvestman."
+    },
+    "zh": {
+      "summary": "体具棘的红褐色盲蛛，足不甚长，行于湿润林床落叶间。",
+      "habitat_hint": "湿润林床、落叶堆、石下。",
+      "finding_tips": "在潮湿林床翻落叶可见体具棘的红褐盲蛛。"
+    }
+  },
+  "Coelotes hiratsukai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "石の下や朽ち木に管状の巣をつくるタナグモの仲間。暗色のがっしりした体で、巣の奥にひそんで獲物を待つ。",
+      "habitat_hint": "山地の林床、石の下、朽ち木、斜面の落ち葉の間。",
+      "finding_tips": "石や朽ち木をめくると、管状の巣とその奥にひそむ暗色のクモが見つかります。"
+    },
+    "en": {
+      "summary": "A funnel-web spider that builds a tubular retreat under stones and dead wood, a dark sturdy spider lurking deep in the tube for prey.",
+      "habitat_hint": "Montane forest floor, under stones, dead wood, and slope litter.",
+      "finding_tips": "Lift stones or dead wood to find a tubular silk retreat with a dark spider waiting inside."
+    },
+    "zh": {
+      "summary": "于石下与朽木造管状巢的漏斗蛛类，体暗壮实，伏于巢深待猎。",
+      "habitat_hint": "山地林床、石下、朽木、坡地落叶间。",
+      "finding_tips": "翻开石块或朽木可见管状丝巢及伏于其内的暗色蛛。"
+    }
+  },
+  "Hygrolycosa umidicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "湿地にすむ小型のコモリグモ。地表を歩いて獲物を追い、メスは卵のうを糸で体につけて持ち運ぶ。",
+      "habitat_hint": "湿地、水田のあぜ、湿った草地、池のほとり。",
+      "finding_tips": "湿った草地や水辺で、地表を歩く小さなクモを探します。メスは腹の先に卵のうをつけている。"
+    },
+    "en": {
+      "summary": "A small wolf spider of wetlands that hunts prey on the ground; females carry the egg sac attached by silk to the body.",
+      "habitat_hint": "Marshes, paddy banks, damp grassland, and pond edges.",
+      "finding_tips": "In damp grass and at water edges look for a small ground-walking spider; females carry an egg sac at the abdomen tip."
+    },
+    "zh": {
+      "summary": "栖湿地的小型狼蛛，于地面追猎，雌蛛以丝携卵囊于体。",
+      "habitat_hint": "湿地、稻田田埂、潮湿草地、池边。",
+      "finding_tips": "在潮湿草地与水边寻找地面行走的小蛛，雌蛛腹端携卵囊。"
+    }
+  },
+  "Lasaeola castrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ぼかしたような模様の小さなヒメグモの仲間。低木や葉の上に小さな網を張り、アリなどを捕らえる。",
+      "habitat_hint": "林縁の低木、草地、葉の上。",
+      "finding_tips": "低木や葉の上で、ぼかし模様の小さなクモと小さな網を探します。"
+    },
+    "en": {
+      "summary": "A small comb-footed spider with a smudgy pattern, spinning a small web on shrubs and leaves to catch ants and other insects.",
+      "habitat_hint": "Edge shrubs, grassland, and leaf surfaces.",
+      "finding_tips": "On shrubs and leaves look for a small spider with a blurry pattern and its small web."
+    },
+    "zh": {
+      "summary": "具晕染斑纹的小型球蛛，于灌木与叶上结小网，捕蚁等虫。",
+      "habitat_hint": "林缘灌木、草地、叶面。",
+      "finding_tips": "在灌木与叶上寻找具晕染斑的小蛛及其小网。"
+    }
+  },
+  "Microdipoena ogatai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "落ち葉の間にすむごく小さなクモ。地表近くに小さな網を張り、微小な虫をとる。体長は数ミリと小さい。",
+      "habitat_hint": "雑木林の林床、落ち葉だまり、地表のコケの間。",
+      "finding_tips": "湿った林床で落ち葉をふるうと、ごく小さなクモが見つかります。ルーペがあると見つけやすい。"
+    },
+    "en": {
+      "summary": "A very small spider of leaf litter, spinning a tiny web near the ground to catch minute insects; only millimetres long.",
+      "habitat_hint": "Coppice forest floor, leaf litter, and ground-level moss.",
+      "finding_tips": "On damp forest floor sift litter to find a tiny spider; a hand lens helps."
+    },
+    "zh": {
+      "summary": "栖落叶间的极小蛛，于近地结小网捕微虫，体长仅数毫米。",
+      "habitat_hint": "杂木林床、落叶堆、地表苔藓间。",
+      "finding_tips": "在潮湿林床筛检落叶可见极小蛛，备放大镜更便。"
+    }
+  },
+  "Syedra oii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "地表近くに水平な小さな網を張るサラグモの仲間。ごく小さく、落ち葉や草の根元で暮らす。",
+      "habitat_hint": "林床、落ち葉だまり、草地の地表近く。",
+      "finding_tips": "草の根元や落ち葉の間で、地表すれすれの小さな水平の網を探します。クモはごく小さい。"
+    },
+    "en": {
+      "summary": "A money spider that spins a small horizontal sheet web near the ground, very small and living in litter and at grass bases.",
+      "habitat_hint": "Forest floor, leaf litter, and near-ground in grassland.",
+      "finding_tips": "At grass bases and in litter look for a tiny horizontal sheet web near the ground; the spider is very small."
+    },
+    "zh": {
+      "summary": "于近地结小型水平片网的皿蛛，极小，栖落叶与草根处。",
+      "habitat_hint": "林床、落叶堆、草地近地表。",
+      "finding_tips": "在草根与落叶间寻找贴地的小型水平网，蛛体极小。"
+    }
+  },
+  "Acleris enitescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "翅の模様に変化が多いハマキガの仲間。落ち葉色で、幼虫は葉を巻いて食べる。秋〜春に成虫が見られ灯火に来る。",
+      "habitat_hint": "雑木林、落葉広葉樹林、林縁。",
+      "finding_tips": "秋や早春の夜、灯火で落ち葉色の小さなハマキガを探します。個体ごとに模様が違う。"
+    },
+    "en": {
+      "summary": "A variable tortrix moth, dead-leaf coloured, whose larvae roll and eat leaves; adults appear autumn to spring and come to lights.",
+      "habitat_hint": "Coppice and deciduous woodland and edges.",
+      "finding_tips": "On autumn and early-spring nights at lights look for a small dead-leaf-coloured tortrix; the pattern varies between individuals."
+    },
+    "zh": {
+      "summary": "翅纹多变的卷蛾，呈枯叶色，幼虫卷叶取食，秋至春见成虫、趋光。",
+      "habitat_hint": "杂木林、落叶阔叶林、林缘。",
+      "finding_tips": "秋与早春夜晚在灯下寻找枯叶色的小卷蛾，个体斑纹各异。"
+    }
+  },
+  "Agaraeus discolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "前翅に一本の暗い筋が入るエダシャクの仲間。とまると幹や枯葉に紛れ、夜に灯火へ集まる。幼虫は樹木の葉を食べる。",
+      "habitat_hint": "落葉広葉樹林、雑木林、林縁。",
+      "finding_tips": "夜、灯火近くで前翅に一本の暗い筋がある地味なシャクガを探します。とまると平らに翅を開く。"
+    },
+    "en": {
+      "summary": "A geometrid with a single dark line across the forewing that blends with bark and dead leaves and comes to lights at night; larvae feed on tree leaves.",
+      "habitat_hint": "Deciduous and coppice woodland and edges.",
+      "finding_tips": "At night near lights look for a plain geometrid with one dark forewing line; it rests with wings spread flat."
+    },
+    "zh": {
+      "summary": "前翅具一条暗线的尺蛾，停息融于树皮枯叶，夜间趋光，幼虫食树叶。",
+      "habitat_hint": "落叶阔叶林、杂木林、林缘。",
+      "finding_tips": "夜间在灯旁寻找前翅具一暗线的素色尺蛾，平展双翅停息。"
+    }
+  },
+  "Amblystomus quadriguttatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "つやのある黒い体に4つの淡い紋をもつ小さなゴモクムシの仲間。草地や畑の地面にすみ、夜に活動する。",
+      "habitat_hint": "草地、畑、河川敷、地表や石の下。",
+      "finding_tips": "地面や石の下で、つやのある黒地に淡い紋のある小さな甲虫を探します。夜に活動する。"
+    },
+    "en": {
+      "summary": "A small ground beetle, glossy black with four pale spots, living on grassland and field soil and active at night.",
+      "habitat_hint": "Grassland, fields, riverbanks, and ground under stones.",
+      "finding_tips": "On the ground and under stones look for a small glossy-black beetle with four pale spots; it is active at night."
+    },
+    "zh": {
+      "summary": "黑亮、具四浅斑的小型步甲，栖草地与农田地表，夜间活动。",
+      "habitat_hint": "草地、农田、河滩、地表与石下。",
+      "finding_tips": "在地面与石下寻找黑亮具四浅斑的小甲虫，夜间活动。"
+    }
+  },
+  "Bibio flavihalter": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "黒っぽい体のケバエの仲間。春に集団で現れ、ゆっくり飛ぶ。幼虫は土の中で腐った植物を食べ、土づくりに役立つ。",
+      "habitat_hint": "林縁、草地、畑、湿った腐植のある地面。",
+      "finding_tips": "春、林縁や草地でゆっくり群れ飛ぶ黒っぽいハエを探します。動きが遅く観察しやすい。"
+    },
+    "en": {
+      "summary": "A blackish March fly appearing in spring swarms and flying slowly; larvae feed on rotting plants in the soil and aid soil formation.",
+      "habitat_hint": "Woodland edges, grassland, fields, and damp humus-rich ground.",
+      "finding_tips": "In spring at edges and grassland watch for blackish flies drifting slowly in loose swarms."
+    },
+    "zh": {
+      "summary": "体偏黑的毛蚊类，春季成群缓飞，幼虫于土中食腐植助造土。",
+      "habitat_hint": "林缘、草地、农田、湿润腐植地面。",
+      "finding_tips": "春季在林缘草地寻找缓慢群飞的黑色蝇类，易于观察。"
+    }
   }
 }
