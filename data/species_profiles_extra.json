@@ -200352,5 +200352,500 @@
       "habitat_hint": "杂木林、林缘枯枝、采伐地。",
       "finding_tips": "细看枯枝落枝可见极小的细长甲虫，备放大镜更便。"
     }
+  },
+  "Lanius schach": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-tailed Shrike",
+    "aliases": {
+      "zh-Hans": "棕背伯劳"
+    },
+    "ja": {
+      "summary": "長い尾と黒い過眼線をもつ大型のモズ。背や腰が赤褐色で、開けた農地や草地の高みから獲物を見張る。",
+      "habitat_hint": "農耕地、草地、河川敷、低木のある開けた環境。",
+      "finding_tips": "杭や電線、低木のてっぺんにとまる尾の長いモズを探します。背の赤褐色と黒い顔の帯が目印。"
+    },
+    "en": {
+      "summary": "A large shrike with a long tail and black mask, rufous on the back and rump, watching for prey from perches in open farmland and grassland.",
+      "habitat_hint": "Farmland, grassland, riverbanks, and open ground with scattered shrubs.",
+      "finding_tips": "Look on posts, wires, and shrub tops for a long-tailed shrike; the rufous back and black facial mask are the marks."
+    },
+    "zh": {
+      "summary": "尾长、具黑色贯眼纹的大型伯劳，背腰棕红，于开阔农田草地高处守望猎物。",
+      "habitat_hint": "农田、草地、河滩、有灌木的开阔环境。",
+      "finding_tips": "在桩、电线或灌木顶端寻找长尾伯劳，棕红背与黑脸纹为识别点。"
+    }
+  },
+  "Aythya affinis": {
+    "sources": [
+      "eBird",
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lesser Scaup",
+    "aliases": {
+      "zh-Hans": "小潜鸭"
+    },
+    "ja": {
+      "summary": "北アメリカ産のスズガモに似た潜水ガモ。日本ではまれな冬鳥として記録される。頭に紫がかった光沢があり、頭頂がやや角ばる。",
+      "habitat_hint": "湖、池、河口、内湾などの開けた水面。",
+      "finding_tips": "スズガモの群れの中で、頭が角ばり紫色光沢のある個体を探します。識別は難しく、頭の形と光沢が手がかり。"
+    },
+    "en": {
+      "summary": "A North American diving duck resembling the Greater Scaup, recorded as a rare winter visitor to Japan; the head shows a purplish gloss and a slightly peaked crown.",
+      "habitat_hint": "Lakes, ponds, estuaries, and sheltered bays with open water.",
+      "finding_tips": "Within scaup flocks look for a bird with a peaked, purple-glossed head; identification is tricky and rests on head shape and gloss."
+    },
+    "zh": {
+      "summary": "北美的潜水鸭，似斑背潜鸭，在日本为罕见冬候鸟；头顶略尖、具紫色光泽。",
+      "habitat_hint": "湖泊、池塘、河口、内湾等开阔水面。",
+      "finding_tips": "在潜鸭群中寻找头形较尖、带紫色光泽的个体，识别较难，依头形与光泽判断。"
+    }
+  },
+  "Ypthima multistriata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "翅に蛇の目模様（眼状紋）をもつ茶色の小さなジャノメチョウ。草地をふわふわと低く飛び、裏面に細かい波状の筋がある。",
+      "habitat_hint": "草地、林縁、田畑のあぜ、明るい林の中。",
+      "finding_tips": "草地を弱々しく低く飛ぶ茶色のチョウを探します。後翅裏の眼状紋と細かい波模様が手がかり。"
+    },
+    "en": {
+      "summary": "A small brown satyr butterfly with eyespots, flitting low over grassland; the underside has fine wavy striations.",
+      "habitat_hint": "Grassland, woodland edges, field margins, and open forest.",
+      "finding_tips": "Watch for a brown butterfly drifting weakly low over grass; the hindwing eyespots and fine wavy underside lines are the clues."
+    },
+    "zh": {
+      "summary": "翅具眼状斑的褐色小型眼蝶，于草地低飞，翅反面有细密波纹。",
+      "habitat_hint": "草地、林缘、田埂、明亮林内。",
+      "finding_tips": "留意在草地低弱飞行的褐色蝶，后翅眼斑与细波纹为线索。"
+    }
+  },
+  "Jamides bochus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark Cerulean",
+    "ja": {
+      "summary": "オスの翅表が深い金属光沢の青色に輝くシジミチョウ。裏面は波状の白い筋がある。暖地でマメ科植物の花を利用する。",
+      "habitat_hint": "暖地の林縁、海岸林、マメ科植物の生える草地。",
+      "finding_tips": "暖地で、開くと鮮やかな金属青に光る小さなチョウを探します。裏面の波状の筋（ウラナミ）が名の由来。"
+    },
+    "en": {
+      "summary": "A lycaenid whose males flash deep metallic blue on the upperside, with wavy white lines beneath; uses legume flowers in warm regions.",
+      "habitat_hint": "Warm-region forest edges, coastal woodland, and legume-rich grassland.",
+      "finding_tips": "In warm areas look for a small butterfly that flashes brilliant metallic blue when open; the wavy underside lines give its Japanese name."
+    },
+    "zh": {
+      "summary": "雄翅面闪深金属蓝的灰蝶，翅反面具波状白纹，暖地利用豆科花。",
+      "habitat_hint": "暖地林缘、海岸林、富含豆科的草地。",
+      "finding_tips": "在暖地寻找开翅闪亮金属蓝的小蝶，翅反波纹为其和名由来。"
+    }
+  },
+  "Amblyeleotris japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "テッポウエビと同じ巣穴に暮らす共生のハゼ。エビが掘った穴を見張り、危険があると合図して一緒に隠れる。体に橙色の横帯がある。",
+      "habitat_hint": "内湾や沿岸の砂泥底、テッポウエビの巣穴のまわり。",
+      "finding_tips": "穏やかな砂泥底で、巣穴の入口にとまる橙色の横帯のハゼを探します。そばにテッポウエビがいることが多い。"
+    },
+    "en": {
+      "summary": "A goby that shares a burrow with a snapping shrimp, guarding the shrimp-dug hole and signalling danger so both retreat together; the body has orange bars.",
+      "habitat_hint": "Sandy-mud bottoms of sheltered bays and coasts, around snapping-shrimp burrows.",
+      "finding_tips": "On calm sandy mud look for an orange-barred goby poised at a burrow mouth; a snapping shrimp is usually nearby."
+    },
+    "zh": {
+      "summary": "与枪虾共居一穴的虾虎，守护虾掘的洞，遇险示警同避；体具橙色横带。",
+      "habitat_hint": "内湾与近岸砂泥底，枪虾洞穴周围。",
+      "finding_tips": "在平静砂泥底寻找守于洞口、具橙色横带的虾虎，旁常有枪虾。"
+    }
+  },
+  "Hexagrammos agrammus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spotty-bellied greenling",
+    "ja": {
+      "summary": "岩礁や藻場にすむアイナメに近い魚。体色は茶や緑がかり、岩や海藻に紛れる。沿岸の浅場でふつうに見られる。",
+      "habitat_hint": "沿岸の岩礁、藻場、防波堤のまわり。",
+      "finding_tips": "浅い岩礁や藻場で、岩肌に紛れる茶緑色の細長い魚を探します。胸びれを使って岩の上にのることが多い。"
+    },
+    "en": {
+      "summary": "A coastal greenling related to the fat greenling, brownish-green and blending with rock and weed; common in shallow inshore waters.",
+      "habitat_hint": "Inshore reefs, seaweed beds, and around breakwaters.",
+      "finding_tips": "Over shallow reef and weed look for a brown-green elongate fish blending with the rock; it often rests on stone using its pectoral fins."
+    },
+    "zh": {
+      "summary": "栖岩礁与藻场、近于黄六线鱼的鱼，体褐绿融于岩藻，近岸浅水常见。",
+      "habitat_hint": "近岸岩礁、藻场、防波堤周围。",
+      "finding_tips": "在浅岩礁与藻场寻找融于岩色的褐绿细长鱼，常以胸鳍伏于石上。"
+    }
+  },
+  "Sympetrum uniforme": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "全身が明るい黄褐色〜橙色の大型のアカトンボ。秋に成熟し、平地のため池に集まる。近年減少が著しい。",
+      "habitat_hint": "平地の浅いため池、水生植物の豊かな止水。",
+      "finding_tips": "秋、ため池のまわりで大きくて黄色っぽいアカトンボを探します。他のアカネ類より大きく明るい体色が手がかり。"
+    },
+    "en": {
+      "summary": "A large darter dragonfly of bright yellow-brown to orange, maturing in autumn and gathering at lowland ponds; sharply declining in recent years.",
+      "habitat_hint": "Shallow lowland reservoirs and still water rich in aquatic plants.",
+      "finding_tips": "In autumn around ponds look for a large, yellowish darter; its size and bright colour separate it from other darters."
+    },
+    "zh": {
+      "summary": "全身亮黄褐至橙色的大型赤蜻，秋季成熟，聚于平地池塘，近年明显减少。",
+      "habitat_hint": "平地浅水蓄水池、水生植物丰富的静水。",
+      "finding_tips": "秋季在池塘周围寻找体大偏黄的赤蜻，体大色亮可与其他赤蜻区分。"
+    }
+  },
+  "Eudocima salaminia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "前翅が鮮やかな緑色の大型のガ。とがった口で果実に穴をあけて汁を吸う。後翅は橙色で黒い紋がある。暖地にすむ。",
+      "habitat_hint": "暖地の樹林、果樹園周辺、林縁。",
+      "finding_tips": "夜、灯火や熟した果実のまわりで前翅が緑色の大きな蛾を探します。飛ぶと後翅の橙色が見える。"
+    },
+    "en": {
+      "summary": "A large moth with bright green forewings that pierces fruit with its stout proboscis to drink juice; the hindwings are orange with black marks. A warm-region species.",
+      "habitat_hint": "Warm-region woodland, orchard surrounds, and forest edges.",
+      "finding_tips": "At night near lights or ripe fruit look for a large moth with green forewings; in flight the orange hindwings show."
+    },
+    "zh": {
+      "summary": "前翅鲜绿的大型蛾，以粗喙刺果吸汁，后翅橙色具黑斑，栖暖地。",
+      "habitat_hint": "暖地林地、果园周边、林缘。",
+      "finding_tips": "夜间在灯下或熟果旁寻找前翅绿色的大蛾，飞行时露出橙色后翅。"
+    }
+  },
+  "Euproctis staudingeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "淡黄色のドクガの仲間。幼虫・成虫ともに毒針毛をもつものが多く、触れるとかぶれることがある。夜に灯火へ集まる。",
+      "habitat_hint": "雑木林、林縁、公園の樹林、人家周辺。",
+      "finding_tips": "夏の夜、灯火で淡黄色の小さなドクガを探します。素手で触れないよう注意。幼虫の毛にも毒がある。"
+    },
+    "en": {
+      "summary": "A pale-yellow tussock moth; many life stages bear urticating hairs that can cause a rash, so avoid handling. Comes to lights at night.",
+      "habitat_hint": "Coppice woodland, edges, park groves, and around houses.",
+      "finding_tips": "On summer nights look at lights for a small pale-yellow tussock moth; do not touch it, as the hairs (and the larvae) can sting."
+    },
+    "zh": {
+      "summary": "淡黄色的毒蛾，多数虫态具毒毛、触之可致皮疹，勿徒手接触，夜间趋光。",
+      "habitat_hint": "杂木林、林缘、公园林地、住宅周边。",
+      "finding_tips": "夏夜在灯下寻找淡黄色小毒蛾，切勿徒手触碰，幼虫毛亦有毒。"
+    }
+  },
+  "Tremex longicollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "弱った木の幹に産卵管を刺して産卵するキバチの仲間。幼虫は材を食べて育つ。腹端の短い突起が「キバ」の名の由来。",
+      "habitat_hint": "雑木林、伐採地、弱った広葉樹の立木。",
+      "finding_tips": "夏、立ち枯れや弱った木の幹で、太い体のハチが産卵管を刺している様子を探します。刺すことはほとんどない。"
+    },
+    "en": {
+      "summary": "A horntail wood wasp that drills into weakened tree trunks with its ovipositor to lay eggs; the larvae bore in wood. The short abdominal horn gives it its name.",
+      "habitat_hint": "Coppice woodland, clearings, and standing weakened broadleaf trees.",
+      "finding_tips": "In summer on dying or weakened trunks look for a stout wasp inserting its ovipositor; it rarely stings."
+    },
+    "zh": {
+      "summary": "以产卵管刺入衰弱树干产卵的树蜂，幼虫蛀木，腹端短突为其名由来。",
+      "habitat_hint": "杂木林、采伐地、衰弱的阔叶立木。",
+      "finding_tips": "夏季在枯立或衰弱树干寻找以产卵管刺入的粗壮蜂，几乎不蜇人。"
+    }
+  },
+  "Illiberis pruni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "黒っぽく半透明の翅をもつ昼に飛ぶマダラガの仲間。幼虫はバラ科の葉を食べ、果樹の害虫になることがある。",
+      "habitat_hint": "果樹園、雑木林、バラ科植物のある林縁。",
+      "finding_tips": "初夏の昼、葉の上や花でゆっくり飛ぶ黒っぽい細身の蛾を探します。半透明の翅が手がかり。"
+    },
+    "en": {
+      "summary": "A day-flying burnet relative with blackish, semi-transparent wings; larvae feed on rose-family leaves and can be an orchard pest.",
+      "habitat_hint": "Orchards, coppice woodland, and edges with rose-family plants.",
+      "finding_tips": "On early-summer days look for a slim blackish moth flying slowly over leaves and flowers; the semi-transparent wings are the clue."
+    },
+    "zh": {
+      "summary": "昼飞的斑蛾类，翅黑而半透明，幼虫食蔷薇科叶，或为果树害虫。",
+      "habitat_hint": "果园、杂木林、有蔷薇科植物的林缘。",
+      "finding_tips": "初夏白昼在叶花间寻找缓飞的黑色细蛾，半透明翅为线索。"
+    }
+  },
+  "Camponotus hemichlaena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "胸が赤褐色の大型のオオアリの仲間。枯れ木や朽ち木に巣をつくり、夜によく活動する。",
+      "habitat_hint": "雑木林、林縁の朽ち木、樹幹。",
+      "finding_tips": "朽ち木や樹幹を歩く、胸の赤い大きなアリを探します。夜間に活動が活発になる。"
+    },
+    "en": {
+      "summary": "A large carpenter ant with a reddish thorax, nesting in dead and rotting wood and active mainly at night.",
+      "habitat_hint": "Coppice woodland, edge deadwood, and tree trunks.",
+      "finding_tips": "Look for a large ant with a red thorax walking on rotting wood or trunks; it is most active after dark."
+    },
+    "zh": {
+      "summary": "胸部红褐的大型弓背蚁，于枯木朽木筑巢，多夜间活动。",
+      "habitat_hint": "杂木林、林缘朽木、树干。",
+      "finding_tips": "寻找在朽木或树干上爬行、胸部红色的大蚁，夜间更活跃。"
+    }
+  },
+  "Colletes esakii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "地中に巣を掘る単独性のハナバチ。巣穴の内側をセロハンのような膜で裏打ちする習性がある。特定の花を訪れる。",
+      "habitat_hint": "日当たりのよい裸地、土の斜面、花の多い草地。",
+      "finding_tips": "春〜初夏、地面の小さな穴に出入りするハナバチや、花で花粉を集める姿を探します。"
+    },
+    "en": {
+      "summary": "A solitary bee that digs nests in the ground and lines the cells with a cellophane-like membrane; it visits particular flowers.",
+      "habitat_hint": "Sunny bare ground, earthen slopes, and flower-rich grassland.",
+      "finding_tips": "From spring to early summer watch for bees entering small ground holes or gathering pollen at flowers."
+    },
+    "zh": {
+      "summary": "在地下掘巢的独居蜂，以似玻璃纸的膜衬巢室，访特定花。",
+      "habitat_hint": "向阳裸地、土坡、多花草地。",
+      "finding_tips": "春至初夏留意出入地面小孔的蜂，或在花上采粉的身影。"
+    }
+  },
+  "Eumorphus quadriguttatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "黒い体に4つの橙色の紋をもつテントウダマシの仲間。朽ち木のキノコや菌類を食べ、湿った林にすむ。",
+      "habitat_hint": "暖地の樹林、朽ち木、キノコの生える湿った環境。",
+      "finding_tips": "朽ち木やキノコの上で、黒地に橙色の紋がある丸い甲虫を探します。テントウムシに似るが別の仲間。"
+    },
+    "en": {
+      "summary": "A pleasing fungus beetle, black with four orange spots, feeding on fungi on rotting wood in damp forest.",
+      "habitat_hint": "Warm-region woodland, rotting wood, and damp fungus-rich places.",
+      "finding_tips": "On rotting wood and fungi look for a rounded black beetle with orange spots; it resembles a ladybird but is a different family."
+    },
+    "zh": {
+      "summary": "黑体具四橙斑的伪瓢虫，取食朽木上的真菌，栖湿润林。",
+      "habitat_hint": "暖地林地、朽木、生菇的湿润环境。",
+      "finding_tips": "在朽木与真菌上寻找黑底橙斑的圆甲虫，似瓢虫而属不同类群。"
+    }
+  },
+  "Ishiharanus iguchii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "丸っこい体に黄色い斑点をもつ小さなウンカの仲間。草や低木の上にいて、跳ねて移動する。",
+      "habitat_hint": "草地、林縁の低木、明るい林の下草。",
+      "finding_tips": "草や低木の葉の上で、黄色い斑のある丸い小さな虫を探します。近づくと跳ねて逃げる。"
+    },
+    "en": {
+      "summary": "A small rounded planthopper with yellow spots, living on grasses and shrubs and moving by hopping.",
+      "habitat_hint": "Grassland, edge shrubs, and undergrowth in open woodland.",
+      "finding_tips": "On grass and shrub leaves look for a small rounded insect with yellow spots; it hops away when approached."
+    },
+    "zh": {
+      "summary": "体圆、具黄斑的小型飞虱，栖草与灌木，以跳跃移动。",
+      "habitat_hint": "草地、林缘灌木、明亮林下层。",
+      "finding_tips": "在草与灌木叶上寻找具黄斑的圆形小虫，近之即跳走。"
+    }
+  },
+  "Anaplecta japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "落ち葉の下にすむごく小さなゴキブリの仲間。屋内のゴキブリと違い森林性で、つやのある体に淡い模様がある。",
+      "habitat_hint": "雑木林・照葉樹林の林床、落ち葉だまり、朽ち木。",
+      "finding_tips": "湿った林床で落ち葉をめくると、すばやく動く小さなつやのある虫が見つかります。森にすむおとなしい種。"
+    },
+    "en": {
+      "summary": "A very small forest cockroach of leaf litter, unlike household pests; the glossy body has pale markings.",
+      "habitat_hint": "Coppice and laurel forest floor, leaf litter, and rotting wood.",
+      "finding_tips": "On damp forest floor lift litter to find small glossy insects darting away; this is a harmless woodland species."
+    },
+    "zh": {
+      "summary": "栖落叶下的极小森林蜚蠊，不同于室内害虫，体具光泽与淡纹。",
+      "habitat_hint": "杂木林与照叶林床、落叶堆、朽木。",
+      "finding_tips": "在潮湿林床翻落叶可见疾走的光泽小虫，为林栖无害种。"
+    }
+  },
+  "Dicharax japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ふたをもつごく小さな陸貝。湿った石灰岩地や林床の落ち葉の下にすみ、殻は数ミリと小さい。",
+      "habitat_hint": "石灰岩地、湿った林床、落ち葉だまり、石の下。",
+      "finding_tips": "湿った林床や石灰岩地で落ち葉や土をふるい、ごく小さな殻を探します。ルーペがあると見つけやすい。"
+    },
+    "en": {
+      "summary": "A tiny operculate land snail living under leaf litter and on damp limestone; the shell is only a few millimetres.",
+      "habitat_hint": "Limestone areas, damp forest floor, leaf litter, and under stones.",
+      "finding_tips": "On damp ground or limestone sift litter and soil for a very small shell; a hand lens makes it easier."
+    },
+    "zh": {
+      "summary": "具厣的极小陆贝，栖湿润石灰岩与林床落叶下，壳仅数毫米。",
+      "habitat_hint": "石灰岩地、湿润林床、落叶堆、石下。",
+      "finding_tips": "在潮湿地或石灰岩处筛检落叶与土寻找极小壳，备放大镜更易。"
+    }
+  },
+  "Amphitrogia amphidecta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "前翅に白い点をもつ暗色のアツバの仲間のガ。夜に灯火へ集まり、林縁や下草の間を飛ぶ。",
+      "habitat_hint": "雑木林、林縁、下草の茂る環境。",
+      "finding_tips": "夏の夜、灯火で前翅に白点のある暗色の小さな蛾を探します。白点が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A dark litter moth with white forewing spots, coming to lights at night and flying among edge undergrowth.",
+      "habitat_hint": "Coppice woodland, edges, and grassy undergrowth.",
+      "finding_tips": "On summer nights look at lights for a dark moth with white forewing spots, which are the key mark."
+    },
+    "zh": {
+      "summary": "前翅具白点的暗色目夜蛾，夜间趋光，飞于林缘草丛。",
+      "habitat_hint": "杂木林、林缘、多草下层。",
+      "finding_tips": "夏夜在灯下寻找前翅具白点的暗色小蛾，白点为识别线索。"
+    }
+  },
+  "Tristrophis veneris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "翅の後ろが尾状にのびるエダシャクの仲間のガ。ツバメのような翅形で、夜に灯火に来る。幼虫は樹木の葉を食べる。",
+      "habitat_hint": "落葉広葉樹林、雑木林、林縁。",
+      "finding_tips": "夜、灯火近くで後翅が尾状にのびた形の蛾を探します。ツバメを思わせる翅の形が手がかり。"
+    },
+    "en": {
+      "summary": "A geometrid moth with tail-like hindwing extensions giving a swallow-like shape; comes to lights at night, larvae feeding on tree leaves.",
+      "habitat_hint": "Deciduous and coppice woodland and edges.",
+      "finding_tips": "At night near lights look for a moth with tailed hindwings; the swallow-like wing shape is the clue."
+    },
+    "zh": {
+      "summary": "后翅延伸成尾突的尺蛾，翅形似燕，夜间趋光，幼虫食树叶。",
+      "habitat_hint": "落叶阔叶林、杂木林、林缘。",
+      "finding_tips": "夜间在灯旁寻找后翅具尾突的蛾，似燕翅形为线索。"
+    }
+  },
+  "Phalera takasagoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "とまると枯れ枝の折れ口のように見えるシャチホコガの仲間。前翅の先に淡い紋があり、夜に灯火へ集まる。",
+      "habitat_hint": "雑木林、落葉広葉樹林、林縁。",
+      "finding_tips": "夜、灯火近くの幹や壁で、枯れ枝の切り口のように見える筒状の蛾を探します。"
+    },
+    "en": {
+      "summary": "A prominent moth that resembles a broken twig stub at rest, with a pale forewing tip; comes to lights at night.",
+      "habitat_hint": "Coppice and deciduous woodland and edges.",
+      "finding_tips": "At night near lights check trunks and walls for a tube-like moth resembling the broken end of a twig."
+    },
+    "zh": {
+      "summary": "停息时形似断枝切口的舟蛾，前翅尖具淡斑，夜间趋光。",
+      "habitat_hint": "杂木林、落叶阔叶林、林缘。",
+      "finding_tips": "夜间在灯旁树干或墙面寻找似断枝切口的筒状蛾。"
+    }
+  },
+  "Potamomusa midas": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "幼虫が水中で育つ水生のメイガの仲間。前翅に黄色い帯があり、成虫は水辺で見られ夜に灯火へ集まる。",
+      "habitat_hint": "川、用水路、池などの水辺とその周辺。",
+      "finding_tips": "水辺の灯火で前翅に黄帯のある小さな蛾を探します。幼虫は水中の石などにすむ。"
+    },
+    "en": {
+      "summary": "An aquatic crambid moth whose larvae develop underwater; the adult has a yellow forewing band and is found by water, coming to lights at night.",
+      "habitat_hint": "Rivers, channels, ponds, and their margins.",
+      "finding_tips": "At waterside lights look for a small moth with a yellow forewing band; the larvae live underwater on stones."
+    },
+    "zh": {
+      "summary": "幼虫水中发育的水螟，成虫前翅具黄带，见于水边，夜间趋光。",
+      "habitat_hint": "河流、沟渠、池塘及其岸边。",
+      "finding_tips": "在水边灯下寻找前翅具黄带的小蛾，幼虫栖于水中石上。"
+    }
+  },
+  "Bertula bistrigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "前翅に2本の筋をもつ地味なアツバの仲間のガ。林の下草の間を飛び、夜に灯火に来る。幼虫は枯葉を食べる。",
+      "habitat_hint": "雑木林、林縁、下草の茂る林床。",
+      "finding_tips": "夏の夜、灯火で前翅に2本の横線が走る茶色の小さな蛾を探します。2本の筋が名と識別の手がかり。"
+    },
+    "en": {
+      "summary": "A plain litter moth with two lines across the forewing, flying among woodland undergrowth and coming to lights at night; larvae feed on dead leaves.",
+      "habitat_hint": "Coppice woodland, edges, and grassy forest floor.",
+      "finding_tips": "On summer nights look at lights for a small brown moth with two forewing cross-lines, which name and identify it."
+    },
+    "zh": {
+      "summary": "前翅具两条横线的素色目夜蛾，飞于林下草间，夜间趋光，幼虫食枯叶。",
+      "habitat_hint": "杂木林、林缘、多草林床。",
+      "finding_tips": "夏夜在灯下寻找前翅两横线的褐色小蛾，两线为名与识别线索。"
+    }
+  },
+  "Duliophyle majuscularia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "茶褐色の大型のエダシャクの仲間。翅を平らに広げてとまり、枯葉に紛れる。夜に灯火へ集まる。",
+      "habitat_hint": "落葉広葉樹林、雑木林、林縁。",
+      "finding_tips": "夜、灯火近くで翅を平らに開いた大きな茶色のシャクガを探します。枯葉のような色と模様が手がかり。"
+    },
+    "en": {
+      "summary": "A large brown geometrid that rests with wings spread flat and blends with dead leaves; comes to lights at night.",
+      "habitat_hint": "Deciduous and coppice woodland and edges.",
+      "finding_tips": "At night near lights look for a large brown geometrid with wings spread flat; the dead-leaf colour is the clue."
+    },
+    "zh": {
+      "summary": "褐色大型尺蛾，平展双翅停息，融于枯叶，夜间趋光。",
+      "habitat_hint": "落叶阔叶林、杂木林、林缘。",
+      "finding_tips": "夜间在灯旁寻找平展双翅的褐色大尺蛾，枯叶色泽为线索。"
+    }
   }
 }
