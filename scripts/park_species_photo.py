@@ -297,6 +297,12 @@ def main() -> int:
 
     obs_cache: dict[int, list[dict]] = {}
     gbif_cache: dict[int, dict[str, list[dict]]] = {}  # park_id -> binomial idx
+    # A single GBIF occurrence image can be indexed under several binomials
+    # (e.g. a smut fungus + its host plant, or co-surveyed fish), which would
+    # attach ONE photo to multiple species. Guarantee a URL is never reused
+    # across different species: first species (by p.id, s.id order) to claim a
+    # URL owns it; later species skip it. Same species across parks may reuse.
+    url_owner: dict[str, int] = {}
     tier0_pairs = tier1_pairs = empty_pairs = 0
     photos_inserted = 0
     gbif_contrib = inat_contrib = 0
@@ -317,6 +323,12 @@ def main() -> int:
                 cands.extend(candidates_for_pair(r["lat"], r["lon"], obs_cache[tid]))
             cands.sort(key=lambda c: (c["tier"], c["dist"]))
             picks = pick_with_diversity(cands, MAX_PHOTOS)
+            # never reuse a URL across different species (see url_owner above)
+            sid = r["species_id"]
+            picks = [p for p in picks
+                     if url_owner.get(p["url"], sid) == sid]
+            for p in picks:
+                url_owner.setdefault(p["url"], sid)
             for p in picks:
                 if p.get("source") == "GBIF":
                     gbif_contrib += 1
