@@ -90,7 +90,7 @@ const UI = {
     sort:'並び順', sortFreq:'記録数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致`,
     showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示`,
-    viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る' },
+    viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る', locate:'現在地に移動' },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
@@ -98,7 +98,7 @@ const UI = {
     sort:'Sort', sortFreq:'Record count (high→low)', sortName:'Name', sortSci:'Scientific A→Z',
     month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched`,
     showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining`,
-    viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks' },
+    viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks', locate:'My location' },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
@@ -106,7 +106,7 @@ const UI = {
     sort:'排序', sortFreq:'记录数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合`,
     showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种`,
-    viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园' },
+    viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园', locate:'我的位置' },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
@@ -114,7 +114,7 @@ const UI = {
     sort:'排序', sortFreq:'記錄數（多→少）', sortName:'名稱', sortSci:'學名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合`,
     showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種`,
-    viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園' },
+    viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園', locate:'我的位置' },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -133,6 +133,9 @@ let allParks = [];        // cached light park index for the map filter
 let groupShown = {};      // group -> how many cards currently expanded (pagination)
 const GROUP_CAP = 48;     // initial cards per group before "show more"
 let speciesFilter = null; // {ids:Set<parkId>, name} when showing one species' parks on the map
+let userLayer = null;     // Leaflet layer for the user's location dot + accuracy circle
+let locateControl = null; // the "my location" map button
+let locating = false;     // guard against overlapping geolocation requests
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -159,6 +162,7 @@ async function loadParks() {
   allParks = await dataParks();
   renderMarkers();
   addParkingControl();
+  addLocateControl();
 }
 function renderMarkers() {
   cluster.clearLayers();
@@ -209,6 +213,80 @@ function addParkingControl() {
     } });
   parkingControl = new C();
   map.addControl(parkingControl);
+}
+
+// ---- geolocation (auto-locate on first load + "my location" button) ---------
+const isProbablyJapan = (lat, lon) => lat >= 24 && lat <= 46 && lon >= 122 && lon <= 154;
+function distanceKm(lat1, lon1, lat2, lon2) {
+  const toRad = (d) => d * Math.PI / 180, R = 6371;
+  const dLat = toRad(lat2 - lat1), dLon = toRad(lon2 - lon1);
+  const a = Math.sin(dLat / 2) ** 2 +
+            Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(a));
+}
+function nearestPark(lat, lon) {
+  let best = null, bestKm = Infinity;
+  for (const p of allParks) {
+    if (p.lat == null || p.lon == null) continue;
+    const km = distanceKm(lat, lon, p.lat, p.lon);
+    if (km < bestKm) { bestKm = km; best = p; }
+  }
+  return best ? { park: best, km: bestKm } : null;
+}
+function showUserLocation(lat, lon, acc) {
+  if (!userLayer) userLayer = L.layerGroup().addTo(map);
+  userLayer.clearLayers();
+  if (acc) L.circle([lat, lon], { radius: acc, color: '#1a73e8', weight: 1,
+    fillColor: '#1a73e8', fillOpacity: .12, interactive: false }).addTo(userLayer);
+  L.circleMarker([lat, lon], { radius: 7, color: '#fff', weight: 2,
+    fillColor: '#1a73e8', fillOpacity: 1 }).addTo(userLayer)
+    .bindTooltip(UI[lang].locate, { direction: 'top' });
+}
+function geolocate(onOk, onFail) {
+  if (!navigator.geolocation || !window.isSecureContext) { if (onFail) onFail(); return; }
+  navigator.geolocation.getCurrentPosition(
+    (pos) => onOk(pos.coords.latitude, pos.coords.longitude, pos.coords.accuracy),
+    () => { if (onFail) onFail(); },
+    { enableHighAccuracy: true, timeout: 8000, maximumAge: 300000 });
+}
+function setLocateState(s) {  // '' | 'busy' | 'err'
+  const b = $('locateBtn'); if (!b) return;
+  b.classList.remove('busy', 'err'); if (s) b.classList.add(s);
+}
+function locateMe() {                       // the "return to my location" button
+  if (locating) return;
+  locating = true; setLocateState('busy');
+  geolocate((lat, lon, acc) => {
+    locating = false; setLocateState('');
+    showUserLocation(lat, lon, acc);
+    map.flyTo([lat, lon], Math.max(map.getZoom(), 13), { duration: .6 });
+  }, () => { locating = false; setLocateState('err'); });
+}
+function autoLocate() {                      // silent recommend-nearest on first load
+  geolocate((lat, lon, acc) => {
+    if (curPark || location.hash) return;    // user already navigated meanwhile
+    if (!isProbablyJapan(lat, lon)) return;
+    showUserLocation(lat, lon, acc);
+    map.setView([lat, lon], 12);
+    const near = nearestPark(lat, lon);
+    if (near && near.km <= 30) openPark(near.park.id, false);
+  });
+}
+function addLocateControl() {
+  if (locateControl) return;
+  const C = L.Control.extend({ options: { position: 'topleft' },
+    onAdd() {
+      const bar = L.DomUtil.create('div', 'leaflet-bar');
+      const el = L.DomUtil.create('a', 'map-locate', bar);
+      el.href = '#'; el.id = 'locateBtn'; el.innerHTML = '◎';
+      el.title = UI[lang].locate;
+      el.setAttribute('role', 'button'); el.setAttribute('aria-label', UI[lang].locate);
+      L.DomEvent.on(el, 'click', (e) => { L.DomEvent.stop(e); locateMe(); });
+      L.DomEvent.disableClickPropagation(bar);
+      return bar;
+    } });
+  locateControl = new C();
+  map.addControl(locateControl);
 }
 
 // ---- deep-linking (shareable #park/<id> · #species/<id> + back/forward) ------
@@ -386,6 +464,7 @@ function setLang(l) {
   document.documentElement.lang = l === 'zhT' ? 'zh-Hant' : l;
   renderChrome();
   if (map) addParkingControl();  // its label is language-dependent
+  { const lb = $('locateBtn'); if (lb) { lb.title = UI[lang].locate; lb.setAttribute('aria-label', UI[lang].locate); } }
   if (modalSpecies) renderModal();
   if (curPark) renderPark(); else $('ph').innerHTML = UI[lang].placeholder;
   if (speciesFilter) {  // refresh the reverse-view banner in the new language
@@ -418,6 +497,6 @@ window.App = App;
   window.addEventListener('hashchange', applyHash);  // back/forward + manual edits (pushState doesn't fire this)
   initMap();
   loadParks()
-    .then(() => applyHash())  // open a shared #park/#species link on first load
+    .then(() => { applyHash(); if (!location.hash) autoLocate(); })  // shared link, else auto-locate
     .catch(err => { $('ph').innerHTML = 'load error: ' + esc(err.message); });
 })();
