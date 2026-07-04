@@ -45,6 +45,7 @@ All Python work runs in the project venv (`Python 3.13`):
 .venv/bin/python -m scripts.repair_kingdoms          # taxon_group → kingdom backfill
 .venv/bin/python -m scripts.backfill_observations    # link observation.species_id
 .venv/bin/python -m scripts.dedupe                   # rebuild park_species (deduped per pair)
+.venv/bin/python -m scripts.backfill_display_gaps    # card polish: common_name_ja from kana alias (collision-guarded) + photo_url from park-local photo; --dry-run
 
 # autonomous queue (no Claude required)
 .venv/bin/python -m scripts.run_pending              # process data/run_queue.txt under fcntl lock
