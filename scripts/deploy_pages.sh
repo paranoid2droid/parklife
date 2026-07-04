@@ -45,8 +45,8 @@ unset GIT_INDEX_FILE
 rm -f "$TMPIDX"
 
 NFILES="$(find "$SITE" -type f | wc -l | tr -d ' ')"
-echo "→ built orphan commit $COMMIT ($NFILES files)"
-echo "→ force-pushing to $REMOTE $BRANCH…"
+echo "-> built orphan commit $COMMIT ($NFILES files)"
+echo "-> force-pushing $COMMIT to ${REMOTE}/${BRANCH} ..."
 git push -f "$REMOTE" "$COMMIT:refs/heads/$BRANCH"
 
 echo
