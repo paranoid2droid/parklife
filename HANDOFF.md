@@ -24,6 +24,13 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
+**🎉 2026-07-04 (Claude) — PRODUCTIZATION P2: STATIC-EXPORT STACK (免费上线 + 秒开 + 零服务器). Built + fully Chrome-verified; NOT yet deployed (deploy needs the user).** This resolves the P1 tension: P1's thin-client was fast but needed a running Python server (Docker/fly.io); the old demo was free (GitHub Pages) but shipped a 71 MB blob (~12 MB gzip first paint). P2 pre-bakes the API's access pattern into **static JSON shards** any dumb host serves — free like Pages, fast like the API, no server.
+- **What/where:** `scripts/export_static.py` → **`site/`** (gitignored). Reuses `parklife/api.py` for identical shapes. **5,046 files:** `data/parks.json` (index) · `parks/<id>.json` (3,190) · `park-photos/<id>.json` (821) · `species/<bucket>.json` + `species-parks/<bucket>.json` (512 each, bucketed by `id % 512` to stay under Cloudflare's 20k-file cap) · `search-index.json` · `meta.json`. Build: `.venv/bin/python -m scripts.export_static` (~70 s).
+- **Client:** `webapp/app.js` converted from `/api/*` fetch to static shards (new `getJSON`+`data*` layer + `SPECIES_BUCKETS=512` — **MUST match** exporter `BUCKETS`). Search reimplemented client-side over `search-index.json`. `sw.js` SHELL made **relative** + data rule `/api/`→`/data/` (the old absolute `/index.html` 404'd under GitHub Pages' `/<repo>/` subpath — real bug, fixed). `manifest` already relative.
+- **Verified in real Chrome:** the *existing* `webapp/e2e_test.py` passes **unchanged** against the static site (`BASE=http://127.0.0.1:8091/`, all features, 0 console errors) + extra checks (client search サクラ→18 cards, and a `/parklife/` subpath load) PASS. **First paint 137 KB gz** (was ~12 MB); park click ≤45 KB; species open ≤25 KB; search-index 821 KB (once).
+- **Deploy (written, NOT run — needs user):** `scripts/deploy_pages.sh` publishes `site/` as an **orphan** commit force-pushed to `gh-pages` (throwaway index → main's tree/index untouched; parentless → no history accumulation → git-slim stays permanent). Plumbing validated on a throwaway dir. Ran `git gc --prune=now` → local **`.git` 128M→30M** (unreachable cruft only; history intact).
+- **➡️ NEXT (all need the user):** (1) run `scripts/deploy_pages.sh` + one-time set GitHub Pages source to `gh-pages` branch/root; (2) THEN `git rm --cached docs/parklife-data.json` (+ retire the whole `docs/` demo) = permanent git-slim, since the static site supersedes it. `serve_api`/`webapp/` + `Dockerfile`/`fly.toml` still work as dev/reference but are no longer the deploy path.
+
 **🎉 2026-06-27 (Claude) — PRODUCTIZATION P1 COMPLETE + git-slim done. The new thin-client stack is production-ready; the legacy 69 MB-blob demo is now superseded (kept live only until the user deploys).** One session delivered, all verified in Chrome (committed regression suite `webapp/e2e_test.py`, 0 console errors), all pushed to main:
 - **Stack:** `webapp/` SPA (Leaflet + MarkerCluster) + stdlib read-only API (`parklife/api.py` + `scripts/serve_api.py`) serving data on demand from the DB. Run: `.venv/bin/python -m scripts.serve_api` → <http://127.0.0.1:8787/>.
 - **Features:** map clusters · park panel w/ sort+month+group-toggle · species modal (4-lang profile + photo gallery + park-local photos) · parking filter · "show more" pagination · **species→map reverse view** · **URL deep-linking** (`#park/`/`#species/`, shareable + back/forward) · ja/en/zh/zhT.
@@ -137,6 +144,13 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 - **Cheap feasibility probes to run first:** (a) iNat photo license distribution (how many survive a commercial filter); (b) 国土数値情報 都市公園 schema check.
 
 ## Recent sessions
+
+### 2026-07-04 (Claude) — 🚀 productization P2: static-export stack (free static hosting, ~137 KB first paint, no server)
+- **New `scripts/export_static.py` → `site/`** (gitignored, 5,046 files): reuses `parklife/api.py` shapes; `parks.json`+`parks/<id>.json`+`park-photos/<id>.json`, species detail & species→park-ids **bucketed `id % 512`** (`species/`, `species-parks/`), `search-index.json`, `meta.json`. Build ~70 s.
+- **`webapp/app.js`** switched from `/api/*` to static shards (new `getJSON`/`data*` layer, `SPECIES_BUCKETS=512` must match exporter). Client-side search over `search-index.json`. **`sw.js` SHELL → relative + `/api/`→`/data/`** (fixed a real subpath 404 bug: absolute `/index.html` breaks on GitHub Pages' `/<repo>/`).
+- **Chrome-verified:** existing `webapp/e2e_test.py` passes **unchanged** vs the static site + extra search/subpath checks, 0 console errors. First paint **~12 MB→137 KB gz**; park click ≤45 KB; species open ≤25 KB.
+- **`scripts/deploy_pages.sh`** (orphan `gh-pages` force-push, throwaway index → main untouched; **NOT run** — deploy needs the user). Plumbing validated; `git gc` reclaimed local `.git` 128M→30M.
+- **NEXT (user):** run the deploy + set Pages source to `gh-pages`; then `git rm --cached docs/parklife-data.json` + retire `docs/` = permanent git-slim. `serve_api`/`Dockerfile`/`fly.toml` demoted to dev/reference.
 
 ### 2026-06-29 (Claude/Opus) — 🧹 data-quality audit & remediation (wrong photos / dup species / placeholder names)
 - Full read-only scan (`/tmp/dq_audit.py` → `data/audit/findings_20260629.md`) + remediation report `data/audit/REPORT_20260629.md`. DB backup `data/parklife.db.bak_pre_dq_audit_20260629`. **No git push.**

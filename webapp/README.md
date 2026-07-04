@@ -1,9 +1,17 @@
 # webapp — thin-client SPA
 
-A lightweight single-page app that fetches park/species data **on demand** from
-the read-only API (`scripts/serve_api.py`) instead of downloading the whole
-69 MB `docs/parklife-data.json`. This is the productization P1 front-end that
+A lightweight single-page app that fetches park/species data **on demand** —
+either from static JSON shards (the deploy path) or the read-only API
+(`scripts/serve_api.py`, for local dev) — instead of downloading the whole
+71 MB `docs/parklife-data.json`. This is the productization front-end that
 makes the git-slim possible: the big blob no longer needs to ship to the browser.
+
+> **Deploy path (P2, recommended): static shards, no server.** `app.js` fetches
+> `./data/*.json` produced by `scripts/export_static.py` → `site/`. Any static
+> host works (GitHub Pages / Cloudflare Pages); `scripts/deploy_pages.sh` pushes
+> `site/` to an orphan `gh-pages` branch. Preview: `cd site && python -m http.server 8091`.
+> The `serve_api` flow below still works (its `/api/*` endpoints just go unused
+> by the shipped client) and remains handy as a live-DB dev server.
 
 ## Run (one command serves both API + app, same origin)
 

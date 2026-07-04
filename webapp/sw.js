@@ -2,14 +2,17 @@
  *
  * - App shell (same-origin HTML/JS/manifest/icon): cache-first with a background
  *   refresh → instant loads, works offline.
- * - /api/* : network-first with cache fallback → fresh data when online, last
+ * - data/* : network-first with cache fallback → fresh data when online, last
  *   known data when offline.
  * - Cross-origin (Leaflet from unpkg, map tiles): not intercepted; the browser
  *   handles them normally (tiles would bloat the cache).
+ *
+ * All shell paths are RELATIVE so the SW works whether the site is served from
+ * the origin root or a subpath (GitHub Pages project sites live at /<repo>/).
  */
-const VERSION = 'parklife-v2';
-const SHELL = ['/', '/index.html', '/app.js', '/manifest.webmanifest',
-               '/icon.svg', '/icon-192.png', '/icon-512.png'];
+const VERSION = 'parklife-v3';
+const SHELL = ['./', './index.html', './app.js', './manifest.webmanifest',
+               './icon.svg', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -29,8 +32,9 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;   // let cross-origin pass through
 
-  if (url.pathname.startsWith('/api/')) {
-    // network-first, fall back to cached response when offline
+  if (url.pathname.includes('/data/')) {
+    // static data shards: network-first, fall back to cache when offline
+    // (substring match, not a leading '/', so a /<repo>/ subpath still matches)
     e.respondWith(
       fetch(req)
         .then((res) => {

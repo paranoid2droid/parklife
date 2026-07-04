@@ -23,6 +23,9 @@ data/parks/*/raw/
 # Build intermediates — published copy lives under docs/
 data/export/
 
+# Static export (scripts/export_static.py) — regenerated, deployed off-git
+site/
+
 # Autonomous queue runtime state (operational, mutating)
 data/run_queue.txt
 data/run_queue.lock

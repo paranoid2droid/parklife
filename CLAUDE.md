@@ -59,6 +59,11 @@ All Python work runs in the project venv (`Python 3.13`):
 .venv/bin/python -m scripts.bird_seasonal_report     # data/export/BIRDS.md
 .venv/bin/python -m scripts.endemic_report           # data/export/ENDEMIC.md
 
+# static demo site (productization P2 — the recommended deploy: free static host, no server)
+.venv/bin/python -m scripts.export_static            # DB → site/ (sharded static JSON, ~5k files)
+cd site && python -m http.server 8091                # local preview (real Chrome test: webapp/e2e_test.py, BASE=http://127.0.0.1:8091/)
+scripts/deploy_pages.sh                              # build + force-push site/ to orphan gh-pages (keeps main's git slim)
+
 # query CLI
 .venv/bin/python -m scripts.query stats              # overall counts
 .venv/bin/python -m scripts.query bloom 4            # species in season for month N

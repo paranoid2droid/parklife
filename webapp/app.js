@@ -1,17 +1,58 @@
 /* Thin-client SPA for parklife.
  *
- * Fetches data on demand from the read-only API (scripts/serve_api.py) instead
- * of downloading the whole 69 MB parklife-data.json. Access pattern:
- *   load        -> GET /api/parks            (~0.8 MB, all park markers)
- *   click park  -> GET /api/parks/<id>       (~150 KB, species summary cards)
- *   open species-> GET /api/species/<id>     (~5 KB, profile + photo gallery)
- *   search box  -> GET /api/search?q=...
+ * Fetches data on demand from static JSON shards produced by
+ * scripts/export_static.py, so any dumb static host (GitHub Pages, Cloudflare
+ * Pages, S3, ...) serves the whole app with no server. Access pattern:
+ *   load        -> data/parks.json                 (light park index, ~150 KB gz)
+ *   click park  -> data/parks/<id>.json            (species summary cards)
+ *   open species-> data/species/<bucket>.json      (bucketed full profiles)
+ *   reverse view-> data/species-parks/<bucket>.json (species -> park-id list)
+ *   pair photos -> data/park-photos/<parkId>.json  (park-local gallery)
+ *   search      -> data/search-index.json          (loaded once, filtered in JS)
  *
- * API base is same-origin /api when served by serve_api; override with
- * ?api=<base> for a split deploy.
+ * Data base is a relative ./data (works under any path prefix incl. GitHub
+ * Pages' /repo/ subpath); override with ?data=<base> for a split CDN deploy.
  */
-const API = new URLSearchParams(location.search).get('api') || '/api';
-const j = (path) => fetch(API + path).then(r => { if (!r.ok) throw new Error(r.status + ' ' + path); return r.json(); });
+const DATA = new URLSearchParams(location.search).get('data') || './data';
+const SPECIES_BUCKETS = 512;  // MUST match BUCKETS in scripts/export_static.py
+const _cache = new Map();     // path -> Promise<json> (immutable per deploy)
+function getJSON(path) {
+  if (_cache.has(path)) return _cache.get(path);
+  const pr = fetch(path).then(r => { if (!r.ok) throw new Error(r.status + ' ' + path); return r.json(); });
+  pr.catch(() => _cache.delete(path));  // never cache a failed fetch
+  _cache.set(path, pr);
+  return pr;
+}
+const bucketOf = (id) => ((id % SPECIES_BUCKETS) + SPECIES_BUCKETS) % SPECIES_BUCKETS;
+const dataParks = () => getJSON(DATA + '/parks.json');
+const dataPark = (id) => getJSON(DATA + '/parks/' + id + '.json');
+async function dataSpecies(id) {
+  const b = await getJSON(DATA + '/species/' + bucketOf(id) + '.json');
+  return b[id] || null;
+}
+async function dataSpeciesParkIds(id) {
+  const b = await getJSON(DATA + '/species-parks/' + bucketOf(id) + '.json');
+  return b[id] || [];
+}
+async function dataPairPhotos(parkId, sid) {
+  try { const m = await getJSON(DATA + '/park-photos/' + parkId + '.json'); return (m && m[sid]) || []; }
+  catch { return []; }  // parks with no park-local photos have no file (404)
+}
+let _searchIdx = null;
+async function dataSearch(q, limit) {
+  if (!_searchIdx) _searchIdx = await getJSON(DATA + '/search-index.json');
+  const ql = q.toLowerCase();
+  const hits = [];
+  for (const r of _searchIdx) {  // [id, sci, ja, en, zh, zhT, group, p, np]
+    if ((r[1] && r[1].toLowerCase().includes(ql)) || (r[2] && r[2].includes(q)) ||
+        (r[3] && r[3].toLowerCase().includes(ql)) || (r[4] && r[4].includes(q)) ||
+        (r[5] && r[5].includes(q))) hits.push(r);
+  }
+  hits.sort((a, b) => (b[8] || 0) - (a[8] || 0));  // widest-spread first
+  return hits.slice(0, limit).map(r => ({
+    id: r[0], sci: r[1], ja: r[2], en: r[3], zh: r[4], zhT: r[5], group: r[6], p: r[7],
+  }));
+}
 
 // ---- i18n -------------------------------------------------------------------
 const LANGS = ['ja', 'en', 'zh', 'zhT'];
@@ -115,7 +156,7 @@ function initMap() {
   map.addLayer(cluster);
 }
 async function loadParks() {
-  allParks = await j('/parks');
+  allParks = await dataParks();
   renderMarkers();
   addParkingControl();
 }
@@ -141,8 +182,8 @@ function renderMarkers() {
 }
 async function viewSpeciesOnMap() {
   const s = modalSpecies; if (!s) return;
-  const parks = await j('/species/' + s.id + '/parks');
-  speciesFilter = { ids: new Set(parks.map(p => p.id)), name: dispName(s) };
+  const parkIds = await dataSpeciesParkIds(s.id);
+  speciesFilter = { ids: new Set(parkIds), name: dispName(s) };
   closeModal();
   renderMarkers();
   const ban = $('mapBanner');
@@ -192,7 +233,7 @@ async function applyHash() {
 // ---- park panel -------------------------------------------------------------
 async function openPark(id, push = true) {
   $('panel').innerHTML = '<div class="placeholder">…</div>';
-  const p = await j('/parks/' + id);
+  const p = await dataPark(id);
   curPark = p;
   groupShown = {};
   renderPark();
@@ -268,9 +309,10 @@ function toggleGroup(g) { if (hiddenGroups.has(g)) hiddenGroups.delete(g); else 
 
 // ---- species modal ----------------------------------------------------------
 async function openSpecies(id, parkId, push = true) {
-  const reqs = [j('/species/' + id)];
-  if (parkId != null) reqs.push(j('/parks/' + parkId + '/photos/' + id).catch(() => []));
+  const reqs = [dataSpecies(id)];
+  if (parkId != null) reqs.push(dataPairPhotos(parkId, id));
   const [s, parkPhotos] = await Promise.all(reqs);
+  if (!s) return;  // deep-link to an unknown/unreachable species id
   modalSpecies = s; photoIdx = 0;
   setHash('#species/' + id, push);
   // Combine: park-local photos first (flagged), then the species hero gallery.
@@ -329,7 +371,7 @@ function onSearch(e) {
   const q = e.target.value.trim();
   if (q.length < 2) return;
   searchTimer = setTimeout(async () => {
-    const res = await j('/search?q=' + encodeURIComponent(q) + '&limit=24');
+    const res = await dataSearch(q, 24);
     curPark = null;  // search context: cards open without a park
     let html = `<div class="park-name">🔍 ${esc(q)}</div><div class="park-meta">${res.length} ${UI[lang].species}</div><div class="grid">`;
     html += res.map(speciesCard).join('');
