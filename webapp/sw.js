@@ -10,7 +10,7 @@
  * All shell paths are RELATIVE so the SW works whether the site is served from
  * the origin root or a subpath (GitHub Pages project sites live at /<repo>/).
  */
-const VERSION = 'parklife-v4';
+const VERSION = 'parklife-v5';
 const SHELL = ['./', './index.html', './app.js', './manifest.webmanifest',
                './icon.svg', './icon-192.png', './icon-512.png'];
 
