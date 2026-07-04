@@ -150,7 +150,7 @@ let map, cluster;
 function initMap() {
   map = L.map('map', { preferCanvas: true }).setView([36.2, 138.2], 5);
   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19, attribution: '© OpenStreetMap'
+    maxZoom: 19, detectRetina: true, attribution: '© OpenStreetMap'
   }).addTo(map);
   cluster = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius: 50 });
   map.addLayer(cluster);
