@@ -209267,5 +209267,301 @@
       "habitat_hint": "山地林缘、谷地、明亮次生林、缠绕他木。",
       "finding_tips": "7至9月寻找淡紫至白色、花瓣反卷的星形小花与秋季红色球形小果；毛较少、多生山地，可与白英相区别。果有毒，勿食。"
     }
+  },
+  "Laminaria japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kombu kelp",
+    "aliases": {
+      "zh-Hans": "海带"
+    },
+    "ja": {
+      "summary": "マコンブ。北海道南部〜東北の冷たい海の岩礁に生える大型の褐藻(コンブ科)。幅広く厚い帯状の葉状体が数mに達する。だし昆布として日本料理に欠かせない代表的なコンブで、養殖もされる。",
+      "habitat_hint": "冷たい海の潮下帯の岩礁、海岸に打ち上げられた海藻。",
+      "finding_tips": "海岸の岩場や打ち上げられた海藻の中に、幅広く厚い帯状の褐色の葉状体を探す。付着器(根状の部分)で岩に固着する。だし昆布として乾物でもおなじみ。"
+    },
+    "en": {
+      "summary": "Kombu kelp (Laminaria japonica). A large brown seaweed (kelp family) growing on cold-water rocky reefs from southern Hokkaido to Tohoku; its broad, thick strap-like blade reaches several metres. It is the classic dashi kelp, essential to Japanese cooking, and is also farmed.",
+      "habitat_hint": "Subtidal rocky reefs in cold seas; also as beach-cast seaweed.",
+      "finding_tips": "On rocky shores or among beach-cast seaweed look for the broad, thick brown strap-like blade; it clings to rock by a root-like holdfast. Familiar dried as dashi kombu."
+    },
+    "zh": {
+      "summary": "海带（マコンブ）。海带科大型褐藻，生于北海道南部至东北冷海的岩礁；宽厚带状叶状体可达数米。为日本料理不可或缺的高汤昆布之代表，亦有养殖。",
+      "habitat_hint": "冷海潮下带岩礁；亦见于海滩冲上之海藻。",
+      "finding_tips": "于岩岸或冲上海藻中寻找宽厚的褐色带状叶状体；以根状固着器附于岩上。干制的高汤昆布亦为人熟知。"
+    }
+  },
+  "Platycarya strobilacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone-fruit walnut",
+    "aliases": {
+      "zh-Hans": "化香树"
+    },
+    "ja": {
+      "summary": "ノグルミ。本州(東海以西)〜九州の山地の谷沿いや二次林、崩壊地に生えるクルミ科の落葉高木。奇数羽状複葉をもち、初夏に細長い雄花穂と、松かさ状の果穂を上向きにつける。この松かさ状の果穂が秋に黒く熟して残るのが特徴。",
+      "habitat_hint": "山地の谷沿い、二次林、崩壊地、明るい林縁。",
+      "finding_tips": "夏〜秋、上向きにつく松かさ(球果)状の果穂を探す。この黒く熟す松かさ状の果穂が名の由来で識別しやすい。奇数羽状複葉と、明るい二次林に生える点も手がかり。"
+    },
+    "en": {
+      "summary": "Cone-fruit walnut (Platycarya strobilacea). A deciduous tree of the walnut family on montane valleys, secondary woods and landslip scars from the Tokai region westward to Kyushu; with odd-pinnate leaves, in early summer it bears slender male catkins and erect cone-like fruiting heads. These cone-like heads, ripening black in autumn and persisting, are its distinctive feature.",
+      "habitat_hint": "Montane valleys, secondary woods, landslip scars, bright forest edges.",
+      "finding_tips": "From summer to autumn look for the erect cone-like fruiting heads; these black-ripening cones are the naming feature and easily recognised. The odd-pinnate leaves and its habit in bright secondary woods are clues."
+    },
+    "zh": {
+      "summary": "化香树（ノグルミ）。胡桃科落叶乔木，生于本州东海以西至九州的山地谷地、次生林与崩塌地；具奇数羽状复叶，初夏生细长雄花序与直立的松果状果序。此松果状果序秋熟转黑而宿存，为其特征。",
+      "habitat_hint": "山地谷地、次生林、崩塌地、明亮林缘。",
+      "finding_tips": "夏秋寻找直立的松果状果序；黑熟宿存的松果状果序为得名之由，易辨。奇数羽状复叶与明亮次生林生境为线索。"
+    }
+  },
+  "Helicia cochinchinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cochinchina helicia",
+    "aliases": {
+      "zh-Hans": "小果山龙眼"
+    },
+    "ja": {
+      "summary": "ヤマモガシ。本州(千葉以西)〜沖縄の暖地の常緑樹林に生えるヤマモガシ科の常緑小高木。日本では珍しいヤマモガシ科(マカダミアなどと同科)の植物。細長い革質の葉をもち、秋に白い細長い花を穂状に多数咲かせ、冬に黒紫色の実をつける。",
+      "habitat_hint": "暖地の常緑広葉樹林、社寺林、谷沿いの斜面。",
+      "finding_tips": "通年、細長い革質で光沢のある葉を確認する。秋の白い細長い花の穂と、冬の黒紫色の実も手がかり。日本ではヤマモガシ科は本種など少数のみで、暖地の常緑林に点在する。"
+    },
+    "en": {
+      "summary": "Cochinchina helicia (Helicia cochinchinensis). An evergreen small tree of the protea family in warm-temperate evergreen forests from the Chiba area westward to Okinawa; a rare Japanese member of the protea family (the family of macadamia). It has elongate leathery leaves, bears many slender white flowers in spikes in autumn, and ripens black-purple fruits in winter.",
+      "habitat_hint": "Warm-temperate evergreen broadleaf forest, shrine groves, valley slopes.",
+      "finding_tips": "Year-round, note the elongate, glossy leathery leaves; the slender white autumn flower spikes and black-purple winter fruits are clues. The protea family is represented in Japan by only a few species, scattered in warm-region evergreen forest."
+    },
+    "zh": {
+      "summary": "小果山龙眼（ヤマモガシ）。山龙眼科常绿小乔木，生于本州千叶以西至冲绳的暖地常绿林；为日本罕见的山龙眼科（澳洲坚果同科）植物。叶狭长革质，秋穗状密开白色细长花，冬结黑紫色果。",
+      "habitat_hint": "暖地常绿阔叶林、社寺林、谷地坡地。",
+      "finding_tips": "全年可见，注意狭长光亮的革质叶；秋季白色细长花穗与冬季黑紫果为线索。山龙眼科在日本仅本种等少数，点缀于暖地常绿林。"
+    }
+  },
+  "Dioscorea septemloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キクバドコロ。本州〜九州の山地の林縁や明るい二次林に生えるヤマノイモ科のつる性多年草。葉が掌状に5〜7裂して菊の葉のように見えることが名の由来。夏に黄緑色の細い花穂をつける。むかごはつくらず、翼のある果実をつける。",
+      "habitat_hint": "山地の林縁、明るい二次林、道端、他の木に絡む。",
+      "finding_tips": "夏、掌状に5〜7裂する菊の葉状の葉と、黄緑色の細い花穂を探す。菊の葉のような切れ込みが名の由来で識別しやすい。むかごをつくらない点でヤマノイモと区別する。"
+    },
+    "en": {
+      "summary": "Chrysanthemum-leaf yam (Dioscorea septemloba). A twining perennial yam of montane forest edges and bright secondary woods from Honshu to Kyushu; its leaves are palmately 5–7-lobed like a chrysanthemum leaf, giving the Japanese name. It bears slender yellow-green flower spikes in summer, makes no bulbils, and forms winged fruits.",
+      "habitat_hint": "Montane forest edges, bright secondary woods, roadsides, over other trees.",
+      "finding_tips": "In summer look for the palmately 5–7-lobed chrysanthemum-like leaves and the slender yellow-green flower spikes; the chrysanthemum-like lobing is the naming feature, and the absence of bulbils separates it from Japanese yam."
+    },
+    "zh": {
+      "summary": "绵萆薢（キクバドコロ）。薯蓣科缠绕性多年生草本，生于本州至九州山地林缘与明亮次生林；叶掌状5至7裂似菊叶，为和名之由。夏生黄绿色细花穗，不生零余子，结具翅果。",
+      "habitat_hint": "山地林缘、明亮次生林、路旁、缠绕他木。",
+      "finding_tips": "夏季寻找掌状5至7裂似菊之叶与黄绿色细花穗；菊叶状裂为得名之由，不生零余子可与山药相别。"
+    }
+  },
+  "Salvia lutescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Summer sage",
+    "ja": {
+      "summary": "ナツノタムラソウ。本州(東海〜近畿)の山地の林縁や谷沿い、やや湿った半日陰に生えるシソ科の多年草。夏、茎の先に青紫色の唇形花を段々に輪生してつける。長く突き出た雄しべが目立つ。タムラソウ(キク科)とは別で、シソ科のアキノタムラソウの仲間。",
+      "habitat_hint": "山地の林縁、谷沿い、やや湿った半日陰、道端。",
+      "finding_tips": "7〜8月、茎の先に段々に輪生する青紫色の唇形花を探す。花から長く突き出す雄しべが目立つ点、四角い茎と対生葉のシソ科である点が手がかり。"
+    },
+    "en": {
+      "summary": "Summer sage (Salvia lutescens). A perennial mint of montane forest edges, valleys and damp half-shade in the Tokai to Kinki regions of Honshu; in summer it bears blue-purple two-lipped flowers in tiered whorls at the stem tip, with conspicuously long-projecting stamens. It is a sage, related to Salvia japonica, not the daisy-family 'tamura-so'.",
+      "habitat_hint": "Montane forest edges, valleys, damp half-shade, roadsides.",
+      "finding_tips": "In July–August look for the blue-purple two-lipped flowers in tiered whorls at the stem tip; the long-projecting stamens and the square stem with opposite leaves of the mint family are clues."
+    },
+    "zh": {
+      "summary": "夏鼠尾草（ナツノタムラソウ）。唇形科多年生草本，生于本州东海至近畿的山地林缘、谷地与湿润半阴处；夏于茎端层轮生蓝紫色唇形花，雄蕊显著伸长。为鼠尾草类，与菊科植物无关。",
+      "habitat_hint": "山地林缘、谷地、湿润半阴处、路旁。",
+      "finding_tips": "7至8月寻找茎端层轮生的蓝紫唇形花；雄蕊显著伸出、方茎对生叶为线索。"
+    }
+  },
+  "Cirsium microspicatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ohara thistle",
+    "ja": {
+      "summary": "オハラメアザミ。本州中部の山地の草地や林縁、道端に生えるキク科のアザミの一種。夏〜秋、紅紫色の頭花を下向き〜横向きにつける。総苞に粘りがあり、葉は羽状に切れ込んで縁に鋭い刺がある。中部地方に分布するアザミ。",
+      "habitat_hint": "山地の草地、林縁、道端、やや湿った斜面。",
+      "finding_tips": "8〜10月、紅紫色の頭花と、羽状に切れ込んで鋭い刺のある葉を探す。アザミ類は総苞の形や粘り、頭花の向きで種を見分ける難しい仲間。中部地方に分布する点が手がかり。"
+    },
+    "en": {
+      "summary": "Ohara thistle (Cirsium microspicatum). A thistle of the daisy family on montane grassland, forest edges and roadsides in central Honshu; from summer to autumn it bears reddish-purple flower-heads held nodding to sideways, with sticky involucres and pinnately cut, sharply spiny leaves. A thistle of the Chubu region.",
+      "habitat_hint": "Montane grassland, forest edges, roadsides, damp slopes.",
+      "finding_tips": "From August to October look for the reddish-purple heads and the pinnately cut, sharply spiny leaves; thistles are a difficult group keyed by involucre shape and stickiness and head orientation, and its central-Honshu range is a clue."
+    },
+    "zh": {
+      "summary": "小穗蓟（オハラメアザミ）。菊科蓟属之一种，生于本州中部的山地草地、林缘与路旁；夏秋生紫红色头花，下垂至侧向，总苞具黏性，叶羽状分裂、缘具锐刺。为中部地方分布之蓟。",
+      "habitat_hint": "山地草地、林缘、路旁、湿润坡地。",
+      "finding_tips": "8至10月寻找紫红头花与羽裂锐刺之叶；蓟类以总苞形状、黏性与头花朝向区分，分布本州中部为线索。"
+    }
+  },
+  "Hypericum pseudopetiolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh St John's wort",
+    "ja": {
+      "summary": "サワオトギリ。北海道〜九州の山地の湿った草地や沢沿い、湿原の縁に生えるオトギリソウ科の多年草。オトギリソウの仲間で、夏に黄色い5弁の花を咲かせる。葉に透かして見える明るい油点(明点)が多く、黒点が少ない点で近縁種と区別する。",
+      "habitat_hint": "山地の湿った草地、沢沿い、湿原の縁、湧水地。",
+      "finding_tips": "7〜8月、黄色い5弁の花と、葉を透かして見える明るい油点を探す。湿った所を好む点、黒点が少なく明点が多い点が近縁のオトギリソウ類との識別の手がかり。"
+    },
+    "en": {
+      "summary": "Marsh St John's wort (Hypericum pseudopetiolatum). A perennial of the St John's wort family on damp montane grassland, streamsides and marsh margins from Hokkaido to Kyushu; a Hypericum, it opens yellow five-petalled flowers in summer. Its leaves are dotted with many translucent light glands and few dark ones, separating it from relatives.",
+      "habitat_hint": "Damp montane grassland, streamsides, marsh margins, springs.",
+      "finding_tips": "In July–August look for the yellow five-petalled flowers and the translucent light glands seen when the leaf is held to the light; its damp habitat and the many light versus few dark glands are the clues to separate it from other St John's worts."
+    },
+    "zh": {
+      "summary": "泽金丝桃（サワオトギリ）。金丝桃科多年生草本，生于北海道至九州山地湿润草地、溪边与沼泽边缘；为金丝桃类，夏开黄色5瓣花。叶透光可见明亮油点多、黑点少，可与近缘种相区别。",
+      "habitat_hint": "山地湿润草地、溪边、沼泽边缘、泉边。",
+      "finding_tips": "7至8月寻找黄色5瓣花与透光可见的明亮油点；喜湿、明点多黑点少为与近缘金丝桃类之识别线索。"
+    }
+  },
+  "Potentilla supina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オキジムシロ。北海道〜九州の河原や湿った道端、田の畦、荒れ地に生えるバラ科の一〜二年草。地際で枝分かれして斜めに広がり、羽状複葉と、黄色い小さな5弁の花をつける。花の後、萼が反り返って果実を包む。",
+      "habitat_hint": "河原、湿った道端、田の畦、荒れ地の日当たりのよい所。",
+      "finding_tips": "5〜9月、羽状複葉と、黄色い小さな5弁花を探す。地際で枝分かれして斜めに広がる草姿と、湿った所に多い点が手がかり。花の中央がやや盛り上がる点もキジムシロ類の特徴。"
+    },
+    "en": {
+      "summary": "Bushy cinquefoil (Potentilla supina). An annual to biennial of the rose family on riverbeds, damp roadsides, paddy bunds and waste ground from Hokkaido to Kyushu; it branches at the base and spreads obliquely, with pinnate leaves and small yellow five-petalled flowers, the sepals reflexing to enclose the fruit after flowering.",
+      "habitat_hint": "Riverbeds, damp roadsides, paddy bunds, waste ground in the sun.",
+      "finding_tips": "From May to September look for the pinnate leaves and small yellow five-petalled flowers; the base-branching, obliquely spreading habit and its preference for damp ground are clues, and the slightly raised flower centre marks the cinquefoils."
+    },
+    "zh": {
+      "summary": "朝天委陵菜（オキジムシロ）。蔷薇科一至二年生草本，生于北海道至九州的河滩、湿润路旁、田埂与荒地；基部分枝斜展，具羽状复叶与黄色5瓣小花，花后萼反卷包果。",
+      "habitat_hint": "河滩、湿润路旁、田埂、荒地向阳处。",
+      "finding_tips": "5至9月寻找羽状复叶与黄色5瓣小花；基部分枝斜展、多生湿处为线索，花心略隆为委陵菜类特征。"
+    }
+  },
+  "Dysphania anthelmintica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wormseed",
+    "aliases": {
+      "zh-Hans": "土荆芥"
+    },
+    "ja": {
+      "summary": "アメリカアリタソウ。熱帯アメリカ原産で道端や畑、河原、荒れ地に帰化したヒユ科(旧アカザ科)の一年草。全体に強い独特のにおいがあり、細長い葉と、葉腋に緑色の小さな花を穂状につける。アリタソウに近く、駆虫薬に使われた歴史をもつ。",
+      "habitat_hint": "道端、畑、河原、荒れ地、埋め立て地の日当たりのよい所。",
+      "finding_tips": "7〜10月、細長い葉と、葉腋に穂状につく緑色の小花を探す。全体に強い独特のにおいがある点が手がかり。アリタソウ類は葉形とにおい、腺点で見分ける。"
+    },
+    "en": {
+      "summary": "Wormseed (Dysphania anthelmintica). A tropical-American annual of the amaranth family (formerly goosefoot family) naturalised on roadsides, fields, riverbeds and waste ground; strongly and distinctively scented throughout, it has elongate leaves and small green flowers in axillary spikes. Close to Mexican tea, it was historically used as a vermifuge.",
+      "habitat_hint": "Roadsides, fields, riverbeds, waste ground, reclaimed land in the sun.",
+      "finding_tips": "From July to October look for the elongate leaves and the small green flowers in axillary spikes; the strong distinctive smell is the clue, and the group is keyed by leaf shape, scent and glands."
+    },
+    "zh": {
+      "summary": "土荆芥（アメリカアリタソウ）。苋科（旧藜科）一年生草本，原产热带美洲，归化于路旁、农田、河滩与荒地；全株具浓特殊气味，叶狭长，叶腋穗状生绿色小花。近墨西哥土荆芥，历史上作驱虫药。",
+      "habitat_hint": "路旁、农田、河滩、荒地、填土地向阳处。",
+      "finding_tips": "7至10月寻找狭长叶与叶腋穗状的绿色小花；全株浓特殊气味为线索，本类以叶形、气味与腺点区分。"
+    }
+  },
+  "Arachniodes amabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "East Asian holly fern",
+    "ja": {
+      "summary": "オオカナワラビ。本州(関東以西)〜九州・沖縄の暖地の林床や谷沿いに生えるオシダ科カナワラビ属の常緑性シダ。大型で、硬く光沢のある2〜3回羽状の葉をもつ。小羽片は菱形で先が刺状にとがる。暖地の常緑樹林の林床に群生する。",
+      "habitat_hint": "暖地の常緑広葉樹林・スギ林の林床、谷沿いの斜面。",
+      "finding_tips": "通年、大型で硬く光沢のある2〜3回羽状の葉と、先が刺状にとがる菱形の小羽片を確認する。カナワラビ属は小羽片の形と鱗片で見分ける。暖地の林床に群生する点も手がかり。"
+    },
+    "en": {
+      "summary": "East Asian holly fern (Arachniodes amabilis). A large evergreen holly fern of warm-region forest floors and valleys from western Honshu to Kyushu and Okinawa, with stiff, glossy 2–3-pinnate fronds whose rhombic pinnules taper to spiny tips; it forms stands on warm-temperate evergreen forest floors.",
+      "habitat_hint": "Floor of warm-temperate evergreen and cedar forest, valley slopes.",
+      "finding_tips": "Year-round, note the large stiff glossy 2–3-pinnate fronds and the rhombic, spine-tipped pinnules; the genus is keyed by pinnule shape and scales, and its stands on warm-region forest floors are a clue."
+    },
+    "zh": {
+      "summary": "美丽复叶耳蕨（オオカナワラビ）。鳞毛蕨科复叶耳蕨属常绿蕨，生于本州关东以西至九州、冲绳暖地的林床与谷地；植株大型，叶硬而光亮、二至三回羽状，小羽片菱形、先端刺状。多于暖地常绿林床成丛。",
+      "habitat_hint": "暖地常绿林、杉林林床、谷地坡地。",
+      "finding_tips": "全年可见，注意大型硬亮的二至三回羽状叶与菱形刺尖小羽片；本属以小羽片形状与鳞片区分，暖地林床成丛为线索。"
+    }
+  },
+  "Carex jacens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hidden sedge",
+    "ja": {
+      "summary": "ハガクレスゲ。本州〜九州の山地の湿った林床や谷沿いに生えるカヤツリグサ科スゲ属の多年草。柔らかい葉の間に、細く垂れ下がる雌小穂を葉に隠れるようにつけることが名の由来。湿った林床の半日陰に生える。",
+      "habitat_hint": "山地の湿った林床、谷沿いの斜面、スギ林の縁の半日陰。",
+      "finding_tips": "5〜7月、柔らかい葉の間に葉に隠れるように垂れ下がる細い雌小穂を探す。葉に隠れる穂が名の由来で手がかり。スゲ属は果胞の形と嘴で種を見分ける。"
+    },
+    "en": {
+      "summary": "Hidden sedge (Carex jacens). A sedge of the sedge family on damp montane forest floors and streamsides from Honshu to Kyushu; slender, drooping female spikes are set among the soft leaves as if hidden by them, which gives the Japanese name. It grows in the half-shade of damp forest floors.",
+      "habitat_hint": "Damp montane forest floor, streamside slopes, half-shade at cedar-plantation edges.",
+      "finding_tips": "From May to July look for the slender drooping female spikes tucked among the soft leaves as if hidden; the hidden spikes are the naming feature, and sedges are keyed by perigynium shape and beak."
+    },
+    "zh": {
+      "summary": "叶隐薹草（ハガクレスゲ）。莎草科薹草属多年生草本，生于本州至九州山地湿润林床与溪边；细而下垂的雌小穗藏于柔软叶间，如为叶所隐，为和名之由。生于湿润林床半阴处。",
+      "habitat_hint": "山地湿润林床、谷地坡地、杉林林缘半阴处。",
+      "finding_tips": "5至7月于柔软叶间寻找如被叶隐的细垂雌小穗；藏叶之穗为得名之由，薹草属以果囊形状与喙区分。"
+    }
+  },
+  "Potamogeton fryeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fryer's pondweed",
+    "ja": {
+      "summary": "フトヒルムシロ。北海道〜九州の池沼やため池、流れの緩い水路に生えるヒルムシロ科の浮葉性の水草。水面に浮かぶ楕円形の浮葉と、水中の細長い沈水葉をもつ。ヒルムシロに似るが全体に大きく丈夫で、太い地下茎をもつ。",
+      "habitat_hint": "池沼、ため池、流れの緩い水路、休耕田の深めの水。",
+      "finding_tips": "6〜9月、水面に浮かぶ楕円形の浮葉と、夏に水面上に立てる緑褐色の花穂を探す。ヒルムシロより浮葉が大きく丈夫な点が手がかり。"
+    },
+    "en": {
+      "summary": "Fryer's pondweed (Potamogeton fryeri). A floating-leaved aquatic of the pondweed family in ponds, reservoirs and slow channels from Hokkaido to Kyushu, with oval floating leaves at the surface and long narrow submerged leaves; like the broad-leaved pondweed but larger and sturdier, with a stout rhizome.",
+      "habitat_hint": "Ponds, reservoirs, slow channels, deeper water of fallow paddies.",
+      "finding_tips": "From June to September look for the oval floating leaves and the green-brown flower spikes held above the surface in summer; its larger, sturdier floating leaves separate it from the common broad-leaved pondweed."
+    },
+    "zh": {
+      "summary": "宽叶眼子菜（フトヒルムシロ）。眼子菜科浮叶水草，生于北海道至九州的池沼、蓄水池与缓流水渠；具浮于水面的椭圆浮叶与水中细长沉水叶。似浮叶眼子菜而更大更壮，具粗根状茎。",
+      "habitat_hint": "池沼、蓄水池、缓流水渠、休耕田较深水域。",
+      "finding_tips": "6至9月寻找椭圆浮叶与夏季伸出水面的绿褐色花穗；浮叶较大而壮，可与浮叶眼子菜相区别。"
+    }
+  },
+  "Sasa megalophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large-leaf sasa",
+    "ja": {
+      "summary": "オオバザサ。本州の山地の林縁や林床、斜面に群生するイネ科の大型のササ。名の通り、ササの中では特に大きな幅の広い葉をつける。細い稈が立ち、林床を一面に覆う。多雪地の山地に多い。",
+      "habitat_hint": "山地の林縁、林床、斜面、多雪地の一面のササ原。",
+      "finding_tips": "通年、ササとしては特に大きく幅の広い葉を確認する。細い稈が立ち、林床や斜面を一面に覆って群生する点が手がかり。葉の大きさで他の小型のササと区別する。"
+    },
+    "en": {
+      "summary": "Large-leaf sasa (Sasa megalophylla). A large bamboo of the grass family forming stands on montane forest edges, floors and slopes in Honshu; true to its name, it bears especially large, broad leaves for a sasa. Slender culms stand up and carpet the forest floor; it is common in snowy montane country.",
+      "habitat_hint": "Montane forest edges, floors, slopes; extensive stands in snowy country.",
+      "finding_tips": "Year-round, note the especially large, broad leaves (large for a sasa); the slender culms carpeting the forest floor and slopes in stands are clues, and the leaf size separates it from smaller sasas."
+    },
+    "zh": {
+      "summary": "大叶赤竹（オオバザサ）。禾本科大型竹类，成丛生于本州山地的林缘、林床与坡地；如其名于赤竹类中叶特大而宽。细秆直立，覆盖林床，多见于多雪山地。",
+      "habitat_hint": "山地林缘、林床、坡地、多雪地一片竹原。",
+      "finding_tips": "全年可见，注意于赤竹类中特大而宽之叶；细秆成丛覆盖林床坡地为线索，以叶大小与小型赤竹相区别。"
+    }
   }
 }
