@@ -208335,5 +208335,316 @@
       "habitat_hint": "山地湿润林缘、谷地、草地、融雪后坡地。",
       "finding_tips": "4至5月寻找穗状的蓝紫色长距筒状花；细裂叶与夏枯的春季短命习性为线索，紫堇类以苞片与块茎区分。"
     }
+  },
+  "Branchinella kugenumaensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fairy shrimp",
+    "aliases": {
+      "zh-Hans": "丰年虾"
+    },
+    "ja": {
+      "summary": "ホウネンエビ。水を張った直後の水田や湿地に現れる、体長1〜2cmの小さな甲殻類(鰓脚類)。背を下にして11対の脚をゆらして泳ぐ。卵は乾燥に耐え、田に水が入ると孵化する。多く現れる年は豊作の兆しとされ名の由来となった。",
+      "habitat_hint": "水を張った直後の水田、一時的にできる湿地の水たまり。",
+      "finding_tips": "5〜6月、田植え直後の水田で、背を下にして脚を波打たせながら泳ぐ半透明の小さなエビ状の生き物を探す。尾が赤みを帯びる。水がひくと消えるので時期が限られる。"
+    },
+    "en": {
+      "summary": "Fairy shrimp (Branchinella kugenumaensis). A small crustacean (a branchiopod) about 1–2 cm long that appears in freshly flooded paddies and temporary wetlands; it swims upside down, rippling its eleven pairs of legs. Its drought-resistant eggs hatch when the paddy is flooded, and abundant years were taken as a sign of good harvest, giving the Japanese name ('bumper-crop shrimp').",
+      "habitat_hint": "Freshly flooded paddies, temporary wetland pools.",
+      "finding_tips": "In May–June, in newly planted paddies, look for the small translucent shrimp-like animals swimming upside down with rippling legs; the tail is reddish. They vanish when the water drains, so the window is short."
+    },
+    "zh": {
+      "summary": "丰年虾（ホウネンエビ）。体长1至2厘米的小型甲壳动物（鳃足类），出现于刚灌水的稻田与临时湿地；仰泳，摆动十一对足。卵耐干旱，灌水即孵化；大量出现之年被视为丰收之兆，为和名之由。",
+      "habitat_hint": "刚灌水的稻田、临时形成的湿地水洼。",
+      "finding_tips": "5至6月于插秧后不久的稻田寻找仰泳、摆足前行的半透明小虾状生物，尾部带红。水退即消，时段短暂。"
+    }
+  },
+  "Flavoparmelia caperata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キウメノキゴケ。樹幹や岩、墓石などの表面に張りつく葉状の地衣類。黄緑色でしわの寄った葉状体が円く広がり、中央に粉芽(こなのような無性生殖体)をつける。菌類と藻類の共生体で、大気汚染に比較的弱く、環境の指標にもされる。",
+      "habitat_hint": "樹幹、岩、墓石、コンクリート塀などの日の当たる表面。",
+      "finding_tips": "通年、樹幹や岩に円く広がる黄緑色でしわの寄った葉状の地衣を探す。中央部に粉をふいたような粉芽がつく点が手がかり。よく晴れて乾くと縁がめくれる。"
+    },
+    "en": {
+      "summary": "Common greenshield lichen (Flavoparmelia caperata). A foliose lichen that clings to tree trunks, rocks and gravestones; its yellow-green, wrinkled thallus spreads in rounded patches with powdery soredia (asexual propagules) in the centre. A symbiosis of fungus and alga, it is fairly sensitive to air pollution and used as an environmental indicator.",
+      "habitat_hint": "Sunlit surfaces of tree trunks, rocks, gravestones, concrete walls.",
+      "finding_tips": "Year-round, look for the rounded patches of yellow-green wrinkled foliose lichen on trunks and rock; the powdery soredia in the centre are a clue, and the margins lift when it dries in sun."
+    },
+    "zh": {
+      "summary": "皱衣（キウメノキゴケ）。附着于树干、岩石与墓石的叶状地衣；黄绿色皱缩叶状体作圆形展开，中央生粉芽（粉状无性繁殖体）。为真菌与藻类的共生体，较不耐大气污染，可作环境指示。",
+      "habitat_hint": "树干、岩石、墓石、混凝土墙等向阳表面。",
+      "finding_tips": "全年可见，于树干岩面寻找圆形展开的黄绿色皱叶状地衣；中央粉芽为线索，晴干时边缘上卷。"
+    }
+  },
+  "Viburnum sargentii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sargent's guelder rose",
+    "aliases": {
+      "zh-Hans": "鸡树条"
+    },
+    "ja": {
+      "summary": "カンボク。北海道〜九州の山地の湿った林縁や谷沿い、湿原の縁に生えるガマズミ科(旧スイカズラ科)の落葉低木。葉は3裂してカエデに似る。初夏、平たい花序の縁に白い大きな装飾花をつけ、中央に小さな両性花を密につける。秋に赤い実をつける。",
+      "habitat_hint": "山地の湿った林縁、谷沿い、湿原の縁、河畔。",
+      "finding_tips": "5〜6月、平たい花序の縁につく白い大きな装飾花を探す。3裂してカエデに似る葉と、秋の赤く熟す実も手がかり。湿った所を好む点が同属の中での特徴。"
+    },
+    "en": {
+      "summary": "Sargent's guelder rose (Viburnum sargentii). A deciduous shrub of the moschatel family (formerly honeysuckle family) on damp montane forest edges, valleys and marsh margins from Hokkaido to Kyushu; its leaves are three-lobed like a maple. In early summer a flat inflorescence is rimmed with large white sterile flowers around small fertile ones, and red fruits follow in autumn.",
+      "habitat_hint": "Damp montane forest edges, valleys, marsh margins, riverbanks.",
+      "finding_tips": "In May–June look for the large white sterile flowers around the rim of the flat inflorescence; the maple-like three-lobed leaves and red autumn fruits are clues, and its preference for damp ground is distinctive within the genus."
+    },
+    "zh": {
+      "summary": "鸡树条（カンボク）。五福花科（旧忍冬科）落叶灌木，生于北海道至九州山地湿润林缘、谷地与沼泽边缘；叶三裂似枫。初夏扁平花序边缘生白色大型装饰花，中央密生两性小花，秋结红果。",
+      "habitat_hint": "山地湿润林缘、谷地、沼泽边缘、河畔。",
+      "finding_tips": "5至6月寻找扁平花序边缘的白色大型装饰花；三裂似枫之叶与秋季红果为线索，喜湿为本属中之特点。"
+    }
+  },
+  "Alpinia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese ginger lily",
+    "aliases": {
+      "zh-Hans": "山姜"
+    },
+    "ja": {
+      "summary": "ハナミョウガ。本州(関東以西)〜九州の暖地の常緑樹林の林床に生えるショウガ科の多年草。細長い葉を2列につけ、初夏、茎の先に白地に紅色の斑が入る唇形の花を穂状に咲かせる。秋に赤い実をつけ、種子は生薬(伊豆縮砂)に使われる。",
+      "habitat_hint": "暖地の常緑広葉樹林の林床、谷沿いの半日陰、社寺林。",
+      "finding_tips": "5〜6月、細長い葉を2列につけた株の先に、白地に紅の斑がある唇形の花の穂を探す。ショウガ科らしい香りと、秋の赤い実も手がかり。暖地の林床に群生する。"
+    },
+    "en": {
+      "summary": "Japanese ginger lily (Alpinia japonica). A perennial of the ginger family on the floor of warm-temperate evergreen forests from western Honshu to Kyushu; its long leaves are borne in two ranks, and in early summer it raises spikes of two-lipped flowers, white blotched with red. Red fruits follow in autumn, the seeds used in traditional medicine.",
+      "habitat_hint": "Floor of warm-temperate evergreen forest, valley half-shade, shrine groves.",
+      "finding_tips": "In May–June look for the spikes of white, red-blotched two-lipped flowers atop plants with long two-ranked leaves; the ginger-family scent and red autumn fruits are clues. It forms stands on warm-region forest floors."
+    },
+    "zh": {
+      "summary": "山姜（ハナミョウガ）。姜科多年生草本，生于本州关东以西至九州暖地常绿林林床；叶长、二列排列，初夏茎顶穗状生白底红斑的唇形花，秋结红果，种子入药。",
+      "habitat_hint": "暖地常绿阔叶林林床、谷地半阴处、社寺林。",
+      "finding_tips": "5至6月于二列长叶植株顶端寻找白底红斑的唇形花穗；姜科香气与秋季红果为线索，常于暖地林床成丛。"
+    }
+  },
+  "Myrsine seguinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイミンタチバナ。本州(関東以西)〜沖縄の暖地の常緑樹林や海岸林に生えるサクラソウ科(旧ヤブコウジ科)の常緑小高木。厚く細長い葉を枝先に集めてつけ、春に枝や幹に小さな花を束生する。秋〜冬に黒紫色の小さな実をつける。",
+      "habitat_hint": "暖地の常緑広葉樹林、海岸林、社寺林、谷沿い。",
+      "finding_tips": "通年、枝先に集まる厚く細長い光沢のある葉を確認する。春に古い枝や幹に直接束生する小さな花(幹生花的)と、黒紫色の実も手がかり。暖地の常緑林に多い。"
+    },
+    "en": {
+      "summary": "Myrsine seguinii. An evergreen small tree of the primrose family (formerly Myrsinaceae) in warm-temperate evergreen and coastal forests from western Honshu to Okinawa; thick elongate leaves cluster at the shoot tips, and small flowers cluster on the branches and trunk in spring, followed by small black-purple fruits in autumn to winter.",
+      "habitat_hint": "Warm-temperate evergreen broadleaf forest, coastal woodland, shrine groves, valleys.",
+      "finding_tips": "Year-round, note the thick, elongate glossy leaves clustered at the shoot tips; the small flowers clustered directly on old branches and trunk in spring and the black-purple fruits are clues. It is common in warm-region evergreen forest."
+    },
+    "zh": {
+      "summary": "密花树（タイミンタチバナ）。报春花科（旧紫金牛科）常绿小乔木，生于本州关东以西至冲绳的暖地常绿林与海岸林；叶厚而狭长、簇生枝端，春于枝干束生小花，秋冬结黑紫色小果。",
+      "habitat_hint": "暖地常绿阔叶林、海岸林、社寺林、谷地。",
+      "finding_tips": "全年可见，注意簇生枝端的厚狭光亮叶；春于老枝干直接束生的小花与黑紫色果为线索，多生暖地常绿林。"
+    }
+  },
+  "Marchantia paleacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フタバネゼニゴケ。湿った土の崖や石垣、林床、水辺に生えるゼニゴケ科の葉状の苔類(タイ類)。緑色の平たい葉状体が二又に分かれながら地面に広がる。雌株は指を広げたような柄付きの傘を、雄株は円盤状の柄付きの器官を立てる。ゼニゴケに似る。",
+      "habitat_hint": "湿った土の崖、石垣、林床、水辺、庭の日陰。",
+      "finding_tips": "春〜初夏、平たく二又に分かれて広がる緑色の葉状体と、雌株の指状に裂けた傘・雄株の円盤状の器官を探す。葉状体表面の六角形の模様(気室)と中央の白線も手がかり。"
+    },
+    "en": {
+      "summary": "Marchantia paleacea. A thalloid liverwort of the Marchantiaceae on damp earthen banks, stone walls, forest floors and watersides; its flat green thalli fork as they spread over the ground. Female plants raise stalked, finger-lobed umbrellas and males stalked discs, resembling the common liverwort.",
+      "habitat_hint": "Damp earthen banks, stone walls, forest floor, watersides, shady gardens.",
+      "finding_tips": "From spring to early summer look for the flat, forking green thalli and the stalked finger-lobed umbrellas (female) or discs (male); the hexagonal surface pattern (air chambers) and a pale central line are clues."
+    },
+    "zh": {
+      "summary": "粗裂地钱（フタバネゼニゴケ）。地钱科叶状苔类，生于湿润土崖、石墙、林床与水边；绿色扁平叶状体二歧分叉铺展地面。雌株抽指状裂的具柄伞，雄株抽圆盘状具柄器官，似地钱。",
+      "habitat_hint": "湿润土崖、石墙、林床、水边、庭荫处。",
+      "finding_tips": "春至初夏寻找扁平二歧分叉的绿色叶状体及雌株指裂伞、雄株圆盘器官；叶状体表面六角气室纹与中央白线为线索。"
+    }
+  },
+  "Heteroscyphus planus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシウロコゴケ。林床の湿った地面や倒木、岩の上、樹幹の根元に生えるウロコゴケ科の葉状の苔類(タイ類)。淡緑色の茎が這い、丸みのある小さな葉が2列に並ぶ。人里近くから山地まで湿った所に普通に見られる。",
+      "habitat_hint": "林床の湿った地面、倒木、岩の上、樹幹の根元、沢沿い。",
+      "finding_tips": "通年、湿った地面や倒木に広がる淡緑色のマットを探す。ルーペで見ると丸みのある小さな葉が茎の両側に2列に並び、下側にも小さな葉(腹葉)がある点が手がかり。"
+    },
+    "en": {
+      "summary": "Heteroscyphus planus. A leafy liverwort of the Lophocoleaceae on damp forest-floor ground, logs, rocks and tree bases; its pale green stems creep, with small rounded leaves in two rows. It is common in damp places from near habitation up into the mountains.",
+      "habitat_hint": "Damp forest-floor ground, logs, rocks, tree bases, streamsides.",
+      "finding_tips": "Year-round, look for pale green mats on damp ground and logs; under a lens the small rounded leaves are in two rows along the stem, with smaller underleaves beneath."
+    },
+    "zh": {
+      "summary": "平叶异萼苔（ツクシウロコゴケ）。齿萼苔科叶状苔类，生于林床湿地面、倒木、岩上与树基；淡绿色茎匍匐，圆钝小叶两列排列。自近人居至山地的湿处普遍可见。",
+      "habitat_hint": "林床湿地面、倒木、岩上、树基、溪旁。",
+      "finding_tips": "全年可见，于湿地面与倒木寻找淡绿色垫状体；放大镜下圆钝小叶沿茎两列排列，下侧另具小腹叶为线索。"
+    }
+  },
+  "Hexasepalum teres": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオフタバムグラ。北アメリカ原産で海岸の砂地や河原、道端、荒れ地に帰化したアカネ科の一年草。地を這うように分枝して広がり、細い対生葉と、葉腋に淡紅色の小さな花をつける。砂地や乾いた荒れ地に多い。",
+      "habitat_hint": "海岸の砂地、河原、道端、線路際、荒れ地の日当たりのよい所。",
+      "finding_tips": "7〜10月、地を這って広がる茎と、細い対生葉の葉腋につく淡紅色の小さな花を探す。托葉の縁に毛状の突起がある点と、砂地・荒れ地に群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Poorjoe (Hexasepalum teres). A North American annual of the madder family naturalised on coastal sand, riverbeds, roadsides and waste ground; it branches and spreads prostrate, with narrow opposite leaves and small pale pink flowers in the leaf axils. It is common on sand and dry waste ground.",
+      "habitat_hint": "Coastal sand, riverbeds, roadsides, railway margins, waste ground in the sun.",
+      "finding_tips": "From July to October look for the prostrate branching stems and the small pale pink flowers in the axils of the narrow opposite leaves; the bristly-fringed stipules and its stands on sand and waste ground are clues."
+    },
+    "zh": {
+      "summary": "睫毛坚扣草（オオフタバムグラ）。茜草科一年生草本，原产北美，归化于海岸沙地、河滩、路旁与荒地；平铺分枝蔓生，具细对生叶，叶腋生淡红色小花。多生沙地与干燥荒地。",
+      "habitat_hint": "海岸沙地、河滩、路旁、铁路边、荒地向阳处。",
+      "finding_tips": "7至10月寻找平铺分枝之茎与细对生叶腋的淡红小花；托叶缘具毛状突起、成丛生于沙地荒地为线索。"
+    }
+  },
+  "Alopecurus pratensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオスズメノテッポウ。ヨーロッパ原産で牧草として導入され、河原や草地、道端に帰化したイネ科の多年草。スズメノテッポウに似るが大型で、初夏に太く柔らかい円柱状の穂(花序)を立てる。穂は緑色で、触れると柔らかい。",
+      "habitat_hint": "河原、草地、牧草地、道端、堤防の日当たりのよい所。",
+      "finding_tips": "5〜6月、太く柔らかい円柱状の緑色の穂を探す。スズメノテッポウより大型で高さ50cm以上になる点が手がかり。穂は猫じゃらし状で柔らかい。"
+    },
+    "en": {
+      "summary": "Meadow foxtail (Alopecurus pratensis). A European perennial grass introduced as forage and naturalised on riverbeds, grassland and roadsides; larger than the common foxtail, in early summer it raises a stout, soft cylindrical spike-like head, green and soft to the touch.",
+      "habitat_hint": "Riverbeds, grassland, pasture, roadsides, embankments in the sun.",
+      "finding_tips": "In May–June look for the stout soft cylindrical green head; its larger size (over 50 cm tall) separates it from the common foxtail, and the head is soft and cat's-tail-like."
+    },
+    "zh": {
+      "summary": "大看麦娘（オオスズメノテッポウ）。禾本科多年生草本，原产欧洲，作牧草引入并归化于河滩、草地与路旁；较看麦娘大型，初夏抽粗软的圆柱状穗（花序），绿色，触之柔软。",
+      "habitat_hint": "河滩、草地、牧地、路旁、堤岸向阳处。",
+      "finding_tips": "5至6月寻找粗软的圆柱状绿穗；较看麦娘大、高逾50厘米为线索，穗如猫尾而柔软。"
+    }
+  },
+  "Oreopteris quelpartensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain fern",
+    "ja": {
+      "summary": "オオバショリマ。北海道〜本州の亜高山〜山地の湿った林縁や草地、沢沿いに生えるヒメシダ科の夏緑性シダ。細長い2回羽状の葉が群がって立ち、下部の羽片が次第に小さくなる。冷涼な高地の湿った所に多い。",
+      "habitat_hint": "亜高山〜山地の湿った林縁、草地、沢沿い、雪田の周り。",
+      "finding_tips": "6〜9月、群がって立つ細長い2回羽状の葉で、下部の羽片が次第に小さくなる点を確認する。冷涼な高地の湿った林縁や草地に群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Mountain fern (Oreopteris quelpartensis). A summer-green fern of the marsh-fern family on damp subalpine to montane forest edges, grassland and streamsides from Hokkaido to Honshu; slender twice-pinnate fronds stand in clusters, the lower pinnae gradually reduced. It is common in damp cool high country.",
+      "habitat_hint": "Damp subalpine to montane forest edges, grassland, streamsides, snow-patch margins.",
+      "finding_tips": "From June to September note the clustered slender twice-pinnate fronds with gradually reduced lower pinnae; its habit in damp cool high-country edges and grassland is a clue."
+    },
+    "zh": {
+      "summary": "山蕨（オオバショリマ）。金星蕨科夏绿蕨，生于北海道至本州的亚高山至山地湿润林缘、草地与溪边；细长的二回羽状叶丛立，下部羽片渐缩。多见于冷凉高地湿处。",
+      "habitat_hint": "亚高山至山地湿润林缘、草地、溪旁、雪田周围。",
+      "finding_tips": "6至9月注意丛立的细长二回羽状叶及渐缩的下部羽片；生于冷凉高地湿润林缘与草地为线索。"
+    }
+  },
+  "Asplenium ritoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rito spleenwort",
+    "ja": {
+      "summary": "コウザキシダ。本州(関東以西)〜九州・沖縄の暖地の湿った岩壁や林床に生えるチャセンシダ科の常緑性シダ。2〜3回羽状に細かく分かれた葉をもち、羽片の先が細く伸びて、しばしば先端に無性芽をつけて増える。",
+      "habitat_hint": "暖地の谷沿いの湿った岩壁、林床、社寺林の石垣際。",
+      "finding_tips": "通年、2〜3回羽状に細裂した葉と、細く伸びた葉先を探す。葉先に無性芽をつけて新しい株をつくる点が手がかり。暖地の湿った日陰の岩場に多い。"
+    },
+    "en": {
+      "summary": "Rito spleenwort (Asplenium ritoense). An evergreen spleenwort of damp rock walls and forest floors in warm regions from western Honshu to Kyushu and Okinawa; its finely 2–3-pinnate fronds taper to a slender tip that often bears a plantlet (bulbil) to propagate.",
+      "habitat_hint": "Damp valley rock walls, forest floor, wall bases in warm-region shrine groves.",
+      "finding_tips": "Year-round, look for the finely 2–3-pinnate fronds with slender tapering tips; the plantlets at the frond tips that form new plants are a clue. It favours damp shaded rock in warm regions."
+    },
+    "zh": {
+      "summary": "细茎铁角蕨（コウザキシダ）。铁角蕨科常绿蕨，生于本州关东以西至九州、冲绳暖地的湿润岩壁与林床；叶二至三回羽状细裂，羽片先端细长，常于叶尖生芽以繁殖。",
+      "habitat_hint": "暖地谷地湿润岩壁、林床、社寺林石墙脚。",
+      "finding_tips": "全年可见，寻找二至三回羽状细裂、叶尖细长之叶；叶尖生芽长成新株为线索，多生暖地湿阴岩地。"
+    }
+  },
+  "Taraxacum shinanense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shinano dandelion",
+    "ja": {
+      "summary": "ヤツガタケタンポポ(シナノタンポポ)。本州中部の高地の草地や礫地に生えるキク科の在来タンポポ。総苞外片が反り返らず上向きにつく在来種の仲間で、高山〜亜高山の限られた地域に分布する。花は黄色でやや小さめ。",
+      "habitat_hint": "本州中部の高地の草地、礫地、明るい斜面。",
+      "finding_tips": "5〜7月、黄色い花の下の総苞外片が反り返らないことを確認する。外来種と違い外片が上向きに閉じる在来種で、中部山岳の高地に分布する点が手がかり。"
+    },
+    "en": {
+      "summary": "Shinano dandelion (Taraxacum shinanense). A native Japanese dandelion of highland grassland and gravelly ground in central Honshu; one of the native group whose outer bracts are pressed upward rather than reflexed, it grows in a limited alpine-to-subalpine range. The yellow flower is rather small.",
+      "habitat_hint": "Highland grassland, gravelly ground, bright slopes of central Honshu.",
+      "finding_tips": "From May to July check that the outer bracts under the yellow flower are not reflexed; as a native species they stay upward and closed, and its central-mountain highland range is a clue."
+    },
+    "zh": {
+      "summary": "信浓蒲公英（ヤツガタケタンポポ）。菊科日本本土蒲公英，生于本州中部高地草地与砾地；属总苞外片上举不反卷的本土类群，分布于高山至亚高山的有限地域，花黄色而略小。",
+      "habitat_hint": "本州中部高地草地、砾地、明亮坡地。",
+      "finding_tips": "5至7月查看黄花下总苞外片不反卷；本土种外片上举紧闭，分布于中部山岳高地为线索。"
+    }
+  },
+  "Moliniopsis japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese moor grass",
+    "ja": {
+      "summary": "ヌマガヤ。北海道〜九州の湿原や貧栄養の湿地、湿った草地に生えるイネ科の多年草。株立ちになり、細い葉と、夏〜秋に紫色を帯びた細長い円錐花序を立てる。湿原を代表する草の一つで、しばしば一面に群生する。",
+      "habitat_hint": "湿原、貧栄養の湿地、湿った草地、ため池の岸。",
+      "finding_tips": "8〜10月、株立ちの細い葉と、紫色を帯びた細長い円錐花序を探す。湿原に一面に群生することが多く、秋に葉が黄褐色に色づく点も手がかり。"
+    },
+    "en": {
+      "summary": "Japanese moor grass (Moliniopsis japonica). A tufted perennial grass of bogs, nutrient-poor wetlands and damp grassland from Hokkaido to Kyushu; it has narrow leaves and raises a slender purplish panicle in summer to autumn. A characteristic bog grass, it often carpets whole areas.",
+      "habitat_hint": "Bogs, nutrient-poor wetlands, damp grassland, pond margins.",
+      "finding_tips": "From August to October look for the tufted narrow leaves and the slender purplish panicle; its extensive stands in bogs and the yellow-brown autumn foliage are clues."
+    },
+    "zh": {
+      "summary": "日本沼禾（ヌマガヤ）。禾本科多年生草本，生于北海道至九州的沼泽、贫营养湿地与湿润草地；丛生，叶细，夏秋抽带紫色的细长圆锥花序。为代表性沼泽草，常成片群生。",
+      "habitat_hint": "沼泽、贫营养湿地、湿润草地、池塘岸。",
+      "finding_tips": "8至10月寻找丛生细叶与带紫色的细长圆锥花序；常于沼泽成片群生、秋叶转黄褐为线索。"
+    }
+  },
+  "Sceptridium nipponicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nippon grape fern",
+    "ja": {
+      "summary": "アカハナワラビ。本州〜九州の山地の林縁や草地に生えるハナヤスリ科の冬緑性シダ。秋に葉を展開して冬を越し、フユノハナワラビの仲間。冬に葉が赤みを帯びて紅葉することが名の由来で、直立する胞子葉に粒状の胞子嚢をつける。",
+      "habitat_hint": "山地の林縁、草地、明るい二次林、道端。",
+      "finding_tips": "秋〜冬、幅の広い栄養葉と、直立して粒状の胞子嚢をつける胞子葉を探す。冬に栄養葉が赤く色づく点が名の由来で、他のフユノハナワラビ類との識別の手がかり。"
+    },
+    "en": {
+      "summary": "Nippon grape fern (Sceptridium nipponicum). A winter-green fern of the adder's-tongue family on montane forest edges and grassland from Honshu to Kyushu; like other winter grape ferns it unfurls in autumn and overwinters. Its blade reddens in winter, giving the Japanese name, and the erect fertile frond bears grain-like sporangia.",
+      "habitat_hint": "Montane forest edges, grassland, bright secondary woods, roadsides.",
+      "finding_tips": "From autumn to winter look for the broad sterile blade and the erect fertile frond with grain-like sporangia; the winter reddening of the blade is the naming feature and helps separate it from other winter grape ferns."
+    },
+    "zh": {
+      "summary": "日本阴地蕨（アカハナワラビ）。瓶尔小草科冬绿蕨，生于本州至九州山地林缘与草地；如冬阴地蕨类于秋展叶越冬。冬叶转红为和名之由，直立孢子叶生粒状孢子囊。",
+      "habitat_hint": "山地林缘、草地、明亮次生林、路旁。",
+      "finding_tips": "秋至冬寻找宽阔营养叶与直立生粒状孢子囊之孢子叶；冬季营养叶转红为得名之由，可与其他冬阴地蕨相区别。"
+    }
   }
 }
