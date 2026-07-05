@@ -145,6 +145,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-07-05 (Claude) — ⚙️ parallel run: photo backfill (autonomous) + profiling (Claude)
+- **Track A (photos, background, ~0 Claude tokens):** `collect_species_photos` + `gbif_media` (+1,760 rows, 401 new species) + `wikicommons_hero` (+12,484 hero rows) → reachable-no-photo **6,854→6,418**, **17,888 species with a photo (81.6% commercial)**. Did NOT run `ensure_inat_taxon` (best_match bug). **⚠️ the run re-introduced 58 cross-species shared species_photo URLs + 4 shared hero photo_url (DQ-audit invariant) — FIXED:** quarantined 116 rows to `species_photo_quarantine` + repointed 6 thumbnails; both invariants back to **0** (`/tmp/fix_shared_photos.py`). Photo scripts are re-runnable/cached, so re-running any of them needs this shared-URL sweep again.
+- **Track B (profiling, +34):** reopened backlog is **10,079 unprofiled named species** (this session's naming). Did the top np≥10 tier: 34 four-language profiles (all plants — Quercus, Dianthus, Rhododendron, ferns/sedges), sidecar `data/species_profiles_extra.json` committed, applied via `seed_species_profiles`. Profile count **8,705→8,739**. Parallelism was safe because profiles write the sidecar FILE (not the DB) while photos held the DB; applied after Track A finished.
+- **Both deployed + verified live** (アベマキ shows profile+photo). merge_duplicate_species dry-run clean. **NEXT profiling: continue np≥10** (query in BATCH_TEMPLATE.md; ~1,210 left in np≥10, then np5-9/2-4/1). ~18/batch, sidecar-only commits, apply+`deploy_pages.sh` per few batches.
+
 ### 2026-07-05 (Claude) — 🟢 P2 LIVE + geolocation restored + card-display backfill
 - **DEPLOYED & LIVE.** User flipped GitHub Pages source to the `gh-pages` branch; <https://paranoid2droid.github.io/parklife/> now serves the static SPA (not the old blob). Deploy = `scripts/deploy_pages.sh` (orphan force-push). SW at **v5**.
 - **Map sharpness:** added `detectRetina: true` to the OSM tile layer (HiDPI Macs were getting 1×-blurred tiles; both old+new demos lacked it — now new is sharper). Verified in Chrome at device_scale_factor=2 (fetches z+1 tiles).
