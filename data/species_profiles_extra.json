@@ -208930,5 +208930,342 @@
       "habitat_hint": "湿润土壤、石面、土崖、林床、庭荫地面。",
       "finding_tips": "全年可见，寻找细茎两侧羽状两列排列扁平叶的小型藓；羽状形态为凤尾藓类特征，植株极小需放大镜。"
     }
+  },
+  "Cicuta virosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cowbane",
+    "aliases": {
+      "zh-Hans": "毒芹"
+    },
+    "ja": {
+      "summary": "ドクゼリ。北海道〜九州の池沼や湿地、水辺に生えるセリ科の大型多年草。日本三大有毒植物の一つで、全草、特に地下の太い緑色の根茎に猛毒(シクトキシン)をもつ。夏に白い小花の傘形花序をつける。食用のセリと生える場所が重なり、誤食による死亡例があり非常に危険。",
+      "habitat_hint": "池沼、湿地、水路、河畔、水を張った水辺。",
+      "finding_tips": "6〜8月、水辺で白い傘形の花序と、地下の太く緑色で中が節に分かれた根茎を確認する。セリに似るが大型で、根茎に横の仕切りがある点が識別点。猛毒なので絶対に採取・口にしないこと。"
+    },
+    "en": {
+      "summary": "Cowbane (Cicuta virosa). A large perennial of the carrot family in ponds, wetlands and watersides from Hokkaido to Kyushu, and one of Japan's three most poisonous plants; the whole plant, especially the stout green underground rhizome, holds the deadly toxin cicutoxin. It bears white umbels in summer. It grows where edible Japanese parsley does, and fatal poisonings from misidentification have occurred — extremely dangerous.",
+      "habitat_hint": "Ponds, wetlands, channels, riverbanks, flooded watersides.",
+      "finding_tips": "From June to August at watersides note the white umbels and the stout green underground rhizome, chambered inside by cross partitions. It resembles Japanese parsley but is larger; the chambered rhizome is diagnostic. Never pick or eat it — it is deadly poisonous."
+    },
+    "zh": {
+      "summary": "毒芹（ドクゼリ）。伞形科大型多年生草本，生于北海道至九州的池沼、湿地与水边，为日本三大有毒植物之一；全株尤其地下粗绿根状茎含剧毒（毒芹素）。夏生白色伞形花序。与可食的水芹同生一处，误食致死案例时有发生，极为危险。",
+      "habitat_hint": "池沼、湿地、水渠、河畔、灌水水边。",
+      "finding_tips": "6至8月于水边注意白色伞形花序与地下粗绿、内具横隔分室的根状茎。似水芹而大型，根茎横隔分室为识别点。剧毒，切勿采食。"
+    }
+  },
+  "Lithocarpus glaber": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese stone oak",
+    "aliases": {
+      "zh-Hans": "石栎"
+    },
+    "ja": {
+      "summary": "シリブカガシ。本州(近畿以西)〜九州の暖地の常緑樹林に生えるブナ科の常緑高木。マテバシイに近い仲間で、光沢のある厚い葉をもつ。秋に細長いどんぐりをつけ、その底(尻)が深くくぼむことが名の由来。花は秋に咲き、独特のにおいがする。",
+      "habitat_hint": "暖地の常緑広葉樹林、社寺林、谷沿いの斜面。",
+      "finding_tips": "通年、光沢のある厚い葉を確認する。秋の細長いどんぐりで、底が深くくぼむ点が名の由来で識別の手がかり。秋に咲く花の独特のにおいも特徴。暖地の常緑林に多い。"
+    },
+    "en": {
+      "summary": "Japanese stone oak (Lithocarpus glaber). An evergreen tree of the beech family in warm-temperate evergreen forests from the Kinki region westward to Kyushu; close to the mateba oak, it has thick glossy leaves and bears elongate acorns whose base is deeply hollowed — the source of the Japanese name ('deep-bottomed oak'). It flowers in autumn with a distinctive smell.",
+      "habitat_hint": "Warm-temperate evergreen broadleaf forest, shrine groves, valley slopes.",
+      "finding_tips": "Year-round, note the thick glossy leaves; the elongate autumn acorns with a deeply hollowed base are the naming feature and clue, and the autumn flowers have a distinctive smell. It is common in warm-region evergreen forest."
+    },
+    "zh": {
+      "summary": "石栎（シリブカガシ）。壳斗科常绿乔木，生于本州近畿以西至九州的暖地常绿林；近石柯，叶厚而有光泽。秋结狭长橡子，其底部深凹，为和名之由。秋季开花，具特殊气味。",
+      "habitat_hint": "暖地常绿阔叶林、社寺林、谷地坡地。",
+      "finding_tips": "全年可见，注意厚而光亮之叶；秋季狭长橡子底部深凹为得名之由与线索，秋花具特殊气味，多生暖地常绿林。"
+    }
+  },
+  "Isodon longitubus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-tube isodon",
+    "aliases": {
+      "zh-Hans": "长管香茶菜"
+    },
+    "ja": {
+      "summary": "アキチョウジ。本州(中部以西)〜九州の山地の林縁や谷沿い、道端に生えるシソ科の多年草。秋、細長い筒状で青紫色の唇形花を、茎の上部にまばらな穂状に多数咲かせる。花の筒が長いことが特徴。四角い茎と対生葉のシソ科植物。",
+      "habitat_hint": "山地の林縁、谷沿い、道端、やや湿った半日陰。",
+      "finding_tips": "9〜10月、細長い筒状で青紫色の唇形花を、茎の上部に穂状につける草を探す。花の筒が長い点が名の由来で識別の手がかり。四角い茎と対生葉も確認する。"
+    },
+    "en": {
+      "summary": "Long-tube isodon (Isodon longitubus). A perennial mint of montane forest edges, valleys and roadsides from central-western Honshu to Kyushu; in autumn it bears many blue-purple, long-tubed two-lipped flowers in loose spikes on the upper stem. The long flower tube is its distinctive feature. Square stem and opposite leaves mark the mint family.",
+      "habitat_hint": "Montane forest edges, valleys, roadsides, damp half-shade.",
+      "finding_tips": "From September to October look for the blue-purple, long-tubed two-lipped flowers in loose spikes on the upper stem; the long flower tube is the naming feature and clue. Note the square stem and opposite leaves."
+    },
+    "zh": {
+      "summary": "长管香茶菜（アキチョウジ）。唇形科多年生草本，生于本州中部以西至九州山地林缘、谷地与路旁；秋于茎上部疏穗状密生蓝紫色长筒唇形花，花筒长为其特征。方茎对生叶，具唇形科特征。",
+      "habitat_hint": "山地林缘、谷地、路旁、湿润半阴处。",
+      "finding_tips": "9至10月寻找茎上部穗状的蓝紫色长筒唇形花；花筒长为得名之由与线索，注意方茎与对生叶。"
+    }
+  },
+  "Turritis glabra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハタザオ。北海道〜九州の日当たりのよい草地や河原、道端に生えるアブラナ科の二年草。名の通り、細くまっすぐに1本立ちする茎(旗竿)の上部に、淡黄白色の小さな花をつける。茎につく葉は基部が矢じり状に茎を抱く。",
+      "habitat_hint": "日当たりのよい草地、河原、堤防、道端の乾いた所。",
+      "finding_tips": "5〜6月、細くまっすぐ1mほど立つ茎と、上部につく淡黄白色の小さな十字形の花を探す。茎の葉が基部で茎を抱く点、花後に細長い果実が茎に沿って直立する点が手がかり。"
+    },
+    "en": {
+      "summary": "Tower mustard (Turritis glabra). A biennial crucifer of sunny grassland, riverbeds and roadsides from Hokkaido to Kyushu; true to its Japanese name ('flagpole'), it raises a slender, straight single stem with small pale yellowish-white flowers at the top. The stem leaves clasp the stem with arrow-shaped bases.",
+      "habitat_hint": "Sunny grassland, riverbeds, embankments, dry roadsides.",
+      "finding_tips": "In May–June look for the slender straight stem to about 1 m with small pale yellowish-white cross-shaped flowers at the top; the arrow-based clasping stem leaves and the slender fruits held erect against the stem are clues."
+    },
+    "zh": {
+      "summary": "旗杆芥（ハタザオ）。十字花科二年生草本，生于北海道至九州向阳草地、河滩与路旁；如和名「旗杆」所示，细直单茎顶端生淡黄白色小花。茎生叶基部箭形抱茎。",
+      "habitat_hint": "向阳草地、河滩、堤岸、路旁干燥处。",
+      "finding_tips": "5至6月寻找细直约1米之茎与顶端淡黄白色十字小花；茎叶箭形抱茎、花后细长果贴茎直立为线索。"
+    }
+  },
+  "Trifolium hybridum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチオランダゲンゲ(アルサイククローバー)。ヨーロッパ原産で牧草・緑肥として導入され、河原や道端、草地に帰化したマメ科の多年草。シロツメクサに似るが、茎が立ち上がり、白〜淡紅色の球状の花が咲き進むと下向きに垂れて褐色になる。",
+      "habitat_hint": "河原、道端、草地、堤防、牧草地の日当たりのよい所。",
+      "finding_tips": "5〜9月、立ち上がる茎と、白〜淡紅色の球状の花を探す。シロツメクサ(地を這う)と違い茎が立ち、花が咲き進むと下向きに垂れる点が手がかり。3小葉に白斑がない点も。"
+    },
+    "en": {
+      "summary": "Alsike clover (Trifolium hybridum). A European perennial pea introduced as forage and green manure and naturalised on riverbeds, roadsides and grassland; like white clover but with erect stems, its white to pale pink globular flower heads turn downward and brown as they age.",
+      "habitat_hint": "Riverbeds, roadsides, grassland, embankments, pasture in the sun.",
+      "finding_tips": "From May to September look for the erect stems and white-to-pink globular heads; unlike the creeping white clover the stems stand up and the heads nod and brown with age. The leaflets lack a white mark."
+    },
+    "zh": {
+      "summary": "杂种车轴草（タチオランダゲンゲ）。豆科多年生草本，原产欧洲，作牧草与绿肥引入并归化于河滩、路旁与草地；似白车轴草而茎直立，白至淡红色球状花头随花期下垂并转褐。",
+      "habitat_hint": "河滩、路旁、草地、堤岸、牧地向阳处。",
+      "finding_tips": "5至9月寻找直立之茎与白至淡红球状花头；茎直立、花头随龄下垂转褐，可与匍匐的白车轴草相区别，小叶无白斑。"
+    }
+  },
+  "Chenopodium giganteum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タカサゴムラサキアカザ。栽培から逃げ出して道端や畑、荒れ地に生えるヒユ科(旧アカザ科)の大型の一年草。高さ2mを超えることもある。生長点付近の若い葉が鮮やかな紅紫色の粉におおわれて赤く染まるのが目を引く。若葉は食用にもされる。",
+      "habitat_hint": "道端、畑、空き地、荒れ地、河原の日当たりのよい所。",
+      "finding_tips": "夏〜秋、大型の草姿と、茎の先の若い葉が鮮やかな紅紫色に染まる点を探す。アカザに似るが著しく大型で、生長点の赤紫色が目立つ点が手がかり。"
+    },
+    "en": {
+      "summary": "Tree spinach (Chenopodium giganteum). A large annual of the amaranth family (formerly goosefoot family) escaped from cultivation to roadsides, fields and waste ground, sometimes over 2 m tall; its young leaves near the growing tip are coated with vivid magenta meal and flush bright red — a striking sight. The young leaves are also eaten.",
+      "habitat_hint": "Roadsides, fields, vacant lots, waste ground, riverbeds in the sun.",
+      "finding_tips": "From summer to autumn look for the large habit and the vivid magenta flush of the young leaves at the shoot tips; its far greater size and the bright magenta growing point separate it from the common goosefoot."
+    },
+    "zh": {
+      "summary": "杖藜（タカサゴムラサキアカザ）。苋科（旧藜科）大型一年生草本，自栽培逸生于路旁、农田与荒地，有时高逾2米；生长点附近嫩叶被鲜艳品红色粉而染红，甚为醒目，嫩叶亦可食。",
+      "habitat_hint": "路旁、农田、空地、荒地、河滩向阳处。",
+      "finding_tips": "夏秋寻找大型草姿与茎端嫩叶染鲜品红之状；较藜显著大型、生长点品红醒目为线索。"
+    }
+  },
+  "Juncus alatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハナビゼキショウ。水田の畦や湿地、湿った道端に生えるイグサ科の多年草。茎に翼(平たいひれ)があるのが特徴。緑色の花・果実が星形の小さな球状に集まった塊を、分枝した花序に多数つけ、その姿が線香花火に見立てられる。",
+      "habitat_hint": "水田の畦、湿地、湿った道端、水路沿いの湿った裸地。",
+      "finding_tips": "6〜9月、茎に翼(ひれ)がある点と、緑色の星形の球状に集まる花・果実の塊を探す。花序全体が線香花火のように見える点が名の由来で識別の手がかり。"
+    },
+    "en": {
+      "summary": "Winged-stem rush (Juncus alatus). A perennial rush of paddy bunds, wetlands and damp roadsides, distinguished by the wing (flat flange) on its stem; branched inflorescences bear many green flowers and fruits gathered into small star-shaped balls, likened to a sparkler.",
+      "habitat_hint": "Paddy bunds, wetlands, damp roadsides, wet bare ground by ditches.",
+      "finding_tips": "From June to September note the winged (flanged) stem and the green star-shaped balls of flowers and fruits; the sparkler-like look of the whole inflorescence is the naming feature and clue."
+    },
+    "zh": {
+      "summary": "翅茎灯心草（ハナビゼキショウ）。灯心草科多年生草本，生于稻田田埂、湿地与湿润路旁；茎具翅（扁平棱翼）为其特征。分枝花序生多数绿色星形小球团（花与果），全序如烟火，为和名之由。",
+      "habitat_hint": "稻田田埂、湿地、湿润路旁、水沟旁湿润裸地。",
+      "finding_tips": "6至9月注意具翅之茎与绿色星形小球团；全花序如烟火为得名之由与线索。"
+    }
+  },
+  "Poa palustris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fowl bluegrass",
+    "aliases": {
+      "zh-Hans": "沼生早熟禾"
+    },
+    "ja": {
+      "summary": "ヌマイチゴツナギ。ユーラシア・北アメリカ原産で河原や湿地、道端に帰化したイネ科の多年草。柔らかく、初夏〜夏に細い枝を大きく広げた円錐花序を立て、小さな小穂を多数つける。湿った所を好む。イチゴツナギ類は小穂や葉舌で見分ける。",
+      "habitat_hint": "河原、湿地、水辺、道端、堤防のやや湿った所。",
+      "finding_tips": "6〜8月、細い枝を大きく広げる円錐花序と、柔らかい草姿を探す。湿った所を好む点、円錐花序が開いて多数の小穂をつける点が手がかり。"
+    },
+    "en": {
+      "summary": "Fowl bluegrass (Poa palustris). A perennial grass of Eurasian and North American origin naturalised on riverbeds, wetlands and roadsides; soft, in early summer to summer it raises a panicle of widely spreading fine branches with many small spikelets. It favours damp ground; the meadow-grasses are keyed by spikelet and ligule.",
+      "habitat_hint": "Riverbeds, wetlands, watersides, roadsides, damp embankments.",
+      "finding_tips": "From June to August look for the panicle of widely spreading fine branches and the soft habit; its preference for damp ground and the open panicle of many small spikelets are clues."
+    },
+    "zh": {
+      "summary": "沼生早熟禾（ヌマイチゴツナギ）。禾本科多年生草本，原产欧亚与北美，归化于河滩、湿地与路旁；草质柔软，初夏至夏抽出枝大展的圆锥花序，生多数小穗。喜湿。早熟禾类以小穗与叶舌区分。",
+      "habitat_hint": "河滩、湿地、水边、路旁、湿润堤岸。",
+      "finding_tips": "6至8月寻找枝大展的圆锥花序与柔软草姿；喜湿、圆锥花序开展生多数小穗为线索。"
+    }
+  },
+  "Stellaria apetala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Petalless chickweed",
+    "ja": {
+      "summary": "イヌコハコベ。道端や畑、庭、荒れ地に生えるナデシコ科の一〜二年草。コハコベによく似るが、名の通り花弁がほとんど無く、萼だけの地味な花を咲かせる。茎の片側に1列の毛があり、赤紫色を帯びることが多い。ごく普通の雑草。",
+      "habitat_hint": "道端、畑、庭、荒れ地、舗装の隙間などの日当たりのよい所。",
+      "finding_tips": "3〜6月、コハコベに似た草だが、花弁がほとんど無く萼だけの地味な花を確認する。茎が赤紫色を帯び、片側に1列の毛がある点も手がかり。都市の裸地に普通。"
+    },
+    "en": {
+      "summary": "Petalless chickweed (Stellaria apetala). An annual to biennial of the pink family on roadsides, fields, gardens and waste ground; it closely resembles common chickweed but, as its name says, has almost no petals, its plain flowers reduced to sepals. The stem bears a line of hairs down one side and is often red-purple. A very common weed.",
+      "habitat_hint": "Roadsides, fields, gardens, waste ground, pavement cracks in the sun.",
+      "finding_tips": "From March to June note the chickweed-like plant whose plain flowers have almost no petals, just sepals; the red-purple stem with a single line of hairs down one side is a clue. Common on urban bare ground."
+    },
+    "zh": {
+      "summary": "无瓣繁缕（イヌコハコベ）。石竹科一至二年生草本，生于路旁、农田、庭园与荒地；甚似繁缕而如其名几无花瓣，花朴素仅具萼。茎一侧具一列毛，常带紫红。为极常见杂草。",
+      "habitat_hint": "路旁、农田、庭园、荒地、铺装缝隙等向阳处。",
+      "finding_tips": "3至6月注意似繁缕而花几无瓣、仅具萼之朴素花；茎带紫红、一侧具一列毛为线索，城市裸地常见。"
+    }
+  },
+  "Helichrysum luteoalbum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jersey cudweed",
+    "ja": {
+      "summary": "セイタカハハコグサ。ユーラシア・アフリカ原産で道端や畑、河原、荒れ地に帰化したキク科の一〜二年草。全体が白い綿毛におおわれ、茎の先に淡黄色〜白っぽい小さな頭花を球状に密集してつける。ハハコグサに似るが背が高く直立する。",
+      "habitat_hint": "道端、畑、河原、荒れ地、埋め立て地の日当たりのよい所。",
+      "finding_tips": "5〜9月、白い綿毛におおわれた茎の先に、淡黄〜白っぽい小さな頭花が球状に集まる点を探す。ハハコグサより背が高く直立する点、綿毛の多さが手がかり。"
+    },
+    "en": {
+      "summary": "Jersey cudweed (Helichrysum luteoalbum). A Eurasian–African annual to biennial of the daisy family naturalised on roadsides, fields, riverbeds and waste ground; woolly-white throughout, it clusters small pale yellow to whitish flower-heads into balls at the stem tips. Like the Jersey cudweed's relatives but taller and erect.",
+      "habitat_hint": "Roadsides, fields, riverbeds, waste ground, reclaimed land in the sun.",
+      "finding_tips": "From May to September look for the woolly-white stems topped with balls of small pale yellow to whitish heads; its taller, erect habit and dense wool separate it from the low cudweed."
+    },
+    "zh": {
+      "summary": "秋鼠麴草（セイタカハハコグサ）。菊科一至二年生草本，原产欧亚与非洲，归化于路旁、农田、河滩与荒地；全株被白色绵毛，茎端球状密集淡黄至近白色小头花。似鼠麴草而植株高而直立。",
+      "habitat_hint": "路旁、农田、河滩、荒地、填土地向阳处。",
+      "finding_tips": "5至9月寻找被白绵毛之茎端球状聚生的淡黄至近白色小头花；植株高直立、绵毛多，可与低矮的鼠麴草相区别。"
+    }
+  },
+  "Laternea columnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Column stinkhorn",
+    "ja": {
+      "summary": "カニノツメ。夏〜秋、庭や畑、林縁の腐植質に富む地面や落ち葉の上に発生するスッポンタケ科のキノコ。2本の細い柱が上部で弓なりに合わさり、カニのはさみのような形をつくる。合わさった内側に暗緑色で悪臭のある粘液(グレバ)をつけ、ハエを呼んで胞子を運ばせる。",
+      "habitat_hint": "庭、畑、林縁、落ち葉やウッドチップの上の腐植質に富む地面。",
+      "finding_tips": "6〜10月、白い袋(卵)から出て、2本の柱が上で合わさりカニのはさみ状になる姿を探す。合わさった内側の暗緑色で悪臭のある粘液が手がかり。ハエが集まることも多い。"
+    },
+    "en": {
+      "summary": "Column stinkhorn (Laternea columnata). A fungus of the stinkhorn family appearing in summer to autumn on humus-rich ground and leaf litter in gardens, fields and forest edges; two slender columns arch together at the top to form a crab-claw shape, bearing dark green, foul-smelling slime (gleba) on the inner side that attracts flies to carry the spores.",
+      "habitat_hint": "Gardens, fields, forest edges, humus-rich ground over leaf litter and wood chips.",
+      "finding_tips": "From June to October look for the two columns emerging from a white 'egg' and arching together like a crab claw; the dark green, foul-smelling slime on the inner side is the clue, and flies often gather."
+    },
+    "zh": {
+      "summary": "柱状拱门菌（カニノツメ）。鬼笔科蕈类，夏秋生于庭园、农田与林缘富腐殖质的地面及落叶上；两细柱于上端弓合成蟹钳状，合处内侧具暗绿色恶臭黏液（产孢体），引蝇传孢。",
+      "habitat_hint": "庭园、农田、林缘、落叶与木屑上的富腐殖质地面。",
+      "finding_tips": "6至10月寻找自白色「卵」中伸出、两柱上端弓合如蟹钳之姿；合处内侧暗绿恶臭黏液为线索，常有蝇聚。"
+    }
+  },
+  "Laccaria vinaceoavellanea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Deceiver",
+    "ja": {
+      "summary": "カレバキツネタケ。夏〜秋、林内の地上に発生するヒドナンギウム科(旧キシメジ科)の小さなキノコ。傘は径2〜5cmで、淡い紅褐色〜肌色(枯葉のような色)。ひだは幅広くまばらで、傘と同色〜やや淡い。キツネタケの仲間で、日本の林でごく普通に見られる。",
+      "habitat_hint": "雑木林・スギ林などの林内の地上、林縁の落ち葉の間。",
+      "finding_tips": "6〜10月、林内の地上で、淡紅褐色〜枯葉色の径2〜5cmの傘と、幅広くまばらなひだをもつ小さなキノコを探す。全体が枯葉のような色合いで、柄が繊維質な点が手がかり。"
+    },
+    "en": {
+      "summary": "Deceiver (Laccaria vinaceoavellanea). A small fungus of the Hydnangiaceae (formerly Tricholomataceae) appearing on the ground in woods in summer to autumn; the cap is 2–5 cm across and pale vinaceous-brown to buff (a dead-leaf colour), with broad, widely spaced gills of similar or paler colour. A deceiver, very common in Japanese woods.",
+      "habitat_hint": "On the ground in mixed and cedar woods, among leaf litter at edges.",
+      "finding_tips": "From June to October look on woodland ground for the small mushroom with a 2–5 cm pale vinaceous-brown to buff cap and broad, widely spaced gills; the overall dead-leaf colour and fibrous stem are clues."
+    },
+    "zh": {
+      "summary": "枯叶蜡蘑（カレバキツネタケ）。轴腹菌科（旧口蘑科）小型蕈类，夏秋生于林内地上；菌盖径2至5厘米、淡酒褐至肉色（似枯叶），菌褶宽而稀、与盖同色或稍淡。为蜡蘑类，于日本林中甚常见。",
+      "habitat_hint": "杂木林、杉林等林内地上，林缘落叶间。",
+      "finding_tips": "6至10月于林内地上寻找淡酒褐至枯叶色、径2至5厘米之盖与宽稀菌褶的小蕈；整体枯叶色调与纤维质柄为线索。"
+    }
+  },
+  "Radulomyces copelandii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サガリハリタケ。広葉樹の枯れ木や倒木、生木の幹に発生する革質のキノコ。白色〜淡黄白色で、幹の下面に多数の細長い針(歯状の突起)が下向きに垂れ下がってつくのが特徴。傘はほとんどなく、幹に広がって針状の子実層をつくる。",
+      "habitat_hint": "広葉樹(特にケヤキやサクラなど)の枯れ木・倒木・生木の幹、公園や社寺の大木。",
+      "finding_tips": "秋、広葉樹の幹の下面に、白〜淡黄白色の細長い針が多数下向きに垂れ下がってつく点を探す。傘がなく針状の子実層が幹に広がる姿が独特で識別しやすい。"
+    },
+    "en": {
+      "summary": "Radulomyces copelandii. A leathery fungus growing on dead broadleaf wood, logs and living trunks; white to pale yellowish-white, it is distinctive for the many slender spines (tooth-like projections) that hang downward from the underside of the trunk. It has almost no cap, forming a spiny spore surface spread over the wood.",
+      "habitat_hint": "Trunks of dead and living broadleaf trees (e.g. zelkova, cherry), large trees in parks and shrine grounds.",
+      "finding_tips": "In autumn look on the underside of broadleaf trunks for the many slender white to pale-yellow spines hanging downward; the capless, spiny spore surface spread over the wood is distinctive and easy to recognise."
+    },
+    "zh": {
+      "summary": "拷氏齿舌革菌（サガリハリタケ）。革质蕈类，生于阔叶树枯木、倒木与活立木干上；白至淡黄白色，以自树干下面多数细长针（齿状突起）下垂为特征。几无菌盖，于木面铺展成针状子实层。",
+      "habitat_hint": "阔叶树（尤榉、樱等）枯木、倒木与活立木干，公园及社寺大树。",
+      "finding_tips": "秋于阔叶树干下面寻找多数白至淡黄的细长针下垂之状；无盖而针状子实层铺展于木面，独特易辨。"
+    }
+  },
+  "Sasa kurilensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kuril bamboo",
+    "ja": {
+      "summary": "チシマザサ(ネマガリタケ)。北海道〜本州の亜高山〜山地の斜面や林床、雪の多い地方に群生するイネ科のササ。雪の重みで稈の根元が曲がることが多く、ネマガリタケの別名がある。太めの稈と大きな葉をもち、春の若い稈(タケノコ)は山菜として珍重される。",
+      "habitat_hint": "亜高山〜山地の斜面、林床、多雪地の一面のササ原。",
+      "finding_tips": "通年、太めの稈と大きな葉を確認する。雪で根元が曲がる(根曲がり)点が別名の由来。春の若い稈は「姫竹」「根曲がり竹」として食用にされ、一面に密生してササ原をつくる点も手がかり。"
+    },
+    "en": {
+      "summary": "Kuril bamboo (Sasa kurilensis). A bamboo of the grass family forming stands on subalpine to montane slopes, forest floors and snowy districts from Hokkaido to Honshu; the base of the culm is often bent by snow load, giving the alternate name 'nemagari-take'. With stout culms and large leaves, its spring shoots are prized as a wild vegetable.",
+      "habitat_hint": "Subalpine to montane slopes, forest floors, extensive stands in snowy country.",
+      "finding_tips": "Year-round, note the stout culms and large leaves; the snow-bent culm base gives the alternate name. The spring shoots are eaten as 'nemagari-take', and it carpets the ground in dense stands."
+    },
+    "zh": {
+      "summary": "千岛箬竹（チシマザサ／ネマガリタケ）。禾本科竹类，成丛生于北海道至本州的亚高山至山地坡地、林床与多雪地区；秆基常因雪压而弯曲，故又名「根曲竹」。秆较粗、叶大，春季嫩笋作山菜珍食。",
+      "habitat_hint": "亚高山至山地坡地、林床、多雪地一片竹原。",
+      "finding_tips": "全年可见，注意较粗之秆与大叶；雪压秆基弯曲为别名之由，春笋作「根曲竹」食用，常密生成片竹原。"
+    }
+  },
+  "Solanum pittosporifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Climbing nightshade",
+    "ja": {
+      "summary": "ヤマホロシ。本州〜九州の山地の林縁や谷沿い、明るい二次林に生えるナス科のつる性多年草。細い茎で他の草木に絡み、夏に淡紫色〜白の星形の小花を咲かせ、秋に赤く熟す小さな球形の実をつける。ヒヨドリジョウゴに似るが全体に毛が少ない。",
+      "habitat_hint": "山地の林縁、谷沿い、明るい二次林、他の木に絡む。",
+      "finding_tips": "7〜9月、淡紫〜白の星形の小花(反り返る花弁)と、秋の赤い小さな球形の実を探す。ヒヨドリジョウゴに似るが茎や葉の毛が少なく、山地に多い点が手がかり。実は有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Climbing nightshade (Solanum pittosporifolium). A twining perennial of the nightshade family on montane forest edges, valleys and bright secondary woods from Honshu to Kyushu; it climbs slender over other plants, opens pale purple to white star-shaped flowers in summer, and ripens small round red fruits in autumn. Like Solanum lyratum but less hairy.",
+      "habitat_hint": "Montane forest edges, valleys, bright secondary woods, over other plants.",
+      "finding_tips": "From July to September look for the pale purple to white star-shaped flowers with reflexed petals and the small round red autumn fruits; its sparser hairs and montane habitat separate it from Solanum lyratum. The fruit is toxic — do not eat."
+    },
+    "zh": {
+      "summary": "珊瑚豆状茄（ヤマホロシ）。茄科缠绕性多年生草本，生于本州至九州山地林缘、谷地与明亮次生林；细茎缠绕他物，夏开淡紫至白色星形小花，秋结红熟球形小果。似白英而毛较少。",
+      "habitat_hint": "山地林缘、谷地、明亮次生林、缠绕他木。",
+      "finding_tips": "7至9月寻找淡紫至白色、花瓣反卷的星形小花与秋季红色球形小果；毛较少、多生山地，可与白英相区别。果有毒，勿食。"
+    }
   }
 }
