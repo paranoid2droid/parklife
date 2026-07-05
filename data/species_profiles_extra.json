@@ -206707,5 +206707,352 @@
       "habitat_hint": "农田、庭园、公园花木叶背，及温室作物。",
       "finding_tips": "初夏至秋寻找叶背细丝与白色斑驳之叶；用放大镜可见体具二黑斑的微小叶螨爬动。"
     }
+  },
+  "Calamagrostis hakonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakone small-reed",
+    "ja": {
+      "summary": "ヒメノガリヤス。北海道〜九州の山地の林縁や道端、崩壊地に生えるイネ科の多年草。細い茎が立ち、夏〜秋に淡緑〜淡紫色の細長い円錐花序をつける。ノガリヤスより小型で繊細。",
+      "habitat_hint": "山地の林縁、道端、崩壊地、明るい斜面。",
+      "finding_tips": "7〜9月、細く立つ茎と、淡色の細長い円錐花序を探す。小穂の基部に花より長い白い毛(基毛)がある点がノガリヤス類の手がかり。"
+    },
+    "en": {
+      "summary": "Hakone small-reed (Calamagrostis hakonensis). A perennial grass of montane forest edges, roadsides and landslip scars from Hokkaido to Kyushu, with slender erect stems and a narrow pale green to purplish panicle in summer to autumn; it is smaller and finer than the related reed-grasses.",
+      "habitat_hint": "Montane forest edges, roadsides, landslip scars, bright slopes.",
+      "finding_tips": "From July to September look for the slender erect stems and narrow pale panicle; the white basal hairs exceeding the floret are typical of the small-reeds."
+    },
+    "zh": {
+      "summary": "箱根野青茅（ヒメノガリヤス）。禾本科多年生草本，生于北海道至九州山地林缘、路旁与崩塌地；茎细直，夏秋生淡绿至淡紫色的狭长圆锥花序，较野青茅小型纤细。",
+      "habitat_hint": "山地林缘、路旁、崩塌地、明亮坡地。",
+      "finding_tips": "7至9月寻找细直之茎与淡色狭长圆锥花序；小穗基部长于小花的白色基盘毛为野青茅类线索。"
+    }
+  },
+  "Sceptridium robustum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Robust grape fern",
+    "ja": {
+      "summary": "エゾフユノハナワラビ。北海道〜本州の山地の林縁や草地に生えるハナヤスリ科の冬緑性シダ。秋に葉を展開し冬を越すフユノハナワラビの仲間で、栄養葉は幅広く厚みがあり、直立する胞子葉に粒状の胞子嚢がつく。",
+      "habitat_hint": "山地の林縁、草地、明るい二次林、道端。",
+      "finding_tips": "秋〜春、幅広く厚い栄養葉と、直立して粒状の胞子嚢をつける胞子葉を探す。フユノハナワラビより葉が大きく厚い点が手がかり。"
+    },
+    "en": {
+      "summary": "Robust grape fern (Sceptridium robustum). A winter-green fern of the adder's-tongue family on montane forest edges and grassland from Hokkaido to Honshu; like other winter grape ferns it unfurls its frond in autumn and overwinters, with a broad, thick sterile blade and an erect fertile frond bearing grain-like sporangia.",
+      "habitat_hint": "Montane forest edges, grassland, bright secondary woods, roadsides.",
+      "finding_tips": "From autumn to spring look for the broad, thick sterile blade and the erect fertile frond with grain-like sporangia; its larger, thicker blade separates it from the common winter grape fern."
+    },
+    "zh": {
+      "summary": "粗壮阴地蕨（エゾフユノハナワラビ）。瓶尔小草科冬绿蕨，生于北海道至本州山地林缘与草地；如冬阴地蕨类于秋展叶越冬，营养叶宽厚，直立孢子叶生粒状孢子囊。",
+      "habitat_hint": "山地林缘、草地、明亮次生林、路旁。",
+      "finding_tips": "秋至春寻找宽厚营养叶与直立生粒状孢子囊之孢子叶；叶较冬阴地蕨大而厚为线索。"
+    }
+  },
+  "Leptochilus ellipticus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oval-leaf fern",
+    "ja": {
+      "summary": "イワヒトデ。本州(関東以西)〜九州・沖縄の暖地の湿った岩壁や樹幹、林床に生えるウラボシ科の常緑性シダ。単葉で、時に浅く羽状に裂ける革質の葉をもち、地下茎で這って広がる。",
+      "habitat_hint": "暖地の谷沿いの湿った岩壁、樹幹、林床、社寺林。",
+      "finding_tips": "通年、革質で単葉(時に浅裂)の光沢のある葉が、地下茎で這いながら並ぶ点を確認する。葉裏の丸い胞子嚢群も手がかり。"
+    },
+    "en": {
+      "summary": "Iwahitode (Leptochilus ellipticus). An evergreen fern of the Polypodiaceae on damp rock walls, tree trunks and forest floors in warm regions from western Honshu to Kyushu and Okinawa; its leathery fronds are simple (sometimes shallowly pinnately lobed) and it creeps and spreads by a rhizome.",
+      "habitat_hint": "Damp valley rock walls, tree trunks, forest floor, shrine groves in warm regions.",
+      "finding_tips": "Year-round, note the leathery, simple (sometimes lobed) glossy fronds spaced along a creeping rhizome; the round sori on the underside are a further clue."
+    },
+    "zh": {
+      "summary": "断线蕨（イワヒトデ）。水龙骨科常绿蕨，生于本州关东以西至九州、冲绳暖地的湿润岩壁、树干与林床；叶单一（有时浅羽裂）、革质，以根状茎匍匐蔓延。",
+      "habitat_hint": "暖地谷地湿润岩壁、树干、林床、社寺林。",
+      "finding_tips": "全年可见，注意革质单叶（有时浅裂）沿匍匐根状茎排列；叶背圆形孢子囊群为线索。"
+    }
+  },
+  "Poa crassinervis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tsukushi bluegrass",
+    "ja": {
+      "summary": "ツクシスズメノカタビラ。本州〜九州の山地の湿った林縁や沢沿い、道端に生えるイネ科の多年草。スズメノカタビラの仲間で柔らかく、初夏に細い枝を広げた円錐花序に小さな小穂をつける。",
+      "habitat_hint": "山地の湿った林縁、沢沿い、道端、半日陰。",
+      "finding_tips": "5〜7月、柔らかい草姿と、細い枝を広げた円錐花序を探す。スズメノカタビラ類は小穂や葉舌の細部で見分ける。"
+    },
+    "en": {
+      "summary": "Tsukushi bluegrass (Poa crassinervis). A soft perennial grass of damp montane forest edges, streamsides and roadsides from Honshu to Kyushu; a meadow-grass with a panicle of fine spreading branches bearing small spikelets in early summer.",
+      "habitat_hint": "Damp montane forest edges, streamsides, roadsides, half-shade.",
+      "finding_tips": "From May to July look for the soft habit and the panicle of fine spreading branches; the meadow-grasses are keyed by spikelet and ligule details."
+    },
+    "zh": {
+      "summary": "筑紫早熟禾（ツクシスズメノカタビラ）。禾本科多年生草本，生于本州至九州山地湿润林缘、溪边与路旁；为早熟禾类，草质柔软，初夏生枝细展的圆锥花序、小穗小。",
+      "habitat_hint": "山地湿润林缘、溪边、路旁、半阴处。",
+      "finding_tips": "5至7月寻找柔软草姿与枝细展的圆锥花序；早熟禾类以小穗与叶舌细节区分。"
+    }
+  },
+  "Poa hisauchii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマミゾイチゴツナギ。本州〜九州の山地の湿った林縁や沢沿い、溝のふちに生えるイネ科の多年草。柔らかく、初夏に細い枝を広げた繊細な円錐花序を立て、小さな小穂をまばらにつける。",
+      "habitat_hint": "山地の湿った林縁、沢沿い、溝のふち、半日陰。",
+      "finding_tips": "5〜7月、湿った所に生える柔らかい草と、細い枝を広げる繊細な円錐花序を探す。イチゴツナギ類は小穂や葉舌の細部で見分ける。"
+    },
+    "en": {
+      "summary": "Ditch bluegrass (Poa hisauchii). A soft perennial grass of damp montane forest edges, streamsides and ditch margins from Honshu to Kyushu, raising a delicate panicle of fine spreading branches with sparse small spikelets in early summer.",
+      "habitat_hint": "Damp montane forest edges, streamsides, ditch margins, half-shade.",
+      "finding_tips": "From May to July look on damp ground for the soft grass and the delicate panicle of fine spreading branches; spikelet and ligule details key the meadow-grasses."
+    },
+    "zh": {
+      "summary": "久内早熟禾（ヤマミゾイチゴツナギ）。禾本科多年生草本，生于本州至九州山地湿润林缘、溪边与沟缘；草质柔软，初夏抽枝细展的纤细圆锥花序、小穗稀疏。",
+      "habitat_hint": "山地湿润林缘、溪边、沟缘、半阴处。",
+      "finding_tips": "5至7月于湿处寻找柔软草与枝细展的纤细圆锥花序；早熟禾类以小穗与叶舌细节区分。"
+    }
+  },
+  "Cyperus leptocarpus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒンジガヤツリ。水田や湿地、河原に生えるカヤツリグサ科の一年草。三角形の細い茎の先に、小さな小穂を数個ずつ手のひら状に集めてつける。全体に小型で、水田雑草として見られる。",
+      "habitat_hint": "水田、休耕田、河原、湿地、水路沿いの湿った所。",
+      "finding_tips": "8〜10月、三角形の細い茎の先に手のひら状に集まる小さな小穂を探す。全体に小型な点と、湿地に生える点が手がかり。"
+    },
+    "en": {
+      "summary": "Hinji-gayatsuri (Cyperus leptocarpus). An annual sedge of paddies, wetlands and riverbeds, its slender triangular stems bearing a few small spikelets gathered in a hand-like cluster at the tip; a small plant seen as a paddy weed.",
+      "habitat_hint": "Paddies, fallow paddies, riverbeds, wetlands, damp ditch sides.",
+      "finding_tips": "From August to October look for the small spikelets gathered hand-like at the tips of slender triangular stems; its small size and wetland habit are clues."
+    },
+    "zh": {
+      "summary": "湖瓜草（ヒンジガヤツリ）。莎草科一年生草本，生于稻田、湿地与河滩；三棱细茎顶端掌状聚生数枚小穗，植株小型，为稻田杂草。",
+      "habitat_hint": "稻田、休耕田、河滩、湿地、水沟旁湿润处。",
+      "finding_tips": "8至10月寻找三棱细茎顶端掌状聚生的小穗；植株小型、生于湿地为线索。"
+    }
+  },
+  "Nubelaria diversiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh chickweed",
+    "ja": {
+      "summary": "サワハコベ。北海道〜九州の山地の湿った林床や沢沿いに生えるナデシコ科の多年草。ハコベの仲間で、細い茎を這わせて広がり、初夏に白い5弁の小花を咲かせる。花弁は先が浅く2裂する。",
+      "habitat_hint": "山地の湿った林床、沢沿いの半日陰、湧水地のふち。",
+      "finding_tips": "5〜7月、湿った林床を這う細い茎と、白い5弁(先が2裂)の小花を探す。ハコベ類の中では山地の湿った所を好む点が手がかり。"
+    },
+    "en": {
+      "summary": "Marsh chickweed (Nubelaria diversiflora). A perennial of the pink family on damp montane forest floors and streamsides from Hokkaido to Kyushu; a chickweed relative, it spreads by slender creeping stems and opens small white five-petalled flowers in early summer, each petal shallowly two-cleft at the tip.",
+      "habitat_hint": "Damp montane forest floor, half-shaded streamsides, spring margins.",
+      "finding_tips": "From May to July look for the slender stems creeping over damp forest floor and the small white flowers with shallowly two-cleft petals; its preference for damp montane sites is a clue."
+    },
+    "zh": {
+      "summary": "沼繁缕（サワハコベ）。石竹科多年生草本，生于北海道至九州山地湿润林床与溪边；为繁缕类，细茎匍匐蔓延，初夏开白色5瓣小花，花瓣先端浅二裂。",
+      "habitat_hint": "山地湿润林床、溪旁半阴处、泉边。",
+      "finding_tips": "5至7月寻找匍匐于湿润林床的细茎与花瓣浅二裂的白色小花；喜山地湿处为线索。"
+    }
+  },
+  "Anisocampium sheareri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shearer's lady fern",
+    "ja": {
+      "summary": "ウラボシノコギリシダ。本州(関東以西)〜九州の暖地の湿った林床や沢沿いに生えるメシダ科の夏緑性シダ。軟らかい葉の羽片の縁が鋸歯状で、葉裏に細長い胞子嚢群がつく。イヌワラビに近い仲間。",
+      "habitat_hint": "暖地の湿った林床、沢沿いの斜面、スギ林の縁。",
+      "finding_tips": "6〜10月、軟らかく羽片の縁が鋸歯状の葉を探す。葉裏の細長い胞子嚢群と、湿った暖地に生える点が手がかり。"
+    },
+    "en": {
+      "summary": "Shearer's lady fern (Anisocampium sheareri). A summer-green fern of the Athyriaceae on damp warm-temperate forest floors and streamsides from western Honshu to Kyushu, with soft fronds whose pinnae have saw-toothed margins and elongate sori beneath; it is close to the common lady fern.",
+      "habitat_hint": "Damp warm-temperate forest floor, streamside slopes, cedar-plantation edges.",
+      "finding_tips": "From June to October look for soft fronds with saw-toothed pinna margins; the elongate sori beneath and its damp warm-region habitat are clues."
+    },
+    "zh": {
+      "summary": "华中蹄盖蕨（ウラボシノコギリシダ）。蹄盖蕨科夏绿蕨，生于本州关东以西至九州暖地湿润林床与溪边；叶柔软，羽片边缘锯齿状，叶背生长形孢子囊群，近日本蹄盖蕨。",
+      "habitat_hint": "暖地湿润林床、溪旁坡地、杉林林缘。",
+      "finding_tips": "6至10月寻找羽片边缘锯齿状的柔软叶；叶背长形孢子囊群与暖地湿处生境为线索。"
+    }
+  },
+  "Polygonum arenastrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハイミチヤナギ。ユーラシア原産で道端や舗装の隙間、荒れ地に帰化したタデ科の一年草。ミチヤナギの仲間で、細い茎が地を這うように広がり、葉腋に淡緑〜淡紅色のごく小さな花をつける。踏みつけに強い。",
+      "habitat_hint": "道端、舗装の隙間、駐車場、荒れ地などの踏み固められた所。",
+      "finding_tips": "5〜10月、地を這う細い茎と、葉腋につく目立たない小花を探す。節に膜質の托葉鞘がある点と、踏み固められた所に多い点が手がかり。"
+    },
+    "en": {
+      "summary": "Matweed (Polygonum arenastrum). A Eurasian annual of the knotweed family naturalised on roadsides, pavement cracks and waste ground; a knotgrass, it spreads prostrate on slender stems with inconspicuous pale green to pinkish flowers in the leaf axils, and tolerates trampling.",
+      "habitat_hint": "Roadsides, pavement cracks, car parks, trodden waste ground.",
+      "finding_tips": "From May to October look for the slender prostrate stems and the tiny axillary flowers; the membranous sheath at each node and its abundance on trodden ground are clues."
+    },
+    "zh": {
+      "summary": "伏地蓼（ハイミチヤナギ）。蓼科一年生草本，原产欧亚，归化于路旁、铺装缝隙与荒地；为萹蓄类，细茎平铺蔓生，叶腋生淡绿至淡红色的极小花，耐践踏。",
+      "habitat_hint": "路旁、铺装缝隙、停车场、践踏荒地。",
+      "finding_tips": "5至10月寻找平铺细茎与叶腋不显之小花；节具膜质托叶鞘、多生践踏地为线索。"
+    }
+  },
+  "Frullania muscicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scale liverwort",
+    "ja": {
+      "summary": "カラヤスデゴケ。樹幹や岩の表面に張りつくヤスデゴケ科の葉状の苔類(タイ類)。赤褐色〜黒褐色の細い茎が枝分かれして這い、小さな葉が2列に並ぶ。乾くと縮れ、湿ると開く。名の通り姿がヤスデを思わせる。",
+      "habitat_hint": "樹幹、岩の表面、コンクリート壁、社寺林の古木。",
+      "finding_tips": "通年、樹幹や岩に赤黒く張りつく細い這う茎を探す。ルーペで見ると小さな葉が2列に規則正しく並び、下側に袋状の小片(水袋)がある。"
+    },
+    "en": {
+      "summary": "Frullania muscicola. A leafy liverwort of the Frullaniaceae that clings to tree trunks and rock surfaces; its reddish-brown to blackish slender stems branch and creep, with small leaves in two rows that curl when dry and open when moist. Its form recalls a millipede, as the Japanese name suggests.",
+      "habitat_hint": "Tree trunks, rock surfaces, concrete walls, old trees in shrine groves.",
+      "finding_tips": "Year-round, look for the reddish-black creeping threads pressed to bark or rock; under a lens the small leaves are in two neat rows, with a pouch-like lobule (water sac) beneath."
+    },
+    "zh": {
+      "summary": "盔瓣耳叶苔（カラヤスデゴケ）。耳叶苔科叶状苔类，附着于树干与岩面；红褐至黑褐色细茎分枝匍匐，小叶两列排列，干时卷缩、湿时展开，其形似马陆，如和名所示。",
+      "habitat_hint": "树干、岩面、混凝土墙、社寺林古木。",
+      "finding_tips": "全年可见，于树皮或岩面寻找红黑色匍匐细丝；放大镜下小叶两列整齐排列，下侧具囊状小瓣（贮水囊）。"
+    }
+  },
+  "Lophocolea minor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメサカゴケ。林床の腐った倒木や湿った地面、岩の上に生えるウロコゴケ科の葉状の苔類(タイ類)。淡緑色の茎が這い、先が2裂した小さな葉が2列に並ぶ。無性芽で増えるため群落をつくりやすい。",
+      "habitat_hint": "林床の腐った倒木、湿った地面、岩の上、木の根元。",
+      "finding_tips": "通年、湿った倒木や地面に広がる淡緑色のマットを探す。ルーペで見ると先が2つに裂けた小さな葉が2列に並ぶ点が手がかり。"
+    },
+    "en": {
+      "summary": "Lesser crestwort (Lophocolea minor). A leafy liverwort of the Lophocoleaceae growing on rotting logs, damp ground and rocks on the forest floor; its pale green stems creep, bearing small two-lobed leaves in two rows, and it spreads readily by gemmae to form patches.",
+      "habitat_hint": "Rotting logs, damp ground, rocks and tree bases on the forest floor.",
+      "finding_tips": "Year-round, look for pale green mats on damp logs and ground; under a lens the small leaves are two-lobed at the tip and set in two rows."
+    },
+    "zh": {
+      "summary": "芽胞齿萼苔（ヒメサカゴケ）。齿萼苔科叶状苔类，生于林床腐木、湿地与岩上；淡绿色茎匍匐，先端二裂的小叶两列排列，常以芽胞繁殖而成片。",
+      "habitat_hint": "林床腐木、湿地、岩上、树基。",
+      "finding_tips": "全年可见，于湿润腐木与地面寻找淡绿色垫状体；放大镜下小叶先端二裂、两列排列为线索。"
+    }
+  },
+  "Pentanema salicinum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Willow-leaf inula",
+    "aliases": {
+      "zh-Hans": "柳叶旋覆花"
+    },
+    "ja": {
+      "summary": "カセンソウ。北海道〜九州の日当たりのよい湿った草地や河原、湿原の縁に生えるキク科の多年草。硬い葉をもち、夏に鮮やかな黄色い頭花を咲かせる。オグルマに似るが葉が硬く基部が茎を抱く点で区別する。",
+      "habitat_hint": "日当たりのよい湿った草地、河原、湿原の縁、堤防。",
+      "finding_tips": "7〜9月、鮮やかな黄色い頭花を探す。オグルマに似るが、硬い葉の基部が茎を抱く点、地下茎で群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Willow-leaf inula (Pentanema salicinum). A perennial of the daisy family on sunny damp grassland, riverbeds and marsh edges from Hokkaido to Kyushu, with stiff leaves and bright yellow flower-heads in summer; it resembles Inula britannica but has stiff, stem-clasping leaf bases.",
+      "habitat_hint": "Sunny damp grassland, riverbeds, marsh edges, embankments.",
+      "finding_tips": "From July to September look for the bright yellow flower-heads; the stiff, stem-clasping leaf bases and spread by rhizomes separate it from the softer Inula britannica."
+    },
+    "zh": {
+      "summary": "柳叶旋覆花（カセンソウ）。菊科多年生草本，生于北海道至九州向阳湿润草地、河滩与沼泽边缘；叶硬，夏开鲜黄色头花。似欧亚旋覆花而叶硬、基部抱茎，可资区别。",
+      "habitat_hint": "向阳湿润草地、河滩、沼泽边缘、堤岸。",
+      "finding_tips": "7至9月寻找鲜黄色头花；硬叶基部抱茎、以根状茎成丛为与旋覆花之区别。"
+    }
+  },
+  "Persicaria neofiliformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シンミズヒキ。北海道〜九州の山地の林縁や道端、やや湿った半日陰に生えるタデ科の多年草。ミズヒキに似て、細長い花穂に小さな花をまばらにつけるが、花はほとんど白い点で紅白のミズヒキと区別できる。",
+      "habitat_hint": "山地の林縁、道端、林下のやや湿った半日陰。",
+      "finding_tips": "8〜10月、細長い花穂にまばらにつく小さな花を探す。ミズヒキ(上が赤・下が白)と違い花がほとんど白い点が識別の決め手。"
+    },
+    "en": {
+      "summary": "White jumpseed (Persicaria neofiliformis). A perennial of the knotweed family on montane forest edges, roadsides and damp half-shade from Hokkaido to Kyushu; like the related mizuhiki it bears small flowers sparsely on a long slender spike, but its almost-white flowers separate it from the red-and-white mizuhiki.",
+      "habitat_hint": "Montane forest edges, roadsides, damp half-shade under woods.",
+      "finding_tips": "From August to October look for small flowers set sparsely on a long slender spike; the almost entirely white flowers distinguish it from the red-above, white-below mizuhiki."
+    },
+    "zh": {
+      "summary": "短毛金线草（シンミズヒキ）。蓼科多年生草本，生于北海道至九州山地林缘、路旁与湿润半阴处；似金线草，细长花穗上疏生小花，但花几全白，与红白相间的金线草相区别。",
+      "habitat_hint": "山地林缘、路旁、林下湿润半阴处。",
+      "finding_tips": "8至10月寻找细长花穗上疏生的小花；花几全白为与红白金线草之识别关键。"
+    }
+  },
+  "Dioscorea tenuipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメドコロ。本州〜九州の山地の林縁や二次林に生えるヤマノイモ科のつる性多年草。細い蔓で他の草木に絡み、心形の葉を互生する。夏に黄緑色の細い花穂を垂らし、翼のある果実(さく果)をつける。むかごはつくらない。",
+      "habitat_hint": "山地の林縁、二次林、道端、他の木に絡む。",
+      "finding_tips": "夏、心形の互生葉と、垂れ下がる黄緑色の細い花穂を探す。翼のある3稜の果実も手がかり。むかごをつくらない点でヤマノイモと区別する。"
+    },
+    "en": {
+      "summary": "Slender-stalked yam (Dioscorea tenuipes). A twining perennial yam of montane forest edges and secondary woods from Honshu to Kyushu; it climbs slender over other plants with alternate heart-shaped leaves, hangs yellow-green flower spikes in summer, and forms winged capsular fruits. It makes no aerial bulbils.",
+      "habitat_hint": "Montane forest edges, secondary woods, roadsides, over other plants.",
+      "finding_tips": "In summer look for the alternate heart-shaped leaves and the hanging yellow-green flower spikes; the winged three-angled capsules are a clue, and the absence of bulbils separates it from Japanese yam."
+    },
+    "zh": {
+      "summary": "细柄薯蓣（ヒメドコロ）。薯蓣科缠绕性多年生草本，生于本州至九州山地林缘与次生林；细蔓缠绕他物，叶互生心形，夏垂黄绿色细花穗，结具翅蒴果。不生零余子。",
+      "habitat_hint": "山地林缘、次生林、路旁、缠绕他木。",
+      "finding_tips": "夏季寻找互生心形叶与下垂的黄绿色细花穗；具翅三棱蒴果为线索，不生零余子可与山药相别。"
+    }
+  },
+  "Persicaria viscofera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ネバリタデ。本州〜九州の山地の林縁や道端、河原に生えるタデ科の一年草。茎の節の下に粘る帯があり、触れるとべたつくのが名の由来。夏〜秋に淡紅色の小さな花を穂状にまばらにつける。",
+      "habitat_hint": "山地の林縁、道端、河原、やや湿った所。",
+      "finding_tips": "8〜10月、茎の節の下を触ってべたつく(粘る帯がある)点を確認する。淡紅色の花がまばらにつく細い花穂も手がかり。"
+    },
+    "en": {
+      "summary": "Sticky smartweed (Persicaria viscofera). An annual of the knotweed family on montane forest edges, roadsides and riverbeds from Honshu to Kyushu; a sticky band below each stem node makes it tacky to the touch, hence the Japanese name, and it bears small pale pink flowers sparsely in spikes in summer to autumn.",
+      "habitat_hint": "Montane forest edges, roadsides, riverbeds, damp ground.",
+      "finding_tips": "From August to October feel below the stem nodes for the sticky band that makes it tacky; the sparse pale pink flowers on slender spikes are a further clue."
+    },
+    "zh": {
+      "summary": "黏蓼（ネバリタデ）。蓼科一年生草本，生于本州至九州山地林缘、路旁与河滩；茎节下具黏带，触之发黏，为和名之由，夏秋于细穗疏生淡红色小花。",
+      "habitat_hint": "山地林缘、路旁、河滩、湿润处。",
+      "finding_tips": "8至10月触摸茎节下方，可觉黏带发黏；细穗疏生淡红花为线索。"
+    }
+  },
+  "Bromus rigidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲナガスズメノチャヒキ。地中海原産で道端や河原、空き地に帰化したイネ科の一〜二年草。大きく垂れる小穂と、それぞれの小花から出る非常に長い芒(のぎ)が特徴。乾くと芒が鋭くなり、動物の毛や衣服に刺さる。",
+      "habitat_hint": "道端、河原、空き地、埋め立て地などの日当たりのよい所。",
+      "finding_tips": "5〜7月、垂れ下がる大きな小穂と、そこから伸びる非常に長い芒を探す。芒が長く鋭い点でスズメノチャヒキ類の中でも目立つ。"
+    },
+    "en": {
+      "summary": "Ripgut brome (Bromus rigidus). A Mediterranean annual to biennial grass naturalised on roadsides, riverbeds and vacant lots, with large drooping spikelets and very long awns on each floret; when dry the awns become sharp and catch on animal fur and clothing.",
+      "habitat_hint": "Roadsides, riverbeds, vacant lots, reclaimed land in the sun.",
+      "finding_tips": "From May to July look for the large drooping spikelets with very long awns; the long, sharp awns make it stand out among the bromes."
+    },
+    "zh": {
+      "summary": "硬雀麦（ヒゲナガスズメノチャヒキ）。禾本科一至二年生草本，原产地中海，归化于路旁、河滩与空地；小穗大而下垂，每小花具极长芒，干后芒硬锐，易刺附兽毛与衣物。",
+      "habitat_hint": "路旁、河滩、空地、填土地等向阳处。",
+      "finding_tips": "5至7月寻找下垂的大型小穗与其上极长的芒；芒长而锐，于雀麦类中甚显眼。"
+    }
   }
 }
