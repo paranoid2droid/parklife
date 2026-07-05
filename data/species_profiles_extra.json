@@ -208646,5 +208646,289 @@
       "habitat_hint": "山地林缘、草地、明亮次生林、路旁。",
       "finding_tips": "秋至冬寻找宽阔营养叶与直立生粒状孢子囊之孢子叶；冬季营养叶转红为得名之由，可与其他冬阴地蕨相区别。"
     }
+  },
+  "Phylloscopus borealis": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Arctic warbler",
+    "aliases": {
+      "zh-Hans": "北柳莺"
+    },
+    "ja": {
+      "summary": "コムシクイ。全長12cmほどの小さなムシクイ類の渡り鳥。上面は緑褐色、下面は白っぽく、白い眉斑がある。日本では主に春と秋の渡りの時期に、平地〜山地の林や公園を通過する。よく似たムシクイ類が多く、識別は難しい。",
+      "habitat_hint": "渡り期の平地〜山地の林、公園の樹林、林縁のやぶ。",
+      "finding_tips": "5月と9〜10月の渡り期、樹冠や低木の中で忙しく動き回る緑褐色の小鳥を探す。白い眉斑と、地鳴きの「ジッ」という声が手がかり。よく似たムシクイ類と声や翼の斑で見分ける。"
+    },
+    "en": {
+      "summary": "Arctic warbler (Phylloscopus borealis). A small leaf warbler about 12 cm long, greenish-brown above and whitish below with a pale eyebrow stripe. In Japan it mostly passes through on spring and autumn migration, in lowland to montane woods and parks. The many similar leaf warblers make it hard to identify.",
+      "habitat_hint": "Lowland to montane woods, park groves and edge thickets on migration.",
+      "finding_tips": "In the May and September–October passage look for the greenish-brown warbler moving busily in the canopy and shrubs; the pale eyebrow and a hard 'zit' call are clues, and it is told from similar warblers by call and wing markings."
+    },
+    "zh": {
+      "summary": "北柳莺（コムシクイ）。全长约12厘米的小型柳莺类候鸟，上体绿褐、下体近白，具浅色眉纹。在日本主要于春秋迁徙期过境平地至山地的林地与公园。近似柳莺众多，辨识不易。",
+      "habitat_hint": "迁徙期平地至山地林地、公园树林、林缘灌丛。",
+      "finding_tips": "5月及9至10月迁徙期于树冠与灌丛间寻找忙碌活动的绿褐色小鸟；浅眉纹与「唧」声为线索，以鸣声与翼斑与近似柳莺相区别。"
+    }
+  },
+  "Oxidus gracilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greenhouse millipede",
+    "ja": {
+      "summary": "ヤケヤスデ。体長2cmほどの平べったいヤスデ(多足類)。人家の庭や畑、落ち葉の下、植木鉢の底などに普通に見られる。梅雨時などに大量発生して家屋内に侵入することがある。刺激すると独特のにおいのある防御物質を出す。",
+      "habitat_hint": "庭、畑、落ち葉の下、植木鉢の底、石の下、人家周辺の湿った所。",
+      "finding_tips": "梅雨〜秋、落ち葉や石の下、植木鉢の底で、多数の脚をもつ平たく細長い茶褐色のヤスデを探す。触れると丸くならず、独特のにおいを出す点が手がかり。大量発生することがある。"
+    },
+    "en": {
+      "summary": "Greenhouse millipede (Oxidus gracilis). A flattened millipede about 2 cm long, common in gardens, fields, under leaf litter and at the bottom of flowerpots near houses. It sometimes swarms in the rainy season and enters buildings, and when disturbed it releases a defensive secretion with a distinctive smell.",
+      "habitat_hint": "Gardens, fields, under leaf litter, flowerpot bases, under stones near houses.",
+      "finding_tips": "From the rainy season to autumn look under leaf litter and stones and at flowerpot bases for the flat, elongate brown many-legged millipede; it does not curl tightly and gives off a distinctive smell when touched. It can appear in numbers."
+    },
+    "zh": {
+      "summary": "雅丽酸马陆（ヤケヤスデ）。体长约2厘米的扁平马陆（多足类），普遍见于人家庭园、农田、落叶下与花盆底。梅雨时可大量发生并侵入室内，受扰时释放具特殊气味的防御物质。",
+      "habitat_hint": "庭园、农田、落叶下、花盆底、石下、人家附近湿处。",
+      "finding_tips": "梅雨至秋于落叶石下与花盆底寻找多足、扁长的褐色马陆；触之不紧卷而释异味为线索，有时大量发生。"
+    }
+  },
+  "Trametes hirsuta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アラゲカワラタケ。広葉樹の枯れ木や倒木、切り株に群がって発生するタマチョレイタケ科の一年生のキノコ。半円形の傘は表面が灰白色〜淡黄色の粗い毛におおわれ、同心円状の環紋がある。裏は白い管孔。カワラタケに似るが毛深い。硬く食用にはしない。",
+      "habitat_hint": "広葉樹の枯れ木、倒木、切り株、伐採木の上、雑木林。",
+      "finding_tips": "通年、広葉樹の枯れ木に群がってつく半円形の傘を探す。表面が灰白色の粗い毛におおわれ、同心円状の環紋がある点が手がかり。カワラタケより毛深く白っぽい。"
+    },
+    "en": {
+      "summary": "Hairy bracket (Trametes hirsuta). An annual bracket fungus of the Polyporaceae growing in tiers on dead broadleaf wood, logs and stumps; its semicircular cap is covered with coarse greyish-white to pale yellow hairs and marked with concentric zones, the underside a white pore surface. Like the turkey-tail but hairier; hard and not eaten.",
+      "habitat_hint": "On dead broadleaf wood, logs, stumps and cut timber in mixed woodland.",
+      "finding_tips": "Year-round, look for the tiered semicircular caps on dead broadleaf wood; the coarse greyish-white hairs and concentric zoning are clues — hairier and paler than the turkey-tail."
+    },
+    "zh": {
+      "summary": "毛栓孔菌（アラゲカワラタケ）。多孔菌科一年生蕈类，成层群生于阔叶树枯木、倒木与树桩；半圆形菌盖表面被灰白至淡黄色粗毛、具同心环纹，背面白色管孔。似云芝而毛多，质硬，不供食用。",
+      "habitat_hint": "阔叶树枯木、倒木、树桩、伐木之上，杂木林。",
+      "finding_tips": "全年可见，于阔叶枯木寻找成层的半圆形菌盖；表面灰白粗毛与同心环纹为线索，较云芝毛多而色浅。"
+    }
+  },
+  "Heracleum moellendorffii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハナウド。本州〜九州の山地の谷沿いや河畔、湿った草地に生えるセリ科の大型多年草。高さ1〜2mになり、大きな羽状の葉をもつ。初夏、白い小花が多数集まった大きな傘形の花序を立てる。花序の縁の花は花弁が大きく外向きに開く。",
+      "habitat_hint": "山地の谷沿い、河畔、湿った草地、林縁の日当たりのよい所。",
+      "finding_tips": "5〜6月、白い小花が集まる径20cmほどの大きな傘形花序と、大きな羽状の葉を探す。花序の縁の花の外側の花弁が大きく2裂する点が手がかり。大型で目立つ。"
+    },
+    "en": {
+      "summary": "East Asian hogweed (Heracleum moellendorffii). A large perennial of the carrot family on montane valleys, riverbanks and damp grassland from Honshu to Kyushu, reaching 1–2 m with large pinnate leaves; in early summer it raises a big umbel of many white flowers, the outer flowers of which have enlarged, outward-spreading petals.",
+      "habitat_hint": "Montane valleys, riverbanks, damp grassland, sunny forest edges.",
+      "finding_tips": "In May–June look for the large umbel of white flowers about 20 cm across and the big pinnate leaves; the enlarged, two-cleft outer petals of the marginal flowers are a clue. It is large and conspicuous."
+    },
+    "zh": {
+      "summary": "短毛独活（ハナウド）。伞形科大型多年生草本，生于本州至九州山地谷地、河畔与湿润草地，高1至2米，具大型羽状叶；初夏抽出白色小花密集的大型伞形花序，花序边缘花的外瓣增大外展。",
+      "habitat_hint": "山地谷地、河畔、湿润草地、林缘向阳处。",
+      "finding_tips": "5至6月寻找径约20厘米的白色大型伞形花序与大羽状叶；边缘花外侧花瓣增大二裂为线索，植株大而显眼。"
+    }
+  },
+  "Bromus tectorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウマノチャヒキ。ヨーロッパ〜西アジア原産で道端や河原、線路際、荒れ地に帰化したイネ科の一〜二年草。細く垂れ下がる小穂と長い芒をもつ柔らかな円錐花序をつける。初夏に早く枯れて赤紫色を帯び、乾いた荒れ地に群生する。",
+      "habitat_hint": "道端、河原、線路際、荒れ地、埋め立て地の日当たりのよい所。",
+      "finding_tips": "5〜6月、細く垂れ下がる小穂と長い芒をもつ柔らかな円錐花序を探す。初夏に早く枯れて赤紫色に色づく点と、乾いた荒れ地に群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Cheatgrass (Bromus tectorum). A European to West Asian annual to biennial grass naturalised on roadsides, riverbeds, railway margins and waste ground, with a soft panicle of slender drooping spikelets and long awns; it dies off early in summer, flushing red-purple, and forms stands on dry waste ground.",
+      "habitat_hint": "Roadsides, riverbeds, railway margins, waste ground, reclaimed land in the sun.",
+      "finding_tips": "In May–June look for the soft panicle of slender drooping spikelets with long awns; its early summer die-off with a red-purple flush and its stands on dry waste ground are clues."
+    },
+    "zh": {
+      "summary": "旱雀麦（ウマノチャヒキ）。禾本科一至二年生草本，原产欧洲至西亚，归化于路旁、河滩、铁路边与荒地；柔软圆锥花序具细垂小穗与长芒。初夏早枯泛紫红，常于干燥荒地成丛。",
+      "habitat_hint": "路旁、河滩、铁路边、荒地、填土地向阳处。",
+      "finding_tips": "5至6月寻找具细垂小穗与长芒的柔软圆锥花序；初夏早枯泛紫红、成丛于干燥荒地为线索。"
+    }
+  },
+  "Alopecurus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セトガヤ。本州〜九州の水田や畦、湿った道端、休耕田に生えるイネ科の一〜二年草。スズメノテッポウに似て、春に細い円柱状の穂(花序)を立てるが、より大きく、小穂から出る芒が長く穂から突き出る点で区別する。水田雑草。",
+      "habitat_hint": "水田、畦、湿った道端、休耕田、河原の湿った所。",
+      "finding_tips": "4〜6月、細い円柱状の穂と、小穂から長く突き出る芒を探す。スズメノテッポウより穂が大きく、芒が穂の表面から目立って突き出る点が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Japanese foxtail (Alopecurus japonicus). An annual to biennial grass of paddies, bunds, damp roadsides and fallow paddies from Honshu to Kyushu; like the common foxtail it raises a slender cylindrical spike in spring, but larger, and is distinguished by the long awns projecting beyond the head. A paddy weed.",
+      "habitat_hint": "Paddies, bunds, damp roadsides, fallow paddies, damp riverbeds.",
+      "finding_tips": "From April to June look for the slender cylindrical head with long awns projecting beyond it; its larger head and the conspicuously protruding awns separate it from the common foxtail."
+    },
+    "zh": {
+      "summary": "日本看麦娘（セトガヤ）。禾本科一至二年生草本，生于本州至九州的稻田、田埂、湿润路旁与休耕田；似看麦娘而春抽细圆柱状穗更大，小穗之芒长而突出穗外，可资区别。为稻田杂草。",
+      "habitat_hint": "稻田、田埂、湿润路旁、休耕田、河滩湿处。",
+      "finding_tips": "4至6月寻找细圆柱状穗与突出穗外的长芒；穗较看麦娘大、芒明显外突为识别线索。"
+    }
+  },
+  "Juncus diastrophanthus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タマコウガイゼキショウ。水田の畦や湿地、湿った道端に生えるイグサ科の多年草。扁平な葉を扇状につけ、緑色の花・果実が金平糖のような星形の小さな球状に密集した塊を、分枝した花序につける。コウガイゼキショウの仲間。",
+      "habitat_hint": "水田の畦、湿地、湿った道端、水路沿いの湿った裸地。",
+      "finding_tips": "6〜9月、扁平で節のある葉と、金平糖状に尖った星形の緑色の球状の花・果実の塊を探す。この星形の塊が識別の手がかり。コウガイゼキショウ類は果実の形と葉の節で見分ける。"
+    },
+    "en": {
+      "summary": "Narrow-winged rush (Juncus diastrophanthus). A perennial rush of paddy bunds, wetlands and damp roadsides, with flattened fan-arranged leaves and branched inflorescences bearing green flowers and fruits gathered into small star-shaped, spiky burr-like balls. A member of the flat-leaved rush group.",
+      "habitat_hint": "Paddy bunds, wetlands, damp roadsides, wet bare ground by ditches.",
+      "finding_tips": "From June to September look for the flattened septate leaves and the green, spiky star-shaped burr-like balls of flowers and fruits; these star-shaped clusters are the clue, and the group is keyed by fruit shape and leaf septa."
+    },
+    "zh": {
+      "summary": "星花灯心草（タマコウガイゼキショウ）。灯心草科多年生草本，生于稻田田埂、湿地与湿润路旁；叶扁平作扇状排列，分枝花序生绿色花果聚成如金平糖的星芒状小球团。为扁叶灯心草类。",
+      "habitat_hint": "稻田田埂、湿地、湿润路旁、水沟旁湿润裸地。",
+      "finding_tips": "6至9月寻找扁平具节之叶与绿色星芒状小球团；此星形球团为识别线索，本类以果形与叶横隔区分。"
+    }
+  },
+  "Plagiogyria matsumureana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Matsumura's plagiogyria",
+    "ja": {
+      "summary": "ヤマソテツ。北海道〜九州の山地の湿った林床や谷沿いに生えるキジノオシダ科の常緑性シダ。栄養葉と胞子葉が明瞭に分かれ、幅の広い栄養葉に対し胞子葉は細く直立する。ソテツを思わせる硬めの葉ぶりが名の由来。",
+      "habitat_hint": "山地の湿った林床、谷沿いの斜面、スギ林の縁。",
+      "finding_tips": "胞子葉が出る夏〜秋が分かりやすい。幅の広い栄養葉と、細く直立する胞子葉の二型が識別点。硬めでソテツを思わせる葉ぶりも手がかり。冷涼な山地の湿った林に多い。"
+    },
+    "en": {
+      "summary": "Matsumura's plagiogyria (Plagiogyria matsumureana). An evergreen fern of the Plagiogyriaceae on damp montane forest floors and streamsides from Hokkaido to Kyushu, with strongly dimorphic fronds — broad sterile blades and narrow, erect fertile ones. Its rather stiff, cycad-like look gives the Japanese name ('mountain cycad').",
+      "habitat_hint": "Damp montane forest floor, streamside slopes, cedar-plantation edges.",
+      "finding_tips": "Easiest in summer to autumn when the fertile fronds appear; the two frond types are diagnostic, and the stiff cycad-like look is a further clue. It favours damp cool montane woods."
+    },
+    "zh": {
+      "summary": "华中瘤足蕨（ヤマソテツ）。瘤足蕨科常绿蕨，生于北海道至九州山地湿润林床与溪边；营养叶与孢子叶明显二型，营养叶宽阔、孢子叶细直。叶较硬似苏铁，为和名「山苏铁」之由。",
+      "habitat_hint": "山地湿润林床、谷地坡地、杉林林缘。",
+      "finding_tips": "夏秋孢子叶抽出时最易辨；宽营养叶与细直孢子叶二型为识别点，硬似苏铁的叶态为线索，多生冷凉山地湿林。"
+    }
+  },
+  "Pleioblastus variegatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf whitestripe bamboo",
+    "ja": {
+      "summary": "ケネザサ。本州〜九州の丘陵〜山地の林縁や林床、土手に群生するイネ科の小型のササ。ネザサの仲間で、稈や葉鞘に毛があるのが名の由来。細い稈が枝分かれし、幅の狭い葉をつける。庭や公園の下草にも使われる。",
+      "habitat_hint": "丘陵〜山地の林縁、林床、土手、道端、庭園の下草。",
+      "finding_tips": "通年、細く枝分かれする稈と、稈や葉鞘に毛がある点を確認する。ネザサ類の中では毛が多い点が名の由来で手がかり。しばしば一面に群生する。"
+    },
+    "en": {
+      "summary": "Dwarf whitestripe bamboo (Pleioblastus variegatus). A small bamboo of the grass family forming stands on hill to montane forest edges, floors and banks from Honshu to Kyushu; a member of the nezasa group, it is named for the hairs on its culms and leaf sheaths. Slender branching culms bear narrow leaves; it is also used as garden and park ground cover.",
+      "habitat_hint": "Hill to montane forest edges, floors, banks, roadsides, garden ground cover.",
+      "finding_tips": "Year-round, note the slender branching culms and the hairs on the culms and leaf sheaths; the hairiness (unusual for the group) is the naming feature and clue. It often carpets the ground."
+    },
+    "zh": {
+      "summary": "金丝箬竹（ケネザサ）。禾本科小型竹类，成丛生于本州至九州丘陵至山地的林缘、林床与堤岸；为苦竹类，秆与叶鞘具毛，为和名之由。秆细分枝，叶狭窄，亦用作庭园与公园地被。",
+      "habitat_hint": "丘陵至山地林缘、林床、堤岸、路旁、庭园地被。",
+      "finding_tips": "全年可见，注意细而分枝之秆与秆、叶鞘之毛；多毛为得名之由与线索，常成片群生。"
+    }
+  },
+  "Rhododendron lagopus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snow-country azalea",
+    "ja": {
+      "summary": "ユキグニミツバツツジ。本州の主に日本海側の山地の林縁や尾根に生えるツツジ科の落葉低木。ミツバツツジの仲間で、葉の展開前に紅紫色の花を咲かせ、枝先に3枚の葉を輪生状につける。若い枝や葉柄、花柄に毛が多い点が特徴。",
+      "habitat_hint": "山地の林縁、尾根、明るい二次林、多雪地の斜面。",
+      "finding_tips": "4〜5月、葉に先立って咲く紅紫の花と、枝先に3枚つく菱形の葉を探す。若枝や花柄に白い毛が多い点、日本海側の多雪地に分布する点が手がかり。"
+    },
+    "en": {
+      "summary": "Snow-country azalea (Rhododendron lagopus). A deciduous azalea of montane forest edges and ridges, mainly on the Japan Sea side of Honshu; a mitsuba azalea, it flowers rose-purple before the leaves, which then appear in threes at the shoot tips. It is distinguished by dense hairs on the young shoots, leaf stalks and flower stalks.",
+      "habitat_hint": "Montane forest edges, ridges, bright secondary woods, snowy-region slopes.",
+      "finding_tips": "In April–May look for the rose-purple flowers opening before the leaves and the three diamond-shaped leaves per shoot tip; the dense white hairs on young shoots and stalks and its snowy Japan-Sea-side range are clues."
+    },
+    "zh": {
+      "summary": "雪国三叶杜鹃（ユキグニミツバツツジ）。杜鹃花科落叶灌木，主产本州日本海侧的山地林缘与山脊；为三叶杜鹃类，先叶开紫红花，枝端三叶轮生状。嫩枝、叶柄与花梗多毛为其特征。",
+      "habitat_hint": "山地林缘、山脊、明亮次生林、多雪地坡地。",
+      "finding_tips": "4至5月寻找先叶开放的紫红花与枝端三片菱形叶；嫩枝花梗多白毛、分布日本海侧多雪地为线索。"
+    }
+  },
+  "Rosa paniculigera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miyako wild rose",
+    "ja": {
+      "summary": "ミヤコイバラ。本州(近畿以西)〜九州の山地の林縁や谷沿い、明るい二次林に生えるバラ科のつる性〜半つる性の落葉低木。ノイバラに似るが小葉が小さく、初夏に白い小さな5弁花を円錐状に多数咲かせる。枝に鋭い刺がある。",
+      "habitat_hint": "山地の林縁、谷沿い、明るい二次林、道端。",
+      "finding_tips": "5〜6月、白い小さな5弁花が円錐状に集まる花序を探す。ノイバラより小葉が小さく数が多い点、山地に多い点が手がかり。花後に赤い小さな実(ローズヒップ)をつける。"
+    },
+    "en": {
+      "summary": "Miyako wild rose (Rosa paniculigera). A climbing to half-climbing deciduous rose of montane forest edges, valleys and bright secondary woods from the Kinki region westward to Kyushu; like the multiflora rose but with smaller leaflets, in early summer it opens many small white five-petalled flowers in panicles. The stems bear sharp prickles.",
+      "habitat_hint": "Montane forest edges, valleys, bright secondary woods, roadsides.",
+      "finding_tips": "In May–June look for the panicles of many small white five-petalled flowers; the smaller, more numerous leaflets and montane habitat separate it from the multiflora rose. Small red hips follow."
+    },
+    "zh": {
+      "summary": "京都野蔷薇（ミヤコイバラ）。蔷薇科攀援至半攀援落叶灌木，生于本州近畿以西至九州的山地林缘、谷地与明亮次生林；似野蔷薇而小叶更小，初夏圆锥状密开白色5瓣小花，枝具锐刺。",
+      "habitat_hint": "山地林缘、谷地、明亮次生林、路旁。",
+      "finding_tips": "5至6月寻找圆锥状密集的白色5瓣小花；小叶更小而多、多生山地，可与野蔷薇相区别，花后结红色小果。"
+    }
+  },
+  "Fissidens teysmannianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コホウオウコケ。湿った土の崖や石垣、林床、水辺に生えるホウオウゴケ科の小さなコケ(蘚類)。細い茎の両側に、平たい葉が鳥の羽のように規則正しく2列に並び、全体が鳳凰の羽に見立てられる。ホウオウゴケの仲間で小型。",
+      "habitat_hint": "湿った土の崖、石垣、林床、水辺、沢沿いの半日陰。",
+      "finding_tips": "通年、細い茎の両側に羽状に2列に並ぶ平たい葉を探す。全体が鳥の羽のように見える点がホウオウゴケ類の特徴。ホウオウゴケより全体に小型な点が手がかり。"
+    },
+    "en": {
+      "summary": "Fissidens teysmannianus. A small moss of the Fissidentaceae on damp earthen banks, stone walls, forest floors and watersides; flat leaves are ranged in two neat rows like a bird's feather along the slender stem, the whole recalling a phoenix wing. A pocket-moss, small in size.",
+      "habitat_hint": "Damp earthen banks, stone walls, forest floor, watersides, streamside half-shade.",
+      "finding_tips": "Year-round, look for the flat leaves ranged feather-like in two rows along the slender stem; this feather-like form marks the pocket-mosses, and its small size is a clue."
+    },
+    "zh": {
+      "summary": "南京凤尾藓（コホウオウコケ）。凤尾藓科小型藓类，生于湿润土崖、石墙、林床与水边；细茎两侧扁平叶如鸟羽整齐两列排列，全体似凤凰之羽。为凤尾藓类，植株小型。",
+      "habitat_hint": "湿润土崖、石墙、林床、水边、溪旁半阴处。",
+      "finding_tips": "全年可见，寻找细茎两侧羽状两列排列的扁平叶；羽状形态为凤尾藓类特征，植株小型为线索。"
+    }
+  },
+  "Fissidens bryoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lesser pocket-moss",
+    "ja": {
+      "summary": "エゾホウオウゴケ。湿った土や石、崖の表面に生えるホウオウゴケ科の小さなコケ(蘚類)。細い茎の両側に、平たい葉が鳥の羽のように2列に規則正しく並ぶ。葉の一部が舟形にふくらんで胞子体の柄を包む。ごく小型で見落としやすい。",
+      "habitat_hint": "湿った土、石の表面、崖、林床、庭の日陰の地面。",
+      "finding_tips": "通年、細い茎の両側に羽状に2列に並ぶ平たい葉の小さなコケを探す。全体が鳥の羽状に見える点がホウオウゴケ類の特徴。ごく小型でルーペが必要。"
+    },
+    "en": {
+      "summary": "Lesser pocket-moss (Fissidens bryoides). A small moss of the Fissidentaceae on damp soil, stones and bank surfaces; flat leaves are ranged in two neat feather-like rows along the slender stem, part of each leaf pocketed to sheathe the sporophyte stalk. Very small and easily overlooked.",
+      "habitat_hint": "Damp soil, stone surfaces, banks, forest floor, shady garden ground.",
+      "finding_tips": "Year-round, look for the small moss with flat leaves in two feather-like rows along the slender stem; this feather-like form marks the pocket-mosses. It is tiny and needs a hand lens."
+    },
+    "zh": {
+      "summary": "小凤尾藓（エゾホウオウゴケ）。凤尾藓科小型藓类，生于湿润土壤、石面与土崖表面；细茎两侧扁平叶如鸟羽两列整齐排列，叶部分呈舟形包被孢子体柄。极小，易被忽略。",
+      "habitat_hint": "湿润土壤、石面、土崖、林床、庭荫地面。",
+      "finding_tips": "全年可见，寻找细茎两侧羽状两列排列扁平叶的小型藓；羽状形态为凤尾藓类特征，植株极小需放大镜。"
+    }
   }
 }
