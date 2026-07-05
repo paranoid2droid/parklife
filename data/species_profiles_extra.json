@@ -207384,5 +207384,337 @@
       "habitat_hint": "路旁、河滩、铁路边、填土地、荒地向阳处。",
       "finding_tips": "7至10月寻找平铺茎与叶腋密生的绿色小花；全株腺毛发黏、揉之有浓特香为线索。"
     }
+  },
+  "Asarum sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's wild ginger",
+    "aliases": {
+      "zh-Hans": "华细辛"
+    },
+    "ja": {
+      "summary": "ウスバサイシン。本州〜九州の山地の落葉樹林の湿った林床に生えるウマノスズクサ科の多年草。薄く柔らかい心形の葉を2枚つけ、春、葉の陰の地際に暗紫色の壺形の花をひっそり咲かせる。ヒメギフチョウの食草として知られる。",
+      "habitat_hint": "山地の落葉樹林の湿った林床、沢沿いの半日陰。",
+      "finding_tips": "4〜5月、薄く柔らかい心形の葉の陰、地際に暗紫色の壺形の花を探す。花は地面近くに隠れて咲くので葉をそっとどける。全草にわずかな辛味と香りがある。"
+    },
+    "en": {
+      "summary": "Siebold's wild ginger (Asarum sieboldii). A perennial of the birthwort family on the damp floor of montane deciduous forests from Honshu to Kyushu; it bears two thin, soft heart-shaped leaves and, in spring, a dark purple urn-shaped flower tucked at ground level in their shade. It is a food plant of the Luehdorfia butterfly.",
+      "habitat_hint": "Damp floor of montane deciduous forest, half-shaded streamsides.",
+      "finding_tips": "In April–May look at ground level in the shade of the thin heart-shaped leaves for the dark purple urn-shaped flower; it hides near the soil, so gently move the leaves aside. The whole plant is faintly pungent and aromatic."
+    },
+    "zh": {
+      "summary": "华细辛（ウスバサイシン）。马兜铃科多年生草本，生于本州至九州山地落叶林湿润林床；具二枚薄软心形叶，春于叶荫近地处开暗紫色壶形花。为虎凤蝶（ヒメギフチョウ）之食草。",
+      "habitat_hint": "山地落叶林湿润林床、溪旁半阴处。",
+      "finding_tips": "4至5月于薄心形叶荫下近地面处寻找暗紫壶形花；花贴地隐生，宜轻拨叶片。全草略具辛香。"
+    }
+  },
+  "Epigaea asiatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian trailing arbutus",
+    "ja": {
+      "summary": "イワナシ。北海道〜本州の山地の林縁や尾根、明るい斜面に生えるツツジ科の常緑小低木。地を這うように広がり、早春に淡紅色の筒状の花を咲かせる。夏に熟す実は梨のような食感で甘く、名の由来となった。",
+      "habitat_hint": "山地の林縁、尾根、明るい斜面、アカマツ林の下。",
+      "finding_tips": "4〜5月、地を這う硬い常緑の葉と、淡紅色の筒状の花を探す。夏、白っぽく熟す甘い実(梨に似た食感)も手がかり。多雪地の山でよく見られる。"
+    },
+    "en": {
+      "summary": "Asian trailing arbutus (Epigaea asiatica). An evergreen dwarf shrub of the heath family on montane forest edges, ridges and bright slopes from Hokkaido to Honshu; it spreads over the ground and opens pale pink tubular flowers in early spring. Its summer fruit is sweet with a pear-like texture, giving the Japanese name 'rock pear'.",
+      "habitat_hint": "Montane forest edges, ridges, bright slopes, under red-pine.",
+      "finding_tips": "In April–May look for the prostrate stiff evergreen leaves and pale pink tubular flowers; the sweet, pear-textured whitish summer fruit is a further clue. It is common on snowy mountains."
+    },
+    "zh": {
+      "summary": "东亚岩梨（イワナシ）。杜鹃花科常绿矮灌木，生于北海道至本州山地林缘、山脊与明亮坡地；平铺蔓生，早春开淡红色筒状花。夏熟之果甜而似梨口感，为和名「岩梨」之由。",
+      "habitat_hint": "山地林缘、山脊、明亮坡地、赤松林下。",
+      "finding_tips": "4至5月寻找平铺的硬质常绿叶与淡红筒状花；夏季近白色的甜果（似梨口感）为线索，多见于多雪山地。"
+    }
+  },
+  "Filipendula camtschatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant meadowsweet",
+    "aliases": {
+      "zh-Hans": "堪察加蚊子草"
+    },
+    "ja": {
+      "summary": "オニシモツケ。北海道〜本州中部以北の山地の湿った草地や河畔、湿原の縁に生えるバラ科の大型多年草。高さ1〜2mになり、大きな掌状の葉をもつ。夏、白い小花が泡立つように密集した大きな花序を立てる。",
+      "habitat_hint": "山地の湿った草地、河畔、湿原の縁、沢沿い。",
+      "finding_tips": "7〜8月、1〜2mの高い草丈と、白い小花が泡立つように集まる大きな花序を探す。大きな掌状の葉も手がかり。冷涼な地方の湿地に多い。"
+    },
+    "en": {
+      "summary": "Giant meadowsweet (Filipendula camtschatica). A large perennial of the rose family on damp montane grassland, riverbanks and marsh edges from Hokkaido to northern-central Honshu, reaching 1–2 m with large palmate leaves; in summer it raises a big inflorescence of white flowers massed like froth.",
+      "habitat_hint": "Damp montane grassland, riverbanks, marsh edges, streamsides.",
+      "finding_tips": "In July–August look for the 1–2 m height and the large frothy mass of small white flowers; the big palmate leaves are a clue. It is common in wet ground in cool districts."
+    },
+    "zh": {
+      "summary": "堪察加蚊子草（オニシモツケ）。蔷薇科大型多年生草本，生于北海道至本州中北部的山地湿润草地、河畔与沼泽边缘，高1至2米，具大型掌状叶；夏抽白色小花如泡沫密集的大花序。",
+      "habitat_hint": "山地湿润草地、河畔、沼泽边缘、溪旁。",
+      "finding_tips": "7至8月寻找1至2米的高株与白色小花如泡沫密集的大花序；大型掌状叶为线索，多见于冷凉湿地。"
+    }
+  },
+  "Asimitellaria pauciflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miterwort",
+    "aliases": {
+      "zh-Hans": "少花唢呐草"
+    },
+    "ja": {
+      "summary": "コチャルメルソウ。本州〜九州の山地の沢沿いや湧水地、湿った岩壁に生えるユキノシタ科の多年草。細い花茎に、魚の骨のように細かく裂けた小さな花を10個ほど一方向に並べてつける。花の形が楽器のチャルメラに見立てられる。",
+      "habitat_hint": "山地の沢沿い、湧水地、湿った岩壁、しぶきのかかる所。",
+      "finding_tips": "4〜5月、細い花茎に一列に並ぶ、魚の骨状に細裂した小さな花を探す。花弁が羽状に細かく裂ける点が独特で識別しやすい。水辺の半日陰に多い。"
+    },
+    "en": {
+      "summary": "Miterwort (Asimitellaria pauciflora). A perennial of the saxifrage family on montane streamsides, springs and damp rock walls from Honshu to Kyushu; on a slender stalk it ranges about ten small flowers to one side, each cut into fine fish-bone-like segments. The flower shape is likened to a charumera (a reed horn).",
+      "habitat_hint": "Montane streamsides, springs, damp rock walls, spray-wet places.",
+      "finding_tips": "In April–May look for the small flowers ranged in a row on a slender stalk, each petal cut into fine fish-bone-like segments — a distinctive, easily recognised form. It favours half-shade by water."
+    },
+    "zh": {
+      "summary": "少花唢呐草（コチャルメルソウ）。虎耳草科多年生草本，生于本州至九州山地溪边、泉边与湿润岩壁；细花葶上偏生约十朵小花，每花裂成鱼骨状细条，花形似唢呐（チャルメラ）。",
+      "habitat_hint": "山地溪边、泉边、湿润岩壁、水雾处。",
+      "finding_tips": "4至5月寻找细葶上偏生成列的小花，花瓣羽状细裂如鱼骨，形态独特易辨；多生水边半阴处。"
+    }
+  },
+  "Callitriche japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アワゴケ。水田や湿地、水路、湿った地面に生えるオオバコ科(旧アワゴケ科)の小さな一年草。柔らかい小さな対生葉を密につけ、水中や湿地でマット状に広がる。葉腋にごく小さな花をつける。名は姿が苔に似ることに由来する。",
+      "habitat_hint": "水田、休耕田、水路、湿った地面、ため池の岸。",
+      "finding_tips": "春〜秋、水面や湿地に広がる柔らかい小さな対生葉のマットを探す。全体が数cmと小さく、苔のように見える点が手がかり。水生型は水中で線形の葉をつける。"
+    },
+    "en": {
+      "summary": "Oriental water-starwort (Callitriche japonica). A small annual of the plantain family (formerly water-starwort family) in paddies, wetlands, ditches and damp ground; it forms mats of soft small opposite leaves in water or on wet soil, with tiny flowers in the leaf axils. Its moss-like look gives the Japanese name.",
+      "habitat_hint": "Paddies, fallow paddies, ditches, damp ground, pond margins.",
+      "finding_tips": "From spring to autumn look for mats of soft small opposite leaves on water or wet ground; only a few centimetres and moss-like, it is easily overlooked. Submerged forms have linear underwater leaves."
+    },
+    "zh": {
+      "summary": "日本水马齿（アワゴケ）。车前科（旧水马齿科）小型一年生草本，生于稻田、湿地、水沟与湿地面；密生柔软小对生叶，于水中或湿地成垫状蔓延，叶腋生极小花。姿似苔藓，为和名之由。",
+      "habitat_hint": "稻田、休耕田、水沟、湿地面、池塘岸。",
+      "finding_tips": "春至秋于水面或湿地寻找柔软小对生叶的垫状体；仅数厘米、形似苔藓，易被忽略。沉水型于水中生线形叶。"
+    }
+  },
+  "Ilex leucoclada": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-branch holly",
+    "ja": {
+      "summary": "ヒメモチ。本州の主に日本海側の山地の林床に生えるモチノキ科の常緑小低木。雪の下でも枝が折れにくく、多雪地の林床に群生する。葉は光沢のある楕円形で縁に浅い鋸歯があり、冬に赤い実をつける。",
+      "habitat_hint": "山地の湿った林床、スギ林の下、多雪地の斜面。",
+      "finding_tips": "通年、光沢のある楕円形の常緑葉(縁に浅い鋸歯)を確認する。冬〜春の赤い実と、多雪地の林床に低く群生する点が手がかり。雌雄異株。"
+    },
+    "en": {
+      "summary": "White-branch holly (Ilex leucoclada). An evergreen dwarf shrub of the holly family on montane forest floors, mainly on the Japan Sea side of Honshu; its branches resist breaking under snow and it forms stands on snowy-region forest floors. The glossy oval leaves are shallowly toothed and it bears red fruits in winter.",
+      "habitat_hint": "Damp montane forest floor, under cedar, snowy-region slopes.",
+      "finding_tips": "Year-round, note the glossy oval evergreen leaves with shallow marginal teeth; the red winter-to-spring fruits and its low stands on snowy forest floors are clues. The plant is dioecious."
+    },
+    "zh": {
+      "summary": "白枝冬青（ヒメモチ）。冬青科常绿矮灌木，主产本州日本海侧的山地林床；枝耐雪压不易折，于多雪地林床成丛。叶椭圆有光泽、缘具浅锯齿，冬结红果。",
+      "habitat_hint": "山地湿润林床、杉林下、多雪地坡地。",
+      "finding_tips": "全年可见，注意有光泽、缘具浅齿的椭圆常绿叶；冬春红果与多雪林床低矮成丛为线索。雌雄异株。"
+    }
+  },
+  "Reboulia hemisphaerica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジンガサゴケ。湿った土の崖や石垣、林床に生えるジンガサゴケ科の葉状の苔類(タイ類)。緑色の平たい葉状体が地面に広がり、雌株は傘(陣笠)状の柄付きの生殖器官を立てる。この傘の形が名の由来。",
+      "habitat_hint": "湿った土の崖、石垣、林床、水辺の半日陰。",
+      "finding_tips": "春〜初夏、平たく地を這う緑色の葉状体と、そこから立つ傘(陣笠)状の柄付きの器官を探す。この傘状の生殖器托が識別の決め手。ゼニゴケに似るが陣笠状の傘で区別する。"
+    },
+    "en": {
+      "summary": "Reboulia hemisphaerica. A thalloid liverwort growing on damp earthen banks, stone walls and forest floors; flat green thalli spread over the ground, and the female plant raises stalked, umbrella-like (conical-hat) reproductive structures, which give the Japanese name.",
+      "habitat_hint": "Damp earthen banks, stone walls, forest floor, half-shade by water.",
+      "finding_tips": "From spring to early summer look for the flat creeping green thalli and the stalked, conical-hat-like structures rising from them; this umbrella-like receptacle is the identifying feature, separating it from the common liverwort Marchantia."
+    },
+    "zh": {
+      "summary": "石地钱（ジンガサゴケ）。石地钱科叶状苔类，生于湿润土崖、石墙与林床；绿色扁平叶状体铺展地面，雌株抽出具柄的伞（阵笠）状生殖器官，此伞形为和名之由。",
+      "habitat_hint": "湿润土崖、石墙、林床、水边半阴处。",
+      "finding_tips": "春至初夏寻找扁平匍匐的绿色叶状体及其上具柄的伞状器官；此伞状生殖托为识别关键，可与地钱相区别。"
+    }
+  },
+  "Barbula unguiculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ネジクチゴケ。道端や畑、石垣、コンクリートの隙間など人里の裸地に普通に生えるセンボンゴケ科のコケ(蘚類)。緑色の小さな茎が密に集まってマットをつくり、乾くと葉がねじれて縮れる。名はこのねじれた葉に由来する。",
+      "habitat_hint": "道端、畑、石垣、コンクリートの隙間、造成地の裸地。",
+      "finding_tips": "通年、人里の裸地に広がる緑色の小さなマットを探す。乾くと葉がねじれて縮れ、湿ると開く点が手がかり。ごく普通に見られる都市のコケ。"
+    },
+    "en": {
+      "summary": "Bird's-claw beard-moss (Barbula unguiculata). A moss of the Pottiaceae common on bare ground near habitation — roadsides, fields, stone walls and concrete crevices; its small green stems cluster densely into mats, and the leaves twist and curl when dry, giving the Japanese name.",
+      "habitat_hint": "Roadsides, fields, stone walls, concrete crevices, bare made ground.",
+      "finding_tips": "Year-round, look for small green mats on bare ground near settlements; the leaves twist and curl when dry and open when moist — a very common urban moss."
+    },
+    "zh": {
+      "summary": "扭口藓（ネジクチゴケ）。丛藓科藓类，普遍生于近人居的裸地——路旁、农田、石墙与混凝土缝隙；绿色小茎密集成垫，干时叶扭卷，为和名之由。",
+      "habitat_hint": "路旁、农田、石墙、混凝土缝隙、造地裸地。",
+      "finding_tips": "全年可见，于近人居裸地寻找绿色小垫；叶干时扭卷、湿时展开为线索，为极常见的城市藓类。"
+    }
+  },
+  "Weissia controversa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツチノウエノコゴケ。道端や畑、土の崖、石垣など人里の裸地に生えるセンボンゴケ科の小さなコケ(蘚類)。緑色の小さな茎が集まって低いマットをつくり、乾くと葉が強く内側に巻く。ごく小型で見落としやすい。",
+      "habitat_hint": "道端、畑、土の崖、石垣、造成地の裸地。",
+      "finding_tips": "通年、土の裸地に広がる緑色の小さな低いマットを探す。乾くと葉が強く内巻きになる点が手がかり。名の通り「土の上の小さな苔」でごく普通に見られる。"
+    },
+    "en": {
+      "summary": "Green-cushioned stubble-moss (Weissia controversa). A small moss of the Pottiaceae on bare ground near habitation — roadsides, fields, earthen banks and stone walls; small green stems cluster into low mats, and the leaves strongly incurve when dry. It is tiny and easily overlooked.",
+      "habitat_hint": "Roadsides, fields, earthen banks, stone walls, bare made ground.",
+      "finding_tips": "Year-round, look for small low green mats on bare earth; the strongly incurving dry leaves are a clue. As its Japanese name ('little moss on the soil') says, it is very common."
+    },
+    "zh": {
+      "summary": "小石藓（ツチノウエノコゴケ）。丛藓科小型藓类，生于近人居裸地——路旁、农田、土崖与石墙；绿色小茎集成低垫，干时叶强烈内卷。植株极小，易被忽略。",
+      "habitat_hint": "路旁、农田、土崖、石墙、造地裸地。",
+      "finding_tips": "全年可见，于裸土寻找绿色低矮小垫；叶干时强烈内卷为线索。如和名「土上小苔」所示，甚为常见。"
+    }
+  },
+  "Vicia pseudo-orobus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオバクサフジ。北海道〜九州の山地の草地や林縁、河原に生えるマメ科のつる性多年草。クサフジの仲間だが小葉が幅広く数が少なく、巻きひげが退化しがち。夏〜秋に青紫色の蝶形花を穂状につける。",
+      "habitat_hint": "山地の草地、林縁、河原、明るい斜面。",
+      "finding_tips": "8〜10月、青紫色の蝶形花の穂と、幅広く数の少ない小葉を探す。クサフジより小葉が大きく、巻きひげが目立たない点が手がかり。"
+    },
+    "en": {
+      "summary": "Large-leaf vetch (Vicia pseudo-orobus). A climbing perennial pea of montane grassland, forest edges and riverbeds from Hokkaido to Kyushu; a vetch with broad, few leaflets and reduced tendrils, it bears one-sided spikes of blue-purple pea flowers from summer to autumn.",
+      "habitat_hint": "Montane grassland, forest edges, riverbeds, bright slopes.",
+      "finding_tips": "From August to October look for the spikes of blue-purple pea flowers and the broad, few leaflets; its larger leaflets and inconspicuous tendrils separate it from tufted vetch."
+    },
+    "zh": {
+      "summary": "大叶野豌豆（オオバクサフジ）。豆科缠绕性多年生草本，生于北海道至九州山地草地、林缘与河滩；为野豌豆类而小叶宽大数少、卷须多退化，夏秋生偏侧穗状的蓝紫色蝶形花。",
+      "habitat_hint": "山地草地、林缘、河滩、明亮坡地。",
+      "finding_tips": "8至10月寻找蓝紫蝶形花穗与宽大而少的小叶；小叶较大、卷须不显，可与广布野豌豆相区别。"
+    }
+  },
+  "Fimbristylis squarrosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アゼテンツキ。水田の畦や湿地、湿った裸地に生えるカヤツリグサ科の一年草。細い茎を束生し、茎頂に淡褐色の小穂をつける。小穂の鱗片の先が細く反り返って外に突き出るのが特徴。全体に小型。",
+      "habitat_hint": "水田の畦、湿地、湿った裸地、水路沿い。",
+      "finding_tips": "8〜10月、細い茎の先の淡褐色の小穂を探し、鱗片の先が反り返って外に突き出る点を確認する。この反り返りが名(squarrosa=反り返る)の由来で識別の手がかり。"
+    },
+    "en": {
+      "summary": "Curved-awn fimbry (Fimbristylis squarrosa). An annual sedge of paddy bunds, wetlands and damp bare ground, forming tufts of slender stems with pale-brown spikelets at the tips; the tips of the spikelet scales are drawn out and recurve outward, a distinctive feature. It is small overall.",
+      "habitat_hint": "Paddy bunds, wetlands, damp bare ground, ditch sides.",
+      "finding_tips": "From August to October look at the pale-brown spikelets for the scale tips drawn out and recurved outward; this recurving (squarrose) is the identifying feature and the source of the species name."
+    },
+    "zh": {
+      "summary": "畦畔飘拂草（アゼテンツキ）。莎草科一年生草本，生于稻田田埂、湿地与湿润裸地；细茎丛生，茎顶生淡褐色小穗，鳞片先端伸长外反突出为其特征。植株小型。",
+      "habitat_hint": "稻田田埂、湿地、湿润裸地、水沟旁。",
+      "finding_tips": "8至10月查看淡褐色小穗，其鳞片先端伸长外反突出；此外反（squarrosa）为识别特征与种名之源。"
+    }
+  },
+  "Resupinatus applicatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シジミタケ。広葉樹の枯れ枝や倒木に群がって発生するホウライタケ科の小さなキノコ。傘は径1cm前後で灰黒色〜黒褐色、貝のシジミのような半円形で、枯れ枝の側面に背着ぎみに多数つく。小型で食用にはしない。",
+      "habitat_hint": "広葉樹の枯れ枝、落枝、倒木の側面、雑木林。",
+      "finding_tips": "梅雨〜秋、枯れ枝の側面に群がってつく径1cm前後の灰黒色の小さな半円形の傘を探す。裏のひだと、シジミ貝に似た小さな姿が手がかり。"
+    },
+    "en": {
+      "summary": "Resupinatus applicatus. A small fungus of the Marasmiaceae growing in swarms on dead broadleaf twigs and logs; its cap, about 1 cm across and grey-black to blackish-brown, is semicircular like a marsh clam and attached almost flat to the side of dead twigs. It is small and not eaten.",
+      "habitat_hint": "On dead broadleaf twigs, fallen branches and logs in mixed woodland.",
+      "finding_tips": "From the rainy season to autumn look for the swarms of small grey-black semicircular caps about 1 cm across on the sides of dead twigs; the gills beneath and the clam-like form are clues."
+    },
+    "zh": {
+      "summary": "小伏褶菌（シジミタケ）。小皮伞科小型蕈类，成群生于阔叶树枯枝与倒木；菌盖径约1厘米、灰黑至黑褐色，半圆形似蚬贝，近平贴生于枯枝侧面。小型，不供食用。",
+      "habitat_hint": "阔叶树枯枝、落枝、倒木侧面，杂木林。",
+      "finding_tips": "梅雨至秋于枯枝侧面寻找成群、径约1厘米的灰黑色半圆形小盖；背面菌褶与似蚬贝之形为线索。"
+    }
+  },
+  "Carex rochebrunei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thicket sedge",
+    "ja": {
+      "summary": "ヤブスゲ。本州〜九州の山地の林縁や道端、やや湿った草地に生えるカヤツリグサ科スゲ属の多年草。細い葉を束生し、細長い茎の先にまばらに雌雄の小穂をつける。林縁ややぶ地に普通に見られる。",
+      "habitat_hint": "山地の林縁、道端、やや湿った草地、やぶ地。",
+      "finding_tips": "5〜7月、細長い茎の先にまばらにつく小穂を探す。スゲ属は果胞の形と嘴で種を見分ける。林縁ややぶに普通に生える点も手がかり。"
+    },
+    "en": {
+      "summary": "Thicket sedge (Carex rochebrunei). A sedge of montane forest edges, roadsides and damp grassland from Honshu to Kyushu, forming tufts of narrow leaves with male and female spikelets set sparsely on slender stems; common along forest edges and in thickets.",
+      "habitat_hint": "Montane forest edges, roadsides, damp grassland, thickets.",
+      "finding_tips": "From May to July look for the spikelets set sparsely at the tips of slender stems; sedges are keyed by perigynium shape and beak, and its habit along edges and in thickets is a clue."
+    },
+    "zh": {
+      "summary": "高山穗序薹（ヤブスゲ）。莎草科薹草属多年生草本，生于本州至九州山地林缘、路旁与湿润草地；细叶丛生，细长茎顶疏生雌雄小穗。多见于林缘与灌丛。",
+      "habitat_hint": "山地林缘、路旁、湿润草地、灌丛。",
+      "finding_tips": "5至7月寻找细长茎顶疏生的小穗；薹草属以果囊形状与喙区分，多生林缘灌丛为线索。"
+    }
+  },
+  "Luzula plumosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy woodrush",
+    "ja": {
+      "summary": "クロボシソウ。本州〜九州の山地の落葉樹林の林縁や林床、道端に生えるイグサ科の多年草。幅の広い葉の縁に長い白い毛が生える。春に茶褐色の小さな花をまばらな花序につける。スズメノヤリの仲間で、葉が幅広い。",
+      "habitat_hint": "山地の落葉樹林の林縁、林床、道端、やや湿った半日陰。",
+      "finding_tips": "4〜6月、幅の広い葉の縁につく長い白い毛と、茶褐色の小さな花のまばらな花序を探す。葉縁の白い長毛がスズメノヤリ類の識別点。"
+    },
+    "en": {
+      "summary": "Hairy woodrush (Luzula plumosa). A perennial of the rush family on montane deciduous forest edges, floors and roadsides from Honshu to Kyushu; its broad leaves are fringed with long white hairs and it bears small brown flowers in a loose inflorescence in spring. A woodrush with unusually broad leaves.",
+      "habitat_hint": "Montane deciduous forest edges, floors, roadsides, damp half-shade.",
+      "finding_tips": "From April to June look for the long white hairs fringing the broad leaves and the loose inflorescence of small brown flowers; the white-fringed leaves identify the woodrushes."
+    },
+    "zh": {
+      "summary": "羽毛地杨梅（クロボシソウ）。灯芯草科多年生草本，生于本州至九州山地落叶林缘、林床与路旁；宽叶边缘生长白毛，春于疏松花序生褐色小花。为地杨梅类而叶宽。",
+      "habitat_hint": "山地落叶林缘、林床、路旁、湿润半阴处。",
+      "finding_tips": "4至6月寻找宽叶边缘的长白毛与褐色小花的疏松花序；叶缘白色长毛为地杨梅类识别点。"
+    }
+  },
+  "Asplenium wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wright's spleenwort",
+    "ja": {
+      "summary": "クルマシダ。本州(関東以西)〜九州・沖縄の暖地の谷沿いや湿った林床に生えるチャセンシダ科の常緑性シダ。大型で1回羽状の葉をもち、細長い羽片が並ぶ。葉裏に細長い胞子嚢群が羽片の中肋に沿って並ぶ。",
+      "habitat_hint": "暖地の谷沿い、湿った常緑樹林の林床、沢のしぶきのかかる斜面。",
+      "finding_tips": "通年、大型で1回羽状、細長い羽片が並ぶ葉を探す。葉裏の中肋に沿って細長い胞子嚢群が斜めに並ぶ点が手がかり。暖地の湿った谷に多い。"
+    },
+    "en": {
+      "summary": "Wright's spleenwort (Asplenium wrightii). A large evergreen spleenwort of warm-region valleys and damp forest floors from western Honshu to Kyushu and Okinawa, with once-pinnate fronds bearing long narrow pinnae; elongate sori run obliquely along the pinna midribs beneath.",
+      "habitat_hint": "Warm-region valleys, damp evergreen forest floor, spray-wet slopes.",
+      "finding_tips": "Year-round, look for the large once-pinnate fronds with long narrow pinnae; the elongate sori set obliquely along the pinna midribs beneath are the clue. It favours damp warm-region valleys."
+    },
+    "zh": {
+      "summary": "狭翅铁角蕨（クルマシダ）。铁角蕨科常绿蕨，生于本州关东以西至九州、冲绳暖地谷地与湿润林床；植株大型、叶一回羽状，羽片细长；叶背沿羽片中脉斜生长形孢子囊群。",
+      "habitat_hint": "暖地谷地、湿润常绿林林床、溪旁水雾坡地。",
+      "finding_tips": "全年可见，寻找大型一回羽状、羽片细长之叶；叶背沿羽片中脉斜列的长形孢子囊群为线索，多生暖地湿润谷地。"
+    }
   }
 }
