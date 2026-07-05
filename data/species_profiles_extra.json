@@ -208021,5 +208021,319 @@
       "habitat_hint": "亚高山至山地湿润林床、溪旁、雪田周围坡地。",
       "finding_tips": "6至9月寻找大型质软的二回羽状叶与叶柄基部密生的黑褐色鳞片；生于冷凉高地湿润林床为线索。"
     }
+  },
+  "Lilium japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sasa lily",
+    "aliases": {
+      "zh-Hans": "日本百合"
+    },
+    "ja": {
+      "summary": "ササユリ。本州(中部以西)〜九州の山地の草地や明るい林縁に生えるユリ科の多年草。葉が笹に似ることが名の由来。初夏、淡紅色〜白の大きく上品な花を横向きに1〜数個咲かせ、甘い香りがある。里山を代表する野生ユリ。",
+      "habitat_hint": "山地の草地、明るい林縁、尾根、里山の草刈り地。",
+      "finding_tips": "6〜7月、笹に似た細い葉と、横向きに咲く淡紅色〜白の大きな花を探す。甘い芳香も手がかり。草刈りで維持される明るい草地に多い。"
+    },
+    "en": {
+      "summary": "Sasa lily (Lilium japonicum). A perennial lily of montane grassland and bright forest edges from central-western Honshu to Kyushu; its leaves resemble sasa bamboo, giving the name. In early summer it opens one to a few large, elegant pale pink to white flowers held sideways, with a sweet scent — a wild lily emblematic of the satoyama landscape.",
+      "habitat_hint": "Montane grassland, bright forest edges, ridges, mown satoyama.",
+      "finding_tips": "In June–July look for the narrow sasa-like leaves and the large pale pink to white flowers held sideways; the sweet fragrance is a further clue. It favours bright grassland kept open by mowing."
+    },
+    "zh": {
+      "summary": "日本百合（ササユリ）。百合科多年生草本，生于本州中部以西至九州的山地草地与明亮林缘；叶似笹竹，为和名之由。初夏侧向开1至数朵淡红至白色的大型雅致花，具甜香，为乡野代表性野百合。",
+      "habitat_hint": "山地草地、明亮林缘、山脊、乡野刈草地。",
+      "finding_tips": "6至7月寻找似笹的细叶与侧向开放的淡红至白色大花；甜香为线索，多见于刈草维持的明亮草地。"
+    }
+  },
+  "Wikstroemia sikokiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ganpi paper bush",
+    "aliases": {
+      "zh-Hans": "雁皮"
+    },
+    "ja": {
+      "summary": "ガンピ。本州(中部以西)〜九州の山地の乾いた尾根や岩地、明るい斜面に生えるジンチョウゲ科の落葉低木。樹皮の繊維が非常に強く、上質の和紙(雁皮紙)の原料として古くから利用される。初夏に黄色い筒状の小花を枝先に集めて咲かせる。",
+      "habitat_hint": "山地の乾いた尾根、岩地、明るい斜面、二次林。",
+      "finding_tips": "5〜6月、枝先に集まる黄色い筒状の小花を探す。枝は柔らかく折れにくく、樹皮がよく粘って裂けにくい点(和紙原料)も手がかり。乾いた尾根に多い。"
+    },
+    "en": {
+      "summary": "Ganpi paper bush (Wikstroemia sikokiana). A deciduous shrub of the daphne family on dry montane ridges, rocky ground and bright slopes from central-western Honshu to Kyushu; its very strong bark fibre has long been used to make fine Japanese 'ganpi' paper. In early summer it clusters small yellow tubular flowers at the shoot tips.",
+      "habitat_hint": "Dry montane ridges, rocky ground, bright slopes, secondary woods.",
+      "finding_tips": "In May–June look for the small yellow tubular flowers clustered at the shoot tips; the soft, hard-to-break twigs and tough, stringy bark (the papermaking fibre) are clues, and it favours dry ridges."
+    },
+    "zh": {
+      "summary": "雁皮（ガンピ）。瑞香科落叶灌木，生于本州中部以西至九州的山地干燥山脊、岩地与明亮坡地；树皮纤维极坚韧，自古用作优质和纸（雁皮纸）之原料。初夏于枝端簇生黄色筒状小花。",
+      "habitat_hint": "山地干燥山脊、岩地、明亮坡地、次生林。",
+      "finding_tips": "5至6月寻找枝端簇生的黄色筒状小花；枝柔韧不易折、树皮坚韧难裂（造纸纤维）为线索，多生干燥山脊。"
+    }
+  },
+  "Thalictrum aquilegiifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Columbine meadow-rue",
+    "aliases": {
+      "zh-Hans": "唐松草"
+    },
+    "ja": {
+      "summary": "カラマツソウ。北海道〜九州の山地の草地や林縁、湿った斜面に生えるキンポウゲ科の多年草。オダマキに似た丸い小葉をもち、初夏、多数の白い雄しべが放射状に広がる小花を線香花火のように集めて咲かせる。花弁はなく雄しべが目立つ。",
+      "habitat_hint": "山地の草地、林縁、湿った斜面、高原の草原。",
+      "finding_tips": "6〜8月、白い雄しべが放射状に広がる小花が集まる、線香花火のような花序を探す。花弁がなく雄しべが目立つ点と、オダマキに似た丸い小葉が手がかり。"
+    },
+    "en": {
+      "summary": "Columbine meadow-rue (Thalictrum aquilegiifolium). A perennial of the buttercup family on montane grassland, forest edges and damp slopes from Hokkaido to Kyushu; with rounded columbine-like leaflets, in early summer it gathers small flowers of many radiating white stamens, like a sparkler. It lacks petals, the stamens being conspicuous.",
+      "habitat_hint": "Montane grassland, forest edges, damp slopes, upland meadows.",
+      "finding_tips": "From June to August look for the sparkler-like clusters of small flowers with radiating white stamens; the absence of petals with showy stamens and the rounded columbine-like leaflets are clues."
+    },
+    "zh": {
+      "summary": "唐松草（カラマツソウ）。毛茛科多年生草本，生于北海道至九州的山地草地、林缘与湿润坡地；小叶圆似耧斗菜，初夏聚生多数白色雄蕊放射的小花，如烟火。无花瓣，雄蕊显著。",
+      "habitat_hint": "山地草地、林缘、湿润坡地、高原草原。",
+      "finding_tips": "6至8月寻找白色雄蕊放射、如烟火般聚生的小花；无花瓣而雄蕊显著、小叶圆似耧斗菜为线索。"
+    }
+  },
+  "Veronicastrum japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Culver's root",
+    "ja": {
+      "summary": "シロクガイソウ(クガイソウの白花・近縁種)。本州〜九州の山地の草地や明るい林縁に生えるオオバコ科(旧ゴマノハグサ科)の多年草。茎の節ごとに葉を輪生し、夏に細長い穂状に小さな花を密につける。クガイソウに似て、花序が細長く直立する。",
+      "habitat_hint": "山地の草地、明るい林縁、高原の草原、やや湿った斜面。",
+      "finding_tips": "7〜8月、茎の節に輪生する葉と、細長い穂状に密につく小花を探す。葉が数枚ずつ層状に輪生する点(九蓋草の由来)が手がかり。"
+    },
+    "en": {
+      "summary": "Japanese Culver's root (Veronicastrum japonicum). A perennial of the plantain family (formerly figwort family) on montane grassland and bright forest edges from Honshu to Kyushu; its leaves are whorled at each node, and in summer it densely packs small flowers into a long slender spike, resembling Veronicastrum sibiricum with an erect, elongate inflorescence.",
+      "habitat_hint": "Montane grassland, bright forest edges, upland meadows, damp slopes.",
+      "finding_tips": "In July–August look for the whorled leaves at each node and the small flowers densely set in a long slender spike; the leaves whorled in tiers are the key feature."
+    },
+    "zh": {
+      "summary": "管花腹水草（シロクガイソウ）。车前科（旧玄参科）多年生草本，生于本州至九州山地草地与明亮林缘；叶于茎节轮生，夏于细长穗状密生小花，似轮叶腹水草而花序细长直立。",
+      "habitat_hint": "山地草地、明亮林缘、高原草原、湿润坡地。",
+      "finding_tips": "7至8月寻找茎节轮生之叶与细长穗状密生的小花；叶数枚层状轮生为关键特征。"
+    }
+  },
+  "Leucobryum juniperoideum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバオキナゴケ。林床の腐植土や倒木、岩の上に半球状のこんもりしたマットをつくるシラガゴケ科のコケ(蘚類)。白みを帯びた明るい緑色で乾いても色があせにくく、苔庭や盆栽、テラリウムに「山苔」として広く使われる。",
+      "habitat_hint": "林床の腐植土、倒木、岩の上、スギ・ヒノキ林の半日陰。",
+      "finding_tips": "通年、白緑色で半球状にこんもり盛り上がるマットを探す。乾いても白緑色を保ち、葉が厚みのある独特の質感をもつ点が手がかり。苔庭でおなじみ。"
+    },
+    "en": {
+      "summary": "Smaller white-moss (Leucobryum juniperoideum). A moss of the Leucobryaceae that forms rounded cushion-like mats on forest-floor humus, logs and rocks; whitish bright green and slow to fade when dry, it is widely used as 'yama-goke' in moss gardens, bonsai and terrariums.",
+      "habitat_hint": "Forest-floor humus, logs, rocks, half-shade in cedar and cypress woods.",
+      "finding_tips": "Year-round, look for the whitish-green cushions mounding into rounded mats; it keeps its whitish-green colour when dry and has a distinctive thick-leaved texture. It is familiar from moss gardens."
+    },
+    "zh": {
+      "summary": "桧叶白发藓（ホソバオキナゴケ）。白发藓科藓类，于林床腐殖土、倒木与岩上形成半球状垫丘；带白的明绿色、干时不易褪色，广用于苔庭、盆栽与生态缸，称「山苔」。",
+      "habitat_hint": "林床腐殖土、倒木、岩上、杉桧林半阴处。",
+      "finding_tips": "全年可见，寻找白绿色隆起成半球状的垫丘；干时仍保白绿、叶厚质感独特为线索，苔庭常见。"
+    }
+  },
+  "Galium trifidum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバノヨツバムグラ。北海道〜九州の湿地や湿った草地、水辺に生えるアカネ科の多年草。細い四角い茎に、細い葉が節ごとに4〜6枚輪生する。夏に白いごく小さな花をまばらにつける。ムグラ類の中では湿地を好む。",
+      "habitat_hint": "湿地、湿った草地、水辺、休耕田、河畔。",
+      "finding_tips": "6〜8月、細い四角い茎に4〜6枚輪生する細い葉と、白いごく小さな花を探す。湿った所を好む点と、茎に下向きの小さな刺があってざらつく点が手がかり。"
+    },
+    "en": {
+      "summary": "Small bedstraw (Galium trifidum). A perennial of the madder family in marshes, damp grassland and watersides from Hokkaido to Kyushu, with narrow leaves in whorls of 4–6 at each node of a slender square stem and very small white flowers set sparsely in summer; a bedstraw that favours wet ground.",
+      "habitat_hint": "Marshes, damp grassland, watersides, fallow paddies, riverbanks.",
+      "finding_tips": "From June to August look for the narrow leaves whorled 4–6 per node on a slender square stem and the very small white flowers; its wet habitat and the rough downward prickles on the stem are clues."
+    },
+    "zh": {
+      "summary": "小叶猪殃殃（ホソバノヨツバムグラ）。茜草科多年生草本，生于北海道至九州的湿地、湿润草地与水边；细方茎每节轮生4至6枚细叶，夏疏生白色极小花。为拉拉藤类中喜湿者。",
+      "habitat_hint": "湿地、湿润草地、水边、休耕田、河畔。",
+      "finding_tips": "6至8月寻找细方茎上每节4至6枚轮生的细叶与白色极小花；喜湿及茎具倒向小刺而粗糙为线索。"
+    }
+  },
+  "Achnatherum pekinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハネガヤ。北海道〜九州の山地の林縁や道端、乾いた草地に生えるイネ科の多年草。細い茎の先に、細い枝を広げた円錐花序をつけ、小穂から長い芒(のぎ)が羽根のように出る。この芒が名の由来。",
+      "habitat_hint": "山地の林縁、道端、乾いた草地、明るい斜面。",
+      "finding_tips": "8〜9月、細い枝を広げた円錐花序と、小穂から出る長く曲がった芒を探す。芒が羽根状に目立つ点が名の由来で識別の手がかり。"
+    },
+    "en": {
+      "summary": "Chinese needlegrass (Achnatherum pekinense). A perennial grass of montane forest edges, roadsides and dry grassland from Hokkaido to Kyushu; slender stems bear a panicle of fine spreading branches, and the spikelets carry long feather-like awns, which give the Japanese name.",
+      "habitat_hint": "Montane forest edges, roadsides, dry grassland, bright slopes.",
+      "finding_tips": "From August to September look for the panicle of fine spreading branches and the long, bent awns from the spikelets; the conspicuous feather-like awns are the naming feature and the clue."
+    },
+    "zh": {
+      "summary": "京芒草（ハネガヤ）。禾本科多年生草本，生于北海道至九州山地林缘、路旁与干燥草地；细茎顶生枝细展的圆锥花序，小穗生长芒如羽，此芒为和名之由。",
+      "habitat_hint": "山地林缘、路旁、干燥草地、明亮坡地。",
+      "finding_tips": "8至9月寻找枝细展的圆锥花序与小穗伸出的长弯芒；羽状长芒显著为得名之由与线索。"
+    }
+  },
+  "Rhynchospermum verticillatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シュウブンソウ。本州〜九州の山地の林縁や林下、やや湿った道端に生えるキク科の多年草。名の通り秋分の頃、細い枝を横に広げ、葉腋に白い小さな頭花をまばらにつける。花は目立たず、横に張り出す枝ぶりが特徴。",
+      "habitat_hint": "山地の林縁、林下、やや湿った道端、谷沿いの半日陰。",
+      "finding_tips": "9〜10月、横に大きく張り出す細い枝と、葉腋につく白い小さな頭花を探す。花は地味だが、水平に広がる独特の枝ぶりが手がかり。名は秋分の頃に咲くことに由来。"
+    },
+    "en": {
+      "summary": "Rhynchospermum verticillatum. A perennial of the daisy family on montane forest edges, understorey and damp roadsides from Honshu to Kyushu; around the autumn equinox (its Japanese name) it spreads slender branches horizontally and sets small white flower-heads sparsely in the leaf axils. The flowers are inconspicuous; the outspread branching is distinctive.",
+      "habitat_hint": "Montane forest edges, understorey, damp roadsides, valley half-shade.",
+      "finding_tips": "From September to October look for the widely outspread slender branches and the small white flower-heads in the leaf axils; the flowers are plain, but the horizontally spreading habit is the clue. The name refers to flowering near the autumn equinox."
+    },
+    "zh": {
+      "summary": "秋分草（シュウブンソウ）。菊科多年生草本，生于本州至九州山地林缘、林下与湿润路旁；如其名于秋分前后横展细枝，叶腋疏生白色小头花。花不显，横展枝态为特征。",
+      "habitat_hint": "山地林缘、林下、湿润路旁、谷地半阴处。",
+      "finding_tips": "9至10月寻找横向大展的细枝与叶腋白色小头花；花朴素，水平展开的枝态为线索。和名指其于秋分前后开放。"
+    }
+  },
+  "Lespedeza virgata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マキエハギ。本州〜九州の山地の乾いた尾根や明るい林縁、草地に生えるマメ科の小低木。細くほうき状に立つ枝に、白い小さな蝶形花を数個ずつまばらにつける。花に紅紫色の斑が入ることが多い。ハギ類の中では小型で繊細。",
+      "habitat_hint": "山地の乾いた尾根、明るい林縁、草地、アカマツ林。",
+      "finding_tips": "8〜9月、細くほうき状に立つ枝に、白く紅紫の斑のある小さな蝶形花をまばらに探す。全体に小型で繊細な点、3小葉も手がかり。"
+    },
+    "en": {
+      "summary": "Wand lespedeza (Lespedeza virgata). A small shrub of the pea family on dry montane ridges, bright forest edges and grassland from Honshu to Kyushu, its slender broom-like erect shoots bearing a few small white pea flowers sparsely, often marked with rose-purple; small and delicate for a bush clover.",
+      "habitat_hint": "Dry montane ridges, bright forest edges, grassland, red-pine woods.",
+      "finding_tips": "In August–September look for the slender broom-like erect shoots with sparse small white pea flowers, often rose-purple-blotched; its small delicate build and trifoliate leaves are clues."
+    },
+    "zh": {
+      "summary": "细梗胡枝子（マキエハギ）。豆科小灌木，生于本州至九州山地干燥山脊、明亮林缘与草地；细枝帚状直立，疏生数朵白色小蝶形花，常带紫红斑。于胡枝子类中小型纤细。",
+      "habitat_hint": "山地干燥山脊、明亮林缘、草地、赤松林。",
+      "finding_tips": "8至9月于帚状细直枝上寻找疏生的白色（常带紫红斑）小蝶形花；植株小型纤细与三出复叶为线索。"
+    }
+  },
+  "Amaranthus retroflexus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Redroot amaranth",
+    "aliases": {
+      "zh-Hans": "反枝苋"
+    },
+    "ja": {
+      "summary": "アオゲイトウ。北アメリカ原産で畑や道端、荒れ地に帰化したヒユ科の一年草。高さ1m前後になり、茎の先や葉腋に緑色の小花が密集した太い穂状の花序をつける。根が赤みを帯びる。よく似たホナガイヌビユなどとともに畑の強害草。",
+      "habitat_hint": "畑、道端、河原、荒れ地、埋め立て地の日当たりのよい所。",
+      "finding_tips": "7〜10月、茎の先や葉腋に密集する緑色の太い穂状花序を探す。全体に毛があってざらつき、根が赤みを帯びる点が手がかり。よく似た帰化ヒユ類が多く同定は注意。"
+    },
+    "en": {
+      "summary": "Redroot amaranth (Amaranthus retroflexus). A North American annual of the amaranth family naturalised on fields, roadsides and waste ground, reaching about 1 m with dense green flower spikes at the stem tips and leaf axils and a reddish root; a serious field weed alongside its close relatives.",
+      "habitat_hint": "Fields, roadsides, riverbeds, waste ground, reclaimed land in the sun.",
+      "finding_tips": "From July to October look for the dense green stout flower spikes at the stem tips and axils; the rough hairy stem and reddish root are clues, though the many naturalised amaranths make identification tricky."
+    },
+    "zh": {
+      "summary": "反枝苋（アオゲイトウ）。苋科一年生草本，原产北美，归化于农田、路旁与荒地，高约1米，茎端及叶腋生绿色密集的粗穗状花序，根带红色。与近缘归化苋类同为农田恶性杂草。",
+      "habitat_hint": "农田、路旁、河滩、荒地、填土地向阳处。",
+      "finding_tips": "7至10月寻找茎端与叶腋密集的绿色粗穗状花序；全株被毛粗糙、根带红色为线索，归化苋类相似者多，鉴定宜慎。"
+    }
+  },
+  "Bonnaya antipoda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スズメノトウガラシ。水田や休耕田、湿った道端に生えるアゼナ科(旧ゴマノハグサ科)の一年草。細い茎が枝分かれして地際で広がり、葉腋に淡紅紫色の小さな唇形花をつける。花後の細長い果実がトウガラシに見立てられ名の由来となった。",
+      "habitat_hint": "水田、休耕田、湿った道端、水路沿いの湿った裸地。",
+      "finding_tips": "8〜10月、淡紅紫色の小さな唇形花と、花後の細長い果実(トウガラシ状)を探す。細かい鋸歯のある対生葉と、水田周りに生える点が手がかり。"
+    },
+    "en": {
+      "summary": "Sparrow false pimpernel (Bonnaya antipoda). An annual of the Linderniaceae (formerly figwort family) in paddies, fallow paddies and damp roadsides; its slender branching stems spread near the ground and bear small pale purplish two-lipped flowers in the leaf axils. The slender fruit that follows, likened to a chilli, gives the Japanese name.",
+      "habitat_hint": "Paddies, fallow paddies, damp roadsides, wet bare ground by ditches.",
+      "finding_tips": "From August to October look for the small pale purple two-lipped flowers and the slender chilli-like fruit that follows; the finely toothed opposite leaves and the paddy-margin habitat are clues."
+    },
+    "zh": {
+      "summary": "泥花母草（スズメノトウガラシ）。母草科（旧玄参科）一年生草本，生于稻田、休耕田与湿润路旁；细茎分枝近地平展，叶腋生淡紫红色小唇形花。花后细长之果似辣椒，为和名之由。",
+      "habitat_hint": "稻田、休耕田、湿润路旁、水沟旁湿润裸地。",
+      "finding_tips": "8至10月寻找淡紫红色小唇形花与花后细长似辣椒之果；细锯齿对生叶与稻田周边生境为线索。"
+    }
+  },
+  "Rhododendron multiflorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Urn-flowered azalea",
+    "ja": {
+      "summary": "ウラジロヨウラク。本州(東北〜中部)の山地の岩尾根や明るい林縁、湿原の縁に生えるツツジ科の落葉低木。初夏、枝先に紅紫色を帯びた壺形〜筒形の花を数個ずつ垂れ下げて咲かせる。葉の裏が白っぽいことが名の由来。",
+      "habitat_hint": "山地の岩尾根、明るい林縁、湿原の縁、亜高山の斜面。",
+      "finding_tips": "5〜7月、枝先に垂れ下がる紅紫色を帯びた壺形〜筒形の花を探す。葉の裏が白っぽい(裏白)点が名の由来で手がかり。ツツジ類だが花が壺形で垂れる点が独特。"
+    },
+    "en": {
+      "summary": "Urn-flowered azalea (Rhododendron multiflorum). A deciduous azalea of montane rocky ridges, bright forest edges and marsh margins in the Tohoku to Chubu regions of Honshu; in early summer it hangs a few reddish-purple urn- to tube-shaped flowers from the shoot tips. The whitish leaf underside gives the Japanese name.",
+      "habitat_hint": "Montane rocky ridges, bright forest edges, marsh margins, subalpine slopes.",
+      "finding_tips": "From May to July look for the hanging reddish-purple urn- to tube-shaped flowers at the shoot tips; the whitish leaf underside is the naming feature, and the urn-shaped, drooping flowers are unusual for an azalea."
+    },
+    "zh": {
+      "summary": "壶花杜鹃（ウラジロヨウラク）。杜鹃花科落叶灌木，生于本州东北至中部的山地岩脊、明亮林缘与沼泽边缘；初夏于枝端下垂数朵带紫红的壶形至筒形花。叶背偏白，为和名之由。",
+      "habitat_hint": "山地岩脊、明亮林缘、沼泽边缘、亚高山坡地。",
+      "finding_tips": "5至7月寻找枝端下垂的带紫红壶形至筒形花；叶背偏白为得名之由，壶形下垂之花于杜鹃类中独特。"
+    }
+  },
+  "Ajuga tsukubana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tsukuba bugleweed",
+    "ja": {
+      "summary": "ツクバキンモンソウ。本州(主に太平洋側)の山地の落葉樹林の林床や林縁に生えるシソ科の多年草。ニシキゴロモの仲間で、地際に低くロゼット状につく葉は表面の脈が紫色を帯びる。春に淡紫色〜白の唇形花を穂状に咲かせる。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った半日陰。",
+      "finding_tips": "4〜5月、地際に低くつく葉(脈が紫色を帯びる)と、淡紫〜白の唇形花を探す。ニシキゴロモに似るが花の上唇が短い点が手がかり。四角い茎と対生葉のシソ科。"
+    },
+    "en": {
+      "summary": "Tsukuba bugleweed (Ajuga tsukubana). A perennial mint of montane deciduous forest floors and edges, mainly on the Pacific side of Honshu; a relative of Ajuga nipponensis, its low ground-hugging leaves have purple-tinged veins, and in spring it bears pale purple to white two-lipped flowers in short spikes.",
+      "habitat_hint": "Montane deciduous forest floor, edges, damp half-shade.",
+      "finding_tips": "In April–May look for the low ground-hugging leaves with purple-tinged veins and the pale purple to white two-lipped flowers; the short upper lip separates it from the related bugleweed. Square stem and opposite leaves mark the mint family."
+    },
+    "zh": {
+      "summary": "筑波金纹草（ツクバキンモンソウ）。唇形科多年生草本，生于本州（主要太平洋侧）山地落叶林床与林缘；为锦衣草类，贴地莲座状之叶脉带紫色，春于短穗生淡紫至白色唇形花。",
+      "habitat_hint": "山地落叶林床、林缘、湿润半阴处。",
+      "finding_tips": "4至5月寻找贴地脉带紫色之叶与淡紫至白色唇形花；花上唇短可与近缘的锦衣草相区别。方茎对生叶为唇形科特征。"
+    }
+  },
+  "Corydalis fumariifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fumitory corydalis",
+    "ja": {
+      "summary": "ヤチマタエンゴサク。北海道〜本州の山地の湿った林縁や谷沿い、草地に生えるケシ科の多年草。エンゴサクの仲間で、春に青紫色の細長い筒状の花を穂状に咲かせる春植物。地下に球状の塊茎をもち、夏には地上部が枯れる。",
+      "habitat_hint": "山地の湿った林縁、谷沿い、草地、雪解け後の斜面。",
+      "finding_tips": "4〜5月、青紫色の細長い距のある筒状花を穂状につける草を探す。細かく裂ける葉と、夏に地上部が枯れる春植物である点が手がかり。エンゴサク類は苞や塊茎で見分ける。"
+    },
+    "en": {
+      "summary": "Fumitory corydalis (Corydalis fumariifolia). A perennial of the poppy family on damp montane forest edges, valleys and grassland from Hokkaido to Honshu; a corydalis, it opens blue-purple, long tubular spurred flowers in spikes in spring as a spring ephemeral, with a rounded underground tuber, dying back by summer.",
+      "habitat_hint": "Damp montane forest edges, valleys, grassland, post-snowmelt slopes.",
+      "finding_tips": "In April–May look for the spikes of blue-purple long-spurred tubular flowers; the finely divided leaves and its spring-ephemeral habit are clues, and corydalis species are keyed by bracts and tuber."
+    },
+    "zh": {
+      "summary": "烟堇叶紫堇（ヤチマタエンゴサク）。罂粟科多年生草本，生于北海道至本州山地湿润林缘、谷地与草地；为紫堇类，春于穗状开蓝紫色具长距的筒状花，为春季短命植物，地下具球状块茎，夏枯。",
+      "habitat_hint": "山地湿润林缘、谷地、草地、融雪后坡地。",
+      "finding_tips": "4至5月寻找穗状的蓝紫色长距筒状花；细裂叶与夏枯的春季短命习性为线索，紫堇类以苞片与块茎区分。"
+    }
   }
 }
