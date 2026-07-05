@@ -207054,5 +207054,335 @@
       "habitat_hint": "路旁、河滩、空地、填土地等向阳处。",
       "finding_tips": "5至7月寻找下垂的大型小穗与其上极长的芒；芒长而锐，于雀麦类中甚显眼。"
     }
+  },
+  "Drosera rotundifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Round-leaved sundew",
+    "aliases": {
+      "zh-Hans": "圆叶茅膏菜"
+    },
+    "ja": {
+      "summary": "モウセンゴケ。北海道〜九州の日当たりのよい湿原や湿地に生えるモウセンゴケ科の食虫植物。円い葉の表面に赤い腺毛が密生し、粘液で小さな虫を捕らえて消化・吸収する。夏に細い花茎を立て白い小花を咲かせる。",
+      "habitat_hint": "日当たりのよい湿原、湿地、湿った砂地、貧栄養の水辺。",
+      "finding_tips": "6〜8月、地面にロゼット状につく円い葉と、赤い腺毛の先の粘液の露を探す。湿原の裸地や水苔の間に多い。花は晴れた日の午前に開く。"
+    },
+    "en": {
+      "summary": "Round-leaved sundew (Drosera rotundifolia). A carnivorous plant of the sundew family in sunny bogs and marshes from Hokkaido to Kyushu; its round leaves are densely set with red glandular hairs that trap small insects in sticky mucilage and digest them. In summer it raises a slender stalk of small white flowers.",
+      "habitat_hint": "Sunny bogs, marshes, damp sand, nutrient-poor watersides.",
+      "finding_tips": "From June to August look for the rosette of round leaves with dew-like mucilage on the tips of red glandular hairs; it grows on bare bog ground and among sphagnum. Flowers open on sunny mornings."
+    },
+    "zh": {
+      "summary": "圆叶茅膏菜（モウセンゴケ）。茅膏菜科食虫植物，生于北海道至九州向阳沼泽与湿地；圆叶表面密生红色腺毛，以黏液捕捉小虫并消化吸收。夏抽细花葶，开白色小花。",
+      "habitat_hint": "向阳沼泽、湿地、湿沙地、贫营养水边。",
+      "finding_tips": "6至8月寻找贴地莲座状的圆叶及红色腺毛尖端的黏液露珠；多生于沼泽裸地与泥炭藓间。花于晴日上午开放。"
+    }
+  },
+  "Acer tataricum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tatar maple",
+    "ja": {
+      "summary": "カラコギカエデ。北海道〜九州の山地の湿地や河畔、湿った林縁に生えるムクロジ科(カエデ科)の落葉小高木。葉は浅く3〜5裂し、時にほとんど裂けない。樹皮が縦にはがれて鹿の子模様になる。秋に紅葉し、翼のある果実をつける。",
+      "habitat_hint": "山地の湿地の縁、河畔林、湿った林縁、池畔。",
+      "finding_tips": "浅く3〜5裂する(時にほぼ全縁の)葉と、縦にはがれて鹿の子状になる樹皮を確認する。カエデ類としては湿った所を好む点が手がかり。"
+    },
+    "en": {
+      "summary": "Tatar maple (Acer tataricum). A deciduous small tree of the soapberry (maple) family on montane wetland margins, riverbanks and damp forest edges from Hokkaido to Kyushu; its leaves are shallowly 3–5-lobed or almost unlobed, its bark peels lengthwise into a dappled pattern, and it colours red in autumn with winged fruits.",
+      "habitat_hint": "Montane wetland margins, riparian woods, damp forest edges, pond sides.",
+      "finding_tips": "Note the shallowly 3–5-lobed (sometimes nearly entire) leaves and the lengthwise-peeling, dappled bark; its preference for damp ground is unusual for a maple and is a clue."
+    },
+    "zh": {
+      "summary": "苦茶槭（カラコギカエデ）。无患子科（槭树科）落叶小乔木，生于北海道至九州山地湿地边缘、河畔与湿润林缘；叶浅3至5裂、有时近全缘，树皮纵裂呈鹿斑状，秋叶转红并结具翅果。",
+      "habitat_hint": "山地湿地边缘、河畔林、湿润林缘、池畔。",
+      "finding_tips": "注意浅3至5裂（有时近全缘）之叶与纵裂鹿斑状树皮；喜湿为其在槭类中之特点，可资辨识。"
+    }
+  },
+  "Viola vaginata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snow violet",
+    "ja": {
+      "summary": "スミレサイシン。本州の主に日本海側の山地の落葉樹林の林床に生えるスミレ科の多年草。雪解けとともに、葉が十分に開く前に淡紫色の大きな花を咲かせる。葉は基部が心形で大きく、名はウスバサイシンの葉に似ることに由来する。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、雪の多い地方の斜面。",
+      "finding_tips": "4〜5月、葉が開ききる前に咲く淡紫色の大きな花を探す。基部が深く心形の大きな葉と、太い地下茎も手がかり。日本海側の多雪地に多い。"
+    },
+    "en": {
+      "summary": "Snow violet (Viola vaginata). A woodland violet on the floor of montane deciduous forests, mainly on the Japan Sea side of Honshu; as the snow melts it opens large pale purple flowers before the leaves fully expand. The large heart-based leaves recall those of wild ginger, giving the Japanese name.",
+      "habitat_hint": "Floor of montane deciduous forest, edges, snowy-region slopes.",
+      "finding_tips": "In April–May look for the large pale purple flowers opening before the leaves fully expand; the large, deeply heart-based leaves and stout rhizome are clues. It favours snowy Japan-Sea-side districts."
+    },
+    "zh": {
+      "summary": "鞘柄堇菜（スミレサイシン）。堇菜科多年生草本，主产本州日本海侧的山地落叶林床；融雪时于叶未全展前开淡紫色大花。叶大、基部深心形，似细辛之叶，为和名之由。",
+      "habitat_hint": "山地落叶林床、林缘、多雪地区坡地。",
+      "finding_tips": "4至5月寻找叶未全展即开的淡紫大花；基部深心形的大叶与粗根状茎为线索，多见于日本海侧多雪地。"
+    }
+  },
+  "Symplocos sumuntia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "山矾"
+    },
+    "ja": {
+      "summary": "クロバイ。本州(関東以西)〜沖縄の暖地の常緑樹林や社寺林に生えるハイノキ科の常緑高木。春に白い小花を枝いっぱいに咲かせ、よい香りがする。ハイノキに似るが葉がやや大きく、材を焼いた灰は染色の媒染に使われた。",
+      "habitat_hint": "暖地の常緑広葉樹林、社寺林、谷沿いの斜面。",
+      "finding_tips": "3〜4月、枝いっぱいに咲く芳香のある白い小花を探す。光沢のある常緑の葉と、秋の黒紫色に熟す実も手がかり。ハイノキ科は染色の媒染に使われた歴史をもつ。"
+    },
+    "en": {
+      "summary": "Kurobai (Symplocos sumuntia). An evergreen tree of the Symplocaceae in warm-temperate evergreen and shrine forests from the Kanto region westward to Okinawa; in spring it covers its branches with fragrant small white flowers. It resembles Symplocos myrtacea but has somewhat larger leaves, and the ash of the wood was historically used as a mordant in dyeing.",
+      "habitat_hint": "Warm-temperate evergreen broadleaf forest, shrine groves, valley slopes.",
+      "finding_tips": "In March–April look for the fragrant small white flowers covering the branches; the glossy evergreen leaves and black-purple autumn fruits are clues. Sweetleaf wood ash was used as a dye mordant."
+    },
+    "zh": {
+      "summary": "山矾（クロバイ）。山矾科常绿乔木，生于本州关东以西至冲绳的暖地常绿林与社寺林；春满枝开有香气的白色小花。似灰木（ハイノキ）而叶稍大，其木灰旧用作染色媒染剂。",
+      "habitat_hint": "暖地常绿阔叶林、社寺林、谷地坡地。",
+      "finding_tips": "3至4月寻找满枝芳香的白色小花；光亮常绿叶与秋季黑紫色果为线索。山矾科木灰历来用作染色媒染。"
+    }
+  },
+  "Christella dentata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Soft fern",
+    "ja": {
+      "summary": "イヌケホシダ。本州(関東以西)〜九州・沖縄の暖地の道端や石垣、林縁に生えるヒメシダ科の常緑性〜半常緑性シダ。軟らかい1回羽状の葉をもち、羽片の縁が浅く切れ込む。人里近くの明るい所によく見られる。",
+      "habitat_hint": "暖地の道端、石垣、林縁、造成地の湿った半日陰。",
+      "finding_tips": "通年、軟らかい1回羽状の葉と、浅く切れ込む羽片を探す。人里の道端や石垣に普通に生える点が手がかり。葉裏の胞子嚢群は羽片の縁近くにつく。"
+    },
+    "en": {
+      "summary": "Soft fern (Christella dentata). An evergreen to semi-evergreen fern of the marsh-fern family on warm-region roadsides, stone walls and forest edges from western Honshu to Kyushu and Okinawa, with soft once-pinnate fronds whose pinnae are shallowly lobed; common in bright places near habitation.",
+      "habitat_hint": "Warm-region roadsides, stone walls, forest edges, damp half-shade on made ground.",
+      "finding_tips": "Year-round, look for the soft once-pinnate fronds with shallowly lobed pinnae; its abundance on roadsides and walls near settlements is a clue, and the sori sit near the pinna margins beneath."
+    },
+    "zh": {
+      "summary": "齿牙毛蕨（イヌケホシダ）。金星蕨科常绿至半常绿蕨，生于本州关东以西至九州、冲绳暖地的路旁、石墙与林缘；叶一回羽状、质软，羽片浅裂。多见于近人居的明亮处。",
+      "habitat_hint": "暖地路旁、石墙、林缘、造地湿润半阴处。",
+      "finding_tips": "全年可见，寻找质软的一回羽状叶与浅裂羽片；多生于人居附近路旁石墙为线索，孢子囊群近羽片边缘。"
+    }
+  },
+  "Cotula australis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マメカミツレ。オーストラリア原産で道端や芝地、畑に帰化したキク科の小さな一年草。細かく裂けた柔らかい葉をもち、春に緑黄色の小さな球状の頭花を咲かせる。踏まれやすい所によく生える。",
+      "habitat_hint": "道端、芝地、公園、畑、舗装の隙間などの日当たりのよい所。",
+      "finding_tips": "3〜6月、細かく裂けた柔らかい葉と、花弁のない緑黄色の小さな球状の頭花を探す。全体に小型で地面に低く広がる点が手がかり。"
+    },
+    "en": {
+      "summary": "Annual buttonweed (Cotula australis). A small Australian annual of the daisy family naturalised on roadsides, turf and fields; it has soft finely divided leaves and small greenish-yellow button-like flower-heads in spring, and favours trodden ground.",
+      "habitat_hint": "Roadsides, turf, parks, fields, pavement cracks in the sun.",
+      "finding_tips": "From March to June look for the soft finely divided leaves and the small greenish-yellow, rayless button-heads; its small size and low spreading habit are clues."
+    },
+    "zh": {
+      "summary": "澳洲山芫荽（マメカミツレ）。菊科小型一年生草本，原产澳大利亚，归化于路旁、草坪与农田；叶细裂柔软，春开绿黄色无瓣球状小头花，喜生践踏之地。",
+      "habitat_hint": "路旁、草坪、公园、农田、铺装缝隙等向阳处。",
+      "finding_tips": "3至6月寻找细裂柔软之叶与绿黄色无瓣球状小头花；植株小型、贴地平展为线索。"
+    }
+  },
+  "Hydrocotyle yabei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender pennywort",
+    "ja": {
+      "summary": "ヒメチドメ。本州〜九州の山地の湿った林縁や道端、芝地に生えるウコギ科(旧セリ科)の小さな多年草。細い茎が地を這い、掌状に浅く裂ける小さな円い葉をつける。チドメグサの仲間で全体に小型。",
+      "habitat_hint": "山地の湿った林縁、道端、芝地、半日陰の地面。",
+      "finding_tips": "5〜9月、地を這う細い茎と、掌状に浅く裂ける径1cmほどの小さな円い葉を探す。チドメグサ類の中でも葉が小さく切れ込みが深い点が手がかり。"
+    },
+    "en": {
+      "summary": "Slender pennywort (Hydrocotyle yabei). A small perennial of the ivy family (formerly carrot family) on damp montane forest edges, roadsides and turf from Honshu to Kyushu; slender stems creep over the ground bearing small rounded leaves that are shallowly palmately lobed. A pennywort, small overall.",
+      "habitat_hint": "Damp montane forest edges, roadsides, turf, half-shaded ground.",
+      "finding_tips": "From May to September look for the slender creeping stems and the small rounded leaves about 1 cm across, shallowly palmately lobed; the small size and deeper lobing separate it from other pennyworts."
+    },
+    "zh": {
+      "summary": "小天胡荽（ヒメチドメ）。五加科（旧伞形科）小型多年生草本，生于本州至九州山地湿润林缘、路旁与草坪；细茎匍匐，生掌状浅裂的圆形小叶。为天胡荽类，植株小型。",
+      "habitat_hint": "山地湿润林缘、路旁、草坪、半阴地面。",
+      "finding_tips": "5至9月寻找匍匐细茎与径约1厘米、掌状浅裂的圆形小叶；叶小而裂较深，可与其他天胡荽相区别。"
+    }
+  },
+  "Lolium pratense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒロハウシノケグサ。ヨーロッパ原産で牧草として導入され、各地の草地や道端、河原に帰化したイネ科の多年草。幅の広い葉をもち、初夏に細長い円錐花序に細い小穂をつける。牧草(メドウフェスク)として利用される。",
+      "habitat_hint": "牧草地、草地、道端、河原、堤防などの日当たりのよい所。",
+      "finding_tips": "5〜7月、幅の広い葉と、細長く枝分かれの少ない円錐花序を探す。ウシノケグサ類の中では葉が広い点が手がかり。"
+    },
+    "en": {
+      "summary": "Meadow fescue (Lolium pratense). A European perennial grass introduced as forage and naturalised on grassland, roadsides and riverbeds across Japan; it has broad leaves and bears slender spikelets in an elongate, sparingly branched panicle in early summer. It is used as meadow-fescue pasture grass.",
+      "habitat_hint": "Pasture, grassland, roadsides, riverbeds, embankments in the sun.",
+      "finding_tips": "From May to July look for the broad leaves and the elongate, sparingly branched panicle; its broad leaves separate it from the narrower-leaved fescues."
+    },
+    "zh": {
+      "summary": "草甸羊茅（ヒロハウシノケグサ）。禾本科多年生草本，原产欧洲，作牧草引入并归化于日本各地草地、路旁与河滩；叶宽，初夏于细长少分枝的圆锥花序生细小穗，作草甸羊茅牧草利用。",
+      "habitat_hint": "牧地、草地、路旁、河滩、堤岸等向阳处。",
+      "finding_tips": "5至7月寻找宽叶与细长少分枝的圆锥花序；叶较其他羊茅宽，可资区别。"
+    }
+  },
+  "Asplenium laciniatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワトラノオ。本州〜九州の山地の湿った岩壁や石垣の割れ目に生えるチャセンシダ科の常緑性シダ。小型で、2回羽状に細かく分かれた葉を束生する。湿った日陰の岩場を好む。",
+      "habitat_hint": "山地の湿った岩壁、石垣の割れ目、崖のしぶきのかかる所。",
+      "finding_tips": "通年、湿った岩の割れ目に束生する、2回羽状に細裂した小さな葉を探す。トキワトラノオに似るが、より湿った日陰を好む点が手がかり。"
+    },
+    "en": {
+      "summary": "Iwatoranoo (Asplenium laciniatum). A small evergreen spleenwort of damp montane rock walls and wall crevices from Honshu to Kyushu, its finely 2-pinnate fronds growing in tufts; it favours damp, shaded rock.",
+      "habitat_hint": "Damp montane rock walls, wall crevices, spray-wet cliffs.",
+      "finding_tips": "Year-round, look for the small finely 2-pinnate tufted fronds in damp rock crevices; its preference for damp shade separates it from the drier-site Asplenium sarelii."
+    },
+    "zh": {
+      "summary": "撕裂铁角蕨（イワトラノオ）。铁角蕨科常绿小型蕨，生于本州至九州山地湿润岩壁与石墙缝隙；叶二回羽状细裂、丛生，喜湿润阴处岩地。",
+      "habitat_hint": "山地湿润岩壁、石墙缝隙、水雾崖壁。",
+      "finding_tips": "全年可见，于湿润岩缝寻找二回羽状细裂的丛生小叶；较喜湿阴，可与生于干处的华中铁角蕨相区别。"
+    }
+  },
+  "Asplenium quadrivalens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maidenhair spleenwort",
+    "ja": {
+      "summary": "チャセンシダ。北海道〜九州の山地の岩壁や石垣、擁壁の割れ目に生えるチャセンシダ科の常緑性シダ。1回羽状で、黒っぽい葉軸の両側に小さな楕円形の羽片が並ぶ。石灰岩地やコンクリートにもよく出る。",
+      "habitat_hint": "山地の岩壁、石垣、コンクリート擁壁の割れ目、石灰岩地。",
+      "finding_tips": "通年、黒っぽい光沢のある葉軸の両側に、小さな楕円形の羽片が規則正しく1列に並ぶ葉を探す。石垣やコンクリートの割れ目に生える点も手がかり。"
+    },
+    "en": {
+      "summary": "Maidenhair spleenwort (Asplenium quadrivalens). An evergreen spleenwort of montane rock walls, stone walls and retaining-wall crevices from Hokkaido to Kyushu; once-pinnate, with small oval pinnae ranged along a dark, glossy rachis. It grows readily on limestone and concrete.",
+      "habitat_hint": "Montane rock walls, stone walls, concrete retaining-wall crevices, limestone.",
+      "finding_tips": "Year-round, look for the once-pinnate fronds with small oval pinnae ranged neatly along a dark glossy rachis; its habit in wall and concrete crevices is a clue."
+    },
+    "zh": {
+      "summary": "铁角蕨（チャセンシダ）。铁角蕨科常绿蕨，生于北海道至九州山地岩壁、石墙与挡墙缝隙；叶一回羽状，深色光亮叶轴两侧列生椭圆形小羽片，亦常见于石灰岩与混凝土。",
+      "habitat_hint": "山地岩壁、石墙、混凝土挡墙缝隙、石灰岩地。",
+      "finding_tips": "全年可见，寻找深色光亮叶轴两侧整齐列生椭圆形小羽片的叶；生于石墙混凝土缝隙为线索。"
+    }
+  },
+  "Pseudocyclosorus esquirolii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イブキシダ。本州(関東以西)〜九州の山地の谷沿いや湿った林縁に生えるヒメシダ科の夏緑性シダ。細長い1回羽状の葉をもち、下部の羽片が次第に小さくなって耳状になる。谷沿いの半日陰によく見られる。",
+      "habitat_hint": "山地の谷沿い、湿った林縁、沢のしぶきのかかる斜面。",
+      "finding_tips": "6〜10月、細長い1回羽状の葉で、下部の羽片が次第に小さくなる点を確認する。谷沿いのやや湿った半日陰に生える点が手がかり。"
+    },
+    "en": {
+      "summary": "Ibuki-shida (Pseudocyclosorus esquirolii). A summer-green fern of the marsh-fern family on montane valleys and damp forest edges from western Honshu to Kyushu, with long once-pinnate fronds whose lower pinnae gradually shrink to ear-like lobes; common in half-shade along valleys.",
+      "habitat_hint": "Montane valleys, damp forest edges, spray-wet streamside slopes.",
+      "finding_tips": "From June to October note the long once-pinnate fronds with lower pinnae gradually reduced; its habit in damp half-shade along valleys is a clue."
+    },
+    "zh": {
+      "summary": "西南假毛蕨（イブキシダ）。金星蕨科夏绿蕨，生于本州关东以西至九州山地谷地与湿润林缘；叶细长一回羽状，下部羽片渐缩成耳状。多见于谷地半阴处。",
+      "habitat_hint": "山地谷地、湿润林缘、溪旁水雾坡地。",
+      "finding_tips": "6至10月注意细长一回羽状叶及下部渐缩的羽片；生于谷地湿润半阴处为线索。"
+    }
+  },
+  "Athyrium monomachii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ezo lady fern",
+    "ja": {
+      "summary": "エゾメシダ。北海道〜本州中部以北の山地の湿った林床や沢沿いに生えるメシダ科の夏緑性シダ。大型で軟らかい2回羽状の葉をもち、葉柄基部に淡褐色の鱗片がつく。冷涼な地方の谷沿いに多い。",
+      "habitat_hint": "山地の湿った林床、沢沿いの斜面、冷涼地の谷。",
+      "finding_tips": "6〜10月、大型で軟らかい2回羽状の葉を探す。メシダ類は胞子嚢群の形(鉤形など)で見分ける。冷涼な地方の湿った谷に多い点が手がかり。"
+    },
+    "en": {
+      "summary": "Ezo lady fern (Athyrium monomachii). A large summer-green fern of the Athyriaceae on damp montane forest floors and streamsides from Hokkaido to northern-central Honshu, with soft twice-pinnate fronds and pale scales at the stipe base; common along valleys in cool districts.",
+      "habitat_hint": "Damp montane forest floor, streamside slopes, valleys in cool regions.",
+      "finding_tips": "From June to October look for the large, soft twice-pinnate fronds; the lady ferns are keyed by sorus shape (e.g. hooked), and its habit in cool damp valleys is a clue."
+    },
+    "zh": {
+      "summary": "蛾眉蹄盖蕨（エゾメシダ）。蹄盖蕨科夏绿蕨，生于北海道至本州中北部的山地湿润林床与溪边；植株大型，叶二回羽状、质软，叶柄基部具淡褐色鳞片。多见于冷凉地区谷地。",
+      "habitat_hint": "山地湿润林床、溪旁坡地、冷凉地谷地。",
+      "finding_tips": "6至10月寻找大型质软的二回羽状叶；蹄盖蕨类以孢子囊群形状（如钩形）区分，多生冷凉湿润谷地。"
+    }
+  },
+  "Diplazium mettenianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Metten's twinsorus fern",
+    "ja": {
+      "summary": "ミヤマノコギリシダ。本州(関東以西)〜九州の暖地の湿った林床や沢沿いに生えるメシダ科の常緑性シダ。1回羽状で羽片の縁が鋸歯状になり、ノコギリシダに似るが羽片がより幅広く数が少ない。",
+      "habitat_hint": "暖地の常緑樹林・スギ林の湿った林床、沢沿いの斜面。",
+      "finding_tips": "通年、1回羽状で羽片の縁が鋸歯状の葉を探す。ノコギリシダより羽片が幅広く数が少ない点が手がかり。葉裏の細長い胞子嚢群も確認する。"
+    },
+    "en": {
+      "summary": "Metten's twinsorus fern (Diplazium mettenianum). An evergreen fern of the Athyriaceae on damp warm-temperate forest floors and streamsides from western Honshu to Kyushu; once-pinnate with saw-toothed pinna margins, it resembles Diplazium wichurae but has broader, fewer pinnae.",
+      "habitat_hint": "Damp floor of warm-temperate evergreen and cedar forest, streamside slopes.",
+      "finding_tips": "Year-round, look for once-pinnate fronds with saw-toothed pinna margins; the broader, fewer pinnae separate it from Diplazium wichurae, and the elongate sori beneath confirm it."
+    },
+    "zh": {
+      "summary": "深山短肠蕨（ミヤマノコギリシダ）。蹄盖蕨科常绿蕨，生于本州关东以西至九州暖地湿润林床与溪边；叶一回羽状、羽片边缘锯齿状，似耳羽短肠蕨而羽片更宽、数更少。",
+      "habitat_hint": "暖地常绿林、杉林湿润林床、溪旁坡地。",
+      "finding_tips": "全年可见，寻找一回羽状、羽片边缘锯齿状的叶；羽片较宽而少，可与耳羽短肠蕨相区别，叶背长形孢子囊群可佐证。"
+    }
+  },
+  "Carex omiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frog sedge",
+    "ja": {
+      "summary": "カワズスゲ。北海道〜九州の山地の湿地や湿った草地、池畔に生えるカヤツリグサ科スゲ属の多年草。細い葉を束生し、茎の先に淡褐色の小穂を数個まとめてつける。湿地に群生することが多い。",
+      "habitat_hint": "山地の湿地、湿った草地、池畔、湿原の縁。",
+      "finding_tips": "5〜7月、細い葉の束と、茎の先に集まる淡褐色の小穂を探す。スゲ属は果胞の形と嘴で種を見分ける。湿地に群生する点も手がかり。"
+    },
+    "en": {
+      "summary": "Frog sedge (Carex omiana). A sedge of montane marshes, damp grassland and pond margins from Hokkaido to Kyushu, forming tufts of narrow leaves with several pale-brown spikelets gathered at the stem tip; it often grows in colonies in wet ground.",
+      "habitat_hint": "Montane marshes, damp grassland, pond margins, bog edges.",
+      "finding_tips": "From May to July look for the tufts of narrow leaves and the pale-brown spikelets gathered at the stem tip; sedges are keyed by perigynium shape and beak, and its colonies in wet ground are a clue."
+    },
+    "zh": {
+      "summary": "近江薹草（カワズスゲ）。莎草科薹草属多年生草本，生于北海道至九州山地湿地、湿润草地与池畔；细叶丛生，茎顶聚生数枚淡褐色小穗，常于湿地成丛。",
+      "habitat_hint": "山地湿地、湿润草地、池畔、沼泽边缘。",
+      "finding_tips": "5至7月寻找细叶丛与茎顶聚生的淡褐色小穗；薹草属以果囊形状与喙区分，湿地成丛亦为线索。"
+    }
+  },
+  "Dysphania pumilio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ゴウシュウアリタソウ。オーストラリア原産で道端や河原、荒れ地、線路際に帰化したヒユ科(旧アカザ科)の一年草。地を這うように広がり、全体に強い香りがある。葉腋に緑色の小さな花を密につけ、腺毛におおわれてべたつく。",
+      "habitat_hint": "道端、河原、線路際、埋め立て地、荒れ地の日当たりのよい所。",
+      "finding_tips": "7〜10月、地を這う茎と、葉腋に密につく緑色の小花を探す。全体に腺毛でべたつき、揉むと強い独特の香りがする点が手がかり。"
+    },
+    "en": {
+      "summary": "Clammy goosefoot (Dysphania pumilio). An Australian annual of the amaranth family (formerly goosefoot family) naturalised on roadsides, riverbeds, waste ground and railway margins; it spreads prostrate, is strongly scented, and bears dense clusters of small green flowers in the leaf axils, sticky with glandular hairs.",
+      "habitat_hint": "Roadsides, riverbeds, railway margins, reclaimed land, waste ground in the sun.",
+      "finding_tips": "From July to October look for the prostrate stems and the dense green flower clusters in the leaf axils; the glandular stickiness and strong scent when crushed are clues."
+    },
+    "zh": {
+      "summary": "铺地藜（ゴウシュウアリタソウ）。苋科（旧藜科）一年生草本，原产澳大利亚，归化于路旁、河滩、荒地与铁路边；平铺蔓生、全株强香，叶腋密生绿色小花，被腺毛而发黏。",
+      "habitat_hint": "路旁、河滩、铁路边、填土地、荒地向阳处。",
+      "finding_tips": "7至10月寻找平铺茎与叶腋密生的绿色小花；全株腺毛发黏、揉之有浓特香为线索。"
+    }
   }
 }
