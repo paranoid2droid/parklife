@@ -209563,5 +209563,278 @@
       "habitat_hint": "山地林缘、林床、坡地、多雪地一片竹原。",
       "finding_tips": "全年可见，注意于赤竹类中特大而宽之叶；细秆成丛覆盖林床坡地为线索，以叶大小与小型赤竹相区别。"
     }
+  },
+  "Cladonia rangiferina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "石蕊"
+    },
+    "ja": {
+      "summary": "ハナゴケ。日当たりのよい痩せた地面や岩の上、砂地に生える灰白色の地衣類。細かく枝分かれした細い枝が集まって、こんもりとした低いクッション状の群落をつくる。菌類と藻類の共生体で、寒冷地や高山、貧栄養の裸地に多い。トナカイの食料としても知られる。",
+      "habitat_hint": "日当たりのよい痩せた地面、岩の上、砂地、高山や寒冷地の裸地。",
+      "finding_tips": "通年、灰白色で細かく枝分かれした枝が集まる、こんもりした低いクッション状の群落を探す。乾くともろく、湿るとやや柔らかくなる。貧栄養で日当たりのよい裸地に多い。"
+    },
+    "en": {
+      "summary": "Reindeer lichen (Cladonia rangiferina). A greyish-white lichen of sunny poor ground, rocks and sand; its finely branched slender stems cluster into low, mounded cushion-like colonies. A symbiosis of fungus and alga, it is common in cold and alpine regions and on nutrient-poor bare ground, and is known as reindeer forage.",
+      "habitat_hint": "Sunny poor ground, rocks, sand, bare ground in cold and alpine regions.",
+      "finding_tips": "Year-round, look for the low, mounded cushion-like colonies of greyish-white, finely branched stems; brittle when dry and softer when moist, it favours nutrient-poor sunny bare ground."
+    },
+    "zh": {
+      "summary": "石蕊（ハナゴケ）。灰白色地衣，生于向阳瘠地、岩上与沙地；细枝多回分叉聚成低矮隆起的垫状群落。为真菌与藻类共生体，多见于寒冷、高山地区与贫营养裸地，亦为驯鹿之食。",
+      "habitat_hint": "向阳瘠地、岩上、沙地、寒冷与高山地区裸地。",
+      "finding_tips": "全年可见，寻找灰白色、细枝多分叉聚成的低矮垫状群落；干时脆、湿时略软，多生贫营养向阳裸地。"
+    }
+  },
+  "Chlaenius costiger": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "スジアオゴミムシ。体長2cmほどのオサムシ科(ゴミムシの仲間)の甲虫。上翅は金属光沢のある緑色〜青緑色で縦の筋があり、前胸や脚は赤褐色。水辺や湿った草地、河原の石の下などにすみ、夜に地表を歩き回って小さな虫を捕らえる肉食性。",
+      "habitat_hint": "水辺、湿った草地、河原、田の畦の石や落ち葉の下。",
+      "finding_tips": "春〜秋、水辺や湿地の石・落ち葉をめくって、金属光沢の緑色で縦筋のある上翅と赤褐色の脚をもつ甲虫を探す。夜行性で、日中は物陰にひそむ。刺激すると臭いを出すことがある。"
+    },
+    "en": {
+      "summary": "Ground beetle (Chlaenius costiger). A carabid beetle about 2 cm long; its elytra are metallic green to blue-green with lengthwise striae, and the pronotum and legs are reddish-brown. It lives at watersides, in damp grassland and under stones on riverbeds, walking the ground at night to hunt small insects as a predator.",
+      "habitat_hint": "Watersides, damp grassland, riverbeds, under stones and litter on paddy bunds.",
+      "finding_tips": "From spring to autumn turn stones and litter at watersides and wet ground to find the beetle with metallic green striate elytra and reddish-brown legs; nocturnal, it hides by day and may emit a smell when disturbed."
+    },
+    "zh": {
+      "summary": "脊青步甲（スジアオゴミムシ）。体长约2厘米的步甲科甲虫。鞘翅具金属光泽的绿至蓝绿色、有纵条纹，前胸与足红褐色。栖于水边、湿润草地与河滩石下，夜间于地表捕食小虫，为肉食性。",
+      "habitat_hint": "水边、湿润草地、河滩、田埂石下与落叶下。",
+      "finding_tips": "春至秋翻动水边湿地的石块与落叶，寻找鞘翅金属绿具纵纹、足红褐的甲虫；夜行性，昼伏于阴处，受扰或放异味。"
+    }
+  },
+  "Tiarella polyphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian foamflower",
+    "aliases": {
+      "zh-Hans": "黄水枝"
+    },
+    "ja": {
+      "summary": "ズダヤクシュ。北海道〜本州中部以北の山地の湿った林床や沢沿いに生えるユキノシタ科の多年草。心形の葉を根際につけ、初夏、細い花茎の上部に白い小さな花を穂状にまばらに咲かせる。「ズダ(喘息)の薬」として民間で使われたことが名の由来。",
+      "habitat_hint": "山地の湿った林床、沢沿いの半日陰、湧水地のふち。",
+      "finding_tips": "5〜7月、心形の根生葉と、細い花茎に穂状につく白い小さな花を探す。花は小さく地味だが、湿った林床に群生する点が手がかり。信州で喘息の薬とされた歴史をもつ。"
+    },
+    "en": {
+      "summary": "Asian foamflower (Tiarella polyphylla). A perennial of the saxifrage family on damp montane forest floors and streamsides from Hokkaido to northern-central Honshu; heart-shaped basal leaves and, in early summer, small white flowers sparsely set in a spike on a slender stalk. Its name refers to its folk use as an asthma remedy.",
+      "habitat_hint": "Damp montane forest floor, half-shaded streamsides, spring margins.",
+      "finding_tips": "From May to July look for the heart-shaped basal leaves and the small white flowers in a slender spike; the flowers are small and plain, but its stands on damp forest floor are a clue."
+    },
+    "zh": {
+      "summary": "黄水枝（ズダヤクシュ）。虎耳草科多年生草本，生于北海道至本州中北部的山地湿润林床与溪边；心形基生叶，初夏于细花葶上部穗状疏生白色小花。因民间用作哮喘之药而得和名。",
+      "habitat_hint": "山地湿润林床、溪旁半阴处、泉边。",
+      "finding_tips": "5至7月寻找心形基生叶与细葶上穗状的白色小花；花小而朴素，成丛于湿润林床为线索。"
+    }
+  },
+  "Urtica platyphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broad-leaved nettle",
+    "aliases": {
+      "zh-Hans": "宽叶荨麻"
+    },
+    "ja": {
+      "summary": "エゾイラクサ。北海道〜本州中部以北の山地の湿った林縁や谷沿い、道端に生えるイラクサ科の多年草。茎や葉に刺毛(ぎ酸を含む)があり、触れると痛む。大きな対生葉をもち、夏に葉腋から細い花序を垂らす。若芽は加熱して山菜にされる。",
+      "habitat_hint": "山地の湿った林縁、谷沿い、道端、河畔のやや湿った所。",
+      "finding_tips": "夏〜秋、大きな対生葉と、茎や葉につく刺毛を確認する。素手で触れると刺されて痛むので注意。葉腋から垂れる細い花序も手がかり。冷涼な地方の湿った所に多い。"
+    },
+    "en": {
+      "summary": "Broad-leaved nettle (Urtica platyphylla). A perennial of the nettle family on damp montane forest edges, valleys and roadsides from Hokkaido to northern-central Honshu; its stems and leaves bear stinging hairs (containing formic acid) that hurt on contact. With large opposite leaves, in summer it hangs slender flower clusters from the axils. The young shoots are cooked as a wild vegetable.",
+      "habitat_hint": "Damp montane forest edges, valleys, roadsides, damp riversides.",
+      "finding_tips": "From summer to autumn note the large opposite leaves and the stinging hairs on stems and leaves; it hurts if touched bare-handed, so take care. The slender axillary flower clusters are a clue, and it is common in damp cool districts."
+    },
+    "zh": {
+      "summary": "宽叶荨麻（エゾイラクサ）。荨麻科多年生草本，生于北海道至本州中北部的山地湿润林缘、谷地与路旁；茎叶具螫毛（含蚁酸），触之刺痛。叶大对生，夏自叶腋垂细花序，嫩芽煮食作山菜。",
+      "habitat_hint": "山地湿润林缘、谷地、路旁、河畔湿润处。",
+      "finding_tips": "夏至秋注意大对生叶与茎叶螫毛；徒手触之刺痛，宜慎。叶腋下垂的细花序为线索，多见于冷凉湿处。"
+    }
+  },
+  "Silene latifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マツヨイセンノウ(ヒロハノマンテマ)。ヨーロッパ原産で河原や道端、荒れ地に帰化したナデシコ科の一〜多年草。夕方から夜に白い5弁の花を開き、甘い香りで蛾を呼ぶ。萼が袋状にふくらむ。雌雄異株で、名は「宵を待つ」花の性質に由来する。",
+      "habitat_hint": "河原、道端、荒れ地、空き地、埋め立て地の日当たりのよい所。",
+      "finding_tips": "5〜9月、夕方〜夜に開く白い5弁花(昼はしぼみ気味)と、袋状にふくらむ萼を探す。花弁の先が2裂し、夜に甘く香る点が手がかり。雌雄異株。"
+    },
+    "en": {
+      "summary": "White campion (Silene latifolia). A European annual to perennial of the pink family naturalised on riverbeds, roadsides and waste ground; it opens white five-petalled flowers from evening into the night, drawing moths with a sweet scent, and its calyx swells into a bladder. Dioecious, the Japanese name refers to the flower 'awaiting the evening'.",
+      "habitat_hint": "Riverbeds, roadsides, waste ground, vacant lots, reclaimed land in the sun.",
+      "finding_tips": "From May to September look for the white five-petalled flowers opening in the evening to night (partly closed by day) and the bladder-like swollen calyx; the two-cleft petal tips and sweet night scent are clues. It is dioecious."
+    },
+    "zh": {
+      "summary": "白花蝇子草（マツヨイセンノウ）。石竹科一至多年生草本，原产欧洲，归化于河滩、路旁与荒地；黄昏至夜开白色5瓣花，以甜香引蛾，萼膨大成囊。雌雄异株，和名指其「待夜」开花之性。",
+      "habitat_hint": "河滩、路旁、荒地、空地、填土地向阳处。",
+      "finding_tips": "5至9月寻找黄昏至夜开放（昼略闭）的白色5瓣花与膨大成囊之萼；花瓣先端二裂、夜有甜香为线索，雌雄异株。"
+    }
+  },
+  "Linaria vulgaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバウンラン。ヨーロッパ〜アジア原産で観賞用から逃げ出し、道端や河原、荒れ地に帰化したオオバコ科(旧ゴマノハグサ科)の多年草。細い線形の葉を密につけ、夏〜秋に黄色い金魚草に似た距のある唇形花を穂状に咲かせる。地下茎で群生する。",
+      "habitat_hint": "道端、河原、荒れ地、線路際、空き地の日当たりのよい所。",
+      "finding_tips": "6〜10月、黄色い金魚草に似た距のある唇形花の穂と、細い線形の葉を探す。花の下唇にオレンジ色の盛り上がりがある点、地下茎で群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Common toadflax (Linaria vulgaris). A European–Asian perennial of the plantain family (formerly figwort family), escaped from cultivation and naturalised on roadsides, riverbeds and waste ground; it densely bears narrow linear leaves and, in summer to autumn, spikes of yellow snapdragon-like spurred two-lipped flowers. It spreads by rhizomes into stands.",
+      "habitat_hint": "Roadsides, riverbeds, waste ground, railway margins, vacant lots in the sun.",
+      "finding_tips": "From June to October look for the spikes of yellow snapdragon-like spurred flowers and the narrow linear leaves; the orange bulge on the lower lip and its rhizomatous stands are clues."
+    },
+    "zh": {
+      "summary": "柳穿鱼（ホソバウンラン）。车前科（旧玄参科）多年生草本，原产欧亚，自观赏逸生于路旁、河滩与荒地；密生狭线形叶，夏秋穗状开黄色似金鱼草、具距的唇形花，以根状茎成丛。",
+      "habitat_hint": "路旁、河滩、荒地、铁路边、空地向阳处。",
+      "finding_tips": "6至10月寻找黄色似金鱼草的距生唇形花穗与狭线形叶；下唇具橙色隆起、以根状茎成丛为线索。"
+    }
+  },
+  "Ranunculus repens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Creeping buttercup",
+    "aliases": {
+      "zh-Hans": "匍枝毛茛"
+    },
+    "ja": {
+      "summary": "ハイキンポウゲ。ヨーロッパ原産で湿った道端や河原、芝地、水辺に帰化したキンポウゲ科の多年草。地表を這う長い走出枝(ランナー)を出して広がる。春〜夏に光沢のある黄色い5弁の花を咲かせる。3出状に分かれた葉に白い斑が入ることが多い。",
+      "habitat_hint": "湿った道端、河原、芝地、水辺、庭のやや湿った所。",
+      "finding_tips": "4〜7月、地表を這う走出枝と、光沢のある黄色い5弁花を探す。走出枝で広がる点、葉にしばしば白い斑がある点が手がかり。湿った所に群生する。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Creeping buttercup (Ranunculus repens). A European perennial of the buttercup family naturalised on damp roadsides, riverbeds, turf and watersides; it spreads by long surface runners (stolons) and opens glossy yellow five-petalled flowers in spring to summer, its ternate leaves often marked with pale blotches.",
+      "habitat_hint": "Damp roadsides, riverbeds, turf, watersides, damp gardens.",
+      "finding_tips": "From April to July look for the surface-creeping runners and the glossy yellow five-petalled flowers; the spread by runners and the often pale-blotched leaves are clues. It forms stands in damp ground and is toxic if eaten."
+    },
+    "zh": {
+      "summary": "匍枝毛茛（ハイキンポウゲ）。毛茛科多年生草本，原产欧洲，归化于湿润路旁、河滩、草坪与水边；以地表长匍匐枝蔓延，春夏开有光泽的黄色5瓣花，三出状叶常具白斑。",
+      "habitat_hint": "湿润路旁、河滩、草坪、水边、庭园湿处。",
+      "finding_tips": "4至7月寻找地表匍匐枝与有光泽的黄色5瓣花；以匍匐枝蔓延、叶常具白斑为线索，成丛于湿处。有毒，勿食。"
+    }
+  },
+  "Ajuga yesoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yezo bugleweed",
+    "ja": {
+      "summary": "ニシキゴロモ。北海道〜本州の山地の落葉樹林の林床や林縁に生えるシソ科の多年草。地際に低くつく葉は、表面の脈が紫色を帯びて美しく、名(錦衣)の由来となった。春に淡紫色〜白の唇形花を穂状に咲かせる。四角い茎と対生葉のシソ科植物。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った半日陰。",
+      "finding_tips": "4〜5月、地際に低くつく葉(脈が紫色を帯びる)と、淡紫〜白の唇形花を探す。葉の紫色の脈が名の由来で識別の手がかり。四角い茎と対生葉も確認する。"
+    },
+    "en": {
+      "summary": "Yezo bugleweed (Ajuga yesoensis). A perennial mint of montane deciduous forest floors and edges from Hokkaido to Honshu; its low ground-hugging leaves have beautifully purple-tinged veins, giving the Japanese name ('brocade robe'). In spring it bears pale purple to white two-lipped flowers in spikes. Square stem and opposite leaves mark the mint family.",
+      "habitat_hint": "Montane deciduous forest floor, edges, damp half-shade.",
+      "finding_tips": "In April–May look for the low ground-hugging leaves with purple-tinged veins and the pale purple to white two-lipped flowers; the purple leaf veins are the naming feature and clue. Note the square stem and opposite leaves."
+    },
+    "zh": {
+      "summary": "锦衣筋骨草（ニシキゴロモ）。唇形科多年生草本，生于北海道至本州山地落叶林床与林缘；贴地之叶脉带紫而美，为和名「锦衣」之由。春于穗状生淡紫至白色唇形花。方茎对生叶，具唇形科特征。",
+      "habitat_hint": "山地落叶林床、林缘、湿润半阴处。",
+      "finding_tips": "4至5月寻找贴地、脉带紫之叶与淡紫至白色唇形花；叶紫脉为得名之由与线索，注意方茎对生叶。"
+    }
+  },
+  "Streptopus streptopoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タケシマラン。北海道〜本州中部以北の亜高山の針葉樹林や湿った林床に生えるユリ科の多年草。細い茎に、葉が2列に互生する。初夏、葉の下に隠れるように淡紅色の小さな花を1つずつ下向きに咲かせ、夏に赤い液果をつける。冷涼な高地に多い。",
+      "habitat_hint": "亜高山の針葉樹林、湿った林床、沢沿いの半日陰。",
+      "finding_tips": "6〜7月、細い茎に2列に並ぶ葉の下に隠れて下向きに咲く淡紅色の小さな花を探す。花や実が葉の下に隠れる点、夏の赤い液果が手がかり。亜高山の針葉樹林に多い。"
+    },
+    "en": {
+      "summary": "Small twistedstalk (Streptopus streptopoides). A perennial lily of subalpine conifer forests and damp forest floors from Hokkaido to northern-central Honshu; slender stems bear leaves alternating in two ranks. In early summer it hangs a single small pale pink flower under each leaf, followed by red berries in summer. Common in cool high country.",
+      "habitat_hint": "Subalpine conifer forest, damp forest floor, half-shaded streamsides.",
+      "finding_tips": "In June–July look for the small pale pink flowers hanging singly and hidden under the two-ranked leaves; the flowers and fruit tucked under the leaves and the red summer berries are clues. It is common in subalpine conifer forest."
+    },
+    "zh": {
+      "summary": "小扭柄花（タケシマラン）。百合科多年生草本，生于北海道至本州中北部的亚高山针叶林与湿润林床；细茎上叶二列互生。初夏于叶下隐生单朵下垂的淡红小花，夏结红色浆果。多见于冷凉高地。",
+      "habitat_hint": "亚高山针叶林、湿润林床、溪旁半阴处。",
+      "finding_tips": "6至7月寻找隐于二列叶下、单生下垂的淡红小花；花果藏于叶下、夏季红浆果为线索，多生亚高山针叶林。"
+    }
+  },
+  "Marasmius siccus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハリガネオチバタケ。夏〜秋、広葉樹林の落ち葉の上に発生するホウライタケ科の小さなキノコ。傘は径1cm前後で橙色〜赤褐色、放射状のひだのような溝がある。柄は黒く細く、針金のように硬い。落ち葉を分解する菌で、群がって発生する。",
+      "habitat_hint": "広葉樹林の落ち葉の上、雑木林の林床。",
+      "finding_tips": "6〜10月、落ち葉の上に、橙色で放射状の溝がある径1cmほどの小さな傘と、黒く細い針金状の柄をもつキノコを探す。柄が硬く針金状な点が名の由来で識別しやすい。"
+    },
+    "en": {
+      "summary": "Orange pinwheel (Marasmius siccus). A small fungus of the Marasmiaceae appearing on broadleaf leaf litter in summer to autumn; the cap is about 1 cm across, orange to reddish-brown, with radial pleat-like grooves, and the stem is black, slender and wiry-hard. A leaf-litter decomposer, it appears in swarms.",
+      "habitat_hint": "On broadleaf leaf litter, floor of mixed woodland.",
+      "finding_tips": "From June to October look on leaf litter for the small orange, radially grooved cap about 1 cm across and the black slender wiry stem; the wire-like stem is the naming feature and makes it easy to recognise."
+    },
+    "zh": {
+      "summary": "干小皮伞（ハリガネオチバタケ）。小皮伞科小型蕈类，夏秋生于阔叶林落叶上；菌盖径约1厘米、橙至红褐色、具放射状褶纹，柄黑细而硬如铁丝。为落叶分解菌，常成群发生。",
+      "habitat_hint": "阔叶林落叶上、杂木林林床。",
+      "finding_tips": "6至10月于落叶上寻找橙色、具放射沟纹、径约1厘米的小盖与黑细铁丝状之柄；柄硬如铁丝为得名之由，易辨。"
+    }
+  },
+  "Panus neostrigosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy Panus",
+    "aliases": {
+      "zh-Hans": "野生革耳"
+    },
+    "ja": {
+      "summary": "アラゲカワキタケ。広葉樹の枯れ木や倒木、切り株に発生するタマチョレイタケ科の革質のキノコ。傘は径3〜8cmで淡紫褐色〜肌色、表面が粗い毛におおわれる。裏のひだは細かく密で、柄はやや偏ってつく。乾くと硬くなり、食用には向かない。",
+      "habitat_hint": "広葉樹の枯れ木、倒木、切り株、伐採木の上、雑木林。",
+      "finding_tips": "初夏〜秋、広葉樹の枯れ木につく、表面が粗い毛におおわれた淡紫褐色〜肌色の傘を探す。裏の細かいひだと、革質でやや硬い点が手がかり。若い時は紫色みが強い。"
+    },
+    "en": {
+      "summary": "Hairy Panus (Panus neostrigosus). A leathery fungus of the Polyporaceae on dead broadleaf wood, logs and stumps; the cap is 3–8 cm across, pale purplish-brown to buff, its surface covered with coarse hairs, the underside with fine crowded gills and a somewhat off-centre stem. It hardens when dry and is not suitable for eating.",
+      "habitat_hint": "On dead broadleaf wood, logs, stumps and cut timber in mixed woodland.",
+      "finding_tips": "From early summer to autumn look on dead broadleaf wood for the coarsely hairy pale purplish-brown to buff cap; the fine crowded gills beneath and the leathery, rather tough texture are clues, and young caps are strongly purplish."
+    },
+    "zh": {
+      "summary": "野生革耳（アラゲカワキタケ）。多孔菌科革质蕈类，生于阔叶树枯木、倒木与树桩；菌盖径3至8厘米、淡紫褐至肉色，表面被粗毛，背面菌褶细密、柄略偏生。干后变硬，不宜食用。",
+      "habitat_hint": "阔叶树枯木、倒木、树桩、伐木之上，杂木林。",
+      "finding_tips": "初夏至秋于阔叶枯木寻找表面被粗毛的淡紫褐至肉色菌盖；背面细密菌褶与革质稍硬为线索，幼时紫色较浓。"
+    }
+  },
+  "Phlebiopsis crassa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カミウロコタケ。広葉樹の枯れ木や倒木、落枝の下面に張りつくように広がる背着生の革質のキノコ。傘をつくらず、樹皮の表面に白色〜淡黄褐色の膜状〜革質の子実層を平らに広げる。木材を分解する菌で、はがすと紙のようにめくれる。",
+      "habitat_hint": "広葉樹の枯れ木、倒木、落枝の下面、樹皮の表面、雑木林。",
+      "finding_tips": "通年、広葉樹の枯れ枝や倒木の下面に、白〜淡黄褐色で膜状〜革質に平らに広がる子実層を探す。傘をつくらず樹皮に張りつく背着生である点が手がかり。表面はやや粒状〜しわ状。"
+    },
+    "en": {
+      "summary": "Phlebiopsis crassa. A resupinate leathery fungus that spreads flat, clinging to the underside of dead broadleaf wood, logs and fallen branches; it forms no cap, laying a white to pale yellow-brown membranous-to-leathery spore surface over the bark. A wood-decomposer, it peels away like paper.",
+      "habitat_hint": "Undersides of dead broadleaf wood, logs and fallen branches, bark surfaces, mixed woodland.",
+      "finding_tips": "Year-round, look on the underside of dead broadleaf branches and logs for the white to pale yellow-brown membranous-to-leathery spore surface spread flat; the capless, bark-hugging resupinate habit is the clue, and the surface is somewhat granular to wrinkled."
+    },
+    "zh": {
+      "summary": "厚拟射脉菌（カミウロコタケ）。革质平伏（背着生）蕈类，紧贴铺展于阔叶树枯木、倒木与落枝下面；不生菌盖，于树皮表面平铺白至淡黄褐色的膜质至革质子实层。为木材分解菌，可如纸剥离。",
+      "habitat_hint": "阔叶树枯木、倒木、落枝下面，树皮表面，杂木林。",
+      "finding_tips": "全年可见，于阔叶枯枝倒木下面寻找白至淡黄褐色、膜质至革质平铺的子实层；不生盖而贴树皮平伏为线索，表面略粒状至皱。"
+    }
   }
 }
