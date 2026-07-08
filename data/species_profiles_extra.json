@@ -214392,5 +214392,410 @@
       "habitat_hint": "向阳湿地、湿润草甸、休耕田、湿原周缘。",
       "finding_tips": "9 至 10 月于湿地寻找狭长叶及疏生的黄色似蒲公英头状花序。"
     }
+  },
+  "Euphorbia ophthalmica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニセシマニシキソウ。熱帯アメリカ原産のトウダイグサ科ニシキソウ属の一年草で、道端や畑、造成地に帰化する。地表を這うように広がり、対生する小さな葉と、目立たない小さな杯状の花序をつける。茎を切ると白い乳液が出る。",
+      "habitat_hint": "道端、畑、造成地、埋め立て地の日当たりのよい場所。",
+      "finding_tips": "8〜10月、地表を這う茎と対生する小さな葉を探します。茎を切ると白い乳液が出る点が手がかり。"
+    },
+    "en": {
+      "summary": "Florida hammock sandmat (Euphorbia ophthalmica). A tropical-American annual (Euphorbiaceae) naturalised on roadsides, fields and made ground; it creeps over the ground with small opposite leaves and inconspicuous cup-shaped inflorescences, exuding white latex when cut.",
+      "habitat_hint": "Roadsides, fields, made and reclaimed ground in sunny places.",
+      "finding_tips": "In August–October look for the ground-creeping stems and small opposite leaves; the white latex from a cut stem is the clue."
+    },
+    "zh": {
+      "summary": "ニセシマニシキソウ。原产热带美洲的大戟科大戟属一年生草本，归化于路旁、田地与造地，匍匐地面，对生小叶、杯状花序不显，折茎流白色乳液。",
+      "habitat_hint": "路旁、田地、造地、填筑地向阳处。",
+      "finding_tips": "8 至 10 月寻找匍匐地面的茎与对生小叶；折茎流白色乳液为线索。"
+    }
+  },
+  "Chenia leptophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガバヒョウタンゴケ。センボンゴケ科の小さな蘚類で、道端や畑、造成地、土の裸地に群生する。都市の人為的な環境にもよく現れる小型のコケ。",
+      "habitat_hint": "道端、畑、造成地、土の裸地、コンクリート際。",
+      "finding_tips": "一年中見られます。土の裸地や道端に広がる小さな緑の群落をルーペで確認します。"
+    },
+    "en": {
+      "summary": "Vectis moss (Chenia leptophylla). A small moss (Pottiaceae) forming turfs on roadsides, fields, made ground and bare soil; it readily appears in disturbed urban habitats.",
+      "habitat_hint": "Roadsides, fields, made ground, bare soil, concrete edges.",
+      "finding_tips": "Present year-round; use a lens to check the small green turfs on bare soil and roadsides."
+    },
+    "zh": {
+      "summary": "ナガバヒョウタンゴケ。丛藓科小型藓类，成丛生于路旁、田地、造地及裸土，常见于城市扰动生境。",
+      "habitat_hint": "路旁、田地、造地、裸土、混凝土边缘。",
+      "finding_tips": "全年可见；用放大镜观察裸土与路旁的小型绿色群落。"
+    }
+  },
+  "Hydrillodes morosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Litter moth",
+    "ja": {
+      "summary": "ヒロオビウスグロアツバ。ヤガ科アツバ亜科の小型の蛾で、林縁や雑木林、人家周辺に生息する。前翅は暗褐色で、幅の広い帯状の模様が入る。夜行性で灯火に集まる。幼虫は落葉などを食べる。",
+      "habitat_hint": "林縁、雑木林、社寺林、人家周辺、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる暗褐色で幅広い帯のある小型の蛾を探します。"
+    },
+    "en": {
+      "summary": "A small litter moth (Erebidae, Herminiinae) of woodland edges, secondary woodland and around houses; the forewing is dark brown with a broad band. Nocturnal, it comes to lights, and the larvae feed on leaf litter.",
+      "habitat_hint": "Woodland edges, secondary and shrine woodland, around houses, near lights.",
+      "finding_tips": "From May to September look at night lights for the small dark-brown moth with a broad band on the forewing."
+    },
+    "zh": {
+      "summary": "ヒロオビウスグロアツバ。夜蛾科futa亚科小型蛾类，栖于林缘、杂木林及住家周边，前翅暗褐色具宽带纹，夜行性、趋光，幼虫取食落叶。",
+      "habitat_hint": "林缘、杂木林、社寺林、住家周边、灯火周围。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找暗褐色、前翅具宽带的小型蛾。"
+    }
+  },
+  "Melampyrum laxum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマママコナ。ハマウツボ科の一年草で、山地の明るい林縁や尾根、やや乾いた林床に生える半寄生植物。他の植物の根に寄生しつつ光合成もする。夏〜秋、紅紫色の唇形の花を咲かせ、下唇に白い斑がある。",
+      "habitat_hint": "山地の明るい林縁、尾根、やや乾いた林床、アカマツ林など。",
+      "finding_tips": "8〜9月、紅紫色の唇形の花と、下唇の白い斑（米粒のよう）を探します。ママコナの名の由来。"
+    },
+    "en": {
+      "summary": "A hemiparasitic annual (Orobanchaceae) of bright montane woodland edges, ridges and drier woodland floor; it parasitises other plants' roots while also photosynthesising, and in late summer to autumn bears rose-purple two-lipped flowers with white spots (like rice grains) on the lower lip.",
+      "habitat_hint": "Bright montane woodland edges, ridges, drier woodland floor, red-pine woods.",
+      "finding_tips": "In August–September look for the rose-purple two-lipped flowers with the white rice-grain-like spots on the lower lip."
+    },
+    "zh": {
+      "summary": "ミヤマママコナ。列当科一年生半寄生草本，生于山地明亮林缘、山脊及较干林床，寄生他植物根部兼行光合，夏末至秋开红紫色唇形花，下唇具白斑（似米粒）。",
+      "habitat_hint": "山地明亮林缘、山脊、较干林床、赤松林。",
+      "finding_tips": "8 至 9 月寻找红紫色唇形花及下唇白色似米粒的斑。"
+    }
+  },
+  "Mentha piperita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コショウハッカ（ペパーミント）。シソ科ハッカ属の多年草で、ミドリハッカとウォーターミントの雑種。ハーブとして広く栽培され、湿った道端や水辺に野生化する。強い清涼な香り（メントール）としわのある葉、穂状につく淡紫色の小花が特徴。",
+      "habitat_hint": "湿った道端、水辺、庭の周辺、休耕地。",
+      "finding_tips": "7〜9月、葉をもむと強い清涼な香りがする点と、穂状の淡紫色の小花を探します。ミドリハッカより香りが強い。"
+    },
+    "en": {
+      "summary": "Peppermint (Mentha × piperita). A perennial hybrid (Lamiaceae) of spearmint and water mint, widely grown as a herb and naturalised on damp roadsides and watersides; recognised by its strong cool menthol scent, wrinkled leaves and spikes of pale-purple flowers.",
+      "habitat_hint": "Damp roadsides, watersides, garden surrounds, fallow ground.",
+      "finding_tips": "In July–September crush a leaf for the strong cool menthol scent and look for the spikes of pale-purple flowers; more pungent than spearmint."
+    },
+    "zh": {
+      "summary": "コショウハッカ（胡椒薄荷／辣薄荷，Mentha × piperita）。唇形科薄荷属多年生杂交种（留兰香与水薄荷之杂交），广作香草栽培，野化于湿润路旁与水边，气味强烈清凉（薄荷脑）、叶面皱、穗状淡紫色小花。",
+      "habitat_hint": "湿润路旁、水边、庭园周边、休耕地。",
+      "finding_tips": "7 至 9 月揉叶闻强烈清凉薄荷香，并寻找穗状淡紫色小花；较留兰香更辛凉。"
+    }
+  },
+  "Metzgeria conjugata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾフタマタゴケ。フタマタゴケ科の葉状体（葉と茎の区別がない）の苔類で、湿った岩や樹幹、渓流沿いの日陰に生える。細く二又に分かれるリボン状の葉状体が特徴。",
+      "habitat_hint": "湿った岩、樹幹、渓流沿いの日陰、滝のそば。",
+      "finding_tips": "一年中見られます。細く二又に分かれるリボン状の淡緑の葉状体を、湿った岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort (Metzgeriaceae) of damp rock, tree trunks and shaded streamsides; distinctively, the pale-green thallus is a narrow, ribbon-like strap that forks repeatedly.",
+      "habitat_hint": "Damp rock, tree trunks, shaded streamsides, near waterfalls.",
+      "finding_tips": "Present year-round; use a lens on damp rock to check the narrow, ribbon-like pale-green thallus that forks in two."
+    },
+    "zh": {
+      "summary": "エゾフタマタゴケ。叉苔科叶状体苔类，生于湿岩、树干及溪流荫处，叶状体狭如带、反复二叉分枝为其特征。",
+      "habitat_hint": "湿岩、树干、溪流荫处、瀑布近旁。",
+      "finding_tips": "全年可见；用放大镜在湿岩上观察狭如带、二叉分枝的淡绿叶状体。"
+    }
+  },
+  "Orlaya grandiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハナカザリゼリ。ヨーロッパ原産のセリ科の一年草で、観賞用に栽培され、道端や花壇の周辺に野生化する。複散形花序の外側の花の花弁が大きくなり、白いレースのように見えるのが名の由来。",
+      "habitat_hint": "道端、花壇の周辺、造成地、日当たりのよい場所。",
+      "finding_tips": "5〜7月、外側の花弁が大きくなった白いレース状の複散形花序を探します。"
+    },
+    "en": {
+      "summary": "White lace flower (Orlaya grandiflora). A European annual (Apiaceae) grown as an ornamental and naturalised on roadsides and around flowerbeds; the enlarged outer petals of the compound umbel give it a white, lacy look, hence the name.",
+      "habitat_hint": "Roadsides, around flowerbeds, made ground, sunny places.",
+      "finding_tips": "In May–July look for the white lacy compound umbels with enlarged outer petals."
+    },
+    "zh": {
+      "summary": "ハナカザリゼリ（大花折伞芹类，Orlaya grandiflora）。原产欧洲的伞形科一年生草本，作观赏栽培并野化于路旁与花坛周边，复伞形花序外缘花瓣增大、状如白色蕾丝，故名。",
+      "habitat_hint": "路旁、花坛周边、造地、向阳处。",
+      "finding_tips": "5 至 7 月寻找外缘花瓣增大、白色蕾丝状的复伞形花序。"
+    }
+  },
+  "Pallavicinia subciliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クモノスゴケ。ミズゼニゴケに近い葉状体の苔類（ススキゴケ類ではない）で、湿った土の斜面や渓流沿いの岩、水のしみ出す場所に生える。半透明の葉状体の中央に太い中肋が1本通り、縁に細かい毛（繊毛）がある。",
+      "habitat_hint": "湿った土の斜面、渓流沿いの岩、水のしみ出す日陰、湿地。",
+      "finding_tips": "一年中見られます。中央に1本の太い中肋が通る半透明の葉状体を、湿った土や岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort (Pallaviciniaceae) of damp soil slopes, streamside rock and seepage places; the translucent thallus has a single thick midrib and finely ciliate margins.",
+      "habitat_hint": "Damp soil slopes, streamside rock, shaded seepage places, wetlands.",
+      "finding_tips": "Present year-round; use a lens on damp soil and rock to check the translucent thallus with a single thick midrib."
+    },
+    "zh": {
+      "summary": "クモノスゴケ。带叶苔科叶状体苔类，生于湿润土坡、溪流岩石及渗水处，半透明叶状体中央具单条粗中肋、边缘具细纤毛。",
+      "habitat_hint": "湿润土坡、溪流岩石、荫蔽渗水处、湿地。",
+      "finding_tips": "全年可见；用放大镜在湿土与岩上观察中央具单条粗中肋的半透明叶状体。"
+    }
+  },
+  "Pertya rigidula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クルマバハグマ。キク科コウヤボウキ属の多年草で、山地の落葉樹林の林床や林縁に生える。茎の中ほどに葉が車輪状に輪生するのが名の由来。秋、白い筒状花からなる頭花を咲かせる。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや乾いた斜面。",
+      "finding_tips": "9〜10月、茎の中ほどに車輪状に輪生する葉と、白い筒状花の頭花を林床で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Asteraceae) of montane deciduous woodland floor and edges; named for the wheel-like whorl of leaves on the mid-stem, it opens flowerheads of white tubular florets in autumn.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, drier slopes.",
+      "finding_tips": "In September–October look on the woodland floor for the wheel-like whorl of leaves on the mid-stem and the white tubular-floret heads."
+    },
+    "zh": {
+      "summary": "クルマバハグマ。菊科帚菊属多年生草本，生于山地落叶林林床与林缘，茎中部叶轮生如轮，故名，秋开白色管状花的头状花序。",
+      "habitat_hint": "山地落叶林林床、林缘、较干坡地。",
+      "finding_tips": "9 至 10 月于林床寻找茎中部轮生如轮的叶及白色管状花头状花序。"
+    }
+  },
+  "Plagiomnium maximoviczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツルチョウチンゴケ。チョウチンゴケ科の蘚類で、湿った林床の土や腐木、岩、渓流沿いに生える。栄養をとる茎のほかに、地表を這って伸びる無性の匍匐枝（つる状）を出して広がるのが名の由来。",
+      "habitat_hint": "湿った林床の土、腐木、岩、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。湿ると平らに開く葉と、地表を這って伸びるつる状の茎を探します。"
+    },
+    "en": {
+      "summary": "A moss (Mniaceae) of damp woodland soil, rotten wood, rock and streamsides; besides its erect shoots it spreads by trailing, whip-like stolons over the ground, hence the Japanese name.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, shaded streamsides.",
+      "finding_tips": "Present year-round; look for the leaves that spread flat when wet and the whip-like stolons trailing over the ground."
+    },
+    "zh": {
+      "summary": "ツルチョウチンゴケ。提灯藓科藓类，生于湿润林床土壤、腐木、岩石及溪流沿岸，除直立枝外以匍匐鞭状茎蔓延，故名。",
+      "habitat_hint": "湿润林床土壤、腐木、岩石、溪流荫处。",
+      "finding_tips": "全年可见；寻找湿时平展的叶片及贴地蔓延的鞭状匍匐茎。"
+    }
+  },
+  "Pleioblastus kodzumae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キボウシノ。イネ科メダケ属の常緑のササ・タケで、暖地の林縁や川岸、藪に群生する。まっすぐ立つ細い稈（かん）に、細長い葉をつける。地下茎で広がって藪をつくる。",
+      "habitat_hint": "暖地の林縁、川岸、藪、道端の斜面。",
+      "finding_tips": "一年中見られます。まっすぐ立つ細い稈と細長い常緑の葉、地下茎で群生する藪を観察します。"
+    },
+    "en": {
+      "summary": "An evergreen dwarf bamboo (Pleioblastus, Poaceae) forming thickets on warm-region woodland edges, riverbanks and scrub; it has erect slender culms with long narrow leaves and spreads by rhizomes into thickets.",
+      "habitat_hint": "Warm-region woodland edges, riverbanks, scrub, roadside slopes.",
+      "finding_tips": "Present year-round; note the erect slender culms, long narrow evergreen leaves and the rhizomatous thickets."
+    },
+    "zh": {
+      "summary": "キボウシノ。禾本科苦竹属常绿矮竹，成丛生于暖地林缘、河岸与灌丛，秆细直立、叶狭长，借地下茎蔓延成丛。",
+      "habitat_hint": "暖地林缘、河岸、灌丛、路旁坡地。",
+      "finding_tips": "全年可见；观察细直的秆、狭长常绿叶及借地下茎成丛。"
+    }
+  },
+  "Plenasium banksiifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bank's royal fern",
+    "ja": {
+      "summary": "シロヤマゼンマイ。ゼンマイ科の常緑性シダで、暖地の湿った渓谷沿いや林床、湿った斜面に生える。ゼンマイの仲間で、大きな1回羽状の葉をつけ、胞子をつける羽片が葉の一部で分化する。",
+      "habitat_hint": "暖地の湿った渓谷沿い、林床、湿った斜面、沢沿い。",
+      "finding_tips": "一年中見られます。大きな1回羽状の常緑の葉と、葉の一部が胞子葉に分化する様子を探します。"
+    },
+    "en": {
+      "summary": "Bank's royal fern (Plenasium banksiifolium). An evergreen fern (Osmundaceae) of damp ravines, woodland floor and wet slopes in warm regions; a royal-fern relative with large once-pinnate fronds on which some pinnae become fertile (spore-bearing).",
+      "habitat_hint": "Damp ravines, woodland floor, wet slopes, streamsides in warm regions.",
+      "finding_tips": "Present year-round; look for the large once-pinnate evergreen fronds with part of the frond differentiated into fertile, spore-bearing pinnae."
+    },
+    "zh": {
+      "summary": "シロヤマゼンマイ（桂皮紫萁类，Plenasium banksiifolium）。紫萁科常绿蕨类，生于暖地湿润溪谷、林床与湿坡，为紫萁近缘，叶大一回羽状，部分羽片分化为能育（生孢子）羽片。",
+      "habitat_hint": "暖地湿润溪谷、林床、湿坡、沟谷。",
+      "finding_tips": "全年可见；寻找大型一回羽状常绿叶及部分分化为能育羽片的叶。"
+    }
+  },
+  "Poa angustifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバナガハグサ。イネ科イチゴツナギ属の多年草で、道端や芝地、河川敷、草地に生える。ナガハグサ（ケンタッキーブルーグラス）に近く、より葉が細い。細い円錐花序に小さな小穂をつける。",
+      "habitat_hint": "道端、芝地、河川敷、草地、造成地。",
+      "finding_tips": "5〜7月、細い葉と、細い円錐花序につく小さな小穂を探します。ナガハグサより葉が細い。"
+    },
+    "en": {
+      "summary": "Narrow-leaved meadow-grass (Poa angustifolia). A perennial (Poaceae) of roadsides, lawns, riverbanks and grassland; close to Kentucky bluegrass but with narrower leaves, bearing small spikelets in a slender panicle.",
+      "habitat_hint": "Roadsides, lawns, riverbanks, grassland, made ground.",
+      "finding_tips": "In May–July look for the narrow leaves and the small spikelets in a slender panicle; leaves narrower than Kentucky bluegrass."
+    },
+    "zh": {
+      "summary": "ホソバナガハグサ（细叶早熟禾，Poa angustifolia）。禾本科早熟禾属多年生草本，生于路旁、草坪、河滩与草地，近草地早熟禾而叶更细，细圆锥花序着生小型小穗。",
+      "habitat_hint": "路旁、草坪、河滩、草地、造地。",
+      "finding_tips": "5 至 7 月寻找细叶及细圆锥花序上的小型小穗；叶较草地早熟禾细。"
+    }
+  },
+  "Polygonatum humile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメイズイ。キジカクシ科（旧ユリ科）アマドコロ属の小さな多年草で、山地〜海岸の日当たりのよい草地や斜面、岩場に生える。背が低く、葉腋から白い筒状の花を1〜2個ずつ下げる。アマドコロを小型にしたような姿。",
+      "habitat_hint": "山地〜海岸の日当たりのよい草地、斜面、岩場、砂地。",
+      "finding_tips": "5〜6月、背の低い茎の葉腋から下がる白い筒状の花を探します。アマドコロより小型。"
+    },
+    "en": {
+      "summary": "Dwarf Solomon's seal (Polygonatum humile). A small perennial (Asparagaceae) of sunny grassland, slopes and rocky ground from the mountains to the coast; low-growing, it hangs one or two white tubular flowers from each leaf axil, like a miniature angular Solomon's seal.",
+      "habitat_hint": "Sunny grassland, slopes, rocky ground, coastal sand from mountains to coast.",
+      "finding_tips": "In May–June look for the white tubular flowers hanging one or two from each leaf axil on a low stem; smaller than angular Solomon's seal."
+    },
+    "zh": {
+      "summary": "ヒメイズイ（小玉竹，Polygonatum humile）。天门冬科（旧百合科）黄精属小型多年生草本，生于山地至海岸向阳草地、坡地与岩地，株矮，叶腋下垂白色筒状花一至二朵，似小型玉竹。",
+      "habitat_hint": "山地至海岸向阳草地、坡地、岩地、沙地。",
+      "finding_tips": "5 至 6 月寻找矮茎叶腋下垂的白色筒状花（一至二朵）；较玉竹小。"
+    }
+  },
+  "Rhynchospora alba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White beak-sedge",
+    "aliases": {
+      "zh-Hans": "白鳞刺子莞"
+    },
+    "ja": {
+      "summary": "ミカヅキグサ。カヤツリグサ科ミカヅキグサ属の多年草で、貧栄養の湿原やミズゴケ湿地に生える。細い茎の先に白っぽい小穂を三日月状に集めてつけるのが名の由来。湿原を代表する植物の一つ。",
+      "habitat_hint": "貧栄養の湿原、ミズゴケ湿地、湿った砂地。",
+      "finding_tips": "7〜9月、細い茎の先に集まる白っぽい小穂を湿原で探します。三日月状に見える点が手がかり。"
+    },
+    "en": {
+      "summary": "White beak-sedge (Rhynchospora alba). A perennial sedge (Cyperaceae) of nutrient-poor bogs and Sphagnum mires; slender stems gather whitish spikelets into a crescent-like cluster, hence the Japanese name. One of the characteristic plants of bogs.",
+      "habitat_hint": "Nutrient-poor bogs, Sphagnum mires, damp sand.",
+      "finding_tips": "In July–September look in bogs for the whitish spikelets clustered at the slender stem tips; the crescent shape is the clue."
+    },
+    "zh": {
+      "summary": "ミカヅキグサ（白鳞刺子莞，Rhynchospora alba）。莎草科刺子莞属多年生草本，生于贫营养湿原与泥炭藓沼泽，细茎顶端聚生白色小穗、状如新月，故名，为湿原代表植物之一。",
+      "habitat_hint": "贫营养湿原、泥炭藓沼泽、湿沙地。",
+      "finding_tips": "7 至 9 月于湿原寻找细茎顶端聚生的白色小穗；新月状聚集为线索。"
+    }
+  },
+  "Scabiosa japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マツムシソウ。スイカズラ科（旧マツムシソウ科）マツムシソウ属の越年草〜多年草で、山地の日当たりのよい草原や高原に生える。秋、青紫色の花を頭状に多数集めて咲かせる。外側の花が大きく、縁が花びらのように見える。",
+      "habitat_hint": "山地・高原の日当たりのよい草原、明るい斜面、尾根。",
+      "finding_tips": "8〜10月、高原の草原で青紫色の頭状の花を探します。外側の花が大きく縁取るように咲く点が手がかり。"
+    },
+    "en": {
+      "summary": "Japanese scabious (Scabiosa japonica). A biennial to perennial (Caprifoliaceae) of sunny montane and highland grassland; in autumn it gathers many blue-purple flowers into a head, the outer flowers enlarged so the rim looks petal-like (a pincushion flower).",
+      "habitat_hint": "Sunny montane and highland grassland, open slopes, ridges.",
+      "finding_tips": "In August–October look on highland grassland for the blue-purple flower-heads; the enlarged outer flowers forming a petal-like rim are the clue."
+    },
+    "zh": {
+      "summary": "マツムシソウ（日本蓝盆花，Scabiosa japonica）。忍冬科（旧川续断科）蓝盆花属二年生至多年生草本，生于山地与高原向阳草甸，秋季多花聚成头状、蓝紫色，外缘花增大成花瓣状边。",
+      "habitat_hint": "山地与高原向阳草甸、开阔坡地、山脊。",
+      "finding_tips": "8 至 10 月于高原草甸寻找蓝紫色头状花；外缘增大成花瓣状边为线索。"
+    }
+  },
+  "Trametes vernicipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツヤウチワタケ。タマチョレイタケ科の一年生の硬い多孔菌で、広葉樹の枯木や倒木、切株に発生する。半円形の傘は表面に光沢があり、短い柄でつく。裏面は白い管孔面。木材腐朽菌。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株の上。",
+      "finding_tips": "一年中見られます。枯木につく光沢のある半円形の傘と、短い柄、白い管孔面を探します。"
+    },
+    "en": {
+      "summary": "An annual polypore (Polyporaceae) on dead broadleaf wood, logs and stumps; the semicircular cap has a glossy surface and a short stalk, with a white pore surface beneath. A wood-rotting fungus.",
+      "habitat_hint": "Dead broadleaf wood, fallen logs, stumps.",
+      "finding_tips": "Present year-round; look on dead wood for the glossy semicircular cap with a short stalk and the white pore surface."
+    },
+    "zh": {
+      "summary": "ツヤウチワタケ（漆柄栓菌类，Trametes vernicipes）。多孔菌科一年生硬质多孔菌，发生于阔叶枯木、倒木与树桩，菌盖半圆形、表面有光泽、具短柄，下面白色管孔，为木材腐朽菌。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "全年可见；在枯木上寻找有光泽的半圆形菌盖、短柄及白色管孔面。"
+    }
+  },
+  "Amanita fulva": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カバイロツルタケ。テングタケ科のキノコで、夏〜秋に広葉樹林や雑木林の地上に発生する。傘はかば色（褐色）で、縁に条線があり、つばはなく、根元に袋状のつぼ（外被膜）がある。生食は危険。",
+      "habitat_hint": "夏〜秋の広葉樹林・雑木林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、かば色で縁に条線のある傘、つばのない柄、根元の袋状のつぼを探します。生食は危険。"
+    },
+    "en": {
+      "summary": "Tawny grisette (Amanita fulva). A fungus (Amanitaceae) fruiting on the ground in broadleaf and secondary woodland in summer to autumn; the tawny-brown cap is striate at the margin, the stem is ringless, and there is a sac-like volva at the base. Not to be eaten raw.",
+      "habitat_hint": "Ground of broadleaf and secondary woodland, park tree bases; summer to autumn.",
+      "finding_tips": "From July to October look for the tawny cap with a striate margin, the ringless stem and the sac-like volva at the base. Do not eat raw."
+    },
+    "zh": {
+      "summary": "カバイロツルタケ（赤褐鹅膏，Amanita fulva）。鹅膏菌科真菌，夏秋发生于阔叶林与杂木林地上，菌盖桦褐色、缘具条纹，柄无环，基部具袋状菌托，生食有危险。",
+      "habitat_hint": "夏秋阔叶林与杂木林地面、公园树下。",
+      "finding_tips": "7 至 10 月寻找桦褐色、缘具条纹的菌盖、无环的柄及基部袋状菌托；勿生食。"
+    }
+  },
+  "Crepidiastrum lanceolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマニガナ（ハマナレン）。キク科アゼトウナ属の多年草で、海岸の崖や岩場、砂地に生える。厚みのあるへら形の葉をロゼット状につけ、秋、黄色いタンポポに似た頭花を咲かせる。海岸性で潮風に強い。",
+      "habitat_hint": "海岸の崖、岩場、砂地、海に近い草地。",
+      "finding_tips": "10〜12月、海岸の岩場で厚いへら形の葉のロゼットと、黄色いタンポポに似た頭花を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Asteraceae) of coastal cliffs, rocky ground and sand; it forms rosettes of thick spoon-shaped leaves and opens dandelion-like yellow flowerheads in autumn, tolerant of salt spray.",
+      "habitat_hint": "Coastal cliffs, rocky ground, sand, grassland near the sea.",
+      "finding_tips": "In October–December look on coastal rocks for the rosette of thick spoon-shaped leaves and the dandelion-like yellow flowerheads."
+    },
+    "zh": {
+      "summary": "ハマニガナ类（矛叶假还阳参，Crepidiastrum lanceolatum）。菊科假还阳参属多年生草本，生于海岸崖壁、岩地与沙地，厚匙形叶呈莲座状，秋开似蒲公英的黄色头状花，耐海风盐雾。",
+      "habitat_hint": "海岸崖壁、岩地、沙地、近海草地。",
+      "finding_tips": "10 至 12 月于海岸岩地寻找厚匙形叶的莲座及似蒲公英的黄色头状花。"
+    }
   }
 }
