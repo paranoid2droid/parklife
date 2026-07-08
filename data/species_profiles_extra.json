@@ -213099,5 +213099,441 @@
       "habitat_hint": "山地至亚高山草甸、明亮林缘、路旁、较干坡地。",
       "finding_tips": "7 至 8 月于山地草甸寻找红紫色五瓣花及掌状分裂叶；萼与茎多开展毛。"
     }
+  },
+  "Amanita muscaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fly agaric",
+    "aliases": {
+      "zh-Hans": "毒蝇伞"
+    },
+    "ja": {
+      "summary": "ベニテングタケ。テングタケ科のよく知られたキノコで、シラカバやマツの林の地上に発生する。鮮やかな赤い傘に白いいぼを散らした姿が特徴的。有毒で、神経系に作用する成分を含む。絵本やゲームでおなじみだが食べてはいけない。",
+      "habitat_hint": "シラカバ・マツ林の地上、亜高山の林、公園の樹下。夏〜秋。",
+      "finding_tips": "8〜10月、赤い傘に白いいぼを散らした姿を林の地上で探します。有毒。食用不可。"
+    },
+    "en": {
+      "summary": "Fly agaric (Amanita muscaria). A well-known fungus (Amanitaceae) fruiting on the ground in birch and pine woods; unmistakable with its bright red cap dotted with white warts. Poisonous, containing neuroactive compounds — familiar from storybooks and games, but not to be eaten.",
+      "habitat_hint": "Ground in birch and pine woods, subalpine forest, park tree bases; summer to autumn.",
+      "finding_tips": "In August–October look on woodland ground for the red cap scattered with white warts. Poisonous — inedible."
+    },
+    "zh": {
+      "summary": "ベニテングタケ（毒蝇伞，Amanita muscaria）。鹅膏菌科著名真菌，发生于桦、松林地上，鲜红色菌盖散布白色疣，极易辨识。有毒，含作用于神经系统的成分——虽常见于绘本与游戏，但不可食用。",
+      "habitat_hint": "桦、松林地上、亚高山林、公园树下；夏秋。",
+      "finding_tips": "8 至 10 月于林地寻找红盖散布白疣的菌；有毒，不可食。"
+    }
+  },
+  "Utricularia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タヌキモ。タヌキモ科の水生の食虫植物で、池沼や水路、水田に浮遊して育つ。根はなく、細かく裂けた水中の葉に小さな捕虫嚢をつけ、ミジンコなどを捕らえる。夏、水面上に黄色い花を立てる。",
+      "habitat_hint": "池沼、水路、水田、ため池などの止水域。",
+      "finding_tips": "7〜9月、水面から立ち上がる黄色い花を探します。水中の細裂した葉につく小さな捕虫嚢が手がかり。"
+    },
+    "en": {
+      "summary": "Common bladderwort (Utricularia japonica). An aquatic carnivorous plant (Lentibulariaceae) floating in ponds, channels and paddies; rootless, it bears tiny bladder-traps on its finely divided submerged leaves to catch water fleas, and raises yellow flowers above the water in summer.",
+      "habitat_hint": "Ponds, channels, paddy fields, reservoirs and other still water.",
+      "finding_tips": "In July–September look for the yellow flowers rising above the water; the tiny bladder-traps on the finely divided submerged leaves are the clue."
+    },
+    "zh": {
+      "summary": "タヌキモ（狸藻类，Utricularia japonica）。狸藻科水生食虫植物，漂浮于池沼、水道与水田，无根，细裂沉水叶上具小捕虫囊以捕食水蚤等，夏季于水面上抽出黄色花。",
+      "habitat_hint": "池沼、水道、水田、蓄水池等静水。",
+      "finding_tips": "7 至 9 月寻找水面上直立的黄色花；沉水细裂叶上的小捕虫囊为线索。"
+    }
+  },
+  "Senecio madagascariensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Madagascar ragwort",
+    "ja": {
+      "summary": "ナルトサワギク。アフリカ原産のキク科キオン属の多年草で、道端や空き地、造成地、海岸に帰化する。周年、黄色い小さな頭花を次々と咲かせる。有毒で家畜が中毒することがあり、特定外来生物に指定されている要注意の外来種。",
+      "habitat_hint": "道端、空き地、造成地、海岸、埋め立て地の日当たりのよい場所。",
+      "finding_tips": "ほぼ周年、黄色い小さな頭花を探します。舌状花が十数枚あり、次々と長期間咲く。有毒。"
+    },
+    "en": {
+      "summary": "Madagascar ragwort (Senecio madagascariensis). An African perennial (Asteraceae) naturalised on roadsides, vacant lots, made ground and coasts; it flowers almost year-round with small yellow heads. It is toxic and can poison livestock, and is a designated invasive alien species to watch for in Japan.",
+      "habitat_hint": "Roadsides, vacant lots, made ground, coasts, reclaimed land in sun.",
+      "finding_tips": "Almost year-round, look for the small yellow flowerheads with a dozen or so ray florets that bloom in long succession. Toxic."
+    },
+    "zh": {
+      "summary": "ナルトサワギク（马达加斯加千里光，Senecio madagascariensis）。原产非洲的菊科千里光属多年生草本，归化于路旁、空地、造地与海岸，近全年陆续开黄色小头状花。有毒可致家畜中毒，在日本列为须注意的特定外来物种。",
+      "habitat_hint": "路旁、空地、造地、海岸、填筑地向阳处。",
+      "finding_tips": "近全年可见黄色小头状花，舌状花十余枚、长期陆续开放。有毒。"
+    }
+  },
+  "Leptestheria kawachiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clam shrimp",
+    "ja": {
+      "summary": "トゲカイエビ。カイエビ科の小型の甲殻類（鰓脚類）で、水田や一時的にできる浅い水たまりにすむ。二枚貝のような殻に体が包まれ、多数の脚で泳ぐ。卵は乾燥に耐え、水がたまると孵化する。",
+      "habitat_hint": "水田、一時的な浅い水たまり、湿地の止水域。",
+      "finding_tips": "初夏〜夏、水田や水たまりで、二枚貝のような殻をもち細かく泳ぐ小さな甲殻類を探します。"
+    },
+    "en": {
+      "summary": "A clam shrimp (Leptestheriidae), a small branchiopod crustacean living in paddy fields and temporary shallow pools; its body is enclosed in a bivalve-like shell and it swims with many legs. The eggs survive drying and hatch when water returns.",
+      "habitat_hint": "Paddy fields, temporary shallow pools, still water in wetlands.",
+      "finding_tips": "In early summer to summer, look in paddies and pools for the small crustacean enclosed in a bivalve-like shell, swimming with fine leg-beats."
+    },
+    "zh": {
+      "summary": "トゲカイエビ（刺蚌虫类，Leptestheria kawachiensis）。蚌虫科小型甲壳动物（鳃足类），栖于水田及临时浅水潭，身体包于似双壳的介壳中，以多足游动，卵耐干旱、遇水即孵。",
+      "habitat_hint": "水田、临时浅水潭、湿地静水。",
+      "finding_tips": "初夏至夏于水田与水潭寻找包于似双壳介壳、细密游动的小型甲壳动物。"
+    }
+  },
+  "Paraglenurus melanostictus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Antlion",
+    "ja": {
+      "summary": "クロホシウスバカゲロウ。ウスバカゲロウ科の昆虫で、成虫はトンボに似た細い体と透明な翅をもち、夜に灯火に集まる。幼虫はいわゆる「アリジゴク」だが、この仲間の幼虫はすり鉢状の巣は作らず、砂や落葉の間にひそんで獲物を待つ。",
+      "habitat_hint": "林縁、雑木林、社寺林、灯火の周辺。幼虫は乾いた砂地や落葉下。",
+      "finding_tips": "6〜9月、夜に灯火に集まる細い体と透明な翅の成虫を探します。翅に黒い斑点（黒星）が手がかり。"
+    },
+    "en": {
+      "summary": "An antlion (Myrmeleontidae); the adult has a slender dragonfly-like body and clear wings and comes to lights at night. Its larva is an \"antlion\" but, unlike the pit-builders, this group's larvae lie in wait among sand and leaf litter without a conical pit.",
+      "habitat_hint": "Woodland edges, secondary and shrine forest, around lights; larvae in dry sand or under leaf litter.",
+      "finding_tips": "From June to September look at night lights for the slender adult with clear wings; the black spots on the wings are the clue."
+    },
+    "zh": {
+      "summary": "クロホシウスバカゲロウ（黑斑蚁蛉类，Paraglenurus melanostictus）。蚁蛉科昆虫，成虫体细如蜓、翅透明，夜间趋光；幼虫即「蚁狮」，但此类幼虫不筑漏斗状陷阱，而潜伏于沙与落叶间伺机捕食。",
+      "habitat_hint": "林缘、杂木林、社寺林、灯火周边；幼虫居干沙或落叶下。",
+      "finding_tips": "6 至 9 月夜间于灯下寻找体细、翅透明的成虫；翅上黑斑为线索。"
+    }
+  },
+  "Purpureocillium atypicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spider parasite fungus",
+    "ja": {
+      "summary": "クモタケ。地中にすむジグモ（土蜘蛛）に寄生する冬虫夏草の仲間の菌類。感染して死んだクモの巣（袋状の巣）から、淡紫色〜藤色の棍棒状の子実体（分生子柄束）を地上に伸ばす。梅雨〜夏に社寺の石垣などで見られる。",
+      "habitat_hint": "社寺の石垣、古い塀、樹木の根元などジグモの巣のある場所。梅雨〜夏。",
+      "finding_tips": "6〜8月、石垣の隙間などから伸びる淡紫色の棍棒状の子実体を探します。根元をたどるとジグモの袋状の巣につながる。"
+    },
+    "en": {
+      "summary": "Spider parasite fungus (Purpureocillium atypicola). An entomopathogenic fungus that parasitises the burrowing purse-web spider; from the killed spider's tube-nest it pushes up club-shaped, pale purple to lilac fruiting structures. Seen on shrine stone walls and old walls in the rainy season to summer.",
+      "habitat_hint": "Shrine stone walls, old walls, tree bases — wherever purse-web spiders nest; rainy season to summer.",
+      "finding_tips": "In June–August look for the pale-purple club-shaped fruitbodies emerging from wall crevices; trace the base to a spider's tube-nest."
+    },
+    "zh": {
+      "summary": "クモタケ（紫孢霉—蜘蛛寄生菌，Purpureocillium atypicola）。寄生于地栖螲蟷（土蜘蛛）的虫生真菌，从被感染而死的蜘蛛袋状巢中伸出淡紫至藤色棍棒状子实体（分生孢子梗束），梅雨至夏见于社寺石墙。",
+      "habitat_hint": "社寺石墙、旧墙、树基等螲蟷筑巢处；梅雨至夏。",
+      "finding_tips": "6 至 8 月于石墙缝隙寻找伸出的淡紫色棍棒状子实体；沿基部可追至蜘蛛袋状巢。"
+    }
+  },
+  "Urazirochlamys doenitzii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "ウラジロベッコウ。ベッコウマイマイ科の小さな陸生の巻貝（カタツムリの仲間）で、湿った林床の落葉の下や倒木、石の下にすむ。殻は низ扁平で光沢があり、半透明の飴色（べっこう色）。",
+      "habitat_hint": "湿った林床の落葉の下、倒木・石の下、社寺林の陰。",
+      "finding_tips": "一年中、湿った林で落葉や倒木をめくり、平たく光沢のある小さなべっこう色の殻を探します。梅雨時に活発。"
+    },
+    "en": {
+      "summary": "A small land snail (Gastrodontidae) living under leaf litter, logs and stones on damp woodland floor; the shell is low, flattened and glossy, a translucent amber (tortoiseshell) colour.",
+      "habitat_hint": "Under leaf litter, logs and stones on damp woodland floor, shaded shrine forest.",
+      "finding_tips": "Year-round in damp woodland, turn leaf litter and logs to find the flattened, glossy little amber shell; most active in the rainy season."
+    },
+    "zh": {
+      "summary": "ウラジロベッコウ（琥珀色陆生蜗牛，Urazirochlamys doenitzii）。琥珀蜗牛类小型陆生蜗牛，栖于湿润林床落叶下、倒木与石下，壳低平而有光泽、半透明琥珀（玳瑁）色。",
+      "habitat_hint": "湿润林床落叶下、倒木与石下、社寺林荫处。",
+      "finding_tips": "全年于湿润林中翻开落叶与倒木，寻找低平有光泽的琥珀色小壳；梅雨期活跃。"
+    }
+  },
+  "Pinus parviflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese white pine",
+    "aliases": {
+      "zh-Hans": "日本五针松"
+    },
+    "ja": {
+      "summary": "キタゴヨウ。マツ科マツ属の常緑針葉樹で、ゴヨウマツ（五葉松）の北方型。山地〜亜高山帯の尾根や岩場に生える。針葉が5本ずつ束になってつくのが特徴。庭木・盆栽にも使われる。",
+      "habitat_hint": "山地〜亜高山帯の尾根、岩場、痩せ地、日当たりのよい斜面。",
+      "finding_tips": "一年中見られます。5本ずつ束になる短い針葉を探します。ゴヨウマツより北方・高地性で球果がやや大きい。"
+    },
+    "en": {
+      "summary": "Japanese white pine (Pinus parviflora). An evergreen conifer (Pinaceae), the northern form of the five-needle pine, growing on montane to subalpine ridges and rocky ground; its needles are borne in bundles of five. Also grown for bonsai and gardens.",
+      "habitat_hint": "Montane to subalpine ridges, rocky ground, poor soils, sunny slopes.",
+      "finding_tips": "Present year-round; look for the short needles in bundles of five; more northern and higher-elevation than typical five-needle pine, with somewhat larger cones."
+    },
+    "zh": {
+      "summary": "キタゴヨウ（日本五针松，Pinus parviflora）。松科松属常绿针叶树，为五针松的北方型，生于山地至亚高山山脊与岩地，针叶五枚成束，亦作庭木与盆景。",
+      "habitat_hint": "山地至亚高山山脊、岩地、瘠地、向阳坡。",
+      "finding_tips": "全年可见；寻找五枚成束的短针叶；较典型五针松更偏北方高地、球果略大。"
+    }
+  },
+  "Platanthera sachalinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakhalin bog orchid",
+    "ja": {
+      "summary": "オオヤマサギソウ。ラン科ツレサギソウ属の地生ランで、山地の明るい林内や林縁、草地に生える。夏、緑白色の花を細長い花茎に多数、穂状につける。花に細長い距があるのが特徴。",
+      "habitat_hint": "山地の明るい林内、林縁、やや湿った草地。",
+      "finding_tips": "7〜8月、細長い花茎に穂状につく緑白色の花と、花の後ろに伸びる細長い距を探します。"
+    },
+    "en": {
+      "summary": "A terrestrial bog orchid (Platanthera, Orchidaceae) of bright montane woodland, edges and grassland; in summer it bears many greenish-white flowers in a spike on a long stalk, each with a long slender spur.",
+      "habitat_hint": "Bright montane woodland, edges, damp grassland.",
+      "finding_tips": "In July–August look for the spike of greenish-white flowers on a long stalk, each with a long slender spur behind."
+    },
+    "zh": {
+      "summary": "オオヤマサギソウ。兰科舌唇兰属地生兰，生于山地明亮林内、林缘与草地，夏季于细长花茎上穗状着生多数绿白色花，花后具细长距。",
+      "habitat_hint": "山地明亮林内、林缘、略湿草地。",
+      "finding_tips": "7 至 8 月寻找细长花茎上穗状排列的绿白色花及花后细长的距。"
+    }
+  },
+  "Potamogeton wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ササバモ。ヒルムシロ科の水生の多年草で、池沼や水路、流れの緩い川に生える。笹の葉に似た細長い水中葉（沈水葉）をつけ、水面には浮葉を出すこともある。夏、水面上に穂状の花序を立てる。",
+      "habitat_hint": "池沼、水路、流れの緩い川、ため池。",
+      "finding_tips": "6〜9月、笹の葉のような細長い水中葉を探します。水面から立つ穂状の花序が手がかり。"
+    },
+    "en": {
+      "summary": "Bamboo-leaf pondweed (Potamogeton wrightii). An aquatic perennial (Potamogetonaceae) of ponds, channels and slow rivers; it has long bamboo-leaf-like submerged leaves and may put out floating leaves, raising spikes of flowers above the water in summer.",
+      "habitat_hint": "Ponds, channels, slow rivers, reservoirs.",
+      "finding_tips": "In June–September look for the long bamboo-leaf-like submerged leaves; the flower spikes standing above the water are the clue."
+    },
+    "zh": {
+      "summary": "ササバモ（竹叶眼子菜，Potamogeton wrightii）。眼子菜科水生多年生草本，生于池沼、水道及缓流河，沉水叶狭长如竹叶，或生浮水叶，夏季于水面上抽穗状花序。",
+      "habitat_hint": "池沼、水道、缓流河、蓄水池。",
+      "finding_tips": "6 至 9 月寻找狭长如竹叶的沉水叶；水面上直立的穗状花序为线索。"
+    }
+  },
+  "Pseudoraphis sordida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウキシバ。イネ科ウキシバ属の水湿生の多年草で、池沼や水路、水田の縁に生える。水面を這うように茎を伸ばして広がり、節から根を出す。まばらな花序に芒のある小穂をつける。",
+      "habitat_hint": "池沼、水路、水田の縁、湿地の浅い水辺。",
+      "finding_tips": "8〜10月、水面や泥上を這って広がる茎と、まばらな花序の芒のある小穂を探します。"
+    },
+    "en": {
+      "summary": "East Asian mudgrass (Pseudoraphis sordida). An aquatic-marsh perennial grass of ponds, channels and paddy margins; it spreads by stems creeping over the water surface, rooting at the nodes, and bears awned spikelets in a sparse inflorescence.",
+      "habitat_hint": "Ponds, channels, paddy margins, shallow water margins of wetlands.",
+      "finding_tips": "In August–October look for the stems creeping over water and mud and the awned spikelets in a sparse inflorescence."
+    },
+    "zh": {
+      "summary": "ウキシバ（伪针茅类，Pseudoraphis sordida）。禾本科多年生水湿草本，生于池沼、水道及水田边缘，茎匍匐水面蔓延、节上生根，稀疏花序着生具芒小穗。",
+      "habitat_hint": "池沼、水道、水田边缘、湿地浅水边。",
+      "finding_tips": "8 至 10 月寻找匍匐水面与泥上的茎及稀疏花序上的具芒小穗。"
+    }
+  },
+  "Ranunculus muricatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トゲミノキツネノボタン。ヨーロッパ・地中海地方原産のキンポウゲ科の一〜越年草で、道端や畑、湿った空き地に帰化する。黄色い小花を咲かせ、果実（集合果）の面に鋭い刺（とげ）があるのが名の由来。",
+      "habitat_hint": "道端、畑、湿った空き地、水田の縁、造成地。",
+      "finding_tips": "4〜6月、黄色い小花と、面に鋭い刺のある扁平な果実の集まりを探します。"
+    },
+    "en": {
+      "summary": "Bur buttercup (Ranunculus muricatus). A European–Mediterranean annual to biennial (Ranunculaceae) naturalised on roadsides, fields and damp waste ground; it bears small yellow flowers, and the achenes of the fruiting head carry sharp spines, hence the name.",
+      "habitat_hint": "Roadsides, fields, damp waste ground, paddy margins, made ground.",
+      "finding_tips": "In April–June look for the small yellow flowers and the cluster of flattened achenes armed with sharp spines."
+    },
+    "zh": {
+      "summary": "トゲミノキツネノボタン（刺果毛茛，Ranunculus muricatus）。原产欧洲—地中海的毛茛科一至二年生草本，归化于路旁、田地与湿润空地，开黄色小花，聚合果面具锐刺，故名。",
+      "habitat_hint": "路旁、田地、湿润空地、水田边缘、造地。",
+      "finding_tips": "4 至 6 月寻找黄色小花及面具锐刺的扁平瘦果聚合体。"
+    }
+  },
+  "Rhododendron benhallii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bell azalea",
+    "ja": {
+      "summary": "ツリガネツツジ（ウラジロヨウラク等と近縁の落葉ツツジ）。ツツジ科の落葉低木で、山地の林縁や岩場、明るい斜面に生える。初夏、釣鐘形の淡紅色〜紅紫色の花を下向きに数個ずつつける。",
+      "habitat_hint": "山地の林縁、岩場、明るい斜面、亜高山の林縁。",
+      "finding_tips": "6〜7月、下向きにつく釣鐘形の淡紅色〜紅紫色の花を山地の林縁で探します。"
+    },
+    "en": {
+      "summary": "A deciduous azalea (Rhododendron, Ericaceae) of montane woodland edges, rocky ground and open slopes; in early summer it hangs a few bell-shaped pink to rose-purple flowers, nodding downward.",
+      "habitat_hint": "Montane woodland edges, rocky ground, open slopes, subalpine edges.",
+      "finding_tips": "In June–July look at montane woodland edges for the few nodding, bell-shaped pink to rose-purple flowers."
+    },
+    "zh": {
+      "summary": "ツリガネツツジ。杜鹃花科落叶灌木，生于山地林缘、岩地与开阔坡地，初夏下垂开数朵钟形淡红至玫紫色花。",
+      "habitat_hint": "山地林缘、岩地、开阔坡地、亚高山林缘。",
+      "finding_tips": "6 至 7 月于山地林缘寻找下垂的钟形淡红至玫紫色花。"
+    }
+  },
+  "Rhododendron brachycarpum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾシャクナゲ（ハクサンシャクナゲの近縁）。ツツジ科の常緑低木で、亜高山〜高山帯の林縁や岩場、尾根に生える。初夏、白〜淡紅色の漏斗形の花を枝先にまとまってつける。葉は厚い革質で、裏面に毛がある。",
+      "habitat_hint": "亜高山〜高山帯の林縁、岩場、尾根、針葉樹林の縁。",
+      "finding_tips": "6〜7月、枝先にまとまって咲く白〜淡紅色の漏斗形の花を探します。厚い革質の葉が手がかり。"
+    },
+    "en": {
+      "summary": "Short-fruit rosebay (Rhododendron brachycarpum). An evergreen shrub (Ericaceae) of subalpine to alpine woodland edges, rocky ground and ridges; in early summer it bears clusters of white to pale-pink funnel-shaped flowers at the branch tips, with thick leathery leaves hairy beneath.",
+      "habitat_hint": "Subalpine to alpine woodland edges, rocky ground, ridges, conifer-forest margins.",
+      "finding_tips": "In June–July look for the clusters of white to pale-pink funnel-shaped flowers at the branch tips; the thick leathery leaves are the clue."
+    },
+    "zh": {
+      "summary": "エゾシャクナゲ（短果杜鹃，Rhododendron brachycarpum）。杜鹃花科常绿灌木，生于亚高山至高山林缘、岩地与山脊，初夏枝端成簇开白至淡红色漏斗形花，叶厚革质、背面被毛。",
+      "habitat_hint": "亚高山至高山林缘、岩地、山脊、针叶林缘。",
+      "finding_tips": "6 至 7 月寻找枝端成簇的白至淡红色漏斗形花；厚革质叶为线索。"
+    }
+  },
+  "Scutellaria dependens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメナミキ。シソ科タツナミソウ属の小さな多年草で、水田や湿地、溝の縁、湿った草地に生える。細い茎に小さな葉を対生し、白〜淡紫色の小さな唇形の花を葉腋につける。",
+      "habitat_hint": "水田、湿地、溝の縁、湿った草地、休耕田。",
+      "finding_tips": "7〜9月、湿った場所で細い茎の葉腋につく白〜淡紫色の小さな唇形の花を探します。"
+    },
+    "en": {
+      "summary": "A small perennial skullcap (Scutellaria, Lamiaceae) of paddy fields, wetlands, ditch margins and damp grassland; slender stems bear small opposite leaves and small white to pale-purple two-lipped flowers in the leaf axils.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, damp grassland, fallow wet fields.",
+      "finding_tips": "In July–September look in damp places for the small white to pale-purple two-lipped flowers in the axils of slender stems."
+    },
+    "zh": {
+      "summary": "ヒメナミキ。唇形科黄芩属小型多年生草本，生于水田、湿地、沟缘及湿润草地，细茎对生小叶，叶腋着生白至淡紫色唇形小花。",
+      "habitat_hint": "水田、湿地、沟缘、湿润草地、休耕田。",
+      "finding_tips": "7 至 9 月于湿处寻找细茎叶腋着生的白至淡紫色唇形小花。"
+    }
+  },
+  "Weigela floribunda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crimson weigela",
+    "ja": {
+      "summary": "ヤブウツギ。スイカズラ科タニウツギ属の落葉低木で、山地の林縁や谷沿い、道端に生える。初夏、濃紅色の漏斗形の花を枝に多数つける。全体に毛が多いのが特徴。",
+      "habitat_hint": "山地の林縁、谷沿い、道端、やや湿った斜面。",
+      "finding_tips": "5〜6月、枝に多数つく濃紅色の漏斗形の花を探します。花や葉、枝に毛が多い点が手がかり。"
+    },
+    "en": {
+      "summary": "Crimson weigela (Weigela floribunda). A deciduous shrub (Caprifoliaceae) of montane woodland edges, valleys and roadsides; in early summer it bears many deep-crimson funnel-shaped flowers along the branches and is notably hairy throughout.",
+      "habitat_hint": "Montane woodland edges, valleys, roadsides, damp slopes.",
+      "finding_tips": "In May–June look for the many deep-crimson funnel-shaped flowers along the branches; the abundant hairs on flowers, leaves and twigs are the clue."
+    },
+    "zh": {
+      "summary": "ヤブウツギ（多花锦带花，Weigela floribunda）。忍冬科锦带花属落叶灌木，生于山地林缘、谷地与路旁，初夏枝上密生深红色漏斗形花，全株多毛。",
+      "habitat_hint": "山地林缘、谷地、路旁、略湿坡地。",
+      "finding_tips": "5 至 6 月寻找枝上密生的深红色漏斗形花；花、叶、枝多毛为线索。"
+    }
+  },
+  "Elatostema laetevirens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマトキホコリ。イラクサ科ウワバミソウ属の多年草で、山地の谷沿いや渓流沿いの湿った日陰に生える。左右不対称の鮮緑色の葉を2列につけ、茎はやや多肉質。目立たない小花をつける。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った日陰、水のしみ出す岩際。",
+      "finding_tips": "夏〜秋、鮮緑色で左右不対称の葉が2列につく多肉質の茎を、湿った日陰で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Urticaceae) of damp shaded ground along montane valleys and streams; it bears bright-green, asymmetric leaves in two ranks on somewhat succulent stems, with inconspicuous flowers.",
+      "habitat_hint": "Montane valleys, damp shaded streamsides, seepage-wet rock margins.",
+      "finding_tips": "In summer–autumn look in damp shade for the somewhat succulent stems with bright-green, asymmetric leaves in two ranks."
+    },
+    "zh": {
+      "summary": "ヤマトキホコリ。荨麻科楼梯草属多年生草本，生于山地谷地与溪流沿岸湿润荫处，叶鲜绿、两侧不对称、两列排列，茎略肉质，花不显。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润荫处、渗水岩缘。",
+      "finding_tips": "夏至秋于湿润荫处寻找略肉质茎与鲜绿、两侧不对称、两列排列的叶。"
+    }
+  },
+  "Hookeria acutifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アブラゴケ。アブラゴケ科の蘚類で、湿った林床の土や腐木、渓流沿いの日陰に生える。葉の細胞が大きく、油を塗ったような独特の透明感・光沢があるのが名の由来。",
+      "habitat_hint": "湿った林床の土、腐木、渓流沿いの日陰、水のしみ出す斜面。",
+      "finding_tips": "一年中見られます。大きな細胞による油を塗ったような透明感・光沢のある葉を、湿った日陰でルーペで確認します。"
+    },
+    "en": {
+      "summary": "Sharpleaf hookeria moss (Hookeria acutifolia). A moss (Hookeriaceae) of damp woodland soil, rotten wood and shaded streamsides; named for the oily-looking translucence and sheen given by its large leaf cells.",
+      "habitat_hint": "Damp woodland soil, rotten wood, shaded streamsides, seepage slopes.",
+      "finding_tips": "Present year-round; use a lens in damp shade to check the leaves' oily-looking translucence and sheen from the large cells."
+    },
+    "zh": {
+      "summary": "アブラゴケ（尖叶油藓，Hookeria acutifolia）。油藓科藓类，生于湿润林床土壤、腐木及溪流荫处，叶细胞大、具似涂油般的透明感与光泽，故名。",
+      "habitat_hint": "湿润林床土壤、腐木、溪流荫处、渗水坡地。",
+      "finding_tips": "全年可见；用放大镜于湿润荫处观察叶片因大细胞而呈似涂油的透明与光泽。"
+    }
+  },
+  "Pogonatum inflexum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コスギゴケ。スギゴケ科の蘚類で、道端や土の斜面、林床、公園の地面などに群生する普通種。乾くと葉が茎に巻きつき、湿ると星形に開く。スギゴケの仲間で背は低い。",
+      "habitat_hint": "道端、土の斜面、林床、公園の地面、切り通し。",
+      "finding_tips": "一年中見られます。湿ると星形に開き、乾くと巻きつく葉と、背の低い群落を土の上で探します。"
+    },
+    "en": {
+      "summary": "A haircap moss (Polytrichaceae) forming stands on roadsides, soil slopes, woodland floor and park ground; a common species whose leaves twist round the stem when dry and spread star-like when wet, low-growing for a haircap.",
+      "habitat_hint": "Roadsides, soil slopes, woodland floor, park ground, road cuttings.",
+      "finding_tips": "Present year-round; look on soil for the low turfs whose leaves spread star-like when wet and curl when dry."
+    },
+    "zh": {
+      "summary": "コスギゴケ（小金发藓类，Pogonatum inflexum）。金发藓科藓类，成丛生于路旁、土坡、林床及公园地面，为常见种，叶湿时星状展开、干时缠茎，属矮生金发藓。",
+      "habitat_hint": "路旁、土坡、林床、公园地面、路堑。",
+      "finding_tips": "全年可见；在土面上寻找湿时星状展开、干时卷缩叶片的低矮丛。"
+    }
+  },
+  "Cololejeunea raduliloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガシタバヨウジョウゴケ。クサリゴケ科の微小な葉状苔類で、常緑樹の葉の上や樹皮に着生する（葉上生）。ルーペでようやく見える大きさで、淡緑色の薄い膜状のコロニーをつくる。",
+      "habitat_hint": "照葉樹林内の常緑樹の葉上、樹皮、湿った日陰。",
+      "finding_tips": "一年中見られます。常緑樹の葉表に広がる淡緑色の薄い膜状のコロニーをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Lejeuneaceae) epiphytic on the leaves and bark of evergreen trees (epiphyllous); barely visible without a lens, it forms thin pale-green film-like colonies.",
+      "habitat_hint": "Leaf surfaces and bark of evergreen trees in evergreen forest, damp shade.",
+      "finding_tips": "Present year-round; use a lens to spot the pale-green film-like colonies spreading over evergreen leaf surfaces."
+    },
+    "zh": {
+      "summary": "ナガシタバヨウジョウゴケ。细鳞苔科微小叶状苔类，附生于常绿树叶面及树皮（叶附生），须借放大镜方可见，形成淡绿色薄膜状群落。",
+      "habitat_hint": "照叶林内常绿树叶面、树皮、湿润荫处。",
+      "finding_tips": "全年可见；用放大镜观察常绿树叶面上淡绿色薄膜状群落。"
+    }
   }
 }
