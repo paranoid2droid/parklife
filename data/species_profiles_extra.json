@@ -215653,5 +215653,449 @@
       "habitat_hint": "山地谷地、溪流沿岸湿润林床、湿坡。",
       "finding_tips": "夏至秋于湿润谷地林床寻找二回羽状大叶及被毛的叶轴。"
     }
+  },
+  "Cardamine longifructus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニシノオオタネツケバナ。アブラナ科タネツケバナ属の越年草〜多年草で、山地の谷沿いや渓流沿い、湿った林縁、水辺に生える。羽状に分かれた葉をつけ、春に白い十字形の4弁花を咲かせ、細長い果実をつける。",
+      "habitat_hint": "山地の谷沿い、渓流沿い、湿った林縁、水辺、休耕田。",
+      "finding_tips": "3〜5月、羽状に分かれた葉と、白い十字形の4弁花、細長く伸びる果実を湿った場所で探します。"
+    },
+    "en": {
+      "summary": "A bittercress (Cardamine, Brassicaceae) of montane valleys, streamsides, damp woodland edges and watersides; it has pinnately divided leaves, white cross-shaped four-petalled flowers in spring and slender elongated pods.",
+      "habitat_hint": "Montane valleys, streamsides, damp woodland edges, watersides, fallow wet fields.",
+      "finding_tips": "In March–May look in damp places for the pinnately divided leaves, white cross-shaped flowers and slender elongating pods."
+    },
+    "zh": {
+      "summary": "ニシノオオタネツケバナ。十字花科碎米荠属二年生至多年生草本，生于山地谷地、溪流沿岸、湿润林缘与水边，叶羽状分裂，春开白色十字形四瓣花，果细长。",
+      "habitat_hint": "山地谷地、溪流沿岸、湿润林缘、水边、休耕田。",
+      "finding_tips": "3 至 5 月于湿处寻找羽状分裂叶、白色十字形四瓣花及细长伸展的果实。"
+    }
+  },
+  "Carex dissitiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマジュズスゲ。カヤツリグサ科スゲ属の多年草で、山地の落葉樹林の林床や沢沿い、やや湿った斜面に生える。細い茎に、まばらに間隔をあけて雌小穂をつける（数珠状）のが名の由来。",
+      "habitat_hint": "山地の落葉樹林の林床、沢沿い、やや湿った斜面、林縁。",
+      "finding_tips": "5〜7月、細い茎にまばらに間隔をあけてつく雌小穂を林床で探します。数珠のように見える点が手がかり。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Cyperaceae) of montane deciduous woodland floor, streamsides and damp slopes; slender stems bear female spikes spaced apart at intervals, like beads (source of the Japanese name).",
+      "habitat_hint": "Montane deciduous woodland floor, streamsides, damp slopes, woodland edges.",
+      "finding_tips": "In May–July look on the woodland floor for the female spikes spaced apart on slender stems, bead-like."
+    },
+    "zh": {
+      "summary": "ミヤマジュズスゲ。莎草科薹草属多年生草本，生于山地落叶林林床、沟谷及略湿坡地，细茎上雌小穗疏离间隔着生、状如串珠，故名。",
+      "habitat_hint": "山地落叶林林床、沟谷、略湿坡地、林缘。",
+      "finding_tips": "5 至 7 月于林床寻找细茎上疏离间隔、如串珠的雌小穗。"
+    }
+  },
+  "Cystotheca wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oak powdery mildew",
+    "ja": {
+      "summary": "カシ類紫かび病菌。うどんこ病菌の一種で、カシ・ナラなどブナ科の木の葉に寄生する。葉の表面に白い粉状の菌糸（うどんこ）が広がり、のちに紫色を帯びることがある。新葉や若枝によく出る。",
+      "habitat_hint": "カシ・ナラなどブナ科の木のある林縁、雑木林、公園、社寺林。",
+      "finding_tips": "初夏〜秋、カシ・ナラの葉の表面に広がる白い粉状の菌糸を探します。のちに紫色を帯びることがある。"
+    },
+    "en": {
+      "summary": "An oak powdery mildew (Erysiphaceae) parasitising the leaves of oaks and other Fagaceae; a white powdery mycelium spreads over the leaf surface, later sometimes tinged purple. Common on new leaves and shoots.",
+      "habitat_hint": "Woodland edges, secondary woodland, parks and shrine forest with oaks.",
+      "finding_tips": "From early summer to autumn look on oak leaves for the white powdery mycelium spreading over the surface; it may later turn purplish."
+    },
+    "zh": {
+      "summary": "カシ類紫かび病菌（栎白粉菌，Cystotheca wrightii）。白粉菌之一，寄生于栎、麻栎等壳斗科树叶，叶面铺展白色粉状菌丝，后或带紫色，多见于新叶与嫩枝。",
+      "habitat_hint": "有栎、麻栎等壳斗科树的林缘、杂木林、公园、社寺林。",
+      "finding_tips": "初夏至秋在栎叶表面寻找铺展的白色粉状菌丝；后或带紫色。"
+    }
+  },
+  "Dystaenia ibukiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セリモドキ。セリ科セリモドキ属の多年草で、山地の草地や林縁、やや湿った斜面に生える。大きな複散形花序に白い小花を多数つける。セリに似るが別属で、より大型。",
+      "habitat_hint": "山地の草地、林縁、やや湿った斜面、沢沿い。",
+      "finding_tips": "7〜9月、大きく傘状に広がる複散形花序に密につく白い小花を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Apiaceae) of montane grassland, woodland edges and damp slopes, bearing many small white flowers in a large compound umbel; it resembles Japanese parsley but is a separate, larger genus.",
+      "habitat_hint": "Montane grassland, woodland edges, damp slopes, streamsides.",
+      "finding_tips": "In July–September look for the many small white flowers packed in the large umbrella-shaped compound umbel."
+    },
+    "zh": {
+      "summary": "セリモドキ。伞形科多年生草本，生于山地草地、林缘与略湿坡地，大型复伞形花序密生白色小花，似水芹而为另属、更大。",
+      "habitat_hint": "山地草地、林缘、略湿坡地、沟谷。",
+      "finding_tips": "7 至 9 月寻找伞状展开的大型复伞形花序及其上密生的白色小花。"
+    }
+  },
+  "Elaphropus laetificus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヨツモンコミズギワゴミムシ。オサムシ科の小さな地表性甲虫で、河原や水田、湿地の水際の泥地や砂地にすむ。黒っぽい体に淡色の4つの紋が入る。素早く歩き回り、湿った地表で小動物を捕食する。",
+      "habitat_hint": "河原、水田、湿地の水際の泥地・砂地、池沼の縁。",
+      "finding_tips": "4〜10月、水際の泥地で素早く歩く小さな甲虫を探します。黒地に淡色の4つの紋が手がかり。"
+    },
+    "en": {
+      "summary": "A small ground beetle (Carabidae) of the wet mud and sand at the water's edge of riverbanks, paddy fields and wetlands; the dark body has four pale spots. It runs quickly over damp ground preying on small animals.",
+      "habitat_hint": "Wet mud and sand at water margins of riverbanks, paddies, wetlands, pond edges.",
+      "finding_tips": "From April to October look on waterside mud for the small quick-running beetle; the four pale spots on the dark body are the clue."
+    },
+    "zh": {
+      "summary": "ヨツモンコミズギワゴミムシ。步甲科小型地栖甲虫，栖于河滩、水田及湿地水边泥沙地，体暗色具四枚淡色斑，于湿润地面迅速游走捕食小动物。",
+      "habitat_hint": "河滩、水田、湿地水边泥沙地、池沼边缘。",
+      "finding_tips": "4 至 10 月于水边泥地寻找迅速游走的小型甲虫；暗底四枚淡斑为线索。"
+    }
+  },
+  "Eleocharis ussuriensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ussuri spikerush",
+    "ja": {
+      "summary": "オオヌマハリイ。カヤツリグサ科ハリイ属の多年草で、池沼の縁や湿地、水田、休耕田に群生する。葉はなく、緑の細い針状の茎を束にして立て、その先に褐色の小穂を1個つける。",
+      "habitat_hint": "池沼の縁、湿地、水田、休耕田、水路沿い。",
+      "finding_tips": "6〜9月、葉のない緑の針状の茎と、その先につく褐色の小穂を水辺で探します。"
+    },
+    "en": {
+      "summary": "Ussuri spikerush (Eleocharis ussuriensis). A perennial sedge (Cyperaceae) forming stands at pond margins, wetlands, paddy fields and fallow wet fields; leafless, it raises tufts of slender green needle-like stems each tipped with a single brown spikelet.",
+      "habitat_hint": "Pond margins, wetlands, paddy fields, fallow wet fields, along watercourses.",
+      "finding_tips": "In June–September look at the waterside for the leafless green needle-like stems each tipped with a single brown spikelet."
+    },
+    "zh": {
+      "summary": "オオヌマハリイ（乌苏里荸荠类，Eleocharis ussuriensis）。莎草科荸荠属多年生草本，成丛生于池沼边缘、湿地、水田及休耕田，无叶，绿色针状细茎丛立、顶生单枚褐色小穗。",
+      "habitat_hint": "池沼边缘、湿地、水田、休耕田、水道沿岸。",
+      "finding_tips": "6 至 9 月于水边寻找无叶的绿色针状茎及其顶端单枚褐色小穗。"
+    }
+  },
+  "Epilobium ciliatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カラフトアカバナ。アカバナ科アカバナ属の多年草で、道端や河川敷、湿った空き地、水辺に生える。細い茎を立て、対生する葉をつけ、夏〜秋に淡紅色の小さな4弁花を咲かせる。種子に長い毛があり風で散布される。",
+      "habitat_hint": "道端、河川敷、湿った空き地、水辺、造成地。",
+      "finding_tips": "7〜9月、細い茎と対生する葉、淡紅色の小さな4弁花を探します。種子の長い綿毛も手がかり。"
+    },
+    "en": {
+      "summary": "A willowherb (Epilobium, Onagraceae) of roadsides, riverbanks, damp waste ground and watersides; slender-stemmed with opposite leaves, it bears small pink four-petalled flowers in late summer to autumn, its long-hairy seeds dispersed by wind.",
+      "habitat_hint": "Roadsides, riverbanks, damp waste ground, watersides, made ground.",
+      "finding_tips": "In July–September look for the slender stems, opposite leaves and small pink four-petalled flowers; the long-plumed seeds are another clue."
+    },
+    "zh": {
+      "summary": "カラフトアカバナ。柳叶菜科柳叶菜属多年生草本，生于路旁、河滩、湿润空地与水边，茎细、叶对生，夏末至秋开淡红色四瓣小花，种子具长毛随风散布。",
+      "habitat_hint": "路旁、河滩、湿润空地、水边、造地。",
+      "finding_tips": "7 至 9 月寻找细茎、对生叶及淡红色四瓣小花；种子长毛亦为线索。"
+    }
+  },
+  "Hygrophila ringens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "水蓑衣"
+    },
+    "ja": {
+      "summary": "オギノツメ。キツネノマゴ科オギノツメ属の一〜多年草で、水田や湿地、溝の縁、水辺の湿地に生える。四角い茎に対生する細長い葉をつけ、葉腋に淡紫色の小さな唇形の花をつける。",
+      "habitat_hint": "水田、湿地、溝の縁、水辺の湿地、休耕田。",
+      "finding_tips": "8〜10月、四角い茎と対生する細長い葉、葉腋につく淡紫色の小さな唇形の花を水辺で探します。"
+    },
+    "en": {
+      "summary": "An annual to perennial (Acanthaceae) of paddy fields, wetlands, ditch margins and waterside marshes; the square stems bear narrow opposite leaves with small pale-purple two-lipped flowers in the leaf axils.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, waterside marshes, fallow wet fields.",
+      "finding_tips": "In August–October look at the waterside for the square stems, narrow opposite leaves and small pale-purple two-lipped axillary flowers."
+    },
+    "zh": {
+      "summary": "オギノツメ（水蓑衣，Hygrophila ringens）。爵床科水蓑衣属一至多年生草本，生于水田、湿地、沟缘及水边湿地，四棱茎对生狭长叶，叶腋着生淡紫色唇形小花。",
+      "habitat_hint": "水田、湿地、沟缘、水边湿地、休耕田。",
+      "finding_tips": "8 至 10 月于水边寻找四棱茎、对生狭长叶及叶腋淡紫色唇形小花。"
+    }
+  },
+  "Lamium galeobdolon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キバナオドリコソウ。ヨーロッパ原産のシソ科オドリコソウ属の多年草で、観賞用（グラウンドカバー）に栽培され、林縁や道端、庭に野生化する。地表を這う走出枝で広がり、春〜初夏に黄色い唇形の花を葉腋につける。斑入りの品種が多い。",
+      "habitat_hint": "林縁、道端、庭、公園、やや湿った半日陰。",
+      "finding_tips": "4〜6月、地表を這って広がる茎と、葉腋につく黄色い唇形の花を探します。斑入りの葉も手がかり。"
+    },
+    "en": {
+      "summary": "Yellow archangel (Lamium galeobdolon). A European perennial (Lamiaceae) grown as an ornamental groundcover and naturalised on woodland edges, roadsides and in gardens; it spreads by surface runners and bears yellow two-lipped flowers in the leaf axils in spring to early summer, often with variegated leaves.",
+      "habitat_hint": "Woodland edges, roadsides, gardens, parks, damp part-shade.",
+      "finding_tips": "In April–June look for the ground-creeping runners and the yellow two-lipped flowers in the leaf axils; variegated leaves are another clue."
+    },
+    "zh": {
+      "summary": "キバナオドリコソウ（小野芝麻类，Lamium galeobdolon）。原产欧洲的唇形科野芝麻属多年生草本，作观赏地被栽培并野化于林缘、路旁与庭园，借地表匍匐枝蔓延，春至初夏叶腋着生黄色唇形花，常具斑叶。",
+      "habitat_hint": "林缘、路旁、庭园、公园、略湿半荫处。",
+      "finding_tips": "4 至 6 月寻找地表匍匐枝及叶腋黄色唇形花；斑叶亦为线索。"
+    }
+  },
+  "Lejeunea compacta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コミミゴケ。クサリゴケ科の微小な葉状苔類で、湿った樹皮や岩、他のコケの上に淡緑色の薄いマットをつくって着生する。ルーペでようやく見える大きさ。",
+      "habitat_hint": "湿った樹皮、岩上、常緑樹林内、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。樹皮や岩に着生する淡緑の薄いマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Lejeuneaceae) growing as thin pale-green mats on damp bark, rock and over other bryophytes; barely visible without a lens.",
+      "habitat_hint": "Damp bark, rock, evergreen forest interior, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the thin pale-green mats on bark and rock."
+    },
+    "zh": {
+      "summary": "コミミゴケ。细鳞苔科微小叶状苔类，附生于湿润树皮、岩石及其他苔藓上，形成淡绿色薄垫，须借放大镜方可见。",
+      "habitat_hint": "湿润树皮、岩面、常绿林内、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察附生树皮岩石的淡绿薄垫。"
+    }
+  },
+  "Leptolejeunea elliptica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カビゴケ。クサリゴケ科の極めて微小な葉状苔類で、常緑樹の葉の上や樹皮に着生する（葉上生）。名のとおりカビのように薄く広がり、独特の香りを持つとされる。ルーペでようやく見える大きさ。",
+      "habitat_hint": "照葉樹林内の常緑樹の葉上、樹皮、湿った日陰。",
+      "finding_tips": "一年中見られます。常緑樹の葉表に薄く広がる極小の淡緑のコロニーをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Lejeuneaceae) epiphytic on the leaves and bark of evergreen trees (epiphyllous); it spreads thinly like mould (its Japanese name means \"mould moss\") and is said to have a distinctive scent. Barely visible without a lens.",
+      "habitat_hint": "Leaf surfaces and bark of evergreen trees in evergreen forest, damp shade.",
+      "finding_tips": "Present year-round; use a lens to spot the very thin pale-green colonies spreading over evergreen leaf surfaces."
+    },
+    "zh": {
+      "summary": "カビゴケ。细鳞苔科极微小的叶状苔类，附生于常绿树叶面及树皮（叶附生），薄展如霉（和名意为「霉苔」），据称具独特气味，须借放大镜方可见。",
+      "habitat_hint": "照叶林内常绿树叶面、树皮、湿润荫处。",
+      "finding_tips": "全年可见；用放大镜观察常绿树叶面上薄展的极小淡绿群落。"
+    }
+  },
+  "Lilium maculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スカシユリ。ユリ科ユリ属の多年草で、海岸の崖や岩場、砂地に生える。夏、上向きに開く朱赤色〜橙色の花を咲かせる。花被片の基部がすぼまって間が透けて見えるのが名の由来。園芸品種の親としても重要。",
+      "habitat_hint": "海岸の崖、岩場、砂地、海に近い草地。",
+      "finding_tips": "6〜7月、海岸の岩場で上向きに開く朱赤色〜橙色の花を探します。花被片の基部が透けて見える点が手がかり。"
+    },
+    "en": {
+      "summary": "A lily (Lilium maculatum, Liliaceae) of coastal cliffs, rocky ground and sand; in summer it opens upward-facing orange-red flowers, the tepal bases narrowed so gaps show between them (source of the Japanese name). An important parent of garden lilies.",
+      "habitat_hint": "Coastal cliffs, rocky ground, sand, grassland near the sea.",
+      "finding_tips": "In June–July look on coastal rocks for the upward-facing orange-red flowers; the gaps between the narrowed tepal bases are the clue."
+    },
+    "zh": {
+      "summary": "スカシユリ（透百合，Lilium maculatum）。百合科百合属多年生草本，生于海岸崖壁、岩地与沙地，夏季朝上开朱红至橙色花，花被片基部收窄、间可透视，故名，为园艺百合重要亲本。",
+      "habitat_hint": "海岸崖壁、岩地、沙地、近海草地。",
+      "finding_tips": "6 至 7 月于海岸岩地寻找朝上开放的朱红至橙色花；花被片基部间可透视为线索。"
+    }
+  },
+  "Limnophila aromatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シソクサ。オオバコ科（旧ゴマノハグサ科）シソクサ属の一年草で、水田や湿地、溝の縁に生える。もむとシソのような香りがするのが名の由来。細い茎に細長い葉をつけ、淡紅紫色の小さな唇形の花を咲かせる。東南アジアでは香草として利用される。",
+      "habitat_hint": "水田、湿地、溝の縁、休耕田、浅い水辺。",
+      "finding_tips": "8〜10月、もむとシソのような香りがする細長い葉と、淡紅紫色の小さな唇形の花を水田で探します。"
+    },
+    "en": {
+      "summary": "Rice paddy herb (Limnophila aromatica). An annual (Plantaginaceae, formerly Scrophulariaceae) of paddy fields, wetlands and ditch margins; crushed it smells of perilla (source of the Japanese name). Slender stems bear narrow leaves and small pale purple two-lipped flowers, and it is used as a herb in Southeast Asia.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, fallow wet fields, shallow water margins.",
+      "finding_tips": "In August–October look in paddies for the narrow leaves that smell of perilla when crushed and the small pale-purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "シソクサ（紫苏草／有腺石龙尾，Limnophila aromatica）。车前科（旧玄参科）石龙尾属一年生草本，生于水田、湿地与沟缘，揉之有紫苏香，故名，细茎狭长叶、开淡紫红色唇形小花，东南亚作香草食用。",
+      "habitat_hint": "水田、湿地、沟缘、休耕田、浅水边。",
+      "finding_tips": "8 至 10 月于水田寻找揉之有紫苏香的狭长叶及淡紫红色唇形小花。"
+    }
+  },
+  "Litsea cubeba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "May chang",
+    "aliases": {
+      "zh-Hans": "山鸡椒"
+    },
+    "ja": {
+      "summary": "アオモジ。クスノキ科ハマビワ属（旧アオモジ属）の落葉小高木で、暖地の林縁や谷沿い、伐採跡地に生える。若枝や葉、果実に芳香がある。早春、葉より先に淡黄色の小花を多数つける。果実から精油（メイチャン油）がとれる。",
+      "habitat_hint": "暖地の林縁、谷沿い、伐採跡地、明るい二次林。",
+      "finding_tips": "3〜4月、葉より先に咲く淡黄色の小花を探します。枝や葉、果実をもむと爽やかな芳香がする点が手がかり。"
+    },
+    "en": {
+      "summary": "May chang (Litsea cubeba). A deciduous small tree (Lauraceae) of warm-region woodland edges, valleys and clearings; its young shoots, leaves and fruit are aromatic. In early spring it bears many pale-yellow flowers before the leaves, and its fruit yields an essential oil (litsea/may chang oil).",
+      "habitat_hint": "Warm-region woodland edges, valleys, clearings, bright secondary forest.",
+      "finding_tips": "In March–April look for the many pale-yellow flowers opening before the leaves; crushed twigs, leaves and fruit have a fresh citrus-like scent."
+    },
+    "zh": {
+      "summary": "アオモジ（山鸡椒，Litsea cubeba）。樟科木姜子属落叶小乔木，生于暖地林缘、谷地与采伐迹地，嫩枝、叶与果实具芳香，早春先叶密生淡黄色小花，果实可提精油（山苍子油）。",
+      "habitat_hint": "暖地林缘、谷地、采伐迹地、明亮次生林。",
+      "finding_tips": "3 至 4 月寻找先叶开放的淡黄色小花；揉枝叶与果实有清爽芳香为线索。"
+    }
+  },
+  "Ludwigia ovalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oval-leaf water primrose",
+    "aliases": {
+      "zh-Hans": "卵叶丁香蓼"
+    },
+    "ja": {
+      "summary": "ミズユキノシタ。アカバナ科チョウジタデ属の水湿生の多年草で、池沼の縁や水田、溝、浅い水辺を這うように広がる。丸みのある小さな葉を互生し、水中では赤みを帯びる。目立たない小さな花をつける。",
+      "habitat_hint": "池沼の縁、水田、溝、浅い水辺、湿地。",
+      "finding_tips": "8〜10月、水辺や浅い水中を這う茎と、丸みのある小さな互生の葉（赤みを帯びる）を探します。"
+    },
+    "en": {
+      "summary": "Oval-leaf water primrose (Ludwigia ovalis). An aquatic-marsh perennial (Onagraceae) creeping over pond margins, paddy fields, ditches and shallow water; it has small rounded alternate leaves that redden underwater, with inconspicuous small flowers.",
+      "habitat_hint": "Pond margins, paddy fields, ditches, shallow water margins, wetlands.",
+      "finding_tips": "In August–October look for the creeping stems on water margins and the small rounded alternate leaves that flush red underwater."
+    },
+    "zh": {
+      "summary": "ミズユキノシタ（卵叶丁香蓼，Ludwigia ovalis）。柳叶菜科丁香蓼属水湿生多年生草本，匍匐于池沼边缘、水田、沟渠及浅水，叶小圆钝互生、沉水时带红，花小不显。",
+      "habitat_hint": "池沼边缘、水田、沟渠、浅水边、湿地。",
+      "finding_tips": "8 至 10 月于水边寻找匍匐茎及圆钝互生小叶（沉水带红）。"
+    }
+  },
+  "Luzula rufescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rusty woodrush",
+    "ja": {
+      "summary": "ヌカボシソウ。イグサ科スズメノヤリ属の多年草で、山地の林床や林縁、やや湿った草地に生える。細い葉の縁に長い白い毛があり、春、茶褐色を帯びた小さな花をまばらな花序につける。",
+      "habitat_hint": "山地の林床、林縁、やや湿った草地、道端。",
+      "finding_tips": "4〜6月、細い葉の縁の長い白毛と、茶褐色を帯びたまばらな花序を林床で探します。"
+    },
+    "en": {
+      "summary": "Rusty woodrush (Luzula rufescens). A perennial (Juncaceae) of montane woodland floor, edges and damp grassland; the narrow leaves have long white marginal hairs, and in spring it bears small brownish flowers in a sparse inflorescence.",
+      "habitat_hint": "Montane woodland floor, edges, damp grassland, roadsides.",
+      "finding_tips": "In April–June look on the woodland floor for the long white hairs on the narrow leaf margins and the sparse brownish inflorescence."
+    },
+    "zh": {
+      "summary": "ヌカボシソウ（锈色地杨梅类，Luzula rufescens）。灯心草科地杨梅属多年生草本，生于山地林床、林缘及略湿草地，叶缘具长白毛，春季稀疏花序着生带茶褐色的小花。",
+      "habitat_hint": "山地林床、林缘、略湿草地、路旁。",
+      "finding_tips": "4 至 6 月于林床寻找叶缘长白毛及带茶褐色的稀疏花序。"
+    }
+  },
+  "Neogalerucella calmariensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミソハギハムシ。ハムシ科の小さな甲虫で、ミソハギやエゾミソハギなどの湿地の植物の葉を食べる。成虫・幼虫ともに葉を食害し、欧米ではエゾミソハギ（外来侵入植物）の生物的防除に利用される。体は黄褐色で、上翅の縁が黒っぽい。",
+      "habitat_hint": "湿地、池沼の縁、河川敷などミソハギ類のある場所。",
+      "finding_tips": "5〜8月、ミソハギの葉の上や食害された葉を探し、黄褐色で縁が黒っぽい小さなハムシを見つけます。"
+    },
+    "en": {
+      "summary": "Black-margined loosestrife beetle (Neogalerucella calmariensis). A small leaf beetle (Chrysomelidae) that feeds on loosestrife (Lythrum) leaves; both adults and larvae eat the foliage, and it is used in the biological control of invasive purple loosestrife in Europe and North America. The body is yellow-brown with dark-margined elytra.",
+      "habitat_hint": "Wetlands, pond margins, riverbanks where loosestrife grows.",
+      "finding_tips": "In May–August look on loosestrife leaves and damaged foliage for the small yellow-brown beetle with dark elytral margins."
+    },
+    "zh": {
+      "summary": "ミソハギハムシ（黑缘千屈菜叶甲，Neogalerucella calmariensis）。叶甲科小型甲虫，取食千屈菜类叶片，成虫与幼虫皆食叶，在欧美用于防治入侵的紫千屈菜，体黄褐色、鞘翅边缘偏黑。",
+      "habitat_hint": "湿地、池沼边缘、河滩等有千屈菜类之处。",
+      "finding_tips": "5 至 8 月在千屈菜叶上及被食叶片寻找黄褐色、鞘翅缘偏黑的小型叶甲。"
+    }
+  },
+  "Neotrapezium liratum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bivalve",
+    "ja": {
+      "summary": "ウネナシトマヤガイ。フナガタガイ科の二枚貝で、内湾や河口の潮間帯の岩や石、他の貝殻などに足糸で付着してすむ。殻は台形〜四角形でやや膨らみ、褐色。潮間帯の岩の隙間などに群がる。",
+      "habitat_hint": "内湾・河口の潮間帯の岩、石、貝殻、岸壁。",
+      "finding_tips": "一年中、内湾や河口の潮間帯の岩の隙間で、足糸で付着する台形の褐色の二枚貝を探します。"
+    },
+    "en": {
+      "summary": "A bivalve (Trapezidae) of sheltered bays and estuaries, attaching by byssus to intertidal rocks, stones and other shells; the shell is trapezoidal to squarish, somewhat inflated and brown. It clusters in rock crevices of the intertidal zone.",
+      "habitat_hint": "Intertidal rocks, stones, shells and sea walls of sheltered bays and estuaries.",
+      "finding_tips": "Year-round in the intertidal of sheltered bays and estuaries look in rock crevices for the trapezoidal brown bivalve attached by byssus."
+    },
+    "zh": {
+      "summary": "ウネナシトマヤガイ（棱蛤类，Neotrapezium liratum）。棱蛤科双壳类，栖于内湾与河口潮间带，以足丝附着于岩石、石块及贝壳，壳梯形至方形、略膨、褐色，聚集于潮间带岩缝。",
+      "habitat_hint": "内湾与河口潮间带岩石、石块、贝壳、岸壁。",
+      "finding_tips": "全年于内湾河口潮间带岩缝中寻找以足丝附着的梯形褐色双壳贝。"
+    }
+  },
+  "Paris verticillata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whorled herb-paris",
+    "aliases": {
+      "zh-Hans": "北重楼"
+    },
+    "ja": {
+      "summary": "クルマバツクバネソウ。シュロソウ科（旧ユリ科）ツクバネソウ属の多年草で、山地の落葉樹林の林床や林縁に生える。茎の頂に6〜8枚の葉を車輪状に輪生し、その中心から緑色の目立たない花を1個立てる。秋に黒紫色の果実をつける。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った腐植土。",
+      "finding_tips": "5〜6月、茎の頂に車輪状に輪生する6〜8枚の葉と、その中心の緑色の花を林床で探します。"
+    },
+    "en": {
+      "summary": "Whorled herb-paris (Paris verticillata). A perennial (Melanthiaceae, formerly Liliaceae) of montane deciduous woodland floor and edges; six to eight leaves are borne in a wheel-like whorl at the stem top, from which a single inconspicuous green flower rises, followed by blackish-purple fruit in autumn.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, damp humus.",
+      "finding_tips": "In May–June look on the woodland floor for the wheel-like whorl of six to eight leaves and the single green flower at its centre."
+    },
+    "zh": {
+      "summary": "クルマバツクバネソウ（北重楼，Paris verticillata）。藜芦科（旧百合科）重楼属多年生草本，生于山地落叶林林床与林缘，茎顶六至八枚叶轮生如轮，中央抽出单朵绿色不显花，秋结黑紫色果。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿腐殖土。",
+      "finding_tips": "5 至 6 月于林床寻找茎顶六至八枚轮生如轮的叶及中央的绿色花。"
+    }
+  },
+  "Premna microphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tofu tree",
+    "aliases": {
+      "zh-Hans": "豆腐柴"
+    },
+    "ja": {
+      "summary": "ハマクサギ。シソ科（旧クマツヅラ科）ハマクサギ属の落葉低木〜小高木で、暖地の海岸近くの林や崖、林縁に生える。葉をもむと独特の臭気がある。初夏、淡黄白色の小花を集めて咲かせ、黒い果実をつける。中国では葉から「観音豆腐」を作る。",
+      "habitat_hint": "暖地の海岸近くの林、崖、林縁、社寺林。",
+      "finding_tips": "5〜6月、淡黄白色の小花の集まりと、もむと臭気のある葉を海岸近くで探します。"
+    },
+    "en": {
+      "summary": "Tofu tree (Premna microphylla). A deciduous shrub to small tree (Lamiaceae, formerly Verbenaceae) of coastal woods, cliffs and woodland edges in warm regions; the leaves have a distinctive smell when crushed. In early summer it bears clusters of pale yellow-white flowers and black fruit, and in China a green \"tofu\" is made from the leaves.",
+      "habitat_hint": "Coastal woods, cliffs, woodland edges, shrine forest in warm regions.",
+      "finding_tips": "In May–June near the coast look for the clusters of pale yellow-white flowers and the leaves with a distinctive smell when crushed."
+    },
+    "zh": {
+      "summary": "ハマクサギ（豆腐柴，Premna microphylla）。唇形科（旧马鞭草科）豆腐柴属落叶灌木至小乔木，生于暖地近海林、崖壁与林缘，叶揉之有特殊气味，初夏聚生淡黄白色小花、结黑色果，中国以其叶制「观音豆腐」。",
+      "habitat_hint": "暖地近海林、崖壁、林缘、社寺林。",
+      "finding_tips": "5 至 6 月于近海处寻找淡黄白色小花的聚集及揉之有特殊气味的叶。"
+    }
   }
 }
