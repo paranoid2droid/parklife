@@ -209836,5 +209836,406 @@
       "habitat_hint": "阔叶树枯木、倒木、落枝下面，树皮表面，杂木林。",
       "finding_tips": "全年可见，于阔叶枯枝倒木下面寻找白至淡黄褐色、膜质至革质平铺的子实层；不生盖而贴树皮平伏为线索，表面略粒状至皱。"
     }
+  },
+  "Carex arenicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sand sedge",
+    "ja": {
+      "summary": "クロカワズスゲ。北海道〜本州の湿った草地や砂質地に生えるカヤツリグサ科スゲ属の多年草。細い匐枝で群生し、黒褐色を帯びた小穂をつける。",
+      "habitat_hint": "湿地の縁、河原の砂地、日当たりのよい湿った草原。",
+      "finding_tips": "5〜6月、株元から立つ穂を探します。小穂が黒っぽく密集し、細長い葉が束生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Sand sedge (Carex arenicola). A tufted perennial sedge of moist grassland and sandy ground from Hokkaido to Honshu, spreading by slender runners and bearing dark-tinged spikelets.",
+      "habitat_hint": "Wetland margins, sandy riverbanks, sunny damp meadows.",
+      "finding_tips": "In May–June look for the erect flowering culms; the crowded blackish spikelets and narrow tufted leaves are the clue."
+    },
+    "zh": {
+      "summary": "クロカワズスゲ（黑苔草类）。北海道至本州湿润草地与沙质地的莎草科薹草属多年生草本，以细匍匐茎成丛生长，小穗带黑褐色。",
+      "habitat_hint": "湿地边缘、河滩沙地、向阳的湿润草甸。",
+      "finding_tips": "5 至 6 月寻找直立花秆；小穗黑而密集、叶片细长束生为辨识要点。"
+    }
+  },
+  "Cololejeunea japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese cololejeunea",
+    "ja": {
+      "summary": "ヤマトヨウジョウゴケ。クサリゴケ科の微小な葉状の苔類（タイ類）で、樹皮や常緑樹の葉の上に薄く付着して育つ着生植物。ルーペでないと構造が見えないほど小さい。",
+      "habitat_hint": "照葉樹林内の樹皮や葉上、湿った日陰。",
+      "finding_tips": "一年中見られます。常緑樹の葉表に広がる淡緑色の薄い膜状のコロニーをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Lejeuneaceae) that grows as a thin epiphyte on bark and on the leaves of evergreen trees. Its structure is only visible with a hand lens.",
+      "habitat_hint": "Bark and leaf surfaces in evergreen broadleaf forest, damp shade.",
+      "finding_tips": "Present year-round; use a lens to spot the pale-green film-like colonies spreading over evergreen leaf surfaces."
+    },
+    "zh": {
+      "summary": "ヤマトヨウジョウゴケ（日本疣鳞苔）。细鳞苔科的微小叶状苔类，附生于常绿树树皮及叶面，形成薄膜状群落，需借助放大镜方能看清结构。",
+      "habitat_hint": "照叶林内树皮与叶面、潮湿荫处。",
+      "finding_tips": "全年可见；用放大镜观察常绿树叶面上淡绿色的薄膜状群落。"
+    }
+  },
+  "Sahashia stricta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Straight grape-fern",
+    "ja": {
+      "summary": "ナガボノナツノハナワラビ。ハナワラビ科の夏緑性シダで、夏に細長い胞子葉（花のように見える穂）を立てる。栄養葉は地面近くに広がる。",
+      "habitat_hint": "落葉樹林の林床、林縁の湿った草地。",
+      "finding_tips": "夏〜秋、直立する細長い胞子穂を探します。栄養葉と胞子葉が分かれる点がハナワラビ類の特徴。"
+    },
+    "en": {
+      "summary": "A summer-green grape-fern (Ophioglossaceae) that raises a slender fertile spike in summer while the sterile blade spreads near the ground.",
+      "habitat_hint": "Floor of deciduous woodland, damp grassy woodland edges.",
+      "finding_tips": "In summer–autumn look for the erect slender fertile spike; separate sterile and fertile fronds mark the grape-ferns."
+    },
+    "zh": {
+      "summary": "ナガボノナツノハナワラビ（长穗夏阴地蕨）。阴地蕨科夏绿性蕨类，夏季抽出细长的孢子叶穗，营养叶贴近地面伸展。",
+      "habitat_hint": "落叶林林床、林缘湿润草地。",
+      "finding_tips": "夏至秋寻找直立细长的孢子穗；营养叶与孢子叶分离为阴地蕨类特征。"
+    }
+  },
+  "Dicephalospora rufocornea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange bonfire disco",
+    "ja": {
+      "summary": "ニセキンカクアカビョウタケ。ビョウタケ科の小さな子嚢菌で、落枝や落葉の上に橙色〜黄橙色の柄付きの盤（子実体）を群生させる。径は数mmほど。",
+      "habitat_hint": "湿った林床の落枝・腐った枝上、梅雨〜秋。",
+      "finding_tips": "6〜10月、朽ちた枝の上のオレンジ色で細い柄のある小さな椀形のキノコを探します。"
+    },
+    "en": {
+      "summary": "A small ascomycete disco-fungus (Sclerotiniaceae) that forms clusters of orange to yellow-orange stalked cups a few millimetres across on fallen twigs and leaves.",
+      "habitat_hint": "Rotting twigs and litter on damp forest floor, rainy season to autumn.",
+      "finding_tips": "From June to October look on decaying twigs for the tiny orange bowl-shaped fruitbodies on slender stalks."
+    },
+    "zh": {
+      "summary": "ニセキンカクアカビョウタケ。核盘菌科的小型子囊菌，于落枝落叶上丛生橙色至黄橙色具柄小盘（子实体），直径仅数毫米。",
+      "habitat_hint": "潮湿林床的腐枝与落叶上，梅雨至秋季。",
+      "finding_tips": "6 至 10 月在腐枝上寻找橙色、具细柄的小碗状子实体。"
+    }
+  },
+  "Lejeunea japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese lejeunea",
+    "ja": {
+      "summary": "ヤマトコミミゴケ。クサリゴケ科の微小な葉状苔類で、樹皮や岩、他のコケの上に淡緑色の薄いマットをつくって着生する。",
+      "habitat_hint": "湿った樹皮、岩上、日陰の林内。",
+      "finding_tips": "一年中見られます。樹幹の陰面に広がる細かな淡緑のコケをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Lejeuneaceae) forming thin pale-green mats on bark, rock and over other bryophytes.",
+      "habitat_hint": "Damp bark, rock surfaces, shaded forest interior.",
+      "finding_tips": "Present year-round; use a lens to check the fine pale-green film on the shaded side of tree trunks."
+    },
+    "zh": {
+      "summary": "ヤマトコミミゴケ（日本细鳞苔）。细鳞苔科微小叶状苔类，附生于树皮、岩石及其他苔藓上，形成淡绿色薄垫。",
+      "habitat_hint": "潮湿树皮、岩面、荫蔽林内。",
+      "finding_tips": "全年可见；用放大镜观察树干背阴面细密的淡绿色苔层。"
+    }
+  },
+  "Haplocladium angustifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Narrow-leaved haplocladium moss",
+    "ja": {
+      "summary": "ノミハニワゴケ。シノブゴケ科の小さな蘚類で、地表や石垣、樹の根元などに羽状に細かく枝分かれしたマットをつくる、都市でもよく見られる普通種。",
+      "habitat_hint": "土の上、石垣、コンクリート際、樹幹の根元。人里にも多い。",
+      "finding_tips": "一年中見られます。細かく羽状に枝分かれした緑のマットを地面や石の上で探します。"
+    },
+    "en": {
+      "summary": "A small pleurocarpous moss (Thuidiaceae) forming finely pinnately branched mats on soil, stone walls and tree bases; a common species even in towns.",
+      "habitat_hint": "Bare soil, stone walls, concrete edges, tree bases — common near habitation.",
+      "finding_tips": "Present year-round; look for the finely pinnate green mats on ground and stones."
+    },
+    "zh": {
+      "summary": "ノミハニワゴケ（狭叶小羽藓）。羽藓科小型藓类，于地表、石墙及树基形成细密羽状分枝的垫状群落，城市中亦常见。",
+      "habitat_hint": "裸土、石墙、混凝土边缘、树基；人居环境常见。",
+      "finding_tips": "全年可见；在地面与石上寻找细密羽状分枝的绿色藓垫。"
+    }
+  },
+  "Cephalozia hamatiloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hooked pincerwort",
+    "ja": {
+      "summary": "オタルヤバネゴケ。ヤバネゴケ科の小さな葉状苔類で、腐木や湿った土、他のコケの間に細い茎をのばして生える。葉は深く2裂する。",
+      "habitat_hint": "湿った腐木、林床の土、泥炭地。",
+      "finding_tips": "一年中見られます。朽木の上の細く繊細な淡緑の苔をルーペで確認し、深く2裂する葉を探します。"
+    },
+    "en": {
+      "summary": "A small leafy liverwort (Cephaloziaceae) with slender stems creeping over rotten wood, damp soil and among other mosses; its leaves are deeply two-lobed.",
+      "habitat_hint": "Damp rotting wood, forest-floor soil, peaty ground.",
+      "finding_tips": "Present year-round; use a lens on decaying wood to find the fine pale-green shoots with deeply bilobed leaves."
+    },
+    "zh": {
+      "summary": "オタルヤバネゴケ（钩瓣大萼苔）。大萼苔科小型叶状苔类，细茎匍匐于腐木、湿土及其他苔藓间，叶片深二裂。",
+      "habitat_hint": "潮湿腐木、林床土壤、泥炭地。",
+      "finding_tips": "全年可见；用放大镜在腐木上寻找细弱淡绿的茎叶及深二裂的叶片。"
+    }
+  },
+  "Rosulabryum capillare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハリガネゴケ。ハリガネゴケ科の普通の蘚類で、世界に広く分布する。地上や石垣、樹の根元にクッション状の群落をつくり、葉先が細くねじれる。",
+      "habitat_hint": "土の上、石垣、コンクリート、樹幹の基部。都市でも普通。",
+      "finding_tips": "一年中見られます。乾くと葉が茎に巻きつき、湿ると開く様子と、赤みを帯びた細い蒴柄を探します。"
+    },
+    "en": {
+      "summary": "Capillary thread-moss (Rosulabryum capillare). A common, near-cosmopolitan moss forming cushions on soil, walls and tree bases, with narrowly pointed, twisting leaf tips.",
+      "habitat_hint": "Soil, stone walls, concrete, tree bases — common even in cities.",
+      "finding_tips": "Present year-round; note how leaves twist round the stem when dry and spread when wet, and look for the slender reddish seta."
+    },
+    "zh": {
+      "summary": "ハリガネゴケ（毛状真藓）。真藓科常见藓类，近世界广布，于土面、石墙及树基形成垫状群落，叶尖细长而扭卷。",
+      "habitat_hint": "土面、石墙、混凝土、树基；城市中亦普遍。",
+      "finding_tips": "全年可见；注意叶片干时缠绕茎、湿时展开，并寻找带红色的细蒴柄。"
+    }
+  },
+  "Bazzania pompeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whip liverwort",
+    "ja": {
+      "summary": "ムチゴケ。ムチゴケ科の葉状苔類で、林床や腐木、岩上に厚いマットをつくる。茎から鞭のように下垂する無葉の枝（鞭状枝）を出すのが名の由来。",
+      "habitat_hint": "湿った林床、腐木、岩上、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。3列に並ぶ葉と、茎の下面から垂れる白っぽい鞭状枝を探します。"
+    },
+    "en": {
+      "summary": "Whip liverwort (Bazzania pompeana). A leafy liverwort (Lepidoziaceae) forming thick mats on forest floor, rotten wood and rock; named for the whip-like leafless flagella hanging from the stems.",
+      "habitat_hint": "Damp forest floor, rotten wood, rock, shaded streamsides.",
+      "finding_tips": "Present year-round; look for the three ranks of leaves and the pale whip-like flagella dangling from the underside of stems."
+    },
+    "zh": {
+      "summary": "ムチゴケ（鞭鳞苔类，Bazzania pompeana）。指叶苔科叶状苔类，于林床、腐木及岩面形成厚垫，茎下垂出鞭状无叶枝，故名。",
+      "habitat_hint": "潮湿林床、腐木、岩面、溪流荫处。",
+      "finding_tips": "全年可见；寻找三列排列的叶片及茎下面垂下的淡色鞭状枝。"
+    }
+  },
+  "Bromus carinatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤクナガイヌムギ。北アメリカ原産のイネ科スズメノチャヒキ属の帰化植物で、道端や河川敷、造成地に生える。大きく垂れる小穂と長い芒（のぎ）が目立つ。",
+      "habitat_hint": "道端、河川敷、荒れ地、造成地。日当たりのよい場所。",
+      "finding_tips": "5〜7月、大きく扁平な小穂と長い芒をもつ穂を探します。イヌムギに似るが芒が長い。"
+    },
+    "en": {
+      "summary": "California brome (Bromus carinatus). A North American grass naturalised in Japan along roadsides, riverbanks and disturbed ground, with large drooping spikelets and long awns.",
+      "habitat_hint": "Roadsides, riverbanks, waste and made ground in sunny spots.",
+      "finding_tips": "In May–July look for the large flattened spikelets with long awns; like rescue brome but longer-awned."
+    },
+    "zh": {
+      "summary": "ヤクナガイヌムギ（脊喙雀麦）。原产北美的禾本科雀麦属归化植物，见于路旁、河滩与造地，小穗大而下垂、芒长明显。",
+      "habitat_hint": "路旁、河滩、荒地、造地；向阳处。",
+      "finding_tips": "5 至 7 月寻找大而扁平、具长芒的小穗；似扁穗雀麦但芒更长。"
+    }
+  },
+  "Helianthus strumosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌキクイモ。北アメリカ原産のキク科ヒマワリ属の多年草で、キクイモに似るが塊茎はできない。夏〜秋に黄色い頭花を多数つけ、河川敷や空き地に野生化する。",
+      "habitat_hint": "河川敷、空き地、道端、林縁の日当たりのよい場所。",
+      "finding_tips": "7〜10月、キクイモに似た黄色い花を探します。地下に塊茎ができない点でキクイモと区別。"
+    },
+    "en": {
+      "summary": "Paleleaf woodland sunflower (Helianthus strumosus). A North American perennial sunflower naturalised in Japan; resembles Jerusalem artichoke but forms no tubers, bearing many yellow flowerheads in late summer to autumn.",
+      "habitat_hint": "Riverbanks, vacant lots, roadsides, sunny woodland edges.",
+      "finding_tips": "From July to October look for the Jerusalem-artichoke-like yellow flowers; the lack of tubers distinguishes it."
+    },
+    "zh": {
+      "summary": "イヌキクイモ（糙叶向日葵）。原产北美的菊科向日葵属多年生草本，形似菊芋但不结块茎，夏末至秋开多数黄色头状花序，野化于河滩、空地。",
+      "habitat_hint": "河滩、空地、路旁、向阳林缘。",
+      "finding_tips": "7 至 10 月寻找似菊芋的黄花；地下不结块茎可与菊芋区别。"
+    }
+  },
+  "Rhododendron albrechtii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Albrecht's azalea",
+    "ja": {
+      "summary": "ムラサキヤシオ。ツツジ科の落葉低木で、北海道〜本州中部の山地林内に生える。春、葉が展開する前後に鮮やかな紅紫色の花を開く美しいツツジ。",
+      "habitat_hint": "山地の落葉樹林内、亜高山帯の林縁、湿り気のある斜面。",
+      "finding_tips": "5〜6月、山地の林内で葉に先立って開く紅紫色の花を探します。花は5裂し上側に濃い斑点。"
+    },
+    "en": {
+      "summary": "Albrecht's azalea (Rhododendron albrechtii). A deciduous shrub of montane forests from Hokkaido to central Honshu, bearing vivid rose-purple flowers around leaf-out in spring.",
+      "habitat_hint": "Montane deciduous forest, subalpine woodland edges, moist slopes.",
+      "finding_tips": "In May–June look in mountain woodland for the rose-purple flowers opening near leaf-out; the five-lobed corolla has darker spots on the upper side."
+    },
+    "zh": {
+      "summary": "ムラサキヤシオ（紫八汐杜鹃，Rhododendron albrechtii）。杜鹃花科落叶灌木，生于北海道至本州中部山地林内，春季展叶前后开鲜艳的玫紫色花。",
+      "habitat_hint": "山地落叶林内、亚高山林缘、湿润坡地。",
+      "finding_tips": "5 至 6 月在山地林内寻找先叶或与叶同放的玫紫色花；花冠五裂、上侧具深色斑点。"
+    }
+  },
+  "Scapania ligulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tongue-leaved scapania",
+    "ja": {
+      "summary": "チャボヒシャクゴケ。ヒシャクゴケ科の葉状苔類で、湿った岩上や土、渓流沿いに小さな群落をつくる。葉が上下不等の2裂片に折れ、柄杓（ひしゃく）状に見えるのが特徴。",
+      "habitat_hint": "渓流沿いの湿った岩、林床の土、しみ出し水のある斜面。",
+      "finding_tips": "一年中見られます。折りたたまれ大小2裂片になる特徴的な葉をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Scapaniaceae) forming small colonies on damp rock, soil and along streams. Its leaves are folded into unequal upper and lower lobes, giving a scoop-like look.",
+      "habitat_hint": "Damp streamside rock, forest-floor soil, seepage slopes.",
+      "finding_tips": "Present year-round; use a lens to check the diagnostic leaves folded into a smaller upper and larger lower lobe."
+    },
+    "zh": {
+      "summary": "チャボヒシャクゴケ（舌叶合叶苔）。合叶苔科叶状苔类，于湿岩、土面及溪流沿岸形成小群落，叶折为大小不等的上下两裂片，似瓢状。",
+      "habitat_hint": "溪流沿岸湿岩、林床土壤、渗水坡地。",
+      "finding_tips": "全年可见；用放大镜观察折叠成上小下大两裂片的特征叶片。"
+    }
+  },
+  "Triodanis biflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Venus's looking-glass",
+    "aliases": {
+      "zh-Hans": "异檐花"
+    },
+    "ja": {
+      "summary": "ヒナキキョウソウ。北アメリカ原産のキキョウ科の一年草で、道端や芝地に帰化する。茎の上部にだけ紫色の小さな花をつけ、下部の花は閉じたまま結実する（閉鎖花）。",
+      "habitat_hint": "道端、芝生、空き地、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜6月、茎の上部に開く星形の紫色の小花を探します。近縁のキキョウソウより花が少なく茎上部に限られる。"
+    },
+    "en": {
+      "summary": "Small Venus's looking-glass (Triodanis biflora). A North American annual (Campanulaceae) naturalised along roadsides and lawns; only the upper stem bears open purple flowers while lower ones set seed closed (cleistogamous).",
+      "habitat_hint": "Roadsides, lawns, vacant lots, made ground in sun.",
+      "finding_tips": "In May–June look for the small star-shaped purple flowers near the stem top; fewer and higher than in clasping Venus's looking-glass."
+    },
+    "zh": {
+      "summary": "ヒナキキョウソウ（异檐花）。原产北美的桔梗科一年生草本，归化于路旁与草坪；仅茎上部开紫色小花，下部为闭花受精而结实。",
+      "habitat_hint": "路旁、草坪、空地、造地向阳处。",
+      "finding_tips": "5 至 6 月于茎上部寻找星状紫色小花；花较近缘种少且集中于茎顶。"
+    }
+  },
+  "Venturiella sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒナノハイゴケ。ハイヒモゴケ科（エルポディウム科）の小さな蘚類で、樹皮や石垣上に小さなマットをつくる。乾湿で姿を変え、都市の街路樹の幹などにも見られる。",
+      "habitat_hint": "街路樹や庭木の樹皮、石垣、コンクリート。",
+      "finding_tips": "一年中見られます。樹幹に付く小さな緑のマットと、乾くと葉が茎に密着する様子を探します。"
+    },
+    "en": {
+      "summary": "China venturiella moss (Venturiella sinensis). A small moss (Erpodiaceae) forming little mats on bark and stone walls; it changes shape with moisture and occurs even on street-tree trunks in towns.",
+      "habitat_hint": "Bark of street and garden trees, stone walls, concrete.",
+      "finding_tips": "Present year-round; look for small green mats on trunks and note how the leaves press to the stem when dry."
+    },
+    "zh": {
+      "summary": "ヒナノハイゴケ（中华毛柄藓，Venturiella sinensis）。指叶藓类近缘的小型藓类（管口藓科），于树皮及石墙上形成小垫，随干湿变形，城市行道树干上亦可见。",
+      "habitat_hint": "行道树与庭园树树皮、石墙、混凝土。",
+      "finding_tips": "全年可见；在树干上寻找小型绿垫，注意干燥时叶片贴茎。"
+    }
+  },
+  "Viola selkirkii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Great-spurred violet",
+    "aliases": {
+      "zh-Hans": "深山堇菜"
+    },
+    "ja": {
+      "summary": "ミヤマスミレ。北半球に広く分布するスミレ科の多年草で、山地の落葉樹林内に生える。淡紅紫色の花をつけ、距（きょ）が太く長いのが特徴。",
+      "habitat_hint": "山地の落葉樹林の林床、沢沿いの湿った腐植土。",
+      "finding_tips": "4〜5月、林床で淡紅紫色の花を探します。花の後ろに突き出す太く長い距が識別ポイント。"
+    },
+    "en": {
+      "summary": "Great-spurred violet (Viola selkirkii). A widespread Northern-Hemisphere perennial (Violaceae) of montane deciduous woodland, with pale rose-purple flowers and a distinctively stout, long spur.",
+      "habitat_hint": "Floor of montane deciduous forest, damp humus along streams.",
+      "finding_tips": "In April–May look on the woodland floor for the pale rose-purple flowers; the thick, long spur behind the flower is diagnostic."
+    },
+    "zh": {
+      "summary": "ミヤマスミレ（深山堇菜）。堇菜科多年生草本，广布北半球，生于山地落叶林内，花淡红紫色，距粗而长为其特征。",
+      "habitat_hint": "山地落叶林林床、沟谷湿润腐殖土。",
+      "finding_tips": "4 至 5 月于林床寻找淡红紫色花；花后粗长的距为辨识要点。"
+    }
+  },
+  "Agrostis scabra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rough bentgrass",
+    "ja": {
+      "summary": "エゾヌカボ。イネ科ヌカボ属の多年草で、北海道〜本州の湿った草地や道端に生える。糸のように細い枝を大きく広げた円錐花序が、風にそよぐと霞のように見える。",
+      "habitat_hint": "湿った草地、道端、河川敷、砂礫地。",
+      "finding_tips": "6〜8月、糸状に細く大きく広がる花序を探します。触れると全体がふわりと霞んで見える。"
+    },
+    "en": {
+      "summary": "Rough bentgrass (Agrostis scabra). A perennial grass of damp meadows and roadsides from Hokkaido to Honshu, with an airy panicle of thread-like branches that shimmers in the wind.",
+      "habitat_hint": "Damp grassland, roadsides, riverbanks, gravelly ground.",
+      "finding_tips": "In June–August look for the widely spreading, hair-fine panicle that gives a hazy, cloud-like look."
+    },
+    "zh": {
+      "summary": "エゾヌカボ（糙剪股颖，Agrostis scabra）。禾本科剪股颖属多年生草本，生于北海道至本州湿润草地与路旁，圆锥花序枝纤细如丝、大展如烟。",
+      "habitat_hint": "湿润草地、路旁、河滩、砂砾地。",
+      "finding_tips": "6 至 8 月寻找纤细如丝、大幅展开的花序，整体呈朦胧云雾状。"
+    }
+  },
+  "Cyperus pilosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy flatsedge",
+    "aliases": {
+      "zh-Hans": "毛轴莎草"
+    },
+    "ja": {
+      "summary": "オニガヤツリ。カヤツリグサ科カヤツリグサ属の多年草で、水田や湿地、溝の縁など湿った場所に生える。花序の枝（花序軸）に短い毛があり、褐色の小穂を放射状につける。",
+      "habitat_hint": "水田、湿地、溝や池の縁、湿った空き地。",
+      "finding_tips": "8〜10月、放射状に広がる褐色の小穂と、ざらつく（有毛の）花序枝を探します。"
+    },
+    "en": {
+      "summary": "Hairy flatsedge (Cyperus pilosus). A perennial sedge of paddy fields, wetlands and ditch margins; its inflorescence rays are shortly hairy and bear radiating brown spikelets.",
+      "habitat_hint": "Paddy fields, wetlands, ditch and pond margins, damp waste ground.",
+      "finding_tips": "In August–October look for the radiating brown spikelets and the rough, hairy inflorescence rays."
+    },
+    "zh": {
+      "summary": "オニガヤツリ（毛轴莎草）。莎草科莎草属多年生草本，生于水田、湿地及沟缘等湿处，花序轴具短毛，褐色小穗呈放射状排列。",
+      "habitat_hint": "水田、湿地、沟渠与池塘边缘、湿润空地。",
+      "finding_tips": "8 至 10 月寻找放射状褐色小穗及具毛而粗糙的花序轴。"
+    }
   }
 }
