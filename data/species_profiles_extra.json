@@ -210996,5 +210996,436 @@
       "habitat_hint": "河口、海岸、水田、湿润盐碱地、沟缘。",
       "finding_tips": "8 至 10 月寻找细长穗状分枝上密生的具芒小穗。"
     }
+  },
+  "Coryphopteris nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケヒメシダ。ヒメシダ科の夏緑性シダで、山地の林床や沢沿いの湿った斜面に生える。葉軸や羽片に毛が多いのが名の由来（ケ＝毛）。",
+      "habitat_hint": "山地の落葉樹林の林床、沢沿いの湿った斜面。",
+      "finding_tips": "夏〜秋、束生する羽状の葉を探します。葉軸や羽片に毛が多い点が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A summer-green fern (Thelypteridaceae) of montane woodland floor and damp streamside slopes, notably hairy on the rachis and pinnae.",
+      "habitat_hint": "Floor of montane deciduous forest, damp streamside slopes.",
+      "finding_tips": "In summer–autumn look for the tufted pinnate fronds; the abundant hairs on rachis and pinnae are the clue."
+    },
+    "zh": {
+      "summary": "ケヒメシダ。金星蕨科夏绿性蕨类，生于山地林床与沟谷湿润坡地，叶轴与羽片被毛较多，故名。",
+      "habitat_hint": "山地落叶林林床、沟谷湿润坡地。",
+      "finding_tips": "夏至秋寻找丛生羽状叶；叶轴与羽片多毛为辨识线索。"
+    }
+  },
+  "Heteroscyphus coalitus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオウロコゴケ。ウロコゴケ科の葉状苔類で、湿った林床の土や腐木、岩上に淡緑のマットをつくる。葉は方形に近く、茎に規則正しく並ぶ。",
+      "habitat_hint": "湿った林床の土、腐木、岩上、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。茎に規則正しく並ぶ方形に近い葉を、ルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Lophocoleaceae) forming pale-green mats on damp woodland soil, rotten wood and rock; its near-squarish leaves are set in regular ranks along the stem.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the near-squarish leaves arranged in regular ranks along the stem."
+    },
+    "zh": {
+      "summary": "オオウロコゴケ（大异萼苔类，Heteroscyphus coalitus）。齿萼苔科叶状苔类，于湿润林床土壤、腐木及岩面形成淡绿色垫，叶近方形、沿茎规则排列。",
+      "habitat_hint": "湿润林床土壤、腐木、岩面、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察沿茎规则排列的近方形叶片。"
+    }
+  },
+  "Oxyrrhynchium savatieri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメナギゴケ。アオギヌゴケ科の小さな蘚類で、湿った岩や土、樹の根元、石垣に薄い緑のマットをつくる。渓流沿いや日陰の湿った環境に多い。",
+      "habitat_hint": "湿った岩、土、樹幹の基部、石垣、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。湿った岩や石垣に広がる薄い緑のマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small pleurocarpous moss (Brachytheciaceae) forming thin green mats on damp rock, soil, tree bases and stone walls, common in shaded moist places along streams.",
+      "habitat_hint": "Damp rock, soil, tree bases, stone walls, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the thin green mats spreading over damp rock and walls."
+    },
+    "zh": {
+      "summary": "ヒメナギゴケ。青藓科小型藓类，于湿岩、土面、树基及石墙形成薄绿垫，多见于溪流沿岸荫湿处。",
+      "habitat_hint": "湿岩、土面、树基、石墙、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察湿岩与石墙上铺展的薄绿藓垫。"
+    }
+  },
+  "Arenaria leptoclados": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ネバリノミノツヅリ。ナデシコ科の小さな一〜越年草で、道端や畑、芝地に生える。全体に腺毛があってやや粘り、白い小さな5弁の花を咲かせる。ノミノツヅリに似るがより細く小さい。",
+      "habitat_hint": "道端、畑、芝地、造成地の日当たりのよい場所。",
+      "finding_tips": "4〜6月、腺毛でやや粘る細い茎と、白い小さな5弁花を探します。"
+    },
+    "en": {
+      "summary": "Slender sandwort (Arenaria leptoclados). A small annual to biennial (Caryophyllaceae) of roadsides, fields and lawns; slightly sticky with glandular hairs, it bears tiny white five-petalled flowers, finer and smaller than thyme-leaved sandwort.",
+      "habitat_hint": "Roadsides, fields, lawns, made ground in sunny places.",
+      "finding_tips": "In April–June look for the slender, slightly sticky stems and the tiny white five-petalled flowers."
+    },
+    "zh": {
+      "summary": "ネバリノミノツヅリ（无毛蚤缀类，Arenaria leptoclados）。石竹科小型一至二年生草本，生于路旁、田地与草坪，被腺毛而略黏，开白色五瓣小花，较近缘种更细小。",
+      "habitat_hint": "路旁、田地、草坪、造地向阳处。",
+      "finding_tips": "4 至 6 月寻找纤细略黏的茎与白色五瓣小花。"
+    }
+  },
+  "Dryopteris decipiens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Deceiving wood fern",
+    "ja": {
+      "summary": "ナチクジャク。オシダ科の常緑性シダで、暖地の林床や林縁、石垣に生える。単羽状に分かれた光沢のある葉をつけ、やや厚みがある。",
+      "habitat_hint": "暖地の照葉樹林の林床、林縁、湿った石垣。",
+      "finding_tips": "一年中見られます。単羽状で光沢のあるやや厚い葉と、葉裏の円形の胞子嚢群を探します。"
+    },
+    "en": {
+      "summary": "An evergreen wood fern (Dryopteridaceae) of warm-region woodland floor, edges and stone walls, with once-pinnate, glossy and somewhat thick fronds.",
+      "habitat_hint": "Floor and edges of warm evergreen forest, damp stone walls.",
+      "finding_tips": "Present year-round; look for the once-pinnate, glossy, rather thick fronds and the round sori on the underside."
+    },
+    "zh": {
+      "summary": "ナチクジャク。鳞毛蕨科常绿蕨类，生于暖地林床、林缘及石墙，叶一回羽状、有光泽且略厚。",
+      "habitat_hint": "暖地照叶林林床、林缘、湿润石墙。",
+      "finding_tips": "全年可见；寻找一回羽状、有光泽而略厚的叶片及叶背圆形孢子囊群。"
+    }
+  },
+  "Eleutherococcus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese eleuthero",
+    "ja": {
+      "summary": "オカウコギ。ウコギ科の落葉低木で、山地の林縁や道端、雑木林に生える。枝に鋭い刺があり、5枚の小葉が手のひら状につく（掌状複葉）。若葉は山菜として食べられる。",
+      "habitat_hint": "山地の林縁、道端、雑木林、崩壊地。",
+      "finding_tips": "春〜初夏、掌状に5枚つく小葉と枝の刺を探します。夏に球状の花序、秋に黒い果実をつける。"
+    },
+    "en": {
+      "summary": "Japanese eleuthero (Eleutherococcus japonicus). A deciduous shrub (Araliaceae) of montane woodland edges, roadsides and secondary forest; the branches bear sharp prickles and the leaves are palmately compound with five leaflets. The young shoots are eaten as a wild vegetable.",
+      "habitat_hint": "Montane woodland edges, roadsides, secondary forest, landslips.",
+      "finding_tips": "In spring to early summer look for the palmate leaves of five leaflets and the prickly branches; globular flower clusters in summer, black fruit in autumn."
+    },
+    "zh": {
+      "summary": "オカウコギ（日本五加，Eleutherococcus japonicus）。五加科落叶灌木，生于山地林缘、路旁与杂木林，枝具锐刺，掌状复叶具五小叶，嫩芽可作山野菜。",
+      "habitat_hint": "山地林缘、路旁、杂木林、崩塌地。",
+      "finding_tips": "春至初夏寻找掌状五小叶与带刺枝条；夏季球状花序、秋季黑色果实。"
+    }
+  },
+  "Ilex nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマウメモドキ。モチノキ科の落葉低木で、山地の湿った林縁や湿原の周縁に生える。雌雄異株で、秋に赤い小さな果実を多数つける。ウメモドキに似るが山地性。",
+      "habitat_hint": "山地の湿った林縁、湿原の周縁、沢沿い。",
+      "finding_tips": "秋、葉が落ちた枝に密につく赤い小さな果実を探します。雌雄異株で果実は雌株のみ。"
+    },
+    "en": {
+      "summary": "A deciduous holly (Ilex nipponica, Aquifoliaceae) of damp montane woodland edges and bog margins; dioecious, it bears many small red fruits in autumn. Like Japanese winterberry but a montane species.",
+      "habitat_hint": "Damp montane woodland edges, bog margins, streamsides.",
+      "finding_tips": "In autumn look for the many small red fruits crowding the leafless twigs; dioecious, so fruit only on female plants."
+    },
+    "zh": {
+      "summary": "ミヤマウメモドキ（深山落霜红，Ilex nipponica）。冬青科落叶灌木，生于山地湿润林缘与湿原周缘，雌雄异株，秋结众多红色小果，似落霜红而为山地种。",
+      "habitat_hint": "山地湿润林缘、湿原周缘、沟谷。",
+      "finding_tips": "秋季寻找落叶枝上密生的红色小果；雌雄异株，仅雌株结果。"
+    }
+  },
+  "Kretzschmaria deusta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオミコブタケ。クロサイワイタケ科の子嚢菌で、広葉樹の生木や切株、根株に発生する木材腐朽菌。若い時は灰白色で縁が白く、成熟すると炭のように黒く硬くもろくなる。樹木の根株を腐らせ倒木の原因になる。",
+      "habitat_hint": "公園や街路のブナ科など広葉樹の根株・切株・幹の基部。",
+      "finding_tips": "一年中見られます。樹の根元の炭のように黒く硬い外皮の菌を探します。若い縁は灰白色。"
+    },
+    "en": {
+      "summary": "Brittle cinder (Kretzschmaria deusta). A wood-rotting ascomycete (Xylariaceae) on living broadleaf trees, stumps and root collars; grey-white with a pale margin when young, it matures to a charcoal-black, hard, brittle crust. It rots the root collar and can cause trees to fall.",
+      "habitat_hint": "Root collars, stumps and trunk bases of broadleaf (esp. oak/beech) trees in parks and streets.",
+      "finding_tips": "Present year-round; look at tree bases for the charcoal-black, hard crust; young margins are grey-white."
+    },
+    "zh": {
+      "summary": "オオミコブタケ（脆炭团菌，Kretzschmaria deusta）。炭角菌科子囊菌，发生于阔叶树活立木、树桩与根颈，为木材腐朽菌；幼时灰白、边缘白色，成熟后如炭黑硬而脆，腐蚀根颈可致树倒。",
+      "habitat_hint": "公园与街道阔叶树（尤壳斗科）的根颈、树桩、干基。",
+      "finding_tips": "全年可见；在树基寻找如炭黑硬的外壳，幼时边缘灰白。"
+    }
+  },
+  "Oxalis griffithii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain wood-sorrel",
+    "aliases": {
+      "zh-Hans": "山酢浆草"
+    },
+    "ja": {
+      "summary": "ミヤマカタバミ。カタバミ科の多年草で、山地の落葉樹林の林床に群生する。ハート形の3小葉が集まった葉と、春に開く白い5弁の花が特徴。花には淡紫色の筋が入る。",
+      "habitat_hint": "山地の落葉樹林の林床、沢沿いの湿った腐植土。",
+      "finding_tips": "4〜5月、ハート形の3小葉と、淡紫色の筋の入る白い5弁花を林床で探します。曇天や夜は葉と花を閉じる。"
+    },
+    "en": {
+      "summary": "Mountain wood-sorrel (Oxalis griffithii). A perennial (Oxalidaceae) growing in stands on montane deciduous woodland floor; recognised by its three heart-shaped leaflets and white five-petalled spring flowers veined with pale purple.",
+      "habitat_hint": "Floor of montane deciduous forest, damp humus along streams.",
+      "finding_tips": "In April–May look on the woodland floor for the three heart-shaped leaflets and the white flowers veined pale purple; leaves and flowers close in dull weather and at night."
+    },
+    "zh": {
+      "summary": "ミヤマカタバミ（山酢浆草，Oxalis griffithii）。酢浆草科多年生草本，成丛生于山地落叶林林床，具三枚心形小叶，春开白色五瓣花、具淡紫色脉纹。",
+      "habitat_hint": "山地落叶林林床、沟谷湿润腐殖土。",
+      "finding_tips": "4 至 5 月于林床寻找三心形小叶与具淡紫脉纹的白色五瓣花；阴天及夜间叶花闭合。"
+    }
+  },
+  "Parasenecio farfarifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タマブキ。キク科コウモリソウ属の多年草で、山地の林縁や沢沿いの湿った林内に生える。フキに似た大きな葉をつけ、葉のつけ根にむかご（珠芽）を作るのが名の由来。",
+      "habitat_hint": "山地の林縁、沢沿いの湿った林内、崩壊地の縁。",
+      "finding_tips": "夏〜秋、フキに似た大きな葉と、葉腋にできる褐色の丸いむかご（珠芽）を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Asteraceae) of montane woodland edges and damp streamside forest, with large butterbur-like leaves; named for the bulbils (tama) it forms in the leaf axils.",
+      "habitat_hint": "Montane woodland edges, damp streamside forest, landslip margins.",
+      "finding_tips": "In summer–autumn look for the large butterbur-like leaves and the brown rounded bulbils in the leaf axils."
+    },
+    "zh": {
+      "summary": "タマブキ。菊科蟹甲草属多年生草本，生于山地林缘与沟谷湿润林内，叶大似蜂斗菜，叶腋生珠芽，故名。",
+      "habitat_hint": "山地林缘、沟谷湿润林内、崩塌地边缘。",
+      "finding_tips": "夏至秋寻找似蜂斗菜的大叶及叶腋褐色圆形珠芽。"
+    }
+  },
+  "Pteris vittata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ladder brake fern",
+    "aliases": {
+      "zh-Hans": "蜈蚣草"
+    },
+    "ja": {
+      "summary": "モエジマシダ。イノモトソウ科の常緑性シダで、石垣やコンクリート、日当たりのよい岩場に生える。単羽状の細長い葉を放射状に広げる。ヒ素を体内に蓄積する能力（ヒ素超集積植物）で知られる。",
+      "habitat_hint": "石垣、コンクリートの隙間、日当たりのよい岩場、造成地。",
+      "finding_tips": "一年中見られます。細長い単羽状の葉を放射状に広げる姿を、石垣やコンクリートの割れ目で探します。"
+    },
+    "en": {
+      "summary": "Ladder brake fern (Pteris vittata). An evergreen fern (Pteridaceae) of stone walls, concrete and sunny rocky ground, spreading once-pinnate, elongated fronds in a rosette; known as an arsenic hyperaccumulator.",
+      "habitat_hint": "Stone walls, concrete cracks, sunny rocky ground, made ground.",
+      "finding_tips": "Present year-round; look for the rosette of long once-pinnate fronds in wall and concrete crevices."
+    },
+    "zh": {
+      "summary": "モエジマシダ（蜈蚣草，Pteris vittata）。凤尾蕨科常绿蕨类，生于石墙、混凝土及向阳岩地，一回羽状狭长叶呈放射状展开，以超富集砷著称。",
+      "habitat_hint": "石墙、混凝土缝隙、向阳岩地、造地。",
+      "finding_tips": "全年可见；在石墙与混凝土裂缝中寻找放射状展开的狭长一回羽状叶。"
+    }
+  },
+  "Rhynchospora fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオイヌノハナヒゲ。カヤツリグサ科ミカヅキグサ属の多年草で、湿原や湿地、貧栄養の湿った砂地に生える。細い茎の先に褐色の小穂を集めてつける。",
+      "habitat_hint": "湿原、湿地、貧栄養の湿った砂地、休耕田。",
+      "finding_tips": "7〜9月、細い茎の先に集まる褐色の小穂と、白っぽい果実の付属体を探します。"
+    },
+    "en": {
+      "summary": "A beak-sedge (Rhynchospora, Cyperaceae) of bogs, wetlands and nutrient-poor damp sand, bearing clusters of brown spikelets at the tips of slender stems.",
+      "habitat_hint": "Bogs, wetlands, nutrient-poor damp sand, fallow wet fields.",
+      "finding_tips": "In July–September look for the clustered brown spikelets at the stem tips and the pale bristles on the nutlets."
+    },
+    "zh": {
+      "summary": "オオイヌノハナヒゲ。莎草科刺子莞属多年生草本，生于湿原、湿地及贫营养湿沙地，细茎顶端聚生褐色小穗。",
+      "habitat_hint": "湿原、湿地、贫营养湿沙地、休耕田。",
+      "finding_tips": "7 至 9 月寻找细茎顶端聚生的褐色小穗及果实上淡色附属刚毛。"
+    }
+  },
+  "Sasa yahikoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オゼザサ。イネ科ササ属の小型の常緑ササで、山地の林床や湿原周縁、雪の多い斜面に群生する。背が低く、地下茎で広がって一面の低い笹原をつくる。",
+      "habitat_hint": "山地の林床、湿原周縁、多雪地の斜面。",
+      "finding_tips": "一年中見られます。背の低い常緑の葉と、地下茎で密に群生する低い笹原を観察します。"
+    },
+    "en": {
+      "summary": "A small evergreen dwarf bamboo (Sasa, Poaceae) forming low colonies on montane woodland floor, bog margins and snowy slopes; short-statured, it spreads by rhizomes into continuous low swards.",
+      "habitat_hint": "Montane woodland floor, bog margins, snowy slopes.",
+      "finding_tips": "Present year-round; note the low evergreen leaves and the dense low sward spread by rhizomes."
+    },
+    "zh": {
+      "summary": "オゼザサ。禾本科赤竹属小型常绿矮竹，成丛生于山地林床、湿原周缘及多雪坡地，株矮，借地下茎蔓延成低矮竹丛。",
+      "habitat_hint": "山地林床、湿原周缘、多雪坡地。",
+      "finding_tips": "全年可见；观察低矮常绿叶片及借地下茎密集蔓延的低竹丛。"
+    }
+  },
+  "Scutellaria strigillosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coastal skullcap",
+    "ja": {
+      "summary": "ナミキソウ。シソ科タツナミソウ属の多年草で、海岸の砂地や礫地に生える。全体に短毛があり、青紫色の唇形の花を茎の上部に2列に並べて咲かせる。",
+      "habitat_hint": "海岸の砂浜、砂丘、礫地、海に近い草地。",
+      "finding_tips": "6〜9月、砂地で青紫色の唇形の花が茎に2列に並ぶ姿を探します。"
+    },
+    "en": {
+      "summary": "Coastal skullcap (Scutellaria strigillosa). A perennial (Lamiaceae) of coastal sand and shingle, finely hairy throughout, bearing blue-violet two-lipped flowers in two ranks up the stem.",
+      "habitat_hint": "Coastal sand beaches, dunes, shingle, grassland near the sea.",
+      "finding_tips": "In June–September look on sandy ground for the blue-violet two-lipped flowers set in two ranks up the stem."
+    },
+    "zh": {
+      "summary": "ナミキソウ（海黄芩，Scutellaria strigillosa）。唇形科黄芩属多年生草本，生于海岸沙地与砾地，全株被短毛，茎上部两列着生蓝紫色唇形花。",
+      "habitat_hint": "海岸沙滩、沙丘、砾地、近海草地。",
+      "finding_tips": "6 至 9 月于沙地寻找茎上两列排列的蓝紫色唇形花。"
+    }
+  },
+  "Taxiphyllum taxirameum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キャラハゴケ。ハイゴケ科の蘚類で、湿った岩や土、樹の根元、石垣に扁平で光沢のある緑のマットをつくる。枝が羽状に平らに並ぶ。アクアリウムで使われる近縁種もある。",
+      "habitat_hint": "湿った岩、土、樹幹の基部、石垣、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。羽状に平らに並ぶ枝と、扁平で光沢のある緑のマットを探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Hypnaceae) forming flattened, glossy green mats on damp rock, soil, tree bases and stone walls, with branches lying flat in a feathery plane; relatives are used in aquaria.",
+      "habitat_hint": "Damp rock, soil, tree bases, stone walls, shaded streamsides.",
+      "finding_tips": "Present year-round; look for the flat feathery branch plane and the flattened, glossy green mats."
+    },
+    "zh": {
+      "summary": "キャラハゴケ。灰藓科藓类，于湿岩、土面、树基及石墙形成扁平有光泽的绿垫，枝羽状平列，其近缘种常用于水族造景。",
+      "habitat_hint": "湿岩、土面、树基、石墙、溪流荫处。",
+      "finding_tips": "全年可见；寻找羽状平列的枝条与扁平有光泽的绿色藓垫。"
+    }
+  },
+  "Thuidium kanedae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アソシノブゴケ。シノブゴケ科の蘚類で、湿った林床の土や腐木、岩上に、2〜3回羽状に細かく枝分かれしたシダのようなマットをつくる。日本の林内でよく見られる。",
+      "habitat_hint": "湿った林床の土、腐木、岩上、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。2〜3回羽状に細かく枝分かれした、シダのように繊細な緑のマットを探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Thuidiaceae) forming fern-like mats, two to three times pinnately branched, on damp woodland soil, rotten wood and rock; common in Japanese forests.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, shaded streamsides.",
+      "finding_tips": "Present year-round; look for the delicate, fern-like green mats branched two to three times pinnately."
+    },
+    "zh": {
+      "summary": "アソシノブゴケ。羽藓科藓类，于湿润林床土壤、腐木及岩面形成二至三回羽状细分枝、状如蕨的垫状群落，日本林内常见。",
+      "habitat_hint": "湿润林床土壤、腐木、岩面、溪流荫处。",
+      "finding_tips": "全年可见；寻找二至三回羽状细分枝、纤细如蕨的绿色藓垫。"
+    }
+  },
+  "Trachycystis microphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバノチョウチンゴケ。チョウチンゴケ科の蘚類で、湿った林床の土や腐木、岩上に生える。名のとおり葉が小さく、湿ると葉を平らに広げ、乾くと縮れる。",
+      "habitat_hint": "湿った林床の土、腐木、岩上、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。小さな葉を湿ると平らに広げ、乾くと縮れる様子を観察します。"
+    },
+    "en": {
+      "summary": "A moss (Mniaceae) of damp woodland soil, rotten wood and rock; true to its name it has small leaves that spread flat when wet and crisp up when dry.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, shaded streamsides.",
+      "finding_tips": "Present year-round; watch how the small leaves spread flat when wet and curl when dry."
+    },
+    "zh": {
+      "summary": "コバノチョウチンゴケ（小叶提灯藓类，Trachycystis microphylla）。提灯藓科藓类，生于湿润林床土壤、腐木及岩面，叶小，湿时平展、干时卷缩。",
+      "habitat_hint": "湿润林床土壤、腐木、岩面、溪流荫处。",
+      "finding_tips": "全年可见；观察小叶湿时平展、干时卷缩的变化。"
+    }
+  },
+  "Truncospora ochroleuca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウズラタケ。タマチョレイタケ科の多年生の硬いキノコ（多孔菌）で、広葉樹の枯枝や倒木に発生する。半円形〜馬蹄形の傘は淡黄褐色で同心円状の帯があり、裏面は細かい管孔になる。",
+      "habitat_hint": "広葉樹の枯枝、倒木、切株の上。",
+      "finding_tips": "一年中見られます。枯枝につく半円形で硬い傘と、同心円状の帯、裏面の細かい管孔を探します。"
+    },
+    "en": {
+      "summary": "A perennial bracket fungus (Polyporaceae) on dead branches and fallen broadleaf wood; the semicircular to hoof-shaped cap is pale ochre-brown with concentric zones and a finely pored underside.",
+      "habitat_hint": "Dead branches, fallen logs and stumps of broadleaf trees.",
+      "finding_tips": "Present year-round; look on dead wood for the hard semicircular cap with concentric zones and the finely pored underside."
+    },
+    "zh": {
+      "summary": "ウズラタケ。多孔菌科多年生硬质真菌，发生于阔叶树枯枝与倒木，菌盖半圆至马蹄形、淡赭褐色具同心环带，下面为细密管孔。",
+      "habitat_hint": "阔叶树枯枝、倒木、树桩。",
+      "finding_tips": "全年可见；在枯木上寻找半圆形硬盖、同心环带及下面细密管孔。"
+    }
+  },
+  "Anemone debilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメイチゲ。キンポウゲ科イチリンソウ属の小さな多年草で、亜高山帯の林床や湿った草地に生える。細く弱々しい茎の先に、白い小さな1輪の花を咲かせる。",
+      "habitat_hint": "亜高山帯の林床、湿った草地、雪解け跡の斜面。",
+      "finding_tips": "4〜6月、雪解け後の林床で、細い茎の先に咲く白い小さな1輪の花を探します。"
+    },
+    "en": {
+      "summary": "A small perennial anemone (Ranunculaceae) of subalpine woodland floor and damp meadows, with a single small white flower on a slender, delicate stem.",
+      "habitat_hint": "Subalpine woodland floor, damp meadows, snow-melt slopes.",
+      "finding_tips": "In April–June look on the woodland floor after snow-melt for the single small white flower on a slender stem."
+    },
+    "zh": {
+      "summary": "ヒメイチゲ（弱银莲花，Anemone debilis）。毛茛科银莲花属小型多年生草本，生于亚高山林床与湿润草甸，纤弱茎顶开单朵白色小花。",
+      "habitat_hint": "亚高山林床、湿润草甸、融雪迹坡地。",
+      "finding_tips": "4 至 6 月于融雪后林床寻找纤细茎顶单生的白色小花。"
+    }
+  },
+  "Bromus commutatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムクゲチャヒキ。ヨーロッパ原産のイネ科スズメノチャヒキ属の一〜越年草で、道端や河川敷、牧草地に帰化する。垂れ下がる大きく扁平な小穂に短い芒をつける。",
+      "habitat_hint": "道端、河川敷、牧草地、造成地。",
+      "finding_tips": "5〜7月、垂れ下がる大きく扁平な小穂と短い芒を探します。近縁のイヌムギ類と紛らわしい。"
+    },
+    "en": {
+      "summary": "Meadow brome (Bromus commutatus). A European annual to biennial grass naturalised on roadsides, riverbanks and grassland, with large flattened drooping spikelets bearing short awns.",
+      "habitat_hint": "Roadsides, riverbanks, grassland, made ground.",
+      "finding_tips": "In May–July look for the large flattened drooping spikelets with short awns; easily confused with related bromes."
+    },
+    "zh": {
+      "summary": "ムクゲチャヒキ（疑雀麦，Bromus commutatus）。原产欧洲的禾本科雀麦属一至二年生草本，归化于路旁、河滩与草地，小穗大而扁平下垂、具短芒。",
+      "habitat_hint": "路旁、河滩、草地、造地。",
+      "finding_tips": "5 至 7 月寻找大而扁平下垂的小穗及短芒；与近缘雀麦易混。"
+    }
   }
 }
