@@ -214797,5 +214797,429 @@
       "habitat_hint": "海岸崖壁、岩地、沙地、近海草地。",
       "finding_tips": "10 至 12 月于海岸岩地寻找厚匙形叶的莲座及似蒲公英的黄色头状花。"
     }
+  },
+  "Lespedeza juncea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カラメドハギ。マメ科ハギ属の多年草〜小低木で、日当たりのよい草地や道端、河原、痩せた斜面に生える。細い枝を立て、細長い葉をつけ、夏〜秋に白〜淡黄色で紫の筋のある小さな蝶形の花をつける。メドハギに似るが葉が細い。",
+      "habitat_hint": "日当たりのよい草地、道端、河原、痩せ地、斜面。",
+      "finding_tips": "8〜10月、細い枝と細長い葉、白〜淡黄色で紫の筋のある小さな蝶形花を探します。メドハギより葉が細い。"
+    },
+    "en": {
+      "summary": "A perennial to subshrub bush clover (Lespedeza, Fabaceae) of sunny grassland, roadsides, riverbanks and poor slopes; it raises slender stems with narrow leaves and small white to pale-yellow, purple-veined pea flowers in late summer to autumn. Like sericea lespedeza but narrower-leaved.",
+      "habitat_hint": "Sunny grassland, roadsides, riverbanks, poor ground, slopes.",
+      "finding_tips": "In August–October look for the slender stems, narrow leaves and small white-to-pale-yellow, purple-veined pea flowers."
+    },
+    "zh": {
+      "summary": "カラメドハギ（尖叶铁扫帚，Lespedeza juncea）。豆科胡枝子属多年生草本至小灌木，生于向阳草地、路旁、河滩与瘠坡，枝细、叶狭长，夏末至秋开白至淡黄、具紫脉的蝶形小花，似截叶铁扫帚而叶更细。",
+      "habitat_hint": "向阳草地、路旁、河滩、瘠地、坡地。",
+      "finding_tips": "8 至 10 月寻找细枝、狭长叶及白至淡黄、具紫脉的蝶形小花；叶较近缘种细。"
+    }
+  },
+  "Pseudosasa humilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオネザサ。イネ科メダケ属（ヤダケ属）の常緑のササで、暖地の林縁や道端の斜面、藪に群生する。まっすぐ立つ細い稈に細長い葉をつけ、地下茎で広がって藪をつくる。",
+      "habitat_hint": "暖地の林縁、道端の斜面、藪、川岸。",
+      "finding_tips": "一年中見られます。まっすぐ立つ細い稈と細長い常緑の葉、地下茎で群生する藪を観察します。"
+    },
+    "en": {
+      "summary": "An evergreen dwarf bamboo (Pseudosasa, Poaceae) forming thickets on warm-region woodland edges, roadside slopes and scrub; it has erect slender culms with long narrow leaves and spreads by rhizomes into thickets.",
+      "habitat_hint": "Warm-region woodland edges, roadside slopes, scrub, riverbanks.",
+      "finding_tips": "Present year-round; note the erect slender culms, long narrow evergreen leaves and rhizomatous thickets."
+    },
+    "zh": {
+      "summary": "アオネザサ。禾本科矢竹属常绿矮竹，成丛生于暖地林缘、路旁坡地与灌丛，秆细直立、叶狭长，借地下茎蔓延成丛。",
+      "habitat_hint": "暖地林缘、路旁坡地、灌丛、河岸。",
+      "finding_tips": "全年可见；观察细直的秆、狭长常绿叶及借地下茎成丛。"
+    }
+  },
+  "Pseudotaxiphyllum pohliaecarpum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカイチイゴケ。ハイゴケ科の蘚類で、湿った林床の土や腐木、岩、道の切り通しに、扁平で光沢のある緑のマットをつくる。葉に無性芽をつけて増えることがある。",
+      "habitat_hint": "湿った林床の土、腐木、岩、道の切り通し、石垣。",
+      "finding_tips": "一年中見られます。扁平で光沢のある緑のマットを、湿った土や岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Hypnaceae) forming flattened, glossy green mats on damp woodland soil, rotten wood, rock and road cuttings; it may reproduce by asexual gemmae borne on the leaves.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, road cuttings, stone walls.",
+      "finding_tips": "Present year-round; use a lens on damp soil and rock to check the flattened, glossy green mats."
+    },
+    "zh": {
+      "summary": "アカイチイゴケ。灰藓科藓类，于湿润林床土壤、腐木、岩石及路堑形成扁平有光泽的绿垫，叶上可生无性芽以繁殖。",
+      "habitat_hint": "湿润林床土壤、腐木、岩石、路堑、石墙。",
+      "finding_tips": "全年可见；用放大镜在湿土与岩上观察扁平有光泽的绿垫。"
+    }
+  },
+  "Alnus fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマカワラハンノキ。カバノキ科の落葉低木〜小高木で、山地の渓流沿いや河原、湿った斜面に生える。根に窒素固定菌を持ち、攪乱地に定着するパイオニア樹。春、葉より先または同時に垂れ下がる雄花穂を出す。",
+      "habitat_hint": "山地の渓流沿い、河原、湿った斜面、崩壊地。",
+      "finding_tips": "春の芽吹き前後、垂れ下がる雄花穂と、球果状の小さな果穂を探します。渓流沿いに多い。"
+    },
+    "en": {
+      "summary": "A deciduous shrub to small tree (Alnus fauriei, Betulaceae) of montane streamsides, riverbeds and damp slopes; with nitrogen-fixing root nodules it is a pioneer on disturbed ground, producing drooping male catkins before or with the leaves in spring.",
+      "habitat_hint": "Montane streamsides, riverbeds, damp slopes, landslips.",
+      "finding_tips": "Around bud-break look for the drooping male catkins and the small cone-like fruiting spikes; common along mountain streams."
+    },
+    "zh": {
+      "summary": "ミヤマカワラハンノキ。桦木科落叶灌木至小乔木，生于山地溪流沿岸、河滩与湿坡，根具固氮菌，为定着扰动地的先锋树，春季先叶或与叶同放下垂雄花序。",
+      "habitat_hint": "山地溪流沿岸、河滩、湿坡、崩塌地。",
+      "finding_tips": "春季萌芽前后寻找下垂雄花序与球果状小果穗；多见于山溪沿岸。"
+    }
+  },
+  "Chiloscyphus polyanthos": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フジウロコゴケ。ウロコゴケ科の葉状苔類で、渓流沿いの湿った岩や水際、水中、湿った土に生える。方形に近い葉が茎に規則正しく並ぶ。水辺を好む普通種。",
+      "habitat_hint": "渓流沿いの湿った岩、水際、浅い水中、湿った土。",
+      "finding_tips": "一年中見られます。水辺の岩や土に付く淡緑のマットと、方形に近い規則的に並ぶ葉をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Lophocoleaceae) of damp streamside rock, water margins, shallow water and moist soil; the near-squarish leaves are set in regular ranks along the stem. A common water-loving species.",
+      "habitat_hint": "Damp streamside rock, water margins, shallow water, moist soil.",
+      "finding_tips": "Present year-round; use a lens on waterside rock and soil to check the pale-green mats and the regularly ranked near-squarish leaves."
+    },
+    "zh": {
+      "summary": "フジウロコゴケ。齿萼苔科叶状苔类，生于溪流沿岸湿岩、水边、浅水及湿土，叶近方形、沿茎规则排列，为喜水常见种。",
+      "habitat_hint": "溪流沿岸湿岩、水边、浅水、湿土。",
+      "finding_tips": "全年可见；用放大镜在水边岩石与土上观察淡绿垫及规则排列的近方形叶。"
+    }
+  },
+  "Dacrymyces spathularius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fan-shaped jelly fungus",
+    "ja": {
+      "summary": "ツノマタタケ。アカキクラゲ科の小さな膠質菌で、針葉樹・広葉樹の枯木や切株、木の柵、朽ちた材に群生する。オレンジ色〜黄橙色のへら形〜舌形のゼラチン質の小さな子実体をつける。",
+      "habitat_hint": "枯木、切株、木の柵、朽ちた材の上。梅雨〜秋の湿った時期。",
+      "finding_tips": "梅雨〜秋、枯木や木の柵に群生する橙色のへら形〜舌形のゼラチン質の小さなキノコを探します。"
+    },
+    "en": {
+      "summary": "Fan-shaped jelly fungus (Dacrymyces spathularius). A small jelly fungus (Dacrymycetaceae) clustering on dead conifer and broadleaf wood, stumps, wooden fences and rotten timber; the small gelatinous fruitbodies are orange to yellow-orange, spatula- to tongue-shaped.",
+      "habitat_hint": "Dead wood, stumps, wooden fences and rotten timber; damp periods from the rainy season to autumn.",
+      "finding_tips": "From the rainy season to autumn look on dead wood and wooden fences for the clustered small orange, spatula- to tongue-shaped gelatinous fruitbodies."
+    },
+    "zh": {
+      "summary": "ツノマタタケ（匙形花耳，Dacrymyces spathularius）。花耳科小型胶质菌，丛生于针叶与阔叶枯木、树桩、木栅及腐材，子实体小、橙至黄橙色、匙形至舌形、胶质。",
+      "habitat_hint": "枯木、树桩、木栅、腐材上；梅雨至秋湿润期。",
+      "finding_tips": "梅雨至秋在枯木与木栅上寻找丛生的橙色匙至舌形胶质小菌。"
+    }
+  },
+  "Diplophyllum serrulatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノコギリコオイゴケ。ヒシャクゴケ科の小さな葉状苔類で、湿った土の斜面や岩、道の切り通しに生える。葉が上下不等の2裂片に折れ、裂片の縁に細かい鋸歯（のこぎり状）があるのが特徴。",
+      "habitat_hint": "湿った土の斜面、岩、道の切り通し、林床の陰。",
+      "finding_tips": "一年中見られます。上下不等の2裂片に折れ、縁に細かい鋸歯のある葉をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small leafy liverwort (Scapaniaceae) of damp soil slopes, rock and road cuttings; its leaves are folded into unequal upper and lower lobes with finely toothed (serrulate) margins.",
+      "habitat_hint": "Damp soil slopes, rock, road cuttings, shaded woodland floor.",
+      "finding_tips": "Present year-round; use a lens to check the leaves folded into unequal lobes with finely toothed margins."
+    },
+    "zh": {
+      "summary": "ノコギリコオイゴケ。合叶苔科小型叶状苔类，生于湿润土坡、岩石及路堑，叶折为上下不等两裂片、裂片缘具细锯齿，故名。",
+      "habitat_hint": "湿润土坡、岩石、路堑、林床荫处。",
+      "finding_tips": "全年可见；用放大镜观察折成上下不等两裂片、缘具细锯齿的叶片。"
+    }
+  },
+  "Elatostema brevifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サンショウソウ。イラクサ科サンショウソウ属の小さな多年草で、山地の谷沿いや渓流沿いの湿った日陰に地を這って広がる。左右不対称の小さな葉を2列につけ、目立たない小花をつける。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った日陰、水のしみ出す岩際。",
+      "finding_tips": "夏〜秋、湿った日陰を這う茎と、左右不対称に2列につく小さな葉を探します。"
+    },
+    "en": {
+      "summary": "A small perennial (Urticaceae) creeping over damp shaded ground along montane valleys and streams; it bears small asymmetric leaves in two ranks with inconspicuous flowers.",
+      "habitat_hint": "Montane valleys, damp shaded streamsides, seepage-wet rock margins.",
+      "finding_tips": "In summer–autumn look in damp shade for the creeping stems and the small asymmetric two-ranked leaves."
+    },
+    "zh": {
+      "summary": "サンショウソウ。荨麻科楼梯草属小型多年生草本，于山地谷地与溪流沿岸湿润荫处匍匐蔓延，小叶两侧不对称、两列排列，花不显。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润荫处、渗水岩缘。",
+      "finding_tips": "夏至秋于湿润荫处寻找匍匐茎及两侧不对称、两列排列的小叶。"
+    }
+  },
+  "Helvella macropus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガエノチャワンタケ。ノボリリュウタケ科の子嚢菌で、夏〜秋に林床の地上や腐植土から発生する。灰褐色の浅い椀形の頭部を、細長い柄が支える。柄や外面に細かい毛が密生する。",
+      "habitat_hint": "夏〜秋の林床の地上、腐植土、道端の斜面。",
+      "finding_tips": "7〜10月、林床で細長い柄の上にのる灰褐色の浅い椀形の頭部を探します。全体に細かい毛がある。"
+    },
+    "en": {
+      "summary": "Felt saddle (Helvella macropus). An ascomycete (Helvellaceae) fruiting on the ground and humus of woodland floor in summer to autumn; a grey-brown shallow cup is held up by a long slender stalk, and the stalk and outer surface are finely downy.",
+      "habitat_hint": "Ground and humus of woodland floor, roadside slopes; summer to autumn.",
+      "finding_tips": "In July–October look on the woodland floor for the grey-brown shallow cup atop a long slender stalk; finely downy overall."
+    },
+    "zh": {
+      "summary": "ナガエノチャワンタケ（粗柄马鞍菌，Helvella macropus）。马鞍菌科子囊菌，夏秋发生于林床地面与腐殖土，灰褐色浅碗形头部由细长柄托起，柄与外表密被细毛。",
+      "habitat_hint": "夏秋林床地面、腐殖土、路旁坡地。",
+      "finding_tips": "7 至 10 月于林床寻找细长柄上托起的灰褐色浅碗形头部；全体被细毛。"
+    }
+  },
+  "Litsea japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese litsea",
+    "aliases": {
+      "zh-Hans": "日本木姜子"
+    },
+    "ja": {
+      "summary": "ハマビワ。クスノキ科ハマビワ属の常緑小高木で、暖地の海岸近くの林や崖、林縁に生える。厚い革質の葉の裏面に黄褐色の毛が密生する。秋〜冬に淡黄色の小花を咲かせ、翌年に楕円形の果実が熟す。",
+      "habitat_hint": "暖地の海岸近くの林、崖、林縁、社寺林。",
+      "finding_tips": "一年中見られます。裏面に黄褐色の毛が密生する厚い革質の葉を海岸近くで探します。冬の淡黄色の小花も手がかり。"
+    },
+    "en": {
+      "summary": "Japanese litsea (Litsea japonica). An evergreen small tree (Lauraceae) of coastal woods, cliffs and woodland edges in warm regions; the thick leathery leaves are densely yellow-brown-hairy beneath. It opens pale-yellow flowers in autumn to winter, the elliptic fruit ripening the following year.",
+      "habitat_hint": "Coastal woods, cliffs, woodland edges, shrine forest in warm regions.",
+      "finding_tips": "Present year-round; near the coast look for the thick leathery leaves densely yellow-brown-hairy beneath; the pale-yellow winter flowers are another clue."
+    },
+    "zh": {
+      "summary": "ハマビワ（日本木姜子，Litsea japonica）。樟科木姜子属常绿小乔木，生于暖地近海林、崖壁与林缘，叶厚革质、背面密被黄褐色毛，秋冬开淡黄色小花，翌年椭圆形果实成熟。",
+      "habitat_hint": "暖地近海林、崖壁、林缘、社寺林。",
+      "finding_tips": "全年可见；近海处寻找背面密被黄褐色毛的厚革质叶；冬季淡黄色小花亦为线索。"
+    }
+  },
+  "Magnolia compressa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Compressed michelia",
+    "ja": {
+      "summary": "オガタマノキ。モクレン科オガタマノキ属（旧ミケリア属）の常緑高木で、暖地の照葉樹林に生える。革質の光沢のある葉をつけ、早春、白〜クリーム色で基部が淡紫を帯びる芳香のある花を咲かせる。神社に植えられることが多い。",
+      "habitat_hint": "暖地の照葉樹林、社寺の境内、公園。",
+      "finding_tips": "2〜4月、革質で光沢のある葉と、白〜クリーム色で芳香のある花を探します。神社の境内に多い。"
+    },
+    "en": {
+      "summary": "An evergreen tree (Magnoliaceae) of warm-region evergreen forest, with glossy leathery leaves; in early spring it opens fragrant white-to-cream flowers flushed pale purple at the base. Often planted at shrines.",
+      "habitat_hint": "Warm-region evergreen forest, shrine grounds, parks.",
+      "finding_tips": "In February–April look for the glossy leathery leaves and the fragrant white-to-cream flowers; common in shrine grounds."
+    },
+    "zh": {
+      "summary": "オガタマノキ（含笑类，Magnolia compressa）。木兰科常绿乔木，生于暖地照叶林，叶革质有光泽，早春开白至奶油色、基部带淡紫的芳香花，常植于神社。",
+      "habitat_hint": "暖地照叶林、社寺境内、公园。",
+      "finding_tips": "2 至 4 月寻找革质有光泽的叶及白至奶油色的芳香花；多见于神社境内。"
+    }
+  },
+  "Nipponacmea schrenckii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Limpet",
+    "ja": {
+      "summary": "アオガイ。ユキノカサガイ科の小型の巻貝（笠形の貝）で、海岸の岩礁の潮間帯にすむ。円錐形の低い笠状の殻をもち、岩に吸い付いて表面の藻類を削り取って食べる。殻の内面が青みを帯びるのが名の由来。",
+      "habitat_hint": "海岸の岩礁、潮間帯の岩の表面。",
+      "finding_tips": "一年中、岩礁の潮間帯で岩に吸い付く低い笠形の小さな貝を探します。殻内面の青みが手がかり。"
+    },
+    "en": {
+      "summary": "A small limpet (Lottiidae) living in the intertidal zone of rocky coasts; the low conical cap-shaped shell clings to rock and it grazes algae from the surface. Named for the bluish tint inside the shell.",
+      "habitat_hint": "Rocky coasts, on rock surfaces in the intertidal zone.",
+      "finding_tips": "Year-round in the rocky intertidal look for the low cap-shaped shell clinging to rock; the bluish shell interior is the clue."
+    },
+    "zh": {
+      "summary": "アオガイ（青贝，Nipponacmea schrenckii）。莲花青螺科小型笠形贝，栖于海岸岩礁潮间带，低圆锥笠状壳吸附于岩、刮食表面藻类，壳内面带青色，故名。",
+      "habitat_hint": "海岸岩礁、潮间带岩面。",
+      "finding_tips": "全年于岩礁潮间带寻找吸附岩面的低笠形小贝；壳内面青色为线索。"
+    }
+  },
+  "Nucifraga caryocatactes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Spotted nutcracker",
+    "aliases": {
+      "zh-Hans": "星鸦"
+    },
+    "ja": {
+      "summary": "ホシガラス。カラス科の中型の鳥で、亜高山〜高山帯の針葉樹林にすむ。暗褐色の体に白い斑点が星のように散らばるのが名の由来。ハイマツやマツの種子を主食とし、貯食（あちこちに隠す）する習性で知られる。",
+      "habitat_hint": "亜高山〜高山帯の針葉樹林、ハイマツ帯、山地の針葉樹林。",
+      "finding_tips": "一年中、亜高山の針葉樹林で、白い星斑のある暗褐色のカラス類を探します。ハイマツの種子を食べる姿が手がかり。"
+    },
+    "en": {
+      "summary": "Spotted nutcracker (Nucifraga caryocatactes). A medium-sized corvid of subalpine to alpine conifer forest; dark brown scattered with white spots like stars (source of the Japanese name). It feeds mainly on pine and dwarf-pine seeds and is known for caching food in many hidden stores.",
+      "habitat_hint": "Subalpine to alpine conifer forest, dwarf-pine zone, montane conifer woods.",
+      "finding_tips": "Year-round in subalpine conifer forest look for the dark-brown, white-star-spotted corvid; watch for it feeding on dwarf-pine seeds."
+    },
+    "zh": {
+      "summary": "ホシガラス（星鸦，Nucifraga caryocatactes）。鸦科中型鸟，栖于亚高山至高山针叶林，体暗褐色、散布如星白斑，故名，主食松与偃松种子，以四处贮食著称。",
+      "habitat_hint": "亚高山至高山针叶林、偃松带、山地针叶林。",
+      "finding_tips": "全年于亚高山针叶林寻找暗褐、具白星斑的鸦类；取食偃松种子之姿为线索。"
+    }
+  },
+  "Ophiorrhiza japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese snakeroot",
+    "aliases": {
+      "zh-Hans": "日本蛇根草"
+    },
+    "ja": {
+      "summary": "サツマイナモリ。アカネ科サツマイナモリ属の多年草で、暖地の照葉樹林の谷沿いや湿った林床、渓流沿いに生える。地を這う茎から立ち上がり、早春〜春に白い筒状の小花を集散状につける。",
+      "habitat_hint": "暖地の照葉樹林の谷沿い、湿った林床、渓流沿いの日陰。",
+      "finding_tips": "2〜4月、湿った林床で白い筒状の小花が集まって咲く姿を探します。地を這う茎から立ち上がる。"
+    },
+    "en": {
+      "summary": "Japanese snakeroot (Ophiorrhiza japonica). A perennial (Rubiaceae) of valley bottoms, damp woodland floor and streamsides in warm-region evergreen forest; rising from creeping stems, it bears clusters of small white tubular flowers in early spring.",
+      "habitat_hint": "Valley bottoms, damp woodland floor, shaded streamsides in warm evergreen forest.",
+      "finding_tips": "In February–April look on damp woodland floor for the clusters of small white tubular flowers rising from creeping stems."
+    },
+    "zh": {
+      "summary": "サツマイナモリ（日本蛇根草，Ophiorrhiza japonica）。茜草科蛇根草属多年生草本，生于暖地照叶林谷底、湿润林床与溪流沿岸，由匍匐茎抽起，早春聚伞状着生白色筒状小花。",
+      "habitat_hint": "暖地照叶林谷底、湿润林床、溪流荫处。",
+      "finding_tips": "2 至 4 月于湿润林床寻找由匍匐茎抽起、聚伞状着生的白色筒状小花。"
+    }
+  },
+  "Pogonia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese pogonia",
+    "aliases": {
+      "zh-Hans": "朱兰"
+    },
+    "ja": {
+      "summary": "トキソウ。ラン科トキソウ属の地生ランで、日当たりのよい湿原や湿った草地に生える。初夏、細い茎の先に淡紅色（鴇色＝ときいろ）の花を1個上向きに開く。唇弁の先が細かく裂ける。湿原を代表するランの一つ。",
+      "habitat_hint": "日当たりのよい湿原、湿った草地、貧栄養の湿地。",
+      "finding_tips": "5〜7月、湿原で細い茎の先に開く淡紅色の花を探します。唇弁の先が細かく裂ける点が手がかり。"
+    },
+    "en": {
+      "summary": "Japanese pogonia (Pogonia japonica). A terrestrial orchid (Orchidaceae) of sunny bogs and damp meadows; in early summer it opens a single pink (crested-ibis-coloured) flower facing upward on a slender stem, the lip finely fringed at the tip. One of the characteristic bog orchids.",
+      "habitat_hint": "Sunny bogs, damp meadows, nutrient-poor wetlands.",
+      "finding_tips": "In May–July look in bogs for the single pink flower opening on a slender stem; the finely fringed lip tip is the clue."
+    },
+    "zh": {
+      "summary": "トキソウ（朱兰，Pogonia japonica）。兰科朱兰属地生兰，生于向阳湿原与湿润草甸，初夏于细茎顶端朝上开单朵淡红（朱鹮色）花，唇瓣先端细裂，为湿原代表兰之一。",
+      "habitat_hint": "向阳湿原、湿润草甸、贫营养湿地。",
+      "finding_tips": "5 至 7 月于湿原寻找细茎顶端开放的淡红色花；唇瓣先端细裂为线索。"
+    }
+  },
+  "Populus suaveolens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mongolian poplar",
+    "aliases": {
+      "zh-Hans": "甜杨"
+    },
+    "ja": {
+      "summary": "ドロノキ（ドロヤナギ）。ヤナギ科ヤマナラシ属の落葉高木で、山地の河原や川岸、湿った斜面に生える。攪乱地に定着するパイオニア樹で、成長が速い。春、葉より先に垂れ下がる花穂を出し、種子は綿毛をつけて風で散布される。",
+      "habitat_hint": "山地の河原、川岸、湿った斜面、氾濫原。",
+      "finding_tips": "春、葉より先に出る垂れ下がる花穂を探します。初夏に綿毛のついた種子が風に舞う。"
+    },
+    "en": {
+      "summary": "Mongolian poplar (Populus suaveolens). A deciduous tree (Salicaceae) of montane riverbeds, banks and damp slopes; a fast-growing pioneer on disturbed ground, it produces drooping catkins before the leaves in spring, its cottony-tufted seeds dispersed by wind.",
+      "habitat_hint": "Montane riverbeds, banks, damp slopes, floodplains.",
+      "finding_tips": "In spring look for the drooping catkins appearing before the leaves; in early summer the cottony seeds drift on the wind."
+    },
+    "zh": {
+      "summary": "ドロノキ（甜杨，Populus suaveolens）。杨柳科杨属落叶乔木，生于山地河滩、河岸与湿坡，为定着扰动地的先锋树、生长迅速，春季先叶抽出下垂花序，种子具棉毛随风散布。",
+      "habitat_hint": "山地河滩、河岸、湿坡、泛滥原。",
+      "finding_tips": "春季寻找先叶抽出的下垂花序；初夏具棉毛的种子随风飘散。"
+    }
+  },
+  "Salpichroa origanifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハコベホオズキ。南アメリカ原産のナス科の多年草（つる状に伸びる）で、道端や畑、造成地、垣根に帰化する。細い茎を這わせ・絡ませて広がり、白い小さな壺形の花を下向きに咲かせる。白い液果をつける。",
+      "habitat_hint": "道端、畑、造成地、垣根、藪の縁。",
+      "finding_tips": "5〜9月、細い茎に下向きに咲く白い小さな壺形の花と、白い液果を探します。"
+    },
+    "en": {
+      "summary": "Cock's-eggs (Salpichroa origanifolia). A South-American perennial (Solanaceae) that scrambles, naturalised on roadsides, fields, made ground and hedges; trailing and twining slender stems bear small white urn-shaped nodding flowers and white berries.",
+      "habitat_hint": "Roadsides, fields, made ground, hedges, thicket edges.",
+      "finding_tips": "In May–September look for the small white urn-shaped nodding flowers on slender scrambling stems and the white berries."
+    },
+    "zh": {
+      "summary": "ハコベホオズキ（垂钓果类，Salpichroa origanifolia）。原产南美的茄科多年生蔓性草本，归化于路旁、田地、造地与篱笆，细茎匍匐缠绕蔓延，下垂开白色小壶形花，结白色浆果。",
+      "habitat_hint": "路旁、田地、造地、篱笆、灌丛缘。",
+      "finding_tips": "5 至 9 月寻找细茎上下垂的白色小壶形花及白色浆果。"
+    }
+  },
+  "Schizopepon bryoniifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマニガウリ。ウリ科ミヤマニガウリ属の一年生のつる草で、山地の谷沿いや渓流沿いの湿った林縁、藪に生える。他の植物に巻きひげで絡んで伸び、白い小さな花を咲かせ、小さな果実をつける。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林縁、藪、崩壊地の縁。",
+      "finding_tips": "8〜9月、巻きひげで絡むつると、白い小さな花、小さな果実を湿った林縁で探します。"
+    },
+    "en": {
+      "summary": "An annual climbing gourd (Cucurbitaceae) of montane valleys, damp streamside woodland edges and thickets; it twines by tendrils over other plants, with small white flowers and small fruits.",
+      "habitat_hint": "Montane valleys, damp streamside woodland edges, thickets, landslip margins.",
+      "finding_tips": "In August–September look at damp woodland edges for the tendril-climbing vine, small white flowers and small fruits."
+    },
+    "zh": {
+      "summary": "ミヤマニガウリ（裂瓜，Schizopepon bryoniifolius）。葫芦科裂瓜属一年生蔓性草本，生于山地谷地、溪流沿岸湿润林缘与灌丛，以卷须缠绕他物，开白色小花、结小果。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林缘、灌丛、崩塌地边缘。",
+      "finding_tips": "8 至 9 月于湿润林缘寻找以卷须缠绕的藤蔓、白色小花及小果。"
+    }
+  },
+  "Wagimo signata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairstreak",
+    "ja": {
+      "summary": "ウラミスジシジミ（ダイセンシジミ）。シジミチョウ科のゼフィルス（ミドリシジミ類）の一種で、山地・丘陵の落葉樹林、特にナラ・カシワ林に生息する。翅の裏面に3本の筋（帯）が入るのが名の由来。幼虫はコナラ・カシワなどのブナ科を食べる。",
+      "habitat_hint": "山地・丘陵の落葉樹林、ナラ・カシワ林、雑木林。",
+      "finding_tips": "6〜8月、樹上を飛ぶ小型のシジミチョウを探します。翅裏の3本の筋（帯）が識別ポイント。夕方に活動が活発。"
+    },
+    "en": {
+      "summary": "A hairstreak (Lycaenidae), one of the green-hairstreak group, of montane and hill deciduous forest, especially oak woods; named for the three streaks (bands) on the underside of the wings. Larvae feed on oaks and other Fagaceae.",
+      "habitat_hint": "Montane and hill deciduous forest, oak woods, secondary woodland.",
+      "finding_tips": "In June–August look for the small hairstreak flying in the canopy; the three streaks on the wing underside are the clue, and it is most active toward evening."
+    },
+    "zh": {
+      "summary": "ウラミスジシジミ（三线灰蝶类，Wagimo signata）。灰蝶科绿灰蝶（Zephyrus）之一，栖于山地与丘陵落叶林，尤栎林，翅反面具三条纹（带），故名，幼虫取食栎类等壳斗科。",
+      "habitat_hint": "山地与丘陵落叶林、栎林、杂木林。",
+      "finding_tips": "6 至 8 月寻找树冠飞舞的小型灰蝶；翅反面三条纹为辨识要点，黄昏活动活跃。"
+    }
   }
 }
