@@ -212278,5 +212278,416 @@
       "habitat_hint": "路旁、空地、造地、填筑地向阳处。",
       "finding_tips": "8 至 10 月寻找黄色五瓣小花及叶基小刺状突起。"
     }
+  },
+  "Asperifolia arguta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャボホラゴケモドキ。コケシノブ科の小さな常緑性シダ（膜状シダ）で、湿った岩壁や樹幹、渓谷沿いの日陰に着生する。葉は膜のように薄く半透明で、細く分裂する。",
+      "habitat_hint": "湿った岩壁、樹幹、渓谷沿いの日陰、滝のしぶきのかかる岩。",
+      "finding_tips": "一年中見られます。膜のように薄く半透明で細く分裂した小さな葉を、湿った岩壁でルーペで探します。"
+    },
+    "en": {
+      "summary": "A small evergreen filmy fern (Hymenophyllaceae) epiphytic on damp rock walls, tree trunks and shaded ravines; its fronds are membrane-thin and translucent, finely divided.",
+      "habitat_hint": "Damp rock walls, tree trunks, shaded ravines, spray-wet rock by falls.",
+      "finding_tips": "Present year-round; use a lens on damp rock walls to find the small, membrane-thin, translucent, finely divided fronds."
+    },
+    "zh": {
+      "summary": "チャボホラゴケモドキ。膜蕨科小型常绿蕨类（膜蕨），附生于湿润岩壁、树干及溪谷荫处，叶薄如膜而半透明、细裂。",
+      "habitat_hint": "湿润岩壁、树干、溪谷荫处、瀑布飞溅的岩面。",
+      "finding_tips": "全年可见；用放大镜在湿润岩壁上寻找薄如膜、半透明而细裂的小叶。"
+    }
+  },
+  "Plagiochila sciophila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コハネゴケ。ハネゴケ科の葉状苔類で、湿った林床の腐木や岩、樹幹の基部にマットをつくる。丸みのある葉が茎の左右に並び、葉の縁に細かい歯があるものが多い。",
+      "habitat_hint": "湿った林床の腐木、岩上、樹幹の基部、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。丸みのある葉が茎の左右に並ぶ姿と、葉の縁の細かい歯をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Plagiochilaceae) forming mats on rotten wood, rock and tree bases on damp woodland floor; the rounded leaves are set in two ranks along the stem, often finely toothed at the margin.",
+      "habitat_hint": "Rotten wood, rock and tree bases on damp woodland floor, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the rounded two-ranked leaves and the fine teeth on the leaf margins."
+    },
+    "zh": {
+      "summary": "コハネゴケ。羽苔科叶状苔类，于湿润林床腐木、岩面及树基形成垫状群落，叶圆钝、沿茎两列排列，叶缘多具细齿。",
+      "habitat_hint": "湿润林床腐木、岩面、树基、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察沿茎两列排列的圆钝叶片及叶缘细齿。"
+    }
+  },
+  "Radula japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマトケビラゴケ。ケビラゴケ科の葉状苔類で、湿った樹皮や岩の上に薄い緑のマットをつくって着生する。葉は2つの裂片に分かれ、小さな腹片が特徴。",
+      "habitat_hint": "湿った樹皮、岩上、常緑樹林内、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。樹皮や岩に着生する薄い緑のマットと、2裂する葉をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Radulaceae) growing as thin green mats on damp bark and rock; the leaves are divided into two lobes with a small ventral lobule.",
+      "habitat_hint": "Damp bark, rock, evergreen forest interior, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the thin green mats on bark and rock and the two-lobed leaves."
+    },
+    "zh": {
+      "summary": "ヤマトケビラゴケ（日本扁萼苔，Radula japonica）。扁萼苔科叶状苔类，附生于湿润树皮与岩面，形成薄绿垫，叶二裂并具小腹瓣。",
+      "habitat_hint": "湿润树皮、岩面、常绿林内、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察附生树皮岩面的薄绿垫与二裂叶片。"
+    }
+  },
+  "Sciuro-hypnum plumosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハネヒツジゴケ。アオギヌゴケ科の蘚類で、渓流沿いの湿った岩や水際の石、樹の根元に、光沢のある緑〜黄緑のマットをつくる。水しぶきのかかる岩に多い。",
+      "habitat_hint": "渓流沿いの湿った岩、水際の石、樹幹の基部、滝のそば。",
+      "finding_tips": "一年中見られます。渓流沿いの岩に付く光沢のある緑〜黄緑のマットを探します。"
+    },
+    "en": {
+      "summary": "Rusty ragged-moss (Sciuro-hypnum plumosum). A pleurocarpous moss (Brachytheciaceae) forming glossy green to yellow-green mats on damp streamside rock, waterside stones and tree bases; common on spray-wet rock.",
+      "habitat_hint": "Damp streamside rock, waterside stones, tree bases, near waterfalls.",
+      "finding_tips": "Present year-round; look for the glossy green to yellow-green mats on streamside rock."
+    },
+    "zh": {
+      "summary": "ハネヒツジゴケ。青藓科藓类，于溪流沿岸湿岩、水边石块及树基形成有光泽的绿至黄绿色垫，多见于飞溅湿润的岩面。",
+      "habitat_hint": "溪流沿岸湿岩、水边石块、树基、瀑布近旁。",
+      "finding_tips": "全年可见；在溪流沿岸岩面上寻找有光泽的绿至黄绿色藓垫。"
+    }
+  },
+  "Soliva sessilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Field burrweed",
+    "ja": {
+      "summary": "メリケントキンソウ。南アメリカ原産のキク科の小さな一年草で、芝生や公園、運動場に帰化する。地面を這って広がり、果実に鋭い刺があるため、素足や手をつくと刺さって痛い要注意の外来種。",
+      "habitat_hint": "芝生、公園、運動場、踏み固められた道端。",
+      "finding_tips": "4〜6月、芝地を這う細かく裂けた葉を探します。初夏に熟す刺のある果実に注意（素足で踏むと痛い）。"
+    },
+    "en": {
+      "summary": "Field burrweed (Soliva sessilis). A small South-American annual (Asteraceae) naturalised in lawns, parks and sports grounds; it creeps over the ground and its fruits bear sharp spines that painfully prick bare feet and hands — a weed to watch for.",
+      "habitat_hint": "Lawns, parks, sports grounds, trodden roadsides.",
+      "finding_tips": "In April–June look for the finely divided leaves creeping over turf; beware the spiny fruits that ripen in early summer (they hurt bare feet)."
+    },
+    "zh": {
+      "summary": "メリケントキンソウ（钻叶紫菀式草—刺果，Soliva sessilis）。原产南美的菊科小型一年生草本，归化于草坪、公园与运动场，匍匐蔓延，果实具锐刺，赤足或手按易被刺痛，为须留意的外来杂草。",
+      "habitat_hint": "草坪、公园、运动场、践踏路旁。",
+      "finding_tips": "4 至 6 月寻找匍匐草坪的细裂叶；初夏成熟的刺果需当心（赤足踩踏刺痛）。"
+    }
+  },
+  "Trillium camschatcense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamchatka trillium",
+    "aliases": {
+      "zh-Hans": "吉林延龄草"
+    },
+    "ja": {
+      "summary": "オオバナノエンレイソウ。シュロソウ科（旧ユリ科）エンレイソウ属の多年草で、北海道〜本州の落葉樹林の林床に群生する。3枚の大きな葉の中心から、春に白い大きな3弁の花を1個上向きに開く。",
+      "habitat_hint": "落葉樹林の林床、沢沿いのやや湿った腐植土、林縁。",
+      "finding_tips": "4〜5月、3枚の大きな葉の中心に開く白い大きな3弁の花を林床で探します。"
+    },
+    "en": {
+      "summary": "Kamchatka trillium (Trillium camschatcense). A perennial (Melanthiaceae) forming stands on deciduous woodland floor from Hokkaido to Honshu; from a whorl of three large leaves it opens a single large white three-petalled flower facing upward in spring.",
+      "habitat_hint": "Deciduous woodland floor, damp humus along streams, woodland edges.",
+      "finding_tips": "In April–May look on the woodland floor for the single large white three-petalled flower at the centre of three large leaves."
+    },
+    "zh": {
+      "summary": "オオバナノエンレイソウ（吉林延龄草，Trillium camschatcense）。藜芦科（旧百合科）延龄草属多年生草本，成丛生于北海道至本州落叶林林床，三枚大叶中央春季朝上开单朵白色大型三瓣花。",
+      "habitat_hint": "落叶林林床、沟谷略湿腐殖土、林缘。",
+      "finding_tips": "4 至 5 月于林床寻找三大叶中央朝上开放的白色大型三瓣花。"
+    }
+  },
+  "Bidens bipinnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバノセンダングサ。キク科センダングサ属の一年草で、道端や畑、荒れ地に生える。細かく2回羽状に裂けた葉をつけ、黄色い小さな頭花を咲かせる。果実は先の刺で衣服や動物にくっついて運ばれる（ひっつき虫）。",
+      "habitat_hint": "道端、畑、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "9〜11月、細かく2回羽状に裂けた葉と、先が刺になって衣服につく細長い果実を探します。"
+    },
+    "en": {
+      "summary": "Spanish needles (Bidens bipinnata). An annual (Asteraceae) of roadsides, fields and waste ground, with twice-pinnately divided leaves and small yellow flowerheads; the barbed fruits cling to clothing and animals.",
+      "habitat_hint": "Roadsides, fields, waste and made ground in sunny places.",
+      "finding_tips": "In September–November look for the twice-pinnately divided leaves and the slender barb-tipped fruits that stick to clothes."
+    },
+    "zh": {
+      "summary": "コバノセンダングサ（婆婆针，Bidens bipinnata）。菊科鬼针草属一年生草本，生于路旁、田地与荒地，叶二回羽状细裂，黄色小头状花序，果实先端具刺易附着衣物与动物。",
+      "habitat_hint": "路旁、田地、荒地、造地向阳处。",
+      "finding_tips": "9 至 11 月寻找二回羽状细裂叶与先端成刺、易附衣物的细长果实。"
+    }
+  },
+  "Bjerkandera adusta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤケイロタケ。タマチョレイタケ科の一年生の薄い多孔菌で、広葉樹の枯木や倒木、切株に発生する木材腐朽菌。灰白色の傘の裏の管孔面が灰黒色で、縁が焦げたように見えるのが名の由来。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株、伐採木。",
+      "finding_tips": "一年中見られます。枯木につく薄い傘と、灰黒色の管孔面（縁が焦げたように見える）を探します。"
+    },
+    "en": {
+      "summary": "Smoky bracket (Bjerkandera adusta). A thin annual polypore (Meruliaceae) on dead broadleaf wood, logs and stumps; the grey-white cap has a grey-black pore surface with a scorched-looking edge, hence the name.",
+      "habitat_hint": "Dead broadleaf wood, fallen logs, stumps, felled timber.",
+      "finding_tips": "Present year-round; look on dead wood for the thin cap and the grey-black pore surface with a scorched-looking margin."
+    },
+    "zh": {
+      "summary": "ヤケイロタケ（黑管菌，Bjerkandera adusta）。多孔菌科一年生薄质多孔菌，发生于阔叶枯木、倒木与树桩，为木材腐朽菌，灰白菌盖下管孔面灰黑、边缘似焦烧，故名。",
+      "habitat_hint": "阔叶枯木、倒木、树桩、伐木。",
+      "finding_tips": "全年可见；在枯木上寻找薄质菌盖及灰黑色、边缘似焦的管孔面。"
+    }
+  },
+  "Cerastium holosteoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオミミナグサ。ナデシコ科ミミナグサ属の多年草で、道端や芝地、畑、河川敷に生える。全体に毛があり、白い2裂した5弁花を咲かせる。ミミナグサより大型で無腺毛。",
+      "habitat_hint": "道端、芝地、畑、河川敷、やや湿った草地。",
+      "finding_tips": "4〜6月、対生する毛のある葉と、白い先が2裂した5弁の小花を探します。"
+    },
+    "en": {
+      "summary": "Common mouse-ear (Cerastium holosteoides). A perennial (Caryophyllaceae) of roadsides, lawns, fields and riverbanks; hairy throughout, it bears white flowers with five notched petals. Larger and non-glandular compared with field mouse-ear.",
+      "habitat_hint": "Roadsides, lawns, fields, riverbanks, damp grassland.",
+      "finding_tips": "In April–June look for the hairy opposite leaves and the white flowers with five deeply notched petals."
+    },
+    "zh": {
+      "summary": "オオミミナグサ（簇生泉卷耳类，Cerastium holosteoides）。石竹科卷耳属多年生草本，生于路旁、草坪、田地与河滩，全株被毛，开白色五瓣、瓣端二裂的花，较近缘种更大且无腺毛。",
+      "habitat_hint": "路旁、草坪、田地、河滩、略湿草地。",
+      "finding_tips": "4 至 6 月寻找对生被毛叶及白色五瓣、瓣端二裂的小花。"
+    }
+  },
+  "Chrysozephyrus smaragdina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jade hairstreak",
+    "ja": {
+      "summary": "メスアカミドリシジミ。シジミチョウ科のゼフィルス（ミドリシジミ類）の一種で、山地の落葉樹林に生息する。オスの翅の表は金属光沢の強い緑色に輝き、メスは前翅に赤橙色の斑が入る（名の由来）。幼虫はサクラ類などを食べる。",
+      "habitat_hint": "山地・丘陵の落葉樹林、雑木林、渓谷沿いの林。",
+      "finding_tips": "6〜7月、樹上を活発に飛ぶオスの金属緑色の翅と、前翅に赤斑のあるメスを探します。夕方に活動が活発。"
+    },
+    "en": {
+      "summary": "A green hairstreak (Chrysozephyrus, Lycaenidae) of montane deciduous forest; the male's upperside shines a strong metallic green, while the female has a red-orange patch on the forewing (source of the Japanese name). Larvae feed on cherries and related trees.",
+      "habitat_hint": "Montane and hill deciduous forest, secondary woodland, ravine forest.",
+      "finding_tips": "In June–July look for the male's metallic green wings flitting in the canopy and the female with a red forewing patch; most active toward evening."
+    },
+    "zh": {
+      "summary": "メスアカミドリシジミ（翠灰蝶类，Chrysozephyrus smaragdina）。灰蝶科绿灰蝶（Zephyrus）之一，栖于山地落叶林，雄蝶翅面金属绿色强烈闪光，雌蝶前翅具红橙色斑（和名由来），幼虫取食樱属等。",
+      "habitat_hint": "山地与丘陵落叶林、杂木林、溪谷林。",
+      "finding_tips": "6 至 7 月寻找树冠活跃飞舞、翅金属绿的雄蝶及前翅具红斑的雌蝶；黄昏活动活跃。"
+    }
+  },
+  "Deparia pterorachis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオメシダ。イワデンダ科（旧メシダ科）の大型の夏緑性シダで、山地の湿った林床や沢沿い、湿った斜面に大きな株をつくる。2回羽状に分かれた大きな葉を放射状に立てる。",
+      "habitat_hint": "山地の湿った林床、沢沿い、湿った斜面、湿原の周縁の林。",
+      "finding_tips": "夏〜秋、大きく放射状に立つ2回羽状の葉を、湿った林床で探します。葉軸に翼状の張り出しがある。"
+    },
+    "en": {
+      "summary": "A large summer-green fern (Woodsiaceae) forming big clumps on damp montane woodland floor, streamsides and wet slopes, raising large twice-pinnate fronds in a rosette.",
+      "habitat_hint": "Damp montane woodland floor, streamsides, wet slopes, wooded bog margins.",
+      "finding_tips": "In summer–autumn look on damp woodland floor for the large radiating twice-pinnate fronds; the rachis is winged."
+    },
+    "zh": {
+      "summary": "オオメシダ。岩蕨科（旧蹄盖蕨科）大型夏绿性蕨类，于山地湿润林床、沟谷及湿坡形成大型株丛，二回羽状大叶呈放射状竖立。",
+      "habitat_hint": "山地湿润林床、沟谷、湿坡、湿原周缘林。",
+      "finding_tips": "夏至秋于湿润林床寻找放射状竖立的二回羽状大叶；叶轴具翼状延伸。"
+    }
+  },
+  "Dichondra micrantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオイゴケ。ヒルガオ科アオイゴケ属の多年草で、芝地や道端、公園の地面を這って広がる。腎形（小さなアオイの葉に似た）の葉を密につけ、グラウンドカバーにも使われる。目立たない小さな花を咲かせる。",
+      "habitat_hint": "芝地、道端、公園の地面、庭のグラウンドカバー、石垣の際。",
+      "finding_tips": "地面を這う腎形の小さな葉のマットを探します。花は小さく目立たない。暖地では一年中葉が見られる。"
+    },
+    "en": {
+      "summary": "Lawnleaf (Dichondra micrantha). A perennial (Convolvulaceae) creeping over lawns, roadsides and park ground; it forms dense mats of small kidney-shaped leaves and is used as a groundcover, with inconspicuous small flowers.",
+      "habitat_hint": "Lawns, roadsides, park ground, garden groundcover, wall bases.",
+      "finding_tips": "Look for the ground-hugging mat of small kidney-shaped leaves; flowers are tiny and inconspicuous, leaves present year-round in warm areas."
+    },
+    "zh": {
+      "summary": "アオイゴケ（马蹄金，Dichondra micrantha）。旋花科马蹄金属多年生草本，匍匐蔓延于草坪、路旁与公园地面，密生肾形小叶，常作地被，花小而不显。",
+      "habitat_hint": "草坪、路旁、公园地面、庭园地被、墙基。",
+      "finding_tips": "寻找贴地蔓延的肾形小叶垫；花小不显，暖地叶全年可见。"
+    }
+  },
+  "Dopatrium junceum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アブノメ。オオバコ科（旧ゴマノハグサ科）の一年草で、水田や湿地、休耕田に生える。無毛でやや多肉質の細い茎を立て、上部の葉腋に淡紅紫色の小さな唇形の花をつける。",
+      "habitat_hint": "水田、湿地、休耕田、湿った溝の縁。",
+      "finding_tips": "8〜10月、無毛で多肉質の細い茎と、上部の葉腋につく淡紅紫色の小さな唇形の花を水田で探します。"
+    },
+    "en": {
+      "summary": "Horsefly's eye (Dopatrium junceum). An annual (Plantaginaceae, formerly Scrophulariaceae) of paddy fields, wetlands and fallow wet fields; it raises a hairless, somewhat succulent slender stem with small pale purple two-lipped flowers in the upper leaf axils.",
+      "habitat_hint": "Paddy fields, wetlands, fallow wet fields, damp ditch margins.",
+      "finding_tips": "In August–October look in paddies for the hairless succulent slender stem and the small pale-purple two-lipped flowers in the upper leaf axils."
+    },
+    "zh": {
+      "summary": "アブノメ（虻眼，Dopatrium junceum）。车前科（旧玄参科）一年生草本，生于水田、湿地与休耕田，茎无毛而略肉质，上部叶腋着生淡紫红色唇形小花。",
+      "habitat_hint": "水田、湿地、休耕田、湿润沟缘。",
+      "finding_tips": "8 至 10 月于水田寻找无毛略肉质的细茎及上部叶腋的淡紫红色唇形小花。"
+    }
+  },
+  "Elatostema radicans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオサンショウソウ。イラクサ科サンショウソウ属の多年草で、山地の谷沿いや渓流沿いの湿った日陰に地を這って広がる。左右不対称の小さな葉を2列につけ、目立たない小花をつける。サンショウソウより大型。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った日陰、水のしみ出す岩際。",
+      "finding_tips": "夏〜秋、湿った日陰を這う茎と、左右不対称に2列につく小さな葉を探します。サンショウソウより大きい。"
+    },
+    "en": {
+      "summary": "A perennial (Urticaceae) creeping over damp shaded ground along montane valleys and streams; it bears small asymmetric leaves in two ranks and inconspicuous flowers. Larger than the related sanshoso.",
+      "habitat_hint": "Montane valleys, damp shaded streamsides, seepage-wet rock margins.",
+      "finding_tips": "In summer–autumn look for the creeping stems in damp shade and the small asymmetric two-ranked leaves; larger than the related species."
+    },
+    "zh": {
+      "summary": "オオサンショウソウ。荨麻科楼梯草属多年生草本，于山地谷地与溪流沿岸湿润荫处匍匐蔓延，小叶两侧不对称、两列排列，花不显，较近缘种更大。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润荫处、渗水岩缘。",
+      "finding_tips": "夏至秋于湿润荫处寻找匍匐茎及两侧不对称、两列排列的小叶；较近缘种大。"
+    }
+  },
+  "Entodon sullivantii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソミツヤゴケ。ツヤゴケ科の蘚類で、樹の根元や石垣、地表に扁平で光沢のある緑のマットをつくる。ヒロツヤゴケに似るがより細い。都市の公園でもよく見られる。",
+      "habitat_hint": "樹幹の基部、石垣、土の上、コンクリート際。人里に多い。",
+      "finding_tips": "一年中見られます。扁平で光沢のある細い緑のマットを樹の根元や石の上で探します。"
+    },
+    "en": {
+      "summary": "Sullivant's silk-moss (Entodon sullivantii). A pleurocarpous moss (Entodontaceae) forming flattened, glossy green mats on tree bases, stone walls and soil; like the broader Entodon challengeri but more slender, common in parks.",
+      "habitat_hint": "Tree bases, stone walls, soil, concrete edges — common near habitation.",
+      "finding_tips": "Present year-round; look for the flat, glossy, slender green mats at tree bases and on stones."
+    },
+    "zh": {
+      "summary": "ホソミツヤゴケ。绢藓科藓类，于树基、石墙及地表形成扁平有光泽的绿垫，似宽绢藓而更细，城市公园中常见。",
+      "habitat_hint": "树基、石墙、土面、混凝土边缘；人居环境常见。",
+      "finding_tips": "全年可见；在树基与石面上寻找扁平有光泽的细绿藓垫。"
+    }
+  },
+  "Epimedium koreanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Korean barrenwort",
+    "aliases": {
+      "zh-Hans": "朝鲜淫羊藿"
+    },
+    "ja": {
+      "summary": "キバナイカリソウ。メギ科イカリソウ属の多年草で、山地の落葉樹林の林床や林縁に生える。春、船の錨（いかり）のような距をもつ淡黄色の花を咲かせる。若葉と花を同時に展開する。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った腐植土。",
+      "finding_tips": "4〜5月、錨形の距をもつ淡黄色の花と、展開したばかりの若葉を林床で探します。"
+    },
+    "en": {
+      "summary": "Korean barrenwort (Epimedium koreanum). A perennial (Berberidaceae) of montane deciduous woodland floor and edges; in spring it opens pale-yellow flowers with anchor-like spurs, unfolding its young leaves at the same time.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, damp humus.",
+      "finding_tips": "In April–May look on the woodland floor for the pale-yellow flowers with anchor-shaped spurs and the just-unfolding young leaves."
+    },
+    "zh": {
+      "summary": "キバナイカリソウ（朝鲜淫羊藿，Epimedium koreanum）。小檗科淫羊藿属多年生草本，生于山地落叶林林床与林缘，春开淡黄色花、具船锚状距，与嫩叶同时展开。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿腐殖土。",
+      "finding_tips": "4 至 5 月于林床寻找具锚状距的淡黄色花及初展的嫩叶。"
+    }
+  },
+  "Epipactis thunbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thunberg's helleborine",
+    "ja": {
+      "summary": "カキラン（スズラン）。ラン科カキラン属の地生ランで、日当たりのよい湿地や湿った草地、休耕田に生える。名（柿蘭）のとおり、初夏に柿色（黄橙色）の花を茎に多数、総状につける。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、休耕田、湿原の周縁。",
+      "finding_tips": "6〜7月、湿地で茎に総状につく柿色（黄橙色）の花を探します。唇弁の内側に紅紫色の斑がある。"
+    },
+    "en": {
+      "summary": "Thunberg's helleborine (Epipactis thunbergii). A terrestrial orchid (Orchidaceae) of sunny wetlands, damp meadows and fallow wet fields; in early summer it bears many persimmon-orange flowers in a raceme up the stem (hence the Japanese name \"persimmon orchid\").",
+      "habitat_hint": "Sunny wetlands, damp meadows, fallow wet fields, bog margins.",
+      "finding_tips": "In June–July look in wet ground for the raceme of persimmon-orange flowers up the stem; the lip has reddish-purple markings inside."
+    },
+    "zh": {
+      "summary": "カキラン（火烧兰类，Epipactis thunbergii）。兰科火烧兰属地生兰，生于向阳湿地、湿润草甸与休耕田，初夏于茎上总状着生多数柿色（黄橙）花，唇瓣内侧具紫红斑。",
+      "habitat_hint": "向阳湿地、湿润草甸、休耕田、湿原周缘。",
+      "finding_tips": "6 至 7 月于湿地寻找茎上总状排列的柿色花；唇瓣内侧具紫红斑纹。"
+    }
+  },
+  "Fissidens dubius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock pocket-moss",
+    "ja": {
+      "summary": "トサカホウオウゴケ。ホウオウゴケ科の蘚類で、湿った岩や石灰岩、土の斜面、渓流沿いに生える。葉が茎の左右に2列に並び、鳥の羽のように見える。葉の縁が明るい帯（縁取り）で縁どられる。",
+      "habitat_hint": "湿った岩、石灰岩、土の斜面、渓流沿いの日陰、石垣。",
+      "finding_tips": "一年中見られます。左右2列に並ぶ羽状の葉と、葉の縁の明るい縁取りをルーペで確認します。"
+    },
+    "en": {
+      "summary": "Rock pocket-moss (Fissidens dubius). A moss (Fissidentaceae) of damp rock, limestone, soil slopes and streamsides; its leaves are two-ranked and feather-like, edged with a paler border.",
+      "habitat_hint": "Damp rock, limestone, soil slopes, shaded streamsides, stone walls.",
+      "finding_tips": "Present year-round; use a lens to check the two-ranked feather-like leaves with their paler bordered margins."
+    },
+    "zh": {
+      "summary": "トサカホウオウゴケ（卷叶凤尾藓类，Fissidens dubius）。凤尾藓科藓类，生于湿岩、石灰岩、土坡及溪流沿岸，叶两列排列如羽，叶缘具浅色边。",
+      "habitat_hint": "湿岩、石灰岩、土坡、溪流荫处、石墙。",
+      "finding_tips": "全年可见；用放大镜观察两列排列如羽的叶片及叶缘浅色边。"
+    }
+  },
+  "Lepisorus distans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマノキシノブ。ウラボシ科ノキシノブ属の常緑性シダで、山地の樹幹や苔むした岩に着生する。分裂しない細長い単葉を、間隔をあけて地下茎から出す。葉裏に円形の胞子嚢群が並ぶ。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩、渓谷沿いの日陰。",
+      "finding_tips": "一年中見られます。地下茎から間隔をあけて出る細長い単葉と、葉裏の円形の胞子嚢群を探します。"
+    },
+    "en": {
+      "summary": "An evergreen fern (Polypodiaceae) epiphytic on montane tree trunks and mossy rock; it produces simple, undivided, elongated fronds spaced apart along a creeping rhizome, with round sori on the underside.",
+      "habitat_hint": "Damp montane tree trunks, mossy rock, shaded ravines.",
+      "finding_tips": "Present year-round; look for the spaced-out, simple elongated fronds arising from a creeping rhizome and the round sori beneath."
+    },
+    "zh": {
+      "summary": "ミヤマノキシノブ。水龙骨科瓦韦属常绿蕨类，附生于山地树干与生苔岩石，由匍匐根状茎间隔生出不裂的狭长单叶，叶背具圆形孢子囊群。",
+      "habitat_hint": "山地湿润树干、生苔岩石、溪谷荫处。",
+      "finding_tips": "全年可见；寻找由匍匐根状茎间隔生出的狭长单叶及叶背圆形孢子囊群。"
+    }
   }
 }
