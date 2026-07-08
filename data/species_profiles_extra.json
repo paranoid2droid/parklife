@@ -210587,5 +210587,414 @@
       "habitat_hint": "暖海岩礁、潮下带、内湾藻场。",
       "finding_tips": "春至初夏长成大型；于岩滩寻找具刺状突起枝条与小气囊的褐色海藻。"
     }
+  },
+  "Ammannia auriculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメミソハギ。ミソハギ科の一年草で、水田や湿地、溝の縁など湿った場所に生える。茎は四角く、葉のつけ根に淡紅色の小花を数個ずつ束生させる。",
+      "habitat_hint": "水田、湿地、溝や池の縁、湿った休耕田。",
+      "finding_tips": "8〜10月、四角い茎と、葉腋に集まる淡紅色の小さな花を探します。"
+    },
+    "en": {
+      "summary": "Eared redstem (Ammannia auriculata). An annual (Lythraceae) of paddy fields, wetlands and ditch margins, with square stems and small pale-pink flowers clustered in the leaf axils.",
+      "habitat_hint": "Paddy fields, wetlands, ditch and pond margins, fallow wet fields.",
+      "finding_tips": "In August–October look for the square stems and the small pale-pink flowers clustered in the leaf axils."
+    },
+    "zh": {
+      "summary": "ヒメミソハギ（耳叶水苋菜，Ammannia auriculata）。千屈菜科一年生草本，生于水田、湿地及沟缘等湿处，茎四棱，叶腋簇生数朵淡红色小花。",
+      "habitat_hint": "水田、湿地、沟渠与池塘边缘、湿润休耕田。",
+      "finding_tips": "8 至 10 月寻找四棱茎及叶腋簇生的淡红色小花。"
+    }
+  },
+  "Bellardia viscosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイヨウヒキヨモギ。地中海地方原産のハマウツボ科の一年草で、他の植物の根に半寄生する。全体に腺毛が密生してべたつき、黄色い唇形の花を穂状につける。道端や河川敷に帰化。",
+      "habitat_hint": "道端、河川敷、造成地、海岸近くの草地。",
+      "finding_tips": "5〜7月、べたつく腺毛の茎と、穂状に並ぶ黄色い唇形の花を探します。"
+    },
+    "en": {
+      "summary": "Yellow bartsia (Bellardia viscosa). A Mediterranean annual (Orobanchaceae) that hemiparasitises the roots of other plants; densely sticky-glandular throughout, it bears yellow two-lipped flowers in a spike. Naturalised on roadsides and riverbanks.",
+      "habitat_hint": "Roadsides, riverbanks, made ground, coastal grassland.",
+      "finding_tips": "In May–July look for the sticky glandular stems and the spike of yellow two-lipped flowers."
+    },
+    "zh": {
+      "summary": "セイヨウヒキヨモギ（黏腺鼻花，yellow bartsia）。原产地中海的列当科一年生草本，半寄生于他种植物根部，全株密被黏腺毛，穗状着生黄色唇形花，归化于路旁、河滩。",
+      "habitat_hint": "路旁、河滩、造地、近海草地。",
+      "finding_tips": "5 至 7 月寻找黏腻腺毛的茎与穗状排列的黄色唇形花。"
+    }
+  },
+  "Leptodictyum riparium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤナギゴケ。ヤナギゴケ科の水生〜半水生の蘚類で、池や溝、湿地の水中や水際の石・木に付いて長く柔らかい茎をのばす。細く尖った葉が特徴。",
+      "habitat_hint": "池沼や溝の水中、水際の石・木、湿地。",
+      "finding_tips": "一年中見られます。水中や水際で長く柔らかく垂れる緑の茎と、細く尖った葉を探します。"
+    },
+    "en": {
+      "summary": "Kneiff's feather-moss (Leptodictyum riparium). An aquatic to semi-aquatic moss (Amblystegiaceae) that trails long, soft stems in and beside ponds, ditches and wetlands, attached to submerged stones and wood; leaves are narrow and pointed.",
+      "habitat_hint": "Submerged in ponds and ditches, on waterside stones and wood, wetlands.",
+      "finding_tips": "Present year-round; look for the long soft trailing green stems with narrow pointed leaves in and beside water."
+    },
+    "zh": {
+      "summary": "ヤナギゴケ（沼羽藓类，Leptodictyum riparium）。柳叶藓科水生至半水生藓类，附于池沟湿地水中及水边石木，茎细长柔软下垂，叶狭而渐尖。",
+      "habitat_hint": "池沼与沟渠水中、水边石木、湿地。",
+      "finding_tips": "全年可见；在水中及水边寻找细长柔软下垂的绿茎与狭尖叶片。"
+    }
+  },
+  "Poa compressa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コイチゴツナギ。ヨーロッパ原産のイネ科イチゴツナギ属の多年草で、道端や芝地、荒れ地に帰化する。茎の基部が扁平につぶれ、青緑色を帯びるのが特徴。",
+      "habitat_hint": "道端、芝地、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜7月、平たくつぶれた茎の基部と、青緑を帯びた狭い円錐花序を探します。"
+    },
+    "en": {
+      "summary": "Canada bluegrass (Poa compressa). A European perennial (Poaceae) naturalised on roadsides, lawns and waste ground; the stem base is distinctly flattened and the plant is bluish-green.",
+      "habitat_hint": "Roadsides, lawns, waste and made ground in sunny places.",
+      "finding_tips": "In May–July look for the flattened stem base and the bluish-green, narrow panicle."
+    },
+    "zh": {
+      "summary": "コイチゴツナギ（加拿大早熟禾，Poa compressa）。原产欧洲的禾本科早熟禾属多年生草本，归化于路旁、草坪与荒地，茎基明显扁压、植株带青绿色。",
+      "habitat_hint": "路旁、草坪、荒地、造地向阳处。",
+      "finding_tips": "5 至 7 月寻找扁压的茎基与青绿色狭圆锥花序。"
+    }
+  },
+  "Alnus maximowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maximowicz's alder",
+    "ja": {
+      "summary": "ミヤマハンノキ。カバノキ科の落葉低木〜小高木で、亜高山〜高山帯の斜面や崩壊地、河原に生える。根に窒素固定菌を持ち、荒れ地に先駆けて定着するパイオニア樹。",
+      "habitat_hint": "亜高山〜高山帯の斜面、崩壊地、雪崩地、河原。",
+      "finding_tips": "春の芽吹き前後、垂れ下がる雄花穂と、球果状の小さな果穂を探します。丸みのある鋸歯の葉が手がかり。"
+    },
+    "en": {
+      "summary": "Maximowicz's alder (Alnus maximowiczii). A deciduous shrub to small tree (Betulaceae) of subalpine to alpine slopes, landslips and riverbeds; with nitrogen-fixing root nodules it is a pioneer that colonises bare ground.",
+      "habitat_hint": "Subalpine to alpine slopes, landslips, avalanche tracks, riverbeds.",
+      "finding_tips": "Around bud-break look for the drooping male catkins and the small cone-like fruiting spikes; the rounded-toothed leaves are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマハンノキ（深山桤木，Alnus maximowiczii）。桦木科落叶灌木至小乔木，生于亚高山至高山坡地、崩塌地及河滩，根具固氮菌，为定着荒地的先锋树种。",
+      "habitat_hint": "亚高山至高山坡地、崩塌地、雪崩迹地、河滩。",
+      "finding_tips": "春季萌芽前后寻找下垂雄花序与球果状小果穗；叶缘圆钝锯齿为辨识线索。"
+    }
+  },
+  "Bromus hordeaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマチャヒキ。ヨーロッパ原産のイネ科スズメノチャヒキ属の一〜越年草で、道端や河川敷、海岸に帰化する。密に集まった軟毛のある小穂を短い穂につける。",
+      "habitat_hint": "道端、河川敷、海岸の砂地、造成地。",
+      "finding_tips": "5〜6月、軟毛のある膨らんだ小穂が密に集まった穂を探します。"
+    },
+    "en": {
+      "summary": "Soft brome (Bromus hordeaceus). A European annual to biennial grass naturalised on roadsides, riverbanks and coasts, with softly hairy, plump spikelets crowded into a short head.",
+      "habitat_hint": "Roadsides, riverbanks, coastal sand, made ground.",
+      "finding_tips": "In May–June look for the short head of plump, softly hairy spikelets."
+    },
+    "zh": {
+      "summary": "ハマチャヒキ（大麦状雀麦，Bromus hordeaceus）。原产欧洲的禾本科雀麦属一至二年生草本，归化于路旁、河滩及海岸，小穗肿胀被软毛、密集成短穗。",
+      "habitat_hint": "路旁、河滩、海岸沙地、造地。",
+      "finding_tips": "5 至 6 月寻找肿胀而被软毛的小穗密集而成的短花序。"
+    }
+  },
+  "Carduus crispus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒレアザミ。キク科ヒレアザミ属の越年草で、茎に沿って刺のある翼（ひれ）が発達するのが名の由来。道端や河川敷、荒れ地に生え、初夏に紅紫色の頭花をつける。",
+      "habitat_hint": "道端、河川敷、畑の縁、荒れ地。",
+      "finding_tips": "5〜7月、茎に沿って刺のある翼が続く姿と、紅紫色の小さな頭花を探します。"
+    },
+    "en": {
+      "summary": "Welted thistle (Carduus crispus). A biennial (Asteraceae) named for the spiny wings running down the stem; it grows on roadsides, riverbanks and waste ground, with reddish-purple flowerheads in early summer.",
+      "habitat_hint": "Roadsides, riverbanks, field edges, waste ground.",
+      "finding_tips": "In May–July look for the continuous spiny wings along the stem and the small reddish-purple flowerheads."
+    },
+    "zh": {
+      "summary": "ヒレアザミ（丝毛飞廉，Carduus crispus）。菊科飞廉属二年生草本，茎具连续的刺翅，故名，生于路旁、河滩与荒地，初夏开红紫色头状花序。",
+      "habitat_hint": "路旁、河滩、田缘、荒地。",
+      "finding_tips": "5 至 7 月寻找沿茎连续的刺翅与红紫色小头状花序。"
+    }
+  },
+  "Carex vesicaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blister sedge",
+    "aliases": {
+      "zh-Hans": "胀囊薹草"
+    },
+    "ja": {
+      "summary": "オニナルコスゲ。カヤツリグサ科スゲ属の多年草で、池沼の縁や湿地に群生する。ふくらんだ果胞（袋状の果実の入れ物）が密に並ぶ太い雌小穂が目立つ。",
+      "habitat_hint": "池沼の縁、湿地、休耕田、水路沿い。",
+      "finding_tips": "5〜7月、ふくらんだ果胞が密に並ぶ太い円柱形の雌小穂を探します。"
+    },
+    "en": {
+      "summary": "Blister sedge (Carex vesicaria). A perennial sedge growing in stands at pond margins and wetlands; the stout female spikes are packed with inflated utricles (bladder-like fruit sacs).",
+      "habitat_hint": "Pond margins, wetlands, fallow wet fields, along watercourses.",
+      "finding_tips": "In May–July look for the stout cylindrical female spikes densely set with inflated utricles."
+    },
+    "zh": {
+      "summary": "オニナルコスゲ（胀囊薹草，Carex vesicaria）。莎草科薹草属多年生草本，成丛生于池沼边缘与湿地，雌小穗粗壮、密生膨胀的囊状果囊。",
+      "habitat_hint": "池沼边缘、湿地、休耕田、水道沿岸。",
+      "finding_tips": "5 至 7 月寻找密生膨胀果囊的粗圆柱状雌小穗。"
+    }
+  },
+  "Ceratodon purpureus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤノウエノアカゴケ。キンシゴケ科の世界に広く分布する蘚類で、屋根や石垣、焼け跡、道端など乾いた開けた場所に生える普通種。胞子体の蒴柄が赤紫色に染まるのが名の由来。",
+      "habitat_hint": "屋根、石垣、コンクリート、焼け跡、日当たりのよい裸地。",
+      "finding_tips": "春、群生した株から立つ多数の赤紫色の蒴柄を探します。乾いた開けた場所に多い。"
+    },
+    "en": {
+      "summary": "Redshank (Ceratodon purpureus). A near-cosmopolitan moss (Ditrichaceae) common on roofs, walls, burnt ground and roadsides in dry open places; named for the purple-red seta of its sporophyte.",
+      "habitat_hint": "Roofs, stone walls, concrete, burnt ground, sunny bare soil.",
+      "finding_tips": "In spring look for the many purple-red setae rising from the dense turf; common in dry open sites."
+    },
+    "zh": {
+      "summary": "ヤノウエノアカゴケ（角齿藓，Ceratodon purpureus）。牛毛藓科近世界广布藓类，常见于屋顶、石墙、火烧迹地及路旁等干燥开阔处，孢子体蒴柄染紫红色，故名。",
+      "habitat_hint": "屋顶、石墙、混凝土、火烧迹地、向阳裸地。",
+      "finding_tips": "春季寻找密丛中直立的众多紫红色蒴柄；多见于干燥开阔处。"
+    }
+  },
+  "Cirsium sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's thistle",
+    "ja": {
+      "summary": "マアザミ（キセルアザミの別名でも呼ばれる）。キク科アザミ属の多年草で、湿地や湿った草原に生える。頭花は淡紅紫色で、はじめ下向きに咲くことが多い。",
+      "habitat_hint": "湿地、湿った草原、休耕田、水辺の草地。",
+      "finding_tips": "9〜10月、湿地で淡紅紫色の頭花を探します。下向きに咲く花と、湿地性という点が手がかり。"
+    },
+    "en": {
+      "summary": "Siebold's thistle (Cirsium sieboldii). A perennial thistle (Asteraceae) of wetlands and damp meadows, with pale rose-purple flowerheads that often nod downward when they first open.",
+      "habitat_hint": "Wetlands, damp meadows, fallow wet fields, waterside grassland.",
+      "finding_tips": "In September–October look in wet ground for the pale rose-purple flowerheads; the nodding flowers and wetland habitat are the clues."
+    },
+    "zh": {
+      "summary": "マアザミ（西博尔德蓟，Cirsium sieboldii）。菊科蓟属多年生草本，生于湿地与湿润草甸，头状花序淡红紫色，初开常下垂。",
+      "habitat_hint": "湿地、湿润草甸、休耕田、水边草地。",
+      "finding_tips": "9 至 10 月于湿地寻找淡红紫色头状花序；下垂花与湿生习性为辨识线索。"
+    }
+  },
+  "Loxogramme cuspidata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サジラン。ウラボシ科の常緑性シダで、樹幹や湿った岩に着生する。分裂しない細長いへら形（さじ形）の単葉が特徴で、葉裏に線形の胞子嚢群が斜めに並ぶ。",
+      "habitat_hint": "湿った照葉樹林内の樹幹、苔むした岩、渓谷沿い。",
+      "finding_tips": "一年中見られます。分裂しない細長いさじ形の葉と、葉裏に斜めに並ぶ線形の胞子嚢群を探します。"
+    },
+    "en": {
+      "summary": "A creeping fern (Polypodiaceae) epiphytic on tree trunks and damp rock; its simple, undivided, spoon-shaped fronds bear linear sori set obliquely on the underside.",
+      "habitat_hint": "Trunks in damp evergreen forest, mossy rock, along ravines.",
+      "finding_tips": "Present year-round; look for the undivided, elongated spoon-shaped fronds with linear sori running obliquely on the underside."
+    },
+    "zh": {
+      "summary": "サジラン。水龙骨科常绿蕨类，附生于树干与湿岩，单叶不裂、狭长匙形，叶背斜列线形孢子囊群为其特征。",
+      "habitat_hint": "湿润照叶林内树干、生苔岩石、溪谷沿岸。",
+      "finding_tips": "全年可见；寻找不分裂的狭长匙形叶及叶背斜列的线形孢子囊群。"
+    }
+  },
+  "Mentha spicata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spearmint",
+    "ja": {
+      "summary": "ミドリハッカ（スペアミント）。シソ科ハッカ属の多年草で、ヨーロッパ原産。ハーブとして広く栽培され、湿った道端や水辺に野生化する。しわのある葉と、穂状につく淡紫色の小花、清涼な香りが特徴。",
+      "habitat_hint": "湿った道端、水辺、庭の周辺、休耕地。",
+      "finding_tips": "7〜9月、しわのある葉をもむと清涼な香りがする点と、穂状の淡紫色の小花を探します。"
+    },
+    "en": {
+      "summary": "Spearmint (Mentha spicata). A European perennial (Lamiaceae) widely grown as a herb and naturalised on damp roadsides and watersides; recognised by its wrinkled leaves, spikes of pale-purple flowers and cool minty scent.",
+      "habitat_hint": "Damp roadsides, watersides, garden surrounds, fallow ground.",
+      "finding_tips": "In July–September crush a wrinkled leaf for the cool mint scent and look for the spikes of small pale-purple flowers."
+    },
+    "zh": {
+      "summary": "ミドリハッカ（留兰香，Mentha spicata）。唇形科薄荷属多年生草本，原产欧洲，广作香草栽培，野化于湿润路旁与水边，叶面皱、穗状淡紫色小花、气味清凉。",
+      "habitat_hint": "湿润路旁、水边、庭园周边、休耕地。",
+      "finding_tips": "7 至 9 月揉碎皱叶闻清凉薄荷香，并寻找穗状淡紫色小花。"
+    }
+  },
+  "Nuttallanthus texanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Texas toadflax",
+    "ja": {
+      "summary": "オオマツバウンラン。北アメリカ原産のオオバコ科（旧ゴマノハグサ科）の一〜越年草で、道端や芝地、造成地に帰化する。細い茎の先に距のある淡青紫色の小花を穂状につける。マツバウンランに似るが花がやや大きい。",
+      "habitat_hint": "道端、芝地、造成地、河川敷の日当たりのよい砂地。",
+      "finding_tips": "4〜6月、細い茎の先に距のある淡青紫色の花を探します。マツバウンランより花が大きい点が手がかり。"
+    },
+    "en": {
+      "summary": "Texas toadflax (Nuttallanthus texanus). A North American annual to biennial (Plantaginaceae) naturalised on roadsides, lawns and made ground; slender stems carry spikes of spurred pale blue-violet flowers, a little larger than in Canada toadflax.",
+      "habitat_hint": "Roadsides, lawns, made ground, sandy riverbanks in sun.",
+      "finding_tips": "In April–June look for spurred pale blue-violet flowers atop slender stems; slightly larger flowers than Canada toadflax."
+    },
+    "zh": {
+      "summary": "オオマツバウンラン（得州柳穿鱼，Nuttallanthus texanus）。原产北美的车前科（旧玄参科）一至二年生草本，归化于路旁、草坪与造地，细茎顶端穗状着生具距的淡蓝紫色小花，较加拿大柳穿鱼略大。",
+      "habitat_hint": "路旁、草坪、造地、河滩向阳沙地。",
+      "finding_tips": "4 至 6 月寻找细茎顶端具距的淡蓝紫色花；花较近缘种略大为辨识线索。"
+    }
+  },
+  "Polypogon monspeliensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマヒエガエリ。イネ科ヒエガエリ属の一年草で、海岸や河口、湿った道端、造成地に生える。長い芒が密生し、全体が絹毛のように柔らかく光る穂が特徴。",
+      "habitat_hint": "海岸、河口、湿った道端、造成地、水田の縁。",
+      "finding_tips": "5〜7月、長い芒が密生して絹のように柔らかく光る、円柱状の穂を探します。"
+    },
+    "en": {
+      "summary": "Annual beard grass (Polypogon monspeliensis). An annual grass of coasts, estuaries, damp roadsides and made ground; the dense long awns give the cylindrical head a soft, silky, shimmering look.",
+      "habitat_hint": "Coasts, estuaries, damp roadsides, made ground, paddy margins.",
+      "finding_tips": "In May–July look for the cylindrical head made soft and silky by its dense long awns."
+    },
+    "zh": {
+      "summary": "ハマヒエガエリ（长芒棒头草，Polypogon monspeliensis）。禾本科棒头草属一年生草本，生于海岸、河口、湿润路旁与造地，长芒密集使圆柱状花序柔软如丝而闪光。",
+      "habitat_hint": "海岸、河口、湿润路旁、造地、水田边缘。",
+      "finding_tips": "5 至 7 月寻找长芒密生、柔软如丝的圆柱状花序。"
+    }
+  },
+  "Sasa chartacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "センダイザサ。イネ科ササ属の常緑のササで、山地の林下や林縁に群生する。やや大きめの葉をつけ、地下茎で広がって一面の笹原をつくる。",
+      "habitat_hint": "山地の落葉樹林の林下、林縁、やや湿った斜面。",
+      "finding_tips": "一年中見られます。冬も枯れない常緑の葉と、葉の縁の枯れ込み方（隈取り）を観察します。地下茎で群生する。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (Sasa, Poaceae) forming evergreen thickets in the understorey and edges of montane forest; it bears fairly large leaves and spreads by rhizomes into continuous grass-bamboo swards.",
+      "habitat_hint": "Understorey and edges of montane deciduous forest, damp slopes.",
+      "finding_tips": "Present year-round; note the evergreen leaves that persist through winter and the way the leaf margins wither, and its rhizomatous colonies."
+    },
+    "zh": {
+      "summary": "センダイザサ。禾本科赤竹属常绿矮竹，成丛生于山地林下与林缘，叶较大，借地下茎蔓延成连片竹丛。",
+      "habitat_hint": "山地落叶林林下、林缘、略湿坡地。",
+      "finding_tips": "全年可见；观察冬季不枯的常绿叶片与叶缘枯镶纹样，其借地下茎成群。"
+    }
+  },
+  "Solidago decurrens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian goldenrod",
+    "ja": {
+      "summary": "コガネギク（アキノキリンソウの仲間）。キク科アキノキリンソウ属の多年草で、山地の日当たりのよい草地や林縁、岩場に生える。秋、茎の上部に黄色い小さな頭花を穂状〜総状につける。",
+      "habitat_hint": "山地の草地、林縁、岩場、日当たりのよい斜面。",
+      "finding_tips": "9〜10月、茎の上部に集まって咲く黄色い小さな頭花を探します。葉のつけ根が茎に流れる（翼状）点が手がかり。"
+    },
+    "en": {
+      "summary": "Asian goldenrod (Solidago decurrens). A perennial (Asteraceae) of sunny montane grassland, woodland edges and rocky ground, bearing small yellow flowerheads in spikes to racemes in the upper stem in autumn.",
+      "habitat_hint": "Montane grassland, woodland edges, rocky ground, sunny slopes.",
+      "finding_tips": "In September–October look for the small yellow flowerheads clustered up the stem; the leaf bases running down the stem (decurrent) are the clue."
+    },
+    "zh": {
+      "summary": "コガネギク（一枝黄花，Solidago decurrens）。菊科一枝黄花属多年生草本，生于山地向阳草地、林缘与岩地，秋季茎上部穗状至总状着生黄色小头状花序。",
+      "habitat_hint": "山地草地、林缘、岩地、向阳坡。",
+      "finding_tips": "9 至 10 月寻找茎上部聚生的黄色小头状花序；叶基下延成翼为辨识线索。"
+    }
+  },
+  "Triadenum japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミズオトギリ。オトギリソウ科の多年草で、池沼の縁や湿地、休耕田に生える。夏の午後に淡紅色の小花を開く。葉は対生し、透かすと黒点（油点）が見える。",
+      "habitat_hint": "池沼の縁、湿地、休耕田、水路沿いの湿地。",
+      "finding_tips": "8〜9月、午後に開く淡紅色の小花を探します。葉を透かして見える黒い点が手がかり。"
+    },
+    "en": {
+      "summary": "Marsh St John's-wort (Triadenum japonicum). A perennial (Hypericaceae) of pond margins, wetlands and fallow wet fields; its small pink flowers open on summer afternoons and the opposite leaves show dark glandular dots when held to the light.",
+      "habitat_hint": "Pond margins, wetlands, fallow wet fields, wet ground along watercourses.",
+      "finding_tips": "In August–September look for the small pink flowers opening in the afternoon; the dark dots seen through the leaves are the clue."
+    },
+    "zh": {
+      "summary": "ミズオトギリ（沼生金丝桃，Triadenum japonicum）。金丝桃科多年生草本，生于池沼边缘、湿地与休耕田，淡红色小花于夏日午后开放，叶对生、透光可见黑色油点。",
+      "habitat_hint": "池沼边缘、湿地、休耕田、水道沿岸湿地。",
+      "finding_tips": "8 至 9 月寻找午后开放的淡红色小花；透光可见叶上黑点为辨识线索。"
+    }
+  },
+  "Amanita sychnopyramis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False panther cap",
+    "ja": {
+      "summary": "テングタケダマシ。テングタケ科のキノコで、夏〜秋に広葉樹林や雑木林の地上に発生する。灰褐色の傘に白いいぼ（外被膜の名残）を散布し、テングタケに似る。有毒なので食べない。",
+      "habitat_hint": "夏〜秋の広葉樹林・雑木林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、灰褐色の傘に白いいぼを散らし、柄の基部が膨らむキノコを探します。有毒。食用不可。"
+    },
+    "en": {
+      "summary": "A fungus (Amanitaceae) fruiting on the ground in broadleaf and secondary woodland in summer to autumn; its grey-brown cap is scattered with white warts (veil remnants), resembling the panther cap. Poisonous — do not eat.",
+      "habitat_hint": "Ground of broadleaf and secondary woodland, park tree bases; summer to autumn.",
+      "finding_tips": "From July to October look for the grey-brown cap dotted with white warts and a swollen stem base. Poisonous — inedible."
+    },
+    "zh": {
+      "summary": "テングタケダマシ（拟豹斑鹅膏，Amanita sychnopyramis）。鹅膏菌科真菌，夏秋发生于阔叶林与杂木林地上，灰褐色菌盖散布白色疣（外菌幕残余），似豹斑鹅膏。有毒，不可食用。",
+      "habitat_hint": "夏秋阔叶林与杂木林地面、公园树下。",
+      "finding_tips": "7 至 10 月寻找灰褐色菌盖散布白疣、柄基膨大的菌；有毒，不可食。"
+    }
+  },
+  "Diplachne fusca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマガヤ。イネ科の一〜多年草で、河口や海岸、水田、湿った塩性地に生える。細長い穂状の枝を数本〜多数つけ、芒のある小穂を密につける。",
+      "habitat_hint": "河口、海岸、水田、湿った塩性地、溝の縁。",
+      "finding_tips": "8〜10月、細長い穂状の枝に芒のある小穂を密につけた花序を探します。"
+    },
+    "en": {
+      "summary": "Brown sprangletop (Diplachne fusca). An annual to perennial grass of estuaries, coasts, paddy fields and damp saline ground, bearing several to many slender spike-like branches densely set with awned spikelets.",
+      "habitat_hint": "Estuaries, coasts, paddy fields, damp saline ground, ditch margins.",
+      "finding_tips": "In August–October look for the several slender spike-like branches densely set with awned spikelets."
+    },
+    "zh": {
+      "summary": "ハマガヤ（双稃草，Diplachne fusca）。禾本科一至多年生草本，生于河口、海岸、水田及湿润盐碱地，具数枚至多枚细长穗状分枝，密生具芒小穗。",
+      "habitat_hint": "河口、海岸、水田、湿润盐碱地、沟缘。",
+      "finding_tips": "8 至 10 月寻找细长穗状分枝上密生的具芒小穗。"
+    }
   }
 }
