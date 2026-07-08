@@ -210237,5 +210237,355 @@
       "habitat_hint": "水田、湿地、沟渠与池塘边缘、湿润空地。",
       "finding_tips": "8 至 10 月寻找放射状褐色小穗及具毛而粗糙的花序轴。"
     }
+  },
+  "Lolium boucheanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hybrid ryegrass",
+    "ja": {
+      "summary": "ネズミホソムギ。ホソムギ（ペレニアルライグラス）とイタリアンライグラスの雑種のイネ科ドクムギ属の草で、牧草・緑化用に導入され、道端や河川敷に広く野生化している。",
+      "habitat_hint": "道端、河川敷、造成地、芝地の縁など日当たりのよい場所。",
+      "finding_tips": "5〜7月、穂の軸に交互に並ぶ小穂を探します。両親の中間的な性質で、芒の有無に変異が多い。"
+    },
+    "en": {
+      "summary": "Hybrid ryegrass (Lolium × boucheanum). A grass that is the cross between perennial and Italian ryegrass, introduced for forage and greening and now widely naturalised along roadsides and riverbanks.",
+      "habitat_hint": "Roadsides, riverbanks, made ground, lawn edges in sunny places.",
+      "finding_tips": "In May–July look for spikelets set alternately edgewise on the axis; intermediate between the parents, variable in awn presence."
+    },
+    "zh": {
+      "summary": "ネズミホソムギ（杂交黑麦草，Lolium × boucheanum）。多年生黑麦草与多花黑麦草的杂交种，禾本科黑麦草属，作牧草与绿化引入，现广泛野化于路旁、河滩。",
+      "habitat_hint": "路旁、河滩、造地、草坪边缘等向阳处。",
+      "finding_tips": "5 至 7 月寻找沿穗轴交互侧向排列的小穗；性状介于两亲本之间，芒的有无多变异。"
+    }
+  },
+  "Anthoxanthum glabrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glabrous sweetgrass",
+    "ja": {
+      "summary": "コウボウ。イネ科ハルガヤ属の多年草で、乾くとクマリンの甘い香りを放つ。北方系の草地や湿った草原に生え、細い円錐花序をつける。",
+      "habitat_hint": "湿った草地、山地の草原、河岸。",
+      "finding_tips": "5〜7月、細い花序を探します。刈り取って乾かすと桜餅のような甘い香り（クマリン）がするのが手がかり。"
+    },
+    "en": {
+      "summary": "Glabrous sweetgrass (Anthoxanthum glabrum). A perennial grass (formerly Hierochloe) that releases the sweet coumarin scent when dried; it grows in northern grassland and damp meadows, bearing a slender panicle.",
+      "habitat_hint": "Damp grassland, montane meadows, riverbanks.",
+      "finding_tips": "In May–July look for the slender panicle; when cut and dried it gives off a sweet coumarin (hay-like) scent."
+    },
+    "zh": {
+      "summary": "コウボウ（光稃茅香）。禾本科黄花茅属多年生草本，干后散发香豆素甜香，生于北方草地与湿润草甸，花序细圆锥状。",
+      "habitat_hint": "湿润草地、山地草甸、河岸。",
+      "finding_tips": "5 至 7 月寻找纤细花序；割取晾干后散发香豆素甜香为辨识要点。"
+    }
+  },
+  "Brachythecium buchananii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Buchanan's ragged-moss",
+    "ja": {
+      "summary": "ナガヒツジゴケ。アオギヌゴケ科の蘚類で、地表や石垣、樹の根元に光沢のある緑のマットをつくる。都市でもよく見られる普通のコケ。",
+      "habitat_hint": "土の上、石垣、コンクリート、樹幹の基部。人里にも多い。",
+      "finding_tips": "一年中見られます。やや光沢のある緑の羽状マットと、赤褐色の細い蒴柄を探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Brachytheciaceae) forming glossy green mats on soil, stone walls and tree bases; a common moss even in towns.",
+      "habitat_hint": "Soil, stone walls, concrete, tree bases — common near habitation.",
+      "finding_tips": "Present year-round; look for the slightly glossy green feathery mats and the slender reddish-brown seta."
+    },
+    "zh": {
+      "summary": "ナガヒツジゴケ。青藓科藓类，于土面、石墙及树基形成有光泽的绿色垫状群落，城市中亦常见。",
+      "habitat_hint": "土面、石墙、混凝土、树基；人居环境常见。",
+      "finding_tips": "全年可见；寻找略具光泽的绿色羽状藓垫及红褐色细蒴柄。"
+    }
+  },
+  "Coryphopteris musashiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワハリガネワラビ。ヒメシダ科の夏緑性シダで、山地の林床や岩の間に生える。細長い葉柄と、やや硬い羽状の葉が特徴。",
+      "habitat_hint": "山地の落葉樹林の林床、湿った岩の間、沢沿い。",
+      "finding_tips": "夏〜秋、林床で束生する羽状の葉を探します。羽片の付き方や葉軸の毛が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A summer-green fern (Thelypteridaceae) of montane woodland floor and rocky ground, with a long slender stipe and somewhat firm pinnate fronds.",
+      "habitat_hint": "Floor of montane deciduous forest, among damp rocks, streamsides.",
+      "finding_tips": "In summer–autumn look for the tufted pinnate fronds on the woodland floor; pinna arrangement and rachis hairs help identify it."
+    },
+    "zh": {
+      "summary": "イワハリガネワラビ。金星蕨科夏绿性蕨类，生于山地林床与岩隙，叶柄细长、羽状叶略硬。",
+      "habitat_hint": "山地落叶林林床、湿润岩隙、沟谷。",
+      "finding_tips": "夏至秋于林床寻找丛生的羽状叶；羽片着生方式与叶轴毛被为辨识线索。"
+    }
+  },
+  "Entodon challengeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Challenger's silk-moss",
+    "ja": {
+      "summary": "ヒロツヤゴケ。ツヤゴケ科の蘚類で、樹の根元や石垣、地表に扁平で光沢のある緑のマットをつくる。都市の公園などでもよく見られる。",
+      "habitat_hint": "樹幹の基部、石垣、土の上、コンクリート際。人里に多い。",
+      "finding_tips": "一年中見られます。扁平で強い光沢のある緑のマットを樹の根元や石の上で探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Entodontaceae) forming flattened, glossy green mats on tree bases, stone walls and soil; common in parks and towns.",
+      "habitat_hint": "Tree bases, stone walls, soil, concrete edges — common near habitation.",
+      "finding_tips": "Present year-round; look for the flat, strongly glossy green mats at tree bases and on stones."
+    },
+    "zh": {
+      "summary": "ヒロツヤゴケ。绢藓科藓类，于树基、石墙及地表形成扁平而有光泽的绿色垫，城市公园中常见。",
+      "habitat_hint": "树基、石墙、土面、混凝土边缘；人居环境常见。",
+      "finding_tips": "全年可见；在树基与石面上寻找扁平且强光泽的绿色藓垫。"
+    }
+  },
+  "Equisetum fluviatile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water horsetail",
+    "aliases": {
+      "zh-Hans": "水问荆"
+    },
+    "ja": {
+      "summary": "ミズドクサ。トクサ科の多年草で、池沼や湿地、水辺に群生する。中空で節のある緑の茎を立て、水中に根茎をのばす。スギナ（ツクシ）の仲間。",
+      "habitat_hint": "池沼の縁、湿地、浅い水中、河川の緩流部。",
+      "finding_tips": "5〜8月、水辺に立つ節のある中空の緑の茎を探します。茎の中心の空洞が特に大きいのが特徴。"
+    },
+    "en": {
+      "summary": "Water horsetail (Equisetum fluviatile). A perennial (Equisetaceae) growing in stands at ponds, marshes and water margins, with hollow, jointed green stems and rhizomes in the water; a relative of field horsetail.",
+      "habitat_hint": "Pond margins, marshes, shallow water, slow river reaches.",
+      "finding_tips": "In May–August look for the jointed hollow green stems standing at the waterside; the unusually large central hollow is diagnostic."
+    },
+    "zh": {
+      "summary": "ミズドクサ（水问荆）。木贼科多年生草本，成丛生于池沼、湿地及水边，绿茎中空具节，根茎伸入水中，为问荆（笔头菜）近缘。",
+      "habitat_hint": "池沼边缘、湿地、浅水、河流缓流处。",
+      "finding_tips": "5 至 8 月于水边寻找具节的中空绿茎；茎中央空腔特别大为辨识要点。"
+    }
+  },
+  "Eragrostis aquatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh lovegrass",
+    "ja": {
+      "summary": "ヌマカゼクサ。イネ科スズメガヤ属（カゼクサの仲間）の草で、湿地や水田、溝の縁など湿った場所に生える。細かく分枝した円錐花序に小さな小穂を多数つける。",
+      "habitat_hint": "湿地、水田、溝や池の縁、湿った空き地。",
+      "finding_tips": "8〜10月、細かく枝分かれした花序に密につく小さな小穂を探します。"
+    },
+    "en": {
+      "summary": "A lovegrass (Eragrostis, Poaceae) of wetlands, paddy fields and ditch margins, bearing many small spikelets in a finely branched panicle.",
+      "habitat_hint": "Wetlands, paddy fields, ditch and pond margins, damp waste ground.",
+      "finding_tips": "In August–October look for the many small spikelets crowded on the finely branched panicle."
+    },
+    "zh": {
+      "summary": "ヌマカゼクサ。禾本科画眉草属草本，生于湿地、水田及沟缘等湿处，圆锥花序细密分枝，密生众多小穗。",
+      "habitat_hint": "湿地、水田、沟渠与池塘边缘、湿润空地。",
+      "finding_tips": "8 至 10 月寻找细密分枝花序上密生的小型小穗。"
+    }
+  },
+  "Fabriciana adippe": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "High brown fritillary",
+    "ja": {
+      "summary": "ウラギンヒョウモン。タテハチョウ科のヒョウ柄の中型のチョウで、草原や林縁を飛ぶ。後翅の裏面に銀白色の斑紋が並ぶのが名の由来。幼虫はスミレ類を食べる。",
+      "habitat_hint": "山地・高原の草原、林縁、明るい草地。",
+      "finding_tips": "6〜9月、花を訪れるオレンジ地に黒斑のチョウを探します。後翅裏の銀白色の斑列が識別ポイント。"
+    },
+    "en": {
+      "summary": "High brown fritillary (Fabriciana adippe). A medium-sized leopard-patterned nymphalid of grassland and woodland edges; named for the silvery-white spots on the hindwing underside. Larvae feed on violets.",
+      "habitat_hint": "Montane and highland grassland, woodland edges, open meadows.",
+      "finding_tips": "From June to September look for the orange, black-spotted butterfly at flowers; the row of silvery-white spots under the hindwing is the clue."
+    },
+    "zh": {
+      "summary": "ウラギンヒョウモン（银斑豹蛱蝶，High brown fritillary）。蛱蝶科中型豹纹蝶，飞行于草原与林缘，后翅反面具银白色斑列，故名；幼虫取食堇菜类。",
+      "habitat_hint": "山地与高原草原、林缘、开阔草地。",
+      "finding_tips": "6 至 9 月于花间寻找橙底黑斑的蝴蝶；后翅反面银白色斑列为辨识要点。"
+    }
+  },
+  "Lilium medeoloides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wheel lily",
+    "ja": {
+      "summary": "クルマユリ。ユリ科の多年草で、亜高山帯の草原や林縁に生える。茎の中ほどに葉が車輪状に輪生し、夏に朱赤色で反り返る小型のユリの花を下向きに開く。",
+      "habitat_hint": "亜高山〜高山帯の草原、林縁、明るい斜面。",
+      "finding_tips": "7〜8月、茎の中ほどに車輪状に輪生する葉と、朱赤色で反り返る下向きの花を探します。"
+    },
+    "en": {
+      "summary": "Wheel lily (Lilium medeoloides). A perennial (Liliaceae) of subalpine meadows and woodland edges; leaves are borne in a wheel-like whorl on the mid-stem and it opens small, nodding, orange-red recurved flowers in summer.",
+      "habitat_hint": "Subalpine to alpine meadows, woodland edges, open slopes.",
+      "finding_tips": "In July–August look for the wheel-like whorl of leaves on the mid-stem and the nodding, recurved orange-red flowers."
+    },
+    "zh": {
+      "summary": "クルマユリ（轮叶百合，Lilium medeoloides）。百合科多年生草本，生于亚高山草甸与林缘，茎中部叶轮生如轮，夏季开朱红色反卷下垂小花。",
+      "habitat_hint": "亚高山至高山草甸、林缘、开阔坡地。",
+      "finding_tips": "7 至 8 月寻找茎中部轮生如车轮的叶片及朱红色反卷下垂的花。"
+    }
+  },
+  "Lysurus mokusin": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lantern stinkhorn",
+    "ja": {
+      "summary": "ツマミタケ。スッポンタケ科のキノコで、庭や畑、林縁の地上に発生する。断面が角ばった柱状の柄の先に数本の腕が集まり、暗色で悪臭のある粘液（グレバ）をつけてハエを呼ぶ。",
+      "habitat_hint": "庭、畑、林縁、公園などの腐植質に富む地上。梅雨〜秋。",
+      "finding_tips": "6〜10月、角ばった柄の先に腕が集まり悪臭を放つ姿を探します。ハエが集まっていることが多い。"
+    },
+    "en": {
+      "summary": "Lantern stinkhorn (Lysurus mokusin). A fungus (Phallaceae) of gardens, fields and woodland edges; an angular, ribbed column bears several arms at the top smeared with dark, foul-smelling spore slime that attracts flies.",
+      "habitat_hint": "Humus-rich ground in gardens, fields, woodland edges and parks; rainy season to autumn.",
+      "finding_tips": "From June to October look for the angular ribbed stalk topped by clustered arms giving off a foul smell; flies often gather on it."
+    },
+    "zh": {
+      "summary": "ツマミタケ（五棱散尾鬼笔，Lysurus mokusin）。鬼笔科真菌，发生于庭园、农田及林缘地上，柄断面棱角状，顶端聚生数条臂，覆有暗色恶臭孢体黏液以引诱苍蝇。",
+      "habitat_hint": "庭园、农田、林缘、公园等富腐殖质地面；梅雨至秋季。",
+      "finding_tips": "6 至 10 月寻找棱角状柄顶端聚生臂状体、散发恶臭的子实体；常有苍蝇聚集。"
+    }
+  },
+  "Microlejeunea ulicina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コクサリゴケ。クサリゴケ科の極めて微小な葉状苔類で、樹皮や枝、他のコケの上に細い糸のような茎をのばして着生する。ルーペでようやく見える大きさ。",
+      "habitat_hint": "湿った樹皮や小枝、常緑樹の林内、他のコケの間。",
+      "finding_tips": "一年中見られます。樹皮や小枝の上の極細の淡緑のコケをルーペで確認します。"
+    },
+    "en": {
+      "summary": "Fairy beads (Microlejeunea ulicina). An extremely minute leafy liverwort (Lejeuneaceae) growing as fine thread-like stems on bark, twigs and over other mosses; barely visible without a lens.",
+      "habitat_hint": "Damp bark and twigs, evergreen forest interior, among other bryophytes.",
+      "finding_tips": "Present year-round; use a lens to check the very fine pale-green shoots on bark and small twigs."
+    },
+    "zh": {
+      "summary": "コクサリゴケ（小细鳞苔）。细鳞苔科极微小的叶状苔类，以细如丝的茎附生于树皮、枝条及其他苔藓上，须借放大镜方可见。",
+      "habitat_hint": "潮湿树皮与小枝、常绿林内、其他苔藓间。",
+      "finding_tips": "全年可见；用放大镜观察树皮与细枝上极细的淡绿色茎叶。"
+    }
+  },
+  "Muhlenbergia curviaristata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コシノネズミガヤ。イネ科ネズミガヤ属の多年草で、山地の林縁や道端、やや湿った草地に生える。細い茎を斜上させ、まばらな細い花序をつける。",
+      "habitat_hint": "山地の林縁、道端、やや湿った草地、林下。",
+      "finding_tips": "8〜10月、細く斜上する茎とまばらな細い花序を探します。芒のある小穂が手がかり。"
+    },
+    "en": {
+      "summary": "A muhly grass (Muhlenbergia, Poaceae) of montane woodland edges, roadsides and damp grassland, with slender ascending stems and a sparse, slender panicle.",
+      "habitat_hint": "Montane woodland edges, roadsides, damp grassland, understorey.",
+      "finding_tips": "In August–October look for the slender ascending stems and sparse thin panicle; the awned spikelets are the clue."
+    },
+    "zh": {
+      "summary": "コシノネズミガヤ。禾本科乱子草属多年生草本，生于山地林缘、路旁及略湿草地，茎细斜升，花序稀疏纤细。",
+      "habitat_hint": "山地林缘、路旁、略湿草地、林下。",
+      "finding_tips": "8 至 10 月寻找细而斜升的茎与稀疏纤细的花序；具芒小穗为辨识线索。"
+    }
+  },
+  "Paracynoglossum asperrimum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rough hound's-tongue",
+    "ja": {
+      "summary": "オニルリソウ。ムラサキ科の越年草で、山地の林縁や道端に生える。全体に硬い毛が密生してざらつき、淡青紫色の小花を咲かせる。果実はかぎ状の刺で衣服にくっつく。",
+      "habitat_hint": "山地の林縁、道端、崩壊地、やや湿った草地。",
+      "finding_tips": "6〜7月、ざらつく硬毛の茎と淡青紫色の小花を探します。かぎ状の刺のある果実が衣服につく。"
+    },
+    "en": {
+      "summary": "Rough hound's-tongue (Paracynoglossum asperrimum). A biennial (Boraginaceae) of montane woodland edges and roadsides, roughly bristly throughout, with small pale blue-violet flowers; the nutlets cling to clothing by hooked prickles.",
+      "habitat_hint": "Montane woodland edges, roadsides, landslip ground, damp grassland.",
+      "finding_tips": "In June–July look for the harshly bristly stems and small pale blue-violet flowers; the hooked nutlets stick to clothes."
+    },
+    "zh": {
+      "summary": "オニルリソウ（大琉璃草，Paracynoglossum asperrimum）。紫草科二年生草本，生于山地林缘与路旁，全株密生硬毛而粗糙，开淡蓝紫色小花，小坚果具钩刺附着衣物。",
+      "habitat_hint": "山地林缘、路旁、崩塌地、略湿草地。",
+      "finding_tips": "6 至 7 月寻找粗糙硬毛的茎与淡蓝紫色小花；具钩刺的小坚果易附着衣物。"
+    }
+  },
+  "Pluteus cervinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウラベニガサ。ウラベニガサ科のキノコで、朽木や切株、埋もれた木材から発生する。傘は灰褐色〜暗褐色で、ひだは初め白く成熟すると肉色（淡紅色）を帯びる。",
+      "habitat_hint": "広葉樹の朽木、切株、埋没木、木質チップの上。春〜秋。",
+      "finding_tips": "4〜11月、朽木の上の灰褐色の傘と、成熟して肉色になる離生したひだを探します。"
+    },
+    "en": {
+      "summary": "Deer shield (Pluteus cervinus). A fungus (Pluteaceae) arising from rotten wood, stumps and buried timber; the cap is grey-brown to dark brown and the free gills, white at first, turn flesh-pink with age.",
+      "habitat_hint": "Rotten broadleaf wood, stumps, buried timber, wood chips; spring to autumn.",
+      "finding_tips": "From April to November look on decaying wood for the grey-brown cap and the free gills that mature to flesh-pink."
+    },
+    "zh": {
+      "summary": "ウラベニガサ（鹿花光柄菇，Pluteus cervinus）。光柄菇科真菌，发生于腐木、树桩及埋木，菌盖灰褐至暗褐色，菌褶离生、初白后转肉粉色。",
+      "habitat_hint": "阔叶腐木、树桩、埋木、木屑；春至秋。",
+      "finding_tips": "4 至 11 月于腐木上寻找灰褐色菌盖及成熟转肉粉色的离生菌褶。"
+    }
+  },
+  "Symphytum uplandicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コンフリー。ムラサキ科の大型の多年草で、ロシア原産の雑種。かつて食用・飼料として広く栽培され、現在は道端や河川敷に野生化する。全体にざらつく毛があり、筒状で青紫〜淡紅色の花を垂れ下げる。※肝毒性があり食用は避ける。",
+      "habitat_hint": "道端、河川敷、人家近くの空き地、畑の跡地。",
+      "finding_tips": "5〜7月、大きなざらつく葉と、垂れ下がる筒状の青紫〜淡紅色の花を探します。"
+    },
+    "en": {
+      "summary": "Russian comfrey (Symphytum × uplandicum). A large hybrid perennial (Boraginaceae) once widely grown as food and fodder, now naturalised on roadsides and riverbanks; roughly hairy throughout with drooping tubular blue-violet to pinkish flowers. Note: contains liver-toxic alkaloids — avoid eating.",
+      "habitat_hint": "Roadsides, riverbanks, vacant lots near houses, former fields.",
+      "finding_tips": "In May–July look for the large rough leaves and the drooping tubular blue-violet to pinkish flowers."
+    },
+    "zh": {
+      "summary": "コンフリー（俄罗斯聚合草，Symphytum × uplandicum）。紫草科大型杂交多年生草本，昔曾广作食用与饲料栽培，今野化于路旁、河滩，全株粗糙被毛，花筒状、蓝紫至淡红色而下垂。注意：含肝毒性生物碱，勿食。",
+      "habitat_hint": "路旁、河滩、住家附近空地、废弃田地。",
+      "finding_tips": "5 至 7 月寻找宽大粗糙的叶片与下垂的筒状蓝紫至淡红色花。"
+    }
+  },
+  "Sargassum siliquastrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sargassum siliquastrum",
+    "ja": {
+      "summary": "トゲモク。ホンダワラ科の褐藻で、暖海の潮間帯下部〜漸深帯の岩場に生える大型の海藻。枝に棘状の突起があり、気胞（浮き袋）で立ち上がって海中林（藻場）をつくる。",
+      "habitat_hint": "暖海の岩礁、潮下帯、内湾の藻場。",
+      "finding_tips": "春〜初夏に大きく成長します。棘状突起のある枝と、小さな気胞（浮き袋）を持つ褐色の海藻を磯で探します。"
+    },
+    "en": {
+      "summary": "A brown seaweed (Sargassaceae) of warm-water rocky shores from the lower intertidal into the subtidal, forming large stands (seaweed beds); its branches bear spiny projections and it is held upright by small gas-filled floats.",
+      "habitat_hint": "Warm-sea rocky reefs, subtidal zone, sheltered-bay seaweed beds.",
+      "finding_tips": "It grows large in spring to early summer; on the shore look for the brown fronds with spiny branch projections and small float bladders."
+    },
+    "zh": {
+      "summary": "トゲモク（刺马尾藻类，Sargassum siliquastrum）。马尾藻科褐藻，生于暖海潮间带下部至潮下带岩礁，为大型海藻，枝具刺状突起，借气囊直立形成海藻林（藻场）。",
+      "habitat_hint": "暖海岩礁、潮下带、内湾藻场。",
+      "finding_tips": "春至初夏长成大型；于岩滩寻找具刺状突起枝条与小气囊的褐色海藻。"
+    }
   }
 }
