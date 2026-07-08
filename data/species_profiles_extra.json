@@ -211427,5 +211427,419 @@
       "habitat_hint": "路旁、河滩、草地、造地。",
       "finding_tips": "5 至 7 月寻找大而扁平下垂的小穗及短芒；与近缘雀麦易混。"
     }
+  },
+  "Oenothera lindheimeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマモモソウ（ガウラ、ハクチョウソウ）。北アメリカ原産のアカバナ科の多年草で、観賞用に栽培され道端や河川敷に野生化する。細い茎の先に、蝶が舞うような白〜淡紅色の4弁花を長期間咲かせる。",
+      "habitat_hint": "道端、河川敷、花壇の周辺、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜10月、細く分枝した茎の先に、蝶のような白〜淡紅色の4弁花が次々と咲く姿を探します。"
+    },
+    "en": {
+      "summary": "Lindheimer's beeblossom (Oenothera lindheimeri, formerly Gaura). A North American perennial (Onagraceae) grown as an ornamental and naturalised on roadsides and riverbanks; slender stems carry white to pink four-petalled flowers, like fluttering butterflies, over a long season.",
+      "habitat_hint": "Roadsides, riverbanks, around flowerbeds, sunny made ground.",
+      "finding_tips": "From May to October look for the butterfly-like white-to-pink four-petalled flowers opening in succession atop slender branching stems."
+    },
+    "zh": {
+      "summary": "ヤマモモソウ（山桃草，Oenothera lindheimeri）。原产北美的柳叶菜科多年生草本，作观赏栽培并野化于路旁、河滩，细茎顶端长期开白至淡红色四瓣花，形似飞舞蝴蝶。",
+      "habitat_hint": "路旁、河滩、花坛周边、造地向阳处。",
+      "finding_tips": "5 至 10 月寻找细分枝茎顶陆续开放、形似蝴蝶的白至淡红色四瓣花。"
+    }
+  },
+  "Angelica anomala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アレナレノダケ。セリ科シシウド属の大型の多年草で、山地の湿った草地や川岸、林縁に生える。大きな複散形花序に白い小花を多数つける。",
+      "habitat_hint": "山地の湿った草地、川岸、林縁、湿原の周縁。",
+      "finding_tips": "7〜9月、大きく傘状に広がる複散形花序に密につく白い小花を探します。"
+    },
+    "en": {
+      "summary": "A large perennial angelica (Apiaceae) of damp montane meadows, riverbanks and woodland edges, bearing many small white flowers in a large compound umbel.",
+      "habitat_hint": "Damp montane meadows, riverbanks, woodland edges, bog margins.",
+      "finding_tips": "In July–September look for the many small white flowers packed in the large umbrella-shaped compound umbel."
+    },
+    "zh": {
+      "summary": "アレナレノダケ。伞形科当归属大型多年生草本，生于山地湿润草地、河岸与林缘，大型复伞形花序密生白色小花。",
+      "habitat_hint": "山地湿润草地、河岸、林缘、湿原周缘。",
+      "finding_tips": "7 至 9 月寻找伞状展开的大型复伞形花序上密生的白色小花。"
+    }
+  },
+  "Blepharostoma minus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャボマツバウロコゴケ。ムクムクゴケ科の極めて微小な葉状苔類で、腐木や湿った岩、他のコケの間に生える。葉が糸のように細い裂片に深く分かれるのが特徴。",
+      "habitat_hint": "湿った腐木、岩上、他のコケの間、林床の陰。",
+      "finding_tips": "一年中見られます。糸状に細く裂けた葉をもつ極小のコケを、腐木の上でルーペで探します。"
+    },
+    "en": {
+      "summary": "An extremely minute leafy liverwort (Pseudolepicoleaceae) growing on rotten wood, damp rock and among other bryophytes; its leaves are divided into thread-like segments.",
+      "habitat_hint": "Damp rotten wood, rock, among other mosses, shaded forest floor.",
+      "finding_tips": "Present year-round; use a lens on rotten wood to find the tiny plant with hair-like divided leaves."
+    },
+    "zh": {
+      "summary": "チャボマツバウロコゴケ（小睫毛苔类，Blepharostoma minus）。拟复叉苔科极微小的叶状苔类，生于腐木、湿岩及其他苔藓间，叶深裂为丝状裂片。",
+      "habitat_hint": "潮湿腐木、岩面、其他苔藓间、林床荫处。",
+      "finding_tips": "全年可见；用放大镜在腐木上寻找具丝状裂叶的微小植株。"
+    }
+  },
+  "Cirsium amplexifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マツシマアザミ。キク科アザミ属の多年草で、山地の草地や林縁、道端に生える。葉のつけ根が茎を抱く（抱茎）のが特徴で、紅紫色の頭花を上向きに咲かせる。",
+      "habitat_hint": "山地の草地、林縁、道端、やや湿った斜面。",
+      "finding_tips": "8〜10月、茎を抱く葉のつけ根と、上向きに咲く紅紫色の頭花を探します。"
+    },
+    "en": {
+      "summary": "A perennial thistle (Cirsium, Asteraceae) of montane grassland, woodland edges and roadsides, distinguished by the clasping leaf bases (amplexicaul); its reddish-purple flowerheads face upward.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, damp slopes.",
+      "finding_tips": "In August–October look for the stem-clasping leaf bases and the upward-facing reddish-purple flowerheads."
+    },
+    "zh": {
+      "summary": "マツシマアザミ（抱茎蓟类，Cirsium amplexifolium）。菊科蓟属多年生草本，生于山地草地、林缘与路旁，叶基抱茎，头状花序红紫色、朝上开放。",
+      "habitat_hint": "山地草地、林缘、路旁、略湿坡地。",
+      "finding_tips": "8 至 10 月寻找抱茎的叶基与朝上开放的红紫色头状花序。"
+    }
+  },
+  "Deinostema violacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サワトウガラシ。オオバコ科（旧ゴマノハグサ科）の一年草で、水田や湿地、休耕田に生える小さな草。細い茎に小さな葉を対生し、淡紫色の唇形の小花をつける。",
+      "habitat_hint": "水田、湿地、休耕田、湿った溝の縁。",
+      "finding_tips": "8〜10月、水田や湿地で細い茎に対生する小さな葉と、淡紫色の唇形の小花を探します。"
+    },
+    "en": {
+      "summary": "A small annual (Plantaginaceae, formerly Scrophulariaceae) of paddy fields, wetlands and fallow wet fields; slender stems bear small opposite leaves and small pale-purple two-lipped flowers.",
+      "habitat_hint": "Paddy fields, wetlands, fallow wet fields, damp ditch margins.",
+      "finding_tips": "In August–October look in paddies and wet ground for the small opposite leaves on slender stems and the pale-purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "サワトウガラシ。车前科（旧玄参科）一年生小草，生于水田、湿地与休耕田，细茎对生小叶，开淡紫色唇形小花。",
+      "habitat_hint": "水田、湿地、休耕田、湿润沟缘。",
+      "finding_tips": "8 至 10 月于水田与湿地寻找细茎对生小叶及淡紫色唇形小花。"
+    }
+  },
+  "Dichondra carolinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カロリナアオイゴケ。北アメリカ原産のヒルガオ科の多年草で、芝地や道端、公園の地面を這って広がる。腎形（小さなアオイの葉に似た）の小さな葉を密につけ、目立たない小花を咲かせる。",
+      "habitat_hint": "芝地、道端、公園の地面、庭のグラウンドカバー。",
+      "finding_tips": "地面を這う腎形の小さな葉のマットを探します。花は小さく目立たない。一年中葉が見られる。"
+    },
+    "en": {
+      "summary": "Grass ponysfoot (Dichondra carolinensis). A North American perennial (Convolvulaceae) creeping over lawns, roadsides and park ground; it forms mats of small kidney-shaped leaves and bears inconspicuous flowers.",
+      "habitat_hint": "Lawns, roadsides, park ground, as a garden groundcover.",
+      "finding_tips": "Look for the ground-hugging mat of small kidney-shaped leaves; the flowers are tiny and inconspicuous, leaves present year-round."
+    },
+    "zh": {
+      "summary": "カロリナアオイゴケ（卡罗来纳马蹄金，Dichondra carolinensis）。原产北美的旋花科多年生草本，匍匐蔓延于草坪、路旁与公园地面，密生肾形小叶，花小而不显。",
+      "habitat_hint": "草坪、路旁、公园地面、庭园地被。",
+      "finding_tips": "寻找贴地蔓延的肾形小叶垫；花小不显，叶全年可见。"
+    }
+  },
+  "Fissidens tosaensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャボホウオウゴケ。ホウオウゴケ科の小さな蘚類で、湿った岩や土、渓流沿いに生える。葉が茎の左右に2列に並び、鳥の羽（鳳凰の羽）のように見えるのがホウオウゴケの仲間の特徴。",
+      "habitat_hint": "湿った岩、土の上、渓流沿いの日陰、石垣。",
+      "finding_tips": "一年中見られます。左右2列に並んで羽のように見える葉を、湿った岩や土でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small moss (Fissidentaceae) of damp rock, soil and streamsides; its leaves are arranged in two ranks along the stem, giving the feather-like look typical of the pocket-mosses.",
+      "habitat_hint": "Damp rock, soil, shaded streamsides, stone walls.",
+      "finding_tips": "Present year-round; use a lens on damp rock and soil to check the two-ranked, feather-like leaves."
+    },
+    "zh": {
+      "summary": "チャボホウオウゴケ。凤尾藓科小型藓类，生于湿岩、土面及溪流沿岸，叶两列排列如羽，为凤尾藓类特征。",
+      "habitat_hint": "湿岩、土面、溪流荫处、石墙。",
+      "finding_tips": "全年可见；用放大镜在湿岩与土面上观察两列排列如羽的叶片。"
+    }
+  },
+  "Fomes fomentarius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tinder fungus",
+    "aliases": {
+      "zh-Hans": "木蹄层孔菌"
+    },
+    "ja": {
+      "summary": "ツリガネタケ。タマチョレイタケ科の多年生の硬い多孔菌で、ブナやカバなどの枯木・弱った幹に発生する。馬蹄形〜釣鐘形の灰色の傘は毎年成長して層をなす。古くから火口（ほくち＝火起こしの材料）に使われた。",
+      "habitat_hint": "ブナ・カバ類など広葉樹の枯木、倒木、弱った立木。",
+      "finding_tips": "一年中見られます。幹につく馬蹄形〜釣鐘形の硬い灰色の傘と、同心円状の層を探します。"
+    },
+    "en": {
+      "summary": "Tinder fungus (Fomes fomentarius). A perennial, hard bracket fungus (Polyporaceae) on dead and ailing beech, birch and other broadleaf trees; the hoof- to bell-shaped grey cap grows in yearly layers. Long used as tinder (amadou) for fire-lighting.",
+      "habitat_hint": "Dead wood, fallen logs and ailing trunks of beech, birch and other broadleaf trees.",
+      "finding_tips": "Present year-round; look on trunks for the hard, grey, hoof- to bell-shaped cap with concentric layers."
+    },
+    "zh": {
+      "summary": "ツリガネタケ（木蹄层孔菌，Fomes fomentarius）。多孔菌科多年生硬质多孔菌，发生于山毛榉、桦等枯木与衰弱树干，马蹄至钟形灰色菌盖逐年增长成层，自古用作火绒（引火材料）。",
+      "habitat_hint": "山毛榉、桦等阔叶树枯木、倒木、衰弱立木。",
+      "finding_tips": "全年可见；在树干上寻找马蹄至钟形、硬质灰色、具同心层的菌盖。"
+    }
+  },
+  "Heracleum maximum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cow parsnip",
+    "ja": {
+      "summary": "オオハナウド。セリ科ハナウド属の大型の多年草で、山地の湿った草地や川岸、林縁に生える。大きな複散形花序に白い小花を多数つけ、外側の花弁が大きくなる。※汁に触れて日光に当たると皮膚炎を起こすことがある。",
+      "habitat_hint": "山地の湿った草地、川岸、林縁、道端。",
+      "finding_tips": "6〜7月、大きな傘状の花序と、外側が大きくなる白い花弁を探します。汁に触れて日に当たると皮膚炎の恐れ。"
+    },
+    "en": {
+      "summary": "Cow parsnip (Heracleum maximum). A large perennial (Apiaceae) of damp montane meadows, riverbanks and woodland edges, with big compound umbels of white flowers whose outer petals are enlarged. Note: the sap can cause phototoxic skin irritation.",
+      "habitat_hint": "Damp montane meadows, riverbanks, woodland edges, roadsides.",
+      "finding_tips": "In June–July look for the large umbrella-shaped umbels with enlarged outer petals; sap plus sunlight can irritate skin."
+    },
+    "zh": {
+      "summary": "オオハナウド（牛防风类，Heracleum maximum）。伞形科独活属大型多年生草本，生于山地湿润草地、河岸与林缘，大型复伞形花序密生白花、外缘花瓣增大。注意：汁液经日照可致光敏性皮炎。",
+      "habitat_hint": "山地湿润草地、河岸、林缘、路旁。",
+      "finding_tips": "6 至 7 月寻找伞状大花序及外缘增大的白色花瓣；汁液沾皮肤经日晒或致皮炎。"
+    }
+  },
+  "Hieracium umbellatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Umbellate hawkweed",
+    "aliases": {
+      "zh-Hans": "山柳菊"
+    },
+    "ja": {
+      "summary": "ヤナギタンポポ。キク科ヤナギタンポポ属の多年草で、山地の草地や林縁、道端に生える。細長い柳のような葉をつけ、夏〜秋にタンポポに似た黄色い頭花を数個〜多数、上部にまとめて咲かせる。",
+      "habitat_hint": "山地の草地、林縁、道端、やや乾いた斜面。",
+      "finding_tips": "8〜10月、細長い柳形の葉と、茎の上部にまとまって咲く黄色い頭花を探します。"
+    },
+    "en": {
+      "summary": "Umbellate hawkweed (Hieracium umbellatum). A perennial (Asteraceae) of montane grassland, woodland edges and roadsides, with narrow willow-like leaves and several to many dandelion-like yellow flowerheads clustered near the stem top in late summer to autumn.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, drier slopes.",
+      "finding_tips": "In August–October look for the narrow willow-like leaves and the yellow flowerheads clustered near the top of the stem."
+    },
+    "zh": {
+      "summary": "ヤナギタンポポ（山柳菊，Hieracium umbellatum）。菊科山柳菊属多年生草本，生于山地草地、林缘与路旁，叶狭长如柳，夏末至秋于茎上部聚生数枚至多枚似蒲公英的黄色头状花序。",
+      "habitat_hint": "山地草地、林缘、路旁、较干坡地。",
+      "finding_tips": "8 至 10 月寻找狭长柳形叶及茎上部聚生的黄色头状花序。"
+    }
+  },
+  "Ilex sugerokii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロソヨゴ。モチノキ科の常緑低木〜小高木で、山地〜亜高山帯の尾根や林縁に生える。小さな革質の葉をつけ、雌雄異株で、秋に赤い小さな果実をつける。ソヨゴに似るが高地性で葉が小さい。",
+      "habitat_hint": "山地〜亜高山帯の尾根、林縁、岩場、針葉樹林の縁。",
+      "finding_tips": "秋、小さな革質の葉と、赤い小さな果実を探します。雌雄異株で果実は雌株のみ。"
+    },
+    "en": {
+      "summary": "An evergreen holly (Ilex sugerokii, Aquifoliaceae) of montane to subalpine ridges and woodland edges, with small leathery leaves; dioecious, it bears small red fruits in autumn. Like Ilex pedunculosa but a higher-elevation species with smaller leaves.",
+      "habitat_hint": "Montane to subalpine ridges, woodland edges, rocky ground, conifer-forest margins.",
+      "finding_tips": "In autumn look for the small leathery leaves and the small red fruits; dioecious, so fruit only on female plants."
+    },
+    "zh": {
+      "summary": "クロソヨゴ。冬青科常绿灌木至小乔木，生于山地至亚高山山脊与林缘，叶小革质，雌雄异株，秋结红色小果，似具柄冬青而为高海拔种、叶更小。",
+      "habitat_hint": "山地至亚高山山脊、林缘、岩地、针叶林缘。",
+      "finding_tips": "秋季寻找小型革质叶与红色小果；雌雄异株，仅雌株结果。"
+    }
+  },
+  "Miscanthus floridulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トキワススキ。イネ科ススキ属の大型多年草で、暖地の海岸や川岸、道端に生える。ススキより大きく、冬も枯れずに残ることが多い。大きな穂を秋に立てる。",
+      "habitat_hint": "暖地の海岸、川岸、道端、崩壊地、造成地。",
+      "finding_tips": "9〜11月、ススキより大型で背の高い株と、大きく広がる銀白色の穂を探します。冬も緑が残りやすい。"
+    },
+    "en": {
+      "summary": "Giant silvergrass (Miscanthus floridulus). A large perennial grass of warm-region coasts, riverbanks and roadsides; bigger than eulalia (susuki) and often persisting green through winter, it raises large plumes in autumn.",
+      "habitat_hint": "Warm-region coasts, riverbanks, roadsides, landslips, made ground.",
+      "finding_tips": "In September–November look for the taller, larger clumps than eulalia and the large silvery plumes; green often persists in winter."
+    },
+    "zh": {
+      "summary": "トキワススキ（五节芒，Miscanthus floridulus）。禾本科芒属大型多年生草本，生于暖地海岸、河岸与路旁，较芒更大、冬季常不枯，秋抽大型花序。",
+      "habitat_hint": "暖地海岸、河岸、路旁、崩塌地、造地。",
+      "finding_tips": "9 至 11 月寻找较芒更高大的株丛与大型银白色花序；冬季常留绿。"
+    }
+  },
+  "Miscanthus tinctorius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dyer's silvergrass",
+    "ja": {
+      "summary": "カリヤス。イネ科ススキ属の多年草で、山地の日当たりのよい草地や斜面に群生する。かつて黄色の染料として利用された（「刈安」）。ススキより細く、穂の枝が少ない。",
+      "habitat_hint": "山地の日当たりのよい草地、斜面、林縁。",
+      "finding_tips": "9〜10月、ススキより細身の株と、枝の少ない穂を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "Dyer's silvergrass (Miscanthus tinctorius). A perennial grass forming stands on sunny montane grassland and slopes; historically used as a yellow dye plant. Slenderer than eulalia, with fewer branches to the inflorescence.",
+      "habitat_hint": "Sunny montane grassland, slopes, woodland edges.",
+      "finding_tips": "In September–October look on montane grassland for the more slender clumps and the sparsely branched inflorescence."
+    },
+    "zh": {
+      "summary": "カリヤス（黄金芒类，Miscanthus tinctorius）。禾本科芒属多年生草本，成丛生于山地向阳草地与坡地，古用作黄色染料。较芒纤细、花序分枝少。",
+      "habitat_hint": "山地向阳草地、坡地、林缘。",
+      "finding_tips": "9 至 10 月于山地草地寻找较纤细的株丛与分枝稀少的花序。"
+    }
+  },
+  "Muhlenbergia huegelii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオネズミガヤ。イネ科ネズミガヤ属の多年草で、山地の林縁や道端、林下のやや湿った場所に生える。細い茎を斜上させ、まばらな細い花序をつける。ネズミガヤより大型。",
+      "habitat_hint": "山地の林縁、道端、林下のやや湿った場所。",
+      "finding_tips": "8〜10月、斜上する細い茎とまばらな花序を探します。ネズミガヤより大型で、芒のある小穂が手がかり。"
+    },
+    "en": {
+      "summary": "A muhly grass (Muhlenbergia, Poaceae) of montane woodland edges, roadsides and damp understorey, with slender ascending stems and a sparse thin panicle; larger than the related nezumigaya.",
+      "habitat_hint": "Montane woodland edges, roadsides, damp understorey.",
+      "finding_tips": "In August–October look for the slender ascending stems and sparse panicle; larger than the related muhly, with awned spikelets."
+    },
+    "zh": {
+      "summary": "オオネズミガヤ。禾本科乱子草属多年生草本，生于山地林缘、路旁及略湿林下，茎细斜升、花序稀疏纤细，较近缘种更大。",
+      "habitat_hint": "山地林缘、路旁、略湿林下。",
+      "finding_tips": "8 至 10 月寻找斜升细茎与稀疏花序；较近缘种更大，具芒小穗为线索。"
+    }
+  },
+  "Oxyrrhynchium hians": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシナギゴケモドキ。アオギヌゴケ科の蘚類で、湿った土や岩、樹の根元、石垣に薄い緑のマットをつくる。都市の公園や庭でもよく見られる普通のコケ。",
+      "habitat_hint": "湿った土、岩、樹幹の基部、石垣、公園の地面。",
+      "finding_tips": "一年中見られます。湿った土や石垣に広がる薄い緑のマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "Spreading beaked moss (Oxyrrhynchium hians). A pleurocarpous moss (Brachytheciaceae) forming thin green mats on damp soil, rock, tree bases and stone walls; common in parks and gardens.",
+      "habitat_hint": "Damp soil, rock, tree bases, stone walls, park ground.",
+      "finding_tips": "Present year-round; use a lens to check the thin green mats spreading over damp soil and walls."
+    },
+    "zh": {
+      "summary": "ツクシナギゴケモドキ（宽叶美喙藓类，Oxyrrhynchium hians）。青藓科藓类，于湿土、岩石、树基及石墙形成薄绿垫，城市公园与庭园中常见。",
+      "habitat_hint": "湿土、岩石、树基、石墙、公园地面。",
+      "finding_tips": "全年可见；用放大镜观察湿土与石墙上铺展的薄绿藓垫。"
+    }
+  },
+  "Phragmites karka": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tall reed",
+    "aliases": {
+      "zh-Hans": "卡开芦"
+    },
+    "ja": {
+      "summary": "セイタカヨシ（セイコノヨシ）。イネ科ヨシ属の大型多年草で、暖地の河川敷や湿地、水路沿いに群生する。ヨシより背が高く、より乾いた場所にも生える。秋に大きな穂を立てる。",
+      "habitat_hint": "暖地の河川敷、湿地、水路沿い、堤防のやや乾いた場所。",
+      "finding_tips": "9〜11月、ヨシより背の高い大型の株と、大きく広がる穂を探します。ヨシよりやや乾いた立地に多い。"
+    },
+    "en": {
+      "summary": "Tall reed (Phragmites karka). A large perennial grass forming stands on warm-region riverbanks, wetlands and along watercourses; taller than common reed and tolerating drier ground, it raises large plumes in autumn.",
+      "habitat_hint": "Warm-region riverbanks, wetlands, watercourses, drier parts of levees.",
+      "finding_tips": "In September–November look for the taller clumps than common reed and the large spreading plumes; often on somewhat drier ground."
+    },
+    "zh": {
+      "summary": "セイタカヨシ（卡开芦，Phragmites karka）。禾本科芦苇属大型多年生草本，成丛生于暖地河滩、湿地与水道沿岸，较芦苇更高、耐较干立地，秋抽大型花序。",
+      "habitat_hint": "暖地河滩、湿地、水道沿岸、堤防较干处。",
+      "finding_tips": "9 至 11 月寻找较芦苇更高的株丛与大型展开花序；多见于稍干立地。"
+    }
+  },
+  "Salix miyabeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾノカワヤナギ。ヤナギ科の落葉低木〜小高木で、北海道〜本州北部の河原や川岸に生える。細長い葉をつけ、春に葉より先または同時に花穂（尾状花序）を出す。河川の攪乱地に先駆けて定着する。",
+      "habitat_hint": "河原、川岸、氾濫原、湿った砂礫地。",
+      "finding_tips": "春、葉の展開前後に出る尾状花序（猫柳のような花穂）を探します。河原に群生する細葉のヤナギ。"
+    },
+    "en": {
+      "summary": "A deciduous willow (Salix miyabeana, Salicaceae) of riverbeds and banks from Hokkaido to northern Honshu, with narrow leaves and catkins appearing before or with the leaves in spring; a pioneer on disturbed river ground.",
+      "habitat_hint": "Riverbeds, banks, floodplains, damp gravelly ground.",
+      "finding_tips": "In spring look for the catkins around leaf-out; a narrow-leaved willow forming stands on riverbeds."
+    },
+    "zh": {
+      "summary": "エゾノカワヤナギ。杨柳科落叶灌木至小乔木，生于北海道至本州北部河滩与河岸，叶狭长，春季先叶或与叶同放柔荑花序，为河流扰动地先锋种。",
+      "habitat_hint": "河滩、河岸、泛滥原、湿润砂砾地。",
+      "finding_tips": "春季寻找展叶前后抽出的柔荑花序；河滩成丛的狭叶柳。"
+    }
+  },
+  "Sedum lineare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オノマンネングサ。ベンケイソウ科マンネングサ属の多肉質の多年草で、石垣や岩場、道端に生える。線形の多肉の葉が3枚ずつ輪生し、初夏に黄色い星形の小花を咲かせる。",
+      "habitat_hint": "石垣、岩場、道端、屋根、日当たりのよい乾いた場所。",
+      "finding_tips": "5〜6月、線形の多肉の葉が3枚輪生する茎と、黄色い星形の小花を石垣などで探します。"
+    },
+    "en": {
+      "summary": "Needle stonecrop (Sedum lineare). A succulent perennial (Crassulaceae) of stone walls, rocky ground and roadsides, with linear fleshy leaves in whorls of three and small yellow star-shaped flowers in early summer.",
+      "habitat_hint": "Stone walls, rocky ground, roadsides, roofs, dry sunny places.",
+      "finding_tips": "In May–June look on walls for the stems with linear fleshy leaves in whorls of three and the small yellow star-shaped flowers."
+    },
+    "zh": {
+      "summary": "オノマンネングサ（佛甲草，Sedum lineare）。景天科景天属肉质多年生草本，生于石墙、岩地与路旁，线形肉质叶三枚轮生，初夏开黄色星状小花。",
+      "habitat_hint": "石墙、岩地、路旁、屋顶、向阳干燥处。",
+      "finding_tips": "5 至 6 月在石墙上寻找线形肉质叶三枚轮生的茎与黄色星状小花。"
+    }
+  },
+  "Strobilurus stephanocystis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pinecone cap",
+    "ja": {
+      "summary": "マツカサキノコモドキ。ラッシタケ科の小さなキノコで、地中に埋もれたマツの球果（松かさ）から発生する。細い柄と小さな傘をもち、春や秋に松林の地上に現れる。",
+      "habitat_hint": "マツ林の地上（埋もれた松かさの上）、庭のマツの下。",
+      "finding_tips": "春・秋、松林の地面で細い柄の小さなキノコを探し、根元を掘ると埋もれた松かさにつながっている。"
+    },
+    "en": {
+      "summary": "Pinecone cap (Strobilurus stephanocystis). A small fungus (Physalacriaceae) arising from buried pine cones; with a slender stem and small cap, it appears on pine-woodland ground in spring and autumn.",
+      "habitat_hint": "Pine-woodland ground (on buried cones), under garden pines.",
+      "finding_tips": "In spring and autumn look on pine-woodland ground for the small slender-stemmed mushroom; dig at the base to find it attached to a buried pine cone."
+    },
+    "zh": {
+      "summary": "マツカサキノコモドキ（松果菌类，Strobilurus stephanocystis）。裸伞科小型真菌，发生于埋于地下的松球果，柄细盖小，春秋出现于松林地面。",
+      "habitat_hint": "松林地面（埋藏松果上）、庭园松树下。",
+      "finding_tips": "春秋于松林地面寻找细柄小菌，挖开基部可见其连于埋藏的松球果。"
+    }
   }
 }
