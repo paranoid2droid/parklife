@@ -213974,5 +213974,423 @@
       "habitat_hint": "湿润林床、河滩、水边石与落叶下、湿地边缘。",
       "finding_tips": "4 至 10 月于湿处翻开石与落叶寻找黑色扁平有光泽的大型步甲；夜行性。"
     }
+  },
+  "Brotherella yokohamae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケカガミゴケ。ハイゴケ科（サナダゴケ科）の蘚類で、湿った樹幹の基部や腐木、岩上に光沢のある緑のマットをつくる。枝が扁平に並び、葉先が鎌状に曲がる。",
+      "habitat_hint": "湿った樹幹の基部、腐木、岩上、林床の陰。",
+      "finding_tips": "一年中見られます。扁平に並ぶ枝と、鎌状に曲がる光沢のある葉先をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Sematophyllaceae) forming glossy green mats on damp tree bases, rotten wood and rock; the branches lie flat and the leaf tips curve sickle-like.",
+      "habitat_hint": "Damp tree bases, rotten wood, rock, shaded woodland floor.",
+      "finding_tips": "Present year-round; use a lens to check the flat-lying branches and the glossy, sickle-curved leaf tips."
+    },
+    "zh": {
+      "summary": "ケカガミゴケ。锦藓科藓类，于湿润树基、腐木及岩面形成有光泽的绿垫，枝扁平排列，叶端镰状弯曲。",
+      "habitat_hint": "湿润树基、腐木、岩面、林床荫处。",
+      "finding_tips": "全年可见；用放大镜观察扁平排列的枝条及镰状弯曲的光泽叶端。"
+    }
+  },
+  "Fissidens linearis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジングウホウオウゴケ。ホウオウゴケ科の小さな蘚類で、湿った土の斜面や岩、渓流沿いの日陰に生える。葉が茎の左右に2列に並び、鳥の羽のように見える。線形の細い葉が特徴。",
+      "habitat_hint": "湿った土の斜面、岩、渓流沿いの日陰、石垣。",
+      "finding_tips": "一年中見られます。左右2列に並ぶ細く線形の羽状の葉を、湿った土や岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small moss (Fissidentaceae) of damp soil slopes, rock and shaded streamsides; its narrow, linear leaves are arranged in two ranks, giving a feather-like look.",
+      "habitat_hint": "Damp soil slopes, rock, shaded streamsides, stone walls.",
+      "finding_tips": "Present year-round; use a lens on damp soil and rock to check the narrow linear two-ranked feather-like leaves."
+    },
+    "zh": {
+      "summary": "ジングウホウオウゴケ。凤尾藓科小型藓类，生于湿润土坡、岩石及溪流荫处，叶两列排列如羽，狭线形。",
+      "habitat_hint": "湿润土坡、岩石、溪流荫处、石墙。",
+      "finding_tips": "全年可见；用放大镜在湿土与岩上观察两列排列、狭线形如羽的叶片。"
+    }
+  },
+  "Haplocladium microphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コメバキヌゴケ。シノブゴケ科の小さな蘚類で、地表や石垣、樹の根元、コンクリート際に細かく羽状に枝分かれしたマットをつくる。都市でもよく見られる普通種。",
+      "habitat_hint": "土の上、石垣、コンクリート際、樹幹の根元。人里に多い。",
+      "finding_tips": "一年中見られます。細かく羽状に枝分かれした小さな緑のマットを地面や石の上で探します。"
+    },
+    "en": {
+      "summary": "Tiny-leaved haplocladium (Haplocladium microphyllum). A small moss (Thuidiaceae) forming finely pinnate mats on soil, stone walls, tree bases and concrete edges; a common species even in towns.",
+      "habitat_hint": "Bare soil, stone walls, concrete edges, tree bases — common near habitation.",
+      "finding_tips": "Present year-round; look for the small, finely pinnate green mats on ground and stones."
+    },
+    "zh": {
+      "summary": "コメバキヌゴケ（小叶小羽藓，Haplocladium microphyllum）。羽藓科小型藓类，于地表、石墙、树基及混凝土边缘形成细密羽状分枝的垫，城市中亦常见。",
+      "habitat_hint": "裸土、石墙、混凝土边缘、树基；人居环境常见。",
+      "finding_tips": "全年可见；在地面与石上寻找细密羽状分枝的小型绿垫。"
+    }
+  },
+  "Punctularia strigosozonata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cinnamon jellybread",
+    "ja": {
+      "summary": "ケシワウロコタケ。ウロコタケの仲間の担子菌で、広葉樹の枯木や倒木、切株に発生する木材腐朽菌（白色腐朽）。革質〜膠質の子実体が枯れ木の表面に広がり、赤褐色でしわや同心円状の帯がある。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株の表面。梅雨〜秋。",
+      "finding_tips": "一年中見られます（湿time活発）。枯れ木の表面に広がる赤褐色でしわのある革質の子実体を探します。"
+    },
+    "en": {
+      "summary": "Cinnamon jellybread (Punctularia strigosozonata). A crust fungus (Basidiomycota) on dead broadleaf wood, logs and stumps, causing white rot; the leathery-to-gelatinous fruitbody spreads over the surface, red-brown with wrinkles and concentric zones.",
+      "habitat_hint": "Surface of dead broadleaf wood, logs and stumps; rainy season to autumn.",
+      "finding_tips": "Present year-round (active when damp); look on dead wood for the red-brown, wrinkled, leathery crust with concentric zones."
+    },
+    "zh": {
+      "summary": "ケシワウロコタケ（皱环点革菌，Punctularia strigosozonata）。革菌类担子菌，发生于阔叶枯木、倒木与树桩表面，为白色腐朽菌，革质至胶质子实体铺展表面，红褐色具皱与同心环带。",
+      "habitat_hint": "阔叶枯木、倒木、树桩表面；梅雨至秋。",
+      "finding_tips": "全年可见（湿时活跃）；在枯木表面寻找红褐色、具皱与同心环带的革质子实体。"
+    }
+  },
+  "Schoenoplectiella wallichii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイワンヤマイ。カヤツリグサ科の一年草で、水田や湿地、溝の縁、休耕田に生える。細い緑の茎を束にして立て、茎の側面に褐色の小穂を集めてつける。ホタルイの仲間。",
+      "habitat_hint": "水田、湿地、溝の縁、休耕田、湿った空き地。",
+      "finding_tips": "8〜10月、束になって立つ細い緑の茎と、茎の側面につく褐色の小穂を水田で探します。"
+    },
+    "en": {
+      "summary": "An annual club-rush (Cyperaceae) of paddy fields, wetlands, ditch margins and fallow wet fields; it raises tufts of slender green stems bearing clusters of brown spikelets on the side of the stem.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, fallow wet fields, damp waste ground.",
+      "finding_tips": "In August–October look in paddies for the tufts of slender green stems with brown spikelet clusters on the stem side."
+    },
+    "zh": {
+      "summary": "タイワンヤマイ（萤蔺类，Schoenoplectiella wallichii）。莎草科一年生草本，生于水田、湿地、沟缘与休耕田，细绿茎丛立，褐色小穗簇生于茎侧，为萤蔺类。",
+      "habitat_hint": "水田、湿地、沟缘、休耕田、湿润空地。",
+      "finding_tips": "8 至 10 月于水田寻找丛立的细绿茎及茎侧簇生的褐色小穗。"
+    }
+  },
+  "Syringa reticulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese tree lilac",
+    "aliases": {
+      "zh-Hans": "暴马丁香"
+    },
+    "ja": {
+      "summary": "ハシドイ。モクセイ科ハシドイ属の落葉小高木〜高木で、山地の谷沿いや林縁、河岸に生える。初夏、白い小さな花を大きな円錐状の花序に多数つけ、甘い香りを放つ。ライラック（リラ）の仲間。",
+      "habitat_hint": "山地の谷沿い、林縁、河岸、やや湿った斜面。",
+      "finding_tips": "6〜7月、枝先に大きく立つ白い小花の円錐花序を探します。甘い香りが手がかり。"
+    },
+    "en": {
+      "summary": "Japanese tree lilac (Syringa reticulata). A deciduous small tree to tree (Oleaceae) of montane valleys, woodland edges and riverbanks; in early summer it bears many small white flowers in large panicles with a sweet scent. A relative of garden lilac.",
+      "habitat_hint": "Montane valleys, woodland edges, riverbanks, damp slopes.",
+      "finding_tips": "In June–July look for the large upright panicles of small white flowers at the branch tips; the sweet scent is the clue."
+    },
+    "zh": {
+      "summary": "ハシドイ（暴马丁香，Syringa reticulata）。木犀科丁香属落叶小乔木至乔木，生于山地谷地、林缘与河岸，初夏于大型圆锥花序密生白色小花、气味芳甜，为丁香（紫丁香）近缘。",
+      "habitat_hint": "山地谷地、林缘、河岸、略湿坡地。",
+      "finding_tips": "6 至 7 月寻找枝端直立的白色小花大型圆锥花序；芳甜香气为线索。"
+    }
+  },
+  "Aconitum sachalinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakhalin monkshood",
+    "ja": {
+      "summary": "カラフトブシ。キンポウゲ科トリカブト属の多年草で、山地〜亜高山帯の湿った草地や林縁、沢沿いに生える。秋、青紫色の兜（かぶと）形の花を咲かせる。※全草に猛毒（アコニチン）を含み、絶対に口にしてはいけない。",
+      "habitat_hint": "山地〜亜高山帯の湿った草地、林縁、沢沿い、明るい林内。",
+      "finding_tips": "8〜10月、青紫色の兜形の花を探します。全草猛毒。触るだけなら問題ないが、絶対に食べない。"
+    },
+    "en": {
+      "summary": "Sakhalin monkshood (Aconitum sachalinense). A perennial (Ranunculaceae) of damp montane to subalpine meadows, woodland edges and streamsides; in autumn it opens blue-purple helmet-shaped flowers. WARNING: the whole plant is extremely poisonous (aconitine) — never eat any part.",
+      "habitat_hint": "Damp montane to subalpine meadows, woodland edges, streamsides, bright forest.",
+      "finding_tips": "In August–October look for the blue-purple helmet-shaped flowers. The whole plant is deadly poisonous — never eat it."
+    },
+    "zh": {
+      "summary": "カラフトブシ（萨哈林乌头，Aconitum sachalinense）。毛茛科乌头属多年生草本，生于山地至亚高山湿润草甸、林缘与沟谷，秋开蓝紫色盔形花。警告：全株剧毒（乌头碱），切勿入口。",
+      "habitat_hint": "山地至亚高山湿润草甸、林缘、沟谷、明亮林内。",
+      "finding_tips": "8 至 10 月寻找蓝紫色盔形花。全株剧毒，切勿食用。"
+    }
+  },
+  "Ajuga reptans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイヨウキランソウ（セイヨウジュウニヒトエ）。ヨーロッパ原産のシソ科キランソウ属の多年草で、観賞用に栽培され道端や芝地、公園に野生化する。地表を這う走出枝で広がり、春に青紫色の唇形の花を穂状に立てる。グラウンドカバーにも使われる。",
+      "habitat_hint": "道端、芝地、公園、花壇の周辺、やや湿った半日陰。",
+      "finding_tips": "4〜6月、地表を這って広がるロゼットと、青紫色の唇形の花が穂状に立つ姿を探します。"
+    },
+    "en": {
+      "summary": "Bugle (Ajuga reptans). A European perennial (Lamiaceae) grown as an ornamental and naturalised on roadsides, lawns and in parks; it spreads by surface runners and raises spikes of blue-purple two-lipped flowers in spring, and is used as a groundcover.",
+      "habitat_hint": "Roadsides, lawns, parks, around flowerbeds, damp part-shade.",
+      "finding_tips": "In April–June look for the ground-hugging rosettes spread by runners and the erect spikes of blue-purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "セイヨウキランソウ（匍匐筋骨草，Ajuga reptans）。原产欧洲的唇形科筋骨草属多年生草本，作观赏栽培并野化于路旁、草坪与公园，借地表匍匐枝蔓延，春季抽穗状蓝紫色唇形花，常作地被。",
+      "habitat_hint": "路旁、草坪、公园、花坛周边、略湿半荫处。",
+      "finding_tips": "4 至 6 月寻找借匍匐枝蔓延的莲座及直立的蓝紫色唇形花穗。"
+    }
+  },
+  "Arisaema yamatense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cobra lily",
+    "ja": {
+      "summary": "スルガテンナンショウ。サトイモ科テンナンショウ属の多年草で、山地の落葉樹林の林床や林縁に生える。春、緑〜緑褐色の仏炎苞（ぶつえんほう）に包まれた特徴的な花をつける。マムシグサの仲間。※全草有毒。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った腐植土。",
+      "finding_tips": "4〜5月、緑〜緑褐色の仏炎苞に包まれた花を林床で探します。全草有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "A cobra lily (Arisaema, Araceae) of montane deciduous woodland floor and edges; in spring it bears the characteristic flower wrapped in a green to greenish-brown spathe. A relative of the Japanese cobra lilies. The whole plant is poisonous.",
+      "habitat_hint": "Floor and edges of montane deciduous forest, damp humus.",
+      "finding_tips": "In April–May look on the woodland floor for the flower wrapped in a green to greenish-brown spathe; the whole plant is toxic, so do not eat it."
+    },
+    "zh": {
+      "summary": "スルガテンナンショウ。天南星科天南星属多年生草本，生于山地落叶林林床与林缘，春季开被绿至绿褐色佛焰苞包裹的特征花，为天南星类。全株有毒。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿腐殖土。",
+      "finding_tips": "4 至 5 月于林床寻找被绿至绿褐色佛焰苞包裹的花；全株有毒，勿食。"
+    }
+  },
+  "Bolboschoenus koshevnikovii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウキヤガラ。カヤツリグサ科ウキヤガラ属の多年草で、河口や海岸近くの湿地、水田、汽水域の湿地に群生する。三角形の太い茎を立て、褐色の大きな小穂を頂につける。地下に塊茎をつくる。",
+      "habitat_hint": "河口、海岸近くの湿地、水田、汽水域の湿地、水路沿い。",
+      "finding_tips": "6〜8月、三角形の太い茎の頂につく褐色の大きな小穂を、河口や湿地で探します。"
+    },
+    "en": {
+      "summary": "A perennial club-rush (Cyperaceae) forming stands in estuaries, coastal wetlands, paddy fields and brackish marshes; it raises stout triangular stems topped with large brown spikelets and forms tubers underground.",
+      "habitat_hint": "Estuaries, coastal wetlands, paddy fields, brackish marshes, along watercourses.",
+      "finding_tips": "In June–August look in estuaries and wetlands for the stout triangular stems topped with large brown spikelets."
+    },
+    "zh": {
+      "summary": "コウキヤガラ（东北三棱草类，Bolboschoenus koshevnikovii）。莎草科三棱草属多年生草本，成丛生于河口、近海湿地、水田及咸淡水湿地，三棱粗茎顶生褐色大型小穗，地下生块茎。",
+      "habitat_hint": "河口、近海湿地、水田、咸淡水湿地、水道沿岸。",
+      "finding_tips": "6 至 8 月于河口与湿地寻找三棱粗茎顶端的褐色大型小穗。"
+    }
+  },
+  "Carex pilosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy sedge",
+    "aliases": {
+      "zh-Hans": "柔毛薹草"
+    },
+    "ja": {
+      "summary": "サッポロスゲ。カヤツリグサ科スゲ属の多年草で、山地の落葉樹林の林床に群生する。葉やさやに柔らかい毛があるのが特徴。春、緑褐色の雌小穂をまばらにつける。",
+      "habitat_hint": "山地の落葉樹林の林床、やや湿った腐植土、林縁。",
+      "finding_tips": "5〜6月、柔らかい毛のある葉と、まばらにつく緑褐色の雌小穂を林床で探します。"
+    },
+    "en": {
+      "summary": "Hairy sedge (Carex pilosa). A perennial sedge (Cyperaceae) forming stands on montane deciduous woodland floor; notably soft-hairy on the leaves and sheaths, it bears greenish-brown female spikes sparsely in spring.",
+      "habitat_hint": "Floor of montane deciduous forest, damp humus, woodland edges.",
+      "finding_tips": "In May–June look on the woodland floor for the softly hairy leaves and the sparse greenish-brown female spikes."
+    },
+    "zh": {
+      "summary": "サッポロスゲ（柔毛薹草，Carex pilosa）。莎草科薹草属多年生草本，成丛生于山地落叶林林床，叶与叶鞘被柔毛，春季疏生绿褐色雌小穗。",
+      "habitat_hint": "山地落叶林林床、略湿腐殖土、林缘。",
+      "finding_tips": "5 至 6 月于林床寻找被柔毛的叶及疏生的绿褐色雌小穗。"
+    }
+  },
+  "Cornus canadensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bunchberry",
+    "aliases": {
+      "zh-Hans": "草茱萸"
+    },
+    "ja": {
+      "summary": "ゴゼンタチバナ。ミズキ科の小さな多年草で、亜高山〜高山帯の針葉樹林の林床や苔むした地面に群生する。茎の先に葉を輪生し、初夏、その中心に白い4枚の総苞に囲まれた小花の集まりをつける。秋に赤い果実が集まってつく。",
+      "habitat_hint": "亜高山〜高山帯の針葉樹林の林床、苔むした地面、湿った斜面。",
+      "finding_tips": "6〜7月、輪生する葉の中心に白い4枚の総苞（花びらに見える）をもつ花を探します。秋の赤い集合果も手がかり。"
+    },
+    "en": {
+      "summary": "Bunchberry (Cornus canadensis). A small perennial (Cornaceae) forming carpets on subalpine to alpine conifer-forest floor and mossy ground; leaves are whorled at the stem top, and in early summer a cluster of tiny flowers sits within four white petal-like bracts, followed by a cluster of red fruit in autumn.",
+      "habitat_hint": "Subalpine to alpine conifer-forest floor, mossy ground, damp slopes.",
+      "finding_tips": "In June–July look for the whorl of leaves topped by four white petal-like bracts; the cluster of red fruit in autumn is another clue."
+    },
+    "zh": {
+      "summary": "ゴゼンタチバナ（草茱萸，Cornus canadensis）。山茱萸科小型多年生草本，成片生于亚高山至高山针叶林林床与生苔地面，叶轮生于茎顶，初夏中央四枚白色总苞（似花瓣）内聚生小花，秋结红色聚合果。",
+      "habitat_hint": "亚高山至高山针叶林林床、生苔地面、湿坡。",
+      "finding_tips": "6 至 7 月寻找茎顶轮生叶及中央四枚白色似花瓣的总苞；秋季红色聚合果亦为线索。"
+    }
+  },
+  "Damnacanthus macrophyllus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ジュズネノキ。アカネ科アリドオシ属の常緑低木で、暖地の照葉樹林の林床や林縁に生える。アリドオシに似るが葉が大きく、刺は短い。白い小花を咲かせ、赤い果実をつける。根が数珠状にふくらむのが名の由来。",
+      "habitat_hint": "暖地の照葉樹林の林床、林縁、社寺林の陰。",
+      "finding_tips": "一年中見られます。大きめの革質の葉と短い刺、白い小花や赤い果実を照葉樹林の林床で探します。"
+    },
+    "en": {
+      "summary": "An evergreen shrub (Rubiaceae) of warm-region evergreen forest floor and edges; like Damnacanthus indicus but with larger leaves and shorter spines, it bears small white flowers and red fruit. Named for the bead-like swellings on its roots.",
+      "habitat_hint": "Floor and edges of warm evergreen forest, shaded shrine woodland.",
+      "finding_tips": "Present year-round; look on evergreen forest floor for the larger leathery leaves, short spines, small white flowers and red fruit."
+    },
+    "zh": {
+      "summary": "ジュズネノキ（浙皖虎刺，Damnacanthus macrophyllus）。茜草科虎刺属常绿灌木，生于暖地照叶林林床与林缘，似虎刺而叶更大、刺更短，开白色小花、结红色果，根具念珠状膨大，故名。",
+      "habitat_hint": "暖地照叶林林床、林缘、社寺林荫处。",
+      "finding_tips": "全年可见；在照叶林林床寻找较大革质叶、短刺、白色小花及红色果实。"
+    }
+  },
+  "Dicranella heteromalla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ススキゴケ。シッポゴケ科の小さな蘚類で、道の切り通しや土の斜面、林床の裸地に群生する。葉がすべて一方向（片側）になびくのが特徴で、乾いた土の崩れた面によく見られる。",
+      "habitat_hint": "道の切り通し、土の斜面、林床の裸地、崩壊地の縁。",
+      "finding_tips": "一年中見られます。葉が一方向になびく細い群落と、多数立つ赤褐色の蒴柄を土の斜面で探します。"
+    },
+    "en": {
+      "summary": "Silky forklet-moss (Dicranella heteromalla). A small moss (Dicranaceae) forming turfs on road cuttings, soil slopes and bare woodland floor; distinctively, all its leaves sweep to one side, and it is common on eroded dry soil faces.",
+      "habitat_hint": "Road cuttings, soil slopes, bare woodland floor, landslip margins.",
+      "finding_tips": "Present year-round; look on soil slopes for the fine turf with leaves swept to one side and the many reddish-brown setae."
+    },
+    "zh": {
+      "summary": "ススキゴケ（偏叶小曲尾藓，Dicranella heteromalla）。曲尾藓科小型藓类，成丛生于路堑、土坡及林床裸地，叶全偏向一侧为其特征，多见于干燥崩解土面。",
+      "habitat_hint": "路堑、土坡、林床裸地、崩塌地边缘。",
+      "finding_tips": "全年可见；在土坡上寻找叶偏向一侧的细丛及众多红褐色蒴柄。"
+    }
+  },
+  "Diphylleia grayi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Skeleton flower",
+    "aliases": {
+      "zh-Hans": "山荷叶"
+    },
+    "ja": {
+      "summary": "サンカヨウ。メギ科サンカヨウ属の多年草で、亜高山帯の湿った林床や沢沿い、雪の多い斜面に生える。大きな2枚の葉の間から茎を伸ばし、初夏に白い花を咲かせる。花は雨に濡れると花弁が半透明（ガラスのよう）になることで知られる。秋に藍色の果実をつける。",
+      "habitat_hint": "亜高山帯の湿った林床、沢沿い、雪の多い斜面、湿った日陰。",
+      "finding_tips": "5〜7月、大きな2枚の葉と白い花を探します。雨で花弁が半透明になる現象が名物。秋の藍色の果実も手がかり。"
+    },
+    "en": {
+      "summary": "Skeleton flower (Diphylleia grayi). A perennial (Berberidaceae) of damp subalpine woodland floor, streamsides and snowy slopes; a stem rises between two large leaves and opens white flowers in early summer, famous for petals that turn translucent (glass-like) when wet with rain. Blue fruit follows in autumn.",
+      "habitat_hint": "Damp subalpine woodland floor, streamsides, snowy slopes, damp shade.",
+      "finding_tips": "In May–July look for the two large leaves and white flowers; the petals turning translucent in rain is its famous trait, and the blue autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "サンカヨウ（山荷叶，Diphylleia grayi）。小檗科山荷叶属多年生草本，生于亚高山湿润林床、沟谷及多雪坡地，两大叶间抽茎，初夏开白花，以花瓣遇雨半透明（如玻璃）著称，秋结蓝色果实。",
+      "habitat_hint": "亚高山湿润林床、沟谷、多雪坡地、湿润荫处。",
+      "finding_tips": "5 至 7 月寻找两枚大叶与白花；花瓣遇雨半透明为其名景，秋季蓝色果实亦为线索。"
+    }
+  },
+  "Eomecon chionantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シラユキゲシ。中国原産のケシ科シラユキゲシ属の多年草で、観賞用に栽培され、庭や公園、道端に野生化する。ハート形の葉をつけ、春〜初夏に白い4弁の花を咲かせる。茎や根を切ると橙赤色の汁が出る（血水草の名の由来）。",
+      "habitat_hint": "庭、公園、道端、やや湿った半日陰、林縁。",
+      "finding_tips": "4〜6月、ハート形の葉と白い4弁の花を探します。茎を切ると橙赤色の汁が出る点が手がかり。"
+    },
+    "en": {
+      "summary": "Snow poppy (Eomecon chionantha). A Chinese perennial (Papaveraceae) grown as an ornamental and naturalised in gardens, parks and roadsides; it has heart-shaped leaves and white four-petalled flowers in spring to early summer, and exudes orange-red sap when the stem or root is cut.",
+      "habitat_hint": "Gardens, parks, roadsides, damp part-shade, woodland edges.",
+      "finding_tips": "In April–June look for the heart-shaped leaves and white four-petalled flowers; the orange-red sap from a cut stem is the clue."
+    },
+    "zh": {
+      "summary": "シラユキゲシ（血水草，Eomecon chionantha）。原产中国的罂粟科血水草属多年生草本，作观赏栽培并野化于庭园、公园与路旁，叶心形，春至初夏开白色四瓣花，茎根折断流橙红色汁液，故名。",
+      "habitat_hint": "庭园、公园、路旁、略湿半荫处、林缘。",
+      "finding_tips": "4 至 6 月寻找心形叶与白色四瓣花；折茎流橙红色汁液为线索。"
+    }
+  },
+  "Frullania tamarisci": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シダレヤスデゴケ。ヤスデゴケ科の葉状苔類で、樹幹や岩の上に赤褐色〜暗褐色のマットをつくって着生する。葉の腹片が袋状（水を溜める）になるのが特徴。乾くと縮れる。",
+      "habitat_hint": "樹幹、岩上、石垣、日当たりのよい乾きやすい場所も含む。",
+      "finding_tips": "一年中見られます。樹幹や岩に付く赤褐色〜暗褐色のマットと、袋状になる葉の腹片をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Frullaniaceae) forming red-brown to dark-brown mats on tree trunks and rock; distinctively the ventral leaf-lobules are sac-like (water-holding), and it curls when dry.",
+      "habitat_hint": "Tree trunks, rock, stone walls, including sunlit sites that dry out.",
+      "finding_tips": "Present year-round; use a lens to check the red-brown to dark-brown mats on trunks and rock and the sac-like ventral lobules."
+    },
+    "zh": {
+      "summary": "シダレヤスデゴケ（柽柳耳叶苔，Frullania tamarisci）。耳叶苔科叶状苔类，附生于树干与岩面形成红褐至暗褐色垫，叶腹瓣囊状（可蓄水）为其特征，干时卷缩。",
+      "habitat_hint": "树干、岩面、石墙，含向阳易干处。",
+      "finding_tips": "全年可见；用放大镜观察树干岩面上红褐至暗褐色垫及囊状的叶腹瓣。"
+    }
+  },
+  "Galium japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クルマムグラ。アカネ科ヤエムグラ属の多年草で、山地の落葉樹林の林床や林縁に生える。茎の節に葉が車輪状（6枚前後）に輪生する。初夏、白い小さな4弁の花を咲かせる。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った腐植土。",
+      "finding_tips": "5〜7月、茎の節に車輪状に輪生する葉と、白い小さな4弁の花を林床で探します。"
+    },
+    "en": {
+      "summary": "A perennial bedstraw (Galium, Rubiaceae) of montane deciduous woodland floor and edges; the leaves are borne in wheel-like whorls (about six) at the stem nodes, with small white four-petalled flowers in early summer.",
+      "habitat_hint": "Floor and edges of montane deciduous forest, damp humus.",
+      "finding_tips": "In May–July look on the woodland floor for the wheel-like whorls of leaves at the nodes and the small white four-petalled flowers."
+    },
+    "zh": {
+      "summary": "クルマムグラ（日本拉拉藤，Galium japonicum）。茜草科拉拉藤属多年生草本，生于山地落叶林林床与林缘，叶于茎节轮生如车轮（约六枚），初夏开白色四瓣小花。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿腐殖土。",
+      "finding_tips": "5 至 7 月于林床寻找茎节轮生如车轮的叶及白色四瓣小花。"
+    }
+  },
+  "Hololeion krameri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スイラン。キク科スイラン属の多年草で、日当たりのよい湿地や湿った草原、休耕田に生える。細長い葉をつけ、秋、黄色いタンポポに似た頭花を数個、まばらに咲かせる。",
+      "habitat_hint": "日当たりのよい湿地、湿った草原、休耕田、湿原の周縁。",
+      "finding_tips": "9〜10月、湿地で細長い葉と、まばらに咲く黄色いタンポポに似た頭花を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Asteraceae) of sunny wetlands, damp meadows and fallow wet fields; it has long narrow leaves and bears a few sparse, dandelion-like yellow flowerheads in autumn.",
+      "habitat_hint": "Sunny wetlands, damp meadows, fallow wet fields, bog margins.",
+      "finding_tips": "In September–October look in wet ground for the long narrow leaves and the few sparse dandelion-like yellow flowerheads."
+    },
+    "zh": {
+      "summary": "スイラン。菊科水兰属多年生草本，生于向阳湿地、湿润草甸与休耕田，叶狭长，秋季疏生数枚似蒲公英的黄色头状花序。",
+      "habitat_hint": "向阳湿地、湿润草甸、休耕田、湿原周缘。",
+      "finding_tips": "9 至 10 月于湿地寻找狭长叶及疏生的黄色似蒲公英头状花序。"
+    }
   }
 }
