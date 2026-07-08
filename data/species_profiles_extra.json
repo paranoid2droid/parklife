@@ -212689,5 +212689,415 @@
       "habitat_hint": "山地湿润树干、生苔岩石、溪谷荫处。",
       "finding_tips": "全年可见；寻找由匍匐根状茎间隔生出的狭长单叶及叶背圆形孢子囊群。"
     }
+  },
+  "Carex flabellata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマテキリスゲ。カヤツリグサ科スゲ属の多年草で、山地の林縁や道端、やや湿った草地に生える。細長い葉は縁がざらつき、細い雌小穂を垂らしてつける。",
+      "habitat_hint": "山地の林縁、道端、やや湿った草地、沢沿い。",
+      "finding_tips": "5〜7月、縁のざらつく細長い葉と、細く垂れ下がる雌小穂を探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Cyperaceae) of montane woodland edges, roadsides and damp grassland; its long leaves are rough-margined and it hangs slender female spikes.",
+      "habitat_hint": "Montane woodland edges, roadsides, damp grassland, streamsides.",
+      "finding_tips": "In May–July look for the long rough-edged leaves and the slender drooping female spikes."
+    },
+    "zh": {
+      "summary": "ヤマテキリスゲ。莎草科薹草属多年生草本，生于山地林缘、路旁及略湿草地，叶狭长、缘粗糙，雌小穗细而下垂。",
+      "habitat_hint": "山地林缘、路旁、略湿草地、沟谷。",
+      "finding_tips": "5 至 7 月寻找缘粗糙的狭长叶及细而下垂的雌小穗。"
+    }
+  },
+  "Carex maculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチスゲ。カヤツリグサ科スゲ属の多年草で、湿地や湿った草地、休耕田、溝の縁に生える。直立する茎の先に、緑褐色の細い小穂を数個つける。",
+      "habitat_hint": "湿地、湿った草地、休耕田、溝や池の縁。",
+      "finding_tips": "5〜7月、直立する茎の先に数個つく緑褐色の細い小穂を探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Cyperaceae) of wetlands, damp grassland, fallow wet fields and ditch margins; erect stems carry several slender greenish-brown spikes at the top.",
+      "habitat_hint": "Wetlands, damp grassland, fallow wet fields, ditch and pond margins.",
+      "finding_tips": "In May–July look for the several slender greenish-brown spikes at the top of the erect stems."
+    },
+    "zh": {
+      "summary": "タチスゲ。莎草科薹草属多年生草本，生于湿地、湿润草地、休耕田及沟缘，直立茎顶端着生数枚绿褐色细小穗。",
+      "habitat_hint": "湿地、湿润草地、休耕田、沟渠与池塘边缘。",
+      "finding_tips": "5 至 7 月寻找直立茎顶端着生的数枚绿褐色细小穗。"
+    }
+  },
+  "Poa versicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ザラツキイチゴツナギ。イネ科イチゴツナギ属の多年草で、山地の草地や林縁、道端に生える。花序の枝や葉がざらつくのが名の由来。細い円錐花序に小さな小穂をつける。",
+      "habitat_hint": "山地の草地、林縁、道端、やや湿った斜面。",
+      "finding_tips": "5〜7月、ざらつく花序の枝と、細い円錐花序につく小さな小穂を探します。"
+    },
+    "en": {
+      "summary": "A perennial bluegrass (Poa, Poaceae) of montane grassland, woodland edges and roadsides; named for the rough inflorescence branches and leaves, bearing small spikelets in a slender panicle.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, damp slopes.",
+      "finding_tips": "In May–July look for the rough inflorescence branches and the small spikelets in the slender panicle."
+    },
+    "zh": {
+      "summary": "ザラツキイチゴツナギ。禾本科早熟禾属多年生草本，生于山地草地、林缘与路旁，花序枝与叶粗糙，故名，细圆锥花序着生小型小穗。",
+      "habitat_hint": "山地草地、林缘、路旁、略湿坡地。",
+      "finding_tips": "5 至 7 月寻找粗糙的花序枝及细圆锥花序上的小型小穗。"
+    }
+  },
+  "Porodisculus pendulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヌルデタケ。タマチョレイタケ科の極めて小さなキノコ（多孔菌）で、広葉樹の枯枝、特にヌルデなどの枯れ枝に群生する。白〜クリーム色の小さな椀形〜舌形の傘をつけ、裏面は細かい管孔になる。",
+      "habitat_hint": "広葉樹（特にヌルデ）の枯枝、細い倒木、切株。",
+      "finding_tips": "一年中見られます。枯枝に群生する白〜クリーム色の極小の椀形の傘と、細かい管孔面を探します。"
+    },
+    "en": {
+      "summary": "A very small polypore (Polyporaceae) growing in clusters on dead broadleaf twigs, especially dead sumac (nurude) branches; the tiny white to cream cup- to tongue-shaped caps have a finely pored underside.",
+      "habitat_hint": "Dead twigs of broadleaf trees (esp. sumac), thin fallen wood, stumps.",
+      "finding_tips": "Present year-round; look on dead twigs for the clustered tiny white-to-cream cup-shaped caps with a finely pored underside."
+    },
+    "zh": {
+      "summary": "ヌルデタケ。多孔菌科极小型真菌，丛生于阔叶枯枝（尤盐肤木枯枝），白至奶油色小碗至舌形菌盖，下面为细密管孔。",
+      "habitat_hint": "阔叶树（尤盐肤木）枯枝、细倒木、树桩。",
+      "finding_tips": "全年可见；在枯枝上寻找丛生的白至奶油色极小碗形菌盖及细密管孔面。"
+    }
+  },
+  "Porpidia albocaerulescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヘリトリゴケ。地衣類（イワタケ科の仲間）で、日当たりのよい岩や石の表面に固くはりつく痂状（かさぶた状）地衣。灰白色の地衣体に、青みを帯びた黒色の子器（アポテシウム）を多数つける。",
+      "habitat_hint": "日当たりのよい岩、石、露岩、石垣の表面。",
+      "finding_tips": "一年中見られます。岩の表面の灰白色のかさぶた状地衣と、青黒色の小さな円い子器をルーペで探します。"
+    },
+    "en": {
+      "summary": "Smoky-eye boulder lichen (Porpidia albocaerulescens). A crustose lichen (Lecideaceae) forming a hard crust on sunlit rock and stone; the grey-white thallus bears many bluish-black apothecia (fruiting discs).",
+      "habitat_hint": "Sunlit rock, stone, exposed boulders, stone-wall surfaces.",
+      "finding_tips": "Present year-round; use a lens on rock surfaces to find the grey-white crust and the small round bluish-black fruiting discs."
+    },
+    "zh": {
+      "summary": "ヘリトリゴケ（白蓝网衣，Porpidia albocaerulescens）。地衣类（网衣科），于向阳岩石表面形成坚硬痂状体，灰白色地衣体上密生带蓝的黑色子器（盘状果体）。",
+      "habitat_hint": "向阳岩石、石块、露岩、石墙表面。",
+      "finding_tips": "全年可见；用放大镜在岩面上寻找灰白色痂状体及蓝黑色小圆子器。"
+    }
+  },
+  "Pteris ryukyuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "リュウキュウイノモトソウ。イノモトソウ科の常緑性シダで、暖地の石垣や岩場、林縁のやや湿った日陰に生える。単羽状に分かれた葉をつけ、葉縁に沿って胞子嚢群が線状に並ぶ。",
+      "habitat_hint": "暖地の石垣、岩場、林縁のやや湿った日陰、渓谷沿い。",
+      "finding_tips": "一年中見られます。単羽状の葉と、葉の縁に沿って線状に並ぶ胞子嚢群を石垣などで探します。"
+    },
+    "en": {
+      "summary": "An evergreen brake fern (Pteridaceae) of warm-region stone walls, rocky ground and damp shaded woodland edges, with once-pinnate fronds bearing linear marginal sori along the leaf edge.",
+      "habitat_hint": "Warm-region stone walls, rocky ground, damp shaded woodland edges, ravines.",
+      "finding_tips": "Present year-round; look on walls for the once-pinnate fronds and the linear sori running along the leaf margins."
+    },
+    "zh": {
+      "summary": "リュウキュウイノモトソウ。凤尾蕨科常绿蕨类，生于暖地石墙、岩地及林缘略湿荫处，叶一回羽状，孢子囊群沿叶缘线状排列。",
+      "habitat_hint": "暖地石墙、岩地、林缘略湿荫处、溪谷沿岸。",
+      "finding_tips": "全年可见；在石墙上寻找一回羽状叶及沿叶缘线状排列的孢子囊群。"
+    }
+  },
+  "Rhynchospora fujiiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コイヌノハナヒゲ。カヤツリグサ科ミカヅキグサ属の多年草で、湿原や湿地、貧栄養の湿った砂地に生える小型のミカヅキグサの仲間。細い茎の先に褐色の小穂を少数つける。",
+      "habitat_hint": "湿原、湿地、貧栄養の湿った砂地、休耕田。",
+      "finding_tips": "7〜9月、細い茎の先に少数つく褐色の小穂を、湿原や湿地で探します。オオイヌノハナヒゲより小型。"
+    },
+    "en": {
+      "summary": "A small beak-sedge (Rhynchospora, Cyperaceae) of bogs, wetlands and nutrient-poor damp sand, bearing a few brown spikelets at the tips of slender stems.",
+      "habitat_hint": "Bogs, wetlands, nutrient-poor damp sand, fallow wet fields.",
+      "finding_tips": "In July–September look in bogs and wet ground for the few brown spikelets at the slender stem tips; smaller than the related beak-sedge."
+    },
+    "zh": {
+      "summary": "コイヌノハナヒゲ。莎草科刺子莞属多年生草本，生于湿原、湿地及贫营养湿沙地，为小型刺子莞，细茎顶端着生少数褐色小穗。",
+      "habitat_hint": "湿原、湿地、贫营养湿沙地、休耕田。",
+      "finding_tips": "7 至 9 月于湿原与湿地寻找细茎顶端少数褐色小穗；较近缘种小。"
+    }
+  },
+  "Rhynchostegium pallidifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コカヤゴケ。アオギヌゴケ科の蘚類で、湿った岩や土、樹の根元、石垣に扁平で光沢のある淡緑のマットをつくる。都市の公園や庭でもよく見られる普通のコケ。",
+      "habitat_hint": "湿った岩、土、樹幹の基部、石垣、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。扁平で光沢のある淡緑のマットを、湿った岩や樹の根元で探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Brachytheciaceae) forming flattened, glossy pale-green mats on damp rock, soil, tree bases and stone walls; a common moss in parks and gardens.",
+      "habitat_hint": "Damp rock, soil, tree bases, stone walls, shaded streamsides.",
+      "finding_tips": "Present year-round; look for the flat, glossy pale-green mats on damp rock and at tree bases."
+    },
+    "zh": {
+      "summary": "コカヤゴケ。青藓科藓类，于湿岩、土面、树基及石墙形成扁平有光泽的淡绿垫，城市公园与庭园中常见。",
+      "habitat_hint": "湿岩、土面、树基、石墙、溪流荫处。",
+      "finding_tips": "全年可见；在湿岩与树基上寻找扁平有光泽的淡绿藓垫。"
+    }
+  },
+  "Seseli ugoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマイブキボウフウ。セリ科の多年草で、海岸の岩場や崖、砂礫地に生える。細かく裂けた厚みのある葉をつけ、複散形花序に白い小花を多数つける。海岸性で風に強い。",
+      "habitat_hint": "海岸の岩場、崖、砂礫地、海に近い草地。",
+      "finding_tips": "8〜10月、細かく裂けた厚みのある葉と、白い小花の複散形花序を海岸の岩場で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Apiaceae) of coastal rocky ground, cliffs and sand-gravel; it has thick, finely divided leaves and bears many small white flowers in compound umbels, tolerant of coastal wind.",
+      "habitat_hint": "Coastal rocky ground, cliffs, sand-gravel, grassland near the sea.",
+      "finding_tips": "In August–October look on coastal rocks for the thick, finely divided leaves and the compound umbels of small white flowers."
+    },
+    "zh": {
+      "summary": "ハマイブキボウフウ。伞形科多年生草本，生于海岸岩地、崖壁与砂砾地，叶厚而细裂，复伞形花序密生白色小花，耐海风。",
+      "habitat_hint": "海岸岩地、崖壁、砂砾地、近海草地。",
+      "finding_tips": "8 至 10 月于海岸岩地寻找厚而细裂的叶及白色小花的复伞形花序。"
+    }
+  },
+  "Setaria chondrachne": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌアワ。イネ科エノコログサ属の多年草で、山地の林縁や道端、やや湿った草地に生える。アワ（エノコログサ類）に似るが、まばらで細い円錐花序をつけ、剛毛（芒状の毛）は目立たない。",
+      "habitat_hint": "山地の林縁、道端、やや湿った草地、林下。",
+      "finding_tips": "8〜10月、まばらで細い円錐花序を探します。エノコログサ類に似るが穂が細くまばらな点が手がかり。"
+    },
+    "en": {
+      "summary": "Hard bristlegrass (Setaria chondrachne). A perennial grass (Poaceae) of montane woodland edges, roadsides and damp grassland; like the foxtails but with a sparse, slender panicle and inconspicuous bristles.",
+      "habitat_hint": "Montane woodland edges, roadsides, damp grassland, understorey.",
+      "finding_tips": "In August–October look for the sparse, slender panicle; unlike the foxtails the head is thin and open, bristles inconspicuous."
+    },
+    "zh": {
+      "summary": "イヌアワ（莩草，Setaria chondrachne）。禾本科狗尾草属多年生草本，生于山地林缘、路旁及略湿草地，似狗尾草类而圆锥花序疏细、刚毛不显。",
+      "habitat_hint": "山地林缘、路旁、略湿草地、林下。",
+      "finding_tips": "8 至 10 月寻找疏而细的圆锥花序；似狗尾草类但花序细疏、刚毛不显。"
+    }
+  },
+  "Spodiopogon depauperatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コアブラススキ。イネ科アブラススキ属の多年草で、山地の日当たりのよい草地や斜面、道端に生える。細い茎を立て、まばらな円錐花序に小穂をつける。アブラススキより小型で華奢。",
+      "habitat_hint": "山地の日当たりのよい草地、斜面、道端、林縁。",
+      "finding_tips": "8〜10月、細い茎とまばらな円錐花序を山地の草地で探します。アブラススキより小型。"
+    },
+    "en": {
+      "summary": "A perennial grass (Spodiopogon, Poaceae) of sunny montane grassland, slopes and roadsides; slender-stemmed, it bears spikelets in a sparse panicle, smaller and more delicate than the related spodiopogon.",
+      "habitat_hint": "Sunny montane grassland, slopes, roadsides, woodland edges.",
+      "finding_tips": "In August–October look on montane grassland for the slender stems and sparse panicle; smaller than the related grass."
+    },
+    "zh": {
+      "summary": "コアブラススキ。禾本科大油芒属多年生草本，生于山地向阳草地、坡地与路旁，茎细，圆锥花序稀疏，较大油芒更小巧纤弱。",
+      "habitat_hint": "山地向阳草地、坡地、路旁、林缘。",
+      "finding_tips": "8 至 10 月于山地草地寻找细茎与稀疏圆锥花序；较大油芒小。"
+    }
+  },
+  "Thamnobryum subseriatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオトラノオゴケ。ヒラゴケ科（トラノオゴケ科）の蘚類で、湿った岩や樹幹の基部、渓流沿いに生える。主茎から枝が樹状（木の枝のよう）に広がり、小さな木のような姿になるのが特徴。",
+      "habitat_hint": "湿った岩、樹幹の基部、渓流沿いの日陰、石灰岩地。",
+      "finding_tips": "一年中見られます。主茎から樹状に枝を広げる、小さな木のような姿のコケを湿った岩で探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Neckeraceae) of damp rock, tree bases and streamsides; distinctively, branches spread tree-like from the main stem, giving the plant the look of a little tree.",
+      "habitat_hint": "Damp rock, tree bases, shaded streamsides, limestone ground.",
+      "finding_tips": "Present year-round; look on damp rock for the little-tree form, with branches spreading dendroidly from the main stem."
+    },
+    "zh": {
+      "summary": "オオトラノオゴケ。平藓科藓类，生于湿岩、树基及溪流沿岸，主茎生出树状分枝，形如小树，为其特征。",
+      "habitat_hint": "湿岩、树基、溪流荫处、石灰岩地。",
+      "finding_tips": "全年可见；在湿岩上寻找主茎生出树状分枝、形如小树的藓类。"
+    }
+  },
+  "Vandenboschia birmanica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Burman bristle fern",
+    "ja": {
+      "summary": "イズハイホラゴケ。コケシノブ科の常緑性シダ（膜状シダ）で、暖地の湿った岩壁や樹幹、渓谷沿いの日陰に着生する。葉は膜のように薄く半透明で、根茎を這わせて広がる。",
+      "habitat_hint": "暖地の湿った岩壁、樹幹、渓谷沿いの日陰、滝のしぶきのかかる岩。",
+      "finding_tips": "一年中見られます。膜のように薄く半透明の葉と、岩壁を這う根茎を、湿った日陰でルーペで探します。"
+    },
+    "en": {
+      "summary": "Burman bristle fern (Vandenboschia birmanica). An evergreen filmy fern (Hymenophyllaceae) epiphytic on damp rock walls, trunks and shaded ravines in warm regions; the fronds are membrane-thin and translucent, spreading by creeping rhizomes.",
+      "habitat_hint": "Damp rock walls, trunks, shaded ravines, spray-wet rock in warm regions.",
+      "finding_tips": "Present year-round; use a lens in damp shade to find the membrane-thin translucent fronds and the creeping rhizomes on rock walls."
+    },
+    "zh": {
+      "summary": "イズハイホラゴケ（缅甸瓶蕨，Vandenboschia birmanica）。膜蕨科常绿蕨类（膜蕨），附生于暖地湿润岩壁、树干及溪谷荫处，叶薄如膜而半透明，借匍匐根状茎蔓延。",
+      "habitat_hint": "暖地湿润岩壁、树干、溪谷荫处、瀑布飞溅岩面。",
+      "finding_tips": "全年可见；用放大镜于湿润荫处寻找薄如膜的半透明叶及岩壁上匍匐的根状茎。"
+    }
+  },
+  "Boehmeria kiusiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシヤブマオ。イラクサ科カラムシ属の多年草で、山地の林縁や道端、川岸のやや湿った場所に生える。ヤブマオの仲間で、大きな鋸歯のある葉を対生し、穂状に淡緑色の小花を密につける。",
+      "habitat_hint": "山地の林縁、道端、川岸、やや湿った半日陰。",
+      "finding_tips": "8〜10月、大きな鋸歯のある対生の葉と、葉腋から出る穂状の淡緑色の花序を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Urticaceae) of montane woodland edges, roadsides and damp riverbanks; a false-nettle relative with large toothed opposite leaves and dense spikes of pale-green flowers from the leaf axils.",
+      "habitat_hint": "Montane woodland edges, roadsides, riverbanks, damp part-shade.",
+      "finding_tips": "In August–October look for the large toothed opposite leaves and the dense pale-green flower spikes from the leaf axils."
+    },
+    "zh": {
+      "summary": "ツクシヤブマオ。荨麻科苎麻属多年生草本，生于山地林缘、路旁及河岸略湿处，为苎麻类，叶对生具大锯齿，叶腋抽穗状密生淡绿色小花。",
+      "habitat_hint": "山地林缘、路旁、河岸、略湿半荫处。",
+      "finding_tips": "8 至 10 月寻找对生具大锯齿叶及叶腋抽出的穗状淡绿色花序。"
+    }
+  },
+  "Chrysanthemum japonense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese wild chrysanthemum",
+    "ja": {
+      "summary": "ノジギク。キク科キク属の多年草で、本州西部〜四国・九州の海岸近くの崖や草地、道端に生える野生の菊。晩秋、白い舌状花に黄色い中心の頭花を咲かせる。栽培ギクの原種の一つとされる。",
+      "habitat_hint": "海岸近くの崖、草地、道端、日当たりのよい斜面。",
+      "finding_tips": "10〜12月、白い舌状花と黄色い中心の頭花を海岸近くで探します。葉裏が白っぽい点が手がかり。"
+    },
+    "en": {
+      "summary": "Japanese wild chrysanthemum (Chrysanthemum japonense). A perennial (Asteraceae) of coastal cliffs, grassland and roadsides in western Honshu, Shikoku and Kyushu; in late autumn it opens white-rayed, yellow-centred flowerheads and is regarded as one of the ancestors of garden chrysanthemums.",
+      "habitat_hint": "Coastal cliffs, grassland, roadsides, sunny slopes near the sea.",
+      "finding_tips": "In October–December look near the coast for the white-rayed, yellow-centred flowerheads; the whitish leaf undersides are a clue."
+    },
+    "zh": {
+      "summary": "ノジギク（野路菊，Chrysanthemum japonense）。菊科菊属多年生草本，生于本州西部至四国、九州近海崖壁、草地与路旁，晚秋开白色舌状、黄心头状花，被视为栽培菊的原种之一。",
+      "habitat_hint": "近海崖壁、草地、路旁、向阳坡地。",
+      "finding_tips": "10 至 12 月于近海处寻找白舌黄心的头状花；叶背偏白为线索。"
+    }
+  },
+  "Emilia sonchifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスベニニガナ。キク科ウスベニニガナ属の一年草で、暖地の道端や畑、荒れ地に生える。細い茎の先に、淡紅紫色の筒状花だけからなる小さな頭花を数個つける。若い葉は食用にもされる。",
+      "habitat_hint": "暖地の道端、畑、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "周年（暖地）、細い茎の先につく淡紅紫色の筒状花だけの小さな頭花を探します。"
+    },
+    "en": {
+      "summary": "Lilac tasselflower (Emilia sonchifolia). A warm-region annual (Asteraceae) of roadsides, fields and waste ground; slender stems carry small flowerheads of pale lilac-purple disc florets only. The young leaves are eaten in some places.",
+      "habitat_hint": "Warm-region roadsides, fields, waste and made ground in sun.",
+      "finding_tips": "Much of the year in warm areas, look for the small heads of pale lilac-purple florets atop slender stems."
+    },
+    "zh": {
+      "summary": "ウスベニニガナ（一点红，Emilia sonchifolia）。菊科一点红属一年生草本，生于暖地路旁、田地与荒地，细茎顶端着生数枚仅具淡紫红管状花的小头状花序，嫩叶可食。",
+      "habitat_hint": "暖地路旁、田地、荒地、造地向阳处。",
+      "finding_tips": "暖地近全年可见；寻找细茎顶端仅具淡紫红管状花的小头状花序。"
+    }
+  },
+  "Fallopia dentatoalata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Toothed-wing knotweed",
+    "aliases": {
+      "zh-Hans": "齿翅蓼"
+    },
+    "ja": {
+      "summary": "オオツルイタドリ。タデ科の一年生のつる草で、山地の林縁や道端、河川敷に生える。他の植物に絡んで伸び、果実を包む花被の翼に細かい歯があるのが名の由来。",
+      "habitat_hint": "山地の林縁、道端、河川敷、藪や柵に絡む。",
+      "finding_tips": "8〜10月、他の植物に絡むつると、果実を包む花被の翼にある細かい歯を探します。"
+    },
+    "en": {
+      "summary": "Toothed-wing knotweed (Fallopia dentatoalata). An annual climbing knotweed (Polygonaceae) of montane woodland edges, roadsides and riverbanks; it twines over other plants, and the wings of the fruiting perianth are finely toothed, giving its name.",
+      "habitat_hint": "Montane woodland edges, roadsides, riverbanks; twining over thickets and fences.",
+      "finding_tips": "In August–October look for the twining vine and the finely toothed wings on the fruiting perianth."
+    },
+    "zh": {
+      "summary": "オオツルイタドリ（齿翅蓼，Fallopia dentatoalata）。蓼科一年生蔓性草本，生于山地林缘、路旁与河滩，缠绕他物生长，果被之翅具细齿，故名。",
+      "habitat_hint": "山地林缘、路旁、河滩；缠绕灌丛与栅栏。",
+      "finding_tips": "8 至 10 月寻找缠绕他物的藤蔓及果被上具细齿的翅。"
+    }
+  },
+  "Gentiana triflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-flowered gentian",
+    "aliases": {
+      "zh-Hans": "三花龙胆"
+    },
+    "ja": {
+      "summary": "エゾリンドウ。リンドウ科リンドウ属の多年草で、山地〜亜高山帯の湿った草原や湿原に生える。秋、茎の上部の葉腋と先端に、青紫色の筒状の花を数個ずつまとめて上向きに開く。",
+      "habitat_hint": "山地〜亜高山帯の湿った草原、湿原、明るい林縁。",
+      "finding_tips": "9〜10月、茎の上部にまとまってつく青紫色の筒状の花を、湿った草原で探します。晴天時に開く。"
+    },
+    "en": {
+      "summary": "Three-flowered gentian (Gentiana triflora). A perennial (Gentianaceae) of damp montane to subalpine meadows and bogs; in autumn it opens clusters of blue-purple tubular flowers, facing upward, in the upper leaf axils and at the stem tip.",
+      "habitat_hint": "Damp montane to subalpine meadows, bogs, bright woodland edges.",
+      "finding_tips": "In September–October look in damp meadows for the clusters of blue-purple tubular flowers near the stem top; they open in sunny weather."
+    },
+    "zh": {
+      "summary": "エゾリンドウ（三花龙胆，Gentiana triflora）。龙胆科龙胆属多年生草本，生于山地至亚高山湿润草甸与湿原，秋季于茎上部叶腋及顶端成簇朝上开蓝紫色筒状花。",
+      "habitat_hint": "山地至亚高山湿润草甸、湿原、明亮林缘。",
+      "finding_tips": "9 至 10 月于湿润草甸寻找茎上部成簇的蓝紫色筒状花；晴天开放。"
+    }
+  },
+  "Geranium yesoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yezo cranesbill",
+    "ja": {
+      "summary": "エゾフウロ。フウロソウ科フウロソウ属の多年草で、山地〜亜高山帯の草原や明るい林縁、道端に生える。夏、紅紫色の5弁の花を咲かせる。全体に開出する毛が多い。",
+      "habitat_hint": "山地〜亜高山帯の草原、明るい林縁、道端、やや乾いた斜面。",
+      "finding_tips": "7〜8月、紅紫色の5弁の花と、掌状に切れ込む葉を山地の草原で探します。萼や茎に開出毛が多い。"
+    },
+    "en": {
+      "summary": "Yezo cranesbill (Geranium yesoense). A perennial (Geraniaceae) of montane to subalpine grassland, bright woodland edges and roadsides; it bears rose-purple five-petalled flowers in summer and is notably spreading-hairy throughout.",
+      "habitat_hint": "Montane to subalpine grassland, bright woodland edges, roadsides, drier slopes.",
+      "finding_tips": "In July–August look on montane grassland for the rose-purple five-petalled flowers and the palmately lobed leaves; the calyx and stem are spreading-hairy."
+    },
+    "zh": {
+      "summary": "エゾフウロ（虾夷老鹳草，Geranium yesoense）。牻牛儿苗科老鹳草属多年生草本，生于山地至亚高山草甸、明亮林缘与路旁，夏开红紫色五瓣花，全株多开展毛。",
+      "habitat_hint": "山地至亚高山草甸、明亮林缘、路旁、较干坡地。",
+      "finding_tips": "7 至 8 月于山地草甸寻找红紫色五瓣花及掌状分裂叶；萼与茎多开展毛。"
+    }
   }
 }
