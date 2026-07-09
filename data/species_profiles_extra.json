@@ -218232,5 +218232,423 @@
       "habitat_hint": "明亮林缘、河岸林、农地周边灌丛草地、高原。",
       "finding_tips": "5 至 9 月寻找停于灌丛顶、体红褐、具黑贯眼纹的小鸟；枝上插食的猎物亦为线索。"
     }
+  },
+  "Grimmia pilifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケギボウシゴケ。ギボウシゴケ科の蘚類で、日当たりのよい岩や石、石垣、コンクリートの上に黒緑色のクッション状の群落をつくる。葉の先が白い毛（芒）になって伸びるのが名の由来。乾燥に強い。",
+      "habitat_hint": "日当たりのよい岩、石、石垣、コンクリート、露岩。",
+      "finding_tips": "一年中見られます。岩の上の黒緑色のクッション状の群落と、葉先の白い毛（芒）をルーペで確認します。"
+    },
+    "en": {
+      "summary": "Hair grimmia (Grimmia pilifera). A moss (Grimmiaceae) forming blackish-green cushions on sunlit rock, stone, walls and concrete; the leaf tips extend into white hair-points (source of the Japanese name), and it is drought-tolerant.",
+      "habitat_hint": "Sunlit rock, stone, walls, concrete, exposed boulders.",
+      "finding_tips": "Present year-round; use a lens on rock to check the blackish-green cushions and the white hair-points at the leaf tips."
+    },
+    "zh": {
+      "summary": "ケギボウシゴケ（毛尖紫萼藓，Grimmia pilifera）。紫萼藓科藓类，于向阳岩石、石块、石墙及混凝土上形成黑绿色垫状群落，叶端延伸为白色毛尖（芒），耐旱。",
+      "habitat_hint": "向阳岩石、石块、石墙、混凝土、露岩。",
+      "finding_tips": "全年可见；用放大镜观察岩上黑绿色垫状群落及叶端白色毛尖。"
+    }
+  },
+  "Hypomecis roboraria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Great oak beauty",
+    "ja": {
+      "summary": "ハミスジエダシャク。シャクガ科エダシャク亜科の中〜大型の蛾で、雑木林や林縁、社寺林に生息する。灰褐色の翅に細かい波状の横線が入り、樹皮に止まると見分けにくい保護色。幼虫は「尺取り虫」で、コナラなどの葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜8月、夜に灯火に集まる灰褐色で波状の横線がある中〜大型の蛾を探します。樹皮に似た保護色が手がかり。"
+    },
+    "en": {
+      "summary": "Great oak beauty (Hypomecis roboraria). A medium to large geometrid moth (Geometridae) of secondary woodland, edges and shrine forest; the grey-brown wings have fine wavy cross-lines, camouflaging it on bark. The larva is an inchworm feeding on oak leaves. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to August look at night lights for the medium-to-large grey-brown moth with fine wavy cross-lines; the bark-like camouflage is the clue."
+    },
+    "zh": {
+      "summary": "ハミスジエダシャク（大栎尺蛾类，Hypomecis roboraria）。尺蛾科尺蛾亚科中至大型蛾，栖于杂木林、林缘与社寺林，翅灰褐色具细波状横线，停于树皮时具保护色，幼虫为尺蠖、取食栎叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 8 月夜间于灯下寻找灰褐色、具波状横线的中至大型蛾；似树皮的保护色为线索。"
+    }
+  },
+  "Kitagawia terebinthacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カワラボウフウ。セリ科の多年草で、河原や海岸近くの砂礫地、日当たりのよい草地、乾いた斜面に生える。細かく裂けた葉をつけ、夏〜秋に白い小花を複散形花序に多数つける。",
+      "habitat_hint": "河原、海岸近くの砂礫地、日当たりのよい草地、乾いた斜面。",
+      "finding_tips": "8〜10月、細かく裂けた葉と、白い小花の複散形花序を河原や草地で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Apiaceae) of riverbanks, coastal sand-gravel, sunny grassland and dry slopes; it has finely divided leaves and bears many small white flowers in compound umbels in late summer to autumn.",
+      "habitat_hint": "Riverbanks, coastal sand-gravel, sunny grassland, dry slopes.",
+      "finding_tips": "In August–October look on riverbanks and grassland for the finely divided leaves and the compound umbels of small white flowers."
+    },
+    "zh": {
+      "summary": "カワラボウフウ（河原防风类，Kitagawia terebinthacea）。伞形科多年生草本，生于河滩、近海砂砾地、向阳草地及干坡，叶细裂，夏末至秋复伞形花序密生白色小花。",
+      "habitat_hint": "河滩、近海砂砾地、向阳草地、干坡。",
+      "finding_tips": "8 至 10 月于河滩与草地寻找细裂叶及白色小花的复伞形花序。"
+    }
+  },
+  "Leptochilus shintenensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シンテンウラボシ。ウラボシ科の常緑性シダで、暖地の樹幹や苔むした岩、湿った石垣に着生する。分裂しない細長い単葉をつけ、葉裏に円形〜楕円形の胞子嚢群が並ぶ。暖地の湿った林内に多い。",
+      "habitat_hint": "暖地の湿った樹幹、苔むした岩、湿った石垣、渓谷沿いの日陰。",
+      "finding_tips": "一年中見られます。分裂しない細長い単葉と、葉裏に並ぶ円形〜楕円形の胞子嚢群を樹幹や岩で探します。"
+    },
+    "en": {
+      "summary": "An evergreen fern (Polypodiaceae) epiphytic on tree trunks, mossy rock and damp stone walls in warm regions; it has simple, undivided, elongated fronds with round to oval sori on the underside.",
+      "habitat_hint": "Damp tree trunks, mossy rock, damp stone walls, shaded ravines in warm regions.",
+      "finding_tips": "Present year-round; on trunks and rock look for the undivided elongated fronds and the round to oval sori beneath."
+    },
+    "zh": {
+      "summary": "シンテンウラボシ。水龙骨科常绿蕨类，附生于暖地树干、生苔岩石及湿润石墙，单叶不裂、狭长，叶背具圆形至椭圆形孢子囊群，多见于暖地湿润林内。",
+      "habitat_hint": "暖地湿润树干、生苔岩石、湿润石墙、溪谷荫处。",
+      "finding_tips": "全年可见；在树干与岩上寻找不裂的狭长单叶及叶背圆至椭圆形孢子囊群。"
+    }
+  },
+  "Lopharia cinerascens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クシノハシワタケ。ウロコタケの仲間の担子菌で、広葉樹の枯枝や倒木、切株に発生する木材腐朽菌（白色腐朽）。灰白色〜淡褐色の革質の子実体が枯れ木の表面に広がり、縁が反り返って傘状になることもある。",
+      "habitat_hint": "広葉樹の枯枝、倒木、切株の表面。",
+      "finding_tips": "一年中見られます。枯れ木の表面に広がる灰白色〜淡褐色の革質の子実体と、反り返る縁を探します。"
+    },
+    "en": {
+      "summary": "A crust fungus (Basidiomycota) on dead broadleaf branches, logs and stumps, causing white rot; the grey-white to pale-brown leathery fruitbody spreads over the surface of dead wood, its margin sometimes reflexed into a small bracket.",
+      "habitat_hint": "Surface of dead broadleaf branches, logs and stumps.",
+      "finding_tips": "Present year-round; look on dead wood for the grey-white to pale-brown leathery crust with a sometimes reflexed margin."
+    },
+    "zh": {
+      "summary": "クシノハシワタケ。革菌类担子菌，发生于阔叶枯枝、倒木与树桩，为白色腐朽菌，灰白至淡褐色革质子实体铺展枯木表面，边缘有时反卷成盖状。",
+      "habitat_hint": "阔叶枯枝、倒木、树桩表面。",
+      "finding_tips": "全年可见；在枯木表面寻找灰白至淡褐色革质子实体及有时反卷的边缘。"
+    }
+  },
+  "Lophatherum sinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "中华淡竹叶"
+    },
+    "ja": {
+      "summary": "トウササクサ。イネ科ササクサ属の多年草で、暖地の林縁や林下、道端のやや湿った半日陰に生える。笹に似た幅のある葉をつけ、まばらな円錐花序に小穂をつける。地下に紡錘状の根をもつ。",
+      "habitat_hint": "暖地の林縁、林下、道端のやや湿った半日陰、竹林の縁。",
+      "finding_tips": "8〜10月、笹に似た幅のある葉と、まばらな円錐花序の小穂を林下で探します。"
+    },
+    "en": {
+      "summary": "A perennial grass (Lophatherum, Poaceae) of warm-region woodland edges, understorey and damp roadside part-shade; it has broad bamboo-like leaves and bears spikelets in a sparse panicle, with spindle-shaped roots underground.",
+      "habitat_hint": "Warm-region woodland edges, understorey, damp roadside part-shade, bamboo-grove edges.",
+      "finding_tips": "In August–October look in woodland understorey for the broad bamboo-like leaves and the spikelets in a sparse panicle."
+    },
+    "zh": {
+      "summary": "トウササクサ（中华淡竹叶，Lophatherum sinense）。禾本科淡竹叶属多年生草本，生于暖地林缘、林下及路旁略湿半荫处，叶宽似竹，稀疏圆锥花序着生小穗，地下具纺锤状根。",
+      "habitat_hint": "暖地林缘、林下、路旁略湿半荫处、竹林缘。",
+      "finding_tips": "8 至 10 月于林下寻找宽似竹的叶及稀疏圆锥花序的小穗。"
+    }
+  },
+  "Lycoris albiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロバナマンジュシャゲ。ヒガンバナ科ヒガンバナ属の多年草で、ヒガンバナとショウキズイセンの雑種とされる。人里や道端、土手、林縁に植えられたものが野生化する。秋、葉のない花茎の先に、白〜クリーム色（淡黄・淡紅を帯びる）の反り返る花を数個つける。※有毒。",
+      "habitat_hint": "人里、道端、土手、田の畦、林縁。",
+      "finding_tips": "9〜10月、葉のない花茎の先に咲く白〜クリーム色の反り返る花を探します。ヒガンバナと同時期。有毒。"
+    },
+    "en": {
+      "summary": "White spider lily (Lycoris albiflora). A perennial (Amaryllidaceae), thought to be a hybrid of red and golden spider lilies; planted around habitation and naturalised on roadsides, banks and woodland edges. In autumn it opens a few white to cream (pale-yellow/pink-tinged) recurved flowers atop a leafless stalk. Poisonous.",
+      "habitat_hint": "Around habitation, roadsides, banks, paddy edges, woodland edges.",
+      "finding_tips": "In September–October look for the white to cream recurved flowers atop leafless stalks, flowering with the red spider lily. Poisonous."
+    },
+    "zh": {
+      "summary": "シロバナマンジュシャゲ（乳白石蒜，Lycoris albiflora）。石蒜科石蒜属多年生草本，被认为是石蒜与忽地笑的杂交种，栽于人居周边并野化于路旁、堤岸与林缘，秋季无叶花茎顶开数朵白至奶油色（带淡黄/淡红）反卷花。有毒。",
+      "habitat_hint": "人居周边、路旁、堤岸、田埂、林缘。",
+      "finding_tips": "9 至 10 月寻找无叶花茎顶端的白至奶油色反卷花，与石蒜同期。有毒。"
+    }
+  },
+  "Melanthera prostrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beach wedelia",
+    "ja": {
+      "summary": "ネコノシタ（ハマグルマ）。キク科ハマグルマ属の多年草で、海岸の砂地や砂丘、海に近い草地を這って広がる。ざらつく厚めの葉（触ると猫の舌のよう）が名の由来。夏〜秋、黄色い頭花を咲かせる。海岸性で塩分・乾燥に強い。",
+      "habitat_hint": "海岸の砂地、砂丘、海に近い草地、堤防の海際。",
+      "finding_tips": "7〜10月、砂地を這う茎と、ざらつく厚めの葉、黄色い頭花を海岸で探します。"
+    },
+    "en": {
+      "summary": "Beach wedelia (Melanthera prostrata). A perennial (Asteraceae) creeping over coastal sand, dunes and grassland near the sea; the rough, thickish leaves (like a cat's tongue to the touch) give the Japanese name, and in summer to autumn it opens yellow flowerheads, tolerant of salt and drought.",
+      "habitat_hint": "Coastal sand, dunes, grassland near the sea, sea edges of levees.",
+      "finding_tips": "In July–October look on coastal sand for the creeping stems, rough thickish leaves and yellow flowerheads."
+    },
+    "zh": {
+      "summary": "ネコノシタ（卤地菊，Melanthera prostrata）。菊科卤地菊属多年生草本，匍匐于海岸沙地、沙丘及近海草地，叶厚而粗糙（触之如猫舌），故和名，夏末至秋开黄色头状花，耐盐耐旱。",
+      "habitat_hint": "海岸沙地、沙丘、近海草地、堤防海际。",
+      "finding_tips": "7 至 10 月于海岸沙地寻找匍匐茎、粗糙厚叶及黄色头状花。"
+    }
+  },
+  "Mytilus unguiculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Korean mussel",
+    "ja": {
+      "summary": "イガイ（ニタリガイ）。イガイ科の大型の二枚貝で、外海に面した岩礁の潮間帯〜浅海に、足糸で岩に付着して密集してすむ。殻は厚く黒紫色で、やや湾曲した細長い形。ムール貝の仲間で、食用にされることもある。",
+      "habitat_hint": "外海に面した岩礁の潮間帯〜浅海、防波堤、岸壁。",
+      "finding_tips": "一年中、外海の岩礁や防波堤に密集して付着する黒紫色で厚い大型の二枚貝を探します。"
+    },
+    "en": {
+      "summary": "Korean mussel (Mytilus unguiculatus). A large mussel (Mytilidae) attaching by byssus to rock in the intertidal and shallow water of open, wave-exposed coasts, growing in dense clusters; the thick, blackish-purple shell is somewhat curved and elongate. Related to the edible blue mussel and also eaten.",
+      "habitat_hint": "Rocky intertidal to shallow water of open, wave-exposed coasts, breakwaters, sea walls.",
+      "finding_tips": "Year-round on open-coast rocks and breakwaters look for the thick, blackish-purple large mussels clustered densely."
+    },
+    "zh": {
+      "summary": "イガイ（厚壳贻贝，Mytilus unguiculatus）。贻贝科大型双壳类，以足丝密集附着于外海岩礁潮间带至浅海，壳厚、黑紫色、略弯而细长，为贻贝（青口）近缘，可供食用。",
+      "habitat_hint": "外海岩礁潮间带至浅海、防波堤、岸壁。",
+      "finding_tips": "全年于外海岩礁与防波堤寻找密集附着的黑紫色厚壳大型贻贝。"
+    }
+  },
+  "Nihon krameri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blue-eyed Mary",
+    "ja": {
+      "summary": "ルリソウ。ムラサキ科ルリソウ属の多年草で、山地の落葉樹林の林床や林縁、谷沿いの湿った半日陰に生える。春、瑠璃色（青紫色）の小さな花を総状につける。咲き始めは淡紅色を帯び、のちに瑠璃色になる。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、谷沿いの湿った半日陰。",
+      "finding_tips": "4〜5月、林床で瑠璃色（青紫色）の小花が総状につく姿を探します。咲き始めは淡紅色を帯びる。"
+    },
+    "en": {
+      "summary": "A perennial (Boraginaceae) of montane deciduous woodland floor, edges and damp valley part-shade; in spring it bears racemes of small azure (blue-purple) flowers, pink-tinged at first and turning azure.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, damp valley part-shade.",
+      "finding_tips": "In April–May look on the woodland floor for the racemes of small azure flowers; they are pink-tinged when first opening."
+    },
+    "zh": {
+      "summary": "ルリソウ（琉璃草类，Nihon krameri）。紫草科多年生草本，生于山地落叶林林床、林缘及谷地湿润半荫处，春季总状着生琉璃色（蓝紫色）小花，初开带淡红、后转琉璃色。",
+      "habitat_hint": "山地落叶林林床、林缘、谷地湿润半荫处。",
+      "finding_tips": "4 至 5 月于林床寻找总状排列的琉璃色（蓝紫色）小花；初开带淡红。"
+    }
+  },
+  "Nipponacmea concinna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Limpet",
+    "ja": {
+      "summary": "コウダカアオガイ。ユキノカサガイ科の小型の巻貝（笠形の貝）で、海岸の岩礁の潮間帯にすむ。アオガイに似るが殻の背が高い円錐形。岩に吸い付いて表面の藻類を削り取って食べる。",
+      "habitat_hint": "海岸の岩礁、潮間帯の岩の表面。",
+      "finding_tips": "一年中、岩礁の潮間帯で岩に吸い付く背の高い笠形の小さな貝を探します。アオガイより殻が高い点が手がかり。"
+    },
+    "en": {
+      "summary": "A small limpet (Lottiidae) of the intertidal zone of rocky coasts; like Nipponacmea schrenckii but with a taller conical cap-shaped shell. It clings to rock and grazes algae from the surface.",
+      "habitat_hint": "Rocky coasts, on rock surfaces in the intertidal zone.",
+      "finding_tips": "Year-round in the rocky intertidal look for the taller cap-shaped shell clinging to rock; the taller shell distinguishes it from the related limpet."
+    },
+    "zh": {
+      "summary": "コウダカアオガイ（高笠青螺类，Nipponacmea concinna）。莲花青螺科小型笠形贝，栖于海岸岩礁潮间带，似青贝而壳背更高、圆锥形，吸附岩面刮食表面藻类。",
+      "habitat_hint": "海岸岩礁、潮间带岩面。",
+      "finding_tips": "全年于岩礁潮间带寻找吸附岩面、背较高的笠形小贝；壳较青贝高为线索。"
+    }
+  },
+  "Ocypode stimpsoni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sand bubbler ghost crab",
+    "aliases": {
+      "zh-Hans": "斯氏沙蟹"
+    },
+    "ja": {
+      "summary": "スナガニ。スナガニ科の砂浜にすむカニで、海岸の砂浜の高潮帯に深い巣穴を掘って暮らす。体は砂の色に似た淡黄褐色で保護色。動きが非常に素早く、危険を感じると横っ飛びに走って巣穴に逃げ込む。夜行性の傾向が強い。",
+      "habitat_hint": "海岸の砂浜の高潮帯、砂丘の縁。",
+      "finding_tips": "初夏〜秋、砂浜で砂色の素早く走るカニと、砂浜に開いた深い巣穴を探します。近づくと横っ飛びに逃げる。"
+    },
+    "en": {
+      "summary": "A ghost crab (Ocypodidae) of sandy beaches, digging deep burrows in the upper-shore zone; its pale yellow-brown body matches the sand as camouflage. Extremely fast, it dashes sideways into its burrow when disturbed and is strongly nocturnal.",
+      "habitat_hint": "Upper zone of sandy beaches, dune edges.",
+      "finding_tips": "In early summer to autumn look on sandy beaches for the fast, sand-coloured crab and the deep burrow openings; it dashes sideways into the burrow as you approach."
+    },
+    "zh": {
+      "summary": "スナガニ（斯氏沙蟹，Ocypode stimpsoni）。沙蟹科栖于沙滩之蟹，于海岸沙滩高潮带掘深穴而居，体淡黄褐色似沙、具保护色，动作极快，受惊时横向疾奔入穴，强夜行性。",
+      "habitat_hint": "海岸沙滩高潮带、沙丘边缘。",
+      "finding_tips": "初夏至秋于沙滩寻找沙色疾走的蟹及沙面深穴口；靠近时横向疾奔入穴。"
+    }
+  },
+  "Ohwia caudata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Barbed-wire bush",
+    "aliases": {
+      "zh-Hans": "小槐花"
+    },
+    "ja": {
+      "summary": "ミソナオシ。マメ科ミソナオシ属（旧ヌスビトハギ属）の小低木で、暖地の林縁や道端、河原、明るい二次林に生える。3枚の細長い小葉をつけ、夏〜秋に淡緑白色〜淡紅色の小さな蝶形の花を穂状につける。果実は節ごとにくびれ、鉤状の毛で衣服にくっつく。",
+      "habitat_hint": "暖地の林縁、道端、河原、明るい二次林。",
+      "finding_tips": "8〜10月、3枚の細長い小葉と、淡緑白色〜淡紅色の小さな蝶形花の穂、節ごとにくびれて衣服につく果実を探します。"
+    },
+    "en": {
+      "summary": "Barbed-wire bush (Ohwia caudata, formerly Desmodium). A subshrub (Fabaceae) of warm-region woodland edges, roadsides, riverbanks and bright secondary forest; it has three narrow leaflets and bears spikes of small pale greenish-white to pinkish pea flowers in late summer to autumn, its jointed, hook-haired pods clinging to clothing.",
+      "habitat_hint": "Warm-region woodland edges, roadsides, riverbanks, bright secondary forest.",
+      "finding_tips": "In August–October look for the three narrow leaflets, the spikes of small pale flowers and the jointed, hooked pods that stick to clothes."
+    },
+    "zh": {
+      "summary": "ミソナオシ（小槐花，Ohwia caudata）。豆科小槐花属（旧山蚂蝗属）小灌木，生于暖地林缘、路旁、河滩与明亮次生林，具三枚狭长小叶，夏末至秋穗状着生淡绿白至淡红色蝶形小花，荚果逐节收缢、具钩毛易附衣物。",
+      "habitat_hint": "暖地林缘、路旁、河滩、明亮次生林。",
+      "finding_tips": "8 至 10 月寻找三枚狭长小叶、淡色蝶形小花穗及逐节收缢、具钩毛的荚果。"
+    }
+  },
+  "Pelekium versicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャボシノブゴケ。シノブゴケ科の小さな蘚類で、湿った林床の土や腐木、岩、樹の根元に、2〜3回羽状に細かく枝分かれしたシダのようなマットをつくる。シノブゴケの仲間で小型。",
+      "habitat_hint": "湿った林床の土、腐木、岩、樹幹の基部、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。2〜3回羽状に細かく枝分かれした、シダのように繊細な小さな緑のマットを探します。"
+    },
+    "en": {
+      "summary": "A small pleurocarpous moss (Thuidiaceae) forming fern-like mats, two to three times pinnately branched, on damp woodland soil, rotten wood, rock and tree bases; a small member of the fern-mosses.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, tree bases, shaded streamsides.",
+      "finding_tips": "Present year-round; look for the small, delicate, fern-like green mats branched two to three times pinnately."
+    },
+    "zh": {
+      "summary": "チャボシノブゴケ。羽藓科小型藓类，于湿润林床土壤、腐木、岩石及树基形成二至三回羽状细分枝、状如蕨的垫状群落，为小型羽藓。",
+      "habitat_hint": "湿润林床土壤、腐木、岩石、树基、溪流荫处。",
+      "finding_tips": "全年可见；寻找二至三回羽状细分枝、纤细如蕨的小型绿垫。"
+    }
+  },
+  "Persicaria praetermissa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバノウナギツカミ。タデ科イヌタデ属の一年草で、池沼の縁や湿地、水田、溝の縁に生える。細長い矛形の葉をつけ、茎に下向きの小さな刺があってざらつく（触れるとひっかかる）。夏〜秋、淡紅色の小さな花を頭状につける。",
+      "habitat_hint": "池沼の縁、湿地、水田、溝の縁、休耕田。",
+      "finding_tips": "8〜10月、細長い矛形の葉と、下向きの刺でざらつく茎、淡紅色の小さな頭状の花を水辺で探します。"
+    },
+    "en": {
+      "summary": "An annual smartweed (Persicaria, Polygonaceae) of pond margins, wetlands, paddy fields and ditch margins; it has narrow spear-shaped leaves and downward-pointing prickles that make the stem rough (catching as you touch it), with small pink flowers in heads in late summer to autumn.",
+      "habitat_hint": "Pond margins, wetlands, paddy fields, ditch margins, fallow wet fields.",
+      "finding_tips": "In August–October look at the waterside for the narrow spear-shaped leaves, the stem rough with downward prickles and the small pink flower-heads."
+    },
+    "zh": {
+      "summary": "ホソバノウナギツカミ。蓼科蓼属一年生草本，生于池沼边缘、湿地、水田及沟缘，叶狭长矛形，茎具下向小刺而粗糙（触之钩挂），夏末至秋头状着生淡红色小花。",
+      "habitat_hint": "池沼边缘、湿地、水田、沟缘、休耕田。",
+      "finding_tips": "8 至 10 月于水边寻找狭长矛形叶、具下向刺而粗糙的茎及淡红色头状小花。"
+    }
+  },
+  "Pleurotus djamor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トキイロヒラタケ。ヒラタケ科のキノコで、暖地の広葉樹の枯木や倒木、切株に群生する。傘は鴇色（ときいろ＝淡紅色〜サーモンピンク）で、扇形〜半円形。ヒラタケの仲間で、食用にもされる。",
+      "habitat_hint": "暖地の広葉樹の枯木、倒木、切株。梅雨〜秋。",
+      "finding_tips": "6〜10月、枯木に群生する鴇色（淡紅色〜サーモンピンク）の扇形の傘を探します。色が手がかり。"
+    },
+    "en": {
+      "summary": "Pink oyster mushroom (Pleurotus djamor). A fungus (Pleurotaceae) clustering on dead broadleaf wood, logs and stumps in warm regions; the fan- to semicircular cap is salmon-pink. An oyster-mushroom relative, it is also eaten.",
+      "habitat_hint": "Dead broadleaf wood, logs and stumps in warm regions; rainy season to autumn.",
+      "finding_tips": "In June–October look on dead wood for the clustered salmon-pink fan-shaped caps; the colour is the clue."
+    },
+    "zh": {
+      "summary": "トキイロヒラタケ（淡红侧耳，Pleurotus djamor）。侧耳科真菌，于暖地阔叶枯木、倒木与树桩丛生，菌盖朱鹮色（淡红至鲑肉粉）、扇至半圆形，为侧耳（平菇）近缘，可食。",
+      "habitat_hint": "暖地阔叶枯木、倒木、树桩；梅雨至秋。",
+      "finding_tips": "6 至 10 月于枯木上寻找丛生的鲑肉粉色扇形菌盖；颜色为线索。"
+    }
+  },
+  "Poecilus versicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "キンナガゴミムシ。オサムシ科の中型の地表性甲虫で、草地や畑、河原、道端の地表にすむ。上翅が金属光沢のある緑色〜銅色に輝くのが特徴。昼も活動し、地表を歩き回って小動物や昆虫を捕食する益虫。",
+      "habitat_hint": "草地、畑、河原、道端、田の畦の地表や石・落葉の下。",
+      "finding_tips": "4〜9月、日中も地表を歩く、上翅が金属緑色〜銅色に輝く中型の甲虫を探します。"
+    },
+    "en": {
+      "summary": "A medium-sized ground beetle (Carabidae) of grassland, fields, riverbanks and roadsides; the elytra shine metallic green to coppery. Active by day as well, it roams the ground preying on small animals and insects, a beneficial predator.",
+      "habitat_hint": "Grassland, fields, riverbanks, roadsides, paddy banks — on the ground or under stones and litter.",
+      "finding_tips": "From April to September look for the medium beetle with metallic green-to-coppery elytra walking the ground, active even by day."
+    },
+    "zh": {
+      "summary": "キンナガゴミムシ（青步甲类，Poecilus versicolor）。步甲科中型地栖甲虫，栖于草地、农田、河滩与路旁地表，鞘翅具金属光泽的绿至铜色，昼亦活动，于地面游走捕食小动物与昆虫，为益虫。",
+      "habitat_hint": "草地、农田、河滩、路旁、田埂地表或石与落叶下。",
+      "finding_tips": "4 至 9 月寻找白昼亦于地面游走、鞘翅金属绿至铜色的中型甲虫。"
+    }
+  },
+  "Prunus nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Takane cherry",
+    "ja": {
+      "summary": "ミネザクラ（タカネザクラ）。バラ科サクラ属の落葉小高木〜低木で、亜高山〜高山帯の林縁や岩場、尾根に生える。日本のサクラの中でも高い所に生える。春〜初夏、葉の展開とともに淡紅色〜白色の花を咲かせる。高山では低く這うように育つ。",
+      "habitat_hint": "亜高山〜高山帯の林縁、岩場、尾根、雪田の周縁。",
+      "finding_tips": "5〜7月、高山帯で葉とともに咲く淡紅色〜白色のサクラの花を探します。低木状に育つ点が手がかり。"
+    },
+    "en": {
+      "summary": "Takane cherry (Prunus nipponica). A deciduous small tree to shrub (Rosaceae) of subalpine to alpine woodland edges, rocky ground and ridges — the highest-growing of Japan's cherries. In spring to early summer it opens pale-pink to white flowers with the leaves, growing low and creeping high in the mountains.",
+      "habitat_hint": "Subalpine to alpine woodland edges, rocky ground, ridges, snow-patch margins.",
+      "finding_tips": "In May–July in the high mountains look for the pale-pink to white cherry flowers opening with the leaves; the low shrubby growth is the clue."
+    },
+    "zh": {
+      "summary": "ミネザクラ（高岭樱，Prunus nipponica）。蔷薇科李属落叶小乔木至灌木，生于亚高山至高山林缘、岩地与山脊，为日本樱中生长最高处者，春至初夏与叶同放淡红至白色花，高山中低矮匍匐生长。",
+      "habitat_hint": "亚高山至高山林缘、岩地、山脊、雪斑周缘。",
+      "finding_tips": "5 至 7 月于高山带寻找与叶同放的淡红至白色樱花；低矮灌木状为线索。"
+    }
+  },
+  "Ranunculus ashibetsuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water crowfoot",
+    "ja": {
+      "summary": "バイカモ（の一種）。キンポウゲ科キンポウゲ属の水生の多年草で、清流や湧水のある冷たい流水中に生える。細かく糸状に分かれた水中葉をつけ、初夏〜夏、水面に白い梅の花に似た5弁の花を咲かせる。きれいな水の指標にされる。",
+      "habitat_hint": "清流、湧水のある冷たい流水、用水路、湧水池。",
+      "finding_tips": "6〜8月、清流の水面に浮かぶ白い梅に似た5弁の花と、水中の糸状に分かれた葉を探します。きれいな水に育つ。"
+    },
+    "en": {
+      "summary": "A water crowfoot (Ranunculus, Ranunculaceae), an aquatic perennial of cold, clear running water fed by springs; it has finely thread-divided submerged leaves and opens white, plum-blossom-like five-petalled flowers at the water surface in early summer to summer. An indicator of clean water.",
+      "habitat_hint": "Clear streams, cold spring-fed running water, irrigation channels, spring pools.",
+      "finding_tips": "In June–August look at the surface of clear streams for the white plum-blossom-like five-petalled flowers and the thread-divided submerged leaves."
+    },
+    "zh": {
+      "summary": "バイカモ（梅花藻类，Ranunculus ashibetsuensis）。毛茛科毛茛属水生多年生草本，生于清流与涌泉的冷凉流水中，沉水叶细裂如丝，初夏至夏于水面开白色似梅的五瓣花，为洁净水质的指示植物。",
+      "habitat_hint": "清流、涌泉冷凉流水、灌溉渠、涌泉池。",
+      "finding_tips": "6 至 8 月于清流水面寻找白色似梅的五瓣花及水中细裂如丝的叶。"
+    }
   }
 }
