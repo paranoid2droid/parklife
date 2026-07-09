@@ -219091,5 +219091,434 @@
       "habitat_hint": "暖地照叶林林缘、谷地、灌丛、社寺林缘。",
       "finding_tips": "5 至 6 月寻找攀附他树的藤蔓、革质有光泽似红淡比的叶及淡黄白色小花；折茎流白色乳液。"
     }
+  },
+  "Angelica genuflexa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオバセンキュウ。セリ科シシウド属の大型の多年草で、山地の湿った草地や川岸、林縁、沢沿いに生える。大きな複散形花序に白い小花を多数つける。葉柄が節で折れ曲がる（genuflexa＝膝を曲げる）のが特徴。",
+      "habitat_hint": "山地の湿った草地、川岸、林縁、沢沿い。",
+      "finding_tips": "8〜9月、大きく傘状に広がる複散形花序と、節で折れ曲がる葉柄を湿った草地で探します。"
+    },
+    "en": {
+      "summary": "A large perennial angelica (Apiaceae) of damp montane meadows, riverbanks, woodland edges and streamsides, bearing many small white flowers in a large compound umbel; the leaf-stalk bends at the joints (genuflexa, \"knee-bending\").",
+      "habitat_hint": "Damp montane meadows, riverbanks, woodland edges, streamsides.",
+      "finding_tips": "In August–September look for the large umbrella-shaped compound umbels and the leaf-stalks bending at the joints."
+    },
+    "zh": {
+      "summary": "オオバセンキュウ。伞形科当归属大型多年生草本，生于山地湿润草地、河岸、林缘与沟谷，大型复伞形花序密生白色小花，叶柄于节处曲折（genuflexa，屈膝之意）为其特征。",
+      "habitat_hint": "山地湿润草地、河岸、林缘、沟谷。",
+      "finding_tips": "8 至 9 月于湿润草地寻找伞状展开的大型复伞形花序及节处曲折的叶柄。"
+    }
+  },
+  "Blasia pusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスバゼニゴケ。ウスバゼニゴケ科の葉状体の苔類で、湿った土の斜面や道の切り通し、河原の裸地に生える。半透明のリボン状〜へら状の葉状体をもち、体内にシアノバクテリア（ラン藻）を共生させる小さな黒い点があるのが特徴。無性芽で増える。",
+      "habitat_hint": "湿った土の斜面、道の切り通し、河原の裸地、休耕田の縁。",
+      "finding_tips": "一年中見られます。半透明のへら状の葉状体と、体内にラン藻を宿す小さな黒い点をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort (Blasiaceae) of damp soil slopes, road cuttings and bare riverbank ground; the translucent ribbon- to strap-shaped thallus bears small dark dots housing symbiotic cyanobacteria, and it spreads by gemmae.",
+      "habitat_hint": "Damp soil slopes, road cuttings, bare riverbank ground, paddy edges.",
+      "finding_tips": "Present year-round; use a lens to check the translucent strap-shaped thallus and the small dark dots that house cyanobacteria."
+    },
+    "zh": {
+      "summary": "ウスバゼニゴケ。叶苔科（Blasiaceae）叶状体苔类，生于湿润土坡、路堑及河滩裸地，半透明带状至匙状叶状体，体内具共生蓝藻的小黑点为其特征，以无性芽繁殖。",
+      "habitat_hint": "湿润土坡、路堑、河滩裸地、休耕田缘。",
+      "finding_tips": "全年可见；用放大镜观察半透明匙状叶状体及体内宿藏蓝藻的小黑点。"
+    }
+  },
+  "Brenthis ino": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lesser marbled fritillary",
+    "ja": {
+      "summary": "コヒョウモン。タテハチョウ科のヒョウ柄の中型のチョウで、山地・高原の湿った草原や林縁を飛ぶ。ヒョウモンチョウ（近縁種）に似るが、山地性で、翅の裏の斑紋でおおむね見分ける。幼虫はワレモコウやオニシモツケなどを食べる。",
+      "habitat_hint": "山地・高原の湿った草原、林縁、明るい草地。",
+      "finding_tips": "6〜8月、高原の湿った草原で、オレンジ地に黒斑のヒョウ柄の中型のチョウを探します。翅裏の斑紋が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Lesser marbled fritillary (Brenthis ino). A medium-sized leopard-patterned nymphalid of damp montane and highland grassland and woodland edges; similar to the related Brenthis daphne but a montane species, told mostly by the hindwing underside. Larvae feed on burnet and meadowsweet.",
+      "habitat_hint": "Damp montane and highland grassland, woodland edges, open meadows.",
+      "finding_tips": "In June–August look on damp highland grassland for the medium orange, black-spotted leopard-patterned butterfly; the hindwing underside is the clue."
+    },
+    "zh": {
+      "summary": "コヒョウモン（伊诺珍蛱蝶，Brenthis ino）。蛱蝶科中型豹纹蝶，飞行于山地与高原湿润草原及林缘，似近缘的豹蛱蝶而为山地种，多以后翅反面斑纹区别，幼虫取食地榆、蚊子草等。",
+      "habitat_hint": "山地与高原湿润草原、林缘、开阔草地。",
+      "finding_tips": "6 至 8 月于高原湿润草原寻找橙底黑斑的中型豹纹蝶；后翅反面斑纹为辨识线索。"
+    }
+  },
+  "Calamagrostis matsumurae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムツノガリヤス。イネ科ノガリヤス属の多年草で、山地〜亜高山帯の湿った草地や湿原の周縁、林縁に生える。細い茎を立て、まばらな円錐花序に芒のある小穂をつける。ノガリヤスの仲間。",
+      "habitat_hint": "山地〜亜高山帯の湿った草地、湿原の周縁、林縁。",
+      "finding_tips": "7〜9月、細い茎とまばらな円錐花序、芒のある小穂を湿った草地で探します。"
+    },
+    "en": {
+      "summary": "A reedgrass (Calamagrostis, Poaceae) of damp montane to subalpine grassland, bog margins and woodland edges; slender-stemmed, it bears awned spikelets in a sparse panicle.",
+      "habitat_hint": "Damp montane to subalpine grassland, bog margins, woodland edges.",
+      "finding_tips": "In July–September look in damp grassland for the slender stems and the awned spikelets in a sparse panicle."
+    },
+    "zh": {
+      "summary": "ムツノガリヤス。禾本科野青茅属多年生草本，生于山地至亚高山湿润草地、湿原周缘与林缘，茎细，稀疏圆锥花序着生具芒小穗。",
+      "habitat_hint": "山地至亚高山湿润草地、湿原周缘、林缘。",
+      "finding_tips": "7 至 9 月于湿润草地寻找细茎、稀疏圆锥花序及具芒小穗。"
+    }
+  },
+  "Canavalia lineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beach bean",
+    "aliases": {
+      "zh-Hans": "小刀豆"
+    },
+    "ja": {
+      "summary": "ハマナタマメ。マメ科ナタマメ属のつる性の多年草で、暖地の海岸の砂地や砂丘を這って広がる。3枚の厚い小葉をつけ、夏、淡紅紫色の大きな蝶形の花を咲かせる。刀のような形の大きな豆果（さや）をつける。海岸性で塩分・乾燥に強い。",
+      "habitat_hint": "暖地の海岸の砂地、砂丘、海に近い草地。",
+      "finding_tips": "7〜9月、砂地を這うつると、淡紅紫色の大きな蝶形花、刀のような大きな豆果を探します。"
+    },
+    "en": {
+      "summary": "Beach bean (Canavalia lineata). A trailing perennial vine (Fabaceae) creeping over coastal sand and dunes in warm regions; it has three thick leaflets, large pale rose-purple pea flowers in summer and large sword-shaped pods, tolerant of salt and drought.",
+      "habitat_hint": "Coastal sand, dunes, grassland near the sea in warm regions.",
+      "finding_tips": "In July–September look on coastal sand for the trailing vine, the large pale rose-purple pea flowers and the large sword-shaped pods."
+    },
+    "zh": {
+      "summary": "ハマナタマメ（小刀豆，Canavalia lineata）。豆科刀豆属蔓性多年生草本，匍匐于暖地海岸沙地与沙丘，具三枚厚小叶，夏开淡玫紫色大型蝶形花，结似刀的大型荚果，耐盐耐旱。",
+      "habitat_hint": "暖地海岸沙地、沙丘、近海草地。",
+      "finding_tips": "7 至 9 月于海岸沙地寻找匍匐藤蔓、淡玫紫色大型蝶形花及似刀的大型荚果。"
+    }
+  },
+  "Carex limosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bog sedge",
+    "aliases": {
+      "zh-Hans": "湿薹草"
+    },
+    "ja": {
+      "summary": "ヤチスゲ。カヤツリグサ科スゲ属の多年草で、高層湿原やミズゴケ湿地、貧栄養の湿地に生える。細い茎の先に、垂れ下がる褐色の雌小穂をつける。湿原を代表するスゲの一つ。",
+      "habitat_hint": "高層湿原、ミズゴケ湿地、貧栄養の湿地、池沼の縁。",
+      "finding_tips": "6〜7月、湿原で細い茎の先に垂れ下がる褐色の雌小穂を探します。"
+    },
+    "en": {
+      "summary": "Bog sedge (Carex limosa). A perennial sedge (Cyperaceae) of raised bogs, Sphagnum mires and nutrient-poor wetlands; slender stems hang drooping brown female spikes. One of the characteristic sedges of bogs.",
+      "habitat_hint": "Raised bogs, Sphagnum mires, nutrient-poor wetlands, pond margins.",
+      "finding_tips": "In June–July look in bogs for the drooping brown female spikes at the slender stem tips."
+    },
+    "zh": {
+      "summary": "ヤチスゲ（湿薹草，Carex limosa）。莎草科薹草属多年生草本，生于高位泥炭沼、泥炭藓沼泽及贫营养湿地，细茎顶端悬垂褐色雌小穗，为湿原代表薹草之一。",
+      "habitat_hint": "高位泥炭沼、泥炭藓沼泽、贫营养湿地、池沼边缘。",
+      "finding_tips": "6 至 7 月于湿原寻找细茎顶端悬垂的褐色雌小穗。"
+    }
+  },
+  "Chrysopa pallens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green lacewing",
+    "aliases": {
+      "zh-Hans": "大草蛉"
+    },
+    "ja": {
+      "summary": "ヨツボシクサカゲロウ。クサカゲロウ科の昆虫で、林縁や庭、草地、畑、灯火の周りにすむ。淡緑色の細い体と、透明で網目状の翅をもつ。頭部に4つの黒い斑がある。成虫・幼虫ともにアブラムシなどを捕食する益虫。夜行性で灯火に集まる。",
+      "habitat_hint": "林縁、庭、草地、畑、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる淡緑色で網目状の透明な翅をもつ昆虫を探します。頭部の4つの黒斑が手がかり。"
+    },
+    "en": {
+      "summary": "A green lacewing (Chrysopa pallens, Chrysopidae) of woodland edges, gardens, grassland, fields and around lights; it has a slender pale-green body, clear net-veined wings and four dark spots on the head. Both adults and larvae prey on aphids, a beneficial insect. Nocturnal, it comes to lights.",
+      "habitat_hint": "Woodland edges, gardens, grassland, fields, around lights.",
+      "finding_tips": "From May to September look at night lights for the pale-green insect with clear net-veined wings; the four dark head spots are the clue."
+    },
+    "zh": {
+      "summary": "ヨツボシクサカゲロウ（大草蛉，Chrysopa pallens）。草蛉科昆虫，栖于林缘、庭园、草地、农田及灯火周边，体细淡绿、翅透明网状，头部具四枚黑斑，成虫与幼虫皆捕食蚜虫，为益虫，夜行性、趋光。",
+      "habitat_hint": "林缘、庭园、草地、农田、灯火周边。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找体淡绿、翅透明网状的昆虫；头部四黑斑为线索。"
+    }
+  },
+  "Cicindela transbaicalica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コニワハンミョウ。ハンミョウ科の小さな地表性甲虫で、河原や海岸の砂地、乾いた裸地、道端にすむ。金属光沢のある暗色の体に淡色の紋が入る。日中、地表を素早く走り回り、大きなあごで小さな昆虫を捕らえる肉食性の甲虫。",
+      "habitat_hint": "河原、海岸の砂地、乾いた裸地、道端、造成地。",
+      "finding_tips": "4〜9月、日中に砂地や裸地を素早く走る金属光沢のある小さな甲虫を探します。近づくと飛んで少し先に逃げる。"
+    },
+    "en": {
+      "summary": "A small tiger beetle (Cicindelidae) of riverbanks, coastal sand, dry bare ground and roadsides; the metallic dark body carries pale markings. By day it runs quickly over the ground, seizing small insects with large jaws — a predatory beetle.",
+      "habitat_hint": "Riverbanks, coastal sand, dry bare ground, roadsides, made ground.",
+      "finding_tips": "From April to September look by day on sand and bare ground for the fast-running small metallic beetle; it flies a short way ahead as you approach."
+    },
+    "zh": {
+      "summary": "コニワハンミョウ（外贝加尔虎甲，Cicindela transbaicalica）。虎甲科小型地栖甲虫，栖于河滩、海岸沙地、干燥裸地与路旁，体暗色具金属光泽、缀淡色斑，白昼于地面迅速奔跑、以大颚捕食小昆虫。",
+      "habitat_hint": "河滩、海岸沙地、干燥裸地、路旁、造地。",
+      "finding_tips": "4 至 9 月白昼于沙地与裸地寻找迅速奔跑、具金属光泽的小型甲虫；靠近时飞往前方少许。"
+    }
+  },
+  "Claopodium aciculum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハリゴケ。シノブゴケ科の小さな蘚類で、湿った岩や土、樹の根元、石垣に生える。葉の先が針のように細く尖るのが名の由来。羽状に枝分かれした小さなマットをつくる。",
+      "habitat_hint": "湿った岩、土、樹幹の基部、石垣、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。針のように細く尖る葉先と、羽状に枝分かれした小さなマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small pleurocarpous moss (Thuidiaceae) of damp rock, soil, tree bases and stone walls; named for its needle-fine pointed leaf tips, forming small pinnately branched mats.",
+      "habitat_hint": "Damp rock, soil, tree bases, stone walls, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the needle-fine leaf tips and the small pinnately branched mats."
+    },
+    "zh": {
+      "summary": "ハリゴケ。羽藓科小型藓类，生于湿岩、土面、树基及石墙，叶端针状细尖，故名，形成羽状分枝的小型垫。",
+      "habitat_hint": "湿岩、土面、树基、石墙、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察针状细尖的叶端及羽状分枝的小型垫。"
+    }
+  },
+  "Coenobita rugosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land hermit crab",
+    "aliases": {
+      "zh-Hans": "皱纹陆寄居蟹"
+    },
+    "ja": {
+      "summary": "ナキオカヤドカリ。オカヤドカリ科の陸生のヤドカリで、暖地（南西諸島など）の海岸の砂浜や海岸林、岩場にすむ。巻貝の殻を借りて背負い、夜間に活動して落葉や動物の死骸などを食べる。体を殻にこすりつけて音を立てることから「鳴き」の名がある。日本では天然記念物。",
+      "habitat_hint": "暖地（南西諸島など）の海岸の砂浜、海岸林、岩場、後浜。",
+      "finding_tips": "夜間、暖地の海岸で巻貝の殻を背負って歩くヤドカリを探します。日本では天然記念物なので採集しない。"
+    },
+    "en": {
+      "summary": "Land hermit crab (Coenobita rugosus). A terrestrial hermit crab (Coenobitidae) of warm-region (e.g. the Ryukyus) sandy beaches, coastal woods and rocky shores; it carries a borrowed snail shell and forages at night for leaf litter and carrion. It can make a rasping sound (source of the Japanese name) and is a protected natural monument in Japan.",
+      "habitat_hint": "Sandy beaches, coastal woods, rocky shores and backshore in warm regions (e.g. the Ryukyus).",
+      "finding_tips": "At night on warm-region coasts look for the hermit crab walking with a borrowed snail shell; do not collect it — it is a protected natural monument in Japan."
+    },
+    "zh": {
+      "summary": "ナキオカヤドカリ（皱纹陆寄居蟹，Coenobita rugosus）。陆寄居蟹科陆生寄居蟹，栖于暖地（如琉球群岛）海岸沙滩、海岸林与岩滩，背负所借螺壳，夜间活动、取食落叶与动物尸体，能以身擦壳发声（和名由来），在日本为天然纪念物。",
+      "habitat_hint": "暖地（如琉球群岛）海岸沙滩、海岸林、岩滩、后滨。",
+      "finding_tips": "夜间于暖地海岸寻找背负螺壳行走的寄居蟹；在日本为天然纪念物，勿采集。"
+    }
+  },
+  "Corydalis speciosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾキケマン。ケシ科キケマン属の越年草で、山地の林縁や道端、崩壊地、河原の日当たりのよい場所に生える。細かく裂けた粉白色を帯びた葉をつけ、春〜初夏、黄色い筒状の花を総状に多数咲かせる。※全草有毒。",
+      "habitat_hint": "山地の林縁、道端、崩壊地、河原の日当たりのよい場所。",
+      "finding_tips": "4〜6月、細かく裂けた粉白色の葉と、黄色い筒状の花が総状に並ぶ姿を探します。全草有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "A biennial corydalis (Corydalis speciosa, Papaveraceae) of montane woodland edges, roadsides, landslips and sunny riverbanks; it has finely divided glaucous leaves and bears many yellow tubular flowers in racemes in spring to early summer. The whole plant is poisonous.",
+      "habitat_hint": "Montane woodland edges, roadsides, landslips, sunny riverbanks.",
+      "finding_tips": "In April–June look for the finely divided glaucous leaves and the racemes of yellow tubular flowers; the whole plant is toxic, so do not eat it."
+    },
+    "zh": {
+      "summary": "エゾキケマン（珠果黄堇类，Corydalis speciosa）。罂粟科紫堇属二年生草本，生于山地林缘、路旁、崩塌地及向阳河滩，叶细裂被粉白，春至初夏总状密生黄色筒状花。全株有毒。",
+      "habitat_hint": "山地林缘、路旁、崩塌地、向阳河滩。",
+      "finding_tips": "4 至 6 月寻找细裂被粉白的叶及总状排列的黄色筒状花；全株有毒，勿食。"
+    }
+  },
+  "Cyperus pacificus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロガヤツリ。カヤツリグサ科カヤツリグサ属の一年草で、水田や湿地、溝の縁、湿った空き地に生える。放射状に広がる枝の先に、白っぽい小穂を球状に集めてつけるのが特徴。",
+      "habitat_hint": "水田、湿地、溝の縁、湿った空き地、休耕田。",
+      "finding_tips": "8〜10月、放射状に広がる枝の先に球状に集まる白っぽい小穂を水辺で探します。"
+    },
+    "en": {
+      "summary": "White flatsedge (Cyperus pacificus). An annual sedge (Cyperaceae) of paddy fields, wetlands, ditch margins and damp waste ground; distinctively it gathers whitish spikelets into globular clusters at the tips of radiating rays.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, damp waste ground, fallow wet fields.",
+      "finding_tips": "In August–October look at the waterside for the whitish spikelets clustered into balls at the tips of the radiating rays."
+    },
+    "zh": {
+      "summary": "シロガヤツリ（白莎草类，Cyperus pacificus）。莎草科莎草属一年生草本，生于水田、湿地、沟缘及湿润空地，放射状分枝顶端聚生白色小穗成球状为其特征。",
+      "habitat_hint": "水田、湿地、沟缘、湿润空地、休耕田。",
+      "finding_tips": "8 至 10 月于水边寻找放射状分枝顶端球状聚生的白色小穗。"
+    }
+  },
+  "Dactylorhiza aristata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Keyflower marsh orchid",
+    "ja": {
+      "summary": "ハクサンチドリ。ラン科ハクサンチドリ属の地生ランで、山地〜亜高山帯の湿った草地や湿原、明るい林縁に生える。初夏、紅紫色の花を穂状に多数つける。花が千鳥（鳥）が飛ぶ姿に見えることが名の由来。葉に黒い斑が入ることがある。",
+      "habitat_hint": "山地〜亜高山帯の湿った草地、湿原、明るい林縁、雪田の周縁。",
+      "finding_tips": "6〜7月、湿った草地で紅紫色の花が穂状に多数つく姿を探します。葉の黒い斑も手がかり。"
+    },
+    "en": {
+      "summary": "A marsh orchid (Dactylorhiza aristata, Orchidaceae) of damp montane to subalpine grassland, bogs and bright woodland edges; in early summer it bears many rose-purple flowers in a spike, the flowers likened to flying plovers. The leaves are sometimes dark-spotted.",
+      "habitat_hint": "Damp montane to subalpine grassland, bogs, bright woodland edges, snow-patch margins.",
+      "finding_tips": "In June–July look in damp grassland for the spike of many rose-purple flowers; the dark-spotted leaves are another clue."
+    },
+    "zh": {
+      "summary": "ハクサンチドリ（芒尖掌裂兰，Dactylorhiza aristata）。兰科掌裂兰属地生兰，生于山地至亚高山湿润草甸、湿原及明亮林缘，初夏穗状密生玫紫色花，花似群鸟飞舞，叶有时具黑斑。",
+      "habitat_hint": "山地至亚高山湿润草甸、湿原、明亮林缘、雪斑周缘。",
+      "finding_tips": "6 至 7 月于湿润草甸寻找穗状密生的玫紫色花；叶上黑斑亦为线索。"
+    }
+  },
+  "Dichocarpum nipponicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アズマシロカネソウ。キンポウゲ科シロカネソウ属の小さな多年草で、山地の谷沿いや渓流沿いの湿った林床、水のしみ出す岩際に生える。早春、白い花（花弁のように見えるのは萼）を咲かせる。果実が2つに分かれて開く（袋果が対）のが特徴。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、水のしみ出す岩際、湿った日陰。",
+      "finding_tips": "3〜5月、湿った林床や岩際で、白い小花（花弁状の萼）と、2つに分かれて開く果実を探します。"
+    },
+    "en": {
+      "summary": "A small perennial (Dichocarpum nipponicum, Ranunculaceae) of montane valleys, damp streamside woodland floor and seepage-wet rock; in early spring it opens white flowers (the petal-like parts are sepals), with paired follicular fruits that split open.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, seepage-wet rock, damp shade.",
+      "finding_tips": "In March–May look on damp woodland floor and wet rock for the small white flowers (petal-like sepals) and the paired splitting fruits."
+    },
+    "zh": {
+      "summary": "アズマシロカネソウ。毛茛科人字果属小型多年生草本，生于山地谷地、溪流沿岸湿润林床及渗水岩际，早春开白花（似花瓣者为萼片），果实成对开裂（蓇葖果）为其特征。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、渗水岩际、湿润荫处。",
+      "finding_tips": "3 至 5 月于湿润林床与湿岩寻找白色小花（似花瓣的萼）及成对开裂的果实。"
+    }
+  },
+  "Drosera spatulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spoonleaf sundew",
+    "aliases": {
+      "zh-Hans": "匙叶茅膏菜"
+    },
+    "ja": {
+      "summary": "コモウセンゴケ。モウセンゴケ科の小さな食虫植物で、日当たりのよい湿地や貧栄養の湿った砂地、湿原に生える。へら形の葉をロゼット状につけ、葉の表面に赤い腺毛が並び、粘液で小さな虫を捕らえて消化・吸収する。夏、淡紅色の小さな花を立てる。",
+      "habitat_hint": "日当たりのよい湿地、貧栄養の湿った砂地、湿原、湿った裸地。",
+      "finding_tips": "6〜8月、湿地でへら形の葉に赤い腺毛が並ぶロゼットを探します。腺毛の先の粘液で虫を捕らえる点が手がかり。"
+    },
+    "en": {
+      "summary": "Spoonleaf sundew (Drosera spatulata). A small carnivorous plant (Droseraceae) of sunny wetlands, nutrient-poor damp sand and bogs; it forms rosettes of spoon-shaped leaves lined with red glandular hairs, catching small insects on their sticky mucilage to digest and absorb them, and raises small pink flowers in summer.",
+      "habitat_hint": "Sunny wetlands, nutrient-poor damp sand, bogs, damp bare ground.",
+      "finding_tips": "In June–August look in wetlands for the rosette of spoon-shaped leaves lined with red glandular hairs; the sticky hair-tips that trap insects are the clue."
+    },
+    "zh": {
+      "summary": "コモウセンゴケ（匙叶茅膏菜，Drosera spatulata）。茅膏菜科小型食虫植物，生于向阳湿地、贫营养湿沙地及湿原，匙形叶呈莲座状、叶面列生红色腺毛，以黏液捕捉小虫并消化吸收，夏季抽出淡红色小花。",
+      "habitat_hint": "向阳湿地、贫营养湿沙地、湿原、湿润裸地。",
+      "finding_tips": "6 至 8 月于湿地寻找匙形叶列生红色腺毛的莲座；腺毛端黏液捕虫为线索。"
+    }
+  },
+  "Ehretia acuminata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Koda tree",
+    "aliases": {
+      "zh-Hans": "厚壳树"
+    },
+    "ja": {
+      "summary": "チシャノキ。ムラサキ科（旧チシャノキ科）チシャノキ属の落葉高木で、暖地の山地の林縁や谷沿い、河岸に生える。初夏、白い小花を円錐状に多数つけ、甘い香りを放つ。秋に黄橙色の小さな果実をつける。若葉が食用のチシャ（レタス）に似ることが名の由来とされる。",
+      "habitat_hint": "暖地の山地の林縁、谷沿い、河岸、社寺林。",
+      "finding_tips": "6〜7月、白い小花の円錐花序（甘い香り）を探します。秋の黄橙色の小さな果実も手がかり。"
+    },
+    "en": {
+      "summary": "Koda tree (Ehretia acuminata). A deciduous tree (Boraginaceae) of warm-region montane woodland edges, valleys and riverbanks; in early summer it bears many small white flowers in panicles with a sweet scent, followed by small yellow-orange fruit in autumn.",
+      "habitat_hint": "Warm-region montane woodland edges, valleys, riverbanks, shrine forest.",
+      "finding_tips": "In June–July look for the sweet-scented panicles of small white flowers; the small yellow-orange autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "チシャノキ（厚壳树，Ehretia acuminata）。紫草科（旧厚壳树科）厚壳树属落叶乔木，生于暖地山地林缘、谷地与河岸，初夏圆锥状密生白色小花、气味芳甜，秋结黄橙色小果。",
+      "habitat_hint": "暖地山地林缘、谷地、河岸、社寺林。",
+      "finding_tips": "6 至 7 月寻找芳甜的白色小花圆锥花序；秋季黄橙色小果亦为线索。"
+    }
+  },
+  "Gastrodia pubilabiata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロヤツシロラン。ラン科オニノヤガラ属の菌従属栄養（腐生）のラン。葉緑素を持たず、地中の菌類から養分を得て暮らす。暖地の竹林や照葉樹林の林床の落葉の間に生え、秋、地際に暗褐色の目立たない小さな花を咲かせる。花のあと果実の時期に花茎が急に伸びる。",
+      "habitat_hint": "暖地の竹林、照葉樹林の林床、落葉の積もった腐植質の地上。",
+      "finding_tips": "9〜10月、竹林や林床の落葉の間で、地際につく暗褐色の目立たない小さな花を探します。落葉に紛れて見つけにくい。"
+    },
+    "en": {
+      "summary": "A mycoheterotrophic (saprophytic) orchid (Gastrodia pubilabiata, Orchidaceae) that lacks chlorophyll and lives on fungi in the soil; on warm-region bamboo-grove and evergreen-forest floor among leaf litter, it opens inconspicuous small dark-brown flowers at ground level in autumn, the stalk elongating suddenly as the fruit develops.",
+      "habitat_hint": "Warm-region bamboo groves, evergreen-forest floor, humus-rich ground under leaf litter.",
+      "finding_tips": "In September–October look among leaf litter in bamboo groves and forest floor for the inconspicuous small dark-brown flowers at ground level; they hide among the litter."
+    },
+    "zh": {
+      "summary": "クロヤツシロラン（冬赤箭类，Gastrodia pubilabiata）。兰科天麻属菌异养（腐生）兰，无叶绿素，靠地下真菌获取养分，生于暖地竹林与照叶林林床落叶间，秋季于近地面开暗褐色不显小花，花后果期花茎骤然伸长。",
+      "habitat_hint": "暖地竹林、照叶林林床、落叶覆盖的富腐殖质地面。",
+      "finding_tips": "9 至 10 月于竹林与林床落叶间寻找近地面暗褐色不显的小花；混于落叶间不易发现。"
+    }
+  },
+  "Gelidium elegans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tengusa",
+    "aliases": {
+      "zh-Hans": "石花菜"
+    },
+    "ja": {
+      "summary": "マクサ（テングサ）。テングサ科の紅藻で、岩礁の潮間帯下部〜漸深帯に生える。細かく羽状に枝分かれした赤紫色〜暗赤色の海藻。煮溶かして固めると寒天やところてんになる、食用として重要な海藻。",
+      "habitat_hint": "岩礁の潮間帯下部〜漸深帯、澄んだ海の岩場。",
+      "finding_tips": "春〜夏、岩礁で細かく羽状に枝分かれした赤紫色〜暗赤色の海藻を探します。乾かして寒天の原料になる。"
+    },
+    "en": {
+      "summary": "Tengusa (Gelidium elegans). A red seaweed (Gelidiaceae) of the lower intertidal into the subtidal on rocky reefs; a finely pinnately branched, red-purple to dark-red alga. Boiled down and set, it makes agar and the jelly \"tokoroten\" — an important edible seaweed.",
+      "habitat_hint": "Lower intertidal to subtidal rocky reefs, clear-water rocky shores.",
+      "finding_tips": "In spring to summer look on rocky reefs for the finely pinnately branched red-purple to dark-red seaweed; dried, it is the raw material for agar."
+    },
+    "zh": {
+      "summary": "マクサ（石花菜，Gelidium elegans）。石花菜科红藻，生于岩礁潮间带下部至潮下带，藻体细羽状分枝、紫红至暗红色，煮化凝固可制琼脂与凉粉（心太），为重要食用海藻。",
+      "habitat_hint": "岩礁潮间带下部至潮下带、清澈海域岩滩。",
+      "finding_tips": "春至夏于岩礁寻找细羽状分枝的紫红至暗红色海藻；晒干为琼脂原料。"
+    }
+  },
+  "Gemmabryum exile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソウリゴケ。ハリガネゴケ科の小さな蘚類で、道端や石垣、コンクリート、屋根、庭の地面など人為的な場所によく生える普通種。緑〜黄緑色の小さなマットをつくり、葉腋に無性芽をつけて増える。都市でも身近なコケ。",
+      "habitat_hint": "道端、石垣、コンクリート、屋根、庭の地面、鉢の縁。",
+      "finding_tips": "一年中見られます。道端やコンクリートに広がる緑〜黄緑色の小さなマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small moss (Bryaceae) common in man-made places such as roadsides, stone walls, concrete, roofs and garden ground; it forms small green to yellow-green mats and spreads by gemmae in the leaf axils. A familiar urban moss.",
+      "habitat_hint": "Roadsides, stone walls, concrete, roofs, garden ground, pot rims.",
+      "finding_tips": "Present year-round; use a lens to check the small green to yellow-green mats spreading over roadsides and concrete."
+    },
+    "zh": {
+      "summary": "ホソウリゴケ。真藓科小型藓类，常见于路旁、石墙、混凝土、屋顶及庭园地面等人为环境，形成绿至黄绿色小垫，叶腋生无性芽以繁殖，为城市常见苔藓。",
+      "habitat_hint": "路旁、石墙、混凝土、屋顶、庭园地面、花盆边缘。",
+      "finding_tips": "全年可见；用放大镜观察路旁与混凝土上铺展的绿至黄绿色小垫。"
+    }
   }
 }
