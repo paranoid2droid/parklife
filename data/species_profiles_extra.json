@@ -221278,5 +221278,451 @@
       "habitat_hint": "夏秋阔叶林（尤壳斗科）地面、公园树下。",
       "finding_tips": "7 至 10 月于林床寻找黄褐至红褐色、表面龟裂成田块状的大型菌盖及粗柄。"
     }
+  },
+  "Russula violeipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケショウハツ。ベニタケ科ベニタケ属のキノコで、夏〜秋に広葉樹林や針葉樹林の地上に発生する。傘は黄色〜赤紫色が混じり、化粧をしたような色合い（名の由来）。柄は白地に紫紅色を帯びる。ひだは白〜クリーム色。カニのような匂いがすることがある。",
+      "habitat_hint": "夏〜秋の広葉樹林・針葉樹林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、林床で黄色〜赤紫色の混じる傘と、白地に紫紅色を帯びる柄をもつキノコを探します。"
+    },
+    "en": {
+      "summary": "Velvet brittlegill (Russula violeipes). A fungus (Russulaceae) fruiting on the ground in broadleaf and conifer woodland in summer to autumn; the cap mixes yellow and red-purple as if made up (source of the Japanese name), and the white stem is flushed violet-red, with white to cream gills. It can smell of crab.",
+      "habitat_hint": "Ground of broadleaf and conifer woodland, park tree bases; summer to autumn.",
+      "finding_tips": "In July–October look on the woodland floor for the cap mixing yellow and red-purple and the white stem flushed violet-red."
+    },
+    "zh": {
+      "summary": "ケショウハツ（紫柄红菇，Russula violeipes）。红菇科红菇属真菌，夏秋发生于阔叶林与针叶林地上，菌盖黄色与红紫相杂、色如上妆（和名由来），柄白底带紫红，菌褶白至奶油色，或有蟹味。",
+      "habitat_hint": "夏秋阔叶林与针叶林地面、公园树下。",
+      "finding_tips": "7 至 10 月于林床寻找黄与红紫相杂的菌盖及白底带紫红的柄。"
+    }
+  },
+  "Sagittaria aginashi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アギナシ。オモダカ科オモダカ属の多年草で、水田や湿地、池沼の縁、溝など浅い水辺に生える。矢じり形の葉を水面に立て、夏〜秋、白い3弁の花を茎に輪生状に段々につける。オモダカに似るが、葉のつけ根に小さなむかご（珠芽）を多数つくる点で区別する。",
+      "habitat_hint": "水田、湿地、池沼の縁、溝、浅い水辺。",
+      "finding_tips": "8〜10月、矢じり形の葉と、白い3弁の花が段々に輪生する花序を水辺で探します。株元の多数のむかごが手がかり。"
+    },
+    "en": {
+      "summary": "An arrowhead (Sagittaria aginashi, Alismataceae) of paddy fields, wetlands, pond margins and ditches in shallow water; it raises arrow-shaped leaves and, in summer to autumn, bears white three-petalled flowers in whorls up the stem. Like the common arrowhead but distinguished by many small bulbils at the leaf bases.",
+      "habitat_hint": "Paddy fields, wetlands, pond margins, ditches, shallow water margins.",
+      "finding_tips": "In August–October look for the arrow-shaped leaves and the whorls of white three-petalled flowers up the stem; the many small bulbils at the base are the clue."
+    },
+    "zh": {
+      "summary": "アギナシ。泽泻科慈姑属多年生草本，生于水田、湿地、池沼边缘及沟渠等浅水，箭形叶立于水面，夏末至秋于茎上轮生状分层着生白色三瓣花，似慈姑而以叶基多生小珠芽区别。",
+      "habitat_hint": "水田、湿地、池沼边缘、沟渠、浅水边。",
+      "finding_tips": "8 至 10 月于水边寻找箭形叶及茎上分层轮生的白色三瓣花；株基多数珠芽为线索。"
+    }
+  },
+  "Sambucus kamtschatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamchatka elder",
+    "ja": {
+      "summary": "エゾニワトコ。レンプクソウ科（旧スイカズラ科）ニワトコ属の落葉低木〜小高木で、北日本の山地の林縁や谷沿い、河岸に生える。奇数羽状複葉をつけ、初夏、白い小花を円錐状に多数つけ、夏〜秋に赤い小さな果実を房状につける。ニワトコの仲間で北方系。",
+      "habitat_hint": "北日本の山地の林縁、谷沿い、河岸、やや湿った斜面。",
+      "finding_tips": "5〜6月、白い小花の円錐花序を探します。夏〜秋に房状につく赤い小さな果実も手がかり。"
+    },
+    "en": {
+      "summary": "Kamchatka elder (Sambucus kamtschatica). A deciduous shrub to small tree (Adoxaceae, formerly Caprifoliaceae) of montane woodland edges, valleys and riverbanks in northern Japan; it has odd-pinnate leaves, many small white flowers in panicles in early summer and clusters of small red fruit in summer to autumn. A northern elder.",
+      "habitat_hint": "Montane woodland edges, valleys, riverbanks, damp slopes in northern Japan.",
+      "finding_tips": "In May–June look for the panicles of small white flowers; the clusters of small red summer-to-autumn fruit are another clue."
+    },
+    "zh": {
+      "summary": "エゾニワトコ（堪察加接骨木，Sambucus kamtschatica）。五福花科（旧忍冬科）接骨木属落叶灌木至小乔木，生于北日本山地林缘、谷地与河岸，具奇数羽状复叶，初夏圆锥状密生白色小花，夏末至秋结成簇红色小果，为接骨木类之北方种。",
+      "habitat_hint": "北日本山地林缘、谷地、河岸、略湿坡地。",
+      "finding_tips": "5 至 6 月寻找白色小花的圆锥花序；夏秋成簇的红色小果亦为线索。"
+    }
+  },
+  "Sasaella hidaensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤギザサ。イネ科アズマザサ属の常緑の小型のササで、山地の林床や林縁、道端の斜面に群生する。背が低く、地下茎で広がって低い笹原をつくる。冬も枯れない常緑の葉をつける。",
+      "habitat_hint": "山地の林床、林縁、道端の斜面、雑木林。",
+      "finding_tips": "一年中見られます。背の低い常緑の葉と、地下茎で密に群生する低い笹原を観察します。"
+    },
+    "en": {
+      "summary": "A small evergreen dwarf bamboo (Sasaella, Poaceae) forming low colonies on montane woodland floor, edges and roadside slopes; short-statured, it spreads by rhizomes into low swards and keeps its evergreen leaves through winter.",
+      "habitat_hint": "Montane woodland floor, edges, roadside slopes, secondary woodland.",
+      "finding_tips": "Present year-round; note the low evergreen leaves and the dense low sward spread by rhizomes."
+    },
+    "zh": {
+      "summary": "ミヤギザサ。禾本科东笹属常绿小型矮竹，成丛生于山地林床、林缘及路旁坡地，株矮，借地下茎蔓延成低矮竹丛，冬季不枯、叶常绿。",
+      "habitat_hint": "山地林床、林缘、路旁坡地、杂木林。",
+      "finding_tips": "全年可见；观察低矮常绿叶片及借地下茎密集蔓延的低竹丛。"
+    }
+  },
+  "Sciadopitys verticillata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese umbrella pine",
+    "aliases": {
+      "zh-Hans": "金松"
+    },
+    "ja": {
+      "summary": "コウヤマキ。コウヤマキ科の常緑針葉樹（高木）で、日本固有の一属一種。山地の尾根や斜面、岩場に生えるほか、社寺や庭にも植えられる。線形の葉が枝先に車輪（傘）状に輪生してつくのが特徴。木曽五木の一つで、材は水に強く、桶や風呂などに使われる。世界三大庭園樹の一つとも言われる。",
+      "habitat_hint": "山地の尾根、斜面、岩場、社寺・庭の植栽。",
+      "finding_tips": "一年中見られます。線形の葉が枝先に車輪（傘）状に輪生してつく独特の姿を探します。日本固有の針葉樹。"
+    },
+    "en": {
+      "summary": "Japanese umbrella pine (Sciadopitys verticillata). An evergreen coniferous tree, the sole species of its family (Sciadopityaceae) and endemic to Japan; it grows on montane ridges, slopes and rocky ground and is also planted at shrines and gardens. Its linear leaves are borne in wheel- (umbrella-) like whorls at the branch tips. One of the \"five trees of Kiso,\" its water-resistant wood is used for tubs and baths.",
+      "habitat_hint": "Montane ridges, slopes, rocky ground; planted at shrines and gardens.",
+      "finding_tips": "Present year-round; look for the distinctive wheel- (umbrella-) like whorls of linear leaves at the branch tips; a Japanese endemic conifer."
+    },
+    "zh": {
+      "summary": "コウヤマキ（金松／日本金松，Sciadopitys verticillata）。金松科常绿针叶乔木，为日本特有的一科一属一种，生于山地山脊、坡地与岩地，亦植于社寺与庭园，线形叶于枝端轮生如车轮（伞），故名，为「木曾五木」之一，材耐水、用于木桶与浴具。",
+      "habitat_hint": "山地山脊、坡地、岩地；社寺与庭园栽培。",
+      "finding_tips": "全年可见；寻找线形叶于枝端轮生如车轮（伞）的独特姿态；为日本特有针叶树。"
+    }
+  },
+  "Sciuro-hypnum populeum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオギヌゴケ。アオギヌゴケ科の蘚類で、湿った岩や土、樹の根元、石垣、腐木に光沢のある緑のマットをつくる。都市の公園や庭でもよく見られる普通のコケ。羽状に枝分かれする。",
+      "habitat_hint": "湿った岩、土、樹幹の基部、石垣、腐木。人里に多い。",
+      "finding_tips": "一年中見られます。光沢のある緑の羽状のマットを、湿った岩や樹の根元でルーペで確認します。"
+    },
+    "en": {
+      "summary": "Matted feather-moss (Sciuro-hypnum populeum). A pleurocarpous moss (Brachytheciaceae) forming glossy green mats on damp rock, soil, tree bases, stone walls and rotten wood; a common moss in parks and gardens, pinnately branched.",
+      "habitat_hint": "Damp rock, soil, tree bases, stone walls, rotten wood — common near habitation.",
+      "finding_tips": "Present year-round; use a lens on damp rock and tree bases to check the glossy green feathery mats."
+    },
+    "zh": {
+      "summary": "アオギヌゴケ。青藓科藓类，于湿岩、土面、树基、石墙及腐木形成有光泽的绿垫，城市公园与庭园中常见，羽状分枝。",
+      "habitat_hint": "湿岩、土面、树基、石墙、腐木；人居环境常见。",
+      "finding_tips": "全年可见；用放大镜在湿岩与树基上观察有光泽的绿色羽状垫。"
+    }
+  },
+  "Solanum maximowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マルバノホロシ。ナス科ナス属のつる性の多年草で、暖地の海岸近くの林縁や谷沿い、藪に生える。他の植物に絡んで伸び、夏、淡紫色の小さな星形の花を咲かせ、秋〜冬に赤い小さな球形の果実をつける。ヒヨドリジョウゴやホロシの仲間。※有毒。",
+      "habitat_hint": "暖地の海岸近くの林縁、谷沿い、藪、社寺林の縁。",
+      "finding_tips": "8〜9月、他の植物に絡むつると、淡紫色の星形の小花、赤い小さな球形の果実を探します。有毒。"
+    },
+    "en": {
+      "summary": "A climbing nightshade (Solanum maximowiczii, Solanaceae) of warm-region coastal woodland edges, valleys and thickets; it twines over other plants, opens small pale-purple star-shaped flowers in summer and bears small round red fruit in autumn to winter. A relative of bittersweet nightshade. Poisonous.",
+      "habitat_hint": "Warm-region coastal woodland edges, valleys, thickets, shrine-forest margins.",
+      "finding_tips": "In August–September look for the twining vine, the small pale-purple star-shaped flowers and the small round red fruit. Poisonous."
+    },
+    "zh": {
+      "summary": "マルバノホロシ。茄科茄属蔓性多年生草本，生于暖地近海林缘、谷地与灌丛，缠绕他物，夏开淡紫色星形小花，秋冬结红色小球形果，为白英类近缘。有毒。",
+      "habitat_hint": "暖地近海林缘、谷地、灌丛、社寺林缘。",
+      "finding_tips": "8 至 9 月寻找缠绕他物的藤蔓、淡紫色星形小花及红色小球形果。有毒。"
+    }
+  },
+  "Spiraea chamaedryfolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アイズシモツケ。バラ科シモツケ属の落葉低木で、山地の岩場や崖、林縁、明るい斜面に生える。初夏、白い小さな花を半球状の散房花序に多数つけ、枝を覆うように咲く。葉の縁に鋸歯があり、ニレの葉に似る。",
+      "habitat_hint": "山地の岩場、崖、林縁、明るい斜面、石灰岩地。",
+      "finding_tips": "5〜6月、枝を覆うように咲く白い小さな花の半球状の散房花序を岩場や林縁で探します。"
+    },
+    "en": {
+      "summary": "Elm-leaf spiraea (Spiraea chamaedryfolia). A deciduous shrub (Rosaceae) of montane rocky ground, cliffs, woodland edges and open slopes; in early summer it bears many small white flowers in hemispherical corymbs covering the branches, its toothed leaves recalling elm.",
+      "habitat_hint": "Montane rocky ground, cliffs, woodland edges, open slopes, limestone ground.",
+      "finding_tips": "In May–June look on rocks and woodland edges for the hemispherical corymbs of small white flowers covering the branches."
+    },
+    "zh": {
+      "summary": "アイズシモツケ（石蚕叶绣线菊，Spiraea chamaedryfolia）。蔷薇科绣线菊属落叶灌木，生于山地岩地、崖壁、林缘与开阔坡地，初夏半球状伞房花序密生白色小花、覆盖枝条，叶缘具锯齿、似榆叶。",
+      "habitat_hint": "山地岩地、崖壁、林缘、开阔坡地、石灰岩地。",
+      "finding_tips": "5 至 6 月于岩地与林缘寻找覆盖枝条的白色小花半球状伞房花序。"
+    }
+  },
+  "Stellaria radians": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾオオヤマハコベ。ナデシコ科ハコベ属の多年草で、北日本の山地の湿った林縁や谷沿い、川岸に生える。大きめの葉を対生し、夏、白い花を咲かせる。花弁が深く多数に裂けて放射状（radians＝放射する）に見えるのが特徴。",
+      "habitat_hint": "北日本の山地の湿った林縁、谷沿い、川岸、やや湿った草地。",
+      "finding_tips": "6〜8月、白い花で、花弁が深く多数に裂けて放射状に見える点を探します。大きめの対生葉が手がかり。"
+    },
+    "en": {
+      "summary": "A perennial stitchwort (Stellaria radians, Caryophyllaceae) of damp montane woodland edges, valleys and riverbanks in northern Japan; it has fairly large opposite leaves and, in summer, white flowers whose petals are deeply divided into many radiating lobes (radians).",
+      "habitat_hint": "Damp montane woodland edges, valleys, riverbanks, damp grassland in northern Japan.",
+      "finding_tips": "In June–August look for the white flowers whose petals split deeply into many radiating lobes; the fairly large opposite leaves are the clue."
+    },
+    "zh": {
+      "summary": "エゾオオヤマハコベ（辐射繁缕，Stellaria radians）。石竹科繁缕属多年生草本，生于北日本山地湿润林缘、谷地与河岸，叶较大对生，夏开白花，花瓣深裂为多数裂片、呈放射状（radians），故名。",
+      "habitat_hint": "北日本山地湿润林缘、谷地、河岸、略湿草地。",
+      "finding_tips": "6 至 8 月寻找花瓣深裂为多数放射状裂片的白花；较大的对生叶为线索。"
+    }
+  },
+  "Sympetrum depressiusculum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spotted darter",
+    "ja": {
+      "summary": "タイリクアキアカネ。トンボ科アカネ属のトンボで、水田や湿地、池沼、その周辺の草地に生息する。アキアカネに似た赤とんぼの仲間で、成熟したオスは赤みを帯びる。腹部がやや扁平（depressiusculum＝やや平たい）なのが特徴。夏〜秋に見られる。",
+      "habitat_hint": "水田、湿地、池沼、その周辺の草地。",
+      "finding_tips": "7〜10月、水田や湿地の周辺で、アキアカネに似た赤とんぼを探します。やや平たい腹部が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Spotted darter (Sympetrum depressiusculum). A dragonfly (Libellulidae) of paddy fields, wetlands, ponds and surrounding grassland; one of the red darters like the autumn darter, the mature male reddening, distinguished by its somewhat flattened abdomen (depressiusculum). Seen in summer to autumn.",
+      "habitat_hint": "Paddy fields, wetlands, ponds, surrounding grassland.",
+      "finding_tips": "In July–October look around paddies and wetlands for the red darter; the somewhat flattened abdomen is the clue."
+    },
+    "zh": {
+      "summary": "タイリクアキアカネ（大陆秋赤蜻，Sympetrum depressiusculum）。蜻科赤蜻属蜻蜓，栖于水田、湿地、池沼及周边草地，为似秋赤蜻的红蜻类，成熟雄虫带红，腹部略扁（depressiusculum）为其特征，夏秋可见。",
+      "habitat_hint": "水田、湿地、池沼、周边草地。",
+      "finding_tips": "7 至 10 月于水田与湿地周边寻找似秋赤蜻的红蜻；腹部略扁为辨识线索。"
+    }
+  },
+  "Symplocos myrtacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハイノキ。ハイノキ科ハイノキ属の常緑小高木で、暖地の照葉樹林に生える。細い枝に細長い革質の葉をつけ、初夏、白い小花を多数咲かせ、秋に藍黒色の小さな果実をつける。材を焼いた灰を染色の媒染剤（灰）に用いたことが名の由来とされる。",
+      "habitat_hint": "暖地の照葉樹林、社寺林、谷沿いの林。",
+      "finding_tips": "5〜6月、白い小花を多数咲かせる姿を探します。細長い革質の葉と、秋の藍黒色の小さな果実も手がかり。"
+    },
+    "en": {
+      "summary": "An evergreen small tree (Symplocos myrtacea, Symplocaceae) of warm-region evergreen forest; slender branches bear narrow leathery leaves, and it opens many small white flowers in early summer and small blue-black fruit in autumn. Its wood-ash was reportedly used as a dye mordant (ash), giving the Japanese name.",
+      "habitat_hint": "Warm-region evergreen forest, shrine forest, valley woodland.",
+      "finding_tips": "In May–June look for the many small white flowers; the narrow leathery leaves and small blue-black autumn fruit are other clues."
+    },
+    "zh": {
+      "summary": "ハイノキ（灰木类，Symplocos myrtacea）。山矾科山矾属常绿小乔木，生于暖地照叶林，细枝生狭长革质叶，初夏多开白色小花，秋结蓝黑色小果，其木灰旧作染色媒染剂（灰），据传为和名由来。",
+      "habitat_hint": "暖地照叶林、社寺林、谷地林。",
+      "finding_tips": "5 至 6 月寻找多开白色小花之姿；狭长革质叶与秋季蓝黑色小果亦为线索。"
+    }
+  },
+  "Timoclea micra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Venus clam",
+    "ja": {
+      "summary": "ヒメカノコアサリ。マルスダレガイ科の小型の二枚貝で、内湾や外海に面した砂泥質の潮間帯〜浅海の底に潜ってすむ。殻は小さく、放射状の肋（すじ）と成長線が交わって布目状の彫刻をつくる。白色〜淡褐色で、褐色の斑紋（鹿の子模様）が入ることがある。",
+      "habitat_hint": "内湾・外海の砂泥質の潮間帯〜浅海の底。",
+      "finding_tips": "一年中、砂泥質の干潟や浅海の砂を掘ると出てくる、放射肋と成長線が布目状に交わる小さな二枚貝を探します。"
+    },
+    "en": {
+      "summary": "A small venus clam (Veneridae) burrowing in the sandy-mud bottom of the intertidal to shallow subtidal in sheltered bays and open coasts; the small shell has radial ribs crossing growth lines in a cloth-like sculpture, white to pale brown, sometimes with brown (dappled) markings.",
+      "habitat_hint": "Sandy-mud intertidal to shallow subtidal bottom of sheltered bays and open coasts.",
+      "finding_tips": "Year-round dig sandy-mud flats and shallow sand for the small clam with radial ribs crossing growth lines in a cloth-like pattern."
+    },
+    "zh": {
+      "summary": "ヒメカノコアサリ（小帘蛤类，Timoclea micra）。帘蛤科小型双壳类，潜于内湾与外海砂泥质潮间带至浅海底，壳小、放射肋与生长线交织成布纹状雕刻，白至淡褐色、有时具褐色（鹿斑）斑纹。",
+      "habitat_hint": "内湾与外海砂泥质潮间带至浅海底。",
+      "finding_tips": "全年于砂泥滩涂与浅海沙中挖掘寻找放射肋与生长线交织成布纹的小型双壳贝。"
+    }
+  },
+  "Trematodon longicollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-necked moss",
+    "ja": {
+      "summary": "ユミダイゴケ。シッポゴケ科の小さな蘚類で、道端や畑、造成地、火事の跡、土の裸地などに一時的に群生する先駆的なコケ。胞子体の蒴（さく）の下に長い首状の部分があり、その名（弓のようにそる）や英名（長い首）の由来になっている。",
+      "habitat_hint": "道端、畑、造成地、火事の跡、土の裸地、湿った崩壊地。",
+      "finding_tips": "一年中（特に湿った時期）、土の裸地で、蒴の下に長い首状の部分がある胞子体を、緑の小さな群落とともにルーペで探します。"
+    },
+    "en": {
+      "summary": "Long-necked moss (Trematodon longicollis). A small moss (Bruchiaceae) that colonises roadsides, fields, made ground, burnt sites and bare soil temporarily as a pioneer; the sporophyte capsule has a long neck-like base below it, source of both the Japanese (bow-curved) and English (long-necked) names.",
+      "habitat_hint": "Roadsides, fields, made ground, burnt sites, bare soil, damp landslips.",
+      "finding_tips": "Year-round (especially in damp periods) use a lens on bare soil to find the sporophyte with a long neck-like base below the capsule, with small green turfs."
+    },
+    "zh": {
+      "summary": "ユミダイゴケ（长颈藓，Trematodon longicollis）。小烛藓科小型藓类，作先锋种暂时性成丛生于路旁、农田、造地、火烧迹地及裸土，孢子体蒴下具长颈状部分，为和名（如弓弯曲）与英名（长颈）之由来。",
+      "habitat_hint": "路旁、农田、造地、火烧迹地、裸土、湿润崩塌地。",
+      "finding_tips": "全年（尤湿润期）用放大镜在裸土上寻找蒴下具长颈状部分的孢子体及绿色小丛。"
+    }
+  },
+  "Tripterygium wilfordii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "雷公藤"
+    },
+    "ja": {
+      "summary": "クロヅル。ニシキギ科クロヅル属の落葉つる性木本で、山地の林縁や谷沿い、崩壊地、藪に生える。他の木に絡んで伸び、夏、白い小花を円錐状に多数つける。果実は3枚の翼をもち、風で散布される。※全草に毒があり、薬用にもされるが取り扱い注意。",
+      "habitat_hint": "山地の林縁、谷沿い、崩壊地、藪、明るい斜面。",
+      "finding_tips": "7〜8月、他の木に絡むつると、白い小花の円錐花序、3枚の翼のある果実を探します。有毒。"
+    },
+    "en": {
+      "summary": "Thunder god vine (Tripterygium wilfordii). A deciduous woody climber (Celastraceae) of montane woodland edges, valleys, landslips and thickets; it twines over other trees and bears many small white flowers in panicles in summer, its three-winged fruit dispersed by wind. The whole plant is toxic (also used medicinally, with care).",
+      "habitat_hint": "Montane woodland edges, valleys, landslips, thickets, open slopes.",
+      "finding_tips": "In July–August look for the twining vine, the panicles of small white flowers and the three-winged fruit. Toxic."
+    },
+    "zh": {
+      "summary": "クロヅル（雷公藤，Tripterygium wilfordii）。卫矛科雷公藤属落叶木质藤本，生于山地林缘、谷地、崩塌地与灌丛，缠绕他树，夏季圆锥状密生白色小花，果具三翅、随风散布。全株有毒（亦入药，须慎用）。",
+      "habitat_hint": "山地林缘、谷地、崩塌地、灌丛、开阔坡地。",
+      "finding_tips": "7 至 8 月寻找缠绕他树的藤蔓、白色小花圆锥花序及具三翅的果实。有毒。"
+    }
+  },
+  "Vaccinium vitis-idaea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lingonberry",
+    "aliases": {
+      "zh-Hans": "越橘"
+    },
+    "ja": {
+      "summary": "コケモモ。ツツジ科スノキ属の常緑の小低木で、亜高山〜高山帯の岩場や尾根、明るい針葉樹林の林床、湿原の周縁に生える。地を這うように育ち、小さな革質の葉をつける。初夏、鐘形の白〜淡紅色の花を咲かせ、秋に赤い小さな果実をつける。果実は酸味があり食べられる（ジャムなどに）。",
+      "habitat_hint": "亜高山〜高山帯の岩場、尾根、明るい針葉樹林の林床、湿原の周縁。",
+      "finding_tips": "6〜7月、地を這う常緑の小さな葉と鐘形の白〜淡紅色の花を探します。秋の赤い小さな食べられる果実も手がかり。"
+    },
+    "en": {
+      "summary": "Lingonberry / cowberry (Vaccinium vitis-idaea). An evergreen dwarf shrub (Ericaceae) of subalpine to alpine rocky ground, ridges, bright conifer-forest floor and bog margins; it creeps over the ground with small leathery leaves, opens bell-shaped white to pink flowers in early summer and bears small red fruit in autumn. The tart fruit is edible (e.g. as jam).",
+      "habitat_hint": "Subalpine to alpine rocky ground, ridges, bright conifer-forest floor, bog margins.",
+      "finding_tips": "In June–July look for the ground-creeping small evergreen leaves and the bell-shaped white to pink flowers; the small red edible autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "コケモモ（越橘，Vaccinium vitis-idaea）。杜鹃花科越橘属常绿矮灌木，生于亚高山至高山岩地、山脊、明亮针叶林林床及湿原周缘，匍匐生长、叶小革质，初夏开钟形白至淡红色花，秋结红色小果，果酸可食（如制果酱）。",
+      "habitat_hint": "亚高山至高山岩地、山脊、明亮针叶林林床、湿原周缘。",
+      "finding_tips": "6 至 7 月寻找匍匐的常绿小叶及钟形白至淡红色花；秋季红色可食小果亦为线索。"
+    }
+  },
+  "Verbascum blattaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モウズイカ。ヨーロッパ〜アジア原産のゴマノハグサ科モウズイカ属の越年草で、道端や河川敷、荒れ地、造成地に帰化する。ロゼットから花茎を高く立て、黄色（時に白色）の5弁の花を穂状にまばらにつける。雄しべに紫色の毛があるのが特徴。",
+      "habitat_hint": "道端、河川敷、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "6〜8月、高く立つ花茎に黄色（時に白）の5弁花がまばらにつく姿を探します。雄しべの紫色の毛が手がかり。"
+    },
+    "en": {
+      "summary": "Moth mullein (Verbascum blattaria). A Eurasian biennial (Scrophulariaceae) naturalised on roadsides, riverbanks, waste and made ground; from a rosette it raises a tall flower-stalk with yellow (sometimes white) five-petalled flowers set sparsely in a spike, the stamens bearing purple hairs.",
+      "habitat_hint": "Roadsides, riverbanks, waste and made ground in sunny places.",
+      "finding_tips": "In June–August look for the tall flower-stalk with sparse yellow (or white) five-petalled flowers; the purple-haired stamens are the clue."
+    },
+    "zh": {
+      "summary": "モウズイカ（毛瓣毛蕊花，Verbascum blattaria）。原产欧亚的玄参科毛蕊花属二年生草本，归化于路旁、河滩、荒地与造地，由莲座抽高花茎，穗状疏生黄（有时白）色五瓣花，雄蕊具紫色毛为其特征。",
+      "habitat_hint": "路旁、河滩、荒地、造地向阳处。",
+      "finding_tips": "6 至 8 月寻找高花茎上疏生的黄（或白）色五瓣花；雄蕊紫色毛为线索。"
+    }
+  },
+  "Zanthoxylum armatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フユザンショウ。ミカン科サンショウ属の半常緑〜常緑の低木で、暖地の林縁や谷沿い、崖、明るい二次林に生える。葉軸に翼（ひれ）があり、鋭い刺をもつ。葉をもむとサンショウのような芳香がある。冬も葉が残ることが名の由来。果実は香辛料に使われる。",
+      "habitat_hint": "暖地の林縁、谷沿い、崖、明るい二次林。",
+      "finding_tips": "一年中見られます。葉軸に翼のある葉と鋭い刺、もむとサンショウの芳香がある点を探します。冬も葉が残る。"
+    },
+    "en": {
+      "summary": "Winged prickly-ash (Zanthoxylum armatum). A semi-evergreen to evergreen shrub (Rutaceae) of warm-region woodland edges, valleys, cliffs and bright secondary forest; the leaf rachis is winged and it bears sharp prickles, the leaves smelling of sansho pepper when crushed. Named for its persistent winter leaves; the fruit is used as a spice.",
+      "habitat_hint": "Warm-region woodland edges, valleys, cliffs, bright secondary forest.",
+      "finding_tips": "Present year-round; look for the winged leaf rachis, sharp prickles and the sansho-pepper scent of crushed leaves; the leaves persist in winter."
+    },
+    "zh": {
+      "summary": "フユザンショウ（竹叶花椒，Zanthoxylum armatum）。芸香科花椒属半常绿至常绿灌木，生于暖地林缘、谷地、崖壁与明亮次生林，叶轴具翅、具锐刺，叶揉之有花椒香，冬季叶存故名，果作香料。",
+      "habitat_hint": "暖地林缘、谷地、崖壁、明亮次生林。",
+      "finding_tips": "全年可见；寻找叶轴具翅的叶、锐刺及揉之有花椒香；冬季叶不落。"
+    }
+  },
+  "Aquilegia oxysepala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Columbine",
+    "aliases": {
+      "zh-Hans": "尖萼耧斗菜"
+    },
+    "ja": {
+      "summary": "オオヤマオダマキ（ヤマオダマキの一型）。キンポウゲ科オダマキ属の多年草で、山地の林縁や草地、やや湿った斜面に生える。夏、下向きに咲く花に、後方へ突き出る距（きょ）があるのが特徴。花は褐紫色〜黄白色。細かく裂けた葉をつける。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、沢沿い。",
+      "finding_tips": "6〜8月、下向きに咲き、後方に距が突き出る花を探します。細かく裂けた葉が手がかり。"
+    },
+    "en": {
+      "summary": "A columbine (Aquilegia oxysepala, Ranunculaceae) of montane woodland edges, grassland and damp slopes; in summer it opens nodding flowers with backward-projecting spurs, brownish-purple to yellow-white in colour, with finely divided leaves.",
+      "habitat_hint": "Montane woodland edges, grassland, damp slopes, streamsides.",
+      "finding_tips": "In June–August look for the nodding flowers with backward-projecting spurs; the finely divided leaves are the clue."
+    },
+    "zh": {
+      "summary": "オオヤマオダマキ（尖萼耧斗菜，Aquilegia oxysepala）。毛茛科耧斗菜属多年生草本，生于山地林缘、草地及略湿坡地，夏季下垂开花、花后具向后突出的距，花褐紫至黄白色，叶细裂。",
+      "habitat_hint": "山地林缘、草地、略湿坡地、沟谷。",
+      "finding_tips": "6 至 8 月寻找下垂开放、花后具向后突出距的花；细裂叶为线索。"
+    }
+  },
+  "Arctium lappa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greater burdock",
+    "aliases": {
+      "zh-Hans": "牛蒡"
+    },
+    "ja": {
+      "summary": "ゴボウ。ユーラシア原産のキク科ゴボウ属の越年草〜多年草で、野菜（根を食用）として広く栽培され、道端や河川敷、空き地に野生化する。大きな葉をつけ、夏〜秋、紅紫色の頭花を咲かせる。総苞に鉤（かぎ）状の刺があり、果実（総苞ごと）が衣服や動物にくっつく（ひっつき虫）。",
+      "habitat_hint": "道端、河川敷、空き地、畑の周辺、造成地。",
+      "finding_tips": "7〜9月、大きな葉と、鉤状の刺のある総苞に包まれた紅紫色の頭花を探します。刺の球（総苞）が衣服につく。"
+    },
+    "en": {
+      "summary": "Greater burdock (Arctium lappa). A Eurasian biennial to perennial (Asteraceae) widely grown as a vegetable (the root is eaten) and naturalised on roadsides, riverbanks and vacant lots; it has large leaves and rose-purple flowerheads in summer to autumn, the hook-spined involucres (burrs) clinging to clothing and animals.",
+      "habitat_hint": "Roadsides, riverbanks, vacant lots, around fields, made ground.",
+      "finding_tips": "In July–September look for the large leaves and the rose-purple flowerheads wrapped in hook-spined involucres; the burrs stick to clothes."
+    },
+    "zh": {
+      "summary": "ゴボウ（牛蒡，Arctium lappa）。原产欧亚的菊科牛蒡属二年生至多年生草本，广作蔬菜（食根）栽培并野化于路旁、河滩与空地，叶大，夏末至秋开红紫色头状花，总苞具钩刺、果（连总苞）易附衣物与动物。",
+      "habitat_hint": "路旁、河滩、空地、田地周边、造地。",
+      "finding_tips": "7 至 9 月寻找宽大的叶及被钩刺总苞包裹的红紫色头状花；带刺的总苞球易附衣物。"
+    }
+  },
+  "Asellus hilgendorfii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "希氏栉水虱"
+    },
+    "ja": {
+      "summary": "ミズムシ（甲殻類）。ミズムシ科の小型の淡水性の等脚類（ダンゴムシ・フナムシの仲間）で、池沼や河川の緩流部、用水路、湧水などの水底の落葉や石の間にすむ。体は扁平で灰褐色、多数の脚をもつ。水中の落葉やデトリタスを食べる。水質のやや良い水域に多い。※虫の「ミズムシ」とは別。",
+      "habitat_hint": "池沼、河川の緩流部、用水路、湧水の水底の落葉・石の間。",
+      "finding_tips": "一年中、水底の落葉や石をすくって、体が扁平で灰褐色の小さな等脚類（ダンゴムシに似た甲殻類）を探します。"
+    },
+    "en": {
+      "summary": "A freshwater isopod (Asellidae), a small crustacean (a relative of woodlice and sea slaters) living among fallen leaves and stones on the bottom of ponds, slow river reaches, channels and springs; the flattened grey-brown body has many legs, and it eats submerged leaf litter and detritus, commoner in fairly clean water.",
+      "habitat_hint": "Bottom leaf litter and stones of ponds, slow river reaches, channels, springs.",
+      "finding_tips": "Year-round scoop bottom leaf litter and stones to find the small flattened grey-brown isopod (a woodlouse-like crustacean)."
+    },
+    "zh": {
+      "summary": "ミズムシ（希氏栉水虱，Asellus hilgendorfii）。栉水虱科小型淡水等足类甲壳动物（潮虫、海蟑螂之近缘），栖于池沼、河流缓流处、灌溉渠及涌泉水底落叶与石间，体扁平、灰褐色、多足，取食水中落叶与碎屑，多见于水质较好水域。",
+      "habitat_hint": "池沼、河流缓流处、灌溉渠、涌泉水底落叶与石间。",
+      "finding_tips": "全年捞取水底落叶与石块寻找体扁平、灰褐色的小型等足类（似潮虫的甲壳动物）。"
+    }
   }
 }
