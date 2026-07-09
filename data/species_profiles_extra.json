@@ -217403,5 +217403,410 @@
       "habitat_hint": "夏秋林缘、路旁、公园地面、树基。",
       "finding_tips": "7 至 10 月于地面寻找皮硬、表面具细鳞斑的球形菌；有毒，不可食。"
     }
+  },
+  "Scolopocryptops rubiginosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セスジアカムカデ。オオムカデの仲間の大型のムカデで、湿った林床の落葉の下や倒木、石の下にすむ。赤褐色の体に、背中の中央を走る筋（せすじ）がある。肉食で、小さな昆虫やミミズなどを捕食する。咬まれると痛むので素手で触らない。",
+      "habitat_hint": "湿った林床の落葉の下、倒木・石の下、庭や畑の物陰。",
+      "finding_tips": "一年中、湿った林で落葉や倒木、石をめくり、赤褐色で背に筋のある大型のムカデを探します。素手で触らない。"
+    },
+    "en": {
+      "summary": "A large centipede (Scolopocryptopidae) living under leaf litter, logs and stones on damp woodland floor; the red-brown body has a stripe running down the middle of the back. Carnivorous, it preys on small insects and earthworms. Its bite is painful, so do not handle it bare-handed.",
+      "habitat_hint": "Under leaf litter, logs and stones on damp woodland floor; shaded spots in gardens and fields.",
+      "finding_tips": "Year-round in damp woodland turn litter, logs and stones to find the large red-brown centipede with a dorsal stripe; do not handle bare-handed."
+    },
+    "zh": {
+      "summary": "セスジアカムカデ（锈红棘盲蜈蚣，Scolopocryptops rubiginosus）。蜈蚣类大型多足动物，栖于湿润林床落叶下、倒木与石下，体红褐色、背中央具纵纹，肉食性，捕食小昆虫与蚯蚓，咬之疼痛，勿徒手触碰。",
+      "habitat_hint": "湿润林床落叶下、倒木与石下、庭园与农田物荫处。",
+      "finding_tips": "全年于湿润林中翻开落叶、倒木与石块寻找红褐色、背具纵纹的大型蜈蚣；勿徒手触碰。"
+    }
+  },
+  "Seseli coreanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イブキボウフウ。セリ科の多年草で、山地の日当たりのよい草地や岩場、乾いた斜面に生える。細かく裂けた葉をつけ、夏〜秋に白い小花を複散形花序に多数つける。伊吹山などの石灰岩地に多い。",
+      "habitat_hint": "山地の日当たりのよい草地、岩場、乾いた斜面、石灰岩地。",
+      "finding_tips": "8〜10月、細かく裂けた葉と、白い小花の複散形花序を山地の草地・岩場で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Apiaceae) of sunny montane grassland, rocky ground and dry slopes; it has finely divided leaves and bears many small white flowers in compound umbels in late summer to autumn, common on limestone.",
+      "habitat_hint": "Sunny montane grassland, rocky ground, dry slopes, limestone ground.",
+      "finding_tips": "In August–October look on montane grassland and rocks for the finely divided leaves and the compound umbels of small white flowers."
+    },
+    "zh": {
+      "summary": "イブキボウフウ。伞形科多年生草本，生于山地向阳草地、岩地与干坡，叶细裂，夏末至秋复伞形花序密生白色小花，多见于石灰岩地。",
+      "habitat_hint": "山地向阳草地、岩地、干坡、石灰岩地。",
+      "finding_tips": "8 至 10 月于山地草地与岩地寻找细裂叶及白色小花的复伞形花序。"
+    }
+  },
+  "Stellaria graminea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "禾叶繁缕"
+    },
+    "ja": {
+      "summary": "カラフトホソバハコベ。ナデシコ科ハコベ属の多年草で、道端や草地、河川敷、やや湿った空き地に生える。細く線形の葉を対生し、初夏、白い5弁（深く2裂して10枚に見える）の小花を咲かせる。ヨーロッパ〜アジアに広く分布。",
+      "habitat_hint": "道端、草地、河川敷、やや湿った空き地、造成地。",
+      "finding_tips": "5〜7月、細く線形の対生の葉と、白い5弁（深く2裂）の小花を探します。"
+    },
+    "en": {
+      "summary": "Common starwort / lesser stitchwort (Stellaria graminea). A perennial (Caryophyllaceae) of roadsides, grassland, riverbanks and damp waste ground; it has narrow linear opposite leaves and small white flowers of five deeply notched petals (looking like ten). Widespread across Eurasia.",
+      "habitat_hint": "Roadsides, grassland, riverbanks, damp waste ground, made ground.",
+      "finding_tips": "In May–July look for the narrow linear opposite leaves and the small white flowers of five deeply notched petals."
+    },
+    "zh": {
+      "summary": "カラフトホソバハコベ（禾叶繁缕，Stellaria graminea）。石竹科繁缕属多年生草本，生于路旁、草地、河滩及略湿空地，叶狭线形对生，初夏开白色五瓣（深二裂似十瓣）小花，广布欧亚。",
+      "habitat_hint": "路旁、草地、河滩、略湿空地、造地。",
+      "finding_tips": "5 至 7 月寻找狭线形对生叶及白色五瓣（深二裂）小花。"
+    }
+  },
+  "Symphyotrichum novi-belgii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "New York aster",
+    "aliases": {
+      "zh-Hans": "荷兰菊"
+    },
+    "ja": {
+      "summary": "ユウゼンギク。北アメリカ原産のキク科の多年草で、観賞用に栽培され、道端や河川敷、空き地に野生化する。秋、青紫色〜淡紅紫色の舌状花に黄色い中心の頭花を多数つける。よく枝分かれして群れて咲く。",
+      "habitat_hint": "道端、河川敷、空き地、庭の周辺、やや湿った草地。",
+      "finding_tips": "9〜11月、よく枝分かれした茎に多数つく青紫色〜淡紅紫色の頭花を探します。"
+    },
+    "en": {
+      "summary": "New York aster (Symphyotrichum novi-belgii). A North-American perennial (Asteraceae) grown as an ornamental and naturalised on roadsides, riverbanks and vacant lots; in autumn it bears many flowerheads with blue-purple to pale rose-purple rays and yellow centres, much-branched and massing.",
+      "habitat_hint": "Roadsides, riverbanks, vacant lots, around gardens, damp grassland.",
+      "finding_tips": "In September–November look for the many blue-purple to pale rose-purple flowerheads on the much-branched stems."
+    },
+    "zh": {
+      "summary": "ユウゼンギク（荷兰菊，Symphyotrichum novi-belgii）。原产北美的菊科多年生草本，作观赏栽培并野化于路旁、河滩与空地，秋季密生蓝紫至淡玫紫色舌状、黄心头状花，多分枝、成丛开放。",
+      "habitat_hint": "路旁、河滩、空地、庭园周边、略湿草地。",
+      "finding_tips": "9 至 11 月寻找多分枝茎上密生的蓝紫至淡玫紫色头状花。"
+    }
+  },
+  "Symplocos paniculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sapphireberry",
+    "aliases": {
+      "zh-Hans": "白檀"
+    },
+    "ja": {
+      "summary": "ニシゴリ（サワフタギの近縁）。ハイノキ科ハイノキ属の落葉低木〜小高木で、山地の林縁や谷沿い、明るい二次林に生える。初夏、白い小花を円錐状に多数つけ、秋に藍色の小さな果実をつける。サワフタギに似る。",
+      "habitat_hint": "山地の林縁、谷沿い、明るい二次林、やや湿った斜面。",
+      "finding_tips": "5〜6月、白い小花の円錐花序を探します。秋の鮮やかな藍色の果実も手がかり。"
+    },
+    "en": {
+      "summary": "Sapphireberry (Symplocos paniculata). A deciduous shrub to small tree (Symplocaceae) of montane woodland edges, valleys and bright secondary forest; in early summer it bears many small white flowers in panicles, followed by small sapphire-blue fruit in autumn.",
+      "habitat_hint": "Montane woodland edges, valleys, bright secondary forest, damp slopes.",
+      "finding_tips": "In May–June look for the panicles of small white flowers; the vivid sapphire-blue autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "ニシゴリ（白檀，Symplocos paniculata）。山矾科山矾属落叶灌木至小乔木，生于山地林缘、谷地与明亮次生林，初夏圆锥状密生白色小花，秋结蓝色小果。",
+      "habitat_hint": "山地林缘、谷地、明亮次生林、略湿坡地。",
+      "finding_tips": "5 至 6 月寻找白色小花的圆锥花序；秋季鲜蓝色果实亦为线索。"
+    }
+  },
+  "Tapinella atrotomentosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Velvet roll-rim",
+    "aliases": {
+      "zh-Hans": "黑毛桩菇"
+    },
+    "ja": {
+      "summary": "ニワタケ。ヒダハタケの仲間のキノコで、針葉樹の切株や倒木、埋もれた根から発生する。褐色の傘は縁が内側に巻き、太い柄の表面に暗褐色のビロード状（黒毛）の質感があるのが特徴。食用にはしない。",
+      "habitat_hint": "針葉樹（マツなど）の切株、倒木、埋もれた根の際。夏〜秋。",
+      "finding_tips": "7〜10月、針葉樹の切株や地際で、縁が巻いた褐色の傘と、暗褐色のビロード状の太い柄をもつキノコを探します。"
+    },
+    "en": {
+      "summary": "Velvet roll-rim (Tapinella atrotomentosa). A fungus (Tapinellaceae) arising from conifer stumps, logs and buried roots; the brown cap has an inrolled margin and the stout stalk has a dark-brown velvety (black-felted) surface. Not eaten.",
+      "habitat_hint": "Conifer (e.g. pine) stumps, logs and buried roots; summer to autumn.",
+      "finding_tips": "In July–October look at conifer stumps and ground level for the brown inrolled-margin cap and the stout dark-brown velvety stalk."
+    },
+    "zh": {
+      "summary": "ニワタケ（黑毛桩菇，Tapinella atrotomentosa）。桩菇类真菌，发生于针叶树桩、倒木及埋根，菌盖褐色、边缘内卷，粗柄表面具暗褐色天鹅绒状（黑毛）质感，不作食用。",
+      "habitat_hint": "针叶树（如松）树桩、倒木、埋根际；夏秋。",
+      "finding_tips": "7 至 10 月于针叶树桩与地际寻找边缘内卷的褐色菌盖及暗褐色绒状粗柄的菌。"
+    }
+  },
+  "Trametes elegans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チリメンタケ。タマチョレイタケ科の一年生の硬い多孔菌で、広葉樹の枯木や倒木、切株に発生する。白色〜クリーム色の半円形の傘の裏面が、迷路状〜溝状（ちりめん状）の管孔になるのが名の由来。木材腐朽菌。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株の上。",
+      "finding_tips": "一年中見られます。白い半円形の傘と、裏面の迷路状〜溝状（ちりめん状）の管孔面を枯木で探します。"
+    },
+    "en": {
+      "summary": "White maze polypore (Trametes elegans). An annual, tough polypore (Polyporaceae) on dead broadleaf wood, logs and stumps; the white to cream semicircular cap has an underside of maze-like to slot-like pores (source of the Japanese name, \"crepe fungus\"). A wood-rotter.",
+      "habitat_hint": "Dead broadleaf wood, fallen logs, stumps.",
+      "finding_tips": "Present year-round; look on dead wood for the white semicircular cap and the maze-like to slot-like pore surface beneath."
+    },
+    "zh": {
+      "summary": "チリメンタケ（雅致栓孔菌，Trametes elegans）。多孔菌科一年生硬质多孔菌，发生于阔叶枯木、倒木与树桩，白至奶油色半圆形菌盖，下面管孔迷宫状至沟槽状（似绉），故名，为木材腐朽菌。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "全年可见；在枯木上寻找白色半圆形菌盖及下面迷宫至沟槽状的管孔面。"
+    }
+  },
+  "Triantha japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワショウブ。チシマゼキショウ科（旧ユリ科）チシマゼキショウ属の多年草で、山地〜亜高山帯の湿原や湿った岩場、湿った草地に生える。細長い葉を根生し、夏〜秋、白い小さな花を穂状に密につける。花茎に腺毛があり粘る。",
+      "habitat_hint": "山地〜亜高山帯の湿原、湿った岩場、湿った草地、湿った砂礫地。",
+      "finding_tips": "8〜9月、湿原で細長い根生葉と、白い小花が穂状に密につく花序を探します。花茎に触れると粘る。"
+    },
+    "en": {
+      "summary": "A false asphodel (Triantha, Tofieldiaceae) of montane to subalpine bogs, wet rock and damp grassland; it has basal narrow leaves and, in late summer to autumn, dense spikes of small white flowers, the flower-stalk sticky with glandular hairs.",
+      "habitat_hint": "Montane to subalpine bogs, wet rock, damp grassland, damp sand-gravel.",
+      "finding_tips": "In August–September look in bogs for the narrow basal leaves and the dense spike of small white flowers; the flower-stalk is sticky to the touch."
+    },
+    "zh": {
+      "summary": "イワショウブ（岩菖蒲类，Triantha japonica）。岩菖蒲科（旧百合科）多年生草本，生于山地至亚高山湿原、湿岩及湿润草地，叶狭长基生，夏末至秋穗状密生白色小花，花茎具腺毛而粘。",
+      "habitat_hint": "山地至亚高山湿原、湿岩、湿润草地、湿润砂砾地。",
+      "finding_tips": "8 至 9 月于湿原寻找狭长基生叶及穗状密生的白色小花；花茎触之粘手。"
+    }
+  },
+  "Trishoplita goodwinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "オトメマイマイ。ナンバンマイマイ科の小型の陸生の巻貝（カタツムリ）で、湿った林内の落葉の下や樹幹、岩の上にすむ。殻は低い円錐形で淡褐色〜黄褐色。梅雨時などの湿った時期に活動が活発になる。",
+      "habitat_hint": "湿った林内の落葉の下、樹幹、岩上、社寺林の陰。",
+      "finding_tips": "梅雨〜秋の湿った時期、林で落葉や樹幹の低い円錐形の淡褐色の殻をもつカタツムリを探します。"
+    },
+    "en": {
+      "summary": "A small land snail (Camaenidae) living under leaf litter, on tree trunks and rock in damp woodland; the shell is a low cone, pale brown to yellow-brown. It is most active in damp periods such as the rainy season.",
+      "habitat_hint": "Under leaf litter, on tree trunks and rock in damp woodland, shaded shrine forest.",
+      "finding_tips": "In damp periods from the rainy season to autumn look in woodland for the snail with a low conical, pale-brown shell on litter and trunks."
+    },
+    "zh": {
+      "summary": "オトメマイマイ（少女蜗牛类，Trishoplita goodwinii）。坚齿螺科小型陆生蜗牛，栖于湿润林内落叶下、树干及岩面，壳低圆锥形、淡褐至黄褐色，梅雨等湿润期活动活跃。",
+      "habitat_hint": "湿润林内落叶下、树干、岩面、社寺林荫处。",
+      "finding_tips": "梅雨至秋湿润期于林中在落叶与树干上寻找低圆锥形、淡褐色壳的蜗牛。"
+    }
+  },
+  "Viola hirtipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakura violet",
+    "ja": {
+      "summary": "サクラスミレ。スミレ科の多年草で、山地の日当たりのよい草原や明るい林縁、やや湿った草地に生える。日本のスミレの中でも大型で、花が大きく美しいことから「スミレの女王」とも呼ばれる。花は紅紫色で、花弁の先が少しへこむことがある。",
+      "habitat_hint": "山地の日当たりのよい草原、明るい林縁、やや湿った草地、高原。",
+      "finding_tips": "4〜6月、山地の草原で大きな紅紫色の花を探します。日本のスミレの中でも花が大きい点が手がかり。"
+    },
+    "en": {
+      "summary": "Sakura violet (Viola hirtipes). A perennial (Violaceae) of sunny montane grassland, bright woodland edges and damp meadows; among the largest of Japan's violets, its big, beautiful rose-purple flowers earn it the name \"queen of violets,\" the petal tips sometimes slightly notched.",
+      "habitat_hint": "Sunny montane grassland, bright woodland edges, damp meadows, highlands.",
+      "finding_tips": "In April–June look on montane grassland for the large rose-purple flowers; the unusually large flower for a Japanese violet is the clue."
+    },
+    "zh": {
+      "summary": "サクラスミレ（樱堇菜，Viola hirtipes）。堇菜科多年生草本，生于山地向阳草甸、明亮林缘及略湿草地，为日本堇菜中大型者，花大而美，有「堇菜女王」之称，花玫紫色、瓣端有时微凹。",
+      "habitat_hint": "山地向阳草甸、明亮林缘、略湿草地、高原。",
+      "finding_tips": "4 至 6 月于山地草甸寻找大型玫紫色花；花较日本一般堇菜大为线索。"
+    }
+  },
+  "Xenostrobus securis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Little black mussel",
+    "ja": {
+      "summary": "コウロエンカワヒバリガイ。イガイ科の小型の二枚貝で、内湾や河口の汽水域の岩、護岸、杭、他の貝殻などに足糸で付着してすむ。黒っぽい殻をもち、しばしば密集して付着する。オーストラリア原産の外来種で、各地の港湾に定着している。",
+      "habitat_hint": "内湾・河口の汽水域の岩、護岸、杭、浮遊物、他の貝殻。",
+      "finding_tips": "一年中、内湾や河口の護岸や杭に密集して足糸で付着する黒っぽい小型の二枚貝を探します。"
+    },
+    "en": {
+      "summary": "Little black mussel (Xenostrobus securis). A small mussel (Mytilidae) of brackish water in sheltered bays and estuaries, attaching by byssus to rock, sea walls, piles and other shells; the blackish shells often cluster densely. An Australian-origin invasive established in harbours in many regions.",
+      "habitat_hint": "Rock, sea walls, piles, floating objects and shells in brackish bays and estuaries.",
+      "finding_tips": "Year-round look on sea walls and piles of sheltered bays and estuaries for the small blackish mussels clustered densely by byssus."
+    },
+    "zh": {
+      "summary": "コウロエンカワヒバリガイ（黑荞麦蛤，Xenostrobus securis）。贻贝科小型双壳类，栖于内湾与河口咸淡水，以足丝附着于岩石、护岸、桩及贝壳，壳偏黑、常密集附着，为原产澳洲的外来种，已定着于各地港湾。",
+      "habitat_hint": "内湾与河口咸淡水的岩石、护岸、桩、漂浮物、贝壳。",
+      "finding_tips": "全年于内湾河口护岸与桩上寻找以足丝密集附着的黑色小型双壳贝。"
+    }
+  },
+  "Acrolejeunea pusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメミノリゴケ。クサリゴケ科の微小な葉状苔類で、湿った樹皮や岩の上に淡緑色の薄いマットをつくって着生する。ルーペでようやく見える大きさ。暖地の照葉樹林内に多い。",
+      "habitat_hint": "湿った樹皮、岩上、照葉樹林内、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。樹皮や岩に着生する淡緑の薄いマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Lejeuneaceae) growing as thin pale-green mats on damp bark and rock; barely visible without a lens, it is common inside warm-region evergreen forest.",
+      "habitat_hint": "Damp bark, rock, evergreen forest interior, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the thin pale-green mats on bark and rock."
+    },
+    "zh": {
+      "summary": "ヒメミノリゴケ。细鳞苔科微小叶状苔类，附生于湿润树皮与岩面形成淡绿色薄垫，须借放大镜方可见，多见于暖地照叶林内。",
+      "habitat_hint": "湿润树皮、岩面、照叶林内、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察附生树皮岩石的淡绿薄垫。"
+    }
+  },
+  "Actinodaphne acuminata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "バリバリノキ（アオカゴノキ）。クスノキ科カゴノキ属の常緑高木で、暖地の照葉樹林に生える。細長い革質の葉が枝先に集まってつく。葉が乾くと硬くなり、風で擦れて「バリバリ」と音を立てるのが名の由来とされる。",
+      "habitat_hint": "暖地の照葉樹林、社寺林、谷沿いの林。",
+      "finding_tips": "一年中見られます。枝先に集まってつく細長い革質の葉を照葉樹林で探します。"
+    },
+    "en": {
+      "summary": "An evergreen tree (Actinodaphne acuminata, Lauraceae) of warm-region evergreen forest; the elongated leathery leaves cluster toward the branch tips. The leaves harden when dry and are said to rattle in the wind (source of the Japanese name).",
+      "habitat_hint": "Warm-region evergreen forest, shrine forest, valley woodland.",
+      "finding_tips": "Present year-round; in evergreen forest look for the elongated leathery leaves clustered toward the branch tips."
+    },
+    "zh": {
+      "summary": "バリバリノキ。樟科黄肉楠属常绿乔木，生于暖地照叶林，狭长革质叶簇生枝端，叶干后变硬、风吹相擦作响，据传为和名由来。",
+      "habitat_hint": "暖地照叶林、社寺林、谷地林。",
+      "finding_tips": "全年可见；于照叶林中寻找簇生枝端的狭长革质叶。"
+    }
+  },
+  "Asparagus officinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Garden asparagus",
+    "aliases": {
+      "zh-Hans": "石刁柏"
+    },
+    "ja": {
+      "summary": "オランダキジカクシ（アスパラガス）。ヨーロッパ〜西アジア原産のキジカクシ科クサスギカズラ属の多年草で、野菜として栽培され、道端や河川敷、空き地に野生化する。若い芽（アスパラガス）を食用にする。よく分枝した茎に糸状の仮葉枝をつけ、雌雄異株で秋に赤い果実をつける。",
+      "habitat_hint": "道端、河川敷、空き地、畑の周辺、造成地。",
+      "finding_tips": "夏、よく分枝した茎に糸状の仮葉枝が多数つく姿を探します。春に地際から出る若い芽が食用のアスパラガス。"
+    },
+    "en": {
+      "summary": "Garden asparagus (Asparagus officinalis). A Eurasian perennial (Asparagaceae) grown as a vegetable and naturalised on roadsides, riverbanks and vacant lots; the young shoots are eaten as asparagus. Much-branched stems bear thread-like cladodes, and it is dioecious with red fruit in autumn.",
+      "habitat_hint": "Roadsides, riverbanks, vacant lots, around fields, made ground.",
+      "finding_tips": "In summer look for the much-branched stems with many thread-like cladodes; the young spring shoots from the base are edible asparagus."
+    },
+    "zh": {
+      "summary": "オランダキジカクシ（石刁柏／芦笋，Asparagus officinalis）。原产欧亚的天门冬科天门冬属多年生草本，作蔬菜栽培并野化于路旁、河滩与空地，嫩芽即芦笋供食，茎多分枝、具丝状假叶枝，雌雄异株，秋结红果。",
+      "habitat_hint": "路旁、河滩、空地、田地周边、造地。",
+      "finding_tips": "夏季寻找多分枝、密生丝状假叶枝的茎；春季地际抽出的嫩芽即食用芦笋。"
+    }
+  },
+  "Bembidion niloticum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "アトモンミズギワゴミムシ。オサムシ科の小さな地表性甲虫で、河原や水田、湿地の水際の泥地や砂地にすむ。黒っぽい体に淡色の紋が入る。素早く歩き回り、湿った地表で小動物を捕食する。",
+      "habitat_hint": "河原、水田、湿地の水際の泥地・砂地、池沼の縁。",
+      "finding_tips": "4〜10月、水際の泥地や砂地で素早く歩く小さな甲虫を探します。黒地に淡色の紋が手がかり。"
+    },
+    "en": {
+      "summary": "A small ground beetle (Carabidae) of the wet mud and sand at the water's edge of riverbanks, paddy fields and wetlands; the dark body carries pale markings. It runs quickly over damp ground preying on small animals.",
+      "habitat_hint": "Wet mud and sand at water margins of riverbanks, paddies, wetlands, pond edges.",
+      "finding_tips": "From April to October look on waterside mud and sand for the small quick-running beetle; the pale markings on the dark body are the clue."
+    },
+    "zh": {
+      "summary": "アトモンミズギワゴミムシ。步甲科小型地栖甲虫，栖于河滩、水田及湿地水边泥沙地，体暗色具淡色斑，于湿润地面迅速游走捕食小动物。",
+      "habitat_hint": "河滩、水田、湿地水边泥沙地、池沼边缘。",
+      "finding_tips": "4 至 10 月于水边泥沙地寻找迅速游走的小型甲虫；暗底淡斑为线索。"
+    }
+  },
+  "Carex doenitzii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コタヌキラン。カヤツリグサ科スゲ属の多年草で、山地〜亜高山帯の岩場や草地、林縁に生える。株になって生え、黒褐色を帯びた小穂を穂状につける。タヌキランに似るが小型。",
+      "habitat_hint": "山地〜亜高山帯の岩場、草地、林縁、やや乾いた斜面。",
+      "finding_tips": "6〜8月、株立ちの姿と、黒褐色を帯びた穂状の小穂を山地の岩場・草地で探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Cyperaceae) of montane to subalpine rocky ground, grassland and woodland edges; it grows in tufts and bears blackish-brown spikelets in a spike. Like Carex phaeodon but smaller.",
+      "habitat_hint": "Montane to subalpine rocky ground, grassland, woodland edges, drier slopes.",
+      "finding_tips": "In June–August look on montane rocks and grassland for the tufted growth and the blackish-brown spikelets in a spike."
+    },
+    "zh": {
+      "summary": "コタヌキラン。莎草科薹草属多年生草本，生于山地至亚高山岩地、草甸与林缘，丛生，穗状着生带黑褐色的小穗，似狸兰薹草而小。",
+      "habitat_hint": "山地至亚高山岩地、草甸、林缘、较干坡地。",
+      "finding_tips": "6 至 8 月于山地岩地与草甸寻找丛生姿态及带黑褐色的穗状小穗。"
+    }
+  },
+  "Chosenia urbaniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Korean willow",
+    "aliases": {
+      "zh-Hans": "钻天柳"
+    },
+    "ja": {
+      "summary": "オオバヤナギ。ヤナギ科オオバヤナギ属の落葉高木で、山地の河原や川岸、氾濫原に生える。攪乱地に定着するパイオニア樹で、まっすぐ高く伸びる。細長い葉をつけ、春に垂れ下がる花穂を出す。",
+      "habitat_hint": "山地の河原、川岸、氾濫原、湿った砂礫地。",
+      "finding_tips": "春、垂れ下がる花穂と、細長い葉を河原で探します。まっすぐ高く伸びる樹形が手がかり。"
+    },
+    "en": {
+      "summary": "Korean willow (Chosenia urbaniana). A deciduous tree (Salicaceae) of montane riverbeds, banks and floodplains; a pioneer on disturbed ground, it grows tall and straight, with narrow leaves and drooping catkins in spring.",
+      "habitat_hint": "Montane riverbeds, banks, floodplains, damp sand-gravel.",
+      "finding_tips": "In spring look on riverbeds for the drooping catkins and narrow leaves; the tall, straight form is the clue."
+    },
+    "zh": {
+      "summary": "オオバヤナギ（钻天柳，Chosenia urbaniana）。杨柳科钻天柳属落叶乔木，生于山地河滩、河岸与泛滥原，为定着扰动地的先锋树，树干高直，叶狭长，春季抽下垂花序。",
+      "habitat_hint": "山地河滩、河岸、泛滥原、湿润砂砾地。",
+      "finding_tips": "春季于河滩寻找下垂花序与狭长叶；高直树形为线索。"
+    }
+  },
+  "Chrysosplenium pilosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コガネネコノメソウ。ユキノシタ科ネコノメソウ属の多年草で、山地の谷沿いや渓流沿いの湿った林床、水のしみ出す岩際に生える。早春、黄金色に見える萼と苞に囲まれた小花を密につける。地を這う走出枝で広がる。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、水のしみ出す岩際、湿った日陰。",
+      "finding_tips": "3〜5月、湿った林床で、黄金色に見える萼と苞に囲まれた小花の集まりを探します。地を這う走出枝が手がかり。"
+    },
+    "en": {
+      "summary": "Hairy golden saxifrage (Chrysosplenium pilosum). A perennial (Saxifragaceae) of montane valleys, damp streamside woodland floor and seepage-wet rock; in early spring it packs small flowers ringed by golden-looking sepals and bracts, spreading by surface runners.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, seepage-wet rock, damp shade.",
+      "finding_tips": "In March–May look on damp woodland floor for the clusters of small flowers ringed by golden sepals and bracts; the creeping runners are the clue."
+    },
+    "zh": {
+      "summary": "コガネネコノメソウ（毛金腰，Chrysosplenium pilosum）。虎耳草科金腰属多年生草本，生于山地谷地、溪流沿岸湿润林床及渗水岩际，早春密生被金黄色萼与苞环绕的小花，借地表匍匐枝蔓延。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、渗水岩际、湿润荫处。",
+      "finding_tips": "3 至 5 月于湿润林床寻找被金黄色萼苞环绕的小花簇；地表匍匐枝为线索。"
+    }
   }
 }
