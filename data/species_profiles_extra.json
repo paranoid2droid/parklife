@@ -216988,5 +216988,420 @@
       "habitat_hint": "内湾与河口砂泥质潮间带、浅海砂泥底。",
       "finding_tips": "全年于内湾河口砂泥滩涂挖掘寻找薄白细长的双壳贝；壳脆为线索。"
     }
+  },
+  "Kreidion chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマセンキュウ。セリ科の多年草で、山地〜亜高山帯の湿った草地や林縁、沢沿いに生える。細かく裂けた葉をつけ、夏、白い小花を複散形花序に多数つける。センキュウ（薬用のセリ科植物）に似た山地性の草。",
+      "habitat_hint": "山地〜亜高山帯の湿った草地、林縁、沢沿い。",
+      "finding_tips": "7〜9月、細かく裂けた葉と、白い小花の複散形花序を山地の湿った草地で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Apiaceae) of damp montane to subalpine meadows, woodland edges and streamsides; it has finely divided leaves and bears many small white flowers in compound umbels in summer.",
+      "habitat_hint": "Damp montane to subalpine meadows, woodland edges, streamsides.",
+      "finding_tips": "In July–September look for the finely divided leaves and the compound umbels of small white flowers in damp montane grassland."
+    },
+    "zh": {
+      "summary": "ミヤマセンキュウ。伞形科多年生草本，生于山地至亚高山湿润草甸、林缘与沟谷，叶细裂，夏季复伞形花序密生白色小花。",
+      "habitat_hint": "山地至亚高山湿润草甸、林缘、沟谷。",
+      "finding_tips": "7 至 9 月于山地湿润草甸寻找细裂叶及白色小花的复伞形花序。"
+    }
+  },
+  "Lepidozia vitrea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スギバゴケ。ムチゴケ科の小さな葉状苔類で、湿った腐木や林床の土、岩、泥炭地に生える。葉が指状に細かく裂け、細い枝がスギの葉のように見えるのが名の由来。ルーペで見ると繊細な姿。",
+      "habitat_hint": "湿った腐木、林床の土、岩、泥炭地、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。指状に細かく裂けた葉と、スギの葉のように見える繊細な枝をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small leafy liverwort (Lepidoziaceae) of damp rotten wood, forest-floor soil, rock and peaty ground; the leaves are divided into finger-like segments and the fine branches look like cedar foliage (source of the Japanese name).",
+      "habitat_hint": "Damp rotten wood, forest-floor soil, rock, peaty ground, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the finger-divided leaves and the fine cedar-like branches."
+    },
+    "zh": {
+      "summary": "スギバゴケ。指叶苔科小型叶状苔类，生于湿润腐木、林床土壤、岩石及泥炭地，叶指状细裂、细枝形似杉叶，故名，放大镜下姿态纤细。",
+      "habitat_hint": "湿润腐木、林床土壤、岩石、泥炭地、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察指状细裂的叶及形似杉叶的纤细枝。"
+    }
+  },
+  "Lepisorus buergerianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤノネシダ。ウラボシ科ノキシノブ属の常緑性シダで、山地の樹幹や苔むした岩に着生する。分裂しない細長い単葉が、基部で矢の根（やのね）のように張り出すのが名の由来。葉裏に円形の胞子嚢群が並ぶ。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩、渓谷沿いの日陰。",
+      "finding_tips": "一年中見られます。基部が矢の根状に張り出す細長い単葉と、葉裏の円形の胞子嚢群を樹幹で探します。"
+    },
+    "en": {
+      "summary": "An evergreen fern (Polypodiaceae) epiphytic on montane tree trunks and mossy rock; its simple, undivided, elongated fronds flare out at the base like an arrowhead (source of the Japanese name), with round sori on the underside.",
+      "habitat_hint": "Damp montane tree trunks, mossy rock, shaded ravines.",
+      "finding_tips": "Present year-round; on trunks look for the elongated simple fronds flaring arrowhead-like at the base and the round sori beneath."
+    },
+    "zh": {
+      "summary": "ヤノネシダ。水龙骨科瓦韦属常绿蕨类，附生于山地树干与生苔岩石，单叶不裂、狭长、基部张开如箭镞，故名，叶背具圆形孢子囊群。",
+      "habitat_hint": "山地湿润树干、生苔岩石、溪谷荫处。",
+      "finding_tips": "全年可见；在树干上寻找基部张开如箭镞的狭长单叶及叶背圆形孢子囊群。"
+    }
+  },
+  "Lindera erythrocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-fruited spicebush",
+    "aliases": {
+      "zh-Hans": "红果山胡椒"
+    },
+    "ja": {
+      "summary": "カナクギノキ。クスノキ科クロモジ属の落葉小高木で、山地の林縁や谷沿い、雑木林に生える。枝や葉をもむと芳香がある。春、葉より先に淡黄色の小花を咲かせ、秋に赤い小さな果実をつける。樹皮がまだら状にはがれる。",
+      "habitat_hint": "山地の林縁、谷沿い、雑木林、やや湿った斜面。",
+      "finding_tips": "秋、赤い小さな果実を探します。春の葉より先に咲く淡黄色の小花や、まだら状にはがれる樹皮も手がかり。"
+    },
+    "en": {
+      "summary": "Red-fruited spicebush (Lindera erythrocarpa). A deciduous small tree (Lauraceae) of montane woodland edges, valleys and secondary forest; twigs and leaves are aromatic when crushed. It opens pale-yellow flowers before the leaves in spring and bears small red fruit in autumn, its bark flaking in patches.",
+      "habitat_hint": "Montane woodland edges, valleys, secondary forest, damp slopes.",
+      "finding_tips": "In autumn look for the small red fruit; the pale-yellow spring flowers opening before the leaves and the patchily flaking bark are other clues."
+    },
+    "zh": {
+      "summary": "カナクギノキ（红果山胡椒，Lindera erythrocarpa）。樟科山胡椒属落叶小乔木，生于山地林缘、谷地与杂木林，枝叶揉之有芳香，春季先叶开淡黄色小花，秋结红色小果，树皮斑块状剥落。",
+      "habitat_hint": "山地林缘、谷地、杂木林、略湿坡地。",
+      "finding_tips": "秋季寻找红色小果；春季先叶开放的淡黄色小花与斑块状剥落的树皮亦为线索。"
+    }
+  },
+  "Lysimachia thyrsiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tufted loosestrife",
+    "aliases": {
+      "zh-Hans": "球尾花"
+    },
+    "ja": {
+      "summary": "ヤナギトラノオ。サクラソウ科オカトラノオ属の多年草で、池沼の縁や湿原、湿った草地に生える。柳のような細長い葉を対生し、初夏、葉腋から短い穂状の花序を出し、黄色い小さな花を球状に密集させてつける。",
+      "habitat_hint": "池沼の縁、湿原、湿った草地、休耕田。",
+      "finding_tips": "6〜7月、対生する柳形の葉と、葉腋から出る球状に密集した黄色い小花の花序を湿地で探します。"
+    },
+    "en": {
+      "summary": "Tufted loosestrife (Lysimachia thyrsiflora). A perennial (Primulaceae) of pond margins, bogs and damp meadows; it has willow-like opposite leaves and, in early summer, short axillary spikes of small yellow flowers densely clustered into globular heads.",
+      "habitat_hint": "Pond margins, bogs, damp meadows, fallow wet fields.",
+      "finding_tips": "In June–July look in wetlands for the willow-like opposite leaves and the globular clusters of small yellow flowers from the leaf axils."
+    },
+    "zh": {
+      "summary": "ヤナギトラノオ（球尾花，Lysimachia thyrsiflora）。报春花科珍珠菜属多年生草本，生于池沼边缘、湿原及湿润草甸，叶对生如柳，初夏叶腋抽短穗状花序、黄色小花密集成球状。",
+      "habitat_hint": "池沼边缘、湿原、湿润草甸、休耕田。",
+      "finding_tips": "6 至 7 月于湿地寻找对生柳形叶及叶腋球状密集的黄色小花花序。"
+    }
+  },
+  "Macaranga tanarius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Parasol leaf tree",
+    "aliases": {
+      "zh-Hans": "血桐"
+    },
+    "ja": {
+      "summary": "オオバギ。トウダイグサ科オオバギ属の常緑小高木で、暖地（南西諸島など）の海岸近くの林縁や伐採跡地、二次林に生える。大きな盾状の葉をつける先駆樹（パイオニア）。アリと共生することで知られる種もある。",
+      "habitat_hint": "暖地（南西諸島など）の海岸近くの林縁、伐採跡地、明るい二次林。",
+      "finding_tips": "一年中見られます。大きな盾状の葉（葉柄が葉裏の中ほどにつく）を探します。明るい伐採跡地に先駆けて生える。"
+    },
+    "en": {
+      "summary": "Parasol leaf tree (Macaranga tanarius). An evergreen small tree (Euphorbiaceae) of warm-region (e.g. the Ryukyus) coastal woodland edges, clearings and secondary forest; a pioneer with large peltate leaves. Some Macaranga are known for ant symbiosis.",
+      "habitat_hint": "Coastal woodland edges, clearings and bright secondary forest in warm regions (e.g. the Ryukyus).",
+      "finding_tips": "Present year-round; look for the large peltate leaves (stalk joining the underside of the blade near the middle); a pioneer of bright clearings."
+    },
+    "zh": {
+      "summary": "オオバギ（血桐，Macaranga tanarius）。大戟科血桐属常绿小乔木，生于暖地（如琉球群岛）近海林缘、采伐迹地与次生林，为具大型盾状叶的先锋树，部分血桐属以与蚂蚁共生著称。",
+      "habitat_hint": "暖地（如琉球群岛）近海林缘、采伐迹地、明亮次生林。",
+      "finding_tips": "全年可见；寻找大型盾状叶（叶柄着生叶背中部）；于明亮采伐迹地先锋生长。"
+    }
+  },
+  "Meles meles": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Badger",
+    "ja": {
+      "summary": "アナグマ（ニホンアナグマを含む広義のアナグマ）。イタチ科の中型の哺乳類で、里山の雑木林や農地周辺にすむ。ずんぐりした体と、顔の白黒の縦縞が特徴。地中に巣穴（セット）を掘って暮らし、夜行性で雑食（ミミズ・昆虫・果実など）。冬は活動が鈍る。",
+      "habitat_hint": "里山の雑木林、林縁、農地周辺、丘陵地。巣穴は斜面や林内。",
+      "finding_tips": "夜間、林縁や農地でずんぐりした体と顔の白黒縦縞をもつ動物を探します。掘り返した地面や巣穴が痕跡。"
+    },
+    "en": {
+      "summary": "Badger (Meles meles, broadly including the Japanese badger). A medium-sized carnivore (Mustelidae) of wooded countryside and farmland edges; stocky, with black-and-white facial stripes. It digs underground setts, is nocturnal and omnivorous (earthworms, insects, fruit), and slows down in winter.",
+      "habitat_hint": "Secondary woodland, woodland edges, farmland edges, hills; setts on slopes and in woods.",
+      "finding_tips": "At night along woodland and farmland edges look for the stocky animal with black-and-white facial stripes; dug-up ground and setts are signs."
+    },
+    "zh": {
+      "summary": "アナグマ（獾，含日本獾之广义 Meles meles）。鼬科中型哺乳动物，栖于里山杂木林与农地周边，体粗壮、面部具黑白纵纹，掘地下洞穴（獾穴）而居，夜行性、杂食（蚯蚓、昆虫、果实等），冬季活动迟缓。",
+      "habitat_hint": "里山杂木林、林缘、农地周边、丘陵；洞穴多于坡地与林内。",
+      "finding_tips": "夜间于林缘与农地寻找体粗壮、面具黑白纵纹的动物；翻掘地面与洞穴为其痕迹。"
+    }
+  },
+  "Metzgeria consanguinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コモチフタマタゴケ。フタマタゴケ科の葉状体の苔類で、湿った樹幹や岩、渓流沿いの日陰に生える。細く二又に分かれるリボン状の葉状体をもち、縁や体の上に無性芽をつけて増えるのが特徴。",
+      "habitat_hint": "湿った樹幹、岩、渓流沿いの日陰、滝のそば。",
+      "finding_tips": "一年中見られます。細く二又に分かれるリボン状の葉状体と、縁につく無性芽をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort (Metzgeriaceae) of damp tree trunks, rock and shaded streamsides; its pale-green thallus is a narrow, forking ribbon, and it reproduces by gemmae borne on the margins and surface.",
+      "habitat_hint": "Damp tree trunks, rock, shaded streamsides, near waterfalls.",
+      "finding_tips": "Present year-round; use a lens to check the narrow, forking ribbon-like thallus and the gemmae on its margins."
+    },
+    "zh": {
+      "summary": "コモチフタマタゴケ。叉苔科叶状体苔类，生于湿润树干、岩石及溪流荫处，叶状体狭如带、二叉分枝，并于边缘及体上生无性芽以繁殖为其特征。",
+      "habitat_hint": "湿润树干、岩石、溪流荫处、瀑布近旁。",
+      "finding_tips": "全年可见；用放大镜观察狭如带、二叉分枝的叶状体及边缘无性芽。"
+    }
+  },
+  "Miscanthus oligostachyus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カリヤスモドキ。イネ科ススキ属の多年草で、山地の日当たりのよい草地や斜面、林縁に群生する。ススキより小型で、穂の枝（総）が少ない。秋、銀白色を帯びた小さな穂を立てる。",
+      "habitat_hint": "山地の日当たりのよい草地、斜面、林縁、尾根。",
+      "finding_tips": "9〜10月、ススキより小型の株と、枝の少ない小さな穂を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "Small Japanese silver grass (Miscanthus oligostachyus). A perennial grass forming stands on sunny montane grassland, slopes and woodland edges; smaller than eulalia with few inflorescence branches, it raises small silvery plumes in autumn.",
+      "habitat_hint": "Sunny montane grassland, slopes, woodland edges, ridges.",
+      "finding_tips": "In September–October look on montane grassland for the smaller clumps and the small silvery plumes with few branches."
+    },
+    "zh": {
+      "summary": "カリヤスモドキ。禾本科芒属多年生草本，成丛生于山地向阳草地、坡地与林缘，较芒小、花序分枝少，秋抽银白色小型花序。",
+      "habitat_hint": "山地向阳草地、坡地、林缘、山脊。",
+      "finding_tips": "9 至 10 月于山地草地寻找较芒小的株丛及分枝稀少的小型花序。"
+    }
+  },
+  "Neanotis hondae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオハシカグサ。アカネ科オオハシカグサ属の一年草で、山地の湿った林縁や谷沿い、道端に生える。地を這って広がり、対生する葉をつけ、白い小さな花を咲かせる。ハシカグサに似るがやや大きい。",
+      "habitat_hint": "山地の湿った林縁、谷沿い、道端、やや湿った半日陰。",
+      "finding_tips": "8〜10月、地を這う茎と対生する葉、白い小さな花を湿った林縁で探します。"
+    },
+    "en": {
+      "summary": "An annual (Rubiaceae) of damp montane woodland edges, valleys and roadsides; it creeps over the ground with opposite leaves and bears small white flowers. Similar to Neanotis hirsuta but somewhat larger.",
+      "habitat_hint": "Damp montane woodland edges, valleys, roadsides, damp part-shade.",
+      "finding_tips": "In August–October look at damp woodland edges for the creeping stems, opposite leaves and small white flowers."
+    },
+    "zh": {
+      "summary": "オオハシカグサ。茜草科新耳草属一年生草本，生于山地湿润林缘、谷地与路旁，匍匐蔓延、叶对生，开白色小花，似新耳草而略大。",
+      "habitat_hint": "山地湿润林缘、谷地、路旁、略湿半荫处。",
+      "finding_tips": "8 至 10 月于湿润林缘寻找匍匐茎、对生叶及白色小花。"
+    }
+  },
+  "Penthorum chinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タコノアシ。タコノアシ科の多年草で、池沼の縁や湿地、河川敷、休耕田などの湿った裸地に生える。秋に果序が黄褐色〜赤褐色に色づき、茎の先で数本の枝が反り返る姿がタコの足を思わせるのが名の由来。近年は湿地の減少で希少になっている。",
+      "habitat_hint": "池沼の縁、湿地、河川敷、休耕田、湿った裸地。",
+      "finding_tips": "9〜10月、茎の先で反り返る数本の果序（タコの足状）と、赤褐色に色づく姿を湿地で探します。"
+    },
+    "en": {
+      "summary": "Oriental penthorum (Penthorum chinense). A perennial (Penthoraceae) of pond margins, wetlands, riverbanks and fallow wet fields on damp bare ground; in autumn the fruiting branches curl back at the stem top and turn yellow-brown to red-brown, recalling an octopus's legs (source of the Japanese name). It has become scarce as wetlands decline.",
+      "habitat_hint": "Pond margins, wetlands, riverbanks, fallow wet fields, damp bare ground.",
+      "finding_tips": "In September–October look in wetlands for the several recurved fruiting branches at the stem top (octopus-leg-like), turning red-brown."
+    },
+    "zh": {
+      "summary": "タコノアシ（扯根菜，Penthorum chinense）。扯根菜科多年生草本，生于池沼边缘、湿地、河滩与休耕田的湿润裸地，秋季茎顶数枝果序反卷、转黄褐至红褐色，似章鱼足，故名，近年因湿地减少而稀少。",
+      "habitat_hint": "池沼边缘、湿地、河滩、休耕田、湿润裸地。",
+      "finding_tips": "9 至 10 月于湿地寻找茎顶数枝反卷的果序（似章鱼足）及转红褐色之姿。"
+    }
+  },
+  "Pluteus thomsonii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カサヒダタケ。ウラベニガサ科のキノコで、朽木や切株、埋もれた木材から発生する。灰褐色の傘の表面に、脈が浮き出たようなしわ（網目状の隆起）があるのが特徴。ひだは初め白く、成熟すると肉色（淡紅色）を帯びる。",
+      "habitat_hint": "広葉樹の朽木、切株、埋没木、木質チップの上。春〜秋。",
+      "finding_tips": "5〜10月、朽木の上で灰褐色の傘に脈状のしわがあるキノコと、成熟して肉色になるひだを探します。"
+    },
+    "en": {
+      "summary": "Veined shield (Pluteus thomsonii). A fungus (Pluteaceae) arising from rotten wood, stumps and buried timber; the grey-brown cap has raised vein-like wrinkles (a net-like sculpture). The gills, white at first, turn flesh-pink with age.",
+      "habitat_hint": "Rotten broadleaf wood, stumps, buried timber, wood chips; spring to autumn.",
+      "finding_tips": "From May to October look on decaying wood for the grey-brown cap with vein-like wrinkles and the gills maturing to flesh-pink."
+    },
+    "zh": {
+      "summary": "カサヒダタケ（脉盖光柄菇类，Pluteus thomsonii）。光柄菇科真菌，发生于腐木、树桩及埋木，灰褐色菌盖表面具脉状皱纹（网状隆起）为其特征，菌褶初白、成熟转肉粉色。",
+      "habitat_hint": "阔叶腐木、树桩、埋木、木屑；春至秋。",
+      "finding_tips": "5 至 10 月于腐木上寻找灰褐色、盖面具脉状皱纹的菌及成熟转肉粉色的菌褶。"
+    }
+  },
+  "Rhododendron nudipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サイゴクミツバツツジ。ツツジ科の落葉低木で、西日本の山地の林縁や尾根、岩場に生える。ミツバツツジの仲間で、枝先に3枚の葉を輪生する。春、葉が展開する前後に紅紫色の花を咲かせる。",
+      "habitat_hint": "西日本の山地の林縁、尾根、岩場、明るい斜面。",
+      "finding_tips": "4〜5月、枝先に3枚輪生する葉と、葉に先立って（または同時に）咲く紅紫色の花を探します。"
+    },
+    "en": {
+      "summary": "A deciduous azalea (Rhododendron nudipes, Ericaceae) of montane woodland edges, ridges and rocky ground in western Japan; one of the three-leaf azaleas, it bears three leaves whorled at the branch tip and opens rose-purple flowers around leaf-out in spring.",
+      "habitat_hint": "Montane woodland edges, ridges, rocky ground, open slopes in western Japan.",
+      "finding_tips": "In April–May look for the three leaves whorled at the branch tip and the rose-purple flowers opening near leaf-out."
+    },
+    "zh": {
+      "summary": "サイゴクミツバツツジ。杜鹃花科落叶灌木，生于西日本山地林缘、山脊与岩地，为三叶杜鹃类，枝端三叶轮生，春季先叶或与叶同放玫紫色花。",
+      "habitat_hint": "西日本山地林缘、山脊、岩地、开阔坡地。",
+      "finding_tips": "4 至 5 月寻找枝端三枚轮生的叶及先叶或同放的玫紫色花。"
+    }
+  },
+  "Rhynchospora rugosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムニンイヌノハナヒゲ。カヤツリグサ科ミカヅキグサ属の多年草で、日当たりのよい湿地や貧栄養の湿った草地、湿った砂地に生える。細い茎の先に褐色の小穂を集めてつける。ミカヅキグサの仲間。",
+      "habitat_hint": "日当たりのよい湿地、貧栄養の湿った草地、湿った砂地、湿原。",
+      "finding_tips": "7〜9月、細い茎の先に集まる褐色の小穂を湿地で探します。"
+    },
+    "en": {
+      "summary": "A beak-sedge (Rhynchospora, Cyperaceae) of sunny wetlands, nutrient-poor damp grassland and wet sand, bearing clusters of brown spikelets at the tips of slender stems.",
+      "habitat_hint": "Sunny wetlands, nutrient-poor damp grassland, wet sand, bogs.",
+      "finding_tips": "In July–September look in wetlands for the clusters of brown spikelets at the slender stem tips."
+    },
+    "zh": {
+      "summary": "ムニンイヌノハナヒゲ（皱果刺子莞类，Rhynchospora rugosa）。莎草科刺子莞属多年生草本，生于向阳湿地、贫营养湿润草地及湿沙地，细茎顶端聚生褐色小穗。",
+      "habitat_hint": "向阳湿地、贫营养湿润草地、湿沙地、湿原。",
+      "finding_tips": "7 至 9 月于湿地寻找细茎顶端聚生的褐色小穗。"
+    }
+  },
+  "Riccardia multifida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Comb liverwort",
+    "ja": {
+      "summary": "クシノハスジゴケ。スジゴケ科の葉状体の苔類で、湿った岩や土、腐木、渓流沿いの日陰に生える。葉状体が細かく規則的に羽状〜櫛（くし）状に分岐するのが名の由来。半透明で繊細な姿。",
+      "habitat_hint": "湿った岩、土、腐木、渓流沿いの日陰、水のしみ出す斜面。",
+      "finding_tips": "一年中見られます。細かく櫛状に分岐する半透明の葉状体を、湿った岩や土でルーペで確認します。"
+    },
+    "en": {
+      "summary": "Comb liverwort (Riccardia multifida). A thalloid liverwort (Aneuraceae) of damp rock, soil, rotten wood and shaded streamsides; the thallus branches finely and regularly in a pinnate, comb-like pattern (source of the name), translucent and delicate.",
+      "habitat_hint": "Damp rock, soil, rotten wood, shaded streamsides, seepage slopes.",
+      "finding_tips": "Present year-round; use a lens on damp rock and soil to check the finely comb-branched, translucent thallus."
+    },
+    "zh": {
+      "summary": "クシノハスジゴケ（多裂片叶苔类，Riccardia multifida）。绿片苔科叶状体苔类，生于湿岩、土面、腐木及溪流荫处，叶状体细而规则地羽状至梳状分枝，故名，半透明而纤细。",
+      "habitat_hint": "湿岩、土面、腐木、溪流荫处、渗水坡地。",
+      "finding_tips": "全年可见；用放大镜在湿岩与土上观察细梳状分枝的半透明叶状体。"
+    }
+  },
+  "Rubus hakonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマフユイチゴ。バラ科キイチゴ属の常緑の匍匐性の小低木で、暖地の山地の林床や林縁、岩場を這って広がる。フユイチゴに似るが山地性。秋〜冬、赤い果実が熟し、食べられる。葉の裏に毛が少ない。",
+      "habitat_hint": "暖地の山地の林床、林縁、岩場、谷沿いの半日陰。",
+      "finding_tips": "11〜1月、地を這う常緑の茎と、赤く熟す食べられる果実を山地の林床で探します。"
+    },
+    "en": {
+      "summary": "An evergreen creeping subshrub bramble (Rubus hakonensis, Rosaceae) trailing over montane woodland floor, edges and rocky ground in warm regions; like the winter raspberry but a montane species, its red fruit ripens in autumn to winter and is edible, with sparser hairs on the leaf underside.",
+      "habitat_hint": "Montane woodland floor, edges, rocky ground, valley part-shade in warm regions.",
+      "finding_tips": "In November–January look on montane woodland floor for the creeping evergreen stems and the edible red fruit."
+    },
+    "zh": {
+      "summary": "ミヤマフユイチゴ。蔷薇科悬钩子属常绿匍匐小灌木，于暖地山地林床、林缘与岩地匍匐蔓延，似寒莓而为山地种，秋冬红果成熟可食，叶背毛较少。",
+      "habitat_hint": "暖地山地林床、林缘、岩地、谷地半荫处。",
+      "finding_tips": "11 至 1 月于山地林床寻找匍匐常绿茎及红熟可食的果实。"
+    }
+  },
+  "Salvia glabrescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese woodland sage",
+    "ja": {
+      "summary": "アキギリ。シソ科アキギリ属（サルビア属）の多年草で、山地の林縁や谷沿いの半日陰、やや湿った草地に生える。四角い茎に三角状の葉を対生し、秋、紫色の唇形の花を穂状につける。日本産のサルビアの仲間。",
+      "habitat_hint": "山地の林縁、谷沿いの半日陰、やや湿った草地。",
+      "finding_tips": "9〜10月、四角い茎と三角状の対生葉、紫色の唇形の花が穂状につく姿を山地の半日陰で探します。"
+    },
+    "en": {
+      "summary": "Japanese woodland sage (Salvia glabrescens). A perennial sage (Lamiaceae) of montane woodland edges, valley part-shade and damp grassland; the square stems bear triangular opposite leaves and, in autumn, spikes of purple two-lipped flowers. A native Japanese Salvia.",
+      "habitat_hint": "Montane woodland edges, valley part-shade, damp grassland.",
+      "finding_tips": "In September–October look in montane part-shade for the square stems, triangular opposite leaves and spikes of purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "アキギリ（秋桐鼠尾草，Salvia glabrescens）。唇形科鼠尾草属多年生草本，生于山地林缘、谷地半荫处及略湿草地，四棱茎对生三角状叶，秋季穗状着生紫色唇形花，为日本产鼠尾草类。",
+      "habitat_hint": "山地林缘、谷地半荫处、略湿草地。",
+      "finding_tips": "9 至 10 月于山地半荫处寻找四棱茎、三角状对生叶及穗状紫色唇形花。"
+    }
+  },
+  "Scleria parvula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コシンジュガヤ。カヤツリグサ科シンジュガヤ属の一〜多年草で、日当たりのよい湿地や湿った草地、田の畦に生える。三角形の細い茎を立て、白い真珠のような光沢のある小さな果実（痩果）をつけるのが名の由来。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、田の畦、休耕田。",
+      "finding_tips": "8〜10月、三角形の細い茎と、白い真珠のような光沢のある小さな果実を湿地で探します。"
+    },
+    "en": {
+      "summary": "A nutrush (Scleria, Cyperaceae) of sunny wetlands, damp grassland and paddy banks; it raises slender triangular stems and bears small white, pearl-like glossy nutlets (source of the Japanese name).",
+      "habitat_hint": "Sunny wetlands, damp grassland, paddy banks, fallow wet fields.",
+      "finding_tips": "In August–October look in wetlands for the slender triangular stems and the small white, pearl-like glossy nutlets."
+    },
+    "zh": {
+      "summary": "コシンジュガヤ。莎草科珍珠茅属一至多年生草本，生于向阳湿地、湿润草地及田埂，茎细三棱，结白色如珍珠而有光泽的小坚果，故名。",
+      "habitat_hint": "向阳湿地、湿润草地、田埂、休耕田。",
+      "finding_tips": "8 至 10 月于湿地寻找细三棱茎及白色如珍珠有光泽的小坚果。"
+    }
+  },
+  "Scleroderma areolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leopard earthball",
+    "ja": {
+      "summary": "ヒメカタショウロ。ニセショウロ科の担子菌で、夏〜秋に林縁や道端、公園の地上、樹の根元に発生する。球形で硬い皮に包まれ、表面に細かい鱗片状の斑紋がある。成熟すると内部が黒紫色の胞子塊になる。有毒なので食べない。",
+      "habitat_hint": "夏〜秋の林縁、道端、公園の地上、樹の根元。",
+      "finding_tips": "7〜10月、地上の球形で硬い皮のキノコと、表面の細かい鱗片状の斑紋を探します。有毒。食用不可。"
+    },
+    "en": {
+      "summary": "Leopard earthball (Scleroderma areolatum). A basidiomycete (Sclerodermataceae) fruiting on the ground at woodland edges, roadsides, park ground and tree bases in summer to autumn; a hard-skinned ball with fine scaly markings on the surface, its interior maturing to a blackish-purple spore mass. Poisonous — do not eat.",
+      "habitat_hint": "Woodland edges, roadsides, park ground, tree bases; summer to autumn.",
+      "finding_tips": "In July–October look on the ground for the hard-skinned ball with fine scaly markings. Poisonous — inedible."
+    },
+    "zh": {
+      "summary": "ヒメカタショウロ（点疣硬皮马勃，Scleroderma areolatum）。硬皮马勃科担子菌，夏秋发生于林缘、路旁、公园地面及树基，球形、皮硬、表面具细密鳞片状斑纹，成熟后内部为黑紫色孢体，有毒，不可食。",
+      "habitat_hint": "夏秋林缘、路旁、公园地面、树基。",
+      "finding_tips": "7 至 10 月于地面寻找皮硬、表面具细鳞斑的球形菌；有毒，不可食。"
+    }
   }
 }
