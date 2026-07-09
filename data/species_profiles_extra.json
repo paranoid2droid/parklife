@@ -217808,5 +217808,429 @@
       "habitat_hint": "山地谷地、溪流沿岸湿润林床、渗水岩际、湿润荫处。",
       "finding_tips": "3 至 5 月于湿润林床寻找被金黄色萼苞环绕的小花簇；地表匍匐枝为线索。"
     }
+  },
+  "Calvatia cyathiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スミレホコリタケ。ホコリタケの仲間の担子菌で、夏〜秋に草地や芝地、牧草地、公園の地上に発生する。大型で球形〜洋なし形の白い子実体をつくり、成熟すると内部が紫色を帯びた胞子塊になる。若く中身が白く締まっている時期以外は食用にしない。",
+      "habitat_hint": "夏〜秋の草地、芝地、牧草地、公園の地上。",
+      "finding_tips": "7〜10月、草地で大型の球形〜洋なし形の白いキノコを探します。成熟すると紫色の胞子を出す点が手がかり。"
+    },
+    "en": {
+      "summary": "Purple-spored puffball (Calvatia cyathiformis). A basidiomycete fruiting on grassland, lawns, pasture and park ground in summer to autumn; it forms a large white spherical to pear-shaped body that matures to a purplish spore mass inside. Eaten only when young and firm-white within.",
+      "habitat_hint": "Grassland, lawns, pasture, park ground; summer to autumn.",
+      "finding_tips": "In July–October look on grassland for the large white spherical to pear-shaped fungus; the purple spores at maturity are the clue."
+    },
+    "zh": {
+      "summary": "スミレホコリタケ（杯形秃马勃，Calvatia cyathiformis）。马勃类担子菌，夏秋发生于草地、草坪、牧场及公园地面，子实体大型、球至梨形、白色，成熟后内部为带紫色的孢体；仅幼嫩内白紧实时可食。",
+      "habitat_hint": "夏秋草地、草坪、牧场、公园地面。",
+      "finding_tips": "7 至 10 月于草地寻找大型球至梨形白色菌；成熟释放紫色孢子为线索。"
+    }
+  },
+  "Carex pachygyna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ササノハスゲ。カヤツリグサ科スゲ属の多年草で、山地の落葉樹林の林床や林縁、やや湿った斜面に生える。笹の葉のようにやや幅のある葉をつけ、細い雌小穂を垂らしてつける。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った斜面、沢沿い。",
+      "finding_tips": "5〜7月、笹の葉のようにやや幅のある葉と、細く垂れ下がる雌小穂を林床で探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Cyperaceae) of montane deciduous woodland floor, edges and damp slopes; it has somewhat broad, bamboo-leaf-like leaves and hangs slender female spikes.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, damp slopes, streamsides.",
+      "finding_tips": "In May–July look on the woodland floor for the somewhat broad bamboo-leaf-like leaves and the slender drooping female spikes."
+    },
+    "zh": {
+      "summary": "ササノハスゲ。莎草科薹草属多年生草本，生于山地落叶林林床、林缘及略湿坡地，叶略宽如竹叶，雌小穗细而下垂。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿坡地、沟谷。",
+      "finding_tips": "5 至 7 月于林床寻找略宽如竹叶的叶及细而下垂的雌小穗。"
+    }
+  },
+  "Cephalanthera longifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クゲヌマラン。ラン科キンラン属の地生ランで、海岸近くの松林や日当たりのよい林縁、草地に生える。ギンランに似て、白い花を茎の先に数個つける。距がごく短いか目立たない。近年は生育地の減少で希少。",
+      "habitat_hint": "海岸近くの松林、日当たりのよい林縁、草地、砂地の疎林。",
+      "finding_tips": "5〜6月、白い花を数個つける姿を松林や林縁で探します。ギンランに似るが距が目立たない点が手がかり。"
+    },
+    "en": {
+      "summary": "Narrow-leaved helleborine (Cephalanthera longifolia). A terrestrial orchid (Orchidaceae) of coastal pine woods, sunny woodland edges and grassland; like the silver orchid, it bears a few white flowers at the stem top, with a very short or inconspicuous spur. Now scarce as its habitats decline.",
+      "habitat_hint": "Coastal pine woods, sunny woodland edges, grassland, open sandy woodland.",
+      "finding_tips": "In May–June look in pine woods and woodland edges for the few white flowers; the inconspicuous spur distinguishes it from the silver orchid."
+    },
+    "zh": {
+      "summary": "クゲヌマラン（长叶头蕊兰，Cephalanthera longifolia）。兰科头蕊兰属地生兰，生于近海松林、向阳林缘与草地，似银兰，茎顶开数朵白花，距极短或不显，近年因生境减少而稀少。",
+      "habitat_hint": "近海松林、向阳林缘、草地、沙地疏林。",
+      "finding_tips": "5 至 6 月于松林与林缘寻找数朵白花；距不显可与银兰区别。"
+    }
+  },
+  "Chrysosplenium fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホクリクネコノメ。ユキノシタ科ネコノメソウ属の多年草で、山地の谷沿いや渓流沿いの湿った林床、水のしみ出す岩際に生える。早春、黄緑色〜黄色の萼と苞に囲まれた小花を密につける。北陸地方に多い。地を這う走出枝で広がる。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、水のしみ出す岩際、湿った日陰。",
+      "finding_tips": "3〜5月、湿った林床で黄緑色〜黄色の萼と苞に囲まれた小花の集まりを探します。地を這う走出枝が手がかり。"
+    },
+    "en": {
+      "summary": "A golden saxifrage (Chrysosplenium fauriei, Saxifragaceae) of montane valleys, damp streamside woodland floor and seepage-wet rock; in early spring it packs small flowers ringed by yellow-green to yellow sepals and bracts, spreading by surface runners. Common in the Hokuriku region.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, seepage-wet rock, damp shade.",
+      "finding_tips": "In March–May look on damp woodland floor for the clusters of small flowers ringed by yellow-green to yellow sepals and bracts; the creeping runners are the clue."
+    },
+    "zh": {
+      "summary": "ホクリクネコノメ。虎耳草科金腰属多年生草本，生于山地谷地、溪流沿岸湿润林床及渗水岩际，早春密生被黄绿至黄色萼与苞环绕的小花，借地表匍匐枝蔓延，多见于北陆地区。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、渗水岩际、湿润荫处。",
+      "finding_tips": "3 至 5 月于湿润林床寻找被黄绿至黄色萼苞环绕的小花簇；地表匍匐枝为线索。"
+    }
+  },
+  "Clerodendrum bungei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ボタンクサギ。中国原産のシソ科（旧クマツヅラ科）クサギ属の落葉低木で、観賞用に栽培され、道端や庭、林縁に野生化する。夏、紅紫色の小花が半球状に密集した大きな花序をつけ、牡丹のように見える。葉をもむと独特の臭気がある。",
+      "habitat_hint": "道端、庭、林縁、公園、やや湿った半日陰。",
+      "finding_tips": "7〜9月、紅紫色の小花が半球状に密集した大きな花序を探します。葉をもむと臭気がある点が手がかり。"
+    },
+    "en": {
+      "summary": "Rose glorybower (Clerodendrum bungei). A Chinese deciduous shrub (Lamiaceae, formerly Verbenaceae) grown as an ornamental and naturalised on roadsides, gardens and woodland edges; in summer it bears large hemispherical heads of densely packed rose-purple flowers, peony-like, and the leaves have a distinctive smell when crushed.",
+      "habitat_hint": "Roadsides, gardens, woodland edges, parks, damp part-shade.",
+      "finding_tips": "In July–September look for the large hemispherical heads of densely packed rose-purple flowers; the leaves smell distinctive when crushed."
+    },
+    "zh": {
+      "summary": "ボタンクサギ（臭牡丹，Clerodendrum bungei）。原产中国的唇形科（旧马鞭草科）大青属落叶灌木，作观赏栽培并野化于路旁、庭园与林缘，夏季红紫色小花半球状密集成大型花序、状如牡丹，叶揉之有特殊气味。",
+      "habitat_hint": "路旁、庭园、林缘、公园、略湿半荫处。",
+      "finding_tips": "7 至 9 月寻找红紫色小花半球状密集的大型花序；叶揉之有特殊气味为线索。"
+    }
+  },
+  "Cornopteris christenseniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハコネシケチシダ。イワデンダ科（旧メシダ科）シケチシダ属の夏緑性シダで、山地の谷沿いや渓流沿いの湿った林床、水のしみ出す斜面に生える。2回羽状に分かれた柔らかい大きな葉をつける。湿った日陰を好む。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、水のしみ出す斜面。",
+      "finding_tips": "夏〜秋、2回羽状に分かれた柔らかい大きな葉を、湿った谷沿いの林床で探します。"
+    },
+    "en": {
+      "summary": "A summer-green fern (Athyriaceae) of damp montane valley and streamside woodland floor and seepage slopes; it has large, soft, twice-pinnate fronds and favours damp shade.",
+      "habitat_hint": "Damp montane valley and streamside woodland floor, seepage slopes.",
+      "finding_tips": "In summer–autumn look in damp valley woodland for the large, soft, twice-pinnate fronds."
+    },
+    "zh": {
+      "summary": "ハコネシケチシダ。蹄盖蕨科（旧）角蕨属夏绿性蕨类，生于山地谷地、溪流沿岸湿润林床及渗水坡，叶大二回羽状而柔软，喜湿润荫处。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、渗水坡。",
+      "finding_tips": "夏至秋于湿润谷地林床寻找二回羽状、柔软的大叶。"
+    }
+  },
+  "Corydalis ambigua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Corydalis",
+    "ja": {
+      "summary": "エゾエンゴサク。ケシ科キケマン属の多年草で、北海道〜本州の山地の林床や林縁、河畔林に生える春の妖精（スプリング・エフェメラル）。雪解けとともに、青紫色〜空色の距のある花を総状につけ、初夏には地上部が枯れる。地下に塊茎をもつ。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、河畔林、雪解け跡の斜面。",
+      "finding_tips": "4〜5月、雪解け後の林床で青紫色〜空色の距のある花が総状につく姿を探します。初夏には枯れる春植物。"
+    },
+    "en": {
+      "summary": "A spring-ephemeral corydalis (Corydalis ambigua, Papaveraceae) of montane woodland floor, edges and riverine woods from Hokkaido to Honshu; with snow-melt it bears racemes of spurred blue-purple to sky-blue flowers and dies back to a tuber by early summer.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, riverine woods, snow-melt slopes.",
+      "finding_tips": "In April–May look on the woodland floor after snow-melt for the racemes of spurred blue-purple to sky-blue flowers; a spring plant that dies back by early summer."
+    },
+    "zh": {
+      "summary": "エゾエンゴサク（蓝紫延胡索类，Corydalis ambigua）。罂粟科紫堇属多年生草本，为北海道至本州山地林床、林缘与河岸林的早春短命植物，融雪后总状开具距的蓝紫至天蓝色花，初夏地上部枯萎，地下具块茎。",
+      "habitat_hint": "山地落叶林林床、林缘、河岸林、融雪迹坡地。",
+      "finding_tips": "4 至 5 月于融雪后林床寻找总状排列、具距的蓝紫至天蓝色花；初夏枯萎的春季植物。"
+    }
+  },
+  "Crepidiastrum keiskeanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アゼトウナ。キク科アゼトウナ属の多年草で、暖地の海岸の崖や岩場に生える。厚みのあるへら形の葉をロゼット状につけ、秋、黄色いタンポポに似た頭花を咲かせる。海岸性で潮風に強い。",
+      "habitat_hint": "暖地の海岸の崖、岩場、砂地、海に近い草地。",
+      "finding_tips": "10〜12月、海岸の岩場で厚いへら形の葉のロゼットと、黄色いタンポポに似た頭花を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Asteraceae) of warm-region coastal cliffs and rocky ground; it forms rosettes of thick spoon-shaped leaves and opens dandelion-like yellow flowerheads in autumn, tolerant of salt spray.",
+      "habitat_hint": "Warm-region coastal cliffs, rocky ground, sand, grassland near the sea.",
+      "finding_tips": "In October–December look on coastal rocks for the rosette of thick spoon-shaped leaves and the dandelion-like yellow flowerheads."
+    },
+    "zh": {
+      "summary": "アゼトウナ。菊科假还阳参属多年生草本，生于暖地海岸崖壁与岩地，厚匙形叶呈莲座状，秋开似蒲公英的黄色头状花，耐海风盐雾。",
+      "habitat_hint": "暖地海岸崖壁、岩地、沙地、近海草地。",
+      "finding_tips": "10 至 12 月于海岸岩地寻找厚匙形叶的莲座及似蒲公英的黄色头状花。"
+    }
+  },
+  "Cyclocybe erebia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark fieldcap",
+    "ja": {
+      "summary": "ツチナメコ。モエギタケ科（またはナヨタケ科）のキノコで、春や秋に林縁や道端、公園、庭の地上や腐植質の上に群生する。褐色〜暗褐色のぬめりのある傘と、つばのある柄をもつ。ナメコに似た地上生のキノコ。",
+      "habitat_hint": "春・秋の林縁、道端、公園、庭の地上や腐植質、木質チップ。",
+      "finding_tips": "春・秋、地上に群生する褐色〜暗褐色でぬめりのある傘と、柄のつばを探します。"
+    },
+    "en": {
+      "summary": "Dark fieldcap (Cyclocybe erebia). A fungus (Strophariaceae) clustering on the ground and humus at woodland edges, roadsides, parks and gardens in spring and autumn; it has a brown to dark-brown slimy cap and a ringed stem, a ground-dwelling relative of nameko.",
+      "habitat_hint": "Ground and humus at woodland edges, roadsides, parks and gardens; wood chips; spring and autumn.",
+      "finding_tips": "In spring and autumn look for the clustered brown to dark-brown slimy caps on the ground and the ring on the stem."
+    },
+    "zh": {
+      "summary": "ツチナメコ（暗色田头菇，Cyclocybe erebia）。球盖菇科（或小脆柄菇科）真菌，春秋丛生于林缘、路旁、公园与庭园地面及腐殖质上，菌盖褐至暗褐色、具黏性，柄具菌环，为似滑菇的地生菌。",
+      "habitat_hint": "春秋林缘、路旁、公园、庭园地面及腐殖质、木屑。",
+      "finding_tips": "春秋寻找地面丛生、褐至暗褐色具黏性的菌盖及柄上菌环。"
+    }
+  },
+  "Cyrtomium macrophyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large-leaf holly fern",
+    "aliases": {
+      "zh-Hans": "大叶贯众"
+    },
+    "ja": {
+      "summary": "ヒロハヤブソテツ。オシダ科ヤブソテツ属の常緑性シダで、山地の谷沿いや渓流沿いの湿った林床、石垣、岩場に生える。単羽状に分かれた葉に、幅の広い光沢のある小葉（羽片）をつける。ヤブソテツの仲間で羽片が大きい。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、石垣、岩場。",
+      "finding_tips": "一年中見られます。単羽状で幅の広い光沢のある羽片をもつ葉を、湿った谷沿いの林床や石垣で探します。"
+    },
+    "en": {
+      "summary": "Large-leaf holly fern (Cyrtomium macrophyllum). An evergreen fern (Dryopteridaceae) of montane valleys, damp streamside woodland floor, stone walls and rocky ground; the once-pinnate frond bears broad, glossy leaflets (pinnae), larger than in related holly ferns.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, stone walls, rocky ground.",
+      "finding_tips": "Present year-round; look for the once-pinnate frond with broad, glossy pinnae on damp valley woodland floor and walls."
+    },
+    "zh": {
+      "summary": "ヒロハヤブソテツ（大叶贯众，Cyrtomium macrophyllum）。鳞毛蕨科贯众属常绿蕨类，生于山地谷地、溪流沿岸湿润林床、石墙与岩地，叶一回羽状、羽片宽大而有光泽，较近缘贯众羽片大。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、石墙、岩地。",
+      "finding_tips": "全年可见；在湿润谷地林床与石墙上寻找一回羽状、羽片宽大有光泽的叶。"
+    }
+  },
+  "Diabelia sanguinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ベニバナノツクバネウツギ。スイカズラ科ツクバネウツギ属（旧アベリア属）の落葉低木で、山地の林縁や岩場、明るい斜面に生える。初夏、紅色〜淡紅色の筒状の花を枝に多数つける。ツクバネウツギに似るが花が紅色を帯びる。",
+      "habitat_hint": "山地の林縁、岩場、明るい斜面、やや乾いた尾根。",
+      "finding_tips": "5〜6月、枝に多数つく紅色〜淡紅色の筒状の花を探します。萼片が羽根つきの羽根（衝羽根）状になる果実も手がかり。"
+    },
+    "en": {
+      "summary": "A deciduous shrub (Diabelia sanguinea, Caprifoliaceae) of montane woodland edges, rocky ground and open slopes; in early summer it bears many red to pink tubular flowers along the branches. Like the abelia but with reddish flowers.",
+      "habitat_hint": "Montane woodland edges, rocky ground, open slopes, drier ridges.",
+      "finding_tips": "In May–June look for the many red to pink tubular flowers along the branches; the shuttlecock-like persistent sepals on the fruit are another clue."
+    },
+    "zh": {
+      "summary": "ベニバナノツクバネウツギ。忍冬科糯米条属（旧六道木属）落叶灌木，生于山地林缘、岩地与开阔坡地，初夏枝上密生红至淡红色筒状花，似糯米条而花带红色。",
+      "habitat_hint": "山地林缘、岩地、开阔坡地、较干山脊。",
+      "finding_tips": "5 至 6 月寻找枝上密生的红至淡红色筒状花；果上宿存萼片似羽毛球亦为线索。"
+    }
+  },
+  "Dianella ensifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flax lily",
+    "aliases": {
+      "zh-Hans": "山菅兰"
+    },
+    "ja": {
+      "summary": "キキョウラン。ススキノキ科（旧ユリ科）キキョウラン属の常緑の多年草で、暖地（南西諸島など）の海岸近くの林縁や草地、林床に生える。剣状の細長い葉を根生し、夏、淡紫色の小さな花を咲かせ、光沢のある藍色の果実をつける。",
+      "habitat_hint": "暖地（南西諸島など）の海岸近くの林縁、草地、林床、崖。",
+      "finding_tips": "6〜8月、剣状の細長い葉と、淡紫色の小花、光沢のある藍色の果実を探します。"
+    },
+    "en": {
+      "summary": "Flax lily (Dianella ensifolia). An evergreen perennial (Asphodelaceae, formerly Liliaceae) of warm-region (e.g. the Ryukyus) coastal woodland edges, grassland and forest floor; it has sword-like basal leaves, small pale-purple summer flowers and glossy blue-violet berries.",
+      "habitat_hint": "Coastal woodland edges, grassland, forest floor, cliffs in warm regions (e.g. the Ryukyus).",
+      "finding_tips": "In June–August look for the sword-like basal leaves, small pale-purple flowers and glossy blue-violet berries."
+    },
+    "zh": {
+      "summary": "キキョウラン（山菅兰，Dianella ensifolia）。阿福花科（旧百合科）山菅属常绿多年生草本，生于暖地（如琉球群岛）近海林缘、草地与林床，叶剑状基生，夏开淡紫色小花，结有光泽的蓝紫色浆果。",
+      "habitat_hint": "暖地（如琉球群岛）近海林缘、草地、林床、崖壁。",
+      "finding_tips": "6 至 8 月寻找剑状基生叶、淡紫色小花及有光泽的蓝紫色浆果。"
+    }
+  },
+  "Dryopteris commixta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシイワヘゴ。オシダ科オシダ属の常緑性シダで、山地の谷沿いや渓流沿いの湿った林床、岩場に生える。2回羽状に分かれた大きな革質の葉をつける。暖地の湿った林内に多い。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、岩場、石垣。",
+      "finding_tips": "一年中見られます。2回羽状に分かれた大きな革質の葉と、葉裏の円形の胞子嚢群を湿った林床で探します。"
+    },
+    "en": {
+      "summary": "An evergreen wood fern (Dryopteris commixta, Dryopteridaceae) of montane valleys, damp streamside woodland floor and rocky ground; it has large, twice-pinnate, leathery fronds and is common in damp warm-region forest.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, rocky ground, stone walls.",
+      "finding_tips": "Present year-round; look for the large, twice-pinnate leathery fronds and the round sori beneath on damp woodland floor."
+    },
+    "zh": {
+      "summary": "ツクシイワヘゴ。鳞毛蕨科鳞毛蕨属常绿蕨类，生于山地谷地、溪流沿岸湿润林床与岩地，叶大二回羽状、革质，多见于暖地湿润林内。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、岩地、石墙。",
+      "finding_tips": "全年可见；于湿润林床寻找二回羽状、革质的大叶及叶背圆形孢子囊群。"
+    }
+  },
+  "Eriophorum vaginatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hare's-tail cottongrass",
+    "aliases": {
+      "zh-Hans": "白毛羊胡子草"
+    },
+    "ja": {
+      "summary": "ワタスゲ。カヤツリグサ科ワタスゲ属の多年草で、高層湿原やミズゴケ湿地に群生する。花後、果実に白い綿毛が密生し、球状の白い綿帽子となって風に揺れる姿が湿原の名物。株になって生える。",
+      "habitat_hint": "高層湿原、ミズゴケ湿地、貧栄養の湿った草地。",
+      "finding_tips": "6〜7月、湿原で白い綿毛が球状に密生した果穂（綿帽子）が一面に風に揺れる姿を探します。"
+    },
+    "en": {
+      "summary": "Hare's-tail cottongrass (Eriophorum vaginatum). A perennial sedge (Cyperaceae) forming tussocks in raised bogs and Sphagnum mires; after flowering the fruits are densely clothed in white cotton, forming round white cotton-heads that sway in the wind — a highlight of bogs.",
+      "habitat_hint": "Raised bogs, Sphagnum mires, nutrient-poor damp grassland.",
+      "finding_tips": "In June–July look across bogs for the round white cotton-heads of fruits swaying in the wind."
+    },
+    "zh": {
+      "summary": "ワタスゲ（白毛羊胡子草，Eriophorum vaginatum）。莎草科羊胡子草属多年生草本，成丛（草丘）生于高位泥炭沼与泥炭藓沼泽，花后果实密被白色绵毛、成球状白絮随风摇曳，为湿原名景。",
+      "habitat_hint": "高位泥炭沼、泥炭藓沼泽、贫营养湿润草地。",
+      "finding_tips": "6 至 7 月于湿原寻找满地随风摇曳、球状白色绵毛的果穗。"
+    }
+  },
+  "Ganoderma australe": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオミノコフキタケ。マンネンタケ科の多年生の硬い多孔菌で、広葉樹の生木や枯木、切株に発生する。大型の半円形の傘は褐色〜暗褐色で、表面に胞子（ココア色の粉）を積もらせる。木材腐朽菌で、樹木を弱らせることもある。",
+      "habitat_hint": "公園や街路の広葉樹の幹の基部、枯木、切株。",
+      "finding_tips": "一年中見られます。樹の根元につく大型の半円形の褐色の傘と、表面に積もるココア色の胞子粉を探します。"
+    },
+    "en": {
+      "summary": "Southern bracket (Ganoderma australe). A perennial, hard bracket fungus (Ganodermataceae) on living and dead broadleaf trees and stumps; the large semicircular cap is brown to dark brown, its surface dusted with cocoa-coloured spores. A wood-rotter that can weaken trees.",
+      "habitat_hint": "Trunk bases, dead wood and stumps of broadleaf trees in parks and streets.",
+      "finding_tips": "Present year-round; look at tree bases for the large semicircular brown cap dusted with cocoa-coloured spore powder."
+    },
+    "zh": {
+      "summary": "オオミノコフキタケ（南方灵芝，Ganoderma australe）。灵芝科多年生硬质多孔菌，发生于阔叶活立木、枯木及树桩，菌盖大型半圆形、褐至暗褐色，表面积覆可可色孢子粉，为木材腐朽菌、可致树势衰弱。",
+      "habitat_hint": "公园与街道阔叶树干基、枯木、树桩。",
+      "finding_tips": "全年可见；在树基寻找大型半圆形褐色菌盖及表面积覆的可可色孢子粉。"
+    }
+  },
+  "Gari elongata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sunset clam",
+    "ja": {
+      "summary": "マスオガイ。ニッコウガイ科（またはアシガイ科）の二枚貝で、内湾や河口の砂泥質の干潟・浅海の底に潜ってすむ。殻はやや細長い長楕円形で、白色〜淡紅色を帯びる。水管を伸ばして海底の有機物を食べる。",
+      "habitat_hint": "内湾・河口の砂泥質の干潟、浅海の砂泥底。",
+      "finding_tips": "一年中、内湾や河口の砂泥の干潟を掘ると出てくる、やや細長い白〜淡紅色の二枚貝を探します。"
+    },
+    "en": {
+      "summary": "A sunset clam (Psammobiidae) of the sandy-muddy bottom of intertidal flats and shallow water in sheltered bays and estuaries, burrowing in the sediment; the somewhat elongate oval shell is white to pinkish, and it feeds on seabed organic matter through its siphons.",
+      "habitat_hint": "Sandy-muddy intertidal flats and shallow sea bottom of sheltered bays and estuaries.",
+      "finding_tips": "Year-round dig the sandy-muddy flats of sheltered bays and estuaries for the somewhat elongate white-to-pinkish clam."
+    },
+    "zh": {
+      "summary": "マスオガイ（紫云蛤类，Gari elongata）。紫云蛤科双壳类，栖于内湾与河口砂泥质潮间带及浅海底，潜于底质，壳略细长呈长椭圆、白至淡红色，以水管取食海底有机质。",
+      "habitat_hint": "内湾与河口砂泥质潮间带、浅海砂泥底。",
+      "finding_tips": "全年于内湾河口砂泥滩涂挖掘寻找略细长、白至淡红色的双壳贝。"
+    }
+  },
+  "Grona heterocarpos": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian tick-trefoil",
+    "aliases": {
+      "zh-Hans": "假地豆"
+    },
+    "ja": {
+      "summary": "シバハギ。マメ科（旧ヌスビトハギ属）の多年草〜小低木で、暖地の日当たりのよい草地や道端、林縁に生える。3枚の小葉をつけ、夏〜秋に淡紅紫色の小さな蝶形の花を穂状につける。果実は節ごとにくびれ、衣服にくっつく（ひっつき虫）。",
+      "habitat_hint": "暖地の日当たりのよい草地、道端、林縁、河原。",
+      "finding_tips": "8〜10月、3枚の小葉と、淡紅紫色の小さな蝶形花の穂、節ごとにくびれて衣服につく果実を探します。"
+    },
+    "en": {
+      "summary": "Asian tick-trefoil (Grona heterocarpos, formerly Desmodium). A perennial to subshrub (Fabaceae) of sunny warm-region grassland, roadsides and woodland edges; it has three leaflets and bears spikes of small pale rose-purple pea flowers in late summer to autumn, its jointed pods clinging to clothing.",
+      "habitat_hint": "Sunny warm-region grassland, roadsides, woodland edges, riverbanks.",
+      "finding_tips": "In August–October look for the three leaflets, the spikes of small pale rose-purple pea flowers and the jointed pods that stick to clothes."
+    },
+    "zh": {
+      "summary": "シバハギ（假地豆，Grona heterocarpos）。豆科（旧山蚂蝗属）多年生草本至小灌木，生于暖地向阳草地、路旁与林缘，具三小叶，夏末至秋穗状着生淡玫紫色蝶形小花，荚果逐节收缢、易附衣物。",
+      "habitat_hint": "暖地向阳草地、路旁、林缘、河滩。",
+      "finding_tips": "8 至 10 月寻找三小叶、淡玫紫色蝶形小花穗及逐节收缢、易附衣物的荚果。"
+    }
+  },
+  "Ilyoplax pusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sentinel crab",
+    "ja": {
+      "summary": "チゴガニ。スナガニの仲間（コメツキガニ科）の小型のカニで、内湾や河口の砂泥質の干潟にすむ。オスは白い大きなはさみを持ち、両方のはさみを上下に振る「ウェービング（万歳踊り）」で求愛する。集団で巣穴の周りに現れる。",
+      "habitat_hint": "内湾・河口の砂泥質の干潟、汽水域の湿地。",
+      "finding_tips": "初夏〜夏、干潟で、オスが両方の白いはさみを上下に振る「万歳踊り」をする小さなカニを探します。近づくと巣穴に逃げる。"
+    },
+    "en": {
+      "summary": "A small crab (Dotillidae) of intertidal sandy-mud flats in sheltered bays and estuaries; the male has white claws and courts by waving both claws up and down in a \"banzai\" display, appearing in groups around the burrows.",
+      "habitat_hint": "Sandy-muddy intertidal flats of sheltered bays and estuaries, brackish wetlands.",
+      "finding_tips": "In early summer to summer look on mudflats for the small crab waving both white claws up and down; they dart into burrows as you approach."
+    },
+    "zh": {
+      "summary": "チゴガニ（和尚蟹类小蟹，Ilyoplax pusilla）。股窗蟹科小型蟹，栖于内湾与河口砂泥质潮间带滩涂，雄蟹具白色大螯，以双螯上下挥舞的「万岁舞」求偶，常成群出现于洞穴周围。",
+      "habitat_hint": "内湾与河口砂泥质潮间带滩涂、咸淡水湿地。",
+      "finding_tips": "初夏至夏于泥滩寻找双白螯上下挥舞「万岁舞」的小蟹；靠近时钻入洞穴。"
+    }
+  },
+  "Lanius cristatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Brown shrike",
+    "aliases": {
+      "zh-Hans": "红尾伯劳"
+    },
+    "ja": {
+      "summary": "アカモズ。モズ科の小型の鳥で、明るい林縁や河畔林、農地周辺の低木のある草地に生息する。頭から背にかけて赤褐色を帯び、目を横切る黒い過眼線がある。夏鳥として渡来し繁殖する。捕らえた獲物を枝に刺す「はやにえ」の習性がある。近年は減少し希少。",
+      "habitat_hint": "明るい林縁、河畔林、農地周辺の低木のある草地、高原。",
+      "finding_tips": "5〜9月、低木の枝先にとまり、赤褐色の体と黒い過眼線をもつ小鳥を探します。獲物を枝に刺す「はやにえ」も手がかり。"
+    },
+    "en": {
+      "summary": "Brown shrike (Lanius cristatus). A small bird (Laniidae) of bright woodland edges, riverine woods and shrubby grassland near farmland; reddish-brown from crown to back with a black mask through the eye. A summer visitor that breeds here and impales prey on twigs (\"larders\"). It has declined and become scarce.",
+      "habitat_hint": "Bright woodland edges, riverine woods, shrubby grassland near farmland, highlands.",
+      "finding_tips": "From May to September look for the small bird perched on shrub tops with a reddish-brown body and black eye-mask; impaled prey on twigs is another clue."
+    },
+    "zh": {
+      "summary": "アカモズ（红尾伯劳，Lanius cristatus）。伯劳科小型鸟，栖于明亮林缘、河岸林及农地周边具灌丛的草地，头背带红褐色、具黑色贯眼纹，为夏候鸟、在此繁殖，有将猎物刺于枝条的「插食」习性，近年减少而稀少。",
+      "habitat_hint": "明亮林缘、河岸林、农地周边灌丛草地、高原。",
+      "finding_tips": "5 至 9 月寻找停于灌丛顶、体红褐、具黑贯眼纹的小鸟；枝上插食的猎物亦为线索。"
+    }
   }
 }
