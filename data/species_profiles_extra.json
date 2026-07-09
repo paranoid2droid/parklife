@@ -221724,5 +221724,427 @@
       "habitat_hint": "池沼、河流缓流处、灌溉渠、涌泉水底落叶与石间。",
       "finding_tips": "全年捞取水底落叶与石块寻找体扁平、灰褐色的小型等足类（似潮虫的甲壳动物）。"
     }
+  },
+  "Alternanthera denticulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバツルノゲイトウ。ヒユ科ツルノゲイトウ属の一〜多年草で、水田や湿地、溝の縁、湿った空き地に生える。地を這って広がり、対生する細長い葉をつけ、葉腋に白い小さな球状の花序をつける。ツルノゲイトウ（外来のナガエツルノゲイトウ）の仲間。",
+      "habitat_hint": "水田、湿地、溝の縁、湿った空き地、休耕田。",
+      "finding_tips": "8〜10月、地を這う茎と対生する細長い葉、葉腋の白い小さな球状の花を水辺で探します。"
+    },
+    "en": {
+      "summary": "An alligatorweed relative (Alternanthera denticulata, Amaranthaceae), an annual to perennial of paddy fields, wetlands, ditch margins and damp waste ground; it creeps over the ground with narrow opposite leaves and small white globular flower-clusters in the leaf axils.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, damp waste ground, fallow wet fields.",
+      "finding_tips": "In August–October look at the waterside for the creeping stems, narrow opposite leaves and small white globular flower-clusters in the leaf axils."
+    },
+    "zh": {
+      "summary": "ホソバツルノゲイトウ。苋科莲子草属一至多年生草本，生于水田、湿地、沟缘及湿润空地，匍匐蔓延，对生狭长叶，叶腋着生白色球状小花序，为莲子草类。",
+      "habitat_hint": "水田、湿地、沟缘、湿润空地、休耕田。",
+      "finding_tips": "8 至 10 月于水边寻找匍匐茎、对生狭长叶及叶腋白色球状小花序。"
+    }
+  },
+  "Calamagrostis sachalinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タカネノガリヤス。イネ科ノガリヤス属の多年草で、亜高山〜高山帯の草地や礫地、岩場、明るい林縁に生える。細い茎を立て、まばらな円錐花序に芒のある小穂をつける。高山性のノガリヤスの仲間。",
+      "habitat_hint": "亜高山〜高山帯の草地、礫地、岩場、明るい林縁。",
+      "finding_tips": "7〜9月、細い茎とまばらな円錐花序、芒のある小穂を高山の草地で探します。"
+    },
+    "en": {
+      "summary": "A reedgrass (Calamagrostis, Poaceae) of subalpine to alpine grassland, gravelly ground, rocky ground and bright woodland edges; slender-stemmed, it bears awned spikelets in a sparse panicle. A high-mountain reedgrass.",
+      "habitat_hint": "Subalpine to alpine grassland, gravelly ground, rocky ground, bright woodland edges.",
+      "finding_tips": "In July–September look on alpine grassland for the slender stems and the awned spikelets in a sparse panicle."
+    },
+    "zh": {
+      "summary": "タカネノガリヤス。禾本科野青茅属多年生草本，生于亚高山至高山草甸、砾地、岩地及明亮林缘，茎细，稀疏圆锥花序着生具芒小穗，为高山野青茅类。",
+      "habitat_hint": "亚高山至高山草甸、砾地、岩地、明亮林缘。",
+      "finding_tips": "7 至 9 月于高山草甸寻找细茎、稀疏圆锥花序及具芒小穗。"
+    }
+  },
+  "Calypogeia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フソウツキヌキゴケ。ツキヌキゴケ科の葉状苔類で、湿った林床の土や腐木、道の切り通し、渓流沿いの日陰に生える。丸みのある葉が茎の左右に並ぶ。淡緑色の薄いマットをつくり、無性芽をつけて増える。",
+      "habitat_hint": "湿った林床の土、腐木、道の切り通し、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。丸みのある葉が茎の左右に並ぶ淡緑の薄いマットを、湿った土や腐木でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Calypogeiaceae) of damp woodland soil, rotten wood, road cuttings and shaded streamsides; the rounded leaves are set in two ranks, forming thin pale-green mats, and it spreads by gemmae.",
+      "habitat_hint": "Damp woodland soil, rotten wood, road cuttings, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens on damp soil and rotten wood to check the thin pale-green mats of two-ranked rounded leaves."
+    },
+    "zh": {
+      "summary": "フソウツキヌキゴケ。护蒴苔科（Calypogeiaceae）叶状苔类，生于湿润林床土壤、腐木、路堑及溪流荫处，叶圆钝、沿茎两列排列，形成淡绿薄垫，以无性芽繁殖。",
+      "habitat_hint": "湿润林床土壤、腐木、路堑、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜在湿土与腐木上观察两列排列的圆钝叶淡绿薄垫。"
+    }
+  },
+  "Carex humilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバヒカゲスゲ。カヤツリグサ科スゲ属の小さな多年草で、山地の日当たりのよい草地や岩場、乾いた斜面、林縁に生える。背が低く、細い葉を束生する。早春、株元近くに小さな小穂をつける。乾いた場所を好む小型のスゲ。",
+      "habitat_hint": "山地の日当たりのよい草地、岩場、乾いた斜面、林縁。",
+      "finding_tips": "4〜5月、背の低い細い葉の束と、株元近くにつく小さな小穂を乾いた草地・岩場で探します。"
+    },
+    "en": {
+      "summary": "Dwarf sedge (Carex humilis). A small perennial sedge (Cyperaceae) of sunny montane grassland, rocky ground, dry slopes and woodland edges; short-statured, it tufts narrow leaves and bears small spikelets near the base in early spring, favouring dry sites.",
+      "habitat_hint": "Sunny montane grassland, rocky ground, dry slopes, woodland edges.",
+      "finding_tips": "In April–May look on dry grassland and rocks for the low tuft of narrow leaves and the small spikelets near the base."
+    },
+    "zh": {
+      "summary": "ホソバヒカゲスゲ（矮生薹草类，Carex humilis）。莎草科薹草属小型多年生草本，生于山地向阳草甸、岩地、干坡及林缘，株矮、细叶束生，早春于近基部着生小型小穗，喜干处。",
+      "habitat_hint": "山地向阳草甸、岩地、干坡、林缘。",
+      "finding_tips": "4 至 5 月于干燥草甸与岩地寻找低矮细叶丛及近基部的小型小穗。"
+    }
+  },
+  "Carex lasiocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender sedge",
+    "aliases": {
+      "zh-Hans": "毛薹草"
+    },
+    "ja": {
+      "summary": "ムジナスゲ。カヤツリグサ科スゲ属の多年草で、高層湿原や貧栄養の湿地、池沼の縁に群生する。細い糸のような葉をつけ、褐色の太い雌小穂をつける。果胞（果実の入れ物）に毛が密生するのが特徴。地下茎で広がる。",
+      "habitat_hint": "高層湿原、貧栄養の湿地、池沼の縁、湿った草地。",
+      "finding_tips": "5〜7月、細い糸のような葉と、褐色の太い雌小穂を湿原で探します。果胞に毛が密生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Slender sedge (Carex lasiocarpa). A perennial sedge (Cyperaceae) forming stands in raised bogs, nutrient-poor wetlands and pond margins; it has thread-fine leaves and stout brown female spikes, distinguished by densely hairy utricles, spreading by rhizomes.",
+      "habitat_hint": "Raised bogs, nutrient-poor wetlands, pond margins, damp grassland.",
+      "finding_tips": "In May–July look in bogs for the thread-fine leaves and stout brown female spikes; the densely hairy utricles are the clue."
+    },
+    "zh": {
+      "summary": "ムジナスゲ（毛薹草，Carex lasiocarpa）。莎草科薹草属多年生草本，成丛生于高位泥炭沼、贫营养湿地及池沼边缘，叶细如丝，雌小穗粗褐色，果囊密被毛为其特征，借地下茎蔓延。",
+      "habitat_hint": "高位泥炭沼、贫营养湿地、池沼边缘、湿润草地。",
+      "finding_tips": "5 至 7 月于湿原寻找丝状细叶及粗褐色雌小穗；果囊密被毛为线索。"
+    }
+  },
+  "Christella parasitica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケホシダ。ヒメシダ科の常緑〜夏緑性シダで、暖地の道端や石垣、水路の縁、湿った半日陰に生える。2回羽状に分かれた葉に短い毛が多く、葉裏に円形の胞子嚢群が並ぶ。人里近くの湿った場所でよく見られる。",
+      "habitat_hint": "暖地の道端、石垣、水路の縁、湿った半日陰、田の畦。",
+      "finding_tips": "一年中見られます。短い毛の多い2回羽状の葉と、葉裏の円形の胞子嚢群を、道端や石垣で探します。"
+    },
+    "en": {
+      "summary": "An evergreen to summer-green fern (Thelypteridaceae) of warm-region roadsides, stone walls, channel margins and damp part-shade; the twice-pinnate fronds are shortly hairy and bear round sori on the underside. Common in damp places near habitation.",
+      "habitat_hint": "Warm-region roadsides, stone walls, channel margins, damp part-shade, paddy banks.",
+      "finding_tips": "Present year-round; on roadsides and walls look for the shortly hairy twice-pinnate fronds and the round sori beneath."
+    },
+    "zh": {
+      "summary": "ケホシダ。金星蕨科常绿至夏绿性蕨类，生于暖地路旁、石墙、水道边缘及湿润半荫处，二回羽状叶多短毛，叶背具圆形孢子囊群，常见于人居附近湿处。",
+      "habitat_hint": "暖地路旁、石墙、水道边缘、湿润半荫处、田埂。",
+      "finding_tips": "全年可见；于路旁与石墙寻找多短毛的二回羽状叶及叶背圆形孢子囊群。"
+    }
+  },
+  "Daphne kiusiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter daphne relative",
+    "aliases": {
+      "zh-Hans": "白瑞香"
+    },
+    "ja": {
+      "summary": "コショウノキ。ジンチョウゲ科ジンチョウゲ属の常緑低木で、暖地の照葉樹林の林床や林縁、谷沿いに生える。革質の光沢のある葉をつけ、早春、白い筒状の小花を枝先に集めて咲かせ、芳香がある。夏に赤い果実をつける。果実に胡椒のような辛味があることが名の由来。※有毒。",
+      "habitat_hint": "暖地の照葉樹林の林床、林縁、谷沿いの半日陰。",
+      "finding_tips": "2〜4月、枝先に集まって咲く白い筒状の芳香のある小花を照葉樹林の林床で探します。夏の赤い果実も手がかり。有毒。"
+    },
+    "en": {
+      "summary": "Winter-daphne relative (Daphne kiusiana). An evergreen shrub (Thymelaeaceae) of warm-region evergreen forest floor, edges and valleys; it has glossy leathery leaves and, in early spring, fragrant white tubular flowers clustered at the branch tips, with red fruit in summer. Named for the pepper-like heat of the fruit. Poisonous.",
+      "habitat_hint": "Warm-region evergreen forest floor, edges, valley part-shade.",
+      "finding_tips": "In February–April look on evergreen forest floor for the fragrant white tubular flowers clustered at the branch tips; the red summer fruit is another clue. Poisonous."
+    },
+    "zh": {
+      "summary": "コショウノキ（白瑞香，Daphne kiusiana）。瑞香科瑞香属常绿灌木，生于暖地照叶林林床、林缘与谷地，叶革质有光泽，早春枝端聚生白色筒状芳香小花，夏结红果，果具似胡椒的辛味，故名。有毒。",
+      "habitat_hint": "暖地照叶林林床、林缘、谷地半荫处。",
+      "finding_tips": "2 至 4 月于照叶林林床寻找枝端聚生的白色筒状芳香小花；夏季红果亦为线索。有毒。"
+    }
+  },
+  "Empetrum nigrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crowberry",
+    "aliases": {
+      "zh-Hans": "岩高兰"
+    },
+    "ja": {
+      "summary": "ガンコウラン。ツツジ科（旧ガンコウラン科）ガンコウラン属の常緑の小低木で、高山帯の岩場や尾根、風衝地、湿原の周縁に地を這うように広がる。針状の小さな葉を密につけ、初夏に目立たない小花を咲かせ、秋に黒く熟す果実をつける。果実は食べられる。高山を代表する矮性低木。",
+      "habitat_hint": "高山帯の岩場、尾根、風衝地、湿原の周縁。",
+      "finding_tips": "夏〜秋、高山の岩場や尾根で、針状の小さな葉を密につけ地を這う常緑の低木と、黒く熟す果実を探します。"
+    },
+    "en": {
+      "summary": "Crowberry (Empetrum nigrum). An evergreen dwarf shrub (Ericaceae, formerly Empetraceae) creeping over alpine rocky ground, ridges, wind-exposed sites and bog margins; it densely bears small needle-like leaves, opens inconspicuous flowers in early summer and bears black-ripening edible fruit in autumn. An iconic prostrate alpine shrub.",
+      "habitat_hint": "Alpine rocky ground, ridges, wind-exposed sites, bog margins.",
+      "finding_tips": "In summer–autumn on alpine rocks and ridges look for the evergreen shrub creeping over the ground with dense needle-like leaves and the black-ripening fruit."
+    },
+    "zh": {
+      "summary": "ガンコウラン（岩高兰，Empetrum nigrum）。杜鹃花科（旧岩高兰科）岩高兰属常绿矮灌木，匍匐于高山带岩地、山脊、风衝地及湿原周缘，密生针状小叶，初夏开不显小花，秋结黑熟可食果，为高山代表性匍匐灌木。",
+      "habitat_hint": "高山带岩地、山脊、风衝地、湿原周缘。",
+      "finding_tips": "夏至秋于高山岩地与山脊寻找密生针状小叶、匍匐覆地的常绿灌木及黑熟果实。"
+    }
+  },
+  "Epipactis papillosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Papillose helleborine",
+    "ja": {
+      "summary": "エゾスズラン（アオスズラン）。ラン科カキラン属の地生ランで、山地の落葉樹林や針葉樹林の林床、林縁に生える。茎や葉に細かい突起（papilla）があってざらつく。夏、緑色〜緑褐色の目立たない花を穂状に多数つける。",
+      "habitat_hint": "山地の落葉樹林・針葉樹林の林床、林縁、やや湿った腐植土。",
+      "finding_tips": "7〜8月、緑色〜緑褐色の目立たない花が穂状につく姿を林床で探します。茎や葉のざらつく突起が手がかり。"
+    },
+    "en": {
+      "summary": "Papillose helleborine (Epipactis papillosa). A terrestrial orchid (Orchidaceae) of montane deciduous and conifer woodland floor and edges; the stem and leaves are rough with fine papillae. In summer it bears many inconspicuous green to greenish-brown flowers in a spike.",
+      "habitat_hint": "Montane deciduous and conifer woodland floor, edges, damp humus.",
+      "finding_tips": "In July–August look on the woodland floor for the spike of inconspicuous green to greenish-brown flowers; the papillose rough stem and leaves are the clue."
+    },
+    "zh": {
+      "summary": "エゾスズラン（乳突火烧兰，Epipactis papillosa）。兰科火烧兰属地生兰，生于山地落叶林与针叶林林床及林缘，茎叶具细乳突而粗糙，夏季穗状密生绿至绿褐色的不显花。",
+      "habitat_hint": "山地落叶林与针叶林林床、林缘、略湿腐殖土。",
+      "finding_tips": "7 至 8 月于林床寻找穗状排列的绿至绿褐色不显花；茎叶粗糙乳突为线索。"
+    }
+  },
+  "Erythranthe sessilifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Monkeyflower",
+    "ja": {
+      "summary": "オオバミゾホオズキ。ハエドクソウ科（旧ゴマノハグサ科）ミゾホオズキ属の多年草で、山地の谷沿いや渓流沿いの湿った林床、水のしみ出す岩際に生える。柄のない（無柄の）大きな葉を対生し、夏、黄色い筒状で先が唇形に開く花を咲かせる。ミゾホオズキより大型。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、水のしみ出す岩際、湿った日陰。",
+      "finding_tips": "6〜8月、無柄の大きな対生葉と、黄色い筒状で先が唇形の花を、湿った谷沿いで探します。"
+    },
+    "en": {
+      "summary": "A monkeyflower (Erythranthe, Phrymaceae, formerly Scrophulariaceae) of montane valleys, damp streamside woodland floor and seepage-wet rock; it has large, sessile (stalkless) opposite leaves and, in summer, yellow tubular flowers opening two-lipped at the mouth. Larger than the common monkeyflower.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, seepage-wet rock, damp shade.",
+      "finding_tips": "In June–August in damp valleys look for the large sessile opposite leaves and the yellow tubular flowers with a two-lipped mouth."
+    },
+    "zh": {
+      "summary": "オオバミゾホオズキ。透骨草科（旧玄参科）沟酸浆属多年生草本，生于山地谷地、溪流沿岸湿润林床及渗水岩际，叶大无柄对生，夏开黄色筒状、口部唇形的花，较沟酸浆大。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、渗水岩际、湿润荫处。",
+      "finding_tips": "6 至 8 月于湿润谷地寻找无柄大对生叶及黄色筒状、口部唇形的花。"
+    }
+  },
+  "Ficus subpisocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Deciduous fig",
+    "aliases": {
+      "zh-Hans": "笔管榕"
+    },
+    "ja": {
+      "summary": "アコウ。クワ科イチジク属の半落葉〜常緑の高木で、暖地（南西諸島・九州南部など）の海岸近くの林や照葉樹林に生える。他の木の上で発芽し、気根を垂らして絡みつく「絞め殺しの木」の一種。幹に直接、球形のイチジク状の果実（隠頭花序）を多数つける。",
+      "habitat_hint": "暖地（南西諸島・九州南部など）の海岸近くの林、照葉樹林、社寺林。",
+      "finding_tips": "一年中見られます。幹から垂れ下がる気根と、幹に直接つく球形のイチジク状の果実を暖地の海岸林で探します。"
+    },
+    "en": {
+      "summary": "Deciduous fig (Ficus subpisocarpa). A semi-deciduous to evergreen tree (Moraceae) of coastal woods and evergreen forest in warm regions (e.g. the Ryukyus, southern Kyushu); a kind of strangler fig that germinates on other trees and hangs aerial roots. It bears many round fig-like fruits (syconia) directly on the trunk.",
+      "habitat_hint": "Coastal woods, evergreen forest and shrine forest in warm regions (e.g. the Ryukyus, southern Kyushu).",
+      "finding_tips": "Present year-round; in warm-region coastal woods look for the aerial roots hanging from the trunk and the round fig-like fruit borne directly on the trunk."
+    },
+    "zh": {
+      "summary": "アコウ（笔管榕，Ficus subpisocarpa）。桑科榕属半落叶至常绿乔木，生于暖地（如琉球群岛、九州南部）近海林与照叶林，为一种绞杀榕，于他树上萌发、垂气根缠绕，果（隐头花序）球形似无花果、直接生于树干。",
+      "habitat_hint": "暖地（如琉球群岛、九州南部）近海林、照叶林、社寺林。",
+      "finding_tips": "全年可见；于暖地近海林寻找自树干垂下的气根及直接生于干上的球形似无花果的果实。"
+    }
+  },
+  "Fimbristylis sericea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silky fimbristylis",
+    "ja": {
+      "summary": "ビロードテンツキ。カヤツリグサ科テンツキ属の多年草で、海岸の砂浜や砂丘に生える。全体に絹のような銀白色の毛が密生し、ビロード（天鵞絨）のように見えるのが名の由来。地下茎で広がり、砂地に群落をつくる。海岸性で塩分・乾燥に強い。",
+      "habitat_hint": "海岸の砂浜、砂丘、海に近い砂地。",
+      "finding_tips": "7〜9月、砂浜で、全体に絹のような銀白色の毛が密生してビロード状に見える株を探します。"
+    },
+    "en": {
+      "summary": "Silky fimbristylis (Fimbristylis sericea). A perennial sedge (Cyperaceae) of coastal beaches and dunes; it is densely clothed in silky silvery-white hairs, giving a velvety look (source of the Japanese name), and spreads by rhizomes into stands on sand, salt- and drought-tolerant.",
+      "habitat_hint": "Coastal beaches, dunes, sandy ground near the sea.",
+      "finding_tips": "In July–September look on beaches for the plant densely clothed in silky silvery-white hairs with a velvety look."
+    },
+    "zh": {
+      "summary": "ビロードテンツキ（丝毛飘拂草，Fimbristylis sericea）。莎草科飘拂草属多年生草本，生于海岸沙滩与沙丘，全株密被丝状银白毛、状如天鹅绒，故名，借地下茎蔓延成丛，耐盐耐旱。",
+      "habitat_hint": "海岸沙滩、沙丘、近海沙地。",
+      "finding_tips": "7 至 9 月于沙滩寻找全株密被丝状银白毛、呈天鹅绒状的植株。"
+    }
+  },
+  "Frullania davurica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカヤスデゴケ。ヤスデゴケ科の葉状苔類で、樹幹や枝、岩の上に赤褐色〜暗褐色のマットをつくって着生する。葉の腹片が袋状（水を溜める）になるのが特徴。日当たりのよい乾きやすい場所にも生える。乾くと縮れる。",
+      "habitat_hint": "樹幹、枝、岩上、石垣、日当たりのよい乾きやすい場所も含む。",
+      "finding_tips": "一年中見られます。樹幹や枝、岩に付く赤褐色〜暗褐色のマットと、袋状の葉の腹片をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Frullaniaceae) forming red-brown to dark-brown mats on tree trunks, branches and rock; distinctively the ventral leaf-lobules are sac-like (water-holding), and it grows even in sunlit sites that dry out, curling when dry.",
+      "habitat_hint": "Tree trunks, branches, rock, stone walls, including sunlit sites that dry out.",
+      "finding_tips": "Present year-round; use a lens to check the red-brown to dark-brown mats on trunks, branches and rock and the sac-like ventral lobules."
+    },
+    "zh": {
+      "summary": "アカヤスデゴケ。耳叶苔科叶状苔类，附生于树干、枝条及岩面形成红褐至暗褐色垫，叶腹瓣囊状（可蓄水）为其特征，亦生于向阳易干处，干时卷缩。",
+      "habitat_hint": "树干、枝条、岩面、石墙，含向阳易干处。",
+      "finding_tips": "全年可见；用放大镜观察树干、枝条与岩面上红褐至暗褐色垫及囊状的叶腹瓣。"
+    }
+  },
+  "Gastrodia confusa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アキザキヤツシロラン。ラン科オニノヤガラ属の菌従属栄養（腐生）のラン。葉緑素を持たず、地中の菌類から養分を得て暮らす。暖地の竹林や照葉樹林の林床の落葉の間に生え、秋、地際に暗褐色の目立たない小さな花を咲かせる。花のあと果実の時期に花茎が急に伸びる。",
+      "habitat_hint": "暖地の竹林、照葉樹林の林床、落葉の積もった腐植質の地上。",
+      "finding_tips": "9〜10月、竹林や林床の落葉の間で、地際につく暗褐色の目立たない小さな花を探します。落葉に紛れて見つけにくい。"
+    },
+    "en": {
+      "summary": "A mycoheterotrophic (saprophytic) orchid (Gastrodia confusa, Orchidaceae) that lacks chlorophyll and lives on soil fungi; on warm-region bamboo-grove and evergreen-forest floor among leaf litter it opens inconspicuous small dark-brown flowers at ground level in autumn, the stalk elongating suddenly as the fruit develops.",
+      "habitat_hint": "Warm-region bamboo groves, evergreen-forest floor, humus-rich ground under leaf litter.",
+      "finding_tips": "In September–October look among leaf litter in bamboo groves and forest floor for the inconspicuous small dark-brown flowers at ground level; they hide among the litter."
+    },
+    "zh": {
+      "summary": "アキザキヤツシロラン（秋赤箭类，Gastrodia confusa）。兰科天麻属菌异养（腐生）兰，无叶绿素，靠地下真菌获取养分，生于暖地竹林与照叶林林床落叶间，秋季于近地面开暗褐色不显小花，花后果期花茎骤然伸长。",
+      "habitat_hint": "暖地竹林、照叶林林床、落叶覆盖的富腐殖质地面。",
+      "finding_tips": "9 至 10 月于竹林与林床落叶间寻找近地面暗褐色不显的小花；混于落叶间不易发现。"
+    }
+  },
+  "Gentiana squarrosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コケリンドウ。リンドウ科リンドウ属の小さな一〜越年草で、日当たりのよい草地や芝地、道端、田の畦、乾いた斜面に生える。背が低く、ロゼット状の葉から短い茎を立て、春、青紫色の小さな筒状の花を上向きに開く。晴天時に開く。とても小さいリンドウ。",
+      "habitat_hint": "日当たりのよい草地、芝地、道端、田の畦、乾いた斜面。",
+      "finding_tips": "4〜5月、背の低いロゼットと、上向きに開く青紫色の小さな筒状の花を草地や芝地で探します。晴天時に開く。"
+    },
+    "en": {
+      "summary": "Squarrose-leaf gentian (Gentiana squarrosa). A small annual to biennial (Gentianaceae) of sunny grassland, lawns, roadsides, paddy banks and dry slopes; low-growing, from a leaf rosette it raises short stems and opens small upward-facing blue-purple tubular flowers in spring, in sunny weather. A very small gentian.",
+      "habitat_hint": "Sunny grassland, lawns, roadsides, paddy banks, dry slopes.",
+      "finding_tips": "In April–May look on grassland and lawns for the low rosette and the small upward-facing blue-purple tubular flowers; they open in sun."
+    },
+    "zh": {
+      "summary": "コケリンドウ（鳞叶龙胆，Gentiana squarrosa）。龙胆科龙胆属小型一至二年生草本，生于向阳草地、草坪、路旁、田埂及干坡，株矮，由叶莲座抽短茎，春季朝上开蓝紫色小筒状花、晴天开放，为极小的龙胆。",
+      "habitat_hint": "向阳草地、草坪、路旁、田埂、干坡。",
+      "finding_tips": "4 至 5 月于草地与草坪寻找低矮莲座及朝上开放的蓝紫色小筒状花；晴天开放。"
+    }
+  },
+  "Haplohymenium pseudotriste": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバノイトゴケ。イトゴケ科（イワイトゴケ科）の小さな蘚類で、樹幹や枝、石垣、岩に細い糸のようなマットをつくって着生する。イワイトゴケに似るが葉が小さい。乾くとちぎれやすく、都市の街路樹の幹などにも見られる。",
+      "habitat_hint": "街路樹や庭木の樹幹・枝、石垣、岩。",
+      "finding_tips": "一年中見られます。樹幹や枝に付く細い糸のような小さな緑〜灰緑色のマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small moss (Anomodontaceae) growing as fine thread-like mats on tree trunks, branches, stone walls and rock; like Haplohymenium triste but with smaller leaves. Fragile when dry, it is seen even on street-tree trunks.",
+      "habitat_hint": "Trunks and branches of street and garden trees, stone walls, rock.",
+      "finding_tips": "Present year-round; use a lens to check the fine thread-like small green to grey-green mats on trunks and branches."
+    },
+    "zh": {
+      "summary": "コバノイトゴケ。牛舌藓科小型藓类，附生于树干、枝条、石墙及岩面形成细如丝的垫，似脆枝藓而叶更小，干时易断，城市行道树干上亦可见。",
+      "habitat_hint": "行道树与庭园树树干、枝条、石墙、岩面。",
+      "finding_tips": "全年可见；用放大镜观察树干与枝条上细如丝的绿至灰绿色小垫。"
+    }
+  },
+  "Hediste japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese ragworm",
+    "aliases": {
+      "zh-Hans": "日本刺沙蚕"
+    },
+    "ja": {
+      "summary": "アリアケカワゴカイ。ゴカイ科の多毛類（環形動物）で、内湾や河口の砂泥質の干潟にすむ。体は細長く多数の節に分かれ、各節の両側に疣足（いぼあし）と剛毛をもつ。泥の中に巣穴を掘って暮らし、有機物を食べる。魚釣りの餌にもされる。産卵期には群れて泳ぐ（生殖群泳）。",
+      "habitat_hint": "内湾・河口の砂泥質の干潟、汽水域の泥地。",
+      "finding_tips": "一年中、干潟の泥を掘ると出てくる、細長く多数の節に分かれた多毛類（ゴカイ）を探します。"
+    },
+    "en": {
+      "summary": "Japanese ragworm (Hediste japonica). A polychaete worm (Nereididae, an annelid) of the sandy-mud intertidal flats of sheltered bays and estuaries; the elongate segmented body has parapodia and bristles on each segment. It burrows in the mud, eats organic matter, is used as fishing bait, and swarms to swim during spawning.",
+      "habitat_hint": "Sandy-mud intertidal flats of sheltered bays and estuaries, brackish mud.",
+      "finding_tips": "Year-round dig the mudflats for the elongate, many-segmented polychaete worm (ragworm)."
+    },
+    "zh": {
+      "summary": "アリアケカワゴカイ（日本刺沙蚕，Hediste japonica）。沙蚕科多毛类（环节动物），栖于内湾与河口砂泥质滩涂，体细长、分多数体节，各节两侧具疣足与刚毛，掘穴于泥中、取食有机质，可作钓饵，繁殖期群集游泳。",
+      "habitat_hint": "内湾与河口砂泥质滩涂、咸淡水泥地。",
+      "finding_tips": "全年挖掘滩涂泥中寻找细长、分多数体节的多毛类（沙蚕）。"
+    }
+  },
+  "Heteropappus arenarius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマベノギク。キク科ハマベノギク属（ヨメナ連）の越年草〜多年草で、海岸の砂地や砂丘、崖、海に近い草地に生える。厚みのある葉をロゼット状につけ、秋、淡青紫色〜白色の舌状花に黄色い中心の頭花を咲かせる。海岸性で塩分・乾燥に強い。",
+      "habitat_hint": "海岸の砂地、砂丘、崖、海に近い草地。",
+      "finding_tips": "9〜11月、海岸の砂地で、厚みのある葉と、淡青紫色〜白色の舌状花に黄色い中心の頭花を探します。"
+    },
+    "en": {
+      "summary": "A seaside aster (Heteropappus arenarius, Asteraceae) of coastal sand, dunes, cliffs and grassland near the sea; it forms rosettes of thickish leaves and, in autumn, opens flowerheads with pale blue-purple to white rays and a yellow centre, salt- and drought-tolerant.",
+      "habitat_hint": "Coastal sand, dunes, cliffs, grassland near the sea.",
+      "finding_tips": "In September–November look on coastal sand for the thickish leaves and the flowerheads with pale blue-purple to white rays and a yellow centre."
+    },
+    "zh": {
+      "summary": "ハマベノギク（沙生狗娃花类，Heteropappus arenarius）。菊科狗娃花属二年生至多年生草本，生于海岸沙地、沙丘、崖壁及近海草地，厚叶呈莲座状，秋开淡蓝紫至白色舌状、黄心头状花，耐盐耐旱。",
+      "habitat_hint": "海岸沙地、沙丘、崖壁、近海草地。",
+      "finding_tips": "9 至 11 月于海岸沙地寻找厚叶及淡蓝紫至白色舌状、黄心的头状花。"
+    }
+  },
+  "Hosta lancifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバギボウシ。キジカクシ科（旧ユリ科）ギボウシ属の多年草で、山地〜低地の湿った草地や湿原、林縁、水辺に生える。細長い葉を根生し、夏、淡紫色の筒状の花を花茎に一列に並べて下向きに咲かせる。若葉は山菜（ウルイ）として食べられる。庭にも植えられる。",
+      "habitat_hint": "山地〜低地の湿った草地、湿原、林縁、水辺、やや湿った斜面。",
+      "finding_tips": "7〜8月、細長い根生葉と、花茎に一列に並ぶ淡紫色の筒状の花を湿った草地で探します。"
+    },
+    "en": {
+      "summary": "Narrowleaf plantain lily (Hosta lancifolia). A perennial (Asparagaceae, formerly Liliaceae) of damp montane to lowland grassland, bogs, woodland edges and watersides; it has narrow basal leaves and, in summer, pale-purple tubular flowers set in a row down the stalk. The young leaves are eaten as a wild vegetable, and it is grown in gardens.",
+      "habitat_hint": "Damp montane to lowland grassland, bogs, woodland edges, watersides, damp slopes.",
+      "finding_tips": "In July–August look in damp grassland for the narrow basal leaves and the pale-purple tubular flowers set in a row down the stalk."
+    },
+    "zh": {
+      "summary": "コバギボウシ（狭叶玉簪，Hosta lancifolia）。天门冬科（旧百合科）玉簪属多年生草本，生于山地至低地湿润草地、湿原、林缘与水边，叶狭长基生，夏季花茎上一列下垂着生淡紫色筒状花，嫩叶作山野菜，亦植于庭园。",
+      "habitat_hint": "山地至低地湿润草地、湿原、林缘、水边、略湿坡地。",
+      "finding_tips": "7 至 8 月于湿润草地寻找狭长基生叶及花茎上一列排列的淡紫色筒状花。"
+    }
   }
 }
