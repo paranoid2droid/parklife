@@ -223001,5 +223001,435 @@
       "habitat_hint": "路旁、庭园、公园、空地、花坛周边。",
       "finding_tips": "5 至 7 月寻找狭长叶及晨开午萎的蓝紫至玫紫色三瓣花。"
     }
+  },
+  "Trichaleurina celebica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rubber cup",
+    "ja": {
+      "summary": "オオゴムタケ。ズキンタケの仲間の子嚢菌で、夏〜秋に広葉樹の朽木や倒木、切株に群生する。ゴム質でやや弾力のある椀形〜こま形の子実体をつくり、外面は褐色の細かい毛で覆われ、内面（子実層）は灰色〜黒褐色。名のとおりゴムのような質感。",
+      "habitat_hint": "広葉樹の朽木、倒木、切株の上。梅雨〜秋。",
+      "finding_tips": "6〜10月、朽木に群生するゴム質で椀形の子実体を探します。外面の褐色の細かい毛と、灰色〜黒褐色の内面が手がかり。"
+    },
+    "en": {
+      "summary": "Rubber cup (Trichaleurina celebica). An ascomycete (Chorioactidaceae) clustering on rotten broadleaf wood, logs and stumps in summer to autumn; the rubbery, somewhat elastic cup- to top-shaped fruitbody is covered outside in fine brown hairs, with a grey to blackish-brown inner (fertile) surface. Rubbery in texture, as the name says.",
+      "habitat_hint": "Rotten broadleaf wood, logs, stumps; rainy season to autumn.",
+      "finding_tips": "In June–October look on rotten wood for the rubbery cup-shaped fruitbodies; the fine brown-haired outside and grey to blackish inner surface are the clue."
+    },
+    "zh": {
+      "summary": "オオゴムタケ（大胶陀螺类，Trichaleurina celebica）。子囊菌，夏秋于阔叶腐木、倒木与树桩丛生，子实体胶质而略具弹性、碗至陀螺形，外面被褐色细毛，内面（子实层）灰至黑褐色，质感如橡胶，故名。",
+      "habitat_hint": "阔叶腐木、倒木、树桩；梅雨至秋。",
+      "finding_tips": "6 至 10 月于腐木上寻找胶质碗形子实体；外面褐色细毛与灰至黑褐色内面为线索。"
+    }
+  },
+  "Trichocoleopsis sacculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌムクムクゴケ。ムクムクゴケ科の葉状苔類で、湿った林床の腐木や樹の根元、渓流沿いの湿った日陰に生える。葉が糸のように細かく裂け、全体が綿毛のように柔らかく見える。ムクムクゴケに似るが別属。",
+      "habitat_hint": "湿った林床の腐木、樹幹の基部、渓流沿いの湿った日陰。",
+      "finding_tips": "一年中見られます。糸のように細かく裂けた葉が綿毛状に見える淡緑のふわふわしたマットを、湿った日陰でルーペで探します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Trichocoleaceae) of damp woodland rotten wood, tree bases and shaded moist streamsides; the leaves are divided into fine thread-like segments, giving a soft, woolly look. Similar to Trichocolea but a separate genus.",
+      "habitat_hint": "Damp woodland rotten wood, tree bases, shaded moist streamsides.",
+      "finding_tips": "Present year-round; in damp shade use a lens for the soft, woolly pale-green mat of finely thread-divided leaves."
+    },
+    "zh": {
+      "summary": "イヌムクムクゴケ。绒苔科叶状苔类，生于湿润林床腐木、树基及溪流荫湿处，叶极细裂如丝、整体呈绵毛状柔软，似绒苔而为另属。",
+      "habitat_hint": "湿润林床腐木、树基、溪流荫湿处。",
+      "finding_tips": "全年可见；于湿润荫处用放大镜寻找叶细裂如丝、呈绵毛状的淡绿软垫。"
+    }
+  },
+  "Turpinia ternata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-leaf turpinia",
+    "aliases": {
+      "zh-Hans": "三叶山香圆"
+    },
+    "ja": {
+      "summary": "ショウベンノキ。ミツバウツギ科ショウベンノキ属の常緑小高木で、暖地の照葉樹林の林縁や谷沿いに生える。3枚の小葉からなる葉（三出複葉）を対生する。枝を切ると水（樹液）が滴ることが名の由来とされる。初夏、白い小花を円錐状につけ、秋に赤い果実をつける。",
+      "habitat_hint": "暖地の照葉樹林の林縁、谷沿い、社寺林。",
+      "finding_tips": "5〜6月、3枚の小葉からなる対生の葉と、白い小花の円錐花序を照葉樹林で探します。秋の赤い果実も手がかり。"
+    },
+    "en": {
+      "summary": "Three-leaf turpinia (Turpinia ternata). An evergreen small tree (Staphyleaceae) of warm-region evergreen forest edges and valleys; the opposite leaves are trifoliolate (three leaflets). A cut branch reportedly drips sap (water), source of the Japanese name. In early summer it bears white flowers in panicles and red fruit in autumn.",
+      "habitat_hint": "Warm-region evergreen forest edges, valleys, shrine forest.",
+      "finding_tips": "In May–June look in evergreen forest for the opposite trifoliolate leaves and the panicles of white flowers; the red autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "ショウベンノキ（三叶山香圆，Turpinia ternata）。省沽油科山香圆属常绿小乔木，生于暖地照叶林林缘与谷地，叶对生、三出复叶，折枝据传滴水（树液），故和名，初夏圆锥状开白色小花，秋结红果。",
+      "habitat_hint": "暖地照叶林林缘、谷地、社寺林。",
+      "finding_tips": "5 至 6 月于照叶林寻找对生三出复叶及白色小花圆锥花序；秋季红果亦为线索。"
+    }
+  },
+  "Tylopilus neofelleus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニガイグチモドキ。イグチ科ニガイグチ属のキノコで、夏〜秋に広葉樹林や針葉樹林の地上に発生する。傘は褐色〜紫褐色、裏面の管孔は初め白く、のちに淡紅色を帯びる。柄も紫褐色を帯びる。強い苦味があり食用にならない（名の由来）。",
+      "habitat_hint": "夏〜秋の広葉樹林・針葉樹林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、林床で褐色〜紫褐色の傘と、初め白くのちに淡紅色になる管孔をもつキノコを探します。強い苦味。"
+    },
+    "en": {
+      "summary": "A bitter bolete (Tylopilus neofelleus, Boletaceae) fruiting on the ground in broadleaf and conifer woodland in summer to autumn; the cap is brown to purple-brown, the pore surface white at first then flushing pink, and the stem is purple-brown-tinged. It is intensely bitter and inedible (source of the Japanese name).",
+      "habitat_hint": "Ground of broadleaf and conifer woodland, park tree bases; summer to autumn.",
+      "finding_tips": "In July–October look on the woodland floor for the brown to purple-brown cap and the pores that start white and flush pink; intensely bitter."
+    },
+    "zh": {
+      "summary": "ニガイグチモドキ（新苦粉孢牛肝菌，Tylopilus neofelleus）。牛肝菌科苦粉孢牛肝菌属真菌，夏秋发生于阔叶林与针叶林地上，菌盖褐至紫褐色，管孔初白后带淡红，柄亦带紫褐色，味极苦、不可食（和名由来）。",
+      "habitat_hint": "夏秋阔叶林与针叶林地面、公园树下。",
+      "finding_tips": "7 至 10 月于林床寻找褐至紫褐色菌盖及初白后带淡红的管孔；味极苦。"
+    }
+  },
+  "Utricularia caerulea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bladderwort",
+    "aliases": {
+      "zh-Hans": "短梗挖耳草"
+    },
+    "ja": {
+      "summary": "ホザキノミミカキグサ。タヌキモ科の小さな食虫植物で、日当たりのよい湿地やミズゴケ湿地、貧栄養の湿った砂地に生える。地中や地表の細い枝に小さな捕虫嚢をつけ、微小な生き物を捕らえる。夏〜秋、細い花茎に淡紫色の小さな花を穂状につける。ミミカキグサの仲間。",
+      "habitat_hint": "日当たりのよい湿地、ミズゴケ湿地、貧栄養の湿った砂地。",
+      "finding_tips": "8〜10月、湿地で細い花茎に穂状につく淡紫色の小さな花を探します。捕虫嚢で微小な生き物を捕らえる。"
+    },
+    "en": {
+      "summary": "A small carnivorous bladderwort (Utricularia caerulea, Lentibulariaceae) of sunny wetlands, Sphagnum mires and nutrient-poor wet sand; tiny bladder-traps on its underground and surface shoots catch minute organisms, and in summer to autumn it bears small pale-purple flowers in a spike on a slender stalk.",
+      "habitat_hint": "Sunny wetlands, Sphagnum mires, nutrient-poor wet sand.",
+      "finding_tips": "In August–October look in wetlands for the small pale-purple flowers in a spike on a slender stalk; the bladder-traps catch minute organisms."
+    },
+    "zh": {
+      "summary": "ホザキノミミカキグサ（短梗挖耳草，Utricularia caerulea）。狸藻科小型食虫植物，生于向阳湿地、泥炭藓沼泽及贫营养湿沙地，地下与地表细枝具小捕虫囊以捕微小生物，夏末至秋于细花茎穗状着生淡紫色小花，为挖耳草类。",
+      "habitat_hint": "向阳湿地、泥炭藓沼泽、贫营养湿沙地。",
+      "finding_tips": "8 至 10 月于湿地寻找细花茎上穗状排列的淡紫色小花；捕虫囊捕捉微小生物。"
+    }
+  },
+  "Vaccinium oxycoccos": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small cranberry",
+    "aliases": {
+      "zh-Hans": "小果红莓苔子"
+    },
+    "ja": {
+      "summary": "ツルコケモモ。ツツジ科スノキ属の常緑の小さなつる性の低木で、高層湿原やミズゴケ湿地に生える。ミズゴケの上を細い茎が這い、小さな革質の葉をつける。初夏、淡紅色の反り返る花を咲かせ、秋に赤い小さな果実をつける。果実は酸味があり食べられる（クランベリーの仲間）。",
+      "habitat_hint": "高層湿原、ミズゴケ湿地、貧栄養の湿地。",
+      "finding_tips": "6〜7月、ミズゴケの上を這う細い茎と、淡紅色の反り返る花を探します。秋の赤い小さな食べられる果実も手がかり。"
+    },
+    "en": {
+      "summary": "Small cranberry (Vaccinium oxycoccos). An evergreen small trailing shrub (Ericaceae) of raised bogs and Sphagnum mires; slender stems creep over the Sphagnum bearing small leathery leaves, it opens pink recurved flowers in early summer and small red fruit in autumn. The tart fruit is edible (a cranberry).",
+      "habitat_hint": "Raised bogs, Sphagnum mires, nutrient-poor wetlands.",
+      "finding_tips": "In June–July look for the slender stems creeping over Sphagnum and the pink recurved flowers; the small red edible autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "ツルコケモモ（小果红莓苔子，Vaccinium oxycoccos）。杜鹃花科越橘属常绿小型匍匐灌木，生于高位泥炭沼与泥炭藓沼泽，细茎匍匐于泥炭藓上、叶小革质，初夏开淡红色反卷花，秋结红色小果，果酸可食（蔓越橘类）。",
+      "habitat_hint": "高位泥炭沼、泥炭藓沼泽、贫营养湿地。",
+      "finding_tips": "6 至 7 月寻找匍匐于泥炭藓上的细茎及淡红色反卷花；秋季红色可食小果亦为线索。"
+    }
+  },
+  "Viburnum urceolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマシグレ。レンプクソウ科（旧スイカズラ科）ガマズミ属の落葉低木で、山地の谷沿いや渓流沿いの湿った林内、林縁に生える。対生する葉をつけ、初夏、小さな壺形（つぼ形）の淡紅色〜白色の花を集散状につける。秋に赤く、のち黒く熟す果実をつける。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林内、林縁、やや湿った斜面。",
+      "finding_tips": "6〜7月、対生する葉と、小さな壺形の淡紅色〜白色の花の集まりを湿った林内で探します。"
+    },
+    "en": {
+      "summary": "A deciduous shrub (Viburnum urceolatum, Adoxaceae, formerly Caprifoliaceae) of montane valleys, damp streamside forest and woodland edges; it has opposite leaves and, in early summer, bears small urn-shaped pink to white flowers in cymes, with fruit ripening red then black in autumn.",
+      "habitat_hint": "Montane valleys, damp streamside forest, woodland edges, damp slopes.",
+      "finding_tips": "In June–July look in damp woodland for the opposite leaves and the clusters of small urn-shaped pink to white flowers."
+    },
+    "zh": {
+      "summary": "ヤマシグレ。五福花科（旧忍冬科）荚蒾属落叶灌木，生于山地谷地、溪流沿岸湿润林内与林缘，叶对生，初夏聚伞状开小壶形淡红至白色花，秋果先红后黑熟。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林内、林缘、略湿坡地。",
+      "finding_tips": "6 至 7 月于湿润林内寻找对生叶及小壶形淡红至白色花之聚集。"
+    }
+  },
+  "Viola collina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hill violet",
+    "aliases": {
+      "zh-Hans": "球果堇菜"
+    },
+    "ja": {
+      "summary": "マルバケスミレ。スミレ科の多年草で、山地の林縁や草地、やや湿った斜面に生える。丸みのあるハート形の葉に毛が多い。春、淡紅紫色の花を咲かせる。花後、果実（さく果）を地面近くまで下げるのが特徴とされる。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、林床。",
+      "finding_tips": "4〜5月、丸みのある毛の多いハート形の葉と、淡紅紫色の花を山地の林縁で探します。"
+    },
+    "en": {
+      "summary": "Hill violet (Viola collina). A perennial (Violaceae) of montane woodland edges, grassland and damp slopes; the rounded heart-shaped leaves are hairy, and it opens pale rose-purple flowers in spring, characteristically bending its fruit (capsule) down near the ground afterwards.",
+      "habitat_hint": "Montane woodland edges, grassland, damp slopes, woodland floor.",
+      "finding_tips": "In April–May look at montane woodland edges for the rounded, hairy heart-shaped leaves and the pale rose-purple flowers."
+    },
+    "zh": {
+      "summary": "マルバケスミレ（球果堇菜，Viola collina）。堇菜科多年生草本，生于山地林缘、草地及略湿坡地，圆钝心形叶多毛，春开淡红紫色花，花后果实（蒴果）下弯近地面为其特征。",
+      "habitat_hint": "山地林缘、草地、略湿坡地、林床。",
+      "finding_tips": "4 至 5 月于山地林缘寻找圆钝多毛的心形叶及淡红紫色花。"
+    }
+  },
+  "Vitis saccharifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アマヅル。ブドウ科ブドウ属の落葉つる性木本で、山地の林縁や谷沿い、藪に生える。巻きひげで他の木に絡んで登る。葉は浅く3〜5裂し、裏面に毛がある。秋に黒く熟す小さな果実（ブドウ）をつけ、甘い（アマ＝甘）ことが名の由来。",
+      "habitat_hint": "山地の林縁、谷沿い、藪、明るい二次林。",
+      "finding_tips": "秋、巻きひげで絡むつると、黒く熟す小さな甘い果実（ブドウ）を探します。浅く3〜5裂する葉が手がかり。"
+    },
+    "en": {
+      "summary": "A wild grape (Vitis saccharifera, Vitaceae), a deciduous woody climber of montane woodland edges, valleys and thickets; it climbs other trees by tendrils, its leaves shallowly three- to five-lobed and hairy beneath, and bears small black-ripening sweet grapes in autumn (sacchari-, sweet, giving the Japanese name).",
+      "habitat_hint": "Montane woodland edges, valleys, thickets, bright secondary forest.",
+      "finding_tips": "In autumn look for the tendril-climbing vine and the small black-ripening sweet grapes; the shallowly three- to five-lobed leaves are the clue."
+    },
+    "zh": {
+      "summary": "アマヅル（甜葡萄类，Vitis saccharifera）。葡萄科葡萄属落叶木质藤本，生于山地林缘、谷地与灌丛，以卷须攀附他树，叶浅三至五裂、背面被毛，秋结黑熟小果（葡萄）、味甜，故和名。",
+      "habitat_hint": "山地林缘、谷地、灌丛、明亮次生林。",
+      "finding_tips": "秋季寻找以卷须攀附的藤蔓及黑熟的甜味小葡萄；浅三至五裂叶为线索。"
+    }
+  },
+  "Weissia edentula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバトジクチゴケ。センボンゴケ科の小さな蘚類で、道端や畑、造成地、土の裸地、石垣などに群生する。乾くと葉が内側に巻き込み、湿ると開く。都市の人為的な環境にもよく現れる普通種。",
+      "habitat_hint": "道端、畑、造成地、土の裸地、石垣。",
+      "finding_tips": "一年中見られます。土の裸地や道端に広がる小さな緑の群落と、乾くと葉が内巻きになる様子をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small moss (Pottiaceae) forming turfs on roadsides, fields, made ground, bare soil and stone walls; the leaves incurl when dry and spread when wet. A common species appearing readily in disturbed urban habitats.",
+      "habitat_hint": "Roadsides, fields, made ground, bare soil, stone walls.",
+      "finding_tips": "Present year-round; use a lens to check the small green turfs on bare soil and roadsides and the leaves incurling when dry."
+    },
+    "zh": {
+      "summary": "ホソバトジクチゴケ。丛藓科小型藓类，成丛生于路旁、农田、造地、裸土及石墙，叶干时内卷、湿时展开，为城市扰动生境常见种。",
+      "habitat_hint": "路旁、农田、造地、裸土、石墙。",
+      "finding_tips": "全年可见；用放大镜观察裸土与路旁的小型绿丛及叶干时内卷之状。"
+    }
+  },
+  "Wikstroemia trichotoma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キガンピ。ジンチョウゲ科ガンピ属の落葉低木で、暖地の山地の林縁や岩場、明るい二次林、乾いた斜面に生える。細い枝に細長い葉を互生し、夏、黄色い筒状の小花を枝先に穂状につける。樹皮の繊維は和紙の原料にもされる。",
+      "habitat_hint": "暖地の山地の林縁、岩場、明るい二次林、乾いた斜面。",
+      "finding_tips": "7〜8月、細い枝の先に穂状につく黄色い筒状の小花を探します。細長い互生の葉が手がかり。"
+    },
+    "en": {
+      "summary": "A deciduous shrub (Wikstroemia trichotoma, Thymelaeaceae) of warm-region montane woodland edges, rocky ground, bright secondary forest and dry slopes; slender branches bear narrow alternate leaves and, in summer, yellow tubular flowers in spikes at the branch tips. Its bark fibre is used to make washi paper.",
+      "habitat_hint": "Warm-region montane woodland edges, rocky ground, bright secondary forest, dry slopes.",
+      "finding_tips": "In July–August look for the yellow tubular flowers in spikes at the branch tips; the narrow alternate leaves are the clue."
+    },
+    "zh": {
+      "summary": "キガンピ（黄花荛花类，Wikstroemia trichotoma）。瑞香科荛花属落叶灌木，生于暖地山地林缘、岩地、明亮次生林与干坡，细枝互生狭长叶，夏季枝端穗状着生黄色筒状小花，树皮纤维可作和纸原料。",
+      "habitat_hint": "暖地山地林缘、岩地、明亮次生林、干坡。",
+      "finding_tips": "7 至 8 月寻找枝端穗状着生的黄色筒状小花；狭长互生叶为线索。"
+    }
+  },
+  "Aconitum gigas": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾレイジンソウ。キンポウゲ科トリカブト属の多年草で、北海道〜本州北部の山地の湿った林縁や谷沿い、沢沿いに生える。淡黄白色の兜（かぶと）形の花を穂状につける。同属のトリカブトと同様、※全草に毒（アコニチン）を含むので口にしてはいけない。",
+      "habitat_hint": "北海道〜本州北部の山地の湿った林縁、谷沿い、沢沿い。",
+      "finding_tips": "8〜9月、淡黄白色の兜形の花が穂状につく姿を、湿った林縁や沢沿いで探します。全草有毒。"
+    },
+    "en": {
+      "summary": "A monkshood (Aconitum gigas, Ranunculaceae) of damp montane woodland edges, valleys and streamsides from Hokkaido into northern Honshu; it bears pale yellow-white helmet-shaped flowers in a spike. Like other aconites, the whole plant is poisonous (aconitine) and must not be eaten.",
+      "habitat_hint": "Damp montane woodland edges, valleys, streamsides (Hokkaido to N Honshu).",
+      "finding_tips": "In August–September look at damp woodland edges and streamsides for the pale yellow-white helmet-shaped flowers in a spike. Whole plant poisonous."
+    },
+    "zh": {
+      "summary": "エゾレイジンソウ（巨乌头类，Aconitum gigas）。毛茛科乌头属多年生草本，生于北海道至本州北部山地湿润林缘、谷地与沟谷，穗状着生淡黄白色盔形花。与同属乌头相同，全株含毒（乌头碱），切勿入口。",
+      "habitat_hint": "北海道至本州北部山地湿润林缘、谷地、沟谷。",
+      "finding_tips": "8 至 9 月于湿润林缘与沟谷寻找穗状排列的淡黄白色盔形花。全株有毒。"
+    }
+  },
+  "Acupalpus inornatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "キイロチビゴモクムシ。オサムシ科の極めて小さな地表性甲虫で、河原や水田、湿地の水際の泥地や草地にすむ。体は小さく黄褐色。素早く歩き回り、湿った地表で微小な小動物を捕食する。灯火にも集まる。",
+      "habitat_hint": "河原、水田、湿地の水際の泥地・草地、池沼の縁。",
+      "finding_tips": "4〜10月、水際の泥地や草地で、素早く歩く黄褐色の極めて小さな甲虫を探します。灯火にも集まる。"
+    },
+    "en": {
+      "summary": "A very small ground beetle (Acupalpus, Carabidae) of the wet mud and grassland at the water's edge of riverbanks, paddy fields and wetlands; the small body is yellow-brown. It runs quickly over damp ground preying on minute animals and comes to lights.",
+      "habitat_hint": "Wet mud and grassland at water margins of riverbanks, paddies, wetlands, pond edges.",
+      "finding_tips": "From April to October look on waterside mud and grassland for the very small quick-running yellow-brown beetle; it comes to lights too."
+    },
+    "zh": {
+      "summary": "キイロチビゴモクムシ（黄色小婪步甲类，Acupalpus inornatus）。步甲科极小的地栖甲虫，栖于河滩、水田及湿地水边泥地与草地，体小、黄褐色，于湿润地面迅速游走捕食微小动物，亦趋光。",
+      "habitat_hint": "河滩、水田、湿地水边泥地与草地、池沼边缘。",
+      "finding_tips": "4 至 10 月于水边泥地与草地寻找迅速游走的黄褐色极小甲虫；亦趋光。"
+    }
+  },
+  "Adenophora divaricata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ladybell",
+    "aliases": {
+      "zh-Hans": "展枝沙参"
+    },
+    "ja": {
+      "summary": "フクシマシャジン。キキョウ科ツリガネニンジン属の多年草で、山地の日当たりのよい草地や林縁、岩場に生える。茎に葉を輪生し、枝を横に大きく広げて（divaricata＝開出する）、青紫色の釣鐘形の花を下向きに多数つける。ツリガネニンジンの仲間。",
+      "habitat_hint": "山地の日当たりのよい草地、林縁、岩場、やや乾いた斜面。",
+      "finding_tips": "8〜9月、横に大きく広がる枝に、下向きにつく青紫色の釣鐘形の花を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "A ladybell (Adenophora divaricata, Campanulaceae) of sunny montane grassland, woodland edges and rocky ground; it has whorled stem leaves and spreads its branches widely (divaricata), hanging many blue-purple bell-shaped flowers. A relative of the common ladybell.",
+      "habitat_hint": "Sunny montane grassland, woodland edges, rocky ground, drier slopes.",
+      "finding_tips": "In August–September look on montane grassland for the widely spreading branches hung with nodding blue-purple bell-shaped flowers."
+    },
+    "zh": {
+      "summary": "フクシマシャジン（展枝沙参，Adenophora divaricata）。桔梗科沙参属多年生草本，生于山地向阳草甸、林缘与岩地，茎叶轮生，枝横向大幅展开（divaricata），下垂多数蓝紫色钟形花，为沙参类。",
+      "habitat_hint": "山地向阳草甸、林缘、岩地、较干坡地。",
+      "finding_tips": "8 至 9 月于山地草甸寻找横向大幅展开的枝及下垂的蓝紫色钟形花。"
+    }
+  },
+  "Allium ochotense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Victory onion",
+    "aliases": {
+      "zh-Hans": "茖葱"
+    },
+    "ja": {
+      "summary": "ギョウジャニンニク（アイヌネギ）。ヒガンバナ科ネギ属の多年草で、北海道〜本州中部以北の山地の湿った林床や谷沿い、沢沿いに生える。幅のある葉を2〜3枚つけ、初夏、白い小さな花を球状の花序に多数つける。全体にニンニク・ニラの強い匂いがあり、山菜として珍重される（採りすぎに注意）。",
+      "habitat_hint": "山地の湿った林床、谷沿い、沢沿い、やや湿った斜面。",
+      "finding_tips": "4〜6月、幅のある2〜3枚の葉と、白い小花の球状の花序を湿った林床で探します。もむとニンニクの強い匂い。"
+    },
+    "en": {
+      "summary": "Victory onion (Allium ochotense). A perennial (Amaryllidaceae) of damp montane woodland floor, valleys and streamsides from Hokkaido into central-northern Honshu; it has two or three broad leaves and, in early summer, many small white flowers in a globular head. It smells strongly of garlic/leek throughout and is prized as a wild vegetable (do not over-harvest).",
+      "habitat_hint": "Damp montane woodland floor, valleys, streamsides, damp slopes.",
+      "finding_tips": "In April–June look on damp woodland floor for the two or three broad leaves and the globular head of small white flowers; it smells strongly of garlic when crushed."
+    },
+    "zh": {
+      "summary": "ギョウジャニンニク（茖葱，Allium ochotense）。石蒜科葱属多年生草本，生于北海道至本州中北部山地湿润林床、谷地与沟谷，具二至三枚宽叶，初夏球状花序密生白色小花，全株具浓烈蒜韭味，为珍贵山野菜（勿过度采集）。",
+      "habitat_hint": "山地湿润林床、谷地、沟谷、略湿坡地。",
+      "finding_tips": "4 至 6 月于湿润林床寻找二至三枚宽叶及白色小花的球状花序；揉之有浓烈蒜味。"
+    }
+  },
+  "Alobiellopsis parvifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツツバナゴケ。ヤバネゴケの仲間の極めて微小な葉状苔類で、湿った腐木や林床の土、他のコケの間に生える。小さな丸みのある葉が茎の左右に並ぶ。ルーペでようやく見える大きさ。",
+      "habitat_hint": "湿った腐木、林床の土、他のコケの間、泥炭地。",
+      "finding_tips": "一年中見られます。腐木の上の極小の淡緑のコケと、小さな丸みのある葉をルーペで探します。"
+    },
+    "en": {
+      "summary": "An extremely minute leafy liverwort (Cephaloziaceae) of damp rotten wood, forest-floor soil and among other bryophytes; small rounded leaves are set in two ranks along the stem. Barely visible without a lens.",
+      "habitat_hint": "Damp rotten wood, forest-floor soil, among other mosses, peaty ground.",
+      "finding_tips": "Present year-round; use a lens on rotten wood to find the tiny pale-green liverwort with small rounded two-ranked leaves."
+    },
+    "zh": {
+      "summary": "ツツバナゴケ。大萼苔科极微小的叶状苔类，生于湿润腐木、林床土壤及其他苔藓间，小圆钝叶沿茎两列排列，须借放大镜方可见。",
+      "habitat_hint": "湿润腐木、林床土壤、其他苔藓间、泥炭地。",
+      "finding_tips": "全年可见；用放大镜在腐木上寻找极小淡绿、具小圆钝两列叶的苔类。"
+    }
+  },
+  "Alocasia odora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant elephant ear",
+    "aliases": {
+      "zh-Hans": "海芋"
+    },
+    "ja": {
+      "summary": "クワズイモ。サトイモ科クワズイモ属の常緑の大型の多年草で、暖地（南西諸島・九州南部など）の海岸近くの林縁や谷沿い、湿った林床に生える。太い地上茎（根茎）を立て、その先に非常に大きな盾形〜矢じり形の葉を広げる。名のとおり食用にならず、※全草に毒（シュウ酸カルシウムの針状結晶など）がある。",
+      "habitat_hint": "暖地（南西諸島・九州南部など）の海岸近くの林縁、谷沿い、湿った林床。",
+      "finding_tips": "一年中見られます。太い地上茎と、非常に大きな盾形〜矢じり形の葉を暖地の湿った林縁で探します。有毒（食べられない）。"
+    },
+    "en": {
+      "summary": "Giant elephant ear (Alocasia odora). An evergreen large perennial (Araceae) of warm-region (e.g. the Ryukyus, southern Kyushu) coastal woodland edges, valleys and damp forest floor; it raises a stout above-ground stem topped with very large shield- to arrowhead-shaped leaves. True to its Japanese name (\"can't-eat taro\") it is inedible and poisonous throughout (needle-like calcium-oxalate crystals etc.).",
+      "habitat_hint": "Warm-region (e.g. the Ryukyus, southern Kyushu) coastal woodland edges, valleys, damp forest floor.",
+      "finding_tips": "Present year-round; in warm-region damp woodland edges look for the stout above-ground stem and the very large shield- to arrowhead-shaped leaves. Poisonous — inedible."
+    },
+    "zh": {
+      "summary": "クワズイモ（海芋，Alocasia odora）。天南星科海芋属常绿大型多年生草本，生于暖地（如琉球群岛、九州南部）近海林缘、谷地与湿润林床，粗壮地上茎（根茎）顶端展开极大的盾形至箭镞形叶。如和名（不可食之芋），不可食且全株有毒（草酸钙针晶等）。",
+      "habitat_hint": "暖地（如琉球群岛、九州南部）近海林缘、谷地、湿润林床。",
+      "finding_tips": "全年可见；于暖地湿润林缘寻找粗壮地上茎及极大的盾形至箭镞形叶。有毒（不可食）。"
+    }
+  },
+  "Amanita griseoturcosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオミドリタマゴテングタケ。テングタケ科のキノコで、夏〜秋に広葉樹林や針葉樹林の地上に発生する。傘は青緑色〜灰緑色を帯び、白いいぼ（外被膜の名残）を散らす。柄の根元は球状にふくらんでつぼに包まれる。テングタケ科には猛毒種が多いので、安易に食べない。",
+      "habitat_hint": "夏〜秋の広葉樹林・針葉樹林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、青緑色〜灰緑色を帯びた傘に白いいぼ、球状にふくらむ柄の根元をもつキノコを探します。食用不可。"
+    },
+    "en": {
+      "summary": "A fungus (Amanita griseoturcosa, Amanitaceae) fruiting on the ground in broadleaf and conifer woodland in summer to autumn; the cap is tinged blue-green to grey-green and scattered with white warts, and the stem base is bulbous within a volva. As Amanitaceae includes deadly species, do not eat it lightly.",
+      "habitat_hint": "Ground of broadleaf and conifer woodland, park tree bases; summer to autumn.",
+      "finding_tips": "In July–October look for the blue-green to grey-green cap with white warts and the bulbous stem base. Inedible."
+    },
+    "zh": {
+      "summary": "アオミドリタマゴテングタケ。鹅膏菌科真菌，夏秋发生于阔叶林与针叶林地上，菌盖带青绿至灰绿色、散布白疣，柄基球状膨大、被菌托包裹。鹅膏菌科多含剧毒种，勿轻易食用。",
+      "habitat_hint": "夏秋阔叶林与针叶林地面、公园树下。",
+      "finding_tips": "7 至 10 月寻找带青绿至灰绿色、散布白疣的菌盖及球状膨大的柄基；不可食。"
+    }
+  },
+  "Anachis miser": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dove shell",
+    "ja": {
+      "summary": "ボサツガイ。ムシロガイ上科（コロモガイ科など）の小型の巻貝で、内湾や河口の潮間帯〜浅海の砂泥底や岩、海藻の間にすむ。殻は細長い紡錘形で、褐色〜黄褐色。肉食性〜腐肉食性で、他の小動物や動物の死骸を食べる。潮間帯でよく見られる。",
+      "habitat_hint": "内湾・河口の潮間帯〜浅海の砂泥底、岩、海藻の間。",
+      "finding_tips": "一年中、潮間帯の岩や海藻の間、砂泥底で、細長い紡錘形の褐色の小さな巻貝を探します。"
+    },
+    "en": {
+      "summary": "A dove shell (Anachis miser, Columbellidae), a small snail of the intertidal to shallow subtidal sandy-mud bottom, rock and among seaweed in sheltered bays and estuaries; the shell is an elongate spindle, brown to yellow-brown. Carnivorous to scavenging, it eats small animals and carrion. Common in the intertidal.",
+      "habitat_hint": "Intertidal to shallow subtidal sandy-mud bottom, rock, among seaweed in sheltered bays and estuaries.",
+      "finding_tips": "Year-round on intertidal rock, among seaweed and on sandy-mud bottom look for the elongate spindle-shaped brown small snail."
+    },
+    "zh": {
+      "summary": "ボサツガイ（菩萨牙螺类，Anachis miser）。牙螺科小型螺，栖于内湾与河口潮间带至浅海砂泥底、岩石及海藻间，壳细长纺锤形、褐至黄褐色，肉食至腐食性、取食小动物与尸体，潮间带常见。",
+      "habitat_hint": "内湾与河口潮间带至浅海砂泥底、岩石、海藻间。",
+      "finding_tips": "全年于潮间带岩石、海藻间及砂泥底寻找细长纺锤形的褐色小螺。"
+    }
   }
 }
