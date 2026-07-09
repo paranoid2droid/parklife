@@ -222589,5 +222589,417 @@
       "habitat_hint": "山地谷地、河岸、林缘、略湿坡地。",
       "finding_tips": "5 至 6 月寻找白色小花密生的细长（似刷）总状花序；夏秋黑熟小果亦为线索。"
     }
+  },
+  "Radula tokiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤコノケビラゴケ。ケビラゴケ科の葉状苔類で、湿った樹皮や岩の上に薄い緑のマットをつくって着生する。葉は2つの裂片に分かれ、小さな腹片をもつ。都市近郊の樹幹などでも見られる。",
+      "habitat_hint": "湿った樹皮、岩上、常緑樹林内、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。樹皮や岩に着生する薄い緑のマットと、2裂する葉をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Radulaceae) growing as thin green mats on damp bark and rock; the leaves are divided into two lobes with a small ventral lobule. Also found on trunks near towns.",
+      "habitat_hint": "Damp bark, rock, evergreen forest interior, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the thin green mats on bark and rock and the two-lobed leaves."
+    },
+    "zh": {
+      "summary": "ミヤコノケビラゴケ。扁萼苔科叶状苔类，附生于湿润树皮与岩面形成薄绿垫，叶二裂并具小腹瓣，城郊树干上亦可见。",
+      "habitat_hint": "湿润树皮、岩面、常绿林内、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察附生树皮岩面的薄绿垫与二裂叶片。"
+    }
+  },
+  "Rhododendron tschonoskii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf azalea",
+    "ja": {
+      "summary": "コメツツジ。ツツジ科の落葉小低木で、山地〜亜高山帯の岩場や尾根、明るい斜面に生える。小さな葉と、米粒のように小さな白い花（名の由来）を枝先に数個つける。よく分枝して小さくまとまる。花冠は4〜5裂。",
+      "habitat_hint": "山地〜亜高山帯の岩場、尾根、明るい斜面、風衝地。",
+      "finding_tips": "6〜7月、枝先につく米粒のように小さな白い花と、小さな葉を岩場や尾根で探します。"
+    },
+    "en": {
+      "summary": "Dwarf azalea (Rhododendron tschonoskii). A deciduous dwarf shrub (Ericaceae) of montane to subalpine rocky ground, ridges and open slopes; it bears small leaves and a few tiny white flowers, small as rice grains (source of the Japanese name), at the branch tips, much-branched and compact, with a four- to five-lobed corolla.",
+      "habitat_hint": "Montane to subalpine rocky ground, ridges, open slopes, wind-exposed sites.",
+      "finding_tips": "In June–July look on rocks and ridges for the tiny rice-grain-sized white flowers and small leaves at the branch tips."
+    },
+    "zh": {
+      "summary": "コメツツジ（米粒杜鹃，Rhododendron tschonoskii）。杜鹃花科落叶矮灌木，生于山地至亚高山岩地、山脊与开阔坡地，叶小，枝端生数朵小如米粒的白花（和名由来），多分枝而紧凑，花冠四至五裂。",
+      "habitat_hint": "山地至亚高山岩地、山脊、开阔坡地、风衝地。",
+      "finding_tips": "6 至 7 月于岩地与山脊寻找枝端小如米粒的白花及小叶。"
+    }
+  },
+  "Rhynchostegium riparioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオハイゴケ。アオギヌゴケ科の水生〜半水生の蘚類で、渓流や川、水路の水中や水際の石・岩に付いて生える。緑〜濃緑色のマットをつくり、流水中でよく育つ。きれいな水の指標にもされる。",
+      "habitat_hint": "渓流、川、水路の水中や水際の石・岩、滝のそば。",
+      "finding_tips": "一年中見られます。流水中や水際の石に付く緑〜濃緑色のマットを探します。清流に多い。"
+    },
+    "en": {
+      "summary": "A water moss (Brachytheciaceae) growing on submerged and waterside stones and rock in streams, rivers and channels; it forms green to dark-green mats and thrives in running water, and is used as an indicator of clean water.",
+      "habitat_hint": "Submerged and waterside stones and rock in streams, rivers, channels, near falls.",
+      "finding_tips": "Present year-round; look for the green to dark-green mats on submerged and waterside stones; common in clear streams."
+    },
+    "zh": {
+      "summary": "アオハイゴケ（宽叶美喙藓类，Rhynchostegium riparioides）。青藓科水生至半水生藓类，附于溪流、河川及水道的水中与水边石岩，形成绿至深绿色垫，喜流水，可作洁净水质指示。",
+      "habitat_hint": "溪流、河川、水道的水中与水边石岩、瀑布近旁。",
+      "finding_tips": "全年可见；在流水中与水边石上寻找绿至深绿色藓垫；多见于清流。"
+    }
+  },
+  "Rostraria cristata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "冠毛草"
+    },
+    "ja": {
+      "summary": "ミノボロモドキ。地中海地方原産のイネ科ミノボロモドキ属の一年草で、道端や河川敷、造成地、埋め立て地に帰化する。円柱状〜穂状の密な花序に、芒のある小穂を密につける。ミノボロ（スゲの一種）に似ることが名の由来。",
+      "habitat_hint": "道端、河川敷、造成地、埋め立て地の日当たりのよい場所。",
+      "finding_tips": "5〜6月、円柱状〜穂状の密な花序に、芒のある小穂を密につける姿を道端や造成地で探します。"
+    },
+    "en": {
+      "summary": "Mediterranean hairgrass (Rostraria cristata). A Mediterranean annual grass (Poaceae) naturalised on roadsides, riverbanks, made and reclaimed ground; it densely packs awned spikelets into a cylindrical to spike-like inflorescence.",
+      "habitat_hint": "Roadsides, riverbanks, made and reclaimed ground in sunny places.",
+      "finding_tips": "In May–June look for the dense cylindrical to spike-like inflorescence packed with awned spikelets."
+    },
+    "zh": {
+      "summary": "ミノボロモドキ（冠毛草，Rostraria cristata）。原产地中海的禾本科冠毛草属一年生草本，归化于路旁、河滩、造地与填筑地，圆柱至穗状的密花序密生具芒小穗。",
+      "habitat_hint": "路旁、河滩、造地、填筑地向阳处。",
+      "finding_tips": "5 至 6 月寻找圆柱至穗状的密花序及其上密生的具芒小穗。"
+    }
+  },
+  "Russula cyanoxantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蓝黄红菇"
+    },
+    "ja": {
+      "summary": "カワリハツ。ベニタケ科ベニタケ属のキノコで、夏〜秋に広葉樹林や針葉樹林の地上に発生する。傘の色が青緑・紫・赤・黄などさまざまに変化する（名の由来）。ひだは白く、他のベニタケ類と違ってしなやかで裂けにくい。適切に調理すれば食用にされる。",
+      "habitat_hint": "夏〜秋の広葉樹林・針葉樹林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、林床で青緑〜紫〜赤など色が変化に富む傘と、白くしなやかで裂けにくいひだをもつキノコを探します。"
+    },
+    "en": {
+      "summary": "Charcoal burner (Russula cyanoxantha). A fungus (Russulaceae) fruiting on the ground in broadleaf and conifer woodland in summer to autumn; the cap colour varies greatly (blue-green, purple, red, yellow), source of the Japanese name. The white gills are, unusually for a Russula, pliable and not brittle. Edible when properly cooked.",
+      "habitat_hint": "Ground of broadleaf and conifer woodland, park tree bases; summer to autumn.",
+      "finding_tips": "In July–October look on the woodland floor for the variably coloured (blue-green to purple to red) cap and the white, pliable, non-brittle gills."
+    },
+    "zh": {
+      "summary": "カワリハツ（蓝黄红菇，Russula cyanoxantha）。红菇科红菇属真菌，夏秋发生于阔叶林与针叶林地上，菌盖色多变（青绿、紫、红、黄），故名，菌褶白色、异于多数红菇而柔韧不脆，妥善烹调后可食。",
+      "habitat_hint": "夏秋阔叶林与针叶林地面、公园树下。",
+      "finding_tips": "7 至 10 月于林床寻找色泽多变（青绿至紫至红）的菌盖及白色柔韧不脆的菌褶。"
+    }
+  },
+  "Sagina decumbens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Trailing pearlwort",
+    "ja": {
+      "summary": "キヌイトツメクサ。ナデシコ科ツメクサ属の小さな一〜越年草で、道端や芝地、砂地、海岸近くに生える。糸のように細い茎が地を這い、斜上する。線形の細い葉を対生し、白い小さな5弁の花を咲かせる。ツメクサに似て華奢。",
+      "habitat_hint": "道端、芝地、砂地、海岸近く、造成地の日当たりのよい場所。",
+      "finding_tips": "4〜6月、糸のように細い茎と、線形の細い対生葉、白い小さな5弁花を地面で探します。"
+    },
+    "en": {
+      "summary": "Trailing pearlwort (Sagina decumbens). A small annual to biennial (Caryophyllaceae) of roadsides, lawns, sand and near coasts; the thread-fine stems trail and ascend, with narrow linear opposite leaves and small white five-petalled flowers. Slender, like the common pearlwort.",
+      "habitat_hint": "Roadsides, lawns, sand, near coasts, made ground in sunny places.",
+      "finding_tips": "In April–June look on the ground for the thread-fine stems, narrow linear opposite leaves and small white five-petalled flowers."
+    },
+    "zh": {
+      "summary": "キヌイトツメクサ（匍匐漆姑草类，Sagina decumbens）。石竹科漆姑草属小型一至二年生草本，生于路旁、草坪、沙地及近海处，茎细如丝、匍匐斜升，线形细叶对生，开白色五瓣小花，似漆姑草而纤弱。",
+      "habitat_hint": "路旁、草坪、沙地、近海、造地向阳处。",
+      "finding_tips": "4 至 6 月于地面寻找细如丝的茎、线形对生细叶及白色五瓣小花。"
+    }
+  },
+  "Sargassum piluliferum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gulfweed",
+    "ja": {
+      "summary": "マメタワラ。ホンダワラ科の褐藻で、暖海〜温帯の岩礁の潮下帯に生える海藻。豆のように丸い小さな気胞（浮き袋）を多数つけて立ち上がり、海中林（藻場）をつくる。多くの魚介類の産卵場・生育場になる。",
+      "habitat_hint": "岩礁の潮下帯、内湾の藻場、暖海〜温帯の岩場。",
+      "finding_tips": "春〜初夏、豆のように丸い小さな気胞を多数つけて立ち上がる褐色の大型海藻を磯で探します。"
+    },
+    "en": {
+      "summary": "Gulfweed (Sargassum piluliferum). A brown seaweed (Sargassaceae) of subtidal rocky reefs in warm to temperate seas; held upright by many small, bean-round gas-filled floats, it forms seaweed beds that serve as spawning and nursery grounds for many fish and shellfish.",
+      "habitat_hint": "Subtidal rocky reefs, sheltered-bay seaweed beds, warm to temperate rocky shores.",
+      "finding_tips": "In spring to early summer on the shore look for the large brown seaweed standing upright with many small bean-round floats."
+    },
+    "zh": {
+      "summary": "マメタワラ（球囊马尾藻类，Sargassum piluliferum）。马尾藻科褐藻，生于暖海至温带岩礁潮下带，具众多豆状圆形小气囊而直立，形成海藻林（藻场），为众多鱼贝的产卵与育幼场。",
+      "habitat_hint": "岩礁潮下带、内湾藻场、暖海至温带岩滩。",
+      "finding_tips": "春至初夏于岩滩寻找具众多豆状圆形气囊、直立的褐色大型海藻。"
+    }
+  },
+  "Sasa samaniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アポイザサ。イネ科ササ属の常緑の小型のササで、北海道の山地の林床や林縁、岩場、草地に群生する。背が低く、地下茎で広がって低い笹原をつくる。アポイ岳など特定の地域に見られる。",
+      "habitat_hint": "北海道の山地の林床、林縁、岩場、草地。",
+      "finding_tips": "一年中見られます。背の低い常緑の葉と、地下茎で密に群生する低い笹原を観察します。"
+    },
+    "en": {
+      "summary": "A small evergreen dwarf bamboo (Sasa, Poaceae) forming low colonies on montane woodland floor, edges, rocky ground and grassland in Hokkaido; short-statured, it spreads by rhizomes into low swards. Found in particular areas such as Mt Apoi.",
+      "habitat_hint": "Montane woodland floor, edges, rocky ground, grassland in Hokkaido.",
+      "finding_tips": "Present year-round; note the low evergreen leaves and the dense low sward spread by rhizomes."
+    },
+    "zh": {
+      "summary": "アポイザサ。禾本科赤竹属常绿小型矮竹，成丛生于北海道山地林床、林缘、岩地与草甸，株矮，借地下茎蔓延成低矮竹丛，见于阿波伊岳等特定地区。",
+      "habitat_hint": "北海道山地林床、林缘、岩地、草甸。",
+      "finding_tips": "全年可见；观察低矮常绿叶片及借地下茎密集蔓延的低竹丛。"
+    }
+  },
+  "Schistidium strictum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバギボウシゴケ。ギボウシゴケ科の蘚類で、日当たりのよい岩や石、石垣、露岩の上に黒緑色〜褐緑色のクッション状の群落をつくる。乾燥に強く、海岸や山地の露岩でよく見られる。葉が細く、乾くと茎に密着する。",
+      "habitat_hint": "日当たりのよい岩、石、石垣、露岩、海岸の岩場。",
+      "finding_tips": "一年中見られます。岩の上の黒緑色〜褐緑色のクッション状の群落と、細い葉が乾くと茎に密着する様子をルーペで確認します。"
+    },
+    "en": {
+      "summary": "Upright brown grimmia (Schistidium strictum). A moss (Grimmiaceae) forming blackish-green to brown-green cushions on sunlit rock, stone, walls and exposed boulders; drought-tolerant, it is common on coastal and montane exposed rock, with narrow leaves that press to the stem when dry.",
+      "habitat_hint": "Sunlit rock, stone, walls, exposed boulders, coastal rock.",
+      "finding_tips": "Present year-round; use a lens on rock to check the blackish-green to brown-green cushions and the narrow leaves pressing to the stem when dry."
+    },
+    "zh": {
+      "summary": "ホソバギボウシゴケ（直叶砂藓类，Schistidium strictum）。紫萼藓科藓类，于向阳岩石、石块、石墙及露岩上形成黑绿至褐绿色垫状群落，耐旱，多见于海岸与山地露岩，叶狭、干时贴茎。",
+      "habitat_hint": "向阳岩石、石块、石墙、露岩、海岸岩滩。",
+      "finding_tips": "全年可见；用放大镜观察岩上黑绿至褐绿色垫状群落及狭叶干时贴茎。"
+    }
+  },
+  "Scopula superior": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wave moth",
+    "ja": {
+      "summary": "キナミシロヒメシャク。シャクガ科ヒメシャク亜科の小さな蛾で、草地や林縁、河川敷、庭に生息する。白っぽい翅に黄色や褐色の細い波状の横線が入る。幼虫（尺取り虫）は各種の草本の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "草地、林縁、河川敷、庭、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる白っぽい翅に細い波状の横線がある小さな蛾を探します。"
+    },
+    "en": {
+      "summary": "A wave moth (Scopula superior, Geometridae, Sterrhinae) of grassland, woodland edges, riverbanks and gardens; the whitish wings carry fine wavy yellow or brown cross-lines. The inchworm larva feeds on various herbs. Nocturnal, it comes to lights.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks, gardens, around lights.",
+      "finding_tips": "From May to September look at night lights for the small moth with whitish wings and fine wavy cross-lines."
+    },
+    "zh": {
+      "summary": "キナミシロヒメシャク（黄纹白姬尺蛾类，Scopula superior）。尺蛾科姬尺蛾亚科小型蛾，栖于草地、林缘、河滩与庭园，翅偏白、具黄或褐色细波状横线，幼虫（尺蠖）取食多种草本叶，夜行性、趋光。",
+      "habitat_hint": "草地、林缘、河滩、庭园、灯火周边。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找翅偏白、具细波状横线的小型蛾。"
+    }
+  },
+  "Selaginella shakotanensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spikemoss",
+    "ja": {
+      "summary": "ヒモカズラ。イワヒバ科イワヒバ属のシダ植物（小葉類）で、山地〜亜高山帯の岩場や崖、岩壁を這って広がる。細い紐（ひも）のような茎が長く這い、小さな鱗片状の葉を密につける。常緑で、胞子でふえる。",
+      "habitat_hint": "山地〜亜高山帯の岩場、崖、岩壁、露岩。",
+      "finding_tips": "一年中見られます。岩場を這う細い紐のような常緑の茎と、小さな鱗片状の葉を探します。"
+    },
+    "en": {
+      "summary": "A spikemoss (Selaginella shakotanensis, Selaginellaceae) that creeps over montane to subalpine rocky ground, cliffs and rock walls; the fine cord-like stems trail far, densely set with small scale-like leaves. Evergreen, it reproduces by spores.",
+      "habitat_hint": "Montane to subalpine rocky ground, cliffs, rock walls, exposed rock.",
+      "finding_tips": "Present year-round; look for the fine cord-like evergreen stems creeping over rock with small scale-like leaves."
+    },
+    "zh": {
+      "summary": "ヒモカズラ（绳卷柏类，Selaginella shakotanensis）。卷柏科卷柏属石松类蕨类植物，于山地至亚高山岩地、崖壁与岩壁匍匐蔓延，细如绳的茎长伸、密生鳞状小叶，常绿、以孢子繁殖。",
+      "habitat_hint": "山地至亚高山岩地、崖壁、岩壁、露岩。",
+      "finding_tips": "全年可见；寻找匍匐岩面、细如绳的常绿茎及鳞状小叶。"
+    }
+  },
+  "Smilax sebeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハマサルトリイバラ。サルトリイバラ科（旧ユリ科）シオデ属のつる性の落葉〜半常緑木本で、暖地の海岸近くの林縁や崖、藪に生える。革質の光沢のある葉をつけ、巻きひげで他の木に絡む。茎に刺があることが多い。秋に赤い果実をつける。サルトリイバラの海岸型。",
+      "habitat_hint": "暖地の海岸近くの林縁、崖、藪、社寺林の縁。",
+      "finding_tips": "秋、革質で光沢のある葉と、赤い果実、巻きひげで絡むつるを海岸近くで探します。茎の刺も手がかり。"
+    },
+    "en": {
+      "summary": "A climbing deciduous to semi-evergreen woody vine (Smilax sebeana, Smilacaceae) of warm-region coastal woodland edges, cliffs and thickets; it has glossy leathery leaves, climbs by tendrils and often has prickly stems, bearing red fruit in autumn. A coastal form of the greenbrier.",
+      "habitat_hint": "Warm-region coastal woodland edges, cliffs, thickets, shrine-forest margins.",
+      "finding_tips": "In autumn look near the coast for the glossy leathery leaves, red fruit and the tendril-climbing vine; the prickly stems are another clue."
+    },
+    "zh": {
+      "summary": "ハマサルトリイバラ。菝葜科（旧百合科）菝葜属蔓性落叶至半常绿木本，生于暖地近海林缘、崖壁与灌丛，叶革质有光泽，以卷须攀附他树，茎常具刺，秋结红果，为菝葜之海岸型。",
+      "habitat_hint": "暖地近海林缘、崖壁、灌丛、社寺林缘。",
+      "finding_tips": "秋季于近海处寻找革质有光泽的叶、红色果实及以卷须攀附的藤蔓；茎刺亦为线索。"
+    }
+  },
+  "Smilax stans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マルバサンキライ（タチシオデ）。サルトリイバラ科（旧ユリ科）シオデ属の落葉低木で、山地の林縁や林床、明るい二次林に生える。つる性でなく、まっすぐ立つ（stans＝立つ）低木。丸みのある葉をつけ、初夏に淡緑色の小花を咲かせ、秋に黒紫色の果実をつける。",
+      "habitat_hint": "山地の林縁、林床、明るい二次林、やや乾いた斜面。",
+      "finding_tips": "5〜6月、まっすぐ立つ低木の姿と、丸みのある葉、淡緑色の小花を探します。秋の黒紫色の果実も手がかり。"
+    },
+    "en": {
+      "summary": "A deciduous shrub (Smilax stans, Smilacaceae) of montane woodland edges, floor and bright secondary forest; unlike most greenbriers it is not a climber but stands upright (stans). It has rounded leaves, pale-green flowers in early summer and blackish-purple fruit in autumn.",
+      "habitat_hint": "Montane woodland edges, floor, bright secondary forest, drier slopes.",
+      "finding_tips": "In May–June look for the upright shrub form, the rounded leaves and the pale-green flowers; the blackish-purple autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "マルバサンキライ（鞘柄菝葜，Smilax stans）。菝葜科（旧百合科）菝葜属落叶灌木，生于山地林缘、林床与明亮次生林，异于多数菝葜、不为藤本而直立（stans），叶圆钝，初夏开淡绿色小花，秋结黑紫色果。",
+      "habitat_hint": "山地林缘、林床、明亮次生林、较干坡地。",
+      "finding_tips": "5 至 6 月寻找直立的灌木姿态、圆钝叶及淡绿色小花；秋季黑紫色果亦为线索。"
+    }
+  },
+  "Stellaria fenzlii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シラオイハコベ。ナデシコ科ハコベ属の多年草で、北日本の山地の湿った林縁や谷沿い、沢沿いに生える。細い茎に細長い葉を対生し、夏、白い花を咲かせる。花弁が深く2裂する。湿った半日陰を好む。",
+      "habitat_hint": "北日本の山地の湿った林縁、谷沿い、沢沿い、やや湿った草地。",
+      "finding_tips": "6〜8月、細長い対生の葉と、花弁が深く2裂する白い花を、湿った林縁や沢沿いで探します。"
+    },
+    "en": {
+      "summary": "A perennial stitchwort (Stellaria fenzlii, Caryophyllaceae) of damp montane woodland edges, valleys and streamsides in northern Japan; slender stems bear narrow opposite leaves and white flowers in summer, the petals deeply two-lobed. It favours damp part-shade.",
+      "habitat_hint": "Damp montane woodland edges, valleys, streamsides, damp grassland in northern Japan.",
+      "finding_tips": "In June–August look at damp woodland edges and streamsides for the narrow opposite leaves and the white flowers with deeply two-lobed petals."
+    },
+    "zh": {
+      "summary": "シラオイハコベ（芬氏繁缕类，Stellaria fenzlii）。石竹科繁缕属多年生草本，生于北日本山地湿润林缘、谷地与沟谷，细茎对生狭长叶，夏开白花、花瓣深二裂，喜湿润半荫。",
+      "habitat_hint": "北日本山地湿润林缘、谷地、沟谷、略湿草地。",
+      "finding_tips": "6 至 8 月于湿润林缘与沟谷寻找狭长对生叶及花瓣深二裂的白花。"
+    }
+  },
+  "Stereum gausapatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チウロコタケ。ウロコタケ科の担子菌で、ナラ・カシなどブナ科の枯木や倒木、切株に発生する木材腐朽菌。革質の子実体が枯れ木の表面や下面に広がり、若い時に傷つけると赤い液（血のような滲出液）を出すのが特徴。表面は褐色〜灰褐色。",
+      "habitat_hint": "ナラ・カシなどブナ科の枯木、倒木、切株の表面。",
+      "finding_tips": "一年中見られます。枯れ木に広がる革質の子実体を探し、若い時に傷つけると赤い液が滲み出す点を確認します。"
+    },
+    "en": {
+      "summary": "Bleeding oak crust (Stereum gausapatum). A crust fungus (Stereaceae) on dead and fallen oaks and other Fagaceae and stumps, causing wood rot; the leathery fruitbody spreads over the surface and underside of dead wood and, when young and cut, exudes a red (blood-like) fluid, its surface brown to grey-brown.",
+      "habitat_hint": "Surface of dead and fallen oaks and other Fagaceae, stumps.",
+      "finding_tips": "Present year-round; look on dead oak for the leathery crust and check that it exudes red fluid when young and cut."
+    },
+    "zh": {
+      "summary": "チウロコタケ（烟色韧革菌，Stereum gausapatum）。革菌科担子菌，发生于栎类等壳斗科枯木、倒木与树桩，为木材腐朽菌，革质子实体铺展枯木表面与下面，幼时受伤流红色（似血）汁液为其特征，表面褐至灰褐色。",
+      "habitat_hint": "栎类等壳斗科枯木、倒木、树桩表面。",
+      "finding_tips": "全年可见；在栎枯木上寻找革质子实体，幼时切之流红色汁液可验证。"
+    }
+  },
+  "Symplocarpus renifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian skunk cabbage",
+    "ja": {
+      "summary": "ザゼンソウ。サトイモ科ザゼンソウ属の多年草で、山地の湿った林床や湿地、沢沿い、水辺に生える。早春、まだ雪の残るころ、暗紅紫色の仏炎苞に包まれた花を咲かせる。発熱して周囲の雪を溶かすことで知られる（発熱植物）。苞の中に坐禅を組む僧の姿を見立てたのが名の由来。独特の臭気がある。",
+      "habitat_hint": "山地の湿った林床、湿地、沢沿い、水辺、湿った谷。",
+      "finding_tips": "2〜4月、雪解けのころ、湿った林床や湿地で暗紅紫色の仏炎苞に包まれた花を探します。発熱して雪を溶かす。"
+    },
+    "en": {
+      "summary": "Asian skunk cabbage (Symplocarpus renifolius). A perennial (Araceae) of damp montane woodland floor, wetlands, streamsides and watersides; in early spring, while snow lingers, it opens a flower wrapped in a dark red-purple spathe. It is famously thermogenic, generating heat that melts the surrounding snow; the Japanese name likens the flower in the spathe to a monk sitting in Zen meditation. It has a distinctive smell.",
+      "habitat_hint": "Damp montane woodland floor, wetlands, streamsides, watersides, damp valleys.",
+      "finding_tips": "In February–April around snow-melt look on damp woodland floor and wetlands for the flower wrapped in a dark red-purple spathe; it heats up and melts surrounding snow."
+    },
+    "zh": {
+      "summary": "ザゼンソウ（臭菘，Symplocarpus renifolius）。天南星科臭菘属多年生草本，生于山地湿润林床、湿地、沟谷与水边，早春残雪时开被暗红紫色佛焰苞包裹的花，以发热融化周围积雪著称（发热植物），苞中花形似坐禅僧人，故和名，具独特气味。",
+      "habitat_hint": "山地湿润林床、湿地、沟谷、水边、湿润谷地。",
+      "finding_tips": "2 至 4 月融雪时于湿润林床与湿地寻找被暗红紫色佛焰苞包裹的花；能发热融雪。"
+    }
+  },
+  "Theronia laevigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ichneumon wasp",
+    "ja": {
+      "summary": "クロツヤヒラタヒメバチ。ヒメバチ科の寄生バチで、林縁や雑木林、庭、農地周辺に生息する。チョウやガの幼虫・蛹（さなぎ）に寄生し、その体内で幼虫が育つ。黒く光沢のある扁平な体をもつ。害虫の天敵として役立つ。人を刺すことは基本的にない。",
+      "habitat_hint": "林縁、雑木林、庭、農地周辺、公園の樹林。",
+      "finding_tips": "春〜秋、チョウやガの幼虫・蛹のいる場所で、黒く光沢のある扁平な体の寄生バチを探します。"
+    },
+    "en": {
+      "summary": "An ichneumon wasp (Theronia laevigata, Ichneumonidae) of woodland edges, secondary woodland, gardens and around farmland; it parasitises the larvae and pupae of butterflies and moths, its larvae developing inside the host. The body is black, glossy and flattened. A useful natural enemy of pests; it essentially does not sting people.",
+      "habitat_hint": "Woodland edges, secondary woodland, gardens, around farmland, park woods.",
+      "finding_tips": "From spring to autumn look where butterfly and moth larvae and pupae occur for the black, glossy, flattened parasitic wasp."
+    },
+    "zh": {
+      "summary": "クロツヤヒラタヒメバチ（黑亮扁姬蜂类，Theronia laevigata）。姬蜂科寄生蜂，栖于林缘、杂木林、庭园及农地周边，寄生于蝶蛾幼虫与蛹、幼虫在寄主体内发育，体黑而有光泽、扁平，为害虫天敌，基本不螫人。",
+      "habitat_hint": "林缘、杂木林、庭园、农地周边、公园林地。",
+      "finding_tips": "春至秋于有蝶蛾幼虫与蛹处寻找体黑有光泽、扁平的寄生蜂。"
+    }
+  },
+  "Trachelospermum jasminoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケテイカカヅラ。キョウチクトウ科テイカカズラ属の常緑つる性木本で、暖地の照葉樹林の林縁や谷沿い、社寺林に生える。気根で樹や岩に張りつき、他の木に絡んで登る。初夏、白い風車形の芳香のある花を咲かせる。テイカカズラの一型で葉裏などに毛が多い。※茎を切ると白い乳液が出る（有毒）。",
+      "habitat_hint": "暖地の照葉樹林の林縁、谷沿い、社寺林、石垣。",
+      "finding_tips": "5〜6月、白い風車形の芳香のある花と、気根で樹や岩に張りつくつるを探します。切ると白い乳液が出る。"
+    },
+    "en": {
+      "summary": "Star jasmine / confederate jasmine (Trachelospermum jasminoides). An evergreen woody climber (Apocynaceae) of warm-region evergreen forest edges, valleys and shrine forest; it clings to trees and rock by aerial roots and climbs other trees. In early summer it opens fragrant white pinwheel-shaped flowers. This hairy form has abundant hairs on the leaf undersides. A cut stem exudes white latex (poisonous).",
+      "habitat_hint": "Warm-region evergreen forest edges, valleys, shrine forest, stone walls.",
+      "finding_tips": "In May–June look for the fragrant white pinwheel-shaped flowers and the vine clinging to trees and rock by aerial roots; a cut stem exudes white latex."
+    },
+    "zh": {
+      "summary": "ケテイカカヅラ（络石，Trachelospermum jasminoides）。夹竹桃科络石属常绿木质藤本，生于暖地照叶林林缘、谷地与社寺林，以气根附于树与岩、攀附他树，初夏开白色风车形芳香花，此毛型叶背等多毛。折茎流白色乳液（有毒）。",
+      "habitat_hint": "暖地照叶林林缘、谷地、社寺林、石墙。",
+      "finding_tips": "5 至 6 月寻找白色风车形芳香花及以气根附于树岩的藤蔓；折茎流白色乳液。"
+    }
+  },
+  "Tradescantia virginiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオムラサキツユクサ。北アメリカ原産のツユクサ科ムラサキツユクサ属の多年草で、観賞用に広く栽培され、道端や庭、空き地に野生化する。細長い葉をつけ、初夏〜夏、青紫色〜紅紫色の3弁の花を朝に咲かせ、午後にはしぼむ（一日花）。園芸のムラサキツユクサの仲間。",
+      "habitat_hint": "道端、庭、公園、空き地、花壇の周辺。",
+      "finding_tips": "5〜7月、細長い葉と、朝に開いて午後しぼむ青紫色〜紅紫色の3弁花を探します。"
+    },
+    "en": {
+      "summary": "Virginia spiderwort (Tradescantia virginiana). A North-American perennial (Commelinaceae) widely grown as an ornamental and naturalised on roadsides, gardens and vacant lots; it has long narrow leaves and, in early summer to summer, opens blue-purple to rose-purple three-petalled flowers in the morning that wilt by afternoon (day-flowers).",
+      "habitat_hint": "Roadsides, gardens, parks, vacant lots, around flowerbeds.",
+      "finding_tips": "In May–July look for the long narrow leaves and the blue-purple to rose-purple three-petalled flowers that open in the morning and wilt by afternoon."
+    },
+    "zh": {
+      "summary": "オオムラサキツユクサ（弗吉尼亚紫露草，Tradescantia virginiana）。原产北美的鸭跖草科紫露草属多年生草本，广作观赏栽培并野化于路旁、庭园与空地，叶狭长，初夏至夏晨开蓝紫至玫紫色三瓣花、午后凋萎（一日花）。",
+      "habitat_hint": "路旁、庭园、公园、空地、花坛周边。",
+      "finding_tips": "5 至 7 月寻找狭长叶及晨开午萎的蓝紫至玫紫色三瓣花。"
+    }
   }
 }
