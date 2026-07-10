@@ -228644,5 +228644,415 @@
       "habitat_hint": "山道、林道、河滩、向阳裸地、崩塌地。",
       "finding_tips": "4 至 9 月于向阳山道与河滩寻找具红绿蓝金属光泽的美丽甲虫；靠近时飞往前方少许。"
     }
+  },
+  "Cirsium hanamakiense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハナマキアザミ。キク科アザミ属の多年草で、北日本の山地の草地や林縁、道端、やや湿った斜面に生える。紅紫色の頭花を咲かせる。葉は羽状に切れ込み、刺がある。地域性の強い山地のアザミ。",
+      "habitat_hint": "北日本の山地の草地、林縁、道端、やや湿った斜面。",
+      "finding_tips": "8〜10月、紅紫色の頭花と、羽状に切れ込む刺のある葉を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "A perennial thistle (Cirsium hanamakiense, Asteraceae) of montane grassland, woodland edges, roadsides and damp slopes in northern Japan; it opens rose-purple flowerheads, with pinnately lobed, spiny leaves. A regionally variable montane thistle.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, damp slopes in northern Japan.",
+      "finding_tips": "In August–October look on montane grassland for the rose-purple flowerheads and the pinnately lobed, spiny leaves."
+    },
+    "zh": {
+      "summary": "ハナマキアザミ（花卷蓟类，Cirsium hanamakiense）。菊科蓟属多年生草本，生于北日本山地草甸、林缘、路旁及略湿坡地，开红紫色头状花，叶羽状分裂具刺，为地域性强的山地蓟。",
+      "habitat_hint": "北日本山地草甸、林缘、路旁、略湿坡地。",
+      "finding_tips": "8 至 10 月于山地草甸寻找红紫色头状花及羽状分裂具刺的叶。"
+    }
+  },
+  "Cirsium purpuratum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fuji thistle",
+    "ja": {
+      "summary": "フジアザミ。キク科アザミ属の多年草で、富士山周辺など中部の山地の砂礫地や河原、崩壊地、道端に生える。日本のアザミの中でも最大級で、非常に大きな紅紫色の頭花を下向きに咲かせる。葉も大きく、羽状に深く切れ込んで鋭い刺がある。根は食用にされることもある。",
+      "habitat_hint": "中部山地（富士山周辺など）の砂礫地、河原、崩壊地、道端。",
+      "finding_tips": "8〜10月、砂礫地や河原で、非常に大きな紅紫色の頭花を下向きに咲かせる大型のアザミを探します。日本最大級。"
+    },
+    "en": {
+      "summary": "Fuji thistle (Cirsium purpuratum). A perennial thistle (Asteraceae) of sand-gravel, riverbeds, landslips and roadsides in the mountains of central Japan (around Mt Fuji etc.); one of the largest thistles in Japan, it hangs very large rose-purple flowerheads downward. The leaves are large, deeply pinnately lobed with sharp spines. The root is sometimes eaten.",
+      "habitat_hint": "Sand-gravel, riverbeds, landslips, roadsides in central Japanese mountains (e.g. around Mt Fuji).",
+      "finding_tips": "In August–October on sand-gravel and riverbeds look for the large thistle hanging very large rose-purple flowerheads downward; one of Japan's largest."
+    },
+    "zh": {
+      "summary": "フジアザミ（富士蓟，Cirsium purpuratum）。菊科蓟属多年生草本，生于日本中部山地（富士山周边等）砂砾地、河滩、崩塌地与路旁，为日本最大级的蓟，下垂开极大的红紫色头状花，叶大、羽状深裂具锐刺，根或可食。",
+      "habitat_hint": "日本中部山地（富士山周边等）砂砾地、河滩、崩塌地、路旁。",
+      "finding_tips": "8 至 10 月于砂砾地与河滩寻找下垂开极大红紫色头状花的大型蓟；为日本最大级。"
+    }
+  },
+  "Cladonia gracilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cup lichen",
+    "ja": {
+      "summary": "ナギナタゴケ。地衣類（ハナゴケ科ハナゴケ属）で、山地の湿った地面や苔むした岩、腐木、切り株の上に生える。灰緑色〜緑褐色の細い柄状の子器托（子柄）が立ち上がり、先が薙刀（なぎなた）のように曲がったり、杯状に開いたりする。地面を覆うように群生する。",
+      "habitat_hint": "山地の湿った地面、苔むした岩、腐木、切り株、林縁の地上。",
+      "finding_tips": "一年中見られます。地面から立ち上がる灰緑色〜緑褐色の細い柄状の地衣で、先が薙刀状に曲がる姿を探します。"
+    },
+    "en": {
+      "summary": "A cup lichen (Cladonia gracilis, Cladoniaceae) growing on damp montane ground, mossy rock, rotten wood and stumps; grey-green to green-brown slender stalk-like podetia rise up, their tips curving like a naginata blade or opening into cups. It forms carpets over the ground.",
+      "habitat_hint": "Damp montane ground, mossy rock, rotten wood, stumps, woodland-edge ground.",
+      "finding_tips": "Present year-round; look for the grey-green to green-brown slender stalk-like lichen rising from the ground with tips curving like a blade."
+    },
+    "zh": {
+      "summary": "ナギナタゴケ（细石蕊，Cladonia gracilis）。地衣类（石蕊科石蕊属），生于山地湿润地面、生苔岩石、腐木及树桩，灰绿至绿褐色细柄状果柄（子柄）直立、端似薙刀弯曲或开成杯状，成片覆地。",
+      "habitat_hint": "山地湿润地面、生苔岩石、腐木、树桩、林缘地面。",
+      "finding_tips": "全年可见；寻找自地面直立的灰绿至绿褐色细柄状地衣、端似薙刀弯曲之姿。"
+    }
+  },
+  "Comaroma maculosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Armoured spider",
+    "ja": {
+      "summary": "ヨロイヒメグモ。ヨロイヒメグモ科の極めて小さなクモで、湿った林床の落葉の間や苔の中、朽木の際にすむ。腹部が硬い甲羅（よろい）のような板で覆われるのが名の由来。褐色〜暗褐色で、体長は数mmと非常に小さい。落葉の間で小さな虫を捕らえて食べる。",
+      "habitat_hint": "湿った林床の落葉の間、苔の中、朽木の際、社寺林の陰。",
+      "finding_tips": "一年中、湿った林で落葉や苔をふるい、腹部が硬い板で覆われた数mmの極めて小さなクモをルーペで探します。"
+    },
+    "en": {
+      "summary": "An armoured spider (Comaroma maculosa, Anapidae), an extremely small spider living among leaf litter, in moss and by rotten wood on damp woodland floor; the abdomen is covered in a hard armour-like plate (source of the Japanese name). Brown to dark brown and only a few millimetres long, it catches tiny insects in the litter.",
+      "habitat_hint": "Among leaf litter, in moss and by rotten wood on damp woodland floor, shaded shrine forest.",
+      "finding_tips": "Year-round in damp woodland sift litter and moss and use a lens for the few-millimetre spider with an armour-plated abdomen."
+    },
+    "zh": {
+      "summary": "ヨロイヒメグモ（甲腹蛛类，Comaroma maculosa）。安蛛科极小蜘蛛，栖于湿润林床落叶间、苔藓中及朽木际，腹部被硬如甲的板（铠），故名，褐至暗褐色、体长仅数毫米，于落叶间捕食微小虫。",
+      "habitat_hint": "湿润林床落叶间、苔藓中、朽木际、社寺林荫处。",
+      "finding_tips": "全年于湿润林中筛落叶与苔藓，用放大镜寻找腹被硬板、数毫米的极小蜘蛛。"
+    }
+  },
+  "Comibaena amoenaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald moth",
+    "ja": {
+      "summary": "ヘリジロヨツメアオシャク。シャクガ科アオシャク亜科の中型の蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。淡緑色（アオ）の翅に、白い縁（へり）と、目玉のような4つの斑紋（四つ目＝よつめ）がある。幼虫（尺取り虫）はブナ科などの樹木の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜8月、夜に灯火に集まる淡緑色で白い縁と目玉状の4つの斑紋のある中型の蛾を探します。"
+    },
+    "en": {
+      "summary": "An emerald moth (Comibaena amoenaria, Geometridae, Geometrinae) of secondary woodland, edges, shrine forest and park woods; the pale-green wings have a white margin and four eye-like spots. The inchworm larva feeds on Fagaceae and other trees. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to August look at night lights for the medium pale-green moth with a white margin and four eye-like spots."
+    },
+    "zh": {
+      "summary": "ヘリジロヨツメアオシャク（白缘四目青尺蛾类，Comibaena amoenaria）。尺蛾科青尺蛾亚科中型蛾，栖于杂木林、林缘、社寺林与公园林地，翅淡绿（青）、具白缘及似眼的四枚斑（四目），幼虫（尺蠖）取食壳斗科等树叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 8 月夜间于灯下寻找淡绿、具白缘与四枚眼状斑的中型蛾。"
+    }
+  },
+  "Cosmia trapezina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dun-bar moth",
+    "ja": {
+      "summary": "イタヤキリガ。ヤガ科の中型の蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。淡褐色〜黄褐色の翅に、台形（trapezina＝台形）に見える暗色の帯が入る。幼虫はブナ科・カエデ科などの樹木の葉を食べ、他の蛾の幼虫を食べる（肉食性）こともある。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "6〜9月、夜に灯火に集まる淡褐色〜黄褐色で台形に見える暗色の帯のある中型の蛾を探します。"
+    },
+    "en": {
+      "summary": "The dun-bar (Cosmia trapezina). A medium moth (Noctuidae) of secondary woodland, edges, shrine forest and park woods; the pale-brown to yellow-brown wings carry a trapezoid (trapezina) darker band. The larva feeds on Fagaceae, Aceraceae and other trees and may even eat other moth larvae. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From June to September look at night lights for the medium pale-brown to yellow-brown moth with a trapezoid darker band."
+    },
+    "zh": {
+      "summary": "イタヤキリガ（梯纹夜蛾类，Cosmia trapezina）。夜蛾科中型蛾，栖于杂木林、林缘、社寺林与公园林地，翅淡褐至黄褐色、具梯形（trapezina）暗色带，幼虫取食壳斗科、槭科等树叶、亦或食他蛾幼虫（肉食），夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "6 至 9 月夜间于灯下寻找淡褐至黄褐色、具梯形暗带的中型蛾。"
+    }
+  },
+  "Cyathus stercoreus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハタケチャダイゴケ。チャダイゴケ科の小さな担子菌で、畑や庭、道端、堆肥、動物の糞、腐植質の地上に群生する。小さな杯（茶入れ＝ちゃだい）のような形の子実体の中に、レンズ状の小さな粒（ペリジオール＝胞子の入った袋）が入り、雨のしずくで飛び散って散布される。鳥の巣のような姿から英名は「Bird's Nest」。",
+      "habitat_hint": "畑、庭、道端、堆肥、動物の糞、腐植質の地上。夏〜秋。",
+      "finding_tips": "7〜10月、畑や堆肥の周りで、小さな杯形の子実体の中に卵のような粒が入った、鳥の巣のようなキノコを探します。"
+    },
+    "en": {
+      "summary": "Dung bird's nest (Cyathus stercoreus). A small basidiomycete (Nidulariaceae) clustering on fields, gardens, roadsides, compost, dung and humus-rich ground; the small cup-shaped fruitbody holds lens-shaped peridioles (spore packets) that are splashed out by raindrops to disperse. It looks like a tiny bird's nest.",
+      "habitat_hint": "Fields, gardens, roadsides, compost, dung, humus-rich ground; summer to autumn.",
+      "finding_tips": "In July–October around fields and compost look for the tiny bird's-nest-like fungus, a small cup holding egg-like peridioles."
+    },
+    "zh": {
+      "summary": "ハタケチャダイゴケ（粪生黑蛋巢菌，Cyathus stercoreus）。鸟巢菌科小型担子菌，丛生于农田、庭园、路旁、堆肥、动物粪便及腐殖质地上，小杯状子实体内含透镜状小粒（小包，含孢子），雨滴溅出以散布，形如鸟巢。",
+      "habitat_hint": "农田、庭园、路旁、堆肥、动物粪便、腐殖质地面；夏秋。",
+      "finding_tips": "7 至 10 月于农田与堆肥周边寻找似鸟巢的小菌——小杯内含卵状小粒。"
+    }
+  },
+  "Cyclosorus interruptus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swamp fern",
+    "aliases": {
+      "zh-Hans": "毛蕨"
+    },
+    "ja": {
+      "summary": "テツホシダ。ヒメシダ科の常緑〜夏緑性シダで、暖地の湿地や池沼の縁、水路、水田の縁、やや湿った道端に生える。地下茎で広がって群生し、単羽状〜やや2回羽状に分かれた葉を立てる。水湿地を好み、しばしば大きな群落をつくる。",
+      "habitat_hint": "暖地の湿地、池沼の縁、水路、水田の縁、やや湿った道端。",
+      "finding_tips": "夏〜秋、湿地や水路の縁で、地下茎で群生し単羽状の葉を立てるシダを探します。葉裏の円形の胞子嚢群が手がかり。"
+    },
+    "en": {
+      "summary": "Swamp fern (Cyclosorus interruptus). An evergreen to summer-green fern (Thelypteridaceae) of warm-region wetlands, pond margins, channels, paddy edges and damp roadsides; it spreads by rhizomes into stands and raises once-pinnate to slightly twice-pinnate fronds. A water-loving fern that often forms large colonies.",
+      "habitat_hint": "Warm-region wetlands, pond margins, channels, paddy edges, damp roadsides.",
+      "finding_tips": "In summer–autumn at wetlands and channel margins look for the rhizomatous stands of once-pinnate fronds; the round sori beneath are the clue."
+    },
+    "zh": {
+      "summary": "テツホシダ（毛蕨，Cyclosorus interruptus）。金星蕨科常绿至夏绿性蕨类，生于暖地湿地、池沼边缘、水道、水田缘及略湿路旁，借地下茎成丛，叶一回羽状至略二回羽状，喜水湿、常成大群落。",
+      "habitat_hint": "暖地湿地、池沼边缘、水道、水田缘、略湿路旁。",
+      "finding_tips": "夏至秋于湿地与水道缘寻找借地下茎成丛、一回羽状的蕨；叶背圆形孢子囊群为线索。"
+    }
+  },
+  "Cynanchum wilfordii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コイケマ。キョウチクトウ科（旧ガガイモ科）カモメヅル属（イケマ属）のつる性の多年草で、山地の林縁や谷沿い、河原、藪に生える。他の植物に絡んで伸び、ハート形の葉を対生する。夏、淡黄緑色〜淡緑色の小さな花を集散状につける。イケマに似るが小型。太い根は薬用にされる。",
+      "habitat_hint": "山地の林縁、谷沿い、河原、藪、やや湿った斜面。",
+      "finding_tips": "7〜8月、他の植物に絡むつると、ハート形の対生の葉、淡黄緑色の小さな花の集まりを探します。"
+    },
+    "en": {
+      "summary": "Wilford's swallow-wort (Cynanchum wilfordii). A perennial twining vine (Apocynaceae, formerly Asclepiadaceae) of montane woodland edges, valleys, riverbanks and thickets; it climbs other plants with heart-shaped opposite leaves and, in summer, bears small pale yellow-green flowers in cymes. Like Cynanchum caudatum but smaller; the thick root is used medicinally.",
+      "habitat_hint": "Montane woodland edges, valleys, riverbanks, thickets, damp slopes.",
+      "finding_tips": "In July–August look for the twining vine, the heart-shaped opposite leaves and the clusters of small pale yellow-green flowers."
+    },
+    "zh": {
+      "summary": "コイケマ（隔山消，Cynanchum wilfordii）。夹竹桃科（旧萝藦科）鹅绒藤属蔓性多年生草本，生于山地林缘、谷地、河滩与灌丛，缠绕他物、叶心形对生，夏季聚伞状开淡黄绿色小花，似牛皮消而小，粗根入药。",
+      "habitat_hint": "山地林缘、谷地、河滩、灌丛、略湿坡地。",
+      "finding_tips": "7 至 8 月寻找缠绕他物的藤蔓、心形对生叶及淡黄绿色小花之聚集。"
+    }
+  },
+  "Dendriscosticta platyphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lung lichen",
+    "ja": {
+      "summary": "テリハヨロイゴケ。地衣類（ツメゴケ科／ヨロイゴケ属）で、湿った森林の樹幹や苔むした岩に、大きな葉状の体を広げる。表面は光沢のある褐色〜灰褐色で、裏面は黒っぽい。空気のきれいな成熟した森に多く、環境指標にされる。",
+      "habitat_hint": "湿った成熟林の樹幹、苔むした岩。空気のきれいな環境。",
+      "finding_tips": "一年中見られます。湿った森の樹幹や岩に広がる、表面が光沢のある褐色の大きな葉状地衣を探します。"
+    },
+    "en": {
+      "summary": "A lung lichen (Dendriscosticta platyphylla, Peltigeraceae) spreading a large foliose thallus on damp forest trunks and mossy rock; the surface is glossy brown to grey-brown and the underside dark. Common in clean-air mature forest and used as an environmental indicator.",
+      "habitat_hint": "Trunks and mossy rock in damp mature forest; clean-air environments.",
+      "finding_tips": "Present year-round; on damp forest trunks and rock look for the large foliose lichen with a glossy brown surface."
+    },
+    "zh": {
+      "summary": "テリハヨロイゴケ（光叶肺衣类，Dendriscosticta platyphylla）。地衣类（地卷科），于湿润森林树干及生苔岩石上展开大型叶状体，表面有光泽、褐至灰褐色，背面偏黑，多见于空气洁净的成熟林，可作环境指示。",
+      "habitat_hint": "湿润成熟林树干、生苔岩石；空气洁净处。",
+      "finding_tips": "全年可见；于湿润森林树干与岩石上寻找表面有光泽、褐色的大型叶状地衣。"
+    }
+  },
+  "Deutzia maximowicziana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウラジロウツギ。アジサイ科ウツギ属の落葉低木で、暖地の山地の林縁や谷沿い、岩場、道端に生える。葉の裏面が星状毛で白っぽく見える（裏白＝うらじろ）のが名の由来。初夏、白い5弁の花を枝先に多数つける。ウツギの仲間。",
+      "habitat_hint": "暖地の山地の林縁、谷沿い、岩場、道端。",
+      "finding_tips": "5〜6月、白い5弁の花を枝先に多数つける姿と、裏面が白っぽい葉を探します。"
+    },
+    "en": {
+      "summary": "A deciduous shrub (Deutzia maximowicziana, Hydrangeaceae) of warm-region montane woodland edges, valleys, rocky ground and roadsides; the leaf underside looks whitish from star-shaped hairs (source of the Japanese name, \"white-backed\"). In early summer it bears many white five-petalled flowers at the branch tips.",
+      "habitat_hint": "Warm-region montane woodland edges, valleys, rocky ground, roadsides.",
+      "finding_tips": "In May–June look for the many white five-petalled flowers at the branch tips and the whitish-backed leaves."
+    },
+    "zh": {
+      "summary": "ウラジロウツギ（背白溲疏类，Deutzia maximowicziana）。绣球科溲疏属落叶灌木，生于暖地山地林缘、谷地、岩地与路旁，叶背因星状毛而偏白（里白），故名，初夏枝端多生白色五瓣花，为溲疏类。",
+      "habitat_hint": "暖地山地林缘、谷地、岩地、路旁。",
+      "finding_tips": "5 至 6 月寻找枝端多生的白色五瓣花及背面偏白的叶。"
+    }
+  },
+  "Dicranella varia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガスジススキゴケ。シッポゴケ科の小さな蘚類で、道の切り通しや土の斜面、畑、林床の裸地に群生する。葉が一方向になびき、赤褐色の蒴柄を多数立てる。乾いた土の崩れた面や、石灰質の土によく見られる。",
+      "habitat_hint": "道の切り通し、土の斜面、畑、林床の裸地、石灰質の土。",
+      "finding_tips": "一年中見られます。葉が一方向になびく細い群落と、多数立つ赤褐色の蒴柄を土の斜面で探します。"
+    },
+    "en": {
+      "summary": "Variable forklet-moss (Dicranella varia). A small moss (Dicranaceae) forming turfs on road cuttings, soil slopes, fields and bare woodland floor; the leaves sweep to one side and it raises many reddish-brown setae. Common on eroded dry soil faces and calcareous soil.",
+      "habitat_hint": "Road cuttings, soil slopes, fields, bare woodland floor, calcareous soil.",
+      "finding_tips": "Present year-round; on soil slopes look for the fine turf with leaves swept to one side and the many reddish-brown setae."
+    },
+    "zh": {
+      "summary": "ナガスジススキゴケ（多变小曲尾藓，Dicranella varia）。曲尾藓科小型藓类，成丛生于路堑、土坡、农田及林床裸地，叶偏向一侧、竖立多数红褐色蒴柄，多见于干燥崩解土面与石灰质土。",
+      "habitat_hint": "路堑、土坡、农田、林床裸地、石灰质土。",
+      "finding_tips": "全年可见；于土坡上寻找叶偏向一侧的细丛及众多红褐色蒴柄。"
+    }
+  },
+  "Dicranodontium denudatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ユミゴケ。シッポゴケ科の蘚類で、山地の湿った腐木や倒木、樹の根元、岩に生える。細長い葉が弓（ゆみ）のように曲がり、乾くと折れやすい。緑〜黄緑色のクッション状〜マット状の群落をつくる。冷温帯の湿った林内に多い。",
+      "habitat_hint": "山地の湿った腐木、倒木、樹幹の基部、岩、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。弓のように曲がる細長い葉と、腐木や樹の根元に付く緑〜黄緑のマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "Beaked bow-moss (Dicranodontium denudatum). A moss (Dicranaceae) of damp montane rotten wood, logs, tree bases and rock; the elongate leaves curve like a bow and break off easily when dry. It forms green to yellow-green cushions to mats, common in damp cool-temperate forest.",
+      "habitat_hint": "Damp montane rotten wood, logs, tree bases, rock, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens on rotten wood and tree bases to check the bow-curved elongate leaves and the green to yellow-green mats."
+    },
+    "zh": {
+      "summary": "ユミゴケ（弯叶藓类，Dicranodontium denudatum）。曲尾藓科藓类，生于山地湿润腐木、倒木、树基及岩石，狭长叶如弓弯曲、干时易折，形成绿至黄绿色垫至垫状群落，多见于冷温带湿润林内。",
+      "habitat_hint": "山地湿润腐木、倒木、树基、岩石、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察如弓弯曲的狭长叶及腐木树基上的绿至黄绿垫。"
+    }
+  },
+  "Dicranum nipponense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオシッポゴケ。シッポゴケ科の蘚類で、山地の湿った林床の土や腐木、岩、樹の根元に生える。細長い葉が一方向に強くなびき、動物の尻尾（しっぽ）のように見えるのが名の由来。緑〜黄緑色の大きめのマット〜クッションをつくる。",
+      "habitat_hint": "山地の湿った林床の土、腐木、岩、樹幹の基部、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。細長い葉が一方向になびき尻尾のように見える、緑〜黄緑色の大きめのマットをルーペで確認します。"
+    },
+    "en": {
+      "summary": "A moss (Dicranum nipponense, Dicranaceae) of damp montane woodland soil, rotten wood, rock and tree bases; the elongate leaves sweep strongly to one side like an animal's tail (source of the Japanese name). It forms fairly large green to yellow-green mats to cushions.",
+      "habitat_hint": "Damp montane woodland soil, rotten wood, rock, tree bases, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens to check the elongate leaves swept to one side like a tail, in fairly large green to yellow-green mats."
+    },
+    "zh": {
+      "summary": "オオシッポゴケ（东亚曲尾藓，Dicranum nipponense）。曲尾藓科藓类，生于山地湿润林床土壤、腐木、岩石及树基，狭长叶强烈偏向一侧、似兽尾，故名，形成较大的绿至黄绿色垫至垫状群落。",
+      "habitat_hint": "山地湿润林床土壤、腐木、岩石、树基、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜观察狭长叶偏向一侧、似尾的较大绿至黄绿垫。"
+    }
+  },
+  "Didymodon constrictus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チュウゴクネジクチゴケ。センボンゴケ科の小さな蘚類で、道端や石垣、コンクリート、土の裸地、岩の隙間に群生する。乾くと葉がねじれて縮み、湿ると開く。都市の人為的な環境にもよく現れる普通種。",
+      "habitat_hint": "道端、石垣、コンクリート、土の裸地、岩の隙間。",
+      "finding_tips": "一年中見られます。乾くと葉がねじれて縮む小さな緑の群落を、道端や石垣でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small moss (Didymodon constrictus, Pottiaceae) forming turfs on roadsides, stone walls, concrete, bare soil and rock crevices; the leaves twist and shrink when dry and spread when wet. A common species appearing in disturbed urban habitats.",
+      "habitat_hint": "Roadsides, stone walls, concrete, bare soil, rock crevices.",
+      "finding_tips": "Present year-round; use a lens on roadsides and walls to check the small green turfs whose leaves twist and shrink when dry."
+    },
+    "zh": {
+      "summary": "チュウゴクネジクチゴケ（中华对齿藓类，Didymodon constrictus）。丛藓科小型藓类，成丛生于路旁、石墙、混凝土、裸土及岩缝，叶干时扭卷收缩、湿时展开，为城市扰动生境常见种。",
+      "habitat_hint": "路旁、石墙、混凝土、裸土、岩缝。",
+      "finding_tips": "全年可见；用放大镜在路旁与石墙上观察叶干时扭卷收缩的小型绿丛。"
+    }
+  },
+  "Donkia pulcherrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Toothed crust",
+    "ja": {
+      "summary": "アセハリタケ。ハリタケの仲間の担子菌で、広葉樹の枯木や倒木、切株の下面に発生する。革質の子実体が枯れ木の表面に広がり、下面（子実層）に多数の細い針（歯）状の突起が並ぶのが特徴。白色〜クリーム色で、のちに褐色を帯びる。木材腐朽菌。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株の下面。",
+      "finding_tips": "一年中見られます。枯れ木の下面に広がる革質の子実体と、多数の細い針状の突起（歯）を探します。"
+    },
+    "en": {
+      "summary": "A toothed crust fungus (Donkia pulcherrima, Meruliaceae) on the underside of dead broadleaf wood, logs and stumps; the leathery fruitbody spreads over the surface with many fine tooth-like (spine) projections on the underside (fertile layer), white to cream then browning. A wood-rotter.",
+      "habitat_hint": "Underside of dead broadleaf wood, logs, stumps.",
+      "finding_tips": "Present year-round; look on the underside of dead wood for the leathery crust with many fine tooth-like projections."
+    },
+    "zh": {
+      "summary": "アセハリタケ（齿革菌类，Donkia pulcherrima）。齿菌类担子菌，发生于阔叶枯木、倒木与树桩下面，革质子实体铺展表面，下面（子实层）密生细针（齿）状突起为其特征，白至奶油色、后带褐色，为木材腐朽菌。",
+      "habitat_hint": "阔叶枯木、倒木、树桩下面。",
+      "finding_tips": "全年可见；在枯木下面寻找革质子实体及密生的细针状突起（齿）。"
+    }
+  },
+  "Drepanolejeunea vesiculosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カギゴケ。クサリゴケ科の微小な葉状苔類で、常緑樹の葉の上や樹皮、湿った岩に着生する（葉上生することもある）。葉の先が鉤（かぎ）状に曲がるのが名の由来。ルーペでようやく見える大きさで、淡緑色の薄い膜状のコロニーをつくる。",
+      "habitat_hint": "照葉樹林内の常緑樹の葉上、樹皮、湿った岩、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。葉の先が鉤状に曲がる、淡緑色の極小のコケを、樹皮や葉の上でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A minute leafy liverwort (Drepanolejeunea vesiculosa, Lejeuneaceae) epiphytic on the leaves and bark of evergreen trees and on damp rock (sometimes epiphyllous); the leaf tips curve hook-like (source of the Japanese name). Barely visible without a lens, it forms thin pale-green film-like colonies.",
+      "habitat_hint": "Leaf surfaces and bark of evergreen trees, damp rock, shaded streamsides in evergreen forest.",
+      "finding_tips": "Present year-round; use a lens on bark and leaves to check the minute pale-green liverwort with hook-curved leaf tips."
+    },
+    "zh": {
+      "summary": "カギゴケ（钩鳞苔类，Drepanolejeunea vesiculosa）。细鳞苔科微小叶状苔类，附生于常绿树叶面、树皮及湿岩（有时叶附生），叶端钩状弯曲，故名，须借放大镜方可见，形成淡绿色薄膜状群落。",
+      "habitat_hint": "照叶林内常绿树叶面、树皮、湿岩、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜在树皮与叶面上观察叶端钩状弯曲的微小淡绿苔类。"
+    }
+  },
+  "Entodon flavescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エダツヤゴケ。ツヤゴケ科の蘚類で、樹の根元や石垣、地表、腐木に扁平で光沢のある緑〜黄緑色のマットをつくる。都市の公園でもよく見られる。枝分かれし、乾くと黄色みを帯びる。",
+      "habitat_hint": "樹幹の基部、石垣、土の上、腐木、コンクリート際。人里に多い。",
+      "finding_tips": "一年中見られます。扁平で光沢のある緑〜黄緑のマットを樹の根元や石の上で探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Entodon flavescens, Entodontaceae) forming flattened, glossy green to yellow-green mats on tree bases, stone walls, soil and rotten wood; common in parks, branched and yellowish when dry.",
+      "habitat_hint": "Tree bases, stone walls, soil, rotten wood, concrete edges — common near habitation.",
+      "finding_tips": "Present year-round; look for the flat, glossy green to yellow-green mats at tree bases and on stones."
+    },
+    "zh": {
+      "summary": "エダツヤゴケ。绢藓科藓类，于树基、石墙、地表及腐木形成扁平有光泽的绿至黄绿色垫，城市公园中常见，分枝、干时带黄。",
+      "habitat_hint": "树基、石墙、土面、腐木、混凝土边缘；人居环境常见。",
+      "finding_tips": "全年可见；在树基与石面上寻找扁平有光泽的绿至黄绿藓垫。"
+    }
+  },
+  "Entoloma sarcopus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウラベニホテイシメジ。イッポンシメジ科のキノコで、秋に広葉樹林（コナラ・ブナ科など）の地上に発生する。傘は灰褐色で、しばしば表面に白い斑（かすり模様）がある。ひだは成熟すると肉色（淡紅色）を帯び、柄は太い。食用にされるが、有毒のクサウラベニタケ・イッポンシメジと紛らわしく、誤食に厳重注意。",
+      "habitat_hint": "秋の広葉樹林（コナラ・ブナ科など）の地上、雑木林。",
+      "finding_tips": "9〜10月、林床で灰褐色の傘（白い斑）と、成熟して肉色になるひだ、太い柄をもつキノコを探します。有毒種と紛らわしいので要注意。"
+    },
+    "en": {
+      "summary": "A fungus (Entoloma sarcopus, Entolomataceae) fruiting on the ground in broadleaf woodland (oak, Fagaceae) in autumn; the cap is grey-brown, often with white flecks, the gills flush flesh-pink with age, and the stem is stout. It is eaten but is dangerously similar to the poisonous Entoloma rhodopolium/sinuatum — take great care to avoid misidentification.",
+      "habitat_hint": "Autumn ground of broadleaf woodland (oak, Fagaceae), secondary woodland.",
+      "finding_tips": "In September–October look on the woodland floor for the grey-brown, white-flecked cap, the gills maturing flesh-pink and the stout stem; beware poisonous lookalikes."
+    },
+    "zh": {
+      "summary": "ウラベニホテイシメジ（赭褐粉褶菌类，Entoloma sarcopus）。粉褶菌科真菌，秋季发生于阔叶林（栎、壳斗科）地上，菌盖灰褐色、常具白色斑（絣纹），菌褶成熟转肉粉色、柄粗，可食但与有毒的毒粉褶菌极相似，须严防误食。",
+      "habitat_hint": "秋季阔叶林（栎、壳斗科）地面、杂木林。",
+      "finding_tips": "9 至 10 月于林床寻找灰褐色（具白斑）菌盖、成熟转肉粉色菌褶及粗柄的菌；与有毒种相似，务必谨慎。"
+    }
   }
 }
