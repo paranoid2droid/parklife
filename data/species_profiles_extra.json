@@ -225158,5 +225158,432 @@
       "habitat_hint": "暖地山地林缘、谷地、明亮次生林、路旁。",
       "finding_tips": "3 至 4 月寻找白色五瓣花及枝叶天鹅绒状软毛；初夏红熟可食聚合果亦为线索。"
     }
+  },
+  "Rhaphiolepis integerrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マルバシャリンバイ。バラ科シャリンバイ属の常緑低木〜小高木で、暖地の海岸近くの林縁や崖、岩場に生える。厚く光沢のある丸みを帯びた葉をつけ、初夏、白い5弁の花を枝先に集めて咲かせる。秋に黒紫色の果実をつける。シャリンバイの海岸型で葉が丸い。潮風・乾燥に強い。",
+      "habitat_hint": "暖地の海岸近くの林縁、崖、岩場、社寺林。",
+      "finding_tips": "5〜6月、厚く光沢のある丸い葉と、枝先に集まって咲く白い5弁の花を海岸近くで探します。秋の黒紫色の果実も手がかり。"
+    },
+    "en": {
+      "summary": "An evergreen shrub to small tree (Rhaphiolepis integerrima, Rosaceae) of warm-region coastal woodland edges, cliffs and rocky ground; it has thick, glossy, rounded leaves and opens white five-petalled flowers clustered at the branch tips in early summer, with blackish-purple fruit in autumn. A round-leaved coastal form of Indian hawthorn, tolerant of salt spray and drought.",
+      "habitat_hint": "Warm-region coastal woodland edges, cliffs, rocky ground, shrine forest.",
+      "finding_tips": "In May–June near the coast look for the thick glossy rounded leaves and the white five-petalled flowers clustered at the branch tips; the blackish-purple autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "マルバシャリンバイ（全缘石斑木，Rhaphiolepis integerrima）。蔷薇科石斑木属常绿灌木至小乔木，生于暖地近海林缘、崖壁与岩地，叶厚而有光泽、圆钝，初夏枝端聚生白色五瓣花，秋结黑紫色果，为石斑木之圆叶海岸型，耐盐雾与干旱。",
+      "habitat_hint": "暖地近海林缘、崖壁、岩地、社寺林。",
+      "finding_tips": "5 至 6 月于近海处寻找厚而有光泽的圆叶及枝端聚生的白色五瓣花；秋季黑紫色果亦为线索。"
+    }
+  },
+  "Rhynchospora faberi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イトイヌノハナヒゲ。カヤツリグサ科ミカヅキグサ属の多年草で、日当たりのよい湿地や貧栄養の湿った草地、湿った砂地に生える。糸のように細い茎と葉をもち、細い茎の先に褐色の小穂を少数つける。小型で繊細なミカヅキグサの仲間。",
+      "habitat_hint": "日当たりのよい湿地、貧栄養の湿った草地、湿った砂地、湿原。",
+      "finding_tips": "7〜9月、糸のように細い茎と、その先に少数つく褐色の小穂を湿地で探します。"
+    },
+    "en": {
+      "summary": "A beak-sedge (Rhynchospora faberi, Cyperaceae) of sunny wetlands, nutrient-poor damp grassland and wet sand; it has thread-fine stems and leaves and bears a few brown spikelets at the slender stem tips. A small, delicate beak-sedge.",
+      "habitat_hint": "Sunny wetlands, nutrient-poor damp grassland, wet sand, bogs.",
+      "finding_tips": "In July–September look in wetlands for the thread-fine stems with a few brown spikelets at the tips."
+    },
+    "zh": {
+      "summary": "イトイヌノハナヒゲ。莎草科刺子莞属多年生草本，生于向阳湿地、贫营养湿润草地及湿沙地，茎叶细如丝，细茎顶端着生少数褐色小穗，为小型纤细的刺子莞类。",
+      "habitat_hint": "向阳湿地、贫营养湿润草地、湿沙地、湿原。",
+      "finding_tips": "7 至 9 月于湿地寻找细如丝的茎及其顶端少数褐色小穗。"
+    }
+  },
+  "Russula grata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クサハツモドキ。ベニタケ科ベニタケ属のキノコで、夏〜秋に広葉樹林や針葉樹林の地上に発生する。傘は淡黄褐色〜黄土色で、縁に条線がある。強い不快な臭い（草いきれのような臭い）があり、クサハツに似ることが名の由来。食用にはしない。",
+      "habitat_hint": "夏〜秋の広葉樹林・針葉樹林の地上、公園の樹下。",
+      "finding_tips": "7〜10月、林床で淡黄褐色〜黄土色で縁に条線のある傘と、強い不快な臭いをもつキノコを探します。"
+    },
+    "en": {
+      "summary": "A fungus (Russula grata, Russulaceae) fruiting on the ground in broadleaf and conifer woodland in summer to autumn; the cap is pale yellow-brown to ochre with a striate margin. It has a strong unpleasant smell, resembling Russula foetens (source of the Japanese name). Not eaten.",
+      "habitat_hint": "Ground of broadleaf and conifer woodland, park tree bases; summer to autumn.",
+      "finding_tips": "In July–October look on the woodland floor for the pale yellow-brown to ochre cap with a striate margin and a strong unpleasant smell."
+    },
+    "zh": {
+      "summary": "クサハツモドキ（拟臭红菇，Russula grata）。红菇科红菇属真菌，夏秋发生于阔叶林与针叶林地上，菌盖淡黄褐至土黄色、缘具条纹，有强烈不快气味（似草腥），似臭红菇，故名，不作食用。",
+      "habitat_hint": "夏秋阔叶林与针叶林地面、公园树下。",
+      "finding_tips": "7 至 10 月于林床寻找淡黄褐至土黄色、缘具条纹且有强烈不快气味的菌。"
+    }
+  },
+  "Salix ikenoana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イケノヤナギ（オオタチヤナギ等の近縁）。ヤナギ科の落葉低木〜小高木で、河原や川岸、湿った氾濫原に生える。細長い葉をつけ、春、葉の展開とともに垂れ下がる花穂（尾状花序）を出す。攪乱地に定着するパイオニアのヤナギ。",
+      "habitat_hint": "河原、川岸、湿った氾濫原、湿った砂礫地。",
+      "finding_tips": "春、葉の展開とともに出る花穂（尾状花序）を河原で探します。細長い葉が手がかり。"
+    },
+    "en": {
+      "summary": "A deciduous willow (Salix ikenoana, Salicaceae) of riverbeds, banks and damp floodplains; it has narrow leaves and produces drooping catkins with leaf-out in spring. A pioneer willow colonising disturbed river ground.",
+      "habitat_hint": "Riverbeds, banks, damp floodplains, damp sand-gravel.",
+      "finding_tips": "In spring look on riverbeds for the drooping catkins appearing with leaf-out; the narrow leaves are the clue."
+    },
+    "zh": {
+      "summary": "イケノヤナギ。杨柳科落叶灌木至小乔木，生于河滩、河岸与湿润泛滥原，叶狭长，春季随展叶抽出下垂柔荑花序，为定着河流扰动地的先锋柳。",
+      "habitat_hint": "河滩、河岸、湿润泛滥原、湿润砂砾地。",
+      "finding_tips": "春季于河滩寻找随展叶抽出的下垂柔荑花序；狭长叶为线索。"
+    }
+  },
+  "Sasaella shiobarensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サドザサ。イネ科アズマザサ属の常緑の小型のササで、山地の林床や林縁、道端の斜面に群生する。背が低く、地下茎で広がって低い笹原をつくる。冬も枯れない常緑の葉をつける。",
+      "habitat_hint": "山地の林床、林縁、道端の斜面、雑木林。",
+      "finding_tips": "一年中見られます。背の低い常緑の葉と、地下茎で密に群生する低い笹原を観察します。"
+    },
+    "en": {
+      "summary": "A small evergreen dwarf bamboo (Sasaella shiobarensis, Poaceae) forming low colonies on montane woodland floor, edges and roadside slopes; short-statured, it spreads by rhizomes into low swards and keeps its evergreen leaves through winter.",
+      "habitat_hint": "Montane woodland floor, edges, roadside slopes, secondary woodland.",
+      "finding_tips": "Present year-round; note the low evergreen leaves and the dense low sward spread by rhizomes."
+    },
+    "zh": {
+      "summary": "サドザサ。禾本科东笹属常绿小型矮竹，成丛生于山地林床、林缘及路旁坡地，株矮，借地下茎蔓延成低矮竹丛，冬季不枯、叶常绿。",
+      "habitat_hint": "山地林床、林缘、路旁坡地、杂木林。",
+      "finding_tips": "全年可见；观察低矮常绿叶片及借地下茎密集蔓延的低竹丛。"
+    }
+  },
+  "Scapania ciliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウニバヒシャクゴケ。ヒシャクゴケ科の葉状苔類で、湿った岩上や土、腐木、渓流沿いの日陰に生える。葉が上下不等の2裂片に折れ、裂片の縁に細かい繊毛（毛）が並ぶのが特徴。折りたたまれた葉が柄杓（ひしゃく）状に見える。",
+      "habitat_hint": "湿った岩上、土、腐木、渓流沿いの日陰、しみ出し水のある斜面。",
+      "finding_tips": "一年中見られます。上下不等の2裂片に折れ、縁に細かい繊毛のある葉をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Scapania ciliata, Scapaniaceae) of damp rock, soil, rotten wood and shaded streamsides; the leaves fold into unequal upper and lower lobes with fine cilia (hairs) along the lobe margins, the folded leaves looking scoop-like.",
+      "habitat_hint": "Damp rock, soil, rotten wood, shaded streamsides, seepage slopes.",
+      "finding_tips": "Present year-round; use a lens to check the leaves folded into unequal lobes with fine cilia on the margins."
+    },
+    "zh": {
+      "summary": "ウニバヒシャクゴケ（睫毛合叶苔类，Scapania ciliata）。合叶苔科叶状苔类，生于湿岩、土面、腐木及溪流荫处，叶折为上下不等两裂片、裂片缘列生细纤毛，折叠叶似瓢状。",
+      "habitat_hint": "湿岩、土面、腐木、溪流荫处、渗水坡地。",
+      "finding_tips": "全年可见；用放大镜观察折成上下不等两裂片、缘具细纤毛的叶片。"
+    }
+  },
+  "Scarites acutidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ホソヒョウタンゴミムシ。オサムシ科の大型の地表性甲虫で、河原や海岸の砂地、畑にすむ。前胸と上翅の間がくびれてひょうたん形に見える黒く細長い体と、砂を掘るのに適した頑丈な脚が特徴。夜行性で他の昆虫を捕食する。ナガヒョウタンゴミムシに似るが細い。",
+      "habitat_hint": "河原・海岸の砂地、畑、造成地の地表や石の下。",
+      "finding_tips": "5〜9月、夜間に地表を歩く黒く細長くひょうたん形にくびれた大型のゴミムシを探します。昼間は砂中や石の下。"
+    },
+    "en": {
+      "summary": "A large ground beetle (Scarites acutidens, Carabidae) of riverbanks, coastal sand and fields; its black, elongate body is constricted between thorax and elytra into a gourd shape, with stout digging legs. Nocturnal, it preys on other insects. Like Scarites terricola but more slender.",
+      "habitat_hint": "Riverbank and coastal sand, fields, made ground — on the surface or under stones.",
+      "finding_tips": "From May to September look at night for the black, elongate, gourd-shaped large beetle walking the ground; by day it hides in sand or under stones."
+    },
+    "zh": {
+      "summary": "ホソヒョウタンゴミムシ（细葫芦步甲类，Scarites acutidens）。步甲科大型地栖甲虫，栖于河滩、海岸沙地与农田，黑色细长体在前胸与鞘翅间收缢成葫芦形，具适于掘沙的粗壮足，夜行性、捕食其他昆虫，似单齿蝼步甲而更细。",
+      "habitat_hint": "河滩与海岸沙地、农田、造地地表或石下。",
+      "finding_tips": "5 至 9 月夜间于地面寻找黑色细长、葫芦形收缢的大型步甲；白昼藏于沙中或石下。"
+    }
+  },
+  "Scopula nigropunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マエキヒメシャク。シャクガ科ヒメシャク亜科の小さな蛾で、草地や林縁、河川敷、庭に生息する。白っぽい〜淡黄色の翅に、前翅の前縁（まえ）が黄色を帯び、細かい黒点や横線が入る。幼虫（尺取り虫）は各種の草本の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "草地、林縁、河川敷、庭、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる、白っぽい翅の前縁が黄色を帯びた小さな蛾を探します。"
+    },
+    "en": {
+      "summary": "Sub-angled wave (Scopula nigropunctata). A small wave moth (Geometridae, Sterrhinae) of grassland, woodland edges, riverbanks and gardens; the whitish to pale-yellow wings have a yellow-tinged forewing costa and fine black dots and cross-lines. The inchworm larva feeds on various herbs. Nocturnal, it comes to lights.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks, gardens, around lights.",
+      "finding_tips": "From May to September look at night lights for the small moth with whitish wings and a yellow-tinged forewing leading edge."
+    },
+    "zh": {
+      "summary": "マエキヒメシャク（黑点姬尺蛾类，Scopula nigropunctata）。尺蛾科姬尺蛾亚科小型蛾，栖于草地、林缘、河滩与庭园，翅偏白至淡黄、前翅前缘带黄、具细黑点与横线，幼虫（尺蠖）取食多种草本叶，夜行性、趋光。",
+      "habitat_hint": "草地、林缘、河滩、庭园、灯火周边。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找翅偏白、前翅前缘带黄的小型蛾。"
+    }
+  },
+  "Scytosiphon lomentaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カヤモノリ。カヤモノリ科の褐藻で、岩礁の潮間帯に生える海藻。細長い管状（筒状）の体が、節ごとにくびれてソーセージを連ねたように見えるのが特徴。褐色で、冬〜春によく茂る。食用にされることもある。",
+      "habitat_hint": "岩礁の潮間帯、内湾の岩場、澄んだ海の岩。冬〜春。",
+      "finding_tips": "冬〜春、岩礁の潮間帯で、節ごとにくびれてソーセージ状に連なる細長い管状の褐色の海藻を探します。"
+    },
+    "en": {
+      "summary": "A brown seaweed (Scytosiphon lomentaria, Scytosiphonaceae) of the rocky intertidal; its slender tubular body is constricted at intervals like a string of sausages, brown in colour and lush in winter to spring. Sometimes eaten.",
+      "habitat_hint": "Rocky intertidal, sheltered-bay rock, clear-water rock; winter to spring.",
+      "finding_tips": "In winter to spring on the rocky intertidal look for the slender brown tubular seaweed constricted at intervals like a string of sausages."
+    },
+    "zh": {
+      "summary": "カヤモノリ（萱藻，Scytosiphon lomentaria）。萱藻科褐藻，生于岩礁潮间带，藻体细长管状、于各节收缢如串香肠，褐色，冬春繁茂，或作食用。",
+      "habitat_hint": "岩礁潮间带、内湾岩场、清澈海域岩石；冬春。",
+      "finding_tips": "冬春于岩礁潮间带寻找各节收缢如串香肠、细长管状的褐色海藻。"
+    }
+  },
+  "Sinomarsdenia tomentosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キジョラン。キョウチクトウ科（旧ガガイモ科）の常緑つる性木本で、暖地の照葉樹林の林縁や谷沿い、藪に生える。大きな心形の葉を対生し、他の木に絡んで登る。白い小花を咲かせ、大きな袋状の果実をつける。果実が熟して割れると、白い長い毛（絹毛）のついた種子が風に飛ぶ様子が名の由来。アサギマダラ（チョウ）の幼虫の食草として知られる。",
+      "habitat_hint": "暖地の照葉樹林の林縁、谷沿い、藪、社寺林の縁。",
+      "finding_tips": "秋〜冬、大きな袋状の果実が割れて白い毛のついた種子が飛ぶ姿を探します。心形の対生葉が手がかり。アサギマダラの食草。"
+    },
+    "en": {
+      "summary": "An evergreen woody climber (Sinomarsdenia tomentosa, Apocynaceae, formerly Asclepiadaceae) of warm-region evergreen forest edges, valleys and thickets; it has large heart-shaped opposite leaves and climbs other trees, opening small white flowers and bearing large pod-like fruit. The Japanese name refers to the seeds with long white silky hairs blowing away when the ripe fruit splits. It is a foodplant of the chestnut tiger butterfly's larvae.",
+      "habitat_hint": "Warm-region evergreen forest edges, valleys, thickets, shrine-forest margins.",
+      "finding_tips": "In autumn–winter look for the large pod-like fruit splitting to release white-haired wind-borne seeds; the heart-shaped opposite leaves are the clue. A foodplant of the chestnut tiger butterfly."
+    },
+    "zh": {
+      "summary": "キジョラン。夹竹桃科（旧萝藦科）常绿木质藤本，生于暖地照叶林林缘、谷地与灌丛，叶大心形对生，攀附他树，开白色小花、结大型荚状果，果熟开裂时具白色长丝毛的种子随风飞散，为其和名由来，为大绢斑蝶（青斑蝶）幼虫食草。",
+      "habitat_hint": "暖地照叶林林缘、谷地、灌丛、社寺林缘。",
+      "finding_tips": "秋冬寻找大型荚状果开裂、具白毛种子随风飞散之姿；心形对生叶为线索。为大绢斑蝶食草。"
+    }
+  },
+  "Solenostoma infuscum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオホウキゴケ。ツボミゴケ科の葉状苔類で、湿った土の斜面や道の切り通し、渓流沿いの日陰、水のしみ出す岩際に生える。丸みのある葉が茎の左右に並び、暗色（暗褐色）を帯びることがある。水辺や湿った裸地を好む。",
+      "habitat_hint": "湿った土の斜面、道の切り通し、渓流沿いの日陰、水のしみ出す岩際。",
+      "finding_tips": "一年中見られます。丸みのある葉が茎の左右に並ぶ、暗色を帯びるマットを、湿った土や岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Solenostoma infuscum, Solenostomataceae) of damp soil slopes, road cuttings, shaded streamsides and seepage-wet rock; the rounded leaves are set in two ranks and can be dark-tinged (dark brown). It favours watersides and damp bare ground.",
+      "habitat_hint": "Damp soil slopes, road cuttings, shaded streamsides, seepage-wet rock.",
+      "finding_tips": "Present year-round; use a lens on damp soil and rock to check the two-ranked rounded leaves, sometimes dark-tinged."
+    },
+    "zh": {
+      "summary": "オオホウキゴケ（暗色护蒴苔类，Solenostoma infuscum）。护蒴苔科叶状苔类，生于湿润土坡、路堑、溪流荫处及渗水岩际，叶圆钝、沿茎两列排列、有时带暗（暗褐）色，喜水边与湿润裸地。",
+      "habitat_hint": "湿润土坡、路堑、溪流荫处、渗水岩际。",
+      "finding_tips": "全年可见；用放大镜在湿土与岩上观察两列排列、有时带暗色的圆钝叶垫。"
+    }
+  },
+  "Somatochlora viridiaenea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald dragonfly",
+    "ja": {
+      "summary": "エゾトンボ。エゾトンボ科のトンボで、山地・丘陵の湿地や池沼、湿原、その周辺の草地を飛ぶ。体は黒っぽく、金属光沢のある緑色を帯び、複眼も緑色に輝く。素早く力強く飛び回り、水辺の上空をパトロールする。夏〜秋に見られる。",
+      "habitat_hint": "山地・丘陵の湿地、池沼、湿原、その周辺の草地。",
+      "finding_tips": "6〜9月、湿地や池沼の上空を力強く飛び回る、金属緑色を帯びた黒っぽいトンボを探します。緑色に輝く複眼が手がかり。"
+    },
+    "en": {
+      "summary": "An emerald dragonfly (Somatochlora viridiaenea, Corduliidae) of montane and hill wetlands, ponds, bogs and surrounding grassland; the dark body has a metallic green sheen and the eyes shine green. It flies powerfully and patrols over the water. Seen in summer to autumn.",
+      "habitat_hint": "Montane and hill wetlands, ponds, bogs, surrounding grassland.",
+      "finding_tips": "In June–September look over wetlands and ponds for the dark dragonfly with a metallic green sheen patrolling powerfully; the green eyes are the clue."
+    },
+    "zh": {
+      "summary": "エゾトンボ（虾夷绿蜓类，Somatochlora viridiaenea）。伪蜻科蜻蜓，飞行于山地与丘陵湿地、池沼、湿原及周边草地，体偏黑、带金属光泽绿色，复眼亦闪绿光，飞行强健、于水面上空巡飞，夏秋可见。",
+      "habitat_hint": "山地与丘陵湿地、池沼、湿原、周边草地。",
+      "finding_tips": "6 至 9 月于湿地与池沼上空寻找带金属绿色的偏黑蜻蜓；绿色复眼为线索。"
+    }
+  },
+  "Spirodela punctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメウキクサ。サトイモ科（旧ウキクサ科）の非常に小さな浮遊性の水草で、池沼や水田、水路、ため池の水面に浮かんで育つ。楕円形の小さな葉状体（数mm）を浮かべ、裏面に数本の根を垂らす。ウキクサより小型。冬は殖芽（越冬芽）で水底に沈んで越冬する。",
+      "habitat_hint": "池沼、水田、水路、ため池などの止水域の水面。",
+      "finding_tips": "5〜10月、池沼や水田の水面に浮かぶ、楕円形で数mmの小さな葉状体を探します。裏面に数本の根を垂らす。"
+    },
+    "en": {
+      "summary": "Dotted duckmeat (Spirodela punctata / Landoltia punctata). A very small floating aquatic plant (Araceae, formerly Lemnaceae) drifting on the surface of ponds, paddy fields, channels and reservoirs; it floats small oval fronds (a few millimetres) with several roots hanging beneath. Smaller than the common duckweed; it overwinters as sinking turions.",
+      "habitat_hint": "Surface of ponds, paddy fields, channels, reservoirs and other still water.",
+      "finding_tips": "In May–October look on the surface of ponds and paddies for the small oval fronds a few millimetres across with several roots hanging beneath."
+    },
+    "zh": {
+      "summary": "ヒメウキクサ（少根紫萍，Spirodela punctata / Landoltia punctata）。天南星科（旧浮萍科）极小的漂浮水生植物，漂浮于池沼、水田、水道及蓄水池水面，椭圆形小叶状体（数毫米）漂浮、下面垂数条根，较浮萍小，冬以殖芽沉底越冬。",
+      "habitat_hint": "池沼、水田、水道、蓄水池等静水水面。",
+      "finding_tips": "5 至 10 月于池沼与水田水面寻找椭圆形、数毫米的小叶状体；下面垂数条根。"
+    }
+  },
+  "Synurus excelsus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハバヤマボクチ。キク科ヤマボクチ属の大型の多年草で、山地の日当たりのよい草地や林縁、やや乾いた斜面に生える。大きな三角状〜矛形の葉をつけ、秋、暗紫色〜黒紫色の大きな球状の頭花を下向き〜横向きに咲かせる。葉の裏の綿毛は火起こしの火口（ほくち）に使われた。",
+      "habitat_hint": "山地の日当たりのよい草地、林縁、やや乾いた斜面。",
+      "finding_tips": "9〜10月、大きな三角状〜矛形の葉と、暗紫色〜黒紫色の大きな球状の頭花を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "A large perennial (Synurus excelsus, Asteraceae) of sunny montane grassland, woodland edges and drier slopes; it has large triangular to spear-shaped leaves and, in autumn, opens large globular dark-purple to blackish-purple flowerheads facing down or sideways. The woolly hairs on the leaf underside were used as tinder for fire-lighting.",
+      "habitat_hint": "Sunny montane grassland, woodland edges, drier slopes.",
+      "finding_tips": "In September–October look on montane grassland for the large triangular to spear-shaped leaves and the large globular dark-purple flowerheads facing down or sideways."
+    },
+    "zh": {
+      "summary": "ハバヤマボクチ（大山牛蒡类，Synurus excelsus）。菊科山牛蒡属大型多年生草本，生于山地向阳草甸、林缘及较干坡地，叶大三角状至矛形，秋季下垂或侧向开暗紫至黑紫色大型球状头状花，叶背绵毛旧作取火火绒。",
+      "habitat_hint": "山地向阳草甸、林缘、较干坡地。",
+      "finding_tips": "9 至 10 月于山地草甸寻找三角状至矛形大叶及暗紫至黑紫色大型球状头状花。"
+    }
+  },
+  "Thuidium cymbifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメシノブゴケ。シノブゴケ科の蘚類で、湿った林床の土や腐木、岩、樹の根元に、2〜3回羽状に細かく枝分かれしたシダのようなマットをつくる。シノブゴケの仲間で、日本の林内でよく見られる。葉が舟形（cymbifolium＝舟形の葉）に凹む。",
+      "habitat_hint": "湿った林床の土、腐木、岩、樹幹の基部、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。2〜3回羽状に細かく枝分かれした、シダのように繊細な緑のマットを湿った林床で探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Thuidium cymbifolium, Thuidiaceae) forming fern-like mats, two to three times pinnately branched, on damp woodland soil, rotten wood, rock and tree bases; a common fern-moss in Japanese forests, with boat-shaped (cymbifolium) concave leaves.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, tree bases, shaded streamsides.",
+      "finding_tips": "Present year-round; look on damp woodland floor for the delicate, fern-like green mats branched two to three times pinnately."
+    },
+    "zh": {
+      "summary": "ヒメシノブゴケ（舟叶羽藓类，Thuidium cymbifolium）。羽藓科藓类，于湿润林床土壤、腐木、岩石及树基形成二至三回羽状细分枝、状如蕨的垫，日本林内常见，叶舟形（cymbifolium）凹陷。",
+      "habitat_hint": "湿润林床土壤、腐木、岩石、树基、溪流荫处。",
+      "finding_tips": "全年可见；于湿润林床寻找二至三回羽状细分枝、纤细如蕨的绿垫。"
+    }
+  },
+  "Tournefortia sibirica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スナビキソウ。ムラサキ科スナビキソウ属の多年草で、海岸の砂浜や砂丘に地下茎で広がって群生する。粉白色を帯びた細長い葉をつけ、初夏、白い小さな筒状の花を集散状に咲かせ、甘い香りがある。地下茎で砂を引くように広がる（砂引き）ことが名の由来。アサギマダラ（チョウ）が集まることでも知られる。",
+      "habitat_hint": "海岸の砂浜、砂丘、海に近い砂地。",
+      "finding_tips": "5〜7月、砂浜で粉白色の細長い葉と、白い小さな筒状の花の集まりを探します。甘い香りが手がかり。"
+    },
+    "en": {
+      "summary": "Siberian sea rosemary (Tournefortia sibirica, syn. Messerschmidia sibirica). A perennial (Boraginaceae) forming stands on coastal beaches and dunes by rhizomes; it has glaucous, elongated leaves and, in early summer, small white tubular flowers in cymes with a sweet scent. Named for spreading by rhizomes as if drawing through the sand, and known for attracting the chestnut tiger butterfly.",
+      "habitat_hint": "Coastal beaches, dunes, sandy ground near the sea.",
+      "finding_tips": "In May–July on beaches look for the glaucous elongated leaves and the clusters of small white tubular flowers; the sweet scent is a clue."
+    },
+    "zh": {
+      "summary": "スナビキソウ（砂引草／紫丹草，Tournefortia sibirica）。紫草科砂引草属多年生草本，借地下茎成丛生于海岸沙滩与沙丘，叶狭长被粉白，初夏聚伞状开白色筒状小花、气味芳甜，因借地下茎如引沙而蔓延得名，以吸引大绢斑蝶著称。",
+      "habitat_hint": "海岸沙滩、沙丘、近海沙地。",
+      "finding_tips": "5 至 7 月于沙滩寻找被粉白的狭长叶及白色筒状小花之聚集；芳甜香气为线索。"
+    }
+  },
+  "Trametes strumosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "センベイタケ。タマチョレイタケ科の一年生の硬い多孔菌で、広葉樹の枯木や倒木、切株に発生する。半円形〜円形の傘は薄く、せんべいのように平たいのが名の由来。表面は褐色〜灰褐色で、裏面は細かい管孔。木材腐朽菌。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株の上。",
+      "finding_tips": "一年中見られます。枯木につくせんべいのように薄く平たい半円形の傘と、裏面の細かい管孔を探します。"
+    },
+    "en": {
+      "summary": "An annual, tough polypore (Trametes strumosa, Polyporaceae) on dead broadleaf wood, logs and stumps; the semicircular to circular cap is thin and flat like a rice cracker (source of the Japanese name), brown to grey-brown above with a finely pored underside. A wood-rotter.",
+      "habitat_hint": "Dead broadleaf wood, fallen logs, stumps.",
+      "finding_tips": "Present year-round; look on dead wood for the thin, flat, rice-cracker-like semicircular cap and the finely pored underside."
+    },
+    "zh": {
+      "summary": "センベイタケ（薄栓菌类，Trametes strumosa）。多孔菌科一年生硬质多孔菌，发生于阔叶枯木、倒木与树桩，菌盖半圆至圆形、薄而平如仙贝（和名由来），表面褐至灰褐色，下面细密管孔，为木材腐朽菌。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "全年可见；在枯木上寻找薄而平如仙贝的半圆形菌盖及下面细密管孔。"
+    }
+  },
+  "Tropideres naevulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fungus weevil",
+    "ja": {
+      "summary": "キマダラヒゲナガゾウムシ。ヒゲナガゾウムシ科の小さな甲虫で、広葉樹の枯木や倒木、そこに生えるキノコ（菌類）の周辺にすむ。黒地に黄色〜黄褐色のまだら模様があり、長い触角をもつ。枯木や菌類を食べて育つ。",
+      "habitat_hint": "広葉樹の枯木、倒木、そこに生えるキノコの周辺、朽木。",
+      "finding_tips": "5〜9月、枯木や倒木の上で、黒地に黄色〜黄褐色のまだら模様と長い触角をもつ小さな甲虫を探します。"
+    },
+    "en": {
+      "summary": "A fungus weevil (Tropideres naevulus, Anthribidae) living on dead broadleaf wood and logs and around the fungi growing on them; it is black with yellow to yellow-brown mottling and has long antennae. It feeds on dead wood and fungi.",
+      "habitat_hint": "Dead broadleaf wood, logs, around the fungi on them, rotten wood.",
+      "finding_tips": "From May to September look on dead wood and logs for the small beetle mottled yellow to yellow-brown on black, with long antennae."
+    },
+    "zh": {
+      "summary": "キマダラヒゲナガゾウムシ（黄斑长角象类，Tropideres naevulus）。长角象科小型甲虫，栖于阔叶枯木、倒木及其上所生真菌周边，体黑具黄至黄褐色斑纹、触角长，取食枯木与真菌。",
+      "habitat_hint": "阔叶枯木、倒木、其上真菌周边、朽木。",
+      "finding_tips": "5 至 9 月于枯木与倒木上寻找黑底具黄至黄褐色斑纹、触角长的小型甲虫。"
+    }
+  },
+  "Vaccinium ovalifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oval-leaf blueberry",
+    "aliases": {
+      "zh-Hans": "卵叶越橘"
+    },
+    "ja": {
+      "summary": "クロウスゴ。ツツジ科スノキ属の落葉低木で、亜高山〜高山帯の針葉樹林の林床や林縁、湿った斜面に生える。卵形〜楕円形の葉をつけ、初夏、壺形の淡紅色〜緑白色の花を下向きに咲かせる。秋、黒紫色に熟す小さな果実をつける。果実は食べられる（ブルーベリーの仲間）。",
+      "habitat_hint": "亜高山〜高山帯の針葉樹林の林床、林縁、湿った斜面。",
+      "finding_tips": "6〜7月、卵形の葉と、下向きの壺形の淡紅色〜緑白色の花を探します。秋の黒紫色に熟す食べられる果実も手がかり。"
+    },
+    "en": {
+      "summary": "Oval-leaf blueberry (Vaccinium ovalifolium). A deciduous shrub (Ericaceae) of subalpine to alpine conifer-forest floor, edges and damp slopes; it has oval to elliptic leaves and, in early summer, hangs urn-shaped pink to greenish-white flowers, with small blue-black-ripening edible fruit in autumn (a blueberry).",
+      "habitat_hint": "Subalpine to alpine conifer-forest floor, edges, damp slopes.",
+      "finding_tips": "In June–July look for the oval leaves and the nodding urn-shaped pink to greenish-white flowers; the small blue-black edible autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "クロウスゴ（卵叶越橘，Vaccinium ovalifolium）。杜鹃花科越橘属落叶灌木，生于亚高山至高山针叶林林床、林缘与湿坡，叶卵形至椭圆形，初夏下垂开壶形淡红至绿白色花，秋结蓝黑熟的可食小果（越橘/蓝莓类）。",
+      "habitat_hint": "亚高山至高山针叶林林床、林缘、湿坡。",
+      "finding_tips": "6 至 7 月寻找卵形叶及下垂的壶形淡红至绿白色花；秋季蓝黑熟的可食果亦为线索。"
+    }
+  },
+  "Vandenboschia auriculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツルホラゴケ。コケシノブ科の常緑性シダ（膜状シダ）で、暖地の湿った岩壁や樹幹、渓谷沿いの日陰に着生する。葉は膜のように薄く半透明で、細く分裂する。根茎を長く這わせて広がる（ツル＝つる状）。滝のしぶきのかかる湿った岩に多い。",
+      "habitat_hint": "暖地の湿った岩壁、樹幹、渓谷沿いの日陰、滝のしぶきのかかる岩。",
+      "finding_tips": "一年中見られます。膜のように薄く半透明の葉と、岩壁を長く這う根茎を、湿った日陰でルーペで探します。"
+    },
+    "en": {
+      "summary": "An evergreen filmy fern (Vandenboschia auriculata, Hymenophyllaceae) epiphytic on damp rock walls, trunks and shaded ravines in warm regions; the fronds are membrane-thin and translucent, finely divided, and it spreads by a long-creeping rhizome. Common on spray-wet rock by falls.",
+      "habitat_hint": "Damp rock walls, trunks, shaded ravines, spray-wet rock in warm regions.",
+      "finding_tips": "Present year-round; use a lens in damp shade to find the membrane-thin translucent fronds and the long-creeping rhizome on rock walls."
+    },
+    "zh": {
+      "summary": "ツルホラゴケ。膜蕨科常绿蕨类（膜蕨），附生于暖地湿润岩壁、树干及溪谷荫处，叶薄如膜而半透明、细裂，借长匍匐根状茎蔓延（ツル 蔓状），多见于瀑布飞溅的湿岩。",
+      "habitat_hint": "暖地湿润岩壁、树干、溪谷荫处、瀑布飞溅岩面。",
+      "finding_tips": "全年可见；用放大镜于湿润荫处寻找薄如膜的半透明叶及岩壁上长匍匐的根状茎。"
+    }
   }
 }
