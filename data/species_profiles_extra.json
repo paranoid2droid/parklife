@@ -224266,5 +224266,446 @@
       "habitat_hint": "阔叶枯木、倒木、树桩树皮下。",
       "finding_tips": "全年剥开枯木与倒木树皮寻找极扁平、黑而有光泽的甲虫；受惊迅速钻入缝隙。"
     }
+  },
+  "Hypericum hakonense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロテンコオトギリ。オトギリソウ科オトギリソウ属の多年草で、山地の日当たりのよい草地や林縁、岩場、道端に生える。夏、黄色い5弁の花を咲かせる。葉や花に黒い点（黒点＝油点や黒点）が入るのが名の由来。オトギリソウの仲間で小型。",
+      "habitat_hint": "山地の日当たりのよい草地、林縁、岩場、道端。",
+      "finding_tips": "7〜8月、黄色い5弁の花と、葉や花に入る黒い点を山地の草地で探します。オトギリソウより小型。"
+    },
+    "en": {
+      "summary": "A perennial St John's-wort (Hypericum hakonense, Hypericaceae) of sunny montane grassland, woodland edges, rocky ground and roadsides; in summer it opens yellow five-petalled flowers, and dark dots on the leaves and flowers give the Japanese name. A small hypericum.",
+      "habitat_hint": "Sunny montane grassland, woodland edges, rocky ground, roadsides.",
+      "finding_tips": "In July–August look on montane grassland for the yellow five-petalled flowers and the dark dots on the leaves and flowers; smaller than the common St John's-wort."
+    },
+    "zh": {
+      "summary": "クロテンコオトギリ（黑点小连翘类，Hypericum hakonense）。金丝桃科金丝桃属多年生草本，生于山地向阳草甸、林缘、岩地与路旁，夏开黄色五瓣花，叶花具黑点（黑点/油点），故名，为小连翘类之小型者。",
+      "habitat_hint": "山地向阳草甸、林缘、岩地、路旁。",
+      "finding_tips": "7 至 8 月于山地草甸寻找黄色五瓣花及叶花上的黑点；较小连翘小。"
+    }
+  },
+  "Inurois membranaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter moth",
+    "ja": {
+      "summary": "クロテンフユシャク。シャクガ科フユシャク亜科の冬に出現する蛾（冬尺蛾）で、雑木林や林縁、社寺林に生息する。冬（12〜2月頃）の寒い時期に成虫が現れるのが特徴。オスは灰白色の翅に黒い点があり、メスは翅が退化して飛べない。幼虫（尺取り虫）は春に樹木の若葉を食べる。",
+      "habitat_hint": "冬の雑木林、林縁、社寺林、公園の樹林。",
+      "finding_tips": "12〜2月、冬の寒い夜、雑木林や林縁で灰白色の翅に黒い点のあるオスの蛾を探します。メスは翅が退化して飛べない。"
+    },
+    "en": {
+      "summary": "A winter moth (Inurois membranaria, Geometridae, Alsophilinae) of secondary woodland, edges and shrine forest; unusually, the adults appear in the cold of winter (around December–February). The male has grey-white wings with black dots, while the flightless female has reduced wings. The inchworm larva eats young tree leaves in spring.",
+      "habitat_hint": "Winter secondary woodland, woodland edges, shrine forest, park woods.",
+      "finding_tips": "In December–February on cold winter nights look in woodland for the male with grey-white, black-dotted wings; the female is flightless with reduced wings."
+    },
+    "zh": {
+      "summary": "クロテンフユシャク（黑点冬尺蛾类，Inurois membranaria）。尺蛾科冬尺蛾亚科于冬季出现的蛾，栖于杂木林、林缘与社寺林，成虫于冬季寒冷期（约 12–2 月）出现为其特征，雄蛾翅灰白具黑点，雌蛾翅退化不能飞，幼虫（尺蠖）春季取食树木嫩叶。",
+      "habitat_hint": "冬季杂木林、林缘、社寺林、公园林地。",
+      "finding_tips": "12 至 2 月寒冬夜于林中寻找翅灰白具黑点的雄蛾；雌蛾翅退化不能飞。"
+    }
+  },
+  "Isodontia nigella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass-carrying wasp",
+    "ja": {
+      "summary": "コクロアナバチ。アナバチ科（ジガバチの仲間）の狩りバチで、林縁や草地、庭、人家周辺に生息する。黒い細長い体をもつ。竹筒や木の穴、すき間に巣をつくり、狩ったキリギリスやコオロギの仲間を運び込んで卵を産む。巣に草や葉を詰める習性で知られる。人をめったに刺さない。",
+      "habitat_hint": "林縁、草地、庭、人家周辺、竹垣や木の穴の周辺。",
+      "finding_tips": "6〜9月、竹筒や木の穴、すき間に草を運び込む黒い細長い狩りバチを探します。キリギリス類を運ぶ姿も手がかり。"
+    },
+    "en": {
+      "summary": "A grass-carrying wasp (Isodontia nigella, Sphecidae) of woodland edges, grassland, gardens and around houses; it has a black elongate body. It nests in bamboo tubes, tree holes and crevices, provisioning it with hunted katydids and crickets and laying eggs, and is known for packing the nest with grass and leaves. It rarely stings people.",
+      "habitat_hint": "Woodland edges, grassland, gardens, around houses, near bamboo fences and tree holes.",
+      "finding_tips": "From June to September look for the black elongate wasp carrying grass into bamboo tubes, tree holes and crevices; carrying katydids is another clue."
+    },
+    "zh": {
+      "summary": "コクロアナバチ（黑泥蜂类，Isodontia nigella）。泥蜂科狩猎蜂，栖于林缘、草地、庭园及住家周边，体黑而细长，于竹筒、树洞及缝隙筑巢，搬入所猎螽斯与蟋蟀类并产卵，以巢内填充草叶著称，鲜少螫人。",
+      "habitat_hint": "林缘、草地、庭园、住家周边、竹篱与树洞周边。",
+      "finding_tips": "6 至 9 月寻找搬草入竹筒、树洞与缝隙的黑色细长狩猎蜂；搬运螽斯之姿亦为线索。"
+    }
+  },
+  "Lepidium campestre": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウロコナズナ。ヨーロッパ原産のアブラナ科マメグンバイナズナ属の一〜越年草で、道端や河川敷、荒れ地、造成地に帰化する。ロゼットから花茎を立て、白い小さな4弁の花を総状につける。果実（うろこ状に見える扁平な短角果）が名の由来。",
+      "habitat_hint": "道端、河川敷、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜7月、白い小さな4弁花の総状花序と、うろこ状に見える扁平な果実を道端や荒れ地で探します。"
+    },
+    "en": {
+      "summary": "Field pepperwort (Lepidium campestre). A European annual to biennial (Brassicaceae) naturalised on roadsides, riverbanks, waste and made ground; from a rosette it raises a stalk with racemes of small white four-petalled flowers, and its flattened scale-like pods give the Japanese name.",
+      "habitat_hint": "Roadsides, riverbanks, waste and made ground in sunny places.",
+      "finding_tips": "In May–July look on roadsides and waste ground for the racemes of small white four-petalled flowers and the flattened scale-like pods."
+    },
+    "zh": {
+      "summary": "ウロコナズナ（绿独行菜，Lepidium campestre）。原产欧洲的十字花科独行菜属一至二年生草本，归化于路旁、河滩、荒地与造地，由莲座抽花茎，总状着生白色四瓣小花，果（扁平似鳞的短角果）为和名由来。",
+      "habitat_hint": "路旁、河滩、荒地、造地向阳处。",
+      "finding_tips": "5 至 7 月于路旁与荒地寻找白色四瓣小花的总状花序及扁平似鳞的短角果。"
+    }
+  },
+  "Leptochilus wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤリノホクリハラン。ウラボシ科の常緑性シダで、暖地の樹幹や苔むした岩、湿った石垣に着生する。分裂しない細長い単葉（栄養葉）と、より細く長い胞子葉をつける。槍の穂（やりのほ）のような細長い葉が名の由来。暖地の湿った林内に生える。",
+      "habitat_hint": "暖地の湿った樹幹、苔むした岩、湿った石垣、渓谷沿いの日陰。",
+      "finding_tips": "一年中見られます。分裂しない細長い単葉と、より細く長い胞子葉を、暖地の樹幹や岩で探します。"
+    },
+    "en": {
+      "summary": "An evergreen fern (Leptochilus wrightii, Polypodiaceae) epiphytic on tree trunks, mossy rock and damp stone walls in warm regions; it bears simple, undivided, elongated sterile fronds and narrower, longer fertile fronds. The spear-tip-shaped fronds give the Japanese name.",
+      "habitat_hint": "Damp tree trunks, mossy rock, damp stone walls, shaded ravines in warm regions.",
+      "finding_tips": "Present year-round; on trunks and rock look for the undivided elongated sterile fronds and the narrower, longer fertile fronds."
+    },
+    "zh": {
+      "summary": "ヤリノホクリハラン。水龙骨科常绿蕨类，附生于暖地树干、生苔岩石及湿润石墙，具不裂的狭长单叶（营养叶）与更细长的孢子叶，叶狭长如枪尖，故名，生于暖地湿润林内。",
+      "habitat_hint": "暖地湿润树干、生苔岩石、湿润石墙、溪谷荫处。",
+      "finding_tips": "全年可见；于暖地树干与岩上寻找不裂的狭长单叶及更细长的孢子叶。"
+    }
+  },
+  "Ligusticum scothicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scots lovage",
+    "ja": {
+      "summary": "マルバトウキ。セリ科マルバトウキ属の多年草で、北日本〜寒冷地の海岸の岩場や砂礫地、崖に生える。厚く光沢のある丸みを帯びた葉（3出複葉）をつけ、夏、白い小花を複散形花序につける。海岸性で塩分・風に強い。",
+      "habitat_hint": "北日本〜寒冷地の海岸の岩場、砂礫地、崖。",
+      "finding_tips": "7〜8月、海岸の岩場で、厚く光沢のある丸みを帯びた3出複葉と、白い小花の複散形花序を探します。"
+    },
+    "en": {
+      "summary": "Scots lovage (Ligusticum scothicum). A perennial (Apiaceae) of coastal rocky ground, sand-gravel and cliffs in northern Japan and cold regions; it has thick, glossy, rounded (trifoliolate) leaves and bears white flowers in compound umbels in summer, tolerant of salt and wind.",
+      "habitat_hint": "Coastal rocky ground, sand-gravel and cliffs in northern Japan and cold regions.",
+      "finding_tips": "In July–August on coastal rocks look for the thick, glossy, rounded trifoliolate leaves and the compound umbels of white flowers."
+    },
+    "zh": {
+      "summary": "マルバトウキ（苏格兰当归类，Ligusticum scothicum）。伞形科多年生草本，生于北日本至寒冷地海岸岩地、砂砾地与崖壁，叶厚而有光泽、圆钝（三出复叶），夏季复伞形花序着生白花，耐盐耐风。",
+      "habitat_hint": "北日本至寒冷地海岸岩地、砂砾地、崖壁。",
+      "finding_tips": "7 至 8 月于海岸岩地寻找厚而有光泽的圆钝三出复叶及白花的复伞形花序。"
+    }
+  },
+  "Lomentaria catenata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フシツナギ。フシツナギ科の紅藻で、岩礁の潮間帯〜浅海に生える海藻。細い枝が節（ふし）ごとにくびれて数珠状につながり、赤紫色〜紅色。名（節つなぎ）のとおり、くびれた枝が連なる姿が特徴。他の海藻や岩に付いて育つ。",
+      "habitat_hint": "岩礁の潮間帯〜浅海、他の海藻の上、澄んだ海の岩場。",
+      "finding_tips": "春〜夏、岩礁で、節ごとにくびれて数珠状に連なる赤紫色〜紅色の細い海藻を探します。"
+    },
+    "en": {
+      "summary": "A red seaweed (Lomentaria catenata, Lomentariaceae) of the intertidal to shallow subtidal on rocky reefs; the slender branches are constricted at each joint into a bead-like chain, red-purple to red. True to its name (\"joint-connecting\"), the constricted branches link in series. It grows on other seaweeds and rock.",
+      "habitat_hint": "Intertidal to shallow subtidal rocky reefs, on other seaweeds, clear-water rock.",
+      "finding_tips": "In spring to summer on rocky reefs look for the slender red-purple to red seaweed constricted at each joint into a bead-like chain."
+    },
+    "zh": {
+      "summary": "フシツナギ（链状节荚藻，Lomentaria catenata）。节荚藻科红藻，生于岩礁潮间带至浅海，细枝于各节收缢、成串珠状相连，紫红至红色，如和名（连节），附于他种海藻与岩石生长。",
+      "habitat_hint": "岩礁潮间带至浅海、他种海藻上、清澈海域岩滩。",
+      "finding_tips": "春至夏于岩礁寻找各节收缢、成串珠状相连的紫红至红色细藻。"
+    }
+  },
+  "Lopinga achine": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Woodland brown",
+    "ja": {
+      "summary": "ウラジャノメ。タテハチョウ科ジャノメチョウ亜科のチョウで、山地・丘陵の落葉樹林や雑木林、林縁の下草の多い場所に生息する。褐色の翅に、蛇の目（じゃのめ）模様の眼状紋が並ぶ。翅の裏面（うら）に大きな眼状紋が目立つのが名の由来。幼虫はイネ科・カヤツリグサ科の草を食べる。",
+      "habitat_hint": "山地・丘陵の落葉樹林、雑木林、林縁の下草の多い場所。",
+      "finding_tips": "6〜8月、林縁や林内の下草の間を飛ぶ、褐色で眼状紋の並ぶチョウを探します。翅裏の大きな眼状紋が手がかり。"
+    },
+    "en": {
+      "summary": "Woodland brown (Lopinga achine). A satyrine butterfly (Nymphalidae) of montane and hill deciduous and secondary woodland and grassy woodland edges; the brown wings carry rows of eye-spots, with large eye-spots on the underside (source of the Japanese name). Larvae feed on grasses and sedges.",
+      "habitat_hint": "Montane and hill deciduous and secondary woodland, grassy woodland edges.",
+      "finding_tips": "In June–August look among the undergrowth of woodland edges and interiors for the brown butterfly with rows of eye-spots; the large underside eye-spots are the clue."
+    },
+    "zh": {
+      "summary": "ウラジャノメ（黄环链眼蝶类，Lopinga achine）。蛱蝶科眼蝶亚科蝴蝶，栖于山地与丘陵落叶林、杂木林及林缘多草处，翅褐色、具排列的眼状纹，翅反面大眼状纹明显，故名，幼虫取食禾本科与莎草科草。",
+      "habitat_hint": "山地与丘陵落叶林、杂木林、林缘多草处。",
+      "finding_tips": "6 至 8 月于林缘与林内草丛间寻找褐色、具排列眼状纹的蝶；翅反面大眼状纹为线索。"
+    }
+  },
+  "Loxogramme salicifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワヤナギシダ。ウラボシ科サジラン属の常緑性シダで、山地の樹幹や苔むした岩、湿った石垣に着生する。分裂しない細長い柳の葉のような単葉をつけ、葉裏に線形の胞子嚢群が斜めに並ぶ。サジランに似るが葉が細長い。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩、湿った石垣、渓谷沿いの日陰。",
+      "finding_tips": "一年中見られます。分裂しない細長い柳の葉のような単葉と、葉裏に斜めに並ぶ線形の胞子嚢群を樹幹や岩で探します。"
+    },
+    "en": {
+      "summary": "An evergreen fern (Loxogramme salicifolia, Polypodiaceae) epiphytic on montane tree trunks, mossy rock and damp stone walls; its simple, undivided, elongated willow-like fronds bear linear sori set obliquely on the underside. Like Loxogramme cuspidata but with narrower fronds.",
+      "habitat_hint": "Damp montane tree trunks, mossy rock, damp stone walls, shaded ravines.",
+      "finding_tips": "Present year-round; on trunks and rock look for the undivided, elongated willow-like fronds and the oblique linear sori beneath."
+    },
+    "zh": {
+      "summary": "イワヤナギシダ。水龙骨科匙叶蕨属常绿蕨类，附生于山地树干、生苔岩石及湿润石墙，单叶不裂、狭长如柳，叶背斜列线形孢子囊群，似匙叶蕨而叶更狭长。",
+      "habitat_hint": "山地湿润树干、生苔岩石、湿润石墙、溪谷荫处。",
+      "finding_tips": "全年可见；于树干与岩上寻找不裂、狭长如柳的单叶及叶背斜列的线形孢子囊群。"
+    }
+  },
+  "Lupinus polyphyllus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Garden lupine",
+    "aliases": {
+      "zh-Hans": "多叶羽扇豆"
+    },
+    "ja": {
+      "summary": "タヨウハウチワマメ（ルピナス）。北アメリカ原産のマメ科ハウチワマメ属の多年草で、観賞用に栽培され、道端や河川敷、高原の草地に野生化する。掌状に多数の小葉が集まる葉（うちわ形）をつけ、初夏、青紫色〜紅紫色などの蝶形の花を大きな穂状に密につける。寒冷地では野生化して問題になることもある。",
+      "habitat_hint": "道端、河川敷、高原の草地、花壇の周辺、造成地。",
+      "finding_tips": "6〜7月、掌状に多数の小葉が集まる葉と、青紫色などの蝶形花が大きな穂状に密につく花序を探します。"
+    },
+    "en": {
+      "summary": "Garden lupine (Lupinus polyphyllus). A North-American perennial (Fabaceae) grown as an ornamental and naturalised on roadsides, riverbanks and highland grassland; it has palmate leaves of many leaflets (fan-shaped) and, in early summer, dense tall spikes of blue-purple to rose-purple pea flowers. It can become an invasive problem in cold regions.",
+      "habitat_hint": "Roadsides, riverbanks, highland grassland, around flowerbeds, made ground.",
+      "finding_tips": "In June–July look for the palmate leaves of many leaflets and the dense tall spikes of blue-purple pea flowers."
+    },
+    "zh": {
+      "summary": "タヨウハウチワマメ（多叶羽扇豆，Lupinus polyphyllus）。原产北美的豆科羽扇豆属多年生草本，作观赏栽培并野化于路旁、河滩与高原草甸，掌状复叶多小叶（扇形），初夏大型穗状密生蓝紫至玫紫色蝶形花，寒冷地或野化成患。",
+      "habitat_hint": "路旁、河滩、高原草甸、花坛周边、造地。",
+      "finding_tips": "6 至 7 月寻找掌状多小叶的叶及蓝紫色蝶形花密生的大型花穗。"
+    }
+  },
+  "Macaria shanghaisaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometrid moth",
+    "ja": {
+      "summary": "シャンハイオエダシャク。シャクガ科エダシャク亜科の中型の蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。淡褐色〜灰褐色の翅に細い横線が入る。幼虫（尺取り虫）はマメ科などの樹木・草本の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる淡褐色〜灰褐色で細い横線のある中型の蛾を探します。"
+    },
+    "en": {
+      "summary": "A geometrid moth (Macaria shanghaisaria, Geometridae, Ennominae) of secondary woodland, edges, shrine forest and park woods; the pale-brown to grey-brown wings carry fine cross-lines. The inchworm larva feeds on the leaves of legumes and other woody and herbaceous plants. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to September look at night lights for the medium pale-brown to grey-brown moth with fine cross-lines."
+    },
+    "zh": {
+      "summary": "シャンハイオエダシャク（上海尺蛾类，Macaria shanghaisaria）。尺蛾科尺蛾亚科中型蛾，栖于杂木林、林缘、社寺林与公园林地，翅淡褐至灰褐色、具细横线，幼虫（尺蠖）取食豆科等木本与草本叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找淡褐至灰褐色、具细横线的中型蛾。"
+    }
+  },
+  "Mallada krakatauensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green lacewing",
+    "ja": {
+      "summary": "クラカタウクサカゲロウ。クサカゲロウ科の昆虫で、林縁や庭、草地、畑、灯火の周りにすむ。淡緑色の細い体と、透明で網目状の翅をもつ。成虫・幼虫ともにアブラムシなどを捕食する益虫。幼虫は食べたアブラムシの殻やごみを背中に背負ってカモフラージュすることがある。夜行性で灯火に集まる。",
+      "habitat_hint": "林縁、庭、草地、畑、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる淡緑色で網目状の透明な翅をもつ昆虫を探します。"
+    },
+    "en": {
+      "summary": "A green lacewing (Mallada krakatauensis, Chrysopidae) of woodland edges, gardens, grassland, fields and around lights; it has a slender pale-green body and clear net-veined wings. Both adults and larvae prey on aphids, a beneficial insect, and the larva may carry debris on its back as camouflage. Nocturnal, it comes to lights.",
+      "habitat_hint": "Woodland edges, gardens, grassland, fields, around lights.",
+      "finding_tips": "From May to September look at night lights for the pale-green insect with clear net-veined wings."
+    },
+    "zh": {
+      "summary": "クラカタウクサカゲロウ（喀拉喀托草蛉类，Mallada krakatauensis）。草蛉科昆虫，栖于林缘、庭园、草地、农田及灯火周边，体细淡绿、翅透明网状，成虫与幼虫皆捕食蚜虫，为益虫，幼虫或背负碎屑伪装，夜行性、趋光。",
+      "habitat_hint": "林缘、庭园、草地、农田、灯火周边。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找体淡绿、翅透明网状的昆虫。"
+    }
+  },
+  "Megalophaedusa expansilabris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Door snail",
+    "ja": {
+      "summary": "チビギセル。キセルガイ科の小さな細長い陸生の巻貝で、湿った林内の樹幹や落葉の間、石灰岩地の岩の隙間にすむ。殻は左巻きの細長い紡錘形（キセル形）で、褐色。同属のツムガタギセルなどより小型（チビ＝小さい）。殻口に閉弁を持つ。梅雨時に活動が活発。",
+      "habitat_hint": "湿った林内の樹幹、落葉の下、石灰岩地の岩の隙間。",
+      "finding_tips": "梅雨〜秋の湿った時期、湿った林で樹幹や落葉の間の小さな細長い左巻きの殻を探します。"
+    },
+    "en": {
+      "summary": "A small door snail (Megalophaedusa expansilabris, Clausiliidae), a slender land snail living on tree trunks, among leaf litter and in limestone rock crevices in damp forest; the sinistral (left-coiling), elongate spindle- (pipe-) shaped shell is brown, smaller than related door snails, with a closing plate at the aperture. Most active in the rainy season.",
+      "habitat_hint": "Tree trunks, under leaf litter and in limestone crevices in damp forest.",
+      "finding_tips": "In damp periods from the rainy season to autumn look on trunks and in leaf litter for the small, slender, left-coiling shell."
+    },
+    "zh": {
+      "summary": "チビギセル（小烟管螺类，Megalophaedusa expansilabris）。烟管螺科细长陆生蜗牛，栖于湿润林内树干、落叶间及石灰岩岩隙，壳左旋、细长纺锤形（烟管形）、褐色，较同属为小（チビ 意小），壳口具闭板，梅雨期活跃。",
+      "habitat_hint": "湿润林内树干、落叶下、石灰岩岩隙。",
+      "finding_tips": "梅雨至秋湿润期于湿润林中在树干与落叶间寻找细长左旋的小壳。"
+    }
+  },
+  "Mentha gracilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アメリカハッカ。シソ科ハッカ属の多年草で、ミドリハッカ（スペアミント）とコーンミント（ハッカ）の雑種とされる。ハーブとして栽培され、湿った道端や水辺に野生化する。しわのある葉と、葉腋に球状につく淡紫色の小花、しょうがのような清涼な香りが特徴。",
+      "habitat_hint": "湿った道端、水辺、庭の周辺、休耕地。",
+      "finding_tips": "7〜9月、葉をもむと清涼な香りがする点と、葉腋に球状につく淡紫色の小花を探します。"
+    },
+    "en": {
+      "summary": "Ginger mint / red mint (Mentha × gracilis). A perennial (Lamiaceae), a hybrid of spearmint and cornmint, grown as a herb and naturalised on damp roadsides and watersides; recognised by its wrinkled leaves, whorls of small pale-purple flowers in the leaf axils and a fresh, ginger-like minty scent.",
+      "habitat_hint": "Damp roadsides, watersides, garden surrounds, fallow ground.",
+      "finding_tips": "In July–September crush a leaf for the fresh minty scent and look for the whorls of small pale-purple flowers in the leaf axils."
+    },
+    "zh": {
+      "summary": "アメリカハッカ（姜味薄荷，Mentha × gracilis）。唇形科薄荷属多年生草本，为留兰香与玉米薄荷之杂交种，作香草栽培并野化于湿润路旁与水边，叶面皱、叶腋轮生淡紫色小花、气味清凉带姜香。",
+      "habitat_hint": "湿润路旁、水边、庭园周边、休耕地。",
+      "finding_tips": "7 至 9 月揉叶闻清凉香气，并寻找叶腋轮生的淡紫色小花。"
+    }
+  },
+  "Mertensia simplicissima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oysterleaf",
+    "ja": {
+      "summary": "ハマベンケイソウ。ムラサキ科ハマベンケイソウ属の多年草で、北日本〜寒冷地の海岸の砂礫地や砂浜に地を這って広がる。粉白色を帯びた多肉質の葉をつけ、夏、青紫色〜淡紅色の筒状の小花を咲かせる。葉に牡蠣（かき）のような風味があるともされる。海岸性で塩分・乾燥に強い。",
+      "habitat_hint": "北日本〜寒冷地の海岸の砂礫地、砂浜。",
+      "finding_tips": "6〜8月、海岸の砂礫地を這う粉白色の多肉質の葉と、青紫色〜淡紅色の筒状の小花を探します。"
+    },
+    "en": {
+      "summary": "Oysterleaf (Mertensia simplicissima). A perennial (Boraginaceae) creeping over coastal sand-gravel and beaches in northern Japan and cold regions; it has glaucous, fleshy leaves and, in summer, blue-purple to pinkish tubular flowers. The leaves are said to taste of oyster. Salt- and drought-tolerant.",
+      "habitat_hint": "Coastal sand-gravel and beaches in northern Japan and cold regions.",
+      "finding_tips": "In June–August look on coastal sand-gravel for the glaucous fleshy creeping leaves and the blue-purple to pinkish tubular flowers."
+    },
+    "zh": {
+      "summary": "ハマベンケイソウ（滨紫草类，Mertensia simplicissima）。紫草科滨紫草属多年生草本，于北日本至寒冷地海岸砂砾地与沙滩匍匐蔓延，叶肉质被粉白，夏开蓝紫至淡红色筒状小花，叶据称有牡蛎风味，耐盐耐旱。",
+      "habitat_hint": "北日本至寒冷地海岸砂砾地、沙滩。",
+      "finding_tips": "6 至 8 月于海岸砂砾地寻找被粉白的肉质匍匐叶及蓝紫至淡红色筒状小花。"
+    }
+  },
+  "Metzgeria lindbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマトフタマタゴケ。フタマタゴケ科の葉状体の苔類で、湿った樹幹や岩、渓流沿いの日陰に生える。細く二又に分かれるリボン状の葉状体をもつ。日本の湿った林内でよく見られる。",
+      "habitat_hint": "湿った樹幹、岩、渓流沿いの日陰、滝のそば。",
+      "finding_tips": "一年中見られます。細く二又に分かれるリボン状の淡緑の葉状体を、湿った樹幹や岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort (Metzgeria lindbergii, Metzgeriaceae) of damp tree trunks, rock and shaded streamsides; the pale-green thallus is a narrow, forking ribbon. Common in damp Japanese forest.",
+      "habitat_hint": "Damp tree trunks, rock, shaded streamsides, near waterfalls.",
+      "finding_tips": "Present year-round; use a lens on damp trunks and rock to check the narrow, forking ribbon-like pale-green thallus."
+    },
+    "zh": {
+      "summary": "ヤマトフタマタゴケ（日本叉苔，Metzgeria lindbergii）。叉苔科叶状体苔类，生于湿润树干、岩石及溪流荫处，叶状体狭如带、二叉分枝，日本湿润林内常见。",
+      "habitat_hint": "湿润树干、岩石、溪流荫处、瀑布近旁。",
+      "finding_tips": "全年可见；用放大镜在湿润树干与岩上观察狭如带、二叉分枝的淡绿叶状体。"
+    }
+  },
+  "Microsorum scolopendria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wart fern",
+    "aliases": {
+      "zh-Hans": "瘤蕨"
+    },
+    "ja": {
+      "summary": "オキナワウラボシ。ウラボシ科ヌカボシクリハラン属（ミクロソルム属）の常緑性シダで、暖地（南西諸島など）の樹幹や岩、石垣、地上を這って広がる。羽状に深く裂ける葉をつけ、葉裏に円形の胞子嚢群がくぼんで並ぶ（葉表にこぶ状に盛り上がる）。地下茎で広がる。",
+      "habitat_hint": "暖地（南西諸島など）の樹幹、岩、石垣、林床、明るい海岸林。",
+      "finding_tips": "一年中見られます。羽状に深く裂ける葉と、葉裏にくぼんで並ぶ円形の胞子嚢群（葉表にこぶ状）を暖地で探します。"
+    },
+    "en": {
+      "summary": "Wart fern (Microsorum scolopendria). An evergreen fern (Polypodiaceae) creeping over tree trunks, rock, stone walls and the ground in warm regions (e.g. the Ryukyus); it has deeply pinnately lobed fronds with round sori sunk on the underside (raised as warts on the upper surface), spreading by rhizomes.",
+      "habitat_hint": "Warm-region (e.g. the Ryukyus) tree trunks, rock, stone walls, forest floor, bright coastal woods.",
+      "finding_tips": "Present year-round; in warm regions look for the deeply pinnately lobed fronds and the round sori sunk beneath (raised as warts above)."
+    },
+    "zh": {
+      "summary": "オキナワウラボシ（瘤蕨，Microsorum scolopendria）。水龙骨科星蕨属常绿蕨类，于暖地（如琉球群岛）树干、岩石、石墙及地面匍匐蔓延，叶羽状深裂，叶背圆形孢子囊群下陷（叶面隆起如瘤），借地下茎蔓延。",
+      "habitat_hint": "暖地（如琉球群岛）树干、岩石、石墙、林床、明亮海岸林。",
+      "finding_tips": "全年可见；于暖地寻找羽状深裂的叶及叶背下陷（叶面成瘤）的圆形孢子囊群。"
+    }
+  },
+  "Mythimna grandis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wainscot moth",
+    "ja": {
+      "summary": "ウスグロキヨトウ。ヤガ科ヨトウガ亜科の中〜大型の蛾で、草地や河川敷、湿地の周辺、農地周辺に生息する。淡褐色〜暗褐色（うすぐろ＝薄黒）の翅をもつ。幼虫はイネ科などの草本の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "草地、河川敷、湿地の周辺、農地周辺、灯火の周り。",
+      "finding_tips": "6〜9月、夜に灯火に集まる淡褐色〜暗褐色の中〜大型の蛾を探します。"
+    },
+    "en": {
+      "summary": "A wainscot moth (Mythimna grandis, Noctuidae) of grassland, riverbanks, around wetlands and farmland; it has pale-brown to dark-brown wings. The larva feeds on grasses and other herbs. Nocturnal, it comes to lights.",
+      "habitat_hint": "Grassland, riverbanks, around wetlands and farmland, near lights.",
+      "finding_tips": "From June to September look at night lights for the medium-to-large pale-brown to dark-brown moth."
+    },
+    "zh": {
+      "summary": "ウスグロキヨトウ（暗黏虫类，Mythimna grandis）。夜蛾科夜蛾亚科中至大型蛾，栖于草地、河滩、湿地周边及农地周边，翅淡褐至暗褐色（うすぐろ 意薄黑），幼虫取食禾本科等草本叶，夜行性、趋光。",
+      "habitat_hint": "草地、河滩、湿地周边、农地周边、灯火周边。",
+      "finding_tips": "6 至 9 月夜间于灯下寻找淡褐至暗褐色的中至大型蛾。"
+    }
+  },
+  "Nardia assamica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカウロコゴケ。ツボミゴケ科の葉状苔類で、湿った土の斜面や道の切り通し、渓流沿いの日陰に生える。丸みのある葉が茎の左右に並び、赤褐色を帯びることがある。水辺や湿った裸地を好む。",
+      "habitat_hint": "湿った土の斜面、道の切り通し、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。丸みのある葉が茎の左右に並び、赤褐色を帯びるマットを、湿った土や岩でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Nardia assamica, Solenostomataceae) of damp soil slopes, road cuttings and shaded streamsides; the rounded leaves are set in two ranks along the stem and can be tinged red-brown. It favours watersides and damp bare ground.",
+      "habitat_hint": "Damp soil slopes, road cuttings, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens on damp soil and rock to check the mats of two-ranked rounded leaves, sometimes tinged red-brown."
+    },
+    "zh": {
+      "summary": "アカウロコゴケ（红护蒴苔类，Nardia assamica）。护蒴苔科叶状苔类，生于湿润土坡、路堑及溪流荫处，叶圆钝、沿茎两列排列、有时带红褐色，喜水边与湿润裸地。",
+      "habitat_hint": "湿润土坡、路堑、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜在湿土与岩上观察两列排列、有时带红褐色的圆钝叶垫。"
+    }
+  },
+  "Ostorhinchus doederleini": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Doederlein's cardinalfish",
+    "aliases": {
+      "zh-Hans": "杜氏天竺鲷"
+    },
+    "ja": {
+      "summary": "オオスジイシモチ。テンジクダイ科の小型の海水魚で、暖海の岩礁やサンゴ礁、内湾の浅い海にすむ。体側に何本かの太い縦じま（大筋＝おおすじ）が走るのが特徴。夜行性で、昼は岩陰や物陰にひそむ。オスが口の中で卵を守り育てる（口内保育）ことで知られる。",
+      "habitat_hint": "暖海の岩礁、サンゴ礁、内湾の浅い海、藻場。",
+      "finding_tips": "一年中、暖海の岩礁や内湾の浅場で、体側に太い縦じまのある小型の魚を探します。昼は岩陰にひそむ。"
+    },
+    "en": {
+      "summary": "Doederlein's cardinalfish (Ostorhinchus doederleini). A small marine fish (Apogonidae) of warm-sea rocky and coral reefs and sheltered shallow bays; it has several bold longitudinal stripes along the body (source of the Japanese name). Nocturnal, it hides in rock shade by day, and the male is known for mouth-brooding the eggs.",
+      "habitat_hint": "Warm-sea rocky and coral reefs, sheltered shallow bays, seagrass beds.",
+      "finding_tips": "Year-round on warm-sea reefs and in sheltered shallows look for the small fish with bold longitudinal body stripes; it hides in rock shade by day."
+    },
+    "zh": {
+      "summary": "オオスジイシモチ（杜氏天竺鲷，Ostorhinchus doederleini）。天竺鲷科小型海鱼，栖于暖海岩礁、珊瑚礁及内湾浅海，体侧具数条粗纵纹（大筋），故名，夜行性、昼藏岩荫，雄鱼以口孵卵（口内育幼）著称。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、内湾浅海、藻场。",
+      "finding_tips": "全年于暖海岩礁与内湾浅处寻找体侧具粗纵纹的小型鱼；昼藏岩荫。"
+    }
   }
 }
