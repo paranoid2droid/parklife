@@ -226033,5 +226033,454 @@
       "habitat_hint": "池沼、河流缓流处、水道、水田、蓄水池。",
       "finding_tips": "全年于池沼与缓流水道寻找体细长、具暗色斑纹的大型肉食鱼；或于水面吞气。"
     }
+  },
+  "Carex vaniotii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガボノコジュズスゲ。カヤツリグサ科スゲ属の多年草で、山地の落葉樹林の林床や沢沿い、やや湿った斜面に生える。細い茎に、まばらに間隔をあけて細長い雌小穂を垂らしてつける（数珠状で穂が長い）。コジュズスゲの仲間で穂が長い。",
+      "habitat_hint": "山地の落葉樹林の林床、沢沿い、やや湿った斜面、林縁。",
+      "finding_tips": "5〜7月、細い茎にまばらに間隔をあけて垂れ下がる細長い雌小穂を林床で探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Carex vaniotii, Cyperaceae) of montane deciduous woodland floor, streamsides and damp slopes; slender stems hang elongate female spikes spaced apart at intervals (bead-like but long-spiked). A long-spiked relative of Carex gibba.",
+      "habitat_hint": "Montane deciduous woodland floor, streamsides, damp slopes, woodland edges.",
+      "finding_tips": "In May–July look on the woodland floor for the elongate female spikes hanging spaced apart on slender stems."
+    },
+    "zh": {
+      "summary": "ナガボノコジュズスゲ。莎草科薹草属多年生草本，生于山地落叶林林床、沟谷及略湿坡地，细茎上雌小穗疏离间隔、细长下垂（似串珠而穗长），为长穗的近缘薹草。",
+      "habitat_hint": "山地落叶林林床、沟谷、略湿坡地、林缘。",
+      "finding_tips": "5 至 7 月于林床寻找细茎上疏离间隔、细长下垂的雌小穗。"
+    }
+  },
+  "Cirsium dipsacolepis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モリアザミ。キク科アザミ属の多年草で、山地の日当たりのよい草地や林縁、やや乾いた斜面に生える。紅紫色の頭花を上向きに咲かせる。根は「山ごぼう（ヤマゴボウ）」として味噌漬けなどにされ食用にされる（本来のヤマゴボウ科の有毒植物とは別）。",
+      "habitat_hint": "山地の日当たりのよい草地、林縁、やや乾いた斜面。",
+      "finding_tips": "9〜10月、紅紫色の上向きの頭花と、羽状に切れ込む刺のある葉を山地の草地で探します。根は食用の「山ごぼう」。"
+    },
+    "en": {
+      "summary": "A perennial thistle (Cirsium dipsacolepis, Asteraceae) of sunny montane grassland, woodland edges and drier slopes; it opens rose-purple flowerheads facing upward. Its root is eaten as \"yama-gobo\" (e.g. miso-pickled) — not to be confused with the poisonous pokeweed of the same Japanese name.",
+      "habitat_hint": "Sunny montane grassland, woodland edges, drier slopes.",
+      "finding_tips": "In September–October look on montane grassland for the upward-facing rose-purple flowerheads and the pinnately lobed spiny leaves; the root is the edible \"yama-gobo.\""
+    },
+    "zh": {
+      "summary": "モリアザミ（森蓟类，Cirsium dipsacolepis）。菊科蓟属多年生草本，生于山地向阳草甸、林缘及较干坡地，红紫色头状花朝上开放，其根作「山牛蒡」（味噌腌渍等）食用（与同名有毒的商陆科植物不同）。",
+      "habitat_hint": "山地向阳草甸、林缘、较干坡地。",
+      "finding_tips": "9 至 10 月于山地草甸寻找朝上的红紫色头状花及羽状分裂具刺的叶；根为食用「山牛蒡」。"
+    }
+  },
+  "Cirsium yezoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サワアザミ。キク科アザミ属の大型の多年草で、山地の沢沿いや湿った林縁、湿った草地に生える。名（沢＝さわ）のとおり湿った場所を好む。紅紫色の大きな頭花を下向き〜横向きに咲かせる。若い茎葉は山菜にされる。",
+      "habitat_hint": "山地の沢沿い、湿った林縁、湿った草地、谷沿い。",
+      "finding_tips": "9〜10月、湿った沢沿いで、下向き〜横向きに咲く紅紫色の大きな頭花を探します。湿った場所を好む点が手がかり。"
+    },
+    "en": {
+      "summary": "A large perennial thistle (Cirsium yezoense, Asteraceae) of montane streamsides, damp woodland edges and damp meadows; true to its name it favours wet places, opening large rose-purple flowerheads facing down or sideways. The young shoots are eaten as a wild vegetable.",
+      "habitat_hint": "Montane streamsides, damp woodland edges, damp meadows, valleys.",
+      "finding_tips": "In September–October look along damp streamsides for the large rose-purple flowerheads facing down or sideways; its liking for wet ground is the clue."
+    },
+    "zh": {
+      "summary": "サワアザミ（沼蓟类，Cirsium yezoense）。菊科蓟属大型多年生草本，生于山地沟谷、湿润林缘与湿润草甸，如和名（沢）喜湿处，红紫色大型头状花下垂或侧向开放，嫩茎叶作山野菜。",
+      "habitat_hint": "山地沟谷、湿润林缘、湿润草甸、谷地。",
+      "finding_tips": "9 至 10 月于湿润沟谷寻找下垂或侧向的红紫色大型头状花；喜湿为线索。"
+    }
+  },
+  "Clematis patens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large-flowered clematis",
+    "aliases": {
+      "zh-Hans": "转子莲"
+    },
+    "ja": {
+      "summary": "カザグルマ。キンポウゲ科センニンソウ属の落葉つる性木本で、山地の林縁や谷沿い、河岸の藪に生える。他の木に絡んで登り、初夏、白〜淡紫色の大きな8弁ほどの花（花弁のように見えるのは萼片）を咲かせる。園芸のクレマチス（大輪系）の原種の一つ。近年は自生地が減り希少。",
+      "habitat_hint": "山地の林縁、谷沿い、河岸の藪、社寺林の縁。",
+      "finding_tips": "5〜6月、他木に絡むつると、白〜淡紫色の大きな8弁ほどの花を探します。園芸クレマチスの原種。"
+    },
+    "en": {
+      "summary": "Large-flowered clematis (Clematis patens). A deciduous woody climber (Ranunculaceae) of montane woodland edges, valleys and riverside thickets; it climbs other trees and, in early summer, opens large flowers of about eight \"petals\" (actually sepals) in white to pale purple. One of the wild ancestors of large-flowered garden clematis, now scarce as wild sites decline.",
+      "habitat_hint": "Montane woodland edges, valleys, riverside thickets, shrine-forest margins.",
+      "finding_tips": "In May–June look for the climbing vine and the large white-to-pale-purple flowers of about eight tepals; a wild ancestor of garden clematis."
+    },
+    "zh": {
+      "summary": "カザグルマ（转子莲，Clematis patens）。毛茛科铁线莲属落叶木质藤本，生于山地林缘、谷地与河岸灌丛，攀附他树，初夏开白至淡紫色约八瓣的大花（似花瓣者为萼片），为大花园艺铁线莲原种之一，近年自生地减少而稀少。",
+      "habitat_hint": "山地林缘、谷地、河岸灌丛、社寺林缘。",
+      "finding_tips": "5 至 6 月寻找攀附他树的藤蔓及白至淡紫色约八瓣的大花；为园艺铁线莲原种。"
+    }
+  },
+  "Cuculus saturatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Himalayan cuckoo",
+    "aliases": {
+      "zh-Hans": "中杜鹃"
+    },
+    "ja": {
+      "summary": "ツツドリ（ヒマラヤツツドリ）。カッコウ科の中型の鳥で、山地の林や林縁に夏鳥として渡来する。灰色の体で、腹に横縞がある。「ポポ、ポポ」と筒をたたくような声で鳴くのが名の由来。ほかの鳥（センダイムシクイなど）の巣に托卵する。姿より声で見つけやすい。",
+      "habitat_hint": "山地の林、林縁、明るい二次林。夏鳥。",
+      "finding_tips": "5〜8月、山地の林で「ポポ、ポポ」と筒をたたくような声を探します。灰色で腹に横縞のあるカッコウ類。"
+    },
+    "en": {
+      "summary": "Himalayan cuckoo (Cuculus saturatus). A medium-sized bird (Cuculidae), a summer visitor to montane forest and edges; grey with barred underparts. Named in Japanese for its hollow \"po-po, po-po\" call, like tapping a tube. It is a brood parasite, laying in the nests of other birds. Easier to locate by voice than by sight.",
+      "habitat_hint": "Montane forest, woodland edges, bright secondary forest; summer visitor.",
+      "finding_tips": "In May–August in montane forest listen for the hollow \"po-po, po-po\" call; a grey cuckoo with barred underparts."
+    },
+    "zh": {
+      "summary": "ツツドリ（中杜鹃，Cuculus saturatus）。杜鹃科中型鸟，为夏候鸟、栖于山地林与林缘，体灰色、腹具横斑，鸣声「po-po, po-po」如敲竹筒（和名由来），巢寄生于他鸟巢，多以声寻而非以形。",
+      "habitat_hint": "山地林、林缘、明亮次生林；夏候鸟。",
+      "finding_tips": "5 至 8 月于山地林中聆听如敲竹筒的「po-po, po-po」声；为体灰、腹具横斑的杜鹃。"
+    }
+  },
+  "Dactylorhiza viridis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frog orchid",
+    "aliases": {
+      "zh-Hans": "凹舌兰"
+    },
+    "ja": {
+      "summary": "アオチドリ（ネムロチドリ）。ラン科テガタチドリ属（旧アオチドリ属）の地生ランで、山地〜亜高山帯の草地や明るい林縁、湿った草地に生える。初夏、緑色〜緑褐色の目立たない花を穂状に多数つける。唇弁の先が浅く2〜3裂する。",
+      "habitat_hint": "山地〜亜高山帯の草地、明るい林縁、湿った草地。",
+      "finding_tips": "6〜7月、緑色〜緑褐色の目立たない花が穂状に多数つく姿を山地の草地で探します。唇弁の先が浅く裂ける。"
+    },
+    "en": {
+      "summary": "Frog orchid (Dactylorhiza viridis). A terrestrial orchid (Orchidaceae) of montane to subalpine grassland, bright woodland edges and damp meadows; in early summer it bears many inconspicuous green to greenish-brown flowers in a spike, the lip tip shallowly two- to three-lobed.",
+      "habitat_hint": "Montane to subalpine grassland, bright woodland edges, damp meadows.",
+      "finding_tips": "In June–July look on montane grassland for the spike of many inconspicuous green to greenish-brown flowers with a shallowly lobed lip tip."
+    },
+    "zh": {
+      "summary": "アオチドリ（凹舌兰，Dactylorhiza viridis）。兰科舌唇兰属（旧凹舌兰属）地生兰，生于山地至亚高山草甸、明亮林缘及湿润草甸，初夏穗状密生绿至绿褐色不显花，唇瓣端浅二至三裂。",
+      "habitat_hint": "山地至亚高山草甸、明亮林缘、湿润草甸。",
+      "finding_tips": "6 至 7 月于山地草甸寻找穗状密生的绿至绿褐色不显花；唇瓣端浅裂。"
+    }
+  },
+  "Daphne miyabeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カラスシキミ。ジンチョウゲ科ジンチョウゲ属の常緑低木で、山地の落葉樹林や針葉樹林の林床、林縁に生える。革質の光沢のある葉をつけ、初夏、黄緑色の小花を咲かせ、秋に赤い果実をつける。※有毒。シキミ（別科）に似た葉と赤い実だが別種。",
+      "habitat_hint": "山地の落葉樹林・針葉樹林の林床、林縁、やや湿った斜面。",
+      "finding_tips": "秋、革質で光沢のある葉と、赤い果実を山地の林床で探します。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "An evergreen shrub (Daphne miyabeana, Thymelaeaceae) of montane deciduous and conifer woodland floor and edges; it has glossy leathery leaves, opens yellow-green flowers in early summer and bears red fruit in autumn. Poisonous. Its leaves and red fruit recall Japanese star anise (a different family), but it is distinct.",
+      "habitat_hint": "Montane deciduous and conifer woodland floor, edges, damp slopes.",
+      "finding_tips": "In autumn look on montane woodland floor for the glossy leathery leaves and the red fruit; poisonous, so do not eat it."
+    },
+    "zh": {
+      "summary": "カラスシキミ（宫部瑞香类，Daphne miyabeana）。瑞香科瑞香属常绿灌木，生于山地落叶林与针叶林林床及林缘，叶革质有光泽，初夏开黄绿色小花，秋结红果。有毒。叶与红果似日本莽草（他科）但为别种。",
+      "habitat_hint": "山地落叶林与针叶林林床、林缘、略湿坡地。",
+      "finding_tips": "秋季于山地林床寻找革质有光泽的叶及红色果实；有毒，勿食。"
+    }
+  },
+  "Digitaria ischaemum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smooth crabgrass",
+    "aliases": {
+      "zh-Hans": "止血马唐"
+    },
+    "ja": {
+      "summary": "キタメヒシバ。イネ科メヒシバ属の一年草で、道端や芝地、畑、河川敷、造成地に生える。数本の細い穂を指を広げたように放射状につけ、小穂を密につける。メヒシバに似るが、より北方・冷涼地に多く、全体に無毛でやや小型。",
+      "habitat_hint": "道端、芝地、畑、河川敷、造成地の日当たりのよい場所。",
+      "finding_tips": "8〜10月、数本の細い穂を指状に放射状につける姿を探します。メヒシバより無毛でやや小型。"
+    },
+    "en": {
+      "summary": "Smooth crabgrass (Digitaria ischaemum). An annual grass (Poaceae) of roadsides, lawns, fields, riverbanks and made ground; several slender spikes radiate like spread fingers, densely set with spikelets. Like hairy crabgrass but commoner in cooler, northern areas, hairless and somewhat smaller.",
+      "habitat_hint": "Roadsides, lawns, fields, riverbanks, made ground in sunny places.",
+      "finding_tips": "In August–October look for the several slender spikes radiating like fingers; hairless and somewhat smaller than hairy crabgrass."
+    },
+    "zh": {
+      "summary": "キタメヒシバ（止血马唐，Digitaria ischaemum）。禾本科马唐属一年生草本，生于路旁、草坪、田地、河滩与造地，数枚细穗如张指放射状排列、密生小穗，似马唐而多见于较北凉爽地、全株无毛且略小。",
+      "habitat_hint": "路旁、草坪、田地、河滩、造地向阳处。",
+      "finding_tips": "8 至 10 月寻找数枚细穗指状放射排列之姿；较马唐无毛且略小。"
+    }
+  },
+  "Entoloma sepium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハルシメジ。イッポンシメジ科のキノコで、春（4〜5月）に、ウメ・ナシ・サクラなどバラ科の木の下や生け垣、庭の地上に発生する。傘は灰白色〜淡黄褐色。ひだは成熟すると肉色（淡紅色）を帯びる。バラ科植物と関係して生え、春のキノコとして食用にされる（有毒の近縁種に注意）。",
+      "habitat_hint": "春のウメ・ナシ・サクラなどバラ科の木の下、生け垣、庭の地上。",
+      "finding_tips": "4〜5月、バラ科の木の下で灰白色〜淡黄褐色の傘と、成熟して肉色になるひだをもつキノコを探します。近縁の有毒種に注意。"
+    },
+    "en": {
+      "summary": "A spring mushroom (Entoloma sepium, Entolomataceae) fruiting in spring (April–May) under Rosaceae trees (plum, pear, cherry), hedges and on garden ground; the cap is grey-white to pale yellow-brown and the gills flush flesh-pink with age. Associated with Rosaceae, it is eaten as a spring mushroom (beware poisonous relatives).",
+      "habitat_hint": "Spring ground under Rosaceae trees (plum, pear, cherry), hedges, gardens.",
+      "finding_tips": "In April–May under Rosaceae trees look for the grey-white to pale yellow-brown cap with gills flushing flesh-pink; beware poisonous relatives."
+    },
+    "zh": {
+      "summary": "ハルシメジ（春粉褶菌类，Entoloma sepium）。粉褶菌科真菌，春季（4–5 月）发生于梅、梨、樱等蔷薇科树下、绿篱及庭园地上，菌盖灰白至淡黄褐色，菌褶成熟转肉粉色，与蔷薇科相关而生，作春季食用菌（注意近缘有毒种）。",
+      "habitat_hint": "春季梅、梨、樱等蔷薇科树下、绿篱、庭园地面。",
+      "finding_tips": "4 至 5 月于蔷薇科树下寻找灰白至淡黄褐色菌盖、成熟转肉粉色菌褶的菌；注意近缘有毒种。"
+    }
+  },
+  "Epaphius ephippiatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヒラタキイロチビゴミムシ。オサムシ科の小さな地表性甲虫で、湿った林床や河原、水際の泥地、落葉の下にすむ。黄褐色でやや扁平な小さな体をもつ。素早く歩き回り、湿った地表で微小な小動物を捕食する。",
+      "habitat_hint": "湿った林床、河原、水際の泥地、落葉の下。",
+      "finding_tips": "4〜10月、湿った地表や落葉の下で、黄褐色でやや扁平な小さな甲虫を探します。"
+    },
+    "en": {
+      "summary": "A small ground beetle (Epaphius ephippiatus, Carabidae) of damp woodland floor, riverbanks, waterside mud and under leaf litter; the small body is yellow-brown and somewhat flattened. It runs quickly over damp ground preying on minute animals.",
+      "habitat_hint": "Damp woodland floor, riverbanks, waterside mud, under leaf litter.",
+      "finding_tips": "From April to October look on damp ground and under litter for the small, somewhat flattened yellow-brown beetle."
+    },
+    "zh": {
+      "summary": "ヒラタキイロチビゴミムシ（扁黄小步甲类，Epaphius ephippiatus）。步甲科小型地栖甲虫，栖于湿润林床、河滩、水边泥地及落叶下，体黄褐色而略扁，于湿润地面迅速游走捕食微小动物。",
+      "habitat_hint": "湿润林床、河滩、水边泥地、落叶下。",
+      "finding_tips": "4 至 10 月于湿润地面与落叶下寻找黄褐色而略扁的小型甲虫。"
+    }
+  },
+  "Ephedrus nacheri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aphid parasitoid wasp",
+    "ja": {
+      "summary": "ナケルクロアブラバチ。コマユバチ科アブラバチ亜科の極めて小さな寄生バチで、林縁や畑、草地、庭に生息する。アブラムシの体内に卵を産みつけ、幼虫はアブラムシの体内で育ち、寄生されたアブラムシは膨れて硬い「マミー」になる。害虫（アブラムシ）の天敵として役立つ。人を刺さない。",
+      "habitat_hint": "林縁、畑、草地、庭、農地周辺（アブラムシのいる場所）。",
+      "finding_tips": "春〜秋、アブラムシのコロニーで、膨れて茶色く硬くなったアブラムシ（マミー）を探すと寄生の証拠。極小のハチ。"
+    },
+    "en": {
+      "summary": "An aphid parasitoid wasp (Ephedrus nacheri, Braconidae, Aphidiinae), a very small wasp of woodland edges, fields, grassland and gardens; it lays eggs in aphids, its larvae developing inside so the parasitised aphid swells into a hard \"mummy.\" A useful natural enemy of aphid pests; it does not sting people.",
+      "habitat_hint": "Woodland edges, fields, grassland, gardens, around farmland (where aphids occur).",
+      "finding_tips": "From spring to autumn in aphid colonies look for the swollen, brown, hardened aphids (\"mummies\") as evidence of parasitism; the wasp itself is minute."
+    },
+    "zh": {
+      "summary": "ナケルクロアブラバチ（蚜茧蜂类，Ephedrus nacheri）。茧蜂科蚜茧蜂亚科极小寄生蜂，栖于林缘、农田、草地与庭园，将卵产于蚜虫体内、幼虫在其中发育，被寄生蚜虫膨大成硬「木乃伊」，为蚜虫害虫天敌，不螫人。",
+      "habitat_hint": "林缘、农田、草地、庭园、农地周边（有蚜虫处）。",
+      "finding_tips": "春至秋于蚜虫群中寻找膨大、褐色、变硬的蚜虫（木乃伊）为寄生之证；蜂本身极小。"
+    }
+  },
+  "Euphorbia cyparissias": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cypress spurge",
+    "aliases": {
+      "zh-Hans": "松叶大戟"
+    },
+    "ja": {
+      "summary": "マツバトウダイ。ヨーロッパ原産のトウダイグサ科トウダイグサ属の多年草で、観賞用に栽培され、道端や空き地、庭に野生化する。松葉のように細い葉を密につけ、初夏、黄緑色の杯状の花序をつける。地下茎で広がる。茎を切ると白い乳液が出る（※有毒、皮膚炎に注意）。",
+      "habitat_hint": "道端、空き地、庭、花壇の周辺、造成地。",
+      "finding_tips": "5〜6月、松葉のように細い葉と、黄緑色の杯状の花序を探します。切ると白い乳液が出る（有毒）。"
+    },
+    "en": {
+      "summary": "Cypress spurge (Euphorbia cyparissias). A European perennial (Euphorbiaceae) grown as an ornamental and naturalised on roadsides, vacant lots and in gardens; it densely bears pine-needle-fine leaves and, in early summer, yellow-green cup-shaped inflorescences, spreading by rhizomes. A cut stem exudes white latex (poisonous; can irritate skin).",
+      "habitat_hint": "Roadsides, vacant lots, gardens, around flowerbeds, made ground.",
+      "finding_tips": "In May–June look for the pine-needle-fine leaves and the yellow-green cup-shaped inflorescences; a cut stem exudes white latex (toxic)."
+    },
+    "zh": {
+      "summary": "マツバトウダイ（松叶大戟，Euphorbia cyparissias）。原产欧洲的大戟科大戟属多年生草本，作观赏栽培并野化于路旁、空地与庭园，密生细如松针的叶，初夏具黄绿色杯状花序，借地下茎蔓延，折茎流白色乳液（有毒，可致皮炎）。",
+      "habitat_hint": "路旁、空地、庭园、花坛周边、造地。",
+      "finding_tips": "5 至 6 月寻找细如松针的叶及黄绿色杯状花序；折茎流白色乳液（有毒）。"
+    }
+  },
+  "Euphrasia maximowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eyebright",
+    "ja": {
+      "summary": "タチコゴメグサ。ハマウツボ科コゴメグサ属の一年草で、山地の日当たりのよい草地や林縁、道端に生える半寄生植物。他の植物の根に半寄生しつつ光合成もする。秋、白い小さな唇形の花に紫色の筋と黄色い斑が入る。まっすぐ立つ（タチ＝立ち）。",
+      "habitat_hint": "山地の日当たりのよい草地、林縁、道端、やや乾いた斜面。",
+      "finding_tips": "8〜10月、まっすぐ立つ茎と、白い小さな唇形の花（紫の筋・黄色い斑）を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "An eyebright (Euphrasia maximowiczii, Orobanchaceae), a hemiparasitic annual of sunny montane grassland, woodland edges and roadsides; it parasitises other plants' roots while also photosynthesising. In autumn it bears small white two-lipped flowers with purple veins and a yellow spot, on an erect stem.",
+      "habitat_hint": "Sunny montane grassland, woodland edges, roadsides, drier slopes.",
+      "finding_tips": "In August–October look on montane grassland for the erect stem and the small white two-lipped flowers with purple veins and a yellow spot."
+    },
+    "zh": {
+      "summary": "タチコゴメグサ（直立小米草类，Euphrasia maximowiczii）。列当科小米草属一年生半寄生草本，生于山地向阳草甸、林缘与路旁，寄生他植物根部兼行光合，秋开白色唇形小花、具紫色脉与黄斑，茎直立（タチ）。",
+      "habitat_hint": "山地向阳草甸、林缘、路旁、较干坡地。",
+      "finding_tips": "8 至 10 月于山地草甸寻找直立茎及白色唇形小花（紫脉、黄斑）。"
+    }
+  },
+  "Festuca bromoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brome fescue",
+    "ja": {
+      "summary": "イヌナギナタガヤ。ヨーロッパ原産のイネ科ウシノケグサ属（またはナギナタガヤ属）の一年草で、道端や芝地、河川敷、造成地に帰化する。細い茎を立て、片側に偏った穂状の花序に、長い芒のある小穂をつける。ナギナタガヤに似る。",
+      "habitat_hint": "道端、芝地、河川敷、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜6月、細い茎と、片側に偏った穂状の花序に長い芒のある小穂をつける姿を道端や芝地で探します。"
+    },
+    "en": {
+      "summary": "Brome fescue (Festuca bromoides). A European annual grass (Poaceae) naturalised on roadsides, lawns, riverbanks and made ground; it raises slender stems with a one-sided spike-like inflorescence of long-awned spikelets. Similar to rat's-tail fescue.",
+      "habitat_hint": "Roadsides, lawns, riverbanks, made ground in sunny places.",
+      "finding_tips": "In May–June look for the slender stems and the one-sided spike-like inflorescence of long-awned spikelets."
+    },
+    "zh": {
+      "summary": "イヌナギナタガヤ（雀麦状羊茅，Festuca bromoides）。原产欧洲的禾本科羊茅属（或鼠尾羊茅属）一年生草本，归化于路旁、草坪、河滩与造地，细茎抽偏于一侧的穗状花序、着生具长芒小穗，似鼠尾羊茅。",
+      "habitat_hint": "路旁、草坪、河滩、造地向阳处。",
+      "finding_tips": "5 至 6 月寻找细茎及偏于一侧、具长芒小穗的穗状花序。"
+    }
+  },
+  "Fimbristylis aestivalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コアゼテンツキ。カヤツリグサ科テンツキ属の小さな一年草で、水田や湿地、溝の縁、湿った空き地に生える。細い茎を束にして立て、茎の先にまばらに分枝した花序をつけ、褐色の小さな小穂をつける。田の畦（あぜ）などによく見られる小型のテンツキ。",
+      "habitat_hint": "水田、湿地、溝の縁、湿った空き地、田の畦。",
+      "finding_tips": "8〜10月、束になって立つ細い茎と、まばらに分枝した花序の褐色の小穂を水田の縁で探します。"
+    },
+    "en": {
+      "summary": "A small annual sedge (Fimbristylis aestivalis, Cyperaceae) of paddy fields, wetlands, ditch margins and damp waste ground; it raises tufts of slender stems with a sparsely branched inflorescence of small brown spikelets. A small fimbristylis common on paddy banks.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, damp waste ground, paddy banks.",
+      "finding_tips": "In August–October look on paddy banks for the tufts of slender stems with a sparsely branched inflorescence of small brown spikelets."
+    },
+    "zh": {
+      "summary": "コアゼテンツキ。莎草科飘拂草属小型一年生草本，生于水田、湿地、沟缘及湿润空地，细茎丛立、顶端花序稀疏分枝、着生褐色小穗，为田埂常见的小型飘拂草。",
+      "habitat_hint": "水田、湿地、沟缘、湿润空地、田埂。",
+      "finding_tips": "8 至 10 月于田埂寻找丛立细茎及稀疏分枝花序上的褐色小穗。"
+    }
+  },
+  "Forsythia koreana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チョウセンレンギョウ。モクセイ科レンギョウ属の落葉低木で、朝鮮半島原産。観賞用に庭園・公園・生け垣に広く植えられ、道端などに逸出することもある。早春、葉より先に鮮やかな黄色い4弁の花を枝いっぱいに咲かせる。枝はよく伸びて弓なりに垂れる。",
+      "habitat_hint": "庭園、公園、生け垣、道端、造成地の植栽。",
+      "finding_tips": "3〜4月、葉より先に枝いっぱいに咲く鮮やかな黄色い4弁の花を探します。弓なりに垂れる枝が手がかり。"
+    },
+    "en": {
+      "summary": "Korean forsythia (Forsythia koreana). A deciduous shrub (Oleaceae) native to the Korean Peninsula, widely planted in gardens, parks and hedges and sometimes escaping to roadsides; in early spring it covers the branches with bright yellow four-petalled flowers before the leaves, its long branches arching and drooping.",
+      "habitat_hint": "Gardens, parks, hedges, roadsides, planted on made ground.",
+      "finding_tips": "In March–April look for the bright yellow four-petalled flowers covering the branches before the leaves; the arching, drooping branches are the clue."
+    },
+    "zh": {
+      "summary": "チョウセンレンギョウ（朝鲜连翘，Forsythia koreana）。木犀科连翘属落叶灌木，原产朝鲜半岛，广植于庭园、公园与绿篱，偶逸生于路旁，早春先叶满枝开鲜黄色四瓣花，枝长而弓形下垂。",
+      "habitat_hint": "庭园、公园、绿篱、路旁、造地栽培。",
+      "finding_tips": "3 至 4 月寻找先叶满枝开放的鲜黄色四瓣花；弓形下垂的枝为线索。"
+    }
+  },
+  "Frullania diversitexta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメヤスデゴケ。ヤスデゴケ科の小さな葉状苔類で、樹幹や枝、岩の上に赤褐色〜暗褐色のマットをつくって着生する。葉の腹片が袋状（水を溜める）になるのが特徴。乾くと縮れる。ヤスデゴケの仲間で小型。",
+      "habitat_hint": "樹幹、枝、岩上、石垣、日当たりのよい乾きやすい場所も含む。",
+      "finding_tips": "一年中見られます。樹幹や枝に付く赤褐色〜暗褐色の小さなマットと、袋状の葉の腹片をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small leafy liverwort (Frullania diversitexta, Frullaniaceae) forming red-brown to dark-brown mats on tree trunks, branches and rock; distinctively the ventral leaf-lobules are sac-like (water-holding), and it curls when dry. A small Frullania.",
+      "habitat_hint": "Tree trunks, branches, rock, stone walls, including sunlit sites that dry out.",
+      "finding_tips": "Present year-round; use a lens to check the small red-brown to dark-brown mats on trunks and branches and the sac-like ventral lobules."
+    },
+    "zh": {
+      "summary": "ヒメヤスデゴケ。耳叶苔科小型叶状苔类，附生于树干、枝条及岩面形成红褐至暗褐色垫，叶腹瓣囊状（可蓄水）为其特征，干时卷缩，为小型耳叶苔。",
+      "habitat_hint": "树干、枝条、岩面、石墙，含向阳易干处。",
+      "finding_tips": "全年可见；用放大镜观察树干与枝条上红褐至暗褐色小垫及囊状的叶腹瓣。"
+    }
+  },
+  "Frullania monocera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トガリバヤスデゴケ。ヤスデゴケ科の葉状苔類で、樹幹や枝、岩の上に赤褐色〜暗褐色のマットをつくって着生する。葉の先がとがる（トガリバ＝尖り葉）のが特徴。葉の腹片が袋状になる。乾くと縮れる。",
+      "habitat_hint": "樹幹、枝、岩上、石垣、日当たりのよい乾きやすい場所も含む。",
+      "finding_tips": "一年中見られます。樹幹や枝に付く赤褐色〜暗褐色のマットと、先のとがる葉、袋状の葉の腹片をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Frullania monocera, Frullaniaceae) forming red-brown to dark-brown mats on tree trunks, branches and rock; distinguished by pointed leaf tips, with sac-like ventral leaf-lobules. It curls when dry.",
+      "habitat_hint": "Tree trunks, branches, rock, stone walls, including sunlit sites that dry out.",
+      "finding_tips": "Present year-round; use a lens to check the red-brown to dark-brown mats, the pointed leaf tips and the sac-like ventral lobules."
+    },
+    "zh": {
+      "summary": "トガリバヤスデゴケ（尖叶耳叶苔类，Frullania monocera）。耳叶苔科叶状苔类，附生于树干、枝条及岩面形成红褐至暗褐色垫，叶端尖（トガリバ 尖叶）为其特征，叶腹瓣囊状，干时卷缩。",
+      "habitat_hint": "树干、枝条、岩面、石墙，含向阳易干处。",
+      "finding_tips": "全年可见；用放大镜观察红褐至暗褐色垫、叶端尖及囊状的叶腹瓣。"
+    }
+  },
+  "Galearis camtschatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamchatka orchid",
+    "ja": {
+      "summary": "ノビネチドリ。ラン科ノビネチドリ属の地生ランで、山地〜亜高山帯の林縁や草地、明るい林床に生える。初夏、淡紅紫色の花を穂状に多数つける。唇弁に濃い斑点が入る。根がまっすぐ伸びる（延び根＝のびね）ことが名の由来とされる。",
+      "habitat_hint": "山地〜亜高山帯の林縁、草地、明るい林床。",
+      "finding_tips": "6〜7月、淡紅紫色の花が穂状に多数つく姿を山地の林縁で探します。唇弁の濃い斑点が手がかり。"
+    },
+    "en": {
+      "summary": "Kamchatka orchid (Galearis camtschatica). A terrestrial orchid (Orchidaceae) of montane to subalpine woodland edges, grassland and bright woodland floor; in early summer it bears many pale rose-purple flowers in a spike, the lip marked with darker spots.",
+      "habitat_hint": "Montane to subalpine woodland edges, grassland, bright woodland floor.",
+      "finding_tips": "In June–July look at montane woodland edges for the spike of many pale rose-purple flowers with a darker-spotted lip."
+    },
+    "zh": {
+      "summary": "ノビネチドリ（堪察加红门兰类，Galearis camtschatica）。兰科红门兰属地生兰，生于山地至亚高山林缘、草甸及明亮林床，初夏穗状密生淡玫紫色花，唇瓣具深色斑点。",
+      "habitat_hint": "山地至亚高山林缘、草甸、明亮林床。",
+      "finding_tips": "6 至 7 月于山地林缘寻找穗状密生的淡玫紫色花；唇瓣深色斑点为线索。"
+    }
+  },
+  "Galeopsis bifida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "鼬瓣花"
+    },
+    "ja": {
+      "summary": "イタチジソ。シソ科チシマオドリコソウ属（ガレオプシス属）の一年草で、北日本の道端や畑、荒れ地、河川敷に生える。四角い茎に毛が多く、節がふくらむ。夏〜秋、淡紅紫色〜白色の小さな唇形の花を葉腋につける。下唇の先が浅く2裂する。",
+      "habitat_hint": "北日本の道端、畑、荒れ地、河川敷、やや湿った空き地。",
+      "finding_tips": "8〜9月、毛の多い四角い茎（節がふくらむ）と、淡紅紫色〜白色の小さな唇形の花を探します。"
+    },
+    "en": {
+      "summary": "A hempnettle (Galeopsis bifida, Lamiaceae), an annual of roadsides, fields, waste ground and riverbanks in northern Japan; the square stems are hairy with swollen nodes, and in summer to autumn it bears small pale rose-purple to white two-lipped flowers in the leaf axils, the lower lip shallowly two-lobed.",
+      "habitat_hint": "Roadsides, fields, waste ground, riverbanks, damp vacant lots in northern Japan.",
+      "finding_tips": "In August–September look for the hairy square stems with swollen nodes and the small pale rose-purple to white two-lipped axillary flowers."
+    },
+    "zh": {
+      "summary": "イタチジソ（鼬瓣花，Galeopsis bifida）。唇形科鼬瓣花属一年生草本，生于北日本路旁、田地、荒地与河滩，四棱茎多毛、节膨大，夏末至秋叶腋着生淡紫红至白色唇形小花、下唇端浅二裂。",
+      "habitat_hint": "北日本路旁、田地、荒地、河滩、略湿空地。",
+      "finding_tips": "8 至 9 月寻找多毛、节膨大的四棱茎及淡紫红至白色唇形小花。"
+    }
   }
 }
