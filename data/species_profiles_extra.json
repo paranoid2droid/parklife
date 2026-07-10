@@ -229475,5 +229475,404 @@
       "habitat_hint": "寒冷地白桦（桦木类）活立木干上伤口。",
       "finding_tips": "全年可见；于寒冷地白桦树干伤口处寻找如炭黑而粗糙隆起的块（菌核）；内部黄褐色。"
     }
+  },
+  "Isopterygium albescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロハイゴケ。ハイゴケ科の小さな蘚類で、湿った林床の土や腐木、岩、樹の根元に扁平で白っぽい緑（淡緑）のマットをつくる。枝と葉が平らに並ぶ。都市の公園でも見られる。乾くと白っぽく見える。",
+      "habitat_hint": "湿った林床の土、腐木、岩、樹幹の基部、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。扁平で白っぽい淡緑のマットを、湿った林床や腐木でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A small pleurocarpous moss (Isopterygium albescens, Hypnaceae) forming flattened, whitish-green (pale-green) mats on damp woodland soil, rotten wood, rock and tree bases; the branches and leaves lie flat and it looks whitish when dry. Also seen in parks.",
+      "habitat_hint": "Damp woodland soil, rotten wood, rock, tree bases, shaded streamsides.",
+      "finding_tips": "Present year-round; use a lens on damp woodland floor and rotten wood to check the flat, whitish pale-green mats."
+    },
+    "zh": {
+      "summary": "シロハイゴケ。灰藓科小型藓类，于湿润林床土壤、腐木、岩石及树基形成扁平、偏白的淡绿垫，枝叶平列，城市公园中亦可见，干时偏白。",
+      "habitat_hint": "湿润林床土壤、腐木、岩石、树基、溪流荫处。",
+      "finding_tips": "全年可见；用放大镜在湿润林床与腐木上观察扁平、偏白的淡绿垫。"
+    }
+  },
+  "Itatsina praticola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sac spider",
+    "ja": {
+      "summary": "イタチグモ。ワシグモ科（またはフクログモ科近縁）のクモで、草地や林縁、河原、畑、石や落葉の下にすむ。褐色〜黄褐色の細長い体をもち、地表を素早く歩き回る徘徊性のクモ。網を張らず、歩き回って小さな虫を捕らえる。夜行性の傾向がある。",
+      "habitat_hint": "草地、林縁、河原、畑、石や落葉の下。",
+      "finding_tips": "一年中、草地や地表で石や落葉をめくり、褐色で細長く素早く歩くクモを探します。網は張らない。"
+    },
+    "en": {
+      "summary": "A ground/sac spider (Itatsina praticola, Gnaphosidae) of grassland, woodland edges, riverbanks, fields and under stones and litter; the elongate body is brown to yellow-brown and it roams the ground quickly. A wandering hunter, it builds no web and catches small insects on the move, tending to be nocturnal.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks, fields, under stones and litter.",
+      "finding_tips": "Year-round on grassland and the ground turn stones and litter to find the elongate brown, fast-walking spider; it builds no web."
+    },
+    "zh": {
+      "summary": "イタチグモ（鼬蛛类，Itatsina praticola）。平腹蛛科（或近管巢蛛）蜘蛛，栖于草地、林缘、河滩、农田及石与落叶下，体细长、褐至黄褐色，于地面迅速游走，为游猎型、不结网、边走边捕小虫，偏夜行性。",
+      "habitat_hint": "草地、林缘、河滩、农田、石与落叶下。",
+      "finding_tips": "全年于草地与地面翻开石与落叶寻找褐色、细长、快走的蜘蛛；不结网。"
+    }
+  },
+  "Japonicalia tebakoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "テバコモミジガサ。キク科（コウモリソウ属に近縁）の多年草で、山地の谷沿いや沢沿いの湿った林床、林縁に生える。モミジ（カエデ）に似た掌状に切れ込む葉をつける。夏〜秋、白い小さな頭花を穂状〜円錐状につける。若い葉は山菜（モミジガサ）として食べられる。",
+      "habitat_hint": "山地の谷沿い、沢沿いの湿った林床、林縁、やや湿った斜面。",
+      "finding_tips": "8〜9月、モミジに似た掌状に切れ込む葉と、白い小さな頭花を湿った林床で探します。"
+    },
+    "en": {
+      "summary": "A perennial (Japonicalia tebakoensis, Asteraceae, close to Parasenecio) of montane valleys, damp streamside woodland floor and edges; it has maple-like palmately lobed leaves and, in late summer to autumn, small white flowerheads in spikes to panicles. The young leaves are eaten as a wild vegetable.",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, edges, damp slopes.",
+      "finding_tips": "In August–September look on damp woodland floor for the maple-like palmately lobed leaves and the small white flowerheads."
+    },
+    "zh": {
+      "summary": "テバコモミジガサ。菊科（近蟹甲草属）多年生草本，生于山地谷地、沟谷湿润林床与林缘，叶掌状分裂似枫，夏末至秋穗状至圆锥状着生白色小头状花，嫩叶作山野菜。",
+      "habitat_hint": "山地谷地、沟谷湿润林床、林缘、略湿坡地。",
+      "finding_tips": "8 至 9 月于湿润林床寻找掌状分裂似枫的叶及白色小头状花。"
+    }
+  },
+  "Koeleria pyramidata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crested hair-grass",
+    "ja": {
+      "summary": "ミノボロ。イネ科ミノボロ属の多年草で、山地〜高原の日当たりのよい草地や乾いた斜面、河原に生える。細い茎を立て、円柱状〜やや尖った穂状の密な花序（ピラミッド形）に小穂を密につける。株になって生える。",
+      "habitat_hint": "山地〜高原の日当たりのよい草地、乾いた斜面、河原。",
+      "finding_tips": "6〜8月、円柱状〜やや尖った穂状の密な花序に小穂を密につける姿を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "Crested hair-grass (Koeleria pyramidata). A perennial grass (Poaceae) of sunny montane to highland grassland, dry slopes and riverbanks; it raises slender stems with a dense cylindrical to slightly pointed (pyramidal) spike-like inflorescence packed with spikelets, growing in tufts.",
+      "habitat_hint": "Sunny montane to highland grassland, dry slopes, riverbanks.",
+      "finding_tips": "In June–August look on montane grassland for the dense cylindrical to pyramidal spike-like inflorescence packed with spikelets."
+    },
+    "zh": {
+      "summary": "ミノボロ（金字塔洽草类，Koeleria pyramidata）。禾本科洽草属多年生草本，生于山地至高原向阳草甸、干坡与河滩，细茎顶生圆柱至略尖（金字塔形）的密穗状花序、密生小穗，丛生。",
+      "habitat_hint": "山地至高原向阳草甸、干坡、河滩。",
+      "finding_tips": "6 至 8 月于山地草甸寻找圆柱至金字塔形、密生小穗的穗状花序。"
+    }
+  },
+  "Laccaria amethystina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amethyst deceiver",
+    "aliases": {
+      "zh-Hans": "紫蜡蘑"
+    },
+    "ja": {
+      "summary": "ウラムラサキ。キツネタケ科のキノコで、夏〜秋に林内や林縁、道端の地上に発生する。傘・柄・ひだのすべてが鮮やかな紫色（アメジスト色）をしているのが特徴。乾くと色があせる。小さくてよく目立つ美しいキノコ。食用にされることもある。",
+      "habitat_hint": "夏〜秋の林内、林縁、道端の地上、樹下。",
+      "finding_tips": "7〜11月、林床で傘・柄・ひだのすべてが鮮やかな紫色の小さなキノコを探します。乾くと色があせる。"
+    },
+    "en": {
+      "summary": "Amethyst deceiver (Laccaria amethystina). A fungus (Hydnangiaceae) fruiting on the ground in and at the edge of woodland and on roadsides in summer to autumn; cap, stem and gills are all a vivid amethyst purple, fading as it dries. A small but conspicuous, beautiful mushroom, sometimes eaten.",
+      "habitat_hint": "Ground in and at the edge of woodland, roadsides, tree bases; summer to autumn.",
+      "finding_tips": "In July–November on the woodland floor look for the small mushroom with cap, stem and gills all vivid purple; the colour fades when dry."
+    },
+    "zh": {
+      "summary": "ウラムラサキ（紫蜡蘑，Laccaria amethystina）。轴腹菌科真菌，夏秋发生于林内、林缘及路旁地上，菌盖、柄与菌褶皆呈鲜艳紫色（紫水晶色），干时褪色，小而醒目、美丽，或作食用。",
+      "habitat_hint": "夏秋林内、林缘、路旁地面、树下。",
+      "finding_tips": "7 至 11 月于林床寻找盖、柄、褶皆鲜紫色的小型菌；干时褪色。"
+    }
+  },
+  "Lagenorhynchus obliquidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pacific white-sided dolphin",
+    "aliases": {
+      "zh-Hans": "太平洋斑纹海豚"
+    },
+    "ja": {
+      "summary": "カマイルカ。マイルカ科の中型のイルカで、北日本の沿岸や沖合の海にすむ。背中が黒く、体側に灰白色の帯状の模様があり、背びれが鎌（かま）のように後方に大きく曲がるのが名の由来。群れで活発に泳ぎ、船の舳先で波乗り（バウライド）をする。イワシなどの魚を食べる。",
+      "habitat_hint": "北日本の沿岸・沖合の海。",
+      "finding_tips": "沿岸や沖合の海で、背びれが鎌のように後方に曲がり、体側に灰白色の帯のある中型のイルカを探します。群れで泳ぐ。"
+    },
+    "en": {
+      "summary": "Pacific white-sided dolphin (Lagenorhynchus obliquidens). A medium-sized dolphin (Delphinidae) of coastal and offshore seas of northern Japan; black-backed with grey-white flank bands, and a tall dorsal fin curving back like a sickle (source of the Japanese name). It swims actively in schools and bow-rides, feeding on fish such as sardines.",
+      "habitat_hint": "Coastal and offshore seas of northern Japan.",
+      "finding_tips": "In coastal and offshore seas look for the medium dolphin with a sickle-curved dorsal fin and grey-white flank bands; it swims in schools."
+    },
+    "zh": {
+      "summary": "カマイルカ（太平洋斑纹海豚，Lagenorhynchus obliquidens）。海豚科中型海豚，栖于北日本沿岸与近海，背黑、体侧具灰白色带纹、背鳍高而向后弯如镰刀（和名由来），成群活跃游动、常船首乘浪，取食沙丁鱼等。",
+      "habitat_hint": "北日本沿岸与近海。",
+      "finding_tips": "于沿岸与近海寻找背鳍向后弯如镰、体侧具灰白带的中型海豚；成群游动。"
+    }
+  },
+  "Ligidium japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Woodlouse",
+    "ja": {
+      "summary": "ニホンヒメフナムシ。ヒメフナムシ科の陸生の等脚類（ダンゴムシ・ワラジムシの仲間）で、湿った林床の落葉の下や倒木、石の下、渓流沿いの湿った場所にすむ。褐色〜灰褐色の細長い体をもち、フナムシに似るが小型で内陸性。落葉やデトリタスを食べる分解者。乾燥に弱く、湿った環境を好む。",
+      "habitat_hint": "湿った林床の落葉の下、倒木・石の下、渓流沿いの湿った場所。",
+      "finding_tips": "一年中、湿った林で落葉や倒木、石をめくり、褐色で細長い小さな等脚類（ワラジムシに似た虫）を探します。"
+    },
+    "en": {
+      "summary": "A woodlouse (Ligidium japonicum, Ligiidae), a terrestrial isopod of damp woodland floor, living under leaf litter, logs and stones and in damp streamside places; the elongate body is brown to grey-brown, like a sea slater but small and inland. A decomposer feeding on litter and detritus, it needs damp and dislikes drying.",
+      "habitat_hint": "Under leaf litter, logs and stones on damp woodland floor, damp streamside places.",
+      "finding_tips": "Year-round in damp woodland turn litter, logs and stones to find the small elongate brown isopod (woodlouse-like)."
+    },
+    "zh": {
+      "summary": "ニホンヒメフナムシ（日本姬海蟑螂类，Ligidium japonicum）。姬海蟑螂科陆生等足类（潮虫、鼠妇之近缘），栖于湿润林床落叶下、倒木与石下及溪流沿岸湿处，体细长、褐至灰褐色，似海蟑螂而小、内陆性，取食落叶与碎屑，喜湿怕干。",
+      "habitat_hint": "湿润林床落叶下、倒木与石下、溪流沿岸湿处。",
+      "finding_tips": "全年于湿润林中翻开落叶、倒木与石块寻找褐色细长的小型等足类（似鼠妇）。"
+    }
+  },
+  "Ligularia hodgsonii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leopard plant",
+    "ja": {
+      "summary": "トウゲブキ。キク科メタカラコウ属の多年草で、北日本の山地〜亜高山帯の草地や林縁、沢沿いの湿った場所に生える。丸みのある腎円形の大きな葉をつけ、夏、黄橙色の頭花を数個〜多数、上向きに咲かせる。峠（とうげ）などの草地に多い。",
+      "habitat_hint": "北日本の山地〜亜高山帯の草地、林縁、沢沿いの湿った場所。",
+      "finding_tips": "7〜8月、丸みのある腎円形の大きな葉と、黄橙色の頭花を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "Leopard plant (Ligularia hodgsonii). A perennial (Asteraceae) of montane to subalpine grassland, woodland edges and damp streamsides in northern Japan; it has large rounded kidney-shaped leaves and, in summer, opens several to many orange-yellow flowerheads facing up.",
+      "habitat_hint": "Montane to subalpine grassland, woodland edges, damp streamsides in northern Japan.",
+      "finding_tips": "In July–August look on montane grassland for the large rounded kidney-shaped leaves and the orange-yellow flowerheads."
+    },
+    "zh": {
+      "summary": "トウゲブキ（狭苞橐吾类，Ligularia hodgsonii）。菊科橐吾属多年生草本，生于北日本山地至亚高山草甸、林缘及沟谷湿处，叶大圆肾形，夏季朝上开数枚至多枚黄橙色头状花，多见于山口等草地。",
+      "habitat_hint": "北日本山地至亚高山草甸、林缘、沟谷湿处。",
+      "finding_tips": "7 至 8 月于山地草甸寻找圆大肾形叶及黄橙色头状花。"
+    }
+  },
+  "Lobaria spathulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lung lichen",
+    "ja": {
+      "summary": "ヘラガタカブトゴケ。地衣類（ツメゴケ科カブトゴケ属）で、湿った森林の樹幹や苔むした岩に、へら（篦）形に裂けた大きな葉状の体を広げる。表面は褐色〜灰緑色で、裏面に毛や粉状の構造がある。空気のきれいな成熟した森に多く、環境指標にされる。",
+      "habitat_hint": "湿った成熟林の樹幹、苔むした岩。空気のきれいな環境。",
+      "finding_tips": "一年中見られます。湿った森の樹幹や岩に広がる、へら形に裂けた大きな葉状地衣を探します。"
+    },
+    "en": {
+      "summary": "A lung lichen (Lobaria spathulata, Peltigeraceae) spreading a large foliose thallus of spatula-shaped (spathulate) lobes on damp forest trunks and mossy rock; the surface is brown to grey-green, with hairs or powdery structures beneath. Common in clean-air mature forest and used as an environmental indicator.",
+      "habitat_hint": "Trunks and mossy rock in damp mature forest; clean-air environments.",
+      "finding_tips": "Present year-round; on damp forest trunks and rock look for the large foliose lichen with spatula-shaped lobes."
+    },
+    "zh": {
+      "summary": "ヘラガタカブトゴケ（匙叶肺衣类，Lobaria spathulata）。地衣类（地卷科肺衣属），于湿润森林树干及生苔岩石上展开裂片呈匙形（spathulate）的大型叶状体，表面褐至灰绿色、背面具毛或粉状结构，多见于空气洁净成熟林，可作环境指示。",
+      "habitat_hint": "湿润成熟林树干、生苔岩石；空气洁净处。",
+      "finding_tips": "全年可见；于湿润森林树干与岩石上寻找裂片匙形的大型叶状地衣。"
+    }
+  },
+  "Lolium temulentum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ドクムギ。地中海地方原産のイネ科ドクムギ属の一〜越年草で、麦畑や道端、河川敷、造成地に帰化する。穂の軸に小穂が交互に並び、長い芒をつける。種子に有毒な菌（毒性を持つ内生菌）が共生することがあり、混入すると中毒を起こすことから「毒麦」の名がある。",
+      "habitat_hint": "麦畑、道端、河川敷、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜7月、穂の軸に交互に並ぶ小穂と長い芒を探します。麦に混入すると有毒なので名がついた。"
+    },
+    "en": {
+      "summary": "Darnel (Lolium temulentum). A Mediterranean annual to biennial grass (Poaceae) naturalised in cereal fields, roadsides, riverbanks and made ground; the spikelets are set alternately on the axis with long awns. The seeds can host a toxic endophytic fungus, causing poisoning if mixed into grain — hence the Japanese name \"poison grass.\"",
+      "habitat_hint": "Cereal fields, roadsides, riverbanks, made ground in sunny places.",
+      "finding_tips": "In May–July look for the spikelets set alternately on the axis with long awns; toxic if mixed into grain, hence its name."
+    },
+    "zh": {
+      "summary": "ドクムギ（毒麦，Lolium temulentum）。原产地中海的禾本科黑麦草属一至二年生草本，归化于麦田、路旁、河滩与造地，小穗沿穗轴交互排列、具长芒，种子常共生有毒内生菌，混入谷物可致中毒，故名「毒麦」。",
+      "habitat_hint": "麦田、路旁、河滩、造地向阳处。",
+      "finding_tips": "5 至 7 月寻找沿穗轴交互排列、具长芒的小穗；混入谷物有毒，故名。"
+    }
+  },
+  "Megalophaedusa martensi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Door snail",
+    "ja": {
+      "summary": "オオギセル。キセルガイ科の細長い大型の陸生の巻貝で、湿った林内の樹幹や落葉の間、石灰岩地の岩の隙間にすむ。殻は左巻きの細長い紡錘形（キセル形）で、褐色。同属のキセルガイの中でも大型（オオ＝大きい）。殻口に閉弁を持つ。梅雨時に活動が活発。",
+      "habitat_hint": "湿った林内の樹幹、落葉の下、石灰岩地の岩の隙間。",
+      "finding_tips": "梅雨〜秋の湿った時期、湿った林で樹幹や倒木、落葉の間の大型で細長い左巻きの殻を探します。"
+    },
+    "en": {
+      "summary": "A large door snail (Megalophaedusa martensi, Clausiliidae), a slender land snail living on tree trunks, among leaf litter and in limestone rock crevices in damp forest; the sinistral (left-coiling), elongate spindle- (pipe-) shaped shell is brown, large for the group. It has a closing plate at the aperture and is most active in the rainy season.",
+      "habitat_hint": "Tree trunks, under leaf litter and in limestone crevices in damp forest.",
+      "finding_tips": "In damp periods from the rainy season to autumn look on trunks and in leaf litter for the large, slender, left-coiling shell."
+    },
+    "zh": {
+      "summary": "オオギセル（大烟管螺，Megalophaedusa martensi）。烟管螺科细长大型陆生蜗牛，栖于湿润林内树干、落叶间及石灰岩岩隙，壳左旋、细长纺锤形（烟管形）、褐色，为同属中大型者，壳口具闭板，梅雨期活跃。",
+      "habitat_hint": "湿润林内树干、落叶下、石灰岩岩隙。",
+      "finding_tips": "梅雨至秋湿润期于湿润林中在树干与落叶间寻找大型、细长左旋的壳。"
+    }
+  },
+  "Metapenaeus ensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greasyback shrimp",
+    "aliases": {
+      "zh-Hans": "刀额新对虾"
+    },
+    "ja": {
+      "summary": "ヨシエビ。クルマエビ科の中型のエビで、内湾や河口の砂泥底、汽水域にすむ。体は淡褐色〜緑褐色で、額角（がっかく＝頭の前に突き出た角）が短い。夜行性で、昼は砂泥に潜む。食用として重要で、漁獲・養殖される。ヨシ（葦）の生える汽水域に多いことが名の由来とされる。",
+      "habitat_hint": "内湾・河口の砂泥底、汽水域、ヨシ原周辺の水域。",
+      "finding_tips": "一年中、内湾や河口の砂泥底で、淡褐色〜緑褐色で額角の短い中型のエビを探します。昼は砂泥に潜む。"
+    },
+    "en": {
+      "summary": "Greasyback shrimp (Metapenaeus ensis). A medium-sized shrimp (Penaeidae) of the sandy-mud bottom of sheltered bays, estuaries and brackish water; the body is pale brown to green-brown with a short rostrum. Nocturnal, it hides in the sediment by day. An important food species, caught and farmed, common in reed-fringed brackish waters.",
+      "habitat_hint": "Sandy-mud bottom of sheltered bays, estuaries, brackish water, reed-bed waters.",
+      "finding_tips": "Year-round on the sandy-mud bottom of bays and estuaries look for the medium pale-brown to green-brown shrimp with a short rostrum; it hides in mud by day."
+    },
+    "zh": {
+      "summary": "ヨシエビ（刀额新对虾，Metapenaeus ensis）。对虾科中型虾，栖于内湾与河口砂泥底及咸淡水，体淡褐至绿褐色、额角短，夜行性、昼潜砂泥，为重要食用种、捕捞与养殖，多见于芦苇咸淡水域。",
+      "habitat_hint": "内湾与河口砂泥底、咸淡水、芦苇丛水域。",
+      "finding_tips": "全年于内湾河口砂泥底寻找淡褐至绿褐色、额角短的中型虾；昼潜砂泥。"
+    }
+  },
+  "Myriophyllum ussuriense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチモ。アリノトウグサ科フサモ属の水生の多年草で、池沼や水路、水田、湿地の浅い水中に生える。羽状に細かく裂けた水中葉を輪生し、水面上に細い茎を立てる。雌雄異株。水湿地を好む沈水植物。",
+      "habitat_hint": "池沼、水路、水田、湿地の浅い水中。",
+      "finding_tips": "6〜9月、水中に輪生する羽状に細かく裂けた葉と、水面上に立つ細い茎を探します。"
+    },
+    "en": {
+      "summary": "Asian water-milfoil (Myriophyllum ussuriense). An aquatic perennial (Haloragaceae) of the shallow water of ponds, channels, paddy fields and wetlands; it whorls finely pinnate submerged leaves and raises slender stems above the water. Dioecious, a water-loving submerged plant.",
+      "habitat_hint": "Shallow water of ponds, channels, paddy fields, wetlands.",
+      "finding_tips": "In June–September look for the whorls of finely pinnate submerged leaves and the slender stems standing above the water."
+    },
+    "zh": {
+      "summary": "タチモ（乌苏里聚藻，Myriophyllum ussuriense）。小二仙草科狐尾藻属水生多年生草本，生于池沼、水道、水田及湿地浅水，沉水叶羽状细裂、轮生，细茎立于水面上，雌雄异株，为喜水湿的沉水植物。",
+      "habitat_hint": "池沼、水道、水田、湿地浅水。",
+      "finding_tips": "6 至 9 月寻找水中轮生、羽状细裂的叶及立于水面上的细茎。"
+    }
+  },
+  "Naranga aenescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rice green caterpillar moth",
+    "ja": {
+      "summary": "フタオビコヤガ。ヤガ科の小さな蛾で、水田や河川敷、湿地の周辺、草地に生息する。淡黄色〜黄褐色の翅に2本の帯（二帯＝ふたおび）が入る。幼虫はイネや各種のイネ科植物の葉を食べ、イネの害虫（イネアオムシ）として知られる。夜行性で灯火に集まる。",
+      "habitat_hint": "水田、河川敷、湿地の周辺、草地、灯火の周り。",
+      "finding_tips": "5〜9月、水田の周辺や灯火の周りで、淡黄色〜黄褐色で2本の帯のある小さな蛾を探します。"
+    },
+    "en": {
+      "summary": "Rice green caterpillar moth (Naranga aenescens, Noctuidae). A small moth of paddy fields, riverbanks, around wetlands and grassland; the pale-yellow to yellow-brown wings carry two bands. The larva feeds on rice and other grasses and is a known rice pest (rice green caterpillar). Nocturnal, it comes to lights.",
+      "habitat_hint": "Paddy fields, riverbanks, around wetlands, grassland, near lights.",
+      "finding_tips": "From May to September around paddies and lights look for the small pale-yellow to yellow-brown moth with two bands."
+    },
+    "zh": {
+      "summary": "フタオビコヤガ（稻绿蛾类，Naranga aenescens）。夜蛾科小型蛾，栖于水田、河滩、湿地周边及草地，翅淡黄至黄褐色、具两条带（二带），幼虫取食稻及多种禾本科叶、为稻害虫（稻青虫），夜行性、趋光。",
+      "habitat_hint": "水田、河滩、湿地周边、草地、灯火周边。",
+      "finding_tips": "5 至 9 月于水田周边与灯下寻找淡黄至黄褐色、具两条带的小型蛾。"
+    }
+  },
+  "Neodicladiella flagellifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キヨスミイトゴケ。ハイヒモゴケ科（またはイトヒバゴケ科近縁）の蘚類で、湿った森林の樹幹や枝から、細い糸のように長く垂れ下がるマットをつくって着生する。緑〜黄緑色で、鞭のように細長い枝を出す。空気の湿った成熟した森に多い。",
+      "habitat_hint": "湿った森林の樹幹、枝、渓谷沿いの日陰。空気の湿った環境。",
+      "finding_tips": "一年中見られます。樹幹や枝から糸のように長く垂れ下がる緑〜黄緑色のコケを探します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Neodicladiella flagellifera, Meteoriaceae) growing as long, thread-like hanging mats from tree trunks and branches in damp forest; green to yellow-green, it puts out whip-like slender branches. Common in humid mature forest.",
+      "habitat_hint": "Trunks and branches in damp forest, shaded ravines; humid environments.",
+      "finding_tips": "Present year-round; look for the green to yellow-green moss hanging in long thread-like strands from trunks and branches."
+    },
+    "zh": {
+      "summary": "キヨスミイトゴケ。蔓藓科藓类，于湿润森林树干与枝条上以细如丝、长垂的垫状群落附生，绿至黄绿色，抽出鞭状细枝，多见于空气湿润的成熟森林。",
+      "habitat_hint": "湿润森林树干、枝条、溪谷荫处；空气湿润处。",
+      "finding_tips": "全年可见；寻找自树干与枝条长垂如丝的绿至黄绿色苔藓。"
+    }
+  },
+  "Nepeta subsessilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese catmint",
+    "ja": {
+      "summary": "ミソガワソウ。シソ科イヌハッカ属（ネペタ属）の多年草で、山地〜亜高山帯の沢沿いや湿った草地、林縁に生える。四角い茎に葉を対生し、夏、青紫色の大きな唇形の花を茎の上部に穂状につける。ネコが好むキャットニップ（イヌハッカ）の仲間。",
+      "habitat_hint": "山地〜亜高山帯の沢沿い、湿った草地、林縁。",
+      "finding_tips": "7〜8月、四角い茎と対生の葉、青紫色の大きな唇形の花が穂状につく姿を沢沿いで探します。"
+    },
+    "en": {
+      "summary": "Japanese catmint (Nepeta subsessilis). A perennial (Lamiaceae) of montane to subalpine streamsides, damp meadows and woodland edges; the square stems bear opposite leaves and, in summer, large blue-purple two-lipped flowers in spikes in the upper stem. A relative of catnip.",
+      "habitat_hint": "Montane to subalpine streamsides, damp meadows, woodland edges.",
+      "finding_tips": "In July–August along streamsides look for the square stems, opposite leaves and spikes of large blue-purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "ミソガワソウ（无梗荆芥类，Nepeta subsessilis）。唇形科荆芥属多年生草本，生于山地至亚高山沟谷、湿润草甸与林缘，四棱茎对生叶，夏季茎上部穗状着生蓝紫色大型唇形花，为猫薄荷（荆芥）近缘。",
+      "habitat_hint": "山地至亚高山沟谷、湿润草甸、林缘。",
+      "finding_tips": "7 至 8 月于沟谷寻找四棱茎、对生叶及穗状排列的蓝紫色大型唇形花。"
+    }
+  },
+  "Nephrophyllidium crista-galli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Deer-cabbage",
+    "ja": {
+      "summary": "イワイチョウ。ミツガシワ科（またはリンドウ科近縁）イワイチョウ属の多年草で、亜高山〜高山帯の湿原や湿った草地、雪田の周縁に生える。腎円形〜イチョウの葉に似た光沢のある葉を根生し（岩銀杏＝いわいちょう）、夏、白い5弁の小花を集散状につける。秋には葉が黄色く色づく。",
+      "habitat_hint": "亜高山〜高山帯の湿原、湿った草地、雪田の周縁。",
+      "finding_tips": "7〜8月、イチョウの葉に似た光沢のある腎円形の根生葉と、白い5弁の小花を湿原で探します。秋の黄葉も手がかり。"
+    },
+    "en": {
+      "summary": "Deer-cabbage (Nephrophyllidium crista-galli). A perennial (Menyanthaceae) of subalpine to alpine bogs, damp meadows and snow-patch margins; it has glossy kidney-round basal leaves resembling ginkgo leaves (hence the Japanese name \"rock ginkgo\") and, in summer, bears small white five-petalled flowers in cymes. The leaves turn yellow in autumn.",
+      "habitat_hint": "Subalpine to alpine bogs, damp meadows, snow-patch margins.",
+      "finding_tips": "In July–August in bogs look for the glossy kidney-round basal leaves like ginkgo leaves and the small white five-petalled flowers; the yellow autumn leaves are another clue."
+    },
+    "zh": {
+      "summary": "イワイチョウ（岩银杏类，Nephrophyllidium crista-galli）。睡菜科多年生草本，生于亚高山至高山湿原、湿润草甸及雪斑周缘，肾圆形有光泽的基生叶似银杏叶（岩银杏），夏季聚伞状开白色五瓣小花，秋叶转黄。",
+      "habitat_hint": "亚高山至高山湿原、湿润草甸、雪斑周缘。",
+      "finding_tips": "7 至 8 月于湿原寻找似银杏叶的肾圆形有光泽基生叶及白色五瓣小花；秋季黄叶亦为线索。"
+    }
+  },
+  "Nicandra physalodes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオセンナリ。南アメリカ（ペルー）原産のナス科オオセンナリ属の一年草で、観賞用に栽培され、道端や畑、荒れ地に野生化する。淡青紫色の鐘形の花を咲かせ、果実はホオズキのように袋状の萼に包まれる。ハエを寄せつけないともいわれ、英名は「Shoo-fly plant」。※有毒。",
+      "habitat_hint": "道端、畑、荒れ地、造成地、庭の周辺。",
+      "finding_tips": "7〜9月、淡青紫色の鐘形の花と、袋状の萼に包まれた果実（ホオズキ状）を探します。有毒。"
+    },
+    "en": {
+      "summary": "Shoo-fly plant (Nicandra physalodes). A South-American (Peruvian) annual (Solanaceae) grown as an ornamental and naturalised on roadsides, fields and waste ground; it opens pale blue-purple bell-shaped flowers and its fruit is enclosed in an inflated calyx like a Chinese lantern. Said to repel flies (hence the name). Poisonous.",
+      "habitat_hint": "Roadsides, fields, waste ground, made ground, around gardens.",
+      "finding_tips": "In July–September look for the pale blue-purple bell-shaped flowers and the fruit enclosed in an inflated lantern-like calyx. Poisonous."
+    },
+    "zh": {
+      "summary": "オオセンナリ（假酸浆，Nicandra physalodes）。原产南美（秘鲁）的茄科假酸浆属一年生草本，作观赏栽培并野化于路旁、田地与荒地，开淡蓝紫色钟形花，果实被膨大宿萼包裹如灯笼，据传可驱蝇（故英名 Shoo-fly）。有毒。",
+      "habitat_hint": "路旁、田地、荒地、造地、庭园周边。",
+      "finding_tips": "7 至 9 月寻找淡蓝紫色钟形花及被膨大宿萼包裹如灯笼的果实。有毒。"
+    }
   }
 }
