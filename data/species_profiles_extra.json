@@ -228224,5 +228224,425 @@
       "habitat_hint": "路旁、土坡、林床、公园地面、路堑。",
       "finding_tips": "全年可见；用放大镜在土面上观察具横向波纹、干时卷缩的狭长叶。"
     }
+  },
+  "Bacopa rotundifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Roundleaf water hyssop",
+    "aliases": {
+      "zh-Hans": "圆叶假马齿苋"
+    },
+    "ja": {
+      "summary": "ウキアゼナ。北アメリカ原産のオオバコ科（旧ゴマノハグサ科）ウキアゼナ属の一年草で、水田や池沼、水路、湿地に帰化する。丸みのある葉を対生し、水面や湿った泥地を這うように広がる。葉腋に白い小さな花をつける。水湿地を好む水草。",
+      "habitat_hint": "水田、池沼、水路、湿地、浅い水辺。",
+      "finding_tips": "7〜10月、水面や泥地を這う茎と、丸みのある対生の葉、葉腋の白い小花を水辺で探します。"
+    },
+    "en": {
+      "summary": "Roundleaf water hyssop (Bacopa rotundifolia). A North-American annual (Plantaginaceae, formerly Scrophulariaceae) naturalised in paddy fields, ponds, channels and wetlands; it has rounded opposite leaves, creeps over the water surface and mud, and bears small white flowers in the leaf axils. A water-loving plant.",
+      "habitat_hint": "Paddy fields, ponds, channels, wetlands, shallow water margins.",
+      "finding_tips": "In July–October look at the waterside for the creeping stems over water and mud, the rounded opposite leaves and the small white axillary flowers."
+    },
+    "zh": {
+      "summary": "ウキアゼナ（圆叶假马齿苋，Bacopa rotundifolia）。原产北美的车前科（旧玄参科）假马齿苋属一年生草本，归化于水田、池沼、水道与湿地，叶圆钝对生，匍匐于水面与泥滩，叶腋着生白色小花，为喜水湿的水草。",
+      "habitat_hint": "水田、池沼、水道、湿地、浅水边。",
+      "finding_tips": "7 至 10 月于水边寻找匍匐水面与泥滩的茎、圆钝对生叶及叶腋白色小花。"
+    }
+  },
+  "Badister pictus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヨツモンカタキバゴミムシ。オサムシ科の小さな地表性甲虫で、河原や水田、湿地の水際の泥地や落葉の下にすむ。黒地に淡色の4つの紋（四紋＝よつもん）がある。上あご（大あご）が左右非対称なのが特徴。素早く歩き回り、小さな貝や虫を捕食する。",
+      "habitat_hint": "河原、水田、湿地の水際の泥地、落葉の下、池沼の縁。",
+      "finding_tips": "4〜10月、水際の泥地や落葉の下で、黒地に淡色の4つの紋のある小さな甲虫を探します。"
+    },
+    "en": {
+      "summary": "A ground beetle (Badister pictus, Carabidae) of the wet mud and litter at the water's edge of riverbanks, paddies and wetlands; it is black with four pale marks, and distinctively has asymmetric mandibles. It runs quickly over damp ground preying on small snails and insects.",
+      "habitat_hint": "Wet mud and litter at water margins of riverbanks, paddies, wetlands, pond edges.",
+      "finding_tips": "From April to October at waterside mud and under litter look for the small black beetle with four pale marks."
+    },
+    "zh": {
+      "summary": "ヨツモンカタキバゴミムシ（四斑歪颚步甲类，Badister pictus）。步甲科小型地栖甲虫，栖于河滩、水田及湿地水边泥地与落叶下，体黑具四枚淡斑（四纹），上颚左右不对称为其特征，迅速游走捕食小螺与虫。",
+      "habitat_hint": "河滩、水田、湿地水边泥地、落叶下、池沼边缘。",
+      "finding_tips": "4 至 10 月于水边泥地与落叶下寻找黑底具四枚淡斑的小型甲虫。"
+    }
+  },
+  "Bellardia trixago": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mediterranean lineseed",
+    "ja": {
+      "summary": "ヒサウチソウ。地中海地方原産のハマウツボ科の一年草で、他の植物の根に半寄生する。道端や河川敷、造成地、海岸近くの草地に帰化する。全体に腺毛があってべたつき、白〜淡黄色と淡紅色が混じる唇形の花を穂状に密につける。要注意の外来種。",
+      "habitat_hint": "道端、河川敷、造成地、海岸近くの草地の日当たりのよい場所。",
+      "finding_tips": "5〜7月、べたつく腺毛の茎と、白〜淡黄色に淡紅色が混じる唇形の花が穂状に密につく花序を探します。"
+    },
+    "en": {
+      "summary": "Mediterranean lineseed (Bellardia trixago). A Mediterranean annual (Orobanchaceae) that hemiparasitises other plants' roots, naturalised on roadsides, riverbanks, made ground and coastal grassland; sticky-glandular throughout, it densely packs two-lipped flowers mixing white-to-pale-yellow and pink into a spike. A weed to watch for.",
+      "habitat_hint": "Roadsides, riverbanks, made ground, coastal grassland in sunny places.",
+      "finding_tips": "In May–July look for the sticky glandular stems and the spike densely set with two-lipped flowers mixing white-to-pale-yellow and pink."
+    },
+    "zh": {
+      "summary": "ヒサウチソウ（三色钟萼草类，Bellardia trixago）。原产地中海的列当科一年生草本，半寄生于他植物根部，归化于路旁、河滩、造地及近海草地，全株被腺毛而黏，穗状密生白至淡黄与淡红相杂的唇形花，为须留意的外来种。",
+      "habitat_hint": "路旁、河滩、造地、近海草地向阳处。",
+      "finding_tips": "5 至 7 月寻找黏腻腺毛的茎及穗状密生的白至淡黄杂淡红的唇形花。"
+    }
+  },
+  "Bistorta officinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common bistort",
+    "aliases": {
+      "zh-Hans": "拳参"
+    },
+    "ja": {
+      "summary": "イブキトラノオ。タデ科イブキトラノオ属の多年草で、山地〜高原の日当たりのよい草地や湿った草原、明るい斜面に生える。細長い茎の先に、淡紅色〜白色の小さな花を円柱状の穂に密につける。虎の尾のように見える花穂が名の由来。高原の草原を彩る代表的な植物。",
+      "habitat_hint": "山地〜高原の日当たりのよい草地、湿った草原、明るい斜面。",
+      "finding_tips": "6〜8月、高原の草原で、細長い茎の先に円柱状に密につく淡紅色〜白色の花穂を探します。"
+    },
+    "en": {
+      "summary": "Common bistort (Bistorta officinalis). A perennial (Polygonaceae) of sunny montane to highland grassland, damp meadows and open slopes; at the tip of a slender stem it densely packs small pink to white flowers into a cylindrical spike, likened to a tiger's tail (the Japanese name). A characteristic highland-meadow plant.",
+      "habitat_hint": "Sunny montane to highland grassland, damp meadows, open slopes.",
+      "finding_tips": "In June–August on highland grassland look for the cylindrical spike densely set with small pink to white flowers atop a slender stem."
+    },
+    "zh": {
+      "summary": "イブキトラノオ（拳参，Bistorta officinalis）。蓼科拳参属多年生草本，生于山地至高原向阳草甸、湿润草原及开阔坡地，细茎顶端圆柱状密生淡红至白色小花，花穗似虎尾，故和名，为点缀高原草甸的代表植物。",
+      "habitat_hint": "山地至高原向阳草甸、湿润草原、开阔坡地。",
+      "finding_tips": "6 至 8 月于高原草甸寻找细茎顶端圆柱状密生的淡红至白色花穗。"
+    }
+  },
+  "Bolboschoenus maritimus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウキヤガラ（ウキヤガラの近縁、海岸型）。カヤツリグサ科ウキヤガラ属の多年草で、河口や海岸近くの湿地、汽水域の湿地、水田に群生する。三角形の太い茎を立て、褐色の大きな小穂を頂につける。地下に塊茎をつくる。塩分のある湿地に強い。",
+      "habitat_hint": "河口、海岸近くの湿地、汽水域の湿地、水田、水路沿い。",
+      "finding_tips": "6〜8月、三角形の太い茎の頂につく褐色の大きな小穂を、河口や塩性湿地で探します。"
+    },
+    "en": {
+      "summary": "Sea club-rush (Bolboschoenus maritimus). A perennial sedge (Cyperaceae) forming stands in estuaries, coastal wetlands, brackish marshes and paddy fields; it raises stout triangular stems topped with large brown spikelets and forms tubers underground, tolerant of salty wetland.",
+      "habitat_hint": "Estuaries, coastal wetlands, brackish marshes, paddy fields, along watercourses.",
+      "finding_tips": "In June–August in estuaries and salt marsh look for the stout triangular stems topped with large brown spikelets."
+    },
+    "zh": {
+      "summary": "コウキヤガラ（海滨三棱草／海三棱藨草，Bolboschoenus maritimus）。莎草科三棱草属多年生草本，成丛生于河口、近海湿地、咸淡水湿地及水田，三棱粗茎顶生褐色大型小穗，地下生块茎，耐盐湿地。",
+      "habitat_hint": "河口、近海湿地、咸淡水湿地、水田、水道沿岸。",
+      "finding_tips": "6 至 8 月于河口与盐沼寻找三棱粗茎顶端的褐色大型小穗。"
+    }
+  },
+  "Brachythecium kuroishicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロイシヒツジゴケ。アオギヌゴケ科の蘚類で、湿った岩や土、樹の根元、石垣に光沢のある緑のマットをつくる。都市の公園でもよく見られる普通のコケ。羽状に枝分かれし、やや光沢のある葉をつける。",
+      "habitat_hint": "湿った岩、土、樹幹の基部、石垣。人里に多い。",
+      "finding_tips": "一年中見られます。やや光沢のある緑の羽状のマットを、湿った岩や樹の根元でルーペで確認します。"
+    },
+    "en": {
+      "summary": "A pleurocarpous moss (Brachythecium kuroishicum, Brachytheciaceae) forming glossy green mats on damp rock, soil, tree bases and stone walls; a common moss even in parks, pinnately branched with somewhat glossy leaves.",
+      "habitat_hint": "Damp rock, soil, tree bases, stone walls — common near habitation.",
+      "finding_tips": "Present year-round; use a lens on damp rock and tree bases to check the somewhat glossy green feathery mats."
+    },
+    "zh": {
+      "summary": "クロイシヒツジゴケ。青藓科藓类，于湿岩、土面、树基及石墙形成有光泽的绿垫，城市公园中亦常见，羽状分枝、叶略具光泽。",
+      "habitat_hint": "湿岩、土面、树基、石墙；人居环境常见。",
+      "finding_tips": "全年可见；用放大镜在湿岩与树基上观察略具光泽的绿色羽状垫。"
+    }
+  },
+  "Bunodophoron melanocarpum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coral lichen",
+    "ja": {
+      "summary": "ヒラサンゴゴケ。地衣類（ハナゴケ科近縁のサンゴゴケ属）で、湿った樹幹や苔むした岩、林内の枝に、灰白色〜淡緑色の平たく枝分かれした（サンゴ状の）体を叢生させる。先端に黒い子器（胞子をつくる部分）をつけることが名の由来。空気のきれいな湿った森に多い。",
+      "habitat_hint": "湿った森林の樹幹、苔むした岩、枝。空気のきれいな環境。",
+      "finding_tips": "一年中見られます。湿った樹幹や岩に叢生する灰白色〜淡緑色の平たく枝分かれしたサンゴ状の地衣を探します。"
+    },
+    "en": {
+      "summary": "A coral lichen (Bunodophoron melanocarpum, Sphaerophoraceae) forming tufts of grey-white to pale-green, flattened, branched (coral-like) fronds on damp tree trunks, mossy rock and branches in forest; named for the black apothecia (spore-bearing parts) at the tips. Common in clean-air, damp forest.",
+      "habitat_hint": "Damp forest trunks, mossy rock, branches; clean-air environments.",
+      "finding_tips": "Present year-round; on damp trunks and rock look for the tufts of grey-white to pale-green, flattened, branched coral-like lichen."
+    },
+    "zh": {
+      "summary": "ヒラサンゴゴケ（扁珊瑚衣类，Bunodophoron melanocarpum）。地衣类（球针叶科珊瑚衣属），于湿润树干、生苔岩石及林内枝条丛生灰白至淡绿色、扁平分枝（珊瑚状）体，端部具黑色子器（产孢部），故名，多见于空气洁净的湿润森林。",
+      "habitat_hint": "湿润森林树干、生苔岩石、枝条；空气洁净处。",
+      "finding_tips": "全年可见；于湿润树干与岩石上寻找丛生的灰白至淡绿色、扁平分枝珊瑚状地衣。"
+    }
+  },
+  "Cabera griseolimbata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometrid moth",
+    "ja": {
+      "summary": "アトグロアミメエダシャク。シャクガ科エダシャク亜科の中型の蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。白っぽい翅に、細かい網目状（あみめ）の模様と、後方に暗色（黒っぽい）の部分がある。幼虫（尺取り虫）はカバノキ科などの樹木の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜8月、夜に灯火に集まる白っぽい翅に網目模様と後方の暗色部のある中型の蛾を探します。"
+    },
+    "en": {
+      "summary": "A geometrid moth (Cabera griseolimbata, Geometridae, Ennominae) of secondary woodland, edges, shrine forest and park woods; the whitish wings have a fine net-like pattern and a darker rear area. The inchworm larva feeds on Betulaceae and other trees. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to August look at night lights for the medium moth with whitish wings, a net-like pattern and a darker rear area."
+    },
+    "zh": {
+      "summary": "アトグロアミメエダシャク（网纹尺蛾类，Cabera griseolimbata）。尺蛾科尺蛾亚科中型蛾，栖于杂木林、林缘、社寺林与公园林地，翅偏白、具细网状纹、后部带暗色，幼虫（尺蠖）取食桦木科等树叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 8 月夜间于灯下寻找翅偏白、具网状纹、后部带暗色的中型蛾。"
+    }
+  },
+  "Cabera purus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometrid moth",
+    "ja": {
+      "summary": "コスジシロエダシャク。シャクガ科エダシャク亜科の小さな蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。白い翅に、細い横線（すじ）が数本入る。幼虫（尺取り虫）はカバノキ科・ヤナギ科などの樹木の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜8月、夜に灯火に集まる白い翅に細い横線が数本ある小さな蛾を探します。"
+    },
+    "en": {
+      "summary": "A geometrid moth (Cabera purus, Geometridae, Ennominae) of secondary woodland, edges, shrine forest and park woods; the white wings carry a few fine cross-lines. The inchworm larva feeds on Betulaceae, Salicaceae and other trees. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to August look at night lights for the small white moth with a few fine cross-lines."
+    },
+    "zh": {
+      "summary": "コスジシロエダシャク（细纹白尺蛾类，Cabera purus）。尺蛾科尺蛾亚科小型蛾，栖于杂木林、林缘、社寺林与公园林地，白翅具数条细横线，幼虫（尺蠖）取食桦木科、杨柳科等树叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 8 月夜间于灯下寻找白翅具数条细横线的小型蛾。"
+    }
+  },
+  "Calamagrostis longiseta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲノガリヤス。イネ科ノガリヤス属の多年草で、山地の草地や林縁、やや湿った斜面、崩壊地に生える。細い茎を立て、円錐花序に、長い芒（のぎ、ひげ状）のある小穂をつける。ノガリヤスの仲間で芒が長い（髭＝ひげ）。",
+      "habitat_hint": "山地の草地、林縁、やや湿った斜面、崩壊地。",
+      "finding_tips": "7〜9月、細い茎と、円錐花序に長い芒（ひげ状）のある小穂をつける姿を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "A reedgrass (Calamagrostis longiseta, Poaceae) of montane grassland, woodland edges, damp slopes and landslips; slender-stemmed, it bears spikelets with long, beard-like awns in a panicle. A long-awned reedgrass (the Japanese name means \"bearded\").",
+      "habitat_hint": "Montane grassland, woodland edges, damp slopes, landslips.",
+      "finding_tips": "In July–September look on montane grassland for the slender stems and the panicle of spikelets with long, beard-like awns."
+    },
+    "zh": {
+      "summary": "ヒゲノガリヤス。禾本科野青茅属多年生草本，生于山地草甸、林缘、略湿坡地与崩塌地，茎细，圆锥花序着生具长芒（须状）小穗，为长芒野青茅（须）。",
+      "habitat_hint": "山地草甸、林缘、略湿坡地、崩塌地。",
+      "finding_tips": "7 至 9 月于山地草甸寻找细茎及圆锥花序上具长芒（须状）的小穗。"
+    }
+  },
+  "Callopistria repleta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "マダラツマキリヨトウ。ヤガ科の中型の蛾で、シダ植物の多い林縁や林床、雑木林に生息する。褐色〜赤褐色の翅に、まだら（斑）模様と金属光沢のある斑が入り、翅の縁（つま）が切れ込んだように見える。幼虫はシダ類の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "シダ植物の多い林縁、林床、雑木林、灯火の周り。",
+      "finding_tips": "6〜9月、シダの多い林で、夜に灯火に集まる褐色〜赤褐色でまだら模様の中型の蛾を探します。幼虫はシダを食べる。"
+    },
+    "en": {
+      "summary": "An owlet moth (Callopistria repleta, Noctuidae) of fern-rich woodland edges, floor and secondary woodland; the brown to red-brown wings are mottled with metallic-sheened marks and the wing margins look notched. The larva feeds on ferns. Nocturnal, it comes to lights.",
+      "habitat_hint": "Fern-rich woodland edges, floor, secondary woodland, around lights.",
+      "finding_tips": "In June–September in fern-rich woodland look at night lights for the medium brown to red-brown, mottled moth; larvae feed on ferns."
+    },
+    "zh": {
+      "summary": "マダラツマキリヨトウ（斑金翅夜蛾类，Callopistria repleta）。夜蛾科中型蛾，栖于蕨类丰富的林缘、林床与杂木林，翅褐至红褐色、具斑纹与金属光泽斑、翅缘似缺刻，幼虫取食蕨类，夜行性、趋光。",
+      "habitat_hint": "蕨类丰富的林缘、林床、杂木林、灯火周边。",
+      "finding_tips": "6 至 9 月于多蕨的林中夜间于灯下寻找褐至红褐色、具斑纹的中型蛾；幼虫食蕨。"
+    }
+  },
+  "Carex appendiculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオアゼスゲ。カヤツリグサ科スゲ属の多年草で、池沼の縁や湿地、湿った草地、河川敷に群生する。株になって大きく育ち、細長い雌小穂を穂状につける。水辺を代表する大型のスゲ。",
+      "habitat_hint": "池沼の縁、湿地、湿った草地、河川敷、水路沿い。",
+      "finding_tips": "5〜7月、株立ちで大きく育つ姿と、細長い雌小穂を穂状につける様子を水辺で探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Carex appendiculata, Cyperaceae) forming stands at pond margins, wetlands, damp meadows and riverbanks; it grows in large tufts and bears elongate female spikes. A large waterside sedge.",
+      "habitat_hint": "Pond margins, wetlands, damp meadows, riverbanks, along watercourses.",
+      "finding_tips": "In May–July look at the waterside for the large tufted growth and the elongate female spikes."
+    },
+    "zh": {
+      "summary": "オオアゼスゲ。莎草科薹草属多年生草本，成丛生于池沼边缘、湿地、湿润草甸与河滩，丛大而壮，雌小穗细长、穗状排列，为水边代表性大型薹草。",
+      "habitat_hint": "池沼边缘、湿地、湿润草甸、河滩、水道沿岸。",
+      "finding_tips": "5 至 7 月于水边寻找丛大而壮的姿态及细长的雌小穗。"
+    }
+  },
+  "Carex echinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star sedge",
+    "aliases": {
+      "zh-Hans": "星穗薹草"
+    },
+    "ja": {
+      "summary": "キタノカワズスゲ。カヤツリグサ科スゲ属の多年草で、貧栄養の湿原や湿地、湿った草地に生える。細い茎の先に、小さな小穂を数個集めてつけ、果胞が星状に開いてとげとげしく見える（echinata＝とげのある）のが特徴。",
+      "habitat_hint": "貧栄養の湿原、湿地、湿った草地、池沼の縁。",
+      "finding_tips": "6〜7月、細い茎の先に数個集まる小穂と、星状に開くとげとげしい果胞を湿原で探します。"
+    },
+    "en": {
+      "summary": "Star sedge (Carex echinata). A perennial sedge (Cyperaceae) of nutrient-poor bogs, wetlands and damp meadows; at the slender stem tip a few small spikelets cluster, with utricles spreading star-like and looking prickly (echinata, \"spiny\").",
+      "habitat_hint": "Nutrient-poor bogs, wetlands, damp meadows, pond margins.",
+      "finding_tips": "In June–July look in bogs for the few clustered spikelets at the slender stem tip and the star-spreading, prickly utricles."
+    },
+    "zh": {
+      "summary": "キタノカワズスゲ（星穗薹草，Carex echinata）。莎草科薹草属多年生草本，生于贫营养湿原、湿地及湿润草甸，细茎顶端聚生数枚小穗，果囊星状展开、显刺状（echinata 有刺）为其特征。",
+      "habitat_hint": "贫营养湿原、湿地、湿润草甸、池沼边缘。",
+      "finding_tips": "6 至 7 月于湿原寻找细茎顶端聚生的数枚小穗及星状展开、刺状的果囊。"
+    }
+  },
+  "Carex onoei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒカゲハリスゲ。カヤツリグサ科スゲ属の小さな多年草で、山地の湿った林床や沢沿い、湿った岩場、日陰の湿地に細く群生する。針のように細い葉をつけ、細い茎の先に小さな小穂をまばらにつける。",
+      "habitat_hint": "山地の湿った林床、沢沿い、湿った岩場、日陰の湿地。",
+      "finding_tips": "5〜7月、針のように細い葉と、細い茎の先にまばらにつく小さな小穂を湿った林床で探します。"
+    },
+    "en": {
+      "summary": "A small perennial sedge (Carex onoei, Cyperaceae) forming fine tufts on damp montane woodland floor, streamsides, wet rock and shaded wetlands; it has needle-fine leaves and a few small spikelets sparsely set at the slender stem tip.",
+      "habitat_hint": "Damp montane woodland floor, streamsides, wet rock, shaded wetlands.",
+      "finding_tips": "In May–July look on damp woodland floor for the needle-fine leaves and the few small spikelets sparsely set at the stem tip."
+    },
+    "zh": {
+      "summary": "ヒカゲハリスゲ。莎草科薹草属小型多年生草本，成细丛生于山地湿润林床、沟谷、湿岩及荫处湿地，叶针状细，细茎顶端疏生小型小穗。",
+      "habitat_hint": "山地湿润林床、沟谷、湿岩、荫处湿地。",
+      "finding_tips": "5 至 7 月于湿润林床寻找针状细叶及细茎顶端疏生的小型小穗。"
+    }
+  },
+  "Carex umbrosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カミカワスゲ。カヤツリグサ科スゲ属の多年草で、山地の落葉樹林の林床や林縁、やや湿った草地に生える。株になって生え、細い茎の先に小さな小穂を集めてつける。日陰のやや湿った場所を好む（umbrosa＝日陰の）。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った草地。",
+      "finding_tips": "5〜7月、株立ちの姿と、細い茎の先に集まる小さな小穂を林床で探します。"
+    },
+    "en": {
+      "summary": "A perennial sedge (Carex umbrosa, Cyperaceae) of montane deciduous woodland floor, edges and damp grassland; it grows in tufts with a few small spikelets clustered at the slender stem tip, favouring shaded damp places (umbrosa, \"shady\").",
+      "habitat_hint": "Montane deciduous woodland floor, edges, damp grassland.",
+      "finding_tips": "In May–July look on the woodland floor for the tufted growth and the small spikelets clustered at the stem tip."
+    },
+    "zh": {
+      "summary": "カミカワスゲ。莎草科薹草属多年生草本，生于山地落叶林林床、林缘及略湿草地，丛生，细茎顶端聚生小型小穗，喜荫湿处（umbrosa 荫）。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿草地。",
+      "finding_tips": "5 至 7 月于林床寻找丛生姿态及细茎顶端聚生的小型小穗。"
+    }
+  },
+  "Catolobus pendulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hanging rockcress",
+    "ja": {
+      "summary": "エゾハタザオ。アブラナ科の越年草〜多年草で、山地の林縁や河原、道端、やや湿った斜面に生える。ロゼットから茎を高く伸ばし、白い十字形の4弁花を総状につける。果実（長角果）が長く垂れ下がる（pendulus＝垂れ下がる）のが特徴。",
+      "habitat_hint": "山地の林縁、河原、道端、やや湿った斜面。",
+      "finding_tips": "5〜7月、高く伸びる茎に白い十字形の4弁花と、長く垂れ下がる細長い果実を探します。"
+    },
+    "en": {
+      "summary": "Hanging rockcress (Catolobus pendulus). A biennial to perennial (Brassicaceae) of montane woodland edges, riverbanks, roadsides and damp slopes; from a rosette it raises a tall stem with racemes of white cross-shaped four-petalled flowers, and its long pods hang down (pendulus).",
+      "habitat_hint": "Montane woodland edges, riverbanks, roadsides, damp slopes.",
+      "finding_tips": "In May–July look for the tall stem with white cross-shaped four-petalled flowers and the long, downward-hanging pods."
+    },
+    "zh": {
+      "summary": "エゾハタザオ（垂果南芥类，Catolobus pendulus）。十字花科二年生至多年生草本，生于山地林缘、河滩、路旁及略湿坡地，由莲座抽高茎，总状着生白色十字形四瓣花，长角果长而下垂（pendulus）为其特征。",
+      "habitat_hint": "山地林缘、河滩、路旁、略湿坡地。",
+      "finding_tips": "5 至 7 月寻找高茎上的白色十字形四瓣花及长而下垂的细长果实。"
+    }
+  },
+  "Chlorissa anadema": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald moth",
+    "ja": {
+      "summary": "ホソバハラアカアオシャク。シャクガ科アオシャク亜科の小さな蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。淡緑色（アオ＝青緑）の細い翅をもち、腹部が赤みを帯びる（腹赤＝はらあか）。幼虫（尺取り虫）は各種の樹木・草本の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜8月、夜に灯火に集まる淡緑色の細い翅で腹部が赤みを帯びる小さな蛾を探します。"
+    },
+    "en": {
+      "summary": "An emerald moth (Chlorissa anadema, Geometridae, Geometrinae) of secondary woodland, edges, shrine forest and park woods; it has narrow pale-green wings and a reddish abdomen. The inchworm larva feeds on the leaves of various trees and herbs. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to August look at night lights for the small moth with narrow pale-green wings and a reddish abdomen."
+    },
+    "zh": {
+      "summary": "ホソバハラアカアオシャク（狭翅红腹青尺蛾类，Chlorissa anadema）。尺蛾科青尺蛾亚科小型蛾，栖于杂木林、林缘、社寺林与公园林地，翅狭、淡绿色（青），腹部带红，幼虫（尺蠖）取食多种树木与草本叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 8 月夜间于灯下寻找翅狭淡绿、腹部带红的小型蛾。"
+    }
+  },
+  "Chrysis fasciata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cuckoo wasp",
+    "ja": {
+      "summary": "ムツバセイボウ。セイボウ科の小さな寄生バチで、林縁や草地、庭、人家周辺の壁や木材に生息する。金属光沢のある青緑色〜赤紫色の美しい体をもつ（宝石のよう）。他の狩りバチ（ドロバチなど）の巣に卵を産みつけ、その幼虫や貯えた餌を利用する労働寄生。腹部の末端に数本の歯（六歯＝むつば）がある。",
+      "habitat_hint": "林縁、草地、庭、人家周辺の壁や木材（他の蜂の巣のある場所）。",
+      "finding_tips": "5〜9月、他の狩りバチの巣がある壁や木材の周りで、金属光沢のある青緑色〜赤紫色の美しい小さなハチを探します。"
+    },
+    "en": {
+      "summary": "A cuckoo wasp (Chrysis fasciata, Chrysididae), a small parasitic wasp of woodland edges, grassland, gardens and walls and wood around houses; the beautiful body is metallic blue-green to red-purple, jewel-like. It lays in the nests of other hunting wasps (e.g. potter wasps), its larva using the host's larva or stored food (kleptoparasitism), and has several teeth at the abdomen tip.",
+      "habitat_hint": "Woodland edges, grassland, gardens, walls and wood around houses (where other wasps nest).",
+      "finding_tips": "From May to September around walls and wood with other wasps' nests look for the small, jewel-like metallic blue-green to red-purple wasp."
+    },
+    "zh": {
+      "summary": "ムツバセイボウ（六齿青蜂类，Chrysis fasciata）。青蜂科小型寄生蜂，栖于林缘、草地、庭园及住家周边墙壁与木材，体具金属光泽的青绿至红紫色、美如宝石，产卵于他种狩猎蜂（如蜾蠃）巢中、利用寄主幼虫或贮食（盗寄生），腹端具数齿（六齿）。",
+      "habitat_hint": "林缘、草地、庭园、住家周边墙壁与木材（有他蜂巢处）。",
+      "finding_tips": "5 至 9 月于有他蜂巢的墙壁与木材周边寻找金属青绿至红紫色、美如宝石的小蜂。"
+    }
+  },
+  "Cicindela chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハンミョウ（ナミハンミョウ）。ハンミョウ科の地表性甲虫で、山道や林道、河原、日当たりのよい裸地にすむ。赤・緑・青などの金属光沢に富む非常に美しい体色をもつ。人が近づくと少し先に飛んで逃げ、また止まることを繰り返すことから「ミチシルベ（道標）」「ミチオシエ」とも呼ばれる。大きなあごで小さな昆虫を捕らえる肉食性。",
+      "habitat_hint": "山道、林道、河原、日当たりのよい裸地、崩壊地。",
+      "finding_tips": "4〜9月、日当たりのよい山道や河原で、赤・緑・青の金属光沢に富む美しい甲虫を探します。近づくと少し先に飛んで逃げる。"
+    },
+    "en": {
+      "summary": "Japanese tiger beetle (Cicindela chinensis). A ground beetle (Cicindelidae) of mountain and forest paths, riverbanks and sunny bare ground; the body is strikingly beautiful with red, green and blue metallic sheen. As one approaches it flies a short way ahead and lands again, earning it the Japanese name \"the road guide.\" Predatory, it seizes small insects with large jaws.",
+      "habitat_hint": "Mountain and forest paths, riverbanks, sunny bare ground, landslips.",
+      "finding_tips": "From April to September on sunny paths and riverbanks look for the beautiful beetle with red, green and blue metallic sheen; it flies a short way ahead as you approach."
+    },
+    "zh": {
+      "summary": "ハンミョウ（中华虎甲，Cicindela chinensis）。虎甲科地栖甲虫，栖于山道、林道、河滩及向阳裸地，体具红、绿、蓝丰富金属光泽、极美，人近则飞往前方少许再停、反复，故和名「道标（引路虫）」，肉食性、以大颚捕食小昆虫。",
+      "habitat_hint": "山道、林道、河滩、向阳裸地、崩塌地。",
+      "finding_tips": "4 至 9 月于向阳山道与河滩寻找具红绿蓝金属光泽的美丽甲虫；靠近时飞往前方少许。"
+    }
   }
 }
