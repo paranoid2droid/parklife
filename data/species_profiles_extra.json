@@ -227355,5 +227355,428 @@
       "habitat_hint": "暖地（如琉球群岛）照叶林树干、岩石、石墙、谷地。",
       "finding_tips": "全年可见；于暖地寻找借气根攀附树干岩石的藤蔓、革质有光泽的对生叶及白色球形果。"
     }
+  },
+  "Pyrola nephrophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kidneyleaf wintergreen",
+    "ja": {
+      "summary": "マルバノイチヤクソウ。ツツジ科イチヤクソウ属の常緑の多年草で、山地の落葉樹林や針葉樹林の林床に生える。丸みのある（腎円形の）光沢のある葉を根生し、夏、白い小さな花を数個、下向きに咲かせる。イチヤクソウの仲間で葉が丸い。",
+      "habitat_hint": "山地の落葉樹林・針葉樹林の林床、やや湿った腐植土。",
+      "finding_tips": "6〜7月、丸みのある光沢のある根生葉と、白い小さな下向きの花を林床で探します。"
+    },
+    "en": {
+      "summary": "A wintergreen (Pyrola nephrophylla, Ericaceae), an evergreen perennial of montane deciduous and conifer woodland floor; it has glossy rounded (kidney-round) basal leaves and, in summer, a few small white nodding flowers. A round-leaved wintergreen.",
+      "habitat_hint": "Montane deciduous and conifer woodland floor, damp humus.",
+      "finding_tips": "In June–July look on the woodland floor for the glossy rounded basal leaves and the few small white nodding flowers."
+    },
+    "zh": {
+      "summary": "マルバノイチヤクソウ。杜鹃花科鹿蹄草属常绿多年生草本，生于山地落叶林与针叶林林床，肾圆形有光泽的叶基生，夏季下垂开数朵白色小花，为圆叶的鹿蹄草类。",
+      "habitat_hint": "山地落叶林与针叶林林床、略湿腐殖土。",
+      "finding_tips": "6 至 7 月于林床寻找圆钝有光泽的基生叶及白色小型下垂花。"
+    }
+  },
+  "Pyrrhocoris sinuaticollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Firebug",
+    "ja": {
+      "summary": "クロホシカメムシ。ホシカメムシ科のカメムシで、草地や河川敷、道端、林縁に生息する。赤〜橙色の地に黒い斑点（黒星＝くろほし）がある目立つ体色。アオイ科やアカネ科などの植物の種子・果実の汁を吸う。地表や植物の上でよく見られる。",
+      "habitat_hint": "草地、河川敷、道端、林縁、やや乾いた草地。",
+      "finding_tips": "4〜10月、草地や地表で、赤〜橙色に黒い斑点のある目立つカメムシを探します。"
+    },
+    "en": {
+      "summary": "A firebug (Pyrrhocoris sinuaticollis, Pyrrhocoridae) of grassland, riverbanks, roadsides and woodland edges; the striking body is red to orange with black spots. It sucks the sap of seeds and fruit of Malvaceae, Rubiaceae and other plants and is often seen on the ground and on plants.",
+      "habitat_hint": "Grassland, riverbanks, roadsides, woodland edges, drier grassland.",
+      "finding_tips": "From April to October on grassland and the ground look for the striking red-to-orange, black-spotted bug."
+    },
+    "zh": {
+      "summary": "クロホシカメムシ（黑斑红蝽类，Pyrrhocoris sinuaticollis）。红蝽科蝽类，栖于草地、河滩、路旁与林缘，体红至橙、具黑斑（黑星），醒目，吸食锦葵科、茜草科等植物种子与果实汁液，常见于地面与植物上。",
+      "habitat_hint": "草地、河滩、路旁、林缘、较干草地。",
+      "finding_tips": "4 至 10 月于草地与地面寻找红至橙、具黑斑的醒目蝽。"
+    }
+  },
+  "Ramalina yasudae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cartilage lichen",
+    "ja": {
+      "summary": "イワカラタチゴケ。地衣類（サルオガセ科カラタチゴケ属）で、日当たりのよい岩や石、石垣、露岩の上に灰緑色〜黄緑色の低木状（枝分かれした）の体を叢生させる。乾くと硬くもろく、湿るとやや柔らかくなる。海岸や山地の露岩でよく見られる。",
+      "habitat_hint": "日当たりのよい岩、石、石垣、露岩、海岸の岩場。",
+      "finding_tips": "一年中見られます。岩の上に叢生する灰緑色〜黄緑色の枝分かれした低木状の地衣を探します。"
+    },
+    "en": {
+      "summary": "A cartilage lichen (Ramalina yasudae, Ramalinaceae) forming tufts of grey-green to yellow-green, shrubby (branched) fronds on sunlit rock, stone, walls and exposed boulders; hard and brittle when dry, softer when wet. Common on coastal and montane exposed rock.",
+      "habitat_hint": "Sunlit rock, stone, walls, exposed boulders, coastal rock.",
+      "finding_tips": "Present year-round; on rock look for the tufts of grey-green to yellow-green, branched shrubby lichen."
+    },
+    "zh": {
+      "summary": "イワカラタチゴケ（岩树花衣类，Ramalina yasudae）。地衣类（树花科树花属），于向阳岩石、石块、石墙及露岩上丛生灰绿至黄绿色、灌木状（分枝）体，干时硬脆、湿时略软，多见于海岸与山地露岩。",
+      "habitat_hint": "向阳岩石、石块、石墙、露岩、海岸岩滩。",
+      "finding_tips": "全年可见；于岩上寻找丛生的灰绿至黄绿色、分枝灌木状地衣。"
+    }
+  },
+  "Ranunculus paishanensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine buttercup",
+    "ja": {
+      "summary": "ミヤマキンポウゲ。キンポウゲ科キンポウゲ属の多年草で、亜高山〜高山帯の湿った草地や雪田の周縁、沢沿いに生える。夏、光沢のある鮮やかな黄色い5弁の花を咲かせる。掌状に深く裂ける葉をつける。高山を彩る代表的な黄色い花。※有毒。",
+      "habitat_hint": "亜高山〜高山帯の湿った草地、雪田の周縁、沢沿い。",
+      "finding_tips": "7〜8月、高山の湿った草地で、光沢のある鮮やかな黄色い5弁の花を探します。掌状に深く裂ける葉が手がかり。有毒。"
+    },
+    "en": {
+      "summary": "An alpine buttercup (Ranunculus, Ranunculaceae) of damp subalpine to alpine meadows, snow-patch margins and streamsides; in summer it opens glossy, vivid yellow five-petalled flowers, with deeply palmately lobed leaves. A characteristic alpine yellow flower. Poisonous.",
+      "habitat_hint": "Damp subalpine to alpine meadows, snow-patch margins, streamsides.",
+      "finding_tips": "In July–August in damp alpine meadows look for the glossy, vivid yellow five-petalled flowers and the deeply palmately lobed leaves. Poisonous."
+    },
+    "zh": {
+      "summary": "ミヤマキンポウゲ（深山毛茛类，Ranunculus paishanensis）。毛茛科毛茛属多年生草本，生于亚高山至高山湿润草甸、雪斑周缘及沟谷，夏开有光泽的鲜黄色五瓣花，叶掌状深裂，为点缀高山的代表黄花。有毒。",
+      "habitat_hint": "亚高山至高山湿润草甸、雪斑周缘、沟谷。",
+      "finding_tips": "7 至 8 月于高山湿润草甸寻找有光泽的鲜黄色五瓣花及掌状深裂叶。有毒。"
+    }
+  },
+  "Remiz consobrinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Chinese penduline tit",
+    "aliases": {
+      "zh-Hans": "中华攀雀"
+    },
+    "ja": {
+      "summary": "ツリスガラ。ツリスガラ科の小型の鳥で、冬鳥として河川敷や湖沼の周辺のヨシ原、湿地に渡来する。頭部が灰色で、目のまわりに黒い過眼線があり、背は褐色。ヨシの茎などにぶら下がって虫や種子を採る。繁殖地では袋状のつり巣をつくることで知られる。",
+      "habitat_hint": "冬の河川敷や湖沼周辺のヨシ原、湿地。冬鳥。",
+      "finding_tips": "11〜3月、河川敷や湖沼のヨシ原で、頭が灰色で目に黒い過眼線のある小鳥を探します。ヨシにぶら下がる姿が手がかり。"
+    },
+    "en": {
+      "summary": "Chinese penduline tit (Remiz consobrinus). A small bird (Remizidae), a winter visitor to reed beds and wetlands around riverbanks and lakes; grey-headed with a black eye-mask and brown back. It hangs from reed stems to take insects and seeds, and is known on its breeding grounds for weaving a hanging pouch nest.",
+      "habitat_hint": "Winter reed beds and wetlands around riverbanks and lakes; winter visitor.",
+      "finding_tips": "In November–March in riverbank and lakeside reed beds look for the small grey-headed bird with a black eye-mask; watch for it hanging from reed stems."
+    },
+    "zh": {
+      "summary": "ツリスガラ（中华攀雀，Remiz consobrinus）。攀雀科小型鸟，为冬候鸟、栖于河滩与湖沼周边芦苇丛及湿地，头灰、具黑贯眼纹、背褐，倒挂于芦苇茎取食虫与种子，繁殖地以编织袋状悬巢著称。",
+      "habitat_hint": "冬季河滩与湖沼周边芦苇丛、湿地；冬候鸟。",
+      "finding_tips": "11 至 3 月于河滩与湖畔芦苇丛寻找头灰、具黑贯眼纹的小鸟；倒挂芦苇之姿为线索。"
+    }
+  },
+  "Rubus sumatranus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sumatran raspberry",
+    "aliases": {
+      "zh-Hans": "红腺悬钩子"
+    },
+    "ja": {
+      "summary": "コジキイチゴ。バラ科キイチゴ属の落葉低木で、暖地の山地の林縁や谷沿い、明るい二次林、道端に生える。枝や葉柄、花序に赤い腺毛と細い刺が多い。初夏、白い5弁の花を咲かせ、夏に橙赤色に熟す集合果（キイチゴ）をつける。果実は食べられるが味は淡い。",
+      "habitat_hint": "暖地の山地の林縁、谷沿い、明るい二次林、道端。",
+      "finding_tips": "5〜6月、赤い腺毛と細い刺の多い枝と、白い5弁の花を探します。夏の橙赤色に熟す集合果も手がかり。"
+    },
+    "en": {
+      "summary": "Sumatran raspberry (Rubus sumatranus). A deciduous shrub (Rosaceae) of warm-region montane woodland edges, valleys, bright secondary forest and roadsides; twigs, leaf-stalks and inflorescences bear abundant red glandular hairs and slender prickles. In early summer it opens white five-petalled flowers and bears orange-red aggregate fruit in summer, edible but bland.",
+      "habitat_hint": "Warm-region montane woodland edges, valleys, bright secondary forest, roadsides.",
+      "finding_tips": "In May–June look for the red-glandular-haired, slenderly prickly twigs and the white five-petalled flowers; the orange-red summer fruit is another clue."
+    },
+    "zh": {
+      "summary": "コジキイチゴ（红腺悬钩子，Rubus sumatranus）。蔷薇科悬钩子属落叶灌木，生于暖地山地林缘、谷地、明亮次生林与路旁，枝、叶柄与花序多红色腺毛与细刺，初夏开白色五瓣花，夏结橙红熟聚合果，可食而味淡。",
+      "habitat_hint": "暖地山地林缘、谷地、明亮次生林、路旁。",
+      "finding_tips": "5 至 6 月寻找多红色腺毛与细刺的枝及白色五瓣花；夏季橙红熟聚合果亦为线索。"
+    }
+  },
+  "Russula sororia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キチャハツ。ベニタケ科ベニタケ属のキノコで、夏〜秋に広葉樹林（特にコナラ・クヌギなどブナ科）の地上に発生する。傘は黄褐色〜茶褐色で、縁に条線がある。ひだは白い。不快な臭いがあり、味は辛い。食用にはしない。",
+      "habitat_hint": "夏〜秋の広葉樹林（ブナ科など）の地上、公園の樹下。",
+      "finding_tips": "7〜10月、林床で黄褐色〜茶褐色で縁に条線のある傘と、白いひだをもつキノコを探します。不快な臭い。"
+    },
+    "en": {
+      "summary": "Sepia brittlegill (Russula sororia). A fungus (Russulaceae) fruiting on the ground in broadleaf woodland (esp. oaks) in summer to autumn; the cap is yellow-brown to tea-brown with a striate margin and the gills are white. It has an unpleasant smell and an acrid taste. Not eaten.",
+      "habitat_hint": "Ground of broadleaf woodland (esp. Fagaceae), park tree bases; summer to autumn.",
+      "finding_tips": "In July–October look on the woodland floor for the yellow-brown to tea-brown cap with a striate margin and white gills; unpleasant smell."
+    },
+    "zh": {
+      "summary": "キチャハツ（茶褐红菇，Russula sororia）。红菇科红菇属真菌，夏秋发生于阔叶林（尤栎类壳斗科）地上，菌盖黄褐至茶褐色、缘具条纹，菌褶白色，有不快气味、味辛，不作食用。",
+      "habitat_hint": "夏秋阔叶林（尤壳斗科）地面、公园树下。",
+      "finding_tips": "7 至 10 月于林床寻找黄褐至茶褐色、缘具条纹的菌盖及白色菌褶；有不快气味。"
+    }
+  },
+  "Salix hiraoana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツガルヤナギ。ヤナギ科の落葉低木〜小高木で、北日本の河原や川岸、湿った氾濫原に生える。細長い葉をつけ、春、葉の展開とともに垂れ下がる花穂（尾状花序）を出す。攪乱地に定着するパイオニアのヤナギ。",
+      "habitat_hint": "北日本の河原、川岸、湿った氾濫原、湿った砂礫地。",
+      "finding_tips": "春、葉の展開とともに出る花穂（尾状花序）を河原で探します。細長い葉が手がかり。"
+    },
+    "en": {
+      "summary": "A deciduous willow (Salix hiraoana, Salicaceae) of riverbeds, banks and damp floodplains in northern Japan; it has narrow leaves and produces drooping catkins with leaf-out in spring. A pioneer willow of disturbed river ground.",
+      "habitat_hint": "Riverbeds, banks, damp floodplains, damp sand-gravel in northern Japan.",
+      "finding_tips": "In spring look on riverbeds for the drooping catkins appearing with leaf-out; the narrow leaves are the clue."
+    },
+    "zh": {
+      "summary": "ツガルヤナギ。杨柳科落叶灌木至小乔木，生于北日本河滩、河岸与湿润泛滥原，叶狭长，春季随展叶抽出下垂柔荑花序，为河流扰动地先锋柳。",
+      "habitat_hint": "北日本河滩、河岸、湿润泛滥原、湿润砂砾地。",
+      "finding_tips": "春季于河滩寻找随展叶抽出的下垂柔荑花序；狭长叶为线索。"
+    }
+  },
+  "Salix rorida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dewy willow",
+    "ja": {
+      "summary": "エゾヤナギ。ヤナギ科の落葉高木で、北日本の河原や川岸、氾濫原に生える。若い枝が白い粉（ろう質）で覆われ、粉白色を帯びる（rorida＝露をおびた）のが特徴。春、葉より先に垂れ下がる花穂を出す。河川の攪乱地に定着するパイオニア。",
+      "habitat_hint": "北日本の河原、川岸、氾濫原、湿った砂礫地。",
+      "finding_tips": "春、葉より先に出る花穂と、白い粉で覆われた粉白色の若い枝を河原で探します。"
+    },
+    "en": {
+      "summary": "Dewy willow (Salix rorida). A deciduous tree (Salicaceae) of riverbeds, banks and floodplains in northern Japan; the young twigs are covered in a white waxy bloom, appearing glaucous (rorida, \"dewy\"). In spring it produces drooping catkins before the leaves. A pioneer of disturbed river ground.",
+      "habitat_hint": "Riverbeds, banks, floodplains, damp sand-gravel in northern Japan.",
+      "finding_tips": "In spring look on riverbeds for the catkins before the leaves and the young twigs covered in white waxy bloom."
+    },
+    "zh": {
+      "summary": "エゾヤナギ（粉枝柳，Salix rorida）。杨柳科落叶乔木，生于北日本河滩、河岸与泛滥原，嫩枝被白色蜡粉、呈粉白色（rorida 意带露），春季先叶抽出下垂花序，为河流扰动地先锋。",
+      "habitat_hint": "北日本河滩、河岸、泛滥原、湿润砂砾地。",
+      "finding_tips": "春季于河滩寻找先叶抽出的花序及被白粉的粉白色嫩枝。"
+    }
+  },
+  "Sargassum confusum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gulfweed",
+    "aliases": {
+      "zh-Hans": "海蒿子"
+    },
+    "ja": {
+      "summary": "フシスジモク。ホンダワラ科の褐藻で、暖海〜温帯の岩礁の潮下帯に生える大型の海藻。気胞（浮き袋）で立ち上がり、海中林（藻場）をつくる。枝や気胞の形に特徴があり、多くの魚介類の産卵場・生育場になる。",
+      "habitat_hint": "岩礁の潮下帯、内湾の藻場、暖海〜温帯の岩場。",
+      "finding_tips": "春〜初夏、気胞（浮き袋）を持ち立ち上がって藻場をつくる褐色の大型海藻を磯で探します。"
+    },
+    "en": {
+      "summary": "Gulfweed (Sargassum confusum). A large brown seaweed (Sargassaceae) of subtidal rocky reefs in warm to temperate seas; held upright by gas-filled floats, it forms seaweed beds that serve as spawning and nursery grounds for many fish and shellfish.",
+      "habitat_hint": "Subtidal rocky reefs, sheltered-bay seaweed beds, warm to temperate rocky shores.",
+      "finding_tips": "In spring to early summer on the shore look for the large brown seaweed standing upright with floats and forming seaweed beds."
+    },
+    "zh": {
+      "summary": "フシスジモク（海蒿子，Sargassum confusum）。马尾藻科褐藻，生于暖海至温带岩礁潮下带，为大型海藻，借气囊直立形成海藻林（藻场），是众多鱼贝的产卵与育幼场。",
+      "habitat_hint": "岩礁潮下带、内湾藻场、暖海至温带岩滩。",
+      "finding_tips": "春至初夏于岩滩寻找具气囊、直立成藻场的褐色大型海藻。"
+    }
+  },
+  "Sasa septentrionalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスバザサ。イネ科ササ属の常緑のササで、北日本の山地の林床や林縁、雪の多い斜面に群生する。葉が薄い（薄葉＝うすば）のが特徴。地下茎で広がって一面の笹原をつくる。冬も枯れずに雪の下で越冬する。",
+      "habitat_hint": "北日本の山地の林床、林縁、多雪地の斜面。",
+      "finding_tips": "一年中見られます。薄い常緑の葉と、地下茎で密に群生する笹原を観察します。冬は雪の下で越冬する。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (Sasa septentrionalis, Poaceae) forming evergreen thickets on montane woodland floor, edges and snowy slopes in northern Japan; the leaves are notably thin. It spreads by rhizomes into continuous grass-bamboo swards and overwinters green under snow.",
+      "habitat_hint": "Montane woodland floor, edges, snowy slopes in northern Japan.",
+      "finding_tips": "Present year-round; note the thin evergreen leaves and the dense sward spread by rhizomes, overwintering under snow."
+    },
+    "zh": {
+      "summary": "ウスバザサ。禾本科赤竹属常绿矮竹，成丛生于北日本山地林床、林缘及多雪坡地，叶薄（薄叶）为其特征，借地下茎蔓延成连片竹丛，冬季于雪下越冬不枯。",
+      "habitat_hint": "北日本山地林床、林缘、多雪坡地。",
+      "finding_tips": "全年可见；观察薄质常绿叶及借地下茎密集蔓延的竹丛；冬于雪下越冬。"
+    }
+  },
+  "Satsuma ferruginea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "シメクチマイマイ。ナンバンマイマイ科の陸生の巻貝（カタツムリ）で、暖地の湿った林内の樹幹や落葉の間、石灰岩地の岩の隙間にすむ。殻はやや平たい円錐形で、褐色〜赤褐色（さび色＝ferruginea）を帯びる。成熟すると殻口が狭まる（締め口＝しめくち）。梅雨時に活動が活発。",
+      "habitat_hint": "暖地の湿った林内の樹幹、落葉の下、石灰岩地の岩の隙間。",
+      "finding_tips": "梅雨〜秋の湿った時期、暖地の林で樹幹や落葉の間の、殻口が狭まる褐色〜赤褐色のカタツムリを探します。"
+    },
+    "en": {
+      "summary": "A land snail (Satsuma ferruginea, Camaenidae) of damp warm-region forest, living on tree trunks, among leaf litter and in limestone rock crevices; the somewhat flattened conical shell is brown to red-brown (ferruginea, \"rusty\"). At maturity the aperture narrows. Most active in the rainy season.",
+      "habitat_hint": "Trunks, under leaf litter and in limestone crevices in damp warm-region forest.",
+      "finding_tips": "In damp periods from the rainy season to autumn look in warm-region woodland on trunks and in litter for the brown-to-rusty snail with a narrowed aperture."
+    },
+    "zh": {
+      "summary": "シメクチマイマイ（锈色陆生蜗牛，Satsuma ferruginea）。坚齿螺科陆生蜗牛，栖于暖地湿润林内树干、落叶间及石灰岩岩隙，壳略扁圆锥形、褐至红褐色（ferruginea 锈色），成熟时壳口收窄（缢口），梅雨期活跃。",
+      "habitat_hint": "暖地湿润林内树干、落叶下、石灰岩岩隙。",
+      "finding_tips": "梅雨至秋湿润期于暖地林中在树干与落叶间寻找壳口收窄、褐至红褐色的蜗牛。"
+    }
+  },
+  "Saussurea nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アサマヒゴタイ。キク科トウヒレン属の多年草で、山地の日当たりのよい草地や岩場、林縁に生える。秋、紅紫色の筒状花からなる頭花を咲かせる。トウヒレン（ヒゴタイ）の仲間で、地域性の強い山地の植物。",
+      "habitat_hint": "山地の日当たりのよい草地、岩場、林縁、やや乾いた斜面。",
+      "finding_tips": "9〜10月、山地の草地・岩場で、紅紫色の筒状花からなる頭花を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Saussurea nipponica, Asteraceae) of sunny montane grassland, rocky ground and woodland edges; in autumn it opens flowerheads of rose-purple tubular florets. A regionally variable montane saw-wort.",
+      "habitat_hint": "Sunny montane grassland, rocky ground, woodland edges, drier slopes.",
+      "finding_tips": "In September–October on montane grassland and rocks look for the flowerheads of rose-purple tubular florets."
+    },
+    "zh": {
+      "summary": "アサマヒゴタイ（浅间风毛菊类，Saussurea nipponica）。菊科风毛菊属多年生草本，生于山地向阳草甸、岩地与林缘，秋开红紫色管状花的头状花序，为地域性强的山地风毛菊。",
+      "habitat_hint": "山地向阳草甸、岩地、林缘、较干坡地。",
+      "finding_tips": "9 至 10 月于山地草甸与岩地寻找红紫色管状花的头状花序。"
+    }
+  },
+  "Saussurea tanakae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "セイタカトウヒレン。キク科トウヒレン属の多年草で、山地〜亜高山帯の草地や林縁、やや湿った斜面に生える。名（背高）のとおり茎が高く伸び、上部に紅紫色の筒状花からなる頭花を数個〜多数つける。葉のつけ根が茎に流れて翼状になる。",
+      "habitat_hint": "山地〜亜高山帯の草地、林縁、やや湿った斜面。",
+      "finding_tips": "8〜9月、高く伸びる茎の上部につく紅紫色の筒状花の頭花と、翼状になる葉のつけ根を探します。"
+    },
+    "en": {
+      "summary": "A tall perennial (Saussurea tanakae, Asteraceae) of montane to subalpine grassland, woodland edges and damp slopes; true to its name the stem grows tall, bearing several to many flowerheads of rose-purple tubular florets in the upper part, with leaf bases running down the stem as wings.",
+      "habitat_hint": "Montane to subalpine grassland, woodland edges, damp slopes.",
+      "finding_tips": "In August–September look for the tall stem with rose-purple tubular-floret flowerheads in the upper part and the winged, decurrent leaf bases."
+    },
+    "zh": {
+      "summary": "セイタカトウヒレン（高秆风毛菊类，Saussurea tanakae）。菊科风毛菊属多年生草本，生于山地至亚高山草甸、林缘及略湿坡地，茎高（背高），上部着生数枚至多枚红紫色管状花头状花序，叶基下延成翼。",
+      "habitat_hint": "山地至亚高山草甸、林缘、略湿坡地。",
+      "finding_tips": "8 至 9 月寻找高茎上部的红紫色管状花头状花序及下延成翼的叶基。"
+    }
+  },
+  "Selaginella helvetica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swiss spikemoss",
+    "ja": {
+      "summary": "エゾノヒメクラマゴケ。イワヒバ科イワヒバ属のシダ植物（小葉類）で、山地の湿った岩や土の斜面、渓流沿いの日陰を這って広がる。細い茎に小さな鱗片状の葉を平らに並べてつける常緑の植物。胞子でふえる。湿った日陰を好む。",
+      "habitat_hint": "山地の湿った岩、土の斜面、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。湿った岩や土を這う細い茎と、平らに並ぶ小さな鱗片状の葉を探します。"
+    },
+    "en": {
+      "summary": "Swiss spikemoss (Selaginella helvetica). A spikemoss (Selaginellaceae) creeping over damp montane rock, soil slopes and shaded streamsides; the slender stems bear small scale-like leaves arranged flat. Evergreen, it reproduces by spores and favours damp shade.",
+      "habitat_hint": "Damp montane rock, soil slopes, shaded streamsides.",
+      "finding_tips": "Present year-round; look on damp rock and soil for the creeping slender stems with small scale-like leaves arranged flat."
+    },
+    "zh": {
+      "summary": "エゾノヒメクラマゴケ（瑞士卷柏，Selaginella helvetica）。卷柏科卷柏属石松类蕨类植物，于山地湿岩、土坡及溪流荫处匍匐蔓延，细茎上鳞状小叶平列，常绿、以孢子繁殖，喜湿润荫处。",
+      "habitat_hint": "山地湿岩、土坡、溪流荫处。",
+      "finding_tips": "全年可见；于湿岩与土上寻找匍匐细茎及平列的鳞状小叶。"
+    }
+  },
+  "Silene noctiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツキミセンノウ。ヨーロッパ〜アジア原産のナデシコ科マンテマ属の一〜越年草で、道端や畑、荒れ地、造成地に帰化する。全体に腺毛があってべたつく。夏、白〜淡紅色の5弁の花を夕方に開き（月見＝つきみ）、良い香りを放つ。昼はしぼむ。",
+      "habitat_hint": "道端、畑、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "6〜8月、腺毛でべたつく茎と、夕方に開いて香る白〜淡紅色の5弁の花を探します。昼はしぼむ。"
+    },
+    "en": {
+      "summary": "Night-flowering catchfly (Silene noctiflora). A Eurasian annual to biennial (Caryophyllaceae) naturalised on roadsides, fields, waste and made ground; sticky with glandular hairs throughout, in summer it opens fragrant white to pinkish five-petalled flowers in the evening (hence \"moon-viewing\" in Japanese), closing by day.",
+      "habitat_hint": "Roadsides, fields, waste and made ground in sunny places.",
+      "finding_tips": "In June–August look for the sticky glandular stems and the fragrant white to pinkish five-petalled flowers that open in the evening and close by day."
+    },
+    "zh": {
+      "summary": "ツキミセンノウ（夜花蝇子草，Silene noctiflora）。原产欧亚的石竹科蝇子草属一至二年生草本，归化于路旁、田地、荒地与造地，全株被腺毛而黏，夏于傍晚开白至淡红色五瓣花（月见）、有香气，昼则闭合。",
+      "habitat_hint": "路旁、田地、荒地、造地向阳处。",
+      "finding_tips": "6 至 8 月寻找被腺毛而黏的茎及傍晚开放、有香气的白至淡红色五瓣花；昼闭。"
+    }
+  },
+  "Sisymbrium altissimum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハタザオガラシ。ヨーロッパ〜アジア原産のアブラナ科カキネガラシ属の一〜越年草で、道端や河川敷、荒れ地、造成地に帰化する。よく分枝して大きく育ち、黄色い小さな4弁花を総状につけ、細長い果実をつける。枯れると根元から折れて風に転がる（タンブルウィード）ことがある。",
+      "habitat_hint": "道端、河川敷、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "5〜7月、よく分枝した大型の草と、黄色い小さな4弁花、細長い果実を探します。"
+    },
+    "en": {
+      "summary": "Tumble mustard (Sisymbrium altissimum). A Eurasian annual to biennial (Brassicaceae) naturalised on roadsides, riverbanks, waste and made ground; much-branched and large, it bears small yellow four-petalled flowers in racemes and slender pods, and when dead it can break off and tumble in the wind (a tumbleweed).",
+      "habitat_hint": "Roadsides, riverbanks, waste and made ground in sunny places.",
+      "finding_tips": "In May–July look for the much-branched large plant, the small yellow four-petalled flowers and the slender pods."
+    },
+    "zh": {
+      "summary": "ハタザオガラシ（大蒜芥，Sisymbrium altissimum）。原产欧亚的十字花科大蒜芥属一至二年生草本，归化于路旁、河滩、荒地与造地，多分枝而高大，总状着生黄色四瓣小花、结细长果，枯后可从基部折断随风滚动（风滚草）。",
+      "habitat_hint": "路旁、河滩、荒地、造地向阳处。",
+      "finding_tips": "5 至 7 月寻找多分枝的高大草本、黄色四瓣小花及细长果实。"
+    }
+  },
+  "Spergularia bocconei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウシオハナツメクサ。地中海地方原産のナデシコ科ウシオツメクサ属の一〜越年草で、海岸近くや道端、造成地、埋め立て地に帰化する。糸のように細い線形の葉を対生し、地を這うように広がる。淡紅色〜白色の小さな5弁の花を咲かせる。塩分のある環境に強い。",
+      "habitat_hint": "海岸近く、道端、造成地、埋め立て地の日当たりのよい場所。",
+      "finding_tips": "4〜7月、糸のように細い線形の対生葉と、淡紅色〜白色の小さな5弁花を海岸近くや道端で探します。"
+    },
+    "en": {
+      "summary": "Greek sea-spurrey (Spergularia bocconei). A Mediterranean annual to biennial (Caryophyllaceae) naturalised near coasts, on roadsides and made and reclaimed ground; it has thread-fine linear opposite leaves, creeps over the ground and bears small pink to white five-petalled flowers, tolerant of salty ground.",
+      "habitat_hint": "Near coasts, roadsides, made and reclaimed ground in sunny places.",
+      "finding_tips": "In April–July near coasts and on roadsides look for the thread-fine linear opposite leaves and the small pink to white five-petalled flowers."
+    },
+    "zh": {
+      "summary": "ウシオハナツメクサ（博氏拟漆姑，Spergularia bocconei）。原产地中海的石竹科拟漆姑属一至二年生草本，归化于近海、路旁、造地与填筑地，叶细如丝、线形对生，匍匐蔓延，开淡红至白色五瓣小花，耐盐碱。",
+      "habitat_hint": "近海、路旁、造地、填筑地向阳处。",
+      "finding_tips": "4 至 7 月于近海与路旁寻找细如丝的线形对生叶及淡红至白色五瓣小花。"
+    }
+  },
+  "Speyeria aglaja": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark green fritillary",
+    "aliases": {
+      "zh-Hans": "灿福蛱蝶"
+    },
+    "ja": {
+      "summary": "ギンボシヒョウモン。タテハチョウ科のヒョウ柄の中〜大型のチョウで、山地・高原の草原や明るい林縁を飛ぶ。オレンジ地に黒斑のヒョウ柄で、後翅の裏面に銀白色の斑点（銀星＝ぎんぼし）が並ぶのが名の由来。幼虫はスミレ類を食べる。",
+      "habitat_hint": "山地・高原の草原、明るい林縁、明るい草地。",
+      "finding_tips": "6〜9月、高原の草原で、オレンジ地に黒斑のヒョウ柄のチョウを探します。後翅裏の銀白色の斑点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Dark green fritillary (Speyeria aglaja). A medium to large leopard-patterned nymphalid of montane and highland grassland and bright woodland edges; orange with black spots, it has silvery-white spots on the hindwing underside (source of the Japanese name). Larvae feed on violets.",
+      "habitat_hint": "Montane and highland grassland, bright woodland edges, open meadows.",
+      "finding_tips": "In June–September on highland grassland look for the orange, black-spotted leopard-patterned butterfly; the silvery-white spots under the hindwing are the clue."
+    },
+    "zh": {
+      "summary": "ギンボシヒョウモン（灿福蛱蝶，Speyeria aglaja）。蛱蝶科中至大型豹纹蝶，飞行于山地与高原草原及明亮林缘，橙底黑斑，后翅反面具银白色斑点（银星），故名，幼虫取食堇菜类。",
+      "habitat_hint": "山地与高原草原、明亮林缘、开阔草地。",
+      "finding_tips": "6 至 9 月于高原草原寻找橙底黑斑的豹纹蝶；后翅反面银白色斑点为辨识要点。"
+    }
   }
 }
