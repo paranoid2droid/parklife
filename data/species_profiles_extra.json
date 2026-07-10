@@ -226482,5 +226482,446 @@
       "habitat_hint": "北日本路旁、田地、荒地、河滩、略湿空地。",
       "finding_tips": "8 至 9 月寻找多毛、节膨大的四棱茎及淡紫红至白色唇形小花。"
     }
+  },
+  "Gentiana thunbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spring gentian",
+    "ja": {
+      "summary": "ハルリンドウ。リンドウ科リンドウ属の小さな越年草で、日当たりのよい湿った草地や田の畦、湿原の周縁に生える。春、青紫色の筒状の花を上向きに開く。ロゼット状の根生葉から花茎を立てる。晴天時に開き、曇ると閉じる。春を代表する野の花。",
+      "habitat_hint": "日当たりのよい湿った草地、田の畦、湿原の周縁、明るい斜面。",
+      "finding_tips": "3〜5月、ロゼットの根生葉と、上向きに開く青紫色の筒状の花を湿った草地で探します。晴天時に開く。"
+    },
+    "en": {
+      "summary": "Spring gentian (Gentiana thunbergii). A small biennial (Gentianaceae) of sunny damp grassland, paddy banks and bog margins; in spring it opens blue-purple tubular flowers facing upward, raising a stalk from a leaf rosette. The flowers open in sun and close in cloud. A characteristic spring wildflower.",
+      "habitat_hint": "Sunny damp grassland, paddy banks, bog margins, open slopes.",
+      "finding_tips": "In March–May look on damp grassland for the leaf rosette and the upward-facing blue-purple tubular flowers, which open in sunny weather."
+    },
+    "zh": {
+      "summary": "ハルリンドウ（春龙胆，Gentiana thunbergii）。龙胆科龙胆属小型二年生草本，生于向阳湿润草地、田埂及湿原周缘，春季朝上开蓝紫色筒状花，由基生叶莲座抽花茎，晴开阴闭，为代表性春季野花。",
+      "habitat_hint": "向阳湿润草地、田埂、湿原周缘、明亮坡地。",
+      "finding_tips": "3 至 5 月于湿润草地寻找基生叶莲座及朝上开放的蓝紫色筒状花；晴天开放。"
+    }
+  },
+  "Glyceria depauperata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウキガヤ。イネ科ドジョウツナギ属の多年草で、池沼の縁や湿地、水田、溝の水際に生える。水辺で地を這うように広がり、節から根を出す。まばらな細い花序に小穂をつける。水湿地を好むイネ科植物。",
+      "habitat_hint": "池沼の縁、湿地、水田、溝の水際、浅い水辺。",
+      "finding_tips": "6〜8月、水辺を這うように広がる茎と、まばらな細い花序の小穂を探します。"
+    },
+    "en": {
+      "summary": "A mannagrass (Glyceria depauperata, Poaceae) of pond margins, wetlands, paddy fields and ditch water-edges; it spreads creeping over waterside ground, rooting at the nodes, and bears spikelets in a sparse, slender inflorescence. A wetland grass.",
+      "habitat_hint": "Pond margins, wetlands, paddy fields, ditch water-edges, shallow water margins.",
+      "finding_tips": "In June–August look at the waterside for the creeping stems and the spikelets in a sparse slender inflorescence."
+    },
+    "zh": {
+      "summary": "ウキガヤ。禾本科甜茅属多年生草本，生于池沼边缘、湿地、水田及沟渠水边，于水边匍匐蔓延、节上生根，稀疏细花序着生小穗，为喜水湿的禾草。",
+      "habitat_hint": "池沼边缘、湿地、水田、沟渠水边、浅水边。",
+      "finding_tips": "6 至 8 月于水边寻找匍匐蔓延的茎及稀疏细花序上的小穗。"
+    }
+  },
+  "Goniophlebium niponicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオネカズラ。ウラボシ科アオネカズラ属の夏緑性シダで、山地の樹幹や苔むした岩、湿った石垣に着生する。地下茎が青緑色を帯びる（青根＝あおね）ことが名の由来。羽状に深く裂ける葉をつけ、葉裏に円形の胞子嚢群が2列に並ぶ。冬に葉を落とす着生シダ。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩、湿った石垣、渓谷沿いの日陰。",
+      "finding_tips": "夏〜秋、羽状に深く裂ける葉と、青緑色を帯びる地下茎、葉裏の円形の胞子嚢群を樹幹や岩で探します。"
+    },
+    "en": {
+      "summary": "A summer-green fern (Goniophlebium niponicum, Polypodiaceae) epiphytic on montane tree trunks, mossy rock and damp stone walls; the rhizome is bluish-green (source of the Japanese name), the fronds deeply pinnately lobed with round sori in two rows beneath. A deciduous epiphytic fern.",
+      "habitat_hint": "Damp montane tree trunks, mossy rock, damp stone walls, shaded ravines.",
+      "finding_tips": "In summer–autumn on trunks and rock look for the deeply pinnately lobed fronds, the bluish-green rhizome and the round sori in two rows beneath."
+    },
+    "zh": {
+      "summary": "アオネカズラ。水龙骨科棱脉蕨属夏绿性蕨类，附生于山地树干、生苔岩石及湿润石墙，根状茎带青绿色（青根），故名，叶羽状深裂，叶背圆形孢子囊群两列排列，为冬季落叶的附生蕨。",
+      "habitat_hint": "山地湿润树干、生苔岩石、湿润石墙、溪谷荫处。",
+      "finding_tips": "夏至秋于树干与岩上寻找羽状深裂的叶、带青绿色的根状茎及叶背两列圆形孢子囊群。"
+    }
+  },
+  "Guinusia dentipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock crab",
+    "ja": {
+      "summary": "ショウジンガニ。イワオウギガニ科（またはオウギガニ科近縁）のカニで、外海に面した岩礁の潮間帯〜浅海にすむ。甲は赤褐色〜暗赤色で、縁にとげ（歯）状の突起がある。波の当たる岩の隙間にすばやく逃げ込む。磯でよく見られるカニ。",
+      "habitat_hint": "外海に面した岩礁の潮間帯〜浅海、波の当たる岩場。",
+      "finding_tips": "一年中、外海の岩礁の潮間帯で、赤褐色〜暗赤色で縁にとげのあるカニを探します。岩の隙間にすばやく逃げ込む。"
+    },
+    "en": {
+      "summary": "A rock crab (Guinusia dentipes, Plagusiidae) of the intertidal to shallow subtidal on open, wave-exposed rocky reefs; the carapace is red-brown to dark red with tooth-like spines on the margin. It darts quickly into rock crevices in the surf. A common shore crab.",
+      "habitat_hint": "Intertidal to shallow subtidal on open, wave-exposed rocky reefs.",
+      "finding_tips": "Year-round in the wave-exposed rocky intertidal look for the red-brown to dark-red crab with tooth-like marginal spines; it darts into rock crevices."
+    },
+    "zh": {
+      "summary": "ショウジンガニ（齿足蟹类，Guinusia dentipes）。斜纹蟹科（或近扇蟹科）蟹类，栖于面向外海的岩礁潮间带至浅海，甲红褐至暗红色、缘具齿状棘突，于浪击岩缝间迅速躲避，为岩滩常见蟹。",
+      "habitat_hint": "面向外海的岩礁潮间带至浅海、浪击岩滩。",
+      "finding_tips": "全年于浪击岩礁潮间带寻找红褐至暗红色、缘具齿棘的蟹；受惊迅速钻入岩缝。"
+    }
+  },
+  "Gymnocarpium dryopteris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oak fern",
+    "aliases": {
+      "zh-Hans": "羽节蕨"
+    },
+    "ja": {
+      "summary": "ウサギシダ。イワデンダ科（またはナヨシダ科）ウサギシダ属の夏緑性シダで、山地〜亜高山帯の湿った林床や岩場、崩壊地の縁に生える。細い葉柄の先で、3つに分かれた三角形の葉を水平に広げる。その形がウサギの耳のように見えることが名の由来とされる。地下茎で広がる。",
+      "habitat_hint": "山地〜亜高山帯の湿った林床、岩場、崩壊地の縁。",
+      "finding_tips": "夏〜秋、細い葉柄の先で3つに分かれた三角形の葉を水平に広げる姿を、湿った林床で探します。"
+    },
+    "en": {
+      "summary": "Oak fern (Gymnocarpium dryopteris). A summer-green fern (Woodsiaceae) of damp montane to subalpine woodland floor, rocky ground and landslip margins; at the tip of a slender stipe it spreads a triangular frond divided into three, held horizontally, likened to rabbit ears. It spreads by rhizomes.",
+      "habitat_hint": "Damp montane to subalpine woodland floor, rocky ground, landslip margins.",
+      "finding_tips": "In summer–autumn look on damp woodland floor for the triangular frond divided into three, spread horizontally at the tip of a slender stipe."
+    },
+    "zh": {
+      "summary": "ウサギシダ（羽节蕨，Gymnocarpium dryopteris）。岩蕨科（或蹄盖蕨科）羽节蕨属夏绿性蕨类，生于山地至亚高山湿润林床、岩地及崩塌地边缘，于细叶柄顶端将三分的三角形叶水平展开，形似兔耳，故名，借地下茎蔓延。",
+      "habitat_hint": "山地至亚高山湿润林床、岩地、崩塌地边缘。",
+      "finding_tips": "夏至秋于湿润林床寻找细叶柄顶端三分、水平展开的三角形叶。"
+    }
+  },
+  "Hemicrepidius secessus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Click beetle",
+    "ja": {
+      "summary": "クロツヤハダコメツキ。コメツキムシ科の細長い甲虫で、林縁や草地、河川敷、農地周辺に生息する。黒く光沢のある体をもつ。仰向けになると胸を反らして「パチン」と跳ね起きる（コメツキ＝米搗き）習性で知られる。幼虫は土中にすみ、植物の根などを食べる（ハリガネムシ様の幼虫）。",
+      "habitat_hint": "林縁、草地、河川敷、農地周辺、灯火の周り。",
+      "finding_tips": "5〜8月、林縁や草地、灯火の周りで黒く光沢のある細長い甲虫を探します。仰向けにすると跳ね起きる。"
+    },
+    "en": {
+      "summary": "A click beetle (Hemicrepidius secessus, Elateridae) of woodland edges, grassland, riverbanks and around farmland; the body is black and glossy. It is known for flipping upright with a \"click\" when on its back. The larva (a wireworm) lives in the soil eating plant roots.",
+      "habitat_hint": "Woodland edges, grassland, riverbanks, around farmland, near lights.",
+      "finding_tips": "From May to August at woodland edges, grassland and lights look for the black, glossy, elongate beetle; on its back it clicks upright."
+    },
+    "zh": {
+      "summary": "クロツヤハダコメツキ（黑亮叩甲类，Hemicrepidius secessus）。叩甲科细长甲虫，栖于林缘、草地、河滩及农地周边，体黑而有光泽，仰卧时能弹跳翻正并发「叩」声（叩甲习性），幼虫（金针虫）居土中取食植物根。",
+      "habitat_hint": "林缘、草地、河滩、农地周边、灯火周边。",
+      "finding_tips": "5 至 8 月于林缘、草地及灯下寻找黑而有光泽的细长甲虫；仰卧时可弹跳翻正。"
+    }
+  },
+  "Hydrangea bifida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Twinleaf hydrangea",
+    "aliases": {
+      "zh-Hans": "叉叶蓝"
+    },
+    "ja": {
+      "summary": "ギンバイソウ。アジサイ科（旧ユキノシタ科）ギンバイソウ属の多年草で、山地の谷沿いや渓流沿いの湿った林床、林縁に生える。葉の先が2つに浅く裂ける（二叉＝bifida）のが特徴。夏、白い5弁の花（梅の花に似る）を集散状につける。名（銀梅草）は白い花に由来。",
+      "habitat_hint": "山地の谷沿い、渓流沿いの湿った林床、林縁、やや湿った斜面。",
+      "finding_tips": "7〜8月、先が2つに浅く裂ける葉と、白い梅の花に似た5弁の花を湿った林床で探します。"
+    },
+    "en": {
+      "summary": "Twinleaf hydrangea (Hydrangea bifida). A perennial (Hydrangeaceae, formerly Saxifragaceae) of montane valleys, damp streamside woodland floor and edges; the leaf tips are shallowly split in two (bifida). In summer it bears white five-petalled flowers (like plum blossom) in cymes, source of its Japanese name (\"silver-plum plant\").",
+      "habitat_hint": "Montane valleys, damp streamside woodland floor, edges, damp slopes.",
+      "finding_tips": "In July–August look on damp woodland floor for the two-tipped (bifid) leaves and the white plum-blossom-like five-petalled flowers."
+    },
+    "zh": {
+      "summary": "ギンバイソウ（叉叶蓝，Hydrangea bifida）。绣球科（旧虎耳草科）叉叶蓝属多年生草本，生于山地谷地、溪流沿岸湿润林床与林缘，叶端浅二裂（bifida）为其特征，夏季聚伞状开似梅花的白色五瓣花，和名「银梅草」由白花而来。",
+      "habitat_hint": "山地谷地、溪流沿岸湿润林床、林缘、略湿坡地。",
+      "finding_tips": "7 至 8 月于湿润林床寻找端浅二裂的叶及似梅花的白色五瓣花。"
+    }
+  },
+  "Hygia lativentris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broad-headed bug",
+    "ja": {
+      "summary": "オオツマキヘリカメムシ。ヘリカメムシ科のカメムシで、草地や河川敷、林縁、農地周辺に生息する。褐色〜暗褐色の細長い体をもち、腹部の縁が張り出す。イネ科やタデ科などの植物の汁を吸う。刺激すると独特の臭いを出す。",
+      "habitat_hint": "草地、河川敷、林縁、農地周辺、やや湿った草地。",
+      "finding_tips": "5〜9月、草地や河川敷の草の上で、褐色〜暗褐色の細長いカメムシを探します。腹部の縁が張り出す。"
+    },
+    "en": {
+      "summary": "A leaf-footed bug (Hygia lativentris, Coreidae) of grassland, riverbanks, woodland edges and around farmland; the elongate body is brown to dark brown with a flared abdominal margin. It sucks the sap of grasses, knotweeds and other plants and emits a distinctive smell when disturbed.",
+      "habitat_hint": "Grassland, riverbanks, woodland edges, around farmland, damp grassland.",
+      "finding_tips": "From May to September on grassland and riverbank plants look for the elongate brown to dark-brown bug with a flared abdominal margin."
+    },
+    "zh": {
+      "summary": "オオツマキヘリカメムシ（宽腹缘蝽类，Hygia lativentris）。缘蝽科蝽类，栖于草地、河滩、林缘及农地周边，体细长、褐至暗褐色、腹缘外张，吸食禾本科与蓼科等植物汁液，受扰时散发特殊气味。",
+      "habitat_hint": "草地、河滩、林缘、农地周边、略湿草地。",
+      "finding_tips": "5 至 9 月于草地与河滩植物上寻找体细长、褐至暗褐色、腹缘外张的蝽。"
+    }
+  },
+  "Hymenochaete xerantica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crust fungus",
+    "ja": {
+      "summary": "ダイダイタケ。タバコウロコタケ科の担子菌で、広葉樹の枯枝や倒木、切株に発生する木材腐朽菌。革質の子実体が枯れ木の表面や下面に広がり、橙色〜橙褐色（橙＝だいだい）を帯びるのが名の由来。表面はビロード状。",
+      "habitat_hint": "広葉樹の枯枝、倒木、切株の表面・下面。",
+      "finding_tips": "一年中見られます。枯れ木に広がる橙色〜橙褐色の革質でビロード状の子実体を探します。"
+    },
+    "en": {
+      "summary": "A crust fungus (Hymenochaete xerantica, Hymenochaetaceae) on dead broadleaf branches, logs and stumps, causing wood rot; the leathery fruitbody spreads over the surface and underside of dead wood, tinged orange to orange-brown (source of the Japanese name), with a velvety surface.",
+      "habitat_hint": "Surface and underside of dead broadleaf branches, logs, stumps.",
+      "finding_tips": "Present year-round; look on dead wood for the orange to orange-brown leathery crust with a velvety surface."
+    },
+    "zh": {
+      "summary": "ダイダイタケ（橙色刺革菌类，Hymenochaete xerantica）。锈革孔菌科担子菌，发生于阔叶枯枝、倒木与树桩，为木材腐朽菌，革质子实体铺展枯木表面与下面，带橙至橙褐色（橙），故名，表面天鹅绒状。",
+      "habitat_hint": "阔叶枯枝、倒木、树桩表面与下面。",
+      "finding_tips": "全年可见；在枯木上寻找橙至橙褐色、天鹅绒状的革质子实体。"
+    }
+  },
+  "Hypericum senanense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シナノオトギリ。オトギリソウ科オトギリソウ属の多年草で、亜高山〜高山帯の日当たりのよい草地や岩場、礫地に生える。夏、黄色い5弁の花を咲かせる。葉や花に黒点（黒点・明点）が入る。高山性のオトギリソウの仲間で小型。",
+      "habitat_hint": "亜高山〜高山帯の日当たりのよい草地、岩場、礫地。",
+      "finding_tips": "7〜8月、高山の草地・岩場で黄色い5弁の花と、葉や花に入る黒点を探します。オトギリソウより高地性。"
+    },
+    "en": {
+      "summary": "A St John's-wort (Hypericum senanense, Hypericaceae) of subalpine to alpine sunny grassland, rocky and gravelly ground; in summer it opens yellow five-petalled flowers, with dark dots on the leaves and flowers. A small alpine hypericum.",
+      "habitat_hint": "Subalpine to alpine sunny grassland, rocky and gravelly ground.",
+      "finding_tips": "In July–August on alpine grassland and rocks look for the yellow five-petalled flowers and the dark dots on the leaves and flowers."
+    },
+    "zh": {
+      "summary": "シナノオトギリ（信浓金丝桃类，Hypericum senanense）。金丝桃科金丝桃属多年生草本，生于亚高山至高山向阳草甸、岩地与砾地，夏开黄色五瓣花，叶花具黑点，为高山金丝桃类之小型者。",
+      "habitat_hint": "亚高山至高山向阳草甸、岩地、砾地。",
+      "finding_tips": "7 至 8 月于高山草甸与岩地寻找黄色五瓣花及叶花上的黑点。"
+    }
+  },
+  "Isaria cicadae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクツクホウシタケ。セミ（特にツクツクボウシなど）の幼虫や蛹に寄生する冬虫夏草の仲間の菌類。感染して死んだセミから、こん棒状〜枝分かれした淡黄色〜白色の子実体（分生子柄束）を地上に伸ばす。梅雨〜夏に林床で見られる。漢方で「蝉花（せんか）」として珍重される。",
+      "habitat_hint": "セミの幼虫・蛹がいる林内・雑木林・社寺林の地中や地際。梅雨〜夏。",
+      "finding_tips": "6〜8月、林床の地際から伸びる、こん棒状〜枝分かれした淡黄色〜白色の子実体を探します。根元にセミがある。"
+    },
+    "en": {
+      "summary": "Cicada flower (Isaria cicadae). An entomopathogenic fungus parasitising cicada nymphs and pupae; from the killed cicada it raises club-shaped to branched, pale-yellow to white fruiting structures. Seen on woodland floor from the rainy season to summer, it is prized in traditional medicine as \"cicada flower\" (chanhua).",
+      "habitat_hint": "In the soil and at ground level of woodland, secondary and shrine forest where cicada nymphs occur; rainy season to summer.",
+      "finding_tips": "In June–August look on the woodland floor for the club-shaped to branched pale-yellow to white fruitbodies; a cicada lies at the base."
+    },
+    "zh": {
+      "summary": "ツクツクホウシタケ（蝉花，Isaria cicadae）。寄生于蝉（尤寒蝉等）若虫与蛹的虫生真菌，从被感染而死的蝉体伸出棍棒状至分枝的淡黄至白色子实体（分生孢子梗束），梅雨至夏见于林床，中医珍视为「蝉花」。",
+      "habitat_hint": "有蝉若虫、蛹的林内、杂木林、社寺林土中及地际；梅雨至夏。",
+      "finding_tips": "6 至 8 月于林床地际寻找棍棒状至分枝的淡黄至白色子实体；基部有蝉。"
+    }
+  },
+  "Kurokawia palmulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen",
+    "ja": {
+      "summary": "ヒメゲジゲジゴケ。地衣類（ウメノキゴケの仲間）で、樹幹や枝、岩の上に灰白色〜灰緑色の葉状の体を広げる。縁が細かく裂けて、ゲジゲジ（虫）の脚のように見えることが名の由来とされる。裏面は黒っぽい。都市近郊の樹幹などでも見られる。",
+      "habitat_hint": "樹幹、枝、岩上、石垣。空気のややきれいな環境。",
+      "finding_tips": "一年中見られます。灰白色〜灰緑色の葉状地衣で、縁が細かく裂けてゲジゲジの脚のように見える点をルーペで確認します。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Kurokawia palmulata, Parmeliaceae) spreading a grey-white to grey-green thallus on trunks, branches and rock; the margins are finely divided, likened to a house-centipede's legs (source of the Japanese name), and the underside is dark. Seen even on trunks near towns.",
+      "habitat_hint": "Trunks, branches, rock, stone walls; fairly clean-air environments.",
+      "finding_tips": "Present year-round; use a lens to check the grey-white to grey-green foliose thallus with finely divided margins like centipede legs."
+    },
+    "zh": {
+      "summary": "ヒメゲジゲジゴケ。地衣类（梅衣科），于树干、枝条及岩石上展开灰白至灰绿色叶状体，边缘细裂似蚰蜒（虫）之足，故名，背面偏黑，城郊树干上亦可见。",
+      "habitat_hint": "树干、枝条、岩石、石墙；空气较洁净处。",
+      "finding_tips": "全年可见；用放大镜观察灰白至灰绿色叶状体及细裂如蚰蜒足的边缘。"
+    }
+  },
+  "Laccaria laccata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キツネタケ。キツネタケ科のキノコで、夏〜秋に林内や林縁、道端、公園の地上に発生する。傘は肉色〜淡橙褐色（キツネ色）で、乾湿で色が変わる。ひだは淡紅色を帯びてやや疎につく。ありふれたキノコで、姿の変化が多く見分けにくいことから英名は「Deceiver（だます者）」。",
+      "habitat_hint": "夏〜秋の林内、林縁、道端、公園の地上、樹下。",
+      "finding_tips": "7〜11月、林床や道端で肉色〜淡橙褐色（キツネ色）の傘と、淡紅色を帯びたやや疎なひだをもつキノコを探します。"
+    },
+    "en": {
+      "summary": "The deceiver (Laccaria laccata). A fungus (Hydnangiaceae) fruiting on the ground in and at the edge of woodland, on roadsides and park ground in summer to autumn; the cap is flesh-coloured to pale orange-brown (fox-coloured), changing with moisture, and the pinkish gills are somewhat widely spaced. Its variable form makes it hard to identify — hence \"the deceiver.\"",
+      "habitat_hint": "Ground in and at the edge of woodland, roadsides, park ground, tree bases; summer to autumn.",
+      "finding_tips": "In July–November on woodland floor and roadsides look for the flesh-coloured to pale orange-brown cap and the pinkish, somewhat widely spaced gills."
+    },
+    "zh": {
+      "summary": "キツネタケ（红蜡蘑，Laccaria laccata）。轴腹菌科真菌，夏秋发生于林内、林缘、路旁及公园地上，菌盖肉色至淡橙褐色（狐色）、随干湿变色，菌褶带淡红、略稀，形态多变而难辨，英名 Deceiver（骗子）。",
+      "habitat_hint": "夏秋林内、林缘、路旁、公园地面、树下。",
+      "finding_tips": "7 至 11 月于林床与路旁寻找肉色至淡橙褐色菌盖及带淡红、略稀的菌褶。"
+    }
+  },
+  "Leptogium menziesii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jelly lichen",
+    "ja": {
+      "summary": "アオカワキノリ。地衣類（イワノリ科）で、湿った樹幹や岩、苔むした場所に、灰青色〜青黒色の葉状の体を広げる。藍藻（シアノバクテリア）を共生藻とするため、湿ると膨れてゼラチン質になり、乾くとしぼむ。湿った日陰の環境に多い。",
+      "habitat_hint": "湿った樹幹、岩、苔むした場所、渓流沿いの日陰。",
+      "finding_tips": "一年中見られます。湿ると膨れてゼラチン質になる灰青色〜青黒色の葉状地衣を、湿った樹幹や岩で探します。"
+    },
+    "en": {
+      "summary": "A jelly lichen (Leptogium menziesii, Collemataceae) spreading a grey-blue to blue-black thallus on damp tree trunks, rock and mossy places; with cyanobacterial partners it swells to a gelatinous texture when wet and shrivels when dry. Common in damp, shaded habitats.",
+      "habitat_hint": "Damp tree trunks, rock, mossy places, shaded streamsides.",
+      "finding_tips": "Present year-round; look on damp trunks and rock for the grey-blue to blue-black foliose lichen that swells gelatinous when wet."
+    },
+    "zh": {
+      "summary": "アオカワキノリ（青猫耳衣类，Leptogium menziesii）。地衣类（胶衣科），于湿润树干、岩石及生苔处展开灰蓝至青黑色叶状体，因共生蓝藻，湿时膨胀成胶质、干时皱缩，多见于湿润荫处。",
+      "habitat_hint": "湿润树干、岩石、生苔处、溪流荫处。",
+      "finding_tips": "全年可见；于湿润树干与岩石上寻找湿时膨胀成胶质的灰蓝至青黑色叶状地衣。"
+    }
+  },
+  "Ligularia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leopard plant",
+    "ja": {
+      "summary": "ハンカイソウ。キク科メタカラコウ属の大型の多年草で、山地の湿った草地や林縁、沢沿い、湿った斜面に生える。大きく掌状に深く裂ける葉をつけ、夏、黄橙色の大きな頭花を数個〜多数、上向きに咲かせる。中国の武将「樊噲（はんかい）」にちなむ名とされる。",
+      "habitat_hint": "山地の湿った草地、林縁、沢沿い、湿った斜面。",
+      "finding_tips": "7〜8月、掌状に深く裂ける大きな葉と、黄橙色の大きな頭花を湿った草地で探します。"
+    },
+    "en": {
+      "summary": "A large perennial (Ligularia japonica, Asteraceae) of damp montane meadows, woodland edges, streamsides and damp slopes; it has large, deeply palmately lobed leaves and, in summer, opens several to many large orange-yellow flowerheads facing up.",
+      "habitat_hint": "Damp montane meadows, woodland edges, streamsides, damp slopes.",
+      "finding_tips": "In July–August look in damp meadows for the large, deeply palmately lobed leaves and the large orange-yellow flowerheads."
+    },
+    "zh": {
+      "summary": "ハンカイソウ（齿叶橐吾近缘—日本橐吾，Ligularia japonica）。菊科橐吾属大型多年生草本，生于山地湿润草甸、林缘、沟谷及湿坡，叶大、掌状深裂，夏季朝上开数枚至多枚黄橙色大型头状花。",
+      "habitat_hint": "山地湿润草甸、林缘、沟谷、湿坡。",
+      "finding_tips": "7 至 8 月于湿润草甸寻找掌状深裂的大叶及黄橙色大型头状花。"
+    }
+  },
+  "Lonicera strophiophora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アラゲヒョウタンボク。スイカズラ科スイカズラ属の落葉低木で、山地の林縁や谷沿い、明るい二次林に生える。枝や葉に粗い毛が多い（荒毛＝あらげ）。春、淡黄色〜白色の花を2個ずつ並べて咲かせ、夏に2個の赤い果実がくっついてひょうたん形になる。※果実は有毒。",
+      "habitat_hint": "山地の林縁、谷沿い、明るい二次林、やや湿った斜面。",
+      "finding_tips": "5〜6月、粗い毛の多い枝葉と、2個ずつ並ぶ淡黄色〜白色の花を探します。夏の2個くっついたひょうたん形の赤い果実（有毒）も手がかり。"
+    },
+    "en": {
+      "summary": "A deciduous shrub (Lonicera strophiophora, Caprifoliaceae) of montane woodland edges, valleys and bright secondary forest; twigs and leaves are coarsely hairy. In spring it bears pale-yellow to white flowers in pairs, and in summer two red fruits fuse into a gourd shape. The fruit is poisonous.",
+      "habitat_hint": "Montane woodland edges, valleys, bright secondary forest, damp slopes.",
+      "finding_tips": "In May–June look for the coarsely hairy twigs and leaves and the paired pale-yellow to white flowers; the gourd-shaped fused red summer fruit (poisonous) is another clue."
+    },
+    "zh": {
+      "summary": "アラゲヒョウタンボク（粗毛忍冬类，Lonicera strophiophora）。忍冬科忍冬属落叶灌木，生于山地林缘、谷地与明亮次生林，枝叶多粗毛（荒毛），春季成对开淡黄至白色花，夏季两果合生成葫芦形红果。果有毒。",
+      "habitat_hint": "山地林缘、谷地、明亮次生林、略湿坡地。",
+      "finding_tips": "5 至 6 月寻找多粗毛的枝叶及成对的淡黄至白色花；夏季两果合生的葫芦形红果（有毒）亦为线索。"
+    }
+  },
+  "Lupraea semifulva": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf beetle",
+    "ja": {
+      "summary": "アカタデハムシ。ハムシ科の小さな甲虫で、湿地や河川敷、水辺の草地、道端に生息する。赤橙色〜黄褐色の体をもつ。タデ科（イヌタデ・ミゾソバなど）の植物の葉を食べる。成虫・幼虫ともに葉を食害する。",
+      "habitat_hint": "湿地、河川敷、水辺の草地、道端、タデ科植物のある場所。",
+      "finding_tips": "5〜9月、タデ科の植物の葉の上や食害された葉で、赤橙色〜黄褐色の小さなハムシを探します。"
+    },
+    "en": {
+      "summary": "A leaf beetle (Lupraea semifulva, Chrysomelidae) of wetlands, riverbanks, waterside grassland and roadsides; the body is red-orange to yellow-brown. It feeds on the leaves of knotweeds (Persicaria), both adults and larvae eating the foliage.",
+      "habitat_hint": "Wetlands, riverbanks, waterside grassland, roadsides, where knotweeds grow.",
+      "finding_tips": "From May to September look on knotweed leaves and damaged foliage for the small red-orange to yellow-brown leaf beetle."
+    },
+    "zh": {
+      "summary": "アカタデハムシ（红蓼叶甲类，Lupraea semifulva）。叶甲科小型甲虫，栖于湿地、河滩、水边草地与路旁，体红橙至黄褐色，取食蓼科（蓼、戟叶蓼等）叶，成虫与幼虫皆食叶。",
+      "habitat_hint": "湿地、河滩、水边草地、路旁、有蓼科植物处。",
+      "finding_tips": "5 至 9 月于蓼科叶上及被食叶片寻找红橙至黄褐色的小型叶甲。"
+    }
+  },
+  "Macrothelypteris torresiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アラゲヒメワラビ。ヒメシダ科アラゲヒメワラビ属の夏緑〜常緑性シダで、暖地の道端や石垣、林縁、崩壊地、やや湿った半日陰に生える。大きく2〜3回羽状に分かれた葉をつけ、葉軸や葉柄に毛が多い（荒毛＝あらげ）。人里近くの湿った場所でよく見られる。",
+      "habitat_hint": "暖地の道端、石垣、林縁、崩壊地、やや湿った半日陰。",
+      "finding_tips": "夏〜秋、大きく2〜3回羽状に分かれた葉と、葉軸や葉柄の毛を、道端や石垣で探します。"
+    },
+    "en": {
+      "summary": "Swordfern / mariana maiden fern (Macrothelypteris torresiana). A summer-green to evergreen fern (Thelypteridaceae) of warm-region roadsides, stone walls, woodland edges, landslips and damp part-shade; it has large, two- to three-times pinnate fronds with hairy rachis and stipe. Common in damp places near habitation.",
+      "habitat_hint": "Warm-region roadsides, stone walls, woodland edges, landslips, damp part-shade.",
+      "finding_tips": "In summer–autumn on roadsides and walls look for the large two- to three-times pinnate fronds with a hairy rachis and stipe."
+    },
+    "zh": {
+      "summary": "アラゲヒメワラビ（普通针毛蕨，Macrothelypteris torresiana）。金星蕨科针毛蕨属夏绿至常绿蕨类，生于暖地路旁、石墙、林缘、崩塌地及略湿半荫处，叶大、二至三回羽状，叶轴与叶柄多毛（荒毛），人居附近湿处常见。",
+      "habitat_hint": "暖地路旁、石墙、林缘、崩塌地、略湿半荫处。",
+      "finding_tips": "夏至秋于路旁与石墙寻找二至三回羽状大叶及叶轴叶柄的毛。"
+    }
+  },
+  "Mahonia fortunei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバヒイラギナンテン。中国原産のメギ科メギ属（ヒイラギナンテン属）の常緑低木で、観賞用に庭園・公園・生け垣に植えられ、暖地では逸出することもある。奇数羽状複葉で、細長い小葉の縁に鋭いとげ状の鋸歯がある。秋〜冬、黄色い小花を穂状に多数つける。",
+      "habitat_hint": "庭園、公園、生け垣、暖地の林縁・道端の植栽。",
+      "finding_tips": "10〜1月、細長い小葉（縁にとげ状の鋸歯）の奇数羽状複葉と、黄色い小花の穂状の花序を探します。"
+    },
+    "en": {
+      "summary": "Fortune's mahonia (Mahonia fortunei). A Chinese evergreen shrub (Berberidaceae) planted in gardens, parks and hedges and sometimes escaping in warm regions; the odd-pinnate leaves have narrow leaflets with sharp spine-toothed margins, and in autumn to winter it bears many yellow flowers in spikes.",
+      "habitat_hint": "Gardens, parks, hedges, planted at warm-region woodland edges and roadsides.",
+      "finding_tips": "In October–January look for the odd-pinnate leaves with narrow, spine-toothed leaflets and the spikes of small yellow flowers."
+    },
+    "zh": {
+      "summary": "ホソバヒイラギナンテン（十大功劳，Mahonia fortunei）。原产中国的小檗科十大功劳属常绿灌木，作观赏植于庭园、公园与绿篱，暖地或逸生，奇数羽状复叶、小叶狭长、缘具锐刺状锯齿，秋冬穗状密生黄色小花。",
+      "habitat_hint": "庭园、公园、绿篱、暖地林缘与路旁栽培。",
+      "finding_tips": "10 至 1 月寻找奇数羽状复叶（小叶狭长、缘具刺齿）及黄色小花的穗状花序。"
+    }
+  },
+  "Mallotus philippensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamala tree",
+    "aliases": {
+      "zh-Hans": "粗糠柴"
+    },
+    "ja": {
+      "summary": "クスノハガシワ。トウダイグサ科アカメガシワ属の常緑小高木〜高木で、暖地（南西諸島など）の照葉樹林や林縁、二次林に生える。葉裏や若い果実の表面に赤橙色の粉状の腺点が密生する。この赤い粉（カマラ）はかつて染料や薬に使われた。雌雄異株。",
+      "habitat_hint": "暖地（南西諸島など）の照葉樹林、林縁、二次林、海岸近くの林。",
+      "finding_tips": "一年中見られます。葉裏や果実の表面の赤橙色の粉状の腺点を探します。革質の葉とあわせて手がかり。"
+    },
+    "en": {
+      "summary": "Kamala tree (Mallotus philippensis). An evergreen small tree to tree (Euphorbiaceae) of warm-region (e.g. the Ryukyus) evergreen forest, edges and secondary forest; the leaf undersides and young fruit surfaces are densely dotted with red-orange powdery glands. This red powder (kamala) was formerly used as a dye and medicine. Dioecious.",
+      "habitat_hint": "Warm-region (e.g. the Ryukyus) evergreen forest, edges, secondary forest, coastal woods.",
+      "finding_tips": "Present year-round; look for the red-orange powdery glands densely dotting the leaf undersides and fruit surfaces, together with the leathery leaves."
+    },
+    "zh": {
+      "summary": "クスノハガシワ（粗糠柴，Mallotus philippensis）。大戟科野桐属常绿小乔木至乔木，生于暖地（如琉球群岛）照叶林、林缘与次生林，叶背及幼果表面密生红橙色粉状腺点，此红粉（卡马拉）昔作染料与药用，雌雄异株。",
+      "habitat_hint": "暖地（如琉球群岛）照叶林、林缘、次生林、近海林。",
+      "finding_tips": "全年可见；寻找叶背与果面密生的红橙色粉状腺点，并结合革质叶为线索。"
+    }
   }
 }
