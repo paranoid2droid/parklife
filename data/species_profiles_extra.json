@@ -223843,5 +223843,428 @@
       "habitat_hint": "阔叶枯木、倒木、树桩。",
       "finding_tips": "全年可见；在枯木上寻找半球至球形、硬如炭的菌，剖开可见内部同心环层。"
     }
+  },
+  "Diachrysia nadeja": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Looper moth",
+    "ja": {
+      "summary": "コヒサゴキンウワバ。ヤガ科キンウワバ亜科の中型の蛾で、草地や林縁、河川敷、農地周辺に生息する。前翅に金色〜銀色の金属光沢のある紋（ひさご＝ひょうたん形）があるのが特徴。幼虫はキク科などの草本の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "草地、林縁、河川敷、農地周辺、灯火の周り。",
+      "finding_tips": "5〜9月、夜に灯火に集まる、前翅にひょうたん形の金色〜銀色の紋のある中型の蛾を探します。"
+    },
+    "en": {
+      "summary": "A looper moth (Diachrysia nadeja, Noctuidae, Plusiinae) of grassland, woodland edges, riverbanks and around farmland; the forewing bears a gourd-shaped gold-to-silver metallic mark. The larva feeds on composites and other herbs. Nocturnal, it comes to lights.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks, around farmland, near lights.",
+      "finding_tips": "From May to September look at night lights for the medium moth with a gourd-shaped gold-to-silver mark on the forewing."
+    },
+    "zh": {
+      "summary": "コヒサゴキンウワバ（金翅夜蛾类，Diachrysia nadeja）。夜蛾科金翅夜蛾亚科中型蛾，栖于草地、林缘、河滩及农地周边，前翅具葫芦形金至银色金属光泽斑，幼虫取食菊科等草本叶，夜行性、趋光。",
+      "habitat_hint": "草地、林缘、河滩、农地周边、灯火周边。",
+      "finding_tips": "5 至 9 月夜间于灯下寻找前翅具葫芦形金至银色斑的中型蛾。"
+    }
+  },
+  "Diplommatina collarifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "オオゴマガイ。ゴマガイ科の小さな陸生の巻貝で、湿った林床の落葉の下や石灰岩地の岩の隙間、朽木の際にすむ。殻はごく小さく（数mm）、細長い塔形〜卵形で、褐色〜赤褐色。殻口の近くにくびれや襟状の構造がある。ルーペで細部を見る大きさ。",
+      "habitat_hint": "湿った林床の落葉の下、石灰岩地の岩の隙間、朽木の際。",
+      "finding_tips": "一年中、湿った林で落葉や石灰岩の隙間の、数mmの細長い塔形の褐色の陸貝をルーペで探します。"
+    },
+    "en": {
+      "summary": "A small land snail (Diplommatinidae) living under leaf litter, in limestone rock crevices and by rotten wood in damp forest; the very small shell (a few millimetres) is an elongate tower to egg shape, brown to red-brown, with a constriction or collar-like structure near the aperture. Details need a lens.",
+      "habitat_hint": "Under leaf litter, in limestone crevices and by rotten wood in damp forest.",
+      "finding_tips": "Year-round in damp woodland use a lens under litter and in limestone crevices for the few-millimetre elongate tower-shaped brown land snail."
+    },
+    "zh": {
+      "summary": "オオゴマガイ（芝麻蜗牛类，Diplommatina collarifera）。芝麻螺科小型陆生蜗牛，栖于湿润林床落叶下、石灰岩岩隙及朽木际，壳极小（数毫米）、细长塔至卵形、褐至红褐色，壳口近处具收缢或领状结构，须借放大镜见细部。",
+      "habitat_hint": "湿润林床落叶下、石灰岩岩隙、朽木际。",
+      "finding_tips": "全年于湿润林中用放大镜在落叶下与石灰岩隙寻找数毫米、细长塔形的褐色陆贝。"
+    }
+  },
+  "Drosera peltata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shield sundew",
+    "aliases": {
+      "zh-Hans": "盾叶茅膏菜"
+    },
+    "ja": {
+      "summary": "イシモチソウ。モウセンゴケ科の小さな食虫植物で、日当たりのよい湿地や貧栄養の湿った草地、湿った砂地に生える。細い茎を立て、盾形〜三日月形の葉に赤い腺毛を並べ、粘液で小さな虫を捕らえる。名は虫（特に石を持ち上げそうなほど強く）を捕らえる粘りに由来するともされる。夏に地上部が枯れる。",
+      "habitat_hint": "日当たりのよい湿地、貧栄養の湿った草地、湿った砂地。",
+      "finding_tips": "5〜6月、細い茎に盾形〜三日月形の葉が並び、赤い腺毛の粘液で虫を捕らえる姿を湿地で探します。"
+    },
+    "en": {
+      "summary": "Shield sundew (Drosera peltata). A small carnivorous plant (Droseraceae) of sunny wetlands, nutrient-poor damp grassland and wet sand; it raises a slender stem with shield- to crescent-shaped leaves lined with red glandular hairs that catch small insects on their mucilage. The plant dies back above ground in summer.",
+      "habitat_hint": "Sunny wetlands, nutrient-poor damp grassland, wet sand.",
+      "finding_tips": "In May–June look in wetlands for the slender stem with shield- to crescent-shaped leaves whose red glandular hairs trap insects on sticky mucilage."
+    },
+    "zh": {
+      "summary": "イシモチソウ（盾叶茅膏菜，Drosera peltata）。茅膏菜科小型食虫植物，生于向阳湿地、贫营养湿润草地及湿沙地，细茎具盾形至新月形叶、列生红色腺毛，以黏液捕捉小虫，夏季地上部枯萎。",
+      "habitat_hint": "向阳湿地、贫营养湿润草地、湿沙地。",
+      "finding_tips": "5 至 6 月于湿地寻找细茎上盾形至新月形叶、以红色腺毛黏液捕虫之姿。"
+    }
+  },
+  "Ehretia microphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fukien tea",
+    "aliases": {
+      "zh-Hans": "基及树"
+    },
+    "ja": {
+      "summary": "フクマンギ。ムラサキ科（旧チシャノキ科）チシャノキ属の常緑低木で、暖地（南西諸島など）の海岸近くの林縁や岩場、林床に生える。小さな革質の葉を密につけ、白い小さな花を咲かせ、赤〜黒く熟す小さな果実をつける。盆栽（フクマンギ／福建茶）としても栽培される。",
+      "habitat_hint": "暖地（南西諸島など）の海岸近くの林縁、岩場、林床。",
+      "finding_tips": "一年中見られます。小さな革質の葉を密につける常緑低木と、白い小花、赤〜黒く熟す小さな果実を暖地の海岸近くで探します。"
+    },
+    "en": {
+      "summary": "Fukien tea (Ehretia microphylla). An evergreen shrub (Boraginaceae) of warm-region (e.g. the Ryukyus) coastal woodland edges, rocky ground and forest floor; it densely bears small leathery leaves, opens small white flowers and bears small fruit ripening red to black. Also grown as bonsai.",
+      "habitat_hint": "Warm-region (e.g. the Ryukyus) coastal woodland edges, rocky ground, forest floor.",
+      "finding_tips": "Present year-round; in warm-region coastal areas look for the evergreen shrub densely set with small leathery leaves, small white flowers and small red-to-black fruit."
+    },
+    "zh": {
+      "summary": "フクマンギ（基及树／福建茶，Ehretia microphylla）。紫草科（旧厚壳树科）厚壳树属常绿灌木，生于暖地（如琉球群岛）近海林缘、岩地与林床，密生小革质叶，开白色小花，结红至黑熟的小果，亦作盆景栽培。",
+      "habitat_hint": "暖地（如琉球群岛）近海林缘、岩地、林床。",
+      "finding_tips": "全年可见；于暖地近海处寻找密生小革质叶的常绿灌木及白色小花、红至黑熟的小果。"
+    }
+  },
+  "Elatostema scabrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キミズ。イラクサ科ウワバミソウ属の多年草で、暖地の谷沿いや渓流沿いの湿った林床、水のしみ出す岩際に生える。左右不対称の葉を2列につけ、表面がざらつく（scabrum＝ざらざら）。地を這って広がり、目立たない小花をつける。",
+      "habitat_hint": "暖地の谷沿い、渓流沿いの湿った林床、水のしみ出す岩際、湿った日陰。",
+      "finding_tips": "夏〜秋、湿った日陰を這う茎と、左右不対称でざらつく2列の葉を探します。"
+    },
+    "en": {
+      "summary": "A perennial (Elatostema scabrum, Urticaceae) of warm-region valleys, damp streamside woodland floor and seepage-wet rock; it bears asymmetric leaves in two ranks with a rough surface (scabrum), creeps over the ground and has inconspicuous flowers.",
+      "habitat_hint": "Warm-region valleys, damp streamside woodland floor, seepage-wet rock, damp shade.",
+      "finding_tips": "In summer–autumn look in damp shade for the creeping stems and the asymmetric, rough two-ranked leaves."
+    },
+    "zh": {
+      "summary": "キミズ。荨麻科楼梯草属多年生草本，生于暖地谷地、溪流沿岸湿润林床及渗水岩际，叶两侧不对称、两列排列、表面粗糙（scabrum），匍匐蔓延，花不显。",
+      "habitat_hint": "暖地谷地、溪流沿岸湿润林床、渗水岩际、湿润荫处。",
+      "finding_tips": "夏至秋于湿润荫处寻找匍匐茎及两侧不对称、表面粗糙的两列叶。"
+    }
+  },
+  "Elsholtzia nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フトボナギナタコウジュ。シソ科ナギナタコウジュ属の一年草で、山地の道端や林縁、河川敷、やや湿った草地に生える。秋、茎の先に太い穂状の花序をつけ、淡紅紫色の小さな唇形の花を片側に偏ってつける（薙刀＝なぎなたの形）。全体に香りがある。ナギナタコウジュより穂が太い。",
+      "habitat_hint": "山地の道端、林縁、河川敷、やや湿った草地。",
+      "finding_tips": "9〜10月、茎の先の太い穂状の花序に、片側に偏ってつく淡紅紫色の小さな唇形の花を探します。もむと香りがある。"
+    },
+    "en": {
+      "summary": "An annual (Elsholtzia nipponica, Lamiaceae) of montane roadsides, woodland edges, riverbanks and damp grassland; in autumn it bears a stout spike at the stem top with small pale rose-purple two-lipped flowers set to one side (like a naginata blade). Aromatic throughout, with a stouter spike than the related kind.",
+      "habitat_hint": "Montane roadsides, woodland edges, riverbanks, damp grassland.",
+      "finding_tips": "In September–October look for the stout terminal spike with small pale rose-purple two-lipped flowers set to one side; it is aromatic when crushed."
+    },
+    "zh": {
+      "summary": "フトボナギナタコウジュ。唇形科香薷属一年生草本，生于山地路旁、林缘、河滩及略湿草地，秋季茎顶生粗穗状花序，淡紫红色唇形小花偏生一侧（似薙刀），全株有香气，穗较近缘种粗。",
+      "habitat_hint": "山地路旁、林缘、河滩、略湿草地。",
+      "finding_tips": "9 至 10 月寻找茎顶粗穗状花序及偏生一侧的淡紫红色唇形小花；揉之有香。"
+    }
+  },
+  "Epipogium roseum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タシロラン。ラン科トラキチラン属の菌従属栄養（腐生）のラン。葉緑素を持たず、地中の菌類から養分を得て暮らす。暖地の照葉樹林や竹林の林床の腐植質に生え、梅雨〜夏、白色〜淡黄白色の半透明の花を花茎に多数つける。花のあとすぐに枯れる。",
+      "habitat_hint": "暖地の照葉樹林・竹林の林床、腐植質に富む地上。",
+      "finding_tips": "6〜7月、林床で白色〜淡黄白色の半透明の花が花茎に多数つく、葉のない植物を探します。花期は短い。"
+    },
+    "en": {
+      "summary": "A mycoheterotrophic (saprophytic) orchid (Epipogium roseum, Orchidaceae) lacking chlorophyll and living on soil fungi; on the humus-rich floor of warm-region evergreen and bamboo forest it bears many translucent white to pale-yellow-white flowers on a leafless stalk in the rainy season to summer, withering soon after flowering.",
+      "habitat_hint": "Warm-region evergreen and bamboo forest floor, humus-rich ground.",
+      "finding_tips": "In June–July look on the forest floor for the leafless plant with many translucent white to pale-yellow-white flowers on the stalk; the flowering is brief."
+    },
+    "zh": {
+      "summary": "タシロラン（虎舌兰，Epipogium roseum）。兰科虎舌兰属菌异养（腐生）兰，无叶绿素，靠地下真菌获养，生于暖地照叶林与竹林林床腐殖质，梅雨至夏于花茎上着生多数半透明白至淡黄白色花，花后即枯。",
+      "habitat_hint": "暖地照叶林与竹林林床、富腐殖质地面。",
+      "finding_tips": "6 至 7 月于林床寻找无叶、花茎上着生多数半透明白至淡黄白色花的植物；花期短。"
+    }
+  },
+  "Erigeron pseudoannuus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤナギバヒメジョオン。北アメリカ原産のキク科ムカシヨモギ属の一〜越年草で、道端や河川敷、荒れ地、造成地に帰化する。柳のような細長い葉をつけ、夏〜秋、白い舌状花に黄色い中心の小さな頭花を多数つける。ヒメジョオンに似るが葉が細い。",
+      "habitat_hint": "道端、河川敷、荒れ地、造成地の日当たりのよい場所。",
+      "finding_tips": "6〜10月、柳のような細長い葉と、白い舌状花に黄色い中心の小さな頭花を多数つける姿を探します。ヒメジョオンより葉が細い。"
+    },
+    "en": {
+      "summary": "A fleabane (Erigeron pseudoannuus, Asteraceae) of North-American origin naturalised on roadsides, riverbanks, waste and made ground; it has willow-like narrow leaves and, in summer to autumn, many small flowerheads with white rays and a yellow centre. Like annual fleabane but narrower-leaved.",
+      "habitat_hint": "Roadsides, riverbanks, waste and made ground in sunny places.",
+      "finding_tips": "In June–October look for the willow-like narrow leaves and the many small white-rayed, yellow-centred flowerheads; narrower leaves than annual fleabane."
+    },
+    "zh": {
+      "summary": "ヤナギバヒメジョオン（柳叶飞蓬类，Erigeron pseudoannuus）。原产北美的菊科飞蓬属一至二年生草本，归化于路旁、河滩、荒地与造地，叶狭长如柳，夏末至秋密生白舌黄心的小头状花，似一年蓬而叶更细。",
+      "habitat_hint": "路旁、河滩、荒地、造地向阳处。",
+      "finding_tips": "6 至 10 月寻找柳状狭长叶及白舌黄心的众多小头状花；叶较一年蓬细。"
+    }
+  },
+  "Erigeron thunbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thunberg's fleabane",
+    "ja": {
+      "summary": "アズマギク。キク科ムカシヨモギ属の多年草で、山地の日当たりのよい草地や岩場、明るい斜面に生える。ロゼット状の根生葉から花茎を立て、春〜初夏、淡紅紫色〜淡青紫色の細い舌状花に黄色い中心の頭花を1個咲かせる。日本在来の野生の菊。",
+      "habitat_hint": "山地の日当たりのよい草地、岩場、明るい斜面、尾根。",
+      "finding_tips": "4〜6月、ロゼットの根生葉と、淡紅紫色〜淡青紫色の細い舌状花に黄色い中心の頭花を山地の草地で探します。"
+    },
+    "en": {
+      "summary": "Thunberg's fleabane (Erigeron thunbergii). A perennial (Asteraceae) of sunny montane grassland, rocky ground and open slopes; from a leaf rosette it raises a stalk with a single flowerhead of narrow pale rose- to blue-purple rays and a yellow centre in spring to early summer. A native Japanese wild daisy.",
+      "habitat_hint": "Sunny montane grassland, rocky ground, open slopes, ridges.",
+      "finding_tips": "In April–June look on montane grassland for the leaf rosette and the single flowerhead with narrow pale rose- to blue-purple rays and a yellow centre."
+    },
+    "zh": {
+      "summary": "アズマギク（东菀，Erigeron thunbergii）。菊科飞蓬属多年生草本，生于山地向阳草甸、岩地与开阔坡地，由基生叶莲座抽花茎，春至初夏顶生单朵头状花、舌状花细、淡玫至蓝紫色、心黄，为日本本土野菊。",
+      "habitat_hint": "山地向阳草甸、岩地、开阔坡地、山脊。",
+      "finding_tips": "4 至 6 月于山地草甸寻找基生叶莲座及淡玫至蓝紫色细舌状花、黄心的单朵头状花。"
+    }
+  },
+  "Eumenes rubronotatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potter wasp",
+    "ja": {
+      "summary": "ムモントックリバチ。スズメバチ科ドロバチ亜科の狩りバチで、林縁や草地、庭、人家周辺に生息する。泥をこねて、とっくり（徳利）のような形の巣を枝や壁につくり、その中に狩ったイモムシを詰めて卵を産む。腹部の付け根が細くくびれる。おとなしく、めったに人を刺さない。",
+      "habitat_hint": "林縁、草地、庭、人家周辺、農地周辺。",
+      "finding_tips": "6〜9月、枝や壁につくられたとっくり形の泥の巣と、腹部の付け根が細くくびれた狩りバチを探します。おとなしい。"
+    },
+    "en": {
+      "summary": "A potter wasp (Eumenes rubronotatus, Vespidae, Eumeninae) of woodland edges, grassland, gardens and around houses; it kneads mud into a flask- (pot-) shaped nest on twigs and walls, stocks it with hunted caterpillars and lays an egg inside. The abdomen is narrowly waisted at the base. Mild, it rarely stings people.",
+      "habitat_hint": "Woodland edges, grassland, gardens, around houses, around farmland.",
+      "finding_tips": "From June to September look for the flask-shaped mud nests on twigs and walls and the wasp with a narrowly waisted abdomen; it is mild-mannered."
+    },
+    "zh": {
+      "summary": "ムモントックリバチ（酒瓶蜾蠃类，Eumenes rubronotatus）。胡蜂科蜾蠃亚科狩猎蜂，栖于林缘、草地、庭园及住家周边，以泥筑似酒瓶（德利）状巢于枝与墙，内贮所猎毛虫并产卵，腹基细缢，性温和、鲜少螫人。",
+      "habitat_hint": "林缘、草地、庭园、住家周边、农地周边。",
+      "finding_tips": "6 至 9 月寻找枝与墙上酒瓶状泥巢及腹基细缢的狩猎蜂；性温和。"
+    }
+  },
+  "Fimbristylis dipsacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオテンツキ。カヤツリグサ科テンツキ属の小さな一年草で、水田や湿地、溝の縁、湿った空き地に生える。細い茎を束にして立て、茎の先に球状〜卵形に集まった緑褐色の小穂をつける。小型のテンツキの仲間。",
+      "habitat_hint": "水田、湿地、溝の縁、湿った空き地、休耕田。",
+      "finding_tips": "8〜10月、束になって立つ細い茎と、茎の先に球状〜卵形に集まる緑褐色の小穂を水辺で探します。"
+    },
+    "en": {
+      "summary": "A small annual sedge (Fimbristylis dipsacea, Cyperaceae) of paddy fields, wetlands, ditch margins and damp waste ground; it raises tufts of slender stems tipped with greenish-brown spikelets gathered into a globular to egg-shaped head. A small fimbristylis.",
+      "habitat_hint": "Paddy fields, wetlands, ditch margins, damp waste ground, fallow wet fields.",
+      "finding_tips": "In August–October look at the waterside for the tufts of slender stems with greenish-brown spikelets gathered into a globular to egg-shaped head."
+    },
+    "zh": {
+      "summary": "アオテンツキ。莎草科飘拂草属小型一年生草本，生于水田、湿地、沟缘及湿润空地，细茎丛立、顶端着生聚成球至卵形的绿褐色小穗，为小型飘拂草。",
+      "habitat_hint": "水田、湿地、沟缘、湿润空地、休耕田。",
+      "finding_tips": "8 至 10 月于水边寻找丛立细茎及顶端聚成球至卵形的绿褐色小穗。"
+    }
+  },
+  "Gardneria nutans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホウライカズラ。マチン科（またはフジウツギ科近縁）ホウライカズラ属の常緑つる性木本で、暖地の照葉樹林の林縁や谷沿い、藪に生える。革質の光沢のある葉を対生し、他の木に絡んで登る。初夏、淡黄緑色の小花を下向きに咲かせ、秋に赤い果実をつける。",
+      "habitat_hint": "暖地の照葉樹林の林縁、谷沿い、藪、社寺林の縁。",
+      "finding_tips": "5〜6月、他木に絡むつると、革質で光沢のある対生の葉、下向きの淡黄緑色の小花を探します。秋の赤い果実も手がかり。"
+    },
+    "en": {
+      "summary": "Island gardneria (Gardneria nutans). An evergreen woody climber (Loganiaceae) of warm-region evergreen forest edges, valleys and thickets; it has glossy leathery opposite leaves and climbs other trees, opening nodding pale yellow-green flowers in early summer and red fruit in autumn.",
+      "habitat_hint": "Warm-region evergreen forest edges, valleys, thickets, shrine-forest margins.",
+      "finding_tips": "In May–June look for the climbing vine, the glossy leathery opposite leaves and the nodding pale yellow-green flowers; the red autumn fruit is another clue."
+    },
+    "zh": {
+      "summary": "ホウライカズラ（垂花蓬莱葛，Gardneria nutans）。马钱科蓬莱葛属常绿木质藤本，生于暖地照叶林林缘、谷地与灌丛，叶革质有光泽对生，攀附他树，初夏下垂开淡黄绿色小花，秋结红果。",
+      "habitat_hint": "暖地照叶林林缘、谷地、灌丛、社寺林缘。",
+      "finding_tips": "5 至 6 月寻找攀附他树的藤蔓、革质有光泽的对生叶及下垂的淡黄绿色小花；秋季红果亦为线索。"
+    }
+  },
+  "Gelastocera kotshubeji": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nolid moth",
+    "ja": {
+      "summary": "クロオビリンガ。コブガ科（リンガ類）の小さな蛾で、雑木林や林縁、社寺林、公園の樹林に生息する。緑色〜黄緑色の翅に黒い帯（黒帯＝くろおび）が入るのが特徴。幼虫は樹木の葉を食べる。夜行性で灯火に集まる。",
+      "habitat_hint": "雑木林、林縁、社寺林、公園の樹林、灯火の周り。",
+      "finding_tips": "5〜8月、夜に灯火に集まる、緑色〜黄緑色の翅に黒い帯のある小さな蛾を探します。"
+    },
+    "en": {
+      "summary": "A nolid moth (Gelastocera kotshubeji, Nolidae) of secondary woodland, woodland edges, shrine forest and park woods; the green to yellow-green wings carry a black band (source of the Japanese name). The larva feeds on tree leaves. Nocturnal, it comes to lights.",
+      "habitat_hint": "Secondary woodland, woodland edges, shrine forest, park woods, around lights.",
+      "finding_tips": "From May to August look at night lights for the small moth with green to yellow-green wings and a black band."
+    },
+    "zh": {
+      "summary": "クロオビリンガ（黑带丽绿蛾类，Gelastocera kotshubeji）。瘤蛾科小型蛾，栖于杂木林、林缘、社寺林与公园林地，翅绿至黄绿色、具黑带（和名「黑带」由来），幼虫取食树叶，夜行性、趋光。",
+      "habitat_hint": "杂木林、林缘、社寺林、公园林地、灯火周边。",
+      "finding_tips": "5 至 8 月夜间于灯下寻找翅绿至黄绿色、具黑带的小型蛾。"
+    }
+  },
+  "Geranium sibiricum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siberian cranesbill",
+    "aliases": {
+      "zh-Hans": "鼠掌老鹳草"
+    },
+    "ja": {
+      "summary": "イチゲフウロ。フウロソウ科フウロソウ属の一〜多年草で、道端や草地、河川敷、やや湿った空き地に生える。掌状に切れ込む葉をつけ、夏、淡紅色〜白色の小さな5弁の花を、ふつう1個ずつ（一花＝いちげ）葉腋につける。ユーラシアに広く分布。",
+      "habitat_hint": "道端、草地、河川敷、やや湿った空き地、造成地。",
+      "finding_tips": "7〜9月、掌状に切れ込む葉と、葉腋にふつう1個ずつつく淡紅色〜白色の小さな5弁花を探します。"
+    },
+    "en": {
+      "summary": "Siberian cranesbill (Geranium sibiricum). A Eurasian annual to perennial (Geraniaceae) of roadsides, grassland, riverbanks and damp waste ground; it has palmately lobed leaves and, in summer, small pale-pink to white five-petalled flowers borne usually singly in the leaf axils.",
+      "habitat_hint": "Roadsides, grassland, riverbanks, damp waste ground, made ground.",
+      "finding_tips": "In July–September look for the palmately lobed leaves and the small pale-pink to white five-petalled flowers borne usually one per axil."
+    },
+    "zh": {
+      "summary": "イチゲフウロ（鼠掌老鹳草，Geranium sibiricum）。牻牛儿苗科老鹳草属一至多年生草本，广布欧亚，生于路旁、草地、河滩及略湿空地，叶掌状分裂，夏季叶腋通常单生淡红至白色五瓣小花。",
+      "habitat_hint": "路旁、草地、河滩、略湿空地、造地。",
+      "finding_tips": "7 至 9 月寻找掌状分裂叶及叶腋通常单生的淡红至白色五瓣小花。"
+    }
+  },
+  "Harpalus eous": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "オオズケゴモクムシ。オサムシ科ゴモクムシ属の地表性甲虫で、河原や畑、草地、道端の地表にすむ。黒くやや光沢のある体をもち、頭部が大きめ。夜行性で、地表を歩き回って植物の種子や小さな昆虫を食べる。灯火にも集まる。",
+      "habitat_hint": "河原、畑、草地、道端、田の畦の地表や石・落葉の下。",
+      "finding_tips": "4〜10月、夜間に地表を歩く、黒く頭部が大きめの中型の甲虫を探します。昼間は石や落葉の下。灯火にも集まる。"
+    },
+    "en": {
+      "summary": "A ground beetle (Harpalus eous, Carabidae) of riverbanks, fields, grassland and roadsides; the black, slightly glossy body has a fairly large head. Nocturnal, it roams the ground eating plant seeds and small insects and comes to lights.",
+      "habitat_hint": "Riverbanks, fields, grassland, roadsides, paddy banks — on the ground or under stones and litter.",
+      "finding_tips": "From April to October look at night for the black, fairly large-headed medium beetle walking the ground; by day under stones and litter, and it comes to lights."
+    },
+    "zh": {
+      "summary": "オオズケゴモクムシ（大头婪步甲类，Harpalus eous）。步甲科婪步甲属地栖甲虫，栖于河滩、农田、草地与路旁地表，体黑略具光泽、头较大，夜行性、于地面取食植物种子与小昆虫，亦趋光。",
+      "habitat_hint": "河滩、农田、草地、路旁、田埂地表或石与落叶下。",
+      "finding_tips": "4 至 10 月夜间寻找地面游走、体黑而头较大的中型甲虫；白昼藏于石与落叶下，亦趋光。"
+    }
+  },
+  "Harpalus jureceki": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヒメケゴモクムシ。オサムシ科ゴモクムシ属の小さな地表性甲虫で、河原や畑、草地、道端の地表にすむ。黒っぽい体に短い毛があり、上翅にも細かい毛が生える。夜行性で、地表を歩き回って植物の種子や小さな昆虫を食べる。灯火にも集まる。",
+      "habitat_hint": "河原、畑、草地、道端、田の畦の地表や石・落葉の下。",
+      "finding_tips": "4〜10月、夜間に地表を歩く、短い毛のある黒っぽい小さな甲虫を探します。昼間は石や落葉の下。"
+    },
+    "en": {
+      "summary": "A small ground beetle (Harpalus jureceki, Carabidae) of riverbanks, fields, grassland and roadsides; the dark body is shortly hairy, including fine hairs on the elytra. Nocturnal, it roams the ground eating plant seeds and small insects and comes to lights.",
+      "habitat_hint": "Riverbanks, fields, grassland, roadsides, paddy banks — on the ground or under stones and litter.",
+      "finding_tips": "From April to October look at night for the small, shortly hairy dark beetle walking the ground; by day under stones and litter."
+    },
+    "zh": {
+      "summary": "ヒメケゴモクムシ（小毛婪步甲类，Harpalus jureceki）。步甲科婪步甲属小型地栖甲虫，栖于河滩、农田、草地与路旁地表，体暗色被短毛、鞘翅亦生细毛，夜行性、于地面取食植物种子与小昆虫，亦趋光。",
+      "habitat_hint": "河滩、农田、草地、路旁、田埂地表或石与落叶下。",
+      "finding_tips": "4 至 10 月夜间寻找地面游走、被短毛的暗色小型甲虫；白昼藏于石与落叶下。"
+    }
+  },
+  "Harpalus simplicidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ニセクロゴモクムシ。オサムシ科ゴモクムシ属の地表性甲虫で、河原や畑、草地、道端の地表にすむ。黒く光沢のある体をもつ。クロゴモクムシに似る（ニセ＝偽）。夜行性で、地表を歩き回って植物の種子や小さな昆虫を食べる。灯火にも集まる。",
+      "habitat_hint": "河原、畑、草地、道端、田の畦の地表や石・落葉の下。",
+      "finding_tips": "4〜10月、夜間に地表を歩く、黒く光沢のある中型の甲虫を探します。昼間は石や落葉の下。灯火にも集まる。"
+    },
+    "en": {
+      "summary": "A ground beetle (Harpalus simplicidens, Carabidae) of riverbanks, fields, grassland and roadsides; the body is black and glossy. It resembles the related black Harpalus. Nocturnal, it roams the ground eating plant seeds and small insects and comes to lights.",
+      "habitat_hint": "Riverbanks, fields, grassland, roadsides, paddy banks — on the ground or under stones and litter.",
+      "finding_tips": "From April to October look at night for the black, glossy medium beetle walking the ground; by day under stones and litter, and it comes to lights."
+    },
+    "zh": {
+      "summary": "ニセクロゴモクムシ（拟黑婪步甲类，Harpalus simplicidens）。步甲科婪步甲属地栖甲虫，栖于河滩、农田、草地与路旁地表，体黑而有光泽，似黑婪步甲（ニセ 意「拟」），夜行性、于地面取食植物种子与小昆虫，亦趋光。",
+      "habitat_hint": "河滩、农田、草地、路旁、田埂地表或石与落叶下。",
+      "finding_tips": "4 至 10 月夜间寻找地面游走、黑而有光泽的中型甲虫；白昼藏于石与落叶下，亦趋光。"
+    }
+  },
+  "Hepatica asiatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "獐耳细辛"
+    },
+    "ja": {
+      "summary": "ミスミソウ（ユキワリソウ）。キンポウゲ科スハマソウ属（ミスミソウ属）の常緑の多年草で、山地の落葉樹林の林床や林縁、やや湿った斜面に生える。3つに浅く裂ける（三角＝みすみ）常緑の葉をつけ、早春、白・淡紅・淡紫など変化に富む花（花弁のように見えるのは萼片）を咲かせる。雪解けを告げる春の花。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った斜面、石灰岩地。",
+      "finding_tips": "3〜4月、雪解けのころの林床で、3つに浅く裂ける常緑の葉と、白・淡紅・淡紫など変化に富む花を探します。"
+    },
+    "en": {
+      "summary": "Asian liverleaf (Hepatica asiatica). An evergreen perennial (Ranunculaceae) of montane deciduous woodland floor, edges and damp slopes; it has evergreen, shallowly three-lobed (triangular) leaves and, in early spring, flowers varying from white to pink to pale purple (the petal-like parts are sepals). A spring flower announcing the snow-melt.",
+      "habitat_hint": "Montane deciduous woodland floor, edges, damp slopes, limestone ground.",
+      "finding_tips": "In March–April around snow-melt look on the woodland floor for the evergreen, shallowly three-lobed leaves and the flowers varying white to pink to pale purple."
+    },
+    "zh": {
+      "summary": "ミスミソウ（獐耳细辛，Hepatica asiatica）。毛茛科獐耳细辛属常绿多年生草本，生于山地落叶林林床、林缘及略湿坡地，常绿叶浅三裂（三角），早春开白、淡红、淡紫等富于变化的花（似花瓣者为萼片），为报融雪的春花。",
+      "habitat_hint": "山地落叶林林床、林缘、略湿坡地、石灰岩地。",
+      "finding_tips": "3 至 4 月融雪时于林床寻找浅三裂的常绿叶及白、淡红、淡紫等多变的花。"
+    }
+  },
+  "Hololepta amurensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clown beetle",
+    "ja": {
+      "summary": "オオヒラタエンマムシ。エンマムシ科の甲虫で、広葉樹の枯木や倒木の樹皮の下にすむ。体は非常に扁平で黒く光沢があり、樹皮のわずかな隙間にもぐり込める。樹皮下にいるキクイムシやハエの幼虫などを捕食する肉食性の甲虫。",
+      "habitat_hint": "広葉樹の枯木、倒木、切株の樹皮の下。",
+      "finding_tips": "一年中、枯木や倒木の樹皮をはがすと現れる、非常に扁平で黒く光沢のある甲虫を探します。素早く隙間に逃げ込む。"
+    },
+    "en": {
+      "summary": "A clown beetle (Hololepta amurensis, Histeridae) living under the bark of dead broadleaf trees and logs; the body is very flat, black and glossy, letting it slip into the slightest bark crevice. Carnivorous, it preys on bark-beetle and fly larvae under the bark.",
+      "habitat_hint": "Under the bark of dead broadleaf trees, logs and stumps.",
+      "finding_tips": "Year-round peel bark from dead wood and logs to find the very flat, black, glossy beetle; it darts quickly into crevices."
+    },
+    "zh": {
+      "summary": "オオヒラタエンマムシ（大扁阎甲，Hololepta amurensis）。阎甲科甲虫，栖于阔叶枯木与倒木树皮下，体极扁平、黑而有光泽，可钻入极窄树皮缝隙，肉食性，捕食树皮下的小蠹与蝇类幼虫。",
+      "habitat_hint": "阔叶枯木、倒木、树桩树皮下。",
+      "finding_tips": "全年剥开枯木与倒木树皮寻找极扁平、黑而有光泽的甲虫；受惊迅速钻入缝隙。"
+    }
   }
 }
