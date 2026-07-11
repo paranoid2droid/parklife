@@ -230742,5 +230742,375 @@
       "habitat_hint": "赤松等松林地面、沙地松林、公园松树下。",
       "finding_tips": "秋季于松林地面寻找黏滑黄褐盖、背面网状大孔、伤变蓝绿的菌。"
     }
+  },
+  "Stauropus basalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメシャチホコ。シャチホコガ科のガで、平地〜山地の雑木林や樹林に見られる。翅は灰褐色でくすんだ模様をもつ。幼虫はカエデなどの葉を食べ、危険を感じると体をそらせて「しゃちほこ」のような独特の姿勢をとる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の雑木林、樹林、林縁。",
+      "finding_tips": "初夏〜夏、灯火で灰褐色のくすんだ翅のシャチホコガを探します。幼虫は体をそらせる独特の姿勢。"
+    },
+    "en": {
+      "summary": "Hime-shachihoko (Stauropus basalis), a prominent moth. A prominent moth of lowland to montane secondary woodland and forest; the wings are greyish-brown with muted markings. The caterpillar feeds on maple and other leaves and, when threatened, arches its body into a distinctive posture. Adults come to lights at night.",
+      "habitat_hint": "Lowland to montane secondary woodland, forest, edges.",
+      "finding_tips": "From early summer to summer look at lights for the greyish-brown, muted-patterned prominent moth."
+    },
+    "zh": {
+      "summary": "ヒメシャチホコ（Stauropus basalis）。舟蛾科的一种蛾，见于平地至山地杂木林及林地；翅灰褐、斑纹暗淡，幼虫取食槭等叶，受惊时体躬起呈独特姿态，成虫夜间趋光。",
+      "habitat_hint": "平地至山地杂木林、林地、林缘。",
+      "finding_tips": "初夏至夏于灯下寻找灰褐、斑纹暗淡的舟蛾。"
+    }
+  },
+  "Symplocos theophrastifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カンザブロウノキ。ハイノキ科の常緑小高木で、暖地の海岸近くの照葉樹林や林縁に生える。厚くつやのある葉をもち、初夏に白い小花を多数つけ、秋に藍黒色の小さな果実をつける。西日本〜南日本に分布。",
+      "habitat_hint": "暖地の海岸近くの照葉樹林、林縁、常緑樹林。",
+      "finding_tips": "5〜6月、暖地の照葉樹林で厚くつやのある葉と、白い小花の集まりを探します。秋は藍黒色の実。"
+    },
+    "en": {
+      "summary": "Kanzaburō-no-ki (Symplocos theophrastifolia). An evergreen small tree of the sweetleaf family in warm-region coastal evergreen broadleaf forest and edges; it has thick glossy leaves, many small white flowers in early summer and small blue-black fruits in autumn, distributed in western and southern Japan.",
+      "habitat_hint": "Warm-region coastal evergreen broadleaf forest, edges.",
+      "finding_tips": "In May–June look in warm-region evergreen forest for the thick glossy leaves and clusters of small white flowers; blue-black fruit in autumn."
+    },
+    "zh": {
+      "summary": "カンザブロウノキ（Symplocos theophrastifolia）。山矾科常绿小乔木，生于暖地近海照叶林及林缘；叶厚而有光泽，初夏密生白色小花，秋结蓝黑色小果，分布于西南日本。",
+      "habitat_hint": "暖地近海照叶林、林缘、常绿林。",
+      "finding_tips": "5 至 6 月于暖地照叶林寻找厚亮叶及白色小花簇，秋见蓝黑色果。"
+    }
+  },
+  "Tegula argyrostoma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヘソアキクボガイ。ニシキウズガイ科の巻貝で、岩礁海岸の潮間帯の岩やその下にすむ。殻は円錐形でやや低く、暗い色をおび、底面の中央にへそ穴（臍孔）が開くのが名の由来。岩についた藻類を食べる。",
+      "habitat_hint": "岩礁海岸の潮間帯、岩の表面や下、転石帯。",
+      "finding_tips": "干潮時、磯の岩やその下で円錐形の巻貝と、底面中央のへそ穴を探します。"
+    },
+    "en": {
+      "summary": "Heso-aki-kubogai (Tegula argyrostoma), a top shell. A top shell of rocky shores living on and under intertidal rock; the shell is a low cone, dark in colour, with an open umbilicus (navel-hole) in the centre of the base, source of the Japanese name. It grazes algae from the rock.",
+      "habitat_hint": "Rocky-shore intertidal, on and under rock, cobble beds.",
+      "finding_tips": "At low tide look on and under rocky-shore boulders for the low conical shell with an open navel-hole on its base."
+    },
+    "zh": {
+      "summary": "银口凹螺（ヘソアキクボガイ，Tegula argyrostoma）。马蹄螺科螺类，栖于岩礁海岸潮间带岩面及岩下；壳低圆锥形、色暗，底面中央具脐孔（故名），刮食岩上藻类。",
+      "habitat_hint": "岩礁海岸潮间带、岩面及岩下、卵石带。",
+      "finding_tips": "退潮时于岩礁岩面及岩下寻找低圆锥壳、底面具脐孔的螺。"
+    }
+  },
+  "Trigoniulus corallinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rusty millipede",
+    "ja": {
+      "summary": "ミナミヤスデ。オビヤスデではなく円筒形の体をもつヤスデの仲間で、暖地の畑、庭、落ち葉や石の下、朽木の下にすむ。体は赤褐色（さび色）でつやがあり、多数の脚をもつ。刺激を受けると渦巻き状に丸まる。落ち葉などを食べて分解する。",
+      "habitat_hint": "暖地の畑、庭、落ち葉や石の下、朽木の下の湿った場所。",
+      "finding_tips": "一年中、暖地で石や落ち葉をめくって、赤褐色でつやのある円筒形の多足のヤスデを探します。"
+    },
+    "en": {
+      "summary": "Minami-yasude, the rusty millipede (Trigoniulus corallinus). A cylindrical millipede of warm-region fields, gardens and damp spots under litter, stones and rotten wood; the glossy body is rusty reddish-brown with many legs, and it coils into a spiral when disturbed. It decomposes leaf litter.",
+      "habitat_hint": "Warm-region fields, gardens, under litter, stones and rotten wood.",
+      "finding_tips": "Year-round in warm regions turn stones and litter to find the glossy rusty-brown cylindrical millipede."
+    },
+    "zh": {
+      "summary": "红带马陆（ミナミヤスデ，Trigoniulus corallinus）。圆筒形马陆，栖于暖地农田、庭园及落叶、石、朽木下潮湿处；体锈红褐色而有光泽、多足，受扰卷成螺旋，分解落叶。",
+      "habitat_hint": "暖地农田、庭园、落叶石朽木下潮湿处。",
+      "finding_tips": "全年于暖地翻石与落叶寻找锈红褐色、有光泽的圆筒形马陆。"
+    }
+  },
+  "Trigonotis guilielmii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチカメバソウ。ムラサキ科キュウリグサ属（キュウリグサの仲間）の多年草で、山地の谷沿いや沢沿いの湿った林床に生える。春、白い小さな花を咲かせる。葉が亀の甲を思わせることが名の由来。しばしば群生する。",
+      "habitat_hint": "山地の谷沿い、沢沿いの湿った林床、林縁。",
+      "finding_tips": "4〜6月、山地の沢沿いの湿った林床で白い小花と亀の甲状の葉を探します。しばしば群生。"
+    },
+    "en": {
+      "summary": "Tachi-kameba-sō (Trigonotis guilielmii). A perennial of the borage family growing on damp forest floor along montane valleys and streams; in spring it bears small white flowers. The Japanese name refers to leaves suggesting a tortoise shell, and it often grows in colonies.",
+      "habitat_hint": "Montane valleys, damp streamside forest floor, edges.",
+      "finding_tips": "From April to June look on damp streamside forest floor for the small white flowers and tortoise-shell-like leaves, often in colonies."
+    },
+    "zh": {
+      "summary": "タチカメバソウ（Trigonotis guilielmii）。紫草科附地菜属多年生草本，生于山地谷地及沟谷湿润林床；春开白色小花，叶似龟甲（故名），常成片生长。",
+      "habitat_hint": "山地谷地、沟谷湿润林床、林缘。",
+      "finding_tips": "4 至 6 月于山地沟谷湿润林床寻找白色小花及龟甲状叶，常成片。"
+    }
+  },
+  "Uncaria rhynchophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "钩藤"
+    },
+    "ja": {
+      "summary": "カギカズラ。アカネ科カギカズラ属の常緑つる性木本で、暖地の照葉樹林や林縁に生える。葉のわきに、他物にひっかけて登るための鉤（かぎ）状に曲がった枝（変形した花序柄）をもつのが特徴。夏、球状に集まった黄色い小花を咲かせる。生薬「釣藤鈎」の原料。",
+      "habitat_hint": "暖地の照葉樹林、林縁、谷沿いの樹林。",
+      "finding_tips": "一年中、暖地の樹林で葉のわきの鉤状に曲がった枝と、つる性の常緑の茎を探します。"
+    },
+    "en": {
+      "summary": "Kagi-kazura (Uncaria rhynchophylla). An evergreen woody climber of the madder family in warm-region evergreen broadleaf forest and edges; it climbs by hook-shaped curved branches (modified inflorescence stalks) in the leaf axils, and in summer bears yellow flowers in spherical heads. It is the source of the herbal medicine 'chōtōkō'.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, edges, valley woodland.",
+      "finding_tips": "Year-round in warm-region woodland look for the evergreen climbing stems with hook-shaped curved branches in the leaf axils."
+    },
+    "zh": {
+      "summary": "钩藤（カギカズラ，Uncaria rhynchophylla）。茜草科钩藤属常绿木质藤本，生于暖地照叶林及林缘；叶腋具钩状弯枝（变态花序梗）以攀附，夏开黄色球状花序，为中药“钩藤”原料。",
+      "habitat_hint": "暖地照叶林、林缘、谷地林木。",
+      "finding_tips": "全年于暖地林中寻找叶腋具钩状弯枝的常绿攀援茎。"
+    }
+  },
+  "Upinella hirokii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Darkling beetle",
+    "ja": {
+      "summary": "クチキムシ。ゴミムシダマシ科（クチキムシの仲間）の甲虫で、平地〜山地の樹林で朽木や倒木、樹皮下に見られる。体は褐色〜黒褐色でやや細長い。幼虫・成虫ともに朽木を食べ、枯れた木の分解にかかわる。",
+      "habitat_hint": "平地〜山地の樹林、朽木、倒木、樹皮下。",
+      "finding_tips": "一年中、林の朽木や倒木、樹皮の下で褐色でやや細長い甲虫を探します。"
+    },
+    "en": {
+      "summary": "Kuchiki-mushi (Upinella hirokii), a darkling beetle. A darkling beetle found in woodland from lowland to mountains on and in rotten wood, fallen logs and under bark; the body is brown to blackish-brown and somewhat elongate. Both larvae and adults feed on rotten wood and help decompose dead trees.",
+      "habitat_hint": "Lowland to montane woodland, rotten wood, fallen logs, under bark.",
+      "finding_tips": "Year-round look on rotten wood, logs and under bark for the somewhat elongate brown beetle."
+    },
+    "zh": {
+      "summary": "クチキムシ（Upinella hirokii）。拟步甲科（朽木虫类）甲虫，见于平地至山地林中朽木、倒木及树皮下；体褐至黑褐、略细长，幼成虫均食朽木，参与枯木分解。",
+      "habitat_hint": "平地至山地林地、朽木、倒木、树皮下。",
+      "finding_tips": "全年于林中朽木、倒木及树皮下寻找略细长的褐色甲虫。"
+    }
+  },
+  "Utricularia gibba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Humped bladderwort",
+    "aliases": {
+      "zh-Hans": "浮沉狸藻"
+    },
+    "ja": {
+      "summary": "イトタヌキモ。タヌキモ科の水生の食虫植物で、池沼や休耕田、浅い水中に浮遊または漂って生える。糸のように細い茎に小さな捕虫嚢をつけ、ミジンコなどの微小動物を捕らえる。夏、水面上に黄色い小花を咲かせる。",
+      "habitat_hint": "池沼、休耕田、湿地の浅い水中、水路。",
+      "finding_tips": "夏、池沼や休耕田で水中に浮く糸状の茎と、水面に立つ黄色い小花を探します。"
+    },
+    "en": {
+      "summary": "Ito-tanukimo, the humped bladderwort (Utricularia gibba). An aquatic carnivorous plant of ponds, fallow paddies and shallow water, floating or suspended; the thread-like stems bear tiny bladder traps that catch water fleas and other micro-animals, and small yellow flowers stand above the water in summer.",
+      "habitat_hint": "Ponds, fallow paddies, shallow wetland water, channels.",
+      "finding_tips": "In summer look in ponds and fallow paddies for the floating thread-like stems and small yellow flowers held above the water."
+    },
+    "zh": {
+      "summary": "浮沉狸藻（イトタヌキモ，Utricularia gibba）。狸藻科水生食虫植物，浮生于池沼、休耕田及浅水；茎细如丝，生微小捕虫囊，捕食水蚤等微小动物，夏于水面上开黄色小花。",
+      "habitat_hint": "池沼、休耕田、湿地浅水、水渠。",
+      "finding_tips": "夏于池沼及休耕田寻找水中漂浮的丝状茎及水面黄色小花。"
+    }
+  },
+  "Veronica myriantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホナガカワヂシャ。オオバコ科（旧ゴマノハグサ科）クワガタソウ属の越年草〜多年草で、水辺や湿った場所、水路、休耕田に生える。カワヂシャに似るが花穂が細長い。春〜初夏、淡紫〜白の小花を穂状にまばらにつける。",
+      "habitat_hint": "水辺、湿った場所、水路、休耕田、川沿い。",
+      "finding_tips": "4〜6月、水辺で細長い花穂にまばらにつく淡紫〜白の小花を探します。"
+    },
+    "en": {
+      "summary": "Honaga-kawadisha (Veronica myriantha). A biennial to perennial speedwell of waterside and damp places, channels and fallow paddies; it resembles V. undulata but has longer, more slender flower spikes, bearing sparse pale-purple to white flowers in spring to early summer.",
+      "habitat_hint": "Waterside, damp places, channels, fallow paddies, riversides.",
+      "finding_tips": "From April to June look at waterside for the sparse pale-purple to white flowers on long slender spikes."
+    },
+    "zh": {
+      "summary": "ホナガカワヂシャ（Veronica myriantha）。车前科（旧玄参科）婆婆纳属越年至多年生草本，生于水边、湿地、水渠及休耕田；似水苦荬但花穗细长，春至初夏疏生淡紫至白色小花。",
+      "habitat_hint": "水边、湿地、水渠、休耕田、河岸。",
+      "finding_tips": "4 至 6 月于水边寻找细长花穗上疏生的淡紫至白色小花。"
+    }
+  },
+  "Viburnum suspensum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ゴモジュ。ガマズミ科（レンプクソウ科）ガマズミ属の常緑低木で、南西諸島の海岸近くの林縁や樹林に自生し、暖地では生垣にも植えられる。革質の葉をもち、春に淡紅色を帯びた白い小花を集めて咲かせ、赤い実をつける。葉をもむと独特のにおいがある。",
+      "habitat_hint": "南西諸島の海岸近くの林縁、樹林、暖地の生垣。",
+      "finding_tips": "3〜4月、暖地の林縁や生垣で革質の葉と、淡紅色を帯びた白い小花の集まりを探します。"
+    },
+    "en": {
+      "summary": "Gomoju (Viburnum suspensum). An evergreen shrub of the viburnum group, native to coastal woodland edges and forest of the Ryukyu Islands and planted as a hedge in warm regions; it has leathery leaves, pinkish-white flower clusters in spring and red fruits, and the crushed leaves have a distinctive smell.",
+      "habitat_hint": "Ryukyu coastal woodland edges, forest, warm-region hedges.",
+      "finding_tips": "In March–April look on warm-region edges and hedges for the leathery leaves and clusters of pinkish-white flowers."
+    },
+    "zh": {
+      "summary": "ゴモジュ（Viburnum suspensum）。荚蒾科（五福花科）荚蒾属常绿灌木，原生于琉球群岛近海林缘及林地，暖地常作绿篱；叶革质，春季密生带粉的白色小花，结红果，揉叶有特殊气味。",
+      "habitat_hint": "琉球近海林缘、林地、暖地绿篱。",
+      "finding_tips": "3 至 4 月于暖地林缘及绿篱寻找革质叶及带粉白色小花簇。"
+    }
+  },
+  "Vincetoxicum nikoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コカモメヅル。キョウチクトウ科（旧ガガイモ科）カモメヅル属のつる性多年草で、日当たりのよい草地や林縁、湿った草地に生える。細いつるを他の草にからませ、夏〜秋に暗紫色の小さな星形の花を咲かせる。細長い袋状の果実をつける。",
+      "habitat_hint": "日当たりのよい草地、林縁、湿った草地、土手。",
+      "finding_tips": "7〜9月、草地でほかの草にからむ細いつると、暗紫色の小さな星形の花を探します。"
+    },
+    "en": {
+      "summary": "Ko-kamomezuru (Vincetoxicum nikoense). A twining perennial of the dogbane family (former milkweed family) in sunny grassland, woodland edges and damp grassland; the slender vines twine over other plants, and in summer to autumn it bears small dark-purple star-shaped flowers followed by slender pod-like fruits.",
+      "habitat_hint": "Sunny grassland, woodland edges, damp grassland, banks.",
+      "finding_tips": "From July to September look in grassland for the slender twining vines and small dark-purple star-shaped flowers."
+    },
+    "zh": {
+      "summary": "コカモメヅル（Vincetoxicum nikoense）。夹竹桃科（旧萝藦科）鹅绒藤属缠绕多年生草本，生于向阳草地、林缘及湿润草地；细蔓缠绕他草，夏至秋开暗紫色小星状花，结细长蓇葖果。",
+      "habitat_hint": "向阳草地、林缘、湿润草地、土坡。",
+      "finding_tips": "7 至 9 月于草地寻找缠绕他草的细蔓及暗紫色小星状花。"
+    }
+  },
+  "Viola mirabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イブキスミレ。スミレ科スミレ属の多年草で、山地のやや湿った林床や林縁、石灰岩地に生える。春、淡紫色の花を咲かせる。花期のあとに茎が伸び、葉が大きくなる（閉鎖花をつける）のが特徴。伊吹山にちなむ名。",
+      "habitat_hint": "山地のやや湿った林床、林縁、石灰岩地、落葉樹林下。",
+      "finding_tips": "4〜5月、山地の林床で淡紫色のスミレの花と、丸みのある葉を探します。"
+    },
+    "en": {
+      "summary": "Ibuki-sumire (Viola mirabilis). A perennial violet of somewhat damp montane forest floor, edges and limestone ground; in spring it bears pale-purple flowers, and after flowering the stem elongates and the leaves enlarge (bearing cleistogamous flowers). It is named for Mt Ibuki.",
+      "habitat_hint": "Somewhat damp montane forest floor, edges, limestone ground, deciduous woods.",
+      "finding_tips": "In April–May look on montane forest floor for the pale-purple violet flowers and rounded leaves."
+    },
+    "zh": {
+      "summary": "イブキスミレ（Viola mirabilis）。堇菜科堇菜属多年生草本，生于山地略湿林床、林缘及石灰岩地；春开淡紫花，花后茎伸长、叶增大（生闭锁花），因伊吹山得名。",
+      "habitat_hint": "山地略湿林床、林缘、石灰岩地、落叶林下。",
+      "finding_tips": "4 至 5 月于山地林床寻找淡紫色堇菜花及圆润叶。"
+    }
+  },
+  "Xanthorhoe muscicapata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツマグロナミシャク。シャクガ科ナミシャク亜科のガで、平地〜山地の樹林や林縁に見られる。翅には細かな波状の横帯があり、前翅の先（つま）の部分が黒っぽくなるのが名の由来。幼虫はシャクトリムシ。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、渓流沿いの林。",
+      "finding_tips": "春〜夏、灯火や林縁で細かな波状横帯と、前翅の先が黒っぽいシャクガを探します。"
+    },
+    "en": {
+      "summary": "Tsumaguro-namishaku (Xanthorhoe muscicapata), a carpet moth. A geometer moth of the Larentiinae found in lowland to montane woodland and edges; the wings have fine wavy cross-bands and the forewing tip (tsuma) is blackish, source of the name. The larva is an inchworm, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, streamside woods.",
+      "finding_tips": "From spring to summer look at lights and edges for the geometer with fine wavy cross-bands and a blackish forewing tip."
+    },
+    "zh": {
+      "summary": "ツマグロナミシャク（Xanthorhoe muscicapata）。尺蛾科波尺蛾亚科的一种蛾，见于平地至山地林地及林缘；翅具细密波状横带，前翅端部暗黑（故名），幼虫为尺蠖，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、溪流沿林。",
+      "finding_tips": "春至夏于灯下及林缘寻找具细波状横带、前翅端暗黑的尺蛾。"
+    }
+  },
+  "Xerocomellus chrysenteron": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キッコウアワタケ。イグチ科のきのこで、夏〜秋、雑木林や公園の広葉樹の下の地上に発生する。傘は赤褐色〜オリーブ褐色で、成長すると表面が亀甲状に細かくひび割れ、割れ目に赤みが見えることがある。裏は黄色い管孔で、傷つくと青く変わる。",
+      "habitat_hint": "夏〜秋、雑木林や公園の広葉樹（コナラ・クヌギなど）の下の地上。",
+      "finding_tips": "夏〜秋、広葉樹林の地上で亀甲状にひび割れた傘と、傷つくと青変する黄色い管孔を探します。"
+    },
+    "en": {
+      "summary": "Kikkō-awatake, the red-cracking bolete (Xerocomellus chrysenteron). A bolete fruiting on the ground under broadleaf trees in secondary woodland and parks in summer to autumn; the reddish-brown to olive-brown cap cracks finely in a tortoise-shell pattern, often showing red in the cracks, and the yellow pores beneath stain blue when bruised.",
+      "habitat_hint": "Summer to autumn, ground under broadleaf trees (oaks) in woodland and parks.",
+      "finding_tips": "From summer to autumn look under broadleaf trees for the tortoise-shell-cracked cap and yellow pores that stain blue when bruised."
+    },
+    "zh": {
+      "summary": "红绒盖牛肝菌（キッコウアワタケ，Xerocomellus chrysenteron）。牛肝菌科真菌，夏至秋生于杂木林及公园阔叶树下地面；菌盖红褐至橄榄褐，成熟时表面细龟裂、裂缝常露红色，菌管黄色、伤后变蓝。",
+      "habitat_hint": "夏至秋，杂木林及公园阔叶树（麻栎等）下地面。",
+      "finding_tips": "夏至秋于阔叶树下寻找龟裂菌盖及伤变蓝的黄色菌管。"
+    }
+  },
+  "Xestia efflorescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キシタミドリヤガ。ヤガ科モンヤガ亜科のガで、平地〜山地の樹林、林縁、草地に見られる。前翅はやや緑がかった〜褐色の地に模様があり、後翅は黄色みをおびる。幼虫は各種の草本を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、草地、農地。",
+      "finding_tips": "夏〜秋、灯火で緑がかった前翅と黄色みのある後翅をもつヤガを探します。"
+    },
+    "en": {
+      "summary": "Kishita-midori-yaga (Xestia efflorescens), an owlet moth. A noctuid moth of the Noctuinae found in lowland to montane woodland, edges and grassland; the forewing is patterned on a greenish to brown ground and the hindwing is yellowish. The larva feeds on various herbs, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, grassland, farmland.",
+      "finding_tips": "From summer to autumn look at lights for the owlet moth with greenish forewings and yellowish hindwings."
+    },
+    "zh": {
+      "summary": "キシタミドリヤガ（Xestia efflorescens）。夜蛾科切根夜蛾亚科的一种蛾，见于平地至山地林地、林缘及草地；前翅底色带绿至褐、具斑纹，后翅偏黄，幼虫食多种草本，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、草地、农田。",
+      "finding_tips": "夏至秋于灯下寻找前翅带绿、后翅偏黄的夜蛾。"
+    }
+  },
+  "Xylosma racemosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "柞木"
+    },
+    "ja": {
+      "summary": "クスドイゲ。ヤナギ科（旧イイギリ科）クスドイゲ属の常緑〜半常緑の小高木で、暖地の海岸近くの林縁や樹林に生える。若木の幹や枝にするどいとげがある。初夏に淡黄色の小花をつけ、秋に黒い小さな実をつける。西日本〜南日本に分布。",
+      "habitat_hint": "暖地の海岸近くの林縁、樹林、石灰岩地。",
+      "finding_tips": "一年中、暖地の林縁で幹や枝のするどいとげと、革質のつやのある葉をもつ木を探します。"
+    },
+    "en": {
+      "summary": "Kusudoige (Xylosma racemosum). An evergreen to semi-evergreen small tree of the willow family (former Flacourtiaceae) in warm-region coastal woodland edges and forest; young trunks and branches bear sharp spines, small pale-yellow flowers appear in early summer and small black fruits in autumn. It is distributed in western and southern Japan.",
+      "habitat_hint": "Warm-region coastal woodland edges, forest, limestone ground.",
+      "finding_tips": "Year-round in warm-region edges look for the tree with sharp spines on trunk and branches and leathery glossy leaves."
+    },
+    "zh": {
+      "summary": "柞木（クスドイゲ，Xylosma racemosum）。杨柳科（旧大风子科）柞木属常绿至半常绿小乔木，生于暖地近海林缘及林地；幼干及枝具锐刺，初夏开淡黄色小花，秋结黑色小果，分布西南日本。",
+      "habitat_hint": "暖地近海林缘、林地、石灰岩地。",
+      "finding_tips": "全年于暖地林缘寻找干枝具锐刺、叶革质有光泽的树。"
+    }
+  },
+  "Yamatochlamys vaga": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "ナミヒメベッコウ。ベッコウマイマイの仲間の小さな陸生の巻貝で、林床の落ち葉や朽木の下、湿った場所にすむ。殻は低く平たい円盤状で半透明のべっこう色をおび、光沢がある。落ち葉や菌類を食べる。",
+      "habitat_hint": "林床の落ち葉や朽木の下、湿った林、庭の石の下。",
+      "finding_tips": "一年中、林床の落ち葉や朽木をめくって、低く平たいべっこう色の小さな巻貝を探します。"
+    },
+    "en": {
+      "summary": "Nami-hime-bekkō (Yamatochlamys vaga), a land snail. A small land snail of the glass-snail group living under leaf litter and rotten wood on the forest floor and in damp places; the shell is a low, flat disc, translucent amber (tortoise-shell) coloured and glossy. It feeds on litter and fungi.",
+      "habitat_hint": "Forest floor under litter and rotten wood, damp woods, garden stones.",
+      "finding_tips": "Year-round, turn leaf litter and rotten wood on the forest floor to find the small, low, flat amber-coloured snail."
+    },
+    "zh": {
+      "summary": "ナミヒメベッコウ（Yamatochlamys vaga）。玳瑁蜗牛类的小型陆生螺，栖于林床落叶及朽木下潮湿处；壳低平呈盘状，半透明玳瑁色而有光泽，取食落叶及真菌。",
+      "habitat_hint": "林床落叶及朽木下、湿润林、庭园石下。",
+      "finding_tips": "全年翻开林床落叶及朽木寻找低平、玳瑁色、有光泽的小螺。"
+    }
   }
 }
