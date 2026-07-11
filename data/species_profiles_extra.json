@@ -235821,5 +235821,475 @@
       "habitat_hint": "平地至山地杂木林、林缘、麻栎栎类林。",
       "finding_tips": "春至夏于灯下及树液寻找灰褐、散布细点状斑的波纹蛾。"
     }
+  },
+  "Deparia birii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サツマシケシダ。メシダ科シケシダ属のシダで、暖地の湿った林床や林縁、谷沿い、渓流沿いに生える。葉はやわらかく羽状に切れ込み、湿った日陰を好む。九州（薩摩）などの暖地に分布するシケシダの仲間。しばしば群生する。",
+      "habitat_hint": "暖地の湿った林床、林縁、谷沿い、渓流沿いの日陰。",
+      "finding_tips": "一年中、暖地の湿った林床で羽状に切れ込むやわらかい葉のシダを探します。しばしば群生。"
+    },
+    "en": {
+      "summary": "Satsuma-shikeshida (Deparia birii), a fern. A fern of the lady-fern family growing on damp forest floor, edges, valleys and streamsides in warm regions; the soft fronds are pinnately divided and it favours damp shade. A Deparia distributed in warm regions such as Kyushu (Satsuma), often growing in colonies.",
+      "habitat_hint": "Warm-region damp forest floor, edges, valleys, shaded streamsides.",
+      "finding_tips": "Year-round on warm-region damp forest floor look for the fern with soft, pinnately divided fronds, often in colonies."
+    },
+    "zh": {
+      "summary": "サツマシケシダ（Deparia birii）。蹄盖蕨科对囊蕨属蕨类，生于暖地湿润林床、林缘、谷地及溪流沿岸；叶柔软羽裂，喜湿荫，分布于九州（萨摩）等暖地，常成片。",
+      "habitat_hint": "暖地湿润林床、林缘、谷地、溪流沿岸荫处。",
+      "finding_tips": "全年于暖地湿润林床寻找羽裂柔软叶的蕨，常成片。"
+    }
+  },
+  "Diospyros morrisiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トキワガキ。カキノキ科カキノキ属の常緑小高木で、暖地の照葉樹林や林縁、谷沿いに生える。カキの仲間だが常緑で、革質のつやのある葉をもつ。初夏に地味な黄白色の花を咲かせ、秋に黒く熟す小さな球形の実をつける。西日本〜南日本に分布。",
+      "habitat_hint": "暖地の照葉樹林、林縁、谷沿い、石灰岩地。",
+      "finding_tips": "一年中、暖地の照葉樹林で革質のつやのある常緑の葉と、秋に黒く熟す小さな実をつけるカキの仲間を探します。"
+    },
+    "en": {
+      "summary": "Tokiwa-gaki (Diospyros morrisiana). An evergreen small tree of the ebony/persimmon family growing in warm-region evergreen broadleaf forest, edges and valleys; a persimmon relative but evergreen, with glossy leathery leaves. It bears plain yellow-white flowers in early summer and small round fruits ripening black in autumn, distributed in western and southern Japan.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, edges, valleys, limestone ground.",
+      "finding_tips": "Year-round in warm-region evergreen forest look for the persimmon relative with glossy leathery evergreen leaves and small black autumn fruits."
+    },
+    "zh": {
+      "summary": "罗浮柿（トキワガキ，Diospyros morrisiana）。柿科柿属常绿小乔木，生于暖地照叶林、林缘及谷地；为柿属但常绿，叶革质有光泽，初夏开朴素黄白花，秋结黑熟球形小果，分布西南日本。",
+      "habitat_hint": "暖地照叶林、林缘、谷地、石灰岩地。",
+      "finding_tips": "全年于暖地照叶林寻找革质亮常绿叶、秋结黑色小果的柿属树。"
+    }
+  },
+  "Elaeagnus submacrophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter silverberry",
+    "ja": {
+      "summary": "フユグミ。グミ科グミ属の常緑〜半常緑の低木で、暖地の海岸近くの林縁や樹林、日当たりのよい斜面に生える。革質の葉の裏に銀白色の鱗片が密生する。秋に地味な花を咲かせ、冬〜早春に赤く熟す実をつける（食べられる）。名は冬に実ることに由来する。",
+      "habitat_hint": "暖地の海岸近くの林縁、樹林、日当たりのよい斜面。",
+      "finding_tips": "冬〜早春、暖地の海岸近くで裏が銀白色の革質の葉と、赤く熟す小さな実をつけるグミを探します。"
+    },
+    "en": {
+      "summary": "Fuyu-gumi, the winter silverberry (Elaeagnus submacrophylla). An evergreen to semi-evergreen shrub of the oleaster family growing on warm-region coastal woodland edges, forest and sunny slopes; the leathery leaves have dense silvery-white scales beneath. It bears plain flowers in autumn and red fruits ripening in winter to early spring (edible), named for its winter fruiting.",
+      "habitat_hint": "Warm-region coastal woodland edges, forest, sunny slopes.",
+      "finding_tips": "From winter to early spring near warm-region coasts look for the oleaster with silvery-backed leathery leaves and red ripe fruits."
+    },
+    "zh": {
+      "summary": "フユグミ（Elaeagnus submacrophylla）。胡颓子科胡颓子属常绿至半常绿灌木，生于暖地近海林缘、林地及向阳坡；叶革质、背密被银白鳞片，秋开朴素花，冬至早春结红熟果（可食），因冬季结果得名。",
+      "habitat_hint": "暖地近海林缘、林地、向阳坡。",
+      "finding_tips": "冬至早春于暖地近海寻找叶背银白、结红果的胡颓子。"
+    }
+  },
+  "Ellobium chinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ear snail",
+    "ja": {
+      "summary": "オカミミガイ。オカミミガイ科の巻貝で、内湾や河口の塩性湿地、ヨシ原の根ぎわ、干潟の上部の泥や石の下にすむ。殻は細長い卵形で耳のような形をとり、褐色をおびる。陸生に近い貝で、空気呼吸する。塩性湿地の環境の指標にもなり、近年は生息地の減少で少なくなっている。",
+      "habitat_hint": "内湾や河口の塩性湿地、ヨシ原の根ぎわ、干潟の上部の泥や石の下。",
+      "finding_tips": "干潮時、河口の塩性湿地やヨシ原の根ぎわで、耳のような形の細長い褐色の巻貝を探します。"
+    },
+    "en": {
+      "summary": "Oka-mimigai, an ear snail (Ellobium chinense). A snail of the Ellobiidae living in salt marshes, at reed bases and under mud and stones in the upper tidal flats of bays and estuaries; the elongate egg-shaped, ear-like shell is brownish. A near-terrestrial, air-breathing snail, it indicates salt-marsh conditions and has declined with habitat loss.",
+      "habitat_hint": "Salt marshes of bays and estuaries, reed bases, upper tidal-flat mud and under stones.",
+      "finding_tips": "At low tide in estuarine salt marshes and at reed bases look for the elongate, ear-shaped brownish snail."
+    },
+    "zh": {
+      "summary": "中国耳螺（オカミミガイ，Ellobium chinense）。耳螺科螺类，栖于内湾及河口盐沼、芦苇根际及滩涂上部泥石下；壳细长卵形似耳、带褐色，近陆生、行空气呼吸，为盐沼环境指标，近年因生境减少而稀少。",
+      "habitat_hint": "内湾及河口盐沼、芦苇根际、滩涂上部泥石下。",
+      "finding_tips": "退潮时于河口盐沼及芦苇根际寻找耳形细长的褐色螺。"
+    }
+  },
+  "Engina menkeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ゴマフホラダマシ。エゾバイ科（またはホラダマシの仲間）の小さな巻貝で、暖かい海の岩礁海岸の潮間帯の岩やその下、転石帯にすむ。殻は紡錘形で厚く、白っぽい地に黒褐色のごま（斑点）状の模様が入るのが名の由来。肉食性で、小さな動物を食べる。",
+      "habitat_hint": "暖かい海の岩礁海岸の潮間帯、岩の下、転石帯。",
+      "finding_tips": "干潮時、暖地の磯の岩やその下で、白っぽい地に黒褐色のごま状の斑がある小さな紡錘形の巻貝を探します。"
+    },
+    "en": {
+      "summary": "Gomafu-horadamashi (Engina menkeana), a dove snail. A small snail of the Buccinidae (or dove-snail group) living on rocky-shore intertidal rock, under rock and in cobble beds in warm seas; the thick spindle-shaped shell is whitish with black-brown sesame-like spots, source of the name. It is carnivorous, feeding on small animals.",
+      "habitat_hint": "Warm-sea rocky-shore intertidal, under rock, cobble beds.",
+      "finding_tips": "At low tide on warm-region rocky shores look on and under rock for the small spindle-shaped whitish snail with black-brown sesame spots."
+    },
+    "zh": {
+      "summary": "ゴマフホラダマシ（Engina menkeana）。蛾螺科（或织纹螺近类）小型螺，栖于暖海岩礁海岸潮间带岩面、岩下及卵石带；壳纺锤形而厚，偏白具黑褐芝麻状斑（故名），肉食，取食小动物。",
+      "habitat_hint": "暖海岩礁海岸潮间带、岩下、卵石带。",
+      "finding_tips": "退潮时于暖地岩礁岩面及岩下寻找偏白、具黑褐芝麻斑的小型纺锤螺。"
+    }
+  },
+  "Entoloma clypeatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shield pinkgill",
+    "ja": {
+      "summary": "シメジモドキ。イッポンシメジ科のきのこで、春、バラ科の樹木（ウメ・サクラ・ボケ・ナシなど）の下の地上に群生する。傘は灰褐色で、ひだはやがて肉色（ピンク色）を帯びる。食用にされるが、有毒のイッポンシメジ類とよく似るため、確実な同定ができなければ食べない。",
+      "habitat_hint": "春、ウメ・サクラ・ボケ・ナシなどバラ科の樹木の下の地上。",
+      "finding_tips": "4〜5月、バラ科の木の下で灰褐色の傘と、肉色を帯びるひだのきのこを探します。毒きのこと紛らわしいので注意。"
+    },
+    "en": {
+      "summary": "Shimeji-modoki, the shield pinkgill (Entoloma clypeatum). A mushroom of the Entolomataceae fruiting gregariously in spring on the ground under rose-family trees (plum, cherry, quince, pear); the grey-brown cap sits above gills that turn flesh-pink. It is eaten but closely resembles poisonous Entoloma species, so do not eat without certain identification.",
+      "habitat_hint": "Spring, ground under rose-family trees (plum, cherry, quince, pear).",
+      "finding_tips": "In April–May under rose-family trees look for the grey-brown cap with gills turning flesh-pink; take care, it resembles poisonous species."
+    },
+    "zh": {
+      "summary": "シメジモドキ（Entoloma clypeatum）。粉褶菌科真菌，春季群生于蔷薇科树木（梅、樱、木瓜、梨等）下地面；菌盖灰褐，菌褶渐带肉粉色，可食但极似有毒粉褶菌类，未确切鉴定勿食。",
+      "habitat_hint": "春季，梅、樱、木瓜、梨等蔷薇科树下地面。",
+      "finding_tips": "4 至 5 月于蔷薇科树下寻找灰褐盖、菌褶带肉粉色的菌；似毒菌须谨慎。"
+    }
+  },
+  "Epilobium hornemannii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマアカバナ。アカバナ科アカバナ属の多年草で、高山や亜高山の湿った草地、沢沿い、雪田周辺、湿った礫地に生える。細い茎に対生の葉をつけ、夏、淡紅紫色〜白の小さな4弁の花を咲かせる。花弁の先が浅く2裂する。北方系・高山性の小さな草。",
+      "habitat_hint": "高山や亜高山の湿った草地、沢沿い、雪田周辺、湿った礫地。",
+      "finding_tips": "7〜8月、高山の湿った草地や沢沿いで淡紅紫色の先が2裂した小さな4弁花を探します。"
+    },
+    "en": {
+      "summary": "Miyama-akabana, Hornemann's willowherb (Epilobium hornemannii). A perennial of the evening-primrose family growing in damp alpine and subalpine grassland, streamsides, snow-patch margins and damp gravel; slender stems bear opposite leaves and, in summer, small pale purple-pink to white four-petalled flowers with notched petal tips. A small northern, alpine plant.",
+      "habitat_hint": "Alpine and subalpine damp grassland, streamsides, snow-patch margins, damp gravel.",
+      "finding_tips": "In July–August in damp alpine grassland and streamsides look for the small pale purple-pink four-petalled flowers with notched tips."
+    },
+    "zh": {
+      "summary": "ミヤマアカバナ（Epilobium hornemannii）。柳叶菜科柳叶菜属多年生草本，生于高山及亚高山湿润草地、沟谷、雪田周边及湿润砾地；细茎对生叶，夏开淡紫红至白色四瓣小花、瓣端浅二裂，为北方高山小草。",
+      "habitat_hint": "高山及亚高山湿润草地、沟谷、雪田周边、湿润砾地。",
+      "finding_tips": "7 至 8 月于高山湿润草地及沟谷寻找淡紫红、瓣端二裂的四瓣小花。"
+    }
+  },
+  "Euphorbia chamaesyce": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prostrate sandmat",
+    "ja": {
+      "summary": "アレチニシキソウ。トウダイグサ科トウダイグサ属（ニシキソウの仲間）の一年草で、地中海地方などの原産の帰化植物。道ばたや荒れ地、畑、砂地、舗装の割れ目に生える。茎は赤みをおびて地表を放射状に這い、小さな対生の葉をつける。傷つけると白い乳液が出る。夏〜秋、ごく小さな花をつける。",
+      "habitat_hint": "道ばた、荒れ地、畑、砂地、舗装の割れ目、造成地。",
+      "finding_tips": "夏〜秋、道ばたや舗装の割れ目で地表を放射状に這う赤みのある茎と、小さな対生の葉を探します。傷つくと白い乳液。"
+    },
+    "en": {
+      "summary": "Arechi-nishikisō, the prostrate sandmat (Euphorbia chamaesyce). An annual of the spurge family native to the Mediterranean and elsewhere, naturalized on roadsides, waste ground, fields, sand and pavement cracks; the reddish stems creep radially over the ground with small opposite leaves, exuding white latex when cut. It bears tiny flowers in summer to autumn.",
+      "habitat_hint": "Roadsides, waste ground, fields, sand, pavement cracks, developed sites.",
+      "finding_tips": "From summer to autumn on roadsides and pavement cracks look for the reddish stems creeping radially with small opposite leaves and white latex."
+    },
+    "zh": {
+      "summary": "アレチニシキソウ（Euphorbia chamaesyce）。大戟科大戟属（地锦类）一年生草本，原产地中海等地，归化于路旁、荒地、农田、沙地及铺装缝隙；茎带红、辐射状匍匐地面，小叶对生，伤流白色乳汁，夏至秋生极小花。",
+      "habitat_hint": "路旁、荒地、农田、沙地、铺装缝隙、造地。",
+      "finding_tips": "夏至秋于路旁及铺装缝隙寻找带红辐射匍匐茎及对生小叶，伤流白汁。"
+    }
+  },
+  "Evernia esorediosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマヒコノリ。ウメノキゴケ科の樹枝状〜ひも状の地衣で、山地〜亜高山の樹幹や枝に垂れ下がるように、または広がって着生する。淡黄緑色〜灰緑色で、平たく枝分かれしたひも状の体をもつ。空気のきれいな環境を好み、その指標とされる。",
+      "habitat_hint": "山地〜亜高山の樹幹、枝、林縁の木。",
+      "finding_tips": "一年中、山地の樹幹や枝で淡黄緑色の平たくひも状に枝分かれして垂れ下がる地衣を探します。"
+    },
+    "en": {
+      "summary": "Yama-hikonori (Evernia esorediosa), a fruticose lichen. A shrubby to strap-like lichen of the Parmeliaceae growing on tree trunks and branches in montane to subalpine zones, hanging down or spreading; it is pale yellow-green to grey-green with a flattened, branched strap-like body. It favours clean-air environments and is used as an indicator.",
+      "habitat_hint": "Montane to subalpine tree trunks, branches, edge trees.",
+      "finding_tips": "Year-round on montane trunks and branches look for the pale yellow-green flattened, strap-like branched lichen hanging down."
+    },
+    "zh": {
+      "summary": "ヤマヒコノリ（Evernia esorediosa）。梅衣科枝状至带状地衣，生于山地至亚高山树干及枝上，下垂或平展着生；体淡黄绿至灰绿，扁平分枝呈带状，喜洁净空气、为其指标。",
+      "habitat_hint": "山地至亚高山树干、枝、林缘树木。",
+      "finding_tips": "全年于山地树干枝条寻找淡黄绿、扁平带状分枝下垂的地衣。"
+    }
+  },
+  "Frullania kagoshimensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カゴシマヤスデゴケ。ヤスデゴケ科の小さな苔類で、暖地の樹幹や枝、岩の表面に赤褐色〜暗褐色のマット状に張りつくように生える。葉の一部が袋状（水をためる嚢）になる。鹿児島（かごしま）にちなむ名で、暖地の樹皮に着生する微小な苔。",
+      "habitat_hint": "暖地の樹幹、枝、岩の表面、照葉樹の木。",
+      "finding_tips": "一年中、暖地の樹幹や枝で赤褐色〜暗褐色の薄いマット状に張りつく微小な苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kagoshima-yasude-goke (Frullania kagoshimensis), a leafy liverwort. A small leafy liverwort forming reddish-brown to dark-brown mats pressed onto tree trunks, branches and rock surfaces in warm regions; part of each leaf is a water-holding sac. Named for Kagoshima, it is a minute bark-dwelling liverwort of warm regions.",
+      "habitat_hint": "Warm-region tree trunks, branches, rock surfaces, evergreen trees.",
+      "finding_tips": "Year-round on warm-region trunks and branches use a lens to find the thin reddish-brown to dark-brown mats pressed onto the bark."
+    },
+    "zh": {
+      "summary": "カゴシマヤスデゴケ（Frullania kagoshimensis）。耳叶苔科小型苔类，于暖地树干、枝及岩面贴生成红褐至暗褐垫状；叶部分特化为储水囊，因鹿儿岛得名，为暖地附树皮的微小苔。",
+      "habitat_hint": "暖地树干、枝条、岩面、照叶树木。",
+      "finding_tips": "全年于暖地树干枝条用放大镜寻找贴生的红褐至暗褐薄垫状微小苔。"
+    }
+  },
+  "Frullania usamiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウサミヤスデゴケ。ヤスデゴケ科の小さな苔類で、樹幹や枝、岩の表面に赤褐色〜暗褐色のマット状に張りつくように生える。葉の一部が袋状（水をためる嚢）になるのが特徴。樹皮に着生する微小な苔で、乾くと赤褐色が目立つ。",
+      "habitat_hint": "樹幹、枝、岩の表面、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹や枝で赤褐色〜暗褐色の薄いマット状に張りつく微小な苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Usami-yasude-goke (Frullania usamiensis), a leafy liverwort. A small leafy liverwort forming reddish-brown to dark-brown mats pressed onto tree trunks, branches and rock surfaces; part of each leaf is modified into a water-holding sac. A minute bark-dwelling liverwort, its reddish-brown colour stands out when dry.",
+      "habitat_hint": "Tree trunks, branches, rock surfaces, park and shrine trees.",
+      "finding_tips": "Year-round on trunks and branches use a lens to find the thin reddish-brown to dark-brown mats pressed onto the bark."
+    },
+    "zh": {
+      "summary": "ウサミヤスデゴケ（Frullania usamiensis）。耳叶苔科小型苔类，于树干、枝及岩面贴生成红褐至暗褐垫状；叶部分特化为储水囊，为附树皮的微小苔，干时红褐色显著。",
+      "habitat_hint": "树干、枝条、岩面、公园及神社寺庙树木。",
+      "finding_tips": "全年于树干枝条用放大镜寻找贴生的红褐至暗褐薄垫状微小苔。"
+    }
+  },
+  "Ganoderma carnosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マゴジャクシ。マンネンタケ科のきのこ（多孔菌）で、モミやツガなど針葉樹の切り株や倒木、根ぎわに発生する。マンネンタケ（霊芝）に似て、傘は光沢のある赤褐色〜黒褐色でニス状のつやがあり、長い柄をもつ。かたい木質で、針葉樹材を分解する。名は「孫の霊芝」の意。",
+      "habitat_hint": "モミ・ツガなど針葉樹の切り株、倒木、根ぎわ。",
+      "finding_tips": "夏〜秋、針葉樹の切り株や根ぎわで、光沢のある赤褐色の傘と長い柄をもつ霊芝状の硬いきのこを探します。"
+    },
+    "en": {
+      "summary": "Magojakushi (Ganoderma carnosum). A polypore of the Ganodermataceae fruiting on stumps, logs and root bases of conifers such as fir and hemlock; like the reishi (lingzhi), the cap is glossy reddish-brown to blackish-brown with a varnished sheen and it has a long stalk. Hard and woody, it decomposes conifer wood. The name means 'reishi's grandchild'.",
+      "habitat_hint": "Stumps, logs and root bases of conifers (fir, hemlock).",
+      "finding_tips": "From summer to autumn on conifer stumps and root bases look for the reishi-like hard fungus with a glossy reddish-brown cap and long stalk."
+    },
+    "zh": {
+      "summary": "マゴジャクシ（Ganoderma carnosum）。灵芝科真菌，生于冷杉、铁杉等针叶树桩、倒木及根际；似灵芝，菌盖红褐至黑褐、具漆样光泽，具长柄，硬木质，分解针叶材，名意为“灵芝之孙”。",
+      "habitat_hint": "冷杉、铁杉等针叶树桩、倒木、根际。",
+      "finding_tips": "夏至秋于针叶树桩及根际寻找红褐光泽盖、具长柄的灵芝状硬菌。"
+    }
+  },
+  "Geum pentapetalum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤエチングルマ（チングルマの八重咲き型）。バラ科チングルマ属の落葉小低木で、高山や亜高山の雪田周辺や湿った草地、礫地に群生する。チングルマの八重咲きとされる型で、初夏、白い花を咲かせる。花のあと、羽毛状の長い毛をもつ果実の集まりが風車のように見える。地を這う木本。",
+      "habitat_hint": "高山や亜高山の雪田周辺、湿った草地、礫地、風衝地。",
+      "finding_tips": "6〜8月、高山の雪田周辺で白い花と、花後の羽毛状の毛をもつ風車状の果実の集まりを探します。"
+    },
+    "en": {
+      "summary": "Yae-chinguruma (Geum pentapetalum). A deciduous dwarf shrub of the rose family growing gregariously around snow-patch margins, damp grassland and gravel in alpine and subalpine zones, regarded as a double-flowered form of chinguruma; in early summer it bears white flowers, and after flowering the heads of long feathery-plumed fruits look like little windmills. A ground-hugging woody plant.",
+      "habitat_hint": "Alpine and subalpine snow-patch margins, damp grassland, gravel, wind-swept ground.",
+      "finding_tips": "From June to August around alpine snow-patch margins look for the white flowers and the windmill-like heads of feathery-plumed fruits."
+    },
+    "zh": {
+      "summary": "ヤエチングルマ（Geum pentapetalum）。蔷薇科水杨梅属落叶矮灌木，成片生于高山及亚高山雪田周边、湿润草地及砾地，被视为稚儿车的重瓣型；初夏开白花，花后羽状长毛果序如风车，为贴地木本。",
+      "habitat_hint": "高山及亚高山雪田周边、湿润草地、砾地、当风地。",
+      "finding_tips": "6 至 8 月于高山雪田周边寻找白花及花后羽毛状风车状果序。"
+    }
+  },
+  "Glaucidium palmatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese wood poppy",
+    "ja": {
+      "summary": "シラネアオイ。日本固有の一属一種の多年草（シラネアオイ科）で、山地〜亜高山の湿った林床や谷沿い、雪の多い斜面に生える。手のひら状に大きく切れ込む葉をつけ、春〜初夏、淡紫色〜青紫色の大きな花を一つ咲かせる。花びらに見えるのは4枚のがく片。日光白根山にちなむ名。",
+      "habitat_hint": "山地〜亜高山の湿った林床、谷沿い、雪の多い斜面、林縁。",
+      "finding_tips": "5〜7月、山地の湿った林床で手のひら状の大きな葉と、淡紫色〜青紫色の大きな一輪の花を探します。"
+    },
+    "en": {
+      "summary": "Shirane-aoi, the Japanese wood poppy (Glaucidium palmatum). A perennial endemic to Japan and the sole species of its family, growing on damp montane to subalpine forest floor, valleys and snowy slopes; it has large palmately cut leaves and, in spring to early summer, a single large pale-purple to blue-purple flower, whose 'petals' are four sepals. Named for Mt Nikkō-Shirane.",
+      "habitat_hint": "Montane to subalpine damp forest floor, valleys, snowy slopes, edges.",
+      "finding_tips": "From May to July on damp montane forest floor look for the large palmately cut leaves and single large pale-purple to blue-purple flower."
+    },
+    "zh": {
+      "summary": "白根葵（シラネアオイ，Glaucidium palmatum）。日本特有的一属一种多年生草本（白根葵科），生于山地至亚高山湿润林床、谷地及多雪坡；叶掌状大裂，春至初夏单生淡紫至青紫色大花，似花瓣者为四枚萼片，因日光白根山得名。",
+      "habitat_hint": "山地至亚高山湿润林床、谷地、多雪坡、林缘。",
+      "finding_tips": "5 至 7 月于山地湿润林床寻找掌状大裂叶及淡紫至青紫色单生大花。"
+    }
+  },
+  "Goniobranchus geometricus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キカモヨウウミウシ。イロウミウシ科のウミウシ（後鰓類）で、暖かい海の岩礁やサンゴ礁、潮下帯に見られる。体は白っぽい地に、網目状〜幾何学模様（きか模様）の緑褐色の線が走り、縁が色どられるのが名の由来。海綿を食べる。ダイビングでよく観察される。",
+      "habitat_hint": "暖かい海の岩礁、サンゴ礁、潮下帯の岩の上。",
+      "finding_tips": "潮下帯の岩やサンゴ礁で、白っぽい地に網目状の幾何学模様のあるウミウシを探します。"
+    },
+    "en": {
+      "summary": "Kika-moyō-umiushi (Goniobranchus geometricus), a nudibranch. A sea slug of the Chromodorididae found on rocky and coral reefs and the subtidal of warm seas; the whitish body is patterned with net-like, geometric green-brown lines and a coloured margin, source of the name. It feeds on sponges and is often seen while diving.",
+      "habitat_hint": "Warm-sea rocky and coral reefs, subtidal rock.",
+      "finding_tips": "On subtidal rock and coral reefs look for the whitish nudibranch patterned with net-like geometric green-brown lines."
+    },
+    "zh": {
+      "summary": "キカモヨウウミウシ（Goniobranchus geometricus）。多彩海蛞蝓科海蛞蝓（后鳃类），见于暖海岩礁、珊瑚礁及潮下带；体偏白，具网状几何图案的绿褐色线纹、边缘着色（故名），取食海绵，潜水常见。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮下带岩上。",
+      "finding_tips": "于潮下带岩及珊瑚礁寻找偏白、具网状几何绿褐线纹的海蛞蝓。"
+    }
+  },
+  "Gymnodoris alba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカボシウミウシ。ウミウシ（後鰓類）の一種で、暖かい海の岩礁やサンゴ礁、潮下帯に見られる。体は白っぽく半透明で、体表に橙〜赤色の小さな斑（赤星）が散らばるのが名の由来。他のウミウシを襲って食べる肉食性のウミウシとして知られる。ダイビングで観察される。",
+      "habitat_hint": "暖かい海の岩礁、サンゴ礁、潮下帯の岩の上。",
+      "finding_tips": "潮下帯の岩やサンゴ礁で、白っぽく半透明で橙〜赤色の小斑を散らすウミウシを探します。"
+    },
+    "en": {
+      "summary": "Akaboshi-umiushi (Gymnodoris alba), a nudibranch. A sea slug found on rocky and coral reefs and the subtidal of warm seas; the whitish, translucent body is scattered with small orange to red spots, source of the name. It is known as a predatory nudibranch that attacks and eats other sea slugs, and is seen while diving.",
+      "habitat_hint": "Warm-sea rocky and coral reefs, subtidal rock.",
+      "finding_tips": "On subtidal rock and coral reefs look for the whitish, translucent nudibranch scattered with small orange to red spots."
+    },
+    "zh": {
+      "summary": "アカボシウミウシ（Gymnodoris alba）。海蛞蝓（后鳃类）之一，见于暖海岩礁、珊瑚礁及潮下带；体偏白半透明，体表散布橙至红色小斑（故名），为捕食其他海蛞蝓的肉食性种，潜水可见。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮下带岩上。",
+      "finding_tips": "于潮下带岩及珊瑚礁寻找偏白半透明、散布橙红小斑的海蛞蝓。"
+    }
+  },
+  "Gymnopilus liquiritiae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャツムタケ。ヒメノガステル科（フウセンタケの仲間）のきのこで、夏〜秋、針葉樹や広葉樹の枯れ木、切り株、倒木に群生する。傘は黄褐色〜橙褐色で、ひだも黄色っぽく、成熟すると胞子で錆色をおびる。苦味があり、食用にはしない。木材を分解する腐生菌。",
+      "habitat_hint": "夏〜秋、針葉樹や広葉樹の枯れ木、切り株、倒木。",
+      "finding_tips": "夏〜秋、枯れ木や切り株で黄褐色〜橙褐色の傘と黄色いひだのきのこの群生を探します。苦味があり食用にしない。"
+    },
+    "en": {
+      "summary": "Chatsumu-take (Gymnopilus liquiritiae), a rustgill. A mushroom of the Hymenogastraceae (a webcap relative) fruiting gregariously on dead wood, stumps and logs of conifers and broadleaf trees in summer to autumn; the cap is yellow-brown to orange-brown and the gills yellowish, becoming rust-coloured with spores at maturity. It is bitter and not eaten; a wood-decomposing saprotroph.",
+      "habitat_hint": "Summer to autumn, dead wood, stumps and logs of conifers and broadleaf trees.",
+      "finding_tips": "From summer to autumn on dead wood and stumps look for the yellow-brown to orange-brown cap with yellowish gills; bitter, not eaten."
+    },
+    "zh": {
+      "summary": "チャツムタケ（Gymnopilus liquiritiae）。丝盖伞近类（滑锈伞科）真菌，夏至秋群生于针叶及阔叶树枯木、树桩及倒木；菌盖黄褐至橙褐，菌褶偏黄，成熟被孢子染锈色，味苦、不食，为木材腐生菌。",
+      "habitat_hint": "夏至秋，针叶及阔叶树枯木、树桩、倒木。",
+      "finding_tips": "夏至秋于枯木树桩寻找黄褐至橙褐盖、黄色菌褶的丛生菌；味苦勿食。"
+    }
+  },
+  "Harpalus bungii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "マルガタゴモクムシ。オサムシ科（ゴミムシの仲間）の甲虫で、日当たりのよい草地、畑、河原、道ばたに見られる。体は丸みをおびた卵形で黒く、やや光沢がある。地表を歩き、植物の種子や小さな虫を食べる。夜行性で、灯火にも集まる。",
+      "habitat_hint": "日当たりのよい草地、畑、河原、道ばた、堤防。",
+      "finding_tips": "春〜秋、草地や畑の地表で丸っこく黒いゴモクムシを探します。夜は灯火にも来ます。"
+    },
+    "en": {
+      "summary": "Marugata-gomokumushi (Harpalus bungii), a ground beetle. A ground beetle of sunny grassland, fields, riverbanks and roadsides; the rounded oval body is black and somewhat glossy. It walks over the ground eating plant seeds and small insects, and is nocturnal, coming to lights.",
+      "habitat_hint": "Sunny grassland, fields, riverbanks, roadsides, embankments.",
+      "finding_tips": "From spring to autumn on the ground in grassland and fields look for the rounded black ground beetle; it comes to lights at night."
+    },
+    "zh": {
+      "summary": "棒婪步甲（マルガタゴモクムシ，Harpalus bungii）。步甲科甲虫，见于向阳草地、农田、河滩及路旁；体卵圆而黑、略具光泽，于地表爬行取食植物种子及小虫，夜行趋光。",
+      "habitat_hint": "向阳草地、农田、河滩、路旁、堤岸。",
+      "finding_tips": "春至秋于草地农田地表寻找圆润黑色的婪步甲，夜间趋光。"
+    }
+  },
+  "Harpalus corporosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヒロゴモクムシ。オサムシ科（ゴミムシの仲間）の甲虫で、日当たりのよい草地、畑、河原、道ばたに見られる。体はやや幅広い卵形で黒く、光沢がある。地表を歩き、植物の種子や小さな虫を食べる。夜行性で、灯火にも集まる。",
+      "habitat_hint": "日当たりのよい草地、畑、河原、道ばた、堤防。",
+      "finding_tips": "春〜秋、草地や畑の地表で幅広く黒いゴモクムシを探します。夜は灯火にも来ます。"
+    },
+    "en": {
+      "summary": "Hiro-gomokumushi (Harpalus corporosus), a ground beetle. A ground beetle of sunny grassland, fields, riverbanks and roadsides; the rather broad oval body is black and glossy. It walks over the ground eating plant seeds and small insects, and is nocturnal, coming to lights.",
+      "habitat_hint": "Sunny grassland, fields, riverbanks, roadsides, embankments.",
+      "finding_tips": "From spring to autumn on the ground in grassland and fields look for the broad, glossy black ground beetle; it comes to lights at night."
+    },
+    "zh": {
+      "summary": "直角婪步甲（ヒロゴモクムシ，Harpalus corporosus）。步甲科甲虫，见于向阳草地、农田、河滩及路旁；体较宽卵圆而黑、有光泽，于地表爬行取食植物种子及小虫，夜行趋光。",
+      "habitat_hint": "向阳草地、农田、河滩、路旁、堤岸。",
+      "finding_tips": "春至秋于草地农田地表寻找较宽、黑亮的婪步甲，夜间趋光。"
+    }
+  },
+  "Herminia innocens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シラナミアツバ。ヤガ科アツバの仲間のガで、平地〜山地の雑木林や林縁に見られる。翅は褐色で、白っぽい波状の線（白波）が走るのが名の由来。幼虫は落ち葉や枯れ葉を食べる。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、樹林。",
+      "finding_tips": "夏、灯火で褐色に白っぽい波状の線のあるアツバを探します。"
+    },
+    "en": {
+      "summary": "Shiranami-atsuba (Herminia innocens), a litter moth. A litter moth (Herminiinae) of lowland to montane secondary woodland and edges; the wings are brown with whitish wavy lines (white waves), source of the name. The larva feeds on fallen and dead leaves, and adults come to lights at night; small and inconspicuous.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, forest.",
+      "finding_tips": "In summer look at lights for the brown litter moth with whitish wavy lines."
+    },
+    "zh": {
+      "summary": "シラナミアツバ（Herminia innocens）。夜蛾科的一种蛾，见于平地至山地杂木林及林缘；翅褐色、具偏白波状线（白波，故名），幼虫食落叶枯叶，成虫夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地杂木林、林缘、林地。",
+      "finding_tips": "夏于灯下寻找褐色、具偏白波状线的蛾。"
+    }
+  },
+  "Herminia tarsipennalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fan-foot",
+    "ja": {
+      "summary": "ヒメコブヒゲアツバ。ヤガ科アツバの仲間のガで、平地〜山地の雑木林や林縁に見られる。翅は灰褐色で、細い横線が走る。オスの触角にこぶ状のふくらみがあるものが多い。幼虫は落ち葉や枯れ葉を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、樹林。",
+      "finding_tips": "夏、灯火で灰褐色に細い横線のあるアツバを探します。"
+    },
+    "en": {
+      "summary": "Hime-kobu-hige-atsuba, the fan-foot (Herminia tarsipennalis). A litter moth (Herminiinae) of lowland to montane secondary woodland and edges; the wings are grey-brown with fine cross-lines, and the male antennae often have a knob-like swelling. The larva feeds on fallen and dead leaves, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, forest.",
+      "finding_tips": "In summer look at lights for the grey-brown litter moth with fine cross-lines."
+    },
+    "zh": {
+      "summary": "ヒメコブヒゲアツバ（Herminia tarsipennalis）。夜蛾科的一种蛾，见于平地至山地杂木林及林缘；翅灰褐、具细横线，雄触角多具瘤状膨大，幼虫食落叶枯叶，成虫夜间趋光。",
+      "habitat_hint": "平地至山地杂木林、林缘、林地。",
+      "finding_tips": "夏于灯下寻找灰褐、具细横线的蛾。"
+    }
+  },
+  "Heterodermia obscurata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キウラゲジゲジゴケ。ムカデゴケ科の葉状地衣で、樹幹や枝、岩に灰白色〜灰緑色のマット状に張りつく。葉状体は細く裂けて縁がゲジゲジ（毛のような裂片）状に伸び、裏面が黄色っぽいのが名の由来（黄裏）。低地〜山地の樹皮や岩に着生する。",
+      "habitat_hint": "樹幹、枝、岩、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹や岩で灰白色〜灰緑色で縁がゲジゲジ状に裂け、裏が黄色っぽい葉状の地衣を探します。"
+    },
+    "en": {
+      "summary": "Kiura-gejigeji-goke (Heterodermia obscurata), a foliose lichen. A foliose lichen of the Physciaceae pressed onto tree trunks, branches and rock as grey-white to grey-green mats; the thallus divides into narrow lobes with hair-like marginal cilia and a yellowish underside, source of the Japanese name ('yellow-backed'). It grows on bark and rock in lowland to montane areas.",
+      "habitat_hint": "Tree trunks, branches, rock, park and shrine trees.",
+      "finding_tips": "Year-round on trunks and rock look for the grey-white to grey-green foliose lichen with hair-like marginal cilia and a yellowish underside."
+    },
+    "zh": {
+      "summary": "キウラゲジゲジゴケ（Heterodermia obscurata）。蜈蚣衣科叶状地衣，贴生于树干、枝及岩石成灰白至灰绿垫状；叶状体细裂、边缘生毛状裂片（如蜈蚣），背面偏黄（故名黄背），生于低地至山地树皮及岩石。",
+      "habitat_hint": "树干、枝条、岩石、公园及神社寺庙树木。",
+      "finding_tips": "全年于树干及岩石寻找灰白至灰绿、边缘毛状裂片、背面偏黄的叶状地衣。"
+    }
   }
 }
