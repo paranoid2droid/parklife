@@ -232483,5 +232483,475 @@
       "habitat_hint": "树干下部、岩石、混凝土、石墙、公园树木。",
       "finding_tips": "全年用放大镜于树干下部及石墙寻找绿至黄绿薄垫状微小藓。"
     }
+  },
+  "Favolus acervatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スジウチワタケモドキ。タマチョレイタケ科のきのこ（多孔菌）で、夏〜秋、広葉樹の枯れ枝や倒木に群生する。半円形〜うちわ形の薄い傘をつけ、淡黄褐色で、裏面の管孔が放射状にのびる（すじ状）。木材を分解する腐朽菌。",
+      "habitat_hint": "夏〜秋、広葉樹の枯れ枝、倒木、切り株。",
+      "finding_tips": "夏〜秋、広葉樹の枯れ枝でうちわ形の薄い傘と、放射状にのびる管孔を探します。"
+    },
+    "en": {
+      "summary": "Suji-uchiwatake-modoki (Favolus acervatus). A polypore of the Polyporaceae fruiting gregariously on dead branches and logs of broadleaf trees in summer to autumn; it forms thin semicircular to fan-shaped pale yellow-brown caps, with radially elongated (striate) pores beneath. It is a wood-decay fungus.",
+      "habitat_hint": "Summer to autumn, dead broadleaf branches, logs, stumps.",
+      "finding_tips": "From summer to autumn look on dead broadleaf branches for the thin fan-shaped caps with radially elongated pores."
+    },
+    "zh": {
+      "summary": "聚生棱孔菌（スジウチワタケモドキ，Favolus acervatus）。多孔菌科真菌，夏至秋群生于阔叶树枯枝及倒木；盖薄、半圆至扇形、淡黄褐，背面菌管放射状延长（棱状），为木材腐朽菌。",
+      "habitat_hint": "夏至秋，阔叶树枯枝、倒木、树桩。",
+      "finding_tips": "夏至秋于阔叶枯枝寻找扇形薄盖及放射状延长的菌管。"
+    }
+  },
+  "Fejervarya limnocharis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rice-field frog",
+    "aliases": {
+      "zh-Hans": "泽陆蛙"
+    },
+    "ja": {
+      "summary": "ジャワヌマガエル。アカガエルに近いヌマガエル科のカエルで、水田や休耕田、湿地、水路、池のふちに生息する。体は褐色〜灰褐色で、背に暗色の斑やすじがある。田んぼに普通に見られ、夜によく鳴く。西日本や南日本に分布を広げている。",
+      "habitat_hint": "水田、休耕田、湿地、水路、池のふち、湿った草地。",
+      "finding_tips": "初夏〜夏、水田や湿地の水際で褐色の小さなカエルを探します。夜に鳴き声がよく聞こえます。"
+    },
+    "en": {
+      "summary": "Java-numagaeru, the rice-field frog (Fejervarya limnocharis). A frog of the Dicroglossidae living in paddies, fallow paddies, wetlands, channels and pond margins; the body is brown to grey-brown with dark spots and stripes on the back. Common in rice fields, it calls often at night and is expanding in western and southern Japan.",
+      "habitat_hint": "Paddies, fallow paddies, wetlands, channels, pond margins, damp grassland.",
+      "finding_tips": "From early summer to summer look at the water's edge in paddies and wetlands for the small brown frog; it calls loudly at night."
+    },
+    "zh": {
+      "summary": "泽陆蛙（ジャワヌマガエル，Fejervarya limnocharis）。叉舌蛙科蛙类，栖于稻田、休耕田、湿地、水渠及池边；体褐至灰褐，背具暗斑与纵纹，稻田常见，夜多鸣叫，在西南日本扩展。",
+      "habitat_hint": "稻田、休耕田、湿地、水渠、池边、湿润草地。",
+      "finding_tips": "初夏至夏于稻田湿地水际寻找褐色小蛙，夜间鸣声易闻。"
+    }
+  },
+  "Fissidens geminiflorus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガサキホウオウゴケ。ホウオウゴケ科の蘚類で、湿った土や岩、渓流沿いの岩上に生える。葉が茎の両側に二列に平らに並び、鳳凰（ほうおう）の羽のように見えるのが特徴。緑〜濃緑色で、湿った日陰に群生する。",
+      "habitat_hint": "湿った土、岩、渓流沿いの岩上、林床の日陰。",
+      "finding_tips": "一年中、湿った岩や土で葉が二列に平らに並び鳳凰の羽状に見える蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Nagasaki-hōō-goke (Fissidens geminiflorus), a pocket moss. A moss of the Fissidentaceae growing on damp soil, rock and streamside boulders; the leaves lie flat in two rows along the stem, looking like a phoenix's feather. It is green to dark-green and grows gregariously in damp shade.",
+      "habitat_hint": "Damp soil, rock, streamside boulders, shaded forest floor.",
+      "finding_tips": "Year-round use a lens on damp rock and soil to find the moss with flat two-ranked leaves like a phoenix feather."
+    },
+    "zh": {
+      "summary": "二形凤尾藓（ナガサキホウオウゴケ，Fissidens geminiflorus）。凤尾藓科藓类，生于湿润土、岩石及溪流沿岸岩上；叶沿茎两侧二列平展，形似凤羽，体绿至深绿，于湿荫处成片。",
+      "habitat_hint": "湿润土、岩石、溪流沿岸岩上、林床荫处。",
+      "finding_tips": "全年用放大镜于湿润岩土寻找叶二列平展如凤羽的藓。"
+    }
+  },
+  "Fritillaria koidzumiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コシノコバイモ。ユリ科バイモ属の小さな多年草で、山地の落葉樹林の林床や林縁に生える。早春、細い茎の先に淡黄緑色〜白っぽい鐘状の花を一つ下向きに咲かせ、内側に網目や暗色の模様がある。越後（コシ）地方などに分布する春の妖精（スプリング・エフェメラル）。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った斜面。",
+      "finding_tips": "3〜4月、山地の落葉樹林の林床で下向きに咲く淡黄緑色の小さな鐘状の花を探します。"
+    },
+    "en": {
+      "summary": "Koshino-kobaimo (Fritillaria koidzumiana). A small perennial fritillary of montane deciduous-forest floor and edges; in early spring a slender stem bears a single nodding pale yellow-green to whitish bell-shaped flower, patterned inside with a net or dark markings. A spring ephemeral distributed in the Echigo (Koshi) region and elsewhere.",
+      "habitat_hint": "Montane deciduous-forest floor, edges, dampish slopes.",
+      "finding_tips": "In March–April look on montane deciduous-forest floor for the single nodding pale yellow-green bell-shaped flower."
+    },
+    "zh": {
+      "summary": "コシノコバイモ（Fritillaria koidzumiana）。百合科贝母属小型多年生草本，生于山地落叶林床及林缘；早春细茎顶端下垂单生淡黄绿至偏白钟状花，内具网纹或暗斑，为分布越后一带的早春短命植物。",
+      "habitat_hint": "山地落叶林床、林缘、略湿坡地。",
+      "finding_tips": "3 至 4 月于山地落叶林床寻找下垂单生的淡黄绿钟状小花。"
+    }
+  },
+  "Frullania hamatiloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カギヤスデゴケ。ヤスデゴケ科の小さな苔類で、樹幹や岩の表面に赤褐色〜暗褐色のマット状に張りつくように生える。葉の一部が袋状（水をためる嚢）になり、乾くと赤褐色が目立つ。樹皮着生の微小な苔で、都市の木でも見られる。",
+      "habitat_hint": "樹幹、枝、岩の表面、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹や枝で赤褐色〜暗褐色の薄いマット状に張りつく微小な苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kagi-yasude-goke (Frullania hamatiloba), a leafy liverwort. A small leafy liverwort forming reddish-brown to dark-brown mats pressed onto tree trunks and rock surfaces; part of each leaf is modified into a water-holding sac, and the reddish-brown colour stands out when dry. It is a minute bark-dwelling liverwort seen even on urban trees.",
+      "habitat_hint": "Tree trunks, branches, rock surfaces, park and shrine trees.",
+      "finding_tips": "Year-round use a lens on trunks and branches to find the thin reddish-brown to dark-brown mats pressed onto the bark."
+    },
+    "zh": {
+      "summary": "カギヤスデゴケ（Frullania hamatiloba）。耳叶苔科小型苔类，于树干及岩面贴生成红褐至暗褐垫状；叶部分特化为储水囊，干时红褐色显著，为附树皮微小苔，城市树木亦可见。",
+      "habitat_hint": "树干、枝条、岩面、公园及神社寺庙树木。",
+      "finding_tips": "全年用放大镜于树干枝条寻找贴生的红褐至暗褐薄垫状微小苔。"
+    }
+  },
+  "Geranium erianthum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Woolly geranium",
+    "ja": {
+      "summary": "チシマフウロ。フウロソウ科フウロソウ属の多年草で、北日本や高山の草地、林縁、湿った草地に生える。夏、青紫色〜淡紫色の5弁の花を咲かせ、花弁に濃い脈が入る。葉は手のひら状に深く切れ込む。北方系の植物。",
+      "habitat_hint": "北日本や高山の草地、林縁、湿った草地、風衝地。",
+      "finding_tips": "6〜8月、北日本や高山の草地で濃い脈の入る青紫色の5弁花と、手のひら状に切れ込む葉を探します。"
+    },
+    "en": {
+      "summary": "Chishima-fūro, the woolly geranium (Geranium erianthum). A perennial cranesbill of grassland, edges and damp grassland in northern Japan and the high mountains; in summer it bears blue-purple to pale-purple five-petalled flowers with strong dark veins, and the leaves are deeply palmately cut. It is a northern species.",
+      "habitat_hint": "Northern-Japan and alpine grassland, edges, damp grassland, wind-swept ground.",
+      "finding_tips": "From June to August look in northern or alpine grassland for the blue-purple, dark-veined five-petalled flowers and palmately cut leaves."
+    },
+    "zh": {
+      "summary": "毛蕊老鹳草（チシマフウロ，Geranium erianthum）。牻牛儿苗科老鹳草属多年生草本，生于北日本及高山草地、林缘与湿润草地；夏开青紫至淡紫五瓣花、瓣具深脉，叶掌状深裂，为北方植物。",
+      "habitat_hint": "北日本及高山草地、林缘、湿润草地、当风地。",
+      "finding_tips": "6 至 8 月于北方或高山草地寻找具深脉的青紫五瓣花及掌状裂叶。"
+    }
+  },
+  "Geranium molle": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dovesfoot cranesbill",
+    "ja": {
+      "summary": "ヤワゲフウロ。フウロソウ科フウロソウ属の越年草で、ヨーロッパ原産の帰化植物。道ばたや畑、荒れ地、芝地に生える。全体にやわらかい毛が多く、春〜初夏に淡紅紫色の小さな5弁花を咲かせる。葉は手のひら状に切れ込む。",
+      "habitat_hint": "道ばた、畑、荒れ地、芝地、河原。",
+      "finding_tips": "4〜6月、道ばたや芝地でやわらかい毛の多い茎葉と、淡紅紫色の小さな5弁花を探します。"
+    },
+    "en": {
+      "summary": "Yawage-fūro, the dovesfoot cranesbill (Geranium molle). A biennial cranesbill native to Europe, naturalized on roadsides, fields, waste ground and lawns; the plant is softly hairy throughout and bears small pale purple-pink five-petalled flowers in spring to early summer, with palmately cut leaves.",
+      "habitat_hint": "Roadsides, fields, waste ground, lawns, riverbanks.",
+      "finding_tips": "From April to June look on roadsides and lawns for the softly hairy plant with small pale purple-pink five-petalled flowers."
+    },
+    "zh": {
+      "summary": "软毛老鹳草（ヤワゲフウロ，Geranium molle）。牻牛儿苗科老鹳草属越年生草本，原产欧洲，归化于路旁、农田、荒地及草坪；全株密被柔毛，春至初夏开淡紫红色五瓣小花，叶掌状分裂。",
+      "habitat_hint": "路旁、农田、荒地、草坪、河滩。",
+      "finding_tips": "4 至 6 月于路旁草坪寻找被柔毛的茎叶及淡紫红色五瓣小花。"
+    }
+  },
+  "Glyceria tokitana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マンゴクドジョウツナギ。イネ科ドジョウツナギ属の多年草で、山地の湿地や水辺、湿った草地、水路のふちに生える。やわらかい茎葉をもち、夏、細い枝を広げた円錐状の花序に小穂をつける。ドジョウツナギの仲間で、湿った場所を好む。",
+      "habitat_hint": "山地の湿地、水辺、湿った草地、水路のふち。",
+      "finding_tips": "夏、山地の湿地や水辺で細い枝を広げた円錐状の花序と、やわらかい茎葉のイネ科を探します。"
+    },
+    "en": {
+      "summary": "Mangoku-dojōtsunagi (Glyceria tokitana), a mannagrass. A perennial grass of the sweet-grass genus growing in montane wetlands, waterside, damp grassland and channel margins; it has soft stems and leaves and, in summer, bears spikelets in a panicle of spreading slender branches. It favours damp places.",
+      "habitat_hint": "Montane wetlands, waterside, damp grassland, channel margins.",
+      "finding_tips": "In summer look in montane wetlands and waterside for the soft grass with a panicle of spreading slender branches."
+    },
+    "zh": {
+      "summary": "マンゴクドジョウツナギ（Glyceria tokitana）。禾本科甜茅属多年生草本，生于山地湿地、水边、湿润草地及水渠边；茎叶柔软，夏于展开细枝的圆锥花序上生小穗，喜湿处。",
+      "habitat_hint": "山地湿地、水边、湿润草地、水渠边。",
+      "finding_tips": "夏于山地湿地水边寻找细枝展开圆锥花序、茎叶柔软的禾草。"
+    }
+  },
+  "Herbertia lahue": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チリアヤメ。アヤメ科の小さな多年草（球根植物）で、南アメリカ原産の帰化植物。芝地や道ばた、日当たりのよい草地に生える。春、細い葉の間から、青紫色の平らに開いた小さな花を咲かせる。花は一日でしぼむが次々と咲く。",
+      "habitat_hint": "芝地、道ばた、日当たりのよい草地、公園の芝生。",
+      "finding_tips": "4〜5月の晴れた日、芝地で青紫色の平らに開いた小さなアヤメ状の花を探します。花は昼にしぼみます。"
+    },
+    "en": {
+      "summary": "Chiri-ayame, the prairie nymph (Herbertia lahue). A small bulbous perennial of the iris family, native to South America and naturalized on lawns, roadsides and sunny grassland; in spring it opens small flat blue-purple flowers among narrow leaves. Each flower lasts a day but blooms in succession.",
+      "habitat_hint": "Lawns, roadsides, sunny grassland, park turf.",
+      "finding_tips": "On sunny days in April–May look on lawns for the small flat blue-purple iris-like flowers; each closes by afternoon."
+    },
+    "zh": {
+      "summary": "智利鸢尾（チリアヤメ，Herbertia lahue）。鸢尾科小型球根多年生草本，原产南美，归化于草坪、路旁及向阳草地；春于狭叶间开青紫色平展小花，花仅一日即闭但次第开放。",
+      "habitat_hint": "草坪、路旁、向阳草地、公园草坪。",
+      "finding_tips": "4 至 5 月晴日于草坪寻找青紫色平展的小型鸢尾状花，午后即闭。"
+    }
+  },
+  "Heterocerus fenestratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mud-loving beetle",
+    "ja": {
+      "summary": "ナガドロムシ。ドロムシに近いナガドロムシ科の小さな甲虫で、河原や池沼、干潟のふち、水辺の湿った砂泥地にすむ。体は褐色で、上翅に淡色の網状〜まだらの模様がある。前脚で泥にトンネルを掘って進む。水際の泥地で見られる。",
+      "habitat_hint": "河原、池沼のふち、干潟のふち、水辺の湿った砂泥地。",
+      "finding_tips": "春〜秋、水際の湿った砂泥地を掘ると、褐色に淡色のまだら模様のある小さな甲虫が出てきます。"
+    },
+    "en": {
+      "summary": "Nagadoromushi (Heterocerus fenestratus), a variegated mud-loving beetle. A small beetle of the Heteroceridae living on riverbanks, pond margins, tidal-flat edges and damp sandy-mud at the water's edge; the brown body has a pale net-like or mottled pattern on the elytra. It tunnels through mud with its front legs.",
+      "habitat_hint": "Riverbanks, pond margins, tidal-flat edges, damp sandy-mud at waterside.",
+      "finding_tips": "From spring to autumn dig in damp sandy-mud at the water's edge to turn up the small brown beetle with a pale mottled pattern."
+    },
+    "zh": {
+      "summary": "网纹长泥甲（ナガドロムシ，Heterocerus fenestratus）。长泥甲科小型甲虫，栖于河滩、池沼边、滩涂边缘及水际湿润砂泥地；体褐色，鞘翅具淡色网状或斑驳纹，以前足在泥中掘道。",
+      "habitat_hint": "河滩、池沼边、滩涂边缘、水际湿润砂泥地。",
+      "finding_tips": "春至秋于水际湿润砂泥地挖掘可得褐色、具淡色斑纹的小甲虫。"
+    }
+  },
+  "Hieracium japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマコウゾリナ。キク科ミヤマコウゾリナ属の多年草で、山地〜高山の草地や林縁、岩場、礫地に生える。夏、黄色いタンポポに似た頭花を茎の先につける。茎や葉に黒っぽい毛が多いのが特徴。高山の草地でよく見られる。",
+      "habitat_hint": "山地〜高山の草地、林縁、岩場、礫地、風衝草地。",
+      "finding_tips": "7〜8月、山地〜高山の草地で黄色いタンポポ状の頭花と、黒っぽい毛の多い茎葉を探します。"
+    },
+    "en": {
+      "summary": "Miyama-kōzorina (Hieracium japonicum), a hawkweed. A perennial hawkweed of montane to alpine grassland, edges, rocks and gravel; in summer it bears yellow dandelion-like heads at the stem tips, and the stems and leaves are notably dark-hairy. It is common in alpine grassland.",
+      "habitat_hint": "Montane to alpine grassland, edges, rocks, gravel, wind-swept grassland.",
+      "finding_tips": "In July–August look in montane to alpine grassland for the yellow dandelion-like heads on dark-hairy stems."
+    },
+    "zh": {
+      "summary": "ミヤマコウゾリナ（Hieracium japonicum）。菊科山柳菊属多年生草本，生于山地至高山草地、林缘、岩场及砾地；夏于茎顶生黄色似蒲公英头状花，茎叶多暗色毛，为高山草地常见种。",
+      "habitat_hint": "山地至高山草地、林缘、岩场、砾地、当风草地。",
+      "finding_tips": "7 至 8 月于山地至高山草地寻找黄色蒲公英状头状花及多暗毛的茎叶。"
+    }
+  },
+  "Hygrohypnella ochracea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスキシメリゴケ。ヤナギゴケ科に近い水生〜半水生の蘚類で、渓流や沢の水中の石、水しぶきのかかる岩、湿った岩上に生える。黄緑色〜黄褐色で、流れの中でマット状に群生する。渓流沿いの湿った環境の指標となる。",
+      "habitat_hint": "渓流や沢の水中の石、水しぶきのかかる岩、湿った岩上。",
+      "finding_tips": "一年中、渓流の水中の石や水際の岩で黄緑〜黄褐色のマット状の蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Usuki-shimeri-goke (Hygrohypnella ochracea), an aquatic moss. An aquatic to semi-aquatic moss growing on submerged stones in streams, spray-wetted rocks and damp rock; it is yellow-green to yellow-brown and forms mats within the flow. It indicates damp streamside conditions.",
+      "habitat_hint": "Submerged stones in streams, spray-wetted rocks, damp rock.",
+      "finding_tips": "Year-round use a lens on submerged stream stones and wetted rocks to find the yellow-green to yellow-brown moss mats."
+    },
+    "zh": {
+      "summary": "ウスキシメリゴケ（Hygrohypnella ochracea）。近柳叶藓科水生至半水生藓类，生于溪流水中石、受水花溅湿的岩及湿润岩上；体黄绿至黄褐，于流水中成垫状，为溪流湿润环境指标。",
+      "habitat_hint": "溪流水中石、受溅湿的岩、湿润岩上。",
+      "finding_tips": "全年用放大镜于溪流水中石及溅湿岩寻找黄绿至黄褐藓垫。"
+    }
+  },
+  "Hymenophyllum fumarioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメコケシノブ。コケシノブ科の非常に小さなシダ（膜状シダ）で、湿度の高い渓流沿いの岩や樹幹、苔むした岩に張りつくように生える。葉は膜のように薄く半透明で、細かく切れ込む。コケ（苔）のように見えるがシダ植物。乾燥に弱い。",
+      "habitat_hint": "湿度の高い渓流沿いの岩、樹幹、苔むした岩、滝のそば。",
+      "finding_tips": "一年中、渓流沿いの湿った岩や樹幹で、膜のように薄く半透明で細かく切れ込む小さなシダを探します。"
+    },
+    "en": {
+      "summary": "Hime-koke-shinobu (Hymenophyllum fumarioides), a filmy fern. A very small filmy fern pressed onto humid streamside rock, tree trunks and mossy boulders; the fronds are membranous, translucent and finely divided. It looks like a moss but is a fern, and is intolerant of drying.",
+      "habitat_hint": "Humid streamside rock, tree trunks, mossy boulders, near waterfalls.",
+      "finding_tips": "Year-round on humid streamside rock and trunks look for the very small fern with membranous, translucent, finely divided fronds."
+    },
+    "zh": {
+      "summary": "ヒメコケシノブ（Hymenophyllum fumarioides）。膜蕨科极小型膜蕨，贴生于湿度高的溪流沿岸岩石、树干及苔藓岩上；叶膜质、半透明、细裂，形似苔藓实为蕨类，不耐干。",
+      "habitat_hint": "湿度高的溪流沿岸岩石、树干、苔藓岩、瀑布旁。",
+      "finding_tips": "全年于溪流沿岸湿岩及树干寻找膜质、半透明、细裂的极小蕨。"
+    }
+  },
+  "Hypomecis crassestrigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フトオビエダシャク。シャクガ科エダシャク亜科のガで、平地〜山地の樹林や林縁に見られる。翅は灰褐色で、太い横帯（おび）状の暗色の模様がある。幼虫はシャクトリムシで、さまざまな樹木の葉を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "春〜夏、灯火で灰褐色に太い暗色の横帯のあるエダシャクを探します。"
+    },
+    "en": {
+      "summary": "Futo-obi-edashaku (Hypomecis crassestrigata), a geometer moth. A geometer moth of the Ennominae found in lowland to montane woodland and edges; the wings are greyish-brown with a thick dark band-like marking. The larva is an inchworm feeding on the leaves of various trees, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "From spring to summer look at lights for the greyish-brown geometer with a thick dark cross-band."
+    },
+    "zh": {
+      "summary": "フトオビエダシャク（Hypomecis crassestrigata）。尺蛾科尺蛾亚科的一种蛾，见于平地至山地林地及林缘；翅灰褐、具粗暗色横带，幼虫为尺蠖，取食多种树叶，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "春至夏于灯下寻找灰褐、具粗暗横带的尺蛾。"
+    }
+  },
+  "Hypopterygium flavolimbatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クジャクゴケ。クジャクゴケ科の蘚類で、湿った林床の土や岩、崖、樹の根元に生える。立ち上がった茎の上部が扇状〜孔雀（くじゃく）の羽のように水平に広がるのが特徴。緑〜黄緑色で、縁が黄色みをおびる。湿った日陰に群生する。",
+      "habitat_hint": "湿った林床の土、岩、崖、樹の根元、渓流沿いの日陰。",
+      "finding_tips": "一年中、湿った林床や崖で、上部が孔雀の羽状に水平に広がる緑の蘚を探します。"
+    },
+    "en": {
+      "summary": "Kujaku-goke (Hypopterygium flavolimbatum), an umbrella moss. A moss of the Hypopterygiaceae growing on damp forest-floor soil, rock, cliffs and tree bases; the erect stem spreads horizontally at the top into a fan or peacock-tail form. It is green to yellow-green with yellowish leaf margins and grows in damp shade.",
+      "habitat_hint": "Damp forest-floor soil, rock, cliffs, tree bases, shaded streamsides.",
+      "finding_tips": "Year-round on damp forest floor and cliffs look for the moss spreading horizontally into a peacock-tail form at the top."
+    },
+    "zh": {
+      "summary": "黄边孔雀藓（クジャクゴケ，Hypopterygium flavolimbatum）。孔雀藓科藓类，生于湿润林床土、岩、崖及树基；茎直立、上部水平展开呈扇形（孔雀尾状），体绿至黄绿、叶缘带黄，于湿荫处成片。",
+      "habitat_hint": "湿润林床土、岩、崖、树基、溪流沿岸荫处。",
+      "finding_tips": "全年于湿润林床及崖壁寻找上部水平展开如孔雀尾的绿色藓。"
+    }
+  },
+  "Iridona iridescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "テリザクラガイ。ニッコウガイ科の小さな二枚貝で、内湾や浅い海の砂底、砂泥底にすむ。殻は薄く扁平で、桜貝の仲間だが表面に強い光沢（照り）があり、淡い桃色〜白をおびる。海岸に打ち上げられた殻が拾われることが多い。",
+      "habitat_hint": "内湾や浅海の砂底、砂泥底、砂浜の打ち上げ。",
+      "finding_tips": "一年中、砂浜の打ち上げ帯で薄く扁平で強い光沢のある淡桃色の小さな二枚貝の殻を探します。"
+    },
+    "en": {
+      "summary": "Teri-zakura-gai (Iridona iridescens), a tellin. A small tellin bivalve of sandy and sandy-mud bottoms in bays and shallow seas; the thin, flat shell is a cherry-shell relative but has a strong glossy sheen and is pale pink to white. Beach-cast valves are often collected.",
+      "habitat_hint": "Sandy and sandy-mud bottoms of bays and shallow seas, beach drift.",
+      "finding_tips": "Year-round search the strandline of sandy beaches for the thin, flat, glossy pale-pink valves."
+    },
+    "zh": {
+      "summary": "テリザクラガイ（Iridona iridescens）。樱蛤科小型双壳类，栖于内湾及浅海砂底与砂泥底；壳薄而扁平，属樱蛤类但表面强光泽，呈淡粉至白色，常拾自沙滩冲刷贝壳。",
+      "habitat_hint": "内湾及浅海砂底、砂泥底、沙滩冲积带。",
+      "finding_tips": "全年于沙滩冲积带寻找薄扁、强光泽的淡粉色小型双壳贝壳。"
+    }
+  },
+  "Iris setosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beachhead iris",
+    "ja": {
+      "summary": "ヒオウギアヤメ。アヤメ科アヤメ属の多年草で、北日本の湿った草地や湿原、海岸近くの草地に生える。初夏〜夏、青紫色の花を咲かせる。アヤメに似るが、内花被片（内側の花びら）が小さく退化するのが特徴。北方系の湿地の植物。",
+      "habitat_hint": "北日本の湿った草地、湿原、海岸近くの草地。",
+      "finding_tips": "6〜7月、北日本の湿った草地で青紫色のアヤメ状の花を探します。内側の花びらが小さいのが見分け方。"
+    },
+    "en": {
+      "summary": "Hiōgi-ayame, the beachhead iris (Iris setosa). A perennial iris of damp grassland, bogs and coastal grassland in northern Japan; in early to mid summer it bears blue-purple flowers. It resembles the Siberian iris but the inner tepals are small and reduced. A northern wetland species.",
+      "habitat_hint": "Northern-Japan damp grassland, bogs, coastal grassland.",
+      "finding_tips": "In June–July look in northern damp grassland for the blue-purple iris flowers with small, reduced inner tepals."
+    },
+    "zh": {
+      "summary": "山鸢尾（ヒオウギアヤメ，Iris setosa）。鸢尾科鸢尾属多年生草本，生于北日本湿润草地、沼泽及近海草地；初夏至夏开青紫花，似溪荪但内花被片小而退化，为北方湿地植物。",
+      "habitat_hint": "北日本湿润草地、沼泽、近海草地。",
+      "finding_tips": "6 至 7 月于北方湿润草地寻找内花被片退化的青紫色鸢尾花。"
+    }
+  },
+  "Isodon shikokianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サンインヒキオコシ。シソ科ヤマハッカ属の多年草で、山地の林縁や草地、やや湿った斜面に生える。秋、細い花穂に淡い青紫色の小さな唇形の花を多数つける。ヒキオコシの仲間で、山陰地方などに分布する。茎は四角い。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、道ばた。",
+      "finding_tips": "9〜10月、山地の林縁で四角い茎と、細い穂につく淡青紫色の小さな唇形の花を探します。"
+    },
+    "en": {
+      "summary": "San'in-hikiokoshi (Isodon shikokianus). A perennial of the mint family growing on montane woodland edges, grassland and dampish slopes; in autumn it bears many small pale blue-purple two-lipped flowers in slender spikes. A relative of Isodon japonicus distributed in the San'in region, with square stems.",
+      "habitat_hint": "Montane woodland edges, grassland, dampish slopes, roadsides.",
+      "finding_tips": "In September–October look on montane edges for the square stems and slender spikes of small pale blue-purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "サンインヒキオコシ（Isodon shikokianus）。唇形科香茶菜属多年生草本，生于山地林缘、草地及略湿坡地；秋于细穗上多生淡青紫色小唇形花，为香茶菜类、分布山阴地方，茎四棱。",
+      "habitat_hint": "山地林缘、草地、略湿坡地、路旁。",
+      "finding_tips": "9 至 10 月于山地林缘寻找四棱茎及细穗上的淡青紫小唇形花。"
+    }
+  },
+  "Isotrema shimadae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アリマウマノスズクサ。ウマノスズクサ科のつる性の木本で、暖地の林縁や樹林、谷沿いに生える。ハート形の葉をもち、初夏、サックス（管楽器）のようにS字状に曲がった暗紫色の筒状の花を咲かせる。ジャコウアゲハなどの食草。有馬（ありま）地方にちなむ名。",
+      "habitat_hint": "暖地の林縁、樹林、谷沿い、やや湿った斜面。",
+      "finding_tips": "5〜6月、暖地の林縁でハート形の葉と、S字状に曲がった暗紫色の筒状の花を探します。"
+    },
+    "en": {
+      "summary": "Arima-uma-no-suzukusa (Isotrema shimadae). A woody climber of the birthwort family in warm-region woodland edges, forest and valleys; it has heart-shaped leaves and, in early summer, dark-purple tubular flowers curved into an S-shape like a saxophone. It is a food plant of the Chinese windmill butterfly, named for the Arima district.",
+      "habitat_hint": "Warm-region woodland edges, forest, valleys, dampish slopes.",
+      "finding_tips": "In May–June look on warm-region edges for the heart-shaped leaves and dark-purple S-curved tubular flowers."
+    },
+    "zh": {
+      "summary": "アリマウマノスズクサ（Isotrema shimadae）。马兜铃科木质藤本，生于暖地林缘、林地及谷地；叶心形，初夏开暗紫色筒状花、弯曲呈 S 形如萨克斯管，为麝凤蝶等食草，因有马地方得名。",
+      "habitat_hint": "暖地林缘、林地、谷地、略湿坡地。",
+      "finding_tips": "5 至 6 月于暖地林缘寻找心形叶及暗紫色 S 形弯曲筒状花。"
+    }
+  },
+  "Koenigia weyrichii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オンタデ。タデ科オンタデ属の大型の多年草で、高山や火山の砂れき地、荒れた斜面、噴出物の堆積地に生える。太い茎に大きな葉をつけ、夏、白っぽい〜淡緑色の小花を円錐状に多数咲かせる。裸地に真っ先に入り込む先駆植物の一つ。",
+      "habitat_hint": "高山や火山の砂れき地、荒れた斜面、噴出物の堆積地、崩壊地。",
+      "finding_tips": "7〜8月、高山や火山の砂れき地で太い茎と大きな葉、白っぽい小花の円錐花序を探します。"
+    },
+    "en": {
+      "summary": "Ontade (Koenigia weyrichii). A large perennial of the knotweed family growing on alpine and volcanic gravel, disturbed slopes and ash deposits; it has stout stems with large leaves and, in summer, many whitish to pale-green small flowers in panicles. It is a pioneer plant, among the first to colonize bare ground.",
+      "habitat_hint": "Alpine and volcanic gravel, disturbed slopes, ash deposits, landslip ground.",
+      "finding_tips": "In July–August look on alpine and volcanic gravel for the stout stems, large leaves and panicles of whitish small flowers."
+    },
+    "zh": {
+      "summary": "オンタデ（Koenigia weyrichii）。蓼科大型多年生草本，生于高山及火山砂砾地、扰动坡及喷出物堆积地；茎粗、叶大，夏于圆锥花序上多生偏白至淡绿小花，为率先入侵裸地的先锋植物之一。",
+      "habitat_hint": "高山及火山砂砾地、扰动坡、喷出物堆积地、崩塌地。",
+      "finding_tips": "7 至 8 月于高山火山砂砾地寻找粗茎大叶及偏白小花圆锥花序。"
+    }
+  },
+  "Lactifluus piperatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツチカブリ。ベニタケ科のきのこで、夏〜秋、雑木林や公園の広葉樹の下の地上に発生する。傘は白色で漏斗状にくぼみ、ひだは細かく密に並ぶ。傷つけると白い乳液が出て、なめると非常に辛い。生食は不向き（胃腸障害のおそれ）。",
+      "habitat_hint": "夏〜秋、雑木林や公園の広葉樹（ブナ科など）の下の地上。",
+      "finding_tips": "夏〜秋、広葉樹の下で白い漏斗状の傘と密なひだ、傷つくと出る白い乳液（非常に辛い）のきのこを探します。"
+    },
+    "en": {
+      "summary": "Tsuchikaburi, the peppery milkcap (Lactifluus piperatus). A mushroom of the Russulaceae fruiting on the ground under broadleaf trees in woodland and parks in summer to autumn; the white cap is funnel-shaped and the gills are fine and crowded. Cut flesh exudes white latex that tastes intensely peppery; it is unsuitable for raw eating.",
+      "habitat_hint": "Summer to autumn, ground under broadleaf trees (beech family) in woodland and parks.",
+      "finding_tips": "From summer to autumn look under broadleaf trees for the white funnel-shaped cap with crowded gills and intensely peppery white latex."
+    },
+    "zh": {
+      "summary": "辣多汁乳菇（ツチカブリ，Lactifluus piperatus）。红菇科真菌，夏至秋生于杂木林及公园阔叶树下地面；菌盖白色漏斗状，菌褶细密，切开流白色乳汁、味极辛辣，不宜生食。",
+      "habitat_hint": "夏至秋，杂木林及公园阔叶树（壳斗科等）下地面。",
+      "finding_tips": "夏至秋于阔叶树下寻找白色漏斗盖、菌褶密、流极辣白汁的菌。"
+    }
+  },
+  "Lathyrus davidii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イタチササゲ。マメ科レンリソウ属のつる性の多年草で、山地の草地や林縁、やや湿った斜面に生える。羽状の葉の先が巻きひげになり、他の草にからんで立ち上がる。夏、黄色い蝶形の花を房状に多数咲かせ、のちに褐色を帯びる。",
+      "habitat_hint": "山地の草地、林縁、やや湿った斜面、川沿い。",
+      "finding_tips": "7〜8月、山地の草地で巻きひげのある羽状の葉と、黄色い蝶形の花の房を探します。"
+    },
+    "en": {
+      "summary": "Itachi-sasage (Lathyrus davidii), a vetchling. A climbing perennial of the pea family growing on montane grassland, edges and dampish slopes; the pinnate leaves end in tendrils that twine over other plants for support, and in summer it bears many yellow pea-flowers in racemes that later turn brownish.",
+      "habitat_hint": "Montane grassland, edges, dampish slopes, riversides.",
+      "finding_tips": "In July–August look in montane grassland for the tendril-tipped pinnate leaves and racemes of yellow pea-flowers."
+    },
+    "zh": {
+      "summary": "茳芒香豌豆（イタチササゲ，Lathyrus davidii）。豆科山黧豆属攀援多年生草本，生于山地草地、林缘及略湿坡地；羽状叶端具卷须缠绕他草直立，夏于总状花序多生黄色蝶形花、后转褐。",
+      "habitat_hint": "山地草地、林缘、略湿坡地、河岸。",
+      "finding_tips": "7 至 8 月于山地草地寻找端具卷须的羽状叶及黄色蝶形花序。"
+    }
   }
 }
