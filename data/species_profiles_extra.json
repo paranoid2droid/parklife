@@ -239716,5 +239716,522 @@
       "habitat_hint": "山地林床、林缘、略湿坡地、谷地。",
       "finding_tips": "4 至 6 月于山地林床寻找细叶丛生、细梗垂生绿褐色小穗的薹草。"
     }
+  },
+  "Catocala nubila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Underwing moth",
+    "ja": {
+      "summary": "ゴマシオキシタバ。ヤガ科シタバガ属（キシタバの仲間）の中〜大型のガで、平地〜山地の雑木林や樹林に見られる。前翅は樹皮に似た灰色にごま塩（ごましお）状の細かな斑があり、後翅は黄色に黒い帯がある。危険を感じると前翅を開いて後翅の黄色を見せる。夜に樹液や灯火に集まる。",
+      "habitat_hint": "平地〜山地の雑木林、樹林、コナラ・クヌギ林。",
+      "finding_tips": "夏、樹液や灯火で前翅が灰色のごま塩状、後翅が黄色に黒帯のキシタバの仲間を探します。"
+    },
+    "en": {
+      "summary": "Gomashio-kishitaba (Catocala nubila), an underwing moth. A medium to large noctuid of the Catocala genus found in lowland to montane secondary woodland and forest; the forewing is bark-grey with fine salt-and-pepper speckling, and the hindwing is yellow with a black band. When alarmed it opens the forewings to flash the yellow hindwings. It comes to sap and lights at night.",
+      "habitat_hint": "Lowland to montane secondary woodland, forest, oak woods.",
+      "finding_tips": "In summer at sap and lights look for the underwing with a grey salt-and-pepper forewing and yellow-and-black hindwing."
+    },
+    "zh": {
+      "summary": "ゴマシオキシタバ（Catocala nubila）。夜蛾科裳夜蛾属中至大型蛾，见于平地至山地杂木林及林地；前翅似树皮灰色具芝麻盐状细斑，后翅黄色具黑带，受惊张开前翅露黄后翅，夜间趋树液及灯光。",
+      "habitat_hint": "平地至山地杂木林、林地、麻栎栎类林。",
+      "finding_tips": "夏于树液及灯下寻找前翅灰色芝麻盐状、后翅黄黑的裳夜蛾。"
+    }
+  },
+  "Cercyon aptus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water scavenger beetle",
+    "ja": {
+      "summary": "コケシガムシ。ガムシ科（マルガムシに近い仲間）の非常に小さな甲虫で、水辺や湿った地表、堆肥、動物の糞、腐った植物のまわりに見られる。体は黒っぽく丸みをおび、つやがある。腐った有機物や糞を食べて分解する。水生のガムシと違い、湿った陸上にすむ。",
+      "habitat_hint": "水辺、湿った地表、堆肥、動物の糞、腐った植物のそば。",
+      "finding_tips": "春〜秋、湿った地表や堆肥、糞のまわりで、黒く丸くつやのある非常に小さな甲虫を探します。"
+    },
+    "en": {
+      "summary": "Kokeshi-gamushi (Cercyon aptus), a water scavenger beetle. A very small beetle of the Hydrophilidae found at waterside, on damp ground and around compost, dung and rotting plants; the body is blackish, rounded and glossy. It feeds on and decomposes rotting organic matter and dung, living on damp land rather than in water like aquatic hydrophilids.",
+      "habitat_hint": "Waterside, damp ground, compost, dung, near rotting plants.",
+      "finding_tips": "From spring to autumn on damp ground and around compost and dung look for the very small rounded glossy black beetle."
+    },
+    "zh": {
+      "summary": "コケシガムシ（Cercyon aptus）。牙甲科极小型甲虫，见于水边、湿润地表、堆肥、动物粪及腐败植物周围；体黑而圆润、有光泽，取食并分解腐败有机质及粪便，不同于水生牙甲栖于湿润陆地。",
+      "habitat_hint": "水边、湿润地表、堆肥、动物粪、腐败植物旁。",
+      "finding_tips": "春至秋于湿润地表及堆肥、粪周围寻找黑色圆润有光泽的极小甲虫。"
+    }
+  },
+  "Cerithium coralium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "コゲツノブエ。オニノツノガイ科（ツノブエの仲間）の巻貝で、暖かい海のサンゴ礁や岩礁の潮間帯下部〜浅い海の岩や砂れき底にすむ。殻は細長い塔形（角笛状）で、暗褐色〜こげ茶色（焦げ）をおび、表面につぶ状の彫刻がある。岩や砂の上をはい、付着藻類や有機物を食べる。",
+      "habitat_hint": "暖かい海のサンゴ礁、岩礁の潮間帯下部〜浅い海の岩、砂れき底。",
+      "finding_tips": "干潮時、暖地のサンゴ礁や磯で、細長い塔形でこげ茶色の巻貝を探します。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Koge-tsunobue (Cerithium coralium), a cerith snail. A snail of the Cerithiidae living on rock and sandy-gravel bottoms from the lower intertidal into shallow water of warm-sea coral and rocky reefs; the elongate tower-shaped (horn-like) shell is dark brown to burnt-brown with granular sculpture. It crawls over rock and sand, feeding on attached algae and organic matter.",
+      "habitat_hint": "Warm-sea coral and rocky reefs, lower intertidal to shallow-water rock, sandy-gravel bottoms.",
+      "finding_tips": "At low tide on warm-region reefs and rocky shores look for the elongate tower-shaped dark-brown cerith snail."
+    },
+    "zh": {
+      "summary": "コゲツノブエ（Cerithium coralium）。蟹守螺科螺类，栖于暖海珊瑚礁及岩礁潮间带下部至浅海岩石与砂砾底；壳细长塔形（角笛状），暗褐至焦褐、表面具颗粒雕刻，于岩沙上爬行取食附着藻类及有机质。",
+      "habitat_hint": "暖海珊瑚礁及岩礁潮间带下部至浅海岩石、砂砾底。",
+      "finding_tips": "退潮时于暖地礁石及岩滩寻找细长塔形、焦褐色的蟹守螺。"
+    }
+  },
+  "Cetraria ericetorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マキバエイランタイ。ウメノキゴケ科（エイランタイの仲間）の葉状〜樹枝状の地衣で、高山や亜高山の風衝草地、礫地、地上、コケの間に生える。地衣体は褐色〜暗褐色で細長く、縁が内側に巻いてやや管状になる。寒冷な高山の裸地に生える。トナカイの餌にもなる仲間。",
+      "habitat_hint": "高山や亜高山の風衝草地、礫地、地上、コケの間。",
+      "finding_tips": "一年中、高山の礫地や風衝草地で褐色の細長く縁が巻いた葉状〜樹枝状の地衣を探します。"
+    },
+    "en": {
+      "summary": "Makiba-eirantai (Cetraria ericetorum), a lichen. A foliose to fruticose lichen of the Parmeliaceae growing on wind-swept grassland, gravel, ground and among mosses in alpine and subalpine zones; the thallus is brown to dark-brown and elongate, with inrolled margins forming a somewhat tubular shape. It grows on cold alpine bare ground, related to the Iceland mosses grazed by reindeer.",
+      "habitat_hint": "Alpine and subalpine wind-swept grassland, gravel, ground, among mosses.",
+      "finding_tips": "Year-round on alpine gravel and wind-swept grassland look for the brown, elongate lichen with inrolled margins."
+    },
+    "zh": {
+      "summary": "マキバエイランタイ（Cetraria ericetorum）。梅衣科叶状至枝状地衣，生于高山及亚高山当风草地、砾地、地面及苔藓间；地衣体褐至暗褐、细长，边缘内卷略呈管状，生于寒冷高山裸地，为驯鹿取食的冰岛衣近类。",
+      "habitat_hint": "高山及亚高山当风草地、砾地、地面、苔藓间。",
+      "finding_tips": "全年于高山砾地及当风草地寻找褐色细长、边缘内卷的叶状至枝状地衣。"
+    }
+  },
+  "Cetrelia braunsiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トゲトコブシゴケ。ウメノキゴケ科の大型の葉状地衣で、山地〜亜高山の樹幹や枝、苔むした岩に張りつくように生える。灰白色〜灰緑色で、縁が丸く広い裂片に分かれ、縁に小さなとげ状の突起（毛）をつける。空気のきれいな環境を好み、その指標とされる。",
+      "habitat_hint": "山地〜亜高山の樹幹、枝、苔むした岩、林縁の木。",
+      "finding_tips": "一年中、山地の樹幹や岩で灰白色〜灰緑色で縁にとげ状の突起がある大型の葉状地衣を探します。"
+    },
+    "en": {
+      "summary": "Toge-tokobushi-goke (Cetrelia braunsiana), a foliose lichen. A large foliose lichen of the Parmeliaceae pressed onto tree trunks, branches and mossy rock in montane to subalpine zones; it is grey-white to grey-green with broad, rounded lobes bearing small spine-like projections (cilia) at the margins. It favours clean-air environments and is used as an indicator.",
+      "habitat_hint": "Montane to subalpine tree trunks, branches, mossy rock, edge trees.",
+      "finding_tips": "Year-round on montane trunks and rock look for the large grey-white to grey-green foliose lichen with spine-like marginal projections."
+    },
+    "zh": {
+      "summary": "トゲトコブシゴケ（Cetrelia braunsiana）。梅衣科大型叶状地衣，贴生于山地至亚高山树干、枝及苔藓岩；灰白至灰绿，裂片宽圆、边缘生小刺状突起（缘毛），喜洁净空气、为其指标。",
+      "habitat_hint": "山地至亚高山树干、枝、苔藓岩、林缘树木。",
+      "finding_tips": "全年于山地树干及岩石寻找灰白至灰绿、边缘具刺状突起的大型叶状地衣。"
+    }
+  },
+  "Chondrus giganteus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオバツノマタ。紅藻類スギノリ科の海藻で、潮間帯下部〜浅い海の岩に付着して生える。体は平たく幅広い葉状で、先が二又に分かれ、暗紅色〜赤紫色をおびる。ツノマタの仲間で大型。寒天質を含み、食用や糊の原料にされることもある。磯の岩でよく見られる。",
+      "habitat_hint": "潮間帯下部〜浅い海の岩、磯、潮だまり。",
+      "finding_tips": "干潮時、磯の岩で平たく幅広い葉状で先が二又に分かれる暗紅色の海藻を探します。"
+    },
+    "en": {
+      "summary": "Ōba-tsunomata (Chondrus giganteus), a red alga. A red alga of the Gigartinaceae attached to rock from the lower intertidal into shallow water; the body is flat and broadly blade-like with forked tips, dark-red to red-purple. A large Chondrus relative, it contains gelatinous matter and is used for food and paste, and is common on rocky shores.",
+      "habitat_hint": "Lower intertidal to shallow-water rock, rocky shores, tide pools.",
+      "finding_tips": "At low tide on rocky shores look for the flat, broad blade-like dark-red alga with forked tips."
+    },
+    "zh": {
+      "summary": "大叶角叉菜（オオバツノマタ，Chondrus giganteus）。红藻门杉海苔科海藻，附着于潮间带下部至浅海岩石；体扁而宽叶状、先端二歧，暗红至红紫，为大型角叉菜类，含胶质，可供食用及作糊料，岩礁海岸常见。",
+      "habitat_hint": "潮间带下部至浅海岩石、岩礁海岸、潮池。",
+      "finding_tips": "退潮时于岩礁海岸寻找扁宽叶状、先端二歧的暗红藻。"
+    }
+  },
+  "Chrysis galloisi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cuckoo wasp",
+    "ja": {
+      "summary": "ホソセイボウ。セイボウ科（青蜂）の細身のハチで、平地〜山地の林縁、枯れ木、古い木材、崖や壁の穴の周りに見られる。体は金属光沢の強い青緑色〜赤紫色で美しく、細長い。他のハナバチやカリバチの巣に卵を産みつける労働寄生（托卵）性。刺激を受けると体を丸める。刺さない。",
+      "habitat_hint": "平地〜山地の林縁、枯れ木、古い木材、崖や壁の穴のある環境。",
+      "finding_tips": "初夏〜夏、枯れ木や壁の穴の周りで、金属光沢の青緑〜赤紫色で細身のハチを探します。"
+    },
+    "en": {
+      "summary": "Hoso-seibō (Chrysis galloisi), a cuckoo wasp. A slender wasp of the Chrysididae (ruby-tail wasps) found around forest edges, dead wood, old timber and cavities in cliffs and walls from lowland to mountains; the elongate body is a beautiful strongly metallic blue-green to red-purple. A brood parasite laying eggs in the nests of other bees and wasps, it curls up when disturbed and does not sting.",
+      "habitat_hint": "Lowland to montane forest edges, dead wood, old timber, cliff and wall cavities.",
+      "finding_tips": "From early summer to summer around dead wood and wall cavities look for the slender metallic blue-green to red-purple wasp."
+    },
+    "zh": {
+      "summary": "ホソセイボウ（Chrysis galloisi）。青蜂科细身蜂，见于平地至山地林缘、枯木、旧木材及崖壁孔洞周围；体强金属光泽、青绿至红紫而美、细长，为寄生于他蜂巢的巢寄生者，受扰卷缩、不蜇人。",
+      "habitat_hint": "平地至山地林缘、枯木、旧木材、崖壁孔洞环境。",
+      "finding_tips": "初夏至夏于枯木及墙孔周围寻找金属青绿至红紫、细身的蜂。"
+    }
+  },
+  "Chrysosplenium echinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワネコノメソウ。ユキノシタ科ネコノメソウ属の多年草で、山地の谷沿いや沢沿いの湿った岩、渓流沿いの林床に生える。地表を這うように広がり、対生の小さな葉をつける。早春、黄緑色の小花を集めて咲かせ、花のまわりの葉（苞葉）が黄色を帯びて目立つ。果実が猫の目のように見える。",
+      "habitat_hint": "山地の谷沿い、沢沿いの湿った岩、渓流沿いの林床。",
+      "finding_tips": "3〜5月、山地の沢沿いの湿った岩で、地を這う茎と黄緑色の小花・黄色い苞葉を探します。"
+    },
+    "en": {
+      "summary": "Iwa-nekonome-sō (Chrysosplenium echinus), a golden saxifrage. A perennial of the saxifrage family growing on damp rock along montane valleys and streams and streamside forest floor; it spreads creeping over the surface with small opposite leaves. In early spring it bears clusters of yellow-green flowers, the surrounding bract-leaves tinged yellow and conspicuous, and the fruit resembles a cat's eye.",
+      "habitat_hint": "Montane valleys, damp streamside rock, streamside forest floor.",
+      "finding_tips": "From March to May on damp streamside rock look for the creeping stems and yellow-green flowers with yellow-tinged bract-leaves."
+    },
+    "zh": {
+      "summary": "イワネコノメソウ（Chrysosplenium echinus）。虎耳草科金腰属多年生草本，生于山地谷地、沟谷湿岩及溪流沿岸林床；匍匐铺展、小叶对生，早春簇生黄绿色小花、周围苞叶带黄显著，果似猫眼。",
+      "habitat_hint": "山地谷地、沟谷湿岩、溪流沿岸林床。",
+      "finding_tips": "3 至 5 月于山地沟谷湿岩寻找匍匐茎及黄绿色小花与黄色苞叶。"
+    }
+  },
+  "Cicindela sachalinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiger beetle",
+    "ja": {
+      "summary": "ミヤマハンミョウ。ハンミョウ科の甲虫で、山地の林道や登山道、裸地、河原の砂れき地に見られる。体は緑色〜銅色の金属光沢があり、上翅に白い斑が入る。大きなあごをもち、地表を素早く走ったり短く飛んだりして、小さな虫を捕らえる肉食性。人が近づくと少し先へ飛んで逃げる。",
+      "habitat_hint": "山地の林道、登山道、裸地、河原の砂れき地。",
+      "finding_tips": "初夏〜夏、山地の林道や登山道で、金属光沢のある緑〜銅色で白斑のある素早く走るハンミョウを探します。"
+    },
+    "en": {
+      "summary": "Miyama-hanmyō (Cicindela sachalinensis), a tiger beetle. A tiger beetle of montane forest tracks, trails, bare ground and river gravel; the body has a green to coppery metallic sheen with white spots on the elytra. With large jaws, it runs fast over the ground and flies short distances to catch small insects; when approached it flies a little ahead to escape.",
+      "habitat_hint": "Montane forest tracks, trails, bare ground, river gravel.",
+      "finding_tips": "From early summer to summer on montane tracks and trails look for the fast-running metallic green to coppery tiger beetle with white spots."
+    },
+    "zh": {
+      "summary": "ミヤマハンミョウ（Cicindela sachalinensis）。虎甲科甲虫，见于山地林道、山径、裸地及河滩砂砾地；体绿至铜色金属光泽、鞘翅具白斑，具大颚，于地表疾走或短飞捕食小虫，人近则飞前少许逃逸。",
+      "habitat_hint": "山地林道、山径、裸地、河滩砂砾地。",
+      "finding_tips": "初夏至夏于山地林道及山径寻找金属绿至铜色、具白斑、疾走的虎甲。"
+    }
+  },
+  "Cingulina cingulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pyram snail",
+    "ja": {
+      "summary": "ヨコイトカケギリガイ。トウガタガイ科（イトカケギリの仲間）の小さな巻貝で、内湾や浅い海の砂泥底にすむ。殻は細長い塔形（きり状）で、白っぽく、殻の表面に横方向の細いすじ（横糸）状の彫刻が規則的に並ぶのが名の由来。他の貝や動物に寄生・外部寄生する仲間とされる。",
+      "habitat_hint": "内湾や浅い海の砂泥底、干潟のふち。",
+      "finding_tips": "海岸に打ち上げられた、白っぽく細長い塔形で横方向の細いすじのある小さな巻貝の殻を探します。"
+    },
+    "en": {
+      "summary": "Yoko-itokake-girigai (Cingulina cingulata), a pyram snail. A small snail of the Pyramidellidae living on sandy-mud bottoms in bays and shallow seas; the elongate tower-shaped (auger-like) shell is whitish, with regular fine spiral (transverse thread) sculpture, source of the name. Members of the family are ecto/parasites on other molluscs and animals.",
+      "habitat_hint": "Sandy-mud bottoms of bays and shallow seas, tidal-flat margins.",
+      "finding_tips": "Look on beaches for beach-cast whitish, elongate tower-shaped shells with fine transverse spiral sculpture."
+    },
+    "zh": {
+      "summary": "ヨコイトカケギリガイ（Cingulina cingulata）。小塔螺科小型螺，栖于内湾及浅海砂泥底；壳细长塔形（锥状），偏白，表面具规则横向细纹（横丝状）雕刻（故名），本科多为寄生于其他软体动物的外寄生者。",
+      "habitat_hint": "内湾及浅海砂泥底、滩涂边缘。",
+      "finding_tips": "于海岸寻找冲刷上岸、偏白细长塔形、具横向细纹的小螺壳。"
+    }
+  },
+  "Cirsium heiianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾヤマアザミ。キク科アザミ属の多年草で、北日本の山地の草地や林縁、道ばた、やや湿った斜面に生える。大きな葉は羽状に切れ込みとげがある。秋、茎の先に紅紫色の頭花を上向き〜横向きにつける。北方系のアザミで、北海道などに分布する。",
+      "habitat_hint": "北日本の山地の草地、林縁、道ばた、やや湿った斜面。",
+      "finding_tips": "9〜10月、北日本の山地の草地や林縁で紅紫色の頭花と、とげのある羽状の葉をもつアザミを探します。"
+    },
+    "en": {
+      "summary": "Ezo-yama-azami (Cirsium heiianum), a thistle. A perennial thistle of montane grassland, woodland edges, roadsides and dampish slopes in northern Japan; the large leaves are pinnately cut and spiny. In autumn it bears red-purple heads facing up to sideways at the stem tips. A northern thistle distributed in Hokkaido and elsewhere.",
+      "habitat_hint": "Northern-Japan montane grassland, woodland edges, roadsides, dampish slopes.",
+      "finding_tips": "In September–October in northern montane grassland look for the thistle with red-purple heads and spiny pinnate leaves."
+    },
+    "zh": {
+      "summary": "エゾヤマアザミ（Cirsium heiianum）。菊科蓟属多年生草本，生于北日本山地草地、林缘、路旁及略湿坡地；大叶羽裂具刺，秋于茎顶生红紫色头状花、向上至侧向，为北方蓟、分布北海道等地。",
+      "habitat_hint": "北日本山地草地、林缘、路旁、略湿坡地。",
+      "finding_tips": "9 至 10 月于北日本山地草地林缘寻找红紫头状花、羽裂具刺叶的蓟。"
+    }
+  },
+  "Cirsium pectinellum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾノサワアザミ。キク科アザミ属の多年草で、北日本の山地の谷沿いや沢沿い、湿った草地、湿った林縁に生える。大きな葉は羽状に細かく切れ込みとげがある。夏〜秋、茎の先に紅紫色の頭花をつける。沢（さわ）沿いの湿った場所を好む北方系のアザミ。",
+      "habitat_hint": "北日本の山地の谷沿い、沢沿い、湿った草地、湿った林縁。",
+      "finding_tips": "8〜9月、北日本の沢沿いの湿った草地で紅紫色の頭花と、とげのある細かく切れ込む葉をもつアザミを探します。"
+    },
+    "en": {
+      "summary": "Ezo-no-sawa-azami (Cirsium pectinellum), a thistle. A perennial thistle of northern-Japan montane valleys and streamsides, damp grassland and damp woodland edges; the large leaves are finely pinnately cut and spiny. In summer to autumn it bears red-purple heads at the stem tips. A northern thistle favouring damp streamside places.",
+      "habitat_hint": "Northern-Japan montane valleys, streamsides, damp grassland, damp woodland edges.",
+      "finding_tips": "In August–September along northern damp streamsides look for the thistle with red-purple heads and finely cut spiny leaves."
+    },
+    "zh": {
+      "summary": "エゾノサワアザミ（Cirsium pectinellum）。菊科蓟属多年生草本，生于北日本山地谷地、沟谷、湿润草地及湿润林缘；大叶羽状细裂具刺，夏至秋于茎顶生红紫色头状花，为喜沟谷湿处的北方蓟。",
+      "habitat_hint": "北日本山地谷地、沟谷、湿润草地、湿润林缘。",
+      "finding_tips": "8 至 9 月于北方沟谷湿润草地寻找红紫头状花、细裂具刺叶的蓟。"
+    }
+  },
+  "Cirsium spinosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オイランアザミ。キク科アザミ属の多年草で、山地の草地や林縁、道ばた、やや乾いた斜面に生える。葉は羽状に深く切れ込み、鋭いとげが多い。秋、茎の先に紅紫色の頭花をつける。とげの多い姿を花魁（おいらん）の華やかさに見立てたとも、とげの多さを表すともいわれる名。",
+      "habitat_hint": "山地の草地、林縁、道ばた、やや乾いた斜面。",
+      "finding_tips": "9〜10月、山地の草地や林縁で鋭いとげの多い葉と、紅紫色の頭花をもつアザミを探します。"
+    },
+    "en": {
+      "summary": "Oiran-azami (Cirsium spinosum), a thistle. A perennial thistle of montane grassland, woodland edges, roadsides and dryish slopes; the leaves are deeply pinnately cut with many sharp spines. In autumn it bears red-purple heads at the stem tips. The name refers either to a showy courtesan or simply to its abundant spines.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, dryish slopes.",
+      "finding_tips": "In September–October in montane grassland look for the very spiny-leaved thistle with red-purple heads."
+    },
+    "zh": {
+      "summary": "オイランアザミ（Cirsium spinosum）。菊科蓟属多年生草本，生于山地草地、林缘、路旁及略干坡地；叶羽状深裂、多锐刺，秋于茎顶生红紫色头状花，名或喻花魁华丽、或指多刺。",
+      "habitat_hint": "山地草地、林缘、路旁、略干坡地。",
+      "finding_tips": "9 至 10 月于山地草地林缘寻找多锐刺叶及红紫头状花的蓟。"
+    }
+  },
+  "Cladonia ramulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメレンゲゴケ。ハナゴケ科（ジョウゴゴケの仲間）の地衣で、地上、腐木、コケの間、やせ地、石垣の土に生える。鱗片状の地衣体から細い柄が立ち上がり、上部が浅い杯状にくぼんだり、細かく枝分かれしたりする。灰緑色〜灰白色。地面や朽木に群生する低い地衣。",
+      "habitat_hint": "地上、腐木、コケの間、やせ地、石垣の土、林縁。",
+      "finding_tips": "一年中、地上や腐木で、灰緑色の細い柄が立ち上がり上部が浅い杯状〜枝状になる地衣を探します。"
+    },
+    "en": {
+      "summary": "Hime-renge-goke, the branched pixie-cup lichen (Cladonia ramulosa). A lichen of the Cladoniaceae growing on the ground, rotten wood, among mosses, poor ground and soil in stone walls; slender stalks rise from a squamulose thallus, hollowed at the top into shallow cups or finely branched. It is grey-green to grey-white and grows in low patches on ground and rotten wood.",
+      "habitat_hint": "Ground, rotten wood, among mosses, poor ground, stone-wall soil, edges.",
+      "finding_tips": "Year-round on ground and rotten wood look for the grey-green lichen with slender stalks shallowly cupped or branched at the top."
+    },
+    "zh": {
+      "summary": "麸皮石蕊（ヒメレンゲゴケ，Cladonia ramulosa）。石蕊科地衣，生于地面、腐木、苔藓间、瘠地及石墙土中；鳞状地衣体生细柄、上部凹成浅杯或细分枝，灰绿至灰白，于地面及腐木成片低生。",
+      "habitat_hint": "地面、腐木、苔藓间、瘠地、石墙土、林缘。",
+      "finding_tips": "全年于地面及腐木寻找灰绿细柄、上部浅杯至分枝的地衣。"
+    }
+  },
+  "Clypeomorus bifasciata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "カスリカニモリガイ。オニノツノガイ科（カニモリの仲間）の巻貝で、暖かい海のサンゴ礁や岩礁、干潟の潮間帯の岩や砂れき底にすむ。殻は細長い塔形で、白っぽい地に褐色のかすり（絣）状のまだら模様が入るのが名の由来。岩や砂の上をはい、付着藻類や有機物を食べる。",
+      "habitat_hint": "暖かい海のサンゴ礁、岩礁、干潟の潮間帯の岩、砂れき底。",
+      "finding_tips": "干潮時、暖地のサンゴ礁や干潟で、細長い塔形で褐色のかすり模様のある巻貝を探します。"
+    },
+    "en": {
+      "summary": "Kasuri-kanimori (Clypeomorus bifasciata), a cerith snail. A snail of the Cerithiidae living on rock and sandy-gravel bottoms in the intertidal of warm-sea coral reefs, rocky reefs and tidal flats; the elongate tower-shaped shell is whitish with brown dappled (kasuri) mottling, source of the name. It crawls over rock and sand, feeding on attached algae and organic matter.",
+      "habitat_hint": "Warm-sea coral reefs, rocky reefs, tidal-flat intertidal rock, sandy-gravel bottoms.",
+      "finding_tips": "At low tide on warm-region reefs and tidal flats look for the elongate tower-shaped snail with brown dappled mottling."
+    },
+    "zh": {
+      "summary": "カスリカニモリガイ（Clypeomorus bifasciata）。蟹守螺科螺类，栖于暖海珊瑚礁、岩礁及滩涂潮间带岩石与砂砾底；壳细长塔形，偏白具褐色碎斑（絣状，故名），于岩沙上爬行取食附着藻类及有机质。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、滩涂潮间带岩石、砂砾底。",
+      "finding_tips": "退潮时于暖地礁石及滩涂寻找细长塔形、具褐色碎斑的蟹守螺。"
+    }
+  },
+  "Coelachne japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒナザサ。イネ科ヒナザサ属の小さな一年草〜多年草で、日当たりのよい湿地や湿った草地、休耕田、水辺の裸地に生える。細く小さな茎葉をもち、地表に低く広がる。夏〜秋、細い枝に小さな小穂をまばらにつける。小型でひな（雛）のように小さいことが名の由来。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、休耕田、水辺の裸地。",
+      "finding_tips": "夏〜秋、湿地や湿った草地で地表に低く広がる小さな茎葉と、まばらな小穂をつける小さなイネ科を探します。"
+    },
+    "en": {
+      "summary": "Hina-zasa (Coelachne japonica), a small grass. A small annual to perennial grass growing in sunny wetlands, damp grassland, fallow paddies and bare waterside ground; it has small slender stems and leaves spreading low over the ground and, in summer to autumn, bears small spikelets sparsely on fine branches. The name refers to its small ('chick-like') size.",
+      "habitat_hint": "Sunny wetlands, damp grassland, fallow paddies, bare waterside ground.",
+      "finding_tips": "From summer to autumn in wetlands and damp grassland look for the small low-spreading grass with sparse small spikelets."
+    },
+    "zh": {
+      "summary": "小丽草（ヒナザサ，Coelachne japonica）。禾本科小丽草属小型一至多年生草本，生于向阳湿地、湿润草地、休耕田及水边裸地；茎叶细小、贴地铺展，夏至秋于细枝疏生小穗，因体小如雏得名。",
+      "habitat_hint": "向阳湿地、湿润草地、休耕田、水边裸地。",
+      "finding_tips": "夏至秋于湿地及湿润草地寻找贴地铺展的小茎叶及疏生小穗的小型禾草。"
+    }
+  },
+  "Coenobita cavipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land hermit crab",
+    "ja": {
+      "summary": "オカヤドカリ。オカヤドカリ科の陸生のヤドカリで、南西諸島などの暖地の海岸林や海岸近くの林、砂浜の後背地にすむ。巻貝の殻を背負い、陸上で生活する。体は褐色〜赤褐色で、大きなはさみをもつ。落ち葉や果実、動物の死骸などを食べる。日本では天然記念物として保護されており、採集は規制される。",
+      "habitat_hint": "南西諸島などの暖地の海岸林、海岸近くの林、砂浜の後背地。",
+      "finding_tips": "夏の夜、南西諸島の海岸林や砂浜の後背地で、巻貝の殻を背負って歩く陸生のヤドカリを探します。天然記念物なので採らない。"
+    },
+    "en": {
+      "summary": "Oka-yadokari (Coenobita cavipes), a land hermit crab. A terrestrial hermit crab of the Coenobitidae living in warm-region coastal forest, woodland near the coast and behind sandy beaches such as the Ryukyu Islands; it carries a snail shell and lives on land, the brown to reddish-brown body with a large claw. It eats litter, fruit and carrion. Protected as a natural monument in Japan, its collection is restricted.",
+      "habitat_hint": "Warm-region coastal forest, woodland near coasts, back of sandy beaches (Ryukyu etc.).",
+      "finding_tips": "On summer nights in Ryukyu coastal forest and behind beaches look for the terrestrial hermit crab carrying a snail shell; protected, do not collect."
+    },
+    "zh": {
+      "summary": "オカヤドカリ（Coenobita cavipes）。陆寄居蟹科陆生寄居蟹，栖于琉球等暖地海岸林、近海林及沙滩后缘；背负螺壳陆上生活，体褐至红褐、具大螯，取食落叶、果实及尸体。在日本作为天然纪念物受保护，采集受限。",
+      "habitat_hint": "琉球等暖地海岸林、近海林、沙滩后缘。",
+      "finding_tips": "夏夜于琉球海岸林及沙滩后缘寻找背负螺壳行走的陆生寄居蟹；受保护勿采。"
+    }
+  },
+  "Cololejeunea appressa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒラヨウジョウゴケ。クサリゴケ科の非常に小さな苔類で、暖地の湿った樹幹や枝、常緑樹の葉の上（葉上）に張りつくように生える。緑色〜黄緑色で、体は薄く平たい。葉上に生える（葉上苔類）ことが特徴で、湿度の高い照葉樹林に多い微小な苔。",
+      "habitat_hint": "暖地の湿った樹幹、枝、常緑樹の葉の上、照葉樹林。",
+      "finding_tips": "一年中、暖地の照葉樹林で、常緑樹の葉の上や樹幹に張りつく緑色の非常に小さな苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Hira-yōjō-goke (Cololejeunea appressa), a leafy liverwort. A very small leafy liverwort of the Lejeuneaceae pressed onto damp tree trunks, branches and even the leaves of evergreen trees (epiphyllous) in warm regions; it is green to yellow-green and thin and flat. Its habit of growing on leaves is characteristic, common in humid evergreen forest.",
+      "habitat_hint": "Warm-region damp tree trunks, branches, leaves of evergreen trees, evergreen forest.",
+      "finding_tips": "Year-round in warm-region evergreen forest use a lens to find the very small green liverwort pressed onto evergreen leaves and trunks."
+    },
+    "zh": {
+      "summary": "ヒラヨウジョウゴケ（Cololejeunea appressa）。细鳞苔科极小型苔类，于暖地湿润树干、枝及常绿树叶面（叶附生）贴生；体绿至黄绿、薄而平，以生于叶面为特征，多见于湿润照叶林。",
+      "habitat_hint": "暖地湿润树干、枝、常绿树叶面、照叶林。",
+      "finding_tips": "全年于暖地照叶林用放大镜寻找贴生于常绿叶面及树干的绿色极小苔。"
+    }
+  },
+  "Coltriciella dependens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメカイメンタケ。タバコウロコタケ科のきのこ（多孔菌）で、針葉樹の倒木や切り株、朽木の下面に、下向きに小さな傘をつける。傘は褐色〜赤褐色で薄く、裏の管孔（孔口）が粗い。海綿（かいめん）のようにやわらかくスポンジ質の質感をもつことが名の由来。木材を分解する腐朽菌。",
+      "habitat_hint": "針葉樹の倒木、切り株、朽木の下面。",
+      "finding_tips": "夏〜秋、針葉樹の倒木や朽木の下面で、褐色で薄く海綿質の小さな傘を下向きにつけるきのこを探します。"
+    },
+    "en": {
+      "summary": "Hime-kaimen-take (Coltriciella dependens). A small polypore of the Hymenochaetaceae hanging small caps downward from the undersides of conifer logs, stumps and rotten wood; the cap is brown to reddish-brown and thin, with coarse pores beneath. Its soft, spongy (sponge-like) texture gives the name. A wood-decay fungus.",
+      "habitat_hint": "Undersides of conifer logs, stumps, rotten wood.",
+      "finding_tips": "From summer to autumn on the undersides of conifer logs look for the small brown, thin, spongy caps hanging downward."
+    },
+    "zh": {
+      "summary": "ヒメカイメンタケ（Coltriciella dependens）。锈革孔菌科小型多孔菌，于针叶树倒木、树桩及朽木下面倒生小盖；盖褐至红褐而薄，背面菌管粗，质地柔软如海绵（故名），为木材腐朽菌。",
+      "habitat_hint": "针叶树倒木、树桩、朽木下面。",
+      "finding_tips": "夏至秋于针叶倒木下面寻找褐色、薄而海绵质、倒生的小盖菌。"
+    }
+  },
+  "Conocybe apala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キコガサタケ。ヒメノガステル科（またはナヨタケの仲間）の小さなきのこで、初夏〜秋、芝地や草地、庭、公園の草の間に群生する。傘は円錐形〜釣鐘形で、乳白色〜淡黄色。柄は細く長くもろい。朝に出て日中にしおれる、はかないきのこ。食用にはしない。",
+      "habitat_hint": "初夏〜秋、芝地、草地、庭、公園の草の間。",
+      "finding_tips": "初夏〜秋の朝、芝地や草地で乳白色の円錐形の傘と、細く長いもろい柄のきのこを探します。日中にしおれます。"
+    },
+    "en": {
+      "summary": "Ki-kogasa-take, the milky conecap (Conocybe apala). A small mushroom of the Bolbitiaceae fruiting gregariously among grass on lawns, grassland, gardens and parks from early summer to autumn; the cap is conical to bell-shaped and milky-white to pale yellow, on a slender, long, fragile stem. An ephemeral mushroom that appears in the morning and wilts by day; not eaten.",
+      "habitat_hint": "Early summer to autumn, among grass on lawns, grassland, gardens, parks.",
+      "finding_tips": "On early-summer to autumn mornings on lawns and grassland look for the milky-white conical cap on a slender fragile stem; it wilts by day."
+    },
+    "zh": {
+      "summary": "乳白锥盖伞（キコガサタケ，Conocybe apala）。粪锈伞科小型菌，初夏至秋群生于草坪、草地、庭园及公园草间；菌盖锥形至钟形、乳白至淡黄，柄细长而脆，晨出昼萎、短命，不宜食用。",
+      "habitat_hint": "初夏至秋，草坪、草地、庭园、公园草间。",
+      "finding_tips": "初夏至秋清晨于草坪草地寻找乳白锥形盖、柄细长脆的菌，昼即萎。"
+    }
+  },
+  "Conus striatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Striated cone",
+    "ja": {
+      "summary": "ニシキミナシ。イモガイ科の巻貝で、暖かい海のサンゴ礁や岩礁、砂れき底の潮下帯にすむ。殻は円錐形（イモ形）で、白っぽい地に褐色の細かい縞や網目模様が入り美しい。毒のある銛（もり）状の歯で魚を刺して麻痺させて食べる肉食性で、人が刺されると重症・死に至ることもある危険な貝。素手で触らない。",
+      "habitat_hint": "暖かい海のサンゴ礁、岩礁、砂れき底の潮下帯、浅い海。",
+      "finding_tips": "暖地のサンゴ礁や砂れき底で、円錐形で褐色の縞模様のあるイモガイを探します。毒があるので素手で触らない。"
+    },
+    "en": {
+      "summary": "Nishiki-minashi, the striated cone (Conus striatus). A cone snail of the Conidae living on coral and rocky reefs and sandy-gravel bottoms in the subtidal of warm seas; the conical shell is whitish with fine brown streaks and a net pattern, and is beautiful. It is a fish-hunter that spears prey with a venomous harpoon-like tooth to paralyze it, and its sting can be severe or even fatal to people. Do not handle it bare-handed.",
+      "habitat_hint": "Warm-sea coral and rocky reefs, sandy-gravel bottoms, subtidal, shallow water.",
+      "finding_tips": "On warm-region reefs and sandy-gravel bottoms look for the conical shell with fine brown streaks; venomous, do not touch bare-handed."
+    },
+    "zh": {
+      "summary": "线纹芋螺（ニシキミナシ，Conus striatus）。芋螺科螺类，栖于暖海珊瑚礁、岩礁及砂砾底潮下带；壳圆锥形（芋形），偏白具褐色细纹及网纹而美，为以毒鱼叉状齿刺鱼麻痹取食的肉食种，人被刺可致重症甚至死亡，勿徒手触碰。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、砂砾底潮下带、浅海。",
+      "finding_tips": "于暖地礁石及砂砾底寻找圆锥形、具褐色细纹的芋螺；有毒勿徒手触碰。"
+    }
+  },
+  "Coprinellus micaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mica cap",
+    "ja": {
+      "summary": "キララタケ。ナヨタケ科のヒトヨタケの仲間で、春〜秋、切り株や埋もれた木、朽木のまわりに群生する。傘は卵形〜鐘形で淡黄褐色、若いとき表面に雲母（きらら）のようにきらきら光る細かな粒（雲母状の被膜）をつけるのが名の由来。成熟すると傘が液化して黒くとける。",
+      "habitat_hint": "春〜秋、切り株、埋もれた木、朽木のまわり、庭木の根ぎわ。",
+      "finding_tips": "春〜秋、切り株や庭木の根ぎわで、淡黄褐色の卵形の傘に雲母状の光る粒をつけるきのこの群生を探します。"
+    },
+    "en": {
+      "summary": "Kirara-take, the mica cap (Coprinellus micaceus). An inkcap of the Psathyrellaceae fruiting gregariously around stumps, buried wood and rotten wood in spring to autumn; the egg- to bell-shaped cap is pale yellow-brown and, when young, is dotted with fine mica-like glistening granules (veil), source of the name. At maturity the cap deliquesces to black ink.",
+      "habitat_hint": "Spring to autumn, around stumps, buried wood, rotten wood, tree bases.",
+      "finding_tips": "From spring to autumn around stumps and tree bases look for the pale yellow-brown egg-shaped caps dotted with glistening mica-like granules."
+    },
+    "zh": {
+      "summary": "晶粒小鬼伞（キララタケ，Coprinellus micaceus）。小脆柄菇科鬼伞类，春至秋群生于树桩、埋木及朽木周围；菌盖卵形至钟形、淡黄褐，幼时表面散布云母状闪亮颗粒（菌幕，故名），成熟自溶为黑汁。",
+      "habitat_hint": "春至秋，树桩、埋木、朽木周围、庭木根际。",
+      "finding_tips": "春至秋于树桩及庭木根际寻找淡黄褐卵形盖、具云母状闪亮颗粒的丛生菌。"
+    }
+  },
+  "Coprinellus radians": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Inkcap",
+    "ja": {
+      "summary": "コキララタケ。ナヨタケ科のヒトヨタケの仲間で、春〜秋、腐木や切り株、朽ちた材のまわりに群生する。傘は卵形〜鐘形で淡黄褐色、表面に細かな粒状の鱗片をつける。成熟すると傘が液化して黒くとける。基部に放射状（radians）に広がる橙黄色の菌糸のマット（オゾニウム）ができることが特徴。",
+      "habitat_hint": "春〜秋、腐木、切り株、朽ちた材のまわり。",
+      "finding_tips": "春〜秋、腐木や切り株で、淡黄褐色の卵形の傘と、基部に放射状に広がる橙黄色の菌糸のマットをもつきのこを探します。"
+    },
+    "en": {
+      "summary": "Ko-kirara-take (Coprinellus radians), an inkcap. An inkcap of the Psathyrellaceae fruiting gregariously around rotten wood, stumps and decaying timber in spring to autumn; the egg- to bell-shaped cap is pale yellow-brown with fine granular scales, deliquescing to black ink at maturity. It characteristically grows from a radiating (radians) orange-yellow mycelial mat (ozonium).",
+      "habitat_hint": "Spring to autumn, around rotten wood, stumps, decaying timber.",
+      "finding_tips": "From spring to autumn around rotten wood and stumps look for the pale yellow-brown caps growing from a radiating orange-yellow mycelial mat."
+    },
+    "zh": {
+      "summary": "辐毛小鬼伞（コキララタケ，Coprinellus radians）。小脆柄菇科鬼伞类，春至秋群生于腐木、树桩及朽材周围；菌盖卵形至钟形、淡黄褐、被细颗粒鳞片，成熟自溶为黑汁，基部特生放射状（radians）橙黄色菌丝垫（火菌丝）。",
+      "habitat_hint": "春至秋，腐木、树桩、朽材周围。",
+      "finding_tips": "春至秋于腐木树桩寻找淡黄褐卵形盖、基部具放射状橙黄菌丝垫的菌。"
+    }
+  },
+  "Cordierites frondosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロハナビラタケ。ズキンタケの仲間（子のう菌）のきのこで、夏〜秋、広葉樹の枯れ木や倒木、切り株に群生する。子実体は黒色でゼリー質〜寒天質、花びらのように波打つ葉状の塊が重なる。キクラゲに似るが、食べると光線過敏症などの中毒を起こす有毒きのこ。食用にしない。",
+      "habitat_hint": "夏〜秋、広葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "夏〜秋、広葉樹の枯れ木で黒く花びら状に波打つゼリー質のきのこを探します。有毒なので食べない。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Kuro-hanabira-take (Cordierites frondosus). An ascomycete fungus fruiting gregariously on dead wood, logs and stumps of broadleaf trees in summer to autumn; the fruit-body is black and gelatinous, a mass of wavy, petal-like leafy lobes. It resembles wood ear but is poisonous, causing photosensitivity and other poisoning if eaten. Not eaten.",
+      "habitat_hint": "Summer to autumn, dead wood, logs and stumps of broadleaf trees.",
+      "finding_tips": "From summer to autumn on dead broadleaf wood look for the black gelatinous fungus of wavy petal-like lobes; poisonous, do not eat."
+    },
+    "zh": {
+      "summary": "叶状耳盘菌（クロハナビラタケ，Cordierites frondosus）。子囊菌真菌，夏至秋群生于阔叶树枯木、倒木及树桩；子实体黑色胶质，为花瓣状波状叶片叠生，似木耳但有毒，食后致光敏性等中毒，不宜食用。",
+      "habitat_hint": "夏至秋，阔叶树枯木、倒木、树桩。",
+      "finding_tips": "夏至秋于阔叶枯木寻找黑色、花瓣状波状的胶质菌；有毒勿食。"
+    }
   }
 }
