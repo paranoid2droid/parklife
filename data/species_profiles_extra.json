@@ -239197,5 +239197,524 @@
       "habitat_hint": "平地至山地草地、林缘、农田、庭园。",
       "finding_tips": "夏于灯下寻找前翅具金属银白斑的金翅夜蛾。"
     }
+  },
+  "Apluda mutica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オキナワカルカヤ。イネ科アプルダ属の多年草で、暖地の日当たりのよい草地や道ばた、林縁、斜面に生える。細い茎が株になって斜めに立ち、上部の枝に小さな小穂をつける。カルカヤ（刈萱）の名がつくが別属。南日本や南西諸島などの暖地に多い。",
+      "habitat_hint": "暖地の日当たりのよい草地、道ばた、林縁、斜面。",
+      "finding_tips": "夏〜秋、暖地の草地や道ばたで斜めに立つ細い茎と、上部の枝につく小さな小穂のイネ科を探します。"
+    },
+    "en": {
+      "summary": "Okinawa-karukaya (Apluda mutica), a grass. A perennial grass growing on sunny grassland, roadsides, woodland edges and slopes in warm regions; slender stems form tufts leaning outward, with small spikelets on the upper branches. Common in warm southern Japan and the Ryukyu Islands.",
+      "habitat_hint": "Warm-region sunny grassland, roadsides, woodland edges, slopes.",
+      "finding_tips": "From summer to autumn on warm-region grassland and roadsides look for the leaning slender-stemmed grass with small spikelets on upper branches."
+    },
+    "zh": {
+      "summary": "水蔗草（オキナワカルカヤ，Apluda mutica）。禾本科水蔗草属多年生草本，生于暖地向阳草地、路旁、林缘及坡地；细茎丛生斜立，上部分枝生小穗，多见于南日本及琉球群岛暖地。",
+      "habitat_hint": "暖地向阳草地、路旁、林缘、坡地。",
+      "finding_tips": "夏至秋于暖地草地路旁寻找斜立细茎、上部分枝生小穗的禾草。"
+    }
+  },
+  "Aquilegia buergeriana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キバナノヤマオダマキ。キンポウゲ科オダマキ属の多年草で、山地の草地や林縁、明るい林床に生える。ヤマオダマキの一型で、下向きに咲く花は外側の萼も内側の花弁も黄白色〜淡黄色で、後ろに距（きょ）が突き出る。初夏〜夏に開花する。",
+      "habitat_hint": "山地の草地、林縁、明るい林床、やや乾いた斜面。",
+      "finding_tips": "6〜8月、山地の草地で下向きに咲く黄白色〜淡黄色の花と、後ろに突き出た距をもつオダマキを探します。"
+    },
+    "en": {
+      "summary": "Kibana-no-yama-odamaki (Aquilegia buergeriana), a columbine. A perennial columbine of montane grassland, woodland edges and open forest floor; a yellow form of yama-odamaki, its nodding flowers have both the outer sepals and inner petals yellow-white to pale yellow, with backward-pointing spurs. It flowers in early to mid summer.",
+      "habitat_hint": "Montane grassland, woodland edges, open forest floor, dryish slopes.",
+      "finding_tips": "From June to August in montane grassland look for the nodding yellow-white columbine flowers with backward-pointing spurs."
+    },
+    "zh": {
+      "summary": "キバナノヤマオダマキ（Aquilegia buergeriana）。毛茛科耧斗菜属多年生草本，生于山地草地、林缘及明亮林床；为山耧斗菜的黄花型，花下垂、内外瓣均黄白至淡黄，后具距，初夏至夏开花。",
+      "habitat_hint": "山地草地、林缘、明亮林床、略干坡地。",
+      "finding_tips": "6 至 8 月于山地草地寻找下垂黄白色、后具距的耧斗菜花。"
+    }
+  },
+  "Asplenium kidoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アイトキワトラノオ。チャセンシダ科チャセンシダ属のシダで、トキワトラノオなど近縁種の雑種とされ、山地の湿った岩壁や石垣、渓流沿いの岩に生える。細い葉軸に沿って小さな羽片を並べる。常緑性で、湿った日陰の岩に着生する。",
+      "habitat_hint": "山地の湿った岩壁、石垣、渓流沿いの岩、崖。",
+      "finding_tips": "一年中、山地の湿った岩壁や石垣で細い葉軸に小羽片が並ぶ小さな常緑のシダを探します。"
+    },
+    "en": {
+      "summary": "Ai-tokiwa-toranoo (Asplenium kidoi), a spleenwort. A fern of the Aspleniaceae regarded as a hybrid of related spleenworts, growing on damp montane rock walls, stone walls and streamside rock; small pinnae are arranged along a slender rachis. Evergreen, it grows on damp shaded rock.",
+      "habitat_hint": "Montane damp rock walls, stone walls, streamside rock, cliffs.",
+      "finding_tips": "Year-round on damp montane rock walls and stone walls look for the small evergreen fern with pinnae along a slender rachis."
+    },
+    "zh": {
+      "summary": "アイトキワトラノオ（Asplenium kidoi）。铁角蕨科铁角蕨属蕨类，被视为近缘铁角蕨的杂交种，生于山地湿润岩壁、石墙及溪流沿岸岩；小羽片沿细叶轴排列，常绿，附生于湿荫岩面。",
+      "habitat_hint": "山地湿润岩壁、石墙、溪流沿岸岩、崖。",
+      "finding_tips": "全年于山地湿润岩壁及石墙寻找细叶轴、小羽片排列的常绿小蕨。"
+    }
+  },
+  "Athetis dissimilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "テンウスイロヨトウ。ヤガ科ヨトウガ亜科の小さなガで、平地〜山地の草地、林縁、農地に見られる。翅は淡い褐色（薄色）で、小さな点（星）状の斑がある。幼虫はさまざまな草本を食べる。夜に灯火に集まる。地味で目立たない小型のヨトウ。",
+      "habitat_hint": "平地〜山地の草地、林縁、農地、河原。",
+      "finding_tips": "夏、灯火で淡い褐色に小さな点状の斑のある小さなヨトウガを探します。"
+    },
+    "en": {
+      "summary": "Ten-usuiro-yotō (Athetis dissimilis), an owlet moth. A small noctuid moth of the Amphipyrinae found in lowland to montane grassland, edges and farmland; the wings are pale brown with small dot-like (star) markings. The larva feeds on various herbs, and adults come to lights at night. A plain, inconspicuous small owlet.",
+      "habitat_hint": "Lowland to montane grassland, edges, farmland, riverbanks.",
+      "finding_tips": "In summer look at lights for the small pale-brown owlet moth with small dot markings."
+    },
+    "zh": {
+      "summary": "テンウスイロヨトウ（Athetis dissimilis）。夜蛾科秘夜蛾亚科小型蛾，见于平地至山地草地、林缘及农田；翅淡褐、具小点状斑，幼虫食多种草本，成虫夜间趋光，为朴素不显的小型夜蛾。",
+      "habitat_hint": "平地至山地草地、林缘、农田、河滩。",
+      "finding_tips": "夏于灯下寻找淡褐、具小点状斑的小型夜蛾。"
+    }
+  },
+  "Athyrium neglectum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コシノサトメシダ。メシダ科メシダ属のシダで、山地の湿った林床や林縁、谷沿いに生える。葉はやわらかく二回羽状に細かく切れ込む。株立ちになり、しばしば群生する。サトメシダに近い仲間で、越後（コシ）地方などに分布する。",
+      "habitat_hint": "山地の湿った林床、林縁、谷沿い、沢沿いの日陰。",
+      "finding_tips": "一年中、山地の湿った林床で株立ちになる、二回羽状のやわらかい葉のシダを探します。"
+    },
+    "en": {
+      "summary": "Koshino-sato-meshida (Athyrium neglectum), a lady fern. A fern of the lady-fern family growing on damp montane forest floor, edges and valleys; the soft fronds are twice-pinnately finely divided. It forms clumps and often grows in colonies, a relative of A. vidalii distributed in the Echigo (Koshi) region and elsewhere.",
+      "habitat_hint": "Damp montane forest floor, edges, valleys, shaded streamsides.",
+      "finding_tips": "Year-round on damp montane forest floor look for the clump-forming fern with soft, twice-pinnately divided fronds."
+    },
+    "zh": {
+      "summary": "コシノサトメシダ（Athyrium neglectum）。蹄盖蕨科蹄盖蕨属蕨类，生于山地湿润林床、林缘及谷地；叶柔软、二回羽状细裂，丛生常成片，近里白蹄盖蕨、分布越后一带。",
+      "habitat_hint": "山地湿润林床、林缘、谷地、沟谷荫处。",
+      "finding_tips": "全年于山地湿润林床寻找丛生、二回羽状柔软叶的蕨。"
+    }
+  },
+  "Autographa amurica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "オオムラサキキンウワバ。ヤガ科キンウワバの仲間のガで、平地〜山地の草地、林縁、農地に見られる。前翅は紫色を帯びた褐色で、金属光沢のある銀白色の紋（銀星）が入る。幼虫はさまざまな草本を食べる。夜に灯火に集まる。前翅に光る紋をもつ美しいガ。",
+      "habitat_hint": "平地〜山地の草地、林縁、農地、庭。",
+      "finding_tips": "夏、灯火で紫を帯びた前翅に金属光沢のある銀白色の紋のあるキンウワバを探します。"
+    },
+    "en": {
+      "summary": "Ō-murasaki-kin-uwaba (Autographa amurica), an owlet moth. A noctuid moth of the Plusiinae found in lowland to montane grassland, edges and farmland; the forewing is purple-tinged brown with a metallic silvery-white mark (a silver spot). The larva feeds on various herbs, and adults come to lights at night. A pretty moth with a shining forewing mark.",
+      "habitat_hint": "Lowland to montane grassland, edges, farmland, gardens.",
+      "finding_tips": "In summer look at lights for the purple-tinged owlet moth with a metallic silvery-white mark on the forewing."
+    },
+    "zh": {
+      "summary": "オオムラサキキンウワバ（Autographa amurica）。夜蛾科金翅夜蛾类的一种蛾，见于平地至山地草地、林缘及农田；前翅带紫褐、具金属光泽银白斑（银星），幼虫食多种草本，成虫夜间趋光，前翅具亮斑而美。",
+      "habitat_hint": "平地至山地草地、林缘、农田、庭园。",
+      "finding_tips": "夏于灯下寻找前翅带紫、具金属银白斑的金翅夜蛾。"
+    }
+  },
+  "Batillaria zonalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mud creeper",
+    "ja": {
+      "summary": "イボウミニナ。ウミニナ科の巻貝で、内湾や河口の干潟、塩性湿地、汽水域の泥底にすむ。殻は細長い塔形で、褐色〜黒褐色をおび、表面にいぼ状の突起（顆粒）が並ぶのが名の由来。干潟の泥の上をはい、泥中の有機物や付着藻類を食べる。しばしば多数が集まる。",
+      "habitat_hint": "内湾や河口の干潟、塩性湿地、汽水域の泥底。",
+      "finding_tips": "干潮時、干潟の泥の上で、いぼ状の突起が並ぶ細長い塔形の巻貝を探します。しばしば多数が集まります。"
+    },
+    "en": {
+      "summary": "Ibo-uminina (Batillaria zonalis), a mud creeper. A snail of the Batillariidae living on tidal flats, salt marshes and brackish mud in bays and estuaries; the elongate tower-shaped shell is brown to blackish-brown with rows of wart-like knobs (granules), source of the name. It crawls over tidal-flat mud, feeding on organic matter and attached algae, often in numbers.",
+      "habitat_hint": "Tidal flats of bays and estuaries, salt marshes, brackish mud.",
+      "finding_tips": "At low tide on tidal-flat mud look for the elongate tower-shaped snail with rows of wart-like knobs, often in numbers."
+    },
+    "zh": {
+      "summary": "イボウミニナ（Batillaria zonalis）。汇螺科螺类，栖于内湾及河口滩涂、盐沼及半咸水泥底；壳细长塔形，褐至黑褐、表面具疣状突起（颗粒，故名），于滩涂泥面爬行，取食有机质及附着藻类，常成群。",
+      "habitat_hint": "内湾及河口滩涂、盐沼、半咸水泥底。",
+      "finding_tips": "退潮时于滩涂泥面寻找具疣状突起、细长塔形的螺，常成群。"
+    }
+  },
+  "Brachythecium garovaglioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケヒツジゴケ。アオギヌゴケ科の蘚類で、樹幹の下部や岩、地上、腐木に緑〜黄緑色のマット状に生える。茎と枝がやや不規則に伸び、葉は毛のように細い先をもつ。低地〜山地で普通に見られ、都市の木や石の上でも見られる。",
+      "habitat_hint": "樹幹の下部、岩、地上、腐木、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹の下部や岩で緑〜黄緑のマット状の蘚をルーペで探します。葉先が毛状に細い。"
+    },
+    "en": {
+      "summary": "Ke-hitsuji-goke (Brachythecium garovaglioides), a moss. A moss of the Brachytheciaceae growing as green to yellow-green mats on the lower trunk, rock, ground and rotten wood; the stems and branches spread somewhat irregularly and the leaves taper to hair-like points. Common in lowland to montane areas, seen even on urban trees and stone.",
+      "habitat_hint": "Lower tree trunks, rock, ground, rotten wood, park and shrine trees.",
+      "finding_tips": "Year-round on lower trunks and rock use a lens to find the green to yellow-green moss mats with hair-pointed leaves."
+    },
+    "zh": {
+      "summary": "圆枝青藓（ケヒツジゴケ，Brachythecium garovaglioides）。青藓科藓类，于树干下部、岩、地面及腐木成绿至黄绿垫状；茎枝略不规则伸展，叶端渐狭如毛，常见于低地至山地，城市树石亦可见。",
+      "habitat_hint": "树干下部、岩石、地面、腐木、公园及神社寺庙树木。",
+      "finding_tips": "全年于树干下部及岩石用放大镜寻找绿至黄绿、叶端毛尖的藓垫。"
+    }
+  },
+  "Bradybaena circulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "パンダナマイマイ。オナジマイマイ科の陸生の巻貝で、暖地の林縁や草地、庭、石垣、人里の湿った場所に見られる。殻は円盤状〜低い円錐形で、白っぽい地に黒褐色の帯（色帯）が入る個体があり、白黒の対比がパンダを思わせるのが名の由来。植物や落ち葉、菌類を食べる。",
+      "habitat_hint": "暖地の林縁、草地、庭、石垣、人里の湿った場所。",
+      "finding_tips": "雨後や湿った時期、暖地の林縁や石垣で、白っぽい殻に黒褐色の帯のある陸生の巻貝を探します。"
+    },
+    "en": {
+      "summary": "Panda-namaimai (Bradybaena circulus), a land snail. A land snail of the Bradybaenidae found on warm-region woodland edges, grassland, gardens, stone walls and damp places near habitation; the disc-shaped to low conical shell is whitish, some with a black-brown band, the black-and-white contrast recalling a panda, source of the name. It eats plants, litter and fungi.",
+      "habitat_hint": "Warm-region woodland edges, grassland, gardens, stone walls, damp inhabited places.",
+      "finding_tips": "After rain or in damp weather on warm-region edges and stone walls look for the whitish land snail with a black-brown band."
+    },
+    "zh": {
+      "summary": "パンダナマイマイ（Bradybaena circulus）。同型巴蜗牛科陆生螺，见于暖地林缘、草地、庭园、石墙及村落湿处；壳盘状至低圆锥形，偏白，部分具黑褐色色带，黑白对比似熊猫（故名），取食植物、落叶及真菌。",
+      "habitat_hint": "暖地林缘、草地、庭园、石墙、村落湿处。",
+      "finding_tips": "雨后或潮湿期于暖地林缘及石墙寻找偏白、具黑褐色带的陆生螺。"
+    }
+  },
+  "Bryophila granitalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "イチモジキノコヨトウ。ヤガ科キノコヨトウの仲間の小さなガで、平地〜山地の樹林や林縁、岩場、石垣のある環境に見られる。翅は灰色〜灰褐色で、地衣類や岩に紛れる模様と一本の筋（一文字）がある。幼虫は樹皮や岩につく地衣類を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、岩場、石垣、地衣類のある環境。",
+      "finding_tips": "夏、灯火で灰色〜灰褐色に一本の筋のある地衣に似た模様の小さなガを探します。"
+    },
+    "en": {
+      "summary": "Ichimoji-kinoko-yotō (Bryophila granitalis), an owlet moth. A small noctuid moth found in lowland to montane woodland, edges, rocky places and around stone walls; the grey to grey-brown wings have a lichen-and-rock camouflage pattern with a single streak. The larva feeds on lichens on bark and rock, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, rocky places, stone walls, lichen habitats.",
+      "finding_tips": "In summer look at lights for the small grey to grey-brown lichen-patterned moth with a single streak."
+    },
+    "zh": {
+      "summary": "イチモジキノコヨトウ（Bryophila granitalis）。夜蛾科的一种小蛾，见于平地至山地林地、林缘、岩场及有石墙的环境；翅灰至灰褐、具似地衣岩石的伪装斑及一条纹，幼虫取食树皮及岩上地衣，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、岩场、石墙、有地衣的环境。",
+      "finding_tips": "夏于灯下寻找灰至灰褐、似地衣斑、具一条纹的小蛾。"
+    }
+  },
+  "Buglossoides arvensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "麦家公"
+    },
+    "ja": {
+      "summary": "イヌムラサキ。ムラサキ科イヌムラサキ属の一〜越年草で、ヨーロッパ〜アジア原産の帰化植物。道ばたや畑、荒れ地、麦畑に生える。全体にざらつく毛があり、春〜初夏、白い小さな花を葉のわきに咲かせる。ムラサキに似るが染料にならないことから「犬（役に立たない）ムラサキ」の名がある。",
+      "habitat_hint": "道ばた、畑、荒れ地、麦畑、造成地。",
+      "finding_tips": "4〜6月、道ばたや畑でざらつく毛のある茎葉と、葉のわきに咲く白い小さな花を探します。"
+    },
+    "en": {
+      "summary": "Inu-murasaki, corn gromwell (Buglossoides arvensis). An annual to winter-annual of the borage family native to Europe and Asia, naturalized on roadsides, fields, waste ground and cornfields; the plant is rough-hairy throughout and, in spring to early summer, bears small white flowers in the leaf axils. Unlike true gromwell it yields no dye, hence the Japanese name ('dog gromwell', i.e. useless).",
+      "habitat_hint": "Roadsides, fields, waste ground, cornfields, developed sites.",
+      "finding_tips": "From April to June on roadsides and fields look for the rough-hairy plant with small white flowers in the leaf axils."
+    },
+    "zh": {
+      "summary": "麦家公（イヌムラサキ，Buglossoides arvensis）。紫草科紫草属一至越年生草本，原产欧亚，归化于路旁、农田、荒地及麦田；全株被粗毛，春至初夏叶腋开白色小花，不同于紫草不能作染料（和名意为“无用紫草”）。",
+      "habitat_hint": "路旁、农田、荒地、麦田、造地。",
+      "finding_tips": "4 至 6 月于路旁农田寻找被粗毛茎叶及叶腋白色小花。"
+    }
+  },
+  "Calamotropha paludella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bulrush veneer",
+    "ja": {
+      "summary": "シロツトガ。ツトガ科（ツトガの仲間）の小さなガで、湿地や池沼のふち、水辺のガマ・ヨシなどの茂みに見られる。翅は白っぽく細長く、静止時に体に巻きつけるようにたたむ。幼虫はガマ（蒲）などの水辺の植物の葉や茎を食べる。夜に灯火に集まる。",
+      "habitat_hint": "湿地、池沼のふち、水辺のガマ・ヨシの茂み、水路。",
+      "finding_tips": "夏、水辺のガマやヨシの茂みや灯火で、白っぽく細長い翅を体に巻きつけるツトガを探します。"
+    },
+    "en": {
+      "summary": "Shiro-tsutoga, the bulrush veneer (Calamotropha paludella). A small crambid moth found around wetlands, pond margins and stands of cattail and reed at the waterside; the wings are whitish and elongate, folded around the body at rest. The larva feeds on the leaves and stems of cattail and other waterside plants, and adults come to lights at night.",
+      "habitat_hint": "Wetlands, pond margins, waterside cattail and reed stands, channels.",
+      "finding_tips": "In summer around waterside cattail and reed or at lights look for the whitish elongate veneer moth folded around its body."
+    },
+    "zh": {
+      "summary": "シロツトガ（Calamotropha paludella）。草螟科小型蛾，见于湿地、池沼边及水边香蒲、芦苇丛；翅偏白细长，静止时卷绕体侧，幼虫食香蒲等水边植物叶茎，成虫夜间趋光。",
+      "habitat_hint": "湿地、池沼边、水边香蒲芦苇丛、水渠。",
+      "finding_tips": "夏于水边香蒲芦苇丛及灯下寻找偏白细长、卷绕体侧的草螟。"
+    }
+  },
+  "Calliteara argentata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tussock moth",
+    "ja": {
+      "summary": "スギドクガ。ドクガ科（ドクガの仲間）のガで、平地〜山地のスギやヒノキなどの針葉樹林、樹林に見られる。翅は灰色〜灰褐色でまだら模様がある。幼虫はスギ・ヒノキなどの葉を食べる毛虫で、背に毛の束（毛塊）をもつが、名に「ドクガ」とあっても毒針毛は弱い。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地のスギ・ヒノキなど針葉樹林、樹林、林縁。",
+      "finding_tips": "初夏〜夏、針葉樹林や灯火で灰色にまだら模様のあるドクガの仲間を探します。幼虫は背に毛束のある毛虫。"
+    },
+    "en": {
+      "summary": "Sugi-dokuga (Calliteara argentata), a tussock moth. A tussock moth (Erebidae, Lymantriinae) found in cedar and cypress conifer forest and woodland from lowland to mountains; the wings are grey to grey-brown and mottled. The larva is a hairy caterpillar with dorsal hair-tufts that feeds on cedar and cypress; despite the family name its urticating hairs are weak. Adults come to lights at night.",
+      "habitat_hint": "Lowland to montane cedar and cypress conifer forest, woodland, edges.",
+      "finding_tips": "From early summer to summer in conifer forest and at lights look for the grey mottled tussock moth; the larva has dorsal hair-tufts."
+    },
+    "zh": {
+      "summary": "スギドクガ（Calliteara argentata）。毒蛾科的一种蛾，见于平地至山地杉、桧等针叶林及林地；翅灰至灰褐、具斑驳，幼虫为具背毛束的毛虫、食杉桧叶，虽名毒蛾但毒毛较弱，成虫夜间趋光。",
+      "habitat_hint": "平地至山地杉、桧等针叶林、林地、林缘。",
+      "finding_tips": "初夏至夏于针叶林及灯下寻找灰色具斑驳的毒蛾类，幼虫背具毛束。"
+    }
+  },
+  "Calosoma inquisitor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caterpillar hunter",
+    "ja": {
+      "summary": "アオカタビロオサムシ。オサムシ科（オサムシの仲間）の甲虫で、平地〜山地の雑木林や林縁、樹上に見られる。体は青緑色〜銅色の金属光沢が美しく、上翅にも光沢がある。木に登ってガのイモムシ（毛虫）などを捕らえて食べる肉食性で、害虫を抑える益虫。よく飛ぶ。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、樹上、コナラ・クヌギ林。",
+      "finding_tips": "初夏、雑木林の木の幹や葉の上で、青緑色〜銅色の金属光沢のある大きめのオサムシを探します。"
+    },
+    "en": {
+      "summary": "Ao-katabiro-osamushi (Calosoma inquisitor), a caterpillar hunter. A ground beetle of lowland to montane secondary woodland, edges and trees; the body has a beautiful blue-green to coppery metallic sheen, with glossy elytra. It climbs trees to catch and eat moth caterpillars, a carnivorous beneficial beetle that controls pests, and it flies well.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, on trees, oak woods.",
+      "finding_tips": "In early summer on the trunks and leaves of secondary woodland look for the largish blue-green to coppery metallic ground beetle."
+    },
+    "zh": {
+      "summary": "青步甲（アオカタビロオサムシ，Calosoma inquisitor）。步甲科甲虫，见于平地至山地杂木林、林缘及树上；体青绿至铜色金属光泽美丽、鞘翅有光泽，能上树捕食蛾类毛虫，为抑制害虫的肉食益虫，善飞。",
+      "habitat_hint": "平地至山地杂木林、林缘、树上、麻栎栎类林。",
+      "finding_tips": "初夏于杂木林树干及叶上寻找青绿至铜色金属光泽的较大步甲。"
+    }
+  },
+  "Calyptocarpus vialis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Straggler daisy",
+    "ja": {
+      "summary": "ツルセンダングサ。キク科の多年草で、熱帯アメリカ原産の帰化植物。暖地の道ばたや芝地、庭、荒れ地に生える。茎が地表を這うように広がり、対生の葉をつける。ほぼ周年、黄色い小さな頭花を咲かせる。果実にとげがあり、動物や衣服にくっついて運ばれる。",
+      "habitat_hint": "暖地の道ばた、芝地、庭、荒れ地、公園の芝生。",
+      "finding_tips": "暖地の道ばたや芝地で地を這う茎と、黄色い小さな頭花を探します。ほぼ周年咲きます。"
+    },
+    "en": {
+      "summary": "Tsuru-sendangusa, the straggler daisy (Calyptocarpus vialis). A perennial of the daisy family native to tropical America, naturalized on warm-region roadsides, lawns, gardens and waste ground; the stems creep over the ground with opposite leaves and it bears small yellow heads almost year-round. The fruit has spines that catch on animals and clothing to be dispersed.",
+      "habitat_hint": "Warm-region roadsides, lawns, gardens, waste ground, park turf.",
+      "finding_tips": "On warm-region roadsides and lawns look for the creeping stems and small yellow flower heads; it blooms nearly year-round."
+    },
+    "zh": {
+      "summary": "金腰箭舅（ツルセンダングサ，Calyptocarpus vialis）。菊科多年生草本，原产热带美洲，归化于暖地路旁、草坪、庭园及荒地；茎匍匐地面、叶对生，近全年开黄色小头状花，果具刺，粘附动物及衣物传播。",
+      "habitat_hint": "暖地路旁、草坪、庭园、荒地、公园草坪。",
+      "finding_tips": "于暖地路旁草坪寻找匍匐茎及黄色小头状花，近全年开放。"
+    }
+  },
+  "Canarium mutabile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムカシタモト。カンラン科（オリーブに近い）の常緑高木で、南西諸島などの暖地の照葉樹林や谷沿いの樹林に生える。羽状の複葉をもち、幹は太く、樹脂を含む。地味な小花を咲かせ、卵形の果実をつける。熱帯性の樹木で、南日本の島々に分布する。",
+      "habitat_hint": "南西諸島などの暖地の照葉樹林、谷沿いの樹林。",
+      "finding_tips": "南西諸島の照葉樹林で、羽状の複葉をもち幹の太い常緑高木を探します。"
+    },
+    "en": {
+      "summary": "Mukashi-tamoto (Canarium mutabile). An evergreen tree of the torchwood family (related to olives), growing in warm-region evergreen broadleaf forest and valley woodland such as the Ryukyu Islands; it has pinnate compound leaves, a stout resinous trunk, plain small flowers and egg-shaped fruits. A tropical tree of the southern Japanese islands.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, valley woodland (Ryukyu etc.).",
+      "finding_tips": "In Ryukyu evergreen forest look for the evergreen tree with pinnate compound leaves and a stout trunk."
+    },
+    "zh": {
+      "summary": "ムカシタモト（Canarium mutabile）。橄榄科常绿乔木，生于琉球等暖地照叶林及谷地林木；叶羽状复叶，干粗含树脂，开朴素小花、结卵形果，为热带性树木，分布南日本诸岛。",
+      "habitat_hint": "琉球等暖地照叶林、谷地林木。",
+      "finding_tips": "于琉球照叶林寻找羽状复叶、干粗的常绿乔木。"
+    }
+  },
+  "Cardamine lyrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミズタガラシ。アブラナ科タネツケバナ属の多年草で、池沼や水路、湿地、休耕田、水辺に生える。水につかる部分は丸い葉が羽状に並び、水面近くや水中でよく茂る。走出枝（ランナー）で広がる。春、白い十字形の小花を咲かせる。水草として親しまれる水辺の植物。",
+      "habitat_hint": "池沼、水路、湿地、休耕田、水辺の浅い水中。",
+      "finding_tips": "春、池沼や水路で丸い葉が羽状に並ぶ水生のタネツケバナの仲間と、白い十字形の小花を探します。"
+    },
+    "en": {
+      "summary": "Mizu-tagarashi (Cardamine lyrata), a bittercress. A perennial of the cabbage family growing in ponds, channels, wetlands, fallow paddies and waterside; the submerged parts have round leaves arranged pinnately, thriving near and under the water surface, and it spreads by runners. In spring it bears small white cross-shaped flowers. A waterside plant enjoyed as an aquarium plant.",
+      "habitat_hint": "Ponds, channels, wetlands, fallow paddies, shallow waterside water.",
+      "finding_tips": "In spring in ponds and channels look for the aquatic bittercress with round pinnately arranged leaves and small white cross-shaped flowers."
+    },
+    "zh": {
+      "summary": "弯曲碎米荠（ミズタガラシ，Cardamine lyrata）。十字花科碎米荠属多年生草本，生于池沼、水渠、湿地、休耕田及水边；沉水部分圆叶羽状排列，近水面及水中繁茂，以匍匐枝蔓延，春开白色十字形小花，为受喜爱的水草。",
+      "habitat_hint": "池沼、水渠、湿地、休耕田、水边浅水。",
+      "finding_tips": "春于池沼水渠寻找圆叶羽状排列的水生碎米荠及白色十字形小花。"
+    }
+  },
+  "Carex arimaensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アリマイトスゲ。カヤツリグサ科スゲ属の多年草で、山地の湿った林床や林縁、谷沿いに生える。糸のように細い葉を根ぎわから束生し、春〜初夏、細い柄の先に小さな小穂をつける。有馬（ありま）などにちなむ名で、イトスゲの仲間の細い葉をもつスゲ。",
+      "habitat_hint": "山地の湿った林床、林縁、谷沿いの日陰。",
+      "finding_tips": "5〜6月、山地の湿った林床で糸のように細い葉を束生し、小さな小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Arima-itosuge (Carex arimaensis), a sedge. A perennial sedge of damp montane forest floor, edges and valleys; thread-fine leaves are tufted from the base, and in spring to early summer it bears small spikelets at the tips of slender stalks. Named for Arima and other places, a fine-leaved thread sedge.",
+      "habitat_hint": "Damp montane forest floor, edges, shaded valleys.",
+      "finding_tips": "In May–June on damp montane forest floor look for the sedge with tufted thread-fine leaves and small spikelets."
+    },
+    "zh": {
+      "summary": "アリマイトスゲ（Carex arimaensis）。莎草科薹草属多年生草本，生于山地湿润林床、林缘及谷地；叶细如丝、基部丛生，春至初夏细梗顶端生小穗，因有马等地得名，为细叶的丝薹类。",
+      "habitat_hint": "山地湿润林床、林缘、谷地荫处。",
+      "finding_tips": "5 至 6 月于山地湿润林床寻找丝状细叶丛生、小穗细小的薹草。"
+    }
+  },
+  "Carex brunnescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメカワズスゲ。カヤツリグサ科スゲ属の多年草で、山地〜亜高山の湿った草地や湿原、林縁、やや湿った斜面に生える。細い茎の上部に、褐色を帯びた小さな小穂をやや離してつける。北方系・高山性の小型のスゲ。しばしば湿った場所に群生する。",
+      "habitat_hint": "山地〜亜高山の湿った草地、湿原、林縁、やや湿った斜面。",
+      "finding_tips": "夏、山地の湿った草地で細い茎の上部に褐色を帯びた小さな小穂を離してつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Hime-kawazu-suge (Carex brunnescens), a sedge. A perennial sedge of damp montane to subalpine grassland, bogs, edges and dampish slopes; small brownish spikelets are borne somewhat spaced on the upper part of slender stems. A small northern, alpine sedge, it often grows gregariously in damp places.",
+      "habitat_hint": "Montane to subalpine damp grassland, bogs, edges, dampish slopes.",
+      "finding_tips": "In summer in damp montane grassland look for the sedge with small brownish spikelets spaced along the upper stem."
+    },
+    "zh": {
+      "summary": "ヒメカワズスゲ（Carex brunnescens）。莎草科薹草属多年生草本，生于山地至亚高山湿润草地、沼泽、林缘及略湿坡地；细茎上部疏生带褐色小穗，为北方高山小型薹草，常成片生于湿处。",
+      "habitat_hint": "山地至亚高山湿润草地、沼泽、林缘、略湿坡地。",
+      "finding_tips": "夏于山地湿润草地寻找细茎上部疏生带褐小穗的薹草。"
+    }
+  },
+  "Carex cespitosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tufted sedge",
+    "ja": {
+      "summary": "カブスゲ。カヤツリグサ科スゲ属の多年草で、湿地や湿原、池沼のふち、湿った草地に生える。根ぎわで大きな株（かぶ）をつくって立ち上がるのが名の由来。春〜初夏、細い茎の先に黒褐色を帯びた小穂を数個つける。湿地に大きな株を点々とつくる。",
+      "habitat_hint": "湿地、湿原、池沼のふち、湿った草地。",
+      "finding_tips": "5〜6月、湿地で大きな株をつくって立ち上がり、黒褐色の小穂をつけるスゲを探します。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Kabu-suge, the tufted sedge (Carex cespitosa). A perennial sedge of wetlands, bogs, pond margins and damp grassland; it forms large tussocks (clumps) at the base that stand up, source of the Japanese name. In spring to early summer it bears a few blackish-brown spikelets at the tips of slender stems, dotting wetlands with large tussocks.",
+      "habitat_hint": "Wetlands, bogs, pond margins, damp grassland.",
+      "finding_tips": "In May–June in wetlands look for the sedge forming large standing tussocks with blackish-brown spikelets."
+    },
+    "zh": {
+      "summary": "丛薹草（カブスゲ，Carex cespitosa）。莎草科薹草属多年生草本，生于湿地、沼泽、池沼边及湿润草地；基部形成大丛（株）直立（故名），春至初夏细茎顶端生数枚黑褐色小穗，于湿地点缀大丛。",
+      "habitat_hint": "湿地、沼泽、池沼边、湿润草地。",
+      "finding_tips": "5 至 6 月于湿地寻找形成大丛直立、生黑褐色小穗的薹草。"
+    }
+  },
+  "Carex fulta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニッコウハリスゲ。カヤツリグサ科スゲ属の多年草で、山地〜亜高山の湿った林床や湿地、沢沿い、やや湿った斜面に生える。細い葉を束生し、春〜初夏、針（はり）のように細い小穂をつける。日光（にっこう）などの山地に分布するハリスゲの仲間。",
+      "habitat_hint": "山地〜亜高山の湿った林床、湿地、沢沿い、やや湿った斜面。",
+      "finding_tips": "5〜7月、山地の湿った林床や沢沿いで細い葉と、針のように細い小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Nikkō-harisuge (Carex fulta), a sedge. A perennial sedge of damp montane to subalpine forest floor, wetlands, streamsides and dampish slopes; slender leaves are tufted and in spring to early summer it bears needle-fine spikelets. A needle-sedge relative distributed in mountains such as Nikkō.",
+      "habitat_hint": "Montane to subalpine damp forest floor, wetlands, streamsides, dampish slopes.",
+      "finding_tips": "From May to July on damp montane forest floor and streamsides look for the sedge with slender leaves and needle-fine spikelets."
+    },
+    "zh": {
+      "summary": "ニッコウハリスゲ（Carex fulta）。莎草科薹草属多年生草本，生于山地至亚高山湿润林床、湿地、沟谷及略湿坡地；细叶丛生，春至初夏生针状细小穗，为分布日光等山地的针薹类。",
+      "habitat_hint": "山地至亚高山湿润林床、湿地、沟谷、略湿坡地。",
+      "finding_tips": "5 至 7 月于山地湿润林床及沟谷寻找细叶、针状细小穗的薹草。"
+    }
+  },
+  "Carex macrocephala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bighead sedge",
+    "ja": {
+      "summary": "エゾノコウボウムギ。カヤツリグサ科スゲ属の多年草で、海岸の砂地や砂丘に生える。太い地下茎で砂の中を長く伸びて広がり、群落をつくって砂を固定する。太い茎の先に、大きくかたい頭状の花穂（雌雄異株）をつける。コウボウムギに近い北方系の海岸スゲ。",
+      "habitat_hint": "海岸の砂地、砂丘、砂れき地。",
+      "finding_tips": "初夏、海岸の砂地で地下茎で広がる群落と、太い茎の先に大きなかたい頭状の花穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Ezo-no-kōbōmugi, the bighead sedge (Carex macrocephala). A perennial sedge growing on coastal sand and dunes; stout rhizomes run long through the sand to form colonies that stabilize it. Stout stems bear a large, hard head-like spike (the plant is dioecious). A northern coastal sedge related to Carex kobomugi.",
+      "habitat_hint": "Coastal sand, dunes, sandy-gravel ground.",
+      "finding_tips": "In early summer on coastal sand look for the rhizomatous colonies and the large, hard head-like spikes on stout stems."
+    },
+    "zh": {
+      "summary": "エゾノコウボウムギ（Carex macrocephala）。莎草科薹草属多年生草本，生于海岸沙地及沙丘；粗地下茎在沙中长伸蔓延成群落固沙，粗茎顶端生大而硬的头状花穗（雌雄异株），为近筛草的北方海岸薹草。",
+      "habitat_hint": "海岸沙地、沙丘、砂砾地。",
+      "finding_tips": "初夏于海岸沙地寻找地下茎蔓延的群落及粗茎顶端大而硬的头状花穗。"
+    }
+  },
+  "Carex scita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "リシリスゲ。カヤツリグサ科スゲ属の多年草で、高山や亜高山の草地、湿った草地、雪田周辺、礫地に生える。細い葉を束生し、夏、細い茎の先に黒褐色を帯びた小穂を数個つける。利尻（りしり）などの北方の高山に分布する北方系のスゲ。",
+      "habitat_hint": "高山や亜高山の草地、湿った草地、雪田周辺、礫地。",
+      "finding_tips": "夏、高山の草地や雪田周辺で細い葉と、細い茎の先に黒褐色を帯びた小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Rishiri-suge (Carex scita), a sedge. A perennial sedge of alpine and subalpine grassland, damp grassland, snow-patch margins and gravel; slender leaves are tufted and in summer it bears a few blackish-brown spikelets at the tips of slender stems. A northern sedge distributed on northern high mountains such as Rishiri.",
+      "habitat_hint": "Alpine and subalpine grassland, damp grassland, snow-patch margins, gravel.",
+      "finding_tips": "In summer in alpine grassland and around snow patches look for the tufted sedge with blackish-brown spikelets."
+    },
+    "zh": {
+      "summary": "リシリスゲ（Carex scita）。莎草科薹草属多年生草本，生于高山及亚高山草地、湿润草地、雪田周边及砾地；细叶丛生，夏于细茎顶端生数枚黑褐色小穗，为分布利尻等北方高山的北方薹草。",
+      "habitat_hint": "高山及亚高山草地、湿润草地、雪田周边、砾地。",
+      "finding_tips": "夏于高山草地及雪田周边寻找细叶丛生、黑褐色小穗的薹草。"
+    }
+  },
+  "Carex sendaica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "センダイスゲ。カヤツリグサ科スゲ属の多年草で、山地の林床や林縁、やや湿った斜面、谷沿いに生える。細い葉を束生し、春〜初夏、細い柄の先に緑褐色の小穂を垂らしてつける。仙台（せんだい）などにちなむ名で、林床に生えるスゲの仲間。",
+      "habitat_hint": "山地の林床、林縁、やや湿った斜面、谷沿い。",
+      "finding_tips": "4〜6月、山地の林床で細い葉と、細い柄の先に垂れる緑褐色の小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Sendai-suge (Carex sendaica), a sedge. A perennial sedge of montane forest floor, edges, dampish slopes and valleys; slender leaves are tufted and in spring to early summer it bears green-brown spikelets drooping on slender stalks. Named for Sendai and other places, a forest-floor sedge.",
+      "habitat_hint": "Montane forest floor, edges, dampish slopes, valleys.",
+      "finding_tips": "From April to June on montane forest floor look for the tufted sedge with green-brown spikelets drooping on slender stalks."
+    },
+    "zh": {
+      "summary": "センダイスゲ（Carex sendaica）。莎草科薹草属多年生草本，生于山地林床、林缘、略湿坡地及谷地；细叶丛生，春至初夏细梗顶端垂生绿褐色小穗，因仙台等地得名，为林床薹草。",
+      "habitat_hint": "山地林床、林缘、略湿坡地、谷地。",
+      "finding_tips": "4 至 6 月于山地林床寻找细叶丛生、细梗垂生绿褐色小穗的薹草。"
+    }
   }
 }
