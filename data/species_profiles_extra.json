@@ -238200,5 +238200,486 @@
       "habitat_hint": "北日本及高山草地、林缘、略湿坡地、海岸草地。",
       "finding_tips": "8 至 9 月于北方或高山草地寻找无刺叶及紫色筒状花头状花序。"
     }
+  },
+  "Saxicola torquatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "European Stonechat",
+    "aliases": {
+      "zh-Hans": "黑喉石䳭"
+    },
+    "ja": {
+      "summary": "ニシノビタキ。ヒタキ科の小さな鳥で、ノビタキに近い西方系の種。日本ではまれな旅鳥・冬鳥として記録される。開けた草地や農耕地、河川敷、低木のある草原に現れる。オスは頭が黒く、胸がオレンジ色で首に白い斑がある。低木や草の先にとまり、地上の虫を捕らえる。",
+      "habitat_hint": "開けた草地、農耕地、河川敷、低木のある草原（渡り・冬）。",
+      "finding_tips": "春・秋・冬、開けた草地の低木や草の先にとまる、頭が黒く胸がオレンジ色の小鳥を探します。"
+    },
+    "en": {
+      "summary": "European Stonechat (Saxicola torquatus). A small chat of the flycatcher family, a western relative of the Amur stonechat, recorded as a rare passage or winter visitor in Japan; it appears on open grassland, farmland, riverbeds and scrubby grassland. The male has a black head, orange breast and a white neck patch, perching on shrub and grass tips to catch insects on the ground.",
+      "habitat_hint": "Open grassland, farmland, riverbeds, scrubby grassland (on passage / winter).",
+      "finding_tips": "In spring, autumn and winter on open grassland look for the small bird with a black head and orange breast perched on shrub or grass tips."
+    },
+    "zh": {
+      "summary": "黑喉石䳭（ニシノビタキ，Saxicola torquatus）。鹟科小型鸟，为近黑喉石䳭的西方类群，在日本为罕见过境或冬候鸟，出现于开阔草地、农田、河滩及有灌木的草原；雄鸟头黑、胸橙、颈具白斑，立于灌木或草端捕食地面昆虫。",
+      "habitat_hint": "开阔草地、农田、河滩、有灌木的草原（过境/冬季）。",
+      "finding_tips": "春、秋、冬于开阔草地寻找立于灌木或草端、头黑胸橙的小鸟。"
+    }
+  },
+  "Sceliphron madraspatanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キゴシジガバチ。アナバチ科のジガバチ（狩りバチ）で、平地〜山地の人家周辺、林縁、水辺に見られる。腰（腹柄）が細く長く、その一部が黄色いのが名の由来。泥をこねて壁や軒下、岩陰に泥の巣（とっくり状の部屋）をつくり、クモを狩って麻酔し幼虫の餌にする。人を積極的には刺さない。",
+      "habitat_hint": "平地〜山地の人家周辺、軒下、林縁、水辺の泥のある環境。",
+      "finding_tips": "夏、水辺で泥を集めたり、軒下や壁で泥の巣をつくる、腰の細長い黄色みのあるジガバチを探します。"
+    },
+    "en": {
+      "summary": "Kigoshi-jigabachi (Sceliphron madraspatanum), a mud dauber. A hunting wasp of the Sphecidae found around houses, forest edges and waterside from lowland to mountains; the waist (petiole) is long and slender with a yellow part, source of the name. It builds mud nests (with jug-like cells) on walls, under eaves and in rock shelters, hunting spiders to paralyze and provision its larvae; it rarely stings people.",
+      "habitat_hint": "Lowland to montane around houses, under eaves, forest edges, muddy waterside.",
+      "finding_tips": "In summer at muddy waterside or building mud nests under eaves look for the slender-waisted, yellow-marked mud dauber."
+    },
+    "zh": {
+      "summary": "黄柄壁泥蜂（キゴシジガバチ，Sceliphron madraspatanum）。泥蜂科狩猎蜂，见于平地至山地住家周边、林缘及水边；腹柄细长、部分黄色（故名），以泥筑巢（壶状巢室）于墙、屋檐及岩隙，猎蛛麻醉饲幼，少主动蜇人。",
+      "habitat_hint": "平地至山地住家周边、屋檐下、林缘、有泥水边。",
+      "finding_tips": "夏于水边取泥或屋檐墙上筑泥巢处寻找腰细长、带黄的泥蜂。"
+    }
+  },
+  "Schoenoplectiella mucronata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメカンガレイ。カヤツリグサ科の多年草で、池沼や水路、湿地、休耕田、水辺に生える。断面が鋭い三角形の緑色の茎が束になって立ち、葉はほとんど目立たない。夏〜秋、茎の上部の側面から褐色の小穂をかためてつける。カンガレイに似るが小型。",
+      "habitat_hint": "池沼、水路、湿地、休耕田、水辺。",
+      "finding_tips": "夏〜秋、水辺で三角形の緑色の茎と、茎の上部側面につく褐色の小穂の集まりを探します。"
+    },
+    "en": {
+      "summary": "Hime-kangarei, the bog bulrush (Schoenoplectiella mucronata). A perennial sedge growing in ponds, channels, wetlands, fallow paddies and waterside; sharply triangular green stems stand in tufts with scarcely visible leaves, and in summer to autumn brown spikelets cluster on the side of the upper stem. Smaller than S. triangulata.",
+      "habitat_hint": "Ponds, channels, wetlands, fallow paddies, waterside.",
+      "finding_tips": "From summer to autumn at waterside look for the triangular green stems with clusters of brown spikelets on the upper side of the stem."
+    },
+    "zh": {
+      "summary": "水毛花（ヒメカンガレイ，Schoenoplectiella mucronata）。莎草科多年生草本，生于池沼、水渠、湿地、休耕田及水边；茎绿色、断面锐三棱、丛生，叶几不显，夏至秋于茎上部侧面簇生褐色小穗，较近种小。",
+      "habitat_hint": "池沼、水渠、湿地、休耕田、水边。",
+      "finding_tips": "夏至秋于水边寻找三棱绿茎及茎上部侧面簇生的褐色小穗。"
+    }
+  },
+  "Scleria levis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シンジュガヤ。カヤツリグサ科シンジュガヤ属の多年草で、日当たりのよい湿地や湿った草地、休耕田、貧栄養の水辺に生える。三角形の茎をもち、白く真珠（しんじゅ）のような果実（そう果）をつけるのが名の由来。ケシンジュガヤに似るが毛が少なく、より大型。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、休耕田、貧栄養地。",
+      "finding_tips": "夏〜秋、湿地で三角形の茎と、白い真珠のような果実をつけるカヤツリグサの仲間を探します。"
+    },
+    "en": {
+      "summary": "Shinjugaya (Scleria levis), a nut-rush. A perennial sedge of sunny wetlands, damp grassland, fallow paddies and nutrient-poor waterside; it has three-angled stems and bears white, pearl-like nutlets, source of the name. It resembles S. rugosa but is less hairy and larger.",
+      "habitat_hint": "Sunny wetlands, damp grassland, fallow paddies, nutrient-poor ground.",
+      "finding_tips": "From summer to autumn in wetlands look for the three-angled stems and white, pearl-like nutlets."
+    },
+    "zh": {
+      "summary": "珍珠茅（シンジュガヤ，Scleria levis）。莎草科珍珠茅属多年生草本，生于向阳湿地、湿润草地、休耕田及贫营养水边；茎三棱，结白色珍珠状小坚果（故名），似毛珍珠茅但毛少而较大。",
+      "habitat_hint": "向阳湿地、湿润草地、休耕田、贫营养地。",
+      "finding_tips": "夏至秋于湿地寻找三棱茎及白色珍珠状小坚果。"
+    }
+  },
+  "Scopula apicipunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wave moth",
+    "ja": {
+      "summary": "クロテンシロヒメシャク。シャクガ科ヒメシャク亜科の小さなガで、平地〜山地の樹林や林縁、草地に見られる。翅は白っぽく、細い横線と小さな黒い点（黒点）が散らばる。前翅の先付近に黒点があるのが特徴。幼虫はシャクトリムシ。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、草地。",
+      "finding_tips": "夏、灯火で白っぽい翅に細い横線と小さな黒点のあるヒメシャクを探します。"
+    },
+    "en": {
+      "summary": "Kuroten-shiro-himeshaku (Scopula apicipunctata), a wave moth. A small geometer moth of the Sterrhinae found in lowland to montane woodland, edges and grassland; the wings are whitish with fine cross-lines and scattered small black dots, with a black dot near the forewing tip. The larva is an inchworm, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, grassland.",
+      "finding_tips": "In summer look at lights for the whitish wave moth with fine cross-lines and small black dots."
+    },
+    "zh": {
+      "summary": "クロテンシロヒメシャク（Scopula apicipunctata）。尺蛾科姬尺蛾亚科小型蛾，见于平地至山地林地、林缘及草地；翅偏白、具细横线及散布小黑点，前翅近端具黑点，幼虫为尺蠖，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、草地。",
+      "finding_tips": "夏于灯下寻找翅偏白、具细横线及小黑点的姬尺蛾。"
+    }
+  },
+  "Scutellaria muramatsui": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "デワノタツナミソウ。シソ科タツナミソウ属の多年草で、山地の林縁や草地、やや湿った斜面に生える。四角い茎に対生の葉をつけ、初夏、茎の先に青紫色の唇形の花を一方向に向けて穂状に咲かせる。花が波立つように並ぶ様子（立浪）が名の由来。出羽（でわ）地方などに分布。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、道ばた。",
+      "finding_tips": "5〜6月、山地の林縁で四角い茎と、一方向を向いて穂状に咲く青紫色の唇形の花を探します。"
+    },
+    "en": {
+      "summary": "Dewa-no-tatsunamiso (Scutellaria muramatsui), a skullcap. A perennial of the mint family growing on montane woodland edges, grassland and dampish slopes; square stems bear opposite leaves, and in early summer blue-purple two-lipped flowers face one way in a spike at the stem tip. The wave-like arrangement gives the Japanese name ('standing wave'). Distributed in the Dewa region and elsewhere.",
+      "habitat_hint": "Montane woodland edges, grassland, dampish slopes, roadsides.",
+      "finding_tips": "In May–June on montane edges look for the square stems and one-sided spikes of blue-purple two-lipped flowers."
+    },
+    "zh": {
+      "summary": "デワノタツナミソウ（Scutellaria muramatsui）。唇形科黄芩属多年生草本，生于山地林缘、草地及略湿坡地；茎四棱、叶对生，初夏于茎顶偏向一侧穗状开青紫色唇形花，排列如立浪（故名），分布出羽地方等地。",
+      "habitat_hint": "山地林缘、草地、略湿坡地、路旁。",
+      "finding_tips": "5 至 6 月于山地林缘寻找四棱茎及偏侧穗状的青紫唇形花。"
+    }
+  },
+  "Selaginella lutchuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメムカデクラマゴケ。イワヒバ科（クラマゴケの仲間）の小さなシダ植物（小葉類）で、暖地の湿った林床や渓流沿いの岩、湿った崖に生える。細い茎が地表を這い、小さな鱗片状の葉が二列に並んでムカデの脚のように見える。ヒメ（小型）でムカデ状のクラマゴケの意。",
+      "habitat_hint": "暖地の湿った林床、渓流沿いの岩、湿った崖、谷沿いの日陰。",
+      "finding_tips": "一年中、暖地の湿った林床や岩で、地を這う細い茎に鱗片状の小葉が二列に並ぶ小さなイワヒバの仲間を探します。"
+    },
+    "en": {
+      "summary": "Hime-mukade-kuramagoke (Selaginella lutchuensis), a spikemoss. A small spikemoss of the Selaginellaceae growing on damp forest floor, streamside rock and damp cliffs in warm regions; slender stems creep over the ground with small scale-like leaves in two rows, looking like a centipede's legs. The name means a small, centipede-like spikemoss.",
+      "habitat_hint": "Warm-region damp forest floor, streamside rock, damp cliffs, shaded valleys.",
+      "finding_tips": "Year-round on warm-region damp forest floor and rock look for the small spikemoss with creeping stems and two rows of scale-like leaves."
+    },
+    "zh": {
+      "summary": "ヒメムカデクラマゴケ（Selaginella lutchuensis）。卷柏科小型卷柏类，生于暖地湿润林床、溪流沿岸岩及湿崖；细茎匍匐地面，鳞片状小叶二列排列如蜈蚣足，意为小型蜈蚣状卷柏。",
+      "habitat_hint": "暖地湿润林床、溪流沿岸岩、湿崖、谷地荫处。",
+      "finding_tips": "全年于暖地湿润林床及岩石寻找匍匐细茎、鳞叶二列排列的小型卷柏。"
+    }
+  },
+  "Silene nocturna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツキミマンテマ。ナデシコ科マンテマ属の一年草で、地中海地方原産の帰化植物。暖地の道ばたや荒れ地、砂地、畑のふちに生える。細い茎に、白〜淡紅色の小さな5弁の花を穂状につける。花は夕方から夜にかけて開く（月見）ことが名の由来。マンテマの仲間。",
+      "habitat_hint": "暖地の道ばた、荒れ地、砂地、畑のふち、造成地。",
+      "finding_tips": "初夏、暖地の道ばたや荒れ地で、細い茎に穂状につく白〜淡紅色の小さな5弁花を探します。花は夕方に開きます。"
+    },
+    "en": {
+      "summary": "Tsukimi-mantema, the Mediterranean catchfly (Silene nocturna). An annual of the pink family native to the Mediterranean, naturalized on warm-region roadsides, waste ground, sand and field margins; slender stems bear small white to pale-pink five-petalled flowers in spikes. The flowers open from evening into the night, source of the Japanese name ('moon-viewing').",
+      "habitat_hint": "Warm-region roadsides, waste ground, sand, field margins, developed sites.",
+      "finding_tips": "In early summer on warm-region roadsides look for the slender plant with spikes of small white to pale-pink five-petalled flowers opening in the evening."
+    },
+    "zh": {
+      "summary": "ツキミマンテマ（Silene nocturna）。石竹科蝇子草属一年生草本，原产地中海，归化于暖地路旁、荒地、沙地及田边；细茎穗状生白至淡红色五瓣小花，花于傍晚至夜开放（赏月，故名），为蝇子草类。",
+      "habitat_hint": "暖地路旁、荒地、沙地、田边、造地。",
+      "finding_tips": "初夏于暖地路旁寻找细茎穗状、白至淡红五瓣小花，傍晚开放。"
+    }
+  },
+  "Simplisetia erythraeensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ragworm",
+    "ja": {
+      "summary": "コケゴカイ。ゴカイ科の多毛類（環形動物）で、内湾や河口の砂泥底、干潟、汽水域の泥中にすむ。体は細長く多数の体節に分かれ、各節の両側に脚のような疣足（いぼあし）をもつ。泥中に潜り、有機物や小動物を食べる。釣り餌にも使われる。",
+      "habitat_hint": "内湾や河口の砂泥底、干潟、汽水域の泥中。",
+      "finding_tips": "干潮時、干潟の砂泥を掘って細長く多数の疣足をもつゴカイを探します。"
+    },
+    "en": {
+      "summary": "Koke-gokai (Simplisetia erythraeensis), a ragworm. A polychaete worm (segmented worm) of sandy-mud bottoms, tidal flats and brackish mud in bays and estuaries; the elongate body has many segments, each with leg-like parapodia on the sides. It burrows in mud, feeding on organic matter and small animals, and is used as fishing bait.",
+      "habitat_hint": "Sandy-mud bottoms of bays and estuaries, tidal flats, brackish mud.",
+      "finding_tips": "At low tide dig in tidal-flat mud to find the elongate worm with many leg-like parapodia."
+    },
+    "zh": {
+      "summary": "コケゴカイ（Simplisetia erythraeensis）。沙蚕科多毛类（环节动物），栖于内湾及河口砂泥底、滩涂及半咸水泥中；体细长多节，各节两侧具疣足如足，潜泥取食有机质及小动物，常作钓饵。",
+      "habitat_hint": "内湾及河口砂泥底、滩涂、半咸水泥中。",
+      "finding_tips": "退潮时于滩涂泥中挖掘寻找细长、多疣足的沙蚕。"
+    }
+  },
+  "Sinoennea iwakawa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "タワラガイ。キセルガイモドキ科（またはその近縁）の小さな陸生の巻貝で、暖地の林床の落ち葉や石灰岩地、朽木、石の下の湿った場所にすむ。殻は俵（たわら）のような円筒形で白っぽく、殻口に小さな歯状の突起がある。落ち葉や菌類を食べる。石灰岩地に多い。",
+      "habitat_hint": "暖地の林床の落ち葉や朽木の下、石灰岩地、石の下の湿った場所。",
+      "finding_tips": "一年中、暖地の林床の落ち葉や石灰岩地で、俵形で白っぽい小さな陸生の巻貝を探します。"
+    },
+    "en": {
+      "summary": "Tawaragai (Sinoennea iwakawa), a land snail. A small land snail of the Diapheridae (or a near relative) living under leaf litter, in limestone areas and under rotten wood and stones in warm-region forest floor; the shell is a whitish, rice-bale-shaped cylinder with small tooth-like projections at the aperture. It feeds on litter and fungi and is common in limestone areas.",
+      "habitat_hint": "Warm-region forest floor under litter and rotten wood, limestone areas, under stones.",
+      "finding_tips": "Year-round in warm-region forest litter and limestone areas look for the small whitish, bale-shaped cylindrical land snail."
+    },
+    "zh": {
+      "summary": "タワラガイ（Sinoennea iwakawa）。近烟管螺类的小型陆生螺，栖于暖地林床落叶、石灰岩地、朽木及石下湿润处；壳圆筒形似米袋、偏白，壳口具小齿状突起，取食落叶及真菌，多见于石灰岩地。",
+      "habitat_hint": "暖地林床落叶及朽木下、石灰岩地、石下湿润处。",
+      "finding_tips": "全年于暖地林床落叶及石灰岩地寻找米袋形、偏白的小型陆生螺。"
+    }
+  },
+  "Stachys arvensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Field woundwort",
+    "ja": {
+      "summary": "ヤブチョロギ。シソ科イヌゴマ属（チョロギの仲間）の一年草で、ヨーロッパ原産の帰化植物。暖地の畑、道ばた、荒れ地、庭に生える。四角い茎に対生の葉をつけ、春〜初夏、葉のわきに淡紅色〜白の小さな唇形の花を咲かせる。チョロギに似るが小型で、やぶや畑に生える。",
+      "habitat_hint": "暖地の畑、道ばた、荒れ地、庭、造成地。",
+      "finding_tips": "4〜6月、暖地の畑や道ばたで四角い茎と、葉のわきに咲く淡紅色〜白の小さな唇形の花を探します。"
+    },
+    "en": {
+      "summary": "Yabu-chorogi, the field woundwort (Stachys arvensis). An annual of the mint family native to Europe, naturalized on warm-region fields, roadsides, waste ground and gardens; square stems bear opposite leaves, and in spring to early summer small pale-pink to white two-lipped flowers appear in the leaf axils. Smaller than the Chinese artichoke, it grows in thickets and fields.",
+      "habitat_hint": "Warm-region fields, roadsides, waste ground, gardens, developed sites.",
+      "finding_tips": "From April to June on warm-region fields and roadsides look for the square stems and small pale-pink to white two-lipped flowers in the leaf axils."
+    },
+    "zh": {
+      "summary": "田野水苏（ヤブチョロギ，Stachys arvensis）。唇形科水苏属一年生草本，原产欧洲，归化于暖地农田、路旁、荒地及庭园；茎四棱、叶对生，春至初夏叶腋开淡红至白色小唇形花，似草石蚕而小，生于灌丛及农田。",
+      "habitat_hint": "暖地农田、路旁、荒地、庭园、造地。",
+      "finding_tips": "4 至 6 月于暖地农田路旁寻找四棱茎及叶腋淡红至白色小唇形花。"
+    }
+  },
+  "Stenolophus fulvicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "マメゴモクムシ。オサムシ科（ゴミムシの仲間）の小さな甲虫で、水辺や湿った草地、田のあぜ、河原、畑に見られる。体は黒っぽく、頭・胸が赤褐色を帯びるものが多く、光沢がある。地表を素早く歩き、植物の種子や小さな虫を食べる。夜に灯火にも集まる。",
+      "habitat_hint": "水辺、湿った草地、田のあぜ、河原、畑。",
+      "finding_tips": "春〜秋、水辺や田のあぜで、黒っぽく頭胸が赤褐色を帯びる小さなゴミムシを探します。夜は灯火にも来ます。"
+    },
+    "en": {
+      "summary": "Mame-gomokumushi (Stenolophus fulvicornis), a ground beetle. A small ground beetle of waterside, damp grassland, paddy banks, riverbanks and fields; the body is blackish, often with a reddish-brown head and thorax, and glossy. It runs quickly over the ground eating plant seeds and small insects, and comes to lights at night.",
+      "habitat_hint": "Waterside, damp grassland, paddy banks, riverbanks, fields.",
+      "finding_tips": "From spring to autumn at waterside and paddy banks look for the small blackish ground beetle with a reddish-brown head and thorax."
+    },
+    "zh": {
+      "summary": "マメゴモクムシ（Stenolophus fulvicornis）。步甲科小型甲虫，见于水边、湿润草地、田埂、河滩及农田；体偏黑、头胸多带红褐、有光泽，于地表疾走取食植物种子及小虫，夜间趋光。",
+      "habitat_hint": "水边、湿润草地、田埂、河滩、农田。",
+      "finding_tips": "春至秋于水边田埂寻找偏黑、头胸带红褐的小步甲，夜间趋光。"
+    }
+  },
+  "Stigmatophora rhodophila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モンクロベニコケガ。ヒトリガ科コケガ亜科のガで、平地〜山地の樹林や林縁、草地に見られる。翅は紅色〜淡紅色を帯び、黒い点（紋）が並ぶ美しいコケガ。幼虫は樹皮や岩につく地衣類（コケ）を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、草地、地衣類のある樹幹。",
+      "finding_tips": "夏、灯火で紅色を帯び、黒い点の並ぶ美しいコケガを探します。"
+    },
+    "en": {
+      "summary": "Monkuro-beni-kokega (Stigmatophora rhodophila), a footman moth. A footman/lichen moth (Arctiinae, Lithosiini) of lowland to montane woodland, edges and grassland; the wings are pink to pale-pink with rows of black dots, a beautiful footman moth. The larva feeds on lichens on bark and rock, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, grassland, lichen-covered trunks.",
+      "finding_tips": "In summer look at lights for the pink footman moth with rows of black dots."
+    },
+    "zh": {
+      "summary": "玫痣苔蛾（モンクロベニコケガ，Stigmatophora rhodophila）。灯蛾科苔蛾亚科的一种蛾，见于平地至山地林地、林缘及草地；翅带红至淡红、排列黑点，为美丽苔蛾，幼虫取食树皮及岩上地衣，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、草地、生地衣的树干。",
+      "finding_tips": "夏于灯下寻找带红、排列黑点的美丽苔蛾。"
+    }
+  },
+  "Symphyotrichum novae-angliae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "New England aster",
+    "aliases": {
+      "zh-Hans": "新英格兰紫菀"
+    },
+    "ja": {
+      "summary": "ネバリノギク。キク科シオン属の多年草で、北アメリカ原産の帰化植物（もとは観賞用）。高原や道ばた、荒れ地、河原に生える。茎や葉に腺毛が多く、触れると粘る（粘り）のが名の由来。秋、紅紫色〜青紫色の舌状花と黄色い中心の頭花を多数咲かせる。大型でよく茂る。",
+      "habitat_hint": "高原、道ばた、荒れ地、河原、造成地。",
+      "finding_tips": "9〜10月、高原や道ばたで粘る腺毛のある茎葉と、紅紫色〜青紫色の菊状の頭花を多数つける草を探します。"
+    },
+    "en": {
+      "summary": "Nebari-nogiku, the New England aster (Symphyotrichum novae-angliae). A perennial of the daisy family native to North America, naturalized (originally ornamental) on highlands, roadsides, waste ground and riverbanks; the stems and leaves are densely glandular-hairy and sticky to the touch, source of the Japanese name. In autumn it bears many heads with red-purple to blue-purple rays and a yellow disc. Large and bushy.",
+      "habitat_hint": "Highlands, roadsides, waste ground, riverbanks, developed sites.",
+      "finding_tips": "In September–October on highlands and roadsides look for the sticky glandular-hairy plant with many red-purple to blue-purple daisy heads."
+    },
+    "zh": {
+      "summary": "新英格兰紫菀（ネバリノギク，Symphyotrichum novae-angliae）。菊科紫菀属多年生草本，原产北美的归化植物（原为观赏），生于高原、路旁、荒地及河滩；茎叶密被腺毛、触之黏（故名），秋季多生红紫至青紫舌状花、黄色花心的头状花序，植株高大繁茂。",
+      "habitat_hint": "高原、路旁、荒地、河滩、造地。",
+      "finding_tips": "9 至 10 月于高原路旁寻找具黏腺毛茎叶及红紫至青紫菊状头状花的草。"
+    }
+  },
+  "Synegia esther": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "クロハグルマエダシャク。シャクガ科エダシャク亜科のガで、平地〜山地の樹林や林縁に見られる。翅は淡黄色〜黄褐色で、黒い歯車（はぐるま）状の輪郭をもつ模様や黒い縁取りがあるのが特徴。幼虫はシャクトリムシで、常緑樹などの葉を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、常緑樹のある環境。",
+      "finding_tips": "夏、灯火で淡黄色に黒い歯車状の模様や縁取りのあるエダシャクを探します。"
+    },
+    "en": {
+      "summary": "Kuro-haguruma-edashaku (Synegia esther), a geometer moth. A geometer moth of the Ennominae found in lowland to montane woodland and edges; the wings are pale yellow to yellow-brown with black cogwheel-like outlined markings and black edging. The larva is an inchworm feeding on evergreen and other leaves, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, settings with evergreens.",
+      "finding_tips": "In summer look at lights for the pale-yellow geometer with black cogwheel-like markings and edging."
+    },
+    "zh": {
+      "summary": "クロハグルマエダシャク（Synegia esther）。尺蛾科尺蛾亚科的一种蛾，见于平地至山地林地及林缘；翅淡黄至黄褐、具黑色齿轮状轮廓斑及黑镶边，幼虫为尺蠖，食常绿树等叶，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、有常绿树的环境。",
+      "finding_tips": "夏于灯下寻找淡黄、具黑色齿轮状斑及镶边的尺蛾。"
+    }
+  },
+  "Syzygiella autumnalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アキウロコゴケ。ウロコゴケの仲間の茎葉のある苔類で、山地の湿った腐木や倒木、樹の根元、湿った岩に緑〜赤褐色のマット状に生える。茎に小さな葉が二列に並び、うろこ（鱗）のように重なる。湿度の高い林床や渓流沿いに多い微小な苔。",
+      "habitat_hint": "山地の湿った腐木、倒木、樹の根元、湿った岩、渓流沿い。",
+      "finding_tips": "一年中、山地の湿った腐木や岩で緑〜赤褐色のうろこ状の葉が並ぶ苔類のマットをルーペで探します。"
+    },
+    "en": {
+      "summary": "Aki-uroko-goke (Syzygiella autumnalis), a leafy liverwort. A leafy liverwort growing as green to reddish-brown mats on damp rotten wood, logs, tree bases and damp rock in mountains; small leaves are arranged in two overlapping rows like scales on the stem. A minute liverwort common on humid forest floor and along streams.",
+      "habitat_hint": "Montane damp rotten wood, logs, tree bases, damp rock, streamsides.",
+      "finding_tips": "Year-round on damp montane rotten wood and rock use a lens to find the green to reddish-brown liverwort with overlapping scale-like leaves."
+    },
+    "zh": {
+      "summary": "アキウロコゴケ（Syzygiella autumnalis）。鳞叶苔近类的茎叶体苔类，生于山地湿润腐木、倒木、树基及湿岩，成绿至红褐垫状；茎生小叶二列覆瓦如鳞，为湿润林床及溪流沿岸常见微小苔。",
+      "habitat_hint": "山地湿润腐木、倒木、树基、湿岩、溪流沿岸。",
+      "finding_tips": "全年于山地湿润腐木及岩石用放大镜寻找绿至红褐、鳞状叶排列的苔。"
+    }
+  },
+  "Taeniophila unio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ミスジシロエダシャク。シャクガ科エダシャク亜科のガで、平地〜山地の樹林や林縁に見られる。翅は白い地に、三本の細い横線（三筋）と細かな点が入るのが特徴。幼虫はシャクトリムシで、樹木の葉を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "夏、灯火で白い翅に三本の細い横線のあるエダシャクを探します。"
+    },
+    "en": {
+      "summary": "Misuji-shiro-edashaku (Taeniophila unio), a geometer moth. A geometer moth of the Ennominae found in lowland to montane woodland and edges; the wings are white with three fine cross-lines and small dots. The larva is an inchworm feeding on tree leaves, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "In summer look at lights for the white geometer with three fine cross-lines."
+    },
+    "zh": {
+      "summary": "ミスジシロエダシャク（Taeniophila unio）。尺蛾科尺蛾亚科的一种蛾，见于平地至山地林地及林缘；翅白、具三条细横线及小点，幼虫为尺蠖，食树叶，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "夏于灯下寻找白翅、具三条细横线的尺蛾。"
+    }
+  },
+  "Tegula nigerrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top shell",
+    "ja": {
+      "summary": "ヒメクボガイ。ニシキウズガイ科の巻貝で、岩礁海岸の潮間帯の岩やその下にすむ。殻は円錐形でやや低く、暗い色（黒っぽい）をおび、クボガイに似るが小型。底面の中央がくぼみ、へそ穴が閉じるか小さい。岩についた藻類を削り取って食べる。",
+      "habitat_hint": "岩礁海岸の潮間帯、岩の表面や下、転石帯。",
+      "finding_tips": "干潮時、磯の岩やその下で黒っぽい円錐形の小さな巻貝を探します。クボガイより小型です。"
+    },
+    "en": {
+      "summary": "Hime-kubogai (Tegula nigerrima), a top shell. A top shell of rocky shores living on and under intertidal rock; the shell is a low cone, dark (blackish) in colour, resembling Tegula lischkei but smaller, with a depressed base and a closed or small umbilicus. It grazes algae from the rock.",
+      "habitat_hint": "Rocky-shore intertidal, on and under rock, cobble beds.",
+      "finding_tips": "At low tide on and under rocky-shore boulders look for the small blackish low conical top shell."
+    },
+    "zh": {
+      "summary": "ヒメクボガイ（Tegula nigerrima）。马蹄螺科螺类，栖于岩礁海岸潮间带岩面及岩下；壳低圆锥形、色暗（偏黑），似近种而较小，底面凹陷、脐孔闭合或小，刮食岩上藻类。",
+      "habitat_hint": "岩礁海岸潮间带、岩面及岩下、卵石带。",
+      "finding_tips": "退潮时于岩礁岩面及岩下寻找偏黑、低圆锥形的小型螺。"
+    }
+  },
+  "Thymelicus sylvatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヘリグロチャバネセセリ。セセリチョウ科の小さなチョウで、平地〜山地の草地、林縁、河原に生息する。翅は茶色（ちゃばね）で、翅の縁が黒っぽく縁取られるのが名の由来。素早く飛び、花に来て蜜を吸う。幼虫はイネ科の草を食べる。よく似た仲間が多い。",
+      "habitat_hint": "平地〜山地の草地、林縁、河原、堤防。",
+      "finding_tips": "夏、草地や林縁で茶色の翅の縁が黒っぽい、素早く飛ぶ小さなセセリチョウを探します。花に来ます。"
+    },
+    "en": {
+      "summary": "Heriguro-chabane-seseri (Thymelicus sylvatica), a skipper. A small skipper butterfly of lowland to montane grassland, edges and riverbanks; the wings are brown with a blackish border, source of the name. It flies fast and visits flowers for nectar, and the larva feeds on grasses. It has several similar relatives.",
+      "habitat_hint": "Lowland to montane grassland, edges, riverbanks, embankments.",
+      "finding_tips": "In summer in grassland and on edges look for the small fast-flying brown skipper with a blackish wing border; it visits flowers."
+    },
+    "zh": {
+      "summary": "ヘリグロチャバネセセリ（Thymelicus sylvatica）。弄蝶科小型蝶，栖于平地至山地草地、林缘及河滩；翅褐色、翅缘偏黑镶边（故名），飞行迅速、访花吸蜜，幼虫食禾草，近似种较多。",
+      "habitat_hint": "平地至山地草地、林缘、河滩、堤岸。",
+      "finding_tips": "夏于草地林缘寻找褐色、翅缘偏黑、飞行迅速的小型弄蝶，访花。"
+    }
+  },
+  "Togaria tancrei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moth",
+    "ja": {
+      "summary": "ナカジロトガリバ。カギバガ科トガリバ亜科のガで、平地〜山地の雑木林や林縁に見られる。翅は灰褐色で、中央付近に白っぽい帯や紋（中白）が入るのが名の由来。幼虫は広葉樹の葉を食べる。夜に灯火や樹液に集まる。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、樹林。",
+      "finding_tips": "春〜夏、灯火や樹液で灰褐色に中央が白っぽいトガリバを探します。"
+    },
+    "en": {
+      "summary": "Nakajiro-togariba (Togaria tancrei), a moth. A moth of the Drepanidae (Thyatirinae) found in lowland to montane secondary woodland and edges; the wings are grey-brown with a whitish band or mark near the middle, source of the name. The larva feeds on broadleaf-tree leaves, and adults come to lights and sap at night.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, forest.",
+      "finding_tips": "From spring to summer look at lights and sap for the grey-brown moth with a whitish central band."
+    },
+    "zh": {
+      "summary": "ナカジロトガリバ（Togaria tancrei）。钩蛾科波纹蛾亚科的一种蛾，见于平地至山地杂木林及林缘；翅灰褐、中央附近具偏白带或斑（中白，故名），幼虫食阔叶树叶，成虫夜间趋光及树液。",
+      "habitat_hint": "平地至山地杂木林、林缘、林地。",
+      "finding_tips": "春至夏于灯下及树液寻找灰褐、中央偏白的波纹蛾。"
+    }
+  },
+  "Tortula muralis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヘラハネジレゴケ。センボンゴケ科の小さな蘚類で、コンクリート、石垣、ブロック塀、岩、墓石などに緑色の小さな群落をつくって生える。葉はへら形で、先に白い透明な毛（芒）が突き出る。乾くとねじれる。都市の壁や石でごく普通に見られる代表的な壁の苔。",
+      "habitat_hint": "コンクリート、石垣、ブロック塀、岩、墓石、屋根。",
+      "finding_tips": "一年中、コンクリートや石垣で、葉先に白い毛が突き出る緑色の小さな蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Hera-hanejire-goke, the wall screw-moss (Tortula muralis). A small moss of the Pottiaceae forming small green colonies on concrete, stone walls, block walls, rock and gravestones; the leaves are spatula-shaped with a white translucent hair-point at the tip, and twist when dry. A typical wall moss, very common on urban walls and stone.",
+      "habitat_hint": "Concrete, stone walls, block walls, rock, gravestones, roofs.",
+      "finding_tips": "Year-round on concrete and stone walls use a lens to find the small green moss with a white hair-point at each leaf tip."
+    },
+    "zh": {
+      "summary": "泛生墙藓（ヘラハネジレゴケ，Tortula muralis）。丛藓科小型藓类，于混凝土、石墙、砖墙、岩石及墓石形成绿色小群落；叶匙形、先端伸出白色透明毛尖，干时扭曲，为城市墙石极常见的典型墙藓。",
+      "habitat_hint": "混凝土、石墙、砖墙、岩石、墓石、屋顶。",
+      "finding_tips": "全年于混凝土及石墙用放大镜寻找叶端伸出白毛尖的绿色小藓。"
+    }
+  },
+  "Trachysalambria curvirostris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Southern rough shrimp",
+    "ja": {
+      "summary": "サルエビ。クルマエビ科の小さなエビで、内湾や沿岸の砂泥底、やや深い海底にすむ。体は褐色〜赤褐色で、額角（がっかく＝額の突起）が上に反り、体表がざらつく。群れで底にすみ、底生の小動物や有機物を食べる。食用にされ、干しエビやかき揚げの材料になる。",
+      "habitat_hint": "内湾や沿岸の砂泥底、やや深い海底。",
+      "finding_tips": "沿岸の砂泥底で、褐色〜赤褐色で額角が反り、体表がざらつく小さなエビを探します。食用になります。"
+    },
+    "en": {
+      "summary": "Saru-ebi, the southern rough shrimp (Trachysalambria curvirostris). A small shrimp of the Penaeidae living on sandy-mud and somewhat deep bottoms in bays and coastal waters; the body is brown to reddish-brown with an upturned rostrum and a rough surface. It lives on the bottom in schools, feeding on small benthic animals and organic matter, and is eaten as dried shrimp and in fritters.",
+      "habitat_hint": "Sandy-mud and somewhat deep bottoms of bays and coastal waters.",
+      "finding_tips": "On coastal sandy-mud bottoms look for the small brown to reddish-brown shrimp with an upturned rostrum and rough surface; it is edible."
+    },
+    "zh": {
+      "summary": "鹰爪虾（サルエビ，Trachysalambria curvirostris）。对虾科小型虾，栖于内湾及沿岸砂泥底、略深海底；体褐至红褐，额角上翘、体表粗糙，成群栖底，取食底栖小动物及有机质，供食（干虾、炸物）。",
+      "habitat_hint": "内湾及沿岸砂泥底、略深海底。",
+      "finding_tips": "于沿岸砂泥底寻找褐至红褐、额角上翘、体表粗糙的小虾，可食。"
+    }
   }
 }
