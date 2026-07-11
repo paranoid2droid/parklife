@@ -232010,5 +232010,478 @@
       "habitat_hint": "山地湿润林床、湿地、湿润草地、水边。",
       "finding_tips": "全年于山地湿润林床寻找直立、上部树状分枝如小树的藓。"
     }
+  },
+  "Collybiopsis biformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマジノカレバタケ。ホウライタケ科のきのこで、夏〜秋、雑木林や公園の落ち葉の上や地上に群生する。傘は小さく淡褐色で、柄は細く硬い。落ち葉を分解する腐生菌。よく似た小型菌が多く、正確な同定は難しい。",
+      "habitat_hint": "夏〜秋、雑木林や公園の落ち葉の上、林床の地上。",
+      "finding_tips": "夏〜秋、林床の落ち葉の上で淡褐色の小さな傘と細く硬い柄のきのこを探します。"
+    },
+    "en": {
+      "summary": "Yamaji-no-kareba-take (Collybiopsis biformis). A small mushroom of the Marasmiaceae fruiting gregariously on leaf litter and ground in secondary woodland and parks in summer to autumn; the cap is small and pale brown, the stem thin and tough. It is a litter-decomposer, and many similar small fungi make exact identification hard.",
+      "habitat_hint": "Summer to autumn, on leaf litter and ground in woodland and parks.",
+      "finding_tips": "From summer to autumn look on leaf litter for the small pale-brown cap on a thin, tough stem."
+    },
+    "zh": {
+      "summary": "ヤマジノカレバタケ（Collybiopsis biformis）。小皮伞科小型菌，夏至秋群生于杂木林及公园落叶上及地面；菌盖小、淡褐，柄细而韧，为落叶腐生菌，近似小型菌多、鉴别不易。",
+      "habitat_hint": "夏至秋，杂木林及公园落叶上、林床地面。",
+      "finding_tips": "夏至秋于林床落叶上寻找淡褐小盖、柄细韧的菌。"
+    }
+  },
+  "Coprinellus domesticus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コキララタケ。ナヨタケ科のヒトヨタケの仲間で、春〜秋、腐木や切り株、朽ちた材、木材のまわりに群生する。傘は卵形〜鐘形で淡黄褐色、表面に細かな粒状の鱗片をつける。成熟すると傘が液化して黒くとける。基部にオレンジ色の菌糸のマット（オゾニウム）ができることがある。",
+      "habitat_hint": "春〜秋、腐木、切り株、朽ちた材、木材のまわり。",
+      "finding_tips": "春〜秋、腐木や切り株で淡黄褐色の卵形〜鐘形の傘と、細かい鱗片、黒く液化する縁を探します。"
+    },
+    "en": {
+      "summary": "Ko-kirara-take, the firerug inkcap (Coprinellus domesticus). An inkcap of the Psathyrellaceae fruiting in spring to autumn on rotten wood, stumps and decaying timber; the egg- to bell-shaped cap is pale yellow-brown with fine granular scales, and it deliquesces to black ink at maturity. It often grows from an orange mycelial mat (ozonium).",
+      "habitat_hint": "Spring to autumn, rotten wood, stumps, decaying timber, around wood.",
+      "finding_tips": "From spring to autumn look on rotten wood and stumps for the pale yellow-brown bell-shaped cap with fine scales and a black, liquefying margin."
+    },
+    "zh": {
+      "summary": "家园小鬼伞（コキララタケ，Coprinellus domesticus）。小脆柄菇科鬼伞类，春至秋群生于腐木、树桩及朽材周围；菌盖卵形至钟形、淡黄褐，被细颗粒状鳞片，成熟自溶为黑汁，基部常生橙色菌丝垫（火菌丝）。",
+      "habitat_hint": "春至秋，腐木、树桩、朽材、木材周围。",
+      "finding_tips": "春至秋于腐木树桩寻找淡黄褐钟形盖、具细鳞、边缘黑色自溶的菌。"
+    }
+  },
+  "Corgatha argillacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カバイロシマコヤガ。ヤガ科の小さなガで、平地〜山地の樹林や林縁に見られる。翅は樺色（かばいろ＝赤みのある黄褐色）で、細かな横しま模様がある。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "夏、灯火で樺色の地に細かな横しまのある小さなガを探します。"
+    },
+    "en": {
+      "summary": "Kabairo-shima-koyaga (Corgatha argillacea), a small owlet moth. A small noctuid moth of lowland to montane woodland and edges; the wings are reddish yellow-brown (birch-coloured) with fine transverse striping. It comes to lights at night and is small and inconspicuous.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "In summer look at lights for the small moth with reddish yellow-brown wings and fine transverse stripes."
+    },
+    "zh": {
+      "summary": "カバイロシマコヤガ（Corgatha argillacea）。夜蛾科小型蛾，见于平地至山地林地及林缘；翅桦色（带红黄褐），具细横条纹，夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "夏于灯下寻找红黄褐底、具细横纹的小蛾。"
+    }
+  },
+  "Corydalis orthoceras": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミチノクエンゴサク。ケシ科キケマン属（エンゴサクの仲間）の多年草で、山地の林床や林縁、やや湿った草地に生える。春、青紫色〜淡紫色の細長い筒状の花を穂状に咲かせ、後ろに距（きょ）が突き出る。葉は細かく切れ込む。東北地方などに分布。",
+      "habitat_hint": "山地の林床、林縁、やや湿った草地、落葉樹林下。",
+      "finding_tips": "4〜5月、山地の林床で青紫色の距のある筒状の花の穂と、細かく切れ込む葉を探します。"
+    },
+    "en": {
+      "summary": "Michinoku-engosaku (Corydalis orthoceras). A perennial of the poppy family growing on montane forest floor, edges and dampish grassland; in spring it bears spikes of slender blue-purple to pale-purple tubular flowers with a backward-pointing spur, and the leaves are finely divided. It is distributed in the Tōhoku region and elsewhere.",
+      "habitat_hint": "Montane forest floor, edges, dampish grassland, deciduous woods.",
+      "finding_tips": "In April–May look on montane forest floor for the spikes of blue-purple spurred tubular flowers and finely divided leaves."
+    },
+    "zh": {
+      "summary": "ミチノクエンゴサク（Corydalis orthoceras）。罂粟科紫堇属多年生草本，生于山地林床、林缘及略湿草地；春开穗状青紫至淡紫筒状花、后具距，叶细裂，分布于东北地方等地。",
+      "habitat_hint": "山地林床、林缘、略湿草地、落叶林下。",
+      "finding_tips": "4 至 5 月于山地林床寻找青紫具距筒状花穗及细裂叶。"
+    }
+  },
+  "Cyanosporus caesius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオゾメタケ。タマチョレイタケ目のきのこ（多孔菌）で、夏〜秋、針葉樹の倒木や切り株に発生する。半円形の小さな傘を重ねてつけ、白色〜灰色で、傷つくと青みをおびる。裏は白い管孔。針葉樹材を分解する木材腐朽菌（褐色腐朽）。",
+      "habitat_hint": "夏〜秋、針葉樹の倒木、切り株、枯れ材。",
+      "finding_tips": "夏〜秋、針葉樹の倒木で白〜灰色の小さな半円形の傘と、傷つくと青みをおびる肉を探します。"
+    },
+    "en": {
+      "summary": "Aozome-take, the blue cheese polypore (Cyanosporus caesius). A small bracket polypore fruiting on conifer logs and stumps in summer to autumn; it forms overlapping semicircular white to grey caps that bruise bluish, with white pores beneath. It is a brown-rot wood-decay fungus of conifer wood.",
+      "habitat_hint": "Summer to autumn, conifer logs, stumps, dead wood.",
+      "finding_tips": "From summer to autumn look on conifer logs for the small semicircular white-grey caps whose flesh bruises bluish."
+    },
+    "zh": {
+      "summary": "灰蓝寡孔菌（アオゾメタケ，Cyanosporus caesius）。多孔菌目小型多孔菌，夏至秋生于针叶树倒木及树桩；半圆形小盖叠生，白至灰、伤后带蓝，背面白色菌管，为针叶材褐色腐朽菌。",
+      "habitat_hint": "夏至秋，针叶树倒木、树桩、枯材。",
+      "finding_tips": "夏至秋于针叶倒木寻找白灰半圆小盖、伤后带蓝的菌。"
+    }
+  },
+  "Cynosurus echinatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲガヤ。イネ科ヒゲガヤ属の一年草で、ヨーロッパ〜地中海地方原産の帰化植物。道ばたや荒れ地、造成地、河原に生える。茎の先に、片側に寄った密な花穂をつけ、小穂から長い芒（のぎ）が出てひげのように見えるのが名の由来。",
+      "habitat_hint": "道ばた、荒れ地、造成地、河原、埋立地。",
+      "finding_tips": "初夏〜夏、道ばたや荒れ地で片側に寄った密な花穂と、ひげ状の長い芒を探します。"
+    },
+    "en": {
+      "summary": "Hige-gaya, the bristly dogtail (Cynosurus echinatus). An annual grass native to Europe and the Mediterranean, naturalized on roadsides, waste ground, developed sites and riverbanks; it bears a dense, one-sided flower head, and long awns from the spikelets look like whiskers, source of the Japanese name.",
+      "habitat_hint": "Roadsides, waste ground, developed sites, riverbanks, reclaimed land.",
+      "finding_tips": "From early summer to summer look on roadsides and waste ground for the dense one-sided head with long whisker-like awns."
+    },
+    "zh": {
+      "summary": "刺狗尾草（ヒゲガヤ，Cynosurus echinatus）。禾本科洋狗尾草属一年生草本，原产欧洲及地中海，归化于路旁、荒地、造地及河滩；花序密集偏于一侧，小穗具长芒似须（故名）。",
+      "habitat_hint": "路旁、荒地、造地、河滩、填地。",
+      "finding_tips": "初夏至夏于路旁荒地寻找偏侧密集花序及须状长芒。"
+    }
+  },
+  "Cyperus tenuispica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミズハナビ。カヤツリグサ科カヤツリグサ属の一年草で、水田や休耕田、湿地、水路のふちなど湿った場所に生える。細い茎の先から放射状に枝を広げ、その先に淡緑〜赤褐色の細かい小穂を多数つける。花火が開いたような姿が名の由来。",
+      "habitat_hint": "水田、休耕田、湿地、水路のふち、湿った裸地。",
+      "finding_tips": "夏〜秋、水田や湿地で放射状に枝を広げ、細かい小穂を花火状につけるカヤツリグサを探します。"
+    },
+    "en": {
+      "summary": "Mizu-hanabi (Cyperus tenuispica), a flatsedge. An annual sedge of paddies, fallow paddies, wetlands and channel margins; slender stems spread branches radially, each tipped with many fine pale-green to red-brown spikelets. The firework-like form gives the Japanese name ('water firework').",
+      "habitat_hint": "Paddies, fallow paddies, wetlands, channel margins, damp bare ground.",
+      "finding_tips": "From summer to autumn look in paddies and wetlands for the flatsedge spreading radial branches of fine spikelets like a firework."
+    },
+    "zh": {
+      "summary": "碎米莎草近缘的水火花（ミズハナビ，Cyperus tenuispica）。莎草科莎草属一年生草本，生于稻田、休耕田、湿地及水渠边；细茎顶端辐射状分枝，枝端多生淡绿至红褐细小穗，形如烟花绽放（故名）。",
+      "habitat_hint": "稻田、休耕田、湿地、水渠边、湿润裸地。",
+      "finding_tips": "夏至秋于稻田湿地寻找辐射分枝、细小穗如烟花的莎草。"
+    }
+  },
+  "Digitalis purpurea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Foxglove",
+    "aliases": {
+      "zh-Hans": "毛地黄"
+    },
+    "ja": {
+      "summary": "ジギタリス（キツネノテブクロ）。オオバコ科（旧ゴマノハグサ科）の越年草〜多年草で、ヨーロッパ原産の観賞植物。庭や公園に植えられ、高原などで野生化もする。初夏、太い花茎に、内側に斑点のある紫紅色〜白の筒状（指ぬき状）の花を穂状に多数下向きに咲かせる。全体が有毒（強心配糖体）。",
+      "habitat_hint": "庭、公園、花壇（植栽）、高原の道ばたや草地に野生化。",
+      "finding_tips": "5〜7月、花壇や高原で、内側に斑点のある紫紅色の指ぬき状の花を穂状につける草を探します。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Foxglove (Digitalis purpurea). A biennial to perennial of the plantain family (former figwort family), an ornamental native to Europe planted in gardens and parks and naturalized in highlands; in early summer a stout stem bears a spike of many nodding, thimble-shaped purple-red to white tubular flowers spotted inside. The whole plant is poisonous (cardiac glycosides).",
+      "habitat_hint": "Gardens, parks, flower beds (planted); naturalized on highland roadsides and grassland.",
+      "finding_tips": "From May to July look in flower beds and highlands for the spike of nodding thimble-shaped purple flowers spotted inside; do not ingest, it is poisonous."
+    },
+    "zh": {
+      "summary": "毛地黄（ジギタリス，Digitalis purpurea）。车前科（旧玄参科）越年至多年生草本，原产欧洲的观赏植物，栽于庭园公园，高原逸生；初夏粗花茎穗状生多数下垂、指套状紫红至白色筒花，内具斑点，全株有毒（强心苷）。",
+      "habitat_hint": "庭园、公园、花坛（栽培）；高原路旁草地逸生。",
+      "finding_tips": "5 至 7 月于花坛及高原寻找穗状下垂、指套状、内具斑点的紫花；有毒勿食。"
+    }
+  },
+  "Diphasiastrum complanatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Northern running-pine",
+    "ja": {
+      "summary": "アスヒカズラ。ヒカゲノカズラ科の常緑のシダ植物（小葉類）で、山地〜亜高山の林床や林縁、明るい斜面に生える。地表を長く這う茎から、扁平で枝分かれした立ち上がる枝を出し、ヒノキ（アスナロ）の葉に似た鱗片状の葉をつける。夏〜秋に胞子嚢穂を立てる。",
+      "habitat_hint": "山地〜亜高山の林床、林縁、明るい斜面、やせ地。",
+      "finding_tips": "一年中、山地の林床で地を這う茎と、扁平で枝分かれした立ち上がる枝（ヒノキの葉に似る）を探します。"
+    },
+    "en": {
+      "summary": "Asuhi-kazura, the northern running-pine (Diphasiastrum complanatum). An evergreen clubmoss of montane to subalpine forest floor, edges and open slopes; long creeping stems send up flattened, branched erect shoots with scale-like leaves resembling cypress foliage, and it raises spore cones in summer to autumn.",
+      "habitat_hint": "Montane to subalpine forest floor, edges, open slopes, poor ground.",
+      "finding_tips": "Year-round on montane forest floor look for the creeping stems with flattened, branched erect shoots like cypress foliage."
+    },
+    "zh": {
+      "summary": "扁枝石松（アスヒカズラ，Diphasiastrum complanatum）。石松科常绿石松类，生于山地至亚高山林床、林缘及明亮坡地；匍匐茎长伸，生扁平分枝的直立枝，叶鳞片状似柏叶，夏至秋生孢子囊穗。",
+      "habitat_hint": "山地至亚高山林床、林缘、明亮坡地、瘠地。",
+      "finding_tips": "全年于山地林床寻找匍匐茎及扁平分枝、似柏叶的直立枝。"
+    }
+  },
+  "Diplazium takamiyae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマシダ。メシダ科ノコギリシダ属のシダで、山地の湿った林床や谷沿い、渓流沿いの斜面に生える。葉は柔らかく、二回羽状に切れ込む。やや湿った日陰を好み、しばしば群生する。",
+      "habitat_hint": "山地の湿った林床、谷沿い、渓流沿いの日陰の斜面。",
+      "finding_tips": "一年中、山地の湿った林床で柔らかく二回羽状に切れ込む葉のシダを探します。しばしば群生。"
+    },
+    "en": {
+      "summary": "Miyama-shida (Diplazium takamiyae), a fern. A fern of the lady-fern family growing on damp montane forest floor, valleys and shaded streamside slopes; the soft fronds are twice-pinnately divided. It favours dampish shade and often grows in colonies.",
+      "habitat_hint": "Damp montane forest floor, valleys, shaded streamside slopes.",
+      "finding_tips": "Year-round on damp montane forest floor look for the fern with soft, twice-pinnately divided fronds, often in colonies."
+    },
+    "zh": {
+      "summary": "ミヤマシダ（Diplazium takamiyae）。蹄盖蕨科双盖蕨属蕨类，生于山地湿润林床、谷地及溪流沿岸荫坡；叶柔软、二回羽状分裂，喜略湿荫处，常成片。",
+      "habitat_hint": "山地湿润林床、谷地、溪流沿岸荫坡。",
+      "finding_tips": "全年于山地湿润林床寻找柔软、二回羽裂叶的蕨，常成片。"
+    }
+  },
+  "Distoleon contubernalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コカスリウスバカゲロウ。ウスバカゲロウ科の昆虫で、平地〜低山の林縁や樹林、乾いた草地に見られる。細長い体と透明な翅をもち、翅にかすり（絣）模様の斑がある。トンボに似るが弱々しく飛ぶ。幼虫はアリジゴク。",
+      "habitat_hint": "平地〜低山の林縁、樹林、乾いた砂地のある草地。",
+      "finding_tips": "夏の夜、灯火や林縁で細長い体とかすり模様の透明翅をもつカゲロウ状の虫を探します。"
+    },
+    "en": {
+      "summary": "Kokasuri-usuba-kagerō (Distoleon contubernalis), an antlion. An antlion of lowland to low-mountain forest edges, woodland and dry grassland, with a slender body and transparent wings marked with a dappled (kasuri) pattern; it flies weakly, unlike a dragonfly. The larva is an ant-lion.",
+      "habitat_hint": "Lowland to low-mountain forest edges, woodland, dry sandy grassland.",
+      "finding_tips": "On summer nights look at lights and forest edges for the slender, weak-flying insect with dappled transparent wings."
+    },
+    "zh": {
+      "summary": "コカスリウスバカゲロウ（Distoleon contubernalis）。蚁蛉科昆虫，见于平地至低山林缘、林地及干草地；体细长、翅透明具碎斑（絣纹），飞行无力不似蜻蜓，幼虫为蚁狮。",
+      "habitat_hint": "平地至低山林缘、林地、有干沙地的草地。",
+      "finding_tips": "夏夜于灯下及林缘寻找体细长、翅具碎斑的蚁蛉。"
+    }
+  },
+  "Dolgoma cribrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメキホソバ。ヒトリガ科コケガ亜科のガで、平地〜山地の樹林、林縁に見られる。翅は黄色っぽく、細長い体をもつ。幼虫は樹皮や岩につく地衣類（コケ）を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、地衣類のある樹幹や岩。",
+      "finding_tips": "夏、灯火で黄色っぽい細長い翅の小さなコケガの仲間を探します。"
+    },
+    "en": {
+      "summary": "Hime-kihosoba (Dolgoma cribrata), a lichen moth. A footman/lichen moth (Arctiinae, Lithosiini) of lowland to montane woodland and edges; the wings are yellowish and the body slender. The larva feeds on lichens on bark and rock, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, lichen-covered trunks and rock.",
+      "finding_tips": "In summer look at lights for the small yellowish, slender-winged lichen moth."
+    },
+    "zh": {
+      "summary": "ヒメキホソバ（Dolgoma cribrata）。灯蛾科苔蛾亚科的一种蛾，见于平地至山地林地及林缘；翅偏黄、体细长，幼虫取食树皮及岩石上的地衣，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、生地衣的树干岩石。",
+      "finding_tips": "夏于灯下寻找偏黄、翅细长的小型苔蛾。"
+    }
+  },
+  "Dryobotodes intermissa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナカオビキリガ。ヤガ科キリガの仲間のガで、平地〜山地の雑木林や林縁に見られる。前翅は緑がかった〜灰褐色で、中央に帯状の模様（中帯）がある。秋に出現し、夜に灯火や樹液に集まる。幼虫はコナラなどの葉を食べる。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、コナラ・クヌギ林。",
+      "finding_tips": "秋、灯火や樹液で緑がかった前翅に中帯のあるキリガを探します。"
+    },
+    "en": {
+      "summary": "Nakaobi-kiriga (Dryobotodes intermissa), an owlet moth. A noctuid moth of lowland to montane secondary woodland and edges; the forewing is greenish to greyish-brown with a band-like marking across the middle. It appears in autumn, coming to lights and sap at night, and the larva feeds on oak leaves.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, oak woods.",
+      "finding_tips": "In autumn look at lights and sap for the owlet moth with greenish forewings and a central band."
+    },
+    "zh": {
+      "summary": "ナカオビキリガ（Dryobotodes intermissa）。夜蛾科的一种蛾，见于平地至山地杂木林及林缘；前翅带绿至灰褐、中央具带状斑（中带），秋季出现，夜间趋光及树液，幼虫食栎类叶。",
+      "habitat_hint": "平地至山地杂木林、林缘、麻栎栎类林。",
+      "finding_tips": "秋于灯下及树液寻找前翅带绿、具中带的夜蛾。"
+    }
+  },
+  "Elaphropus fumicatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "クリイロコミズギワゴミムシ。オサムシ科（ゴミムシの仲間）の非常に小さな甲虫で、水辺や河原、湿った砂泥地、田のあぜに見られる。体は栗色（くりいろ）でつやがあり、水際の地表を素早く歩く。小さな虫を捕らえる肉食性。",
+      "habitat_hint": "水辺、河原、湿った砂泥地、田のあぜ、池沼のふち。",
+      "finding_tips": "春〜秋、水際の砂泥地で栗色でつやのある非常に小さなゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Kuriiro-komizugiwa-gomimushi (Elaphropus fumicatus), a ground beetle. A very small ground beetle of waterside, riverbanks, damp sandy-mud ground and paddy banks; the glossy body is chestnut-coloured and it runs quickly over the ground at the water's edge, preying on small insects.",
+      "habitat_hint": "Waterside, riverbanks, damp sandy-mud ground, paddy banks, pond margins.",
+      "finding_tips": "From spring to autumn look on damp sandy-mud at the water's edge for the very small glossy chestnut ground beetle."
+    },
+    "zh": {
+      "summary": "クリイロコミズギワゴミムシ（Elaphropus fumicatus）。步甲科极小型甲虫，见于水边、河滩、湿润砂泥地及田埂；体栗色而有光泽，于水际地表疾走，捕食小虫。",
+      "habitat_hint": "水边、河滩、湿润砂泥地、田埂、池沼边。",
+      "finding_tips": "春至秋于水际砂泥地寻找栗色有光泽的极小步甲。"
+    }
+  },
+  "Eleocharis ovata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ovate spikerush",
+    "ja": {
+      "summary": "マルホハリイ。カヤツリグサ科ハリイ属の一年草で、水田や休耕田、池沼のふち、湿った裸地に生える。細い針状の茎が束になって立ち、茎の先に卵形（丸みのある）の小さな穂を一つつける。葉はほとんど目立たない。",
+      "habitat_hint": "水田、休耕田、池沼のふち、湿った裸地、水路。",
+      "finding_tips": "夏〜秋、水田や池のふちで細い針状の茎と、先端の卵形の小さな穂を探します。"
+    },
+    "en": {
+      "summary": "Maruho-harii, the ovate spikerush (Eleocharis ovata). An annual spikerush of paddies, fallow paddies, pond margins and damp bare ground; slender needle-like stems stand in tufts, each tipped with a single small, rounded (ovate) spike, the leaves scarcely visible.",
+      "habitat_hint": "Paddies, fallow paddies, pond margins, damp bare ground, channels.",
+      "finding_tips": "From summer to autumn look in paddies and pond margins for the tufts of needle-like stems each with a small ovate spike at the tip."
+    },
+    "zh": {
+      "summary": "卵穗荸荠（マルホハリイ，Eleocharis ovata）。莎草科荸荠属一年生草本，生于稻田、休耕田、池沼边及湿润裸地；针状细茎丛生，茎顶各生一卵形小穗，叶几不显。",
+      "habitat_hint": "稻田、休耕田、池沼边、湿润裸地、水渠。",
+      "finding_tips": "夏至秋于稻田池边寻找针状细茎及顶端卵形小穗。"
+    }
+  },
+  "Entoloma conferendum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star pinkgill",
+    "ja": {
+      "summary": "ミイノモミウラモドキ。イッポンシメジ科のきのこで、夏〜秋、草地や芝地、林縁、林床の地上に発生する。傘は褐色で条線があり、柄は細い。ひだはやがて肉色（ピンク色）を帯びる。イッポンシメジの仲間には毒のあるものが多く、食用にはしない。",
+      "habitat_hint": "夏〜秋、草地、芝地、林縁、林床の地上。",
+      "finding_tips": "夏〜秋、草地や芝地で褐色で条線のある傘と、肉色を帯びるひだのきのこを探します。食用にしない。"
+    },
+    "en": {
+      "summary": "Mii-no-momiura-modoki, the star pinkgill (Entoloma conferendum). A mushroom of the Entolomataceae fruiting on the ground in grassland, lawns, woodland edges and forest floor in summer to autumn; the brown cap is striate, the stem slender, and the gills become flesh-pink. Many Entoloma are poisonous, so it is not eaten.",
+      "habitat_hint": "Summer to autumn, grassland, lawns, woodland edges, forest floor.",
+      "finding_tips": "From summer to autumn look in grassland and lawns for the striate brown cap with gills turning flesh-pink; do not eat."
+    },
+    "zh": {
+      "summary": "ミイノモミウラモドキ（Entoloma conferendum）。粉褶菌科真菌，夏至秋生于草地、草坪、林缘及林床地面；菌盖褐色具条纹，柄细，菌褶渐带肉粉色，粉褶菌类多有毒，不宜食用。",
+      "habitat_hint": "夏至秋，草地、草坪、林缘、林床地面。",
+      "finding_tips": "夏至秋于草地草坪寻找褐色具条纹盖、菌褶带肉粉色的菌；勿食。"
+    }
+  },
+  "Eriocaulon kiusianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシクロイヌノヒゲ。ホシクサ科ホシクサ属の一年草で、日当たりのよい湿地や湿った草地、休耕田、貧栄養の水辺に生える。細い葉を根ぎわから出し、細長い花茎の先に白っぽい（黒みを帯びる）球状の頭花をつける。九州（筑紫）に多いことが名の由来。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、休耕田、貧栄養の水辺。",
+      "finding_tips": "夏〜秋、湿地で細長い花茎の先につく白っぽい球状の頭花と、根ぎわの細い葉を探します。"
+    },
+    "en": {
+      "summary": "Tsukushi-kuroinu-no-hige (Eriocaulon kiusianum), a pipewort. An annual pipewort of sunny wetlands, damp grassland, fallow paddies and nutrient-poor waterside; slender leaves rise from the base and a long flower-stalk bears a whitish (dark-tinged) globular head. The name refers to its abundance in Kyushu.",
+      "habitat_hint": "Sunny wetlands, damp grassland, fallow paddies, nutrient-poor waterside.",
+      "finding_tips": "From summer to autumn look in wetlands for the whitish globular heads on long stalks and the slender basal leaves."
+    },
+    "zh": {
+      "summary": "ツクシクロイヌノヒゲ（Eriocaulon kiusianum）。谷精草科谷精草属一年生草本，生于向阳湿地、湿润草地、休耕田及贫营养水边；细叶基生，长花葶顶生偏白（略带黑）球状头状花序，因多产九州（筑紫）得名。",
+      "habitat_hint": "向阳湿地、湿润草地、休耕田、贫营养水边。",
+      "finding_tips": "夏至秋于湿地寻找长葶顶端偏白球状头状花序及基部细叶。"
+    }
+  },
+  "Eucarta arctides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメシマヨトウ。ヤガ科の小さなガで、平地〜山地の草地、林縁、湿った草地に見られる。前翅は褐色で、細かな模様やしま（縞）がある。幼虫は草本を食べる。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の草地、林縁、湿った草地、河原。",
+      "finding_tips": "夏、灯火で褐色に細かなしま模様のある小さなヤガを探します。"
+    },
+    "en": {
+      "summary": "Hime-shima-yotō (Eucarta arctides), a small owlet moth. A small noctuid moth of lowland to montane grassland, edges and damp grassland; the forewing is brown with fine markings and stripes. The larva feeds on herbs, and adults come to lights at night; it is small and inconspicuous.",
+      "habitat_hint": "Lowland to montane grassland, edges, damp grassland, riverbanks.",
+      "finding_tips": "In summer look at lights for the small brown owlet moth with fine striped markings."
+    },
+    "zh": {
+      "summary": "ヒメシマヨトウ（Eucarta arctides）。夜蛾科小型蛾，见于平地至山地草地、林缘及湿润草地；前翅褐色具细纹与条纹，幼虫食草本，成虫夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地草地、林缘、湿润草地、河滩。",
+      "finding_tips": "夏于灯下寻找褐色、具细条纹的小型夜蛾。"
+    }
+  },
+  "Euodynerus nipanicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potter wasp",
+    "ja": {
+      "summary": "ミカドドロバチ。スズメバチ科ドロバチ亜科のカリバチで、平地〜山地の林縁、草地、人家周辺に見られる。体は黒地に黄色い斑や帯があり、細身。竹筒や既存の穴に泥で仕切った巣をつくり、ガの幼虫（イモムシ）を狩って幼虫の餌にする。人を積極的には刺さない。",
+      "habitat_hint": "平地〜山地の林縁、草地、人家周辺、竹筒や穴のある環境。",
+      "finding_tips": "初夏〜夏、花や竹筒、既存の穴の周りで黒地に黄斑のある細身のドロバチを探します。"
+    },
+    "en": {
+      "summary": "Mikado-dorobachi (Euodynerus nipanicus), a potter wasp. A solitary wasp (Vespidae, Eumeninae) of lowland to montane woodland edges, grassland and around houses; the slender body is black with yellow spots and bands. It nests in bamboo tubes and existing cavities partitioned with mud, hunting moth caterpillars to provision the larvae, and rarely stings people.",
+      "habitat_hint": "Lowland to montane woodland edges, grassland, around houses, bamboo tubes and cavities.",
+      "finding_tips": "From early summer to summer look around flowers, bamboo tubes and cavities for the slender black wasp with yellow spots."
+    },
+    "zh": {
+      "summary": "日本佳盾蜾蠃（ミカドドロバチ，Euodynerus nipanicus）。胡蜂科蜾蠃亚科独居蜂，见于平地至山地林缘、草地及住家周边；体细，黑地具黄斑与黄带，于竹筒及现成孔洞以泥分隔筑巢，猎捕蛾类幼虫饲幼，少主动蜇人。",
+      "habitat_hint": "平地至山地林缘、草地、住家周边、有竹筒孔洞的环境。",
+      "finding_tips": "初夏至夏于花、竹筒及孔洞周围寻找黑地黄斑的细身蜾蠃。"
+    }
+  },
+  "Euparius oculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fungus weevil",
+    "ja": {
+      "summary": "キノコヒゲナガゾウムシ。ヒゲナガゾウムシ科の甲虫で、平地〜山地の樹林の枯れ木や倒木、朽木につくきのこ（サルノコシカケ類）の上に見られる。体は褐色〜黒褐色で、白や淡色の斑によるまだら模様がある。幼虫・成虫ともに硬いきのこや朽木の菌を食べる。",
+      "habitat_hint": "平地〜山地の樹林、枯れ木や倒木、朽木につくきのこの上。",
+      "finding_tips": "初夏〜夏、枯れ木や倒木のきのこ（サルノコシカケ類）の上でまだら模様の褐色のゾウムシを探します。"
+    },
+    "en": {
+      "summary": "Kinoko-hige-naga-zōmushi (Euparius oculatus), a fungus weevil. A fungus weevil (Anthribidae) found in woodland from lowland to mountains on bracket fungi growing on dead wood, logs and rotten timber; the body is brown to blackish-brown, mottled with white or pale spots. Both larvae and adults feed on tough fungi and wood-rot fungi.",
+      "habitat_hint": "Lowland to montane woodland, on bracket fungi on dead wood, logs, rotten timber.",
+      "finding_tips": "From early summer to summer look on bracket fungi on dead wood for the mottled brown fungus weevil."
+    },
+    "zh": {
+      "summary": "キノコヒゲナガゾウムシ（Euparius oculatus）。长角象科甲虫，见于平地至山地林中枯木、倒木及朽材上生的真菌（多孔菌类）上；体褐至黑褐，具白或淡色斑成斑驳纹，幼成虫均食硬质真菌及木腐菌。",
+      "habitat_hint": "平地至山地林地、枯木倒木朽材上的真菌上。",
+      "finding_tips": "初夏至夏于枯木倒木的多孔菌上寻找斑驳褐色的长角象。"
+    }
+  },
+  "Evergestis forficalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Garden pebble",
+    "ja": {
+      "summary": "ナニセメイガ。ツトガ科（ノメイガの仲間）のガで、平地〜山地の畑、草地、林縁、人家周辺に見られる。翅は淡黄色〜黄褐色で、暗色の斜めの筋や紋がある。幼虫はアブラナ科の植物（キャベツなど）の葉を食べ、家庭菜園では害虫になることがある。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の畑、草地、林縁、人家周辺、菜園。",
+      "finding_tips": "初夏〜夏、灯火や畑のまわりで淡黄色に暗色の斜め筋のあるノメイガを探します。"
+    },
+    "en": {
+      "summary": "Nanise-meiga, the garden pebble (Evergestis forficalis). A crambid moth of lowland to montane fields, grassland, edges and around houses; the wings are pale yellow to yellow-brown with dark oblique streaks and marks. The larva feeds on cabbage-family plants and can be a garden pest, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane fields, grassland, edges, around houses, vegetable gardens.",
+      "finding_tips": "From early summer to summer look at lights and around fields for the pale-yellow moth with dark oblique streaks."
+    },
+    "zh": {
+      "summary": "ナニセメイガ（Evergestis forficalis）。草螟科（螟蛾类）的一种蛾，见于平地至山地农田、草地、林缘及住家周边；翅淡黄至黄褐、具暗色斜纹与斑，幼虫食十字花科植物（甘蓝等），家庭菜园可为害，成虫夜间趋光。",
+      "habitat_hint": "平地至山地农田、草地、林缘、住家周边、菜园。",
+      "finding_tips": "初夏至夏于灯下及田边寻找淡黄、具暗色斜纹的螟蛾。"
+    }
+  },
+  "Fabronia matsumurae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コゴメゴケ。コゴメゴケ科の小さな蘚類で、樹幹の下部や岩、コンクリート、石垣などに緑〜黄緑色の薄いマット状に生える。葉は小さく先がとがり、乾くと縮れる。都市の木や石でも見られる微小な苔。",
+      "habitat_hint": "樹幹の下部、岩、コンクリート、石垣、公園の木。",
+      "finding_tips": "一年中、樹幹の下部や石垣で緑〜黄緑の薄いマット状の微小な蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kogome-goke (Fabronia matsumurae), a moss. A small moss forming thin green to yellow-green mats on the lower trunk, rock, concrete and stone walls; the small leaves taper to a point and curl when dry. It is a minute moss also seen on urban trees and stone.",
+      "habitat_hint": "Lower tree trunks, rock, concrete, stone walls, park trees.",
+      "finding_tips": "Year-round use a lens on lower trunks and stone walls to find the thin green to yellow-green mats of tiny moss."
+    },
+    "zh": {
+      "summary": "东亚碎米藓（コゴメゴケ，Fabronia matsumurae）。碎米藓科小型藓类，于树干下部、岩石、混凝土及石墙形成绿至黄绿薄垫；叶小、端渐尖，干时卷缩，城市树石亦可见，为微小藓。",
+      "habitat_hint": "树干下部、岩石、混凝土、石墙、公园树木。",
+      "finding_tips": "全年用放大镜于树干下部及石墙寻找绿至黄绿薄垫状微小藓。"
+    }
   }
 }
