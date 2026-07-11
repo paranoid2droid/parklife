@@ -234386,5 +234386,480 @@
       "habitat_hint": "北日本及高原湿润草地、沼泽边、河岸、湿地。",
       "finding_tips": "7 至 8 月于湿润草地及沼泽边寻找柳状叶及枝端直立的淡红穗状花序。"
     }
+  },
+  "Streptopus amplexifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clasping twistedstalk",
+    "ja": {
+      "summary": "オオバタケシマラン。ユリ科タケシマラン属の多年草で、山地〜亜高山の湿った林床や林縁、沢沿いに生える。茎の途中で折れ曲がって（分枝して）伸び、茎を抱くような葉をつける。初夏、葉のわきから花柄を垂らし、淡緑白色の小さな鐘状の花を下げ、夏に赤い実をつける。",
+      "habitat_hint": "山地〜亜高山の湿った林床、林縁、沢沿いの日陰。",
+      "finding_tips": "6〜7月、山地の湿った林床で茎を抱く葉と、葉のわきから垂れる淡緑白色の鐘状の花を探します。"
+    },
+    "en": {
+      "summary": "Ōba-takeshimaran, the clasping twistedstalk (Streptopus amplexifolius). A perennial of the lily family growing on damp montane to subalpine forest floor, edges and along streams; the stem bends (branches) partway up and the leaves clasp it. In early summer pale green-white bell-shaped flowers hang on stalks from the leaf axils, followed by red berries in summer.",
+      "habitat_hint": "Damp montane to subalpine forest floor, edges, shaded streamsides.",
+      "finding_tips": "In June–July look on damp montane forest floor for the clasping leaves and pale green-white bell-shaped flowers hanging from the leaf axils."
+    },
+    "zh": {
+      "summary": "扭柄花（オオバタケシマラン，Streptopus amplexifolius）。百合科扭柄花属多年生草本，生于山地至亚高山湿润林床、林缘及沟谷；茎中部弯折（分枝），叶抱茎，初夏叶腋垂生淡绿白色钟状花，夏结红果。",
+      "habitat_hint": "山地至亚高山湿润林床、林缘、沟谷荫处。",
+      "finding_tips": "6 至 7 月于山地湿润林床寻找抱茎叶及叶腋垂生的淡绿白色钟状花。"
+    }
+  },
+  "Suillus luteus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slippery jack",
+    "ja": {
+      "summary": "ヌメリイグチ。ヌメリイグチ科のきのこで、秋、アカマツなどマツ林の地上に群生する。傘は褐色〜赤褐色で強いぬめりがあり、柄に膜質のつばがある。裏は黄色い管孔。食用になるが、傘の表皮は消化が悪いのでむいて食べるとよい。",
+      "habitat_hint": "秋、アカマツなどマツ林の地上、砂地の松林、公園の松の下。",
+      "finding_tips": "秋、マツ林の地上でぬめりの強い褐色の傘と、柄のつば、黄色い管孔をもつきのこを探します。"
+    },
+    "en": {
+      "summary": "Numeri-iguchi, the slippery jack (Suillus luteus). A mushroom of the Suillaceae growing gregariously on the ground in pine woods (with red pine) in autumn; the brown to reddish-brown cap is very slimy, the stem has a membranous ring, and the pores beneath are yellow. It is edible, but the slimy cap skin is hard to digest and is best peeled off.",
+      "habitat_hint": "Autumn, ground of pine woods, sandy pine groves, under park pines.",
+      "finding_tips": "In autumn look on pine-wood ground for the very slimy brown cap with a ringed stem and yellow pores."
+    },
+    "zh": {
+      "summary": "褐环乳牛肝菌（ヌメリイグチ，Suillus luteus）。乳牛肝菌科真菌，秋季群生于赤松等松林地面；菌盖褐至红褐、极黏，柄具膜质环，菌管黄色，可食，但盖表皮不易消化、宜剥去。",
+      "habitat_hint": "秋季，赤松等松林地面、沙地松林、公园松树下。",
+      "finding_tips": "秋于松林地面寻找极黏褐盖、柄具环、菌管黄色的菌。"
+    }
+  },
+  "Trichoderma peltatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオボタンタケ。ボタンタケ科の子のう菌で、広葉樹の枯れ枝や倒木、朽木に発生する。子実体は小さなクッション状〜ボタン状で、表面に微小な子のう殻が埋もれる。褐色〜暗褐色で、木材や他の菌に生じる。木材腐朽に関わる菌。",
+      "habitat_hint": "広葉樹の枯れ枝、倒木、朽木、他の菌の上。",
+      "finding_tips": "湿った時期、広葉樹の枯れ枝や倒木で褐色のボタン状〜クッション状の小さな子実体を探します。"
+    },
+    "en": {
+      "summary": "Ō-botantake (Trichoderma peltatum). An ascomycete of the Hypocreaceae fruiting on dead broadleaf branches, logs and rotten wood; the fruit-body is a small cushion to button shape with minute perithecia embedded in its surface, brown to dark-brown, arising on wood or other fungi. It is involved in wood decay.",
+      "habitat_hint": "Dead broadleaf branches, logs, rotten wood, on other fungi.",
+      "finding_tips": "In wet periods look on dead broadleaf branches and logs for the small brown button- to cushion-shaped fruit-bodies."
+    },
+    "zh": {
+      "summary": "オオボタンタケ（Trichoderma peltatum）。肉座菌科子囊菌，生于阔叶树枯枝、倒木及朽木；子实体小、垫状至纽扣状，表面埋生微小子囊壳，褐至暗褐，生于木材或他菌上，参与木材腐朽。",
+      "habitat_hint": "阔叶树枯枝、倒木、朽木、他菌上。",
+      "finding_tips": "湿润期于阔叶枯枝倒木寻找褐色纽扣状至垫状的小型子实体。"
+    }
+  },
+  "Tritoniopsis elegans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ユビノウハナガサウミウシ。ウミウシ（後鰓類）の一種で、暖かい海の岩礁やサンゴ礁、潮下帯に見られる。体は白っぽく半透明で、背中に指状〜花笠状に細かく枝分かれした突起（二次鰓や突起）を多数もつ。ソフトコーラル（軟質サンゴ）を食べる。ダイビングで観察される。",
+      "habitat_hint": "暖かい海の岩礁、サンゴ礁、潮下帯、ソフトコーラルのある場所。",
+      "finding_tips": "潮下帯の岩やサンゴ礁で、白っぽく背中に指状〜花笠状の突起を多数もつウミウシを探します。"
+    },
+    "en": {
+      "summary": "Yubinou-hanagasa-umiushi (Tritoniopsis elegans), a nudibranch. A sea slug found on rocky and coral reefs and in the subtidal of warm seas; the whitish, translucent body bears many finely branched finger- to parasol-like processes on the back. It feeds on soft corals and is seen while diving.",
+      "habitat_hint": "Warm-sea rocky and coral reefs, subtidal, where soft corals grow.",
+      "finding_tips": "On subtidal rock and coral reefs look for the whitish nudibranch with many finger- to parasol-like branched processes on its back."
+    },
+    "zh": {
+      "summary": "ユビノウハナガサウミウシ（Tritoniopsis elegans）。海蛞蝓（后鳃类）之一，见于暖海岩礁、珊瑚礁及潮下带；体偏白半透明，背具多数指状至花笠状细分枝突起，取食软珊瑚，潜水可见。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮下带、有软珊瑚处。",
+      "finding_tips": "于潮下带岩及珊瑚礁寻找偏白、背具多数指状至花笠状分枝突起的海蛞蝓。"
+    }
+  },
+  "Turbinellus floccosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスタケ。ラッパタケ科のきのこで、夏〜秋、針葉樹林（モミ・ツガなど）の林床の地上に発生する。子実体は深い漏斗状〜ラッパ状で、内側（傘の表面）は橙赤色でささくれた鱗片があり、外側は淡色でしわ状のひだがある。有毒とされ、食用にしない。",
+      "habitat_hint": "夏〜秋、モミ・ツガなど針葉樹林の林床の地上。",
+      "finding_tips": "夏〜秋、針葉樹林の地上で橙赤色のラッパ状で内側にささくれた鱗片のあるきのこを探します。有毒。"
+    },
+    "en": {
+      "summary": "Usutake, the scaly chanterelle (Turbinellus floccosus). A fungus of the Gomphaceae fruiting on the ground of conifer forest (fir, hemlock) floor in summer to autumn; the fruit-body is a deep funnel to trumpet shape, orange-red and shaggy-scaled on the inner (cap) surface, pale with wrinkled ridges outside. It is regarded as poisonous and is not eaten.",
+      "habitat_hint": "Summer to autumn, ground of conifer-forest (fir, hemlock) floor.",
+      "finding_tips": "From summer to autumn look on conifer-forest floor for the orange-red trumpet-shaped fungus with shaggy scales inside; poisonous, do not eat."
+    },
+    "zh": {
+      "summary": "喇叭陀螺菌（ウスタケ，Turbinellus floccosus）。钉菇科真菌，夏至秋生于冷杉、铁杉等针叶林林床地面；子实体深漏斗至喇叭形，内（盖）面橙红、具粗糙鳞片，外面色淡、具皱棱，被认为有毒、不宜食用。",
+      "habitat_hint": "夏至秋，冷杉、铁杉等针叶林林床地面。",
+      "finding_tips": "夏至秋于针叶林床寻找橙红喇叭形、内具粗糙鳞片的菌；有毒勿食。"
+    }
+  },
+  "Turnera ulmifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow alder",
+    "ja": {
+      "summary": "キバナツルネラ。トケイソウ科（またはツルネラ科）の低木状の多年草で、熱帯アメリカ原産の観賞植物。暖地では庭や道ばた、荒れ地に植えられ、野生化もする。ニレに似た葉をもち、午前中に黄色い5弁の花を咲かせるが、昼にはしぼむ。次々と咲く。",
+      "habitat_hint": "暖地の庭、道ばた、荒れ地、造成地（植栽・野生化）。",
+      "finding_tips": "夏、暖地の庭や道ばたで午前中に開く黄色い5弁の花と、ニレに似た葉を探します。花は昼にしぼみます。"
+    },
+    "en": {
+      "summary": "Kibana-tsurunera, the yellow alder (Turnera ulmifolia). A shrubby perennial of the passionflower family (or Turneraceae), an ornamental native to tropical America; in warm regions it is planted in gardens, roadsides and waste ground and naturalizes. It has elm-like leaves and opens yellow five-petalled flowers in the morning that fade by midday, blooming in succession.",
+      "habitat_hint": "Warm-region gardens, roadsides, waste ground, developed sites (planted and naturalized).",
+      "finding_tips": "In summer in warm-region gardens and roadsides look for the elm-like leaves and yellow five-petalled morning flowers that close by midday."
+    },
+    "zh": {
+      "summary": "黄时钟花（キバナツルネラ，Turnera ulmifolia）。西番莲科（或时钟花科）灌木状多年生草本，原产热带美洲的观赏植物，暖地栽于庭园、路旁及荒地并逸生；叶似榆，上午开黄色五瓣花、正午即闭，次第开放。",
+      "habitat_hint": "暖地庭园、路旁、荒地、造地（栽培及逸生）。",
+      "finding_tips": "夏于暖地庭园路旁寻找似榆的叶及上午开放、正午即闭的黄色五瓣花。"
+    }
+  },
+  "Ulota crispa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crisped pincushion",
+    "ja": {
+      "summary": "カラフトキンモウゴケ。タチヒダゴケ科の蘚類で、樹幹や枝、まれに岩に緑〜黄緑色のこんもりしたクッション状の群落をつくって着生する。乾くと葉が強く縮れて巻き込むのが特徴。低地〜山地の樹林で樹皮に着生し、都市の木でも見られる。",
+      "habitat_hint": "樹幹、枝、まれに岩、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹や枝で乾くと強く縮れる緑〜黄緑のクッション状の蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Karafuto-kinmō-goke, the crisped pincushion (Ulota crispa). A moss of the Orthotrichaceae growing epiphytically as rounded green to yellow-green cushions on tree trunks, branches and rarely rock; the leaves strongly curl and crisp when dry. It grows on bark in lowland to montane woods and is seen even on urban trees.",
+      "habitat_hint": "Tree trunks, branches, rarely rock, park and shrine trees.",
+      "finding_tips": "Year-round on trunks and branches use a lens to find the green to yellow-green cushion moss whose leaves strongly curl when dry."
+    },
+    "zh": {
+      "summary": "皱叶木灵藓近缘的皱蒴藓（カラフトキンモウゴケ，Ulota crispa）。木灵藓科藓类，附生于树干、枝及偶见岩石，成绿至黄绿隆起垫状群落，干时叶强烈卷缩，生于低地至山地林树皮，城市树木亦可见。",
+      "habitat_hint": "树干、枝条、偶见岩石、公园及神社寺庙树木。",
+      "finding_tips": "全年于树干枝条用放大镜寻找干时强烈卷缩的绿至黄绿垫状藓。"
+    }
+  },
+  "Urostylis annulicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stink bug",
+    "ja": {
+      "summary": "ヘラクヌギカメムシ。クヌギカメムシ科のカメムシで、平地〜山地のクヌギやコナラなどブナ科の樹林に見られる。体は緑色で細長く、秋に成虫が現れる。冬、樹皮の割れ目にゼリー状の物質で包んだ卵塊を産みつけ、ふ化した幼虫はそのゼリーを食べる。",
+      "habitat_hint": "平地〜山地のクヌギ・コナラなどブナ科の樹林、林縁。",
+      "finding_tips": "秋〜初冬、クヌギやコナラの幹で緑色の細長いカメムシと、樹皮の割れ目のゼリー状の卵塊を探します。"
+    },
+    "en": {
+      "summary": "Hera-kunugi-kamemushi (Urostylis annulicornis), a stink bug. A stink bug of the Urostylididae found in oak woodland (sawtooth oak, konara) from lowland to mountains; the body is green and elongate, with adults appearing in autumn. In winter it lays egg masses wrapped in a jelly-like substance in bark crevices, and the hatched nymphs feed on the jelly.",
+      "habitat_hint": "Lowland to montane oak woodland (Quercus), edges.",
+      "finding_tips": "From autumn to early winter look on oak trunks for the elongate green stink bug and the jelly-wrapped egg masses in bark crevices."
+    },
+    "zh": {
+      "summary": "ヘラクヌギカメムシ（Urostylis annulicornis）。壮蝽科蝽类，见于平地至山地麻栎、枹栎等壳斗科林；体绿细长，秋季成虫出现，冬季于树皮缝以胶质物包裹产卵块，孵化若虫取食该胶质。",
+      "habitat_hint": "平地至山地麻栎、枹栎等壳斗科林、林缘。",
+      "finding_tips": "秋至初冬于栎树干寻找细长绿色蝽及树皮缝中胶质卵块。"
+    }
+  },
+  "Urtica dioica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバイラクサ。イラクサ科イラクサ属の多年草で、山地の林縁や道ばた、荒れ地、川岸に生える。茎や葉に刺毛（しげ）があり、触れると皮膚に刺さって痛痒く炎症を起こす（有毒の刺毛）。夏〜秋、葉のわきに地味な緑色の小花を穂状につける。若芽は加熱すれば食べられる。",
+      "habitat_hint": "山地の林縁、道ばた、荒れ地、川岸、人里の草地。",
+      "finding_tips": "夏〜秋、林縁や道ばたで刺毛のある茎葉と、葉のわきの地味な緑色の花穂を探します。素手で触ると痛いので注意。"
+    },
+    "en": {
+      "summary": "Hosoba-irakusa, the stinging nettle (Urtica dioica). A perennial of the nettle family growing on montane woodland edges, roadsides, waste ground and riverbanks; the stems and leaves bear stinging hairs that pierce the skin and cause a painful, itchy inflammation. In summer to autumn plain green flowers appear in axillary spikes; young shoots are edible when cooked.",
+      "habitat_hint": "Montane woodland edges, roadsides, waste ground, riverbanks, rural grassland.",
+      "finding_tips": "From summer to autumn look on edges and roadsides for the stinging-haired stems and plain green flower spikes in the leaf axils; do not touch bare-handed."
+    },
+    "zh": {
+      "summary": "异株荨麻（ホソバイラクサ，Urtica dioica）。荨麻科荨麻属多年生草本，生于山地林缘、路旁、荒地及河岸；茎叶具螫毛，触之刺入皮肤引起刺痛瘙痒炎症（有毒螫毛），夏至秋叶腋穗状生朴素绿花，嫩芽煮熟可食。",
+      "habitat_hint": "山地林缘、路旁、荒地、河岸、村落草地。",
+      "finding_tips": "夏至秋于林缘路旁寻找具螫毛茎叶及叶腋朴素绿色花穗；勿徒手触碰。"
+    }
+  },
+  "Vallisneria denseserrulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウガイモ。トチカガミ科セキショウモ属の水生の多年草で、池沼や水路、流れのゆるい川に沈んで生える。細長いリボン状の葉が水底から水面に向かって伸びる。セキショウモに似るが葉の縁の鋸歯が細かい。地下茎（走出枝）で広がる。",
+      "habitat_hint": "池沼、水路、流れのゆるい川、湖岸の浅い水中。",
+      "finding_tips": "夏〜秋、池沼や水路で水底から伸びる細長いリボン状の沈水葉を探します。"
+    },
+    "en": {
+      "summary": "Kōgaimo (Vallisneria denseserrulata), a tape grass. A submerged aquatic perennial of the frogbit family growing in ponds, channels and slow rivers; long ribbon-like leaves reach from the bottom toward the surface. It resembles the eelgrass Vallisneria but has finer teeth on the leaf margins, and spreads by rhizomes (runners).",
+      "habitat_hint": "Ponds, channels, slow rivers, shallow water along lake shores.",
+      "finding_tips": "From summer to autumn look in ponds and channels for the long ribbon-like submerged leaves rising from the bottom."
+    },
+    "zh": {
+      "summary": "密刺苦草（コウガイモ，Vallisneria denseserrulata）。水鳖科苦草属沉水多年生草本，生于池沼、水渠及缓流河；狭长带状叶自水底伸向水面，似苦草但叶缘锯齿更细，以匍匐茎蔓延。",
+      "habitat_hint": "池沼、水渠、缓流河、湖岸浅水。",
+      "finding_tips": "夏至秋于池沼水渠寻找自水底伸出的狭长带状沉水叶。"
+    }
+  },
+  "Veratrum stamineum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバイケイソウ。シュロソウ科（ユリ科）シュロソウ属の大型の多年草で、山地〜亜高山の湿った草地や湿原、雪田周辺に群生する。太い茎に大きな葉をつけ、初夏〜夏、茎の先に白い小花を穂状（円錐状）に密につける。全草が有毒で、誤食すると中毒を起こす。花つきに豊凶の年がある。",
+      "habitat_hint": "山地〜亜高山の湿った草地、湿原、雪田周辺、沢沿い。",
+      "finding_tips": "6〜7月、山地の湿った草地で大きな葉と、茎の先に密につく白い小花の穂を探します。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Kobaikeisō (Veratrum stamineum), a false hellebore. A large perennial of the Melanthiaceae growing gregariously in damp montane to subalpine grassland, bogs and snow-patch margins; stout stems bear large leaves and, in early to mid summer, dense spike-like (paniculate) clusters of small white flowers. The whole plant is poisonous and causes poisoning if eaten; flowering varies greatly between years.",
+      "habitat_hint": "Damp montane to subalpine grassland, bogs, snow-patch margins, streamsides.",
+      "finding_tips": "In June–July look in damp montane grassland for the large leaves and dense spikes of small white flowers; do not ingest, it is poisonous."
+    },
+    "zh": {
+      "summary": "コバイケイソウ（Veratrum stamineum）。藜芦科（百合科）藜芦属大型多年生草本，成片生于山地至亚高山湿润草地、沼泽及雪田周边；粗茎生大叶，初夏至夏于茎顶密生白色小花穗状（圆锥）花序，全株有毒、误食中毒，花量有大小年。",
+      "habitat_hint": "山地至亚高山湿润草地、沼泽、雪田周边、沟谷。",
+      "finding_tips": "6 至 7 月于山地湿润草地寻找大叶及茎顶密集白色小花穗；有毒勿食。"
+    }
+  },
+  "Veronica ovata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾルリトラノオ。オオバコ科（旧ゴマノハグサ科）クワガタソウ属の多年草で、北日本や高地の日当たりのよい草地、湿った草地、林縁に生える。夏、茎の先に青紫色（るり色）の小さな花を細長い穂状に密につける。トラノオのように花穂が立つ。",
+      "habitat_hint": "北日本や高地の日当たりのよい草地、湿った草地、林縁。",
+      "finding_tips": "7〜8月、北日本の草地で、茎の先に立つ青紫色の細長い花穂を探します。"
+    },
+    "en": {
+      "summary": "Ezo-ruri-toranoo (Veronica ovata), a speedwell. A perennial speedwell of the plantain family (former figwort family) growing in sunny grassland, damp grassland and woodland edges in northern Japan and highlands; in summer it bears many small blue-purple flowers in a slender erect spike at the stem tip.",
+      "habitat_hint": "Northern-Japan and highland sunny grassland, damp grassland, woodland edges.",
+      "finding_tips": "In July–August look in northern grassland for the slender erect spikes of small blue-purple flowers at the stem tips."
+    },
+    "zh": {
+      "summary": "エゾルリトラノオ（Veronica ovata）。车前科（旧玄参科）婆婆纳属多年生草本，生于北日本及高地向阳草地、湿润草地及林缘；夏于茎顶细长直立穗状花序密生青紫色小花。",
+      "habitat_hint": "北日本及高地向阳草地、湿润草地、林缘。",
+      "finding_tips": "7 至 8 月于北方草地寻找茎顶直立的青紫色细长花穗。"
+    }
+  },
+  "Weissia longifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツチノウエノタマゴケ。センボンゴケ科の小さな蘚類で、日当たりのよい裸地の土、道ばた、畑のふち、石垣の隙間の土に緑色の小さな群落をつくって生える。乾くと葉が縮れる。名のとおり「土の上」に生え、球状の胞子体（さく）をつける。都市でも普通に見られる。",
+      "habitat_hint": "日当たりのよい裸地の土、道ばた、畑のふち、石垣の隙間。",
+      "finding_tips": "一年中、道ばたや裸地の土で乾くと縮れる緑色の小さな蘚と、球状のさくをルーペで探します。"
+    },
+    "en": {
+      "summary": "Tsuchi-no-ue-no-tamagoke (Weissia longifolia), a crisp beardless-moss. A small moss of the Pottiaceae forming small green colonies on sunny bare soil, roadsides, field margins and soil in stone-wall crevices; the leaves crisp when dry. As the name ('on the soil') implies it grows on ground, bearing globular capsules, and is common even in towns.",
+      "habitat_hint": "Sunny bare soil, roadsides, field margins, stone-wall crevices.",
+      "finding_tips": "Year-round on roadside and bare soil use a lens to find the small green moss that crisps when dry, with globular capsules."
+    },
+    "zh": {
+      "summary": "皱叶小石藓（ツチノウエノタマゴケ，Weissia longifolia）。丛藓科小型藓类，于向阳裸土、路旁、田边及石墙缝土中形成绿色小群落，干时叶卷缩；如名生于土面，具球状孢蒴，城市亦常见。",
+      "habitat_hint": "向阳裸土、路旁、田边、石墙缝隙。",
+      "finding_tips": "全年于路旁及裸土用放大镜寻找干时卷缩、具球状孢蒴的绿色小藓。"
+    }
+  },
+  "Wikstroemia retusa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオガンピ。ジンチョウゲ科ガンピ属の常緑低木で、南西諸島などの暖地の海岸近くの林縁や岩場、日当たりのよい斜面に生える。革質のつやのある葉を対につけ、夏、枝先に黄色い筒状の小花を集めて咲かせ、赤い小さな実をつける。樹皮は和紙の原料になる。",
+      "habitat_hint": "南西諸島などの暖地の海岸近くの林縁、岩場、日当たりのよい斜面。",
+      "finding_tips": "夏、暖地の海岸近くで革質のつやのある対生の葉と、枝先の黄色い筒状の小花を探します。"
+    },
+    "en": {
+      "summary": "Ao-ganpi (Wikstroemia retusa). An evergreen shrub of the daphne family growing on warm-region coastal woodland edges, rocks and sunny slopes such as the Ryukyu Islands; it has glossy leathery opposite leaves and, in summer, clusters of small yellow tubular flowers at the branch tips, followed by small red fruits. The bark is used to make Japanese paper.",
+      "habitat_hint": "Warm-region coastal woodland edges, rocks, sunny slopes (Ryukyu etc.).",
+      "finding_tips": "In summer near warm-region coasts look for the glossy leathery opposite leaves and clusters of small yellow tubular flowers at the branch tips."
+    },
+    "zh": {
+      "summary": "アオガンピ（Wikstroemia retusa）。瑞香科荛花属常绿灌木，生于琉球等暖地近海林缘、岩场及向阳坡；叶革质有光泽、对生，夏于枝端簇生黄色筒状小花，结红色小果，树皮为和纸原料。",
+      "habitat_hint": "琉球等暖地近海林缘、岩场、向阳坡。",
+      "finding_tips": "夏于暖地近海寻找对生亮革质叶及枝端黄色筒状小花簇。"
+    }
+  },
+  "Zantedeschia aethiopica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Calla lily",
+    "aliases": {
+      "zh-Hans": "马蹄莲"
+    },
+    "ja": {
+      "summary": "オランダカイウ（カラー）。サトイモ科オランダカイウ属の多年草で、南アフリカ原産の観賞植物。庭や公園、湿った場所に植えられ、暖地では水辺で野生化することもある。初夏、白い大きな漏斗状の仏炎苞（ぶつえんほう）に包まれた黄色い花軸をもつ花を咲かせる。切り花として人気。",
+      "habitat_hint": "庭、公園、湿った場所、水辺（植栽・野生化）。",
+      "finding_tips": "初夏、庭や公園、水辺で白い大きな漏斗状の仏炎苞に包まれた花を探します。中央に黄色い花軸。"
+    },
+    "en": {
+      "summary": "Oranda-kaiu, the calla lily (Zantedeschia aethiopica). A perennial of the arum family native to South Africa, an ornamental planted in gardens, parks and damp places and sometimes naturalized at warm-region waterside; in early summer it bears a flower with a large white funnel-shaped spathe enclosing a yellow spadix. It is popular as a cut flower.",
+      "habitat_hint": "Gardens, parks, damp places, waterside (planted and naturalized).",
+      "finding_tips": "In early summer in gardens, parks and waterside look for the large white funnel-shaped spathe enclosing a yellow spadix."
+    },
+    "zh": {
+      "summary": "马蹄莲（オランダカイウ，Zantedeschia aethiopica）。天南星科马蹄莲属多年生草本，原产南非的观赏植物，栽于庭园、公园及湿处，暖地水边可逸生；初夏开花，白色大漏斗状佛焰苞包裹黄色肉穗花序，为受欢迎的切花。",
+      "habitat_hint": "庭园、公园、湿处、水边（栽培及逸生）。",
+      "finding_tips": "初夏于庭园公园及水边寻找白色大漏斗状佛焰苞包裹黄色肉穗的花。"
+    }
+  },
+  "Agrocybe praecox": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spring fieldcap",
+    "aliases": {
+      "zh-Hans": "田头菇"
+    },
+    "ja": {
+      "summary": "フミヅキタケ。モエギタケ科（またはヒメノガステル科）のきのこで、春〜初夏、畑、庭、林縁、木くずやわらのある地上、道ばたに群生する。傘は淡黄褐色〜クリーム色で、柄につばがある。名は文月（旧暦7月）に出ることに由来するが、実際は春に多い。食用にされることもあるが注意が必要。",
+      "habitat_hint": "春〜初夏、畑、庭、林縁、木くずやわらのある地上、道ばた。",
+      "finding_tips": "春〜初夏、畑や庭、木くずのある地面で淡黄褐色の傘と、柄のつばをもつきのこの群生を探します。"
+    },
+    "en": {
+      "summary": "Fumizuki-take, the spring fieldcap (Agrocybe praecox). A mushroom of the Strophariaceae fruiting gregariously in spring to early summer on fields, gardens, woodland edges, ground with wood chips or straw, and roadsides; the cap is pale yellow-brown to cream and the stem has a ring. Sometimes eaten but requires care.",
+      "habitat_hint": "Spring to early summer, fields, gardens, woodland edges, wood-chip or straw ground, roadsides.",
+      "finding_tips": "From spring to early summer look on fields and wood-chip ground for the pale yellow-brown capped mushroom with a ringed stem, growing in groups."
+    },
+    "zh": {
+      "summary": "田头菇（フミヅキタケ，Agrocybe praecox）。球盖菇科真菌，春至初夏群生于农田、庭园、林缘、木屑或稻草地面及路旁；菌盖淡黄褐至奶油色，柄具环，偶供食用但需谨慎。",
+      "habitat_hint": "春至初夏，农田、庭园、林缘、木屑或稻草地面、路旁。",
+      "finding_tips": "春至初夏于农田及木屑地面寻找淡黄褐盖、柄具环、群生的菌。"
+    }
+  },
+  "Ainsliaea uniflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クサヤツデ。キク科モミジハグマ属の多年草で、山地の林床や林縁、やや湿った斜面に生える。ヤツデに似た手のひら状に切れ込む葉を根ぎわにつける。秋、細い花茎の先に、暗紫色〜赤紫色の細い筒状花からなる小さな頭花をまばらにつける。",
+      "habitat_hint": "山地の林床、林縁、やや湿った斜面、谷沿い。",
+      "finding_tips": "9〜10月、山地の林床でヤツデ状の葉と、細い花茎につく暗紫色の細い頭花を探します。"
+    },
+    "en": {
+      "summary": "Kusa-yatsude (Ainsliaea uniflora). A perennial of the daisy family growing on montane forest floor, edges and dampish slopes; the basal leaves are palmately cut like a fatsia leaf. In autumn a slender stalk bears sparse small heads of narrow dark-purple to red-purple tubular florets.",
+      "habitat_hint": "Montane forest floor, edges, dampish slopes, valleys.",
+      "finding_tips": "In September–October look on montane forest floor for the fatsia-like leaves and slender stalks with dark-purple narrow flower heads."
+    },
+    "zh": {
+      "summary": "クサヤツデ（Ainsliaea uniflora）。菊科兔儿风属多年生草本，生于山地林床、林缘及略湿坡地；基生叶掌状分裂似八角金盘，秋于细葶疏生暗紫至红紫色细筒状花的小头状花序。",
+      "habitat_hint": "山地林床、林缘、略湿坡地、谷地。",
+      "finding_tips": "9 至 10 月于山地林床寻找八角金盘状叶及细葶上的暗紫细头状花。"
+    }
+  },
+  "Ajugoides humilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマジオウ。シソ科ヤマジオウ属の多年草で、山地の林床や林縁、やや湿った日陰に生える。地表を這うように広がり、対生する葉の間から、淡紅紫色の唇形の花を上向きに咲かせる。キランソウに近い仲間で、低く這う。春〜初夏に開花する。",
+      "habitat_hint": "山地の林床、林縁、やや湿った日陰、谷沿い。",
+      "finding_tips": "5〜6月、山地の林床で地を這う茎と、淡紅紫色の上向きの唇形の花を探します。"
+    },
+    "en": {
+      "summary": "Yamajiō (Ajugoides humilis). A perennial of the mint family growing on montane forest floor, edges and dampish shade; it spreads creeping over the ground and opens pale purple-pink two-lipped flowers facing upward between the opposite leaves. A low creeping relative of the bugleweeds, it flowers in spring to early summer.",
+      "habitat_hint": "Montane forest floor, edges, dampish shade, valleys.",
+      "finding_tips": "In May–June look on montane forest floor for the creeping stems and upward-facing pale purple-pink two-lipped flowers."
+    },
+    "zh": {
+      "summary": "ヤマジオウ（Ajugoides humilis）。唇形科多年生草本，生于山地林床、林缘及略湿荫处；匍匐地面蔓生，于对生叶间向上开淡紫红色唇形花，为近筋骨草的低矮匍匐种，春至初夏开花。",
+      "habitat_hint": "山地林床、林缘、略湿荫处、谷地。",
+      "finding_tips": "5 至 6 月于山地林床寻找匍匐茎及向上的淡紫红唇形花。"
+    }
+  },
+  "Amanita esculenta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ドウシンタケ。テングタケ科テングタケ属のきのこで、夏〜秋、雑木林や公園の広葉樹の下の地上に発生する。傘は灰褐色で、縁に条線（みぞ）があり、柄の基部にはつぼ（volva）が残る。テングタケの仲間には有毒種が多いので、確実な同定ができなければ食べない。",
+      "habitat_hint": "夏〜秋、雑木林や公園の広葉樹（ブナ科など）の下の地上。",
+      "finding_tips": "夏〜秋、広葉樹の下で灰褐色で縁に条線のある傘と、柄の基部のつぼをもつテングタケを探します。安易に食べない。"
+    },
+    "en": {
+      "summary": "Dōshin-take (Amanita esculenta). An Amanita mushroom fruiting on the ground under broadleaf trees in woodland and parks in summer to autumn; the grey-brown cap is striate at the margin and the stem base has a volva. As many Amanita are poisonous, do not eat it without certain identification.",
+      "habitat_hint": "Summer to autumn, ground under broadleaf trees (beech family) in woodland and parks.",
+      "finding_tips": "From summer to autumn look under broadleaf trees for the grey-brown striate-margined Amanita cap with a volva at the stem base; do not eat casually."
+    },
+    "zh": {
+      "summary": "ドウシンタケ（Amanita esculenta）。鹅膏菌科鹅膏属真菌，夏至秋生于杂木林及公园阔叶树下地面；菌盖灰褐、边缘具条纹，柄基具菌托，鹅膏属多有毒，未确切鉴定勿食。",
+      "habitat_hint": "夏至秋，杂木林及公园阔叶树（壳斗科等）下地面。",
+      "finding_tips": "夏至秋于阔叶树下寻找灰褐、边缘具条纹、柄基具菌托的鹅膏；勿轻易食用。"
+    }
+  },
+  "Amanita imazekii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマタマゴタケ。テングタケ科テングタケ属のきのこで、夏〜秋、山地の雑木林や針広混交林の地上に発生する。若いときは白い卵状の膜（外被膜）に包まれ、成長すると傘が現れる。柄の基部にはつぼが残る。テングタケの仲間には有毒種が多く、確実な同定ができなければ食べない。",
+      "habitat_hint": "夏〜秋、山地の雑木林、針広混交林の地上。",
+      "finding_tips": "夏〜秋、山地の林床で白い卵状の膜から現れる傘と、柄の基部のつぼをもつテングタケを探します。安易に食べない。"
+    },
+    "en": {
+      "summary": "Miyama-tamagotake (Amanita imazekii). An Amanita mushroom fruiting on the ground in montane secondary and mixed woodland in summer to autumn; when young it is enclosed in a white egg-like universal veil, from which the cap emerges, and the stem base has a volva. Many Amanita are poisonous, so do not eat without certain identification.",
+      "habitat_hint": "Summer to autumn, ground of montane secondary and mixed woodland.",
+      "finding_tips": "From summer to autumn look on montane forest floor for the cap emerging from a white egg-like veil, with a volva at the stem base; do not eat casually."
+    },
+    "zh": {
+      "summary": "ミヤマタマゴタケ（Amanita imazekii）。鹅膏菌科鹅膏属真菌，夏至秋生于山地杂木林及针阔混交林地面；幼时被白色卵状外菌幕包裹，成熟露出菌盖，柄基具菌托，鹅膏属多有毒，未确切鉴定勿食。",
+      "habitat_hint": "夏至秋，山地杂木林、针阔混交林地面。",
+      "finding_tips": "夏至秋于山地林床寻找自白色卵状菌幕露出的菌盖、柄基具菌托的鹅膏；勿轻易食用。"
+    }
+  },
+  "Amanita japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハイイロオニタケ。テングタケ科テングタケ属のきのこで、夏〜秋、雑木林や公園の広葉樹の下の地上に発生する。傘は灰色〜灰褐色で、とがった円錐状〜いぼ状の白い鱗片を散りばめる。柄にもささくれがある。オニタケの仲間で、食用にしない（有毒のおそれ）。",
+      "habitat_hint": "夏〜秋、雑木林や公園の広葉樹の下の地上。",
+      "finding_tips": "夏〜秋、広葉樹の下で灰色の傘にとがった白い鱗片を散りばめるテングタケを探します。食用にしない。"
+    },
+    "en": {
+      "summary": "Haiiro-onitake (Amanita japonica). An Amanita mushroom fruiting on the ground under broadleaf trees in woodland and parks in summer to autumn; the grey to grey-brown cap is dotted with pointed conical to warty white scales, and the stem is also shaggy. A relative of the spiny Amanitas, it is not eaten (possibly poisonous).",
+      "habitat_hint": "Summer to autumn, ground under broadleaf trees in woodland and parks.",
+      "finding_tips": "From summer to autumn look under broadleaf trees for the grey Amanita cap dotted with pointed white scales; do not eat."
+    },
+    "zh": {
+      "summary": "ハイイロオニタケ（Amanita japonica）。鹅膏菌科鹅膏属真菌，夏至秋生于杂木林及公园阔叶树下地面；菌盖灰至灰褐、散布尖锥状至疣状白色鳞片，柄亦具毛刺，为刺鹅膏类，不宜食用（或有毒）。",
+      "habitat_hint": "夏至秋，杂木林及公园阔叶树下地面。",
+      "finding_tips": "夏至秋于阔叶树下寻找灰色盖、散布尖白鳞片的鹅膏；勿食。"
+    }
+  },
+  "Amanita rufoferruginea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カバイロコナテングタケ。テングタケ科テングタケ属のきのこで、夏〜秋、雑木林や公園の広葉樹の下の地上に発生する。傘は樺色（かばいろ＝赤褐色〜橙褐色）で、表面に同色の粉状〜こな状の被膜のかけらを散りばめる。柄にも同様の粉がつく。食用にしない（有毒のおそれ）。",
+      "habitat_hint": "夏〜秋、雑木林や公園の広葉樹の下の地上。",
+      "finding_tips": "夏〜秋、広葉樹の下で赤褐色〜橙褐色の傘に同色の粉状の被膜のかけらを散りばめるテングタケを探します。食用にしない。"
+    },
+    "en": {
+      "summary": "Kabairo-kona-tengutake (Amanita rufoferruginea). An Amanita mushroom fruiting on the ground under broadleaf trees in woodland and parks in summer to autumn; the reddish-brown to orange-brown (birch-coloured) cap is dotted with powdery veil fragments of the same colour, and the stem is similarly powdery. It is not eaten (possibly poisonous).",
+      "habitat_hint": "Summer to autumn, ground under broadleaf trees in woodland and parks.",
+      "finding_tips": "From summer to autumn look under broadleaf trees for the reddish-brown Amanita cap dotted with powdery veil fragments of the same colour; do not eat."
+    },
+    "zh": {
+      "summary": "カバイロコナテングタケ（Amanita rufoferruginea）。鹅膏菌科鹅膏属真菌，夏至秋生于杂木林及公园阔叶树下地面；菌盖桦色（红褐至橙褐），散布同色粉状菌幕碎片，柄亦具同色粉，不宜食用（或有毒）。",
+      "habitat_hint": "夏至秋，杂木林及公园阔叶树下地面。",
+      "finding_tips": "夏至秋于阔叶树下寻找红褐至橙褐盖、散布同色粉状碎片的鹅膏；勿食。"
+    }
   }
 }
