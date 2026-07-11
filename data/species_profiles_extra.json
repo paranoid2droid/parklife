@@ -237235,5 +237235,492 @@
       "habitat_hint": "岩礁海岸潮间带泥岩、软岩、贝壳内孔中。",
       "finding_tips": "退潮时敲开岩礁软岩或泥岩，孔中可见偏白、蛤仔状的双壳贝。"
     }
+  },
+  "Phaeotremella foliacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハナビラニカワタケ。シロキクラゲの仲間の担子菌（ゼリー質菌）で、広葉樹や針葉樹の枯れ木、倒木、切り株に発生する。子実体は花びらのように波打つ薄い葉状の塊が重なり、褐色〜茶褐色でゼリー状。湿ると膨らみ、乾くと縮んで黒っぽくなる。食用にされることもある。",
+      "habitat_hint": "広葉樹や針葉樹の枯れ木、倒木、切り株（湿った時期）。",
+      "finding_tips": "梅雨や雨後、枯れ木や切り株で花びら状に波打つ褐色のゼリー質のきのこを探します。"
+    },
+    "en": {
+      "summary": "Hanabira-nikawatake, the leafy brain (Phaeotremella foliacea). A jelly fungus (Basidiomycota) related to the white jelly fungus, fruiting on dead wood, logs and stumps of broadleaf and conifer trees; the fruit-body is a mass of thin, wavy, petal-like leafy lobes, brown to tea-brown and gelatinous. It swells when wet and shrinks blackish when dry, and is sometimes eaten.",
+      "habitat_hint": "Dead wood, logs and stumps of broadleaf and conifer trees (in wet periods).",
+      "finding_tips": "In the rainy season or after rain look on dead wood and stumps for the brown gelatinous fungus of wavy, petal-like lobes."
+    },
+    "zh": {
+      "summary": "茶色褐银耳（ハナビラニカワタケ，Phaeotremella foliacea）。近银耳的担子菌胶质菌，生于阔叶及针叶树枯木、倒木及树桩；子实体为花瓣状波状薄叶片叠生、褐至茶褐、胶质，湿则膨、干则缩黑，偶供食用。",
+      "habitat_hint": "阔叶及针叶树枯木、倒木、树桩（湿润期）。",
+      "finding_tips": "梅雨或雨后于枯木树桩寻找花瓣状波状、褐色胶质的菌。"
+    }
+  },
+  "Phellinus hartigii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モミサルノコシカケ。タバコウロコタケ科のきのこ（多孔菌）で、生きたモミやツガなど針葉樹の幹に、半円形〜蹄形の大きな硬い傘を長年つける。傘は褐色〜黒褐色で表面はごつごつし、裏は褐色の管孔。多年生で、幹の心材を腐らせる（心腐れ）木材腐朽菌。",
+      "habitat_hint": "生きたモミ・ツガなど針葉樹の幹、切り株、倒木。",
+      "finding_tips": "一年中、モミやツガの幹で半円形〜蹄形の褐色で硬い大きなサルノコシカケを探します。"
+    },
+    "en": {
+      "summary": "Momi-sarunokoshikake (Phellinus hartigii). A polypore of the Hymenochaetaceae forming large, hard, semicircular to hoof-shaped brackets over many years on the trunks of living firs, hemlocks and other conifers; the cap is brown to blackish-brown and knobbly, with brown pores beneath. A perennial wood-decay fungus, it rots the heartwood.",
+      "habitat_hint": "Trunks of living firs and hemlocks, stumps, logs.",
+      "finding_tips": "Year-round on fir and hemlock trunks look for the large, hard, semicircular to hoof-shaped brown bracket."
+    },
+    "zh": {
+      "summary": "モミサルノコシカケ（Phellinus hartigii）。锈革孔菌科真菌（多孔菌），于活的冷杉、铁杉等针叶树干上多年形成半圆至马蹄形的大而硬子实体；盖褐至黑褐、表面粗糙，背面褐色菌管，多年生、致心材腐朽。",
+      "habitat_hint": "活的冷杉、铁杉等针叶树干、树桩、倒木。",
+      "finding_tips": "全年于冷杉铁杉干上寻找半圆至马蹄形、褐色而硬的大型层孔菌。"
+    }
+  },
+  "Philhelius sapporensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "キベリヒラタアブ。ハナアブ科（ヒラタアブの仲間）のアブで、平地〜山地の草地、林縁、庭、花の上に見られる。体は平たく、腹部に黒地と黄色い帯（縁が黄色い）模様がある。ハチに擬態するが刺さない。成虫は花に来て蜜や花粉を食べ、幼虫はアブラムシを食べる益虫。空中で静止（ホバリング）する。",
+      "habitat_hint": "平地〜山地の草地、林縁、庭、花壇、農地。",
+      "finding_tips": "春〜秋、花の上や空中で静止する、腹に黄色い帯のある平たいヒラタアブを探します。"
+    },
+    "en": {
+      "summary": "Kiberi-hirataabu (Philhelius sapporensis), a hoverfly. A hoverfly (Syrphidae) of lowland to montane grassland, edges, gardens and flowers; the flattened body has a black abdomen with yellow bands (yellow-edged). It mimics a wasp but does not sting; adults visit flowers for nectar and pollen while larvae eat aphids, making it beneficial. It hovers in the air.",
+      "habitat_hint": "Lowland to montane grassland, edges, gardens, flower beds, farmland.",
+      "finding_tips": "From spring to autumn on flowers and hovering in the air look for the flattened hoverfly with yellow-banded abdomen."
+    },
+    "zh": {
+      "summary": "キベリヒラタアブ（Philhelius sapporensis）。食蚜蝇科（扁蚜蝇类）的蝇，见于平地至山地草地、林缘、庭园及花上；体扁，腹部黑地具黄带（边缘黄），拟蜂而不蜇，成虫访花食蜜粉、幼虫食蚜为益虫，能空中悬停。",
+      "habitat_hint": "平地至山地草地、林缘、庭园、花坛、农田。",
+      "finding_tips": "春至秋于花上及空中悬停处寻找腹具黄带的扁食蚜蝇。"
+    }
+  },
+  "Philoctetes punctulatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cuckoo wasp",
+    "ja": {
+      "summary": "ホシツヤセイボウ。セイボウ科（青蜂）のハチで、平地〜山地の林縁、枯れ木、古い木材、崖の穴の周りに見られる。体は金属光沢の強い青緑色〜緑色で美しく、表面に細かな点刻（星状の凹み）がある。他のハナバチやカリバチの巣に卵を産みつける労働寄生（托卵）性。刺さない。",
+      "habitat_hint": "平地〜山地の林縁、枯れ木、古い木材、崖や壁の穴のある環境。",
+      "finding_tips": "初夏〜夏、枯れ木や壁の穴の周りで、金属光沢の青緑色で細かな点刻のある小さなハチを探します。"
+    },
+    "en": {
+      "summary": "Hoshi-tsuya-seibō (Philoctetes punctulatus), a cuckoo wasp. A wasp of the Chrysididae (ruby-tail wasps) found around forest edges, dead wood, old timber and cavities in cliffs from lowland to mountains; the body is a beautiful strongly metallic blue-green to green with fine punctures (star-like pits). It is a brood parasite laying eggs in the nests of other bees and wasps; it does not sting.",
+      "habitat_hint": "Lowland to montane forest edges, dead wood, old timber, cliff and wall cavities.",
+      "finding_tips": "From early summer to summer around dead wood and wall cavities look for the small metallic blue-green wasp with fine punctures."
+    },
+    "zh": {
+      "summary": "ホシツヤセイボウ（Philoctetes punctulatus）。青蜂科的蜂，见于平地至山地林缘、枯木、旧木材及崖壁孔洞周围；体强金属光泽、青绿至绿而美，表面具细刻点（星状凹），为寄生于他蜂巢的巢寄生（托卵）者，不蜇人。",
+      "habitat_hint": "平地至山地林缘、枯木、旧木材、崖壁孔洞环境。",
+      "finding_tips": "初夏至夏于枯木及墙孔周围寻找金属青绿、具细刻点的小蜂。"
+    }
+  },
+  "Phocoenoides dalli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dall's porpoise",
+    "aliases": {
+      "zh-Hans": "白腰鼠海豚"
+    },
+    "ja": {
+      "summary": "イシイルカ。ネズミイルカ科の小型のイルカ（歯クジラ）で、北日本の冷たい沖合の海に生息する。体はがっしりとして黒く、体側から腹にかけて大きな白い部分があるのが特徴。高速で泳ぎ、船首波に乗って現れ、水面を切って白いしぶき（雄鶏の尾のようなしぶき）を上げる。イカや魚を食べる。",
+      "habitat_hint": "北日本の冷たい沖合の海、大陸棚の縁、深い海域。",
+      "finding_tips": "北日本の沖合で、黒い体に大きな白い斑があり、高速で泳いで白いしぶきを上げる小型のイルカを探します。"
+    },
+    "en": {
+      "summary": "Ishi-iruka, Dall's porpoise (Phocoenoides dalli). A small toothed whale of the Phocoenidae living in cold offshore waters of northern Japan; the body is stocky and black with a large white patch on the flanks and belly. It swims fast, rides bow waves and throws up a distinctive 'rooster-tail' spray as it cuts the surface, feeding on squid and fish.",
+      "habitat_hint": "Cold offshore waters of northern Japan, shelf edge, deep water.",
+      "finding_tips": "Off northern Japan look for the small stocky black-and-white porpoise swimming fast and throwing up a rooster-tail spray."
+    },
+    "zh": {
+      "summary": "白腰鼠海豚（イシイルカ，Phocoenoides dalli）。鼠海豚科小型齿鲸，栖于北日本冷凉外海；体壮实而黑，体侧至腹具大片白斑，游速快、乘船首波出现，破水时溅起“公鸡尾”状白浪，食乌贼及鱼。",
+      "habitat_hint": "北日本冷凉外海、陆架边缘、深水海域。",
+      "finding_tips": "于北日本外海寻找黑白相间、游速快、溅起公鸡尾水花的小型海豚。"
+    }
+  },
+  "Pidonia aegrota": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flower longhorn",
+    "ja": {
+      "summary": "チャイロヒメハナカミキリ。カミキリムシ科ハナカミキリの仲間の小さな甲虫で、山地の林縁や花の上に見られる。体は茶色（ちゃいろ）で細長い。初夏〜夏、ノリウツギやセリ科などの花に集まって花粉や蜜を食べる。幼虫は枯れ木の材を食べる。",
+      "habitat_hint": "山地の林縁、花の上（ノリウツギ・セリ科など）、伐採地。",
+      "finding_tips": "初夏〜夏、山地の白い花の上で茶色の細長い小さなハナカミキリを探します。"
+    },
+    "en": {
+      "summary": "Chairo-hime-hanakamikiri (Pidonia aegrota), a flower longhorn. A small flower longhorn beetle (Cerambycidae, Lepturinae) found on montane woodland edges and flowers; the body is brown and elongate. In early summer to summer it gathers on flowers such as hydrangea and umbellifers to feed on pollen and nectar, while the larva bores in dead wood.",
+      "habitat_hint": "Montane woodland edges, on flowers (hydrangea, umbellifers), logging sites.",
+      "finding_tips": "From early summer to summer on montane white flowers look for the small brown elongate flower longhorn."
+    },
+    "zh": {
+      "summary": "チャイロヒメハナカミキリ（Pidonia aegrota）。天牛科花天牛类小型甲虫，见于山地林缘及花上；体褐色细长，初夏至夏聚于绣球、伞形科等花上取食花粉花蜜，幼虫蛀食枯木。",
+      "habitat_hint": "山地林缘、花上（绣球、伞形科等）、伐地。",
+      "finding_tips": "初夏至夏于山地白花上寻找褐色细长的小型花天牛。"
+    }
+  },
+  "Pilosella caespitosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Meadow hawkweed",
+    "ja": {
+      "summary": "キバナコウリンタンポポ。キク科ヤナギタンポポ属（ピロセラ属）の多年草で、ヨーロッパ原産の帰化植物。高原や道ばた、牧草地、荒れ地、芝地に生える。全体に毛が多く、走出枝（ランナー）で広がる。初夏〜夏、黄色いタンポポに似た小さな頭花を茎の先に数個かためてつける。",
+      "habitat_hint": "高原、道ばた、牧草地、荒れ地、芝地、造成地。",
+      "finding_tips": "6〜8月、高原や道ばたで毛の多い葉と、黄色いタンポポ状の頭花を数個かためてつける草を探します。"
+    },
+    "en": {
+      "summary": "Kibana-kōrin-tanpopo, the meadow hawkweed (Pilosella caespitosa). A perennial of the daisy family native to Europe, naturalized on highlands, roadsides, pastures, waste ground and lawns; the whole plant is hairy and spreads by runners. In early summer to summer it bears small yellow dandelion-like heads clustered a few together at the stem tip.",
+      "habitat_hint": "Highlands, roadsides, pastures, waste ground, lawns, developed sites.",
+      "finding_tips": "From June to August on highlands and roadsides look for the hairy plant with clustered small yellow dandelion-like heads."
+    },
+    "zh": {
+      "summary": "キバナコウリンタンポポ（Pilosella caespitosa）。菊科山柳菊属（绒毛属）多年生草本，原产欧洲，归化于高原、路旁、牧草地、荒地及草坪；全株多毛、以匍匐枝蔓延，初夏至夏于茎顶簇生数枚黄色似蒲公英的小头状花。",
+      "habitat_hint": "高原、路旁、牧草地、荒地、草坪、造地。",
+      "finding_tips": "6 至 8 月于高原路旁寻找多毛叶及簇生数枚黄色蒲公英状头状花的草。"
+    }
+  },
+  "Plagiothecium euryphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオサナダゴケモドキ。サナダゴケ科の蘚類で、湿った林床の土や腐木、樹の根元、岩に緑〜黄緑色の扁平なマット状に生える。茎と葉が平らに並び、光沢のあるやわらかい葉をつける。低地〜山地の湿った林で普通に見られる。",
+      "habitat_hint": "湿った林床の土、腐木、樹の根元、岩、渓流沿いの日陰。",
+      "finding_tips": "一年中、湿った林床や腐木で光沢のある緑〜黄緑色の扁平なマット状の蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Ō-sanada-goke-modoki (Plagiothecium euryphyllum), a moss. A moss of the Plagiotheciaceae growing as flattened green to yellow-green mats on damp forest-floor soil, rotten wood, tree bases and rock; the stems and leaves lie flat, with glossy soft leaves. Common in damp lowland to montane woods.",
+      "habitat_hint": "Damp forest-floor soil, rotten wood, tree bases, rock, shaded streamsides.",
+      "finding_tips": "Year-round on damp forest floor and rotten wood use a lens to find the flattened glossy green to yellow-green moss mats."
+    },
+    "zh": {
+      "summary": "软叶棉藓（オオサナダゴケモドキ，Plagiothecium euryphyllum）。棉藓科藓类，于湿润林床土、腐木、树基及岩石成绿至黄绿扁平垫状；茎叶平列、叶柔软有光泽，常见于湿润低地至山地林。",
+      "habitat_hint": "湿润林床土、腐木、树基、岩石、溪流沿岸荫处。",
+      "finding_tips": "全年于湿润林床及腐木用放大镜寻找有光泽、绿至黄绿的扁平藓垫。"
+    }
+  },
+  "Planiliza affinis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eastern keelback mullet",
+    "ja": {
+      "summary": "セスジボラ。ボラ科の魚で、内湾や河口、汽水域にすむ。ボラに似るが、背中に稜（せすじ＝隆起した線）があるのが特徴。群れで泳ぎ、泥底の有機物や付着藻類を食べる。稚魚〜若魚は河口や汽水の浅い場所でよく見られる。",
+      "habitat_hint": "内湾、河口、汽水域、砂泥底の浅い海。",
+      "finding_tips": "一年中、河口や汽水域の浅場で背中に稜のあるボラ類を探します。"
+    },
+    "en": {
+      "summary": "Sesuji-bora (Planiliza affinis), a mullet. A mullet of the Mugilidae living in bays, estuaries and brackish water; it resembles the striped mullet but has a keel (ridge) along the back. It swims in schools, feeding on organic matter and attached algae on muddy bottoms; young fish are common in shallow estuarine water.",
+      "habitat_hint": "Bays, estuaries, brackish water, shallow sandy-mud bottoms.",
+      "finding_tips": "Year-round in shallow estuaries and brackish water look for the schooling mullet with a keel along its back."
+    },
+    "zh": {
+      "summary": "セスジボラ（Planiliza affinis）。鲻科鱼类，栖于内湾、河口及半咸水；似鲻但背部具棱（脊），成群游动，取食泥底有机质及附着藻类，幼鱼常见于河口浅水。",
+      "habitat_hint": "内湾、河口、半咸水、砂泥底浅海。",
+      "finding_tips": "全年于河口及半咸水浅处寻找背部具棱的鲻类。"
+    }
+  },
+  "Platanthera tipuloides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバノキソチドリ。ラン科ツレサギソウ属の多年草で、山地〜亜高山の湿った草地や湿原、林縁、やや湿った斜面に生える。細長い葉をつけ、夏、細い花茎に黄緑色の小さな花を穂状に多数咲かせる。花の後ろに細い距（きょ）が突き出る。地味だがランらしい花をもつ。",
+      "habitat_hint": "山地〜亜高山の湿った草地、湿原、林縁、やや湿った斜面。",
+      "finding_tips": "7〜8月、山地の湿った草地で細長い葉と、黄緑色の距のある小さな花を穂状につけるランを探します。"
+    },
+    "en": {
+      "summary": "Hosoba-no-kisochidori (Platanthera tipuloides), a bog orchid. A perennial orchid growing in damp montane to subalpine grassland, bogs, edges and dampish slopes; it has narrow leaves and, in summer, a spike of many small yellow-green flowers with a slender backward-pointing spur. Plain but distinctly orchid-like.",
+      "habitat_hint": "Montane to subalpine damp grassland, bogs, edges, dampish slopes.",
+      "finding_tips": "In July–August in damp montane grassland look for the narrow-leaved orchid with spikes of small yellow-green spurred flowers."
+    },
+    "zh": {
+      "summary": "ホソバノキソチドリ（Platanthera tipuloides）。兰科舌唇兰属多年生草本，生于山地至亚高山湿润草地、沼泽、林缘及略湿坡地；叶狭长，夏于细葶穗状多生黄绿色小花、后具细距，朴素而具兰花特征。",
+      "habitat_hint": "山地至亚高山湿润草地、沼泽、林缘、略湿坡地。",
+      "finding_tips": "7 至 8 月于山地湿润草地寻找狭长叶及黄绿色具距小花穗状的兰。"
+    }
+  },
+  "Platanus hispanica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モミジバスズカケノキ（プラタナス）。スズカケノキ科スズカケノキ属の落葉高木で、スズカケノキとアメリカスズカケノキの雑種とされる。街路樹や公園樹として世界中に広く植えられる。手のひら状に大きく切れ込む葉をつけ、樹皮が斑にはがれてまだら模様になる。球形の集合果を枝から下げる。",
+      "habitat_hint": "街路、公園、広場（植栽）。",
+      "finding_tips": "一年中、街路や公園で手のひら状の大きな葉と、斑にはがれるまだらの樹皮、球形の実を下げる高木を探します。"
+    },
+    "en": {
+      "summary": "Momijiba-suzukake-no-ki, the London plane (Platanus hispanica). A deciduous tree of the plane family, regarded as a hybrid of the oriental and American planes, planted worldwide as a street and park tree; it has large palmately lobed leaves and bark that flakes off in patches to give a mottled trunk, hanging spherical fruit-balls from the branches.",
+      "habitat_hint": "Streets, parks, plazas (planted).",
+      "finding_tips": "Year-round on streets and in parks look for the tree with large palmate leaves, mottled flaking bark and hanging spherical fruit-balls."
+    },
+    "zh": {
+      "summary": "二球悬铃木（モミジバスズカケノキ，Platanus hispanica）。悬铃木科悬铃木属落叶乔木，为三球与一球悬铃木的杂交种，世界广植为行道及公园树；叶掌状大裂，树皮片状剥落成斑驳，枝上垂球形聚合果。",
+      "habitat_hint": "行道、公园、广场（栽培）。",
+      "finding_tips": "全年于行道及公园寻找掌状大叶、树皮斑驳剥落、垂球形果的乔木。"
+    }
+  },
+  "Platynus protensus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "コヒラタゴミムシ。オサムシ科（ゴミムシの仲間）の甲虫で、平地〜山地の林床や林縁、水辺、落ち葉や石の下に見られる。体は平たく細長く、黒〜黒褐色で光沢がある。地表を素早く歩き、小さな虫を捕らえる肉食性。夜行性。",
+      "habitat_hint": "平地〜山地の林床、林縁、水辺、落ち葉や石の下。",
+      "finding_tips": "春〜秋、林床や水辺で石や落ち葉をめくり、平たく細長い黒いゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Ko-hirata-gomimushi (Platynus protensus), a ground beetle. A ground beetle of lowland to montane forest floor, edges, waterside and under litter and stones; the flattened, elongate body is black to blackish-brown and glossy. Nocturnal, it runs over the ground preying on small insects.",
+      "habitat_hint": "Lowland to montane forest floor, edges, waterside, under litter and stones.",
+      "finding_tips": "From spring to autumn on forest floor and waterside turn litter and stones to find the flat, elongate glossy black ground beetle."
+    },
+    "zh": {
+      "summary": "コヒラタゴミムシ（Platynus protensus）。步甲科甲虫，见于平地至山地林床、林缘、水边及落叶石下；体扁而细长、黑至黑褐、有光泽，夜行，于地表疾走捕食小虫。",
+      "habitat_hint": "平地至山地林床、林缘、水边、落叶石下。",
+      "finding_tips": "春至秋于林床及水边翻石与落叶寻找扁长黑亮的步甲。"
+    }
+  },
+  "Plesiops coeruleolineatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crimsontip longfin",
+    "ja": {
+      "summary": "タナバタウオ。タナバタウオ科の小さな魚で、暖かい海のサンゴ礁や岩礁の岩の割れ目、穴、洞窟状のすき間にすむ。体は暗褐色〜黒っぽく、体側やひれに青白い線や点が散らばるのが特徴。夜行性で、昼は物陰にひそむ。名は七夕（たなばた）の星空を思わせる模様に由来する。",
+      "habitat_hint": "暖かい海のサンゴ礁、岩礁の岩の割れ目、穴、洞窟状のすき間。",
+      "finding_tips": "サンゴ礁や岩礁の割れ目や穴の奥で、暗色の体に青白い線や点の散らばる小さな魚を探します。夜行性。"
+    },
+    "en": {
+      "summary": "Tanabata-uo (Plesiops coeruleolineatus), a longfin. A small fish of the Plesiopidae living in crevices, holes and cave-like gaps of coral and rocky reefs in warm seas; the body is dark brown to blackish with bluish-white lines and spots scattered on the flanks and fins. Nocturnal, it hides in cover by day; the name evokes the starry sky of the Tanabata festival.",
+      "habitat_hint": "Warm-sea coral and rocky reefs, crevices, holes, cave-like gaps.",
+      "finding_tips": "In reef crevices and holes look for the small dark fish scattered with bluish-white lines and spots; it is nocturnal.",
+      "note": ""
+    },
+    "zh": {
+      "summary": "タナバタウオ（Plesiops coeruleolineatus）。七夕鱼科小型鱼，栖于暖海珊瑚礁及岩礁的岩缝、孔洞及穴状缝隙；体暗褐至黑，体侧及鳍散布蓝白线纹与斑点，夜行、昼伏隐蔽处，名取似七夕星空的斑纹。",
+      "habitat_hint": "暖海珊瑚礁及岩礁岩缝、孔洞、穴状缝隙。",
+      "finding_tips": "于礁石缝隙孔洞深处寻找暗色体、散布蓝白线斑的小鱼，夜行。"
+    }
+  },
+  "Poa alta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオイチゴツナギ。イネ科イチゴツナギ属（イチゴツナギの仲間）の多年草で、山地の林縁や草地、やや湿った斜面、道ばたに生える。青緑色の細い茎葉をもち、夏、細い枝を広げた円錐状の花序に小穂をつける。イチゴツナギの仲間で、全体に青みをおびる。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、道ばた。",
+      "finding_tips": "夏、山地の林縁や草地で青緑色の細い茎葉と、細い枝を広げた円錐状の花序をもつイネ科を探します。"
+    },
+    "en": {
+      "summary": "Aoi-chigotsunagi (Poa alta), a bluegrass. A perennial meadow-grass of montane woodland edges, grassland, dampish slopes and roadsides; it has blue-green slender stems and leaves and, in summer, bears spikelets in a panicle of spreading fine branches. A bluegrass with an overall bluish cast.",
+      "habitat_hint": "Montane woodland edges, grassland, dampish slopes, roadsides.",
+      "finding_tips": "In summer on montane edges and grassland look for the blue-green slender grass with a panicle of spreading fine branches."
+    },
+    "zh": {
+      "summary": "アオイチゴツナギ（Poa alta）。禾本科早熟禾属多年生草本，生于山地林缘、草地、略湿坡地及路旁；茎叶青绿纤细，夏于展开细枝的圆锥花序上生小穗，全株带青色。",
+      "habitat_hint": "山地林缘、草地、略湿坡地、路旁。",
+      "finding_tips": "夏于山地林缘草地寻找青绿纤细茎叶、圆锥花序细枝展开的禾草。"
+    }
+  },
+  "Poa humilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミスジナガハグサ。イネ科イチゴツナギ属の多年草で、ヨーロッパ原産の帰化植物。道ばたや芝地、草地、河原、造成地に生える。ナガハグサ（ケンタッキーブルーグラス）に近い仲間で、地下茎で広がり、夏、細い枝を広げた円錐状の花序に小穂をつける。芝生や牧草にも利用される。",
+      "habitat_hint": "道ばた、芝地、草地、河原、造成地、牧草地。",
+      "finding_tips": "初夏〜夏、道ばたや芝地で地下茎で広がり、細い枝を広げた円錐状の花序をもつイネ科を探します。"
+    },
+    "en": {
+      "summary": "Misuji-nagahagusa, the spreading meadow-grass (Poa humilis). A perennial grass native to Europe, naturalized on roadsides, lawns, grassland, riverbanks and developed sites; a relative of Kentucky bluegrass, it spreads by rhizomes and in summer bears spikelets in a panicle of spreading fine branches. It is used in turf and pasture.",
+      "habitat_hint": "Roadsides, lawns, grassland, riverbanks, developed sites, pastures.",
+      "finding_tips": "From early summer to summer on roadsides and lawns look for the rhizomatous grass with a panicle of spreading fine branches."
+    },
+    "zh": {
+      "summary": "ミスジナガハグサ（Poa humilis）。禾本科早熟禾属多年生草本，原产欧洲，归化于路旁、草坪、草地、河滩及造地；近草地早熟禾（肯塔基蓝草），以地下茎蔓延，夏于展开细枝圆锥花序上生小穗，供草坪及牧草。",
+      "habitat_hint": "路旁、草坪、草地、河滩、造地、牧草地。",
+      "finding_tips": "初夏至夏于路旁草坪寻找地下茎蔓延、圆锥花序细枝展开的禾草。"
+    }
+  },
+  "Porella japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマトクラマゴケモドキ。クラマゴケモドキ科の茎葉のある苔類で、湿った樹幹や岩、林床にマット状に生える。緑〜黄緑色で、規則的に並ぶ小さな葉をもつ。日本各地の湿度の高い樹林や渓流沿いに普通に見られる。樹皮や岩に着生する。",
+      "habitat_hint": "湿った樹幹、岩、林床、渓流沿いの日陰。",
+      "finding_tips": "一年中、湿った樹幹や岩で緑〜黄緑の細かな茎葉が規則的に並ぶ苔類のマットをルーペで探します。"
+    },
+    "en": {
+      "summary": "Yamato-kuramagoke-modoki (Porella japonica), a leafy liverwort. A leafy liverwort of the Porellaceae forming mats on damp tree trunks, rock and forest floor; it is green to yellow-green with small, regularly arranged leaves. It is common in humid woodland and along streams throughout Japan, growing on bark and rock.",
+      "habitat_hint": "Damp tree trunks, rock, forest floor, shaded streamsides.",
+      "finding_tips": "Year-round on damp trunks and rock use a lens to find the mats of green to yellow-green leafy liverwort with regularly arranged small leaves."
+    },
+    "zh": {
+      "summary": "ヤマトクラマゴケモドキ（Porella japonica）。光萼苔科茎叶体苔类，于湿润树干、岩石及林床成垫状；体绿至黄绿，小叶规则排列，广见于日本各地湿润林地及溪流沿岸，附生树皮及岩石。",
+      "habitat_hint": "湿润树干、岩石、林床、溪流沿岸荫处。",
+      "finding_tips": "全年用放大镜于湿润树干及岩石寻找绿至黄绿、小叶规则排列的茎叶体苔。"
+    }
+  },
+  "Portieria hornemannii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソバナミノハナ。紅藻類の海藻で、暖かい海の潮下帯〜浅い海の岩やサンゴ礁に生える。体は平たく細く枝分かれし、暗紅色〜赤紫色をおびる。独特のにおい（ハロゲン化合物）をもつことで知られる。暖地の磯やサンゴ礁で見られる。",
+      "habitat_hint": "暖かい海の潮下帯〜浅い海の岩、サンゴ礁、潮だまり。",
+      "finding_tips": "干潮時、暖地の磯やサンゴ礁で平たく細く枝分かれした暗紅色の海藻を探します。独特のにおいがあります。"
+    },
+    "en": {
+      "summary": "Hosobana-mino-hana (Portieria hornemannii), a red alga. A red alga growing on rock and coral reefs from the subtidal into shallow water in warm seas; the body is flattened and finely branched, dark-red to red-purple. It is known for a distinctive smell (halogenated compounds), and is seen on warm-region rocky shores and coral reefs.",
+      "habitat_hint": "Warm-sea subtidal to shallow-water rock, coral reefs, tide pools.",
+      "finding_tips": "At low tide on warm-region rocky shores and reefs look for the flattened, finely branched dark-red alga; it has a distinctive smell."
+    },
+    "zh": {
+      "summary": "浪花藻（ホソバナミノハナ，Portieria hornemannii）。红藻门海藻，生于暖海潮下带至浅海岩石及珊瑚礁；体扁而细分枝，暗红至红紫，以具特殊气味（卤化物）著称，见于暖地岩礁及珊瑚礁。",
+      "habitat_hint": "暖海潮下带至浅海岩石、珊瑚礁、潮池。",
+      "finding_tips": "退潮时于暖地岩礁及珊瑚礁寻找扁而细分枝的暗红藻，具特殊气味。"
+    }
+  },
+  "Potentilla discolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cinquefoil",
+    "aliases": {
+      "zh-Hans": "翻白草"
+    },
+    "ja": {
+      "summary": "ツチグリ。バラ科キジムシロ属の多年草で、日当たりのよい草地や土手、道ばた、やせ地に生える。羽状の葉の裏に白い綿毛が密生し、白っぽく見える。春〜初夏、黄色い5弁の花を咲かせる。太い根茎をもつ。（きのこの「ツチグリ」とは同名異物。）",
+      "habitat_hint": "日当たりのよい草地、土手、道ばた、やせ地、河原。",
+      "finding_tips": "4〜6月、草地や土手で裏が白い羽状の葉と、黄色い5弁の花をもつ草を探します。"
+    },
+    "en": {
+      "summary": "Tsuchiguri (Potentilla discolor), a cinquefoil. A perennial of the rose family growing on sunny grassland, banks, roadsides and poor ground; the pinnate leaves are densely white-woolly beneath and look whitish. In spring to early summer it bears yellow five-petalled flowers and has a stout rootstock. (A plant, not to be confused with the earthstar fungus of the same Japanese name.)",
+      "habitat_hint": "Sunny grassland, banks, roadsides, poor ground, riverbanks.",
+      "finding_tips": "From April to June on grassland and banks look for the plant with white-backed pinnate leaves and yellow five-petalled flowers."
+    },
+    "zh": {
+      "summary": "翻白草（ツチグリ，Potentilla discolor）。蔷薇科委陵菜属多年生草本，生于向阳草地、土坡、路旁及瘠地；羽状叶背密被白色绵毛、显白，春至初夏开黄色五瓣花，具粗根茎（与同和名的地星菌为异物同名）。",
+      "habitat_hint": "向阳草地、土坡、路旁、瘠地、河滩。",
+      "finding_tips": "4 至 6 月于草地土坡寻找叶背白、黄色五瓣花的草。"
+    }
+  },
+  "Potentilla fragarioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Barren strawberry",
+    "aliases": {
+      "zh-Hans": "莓叶委陵菜"
+    },
+    "ja": {
+      "summary": "キジムシロ。バラ科キジムシロ属の多年草で、日当たりのよい草地や土手、道ばた、林縁に生える。羽状の葉を根ぎわからロゼット状に広げ、株が地面に広がる様子を雉（きじ）の座る「むしろ」に見立てたのが名の由来。春、黄色い5弁の花を咲かせる。イチゴに似るが果実は赤くならない。",
+      "habitat_hint": "日当たりのよい草地、土手、道ばた、林縁、河原。",
+      "finding_tips": "3〜5月、草地や土手で羽状の葉をロゼット状に広げ、黄色い5弁の花をつける草を探します。"
+    },
+    "en": {
+      "summary": "Kijimushiro (Potentilla fragarioides), a barren strawberry. A perennial of the rose family growing on sunny grassland, banks, roadsides and woodland edges; the pinnate leaves spread in a basal rosette over the ground, likened to a mat (the name means 'pheasant's mat'). In spring it bears yellow five-petalled flowers; it resembles a strawberry but the fruit does not redden.",
+      "habitat_hint": "Sunny grassland, banks, roadsides, woodland edges, riverbanks.",
+      "finding_tips": "From March to May on grassland and banks look for the pinnate leaves in a basal rosette with yellow five-petalled flowers."
+    },
+    "zh": {
+      "summary": "莓叶委陵菜（キジムシロ，Potentilla fragarioides）。蔷薇科委陵菜属多年生草本，生于向阳草地、土坡、路旁及林缘；羽状叶基部莲座状铺展地面（和名意为“雉之席”），春开黄色五瓣花，似草莓但果不变红。",
+      "habitat_hint": "向阳草地、土坡、路旁、林缘、河滩。",
+      "finding_tips": "3 至 5 月于草地土坡寻找羽状叶莲座状铺展、黄色五瓣花的草。"
+    }
+  },
+  "Primula japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese primrose",
+    "aliases": {
+      "zh-Hans": "日本报春"
+    },
+    "ja": {
+      "summary": "クリンソウ。サクラソウ科サクラソウ属の多年草で、山地の谷沿いや沢沿い、湿った林床、水辺に生える。日本のサクラソウ属では最も大型。初夏、太い花茎に紅紫色〜白の花を数段に分けて輪生状に咲かせ、その姿を寺院の屋根の「九輪（くりん）」に見立てたのが名の由来。しばしば群生する。",
+      "habitat_hint": "山地の谷沿い、沢沿い、湿った林床、水辺。",
+      "finding_tips": "5〜6月、山地の沢沿いで太い花茎に数段の輪をつくって咲く紅紫色の花を探します。しばしば群生。"
+    },
+    "en": {
+      "summary": "Kurin-sō, the Japanese primrose (Primula japonica). A perennial of the primrose family growing along montane valleys and streams, damp forest floor and waterside; it is the largest Japanese primrose. In early summer a stout stalk bears whorls of red-purple to white flowers in several tiers, likened to the nine-ringed finial (kurin) of a temple roof. It often grows in colonies.",
+      "habitat_hint": "Montane valleys, streamsides, damp forest floor, waterside.",
+      "finding_tips": "In May–June along montane streams look for the stout stalks with several tiered whorls of red-purple flowers, often in colonies."
+    },
+    "zh": {
+      "summary": "日本报春（クリンソウ，Primula japonica）。报春花科报春花属多年生草本，生于山地谷地、沟谷、湿润林床及水边，为日本报春属中最大者；初夏粗花葶分数层轮生红紫至白色花，形似寺庙屋顶的九轮（故名），常成片。",
+      "habitat_hint": "山地谷地、沟谷、湿润林床、水边。",
+      "finding_tips": "5 至 6 月于山地沟谷寻找粗葶分数层轮生的红紫色花，常成片。"
+    }
+  },
+  "Prunus tschonoskii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニッコウザクラ（チョウジザクラの仲間）。バラ科サクラ属の落葉小高木〜低木で、山地の林縁や谷沿い、明るい斜面に生える。春、葉の展開と同時に、細い柄の先に淡紅色〜白の小さな花を咲かせる。花は小型で、がく筒が細長い。日光（にっこう）などの山地に分布するサクラ。",
+      "habitat_hint": "山地の林縁、谷沿い、明るい斜面、二次林。",
+      "finding_tips": "4〜5月、山地の林縁で葉と同時に咲く、がく筒の細長い淡紅色〜白の小さなサクラの花を探します。"
+    },
+    "en": {
+      "summary": "Nikkō-zakura (Prunus tschonoskii). A deciduous small tree to shrub cherry of the rose family growing on montane woodland edges, valleys and open slopes; in spring, as the leaves open, it bears small pale-pink to white flowers on slender stalks. The flowers are small with an elongate calyx tube, and it is distributed in mountains such as Nikkō.",
+      "habitat_hint": "Montane woodland edges, valleys, open slopes, secondary woods.",
+      "finding_tips": "In April–May on montane edges look for the small pale-pink to white cherry flowers with an elongate calyx tube, opening with the leaves."
+    },
+    "zh": {
+      "summary": "ニッコウザクラ（Prunus tschonoskii）。蔷薇科李属落叶小乔木至灌木樱，生于山地林缘、谷地及明亮坡地；春季叶展同时于细梗顶端开淡红至白色小花，花小、萼筒细长，分布于日光等山地。",
+      "habitat_hint": "山地林缘、谷地、明亮坡地、次生林。",
+      "finding_tips": "4 至 5 月于山地林缘寻找叶展同时开放、萼筒细长的淡红至白色小樱花。"
+    }
+  },
+  "Psammophiliella muralis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cushion baby's-breath",
+    "ja": {
+      "summary": "ヌカイトナデシコ。ナデシコ科の小さな一年草で、ヨーロッパ原産の帰化植物。道ばたや芝地、荒れ地、砂地、線路ぎわに生える。細く枝分かれした茎の先に、淡紅色〜白の小さな5弁の花を多数咲かせる。カスミソウ（かすみ草）を小さくしたような姿。夏に開花する。",
+      "habitat_hint": "道ばた、芝地、荒れ地、砂地、線路ぎわ、造成地。",
+      "finding_tips": "6〜8月、道ばたや芝地で細く枝分かれした茎に淡紅色〜白の小さな5弁花を多数つける草を探します。"
+    },
+    "en": {
+      "summary": "Nuka-ito-nadeshiko, the cushion baby's-breath (Psammophiliella muralis). A small annual of the pink family native to Europe, naturalized on roadsides, lawns, waste ground, sand and railway sides; the finely branched stems bear many small pale-pink to white five-petalled flowers, like a small baby's-breath. It flowers in summer.",
+      "habitat_hint": "Roadsides, lawns, waste ground, sand, railway sides, developed sites.",
+      "finding_tips": "From June to August on roadsides and lawns look for the finely branched plant with many small pale-pink to white five-petalled flowers."
+    },
+    "zh": {
+      "summary": "ヌカイトナデシコ（Psammophiliella muralis）。石竹科小型一年生草本，原产欧洲，归化于路旁、草坪、荒地、沙地及铁道旁；茎细而多分枝，顶端多生淡红至白色五瓣小花，似小型满天星，夏季开花。",
+      "habitat_hint": "路旁、草坪、荒地、沙地、铁道旁、造地。",
+      "finding_tips": "6 至 8 月于路旁草坪寻找细分枝、多生淡红至白色五瓣小花的草。"
+    }
   }
 }
