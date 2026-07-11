@@ -231112,5 +231112,436 @@
       "habitat_hint": "林床落叶及朽木下、湿润林、庭园石下。",
       "finding_tips": "全年翻开林床落叶及朽木寻找低平、玳瑁色、有光泽的小螺。"
     }
+  },
+  "Acalolepta fraudatrix": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ビロウドカミキリ。カミキリムシ科の甲虫で、平地〜山地の雑木林や林縁に見られる。体は灰褐色で、短い毛におおわれてビロード（天鵞絨）のような質感がある。夜行性で灯火に集まり、幼虫は各種の広葉樹の材を食べる。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、伐採木や枯れ木のある環境。",
+      "finding_tips": "初夏〜夏の夜、灯火や枯れ木で灰褐色のビロード状の毛におおわれたカミキリを探します。"
+    },
+    "en": {
+      "summary": "Bīrōdo-kamikiri (Acalolepta fraudatrix), a velvet longhorn beetle. A longhorn beetle of lowland to montane secondary woodland and edges; the greyish-brown body is clothed in short hairs giving a velvety texture. Nocturnal, it comes to lights, and the larvae bore in the wood of various broadleaf trees.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, felled or dead wood.",
+      "finding_tips": "On early-summer to summer nights look at lights and dead wood for the greyish-brown, velvety-haired longhorn."
+    },
+    "zh": {
+      "summary": "ビロウドカミキリ（Acalolepta fraudatrix）。天牛科甲虫，见于平地至山地杂木林及林缘；体灰褐，被短毛似天鹅绒质感，夜行趋光，幼虫蛀食多种阔叶树材。",
+      "habitat_hint": "平地至山地杂木林、林缘、有伐木枯木的环境。",
+      "finding_tips": "初夏至夏夜于灯下及枯木寻找灰褐、被绒毛的天牛。"
+    }
+  },
+  "Aclees hirayamai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒラヤマメナガゾウムシ。ゾウムシの仲間の甲虫で、暖地の樹林や林縁に見られ、イチジク類を寄主とすることが知られる。体は黒っぽく、口吻が長い。幼虫が幹の内部を食べるため、イチジク栽培では害虫として問題になることがある。",
+      "habitat_hint": "暖地の樹林、林縁、イチジクなどのある環境。",
+      "finding_tips": "初夏〜夏、イチジク類の幹や枝で黒っぽく口吻の長いゾウムシを探します。"
+    },
+    "en": {
+      "summary": "Hirayama-menaga-zōmushi (Aclees hirayamai), a weevil. A weevil of warm-region woodland and edges, known to use figs as a host; the body is blackish with a long snout. Its larvae bore inside trunks, so it can be a pest in fig cultivation.",
+      "habitat_hint": "Warm-region woodland, edges, settings with fig trees.",
+      "finding_tips": "From early summer to summer look on fig trunks and branches for the blackish, long-snouted weevil."
+    },
+    "zh": {
+      "summary": "ヒラヤマメナガゾウムシ（Aclees hirayamai）。象甲类甲虫，见于暖地林地及林缘，已知以无花果为寄主；体黑，喙长，幼虫蛀食树干内部，为无花果栽培害虫。",
+      "habitat_hint": "暖地林地、林缘、有无花果的环境。",
+      "finding_tips": "初夏至夏于无花果树干枝条寻找体黑、喙长的象甲。"
+    }
+  },
+  "Aegopodium alpestre": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾボウフウ。セリ科エゾボウフウ属の多年草で、山地〜亜高山の林縁や草地、林床に生える。葉は複数の小葉に分かれ、夏、白い小花を多数、複散形花序（傘を重ねた形）につける。北日本や山地に多い。",
+      "habitat_hint": "山地〜亜高山の林縁、草地、明るい林床。",
+      "finding_tips": "7〜8月、山地の林縁で白い小花の傘状の花序と、切れ込んだ葉を探します。"
+    },
+    "en": {
+      "summary": "Ezo-bōfū (Aegopodium alpestre). A perennial of the carrot family growing on montane to subalpine woodland edges, grassland and forest floor; the leaves are divided into several leaflets, and in summer it bears many small white flowers in compound umbels. It is common in northern Japan and the mountains.",
+      "habitat_hint": "Montane to subalpine woodland edges, grassland, open forest floor.",
+      "finding_tips": "In July–August look on montane edges for the umbels of small white flowers and the divided leaves."
+    },
+    "zh": {
+      "summary": "エゾボウフウ（Aegopodium alpestre）。伞形科羊角芹属多年生草本，生于山地至亚高山林缘、草地及林床；叶羽状分裂，夏季复伞形花序密生白色小花，多见于北日本及山地。",
+      "habitat_hint": "山地至亚高山林缘、草地、明亮林床。",
+      "finding_tips": "7 至 8 月于山地林缘寻找伞状白色小花序及分裂叶。"
+    }
+  },
+  "Agonum chalcomum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "アオグロヒラタゴミムシ。オサムシ科（ゴミムシの仲間）の甲虫で、水辺や湿った草地、田のあぜ、河原に見られる。体は平たく、上翅が青緑〜黒っぽい金属光沢をおびる。地表を素早く歩き、小さな虫を捕らえる肉食性。",
+      "habitat_hint": "水辺、湿った草地、田のあぜ、河原、湿地。",
+      "finding_tips": "春〜秋、水辺や田のあぜで石や落ち葉をめくり、青緑の金属光沢のある平たいゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Aoguro-hirata-gomimushi (Agonum chalcomum), a ground beetle. A ground beetle of waterside, damp grassland, paddy banks and riverbanks; the flattened body has blue-green to blackish metallic elytra. It runs over the ground and preys on small insects.",
+      "habitat_hint": "Waterside, damp grassland, paddy banks, riverbanks, wetlands.",
+      "finding_tips": "From spring to autumn turn stones and litter at waterside and paddy banks to find the flat ground beetle with blue-green metallic elytra."
+    },
+    "zh": {
+      "summary": "アオグロヒラタゴミムシ（Agonum chalcomum）。步甲科甲虫，见于水边、湿润草地、田埂及河滩；体扁平，鞘翅蓝绿至黑具金属光泽，于地表疾走，捕食小虫。",
+      "habitat_hint": "水边、湿润草地、田埂、河滩、湿地。",
+      "finding_tips": "春至秋于水边田埂翻石与落叶寻找蓝绿金属光泽的扁平步甲。"
+    }
+  },
+  "Agonum daimio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "セスジヒラタゴミムシ。オサムシ科（ゴミムシの仲間）の甲虫で、水辺や湿った草地、田のあぜ、河原に見られる。体は平たく細長く、上翅にすじ（条溝）が明瞭にある。地表を歩き回り、小さな虫を捕らえる肉食性。",
+      "habitat_hint": "水辺、湿った草地、田のあぜ、河原、湿地。",
+      "finding_tips": "春〜秋、水辺で石や落ち葉をめくり、上翅にすじのある平たく細長いゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Sesuji-hirata-gomimushi (Agonum daimio), a ground beetle. A ground beetle of waterside, damp grassland, paddy banks and riverbanks; the flattened, elongate body has clear striae (grooves) on the elytra. It roams the ground preying on small insects.",
+      "habitat_hint": "Waterside, damp grassland, paddy banks, riverbanks, wetlands.",
+      "finding_tips": "From spring to autumn turn stones and litter at waterside to find the flat, elongate ground beetle with grooved elytra."
+    },
+    "zh": {
+      "summary": "セスジヒラタゴミムシ（Agonum daimio）。步甲科甲虫，见于水边、湿润草地、田埂及河滩；体扁而细长，鞘翅具明显纵沟，于地表游走，捕食小虫。",
+      "habitat_hint": "水边、湿润草地、田埂、河滩、湿地。",
+      "finding_tips": "春至秋于水边翻石与落叶寻找鞘翅具纵沟的扁长步甲。"
+    }
+  },
+  "Agrostis dimorpholemma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "バケヌカボ。イネ科ヌカボ属（コヌカグサの仲間）の多年草で、山地の湿った草地や湿原、林縁に生える。細い茎の先に、糠（ぬか）のように細かい小穂を円錐状にまばらに広げる。日本固有で分布が限られる。",
+      "habitat_hint": "山地の湿った草地、湿原、林縁、水辺。",
+      "finding_tips": "夏、山地の湿地で細い茎の先にまばらに広がる、糠のような細かい小穂の穂を探します。"
+    },
+    "en": {
+      "summary": "Bake-nukabo (Agrostis dimorpholemma), a bentgrass. A perennial bentgrass of damp montane grassland, bogs and woodland edges; slender stems bear a loose panicle of tiny bran-like spikelets. It is endemic to Japan with a restricted range.",
+      "habitat_hint": "Damp montane grassland, bogs, woodland edges, waterside.",
+      "finding_tips": "In summer look in montane wetlands for the slender stems with loose panicles of tiny bran-like spikelets."
+    },
+    "zh": {
+      "summary": "多形翦股颖（バケヌカボ，Agrostis dimorpholemma）。禾本科翦股颖属多年生草本，生于山地湿润草地、沼泽及林缘；细茎顶生疏散圆锥花序，小穗细如糠，为日本特有、分布局限。",
+      "habitat_hint": "山地湿润草地、沼泽、林缘、水边。",
+      "finding_tips": "夏于山地湿地寻找细茎顶端疏散、小穗细如糠的花序。"
+    }
+  },
+  "Ajania shiwogiku": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シオギク。キク科アジャニア属（キクの近縁）の多年草で、海岸の岩場や崖に生える。厚みのある葉は裏に白い毛が密生し、縁が白く見える。秋〜初冬、黄色い筒状花だけからなる小さな頭花を密に集めて咲かせる（舌状花がない）。四国南東部の海岸に多い。",
+      "habitat_hint": "海岸の岩場、崖、風当たりの強い岩礫地。",
+      "finding_tips": "10〜12月、海岸の岩場で裏の白い厚い葉と、黄色い筒状花だけの小菊を探します。"
+    },
+    "en": {
+      "summary": "Shiogiku (Ajania shiwogiku). A perennial close to the chrysanthemums, growing on coastal rocks and cliffs; the thick leaves are densely white-hairy beneath so their margins look white, and in autumn to early winter it bears dense small heads of yellow tubular florets only (no ray florets). It is common on the southeastern coast of Shikoku.",
+      "habitat_hint": "Coastal rocks, cliffs, wind-swept rocky ground.",
+      "finding_tips": "From October to December look on coastal rocks for the thick white-backed leaves and the small yellow tubular-only flower heads."
+    },
+    "zh": {
+      "summary": "シオギク（Ajania shiwogiku）。菊科亚菊属（近菊属）多年生草本，生于海岸岩场及崖壁；叶厚、背密被白毛使边缘显白，秋至初冬密生仅具黄色筒状花的小头状花序（无舌状花），多见于四国东南海岸。",
+      "habitat_hint": "海岸岩场、崖壁、当风岩砾地。",
+      "finding_tips": "10 至 12 月于海岸岩场寻找叶背白、仅具黄色筒状花的小菊。"
+    }
+  },
+  "Aleuritopteris argentea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silver cloak fern",
+    "ja": {
+      "summary": "ヒメウラジロ。イノモトソウ科（またはホウライシダ科）の小型のシダで、日当たりのよい岩の割れ目や石垣、乾いた斜面に生える。葉は三角状に切れ込み、裏面が銀白色〜淡黄色の粉におおわれるのが特徴。乾燥に強い。",
+      "habitat_hint": "日当たりのよい岩の割れ目、石垣、乾いた斜面、崖地。",
+      "finding_tips": "一年中、岩の割れ目や石垣で裏面が銀白色の粉におおわれた小さなシダを探します。"
+    },
+    "en": {
+      "summary": "Hime-urajiro, the silver cloak fern (Aleuritopteris argentea). A small fern of sunny rock crevices, stone walls and dry slopes; the triangular divided fronds have undersides covered in a silvery-white to pale-yellow farina (powder). It tolerates drought.",
+      "habitat_hint": "Sunny rock crevices, stone walls, dry slopes, cliffs.",
+      "finding_tips": "Year-round look in rock crevices and stone walls for the small fern with silvery-white powder on the frond undersides."
+    },
+    "zh": {
+      "summary": "银粉背蕨（ヒメウラジロ，Aleuritopteris argentea）。凤尾蕨科（或铁线蕨科）小型蕨类，生于向阳岩缝、石墙及干坡；叶三角状分裂，背面被银白至淡黄色粉，耐旱。",
+      "habitat_hint": "向阳岩缝、石墙、干坡、崖地。",
+      "finding_tips": "全年于岩缝及石墙寻找叶背被银白粉的小型蕨。"
+    }
+  },
+  "Alitta succinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clam worm",
+    "ja": {
+      "summary": "アシナガゴカイ。ゴカイ科の多毛類（環形動物）で、内湾や河口の砂泥底、干潟にすむ。体は細長く多数の体節に分かれ、各節の両側に脚のような疣足（いぼあし）をもつ。泥中に潜り、有機物や小動物を食べる。釣り餌にも使われる。",
+      "habitat_hint": "内湾や河口の砂泥底、干潟、潮間帯。",
+      "finding_tips": "干潮時、干潟の砂泥を掘って細長く多数の疣足をもつゴカイを探します。"
+    },
+    "en": {
+      "summary": "Ashinaga-gokai, the clam worm (Alitta succinea). A polychaete worm (segmented worm) of sandy-mud bottoms and tidal flats in bays and estuaries; the elongate body has many segments, each with leg-like parapodia on the sides. It burrows in mud, feeding on organic matter and small animals, and is used as fishing bait.",
+      "habitat_hint": "Sandy-mud bottoms of bays and estuaries, tidal flats, intertidal.",
+      "finding_tips": "At low tide dig in tidal-flat mud to find the elongate worm with many leg-like parapodia."
+    },
+    "zh": {
+      "summary": "沙蚕（アシナガゴカイ，Alitta succinea）。沙蚕科多毛类（环节动物），栖于内湾及河口砂泥底与滩涂；体细长多节，各节两侧具疣足如足，潜泥取食有机质及小动物，常作钓饵。",
+      "habitat_hint": "内湾及河口砂泥底、滩涂、潮间带。",
+      "finding_tips": "退潮时于滩涂砂泥中挖掘寻找细长、多疣足的沙蚕。"
+    }
+  },
+  "Alstroemeria psittacina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ユリズイセン。ユリズイセン科（アルストロメリア科）の多年草で、南アメリカ原産の観賞植物。庭や公園に植えられ、暖地では野生化することもある。初夏〜夏、赤みをおびた花に緑と暗色の斑が入り、先が反り返る独特の花を咲かせる。",
+      "habitat_hint": "庭、公園、花壇（植栽）、暖地では道ばたや荒れ地に野生化。",
+      "finding_tips": "6〜8月、花壇や野生化した草地で、緑と暗色の斑が入る赤みのある反り返った花を探します。"
+    },
+    "en": {
+      "summary": "Yuri-zuisen, the parrot lily (Alstroemeria psittacina). A perennial of the Alstroemeriaceae, an ornamental native to South America; planted in gardens and parks, it naturalizes in warm regions. From early summer it bears distinctive reddish flowers marked with green and dark spots, the tips recurving.",
+      "habitat_hint": "Gardens, parks, flower beds (planted); naturalized on warm-region roadsides and waste ground.",
+      "finding_tips": "From June to August look in flower beds and naturalized grassland for the reddish, green- and dark-spotted flowers with recurved tips."
+    },
+    "zh": {
+      "summary": "六出花（ユリズイセン，Alstroemeria psittacina）。六出花科多年生草本，原产南美的观赏植物，栽于庭园及公园，暖地可逸生；初夏至夏开红色花，具绿色与暗色斑点、瓣端反卷，颇具特色。",
+      "habitat_hint": "庭园、公园、花坛（栽培）；暖地路旁荒地逸生。",
+      "finding_tips": "6 至 8 月于花坛及逸生草地寻找红色、带绿与暗斑、瓣端反卷的花。"
+    }
+  },
+  "Amanita alboflavescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キウロコテングタケ。テングタケ科のきのこで、夏〜秋、雑木林や公園の広葉樹・針葉樹の下の地上に発生する。傘は白っぽく、黄色みをおびた鱗片（うろこ）を散りばめ、触ると黄色くしみる傾向がある。テングタケの仲間で、食用にはしない（有毒のおそれ）。",
+      "habitat_hint": "夏〜秋、雑木林や公園の広葉樹・針葉樹の下の地上。",
+      "finding_tips": "夏〜秋、林の地上で白っぽい傘に黄色い鱗片をつけ、黄色くしみるテングタケを探します。食用にしない。"
+    },
+    "en": {
+      "summary": "Ki-uroko-tengutake (Amanita alboflavescens). An Amanita mushroom fruiting on the ground under broadleaf and conifer trees in woodland and parks in summer to autumn; the whitish cap is dotted with yellowish scales and tends to stain yellow when handled. Being an Amanita, it is not eaten (possibly poisonous).",
+      "habitat_hint": "Summer to autumn, ground under broadleaf and conifer trees in woodland and parks.",
+      "finding_tips": "From summer to autumn look under trees for the whitish Amanita cap with yellow scales that stains yellow when handled; do not eat."
+    },
+    "zh": {
+      "summary": "白黄鹅膏菌（キウロコテングタケ，Amanita alboflavescens）。鹅膏菌科真菌，夏至秋生于杂木林及公园阔叶、针叶树下地面；菌盖偏白、散布黄色鳞片，触之易染黄，属鹅膏，不宜食用（或有毒）。",
+      "habitat_hint": "夏至秋，杂木林及公园阔叶、针叶树下地面。",
+      "finding_tips": "夏至秋于树下寻找盖偏白、具黄色鳞片、触之染黄的鹅膏；勿食。"
+    }
+  },
+  "Amara chalcophaea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "コアオマルガタゴミムシ。オサムシ科（ゴミムシの仲間）の甲虫で、日当たりのよい草地、畑、河原、道ばたに見られる。体は丸みをおびた卵形で、青緑〜銅色の金属光沢がある。地表を歩き、植物の種子や小さな虫を食べる。",
+      "habitat_hint": "日当たりのよい草地、畑、河原、道ばた、堤防。",
+      "finding_tips": "春〜秋、草地や畑の地表で丸っこく青緑〜銅色に光る小さなゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Ko-ao-marugata-gomimushi (Amara chalcophaea), a ground beetle. A ground beetle of sunny grassland, fields, riverbanks and roadsides; the rounded oval body has a blue-green to coppery metallic sheen. It walks over the ground eating plant seeds and small insects.",
+      "habitat_hint": "Sunny grassland, fields, riverbanks, roadsides, embankments.",
+      "finding_tips": "From spring to autumn look on the ground in grassland and fields for the small rounded beetle with a blue-green to coppery sheen."
+    },
+    "zh": {
+      "summary": "コアオマルガタゴミムシ（Amara chalcophaea）。步甲科甲虫，见于向阳草地、农田、河滩及路旁；体卵圆而丰满，具蓝绿至铜色金属光泽，于地表爬行，取食植物种子及小虫。",
+      "habitat_hint": "向阳草地、农田、河滩、路旁、堤岸。",
+      "finding_tips": "春至秋于草地农田地表寻找圆润、蓝绿至铜色发光的小步甲。"
+    }
+  },
+  "Apamea aquila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカモクメヨトウ。ヤガ科ヨトウガ亜科のガで、平地〜山地の草地、林縁、農地に見られる。前翅は赤褐色〜暗褐色で、木目状（もくめ）の模様がある。幼虫はイネ科などの草本を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の草地、林縁、農地、河原。",
+      "finding_tips": "夏、灯火で赤褐色に木目状の模様をもつ前翅のヨトウガを探します。"
+    },
+    "en": {
+      "summary": "Aka-mokume-yotō (Apamea aquila), an owlet moth. A noctuid moth of the Amphipyrinae found in lowland to montane grassland, edges and farmland; the forewing is reddish-brown to dark brown with a wood-grain pattern. The larva feeds on grasses and other herbs, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane grassland, edges, farmland, riverbanks.",
+      "finding_tips": "In summer look at lights for the owlet moth with reddish-brown, wood-grain-patterned forewings."
+    },
+    "zh": {
+      "summary": "アカモクメヨトウ（Apamea aquila）。夜蛾科秘夜蛾亚科的一种蛾，见于平地至山地草地、林缘及农田；前翅红褐至暗褐、具木纹状斑，幼虫食禾草等草本，成虫夜间趋光。",
+      "habitat_hint": "平地至山地草地、林缘、农田、河滩。",
+      "finding_tips": "夏于灯下寻找前翅红褐、具木纹斑的夜蛾。"
+    }
+  },
+  "Aquilegia buergerana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマオダマキ。キンポウゲ科オダマキ属の多年草で、山地の草地や林縁、明るい林床に生える。初夏〜夏、下向きに咲く花は、外側の萼が褐紫色、内側の花弁が黄白色で、後ろに距（きょ）が突き出す独特の形をもつ。",
+      "habitat_hint": "山地の草地、林縁、明るい林床、やや乾いた斜面。",
+      "finding_tips": "6〜8月、山地の草地で褐紫色の萼と黄白色の花弁、後ろに突き出た距をもつ下向きの花を探します。"
+    },
+    "en": {
+      "summary": "Yama-odamaki (Aquilegia buergerana), a columbine. A perennial columbine of montane grassland, woodland edges and open forest floor; in early to mid summer the nodding flowers have brown-purple outer sepals and yellow-white inner petals, with distinctive spurs projecting backward.",
+      "habitat_hint": "Montane grassland, woodland edges, open forest floor, dryish slopes.",
+      "finding_tips": "From June to August look in montane grassland for the nodding flowers with brown-purple sepals, yellow-white petals and backward-pointing spurs."
+    },
+    "zh": {
+      "summary": "ヤマオダマキ（Aquilegia buergerana）。毛茛科耧斗菜属多年生草本，生于山地草地、林缘及明亮林床；初夏至夏花下垂，外萼褐紫、内瓣黄白，后方伸出距，形态独特。",
+      "habitat_hint": "山地草地、林缘、明亮林床、略干坡地。",
+      "finding_tips": "6 至 8 月于山地草地寻找萼褐紫、瓣黄白、后具距的下垂花。"
+    }
+  },
+  "Archicolliuris bimaculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "フタモンクビナガゴミムシ。オサムシ科（ゴミムシの仲間）の甲虫で、水辺の草地や湿地、湿った草むらに見られる。頭部の後ろが細く首のように長く伸び、上翅に一対の淡い斑（二つの紋）があるのが名の由来。草の上を歩き回る。",
+      "habitat_hint": "水辺の草地、湿地、湿った草むら、田のあぜ。",
+      "finding_tips": "夏、水辺の草の上で首が細長く、上翅に二つの淡い紋のある細長いゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Futamon-kubinaga-gomimushi (Archicolliuris bimaculata), a ground beetle. A ground beetle of waterside grassland, wetlands and damp herbage; the head narrows behind into a long neck, and the elytra bear a pair of pale spots (source of the name). It walks about on grass.",
+      "habitat_hint": "Waterside grassland, wetlands, damp herbage, paddy banks.",
+      "finding_tips": "In summer look on waterside grass for the slender ground beetle with a long neck and two pale spots on the elytra."
+    },
+    "zh": {
+      "summary": "フタモンクビナガゴミムシ（Archicolliuris bimaculata）。步甲科甲虫，见于水边草地、湿地及湿润草丛；头后收窄如长颈，鞘翅具一对淡斑（故名），于草上游走。",
+      "habitat_hint": "水边草地、湿地、湿润草丛、田埂。",
+      "finding_tips": "夏于水边草上寻找颈细长、鞘翅具两淡斑的细长步甲。"
+    }
+  },
+  "Arctanthemum arcticum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Arctic daisy",
+    "ja": {
+      "summary": "コハマギク。キク科の多年草で、北日本の海岸の岩場や草地、崖に生える。厚みのある葉をもち、秋、白い舌状花に黄色い中心の菊らしい頭花を咲かせる。ハマギクより小型で、地下茎でふえる。",
+      "habitat_hint": "北日本の海岸の岩場、草地、崖、風当たりの強い斜面。",
+      "finding_tips": "9〜11月、海岸の岩場や草地で白い舌状花・黄色い中心の菊と、厚い葉を探します。"
+    },
+    "en": {
+      "summary": "Ko-hamagiku, the arctic daisy (Arctanthemum arcticum). A perennial of the daisy family growing on coastal rocks, grassland and cliffs in northern Japan; it has thick leaves and, in autumn, daisy-like heads with white rays around a yellow disc. Smaller than the Nippon daisy, it spreads by rhizomes.",
+      "habitat_hint": "Northern-Japan coastal rocks, grassland, cliffs, wind-swept slopes.",
+      "finding_tips": "From September to November look on coastal rocks and grassland for the white-rayed, yellow-centred daisy heads and thick leaves."
+    },
+    "zh": {
+      "summary": "コハマギク（Arctanthemum arcticum）。菊科多年生草本，生于北日本海岸岩场、草地及崖壁；叶厚，秋开白舌黄心的菊状头状花序，较滨菊小，以根状茎繁殖。",
+      "habitat_hint": "北日本海岸岩场、草地、崖壁、当风坡地。",
+      "finding_tips": "9 至 11 月于海岸岩场草地寻找白舌黄心的菊花及厚叶。"
+    }
+  },
+  "Armoracia rusticana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Horseradish",
+    "aliases": {
+      "zh-Hans": "辣根"
+    },
+    "ja": {
+      "summary": "セイヨウワサビ（ホースラディッシュ、ワサビダイコン）。アブラナ科の多年草で、ヨーロッパ原産の香辛野菜。北日本を中心に栽培され、野生化もしている。太い根をすりおろすと強い辛味と香りがあり、粉わさびの原料や肉料理の薬味に使われる。初夏、白い小花を穂状につける。",
+      "habitat_hint": "畑、道ばた、河原、荒れ地（栽培および野生化）。",
+      "finding_tips": "初夏、荒れ地や道ばたで大きな根生葉と、白い小花の穂を探します。根をすりおろすと強い辛味。"
+    },
+    "en": {
+      "summary": "Horseradish (Armoracia rusticana). A perennial of the cabbage family, a pungent vegetable native to Europe; grown mainly in northern Japan and naturalized. The thick root, when grated, is strongly pungent and aromatic, used as a source of powdered wasabi and a condiment for meat. In early summer it bears small white flowers in racemes.",
+      "habitat_hint": "Fields, roadsides, riverbanks, waste ground (grown and naturalized).",
+      "finding_tips": "In early summer look on waste ground and roadsides for the large basal leaves and racemes of small white flowers; the grated root is fiercely pungent."
+    },
+    "zh": {
+      "summary": "辣根（セイヨウワサビ，Armoracia rusticana）。十字花科多年生草本，原产欧洲的辛香蔬菜，北日本多栽培并逸生；粗根磨碎有强烈辛辣香气，作粉状山葵原料及肉食佐料，初夏总状花序生白色小花。",
+      "habitat_hint": "农田、路旁、河滩、荒地（栽培及逸生）。",
+      "finding_tips": "初夏于荒地路旁寻找大型基生叶及白色小花穗；根磨碎极辛辣。"
+    }
+  },
+  "Asarum asaroides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイリンアオイ。ウマノスズクサ科カンアオイ属の常緑多年草で、暖地の照葉樹林の林床に生える。ハート形の葉をもち、早春、地ぎわに暗紫色の大きな筒状の花（がく片が花に見える）をつける。カンアオイの仲間の中では花が大きい。",
+      "habitat_hint": "暖地の照葉樹林の林床、林縁、谷沿いのやや湿った場所。",
+      "finding_tips": "2〜4月、暖地の林床でハート形の葉をかき分け、地ぎわの暗紫色の大きな筒状の花を探します。"
+    },
+    "en": {
+      "summary": "Tairin-aoi (Asarum asaroides), a wild ginger. An evergreen perennial of the birthwort family growing on the floor of warm-region evergreen broadleaf forest; it has heart-shaped leaves and, in early spring, large dark-purple tubular flowers (the calyx looks like the flower) at ground level. It has large flowers for a wild ginger.",
+      "habitat_hint": "Floor of warm-region evergreen broadleaf forest, edges, damp valley sides.",
+      "finding_tips": "From February to April part the heart-shaped leaves on warm-region forest floor to find the large dark-purple tubular flowers at ground level."
+    },
+    "zh": {
+      "summary": "タイリンアオイ（Asarum asaroides）。马兜铃科细辛属常绿多年生草本，生于暖地照叶林床；叶心形，早春于近地面生暗紫色大型筒状花（萼片似花），为细辛类中花较大者。",
+      "habitat_hint": "暖地照叶林床、林缘、谷侧湿润处。",
+      "finding_tips": "2 至 4 月于暖地林床拨开心形叶寻找近地面的暗紫色大型筒状花。"
+    }
+  },
+  "Asplenium tripteropus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌチャセンシダ。チャセンシダ科チャセンシダ属の小型のシダで、山地の湿った岩壁や岩の割れ目、石垣に生える。細い葉軸に沿って小さな羽片を並べ、葉軸に翼（よく）状の張り出しがある。チャセンシダに似るが、葉軸に翼があることで区別される。",
+      "habitat_hint": "山地の湿った岩壁、岩の割れ目、石垣、渓流沿いの岩。",
+      "finding_tips": "一年中、山地の湿った岩壁で細い葉軸に小羽片が並び、葉軸に翼のある小さなシダを探します。"
+    },
+    "en": {
+      "summary": "Inu-chasen-shida (Asplenium tripteropus), a spleenwort. A small fern of damp montane rock walls, crevices and stone walls; small pinnae are arranged along a slender rachis that has wing-like ridges. It resembles the maidenhair spleenwort but is distinguished by the winged rachis.",
+      "habitat_hint": "Damp montane rock walls, crevices, stone walls, streamside rock.",
+      "finding_tips": "Year-round on damp montane rock walls look for the small fern with pinnae along a slender, winged rachis."
+    },
+    "zh": {
+      "summary": "イヌチャセンシダ（Asplenium tripteropus）。铁角蕨科铁角蕨属小型蕨类，生于山地湿润岩壁、岩缝及石墙；小羽片沿细叶轴排列，叶轴具翅状棱，以叶轴有翅而别于铁角蕨。",
+      "habitat_hint": "山地湿润岩壁、岩缝、石墙、溪流沿岸岩石。",
+      "finding_tips": "全年于山地湿润岩壁寻找细叶轴具翅、小羽片排列的小型蕨。"
+    }
+  },
+  "Aventiola pusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロハナコヤガ。ヤガ科の非常に小さなガで、平地〜山地の樹林、林縁、湿った草地に見られる。翅は黒っぽく、小さな白い斑や紋があるものが多い。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の樹林、林縁、湿った草地、水辺。",
+      "finding_tips": "夏、灯火で黒っぽく小さな白斑をもつ非常に小さなガを探します。"
+    },
+    "en": {
+      "summary": "Kuro-hana-koyaga (Aventiola pusilla), an owlet moth. A very small noctuid moth of lowland to montane woodland, edges and damp grassland; the wings are blackish, often with small white spots or marks. It comes to lights at night and is small and inconspicuous.",
+      "habitat_hint": "Lowland to montane woodland, edges, damp grassland, waterside.",
+      "finding_tips": "In summer look at lights for the very small blackish moth with tiny white spots."
+    },
+    "zh": {
+      "summary": "クロハナコヤガ（Aventiola pusilla）。夜蛾科极小型蛾，见于平地至山地林地、林缘及湿润草地；翅黑，多具小白斑或纹，夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地林地、林缘、湿润草地、水边。",
+      "finding_tips": "夏于灯下寻找黑色、具小白斑的极小蛾。"
+    }
   }
 }
