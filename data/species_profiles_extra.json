@@ -229874,5 +229874,448 @@
       "habitat_hint": "路旁、田地、荒地、造地、庭园周边。",
       "finding_tips": "7 至 9 月寻找淡蓝紫色钟形花及被膨大宿萼包裹如灯笼的果实。有毒。"
     }
+  },
+  "Aster satsumensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマシロギク（イナカギク）。キク科シオン属の多年草で、本州〜九州の山野の日当たりのよい草地や林縁、道ばたに生える。秋、白い舌状花に黄色い中心の小さな頭花を多数つける。茎や葉にざらつく毛があり、野菊の一つ。",
+      "habitat_hint": "山野の日当たりのよい草地、林縁、道ばた、堤防。",
+      "finding_tips": "9〜11月、林縁や草地で白い舌状花・黄色い中心の小菊と、ざらつく茎葉を探します。"
+    },
+    "en": {
+      "summary": "Yama-shiro-giku (Aster satsumensis). A perennial wild aster of sunny grassland, woodland edges and roadsides from Honshu to Kyushu; in autumn it bears many small heads with white rays around a yellow disc. The stems and leaves are rough-hairy.",
+      "habitat_hint": "Sunny grassland, woodland edges, roadsides, embankments.",
+      "finding_tips": "From September to November look on woodland edges and grassland for the small white-rayed, yellow-centred heads on rough-hairy stems."
+    },
+    "zh": {
+      "summary": "山白菊（ヤマシロギク）。菊科紫菀属多年生草本，产本州至九州向阳草地、林缘及路旁；秋季头状花多数，白色舌状花围绕黄色花心，茎叶被粗糙短毛，为常见野菊之一。",
+      "habitat_hint": "向阳草地、林缘、路旁、堤岸。",
+      "finding_tips": "9 至 11 月，于林缘草地寻找白舌黄心的小头状花及粗糙茎叶。"
+    }
+  },
+  "Nitidotellina hokkaidoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakura tellin",
+    "ja": {
+      "summary": "サクラガイ。ニッコウガイ科の小さな二枚貝で、内湾や浅い海の砂底にすむ。殻は薄く扁平で、桜の花びらのような淡い桃色をおび、光沢がある。海岸に打ち上げられた殻が浜辺で拾われることが多い。",
+      "habitat_hint": "内湾や浅海の砂底、潮間帯〜浅い海底、砂浜の打ち上げ。",
+      "finding_tips": "一年中、砂浜の打ち上げ帯で薄く扁平な淡い桃色の小さな二枚貝の殻を探します。"
+    },
+    "en": {
+      "summary": "Sakura-gai, the cherry-blossom tellin (Nitidotellina hokkaidoensis). A small, thin, flat tellin bivalve of sandy bottoms in bays and shallow seas; the glossy shell is a pale cherry-pink, and beach-cast valves are often collected on sandy shores.",
+      "habitat_hint": "Sandy bottoms of bays and shallow seas, intertidal to shallow sublittoral, beach drift.",
+      "finding_tips": "Year-round, search the strandline of sandy beaches for the thin, flat, pale pink valves."
+    },
+    "zh": {
+      "summary": "櫻蛤（サクラガイ）。樱蛤科小型双壳类，栖内湾及浅海砂底；壳薄而扁平，具光泽，呈樱花瓣般淡粉色，常在沙滩上拾到冲刷上岸的贝壳。",
+      "habitat_hint": "内湾及浅海砂底、潮间带至浅海底、沙滩冲积带。",
+      "finding_tips": "全年于沙滩冲积带寻找薄而扁平的淡粉色小型双壳贝壳。"
+    }
+  },
+  "Oldenlandia corymbosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タマザキフタバムグラ。アカネ科の小さな一年草で、暖地の畑地、道ばた、荒れ地に生える。細い茎がよく枝分かれし、対生する細い葉のわきに白〜淡桃色の小花を数個ずつつける。熱帯起源の帰化植物。",
+      "habitat_hint": "暖地の畑地、道ばた、荒れ地、庭、路傍。",
+      "finding_tips": "夏〜秋、道ばたや畑で細い枝と、葉のわきに束生する白い小花を探します。"
+    },
+    "en": {
+      "summary": "Tamazaki-futaba-mugura (Oldenlandia corymbosa), the flat-top mille graines. A small annual of warm-region fields, roadsides and waste ground with slender much-branched stems; a few tiny white to pale-pink flowers cluster in the axils of the narrow opposite leaves. A naturalized plant of tropical origin.",
+      "habitat_hint": "Warm-region fields, roadsides, waste ground, gardens.",
+      "finding_tips": "From summer to autumn look on roadsides and in fields for the slender branched stems and the tiny white flowers clustered in the leaf axils."
+    },
+    "zh": {
+      "summary": "伞房花耳草（タマザキフタバムグラ）。茜草科小型一年生草本，生于暖地农田、路旁及荒地；茎纤细多分枝，狭对生叶腋簇生数朵白至淡粉色小花，为热带起源的归化植物。",
+      "habitat_hint": "暖地农田、路旁、荒地、庭园。",
+      "finding_tips": "夏至秋于路旁农田寻找纤细分枝与叶腋簇生的白色小花。"
+    }
+  },
+  "Pangrapta obscurata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "リンゴツマキリアツバ。ヤガ科（アツバの仲間）のガで、平地〜低山の雑木林や樹林周辺に見られる。前翅の外縁がえぐれたように切れ込むのが特徴で、翅は褐色の地に細かな波状のすじがある。幼虫はリンゴやナシなどバラ科の木を食べる。",
+      "habitat_hint": "平地〜低山の雑木林、樹林周辺、果樹のある環境。",
+      "finding_tips": "初夏〜秋、灯火や樹林周辺で前翅外縁がえぐれた褐色のガを探します。"
+    },
+    "en": {
+      "summary": "Ringo-tsumakiri-atsuba (Pangrapta obscurata). An owlet moth of lowland to low-mountain woodland and forest edges; the forewing has a distinctively notched, scooped-out outer margin and is brown with fine wavy lines. The caterpillars feed on apple, pear and other rosaceous trees.",
+      "habitat_hint": "Lowland to low-mountain woodland, forest edges, orchard settings.",
+      "finding_tips": "From early summer to autumn look at lights and forest edges for the brown moth with a notched, scooped forewing margin."
+    },
+    "zh": {
+      "summary": "リンゴツマキリアツバ（Pangrapta obscurata）。夜蛾科的一种蛾，见于平地至低山杂木林及林缘；前翅外缘凹缺如被削去，翅褐色具细密波状纹，幼虫取食苹果、梨等蔷薇科树木。",
+      "habitat_hint": "平地至低山杂木林、林缘、有果树的环境。",
+      "finding_tips": "初夏至秋于灯下及林缘寻找前翅外缘凹缺的褐色蛾。"
+    }
+  },
+  "Paraglenurus fulvus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャバネホシウスバカゲロウ。ウスバカゲロウ科の昆虫で、平地〜低山の林縁や樹林、草地に見られる。細長い体と薄く透明な翅をもち、翅に茶色みと小さな斑がある。トンボに似るが飛び方は弱々しい。幼虫はアリジゴク（すり鉢状の巣で獲物を待つ）。",
+      "habitat_hint": "平地〜低山の林縁、樹林、乾いた砂地のある草地。",
+      "finding_tips": "夏の夜、灯火や林縁で細長い体と茶色みのある透明翅のカゲロウ状の虫を探します。"
+    },
+    "en": {
+      "summary": "Chabane-hoshi-usuba-kagerō (Paraglenurus fulvus), an antlion. A lacewing-relative of lowland to low-mountain forest edges, woodland and grassland, with a slender body and thin transparent wings tinted brown with small spots; it flies weakly, unlike a dragonfly. The larva is an ant-lion that waits in a conical sand pit.",
+      "habitat_hint": "Lowland to low-mountain forest edges, woodland, grassland with dry sandy patches.",
+      "finding_tips": "On summer nights look at lights and forest edges for the slender, weak-flying insect with brown-tinted transparent wings."
+    },
+    "zh": {
+      "summary": "チャバネホシウスバカゲロウ（Paraglenurus fulvus）。蚁蛉科昆虫，见于平地至低山林缘、林地及草地；体细长，翅薄透明带褐色及小斑，飞行较弱不似蜻蜓；幼虫即蚁狮，掘漏斗状沙坑守候猎物。",
+      "habitat_hint": "平地至低山林缘、林地、有干沙地的草地。",
+      "finding_tips": "夏夜于灯下及林缘寻找体细长、翅透明带褐、飞行无力的蚁蛉。"
+    }
+  },
+  "Parasenecio maximowicziana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オクヤマコウモリ。キク科コウモリソウ属の多年草で、山地の林床や谷沿いの湿った林縁に生える。コウモリの翼を思わせる大きな三角状の葉をつけ、夏〜秋に白っぽい筒状の小花を穂状〜円錐状に多数咲かせる。",
+      "habitat_hint": "山地の林床、谷沿いの湿った林縁、やや湿った斜面。",
+      "finding_tips": "8〜9月、山地の湿った林床でコウモリ状の大きな葉と、白っぽい小花の穂を探します。"
+    },
+    "en": {
+      "summary": "Okuyama-kōmori (Parasenecio maximowicziana). A perennial of the Asteraceae found on montane forest floor and damp streamside edges; the large triangular leaves suggest a bat's wing, and in late summer to autumn it bears many small whitish tubular flowers in spikes to panicles.",
+      "habitat_hint": "Montane forest floor, damp streamside edges, damp slopes.",
+      "finding_tips": "In August–September look on damp montane forest floor for the large bat-wing-shaped leaves and spikes of small whitish flowers."
+    },
+    "zh": {
+      "summary": "オクヤマコウモリ（Parasenecio maximowicziana）。菊科蟹甲草属多年生草本，生于山地林床及沟谷湿润林缘；叶大呈三角状似蝙蝠翼，夏末至秋穗状至圆锥状着生多数白色筒状小花。",
+      "habitat_hint": "山地林床、沟谷湿润林缘、湿润坡地。",
+      "finding_tips": "8 至 9 月，于山地湿润林床寻找蝙蝠翼状大叶及白色小花穗。"
+    }
+  },
+  "Perichaeta hilgendorfi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Earthworm",
+    "ja": {
+      "summary": "ヒトツモンミミズ。フトミミズ科の中型のミミズで、林や庭、畑の湿った土壌にすむ。体は褐色で、環帯（生殖帯）付近に特徴がある。落ち葉や有機物を食べて土をつくり、土壌をよく耕す。雨後に地表に出てくることがある。",
+      "habitat_hint": "林床、庭、畑、公園の湿った腐植質に富む土壌。",
+      "finding_tips": "一年中、雨後に湿った土や落ち葉の下を掘って褐色の中型ミミズを探します。"
+    },
+    "en": {
+      "summary": "Hitotsumon-mimizu (Perichaeta hilgendorfi), an earthworm. A medium-sized megascolecid earthworm of moist soil in woods, gardens and fields; the body is brownish. It feeds on leaf litter and organic matter, building and aerating the soil, and comes to the surface after rain.",
+      "habitat_hint": "Moist humus-rich soil of woodland floor, gardens, fields and parks.",
+      "finding_tips": "Year-round, after rain dig in moist soil and under leaf litter to find the medium-sized brown earthworm."
+    },
+    "zh": {
+      "summary": "ヒトツモンミミズ（Perichaeta hilgendorfi）。巨蚓科中型蚯蚓，栖于林地、庭园及农田湿润土壤，体褐色；取食落叶与有机质，造土疏松土壤，雨后常爬出地表。",
+      "habitat_hint": "林床、庭园、农田、公园富含腐殖质的湿润土壤。",
+      "finding_tips": "全年雨后翻掘湿土及落叶下寻找中型褐色蚯蚓。"
+    }
+  },
+  "Perichaeta irregularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Earthworm",
+    "ja": {
+      "summary": "フキソクミミズ。フトミミズ科のミミズで、林床や庭、畑などの湿った土壌にすむ。体は褐色で、剛毛の並びや環帯の位置に種の特徴がある。落ち葉などを食べて分解し、土壌を豊かにする。雨の後に地表で見られることがある。",
+      "habitat_hint": "林床、庭、畑、公園の湿った腐植質に富む土壌。",
+      "finding_tips": "一年中、雨後に湿った土や落ち葉の下を掘って褐色のミミズを探します。"
+    },
+    "en": {
+      "summary": "Fusoku-mimizu (Perichaeta irregularis), an earthworm. A megascolecid earthworm of moist soil in woodland floor, gardens and fields; the body is brownish. It decomposes leaf litter and enriches the soil, and is sometimes seen on the surface after rain.",
+      "habitat_hint": "Moist humus-rich soil of woodland floor, gardens, fields and parks.",
+      "finding_tips": "Year-round, after rain dig in moist soil and under litter to find the brown earthworm."
+    },
+    "zh": {
+      "summary": "フソクミミズ（Perichaeta irregularis）。巨蚓科蚯蚓，栖于林床、庭园及农田湿润土壤，体褐色；分解落叶、肥沃土壤，雨后偶见于地表。",
+      "habitat_hint": "林床、庭园、农田、公园富含腐殖质的湿润土壤。",
+      "finding_tips": "全年雨后翻掘湿土及落叶下寻找褐色蚯蚓。"
+    }
+  },
+  "Perichaeta sieboldi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's giant earthworm",
+    "ja": {
+      "summary": "シーボルトミミズ。フトミミズ科の大型のミミズで、西日本の山地の湿った林床にすむ。体長は30cmを超えることもあり、生きているときは青紫〜藍色の光沢をおびる日本最大級のミミズ。秋に地表を移動する姿が見られることがある。",
+      "habitat_hint": "西日本の山地の湿った林床、腐植質に富む土壌、渓流沿い。",
+      "finding_tips": "秋、山地の湿った林床や登山道で青藍色の光沢をもつ非常に大きなミミズを探します。"
+    },
+    "en": {
+      "summary": "Siebold's giant earthworm (Perichaeta sieboldi). A very large megascolecid earthworm of moist montane forest floor in western Japan; it can exceed 30 cm and, when alive, has a bluish-violet to indigo sheen, one of Japan's largest earthworms. It is sometimes seen moving over the ground in autumn.",
+      "habitat_hint": "Moist montane forest floor of western Japan, humus-rich soil, along streams.",
+      "finding_tips": "In autumn look on moist montane forest floor and trails for the very large earthworm with a blue-indigo sheen."
+    },
+    "zh": {
+      "summary": "西博尔德巨蚓（シーボルトミミズ，Perichaeta sieboldi）。巨蚓科大型蚯蚓，栖于西日本山地湿润林床；体长可逾 30 厘米，活体呈蓝紫至靛蓝光泽，为日本最大蚯蚓之一，秋季常见于地表爬行。",
+      "habitat_hint": "西日本山地湿润林床、富腐殖质土壤、溪流沿岸。",
+      "finding_tips": "秋季于山地湿润林床及山径寻找具蓝靛光泽的巨大蚯蚓。"
+    }
+  },
+  "Persicaria amphibia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water knotweed",
+    "aliases": {
+      "zh-Hans": "两栖蓼"
+    },
+    "ja": {
+      "summary": "エゾノミズタデ。タデ科の多年草で、池や沼、湿地、水路に生える水陸両生の植物。水中では葉を水面に浮かべ、陸上では立ち上がって育つ。夏〜秋、桃色の小花を穂状に密につける。",
+      "habitat_hint": "池、沼、湿地、水路、休耕田などの水辺。",
+      "finding_tips": "7〜9月、池沼の水面や湿地で桃色の花穂と、水に浮く（または立ち上がる）葉を探します。"
+    },
+    "en": {
+      "summary": "Water knotweed (Persicaria amphibia). An amphibious perennial of ponds, marshes, wetlands and channels; in water the leaves float on the surface, while on land it grows erect. In summer to autumn it bears dense spikes of small pink flowers.",
+      "habitat_hint": "Ponds, marshes, wetlands, channels, fallow paddies.",
+      "finding_tips": "From July to September look at pond surfaces and wetlands for the pink flower spikes and the floating (or erect) leaves."
+    },
+    "zh": {
+      "summary": "两栖蓼（エゾノミズタデ，Persicaria amphibia）。蓼科水陆两生多年生草本，生于池沼、湿地及水渠；水生时叶漂浮水面，陆生时直立，夏至秋密生穗状粉色小花。",
+      "habitat_hint": "池沼、湿地、水渠、休耕田等水边。",
+      "finding_tips": "7 至 9 月，于池沼水面及湿地寻找粉色花穗及漂浮或直立的叶。"
+    }
+  },
+  "Plagodis pulveraria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Barred umber",
+    "ja": {
+      "summary": "コナフキエダシャク。シャクガ科のガで、平地〜山地の樹林や林縁に見られる。翅は淡い黄褐色で、粉をふいたようなくすんだ地に濃い横帯が走る。幼虫はシャクトリムシで、さまざまな広葉樹の葉を食べる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "春〜初夏、灯火や林縁で淡黄褐色に濃い横帯のある翅のガを探します。"
+    },
+    "en": {
+      "summary": "Barred umber (Plagodis pulveraria). A geometer moth of lowland to montane woodland and forest edges; the wings are pale yellow-brown with a dusted, muted ground crossed by darker bands. The larva is an inchworm feeding on the leaves of various broadleaf trees.",
+      "habitat_hint": "Lowland to montane woodland, forest edges, secondary woods.",
+      "finding_tips": "From spring to early summer look at lights and forest edges for the pale yellow-brown moth with darker cross-bands."
+    },
+    "zh": {
+      "summary": "コナフキエダシャク（Plagodis pulveraria）。尺蛾科的一种蛾，见于平地至山地林地及林缘；翅淡黄褐色，底色如撒粉暗淡，具较深横带，幼虫为尺蠖，取食多种阔叶树叶。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "春至初夏于灯下及林缘寻找淡黄褐色具深横带的蛾。"
+    }
+  },
+  "Planiliza macrolepis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Largescale mullet",
+    "aliases": {
+      "zh-Hans": "大鳞鲛"
+    },
+    "ja": {
+      "summary": "コボラ。ボラ科の魚で、内湾や河口、汽水域にすむ。ボラに似るが、うろこが大きく、体はやや細長い。群れで泳ぎ、泥底の有機物や付着藻類を食べる。稚魚〜若魚は河口や汽水の浅い場所でよく見られる。",
+      "habitat_hint": "内湾、河口、汽水域、砂泥底の浅い海。",
+      "finding_tips": "一年中、河口や汽水域の浅場で群れる、うろこの大きい細長いボラ類を探します。"
+    },
+    "en": {
+      "summary": "Largescale mullet (Planiliza macrolepis). A mullet of bays, estuaries and brackish water; it resembles the striped mullet but has larger scales and a slightly more slender body. It swims in schools, feeding on organic matter and attached algae on muddy bottoms; young fish are common in shallow estuarine water.",
+      "habitat_hint": "Bays, estuaries, brackish water, shallow sandy-mud bottoms.",
+      "finding_tips": "Year-round, in shallow estuaries and brackish water look for the schooling, large-scaled slender mullet."
+    },
+    "zh": {
+      "summary": "大鳞鲛（コボラ，Planiliza macrolepis）。鲻科鱼类，栖于内湾、河口及半咸水；似鲻但鳞较大、体略细长，成群游动，取食泥底有机质及附着藻类，幼鱼常见于河口浅水。",
+      "habitat_hint": "内湾、河口、半咸水、砂泥底浅海。",
+      "finding_tips": "全年于河口及半咸水浅处寻找成群、大鳞、细长的鲻类。"
+    }
+  },
+  "Populus alba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White poplar",
+    "aliases": {
+      "zh-Hans": "银白杨"
+    },
+    "ja": {
+      "summary": "ギンドロ（ウラジロハコヤナギ）。ヤナギ科ハコヤナギ属の落葉高木で、公園や街路、河原に植えられる。葉の裏が白い綿毛におおわれて銀白色に見え、風にひるがえると白く輝く。ヨーロッパ〜中央アジア原産で、日本では植栽・野生化している。",
+      "habitat_hint": "公園、街路、河原、荒れ地（植栽および野生化）。",
+      "finding_tips": "一年中、裏が銀白色の葉と白っぽい樹皮の高木を公園や河原で探します。風で葉裏が翻ると銀色に光ります。"
+    },
+    "en": {
+      "summary": "White poplar (Populus alba). A deciduous tree planted in parks, streets and along rivers; the leaf undersides are covered in white down and look silvery-white, flashing white as they turn in the wind. Native to Europe and Central Asia, it is planted and naturalized in Japan.",
+      "habitat_hint": "Parks, streets, riverbanks, waste ground (planted and naturalized).",
+      "finding_tips": "Year-round look in parks and along rivers for the tree with silvery-white leaf undersides and pale bark; the leaves flash silver when they turn in the wind."
+    },
+    "zh": {
+      "summary": "银白杨（ギンドロ，Populus alba）。杨柳科杨属落叶乔木，栽于公园、行道及河滩；叶背密被白色绒毛呈银白色，随风翻转闪白，原产欧洲至中亚，日本多栽培并逸生。",
+      "habitat_hint": "公园、行道、河滩、荒地（栽培及逸生）。",
+      "finding_tips": "全年于公园及河滩寻找叶背银白、树皮偏白的乔木；叶随风翻转闪银光。"
+    }
+  },
+  "Populus tremula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eurasian aspen",
+    "aliases": {
+      "zh-Hans": "欧洲山杨"
+    },
+    "ja": {
+      "summary": "チョウセンヤマナラシ。ヤナギ科ハコヤナギ属の落葉高木で、山地の明るい斜面や林縁に生える。葉柄が平たいため、わずかな風でも葉がひらひらと揺れて「山鳴らし」の名がある。ユーラシアに広く分布し、日本では北方や山地に見られる。",
+      "habitat_hint": "山地の明るい斜面、林縁、崩壊地、二次林。",
+      "finding_tips": "一年中、山地の林縁で丸い葉が風にひらひら揺れる高木を探します。葉柄が平たいのが特徴。"
+    },
+    "en": {
+      "summary": "Eurasian aspen (Populus tremula). A deciduous tree of sunny montane slopes and woodland edges; the flattened leaf-stalks let the round leaves flutter in the slightest breeze, giving the Japanese name 'mountain-rustler'. Widespread across Eurasia, in Japan it grows in the north and in mountains.",
+      "habitat_hint": "Sunny montane slopes, woodland edges, landslip ground, secondary woods.",
+      "finding_tips": "Year-round, on montane woodland edges look for the tree whose round leaves flutter in the wind on flattened leaf-stalks."
+    },
+    "zh": {
+      "summary": "欧洲山杨（チョウセンヤマナラシ，Populus tremula）。杨柳科杨属落叶乔木，生于山地向阳坡及林缘；叶柄扁平，微风即令圆叶颤动（和名意为“山鸣”）；广布欧亚，日本见于北方及山地。",
+      "habitat_hint": "山地向阳坡、林缘、崩塌地、次生林。",
+      "finding_tips": "全年于山地林缘寻找圆叶随风颤动、叶柄扁平的乔木。"
+    }
+  },
+  "Porcellionides pruinosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Powder blue woodlouse",
+    "ja": {
+      "summary": "ホソワラジムシ。ワラジムシ科の陸生の等脚類（ダンゴムシの仲間）で、庭、畑、堆肥、石や落ち葉の下など湿った場所にすむ。体はやや細長く、表面が白っぽい粉をふいたように見える。丸くはならず、素早く歩く。落ち葉や有機物を食べて分解する。",
+      "habitat_hint": "庭、畑、堆肥、石や落ち葉の下、建物周りの湿った場所。",
+      "finding_tips": "一年中、石や落ち葉、堆肥をめくって、白っぽい粉をふいた細長い素早いワラジムシを探します。"
+    },
+    "en": {
+      "summary": "Powder blue woodlouse (Porcellionides pruinosus). A terrestrial isopod of gardens, fields, compost and damp spots under stones and litter; the body is fairly elongate and looks dusted with a whitish bloom. It does not roll into a ball and moves quickly, decomposing litter and organic matter.",
+      "habitat_hint": "Gardens, fields, compost, under stones and litter, damp spots around buildings.",
+      "finding_tips": "Year-round, turn stones, litter and compost to find the fast-moving, elongate woodlouse with a whitish, powdery bloom."
+    },
+    "zh": {
+      "summary": "ホソワラジムシ（Porcellionides pruinosus）。潮虫科陆生等足类（鼠妇类），栖于庭园、农田、堆肥及石与落叶下潮湿处；体略细长，表面似覆白粉，不卷成球、行动迅速，分解落叶与有机质。",
+      "habitat_hint": "庭园、农田、堆肥、石与落叶下、建筑周围潮湿处。",
+      "finding_tips": "全年翻开石、落叶及堆肥寻找覆白粉、细长、行动迅速的潮虫。"
+    }
+  },
+  "Porella caespitans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメクラマゴケモドキ。クラマゴケモドキ科の苔類（葉状ではなく茎葉のあるタイプ）で、湿った樹幹や岩、林床にマット状に生える。緑〜黄緑色で、規則的に並ぶ小さな葉が特徴。湿度の高い樹林や渓流沿いに多い。",
+      "habitat_hint": "湿った樹幹、岩、林床、渓流沿いの湿度の高い場所。",
+      "finding_tips": "一年中、湿った樹幹や岩で緑〜黄緑の細かな茎葉が並ぶ苔類のマットをルーペで探します。"
+    },
+    "en": {
+      "summary": "Hime-kuramagoke-modoki (Porella caespitans), a leafy liverwort. A leafy liverwort forming mats on damp tree trunks, rock and forest floor; it is green to yellow-green with small, regularly arranged leaves and is common in humid woodland and along streams.",
+      "habitat_hint": "Damp tree trunks, rock, forest floor, humid streamsides.",
+      "finding_tips": "Year-round, use a lens on damp trunks and rock to find the mats of green to yellow-green leafy liverwort with regularly arranged small leaves."
+    },
+    "zh": {
+      "summary": "ヒメクラマゴケモドキ（Porella caespitans）。光萼苔科茎叶体苔类，于湿润树干、岩石及林床成垫状生长；体绿至黄绿，小叶规则排列，多见于湿润林地及溪流沿岸。",
+      "habitat_hint": "湿润树干、岩石、林床、溪流沿岸湿润处。",
+      "finding_tips": "全年用放大镜于湿润树干及岩石寻找绿至黄绿、小叶规则排列的茎叶体苔垫。"
+    }
+  },
+  "Potentilla matsumurae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマキンバイ。バラ科キジムシロ属の多年草で、高山帯の砂れき地や岩場、草地に生える。3枚の小葉からなる葉をもち、初夏〜夏に黄色い5弁の花を咲かせる。高山の代表的な黄花植物の一つ。",
+      "habitat_hint": "高山帯の砂れき地、岩場、風衝草地、雪田周辺。",
+      "finding_tips": "6〜8月、高山の砂れき地や岩場で3小葉の葉と黄色い5弁花を探します。"
+    },
+    "en": {
+      "summary": "Miyama-kinbai (Potentilla matsumurae). An alpine perennial cinquefoil of gravelly ground, rocks and grassland in the alpine zone; it has leaves of three leaflets and, in early to mid summer, yellow five-petalled flowers. It is one of the characteristic yellow-flowered alpine plants.",
+      "habitat_hint": "Alpine gravel, rocks, wind-swept grassland, snow-patch margins.",
+      "finding_tips": "From June to August look on alpine gravel and rocks for the three-leaflet leaves and yellow five-petalled flowers."
+    },
+    "zh": {
+      "summary": "ミヤマキンバイ（Potentilla matsumurae）。蔷薇科委陵菜属高山多年生草本，生于高山带砂砾地、岩场及草地；叶具三小叶，初夏至夏开黄色五瓣花，为高山代表性黄花植物之一。",
+      "habitat_hint": "高山带砂砾地、岩场、风衝草地、雪田周边。",
+      "finding_tips": "6 至 8 月，于高山砂砾地及岩场寻找三小叶及黄色五瓣花。"
+    }
+  },
+  "Prunus ssiori": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siberian bird cherry",
+    "ja": {
+      "summary": "シウリザクラ。バラ科サクラ属の落葉高木で、山地の谷沿いや湿った林に生える。ふつうのサクラと違い、初夏に白い小花を細長い房（総状花序）に多数つける。葉は先が尾状に伸び、秋には黒紫色の小さな果実をつける。北日本や山地に多い。",
+      "habitat_hint": "山地の谷沿い、湿った林、渓流沿い、北方の樹林。",
+      "finding_tips": "5〜6月、山地の谷沿いで白い小花が細長い房になって垂れ下がるサクラを探します。"
+    },
+    "en": {
+      "summary": "Shiuri-zakura, the Siberian bird cherry (Prunus ssiori). A deciduous tree of montane valleys and damp woods; unlike ordinary cherries it bears many small white flowers in long drooping racemes in early summer. The leaves taper to a tail-like tip and small blackish-purple fruits ripen in autumn; it is common in northern Japan and the mountains.",
+      "habitat_hint": "Montane valleys, damp woods, streamsides, northern forests.",
+      "finding_tips": "In May–June look in montane valleys for the cherry with small white flowers in long, drooping racemes."
+    },
+    "zh": {
+      "summary": "斯氏稠李（シウリザクラ，Prunus ssiori）。蔷薇科李属落叶乔木，生于山地谷地及湿润林；不同于常见樱花，初夏于细长下垂总状花序上密生白色小花，叶端尾状延长，秋结黑紫色小果，多见于北日本及山地。",
+      "habitat_hint": "山地谷地、湿润林、溪流沿岸、北方林地。",
+      "finding_tips": "5 至 6 月，于山地谷地寻找白色小花排成细长下垂总状花序的樱树。"
+    }
+  },
+  "Pulsatilla cernua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オキナグサ。キンポウゲ科の多年草で、日当たりのよい草地や土手に生える。春、うつむいた暗赤紫色の鐘状の花を咲かせ、全体が白い長い毛におおわれる。花のあと、白い綿毛のある果実の集まりが老人の白髪を思わせるのが名の由来。有毒で、近年は各地で減少している。",
+      "habitat_hint": "日当たりのよい草地、土手、河原、火山灰地。",
+      "finding_tips": "4〜5月、草地や土手で白い毛におおわれ、うつむいた暗赤紫の花を探します。花後は白い綿毛の果実に。"
+    },
+    "en": {
+      "summary": "Okina-gusa, the narrow-leaf pasque-flower (Pulsatilla cernua). A perennial of sunny grassland and banks; in spring it bears nodding, dark red-purple bell-shaped flowers and is clothed in long white hairs. After flowering the plumed white fruiting heads suggest an old man's white hair, hence the name. It is poisonous and has declined in many areas.",
+      "habitat_hint": "Sunny grassland, banks, riverbanks, volcanic-ash ground.",
+      "finding_tips": "In April–May look on grassland and banks for the white-haired plant with nodding dark red-purple flowers, later replaced by plumed white fruiting heads."
+    },
+    "zh": {
+      "summary": "朝鲜白头翁（オキナグサ，Pulsatilla cernua）。毛茛科多年生草本，生于向阳草地及土坡；春季开下垂暗红紫色钟状花，全株密被白色长毛，花后白色羽状果序似老人白发（故名），有毒，近年各地减少。",
+      "habitat_hint": "向阳草地、土坡、河滩、火山灰地。",
+      "finding_tips": "4 至 5 月，于草地土坡寻找密被白毛、花下垂暗红紫的植株，花后成白色羽状果序。"
+    }
+  },
+  "Sedum subtile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメレンゲ（コマンネングサ）。ベンケイソウ科マンネングサ属の小さな多年草で、山地の湿った岩場や渓流沿いの岩上に生える。多肉質の細い葉をもち、初夏に黄色い星形の小花を咲かせる。日本固有種。",
+      "habitat_hint": "山地の湿った岩場、渓流沿いの岩上、湿った崖。",
+      "finding_tips": "5〜6月、渓流沿いの湿った岩で多肉質の細い葉と黄色い星形の小花を探します。"
+    },
+    "en": {
+      "summary": "Hime-renge (Sedum subtile). A small perennial stonecrop of damp montane rocks and streamside boulders; it has fleshy narrow leaves and, in early summer, small yellow star-shaped flowers. It is endemic to Japan.",
+      "habitat_hint": "Damp montane rocks, streamside boulders, wet cliffs.",
+      "finding_tips": "In May–June look on damp streamside rocks for the fleshy narrow leaves and small yellow star-shaped flowers."
+    },
+    "zh": {
+      "summary": "细小景天（ヒメレンゲ，Sedum subtile）。景天科景天属小型多年生草本，生于山地湿润岩场及溪流沿岸岩石；叶肉质而细，初夏开黄色星状小花，为日本特有种。",
+      "habitat_hint": "山地湿润岩场、溪流沿岸岩石、湿润崖壁。",
+      "finding_tips": "5 至 6 月，于溪流沿岸湿润岩石寻找肉质细叶及黄色星状小花。"
+    }
   }
 }
