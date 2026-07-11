@@ -241776,5 +241776,510 @@
       "habitat_hint": "稻田、休耕田、湿润路旁、农田、水渠边。",
       "finding_tips": "夏至秋于稻田及湿润路旁寻找展开多数丝状分枝、密生小穗的纤细禾草。"
     }
+  },
+  "Leptostegna tenerata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carpet moth",
+    "ja": {
+      "summary": "アオナミシャク。シャクガ科ナミシャク亜科のガで、平地〜山地の樹林や林縁、渓流沿いの林に見られる。翅は淡い青緑色〜緑色で、細い波状の横線が入る。緑色が特徴的な美しいナミシャク。幼虫はシャクトリムシ。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、渓流沿いの林。",
+      "finding_tips": "春〜夏、灯火で淡い青緑色に細い波状横線のあるナミシャクを探します。"
+    },
+    "en": {
+      "summary": "Ao-namishaku (Leptostegna tenerata), a carpet moth. A geometer moth of the Larentiinae found in lowland to montane woodland, edges and streamside woods; the wings are pale blue-green to green with fine wavy cross-lines, a beautiful green-tinted carpet moth. The larva is an inchworm, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, streamside woods.",
+      "finding_tips": "From spring to summer look at lights for the pale blue-green carpet moth with fine wavy cross-lines."
+    },
+    "zh": {
+      "summary": "アオナミシャク（Leptostegna tenerata）。尺蛾科波尺蛾亚科的一种蛾，见于平地至山地林地、林缘及溪流沿林；翅淡青绿至绿、具细波状横线，为带绿色的美丽波尺蛾，幼虫为尺蠖，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、溪流沿林。",
+      "finding_tips": "春至夏于灯下寻找淡青绿、具细波状横线的波尺蛾。"
+    }
+  },
+  "Leptura dimorpha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flower longhorn",
+    "ja": {
+      "summary": "ムネアカクロハナカミキリ。カミキリムシ科ハナカミキリの仲間の甲虫で、山地の林縁や花の上に見られる。体は黒く、胸部（前胸）が赤い（胸赤）のが名の由来。初夏〜夏、ノリウツギやセリ科などの白い花に集まって花粉や蜜を食べる。幼虫は枯れ木の材を食べる。",
+      "habitat_hint": "山地の林縁、花の上（ノリウツギ・セリ科など）、伐採地。",
+      "finding_tips": "初夏〜夏、山地の白い花の上で黒く胸部が赤いハナカミキリを探します。"
+    },
+    "en": {
+      "summary": "Muneaka-kuro-hanakamikiri (Leptura dimorpha), a flower longhorn. A flower longhorn beetle (Cerambycidae, Lepturinae) found on montane woodland edges and flowers; the body is black with a red thorax (prothorax), source of the name. In early summer to summer it gathers on white flowers such as hydrangea and umbellifers to feed on pollen and nectar, while the larva bores in dead wood.",
+      "habitat_hint": "Montane woodland edges, on flowers (hydrangea, umbellifers), logging sites.",
+      "finding_tips": "From early summer to summer on montane white flowers look for the black flower longhorn with a red thorax."
+    },
+    "zh": {
+      "summary": "ムネアカクロハナカミキリ（Leptura dimorpha）。天牛科花天牛类甲虫，见于山地林缘及花上；体黑、前胸红（胸赤，故名），初夏至夏聚于绣球、伞形科等白花上取食花粉花蜜，幼虫蛀食枯木。",
+      "habitat_hint": "山地林缘、花上（绣球、伞形科等）、伐地。",
+      "finding_tips": "初夏至夏于山地白花上寻找体黑、前胸红的花天牛。"
+    }
+  },
+  "Leskeodon maibarae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツガゴケ。アオギヌゴケ科に近い小さな蘚類で、樹幹や枝、岩に緑〜黄緑色のマット状に生える。細く這う茎から短い枝を出し、小さな葉をつける。低地〜山地の湿った樹林で樹皮や岩に着生する微小な蘚。ツガ（栂）などの針葉樹の樹幹でも見られる。",
+      "habitat_hint": "樹幹、枝、岩、湿った樹林の木、渓流沿い。",
+      "finding_tips": "一年中、樹幹や岩で緑〜黄緑の細く這うマット状の微小な蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Tsuga-goke (Leskeodon maibarae), a moss. A small moss related to the Brachytheciaceae growing as green to yellow-green mats on tree trunks, branches and rock; thin creeping stems give off short branches with small leaves. A minute epiphytic moss of damp lowland to montane woods, seen on the trunks of conifers such as hemlock.",
+      "habitat_hint": "Tree trunks, branches, rock, damp woodland trees, streamsides.",
+      "finding_tips": "Year-round on trunks and rock use a lens to find the green to yellow-green thin creeping moss mats."
+    },
+    "zh": {
+      "summary": "ツガゴケ（Leskeodon maibarae）。近青藓科小型藓类，于树干、枝及岩成绿至黄绿垫状；细匍匐茎生短枝、小叶，为湿润低地至山地林附生微小藓，铁杉等针叶树干亦可见。",
+      "habitat_hint": "树干、枝条、岩石、湿润林木、溪流沿岸。",
+      "finding_tips": "全年于树干及岩石用放大镜寻找绿至黄绿、细匍匐的微小藓垫。"
+    }
+  },
+  "Lespedeza inschanica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カラメドハギ。マメ科ハギ属の多年草（または半低木）で、日当たりのよい草地、道ばた、河原、やせた斜面に生える。細い茎が立ち、3小葉の細長い葉をつける。夏〜秋、葉のわきに白っぽい〜淡黄色の小さな蝶形の花を咲かせる。メドハギに近い仲間で、大陸系。",
+      "habitat_hint": "日当たりのよい草地、道ばた、河原、やせた斜面。",
+      "finding_tips": "夏〜秋、日当たりのよい草地で細い茎と3小葉の細長い葉、葉のわきの白っぽい小さな蝶形の花を探します。"
+    },
+    "en": {
+      "summary": "Karame-dohagi (Lespedeza inschanica). A perennial (or subshrub) of the pea family growing on sunny grassland, roadsides, riverbanks and poor slopes; slender stems stand up with narrow three-leaflet leaves, and in summer to autumn small whitish to pale-yellow pea-flowers appear in the leaf axils. A continental relative of the sericea lespedeza.",
+      "habitat_hint": "Sunny grassland, roadsides, riverbanks, poor slopes.",
+      "finding_tips": "From summer to autumn in sunny grassland look for the slender stems with narrow three-leaflet leaves and small whitish pea-flowers in the axils."
+    },
+    "zh": {
+      "summary": "阴山胡枝子（カラメドハギ，Lespedeza inschanica）。豆科胡枝子属多年生草本（或半灌木），生于向阳草地、路旁、河滩及瘠坡；细茎直立、三小叶狭长，夏至秋叶腋开偏白至淡黄小蝶形花，为近截叶铁扫帚的大陆类群。",
+      "habitat_hint": "向阳草地、路旁、河滩、瘠坡。",
+      "finding_tips": "夏至秋于向阳草地寻找细茎、三小叶狭长及叶腋偏白小蝶形花。"
+    }
+  },
+  "Ligularia fischeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fischer's ragwort",
+    "aliases": {
+      "zh-Hans": "蹄叶橐吾"
+    },
+    "ja": {
+      "summary": "オタカラコウ。キク科メタカラコウ属の大型の多年草で、山地の谷沿いや沢沿いの湿った草地、湿った林縁、水辺に生える。大きな腎臓形（ふき状）の葉を根ぎわにつけ、夏〜秋、高い花茎に黄色い頭花を穂状に多数咲かせる。メタカラコウより大型。しばしば群生する。",
+      "habitat_hint": "山地の谷沿い、沢沿いの湿った草地、湿った林縁、水辺。",
+      "finding_tips": "7〜9月、山地の沢沿いの湿った草地で大きな腎臓形の葉と、高い花茎に穂状につく黄色い頭花を探します。"
+    },
+    "en": {
+      "summary": "Otakarakō, Fischer's ragwort (Ligularia fischeri). A large perennial of the daisy family growing on damp grassland, damp woodland edges and waterside along montane valleys and streams; large kidney-shaped (butterbur-like) leaves rise from the base, and in summer to autumn a tall stalk bears many yellow heads in a spike. Larger than L. stenocephala, it often grows in colonies.",
+      "habitat_hint": "Montane valleys, damp streamside grassland, damp woodland edges, waterside.",
+      "finding_tips": "From July to September on damp montane streamside grassland look for the large kidney-shaped leaves and tall stalks with spikes of yellow heads."
+    },
+    "zh": {
+      "summary": "蹄叶橐吾（オタカラコウ，Ligularia fischeri）。菊科橐吾属大型多年生草本，生于山地谷地、沟谷湿润草地、湿润林缘及水边；基生叶大、肾形（似蜂斗菜），夏至秋高花葶穗状多生黄色头状花，较近种大，常成片。",
+      "habitat_hint": "山地谷地、沟谷湿润草地、湿润林缘、水边。",
+      "finding_tips": "7 至 9 月于山地沟谷湿润草地寻找肾形大叶及高葶穗状黄色头状花。"
+    }
+  },
+  "Linaria bipartita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムラサキウンラン（ヒメキンギョソウ）。オオバコ科（旧ゴマノハグサ科）ウンラン属の一年草で、地中海地方原産の観賞植物。庭や花壇に植えられ、道ばたや荒れ地に野生化もする。細い茎に細長い葉をつけ、春〜初夏、紫色〜青紫色の小さな金魚草（キンギョソウ）に似た花を穂状に咲かせる。花の後ろに距がある。",
+      "habitat_hint": "庭、花壇（植栽）、道ばた、荒れ地に野生化。",
+      "finding_tips": "4〜6月、庭や花壇、道ばたで紫色の小さなキンギョソウ状の花を穂状につける細い草を探します。"
+    },
+    "en": {
+      "summary": "Murasaki-unran, the clovenlip toadflax (Linaria bipartita). An annual of the plantain family (former figwort family) native to the Mediterranean, an ornamental planted in gardens and beds and naturalized on roadsides and waste ground; slender stems bear narrow leaves and, in spring to early summer, spikes of small purple to blue-purple snapdragon-like flowers with a spur behind.",
+      "habitat_hint": "Gardens, flower beds (planted); naturalized on roadsides and waste ground.",
+      "finding_tips": "From April to June in gardens and on roadsides look for the slender plant with spikes of small purple snapdragon-like flowers."
+    },
+    "zh": {
+      "summary": "小龙口花（ムラサキウンラン，Linaria bipartita）。车前科（旧玄参科）柳穿鱼属一年生草本，原产地中海的观赏植物，栽于庭园花坛，路旁荒地亦逸生；细茎生狭叶，春至初夏穗状开紫至青紫色似金鱼草小花、后具距。",
+      "habitat_hint": "庭园、花坛（栽培）；路旁、荒地逸生。",
+      "finding_tips": "4 至 6 月于庭园花坛及路旁寻找穗状紫色似金鱼草小花的细草。"
+    }
+  },
+  "Lindsaea bonii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シンエダウチホングウシダ。ホングウシダ科ホングウシダ属のシダで、暖地の湿った林床や渓流沿い、湿った斜面に生える。羽状の葉が枝分かれし、羽片は扇形〜くさび形をとる。常緑性で、湿った日陰を好む。南日本の暖地に分布する。しばしば群生する。",
+      "habitat_hint": "暖地の湿った林床、渓流沿い、湿った斜面。",
+      "finding_tips": "一年中、暖地の湿った林床で枝分かれする羽状の葉と扇形〜くさび形の羽片をもつシダを探します。"
+    },
+    "en": {
+      "summary": "Shin-edauchi-hongū-shida (Lindsaea bonii), a fern. A fern of the Lindsaeaceae growing on damp forest floor, streamsides and damp slopes in warm regions; the pinnate fronds are branched, with fan- to wedge-shaped pinnae. Evergreen, it favours damp shade and is distributed in warm southern Japan, often growing in colonies.",
+      "habitat_hint": "Warm-region damp forest floor, streamsides, damp slopes.",
+      "finding_tips": "Year-round on warm-region damp forest floor look for the fern with branched pinnate fronds and fan- to wedge-shaped pinnae."
+    },
+    "zh": {
+      "summary": "シンエダウチホングウシダ（Lindsaea bonii）。鳞始蕨科鳞始蕨属蕨类，生于暖地湿润林床、溪流沿岸及湿坡；羽状叶分枝，羽片扇形至楔形，常绿、喜湿荫，分布南日本暖地，常成片。",
+      "habitat_hint": "暖地湿润林床、溪流沿岸、湿坡。",
+      "finding_tips": "全年于暖地湿润林床寻找分枝羽状叶、羽片扇至楔形的蕨。"
+    }
+  },
+  "Lindsaea javanensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サンカクホングウシダ。ホングウシダ科ホングウシダ属のシダで、暖地の湿った林床や渓流沿い、湿った岩に生える。羽片が三角形（さんかく）状をとることが名の由来。常緑性で、細い羽状の葉をもち、湿った日陰を好む。南西諸島などの暖地に分布する。",
+      "habitat_hint": "暖地の湿った林床、渓流沿い、湿った岩、谷沿い。",
+      "finding_tips": "一年中、暖地の湿った林床や渓流沿いで、三角形状の羽片をもつ細い羽状の葉のシダを探します。"
+    },
+    "en": {
+      "summary": "Sankaku-hongū-shida (Lindsaea javanensis), a fern. A fern of the Lindsaeaceae growing on damp forest floor, streamsides and damp rock in warm regions; the triangular pinnae give the Japanese name. Evergreen, with slender pinnate fronds, it favours damp shade and is distributed in warm regions such as the Ryukyu Islands.",
+      "habitat_hint": "Warm-region damp forest floor, streamsides, damp rock, valleys.",
+      "finding_tips": "Year-round on warm-region damp forest floor and streamsides look for the fern with slender pinnate fronds and triangular pinnae."
+    },
+    "zh": {
+      "summary": "サンカクホングウシダ（Lindsaea javanensis）。鳞始蕨科鳞始蕨属蕨类，生于暖地湿润林床、溪流沿岸及湿岩；羽片三角形（故名），常绿、叶细羽状，喜湿荫，分布琉球等暖地。",
+      "habitat_hint": "暖地湿润林床、溪流沿岸、湿岩、谷地。",
+      "finding_tips": "全年于暖地湿润林床及溪流沿岸寻找羽片三角形、细羽状叶的蕨。"
+    }
+  },
+  "Loeskeobryum cavifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フトリュウビゴケ。イワダレゴケの仲間の大型の蘚類で、山地〜亜高山の湿った林床の土や腐木、岩、樹の根元に緑〜黄緑色のマット状に群生する。太い茎から枝を規則的に出し、葉がくぼんで（凹葉）舟形になるのが特徴。冷涼で湿った林でよく見られる。",
+      "habitat_hint": "山地〜亜高山の湿った林床の土、腐木、岩、樹の根元。",
+      "finding_tips": "一年中、山地の湿った林床で太い茎から枝を規則的に出す緑〜黄緑の大型のマット状の蘚を探します。"
+    },
+    "en": {
+      "summary": "Futo-ryūbi-goke (Loeskeobryum cavifolium), a moss. A large moss related to the Hylocomiaceae growing as green to yellow-green mats on damp forest-floor soil, rotten wood, rock and tree bases in montane to subalpine zones; stout stems give off branches regularly, and the concave (hollow) leaves are boat-shaped. Common in cool, damp woods.",
+      "habitat_hint": "Montane to subalpine damp forest-floor soil, rotten wood, rock, tree bases.",
+      "finding_tips": "Year-round on damp montane forest floor look for the large green to yellow-green moss with stout stems branching regularly."
+    },
+    "zh": {
+      "summary": "フトリュウビゴケ（Loeskeobryum cavifolium）。塔藓近类大型藓类，于山地至亚高山湿润林床土、腐木、岩及树基成绿至黄绿垫状群落；粗茎规则分枝，叶凹陷呈舟形，常见于冷凉湿润林。",
+      "habitat_hint": "山地至亚高山湿润林床土、腐木、岩、树基。",
+      "finding_tips": "全年于山地湿润林床寻找粗茎规则分枝、绿至黄绿的大型藓垫。"
+    }
+  },
+  "Lottia langfordi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Limpet",
+    "ja": {
+      "summary": "キクコザラ。ユキノカサガイ科のカサガイ（笠状の巻貝）で、岩礁海岸の潮間帯の岩にはりついてすむ。殻は低い笠形で、放射状のうね（肋）が菊（きく）の花のように並ぶことが名の由来。褐色〜暗色の模様がある。岩についた藻類を削り取って食べ、決まった場所（ホームスカー）に戻る。",
+      "habitat_hint": "岩礁海岸の潮間帯の岩、転石帯、防波堤。",
+      "finding_tips": "干潮時、磯の岩で放射状のうねが菊の花状に並ぶ低い笠形のカサガイを探します。"
+    },
+    "en": {
+      "summary": "Kiku-kozara (Lottia langfordi), a limpet. A limpet of the Lottiidae clinging to intertidal rock on rocky shores; the low conical shell has radial ribs arranged like a chrysanthemum flower, source of the name, with brown to dark markings. It scrapes algae from the rock and returns to a fixed home scar.",
+      "habitat_hint": "Rocky-shore intertidal rock, cobble beds, breakwaters.",
+      "finding_tips": "At low tide on rocky-shore boulders look for the low conical limpet with radial ribs arranged like a chrysanthemum."
+    },
+    "zh": {
+      "summary": "キクコザラ（Lottia langfordi）。花帽贝科笠状螺类，附着于岩礁海岸潮间带岩面；壳低笠形，放射肋排列如菊花（故名），具褐至暗色纹，刮食岩上藻类并具归巢（固定居痕）习性。",
+      "habitat_hint": "岩礁海岸潮间带岩面、卵石带、防波堤。",
+      "finding_tips": "退潮时于岩礁岩面寻找放射肋如菊花状排列的低笠形帽贝。"
+    }
+  },
+  "Lutjanus argentimaculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mangrove red snapper",
+    "aliases": {
+      "zh-Hans": "紫红笛鲷"
+    },
+    "ja": {
+      "summary": "ゴマフエダイ。フエダイ科の大型の魚で、南日本の河口やマングローブ、汽水域、内湾の岩礁にすむ。体は赤褐色〜暗赤色で、体側に淡い斑（ごま）が並ぶ。幼魚〜若魚は河口やマングローブの汽水域で育ち、成魚は沿岸の岩礁に移る。肉食性で、小魚や甲殻類を食べる。食用にされる。",
+      "habitat_hint": "南日本の河口、マングローブ、汽水域、内湾の岩礁。",
+      "finding_tips": "南日本の河口やマングローブの汽水域で、赤褐色で体側に淡い斑のある大きめの魚を探します。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Goma-fuedai, the mangrove red snapper (Lutjanus argentimaculatus). A large fish of the Lutjanidae living in estuaries, mangroves, brackish water and inshore reefs of southern Japan; the body is reddish-brown to dark red with rows of pale spots on the flanks. Young fish grow up in estuarine and mangrove brackish water and adults move to coastal reefs. Carnivorous, it eats small fish and crustaceans and is eaten.",
+      "habitat_hint": "Southern-Japan estuaries, mangroves, brackish water, inshore reefs.",
+      "finding_tips": "In southern-Japan estuaries and mangrove brackish water look for the largish reddish-brown fish with pale spots on the flanks."
+    },
+    "zh": {
+      "summary": "紫红笛鲷（ゴマフエダイ，Lutjanus argentimaculatus）。笛鲷科大型鱼，栖于南日本河口、红树林、半咸水及内湾岩礁；体红褐至暗红、体侧具一列淡斑，幼鱼在河口红树林半咸水成长、成鱼移至沿岸岩礁，肉食取食小鱼甲壳类，供食。",
+      "habitat_hint": "南日本河口、红树林、半咸水、内湾岩礁。",
+      "finding_tips": "于南日本河口及红树林半咸水寻找红褐、体侧具淡斑的较大鱼。"
+    }
+  },
+  "Luzula oligantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Woodrush",
+    "ja": {
+      "summary": "タカネスズメノヒエ。イグサ科スズメノヤリ属（スズメノヒエではなくイグサ科）の多年草で、高山や亜高山の草地、礫地、風衝草地、雪田周辺に生える。細い葉の縁に白い長い毛がある。夏、茎の先に褐色の小さな花を頭状〜穂状にまばらに集めてつける。北方系・高山性の小さな草。",
+      "habitat_hint": "高山や亜高山の草地、礫地、風衝草地、雪田周辺。",
+      "finding_tips": "夏、高山の草地や礫地で葉の縁に白い長い毛があり、褐色の小さな花をまばらにつける小さな草を探します。"
+    },
+    "en": {
+      "summary": "Takane-suzume-no-hie (Luzula oligantha), a woodrush. A perennial of the rush family (a woodrush, not a true panicgrass) growing in alpine and subalpine grassland, gravel, wind-swept grassland and snow-patch margins; the narrow leaves have long white marginal hairs. In summer it bears small brown flowers gathered sparsely into heads or spikes at the stem tips. A small northern, alpine plant.",
+      "habitat_hint": "Alpine and subalpine grassland, gravel, wind-swept grassland, snow-patch margins.",
+      "finding_tips": "In summer in alpine grassland and gravel look for the small plant with white-haired leaf margins and sparse small brown flower heads."
+    },
+    "zh": {
+      "summary": "タカネスズメノヒエ（Luzula oligantha）。灯心草科地杨梅属多年生草本，生于高山及亚高山草地、砾地、当风草地及雪田周边；叶缘具白色长毛，夏于茎顶疏生褐色小花成头状至穗状，为北方高山小草。",
+      "habitat_hint": "高山及亚高山草地、砾地、当风草地、雪田周边。",
+      "finding_tips": "夏于高山草地砾地寻找叶缘具白长毛、疏生褐色小花的小草。"
+    }
+  },
+  "Macaria liturata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tawny-barred angle",
+    "ja": {
+      "summary": "チャオビオエダシャク。シャクガ科エダシャク亜科のガで、平地〜山地の針葉樹林や樹林、林縁に見られる。翅は灰褐色で、茶色（ちゃいろ）の帯（茶帯）が横に走り、翅の外角がやや角ばる。幼虫はマツなどの針葉樹の葉を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の針葉樹林、樹林、林縁。",
+      "finding_tips": "春〜夏、灯火で灰褐色に茶色の帯があり外角の角ばったエダシャクを探します。"
+    },
+    "en": {
+      "summary": "Chaobi-o-edashaku, the tawny-barred angle (Macaria liturata). A geometer moth of the Ennominae found in lowland to montane conifer forest, woodland and edges; the wings are grey-brown with a tawny (brown) band and a somewhat angled outer margin. The larva feeds on the needles of pine and other conifers, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane conifer forest, woodland, edges.",
+      "finding_tips": "From spring to summer look at lights for the grey-brown geometer with a tawny band and an angled wing margin."
+    },
+    "zh": {
+      "summary": "チャオビオエダシャク（Macaria liturata）。尺蛾科尺蛾亚科的一种蛾，见于平地至山地针叶林、林地及林缘；翅灰褐、具茶色横带、外缘略成角，幼虫食松等针叶，成虫夜间趋光。",
+      "habitat_hint": "平地至山地针叶林、林地、林缘。",
+      "finding_tips": "春至夏于灯下寻找灰褐、具茶色带、外缘成角的尺蛾。"
+    }
+  },
+  "Macromitrium japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミノゴケ。タチヒダゴケ科の蘚類で、樹幹や枝、まれに岩に緑〜黄緑色〜褐色のマット状に着生する。乾くと葉が縮れて巻き込み、蓑（みの）のように見えることが名の由来ともいわれる。胞子体の帽（さくの覆い）に毛が生える。低地〜山地の樹林で樹皮に着生し、都市の木でも見られる。",
+      "habitat_hint": "樹幹、枝、まれに岩、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹や枝で乾くと縮れる緑〜褐色のマット状の蘚と、毛の生えた帽をもつ胞子体をルーペで探します。"
+    },
+    "en": {
+      "summary": "Mino-goke (Macromitrium japonicum), a moss. A moss of the Orthotrichaceae growing epiphytically as green to yellow-green to brown mats on tree trunks, branches and rarely rock; the leaves curl and crisp when dry, and the calyptra (spore-capsule cap) is hairy. It grows on bark in lowland to montane woods, seen even on urban trees.",
+      "habitat_hint": "Tree trunks, branches, rarely rock, park and shrine trees.",
+      "finding_tips": "Year-round on trunks and branches use a lens to find the green to brown moss mats that curl when dry, with a hairy calyptra on the spore capsules."
+    },
+    "zh": {
+      "summary": "钝叶蓑藓（ミノゴケ，Macromitrium japonicum）。木灵藓科藓类，附生于树干、枝及偶见岩石，成绿至黄绿至褐色垫状；干时叶卷缩、似蓑衣（或为名之由来），孢蒴帽被毛，生于低地至山地林树皮，城市树木亦可见。",
+      "habitat_hint": "树干、枝条、偶见岩石、公园及神社寺庙树木。",
+      "finding_tips": "全年于树干枝条用放大镜寻找干时卷缩、孢蒴帽被毛的绿至褐藓垫。"
+    }
+  },
+  "Mactra maculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Trough shell",
+    "ja": {
+      "summary": "リュウキュウバカガイ。バカガイ科の二枚貝で、南日本の内湾や浅い海の砂底、砂泥底に浅く潜ってすむ。殻は三角形に近い卵形で膨らみ、白っぽい地に褐色のまだら（斑）模様がある。バカガイ（青柳）の仲間で、暖地に分布する。長い水管を伸ばし、ろ過してプランクトンを食べる。",
+      "habitat_hint": "南日本の内湾や浅い海の砂底、砂泥底、干潟のふち。",
+      "finding_tips": "干潮時や打ち上げで、白っぽい地に褐色のまだら模様のある三角状に近い膨らんだ二枚貝の殻を探します。"
+    },
+    "en": {
+      "summary": "Ryūkyū-bakagai (Mactra maculata), a trough shell. A bivalve of the Mactridae living shallowly buried in sandy and sandy-mud bottoms of bays and shallow seas in southern Japan; the shell is a swollen, nearly triangular oval, whitish with brown mottling. A trough-shell relative of warm regions, it extends long siphons and filter-feeds on plankton.",
+      "habitat_hint": "Southern-Japan bay and shallow-sea sandy and sandy-mud bottoms, tidal-flat margins.",
+      "finding_tips": "At low tide or as beach drift look for the swollen, nearly triangular whitish bivalve with brown mottling."
+    },
+    "zh": {
+      "summary": "リュウキュウバカガイ（Mactra maculata）。蛤蜊科双壳类，浅埋于南日本内湾及浅海砂底、砂泥底；壳近三角卵形而膨，偏白具褐色斑纹，为暖地的蛤蜊类，伸长水管滤食浮游生物。",
+      "habitat_hint": "南日本内湾及浅海砂底、砂泥底、滩涂边缘。",
+      "finding_tips": "退潮或冲积带寻找近三角、膨大、偏白具褐斑的双壳贝壳。"
+    }
+  },
+  "Maladera secreta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chafer beetle",
+    "ja": {
+      "summary": "マルガタビロウドコガネ。コガネムシ科ビロウドコガネの仲間の小さな甲虫で、平地〜山地の草地、林縁、畑、庭に見られる。体は丸みをおびた卵形で、黒褐色〜褐色、表面が短い毛におおわれてビロード（天鵞絨）のような質感がある。成虫は植物の葉を、幼虫は土中で植物の根を食べる。",
+      "habitat_hint": "平地〜山地の草地、林縁、畑、庭、農地。",
+      "finding_tips": "初夏〜夏、草地や畑で丸っこく黒褐色でビロード状の毛におおわれた小さなコガネムシを探します。"
+    },
+    "en": {
+      "summary": "Marugata-birōdo-kogane (Maladera secreta), a chafer beetle. A small scarab beetle of the velvety chafers found in lowland to montane grassland, edges, fields and gardens; the rounded oval body is blackish-brown to brown and clothed in short hairs giving a velvety texture. Adults eat plant leaves and larvae eat plant roots in the soil.",
+      "habitat_hint": "Lowland to montane grassland, edges, fields, gardens, farmland.",
+      "finding_tips": "From early summer to summer in grassland and fields look for the small rounded blackish-brown velvety chafer."
+    },
+    "zh": {
+      "summary": "阔胫码绢金龟（マルガタビロウドコガネ，Maladera secreta）。金龟科绢金龟类小型甲虫，见于平地至山地草地、林缘、农田及庭园；体卵圆而丰满、黑褐至褐、被短毛似天鹅绒，成虫食叶、幼虫在土中食根。",
+      "habitat_hint": "平地至山地草地、林缘、农田、庭园、农地。",
+      "finding_tips": "初夏至夏于草地农田寻找圆润、黑褐、被绒毛的小金龟。"
+    }
+  },
+  "Malva pusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガエアオイ。アオイ科ゼニアオイ属の一〜越年草で、ヨーロッパ〜アジア原産の帰化植物。道ばたや荒れ地、畑、河原に生える。丸みのある浅く切れ込む葉をつけ、春〜夏、葉のわきに白っぽい〜淡紅色の小さな花を長い柄の先に咲かせる。ゼニアオイの仲間で、花柄が長い（長柄）のが名の由来。",
+      "habitat_hint": "道ばた、荒れ地、畑、河原、造成地。",
+      "finding_tips": "春〜夏、道ばたや荒れ地で丸い葉と、長い柄の先に咲く白っぽい小さな花をもつアオイの仲間を探します。"
+    },
+    "en": {
+      "summary": "Nagae-aoi, the low mallow (Malva pusilla). An annual to biennial of the mallow family native to Europe and Asia, naturalized on roadsides, waste ground, fields and riverbanks; it has rounded, shallowly lobed leaves and, in spring to summer, small whitish to pale-pink flowers on long stalks in the leaf axils. The long flower-stalks give the Japanese name ('long-stalked mallow').",
+      "habitat_hint": "Roadsides, waste ground, fields, riverbanks, developed sites.",
+      "finding_tips": "From spring to summer on roadsides and waste ground look for the mallow with rounded leaves and small whitish flowers on long stalks."
+    },
+    "zh": {
+      "summary": "圆叶锦葵（ナガエアオイ，Malva pusilla）。锦葵科锦葵属一至越年生草本，原产欧亚，归化于路旁、荒地、农田及河滩；叶圆而浅裂，春至夏叶腋于长梗上开偏白至淡红小花，因花梗长（长柄）得名。",
+      "habitat_hint": "路旁、荒地、农田、河滩、造地。",
+      "finding_tips": "春至夏于路旁荒地寻找圆叶及长梗上偏白小花的锦葵类。"
+    }
+  },
+  "Mannia fragrans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤコゼニゴケ。ゼニゴケの仲間の葉状の苔類で、日当たりのよいやや乾いた土や岩の上、石灰岩地、崖の土に緑色の平たい葉状体をつくって生える。もむと芳香を放つことが特徴。乾燥に比較的強く、明るい環境を好む。ゼニゴケに似るが小型で、しばしば密に群生する。",
+      "habitat_hint": "日当たりのよいやや乾いた土や岩、石灰岩地、崖の土。",
+      "finding_tips": "湿った時期、日当たりのよい土や岩の上で、緑色の平たい葉状体をつくる小さな苔を探します。もむと香りがあります。"
+    },
+    "en": {
+      "summary": "Miyako-zeni-goke, the fragrant macewort (Mannia fragrans). A thallose liverwort growing as flat green thalli on sunny, somewhat dry soil and rock, limestone ground and cliff soil; it is fragrant when crushed. Relatively drought-tolerant and favouring bright places, it resembles the crystalwort but is small and often grows in dense patches.",
+      "habitat_hint": "Sunny, somewhat dry soil and rock, limestone ground, cliff soil.",
+      "finding_tips": "In wet periods on sunny soil and rock look for the small liverwort of flat green thalli; it is fragrant when crushed."
+    },
+    "zh": {
+      "summary": "无隔疣冠苔（ミヤコゼニゴケ，Mannia fragrans）。地钱近类的叶状苔类，于向阳略干的土、岩、石灰岩地及崖土形成绿色扁平叶状体，揉之有香气，较耐旱、喜明亮环境，似地钱而小、常密集成片。",
+      "habitat_hint": "向阳略干的土与岩、石灰岩地、崖土。",
+      "finding_tips": "湿润期于向阳土岩上寻找绿色扁平叶状体的小苔，揉之有香。"
+    }
+  },
+  "Marsdenia tinctoria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ソメモノカズラ。キョウチクトウ科（旧ガガイモ科）キジョラン属に近いつる性の木本で、南西諸島などの暖地の照葉樹林や林縁に生える。つるを他の木にからませて登り、革質の葉を対につける。夏、白っぽい小さな花を集めて咲かせる。葉が藍（あい）に似た青い染料の原料にされたことが名の由来。",
+      "habitat_hint": "南西諸島などの暖地の照葉樹林、林縁、谷沿い。",
+      "finding_tips": "夏、暖地の照葉樹林の林縁でつる性の茎と革質の対生の葉、白っぽい小さな花の集まりを探します。"
+    },
+    "en": {
+      "summary": "Somemono-kazura (Marsdenia tinctoria). A woody climber of the dogbane family (former milkweed family) growing on warm-region evergreen broadleaf forest and edges such as the Ryukyu Islands; it climbs by twining over other trees with leathery opposite leaves. In summer it bears clusters of small whitish flowers. The leaves were used to make a blue (indigo-like) dye, source of the Japanese name ('dyeing vine').",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, edges, valleys (Ryukyu etc.).",
+      "finding_tips": "In summer on warm-region evergreen-forest edges look for the woody climber with leathery opposite leaves and clusters of small whitish flowers."
+    },
+    "zh": {
+      "summary": "蓝叶藤（ソメモノカズラ，Marsdenia tinctoria）。夹竹桃科（旧萝藦科）牛奶菜属木质藤本，生于琉球等暖地照叶林及林缘；缠绕他树攀援、叶革质对生，夏簇生偏白小花，叶曾作蓝色（似靛蓝）染料原料（故名染物藤）。",
+      "habitat_hint": "琉球等暖地照叶林、林缘、谷地。",
+      "finding_tips": "夏于暖地照叶林林缘寻找缠绕木质茎、革质对生叶及偏白小花簇。"
+    }
+  },
+  "Megachile humilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafcutter bee",
+    "ja": {
+      "summary": "スミスハキリバチ。ハキリバチ科のハナバチで、平地〜山地の草地、林縁、庭、花の上に見られる。体は黒っぽく、腹の裏に花粉を運ぶ毛（腹面の花粉刷毛）がある。葉を円く切り取って巣の材料にする（葉切り）ことが名の由来。竹筒や既存の穴に営巣する。花を訪れる送粉者で、めったに刺さない。",
+      "habitat_hint": "平地〜山地の草地、林縁、庭、農地、竹筒や穴のある環境。",
+      "finding_tips": "初夏〜夏、花の上で黒っぽく腹の裏に花粉をつけたハナバチを探します。葉が円く切り取られていたら近くにいます。"
+    },
+    "en": {
+      "summary": "Smith-hakiribachi (Megachile humilis), a leafcutter bee. A bee of the Megachilidae found in lowland to montane grassland, edges, gardens and on flowers; the body is blackish, carrying pollen on brushes under the abdomen. It cuts circular pieces of leaf to line its nest, source of the name, nesting in bamboo tubes and existing cavities. A flower-visiting pollinator that rarely stings.",
+      "habitat_hint": "Lowland to montane grassland, edges, gardens, farmland, bamboo tubes and cavities.",
+      "finding_tips": "From early summer to summer on flowers look for the blackish bee carrying pollen under its abdomen; circular leaf cut-outs nearby signal its presence."
+    },
+    "zh": {
+      "summary": "スミスハキリバチ（Megachile humilis）。切叶蜂科的蜂，见于平地至山地草地、林缘、庭园及花上；体偏黑，腹面具运粉毛刷，切取圆形叶片衬巢（切叶，故名），于竹筒及现成孔洞筑巢，访花传粉、罕蜇人。",
+      "habitat_hint": "平地至山地草地、林缘、庭园、农田、有竹筒孔洞的环境。",
+      "finding_tips": "初夏至夏于花上寻找腹面带花粉的偏黑蜂；附近叶片被切成圆缺即示其在。"
+    }
+  },
+  "Megalophaedusa proba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Door snail",
+    "ja": {
+      "summary": "ゼイギセル。キセルガイ科の細長い陸生の巻貝で、山地の湿った林床の落ち葉や倒木、樹の根元、石灰岩地の岩の隙間にすむ。殻は細長い塔形で左巻きが多く、煙管（キセル）のような形をとることが科名の由来。殻口に歯状の突起（ひだ）がある。落ち葉や樹皮の藻類・菌類を食べる。",
+      "habitat_hint": "山地の湿った林床の落ち葉や倒木、樹の根元、石灰岩地の岩の隙間。",
+      "finding_tips": "一年中、山地の湿った林床の倒木や樹の根元、石灰岩の岩の隙間で、細長い煙管形の巻貝を探します。"
+    },
+    "en": {
+      "summary": "Zei-giseru (Megalophaedusa proba), a door snail. An elongate land snail of the Clausiliidae living under leaf litter, on logs, at tree bases and in limestone rock crevices on damp montane forest floor; the elongate tower-shaped shell is usually sinistral (left-coiled) and pipe-shaped, source of the family name. The aperture has tooth-like folds. It eats litter and algae/fungi on bark.",
+      "habitat_hint": "Damp montane forest floor under litter and logs, tree bases, limestone rock crevices.",
+      "finding_tips": "Year-round on damp montane forest floor, logs and limestone crevices look for the elongate pipe-shaped land snail."
+    },
+    "zh": {
+      "summary": "ゼイギセル（Megalophaedusa proba）。烟管螺科细长陆生螺，栖于山地湿润林床落叶、倒木、树基及石灰岩缝隙；壳细长塔形、多左旋、形似烟管（科名之由来），壳口具齿状褶，取食落叶及树皮藻类真菌。",
+      "habitat_hint": "山地湿润林床落叶及倒木、树基、石灰岩缝隙。",
+      "finding_tips": "全年于山地湿润林床倒木、树基及石灰岩缝寻找细长烟管形的陆生螺。"
+    }
+  },
+  "Melastoma malabathricum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Indian rhododendron",
+    "aliases": {
+      "zh-Hans": "野牡丹"
+    },
+    "ja": {
+      "summary": "ノボタン。ノボタン科ノボタン属の常緑低木で、南西諸島などの暖地の林縁や草地、日当たりのよい斜面、荒れ地に生える。革質の葉に平行する数本の葉脈が目立つ。夏、枝先に紅紫色〜淡紅色の大きな5弁の花を咲かせ、黄色い雄しべが目立つ。花の後、壺形の果実をつける。南日本の暖地に分布。",
+      "habitat_hint": "南西諸島などの暖地の林縁、草地、日当たりのよい斜面、荒れ地。",
+      "finding_tips": "夏、暖地の林縁で数本の平行脈が目立つ革質の葉と、紅紫色の大きな5弁の花を探します。"
+    },
+    "en": {
+      "summary": "Nobotan, the Indian rhododendron (Melastoma malabathricum). An evergreen shrub of the melastome family growing on warm-region woodland edges, grassland, sunny slopes and waste ground such as the Ryukyu Islands; the leathery leaves have several conspicuous parallel veins. In summer it bears large red-purple to pale-pink five-petalled flowers at the branch tips with prominent yellow stamens, followed by urn-shaped fruits. Distributed in warm southern Japan.",
+      "habitat_hint": "Warm-region woodland edges, grassland, sunny slopes, waste ground (Ryukyu etc.).",
+      "finding_tips": "In summer on warm-region edges look for the leathery parallel-veined leaves and large red-purple five-petalled flowers."
+    },
+    "zh": {
+      "summary": "野牡丹（ノボタン，Melastoma malabathricum）。野牡丹科野牡丹属常绿灌木，生于琉球等暖地林缘、草地、向阳坡及荒地；叶革质、具数条明显平行脉，夏于枝端开红紫至淡红大型五瓣花、黄色雄蕊显著，花后结壶形果，分布南日本暖地。",
+      "habitat_hint": "琉球等暖地林缘、草地、向阳坡、荒地。",
+      "finding_tips": "夏于暖地林缘寻找革质平行脉叶及红紫色大型五瓣花。"
+    }
+  },
+  "Mentha longifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナガバハッカ。シソ科ハッカ属の多年草で、ヨーロッパ〜アジア原産（一部は在来ともされる）。水辺や湿った草地、川岸、道ばた、湿地に生える。四角い茎に細長い葉を対生し、夏、茎の先に淡紫色〜白の小さな花を細長い穂状に密につける。全体にハッカ（ミント）の香りがある。",
+      "habitat_hint": "水辺、湿った草地、川岸、道ばた、湿地。",
+      "finding_tips": "夏、水辺や湿った草地で四角い茎と細長い対生の葉、淡紫色の小花の細長い穂を探します。もむとミントの香り。"
+    },
+    "en": {
+      "summary": "Nagaba-hakka, the horse mint (Mentha longifolia). A perennial of the mint family native to Europe and Asia (partly regarded as native); it grows at waterside, in damp grassland, on riverbanks, roadsides and wetlands. Square stems bear narrow opposite leaves, and in summer small pale-purple to white flowers are densely set in long slender spikes at the stem tips. The whole plant smells of mint.",
+      "habitat_hint": "Waterside, damp grassland, riverbanks, roadsides, wetlands.",
+      "finding_tips": "In summer at waterside and damp grassland look for the square stems, narrow opposite leaves and long slender spikes of small pale-purple flowers; it smells of mint."
+    },
+    "zh": {
+      "summary": "欧薄荷（ナガバハッカ，Mentha longifolia）。唇形科薄荷属多年生草本，原产欧亚（部分视为在来）；生于水边、湿润草地、河岸、路旁及湿地。茎四棱、狭长叶对生，夏于茎顶细长穗状密生淡紫至白色小花，全株有薄荷香。",
+      "habitat_hint": "水边、湿润草地、河岸、路旁、湿地。",
+      "finding_tips": "夏于水边及湿润草地寻找四棱茎、狭长对生叶及淡紫小花的细长花穗，揉之有薄荷香。"
+    }
   }
 }
