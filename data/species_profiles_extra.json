@@ -231543,5 +231543,472 @@
       "habitat_hint": "平地至山地林地、林缘、湿润草地、水边。",
       "finding_tips": "夏于灯下寻找黑色、具小白斑的极小蛾。"
     }
+  },
+  "Berchemia lineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメクマヤナギ。クロウメモドキ科クマヤナギ属の半つる性の落葉低木で、暖地の海岸近くの草地や林縁、荒れ地に生える。細い枝を這わせ、夏に白い小花を咲かせ、秋〜冬に黒く熟す小さな実をつける。クマヤナギより小型。",
+      "habitat_hint": "暖地の海岸近くの草地、林縁、荒れ地、道ばた。",
+      "finding_tips": "夏、暖地の草地で細い枝と白い小花を、秋〜冬には黒い小さな実を探します。"
+    },
+    "en": {
+      "summary": "Hime-kumayanagi (Berchemia lineata), a supplejack. A half-climbing deciduous shrub of the buckthorn family in warm-region coastal grassland, woodland edges and waste ground; it trails slender branches, bears small white flowers in summer and small black fruits ripening in autumn to winter. It is smaller than B. racemosa.",
+      "habitat_hint": "Warm-region coastal grassland, woodland edges, waste ground, roadsides.",
+      "finding_tips": "In summer look in warm-region grassland for the slender branches and small white flowers; small black fruits in autumn to winter."
+    },
+    "zh": {
+      "summary": "铁包金（ヒメクマヤナギ，Berchemia lineata）。鼠李科勾儿茶属半攀援落叶灌木，生于暖地近海草地、林缘及荒地；枝细蔓生，夏开白色小花，秋冬结黑色小果，较多花勾儿茶为小。",
+      "habitat_hint": "暖地近海草地、林缘、荒地、路旁。",
+      "finding_tips": "夏于暖地草地寻找细枝白花，秋冬见黑色小果。"
+    }
+  },
+  "Blyxa echinosperma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スブタ。トチカガミ科スブタ属の水生の一年草で、水田や休耕田、浅い池沼、水路に沈んで生える。細長い葉が根ぎわから束になって出る。夏〜秋、水中〜水面に白い小花を咲かせる。水質のよい水田の指標にもなる。",
+      "habitat_hint": "水田、休耕田、浅い池沼、水路、湿地の浅い水中。",
+      "finding_tips": "夏〜秋、水田や浅い池で根ぎわから束生する細長い沈水葉を探します。"
+    },
+    "en": {
+      "summary": "Subuta (Blyxa echinosperma). A submerged aquatic annual of the frogbit family growing in paddies, fallow paddies, shallow ponds and channels; narrow leaves emerge in a tuft from the base, and in summer to autumn it bears small white flowers at or near the water surface. It indicates clean paddy water.",
+      "habitat_hint": "Paddies, fallow paddies, shallow ponds, channels, shallow wetland water.",
+      "finding_tips": "From summer to autumn look in paddies and shallow ponds for the tufts of narrow submerged leaves rising from the base."
+    },
+    "zh": {
+      "summary": "无尾水筛（スブタ，Blyxa echinosperma）。水鳖科水筛属沉水一年生草本，生于稻田、休耕田、浅池沼及水渠；狭叶自基部丛生，夏至秋于水中至水面开白色小花，为洁净稻田水质指标。",
+      "habitat_hint": "稻田、休耕田、浅池沼、水渠、湿地浅水。",
+      "finding_tips": "夏至秋于稻田及浅池寻找基部丛生的狭长沉水叶。"
+    }
+  },
+  "Callianthe megapotamica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウキツリボク（チロリアンランプ）。アオイ科の常緑つる性低木で、南アメリカ原産の観賞植物。庭や公園に植えられる。細い枝から花を下げ、赤い提灯（ちょうちん）のような萼から黄色い花弁がのぞく独特の花を長期間咲かせる。",
+      "habitat_hint": "庭、公園、フェンスや棚（植栽）、暖地の生垣。",
+      "finding_tips": "ほぼ周年、庭や公園のフェンスで赤い提灯状の萼から黄色い花弁がのぞく下垂した花を探します。"
+    },
+    "en": {
+      "summary": "Uki-tsuri-boku, the trailing abutilon (Callianthe megapotamica). An evergreen climbing shrub of the mallow family, an ornamental native to South America planted in gardens and parks; it hangs distinctive flowers from slender branches, with yellow petals peeping from a red lantern-like calyx over a long season.",
+      "habitat_hint": "Gardens, parks, fences and trellises (planted), warm-region hedges.",
+      "finding_tips": "Nearly year-round look on garden and park fences for the pendent flowers with yellow petals emerging from a red lantern-like calyx."
+    },
+    "zh": {
+      "summary": "红萼苘麻（ウキツリボク，Callianthe megapotamica）。锦葵科常绿攀援灌木，原产南美的观赏植物，栽于庭园及公园；花自细枝下垂，红色灯笼状花萼中露出黄色花瓣，花期极长，颇具特色。",
+      "habitat_hint": "庭园、公园、篱架（栽培）、暖地绿篱。",
+      "finding_tips": "近全年于庭园公园篱架寻找红灯笼萼露黄瓣的下垂花。"
+    }
+  },
+  "Callicladium haldanianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クサゴケ。ハイゴケ科の蘚類で、湿った腐木や倒木、樹の根元、林床にマット状に生える。緑〜黄緑色で光沢があり、枝が羽状に規則正しく並ぶ。低地〜山地の湿った林で普通に見られる。",
+      "habitat_hint": "湿った腐木、倒木、樹の根元、林床、渓流沿い。",
+      "finding_tips": "一年中、湿った腐木や倒木で光沢のある黄緑色の羽状に並ぶ蘚のマットをルーペで探します。"
+    },
+    "en": {
+      "summary": "Kusa-goke, the beautiful branch moss (Callicladium haldanianum). A moss forming glossy mats on damp rotten wood, fallen logs, tree bases and forest floor; it is green to yellow-green with branches arranged regularly in a feathery pattern, common in damp lowland to montane woods.",
+      "habitat_hint": "Damp rotten wood, fallen logs, tree bases, forest floor, streamsides.",
+      "finding_tips": "Year-round use a lens on damp rotten wood and logs to find the glossy yellow-green feathery moss mats."
+    },
+    "zh": {
+      "summary": "腐木藓（クサゴケ，Callicladium haldanianum）。灰藓科藓类，于湿润腐木、倒木、树基及林床成垫状生长；体绿至黄绿而有光泽，枝羽状规则排列，常见于湿润低地至山地林。",
+      "habitat_hint": "湿润腐木、倒木、树基、林床、溪流沿岸。",
+      "finding_tips": "全年用放大镜于湿润腐木倒木寻找有光泽、黄绿羽状的藓垫。"
+    }
+  },
+  "Carex accrescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスイロスゲ。カヤツリグサ科スゲ属の多年草で、山地の湿った林床や林縁、谷沿いに生える。細い葉を根ぎわから出し、春〜初夏、淡い色（薄色）の小穂をつける。スゲの仲間で、果胞（果実を包む袋）の形が同定の手がかりになる。",
+      "habitat_hint": "山地の湿った林床、林縁、谷沿い、やや湿った草地。",
+      "finding_tips": "5〜6月、山地の湿った林床で細い葉と、淡い色の小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Usuiro-suge (Carex accrescens), a sedge. A perennial sedge of damp montane forest floor, edges and valleys; slender leaves rise from the base, and in spring to early summer it bears pale-coloured spikelets. As with other Carex, the shape of the utricle (fruit sac) helps identification.",
+      "habitat_hint": "Damp montane forest floor, edges, valleys, dampish grassland.",
+      "finding_tips": "In May–June look on damp montane forest floor for the slender-leaved sedge with pale-coloured spikelets."
+    },
+    "zh": {
+      "summary": "ウスイロスゲ（Carex accrescens）。莎草科薹草属多年生草本，生于山地湿润林床、林缘及谷地；细叶自基部生出，春至初夏生淡色小穗，果囊形态为鉴别要点。",
+      "habitat_hint": "山地湿润林床、林缘、谷地、略湿草地。",
+      "finding_tips": "5 至 6 月于山地湿润林床寻找细叶、淡色小穗的薹草。"
+    }
+  },
+  "Carex augustinowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒラギシスゲ。カヤツリグサ科スゲ属の多年草で、山地の渓流沿いや川岸、湿った岩場、水辺に生える。根ぎわから細い葉を束生し、春〜初夏に黒褐色を帯びた小穂を数個つける。川岸（平岸）に多いことが名の由来。",
+      "habitat_hint": "山地の渓流沿い、川岸、湿った岩場、水辺。",
+      "finding_tips": "5〜6月、渓流沿いや川岸で細い葉と黒褐色を帯びた小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Hiragishi-suge (Carex augustinowiczii), a sedge. A perennial sedge of montane streamsides, riverbanks, damp rocks and waterside; slender leaves are tufted from the base and in spring to early summer it bears a few blackish-brown spikelets. The name refers to its abundance on riverbanks.",
+      "habitat_hint": "Montane streamsides, riverbanks, damp rocks, waterside.",
+      "finding_tips": "In May–June look along montane streams and riverbanks for the tufted sedge with blackish-brown spikelets."
+    },
+    "zh": {
+      "summary": "ヒラギシスゲ（Carex augustinowiczii）。莎草科薹草属多年生草本，生于山地溪流沿岸、河岸、湿润岩场及水边；细叶基部丛生，春至初夏生数枚黑褐色小穗，因多生河岸得名。",
+      "habitat_hint": "山地溪流沿岸、河岸、湿润岩场、水边。",
+      "finding_tips": "5 至 6 月于溪流河岸寻找细叶、黑褐色小穗的薹草。"
+    }
+  },
+  "Carex sociata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タシロスゲ。カヤツリグサ科スゲ属の多年草で、暖地の湿った林床や林縁、谷沿いの湿った場所に生える。根ぎわから細い葉を出し、春〜初夏、細い柄の先に緑褐色の小穂を垂らしてつける。西日本〜南日本の照葉樹林域に多い。",
+      "habitat_hint": "暖地の湿った林床、林縁、谷沿いの湿った場所。",
+      "finding_tips": "4〜6月、暖地の湿った林床で細い柄の先に垂れ下がる緑褐色の小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Tashiro-suge (Carex sociata), a sedge. A perennial sedge of damp forest floor, edges and damp valley sides in warm regions; slender leaves rise from the base and in spring to early summer it bears green-brown spikelets drooping on slender stalks. It is common in the evergreen-forest zone of western and southern Japan.",
+      "habitat_hint": "Warm-region damp forest floor, edges, damp valley sides.",
+      "finding_tips": "From April to June look on warm-region damp forest floor for the sedge with green-brown spikelets drooping on slender stalks."
+    },
+    "zh": {
+      "summary": "タシロスゲ（Carex sociata）。莎草科薹草属多年生草本，生于暖地湿润林床、林缘及谷侧湿处；细叶基生，春至初夏细梗顶端垂生绿褐色小穗，多见于西南日本照叶林带。",
+      "habitat_hint": "暖地湿润林床、林缘、谷侧湿处。",
+      "finding_tips": "4 至 6 月于暖地湿润林床寻找细梗垂生绿褐色小穗的薹草。"
+    }
+  },
+  "Cassytha filiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Love vine",
+    "ja": {
+      "summary": "スナヅル。クスノキ科スナヅル属のつる性の寄生植物で、暖地の海岸の砂地や低木林に生える。葉は退化して鱗片状で、黄緑色〜黄褐色の糸状の茎を他の植物にからませ、吸盤で養分を吸う。夏、白い小花を咲かせる。ネナシカズラに似るが別系統。",
+      "habitat_hint": "暖地の海岸の砂地、海岸の低木林、砂丘。",
+      "finding_tips": "夏、海岸の砂地や低木でほかの植物にからむ黄緑色の糸状の茎を探します。葉はほとんどありません。"
+    },
+    "en": {
+      "summary": "Sunazuru, the love vine (Cassytha filiformis). A parasitic twining plant of the laurel family growing on coastal sand and shrubland in warm regions; the leaves are reduced to scales and the yellow-green to yellow-brown thread-like stems twine over other plants, drawing nutrients by haustoria. It bears small white flowers in summer and resembles dodder but is unrelated.",
+      "habitat_hint": "Warm-region coastal sand, coastal shrubland, dunes.",
+      "finding_tips": "In summer look on coastal sand and shrubs for the yellow-green thread-like stems twining over other plants, almost leafless."
+    },
+    "zh": {
+      "summary": "无根藤（スナヅル，Cassytha filiformis）。樟科无根藤属寄生缠绕植物，生于暖地海岸沙地及灌丛；叶退化为鳞片，黄绿至黄褐丝状茎缠绕他植物，以吸器吸取养分，夏开白色小花，似菟丝子而非同类。",
+      "habitat_hint": "暖地海岸沙地、海岸灌丛、沙丘。",
+      "finding_tips": "夏于海岸沙地灌丛寻找缠绕他植物的黄绿丝状茎，几乎无叶。"
+    }
+  },
+  "Celastrus stephanotifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオツルウメモドキ。ニシキギ科ツルウメモドキ属の落葉つる性木本で、山地の林縁や樹林に生える。ツルウメモドキに似るが葉や果実が大きい。秋、黄色い果皮が裂けて中から赤い種子（仮種皮）が現れ、よく目立つ。生け花にも使われる。",
+      "habitat_hint": "山地の林縁、樹林、谷沿い、崩壊地。",
+      "finding_tips": "秋、林縁で黄色い果皮が裂けて赤い種子がのぞくつる性の木を探します。ツルウメモドキより大型。"
+    },
+    "en": {
+      "summary": "Ō-tsuru-umemodoki (Celastrus stephanotifolius), a bittersweet. A deciduous woody climber of the staff-vine family on montane woodland edges and forest; it resembles oriental bittersweet but has larger leaves and fruit. In autumn the yellow fruit-capsules split to reveal red-arilled seeds, very conspicuous, and it is used in flower arranging.",
+      "habitat_hint": "Montane woodland edges, forest, valleys, landslip ground.",
+      "finding_tips": "In autumn look on woodland edges for the climber whose yellow capsules split to show red seeds; larger than ordinary bittersweet."
+    },
+    "zh": {
+      "summary": "オオツルウメモドキ（Celastrus stephanotifolius）。卫矛科南蛇藤属落叶木质藤本，生于山地林缘及林地；似南蛇藤但叶果较大，秋季黄色果皮开裂露出红色假种皮，甚醒目，可作插花。",
+      "habitat_hint": "山地林缘、林地、谷地、崩塌地。",
+      "finding_tips": "秋于林缘寻找黄果皮开裂露红种子的藤本，较南蛇藤大。"
+    }
+  },
+  "Celtis biondii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サキシマエノキ。ニレ科エノキ属の落葉高木で、暖地の照葉樹林や林縁、谷沿いに生える。エノキに似るが、若い枝や葉の裏に毛が多く、葉の先が細く伸びる。秋、黒く熟す小さな果実をつける。西日本〜南日本に分布。",
+      "habitat_hint": "暖地の照葉樹林、林縁、谷沿い、石灰岩地。",
+      "finding_tips": "一年中、暖地の樹林で先が細く伸びた葉と、若枝や葉裏の毛をもつエノキの仲間を探します。"
+    },
+    "en": {
+      "summary": "Sakishima-enoki (Celtis biondii), a hackberry. A deciduous tree of the elm family in warm-region evergreen forest, edges and valleys; it resembles the Japanese hackberry but the young twigs and leaf undersides are hairier and the leaf tips taper narrowly. Small black fruits ripen in autumn, distributed in western and southern Japan.",
+      "habitat_hint": "Warm-region evergreen forest, edges, valleys, limestone ground.",
+      "finding_tips": "Year-round in warm-region woodland look for the hackberry with narrowly tapering leaf tips and hairy young twigs and leaf undersides."
+    },
+    "zh": {
+      "summary": "紫弹树（サキシマエノキ，Celtis biondii）。榆科朴属落叶乔木，生于暖地照叶林、林缘及谷地；似朴树但幼枝及叶背多毛、叶端细长渐尖，秋结黑色小果，分布西南日本。",
+      "habitat_hint": "暖地照叶林、林缘、谷地、石灰岩地。",
+      "finding_tips": "全年于暖地林中寻找叶端细长渐尖、幼枝叶背多毛的朴属树。"
+    }
+  },
+  "Cephaloziella microphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバノヤバネゴケ。ヤバネゴケ科の非常に小さな苔類で、湿った土や腐木、岩、他の蘚苔類の間に糸のように細く這って生える。茎に極めて小さな葉が二列に並ぶ。ルーペでないと見分けにくい微小な苔。",
+      "habitat_hint": "湿った土、腐木、岩、林床、他のコケの間。",
+      "finding_tips": "一年中、湿った土や腐木でごく細く這う、微小な葉を二列につける苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kobano-yabane-goke (Cephaloziella microphylla), a tiny leafy liverwort. A very small leafy liverwort creeping thread-like on damp soil, rotten wood, rock and among other bryophytes; the stems bear extremely small leaves in two rows. It is minute and hard to distinguish without a lens.",
+      "habitat_hint": "Damp soil, rotten wood, rock, forest floor, among other mosses.",
+      "finding_tips": "Year-round use a lens on damp soil and rotten wood to find the very thin creeping liverwort with tiny two-ranked leaves."
+    },
+    "zh": {
+      "summary": "小叶拟大萼苔（コバノヤバネゴケ，Cephaloziella microphylla）。拟大萼苔科极小型苔类，于湿润土、腐木、岩石及其他苔藓间丝状匍匐生长，茎生极小二列叶，微小，非放大镜难辨。",
+      "habitat_hint": "湿润土、腐木、岩石、林床、其他苔藓间。",
+      "finding_tips": "全年用放大镜于湿润土及腐木寻找极细匍匐、小叶二列的苔类。"
+    }
+  },
+  "Cerastium fischerianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオバナミミナグサ。ナデシコ科ミミナグサ属の多年草で、海岸や山地の草地、岩場、崖に生える。ミミナグサの仲間だが花が大きく、白い5弁の花はそれぞれ先が浅く2裂する。全体にやわらかい毛がある。",
+      "habitat_hint": "海岸や山地の草地、岩場、崖、礫地。",
+      "finding_tips": "初夏〜夏、海岸や山地の草地で、先が2裂する白い大きめの5弁花と毛のある茎葉を探します。"
+    },
+    "en": {
+      "summary": "Ōbana-miminagusa (Cerastium fischerianum), a mouse-ear chickweed. A perennial of the pink family on coastal and montane grassland, rocks and cliffs; a large-flowered mouse-ear, its white five-petalled flowers each have petals notched at the tip, and the plant is softly hairy throughout.",
+      "habitat_hint": "Coastal and montane grassland, rocks, cliffs, gravelly ground.",
+      "finding_tips": "From early summer to summer look on coastal and montane grassland for the largish white five-petalled flowers with notched petals and hairy stems."
+    },
+    "zh": {
+      "summary": "オオバナミミナグサ（Cerastium fischerianum）。石竹科卷耳属多年生草本，生于海岸及山地草地、岩场与崖壁；花较大，白色五瓣、瓣端浅二裂，全株被柔毛。",
+      "habitat_hint": "海岸及山地草地、岩场、崖壁、砾地。",
+      "finding_tips": "初夏至夏于海岸山地草地寻找瓣端二裂的较大白色五瓣花及被毛茎叶。"
+    }
+  },
+  "Ceratina japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small carpenter bee",
+    "ja": {
+      "summary": "キオビツヤハナバチ。ミツバチ科ツヤハナバチ属の小型のハナバチで、平地〜山地の草地、林縁、庭に見られる。体は黒っぽく光沢があり、腹部に黄色い帯がある。枯れた茎の髄をかじって巣をつくる。花を訪れて花粉を運ぶ送粉者。",
+      "habitat_hint": "平地〜山地の草地、林縁、庭、枯れ茎のある環境。",
+      "finding_tips": "春〜秋、花の上や枯れ茎で黒く光沢があり腹に黄帯のある小さなハナバチを探します。"
+    },
+    "en": {
+      "summary": "Kiobi-tsuya-hanabachi (Ceratina japonica), a small carpenter bee. A small bee of lowland to montane grassland, woodland edges and gardens; the body is glossy blackish with yellow bands on the abdomen. It nests by hollowing the pith of dead stems and is a pollinator visiting flowers.",
+      "habitat_hint": "Lowland to montane grassland, woodland edges, gardens, dead stems.",
+      "finding_tips": "From spring to autumn look on flowers and dead stems for the small glossy black bee with yellow abdominal bands."
+    },
+    "zh": {
+      "summary": "キオビツヤハナバチ（Ceratina japonica）。蜜蜂科小芦蜂属小型蜂，见于平地至山地草地、林缘及庭园；体黑而有光泽，腹具黄带，蛀空枯茎髓部筑巢，访花传粉。",
+      "habitat_hint": "平地至山地草地、林缘、庭园、有枯茎的环境。",
+      "finding_tips": "春至秋于花上及枯茎寻找黑亮、腹具黄带的小型蜂。"
+    }
+  },
+  "Chaetomorpha linum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソジュズモ。アオサ藻綱ジュズモ科の緑藻で、内湾や潮だまり、河口の浅い海に生える。細い糸状の体が数珠（じゅず）のようにつながって見え、絡み合って浮遊または岩に付着する。緑色の綿状のかたまりをつくる。",
+      "habitat_hint": "内湾、潮だまり、河口の浅い海、岩や砂の上。",
+      "finding_tips": "一年中、潮だまりや内湾で細い糸状の緑藻が絡み合った綿状のかたまりを探します。"
+    },
+    "en": {
+      "summary": "Hoso-juzumo, sea hair (Chaetomorpha linum). A green alga of bays, tide pools and shallow estuarine water; the fine thread-like body looks like strung beads and tangles into floating or rock-attached masses, forming green cottony clumps.",
+      "habitat_hint": "Bays, tide pools, shallow estuarine water, on rock and sand.",
+      "finding_tips": "Year-round in tide pools and bays look for the tangled cottony masses of fine thread-like green alga."
+    },
+    "zh": {
+      "summary": "线形硬毛藻（ホソジュズモ，Chaetomorpha linum）。石莼纲刚毛藻科绿藻，生于内湾、潮池及河口浅海；体细丝状似串珠，缠结成漂浮或附岩的绿色棉絮状团。",
+      "habitat_hint": "内湾、潮池、河口浅海、岩石与沙面。",
+      "finding_tips": "全年于潮池及内湾寻找细丝状绿藻缠结的棉絮状团。"
+    }
+  },
+  "Champia parvula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ワツナギソウ。紅藻類ワツナギソウ科の海藻で、潮間帯下部〜浅い海の岩や他の海藻の上に生える。体は中空で節（環節）があり、小さな輪をつないだように見える。淡紅色〜黄紅色で、やわらかくぬめりがある。",
+      "habitat_hint": "潮間帯下部〜浅い海の岩、他の海藻の上、潮だまり。",
+      "finding_tips": "干潮時、磯の岩や海藻の上で、節のある中空の淡紅色の小さな海藻を探します。"
+    },
+    "en": {
+      "summary": "Watsunagi-sō (Champia parvula), a red alga. A red alga of the lower intertidal to shallow water, growing on rock and other seaweeds; the body is hollow and jointed (segmented), looking like linked little rings, and is pale pink to yellowish-red, soft and slippery.",
+      "habitat_hint": "Lower intertidal to shallow-water rock, on other seaweeds, tide pools.",
+      "finding_tips": "At low tide look on rocks and seaweeds for the small, jointed, hollow pale-pink red alga."
+    },
+    "zh": {
+      "summary": "环节藻（ワツナギソウ，Champia parvula）。红藻门环节藻科海藻，生于潮间带下部至浅海岩石及其他海藻上；体中空具节（环节），似小环相连，淡红至黄红，柔软而黏滑。",
+      "habitat_hint": "潮间带下部至浅海岩石、其他海藻上、潮池。",
+      "finding_tips": "退潮时于岩石及海藻上寻找具节、中空、淡红的小型海藻。"
+    }
+  },
+  "Charadrius dealbatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "ja": {
+      "summary": "カオジロシロチドリ。チドリ科の小型のシギ・チドリで、海岸の砂浜や干潟、河口に見られる。シロチドリに似るが、顔（額から目の周り）がより白く、脚がやや長い。地表を小走りしては止まり、砂の中の小動物をついばむ。分類上はシロチドリと近縁。",
+      "habitat_hint": "海岸の砂浜、干潟、河口、砂州。",
+      "finding_tips": "干潟や砂浜で、顔が白く小走りする小さなチドリを探します。シロチドリより顔の白さが目立ちます。"
+    },
+    "en": {
+      "summary": "White-faced Plover (Charadrius dealbatus). A small plover of sandy beaches, tidal flats and estuaries; it resembles the Kentish plover but has a whiter face (forehead and around the eye) and slightly longer legs. It runs and stops over the ground, pecking small animals from the sand, and is closely related to the Kentish plover.",
+      "habitat_hint": "Sandy beaches, tidal flats, estuaries, sandbars.",
+      "finding_tips": "On tidal flats and beaches look for the small run-and-stop plover with a notably white face, whiter than the Kentish plover."
+    },
+    "zh": {
+      "summary": "白脸鸻（カオジロシロチドリ，Charadrius dealbatus）。鸻科小型鸻，见于海岸沙滩、滩涂及河口；似环颈鸻但脸（额至眼周）更白、腿略长，于地表快跑急停啄食沙中小动物，与环颈鸻近缘。",
+      "habitat_hint": "海岸沙滩、滩涂、河口、沙洲。",
+      "finding_tips": "于滩涂沙滩寻找脸白、跑停觅食的小型鸻，脸较环颈鸻更白。"
+    }
+  },
+  "Cirriformia tentaculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミズヒキゴカイ。イトゴカイ科（ミズヒキゴカイ科）の多毛類（環形動物）で、内湾や河口の砂泥底、干潟の泥中にすむ。体は細長く、体の前方から多数の細い糸状の触糸（しょくし）を泥の上に伸ばす。この糸で泥の上の有機物を集めて食べる。",
+      "habitat_hint": "内湾や河口の砂泥底、干潟、潮間帯の泥中。",
+      "finding_tips": "干潮時、干潟の泥を掘って、細長い体と多数の糸状の触糸をもつゴカイを探します。"
+    },
+    "en": {
+      "summary": "Mizuhiki-gokai (Cirriformia tentaculata), a polychaete. A polychaete worm of sandy-mud bottoms and tidal-flat mud in bays and estuaries; the elongate body extends many fine thread-like tentacles from its front end over the mud, gathering surface organic matter to feed.",
+      "habitat_hint": "Sandy-mud bottoms of bays and estuaries, tidal flats, intertidal mud.",
+      "finding_tips": "At low tide dig in tidal-flat mud to find the elongate worm with many fine thread-like tentacles."
+    },
+    "zh": {
+      "summary": "ミズヒキゴカイ（Cirriformia tentaculata）。丝鳃虫科多毛类（环节动物），栖于内湾及河口砂泥底与滩涂泥中；体细长，前端向泥面伸出多数细丝状触须，藉以收集泥面有机质取食。",
+      "habitat_hint": "内湾及河口砂泥底、滩涂、潮间带泥中。",
+      "finding_tips": "退潮时于滩涂泥中挖掘寻找体细长、具多数丝状触须的多毛类。"
+    }
+  },
+  "Cirsium suzukaense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スズカアザミ。キク科アザミ属の多年草で、鈴鹿山地を中心とした本州中部の山地の草地や林縁、道ばたに生える。秋、紅紫色の頭花を咲かせ、総苞にはとげがある。葉は羽状に切れ込みとげをもつ。分布の限られた地域固有のアザミ。",
+      "habitat_hint": "山地の草地、林縁、道ばた、やや乾いた斜面。",
+      "finding_tips": "9〜11月、山地の草地や林縁で紅紫色の頭花と、とげのある羽状の葉をもつアザミを探します。"
+    },
+    "en": {
+      "summary": "Suzuka-azami (Cirsium suzukaense), a thistle. A perennial thistle of montane grassland, woodland edges and roadsides in central Honshu, centred on the Suzuka Mountains; in autumn it bears red-purple heads with spiny involucres, and the leaves are pinnately cut and spiny. It is a locally endemic thistle with a restricted range.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, dryish slopes.",
+      "finding_tips": "From September to November look in montane grassland and edges for the thistle with red-purple heads and spiny pinnate leaves."
+    },
+    "zh": {
+      "summary": "スズカアザミ（Cirsium suzukaense）。菊科蓟属多年生草本，主产铃鹿山地一带本州中部山地草地、林缘及路旁；秋开红紫色头状花，总苞具刺，叶羽裂具刺，为分布局限的地域特有蓟。",
+      "habitat_hint": "山地草地、林缘、路旁、略干坡地。",
+      "finding_tips": "9 至 11 月于山地草地林缘寻找红紫头状花、羽裂具刺叶的蓟。"
+    }
+  },
+  "Clavulina coralloides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カレエダタケ。ラッパタケ目カレエダタケ科のきのこで、夏〜秋、林床の地上に発生する。白色〜淡灰色で、枯れ枝のように細かく枝分かれし、枝先がとがって冠状（さんご状）になる。似た仲間が多く、正確な同定は難しい。",
+      "habitat_hint": "夏〜秋、雑木林や針葉樹林の林床の地上。",
+      "finding_tips": "夏〜秋、林床で白っぽくさんご状に枝分かれし、枝先がとがったきのこを探します。"
+    },
+    "en": {
+      "summary": "Kareeda-take, the crested coral fungus (Clavulina coralloides). A fungus fruiting on the ground of the forest floor in summer to autumn; it is white to pale grey, finely branched like a dead twig, with pointed, crested (coral-like) branch tips. Similar species make exact identification difficult.",
+      "habitat_hint": "Summer to autumn, ground of woodland and conifer-forest floor.",
+      "finding_tips": "From summer to autumn look on the forest floor for the whitish coral-like fungus with finely branched, pointed tips."
+    },
+    "zh": {
+      "summary": "冠锁瑚菌（カレエダタケ，Clavulina coralloides）。鸡油菌目锁瑚菌科真菌，夏至秋生于林床地面；白至淡灰，细分枝似枯枝，枝端尖锐呈冠状（珊瑚状），近似种多、精确鉴别不易。",
+      "habitat_hint": "夏至秋，杂木林及针叶林林床地面。",
+      "finding_tips": "夏至秋于林床寻找白色、珊瑚状细分枝、枝端尖的真菌。"
+    }
+  },
+  "Clavulina rugosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wrinkled coral fungus",
+    "ja": {
+      "summary": "カレエダタケモドキ。ラッパタケ目カレエダタケ科のきのこで、夏〜秋、林床の地上に発生する。白色〜クリーム色で、あまり枝分かれせず、表面にしわ（うね）があるのが特徴。カレエダタケに似るが枝が少なくしわがある点で区別される。",
+      "habitat_hint": "夏〜秋、雑木林や針葉樹林の林床の地上。",
+      "finding_tips": "夏〜秋、林床で白っぽく、あまり枝分かれせず表面にしわのある棒状のきのこを探します。"
+    },
+    "en": {
+      "summary": "Kareeda-take-modoki, the wrinkled coral fungus (Clavulina rugosa). A fungus fruiting on the forest floor in summer to autumn; it is white to cream, little-branched with a wrinkled (ridged) surface. It resembles the crested coral fungus but is distinguished by being less branched and wrinkled.",
+      "habitat_hint": "Summer to autumn, ground of woodland and conifer-forest floor.",
+      "finding_tips": "From summer to autumn look on the forest floor for the whitish, little-branched club-like fungus with a wrinkled surface."
+    },
+    "zh": {
+      "summary": "皱锁瑚菌（カレエダタケモドキ，Clavulina rugosa）。鸡油菌目锁瑚菌科真菌，夏至秋生于林床地面；白至奶油色，分枝少、表面具皱棱，以分枝少而有皱别于冠锁瑚菌。",
+      "habitat_hint": "夏至秋，杂木林及针叶林林床地面。",
+      "finding_tips": "夏至秋于林床寻找白色、分枝少、表面具皱的棒状真菌。"
+    }
+  },
+  "Clematis ochotensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマハンショウヅル。キンポウゲ科センニンソウ属のつる性の木本で、山地〜亜高山の林縁や低木林、岩場に生える。初夏、鐘（半鐘）を伏せたような青紫色の花を下向きに咲かせる。花のあと、羽毛状の毛をもつ果実の集まりをつける。",
+      "habitat_hint": "山地〜亜高山の林縁、低木林、岩場、崖地。",
+      "finding_tips": "6〜7月、山地の林縁で下向きに咲く青紫色の鐘状の花をつけるつる植物を探します。"
+    },
+    "en": {
+      "summary": "Miyama-hanshōzuru (Clematis ochotensis). A woody climber of the buttercup family on montane to subalpine woodland edges, scrub and rocks; in early summer it bears nodding blue-purple bell-shaped flowers, followed by heads of feathery-plumed fruits.",
+      "habitat_hint": "Montane to subalpine woodland edges, scrub, rocks, cliffs.",
+      "finding_tips": "In June–July look on montane edges for the climber with nodding blue-purple bell-shaped flowers."
+    },
+    "zh": {
+      "summary": "半钟铁线莲（ミヤマハンショウヅル，Clematis ochotensis）。毛茛科铁线莲属木质藤本，生于山地至亚高山林缘、灌丛及岩场；初夏下垂开青紫色钟状花，花后结羽状毛果序。",
+      "habitat_hint": "山地至亚高山林缘、灌丛、岩场、崖地。",
+      "finding_tips": "6 至 7 月于山地林缘寻找下垂青紫色钟状花的藤本。"
+    }
+  },
+  "Climacium dendroides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tree moss",
+    "ja": {
+      "summary": "フロウソウ。コウヤノマンネングサに近いフロウソウ科の蘚類で、山地の湿った林床や湿地、湿った草地に生える。地下茎から立ち上がった茎の上部が枝分かれし、小さな樹木（ヤシの木）のような姿になるのが特徴。緑〜黄緑色で群生する。",
+      "habitat_hint": "山地の湿った林床、湿地、湿った草地、水辺。",
+      "finding_tips": "一年中、山地の湿った林床で、立ち上がって上部が樹状に枝分かれする小さな木のような蘚を探します。"
+    },
+    "en": {
+      "summary": "Furō-sō, the tree moss (Climacium dendroides). A moss of the Climaciaceae growing on damp montane forest floor, wetlands and damp grassland; stems rise from a rhizome and branch at the top into a little-tree (palm-like) form. It is green to yellow-green and grows gregariously.",
+      "habitat_hint": "Damp montane forest floor, wetlands, damp grassland, waterside.",
+      "finding_tips": "Year-round on damp montane forest floor look for the little-tree-shaped moss with erect stems branching into a crown at the top."
+    },
+    "zh": {
+      "summary": "树藓（フロウソウ，Climacium dendroides）。万年藓科藓类，生于山地湿润林床、湿地及湿润草地；茎自根状茎直立、上部分枝呈小树（棕榈）状，体绿至黄绿，成片生长。",
+      "habitat_hint": "山地湿润林床、湿地、湿润草地、水边。",
+      "finding_tips": "全年于山地湿润林床寻找直立、上部树状分枝如小树的藓。"
+    }
   }
 }
