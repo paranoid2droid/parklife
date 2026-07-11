@@ -230317,5 +230317,430 @@
       "habitat_hint": "山地湿润岩场、溪流沿岸岩石、湿润崖壁。",
       "finding_tips": "5 至 6 月，于溪流沿岸湿润岩石寻找肉质细叶及黄色星状小花。"
     }
+  },
+  "Pleochaeta shiraiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エノキ葉裏うどんこ病菌。ウドンコカビ科の子のう菌で、エノキ（ニレ科）の葉の裏に寄生する。夏〜秋、葉裏に白い粉状の菌糸をつくり、のちに黒い小さな子のう殻（越冬体）を散りばめる。植物の病原菌（うどんこ病）。",
+      "habitat_hint": "エノキの葉の裏、公園・社寺・河畔のエノキ大木。",
+      "finding_tips": "夏〜秋、エノキの葉裏で白い粉状のカビと、点々とした黒い小粒（子のう殻）を探します。"
+    },
+    "en": {
+      "summary": "Enoki-ha-ura-udonko (Pleochaeta shiraiana), a powdery mildew. An ascomycete fungus parasitic on the undersides of hackberry (Celtis) leaves; from summer to autumn it forms a white powdery mycelium below the leaf, later dotted with tiny black overwintering fruit-bodies (chasmothecia). It is a plant pathogen (powdery mildew).",
+      "habitat_hint": "Undersides of hackberry leaves; large Celtis trees in parks, shrines and riversides.",
+      "finding_tips": "From summer to autumn look on the underside of hackberry leaves for the white powdery mould and scattered tiny black dots."
+    },
+    "zh": {
+      "summary": "三孢半内生钩丝壳（エノキ葉裏うどんこ病菌，Pleochaeta shiraiana）。白粉菌科子囊菌，寄生于朴树（榆科）叶背；夏至秋于叶背形成白色粉状菌丝，后散布黑色小闭囊壳（越冬体），为白粉病病原菌。",
+      "habitat_hint": "朴树叶背；公园、神社寺庙、河畔大朴树。",
+      "finding_tips": "夏至秋于朴树叶背寻找白色粉状霉与散布的黑色小点（闭囊壳）。"
+    }
+  },
+  "Pseudoformicaleo nubecula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメウスバカゲロウ。ウスバカゲロウ科の小型の種で、平地〜低山の林縁や樹林、乾いた草地に見られる。細い体と透明な翅をもち、翅に薄い雲状の斑がある。トンボに似るが弱々しく飛ぶ。幼虫はアリジゴク。",
+      "habitat_hint": "平地〜低山の林縁、樹林、乾いた砂地のある草地。",
+      "finding_tips": "夏の夜、灯火や林縁で細い体と雲状斑のある透明翅の小さなカゲロウ状の虫を探します。"
+    },
+    "en": {
+      "summary": "Hime-usuba-kagerō (Pseudoformicaleo nubecula), a small antlion. A small antlion of lowland to low-mountain forest edges, woodland and dry grassland, with a slender body and transparent wings marked with faint cloudy spots; it flies weakly, unlike a dragonfly. The larva is an ant-lion.",
+      "habitat_hint": "Lowland to low-mountain forest edges, woodland, dry sandy grassland.",
+      "finding_tips": "On summer nights look at lights and forest edges for the small, slender, weak-flying insect with faintly cloud-spotted transparent wings."
+    },
+    "zh": {
+      "summary": "ヒメウスバカゲロウ（Pseudoformicaleo nubecula）。蚁蛉科小型种，见于平地至低山林缘、林地及干草地；体细、翅透明具淡云状斑，飞行无力不似蜻蜓，幼虫为蚁狮。",
+      "habitat_hint": "平地至低山林缘、林地、有干沙地的草地。",
+      "finding_tips": "夏夜于灯下及林缘寻找体细、翅透明带淡云斑、飞行无力的小型蚁蛉。"
+    }
+  },
+  "Pseudomallada formosanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green lacewing",
+    "ja": {
+      "summary": "フタモンクサカゲロウ。クサカゲロウ科の緑色の小さな昆虫で、平地〜山地の樹林、林縁、農地、庭に見られる。淡い緑色の細い体と透明な翅をもち、頭部に二つの黒い斑があるのが名の由来。成虫・幼虫ともにアブラムシなどを食べる益虫。",
+      "habitat_hint": "樹林、林縁、農地、庭、公園の樹木のある環境。",
+      "finding_tips": "春〜秋、灯火や葉の上で淡緑色の細い体と透明翅、頭部の二つの黒斑をもつクサカゲロウを探します。"
+    },
+    "en": {
+      "summary": "Futamon-kusakagerō (Pseudomallada formosanus), a green lacewing. A small green lacewing of woodland, edges, farmland and gardens from lowland to mountains; it has a pale green slender body and transparent wings, with two black spots on the head (source of the Japanese name). Both adults and larvae eat aphids and are beneficial.",
+      "habitat_hint": "Woodland, edges, farmland, gardens, parks with trees.",
+      "finding_tips": "From spring to autumn look at lights and on leaves for the pale green lacewing with transparent wings and two black head spots."
+    },
+    "zh": {
+      "summary": "フタモンクサカゲロウ（Pseudomallada formosanus）。草蛉科绿色小型昆虫，见于平地至山地林地、林缘、农田及庭园；体淡绿细长、翅透明，头部具两黑斑（故名），成幼虫均捕食蚜虫，为益虫。",
+      "habitat_hint": "林地、林缘、农田、庭园、有树木的公园。",
+      "finding_tips": "春至秋于灯下及叶面寻找淡绿细长、翅透明、头具两黑斑的草蛉。"
+    }
+  },
+  "Pseudomallada ussuriensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green lacewing",
+    "ja": {
+      "summary": "クロヒゲフタモンクサカゲロウ。クサカゲロウ科の緑色の小さな昆虫で、平地〜山地の樹林、林縁、庭に見られる。淡緑色の細い体と透明な翅をもち、触角の一部が黒っぽいのが特徴。成虫・幼虫ともにアブラムシを捕食する益虫。",
+      "habitat_hint": "樹林、林縁、農地、庭、公園の樹木のある環境。",
+      "finding_tips": "春〜秋、灯火や葉の上で淡緑色の細い体と黒っぽい触角をもつクサカゲロウを探します。"
+    },
+    "en": {
+      "summary": "Kurohige-futamon-kusakagerō (Pseudomallada ussuriensis), a green lacewing. A small green lacewing of woodland, edges and gardens from lowland to mountains, with a pale green slender body and transparent wings; part of the antennae is blackish. Both adults and larvae prey on aphids and are beneficial.",
+      "habitat_hint": "Woodland, edges, farmland, gardens, parks with trees.",
+      "finding_tips": "From spring to autumn look at lights and on leaves for the pale green lacewing with partly blackish antennae."
+    },
+    "zh": {
+      "summary": "クロヒゲフタモンクサカゲロウ（Pseudomallada ussuriensis）。草蛉科绿色小型昆虫，见于平地至山地林地、林缘及庭园；体淡绿细长、翅透明，触角部分暗黑，成幼虫均捕食蚜虫，为益虫。",
+      "habitat_hint": "林地、林缘、农田、庭园、有树木的公园。",
+      "finding_tips": "春至秋于灯下及叶面寻找淡绿细长、触角部分暗黑的草蛉。"
+    }
+  },
+  "Ptychognathus ishii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイワンヒライソモドキ。イワガニ科（モクズガニの仲間）の小型のカニで、河口や汽水域、渓流の下流の石の下にすむ。甲は横長で平たく、はさみに毛があるものが多い。淡水〜汽水の岩の下でよく見られる。",
+      "habitat_hint": "河口、汽水域、渓流下流の石の下、転石帯。",
+      "finding_tips": "一年中、河口や川下流の石をめくって甲が横長で平たい小さなカニを探します。"
+    },
+    "en": {
+      "summary": "Taiwan-hiraiso-modoki (Ptychognathus ishii). A small varunid crab of estuaries, brackish water and lower streams, living under stones; the carapace is broad and flat, and the claws are often hairy. It is common under rocks in fresh to brackish water.",
+      "habitat_hint": "Estuaries, brackish water, lower streams, under stones in cobble beds.",
+      "finding_tips": "Year-round, turn stones in estuaries and lower rivers to find the small crab with a broad, flat carapace."
+    },
+    "zh": {
+      "summary": "タイワンヒライソモドキ（Ptychognathus ishii）。弓蟹科（近绒螯蟹）小型蟹，栖于河口、半咸水及溪流下游石下；头胸甲横宽而扁，螯多具毛，常见于淡水至半咸水岩石下。",
+      "habitat_hint": "河口、半咸水、溪流下游石下、卵石带。",
+      "finding_tips": "全年于河口及河流下游翻石寻找甲横宽扁平的小蟹。"
+    }
+  },
+  "Ptychomitrium sinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チヂレゴケ。チヂレゴケ科の蘚類で、日当たりのよい岩上やコンクリート、石垣などに緑〜濃緑色のクッション状の群落をつくる。乾くと葉が強く縮れて巻き込み、湿ると開くのが名の由来。都市の石やブロック塀でも見られる。",
+      "habitat_hint": "日当たりのよい岩上、石垣、コンクリート、ブロック塀。",
+      "finding_tips": "一年中、岩や石垣で乾くと縮れ、湿ると開く緑のクッション状の蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Chijire-goke (Ptychomitrium sinense), a moss. A moss forming green to dark-green cushions on sunny rock, concrete and stone walls; the leaves strongly curl and twist when dry and open when wet (source of the name). It is also seen on urban stone and block walls.",
+      "habitat_hint": "Sunny rock, stone walls, concrete, block walls.",
+      "finding_tips": "Year-round, use a lens on rock and stone walls to find the green cushion moss whose leaves curl when dry and open when wet."
+    },
+    "zh": {
+      "summary": "中华缩叶藓（チヂレゴケ，Ptychomitrium sinense）。缩叶藓科藓类，于向阳岩面、混凝土及石墙形成绿至深绿垫状群落；干时叶强烈卷曲、湿时张开（故名），城市石块砖墙亦可见。",
+      "habitat_hint": "向阳岩面、石墙、混凝土、砖墙。",
+      "finding_tips": "全年用放大镜于岩石及石墙寻找干卷湿展的绿色垫状藓。"
+    }
+  },
+  "Rhynchospora chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌノハナヒゲ。カヤツリグサ科ミカヅキグサ属の多年草で、日当たりのよい湿地や湿った草地、貧栄養の湿原に生える。細い茎の先に褐色の小穂を集めてつける。名は「犬の鼻ひげ」に由来する。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、貧栄養の湿原、休耕田。",
+      "finding_tips": "夏〜秋、湿地で細い茎の先に集まる褐色の小穂を探します。"
+    },
+    "en": {
+      "summary": "Inu-no-hanahige (Rhynchospora chinensis), a beak-sedge. A perennial sedge of sunny wetlands, damp grassland and nutrient-poor bogs; brown spikelets cluster at the tips of the slender stems. The Japanese name means 'dog's whiskers'.",
+      "habitat_hint": "Sunny wetlands, damp grassland, nutrient-poor bogs, fallow paddies.",
+      "finding_tips": "From summer to autumn look in wetlands for the brown spikelets clustered at the tips of slender stems."
+    },
+    "zh": {
+      "summary": "华刺子莞（イヌノハナヒゲ，Rhynchospora chinensis）。莎草科刺子莞属多年生草本，生于向阳湿地、湿润草地及贫营养沼泽；纤细茎顶簇生褐色小穗，和名意为“犬须”。",
+      "habitat_hint": "向阳湿地、湿润草地、贫营养沼泽、休耕田。",
+      "finding_tips": "夏至秋于湿地寻找纤细茎顶簇生的褐色小穗。"
+    }
+  },
+  "Rubus yoshinoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キビナワシロイチゴ。バラ科キイチゴ属の落葉小低木で、日当たりのよい林縁や草地、崩壊地に生える。茎はつる状に伸び、葉は複数の小葉からなる。初夏に淡紅〜白の花を咲かせ、夏に赤い集合果をつける。ナワシロイチゴに近い仲間。",
+      "habitat_hint": "日当たりのよい林縁、草地、崩壊地、道ばた。",
+      "finding_tips": "5〜6月、林縁でつる状の茎と淡紅色の花を、夏には赤い実を探します。"
+    },
+    "en": {
+      "summary": "Kibi-nawashiro-ichigo (Rubus yoshinoi), a bramble. A deciduous low shrub of the raspberry genus found on sunny woodland edges, grassland and landslip ground; the stems trail like vines and the leaves are compound. It has pale pink to white flowers in early summer and red aggregate fruits in summer, related to R. parvifolius.",
+      "habitat_hint": "Sunny woodland edges, grassland, landslip ground, roadsides.",
+      "finding_tips": "In May–June look on woodland edges for the trailing stems and pale pink flowers, and for red fruits in summer."
+    },
+    "zh": {
+      "summary": "キビナワシロイチゴ（Rubus yoshinoi）。蔷薇科悬钩子属落叶小灌木，生于向阳林缘、草地及崩塌地；茎蔓状延伸，叶为复叶，初夏开淡红至白花，夏结红色聚合果，近于茅莓。",
+      "habitat_hint": "向阳林缘、草地、崩塌地、路旁。",
+      "finding_tips": "5 至 6 月于林缘寻找蔓状茎及淡红花，夏寻红色果实。"
+    }
+  },
+  "Sargassum hemiphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イソモク。ホンダワラ科の褐藻で、潮間帯下部〜浅い海の岩に付着して生える。褐色の主軸から扁平な葉状部と、浮きの役割をする気胞（気泡）をつけ、群落（藻場）をつくる。魚や小動物のすみかになる。",
+      "habitat_hint": "潮間帯下部〜浅い海の岩、磯、藻場。",
+      "finding_tips": "干潮時、磯の岩で褐色の主軸に扁平な葉状部と小さな気胞をもつ海藻を探します。"
+    },
+    "en": {
+      "summary": "Iso-moku (Sargassum hemiphyllum), a gulfweed. A brown alga attached to rock from the lower intertidal into shallow water; from a brown main axis it bears flattened blade-like parts and gas-filled floats (vesicles), forming seaweed beds that shelter fish and small animals.",
+      "habitat_hint": "Lower intertidal to shallow-water rock, rocky shores, seaweed beds.",
+      "finding_tips": "At low tide look on rocky shores for the brown alga with a main axis, flattened blades and small floats."
+    },
+    "zh": {
+      "summary": "半叶马尾藻（イソモク，Sargassum hemiphyllum）。马尾藻科褐藻，附着于潮间带下部至浅海岩石；褐色主轴生扁平叶状部及起浮力的气囊，形成海藻床，为鱼类及小动物栖所。",
+      "habitat_hint": "潮间带下部至浅海岩石、岩礁、海藻床。",
+      "finding_tips": "退潮时于岩礁寻找具主轴、扁平叶状部及小气囊的褐藻。"
+    }
+  },
+  "Saussurea nikoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シラネアザミ。キク科トウヒレン属の多年草で、山地の林縁や草地、やや湿った斜面に生える。アザミに似るが葉にとげがなく、茎の上部に紫色の筒状花からなる頭花をつける。夏〜秋に開花する。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、林下。",
+      "finding_tips": "8〜10月、山地の林縁でとげのない葉と、紫色の筒状花の頭花を探します。"
+    },
+    "en": {
+      "summary": "Shirane-azami (Saussurea nikoensis). A perennial of the daisy family found on montane woodland edges, grassland and damp slopes; it resembles a thistle but the leaves lack spines, and purple heads of tubular florets are borne on the upper stem, flowering in summer to autumn.",
+      "habitat_hint": "Montane woodland edges, grassland, damp slopes, understorey.",
+      "finding_tips": "From August to October look on montane edges for the spineless leaves and purple tubular-flowered heads."
+    },
+    "zh": {
+      "summary": "シラネアザミ（Saussurea nikoensis）。菊科风毛菊属多年生草本，生于山地林缘、草地及湿润坡地；似蓟但叶无刺，茎上部生紫色筒状花头状花序，夏至秋开花。",
+      "habitat_hint": "山地林缘、草地、湿润坡地、林下。",
+      "finding_tips": "8 至 10 月于山地林缘寻找无刺叶及紫色筒状花头状花序。"
+    }
+  },
+  "Saussurea sugimurai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トガヒゴタイ。キク科トウヒレン属の多年草で、山地の草地や林縁、岩場に生える。トウヒレンの仲間で、茎の先に紫色の筒状花からなる頭花をつける。葉にとげはない。分布の限られた種。",
+      "habitat_hint": "山地の草地、林縁、岩場、やや乾いた斜面。",
+      "finding_tips": "夏〜秋、山地の草地や岩場で紫色の筒状花の頭花ととげのない葉を探します。"
+    },
+    "en": {
+      "summary": "Toga-higotai (Saussurea sugimurai). A perennial of the daisy family growing in montane grassland, woodland edges and rocky places; a Saussurea with purple heads of tubular florets at the stem tips and spineless leaves. It has a restricted distribution.",
+      "habitat_hint": "Montane grassland, woodland edges, rocky places, dryish slopes.",
+      "finding_tips": "From summer to autumn look in montane grassland and rocks for the purple tubular-flowered heads and spineless leaves."
+    },
+    "zh": {
+      "summary": "トガヒゴタイ（Saussurea sugimurai）。菊科风毛菊属多年生草本，生于山地草地、林缘及岩场；茎顶生紫色筒状花头状花序，叶无刺，分布局限。",
+      "habitat_hint": "山地草地、林缘、岩场、略干坡地。",
+      "finding_tips": "夏至秋于山地草地及岩石寻找紫色筒状花头状花序与无刺叶。"
+    }
+  },
+  "Scepticus griseus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トビイロヒョウタンゾウムシ。ゾウムシ科の甲虫で、平地〜低山の草地、畑、道ばた、河原に見られる。体は褐色（とび色）でずんぐりとし、上翅にひょうたん形のくびれがある。飛べず、地表や植物の根ぎわを歩き回る。",
+      "habitat_hint": "平地〜低山の草地、畑、道ばた、河原、土手。",
+      "finding_tips": "春〜夏、草地や畑の地表で褐色でひょうたん形のくびれのある小さなゾウムシを探します。"
+    },
+    "en": {
+      "summary": "Tobiiro-hyōtan-zōmushi (Scepticus griseus), a weevil. A stout brown weevil of lowland to low-mountain grassland, fields, roadsides and riverbanks; the elytra have a gourd-shaped constriction. Flightless, it walks over the ground and around plant bases.",
+      "habitat_hint": "Lowland to low-mountain grassland, fields, roadsides, riverbanks, banks.",
+      "finding_tips": "From spring to summer look on the ground in grassland and fields for the small brown weevil with a gourd-shaped waist."
+    },
+    "zh": {
+      "summary": "トビイロヒョウタンゾウムシ（Scepticus griseus）。象甲科甲虫，见于平地至低山草地、农田、路旁及河滩；体褐色粗壮，鞘翅具葫芦状缢缩，不能飞，于地表及植株基部爬行。",
+      "habitat_hint": "平地至低山草地、农田、路旁、河滩、土坡。",
+      "finding_tips": "春至夏于草地农田地表寻找褐色、具葫芦状缢缩的小象甲。"
+    }
+  },
+  "Scirpus orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クロアブラガヤ。カヤツリグサ科アブラガヤ属の多年草で、湿地、池沼のふち、湿った草地、休耕田に生える。太い茎の先に多数の小穂を散房状につけ、熟すと黒褐色を帯びる。アブラガヤに似るが穂が黒っぽい。",
+      "habitat_hint": "湿地、池沼のふち、湿った草地、休耕田、水路沿い。",
+      "finding_tips": "夏〜秋、湿地で太い茎の先に散房状につく黒褐色の小穂の集まりを探します。"
+    },
+    "en": {
+      "summary": "Kuro-aburagaya (Scirpus orientalis), a bulrush. A perennial sedge of wetlands, pond and marsh margins, damp grassland and fallow paddies; many spikelets are borne in a spreading cluster at the top of the stout stem and turn blackish-brown when ripe, darker than the related S. wichurae.",
+      "habitat_hint": "Wetlands, pond and marsh margins, damp grassland, fallow paddies, channels.",
+      "finding_tips": "From summer to autumn look in wetlands for the stout stems topped by spreading clusters of blackish-brown spikelets."
+    },
+    "zh": {
+      "summary": "クロアブラガヤ（Scirpus orientalis）。莎草科藨草属多年生草本，生于湿地、池沼边缘、湿润草地及休耕田；粗茎顶端伞房状生多数小穗，熟时呈黑褐色，较近缘种色深。",
+      "habitat_hint": "湿地、池沼边缘、湿润草地、休耕田、水渠沿岸。",
+      "finding_tips": "夏至秋于湿地寻找粗茎顶端伞房状排列的黑褐色小穗簇。"
+    }
+  },
+  "Scirtes japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh beetle",
+    "ja": {
+      "summary": "トビイロマルハナノミ。マルハナノミ科の小型の甲虫で、湿地や池沼、水辺の植物上に見られる。体は褐色（とび色）で丸みをおび、後脚が発達していてよく跳ねる。幼虫は水中や湿った泥にすむ。",
+      "habitat_hint": "湿地、池沼、水辺の植物、湿った草地。",
+      "finding_tips": "初夏〜夏、水辺の植物や灯火で褐色で丸っこく、よく跳ねる小さな甲虫を探します。"
+    },
+    "en": {
+      "summary": "Tobiiro-maruhananomi (Scirtes japonicus), a marsh beetle. A small marsh beetle found on waterside plants around wetlands and ponds; the body is brown and rounded, and the enlarged hind legs let it jump well. The larvae live in water and wet mud.",
+      "habitat_hint": "Wetlands, ponds, waterside plants, damp grassland.",
+      "finding_tips": "From early summer to summer look on waterside plants and at lights for the rounded brown beetle that jumps well."
+    },
+    "zh": {
+      "summary": "日本沼甲（トビイロマルハナノミ，Scirtes japonicus）。花蚤科（沼甲科）小型甲虫，见于湿地、池沼及水边植物；体褐色圆润，后足发达善跳，幼虫栖水中及湿泥。",
+      "habitat_hint": "湿地、池沼、水边植物、湿润草地。",
+      "finding_tips": "初夏至夏于水边植物及灯下寻找圆润褐色、善跳的小甲虫。"
+    }
+  },
+  "Scleria rugosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケシンジュガヤ。カヤツリグサ科シンジュガヤ属の一年草で、日当たりのよい湿地や湿った草地、休耕田に生える。三角形の茎をもち、白く真珠のような果実（そう果）をつけるのが特徴。全体に短い毛がある。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、休耕田、貧栄養地。",
+      "finding_tips": "夏〜秋、湿地で三角形の茎と、白い真珠のような小さな果実を探します。"
+    },
+    "en": {
+      "summary": "Ke-shinjugaya (Scleria rugosa), a nut-rush. An annual sedge of sunny wetlands, damp grassland and fallow paddies; it has three-angled stems and bears white, pearl-like nutlets, and the plant is short-hairy throughout.",
+      "habitat_hint": "Sunny wetlands, damp grassland, fallow paddies, nutrient-poor ground.",
+      "finding_tips": "From summer to autumn look in wetlands for the three-angled stems and the small white, pearl-like nutlets."
+    },
+    "zh": {
+      "summary": "毛珍珠茅（ケシンジュガヤ，Scleria rugosa）。莎草科珍珠茅属一年生草本，生于向阳湿地、湿润草地及休耕田；茎三棱，结白色珍珠状小坚果，全株被短毛。",
+      "habitat_hint": "向阳湿地、湿润草地、休耕田、贫营养地。",
+      "finding_tips": "夏至秋于湿地寻找三棱茎及白色珍珠状小坚果。"
+    }
+  },
+  "Scymnus posticalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コクロヒメテントウ。テントウムシ科の非常に小さな甲虫で、樹木や草の上に見られる。体は黒っぽく、上翅の後方に赤褐色の斑があるものが多い。全体に細かな毛がある。成虫・幼虫ともにアブラムシやカイガラムシを食べる益虫。",
+      "habitat_hint": "樹木、低木、草の上、庭、林縁、農地。",
+      "finding_tips": "春〜秋、木や草の上で黒っぽく後方に赤斑のある毛深い極小のテントウムシを探します。"
+    },
+    "en": {
+      "summary": "Kokuro-hime-tentō (Scymnus posticalis), a tiny ladybird. A very small ladybird found on trees and herbs; the body is blackish, often with a reddish-brown spot at the rear of each elytron, and is finely hairy all over. Both adults and larvae eat aphids and scale insects and are beneficial.",
+      "habitat_hint": "Trees, shrubs, herbs, gardens, woodland edges, farmland.",
+      "finding_tips": "From spring to autumn look on trees and herbs for the tiny, hairy, blackish ladybird with a reddish rear spot."
+    },
+    "zh": {
+      "summary": "コクロヒメテントウ（Scymnus posticalis）。瓢虫科极小型甲虫，见于树木及草本上；体黑色，鞘翅后部多具红褐色斑，全身被细毛，成幼虫均捕食蚜虫与介壳虫，为益虫。",
+      "habitat_hint": "树木、灌木、草本、庭园、林缘、农田。",
+      "finding_tips": "春至秋于树草上寻找黑色、后部具红斑、被毛的极小瓢虫。"
+    }
+  },
+  "Spherillo dorsalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pill woodlouse",
+    "ja": {
+      "summary": "セグロコシビロダンゴムシ。コシビロダンゴムシ科の陸生の等脚類（ダンゴムシの仲間）で、林床や庭、石や落ち葉の下の湿った場所にすむ。刺激を受けると体を丸めて球になる。背の中央が黒っぽく、周縁が明るいことが多い。落ち葉を食べて分解する。",
+      "habitat_hint": "林床、庭、石や落ち葉の下、朽木の下の湿った場所。",
+      "finding_tips": "一年中、石や落ち葉をめくって、背が黒っぽく丸くなるダンゴムシを探します。"
+    },
+    "en": {
+      "summary": "Seguro-koshibiro-dangomushi (Spherillo dorsalis), a pill woodlouse. A terrestrial isopod of woodland floor, gardens and damp spots under stones, litter and rotten wood; it rolls into a ball when disturbed, and the back is often dark down the middle with paler margins. It decomposes leaf litter.",
+      "habitat_hint": "Woodland floor, gardens, under stones, litter and rotten wood.",
+      "finding_tips": "Year-round, turn stones and litter to find the pill woodlouse with a dark-backed body that rolls into a ball."
+    },
+    "zh": {
+      "summary": "セグロコシビロダンゴムシ（Spherillo dorsalis）。卷甲虫近缘的陆生等足类（团子虫类），栖于林床、庭园及石与落叶下潮湿处；受扰即卷成球，背中央多暗色、边缘较浅，分解落叶。",
+      "habitat_hint": "林床、庭园、石与落叶下、朽木下潮湿处。",
+      "finding_tips": "全年翻开石与落叶寻找背暗、能卷成球的团子虫。"
+    }
+  },
+  "Spilarctia lutea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キバネモンヒトリ。ヒトリガ科のガで、平地〜山地の林縁、草地、農地に見られる。前翅は黄色みをおびた地に小さな黒点が散らばる。幼虫はさまざまな草本を食べる毛虫。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の林縁、草地、農地、庭。",
+      "finding_tips": "初夏〜夏、灯火で黄色みのある前翅に黒点の散らばるヒトリガを探します。"
+    },
+    "en": {
+      "summary": "Kibane-mon-hitori (Spilarctia lutea), a tiger moth. A tiger moth of lowland to montane woodland edges, grassland and farmland; the forewing is yellowish with scattered small black dots. The caterpillar is a hairy larva feeding on various herbs, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland edges, grassland, farmland, gardens.",
+      "finding_tips": "From early summer to summer look at lights for the tiger moth with yellowish forewings scattered with black dots."
+    },
+    "zh": {
+      "summary": "キバネモンヒトリ（Spilarctia lutea）。灯蛾科的一种蛾，见于平地至山地林缘、草地及农田；前翅黄色底散布小黑点，幼虫为毛虫，取食多种草本，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林缘、草地、农田、庭园。",
+      "finding_tips": "初夏至夏于灯下寻找前翅黄色、散布黑点的灯蛾。"
+    }
+  },
+  "Spiraea dasyantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イブキシモツケ。バラ科シモツケ属の落葉低木で、石灰岩地や乾いた岩場、日当たりのよい斜面に生える。初夏、枝先に白い小花を半球状に多数集めて咲かせる。葉の裏に毛が多い。伊吹山などの石灰岩地に多いことが名の由来。",
+      "habitat_hint": "石灰岩地、乾いた岩場、日当たりのよい斜面、崖地。",
+      "finding_tips": "5〜6月、岩場や石灰岩地で枝先に白い小花を半球状に集める低木を探します。"
+    },
+    "en": {
+      "summary": "Ibuki-shimotsuke (Spiraea dasyantha). A deciduous shrub of limestone ground, dry rocks and sunny slopes; in early summer the branch tips carry many small white flowers in dome-shaped clusters, and the leaf undersides are hairy. It is named for Mt Ibuki and other limestone areas where it is common.",
+      "habitat_hint": "Limestone ground, dry rocks, sunny slopes, cliffs.",
+      "finding_tips": "In May–June look on rocky and limestone ground for the shrub with dome-shaped clusters of small white flowers at the branch tips."
+    },
+    "zh": {
+      "summary": "イブキシモツケ（Spiraea dasyantha）。蔷薇科绣线菊属落叶灌木，生于石灰岩地、干燥岩场及向阳坡；初夏枝端半球状密生白色小花，叶背多毛，因多产于伊吹山等石灰岩地而得名。",
+      "habitat_hint": "石灰岩地、干燥岩场、向阳坡、崖地。",
+      "finding_tips": "5 至 6 月于岩场及石灰岩地寻找枝端半球状白色小花簇的灌木。"
+    }
+  },
+  "Suillus bovinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bovine bolete",
+    "ja": {
+      "summary": "アミタケ。ヌメリイグチ科のきのこで、秋、アカマツなどマツ林の地上に群生する。傘は黄褐色〜赤褐色でぬめりがあり、裏はスポンジ状の管孔が網目状に大きく開く。傷つくと青緑色に変わる。食用にされる（要下処理）。",
+      "habitat_hint": "アカマツなどマツ林の地上、砂地の松林、公園の松の下。",
+      "finding_tips": "秋、マツ林の地上でぬめりのある黄褐色の傘と、裏の網目状に大きく開いた管孔を探します。傷つくと青変。"
+    },
+    "en": {
+      "summary": "Amitake, the bovine bolete (Suillus bovinus). A mushroom growing gregariously on the ground in pine woods (with red pine) in autumn; the cap is yellow-brown to reddish-brown and slimy, and the underside has a spongy layer of large, net-like pores that stain blue-green when bruised. It is edible (with preparation).",
+      "habitat_hint": "Ground of pine woods, sandy pine groves, under park pines.",
+      "finding_tips": "In autumn look on the ground in pine woods for the slimy yellow-brown cap with large net-like pores beneath that stain blue-green."
+    },
+    "zh": {
+      "summary": "点柄乳牛肝菌（アミタケ，Suillus bovinus）。乳牛肝菌科真菌，秋季群生于赤松等松林地面；菌盖黄褐至红褐、具黏液，菌管海绵状、孔大呈网状，伤后变蓝绿，可食（需处理）。",
+      "habitat_hint": "赤松等松林地面、沙地松林、公园松树下。",
+      "finding_tips": "秋季于松林地面寻找黏滑黄褐盖、背面网状大孔、伤变蓝绿的菌。"
+    }
   }
 }
