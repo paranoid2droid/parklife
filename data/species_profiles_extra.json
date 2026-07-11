@@ -240751,5 +240751,506 @@
       "habitat_hint": "平地至山地林地、林缘、杂木林。",
       "finding_tips": "春至夏于灯下寻找偏白、散布印花布状细斑的尺蛾。"
     }
+  },
+  "Eucarta virgo": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "ウスムラサキヨトウ。ヤガ科の小さなガで、平地〜山地の草地、林縁、湿った草地に見られる。前翅は淡い紫色を帯びた褐色で、細かな模様がある。幼虫はさまざまな草本を食べる。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の草地、林縁、湿った草地、河原。",
+      "finding_tips": "夏、灯火で淡い紫色を帯びた褐色の小さなヨトウを探します。"
+    },
+    "en": {
+      "summary": "Usu-murasaki-yotō (Eucarta virgo), an owlet moth. A small noctuid moth of lowland to montane grassland, edges and damp grassland; the forewing is pale purple-tinged brown with fine markings. The larva feeds on various herbs, and adults come to lights at night; small and inconspicuous.",
+      "habitat_hint": "Lowland to montane grassland, edges, damp grassland, riverbanks.",
+      "finding_tips": "In summer look at lights for the small pale purple-tinged brown owlet moth."
+    },
+    "zh": {
+      "summary": "ウスムラサキヨトウ（Eucarta virgo）。夜蛾科小型蛾，见于平地至山地草地、林缘及湿润草地；前翅带淡紫褐、具细斑，幼虫食多种草本，成虫夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地草地、林缘、湿润草地、河滩。",
+      "finding_tips": "夏于灯下寻找带淡紫褐的小型夜蛾。"
+    }
+  },
+  "Eupatorium luchuense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シマフジバカマ。キク科ヒヨドリバナ属の多年草で、南西諸島などの暖地の草地や林縁、道ばた、やや湿った斜面に生える。フジバカマの仲間で、対生の葉をつけ、秋、白っぽい〜淡紅色の小さな筒状花からなる頭花を散房状に多数咲かせる。南日本の島々に分布する。",
+      "habitat_hint": "南西諸島などの暖地の草地、林縁、道ばた、やや湿った斜面。",
+      "finding_tips": "秋、暖地の草地や林縁で対生の葉と、白っぽい小さな頭花を散房状につけるフジバカマの仲間を探します。"
+    },
+    "en": {
+      "summary": "Shima-fujibakama (Eupatorium luchuense). A perennial of the daisy family growing on warm-region grassland, woodland edges, roadsides and dampish slopes such as the Ryukyu Islands; a boneset relative with opposite leaves, in autumn it bears many small whitish to pale-pink heads of tubular florets in flat clusters. Distributed on the southern Japanese islands.",
+      "habitat_hint": "Warm-region grassland, woodland edges, roadsides, dampish slopes (Ryukyu etc.).",
+      "finding_tips": "In autumn on warm-region grassland and edges look for the opposite leaves and flat clusters of small whitish heads."
+    },
+    "zh": {
+      "summary": "シマフジバカマ（Eupatorium luchuense）。菊科泽兰属多年生草本，生于琉球等暖地草地、林缘、路旁及略湿坡地；为泽兰类、叶对生，秋于伞房状花序多生偏白至淡粉的筒状花头状花序，分布南日本诸岛。",
+      "habitat_hint": "琉球等暖地草地、林缘、路旁、略湿坡地。",
+      "finding_tips": "秋于暖地草地林缘寻找对生叶及伞房状偏白小头状花的泽兰类。"
+    }
+  },
+  "Euphorbia jolkinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イワタイゲキ。トウダイグサ科トウダイグサ属の多年草で、暖地の海岸の岩場や崖、砂れき地に生える。茎が束になって立ち、細長い葉を密につける。春〜初夏、黄緑色の杯状の花序（トウダイグサ特有の花）を集めてつける。傷つけると出る白い乳液は有毒で、皮膚や目を刺激する。海岸に大きな株をつくる。",
+      "habitat_hint": "暖地の海岸の岩場、崖、砂れき地、海岸の草地。",
+      "finding_tips": "4〜6月、海岸の岩場で束になって立つ茎と、黄緑色の杯状の花序をもつ株を探します。乳液は有毒なので触れない。"
+    },
+    "en": {
+      "summary": "Iwa-taigeki (Euphorbia jolkinii), a coastal spurge. A perennial of the spurge family growing on coastal rocks, cliffs and sandy gravel in warm regions; the stems stand in tufts densely set with narrow leaves. In spring to early summer it bears clusters of yellow-green cup-shaped inflorescences (the spurge cyathium). The white latex from cut stems is poisonous and irritates skin and eyes. It forms large tussocks on the coast.",
+      "habitat_hint": "Warm-region coastal rocks, cliffs, sandy gravel, coastal grassland.",
+      "finding_tips": "From April to June on coastal rocks look for the tufted stems with yellow-green cup-shaped inflorescences; the latex is poisonous, do not touch."
+    },
+    "zh": {
+      "summary": "岩大戟（イワタイゲキ，Euphorbia jolkinii）。大戟科大戟属多年生草本，生于暖地海岸岩场、崖及砂砾地；茎丛生直立、密生狭叶，春至初夏簇生黄绿色杯状花序（大戟特有），伤流白色乳汁有毒、刺激皮肤及眼，海岸成大丛。",
+      "habitat_hint": "暖地海岸岩场、崖、砂砾地、海岸草地。",
+      "finding_tips": "4 至 6 月于海岸岩场寻找丛生茎及黄绿杯状花序；乳汁有毒勿触。"
+    }
+  },
+  "Eupithecia interpunctaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pug moth",
+    "ja": {
+      "summary": "クロテンヤスジカバナミシャク。シャクガ科ナミシャク亜科のごく小さなガで、平地〜山地の樹林や林縁に見られる。翅は灰褐色〜黄褐色で、細い横線と小さな黒い点（黒点）がある。カバナミシャク（ユープテキア）の仲間で小型。幼虫はシャクトリムシ。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "春〜夏、灯火で灰褐色〜黄褐色に細い横線と小さな黒点のあるごく小さなナミシャクを探します。"
+    },
+    "en": {
+      "summary": "Kuroten-yasuji-kaba-namishaku (Eupithecia interpunctaria), a pug moth. A very small geometer moth of the Larentiinae (a pug) found in lowland to montane woodland and edges; the wings are grey-brown to yellow-brown with fine cross-lines and small black dots. The larva is an inchworm, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "From spring to summer look at lights for the very small grey-brown pug with fine cross-lines and small black dots."
+    },
+    "zh": {
+      "summary": "クロテンヤスジカバナミシャク（Eupithecia interpunctaria）。尺蛾科波尺蛾亚科的极小型蛾（小尺蛾），见于平地至山地林地及林缘；翅灰褐至黄褐、具细横线及小黑点，幼虫为尺蠖，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "春至夏于灯下寻找灰褐至黄褐、具细横线及小黑点的极小尺蛾。"
+    }
+  },
+  "Favonius ultramarina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairstreak",
+    "ja": {
+      "summary": "ハヤシミドリシジミ。シジミチョウ科のチョウで、平地〜山地のカシワ（柏）林やその周辺に生息する。オスの翅の表は金属光沢のある青緑色〜青色で美しく、裏は灰白色に細い線がある。幼虫はカシワの葉を食べる。年一回、初夏〜夏に現れ、朝夕に活発に飛ぶ。",
+      "habitat_hint": "平地〜山地のカシワ林、雑木林、林縁。",
+      "finding_tips": "6〜7月、カシワ林やその周辺で、翅表が金属光沢の青緑色に輝く小さなシジミチョウを探します。"
+    },
+    "en": {
+      "summary": "Hayashi-midori-shijimi (Favonius ultramarina), a hairstreak. A hairstreak butterfly of lowland to montane daimyo-oak (kashiwa) woodland and its surroundings; the male's upperside is a beautiful metallic blue-green to blue, the underside grey-white with fine lines. The larva feeds on daimyo-oak leaves. It appears once a year in early summer to summer, flying actively at dawn and dusk.",
+      "habitat_hint": "Lowland to montane daimyo-oak woodland, secondary woods, edges.",
+      "finding_tips": "In June–July in and around daimyo-oak woodland look for the small hairstreak with a metallic blue-green upperside."
+    },
+    "zh": {
+      "summary": "ハヤシミドリシジミ（Favonius ultramarina）。灰蝶科蝶，栖于平地至山地槲栎（柏）林及周边；雄翅面金属青绿至蓝、美丽，翅背灰白具细线，幼虫食槲栎叶，一年一代、初夏至夏出现，晨昏活跃飞行。",
+      "habitat_hint": "平地至山地槲栎林、杂木林、林缘。",
+      "finding_tips": "6 至 7 月于槲栎林及周边寻找翅面金属青绿闪耀的小型灰蝶。"
+    }
+  },
+  "Ficus septica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy fig",
+    "ja": {
+      "summary": "オオバイヌビワ。クワ科イチジク属の常緑小高木で、南西諸島などの暖地の照葉樹林や林縁、海岸近くの樹林に生える。イヌビワの仲間で葉が大きく、幅広い革質の葉をもつ。イチジクの仲間らしい球形の果実（花のう）を枝や幹につける。傷つけると白い乳液が出る。南日本の島々に分布。",
+      "habitat_hint": "南西諸島などの暖地の照葉樹林、林縁、海岸近くの樹林。",
+      "finding_tips": "一年中、暖地の照葉樹林で幅広い大きな革質の葉と、枝につく球形の果実（花のう）をもつイチジクの仲間を探します。"
+    },
+    "en": {
+      "summary": "Ōba-inubiwa, the hairy fig (Ficus septica). An evergreen small tree of the mulberry/fig family growing in warm-region evergreen broadleaf forest, edges and coastal woodland such as the Ryukyu Islands; a fig relative with large, broad leathery leaves. It bears spherical figs (syconia) on the branches and trunk, and cut parts exude white latex. Distributed on the southern Japanese islands.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, edges, coastal woodland (Ryukyu etc.).",
+      "finding_tips": "Year-round in warm-region evergreen forest look for the fig with broad, large leathery leaves and spherical figs on the branches."
+    },
+    "zh": {
+      "summary": "对叶榕（オオバイヌビワ，Ficus septica）。桑科榕属常绿小乔木，生于琉球等暖地照叶林、林缘及近海林；为榕类、叶大而宽革质，枝干生球形榕果（隐花果），伤流白色乳汁，分布南日本诸岛。",
+      "habitat_hint": "琉球等暖地照叶林、林缘、近海林。",
+      "finding_tips": "全年于暖地照叶林寻找宽大革质叶、枝生球形榕果的榕树。"
+    }
+  },
+  "Fissidens closteri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キュウシュウホウオウゴケ。ホウオウゴケ科の非常に小さな蘚類で、湿った土や岩、渓流沿いの岩、崖の土に生える。葉が茎の両側に二列に平らに並び、鳳凰（ほうおう）の羽のように見えるが、体は極めて小さい。九州（きゅうしゅう）などにちなむ名で、ルーペでないと見分けにくい微小な苔。",
+      "habitat_hint": "湿った土、岩、渓流沿いの岩、崖の土、林床の日陰。",
+      "finding_tips": "一年中、湿った岩や土で葉が二列に平らに並ぶ極めて小さなホウオウゴケの仲間をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kyūshū-hōō-goke (Fissidens closteri), a pocket moss. A very small moss of the Fissidentaceae growing on damp soil, rock, streamside boulders and cliff soil; the leaves lie flat in two rows along the stem like a phoenix's feather, but the plant is extremely small. Named for Kyushu, it is minute and hard to distinguish without a lens.",
+      "habitat_hint": "Damp soil, rock, streamside boulders, cliff soil, shaded forest floor.",
+      "finding_tips": "Year-round on damp rock and soil use a lens to find the extremely small pocket moss with flat two-ranked leaves."
+    },
+    "zh": {
+      "summary": "微形凤尾藓（キュウシュウホウオウゴケ，Fissidens closteri）。凤尾藓科极小型藓类，生于湿润土、岩、溪流沿岸岩及崖土；叶沿茎两侧二列平展如凤羽，但体极小，因九州得名，非放大镜难辨。",
+      "habitat_hint": "湿润土、岩、溪流沿岸岩、崖土、林床荫处。",
+      "finding_tips": "全年用放大镜于湿润岩土寻找叶二列平展、极小的凤尾藓。"
+    }
+  },
+  "Fossombronia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウロコゼニゴケ。ミズゼニゴケの仲間の葉状〜半葉状の苔類で、湿った土や田のあぜ、畑、崖の土、道ばたの湿地に生える。緑色で、縁が波打ってちぢれた小さな葉状体をつくり、うろこ（鱗）のように重なって見える。ゼニゴケに似るが小型。湿った裸地に群生する。",
+      "habitat_hint": "湿った土、田のあぜ、畑、崖の土、道ばたの湿地。",
+      "finding_tips": "湿った時期、田のあぜや畑の土の上で、縁が波打つ緑色のうろこ状の小さな葉状体を探します。"
+    },
+    "en": {
+      "summary": "Uroko-zeni-goke (Fossombronia japonica), a leafy liverwort. A thallose to semi-thallose liverwort growing on damp soil, paddy banks, fields, cliff soil and roadside wet ground; it forms small green thalli with wavy, crisped margins that overlap like scales. Resembling the crystalwort but small, it grows gregariously on damp bare ground.",
+      "habitat_hint": "Damp soil, paddy banks, fields, cliff soil, roadside wet ground.",
+      "finding_tips": "In wet periods on soil of paddy banks and fields look for the small green liverwort thalli with wavy, scale-like crisped margins."
+    },
+    "zh": {
+      "summary": "日本小叶苔（ウロコゼニゴケ，Fossombronia japonica）。溪苔近类的叶状至半叶状苔类，生于湿润土、田埂、农田、崖土及路旁湿地；体绿、小叶状体边缘波状卷缩、覆瓦如鳞，似地钱而小，于湿润裸地成片。",
+      "habitat_hint": "湿润土、田埂、农田、崖土、路旁湿地。",
+      "finding_tips": "湿润期于田埂农田土面寻找边缘波状、鳞状的绿色小叶状体。"
+    }
+  },
+  "Fusitriton oregonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oregon triton",
+    "ja": {
+      "summary": "アヤボラ。フジツガイ科の大型の巻貝で、北日本の冷たい海のやや深い岩礁や砂れき底にすむ。殻は紡錘形で厚く、殻表に細かい格子状の彫刻があり、褐色の毛状の殻皮（殻の皮）におおわれる。肉食性で、他の貝や動物を食べる。北方系の大型巻貝。",
+      "habitat_hint": "北日本の冷たい海のやや深い岩礁、砂れき底。",
+      "finding_tips": "北日本の海岸に打ち上げられた、紡錘形で格子状の彫刻があり褐色の毛状の殻皮をもつ大きな巻貝の殻を探します。"
+    },
+    "en": {
+      "summary": "Ayabora, the Oregon triton (Fusitriton oregonensis). A large snail of the Cymatiidae living on somewhat deep rocky reefs and sandy-gravel bottoms in the cold seas of northern Japan; the thick spindle-shaped shell has fine lattice sculpture and is covered in a brown hairy periostracum. Carnivorous, it eats other molluscs and animals. A large northern snail.",
+      "habitat_hint": "Somewhat deep cold-sea rocky reefs and sandy-gravel bottoms of northern Japan.",
+      "finding_tips": "Look on northern-Japan beaches for large beach-cast spindle-shaped shells with lattice sculpture and a brown hairy periostracum."
+    },
+    "zh": {
+      "summary": "北方嵌线螺（アヤボラ，Fusitriton oregonensis）。嵌线螺科大型螺，栖于北日本冷海略深岩礁及砂砾底；壳纺锤形而厚，表面具细格状雕刻，被褐色毛状壳皮，肉食，取食其他软体动物及动物，为北方大型螺。",
+      "habitat_hint": "北日本冷海略深岩礁、砂砾底。",
+      "finding_tips": "于北日本海岸寻找冲刷上岸、纺锤形具格状雕刻、被褐色毛状壳皮的大螺。"
+    }
+  },
+  "Gangaridopsis citrina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prominent moth",
+    "ja": {
+      "summary": "アカシャチホコ。シャチホコガ科のガで、平地〜山地の雑木林や樹林に見られる。翅は赤褐色〜黄褐色を帯び、シャチホコガらしい独特の模様がある。幼虫は広葉樹の葉を食べ、危険を感じると体をそらせる独特の姿勢をとる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の雑木林、樹林、林縁。",
+      "finding_tips": "初夏〜夏、灯火で赤褐色〜黄褐色を帯びたシャチホコガを探します。幼虫は体をそらせる独特の姿勢。"
+    },
+    "en": {
+      "summary": "Aka-shachihoko (Gangaridopsis citrina), a prominent moth. A prominent moth of lowland to montane secondary woodland and forest; the wings are reddish-brown to yellow-brown with the distinctive markings of a prominent moth. The larva feeds on broadleaf-tree leaves and arches its body into a characteristic posture when threatened. Adults come to lights at night.",
+      "habitat_hint": "Lowland to montane secondary woodland, forest, edges.",
+      "finding_tips": "From early summer to summer look at lights for the reddish-brown to yellow-brown prominent moth; the larva arches its body."
+    },
+    "zh": {
+      "summary": "アカシャチホコ（Gangaridopsis citrina）。舟蛾科的一种蛾，见于平地至山地杂木林及林地；翅红褐至黄褐、具舟蛾特有斑纹，幼虫食阔叶树叶、受惊时体躬起呈独特姿态，成虫夜间趋光。",
+      "habitat_hint": "平地至山地杂木林、林地、林缘。",
+      "finding_tips": "初夏至夏于灯下寻找红褐至黄褐的舟蛾，幼虫体躬起。"
+    }
+  },
+  "Gari virescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sunset clam",
+    "ja": {
+      "summary": "オチバガイ。ニッコウガイに近いササゲミゾガイ科（サンセットクラムの仲間）の二枚貝で、内湾や浅い海の砂底、砂泥底に浅く潜ってすむ。殻はやや細長い楕円形で、緑褐色〜黄褐色をおび、枯れ葉（落ち葉）のような色合いが名の由来。長い水管を伸ばし、ろ過して水中のプランクトンを食べる。",
+      "habitat_hint": "内湾や浅い海の砂底、砂泥底、干潟のふち。",
+      "finding_tips": "干潮時、砂底や砂泥底を掘って、枯れ葉のような緑褐色でやや細長い二枚貝を探します。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Ochiba-gai, a sunset clam (Gari virescens). A bivalve of the Psammobiidae (sunset clams, related to the tellins) living shallowly buried in sandy and sandy-mud bottoms of bays and shallow seas; the somewhat elongate oval shell is green-brown to yellow-brown, a dead-leaf colour that gives the Japanese name. It extends long siphons and filter-feeds on plankton.",
+      "habitat_hint": "Sandy and sandy-mud bottoms of bays and shallow seas, tidal-flat margins.",
+      "finding_tips": "At low tide dig in sandy or sandy-mud bottoms for the somewhat elongate dead-leaf green-brown bivalve."
+    },
+    "zh": {
+      "summary": "オチバガイ（Gari virescens）。紫云蛤科（落日蛤类，近樱蛤）双壳类，浅埋于内湾及浅海砂底、砂泥底；壳略长椭圆形，绿褐至黄褐、色似枯叶（故名），伸长水管滤食浮游生物。",
+      "habitat_hint": "内湾及浅海砂底、砂泥底、滩涂边缘。",
+      "finding_tips": "退潮时于砂底或砂泥底挖掘寻找似枯叶、绿褐略长的双壳贝。"
+    }
+  },
+  "Gerronema nemorale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オリーブサカズキタケ。ハラタケ目のきのこで、夏〜秋、湿った林床の腐木や倒木、朽ちた材、コケの間に発生する。傘は小さく、オリーブ色〜黄緑褐色をおび、中央がくぼんで杯（さかずき）状になる。ひだは柄に長く垂れる。柄は細い。木や落ち葉を分解する腐生菌。",
+      "habitat_hint": "夏〜秋、湿った林床の腐木、倒木、朽ちた材、コケの間。",
+      "finding_tips": "夏〜秋、湿った林床の腐木で、オリーブ色〜黄緑褐色で中央がくぼんだ杯状の小さな傘のきのこを探します。"
+    },
+    "en": {
+      "summary": "Olive-sakazuki-take (Gerronema nemorale). A mushroom of the Agaricales fruiting on rotten wood, logs, decaying timber and among mosses on damp forest floor in summer to autumn; the small cap is olive to yellow-green-brown, depressed at the centre into a cup shape, with gills running long down the slender stem. A saprotroph decomposing wood and litter.",
+      "habitat_hint": "Summer to autumn, rotten wood, logs, decaying timber, among mosses on damp forest floor.",
+      "finding_tips": "From summer to autumn on damp rotten wood look for the small olive to yellow-green-brown cap depressed into a cup, with decurrent gills."
+    },
+    "zh": {
+      "summary": "林木老伞（オリーブサカズキタケ，Gerronema nemorale）。伞菌目真菌，夏至秋生于湿润林床腐木、倒木、朽材及苔藓间；菌盖小、橄榄至黄绿褐、中央下凹成杯状，菌褶延生于细柄，为分解木材落叶的腐生菌。",
+      "habitat_hint": "夏至秋，湿润林床腐木、倒木、朽材、苔藓间。",
+      "finding_tips": "夏至秋于湿润林床腐木上寻找橄榄至黄绿褐、中央下凹成杯状的小盖菌。"
+    }
+  },
+  "Ghoria gigantea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Footman moth",
+    "ja": {
+      "summary": "キベリネズミホソバ。ヒトリガ科コケガ亜科のガで、平地〜山地の樹林、林縁に見られる。翅は灰色〜ねずみ色で、前翅の縁が黄色く縁取られる（黄縁）のが名の由来。幼虫は樹皮や岩につく地衣類（コケ）を食べる。夜に灯火に集まる。コケガの仲間ではやや大きめ。",
+      "habitat_hint": "平地〜山地の樹林、林縁、地衣類のある樹幹や岩。",
+      "finding_tips": "夏、灯火で灰色に前翅の縁が黄色いコケガを探します。"
+    },
+    "en": {
+      "summary": "Kiberi-nezumi-hosoba (Ghoria gigantea), a footman moth. A footman/lichen moth (Arctiinae, Lithosiini) of lowland to montane woodland and edges; the wings are grey to mouse-grey with a yellow-edged forewing margin, source of the name. The larva feeds on lichens on bark and rock, and adults come to lights at night. Rather large for a footman moth.",
+      "habitat_hint": "Lowland to montane woodland, edges, lichen-covered trunks and rock.",
+      "finding_tips": "In summer look at lights for the grey footman moth with a yellow-edged forewing margin."
+    },
+    "zh": {
+      "summary": "キベリネズミホソバ（Ghoria gigantea）。灯蛾科苔蛾亚科的一种蛾，见于平地至山地林地及林缘；翅灰至鼠灰、前翅缘镶黄（故名），幼虫取食树皮及岩上地衣，成虫夜间趋光，为苔蛾类中较大者。",
+      "habitat_hint": "平地至山地林地、林缘、生地衣的树干岩石。",
+      "finding_tips": "夏于灯下寻找灰色、前翅缘镶黄的苔蛾。"
+    }
+  },
+  "Ginebis argenteonitens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top shell",
+    "ja": {
+      "summary": "ギンエビス。ニシキウズガイ科の大型の巻貝で、やや深い海の砂れき底や岩礁にすむ。殻は低い円錐形で、殻皮の下に真珠光沢のある銀白色の層があり、磨くと美しく銀色に輝くことが名の由来。岩や砂の上の付着物や有機物を食べる。貝細工にも使われる。",
+      "habitat_hint": "やや深い海の砂れき底、岩礁、大陸棚の海底。",
+      "finding_tips": "海岸に打ち上げられた、低い円錐形で殻皮の下に銀白色の真珠光沢のある大きな巻貝の殻を探します。"
+    },
+    "en": {
+      "summary": "Gin-ebisu (Ginebis argenteonitens), a top shell. A large top shell of the Trochidae living on somewhat deep sandy-gravel bottoms and rocky reefs; the low conical shell has a pearly silvery-white layer beneath the periostracum that shines silver when polished, source of the name. It feeds on attached matter and organic matter on rock and sand, and is used in shell craft.",
+      "habitat_hint": "Somewhat deep sandy-gravel bottoms, rocky reefs, shelf seabed.",
+      "finding_tips": "Look on beaches for large beach-cast low conical shells with a pearly silvery-white layer beneath the periostracum."
+    },
+    "zh": {
+      "summary": "银口蝾螺近类的银口马蹄螺（ギンエビス，Ginebis argenteonitens）。马蹄螺科大型螺，栖于略深海砂砾底及岩礁；壳低圆锥形，壳皮下具珍珠光泽银白层、磨后闪银（故名），取食岩沙上附着物及有机质，供贝艺。",
+      "habitat_hint": "略深海砂砾底、岩礁、陆架海底。",
+      "finding_tips": "于海岸寻找冲刷上岸、低圆锥形、壳皮下具银白珍珠光泽的大螺。"
+    }
+  },
+  "Gnaphalium uliginosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh cudweed",
+    "ja": {
+      "summary": "ヒメチチコグサ。キク科ハハコグサ属（チチコグサの仲間）の小さな一年草で、ヨーロッパ〜アジア原産の帰化植物。水田や休耕田、湿った道ばた、荒れ地、水辺に生える。全体が白い綿毛におおわれて灰白色に見え、地表に低く広がる。夏〜秋、目立たない黄褐色の小さな頭花を集めてつける。",
+      "habitat_hint": "水田、休耕田、湿った道ばた、荒れ地、水辺。",
+      "finding_tips": "夏〜秋、水田や湿った道ばたで白い綿毛におおわれ低く広がる灰白色の小さな草を探します。"
+    },
+    "en": {
+      "summary": "Hime-chichikogusa, the marsh cudweed (Gnaphalium uliginosum). A small annual of the daisy family native to Europe and Asia, naturalized in paddies, fallow paddies, damp roadsides, waste ground and waterside; the whole plant is white-woolly and looks grey-white, spreading low over the ground. In summer to autumn it bears inconspicuous small yellow-brown heads in clusters.",
+      "habitat_hint": "Paddies, fallow paddies, damp roadsides, waste ground, waterside.",
+      "finding_tips": "From summer to autumn in paddies and damp roadsides look for the low-spreading grey-white woolly plant with clustered small heads."
+    },
+    "zh": {
+      "summary": "ヒメチチコグサ（Gnaphalium uliginosum）。菊科鼠麹草属小型一年生草本，原产欧亚，归化于稻田、休耕田、湿润路旁、荒地及水边；全株被白色绵毛显灰白、贴地铺展，夏至秋簇生不显的黄褐色小头状花。",
+      "habitat_hint": "稻田、休耕田、湿润路旁、荒地、水边。",
+      "finding_tips": "夏至秋于稻田及湿润路旁寻找被白绵毛、贴地铺展的灰白小草。"
+    }
+  },
+  "Grandidierella japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amphipod",
+    "ja": {
+      "summary": "ニホンドロソコエビ。ドロクダムシ科の小さな端脚類（ヨコエビの仲間）で、内湾や河口の干潟、汽水域の泥底、砂泥底にすむ。体は細長く左右に平たく、泥の中や表面に巣穴（管状の巣）をつくってすむ。有機物を食べ、干潟の生態系で重要な役割をはたす。魚などの餌にもなる。",
+      "habitat_hint": "内湾や河口の干潟、汽水域の泥底、砂泥底。",
+      "finding_tips": "干潮時、干潟の泥の表面や中を調べて、細長く左右に平たい小さな端脚類（ヨコエビの仲間）を探します。"
+    },
+    "en": {
+      "summary": "Nihon-dorosoko-ebi (Grandidierella japonica), an amphipod. A small amphipod of the Aoridae living on tidal flats and brackish mud and sandy-mud bottoms in bays and estuaries; the body is elongate and laterally compressed, and it builds tube-like burrows in and on the mud. It eats organic matter, plays an important role in the tidal-flat ecosystem and is food for fish.",
+      "habitat_hint": "Tidal flats of bays and estuaries, brackish mud and sandy-mud bottoms.",
+      "finding_tips": "At low tide examine tidal-flat mud surface and interior for the small, laterally compressed elongate amphipod."
+    },
+    "zh": {
+      "summary": "ニホンドロソコエビ（Grandidierella japonica）。艾片钩虾科小型端足类（钩虾类），栖于内湾及河口滩涂、半咸水泥底及砂泥底；体细长侧扁，于泥中及泥面筑管状巢，取食有机质，于滩涂生态系统作用重要，亦为鱼类饵料。",
+      "habitat_hint": "内湾及河口滩涂、半咸水泥底、砂泥底。",
+      "finding_tips": "退潮时检视滩涂泥面及泥中寻找细长侧扁的小型端足类。"
+    }
+  },
+  "Grateloupia asiatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "ムカデノリ。紅藻類ムカデノリ科の海藻で、潮間帯〜浅い海の岩に付着して生える。体は平たく帯状で、両縁から羽状に小枝を出し、その姿がムカデ（百足）の脚のように見えるのが名の由来。暗紅色〜赤紫色をおび、やわらかい。磯の岩でよく見られ、食用にもされる。",
+      "habitat_hint": "潮間帯〜浅い海の岩、磯、潮だまり。",
+      "finding_tips": "干潮時、磯の岩で平たい帯状の体の両縁から羽状に小枝を出す暗紅色の海藻を探します。"
+    },
+    "en": {
+      "summary": "Mukade-nori (Grateloupia asiatica), a red alga. A red alga of the Halymeniaceae attached to rock from the intertidal into shallow water; the body is flat and strap-like, giving off pinnate branchlets from both margins so that it looks like a centipede's legs, source of the name. It is dark-red to red-purple and soft, common on rocky shores and eaten.",
+      "habitat_hint": "Intertidal to shallow-water rock, rocky shores, tide pools.",
+      "finding_tips": "At low tide on rocky shores look for the flat strap-like dark-red alga with pinnate branchlets along both margins."
+    },
+    "zh": {
+      "summary": "亚洲蜈蚣藻（ムカデノリ，Grateloupia asiatica）。红藻门蜈蚣藻科海藻，附着于潮间带至浅海岩石；体扁带状，两缘羽状生小枝、形似蜈蚣足（故名），暗红至红紫、柔软，岩礁海岸常见，可供食用。",
+      "habitat_hint": "潮间带至浅海岩石、岩礁海岸、潮池。",
+      "finding_tips": "退潮时于岩礁海岸寻找扁带状、两缘羽状生小枝的暗红藻。"
+    }
+  },
+  "Gymnodoris amakusana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nudibranch",
+    "ja": {
+      "summary": "キンセンウミウシ。ウミウシ（後鰓類）の一種で、暖かい海の岩礁やサンゴ礁、潮下帯に見られる。体は白っぽく半透明で、体表に金色〜橙色の細かい線や斑（金線）が走るのが名の由来。他のウミウシを襲って食べる肉食性のウミウシとして知られる。ダイビングで観察される。",
+      "habitat_hint": "暖かい海の岩礁、サンゴ礁、潮下帯の岩の上。",
+      "finding_tips": "潮下帯の岩やサンゴ礁で、白っぽく半透明で体表に金色〜橙色の細かい線のあるウミウシを探します。"
+    },
+    "en": {
+      "summary": "Kinsen-umiushi (Gymnodoris amakusana), a nudibranch. A sea slug found on rocky and coral reefs and the subtidal of warm seas; the whitish, translucent body is marked with fine gold to orange lines and spots, source of the name. It is a predatory nudibranch that attacks and eats other sea slugs, and is seen while diving.",
+      "habitat_hint": "Warm-sea rocky and coral reefs, subtidal rock.",
+      "finding_tips": "On subtidal rock and coral reefs look for the whitish translucent nudibranch marked with fine gold to orange lines."
+    },
+    "zh": {
+      "summary": "キンセンウミウシ（Gymnodoris amakusana）。海蛞蝓（后鳃类）之一，见于暖海岩礁、珊瑚礁及潮下带；体偏白半透明，体表具金至橙色细线及斑（金线，故名），为捕食其他海蛞蝓的肉食性种，潜水可见。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮下带岩上。",
+      "finding_tips": "于潮下带岩及珊瑚礁寻找偏白半透明、具金至橙细线的海蛞蝓。"
+    }
+  },
+  "Heptapleurum heptaphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ivy tree",
+    "ja": {
+      "summary": "フカノキ。ウコギ科（シェフレラの仲間）の常緑高木で、南西諸島などの暖地の照葉樹林や林縁、海岸近くの樹林に生える。長い柄の先に手のひら状に数枚の小葉を放射状につける（掌状複葉）革質の葉が特徴。秋〜冬、白っぽい小花を多数つけ、黒く熟す小さな実をつける。南日本の暖地に分布。",
+      "habitat_hint": "南西諸島などの暖地の照葉樹林、林縁、海岸近くの樹林。",
+      "finding_tips": "一年中、暖地の照葉樹林で長い柄の先に手のひら状に小葉を放射状につける革質の葉をもつ常緑高木を探します。"
+    },
+    "en": {
+      "summary": "Fuka-no-ki, the ivy tree (Heptapleurum heptaphyllum). An evergreen tree of the ginseng family (a schefflera relative) growing in warm-region evergreen broadleaf forest, edges and coastal woodland such as the Ryukyu Islands; it has leathery palmately compound leaves with several leaflets spread on a long stalk. In autumn to winter it bears many whitish small flowers and small black fruits. Distributed in warm southern Japan.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, edges, coastal woodland (Ryukyu etc.).",
+      "finding_tips": "Year-round in warm-region evergreen forest look for the evergreen tree with leathery palmately compound leaves on long stalks."
+    },
+    "zh": {
+      "summary": "鹅掌柴（フカノキ，Heptapleurum heptaphyllum）。五加科（鹅掌藤类）常绿乔木，生于琉球等暖地照叶林、林缘及近海林；叶革质、掌状复叶、数枚小叶于长柄端放射排列，秋冬生多数白色小花、结黑色小果，分布南日本暖地。",
+      "habitat_hint": "琉球等暖地照叶林、林缘、近海林。",
+      "finding_tips": "全年于暖地照叶林寻找长柄端掌状复叶、革质的常绿乔木。"
+    }
+  },
+  "Heterobasidion insulare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "レンガタケ。マクカワタケ科のきのこ（多孔菌）で、生きた針葉樹や広葉樹の根ぎわ、切り株、倒木、地際に発生する。傘は半円形〜不定形で、表面が煉瓦（れんが）色〜赤褐色をおび、裏は白い管孔。根や幹の材を腐らせる木材腐朽菌で、林業では根株腐朽病の原因菌として問題になる。",
+      "habitat_hint": "生きた針葉樹や広葉樹の根ぎわ、切り株、倒木、地際。",
+      "finding_tips": "一年中、針葉樹の根ぎわや切り株で、煉瓦色〜赤褐色の半円形の傘と白い管孔をもつきのこを探します。"
+    },
+    "en": {
+      "summary": "Renga-take (Heterobasidion insulare). A polypore of the Bondarzewiaceae fruiting at the base, on stumps, logs and ground level of living conifers and broadleaf trees; the cap is semicircular to irregular, brick-coloured to reddish-brown on top with white pores beneath. A wood-decay fungus that rots root and trunk wood, it is a cause of root-rot disease and a problem in forestry.",
+      "habitat_hint": "Base of living conifers and broadleaf trees, stumps, logs, ground level.",
+      "finding_tips": "Year-round at the base of conifers and on stumps look for the brick-coloured to reddish-brown semicircular cap with white pores."
+    },
+    "zh": {
+      "summary": "レンガタケ（Heterobasidion insulare）。拟层孔菌科真菌（多孔菌），生于活针叶及阔叶树根际、树桩、倒木及地际；盖半圆至不规则、面砖红至红褐、背面白色菌管，为致根干材腐朽的木腐菌，林业中为根株腐朽病病原。",
+      "habitat_hint": "活针叶及阔叶树根际、树桩、倒木、地际。",
+      "finding_tips": "全年于针叶树根际及树桩寻找砖红至红褐、半圆形、背面白色菌管的菌。"
+    }
+  },
+  "Heterothera postalbida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carpet moth",
+    "ja": {
+      "summary": "シロシタトビイロナミシャク。シャクガ科ナミシャク亜科のガで、平地〜山地の樹林や林縁、松林に見られる。前翅は褐色（とび色）で、後翅が白っぽい（後白）のが名の由来。幼虫はマツなどの葉を食べる。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、松林。",
+      "finding_tips": "春〜夏、灯火で前翅が褐色、後翅が白っぽいナミシャクを探します。"
+    },
+    "en": {
+      "summary": "Shiroshita-tobiiro-namishaku (Heterothera postalbida), a carpet moth. A geometer moth of the Larentiinae found in lowland to montane woodland, edges and pine woods; the forewing is brown and the hindwing whitish, source of the name. The larva feeds on pine and other leaves, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane woodland, edges, pine woods.",
+      "finding_tips": "From spring to summer look at lights for the carpet moth with a brown forewing and whitish hindwing."
+    },
+    "zh": {
+      "summary": "シロシタトビイロナミシャク（Heterothera postalbida）。尺蛾科波尺蛾亚科的一种蛾，见于平地至山地林地、林缘及松林；前翅褐色、后翅偏白（故名），幼虫食松等叶，成虫夜间趋光。",
+      "habitat_hint": "平地至山地林地、林缘、松林。",
+      "finding_tips": "春至夏于灯下寻找前翅褐、后翅偏白的波尺蛾。"
+    }
+  },
+  "Hexacentrus unicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Katydid",
+    "ja": {
+      "summary": "タイワンウマオイ。キリギリス科ウマオイの仲間の昆虫で、暖地の草地や林縁、やぶ、水辺の茂みに生息する。体は緑色で細長く、翅が長い。夜に「ジー…」と連続する大きな声で鳴く。肉食性が強く、小さな昆虫を捕らえて食べる。前脚にとげが並ぶ。夜行性。",
+      "habitat_hint": "暖地の草地、林縁、やぶ、水辺の茂み。",
+      "finding_tips": "夏の夜、暖地の草むらやぶで「ジー…」と鳴く緑色で細長いウマオイの仲間を探します。"
+    },
+    "en": {
+      "summary": "Taiwan-umaoi (Hexacentrus unicolor), a katydid. A bush-cricket (Tettigoniidae) living in warm-region grassland, woodland edges, thickets and waterside vegetation; the body is green and elongate with long wings. It sings a loud continuous buzzing at night, is strongly predatory catching small insects, and has spiny front legs. Nocturnal.",
+      "habitat_hint": "Warm-region grassland, woodland edges, thickets, waterside vegetation.",
+      "finding_tips": "On summer nights in warm-region grass and thickets look for the green elongate katydid singing a loud continuous buzz."
+    },
+    "zh": {
+      "summary": "台湾寰螽（タイワンウマオイ，Hexacentrus unicolor）。螽斯科昆虫，栖于暖地草地、林缘、灌丛及水边草丛；体绿细长、翅长，夜发连续“唧——”大声，捕食性强、捕食小虫，前足具刺列，夜行。",
+      "habitat_hint": "暖地草地、林缘、灌丛、水边草丛。",
+      "finding_tips": "夏夜于暖地草丛灌丛寻找发连续“唧——”声、绿色细长的寰螽。"
+    }
+  },
+  "Hiradonta takaonis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prominent moth",
+    "ja": {
+      "summary": "タカオシャチホコ。シャチホコガ科のガで、山地の雑木林や樹林に見られる。翅は灰褐色でシャチホコガらしいくすんだ模様がある。幼虫はカエデなどの葉を食べ、危険を感じると体をそらせる独特の姿勢をとる。高尾（たかお）などにちなむ名。夜に灯火に集まる。",
+      "habitat_hint": "山地の雑木林、樹林、林縁。",
+      "finding_tips": "初夏〜夏、山地の灯火で灰褐色のくすんだ模様のシャチホコガを探します。幼虫は体をそらせる姿勢。"
+    },
+    "en": {
+      "summary": "Takao-shachihoko (Hiradonta takaonis), a prominent moth. A prominent moth of montane secondary woodland and forest; the wings are grey-brown with the muted markings of a prominent moth. The larva feeds on maple and other leaves and arches its body into a characteristic posture when threatened. Named for Mt Takao, it comes to lights at night.",
+      "habitat_hint": "Montane secondary woodland, forest, edges.",
+      "finding_tips": "From early summer to summer at montane lights look for the grey-brown, muted-patterned prominent moth."
+    },
+    "zh": {
+      "summary": "タカオシャチホコ（Hiradonta takaonis）。舟蛾科的一种蛾，见于山地杂木林及林地；翅灰褐、斑纹暗淡，幼虫食槭等叶、受惊时体躬起呈独特姿态，因高尾等地得名，成虫夜间趋光。",
+      "habitat_hint": "山地杂木林、林地、林缘。",
+      "finding_tips": "初夏至夏于山地灯下寻找灰褐、斑纹暗淡的舟蛾。"
+    }
   }
 }
