@@ -235342,5 +235342,484 @@
       "habitat_hint": "平地至山地林地、林缘、杂木林。",
       "finding_tips": "初夏至夏于灯下寻找前翅端弯成钩状的淡黄蛾。"
     }
+  },
+  "Calyptra thalictri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Vampire moth",
+    "ja": {
+      "summary": "ウスエグリバ。ヤガ科の中型のガで、平地〜山地の樹林や林縁に見られる。前翅は枯れ葉のような褐色で、外縁がえぐれたように見える。幼虫はアキカラマツなどキンポウゲ科を食べる。近縁種を含め、口吻で果実を刺して汁を吸い、まれに動物の血を吸うことも知られる（吸血蛾）。夜行性。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "夏〜秋、灯火や樹林周辺で外縁がえぐれた枯れ葉状の褐色のガを探します。"
+    },
+    "en": {
+      "summary": "Usu-eguriba, the vampire moth (Calyptra thalictri). A medium noctuid moth of lowland to montane woodland and edges; the forewing is dead-leaf brown with a scooped-out outer margin. The larva feeds on Thalictrum and other buttercup-family plants. Like its relatives it pierces fruit with its proboscis to drink juice, and is known rarely to suck the blood of animals. Nocturnal.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "From summer to autumn look at lights and around woodland for the dead-leaf-brown moth with a scooped-out forewing margin."
+    },
+    "zh": {
+      "summary": "ウスエグリバ（Calyptra thalictri）。夜蛾科中型蛾，见于平地至山地林地及林缘；前翅枯叶褐色、外缘凹缺如被削。幼虫食唐松草等毛茛科；连同近缘种以喙刺果吸汁，罕见吸食动物血液（吸血蛾），夜行。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "夏至秋于灯下及林缘寻找外缘凹缺、枯叶褐色的蛾。"
+    }
+  },
+  "Candelaria concolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ロウソクゴケ。ロウソクゴケ科の小さな葉状〜鱗片状の地衣で、樹幹や枝、まれに岩、コンクリートに鮮やかな黄色〜黄緑色のマット状に張りつく。細かく分かれた葉状体が集まり、粉状のもの（ソレディア）をつける。都市の街路樹などでも見られ、名は蝋燭（ろうそく）の炎の色に由来する。",
+      "habitat_hint": "樹幹、枝、まれに岩やコンクリート、街路樹。",
+      "finding_tips": "一年中、樹幹や枝で鮮やかな黄色〜黄緑色の細かなマット状の地衣を探します。"
+    },
+    "en": {
+      "summary": "Rōsoku-goke, the candleflame lichen (Candelaria concolor). A small foliose to squamulose lichen pressed onto tree trunks, branches and rarely rock or concrete as bright yellow to yellow-green mats; the finely divided lobes cluster and bear powdery soredia. Seen even on urban street trees, its name refers to a candle-flame colour.",
+      "habitat_hint": "Tree trunks, branches, rarely rock or concrete, street trees.",
+      "finding_tips": "Year-round on trunks and branches look for the bright yellow to yellow-green finely divided lichen mats."
+    },
+    "zh": {
+      "summary": "同色黄烛衣（ロウソクゴケ，Candelaria concolor）。烛衣科小型叶状至鳞状地衣，贴生于树干、枝及偶见岩石、混凝土，成鲜黄至黄绿垫状；裂片细碎簇生、具粉芽，城市行道树亦可见，名取烛焰之色。",
+      "habitat_hint": "树干、枝条、偶见岩石或混凝土、行道树。",
+      "finding_tips": "全年于树干枝条寻找鲜黄至黄绿、细碎垫状的地衣。"
+    }
+  },
+  "Carex glabrescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スナジスゲ。カヤツリグサ科スゲ属の多年草で、海岸の砂地や砂丘、砂れき地に生える。細い葉を根ぎわから出し、春〜初夏、褐色を帯びた小穂をつける。砂地（砂地＝すなじ）に生えることが名の由来。地下茎で砂の中を広がる。",
+      "habitat_hint": "海岸の砂地、砂丘、砂れき地、海岸の草地。",
+      "finding_tips": "5〜6月、海岸の砂地で細い葉と褐色を帯びた小穂をつけるスゲを探します。"
+    },
+    "en": {
+      "summary": "Sunaji-suge (Carex glabrescens), a sedge. A perennial sedge growing on coastal sand, dunes and sandy-gravel ground; slender leaves rise from the base and in spring to early summer it bears brownish spikelets. The name refers to its sandy habitat, and it spreads through the sand by rhizomes.",
+      "habitat_hint": "Coastal sand, dunes, sandy-gravel ground, coastal grassland.",
+      "finding_tips": "In May–June on coastal sand look for the slender-leaved sedge with brownish spikelets."
+    },
+    "zh": {
+      "summary": "スナジスゲ（Carex glabrescens）。莎草科薹草属多年生草本，生于海岸沙地、沙丘及砂砾地；细叶基生，春至初夏生带褐色小穗，因生沙地得名，以地下茎在沙中蔓延。",
+      "habitat_hint": "海岸沙地、沙丘、砂砾地、海岸草地。",
+      "finding_tips": "5 至 6 月于海岸沙地寻找细叶、带褐小穗的薹草。"
+    }
+  },
+  "Carex hakkodensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イトキンスゲ。カヤツリグサ科スゲ属の小さな多年草で、高山や亜高山の風衝草地、礫地、岩場に生える。糸のように細い葉をもち、夏、細い茎の先に小さな小穂をつける。八甲田（はっこうだ）などにちなむ名。高山の厳しい環境に適応した小型のスゲ。",
+      "habitat_hint": "高山や亜高山の風衝草地、礫地、岩場、雪田周辺。",
+      "finding_tips": "夏、高山の礫地や風衝草地で糸のように細い葉と、細い茎の先の小さな小穂をもつスゲを探します。"
+    },
+    "en": {
+      "summary": "Ito-kinsuge (Carex hakkodensis), a sedge. A small perennial sedge of alpine and subalpine wind-swept grassland, gravel and rocks; it has thread-fine leaves and, in summer, small spikelets at the tips of slender stems. Named for Mt Hakkōda and similar areas, it is a small sedge adapted to harsh alpine conditions.",
+      "habitat_hint": "Alpine and subalpine wind-swept grassland, gravel, rocks, snow-patch margins.",
+      "finding_tips": "In summer on alpine gravel and wind-swept grassland look for the sedge with thread-fine leaves and small spikelets on slender stems."
+    },
+    "zh": {
+      "summary": "イトキンスゲ（Carex hakkodensis）。莎草科薹草属小型多年生草本，生于高山及亚高山当风草地、砾地及岩场；叶细如丝，夏于细茎顶端生小穗，因八甲田等地得名，为适应高山严酷环境的小型薹草。",
+      "habitat_hint": "高山及亚高山当风草地、砾地、岩场、雪田周边。",
+      "finding_tips": "夏于高山砾地及当风草地寻找叶细如丝、细茎顶端小穗的薹草。"
+    }
+  },
+  "Carex imbecillis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アオミヤマカンスゲ。カヤツリグサ科スゲ属の常緑の多年草で、山地の湿った林床や林縁、谷沿いに生える。やや幅のある濃緑色の葉を根ぎわから束生し、春〜初夏、細い柄の先に緑褐色の小穂を垂らしてつける。ミヤマカンスゲの仲間で、葉が青緑色。",
+      "habitat_hint": "山地の湿った林床、林縁、谷沿いの日陰。",
+      "finding_tips": "5〜6月、山地の湿った林床で束生する濃緑の葉と、細い柄に垂れる緑褐色の小穂を探します。"
+    },
+    "en": {
+      "summary": "Ao-miyama-kansuge (Carex imbecillis), a sedge. An evergreen perennial sedge of damp montane forest floor, edges and valleys; rather broad dark-green leaves are tufted from the base, and in spring to early summer green-brown spikelets droop on slender stalks. A blue-green-leaved relative of Carex multifolia.",
+      "habitat_hint": "Damp montane forest floor, edges, shaded valleys.",
+      "finding_tips": "In May–June on damp montane forest floor look for the tufted dark-green leaves and green-brown spikelets drooping on slender stalks."
+    },
+    "zh": {
+      "summary": "アオミヤマカンスゲ（Carex imbecillis）。莎草科薹草属常绿多年生草本，生于山地湿润林床、林缘及谷地；较宽的深绿叶基部丛生，春至初夏细梗顶端垂生绿褐色小穗，为叶青绿的近种。",
+      "habitat_hint": "山地湿润林床、林缘、谷地荫处。",
+      "finding_tips": "5 至 6 月于山地湿润林床寻找丛生深绿叶及细梗垂生的绿褐小穗。"
+    }
+  },
+  "Cavicularia densa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シャクシゴケ。日本固有の葉状の苔類で、湿った林床の土や崖、岩の上に緑色の平たい葉状体をつくって生える。葉状体はしゃくし（杓子）のような形をとることがあり、名の由来となっている。一属一種の珍しい苔で、暗い湿った場所を好む。",
+      "habitat_hint": "湿った林床の土、崖、岩、渓流沿いの日陰。",
+      "finding_tips": "一年中、湿った林床の土や崖で、しゃくし状の緑色の平たい葉状体をつくる苔を探します。"
+    },
+    "en": {
+      "summary": "Shakushi-goke (Cavicularia densa), a thallose liverwort. A thallose liverwort endemic to Japan, growing as flat green thalli on damp forest-floor soil, cliffs and rock; the thallus can take a spoon-like shape, source of the name. A rare monotypic liverwort, it favours dark, damp places.",
+      "habitat_hint": "Damp forest-floor soil, cliffs, rock, shaded streamsides.",
+      "finding_tips": "Year-round on damp forest-floor soil and cliffs look for the flat green liverwort thalli of spoon-like shape."
+    },
+    "zh": {
+      "summary": "シャクシゴケ（Cavicularia densa）。日本特有的叶状苔类，于湿润林床土、崖及岩上形成绿色扁平叶状体；叶状体或呈勺状（故名），为一属一种的稀有苔，喜暗湿处。",
+      "habitat_hint": "湿润林床土、崖、岩石、溪流沿岸荫处。",
+      "finding_tips": "全年于湿润林床土及崖壁寻找勺状的绿色扁平叶状苔。"
+    }
+  },
+  "Cerbera manghas": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea mango",
+    "aliases": {
+      "zh-Hans": "海杧果"
+    },
+    "ja": {
+      "summary": "ミフクラギ（オキナワキョウチクトウ）。キョウチクトウ科ミフクラギ属の常緑小高木で、南西諸島などの暖地の海岸林や河口、マングローブのふちに生える。つやのある葉をもち、白い花に中心が赤い花を咲かせ、卵形の大きな果実をつける。果実・樹液など全体が強い有毒。海流で果実が運ばれる。",
+      "habitat_hint": "南西諸島などの暖地の海岸林、河口、マングローブのふち。",
+      "finding_tips": "夏、暖地の海岸林でつやのある葉と、中心が赤い白い花、卵形の大きな実を探します。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Mifukuragi, the sea mango (Cerbera manghas). An evergreen small tree of the dogbane family growing in warm-region coastal forest, estuaries and mangrove margins such as the Ryukyu Islands; it has glossy leaves, white flowers with a red centre and large egg-shaped fruits. The whole plant, fruit and sap included, is strongly poisonous, and the fruit is dispersed by sea currents.",
+      "habitat_hint": "Warm-region coastal forest, estuaries, mangrove margins (Ryukyu etc.).",
+      "finding_tips": "In summer in warm-region coastal forest look for the glossy leaves, red-centred white flowers and large egg-shaped fruits; poisonous, do not ingest."
+    },
+    "zh": {
+      "summary": "海杧果（ミフクラギ，Cerbera manghas）。夹竹桃科海杧果属常绿小乔木，生于琉球等暖地海岸林、河口及红树林边；叶有光泽，花白而心红，果卵形而大，全株（含果、汁）剧毒，果实随海流传播。",
+      "habitat_hint": "琉球等暖地海岸林、河口、红树林边。",
+      "finding_tips": "夏于暖地海岸林寻找亮叶、心红白花及卵形大果；有毒勿食。"
+    }
+  },
+  "Cestrum nocturnum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Night-blooming jessamine",
+    "aliases": {
+      "zh-Hans": "夜香树"
+    },
+    "ja": {
+      "summary": "ヤコウカ（ヤコウボク）。ナス科キチョウジ属の常緑低木で、熱帯アメリカ原産の観賞植物。暖地の庭や公園に植えられる。夜になると細い筒状の淡黄緑色の小花を開き、強い甘い香りを放つのが特徴。白い小さな実をつける。ナス科で有毒成分を含む。",
+      "habitat_hint": "暖地の庭、公園、生垣（植栽）。",
+      "finding_tips": "夏の夜、暖地の庭や公園で細い筒状の淡黄緑色の小花と、強い甘い香りを探します。"
+    },
+    "en": {
+      "summary": "Yakōka, the night-blooming jessamine (Cestrum nocturnum). An evergreen shrub of the nightshade family native to tropical America, an ornamental planted in warm-region gardens and parks; at night it opens slender tubular pale yellow-green flowers that give off a strong sweet scent, followed by small white berries. Being a nightshade, it contains toxic compounds.",
+      "habitat_hint": "Warm-region gardens, parks, hedges (planted).",
+      "finding_tips": "On summer nights in warm-region gardens look for the slender tubular pale yellow-green flowers and their strong sweet scent."
+    },
+    "zh": {
+      "summary": "夜香树（ヤコウカ，Cestrum nocturnum）。茄科夜香树属常绿灌木，原产热带美洲的观赏植物，栽于暖地庭园及公园；入夜开放细筒状淡黄绿小花、散发浓郁甜香，结白色小果，茄科含有毒成分。",
+      "habitat_hint": "暖地庭园、公园、绿篱（栽培）。",
+      "finding_tips": "夏夜于暖地庭园寻找细筒状淡黄绿小花及浓郁甜香。"
+    }
+  },
+  "Cetraria ornata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウチキアワビゴケ。ウメノキゴケ科（またはヘラガタキゴケの仲間）の葉状地衣で、高山や亜高山の岩、地上、コケの間に生える。葉状体は褐色〜暗褐色で、縁が波打ち、アワビの殻の内側のような光沢や質感をもつことが名の由来。寒冷な高山の環境に生える。",
+      "habitat_hint": "高山や亜高山の岩、地上、コケの間、風衝地。",
+      "finding_tips": "一年中、高山の岩や地上で褐色で縁が波打つ葉状の地衣を探します。"
+    },
+    "en": {
+      "summary": "Uchiki-awabi-goke (Cetraria ornata), a foliose lichen. A foliose lichen of the Parmeliaceae growing on rock, ground and among mosses in alpine and subalpine zones; the brown to dark-brown thallus has wavy margins with a sheen and texture recalling the inside of an abalone shell, source of the name. It grows in cold alpine conditions.",
+      "habitat_hint": "Alpine and subalpine rock, ground, among mosses, wind-swept sites.",
+      "finding_tips": "Year-round on alpine rock and ground look for the brown foliose lichen with wavy margins."
+    },
+    "zh": {
+      "summary": "ウチキアワビゴケ（Cetraria ornata）。梅衣科叶状地衣，生于高山及亚高山岩石、地面及苔藓间；叶状体褐至暗褐、边缘波状，具似鲍壳内面的光泽与质感（故名），生于寒冷高山环境。",
+      "habitat_hint": "高山及亚高山岩石、地面、苔藓间、当风地。",
+      "finding_tips": "全年于高山岩石及地面寻找褐色、边缘波状的叶状地衣。"
+    }
+  },
+  "Cetreliopsis asahinae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アワビゴケ。ウメノキゴケ科の葉状地衣で、山地〜亜高山の樹幹や枝、岩に張りつくように生える。葉状体は灰緑色〜褐色で、縁が波打ち、裏面が黒っぽい。アワビの殻の内側を思わせる質感が名の由来。空気のきれいな環境を好む。",
+      "habitat_hint": "山地〜亜高山の樹幹、枝、岩、林縁の木。",
+      "finding_tips": "一年中、山地の樹幹や岩で灰緑色〜褐色で縁が波打つ葉状の地衣を探します。裏面は黒っぽい。"
+    },
+    "en": {
+      "summary": "Awabi-goke (Cetreliopsis asahinae), a foliose lichen. A foliose lichen of the Parmeliaceae pressed onto tree trunks, branches and rock in montane to subalpine zones; the grey-green to brown thallus has wavy margins and a blackish underside. Its texture recalling the inside of an abalone shell gives the name, and it favours clean-air environments.",
+      "habitat_hint": "Montane to subalpine tree trunks, branches, rock, edge trees.",
+      "finding_tips": "Year-round on montane trunks and rock look for the grey-green to brown foliose lichen with wavy margins and a blackish underside."
+    },
+    "zh": {
+      "summary": "アワビゴケ（Cetreliopsis asahinae）。梅衣科叶状地衣，贴生于山地至亚高山树干、枝及岩石；叶状体灰绿至褐、边缘波状、背面偏黑，质感似鲍壳内面（故名），喜洁净空气环境。",
+      "habitat_hint": "山地至亚高山树干、枝、岩石、林缘树木。",
+      "finding_tips": "全年于山地树干及岩石寻找灰绿至褐、边缘波状、背面偏黑的叶状地衣。"
+    }
+  },
+  "Chlamisus spilotus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Warty leaf beetle",
+    "ja": {
+      "summary": "ムシクソハムシ。ハムシ科の小さな甲虫で、平地〜山地の樹林や林縁、下草の上に見られる。体は黒褐色でごつごつと凹凸があり、まるで虫の糞（ふん）のように見えるのが名の由来。幼虫は自分の糞でつくった筒状のケースに入って身を守る。刺激を受けると脚を縮めて動かなくなる。",
+      "habitat_hint": "平地〜山地の樹林、林縁、下草、低木の葉の上。",
+      "finding_tips": "初夏〜夏、下草や低木の葉の上で、虫の糞のようにごつごつした黒褐色の小さなハムシを探します。"
+    },
+    "en": {
+      "summary": "Mushikuso-hamushi (Chlamisus spilotus), a warty leaf beetle. A small leaf beetle (case-bearing, Chlamisinae) of lowland to montane woodland, edges and undergrowth; the blackish-brown body is knobbly and looks just like insect droppings, source of the name. The larva shelters in a tubular case built from its own frass, and the beetle draws in its legs and plays dead when disturbed.",
+      "habitat_hint": "Lowland to montane woodland, edges, undergrowth, on shrub leaves.",
+      "finding_tips": "From early summer to summer look on undergrowth and shrub leaves for the knobbly blackish-brown beetle resembling insect droppings."
+    },
+    "zh": {
+      "summary": "ムシクソハムシ（Chlamisus spilotus）。叶甲科小型甲虫，见于平地至山地林地、林缘及下层植被；体黑褐、凹凸粗糙，酷似虫粪（故名），幼虫居于自身粪便所筑筒状巢中，受扰即缩足假死。",
+      "habitat_hint": "平地至山地林地、林缘、下层植被、灌木叶上。",
+      "finding_tips": "初夏至夏于下层植被及灌木叶上寻找似虫粪、凹凸黑褐的小叶甲。"
+    }
+  },
+  "Chondria crassicaulis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ユナ。紅藻類フジマツモ科の海藻で、潮間帯の岩や潮だまりに生える。体は円柱状でやや太く、よく枝分かれし、暗紅色〜紫褐色をおびる。ぬめりがあり、束になって岩につく。磯でよく見られ、地方によっては食用にもされる。",
+      "habitat_hint": "潮間帯の岩、潮だまり、磯、防波堤。",
+      "finding_tips": "干潮時、磯の岩や潮だまりで円柱状でよく枝分かれした暗紅色の海藻を探します。"
+    },
+    "en": {
+      "summary": "Yuna (Chondria crassicaulis), a red alga. A red alga of the Rhodomelaceae growing on intertidal rock and in tide pools; the body is cylindrical and rather stout, much-branched and dark-red to purple-brown, slippery, attaching to rock in tufts. Common on rocky shores, it is eaten in some areas.",
+      "habitat_hint": "Intertidal rock, tide pools, rocky shores, breakwaters.",
+      "finding_tips": "At low tide on rocky shores and in tide pools look for the cylindrical, much-branched dark-red alga."
+    },
+    "zh": {
+      "summary": "粗枝软骨藻（ユナ，Chondria crassicaulis）。红藻门松节藻科海藻，生于潮间带岩石及潮池；体圆柱状而略粗、多分枝，暗红至紫褐、黏滑，成丛附岩，岩礁海岸常见，部分地区供食。",
+      "habitat_hint": "潮间带岩石、潮池、岩礁海岸、防波堤。",
+      "finding_tips": "退潮时于岩礁及潮池寻找圆柱状、多分枝的暗红藻。"
+    }
+  },
+  "Chrysoteuchia distinctellus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "テンスジツトガ。ツトガ科（ノメイガに近い）の小さなガで、平地〜山地の草地、田のあぜ、河原、林縁に見られる。翅は淡黄褐色で、細い金色〜銀色のすじが縦に走るのが特徴。幼虫はイネ科の草の根ぎわを食べる。夜に灯火に集まり、草地を歩くと飛び立つ。",
+      "habitat_hint": "平地〜山地の草地、田のあぜ、河原、林縁。",
+      "finding_tips": "初夏〜夏、草地を歩くと飛び立つ、淡黄褐色に金色のすじのある小さなツトガを探します。"
+    },
+    "en": {
+      "summary": "Tensuji-tsutoga (Chrysoteuchia distinctellus), a grass moth. A small crambid moth of lowland to montane grassland, paddy banks, riverbanks and edges; the wings are pale yellow-brown with fine gold to silver longitudinal streaks. The larva feeds at the base of grasses, and adults come to lights and flush up when you walk through grassland.",
+      "habitat_hint": "Lowland to montane grassland, paddy banks, riverbanks, edges.",
+      "finding_tips": "From early summer to summer walk through grassland to flush the small pale-yellow grass moth with fine gold streaks."
+    },
+    "zh": {
+      "summary": "テンスジツトガ（Chrysoteuchia distinctellus）。草螟科小型蛾，见于平地至山地草地、田埂、河滩及林缘；翅淡黄褐、具细金至银色纵纹，幼虫食禾草基部，成虫夜间趋光，行经草地时惊飞。",
+      "habitat_hint": "平地至山地草地、田埂、河滩、林缘。",
+      "finding_tips": "初夏至夏行经草地惊飞淡黄褐、具金色纵纹的小草螟。"
+    }
+  },
+  "Cirsium buergeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメアザミ。キク科アザミ属の多年草で、山地の草地や林縁、道ばた、やや湿った斜面に生える。細めの茎の先に、紅紫色の頭花を上向き〜横向きにつける。葉は羽状に切れ込みとげがある。アザミの仲間で比較的小型・細身。秋に開花する。",
+      "habitat_hint": "山地の草地、林縁、道ばた、やや湿った斜面。",
+      "finding_tips": "9〜10月、山地の草地や林縁で紅紫色の頭花と、とげのある羽状の葉をもつ細身のアザミを探します。"
+    },
+    "en": {
+      "summary": "Hime-azami (Cirsium buergeri), a thistle. A perennial thistle of montane grassland, woodland edges, roadsides and dampish slopes; slender stems bear red-purple heads facing up to sideways, with pinnately cut, spiny leaves. A relatively small, slender thistle, it flowers in autumn.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides, dampish slopes.",
+      "finding_tips": "In September–October look in montane grassland and edges for the slender thistle with red-purple heads and spiny pinnate leaves."
+    },
+    "zh": {
+      "summary": "ヒメアザミ（Cirsium buergeri）。菊科蓟属多年生草本，生于山地草地、林缘、路旁及略湿坡地；细茎顶端生红紫色头状花、向上至侧向，叶羽裂具刺，为较小而细的蓟，秋季开花。",
+      "habitat_hint": "山地草地、林缘、路旁、略湿坡地。",
+      "finding_tips": "9 至 10 月于山地草地林缘寻找红紫头状花、羽裂具刺叶的细身蓟。"
+    }
+  },
+  "Cirsium matsumurae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハクサンアザミ。キク科アザミ属の多年草で、山地〜亜高山の草地や林縁、やや湿った斜面に生える。大きな葉は羽状に深く切れ込み、とげがある。夏〜秋、茎の先に紅紫色の頭花をうつむき加減につける。白山（はくさん）にちなむ名で、山地の草原に生える。",
+      "habitat_hint": "山地〜亜高山の草地、林縁、やや湿った斜面、沢沿い。",
+      "finding_tips": "8〜9月、山地の草地でうつむき加減の紅紫色の頭花と、とげのある大きな羽状の葉をもつアザミを探します。"
+    },
+    "en": {
+      "summary": "Hakusan-azami (Cirsium matsumurae), a thistle. A perennial thistle of montane to subalpine grassland, woodland edges and dampish slopes; the large leaves are deeply pinnately cut and spiny. In summer to autumn it bears somewhat nodding red-purple heads at the stem tips. Named for Mt Hakusan, it grows in montane meadows.",
+      "habitat_hint": "Montane to subalpine grassland, woodland edges, dampish slopes, streamsides.",
+      "finding_tips": "In August–September look in montane grassland for the thistle with somewhat nodding red-purple heads and large spiny pinnate leaves."
+    },
+    "zh": {
+      "summary": "ハクサンアザミ（Cirsium matsumurae）。菊科蓟属多年生草本，生于山地至亚高山草地、林缘及略湿坡地；大叶羽状深裂具刺，夏至秋于茎顶生略下垂的红紫头状花，因白山得名，生于山地草甸。",
+      "habitat_hint": "山地至亚高山草地、林缘、略湿坡地、沟谷。",
+      "finding_tips": "8 至 9 月于山地草地寻找略下垂红紫头状花及大型羽裂具刺叶的蓟。"
+    }
+  },
+  "Citrus aurantium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bitter orange",
+    "aliases": {
+      "zh-Hans": "酸橙"
+    },
+    "ja": {
+      "summary": "ナツミカン（ナツダイダイ）。ミカン科ミカン属の常緑小高木で、暖地で栽培され、庭や公園、畑に植えられる。ダイダイ（ビターオレンジ）に近い柑橘で、大きな黄色い果実は酸味が強く、初夏まで木に残る。5月ごろ白い芳香のある花を咲かせる。果実は生食のほかマーマレードなどに使う。",
+      "habitat_hint": "暖地の庭、公園、畑、果樹園（栽培）。",
+      "finding_tips": "冬〜初夏、暖地の庭や畑で大きな黄色い果実が木に残る柑橘を探します。5月ごろ白い芳香の花。"
+    },
+    "en": {
+      "summary": "Natsumikan (Citrus aurantium). An evergreen small citrus tree grown in warm regions and planted in gardens, parks and orchards; a bitter-orange relative, its large yellow fruit is strongly acidic and hangs on the tree into early summer. Fragrant white flowers open around May, and the fruit is eaten fresh or made into marmalade.",
+      "habitat_hint": "Warm-region gardens, parks, fields, orchards (cultivated).",
+      "finding_tips": "From winter to early summer in warm-region gardens and fields look for the citrus with large yellow fruit hanging on the tree; fragrant white flowers around May."
+    },
+    "zh": {
+      "summary": "酸橙（ナツミカン，Citrus aurantium）。芸香科柑橘属常绿小乔木，暖地栽培，植于庭园、公园及果园；近苦橙的柑橘，大黄果酸味强，可挂树至初夏，5 月许开白色芳香花，果供鲜食或制果酱。",
+      "habitat_hint": "暖地庭园、公园、农田、果园（栽培）。",
+      "finding_tips": "冬至初夏于暖地庭园农田寻找大黄果挂树的柑橘，5 月许开白色香花。"
+    }
+  },
+  "Cladonia crispata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハイイロハハキゴケ。ハナゴケ科（ジョウゴゴケの仲間）の地衣で、山地〜亜高山の地上、腐木、コケの間、やせ地に生える。細い柄が立ち上がり、上部が漏斗状〜杯状にくぼんだり、細かく枝分かれしたりする。灰緑色〜灰白色。地面に群生する低い地衣。",
+      "habitat_hint": "山地〜亜高山の地上、腐木、コケの間、やせ地、湿原のふち。",
+      "finding_tips": "一年中、山地の地上や腐木で、灰緑色の細い柄が立ち上がり上部が杯状〜枝状になる地衣を探します。"
+    },
+    "en": {
+      "summary": "Haiiro-hahaki-goke (Cladonia crispata), a cup lichen. A lichen of the Cladoniaceae growing on the ground, rotten wood, among mosses and on poor ground in montane to subalpine zones; slender stalks rise and are hollowed at the top into funnels or cups, or finely branched. It is grey-green to grey-white and grows in low patches on the ground.",
+      "habitat_hint": "Montane to subalpine ground, rotten wood, among mosses, poor ground, bog margins.",
+      "finding_tips": "Year-round on montane ground and rotten wood look for the grey-green lichen with slender stalks cupped or branched at the top."
+    },
+    "zh": {
+      "summary": "ハイイロハハキゴケ（Cladonia crispata）。石蕊科地衣，生于山地至亚高山地面、腐木、苔藓间及瘠地；细柄直立、上部凹成漏斗至杯状或细分枝，灰绿至灰白，于地面成片低生。",
+      "habitat_hint": "山地至亚高山地面、腐木、苔藓间、瘠地、沼泽边。",
+      "finding_tips": "全年于山地地面及腐木寻找灰绿细柄、上部杯状至分枝的地衣。"
+    }
+  },
+  "Collybiopsis peronata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wood woollyfoot",
+    "ja": {
+      "summary": "ワサビカレバタケ。ホウライタケ科のきのこで、夏〜秋、雑木林や公園の落ち葉の上に群生する。傘は淡褐色〜黄褐色で、柄の下部に黄色っぽい毛が密生する。かむとワサビのような辛味があるのが名の由来。落ち葉を分解する腐生菌で、食用にはしない。",
+      "habitat_hint": "夏〜秋、雑木林や公園の落ち葉の上、林床の地上。",
+      "finding_tips": "夏〜秋、林床の落ち葉の上で淡褐色の傘と、柄の下部に黄色い毛の密生するきのこを探します。かむと辛い。"
+    },
+    "en": {
+      "summary": "Wasabi-kareba-take, the wood woollyfoot (Collybiopsis peronata). A mushroom of the Marasmiaceae fruiting gregariously on leaf litter in secondary woodland and parks in summer to autumn; the cap is pale to yellow-brown and the lower stem is densely yellowish-woolly. It has a wasabi-like pungent taste, source of the name; a litter-decomposer, it is not eaten.",
+      "habitat_hint": "Summer to autumn, on leaf litter in woodland and parks, forest floor.",
+      "finding_tips": "From summer to autumn look on leaf litter for the pale-brown cap with a densely yellow-woolly lower stem; the taste is peppery."
+    },
+    "zh": {
+      "summary": "ワサビカレバタケ（Collybiopsis peronata）。小皮伞科真菌，夏至秋群生于杂木林及公园落叶上；菌盖淡褐至黄褐，柄下部密被黄色绒毛，嚼之有山葵般辛辣（故名），为落叶腐生菌，不宜食用。",
+      "habitat_hint": "夏至秋，杂木林及公园落叶上、林床地面。",
+      "finding_tips": "夏至秋于林床落叶上寻找淡褐盖、柄下部密被黄毛的菌，嚼之辛辣。"
+    }
+  },
+  "Commelina diffusa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spreading dayflower",
+    "ja": {
+      "summary": "シマツユクサ。ツユクサ科ツユクサ属の一年草で、暖地の水辺や湿った畑、道ばた、水路のふちに生える。ツユクサに似るが、茎が地表を這って広がり、葉がやや細く、青い花がやや小さい。夏〜秋、朝に青い2弁の花を開き、昼にはしぼむ。暖地に多い。",
+      "habitat_hint": "暖地の水辺、湿った畑、道ばた、水路のふち。",
+      "finding_tips": "夏〜秋の朝、暖地の水辺や湿った畑で地を這う茎と、やや小さい青い花を探します。花は昼にしぼみます。"
+    },
+    "en": {
+      "summary": "Shima-tsuyukusa, the spreading dayflower (Commelina diffusa). An annual of the dayflower family growing at warm-region waterside, damp fields, roadsides and channel margins; it resembles the Asiatic dayflower but the stems creep and spread, the leaves are narrower and the blue flowers smaller. In summer to autumn it opens two-petalled blue flowers in the morning that fade by midday.",
+      "habitat_hint": "Warm-region waterside, damp fields, roadsides, channel margins.",
+      "finding_tips": "On summer to autumn mornings at warm-region waterside look for the creeping stems and smallish blue flowers that close by midday."
+    },
+    "zh": {
+      "summary": "节节草近似的散生鸭跖草（シマツユクサ，Commelina diffusa）。鸭跖草科鸭跖草属一年生草本，生于暖地水边、湿润农田、路旁及水渠边；似鸭跖草但茎匍匐蔓生、叶较狭、蓝花较小，夏至秋晨开二瓣蓝花、正午即闭，暖地多见。",
+      "habitat_hint": "暖地水边、湿润农田、路旁、水渠边。",
+      "finding_tips": "夏至秋晨于暖地水边寻找匍匐茎及较小蓝花，正午即闭。"
+    }
+  },
+  "Crangon affinis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sand shrimp",
+    "ja": {
+      "summary": "エビジャコ。エビジャコ科の小さなエビで、内湾や河口、砂底・砂泥底の浅い海にすむ。体は砂に似た灰褐色でまだら模様があり、砂に潜って身を隠す。第一脚のはさみが独特の形をもつ。底生の小動物や有機物を食べ、天ぷらなどで食用にもされる。",
+      "habitat_hint": "内湾、河口、砂底・砂泥底の浅い海、干潟のふち。",
+      "finding_tips": "砂底の浅い海や干潟のふちで、砂に似た灰褐色でまだら模様の小さなエビを探します。砂に潜ります。"
+    },
+    "en": {
+      "summary": "Ebi-jako, the sand shrimp (Crangon affinis). A small shrimp of the Crangonidae living in bays, estuaries and shallow sandy or sandy-mud bottoms; the sand-coloured grey-brown mottled body burrows into sand to hide, and the first legs have distinctively shaped claws. It eats small benthic animals and organic matter and is eaten in tempura and other dishes.",
+      "habitat_hint": "Bays, estuaries, shallow sandy or sandy-mud bottoms, tidal-flat edges.",
+      "finding_tips": "On shallow sandy bottoms and tidal-flat edges look for the small sand-coloured mottled shrimp that burrows into the sand."
+    },
+    "zh": {
+      "summary": "褐虾（エビジャコ，Crangon affinis）。褐虾科小型虾，栖于内湾、河口及砂底、砂泥底浅海；体灰褐似沙、具斑驳纹，潜沙隐匿，第一步足螯形独特，取食底栖小动物及有机质，可供食用（天妇罗等）。",
+      "habitat_hint": "内湾、河口、砂底及砂泥底浅海、滩涂边缘。",
+      "finding_tips": "于砂底浅海及滩涂边缘寻找灰褐似沙、具斑驳纹、潜沙的小虾。"
+    }
+  },
+  "Crepis tectorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤネタビラコ。キク科フタマタタンポポ属（ヤネタビラコ属）の一〜越年草で、ヨーロッパ〜アジア原産の帰化植物。道ばたや荒れ地、河原、線路ぎわ、砂地に生える。細い茎の先に黄色いタンポポに似た小さな頭花を多数つける。名は屋根の上にも生えることに由来する。",
+      "habitat_hint": "道ばた、荒れ地、河原、線路ぎわ、砂地、造成地。",
+      "finding_tips": "初夏〜夏、道ばたや荒れ地で黄色いタンポポに似た小さな頭花を多数つける細い草を探します。"
+    },
+    "en": {
+      "summary": "Yane-tabirako, the narrowleaf hawksbeard (Crepis tectorum). An annual to winter-annual of the daisy family native to Europe and Asia, naturalized on roadsides, waste ground, riverbanks, railway sides and sand; slender stems bear many small yellow dandelion-like heads. The name refers to its growing even on roofs.",
+      "habitat_hint": "Roadsides, waste ground, riverbanks, railway sides, sand, developed sites.",
+      "finding_tips": "From early summer to summer on roadsides and waste ground look for the slender plant with many small yellow dandelion-like heads."
+    },
+    "zh": {
+      "summary": "屋根草（ヤネタビラコ，Crepis tectorum）。菊科还阳参属一至越年生草本，原产欧亚，归化于路旁、荒地、河滩、铁道旁及沙地；细茎顶端多生黄色似蒲公英的小头状花，名指其亦能生于屋顶。",
+      "habitat_hint": "路旁、荒地、河滩、铁道旁、沙地、造地。",
+      "finding_tips": "初夏至夏于路旁荒地寻找多生黄色似蒲公英小头状花的细草。"
+    }
+  },
+  "Demopsestis punctigera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホシボシトガリバ。カギバガ科トガリバ亜科のガで、平地〜山地の雑木林や林縁に見られる。翅は灰褐色で、細かな点（星）状の模様が散らばるのが名の由来。幼虫はコナラなどブナ科の葉を食べる。夜に灯火や樹液に集まる。",
+      "habitat_hint": "平地〜山地の雑木林、林縁、コナラ・クヌギ林。",
+      "finding_tips": "春〜夏、灯火や樹液で灰褐色に細かな点状の模様が散らばるトガリバを探します。"
+    },
+    "en": {
+      "summary": "Hoshiboshi-togariba (Demopsestis punctigera), a moth. A moth of the Drepanidae (Thyatirinae) found in lowland to montane secondary woodland and edges; the wings are grey-brown scattered with fine dot-like (star) markings, source of the name. The larva feeds on oak leaves, and adults come to lights and sap at night.",
+      "habitat_hint": "Lowland to montane secondary woodland, edges, oak woods.",
+      "finding_tips": "From spring to summer look at lights and sap for the grey-brown moth scattered with fine dot-like markings."
+    },
+    "zh": {
+      "summary": "ホシボシトガリバ（Demopsestis punctigera）。钩蛾科波纹蛾亚科的一种蛾，见于平地至山地杂木林及林缘；翅灰褐、散布细点状（星）斑（故名），幼虫食栎类叶，成虫夜间趋光及树液。",
+      "habitat_hint": "平地至山地杂木林、林缘、麻栎栎类林。",
+      "finding_tips": "春至夏于灯下及树液寻找灰褐、散布细点状斑的波纹蛾。"
+    }
   }
 }
