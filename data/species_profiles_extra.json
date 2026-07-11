@@ -232953,5 +232953,483 @@
       "habitat_hint": "山地草地、林缘、略湿坡地、河岸。",
       "finding_tips": "7 至 8 月于山地草地寻找端具卷须的羽状叶及黄色蝶形花序。"
     }
+  },
+  "Lathyrus palustris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh pea",
+    "ja": {
+      "summary": "エゾノレンリソウ。マメ科レンリソウ属のつる性の多年草で、湿った草地や湿原、川岸、水辺の草むらに生える。羽状の葉の先が巻きひげになり、他の草にからんで立ち上がる。夏、紅紫色の蝶形の花を数個ずつ房状に咲かせる。北方系の湿地の植物。",
+      "habitat_hint": "湿った草地、湿原、川岸、水辺の草むら。",
+      "finding_tips": "6〜8月、湿った草地で巻きひげのある羽状の葉と、紅紫色の蝶形の花を探します。"
+    },
+    "en": {
+      "summary": "Ezo-no-renrisō, the marsh pea (Lathyrus palustris). A climbing perennial of the pea family growing in damp grassland, bogs, riverbanks and waterside herbage; the pinnate leaves end in tendrils that twine over other plants, and in summer it bears a few red-purple pea-flowers in short racemes. A northern wetland species.",
+      "habitat_hint": "Damp grassland, bogs, riverbanks, waterside herbage.",
+      "finding_tips": "From June to August look in damp grassland for the tendril-tipped pinnate leaves and red-purple pea-flowers."
+    },
+    "zh": {
+      "summary": "沼生山黧豆（エゾノレンリソウ，Lathyrus palustris）。豆科山黧豆属攀援多年生草本，生于湿润草地、沼泽、河岸及水边草丛；羽状叶端具卷须缠绕他草，夏于短总状花序数生红紫色蝶形花，为北方湿地植物。",
+      "habitat_hint": "湿润草地、沼泽、河岸、水边草丛。",
+      "finding_tips": "6 至 8 月于湿润草地寻找端具卷须的羽状叶及红紫蝶形花。"
+    }
+  },
+  "Leptodius exaratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オウギガニ。オウギガニ科の小型のカニで、岩礁海岸の潮間帯の岩やその下、転石帯にすむ。甲は横長で扇（おうぎ）のような形をし、灰褐色〜暗色。はさみの先が黒っぽい。オウギガニ科には毒をもつ種もあり、食用にはしない。",
+      "habitat_hint": "岩礁海岸の潮間帯、岩の下、転石帯、潮だまり。",
+      "finding_tips": "干潮時、磯の岩やその下で甲が扇形で横長のカニを探します。はさきの先が黒っぽいのが特徴。食用にしない。"
+    },
+    "en": {
+      "summary": "Ōgi-gani (Leptodius exaratus), a xanthid crab. A small xanthid rock crab of the rocky-shore intertidal, living on and under rock and in cobble beds; the carapace is broad and fan-shaped, grey-brown to dark, with blackish claw tips. Some xanthid crabs are toxic, so it is not eaten.",
+      "habitat_hint": "Rocky-shore intertidal, under rock, cobble beds, tide pools.",
+      "finding_tips": "At low tide look on and under rocky-shore boulders for the broad fan-shaped crab with blackish claw tips; do not eat it."
+    },
+    "zh": {
+      "summary": "オウギガニ（Leptodius exaratus）。扇蟹科小型蟹，栖于岩礁海岸潮间带岩面及岩下、卵石带；头胸甲横宽呈扇形，灰褐至暗色，螯端偏黑。扇蟹科部分种有毒，不宜食用。",
+      "habitat_hint": "岩礁海岸潮间带、岩下、卵石带、潮池。",
+      "finding_tips": "退潮时于岩礁岩面及岩下寻找甲横宽扇形、螯端偏黑的蟹；勿食。"
+    }
+  },
+  "Leucobryum bowringii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アラハシラガゴケ。シラガゴケ科の蘚類で、湿った林床の土や岩、樹の根元に白緑色〜灰緑色のこんもりしたクッション状の群落をつくる。乾くと白っぽく（白髪状に）見えるのが名の由来。葉は細く、密に集まる。低地〜山地の湿った林で普通。",
+      "habitat_hint": "湿った林床の土、岩、樹の根元、渓流沿いの日陰。",
+      "finding_tips": "一年中、湿った林床で白緑〜灰緑色のこんもりしたクッション状の蘚のかたまりを探します。乾くと白っぽい。"
+    },
+    "en": {
+      "summary": "Araha-shiraga-goke (Leucobryum bowringii), a pincushion moss. A moss of the Leucobryaceae forming rounded whitish-green to grey-green cushions on damp forest-floor soil, rock and tree bases; it looks whitish (like white hair) when dry, source of the name. The leaves are narrow and densely packed, common in damp lowland to montane woods.",
+      "habitat_hint": "Damp forest-floor soil, rock, tree bases, shaded streamsides.",
+      "finding_tips": "Year-round on damp forest floor look for the rounded whitish-green to grey-green cushions of moss; whitish when dry."
+    },
+    "zh": {
+      "summary": "狭叶白发藓（アラハシラガゴケ，Leucobryum bowringii）。白发藓科藓类，于湿润林床土、岩及树基形成白绿至灰绿的隆起垫状群落，干时偏白（如白发，故名），叶细而密集，常见于湿润低地至山地林。",
+      "habitat_hint": "湿润林床土、岩石、树基、溪流沿岸荫处。",
+      "finding_tips": "全年于湿润林床寻找白绿至灰绿隆起垫状的藓团，干时偏白。"
+    }
+  },
+  "Lobaria linita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスバカブトゴケ。カブトゴケ科の大型の葉状地衣で、山地〜亜高山の湿った樹幹や苔むした岩、林床に生える。葉状体は緑褐色で、表面に網目状の隆起やくぼみがあり、裏面は淡色。湿るとやわらかく緑がかる。空気のきれいな環境の指標とされる。",
+      "habitat_hint": "山地〜亜高山の湿った樹幹、苔むした岩、林床、渓流沿い。",
+      "finding_tips": "一年中、山地の湿った樹幹や岩で網目状の隆起がある大型の葉状地衣を探します。空気のよい環境の指標。"
+    },
+    "en": {
+      "summary": "Usuba-kabuto-goke (Lobaria linita), a foliose lichen. A large foliose lichen of the Lobariaceae growing on damp tree trunks, mossy rock and forest floor in montane to subalpine zones; the greenish-brown thallus has a net-like ridged and pitted surface and a pale underside, softening and greening when wet. It indicates clean-air conditions.",
+      "habitat_hint": "Montane to subalpine damp tree trunks, mossy rock, forest floor, streamsides.",
+      "finding_tips": "Year-round on damp montane trunks and rock look for the large foliose lichen with a net-like ridged surface; an indicator of clean air."
+    },
+    "zh": {
+      "summary": "ウスバカブトゴケ（Lobaria linita）。肺衣科大型叶状地衣，生于山地至亚高山湿润树干、苔藓岩及林床；叶状体绿褐，表面具网状脊与凹陷，背面色淡，湿时变软带绿，为洁净空气环境指标。",
+      "habitat_hint": "山地至亚高山湿润树干、苔藓岩、林床、溪流沿岸。",
+      "finding_tips": "全年于山地湿润树干及岩石寻找表面具网状脊的大型叶状地衣，为洁净空气指标。"
+    }
+  },
+  "Lonicera ramosissima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウグイスカグラ。スイカズラ科スイカズラ属の落葉低木で、暖地の海岸近くの林縁や樹林、岩場に生える。よく枝分かれし、早春、淡黄色〜白っぽい小さな筒状の花を対につけ、初夏に赤い小さな実をつける。ウグイスカグラの仲間で小型。",
+      "habitat_hint": "暖地の海岸近くの林縁、樹林、岩場、崖地。",
+      "finding_tips": "3〜4月、暖地の海岸近くの林縁でよく枝分かれした低木に、対につく淡黄色の小さな筒状の花を探します。"
+    },
+    "en": {
+      "summary": "Kō-uguisu-kagura (Lonicera ramosissima). A deciduous honeysuckle shrub of warm-region coastal woodland edges, forest and rocks; much-branched, it bears paired small pale-yellow to whitish tubular flowers in early spring and small red fruits in early summer. A small relative of L. gracilipes.",
+      "habitat_hint": "Warm-region coastal woodland edges, forest, rocks, cliffs.",
+      "finding_tips": "In March–April look on warm-region coastal edges for the much-branched shrub with paired pale-yellow tubular flowers."
+    },
+    "zh": {
+      "summary": "コウグイスカグラ（Lonicera ramosissima）。忍冬科忍冬属落叶灌木，生于暖地近海林缘、林地及岩场；多分枝，早春成对生淡黄至偏白小筒状花，初夏结红色小果，为近种小型者。",
+      "habitat_hint": "暖地近海林缘、林地、岩场、崖地。",
+      "finding_tips": "3 至 4 月于暖地近海林缘寻找多分枝灌木上成对的淡黄小筒状花。"
+    }
+  },
+  "Lysimachia nummularia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Creeping Jenny",
+    "aliases": {
+      "zh-Hans": "圆叶过路黄"
+    },
+    "ja": {
+      "summary": "コバンコナスビ。サクラソウ科オカトラノオ属の多年草で、ヨーロッパ原産の観賞植物（グラウンドカバー）。庭や公園に植えられ、湿った場所で野生化することもある。茎は地表を這い、丸い小判形の葉を対につける。初夏〜夏、黄色い5弁の花を葉のわきに咲かせる。",
+      "habitat_hint": "庭、公園、湿った半日陰の地面（植栽・グラウンドカバー）、野生化した水辺。",
+      "finding_tips": "6〜7月、庭や公園の地表を這う茎に、丸い葉と黄色い5弁花を探します。"
+    },
+    "en": {
+      "summary": "Koban-konasubi, creeping Jenny (Lysimachia nummularia). A perennial of the primrose family native to Europe, grown as an ornamental ground cover in gardens and parks and sometimes naturalized in damp places; the stems creep over the ground with paired round coin-shaped leaves, and in early summer yellow five-petalled flowers appear in the leaf axils.",
+      "habitat_hint": "Gardens, parks, damp part-shade ground (planted ground cover), naturalized waterside.",
+      "finding_tips": "In June–July look on garden and park ground for the creeping stems with round leaves and yellow five-petalled flowers."
+    },
+    "zh": {
+      "summary": "圆叶过路黄（コバンコナスビ，Lysimachia nummularia）。报春花科珍珠菜属多年生草本，原产欧洲的观赏地被，栽于庭园公园，湿处可逸生；茎匍匐地面，圆形似钱叶对生，初夏至夏叶腋开黄色五瓣花。",
+      "habitat_hint": "庭园、公园、湿润半荫地面（栽培地被）、逸生水边。",
+      "finding_tips": "6 至 7 月于庭园公园地面寻找匍匐茎上的圆叶及黄色五瓣花。"
+    }
+  },
+  "Melanothamnus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キブリイトグサ。紅藻類フジマツモ科の海藻で、潮間帯〜浅い海の岩や他の海藻、貝殻の上に生える。細い糸状の体がよく枝分かれし、房状にまとまる。暗紅色〜紫褐色で、やわらかい。イトグサの仲間。",
+      "habitat_hint": "潮間帯〜浅い海の岩、他の海藻や貝殻の上、潮だまり。",
+      "finding_tips": "一年中、磯の岩や海藻の上で、細い糸状によく枝分かれした暗紅色の房状の海藻を探します。"
+    },
+    "en": {
+      "summary": "Kiburi-itogusa (Melanothamnus japonicus), a red alga. A red alga of the Rhodomelaceae growing on rock, other seaweeds and shells from the intertidal into shallow water; the fine thread-like body is much-branched and forms tufts, dark-red to purple-brown and soft.",
+      "habitat_hint": "Intertidal to shallow-water rock, on other seaweeds and shells, tide pools.",
+      "finding_tips": "Year-round on rocks and seaweeds look for the fine, much-branched dark-red thread-like alga in tufts."
+    },
+    "zh": {
+      "summary": "キブリイトグサ（Melanothamnus japonicus）。红藻门松节藻科海藻，生于潮间带至浅海岩石、其他海藻及贝壳上；体细丝状、多分枝、成丛，暗红至紫褐、柔软。",
+      "habitat_hint": "潮间带至浅海岩石、其他海藻及贝壳上、潮池。",
+      "finding_tips": "全年于岩石及海藻上寻找细丝状、多分枝、暗红成丛的藻。"
+    }
+  },
+  "Mexichromis mariei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クリヤイロウミウシ。イロウミウシ科のウミウシ（後鰓類）で、暖かい海の岩礁やサンゴ礁、潮下帯の岩の上に見られる。体は栗色〜紫褐色の地に、縁が明るい色どりで、背中に突起（二次鰓）をもつ。海綿などを食べる。ダイビングでよく観察される。",
+      "habitat_hint": "暖かい海の岩礁、サンゴ礁、潮下帯の岩の上。",
+      "finding_tips": "潮下帯の岩やサンゴ礁で、栗色〜紫褐色で縁が明るいウミウシを探します。ダイビングでよく見られます。"
+    },
+    "en": {
+      "summary": "Kuriya-iro-umiushi (Mexichromis mariei), a nudibranch. A colourful sea slug of the Chromodorididae found on rocky reefs, coral reefs and subtidal rock in warm seas; the body is chestnut to purple-brown with a brightly coloured margin and dorsal gill plumes. It feeds on sponges and is often seen while diving.",
+      "habitat_hint": "Warm-sea rocky reefs, coral reefs, subtidal rock.",
+      "finding_tips": "On subtidal rock and coral reefs look for the chestnut to purple-brown nudibranch with a bright margin; often seen while diving."
+    },
+    "zh": {
+      "summary": "クリヤイロウミウシ（Mexichromis mariei）。多彩海蛞蝓科海蛞蝓（后鳃类），见于暖海岩礁、珊瑚礁及潮下带岩上；体栗至紫褐、边缘鲜亮，背具鳃羽，取食海绵，潜水常见。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮下带岩上。",
+      "finding_tips": "于潮下带岩及珊瑚礁寻找栗至紫褐、边缘鲜亮的海蛞蝓，潜水常见。"
+    }
+  },
+  "Mocis annetta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウンモンクチバ。ヤガ科シタバガの仲間のガで、平地〜山地の草地、林縁、農地に見られる。前翅は褐色で、雲紋（うんもん）状のくすんだ模様がある。幼虫はマメ科などの草本を食べる。夜に灯火に集まる。比較的大きめのガ。",
+      "habitat_hint": "平地〜山地の草地、林縁、農地、河原。",
+      "finding_tips": "夏〜秋、灯火で褐色に雲紋状のくすんだ模様のある大きめのヤガを探します。"
+    },
+    "en": {
+      "summary": "Unmon-kuchiba (Mocis annetta), an owlet moth. A fairly large noctuid moth of lowland to montane grassland, edges and farmland; the forewing is brown with a cloudy, muted pattern. The larva feeds on legumes and other herbs, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane grassland, edges, farmland, riverbanks.",
+      "finding_tips": "From summer to autumn look at lights for the fairly large brown owlet moth with a cloudy muted pattern."
+    },
+    "zh": {
+      "summary": "ウンモンクチバ（Mocis annetta）。夜蛾科的一种蛾，见于平地至山地草地、林缘及农田；前翅褐色、具云纹状暗淡斑，幼虫食豆科等草本，成虫夜间趋光，体较大。",
+      "habitat_hint": "平地至山地草地、林缘、农田、河滩。",
+      "finding_tips": "夏至秋于灯下寻找褐色、具云纹暗斑的较大夜蛾。"
+    }
+  },
+  "Mucidula mucida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヌメリツバタケ。タマバリタケ科のきのこで、夏〜秋、ブナなど広葉樹の枯れ木や倒木、立ち枯れに群生する。傘は白色〜半透明で強いぬめりがあり、柄につばがある。半透明で美しく、磁器（porcelain）のように見える。食用になる。",
+      "habitat_hint": "夏〜秋、ブナなど広葉樹の枯れ木、倒木、立ち枯れ。",
+      "finding_tips": "夏〜秋、ブナの枯れ木で白く半透明でぬめりのある傘と、柄のつばをもつきのこを探します。"
+    },
+    "en": {
+      "summary": "Numeri-tsubatake, the porcelain fungus (Mucidula mucida). A mushroom of the Physalacriaceae fruiting gregariously on dead wood, logs and standing dead trunks of beech and other broadleaf trees in summer to autumn; the white, translucent cap is very slimy and the stem has a ring. Beautifully translucent like porcelain, it is edible.",
+      "habitat_hint": "Summer to autumn, dead wood, logs and standing dead trunks of beech and broadleaf trees.",
+      "finding_tips": "From summer to autumn look on dead beech wood for the white, translucent, very slimy cap on a ringed stem."
+    },
+    "zh": {
+      "summary": "黏小奥德蘑（ヌメリツバタケ，Mucidula mucida）。膨瑚菌科真菌，夏至秋群生于山毛榉等阔叶树枯木、倒木及立枯干；菌盖白色至半透明、极黏，柄具环，半透明如瓷器，可食。",
+      "habitat_hint": "夏至秋，山毛榉等阔叶树枯木、倒木、立枯干。",
+      "finding_tips": "夏至秋于山毛榉枯木寻找白色半透明、极黏、柄具环的菌。"
+    }
+  },
+  "Murraya paniculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange jasmine",
+    "aliases": {
+      "zh-Hans": "九里香"
+    },
+    "ja": {
+      "summary": "ゲッキツ（シルクジャスミン）。ミカン科ゲッキツ属の常緑低木〜小高木で、南西諸島などの暖地に自生し、庭木や生垣、鉢植えにも植えられる。つやのある羽状の葉をもち、夏を中心に白い芳香の強い花を咲かせ、赤い実をつける。花はジャスミンのような甘い香り。",
+      "habitat_hint": "南西諸島などの暖地の林縁・樹林、庭、生垣、鉢植え。",
+      "finding_tips": "夏、暖地の庭や生垣でつやのある羽状の葉と、白い芳香の強い花、赤い実を探します。"
+    },
+    "en": {
+      "summary": "Gekkitsu, orange jasmine (Murraya paniculata). An evergreen shrub to small tree of the citrus family native to warm regions such as the Ryukyu Islands and widely planted as a garden tree, hedge or pot plant; it has glossy pinnate leaves and, mainly in summer, strongly fragrant white flowers followed by red fruits. The flowers smell sweetly of jasmine.",
+      "habitat_hint": "Warm-region woodland edges and forest, gardens, hedges, pots.",
+      "finding_tips": "In summer look in warm-region gardens and hedges for the glossy pinnate leaves, fragrant white flowers and red fruits."
+    },
+    "zh": {
+      "summary": "九里香（ゲッキツ，Murraya paniculata）。芸香科九里香属常绿灌木至小乔木，原产琉球等暖地，广植为庭木、绿篱及盆栽；叶羽状有光泽，主于夏开白色浓香花，结红果，花具茉莉般甜香。",
+      "habitat_hint": "琉球等暖地林缘及林地、庭园、绿篱、盆栽。",
+      "finding_tips": "夏于暖地庭园绿篱寻找羽状亮叶、白色浓香花及红果。"
+    }
+  },
+  "Myas cuprescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "アカガネオオゴミムシ。オサムシ科（ゴミムシの仲間）の大きめの甲虫で、山地の林床や林縁、落ち葉や石の下に見られる。体は赤銅色（あかがね色）の金属光沢をおび、がっしりしている。地表を歩き回り、小さな虫やミミズを捕らえる肉食性。夜行性。",
+      "habitat_hint": "山地の林床、林縁、落ち葉や石の下、朽木のそば。",
+      "finding_tips": "春〜秋、山地の林床で石や落ち葉をめくり、赤銅色の金属光沢をもつがっしりしたゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Akagane-ō-gomimushi (Myas cuprescens), a ground beetle. A largish ground beetle of montane forest floor and edges, under litter and stones; the sturdy body has a coppery (red-bronze) metallic sheen. Nocturnal, it roams the ground preying on small insects and earthworms.",
+      "habitat_hint": "Montane forest floor, edges, under litter and stones, near rotten wood.",
+      "finding_tips": "From spring to autumn turn litter and stones on montane forest floor to find the sturdy ground beetle with a coppery sheen."
+    },
+    "zh": {
+      "summary": "アカガネオオゴミムシ（Myas cuprescens）。步甲科较大甲虫，见于山地林床、林缘及落叶石下；体壮实，具赤铜色金属光泽，夜行，于地表游走捕食小虫及蚯蚓。",
+      "habitat_hint": "山地林床、林缘、落叶石下、朽木旁。",
+      "finding_tips": "春至秋于山地林床翻石与落叶寻找赤铜色光泽、壮实的步甲。"
+    }
+  },
+  "Neotermes sugioi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Drywood termite",
+    "ja": {
+      "summary": "スギオシロアリ。レイビシロアリ科（乾材シロアリの仲間）のシロアリで、南西諸島などの暖地の樹木の枯れた幹や枝の内部にすむ。土を必要とせず、湿り気の少ない乾いた材の中で集団生活する。体は淡色で、木材を食べて分解する。",
+      "habitat_hint": "南西諸島などの暖地の樹木の枯れた幹や枝の内部、乾いた材。",
+      "finding_tips": "暖地の枯れ枝や枯れ幹を割ると、内部に淡色のシロアリの集団が見つかることがあります。"
+    },
+    "en": {
+      "summary": "Sugio-shiroari (Neotermes sugioi), a drywood termite. A termite of the Kalotermitidae (drywood termites) living inside the dead trunks and branches of trees in warm regions such as the Ryukyu Islands; it needs no soil and colonizes dry, low-moisture wood, the pale-bodied insects feeding on and decomposing timber.",
+      "habitat_hint": "Interiors of dead trunks and branches of trees in warm regions, dry wood.",
+      "finding_tips": "Splitting warm-region dead branches or trunks may reveal a colony of pale termites inside."
+    },
+    "zh": {
+      "summary": "スギオシロアリ（Neotermes sugioi）。木白蚁科（干木白蚁类）白蚁，栖于琉球等暖地树木枯干及枯枝内部；无需土壤，于低湿干材中群居，体色淡，取食并分解木材。",
+      "habitat_hint": "琉球等暖地树木枯干及枯枝内部、干材。",
+      "finding_tips": "劈开暖地枯枝或枯干，内部可见淡色白蚁群体。"
+    }
+  },
+  "Nerita plicata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plicate nerite",
+    "ja": {
+      "summary": "キバアマガイ。アマオブネガイ科の巻貝で、暖かい海の岩礁海岸の潮間帯上部の岩やその割れ目にすむ。殻は丸くて厚く、白っぽい地に太いうね（肋）が走る。殻口の内側に歯状の突起（きば）があるのが名の由来。岩についた藻類を食べる。",
+      "habitat_hint": "暖かい海の岩礁海岸の潮間帯上部、岩の割れ目、飛沫帯。",
+      "finding_tips": "干潮時、暖地の磯の潮間帯上部で白っぽく太いうねのある丸い巻貝を探します。殻口内側に歯状突起。"
+    },
+    "en": {
+      "summary": "Kiba-amagai, the plicate nerite (Nerita plicata). A nerite snail of warm-sea rocky shores, living on rock and in crevices in the upper intertidal; the shell is round and thick, whitish with strong spiral ribs, and has tooth-like projections inside the aperture (source of the Japanese name). It grazes algae from the rock.",
+      "habitat_hint": "Warm-sea rocky-shore upper intertidal, rock crevices, splash zone.",
+      "finding_tips": "At low tide look in the upper intertidal of warm-region rocky shores for the round whitish snail with strong ribs and toothed aperture."
+    },
+    "zh": {
+      "summary": "キバアマガイ（Nerita plicata）。蜑螺科螺类，栖于暖海岩礁海岸潮间带上部岩面及缝隙；壳圆而厚，偏白具粗螺肋，壳口内侧具齿状突起（故名），刮食岩上藻类。",
+      "habitat_hint": "暖海岩礁海岸潮间带上部、岩缝、浪溅带。",
+      "finding_tips": "退潮时于暖地岩礁潮间带上部寻找偏白、具粗肋、壳口内具齿的圆螺。"
+    }
+  },
+  "Nipponacmea fuscoviridis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Limpet",
+    "ja": {
+      "summary": "クサイロアオガイ。ヨメガカサ科（ユキノカサガイ科）のカサガイ（笠状の巻貝）で、岩礁海岸の潮間帯の岩にはりついてすむ。殻は低い笠形で、暗緑色〜草色をおび、放射状の模様がある。岩についた藻類を削り取って食べ、決まった場所（ホームスカー）に戻る習性がある。",
+      "habitat_hint": "岩礁海岸の潮間帯の岩、転石帯、防波堤。",
+      "finding_tips": "干潮時、磯の岩で暗緑色〜草色の低い笠形にはりつくカサガイを探します。"
+    },
+    "en": {
+      "summary": "Kusairo-aogai (Nipponacmea fuscoviridis), a limpet. A limpet clinging to intertidal rock on rocky shores; the low conical shell is dark green to grass-coloured with radial markings. It scrapes algae from the rock and returns to a fixed home scar.",
+      "habitat_hint": "Rocky-shore intertidal rock, cobble beds, breakwaters.",
+      "finding_tips": "At low tide look on rocky-shore boulders for the low conical dark-green to grass-coloured limpet clinging to the rock."
+    },
+    "zh": {
+      "summary": "クサイロアオガイ（Nipponacmea fuscoviridis）。花帽贝科笠状螺类，附着于岩礁海岸潮间带岩面；壳低笠形，暗绿至草绿、具放射纹，刮食岩上藻类并具归巢（固定居痕）习性。",
+      "habitat_hint": "岩礁海岸潮间带岩面、卵石带、防波堤。",
+      "finding_tips": "退潮时于岩礁岩面寻找暗绿至草绿、低笠形附着的帽贝。"
+    }
+  },
+  "Novisuccinea lyrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amber snail",
+    "ja": {
+      "summary": "ヒメオカモノアラガイ。オカモノアラガイ科の小さな陸生の巻貝で、水辺や湿地、湿った草地、池沼のふちの草の上に見られる。殻は薄く半透明で、琥珀（こはく）色をおび、殻口が大きい。湿った環境を好み、水生植物や草の上をはう。",
+      "habitat_hint": "水辺、湿地、湿った草地、池沼のふちの草の上。",
+      "finding_tips": "一年中、水辺の湿った草の上で薄く半透明の琥珀色をした殻口の大きい小さな巻貝を探します。"
+    },
+    "en": {
+      "summary": "Hime-okamonoara-gai (Novisuccinea lyrata), an amber snail. A small land snail of the Succineidae found on plants at waterside, wetlands, damp grassland and pond margins; the thin translucent shell is amber-coloured with a large aperture. It favours damp places and crawls over aquatic plants and grass.",
+      "habitat_hint": "Waterside, wetlands, damp grassland, plants at pond margins.",
+      "finding_tips": "Year-round on damp waterside plants look for the small thin translucent amber snail with a large aperture."
+    },
+    "zh": {
+      "summary": "ヒメオカモノアラガイ（Novisuccinea lyrata）。琥珀螺科小型陆生螺，见于水边、湿地、湿润草地及池沼边草上；壳薄半透明、琥珀色、壳口大，喜湿处，爬行于水生植物及草上。",
+      "habitat_hint": "水边、湿地、湿润草地、池沼边草上。",
+      "finding_tips": "全年于水边湿润草上寻找薄半透明、琥珀色、壳口大的小螺。"
+    }
+  },
+  "Oenothera perennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small sundrops",
+    "ja": {
+      "summary": "ヒナマツヨイグサ。アカバナ科マツヨイグサ属の多年草で、北アメリカ原産の帰化植物。道ばたや芝地、河原、荒れ地に生える。マツヨイグサの仲間の中では小型で、夏、黄色い小さな4弁の花を穂状につける。花はしぼむと赤みを帯びることがある。",
+      "habitat_hint": "道ばた、芝地、河原、荒れ地、造成地。",
+      "finding_tips": "6〜8月、道ばたや芝地で穂状につく黄色い小さな4弁の花をもつ小型のマツヨイグサを探します。"
+    },
+    "en": {
+      "summary": "Hina-matsuyoigusa, the small sundrops (Oenothera perennis). A perennial of the evening-primrose family native to North America, naturalized on roadsides, lawns, riverbanks and waste ground; small for its genus, in summer it bears small yellow four-petalled flowers in spikes, sometimes reddening as they fade.",
+      "habitat_hint": "Roadsides, lawns, riverbanks, waste ground, developed sites.",
+      "finding_tips": "From June to August look on roadsides and lawns for the small evening-primrose with spikes of small yellow four-petalled flowers."
+    },
+    "zh": {
+      "summary": "ヒナマツヨイグサ（Oenothera perennis）。柳叶菜科月见草属多年生草本，原产北美，归化于路旁、草坪、河滩及荒地；为属中小型者，夏于穗状花序生黄色四瓣小花，凋谢时或带红。",
+      "habitat_hint": "路旁、草坪、河滩、荒地、造地。",
+      "finding_tips": "6 至 8 月于路旁草坪寻找穗状黄色四瓣小花的小型月见草。"
+    }
+  },
+  "Oia imadatei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Money spider",
+    "ja": {
+      "summary": "イマダテテングヌカグモ。サラグモ科（ヌカグモの仲間）の非常に小さなクモで、林床の落ち葉の間や草の根ぎわ、湿った地表に見られる。小さな不規則な網を張り、そこに落ちた微小な虫を捕らえる。頭部が突出する（テング状）ものが多い。目立たない微小なクモ。",
+      "habitat_hint": "林床の落ち葉の間、草の根ぎわ、湿った地表、下草の中。",
+      "finding_tips": "一年中、林床の落ち葉や草の根ぎわで、ごく小さな網を張る微小なクモを探します。ルーペが必要。"
+    },
+    "en": {
+      "summary": "Imadate-tengu-nuka-gumo (Oia imadatei), a money spider. A very small spider of the Linyphiidae found among leaf litter, at grass bases and on damp ground; it builds a small irregular web to catch minute insects that fall in, and the head is often projecting. A tiny, inconspicuous spider.",
+      "habitat_hint": "Leaf litter, grass bases, damp ground, among undergrowth.",
+      "finding_tips": "Year-round among leaf litter and at grass bases look for the tiny spider spinning a small web; a lens is needed."
+    },
+    "zh": {
+      "summary": "イマダテテングヌカグモ（Oia imadatei）。皿蛛科极小型蜘蛛，见于林床落叶间、草基及湿润地表；结小型不规则网，捕落入的微小昆虫，头部多突出，为不显眼的微小蜘蛛。",
+      "habitat_hint": "林床落叶间、草基、湿润地表、下层植被中。",
+      "finding_tips": "全年于林床落叶及草基寻找结小网的微小蜘蛛，需放大镜。"
+    }
+  },
+  "Okamuraea brachydictyon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソオカムラゴケ。アオギヌゴケ科に近い蘚類で、樹幹や枝、岩の表面に緑〜黄緑色の細い枝を這わせてマット状に生える。細く長く這う茎から短い枝を出し、乾くと枝が寄る。低地〜山地の樹林で樹皮や岩に着生する。",
+      "habitat_hint": "樹幹、枝、岩の表面、公園や社寺の木。",
+      "finding_tips": "一年中、樹幹や枝で緑〜黄緑の細い枝を這わせるマット状の蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Hoso-okamura-goke (Okamuraea brachydictyon), a moss. A moss growing as green to yellow-green mats of slender creeping branches on tree trunks, branches and rock surfaces; long creeping stems give off short branches that draw together when dry. It grows epiphytically on bark and rock in lowland to montane woods.",
+      "habitat_hint": "Tree trunks, branches, rock surfaces, park and shrine trees.",
+      "finding_tips": "Year-round use a lens on trunks and branches to find the mats of slender green to yellow-green creeping moss branches."
+    },
+    "zh": {
+      "summary": "短枝褶藓（ホソオカムラゴケ，Okamuraea brachydictyon）。近青藓科藓类，于树干、枝及岩面以细枝匍匐成垫；长匍匐茎生短枝，干时枝并拢，附生于低地至山地林的树皮及岩石。",
+      "habitat_hint": "树干、枝条、岩面、公园及神社寺庙树木。",
+      "finding_tips": "全年用放大镜于树干枝条寻找绿至黄绿细枝匍匐的藓垫。"
+    }
+  },
+  "Oruza mira": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アトキスジクルマコヤガ。ヤガ科の小さなガで、平地〜山地の樹林や林縁、草地に見られる。翅は淡褐色〜黄褐色で、後ろ寄りに黄色っぽいすじ（後黄条）と細かな模様がある。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の樹林、林縁、草地、湿った草地。",
+      "finding_tips": "夏、灯火で淡褐色に後ろ寄りの黄色っぽいすじのある小さなガを探します。"
+    },
+    "en": {
+      "summary": "Atoki-suji-kuruma-koyaga (Oruza mira), a small owlet moth. A small noctuid moth of lowland to montane woodland, edges and grassland; the wings are pale brown to yellow-brown with a yellowish streak toward the rear and fine markings. It comes to lights at night and is small and inconspicuous.",
+      "habitat_hint": "Lowland to montane woodland, edges, grassland, damp grassland.",
+      "finding_tips": "In summer look at lights for the small pale-brown moth with a yellowish streak toward the rear."
+    },
+    "zh": {
+      "summary": "アトキスジクルマコヤガ（Oruza mira）。夜蛾科小型蛾，见于平地至山地林地、林缘及草地；翅淡褐至黄褐，后部具偏黄条纹及细斑，夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地林地、林缘、草地、湿润草地。",
+      "finding_tips": "夏于灯下寻找淡褐、后部具偏黄条纹的小蛾。"
+    }
+  },
+  "Oxya intricata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コイナゴ。バッタ科（イナゴの仲間）の昆虫で、水田や湿った草地、水辺のイネ科の茂みに生息する。体は緑色〜黄緑色で、側面に暗色の帯があり、イナゴより小さめ。イネ科の葉を食べ、稲作地帯でよく見られる。跳ねて逃げる。",
+      "habitat_hint": "水田、湿った草地、水辺のイネ科の茂み、あぜ。",
+      "finding_tips": "夏〜秋、水田やあぜのイネ科の草むらで緑色に側面の暗帯がある小さめのイナゴを探します。"
+    },
+    "en": {
+      "summary": "Ko-inago (Oxya intricata), a rice grasshopper. A grasshopper of the Acrididae living in paddies, damp grassland and waterside grass; the body is green to yellow-green with a dark side stripe, smaller than the common rice grasshopper. It eats grass leaves, is common in rice-growing areas and hops away when disturbed.",
+      "habitat_hint": "Paddies, damp grassland, waterside grass, paddy banks.",
+      "finding_tips": "From summer to autumn look in paddy-side grass for the greenish grasshopper with a dark side stripe, smaller than the common rice grasshopper."
+    },
+    "zh": {
+      "summary": "コイナゴ（Oxya intricata）。蝗科（稻蝗类）昆虫，栖于稻田、湿润草地及水边禾草丛；体绿至黄绿、体侧具暗带，较稻蝗小，取食禾草叶，稻区常见，受扰跳跃逃逸。",
+      "habitat_hint": "稻田、湿润草地、水边禾草丛、田埂。",
+      "finding_tips": "夏至秋于稻田田埂禾草丛寻找绿色、体侧具暗带的较小稻蝗。"
+    }
+  },
+  "Pannaria conoplea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コフキハナビラゴケ。ハナビラゴケ科の葉状〜鱗片状の地衣で、山地の湿った樹幹や苔むした岩に張りつくように生える。灰青色〜青灰色で、縁が花びら状に細かく分かれ、表面に粉状のもの（ソレディア）をつける。空気のきれいな環境を好む。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩、林縁の木。",
+      "finding_tips": "一年中、山地の湿った樹幹や岩で灰青色で縁が花びら状の粉をふいた地衣を探します。"
+    },
+    "en": {
+      "summary": "Kofuki-hanabira-goke (Pannaria conoplea), a lichen. A foliose to squamulose lichen of the Pannariaceae pressed onto damp tree trunks and mossy rock in mountains; it is grey-blue to blue-grey, the margins finely divided into petal-like lobes, with a powdery covering (soredia). It favours clean-air environments.",
+      "habitat_hint": "Montane damp tree trunks, mossy rock, edge trees.",
+      "finding_tips": "Year-round on damp montane trunks and rock look for the grey-blue lichen with petal-like margins and a powdery surface."
+    },
+    "zh": {
+      "summary": "コフキハナビラゴケ（Pannaria conoplea）。鳞叶衣科叶状至鳞状地衣，贴生于山地湿润树干及苔藓岩；体灰蓝至蓝灰，边缘细裂呈花瓣状，表面具粉芽（粉状），喜洁净空气环境。",
+      "habitat_hint": "山地湿润树干、苔藓岩、林缘树木。",
+      "finding_tips": "全年于山地湿润树干及岩石寻找灰蓝、边缘花瓣状、具粉的地衣。"
+    }
   }
 }
