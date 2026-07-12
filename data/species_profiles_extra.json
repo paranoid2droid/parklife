@@ -242281,5 +242281,507 @@
       "habitat_hint": "水边、湿润草地、河岸、路旁、湿地。",
       "finding_tips": "夏于水边及湿润草地寻找四棱茎、狭长对生叶及淡紫小花的细长花穗，揉之有薄荷香。"
     }
+  },
+  "Metacolpodes buchannani": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオアオモリヒラタゴミムシ。オサムシ科（ゴミムシの仲間）の甲虫で、平地〜山地の林床や林縁、水辺、落ち葉や石の下に見られる。体は平たく、上翅が青緑色〜青藍色の金属光沢をおびて美しい。地表を素早く歩き、小さな虫を捕らえる肉食性。夜行性で灯火にも集まる。",
+      "habitat_hint": "平地〜山地の林床、林縁、水辺、落ち葉や石の下。",
+      "finding_tips": "春〜秋、林床や水辺で石や落ち葉をめくり、青緑色〜青藍色の金属光沢のある平たいゴミムシを探します。"
+    },
+    "en": {
+      "summary": "Ō-aomori-hirata-gomimushi, Buchanan's harp ground beetle (Metacolpodes buchannani). A ground beetle of lowland to montane forest floor, edges, waterside and under litter and stones; the flattened body has beautiful blue-green to blue-indigo metallic elytra. It runs fast over the ground preying on small insects, is nocturnal and comes to lights.",
+      "habitat_hint": "Lowland to montane forest floor, edges, waterside, under litter and stones.",
+      "finding_tips": "From spring to autumn turn litter and stones on forest floor and waterside to find the flat ground beetle with blue-green metallic elytra."
+    },
+    "zh": {
+      "summary": "布氏扁胫步甲（オオアオモリヒラタゴミムシ，Metacolpodes buchannani）。步甲科甲虫，见于平地至山地林床、林缘、水边及落叶石下；体扁，鞘翅青绿至蓝靛金属光泽而美，于地表疾走捕食小虫，夜行趋光。",
+      "habitat_hint": "平地至山地林床、林缘、水边、落叶石下。",
+      "finding_tips": "春至秋于林床及水边翻石与落叶寻找鞘翅青绿至蓝靛金属光泽的扁步甲。"
+    }
+  },
+  "Metapenaeopsis barbata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Velvet shrimp",
+    "ja": {
+      "summary": "アカエビ。クルマエビ科の小さなエビで、内湾や沿岸の砂底、砂泥底にすむ。体は赤みをおび、体表がざらつく短い毛におおわれる。群れで底にすみ、底生の小動物や有機物を食べる。食用にされ、干しエビやかき揚げ、練り製品の材料になる。「アカエビ」の名で市場に出る。",
+      "habitat_hint": "内湾や沿岸の砂底、砂泥底、やや浅い海底。",
+      "finding_tips": "沿岸の砂底や砂泥底で、赤みをおびて体表がざらつく小さなエビを探します。食用になります。"
+    },
+    "en": {
+      "summary": "Aka-ebi, the velvet shrimp (Metapenaeopsis barbata). A small shrimp of the Penaeidae living on sandy and sandy-mud bottoms in bays and coastal waters; the body is reddish and covered in short rough hairs. It lives on the bottom in schools, feeding on small benthic animals and organic matter, and is eaten as dried shrimp, in fritters and in fish paste.",
+      "habitat_hint": "Sandy and sandy-mud bottoms of bays and coastal waters, somewhat shallow seabed.",
+      "finding_tips": "On coastal sandy bottoms look for the small reddish shrimp with a rough-haired surface; it is edible."
+    },
+    "zh": {
+      "summary": "须赤对虾（アカエビ，Metapenaeopsis barbata）。对虾科小型虾，栖于内湾及沿岸砂底、砂泥底；体带红、表面被短糙毛，成群栖底，取食底栖小动物及有机质，供食（干虾、炸物、鱼糜）。",
+      "habitat_hint": "内湾及沿岸砂底、砂泥底、略浅海底。",
+      "finding_tips": "于沿岸砂底寻找带红、体表糙毛的小虾，可食。"
+    }
+  },
+  "Monachosorum flagellare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アイフジシダ。コバノイシカグマ科（またはその近縁）のシダで、山地の湿った林床や谷沿い、渓流沿いの斜面に生える。葉は細かく切れ込み、やわらかい。葉の先が長く伸びて地面につくと、そこから無性芽で新しい株ができる。フジシダに近い仲間で、しばしば群生する。",
+      "habitat_hint": "山地の湿った林床、谷沿い、渓流沿いの斜面。",
+      "finding_tips": "一年中、山地の湿った林床で細かく切れ込むやわらかい葉と、先が長く伸びて無性芽をつける葉先をもつシダを探します。"
+    },
+    "en": {
+      "summary": "Ai-fujishida (Monachosorum flagellare), a fern. A fern of the Dennstaedtiaceae (or a near relative) growing on damp montane forest floor, valleys and streamside slopes; the fronds are finely divided and soft, and the long-extended frond tips form plantlets where they touch the ground. A relative of Monachosorum maximowiczii, it often grows in colonies.",
+      "habitat_hint": "Damp montane forest floor, valleys, streamside slopes.",
+      "finding_tips": "Year-round on damp montane forest floor look for the fern with soft finely divided fronds and long-extended tips bearing plantlets."
+    },
+    "zh": {
+      "summary": "アイフジシダ（Monachosorum flagellare）。碗蕨科（或近类）蕨类，生于山地湿润林床、谷地及溪流沿岸坡；叶细裂柔软，叶端延长触地即由无性芽生新株，为近种、常成片。",
+      "habitat_hint": "山地湿润林床、谷地、溪流沿岸坡。",
+      "finding_tips": "全年于山地湿润林床寻找细裂柔软叶、叶端延长生无性芽的蕨。"
+    }
+  },
+  "Myosotis discolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Changing forget-me-not",
+    "ja": {
+      "summary": "ハマワスレナグサ。ムラサキ科ワスレナグサ属の一〜越年草で、ヨーロッパ原産の帰化植物。道ばたや芝地、荒れ地、海岸近くの草地に生える。細い茎に小さな葉をつけ、春〜初夏、ごく小さな花を咲かせる。花は咲き始め黄白色で、のちに青紫色に変わる（花色が変わる）のが特徴。ワスレナグサの仲間で小型。",
+      "habitat_hint": "道ばた、芝地、荒れ地、海岸近くの草地。",
+      "finding_tips": "4〜6月、道ばたや芝地で、咲き始めが黄白色でのちに青紫色に変わるごく小さな花をつける小さな草を探します。"
+    },
+    "en": {
+      "summary": "Hama-wasurenagusa, the changing forget-me-not (Myosotis discolor). An annual to biennial of the borage family native to Europe, naturalized on roadsides, lawns, waste ground and coastal grassland; slender stems bear small leaves and, in spring to early summer, very small flowers that open yellow-white and change to blue-purple, source of the name. A small forget-me-not.",
+      "habitat_hint": "Roadsides, lawns, waste ground, coastal grassland.",
+      "finding_tips": "From April to June on roadsides and lawns look for the small plant with very small flowers that open yellow-white and turn blue-purple."
+    },
+    "zh": {
+      "summary": "ハマワスレナグサ（Myosotis discolor）。紫草科勿忘草属一至越年生草本，原产欧洲，归化于路旁、草坪、荒地及近海草地；细茎生小叶，春至初夏开极小花，花初黄白后转青紫（变色，故名），为小型勿忘草。",
+      "habitat_hint": "路旁、草坪、荒地、近海草地。",
+      "finding_tips": "4 至 6 月于路旁草坪寻找花初黄白、后转青紫的极小花小草。"
+    }
+  },
+  "Myosotis sylvatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wood forget-me-not",
+    "aliases": {
+      "zh-Hans": "林勿忘草"
+    },
+    "ja": {
+      "summary": "エゾムラサキ。ムラサキ科ワスレナグサ属の多年草（または越年草）で、山地〜亜高山の湿った草地や林縁、沢沿いに生える。北日本や高地に自生し、観賞用のワスレナグサ（勿忘草）に近い。初夏、青い小さな5弁の花を集めて咲かせ、中心が黄色い。ワスレナグサに似るが在来種。",
+      "habitat_hint": "山地〜亜高山の湿った草地、林縁、沢沿い。",
+      "finding_tips": "6〜7月、山地の湿った草地や沢沿いで、中心が黄色い青い小さな5弁の花を集めて咲かせる草を探します。"
+    },
+    "en": {
+      "summary": "Ezo-murasaki, the wood forget-me-not (Myosotis sylvatica). A perennial (or biennial) of the borage family growing in damp montane to subalpine grassland, woodland edges and along streams; native to northern Japan and highlands, it is close to the ornamental forget-me-not. In early summer it bears clusters of small blue five-petalled flowers with a yellow centre. Resembling the garden forget-me-not but native.",
+      "habitat_hint": "Montane to subalpine damp grassland, woodland edges, streamsides.",
+      "finding_tips": "In June–July in damp montane grassland and along streams look for the clusters of small blue five-petalled flowers with yellow centres."
+    },
+    "zh": {
+      "summary": "林勿忘草（エゾムラサキ，Myosotis sylvatica）。紫草科勿忘草属多年生（或越年生）草本，生于山地至亚高山湿润草地、林缘及沟谷；产北日本及高地，近观赏勿忘草，初夏簇生蓝色五瓣小花、花心黄，似园艺勿忘草而为在来种。",
+      "habitat_hint": "山地至亚高山湿润草地、林缘、沟谷。",
+      "finding_tips": "6 至 7 月于山地湿润草地及沟谷寻找花心黄的蓝色五瓣小花簇。"
+    }
+  },
+  "Neodilsea yendoana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "アカバ。紅藻類ダルス科の海藻で、北日本の冷たい海の潮間帯下部〜浅い海の岩に付着して生える。体は幅の広い平たい葉状で、暗紅色〜赤褐色をおび、やわらかい。名のとおり赤い葉のような姿をとる。北方系の海藻で、地方によっては食用にもされる。磯の岩でよく見られる。",
+      "habitat_hint": "北日本の冷たい海の潮間帯下部〜浅い海の岩、磯。",
+      "finding_tips": "干潮時、北日本の磯の岩で幅の広い平たい葉状の暗紅色の海藻を探します。"
+    },
+    "en": {
+      "summary": "Akaba (Neodilsea yendoana), a red alga. A red alga of the Dumontiaceae attached to rock from the lower intertidal into shallow water in the cold seas of northern Japan; the body is a broad, flat blade, dark-red to red-brown and soft, taking a red leaf-like form as the name says. A northern seaweed, eaten in some areas and common on rocky shores.",
+      "habitat_hint": "Northern-Japan cold-sea lower intertidal to shallow-water rock, rocky shores.",
+      "finding_tips": "At low tide on northern rocky shores look for the broad flat blade-like dark-red alga."
+    },
+    "zh": {
+      "summary": "アカバ（Neodilsea yendoana）。红藻门海膜近类海藻，附着于北日本冷海潮间带下部至浅海岩石；体宽扁叶状、暗红至红褐、柔软，如名呈红叶状，为北方海藻，部分地区供食，岩礁海岸常见。",
+      "habitat_hint": "北日本冷海潮间带下部至浅海岩石、岩礁海岸。",
+      "finding_tips": "退潮时于北日本岩礁寻找宽扁叶状的暗红藻。"
+    }
+  },
+  "Neripteron cornucopia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nerite snail",
+    "ja": {
+      "summary": "ヒロクチカノコガイ。アマオブネガイ科（カノコガイの仲間）の巻貝で、内湾や河口の汽水域、マングローブのふち、干潟の上部の泥や石、植物の根ぎわにすむ。殻は丸くて厚く、黒っぽい地に鹿の子（かのこ）模様の斑がある。殻口が広い（広口）のが名の由来。付着藻類や有機物を食べる。",
+      "habitat_hint": "内湾や河口の汽水域、マングローブのふち、干潟の上部の泥や石。",
+      "finding_tips": "干潮時、河口の汽水域やマングローブのふちで、鹿の子模様のある丸く厚い殻口の広い巻貝を探します。"
+    },
+    "en": {
+      "summary": "Hirokuchi-kanoko-gai (Neripteron cornucopia), a nerite snail. A snail of the Neritidae (nerites) living in brackish estuarine water, mangrove margins, upper tidal-flat mud and stones and at plant bases in bays and estuaries; the shell is round and thick, dark with a fawn-spotted (kanoko) pattern, and the aperture is wide, source of the name. It eats attached algae and organic matter.",
+      "habitat_hint": "Brackish estuarine water, mangrove margins, upper tidal-flat mud and stones.",
+      "finding_tips": "At low tide in estuarine brackish water and mangrove margins look for the round thick fawn-spotted nerite with a wide aperture."
+    },
+    "zh": {
+      "summary": "ヒロクチカノコガイ（Neripteron cornucopia）。蜑螺科（蜑螺类）螺类，栖于内湾及河口半咸水、红树林边、滩涂上部泥石及植株基部；壳圆而厚，暗底具鹿斑纹，壳口宽（故名），取食附着藻类及有机质。",
+      "habitat_hint": "内湾及河口半咸水、红树林边、滩涂上部泥石。",
+      "finding_tips": "退潮时于河口半咸水及红树林边寻找具鹿斑、圆厚、壳口宽的蜑螺。"
+    }
+  },
+  "Niphotrichum canescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoary fringe-moss",
+    "ja": {
+      "summary": "スナゴケ（砂苔）。ギボウシゴケ科（シモフリゴケの仲間）の蘚類で、日当たりのよい砂地や岩、コンクリート、屋根、造成地の裸地に緑〜黄緑色のマット状に群生する。葉の先に白い透明な毛（芒）が突き出て、乾くと全体が白っぽく見える。乾燥に強く、屋上緑化や苔庭にも使われる。",
+      "habitat_hint": "日当たりのよい砂地、岩、コンクリート、屋根、造成地の裸地。",
+      "finding_tips": "一年中、日当たりのよい砂地や岩、コンクリートで、葉先に白い毛が突き出て乾くと白っぽく見える緑のマット状の蘚を探します。"
+    },
+    "en": {
+      "summary": "Sunagoke, the hoary fringe-moss (Niphotrichum canescens). A moss of the Grimmiaceae growing gregariously as green to yellow-green mats on sunny sand, rock, concrete, roofs and bare developed ground; white translucent hair-points project from the leaf tips so the whole plant looks whitish when dry. Drought-tolerant, it is used in green roofs and moss gardens.",
+      "habitat_hint": "Sunny sand, rock, concrete, roofs, bare developed ground.",
+      "finding_tips": "Year-round on sunny sand, rock and concrete look for the green moss mats with white hair-points that look whitish when dry."
+    },
+    "zh": {
+      "summary": "砂藓（スナゴケ，Niphotrichum canescens）。紫萼藓科藓类，成片生于向阳沙地、岩石、混凝土、屋顶及造地裸地，成绿至黄绿垫状；叶端伸出白色透明毛尖，干时整体偏白，耐旱，用于屋顶绿化及苔庭。",
+      "habitat_hint": "向阳沙地、岩石、混凝土、屋顶、造地裸地。",
+      "finding_tips": "全年于向阳沙地岩石混凝土寻找叶端白毛尖、干时偏白的绿色藓垫。"
+    }
+  },
+  "Nipponacmea nigrans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Limpet",
+    "ja": {
+      "summary": "クモリアオガイ。ヨメガカサ科（ユキノカサガイ科）のカサガイで、岩礁海岸の潮間帯の岩にはりついてすむ。殻は低い笠形で、暗緑色〜青緑色をおびるが、表面がくもった（曇り）ように見えることが名の由来。岩についた藻類を削り取って食べ、決まった場所（ホームスカー）に戻る。",
+      "habitat_hint": "岩礁海岸の潮間帯の岩、転石帯、防波堤。",
+      "finding_tips": "干潮時、磯の岩で暗緑色〜青緑色で表面がくもったように見える低い笠形のカサガイを探します。"
+    },
+    "en": {
+      "summary": "Kumori-aogai (Nipponacmea nigrans), a limpet. A limpet clinging to intertidal rock on rocky shores; the low conical shell is dark green to blue-green but looks clouded (dull) on the surface, source of the name. It scrapes algae from the rock and returns to a fixed home scar.",
+      "habitat_hint": "Rocky-shore intertidal rock, cobble beds, breakwaters.",
+      "finding_tips": "At low tide on rocky-shore boulders look for the low conical dark-green to blue-green limpet with a clouded surface."
+    },
+    "zh": {
+      "summary": "クモリアオガイ（Nipponacmea nigrans）。花帽贝科笠状螺类，附着于岩礁海岸潮间带岩面；壳低笠形，暗绿至青绿、表面显雾状（故名），刮食岩上藻类并具归巢（固定居痕）习性。",
+      "habitat_hint": "岩礁海岸潮间带岩面、卵石带、防波堤。",
+      "finding_tips": "退潮时于岩礁岩面寻找暗绿至青绿、表面雾状的低笠形帽贝。"
+    }
+  },
+  "Niveoporofomes spraguei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カタオシロイタケ。タマチョレイタケ科のきのこ（多孔菌）で、広葉樹や針葉樹の枯れ木、倒木、切り株に半円形〜蹄形の硬い傘をつける。傘は白色〜淡黄色で、かたく、裏は白い管孔。材を白く腐らせる（白色腐朽）木材腐朽菌。名は「かたく白い板茸」の意。",
+      "habitat_hint": "広葉樹や針葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "一年中、枯れ木や倒木で白色〜淡黄色でかたい半円形〜蹄形の傘と白い管孔をもつきのこを探します。"
+    },
+    "en": {
+      "summary": "Katao-shiroita-take (Niveoporofomes spraguei). A polypore of the Polyporaceae forming hard semicircular to hoof-shaped brackets on dead wood, logs and stumps of broadleaf and conifer trees; the cap is white to pale yellow and hard, with white pores beneath. A white-rot wood-decay fungus. The name means a 'hard white board-fungus'.",
+      "habitat_hint": "Dead wood, logs and stumps of broadleaf and conifer trees.",
+      "finding_tips": "Year-round on dead wood and logs look for the hard white to pale-yellow semicircular to hoof-shaped bracket with white pores."
+    },
+    "zh": {
+      "summary": "カタオシロイタケ（Niveoporofomes spraguei）。多孔菌科真菌（多孔菌），于阔叶及针叶树枯木、倒木及树桩形成半圆至马蹄形硬盖；盖白至淡黄、坚硬，背面白色菌管，为白色腐朽木腐菌，名意为“坚硬白色板菇”。",
+      "habitat_hint": "阔叶及针叶树枯木、倒木、树桩。",
+      "finding_tips": "全年于枯木倒木寻找白至淡黄、坚硬、半圆至马蹄形、背面白色菌管的菌。"
+    }
+  },
+  "Nowellia curvifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "フクロヤバネゴケ。ヤバネゴケ科の小さな苔類で、山地の湿った腐木や倒木、朽ちた材の上に赤褐色〜緑褐色のマット状に群生する。葉の一部が袋状（ふくろ）になるのが特徴で、腐木の上を好むことで知られる。倒木の分解段階を示す指標にもなる微小な苔。",
+      "habitat_hint": "山地の湿った腐木、倒木、朽ちた材の上。",
+      "finding_tips": "一年中、山地の湿った腐木や倒木で、赤褐色〜緑褐色で葉が袋状になる微小な苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Fukuro-yabane-goke (Nowellia curvifolia), a leafy liverwort. A small leafy liverwort of the Cephaloziaceae growing as reddish-brown to green-brown mats on damp rotten wood, logs and decaying timber in mountains; part of each leaf is sac-shaped, and it is known for favouring rotten wood. A minute liverwort that indicates the decay stage of logs.",
+      "habitat_hint": "Damp rotten wood, logs, decaying timber in mountains.",
+      "finding_tips": "Year-round on damp montane rotten wood and logs use a lens to find the reddish-brown to green-brown liverwort with sac-shaped leaves."
+    },
+    "zh": {
+      "summary": "フクロヤバネゴケ（Nowellia curvifolia）。拟大萼苔科小型苔类，于山地湿润腐木、倒木及朽材上成红褐至绿褐垫状群落；叶部分特化为囊状（故名），以喜生腐木著称，为指示倒木腐朽阶段的微小苔。",
+      "habitat_hint": "山地湿润腐木、倒木、朽材上。",
+      "finding_tips": "全年于山地湿润腐木及倒木用放大镜寻找红褐至绿褐、叶囊状的微小苔。"
+    }
+  },
+  "Nuphar subintegerrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pond lily",
+    "ja": {
+      "summary": "ヒメコウホネ。スイレン科コウホネ属の水生の多年草で、池沼や水路、流れのゆるい川、湿地に生える。水底の泥から根茎を伸ばし、丸い葉を水面に浮かべる。夏、水面上に黄色い小さな椀状の花を一つ立てて咲かせる。コウホネより小型。日本固有で、生育地の減少により各地で希少。",
+      "habitat_hint": "池沼、水路、流れのゆるい川、湿地、休耕田。",
+      "finding_tips": "夏、池沼や水路で水面に浮かぶ丸い葉と、水面上に立つ黄色い小さな椀状の花を探します。"
+    },
+    "en": {
+      "summary": "Hime-kōhone (Nuphar subintegerrima), a pond lily. An aquatic perennial of the water-lily family growing in ponds, channels, slow rivers and wetlands; it sends up rhizomes from the muddy bottom and floats round leaves on the surface. In summer it raises a single small yellow bowl-shaped flower above the water. Smaller than the Japanese pond lily and endemic to Japan, it is rare in many areas due to habitat loss.",
+      "habitat_hint": "Ponds, channels, slow rivers, wetlands, fallow paddies.",
+      "finding_tips": "In summer in ponds and channels look for the round floating leaves and the single small yellow bowl-shaped flower held above the water."
+    },
+    "zh": {
+      "summary": "ヒメコウホネ（Nuphar subintegerrima）。睡莲科萍蓬草属水生多年生草本，生于池沼、水渠、缓流河及湿地；根茎自泥底伸出，圆叶漂浮水面，夏于水面上单生黄色小碗状花，较萍蓬草小，为日本特有、因生境减少各地稀少。",
+      "habitat_hint": "池沼、水渠、缓流河、湿地、休耕田。",
+      "finding_tips": "夏于池沼水渠寻找漂浮圆叶及水面上单生的黄色小碗状花。"
+    }
+  },
+  "Omosita colon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sap beetle",
+    "ja": {
+      "summary": "キボシヒラタケシキスイ。ケシキスイ科の小さな甲虫で、動物の死骸や乾いた肉、獣皮、枯れた植物、腐果のまわりに見られる。体は平たく黒っぽく、上翅に黄色い斑（黄星）がある。乾いた動物質や腐った有機物を食べて分解する。死骸の分解の後期に集まる腐食性の甲虫。",
+      "habitat_hint": "動物の死骸、乾いた肉、獣皮、枯れた植物、腐果のまわり。",
+      "finding_tips": "一年中、動物の死骸や乾いた肉のまわりで、平たく黒っぽく上翅に黄色い斑のある小さな甲虫を探します。"
+    },
+    "en": {
+      "summary": "Kiboshi-hirata-keshikisui (Omosita colon), a sap beetle. A small beetle of the Nitidulidae found around animal carcasses, dried meat, hides, dead plants and rotting fruit; the flattened body is blackish with yellow spots on the elytra. It eats and decomposes dried animal matter and rotting organic matter, a scavenger gathering in the later stages of carcass decay.",
+      "habitat_hint": "Animal carcasses, dried meat, hides, dead plants, rotting fruit.",
+      "finding_tips": "Year-round around carcasses and dried meat look for the small flat blackish beetle with yellow spots on the elytra."
+    },
+    "zh": {
+      "summary": "キボシヒラタケシキスイ（Omosita colon）。露尾甲科小型甲虫，见于动物尸体、干肉、兽皮、枯植物及腐果周围；体扁偏黑、鞘翅具黄斑，取食并分解干燥动物质及腐败有机质，为尸体腐解后期聚集的腐食甲虫。",
+      "habitat_hint": "动物尸体、干肉、兽皮、枯植物、腐果周围。",
+      "finding_tips": "全年于尸体及干肉周围寻找扁、偏黑、鞘翅具黄斑的小甲虫。"
+    }
+  },
+  "Oplismenus hirtellus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャボチヂミザサ。イネ科チヂミザサ属の多年草で、暖地の林床や林縁、庭、やや湿った日陰に生える。地表を這うように広がり、笹（ささ）に似た短い葉に波打つしわ（縮み）がある。チヂミザサを小型にしたような姿。秋、細い花穂に小穂をつけ、粘る芒（のぎ）で衣服などにくっつく。",
+      "habitat_hint": "暖地の林床、林縁、庭、やや湿った日陰。",
+      "finding_tips": "一年中、暖地の林床で地を這う茎と、笹に似た波打つ短い葉をもつ小さなチヂミザサの仲間を探します。"
+    },
+    "en": {
+      "summary": "Chabo-chidimizasa (Oplismenus hirtellus), a basket grass. A perennial grass of the basket-grass genus growing on warm-region forest floor, edges, gardens and dampish shade; it spreads creeping over the ground, with short bamboo-like leaves that are wavy-crimped. It looks like a small basket grass, and in autumn slender spikes bear spikelets with sticky awns that catch on clothing.",
+      "habitat_hint": "Warm-region forest floor, edges, gardens, dampish shade.",
+      "finding_tips": "Year-round on warm-region forest floor look for the small basket grass with creeping stems and short wavy-crimped bamboo-like leaves."
+    },
+    "zh": {
+      "summary": "チャボチヂミザサ（Oplismenus hirtellus）。禾本科求米草属多年生草本，生于暖地林床、林缘、庭园及略湿荫处；匍匐铺展，似笹的短叶具波状皱褶，形如小型求米草，秋于细穗生小穗、具黏芒粘衣物。",
+      "habitat_hint": "暖地林床、林缘、庭园、略湿荫处。",
+      "finding_tips": "全年于暖地林床寻找匍匐茎、短波状皱褶似笹叶的小型求米草。"
+    }
+  },
+  "Oreocnide pedunculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ハドノキ。イラクサ科ハドノキ属の常緑小高木〜低木で、南西諸島などの暖地の照葉樹林や林縁、谷沿いに生える。革質のつやのある葉を互生し、幹や枝に地味な小花を集めてつける。イラクサ科だが刺毛はない。熟すと肉質の小さな実をつける。南日本の暖地に分布。",
+      "habitat_hint": "南西諸島などの暖地の照葉樹林、林縁、谷沿い。",
+      "finding_tips": "一年中、暖地の照葉樹林で革質のつやのある互生の葉と、幹や枝につく地味な小花・肉質の小さな実をもつ木を探します。"
+    },
+    "en": {
+      "summary": "Hadonoki (Oreocnide pedunculata). An evergreen small tree to shrub of the nettle family growing in warm-region evergreen broadleaf forest, edges and valleys such as the Ryukyu Islands; it has glossy leathery alternate leaves and bears clusters of plain small flowers on the trunk and branches. Though a nettle relative it has no stinging hairs, and it produces small fleshy fruits. Distributed in warm southern Japan.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, edges, valleys (Ryukyu etc.).",
+      "finding_tips": "Year-round in warm-region evergreen forest look for the tree with glossy leathery alternate leaves and clusters of small flowers on the trunk and branches."
+    },
+    "zh": {
+      "summary": "ハドノキ（Oreocnide pedunculata）。荨麻科紫麻属常绿小乔木至灌木，生于琉球等暖地照叶林、林缘及谷地；叶革质有光泽、互生，干枝簇生朴素小花，虽属荨麻科但无螫毛，熟结肉质小果，分布南日本暖地。",
+      "habitat_hint": "琉球等暖地照叶林、林缘、谷地。",
+      "finding_tips": "全年于暖地照叶林寻找革质亮互生叶、干枝生小花及肉质小果的树。"
+    }
+  },
+  "Oruza glaucotorna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "モンシロクルマコヤガ。ヤガ科の小さなガで、平地〜山地の樹林や林縁、草地に見られる。翅は褐色〜灰褐色で、白っぽい紋（白紋）が入るのが名の由来。幼虫は草本や落ち葉を食べる。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の樹林、林縁、草地、湿った草地。",
+      "finding_tips": "夏、灯火で褐色〜灰褐色に白っぽい紋のある小さなガを探します。"
+    },
+    "en": {
+      "summary": "Monshiro-kuruma-koyaga (Oruza glaucotorna), a small owlet moth. A small noctuid moth of lowland to montane woodland, edges and grassland; the wings are brown to grey-brown with a whitish mark, source of the name. The larva feeds on herbs and leaf litter, and adults come to lights at night; small and inconspicuous.",
+      "habitat_hint": "Lowland to montane woodland, edges, grassland, damp grassland.",
+      "finding_tips": "In summer look at lights for the small brown to grey-brown moth with a whitish mark."
+    },
+    "zh": {
+      "summary": "白缘巧裳蛾（モンシロクルマコヤガ，Oruza glaucotorna）。夜蛾科小型蛾，见于平地至山地林地、林缘及草地；翅褐至灰褐、具偏白斑（故名），幼虫食草本及落叶，成虫夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地林地、林缘、草地、湿润草地。",
+      "finding_tips": "夏于灯下寻找褐至灰褐、具偏白斑的小蛾。"
+    }
+  },
+  "Ozyptila nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crab spider",
+    "ja": {
+      "summary": "ニッポンオチバカニグモ。カニグモ科の小さなクモで、林床の落ち葉の間や下草、地表に見られる。体は褐色〜黒褐色で、落ち葉に紛れる。前2対の脚が横に広がり、カニのように横歩きする。網を張らず、待ち伏せして通りかかる小さな虫を捕らえる。落ち葉の中で見つかる。",
+      "habitat_hint": "林床の落ち葉の間、下草、地表、草の根ぎわ。",
+      "finding_tips": "一年中、林床の落ち葉の間で、褐色で前脚が横に広がる小さなカニグモを探します。落ち葉をふるうと見つかります。"
+    },
+    "en": {
+      "summary": "Nippon-ochiba-kanigumo (Ozyptila nipponica), a crab spider. A small spider of the Thomisidae found among leaf litter, in undergrowth and on the ground; the body is brown to blackish-brown, blending into litter. The front two leg-pairs spread sideways and it walks crab-like; building no web, it ambushes small passing insects. Found in leaf litter.",
+      "habitat_hint": "Leaf litter, undergrowth, ground, grass bases.",
+      "finding_tips": "Year-round among leaf litter look for the small brown crab spider with sideways-spread front legs; sifting litter turns it up."
+    },
+    "zh": {
+      "summary": "ニッポンオチバカニグモ（Ozyptila nipponica）。蟹蛛科小型蜘蛛，见于林床落叶间、下层植被及地表；体褐至黑褐、隐于落叶，前二对足横展、横行如蟹，不结网、伏击过路小虫，多见于落叶中。",
+      "habitat_hint": "林床落叶间、下层植被、地表、草基。",
+      "finding_tips": "全年于林床落叶间寻找褐色、前足横展的小型蟹蛛，筛落叶可得。"
+    }
+  },
+  "Pachydictyon coriaceum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown alga",
+    "ja": {
+      "summary": "サナダグサ。褐藻類アミジグサ科の海藻で、潮間帯下部〜浅い海の岩に付着して生える。体は平たい帯状で、革質でやや厚く、二又に分かれながら扇状に広がる。オリーブ褐色〜暗褐色をおびる。名は真田紐（さなだひも）のような平たい帯状の姿に由来する。磯の岩でよく見られる。",
+      "habitat_hint": "潮間帯下部〜浅い海の岩、磯、潮だまり。",
+      "finding_tips": "干潮時、磯の岩で平たい帯状で二又に分かれながら広がる革質の褐色の海藻を探します。"
+    },
+    "en": {
+      "summary": "Sanada-gusa (Pachydictyon coriaceum), a brown alga. A brown alga of the Dictyotaceae attached to rock from the lower intertidal into shallow water; the body is a flat strap, leathery and rather thick, spreading fan-like as it repeatedly forks. It is olive-brown to dark-brown. The name refers to its flat braid-like (sanada cord) form. Common on rocky shores.",
+      "habitat_hint": "Lower intertidal to shallow-water rock, rocky shores, tide pools.",
+      "finding_tips": "At low tide on rocky shores look for the flat, leathery brown alga that forks and spreads fan-like."
+    },
+    "zh": {
+      "summary": "厚网藻（サナダグサ，Pachydictyon coriaceum）。褐藻门网地藻科海藻，附着于潮间带下部至浅海岩石；体扁带状、革质略厚，反复二歧、扇状展开，橄榄褐至暗褐，名取似真田绳的扁带状（故名），岩礁海岸常见。",
+      "habitat_hint": "潮间带下部至浅海岩石、岩礁海岸、潮池。",
+      "finding_tips": "退潮时于岩礁海岸寻找扁带状、二歧扇展的革质褐藻。"
+    }
+  },
+  "Panus conchatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カワキタケ。タマチョレイタケ目のきのこで、夏〜秋、広葉樹の枯れ木や倒木、切り株に発生する。傘は扇形〜貝殻形で、若いとき紫色〜藤色をおび、のちに褐色に褪せる。裏はひだ状で柄がある。革質でかたく、乾くと硬くなる（乾き茸）ことが名の由来。木材を分解する腐朽菌。",
+      "habitat_hint": "夏〜秋、広葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "夏〜秋、広葉樹の枯れ木で、若いとき紫色を帯びた扇形〜貝殻形の革質の傘をもつきのこを探します。"
+    },
+    "en": {
+      "summary": "Kawaki-take, the lilac oysterling (Panus conchatus). A mushroom of the Polyporales fruiting on dead wood, logs and stumps of broadleaf trees in summer to autumn; the fan- to shell-shaped cap is violet to lilac when young, fading to brown, with gills beneath and a stem. Leathery and tough, it hardens when dry, source of the Japanese name ('drying fungus'). A wood-decay fungus.",
+      "habitat_hint": "Summer to autumn, dead wood, logs and stumps of broadleaf trees.",
+      "finding_tips": "From summer to autumn on dead broadleaf wood look for the leathery fan- to shell-shaped cap, violet when young."
+    },
+    "zh": {
+      "summary": "贝壳状革耳（カワキタケ，Panus conchatus）。多孔菌目真菌，夏至秋生于阔叶树枯木、倒木及树桩；菌盖扇形至贝壳形，幼时紫至藤色、后褪为褐，背具褶、有柄，革质而韧、干时变硬（故名干菇），为木材腐朽菌。",
+      "habitat_hint": "夏至秋，阔叶树枯木、倒木、树桩。",
+      "finding_tips": "夏至秋于阔叶枯木寻找扇形至贝壳形、幼时带紫的革质盖菌。"
+    }
+  },
+  "Paracardiophorus pullatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Click beetle",
+    "ja": {
+      "summary": "コハナコメツキ。コメツキムシ科の小さな甲虫で、平地〜山地の草地、林縁、花の上、朽木のそばに見られる。体は黒っぽく細長い。ひっくり返ると胸の仕掛けで「パチン」と音を立てて跳ね起きる（米搗き＝コメツキ）のが特徴。成虫は花に来ることもあり、幼虫は土中や朽木で暮らす。",
+      "habitat_hint": "平地〜山地の草地、林縁、花の上、朽木のそば。",
+      "finding_tips": "春〜夏、草地や花の上で黒っぽく細長い小さなコメツキムシを探します。裏返すと跳ね起きます。"
+    },
+    "en": {
+      "summary": "Ko-hana-kometsuki (Paracardiophorus pullatus), a click beetle. A small beetle of the Elateridae found in lowland to montane grassland, edges, on flowers and near rotten wood; the body is blackish and elongate. When overturned it flips upright with an audible click using a mechanism in the thorax, characteristic of click beetles. Adults sometimes visit flowers, and larvae live in soil and rotten wood.",
+      "habitat_hint": "Lowland to montane grassland, edges, on flowers, near rotten wood.",
+      "finding_tips": "From spring to summer in grassland and on flowers look for the small elongate blackish click beetle; it flips upright when overturned."
+    },
+    "zh": {
+      "summary": "コハナコメツキ（Paracardiophorus pullatus）。叩甲科小型甲虫，见于平地至山地草地、林缘、花上及朽木旁；体偏黑细长，翻身时以胸部机关“咔”声弹起（叩头，故名），成虫偶访花、幼虫栖土中及朽木。",
+      "habitat_hint": "平地至山地草地、林缘、花上、朽木旁。",
+      "finding_tips": "春至夏于草地及花上寻找偏黑细长的小叩甲，翻身即弹起。"
+    }
+  },
+  "Parafossarulus manchouricus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Freshwater snail",
+    "ja": {
+      "summary": "マメタニシ。エゾマメタニシ科（またはタニシに近い仲間）の小さな淡水の巻貝で、水田や池沼、水路、湿地の泥底や水草の上にすむ。殻は小さな塔形〜卵形で、褐色をおびる。付着藻類や有機物を食べる。肝吸虫（かんきゅうちゅう）など寄生虫の中間宿主になることが知られ、衛生上注意される。",
+      "habitat_hint": "水田、池沼、水路、湿地の泥底や水草の上。",
+      "finding_tips": "水田や水路の泥底、水草の上で、褐色の小さな塔形〜卵形の淡水の巻貝を探します。"
+    },
+    "en": {
+      "summary": "Mame-tanishi (Parafossarulus manchouricus), a freshwater snail. A small freshwater snail of the Bithyniidae living on muddy bottoms and water plants in paddies, ponds, channels and wetlands; the small tower- to egg-shaped shell is brownish. It eats attached algae and organic matter, and is known as an intermediate host of parasites such as the liver fluke, so it is of hygienic concern.",
+      "habitat_hint": "Muddy bottoms and water plants of paddies, ponds, channels, wetlands.",
+      "finding_tips": "On muddy paddy and channel bottoms and on water plants look for the small brown tower- to egg-shaped freshwater snail."
+    },
+    "zh": {
+      "summary": "纹沼螺（マメタニシ，Parafossarulus manchouricus）。豆螺科小型淡水螺，栖于稻田、池沼、水渠及湿地泥底与水草上；壳小、塔形至卵形、带褐，取食附着藻类及有机质，为肝吸虫等寄生虫中间宿主、需注意卫生。",
+      "habitat_hint": "稻田、池沼、水渠、湿地泥底及水草上。",
+      "finding_tips": "于稻田水渠泥底及水草上寻找褐色、塔至卵形的小型淡水螺。"
+    }
+  },
+  "Parectropis similaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロモンキエダシャク。シャクガ科エダシャク亜科のガで、平地〜山地の樹林や林縁に見られる。翅は灰褐色〜褐色で、白っぽい紋（白紋）や細かな模様が入る。幼虫はシャクトリムシで、さまざまな樹木の葉を食べる。夜に灯火に集まる。樹皮に似た模様で目立たない。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "春〜夏、灯火で灰褐色に白っぽい紋のあるエダシャクを探します。"
+    },
+    "en": {
+      "summary": "Shiromon-ki-edashaku, the brindled white-spot (Parectropis similaria). A geometer moth of the Ennominae found in lowland to montane woodland and edges; the wings are grey-brown to brown with a whitish mark and fine patterning. The larva is an inchworm feeding on the leaves of various trees, and adults come to lights at night. Its bark-like pattern makes it inconspicuous.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "From spring to summer look at lights for the grey-brown geometer with a whitish mark."
+    },
+    "zh": {
+      "summary": "シロモンキエダシャク（Parectropis similaria）。尺蛾科尺蛾亚科的一种蛾，见于平地至山地林地及林缘；翅灰褐至褐、具偏白斑及细纹，幼虫为尺蠖、食多种树叶，成虫夜间趋光，斑纹似树皮而不显。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "春至夏于灯下寻找灰褐、具偏白斑的尺蛾。"
+    }
+  },
+  "Pedinophyllum truncatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "ハイハネゴケ。ツボミゴケの仲間の茎葉のある苔類で、山地の湿った岩や土、崖、渓流沿いの岩に緑〜黄緑色のマット状に這って生える。茎に丸みのある葉が二列に並び、葉の先が切れたように平ら（truncate）なのが特徴。石灰岩地や湿った岩を好む微小な苔。",
+      "habitat_hint": "山地の湿った岩、土、崖、渓流沿いの岩、石灰岩地。",
+      "finding_tips": "一年中、山地の湿った岩や崖で緑〜黄緑の丸い葉が二列に並んで這う苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Hai-hane-goke (Pedinophyllum truncatum), a leafy liverwort. A leafy liverwort of the Plagiochilaceae creeping as green to yellow-green mats on damp montane rock, soil, cliffs and streamside rock; rounded leaves are arranged in two rows on the stem with truncate (cut-off) tips. A minute liverwort favouring limestone and damp rock.",
+      "habitat_hint": "Damp montane rock, soil, cliffs, streamside rock, limestone ground.",
+      "finding_tips": "Year-round on damp montane rock and cliffs use a lens to find the green to yellow-green liverwort with two rows of rounded leaves."
+    },
+    "zh": {
+      "summary": "ハイハネゴケ（Pedinophyllum truncatum）。羽苔近类的茎叶体苔类，于山地湿岩、土、崖及溪流沿岸岩匍匐成绿至黄绿垫状；茎生圆钝叶二列排列、叶端截平（truncate），为喜石灰岩及湿岩的微小苔。",
+      "habitat_hint": "山地湿岩、土、崖、溪流沿岸岩、石灰岩地。",
+      "finding_tips": "全年于山地湿岩及崖壁用放大镜寻找绿至黄绿、圆叶二列匍匐的苔。"
+    }
   }
 }
