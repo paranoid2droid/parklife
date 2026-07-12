@@ -243308,5 +243308,535 @@
       "habitat_hint": "涌泉清流、池沼、水渠、湿地水草间。",
       "finding_tips": "于涌泉清流及水渠水草间寻找背具棘刺的细长小鱼；稀少勿采。"
     }
+  },
+  "Pyrus ussuriensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ussurian pear",
+    "aliases": {
+      "zh-Hans": "秋子梨"
+    },
+    "ja": {
+      "summary": "ミチノクナシ（イワテヤマナシ）。バラ科ナシ属の落葉高木で、北日本や山地の林縁、川岸、谷沿いに自生する。栽培ナシの野生の近縁種で、春に白い5弁の花を集めて咲かせ、秋に小さな球形〜洋なし形の実をつける。実は堅く酸味があるが、熟すと食べられる。東北（みちのく）などに分布。",
+      "habitat_hint": "北日本や山地の林縁、川岸、谷沿い、二次林。",
+      "finding_tips": "4〜5月、山地の林縁で白い5弁の花を集めて咲かせるナシの木を探します。秋には小さな球形の実。"
+    },
+    "en": {
+      "summary": "Michinoku-nashi, the Ussurian pear (Pyrus ussuriensis). A deciduous tree of the rose family native to woodland edges, riverbanks and valleys in northern Japan and the mountains; a wild relative of the cultivated pear, it bears clusters of white five-petalled flowers in spring and small globular to pear-shaped fruits in autumn. The fruit is hard and sour but edible when ripe. Distributed in Tohoku (Michinoku) and elsewhere.",
+      "habitat_hint": "Northern-Japan and montane woodland edges, riverbanks, valleys, secondary woods.",
+      "finding_tips": "In April–May on montane edges look for the pear tree with clusters of white five-petalled flowers; small globular fruit in autumn."
+    },
+    "zh": {
+      "summary": "秋子梨（ミチノクナシ，Pyrus ussuriensis）。蔷薇科梨属落叶乔木，原生于北日本及山地林缘、河岸及谷地，为栽培梨的野生近缘种；春簇生白色五瓣花，秋结小球形至梨形果，果硬而酸、熟可食，分布东北（陆奥）等地。",
+      "habitat_hint": "北日本及山地林缘、河岸、谷地、次生林。",
+      "finding_tips": "4 至 5 月于山地林缘寻找簇生白色五瓣花的梨树，秋见小球形果。"
+    }
+  },
+  "Retiboletus nigerrimus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bolete",
+    "ja": {
+      "summary": "モエギアミアシイグチ。イグチ科のきのこで、夏〜秋、シイ・カシなどブナ科の照葉樹の下の地上に発生する。傘は灰褐色〜黒っぽく、柄の表面に網目状（アミ）の隆起があり、暗色をおびる。裏の管孔は帯黄緑色（もえぎ色）で、傷つくと黒っぽく変色する。食毒は不明瞭で食用にはしない。",
+      "habitat_hint": "夏〜秋、シイ・カシなどブナ科の照葉樹の下の地上。",
+      "finding_tips": "夏〜秋、シイやカシの下で灰褐色〜黒っぽい傘と、柄に網目、裏がもえぎ色の管孔をもつイグチを探します。"
+    },
+    "en": {
+      "summary": "Moegi-amiashi-iguchi (Retiboletus nigerrimus). A bolete of the Boletaceae fruiting on the ground under evergreen oaks and chinquapins (beech family) in summer to autumn; the cap is grey-brown to blackish and the stem has a dark net-like (reticulate) sculpture. The pores beneath are yellow-green (moegi) and stain blackish when bruised. Edibility is unclear, so it is not eaten.",
+      "habitat_hint": "Summer to autumn, ground under evergreen oaks and chinquapins (beech family).",
+      "finding_tips": "From summer to autumn under evergreen oaks look for the grey-brown to blackish bolete with a net-sculptured stem and yellow-green pores."
+    },
+    "zh": {
+      "summary": "モエギアミアシイグチ（Retiboletus nigerrimus）。牛肝菌科真菌，夏至秋生于栲、栎等壳斗科照叶树下地面；菌盖灰褐至黑，柄具暗色网状雕刻，背面菌管黄绿色（萌葱色）、伤后变黑，食毒不明、不宜食用。",
+      "habitat_hint": "夏至秋，栲、栎等壳斗科照叶树下地面。",
+      "finding_tips": "夏至秋于栲栎下寻找灰褐至黑盖、柄具网纹、背面黄绿菌管的牛肝菌。"
+    }
+  },
+  "Rhynchospora brownii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beak-sedge",
+    "ja": {
+      "summary": "トラノハナヒゲ。カヤツリグサ科ミカヅキグサ属の多年草で、日当たりのよい湿地や湿った草地、貧栄養の湿原、休耕田に生える。細い茎の先や葉のわきに、褐色の小穂を頭状に集めてつける。イヌノハナヒゲに近い仲間で、湿地に群生する。名は「虎の鼻ひげ」に由来する。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、貧栄養の湿原、休耕田。",
+      "finding_tips": "夏〜秋、湿地で細い茎の先や葉のわきに頭状に集まる褐色の小穂をつけるカヤツリグサの仲間を探します。"
+    },
+    "en": {
+      "summary": "Tora-no-hanahige (Rhynchospora brownii), a beak-sedge. A perennial sedge of sunny wetlands, damp grassland, nutrient-poor bogs and fallow paddies; brown spikelets are gathered into heads at the stem tips and in the leaf axils. A relative of R. chinensis, it grows gregariously in wetlands. The Japanese name means 'tiger's whiskers'.",
+      "habitat_hint": "Sunny wetlands, damp grassland, nutrient-poor bogs, fallow paddies.",
+      "finding_tips": "From summer to autumn in wetlands look for the sedge with brown spikelets gathered into heads at the stem tips and leaf axils."
+    },
+    "zh": {
+      "summary": "トラノハナヒゲ（Rhynchospora brownii）。莎草科刺子莞属多年生草本，生于向阳湿地、湿润草地、贫营养沼泽及休耕田；褐色小穗于茎顶及叶腋集成头状，近华刺子莞、于湿地成片，和名意为“虎须”。",
+      "habitat_hint": "向阳湿地、湿润草地、贫营养沼泽、休耕田。",
+      "finding_tips": "夏至秋于湿地寻找茎顶及叶腋集成头状的褐色小穗的莎草类。"
+    }
+  },
+  "Rhynchostegium inclinatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カヤゴケ。アオギヌゴケ科の蘚類で、湿った樹幹の下部や岩、石垣、地上、腐木に緑〜黄緑色の扁平なマット状に生える。茎と枝が平らに並び、光沢のあるやわらかい葉をつける。低地〜山地の湿った場所で普通に見られ、都市の木や石でも見られる。",
+      "habitat_hint": "湿った樹幹の下部、岩、石垣、地上、腐木。",
+      "finding_tips": "一年中、湿った樹幹の下部や石垣で光沢のある緑〜黄緑色の扁平なマット状の蘚をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kaya-goke (Rhynchostegium inclinatum), a moss. A moss of the Brachytheciaceae growing as flattened green to yellow-green mats on the lower part of damp tree trunks, rock, stone walls, ground and rotten wood; the stems and leaves lie flat, with glossy soft leaves. Common in damp lowland to montane places, seen even on urban trees and stone.",
+      "habitat_hint": "Lower part of damp tree trunks, rock, stone walls, ground, rotten wood.",
+      "finding_tips": "Year-round on lower damp trunks and stone walls use a lens to find the flattened glossy green to yellow-green moss mats."
+    },
+    "zh": {
+      "summary": "斜枝长喙藓（カヤゴケ，Rhynchostegium inclinatum）。青藓科藓类，于湿润树干下部、岩、石墙、地面及腐木成绿至黄绿扁平垫状；茎叶平列、叶柔软有光泽，常见于湿润低地至山地，城市树石亦可见。",
+      "habitat_hint": "湿润树干下部、岩石、石墙、地面、腐木。",
+      "finding_tips": "全年于湿润树干下部及石墙用放大镜寻找有光泽、绿至黄绿的扁平藓垫。"
+    }
+  },
+  "Rhyothemis variegata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Variegated flutterer",
+    "ja": {
+      "summary": "ベツコウチョウトンボ。トンボ科チョウトンボの仲間のトンボで、暖地の池沼や湿地、水辺の草地に見られる。翅が幅広く、黄褐色（べっこう色）に黒っぽい斑が入り、チョウ（蝶）のようにひらひらと飛ぶのが特徴。南日本や南西諸島などの暖地に分布する。水辺の上をゆっくり舞う。",
+      "habitat_hint": "暖地の池沼、湿地、水辺の草地、緩やかな流れ。",
+      "finding_tips": "夏、暖地の池沼や湿地の上で、べっこう色の幅広い翅をひらひらさせてチョウのように飛ぶトンボを探します。"
+    },
+    "en": {
+      "summary": "Bekkō-chōtonbo, the variegated flutterer (Rhyothemis variegata). A dragonfly of the Libellulidae (a flutterer) found around warm-region ponds, wetlands and waterside grassland; the broad wings are yellow-brown (tortoise-shell) with blackish markings, and it flutters butterfly-like. Distributed in warm southern Japan and the Ryukyu Islands, it drifts slowly over water.",
+      "habitat_hint": "Warm-region ponds, wetlands, waterside grassland, slow water.",
+      "finding_tips": "In summer over warm-region ponds and wetlands look for the dragonfly with broad tortoise-shell wings fluttering butterfly-like."
+    },
+    "zh": {
+      "summary": "斑丽翅蜻（ベツコウチョウトンボ，Rhyothemis variegata）。蜻科丽翅蜻类蜻蜓，见于暖地池沼、湿地及水边草地；翅宽、黄褐（玳瑁色）具黑斑，如蝶般翩飞，分布南日本及琉球等暖地，于水面缓舞。",
+      "habitat_hint": "暖地池沼、湿地、水边草地、缓流。",
+      "finding_tips": "夏于暖地池沼湿地上寻找玳瑁色宽翅、如蝶翩飞的蜻蜓。"
+    }
+  },
+  "Rhyparioides nebulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiger moth",
+    "ja": {
+      "summary": "ベニシタヒトリ。ヒトリガ科のガで、平地〜山地の草地、林縁、農地に見られる。前翅は褐色〜灰褐色で雲状の模様があり、後翅（下翅）が紅色（べに）をおびるのが名の由来。危険を感じると前翅を開いて後翅の紅色を見せる。幼虫は各種の草本を食べる毛虫。夜に灯火に集まる。",
+      "habitat_hint": "平地〜山地の草地、林縁、農地、河原。",
+      "finding_tips": "夏、灯火で前翅が褐色で雲状の模様、後翅が紅色のヒトリガを探します。"
+    },
+    "en": {
+      "summary": "Benishita-hitori (Rhyparioides nebulosa), a tiger moth. A tiger moth of the Erebidae (Arctiinae) found in lowland to montane grassland, edges and farmland; the forewing is brown to grey-brown with a cloudy pattern and the hindwing is red-tinged, source of the name. When alarmed it opens the forewings to flash the red hindwings. The hairy larva feeds on various herbs, and adults come to lights at night.",
+      "habitat_hint": "Lowland to montane grassland, edges, farmland, riverbanks.",
+      "finding_tips": "In summer look at lights for the tiger moth with a cloudy-patterned brown forewing and red hindwing."
+    },
+    "zh": {
+      "summary": "ベニシタヒトリ（Rhyparioides nebulosa）。灯蛾科的一种蛾，见于平地至山地草地、林缘及农田；前翅褐至灰褐、具云状斑，后翅（下翅）带红（故名），受惊张开前翅露红后翅，幼虫为毛虫食多种草本，成虫夜间趋光。",
+      "habitat_hint": "平地至山地草地、林缘、农田、河滩。",
+      "finding_tips": "夏于灯下寻找前翅褐具云斑、后翅红的灯蛾。"
+    }
+  },
+  "Ribes japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Currant",
+    "ja": {
+      "summary": "コマガタケスグリ。スグリ科スグリ属の落葉低木で、山地〜亜高山の林縁や谷沿い、やや湿った岩場に生える。枝にとげがあり、切れ込む葉をつける。初夏、淡緑色〜赤みを帯びた小さな鐘状の花を咲かせ、夏〜秋に赤く熟す小さな実をつける。駒ヶ岳（こまがたけ）などにちなむ名のスグリの仲間。",
+      "habitat_hint": "山地〜亜高山の林縁、谷沿い、やや湿った岩場。",
+      "finding_tips": "初夏、山地の林縁や岩場で枝にとげがあり、淡緑色の小さな鐘状の花をつけるスグリを探します。夏〜秋に赤い実。"
+    },
+    "en": {
+      "summary": "Komagatake-suguri (Ribes japonicum), a currant. A deciduous shrub of the gooseberry family growing on montane to subalpine woodland edges, valleys and dampish rocks; the branches have spines and the leaves are lobed. In early summer it bears small pale-green to reddish bell-shaped flowers, followed by small red fruits in summer to autumn. A currant named for Mt Komagatake and other places.",
+      "habitat_hint": "Montane to subalpine woodland edges, valleys, dampish rocks.",
+      "finding_tips": "In early summer on montane edges and rocks look for the spiny currant with small pale-green bell-shaped flowers; red fruit in summer to autumn."
+    },
+    "zh": {
+      "summary": "日本茶藨子（コマガタケスグリ，Ribes japonicum）。茶藨子科茶藨子属落叶灌木，生于山地至亚高山林缘、谷地及略湿岩场；枝具刺、叶分裂，初夏开淡绿至带红小钟状花，夏至秋结红色小果，因驹岳等地得名。",
+      "habitat_hint": "山地至亚高山林缘、谷地、略湿岩场。",
+      "finding_tips": "初夏于山地林缘及岩场寻找枝具刺、淡绿小钟状花的茶藨子，夏至秋见红果。"
+    }
+  },
+  "Ribes latifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Currant",
+    "ja": {
+      "summary": "エゾスグリ。スグリ科スグリ属の落葉低木で、北日本や山地の湿った林縁、谷沿い、やや湿った斜面に生える。とげのない枝に幅の広い切れ込む葉をつける。初夏、緑色〜赤みを帯びた小さな花を房状に下げて咲かせ、夏〜秋に赤く熟す実をつける。北方系のスグリの仲間。",
+      "habitat_hint": "北日本や山地の湿った林縁、谷沿い、やや湿った斜面。",
+      "finding_tips": "初夏、北日本や山地の湿った林縁で幅広い切れ込む葉と、房状に下がる緑〜赤みの小花をつけるスグリを探します。"
+    },
+    "en": {
+      "summary": "Ezo-suguri (Ribes latifolium), a currant. A deciduous shrub of the gooseberry family growing on damp montane woodland edges, valleys and dampish slopes in northern Japan and the mountains; the spineless branches bear broad lobed leaves. In early summer it bears small green to reddish flowers hanging in racemes, followed by red fruits in summer to autumn. A northern currant.",
+      "habitat_hint": "Northern-Japan and montane damp woodland edges, valleys, dampish slopes.",
+      "finding_tips": "In early summer on damp montane edges look for the spineless currant with broad lobed leaves and drooping racemes of small green-reddish flowers."
+    },
+    "zh": {
+      "summary": "エゾスグリ（Ribes latifolium）。茶藨子科茶藨子属落叶灌木，生于北日本及山地湿润林缘、谷地及略湿坡；枝无刺、叶宽而分裂，初夏总状下垂开绿至带红小花，夏至秋结红果，为北方茶藨子。",
+      "habitat_hint": "北日本及山地湿润林缘、谷地、略湿坡。",
+      "finding_tips": "初夏于湿润山地林缘寻找宽裂叶、下垂总状绿红小花的无刺茶藨子。"
+    }
+  },
+  "Ribes maximowiczianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Currant",
+    "ja": {
+      "summary": "ザリコミ。スグリ科スグリ属の落葉低木で、山地の林縁や谷沿い、やや湿った斜面に生える。とげのない枝に、先のとがった切れ込む葉をつける。初夏、淡緑色〜赤みを帯びた小さな花を咲かせ、秋に赤く熟す実をつける。雌雄異株。スグリの仲間で、山地に分布する。",
+      "habitat_hint": "山地の林縁、谷沿い、やや湿った斜面、二次林。",
+      "finding_tips": "初夏、山地の林縁で先のとがった切れ込む葉と、淡緑色の小花をつけるスグリを探します。秋には赤い実。"
+    },
+    "en": {
+      "summary": "Zarikomi (Ribes maximowiczianum), a currant. A deciduous shrub of the gooseberry family growing on montane woodland edges, valleys and dampish slopes; the spineless branches bear sharply pointed lobed leaves. In early summer it bears small pale-green to reddish flowers, followed by red fruits in autumn, and it is dioecious. A montane currant.",
+      "habitat_hint": "Montane woodland edges, valleys, dampish slopes, secondary woods.",
+      "finding_tips": "In early summer on montane edges look for the currant with sharply pointed lobed leaves and small pale-green flowers; red fruit in autumn."
+    },
+    "zh": {
+      "summary": "尖叶茶藨子（ザリコミ，Ribes maximowiczianum）。茶藨子科茶藨子属落叶灌木，生于山地林缘、谷地及略湿坡；枝无刺、叶分裂而先端尖，初夏开淡绿至带红小花，秋结红果，雌雄异株，为山地茶藨子。",
+      "habitat_hint": "山地林缘、谷地、略湿坡、次生林。",
+      "finding_tips": "初夏于山地林缘寻找先端尖的裂叶及淡绿小花的茶藨子，秋见红果。"
+    }
+  },
+  "Ribes sachalinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Currant",
+    "ja": {
+      "summary": "トガスグリ。スグリ科スグリ属の落葉低木で、北日本や山地〜亜高山の針葉樹林の林縁、谷沿い、やや湿った斜面に生える。とげのない枝に切れ込む葉をつける。初夏、緑色〜赤みを帯びた小さな花を房状に下げて咲かせ、夏〜秋に赤く熟す実をつける。北方系のスグリで、栂（トガ）などの針葉樹林に生える。",
+      "habitat_hint": "北日本や山地〜亜高山の針葉樹林の林縁、谷沿い、やや湿った斜面。",
+      "finding_tips": "初夏、山地の針葉樹林の林縁で切れ込む葉と、房状に下がる緑〜赤みの小花をつけるスグリを探します。"
+    },
+    "en": {
+      "summary": "Toga-suguri (Ribes sachalinense), a currant. A deciduous shrub of the gooseberry family growing on the edges of montane to subalpine conifer forest, valleys and dampish slopes in northern Japan; the spineless branches bear lobed leaves. In early summer it bears small green to reddish flowers hanging in racemes, followed by red fruits in summer to autumn. A northern currant of conifer forest.",
+      "habitat_hint": "Northern-Japan and montane to subalpine conifer-forest edges, valleys, dampish slopes.",
+      "finding_tips": "In early summer on montane conifer-forest edges look for the currant with lobed leaves and drooping racemes of small green-reddish flowers."
+    },
+    "zh": {
+      "summary": "トガスグリ（Ribes sachalinense）。茶藨子科茶藨子属落叶灌木，生于北日本及山地至亚高山针叶林林缘、谷地及略湿坡；枝无刺、叶分裂，初夏总状下垂开绿至带红小花，夏至秋结红果，为针叶林的北方茶藨子。",
+      "habitat_hint": "北日本及山地至亚高山针叶林林缘、谷地、略湿坡。",
+      "finding_tips": "初夏于山地针叶林林缘寻找裂叶、下垂总状绿红小花的茶藨子。"
+    }
+  },
+  "Rosa acicularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prickly rose",
+    "ja": {
+      "summary": "オオタカネバラ。バラ科バラ属の落葉低木で、山地〜亜高山の林縁や岩場、明るい斜面に生える。枝に細い針状のとげが密生する。初夏〜夏、紅色〜淡紅色の一重の5弁の花を咲かせ、香りがよい。秋、赤く熟す果実（ローズヒップ）をつける。タカネバラより大きめの北方系・高山性のバラ。",
+      "habitat_hint": "山地〜亜高山の林縁、岩場、明るい斜面、崖地。",
+      "finding_tips": "6〜7月、山地の林縁や岩場で細い針状のとげが密生する枝と、紅色の一重の5弁の花をもつバラを探します。"
+    },
+    "en": {
+      "summary": "Ō-takane-bara, the prickly rose (Rosa acicularis). A deciduous shrub rose of the rose family growing on montane to subalpine woodland edges, rocks and open slopes; the branches are densely set with fine needle-like prickles. In early to mid summer it bears fragrant single red to pale-pink five-petalled flowers, followed by red hips in autumn. A northern, alpine rose larger than R. nipponensis.",
+      "habitat_hint": "Montane to subalpine woodland edges, rocks, open slopes, cliffs.",
+      "finding_tips": "In June–July on montane edges and rocks look for the rose with densely needle-prickled branches and single red five-petalled flowers."
+    },
+    "zh": {
+      "summary": "刺蔷薇（オオタカネバラ，Rosa acicularis）。蔷薇科蔷薇属落叶灌木，生于山地至亚高山林缘、岩场及明亮坡；枝密生细针状刺，初夏至夏开红至淡红单瓣五瓣香花，秋结红色果（蔷薇果），为较大的北方高山蔷薇。",
+      "habitat_hint": "山地至亚高山林缘、岩场、明亮坡、崖地。",
+      "finding_tips": "6 至 7 月于山地林缘岩场寻找枝密生细针刺、红色单瓣五瓣花的蔷薇。"
+    }
+  },
+  "Rubus yatabei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bramble",
+    "ja": {
+      "summary": "ヒメカジイチゴ。バラ科キイチゴ属の落葉低木で、暖地の海岸近くの林縁や斜面、荒れ地に生える。カジイチゴに近い仲間で小型。枝にはとげが少なく、切れ込む葉をつける。春、白い5弁の花を咲かせ、初夏に黄橙色〜赤色に熟す集合果をつける（食べられる）。南日本の暖地に分布。",
+      "habitat_hint": "暖地の海岸近くの林縁、斜面、荒れ地、道ばた。",
+      "finding_tips": "3〜5月、暖地の海岸近くの林縁で切れ込む葉と白い5弁の花をつけるキイチゴを探します。初夏に黄橙色の実。"
+    },
+    "en": {
+      "summary": "Hime-kaji-ichigo (Rubus yatabei), a bramble. A deciduous shrub of the raspberry genus growing on warm-region coastal woodland edges, slopes and waste ground; a small relative of R. trifidus, with few spines on the branches and lobed leaves. In spring it bears white five-petalled flowers, followed in early summer by yellow-orange to red aggregate fruits, which are edible. Distributed in warm southern Japan.",
+      "habitat_hint": "Warm-region coastal woodland edges, slopes, waste ground, roadsides.",
+      "finding_tips": "From March to May on warm-region coastal edges look for the bramble with lobed leaves and white five-petalled flowers; yellow-orange fruit in early summer."
+    },
+    "zh": {
+      "summary": "ヒメカジイチゴ（Rubus yatabei）。蔷薇科悬钩子属落叶灌木，生于暖地近海林缘、坡地及荒地；近种而小，枝刺少、叶分裂，春开白色五瓣花，初夏结黄橙至红色聚合果（可食），分布南日本暖地。",
+      "habitat_hint": "暖地近海林缘、坡地、荒地、路旁。",
+      "finding_tips": "3 至 5 月于暖地近海林缘寻找裂叶及白色五瓣花的悬钩子，初夏见黄橙果。"
+    }
+  },
+  "Salomonia ciliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒナノカンザシ。ヒメハギ科ヒナノカンザシ属の小さな一年草で、日当たりのよい湿地や湿った草地、休耕田、貧栄養の裸地に生える。細い茎に小さな葉をまばらにつけ、秋、淡紅紫色のごく小さな花を細い穂状に咲かせる。花穂を簪（かんざし）に見立てたのが名の由来。とても小さく目立たない。",
+      "habitat_hint": "日当たりのよい湿地、湿った草地、休耕田、貧栄養の裸地。",
+      "finding_tips": "9〜10月、日当たりのよい湿地で細い茎に淡紅紫色のごく小さな花を穂状につける小さな草を探します。"
+    },
+    "en": {
+      "summary": "Hina-no-kanzashi (Salomonia ciliata). A small annual of the milkwort family growing in sunny wetlands, damp grassland, fallow paddies and nutrient-poor bare ground; slender stems bear small leaves sparsely and, in autumn, very small pale purple-pink flowers in a slender spike. The flower spike likened to a hairpin gives the Japanese name. Very small and inconspicuous.",
+      "habitat_hint": "Sunny wetlands, damp grassland, fallow paddies, nutrient-poor bare ground.",
+      "finding_tips": "In September–October in sunny wetlands look for the small plant with very small pale purple-pink flowers in a slender spike."
+    },
+    "zh": {
+      "summary": "齿果草（ヒナノカンザシ，Salomonia ciliata）。远志科齿果草属小型一年生草本，生于向阳湿地、湿润草地、休耕田及贫营养裸地；细茎疏生小叶，秋于细穗开淡紫红极小花，花穗似簪（故名），极小不显。",
+      "habitat_hint": "向阳湿地、湿润草地、休耕田、贫营养裸地。",
+      "finding_tips": "9 至 10 月于向阳湿地寻找细茎穗状生淡紫红极小花的小草。"
+    }
+  },
+  "Saussurea maximowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤコアザミ。キク科トウヒレン属の多年草で、日当たりのよい山地の草地や林縁、道ばた、やや湿った斜面に生える。アザミに似るが葉にとげがなく、秋、茎の先に紫色の筒状花からなる頭花を集めてつける。トウヒレンの仲間で、名にアザミとつくが本当のアザミ（Cirsium）ではない。",
+      "habitat_hint": "日当たりのよい山地の草地、林縁、道ばた、やや湿った斜面。",
+      "finding_tips": "9〜10月、山地の草地や林縁でとげのない葉と、紫色の筒状花の頭花を集めてつけるトウヒレンの仲間を探します。"
+    },
+    "en": {
+      "summary": "Miyako-azami (Saussurea maximowiczii). A perennial of the daisy family growing on sunny montane grassland, woodland edges, roadsides and dampish slopes; it resembles a thistle but the leaves lack spines, and in autumn it bears purple heads of tubular florets clustered at the stem tips. A Saussurea; despite 'azami' in the name it is not a true thistle (Cirsium).",
+      "habitat_hint": "Sunny montane grassland, woodland edges, roadsides, dampish slopes.",
+      "finding_tips": "In September–October in montane grassland and edges look for the spineless leaves and clustered purple tubular-flowered heads."
+    },
+    "zh": {
+      "summary": "ミヤコアザミ（Saussurea maximowiczii）。菊科风毛菊属多年生草本，生于向阳山地草地、林缘、路旁及略湿坡；似蓟但叶无刺，秋于茎顶簇生紫色筒状花头状花序，为风毛菊类、虽名含蓟但非真蓟（Cirsium）。",
+      "habitat_hint": "向阳山地草地、林缘、路旁、略湿坡。",
+      "finding_tips": "9 至 10 月于山地草地林缘寻找无刺叶及簇生紫色筒状花头状花序的风毛菊类。"
+    }
+  },
+  "Scapania ampliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "オオヒシャクゴケ。ヒシャクゴケ科の茎葉のある苔類で、山地の湿った岩や土、崖、渓流沿いの岩、腐木に緑〜赤褐色のマット状に群生する。葉が大小2枚に折り重なる（背片と腹片）のが特徴で、柄杓（ひしゃく）のような形に見える。ヒシャクゴケの仲間では大型。湿った冷涼な場所を好む。",
+      "habitat_hint": "山地の湿った岩、土、崖、渓流沿いの岩、腐木。",
+      "finding_tips": "一年中、山地の湿った岩や崖で、葉が大小2枚に折り重なる緑〜赤褐色のマット状の苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Ō-hishaku-goke (Scapania ampliata), a leafy liverwort. A leafy liverwort of the Scapaniaceae growing as green to reddish-brown mats on damp montane rock, soil, cliffs, streamside rock and rotten wood; each leaf is folded into two unequal lobes (dorsal and ventral), looking like a ladle. Large for a Scapania, it favours damp, cool places.",
+      "habitat_hint": "Damp montane rock, soil, cliffs, streamside rock, rotten wood.",
+      "finding_tips": "Year-round on damp montane rock and cliffs use a lens to find the green to reddish-brown liverwort with leaves folded into two unequal lobes."
+    },
+    "zh": {
+      "summary": "オオヒシャクゴケ（Scapania ampliata）。合叶苔科茎叶体苔类，于山地湿岩、土、崖、溪流沿岸岩及腐木成绿至红褐垫状；叶折成大小两瓣（背瓣与腹瓣）、形似勺（故名），为合叶苔类中较大者，喜湿冷处。",
+      "habitat_hint": "山地湿岩、土、崖、溪流沿岸岩、腐木。",
+      "finding_tips": "全年于山地湿岩及崖壁用放大镜寻找叶折成大小两瓣的绿至红褐苔垫。"
+    }
+  },
+  "Schima noronhae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イジュ。ツバキ科ヒメツバキ属の常緑高木で、南西諸島などの暖地の照葉樹林や山地の樹林に生える。革質のつやのある葉をつけ、初夏、枝先に白い5弁の大きな花を多数咲かせる。花はツバキやサザンカに似て、樹冠が白く彩られる。南西諸島の代表的な照葉樹の一つ。",
+      "habitat_hint": "南西諸島などの暖地の照葉樹林、山地の樹林。",
+      "finding_tips": "5〜6月、南西諸島の照葉樹林で革質のつやのある葉と、枝先に多数咲く白い5弁の大きな花をもつ常緑高木を探します。"
+    },
+    "en": {
+      "summary": "Iju (Schima noronhae). An evergreen tree of the tea family growing in warm-region evergreen broadleaf forest and montane woodland such as the Ryukyu Islands; it has glossy leathery leaves and, in early summer, many large white five-petalled flowers at the branch tips. The flowers resemble camellia and sasanqua, colouring the crown white. One of the characteristic evergreen trees of the Ryukyu Islands.",
+      "habitat_hint": "Warm-region evergreen broadleaf forest, montane woodland (Ryukyu etc.).",
+      "finding_tips": "In May–June in Ryukyu evergreen forest look for the evergreen tree with glossy leathery leaves and many large white five-petalled flowers at the branch tips."
+    },
+    "zh": {
+      "summary": "イジュ（Schima noronhae）。山茶科木荷属常绿乔木，生于琉球等暖地照叶林及山地林；叶革质有光泽，初夏枝端多开白色大型五瓣花，花似山茶、茶梅，使树冠染白，为琉球代表性照叶树之一。",
+      "habitat_hint": "琉球等暖地照叶林、山地林。",
+      "finding_tips": "5 至 6 月于琉球照叶林寻找革质亮叶、枝端多开白色大型五瓣花的常绿乔木。"
+    }
+  },
+  "Schizotechium monospermum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chickweed",
+    "ja": {
+      "summary": "オオヤマハコベ。ナデシコ科（ハコベの仲間）の多年草で、山地の湿った林床や谷沿い、沢沿いの湿った斜面に生える。細い茎が伸びて広がり、対生の葉をつける。夏、白い小さな花を咲かせ、花弁が深く2裂する。ハコベに似るが大型で、山地の湿った場所に生える。",
+      "habitat_hint": "山地の湿った林床、谷沿い、沢沿いの湿った斜面。",
+      "finding_tips": "夏、山地の湿った林床で細い茎と対生の葉、深く2裂する白い小さな花をもつハコベの仲間を探します。"
+    },
+    "en": {
+      "summary": "Ō-yama-hakobe (Schizotechium monospermum), a chickweed. A perennial of the pink family (a chickweed relative) growing on damp montane forest floor, valleys and damp streamside slopes; slender stems spread with opposite leaves. In summer it bears small white flowers with deeply two-cleft petals. Resembling common chickweed but larger, it grows in damp montane places.",
+      "habitat_hint": "Damp montane forest floor, valleys, damp streamside slopes.",
+      "finding_tips": "In summer on damp montane forest floor look for the chickweed with slender stems, opposite leaves and small white deeply two-cleft flowers."
+    },
+    "zh": {
+      "summary": "オオヤマハコベ（Schizotechium monospermum）。石竹科（繁缕类）多年生草本，生于山地湿润林床、谷地及沟谷湿坡；细茎伸展、叶对生，夏开白色小花、花瓣深二裂，似繁缕而大，生于山地湿处。",
+      "habitat_hint": "山地湿润林床、谷地、沟谷湿坡。",
+      "finding_tips": "夏于山地湿润林床寻找细茎对生叶、白色深二裂小花的繁缕类。"
+    }
+  },
+  "Scleroderma polyrhizum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツチグリカタカワタケ。ニセショウロ科のきのこ（腹菌類）で、夏〜秋、道ばたや林縁、荒れ地、公園の裸地の地上に発生する。若いとき球形で、外皮が厚くかたい。成熟すると外皮が星状に裂けて反り返り、中の黒褐色の胞子塊が現れる。根状の菌糸束を地中に多数伸ばす。有毒とされ、食用にしない。",
+      "habitat_hint": "夏〜秋、道ばた、林縁、荒れ地、公園の裸地の地上。",
+      "finding_tips": "夏〜秋、裸地や道ばたで、外皮の厚い球形から星状に裂けて黒褐色の胞子塊を出すきのこを探します。有毒。"
+    },
+    "en": {
+      "summary": "Tsuchiguri-katakawa-take, the many-rooted earthball (Scleroderma polyrhizum). A gasteroid fungus of the Sclerodermataceae fruiting on the ground of roadsides, woodland edges, waste ground and bare park ground in summer to autumn; it is globular when young with a thick, hard skin, and at maturity the skin splits star-like and recurves to reveal the blackish-brown spore mass. Many root-like mycelial strands extend into the soil. Regarded as poisonous, it is not eaten.",
+      "habitat_hint": "Summer to autumn, roadsides, woodland edges, waste ground, bare park ground.",
+      "finding_tips": "From summer to autumn on bare ground and roadsides look for the thick-skinned globe that splits star-like to reveal a blackish-brown spore mass; poisonous."
+    },
+    "zh": {
+      "summary": "多根硬皮马勃（ツチグリカタカワタケ，Scleroderma polyrhizum）。硬皮马勃科腹菌类真菌，夏至秋生于路旁、林缘、荒地及公园裸地地面；幼时球形、外皮厚硬，成熟外皮星状开裂反卷、露出黑褐孢子团，地下伸出多数根状菌丝束，有毒不食。",
+      "habitat_hint": "夏至秋，路旁、林缘、荒地、公园裸地地面。",
+      "finding_tips": "夏至秋于裸地及路旁寻找厚皮球形、星状开裂露黑褐孢子团的菌；有毒。"
+    }
+  },
+  "Scolopocryptops quadristriatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Centipede",
+    "ja": {
+      "summary": "ヨスジアカムカデ。オオムカデの仲間（ムカデ）で、平地〜山地の林床や庭、石や落ち葉、朽木の下の湿った場所にすむ。体は赤褐色で細長く、多数の脚をもつ。背に4本のすじ（四筋）があることが名の由来。夜行性で、小さな虫やミミズなどを毒のあるあごで捕らえて食べる。かまれると痛むので触らない。",
+      "habitat_hint": "平地〜山地の林床、庭、石や落ち葉、朽木の下の湿った場所。",
+      "finding_tips": "一年中、石や落ち葉、朽木をめくって、赤褐色で背に4本のすじのある細長いムカデを探します。素手で触らない。"
+    },
+    "en": {
+      "summary": "Yosuji-aka-mukade (Scolopocryptops quadristriatus), a centipede. A centipede of the Scolopocryptopidae living in damp places under stones, litter and rotten wood on forest floor and in gardens from lowland to mountains; the body is reddish-brown and elongate with many legs, and four dorsal stripes give the name. Nocturnal, it seizes small insects and earthworms with venomous jaws; its bite is painful, so do not handle it.",
+      "habitat_hint": "Lowland to montane forest floor, gardens, damp places under stones, litter and rotten wood.",
+      "finding_tips": "Year-round turn stones, litter and rotten wood to find the reddish-brown centipede with four dorsal stripes; do not handle bare-handed."
+    },
+    "zh": {
+      "summary": "ヨスジアカムカデ（Scolopocryptops quadristriatus）。蜈蚣类（盲蜈蚣科），栖于平地至山地林床、庭园及石、落叶、朽木下湿润处；体红褐细长、多足，背具四条纵纹（故名），夜行、以毒颚捕食小虫及蚯蚓，咬之疼痛、勿触。",
+      "habitat_hint": "平地至山地林床、庭园、石落叶朽木下湿润处。",
+      "finding_tips": "全年翻开石、落叶及朽木寻找红褐、背具四纵纹的细长蜈蚣；勿徒手触碰。"
+    }
+  },
+  "Secale cereale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rye",
+    "aliases": {
+      "zh-Hans": "黑麦"
+    },
+    "ja": {
+      "summary": "ライムギ（ライ麦）。イネ科ライムギ属の一〜越年草で、ヨーロッパ〜西アジア原産の栽培植物。畑で栽培され、緑肥や飼料、パン（ライ麦パン）用の穀物として利用される。道ばたや畑のふち、河原に野生化（こぼれ種）することもある。細長い茎の先に、長い芒（のぎ）のある穂をつける。寒冷やせ地に強い。",
+      "habitat_hint": "畑（栽培）、道ばた、畑のふち、河原、造成地に野生化。",
+      "finding_tips": "初夏、畑や道ばたで細長い茎の先に長い芒のある穂をつけるムギの仲間を探します。ライ麦パンや飼料に使われます。"
+    },
+    "en": {
+      "summary": "Rye (Secale cereale). An annual to winter-annual grass native to Europe and West Asia, a cultivated crop grown in fields for green manure, fodder and grain (rye bread); it also naturalizes from spilt seed on roadsides, field margins and riverbanks. Slender stems bear spikes with long awns. It tolerates cold and poor soil.",
+      "habitat_hint": "Fields (cultivated); naturalized on roadsides, field margins, riverbanks, developed sites.",
+      "finding_tips": "In early summer in fields and on roadsides look for the grass with long-awned spikes; it is used for rye bread and fodder."
+    },
+    "zh": {
+      "summary": "黑麦（ライムギ，Secale cereale）。禾本科黑麦属一至越年生草本，原产欧洲及西亚的栽培植物，田间栽培作绿肥、饲料及粮食（黑麦面包），路旁田边河滩亦逸生；细茎顶端生具长芒的穗，耐寒耐瘠。",
+      "habitat_hint": "农田（栽培）；路旁、田边、河滩、造地逸生。",
+      "finding_tips": "初夏于农田及路旁寻找细茎顶端具长芒穗的麦类，用于黑麦面包及饲料。"
+    }
+  },
+  "Siphonalia spadicea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "ネムリガイ。エゾバイ科の巻貝で、沿岸のやや深い砂底、砂泥底にすむ。殻は紡錘形でやや厚く、褐色（栗色）をおび、表面に細かなうねがある。肉食性で、他の貝や動物の死骸などを食べる。海岸に打ち上げられた殻が拾われることがある。名の由来は殻の形や産地の呼び名にちなむ。",
+      "habitat_hint": "沿岸のやや深い砂底、砂泥底、大陸棚の海底。",
+      "finding_tips": "海岸に打ち上げられた、紡錘形で褐色の表面に細かなうねのある巻貝の殻を探します。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Nemuri-gai (Siphonalia spadicea), a whelk. A snail of the Buccinidae living on somewhat deep sandy and sandy-mud bottoms in coastal waters; the spindle-shaped shell is rather thick, brown (chestnut) coloured, with fine ribs on the surface. Carnivorous, it eats other molluscs and carrion, and beach-cast shells are sometimes collected.",
+      "habitat_hint": "Somewhat deep coastal sandy and sandy-mud bottoms, shelf seabed.",
+      "finding_tips": "Look on beaches for beach-cast spindle-shaped brown whelk shells with fine ribs."
+    },
+    "zh": {
+      "summary": "ネムリガイ（Siphonalia spadicea）。蛾螺科螺类，栖于沿岸略深砂底、砂泥底；壳纺锤形而略厚，褐（栗）色、表面具细棱，肉食取食其他贝类及动物尸体，冲刷上岸的壳偶被拾取。",
+      "habitat_hint": "沿岸略深砂底、砂泥底、陆架海底。",
+      "finding_tips": "于海岸寻找冲刷上岸、纺锤形褐色、表面具细棱的螺壳。"
+    }
+  },
+  "Sium sisarum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water parsnip",
+    "ja": {
+      "summary": "ムカゴニンジン。セリ科ムカゴニンジン属の多年草で、池沼や水路、湿地、水辺の湿った草地、休耕田に生える。細長く切れ込む羽状の葉をもち、葉のわきに小さなむかご（珠芽）ができることが名の由来。夏〜秋、白い小花を複散形花序（傘状）につける。セリの仲間で水辺に生える。",
+      "habitat_hint": "池沼、水路、湿地、水辺の湿った草地、休耕田。",
+      "finding_tips": "夏〜秋、水辺や湿地で羽状の葉と白い小花の傘状の花序、葉のわきの小さなむかごを探します。"
+    },
+    "en": {
+      "summary": "Mukago-ninjin (Sium sisarum), a water parsnip. A perennial of the carrot family growing in ponds, channels, wetlands, damp waterside grassland and fallow paddies; it has narrow, divided pinnate leaves, and small bulbils in the leaf axils give the Japanese name. In summer to autumn it bears white flowers in compound umbels. A waterside relative of the water dropworts.",
+      "habitat_hint": "Ponds, channels, wetlands, damp waterside grassland, fallow paddies.",
+      "finding_tips": "From summer to autumn at waterside and in wetlands look for the pinnate leaves, umbels of white flowers and small bulbils in the leaf axils."
+    },
+    "zh": {
+      "summary": "ムカゴニンジン（Sium sisarum）。伞形科泽芹属多年生草本，生于池沼、水渠、湿地、水边湿润草地及休耕田；叶羽状细裂，叶腋生小珠芽（故名），夏至秋于复伞形花序生白色小花，为水边伞形科植物。",
+      "habitat_hint": "池沼、水渠、湿地、水边湿润草地、休耕田。",
+      "finding_tips": "夏至秋于水边及湿地寻找羽状叶、白色小花伞状花序及叶腋小珠芽。"
+    }
+  },
+  "Smilax bockii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greenbrier",
+    "ja": {
+      "summary": "カラスキバサンキライ。サルトリイバラ科（旧ユリ科）シオデ属のつる性の木本で、暖地の林縁や樹林、谷沿いに生える。つるにとげがあり、葉のわきから巻きひげを出して他の木にからみつく。革質のつやのある葉をつける。春に地味な花を咲かせ、秋〜冬に黒く熟す小さな球形の実をつける。サルトリイバラの仲間。",
+      "habitat_hint": "暖地の林縁、樹林、谷沿い、やや湿った斜面。",
+      "finding_tips": "一年中、暖地の林縁でとげと巻きひげのあるつる性の茎、革質のつやのある葉をもつサルトリイバラの仲間を探します。"
+    },
+    "en": {
+      "summary": "Karasu-kiba-sankirai (Smilax bockii), a greenbrier. A woody climber of the catbrier family (former lily family) growing on warm-region woodland edges, forest and valleys; the vines have prickles and tendrils from the leaf axils that grip other plants. It has glossy leathery leaves, plain flowers in spring and small black round fruits in autumn to winter. A catbrier relative.",
+      "habitat_hint": "Warm-region woodland edges, forest, valleys, dampish slopes.",
+      "finding_tips": "Year-round on warm-region edges look for the prickly, tendril-bearing woody climber with glossy leathery leaves."
+    },
+    "zh": {
+      "summary": "カラスキバサンキライ（Smilax bockii）。菝葜科（旧百合科）菝葜属木质藤本，生于暖地林缘、林地及谷地；藤具刺、叶腋生卷须攀附他木，叶革质有光泽，春开朴素花，秋冬结黑色球形小果，为菝葜类。",
+      "habitat_hint": "暖地林缘、林地、谷地、略湿坡。",
+      "finding_tips": "全年于暖地林缘寻找具刺及卷须、革质亮叶的木质藤本。"
+    }
+  },
+  "Solenostoma virgatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "キブリツボミゴケ。ツボミゴケ科の茎葉のある苔類で、山地の湿った土や岩、崖、渓流沿いの岩に緑〜黄緑色〜赤褐色のマット状に群生する。茎に丸みのある葉が二列に並ぶ。しばしば黄色みや赤褐色を帯びる。湿った冷涼な場所を好む微小な苔で、渓流沿いに多い。",
+      "habitat_hint": "山地の湿った土、岩、崖、渓流沿いの岩。",
+      "finding_tips": "一年中、山地の湿った土や岩で丸い葉が二列に並ぶ緑〜黄緑〜赤褐色の苔をルーペで探します。"
+    },
+    "en": {
+      "summary": "Kiburi-tsubomi-goke (Solenostoma virgatum), a leafy liverwort. A leafy liverwort of the Solenostomataceae growing as green to yellow-green to reddish-brown mats on damp montane soil, rock, cliffs and streamside rock; rounded leaves are arranged in two rows on the stem, often tinged yellow or reddish-brown. A minute liverwort favouring damp, cool places, common along streams.",
+      "habitat_hint": "Damp montane soil, rock, cliffs, streamside rock.",
+      "finding_tips": "Year-round on damp montane soil and rock use a lens to find the green to reddish-brown liverwort with two rows of rounded leaves."
+    },
+    "zh": {
+      "summary": "长褶管口苔（キブリツボミゴケ，Solenostoma virgatum）。叶苔科茎叶体苔类，于山地湿土、岩、崖及溪流沿岸岩成绿至黄绿至红褐垫状；茎生圆钝叶二列，常带黄或红褐，为喜湿冷处的微小苔，溪流沿岸多见。",
+      "habitat_hint": "山地湿土、岩、崖、溪流沿岸岩。",
+      "finding_tips": "全年于山地湿土及岩石用放大镜寻找圆叶二列、绿至红褐的苔。"
+    }
   }
 }
