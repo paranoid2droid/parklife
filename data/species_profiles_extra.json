@@ -242783,5 +242783,530 @@
       "habitat_hint": "山地湿岩、土、崖、溪流沿岸岩、石灰岩地。",
       "finding_tips": "全年于山地湿岩及崖壁用放大镜寻找绿至黄绿、圆叶二列匍匐的苔。"
     }
+  },
+  "Pennahia argentata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silver croaker",
+    "ja": {
+      "summary": "シログチ（グチ、イシモチ）。ニベ科の魚で、沿岸のやや深い砂泥底にすむ。体は銀白色で側扁し、やわらかくふくらんだ体つき。うきぶくろを使って「グーグー」と音を出す（愚痴＝ぐち）ことが名の由来。群れで底層を泳ぎ、小魚や甲殻類を食べる。食用で、かまぼこ（練り製品）の材料にもされる。",
+      "habitat_hint": "沿岸のやや深い砂泥底、内湾、大陸棚。",
+      "finding_tips": "沿岸の砂泥底で、銀白色で側扁し口が下向きのニベの仲間を探します。食用魚です。"
+    },
+    "en": {
+      "summary": "Shiroguchi, the silver croaker (Pennahia argentata). A fish of the Sciaenidae living on somewhat deep sandy-mud bottoms in coastal waters; the body is silvery-white and laterally compressed. It makes a grunting sound with its swim bladder, source of the Japanese name ('grumble'). It swims near the bottom in schools eating small fish and crustaceans, and is eaten, including in fish paste (kamaboko).",
+      "habitat_hint": "Somewhat deep coastal sandy-mud bottoms, bays, continental shelf.",
+      "finding_tips": "On coastal sandy-mud bottoms look for the silvery, laterally compressed croaker with a downward mouth; an edible fish."
+    },
+    "zh": {
+      "summary": "白姑鱼（シログチ，Pennahia argentata）。石首鱼科鱼类，栖于沿岸略深砂泥底；体银白侧扁，以鳔发“咕咕”声（愚痴，故名），成群于底层游动取食小鱼甲壳类，供食并作鱼糜（鱼板）原料。",
+      "habitat_hint": "沿岸略深砂泥底、内湾、陆架。",
+      "finding_tips": "于沿岸砂泥底寻找银白侧扁、口下位的石首鱼类，为食用鱼。"
+    }
+  },
+  "Peperomia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peperomia",
+    "ja": {
+      "summary": "サダソウ。コショウ科サダソウ属（ペペロミア）の多年草で、暖地の海岸近くの岩場や崖、林縁のやや湿った岩の上に生える。多肉質で厚みのある葉を対生またはやや輪生状につけ、地表に低く広がる。夏〜秋、細長い尾のような穂状花序に、ごく小さな花を密につける。南日本の暖地に分布。",
+      "habitat_hint": "暖地の海岸近くの岩場、崖、林縁のやや湿った岩の上。",
+      "finding_tips": "夏〜秋、暖地の海岸近くの岩の上で多肉質の厚い葉と、尾のような細長い穂状の花序をもつ小さな草を探します。"
+    },
+    "en": {
+      "summary": "Sadasō (Peperomia japonica), a peperomia. A perennial of the pepper family growing on coastal rocks, cliffs and dampish rock at woodland edges in warm regions; it has fleshy, thick leaves opposite or somewhat whorled and spreads low over the surface. In summer to autumn it bears tiny flowers densely on a long, tail-like spike. Distributed in warm southern Japan.",
+      "habitat_hint": "Warm-region coastal rocks, cliffs, dampish edge rock.",
+      "finding_tips": "From summer to autumn on warm-region coastal rock look for the small plant with thick fleshy leaves and long tail-like flower spikes."
+    },
+    "zh": {
+      "summary": "石蝉草（サダソウ，Peperomia japonica）。胡椒科草胡椒属多年生草本，生于暖地近海岩场、崖及林缘略湿岩上；叶肉质厚、对生或略轮生，贴面低展，夏至秋于尾状细长穗状花序密生极小花，分布南日本暖地。",
+      "habitat_hint": "暖地近海岩场、崖、林缘略湿岩上。",
+      "finding_tips": "夏至秋于暖地近海岩上寻找肉质厚叶及尾状细长穗状花序的小草。"
+    }
+  },
+  "Perichaeta vittata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Earthworm",
+    "ja": {
+      "summary": "フトスジミミズ。フトミミズ科の中〜大型のミミズで、林床や庭、畑の湿った土壌にすむ。体は褐色で太めのすじ（帯）が目立つことが名の由来ともいわれる。落ち葉や有機物を食べて土をつくり、土壌をよく耕す。雨後に地表に出てくることがある。",
+      "habitat_hint": "林床、庭、畑、公園の湿った腐植質に富む土壌。",
+      "finding_tips": "一年中、雨後に湿った土や落ち葉の下を掘って、褐色で太めの中〜大型のミミズを探します。"
+    },
+    "en": {
+      "summary": "Futosuji-mimizu (Perichaeta vittata), an earthworm. A medium to large megascolecid earthworm of moist soil in woods, gardens and fields; the body is brown with a conspicuous thick band, as the name suggests. It feeds on leaf litter and organic matter, building and aerating the soil, and comes to the surface after rain.",
+      "habitat_hint": "Moist humus-rich soil of woodland floor, gardens, fields and parks.",
+      "finding_tips": "Year-round, after rain dig in moist soil and under litter to find the medium to large brown earthworm."
+    },
+    "zh": {
+      "summary": "フトスジミミズ（Perichaeta vittata）。巨蚓科中至大型蚯蚓，栖于林地、庭园及农田湿润土壤，体褐、具明显粗带（或为名之由来）；取食落叶与有机质，造土疏松土壤，雨后常爬出地表。",
+      "habitat_hint": "林床、庭园、农田、公园富含腐殖质的湿润土壤。",
+      "finding_tips": "全年雨后翻掘湿土及落叶下寻找褐色、较粗的中至大型蚯蚓。"
+    }
+  },
+  "Petaloconchus renisectus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Worm snail",
+    "ja": {
+      "summary": "ムカデガイ。ムカデガイ科の巻貝で、暖かい海の岩礁やサンゴ礁、潮間帯下部〜浅い海の岩に、殻を密着させて固着してすむ。殻は細長い管状で不規則に曲がり、岩の上に絡み合って群がる様子がムカデ（百足）を思わせるのが名の由来。動かず、粘液の糸を出してプランクトンを捕らえて食べる。",
+      "habitat_hint": "暖かい海の岩礁、サンゴ礁、潮間帯下部〜浅い海の岩。",
+      "finding_tips": "干潮時、暖地の岩礁の岩の上で、不規則に曲がった細長い管状の殻が絡み合って固着する巻貝を探します。"
+    },
+    "en": {
+      "summary": "Mukade-gai (Petaloconchus renisectus), a worm snail. A snail of the Vermetidae cemented to rock on warm-sea rocky and coral reefs and from the lower intertidal into shallow water; the shell is a long, irregularly bent tube, and the tangled masses on the rock recall a centipede, source of the name. Sessile, it catches plankton on threads of mucus to feed.",
+      "habitat_hint": "Warm-sea rocky and coral reefs, lower intertidal to shallow-water rock.",
+      "finding_tips": "At low tide on warm-region reef rock look for the irregularly bent tubular shells cemented and tangled together."
+    },
+    "zh": {
+      "summary": "ムカデガイ（Petaloconchus renisectus）。蛇螺科螺类，固着于暖海岩礁及珊瑚礁、潮间带下部至浅海岩石；壳细长管状、不规则弯曲，于岩上缠结成群似蜈蚣（故名），固着不动，以黏液丝捕获浮游生物取食。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮间带下部至浅海岩石。",
+      "finding_tips": "退潮时于暖地礁石上寻找不规则弯曲、细长管状固着缠结的螺。"
+    }
+  },
+  "Philinopsis speciosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Headshield slug",
+    "ja": {
+      "summary": "カノコキセワタ。頭楯類（ずとうるい）のウミウシに近い巻貝の仲間で、内湾や浅い海の砂泥底、干潟にすむ。体は退化した殻を体内にもち、頭部に平たい板状の構造（頭楯）がある。体表に鹿の子（かのこ）模様の斑があるのが名の由来。砂泥にもぐり、他の小さな貝などを食べる肉食性。",
+      "habitat_hint": "内湾や浅い海の砂泥底、干潟、汽水域。",
+      "finding_tips": "干潮時、干潟や浅い海の砂泥で、頭部に平たい板があり体表に鹿の子模様のあるナメクジ状の生きものを探します。"
+    },
+    "en": {
+      "summary": "Kanoko-kisewata (Philinopsis speciosa), a headshield slug. A cephalaspidean sea slug (a snail relative) living on sandy-mud bottoms and tidal flats in bays and shallow seas; it has a reduced internal shell and a flat plate-like structure on the head (headshield). Fawn-spotted (kanoko) markings on the body give the name. It burrows in sandy mud and is carnivorous, eating other small molluscs.",
+      "habitat_hint": "Sandy-mud bottoms and tidal flats of bays and shallow seas, brackish water.",
+      "finding_tips": "At low tide on tidal-flat sandy mud look for the slug-like animal with a flat head plate and fawn-spotted body."
+    },
+    "zh": {
+      "summary": "カノコキセワタ（Philinopsis speciosa）。头楯类海蛞蝓近类，栖于内湾及浅海砂泥底与滩涂；壳退化于体内，头部具扁板状结构（头楯），体表具鹿斑（故名），潜砂泥、肉食取食其他小软体动物。",
+      "habitat_hint": "内湾及浅海砂泥底、滩涂、半咸水。",
+      "finding_tips": "退潮时于滩涂砂泥寻找头具扁板、体具鹿斑的蛞蝓状动物。"
+    }
+  },
+  "Phytolacca japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マルミノヤマゴボウ。ヤマゴボウ科ヤマゴボウ属の大型の多年草で、山地の林縁や谷沿い、やや湿った斜面、道ばたに生える。太い茎に大きな葉をつけ、夏、白っぽい小花を穂状に立てて咲かせる。秋、球形の果実が黒紫色に熟し、穂ごと立ち上がる（ヨウシュヤマゴボウは垂れる）。全体に有毒で、根・果実は食べられない。",
+      "habitat_hint": "山地の林縁、谷沿い、やや湿った斜面、道ばた。",
+      "finding_tips": "夏〜秋、山地の林縁で太い茎と大きな葉、白い花穂と黒紫色に熟す球形の果実が立ち上がる大型の草を探します。有毒。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Marumino-yamagobō (Phytolacca japonica), a pokeweed. A large perennial of the pokeweed family growing on montane woodland edges, valleys, dampish slopes and roadsides; stout stems bear large leaves, and in summer erect spikes of whitish flowers appear. In autumn the globular fruits ripen blackish-purple and the spikes stand erect (unlike the drooping American pokeweed). The whole plant is poisonous; the root and fruit are not edible.",
+      "habitat_hint": "Montane woodland edges, valleys, dampish slopes, roadsides.",
+      "finding_tips": "From summer to autumn on montane edges look for the large plant with stout stems, erect white flower spikes and erect spikes of blackish-purple globular fruit; poisonous."
+    },
+    "zh": {
+      "summary": "日本商陆（マルミノヤマゴボウ，Phytolacca japonica）。商陆科商陆属大型多年生草本，生于山地林缘、谷地、略湿坡及路旁；粗茎生大叶，夏立穗状开偏白小花，秋球形果熟黑紫、果穗直立（异于下垂的垂序商陆），全株有毒、根果不可食。",
+      "habitat_hint": "山地林缘、谷地、略湿坡、路旁。",
+      "finding_tips": "夏至秋于山地林缘寻找粗茎大叶、白花穗及直立黑紫球形果穗的大型草；有毒。"
+    }
+  },
+  "Pillucina pisidium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lucine clam",
+    "ja": {
+      "summary": "ウメノハナガイ。ツキガイ科（ルシナ類）の小さな二枚貝で、内湾や河口の干潟、砂泥底に浅く潜ってすむ。殻は白くて丸みをおび、梅（うめ）の花びらのように見えることが名の由来。えらに共生する硫黄酸化細菌の力を借りて栄養を得る、干潟の特徴的な貝。しばしば多数が見られる。",
+      "habitat_hint": "内湾や河口の干潟、砂泥底、汽水域の浅い海底。",
+      "finding_tips": "干潮時、干潟の砂泥を掘って、白く丸みをおびた梅の花びらのような小さな二枚貝を探します。"
+    },
+    "en": {
+      "summary": "Ume-no-hana-gai (Pillucina pisidium), a lucine clam. A small bivalve of the Lucinidae living shallowly buried in tidal flats and sandy-mud bottoms of bays and estuaries; the white, rounded shell recalls a plum-blossom petal, source of the name. It gains nutrition with the help of sulfur-oxidizing bacteria in its gills, a characteristic tidal-flat clam often found in numbers.",
+      "habitat_hint": "Tidal flats of bays and estuaries, sandy-mud bottoms, shallow brackish seabed.",
+      "finding_tips": "At low tide dig in tidal-flat sandy mud for the small, white, rounded plum-blossom-like bivalve."
+    },
+    "zh": {
+      "summary": "梅花蛤（ウメノハナガイ，Pillucina pisidium）。满月蛤科小型双壳类，浅埋于内湾及河口滩涂、砂泥底；壳白而圆润、似梅花瓣（故名），借鳃内硫氧化细菌获取营养，为滩涂特征贝，常成群。",
+      "habitat_hint": "内湾及河口滩涂、砂泥底、半咸水浅海底。",
+      "finding_tips": "退潮时于滩涂砂泥中挖掘寻找白色圆润、似梅花瓣的小双壳贝。"
+    }
+  },
+  "Pilosella officinarum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mouse-ear hawkweed",
+    "ja": {
+      "summary": "ハイコウリンタンポポ。キク科ヤナギタンポポ属（ピロセラ属）の多年草で、ヨーロッパ原産の帰化植物。高原や道ばた、牧草地、芝地、荒れ地に生える。全体に白い毛が多く、走出枝（ランナー）で地表を這って広がる。初夏〜夏、細い花茎の先に黄色いタンポポに似た頭花を一つつける。葉の裏が白い。",
+      "habitat_hint": "高原、道ばた、牧草地、芝地、荒れ地。",
+      "finding_tips": "6〜8月、高原や道ばたで白い毛が多く地を這って広がり、花茎の先に黄色い頭花を一つつける草を探します。"
+    },
+    "en": {
+      "summary": "Hai-kōrin-tanpopo, the mouse-ear hawkweed (Pilosella officinarum). A perennial of the daisy family native to Europe, naturalized on highlands, roadsides, pastures, lawns and waste ground; the whole plant is hairy and spreads by runners creeping over the ground. In early summer to summer a slender stalk bears a single yellow dandelion-like head, and the leaf undersides are white.",
+      "habitat_hint": "Highlands, roadsides, pastures, lawns, waste ground.",
+      "finding_tips": "From June to August on highlands and roadsides look for the hairy runner-spreading plant with a single yellow dandelion-like head on a slender stalk."
+    },
+    "zh": {
+      "summary": "ハイコウリンタンポポ（Pilosella officinarum）。菊科山柳菊属（绒毛属）多年生草本，原产欧洲，归化于高原、路旁、牧草地、草坪及荒地；全株多毛、以匍匐枝贴地蔓延，初夏至夏花葶顶端单生黄色似蒲公英头状花，叶背白。",
+      "habitat_hint": "高原、路旁、牧草地、草坪、荒地。",
+      "finding_tips": "6 至 8 月于高原路旁寻找多毛、匍匐蔓延、花葶顶端单生黄色头状花的草。"
+    }
+  },
+  "Plagiomnium cuspidatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツボゴケ。チョウチンゴケ科の蘚類で、湿った林床の土や腐木、樹の根元、岩、石垣に緑〜濃緑色のマット状に群生する。卵形〜舌形の葉が茎に平らに並び、湿るとみずみずしく透明感がある。低地〜山地の湿った場所で普通に見られ、庭の苔にも使われる。都市の湿った石や土でも見られる。",
+      "habitat_hint": "湿った林床の土、腐木、樹の根元、岩、石垣。",
+      "finding_tips": "一年中、湿った林床や石垣で卵形〜舌形の葉が平らに並ぶ緑〜濃緑色のマット状の蘚を探します。"
+    },
+    "en": {
+      "summary": "Tsubo-goke, the woodsy leafy moss (Plagiomnium cuspidatum). A moss of the Mniaceae growing gregariously as green to dark-green mats on damp forest-floor soil, rotten wood, tree bases, rock and stone walls; the egg- to tongue-shaped leaves lie flat along the stem and look fresh and translucent when wet. Common in damp lowland to montane places, it is used in garden moss and seen on damp urban stone and soil.",
+      "habitat_hint": "Damp forest-floor soil, rotten wood, tree bases, rock, stone walls.",
+      "finding_tips": "Year-round on damp forest floor and stone walls look for the green to dark-green moss with egg- to tongue-shaped leaves lying flat."
+    },
+    "zh": {
+      "summary": "尖叶走灯藓（ツボゴケ，Plagiomnium cuspidatum）。提灯藓科藓类，成片生于湿润林床土、腐木、树基、岩及石墙，成绿至深绿垫状；卵形至舌形叶沿茎平列，湿时鲜润透明，常见于湿润低地至山地，用于庭园苔景，城市湿石湿土亦可见。",
+      "habitat_hint": "湿润林床土、腐木、树基、岩石、石墙。",
+      "finding_tips": "全年于湿润林床及石墙寻找卵至舌形叶平列的绿至深绿藓垫。"
+    }
+  },
+  "Platanthera metabifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bog orchid",
+    "ja": {
+      "summary": "エゾチドリ。ラン科ツレサギソウ属の多年草で、北日本や山地〜亜高山の湿った草地や湿原、林縁、やや湿った斜面に生える。2枚の幅の広い葉を根ぎわ近くにつけ、夏、細い花茎に黄緑色〜緑白色の小さな花を穂状に多数咲かせる。花の後ろに細い距が突き出る。ツレサギソウの仲間で北方系。",
+      "habitat_hint": "北日本や山地〜亜高山の湿った草地、湿原、林縁、やや湿った斜面。",
+      "finding_tips": "6〜7月、山地の湿った草地で2枚の幅広い葉と、黄緑色の距のある小さな花を穂状につけるランを探します。"
+    },
+    "en": {
+      "summary": "Ezo-chidori (Platanthera metabifolia), a bog orchid. A perennial orchid growing in damp grassland, bogs, edges and dampish slopes in northern Japan and montane to subalpine zones; two broad leaves are borne near the base and in summer a slender stalk bears many small yellow-green to green-white flowers in a spike, with a slender backward-pointing spur. A northern Platanthera.",
+      "habitat_hint": "Northern-Japan and montane to subalpine damp grassland, bogs, edges, dampish slopes.",
+      "finding_tips": "In June–July in damp montane grassland look for the two broad basal leaves and spikes of small yellow-green spurred flowers."
+    },
+    "zh": {
+      "summary": "エゾチドリ（Platanthera metabifolia）。兰科舌唇兰属多年生草本，生于北日本及山地至亚高山湿润草地、沼泽、林缘及略湿坡；近基部生二枚宽叶，夏于细葶穗状多生黄绿至绿白小花、后具细距，为北方舌唇兰。",
+      "habitat_hint": "北日本及山地至亚高山湿润草地、沼泽、林缘、略湿坡。",
+      "finding_tips": "6 至 7 月于山地湿润草地寻找二枚宽叶及黄绿色具距小花穗状的兰。"
+    }
+  },
+  "Pleioblastus nagashima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "ヒロウザサ。イネ科メダケ属（アズマネザサに近い仲間）のササ（笹）で、暖地の林縁や斜面、林床、川岸に群生する。細い稈（かん）にやや幅のある葉をつけ、地下茎で広がって一面のササ原をつくる。ササの仲間で、暖地に分布する。",
+      "habitat_hint": "暖地の林縁、斜面、林床、川岸、二次林の下。",
+      "finding_tips": "一年中、暖地の林縁や斜面で細い稈にやや幅のある葉をつけ、一面に広がるササを探します。"
+    },
+    "en": {
+      "summary": "Hirō-zasa (Pleioblastus nagashima), a dwarf bamboo. A Pleioblastus dwarf bamboo growing gregariously on warm-region woodland edges, slopes, forest floor and riverbanks; slender culms bear rather broad leaves, and it spreads by rhizomes to form continuous bamboo cover. A dwarf bamboo of warm regions.",
+      "habitat_hint": "Warm-region woodland edges, slopes, forest floor, riverbanks, secondary-woodland understorey.",
+      "finding_tips": "Year-round on warm-region edges and slopes look for the dwarf bamboo with slender culms and rather broad leaves forming continuous cover."
+    },
+    "zh": {
+      "summary": "ヒロウザサ（Pleioblastus nagashima）。禾本科苦竹属（近阿寒竹）笹竹，成片生于暖地林缘、坡地、林床及河岸；细秆生较宽叶，以地下茎蔓延成连片笹丛，分布暖地。",
+      "habitat_hint": "暖地林缘、坡地、林床、河岸、次生林下。",
+      "finding_tips": "全年于暖地林缘坡地寻找细秆较宽叶、连片蔓延的笹竹。"
+    }
+  },
+  "Plesiothyreus cinnamomeus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoof shell",
+    "ja": {
+      "summary": "ミヤコドリガイ。ハナヅトガイ科（ヒヅメガイの仲間）の小さな巻貝で、岩礁海岸の潮間帯下部〜浅い海の岩や、より大きな貝の殻の上に固着してすむ。殻は低い笠形〜蹄（ひづめ）形で、褐色（肉桂色）をおびる。動かず、その場で水中の有機物やプランクトンを漉し取って食べる。岩や貝殻の上で見られる。",
+      "habitat_hint": "岩礁海岸の潮間帯下部〜浅い海の岩、大きな貝の殻の上。",
+      "finding_tips": "干潮時、磯の岩や大きな貝の殻の上で、褐色で低い笠形〜蹄形の固着する小さな巻貝を探します。"
+    },
+    "en": {
+      "summary": "Miyakodori-gai (Plesiothyreus cinnamomeus), a hoof shell. A small snail of the Hipponicidae cemented to rock and the shells of larger snails from the lower rocky-shore intertidal into shallow water; the shell is a low cap to hoof shape, cinnamon-brown. Sessile, it filter-feeds on organic matter and plankton in place. It is found on rock and shells.",
+      "habitat_hint": "Lower rocky-shore intertidal to shallow-water rock, on shells of larger snails.",
+      "finding_tips": "At low tide on rocky-shore boulders and large snail shells look for the small brown low cap- to hoof-shaped cemented snail."
+    },
+    "zh": {
+      "summary": "ミヤコドリガイ（Plesiothyreus cinnamomeus）。帽贝近类的蹄螺科小型螺，固着于岩礁海岸潮间带下部至浅海岩石及较大螺壳上；壳低笠形至蹄形、肉桂褐色，固着不动、原地滤食有机质与浮游生物，见于岩石及贝壳上。",
+      "habitat_hint": "岩礁海岸潮间带下部至浅海岩石、较大螺壳上。",
+      "finding_tips": "退潮时于岩礁岩面及大螺壳上寻找褐色、低笠至蹄形固着的小螺。"
+    }
+  },
+  "Pleurobranchaea japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "ウミフクロウ。側鰓類（そくさいるい）のウミウシに近い仲間で、内湾や浅い海の砂泥底にすむ。体は大きくやわらかく、退化した殻を体内にもつ。体表は褐色〜灰褐色で、頭部に触角状の突起がある。砂泥にもぐって暮らし、他の小さな動物などを食べる肉食性。刺激を受けると体を丸める。",
+      "habitat_hint": "内湾や浅い海の砂泥底、干潟、汽水域。",
+      "finding_tips": "干潮時や浅い海の砂泥底で、大きくやわらかい褐色の体をもつナメクジ状の生きものを探します。"
+    },
+    "en": {
+      "summary": "Umi-fukurō (Pleurobranchaea japonica), a sea slug. A side-gilled sea slug (a snail relative) living on sandy-mud bottoms in bays and shallow seas; the body is large and soft with a reduced internal shell, brown to grey-brown, with tentacle-like projections on the head. It burrows in sandy mud and is carnivorous, eating other small animals, curling up when disturbed.",
+      "habitat_hint": "Sandy-mud bottoms of bays and shallow seas, tidal flats, brackish water.",
+      "finding_tips": "At low tide or on shallow sandy-mud bottoms look for the large, soft brown slug-like animal with head tentacles."
+    },
+    "zh": {
+      "summary": "ウミフクロウ（Pleurobranchaea japonica）。侧鳃类海蛞蝓近类，栖于内湾及浅海砂泥底；体大而软、壳退化于体内，褐至灰褐、头具触角状突起，潜砂泥、肉食取食其他小动物，受扰卷缩。",
+      "habitat_hint": "内湾及浅海砂泥底、滩涂、半咸水。",
+      "finding_tips": "退潮时或浅海砂泥底寻找大而软、褐色、头具触角的蛞蝓状动物。"
+    }
+  },
+  "Poronidulus conchifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Little nest polypore",
+    "ja": {
+      "summary": "サカズキカワラタケ。タマチョレイタケ科のきのこ（多孔菌）で、広葉樹の枯れ枝や倒木、切り株に発生する。若いとき杯（さかずき）状〜おわん状のくぼんだ形をとり、成長すると縁が半円形の傘に広がる。灰白色〜淡褐色で同心円状の帯がある。裏は白い管孔。木材を分解する腐朽菌。",
+      "habitat_hint": "広葉樹の枯れ枝、倒木、切り株。",
+      "finding_tips": "一年中、広葉樹の枯れ枝で若いとき杯状にくぼみ、成長すると半円形の傘に広がる灰白色のきのこを探します。"
+    },
+    "en": {
+      "summary": "Sakazuki-kawaratake, the little nest polypore (Poronidulus conchifer). A polypore of the Polyporaceae fruiting on dead branches, logs and stumps of broadleaf trees; when young it forms a cup- to bowl-shaped depression, later expanding at the margin into a semicircular bracket. It is grey-white to pale brown with concentric zones and white pores beneath. A wood-decay fungus.",
+      "habitat_hint": "Dead branches, logs and stumps of broadleaf trees.",
+      "finding_tips": "Year-round on dead broadleaf branches look for the grey-white fungus that starts cup-shaped and expands into a semicircular bracket."
+    },
+    "zh": {
+      "summary": "サカズキカワラタケ（Poronidulus conchifer）。多孔菌科真菌（多孔菌），生于阔叶树枯枝、倒木及树桩；幼时呈杯至碗状凹陷，成熟边缘展成半圆盖，灰白至淡褐、具同心环带、背面白色菌管，为木材腐朽菌。",
+      "habitat_hint": "阔叶树枯枝、倒木、树桩。",
+      "finding_tips": "全年于阔叶枯枝寻找幼时杯状凹陷、成熟展为半圆盖的灰白菌。"
+    }
+  },
+  "Potentilla togashii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cinquefoil",
+    "ja": {
+      "summary": "エチゴキジムシロ。バラ科キジムシロ属の多年草で、日本海側の山地の草地や林縁、やや湿った斜面、道ばたに生える。羽状の葉を根ぎわからロゼット状に広げ、春〜初夏、黄色い5弁の花を咲かせる。キジムシロに近い仲間で、越後（エチゴ）などの日本海側に分布する。",
+      "habitat_hint": "日本海側の山地の草地、林縁、やや湿った斜面、道ばた。",
+      "finding_tips": "4〜6月、日本海側の山地の草地で羽状の葉をロゼット状に広げ、黄色い5弁の花をつける草を探します。"
+    },
+    "en": {
+      "summary": "Echigo-kijimushiro (Potentilla togashii), a cinquefoil. A perennial of the rose family growing on montane grassland, woodland edges, dampish slopes and roadsides on the Japan Sea side; the pinnate leaves spread in a basal rosette and it bears yellow five-petalled flowers in spring to early summer. A relative of P. fragarioides distributed on the Japan Sea side, such as the Echigo region.",
+      "habitat_hint": "Japan Sea-side montane grassland, woodland edges, dampish slopes, roadsides.",
+      "finding_tips": "From April to June in Japan Sea-side montane grassland look for the pinnate leaves in a basal rosette with yellow five-petalled flowers."
+    },
+    "zh": {
+      "summary": "エチゴキジムシロ（Potentilla togashii）。蔷薇科委陵菜属多年生草本，生于日本海侧山地草地、林缘、略湿坡及路旁；羽状叶基部莲座状铺展，春至初夏开黄色五瓣花，近莓叶委陵菜、分布越后等日本海侧。",
+      "habitat_hint": "日本海侧山地草地、林缘、略湿坡、路旁。",
+      "finding_tips": "4 至 6 月于日本海侧山地草地寻找羽状叶莲座状铺展、黄色五瓣花的草。"
+    }
+  },
+  "Propylaea quatuordecimpunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "14-spot ladybird",
+    "ja": {
+      "summary": "コカメノコテントウ。テントウムシ科の小さな甲虫で、平地〜山地の草地、林縁、農地、庭に見られる。上翅は黄色〜淡黄色の地に黒い斑が並び、斑がつながって格子状〜まだら状に見えることが多い（十四星）。成虫・幼虫ともにアブラムシを食べる益虫。よく飛ぶ。",
+      "habitat_hint": "平地〜山地の草地、林縁、農地、庭。",
+      "finding_tips": "春〜秋、草地や農地の植物の上で、黄色い地に黒い斑が格子状に並ぶ小さなテントウムシを探します。"
+    },
+    "en": {
+      "summary": "Ko-kamenoko-tentō, the 14-spot ladybird (Propylaea quatuordecimpunctata). A small ladybird of the Coccinellidae found in lowland to montane grassland, edges, farmland and gardens; the elytra are yellow to pale yellow with black spots that often merge into a grid or mottled pattern (fourteen spots). Both adults and larvae eat aphids and are beneficial. It flies well.",
+      "habitat_hint": "Lowland to montane grassland, edges, farmland, gardens.",
+      "finding_tips": "From spring to autumn on grassland and farmland plants look for the small yellow ladybird with black spots in a grid-like pattern."
+    },
+    "zh": {
+      "summary": "十四星瓢虫（コカメノコテントウ，Propylaea quatuordecimpunctata）。瓢虫科小型甲虫，见于平地至山地草地、林缘、农田及庭园；鞘翅黄至淡黄、具黑斑，斑常相连成格状或斑驳（十四星），成幼虫均食蚜虫、为益虫，善飞。",
+      "habitat_hint": "平地至山地草地、林缘、农田、庭园。",
+      "finding_tips": "春至秋于草地农田植物上寻找黄底黑斑成格状的小瓢虫。"
+    }
+  },
+  "Pseudalbara parvula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hook-tip moth",
+    "ja": {
+      "summary": "ヒメハイイロカギバ。カギバガ科の小さなガで、平地〜山地の樹林や林縁に見られる。前翅の先が鉤（かぎ）状に曲がるのがカギバガの仲間の特徴。翅は灰色（はいいろ）で、小さな点や細い線がある。幼虫はクルミやカバノキなどの葉を食べる。夜に灯火に集まる。小型で目立たない。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "夏、灯火で前翅の先が鉤状に曲がる灰色の小さなガを探します。"
+    },
+    "en": {
+      "summary": "Hime-haiiro-kagiba (Pseudalbara parvula), a hook-tip moth. A small hook-tip moth of the Drepanidae found in lowland to montane woodland and edges; as in its family, the forewing tip is curved into a hook. The wings are grey with small dots and fine lines. The larva feeds on walnut and birch leaves, and adults come to lights at night; small and inconspicuous.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "In summer look at lights for the small grey moth with a hooked forewing tip."
+    },
+    "zh": {
+      "summary": "ヒメハイイロカギバ（Pseudalbara parvula）。钩蛾科小型蛾，见于平地至山地林地及林缘；如本科前翅端弯成钩状，翅灰色、具小点及细线，幼虫食核桃、桦等叶，成虫夜间趋光，小而不显。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "夏于灯下寻找前翅端弯成钩状的灰色小蛾。"
+    }
+  },
+  "Pseuderannis amplipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ウスバシロエダシャク。シャクガ科エダシャク亜科のガで、平地〜山地の樹林や林縁に見られる。翅は白っぽく薄く、半透明に近い。細かな点や暗色の縁取りがある。幼虫はシャクトリムシで、樹木の葉を食べる。夜に灯火に集まる。翅が白く薄いのが特徴。",
+      "habitat_hint": "平地〜山地の樹林、林縁、雑木林。",
+      "finding_tips": "春〜夏、灯火で白っぽく薄い半透明に近い翅をもつエダシャクを探します。"
+    },
+    "en": {
+      "summary": "Usuba-shiro-edashaku (Pseuderannis amplipennis), a geometer moth. A geometer moth of the Ennominae found in lowland to montane woodland and edges; the wings are whitish and thin, nearly translucent, with fine dots and dark edging. The larva is an inchworm feeding on tree leaves, and adults come to lights at night. Its white, thin wings are distinctive.",
+      "habitat_hint": "Lowland to montane woodland, edges, secondary woods.",
+      "finding_tips": "From spring to summer look at lights for the geometer with whitish, thin, nearly translucent wings."
+    },
+    "zh": {
+      "summary": "ウスバシロエダシャク（Pseuderannis amplipennis）。尺蛾科尺蛾亚科的一种蛾，见于平地至山地林地及林缘；翅偏白而薄、近半透明，具细点及暗色镶边，幼虫为尺蠖、食树叶，成虫夜间趋光，翅白薄为特征。",
+      "habitat_hint": "平地至山地林地、林缘、杂木林。",
+      "finding_tips": "春至夏于灯下寻找翅偏白薄、近半透明的尺蛾。"
+    }
+  },
+  "Pseudocardium sachalinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakhalin surf clam",
+    "ja": {
+      "summary": "ウバガイ（ホッキガイ）。バカガイ科の大型の二枚貝で、北日本の冷たい海の砂底、砂れき底に浅く潜ってすむ。殻は厚く三角形に近い卵形で、殻皮は黒褐色。足を出して砂にもぐる。加熱すると足の先が赤くなる。北方の代表的な食用貝で、寿司だねや刺身にされる（ホッキ貝）。長寿の貝としても知られる。",
+      "habitat_hint": "北日本の冷たい海の砂底、砂れき底、やや浅い海底。",
+      "finding_tips": "北日本の砂浜や浅い海の砂底で、厚く三角状に近い黒褐色の殻皮をもつ大きな二枚貝を探します。食用（ホッキ貝）。",
+      "note": ""
+    },
+    "en": {
+      "summary": "Ubagai, the Sakhalin surf clam (Pseudocardium sachalinense). A large bivalve of the Mactridae living shallowly buried in sandy and sandy-gravel bottoms in the cold seas of northern Japan; the thick, nearly triangular oval shell has a blackish-brown periostracum. It burrows in sand with its foot, whose tip reddens when cooked. A prized northern food clam ('hokkigai') used in sushi and sashimi, and known as a long-lived bivalve.",
+      "habitat_hint": "Cold-sea sandy and sandy-gravel bottoms of northern Japan, somewhat shallow seabed.",
+      "finding_tips": "On northern-Japan sandy beaches and shallow bottoms look for the thick, nearly triangular large bivalve with a blackish-brown shell surface; edible ('hokkigai')."
+    },
+    "zh": {
+      "summary": "库页岛蛤蜊（ウバガイ／北寄贝，Pseudocardium sachalinense）。蛤蜊科大型双壳类，浅埋于北日本冷海砂底、砂砾底；壳厚近三角卵形、壳皮黑褐，以足潜沙，煮后足尖变红，为北方名贵食用贝（北寄贝），供寿司刺身，以长寿著称。",
+      "habitat_hint": "北日本冷海砂底、砂砾底、略浅海底。",
+      "finding_tips": "于北日本沙滩及浅海砂底寻找厚、近三角、壳皮黑褐的大型双壳贝；可食（北寄贝）。"
+    }
+  },
+  "Pseudognaphalium hypoleucum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アキノハハコグサ。キク科の一〜越年草で、日当たりのよい山地の草地や道ばた、やせた斜面、河原に生える。全体が白い綿毛におおわれ、葉の裏が特に白い。秋、茎の先に黄色い小さな頭花を集めて咲かせる。ハハコグサ（春の七草の一つ）に近い仲間で、秋に咲くことが名の由来。各地で減少している。",
+      "habitat_hint": "日当たりのよい山地の草地、道ばた、やせた斜面、河原。",
+      "finding_tips": "9〜10月、日当たりのよい山地の草地で白い綿毛におおわれ、黄色い小さな頭花を集める草を探します。"
+    },
+    "en": {
+      "summary": "Aki-no-hahakogusa, the autumn cudweed (Pseudognaphalium hypoleucum). An annual to biennial of the daisy family growing on sunny montane grassland, roadsides, poor slopes and riverbanks; the whole plant is white-woolly, especially white beneath the leaves. In autumn it bears clusters of small yellow heads at the stem tips. A relative of the cudweed (a spring herb) named for its autumn flowering, it has declined in many areas.",
+      "habitat_hint": "Sunny montane grassland, roadsides, poor slopes, riverbanks.",
+      "finding_tips": "In September–October in sunny montane grassland look for the white-woolly plant with clusters of small yellow heads."
+    },
+    "zh": {
+      "summary": "秋拟鼠麴草（アキノハハコグサ，Pseudognaphalium hypoleucum）。菊科一至越年生草本，生于向阳山地草地、路旁、瘠坡及河滩；全株被白绵毛、叶背尤白，秋于茎顶簇生黄色小头状花，近鼠麴草而秋花（故名），各地减少。",
+      "habitat_hint": "向阳山地草地、路旁、瘠坡、河滩。",
+      "finding_tips": "9 至 10 月于向阳山地草地寻找被白绵毛、簇生黄色小头状花的草。"
+    }
+  },
+  "Pseudopogonatherum quadrinerve": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウンヌケモドキ。イネ科ウンヌケ属の多年草で、日当たりのよい草地や丘陵の斜面、やせた草原に生える。ウンヌケに似るが、やや小型。細い茎が株になって立ち、秋、茎の先に絹毛におおわれた赤褐色〜銀白色の花穂を立てる。花穂が風になびく。",
+      "habitat_hint": "日当たりのよい草地、丘陵の斜面、やせた草原。",
+      "finding_tips": "9〜10月、日当たりのよい草地で、絹毛におおわれた赤褐色〜銀白色の花穂を立てる株立ちのイネ科を探します。ウンヌケよりやや小型。"
+    },
+    "en": {
+      "summary": "Unnuke-modoki (Pseudopogonatherum quadrinerve). A perennial grass growing on sunny grassland, hill slopes and poor grassland; it resembles Unnuke (Pseudopogonatherum speciosum) but is rather smaller. Slender stems stand in tufts, and in autumn the stem tips raise silky reddish-brown to silvery-white flower spikes that wave in the wind.",
+      "habitat_hint": "Sunny grassland, hill slopes, poor grassland.",
+      "finding_tips": "In September–October on sunny grassland look for the somewhat small tufted grass raising silky reddish-brown to silvery-white spikes."
+    },
+    "zh": {
+      "summary": "ウンヌケモドキ（Pseudopogonatherum quadrinerve）。禾本科水蔗草近属多年生草本，生于向阳草地、丘陵坡及瘠草原；似水蔗草而略小，细茎丛生直立，秋于茎顶立被丝毛的红褐至银白色花穗，随风摇曳。",
+      "habitat_hint": "向阳草地、丘陵坡、瘠草原。",
+      "finding_tips": "9 至 10 月于向阳草地寻找丛生、茎顶立被丝毛红褐至银白花穗、较水蔗草略小的禾草。"
+    }
+  },
+  "Pterygocalyx volubilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Climbing gentian",
+    "ja": {
+      "summary": "ホソバノツルリンドウ。リンドウ科ホソバノツルリンドウ属のつる性の一年草で、山地の林縁や草地、やや湿った斜面に生える。細いつるを他の草にからませて伸び、細長い葉を対生する。秋、葉のわきに淡青紫色〜淡黄緑色の細い筒状（鐘状）の花を咲かせる。つる性のリンドウの仲間で繊細。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面、ススキ草原。",
+      "finding_tips": "9〜10月、山地の草地でほかの草にからむ細いつると、葉のわきに咲く淡青紫色の細い筒状の花を探します。"
+    },
+    "en": {
+      "summary": "Hosoba-no-tsuru-rindō (Pterygocalyx volubilis), a climbing gentian. A twining annual of the gentian family growing on montane woodland edges, grassland and dampish slopes; it twines over other plants with slender vines and narrow opposite leaves. In autumn it bears slender pale blue-purple to pale yellow-green tubular (bell-shaped) flowers in the leaf axils. A delicate climbing gentian.",
+      "habitat_hint": "Montane woodland edges, grassland, dampish slopes, miscanthus grassland.",
+      "finding_tips": "In September–October in montane grassland look for the slender twining vines and pale blue-purple tubular flowers in the leaf axils."
+    },
+    "zh": {
+      "summary": "肋柱花近类的细叶蔓龙胆（ホソバノツルリンドウ，Pterygocalyx volubilis）。龙胆科翼萼蔓属缠绕一年生草本，生于山地林缘、草地及略湿坡；细蔓缠绕他草、狭叶对生，秋于叶腋开淡青紫至淡黄绿细筒（钟）状花，为纤细的蔓生龙胆类。",
+      "habitat_hint": "山地林缘、草地、略湿坡、芒草原。",
+      "finding_tips": "9 至 10 月于山地草地寻找缠绕他草的细蔓及叶腋淡青紫细筒状花。"
+    }
+  },
+  "Puccinia oxalidis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムラサキカタバミのサビ病菌。サビキン科の菌類（さび病菌）で、ムラサキカタバミやカタバミなどカタバミ類の葉や茎に寄生する。葉の裏や茎に、橙色〜褐色の粉状の胞子のかたまり（さび胞子・夏胞子）をつくる。植物の病原菌（さび病）で、寄主のカタバミに斑点や変形を起こす。",
+      "habitat_hint": "ムラサキカタバミ・カタバミなどカタバミ類の葉や茎、庭・道ばた・畑。",
+      "finding_tips": "春〜秋、カタバミ類の葉の裏や茎で、橙色〜褐色の粉状のさびのかたまりを探します。"
+    },
+    "en": {
+      "summary": "Murasaki-katabami-no-sabi, the oxalis rust (Puccinia oxalidis). A rust fungus of the Pucciniaceae parasitic on the leaves and stems of oxalis (wood-sorrels) such as pink-sorrel and creeping wood-sorrel; it forms orange to brown powdery spore masses (rust and summer spores) on the leaf undersides and stems. A plant pathogen (rust disease) causing spotting and distortion of its oxalis host.",
+      "habitat_hint": "Leaves and stems of oxalis (pink-sorrel, wood-sorrel); gardens, roadsides, fields.",
+      "finding_tips": "From spring to autumn on the undersides of oxalis leaves and stems look for the orange to brown powdery rust pustules."
+    },
+    "zh": {
+      "summary": "酢浆草柄锈菌（ムラサキカタバミのサビ病菌，Puccinia oxalidis）。柄锈菌科锈菌，寄生于红花酢浆草、酢浆草等酢浆草类叶茎；于叶背及茎生橙至褐色粉状孢子堆（锈孢子、夏孢子），为植物锈病病原，致寄主酢浆草生斑与变形。",
+      "habitat_hint": "红花酢浆草、酢浆草等酢浆草类叶茎；庭园、路旁、农田。",
+      "finding_tips": "春至秋于酢浆草类叶背及茎寻找橙至褐色粉状锈斑。"
+    }
+  },
+  "Pungitius pungitius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ninespine stickleback",
+    "ja": {
+      "summary": "トミヨ（淡水型）。トゲウオ科の小さな魚で、湧き水のある清流や池沼、水路、湿地の水草の間にすむ。体は細長く、背に数本のとげが並ぶ。冷たくきれいな水を好み、繁殖期にオスが水草で巣をつくり卵と稚魚を守る。生息地の減少や水質悪化で各地で希少になっている。トミヨ属の淡水にすむ型。",
+      "habitat_hint": "湧き水のある清流、池沼、水路、湿地の水草の間。",
+      "finding_tips": "湧き水のある清流や水路の水草の間で、背にとげの並ぶ細長い小さな魚を探します。希少なので採らない。"
+    },
+    "en": {
+      "summary": "Tomiyo, the ninespine stickleback (Pungitius pungitius, freshwater form). A small fish of the Gasterosteidae living among water plants in spring-fed clear streams, ponds, channels and wetlands; the body is elongate with several spines along the back. It favours cold, clean water, and in the breeding season the male builds a nest in water plants and guards the eggs and young. It has become rare in many areas due to habitat loss and pollution.",
+      "habitat_hint": "Spring-fed clear streams, ponds, channels, among wetland water plants.",
+      "finding_tips": "Among water plants in spring-fed clear streams and channels look for the small elongate fish with spines along its back; rare, do not collect."
+    },
+    "zh": {
+      "summary": "九棘刺鱼（トミヨ淡水型，Pungitius pungitius）。刺鱼科小型鱼，栖于涌泉清流、池沼、水渠及湿地水草间；体细长、背具数枚棘刺，喜冷凉洁净水，繁殖期雄鱼于水草筑巢护卵及幼鱼，因生境减少及水质恶化各地稀少，为多刺鱼属淡水型。",
+      "habitat_hint": "涌泉清流、池沼、水渠、湿地水草间。",
+      "finding_tips": "于涌泉清流及水渠水草间寻找背具棘刺的细长小鱼；稀少勿采。"
+    }
   }
 }
