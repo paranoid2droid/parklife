@@ -245954,5 +245954,524 @@
       "habitat_hint": "河畔林、平地至山地树林，多杨柳之处。",
       "finding_tips": "8 至 10 月夜间，于树液或灯下寻找大型蛾。飞行时可见的后翅蓝紫带为辨识点。"
     }
+  },
+  "Cerithidea balteata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Banded mud creeper",
+    "ja": {
+      "summary": "シマヘナタリ。ヘナタリ科の小型の巻貝で、河口や干潟のマングローブ・塩性湿地にすむ。細長い塔形の殻に横縞模様があり、泥上を這って有機物を食べる。",
+      "habitat_hint": "河口の干潟、マングローブ湿地、塩性湿地の泥上。",
+      "finding_tips": "干潮時、河口の泥干潟で塔形の細長い巻貝を探します。殻の横縞と塔形が識別点。"
+    },
+    "en": {
+      "summary": "A small mud creeper of estuarine mudflats, mangrove and salt marsh. Its slender tower-shaped shell is banded, and it grazes organic matter over the mud.",
+      "habitat_hint": "Estuarine mudflats, mangrove swamp and salt marsh mud.",
+      "finding_tips": "At low tide look on estuary mud for a slender tower-shaped snail. The banded, spired shell is diagnostic."
+    },
+    "zh": {
+      "summary": "带纹拟蟹守螺（シマヘナタリ）。海蜷科小型螺类，栖于河口滩涂、红树林及盐沼。壳细长塔形具横纹，于泥面爬行取食有机物。",
+      "habitat_hint": "河口滩涂、红树林湿地、盐沼泥面。",
+      "finding_tips": "退潮时，于河口泥滩寻找塔形细长螺。壳的横纹与塔形为辨识点。"
+    }
+  },
+  "Cerithideopsis largillierti": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black mud creeper",
+    "ja": {
+      "summary": "クロヘナタリ。ヘナタリ科の巻貝で、河口や内湾の干潟にすむ。殻は黒褐色の塔形で表面に細かな彫刻がある。泥表の有機物やデトリタスを食べる干潟の分解者。",
+      "habitat_hint": "河口・内湾の干潟、汽水域の泥地。",
+      "finding_tips": "干潮時、干潟の泥上で黒褐色の塔形の巻貝を探します。黒っぽい殻色が識別点。"
+    },
+    "en": {
+      "summary": "A black-shelled mud creeper of estuarine and bay mudflats. The dark brown tower-shaped shell bears fine sculpture, and it recycles organic detritus on the mud surface.",
+      "habitat_hint": "Estuarine and bay mudflats, brackish muddy ground.",
+      "finding_tips": "At low tide look on tidal mud for a dark brown tower-shaped snail. Its blackish shell colour is diagnostic."
+    },
+    "zh": {
+      "summary": "黑拟蟹守螺（クロヘナタリ）。海蜷科螺类，栖于河口和内湾滩涂。壳黑褐、塔形，表面具细雕纹。取食泥面有机碎屑，为滩涂分解者。",
+      "habitat_hint": "河口、内湾滩涂，半咸水泥地。",
+      "finding_tips": "退潮时，于滩涂泥面寻找黑褐色塔形螺。深色壳为辨识点。"
+    }
+  },
+  "Cetraria islandica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "冰岛衣"
+    },
+    "ja": {
+      "summary": "エイランタイ。ウメノキゴケ科の地衣類で、寒冷地の地上や岩上に生える。茶褐色〜緑褐色で葉状に切れ込み、縁に細かい棘状の突起がある。古くから薬用にされてきた。",
+      "habitat_hint": "高山・寒冷地の地上、岩上、ツンドラ状の草地。",
+      "finding_tips": "通年、高山や寒冷地の地上で茶褐色に切れ込んだ葉状の地衣を探します。縁の棘状突起が識別点。"
+    },
+    "en": {
+      "summary": "Iceland moss, a lichen of cold-climate ground and rocks. Its brown to greenish-brown lobes are deeply cut with fine spiny marginal projections, and it has long been used medicinally.",
+      "habitat_hint": "Alpine and cold-region ground, rocks and tundra-like grassland.",
+      "finding_tips": "Year-round in mountains and cold regions look on the ground for a brown, deeply lobed leafy lichen. The spiny lobe margins are diagnostic."
+    },
+    "zh": {
+      "summary": "冰岛衣（エイランタイ）。梅衣科地衣，生于寒冷地区的地面和岩上。裂片茶褐至绿褐色、深裂，边缘具细刺状突起，自古入药。",
+      "habitat_hint": "高山、寒冷地区地面、岩上、苔原状草地。",
+      "finding_tips": "全年，于高山或寒冷地面寻找茶褐色深裂的叶状地衣。裂片边缘刺状突起为辨识点。"
+    }
+  },
+  "Chaetomorpha spiralis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beaded green alga",
+    "ja": {
+      "summary": "フトジュズモ。緑藻類シオグサ目の海藻で、太い糸状の体が数珠状にくびれて連なる。潮間帯の岩やほかの海藻に絡みついて生育する。",
+      "habitat_hint": "潮間帯〜浅海の岩上、他の海藻上、潮だまり。",
+      "finding_tips": "春〜夏、潮だまりや岩上で太い数珠状の緑色の糸状藻を探します。数珠状にくびれる体が識別点。"
+    },
+    "en": {
+      "summary": "A thick filamentous green alga whose beaded cells give a string-of-beads look. It grows tangled over intertidal rocks and other seaweeds.",
+      "habitat_hint": "Intertidal to shallow rocks, on other seaweeds, in tide pools.",
+      "finding_tips": "From spring to summer look in pools and on rocks for a thick, beaded green filament. Its string-of-beads constrictions are diagnostic."
+    },
+    "zh": {
+      "summary": "粗刚毛藻（フトジュズモ）。绿藻门刚毛藻目海藻，粗丝状体呈念珠状缢缩相连。缠绕生长于潮间带岩石及其他海藻上。",
+      "habitat_hint": "潮间带至浅海岩上、他种海藻上、潮池。",
+      "finding_tips": "春至夏，于潮池或岩上寻找粗念珠状绿色丝状藻。念珠状缢缩之体为辨识点。"
+    }
+  },
+  "Chalconyx ypsilon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "One-spot noctuid",
+    "ja": {
+      "summary": "ヒトテンヨトウ。ヤガ科のガで、前翅に一つの目立つ点状の斑紋をもつことが和名の由来。低地〜低山の樹林や草地にすみ、夜間に活動して灯火に集まる。",
+      "habitat_hint": "低地〜低山の樹林、草地、林縁。",
+      "finding_tips": "夏〜秋の夜、灯火に来る褐色の中型のガを探します。前翅の一つの点状斑が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth named in Japanese for a single conspicuous spot on the forewing. It inhabits lowland and low-mountain woodland and grassland, flying at night and coming to lights.",
+      "habitat_hint": "Lowland to low-mountain woodland, grassland and forest edges.",
+      "finding_tips": "On summer-autumn nights look at lights for a medium brown moth. The single forewing spot is diagnostic."
+    },
+    "zh": {
+      "summary": "单点夜蛾（ヒトテンヨトウ）。夜蛾科的蛾，前翅具一枚醒目点状斑，为和名由来。栖于低地至低山树林和草地，夜行趋光。",
+      "habitat_hint": "低地至低山树林、草地、林缘。",
+      "finding_tips": "夏至秋夜间，于灯下寻找褐色中型蛾。前翅单一点状斑为辨识点。"
+    }
+  },
+  "Chalcophaps indica": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "绿翅金鸠"
+    },
+    "ja": {
+      "summary": "キンバト。ハト科の小型のハトで、翼に美しい金属光沢のある緑色斑をもつ。日本では南西諸島に生息し、国の天然記念物に指定されている。林床を歩いて種子や果実を採食する。",
+      "habitat_hint": "亜熱帯の常緑広葉樹林、林床、林縁の暗がり。",
+      "finding_tips": "通年、南西諸島の森の林床で緑に輝く翼をもつ小型のハトを探します。金属緑色の翼が識別点。"
+    },
+    "en": {
+      "summary": "The Common Emerald Dove, a small pigeon with brilliant metallic-green wing patches. In Japan it lives in the Nansei Islands and is a designated national natural monument, foraging on the forest floor for seeds and fruit.",
+      "habitat_hint": "Subtropical evergreen broadleaf forest, forest floor and shady edges.",
+      "finding_tips": "Year-round in Nansei Island forests look on the floor for a small dove with glinting green wings. The metallic-green wings are diagnostic."
+    },
+    "zh": {
+      "summary": "绿翅金鸠（キンバト）。鸠鸽科小型鸽，翼具亮丽金属绿色斑。日本仅见于西南诸岛，为国家天然纪念物。于林床行走采食种子与果实。",
+      "habitat_hint": "亚热带常绿阔叶林、林床、林缘阴处。",
+      "finding_tips": "全年，于西南诸岛森林林床寻找翼泛绿光的小型鸽。金属绿色翼为辨识点。"
+    }
+  },
+  "Chama japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese jewel box",
+    "ja": {
+      "summary": "キクザル。キクザルガイ科の二枚貝で、片方の殻で岩に固着して生活する。殻表に葉状の突起が菊の花のように並ぶことが和名の由来。潮間帯〜浅海の岩礁にすむ。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石の裏。",
+      "finding_tips": "干潮時、岩の表面に固着した菊花状の突起をもつ二枚貝を探します。片殻で固着する生態と葉状突起が識別点。"
+    },
+    "en": {
+      "summary": "A jewel box clam that cements itself to rock by one valve. Leafy projections arranged like chrysanthemum petals give it its Japanese name; it lives on intertidal and shallow rocky shores.",
+      "habitat_hint": "Intertidal to shallow rocky reefs, undersides of boulders.",
+      "finding_tips": "At low tide look on rock surfaces for a cemented bivalve with chrysanthemum-like leafy projections. Its one-valve attachment and frilly sculpture are diagnostic."
+    },
+    "zh": {
+      "summary": "日本猿头蛤（キクザル）。猿头蛤科双壳类，以一壳固着于岩石。壳面叶状突起如菊花排列，为和名由来。栖于潮间带至浅海岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁、砾石底面。",
+      "finding_tips": "退潮时，于岩面寻找固着、具菊花状突起的双壳贝。单壳固着与叶状雕突为辨识点。"
+    }
+  },
+  "Chasminodes aino": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aino black-flower noctuid",
+    "ja": {
+      "summary": "アイノクロハナギンガ。ヤガ科のガで、翅は黒地に淡色の斑紋が入る。低山〜山地の落葉樹林にすみ、幼虫は樹木の葉を食べる。夜間に活動し灯火に集まる。",
+      "habitat_hint": "低山〜山地の落葉樹林、林縁。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る黒っぽい中型のガを探します。黒地に淡色斑の翅が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth with pale markings on a black ground. It lives in deciduous woodland from low hills to mountains, the larvae feeding on tree foliage; it flies at night and comes to lights.",
+      "habitat_hint": "Deciduous woodland and edges from low hills to mountains.",
+      "finding_tips": "On early-summer to summer nights look at lights for a blackish medium moth. Pale markings on a black wing are diagnostic."
+    },
+    "zh": {
+      "summary": "阿伊努黑花夜蛾（アイノクロハナギンガ）。夜蛾科的蛾，翅黑底具淡色斑纹。栖于低山至山地落叶林，幼虫食树叶，夜行趋光。",
+      "habitat_hint": "低山至山地落叶林、林缘。",
+      "finding_tips": "初夏至夏夜间，于灯下寻找偏黑的中型蛾。黑底淡斑之翅为辨识点。"
+    }
+  },
+  "Chenopodiastrum murale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "尖头叶藜"
+    },
+    "ja": {
+      "summary": "ミナトアカザ。ヒユ科（旧アカザ科）の一年草で、ユーラシア原産の帰化植物。港湾や市街地の荒れ地、道端に生える。葉は三角状で縁に不規則な鋸歯があり、小さな緑色の花を密につける。",
+      "habitat_hint": "港湾、市街地の荒れ地、道端、畑地。",
+      "finding_tips": "初夏〜秋、荒れ地で三角形の葉と穂状の緑色の小花をつける草を探します。粉状の白い粉に覆われないつやのある葉が識別点。"
+    },
+    "en": {
+      "summary": "Nettle-leaved goosefoot (sowbane), a Eurasian annual naturalised in Japan. It grows on waste ground, roadsides and around ports, with triangular toothed leaves and dense clusters of tiny green flowers.",
+      "habitat_hint": "Port areas, urban waste ground, roadsides and fields.",
+      "finding_tips": "From early summer to autumn look on waste ground for triangular leaves and spikes of tiny green flowers. Its glossy (not mealy) leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "尖头叶藜（ミナトアカザ）。苋科（旧藜科）一年生草本，原产欧亚，为归化植物。生于港湾、城区荒地和路旁。叶三角状、缘具不规则齿，密生绿色小花。",
+      "habitat_hint": "港湾、城区荒地、路旁、农田。",
+      "finding_tips": "初夏至秋，于荒地寻找三角形叶及穗状绿色小花之草。叶面光亮不被白粉为辨识点。"
+    }
+  },
+  "Chlaenius circumductus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-margined green ground beetle",
+    "ja": {
+      "summary": "キベリアオゴミムシ。オサムシ科アオゴミムシ類の甲虫で、上翅は金属光沢のある緑色、縁が黄色く縁取られる。水辺の湿った地表を歩き回り、小動物を捕食する。",
+      "habitat_hint": "河原、池沼畔、水田周辺などの湿った地表。",
+      "finding_tips": "春〜秋、水辺の石下で緑色に光り縁が黄色い甲虫を探します。上翅の黄色い縁取りが識別点。"
+    },
+    "en": {
+      "summary": "A ground beetle with metallic-green wing-cases edged in yellow. It hunts small animals on damp ground near water.",
+      "habitat_hint": "Damp ground on riverbanks, pond margins and around paddies.",
+      "finding_tips": "From spring to autumn look under stones by water for a green beetle with yellow-edged wing-cases. The yellow elytral margin is diagnostic."
+    },
+    "zh": {
+      "summary": "黄缘青步甲（キベリアオゴミムシ）。步甲科青步甲类甲虫，鞘翅金属绿色、边缘镶黄。于水边湿润地表爬行，捕食小动物。",
+      "habitat_hint": "河滩、池沼岸、稻田周边湿润地表。",
+      "finding_tips": "春至秋，于水边石下寻找绿色泛光、边缘黄色的甲虫。鞘翅黄色镶边为辨识点。"
+    }
+  },
+  "Chloris barbata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "孟仁草"
+    },
+    "ja": {
+      "summary": "シマヒゲシバ。イネ科オヒゲシバ属の一〜多年草で、熱帯原産の帰化植物。茎先に数本の穂を指状に広げ、暗紫色を帯びる。暖地の道端や荒れ地、海岸に群生する。",
+      "habitat_hint": "暖地の道端、荒れ地、海岸、畑地。",
+      "finding_tips": "夏〜秋、暖地の道端で茎先に指状に開く暗紫色の穂をつける草を探します。放射状に広がる数本の穂が識別点。"
+    },
+    "en": {
+      "summary": "Purpletop chloris (swollen fingergrass), a tropical annual-to-perennial grass naturalised in warm Japan. Several purplish spikes spread finger-like at the stem tip; it grows on roadsides, waste ground and coasts.",
+      "habitat_hint": "Warm-region roadsides, waste ground, coasts and fields.",
+      "finding_tips": "From summer to autumn look on warm-region roadsides for a grass with several purplish finger-like spikes at the stem tip. The radiating spikes are diagnostic."
+    },
+    "zh": {
+      "summary": "孟仁草（シマヒゲシバ）。禾本科虎尾草属一至多年生草本，原产热带，为归化植物。茎顶数枚穗指状展开、带暗紫色。丛生于暖地路旁、荒地和海岸。",
+      "habitat_hint": "暖地路旁、荒地、海岸、农田。",
+      "finding_tips": "夏至秋，于暖地路旁寻找茎顶指状展开的暗紫色穗之草。放射状数穗为辨识点。"
+    }
+  },
+  "Chlorociboria aeruginascens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green elfcup",
+    "ja": {
+      "summary": "ロウショウグサレキンモドキ。ビョウタケ科の小型の子嚢菌で、朽木を青緑色に染めることで知られる。子実体は小さな青緑色の椀形で、湿った腐木上に群生する。染まった材は古くから木工の緑色材料に使われた。",
+      "habitat_hint": "湿った広葉樹の朽木、倒木、落枝。",
+      "finding_tips": "梅雨〜秋、青緑色に染まった朽木を探し、その上の小さな青緑色の椀形の子実体を確認します。木材の青緑染色が識別点。"
+    },
+    "en": {
+      "summary": "The green elfcup, a small ascomycete famous for staining rotten wood blue-green. Its tiny blue-green cups grow on damp decaying wood, and the stained timber was long prized for green marquetry.",
+      "habitat_hint": "Damp broadleaf deadwood, fallen logs and branches.",
+      "finding_tips": "From the rainy season to autumn look for blue-green stained wood, then the tiny blue-green cups on it. The blue-green wood staining is diagnostic."
+    },
+    "zh": {
+      "summary": "小孢绿杯盘菌（ロウショウグサレキンモドキ）。柔膜菌科小型子囊菌，以将朽木染成青绿色著称。子实体为青绿色小杯，群生于湿润腐木上。染绿之木自古用于木工镶嵌。",
+      "habitat_hint": "湿润阔叶树朽木、倒木、落枝。",
+      "finding_tips": "梅雨至秋，寻找染成青绿的朽木，其上有青绿色小杯状子实体。木材青绿染色为辨识点。"
+    }
+  },
+  "Chrysopa formosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "丽草蛉"
+    },
+    "ja": {
+      "summary": "クモンクサカゲロウ。クサカゲロウ科の淡緑色のか弱い昆虫で、透明な翅に細かい脈が走る。成虫・幼虫ともにアブラムシを捕食する益虫。夜間に灯火へ集まることも多い。",
+      "habitat_hint": "草地、畑地、庭、林縁など植物の多い場所。",
+      "finding_tips": "春〜秋、草木の葉裏やアブラムシのいる植物で淡緑色の華奢な昆虫を探します。金色の複眼と透明な翅が識別点。"
+    },
+    "en": {
+      "summary": "A pale green lacewing with delicate transparent, finely veined wings. Both adults and larvae prey on aphids, making it a beneficial insect; it often comes to lights at night.",
+      "habitat_hint": "Grassland, fields, gardens and woodland edges — plant-rich sites.",
+      "finding_tips": "From spring to autumn look on foliage and aphid-infested plants for a slender pale green insect. Golden eyes and clear wings are diagnostic."
+    },
+    "zh": {
+      "summary": "丽草蛉（クモンクサカゲロウ）。草蛉科的淡绿色纤弱昆虫，翅透明、脉细密。成虫与幼虫均捕食蚜虫，为益虫，夜间常趋光。",
+      "habitat_hint": "草地、农田、庭园、林缘等植物繁茂处。",
+      "finding_tips": "春至秋，于叶背或有蚜虫的植物上寻找淡绿色纤弱昆虫。金色复眼与透明翅为辨识点。"
+    }
+  },
+  "Chrysoteuchia diplogrammus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Twin-lined grass moth",
+    "ja": {
+      "summary": "ウスクロスジツトガ。ツトガ科のツトガの一種で、細長い前翅に淡色の縦筋が走る。草地や河川敷に多く、幼虫はイネ科植物の根際を食べる。静止時は翅を巻いて筒状になる。",
+      "habitat_hint": "草地、河川敷、田畑の周辺の草むら。",
+      "finding_tips": "初夏〜秋の夜、草地で灯火に来る細長い小型のガを探します。前翅の淡色の縦筋が識別点。"
+    },
+    "en": {
+      "summary": "A grass moth of the Crambidae with pale longitudinal streaks on its narrow forewings. Common in grassland and floodplains, its larvae feed at the base of grasses; at rest it rolls its wings into a tube.",
+      "habitat_hint": "Grassland, floodplains and grassy field margins.",
+      "finding_tips": "On early-summer to autumn nights look in grassland at lights for a slender small moth. The pale forewing streaks are diagnostic."
+    },
+    "zh": {
+      "summary": "双线草螟（ウスクロスジツトガ）。草螟科的一种草螟，狭长前翅具淡色纵纹。多见于草地和河滩，幼虫取食禾草基部，静止时卷翅成筒状。",
+      "habitat_hint": "草地、河滩、田边草丛。",
+      "finding_tips": "初夏至秋夜间，于草地灯下寻找细长小型蛾。前翅淡色纵纹为辨识点。"
+    }
+  },
+  "Cirsium brevicaule": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Island thistle",
+    "ja": {
+      "summary": "シマアザミ。キク科アザミ属の多年草で、南西諸島や暖地の海岸に生える。厚くつやのある葉に鋭い刺があり、白〜淡紅色の頭花をつける。海岸の岩場や砂地によく育つ。",
+      "habitat_hint": "南西諸島・暖地の海岸の岩場、砂地、崖地。",
+      "finding_tips": "春〜夏、海岸で厚く光沢のある刺の多い葉と白い頭花をもつアザミを探します。海岸性でつやのある葉が識別点。"
+    },
+    "en": {
+      "summary": "An island thistle of the daisy family growing on Nansei Island and warm-region coasts. Its thick glossy leaves bear sharp spines and it produces white to pale-pink flower-heads, thriving on rocky and sandy shores.",
+      "habitat_hint": "Coastal rocks, sand and cliffs of the Nansei Islands and warm regions.",
+      "finding_tips": "From spring to summer look on the coast for a thistle with thick glossy spiny leaves and white heads. Its coastal habit and glossy leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "岛蓟（シマアザミ）。菊科蓟属多年生草本，生于西南诸岛及暖地海岸。叶厚而有光泽、具锐刺，头状花白至淡红色。多生于海岸岩地和沙地。",
+      "habitat_hint": "西南诸岛、暖地海岸岩地、沙地、崖地。",
+      "finding_tips": "春至夏，于海岸寻找叶厚光亮多刺、头状花白色的蓟。海岸性且叶面光亮为辨识点。"
+    }
+  },
+  "Cirsium shinanense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bog thistle",
+    "ja": {
+      "summary": "ヤチアザミ。キク科アザミ属の多年草で、山地の湿原や湿った草地に生える。細い茎の先に紅紫色の頭花を下向きにつける。信州（信濃）の湿原などに分布する。",
+      "habitat_hint": "山地の湿原、湿った草地、湧水地周辺。",
+      "finding_tips": "8〜10月、山地の湿原で下向きに垂れる紅紫色の頭花をもつアザミを探します。湿地生と下向きの花が識別点。"
+    },
+    "en": {
+      "summary": "A bog thistle of montane marshes and wet grassland. Slender stems carry nodding red-purple flower-heads; it grows in the mires of central Japan (Shinano).",
+      "habitat_hint": "Montane bogs, wet grassland and areas around springs.",
+      "finding_tips": "From August to October look in mountain bogs for a thistle with nodding red-purple heads. Its wetland habit and drooping flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "谷地蓟（ヤチアザミ）。菊科蓟属多年生草本，生于山地湿原和湿润草地。细茎顶端下垂着生红紫色头状花。分布于信州（信浓）等地湿原。",
+      "habitat_hint": "山地湿原、湿润草地、泉水地周边。",
+      "finding_tips": "8 至 10 月，于山地湿原寻找头状花下垂、红紫色的蓟。湿地性与下垂花为辨识点。"
+    }
+  },
+  "Cladonia floerkeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Devil's matchstick",
+    "ja": {
+      "summary": "コアカミゴケ。ハナゴケ科の地衣類で、灰緑色の細い柄の先に赤い子器をつける。マッチの火のように見えることからデビルズ・マッチスティックとも呼ばれる。土上や腐木、岩上に生える。",
+      "habitat_hint": "土上、腐木、岩上、日当たりのよい裸地。",
+      "finding_tips": "通年、地上や朽木で灰緑色の柄の先に赤い頭をもつ地衣を探します。マッチ棒状の赤い子器が識別点。"
+    },
+    "en": {
+      "summary": "Devil's matchstick, a lichen with slender grey-green stalks tipped by red fruiting bodies that look like struck matches. It grows on soil, rotten wood and rocks.",
+      "habitat_hint": "Soil, rotten wood, rock and sunny bare ground.",
+      "finding_tips": "Year-round look on soil and deadwood for grey-green stalks with red heads. The matchstick-like red apothecia are diagnostic."
+    },
+    "zh": {
+      "summary": "小红石蕊（コアカミゴケ）。石蕊科地衣，灰绿色细柄顶端具红色子器，形如火柴而有“魔鬼火柴”之称。生于土面、腐木和岩上。",
+      "habitat_hint": "土面、腐木、岩上、向阳裸地。",
+      "finding_tips": "全年，于地面或朽木寻找灰绿色柄顶带红头的地衣。火柴状红色子器为辨识点。"
+    }
+  },
+  "Cladonia furcata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Many-forked cladonia",
+    "ja": {
+      "summary": "マタゴケ。ハナゴケ科の地衣類で、灰緑色〜褐色の細い柄が二叉状に何度も分岐する。地上や苔むした岩、腐木上に群生してマット状に広がる。",
+      "habitat_hint": "土上、苔むした岩、腐木、林床の明るい場所。",
+      "finding_tips": "通年、地上で二叉状に何度も枝分かれする灰緑色の細い地衣を探します。繰り返す二叉分岐が識別点。"
+    },
+    "en": {
+      "summary": "A cladonia lichen whose slender grey-green to brown stalks fork repeatedly. It forms spreading mats on soil, mossy rock and rotten wood.",
+      "habitat_hint": "Soil, mossy rock, rotten wood and open forest floor.",
+      "finding_tips": "Year-round look on the ground for slender grey-green lichen forking again and again. The repeated dichotomous branching is diagnostic."
+    },
+    "zh": {
+      "summary": "叉石蕊（マタゴケ）。石蕊科地衣，灰绿至褐色细柄反复二叉分枝。在土面、藓覆岩石和腐木上成片形成垫状。",
+      "habitat_hint": "土面、藓覆岩石、腐木、开阔林床。",
+      "finding_tips": "全年，于地面寻找反复二叉分枝的灰绿色细地衣。多次二叉分枝为辨识点。"
+    }
+  },
+  "Cladonia humilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Low pixie-cup",
+    "ja": {
+      "summary": "ヒメジョウゴゴケ。ハナゴケ科の地衣類で、灰緑色の柄の先が漏斗（ジョウゴ）状に開く。土上や岩上、路傍の裸地に生え、小型で背が低い。",
+      "habitat_hint": "土上、岩上、路傍、日当たりのよい裸地。",
+      "finding_tips": "通年、地上で先端が漏斗状に開いた小さな灰緑色の地衣を探します。低く小型の杯状体が識別点。"
+    },
+    "en": {
+      "summary": "A low pixie-cup lichen whose grey-green stalks flare into small funnel-shaped cups. It grows short and low on soil, rock and bare roadside ground.",
+      "habitat_hint": "Soil, rock, roadsides and sunny bare ground.",
+      "finding_tips": "Year-round look on the ground for small grey-green stalks flaring into funnels. The low, small cups are diagnostic."
+    },
+    "zh": {
+      "summary": "矮石蕊（ヒメジョウゴゴケ）。石蕊科地衣，灰绿色柄端展开成漏斗（杯）状。生于土面、岩上和路旁裸地，矮小低矮。",
+      "habitat_hint": "土面、岩上、路旁、向阳裸地。",
+      "finding_tips": "全年，于地面寻找端部展成漏斗状的灰绿色小地衣。矮小杯状体为辨识点。"
+    }
+  },
+  "Clivina niponensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese burrowing ground beetle",
+    "ja": {
+      "summary": "ヒメヒョウタンゴミムシ。オサムシ科の小型甲虫で、体は前後にくびれた瓢箪形。前脚が掘るのに適した形になっており、水辺の湿った砂泥にトンネルを掘って暮らす。",
+      "habitat_hint": "河原、池沼畔、水田周辺の湿った砂泥地。",
+      "finding_tips": "春〜秋、水辺の砂泥を掘ると現れる瓢箪形の黒褐色の小甲虫を探します。くびれた体と掘脚が識別点。"
+    },
+    "en": {
+      "summary": "A small burrowing ground beetle with a body pinched into a gourd shape. Its front legs are adapted for digging, and it tunnels in damp sand-mud by water.",
+      "habitat_hint": "Damp sand-mud on riverbanks, pond margins and around paddies.",
+      "finding_tips": "From spring to autumn dig damp sand-mud by water to find a gourd-shaped dark beetle. The pinched body and digging legs are diagnostic."
+    },
+    "zh": {
+      "summary": "日本掘步甲（ヒメヒョウタンゴミムシ）。步甲科小型甲虫，体前后缢缩呈葫芦形。前足特化利于挖掘，于水边湿润砂泥中掘穴而居。",
+      "habitat_hint": "河滩、池沼岸、稻田周边湿润砂泥地。",
+      "finding_tips": "春至秋，翻挖水边砂泥可见葫芦形黑褐色小甲虫。缢缩体形与掘足为辨识点。"
+    }
+  },
+  "Clossiana thore": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thor's Fritillary",
+    "ja": {
+      "summary": "ホソバヒョウモン。タテハチョウ科の小型のヒョウモンチョウで、翅表は橙色に黒い豹紋、裏面に特徴的な斑紋をもつ。冷涼な山地や高原の草地にすみ、幼虫はスミレ類を食べる。",
+      "habitat_hint": "冷涼な山地・高原の草地、林縁、湿地周辺。",
+      "finding_tips": "6〜8月、高原の草地で橙色に豹紋の小型のチョウを探します。翅裏の斑紋パターンが近縁種との識別点。"
+    },
+    "en": {
+      "summary": "Thor's Fritillary, a small fritillary with orange, black-spotted uppersides and a distinctive underside pattern. It lives in cool montane and upland grassland, the larvae feeding on violets.",
+      "habitat_hint": "Cool montane and upland grassland, woodland edges and mire margins.",
+      "finding_tips": "From June to August look in upland grassland for a small orange leopard-spotted butterfly. The underside pattern separates it from relatives."
+    },
+    "zh": {
+      "summary": "东北珍蛱蝶（ホソバヒョウモン）。蛱蝶科小型豹纹蝶，翅面橙色具黑豹纹，翅背斑纹独特。栖于冷凉山地和高原草地，幼虫取食堇菜类。",
+      "habitat_hint": "冷凉山地、高原草地、林缘、湿地周边。",
+      "finding_tips": "6 至 8 月，于高原草地寻找橙色豹纹的小型蝶。翅背斑纹为与近缘种的辨识点。"
+    }
+  },
+  "Cobitis taenia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "花鳅"
+    },
+    "ja": {
+      "summary": "タイリクシマドジョウ。ドジョウ科の細長い淡水魚で、体側に暗色の斑列が並ぶ。砂礫底の川や用水路にすみ、砂に潜って過ごすことも多い。口ひげで底の小動物を探して食べる。",
+      "habitat_hint": "河川の中流〜下流、用水路の砂礫底。",
+      "finding_tips": "通年、砂礫底の川で体側に暗色斑列をもつ細長い底生魚を探します。目の下の小さな棘と斑列が識別点。"
+    },
+    "en": {
+      "summary": "The spined loach, a slender freshwater fish with a row of dark blotches along each side. It lives over sand-gravel in rivers and channels, often burying in sand, and uses barbels to find small bottom animals.",
+      "habitat_hint": "Middle-to-lower rivers and irrigation channels with sand-gravel beds.",
+      "finding_tips": "Year-round look over sand-gravel for a slender bottom fish with a row of dark side-blotches. A small spine below the eye and the blotch row are diagnostic."
+    },
+    "zh": {
+      "summary": "花鳅（タイリクシマドジョウ）。花鳅科细长淡水鱼，体侧具一列暗色斑块。栖于砂砾底河流和沟渠，常潜入砂中，以口须探食底栖小动物。",
+      "habitat_hint": "河流中下游、沟渠砂砾底。",
+      "finding_tips": "全年，于砂砾底河中寻找体侧具暗斑列的细长底栖鱼。眼下小刺与斑列为辨识点。"
+    }
+  },
+  "Coenobita brevimanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Purple land hermit crab",
+    "ja": {
+      "summary": "オオナキオカヤドカリ。オカヤドカリ科の大型の陸生ヤドカリで、暗紫褐色の体をもつ。熱帯・亜熱帯の海岸林にすみ、夜行性で巻貝の殻を背負って歩く。日本では天然記念物に指定されている。",
+      "habitat_hint": "熱帯・亜熱帯の海岸林、砂浜後背、海岸のやぶ。",
+      "finding_tips": "夜間、海岸林で大きな巻貝の殻を背負った暗紫色のヤドカリを探します。大型で暗紫褐色の体が識別点。"
+    },
+    "en": {
+      "summary": "A large land hermit crab with a dark purple-brown body. It lives in tropical and subtropical coastal forest, is nocturnal and carries a snail shell; in Japan it is a designated natural monument.",
+      "habitat_hint": "Tropical and subtropical coastal forest, back-beach and shore thickets.",
+      "finding_tips": "At night in coastal forest look for a dark purple hermit crab in a large snail shell. Its large size and purple-brown body are diagnostic."
+    },
+    "zh": {
+      "summary": "紫陆寄居蟹（オオナキオカヤドカリ）。陆寄居蟹科的大型陆生寄居蟹，体暗紫褐色。栖于热带、亚热带海岸林，夜行，背负螺壳而行。日本列为天然纪念物。",
+      "habitat_hint": "热带、亚热带海岸林、后滩、海岸灌丛。",
+      "finding_tips": "夜间，于海岸林寻找背负大螺壳的暗紫色寄居蟹。体大且暗紫褐色为辨识点。"
+    }
   }
 }
