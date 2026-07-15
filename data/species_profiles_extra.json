@@ -248066,5 +248066,532 @@
       "habitat_hint": "暖地湿润常绿林林床、沟旁阴地。",
       "finding_tips": "夏至秋，于暖地阴暗林床寻找叶丝绒状暗绿、具淡纹的小型兰。丝绒状叶为辨识点。"
     }
+  },
+  "Gerbathodes lichenodes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen-mimic dagger moth",
+    "ja": {
+      "summary": "シロフヒメケンモン。ヤガ科ケンモンヤガ類の小型のガで、前翅は地衣に似た灰白色のまだら模様をもつ。樹皮や地衣の上に止まると見事に紛れる。低山〜山地の樹林にすむ。",
+      "habitat_hint": "低山〜山地の樹林、林縁、地衣の多い樹幹。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る地衣状の灰白色まだら模様の小型のガを探します。樹皮に紛れる地衣模様が識別点。"
+    },
+    "en": {
+      "summary": "A small dagger moth whose forewing bears a lichen-like grey-white mottling, giving superb camouflage on bark and lichen. It lives in low-mountain to montane woodland.",
+      "habitat_hint": "Low-mountain to montane woodland, edges and lichen-rich trunks.",
+      "finding_tips": "On early-summer to summer nights look at lights for a small moth with lichen-like grey mottling. The bark-blending pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "地衣拟剑纹夜蛾（シロフヒメケンモン）。夜蛾科剑纹夜蛾类小型蛾，前翅具似地衣的灰白斑驳，停于树皮和地衣时极为隐蔽。栖于低山至山地树林。",
+      "habitat_hint": "低山至山地树林、林缘、多地衣的树干。",
+      "finding_tips": "初夏至夏夜间，于灯下寻找具地衣状灰白斑驳的小型蛾。隐于树皮的地衣纹为辨识点。"
+    }
+  },
+  "Glossosoma dulkejti": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Saddle-case caddisfly",
+    "ja": {
+      "summary": "エゾヤマトビケラ。トビケラ目ヤマトビケラ科の水生昆虫で、幼虫は小石で亀の甲羅（鞍）のような巣を作り、清流の石の上で藻類を削って食べる。成虫は小型の蛾に似た茶色の昆虫。水質の指標種。",
+      "habitat_hint": "山地の清流、冷たくきれいな渓流の石の上。",
+      "finding_tips": "春〜夏、清流の石の表面で小石を寄せた亀甲状の小さな巣を探します。鞍形の携帯巣が識別点。"
+    },
+    "en": {
+      "summary": "A saddle-case caddisfly whose larva builds a tortoise-shell-like case of small stones and grazes algae on stream rocks. Adults are small brown moth-like insects; an indicator of clean water.",
+      "habitat_hint": "Montane clear streams, on rocks of cold clean brooks.",
+      "finding_tips": "From spring to summer look on clear-stream rocks for a small tortoise-shell-like case of pebbles. The saddle-shaped portable case is diagnostic."
+    },
+    "zh": {
+      "summary": "虾夷石蛾（エゾヤマトビケラ）。毛翅目石蛾科水生昆虫，幼虫以小石筑成龟甲（鞍）状巢，在清流石面刮食藻类。成虫为似小蛾的褐色昆虫，为水质指示种。",
+      "habitat_hint": "山地清流、寒冷洁净溪流石面。",
+      "finding_tips": "春至夏，于清流石面寻找以小石聚成的龟甲状小巢。鞍形携带巢为辨识点。"
+    }
+  },
+  "Glyceria alnasteretum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain mannagrass",
+    "ja": {
+      "summary": "ミヤマドジョウツナギ。イネ科ドジョウツナギ属の多年草で、山地の湿地や渓流沿い、湿った草地に生える。柔らかい葉と開いた円錐花序をもち、水辺に群生する。",
+      "habitat_hint": "山地の湿地、渓流沿い、湿った草地、水路の縁。",
+      "finding_tips": "6〜8月、山地の水辺で柔らかい葉と開いた円錐花序をもつイネ科を探します。水湿地生と開出する花序が識別点。"
+    },
+    "en": {
+      "summary": "A mountain mannagrass, a perennial of montane wetland, streamsides and wet grassland. It has soft leaves and an open panicle and forms stands by water.",
+      "habitat_hint": "Montane wetland, streamsides, wet grassland and channel margins.",
+      "finding_tips": "From June to August by mountain water look for a grass with soft leaves and an open panicle. Its wet-ground habit and spreading panicle are diagnostic."
+    },
+    "zh": {
+      "summary": "深山甜茅（ミヤマドジョウツナギ）。禾本科甜茅属多年生草本，生于山地湿地、溪流旁和湿润草地。叶柔软，圆锥花序开展，成丛生于水边。",
+      "habitat_hint": "山地湿地、溪流旁、湿润草地、水道边缘。",
+      "finding_tips": "6 至 8 月，于山地水边寻找叶柔软、圆锥花序开展的禾草。湿地生与开展花序为辨识点。"
+    }
+  },
+  "Grateloupia elliptica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Elliptic red alga",
+    "ja": {
+      "summary": "タンバノリ。ムカデノリ科の紅藻で、暗紅色〜紫褐色の扁平な葉状体をもつ。潮間帯〜浅海の岩上に生え、食用にもされる。ぬめりのある柔らかい体をもつ。",
+      "habitat_hint": "潮間帯〜浅海の岩上、潮だまり。",
+      "finding_tips": "春、潮間帯の岩上で暗紅色の扁平でぬめりのある葉状の海藻を探します。柔らかく粘りのある葉状体が識別点。"
+    },
+    "en": {
+      "summary": "An edible red alga with flat, dark-red to purple-brown blades. It grows on intertidal to shallow rock and has a soft, slippery texture.",
+      "habitat_hint": "Intertidal to shallow rock and tide pools.",
+      "finding_tips": "In spring on intertidal rock look for a flat, dark-red slippery leafy seaweed. The soft mucilaginous blade is diagnostic."
+    },
+    "zh": {
+      "summary": "椭圆蜈蚣藻（タンバノリ）。海膜科红藻，具暗红至紫褐色扁平叶状体。生于潮间带至浅海岩上，可食，体柔软而黏滑。",
+      "habitat_hint": "潮间带至浅海岩上、潮池。",
+      "finding_tips": "春季，于潮间带岩上寻找暗红色扁平黏滑的叶状海藻。柔软黏滑叶状体为辨识点。"
+    }
+  },
+  "Guildfordia triumphans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "星螺"
+    },
+    "ja": {
+      "summary": "リンボウガイ。リュウテン科（サザエの仲間）の巻貝で、殻の周縁から長い棘が放射状に伸び、星のように見える。やや深い砂底にすみ、その美しい形から貝殻収集の対象として人気がある。",
+      "habitat_hint": "水深数十mの砂底、大陸棚のやや深い海底。",
+      "finding_tips": "砂底の底引き網の漁獲物や打ち上げで、周縁に長い放射状の棘をもつ星形の巻貝を探します。放射状に伸びる長い棘が識別点。"
+    },
+    "en": {
+      "summary": "A star shell of the Turbinidae whose long spines radiate from the shell margin like a star. It lives on deeper sand bottoms and is a prized collector's shell for its beauty.",
+      "habitat_hint": "Sand bottoms tens of metres deep on the continental shelf.",
+      "finding_tips": "In trawl catches or beach drift look for a star-shaped snail with long radiating marginal spines. The radiating long spines are diagnostic."
+    },
+    "zh": {
+      "summary": "星螺（リンボウガイ）。蝾螺科（蝾螺类）螺类，壳周缘放射状伸出长棘，形如星芒。栖于较深砂底，因形美而为贝壳收藏珍品。",
+      "habitat_hint": "水深数十米砂底，大陆架较深海底。",
+      "finding_tips": "于砂底拖网渔获或滩涂漂积物中寻找周缘具长放射棘的星形螺。放射状长棘为辨识点。"
+    }
+  },
+  "Gymnopus dryophilus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "栎生金钱菌"
+    },
+    "ja": {
+      "summary": "モリノカレバタケ。ホウライタケ科の小型のきのこで、春〜秋に林床の落葉の上に群生する。傘は淡黄褐色で、柄は細く硬い。落葉を分解する腐生菌で、雑木林でごく普通に見られる。",
+      "habitat_hint": "雑木林・広葉樹林の落葉の上、林床。",
+      "finding_tips": "春〜秋、林床の落葉の上で淡黄褐色の傘と細い柄をもつ小型のきのこの群生を探します。落葉上に群生する点が識別点。"
+    },
+    "en": {
+      "summary": "The russet toughshank, a small mushroom growing gregariously on leaf litter from spring to autumn. Its cap is pale yellow-brown and the stem thin and tough; a litter-decomposing saprotroph, very common in woodland.",
+      "habitat_hint": "On leaf litter and forest floor of broadleaf woodland.",
+      "finding_tips": "From spring to autumn on leaf litter look for clusters of small pale yellow-brown caps on thin stems. Its habit of clustering on fallen leaves is diagnostic."
+    },
+    "zh": {
+      "summary": "栎生金钱菌（モリノカレバタケ）。小皮伞科小型真菌，春秋群生于林床落叶上。菌盖淡黄褐色，菌柄细而韧。为分解落叶的腐生菌，杂木林中极常见。",
+      "habitat_hint": "杂木林、阔叶林落叶上、林床。",
+      "finding_tips": "春至秋，于林床落叶上寻找淡黄褐色盖、细柄的小型菌群。群生于落叶上为辨识点。"
+    }
+  },
+  "Gymnosporia diversifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "变叶裸实"
+    },
+    "ja": {
+      "summary": "ハリツルマサキ。ニシキギ科の常緑低木で、南西諸島など暖地の海岸や石灰岩地に生える。枝にとげがあり、つる状に伸びて茂る。小さな葉と目立たない花をつけ、赤く熟す果実がはじけて橙色の種子をのぞかせる。",
+      "habitat_hint": "南西諸島・暖地の海岸、石灰岩地、林縁のやぶ。",
+      "finding_tips": "通年、暖地の海岸のやぶで枝にとげをもちつる状に茂る常緑低木を探します。枝のとげと小さな葉が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen spiny shrub of warm-region coasts and limestone, including the Nansei Islands. Its thorny branches scramble into thickets; small leaves and inconspicuous flowers give way to red capsules that split to show orange seeds.",
+      "habitat_hint": "Nansei-Island and warm-region coasts, limestone and edge thickets.",
+      "finding_tips": "Year-round in warm coastal thickets look for a scrambling evergreen shrub with thorny branches. The branch thorns and small leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "变叶裸实（ハリツルマサキ）。卫矛科常绿灌木，生于西南诸岛等暖地海岸和石灰岩地。枝具刺，藤蔓状伸展成丛。叶小、花不显，果红熟开裂露出橙色种子。",
+      "habitat_hint": "西南诸岛、暖地海岸、石灰岩地、林缘灌丛。",
+      "finding_tips": "全年，于暖地海岸灌丛寻找枝具刺、藤蔓状茂生的常绿灌木。枝刺与小叶为辨识点。"
+    }
+  },
+  "Hadennia incongruens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "ハナマガリアツバ。ヤガ科アツバ類のガで、頭部の下唇鬚（かぎ鼻状の突起）が前に長く突き出す。翅は褐色で細かい模様がある。低山〜山地の樹林にすみ、幼虫は枯葉などを食べる。",
+      "habitat_hint": "低山〜山地の樹林、林縁、湿った林内。",
+      "finding_tips": "初夏〜秋の夜、灯火に来る褐色で頭部に長い鬚が突き出すガを探します。前方に突き出す下唇鬚が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Erebidae) whose labial palps project forward like a long snout. Its wings are brown with fine markings; it lives in low-mountain to montane woodland, larvae feeding on dead leaves.",
+      "habitat_hint": "Low-mountain to montane woodland, edges and damp forest.",
+      "finding_tips": "On early-summer to autumn nights look at lights for a brown moth with a long forward-projecting snout. The projecting palps are diagnostic."
+    },
+    "zh": {
+      "summary": "长喙夜蛾（ハナマガリアツバ）。夜蛾科壶夜蛾类的蛾，下唇须向前长伸如钩鼻。翅褐色具细纹。栖于低山至山地树林，幼虫食枯叶等。",
+      "habitat_hint": "低山至山地树林、林缘、湿润林内。",
+      "finding_tips": "初夏至秋夜间，于灯下寻找褐色、头部长须前伸的蛾。前伸的下唇须为辨识点。"
+    }
+  },
+  "Haplohymenium sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's tangle-moss",
+    "ja": {
+      "summary": "イワイトゴケモドキ。イトヒバゴケ科の匍匐性のコケで、樹皮や岩の上に細い糸状の茎を這わせて薄いマットをつくる。葉は小さく、乾くと縮れる。低地〜山地の樹幹基部などに普通に見られる。",
+      "habitat_hint": "樹幹の基部、岩上、林内の湿った場所。",
+      "finding_tips": "通年、樹幹の基部や岩上で細い糸状の茎が這う薄い緑色のコケを探します。乾くと縮れる小さな葉が識別点。"
+    },
+    "en": {
+      "summary": "A creeping moss forming thin mats of slender thread-like stems over bark and rock. Its leaves are small and curl when dry; common at trunk bases from lowland to mountains.",
+      "habitat_hint": "Trunk bases, rock and damp places in forest.",
+      "finding_tips": "Year-round on trunk bases and rock look for a thin green moss of creeping thread-like stems. Small leaves that curl when dry are diagnostic."
+    },
+    "zh": {
+      "summary": "西博尔德细枝藓（イワイトゴケモドキ）。羊角藓科匍匐藓类，以细丝状茎爬于树皮和岩上形成薄垫。叶小，干时卷曲。低地至山地树基常见。",
+      "habitat_hint": "树干基部、岩上、林内湿润处。",
+      "finding_tips": "全年，于树基或岩上寻找细丝状茎匍匐的薄绿色藓。干时卷曲的小叶为辨识点。"
+    }
+  },
+  "Haplophthalmus danicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Danish ridge woodlouse",
+    "ja": {
+      "summary": "ナガワラジムシ。ワラジムシ科の陸生等脚類で、体は細長く、背に隆条（うね）がある。土中や落葉の下、腐植の多い場所にすみ、落葉などの有機物を分解する。白っぽい小型種。",
+      "habitat_hint": "土中、落葉の下、腐植の多い湿った地面。",
+      "finding_tips": "通年、落葉や石の下で細長く白っぽい小型のワラジムシを探します。背の隆条と細長い体が識別点。"
+    },
+    "en": {
+      "summary": "An elongate terrestrial woodlouse with dorsal ridges. It lives in soil, under leaf litter and in humus-rich sites, decomposing organic matter; a small whitish species.",
+      "habitat_hint": "Soil, under leaf litter and humus-rich damp ground.",
+      "finding_tips": "Year-round under litter and stones look for a slender whitish small woodlouse. The dorsal ridges and elongate body are diagnostic."
+    },
+    "zh": {
+      "summary": "长鼠妇（ナガワラジムシ）。潮虫科陆生等足类，体细长，背具隆脊。栖于土中、落叶下和富腐殖处，分解有机物，为白色小型种。",
+      "habitat_hint": "土中、落叶下、富腐殖湿润地面。",
+      "finding_tips": "全年，于落叶或石下寻找细长偏白的小型鼠妇。背脊与细长体为辨识点。"
+    }
+  },
+  "Harpago chiragra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蜘蛛螺"
+    },
+    "ja": {
+      "summary": "スイジガイ。スイショウガイ科（ソデガイ科）の大型の巻貝で、殻口の縁から6本の指状の長い突起が伸びる。その形が漢字の「水」に似ることが和名の由来で、沖縄では火除けの魔除けとして玄関に飾られる。サンゴ礁の浅瀬にすむ。",
+      "habitat_hint": "サンゴ礁の浅瀬、砂礫底、礁池。",
+      "finding_tips": "干潮時、サンゴ礁の砂礫底で6本の指状突起が伸びた大きな巻貝を探します。「水」の字状に伸びる6本の突起が識別点。"
+    },
+    "en": {
+      "summary": "The spider conch, a large snail with six long finger-like projections from the lip. Its shape recalls the kanji for 'water', and in Okinawa it is hung by doorways as a fire-warding charm; it lives in shallow reef flats.",
+      "habitat_hint": "Shallow coral-reef flats, sand-gravel bottoms and reef pools.",
+      "finding_tips": "At low tide on reef flats look for a large snail with six long finger-like projections. The six radiating 'water'-shaped projections are diagnostic."
+    },
+    "zh": {
+      "summary": "蜘蛛螺（スイジガイ）。凤螺科大型螺类，壳口缘伸出六条指状长突。其形似汉字“水”，为和名由来；冲绳将其挂于门口作避火护符。栖于珊瑚礁浅滩。",
+      "habitat_hint": "珊瑚礁浅滩、砂砾底、礁池。",
+      "finding_tips": "退潮时，于珊瑚礁砂砾底寻找具六条指状突起的大型螺。似“水”字的六突为辨识点。"
+    }
+  },
+  "Hedychium coronarium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "姜花"
+    },
+    "ja": {
+      "summary": "シュクシャ。ショウガ科シュクシャ属の多年草で、インド〜東南アジア原産。白い蝶のような形の花を穂状につけ、強い甘い芳香を放つ。暖地で栽培され、水辺などに逸出して群生する。",
+      "habitat_hint": "暖地の栽培地、水辺、湿った草地に逸出。",
+      "finding_tips": "8〜10月、暖地の水辺で白い蝶形の花を穂状につける大型の草を探します。強い芳香と白い蝶形花が識別点。"
+    },
+    "en": {
+      "summary": "The white butterfly ginger lily, a perennial native to India and Southeast Asia. It bears spikes of white butterfly-shaped flowers with a strong sweet fragrance; grown in warm regions and naturalised by water.",
+      "habitat_hint": "Warm-region cultivation, waterside and damp grassland (escaped).",
+      "finding_tips": "From August to October by warm-region water look for a large plant with white butterfly-shaped flowers in spikes. The strong fragrance and white butterfly flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "姜花（シュクシャ）。姜科姜花属多年生草本，原产印度至东南亚。穗状着生白色蝶形花，芳香浓郁。暖地栽培，常逸生于水边成丛。",
+      "habitat_hint": "暖地栽培、水边、湿润草地逸生。",
+      "finding_tips": "8 至 10 月，于暖地水边寻找穗状着生白色蝶形花的大型草。浓香与白色蝶形花为辨识点。"
+    }
+  },
+  "Helianthus debilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "瘦向日葵"
+    },
+    "ja": {
+      "summary": "ヒメヒマワリ。キク科ヒマワリ属の一年草で、北アメリカ原産。ヒマワリを小型にしたような黄色い頭花を多数つける。観賞用に栽培され、暖地の海岸や道端に逸出することがある。",
+      "habitat_hint": "栽培地、暖地の海岸、道端、砂地に逸出。",
+      "finding_tips": "夏〜秋、暖地の道端や海岸で小型のヒマワリ状の黄色い頭花を多数つける草を探します。小さめの頭花を多数つける点が識別点。"
+    },
+    "en": {
+      "summary": "The beach or cucumber-leaf sunflower, an annual native to North America. It bears many small sunflower-like yellow heads; grown as an ornamental and sometimes escaping to warm-region coasts and roadsides.",
+      "habitat_hint": "Cultivation, warm-region coasts, roadsides and sand (escaped).",
+      "finding_tips": "From summer to autumn on warm-region roadsides look for a plant with many small sunflower-like yellow heads. The numerous smaller heads are diagnostic."
+    },
+    "zh": {
+      "summary": "瘦向日葵（ヒメヒマワリ）。菊科向日葵属一年生草本，原产北美。开多数似小型向日葵的黄色头状花。作观赏栽培，偶逸生于暖地海岸和路旁。",
+      "habitat_hint": "栽培地、暖地海岸、路旁、沙地逸生。",
+      "finding_tips": "夏至秋，于暖地路旁或海岸寻找多数小型向日葵状黄色头花之草。头花较小而多为辨识点。"
+    }
+  },
+  "Helvella atra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black elfin saddle",
+    "ja": {
+      "summary": "クロアシボソノボリリュウ。ノボリリュウタケ科の子嚢菌で、黒〜暗灰色の鞍形（不規則に曲がった）の傘を細い柄の上につける。夏〜秋に林床や道端の地上に発生する。",
+      "habitat_hint": "林床、道端、林縁の地上、腐植の多い場所。",
+      "finding_tips": "夏〜秋、林床や道端で黒〜暗灰色の鞍形の傘を細い柄につけるきのこを探します。黒い鞍形の傘と細い柄が識別点。"
+    },
+    "en": {
+      "summary": "The black elfin saddle, an ascomycete bearing a black to dark-grey, irregularly folded saddle-shaped cap on a slender stem. It appears on the ground of forest floor and roadsides in summer and autumn.",
+      "habitat_hint": "Forest floor, roadsides, edges and humus-rich ground.",
+      "finding_tips": "From summer to autumn on forest floor and roadsides look for a black saddle-shaped cap on a slender stem. The black folded saddle cap is diagnostic."
+    },
+    "zh": {
+      "summary": "黑马鞍菌（クロアシボソノボリリュウ）。马鞍菌科子囊菌，黑至暗灰色、不规则弯折的鞍形菌盖着生于细柄上。夏秋发生于林床和路旁地上。",
+      "habitat_hint": "林床、路旁、林缘地上、富腐殖处。",
+      "finding_tips": "夏至秋，于林床或路旁寻找细柄上具黑色鞍形盖的菌。黑色鞍形盖与细柄为辨识点。"
+    }
+  },
+  "Holothuria leucospilota": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "玉足海参"
+    },
+    "ja": {
+      "summary": "ニセクロナマコ。ナマコ科の大型のナマコで、体は黒く柔らかい。刺激を受けると白い粘着性の管（キュビエ器官）を放出して身を守る。サンゴ礁の礁池や潮間帯の砂底に普通に見られる。",
+      "habitat_hint": "サンゴ礁の礁池、潮間帯〜浅海の砂底、岩礁。",
+      "finding_tips": "干潮時、サンゴ礁の礁池で黒く細長い大型のナマコを探します。触ると出す白い粘着糸が識別点。"
+    },
+    "en": {
+      "summary": "A large black sea cucumber with a soft body. When disturbed it ejects sticky white tubules (Cuvierian organs) in defence; it is common on reef flats and intertidal sand.",
+      "habitat_hint": "Coral-reef pools, intertidal to shallow sand and reef.",
+      "finding_tips": "At low tide in reef pools look for a large black elongate sea cucumber. The sticky white tubules it ejects when touched are diagnostic."
+    },
+    "zh": {
+      "summary": "玉足海参（ニセクロナマコ）。海参科大型海参，体黑而软。受刺激时排出白色黏性管（居维叶器）以自卫。常见于珊瑚礁礁池和潮间带砂底。",
+      "habitat_hint": "珊瑚礁礁池、潮间带至浅海砂底、岩礁。",
+      "finding_tips": "退潮时，于珊瑚礁礁池寻找黑色细长的大型海参。触碰时排出的白色黏丝为辨识点。"
+    }
+  },
+  "Homalia trichomanoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマトヒラゴケ。ヒラゴケ科の匍匐性のコケで、扁平に押しつぶされたように広がり光沢がある。石灰岩地の岩上や樹幹の基部に生える。葉は舌形で規則正しく2列に並ぶ。",
+      "habitat_hint": "石灰岩地の岩上、樹幹の基部、湿った岩壁。",
+      "finding_tips": "通年、石灰岩や樹幹基部で扁平で光沢のある2列の葉をもつコケを探します。押しつぶされた扁平な枝と光沢が識別点。"
+    },
+    "en": {
+      "summary": "The lime homalia moss, a creeping moss spreading as flattened, glossy mats. It grows on limestone rock and trunk bases, its tongue-shaped leaves neatly two-ranked.",
+      "habitat_hint": "Limestone rock, trunk bases and damp rock faces.",
+      "finding_tips": "Year-round on limestone or trunk bases look for a glossy moss with flattened two-ranked leaves. The pressed-flat glossy shoots are diagnostic."
+    },
+    "zh": {
+      "summary": "扁平藓（ヤマトヒラゴケ）。扁平藓科匍匐藓类，扁平铺展、具光泽。生于石灰岩岩上和树基。叶舌形，规则二列排列。",
+      "habitat_hint": "石灰岩岩上、树基、湿润岩壁。",
+      "finding_tips": "全年，于石灰岩或树基寻找扁平有光泽、叶二列的藓。扁压枝条与光泽为辨识点。"
+    }
+  },
+  "Huperzia javanica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "蛇足石杉"
+    },
+    "ja": {
+      "summary": "オニトウゲシバ。ヒカゲノカズラ科（またはコスギラン科）のシダ植物で、山地の林床に生える。直立した茎に細い葉が密に螺旋状につく。トウゲシバに似るが大型。胞子で殖えるほか、葉腋に無性芽をつくる。",
+      "habitat_hint": "山地の湿った林床、沢沿い、林縁の陰地。",
+      "finding_tips": "通年、山地の林床で直立した茎に細い葉を密につける常緑のシダ植物を探します。螺旋状に密生する細い葉が識別点。"
+    },
+    "en": {
+      "summary": "A firmoss, a fern-ally of montane forest floor. Slender leaves spiral densely around an erect stem; larger than the related toothed clubmoss, it reproduces by spores and by gemmae in the leaf axils.",
+      "habitat_hint": "Montane damp forest floor, streamsides and shady edges.",
+      "finding_tips": "Year-round on montane forest floor look for an evergreen clubmoss-like plant with dense narrow leaves on an erect stem. The densely spiralled narrow leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "蛇足石杉（オニトウゲシバ）。石松科（或马尾杉科）蕨类植物，生于山地林床。直立茎上细叶密螺旋排列。似小杉兰而较大，除孢子繁殖外，叶腋生无性芽。",
+      "habitat_hint": "山地湿润林床、沟旁、林缘阴地。",
+      "finding_tips": "全年，于山地林床寻找直立茎密生细叶的常绿石松类。螺旋密生的细叶为辨识点。"
+    }
+  },
+  "Hypoatherina valenciennei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "瓦氏下银汉鱼"
+    },
+    "ja": {
+      "summary": "トウゴロウイワシ。トウゴロウイワシ科の小型の海水魚で、体側に銀色の縦帯が走る。イワシに似るが別の系統で、鱗が硬い。内湾や河口の表層を群れで泳ぎ、動物プランクトンを食べる。",
+      "habitat_hint": "内湾、河口、沿岸の表層、汽水域。",
+      "finding_tips": "通年、内湾や河口の水面近くで体側に銀色の縦帯をもつ細長い小魚の群れを探します。銀色の縦帯と硬い鱗が識別点。"
+    },
+    "en": {
+      "summary": "A silverside, a small marine fish with a silver stripe along each side. Resembling a sardine but of a separate lineage with hard scales, it schools at the surface of bays and estuaries, eating zooplankton.",
+      "habitat_hint": "Bays, estuaries, coastal surface waters and brackish areas.",
+      "finding_tips": "Year-round near the surface of bays and estuaries look for schools of slender small fish with a silver side-stripe. The silver stripe and hard scales are diagnostic."
+    },
+    "zh": {
+      "summary": "瓦氏下银汉鱼（トウゴロウイワシ）。银汉鱼科小型海鱼，体侧具银色纵带。似沙丁鱼但属另一支系、鳞较硬。于内湾和河口表层成群游动，取食浮游动物。",
+      "habitat_hint": "内湾、河口、沿岸表层、半咸水域。",
+      "finding_tips": "全年，于内湾或河口水面附近寻找体侧具银带的细长小鱼群。银色纵带与硬鳞为辨识点。"
+    }
+  },
+  "Hypotrachyna horrescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ciliate ruffle lichen",
+    "ja": {
+      "summary": "トゲウメノキゴケ。ウメノキゴケ科の葉状地衣で、灰緑色の裂片の縁に黒い繊毛（睫毛状の突起）が並ぶ。樹皮や岩上に広がり、表面に棒状の裂芽（イシジア）をつけて増える。",
+      "habitat_hint": "樹皮、岩上、明るい林縁の木の幹。",
+      "finding_tips": "通年、樹皮で灰緑色の裂片の縁に黒い繊毛をもつ葉状地衣を探します。縁の黒い繊毛と棒状の裂芽が識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen whose grey-green lobes bear black cilia (eyelash-like projections) along the margins. It spreads over bark and rock and reproduces by rod-shaped isidia on the surface.",
+      "habitat_hint": "Bark, rock and trunks at bright woodland edges.",
+      "finding_tips": "Year-round on bark look for a grey-green leafy lichen with black marginal cilia. The black marginal cilia and rod-like isidia are diagnostic."
+    },
+    "zh": {
+      "summary": "刺梅衣（トゲウメノキゴケ）。梅衣科叶状地衣，灰绿色裂片边缘具黑色纤毛（睫毛状突起）。铺展于树皮和岩上，表面生棒状裂芽繁殖。",
+      "habitat_hint": "树皮、岩上、明亮林缘树干。",
+      "finding_tips": "全年，于树皮寻找裂片边缘具黑色纤毛的灰绿色叶状地衣。边缘黑纤毛与棒状裂芽为辨识点。"
+    }
+  },
+  "Icmadophila ericetorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Candy lichen",
+    "ja": {
+      "summary": "アオシモゴケ。イワタケ科の地衣類で、淡青緑色の粒状の地衣体の上に、桃色〜淡紅色の丸い子器（アポテキア）をつける。腐木や泥炭、湿った地上に生え、色の対比が美しい。",
+      "habitat_hint": "腐木、泥炭地、湿った林床、苔むした地上。",
+      "finding_tips": "通年、腐木や湿った地上で淡青緑色の地衣に桃色の丸い子器がのる地衣を探します。青緑と桃色の色の対比が識別点。"
+    },
+    "en": {
+      "summary": "The candy lichen, bearing round pink to pale-red apothecia on a pale blue-green granular thallus. It grows on rotten wood, peat and damp ground, and is admired for its colour contrast.",
+      "habitat_hint": "Rotten wood, peat, damp forest floor and mossy ground.",
+      "finding_tips": "Year-round on rotten wood and damp ground look for a pale blue-green lichen studded with round pink discs. The blue-green and pink contrast is diagnostic."
+    },
+    "zh": {
+      "summary": "糖果地衣（アオシモゴケ）。石耳科地衣，淡青绿色颗粒状地衣体上生粉红至淡红色圆形子器（子囊盘）。生于腐木、泥炭和湿润地面，色彩对比优美。",
+      "habitat_hint": "腐木、泥炭地、湿润林床、藓覆地面。",
+      "finding_tips": "全年，于腐木或湿润地面寻找淡青绿地衣上具粉红圆盘者。青绿与粉红对比为辨识点。"
+    }
+  },
+  "Ileodictyon gracile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "白笼头菌"
+    },
+    "ja": {
+      "summary": "カゴタケ。スッポンタケ科のきのこで、白い格子状（籠状）の中空の球体をつくる。卵状の幼菌から出現し、内側に暗色の悪臭のある粘液（グレバ）をつけてハエを誘い、胞子を運ばせる。",
+      "habitat_hint": "腐植の多い地上、林床、庭、ウッドチップの上。",
+      "finding_tips": "梅雨〜秋、林床や庭で白い格子状の中空の球体を探します。籠状の白い格子と悪臭が識別点。"
+    },
+    "en": {
+      "summary": "A basket stinkhorn forming a hollow white latticed (cage-like) ball. It emerges from an egg and coats the inside with dark foul-smelling slime (gleba) to attract flies that carry the spores.",
+      "habitat_hint": "Humus-rich ground, forest floor, gardens and wood chips.",
+      "finding_tips": "From the rainy season to autumn on forest floor and gardens look for a white latticed hollow ball. The cage-like white lattice and foul smell are diagnostic."
+    },
+    "zh": {
+      "summary": "白笼头菌（カゴタケ）。鬼笔科真菌，形成白色格子状（笼状）中空球体。自卵状幼菌破出，内壁附暗色恶臭黏液（产孢体）诱蝇传播孢子。",
+      "habitat_hint": "富腐殖地面、林床、庭园、木屑上。",
+      "finding_tips": "梅雨至秋，于林床或庭园寻找白色格子状中空球体。笼状白格与恶臭为辨识点。"
+    }
+  },
+  "Iratsume orsedice": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-underside hairstreak",
+    "ja": {
+      "summary": "ウラクロシジミ。シジミチョウ科のチョウで、翅の表は雄が青白く輝き、裏面は白色を帯びる。低山〜山地の落葉樹林にすみ、幼虫はマンサク科のマンサクなどの葉を食べる。",
+      "habitat_hint": "低山〜山地の落葉樹林、マンサクの多い林。",
+      "finding_tips": "6〜7月、山地のマンサクの多い林で、裏面が白っぽく表が青白く輝くシジミチョウを探します。白い翅裏が識別点。"
+    },
+    "en": {
+      "summary": "A hairstreak butterfly whose upperside shimmers bluish-white in males and whose underside is whitish. It lives in low-mountain to montane deciduous woodland, the larvae feeding on witch-hazel.",
+      "habitat_hint": "Low-mountain to montane deciduous woodland rich in witch-hazel.",
+      "finding_tips": "From June to July in witch-hazel-rich montane woods look for a hairstreak with a whitish underside and bluish-white sheen above. The white underside is diagnostic."
+    },
+    "zh": {
+      "summary": "白灰蝶（ウラクロシジミ）。灰蝶科蝴蝶，翅面雄蝶泛青白光泽，翅背带白色。栖于低山至山地落叶林，幼虫食金缕梅科的金缕梅等叶片。",
+      "habitat_hint": "低山至山地落叶林、多金缕梅之林。",
+      "finding_tips": "6 至 7 月，于多金缕梅的山地林寻找翅背偏白、翅面泛青白光的灰蝶。白色翅背为辨识点。"
+    }
+  },
+  "Irpex lacteus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "白囊耙菌"
+    },
+    "ja": {
+      "summary": "ウスバタケ。タコウキン科の白色の硬いきのこで、枯れ枝や倒木に半円形〜背着生の子実体を重なり合ってつける。裏面（子実層）は歯状〜迷路状で、木材を分解する腐朽菌。一年中見られる。",
+      "habitat_hint": "広葉樹の枯れ枝、倒木、伐採木の上。",
+      "finding_tips": "通年、枯れ枝や倒木で白色の薄く硬い半円形の子実体を探し、裏面が歯状かを確認します。白色で歯状の裏面が識別点。"
+    },
+    "en": {
+      "summary": "The milk-white toothed polypore, a hard white fungus forming overlapping semicircular to resupinate fruit bodies on dead twigs and logs. Its underside is tooth-like to maze-like; a wood-rotting fungus seen year-round.",
+      "habitat_hint": "Dead twigs, fallen logs and cut wood of broadleaf trees.",
+      "finding_tips": "Year-round on deadwood look for thin, hard white semicircular brackets and check for a toothed underside. The white tooth-like pore surface is diagnostic."
+    },
+    "zh": {
+      "summary": "白囊耙菌（ウスバタケ）。多孔菌科的白色硬质真菌，于枯枝倒木上生半圆至平伏、相叠的子实体。下面（子实层）齿状至迷路状，为木材腐朽菌，全年可见。",
+      "habitat_hint": "阔叶树枯枝、倒木、伐木上。",
+      "finding_tips": "全年，于枯枝倒木寻找白色薄硬半圆形子实体，查看下面是否齿状。白色齿状孔面为辨识点。"
+    }
   }
 }
