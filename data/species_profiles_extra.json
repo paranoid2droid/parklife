@@ -247543,5 +247543,528 @@
       "habitat_hint": "暖地路旁、农田、海岸沙地、荒地。",
       "finding_tips": "夏至秋，于路旁寻找茎匍匐、具对生小叶之草。损伤流白色乳汁为辨识点。"
     }
+  },
+  "Elymus nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese wheatgrass",
+    "ja": {
+      "summary": "エゾカモジグサ。イネ科エゾムギ属の多年草で、山地の草地や林縁、道端に生える。直立した茎の先に片側に傾いた穂状花序をつけ、小穂に長い芒がある。",
+      "habitat_hint": "山地の草地、林縁、道端、やや湿った草むら。",
+      "finding_tips": "6〜8月、草地で茎先に片側に傾く芒のある穂をつけるイネ科を探します。長い芒と傾いた穂が識別点。"
+    },
+    "en": {
+      "summary": "A wheatgrass of montane grassland, woodland edges and roadsides. Erect stems bear a one-sided spike-like head with long-awned spikelets.",
+      "habitat_hint": "Montane grassland, woodland edges, roadsides and damp grass.",
+      "finding_tips": "From June to August in grassland look for a grass with a one-sided awned spike at the stem tip. The long awns and nodding spike are diagnostic."
+    },
+    "zh": {
+      "summary": "日本披碱草（エゾカモジグサ）。禾本科披碱草属多年生草本，生于山地草地、林缘和路旁。直立茎顶端具偏向一侧的穗状花序，小穗具长芒。",
+      "habitat_hint": "山地草地、林缘、路旁、略湿草丛。",
+      "finding_tips": "6 至 8 月，于草地寻找茎顶偏侧、具芒穗的禾草。长芒与偏侧穗为辨识点。"
+    }
+  },
+  "Entodon luridus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat glossy moss",
+    "ja": {
+      "summary": "フトサナダゴケ。サナダゴケ科の匍匐性のコケで、扁平に押しつぶされたように広がり光沢がある。樹木の基部や腐木、岩上に黄緑色のマットをつくる。",
+      "habitat_hint": "樹木の基部、腐木、岩上、林床の湿った場所。",
+      "finding_tips": "通年、樹幹の基部や腐木で扁平に広がる光沢のある黄緑色のコケを探します。押しつぶされたような扁平な枝が識別点。"
+    },
+    "en": {
+      "summary": "A creeping moss that spreads as flattened, glossy mats. It forms yellow-green patches on tree bases, rotten wood and rock.",
+      "habitat_hint": "Tree bases, rotten wood, rock and damp forest floor.",
+      "finding_tips": "Year-round on trunk bases and deadwood look for a glossy yellow-green moss spreading flat. The flattened, pressed shoots are diagnostic."
+    },
+    "zh": {
+      "summary": "扁绢藓（フトサナダゴケ）。绢藓科匍匐藓类，扁平铺展、具光泽。在树基、腐木和岩上形成黄绿色垫状。",
+      "habitat_hint": "树基、腐木、岩上、湿润林床。",
+      "finding_tips": "全年，于树干基部或腐木寻找扁平铺展、有光泽的黄绿色藓。扁压状枝条为辨识点。"
+    }
+  },
+  "Eupeodes bucculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aphid-eating hoverfly",
+    "ja": {
+      "summary": "ナミホシヒラタアブ。ハナアブ科のアブで、黒地の腹部に黄色い横帯（星状の斑）が並ぶ。ハチに擬態しているが刺さない。成虫は花を訪れて受粉を助け、幼虫はアブラムシを捕食する益虫。",
+      "habitat_hint": "草地、花壇、畑地、林縁など花の多い場所。",
+      "finding_tips": "春〜秋、花の上でホバリングする黒地に黄帯のアブを探します。ハチに似るが翅は2枚で刺さない点が識別点。"
+    },
+    "en": {
+      "summary": "A hoverfly with yellow bands (star-like spots) on a black abdomen. It mimics a wasp but cannot sting; adults pollinate flowers and larvae prey on aphids, making it beneficial.",
+      "habitat_hint": "Grassland, flower beds, fields and flower-rich woodland edges.",
+      "finding_tips": "From spring to autumn look for a black-and-yellow fly hovering over flowers. Wasp-like but with two wings and no sting — that is diagnostic."
+    },
+    "zh": {
+      "summary": "星斑食蚜蝇（ナミホシヒラタアブ）。食蚜蝇科的蝇，黑色腹部具黄色横带（星状斑）。拟态蜂但不螫。成虫访花助粉，幼虫捕食蚜虫，为益虫。",
+      "habitat_hint": "草地、花坛、农田、林缘等多花处。",
+      "finding_tips": "春至秋，于花上寻找悬停的黑底黄带之蝇。似蜂但仅两翅、不螫为辨识点。"
+    }
+  },
+  "Euphrasia insignis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine eyebright",
+    "ja": {
+      "summary": "ミヤマコゴメグサ。ハマウツボ科コゴメグサ属の一年草で、高山の草地や礫地に生える半寄生植物。白色に紫の筋と黄色い斑が入る小さな唇形花を密につける。",
+      "habitat_hint": "高山帯の草地、礫地、風衝草原。",
+      "finding_tips": "7〜9月、高山の草地で白地に紫筋と黄斑をもつ小さな唇形花を密につける草を探します。半寄生で小型の花が識別点。"
+    },
+    "en": {
+      "summary": "An alpine eyebright, an annual hemiparasite of high-mountain grassland and gravel. It bears dense small two-lipped flowers, white with purple veins and a yellow throat-spot.",
+      "habitat_hint": "Alpine grassland, gravel and wind-exposed meadows.",
+      "finding_tips": "From July to September in alpine grassland look for dense small white two-lipped flowers with purple veins and a yellow spot. Its hemiparasitic habit and tiny flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "深山小米草（ミヤマコゴメグサ）。列当科小米草属一年生草本，为高山草地和砾地的半寄生植物。密生白色小唇形花，具紫色脉纹与黄色斑。",
+      "habitat_hint": "高山带草地、砾地、风衝草原。",
+      "finding_tips": "7 至 9 月，于高山草地寻找白底具紫脉黄斑的密生小唇形花之草。半寄生与小花为辨识点。"
+    }
+  },
+  "Eupithecia virgaureata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Golden-rod Pug",
+    "ja": {
+      "summary": "アザミカバナミシャク。シャクガ科ナミシャク亜科のカバナミシャク類の小型のガで、細長い翅に細かな横線が入る。幼虫はキク科など各種の花や葉を食べる。夜間に灯火へ集まる。",
+      "habitat_hint": "草地、林縁、山地の明るい林。",
+      "finding_tips": "春〜初夏の夜、灯火に来る細い翅に横線をもつ小型のガを探します。細長い翅と地味な横線が識別点。"
+    },
+    "en": {
+      "summary": "The Golden-rod Pug, a small geometrid with narrow wings crossed by fine lines. Its larvae feed on the flowers and leaves of daisy-family and other plants; adults come to lights at night.",
+      "habitat_hint": "Grassland, woodland edges and bright montane woods.",
+      "finding_tips": "On spring to early-summer nights look at lights for a small moth with narrow, finely lined wings. The narrow wings and faint cross-lines are diagnostic."
+    },
+    "zh": {
+      "summary": "菊小波尺蛾（アザミカバナミシャク）。尺蛾科波尺蛾亚科小波尺蛾类的小型蛾，翅狭长具细横线。幼虫食菊科等植物花叶，夜间趋光。",
+      "habitat_hint": "草地、林缘、山地明亮林。",
+      "finding_tips": "春至初夏夜间，于灯下寻找翅狭具横线的小型蛾。狭长翅与淡横线为辨识点。"
+    }
+  },
+  "Euplexia lucipara": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Angle Shades",
+    "ja": {
+      "summary": "アカガネヨトウ。ヤガ科のガで、前翅に赤銅（あかがね）色の光沢と淡色の紋がある。低山〜山地の樹林や草地にすみ、幼虫はシダや各種の草本・木本の葉を食べる。",
+      "habitat_hint": "低山〜山地の樹林、林縁、湿った草地。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る赤銅色に光る中型のガを探します。前翅の赤銅色光沢と淡色紋が識別点。"
+    },
+    "en": {
+      "summary": "The Small Angle Shades, a noctuid whose forewing has a coppery sheen and pale markings. It lives in low-mountain to montane woodland and grassland, the larvae feeding on ferns and various herbs and trees.",
+      "habitat_hint": "Low-mountain to montane woodland, edges and damp grassland.",
+      "finding_tips": "On early-summer to summer nights look at lights for a medium moth with a coppery sheen. The coppery forewing and pale markings are diagnostic."
+    },
+    "zh": {
+      "summary": "红铜夜蛾（アカガネヨトウ）。夜蛾科的蛾，前翅具赤铜色光泽与淡色斑纹。栖于低山至山地树林和草地，幼虫食蕨类及多种草本、木本叶片。",
+      "habitat_hint": "低山至山地树林、林缘、湿润草地。",
+      "finding_tips": "初夏至夏夜间，于灯下寻找泛赤铜色光泽的中型蛾。前翅赤铜光泽与淡斑为辨识点。"
+    }
+  },
+  "Exocentrus galloisi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy twig longhorn",
+    "ja": {
+      "summary": "ガロアケシカミキリ。カミキリムシ科ケシカミキリ類の小型の甲虫で、体は褐色の毛におおわれ、長い触角をもつ。枯れ枝や伐採木に集まり、幼虫は枯れた木の材を食べる。",
+      "habitat_hint": "広葉樹林の枯れ枝、伐採木、林縁。",
+      "finding_tips": "初夏〜夏、枯れ枝や伐採木で長い触角をもつ褐色で毛深い小型のカミキリを探します。毛におおわれた体と長い触角が識別点。"
+    },
+    "en": {
+      "summary": "A small longhorn beetle clothed in brown hairs with long antennae. It gathers on dead twigs and cut timber, the larvae boring in dead wood.",
+      "habitat_hint": "Dead twigs, cut timber and edges of broadleaf forest.",
+      "finding_tips": "From early summer to summer on dead twigs look for a small hairy brown beetle with long antennae. The hairy body and long antennae are diagnostic."
+    },
+    "zh": {
+      "summary": "加卢瓦细天牛（ガロアケシカミキリ）。天牛科细天牛类小型甲虫，体被褐色毛，触角长。聚于枯枝和伐木，幼虫蛀食枯木材。",
+      "habitat_hint": "阔叶林枯枝、伐木、林缘。",
+      "finding_tips": "初夏至夏，于枯枝或伐木寻找触角长、褐色多毛的小型天牛。被毛之体与长触角为辨识点。"
+    }
+  },
+  "Facelina bilineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-lined eolid",
+    "ja": {
+      "summary": "フタスジミノウミウシ。ミノウミウシ類のウミウシで、細長い体に背中のミノ（突起）が房状に並ぶ。体に2本の筋が走ることが和名の由来。潮間帯〜浅海のヒドロ虫の上にすみ、それを食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、ヒドロ虫の群体上。",
+      "finding_tips": "春〜夏、ヒドロ虫の生える岩上で背中に房状のミノをもつ細長いウミウシを探します。体の2本の筋とミノが識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch with a slender body bearing clustered dorsal cerata. Two lines running along the body give the Japanese name; it lives on and eats hydroids from the intertidal to shallow subtidal.",
+      "habitat_hint": "Intertidal to shallow reef, on hydroid colonies.",
+      "finding_tips": "From spring to summer on hydroid-covered rock look for a slender slug with clustered dorsal cerata. The two body lines and cerata are diagnostic."
+    },
+    "zh": {
+      "summary": "双线蓑海蛞蝓（フタスジミノウミウシ）。蓑海蛞蝓类，体细长，背部蓑突成簇排列。体具两条纵纹，为和名由来。栖于潮间带至浅海水螅群体上并取食之。",
+      "habitat_hint": "潮间带至浅海岩礁、水螅群体上。",
+      "finding_tips": "春至夏，于生有水螅的岩上寻找背具簇状蓑突的细长海蛞蝓。体两条纵纹与蓑突为辨识点。"
+    }
+  },
+  "Festuca extremiorientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Far-eastern fescue",
+    "ja": {
+      "summary": "オオトボシガラ。イネ科ウシノケグサ属の多年草で、山地の林下や林縁に生える。細い茎の先に開いた円錐花序をつけ、小穂は緑色で短い芒がある。株立ちする大型のウシノケグサ。",
+      "habitat_hint": "山地の林下、林縁、沢沿いの湿った場所。",
+      "finding_tips": "6〜8月、山地の林縁で開いた円錐花序をつける大型のイネ科を探します。開出する花序と株立ちが識別点。"
+    },
+    "en": {
+      "summary": "A far-eastern fescue, a perennial grass of montane forest understorey and edges. Slender stems bear an open panicle of green, short-awned spikelets; it is a large tufted fescue.",
+      "habitat_hint": "Montane forest understorey, edges and damp streamsides.",
+      "finding_tips": "From June to August at montane woodland edges look for a large grass with an open panicle. The spreading panicle and tufted habit are diagnostic."
+    },
+    "zh": {
+      "summary": "远东羊茅（オオトボシガラ）。禾本科羊茅属多年生草本，生于山地林下和林缘。细茎顶端具开展圆锥花序，小穗绿色具短芒，为丛生大型羊茅。",
+      "habitat_hint": "山地林下、林缘、沟旁湿润处。",
+      "finding_tips": "6 至 8 月，于山地林缘寻找具开展圆锥花序的大型禾草。开展花序与丛生为辨识点。"
+    }
+  },
+  "Ficus ampelas": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "菱叶冠毛榕"
+    },
+    "ja": {
+      "summary": "ホソバムクイヌビワ。クワ科イチジク属の常緑小高木で、南西諸島など暖地の林に生える。葉はざらつき、紙やすりのように使えるほど。イチジクの仲間で、球形の実（いちじく状果）をつける。",
+      "habitat_hint": "暖地・南西諸島の常緑樹林、林縁、石灰岩地。",
+      "finding_tips": "通年、暖地の林でざらつく細長い葉と球形の実をもつイチジクの仲間を探します。紙やすり状のざらつく葉が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen fig tree of warm-region forest including the Nansei Islands. Its rough leaves are sandpapery enough to use for abrasion; being a fig, it bears globular syconia.",
+      "habitat_hint": "Warm-region and Nansei-Island evergreen forest, edges and limestone.",
+      "finding_tips": "Year-round in warm forest look for a fig with rough narrow leaves and globular fruit. The sandpaper-rough leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "菱叶冠毛榕（ホソバムクイヌビワ）。桑科榕属常绿小乔木，生于暖地及西南诸岛树林。叶面粗糙，可如砂纸般使用。属榕类，结球形隐花果。",
+      "habitat_hint": "暖地、西南诸岛常绿林、林缘、石灰岩地。",
+      "finding_tips": "全年，于暖地林中寻找叶粗糙狭长、结球形果的榕类。砂纸状粗糙叶为辨识点。"
+    }
+  },
+  "Filipendula auriculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Koshiji meadowsweet",
+    "ja": {
+      "summary": "コシジシモツケソウ。バラ科シモツケソウ属の多年草で、山地の湿った草地や林縁に生える。頂に淡紅色の小花を泡立つように多数つけ、大きな掌状の頂小葉をもつ。日本海側に多い。",
+      "habitat_hint": "山地の湿った草地、林縁、沢沿いの草原。",
+      "finding_tips": "6〜8月、山地の湿った草地で淡紅色の小花が泡立つように咲くシモツケソウの仲間を探します。大きな掌状の頂小葉が識別点。"
+    },
+    "en": {
+      "summary": "A meadowsweet of montane damp grassland and woodland edges. It bears frothy clusters of many small pink flowers and large palmate terminal leaflets; common on the Sea-of-Japan side.",
+      "habitat_hint": "Montane damp grassland, edges and streamside meadows.",
+      "finding_tips": "From June to August in damp mountain grassland look for a meadowsweet with frothy pink flower clusters. The large palmate terminal leaflet is diagnostic."
+    },
+    "zh": {
+      "summary": "越路蚊子草（コシジシモツケソウ）。蔷薇科蚊子草属多年生草本，生于山地湿润草地和林缘。顶生多数淡红色小花如泡沫，顶小叶大而掌状。多见于日本海一侧。",
+      "habitat_hint": "山地湿润草地、林缘、沟旁草原。",
+      "finding_tips": "6 至 8 月，于山地湿润草地寻找淡红色小花如泡沫的蚊子草类。大掌状顶小叶为辨识点。"
+    }
+  },
+  "Fissidens gymnogynus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small phoenix moss",
+    "ja": {
+      "summary": "ヒメホウオウゴケ。ホウオウゴケ科の小型のコケで、葉が茎の両側に規則正しく並び、鳳凰の羽のように見える。湿った土上や岩上、渓流沿いに生える。",
+      "habitat_hint": "湿った土上、岩上、渓流沿いの日陰。",
+      "finding_tips": "通年、湿った土や岩で葉が羽状に2列に並ぶ小型のコケを探します。鳳凰の羽状の葉配列が識別点。"
+    },
+    "en": {
+      "summary": "A small phoenix moss whose leaves are arranged in two neat rows along the stem like a bird's feather. It grows on damp soil, rock and along streams.",
+      "habitat_hint": "Damp soil, rock and shady streamsides.",
+      "finding_tips": "Year-round on damp soil and rock look for a small moss with feather-like two-ranked leaves. The phoenix-feather leaf arrangement is diagnostic."
+    },
+    "zh": {
+      "summary": "小凤尾藓（ヒメホウオウゴケ）。凤尾藓科小型藓类，叶沿茎两侧规则排列，如凤凰之羽。生于湿润土面、岩上和溪流旁。",
+      "habitat_hint": "湿润土面、岩上、溪流旁阴处。",
+      "finding_tips": "全年，于湿润土或岩上寻找叶羽状二列排列的小型藓。凤羽状叶序为辨识点。"
+    }
+  },
+  "Flagellaria indica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "须叶藤"
+    },
+    "ja": {
+      "summary": "トウツルモドキ。トウツルモドキ科のつる性の単子葉植物で、熱帯・亜熱帯の海岸林や湿った林に生える。葉の先が巻きひげ状になり、他の植物に巻きついて登る。ラン科ではなくトウ（籐）に似たつる植物。",
+      "habitat_hint": "熱帯・亜熱帯の海岸林、湿った林、林縁のやぶ。",
+      "finding_tips": "通年、暖地の林縁で葉先が巻きひげになって他物に登るつる植物を探します。葉先の巻きひげが識別点。"
+    },
+    "en": {
+      "summary": "A climbing monocot of tropical and subtropical coastal and damp forest. Its leaf tips form tendrils that coil around other plants to climb, giving a rattan-like scrambler.",
+      "habitat_hint": "Tropical/subtropical coastal forest, damp woods and edge thickets.",
+      "finding_tips": "Year-round at warm-region woodland edges look for a climber whose leaf tips coil into tendrils. The tendril leaf tips are diagnostic."
+    },
+    "zh": {
+      "summary": "须叶藤（トウツルモドキ）。须叶藤科藤本单子叶植物，生于热带、亚热带海岸林和湿润林。叶尖卷曲成卷须，缠绕他物攀援，形似藤本。",
+      "habitat_hint": "热带、亚热带海岸林、湿润林、林缘灌丛。",
+      "finding_tips": "全年，于暖地林缘寻找叶尖成卷须攀他物的藤本。叶尖卷须为辨识点。"
+    }
+  },
+  "Fritillaria camschatcensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "堪察加贝母"
+    },
+    "ja": {
+      "summary": "クロユリ。ユリ科バイモ属の多年草で、高山の草地や北方の湿った草原に生える。暗紫褐色の鐘形の花を下向きに咲かせる。高山植物の代表格で、独特の匂いをもつ。",
+      "habitat_hint": "高山帯の草地、北方の湿った草原、雪田周辺。",
+      "finding_tips": "6〜8月、高山の草地で暗紫褐色の鐘形の花を下向きに咲かせる草を探します。黒っぽい鐘形の花が識別点。"
+    },
+    "en": {
+      "summary": "The Kamchatka fritillary (black lily), a perennial of alpine grassland and northern wet meadows. It hangs dark purple-brown bell-shaped flowers; an iconic alpine plant with a distinctive odour.",
+      "habitat_hint": "Alpine grassland, northern wet meadows and snow-patch margins.",
+      "finding_tips": "From June to August in alpine grassland look for nodding dark purple-brown bell flowers. The blackish bell-shaped flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "堪察加贝母（クロユリ，黑百合）。百合科贝母属多年生草本，生于高山草地和北方湿润草原。下垂开暗紫褐色钟形花。为高山植物代表，具独特气味。",
+      "habitat_hint": "高山带草地、北方湿润草原、雪田周边。",
+      "finding_tips": "6 至 8 月，于高山草地寻找下垂暗紫褐色钟形花之草。近黑色钟形花为辨识点。"
+    }
+  },
+  "Fulmarus glacialis": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "暴风鹱"
+    },
+    "ja": {
+      "summary": "フルマカモメ。ミズナギドリ科の海鳥で、カモメに似るが、くちばしの上に管状の鼻孔（管鼻）をもつ。外洋を滑空し、日本近海には冬に現れる。硬直翼で波間を滑るように飛ぶ。",
+      "habitat_hint": "外洋、北方の海域、冬の日本近海。",
+      "finding_tips": "冬、外洋でカモメに似るが硬直した翼で滑空する海鳥を探します。くちばし上の管状鼻孔が識別点。"
+    },
+    "en": {
+      "summary": "The Northern Fulmar, a tubenose seabird resembling a gull but with tubular nostrils atop the bill. It glides the open ocean on stiff wings and appears off Japan in winter.",
+      "habitat_hint": "Open ocean, northern seas and Japanese offshore waters in winter.",
+      "finding_tips": "In winter offshore look for a gull-like seabird gliding on stiff wings. The tubular nostrils on the bill are diagnostic."
+    },
+    "zh": {
+      "summary": "暴风鹱（フルマカモメ）。鹱科海鸟，似鸥但喙上具管状鼻孔（管鼻）。于外洋硬翅滑翔，冬季出现于日本近海。",
+      "habitat_hint": "外洋、北方海域、冬季日本近海。",
+      "finding_tips": "冬季，于外洋寻找似鸥但硬翅滑翔的海鸟。喙上管状鼻孔为辨识点。"
+    }
+  },
+  "Fumaria officinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "球果紫堇"
+    },
+    "ja": {
+      "summary": "カラクサケマン。ケシ科（旧ケマンソウ科）の一年草で、ヨーロッパ原産の帰化植物。細かく裂けた唐草模様の葉と、紅紫色で先が濃色の筒状の小花を穂状につける。道端や畑地に生える。",
+      "habitat_hint": "道端、畑地、荒れ地、市街地の空き地。",
+      "finding_tips": "春〜初夏、道端で細かく裂けた葉と紅紫色の筒状の小花を穂状につける草を探します。唐草状の葉と管状花が識別点。"
+    },
+    "en": {
+      "summary": "Common fumitory, a Eurasian annual of the poppy family naturalised in Japan. It has finely divided lacy leaves and spikes of tubular pink-purple flowers tipped darker; it grows on roadsides and fields.",
+      "habitat_hint": "Roadsides, fields, waste ground and urban vacant lots.",
+      "finding_tips": "From spring to early summer on roadsides look for finely cut leaves and spikes of tubular pink-purple flowers. The lacy leaves and tubular flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "球果紫堇（カラクサケマン，烟堇）。罂粟科（旧紫堇科）一年生草本，原产欧洲，为归化植物。叶细裂如卷草纹，穗状着生红紫色、端色深的管状小花。生于路旁和农田。",
+      "habitat_hint": "路旁、农田、荒地、城区空地。",
+      "finding_tips": "春至初夏，于路旁寻找叶细裂、穗状红紫色管状小花之草。卷草状叶与管状花为辨识点。"
+    }
+  },
+  "Fusinus ferrugineus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rusty spindle shell",
+    "ja": {
+      "summary": "コナガニシ。イトマキボラ科の巻貝で、殻は細長い紡錘形で水管溝が長く伸びる。殻表は褐色で螺肋がある。潮間帯〜浅海の砂底にすみ、他の貝や動物を食べる肉食性の巻貝。",
+      "habitat_hint": "潮間帯〜浅海の砂底、砂泥底。",
+      "finding_tips": "干潮時、砂底で細長い紡錘形の殻と長い水管溝をもつ褐色の巻貝を探します。長く伸びる水管溝が識別点。"
+    },
+    "en": {
+      "summary": "A spindle shell of the Fasciolariidae with an elongate fusiform shell and a long siphonal canal. The brown shell bears spiral ridges; it is a predatory snail of intertidal to shallow sand.",
+      "habitat_hint": "Intertidal to shallow sand and sand-mud bottoms.",
+      "finding_tips": "At low tide on sand look for a brown snail with an elongate spindle shell and long canal. The long siphonal canal is diagnostic."
+    },
+    "zh": {
+      "summary": "锈色纺锤螺（コナガニシ）。旋螺科螺类，壳细长纺锤形，水管沟长伸。壳面褐色具螺肋。栖于潮间带至浅海砂底，为肉食性螺。",
+      "habitat_hint": "潮间带至浅海砂底、砂泥底。",
+      "finding_tips": "退潮时，于砂底寻找细长纺锤形、水管沟长的褐色螺。长水管沟为辨识点。"
+    }
+  },
+  "Garcinia subelliptica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "福木"
+    },
+    "ja": {
+      "summary": "フクギ。フクギ科（オトギリソウ科）の常緑高木で、沖縄など南西諸島で防風・防潮林や屋敷の生垣として植えられる。厚く光沢のある葉をもち、樹皮は黄色の染料に使われた。",
+      "habitat_hint": "南西諸島の海岸、屋敷林、防風林、集落の生垣。",
+      "finding_tips": "通年、沖縄の集落や海岸で厚く光沢のある楕円形の葉をもつ常緑高木を探します。密な葉と直立した樹形が識別点。"
+    },
+    "en": {
+      "summary": "Fukugi, an evergreen tree planted in Okinawa and the Nansei Islands as windbreak, salt-spray shelter and homestead hedge. It has thick glossy leaves, and its bark yielded a yellow dye.",
+      "habitat_hint": "Nansei-Island coasts, homestead groves, windbreaks and hedges.",
+      "finding_tips": "Year-round in Okinawan villages and coasts look for an evergreen tree with thick glossy oval leaves. Its dense foliage and upright form are diagnostic."
+    },
+    "zh": {
+      "summary": "福木（フクギ）。藤黄科常绿乔木，在冲绳等西南诸岛栽作防风、防潮林及宅院绿篱。叶厚而有光泽，树皮曾用作黄色染料。",
+      "habitat_hint": "西南诸岛海岸、宅院林、防风林、聚落绿篱。",
+      "finding_tips": "全年，于冲绳聚落或海岸寻找叶厚有光泽、椭圆形的常绿乔木。密叶与直立树形为辨识点。"
+    }
+  },
+  "Gentiana makinoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Makino's gentian",
+    "ja": {
+      "summary": "オヤマリンドウ。リンドウ科リンドウ属の多年草で、山地〜亜高山の草地や湿った草原に生える。茎の上部に青紫色の筒状の花を数個かためてつける。花はあまり大きく開かない。",
+      "habitat_hint": "山地〜亜高山帯の草地、湿った草原、林縁。",
+      "finding_tips": "8〜9月、山地の草地で茎の上部にかたまってつく青紫色の筒状の花を探します。あまり開かない花と頂部集中が識別点。"
+    },
+    "en": {
+      "summary": "Makino's gentian, a perennial of montane to subalpine grassland and wet meadows. It clusters a few blue-purple tubular flowers near the stem top, and the flowers open only slightly.",
+      "habitat_hint": "Montane to subalpine grassland, wet meadows and edges.",
+      "finding_tips": "From August to September in mountain grassland look for clustered blue-purple tubular flowers near the stem top. The barely-opening flowers clustered at the top are diagnostic."
+    },
+    "zh": {
+      "summary": "牧野龙胆（オヤマリンドウ）。龙胆科龙胆属多年生草本，生于山地至亚高山草地和湿润草原。茎上部簇生数朵蓝紫色筒状花，花开展不大。",
+      "habitat_hint": "山地至亚高山带草地、湿润草原、林缘。",
+      "finding_tips": "8 至 9 月，于山地草地寻找茎上部簇生的蓝紫色筒状花。花开展小且顶部集中为辨识点。"
+    }
+  },
+  "Geometra glaucaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded emerald",
+    "ja": {
+      "summary": "コシロオビアオシャク。シャクガ科アオシャク亜科のガで、翅は淡い青緑色で白い横帯が入る。低山〜山地の落葉樹林にすみ、幼虫はブナ科などの木本の葉を食べる尺取虫。",
+      "habitat_hint": "低山〜山地の落葉樹林、林縁。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る青緑色に白帯をもつ中型のガを探します。淡い青緑色と白い横帯が識別点。"
+    },
+    "en": {
+      "summary": "An emerald moth of the Geometridae with pale blue-green wings crossed by white bands. It lives in low-mountain to montane deciduous woodland, its looper larvae feeding on oak and other trees.",
+      "habitat_hint": "Deciduous woodland and edges from low hills to mountains.",
+      "finding_tips": "On early-summer to summer nights look at lights for a medium blue-green moth with white bands. The pale blue-green colour and white cross-bands are diagnostic."
+    },
+    "zh": {
+      "summary": "白带青尺蛾（コシロオビアオシャク）。尺蛾科青尺蛾亚科的蛾，翅淡青绿色具白色横带。栖于低山至山地落叶林，幼虫（尺蠖）食壳斗科等木本叶片。",
+      "habitat_hint": "低山至山地落叶林、林缘。",
+      "finding_tips": "初夏至夏夜间，于灯下寻找青绿色具白带的中型蛾。淡青绿色与白横带为辨识点。"
+    }
+  },
+  "Georissa japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sesame land snail",
+    "ja": {
+      "summary": "ゴマオカタニシ。ゴマオカタニシ科の非常に小さな陸生の巻貝で、殻の大きさは1〜2mmほど。石灰岩地の岩の隙間や落葉下にすみ、ゴマ粒のように小さいことが和名の由来。",
+      "habitat_hint": "石灰岩地の岩の隙間、落葉下、湿った崖地。",
+      "finding_tips": "湿った石灰岩地の落葉や岩の隙間で、ゴマ粒ほどの極小の巻貝を探します。1〜2mmの微小な殻が識別点。"
+    },
+    "en": {
+      "summary": "A very tiny land snail only 1–2 mm across. It lives in limestone crevices and under leaf litter, its sesame-seed size giving the Japanese name.",
+      "habitat_hint": "Limestone crevices, under leaf litter and on damp cliffs.",
+      "finding_tips": "In damp limestone litter and crevices look for a snail the size of a sesame seed. The minute 1–2 mm shell is diagnostic."
+    },
+    "zh": {
+      "summary": "芝麻陆蜷（ゴマオカタニシ）。芝麻陆蜷科极小的陆生螺类，壳径仅约1–2毫米。栖于石灰岩缝隙和落叶下，因小如芝麻粒而得和名。",
+      "habitat_hint": "石灰岩缝隙、落叶下、湿润崖地。",
+      "finding_tips": "于湿润石灰岩落叶或岩缝寻找芝麻粒大的极小螺。1–2毫米微小壳为辨识点。"
+    }
+  },
+  "Geum macrophyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "大叶水杨梅"
+    },
+    "ja": {
+      "summary": "カラフトダイコンソウ。バラ科ダイコンソウ属の多年草で、山地の湿った草地や林縁に生える。黄色い5弁花を咲かせ、大きな頂小葉をもつ根生葉がダイコンの葉に似る。果実は鉤状で衣服に付く。",
+      "habitat_hint": "山地の湿った草地、林縁、沢沿いの草むら。",
+      "finding_tips": "6〜8月、山地の湿った草地で黄色い5弁花と大きな頂小葉をもつ草を探します。鉤状の果実と大きな頂小葉が識別点。"
+    },
+    "en": {
+      "summary": "Large-leaved avens, a perennial of montane damp grassland and woodland edges. It bears yellow five-petalled flowers, and its basal leaves with a large terminal leaflet recall radish leaves; the hooked fruits cling to clothing.",
+      "habitat_hint": "Montane damp grassland, edges and streamside grass.",
+      "finding_tips": "From June to August in damp mountain grassland look for yellow five-petalled flowers over leaves with a big terminal leaflet. The hooked fruits and large terminal leaflet are diagnostic."
+    },
+    "zh": {
+      "summary": "大叶水杨梅（カラフトダイコンソウ）。蔷薇科路边青属多年生草本，生于山地湿润草地和林缘。开黄色五瓣花，基生叶顶小叶大、似萝卜叶。果实钩状，可附衣物。",
+      "habitat_hint": "山地湿润草地、林缘、沟旁草丛。",
+      "finding_tips": "6 至 8 月，于山地湿润草地寻找黄色五瓣花、顶小叶大之草。钩状果与大顶小叶为辨识点。"
+    }
+  },
+  "Goodyera velutina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "绒叶斑叶兰"
+    },
+    "ja": {
+      "summary": "シュスラン。ラン科シュスラン属の常緑の地生ランで、暖地の湿った常緑樹林の林床に生える。葉はビロード状の暗緑色で、中央に淡色の筋が入る。葉の美しさから観賞される。淡紅色の花を穂状につける。",
+      "habitat_hint": "暖地の湿った常緑樹林の林床、沢沿いの陰地。",
+      "finding_tips": "夏〜秋、暖地の暗い林床でビロード状の暗緑色の葉に淡色の筋をもつ小型のランを探します。ビロード状の葉が識別点。"
+    },
+    "en": {
+      "summary": "A velvet jewel orchid, an evergreen terrestrial orchid of humid warm-region forest floor. Its dark-green velvety leaves carry a pale central stripe and are prized for their beauty; it bears pale-pink flowers in a spike.",
+      "habitat_hint": "Humid warm-region evergreen forest floor and shady streamsides.",
+      "finding_tips": "From summer to autumn on shady warm-region forest floor look for a small orchid with velvety dark-green pale-striped leaves. The velvety leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "绒叶斑叶兰（シュスラン）。兰科斑叶兰属常绿地生兰，生于暖地湿润常绿林林床。叶暗绿呈丝绒状、中央具淡色纹，因叶美而受观赏。穗状着生淡红色花。",
+      "habitat_hint": "暖地湿润常绿林林床、沟旁阴地。",
+      "finding_tips": "夏至秋，于暖地阴暗林床寻找叶丝绒状暗绿、具淡纹的小型兰。丝绒状叶为辨识点。"
+    }
   }
 }
