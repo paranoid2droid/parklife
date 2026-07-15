@@ -247012,5 +247012,536 @@
       "habitat_hint": "河滩、海岸、池沼岸湿润砂地。",
       "finding_tips": "春至秋，翻挖水边砂地可见极小葫芦形甲虫。极小缢缩体与掘足为辨识点。"
     }
+  },
+  "Coccocarpia erythroxyli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown shingle lichen",
+    "ja": {
+      "summary": "シラチャカワラゴケ。カワラゴケ科の葉状地衣で、藍藻を共生させる。乾くと白茶色、湿ると鉛灰色になる裂片が瓦を重ねたように広がる。湿った樹皮や苔むした岩上に生える。",
+      "habitat_hint": "湿潤な林内の樹皮、苔むした岩上。",
+      "finding_tips": "通年、湿った林内の樹皮で瓦状に重なる白茶〜鉛灰色の葉状地衣を探します。乾湿で色が変わる点が識別点。"
+    },
+    "en": {
+      "summary": "A cyanolichen whose lobes spread shingle-like over damp bark and mossy rock. They are whitish-brown when dry and lead-grey when wet.",
+      "habitat_hint": "Bark and mossy rock in humid forest.",
+      "finding_tips": "Year-round look on damp forest bark for a shingle-like leafy lichen that changes colour with moisture. The wet/dry colour shift is diagnostic."
+    },
+    "zh": {
+      "summary": "褐黏鳞衣（シラチャカワラゴケ）。黏黑蜷科叶状地衣，与蓝藻共生。裂片干时白褐、湿时铅灰，如叠瓦铺展于湿润树皮和藓覆岩上。",
+      "habitat_hint": "湿润林内树皮、藓覆岩上。",
+      "finding_tips": "全年，于湿润林内树皮寻找叠瓦状白褐至铅灰色叶状地衣。干湿变色为辨识点。"
+    }
+  },
+  "Cololejeunea ornata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf-dwelling liverwort",
+    "ja": {
+      "summary": "ヤマナカヨウジョウゴケ。クサリゴケ科の微小な葉上性の苔類で、常緑樹の生葉や樹皮に薄く広がる。肉眼では緑色の薄い膜のように見え、ルーペで細かい葉が重なるのが分かる。",
+      "habitat_hint": "湿潤な常緑樹林の生葉の表面、樹皮。",
+      "finding_tips": "通年、湿った林内の常緑樹の葉表で緑色の薄い膜状のものを探し、ルーペで細葉を確認します。葉上に生えることが識別点。"
+    },
+    "en": {
+      "summary": "A minute leaf-dwelling liverwort spreading thinly over the living leaves and bark of evergreen trees. It looks like a thin green film, resolving into overlapping tiny leaves under a lens.",
+      "habitat_hint": "Living evergreen leaf surfaces and bark in humid forest.",
+      "finding_tips": "Year-round look on evergreen leaf surfaces for a thin green film, then check tiny overlapping leaves with a lens. Growth on living leaves is diagnostic."
+    },
+    "zh": {
+      "summary": "饰纹疣鳞苔（ヤマナカヨウジョウゴケ）。细鳞苔科微小叶附生苔类，薄铺于常绿树生叶及树皮。肉眼似绿色薄膜，放大镜下见细叶相叠。",
+      "habitat_hint": "湿润常绿林生叶表面、树皮。",
+      "finding_tips": "全年，于湿润林内常绿叶面寻找绿色薄膜状物，放大镜确认细叶。生于活叶上为辨识点。"
+    }
+  },
+  "Dryopteris hakonecola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakone wood fern",
+    "ja": {
+      "summary": "ハコネオオクジャク。オシダ科オシダ属の夏緑性シダで、山地の湿った林床に生える。大きく二〜三回羽状に分かれた葉を放射状に広げる。オオクジャクシダに近縁で、やや小型。",
+      "habitat_hint": "山地の湿った林床、沢沿い、林縁。",
+      "finding_tips": "初夏〜秋、山地の林床で放射状に葉を広げる大型のシダを探します。二〜三回羽状の葉と夏緑性が識別点。"
+    },
+    "en": {
+      "summary": "A summer-green wood fern of montane damp forest floor, spreading large two- to three-times pinnate fronds in a rosette. It is close to the peacock fern but somewhat smaller.",
+      "habitat_hint": "Montane damp forest floor, streamsides and woodland edges.",
+      "finding_tips": "From early summer to autumn on mountain forest floor look for a large fern with a rosette of fronds. The 2–3-pinnate blades and summer-green habit are diagnostic."
+    },
+    "zh": {
+      "summary": "箱根鳞毛蕨（ハコネオオクジャク）。鳞毛蕨科鳞毛蕨属夏绿蕨类，生于山地湿润林床。叶大、二至三回羽状分裂，呈放射状展开。近孔雀鳞毛蕨而略小。",
+      "habitat_hint": "山地湿润林床、沟旁、林缘。",
+      "finding_tips": "初夏至秋，于山地林床寻找放射状展叶的大型蕨。二至三回羽状叶与夏绿性为辨识点。"
+    }
+  },
+  "Dryopteris indusiata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Indusiate wood fern",
+    "ja": {
+      "summary": "ヌカイタチシダモドキ。オシダ科オシダ属の常緑性シダで、暖地の林床や林縁に生える。ヌカイタチシダに似るが、ソーラス（胞子嚢群）の包膜がよく残る点で区別される。",
+      "habitat_hint": "暖地の常緑樹林の林床、林縁、やや乾いた斜面。",
+      "finding_tips": "通年、暖地の林床で二回羽状の常緑のシダを探し、葉裏のソーラスに包膜が残るか確認します。残存する包膜が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen wood fern of warm-region forest floor and edges. It resembles Dryopteris gymnosora but is distinguished by well-persistent indusia over the sori.",
+      "habitat_hint": "Warm-region evergreen forest floor, edges and somewhat dry slopes.",
+      "finding_tips": "Year-round on warm-region forest floor look for a bipinnate evergreen fern and check for persistent indusia on the sori. The persistent indusia are diagnostic."
+    },
+    "zh": {
+      "summary": "具盖鳞毛蕨（ヌカイタチシダモドキ）。鳞毛蕨科鳞毛蕨属常绿蕨类，生于暖地林床和林缘。似裸囊鳞毛蕨，但孢子囊群的囊群盖宿存，可资区别。",
+      "habitat_hint": "暖地常绿林林床、林缘、略干坡地。",
+      "finding_tips": "全年，于暖地林床寻找二回羽状常绿蕨，查看孢子囊群是否具宿存囊群盖。宿存囊群盖为辨识点。"
+    }
+  },
+  "Dysstroma citrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark Marbled Carpet",
+    "ja": {
+      "summary": "ツマキナカジロナミシャク。シャクガ科ナミシャク亜科のガで、前翅の模様の変異が大きい。中央に淡色の帯、翅端に暗色部をもつ個体が多い。冷涼な山地の林にすみ、幼虫は木本の葉を食べる。",
+      "habitat_hint": "冷涼な山地の落葉樹林、林縁。",
+      "finding_tips": "夏〜秋の夜、山地で灯火に来る中央に淡帯をもつ変異の多いガを探します。翅端の暗色部が識別の手がかり。"
+    },
+    "en": {
+      "summary": "The Dark Marbled Carpet, a highly variable geometrid. Many individuals show a pale central band and a dark wing-tip. It lives in cool montane woodland, the larvae feeding on woody foliage.",
+      "habitat_hint": "Cool montane deciduous woodland and edges.",
+      "finding_tips": "On summer-autumn nights in mountains look at lights for a variable moth with a pale central band. The dark wing-tip is a useful clue."
+    },
+    "zh": {
+      "summary": "端斑波尺蛾（ツマキナカジロナミシャク）。尺蛾科波尺蛾亚科的蛾，前翅斑纹变异大，多数中央具淡色带、翅端具暗色区。栖于冷凉山地林，幼虫食木本叶片。",
+      "habitat_hint": "冷凉山地落叶林、林缘。",
+      "finding_tips": "夏至秋夜间，于山地灯下寻找中央具淡带、变异多的蛾。翅端暗色区为辨识线索。"
+    }
+  },
+  "Ecliptopera capitata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Streamside carpet moth",
+    "ja": {
+      "summary": "セキナミシャク。シャクガ科ナミシャク亜科のガで、前翅は暗褐色に淡色の横帯が入る。沢沿いや湿った林にすみ、幼虫はツリフネソウ類などの草本を食べる。",
+      "habitat_hint": "沢沿い、湿った林縁、山地の渓流沿い。",
+      "finding_tips": "初夏〜秋の夜、沢沿いで灯火に来る暗褐色に淡帯のガを探します。前翅の淡色横帯が識別点。"
+    },
+    "en": {
+      "summary": "A carpet moth of the Geometridae with dark-brown forewings crossed by a pale band. It lives along streams and in damp woodland, the larvae feeding on balsam and other herbs.",
+      "habitat_hint": "Streamsides, damp woodland edges and montane brooks.",
+      "finding_tips": "On early-summer to autumn nights along streams look at lights for a dark-brown moth with a pale band. The pale forewing band is diagnostic."
+    },
+    "zh": {
+      "summary": "溪波尺蛾（セキナミシャク）。尺蛾科波尺蛾亚科的蛾，前翅暗褐色具淡色横带。栖于溪旁和湿润林，幼虫食凤仙花类等草本。",
+      "habitat_hint": "溪旁、湿润林缘、山地溪流沿岸。",
+      "finding_tips": "初夏至秋夜间，于溪旁灯下寻找暗褐色具淡带的蛾。前翅淡色横带为辨识点。"
+    }
+  },
+  "Ectinus sericeus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silky click beetle",
+    "ja": {
+      "summary": "カバイロコメツキ。コメツキムシ科の甲虫で、体は樺（かば）色の細かい毛におおわれ絹のような光沢がある。ひっくり返ると胸をはねて跳ね起きるコメツキ特有の動きをする。草地や林縁に見られる。",
+      "habitat_hint": "草地、林縁、河川敷などの下草や地表。",
+      "finding_tips": "春〜夏、草地や下草で樺色に絹光沢のある細長い甲虫を探します。裏返すと跳ね起きる行動が識別点。"
+    },
+    "en": {
+      "summary": "A click beetle clothed in fine birch-brown silky hairs. Like all click beetles it snaps its thorax to leap upright when overturned; it occurs in grassland and woodland edges.",
+      "habitat_hint": "Grassland, woodland edges and floodplain undergrowth and ground.",
+      "finding_tips": "From spring to summer in grass look for an elongate birch-brown beetle with a silky sheen. Its snap-and-leap righting behaviour is diagnostic."
+    },
+    "zh": {
+      "summary": "绢毛叩甲（カバイロコメツキ）。叩甲科甲虫，体被桦褐色细毛、具丝绢光泽。翻身时弹胸跳起，为叩甲特有动作。见于草地和林缘。",
+      "habitat_hint": "草地、林缘、河滩下草与地表。",
+      "finding_tips": "春至夏，于草地或下草寻找桦褐色具丝绢光泽的细长甲虫。翻身弹跳为辨识点。"
+    }
+  },
+  "Electrophaes corylata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broken-barred Carpet",
+    "ja": {
+      "summary": "キンオビナミシャク。シャクガ科ナミシャク亜科のガで、前翅に金褐色の帯が入る。低山〜山地の落葉樹林にすみ、幼虫はカバノキ科やバラ科などの木本の葉を食べる。",
+      "habitat_hint": "低山〜山地の落葉樹林、林縁。",
+      "finding_tips": "春〜初夏の夜、灯火に来る金褐色の帯をもつ中型のガを探します。前翅の金褐色帯が識別点。"
+    },
+    "en": {
+      "summary": "The Broken-barred Carpet, a geometrid with a golden-brown band across the forewing. It lives in low-mountain to montane deciduous woodland, the larvae feeding on birch- and rose-family trees.",
+      "habitat_hint": "Deciduous woodland and edges from low hills to mountains.",
+      "finding_tips": "On spring to early-summer nights look at lights for a medium moth with a golden-brown band. The golden-brown forewing band is diagnostic."
+    },
+    "zh": {
+      "summary": "金带波尺蛾（キンオビナミシャク）。尺蛾科波尺蛾亚科的蛾，前翅具金褐色带。栖于低山至山地落叶林，幼虫食桦木科、蔷薇科等木本叶片。",
+      "habitat_hint": "低山至山地落叶林、林缘。",
+      "finding_tips": "春至初夏夜间，于灯下寻找具金褐色带的中型蛾。前翅金褐色带为辨识点。"
+    }
+  },
+  "Eleocharis mamillata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Soft-stem spikerush",
+    "ja": {
+      "summary": "ヌマハリイ。カヤツリグサ科ハリイ属の多年草で、湿地や池沼、水田の縁に群生する。葉のない細い緑色の茎の先に小さな穂を一つつける。湿地に密な群落をつくる。",
+      "habitat_hint": "湿地、池沼の縁、水田、水路沿いの浅水域。",
+      "finding_tips": "6〜9月、湿地で葉のない細い茎の先に一つの小穂をつける草を密生させるのを探します。針状の茎と頂生の小穂が識別点。"
+    },
+    "en": {
+      "summary": "A spikerush of the sedge family forming colonies at wetland, pond and paddy margins. Leafless slender green stems each bear a single small spike at the tip; it makes dense stands in marsh.",
+      "habitat_hint": "Wetlands, pond margins, paddies and shallow water along channels.",
+      "finding_tips": "From June to September look in marshes for dense leafless slender stems each topped by one small spike. The needle-like stems and terminal spikes are diagnostic."
+    },
+    "zh": {
+      "summary": "沼生荸荠（ヌマハリイ）。莎草科荸荠属多年生草本，成片生于湿地、池沼边缘和稻田旁。无叶的细绿茎顶端各具一枚小穗，在湿地形成密丛。",
+      "habitat_hint": "湿地、池沼边缘、稻田、水道旁浅水。",
+      "finding_tips": "6 至 9 月，于湿地寻找密生、无叶细茎顶生单一小穗之草。针状茎与顶生小穗为辨识点。"
+    }
+  },
+  "Eleocharis maximowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maximowicz's spikerush",
+    "ja": {
+      "summary": "エゾハリイ。カヤツリグサ科ハリイ属の多年草で、北日本の湿地や池沼の縁に生える。葉のない細い茎の先に小さな穂をつけ、地下茎を伸ばして群生する。",
+      "habitat_hint": "北日本の湿地、池沼の縁、湿った草地。",
+      "finding_tips": "6〜8月、北日本の湿地で葉のない細い茎の先に小穂をつける草を探します。地下茎で広がる群生と針状の茎が識別点。"
+    },
+    "en": {
+      "summary": "Maximowicz's spikerush, a perennial sedge of northern-Japan wetland and pond margins. Leafless slender stems bear a small spike at the tip, spreading into colonies by rhizomes.",
+      "habitat_hint": "Northern-Japan wetlands, pond margins and wet grassland.",
+      "finding_tips": "From June to August in northern wetlands look for leafless slender stems tipped with a small spike. Rhizomatous colonies and needle-like stems are diagnostic."
+    },
+    "zh": {
+      "summary": "虾夷荸荠（エゾハリイ）。莎草科荸荠属多年生草本，生于日本北部湿地和池沼边缘。无叶细茎顶端具小穗，以根状茎蔓延成丛。",
+      "habitat_hint": "日本北部湿地、池沼边缘、湿润草地。",
+      "finding_tips": "6 至 8 月，于北部湿地寻找无叶细茎顶生小穗之草。根状茎蔓延成丛与针状茎为辨识点。"
+    }
+  },
+  "Elymus dahuricus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "披碱草"
+    },
+    "ja": {
+      "summary": "ハマムギ。イネ科エゾムギ属の多年草で、河原や海岸、荒れ地に生える。直立した茎の先に細長い穂状花序をつけ、小穂には短い芒がある。株立ちして群生する。",
+      "habitat_hint": "河原、海岸、荒れ地、道端の日当たりのよい場所。",
+      "finding_tips": "6〜8月、河原や荒れ地で直立した茎の先に細長い穂をつける大型のイネ科を探します。芒のある密な穂が識別点。"
+    },
+    "en": {
+      "summary": "A wildrye grass of riverbanks, coasts and waste ground. Erect stems carry a slender spike-like inflorescence with short-awned spikelets; it forms tufted stands.",
+      "habitat_hint": "Riverbanks, coasts, waste ground and sunny roadsides.",
+      "finding_tips": "From June to August on riverbanks and waste ground look for a tall grass with a slender spike at the stem tip. The dense short-awned spike is diagnostic."
+    },
+    "zh": {
+      "summary": "披碱草（ハマムギ）。禾本科披碱草属多年生草本，生于河滩、海岸和荒地。直立茎顶端具细长穗状花序，小穗具短芒，丛生成片。",
+      "habitat_hint": "河滩、海岸、荒地、向阳路旁。",
+      "finding_tips": "6 至 8 月，于河滩或荒地寻找茎顶具细长穗的大型禾草。具芒的密穗为辨识点。"
+    }
+  },
+  "Elysia nigrocapitata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Solar-powered sea slug",
+    "ja": {
+      "summary": "イズミミドリガイ。嚢舌目のウミウシで、緑色の体をもつ。食べた海藻の葉緑体を体内に取り込んで光合成に利用する「盗葉緑体」で知られる。潮間帯の緑藻の上に見られる。",
+      "habitat_hint": "潮間帯〜浅海の緑藻の上、潮だまり。",
+      "finding_tips": "春〜夏、潮だまりの緑藻の上で葉のような突起をもつ緑色の小さなウミウシを探します。海藻に紛れる緑色の体が識別点。"
+    },
+    "en": {
+      "summary": "A green sacoglossan sea slug famous for kleptoplasty — it keeps chloroplasts from the algae it eats and uses them to photosynthesise. It is found on intertidal green algae.",
+      "habitat_hint": "Intertidal to shallow green algae and tide pools.",
+      "finding_tips": "From spring to summer look on green algae in pools for a small green slug with leaf-like flaps. Its algae-mimicking green body is diagnostic."
+    },
+    "zh": {
+      "summary": "黑头海天牛（イズミミドリガイ）。囊舌目海蛞蝓，体绿色。以“盗食体”著称——保留所食海藻的叶绿体用于光合作用。见于潮间带绿藻之上。",
+      "habitat_hint": "潮间带至浅海绿藻上、潮池。",
+      "finding_tips": "春至夏，于潮池绿藻上寻找具叶状突起的绿色小海蛞蝓。混于海藻的绿色体为辨识点。"
+    }
+  },
+  "Ephippianthus sachalinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "One-leaf woodland orchid",
+    "ja": {
+      "summary": "コイチヨウラン。ラン科コイチヨウラン属の小型の地生ランで、山地の針葉樹林やコケむした林床に生える。1枚の葉をもち、細い花茎に淡緑褐色の小さな花を数個つける。",
+      "habitat_hint": "山地の針葉樹林、コケむした湿った林床。",
+      "finding_tips": "7〜8月、山地の暗い林床で1枚の葉と細い花茎に淡緑褐色の小花をつけるランを探します。単葉と地味な花が識別点。"
+    },
+    "en": {
+      "summary": "A small terrestrial orchid of montane coniferous forest and mossy forest floor. It has a single leaf and bears a few small greenish-brown flowers on a slender scape.",
+      "habitat_hint": "Montane coniferous forest and mossy, damp forest floor.",
+      "finding_tips": "From July to August on shady montane forest floor look for an orchid with one leaf and small greenish-brown flowers on a slender stalk. The single leaf and dull flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "一叶兰（コイチヨウラン）。兰科一叶兰属小型地生兰，生于山地针叶林和藓覆林床。具单叶，细花茎上着生数朵淡绿褐色小花。",
+      "habitat_hint": "山地针叶林、藓覆湿润林床。",
+      "finding_tips": "7 至 8 月，于山地阴暗林床寻找具单叶、细茎着生淡绿褐色小花的兰。单叶与朴素花为辨识点。"
+    }
+  },
+  "Epitonium japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese wentletrap",
+    "ja": {
+      "summary": "ヒメネジガイ。イトカケガイ科の小型の巻貝で、白色の殻に縦に走る板状のひれ（縦肋）が規則正しく並ぶ。潮間帯〜浅海の砂底にすみ、イソギンチャクなどを食べる。",
+      "habitat_hint": "潮間帯〜浅海の砂底、砂泥底。",
+      "finding_tips": "干潮時、砂底で白色の塔形の殻に規則的な縦の板状肋をもつ小さな巻貝を探します。整った縦肋が識別点。"
+    },
+    "en": {
+      "summary": "A small white wentletrap with regularly spaced blade-like axial ribs. It lives on sand from the intertidal to shallow subtidal and feeds on sea anemones.",
+      "habitat_hint": "Intertidal to shallow sand and sand-mud bottoms.",
+      "finding_tips": "At low tide look on sand for a small white tower-shaped shell with regular blade-like ribs. The neat axial ribs are diagnostic."
+    },
+    "zh": {
+      "summary": "日本梯螺（ヒメネジガイ）。梯螺科小型螺类，白色壳上具规则排列的板状纵肋。栖于潮间带至浅海砂底，取食海葵。",
+      "habitat_hint": "潮间带至浅海砂底、砂泥底。",
+      "finding_tips": "退潮时，于砂底寻找白色塔形、具规则板状纵肋的小螺。整齐纵肋为辨识点。"
+    }
+  },
+  "Epuraea ocularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モンチビヒラタケシキスイ。ケシキスイ科の微小な甲虫で、扁平な体に淡色の紋がある。発酵した樹液や熟果、腐敗した植物に集まり、菌や酵母を食べる。",
+      "habitat_hint": "発酵した樹液、熟果、腐敗植物、堆肥。",
+      "finding_tips": "春〜秋、樹液や熟果に集まる扁平で小さな褐色の甲虫を探します。淡色の紋と微小な体が識別点。"
+    },
+    "en": {
+      "summary": "A tiny sap beetle with a flattened body marked with pale spots. It gathers at fermenting sap, ripe fruit and rotting plant matter, feeding on fungi and yeasts.",
+      "habitat_hint": "Fermenting sap, ripe fruit, rotting plants and compost.",
+      "finding_tips": "From spring to autumn at sap and ripe fruit look for a tiny flattened brown beetle. Pale spots and its minute size are diagnostic."
+    },
+    "zh": {
+      "summary": "斑露尾甲（モンチビヒラタケシキスイ）。露尾甲科微小甲虫，体扁平、具淡色斑。聚集于发酵树液、熟果和腐败植物，取食真菌与酵母。",
+      "habitat_hint": "发酵树液、熟果、腐败植物、堆肥。",
+      "finding_tips": "春至秋，于树液或熟果处寻找扁平的褐色微小甲虫。淡色斑与极小体形为辨识点。"
+    }
+  },
+  "Eriocaulon nudicuspe": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-ball pipewort",
+    "ja": {
+      "summary": "シラタマホシクサ。ホシクサ科の一年草で、東海地方の湧水湿地に固有的に生える希少植物。細い花茎の先に白い球状の頭花をつけ、「金平糖」のように見える。開発で激減し保護対象。",
+      "habitat_hint": "東海地方の貧栄養な湧水湿地、砂質の湿地。",
+      "finding_tips": "9〜10月、湧水湿地で細い花茎の先に白い球状の頭花をつける草を探します。金平糖状の白い球花が識別点。"
+    },
+    "en": {
+      "summary": "A rare annual pipewort largely confined to spring-fed mires of the Tokai region. Slender scapes each bear a spherical white flower-head like a sugar-candy ball; much reduced by development and now protected.",
+      "habitat_hint": "Nutrient-poor spring-fed and sandy mires of the Tokai region.",
+      "finding_tips": "From September to October in spring-fed mires look for slender stalks each topped by a white ball of flowers. The candy-ball white heads are diagnostic."
+    },
+    "zh": {
+      "summary": "白玉谷精草（シラタマホシクサ）。谷精草科一年生草本，几近特产于日本东海地区的涌泉湿地，为稀有植物。细花茎顶端具白色球状头花，形如金平糖。因开发锐减，受保护。",
+      "habitat_hint": "东海地区贫营养涌泉湿地、砂质湿地。",
+      "finding_tips": "9 至 10 月，于涌泉湿地寻找细茎顶生白色球状头花之草。金平糖状白色球花为辨识点。"
+    }
+  },
+  "Eubranchus horii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hori's eolid nudibranch",
+    "ja": {
+      "summary": "ホリミノウミウシ。ミノウミウシ類のウミウシで、背中にこん棒状の突起（ミノ）を多数もつ。ミノの中に刺胞動物の刺胞を取り込んで防御に使う。潮間帯〜浅海のヒドロ虫の上にすむ。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、ヒドロ虫（刺胞動物）の群体上。",
+      "finding_tips": "春〜夏、ヒドロ虫の生える岩上で背中にこん棒状のミノをもつ小さなウミウシを探します。膨らんだミノ突起が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch bearing many club-shaped dorsal projections (cerata). It stores stinging cells from hydroids in the cerata for defence, and lives on hydroids from the intertidal to shallow subtidal.",
+      "habitat_hint": "Intertidal to shallow reef, on hydroid colonies.",
+      "finding_tips": "From spring to summer on hydroid-covered rock look for a small slug with club-shaped dorsal cerata. The swollen cerata are diagnostic."
+    },
+    "zh": {
+      "summary": "堀氏蓑海蛞蝓（ホリミノウミウシ）。蓑海蛞蝓类，背部具多枚棒状突起（蓑突）。将所食水螅的刺细胞贮于蓑突用于防御。栖于潮间带至浅海水螅群体上。",
+      "habitat_hint": "潮间带至浅海岩礁、水螅群体上。",
+      "finding_tips": "春至夏，于生有水螅的岩上寻找背具棒状蓑突的小海蛞蝓。膨大蓑突为辨识点。"
+    }
+  },
+  "Eucladium verticillatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whorled Tufa-moss",
+    "ja": {
+      "summary": "ダンダンゴケ。センボンゴケ科のコケで、石灰分を含む湧水のしみ出す岩壁に生える。体に炭酸カルシウムを沈着させ、トゥファ（石灰華）を段々に形成することが和名の由来。",
+      "habitat_hint": "石灰岩地の湧水のしみ出す岩壁、洞窟の入口、滴水地。",
+      "finding_tips": "通年、石灰岩の滴水する岩壁で段々に石灰華を作る緑色のコケを探します。石灰華の段状構造が識別点。"
+    },
+    "en": {
+      "summary": "The whorled tufa-moss, growing on limestone rock faces where calcareous water seeps. It deposits calcium carbonate to build stepped tufa (travertine), giving its Japanese name ('stepped moss').",
+      "habitat_hint": "Seeping limestone rock faces, cave entrances and dripping sites.",
+      "finding_tips": "Year-round on dripping limestone faces look for a green moss building stepped tufa. The stepped travertine deposits are diagnostic."
+    },
+    "zh": {
+      "summary": "钙生扭口藓（ダンダンゴケ）。丛藓科藓类，生于石灰质涌水渗出的岩壁。体内沉积碳酸钙，层层形成石灰华（钙华），为和名（阶梯藓）由来。",
+      "habitat_hint": "石灰岩涌水渗出岩壁、洞口、滴水处。",
+      "finding_tips": "全年，于石灰岩滴水岩壁寻找层层形成钙华的绿色藓。阶梯状钙华为辨识点。"
+    }
+  },
+  "Euhadra idzumonis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Izumo land snail",
+    "ja": {
+      "summary": "イズモマイマイ。ナンバンマイマイ科の大型のカタツムリで、山陰地方（出雲）を中心に分布する。殻は褐色の帯をもち平たい円錐形。湿った林や林縁に見られ、落葉や菌類を食べる。",
+      "habitat_hint": "山陰地方の湿った樹林、林縁、社寺林。",
+      "finding_tips": "梅雨〜秋、雨後の林で褐色の帯をもつ大型のカタツムリを探します。平たい円錐形の殻と帯模様が識別点。"
+    },
+    "en": {
+      "summary": "A large land snail centred on the San'in (Izumo) region. Its brown-banded shell is a low, flattened cone; it lives in damp woodland and edges, eating leaf litter and fungi.",
+      "habitat_hint": "Damp woodland, edges and shrine forest of the San'in region.",
+      "finding_tips": "From the rainy season to autumn after rain look in woodland for a large snail with a brown-banded shell. The low conical banded shell is diagnostic."
+    },
+    "zh": {
+      "summary": "出云蜗牛（イズモマイマイ）。南蛮蜗牛科大型蜗牛，以山阴地区（出云）为中心分布。壳具褐色带、呈低扁圆锥形。见于湿润林和林缘，取食落叶与真菌。",
+      "habitat_hint": "山阴地区湿润树林、林缘、社寺林。",
+      "finding_tips": "梅雨至秋，雨后于林中寻找具褐色带的大型蜗牛。低扁圆锥壳与带纹为辨识点。"
+    }
+  },
+  "Eulalia viridis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green paddle worm",
+    "ja": {
+      "summary": "サミドリサシバ。サシバゴカイ科の多毛類（ゴカイの仲間）で、体は鮮やかな緑色で金属光沢がある。細長い体の側部に葉状の突起（疣足）が並ぶ。潮間帯の岩礁や転石の下にすむ肉食性の環形動物。",
+      "habitat_hint": "潮間帯の岩礁、転石の下、砂礫の間。",
+      "finding_tips": "干潮時、岩や転石の下で鮮やかな緑色に光る細長い多毛類を探します。金属光沢のある緑色の体が識別点。"
+    },
+    "en": {
+      "summary": "The green paddle worm, a polychaete with a brilliantly green, iridescent body. Leaf-like lobes (parapodia) line its slender sides; it is a predatory annelid of intertidal reef and boulder undersides.",
+      "habitat_hint": "Intertidal reef, undersides of boulders and among gravel.",
+      "finding_tips": "At low tide under rocks and boulders look for a slender worm gleaming bright green. Its iridescent green body is diagnostic."
+    },
+    "zh": {
+      "summary": "绿叶须虫（サミドリサシバ）。叶须虫科多毛类（沙蚕类），体鲜绿色具金属光泽。细长体侧列生叶状突起（疣足）。为潮间带岩礁和砾石下的肉食性环节动物。",
+      "habitat_hint": "潮间带岩礁、砾石下、砂砾间。",
+      "finding_tips": "退潮时，于岩石或砾石下寻找泛鲜绿光泽的细长多毛类。金属绿色之体为辨识点。"
+    }
+  },
+  "Euonymus lanceolatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lance-leaf spindle",
+    "ja": {
+      "summary": "ムラサキマユミ。ニシキギ科ニシキギ属の落葉低木で、山地の林縁や岩場に生える。マユミに似るが、熟すと紫紅色に裂ける果実が名の由来。中から橙赤色の仮種皮に包まれた種子がのぞく。",
+      "habitat_hint": "山地の林縁、岩場、沢沿いの明るい林。",
+      "finding_tips": "秋、山地の林縁で紫紅色に裂ける果実と橙赤色の種子をもつ低木を探します。紫紅色の裂開果が識別点。"
+    },
+    "en": {
+      "summary": "A deciduous spindle shrub of montane woodland edges and rocky places. It resembles the common spindle but is named for its fruit that ripens purple-red and splits, revealing seeds in an orange-red aril.",
+      "habitat_hint": "Montane woodland edges, rocky places and bright streamside woods.",
+      "finding_tips": "In autumn at montane woodland edges look for a shrub with purple-red splitting fruit and orange-red seeds. The purple-red capsules are diagnostic."
+    },
+    "zh": {
+      "summary": "紫花卫矛（ムラサキマユミ）。卫矛科卫矛属落叶灌木，生于山地林缘和岩地。似真弓卫矛，但果实成熟时呈紫红色开裂，为名之由来，内露橙红色假种皮包被的种子。",
+      "habitat_hint": "山地林缘、岩地、沟旁明亮林。",
+      "finding_tips": "秋季，于山地林缘寻找果实紫红开裂、种子橙红的灌木。紫红色开裂蒴果为辨识点。"
+    }
+  },
+  "Eupatorium fortunei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "佩兰"
+    },
+    "ja": {
+      "summary": "コバノフジバカマ。キク科ヒヨドリバナ属の多年草で、中国原産。乾かすと桜餅のような芳香を放ち、古くから香草・薬草として利用されてきた。淡紅紫色の小さな頭花を散房状につける。",
+      "habitat_hint": "栽培地、河川敷、やや湿った草地に逸出。",
+      "finding_tips": "8〜10月、草地や河川敷で三裂する葉と淡紅紫色の散房状の頭花をもつ草を探します。乾くと漂う芳香が識別点。"
+    },
+    "en": {
+      "summary": "A perennial boneset of Chinese origin. When dried it releases a cherry-leaf fragrance and has long been used as an aromatic and medicinal herb. It bears pale pink-purple flower-heads in flat clusters.",
+      "habitat_hint": "Cultivated ground, floodplains and somewhat damp grassland (escaped).",
+      "finding_tips": "From August to October in grassland look for a plant with three-lobed leaves and pale pink-purple clustered heads. Its fragrance when dried is diagnostic."
+    },
+    "zh": {
+      "summary": "佩兰（コバノフジバカマ）。菊科泽兰属多年生草本，原产中国。干后散发似樱饼的芳香，自古作香草、药草。淡红紫色小头状花排成伞房状。",
+      "habitat_hint": "栽培地、河滩、略湿草地逸生。",
+      "finding_tips": "8 至 10 月，于草地或河滩寻找叶三裂、伞房状淡红紫色头花之草。干后芳香为辨识点。"
+    }
+  },
+  "Eupatorium laciniatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cut-leaf boneset",
+    "ja": {
+      "summary": "サケバヒヨドリ。キク科ヒヨドリバナ属の多年草で、山地の草地や林縁に生える。葉が深く裂けることが和名の由来。淡紅色〜白色の小さな頭花を散房状に多数つける。",
+      "habitat_hint": "山地の草地、林縁、やや乾いた斜面。",
+      "finding_tips": "8〜10月、山地の草地で深く裂けた葉と淡紅〜白色の散房状の頭花をもつ草を探します。深裂する葉が識別点。"
+    },
+    "en": {
+      "summary": "A cut-leaf boneset of montane grassland and woodland edges, named in Japanese for its deeply divided leaves. It bears many small pale-pink to white flower-heads in flat clusters.",
+      "habitat_hint": "Montane grassland, woodland edges and somewhat dry slopes.",
+      "finding_tips": "From August to October in mountain grassland look for a plant with deeply cut leaves and pale-pink to white clustered heads. The deeply divided leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "裂叶泽兰（サケバヒヨドリ）。菊科泽兰属多年生草本，生于山地草地和林缘。叶深裂，为和名由来。淡红至白色小头状花多数排成伞房状。",
+      "habitat_hint": "山地草地、林缘、略干坡地。",
+      "finding_tips": "8 至 10 月，于山地草地寻找叶深裂、伞房状淡红至白色头花之草。深裂叶为辨识点。"
+    }
+  },
+  "Euphorbia makinoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Makino's sandmat",
+    "ja": {
+      "summary": "コバノニシキソウ。トウダイグサ科ニシキソウ属の一年草で、暖地の道端や畑地、海岸に生える。茎は地を這って広がり、対生する小さな葉と目立たない杯状花序をつける。傷つくと白い乳液を出す。",
+      "habitat_hint": "暖地の道端、畑地、海岸の砂地、荒れ地。",
+      "finding_tips": "夏〜秋、道端で地を這う茎に小さな対生葉をつける草を探します。傷つくと出る白い乳液が識別点。"
+    },
+    "en": {
+      "summary": "Makino's sandmat, a prostrate annual spurge of warm-region roadsides, fields and coasts. Creeping stems bear small opposite leaves and inconspicuous cup-shaped inflorescences; it exudes white latex when cut.",
+      "habitat_hint": "Warm-region roadsides, fields, sandy coasts and waste ground.",
+      "finding_tips": "From summer to autumn on roadsides look for a plant with creeping stems and small opposite leaves. The white latex from a cut stem is diagnostic."
+    },
+    "zh": {
+      "summary": "小叶地锦草（コバノニシキソウ）。大戟科地锦属一年生草本，生于暖地路旁、农田和海岸。茎匍匐铺展，具对生小叶及不显眼的杯状花序，损伤时流白色乳汁。",
+      "habitat_hint": "暖地路旁、农田、海岸沙地、荒地。",
+      "finding_tips": "夏至秋，于路旁寻找茎匍匐、具对生小叶之草。损伤流白色乳汁为辨识点。"
+    }
   }
 }
