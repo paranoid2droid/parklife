@@ -246473,5 +246473,544 @@
       "habitat_hint": "热带、亚热带海岸林、后滩、海岸灌丛。",
       "finding_tips": "夜间，于海岸林寻找背负大螺壳的暗紫色寄居蟹。体大且暗紫褐色为辨识点。"
     }
+  },
+  "Cetrelia nuda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea-storm lichen",
+    "ja": {
+      "summary": "トコブシゴケ。ウメノキゴケ科の葉状地衣で、灰緑色の大きな裂片が樹皮や岩上に広がる。裏面は黒く、縁や表面に粉芽（ソレディア）をつけて増える。湿った林内に多い。",
+      "habitat_hint": "湿った樹林の樹皮、岩上、苔むした基部。",
+      "finding_tips": "通年、林内の樹皮で灰緑色の大きな葉状地衣を探します。黒い裏面と縁の粉芽が識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen with large grey-green lobes spreading over bark and rock. The underside is black and it reproduces by marginal and surface soredia; common in humid forest.",
+      "habitat_hint": "Bark, rock and mossy trunk bases in humid forest.",
+      "finding_tips": "Year-round look on forest bark for a large grey-green leafy lichen. Its black underside and soredia are diagnostic."
+    },
+    "zh": {
+      "summary": "裸斑叶（トコブシゴケ）。梅衣科叶状地衣，灰绿色大裂片铺展于树皮和岩上。下面黑色，以边缘及表面粉芽（粉芽体）繁殖，多见于湿润林内。",
+      "habitat_hint": "湿润树林树皮、岩上、藓覆树基。",
+      "finding_tips": "全年，于林内树皮寻找灰绿色大型叶状地衣。黑色下面与边缘粉芽为辨识点。"
+    }
+  },
+  "Chama dunkeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dunker's jewel box",
+    "ja": {
+      "summary": "ケイトウガイ。キクザルガイ科の二枚貝で、片方の殻で岩に固着する。殻表に鶏冠（けいとう）状のひだ状突起が並ぶことが和名の由来。潮間帯〜浅海の岩礁にすむ。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石の裏。",
+      "finding_tips": "干潮時、岩に固着した鶏冠状のひだをもつ二枚貝を探します。片殻固着とひだ状突起が識別点。"
+    },
+    "en": {
+      "summary": "A jewel box clam that cements to rock by one valve, its shell ridged with cockscomb-like frilly projections that give the Japanese name. It lives on intertidal to shallow rocky reefs.",
+      "habitat_hint": "Intertidal to shallow rocky reefs, undersides of boulders.",
+      "finding_tips": "At low tide look for a cemented bivalve with cockscomb-like frills on rock. One-valve attachment and frilly ridges are diagnostic."
+    },
+    "zh": {
+      "summary": "鸡冠猿头蛤（ケイトウガイ）。猿头蛤科双壳类，以一壳固着于岩石。壳面具鸡冠状褶突排列，为和名由来。栖于潮间带至浅海岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁、砾石底面。",
+      "finding_tips": "退潮时，于岩上寻找具鸡冠状褶突的固着双壳贝。单壳固着与褶突为辨识点。"
+    }
+  },
+  "Coccocarpia palmicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Powdery shingle lichen",
+    "ja": {
+      "summary": "コナカワラゴケ。カワラゴケ科の葉状地衣で、藍藻を共生させる青灰色〜鉛灰色の地衣。湿った樹皮や苔むした岩上に瓦を重ねたように広がり、表面に粉芽をつける。",
+      "habitat_hint": "湿潤な林内の樹皮、苔むした岩上。",
+      "finding_tips": "通年、湿った林内の樹皮で瓦状に重なる青灰色の葉状地衣を探します。粉芽と鉛灰色の色調が識別点。"
+    },
+    "en": {
+      "summary": "A cyanolichen with a blue-grey to lead-grey thallus. It spreads shingle-like over damp bark and mossy rock in humid forest and bears surface soredia.",
+      "habitat_hint": "Bark and mossy rock in humid forest.",
+      "finding_tips": "Year-round look on damp forest bark for a shingle-like blue-grey leafy lichen. Soredia and the lead-grey colour are diagnostic."
+    },
+    "zh": {
+      "summary": "粉黏鳞衣（コナカワラゴケ）。黏黑蜷科叶状地衣，与蓝藻共生，体呈蓝灰至铅灰色。在湿润林内树皮及藓覆岩上如叠瓦铺展，表面生粉芽。",
+      "habitat_hint": "湿润林内树皮、藓覆岩上。",
+      "finding_tips": "全年，于湿润林内树皮寻找叠瓦状铺展的蓝灰色叶状地衣。粉芽与铅灰色调为辨识点。"
+    }
+  },
+  "Coleosporium clematidis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clematis rust",
+    "ja": {
+      "summary": "センニンソウのサビ病菌。サビキン目のさび病菌で、センニンソウなどのキンポウゲ科植物に寄生する。葉裏に橙黄色の粉状の胞子塊（夏胞子・冬胞子）を作り、宿主の葉を黄変させる。マツ類を中間宿主とする。",
+      "habitat_hint": "センニンソウなどキンポウゲ科植物の生える林縁、やぶ。",
+      "finding_tips": "初夏〜秋、センニンソウの葉裏に橙黄色の粉状のさび状斑を探します。葉裏の橙色胞子塊が識別点。"
+    },
+    "en": {
+      "summary": "A rust fungus parasitising Clematis and other buttercup-family plants. It forms powdery orange-yellow spore masses on the leaf underside, yellowing the host's leaves; pines serve as alternate host.",
+      "habitat_hint": "Woodland edges and thickets where Clematis grows.",
+      "finding_tips": "From early summer to autumn look on Clematis leaf undersides for powdery orange-yellow rust spots. The orange spore masses are diagnostic."
+    },
+    "zh": {
+      "summary": "铁线莲锈菌（センニンソウのサビ病菌）。锈菌目的锈病菌，寄生于铁线莲等毛茛科植物。于叶背形成橙黄色粉状孢子堆（夏孢子、冬孢子），使寄主叶片变黄；以松类为转主寄主。",
+      "habitat_hint": "生有铁线莲等毛茛科植物的林缘、灌丛。",
+      "finding_tips": "初夏至秋，于铁线莲叶背寻找橙黄色粉状锈斑。叶背橙色孢子堆为辨识点。"
+    }
+  },
+  "Cololejeunea pseudofloccosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf-dwelling liverwort",
+    "ja": {
+      "summary": "オビナシヨウジョウゴケ。クサリゴケ科の微小な葉上性の苔類で、常緑樹の葉の表面や樹皮に薄く広がる。肉眼では緑色の薄い膜のように見え、ルーペで見ると細かい葉が重なる。",
+      "habitat_hint": "湿潤な常緑樹林の生葉の表面、樹皮。",
+      "finding_tips": "通年、湿った林内の常緑樹の葉表で緑色の薄い膜状のものを探し、ルーペで細かい葉を確認します。葉上に生えることが識別点。"
+    },
+    "en": {
+      "summary": "A minute leaf-dwelling liverwort of the Lejeuneaceae, spreading thinly over the surface of evergreen leaves and bark. It looks like a thin green film to the naked eye, resolving into overlapping tiny leaves under a lens.",
+      "habitat_hint": "Living evergreen leaf surfaces and bark in humid forest.",
+      "finding_tips": "Year-round look on evergreen leaf surfaces for a thin green film, then check overlapping tiny leaves with a lens. Growing on living leaves is diagnostic."
+    },
+    "zh": {
+      "summary": "拟绒疣鳞苔（オビナシヨウジョウゴケ）。细鳞苔科的微小叶附生苔类，薄薄铺展于常绿树生叶表面及树皮。肉眼似绿色薄膜，放大镜下可见细小叶片相叠。",
+      "habitat_hint": "湿润常绿林生叶表面、树皮。",
+      "finding_tips": "全年，于湿润林内常绿叶面寻找绿色薄膜状物，用放大镜确认细小叶片。生于活叶上为辨识点。"
+    }
+  },
+  "Corallina pilulifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coralline red alga",
+    "ja": {
+      "summary": "ピリヒバ。サンゴモ科の紅藻で、体に石灰を沈着させて硬くなる。淡紅色〜白色の節をもつ枝が羽状に分岐し、潮間帯の岩や潮だまりに群生する。乾くと白っぽくなる。",
+      "habitat_hint": "潮間帯の岩上、潮だまり、波当たりのある岩礁。",
+      "finding_tips": "通年、潮だまりの岩上で石灰質で硬く節のある淡紅色の海藻を探します。羽状分岐と石灰質の硬さが識別点。"
+    },
+    "en": {
+      "summary": "An articulated coralline red alga hardened by deposited calcium carbonate. Its pale pink to whitish jointed fronds branch feather-like, forming turfs on intertidal rock and in tide pools; it bleaches whitish when dry.",
+      "habitat_hint": "Intertidal rock, tide pools and wave-washed reefs.",
+      "finding_tips": "Year-round look in tide pools for a hard, jointed pinkish seaweed. Its feathery branching and calcareous stiffness are diagnostic."
+    },
+    "zh": {
+      "summary": "小珊瑚藻（ピリヒバ）。珊瑚藻科红藻，体内沉积钙质而坚硬。淡红至白色、具节的枝呈羽状分叉，成片生于潮间带岩石和潮池，干时泛白。",
+      "habitat_hint": "潮间带岩上、潮池、受浪岩礁。",
+      "finding_tips": "全年，于潮池岩上寻找钙质坚硬、具节的淡红色海藻。羽状分叉与钙质硬度为辨识点。"
+    }
+  },
+  "Corvus corax": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "渡鸦"
+    },
+    "ja": {
+      "summary": "ワタリガラス。カラス科の非常に大型のカラスで、全身黒く、くさび形の尾と太いくちばしをもつ。日本では冬に北海道などへ渡来する冬鳥。高度な知能をもち、しわがれた低い声で鳴く。",
+      "habitat_hint": "冬の海岸、原野、山地、開けた土地（北海道など）。",
+      "finding_tips": "冬、北日本の海岸や原野で、ハシブトガラスより大きくくさび形の尾をもつカラスを探します。太いくちばしと低い声が識別点。"
+    },
+    "en": {
+      "summary": "The Common Raven, a very large all-black corvid with a wedge-shaped tail and heavy bill. In Japan it is a winter visitor to Hokkaido and the north; highly intelligent, with a deep croaking call.",
+      "habitat_hint": "Winter coasts, moorland, mountains and open country (Hokkaido etc.).",
+      "finding_tips": "In winter in northern Japan look for a crow larger than a Jungle Crow with a wedge-shaped tail. The heavy bill and deep croak are diagnostic."
+    },
+    "zh": {
+      "summary": "渡鸦（ワタリガラス）。鸦科极大型鸦类，通体黑色，尾呈楔形，喙粗厚。在日本为冬候鸟，越冬于北海道等北部。智力甚高，叫声低沉沙哑。",
+      "habitat_hint": "冬季海岸、原野、山地、开阔地（北海道等）。",
+      "finding_tips": "冬季，于北日本海岸或原野寻找比大嘴乌鸦更大、尾呈楔形的鸦。粗厚的喙与低沉叫声为辨识点。"
+    }
+  },
+  "Costaconvexa caespitaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pale streak carpet moth",
+    "ja": {
+      "summary": "ウスイロトビスジナミシャク。シャクガ科ナミシャク亜科のガで、前翅は淡褐色に細かい波状の横線が入る。草地や河川敷に多く、幼虫はアカネ科の草本を食べる。",
+      "habitat_hint": "草地、河川敷、林縁の草むら。",
+      "finding_tips": "春〜秋の夜、草地で灯火に来る淡褐色で細い波線をもつ小型のガを探します。淡色の細波線が識別点。"
+    },
+    "en": {
+      "summary": "A carpet moth of the Geometridae with pale-brown forewings crossed by fine wavy lines. Common in grassland and floodplains, its larvae feed on bedstraw-family herbs.",
+      "habitat_hint": "Grassland, floodplains and grassy woodland edges.",
+      "finding_tips": "On spring-to-autumn nights in grassland look at lights for a small pale-brown moth with fine wavy lines. The pale fine cross-lines are diagnostic."
+    },
+    "zh": {
+      "summary": "淡色飞纹波尺蛾（ウスイロトビスジナミシャク）。尺蛾科波尺蛾亚科的蛾，前翅淡褐色具细密波状横线。多见于草地和河滩，幼虫食茜草科草本。",
+      "habitat_hint": "草地、河滩、林缘草丛。",
+      "finding_tips": "春至秋夜间，于草地灯下寻找淡褐色、具细波线的小型蛾。淡色细波线为辨识点。"
+    }
+  },
+  "Craterium reticulatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Netted goblet slime mould",
+    "ja": {
+      "summary": "アミサカズキホコリ。変形菌（真正粘菌）の一種で、腐木や落葉の上に小さな盃形の子実体を群生させる。子実体は網目模様をもち、上部が蓋のように開いて胞子を放出する。",
+      "habitat_hint": "湿った腐木、落葉、朽ちた枝の上。",
+      "finding_tips": "梅雨〜秋、腐木上で網目のある小さな盃形の子実体を探します。盃形で網目模様の被膜が識別点。"
+    },
+    "en": {
+      "summary": "A myxomycete (true slime mould) forming clusters of tiny goblet-shaped fruiting bodies on rotten wood and leaf litter. The netted goblets open at the top like a lid to release spores.",
+      "habitat_hint": "Damp rotten wood, leaf litter and decaying twigs.",
+      "finding_tips": "From the rainy season to autumn look on deadwood for tiny netted goblet-shaped fruit bodies. The goblet shape with a netted wall is diagnostic."
+    },
+    "zh": {
+      "summary": "网纹杯发菌（アミサカズキホコリ）。变形菌（真黏菌）的一种，于腐木和落叶上群生小型杯状子实体。杯壁具网纹，顶部如盖开裂释放孢子。",
+      "habitat_hint": "湿润腐木、落叶、朽枝上。",
+      "finding_tips": "梅雨至秋，于腐木上寻找具网纹的小型杯状子实体。杯形与网纹壁为辨识点。"
+    }
+  },
+  "Cucujus mniszechi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat bark beetle",
+    "ja": {
+      "summary": "ルリヒラタムシ。ヒラタムシ科の甲虫で、体は極端に平たく、青藍色の金属光沢をもつ。枯れ木の樹皮の下にすみ、幼虫・成虫ともに樹皮下の小昆虫を捕食する。",
+      "habitat_hint": "枯れ木・倒木の樹皮下、朽ちかけた広葉樹。",
+      "finding_tips": "枯れ木の樹皮をはがすと現れる、極端に平たく青藍色に輝く甲虫を探します。扁平な体と青藍色の光沢が識別点。"
+    },
+    "en": {
+      "summary": "A flat bark beetle with an extremely flattened body and metallic blue sheen. It lives under the bark of dead trees, where both adults and larvae prey on small insects.",
+      "habitat_hint": "Under the bark of dead and fallen broadleaf trees.",
+      "finding_tips": "Peel bark from dead trees to find an extremely flat, metallic-blue beetle. Its flattened body and blue sheen are diagnostic."
+    },
+    "zh": {
+      "summary": "蓝扁甲（ルリヒラタムシ）。扁甲科甲虫，体极扁平，具青蓝色金属光泽。栖于枯木树皮下，成幼虫皆捕食皮下小昆虫。",
+      "habitat_hint": "枯木、倒木树皮下，朽腐阔叶树。",
+      "finding_tips": "剥开枯木树皮可见极扁平、泛青蓝色光泽的甲虫。扁平体与青蓝光泽为辨识点。"
+    }
+  },
+  "Cyanoboletus pulverulentus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "粉末黄肉牛肝菌"
+    },
+    "ja": {
+      "summary": "イロガワリ。イグチ科の食用きのこで、傷つくと肉や管孔が瞬時に濃青色に変色することが和名（色変わり）の由来。夏〜秋に広葉樹林の地上に発生する菌根菌。",
+      "habitat_hint": "ブナ科など広葉樹林の地上、菌根菌。",
+      "finding_tips": "夏〜秋、雑木林の地上でイグチを見つけ、傷つけて濃青変するか確かめます。強い青変性が識別点。"
+    },
+    "en": {
+      "summary": "The Inkstain Bolete, an edible bolete whose flesh and pores instantly stain deep blue when bruised — the source of its Japanese name. It appears on the ground in broadleaf forest in summer and autumn.",
+      "habitat_hint": "Ground under broadleaf (oak, beech) forest; a mycorrhizal fungus.",
+      "finding_tips": "From summer to autumn find a bolete on the forest floor and bruise it to check for intense blue staining. Strong blueing is diagnostic."
+    },
+    "zh": {
+      "summary": "粉末黄肉牛肝菌（イロガワリ）。牛肝菌科食用菌，受伤时菌肉与管孔瞬间变深蓝，为和名（变色）由来。夏秋发生于阔叶林地上，为菌根菌。",
+      "habitat_hint": "壳斗科等阔叶林地上，为菌根菌。",
+      "finding_tips": "夏至秋，于杂木林地上找到牛肝菌后弄伤，观察是否强烈变蓝。强烈变蓝为辨识点。"
+    }
+  },
+  "Cyathus striatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "隆纹黑蛋巢菌"
+    },
+    "ja": {
+      "summary": "スジチャダイゴケ。チャダイゴケ科の小型のきのこで、逆円錐形の椀の中に「卵」に見える胞子塊（小塊粒）が並ぶ。椀の内壁に縦の筋があるのが特徴。雨滴が当たると卵が飛び出して散布される。",
+      "habitat_hint": "腐木、落枝、ウッドチップ、腐植の多い地上。",
+      "finding_tips": "梅雨〜秋、腐木やウッドチップ上で内壁に縦筋のある小さな椀形のきのこを探します。中の卵状の小塊粒と内壁の筋が識別点。"
+    },
+    "en": {
+      "summary": "The fluted bird's nest fungus, a tiny fungus whose inverted-cone cup holds egg-like spore packets (peridioles). The cup's inner wall is longitudinally grooved, and raindrops splash the 'eggs' out to disperse.",
+      "habitat_hint": "Rotten wood, fallen twigs, wood chips and humus-rich ground.",
+      "finding_tips": "From the rainy season to autumn look on deadwood and wood chips for a tiny cup with grooved inner walls. The egg-like peridioles and striate walls are diagnostic."
+    },
+    "zh": {
+      "summary": "隆纹黑蛋巢菌（スジチャダイゴケ）。黑蛋巢菌科小型真菌，倒锥形杯内排列似“卵”的孢子包（小包体）。杯内壁具纵纹，雨滴溅入使“卵”弹出传播。",
+      "habitat_hint": "腐木、落枝、木屑、富腐殖质地上。",
+      "finding_tips": "梅雨至秋，于腐木或木屑上寻找内壁具纵纹的小杯状菌。杯内卵状小包与纵纹内壁为辨识点。"
+    }
+  },
+  "Cyperus javanicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "羽状穗砖子苗"
+    },
+    "ja": {
+      "summary": "オニクグ。カヤツリグサ科カヤツリグサ属の多年草で、暖地の海岸や湿地、川辺に生える。太い茎の先に褐色の球状の花序を放射状につける大型のカヤツリグサ。",
+      "habitat_hint": "暖地の海岸、湿地、河川敷、水路沿い。",
+      "finding_tips": "夏〜秋、暖地の水辺で太い茎の先に褐色の球状花序を放射状につける大型のカヤツリグサを探します。大きな球状花序が識別点。"
+    },
+    "en": {
+      "summary": "Javanese flatsedge, a robust perennial sedge of warm-region coasts, wetlands and riversides. Brown globular flower-clusters radiate from the tip of a stout stem.",
+      "habitat_hint": "Warm-region coasts, wetlands, floodplains and channel banks.",
+      "finding_tips": "From summer to autumn by warm-region water look for a large sedge with brown globular clusters radiating from a stout stem. The big globose heads are diagnostic."
+    },
+    "zh": {
+      "summary": "羽状穗砖子苗（オニクグ）。莎草科莎草属多年生草本，生于暖地海岸、湿地和河边。粗茎顶端放射状着生褐色球状花序，为大型莎草。",
+      "habitat_hint": "暖地海岸、湿地、河滩、水道旁。",
+      "finding_tips": "夏至秋，于暖地水边寻找粗茎顶端放射状具褐色球状花序的大型莎草。大球状花序为辨识点。"
+    }
+  },
+  "Dactylispa angulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiny leaf beetle",
+    "ja": {
+      "summary": "ヒメキベリトゲハムシ。ハムシ科トゲハムシ類の小型甲虫で、体の周囲に鋭いとげが並ぶ。イネ科植物の葉を食べ、成虫は葉の表面を削り、幼虫は葉に潜って食害する。",
+      "habitat_hint": "草地、河川敷、林縁のイネ科・ススキの茂み。",
+      "finding_tips": "春〜夏、草地のイネ科植物の葉で周囲にとげをもつ小型の甲虫を探します。体縁の鋭いとげが識別点。"
+    },
+    "en": {
+      "summary": "A spiny leaf beetle whose body is fringed with sharp spines. It feeds on grasses; adults scrape the leaf surface and larvae mine within the leaf.",
+      "habitat_hint": "Grassland, floodplains and woodland-edge grass and miscanthus.",
+      "finding_tips": "From spring to summer look on grass leaves for a small beetle fringed with spines. The sharp marginal spines are diagnostic."
+    },
+    "zh": {
+      "summary": "刺甲叶甲（ヒメキベリトゲハムシ）。叶甲科刺甲叶甲类小型甲虫，体缘具锐刺。取食禾草，成虫刮食叶面，幼虫潜叶为害。",
+      "habitat_hint": "草地、河滩、林缘禾草与芒草丛。",
+      "finding_tips": "春至夏，于草地禾草叶上寻找体缘具刺的小型甲虫。体缘锐刺为辨识点。"
+    }
+  },
+  "Deileptenia ribeata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Satin beauty",
+    "ja": {
+      "summary": "マツオオエダシャク。シャクガ科エダシャク亜科の大型のガで、灰褐色の翅に細かな横線が入る。幼虫はマツやスギなどの針葉樹の葉を食べる尺取虫。夜間に灯火へよく集まる。",
+      "habitat_hint": "針葉樹林、混交林、林縁のマツ・スギの多い場所。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る灰褐色の大型のガを探します。細かい横線と大きさが識別点。"
+    },
+    "en": {
+      "summary": "The satin beauty, a large geometrid with grey-brown wings crossed by fine lines. Its looper larvae feed on pine, cedar and other conifers; adults readily come to lights at night.",
+      "habitat_hint": "Coniferous and mixed forest, edges rich in pine and cedar.",
+      "finding_tips": "On early-summer to summer nights look at lights for a large grey-brown moth. Its size and fine cross-lines are diagnostic."
+    },
+    "zh": {
+      "summary": "松茂尺蛾（マツオオエダシャク）。尺蛾科枝尺蛾亚科的大型蛾，翅灰褐色具细横线。幼虫（尺蠖）取食松、杉等针叶树叶片，夜间常趋光。",
+      "habitat_hint": "针叶林、混交林、多松杉的林缘。",
+      "finding_tips": "初夏至夏夜间，于灯下寻找灰褐色大型蛾。细横线与体形较大为辨识点。"
+    }
+  },
+  "Desmarestia ligulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Acid kelp",
+    "ja": {
+      "summary": "ウルシグサ。ウルシグサ科の褐藻で、扁平な葉状体が羽状に分岐する。体内に硫酸を蓄えるため、採取して放置すると自らと周囲の海藻を溶かしてしまう。潮下帯の岩礁に生える。",
+      "habitat_hint": "潮下帯〜漸深帯の岩礁、やや冷たい海域。",
+      "finding_tips": "春、岩礁の潮下帯で羽状に分岐する黄褐色の扁平な海藻を探します。羽状の葉状体と傷むと酸で溶ける性質が識別点。"
+    },
+    "en": {
+      "summary": "Acid kelp, a brown alga with flattened, pinnately branched blades. It stores sulphuric acid, so once collected and left it dissolves itself and neighbouring seaweeds; it grows on subtidal reefs.",
+      "habitat_hint": "Subtidal to deeper reefs in somewhat cool waters.",
+      "finding_tips": "In spring on subtidal reefs look for a yellow-brown flattened seaweed with pinnate branching. The pinnate blades and acid self-dissolving are diagnostic."
+    },
+    "zh": {
+      "summary": "叶囊藻（ウルシグサ）。酸藻科褐藻，扁平叶状体羽状分叉。体内贮硫酸，采后放置会溶解自身及周围海藻。生于潮下带岩礁。",
+      "habitat_hint": "潮下带至较深岩礁，偏冷海域。",
+      "finding_tips": "春季，于岩礁潮下带寻找羽状分叉的黄褐色扁平海藻。羽状叶状体与损伤后酸性自溶为辨识点。"
+    }
+  },
+  "Diphasiastrum nikoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine clubmoss",
+    "ja": {
+      "summary": "タカネヒカゲノカズラ。ヒカゲノカズラ科の常緑のシダ植物で、高山の岩礫地や草地に生える。細い茎が地を這い、扁平な枝が立ち上がる。胞子嚢穂を枝先につける。",
+      "habitat_hint": "高山帯の岩礫地、草地、風衝地。",
+      "finding_tips": "夏、高山の岩礫地で地を這う細い茎と扁平な立ち枝をもつ常緑のシダ植物を探します。扁平な枝と高山性が識別点。"
+    },
+    "en": {
+      "summary": "An alpine clubmoss, an evergreen fern-ally of high-mountain scree and grassland. Slender stems creep along the ground while flattened branches stand up, bearing spore cones at the tips.",
+      "habitat_hint": "Alpine scree, grassland and wind-exposed sites.",
+      "finding_tips": "In summer on alpine scree look for an evergreen clubmoss with creeping stems and flattened erect branches. The flattened branches and alpine habit are diagnostic."
+    },
+    "zh": {
+      "summary": "高山扁枝石松（タカネヒカゲノカズラ）。石松科常绿蕨类植物，生于高山岩砾地和草地。细茎匍匐地面，扁平枝直立，枝端着生孢子囊穗。",
+      "habitat_hint": "高山带岩砾地、草地、风衝地。",
+      "finding_tips": "夏季，于高山岩砾地寻找匍匐细茎、扁平直立枝的常绿石松类。扁平枝与高山性为辨识点。"
+    }
+  },
+  "Diplazium lineolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Climbing spleenwort fern",
+    "ja": {
+      "summary": "キノボリシダ。メシダ科ノコギリシダ属の常緑性シダで、根茎が長く這い、木の幹や岩をよじ登るように生育する。単羽状の葉をつけ、暖地の湿った林内に多い。",
+      "habitat_hint": "暖地の湿った常緑樹林の樹幹、岩上、林床。",
+      "finding_tips": "通年、湿った林内で樹幹や岩をよじ登るように生える単羽状のシダを探します。這い上がる根茎と着生的な生態が識別点。"
+    },
+    "en": {
+      "summary": "A climbing fern of the Athyriaceae with long-creeping rhizomes that scramble up tree trunks and rocks. It bears simply pinnate fronds and is common in humid warm-region forest.",
+      "habitat_hint": "Trunks, rocks and forest floor in humid warm-region evergreen forest.",
+      "finding_tips": "Year-round in humid forest look for a simply pinnate fern climbing trunks and rocks. Its scrambling rhizome and epiphytic habit are diagnostic."
+    },
+    "zh": {
+      "summary": "爬树双盖蕨（キノボリシダ）。蹄盖蕨科双盖蕨属常绿蕨类，根状茎长匍匐，攀附树干和岩石生长。叶一回羽状，多见于暖地湿润林内。",
+      "habitat_hint": "暖地湿润常绿林树干、岩上、林床。",
+      "finding_tips": "全年，于湿润林内寻找沿树干和岩石攀爬的一回羽状蕨。匍匐攀附根状茎与附生性为辨识点。"
+    }
+  },
+  "Dolichovespula pacifica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded aerial yellowjacket",
+    "ja": {
+      "summary": "シロオビホオナガスズメバチ。スズメバチ科ホオナガスズメバチ属のハチで、黒地に白（淡黄）色の帯をもつ。樹上や軒下に球形の巣を作る。頬が長いのが属の特徴。刺されると痛むので注意。",
+      "habitat_hint": "山地〜低山の樹林、林縁、人家周辺。",
+      "finding_tips": "初夏〜秋、樹上や軒下の球形の巣とその周囲で黒地に白帯のスズメバチを探します。白い帯と長い頬が識別点。刺傷に注意。"
+    },
+    "en": {
+      "summary": "An aerial yellowjacket of the genus Dolichovespula, black with white (pale-yellow) bands, that builds a spherical nest in trees or under eaves. Its long cheeks are characteristic; its sting is painful, so take care.",
+      "habitat_hint": "Montane to low-mountain woodland, edges and around houses.",
+      "finding_tips": "From early summer to autumn look near spherical tree or eave nests for a black wasp with white bands. The white bands and long cheeks are diagnostic — beware stings."
+    },
+    "zh": {
+      "summary": "白带长颊胡蜂（シロオビホオナガスズメバチ）。胡蜂科长颊胡蜂属，黑底具白（淡黄）色带。于树上或屋檐下筑球形巢。颊长为属特征。螫刺疼痛，须留意。",
+      "habitat_hint": "山地至低山树林、林缘、人家周边。",
+      "finding_tips": "初夏至秋，于树上或屋檐球形巢附近寻找黑底白带的胡蜂。白带与长颊为辨识点，注意螫刺。"
+    }
+  },
+  "Dosinia troscheli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Troschel's dosinia",
+    "ja": {
+      "summary": "マルヒナガイ。マルスダレガイ科の二枚貝で、殻はほぼ円形でよく膨らみ、白色〜淡黄色。同心円状の細かい成長脈がある。内湾の砂泥底に浅く潜ってすむ。",
+      "habitat_hint": "内湾・河口の砂泥底、潮間帯〜浅海。",
+      "finding_tips": "干潮時、砂泥底で円形でよく膨らんだ白い二枚貝を探します。ほぼ円形の殻と同心円状の成長脈が識別点。"
+    },
+    "en": {
+      "summary": "A venus clam with an almost circular, well-inflated white-to-pale-yellow shell bearing fine concentric growth lines. It burrows shallowly in the sand-mud of sheltered bays.",
+      "habitat_hint": "Sand-mud bottoms of sheltered bays and estuaries, intertidal to shallow.",
+      "finding_tips": "At low tide look in sand-mud for a circular, well-inflated white bivalve. The near-circular shell and concentric growth lines are diagnostic."
+    },
+    "zh": {
+      "summary": "凸镜蛤（マルヒナガイ）。帘蛤科双壳类，壳近圆形而膨凸，白至淡黄色，具同心细生长纹。浅埋于内湾砂泥底。",
+      "habitat_hint": "内湾、河口砂泥底，潮间带至浅海。",
+      "finding_tips": "退潮时，于砂泥底寻找圆形膨凸的白色双壳贝。近圆形壳与同心生长纹为辨识点。"
+    }
+  },
+  "Dracocephalum argunense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "光萼青兰"
+    },
+    "ja": {
+      "summary": "ムシャリンドウ。シソ科ムシャリンドウ属の多年草で、日当たりのよい山地の草地や岩場に生える。青紫色の唇形花を穂状につけ、リンドウに似た花色から名がつくがシソ科。",
+      "habitat_hint": "山地の日当たりのよい草地、岩場、乾いた斜面。",
+      "finding_tips": "6〜8月、山地の草地で青紫色の唇形花を穂状につける草を探します。対生する細い葉と唇形花が識別点。"
+    },
+    "en": {
+      "summary": "A dragonhead of the mint family growing on sunny montane grassland and rocky places. It bears spikes of blue-purple two-lipped flowers; despite the gentian-like colour (its Japanese name means 'gentian'), it is a mint.",
+      "habitat_hint": "Sunny montane grassland, rocky places and dry slopes.",
+      "finding_tips": "From June to August in mountain grassland look for spikes of blue-purple two-lipped flowers. Opposite narrow leaves and lipped flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "光萼青兰（ムシャリンドウ）。唇形科青兰属多年生草本，生于向阳山地草地和岩地。穗状着生蓝紫色唇形花；花色似龙胆（和名意为龙胆），实为唇形科。",
+      "habitat_hint": "山地向阳草地、岩地、干燥坡。",
+      "finding_tips": "6 至 8 月，于山地草地寻找穗状着生蓝紫色唇形花之草。对生细叶与唇形花为辨识点。"
+    }
+  },
+  "Drupella margariticola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coral-eating snail",
+    "ja": {
+      "summary": "ウネレイシガイダマシ。アッキガイ科の小型の巻貝で、殻表に太い螺肋（うね）がある。サンゴを専食し、集団で発生するとサンゴ礁に食害を与えることがある。潮間帯〜浅海のサンゴ礁にすむ。",
+      "habitat_hint": "サンゴ礁の潮間帯〜浅海、生きたサンゴの周囲。",
+      "finding_tips": "サンゴ礁で生きたサンゴの根元に群がる、太い螺肋をもつ小型の巻貝を探します。サンゴ上の集団性と螺肋が識別点。"
+    },
+    "en": {
+      "summary": "A small coral-eating muricid snail whose shell bears thick spiral ridges. It feeds exclusively on coral and can damage reefs when it erupts in numbers; it lives on intertidal to shallow reef.",
+      "habitat_hint": "Coral-reef intertidal to shallow water, around living coral.",
+      "finding_tips": "On reefs look at the bases of living coral for small snails with thick spiral ridges clustering together. Their coral-clustering habit and ridges are diagnostic."
+    },
+    "zh": {
+      "summary": "珠母核果螺（ウネレイシガイダマシ）。骨螺科小型螺类，壳面具粗螺肋。专食珊瑚，大量发生时可危害珊瑚礁。栖于潮间带至浅海珊瑚礁。",
+      "habitat_hint": "珊瑚礁潮间带至浅海，活珊瑚周围。",
+      "finding_tips": "于珊瑚礁活珊瑚基部寻找具粗螺肋、成群聚集的小型螺。珊瑚上群聚性与螺肋为辨识点。"
+    }
+  },
+  "Dryopteris gymnosora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Naked-sorus wood fern",
+    "ja": {
+      "summary": "ヌカイタチシダ。オシダ科オシダ属の常緑性シダで、暖地の林下や林縁に生える。二回羽状の葉をつけ、葉柄基部の鱗片が黒褐色。ソーラス（胞子嚢群）は包膜が早く落ちる。",
+      "habitat_hint": "暖地の常緑樹林の林床、林縁、やや乾いた斜面。",
+      "finding_tips": "通年、暖地の林床で二回羽状の常緑のシダを探します。葉柄基部の黒褐色の鱗片が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen wood fern of the Dryopteridaceae growing in warm-region forest floor and edges. It bears bipinnate fronds with dark-brown scales at the stipe base, and the sorus indusia fall early.",
+      "habitat_hint": "Warm-region evergreen forest floor, edges and somewhat dry slopes.",
+      "finding_tips": "Year-round on warm-region forest floor look for a bipinnate evergreen fern. Dark-brown scales at the stipe base are diagnostic."
+    },
+    "zh": {
+      "summary": "裸囊鳞毛蕨（ヌカイタチシダ）。鳞毛蕨科鳞毛蕨属常绿蕨类，生于暖地林下和林缘。叶二回羽状，叶柄基部鳞片黑褐色，孢子囊群的囊群盖早落。",
+      "habitat_hint": "暖地常绿林林床、林缘、略干坡地。",
+      "finding_tips": "全年，于暖地林床寻找二回羽状的常绿蕨。叶柄基部黑褐色鳞片为辨识点。"
+    }
+  },
+  "Dyschirius hiogoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small burrowing ground beetle",
+    "ja": {
+      "summary": "コチビヒョウタンゴミムシ。オサムシ科の非常に小型の甲虫で、体は前後にくびれた瓢箪形。前脚が掘るのに適し、水辺の砂地にトンネルを掘ってハネカクシ類などを追う。",
+      "habitat_hint": "河原、海岸、池沼畔の湿った砂地。",
+      "finding_tips": "春〜秋、水辺の砂地を掘ると現れる極小の瓢箪形甲虫を探します。ごく小さくくびれた体と掘脚が識別点。"
+    },
+    "en": {
+      "summary": "A very small burrowing ground beetle with a gourd-shaped, pinched body. Its front legs are adapted for digging, and it tunnels in sand by water, chasing rove beetles and other prey.",
+      "habitat_hint": "Damp sand on riverbanks, coasts and pond margins.",
+      "finding_tips": "From spring to autumn dig damp sand by water to find a tiny gourd-shaped beetle. Its very small pinched body and digging legs are diagnostic."
+    },
+    "zh": {
+      "summary": "小掘步甲（コチビヒョウタンゴミムシ）。步甲科极小型甲虫，体前后缢缩呈葫芦形。前足利于挖掘，于水边砂地掘穴，追捕隐翅虫等。",
+      "habitat_hint": "河滩、海岸、池沼岸湿润砂地。",
+      "finding_tips": "春至秋，翻挖水边砂地可见极小葫芦形甲虫。极小缢缩体与掘足为辨识点。"
+    }
   }
 }
