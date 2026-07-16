@@ -250690,5 +250690,485 @@
       "habitat_hint": "山地裸地、山道切土、酸性土面。",
       "finding_tips": "全年可见，于山地裸地与路旁土坡寻找放射状似杉叶的藓类群落。干湿时叶态变化有助辨识。"
     }
+  },
+  "Pohlia proligera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソエヘチマゴケ。裸地や土上に生えるハリガネゴケ科のコケ（蘚類）。細い茎に卵形の葉をつけ、葉腋に無性芽（むかご）をつくって繁殖する。緑〜黄緑色の小さな群落をなす。",
+      "habitat_hint": "山地や道端の裸地、湿った土上、切り通しの斜面。",
+      "finding_tips": "通年、湿った土の斜面で細い茎に卵形の葉を持つ小さなコケを探す。葉腋の糸状の無性芽が識別ポイント。"
+    },
+    "en": {
+      "summary": "Bent-bud Thread-moss. A moss (Mielichhoferiaceae) of bare and damp soil, its slender stems bearing ovate leaves and propagating by axillary gemmae, forming small green to yellow-green patches.",
+      "habitat_hint": "montane and roadside bare ground, damp soil, cutting slopes.",
+      "finding_tips": "Year-round, on damp soil slopes look for a small moss with slender stems and ovate leaves; the thread-like axillary gemmae are diagnostic."
+    },
+    "zh": {
+      "summary": "丝梗丝瓜藓（ホソエヘチマゴケ）。生于裸地与土面的丝瓜藓科苔藓（藓类），细茎着卵形叶，以叶腋无性芽繁殖，形成绿至黄绿色小群落。",
+      "habitat_hint": "山地路旁裸地、潮湿土面、切坡。",
+      "finding_tips": "全年可见，于潮湿土坡寻找细茎卵叶的小型藓类。叶腋丝状无性芽为辨识要点。"
+    }
+  },
+  "Polyblastidium hypoleucum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whitewash Lichen",
+    "ja": {
+      "summary": "ウラジロゲジゲジゴケ。樹幹や岩上に生える葉状地衣類。灰緑色の裂片が広がり、縁に多数の細長い縁毛（ゲジゲジ状）を持ち、裏面は白い。",
+      "habitat_hint": "湿潤な森林の樹幹、コケの多い岩、木の根元。",
+      "finding_tips": "通年、湿った森の樹皮で灰緑色の裂片と縁の細長い縁毛を探す。裏面が白いことと縁毛が識別ポイント。"
+    },
+    "en": {
+      "summary": "Whitewash Lichen. A foliose lichen of trunks and rocks, its grey-green lobes spreading and fringed with many slender marginal cilia, the underside white.",
+      "habitat_hint": "trunks in humid forest, mossy rocks, tree bases.",
+      "finding_tips": "Year-round, on bark in damp forest look for grey-green lobes with long marginal cilia; the white underside and cilia are diagnostic."
+    },
+    "zh": {
+      "summary": "白背蜈蚣衣（ウラジロゲジゲジゴケ）。生于树干与岩石的叶状地衣，灰绿裂片铺展、边缘生众多细长缘毛，背面白色。",
+      "habitat_hint": "湿润森林树干、多苔岩石、树基。",
+      "finding_tips": "全年可见，于湿润森林树皮寻找灰绿裂片与边缘细长缘毛。背面白色与缘毛为辨识要点。"
+    }
+  },
+  "Polystichum inadae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Inada's Holly Fern",
+    "ja": {
+      "summary": "フナコシイノデ。本州〜九州の山地の林床に生えるオシダ科イノデ属の常緑シダ。葉は硬く光沢があり、二回羽状に細かく分かれる。近縁のイノデ類との区別は難しい。",
+      "habitat_hint": "山地のやや湿った林床、樹林下の日陰、沢沿いの斜面。",
+      "finding_tips": "通年、林床で硬く光沢のある二回羽状の常緑シダを探す。小羽片の形と鱗片でイノデ属を見分けるが同定は難しい。"
+    },
+    "en": {
+      "summary": "Inada's Holly Fern. An evergreen holly fern (Dryopteridaceae, Polystichum) of montane forest floors from Honshu to Kyushu, with stiff glossy bipinnate fronds; hard to separate from related holly ferns.",
+      "habitat_hint": "damp montane forest floor, shade beneath trees, streamside slopes.",
+      "finding_tips": "Year-round, on the forest floor look for a stiff glossy bipinnate evergreen fern; pinnule shape and scales place it in Polystichum, though species-level ID is difficult."
+    },
+    "zh": {
+      "summary": "稻田耳蕨（フナコシイノデ）。生于日本本州至九州山地林床的鳞毛蕨科耳蕨属常绿蕨，叶硬而有光泽、二回羽状细裂，与近缘耳蕨难以区分。",
+      "habitat_hint": "山地略湿林床、树下荫处、沢沿山坡。",
+      "finding_tips": "全年可见，于林床寻找硬而有光泽的二回羽状常绿蕨。小羽片形状与鳞片可定属，种级鉴定较难。"
+    }
+  },
+  "Polytrichum formosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオスギゴケ。山地の林床や湿った土上に群生するスギゴケ科の大型のコケ（蘚類）。直立した茎にスギの葉に似た硬い葉を密につけ、しっかりした緑のマットをつくる。",
+      "habitat_hint": "山地の林床、湿った土上、沢沿いの斜面、庭園の苔庭。",
+      "finding_tips": "通年、林床で直立したスギの葉状の硬い葉を密につけた大型のコケの群落を探す。しっかりした背丈のあるマットが目印。"
+    },
+    "en": {
+      "summary": "Bank Haircap. A large moss (Polytrichaceae) forming colonies on montane forest floors and damp soil, its erect stems densely set with stiff cedar-like leaves making a firm green mat.",
+      "habitat_hint": "montane forest floor, damp soil, streamside slopes, moss gardens.",
+      "finding_tips": "Year-round, on the forest floor look for a tall robust moss with erect stems and stiff cedar-like leaves; the firm, upstanding mat is the mark."
+    },
+    "zh": {
+      "summary": "大金发藓（オオスギゴケ）。丛生于山地林床与潮湿土面的金发藓科大型苔藓（藓类），直立茎密生似杉硬叶，形成结实的绿色藓垫。",
+      "habitat_hint": "山地林床、潮湿土面、沢沿山坡、庭园苔庭。",
+      "finding_tips": "全年可见，于林床寻找直立茎密生硬杉叶状叶的大型藓类群落。结实而挺立的藓垫为其特征。"
+    }
+  },
+  "Porcellio laevis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swift Woodlouse",
+    "ja": {
+      "summary": "クマワラジムシ。人里の庭や畑、石の下などにすむワラジムシ科の陸生等脚類（ワラジムシ）。体は灰褐色でやや大型、体表は滑らかで光沢がある。落ち葉などを食べる分解者。",
+      "habitat_hint": "庭、畑、公園の花壇、石や植木鉢の下、堆肥。",
+      "finding_tips": "通年、湿った石や植木鉢をどけると見つかる。やや大型で体表が滑らかに光り、ダンゴムシと違って丸まらない点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Swift Woodlouse. A terrestrial isopod (Porcellionidae) of gardens, fields and stone crevices, greyish-brown and fairly large with a smooth glossy surface; a decomposer feeding on leaf litter.",
+      "habitat_hint": "gardens, fields, park beds, under stones and pots, compost.",
+      "finding_tips": "Year-round, lifting damp stones or pots reveals it; the fairly large, smooth glossy body that cannot roll into a ball (unlike pill bugs) is diagnostic."
+    },
+    "zh": {
+      "summary": "光滑鼠妇（クマワラジムシ）。栖于庭园、菜地与石下的鼠妇科陆生等足类，体灰褐略大、体表光滑有光泽，为取食落叶的分解者。",
+      "habitat_hint": "庭园、菜地、公园花坛、石与花盆下、堆肥。",
+      "finding_tips": "全年可见，移开湿石或花盆可见。体略大、表面光滑有光泽且不能卷成球（异于球鼠妇）为辨识要点。"
+    }
+  },
+  "Porella grandiloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオクラマゴケモドキ。樹幹や岩上に生えるクラマゴケモドキ科のコケ（苔類）。茎は羽状に分枝し、鱗のように重なる葉を規則正しくつけ、濃緑〜黄緑色のマット状に広がる。",
+      "habitat_hint": "湿潤な森林の樹幹、コケの多い岩、木の根元。",
+      "finding_tips": "通年、湿った森の樹皮や岩で、鱗状に重なる葉を規則正しくつけた羽状のコケを探す。腹片を持つ茎葉体の構造が識別ポイント。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Porellaceae) of trunks and rocks, its pinnately branched stems bearing regularly overlapping scale-like leaves and spreading in dark- to yellow-green mats.",
+      "habitat_hint": "trunks in humid forest, mossy rocks, tree bases.",
+      "finding_tips": "Year-round, on damp bark and rock look for a pinnate liverwort with regularly overlapping scale-like leaves; the lobule-bearing leafy structure is diagnostic."
+    },
+    "zh": {
+      "summary": "大瓦鳞苔（オオクラマゴケモドキ）。生于树干与岩石的光萼苔科苔类，茎羽状分枝，叶如鳞片规则叠覆，铺展成深绿至黄绿色苔垫。",
+      "habitat_hint": "湿润森林树干、多苔岩石、树基。",
+      "finding_tips": "全年可见，于湿润树皮岩面寻找叶鳞状规则叠覆的羽状苔类。具腹片的茎叶体结构为辨识要点。"
+    }
+  },
+  "Potamogeton compressus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass-wrack Pondweed",
+    "ja": {
+      "summary": "エゾヤナギモ。池沼や水路に沈水するヒルムシロ科ヒルムシロ属の多年草。茎は著しく扁平で、細長い線形の葉を互生し、浮葉をつくらず水中で生育する。",
+      "habitat_hint": "池沼、ため池、緩流の水路、湖沼。",
+      "finding_tips": "夏、水中で著しく扁平な茎と細長い線形の葉を持つ沈水植物を探す。平たい茎が名（ヤナギモ類）の識別ポイント。"
+    },
+    "en": {
+      "summary": "Grass-wrack Pondweed. A submerged perennial pondweed (Potamogetonaceae) of ponds and channels, its stem markedly flattened and bearing alternate narrow linear leaves, living wholly underwater without floating leaves.",
+      "habitat_hint": "ponds, reservoirs, slow channels, lakes.",
+      "finding_tips": "In summer look for a submerged plant with a strongly flattened stem and narrow linear leaves; the flat stem is diagnostic among pondweeds."
+    },
+    "zh": {
+      "summary": "扁茎眼子菜（エゾヤナギモ）。沉水于池沼、水渠的眼子菜科眼子菜属多年生草本，茎显著扁平、互生狭线形叶，全株沉水、不生浮叶。",
+      "habitat_hint": "池沼、蓄水塘、缓流水渠、湖沼。",
+      "finding_tips": "夏季于水中寻找茎显著扁平、叶狭线形的沉水植物。扁平的茎为眼子菜类中的辨识要点。"
+    }
+  },
+  "Potamogeton gramineus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Various-leaved Pondweed",
+    "ja": {
+      "summary": "エゾヒルムシロ。池沼や湖に生えるヒルムシロ科ヒルムシロ属の多年草。細長い沈水葉と、水面に浮かぶ楕円形の浮葉の二型の葉を持つ。夏に穂状の花序を水面上に出す。",
+      "habitat_hint": "池沼、湖、ため池、緩流の水路。",
+      "finding_tips": "夏、水面に浮かぶ楕円形の浮葉と水中の細長い沈水葉を併せ持つ株を探す。二型の葉と水上に出る花穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Various-leaved Pondweed. A perennial pondweed (Potamogetonaceae) of ponds and lakes with two leaf forms — narrow submerged leaves and oval floating leaves — and spike-like flower heads held above the water in summer.",
+      "habitat_hint": "ponds, lakes, reservoirs, slow channels.",
+      "finding_tips": "In summer look for a plant bearing both oval floating leaves and narrow submerged leaves; the dimorphic leaves and emergent flower spike are diagnostic."
+    },
+    "zh": {
+      "summary": "异叶眼子菜（エゾヒルムシロ）。生于池沼湖泊的眼子菜科眼子菜属多年生草本，具狭长沉水叶与浮于水面的椭圆浮叶二型叶，夏季穗状花序伸出水面。",
+      "habitat_hint": "池沼、湖泊、蓄水塘、缓流水渠。",
+      "finding_tips": "夏季寻找兼具椭圆浮叶与狭长沉水叶的植株。二型叶与伸出水面的花穗为辨识要点。"
+    }
+  },
+  "Potamogeton kamogawaensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamogawa Pondweed",
+    "ja": {
+      "summary": "カモガワモ。池沼や緩流の水路に沈水するヒルムシロ科ヒルムシロ属の多年草で、雑種起源とされる。細長い沈水葉を持ち、日本の限られた水域で見られる。",
+      "habitat_hint": "池沼、ため池、緩流の水路。",
+      "finding_tips": "夏、水中で細長い沈水葉を持つヒルムシロ属を探す。近縁種との区別は難しく、産地も限られる。"
+    },
+    "en": {
+      "summary": "Kamogawa Pondweed. A submerged perennial pondweed (Potamogetonaceae) of hybrid origin, bearing narrow submerged leaves and known from a limited number of Japanese waters.",
+      "habitat_hint": "ponds, reservoirs, slow channels.",
+      "finding_tips": "In summer look for a submerged pondweed with narrow leaves; it is hard to distinguish from relatives and occurs at few sites."
+    },
+    "zh": {
+      "summary": "鸭川眼子菜（カモガワモ）。沉水于池沼、缓流水渠的眼子菜科眼子菜属多年生草本，被认为源自杂交，具狭长沉水叶，仅见于日本少数水域。",
+      "habitat_hint": "池沼、蓄水塘、缓流水渠。",
+      "finding_tips": "夏季于水中寻找具狭长沉水叶的眼子菜属。与近缘种难辨，产地亦少。"
+    }
+  },
+  "Potamogeton kyushuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kyushu Pondweed",
+    "ja": {
+      "summary": "アイノコセンニンモ。池沼や水路に沈水するヒルムシロ科ヒルムシロ属の多年草で、センニンモ類との雑種起源とされる。細長い沈水葉を密につけ、日本の限られた水域に分布する。",
+      "habitat_hint": "池沼、ため池、緩流の水路。",
+      "finding_tips": "夏、水中で細長い沈水葉を密につけるヒルムシロ属を探す。雑種起源で同定は難しく、産地も限られる。"
+    },
+    "en": {
+      "summary": "Kyushu Pondweed. A submerged perennial pondweed (Potamogetonaceae) of hybrid origin with the Potamogeton maackianus group, densely set with narrow submerged leaves and confined to a few Japanese waters.",
+      "habitat_hint": "ponds, reservoirs, slow channels.",
+      "finding_tips": "In summer look for a submerged pondweed densely set with narrow leaves; being of hybrid origin it is hard to identify and occurs at few sites."
+    },
+    "zh": {
+      "summary": "九州眼子菜（アイノコセンニンモ）。沉水于池沼、水渠的眼子菜科眼子菜属多年生草本，被认为与马来眼子菜类杂交而生，密生狭长沉水叶，仅见于日本少数水域。",
+      "habitat_hint": "池沼、蓄水塘、缓流水渠。",
+      "finding_tips": "夏季于水中寻找密生狭长沉水叶的眼子菜属。杂交起源、鉴定困难且产地稀少。"
+    }
+  },
+  "Potamogeton nodosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ササバモ（サジバモ）。河川や水路、池沼に生えるヒルムシロ科ヒルムシロ属の多年草。細長い笹の葉のような沈水葉と、楕円形の浮葉を持つ。流れのある水域にもよく育つ。",
+      "habitat_hint": "河川、用水路、池沼、緩やかな流れ。",
+      "finding_tips": "夏、水中の細長い笹葉状の沈水葉と水面の楕円形の浮葉を探す。笹の葉に似た沈水葉が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Loddon Pondweed. A perennial pondweed (Potamogetonaceae) of rivers, channels and ponds, with narrow bamboo-leaf-like submerged leaves and oval floating leaves; it thrives even in flowing water.",
+      "habitat_hint": "rivers, irrigation channels, ponds, gentle currents.",
+      "finding_tips": "In summer look for narrow bamboo-leaf-like submerged leaves and oval floating leaves; the sasa-leaf-shaped submerged leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "多节眼子菜（ササバモ）。生于河流、水渠与池沼的眼子菜科眼子菜属多年生草本，具似竹叶的狭长沉水叶与椭圆浮叶，于流水中亦能良好生长。",
+      "habitat_hint": "河流、灌溉渠、池沼、缓流。",
+      "finding_tips": "夏季寻找水中似竹叶的狭长沉水叶与水面椭圆浮叶。似竹叶的沉水叶为辨识要点。"
+    }
+  },
+  "Potentilla anglica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Trailing Tormentil",
+    "ja": {
+      "summary": "ハイキジムシロ。草地や道端に生えるバラ科キジムシロ属の多年草。茎は地を這って伸び、掌状に分かれた葉と黄色い5弁花をつける。ヨーロッパ原産の帰化植物。",
+      "habitat_hint": "草地、道端、芝地、明るい空き地。",
+      "finding_tips": "春〜夏、地を這う茎に黄色い5弁花をつける草を探す。掌状の葉と匍匐する茎が識別ポイント。"
+    },
+    "en": {
+      "summary": "Trailing Tormentil. A perennial (Rosaceae, Potentilla) of grassland and waysides, its stems trailing along the ground and bearing palmate leaves and yellow five-petalled flowers; a European naturalised plant.",
+      "habitat_hint": "grassland, waysides, lawns, open waste ground.",
+      "finding_tips": "From spring to summer look for a plant with trailing stems and yellow five-petalled flowers; the palmate leaves and creeping stems are diagnostic."
+    },
+    "zh": {
+      "summary": "匍匐委陵菜（ハイキジムシロ）。生于草地与路旁的蔷薇科委陵菜属多年生草本，茎匍匐地面，具掌状叶与黄色五瓣花，为原产欧洲的归化植物。",
+      "habitat_hint": "草地、路旁、草坪、明亮空地。",
+      "finding_tips": "春至夏寻找匍匐茎上着黄色五瓣花的草。掌状叶与匍匐茎为辨识要点。"
+    }
+  },
+  "Proceratium watasei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Watase's Ant",
+    "ja": {
+      "summary": "ワタセカギバラアリ。土中や朽ち木の中にすむアリ科カギバラアリ属の小型のアリ。腹部が特徴的に前方へ曲がり込む形をしており、地中性で目にする機会は少ない。",
+      "habitat_hint": "森林の土中、朽ち木の中、落ち葉の下。",
+      "finding_tips": "朽ち木を割ったり林床の土を掘ると稀に見つかる。前方へ曲がり込む腹部の独特な形が識別ポイント。"
+    },
+    "en": {
+      "summary": "Watase's Ant. A small ant (Formicidae, Proceratium) living in soil and rotten wood, with a distinctively upcurved gaster (abdomen) that arches forward; being subterranean it is rarely seen.",
+      "habitat_hint": "forest soil, inside rotten wood, under leaf litter.",
+      "finding_tips": "Occasionally found when breaking rotten wood or digging forest soil; the gaster curled forward over the body is diagnostic."
+    },
+    "zh": {
+      "summary": "渡濑钩腹蚁（ワタセカギバラアリ）。栖于土中与朽木内的蚁科钩腹蚁属小型蚂蚁，腹部特征性地向前上方弯曲，地下生活、少见。",
+      "habitat_hint": "森林土中、朽木内、落叶下。",
+      "finding_tips": "劈开朽木或翻掘林床土时偶可见。向前弯曲的独特腹部为辨识要点。"
+    }
+  },
+  "Protaeolidiella atra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black Aeolid",
+    "ja": {
+      "summary": "スミゾメミノウミウシ。本州以南の岩礁海岸にすむミノウミウシ類の裸鰓類（ウミウシ）。体は黒く、背に細長い突起（ミノ）を多数背負う。ヒドロ虫を食べる。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、ヒドロ虫の生える岩やタイドプール。",
+      "finding_tips": "磯の岩やタイドプールで、黒い体に黒っぽいミノを多数背負った小さなウミウシを探す。全体の黒さが名（墨染め）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Black Aeolid. An aeolid nudibranch of rocky shores from Honshu southward, entirely black and carrying many slender cerata on its back; it feeds on hydroids.",
+      "habitat_hint": "intertidal to subtidal rock, hydroid-covered rocks and tide pools.",
+      "finding_tips": "On shore rocks and in tide pools look for a small all-black nudibranch bearing many dark cerata; its overall blackness is diagnostic."
+    },
+    "zh": {
+      "summary": "墨染蓑海牛（スミゾメミノウミウシ）。分布于日本本州以南岩礁海岸的蓑海牛类裸鳃动物，体黑，背负众多细长鳃突，取食水螅。",
+      "habitat_hint": "潮间带至潮下带岩礁、生水螅的岩石与潮池。",
+      "finding_tips": "于礁岩与潮池寻找黑体、背负众多暗色鳃突的小型海牛。通体黑色为辨识要点。"
+    }
+  },
+  "Protocallithaca adamsi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Adams' Venus Clam",
+    "ja": {
+      "summary": "エゾヌノメアサリ。北日本の浅海の砂底にすくマルスダレガイ科の二枚貝。殻は丸みを帯び、表面に布目状（格子状）の細かい彫刻がある。アサリに近縁だが冷たい海域に分布。",
+      "habitat_hint": "北日本の内湾〜外洋の潮下帯の砂底、浅海。",
+      "finding_tips": "通年、砂浜に打ち上げられた丸みのある殻を探す。表面の布目状の細かい彫刻が名（布目）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Adams' Venus Clam. A venus clam (Veneridae) of shallow sandy bottoms in northern Japan, its rounded shell finely sculptured in a cloth-weave lattice; related to the Manila clam but living in cooler seas.",
+      "habitat_hint": "sandy subtidal bottoms of northern Japanese bays and coasts, shallow sea.",
+      "finding_tips": "Year-round look for rounded shells washed onto beaches; the fine cloth-weave surface sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "布目帘蛤（エゾヌノメアサリ）。栖于日本北部浅海砂底的帘蛤科双壳类，壳浑圆，表面具布纹状（格状）细雕刻，与菲律宾帘蛤近缘但分布于冷水海域。",
+      "habitat_hint": "日本北部内湾至外海潮下带砂底、浅海。",
+      "finding_tips": "全年可见，于沙滩寻找冲上岸的浑圆壳。表面布纹状细雕刻为辨识要点。"
+    }
+  },
+  "Pseudagrion pilidorsum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-backed Sprite",
+    "ja": {
+      "summary": "アカナガイトトンボ。南西諸島に分布するイトトンボ科の細身のトンボ。雄は胸部と腹部の一部が赤みを帯び、細長い体が水辺の草間を弱々しく飛ぶ。",
+      "habitat_hint": "南西諸島の池沼、湿地、緩流の水路、水辺の草地。",
+      "finding_tips": "初夏〜秋、南の島の水辺で赤みを帯びた細身のイトトンボを探す。胸背の赤色と華奢な体が識別ポイント。"
+    },
+    "en": {
+      "summary": "Red-backed Sprite. A slender damselfly (Coenagrionidae) of the Ryukyu Islands; the male shows reddish colour on the thorax and part of the abdomen as its delicate body flutters among waterside plants.",
+      "habitat_hint": "ponds, wetlands, slow channels and waterside grass in the Ryukyus.",
+      "finding_tips": "From early summer to autumn, at southern-island waters look for a slender reddish damselfly; the red thorax and delicate body are diagnostic."
+    },
+    "zh": {
+      "summary": "红背丝蟌（アカナガイトトンボ）。分布于日本西南诸岛的蟌科细身蜻蜓，雄虫胸部与部分腹节带红色，纤长身体于水边草间轻飞。",
+      "habitat_hint": "西南诸岛池沼、湿地、缓流水渠、水边草地。",
+      "finding_tips": "初夏至秋于南岛水边寻找带红色的纤细蟌。胸背红色与纤弱体为辨识要点。"
+    }
+  },
+  "Pseudopyxis heterophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White Inamori Herb",
+    "ja": {
+      "summary": "シロバナイナモリソウ。本州〜九州の山地の林床に生えるアカネ科の多年草。茎は低く、対生する葉をつけ、夏に白い漏斗状の小花を咲かせる。イナモリソウの白花品。",
+      "habitat_hint": "山地のやや湿った林床、樹林下の日陰、沢沿い。",
+      "finding_tips": "6〜7月、林床で低い草に白い漏斗状の小花を探す。対生する葉と筒状の白花が識別ポイント。"
+    },
+    "en": {
+      "summary": "White Inamori Herb. A low perennial (Rubiaceae) of montane forest floors from Honshu to Kyushu, with opposite leaves and small white funnel-shaped flowers in summer; the white-flowered form of the inamori herb.",
+      "habitat_hint": "damp montane forest floor, shade beneath trees, along streams.",
+      "finding_tips": "From June to July, on the forest floor look for a low herb with small white funnel-shaped flowers; the opposite leaves and tubular white flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "白花稻森草（シロバナイナモリソウ）。生于日本本州至九州山地林床的茜草科多年生草本，茎低矮、叶对生，夏季开白色漏斗状小花，为稻森草的白花型。",
+      "habitat_hint": "山地略湿林床、树下荫处、沢沿。",
+      "finding_tips": "6 至 7 月于林床寻找低矮草上白色漏斗状小花。对生叶与筒状白花为辨识要点。"
+    }
+  },
+  "Pteris laurisilvicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Laurel-forest Brake Fern",
+    "ja": {
+      "summary": "アイコハチジョウシダ。暖地の林床や林縁に生えるイノモトソウ科イノモトソウ属のシダ。葉は羽状に分かれ、やや光沢がある。ハチジョウシダに近縁で暖温帯の常緑樹林に多い。",
+      "habitat_hint": "暖地の常緑樹林の林床、林縁、沢沿いの斜面。",
+      "finding_tips": "通年、暖地の林床で羽状に分かれたやや光沢のあるシダを探す。羽片の形と胞子嚢群の付き方がイノモトソウ属の識別点。"
+    },
+    "en": {
+      "summary": "Laurel-forest Brake Fern. A brake fern (Pteridaceae, Pteris) of warm-region forest floors and edges, with somewhat glossy pinnate fronds; related to Pteris fauriei and common in warm-temperate evergreen forest.",
+      "habitat_hint": "warm-region evergreen forest floor, edges, streamside slopes.",
+      "finding_tips": "Year-round, on warm-region forest floors look for a somewhat glossy pinnate fern; pinna shape and marginal sori place it in Pteris."
+    },
+    "zh": {
+      "summary": "照叶林凤尾蕨（アイコハチジョウシダ）。生于暖地林床与林缘的凤尾蕨科凤尾蕨属蕨类，叶羽状分裂、略有光泽，与八丈凤尾蕨近缘，多见于暖温带常绿林。",
+      "habitat_hint": "暖地常绿林林床、林缘、沢沿山坡。",
+      "finding_tips": "全年可见，于暖地林床寻找羽状分裂略具光泽的蕨。羽片形状与孢子囊群着生为凤尾蕨属辨识点。"
+    }
+  },
+  "Pterobryon arbuscula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tree Moss",
+    "ja": {
+      "summary": "ヒムロゴケ。樹幹や岩上に着生するヒムロゴケ科のコケ（蘚類）。主軸から枝が樹状に分かれ、小さな木立のような立体的な姿になる。濃緑色でつやがある。",
+      "habitat_hint": "湿潤な森林の樹幹・枝、コケの多い岩。",
+      "finding_tips": "通年、湿った森の樹幹や枝で樹状に枝分かれした立体的なコケを探す。小さな木立のような姿が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Tree Moss. An epiphytic moss (Pterobryaceae) of trunks and rocks, its main axis branching in a tree-like form to make a three-dimensional miniature grove; dark green and glossy.",
+      "habitat_hint": "trunks and branches in humid forest, mossy rocks.",
+      "finding_tips": "Year-round, on damp forest trunks and branches look for a three-dimensional tree-branched moss; the miniature grove form is diagnostic."
+    },
+    "zh": {
+      "summary": "树藓（ヒムロゴケ）。附生于树干与岩石的树藓科苔藓（藓类），主轴树状分枝，形成立体的小树丛状姿态，深绿而有光泽。",
+      "habitat_hint": "湿润森林树干与枝、多苔岩石。",
+      "finding_tips": "全年可见，于湿润森林树干枝上寻找树状分枝的立体苔藓。似小树丛的姿态为辨识要点。"
+    }
+  },
+  "Ptychanthus striatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Striate Liverwort",
+    "ja": {
+      "summary": "シダレゴヘイゴケ。樹幹や岩上に垂れ下がって生えるクサリゴケ科のコケ（苔類）。長く伸びる茎に規則正しく葉を並べ、しばしば長く枝垂れる。表面に細かい縦条がある。",
+      "habitat_hint": "湿潤な森林の樹幹・枝、コケの多い岩。",
+      "finding_tips": "通年、湿った森の樹幹や枝から長く枝垂れる茎葉体を探す。規則正しく並ぶ葉と表面の縦条が識別ポイント。"
+    },
+    "en": {
+      "summary": "Striate Liverwort. A leafy liverwort (Lejeuneaceae) hanging from trunks and rocks, its long stems bearing regularly arranged leaves and often pendent; the surface finely longitudinally striate.",
+      "habitat_hint": "trunks and branches in humid forest, mossy rocks.",
+      "finding_tips": "Year-round, on damp forest trunks and branches look for a long pendent leafy liverwort; the regular leaves and fine surface striations are diagnostic."
+    },
+    "zh": {
+      "summary": "垂细鳞苔（シダレゴヘイゴケ）。垂生于树干与岩石的细鳞苔科苔类，长茎规则排列叶片、常长垂而下，表面具细纵条纹。",
+      "habitat_hint": "湿润森林树干与枝、多苔岩石。",
+      "finding_tips": "全年可见，于湿润森林树干枝上寻找长垂的茎叶体。规则排列的叶与表面纵条纹为辨识要点。"
+    }
+  },
+  "Ptychognathus capillidigitatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy-fingered Crab",
+    "ja": {
+      "summary": "ヒメヒライソモドキ。河口や汽水域の転石下にすむイワガニ科（モクズガニ類）の小型のカニ。甲は扁平でほぼ四角く、はさみ脚に毛の房を持つ。淡水の影響のある水域を好む。",
+      "habitat_hint": "河口、汽水域、川の下流の転石下、護岸の隙間。",
+      "finding_tips": "干潮時、河口や汽水域の転石をめくると見つかる。扁平な四角い甲と、はさみに生えた毛の房が識別ポイント。"
+    },
+    "en": {
+      "summary": "Hairy-fingered Crab. A small crab (Varunidae) living under boulders in estuaries and brackish water, with a flat nearly square carapace and tufts of hair on the claws; it favours freshwater-influenced waters.",
+      "habitat_hint": "estuaries, brackish water, lower-river boulders, seawall crevices.",
+      "finding_tips": "At low tide, turning boulders in estuaries and brackish water reveals it; the flat square carapace and hair tufts on the claws are diagnostic."
+    },
+    "zh": {
+      "summary": "毛指拟平相手蟹（ヒメヒライソモドキ）。栖于河口与半咸水砾石下的弓蟹科小型蟹，甲扁平近方形，螯足具毛丛，喜受淡水影响的水域。",
+      "habitat_hint": "河口、半咸水、河流下游砾石下、护岸缝隙。",
+      "finding_tips": "退潮时翻开河口半咸水砾石可见。扁平方形甲与螯上毛丛为辨识要点。"
+    }
+  },
+  "Puccinia paederiae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Skunkvine Rust",
+    "ja": {
+      "summary": "ヘクソカズラさび病菌。つる植物ヘクソカズラの葉に寄生するサビキン科のさび病菌。感染した葉の裏に橙褐色〜黒褐色の胞子の塊（さび胞子・冬胞子）を生じる。",
+      "habitat_hint": "ヘクソカズラの生える林縁、生け垣、道端、草地。",
+      "finding_tips": "夏〜秋、ヘクソカズラの葉裏に橙褐色の粉状の胞子塊がついていれば本菌。宿主植物と葉裏の胞子塊が識別ポイント。"
+    },
+    "en": {
+      "summary": "Skunkvine Rust. A rust fungus (Pucciniaceae) parasitising the leaves of skunkvine (Paederia), producing orange-brown to blackish spore masses (urediniospores and teliospores) on the leaf undersides.",
+      "habitat_hint": "forest edges, hedges, waysides and grassland where skunkvine grows.",
+      "finding_tips": "From summer to autumn, orange-brown powdery spore masses on the underside of skunkvine leaves signal this fungus; the host plant and undersurface pustules are diagnostic."
+    },
+    "zh": {
+      "summary": "鸡矢藤锈菌（ヘクソカズラさび病菌）。寄生于藤本鸡矢藤叶片的柄锈菌科锈菌，于染病叶背生出橙褐至黑褐色孢子堆（夏孢子、冬孢子）。",
+      "habitat_hint": "生鸡矢藤的林缘、绿篱、路旁、草地。",
+      "finding_tips": "夏至秋若鸡矢藤叶背附橙褐粉状孢子堆即为本菌。寄主植物与叶背孢子堆为辨识要点。"
+    }
   }
 }
