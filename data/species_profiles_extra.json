@@ -251170,5 +251170,465 @@
       "habitat_hint": "生鸡矢藤的林缘、绿篱、路旁、草地。",
       "finding_tips": "夏至秋若鸡矢藤叶背附橙褐粉状孢子堆即为本菌。寄主植物与叶背孢子堆为辨识要点。"
     }
+  },
+  "Quercus takatorensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ko-gashiwa Oak",
+    "ja": {
+      "summary": "コガシワ。西日本の丘陵〜低山に生えるブナ科コナラ属の落葉樹で、カシワとコナラの雑種起源とされる。葉はカシワに似て縁が波打つが、より小型。",
+      "habitat_hint": "丘陵地、里山の雑木林、明るい林縁。",
+      "finding_tips": "カシワに似た波打つ縁の葉を持つがやや小型の落葉樹を探す。両親種の中間的な葉の形が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ko-gashiwa Oak. A deciduous oak (Fagaceae, Quercus) of hills and low mountains in western Japan, thought to be of hybrid origin between daimyo oak and jolcham oak; its wavy-margined leaves resemble daimyo oak but are smaller.",
+      "habitat_hint": "hills, satoyama secondary woodland, bright forest edges.",
+      "finding_tips": "Look for a deciduous oak with wavy-margined leaves like daimyo oak but smaller; the leaf shape intermediate between the parents is diagnostic."
+    },
+    "zh": {
+      "summary": "小槲栎（コガシワ）。生于日本西部丘陵至低山的壳斗科栎属落叶树，被认为是槲树与枹栎的杂交后代，叶似槲树而缘波状但更小。",
+      "habitat_hint": "丘陵地、里山杂木林、明亮林缘。",
+      "finding_tips": "寻找叶缘波状似槲树但较小的落叶栎。介于双亲之间的叶形为辨识要点。"
+    }
+  },
+  "Racotis petrosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grey Wave Geometer",
+    "ja": {
+      "summary": "ナミスジエダシャク。本州〜九州の樹林に分布するシャクガ科エダシャク亜科の蛾。翅は灰色〜灰褐色で、細かい波状の横線が走る。樹皮に止まると保護色になる。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "5〜8月、夜間に灯火へ来る。灰色地に細かい波状の横線が走る翅が識別ポイント。"
+    },
+    "en": {
+      "summary": "Grey Wave Geometer. A geometer moth (Ennominae) of woodland from Honshu to Kyushu, with grey to grey-brown wings crossed by fine wavy lines; well camouflaged on bark.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From May to August it comes to lights at night. Grey wings crossed by fine wavy lines are diagnostic."
+    },
+    "zh": {
+      "summary": "波纹尺蛾（ナミスジエダシャク）。分布于日本本州至九州林地的尺蛾科尺蛾亚科蛾，翅灰至灰褐色、具细密波状横线，栖于树皮时形成保护色。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "5 至 8 月夜间趋光。灰底上细密波状横线的翅面为辨识要点。"
+    }
+  },
+  "Ramalina peruviana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Powdery Cartilage Lichen",
+    "ja": {
+      "summary": "コフキカラタチゴケ。樹幹や枝に着生する樹枝状（低木状）の地衣類。淡緑色の細い裂片が房状に立ち上がり、表面に粉状の粉芽（そらい）をつける。",
+      "habitat_hint": "日当たりのよい樹幹・枝、公園の樹木、海岸近くの木。",
+      "finding_tips": "通年、樹幹や枝に房状に立ち上がる淡緑色の細い地衣を探す。表面の白っぽい粉（粉芽）が名（粉吹き）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Powdery Cartilage Lichen. A shrubby (fruticose) lichen epiphytic on trunks and branches, its pale-green narrow lobes rising in tufts and bearing powdery soredia on the surface.",
+      "habitat_hint": "sunlit trunks and branches, park trees, trees near the coast.",
+      "finding_tips": "Year-round, on trunks and branches look for a pale-green narrow tufted lichen; the whitish powdery soredia are diagnostic."
+    },
+    "zh": {
+      "summary": "粉树花衣（コフキカラタチゴケ）。附生于树干与枝的枝状（灌木状）地衣，淡绿细裂片丛状直立，表面生粉状粉芽。",
+      "habitat_hint": "向阳树干与枝、公园树木、近海岸树木。",
+      "finding_tips": "全年可见，于树干枝上寻找丛状直立的淡绿细地衣。表面白粉状粉芽为辨识要点。"
+    }
+  },
+  "Ramobia basifuscaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark-based Geometer",
+    "ja": {
+      "summary": "ネグロエダシャク。本州〜九州の樹林に分布するシャクガ科エダシャク亜科の蛾。翅は淡色で、前翅の基部（付け根）が暗色になるのが名の由来。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "4〜7月、夜間に灯火へ来る。淡色の翅と、前翅基部の暗色部が識別ポイント。"
+    },
+    "en": {
+      "summary": "Dark-based Geometer. A geometer moth (Ennominae) of woodland from Honshu to Kyushu, with pale wings whose forewing base is darkened — the source of its Japanese name.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From April to July it comes to lights at night. Pale wings with a dark forewing base are diagnostic."
+    },
+    "zh": {
+      "summary": "根黑尺蛾（ネグロエダシャク）。分布于日本本州至九州林地的尺蛾科尺蛾亚科蛾，翅淡色，前翅基部暗色，即其日文名之由来。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "4 至 7 月夜间趋光。淡色翅面与前翅基部暗色部为辨识要点。"
+    }
+  },
+  "Ranunculus ternatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒキノカサ。本州〜九州の湿った草地や水田の畦に生えるキンポウゲ科の多年草。早春に光沢のある黄色い5弁花を咲かせ、根が紡錘状に膨らむ。有毒植物。",
+      "habitat_hint": "湿った草地、水田の畦、溝の縁、湿地。",
+      "finding_tips": "3〜4月、湿った草地で光沢のある黄色い花を探す。三出状に分かれる葉と紡錘状の根が識別ポイント。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Catclaw Buttercup. A perennial buttercup (Ranunculaceae) of damp grassland and paddy banks from Honshu to Kyushu, with glossy yellow five-petalled flowers in early spring and spindle-thickened roots; the plant is poisonous.",
+      "habitat_hint": "damp grassland, paddy banks, ditch edges, wetlands.",
+      "finding_tips": "From March to April, in damp grassland look for glossy yellow flowers; the ternate leaves and spindle roots are diagnostic — poisonous, do not ingest."
+    },
+    "zh": {
+      "summary": "猫爪草（ヒキノカサ）。生于日本本州至九州湿润草地与稻田田埂的毛茛科多年生草本，早春开有光泽的黄色五瓣花，根呈纺锤状膨大，为有毒植物。",
+      "habitat_hint": "湿润草地、稻田田埂、沟缘、湿地。",
+      "finding_tips": "3 至 4 月于湿润草地寻找有光泽的黄花。三出状分裂叶与纺锤状根为辨识要点。有毒，勿食。"
+    }
+  },
+  "Ranunculus trichophyllus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thread-leaved Water Crowfoot",
+    "ja": {
+      "summary": "ウメバチモ。池沼や清流に沈水するキンポウゲ科バイカモ属の多年草。水中の葉は糸のように細かく分かれ、初夏に水面に白い梅の花のような5弁花を咲かせる。",
+      "habitat_hint": "清流、池沼、湧水のある水路、冷たい水域。",
+      "finding_tips": "5〜7月、きれいな水中で糸状に細かく分かれた葉と、水面に浮かぶ白い梅花状の花を探す。花と糸状葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Thread-leaved Water Crowfoot. A submerged perennial (Ranunculaceae, Batrachium) of ponds and clear streams, its underwater leaves finely divided into threads and its white plum-blossom-like five-petalled flowers held at the surface in early summer.",
+      "habitat_hint": "clear streams, ponds, spring-fed channels, cool waters.",
+      "finding_tips": "From May to July, in clean water look for thread-divided leaves and white plum-blossom-like flowers at the surface; the flowers and threadlike leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "毛柄毛茛（ウメバチモ）。沉水于池沼与清流的毛茛科水毛茛属多年生草本，水中叶细裂如丝，初夏于水面开白色似梅五瓣花。",
+      "habitat_hint": "清流、池沼、涌泉水渠、冷水域。",
+      "finding_tips": "5 至 7 月于清水中寻找丝状细裂叶与水面白色梅花状花。花与丝状叶为辨识要点。"
+    }
+  },
+  "Rhinogobius fluviatilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large-scaled Goby",
+    "ja": {
+      "summary": "オオヨシノボリ。河川の中〜上流の瀬にすむハゼ科ヨシノボリ属の淡水魚。ヨシノボリ類の中では大型で、頬に赤い斑紋が出る。石の間に縄張りを持ち、腹の吸盤で石に付着する。",
+      "habitat_hint": "河川の中〜上流の瀬、石の多い流れ、渓流。",
+      "finding_tips": "石の多い川の瀬で、石の陰にひそむ大型のヨシノボリを探す。頬の赤い斑紋と大きめの体が識別ポイント。"
+    },
+    "en": {
+      "summary": "Large-scaled Goby. A freshwater goby (Gobiidae, Rhinogobius) of mid-to-upper river riffles; large for its genus, with red markings on the cheek, it holds territory among stones and clings to rock with its ventral sucker.",
+      "habitat_hint": "mid-to-upper river riffles, stony currents, mountain streams.",
+      "finding_tips": "In stony river riffles look for a large goby lurking beside stones; the red cheek markings and larger size are diagnostic."
+    },
+    "zh": {
+      "summary": "大吻鰕虎（オオヨシノボリ）。栖于河流中上游浅濑的鰕虎鱼科吻鰕虎属淡水鱼，在同属中体型偏大，颊部具红斑，于石间占据领域，以腹部吸盘附石。",
+      "habitat_hint": "河流中上游浅濑、多石流水、溪流。",
+      "finding_tips": "于多石河濑寻找藏于石旁的大型吻鰕虎。颊部红斑与较大体型为辨识要点。"
+    }
+  },
+  "Rhododendron tosaense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tosa Azalea",
+    "ja": {
+      "summary": "フジツツジ。西日本の丘陵〜低山に生えるツツジ科の半落葉低木。春に淡紫紅色の小さな花を咲かせ、細い枝に小型の葉をつける。乾いた尾根や岩場に多い。",
+      "habitat_hint": "丘陵〜低山の乾いた尾根、岩場、明るい林縁。",
+      "finding_tips": "4〜5月、乾いた尾根や岩場で淡紫紅色の小さな花をつける低木を探す。細枝と小型の葉、藤色の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Tosa Azalea. A semi-deciduous azalea shrub (Ericaceae) of hills and low mountains in western Japan, bearing small pale purplish-pink flowers in spring on slender twigs with small leaves; common on dry ridges and rocky ground.",
+      "habitat_hint": "dry ridges of hills and low mountains, rocky ground, bright forest edges.",
+      "finding_tips": "From April to May, on dry ridges and rocks look for a shrub with small pale purplish-pink flowers; the slender twigs, small leaves and wisteria-coloured flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "土佐杜鹃（フジツツジ）。生于日本西部丘陵至低山的杜鹃花科半落叶灌木，春开淡紫红色小花，细枝着小型叶，多见于干燥山脊与岩地。",
+      "habitat_hint": "丘陵至低山干燥山脊、岩地、明亮林缘。",
+      "finding_tips": "4 至 5 月于干燥山脊岩地寻找开淡紫红小花的灌木。细枝、小叶与藤色花为辨识要点。"
+    }
+  },
+  "Rhododendron trinerve": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Larger Rice-leaf Azalea",
+    "ja": {
+      "summary": "オオコメツツジ。山地〜亜高山に生えるツツジ科の落葉低木。コメツツジより大型で、小さな白い花を咲かせ、細い枝に小型の葉を密につける。",
+      "habitat_hint": "山地〜亜高山の尾根、岩場、明るい林縁、湿原の周縁。",
+      "finding_tips": "6〜7月、山地の尾根や岩場で白い小さな花をつける落葉低木を探す。コメツツジより葉が大きめな点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Larger Rice-leaf Azalea. A deciduous azalea shrub (Ericaceae) of montane to subalpine zones, larger than the rice-leaf azalea, with small white flowers and small leaves densely set on slender twigs.",
+      "habitat_hint": "montane to subalpine ridges, rocky ground, bright forest edges, bog margins.",
+      "finding_tips": "From June to July, on mountain ridges and rocks look for a deciduous shrub with small white flowers; the leaves larger than the rice-leaf azalea are diagnostic."
+    },
+    "zh": {
+      "summary": "大米叶杜鹃（オオコメツツジ）。生于山地至亚高山的杜鹃花科落叶灌木，较米叶杜鹃大，开白色小花，细枝密生小型叶。",
+      "habitat_hint": "山地至亚高山山脊、岩地、明亮林缘、湿原周缘。",
+      "finding_tips": "6 至 7 月于山地山脊岩地寻找开白色小花的落叶灌木。叶较米叶杜鹃大为辨识要点。"
+    }
+  },
+  "Riccardia planiflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat Riccardia",
+    "ja": {
+      "summary": "ヒメテングサゴケ。湿った土や腐った木の上に生える葉状体性のコケ（苔類）。細い葉状体が羽状に分かれ、テングサ（海藻）のような姿になる。緑〜濃緑色。",
+      "habitat_hint": "湿った土上、腐った倒木、渓流沿いの岩、湿地。",
+      "finding_tips": "通年、湿った土や朽ち木で細く羽状に分かれた葉状体を探す。海藻のテングサに似た小さな姿が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Flat Riccardia. A thalloid liverwort (Aneuraceae) of damp soil and rotten wood, its narrow thallus pinnately branched into a seaweed-like form, green to dark green.",
+      "habitat_hint": "damp soil, rotten logs, streamside rock, wetlands.",
+      "finding_tips": "Year-round, on damp soil and rotten wood look for a narrow pinnately branched thallus; the small seaweed-like form is diagnostic."
+    },
+    "zh": {
+      "summary": "扁萼羽苔（ヒメテングサゴケ）。生于潮湿土面与腐木的叶状体苔类，细叶状体羽状分裂、形似海藻石花菜，绿至深绿色。",
+      "habitat_hint": "潮湿土面、腐倒木、溪流沿岸岩石、湿地。",
+      "finding_tips": "全年可见，于湿土朽木上寻找细而羽状分裂的叶状体。似海藻的小巧姿态为辨识要点。"
+    }
+  },
+  "Riccia lamellosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lamellate Crystalwort",
+    "ja": {
+      "summary": "ウロコハタケゴケ。畑や裸地の土上に生える葉状体性のコケ（苔類）。二叉に分かれた小さな葉状体がロゼット状に地表に広がり、乾くと縁が反り返って鱗状に見える。",
+      "habitat_hint": "畑、裸地、道端、日当たりのよい湿った土上。",
+      "finding_tips": "秋〜春、畑や裸地の土上でロゼット状に広がる小さな葉状体を探す。乾くと鱗状に反り返る縁が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Lamellate Crystalwort. A thalloid liverwort (Ricciaceae) of field and bare soil, its small dichotomous thalli spreading in rosettes over the ground, the margins curling up scale-like when dry.",
+      "habitat_hint": "fields, bare ground, waysides, sunny damp soil.",
+      "finding_tips": "From autumn to spring, on field and bare soil look for small rosette-forming thalli; the margins curling scale-like when dry are diagnostic."
+    },
+    "zh": {
+      "summary": "鳞叶钱苔（ウロコハタケゴケ）。生于菜地与裸地土面的叶状体苔类，二叉分裂的小叶状体呈莲座状铺展地表，干时边缘反卷如鳞。",
+      "habitat_hint": "菜地、裸地、路旁、向阳潮湿土面。",
+      "finding_tips": "秋至春于菜地裸地土面寻找莲座状铺展的小叶状体。干时反卷如鳞的边缘为辨识要点。"
+    }
+  },
+  "Roboastra gracilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ryugu Nudibranch",
+    "ja": {
+      "summary": "リュウグウウミウシ。南日本の岩礁海岸にすむフジタウミウシ科の裸鰓類（ウミウシ）。体は黒地に青や黄の鮮やかな縦線が走り、他のウミウシを捕食する肉食性で知られる。",
+      "habitat_hint": "潮下帯の岩礁、サンゴ礁、他のウミウシがいる岩場。",
+      "finding_tips": "潜水で、黒地に青・黄の縦線が入った細長いウミウシを探す。派手な縦縞と肉食性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ryugu Nudibranch. A polycerid nudibranch of rocky shores in southern Japan, black with vivid blue and yellow longitudinal lines; noted as a predator that hunts other nudibranchs.",
+      "habitat_hint": "subtidal rock, coral reef, rocky areas with other sea slugs.",
+      "finding_tips": "When diving look for an elongate black nudibranch with blue and yellow stripes; the bold striping and carnivorous habit are diagnostic."
+    },
+    "zh": {
+      "summary": "龙宫海牛（リュウグウウミウシ）。分布于日本南部岩礁海岸的多角海牛科裸鳃动物，体黑而具鲜艳蓝黄纵纹，为捕食其他海牛的肉食性种类。",
+      "habitat_hint": "潮下带岩礁、珊瑚礁、有其他海牛的岩区。",
+      "finding_tips": "潜水寻找黑底蓝黄纵纹的细长海牛。鲜明纵纹与肉食习性为辨识要点。"
+    }
+  },
+  "Rosa fujisanensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fuji Rose",
+    "ja": {
+      "summary": "フジイバラ。本州〜九州の山地に生えるバラ科バラ属の落葉低木（野ばら）。枝にとげがあり、初夏に白い5弁花を咲かせる。ノイバラに似るが小葉が細長い。",
+      "habitat_hint": "山地の林縁、明るい斜面、道端、河原。",
+      "finding_tips": "5〜6月、山地の林縁でとげのある枝に白い5弁花をつける野ばらを探す。ノイバラより細長い小葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Fuji Rose. A deciduous wild rose (Rosaceae, Rosa) of montane Honshu to Kyushu, thorny-stemmed with white five-petalled flowers in early summer; resembles the multiflora rose but with narrower leaflets.",
+      "habitat_hint": "montane forest edges, bright slopes, waysides, riverbanks.",
+      "finding_tips": "From May to June, at mountain forest edges look for a thorny wild rose with white five-petalled flowers; the narrower leaflets distinguish it from the multiflora rose."
+    },
+    "zh": {
+      "summary": "富士蔷薇（フジイバラ）。生于日本本州至九州山地的蔷薇科蔷薇属落叶灌木（野蔷薇），枝具刺，初夏开白色五瓣花，似野蔷薇但小叶更狭长。",
+      "habitat_hint": "山地林缘、明亮山坡、路旁、河滩。",
+      "finding_tips": "5 至 6 月于山地林缘寻找有刺枝上着白色五瓣花的野蔷薇。较野蔷薇狭长的小叶为辨识要点。"
+    }
+  },
+  "Rubus maximowiczii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maximowicz's Bramble",
+    "ja": {
+      "summary": "オオフユイチゴ。西日本の山地の林床に生えるバラ科キイチゴ属の常緑つる性小低木。地を這って伸び、丸い葉と白い花をつけ、冬に赤い集合果を実らせる。フユイチゴより大型。",
+      "habitat_hint": "山地のやや湿った林床、樹林下の日陰、沢沿い。",
+      "finding_tips": "冬、林床で地を這うつる性の木に赤い実がついていれば本種。丸い常緑の葉と、フユイチゴより大きめの点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Maximowicz's Bramble. An evergreen trailing bramble (Rosaceae, Rubus) of montane forest floors in western Japan, creeping over the ground with rounded leaves and white flowers, ripening red aggregate fruit in winter; larger than the winter raspberry.",
+      "habitat_hint": "damp montane forest floor, shade beneath trees, along streams.",
+      "finding_tips": "In winter, on the forest floor a trailing woody plant with red fruit signals this species; the rounded evergreen leaves, larger than the winter raspberry, are diagnostic."
+    },
+    "zh": {
+      "summary": "大冬莓（オオフユイチゴ）。生于日本西部山地林床的蔷薇科悬钩子属常绿蔓性小灌木，匍匐地面，具圆叶白花，冬结红色聚合果，较冬莓大。",
+      "habitat_hint": "山地略湿林床、树下荫处、沢沿。",
+      "finding_tips": "冬季林床匍匐木质藤上若结红果即为本种。圆形常绿叶及较冬莓大为辨识要点。"
+    }
+  },
+  "Rumex longifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノダイオウ。湿った草地や水辺に生えるタデ科ギシギシ属の多年草。大型で、細長い葉を根元に多数つけ、夏に緑褐色の小花を穂状に密生させる。ヨーロッパ原産の帰化植物。",
+      "habitat_hint": "湿った草地、河川敷、水辺、道端。",
+      "finding_tips": "夏、湿った草地で背の高い株に緑褐色の穂状の花序と細長い大きな葉を探す。ギシギシ類の中で大型な点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Yard Dock. A tall perennial (Polygonaceae, Rumex) of damp grassland and waterside, with numerous long basal leaves and dense spikes of greenish-brown flowers in summer; a European naturalised plant.",
+      "habitat_hint": "damp grassland, riverbanks, waterside, waysides.",
+      "finding_tips": "In summer, in damp grassland look for a tall plant with greenish-brown flower spikes and long large leaves; its large size among the docks is diagnostic."
+    },
+    "zh": {
+      "summary": "长叶酸模（ノダイオウ）。生于潮湿草地与水边的蓼科酸模属多年生草本，植株高大，基部多数狭长叶，夏季密生绿褐色穗状小花，为原产欧洲的归化植物。",
+      "habitat_hint": "潮湿草地、河滩、水边、路旁。",
+      "finding_tips": "夏季于湿润草地寻找高大植株上的绿褐穗状花序与狭长大叶。酸模类中体型高大为辨识要点。"
+    }
+  },
+  "Russula neoemetica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False Sickener",
+    "ja": {
+      "summary": "ドクベニダマシ。夏〜秋に雑木林の地上に生えるベニタケ科のキノコ。傘は鮮やかな赤色でドクベニタケに似るが別種。有毒とされ、食べると胃腸障害を起こすので食用にしない。",
+      "habitat_hint": "夏〜秋の雑木林・広葉樹林の地上、樹木の根際。",
+      "finding_tips": "夏〜秋、林内の地上に生える鮮赤色の傘のキノコを探す。ドクベニタケに酷似し区別は難しい。有毒なので採取・食用は避ける。"
+    },
+    "en": {
+      "summary": "False Sickener. A brittlegill mushroom (Russulaceae) fruiting on the ground in summer to autumn woodland, its cap bright red like the true sickener but a distinct species; regarded as poisonous, causing gastric upset, and not eaten.",
+      "habitat_hint": "ground of summer-to-autumn secondary and broadleaf woodland, near tree roots.",
+      "finding_tips": "From summer to autumn look for a bright-red-capped mushroom on the woodland floor; nearly identical to the sickener and hard to separate — poisonous, do not collect or eat."
+    },
+    "zh": {
+      "summary": "拟毒红菇（ドクベニダマシ）。夏秋生于杂木林地面的红菇科真菌，菌盖鲜红似毒红菇而为不同种。被视为有毒，食后引起胃肠不适，不作食用。",
+      "habitat_hint": "夏秋杂木林与阔叶林地面、树根附近。",
+      "finding_tips": "夏秋于林内地面寻找鲜红盖菌。与毒红菇极似难辨。有毒，勿采勿食。"
+    }
+  },
+  "Russula rosea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rosy Brittlegill",
+    "ja": {
+      "summary": "ヤブレベニタケ。夏〜秋に林内の地上に生えるベニタケ科のキノコ。傘は淡紅色で、しばしば表面が破れて白い肉が見える。肉は硬くもろい。食毒不明で食用にしないのが無難。",
+      "habitat_hint": "夏〜秋の雑木林・針広混交林の地上、樹木の根際。",
+      "finding_tips": "夏〜秋、林内で淡紅色の傘が破れて白い肉が見えるキノコを探す。もろい肉と傘の破れ具合が識別ポイント。"
+    },
+    "en": {
+      "summary": "Rosy Brittlegill. A brittlegill mushroom (Russulaceae) fruiting on the ground in summer to autumn woodland, its pale-pink cap often cracking to reveal the white flesh; the flesh is hard and brittle. Best not eaten as its edibility is uncertain.",
+      "habitat_hint": "ground of summer-to-autumn secondary and mixed woodland, near tree roots.",
+      "finding_tips": "From summer to autumn look for a pale-pink-capped mushroom whose cap cracks to show white flesh; the brittle flesh and cracking cap are diagnostic."
+    },
+    "zh": {
+      "summary": "玫瑰红菇（ヤブレベニタケ）。夏秋生于林内地面的红菇科真菌，菌盖淡红、常开裂露出白色菌肉，肉硬而脆。食毒不明，以不食为宜。",
+      "habitat_hint": "夏秋杂木林与针阔混交林地面、树根附近。",
+      "finding_tips": "夏秋于林内寻找淡红盖开裂露白肉的菌。脆肉与盖面开裂为辨识要点。"
+    }
+  },
+  "Russula subnigricans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Poison Blackening Brittlegill",
+    "ja": {
+      "summary": "ニセクロハツ。夏〜秋に雑木林の地上に生えるベニタケ科の猛毒キノコ。傘は黒褐色で、傷つくと肉が赤変するが黒くはならない。食べると横紋筋融解症を起こし死に至ることがある。絶対に食べない。",
+      "habitat_hint": "夏〜秋の雑木林・シイカシ林の地上、樹木の根際。",
+      "finding_tips": "夏〜秋、林内の黒褐色の傘のキノコで、傷つけると赤くなり黒変しないものは本種の疑い。猛毒で死亡例があり、絶対に採取・食用しない。"
+    },
+    "en": {
+      "summary": "Poison Blackening Brittlegill. A deadly brittlegill (Russulaceae) fruiting on the ground in summer to autumn woodland, its blackish-brown cap and flesh reddening when cut but not turning black; ingestion causes rhabdomyolysis and can be fatal. Never eat it.",
+      "habitat_hint": "ground of summer-to-autumn secondary and evergreen-oak woodland, near tree roots.",
+      "finding_tips": "From summer to autumn a blackish-brown-capped mushroom whose flesh reddens but does not blacken when cut is suspect; deadly poisonous with recorded fatalities — never collect or eat."
+    },
+    "zh": {
+      "summary": "亚黑红菇（ニセクロハツ）。夏秋生于杂木林地面的红菇科剧毒菌，菌盖黑褐色，受伤菌肉变红但不变黑。食后引起横纹肌溶解，可致死。切勿食用。",
+      "habitat_hint": "夏秋杂木林与栲栎林地面、树根附近。",
+      "finding_tips": "夏秋林内黑褐盖、受伤变红而不变黑的菌须疑为本种。剧毒有致死记录，切勿采食。"
+    }
+  },
+  "Sarcoscypha coccinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scarlet Elfcup",
+    "ja": {
+      "summary": "ベニチャワンタケ。冬〜早春に落ち枝や倒木上に生えるベニチャワンタケ科の子嚢菌。鮮やかな緋色の茶碗（椀）状の子実体をつけ、外側は白っぽい。雪解けの林床で目を引く。",
+      "habitat_hint": "冬〜早春の落葉樹林の落ち枝・倒木、湿った林床。",
+      "finding_tips": "1〜4月、湿った林床の落ち枝に緋色の椀状のキノコを探す。鮮やかな赤い内面と白っぽい外面が識別ポイント。"
+    },
+    "en": {
+      "summary": "Scarlet Elfcup. An ascomycete (Sarcoscyphaceae) fruiting on fallen twigs and logs in winter to early spring, forming vivid scarlet cup-shaped bodies whitish on the outside; a striking sight on the thawing forest floor.",
+      "habitat_hint": "fallen twigs and logs in winter-to-early-spring deciduous woodland, damp forest floor.",
+      "finding_tips": "From January to April, on damp fallen twigs look for scarlet cup-shaped fungi; the vivid red inner surface and whitish exterior are diagnostic."
+    },
+    "zh": {
+      "summary": "红盘菌（ベニチャワンタケ）。冬至早春生于落枝倒木的肉杯菌科子囊菌，子实体呈鲜红碗状、外侧偏白，于融雪林床格外醒目。",
+      "habitat_hint": "冬至早春落叶林落枝倒木、潮湿林床。",
+      "finding_tips": "1 至 4 月于潮湿林床落枝上寻找红色碗状菌。鲜红内面与偏白外面为辨识要点。"
+    }
+  },
+  "Sasa fugeshiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fugeshi Bamboo Grass",
+    "ja": {
+      "summary": "フゲシザサ。本州の日本海側などに分布するイネ科ササ属の小型のササ（笹）。稈は細く、幅広い葉を数枚つけ、林床や斜面に群生する。地下茎で広がる。",
+      "habitat_hint": "山地の林床、林縁、日本海側の斜面、明るい二次林。",
+      "finding_tips": "通年、林床で細い稈に幅広い葉をつけて群生するササを探す。葉の形と稈の毛の有無でササ属を細かく見分ける。"
+    },
+    "en": {
+      "summary": "Fugeshi Bamboo Grass. A small dwarf bamboo (Poaceae, Sasa) of the Japan Sea side of Honshu and beyond, with slender culms bearing a few broad leaves and forming colonies on forest floors and slopes via rhizomes.",
+      "habitat_hint": "montane forest floor, forest edges, Japan-Sea-side slopes, bright secondary forest.",
+      "finding_tips": "Year-round, on the forest floor look for a slender-culmed dwarf bamboo with broad leaves forming colonies; leaf shape and culm hairs separate the Sasa species."
+    },
+    "zh": {
+      "summary": "凤至笹（フゲシザサ）。分布于日本本州日本海侧等地的禾本科赤竹属小型笹（矮竹），秆细、着数枚宽叶，借地下茎在林床与山坡成片生长。",
+      "habitat_hint": "山地林床、林缘、日本海侧山坡、明亮次生林。",
+      "finding_tips": "全年可见，于林床寻找细秆宽叶成片生长的矮竹。叶形与秆毛有无可细分赤竹属。"
+    }
+  },
+  "Saussurea pulchella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beautiful Saw-wort",
+    "ja": {
+      "summary": "ヒメヒゴタイ。日当たりのよい草地や山地の草原に生えるキク科トウヒレン属の多年草。夏〜秋、細く分かれた枝先に淡紅紫色の頭花を多数つける。総苞片の先が反り返って美しい。",
+      "habitat_hint": "日当たりのよい草地、山地の草原、明るい林縁。",
+      "finding_tips": "8〜10月、草地で細く枝分かれした茎先に淡紅紫色の頭花を多数つける草を探す。反り返る総苞片の付属体が識別ポイント。"
+    },
+    "en": {
+      "summary": "Beautiful Saw-wort. A perennial (Asteraceae, Saussurea) of sunny grassland and montane meadows, bearing many pale purplish-pink flower heads on finely branched stems in late summer to autumn; the reflexed involucral bract tips are elegant.",
+      "habitat_hint": "sunny grassland, montane meadows, bright forest edges.",
+      "finding_tips": "From August to October, in grassland look for finely branched stems bearing many pale purplish-pink heads; the reflexed appendages on the involucral bracts are diagnostic."
+    },
+    "zh": {
+      "summary": "美花风毛菊（ヒメヒゴタイ）。生于向阳草地与山地草原的菊科风毛菊属多年生草本，夏秋于细分枝顶端着多数淡紫红色头状花，总苞片先端反卷而秀美。",
+      "habitat_hint": "向阳草地、山地草原、明亮林缘。",
+      "finding_tips": "8 至 10 月于草地寻找细分枝顶端着多数淡紫红头状花的草。反卷的总苞片附属体为辨识要点。"
+    }
   }
 }
