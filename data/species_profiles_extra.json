@@ -251630,5 +251630,448 @@
       "habitat_hint": "向阳草地、山地草原、明亮林缘。",
       "finding_tips": "8 至 10 月于草地寻找细分枝顶端着多数淡紫红头状花的草。反卷的总苞片附属体为辨识要点。"
     }
+  },
+  "Sasaella bitchuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gujō Dwarf Bamboo",
+    "ja": {
+      "summary": "グジョウシノ。本州に分布するイネ科アズマザサ属の小型のササ（笹）。細い稈に幅のある葉をつけ、林床や斜面に地下茎で群生する。里山の林縁でよく見られる。",
+      "habitat_hint": "山地・里山の林床、林縁、明るい二次林、斜面。",
+      "finding_tips": "通年、林床や林縁で細い稈に幅広い葉をつけ群生するササを探す。葉鞘や葉の毛でアズマザサ属を細かく見分ける。"
+    },
+    "en": {
+      "summary": "Gujō Dwarf Bamboo. A small dwarf bamboo (Poaceae, Sasaella) of Honshu, with slender culms bearing broadish leaves and forming colonies by rhizomes on forest floors and slopes; common at satoyama forest edges.",
+      "habitat_hint": "montane and satoyama forest floor, edges, bright secondary forest, slopes.",
+      "finding_tips": "Year-round, on forest floors and edges look for a slender-culmed dwarf bamboo forming colonies; sheath and leaf hairs separate the Sasaella species."
+    },
+    "zh": {
+      "summary": "郡上篠竹（グジョウシノ）。分布于日本本州的禾本科东笹属小型笹（矮竹），细秆着较宽叶，借地下茎在林床与山坡成片生长，常见于里山林缘。",
+      "habitat_hint": "山地与里山林床、林缘、明亮次生林、山坡。",
+      "finding_tips": "全年可见，于林床林缘寻找细秆宽叶成片生长的矮竹。叶鞘与叶毛可细分东笹属。"
+    }
+  },
+  "Schoenoplectiella hondoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain Bulrush",
+    "ja": {
+      "summary": "ミヤマホタルイ。山地の湿地や池沼の縁に生えるカヤツリグサ科ホタルイ属の多年草。細い円柱状の茎が束生し、茎の途中に小さな花序をつける。ホタルイに似るが山地性。",
+      "habitat_hint": "山地の湿地、池沼の縁、湿った草地、休耕田。",
+      "finding_tips": "夏、山地の湿地で細い円柱状の茎の側面に小穂の集まりをつけたホタルイ類を探す。山地に生える点でホタルイと区別。"
+    },
+    "en": {
+      "summary": "Mountain Bulrush. A perennial sedge (Cyperaceae, Schoenoplectiella) of montane wetlands and pond margins, with slender cylindrical stems in tufts bearing small flower clusters partway up; like the common bulrush but montane.",
+      "habitat_hint": "montane wetlands, pond margins, damp grassland, fallow paddies.",
+      "finding_tips": "In summer, in montane wetlands look for a bulrush with clustered spikelets on the side of slender cylindrical stems; its montane habitat separates it from the common bulrush."
+    },
+    "zh": {
+      "summary": "深山萤蔺（ミヤマホタルイ）。生于山地湿地与池沼边缘的莎草科萤蔺属多年生草本，细圆柱状茎丛生，茎侧着生小花序，似萤蔺但为山地种。",
+      "habitat_hint": "山地湿地、池沼边缘、潮湿草地、休耕田。",
+      "finding_tips": "夏季于山地湿地寻找细圆柱茎侧生小穗簇的萤蔺类。生于山地可与萤蔺区分。"
+    }
+  },
+  "Schoenoplectiella komarovii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Komarov's Bulrush",
+    "ja": {
+      "summary": "コホタルイ。水田や湿地、池沼の縁に生えるカヤツリグサ科ホタルイ属の一年草。細い円柱状の茎が束生し、小型で、茎の側面に小穂をつける。水田雑草としても知られる。",
+      "habitat_hint": "水田、湿地、池沼の縁、休耕田、溝。",
+      "finding_tips": "夏〜秋、水田や湿地で小型のホタルイ類を探す。細い茎の側面につく小穂と、一年草で小柄な点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Komarov's Bulrush. An annual sedge (Cyperaceae, Schoenoplectiella) of paddies, wetlands and pond margins, small with slender cylindrical tufted stems bearing lateral spikelets; also known as a paddy weed.",
+      "habitat_hint": "paddies, wetlands, pond margins, fallow fields, ditches.",
+      "finding_tips": "From summer to autumn, in paddies and wetlands look for a small bulrush; the lateral spikelets on slender stems and small annual habit are diagnostic."
+    },
+    "zh": {
+      "summary": "小萤蔺（コホタルイ）。生于稻田、湿地与池沼边缘的莎草科萤蔺属一年生草本，细圆柱茎丛生、体小，茎侧着小穗，亦为稻田杂草。",
+      "habitat_hint": "稻田、湿地、池沼边缘、休耕田、水沟。",
+      "finding_tips": "夏至秋于稻田湿地寻找小型萤蔺类。细茎侧生小穗、一年生而矮小为辨识要点。"
+    }
+  },
+  "Schoenoplectus nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Club-rush",
+    "ja": {
+      "summary": "シズイ。池沼や湿地の浅水中に生えるカヤツリグサ科フトイ属の多年草。三角柱状の茎が直立し、地下茎で広がって群落をつくる。茎の先近くに褐色の小穂の集まりをつける。",
+      "habitat_hint": "池沼、湿地の浅水、休耕田、緩流の水路。",
+      "finding_tips": "夏、浅い水中で直立する三角柱状の茎の群落を探す。茎の先近くにつく褐色の小穂の集まりが識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese Club-rush. A perennial sedge (Cyperaceae, Schoenoplectus) of shallow water in ponds and wetlands, its triangular stems erect and spreading by rhizomes into stands, with brown spikelet clusters near the stem tip.",
+      "habitat_hint": "ponds, shallow wetland water, fallow paddies, slow channels.",
+      "finding_tips": "In summer, in shallow water look for stands of erect triangular stems; the brown spikelet clusters near the stem tip are diagnostic."
+    },
+    "zh": {
+      "summary": "日本藨草（シズイ）。生于池沼与湿地浅水的莎草科水葱属多年生草本，三棱柱状茎直立，借地下茎扩展成群，茎近顶端着褐色小穗簇。",
+      "habitat_hint": "池沼、湿地浅水、休耕田、缓流水渠。",
+      "finding_tips": "夏季于浅水中寻找直立三棱茎的群落。茎近顶端的褐色小穗簇为辨识要点。"
+    }
+  },
+  "Schoenus apogon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common Bog-rush",
+    "ja": {
+      "summary": "ノグサ。日当たりのよい湿った草地や裸地に生えるカヤツリグサ科ノグサ属の小型の多年草。細い茎が束生し、先に黒褐色の小穂を数個かためてつける。やせ地にも生える。",
+      "habitat_hint": "湿った草地、裸地、道端、貧栄養の湿地。",
+      "finding_tips": "初夏〜夏、湿った草地や裸地で細い茎の先に黒褐色の小穂をかためてつける小型の草を探す。黒っぽい小穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Common Bog-rush. A small perennial sedge (Cyperaceae, Schoenus) of sunny damp grassland and bare ground, its slender stems tufted and tipped with a few clustered blackish-brown spikelets; it grows even on poor soils.",
+      "habitat_hint": "damp grassland, bare ground, waysides, nutrient-poor wetland.",
+      "finding_tips": "From early to mid-summer, on damp grassland and bare ground look for slender stems tipped with clustered blackish-brown spikelets; the dark spikelets are diagnostic."
+    },
+    "zh": {
+      "summary": "赤箭莎（ノグサ）。生于向阳潮湿草地与裸地的莎草科赤箭莎属小型多年生草本，细茎丛生，顶端聚生数枚黑褐色小穗，贫瘠地亦能生长。",
+      "habitat_hint": "潮湿草地、裸地、路旁、贫营养湿地。",
+      "finding_tips": "初夏至夏于潮湿草地裸地寻找细茎顶端聚生黑褐小穗的小型草。黑褐小穗为辨识要点。"
+    }
+  },
+  "Scirpus radicans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rooting Bulrush",
+    "ja": {
+      "summary": "ツルアブラガヤ。湿地や池沼の縁、湿った林縁に生えるカヤツリグサ科アブラガヤ属の多年草。大型で、花序の枝の先が地に着いて発根し、新しい株をつくることが名の由来。",
+      "habitat_hint": "湿地、池沼の縁、湿った林縁、河畔。",
+      "finding_tips": "夏〜秋、湿地で大型の株に垂れ下がる花序の枝を探す。枝の先が地に着いて発根する性質が識別ポイント。"
+    },
+    "en": {
+      "summary": "Rooting Bulrush. A large perennial sedge (Cyperaceae, Scirpus) of wetlands, pond margins and damp forest edges; the tips of its inflorescence branches touch the ground and root to form new plants — hence its name.",
+      "habitat_hint": "wetlands, pond margins, damp forest edges, riverbanks.",
+      "finding_tips": "From summer to autumn, in wetlands look for a large sedge with drooping inflorescence branches; their tips rooting on contact with the ground are diagnostic."
+    },
+    "zh": {
+      "summary": "生根藨草（ツルアブラガヤ）。生于湿地、池沼边缘与潮湿林缘的莎草科藨草属多年生草本，植株高大，花序分枝先端触地生根形成新株，即其名之由来。",
+      "habitat_hint": "湿地、池沼边缘、潮湿林缘、河畔。",
+      "finding_tips": "夏至秋于湿地寻找高大植株的下垂花序分枝。枝端触地生根的特性为辨识要点。"
+    }
+  },
+  "Scoletoma nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Bloodworm",
+    "ja": {
+      "summary": "コアシギボシイソメ。潮間帯〜浅海の砂泥底にすむギボシイソメ科の多毛類（ゴカイの仲間）。体は細長く赤みを帯び、多数の体節からなる。砂泥中に潜って暮らし、釣り餌にも使われる。",
+      "habitat_hint": "潮間帯〜浅海の砂泥底、干潟、河口。",
+      "finding_tips": "干潮時、干潟や砂泥を掘ると見つかる。細長く赤みを帯びた体と、疣足の並ぶ多数の体節が識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese Bloodworm. A lumbrinerid polychaete of intertidal to shallow muddy-sand bottoms, its long reddish body made of many segments; it burrows in mud and is used as fishing bait.",
+      "habitat_hint": "intertidal to shallow muddy-sand bottoms, tidal flats, estuaries.",
+      "finding_tips": "At low tide, digging tidal flats and muddy sand reveals it; the long reddish body with many parapodium-bearing segments is diagnostic."
+    },
+    "zh": {
+      "summary": "日本索沙蚕（コアシギボシイソメ）。栖于潮间带至浅海砂泥底的索沙蚕科多毛类，体细长带红、多体节，潜于砂泥中生活，可作钓饵。",
+      "habitat_hint": "潮间带至浅海砂泥底、滩涂、河口。",
+      "finding_tips": "退潮时掘滩涂砂泥可见。细长带红的体与众多具疣足的体节为辨识要点。"
+    }
+  },
+  "Scolitantides orion": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chequered Blue",
+    "ja": {
+      "summary": "ジョウザンシジミ。北海道と本州の一部に分布するシジミチョウ科の小型のチョウ。翅の裏面は白地に黒斑が市松模様状に並び、後翅に橙色の帯がある。岩場のキリンソウ類を食草とする。",
+      "habitat_hint": "山地の岩場、崖地、河原、食草キリンソウ類の生える環境。",
+      "finding_tips": "5〜8月、岩場でキリンソウの周りを飛ぶ小さなシジミチョウを探す。翅裏の市松模様と後翅の橙帯が識別ポイント。"
+    },
+    "en": {
+      "summary": "Chequered Blue. A small blue butterfly (Lycaenidae) of Hokkaido and parts of Honshu; its underside is white with a chequerboard of black spots and an orange band on the hindwing, and its larvae feed on stonecrops (Phedimus) on rocky ground.",
+      "habitat_hint": "montane rocks, cliffs, riverbanks, places with the stonecrop host.",
+      "finding_tips": "From May to August, on rocky ground look for a small blue flitting around stonecrops; the chequered underside and orange hindwing band are diagnostic."
+    },
+    "zh": {
+      "summary": "橙斑燕灰蝶（ジョウザンシジミ）。分布于日本北海道与本州部分地区的灰蝶科小型蝶，翅背面白底缀黑斑呈棋盘状，后翅具橙带，幼虫取食岩地的费菜类。",
+      "habitat_hint": "山地岩地、崖地、河滩、生费菜类的环境。",
+      "finding_tips": "5 至 8 月于岩地寻找绕费菜飞舞的小型灰蝶。翅背面棋盘纹与后翅橙带为辨识要点。"
+    }
+  },
+  "Scutellaria amabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain Skullcap",
+    "ja": {
+      "summary": "ヤマジタツナミソウ。山地の林縁や道端に生えるシソ科タツナミソウ属の多年草。初夏、茎の先に青紫色の唇形の花を一方向に並べて咲かせる。タツナミソウの仲間で山地性。",
+      "habitat_hint": "山地の林縁、道端、明るい草地、林床。",
+      "finding_tips": "5〜6月、山地の道端で青紫色の唇形花を穂状に一方向へ並べる草を探す。立ち浪のように並ぶ花が名（タツナミ）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Mountain Skullcap. A perennial (Lamiaceae, Scutellaria) of montane forest edges and waysides, bearing blue-purple two-lipped flowers ranked to one side at the stem tip in early summer; a montane member of the skullcaps.",
+      "habitat_hint": "montane forest edges, waysides, bright grassland, forest floor.",
+      "finding_tips": "From May to June, on mountain waysides look for a herb with blue-purple two-lipped flowers in a one-sided spike; the wave-like ranked flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "山路立浪草（ヤマジタツナミソウ）。生于山地林缘与路旁的唇形科黄芩属多年生草本，初夏于茎顶偏向一侧排列青紫色唇形花，为山地性的立浪草类。",
+      "habitat_hint": "山地林缘、路旁、明亮草地、林床。",
+      "finding_tips": "5 至 6 月于山地路旁寻找偏向一侧穗状排列青紫唇形花的草。如立浪般排列的花为辨识要点。"
+    }
+  },
+  "Scymnus kawamurai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kawamura's Dwarf Ladybird",
+    "ja": {
+      "summary": "カワムラヒメテントウ。テントウムシ科ヒメテントウ亜科の微小な甲虫。体は小さく黒っぽく、短い毛に覆われる。成虫・幼虫ともにアブラムシやカイガラムシを食べる益虫。",
+      "habitat_hint": "雑木林、林縁、庭、アブラムシ・カイガラムシのつく植物。",
+      "finding_tips": "春〜秋、アブラムシのつく葉や枝を探すと得られる。ごく小型で黒く毛深い体が識別ポイント。ルーペが必要。"
+    },
+    "en": {
+      "summary": "Kawamura's Dwarf Ladybird. A minute ladybird beetle (Coccinellidae, Scymninae), small and blackish, clothed in short hairs; both adults and larvae feed on aphids and scale insects — a beneficial predator.",
+      "habitat_hint": "secondary woodland, forest edges, gardens, plants infested with aphids or scales.",
+      "finding_tips": "From spring to autumn, search aphid-infested leaves and twigs; the very small, black, hairy body is diagnostic — a hand lens helps."
+    },
+    "zh": {
+      "summary": "川村小瓢虫（カワムラヒメテントウ）。瓢虫科小毛瓢虫亚科的微型甲虫，体小而偏黑、被短毛，成幼虫皆捕食蚜虫与介壳虫，为益虫。",
+      "habitat_hint": "杂木林、林缘、庭园、生蚜虫与介壳虫的植物。",
+      "finding_tips": "春至秋于生蚜虫的叶枝上寻找可得。极小、黑而多毛的体为辨识要点，需借助放大镜。"
+    }
+  },
+  "Sebacina incrustans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ロウタケ。地上の落ち葉や小枝、草の根元などを包み込むように広がるロウタケ科の担子菌。子実体は白〜灰白色で蝋（ろう）のような質感の薄い層をつくり、周囲を覆う。",
+      "habitat_hint": "林床の落ち葉・小枝・草の根元、湿った地上。",
+      "finding_tips": "秋、林床で落ち葉や草の根元を蝋のように白く包み込む地衣状のキノコを探す。蝋質の白い被膜が名（蝋茸）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Enveloping Crust. A basidiomycete (Sebacinaceae) that spreads over ground litter, twigs and plant bases, enveloping them; its fruitbody forms a thin white to greyish-white waxy layer.",
+      "habitat_hint": "forest-floor litter, twigs, plant bases, damp ground.",
+      "finding_tips": "In autumn, on the forest floor look for a fungus enveloping litter and plant bases in a white waxy crust; the waxy white film is diagnostic."
+    },
+    "zh": {
+      "summary": "蜡壳菌（ロウタケ）。铺展并包裹地面落叶、小枝与草基的蜡壳菌科担子菌，子实体白至灰白色，形成蜡质薄层覆盖周围。",
+      "habitat_hint": "林床落叶、小枝、草基、潮湿地面。",
+      "finding_tips": "秋季于林床寻找蜡状白色包裹落叶草基的地衣状菌。蜡质白膜为其名之由来与辨识要点。"
+    }
+  },
+  "Senna occidentalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "望江南"
+    },
+    "ja": {
+      "summary": "ハブソウ。熱帯アメリカ原産のマメ科センナ属の一年草で、薬用に栽培され野生化もする。羽状複葉と黄色い花を持ち、細長い莢を実らせる。種子は「はぶ茶」の原料の一つ。",
+      "habitat_hint": "畑、荒れ地、道端、暖地の空き地。",
+      "finding_tips": "夏〜秋、荒れ地で羽状複葉と黄色い花、細長い莢をつける草を探す。エビスグサに似るが小葉の数が少なく先が尖る点で区別。"
+    },
+    "en": {
+      "summary": "Coffee Senna. An annual legume (Fabaceae, Senna) native to tropical America, grown medicinally and locally naturalised, with pinnate leaves, yellow flowers and long slender pods; its seeds are one source of 'habu tea'.",
+      "habitat_hint": "fields, waste ground, waysides, warm-region open lots.",
+      "finding_tips": "From summer to autumn, on waste ground look for pinnate leaves, yellow flowers and long slender pods; fewer, pointed leaflets separate it from sicklepod."
+    },
+    "zh": {
+      "summary": "望江南（ハブソウ）。原产热带美洲的豆科决明属一年生草本，作药用栽培并逸为野生，具羽状复叶与黄花、结细长荚，种子为「habu 茶」原料之一。",
+      "habitat_hint": "菜地、荒地、路旁、暖地空地。",
+      "finding_tips": "夏至秋于荒地寻找具羽状复叶、黄花与细长荚的草。小叶较少且先端尖，可与决明区分。"
+    }
+  },
+  "Setaria palmifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "棕叶狗尾草"
+    },
+    "ja": {
+      "summary": "ササキビ。暖地の林縁や道端に生えるイネ科エノコログサ属の大型の多年草。葉は幅広く、笹のように縦じわがあり、大きな円錐花序をつける。熱帯・亜熱帯に広く分布する。",
+      "habitat_hint": "暖地の林縁、道端、湿った空き地、林床。",
+      "finding_tips": "夏〜秋、暖地の林縁で笹のような幅広い葉を持つ大型のイネ科植物を探す。縦じわのある幅広い葉が名（笹黍）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Palm Grass. A large perennial grass (Poaceae, Setaria) of warm-region forest edges and waysides, with broad bamboo-like pleated leaves and a large panicle; widespread in the tropics and subtropics.",
+      "habitat_hint": "warm-region forest edges, waysides, damp open lots, forest floor.",
+      "finding_tips": "From summer to autumn, at warm-region forest edges look for a large grass with broad bamboo-like leaves; the pleated broad leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "棕叶狗尾草（ササキビ）。生于暖地林缘与路旁的禾本科狗尾草属大型多年生草本，叶宽阔、具似竹纵褶，着大型圆锥花序，广布于热带亚热带。",
+      "habitat_hint": "暖地林缘、路旁、潮湿空地、林床。",
+      "finding_tips": "夏至秋于暖地林缘寻找具似竹宽叶的大型禾草。具纵褶的宽阔叶为辨识要点。"
+    }
+  },
+  "Siphonalia trochulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top-shaped Whelk",
+    "ja": {
+      "summary": "ミオツクシ。房総半島以南の浅海の砂底にすむエゾバイ科の巻貝。殻は紡錘形で肩が角ばり、螺肋がめぐる。砂底を這って腐肉などをあさる。名は水路の澪標（みおつくし）にちなむ。",
+      "habitat_hint": "内湾〜外洋の潮下帯の砂底、浅海。",
+      "finding_tips": "通年、砂浜に打ち上げられた紡錘形で肩の角ばった殻を探す。角張った肩と螺肋のめぐる彫刻が識別ポイント。"
+    },
+    "en": {
+      "summary": "Top-shaped Whelk. A whelk (Buccinidae) of shallow sandy bottoms from the Bōsō Peninsula southward, its spindle-shaped shell angled at the shoulder and encircled by spiral ribs; it scavenges carrion over the sand.",
+      "habitat_hint": "sandy subtidal bottoms of bays and open coasts, shallow sea.",
+      "finding_tips": "Year-round look for spindle-shaped shells with an angled shoulder washed onto beaches; the angular shoulder and encircling spiral ribs are diagnostic."
+    },
+    "zh": {
+      "summary": "陀螺蛾螺（ミオツクシ）。分布于日本房总半岛以南浅海砂底的蛾螺科海螺，壳纺锤形、肩部有棱角，绕以螺肋，于砂底爬行觅食腐肉。",
+      "habitat_hint": "内湾至外海潮下带砂底、浅海。",
+      "finding_tips": "全年可见，于沙滩寻找纺锤形而肩部具棱的壳。棱角状肩部与环绕螺肋为辨识要点。"
+    }
+  },
+  "Siratus pliciferoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Folded Murex",
+    "ja": {
+      "summary": "ハッキガイ。房総半島以南の浅海の砂底にすむアッキガイ科の巻貝。殻は紡錘形で、縦に張り出した3枚の翼状のひれ（縦張肋）を持ち、彫刻が発達する。",
+      "habitat_hint": "内湾〜外洋の潮下帯の砂底、浅海。",
+      "finding_tips": "通年、砂浜に打ち上げられた翼状のひれを持つ紡錘形の殻を探す。3枚の張り出した縦張肋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Folded Murex. A murex snail (Muricidae) of shallow sandy bottoms from the Bōsō Peninsula southward, its spindle-shaped shell bearing three projecting wing-like varices and strong sculpture.",
+      "habitat_hint": "sandy subtidal bottoms of bays and open coasts, shallow sea.",
+      "finding_tips": "Year-round look for spindle-shaped shells with wing-like flanges washed onto beaches; the three projecting varices are diagnostic."
+    },
+    "zh": {
+      "summary": "翼骨螺（ハッキガイ）。分布于日本房总半岛以南浅海砂底的骨螺科海螺，壳纺锤形，具三枚翼状纵张肋，雕刻发达。",
+      "habitat_hint": "内湾至外海潮下带砂底、浅海。",
+      "finding_tips": "全年可见，于沙滩寻找具翼状张肋的纺锤形壳。三枚突出的纵张肋为辨识要点。"
+    }
+  },
+  "Solanum emulans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eastern Black Nightshade",
+    "ja": {
+      "summary": "アメリカイヌホオズキ。北アメリカ原産のナス科ナス属の一年草で、道端や畑に帰化する。白い小花と黒く熟す球形の液果をつける。イヌホオズキに似るが果実に光沢がある。全草有毒。",
+      "habitat_hint": "道端、畑、荒れ地、市街地の空き地。",
+      "finding_tips": "夏〜秋、道端で白い小花と黒く熟す小さな球形の実をつける草を探す。実に光沢がある点でイヌホオズキ類を見分ける。有毒なので口にしない。"
+    },
+    "en": {
+      "summary": "Eastern Black Nightshade. An annual (Solanaceae, Solanum) native to North America and naturalised on waysides and fields, with small white flowers and glossy black spherical berries; resembles the black nightshade but with shinier fruit. The whole plant is poisonous.",
+      "habitat_hint": "waysides, fields, waste ground, urban open lots.",
+      "finding_tips": "From summer to autumn, on waysides look for small white flowers and small glossy black berries; the shiny fruit separates it among the nightshades — poisonous, do not ingest."
+    },
+    "zh": {
+      "summary": "美洲龙葵（アメリカイヌホオズキ）。原产北美的茄科茄属一年生草本，归化于路旁与农田，具白色小花与熟时黑亮的球形浆果，似龙葵但果具光泽，全株有毒。",
+      "habitat_hint": "路旁、农田、荒地、市区空地。",
+      "finding_tips": "夏至秋于路旁寻找白色小花与黑亮小球果的草。果实有光泽可与龙葵类区分。有毒，勿食。"
+    }
+  },
+  "Spergularia marina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lesser Sea-spurrey",
+    "ja": {
+      "summary": "ウシオツメクサ。海岸や塩性湿地、内陸の塩分の多い道端に生えるナデシコ科ウシオツメクサ属の一〜越年草。細い多肉質の葉をつけ、淡紅色の小さな5弁花を咲かせる。耐塩性が高い。",
+      "habitat_hint": "海岸の塩性湿地、干潟の縁、塩分の多い道端、埋立地。",
+      "finding_tips": "春〜夏、海辺や塩気のある道端で細い多肉質の葉と淡紅色の小花をつける小さな草を探す。塩地に生える点と多肉質の葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Lesser Sea-spurrey. An annual to biennial (Caryophyllaceae, Spergularia) of coasts, salt marshes and saline inland waysides, with slender fleshy leaves and small pale-pink five-petalled flowers; highly salt-tolerant.",
+      "habitat_hint": "coastal salt marsh, tidal-flat margins, saline waysides, reclaimed land.",
+      "finding_tips": "From spring to summer, on shores and salty waysides look for a small plant with slender fleshy leaves and pale-pink flowers; the saline habitat and fleshy leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "拟漆姑（ウシオツメクサ）。生于海岸、盐沼与内陆咸味路旁的石竹科拟漆姑属一至越年生草本，具细肉质叶与淡红色五瓣小花，耐盐性强。",
+      "habitat_hint": "海岸盐沼、滩涂边缘、含盐路旁、填海地。",
+      "finding_tips": "春至夏于海边或咸味路旁寻找具细肉质叶与淡红小花的小草。生于盐地与肉质叶为辨识要点。"
+    }
+  },
+  "Sphaerophorus meiophorus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coral Lichen",
+    "ja": {
+      "summary": "サンゴゴケ。山地〜高山の岩上や地上に生える樹枝状（低木状）の地衣類。灰白色〜淡褐色の細い枝が密に分かれてサンゴのような塊をつくる。冷涼で湿った環境を好む。",
+      "habitat_hint": "山地〜高山の岩上、地上、コケの多い岩、風衝地。",
+      "finding_tips": "通年、山地の岩上でサンゴのように細かく枝分かれした灰白色の地衣を探す。密に分岐する枝の塊が名（珊瑚苔）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Coral Lichen. A shrubby (fruticose) lichen of montane to alpine rock and ground, its greyish-white to pale-brown branchlets densely divided into coral-like clumps; it favours cool humid conditions.",
+      "habitat_hint": "montane to alpine rock, ground, mossy rocks, wind-swept sites.",
+      "finding_tips": "Year-round, on mountain rock look for a greyish-white lichen finely branched like coral; the densely divided clump of branchlets is diagnostic."
+    },
+    "zh": {
+      "summary": "珊瑚衣（サンゴゴケ）。生于山地至高山岩面与地面的枝状（灌木状）地衣，灰白至淡褐细枝密集分叉，形成似珊瑚的团块，喜冷凉湿润环境。",
+      "habitat_hint": "山地至高山岩面、地面、多苔岩石、风衝地。",
+      "finding_tips": "全年可见，于山地岩面寻找似珊瑚细密分叉的灰白地衣。密集分枝的团块为辨识要点。"
+    }
+  },
+  "Sphagnum subobesum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peat Moss",
+    "ja": {
+      "summary": "シタミズゴケ。湿地や湿原に生えるミズゴケ科のコケ（蘚類）。柔らかい茎に房状の枝をつけ、多量の水を含んで淡緑〜黄緑色のマットをつくる。泥炭を形成する湿原の主要な構成種の一つ。",
+      "habitat_hint": "湿原、湿地、山地の水湿地、湧水地。",
+      "finding_tips": "通年、湿原で多量の水を含んで柔らかく膨らむ淡緑色のミズゴケのマットを探す。房状の枝と保水性が識別ポイント。ミズゴケ属の同定は難しい。"
+    },
+    "en": {
+      "summary": "Peat Moss. A bog moss (Sphagnaceae) of wetlands and mires, its soft stems bearing tufted branches and holding much water in pale-green to yellow-green mats; a key peat-forming component of mires.",
+      "habitat_hint": "mires, wetlands, montane wet ground, seepage sites.",
+      "finding_tips": "Year-round, in mires look for soft water-swollen pale-green Sphagnum mats; the tufted branches and water retention are diagnostic, though species-level ID is difficult."
+    },
+    "zh": {
+      "summary": "泥炭藓（シタミズゴケ）。生于湿地与湿原的泥炭藓科苔藓（藓类），柔软茎着丛状枝，蓄大量水分形成淡绿至黄绿色藓垫，为形成泥炭的湿原主要组成种之一。",
+      "habitat_hint": "湿原、湿地、山地水湿地、涌泉地。",
+      "finding_tips": "全年可见，于湿原寻找蓄水柔软膨胀的淡绿泥炭藓垫。丛状枝与强保水性为辨识要点；属内种级鉴定较难。"
+    }
+  },
+  "Sphinx caligineus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark Pine Hawkmoth",
+    "ja": {
+      "summary": "クロスズメ。本州〜九州の松林に分布するスズメガ科の大型の蛾。翅は灰黒色で、細い黒条が走る。幼虫はマツ類の葉を食べる。夕暮れに素早く飛ぶ。",
+      "habitat_hint": "マツ林、林縁、公園のマツの周辺、市街地の緑地。",
+      "finding_tips": "6〜8月、夜間に灯火へ来る。灰黒色の翅と、幼虫がマツを食べる点が識別ポイント。太い胴と細長い前翅が目印。"
+    },
+    "en": {
+      "summary": "Dark Pine Hawkmoth. A large hawkmoth (Sphingidae) of pine woods from Honshu to Kyushu, with grey-black wings crossed by fine black streaks; the larvae feed on pine needles and the adult flies swiftly at dusk.",
+      "habitat_hint": "pine woods, forest edges, around park pines, urban greenery.",
+      "finding_tips": "From June to August it comes to lights at night. The grey-black wings and pine-feeding larvae are diagnostic; note the stout body and narrow forewings."
+    },
+    "zh": {
+      "summary": "黑松天蛾（クロスズメ）。分布于日本本州至九州松林的天蛾科大型蛾，翅灰黑色、具细黑条纹，幼虫取食松针，成虫黄昏疾飞。",
+      "habitat_hint": "松林、林缘、公园松树周围、市区绿地。",
+      "finding_tips": "6 至 8 月夜间趋光。灰黑翅面与幼虫食松为辨识要点；粗壮身躯与狭长前翅为其特征。"
+    }
   }
 }
