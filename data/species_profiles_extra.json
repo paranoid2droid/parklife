@@ -249651,5 +249651,535 @@
       "habitat_hint": "潮间带至浅海岩礁、珊瑚礁、砾石下。",
       "finding_tips": "退潮时，于岩礁寻找具毛状壳皮与粗螺肋的粗糙螺。毛状壳皮与粗螺肋为辨识点。"
     }
+  },
+  "Mythimna radiata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Radiated Wainscot",
+    "ja": {
+      "summary": "フタテンキヨトウ。北海道〜九州に分布するヤガ科キヨトウ亜科の中型の蛾。前翅は淡褐色で、翅の中央に暗色の小さな二つの点を持つ。",
+      "habitat_hint": "草地、河川敷、農地周辺、雑木林の縁。",
+      "finding_tips": "6〜9月、夜間に灯火へ飛来する。前翅中央の二紋と地味な淡褐色が識別ポイント。"
+    },
+    "en": {
+      "summary": "Radiated Wainscot. A medium-sized noctuid moth (subfamily Hadeninae) found from Hokkaido to Kyushu, with pale brown forewings marked by two small dark central dots.",
+      "habitat_hint": "grasslands, riverbanks, field margins, woodland edges.",
+      "finding_tips": "From June to September it comes to lights at night. The two central dots on plain pale-brown wings are diagnostic."
+    },
+    "zh": {
+      "summary": "二点秀夜蛾（フタテンキヨトウ）。分布于日本北海道至九州的夜蛾科粘夜蛾亚科中型蛾类，前翅淡褐色，翅中央具两枚暗色小点。",
+      "habitat_hint": "草地、河滩、农田边缘、杂木林缘。",
+      "finding_tips": "6 至 9 月夜间趋光。淡褐前翅中央的两枚小黑点为辨识要点。"
+    }
+  },
+  "Mytilopsis sallei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-striped False Mussel",
+    "aliases": {
+      "zh-Hans": "沙筛贝"
+    },
+    "ja": {
+      "summary": "イガイダマシ。中米原産のフネガイ目イガイダマシ科の外来二枚貝。イガイに似るが小型で、内湾や汽水域の護岸・杭に密集して固着する付着生物。",
+      "habitat_hint": "内湾、河口、港湾の護岸・杭・浮標、汽水域。",
+      "finding_tips": "通年、港内の岸壁やロープに黒褐色の小型二枚貝が塊状に付着していれば本種。イガイより殻が薄く小さい。"
+    },
+    "en": {
+      "summary": "Black-striped False Mussel. A small invasive bivalve native to Central America that fouls harbour structures, forming dense clusters on seawalls and pilings in bays and brackish water.",
+      "habitat_hint": "sheltered bays, estuaries, harbour walls, pilings and buoys, brackish water.",
+      "finding_tips": "Year-round, look for clumped small dark-brown bivalves on quay walls and ropes inside harbours; thinner and smaller than true mussels."
+    },
+    "zh": {
+      "summary": "沙筛贝（イガイダマシ）。原产中美洲的贻贝形外来双壳类，属饰贝科，常在内湾、河口的护岸与桩柱上密集附着，为常见污损生物。",
+      "habitat_hint": "内湾、河口、港湾护岸、桩柱与浮标、半咸水域。",
+      "finding_tips": "全年可见，港内岸壁与缆绳上成团附着的小型黑褐色双壳类即为本种；壳较真贻贝薄而小。"
+    }
+  },
+  "Najas indica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Indian Water-nymph",
+    "ja": {
+      "summary": "ヒロハトリゲモ（サガミトリゲモ）。本州以南の池沼や水路に沈水するトチカガミ科イバラモ属の一年草。細い茎に線形の葉を密につけ、葉縁に細かい鋸歯がある。",
+      "habitat_hint": "浅い池沼、ため池、緩流の水路、水田。",
+      "finding_tips": "夏〜秋、水中に沈む細い草体を探す。葉が比較的幅広く縁に鋸歯がある点でトリゲモ類を見分ける。"
+    },
+    "en": {
+      "summary": "Indian Water-nymph. A submerged annual (Hydrocharitaceae) of ponds and channels from Honshu southward, with slender stems bearing dense linear leaves finely toothed along the margins.",
+      "habitat_hint": "shallow ponds, reservoirs, slow channels, paddy fields.",
+      "finding_tips": "In summer to autumn look for slender submerged plants; the relatively broad, finely toothed leaves distinguish it among the naiads."
+    },
+    "zh": {
+      "summary": "印度茨藻（ヒロハトリゲモ）。分布于日本本州以南池沼、水渠的水鳖科茨藻属沉水一年生草本，细茎密生线形叶，叶缘具细锯齿。",
+      "habitat_hint": "浅池沼、蓄水塘、缓流水渠、稻田。",
+      "finding_tips": "夏至秋于水中寻找纤细沉水草体。叶较宽且缘具锯齿，可与其他茨藻区分。"
+    }
+  },
+  "Nassarius glans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glans Nassa",
+    "ja": {
+      "summary": "ミナミキンシバイ。房総半島以南の浅海砂底にすむムシロガイ科の巻貝。殻は紡錘形で光沢があり、細かい螺肋と縦張肋が交わる。腐肉に集まる海の掃除屋。",
+      "habitat_hint": "内湾〜外洋の潮下帯の砂底、浅海。",
+      "finding_tips": "通年、砂底に落ちた死魚などの腐肉に多数集まる。紡錘形で光沢のある殻と活発な行動が目印。"
+    },
+    "en": {
+      "summary": "Glans Nassa. A nassa mud snail of sandy subtidal bottoms from the Bōsō Peninsula southward; the glossy spindle-shaped shell has fine spiral and axial ribs, and it scavenges carrion on the seabed.",
+      "habitat_hint": "sandy subtidal bottoms of bays and open coasts, shallow sea.",
+      "finding_tips": "Year-round it gathers in numbers on dead fish and carrion on sand; note the glossy spindle-shaped shell and active movement."
+    },
+    "zh": {
+      "summary": "南金丝梅螺（ミナミキンシバイ）。分布于日本房总半岛以南浅海砂底的织纹螺科海螺，壳纺锤形而具光泽，细密螺肋与纵肋交织，以腐肉为食，是海底清道夫。",
+      "habitat_hint": "内湾至外海潮下带砂底、浅海。",
+      "finding_tips": "全年可见，常成群聚集于砂底腐肉之上。有光泽的纺锤形壳与活跃行动为其特征。"
+    }
+  },
+  "Neocollonia pilula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pill Turban Snail",
+    "ja": {
+      "summary": "サンショウスガイ。房総半島以南の潮間帯の岩礁にすむサザエ科（コシダカサザエ類）の小型巻貝。殻はほぼ球形で低く、灰褐色。石灰質の丸い蓋を持つ。",
+      "habitat_hint": "岩礁海岸の潮間帯、転石の下、海藻の根際。",
+      "finding_tips": "通年、磯の転石をひっくり返すと殻径1cmほどの丸い巻貝が見つかる。球形で低い殻と丸い石灰質の蓋が目印。"
+    },
+    "en": {
+      "summary": "Pill Turban Snail. A small turbinid snail of rocky intertidal shores from the Bōsō Peninsula southward, with an almost globular, low grey-brown shell closed by a rounded calcareous operculum.",
+      "habitat_hint": "rocky intertidal shores, under boulders, at the base of seaweed.",
+      "finding_tips": "Year-round, turning over stones on rocky shores reveals rounded snails about 1 cm across; the globular low shell and round calcareous operculum are diagnostic."
+    },
+    "zh": {
+      "summary": "山椒螺（サンショウスガイ）。分布于日本房总半岛以南岩礁潮间带的蝾螺科小型海螺，壳近球形而低平、灰褐色，具圆形石灰质厣。",
+      "habitat_hint": "岩礁海岸潮间带、砾石下、海藻基部。",
+      "finding_tips": "全年可见，翻开礁岩砾石可见壳径约 1 厘米的圆形海螺。球形低壳与圆形石灰质厣为辨识要点。"
+    }
+  },
+  "Neohipparchus vallata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-fronted Emerald",
+    "ja": {
+      "summary": "キマエアオシャク。本州〜九州の雑木林に分布するシャクガ科アオシャク亜科の蛾。翅は淡い緑色で、前翅の前縁が黄色く縁取られるのが名の由来。",
+      "habitat_hint": "雑木林、樹林の縁、公園の緑地。",
+      "finding_tips": "5〜8月、夜間に灯火へ来る。淡緑色の翅と前翅前縁の黄色い縁取りが識別ポイント。"
+    },
+    "en": {
+      "summary": "Yellow-fronted Emerald. A green emerald moth (Geometridae) of secondary woodland from Honshu to Kyushu; the pale green wings have a distinctive yellow-bordered forewing costa.",
+      "habitat_hint": "secondary woodland, forest edges, park greenery.",
+      "finding_tips": "From May to August it comes to lights at night. Pale green wings with a yellow-edged forewing leading margin are diagnostic."
+    },
+    "zh": {
+      "summary": "黄缘绿尺蛾（キマエアオシャク）。分布于日本本州至九州杂木林的尺蛾科青尺蛾亚科蛾类，翅淡绿色，前翅前缘镶黄边，即其名之由来。",
+      "habitat_hint": "杂木林、林缘、公园绿地。",
+      "finding_tips": "5 至 8 月夜间趋光。淡绿翅面与前翅前缘的黄边为辨识要点。"
+    }
+  },
+  "Nerita helicinoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Helicina Nerite",
+    "ja": {
+      "summary": "イシダタミアマオブネ。房総半島以南の潮間帯の岩礁にすむアマオブネ科の小型巻貝。殻は半球形で厚く、黒地に白い斑紋が石畳のように並ぶ。",
+      "habitat_hint": "岩礁海岸の潮間帯、転石、タイドプール。",
+      "finding_tips": "通年、磯の岩肌に群れて付着する。半球形の厚い殻と石畳状の白斑が識別ポイント。"
+    },
+    "en": {
+      "summary": "Helicina Nerite. A small thick-shelled nerite of rocky intertidal shores from the Bōsō Peninsula southward, its hemispherical black shell patterned with paved-tile white markings.",
+      "habitat_hint": "rocky intertidal shores, boulders, tide pools.",
+      "finding_tips": "Year-round it clusters on rock surfaces on the shore; the thick hemispherical shell with checkerboard white spots is diagnostic."
+    },
+    "zh": {
+      "summary": "石叠蜑螺（イシダタミアマオブネ）。分布于日本房总半岛以南岩礁潮间带的蜑螺科小型海螺，壳半球形而厚，黑底上白斑排列如石叠路面。",
+      "habitat_hint": "岩礁海岸潮间带、砾石、潮池。",
+      "finding_tips": "全年可见，成群附着于礁岩表面。厚半球形壳与石叠状白斑为辨识要点。"
+    }
+  },
+  "Nipponacmea radula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rasp Limpet",
+    "ja": {
+      "summary": "カスリアオガイ。本州以南の潮間帯の岩礁にすむユキノカサガイ科のカサガイ（笠貝）。殻は低い笠形で、青灰色の地に細かいかすり模様が出る。",
+      "habitat_hint": "岩礁海岸の潮間帯、波当たりの強い岩肌。",
+      "finding_tips": "通年、磯の岩に張り付く小さな笠形の貝を探す。青灰色地の細かなかすり模様が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Rasp Limpet. A true limpet (Lottiidae) of rocky intertidal shores from Honshu southward, with a low cap-shaped shell showing fine speckled patterning on a bluish-grey ground.",
+      "habitat_hint": "rocky intertidal shores, wave-washed rock faces.",
+      "finding_tips": "Year-round look for small cap-shaped shells clamped to shore rocks; the fine speckling on a bluish-grey ground is diagnostic."
+    },
+    "zh": {
+      "summary": "絣青笠螺（カスリアオガイ）。分布于日本本州以南岩礁潮间带的青螺科笠形贝，壳低笠状，青灰底上具细密絣状斑纹。",
+      "habitat_hint": "岩礁海岸潮间带、浪击岩面。",
+      "finding_tips": "全年可见，寻找紧贴礁岩的小型笠形贝。青灰底上的细密絣纹为辨识要点。"
+    }
+  },
+  "Nipponochloritis oscitans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tōkai Velvet Snail",
+    "ja": {
+      "summary": "トウカイビロードマイマイ。東海地方に分布するオナジマイマイ科の陸産貝（かたつむり）。殻は扁平で、殻表に細かい毛（殻毛）が生え、ビロード状の質感になる。",
+      "habitat_hint": "低山地の落葉樹林、林床の落ち葉や倒木の下、湿った岩陰。",
+      "finding_tips": "梅雨〜秋の雨後、林床の落ち葉をめくって探す。扁平な殻と殻表のビロード状の毛が識別ポイント。"
+    },
+    "en": {
+      "summary": "Tōkai Velvet Snail. A land snail (Camaenidae) endemic to the Tōkai region, its flattened shell covered in fine periostracal hairs that give it a velvety texture.",
+      "habitat_hint": "low-mountain deciduous forest, under leaf litter and fallen logs, damp rock shade.",
+      "finding_tips": "After rain from the rainy season to autumn, search under forest-floor leaf litter; the flattened, velvety-haired shell is diagnostic."
+    },
+    "zh": {
+      "summary": "东海丝绒蜗牛（トウカイビロードマイマイ）。日本东海地方特有的同型巴蜗牛科陆生蜗牛，壳扁平，壳面生细毛而呈丝绒质感。",
+      "habitat_hint": "低山落叶林、林床落叶与倒木下、潮湿岩荫。",
+      "finding_tips": "梅雨至秋季雨后，翻开林床落叶寻找。扁平壳与壳面丝绒状细毛为辨识要点。"
+    }
+  },
+  "Nudina artaxidia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-spotted Footman",
+    "ja": {
+      "summary": "フタホシキコケガ。本州〜九州に分布するヒトリガ科コケガ亜科の小型の蛾。翅は黄色みを帯び、前翅に二つの黒点を持つ。幼虫は地衣類を食べる。",
+      "habitat_hint": "雑木林、樹林の縁、地衣類の多い樹幹周辺。",
+      "finding_tips": "6〜9月、夜間に灯火へ来る。黄色い翅と前翅の二黒点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Two-spotted Footman. A small lichen moth (Arctiinae, Erebidae) from Honshu to Kyushu, with yellowish wings each forewing bearing two black dots; the larvae feed on lichens.",
+      "habitat_hint": "secondary woodland, forest edges, lichen-covered tree trunks.",
+      "finding_tips": "From June to September it comes to lights at night. Yellowish wings with two black forewing dots are diagnostic."
+    },
+    "zh": {
+      "summary": "双星黄苔蛾（フタホシキコケガ）。分布于日本本州至九州的灯蛾科苔蛾亚科小型蛾，翅带黄色，前翅具两枚黑点，幼虫取食地衣。",
+      "habitat_hint": "杂木林、林缘、多地衣的树干周围。",
+      "finding_tips": "6 至 9 月夜间趋光。黄色翅面与前翅两枚黑点为辨识要点。"
+    }
+  },
+  "Oberea hebescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crabapple Longhorn Beetle",
+    "ja": {
+      "summary": "ヒメリンゴカミキリ。本州〜九州に分布するカミキリムシ科フトカミキリ亜科の細長いカミキリ。体は黒っぽく細身で、脚の一部が黄褐色。バラ科の樹木を寄主とする。",
+      "habitat_hint": "雑木林、林縁、リンゴやズミなどバラ科樹木の周辺。",
+      "finding_tips": "5〜7月、寄主植物の若枝や葉上を探す。細長い体型で、リンゴカミキリ類より小型な点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Crabapple Longhorn Beetle. A slender longhorn beetle (Lamiinae) from Honshu to Kyushu, blackish and elongate with partly yellow-brown legs; it develops on rose-family trees.",
+      "habitat_hint": "secondary woodland, forest edges, around apple, toringo crabapple and other Rosaceae.",
+      "finding_tips": "From May to July search young shoots and leaves of host trees; the very slender body, smaller than related Oberea, is diagnostic."
+    },
+    "zh": {
+      "summary": "姬苹果天牛（ヒメリンゴカミキリ）。分布于日本本州至九州的天牛科沟胫天牛亚科细长天牛，体黑而修长，足部分黄褐色，寄主为蔷薇科树木。",
+      "habitat_hint": "杂木林、林缘、苹果与三叶海棠等蔷薇科树木周围。",
+      "finding_tips": "5 至 7 月于寄主嫩枝与叶上寻找。体型细长且较近缘种小，为辨识要点。"
+    }
+  },
+  "Octotemnus laminifrons": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shining Fungus Beetle",
+    "ja": {
+      "summary": "ツヤツツキノコムシ。本州〜九州に分布するツツキノコムシ科の微小な甲虫。体は光沢のある黒褐色の円筒形で、枯れ木に生えた硬いキノコ（多孔菌類）に集まる。",
+      "habitat_hint": "枯れ木、倒木に生えた硬質のサルノコシカケ類・多孔菌。",
+      "finding_tips": "通年、枯れ木のキノコを崩すと中から小さな光沢のある甲虫が出る。円筒形で艶のある体が目印。"
+    },
+    "en": {
+      "summary": "Shining Fungus Beetle. A minute cylindrical beetle (Ciidae) from Honshu to Kyushu, glossy blackish-brown, living inside the tough bracket fungi (polypores) of dead wood.",
+      "habitat_hint": "hard bracket fungi and polypores on dead wood and fallen logs.",
+      "finding_tips": "Year-round, breaking open a woody bracket fungus reveals tiny glossy beetles inside; the cylindrical shiny body is the mark."
+    },
+    "zh": {
+      "summary": "光泽筒蕈甲（ツヤツツキノコムシ）。分布于日本本州至九州的筒蕈甲科微型甲虫，体圆筒形、黑褐而有光泽，栖于枯木上的硬质多孔菌内。",
+      "habitat_hint": "枯木、倒木上的硬质层孔菌、多孔菌。",
+      "finding_tips": "全年可见，掰开枯木硬菌可见其中的微小光泽甲虫。圆筒形有光泽的体为其特征。"
+    }
+  },
+  "Ocypode sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Ghost Crab",
+    "ja": {
+      "summary": "ナンヨウスナガニ。房総半島以南の砂浜にすむスナガニ科のカニ。体色は砂に似た淡色で、大きな複眼と素早い横歩きが特徴。砂浜に深い巣穴を掘る。",
+      "habitat_hint": "外洋に面した砂浜、高潮線付近の乾いた砂。",
+      "finding_tips": "夏の夜、懐中電灯で砂浜を照らすと素早く走る姿が見える。砂色の体と直立した眼柄、砂浜の巣穴が目印。"
+    },
+    "en": {
+      "summary": "Chinese Ghost Crab. A ghost crab (Ocypodidae) of sandy beaches from the Bōsō Peninsula southward, sand-coloured with large eyes and rapid sideways running; it digs deep burrows in the beach.",
+      "habitat_hint": "open-coast sandy beaches, dry sand near the high-tide line.",
+      "finding_tips": "On summer nights a torch reveals them sprinting across the sand; the sandy body, tall eyestalks and beach burrows are the marks."
+    },
+    "zh": {
+      "summary": "中华沙蟹（ナンヨウスナガニ）。分布于日本房总半岛以南沙滩的沙蟹科螃蟹，体色似沙、复眼大、横行迅速，在沙滩挖掘深洞。",
+      "habitat_hint": "面向外海的沙滩、高潮线附近干沙。",
+      "finding_tips": "夏夜以手电照射沙滩可见其疾走。沙色身体、直立眼柄与沙滩洞穴为辨识要点。"
+    }
+  },
+  "Omalotheca sylvatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Heath Cudweed",
+    "ja": {
+      "summary": "エダウチチチコグサ。本州の亜高山〜高山の草地に生えるキク科の多年草。茎は直立して枝分かれし、綿毛に覆われ、目立たない小さな頭花を穂状につける。",
+      "habitat_hint": "亜高山〜高山の草地、林縁、明るい斜面。",
+      "finding_tips": "7〜9月、山地の草地で綿毛に覆われた茎の先に地味な穂状の花序を探す。全体が白っぽく綿毛立つのが目印。"
+    },
+    "en": {
+      "summary": "Heath Cudweed. A woolly perennial (Asteraceae) of subalpine to alpine grasslands in Honshu, its erect branched stem covered in white wool and bearing inconspicuous flower heads in a spike.",
+      "habitat_hint": "subalpine to alpine grassland, forest edges, open slopes.",
+      "finding_tips": "From July to September, on mountain grassland look for spike-like heads atop woolly stems; the whitish, wool-covered plant is the mark."
+    },
+    "zh": {
+      "summary": "林生鼠麴草（エダウチチチコグサ）。生于日本本州亚高山至高山草地的菊科多年生草本，茎直立分枝、密被白色绵毛，穗状排列不显眼的小头状花序。",
+      "habitat_hint": "亚高山至高山草地、林缘、明亮山坡。",
+      "finding_tips": "7 至 9 月于山地草地寻找绵毛茎顶端的穗状花序。全株偏白、密被绵毛为其特征。"
+    }
+  },
+  "Ophthalmitis albosignaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Four-eyed Geometer",
+    "ja": {
+      "summary": "ヨツメエダシャク。本州〜九州の樹林に分布するシャクガ科エダシャク亜科の大型の蛾。白っぽい翅に細かい灰色の斑があり、四枚の翅にそれぞれ眼状の紋を持つ。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "5〜8月、夜間に灯火へ来る。白地の翅と各翅に一つずつある眼状紋（四つ目）が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Four-eyed Geometer. A large geometer moth (Ennominae) of woodland from Honshu to Kyushu, with whitish grey-flecked wings each bearing an eye-like spot — hence four eyes in all.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From May to August it comes to lights at night. The whitish wings each with a single eye-spot are diagnostic."
+    },
+    "zh": {
+      "summary": "四眼尺蛾（ヨツメエダシャク）。分布于日本本州至九州林地的尺蛾科尺蛾亚科大型蛾，翅偏白具细灰斑，四翅各具一枚眼状纹，故名四眼。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "5 至 8 月夜间趋光。白色翅面上每翅各一枚眼状纹为辨识要点。"
+    }
+  },
+  "Oreocnide frutescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shrubby Oreocnide",
+    "ja": {
+      "summary": "イワガネ。関東以西の暖地の林縁や渓谷に生えるイラクサ科の低木。葉は互生し先が尖り、若い枝や葉裏に短毛がある。同名のシダ植物とは別種。",
+      "habitat_hint": "暖地の林縁、渓谷沿い、湿った斜面。",
+      "finding_tips": "春〜夏、林縁の低木で互生する尖った葉と葉腋の小さな花を探す。イラクサ科らしい鋸歯のある葉が目印。"
+    },
+    "en": {
+      "summary": "Shrubby Oreocnide. A nettle-family shrub (Urticaceae) of warm-temperate forest edges and ravines from the Kanto region westward, with alternate pointed leaves and short hairs on young twigs and leaf undersides.",
+      "habitat_hint": "warm-temperate forest edges, along ravines, damp slopes.",
+      "finding_tips": "In spring to summer look for shrubs with alternate pointed leaves and small axillary flowers; the toothed nettle-family leaves are the mark."
+    },
+    "zh": {
+      "summary": "紫麻（イワガネ）。生于日本关东以西暖地林缘与溪谷的荨麻科灌木，叶互生而先端尖，嫩枝与叶背具短毛。与同名蕨类为不同物种。",
+      "habitat_hint": "暖地林缘、溪谷沿岸、潮湿山坡。",
+      "finding_tips": "春至夏于林缘灌木寻找互生尖叶与叶腋小花。荨麻科特征的锯齿叶为辨识要点。"
+    }
+  },
+  "Orthocephalus funestus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black Plant Bug",
+    "ja": {
+      "summary": "クロマルメクラガメ。本州〜九州の草地に分布するカスミカメムシ科の小型のカメムシ。体は黒く光沢があり、丸みを帯びた体型で短い毛に覆われる。キク科植物などにつく。",
+      "habitat_hint": "草地、河川敷、野原、キク科植物の群落。",
+      "finding_tips": "初夏〜夏、草地でキク科植物をすくい取ると得られる。丸みのある黒く光沢のある体が識別ポイント。"
+    },
+    "en": {
+      "summary": "Black Plant Bug. A small plant bug (Miridae) of grasslands from Honshu to Kyushu, glossy black and rounded in form, clothed in short hairs; it feeds on composites and other herbs.",
+      "habitat_hint": "grasslands, riverbanks, open fields, stands of Asteraceae.",
+      "finding_tips": "From early to mid-summer, sweep-net composite plants in grassland; the rounded, glossy black body is diagnostic."
+    },
+    "zh": {
+      "summary": "黑圆盲蝽（クロマルメクラガメ）。分布于日本本州至九州草地的盲蝽科小型蝽类，体黑而有光泽、体型浑圆、被短毛，取食菊科等草本。",
+      "habitat_hint": "草地、河滩、原野、菊科植物群落。",
+      "finding_tips": "初夏至夏于草地扫网菊科植物可得。浑圆而黑亮的体为辨识要点。"
+    }
+  },
+  "Palaemon sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チュウゴクスジエビ。東アジアの淡水〜汽水域に分布するテナガエビ科の小型のエビ。体は半透明で、背面に縦の縞模様が走る。日本では移入が知られる。",
+      "habitat_hint": "河川の中下流、池沼、水路、汽水域。",
+      "finding_tips": "通年、水草や石の間をタモ網ですくうと得られる。半透明の体と縦縞、テナガエビより小型な点が目印。"
+    },
+    "en": {
+      "summary": "Chinese Grass Shrimp. A small palaemonid shrimp of East Asian fresh and brackish waters, its translucent body marked with longitudinal stripes; introduced populations are known in Japan.",
+      "habitat_hint": "mid-to-lower rivers, ponds, channels, brackish water.",
+      "finding_tips": "Year-round, net among water plants and stones; the translucent striped body, smaller than the freshwater prawns, is the mark."
+    },
+    "zh": {
+      "summary": "中华小长臂虾（チュウゴクスジエビ）。分布于东亚淡水至半咸水的长臂虾科小型虾，体半透明、背面具纵纹，日本有引入记录。",
+      "habitat_hint": "河流中下游、池沼、水渠、半咸水域。",
+      "finding_tips": "全年可见，于水草石间以抄网捞取可得。半透明带纵纹的体、较沼虾小巧为辨识要点。"
+    }
+  },
+  "Pallavicinia lyellii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Veilwort",
+    "ja": {
+      "summary": "ヤハズゴケ。湿った土上や水辺に生える葉状体性のコケ（苔類）。半透明の帯状の葉状体が地表を這い、中央に太い中肋が一本通る。",
+      "habitat_hint": "湿った土上、水辺、湿地、日陰の斜面。",
+      "finding_tips": "通年、湿地や水辺の土上で帯状の緑色の葉状体を探す。中央を走る太い中肋と半透明の質感が識別ポイント。"
+    },
+    "en": {
+      "summary": "Veilwort. A thalloid liverwort of damp soil and waterside, its translucent ribbon-like thallus creeping over the ground with a single stout midrib down the centre.",
+      "habitat_hint": "damp soil, waterside, wetlands, shaded slopes.",
+      "finding_tips": "Year-round, on wetland and waterside soil look for green ribbon-like thalli; the stout central midrib and translucent texture are diagnostic."
+    },
+    "zh": {
+      "summary": "带叶苔（ヤハズゴケ）。生于潮湿土面与水边的叶状体苔类，半透明带状叶状体贴地匍匐，中央贯穿一条粗中肋。",
+      "habitat_hint": "潮湿土面、水边、湿地、荫蔽山坡。",
+      "finding_tips": "全年可见，于湿地水边土面寻找带状绿色叶状体。中央粗中肋与半透明质感为辨识要点。"
+    }
+  },
+  "Pannaria rubiginosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rusty Kidney Lichen",
+    "ja": {
+      "summary": "ハナビラゴケ。樹幹や岩上に生える葉状地衣類。青灰色〜褐色の小さな裂片が花びらのように重なり、縁に赤褐色の子器（アポテシウム）をつける。",
+      "habitat_hint": "湿潤な森林の樹幹、コケの多い岩、木の根元。",
+      "finding_tips": "通年、湿った森の樹皮で花びら状に重なる小さな裂片を探す。縁に並ぶ赤褐色の子器が識別ポイント。"
+    },
+    "en": {
+      "summary": "Rusty Kidney Lichen. A foliose lichen of tree trunks and rocks, its small blue-grey to brown lobes overlapping like petals, edged with reddish-brown apothecia.",
+      "habitat_hint": "trunks in humid forest, mossy rocks, tree bases.",
+      "finding_tips": "Year-round, on bark in damp forest look for small petal-like overlapping lobes; the reddish-brown fruiting bodies along the margins are diagnostic."
+    },
+    "zh": {
+      "summary": "锈色花瓣衣（ハナビラゴケ）。生于树干与岩石的叶状地衣，青灰至褐色小裂片如花瓣般叠覆，边缘生红褐色子器。",
+      "habitat_hint": "湿润森林树干、多苔岩石、树基。",
+      "finding_tips": "全年可见，于湿润森林树皮寻找花瓣状叠覆的小裂片。边缘排列的红褐色子器为辨识要点。"
+    }
+  },
+  "Parafontaria laminata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Banded Train Millipede",
+    "ja": {
+      "summary": "オビババヤスデ。本州の山地の森林にすむババヤスデ科のヤスデ。体は黒っぽく、各節の縁が帯状に淡色になる。時に大発生し、集団で移動することで知られる。",
+      "habitat_hint": "山地の落葉樹林、林床の落ち葉や腐植の下、倒木周辺。",
+      "finding_tips": "秋〜春の湿った時期、林床の落ち葉をめくると見つかる。各節の淡色の帯と、多数が集団移動する習性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Banded Train Millipede. A xystodesmid millipede of montane Honshu forests, blackish with pale-banded segment margins; it is famous for periodic mass outbreaks and migrating in swarms.",
+      "habitat_hint": "montane deciduous forest, under leaf litter and humus, around fallen logs.",
+      "finding_tips": "In the damp season from autumn to spring, turning leaf litter reveals them; the pale segment bands and swarming migration habit are diagnostic."
+    },
+    "zh": {
+      "summary": "带马陆（オビババヤスデ）。栖于日本本州山地森林的奇马陆科马陆，体偏黑，各体节缘呈淡色带状，以周期性大发生与集群迁移著称。",
+      "habitat_hint": "山地落叶林、林床落叶与腐殖质下、倒木周围。",
+      "finding_tips": "秋至春潮湿时节翻开林床落叶可见。各节淡色带与集群迁移习性为辨识要点。"
+    }
+  },
+  "Parafontaria tonominea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green Train Millipede",
+    "ja": {
+      "summary": "ミドリババヤスデ。本州の山地の森林にすむババヤスデ科のヤスデ。体は緑がかった暗色で、オビババヤスデに近縁。林床の落ち葉を分解する土壌動物。",
+      "habitat_hint": "山地の落葉樹林、林床の落ち葉・腐植の下、湿った倒木周辺。",
+      "finding_tips": "秋〜春の湿った時期、落ち葉の下を探す。緑がかった暗色の体と各節の縁の淡色が識別ポイント。"
+    },
+    "en": {
+      "summary": "Green Train Millipede. A xystodesmid millipede of montane Honshu forests, dark with a greenish cast and closely related to the banded train millipede; a soil animal that breaks down leaf litter.",
+      "habitat_hint": "montane deciduous forest, under leaf litter and humus, around damp fallen logs.",
+      "finding_tips": "In the damp season from autumn to spring, search under leaf litter; the greenish-dark body with pale segment edges is diagnostic."
+    },
+    "zh": {
+      "summary": "绿马陆（ミドリババヤスデ）。栖于日本本州山地森林的奇马陆科马陆，体暗而带绿色，与带马陆近缘，为分解林床落叶的土壤动物。",
+      "habitat_hint": "山地落叶林、林床落叶与腐殖质下、潮湿倒木周围。",
+      "finding_tips": "秋至春潮湿时节于落叶下寻找。暗绿体色与各节淡色缘为辨识要点。"
+    }
+  },
+  "Parepione grata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-lined Geometer",
+    "ja": {
+      "summary": "ウラモンアカエダシャク。本州〜九州の樹林に分布するシャクガ科エダシャク亜科の蛾。前翅は橙褐色で、翅の裏面に暗色の紋が現れることが名の由来。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "5〜8月、夜間に灯火へ来る。橙褐色の前翅と翅裏の暗色紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Red-lined Geometer. A geometer moth (Ennominae) of woodland from Honshu to Kyushu, with orange-brown forewings; dark markings on the wing underside give the moth its Japanese name.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From May to August it comes to lights at night. Orange-brown forewings with dark underside markings are diagnostic."
+    },
+    "zh": {
+      "summary": "橙褐尺蛾（ウラモンアカエダシャク）。分布于日本本州至九州林地的尺蛾科尺蛾亚科蛾，前翅橙褐色，翅背面具暗纹，即其日文名之由来。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "5 至 8 月夜间趋光。橙褐前翅与翅背面暗纹为辨识要点。"
+    }
+  },
+  "Parmotrema reticulatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cracked Ruffle Lichen",
+    "ja": {
+      "summary": "オオマツゲゴケ。樹幹や岩上に広がる大型の葉状地衣類。灰緑色の裂片は縁が波打ち、表面に網目状の白い割れ目（偽杯点）が走り、縁に黒い睫毛状の縁毛がある。",
+      "habitat_hint": "日当たりのよい樹幹、公園の樹木、岩上。",
+      "finding_tips": "通年、公園の木の幹に張り付く灰緑色の大きな地衣を探す。網目状の白い割れ目と縁の黒い縁毛が識別ポイント。"
+    },
+    "en": {
+      "summary": "Cracked Ruffle Lichen. A large foliose lichen spreading on trunks and rocks, its grey-green lobes ruffled at the margins, the surface cross-cracked with a white network and fringed with black cilia at the edge.",
+      "habitat_hint": "sunlit trunks, park trees, rock surfaces.",
+      "finding_tips": "Year-round, on park tree trunks look for large grey-green rosettes; the white reticulate cracking and black marginal cilia are diagnostic."
+    },
+    "zh": {
+      "summary": "网纹梅衣（オオマツゲゴケ）。生于树干与岩石的大型叶状地衣，灰绿裂片边缘波状，表面具网状白色裂纹，边缘生黑色睫毛状缘毛。",
+      "habitat_hint": "向阳树干、公园树木、岩面。",
+      "finding_tips": "全年可见，于公园树干寻找灰绿色大型地衣。网状白色裂纹与边缘黑色缘毛为辨识要点。"
+    }
   }
 }
