@@ -252073,5 +252073,444 @@
       "habitat_hint": "松林、林缘、公园松树周围、市区绿地。",
       "finding_tips": "6 至 8 月夜间趋光。灰黑翅面与幼虫食松为辨识要点；粗壮身躯与狭长前翅为其特征。"
     }
+  },
+  "Sporobolus pilifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒゲシバ。日当たりのよい草地や道端、河原に生えるイネ科ネズミノオ属の一年草。細い茎が束生し、繊細な穂に長い毛（芒のような毛）を持つ小穂をまばらにつける。",
+      "habitat_hint": "日当たりのよい草地、道端、河原、乾いた裸地。",
+      "finding_tips": "夏〜秋、乾いた草地で細い茎の先に繊細な穂をまばらにつけるイネ科植物を探す。小穂につく長い毛が名（髭芝）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "A tufted annual grass (Poaceae, Sporobolus) of sunny grassland, waysides and riverbanks, with slender stems and delicate open panicles whose spikelets bear long hairs.",
+      "habitat_hint": "sunny grassland, waysides, riverbanks, dry bare ground.",
+      "finding_tips": "From summer to autumn, on dry grassland look for a slender grass with a delicate open panicle; the long hairs on the spikelets are diagnostic."
+    },
+    "zh": {
+      "summary": "髭鼠尾粟（ヒゲシバ）。生于向阳草地、路旁与河滩的禾本科鼠尾粟属一年生草本，细茎丛生，纤细花穗上疏生具长毛的小穗。",
+      "habitat_hint": "向阳草地、路旁、河滩、干燥裸地。",
+      "finding_tips": "夏至秋于干燥草地寻找细茎顶端疏生纤细花穗的禾草。小穗上的长毛为辨识要点。"
+    }
+  },
+  "Stachys affinis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "甘露子"
+    },
+    "ja": {
+      "summary": "チョロギ。中国原産のシソ科イヌゴマ属の多年草で、食用に栽培される。地下に白い巻き貝状の塊茎をつくり、これを正月料理などで食べる。地上部は角ばった茎に対生する葉をつける。",
+      "habitat_hint": "畑、家庭菜園、湿った空き地、栽培地の周辺。",
+      "finding_tips": "秋、畑で地下に白い巻き貝状の塊茎をつくるシソ科の草を探す。独特の螺旋状の塊茎が識別ポイント。地上部は淡紅色の唇形花をつける。"
+    },
+    "en": {
+      "summary": "Chinese Artichoke. A perennial (Lamiaceae, Stachys) native to China and cultivated as a vegetable; underground it forms white spiral shell-like tubers eaten in New Year dishes, while the square stems above bear opposite leaves.",
+      "habitat_hint": "fields, kitchen gardens, damp open lots, near cultivation.",
+      "finding_tips": "In autumn, in fields look for a mint-family plant forming white spiral shell-like tubers underground; the distinctive coiled tubers are diagnostic, with pale-pink two-lipped flowers above."
+    },
+    "zh": {
+      "summary": "甘露子（チョロギ）。原产中国的唇形科水苏属多年生草本，作食用栽培，地下生白色螺旋状块茎，供年节食用，地上方茎着对生叶。",
+      "habitat_hint": "菜地、家庭菜园、潮湿空地、栽培地周围。",
+      "finding_tips": "秋季于菜地寻找地下生白色螺旋状块茎的唇形科草。独特螺旋块茎为辨识要点，地上部着淡红唇形花。"
+    }
+  },
+  "Stellaria uchiyamana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain Chickweed",
+    "ja": {
+      "summary": "ヤマハコベ。山地の湿った林縁や沢沿いに生えるナデシコ科ハコベ属の多年草。茎は柔らかく、白い5弁花を咲かせる。花弁は深く2裂して10弁に見える。ハコベに似るが大型で山地性。",
+      "habitat_hint": "山地の湿った林縁、沢沿い、林床、水辺。",
+      "finding_tips": "5〜7月、山地の湿った場所で白い5弁花をつける柔らかい草を探す。深く裂けて10弁に見える花弁が識別ポイント。ハコベより大型。"
+    },
+    "en": {
+      "summary": "Mountain Chickweed. A perennial (Caryophyllaceae, Stellaria) of damp montane forest edges and streamsides, soft-stemmed with white five-petalled flowers whose petals are so deeply cleft they seem to be ten; larger than common chickweed and montane.",
+      "habitat_hint": "damp montane forest edges, streamsides, forest floor, waterside.",
+      "finding_tips": "From May to July, in damp mountain places look for a soft herb with white five-petalled flowers; petals cleft to appear as ten are diagnostic, larger than common chickweed."
+    },
+    "zh": {
+      "summary": "山繁缕（ヤマハコベ）。生于山地潮湿林缘与沢沿的石竹科繁缕属多年生草本，茎柔软，开白色五瓣花，花瓣深裂似十瓣，较繁缕大且为山地种。",
+      "habitat_hint": "山地潮湿林缘、沢沿、林床、水边。",
+      "finding_tips": "5 至 7 月于山地潮湿处寻找开白色五瓣花的柔软草。深裂似十瓣的花瓣为辨识要点，较繁缕大。"
+    }
+  },
+  "Stemonitis fusca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムラサキホコリ。枯れ木や倒木の上に生える変形菌（粘菌）の一種。細い柄の上に円柱状の子実体が林立し、暗紫褐色の胞子の塊をつくる。まるで小さな毛の生えた林のように見える。",
+      "habitat_hint": "枯れ木、倒木、朽ち木、湿った林床。",
+      "finding_tips": "梅雨〜秋の雨後、枯れ木の上に暗紫褐色の円柱状の子実体が林立する群れを探す。細い柄と毛のような姿が名（紫埃）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Dark-brown Wood-hair. A myxomycete (slime mould) fruiting on dead wood, its cylindrical fruit-bodies standing in stalked clusters like a tiny hairy forest and holding a dark purple-brown spore mass.",
+      "habitat_hint": "dead wood, fallen logs, rotting wood, damp forest floor.",
+      "finding_tips": "After rain from the rainy season to autumn, on dead wood look for a cluster of dark purple-brown cylindrical stalked fruit-bodies; the slender stalks and hair-like form are diagnostic."
+    },
+    "zh": {
+      "summary": "紫绒泡菌（ムラサキホコリ）。生于枯木倒木的变形菌（黏菌），细柄之上林立圆柱状子实体，形成暗紫褐色孢子团，宛如生毛的小林。",
+      "habitat_hint": "枯木、倒木、朽木、潮湿林床。",
+      "finding_tips": "梅雨至秋季雨后，于枯木上寻找林立的暗紫褐圆柱状具柄子实体群。细柄与似毛的姿态为辨识要点。"
+    }
+  },
+  "Stenus rugipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove Beetle",
+    "ja": {
+      "summary": "キアシホソメダカハネカクシ。水辺や湿地にすむハネカクシ科メダカハネカクシ亜科の小型の甲虫。体は細長く、大きな複眼を持ち、脚が黄色い。水辺をすばやく歩き、トビムシなどを捕食する。",
+      "habitat_hint": "河川敷、池沼の縁、湿地、水辺の泥や砂。",
+      "finding_tips": "春〜秋、水辺の泥の上をすばやく歩く細長い小さな甲虫を探す。大きな複眼と黄色い脚が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small rove beetle (Staphylinidae, Steninae) of waterside and wetland, elongate with large bulging eyes and yellow legs; it walks swiftly at the water's edge, preying on springtails and other small invertebrates.",
+      "habitat_hint": "riverbanks, pond margins, wetlands, waterside mud and sand.",
+      "finding_tips": "From spring to autumn look for a small elongate beetle walking rapidly over waterside mud; the large eyes and yellow legs are diagnostic."
+    },
+    "zh": {
+      "summary": "黄足隐翅虫（キアシホソメダカハネカクシ）。栖于水边与湿地的隐翅虫科突眼隐翅虫亚科小型甲虫，体细长、复眼大、足黄色，于水边疾走捕食跳虫等。",
+      "habitat_hint": "河滩、池沼边缘、湿地、水边泥沙。",
+      "finding_tips": "春至秋于水边泥面寻找疾走的细长小甲虫。大复眼与黄色足为辨识要点。"
+    }
+  },
+  "Stereocaulon exutum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snow Lichen",
+    "ja": {
+      "summary": "キゴケ。山地〜高山の岩上や裸地に生える樹枝状（低木状）の地衣類。灰白色の柱状の枝が立ち上がり、表面に粒状の小さな裂片（擬葉体）をつける。溶岩地や崩壊地の先駆的な地衣。",
+      "habitat_hint": "山地〜高山の岩上、裸地、溶岩地、崩壊地。",
+      "finding_tips": "通年、山地の岩や裸地で灰白色の柱状に立ち上がる地衣を探す。粒状の擬葉体で覆われた枝が識別ポイント。"
+    },
+    "en": {
+      "summary": "Snow Lichen. A shrubby (fruticose) lichen of montane to alpine rock and bare ground, its greyish-white columnar stalks rising and covered in granular phyllocladia; a pioneer lichen of lava fields and landslides.",
+      "habitat_hint": "montane to alpine rock, bare ground, lava fields, landslides.",
+      "finding_tips": "Year-round, on mountain rock and bare ground look for a greyish-white columnar lichen; the branches covered in granular phyllocladia are diagnostic."
+    },
+    "zh": {
+      "summary": "石蕊状雪衣（キゴケ）。生于山地至高山岩面与裸地的枝状（灌木状）地衣，灰白柱状枝直立，表面具粒状小裂片（拟叶体），为熔岩地与崩塌地的先锋地衣。",
+      "habitat_hint": "山地至高山岩面、裸地、熔岩地、崩塌地。",
+      "finding_tips": "全年可见，于山地岩面裸地寻找灰白柱状直立的地衣。覆粒状拟叶体的枝为辨识要点。"
+    }
+  },
+  "Stereophaedusa addisoni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Addison's Door Snail",
+    "ja": {
+      "summary": "ギュリキギセル。樹幹や岩、石垣などにすむキセルガイ科の細長い陸産貝（かたつむり）。殻は右巻きではなく左巻きの塔状で、口に閉弁を持つ。落ち葉や樹皮の下で見られる。",
+      "habitat_hint": "樹幹、岩、石垣、湿った林床の落ち葉や倒木の下。",
+      "finding_tips": "湿った時期、樹幹や石垣で細長い左巻きの塔状の殻を探す。キセル（煙管）のような細長い殻が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Addison's Door Snail. An elongate land snail (Clausiliidae) living on trunks, rock and stone walls, its tower-shaped shell sinistral (left-coiling) and closed by a clausilium; found under leaf litter and bark.",
+      "habitat_hint": "trunks, rock, stone walls, under leaf litter and logs on damp forest floor.",
+      "finding_tips": "In the damp season, on trunks and stone walls look for an elongate left-coiling tower shell; the pipe-shaped (kiseru) shell is diagnostic."
+    },
+    "zh": {
+      "summary": "阿迪森烟管螺（ギュリキギセル）。栖于树干、岩石与石垣的烟管螺科细长陆生蜗牛，壳左旋呈塔状、口内具闭弁，见于落叶与树皮下。",
+      "habitat_hint": "树干、岩石、石垣、潮湿林床落叶与倒木下。",
+      "finding_tips": "潮湿时节于树干石垣寻找细长左旋塔状壳。似烟管的细长壳为辨识要点。"
+    }
+  },
+  "Strigatella retusa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Retuse Miter Shell",
+    "ja": {
+      "summary": "オオシマヤタテガイ。房総半島以南の浅海の砂底や岩礁にすむフデガイ科の巻貝。殻は紡錘形で暗褐色、口の内側の軸に数本の襞（ひだ）を持つ。夜行性で小動物を捕食する。",
+      "habitat_hint": "潮下帯の砂底、岩礁の隙間、サンゴ礁の縁、浅海。",
+      "finding_tips": "通年、磯や砂底で暗褐色の紡錘形の巻貝を探す。殻口の軸にある数本の襞（軸襞）がフデガイ科の識別ポイント。"
+    },
+    "en": {
+      "summary": "Retuse Miter Shell. A miter snail (Mitridae) of shallow sandy bottoms and rock from the Bōsō Peninsula southward, its spindle-shaped dark-brown shell bearing several folds (plaits) on the columella; nocturnal and predatory.",
+      "habitat_hint": "subtidal sandy bottoms, rock crevices, reef margins, shallow sea.",
+      "finding_tips": "Year-round, on shores and sand look for a dark-brown spindle-shaped snail; the columellar plaits mark it as a miter shell."
+    },
+    "zh": {
+      "summary": "大岛笔螺（オオシマヤタテガイ）。分布于日本房总半岛以南浅海砂底与岩礁的笔螺科海螺，壳纺锤形、暗褐色，口内轴具数条褶襞，夜行性、捕食小动物。",
+      "habitat_hint": "潮下带砂底、岩礁缝隙、礁缘、浅海。",
+      "finding_tips": "全年可见，于礁岩砂底寻找暗褐纺锤形海螺。壳口轴上的数条轴褶为笔螺科辨识要点。"
+    }
+  },
+  "Stylophora pistillata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hood Coral",
+    "ja": {
+      "summary": "ショウガサンゴ。南日本のサンゴ礁にすむミドリイシ科（サザナミサンゴ類）の造礁サンゴ。太く丸みを帯びた枝を伸ばし、生姜の根茎のような塊状の群体をつくる。研究にもよく使われる。",
+      "habitat_hint": "南日本の浅いサンゴ礁、岩礁、潮下帯。",
+      "finding_tips": "サンゴ礁の潜水で、太く丸みのある枝を出す塊状のサンゴを探す。生姜の根に似た群体の形が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Hood Coral. A reef-building coral (Pocilloporidae) of southern Japanese reefs, extending thick rounded branches to form a stout colony like a ginger rhizome; widely used in research.",
+      "habitat_hint": "shallow reefs, rocky reef, subtidal zones of southern Japan.",
+      "finding_tips": "When diving reefs look for a stout coral with thick rounded branches; the ginger-rhizome-like colony form is diagnostic."
+    },
+    "zh": {
+      "summary": "腔星珊瑚（ショウガサンゴ）。栖于日本南部珊瑚礁的鹿角珊瑚类（列孔珊瑚科）造礁珊瑚，伸出粗圆分枝，形成似姜根茎的团块状群体，常用于研究。",
+      "habitat_hint": "日本南部浅珊瑚礁、岩礁、潮下带。",
+      "finding_tips": "潜水于珊瑚礁寻找伸出粗圆分枝的团块状珊瑚。似姜根的群体形态为辨识要点。"
+    }
+  },
+  "Suaeda maritima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "盐角草状碱蓬"
+    },
+    "ja": {
+      "summary": "ハママツナ。海岸の塩性湿地や干潟の縁に生えるヒユ科（アカザ科）マツナ属の一年草。多肉質の細い葉を密につけ、秋に紅葉して赤く色づく。耐塩性の高い塩生植物。",
+      "habitat_hint": "海岸の塩性湿地、干潟の縁、河口の塩湿地。",
+      "finding_tips": "秋、塩性湿地で多肉質の細い葉が赤く色づく群落を探す。マツ（松葉）のような多肉質の葉と、秋の紅葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Annual Sea-blite. An annual (Amaranthaceae, Suaeda) of coastal salt marshes and tidal-flat margins, densely set with fleshy narrow leaves that flush red in autumn; a highly salt-tolerant halophyte.",
+      "habitat_hint": "coastal salt marsh, tidal-flat margins, estuarine salt flats.",
+      "finding_tips": "In autumn, in salt marsh look for stands of fleshy narrow leaves turning red; the pine-needle-like fleshy leaves and autumn colour are diagnostic."
+    },
+    "zh": {
+      "summary": "海碱蓬（ハママツナ）。生于海岸盐沼与滩涂边缘的苋科（藜科）碱蓬属一年生草本，密生肉质细叶，秋季转红，为耐盐性强的盐生植物。",
+      "habitat_hint": "海岸盐沼、滩涂边缘、河口盐湿地。",
+      "finding_tips": "秋季于盐沼寻找肉质细叶转红的群落。似松针的肉质叶与秋红为辨识要点。"
+    }
+  },
+  "Suillus viscidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロヌメリイグチ。カラマツ林の地上に生えるヌメリイグチ科のイグチ（管孔を持つキノコ）。傘は灰白色でぬめりがあり、傘裏は管孔状。カラマツと共生する。食用になる。",
+      "habitat_hint": "カラマツ林の地上、カラマツの植林地。",
+      "finding_tips": "夏〜秋、カラマツ林の地上で灰白色でぬめりのある傘のイグチを探す。カラマツと共生し、傘裏が管孔状な点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Sticky Bolete. A bolete (Suillaceae) fruiting on the ground in larch woods, its greyish-white cap slimy and its underside porous; it lives in symbiosis with larch and is edible.",
+      "habitat_hint": "ground of larch woods, larch plantations.",
+      "finding_tips": "From summer to autumn, in larch woods look for a bolete with a slimy greyish-white cap and pored underside; its larch association is diagnostic."
+    },
+    "zh": {
+      "summary": "白黏铆钉菇（シロヌメリイグチ）。生于落叶松林地面的乳牛肝菌科牛肝菌，菌盖灰白而黏、盖下具管孔，与落叶松共生，可食。",
+      "habitat_hint": "落叶松林地面、落叶松人工林。",
+      "finding_tips": "夏至秋于落叶松林地面寻找灰白黏盖的牛肝菌。与落叶松共生、盖下管孔状为辨识要点。"
+    }
+  },
+  "Sympetrum cordulegaster": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-tailed Darter",
+    "ja": {
+      "summary": "オナガアカネ。ユーラシアに広く分布するトンボ科アカネ属の赤トンボで、日本では稀な迷入種として記録される。雄は成熟すると赤くなり、腹部の先が長く伸びるのが名の由来。",
+      "habitat_hint": "池沼、湿地、緩流の水辺、開けた草地。",
+      "finding_tips": "秋、水辺の草地で赤トンボを探す。腹部の付属器がやや長い点が特徴だが、日本では極めて稀。他の赤トンボとの識別には注意が必要。"
+    },
+    "en": {
+      "summary": "Long-tailed Darter. A red darter dragonfly (Libellulidae, Sympetrum) widespread across Eurasia, recorded in Japan only as a rare vagrant; mature males turn red and the appendages at the abdomen tip are somewhat elongated.",
+      "habitat_hint": "ponds, wetlands, slow waters, open grassland.",
+      "finding_tips": "In autumn, at waterside grassland look for a red darter; the slightly elongated abdominal appendages are the mark, but it is very rare in Japan and easily confused with other darters."
+    },
+    "zh": {
+      "summary": "长尾赤蜻（オナガアカネ）。广布欧亚的蜻科赤蜻属红蜻蜓，日本仅作罕见迷鸟记录。雄虫成熟转红，腹端附属器略长，即其名之由来。",
+      "habitat_hint": "池沼、湿地、缓流水边、开阔草地。",
+      "finding_tips": "秋季于水边草地寻找红蜻蜓。腹端附属器略长为特征，但日本极罕见，与他种赤蜻区分需谨慎。"
+    }
+  },
+  "Symphyotrichum expansum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオホウキギク。北アメリカ原産のキク科シオン属の一〜多年草で、道端や荒れ地に帰化する。茎はよく枝分かれし、多数の細い枝先に淡紫色〜白色の小さな頭花をつける。ホウキギクより大型。",
+      "habitat_hint": "道端、荒れ地、河川敷、埋立地、線路脇。",
+      "finding_tips": "夏〜秋、荒れ地でほうきのように枝分かれした茎に淡紫〜白の小さな頭花を多数つける草を探す。ホウキギクより大型で舌状花が目立つ点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Slim Aster. An annual to perennial (Asteraceae, Symphyotrichum) native to North America and naturalised on waysides and waste ground, much-branched with many small pale-purple to white flower heads on slender twigs; larger than the related saltmarsh aster.",
+      "habitat_hint": "waysides, waste ground, riverbanks, reclaimed land, railway sides.",
+      "finding_tips": "From summer to autumn, on waste ground look for a broom-branched plant with many small pale-purple to white heads; its larger size and showier ray florets are diagnostic."
+    },
+    "zh": {
+      "summary": "展枝紫菀（オオホウキギク）。原产北美的菊科联毛紫菀属一至多年生草本，归化于路旁荒地，茎多分枝，众多细枝端着淡紫至白色小头状花，较帚菀大。",
+      "habitat_hint": "路旁、荒地、河滩、填海地、铁路旁。",
+      "finding_tips": "夏至秋于荒地寻找如帚分枝、着多数淡紫至白小头花的草。较帚菀大且舌状花较显为辨识要点。"
+    }
+  },
+  "Syntypistis punctatella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beech Prominent",
+    "ja": {
+      "summary": "ブナアオシャチホコ。ブナ林に分布するシャチホコガ科の蛾。翅は緑がかった灰白色で、幼虫はブナの葉を食べる。時に大発生してブナの葉を食い尽くすことが知られる。",
+      "habitat_hint": "ブナ林、ブナ・イヌブナの生える山地林。",
+      "finding_tips": "6〜8月、夜間に灯火へ来る。緑がかった灰白色の翅が識別ポイント。幼虫の大発生でブナが丸坊主になることがある。"
+    },
+    "en": {
+      "summary": "Beech Prominent. A prominent moth (Notodontidae) of beech forests, with greenish greyish-white wings; the larvae feed on beech leaves and are known for periodic outbreaks that can defoliate the trees.",
+      "habitat_hint": "beech forests, montane woods with Japanese beech.",
+      "finding_tips": "From June to August it comes to lights at night. The greenish greyish-white wings are diagnostic; larval outbreaks can strip beech trees bare."
+    },
+    "zh": {
+      "summary": "山毛榉舟蛾（ブナアオシャチホコ）。分布于山毛榉林的舟蛾科蛾，翅带绿的灰白色，幼虫取食山毛榉叶，时有大发生致山毛榉叶片被食尽。",
+      "habitat_hint": "山毛榉林、生山毛榉的山地林。",
+      "finding_tips": "6 至 8 月夜间趋光。带绿灰白翅面为辨识要点。幼虫大发生时可将山毛榉食成秃枝。"
+    }
+  },
+  "Synuchus melantho": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground Beetle",
+    "ja": {
+      "summary": "コクロツヤヒラタゴミムシ。雑木林の林床にすむオサムシ科（ゴミムシの仲間）の甲虫。体は光沢のある黒色で扁平、夜行性で地表を歩き回り、小動物や種子を食べる。",
+      "habitat_hint": "雑木林、林縁、林床の落ち葉や石の下。",
+      "finding_tips": "夜間や、落ち葉・石をどけたときに見つかる。光沢のある黒く扁平な体と、細い脚で素早く歩く点が識別ポイント。"
+    },
+    "en": {
+      "summary": "A ground beetle (Carabidae, Synuchus) of secondary-woodland floors, glossy black and flattened; nocturnal, it roams the ground surface feeding on small invertebrates and seeds.",
+      "habitat_hint": "secondary woodland, forest edges, under floor litter and stones.",
+      "finding_tips": "Found at night or when leaf litter and stones are lifted; the glossy black flattened body and swift walking on slender legs are diagnostic."
+    },
+    "zh": {
+      "summary": "小黑光扁步甲（コクロツヤヒラタゴミムシ）。栖于杂木林林床的步甲科甲虫，体黑而有光泽、扁平，夜行于地表，取食小动物与种子。",
+      "habitat_hint": "杂木林、林缘、林床落叶与石下。",
+      "finding_tips": "夜间或翻开落叶石块时可见。黑亮扁平的体与细足疾走为辨识要点。"
+    }
+  },
+  "Taxiphyllum alternans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yew Moss",
+    "ja": {
+      "summary": "コウライイチイゴケ。樹幹や岩、湿った土上に生えるハイゴケ科のコケ（蘚類）。茎は這い、扁平に葉を2列に並べてイチイの枝葉のように見える。濃緑色のマット状に広がる。",
+      "habitat_hint": "湿潤な森林の樹幹・岩、湿った土上、日陰の斜面。",
+      "finding_tips": "通年、湿った樹幹や岩で扁平に葉を並べる濃緑色のコケを探す。イチイの葉のように平たく2列に並ぶ葉が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Yew Moss. A moss (Hypnaceae, Taxiphyllum) of trunks, rocks and damp soil, its creeping stems bearing flattened two-ranked leaves like yew foliage, spreading in dark-green mats.",
+      "habitat_hint": "trunks and rocks in humid forest, damp soil, shaded slopes.",
+      "finding_tips": "Year-round, on damp trunks and rocks look for a dark-green moss with flattened foliage; the two-ranked yew-like leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "高丽鳞叶藓（コウライイチイゴケ）。生于树干、岩石与潮湿土面的灰藓科苔藓（藓类），茎匍匐，叶扁平二列排列似红豆杉枝叶，铺展成深绿藓垫。",
+      "habitat_hint": "湿润森林树干与岩石、潮湿土面、荫蔽山坡。",
+      "finding_tips": "全年可见，于潮湿树干岩石寻找叶扁平排列的深绿藓。似红豆杉叶般二列平列的叶为辨识要点。"
+    }
+  },
+  "Tenguella granulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Granulate Drupe",
+    "ja": {
+      "summary": "レイシガイダマシ。房総半島以南の潮間帯の岩礁にすむアッキガイ科の巻貝。殻は厚く、表面に粒状の突起が並ぶ。他の貝やフジツボを襲って食べる肉食性の巻貝。",
+      "habitat_hint": "岩礁海岸の潮間帯、転石、タイドプール。",
+      "finding_tips": "通年、磯の岩や転石で表面に粒状突起の並ぶ厚い巻貝を探す。粒状の彫刻と肉食性がレイシガイ類の識別ポイント。"
+    },
+    "en": {
+      "summary": "Granulate Drupe. A thick-shelled murex snail (Muricidae) of rocky intertidal shores from the Bōsō Peninsula southward, its surface set with rows of granular knobs; a predator on other shells and barnacles.",
+      "habitat_hint": "rocky intertidal shores, boulders, tide pools.",
+      "finding_tips": "Year-round, on shore rock and boulders look for a thick snail with rows of granular knobs; the granular sculpture and predatory habit are diagnostic."
+    },
+    "zh": {
+      "summary": "拟荔枝螺（レイシガイダマシ）。分布于日本房总半岛以南岩礁潮间带的骨螺科海螺，壳厚，表面列生粒状突起，为捕食他贝与藤壶的肉食性螺。",
+      "habitat_hint": "岩礁海岸潮间带、砾石、潮池。",
+      "finding_tips": "全年可见，于礁岩砾石寻找表面列生粒突的厚壳螺。粒状雕刻与肉食习性为辨识要点。"
+    }
+  },
+  "Terana coerulea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アイコウヤクタケ。倒木や落ち枝の裏側に薄く広がるコウヤクタケ類の担子菌。子実体は鮮やかな藍青色で、木の表面を膏薬（こうやく）を塗ったように覆う。目を引く色彩の菌。",
+      "habitat_hint": "広葉樹の倒木・落ち枝の裏側、湿った林床の朽ち木。",
+      "finding_tips": "秋〜冬、倒木や落ち枝の裏返した面に鮮やかな藍青色の薄い膜状の菌を探す。強い青色が名（藍）の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Cobalt Crust. A resupinate crust fungus (basidiomycete) spreading thinly on the undersides of logs and fallen twigs; its fruitbody is a vivid cobalt-blue film coating the wood surface — a strikingly coloured fungus.",
+      "habitat_hint": "undersides of broadleaf logs and fallen twigs, rotting wood on damp forest floor.",
+      "finding_tips": "From autumn to winter, on the underside of logs and twigs look for a thin vivid cobalt-blue film; the intense blue colour is diagnostic."
+    },
+    "zh": {
+      "summary": "蓝伏革菌（アイコウヤクタケ）。薄铺于倒木与落枝背面的伏革菌类担子菌，子实体呈鲜艳蓝青色，如敷膏药般覆盖木面，色彩醒目。",
+      "habitat_hint": "阔叶倒木与落枝背面、潮湿林床朽木。",
+      "finding_tips": "秋至冬于翻转的倒木落枝面寻找鲜蓝青色薄膜状菌。浓烈蓝色为辨识要点。"
+    }
+  },
+  "Togepteryx velutina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Velvet Prominent",
+    "ja": {
+      "summary": "タテスジシャチホコ。本州〜九州の樹林に分布するシャチホコガ科の蛾。翅は褐色でビロード状の質感があり、縦の筋模様が走る。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "5〜8月、夜間に灯火へ来る。ビロード状の褐色の翅と縦筋模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "Velvet Prominent. A prominent moth (Notodontidae) of woodland from Honshu to Kyushu, with brown velvety-textured wings marked by longitudinal streaks; the larvae feed on broadleaf trees.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From May to August it comes to lights at night. The brown velvety wings with longitudinal streaks are diagnostic."
+    },
+    "zh": {
+      "summary": "纵纹舟蛾（タテスジシャチホコ）。分布于日本本州至九州林地的舟蛾科蛾，翅褐色具丝绒质感、饰纵纹，幼虫取食阔叶树叶。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "5 至 8 月夜间趋光。丝绒质褐翅与纵纹为辨识要点。"
+    }
+  },
+  "Trichopteryx ustata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Banded Carpet Moth",
+    "ja": {
+      "summary": "クロオビシロナミシャク。本州〜九州の樹林に分布するシャクガ科ナミシャク亜科の蛾。翅は白っぽく、前翅に黒い帯状の横紋が走る。早春に出現する春の蛾。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "3〜5月、夜間に灯火へ来る。白っぽい翅に走る黒い帯状の横紋が名の由来で識別ポイント。春先に見られる。"
+    },
+    "en": {
+      "summary": "Banded Carpet Moth. A carpet moth (Geometridae, Larentiinae) of woodland from Honshu to Kyushu, with whitish wings crossed by a black band on the forewing; an early-spring moth.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From March to May it comes to lights at night. The black band across whitish forewings is diagnostic; it appears in early spring."
+    },
+    "zh": {
+      "summary": "黑带白波尺蛾（クロオビシロナミシャク）。分布于日本本州至九州林地的尺蛾科波尺蛾亚科蛾，翅偏白，前翅具黑色带状横纹，为早春出现的蛾。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "3 至 5 月夜间趋光。白翅上黑色带状横纹为其名之由来与辨识要点，早春可见。"
+    }
   }
 }
