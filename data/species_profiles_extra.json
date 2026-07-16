@@ -250181,5 +250181,514 @@
       "habitat_hint": "向阳树干、公园树木、岩面。",
       "finding_tips": "全年可见，于公园树干寻找灰绿色大型地衣。网状白色裂纹与边缘黑色缘毛为辨识要点。"
     }
+  },
+  "Parsonsia alboflavescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silky Alyxia Vine",
+    "ja": {
+      "summary": "ホウライカガミ。南西諸島の海岸林に生えるキョウチクトウ科のつる性木本。葉は対生し光沢があり、白〜淡黄色の小花をつける。オオゴマダラの食草として知られる。",
+      "habitat_hint": "亜熱帯の海岸林、林縁、石灰岩地。",
+      "finding_tips": "他の木に絡むつる性の木で、対生する光沢のある葉を探す。オオゴマダラの幼虫がついていることがある。"
+    },
+    "en": {
+      "summary": "Silky Alyxia Vine. A woody climber (Apocynaceae) of coastal forest in the Ryukyu Islands, with glossy opposite leaves and small white to pale-yellow flowers; a food plant of the tree nymph butterfly.",
+      "habitat_hint": "subtropical coastal forest, forest edges, limestone ground.",
+      "finding_tips": "Look for a woody vine twining over other trees with glossy opposite leaves; tree nymph caterpillars may be feeding on it."
+    },
+    "zh": {
+      "summary": "蓬莱葛（ホウライカガミ）。生于日本西南诸岛海岸林的夹竹桃科木质藤本，叶对生而有光泽，花小、白至淡黄色，为大帛斑蝶的寄主植物。",
+      "habitat_hint": "亚热带海岸林、林缘、石灰岩地。",
+      "finding_tips": "寻找缠绕于他树、叶对生而有光泽的木质藤。其上或有大帛斑蝶幼虫取食。"
+    }
+  },
+  "Pecten excavatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Excavated Scallop",
+    "ja": {
+      "summary": "ハナイタヤ。房総半島以南の浅海の砂底にすむイタヤガイ科の二枚貝。扇形の殻に太い放射肋があり、下殻は膨らみ上殻は平ら。淡い橙〜黄褐色を帯びる。",
+      "habitat_hint": "内湾〜外洋の潮下帯の砂底、浅海。",
+      "finding_tips": "通年、砂浜に打ち上げられた扇形の殻を探す。太い放射肋と、膨らんだ下殻・平らな上殻の組み合わせが識別ポイント。"
+    },
+    "en": {
+      "summary": "Excavated Scallop. A scallop (Pectinidae) of shallow sandy bottoms from the Bōsō Peninsula southward, its fan-shaped shell ribbed with strong radial ridges — the lower valve cupped, the upper flat — in pale orange to yellow-brown.",
+      "habitat_hint": "sandy subtidal bottoms of bays and open coasts, shallow sea.",
+      "finding_tips": "Year-round look for fan-shaped shells washed onto beaches; the strong radial ribs and cupped-lower/flat-upper valves are diagnostic."
+    },
+    "zh": {
+      "summary": "花海扇蛤（ハナイタヤ）。分布于日本房总半岛以南浅海砂底的海扇蛤科双壳类，扇形壳具粗放射肋，下壳凸、上壳平，呈淡橙至黄褐色。",
+      "habitat_hint": "内湾至外海潮下带砂底、浅海。",
+      "finding_tips": "全年可见，于沙滩寻找冲上岸的扇形壳。粗放射肋及凸下壳、平上壳的组合为辨识要点。"
+    }
+  },
+  "Pellia neesiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Overleaf Pellia",
+    "ja": {
+      "summary": "エゾミズゼニゴケ。渓流沿いや湿った崖などに生える葉状体性のコケ（苔類）。濃緑色で幅広い葉状体が重なり合って群生し、しばしば赤みを帯びる。",
+      "habitat_hint": "渓流沿いの湿った岩・土、湧水地、日陰の崖。",
+      "finding_tips": "通年、湿った岩や崖で幅広く濃緑色の葉状体が広がる群落を探す。ゼニゴケに似るが杯状体を持たない点で区別。"
+    },
+    "en": {
+      "summary": "Overleaf Pellia. A thalloid liverwort of streamsides and damp cliffs, forming overlapping colonies of broad dark-green thalli that often flush reddish.",
+      "habitat_hint": "damp rocks and soil along streams, seepage sites, shaded cliffs.",
+      "finding_tips": "Year-round, on wet rock and cliff look for broad dark-green thalli in mats; unlike the common liverwort Marchantia it lacks gemma cups."
+    },
+    "zh": {
+      "summary": "花萼溪苔（エゾミズゼニゴケ）。生于溪流沿岸与潮湿崖壁的叶状体苔类，深绿宽阔的叶状体叠覆成群，常带红晕。",
+      "habitat_hint": "溪流沿岸潮湿岩土、涌泉地、荫蔽崖壁。",
+      "finding_tips": "全年可见，于湿岩崖壁寻找宽阔深绿叶状体铺展的群落。似地钱但无杯状体，可资区分。"
+    }
+  },
+  "Pelosia noctis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dark Footman",
+    "ja": {
+      "summary": "クロスジホソバ。本州〜九州に分布するヒトリガ科コケガ亜科の小型の蛾。前翅は灰褐色で、翅に黒い筋状の紋が入る。幼虫は地衣類を食べる。",
+      "habitat_hint": "雑木林、樹林の縁、地衣類の多い環境。",
+      "finding_tips": "6〜9月、夜間に灯火へ来る。細長い灰褐色の翅と黒い筋模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "Dark Footman. A small lichen moth (Arctiinae, Erebidae) from Honshu to Kyushu, with narrow grey-brown forewings marked by dark streaks; the larvae feed on lichens.",
+      "habitat_hint": "secondary woodland, forest edges, lichen-rich habitats.",
+      "finding_tips": "From June to September it comes to lights at night. Narrow grey-brown wings with dark streaks are diagnostic."
+    },
+    "zh": {
+      "summary": "黑纹细苔蛾（クロスジホソバ）。分布于日本本州至九州的灯蛾科苔蛾亚科小型蛾，前翅灰褐色、具黑色条纹，幼虫取食地衣。",
+      "habitat_hint": "杂木林、林缘、多地衣环境。",
+      "finding_tips": "6 至 9 月夜间趋光。细长灰褐翅面与黑色条纹为辨识要点。"
+    }
+  },
+  "Perichaeta micronaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Earthworm",
+    "ja": {
+      "summary": "ヒナミミズ。畑や庭の土中にすむフトミミズ科の小型のミミズ。体は細く小さく、湿った有機質の多い土壌にすむ。堆肥や落ち葉の下でよく見られる。",
+      "habitat_hint": "畑、庭、公園の花壇、湿った腐植質の土。",
+      "finding_tips": "通年、湿った土や堆肥、落ち葉の下を掘ると見つかる。細く小型な体型がフトミミズ類の中では目印。"
+    },
+    "en": {
+      "summary": "Small Earthworm. A small megascolecid earthworm of garden and field soil, slender and diminutive, living in moist organic-rich ground; common under compost and leaf litter.",
+      "habitat_hint": "fields, gardens, park flower beds, moist humus-rich soil.",
+      "finding_tips": "Year-round, digging moist soil, compost or under leaf litter turns them up; its slender small body distinguishes it among megascolecid worms."
+    },
+    "zh": {
+      "summary": "雏蚯蚓（ヒナミミズ）。栖于菜地与庭园土中的巨蚓科小型蚯蚓，体细小，生活于潮湿富含有机质的土壤，常见于堆肥与落叶下。",
+      "habitat_hint": "菜地、庭园、公园花坛、潮湿腐殖质土。",
+      "finding_tips": "全年可见，翻挖湿土、堆肥或落叶下可得。体细而小，为其在巨蚓类中的特征。"
+    }
+  },
+  "Perinereis cultrifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ragworm",
+    "ja": {
+      "summary": "クマドリゴカイ。潮間帯の岩礁や砂泥底にすむゴカイ科の多毛類。体は細長く多数の体節からなり、各節に疣足（いぼあし）を持つ。頭部の模様が名の由来。",
+      "habitat_hint": "潮間帯の岩礁の隙間、砂泥底、転石の下。",
+      "finding_tips": "通年、磯の転石をめくったり砂泥を掘ると見つかる。細長い体と各節の疣足、頭部の隈取り模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "Ragworm. A nereid polychaete of intertidal rock and muddy-sand bottoms, its long many-segmented body bearing paired parapodia on each segment; head markings give it the Japanese name.",
+      "habitat_hint": "crevices of intertidal rock, muddy-sand bottoms, under boulders.",
+      "finding_tips": "Year-round, turning shore stones or digging muddy sand reveals them; the elongate body with segmental parapodia and patterned head is diagnostic."
+    },
+    "zh": {
+      "summary": "隈取沙蚕（クマドリゴカイ）。栖于潮间带岩礁与砂泥底的沙蚕科多毛类，体细长、多体节，各节具疣足，头部纹样为其日文名之由来。",
+      "habitat_hint": "潮间带岩礁缝隙、砂泥底、砾石下。",
+      "finding_tips": "全年可见，翻开礁石或掘砂泥可得。细长体、各节疣足与头部隈取纹样为辨识要点。"
+    }
+  },
+  "Peronia verruculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Warty Sea Slug",
+    "ja": {
+      "summary": "イソアワモチ。本州以南の潮間帯の岩礁にすむイソアワモチ科の殻を持たない海の巻貝（後鰓類）。楕円形で背中はいぼ状の突起に覆われ、灰褐色で岩に擬態する。",
+      "habitat_hint": "岩礁海岸の潮間帯、干潮時に露出する岩の表面。",
+      "finding_tips": "干潮時、磯の岩の上をゆっくり這う楕円形の生物を探す。背中のいぼ状突起と、背に眼を持つ点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Warty Sea Slug. A shell-less marine pulmonate (Onchidiidae) of rocky intertidal shores from Honshu southward; oval and grey-brown with a warty back, it camouflages against rock.",
+      "habitat_hint": "rocky intertidal shores, rock surfaces exposed at low tide.",
+      "finding_tips": "At low tide look for oval creatures creeping slowly over shore rocks; the warty back and dorsal eyes are diagnostic."
+    },
+    "zh": {
+      "summary": "石鳆（イソアワモチ）。分布于日本本州以南岩礁潮间带的石磺科无壳海生肺螺，体椭圆、灰褐色，背具疣突，善于拟态岩石。",
+      "habitat_hint": "岩礁海岸潮间带、退潮时露出的岩面。",
+      "finding_tips": "退潮时寻找在礁岩上缓慢爬行的椭圆形生物。背部疣突与背上生眼为辨识要点。"
+    }
+  },
+  "Petroselinum crispum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "欧芹"
+    },
+    "ja": {
+      "summary": "パセリ。地中海地方原産のセリ科の二年草で、香草として世界中で栽培される。葉は濃緑で細かく縮れ、独特の香りがある。日本でも野菜・ハーブとして広く植えられる。",
+      "habitat_hint": "畑、家庭菜園、ハーブ園、公園の花壇。",
+      "finding_tips": "通年、菜園やハーブ園で細かく縮れた濃緑の葉を探す。独特の爽やかな香りと縮れた葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Parsley. A biennial herb (Apiaceae) native to the Mediterranean and cultivated worldwide as a culinary herb, with deep green finely curled leaves and a distinctive aroma; widely grown in Japan as a vegetable and herb.",
+      "habitat_hint": "vegetable plots, kitchen gardens, herb gardens, park beds.",
+      "finding_tips": "Year-round in gardens look for deep-green tightly curled leaves; the crisp curling and fresh aroma are diagnostic."
+    },
+    "zh": {
+      "summary": "欧芹（パセリ）。原产地中海地区的伞形科二年生草本，作香草在世界各地广泛栽培，叶深绿而细密卷曲、气味独特，日本亦作蔬菜与香草普遍种植。",
+      "habitat_hint": "菜地、家庭菜园、香草园、公园花坛。",
+      "finding_tips": "全年可见，于菜园香草园寻找深绿细密卷曲的叶。卷曲叶与清新独特香气为辨识要点。"
+    }
+  },
+  "Phenolia picta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Painted Sap Beetle",
+    "ja": {
+      "summary": "アカマダラケシキスイ。本州〜九州に分布するケシキスイ科の小型甲虫。体は扁平で、暗色地に赤褐色のまだら模様がある。樹液や熟した果実、腐った菌類に集まる。",
+      "habitat_hint": "雑木林、樹液の出るクヌギ・コナラ、腐った果実や菌。",
+      "finding_tips": "初夏〜秋、樹液や落果に集まっているところを探す。扁平な体と赤褐色のまだら模様が識別ポイント。"
+    },
+    "en": {
+      "summary": "Painted Sap Beetle. A small sap beetle (Nitidulidae) from Honshu to Kyushu, flattened with reddish-brown mottling on a dark ground; it gathers at tree sap, ripe fruit and rotting fungi.",
+      "habitat_hint": "secondary woodland, sap-oozing sawtooth and jolcham oaks, rotting fruit and fungi.",
+      "finding_tips": "From early summer to autumn look for it at sap runs and fallen fruit; the flattened body with reddish-brown mottling is diagnostic."
+    },
+    "zh": {
+      "summary": "红斑露尾甲（アカマダラケシキスイ）。分布于日本本州至九州的露尾甲科小型甲虫，体扁平，暗底具红褐斑纹，聚于树液、熟果与腐菌。",
+      "habitat_hint": "杂木林、流树液的麻栎与枹栎、腐果与腐菌。",
+      "finding_tips": "初夏至秋于树液与落果处寻找。扁平体与红褐斑纹为辨识要点。"
+    }
+  },
+  "Phidiana bourailli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carrot-seed Aeolid",
+    "ja": {
+      "summary": "キャロットシードミノウミウシ。房総半島以南の岩礁海岸にすむミノウミウシ類の裸鰓類（ウミウシ）。背に多数の細長い突起（ミノ）を持ち、突起の先が橙色でニンジンの種のように見える。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、ヒドロ虫の生える岩やタイドプール。",
+      "finding_tips": "磯の岩やタイドプールで、背に橙色の先端を持つミノを多数背負った小さなウミウシを探す。ミノの色が識別ポイント。"
+    },
+    "en": {
+      "summary": "Carrot-seed Aeolid. An aeolid nudibranch of rocky shores from the Bōsō Peninsula southward, its back bearing many slender cerata tipped orange, resembling carrot seeds.",
+      "habitat_hint": "intertidal to subtidal rock, hydroid-covered rocks and tide pools.",
+      "finding_tips": "On shore rocks and in tide pools look for a small nudibranch carrying many cerata with orange tips; the ceratal colour is diagnostic."
+    },
+    "zh": {
+      "summary": "胡萝卜籽蓑海牛（キャロットシードミノウミウシ）。分布于日本房总半岛以南岩礁海岸的蓑海牛类裸鳃动物，背负众多细长突起（鳃突），突起端橙色，形似胡萝卜种子。",
+      "habitat_hint": "潮间带至潮下带岩礁、生水螅的岩石与潮池。",
+      "finding_tips": "于礁岩与潮池寻找背负众多橙端鳃突的小型海牛。鳃突颜色为辨识要点。"
+    }
+  },
+  "Pholiota nameko": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "滑菇"
+    },
+    "ja": {
+      "summary": "ナメコ。ブナなどの広葉樹の枯れ木に群生するモエギタケ科のキノコ。傘は黄褐色で強いぬめり（粘液）に覆われる。食用として広く栽培される代表的な食用きのこ。",
+      "habitat_hint": "ブナ・ナラなど広葉樹の枯れ木・切り株、原木栽培のほだ木。",
+      "finding_tips": "晩秋、広葉樹の倒木や切り株に群がって生える。黄褐色でぬめりのある傘が識別ポイント。よく似た毒キノコに注意。"
+    },
+    "en": {
+      "summary": "Nameko. A mushroom (Strophariaceae) growing in clusters on dead broadleaf trees such as beech, its yellow-brown cap covered in a heavy slime; a major cultivated edible mushroom in Japan.",
+      "habitat_hint": "dead wood and stumps of beech, oak and other broadleaf trees; cultivated logs.",
+      "finding_tips": "In late autumn it clusters on broadleaf logs and stumps; the slimy yellow-brown cap is diagnostic — beware similar toxic look-alikes."
+    },
+    "zh": {
+      "summary": "滑菇（ナメコ）。丛生于山毛榉等阔叶枯木的球盖菇科真菌，菌盖黄褐色、覆浓厚黏液，是日本广泛栽培的代表性食用菌。",
+      "habitat_hint": "山毛榉、栎等阔叶树枯木与树桩、椴木栽培段木。",
+      "finding_tips": "晚秋于阔叶倒木与树桩上丛生。黄褐色黏滑菌盖为辨识要点；注意近似毒菌。"
+    }
+  },
+  "Phos senticosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "トクサバイ。房総半島以南の浅海の砂底にすむエゾバイ科の巻貝。殻は紡錘形で、縦肋と螺肋が交差して格子状の彫刻をなす。砂底を這って腐肉などをあさる。",
+      "habitat_hint": "内湾〜外洋の潮下帯の砂底、浅海。",
+      "finding_tips": "通年、砂浜に打ち上げられた紡錘形の殻を探す。縦肋と螺肋が交わる格子状の彫刻が識別ポイント。"
+    },
+    "en": {
+      "summary": "Phos Whelk. A whelk (Buccinidae) of shallow sandy bottoms from the Bōsō Peninsula southward, its spindle-shaped shell sculptured with a lattice of crossing axial and spiral ribs; it scavenges carrion on the sand.",
+      "habitat_hint": "sandy subtidal bottoms of bays and open coasts, shallow sea.",
+      "finding_tips": "Year-round look for spindle-shaped shells washed onto beaches; the latticed axial-and-spiral sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "木贼蛾螺（トクサバイ）。分布于日本房总半岛以南浅海砂底的蛾螺科海螺，壳纺锤形，纵肋与螺肋交织成格状雕刻，于砂底爬行觅食腐肉。",
+      "habitat_hint": "内湾至外海潮下带砂底、浅海。",
+      "finding_tips": "全年可见，于沙滩寻找冲上岸的纺锤形壳。纵肋与螺肋交织的格状雕刻为辨识要点。"
+    }
+  },
+  "Phyllidia picta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Painted Phyllidia",
+    "ja": {
+      "summary": "フリエリイボウミウシ。南日本の岩礁海岸にすむイボウミウシ科の裸鰓類（ウミウシ）。背は黒地に青灰色のいぼ状突起と橙色の縁取りを持ち、鮮やかな警告色を示す。",
+      "habitat_hint": "潮下帯の岩礁、サンゴ礁、海綿の生える岩。",
+      "finding_tips": "磯やサンゴ礁の潜水で、黒地に青灰色のいぼと橙色の縁を持つ扁平なウミウシを探す。派手な体色が識別ポイント。"
+    },
+    "en": {
+      "summary": "Painted Phyllidia. A phyllidiid nudibranch of rocky shores in southern Japan, its black back studded with blue-grey tubercles and edged orange in a vivid warning pattern.",
+      "habitat_hint": "subtidal rock, coral reef, sponge-covered rocks.",
+      "finding_tips": "When diving rocky or coral areas look for a flattened nudibranch, black with blue-grey tubercles and orange margins; the bold colours are diagnostic."
+    },
+    "zh": {
+      "summary": "彩绘疣海牛（フリエリイボウミウシ）。分布于日本南部岩礁海岸的疣海牛科裸鳃动物，背部黑底缀青灰疣突并镶橙色边，呈鲜明警戒色。",
+      "habitat_hint": "潮下带岩礁、珊瑚礁、生海绵的岩石。",
+      "finding_tips": "潜水于礁岩或珊瑚区寻找黑底、青灰疣突、橙边的扁平海牛。鲜艳体色为辨识要点。"
+    }
+  },
+  "Phyllobius armatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green Leaf Weevil",
+    "ja": {
+      "summary": "リンゴコフキゾウムシ。本州〜九州に分布するゾウムシ科の小型の甲虫。体表は金属光沢のある緑色〜青緑色の微細な鱗片に覆われ、こすれると粉が落ちて地色が見える。バラ科の葉を食べる。",
+      "habitat_hint": "雑木林、林縁、リンゴやサクラなどバラ科樹木の周辺。",
+      "finding_tips": "春〜初夏、バラ科の若葉の上を探す。緑〜青緑の金属光沢のある鱗片に覆われた小さなゾウムシが識別ポイント。"
+    },
+    "en": {
+      "summary": "Green Leaf Weevil. A small weevil (Curculionidae) from Honshu to Kyushu, coated in metallic green to blue-green scales that rub off to reveal the dark ground; it feeds on rose-family leaves.",
+      "habitat_hint": "secondary woodland, forest edges, around apple, cherry and other Rosaceae.",
+      "finding_tips": "From spring to early summer search young rose-family leaves; the small weevil clad in metallic green-to-blue scales is diagnostic."
+    },
+    "zh": {
+      "summary": "苹果绿象（リンゴコフキゾウムシ）。分布于日本本州至九州的象甲科小型甲虫，体被金属光泽的绿至蓝绿鳞片，磨擦后露出暗底色，取食蔷薇科叶片。",
+      "habitat_hint": "杂木林、林缘、苹果与樱等蔷薇科树木周围。",
+      "finding_tips": "春至初夏于蔷薇科嫩叶上寻找。覆金属绿蓝鳞片的小型象甲为辨识要点。"
+    }
+  },
+  "Phymatapoderus pavens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf-rolling Weevil",
+    "ja": {
+      "summary": "ヒメコブオトシブミ。本州〜九州に分布するオトシブミ科の小型の甲虫。体は赤褐色〜黒褐色で、雌はイラクサ科などの葉を巻いて「揺籃（ようらん）」をつくり、その中に産卵する。",
+      "habitat_hint": "雑木林、林縁、イラクサ科植物の群落。",
+      "finding_tips": "初夏、食草の葉が筒状に巻かれていれば本種の揺籃。葉上の小さな赤褐色の甲虫を探す。"
+    },
+    "en": {
+      "summary": "Leaf-rolling Weevil. A small attelabid weevil from Honshu to Kyushu, reddish- to blackish-brown; the female rolls nettle-family leaves into a 'cradle' in which she lays her eggs.",
+      "habitat_hint": "secondary woodland, forest edges, stands of nettle-family plants.",
+      "finding_tips": "In early summer, tube-rolled host leaves signal its cradle; look for the small reddish-brown weevil on the leaves."
+    },
+    "zh": {
+      "summary": "姬瘤卷叶象（ヒメコブオトシブミ）。分布于日本本州至九州的卷象科小型甲虫，体红褐至黑褐色，雌虫将荨麻科等叶卷成「摇篮」并于内产卵。",
+      "habitat_hint": "杂木林、林缘、荨麻科植物群落。",
+      "finding_tips": "初夏若见寄主叶卷成筒状，即其摇篮。于叶上寻找红褐色小型象甲。"
+    }
+  },
+  "Physarum viride": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green Slime Mould",
+    "ja": {
+      "summary": "アオモジホコリ。枯れ木や落ち葉の上に発生する変形菌（粘菌）の一種。柄のある小さな子実体が群がって生じ、黄緑色を帯びる。変形体は木や落ち葉の上を這って餌をとる。",
+      "habitat_hint": "枯れ木、倒木、落ち葉の堆積、湿った林床。",
+      "finding_tips": "梅雨〜秋の雨後、枯れ木や落ち葉の上に生じる黄緑色の柄付きの小さな子実体の群れを探す。ルーペで見ると美しい。"
+    },
+    "en": {
+      "summary": "Green Slime Mould. A myxomycete (slime mould) fruiting on dead wood and leaf litter as clusters of small stalked yellow-green sporangia; the plasmodial stage creeps over wood and litter to feed.",
+      "habitat_hint": "dead wood, fallen logs, leaf-litter piles, damp forest floor.",
+      "finding_tips": "After rain from the rainy season to autumn, look on dead wood and litter for clusters of small stalked yellow-green fruiting bodies, lovely under a hand lens."
+    },
+    "zh": {
+      "summary": "绿绒泡菌（アオモジホコリ）。发生于枯木与落叶上的变形菌（黏菌），具柄的小型子实体成群生出、带黄绿色，变形体在木与落叶上爬行取食。",
+      "habitat_hint": "枯木、倒木、落叶堆、潮湿林床。",
+      "finding_tips": "梅雨至秋季雨后，于枯木落叶上寻找成群的黄绿具柄小子实体，放大镜下甚美。"
+    }
+  },
+  "Pieris nana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf Arcterica",
+    "ja": {
+      "summary": "コメバツガザクラ。本州中部以北の高山帯に生えるツツジ科の小低木。地を這うように低く育ち、米粒のような小さな厚い葉を対生し、初夏に白い壺形の花をつける。",
+      "habitat_hint": "高山帯の岩礫地、風衝地、砂礫の斜面。",
+      "finding_tips": "6〜7月、高山の岩場で地を這う小低木の白い壺形の花を探す。米粒状の小さな厚い葉が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Dwarf Arcterica. A dwarf ericaceous shrub of high mountains in central-to-northern Honshu, growing prostrate with tiny rice-grain-like thick opposite leaves and white urn-shaped flowers in early summer.",
+      "habitat_hint": "alpine gravel, wind-swept ground, scree slopes.",
+      "finding_tips": "From June to July, on alpine rocks look for a prostrate shrublet with white urn-shaped flowers; the tiny rice-grain thick leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "米叶栂樱（コメバツガザクラ）。生于日本本州中部以北高山带的杜鹃花科小灌木，匍匐低生，厚小叶如米粒对生，初夏开白色壶形花。",
+      "habitat_hint": "高山带岩砾地、风衝地、砂砾山坡。",
+      "finding_tips": "6 至 7 月于高山岩地寻找匍匐小灌木的白色壶形花。米粒状厚小叶为辨识要点。"
+    }
+  },
+  "Pilumnopeus makianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy Mud Crab",
+    "ja": {
+      "summary": "マキトラノオガニ。内湾の潮間帯の転石下や汽水域にすむケブカガニ科の小型のカニ。甲や脚は短い毛に覆われ、左右のはさみの大きさが異なる。",
+      "habitat_hint": "内湾の潮間帯、河口の転石下、汽水域の泥底。",
+      "finding_tips": "干潮時、内湾や河口の転石をめくると見つかる。短毛に覆われた甲と、大きさの異なる左右のはさみが識別ポイント。"
+    },
+    "en": {
+      "summary": "Hairy Mud Crab. A small crab (Pilumnidae) of sheltered intertidal shores and brackish water, its carapace and legs clothed in short hairs and its two claws unequal in size.",
+      "habitat_hint": "sheltered intertidal shores, under estuary boulders, brackish mud.",
+      "finding_tips": "At low tide, turning boulders in bays and estuaries reveals it; the short-haired carapace and unequal claws are diagnostic."
+    },
+    "zh": {
+      "summary": "牧虎尾蟹（マキトラノオガニ）。栖于内湾潮间带砾石下与半咸水域的毛刺蟹科小型蟹，甲与足被短毛，左右螯大小不等。",
+      "habitat_hint": "内湾潮间带、河口砾石下、半咸水泥底。",
+      "finding_tips": "退潮时翻开内湾河口砾石可见。被短毛的甲与大小不等的双螯为辨识要点。"
+    }
+  },
+  "Pittosporum boninense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Okinawa Cheesewood",
+    "ja": {
+      "summary": "オキナワトベラ。南西諸島の海岸に生えるトベラ科の低木。トベラに似るが葉はより細長く、海岸の岩場や風衝地に適応する。白い花の後に裂開して赤い種子をのぞかせる果実をつける。",
+      "habitat_hint": "亜熱帯の海岸の岩場、砂浜後背、風衝地。",
+      "finding_tips": "春〜初夏、海岸の低木で細長い革質の葉と白い花を探す。裂けて赤い種子を見せる果実が識別ポイント。"
+    },
+    "en": {
+      "summary": "Okinawa Cheesewood. A pittosporum shrub of Ryukyu coasts, resembling the Japanese cheesewood but with narrower leaves and adapted to rocky, wind-swept shores; its capsules split to expose sticky red seeds after white flowers.",
+      "habitat_hint": "subtropical rocky coasts, behind sandy beaches, wind-swept ground.",
+      "finding_tips": "From spring to early summer, on coastal shrubs look for narrow leathery leaves and white flowers; capsules splitting to show red seeds are diagnostic."
+    },
+    "zh": {
+      "summary": "冲绳海桐（オキナワトベラ）。生于日本西南诸岛海岸的海桐科灌木，似海桐但叶更狭长，适应海岸岩地与风衝地，白花后蒴果开裂露出红色种子。",
+      "habitat_hint": "亚热带海岸岩地、沙滩后缘、风衝地。",
+      "finding_tips": "春至初夏于海岸灌木寻找狭长革质叶与白花。开裂露红籽的蒴果为辨识要点。"
+    }
+  },
+  "Platanthera florentii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jinbai Bog Orchid",
+    "ja": {
+      "summary": "ジンバイソウ。本州〜九州の山地の林床に生えるラン科ツレサギソウ属の多年草。根元に幅広い葉を2枚つけ、夏に緑白色の地味な花を穂状に咲かせる。",
+      "habitat_hint": "山地のやや湿った林床、樹林下の日陰、沢沿い。",
+      "finding_tips": "7〜8月、林床で根元に2枚の幅広い葉を持つラン科植物の緑白色の花穂を探す。幅広の対のような葉が識別ポイント。"
+    },
+    "en": {
+      "summary": "Jinbai Bog Orchid. A woodland-floor orchid (Platanthera) of montane Honshu to Kyushu, with two broad basal leaves and a spike of inconspicuous greenish-white flowers in summer.",
+      "habitat_hint": "damp montane forest floor, shade beneath trees, along streams.",
+      "finding_tips": "From July to August, on the forest floor look for an orchid with two broad basal leaves bearing a greenish-white spike; the paired broad leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "阔叶舌唇兰（ジンバイソウ）。生于日本本州至九州山地林床的兰科舌唇兰属多年生草本，基部具两枚宽阔叶，夏季抽穗开绿白色不显眼花。",
+      "habitat_hint": "山地略湿林床、树下荫处、沢沿。",
+      "finding_tips": "7 至 8 月于林床寻找基部两枚宽叶、着绿白花穗的兰科植物。成对的宽阔基生叶为辨识要点。"
+    }
+  },
+  "Platanthera oreades": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain Bog Orchid",
+    "ja": {
+      "summary": "ヤマサギソウ。本州〜九州の日当たりのよい草地や湿地に生えるラン科ツレサギソウ属の多年草。細い茎の先に淡緑色の花を穂状につけ、花の後方に細長い距（きょ）が伸びる。",
+      "habitat_hint": "日当たりのよい草地、湿地、明るい林縁。",
+      "finding_tips": "6〜7月、草地で細い茎に淡緑色の花を穂状につけたラン科植物を探す。花後方の細長い距が識別ポイント。"
+    },
+    "en": {
+      "summary": "Mountain Bog Orchid. A grassland orchid (Platanthera) of sunny meadows and wetlands from Honshu to Kyushu, its slender stem bearing a spike of pale green flowers each with a long slender spur behind.",
+      "habitat_hint": "sunny grassland, wetlands, bright forest edges.",
+      "finding_tips": "From June to July, in grassland look for a slender orchid with a spike of pale green flowers; the long slender spur behind each flower is diagnostic."
+    },
+    "zh": {
+      "summary": "山鹭兰（ヤマサギソウ）。生于日本本州至九州向阳草地与湿地的兰科舌唇兰属多年生草本，细茎顶端穗状着淡绿色花，花后方伸出细长距。",
+      "habitat_hint": "向阳草地、湿地、明亮林缘。",
+      "finding_tips": "6 至 7 月于草地寻找细茎穗状着淡绿花的兰科植物。花后细长的距为辨识要点。"
+    }
+  },
+  "Plocamopherus tilesii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Luminous Sea Slug",
+    "ja": {
+      "summary": "ヒカリウミウシ。本州以南の岩礁海岸にすむフジタウミウシ科の裸鰓類（ウミウシ）。体は橙〜赤褐色で、体側に房状の突起を持ち、刺激を受けると発光することで知られる。",
+      "habitat_hint": "潮下帯の岩礁、コケムシやヒドロ虫の生える岩、浅海。",
+      "finding_tips": "夜間の潜水で、刺激すると青白く光る橙色のウミウシを探す。体側の房状突起と発光性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Luminous Sea Slug. A polycerid nudibranch of rocky shores from Honshu southward, orange to red-brown with tufted lateral appendages, noted for emitting light when disturbed.",
+      "habitat_hint": "subtidal rock, bryozoan- and hydroid-covered rocks, shallow sea.",
+      "finding_tips": "On night dives look for an orange nudibranch that glows bluish when touched; the tufted side appendages and bioluminescence are diagnostic."
+    },
+    "zh": {
+      "summary": "发光海牛（ヒカリウミウシ）。分布于日本本州以南岩礁海岸的多角海牛科裸鳃动物，体橙至红褐色、体侧具丛状突起，受扰时能发光而闻名。",
+      "habitat_hint": "潮下带岩礁、生苔藓虫与水螅的岩石、浅海。",
+      "finding_tips": "夜潜时寻找受触即泛青白光的橙色海牛。体侧丛状突起与发光性为辨识要点。"
+    }
+  },
+  "Pogonatum nipponicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Haircap Moss",
+    "ja": {
+      "summary": "シンモエスギゴケ。山地の裸地や登山道の切り通しなどに生えるスギゴケ科のコケ（蘚類）。細い茎に細長い葉を放射状につけ、乾くと葉が茎に沿って縮れる。",
+      "habitat_hint": "山地の裸地、登山道沿いの切り土、酸性の土上。",
+      "finding_tips": "通年、山地の裸地や道端の土の斜面で、スギの葉に似た放射状の葉を持つコケの群落を探す。乾湿での葉の変化が識別の助けになる。"
+    },
+    "en": {
+      "summary": "Japanese Haircap Moss. A moss (Polytrichaceae) of bare ground and trail cuttings in the mountains, its slender stems bearing narrow leaves radially; the leaves curl against the stem when dry.",
+      "habitat_hint": "montane bare ground, trailside soil cuts, acidic soil.",
+      "finding_tips": "Year-round, on bare mountain ground and roadside soil look for a moss with cedar-like radiating leaves; the wet-dry leaf change aids identification."
+    },
+    "zh": {
+      "summary": "日本金发藓（シンモエスギゴケ）。生于山地裸地与登山道切坡的金发藓科苔藓（藓类），细茎放射状着狭长叶，干时叶贴茎卷缩。",
+      "habitat_hint": "山地裸地、山道切土、酸性土面。",
+      "finding_tips": "全年可见，于山地裸地与路旁土坡寻找放射状似杉叶的藓类群落。干湿时叶态变化有助辨识。"
+    }
   }
 }
