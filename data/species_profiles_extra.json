@@ -254550,5 +254550,544 @@
       "habitat_hint": "潮间带至浅海岩礁、藻场。喜生海藻的岩面。",
       "finding_tips": "退潮时，于海藻上寻找带绿色光泽的小螺。绿色壳的光泽为辨识点。"
     }
+  },
+  "Caprimulgus indicus": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "普通夜鹰"
+    },
+    "ja": {
+      "summary": "ヨタカ。ヨタカ科の夜行性の鳥で、樹皮そっくりの褐色の複雑な斑を持つ。夏鳥として渡来し、夕暮れに「キョキョキョ…」と鳴きながら飛び回り昆虫を捕らえる。",
+      "habitat_hint": "低山〜山地の明るい林、伐採跡地、草原。開けた林縁を好む。",
+      "finding_tips": "5〜8月の夕暮れ〜夜、飛びながら連続する鳴き声を頼りに探します。昼は地面や枝に縦にとまり保護色で見つけにくい。"
+    },
+    "en": {
+      "summary": "The grey nightjar, a nocturnal bird with intricate bark-like brown camouflage. A summer visitor, it hawks insects at dusk while giving a rapid churring call.",
+      "habitat_hint": "Open low-mountain and montane woodland, clearings and grassland — likes open woodland edges.",
+      "finding_tips": "From May to August at dusk and night, track it by its continuous churring call in flight. By day it perches lengthwise on ground or branch, hard to spot."
+    },
+    "zh": {
+      "summary": "普通夜鹰（ヨタカ）。夜鹰科夜行性鸟类，具似树皮的复杂褐色伪装。夏候鸟，黄昏时边飞边发连续「叽叽叽」声捕食昆虫。",
+      "habitat_hint": "低山至山地明亮林地、采伐迹地、草原。喜开阔林缘。",
+      "finding_tips": "5至8月黄昏至夜间，凭飞行时的连续鸣叫寻找。白昼纵伏于地面或枝上，保护色极难发现。"
+    }
+  },
+  "Carabus kolbei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground Beetle",
+    "ja": {
+      "summary": "アイヌキンオサムシ。オサムシ科の中型甲虫で、金銅色〜緑色に輝く美しい体を持つ。北海道に分布し、林床を歩き回りミミズなどを捕食する。飛べない。",
+      "habitat_hint": "北海道の林床、草地、農地周辺。湿った地表を好む。",
+      "finding_tips": "5〜9月、夜間に地表を歩く金属光沢の甲虫を探します。輝く体色と後翅退化で飛べない点が識別点。"
+    },
+    "en": {
+      "summary": "A medium ground beetle with a lustrous gold-copper to green body, found in Hokkaido; flightless, it roams the forest floor preying on earthworms.",
+      "habitat_hint": "Hokkaido forest floors, grassland and farmland edges — likes damp ground.",
+      "finding_tips": "From May to September at night look for the metallic beetle walking the ground. Its brilliant colour and flightlessness are diagnostic."
+    },
+    "zh": {
+      "summary": "阿伊努金步甲（アイヌキンオサムシ）。步甲科中型甲虫，体金铜色至绿色具丽光泽，分布于北海道，不能飞，于林床捕食蚯蚓等。",
+      "habitat_hint": "北海道林床、草地、农田周边。喜湿润地表。",
+      "finding_tips": "5至9月，夜间寻找地表爬行的金属光泽甲虫。闪亮体色与后翅退化不能飞为辨识点。"
+    }
+  },
+  "Carcinus aestuarii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "地中海绿蟹"
+    },
+    "ja": {
+      "summary": "チチュウカイミドリガニ。イワガニ上科の中型のカニで、緑褐色の甲を持つ。地中海原産の外来種で、内湾や河口の泥地に定着することがある。",
+      "habitat_hint": "内湾、河口、干潟の泥砂地。汽水域を好む。",
+      "finding_tips": "干潮時、河口や内湾の石や泥の間で緑褐色のカニを探します。甲の縁の鋸歯の数が識別点。"
+    },
+    "en": {
+      "summary": "The Mediterranean green crab, a medium crab with a green-brown carapace; a Mediterranean-native introduced species that can settle in bays and estuaries.",
+      "habitat_hint": "Bays, estuaries and muddy-sand tidal flats — likes brackish water.",
+      "finding_tips": "At low tide look among stones and mud in estuaries for the green-brown crab. The number of teeth on the carapace margin is diagnostic."
+    },
+    "zh": {
+      "summary": "地中海绿蟹（チチュウカイミドリガニ）。中型蟹类，甲绿褐色，原产地中海的外来种，可定居于内湾及河口泥地。",
+      "habitat_hint": "内湾、河口、滩涂泥砂地。喜半咸水域。",
+      "finding_tips": "退潮时，于河口内湾石块泥间寻找绿褐色蟹。甲缘锯齿数目为辨识点。"
+    }
+  },
+  "Cardium braunsi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cockle",
+    "ja": {
+      "summary": "ブラウンスイシカゲ。ザルガイ科の二枚貝で、放射状の肋を持つ膨らんだ殻を持つ。浅海の砂底に潜って生活する。",
+      "habitat_hint": "潮下帯〜浅海の砂底。穏やかな砂地を好む。",
+      "finding_tips": "砂底や打ち上げの中で放射肋のある膨らんだ二枚貝を探します。丸く膨らんだ殻と放射肋が識別点。"
+    },
+    "en": {
+      "summary": "A cockle with an inflated shell bearing radiating ribs, living buried in shallow sandy bottoms.",
+      "habitat_hint": "Subtidal to shallow sandy bottoms — likes calm sand.",
+      "finding_tips": "On sandy bottoms or in beach drift look for the inflated ribbed bivalve. The rounded shell with radiating ribs is diagnostic."
+    },
+    "zh": {
+      "summary": "布劳恩鸟尾蛤（ブラウンスイシカゲ）。鸟尾蛤科双壳类，壳膨胀具放射肋，潜居于浅海砂底。",
+      "habitat_hint": "潮下带至浅海砂底。喜平静砂地。",
+      "finding_tips": "于砂底或滩上寻找具放射肋的膨胀双壳。圆胀的壳与放射肋为辨识点。"
+    }
+  },
+  "Carex laevissima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ヒメミコシガヤ。カヤツリグサ科スゲ属の多年草で、湿地や水辺に生える。細い茎の先に小穂が集まった花序をつける。",
+      "habitat_hint": "湿地、休耕田、水辺の草地。日当たりの良い湿った地面を好む。",
+      "finding_tips": "5〜7月、湿地で穂状に集まった小穂を持つスゲを探します。細く柔らかい茎と密な花序が識別点。"
+    },
+    "en": {
+      "summary": "A sedge of wet ground and watersides, bearing a head of clustered spikelets at the tip of a slender stem.",
+      "habitat_hint": "Wetlands, fallow paddies and waterside grassland — likes sunny, moist ground.",
+      "finding_tips": "From May to July look in wet ground for the sedge with clustered spikelets. The slender soft stems and dense head are diagnostic."
+    },
+    "zh": {
+      "summary": "姬薹草（ヒメミコシガヤ）。莎草科薹草属多年生草本，生于湿地及水边，细茎顶端具小穗聚生的花序。",
+      "habitat_hint": "湿地、休耕田、水边草地。喜向阳湿润地面。",
+      "finding_tips": "5至7月，于湿地寻找小穗聚生成穗的薹草。细软的茎与密集花序为辨识点。"
+    }
+  },
+  "Carex ligulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "サツマスゲ。カヤツリグサ科スゲ属の多年草で、山地の林縁や道端に生える。幅の広い葉と、垂れ下がる円柱状の雌小穂を持つ。",
+      "habitat_hint": "山地の林縁、林道沿い、湿った斜面。半日陰を好む。",
+      "finding_tips": "5〜7月、林縁で垂れ下がる円柱状の小穂を探します。幅広の葉と垂れる小穂が識別点。"
+    },
+    "en": {
+      "summary": "A sedge of mountain woodland edges and paths, with broad leaves and drooping cylindrical female spikelets.",
+      "habitat_hint": "Mountain woodland edges, forest tracks and moist slopes — likes part-shade.",
+      "finding_tips": "From May to July look at woodland edges for the drooping cylindrical spikelets. The broad leaves and hanging spikelets are diagnostic."
+    },
+    "zh": {
+      "summary": "萨摩薹草（サツマスゲ）。莎草科薹草属多年生草本，生于山地林缘及路旁，叶较宽，雌小穗圆柱形下垂。",
+      "habitat_hint": "山地林缘、林道旁、湿润斜坡。喜半阴。",
+      "finding_tips": "5至7月，于林缘寻找下垂的圆柱形小穗。宽叶与下垂小穗为辨识点。"
+    }
+  },
+  "Carex middendorffii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "トマリスゲ。カヤツリグサ科スゲ属の多年草で、寒地の湿原に生える。硬い葉を持ち、しばしば大きな株（谷地坊主）を作る。",
+      "habitat_hint": "寒冷地の高層湿原、湿った草地。酸性の湿地を好む。",
+      "finding_tips": "6〜8月、湿原で株立ちするスゲを探します。硬い葉と直立する黒褐色の雌小穂が識別点。"
+    },
+    "en": {
+      "summary": "A sedge of cold-region bogs, with stiff leaves that often forms large tussocks.",
+      "habitat_hint": "Cold-region raised bogs and wet grassland — likes acidic mires.",
+      "finding_tips": "From June to August look in bogs for the tussock-forming sedge. The stiff leaves and erect blackish-brown female spikelets are diagnostic."
+    },
+    "zh": {
+      "summary": "米登多薹草（トマリスゲ）。莎草科薹草属多年生草本，生于寒地湿原，叶硬，常形成大草丘。",
+      "habitat_hint": "寒地高位泥炭沼、湿润草地。喜酸性湿地。",
+      "finding_tips": "6至8月，于湿原寻找丛生的薹草。硬叶与直立的黑褐色雌小穗为辨识点。"
+    }
+  },
+  "Carex nubigena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ツクシミノボロスゲ。カヤツリグサ科スゲ属の多年草で、山地の湿った草地や林縁に生える。小穂が穂状に集まり、やや乱れた花序を作る。",
+      "habitat_hint": "山地の湿った草地、林縁、道端。日当たり〜半日陰を好む。",
+      "finding_tips": "5〜7月、湿った草地で穂状に集まる小穂を持つスゲを探します。淡緑の密な花序が識別点。"
+    },
+    "en": {
+      "summary": "A sedge of moist mountain grassland and woodland edges, with spikelets clustered into a somewhat untidy head.",
+      "habitat_hint": "Moist mountain grassland, woodland edges and paths — likes sun to part-shade.",
+      "finding_tips": "From May to July look in moist grassland for the sedge with clustered spikelets. The pale-green dense head is diagnostic."
+    },
+    "zh": {
+      "summary": "云生薹草（ツクシミノボロスゲ）。莎草科薹草属多年生草本，生于山地湿润草地及林缘，小穗聚集成略散乱的花序。",
+      "habitat_hint": "山地湿润草地、林缘、路旁。喜向阳至半阴。",
+      "finding_tips": "5至7月，于湿润草地寻找小穗聚生的薹草。淡绿密集花序为辨识点。"
+    }
+  },
+  "Carex pudica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "マメスゲ。カヤツリグサ科スゲ属の小型の多年草で、山地の林床や岩場に生える。小さな株を作り、短い花茎に小穂をつける。",
+      "habitat_hint": "山地の林床、岩場、斜面。やや乾いた半日陰を好む。",
+      "finding_tips": "4〜6月、林床で小さく株立ちする華奢なスゲを探します。小型の株と短い花茎が識別点。"
+    },
+    "en": {
+      "summary": "A small sedge of mountain forest floors and rocks, forming little tufts with spikelets on short flowering stems.",
+      "habitat_hint": "Mountain forest floors, rocks and slopes — likes somewhat dry part-shade.",
+      "finding_tips": "From April to June look on the forest floor for the small tufted sedge. Its small stature and short flowering stems are diagnostic."
+    },
+    "zh": {
+      "summary": "豆薹草（マメスゲ）。莎草科薹草属小型多年生草本，生于山地林床及岩场，成小丛，短花茎上着小穗。",
+      "habitat_hint": "山地林床、岩场、斜坡。喜略干的半阴处。",
+      "finding_tips": "4至6月，于林床寻找丛生的纤细小薹草。小型植株与短花茎为辨识点。"
+    }
+  },
+  "Carex satzumensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "アブラシバ。カヤツリグサ科スゲ属の多年草で、山地の乾いた林床や斜面に密生する。細く硬い葉が茂り、地表を覆うことが多い。",
+      "habitat_hint": "山地のアカマツ林や乾いた斜面の林床。日当たりのやや乾いた地面を好む。",
+      "finding_tips": "通年、林床を覆う細く硬い葉の群落を探します。密に茂る細葉が識別点。"
+    },
+    "en": {
+      "summary": "A sedge that grows densely on dry mountain forest floors and slopes, its slender, stiff leaves often carpeting the ground.",
+      "habitat_hint": "Floors of mountain pine woods and dry slopes — likes sunny, somewhat dry ground.",
+      "finding_tips": "Year-round look for the carpets of slender stiff leaves on the forest floor. The dense fine leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "萨摩薹（アブラシバ）。莎草科薹草属多年生草本，密生于山地干燥林床及斜坡，细硬叶常覆盖地表。",
+      "habitat_hint": "山地赤松林及干燥斜坡林床。喜向阳略干地面。",
+      "finding_tips": "全年，寻找覆盖林床的细硬叶群落。密生的细叶为辨识点。"
+    }
+  },
+  "Carterocephalus silvicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "黑斑银弄蝶"
+    },
+    "ja": {
+      "summary": "カラフトタカネキマダラセセリ。セセリチョウ科の小型のチョウで、黄色地に黒い斑紋を持つ。北海道など寒地の明るい林や草地に生息する。",
+      "habitat_hint": "北方の明るい林、林縁の草地、湿った草原。日当たりを好む。",
+      "finding_tips": "6〜7月、明るい林縁で黄と黒のまだら模様の小さなセセリチョウを探します。素早い直線的な飛翔が目安。"
+    },
+    "en": {
+      "summary": "A small skipper butterfly, yellow with black markings, inhabiting bright woodland and grassland of cold regions such as Hokkaido.",
+      "habitat_hint": "Northern open woodland, grassy edges and moist meadows — likes sunshine.",
+      "finding_tips": "From June to July at bright woodland edges look for the small yellow-and-black skipper. Its rapid, straight flight is the guide."
+    },
+    "zh": {
+      "summary": "黑斑银弄蝶（カラフトタカネキマダラセセリ）。弄蝶科小型蝶，黄底具黑斑，栖于北海道等寒地明亮林地及草地。",
+      "habitat_hint": "北方明亮林地、林缘草地、湿润草原。喜阳光。",
+      "finding_tips": "6至7月，于明亮林缘寻找黄黑斑纹的小弄蝶。快速直线飞行为参考。"
+    }
+  },
+  "Catriona pinnifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea Slug",
+    "ja": {
+      "summary": "ツノバネミノウミウシ。ミノウミウシの仲間で、背に多数の細長い突起（ミノ）を持つ。刺胞動物を食べ、その刺胞を体に取り込んで防御に利用する。",
+      "habitat_hint": "潮間帯〜浅海の岩礁。ヒドロ虫の付く岩上を好む。",
+      "finding_tips": "春〜夏、岩上のヒドロ虫の周りで背に細長い突起を持つ小型のウミウシを探します。突起の並びが識別点。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug with many slender dorsal cerata; it eats hydroids and stores their stinging cells for its own defence.",
+      "habitat_hint": "Intertidal to shallow reefs — likes rock with hydroids.",
+      "finding_tips": "In spring and summer look near hydroids on rock for the small slug with slender cerata. The rows of cerata are diagnostic."
+    },
+    "zh": {
+      "summary": "羽状灰翁戎海蛞蝓（ツノバネミノウミウシ）。蓑海蛞蝓类，背具多数细长突起（蓑），取食水螅并将其刺细胞纳入体内防御。",
+      "habitat_hint": "潮间带至浅海岩礁。喜附生水螅的岩面。",
+      "finding_tips": "春夏，于岩面水螅附近寻找背具细长突起的小型海蛞蝓。突起排列为辨识点。"
+    }
+  },
+  "Celastrus punctatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "テリハツルウメモドキ。ニシキギ科の落葉つる性木本で、光沢のある葉を持つ。秋に果実が裂けて赤い仮種皮に包まれた種子を露出させる。海岸近くに多い。",
+      "habitat_hint": "海岸林、林縁、岩場。日当たりの良い場所を好む。",
+      "finding_tips": "10〜12月、他の木に絡むつるで裂開して赤い種子を見せる果実を探します。光沢のある葉が識別点。"
+    },
+    "en": {
+      "summary": "A deciduous woody vine of the staff-tree family with glossy leaves; in autumn its capsules split to reveal seeds in red arils. Common near coasts.",
+      "habitat_hint": "Coastal woodland, forest edges and rocky places — likes sunny sites.",
+      "finding_tips": "From October to December look on climbing vines for split capsules exposing red-arilled seeds. The glossy leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "光叶南蛇藤（テリハツルウメモドキ）。卫矛科落叶木质藤本，叶具光泽，秋季蒴果开裂露出红色假种皮包被的种子，多见于近海岸处。",
+      "habitat_hint": "海岸林、林缘、岩场。喜向阳处。",
+      "finding_tips": "10至12月，于缠绕他木的藤上寻找开裂露红籽的果实。具光泽的叶为辨识点。"
+    }
+  },
+  "Ceratina iwatai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Carpenter Bee",
+    "ja": {
+      "summary": "イワタチビツヤハナバチ。ミツバチ科の小型のハナバチで、黒く光沢のある体を持つ。枯れた茎の髄に穴を掘って営巣する。",
+      "habitat_hint": "草地、林縁、河川敷。枯れ茎のある開けた環境を好む。",
+      "finding_tips": "4〜9月、花上や枯れ茎の周りで小さな光沢のある黒いハチを探します。細身で光る体が識別点。"
+    },
+    "en": {
+      "summary": "A small carpenter bee with a glossy black body; it nests by boring into the pith of dead stems.",
+      "habitat_hint": "Grassland, woodland edges and riverbanks — likes open places with dead stems.",
+      "finding_tips": "From April to September look at flowers and around dead stems for the small shiny black bee. The slender, glossy body is diagnostic."
+    },
+    "zh": {
+      "summary": "岩田小芦蜂（イワタチビツヤハナバチ）。蜜蜂科小型蜂，体黑而具光泽，于枯茎髓部钻孔营巢。",
+      "habitat_hint": "草地、林缘、河滩。喜有枯茎的开阔环境。",
+      "finding_tips": "4至9月，于花上或枯茎周围寻找有光泽的黑色小蜂。细长发亮的身体为辨识点。"
+    }
+  },
+  "Ceratopsyche newae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caddisfly",
+    "ja": {
+      "summary": "キタシマトビケラ。シマトビケラ科のトビケラで、幼虫は渓流の石に網を張って流下物を濾しとる。成虫は地味な褐色の翅を持つ。",
+      "habitat_hint": "山地の清流、渓流。水質の良い流水を好む。",
+      "finding_tips": "初夏〜秋、渓流沿いの灯火や石の裏で成虫・幼虫を探します。幼虫が作る捕獲網が識別点。"
+    },
+    "en": {
+      "summary": "A net-spinning caddisfly whose larvae build capture nets on stream stones to filter drifting food; adults have drab brown wings.",
+      "habitat_hint": "Clear mountain streams and torrents — likes clean flowing water.",
+      "finding_tips": "From early summer to autumn look at streamside lights and under stones for adults and larvae. The larval capture net is diagnostic."
+    },
+    "zh": {
+      "summary": "北纹石蛾（キタシマトビケラ）。纹石蛾科石蛾，幼虫于溪石上结网滤食漂流物，成虫具素净的褐色翅。",
+      "habitat_hint": "山地清流、溪流。喜水质良好的流水。",
+      "finding_tips": "初夏至秋，于溪边灯下或石下寻找成虫与幼虫。幼虫所结的捕食网为辨识点。"
+    }
+  },
+  "Cerberilla asamusiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea Slug",
+    "ja": {
+      "summary": "カスミミノウミウシ。ミノウミウシの仲間で、背に多数のミノ状突起を密生させ、全体に霞んだような淡い色合いを持つ。砂底に潜るイソギンチャク類を食べる。",
+      "habitat_hint": "潮下帯〜浅海の砂底。砂に潜るイソギンチャクのいる環境を好む。",
+      "finding_tips": "春〜夏、砂底で淡色のミノを密生させたウミウシを探します。霞んだ体色とミノの密度が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug densely covered with cerata and pale, hazy colouring; it feeds on burrowing sea anemones in sandy bottoms.",
+      "habitat_hint": "Subtidal to shallow sandy bottoms — likes areas with burrowing anemones.",
+      "finding_tips": "In spring and summer look on sandy bottoms for the pale, densely cerata-covered slug. Its hazy colour and dense cerata are diagnostic."
+    },
+    "zh": {
+      "summary": "浅虫蓑海蛞蝓（カスミミノウミウシ）。蓑海蛞蝓类，背密生蓑状突起，体色淡而似霞，取食潜砂的海葵类。",
+      "habitat_hint": "潮下带至浅海砂底。喜有潜砂海葵的环境。",
+      "finding_tips": "春夏，于砂底寻找密生淡色蓑突的海蛞蝓。朦胧体色与密集蓑突为辨识点。"
+    }
+  },
+  "Ceroprepes ophthalmicella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout Moth",
+    "ja": {
+      "summary": "ウスアカモンクロマダラメイガ。メイガ科の小型の蛾で、暗色の地に赤褐色の紋を持つ。幼虫は樹木の材や樹皮下を食べる。",
+      "habitat_hint": "低地〜山地の樹林、林縁。針葉樹や広葉樹のある環境を好む。",
+      "finding_tips": "初夏〜秋、灯火に集まる暗色に赤褐色紋のある小型の蛾を探します。前翅の赤褐色の紋が識別点。"
+    },
+    "en": {
+      "summary": "A small snout moth (Pyralidae), dark with reddish-brown markings; its larvae bore in wood and under bark.",
+      "habitat_hint": "Lowland to mountain forest and edges — likes places with conifers or broadleaf trees.",
+      "finding_tips": "From early summer to autumn look at lights for the small dark moth with reddish-brown marks. The reddish forewing markings are diagnostic."
+    },
+    "zh": {
+      "summary": "赤纹螟蛾（ウスアカモンクロマダラメイガ）。螟蛾科小型蛾类，暗底具红褐色斑，幼虫蛀食树木材及树皮下。",
+      "habitat_hint": "低地至山地林间、林缘。喜有针叶或阔叶树的环境。",
+      "finding_tips": "初夏至秋，寻找趋光的暗色具红褐斑的小蛾。前翅红褐色斑为辨识点。"
+    }
+  },
+  "Cetraria endocrocea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen",
+    "ja": {
+      "summary": "ウチキアワビゴケモドキ。エイランタイの仲間の葉状地衣類で、内部が黄色みを帯びる。高山や寒地の地上や岩上、樹皮に生える。",
+      "habitat_hint": "高山〜寒地の地上、岩上、樹皮。寒冷で乾湿の変化する環境を好む。",
+      "finding_tips": "通年、高山の地上や岩で裂片状に立ち上がる地衣を探します。内部（髄層）の黄色みが識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen of the Iceland-moss group whose interior is yellowish, growing on ground, rock and bark in alpine and cold regions.",
+      "habitat_hint": "Alpine to cold-region ground, rock and bark — likes cold sites with alternating wet and dry.",
+      "finding_tips": "Year-round look on alpine ground and rock for the erect lobed lichen. The yellowish inner medulla is diagnostic."
+    },
+    "zh": {
+      "summary": "黄髓岛衣（ウチキアワビゴケモドキ）。岛衣类叶状地衣，内部（髓层）带黄色，生于高山及寒地的地表、岩面与树皮。",
+      "habitat_hint": "高山至寒地地表、岩面、树皮。喜寒冷且干湿交替的环境。",
+      "finding_tips": "全年，于高山地表或岩面寻找裂片状竖立的地衣。内部髓层的黄色为辨识点。"
+    }
+  },
+  "Chaetodon speculum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "镜斑蝴蝶鱼"
+    },
+    "ja": {
+      "summary": "トノサマダイ。チョウチョウウオ科の海水魚で、鮮やかな黄色の体に一つの大きな黒斑を持つ。サンゴ礁に生息し、サンゴのポリプなどを食べる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁。浅いサンゴの多い海域を好む。",
+      "finding_tips": "サンゴ礁で黄色い体に黒い大斑のあるチョウチョウウオを探します。体側の一つの黒斑が識別点。"
+    },
+    "en": {
+      "summary": "The mirror butterflyfish, a bright-yellow reef fish with a single large black blotch; it feeds on coral polyps on reefs.",
+      "habitat_hint": "Warm-sea coral reefs and rocky reefs — likes shallow coral-rich water.",
+      "finding_tips": "On coral reefs look for the yellow butterflyfish with a large black blotch. The single black side-blotch is diagnostic."
+    },
+    "zh": {
+      "summary": "镜斑蝴蝶鱼（トノサマダイ）。蝴蝶鱼科海水鱼，体鲜黄色具一大黑斑，栖于珊瑚礁，取食珊瑚虫等。",
+      "habitat_hint": "暖海珊瑚礁、岩礁。喜浅水珊瑚繁茂海域。",
+      "finding_tips": "于珊瑚礁寻找黄体具大黑斑的蝴蝶鱼。体侧单个黑斑为辨识点。"
+    }
+  },
+  "Chaetodon trifascialis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "三带蝴蝶鱼"
+    },
+    "ja": {
+      "summary": "ヤリカタギ。チョウチョウウオ科の海水魚で、体側に細い斜線が並ぶ。サンゴ礁に強く依存し、ミドリイシ類のサンゴのポリプを専食する。",
+      "habitat_hint": "暖海のサンゴ礁。ミドリイシの群落を強く好む。",
+      "finding_tips": "サンゴ礁で体側に細い斜線模様を持つチョウチョウウオを探します。斜めの縞模様と尾の黒帯が識別点。"
+    },
+    "en": {
+      "summary": "The chevron butterflyfish, with fine diagonal lines on its sides; strongly reef-dependent, it specialises on Acropora coral polyps.",
+      "habitat_hint": "Warm-sea coral reefs — strongly prefers Acropora thickets.",
+      "finding_tips": "On coral reefs look for the butterflyfish with fine diagonal chevron lines. The chevron pattern and black tail band are diagnostic."
+    },
+    "zh": {
+      "summary": "三带蝴蝶鱼（ヤリカタギ）。蝴蝶鱼科海水鱼，体侧具细斜纹，高度依赖珊瑚礁，专食鹿角珊瑚虫。",
+      "habitat_hint": "暖海珊瑚礁。极喜鹿角珊瑚丛。",
+      "finding_tips": "于珊瑚礁寻找体侧具细斜纹的蝴蝶鱼。人字形斜纹与尾部黑带为辨识点。"
+    }
+  },
+  "Cheumatopsyche infascia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caddisfly",
+    "ja": {
+      "summary": "ナミコガタシマトビケラ。シマトビケラ科の小型のトビケラで、幼虫は流水中の石に網を張って餌を濾しとる。河川の普通種。",
+      "habitat_hint": "河川の中〜下流の流水。石礫の多い瀬を好む。",
+      "finding_tips": "初夏〜秋、川辺の灯火や石の裏で小型の褐色のトビケラを探します。幼虫の網と小型さが識別点。"
+    },
+    "en": {
+      "summary": "A small net-spinning caddisfly whose larvae build filter nets on stones in flowing water; a common river species.",
+      "habitat_hint": "Mid to lower river reaches — likes stony riffles.",
+      "finding_tips": "From early summer to autumn look at riverside lights and under stones for the small brown caddisfly. The larval net and small size are the guide."
+    },
+    "zh": {
+      "summary": "小纹石蛾（ナミコガタシマトビケラ）。纹石蛾科小型石蛾，幼虫于流水石上结网滤食，为河川常见种。",
+      "habitat_hint": "河川中下游流水。喜多石砾的浅濑。",
+      "finding_tips": "初夏至秋，于河边灯下或石下寻找褐色小型石蛾。幼虫的网与小型为辨识点。"
+    }
+  },
+  "Choerades komure": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Robber Fly",
+    "ja": {
+      "summary": "コムライシアブ。ムシヒキアブ科の中型のアブで、太い体と発達した脚を持つ。他の昆虫を空中で捕らえて体液を吸う捕食者。",
+      "habitat_hint": "低地〜山地の林縁、日当たりの良い草地。開けた止まり場を好む。",
+      "finding_tips": "6〜9月、葉や枝の先で獲物を待ち伏せするがっしりしたアブを探します。太い体と捕食姿勢が識別点。"
+    },
+    "en": {
+      "summary": "A medium robber fly with a stout body and powerful legs; a predator that catches other insects in flight and sucks their body fluids.",
+      "habitat_hint": "Lowland to mountain woodland edges and sunny grassland — likes open perches.",
+      "finding_tips": "From June to September look at leaf and twig tips for the stout fly ambushing prey. The robust body and predatory posture are diagnostic."
+    },
+    "zh": {
+      "summary": "小村食虫虻（コムライシアブ）。食虫虻科中型虻，体粗壮，足发达，为空中捕捉他虫吸食体液的捕食者。",
+      "habitat_hint": "低地至山地林缘、向阳草地。喜开阔的停歇处。",
+      "finding_tips": "6至9月，于叶枝顶端寻找伏击猎物的粗壮虻。粗壮的身体与捕食姿态为辨识点。"
+    }
+  },
+  "Chosenia cardiophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "钻天柳"
+    },
+    "ja": {
+      "summary": "トカチヤナギ。ヤナギ科の落葉高木で、寒地の河原に群生する。細い枝に白粉を帯び、河川の氾濫原にいち早く定着する先駆種。",
+      "habitat_hint": "寒冷地の河原、氾濫原の砂礫地。日当たりの良い攪乱地を好む。",
+      "finding_tips": "河原で白粉を帯びた枝の高木を探します。細枝の白い粉と河原の群生が識別点。"
+    },
+    "en": {
+      "summary": "A deciduous tree of the willow family that colonises cold-region riverbeds; a pioneer with slender, whitish-bloomed twigs that quickly establishes on floodplains.",
+      "habitat_hint": "Cold-region riverbeds and gravelly floodplains — likes sunny disturbed ground.",
+      "finding_tips": "On riverbeds look for the tall tree with whitish-bloomed twigs. The white-powdered slender twigs and riverbed colonies are diagnostic."
+    },
+    "zh": {
+      "summary": "钻天柳（トカチヤナギ）。杨柳科落叶乔木，成群生于寒地河滩，细枝被白粉，为迅速定居泛滥原的先锋树种。",
+      "habitat_hint": "寒地河滩、泛滥原砂砾地。喜向阳的扰动地。",
+      "finding_tips": "于河滩寻找细枝被白粉的高大乔木。白粉细枝与河滩群生为辨识点。"
+    }
+  },
+  "Chrysanthemum ornatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サツマノギク。キク科の多年草で、九州南部の海岸の岩場に生える野菊。白い花弁の裏が淡紅色を帯び、葉の裏は白い綿毛に覆われる。",
+      "habitat_hint": "海岸の岩場、崖地。潮風の当たる日当たりの良い場所を好む。",
+      "finding_tips": "10〜12月、海岸の岩場で白い頭花を探します。花弁裏の淡紅色と葉裏の白い綿毛が識別点。"
+    },
+    "en": {
+      "summary": "A wild chrysanthemum of coastal rocks in southern Kyushu; its white ray florets are pinkish beneath and the leaf undersides are white-woolly.",
+      "habitat_hint": "Coastal rocks and cliffs — likes sunny, salt-sprayed sites.",
+      "finding_tips": "From October to December look on coastal rocks for the white flower heads. The pink-backed rays and white-woolly leaf undersides are diagnostic."
+    },
+    "zh": {
+      "summary": "萨摩野菊（サツマノギク）。菊科多年生草本，生于九州南部海岸岩场，白色舌状花背面带淡红，叶背覆白色绵毛。",
+      "habitat_hint": "海岸岩场、崖地。喜受海风的向阳处。",
+      "finding_tips": "10至12月，于海岸岩场寻找白色头状花。花瓣背淡红与叶背白绵毛为辨识点。"
+    }
   }
 }
