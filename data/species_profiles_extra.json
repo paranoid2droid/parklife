@@ -259265,5 +259265,580 @@
       "habitat_hint": "喜低山至山地林缘、杂木林及多树环境，幼虫取食多种阔叶树叶。",
       "finding_tips": "夏季夜间趋光。褐色前翅具白色横带即为辨识要点；幼虫（毛虫）属毒蛾类，勿随意触碰。"
     }
+  },
+  "Lactarius zonarius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "环纹乳菇"
+    },
+    "ja": {
+      "summary": "キカラハツモドキ。日本や東アジアに分布するベニタケ科チチタケ属の菌類。傘は黄褐色で、同心円状の環状の模様があるのが特徴。傷つけると白い乳液を出す。ブナ科などの樹木と菌根を作る。",
+      "habitat_hint": "広葉樹林、特にブナ科（コナラ、シイなど）の林の地上。樹木と菌根を作って共生する。",
+      "finding_tips": "夏〜秋、黄褐色で同心円状の環模様のある傘を探す。傷つけると白い乳液が出ることが最大の識別点。カラハツタケに似るが環模様などで見分ける。"
+    },
+    "en": {
+      "summary": "Kikarahatsu-modoki. A milkcap of the family Russulaceae (genus Lactarius) found in Japan and East Asia. Its cap is yellow-brown with concentric zoned rings, and it bleeds white latex when cut. It forms mycorrhizae with oaks and other trees.",
+      "habitat_hint": "On the ground in broadleaf forest, especially oak and chinquapin woods; it partners trees as a mycorrhizal fungus.",
+      "finding_tips": "Summer to autumn look for a yellow-brown cap with concentric zoned rings. The white latex when cut is the key mark; the zoning separates it from related milkcaps."
+    },
+    "zh": {
+      "summary": "环纹乳菇（キカラハツモドキ），红菇科乳菇属真菌，分布于日本及东亚。菌盖黄褐、具同心环纹（环带），伤时流白色乳汁。与壳斗科等树木形成菌根。",
+      "habitat_hint": "生于阔叶林尤其壳斗科（麻栎、栲等）林地上，与树木共生形成菌根。",
+      "finding_tips": "夏至秋季寻黄褐、具同心环纹的菌盖。伤时流白乳汁为最大辨识要点；以环纹与近缘乳菇区分。"
+    }
+  },
+  "Laomedia astacina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "螯虾形海蛄虾"
+    },
+    "ja": {
+      "summary": "ハサミシャコエビ。日本の干潟に分布するアナジャコ類に近い甲殻類（ハサミシャコエビ科）。細長い体をもち、名の通り一対の大きなはさみをもつ。干潟の泥に深い巣穴を掘って暮らし、めったに地表に出ない。",
+      "habitat_hint": "内湾や河口の砂泥干潟。泥の中に深い巣穴を掘り、その中で生活する。",
+      "finding_tips": "生体は巣穴の中にいて見つけにくいが、干潟の泥に開く巣穴の入り口が手がかり。掘り出すと細長い体と一対の大きなはさみが識別点。アナジャコの仲間だがはさみが目立つ。"
+    },
+    "en": {
+      "summary": "Hasami-shako-ebi. A burrowing crustacean of the family Laomediidae (a mud-shrimp relative) found on Japanese tidal flats. It has an elongate body and, as its name says, a pair of large claws. It digs deep burrows in the mud and rarely comes to the surface.",
+      "habitat_hint": "Sandy-mud tidal flats of inner bays and estuaries; it lives within deep burrows dug in the mud.",
+      "finding_tips": "The animal stays in its burrow and is hard to see, but the burrow openings in the flat are the clue. Dug out, the elongate body and the pair of large claws identify it — unusual among mud shrimps for its prominent claws."
+    },
+    "zh": {
+      "summary": "螯虾形海蛄虾（ハサミシャコエビ），海蛄虾科（似蝼蛄虾类）甲壳类，分布于日本滩涂。体细长，如名所示具一对大螯。于滩涂泥中掘深穴而居，罕出地表。",
+      "habitat_hint": "栖于内湾、河口砂泥滩，于泥中掘深穴生活。",
+      "finding_tips": "活体居穴中难见，滩涂泥上穴口为线索。掘出后细长体与一对大螯即为辨识要点；于蝼蛄虾类中螯特别显著。"
+    }
+  },
+  "Lasioglossum japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "日本淡脉隧蜂"
+    },
+    "ja": {
+      "summary": "ニッポンチビコハナバチ。日本に分布するコハナバチ科の小型のハナバチ。黒っぽい体をもち、体長は数ミリと小さい。土中に巣を掘り、花粉と蜜を集めて幼虫を育てる。多くの花を訪れる送粉者。",
+      "habitat_hint": "草地、林縁、河川敷、畑地の周辺など、花が咲き、営巣できる裸地のある環境。",
+      "finding_tips": "春〜秋、各種の花を訪れる小さな黒いハナバチを探す。体長数ミリと小さく、地面に巣穴を掘ること、細身のコハナバチ体形が識別点。ミツバチより小さい。"
+    },
+    "en": {
+      "summary": "Nippon-chibi-kohanabachi. A small sweat bee of the family Halictidae found in Japan. Dark-bodied and only a few millimetres long, it digs nests in soil and rears larvae on gathered pollen and nectar. A pollinator that visits many flowers.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks and field margins — places with flowers and bare ground for nesting.",
+      "finding_tips": "Spring–autumn look for a small dark bee visiting flowers. Its few-millimetre size, ground-nesting habit and slender halictid form identify it; smaller than a honeybee."
+    },
+    "zh": {
+      "summary": "日本淡脉隧蜂（ニッポンチビコハナバチ），隧蜂科小型蜂，分布于日本。体色偏黑，体长仅数毫米。于土中掘巢，采集花粉花蜜育幼，为访多种花的传粉者。",
+      "habitat_hint": "喜草地、林缘、河滩及农地周边等有花且具裸地可营巢的环境。",
+      "finding_tips": "春至秋季寻访花的小型黑蜂。体仅数毫米、于地面掘穴、隧蜂细体形即为辨识要点；较蜜蜂小。"
+    }
+  },
+  "Lasioglossum mutilum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "锈色隧蜂"
+    },
+    "ja": {
+      "summary": "サビイロカタコハナバチ。日本に分布するコハナバチ科の小型のハナバチ。体はさび色を帯びた褐色で、体長は数ミリ。土中に巣を掘り、花粉と蜜を幼虫に与える。多くの花を訪れる身近な送粉者。",
+      "habitat_hint": "草地、林縁、河川敷、公園など、花と営巣できる裸地のある開けた環境。",
+      "finding_tips": "春〜秋、花を訪れる小さなさび色のハナバチを探す。体長数ミリで、さび色を帯びた体色、地面に営巣することが識別点。近縁のコハナバチ類とは体色や光沢で見分ける。"
+    },
+    "en": {
+      "summary": "Sabiiro-kata-kohanabachi. A small sweat bee of the family Halictidae found in Japan. Its body is a rust-tinged brown, a few millimetres long. It nests in soil and provisions larvae with pollen and nectar — a familiar pollinator of many flowers.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks and parks — open places with flowers and bare ground for nesting.",
+      "finding_tips": "Spring–autumn look for a small rust-coloured bee visiting flowers. Its few-millimetre size, rust-tinged colour and ground-nesting habit identify it; colour and sheen separate it from related sweat bees."
+    },
+    "zh": {
+      "summary": "锈色隧蜂（サビイロカタコハナバチ），隧蜂科小型蜂，分布于日本。体呈锈色之褐，体长数毫米。于土中掘巢，以花粉花蜜哺幼，为常见传粉者。",
+      "habitat_hint": "喜草地、林缘、河滩及公园等有花且具裸地营巢的开阔环境。",
+      "finding_tips": "春至秋季寻访花的锈色小蜂。体数毫米、体色带锈、地面营巢即为辨识要点；以体色与光泽与近缘隧蜂区分。"
+    }
+  },
+  "Lasioglossum occidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "白条隧蜂"
+    },
+    "ja": {
+      "summary": "シロスジカタコハナバチ。日本に分布するコハナバチ科の小型のハナバチ。黒っぽい体に、腹部の各節の縁に白い毛の帯があることが和名の由来。土中に巣を掘り、花粉と蜜を集める送粉者。",
+      "habitat_hint": "草地、林縁、河川敷、公園など、花が咲き、営巣できる裸地のある環境。",
+      "finding_tips": "春〜秋、花を訪れる小さな黒いハナバチを探す。腹部の各節の縁に白い毛の帯が並ぶことが最大の識別点。地面に営巣する。"
+    },
+    "en": {
+      "summary": "Shirosuji-kata-kohanabachi. A small sweat bee of the family Halictidae found in Japan. Its dark body carries white hair-bands along the edge of each abdominal segment, the source of its name. It nests in soil and gathers pollen and nectar as a pollinator.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks and parks — places with flowers and bare ground for nesting.",
+      "finding_tips": "Spring–autumn look for a small dark bee visiting flowers. The white hair-bands along each abdominal segment edge are the key mark; it nests in the ground."
+    },
+    "zh": {
+      "summary": "白条隧蜂（シロスジカタコハナバチ），隧蜂科小型蜂，分布于日本。体偏黑，腹部各节缘具白毛带（白条），为和名由来。于土中掘巢，采集花粉花蜜，为传粉者。",
+      "habitat_hint": "喜草地、林缘、河滩及公园等有花且具裸地营巢的环境。",
+      "finding_tips": "春至秋季寻访花的黑色小蜂。腹部各节缘列白毛带为最大辨识要点；于地面营巢。"
+    }
+  },
+  "Lasioglossum sibiriacum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "黄带隧蜂"
+    },
+    "ja": {
+      "summary": "キオビコハナバチ。日本〜シベリアに分布するコハナバチ科の小型のハナバチ。黒っぽい体に、腹部に黄色を帯びた帯状の模様が見られることが和名の由来。土中に巣を掘り、花を訪れて送粉する。",
+      "habitat_hint": "草地、林縁、河川敷、公園など、花と営巣できる裸地のある開けた環境。冷涼な地域にも分布する。",
+      "finding_tips": "春〜秋、花を訪れる小さなハナバチを探す。腹部に黄色を帯びた帯模様が見られることが識別点。地面に営巣し、体長数ミリと小さい。"
+    },
+    "en": {
+      "summary": "Kiobi-kohanabachi. A small sweat bee of the family Halictidae found from Japan to Siberia. Its dark body shows yellowish bands on the abdomen, the source of its name. It nests in soil and pollinates as it visits flowers.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks and parks — open places with flowers and bare ground for nesting; it also ranges into cool regions.",
+      "finding_tips": "Spring–autumn look for a small bee visiting flowers. The yellowish banding on the abdomen is the mark; it nests in the ground and is only a few millimetres long."
+    },
+    "zh": {
+      "summary": "黄带隧蜂（キオビコハナバチ），隧蜂科小型蜂，分布于日本至西伯利亚。体偏黑，腹部具带黄色之带纹（黄带），为和名由来。于土中掘巢，访花传粉。",
+      "habitat_hint": "喜草地、林缘、河滩及公园等有花且具裸地营巢的开阔环境，亦分布于冷凉地区。",
+      "finding_tips": "春至秋季寻访花的小蜂。腹部带黄色带纹为辨识要点；于地面营巢，体仅数毫米。"
+    }
+  },
+  "Laspeyria ruficeps": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "赤头夜蛾"
+    },
+    "ja": {
+      "summary": "テンモンシマコヤガ。日本に分布するヤガ科（コヤガの仲間）の小型のガ。前翅に点状の紋と縞模様をもつことが和名の由来。幼虫は地衣類を食べるとされる。夜行性で灯火に飛来する。",
+      "habitat_hint": "低山地〜山地の林縁、雑木林、樹木や岩の多い環境。地衣類の豊富な場所を好む。",
+      "finding_tips": "夏、夜間の灯火に飛来する。小型で、前翅の点状紋と縞模様が識別点。よく似たコヤガ類とは翅の斑紋の細部で見分ける。"
+    },
+    "en": {
+      "summary": "Tenmon-shima-koyaga. A small noctuid moth (an erebid micro-noctuid) found in Japan. Dot-like marks and stripes on the forewing give its name. The larva is reported to feed on lichens. Nocturnal, coming to light.",
+      "habitat_hint": "Woodland edges, coppice and settings rich in trees and rock from the low hills into the mountains — places rich in lichens.",
+      "finding_tips": "In summer it comes to light at night. Its small size and the dot-marks and stripes on the forewing identify it; fine wing markings separate it from similar micro-noctuids."
+    },
+    "zh": {
+      "summary": "赤头夜蛾（テンモンシマコヤガ），夜蛾科（小夜蛾类）小型蛾类，分布于日本。前翅具点状纹与条纹，为和名由来。幼虫据载取食地衣。夜行趋光。",
+      "habitat_hint": "喜低山至山地林缘、杂木林及多树多岩、地衣丰富的环境。",
+      "finding_tips": "夏季夜间趋光。体小、前翅点状纹与条纹即为辨识要点；以翅纹细节与相似小夜蛾区分。"
+    }
+  },
+  "Lecanorchis kiusiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "九州盂兰"
+    },
+    "ja": {
+      "summary": "ウスキムヨウラン。本州〜九州の暖温帯林に分布するラン科ムヨウラン属の菌従属栄養（腐生）植物。葉緑素をもたず、菌類から養分を得る。初夏、淡黄色の細い花を数個咲かせる。落ち葉の積もった暗い林床に生える。",
+      "habitat_hint": "常緑広葉樹林（照葉樹林）や竹林の、落ち葉の積もった暗く湿った林床。",
+      "finding_tips": "初夏、暗い林床に立つ、葉のない細い茎に淡黄色の花をつけた姿を探す。緑の葉がまったくないこと（菌従属栄養）と、淡黄色の花が識別点。希少で見つけにくい。"
+    },
+    "en": {
+      "summary": "Usuki-muyoran. A mycoheterotrophic (saprophytic) orchid (genus Lecanorchis) found in warm-temperate forest from Honshu to Kyushu. Lacking chlorophyll, it draws nutrients from fungi. In early summer it opens a few slender pale-yellow flowers on the dark, litter-covered forest floor.",
+      "habitat_hint": "The dark, damp, litter-covered floor of evergreen broadleaf forest and bamboo groves.",
+      "finding_tips": "In early summer look on the dark forest floor for a leafless slender stem bearing pale-yellow flowers. The total absence of green leaves (mycoheterotrophy) and the pale-yellow flowers identify it; it is rare and easily missed."
+    },
+    "zh": {
+      "summary": "九州盂兰（ウスキムヨウラン），兰科盂兰属菌异养（腐生）植物，分布于本州至九州暖温带林。无叶绿素，自真菌取养。初夏于落叶积厚的暗林床开数枚淡黄细花。",
+      "habitat_hint": "喜常绿阔叶林（照叶林）与竹林中落叶积厚的暗湿林床。",
+      "finding_tips": "初夏于暗林床寻无叶细茎上开淡黄花之姿。全无绿叶（菌异养）与淡黄花即为辨识要点；稀少难觅。"
+    }
+  },
+  "Leptocoris vicinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "拟红缘蝽"
+    },
+    "ja": {
+      "summary": "ニセアカヘリカメムシ。南日本〜東南アジアに分布するホシカメムシ科（またはヘリカメムシ類近縁）のカメムシ。体の縁が赤みを帯び、アカヘリカメムシ類に似ることが和名の由来。ムクロジ科などの植物の種子の汁を吸う。",
+      "habitat_hint": "暖地の林縁、河川敷、樹木の多い環境。食草となるムクロジ科（モクゲンジ、ムクロジなど）の木の周辺。",
+      "finding_tips": "夏〜秋、体の縁が赤みを帯びた平たいカメムシを探す。食樹の種子や落果に集まること、赤い縁取りが識別点。よく似た近縁種とは細部で見分ける。"
+    },
+    "en": {
+      "summary": "Nise-aka-heri-kamemushi. A bug of the family Rhopalidae found from southern Japan into Southeast Asia. Its body edges are reddish, resembling the true red-margined bugs (nise, 'false'), the source of its name. It sucks the sap of the seeds of soapberry-family plants.",
+      "habitat_hint": "Woodland edges, riverbanks and wooded settings in warm regions — around soapberry-family trees (goldenrain tree, soapberry) that host it.",
+      "finding_tips": "Summer to autumn look for a flat bug with reddish body edges. Its gathering on the seeds and fallen fruit of host trees and the red margin identify it; fine details separate it from close relatives."
+    },
+    "zh": {
+      "summary": "拟红缘蝽（ニセアカヘリカメムシ），红蝽科（或缘蝽近缘）蝽，分布于南日本至东南亚。体缘带红，似红缘蝽类（伪），为和名由来。吸食无患子科等植物种子汁液。",
+      "habitat_hint": "喜暖地林缘、河滩及多树环境，居栾树、无患子等无患子科寄主树周围。",
+      "finding_tips": "夏至秋季寻体缘带红的扁平蝽。集于寄主树种子、落果、红色镶边即为辨识要点；以细节与近缘种区分。"
+    }
+  },
+  "Leptogium trichophorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "毛猫耳衣"
+    },
+    "ja": {
+      "summary": "クロカワキノリ。日本や東アジアに分布するイワノリ科（ネンドロウ科）のシアノバクテリア地衣。湿ると寒天状にふくらむ黒〜青黒色の葉状体をもち、表面や縁に細かな毛を備えることが種小名 trichophorum の由来。",
+      "habitat_hint": "湿った樹幹、コケの間、岩上など、水がしみ出す湿潤で日陰の場所。",
+      "finding_tips": "雨後、樹皮や岩でゼリー状にふくらんだ黒〜青黒色の葉状体を探す。表面の細かな毛と、乾湿で質感が変わることが識別点。ルーペで毛を確認する。"
+    },
+    "en": {
+      "summary": "Kurokawa-kinori. A cyanolichen of the family Collemataceae found in Japan and East Asia. Its black to blue-black thallus swells to a jelly when wet, and fine hairs on the surface and margin give the species name trichophorum.",
+      "habitat_hint": "Damp tree trunks, among mosses and on rock — moist, shaded, seeping places.",
+      "finding_tips": "After rain look on bark or rock for the jelly-swollen black-to-blue-black thallus. The fine surface hairs and the wet–dry change of texture identify it; check the hairs with a lens."
+    },
+    "zh": {
+      "summary": "毛猫耳衣（クロカワキノリ），胶衣科蓝细菌地衣，分布于日本及东亚。叶状体黑至青黑，湿时胀成胶冻状，表面与缘具细毛，为种小名 trichophorum 由来。",
+      "habitat_hint": "喜湿润树干、苔藓间及岩面等渗水阴湿处。",
+      "finding_tips": "雨后于树皮或岩面寻胶冻状膨胀的黑至青黑叶状体。表面细毛与干湿质感变化即为辨识要点；以放大镜查毛。"
+    }
+  },
+  "Leucapamea kawadai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "前赤白夜蛾"
+    },
+    "ja": {
+      "summary": "マエアカシロヨトウ。日本に分布するヤガ科の中型のガ。前翅は白っぽい地色をもち、前縁部が赤みを帯びることが和名の由来。幼虫は各種の草本を食べる。夜行性で灯火に飛来する。",
+      "habitat_hint": "低山地〜山地の林縁、草地、河川敷など、幼虫の食草となる草の多い環境。",
+      "finding_tips": "夏、夜間の灯火に飛来する。白っぽい前翅の前縁が赤みを帯びることが最大の識別点。シロヨトウの仲間の中でも前縁の赤みが目印。"
+    },
+    "en": {
+      "summary": "Maeaka-shiro-yotou. A medium noctuid moth found in Japan. Its forewings have a whitish ground with a reddish front margin, the source of its name. Larvae feed on various herbs. Nocturnal, coming to light.",
+      "habitat_hint": "Woodland edges, grassland and riverbanks from the low hills into the mountains — places rich in the herbs its larvae eat.",
+      "finding_tips": "In summer it comes to light at night. The whitish forewing with a reddish front margin is the key mark, distinguishing it among the white noctuids."
+    },
+    "zh": {
+      "summary": "前赤白夜蛾（マエアカシロヨトウ），夜蛾科中型蛾类，分布于日本。前翅底色偏白，前缘带红，为和名由来。幼虫取食多种草本，夜行趋光。",
+      "habitat_hint": "喜低山至山地林缘、草地及河滩等草本丰富的环境。",
+      "finding_tips": "夏季夜间趋光。偏白前翅前缘带红为最大辨识要点；于白夜蛾类中前缘红色为标志。"
+    }
+  },
+  "Leucoagaricus meleagris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "斑白环蘑"
+    },
+    "ja": {
+      "summary": "ツブカラカサタケ。日本や世界の温帯に分布するハラタケ科（キツネノカラカサ類近縁）の菌類。傘の表面が細かな粒状の鱗片におおわれ、傷つけると赤〜赤褐色に変色することがある。腐植の多い場所や堆肥、鉢植えの土などに発生する。",
+      "habitat_hint": "腐植の多い林床、堆肥、花壇や鉢植えの土、温室など。有機物の豊富な撹乱地。",
+      "finding_tips": "傘の表面が細かな粒状の鱗片でおおわれること、傷つけると赤みを帯びて変色することが識別点。柄にはつばがある。食毒不明のため食用にしない。"
+    },
+    "en": {
+      "summary": "Tsubu-karakasatake. A mushroom of the family Agaricaceae (a Lepiota relative) found in Japan and the world's temperate zones. Its cap is coated in fine granular scales, and cut flesh may stain red to red-brown. It appears on humus-rich ground, compost and potting soil.",
+      "habitat_hint": "Humus-rich forest floor, compost, flowerbed and pot soil, and greenhouses — organic-rich disturbed places.",
+      "finding_tips": "The finely granular-scaly cap and the reddening of cut flesh are the marks; the stem bears a ring. Edibility is uncertain, so do not eat it."
+    },
+    "zh": {
+      "summary": "斑白环蘑（ツブカラカサタケ），蘑菇科（环柄菇近缘）真菌，分布于日本及世界温带。菌盖表面被细颗粒状鳞片，伤时或变红至红褐。发生于腐殖丰富处、堆肥及盆土。",
+      "habitat_hint": "喜腐殖丰富林床、堆肥、花坛与盆土及温室等有机质丰富的扰动地。",
+      "finding_tips": "盖面被细颗粒鳞片、伤时带红变色即为辨识要点；柄具菌环。食毒不明，勿食。"
+    }
+  },
+  "Leucodonta bicoloria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White Prominent",
+    "aliases": {
+      "zh-Hans": "二色白齿舟蛾"
+    },
+    "ja": {
+      "summary": "モンキシロシャチホコ。ユーラシアに広く分布するシャチホコガ科のガ。前翅は白い地色に橙黄色の紋が入る美しい種で、二色の対比が鮮やか（種小名 bicoloria）。幼虫はカバノキ類の葉を食べる。",
+      "habitat_hint": "低山地〜山地の落葉広葉樹林、林縁。食樹のカバノキ類（シラカバ、ダケカンバなど）が生える環境。",
+      "finding_tips": "初夏、夜間の灯火に飛来する。白い前翅に橙黄色の紋がある美しい配色が最大の識別点。止まると腹端を反らすシャチホコ独特の姿勢も手がかり。"
+    },
+    "en": {
+      "summary": "Monki-shiro-shachihoko (white prominent). A prominent moth of the family Notodontidae widespread across Eurasia. A beautiful species with orange-yellow marks on a white forewing, its two-colour contrast is striking (species name bicoloria). Larvae feed on birch foliage.",
+      "habitat_hint": "Deciduous broadleaf forest and woodland edges from the low hills into the mountains, where birches (white birch, Erman's birch) grow.",
+      "finding_tips": "In early summer it comes to light at night. The beautiful white forewing with orange-yellow marks is the key mark; the cocked-up abdomen tip at rest is another prominent-moth clue."
+    },
+    "zh": {
+      "summary": "二色白齿舟蛾（モンキシロシャチホコ），舟蛾科蛾类，广布于欧亚。前翅白底具橙黄斑，二色对比鲜明（种小名 bicoloria），甚美。幼虫取食桦木类叶。",
+      "habitat_hint": "喜低山至山地落叶阔叶林、林缘，需白桦、岳桦等桦木类食树。",
+      "finding_tips": "初夏夜间趋光。白色前翅具橙黄斑的美丽配色为最大辨识要点；停息翘腹端亦为舟蛾线索。"
+    }
+  },
+  "Ligustrum ibota": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "西国水蜡树"
+    },
+    "ja": {
+      "summary": "サイゴクイボタ。本州（西日本）〜九州に分布するモクセイ科イボタノキ属の落葉低木。イボタノキの仲間で、西日本に分布することが和名の由来。初夏、白い小さな筒状花を穂状に多数咲かせ、秋に黒紫色の実をつける。",
+      "habitat_hint": "山地の林縁、渓流沿い、日当たりのよい斜面など。やや湿り気のある明るい場所。",
+      "finding_tips": "初夏、白い筒状の小花が穂状に集まって咲く姿を手がかりにする。対生する小さな葉と、秋に黒紫色に熟す実が識別点。イボタノキ類は互いに似るので分布や細部で見分ける。"
+    },
+    "en": {
+      "summary": "Saigoku-ibota. A deciduous shrub of the olive family (genus Ligustrum) found from western Honshu to Kyushu. A privet whose name reflects its western-Japan (Saigoku) range, it opens many small white tubular flowers in spikes in early summer and bears blackish-purple fruit in autumn.",
+      "habitat_hint": "Woodland edges, streamsides and sunny slopes in the hills — somewhat moist, bright places.",
+      "finding_tips": "In early summer the small white tubular flowers clustered in spikes are the clue. The small opposite leaves and the blackish-purple autumn fruit identify it; privets are alike, so use range and fine details."
+    },
+    "zh": {
+      "summary": "西国水蜡树（サイゴクイボタ），木樨科女贞属落叶灌木，分布于本州（西日本）至九州。为水蜡树类，因分布西日本（西国）而得和名。初夏穗状密开白色管状小花，秋结黑紫色果。",
+      "habitat_hint": "喜山地林缘、溪畔及向阳斜坡等略湿明亮处。",
+      "finding_tips": "初夏以穗状聚生的白色管状小花为线索。对生小叶与秋熟黑紫果即为辨识要点；水蜡树类相似，宜以分布与细节区分。"
+    }
+  },
+  "Limonium wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "烟台补血草"
+    },
+    "ja": {
+      "summary": "イソマツ。南西諸島〜小笠原、東アジアの海岸に分布するイソマツ科イソマツ属の多年草〜小低木。岩の割れ目に根を張り、へら形の小さな葉をロゼット状につける。夏〜秋、黄色い小さな花を穂状に咲かせる。海岸の岩場に生える丈夫な植物。",
+      "habitat_hint": "海岸の岩場、崖、珊瑚礁の隆起した岩の割れ目など、潮風の当たる乾いた岩上。",
+      "finding_tips": "海岸の岩の割れ目にロゼット状につくへら形の葉と、黄色い小花が穂状に咲く姿を探す。乾いた岩上という生育環境と、木質化した株元が識別点。"
+    },
+    "en": {
+      "summary": "Isomatsu. A perennial-to-dwarf-shrub of the sea-lavender family (genus Limonium) found on coasts from the Ryukyus to the Ogasawaras and across East Asia. Rooting in rock crevices, it sets small spoon-shaped leaves in a rosette and, in summer–autumn, opens small yellow flowers in spikes — a hardy plant of coastal rock.",
+      "habitat_hint": "Coastal rocks, cliffs and raised reef-rock crevices — dry rock touched by salt wind.",
+      "finding_tips": "Look on coastal rock crevices for the rosette of spoon-shaped leaves and the small yellow flowers in spikes. Its dry-rock habitat and woody base identify it."
+    },
+    "zh": {
+      "summary": "烟台补血草（イソマツ），白花丹科补血草属多年生草本至小灌木，分布于西南诸岛至小笠原及东亚海岸。根扎岩缝，匙形小叶呈莲座状，夏秋穗状开黄色小花，为海岸岩地强健植物。",
+      "habitat_hint": "喜海岸岩地、崖壁及隆起礁岩缝隙等受海风的干燥岩上。",
+      "finding_tips": "于海岸岩缝寻莲座状匙形叶及穗状黄色小花。干燥岩上生境与木质化株基即为辨识要点。"
+    }
+  },
+  "Limopsis tokaiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "东海云母蛤"
+    },
+    "ja": {
+      "summary": "オオシラスナ。日本近海に分布するシラスナガイ科の小型の二枚貝。丸みを帯びた白い殻をもち、殻表は細かな毛の生えた殻皮におおわれる。やや深い海の砂泥底に足糸で付着して暮らす。",
+      "habitat_hint": "水深数十〜数百メートルのやや深い海の砂泥底。足糸で砂礫などに付着する。",
+      "finding_tips": "生貝は深いため見られないが、白く丸い小型の殻が打ち上がることがある。殻表の毛の生えた殻皮と、丸みを帯びた白い殻が識別点。"
+    },
+    "en": {
+      "summary": "Oo-shirasuna. A small bivalve of the family Limopsidae found in Japanese coastal waters. Its rounded white shell is covered by a hairy periostracum, and it lives attached by byssus to sandy-mud bottoms in somewhat deep water.",
+      "habitat_hint": "Sandy-mud bottoms of somewhat deep water at depths of tens to hundreds of metres, attached by byssus to sand and gravel.",
+      "finding_tips": "Live shells stay deep, but small round white valves sometimes wash up. The hairy periostracum and the rounded white shell are the marks."
+    },
+    "zh": {
+      "summary": "东海云母蛤（オオシラスナ），云母蛤科小型双壳类，分布于日本近海。壳圆钝、白色，表面被具细毛的壳皮，以足丝附于较深海的砂泥底生活。",
+      "habitat_hint": "栖于水深数十至数百米较深海的砂泥底，以足丝附于砂砾。",
+      "finding_tips": "活贝居深难见，白色圆形小壳偶冲上。壳表具毛壳皮与圆钝白壳即为辨识要点。"
+    }
+  },
+  "Linckia laevigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blue Sea Star",
+    "aliases": {
+      "zh-Hans": "蓝指海星"
+    },
+    "ja": {
+      "summary": "アオヒトデ。インド太平洋の暖海に分布するアオヒトデ科のヒトデ。5本の細長い腕をもち、鮮やかな青色（まれに水色や紫）をしていることが最大の特徴。サンゴ礁で暮らし、岩の表面の有機物などを食べる。",
+      "habitat_hint": "サンゴ礁の礁池、礁斜面、浅海の岩礁や砂底。暖かい浅い海の明るい場所。",
+      "finding_tips": "5本の細長い腕と鮮やかな青色が最大の識別点。サンゴ礁の浅場で目立つため見つけやすい。腕を切っても再生する強い再生力をもつ。"
+    },
+    "en": {
+      "summary": "Ao-hitode (blue sea star). A starfish of the family Ophidiasteridae found in the warm Indo-Pacific. It has five slender arms and, above all, a vivid blue colour (rarely light-blue or purple). It lives on coral reefs, feeding on organic matter on rock surfaces.",
+      "habitat_hint": "Reef pools, reef slopes and shallow rocky and sandy bottoms — sunlit places in warm, shallow seas.",
+      "finding_tips": "The five slender arms and the vivid blue colour are the key marks. It stands out on shallow reefs and is easy to spot; it regenerates strongly, even from a severed arm."
+    },
+    "zh": {
+      "summary": "蓝指海星（アオヒトデ），蛇海星科海星，分布于印度太平洋暖海。具五条细长腕，最大特征为鲜艳蓝色（偶浅蓝或紫）。栖于珊瑚礁，摄食岩面有机物。",
+      "habitat_hint": "栖于珊瑚礁礁池、礁斜面及浅海岩礁与砂底等温暖浅海阳光充足处。",
+      "finding_tips": "五条细长腕与鲜艳蓝色为最大辨识要点。于浅礁醒目易见；再生力强，断腕亦可再生。"
+    }
+  },
+  "Lischkeia alwinae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "刺丽口螺"
+    },
+    "ja": {
+      "summary": "ハリエビス。日本近海のやや深い海に分布するニシキウズガイ科（エビスガイ類）の巻貝。円錐形の殻の各層に、螺旋状に並ぶ顆粒状の突起をもつことが和名の由来。真珠光沢のある殻をもつ。",
+      "habitat_hint": "水深数十〜数百メートルのやや深い海の岩礁や砂礫底。冷たいやや深い海にすむ。",
+      "finding_tips": "円錐形の殻の各層に、針状〜顆粒状の突起が螺旋状に並ぶことが最大の識別点。真珠光沢のある殻も手がかり。打ち上げや底引きで得られる。"
+    },
+    "en": {
+      "summary": "Hari-ebisu. A top snail of the family Trochidae (a Lischkeia) found in the somewhat deep waters off Japan. Rows of spiral granules on each whorl of the conical shell give its name, and the shell is pearly.",
+      "habitat_hint": "Rocky and gravel bottoms of somewhat deep water at tens to hundreds of metres — cold, deeper seas.",
+      "finding_tips": "The spiral rows of spine-like granules on each whorl of the conical shell are the key mark; the pearly shell is another clue. Obtained by beachcast or dredging."
+    },
+    "zh": {
+      "summary": "刺丽口螺（ハリエビス），马蹄螺科海螺，分布于日本近海较深海域。圆锥壳各层具螺旋排列的颗粒状突起，为和名由来；壳具珍珠光泽。",
+      "habitat_hint": "栖于水深数十至数百米较深海的岩礁与砂砾底，居寒冷较深海。",
+      "finding_tips": "圆锥壳各层螺旋排列的针状至颗粒状突起为最大辨识要点；珍珠光泽壳亦为线索。多经冲上或底拖获得。"
+    }
+  },
+  "Littoraria pintado": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "斑点滨螺"
+    },
+    "ja": {
+      "summary": "コウダカタマキビガイ。南日本〜インド太平洋の暖海の海岸に分布するタマキビ科の巻貝。殻は円錐形でやや高く、灰白色の地に細かな褐色の点が散らばる。潮上帯の岩上で、乾燥に耐えて暮らす。",
+      "habitat_hint": "岩礁海岸の潮上帯〜潮間帯上部。波しぶきのかかる岩の上や割れ目。乾燥に強い。",
+      "finding_tips": "潮の上の乾いた岩の上に群れる、やや背の高い円錐形の巻貝を探す。灰白色に褐色の細点が散る殻が識別点。乾いた岩に張りつく習性も手がかり。"
+    },
+    "en": {
+      "summary": "Kodaka-tamakibi-gai. A periwinkle of the family Littorinidae found on warm coasts from southern Japan through the Indo-Pacific. Its conical shell is rather tall and grey-white scattered with fine brown dots. It lives on splash-zone rock, enduring drying.",
+      "habitat_hint": "The supralittoral to upper intertidal of rocky shores — on splash-zone rock and in crevices; very drought-tolerant.",
+      "finding_tips": "On dry rock above the tide look for a rather tall conical periwinkle in groups. The grey-white shell scattered with fine brown dots identifies it; its clinging to dry rock is another clue."
+    },
+    "zh": {
+      "summary": "斑点滨螺（コウダカタマキビガイ），滨螺科海螺，分布于南日本至印度太平洋暖海岸。壳圆锥而较高，灰白底散布褐色细点。栖于潮上带岩上，耐干旱。",
+      "habitat_hint": "栖于岩礁海岸潮上带至潮间带上部，居受浪花的岩面与岩缝，耐旱。",
+      "finding_tips": "于潮上干燥岩面寻群集、较高的圆锥形滨螺。灰白底散褐色细点之壳即为辨识要点；贴附干岩习性亦为线索。"
+    }
+  },
+  "Littorina sitkana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sitka Periwinkle",
+    "aliases": {
+      "zh-Hans": "锡特卡滨螺"
+    },
+    "ja": {
+      "summary": "クロタマキビ。北日本〜北太平洋の冷たい海の岩礁海岸に分布するタマキビ科の巻貝。殻は丸みを帯び、黒褐色〜暗褐色をしていることが和名の由来。潮間帯の岩上で藻類を食べ、乾燥や寒さに耐えて暮らす。",
+      "habitat_hint": "北方の岩礁海岸の潮間帯。波しぶきのかかる岩の上や割れ目、転石の隙間。寒冷な海に多い。",
+      "finding_tips": "潮間帯の岩上に群れる、丸みを帯びた黒褐色の巻貝を探す。殻が黒っぽいこと、北方の冷たい海に分布することが識別点。"
+    },
+    "en": {
+      "summary": "Kuro-tamakibi (Sitka periwinkle). A periwinkle of the family Littorinidae found on cold rocky shores from northern Japan across the North Pacific. Its rounded shell is blackish-brown to dark brown, the source of its name ('black periwinkle'). It grazes algae on intertidal rock, enduring drying and cold.",
+      "habitat_hint": "The intertidal of northern rocky shores — on splash-zone rock, in crevices and among cobbles; common in cold seas.",
+      "finding_tips": "On intertidal rock look for a rounded blackish-brown periwinkle in groups. Its dark shell and its northern cold-water range identify it."
+    },
+    "zh": {
+      "summary": "锡特卡滨螺（クロタマキビ），滨螺科海螺，分布于北日本至北太平洋寒冷岩礁海岸。壳圆钝、黑褐至暗褐，为和名（黑滨螺）由来。于潮间带岩上摄食藻类，耐旱耐寒。",
+      "habitat_hint": "栖于北方岩礁海岸潮间带，居受浪花的岩面、岩缝及石间，寒海多见。",
+      "finding_tips": "于潮间带岩面寻群集、圆钝的黑褐色滨螺。壳色偏黑、分布北方冷海即为辨识要点。"
+    }
+  },
+  "Littorina squalida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "粗糙滨螺"
+    },
+    "ja": {
+      "summary": "エゾタマキビ。北日本〜北太平洋の冷たい海の岩礁海岸に分布するタマキビ科の巻貝。殻は円錐形で、螺肋が発達してやや粗い表面をもつ。クロタマキビとともに北方の潮間帯に多く、藻類を食べる。",
+      "habitat_hint": "北方の岩礁海岸の潮間帯。波しぶきのかかる岩の上や割れ目、転石の隙間。寒冷な海に多い。",
+      "finding_tips": "潮間帯の岩上に群れる、螺肋の発達した円錐形の巻貝を探す。表面がやや粗いこと、北方の冷たい海に分布することが識別点。クロタマキビより殻の彫刻が目立つ。"
+    },
+    "en": {
+      "summary": "Ezo-tamakibi. A periwinkle of the family Littorinidae found on cold rocky shores from northern Japan across the North Pacific. Its conical shell has well-developed spiral ribs giving a somewhat rough surface. Common with Kuro-tamakibi in northern intertidal, it grazes algae.",
+      "habitat_hint": "The intertidal of northern rocky shores — on splash-zone rock, in crevices and among cobbles; common in cold seas.",
+      "finding_tips": "On intertidal rock look for a conical periwinkle with strong spiral ribs in groups. Its rougher surface and northern cold-water range identify it; the sculpture is more marked than in Littorina sitkana."
+    },
+    "zh": {
+      "summary": "粗糙滨螺（エゾタマキビ），滨螺科海螺，分布于北日本至北太平洋寒冷岩礁海岸。壳圆锥，螺肋发达而表面略粗。与黑滨螺同为北方潮间带常见，摄食藻类。",
+      "habitat_hint": "栖于北方岩礁海岸潮间带，居受浪花的岩面、岩缝及石间，寒海多见。",
+      "finding_tips": "于潮间带岩面寻群集、螺肋发达的圆锥形滨螺。表面较粗、分布北方冷海即为辨识要点；雕刻较黑滨螺明显。"
+    }
+  },
+  "Lonicera praeflorens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "早花忍冬"
+    },
+    "ja": {
+      "summary": "ハヤザキヒョウタンボク。北海道〜本州、東北アジアに分布するスイカズラ科スイカズラ属の落葉低木。ヒョウタンボクの仲間で、春の早い時期に淡紅色の小さな花を咲かせることが和名の由来。夏、2個並んだ赤い実をつける。",
+      "habitat_hint": "山地の林縁、明るい落葉樹林、河畔など、やや日当たりのよい場所。冷涼な地域に多い。",
+      "finding_tips": "春の早い時期、葉が展開する前後に咲く淡紅色の小花を手がかりにする。夏、瓢箪のように2個並んだ赤い実（有毒）が識別点。他のヒョウタンボクより開花が早い。"
+    },
+    "en": {
+      "summary": "Hayazaki-hyotanboki. A deciduous shrub of the honeysuckle family (genus Lonicera) found from Hokkaido to Honshu and across northeast Asia. A honeysuckle whose name means 'early-flowering', it opens small pale-pink flowers early in spring and bears paired red fruits in summer.",
+      "habitat_hint": "Woodland edges, bright deciduous forest and riverbanks in the hills — fairly sunny places; common in cool regions.",
+      "finding_tips": "Early in spring, around leaf-out, the small pale-pink flowers are the clue. The paired red fruits like a gourd (poisonous) in summer identify it; it flowers earlier than other honeysuckles of this group."
+    },
+    "zh": {
+      "summary": "早花忍冬（ハヤザキヒョウタンボク），忍冬科忍冬属落叶灌木，分布于北海道至本州及东北亚。为瓢箪木类，因早春开淡红小花而得和名。夏结成对红果。",
+      "habitat_hint": "喜山地林缘、明亮落叶林及河畔等较向阳处，冷凉地区多见。",
+      "finding_tips": "早春展叶前后以淡红小花为线索。夏季如葫芦般成对的红果（有毒）即为辨识要点；开花较他种瓢箪木早。"
+    }
+  },
+  "Lutjanus fulvus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blacktail Snapper",
+    "aliases": {
+      "zh-Hans": "焦黄笛鲷"
+    },
+    "ja": {
+      "summary": "オキフエダイ。南日本〜インド太平洋の暖海に分布するフエダイ科の魚。体は黄褐色で、背びれと尾びれが暗色を帯び、腹側の各ひれが黄色い。サンゴ礁や岩礁で小魚や甲殻類を食べる肉食魚。食用にもなる。",
+      "habitat_hint": "サンゴ礁、岩礁、河口、内湾の浅場など。幼魚は汽水域や浅い礁池に入る。",
+      "finding_tips": "黄褐色の体に、暗色を帯びた背びれ・尾びれと黄色い腹側のひれが識別点。フエダイ科らしいやや角ばった体形と大きな口も手がかり。釣りや市場で見られる。"
+    },
+    "en": {
+      "summary": "Okifuedai (blacktail snapper). A snapper of the family Lutjanidae found in warm seas from southern Japan through the Indo-Pacific. Its body is yellow-brown with darkened dorsal and tail fins and yellow ventral fins. A predator of reefs, it eats small fish and crustaceans and is edible.",
+      "habitat_hint": "Coral and rocky reefs, estuaries and shallow inner bays; juveniles enter brackish water and shallow reef pools.",
+      "finding_tips": "The yellow-brown body with darkened dorsal and tail fins and yellow ventral fins identifies it. The angular snapper body and large mouth are further clues; seen in angling and markets."
+    },
+    "zh": {
+      "summary": "焦黄笛鲷（オキフエダイ），笛鲷科鱼类，分布于南日本至印度太平洋暖海。体黄褐，背鳍与尾鳍带暗色，腹侧各鳍黄色。于珊瑚礁、岩礁捕食小鱼与甲壳类，为肉食鱼，可食。",
+      "habitat_hint": "栖于珊瑚礁、岩礁、河口及内湾浅处，幼鱼入汽水域与浅礁池。",
+      "finding_tips": "黄褐体、暗色背尾鳍与黄色腹鳍即为辨识要点。笛鲷科略具棱角的体形与大口亦为线索；见于钓获与市场。"
+    }
   }
 }
