@@ -254023,5 +254023,532 @@
       "habitat_hint": "低地至山地草地、林缘。喜向阳多花的环境。",
       "finding_tips": "5至8月，白昼于花上寻找黑底黄斑的小蛾。似虎的黄黑纹为辨识点。"
     }
+  },
+  "Asthena hamadryas": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer Moth",
+    "ja": {
+      "summary": "マンサクシロナミシャク。シャクガ科ナミシャク亜科の小型の蛾で、白地に細かな波状の横線を持つ。幼虫はマンサクなどを食べる。",
+      "habitat_hint": "低地〜山地の落葉樹林、林縁。マンサクの生える樹林を好む。",
+      "finding_tips": "4〜6月、灯火や葉上で白く波模様の小さな蛾を探します。細かな横波線が識別点。"
+    },
+    "en": {
+      "summary": "A small geometer moth, white with fine wavy cross-lines; its larvae feed on witch-hazel and related plants.",
+      "habitat_hint": "Lowland to mountain deciduous forest and edges — likes groves with witch-hazel.",
+      "finding_tips": "From April to June look at lights or on leaves for the small white moth. The fine wavy cross-lines are diagnostic."
+    },
+    "zh": {
+      "summary": "金缕梅白波尺蛾（マンサクシロナミシャク）。尺蛾科小型蛾类，白底具细密波状横线，幼虫取食金缕梅等。",
+      "habitat_hint": "低地至山地落叶林、林缘。喜有金缕梅的林间。",
+      "finding_tips": "4至6月，于灯下或叶上寻找白色带波纹的小蛾。细密横波线为辨识点。"
+    }
+  },
+  "Athetis lepigone": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet Moth",
+    "ja": {
+      "summary": "コウスイロヨトウ。ヤガ科の小型の蛾で、灰褐色の地味な前翅を持つ。幼虫は各種の草本を食べる広食性で、灯火によく飛来する。",
+      "habitat_hint": "低地の草地、農地、市街地周辺。開けた環境に広く生息する。",
+      "finding_tips": "初夏〜秋、灯火に集まる灰褐色の地味な蛾を探します。淡い色合いと小型さが目安。"
+    },
+    "en": {
+      "summary": "A small owlet moth with drab greyish-brown forewings; its polyphagous larvae feed on various herbs, and adults come readily to light.",
+      "habitat_hint": "Lowland grassland, farmland and around towns — widespread in open habitats.",
+      "finding_tips": "From early summer to autumn look for the drab greyish moth at lights. Its pale tone and small size are the guide."
+    },
+    "zh": {
+      "summary": "淡色秘夜蛾（コウスイロヨトウ）。夜蛾科小型蛾类，前翅灰褐素净，幼虫广食各种草本，成虫常趋光。",
+      "habitat_hint": "低地草地、农田、市郊。广布于开阔环境。",
+      "finding_tips": "初夏至秋，寻找趋光的灰褐素净小蛾。淡色与小型为参考。"
+    }
+  },
+  "Atholus duodecimstriatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clown Beetle",
+    "ja": {
+      "summary": "コツヤエンマムシ。エンマムシ科の小型の甲虫で、光沢のある黒色。獣糞や腐肉に集まり、そこに来るハエの幼虫などを捕食する。",
+      "habitat_hint": "牧草地、林縁、獣糞や腐肉のある場所。開けた地面を好む。",
+      "finding_tips": "春〜秋、糞や腐肉の下でつやのある黒い小甲虫を探します。上翅の条線と丸みのある体が識別点。"
+    },
+    "en": {
+      "summary": "A small glossy-black clown beetle that gathers at dung and carrion, where it preys on fly larvae.",
+      "habitat_hint": "Pasture, woodland edges and dung or carrion sites — likes open ground.",
+      "finding_tips": "From spring to autumn look under dung and carrion for the shiny black beetle. The striate elytra and rounded body identify it."
+    },
+    "zh": {
+      "summary": "十二纹阎甲（コツヤエンマムシ）。阎甲科小型甲虫，黑色具光泽，聚于兽粪腐肉，捕食其中蝇蛆。",
+      "habitat_hint": "牧草地、林缘、有兽粪腐肉处。喜开阔地面。",
+      "finding_tips": "春至秋，于粪便腐肉下寻找有光泽的黑色小甲虫。鞘翅条纹与圆润身体为辨识点。"
+    }
+  },
+  "Atomaria lewisi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silken Fungus Beetle",
+    "ja": {
+      "summary": "キイロセマルキスイ。ヒメマキムシ科（キスイムシ類）の微小な甲虫で、黄褐色。堆肥や貯蔵物、朽木に集まりカビを食べる。",
+      "habitat_hint": "堆肥、腐植、貯蔵食品、朽木。湿ってカビの生える場所を好む。",
+      "finding_tips": "通年、堆肥や朽木を崩すと現れる黄褐色の微小甲虫を探します。丸みのある体形が目安。"
+    },
+    "en": {
+      "summary": "A minute yellowish-brown silken fungus beetle that gathers on compost, stored products and rotting wood, feeding on mould.",
+      "habitat_hint": "Compost, humus, stored food and rotting wood — likes damp, mouldy places.",
+      "finding_tips": "Year-round it appears when compost or rotten wood is disturbed. The tiny, rounded yellowish body is the guide."
+    },
+    "zh": {
+      "summary": "路氏丝菌甲（キイロセマルキスイ）。细扁甲科微小甲虫，黄褐色，聚于堆肥、贮藏物及朽木，取食霉菌。",
+      "habitat_hint": "堆肥、腐殖、贮藏食品、朽木。喜潮湿生霉之处。",
+      "finding_tips": "全年，翻动堆肥或朽木时出现的黄褐色微小甲虫。圆润体形为参考。"
+    }
+  },
+  "Bekkochlamys micrograpta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land Snail",
+    "ja": {
+      "summary": "ヒラベッコウ。ベッコウマイマイ科の陸産貝で、扁平で光沢のある半透明の殻を持つ。落ち葉の下や湿った地表で暮らす。",
+      "habitat_hint": "林床の落ち葉下、朽木の下、石の下。湿った樹林を好む。",
+      "finding_tips": "梅雨〜秋、林床の落ち葉や朽木の下で平たく光る小さな殻を探します。扁平で琥珀色の殻が識別点。"
+    },
+    "en": {
+      "summary": "A small land snail with a flattened, glossy, semi-transparent shell, living under leaf litter and on damp ground.",
+      "habitat_hint": "Under leaf litter, rotting wood and stones on the forest floor — likes moist woodland.",
+      "finding_tips": "From the rainy season to autumn look under litter and dead wood for the flat, shiny shell. The flattened amber shell is diagnostic."
+    },
+    "zh": {
+      "summary": "扁琥珀螺（ヒラベッコウ）。琥珀蜗牛科陆生贝类，壳扁平半透明具光泽，栖于落叶下及湿润地表。",
+      "habitat_hint": "林床落叶下、朽木下、石下。喜湿润林间。",
+      "finding_tips": "梅雨至秋，于林床落叶朽木下寻找扁平发亮的小壳。扁平琥珀色的壳为辨识点。"
+    }
+  },
+  "Bembidion collutum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground Beetle",
+    "ja": {
+      "summary": "ハマベミズギワゴミムシ。オサムシ科ミズギワゴミムシ属の小型甲虫で、海岸の砂浜や河口に生息する。金属光沢を帯び俊敏に走る。",
+      "habitat_hint": "海岸の砂浜、河口の砂泥地。湿った開けた地表を好む。",
+      "finding_tips": "春〜秋、海岸や河口の湿った地面を走る小さな金属光沢の甲虫を探します。素早い動きが目安。"
+    },
+    "en": {
+      "summary": "A small ground beetle of coastal beaches and estuaries, with a metallic sheen; it runs quickly over damp open ground.",
+      "habitat_hint": "Sandy beaches and estuarine sand-mud — likes damp, open surfaces.",
+      "finding_tips": "From spring to autumn watch damp coastal ground for the small, metallic beetle. Its rapid running is the guide."
+    },
+    "zh": {
+      "summary": "海滨行步甲（ハマベミズギワゴミムシ）。步甲科行步甲属小型甲虫，栖于海岸沙滩及河口，具金属光泽，行动敏捷。",
+      "habitat_hint": "海岸沙滩、河口砂泥地。喜湿润开阔地表。",
+      "finding_tips": "春至秋，于海岸河口湿地寻找疾走的金属光泽小甲虫。快速移动为参考。"
+    }
+  },
+  "Bembidion pliculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground Beetle",
+    "ja": {
+      "summary": "ヒメスジミズギワゴミムシ。オサムシ科ミズギワゴミムシ属の小型甲虫で、水辺の湿った地表に生息する。上翅に細い条線を持つ。",
+      "habitat_hint": "河川敷、湖沼畔、湿地の泥地。水際の開けた地面を好む。",
+      "finding_tips": "春〜秋、水際の泥地で小さな甲虫が走る様子を探します。上翅の細条と小型さが識別点。"
+    },
+    "en": {
+      "summary": "A small ground beetle of damp waterside ground, with fine striae on the elytra.",
+      "habitat_hint": "Riverbanks, lake margins and wetland mud — likes open ground at the water's edge.",
+      "finding_tips": "From spring to autumn watch waterside mud for the small running beetle. The finely striate elytra and small size identify it."
+    },
+    "zh": {
+      "summary": "细条行步甲（ヒメスジミズギワゴミムシ）。步甲科行步甲属小型甲虫，栖于水边湿润地表，鞘翅具细条纹。",
+      "habitat_hint": "河滩、湖沼畔、湿地泥地。喜水际开阔地面。",
+      "finding_tips": "春至秋，于水际泥地寻找疾走的小甲虫。鞘翅细条与小型为辨识点。"
+    }
+  },
+  "Bensonella plicidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land Snail",
+    "ja": {
+      "summary": "クチマガリスナガイ。微小な陸産貝で、円筒形の殻の口に歯状の突起（襞歯）を持つ。石灰岩地や落ち葉の下で暮らす。",
+      "habitat_hint": "石灰岩地、林床の落ち葉下、朽木の下。湿った環境を好む。",
+      "finding_tips": "湿った落ち葉や石の下で数mmの円筒形の殻を探します。殻口の歯状突起が識別点。"
+    },
+    "en": {
+      "summary": "A minute land snail with a cylindrical shell whose aperture bears tooth-like folds; it lives on limestone and under leaf litter.",
+      "habitat_hint": "Limestone areas, leaf litter and rotting wood — likes moist conditions.",
+      "finding_tips": "Under damp litter and stones look for the few-millimetre cylindrical shell. The tooth-like folds in the aperture are diagnostic."
+    },
+    "zh": {
+      "summary": "曲齿小螺（クチマガリスナガイ）。微小陆生贝类，壳圆筒形，壳口具齿状褶突，栖于石灰岩地及落叶下。",
+      "habitat_hint": "石灰岩地、林床落叶下、朽木下。喜湿润环境。",
+      "finding_tips": "于湿润落叶或石下寻找数毫米的圆筒形壳。壳口的齿状突起为辨识点。"
+    }
+  },
+  "Boletus subvelutipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アメリカウラベニイロガワリ。イグチ科のキノコで、傘は褐色、管孔は赤く、傷つけると急速に青変する。夏〜秋に広葉樹林に発生する。生食は危険。",
+      "habitat_hint": "夏〜秋の広葉樹林、雑木林。ブナ科の樹下を好む。",
+      "finding_tips": "7〜10月、傘の裏の赤い管孔と切ると青く変わる肉を確認します。赤い管孔と激しい青変が識別点。"
+    },
+    "en": {
+      "summary": "A bolete with a brown cap and red pores whose flesh bruises rapidly blue; it fruits in broadleaf woodland in summer and autumn. Not for raw consumption.",
+      "habitat_hint": "Broadleaf and coppice woodland in summer to autumn — likes ground under oaks and beeches.",
+      "finding_tips": "From July to October check for red pores under the cap and flesh that turns blue when cut. The red pores and strong blueing are diagnostic."
+    },
+    "zh": {
+      "summary": "红孔牛肝菌（アメリカウラベニイロガワリ）。牛肝菌科真菌，菌盖褐色，菌管口红色，伤后迅速变蓝，夏秋生于阔叶林下，不宜生食。",
+      "habitat_hint": "夏秋阔叶林、杂木林。喜壳斗科树下。",
+      "finding_tips": "7至10月，查看盖下红色菌管及切开后变蓝的菌肉。红色管口与强烈变蓝为辨识点。"
+    }
+  },
+  "Boulaya mittenii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "チャボスズゴケ。シッポゴケの仲間の蘚類で、樹幹や岩上に薄いマット状に生える。細かく分岐した茎と小さな葉を持つ。",
+      "habitat_hint": "山地の樹幹、岩上。湿度の高い日陰を好む。",
+      "finding_tips": "通年、樹幹や岩でつやのある濃緑のマットを探します。細かい分岐と小さな葉が識別点。"
+    },
+    "en": {
+      "summary": "A moss that forms thin mats on tree trunks and rocks, with finely branched stems and small leaves.",
+      "habitat_hint": "Trunks and rocks in mountain woodland — likes humid shade.",
+      "finding_tips": "Year-round look for the glossy dark-green mats on trunks and rocks. The fine branching and small leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "矮丛藓（チャボスズゴケ）。藓类，于树干及岩面成薄垫状生长，茎细分枝，叶小。",
+      "habitat_hint": "山地树干、岩面。喜湿度高的阴处。",
+      "finding_tips": "全年，于树干岩面寻找具光泽的深绿垫。细密分枝与小叶为辨识点。"
+    }
+  },
+  "Boykinia lycoctonifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アラシグサ。ユキノシタ科の多年草で、山地の湿った渓流沿いに生える。掌状に裂けた葉を持ち、夏に小さな白緑色の花を穂状につける。",
+      "habitat_hint": "山地の渓流沿い、湿った岩場。冷涼で湿った半日陰を好む。",
+      "finding_tips": "7〜8月、渓流沿いで掌状の葉と白緑の小花の穂を探します。深く裂けた葉が識別点。"
+    },
+    "en": {
+      "summary": "A perennial of the saxifrage family growing along wet mountain streams, with palmately lobed leaves and spikes of small whitish-green flowers in summer.",
+      "habitat_hint": "Mountain streamsides and wet rocks — likes cool, moist part-shade.",
+      "finding_tips": "From July to August look along streams for the palmate leaves and spikes of small greenish-white flowers. The deeply lobed leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "掌叶虎耳草（アラシグサ）。虎耳草科多年生草本，生于山地湿润溪流边，叶掌状裂，夏季开白绿色小花成穗。",
+      "habitat_hint": "山地溪流边、湿润岩场。喜冷凉湿润的半阴处。",
+      "finding_tips": "7至8月，于溪边寻找掌状叶与白绿小花穗。深裂的叶为辨识点。"
+    }
+  },
+  "Brigantiaea ferruginea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen",
+    "ja": {
+      "summary": "サビイボゴケ。樹皮や岩上に生える固着地衣類で、錆色〜橙褐色の子器（アポテキア）を持つ。暖地の樹林で見られる。",
+      "habitat_hint": "樹幹、岩上。湿度の高い樹林を好む。",
+      "finding_tips": "通年、樹皮上で錆色のいぼ状の子器を持つ地衣を探します。橙褐色の粒状の子器が識別点。"
+    },
+    "en": {
+      "summary": "A crustose lichen of bark and rock bearing rust-coloured to orange-brown apothecia, found in warm-region woodland.",
+      "habitat_hint": "Trunks and rocks — likes humid woodland.",
+      "finding_tips": "Year-round look on bark for the lichen with rust-coloured warty fruiting bodies. The orange-brown granular apothecia are diagnostic."
+    },
+    "zh": {
+      "summary": "锈疣衣（サビイボゴケ）。生于树皮及岩面的壳状地衣，具锈色至橙褐色的子囊盘，见于暖地林间。",
+      "habitat_hint": "树干、岩面。喜湿度高的林间。",
+      "finding_tips": "全年，于树皮上寻找具锈色疣状子器的地衣。橙褐色颗粒状子器为辨识点。"
+    }
+  },
+  "Brunneifusus ternatanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea Snail",
+    "ja": {
+      "summary": "テングニシ。テングニシ科の大型の巻貝で、殻は紡錘形で長く伸びた水管溝を持つ。暖海の砂泥底に生息し、他の貝を捕食する。食用にもなる。",
+      "habitat_hint": "潮下帯〜浅海の砂泥底。暖海の内湾を好む。",
+      "finding_tips": "浅場の砂泥底で細長い水管溝を持つ大きな巻貝を探します。紡錘形の殻と長い管溝が識別点。"
+    },
+    "en": {
+      "summary": "A large fusiform sea snail with a long siphonal canal, living on sandy-mud bottoms of warm seas where it preys on other shells; also eaten.",
+      "habitat_hint": "Subtidal to shallow sandy-mud bottoms — likes sheltered bays of warm seas.",
+      "finding_tips": "On shallow sandy-mud bottoms look for the large snail with a long siphonal canal. The spindle shape and elongate canal are diagnostic."
+    },
+    "zh": {
+      "summary": "角螺（テングニシ）。角螺科大型螺，壳纺锤形，具长的前沟，栖于暖海砂泥底，捕食他贝，亦可食用。",
+      "habitat_hint": "潮下带至浅海砂泥底。喜暖海内湾。",
+      "finding_tips": "于浅处砂泥底寻找具细长前沟的大型螺。纺锤形壳与长前沟为辨识点。"
+    }
+  },
+  "Bryonoguchia molkenboeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ホンシノブゴケ。シノブゴケ科の蘚類で、規則正しく羽状に分岐した繊細な茎葉を持つ。湿った岩上や地上にマット状に広がる。",
+      "habitat_hint": "山地の湿った岩上、土手、樹幹基部。湿度の高い日陰を好む。",
+      "finding_tips": "通年、羽状に細かく分岐した繊細な蘚のマットを探します。シダを思わせる規則的な分岐が識別点。"
+    },
+    "en": {
+      "summary": "A moss with delicate, regularly pinnate branching that spreads in mats over damp rocks and soil.",
+      "habitat_hint": "Damp mountain rocks, banks and tree bases — likes humid shade.",
+      "finding_tips": "Year-round look for the delicate, fern-like pinnately branched moss mats. The regular pinnate branching is diagnostic."
+    },
+    "zh": {
+      "summary": "羽藓（ホンシノブゴケ）。羽藓科藓类，茎叶纤细规则羽状分枝，于湿润岩面及地表成垫状铺展。",
+      "habitat_hint": "山地湿润岩面、土坡、树基。喜湿度高的阴处。",
+      "finding_tips": "全年，寻找羽状细密分枝的纤细藓垫。似蕨的规则分枝为辨识点。"
+    }
+  },
+  "Buccinum mirandum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "コエゾバイ。エゾバイ科の巻貝で、寒海の砂泥底に生息する。丸みのある殻を持ち、腐肉などを食べる。食用のツブ貝の仲間。",
+      "habitat_hint": "冷海の潮下帯〜やや深い砂泥底。北方の冷たい海を好む。",
+      "finding_tips": "浅場や漁獲物の中で丸みのある中型の巻貝を探します。厚みのある殻と寒海の分布が識別点。"
+    },
+    "en": {
+      "summary": "A whelk of cold-sea sandy-mud bottoms with a rounded shell; a scavenger and one of the edible 'tsubu' whelks.",
+      "habitat_hint": "Subtidal to moderately deep sandy-mud of cold seas — likes northern cold waters.",
+      "finding_tips": "In the shallows or in catches look for the rounded medium whelk. Its solid shell and cold-sea range are the guide."
+    },
+    "zh": {
+      "summary": "小蝦夷峨螺（コエゾバイ）。蛾螺科螺类，栖于寒海砂泥底，壳圆润，食腐肉，为可食用的「螺贝」类之一。",
+      "habitat_hint": "冷海潮下带至稍深砂泥底。喜北方冷水海域。",
+      "finding_tips": "于浅处或渔获中寻找圆润的中型螺。厚实的壳与寒海分布为辨识点。"
+    }
+  },
+  "Calanthe puberula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナツエビネ。ラン科エビネ属の多年草で、夏に淡紫色の花を穂状に咲かせる。山地の湿った林床に生える希少なランで、保護対象となっている。",
+      "habitat_hint": "山地の常緑・落葉樹林の湿った林床。腐植に富む日陰を好む。",
+      "finding_tips": "7〜8月、林床で淡紫色の花穂を探します。夏に咲くエビネはこの種で、花色が識別点。"
+    },
+    "en": {
+      "summary": "A summer-flowering Calanthe orchid bearing spikes of pale-violet flowers, growing on moist woodland floors; a rare, protected species.",
+      "habitat_hint": "Moist floors of evergreen and deciduous mountain forest — likes shaded, humus-rich ground.",
+      "finding_tips": "From July to August look on the forest floor for the pale-violet flower spikes. Being a summer-blooming Calanthe, its flower colour identifies it."
+    },
+    "zh": {
+      "summary": "夏虾脊兰（ナツエビネ）。兰科虾脊兰属多年生草本，夏季开淡紫色花成穗，生于山地湿润林床，为珍稀受保护物种。",
+      "habitat_hint": "山地常绿及落叶林的湿润林床。喜富腐殖质的阴处。",
+      "finding_tips": "7至8月，于林床寻找淡紫色花穗。夏季开花的虾脊兰即此种，花色为辨识点。"
+    }
+  },
+  "Callogobius tanegasimae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goby",
+    "ja": {
+      "summary": "タネハゼ。ハゼ科の小型の海水魚で、頭部に感覚器の隆起線（皮弁）が並ぶ。暖海の岩礁やタイドプールに生息する。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、タイドプール。暖海の岩陰を好む。",
+      "finding_tips": "干潮時、タイドプールや岩の隙間で地味な色の小型ハゼを探します。頭部の隆起線が識別点。"
+    },
+    "en": {
+      "summary": "A small marine goby with rows of sensory ridges on the head, living on warm-sea reefs and in tide pools.",
+      "habitat_hint": "Intertidal to shallow reefs and tide pools — likes crevices of warm seas.",
+      "finding_tips": "At low tide look in tide pools and rock crevices for the small drab goby. The sensory ridges on its head are diagnostic."
+    },
+    "zh": {
+      "summary": "种子岛美虾虎（タネハゼ）。虾虎鱼科小型海水鱼，头部具成列的感觉嵴（皮瓣），栖于暖海岩礁及潮池。",
+      "habitat_hint": "潮间带至浅海岩礁、潮池。喜暖海岩隙。",
+      "finding_tips": "退潮时，于潮池或岩缝寻找体色素净的小虾虎。头部的隆起嵴为辨识点。"
+    }
+  },
+  "Calohypnum sakuraii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "オオベニハイゴケ。ハイゴケの仲間の蘚類で、赤みを帯びた茎を這わせてマット状に広がる。朽木や岩上、地上に生える。",
+      "habitat_hint": "朽木、岩上、林床の地表。湿った樹林を好む。",
+      "finding_tips": "通年、朽木や岩で赤みを帯びた這性のマットを探します。赤い茎と光沢のある葉が識別点。"
+    },
+    "en": {
+      "summary": "A creeping moss forming mats with reddish stems, growing on rotting wood, rocks and soil.",
+      "habitat_hint": "Rotting wood, rocks and forest-floor soil — likes moist woodland.",
+      "finding_tips": "Year-round look on dead wood and rocks for the reddish creeping mats. The red stems and glossy leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "大红灰藓（オオベニハイゴケ）。灰藓类藓，茎带红色匍匐成垫状，生于朽木、岩面及地表。",
+      "habitat_hint": "朽木、岩面、林床地表。喜湿润林间。",
+      "finding_tips": "全年，于朽木岩面寻找带红色的匍匐藓垫。红色茎与具光泽的叶为辨识点。"
+    }
+  },
+  "Calycina citrina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lemon Disco",
+    "ja": {
+      "summary": "ビョウタケ。ズキンタケ科の微小な子嚢菌で、鮮やかな黄色の椀形〜円盤形の子実体を朽木上に多数群生させる。",
+      "habitat_hint": "湿った朽木、落枝。日陰の腐朽材を好む。",
+      "finding_tips": "梅雨〜秋、朽木上に群生する数mmの鮮黄色の椀形のキノコを探します。鮮やかな黄色が識別点。"
+    },
+    "en": {
+      "summary": "A tiny ascomycete (lemon disco) forming numerous bright-yellow cup- to disc-shaped fruit bodies on rotting wood.",
+      "habitat_hint": "Damp rotting wood and fallen branches — likes shaded decaying timber.",
+      "finding_tips": "From the rainy season to autumn look on dead wood for clusters of few-millimetre bright-yellow cups. The vivid yellow colour is diagnostic."
+    },
+    "zh": {
+      "summary": "柠檬黄杯菌（ビョウタケ）。晶杯菌科微小子囊菌，于朽木上群生大量鲜黄色杯形至盘形子实体。",
+      "habitat_hint": "湿润朽木、落枝。喜阴处腐朽材。",
+      "finding_tips": "梅雨至秋，于朽木上寻找群生的数毫米鲜黄杯形菌。鲜艳黄色为辨识点。"
+    }
+  },
+  "Calycina claroflava": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Disco Fungus",
+    "ja": {
+      "summary": "モエギビョウタケ。ズキンタケ科の微小な子嚢菌で、黄緑色〜萌黄色の小さな椀形の子実体を朽木や落枝に群生させる。",
+      "habitat_hint": "湿った朽木、落枝。日陰の腐朽材を好む。",
+      "finding_tips": "梅雨〜秋、朽木上に群生する黄緑色の微小な椀形のキノコを探します。萌黄色の色合いが識別点。"
+    },
+    "en": {
+      "summary": "A tiny ascomycete disco fungus forming clusters of small yellow-green cups on rotting wood and fallen branches.",
+      "habitat_hint": "Damp rotting wood and fallen branches — likes shaded decaying timber.",
+      "finding_tips": "From the rainy season to autumn look on dead wood for the tiny yellow-green cups. The fresh yellow-green colour is diagnostic."
+    },
+    "zh": {
+      "summary": "黄绿杯菌（モエギビョウタケ）。晶杯菌科微小子囊菌，于朽木及落枝上群生黄绿色小杯形子实体。",
+      "habitat_hint": "湿润朽木、落枝。喜阴处腐朽材。",
+      "finding_tips": "梅雨至秋，于朽木上寻找群生的黄绿色微小杯形菌。嫩黄绿色泽为辨识点。"
+    }
+  },
+  "Campanula lasiocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "毛果风铃草"
+    },
+    "ja": {
+      "summary": "イワギキョウ。キキョウ科の多年草で、高山の岩場や礫地に生える。青紫色の鐘形の花を上向きに一つ咲かせる。高山植物の代表種の一つ。",
+      "habitat_hint": "高山帯の岩場、砂礫地。日当たりの良い風衝地を好む。",
+      "finding_tips": "7〜8月、高山の岩場で上向きに咲く青紫の鐘形の花を探します。萼に毛がある点でチシマギキョウと区別する。"
+    },
+    "en": {
+      "summary": "An alpine bellflower growing on high-mountain rocks and gravel, bearing a single upward-facing blue-violet bell — a classic Japanese alpine plant.",
+      "habitat_hint": "Alpine rocks and gravel — likes sunny, wind-exposed sites.",
+      "finding_tips": "From July to August look on alpine rocks for the upward-facing blue-violet bell. Its hairy calyx separates it from the related C. chamissonis."
+    },
+    "zh": {
+      "summary": "毛果风铃草（イワギキョウ）。桔梗科多年生草本，生于高山岩场及砾地，青紫色钟形花单朵上举，为日本代表性高山植物之一。",
+      "habitat_hint": "高山带岩场、砂砾地。喜向阳的风衝地。",
+      "finding_tips": "7至8月，于高山岩场寻找上举的青紫钟形花。萼上有毛可与千岛风铃草区别。"
+    }
+  },
+  "Campylopus sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ヤマトフデゴケ。シッポゴケ科の蘚類で、細長い葉が筆先のように集まって直立する。裸地や岩上、砂質地にクッション状に群生する。",
+      "habitat_hint": "日当たりの良い裸地、岩上、砂質の土手。乾湿の変化する開けた場所を好む。",
+      "finding_tips": "通年、地表で筆先のように尖ったクッション状の群落を探します。乾くと葉が縮れる点が識別点。"
+    },
+    "en": {
+      "summary": "A moss whose slender leaves gather into brush-like erect tufts, forming cushions on bare ground, rock and sandy soil.",
+      "habitat_hint": "Sunny bare ground, rock and sandy banks — likes open sites with alternating wet and dry.",
+      "finding_tips": "Year-round look on the ground for the brush-tipped cushion colonies. The leaves curling when dry are diagnostic."
+    },
+    "zh": {
+      "summary": "中华曲柄藓（ヤマトフデゴケ）。曲尾藓科藓类，细长叶如笔尖聚拢直立，于裸地、岩面及砂地成垫状群生。",
+      "habitat_hint": "向阳裸地、岩面、砂质土坡。喜干湿交替的开阔地。",
+      "finding_tips": "全年，于地表寻找笔尖状的垫状群落。干燥时叶片卷缩为辨识点。"
+    }
+  },
+  "Cantharidus callichrous": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top Shell",
+    "ja": {
+      "summary": "ハナチグサ。ニシキウズ科の小型の巻貝で、円錐形の殻に美しい斑や光沢を持つ。海藻の茂る潮間帯の岩礁に生息する。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、藻場。海藻の生える岩上を好む。",
+      "finding_tips": "干潮時、海藻上や岩の表面で光沢のある円錐形の小さな巻貝を探します。美しい殻色と円錐形が識別点。"
+    },
+    "en": {
+      "summary": "A small conical top shell with beautiful patterning and sheen, living on seaweed-covered intertidal reefs.",
+      "habitat_hint": "Intertidal to shallow reefs and algal beds — likes rock with seaweed.",
+      "finding_tips": "At low tide look on seaweed and rock surfaces for the small glossy conical shell. The beautiful shell colour and cone shape are diagnostic."
+    },
+    "zh": {
+      "summary": "丽色马蹄螺（ハナチグサ）。马蹄螺科小型螺，壳圆锥形具美丽斑纹与光泽，栖于海藻繁茂的潮间带岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁、藻场。喜生海藻的岩面。",
+      "finding_tips": "退潮时，于海藻及岩面寻找具光泽的圆锥形小螺。美丽的壳色与圆锥形为辨识点。"
+    }
+  },
+  "Cantharidus hirasei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top Shell",
+    "ja": {
+      "summary": "ミドリチグサ。ニシキウズ科の小型の巻貝で、緑色の光沢を帯びた円錐形の殻を持つ。海藻の茂る潮間帯の岩礁に生息する。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、藻場。海藻の生える岩上を好む。",
+      "finding_tips": "干潮時、海藻上で緑がかった光沢のある小さな巻貝を探します。緑色の殻の光沢が識別点。"
+    },
+    "en": {
+      "summary": "A small conical top shell with a greenish iridescent shell, living on seaweed-covered intertidal reefs.",
+      "habitat_hint": "Intertidal to shallow reefs and algal beds — likes rock with seaweed.",
+      "finding_tips": "At low tide look on seaweed for the small greenish glossy shell. Its green iridescence is diagnostic."
+    },
+    "zh": {
+      "summary": "绿马蹄螺（ミドリチグサ）。马蹄螺科小型螺，壳圆锥形带绿色光泽，栖于海藻繁茂的潮间带岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁、藻场。喜生海藻的岩面。",
+      "finding_tips": "退潮时，于海藻上寻找带绿色光泽的小螺。绿色壳的光泽为辨识点。"
+    }
   }
 }
