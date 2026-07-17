@@ -258090,5 +258090,580 @@
       "habitat_hint": "喜稻田、池沼、灌渠及湿地等静水至缓流淡水域，偏好水草丰富处。",
       "finding_tips": "于水草或水底寻扁平盘旋的微小螺。壳扁平旋卷为最大辨识要点；相似小型淡水螺众多，宜用放大镜确认。"
     }
+  },
+  "Halgerda tessellata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "网纹哈氏海牛"
+    },
+    "ja": {
+      "summary": "モザイクウミウシ。西太平洋の暖海に分布するイロウミウシ類に近いドーリス型のウミウシ。白い地に、背の稜（りょう）に沿って黄色い線と黒い斑が網目状（モザイク）に走る鮮やかな体色をもつ。海綿を食べる。",
+      "habitat_hint": "潮下帯〜浅海の岩礁やサンゴ礁。餌の海綿が付着する岩やサンゴの上。",
+      "finding_tips": "岩やサンゴ上を這う、白地に黄色い稜線と黒斑が網目状に入る扁平なウミウシを探す。背の隆起した稜と網目模様が識別点。ダイビングで人気。"
+    },
+    "en": {
+      "summary": "Mozaiku-umiushi. A dorid sea slug of the warm western Pacific, close to the Chromodorididae. Its vivid pattern runs yellow lines and black spots in a mosaic along the dorsal ridges on a white ground. It feeds on sponges.",
+      "habitat_hint": "Rocky and coral reefs from the subtidal into shallow water — on rock and coral where its food sponges grow.",
+      "finding_tips": "Look for a flat sea slug with a mosaic of yellow ridge-lines and black spots on white creeping over rock or coral. The raised dorsal ridges and mosaic pattern identify it; a diver's favourite."
+    },
+    "zh": {
+      "summary": "网纹哈氏海牛（モザイクウミウシ），暖海多彩海牛型海蛞蝓，分布于西太平洋。白底上沿背脊具黄线与黑斑成网状（马赛克），体色鲜艳。食海绵。",
+      "habitat_hint": "栖于潮下带至浅海岩礁、珊瑚礁，居附生食物海绵的岩面与珊瑚上。",
+      "finding_tips": "于岩石、珊瑚上寻白底具黄脊线与黑斑网纹的扁平海蛞蝓。隆起背脊与网纹即为辨识要点；潜水观赏热门。"
+    }
+  },
+  "Haliotis varia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Variable Abalone",
+    "aliases": {
+      "zh-Hans": "杂色鲍"
+    },
+    "ja": {
+      "summary": "イボアナゴウ。南日本〜インド太平洋の暖海に分布するミミガイ科の小型のアワビ（トコブシに近い仲間）。殻は楕円形で、表面にいぼ状の突起や不規則なひだがあり、殻に沿って呼吸のための穴（孔）が数個並ぶ。",
+      "habitat_hint": "潮間帯下部〜浅海の岩礁やサンゴ礁。岩の隙間や転石の下に張りつく。",
+      "finding_tips": "岩の隙間に張りつく、いぼ状突起のある小型のアワビ型の貝を探す。殻縁に沿って並ぶ数個の呼吸孔が識別点。トコブシより小さくいぼが目立つ。"
+    },
+    "en": {
+      "summary": "Ibo-anago (variable abalone). A small abalone (family Haliotidae) found in warm seas from southern Japan through the Indo-Pacific. Its oval shell bears warty tubercles and irregular folds, with a row of a few respiratory holes along the margin.",
+      "habitat_hint": "Rocky and coral reefs from the lower intertidal into shallow water — clinging in crevices and under cobbles.",
+      "finding_tips": "In rock crevices look for a small warty abalone-shaped shell. The row of a few respiratory holes along the shell margin identifies it; it is smaller and wartier than the tokobushi abalone."
+    },
+    "zh": {
+      "summary": "杂色鲍（イボアナゴウ），鲍科小型鲍（近盘鲍类），分布于南日本至印度太平洋暖海。壳椭圆，表面具疣突与不规则褶，壳缘沿列数个呼吸孔。",
+      "habitat_hint": "栖于潮间带下部至浅海岩礁、珊瑚礁，贴附于岩隙与石下。",
+      "finding_tips": "于岩隙寻具疣突的小型鲍形贝。壳缘沿列数个呼吸孔即为辨识要点；较盘鲍小且疣突明显。"
+    }
+  },
+  "Hamamelis mollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Witch Hazel",
+    "aliases": {
+      "zh-Hans": "金缕梅"
+    },
+    "ja": {
+      "summary": "シナマンサク。中国原産で日本にも植栽されるマンサク科マンサク属の落葉小高木。早春、葉が出る前に、細いリボン状の黄色い花弁をもつ香りのよい花を咲かせる。マンサクより花が大きく香りが強く、葉裏に毛が多い。",
+      "habitat_hint": "庭園、公園、植物園などに観賞用として植えられる。日当たり〜半日陰のやや湿った土を好む。",
+      "finding_tips": "早春（1〜3月）、まだ寒いうちに枝いっぱいに咲く、細いリボン状の黄色い花が最大の特徴。よい香りがすること、枯れ葉が枝に残りやすいことも手がかり。"
+    },
+    "en": {
+      "summary": "Shina-mansaku (Chinese witch hazel). A deciduous small tree of the family Hamamelidaceae, native to China and planted in Japan. In early spring, before the leaves, it opens fragrant flowers with slender ribbon-like yellow petals; its flowers are larger and more scented than the Japanese witch hazel, with hairier leaf undersides.",
+      "habitat_hint": "Planted as an ornamental in gardens, parks and botanical gardens; it likes sun to part-shade and somewhat moist soil.",
+      "finding_tips": "In early spring (Jan–Mar), while it is still cold, the branches full of slender ribbon-like yellow flowers are the key feature. Its good scent and the dead leaves that cling to the twigs are further clues."
+    },
+    "zh": {
+      "summary": "金缕梅（シナマンサク），金缕梅科金缕梅属落叶小乔木，原产中国，日本亦栽植。早春先叶开放芳香花，花瓣黄色细带状；较日本金缕梅（満作）花大香浓、叶背多毛。",
+      "habitat_hint": "作观赏植于庭园、公园及植物园，喜阳光至半阴的略湿土壤。",
+      "finding_tips": "早春（1至3月）尚寒时满枝开放的细带状黄花为最大特征。芳香、枯叶常宿存枝上亦为线索。"
+    }
+  },
+  "Harpa harpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "True Harp Shell",
+    "aliases": {
+      "zh-Hans": "竖琴螺"
+    },
+    "ja": {
+      "summary": "ベニオビショクコウラ。インド太平洋の暖海に分布するショクコウラ科の巻貝。殻には竪琴（ハープ）の弦のように整然と並ぶ縦の肋（じくろく）があり、その間に紅色〜褐色の帯模様が入る。砂底にすみ、カニなどを捕らえて食べる肉食貝。",
+      "habitat_hint": "潮下帯〜浅海の砂底、砂礫底。暖かい海の砂の中に潜って暮らす。",
+      "finding_tips": "竪琴の弦のように規則正しく並ぶ縦肋と、紅色の帯模様をもつ美しい殻が最大の識別点。砂底性という生息環境も手がかり。危険を感じると足の一部を自切する。"
+    },
+    "en": {
+      "summary": "Beniobi-shokokoura (true harp shell). A gastropod of the family Harpidae found in the warm Indo-Pacific. Its shell has neat axial ribs like harp strings, with reddish-to-brown bands between them. It lives in sandy bottoms and preys on crabs and the like.",
+      "habitat_hint": "Sandy and gravelly bottoms from the subtidal into shallow water — buried in the sand of warm seas.",
+      "finding_tips": "The regular axial ribs like harp strings and the reddish banding on the beautiful shell are the key marks. Its sandy-bottom habitat is another clue; it can shed part of its foot when threatened."
+    },
+    "zh": {
+      "summary": "竖琴螺（ベニオビショクコウラ），竖琴螺科海螺，分布于印度太平洋暖海。壳具如竖琴弦般整齐的纵肋，肋间嵌红至褐色带纹。栖砂底，捕食蟹类等，为肉食性贝。",
+      "habitat_hint": "栖于潮下带至浅海砂底、砂砾底，潜于暖海砂中生活。",
+      "finding_tips": "如竖琴弦般规则的纵肋与红色带纹之美壳为最大辨识要点。砂底生境亦为线索；遇险时可自切足部。"
+    }
+  },
+  "Hawaiia minuscula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Minute Gem",
+    "aliases": {
+      "zh-Hans": "微小拟锥螺"
+    },
+    "ja": {
+      "summary": "ヒメコハクガイ。世界に広く分布する微小な陸生の巻貝（コハクガイ科近縁）。殻は平たく円盤状に巻き、半透明で淡い琥珀（こはく）色をおびる。殻径は2mmほどと非常に小さい。落ち葉や石の下の湿った環境にすむ。",
+      "habitat_hint": "庭、畑、林の落ち葉の下、石の下、湿った土の上など。人里の撹乱地にも広く分布する。",
+      "finding_tips": "微小なため、落ち葉や表土をふるいにかけて探す。平たく円盤状に巻いた半透明の琥珀色の殻が識別点。世界中に移入して広がっている。"
+    },
+    "en": {
+      "summary": "Hime-kohaku-gai (minute gem). A minute land snail (near the family Pristilomatidae) of worldwide distribution. Its shell is coiled flat as a disc, translucent and pale amber (kohaku), and only about 2 mm across. It lives in damp places under leaf litter and stones.",
+      "habitat_hint": "Gardens, fields, under woodland leaf litter and stones, and on damp soil — widespread even in disturbed inhabited places.",
+      "finding_tips": "Being minute, sieve leaf litter and topsoil to find it. The flat disc-coiled, translucent amber shell is diagnostic; it has spread worldwide as an introduction."
+    },
+    "zh": {
+      "summary": "微小拟锥螺（ヒメコハクガイ），微型陆生螺（近琥珀螺科），世界广布。壳扁平旋卷如盘，半透明呈淡琥珀色，壳径仅约2毫米。栖于落叶、石下等湿润处。",
+      "habitat_hint": "喜庭园、农田、林内落叶下、石下及湿土等，广布于人居扰动地。",
+      "finding_tips": "因微小，宜筛检落叶与表土寻找。扁平盘旋、半透明琥珀色壳即为辨识要点；已随人为传播至世界各地。"
+    }
+  },
+  "Heikeopsis japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Heike Crab",
+    "aliases": {
+      "zh-Hans": "平家蟹"
+    },
+    "ja": {
+      "summary": "ヘイケガニ。日本近海に分布するヘイケガニ科の小型のカニ。甲の表面の凹凸が、怒った人の顔（能面）のように見えることで有名で、壇ノ浦で滅んだ平家の亡霊になぞらえた伝説がある。後ろの2対の脚で貝殻などを背負う習性をもつ。",
+      "habitat_hint": "内湾〜浅海の砂泥底。やや泥がちの海底で、貝殻や木片を背負って身を隠す。",
+      "finding_tips": "甲の凹凸が人の顔のように見えることが最大の識別点。後ろの脚で貝殻などを背負う独特の習性も手がかり。底引き網などで見つかる小型のカニ。"
+    },
+    "en": {
+      "summary": "Heike-gani (Heike crab). A small crab of the family Dorippidae found in Japanese coastal waters. Famous for the carapace ridges that resemble an angry human face (a Noh mask), it is linked in legend to the ghosts of the Heike clan who perished at Dan-no-ura. It carries shells and debris on its back with its two rear pairs of legs.",
+      "habitat_hint": "Sandy-mud bottoms from inner bays into shallow water; on somewhat muddy seabed it hides beneath a carried shell or piece of wood.",
+      "finding_tips": "The face-like ridges of the carapace are the key mark. Its habit of carrying a shell with the rear legs is another clue; a small crab found in bottom trawls."
+    },
+    "zh": {
+      "summary": "平家蟹（ヘイケガニ），关公蟹科小型蟹类，分布于日本近海。甲面凹凸如人怒容（能面），因而闻名，传说附会为坛之浦覆灭的平家亡魂。以后两对足背负贝壳等物藏身。",
+      "habitat_hint": "栖于内湾至浅海砂泥底，于略泥海底背负贝壳、木片藏身。",
+      "finding_tips": "甲面凹凸似人脸为最大辨识要点。以后足背负贝壳的独特习性亦为线索；为底拖网可获的小型蟹。"
+    }
+  },
+  "Helicorthomorpha holstii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "霍氏带马陆"
+    },
+    "ja": {
+      "summary": "ホルストネジアシヤスデ。日本に分布するオビヤスデ科のヤスデ（多足類）。体は多数の体節からなり、各節の側方に張り出す部分（側板）があって平たく見える。落ち葉や朽木を食べて分解する土壌動物。刺激すると防御物質を出す。",
+      "habitat_hint": "林床の落ち葉の下、朽木、石の下、湿った腐植の多い土壌など。湿った林内を好む。",
+      "finding_tips": "落ち葉や朽木をどけると現れる、平たく側板が張り出した細長いヤスデを探す。刺激すると丸まったり、独特のにおいのある防御物質を出すことが手がかり。"
+    },
+    "en": {
+      "summary": "Horusuto-nejiashi-yasude. A millipede of the family Paradoxosomatidae found in Japan. Its body of many segments looks flattened thanks to the side plates (paranota) projecting from each segment. A soil animal, it eats and breaks down leaf litter and rotten wood, releasing defensive chemicals when disturbed.",
+      "habitat_hint": "Under woodland leaf litter, rotten wood and stones, and in damp humus-rich soil — moist woodland.",
+      "finding_tips": "Turn litter or rotten wood to find a slender, flattened millipede with projecting side plates. When disturbed it may coil and release smelly defensive chemicals — a useful clue."
+    },
+    "zh": {
+      "summary": "霍氏带马陆（ホルストネジアシヤスデ），带马陆科马陆（多足类），分布于日本。体多节，各节侧方具突出侧板故显扁平。为分解落叶朽木的土壤动物，受扰释放防御物质。",
+      "habitat_hint": "喜林床落叶下、朽木、石下及湿润腐殖土等湿润林内。",
+      "finding_tips": "翻落叶或朽木寻扁平、侧板突出的细长马陆。受扰时卷曲或释放具特殊气味的防御物质即为线索。"
+    }
+  },
+  "Helotropha leucostigma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "The Crescent",
+    "aliases": {
+      "zh-Hans": "白点秆夜蛾"
+    },
+    "ja": {
+      "summary": "ショウブオオヨトウ。ユーラシアに広く分布するヤガ科の中型のガ。前翅は褐色〜赤褐色で、腎状紋の一部が白く目立つ（白斑）ことが特徴。幼虫はショウブ（菖蒲）やガマなど湿地の抽水植物の茎に潜って食べる。",
+      "habitat_hint": "湿地、池沼のふち、河川敷、水田周辺など、幼虫の食草となる水生植物の生える場所。",
+      "finding_tips": "夏〜秋、夜間の灯火に飛来する。褐色〜赤褐色の前翅と、腎状紋の一部が白く目立つ点が識別点。湿地に多いことも手がかり。"
+    },
+    "en": {
+      "summary": "Shobu-oo-yotou (the crescent). A medium noctuid moth widespread across Eurasia. Its forewings are brown to reddish-brown, with part of the kidney mark standing out white. Larvae bore into the stems of wetland emergent plants such as sweet flag (shobu) and reedmace.",
+      "habitat_hint": "Wetlands, pond margins, riverbanks and paddy surrounds — where its aquatic host plants grow.",
+      "finding_tips": "Summer to autumn it comes to light at night. The brown-to-reddish forewing with a white part to the kidney mark identifies it; its abundance in wetlands is another clue."
+    },
+    "zh": {
+      "summary": "白点秆夜蛾（ショウブオオヨトウ），夜蛾科中型蛾类，广布于欧亚。前翅褐至红褐，肾形纹部分呈白色而醒目（白斑）。幼虫钻食菖蒲、香蒲等湿地挺水植物茎干。",
+      "habitat_hint": "喜湿地、池沼边缘、河滩及稻田周边等寄主水生植物生长处。",
+      "finding_tips": "夏至秋季夜间趋光。褐至红褐前翅、肾形纹部分显白即为辨识要点；多见于湿地亦为线索。"
+    }
+  },
+  "Hemarthria compressa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "扁穗牛鞭草"
+    },
+    "ja": {
+      "summary": "コバノウシノシッペイ。本州〜南西諸島、東アジアに分布するイネ科ウシノシッペイ属の多年草。細く扁平な花穂が、鞭（むち）のようにまっすぐ伸びることが仲間の特徴。ウシノシッペイより葉が小さい（小葉）ことが和名の由来。",
+      "habitat_hint": "水辺、湿った草地、田のあぜ、河川敷など、日当たりのよいやや湿った場所。",
+      "finding_tips": "細く扁平で鞭のようにまっすぐな花穂を手がかりにする。小穂が花軸のくぼみに埋まるように並ぶことと、ウシノシッペイより小型の葉が識別点。"
+    },
+    "en": {
+      "summary": "Kobano-ushino-shippei. A perennial grass (genus Hemarthria) found from Honshu to the Ryukyus and across East Asia. Its slender, flattened flower-spikes run out straight like a whip, as typical of the genus; its smaller leaves (kobano) distinguish it from Hemarthria sibirica.",
+      "habitat_hint": "Watersides, damp grassland, paddy banks and riverbanks — sunny, somewhat moist ground.",
+      "finding_tips": "The slender, flattened, whip-straight flower-spike is the clue. The spikelets set as if sunk into hollows of the spike axis, and the smaller leaves, identify it."
+    },
+    "zh": {
+      "summary": "扁穗牛鞭草（コバノウシノシッペイ），禾本科牛鞭草属多年生草本，分布于本州至西南诸岛及东亚。细扁花穗如鞭般直伸，为本属特征；叶较小（小叶）为和名由来。",
+      "habitat_hint": "喜水边、湿润草地、田埂及河滩等向阳略湿处。",
+      "finding_tips": "以细扁如鞭直伸的花穗为线索。小穗嵌于花轴凹陷排列、叶较小即为辨识要点。"
+    }
+  },
+  "Hemerocallis yezoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "虾夷萱草"
+    },
+    "ja": {
+      "summary": "エゾキスゲ。北海道〜本州北部に分布するツルボラン科（旧ユリ科）ワスレグサ属の多年草。初夏、レモンイエローのラッパ形の花を咲かせ、夕方から咲いて翌朝しぼむ。キスゲ（夕菅）の仲間で、よい香りがある。",
+      "habitat_hint": "海岸の草地、山地の湿った草原、林縁など、日当たりのよいやや湿った場所。北方に多い。",
+      "finding_tips": "夏、夕方に開くレモンイエローの香りのよいラッパ形の花を手がかりにする。花が夕方から翌朝までの一日花であること、細長い葉が根元から出ることが識別点。"
+    },
+    "en": {
+      "summary": "Ezo-kisuge. A perennial daylily (genus Hemerocallis) found from Hokkaido to northern Honshu. In early summer it opens lemon-yellow trumpet flowers that bloom from evening and fade by next morning. A relative of the night lily, it is fragrant.",
+      "habitat_hint": "Coastal grassland, damp mountain meadows and woodland edges — sunny, somewhat moist ground; common in the north.",
+      "finding_tips": "In summer the fragrant lemon-yellow trumpet flowers opening in the evening are the clue. Each flower lasts only from evening to next morning, and the long leaves rise from the base — both identifiers."
+    },
+    "zh": {
+      "summary": "虾夷萱草（エゾキスゲ），阿福花科（旧百合科）萱草属多年生草本，分布于北海道至本州北部。初夏开柠檬黄喇叭形花，傍晚开翌晨谢。为黄花菜（夕菅）近亲，具香气。",
+      "habitat_hint": "喜海岸草地、山地湿润草原及林缘等向阳略湿处，北方多见。",
+      "finding_tips": "夏季以傍晚开放、柠檬黄且芳香的喇叭形花为线索。花为傍晚至翌晨的一日花、细长叶自基部生即为辨识要点。"
+    }
+  },
+  "Herminium lanceum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "叉唇角盘兰"
+    },
+    "ja": {
+      "summary": "ムカゴソウ。本州〜九州、東アジアに分布するラン科ムカゴソウ属の多年草。細い花茎に、緑色〜黄緑色の小さな花を穂状に多数つける。目立たない地味なランで、湿った草地に生える。",
+      "habitat_hint": "山地〜低地の湿った草地、湿原、明るい林縁など、日当たりのよい湿った場所。",
+      "finding_tips": "夏、細い花茎に緑〜黄緑色の小さな花が穂状に密につく姿を探す。花が地味で目立たないこと、湿地に生えることが識別点。数を減らしている地域もある。"
+    },
+    "en": {
+      "summary": "Mukago-so. A perennial orchid (genus Herminium) found from Honshu to Kyushu and across East Asia. Slender flower-stalks bear many small green to yellow-green flowers in a spike. An inconspicuous, plain orchid of damp grassland.",
+      "habitat_hint": "Damp grassland, mires and bright woodland edges from the hills to the lowlands — sunny, moist ground.",
+      "finding_tips": "In summer look for slender stalks packed with small green-to-yellow-green flowers in a spike. Its plain, inconspicuous flowers and wetland habitat identify it; it is declining in some regions."
+    },
+    "zh": {
+      "summary": "叉唇角盘兰（ムカゴソウ），兰科角盘兰属多年生草本，分布于本州至九州及东亚。细花茎穗状密生绿至黄绿色小花。为不显眼的朴素兰花，生于湿润草地。",
+      "habitat_hint": "喜山地至低地湿润草地、湿原及明亮林缘等向阳湿润处。",
+      "finding_tips": "夏季寻细花茎穗状密生的绿至黄绿色小花。花朴素不显、生于湿地即为辨识要点；部分地区数量减少。"
+    }
+  },
+  "Hermissenda emurai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "江村美蓑海牛"
+    },
+    "ja": {
+      "summary": "エムラミノウミウシ。日本沿岸に分布するミノウミウシ類（コヤナギウミウシ科近縁）のウミウシ。半透明の体の背に、青い光沢の線と橙色を帯びた突起（ミノ／セラタ）が並ぶ美しい種。ヒドロ虫やイソギンチャクを食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石の下、海藻の上。餌となるヒドロ虫が付着する場所。",
+      "finding_tips": "半透明の体に青い光沢の線が走り、橙色を帯びたミノが背に並ぶ姿が識別点。ヒドロ虫の群体の近くを探すと見つかりやすい。"
+    },
+    "en": {
+      "summary": "Emura-mino-umiushi. An aeolid sea slug of Japanese coasts (near the family Facelinidae). A beautiful species whose translucent body carries blue-glossed lines and orange-tinged cerata along the back. It eats hydroids and sea anemones.",
+      "habitat_hint": "Rocky reefs, under cobbles and on algae from the intertidal into shallow water — where its food hydroids grow.",
+      "finding_tips": "The translucent body with blue-glossed lines and rows of orange-tinged cerata is diagnostic. It is most easily found near hydroid colonies."
+    },
+    "zh": {
+      "summary": "江村美蓑海牛（エムラミノウミウシ），蓑海牛类（面蓑海牛科近缘），分布于日本沿岸。半透明体背具蓝色光泽线与带橙色的角突（蓑），甚美。食水螅与海葵。",
+      "habitat_hint": "栖于潮间带至浅海岩礁、石下及海藻上，居附生食物水螅处。",
+      "finding_tips": "半透明体具蓝光泽线、背列带橙色角突即为辨识要点。于水螅群体附近搜寻较易发现。"
+    }
+  },
+  "Hiloa variabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "红染织纹螺"
+    },
+    "ja": {
+      "summary": "ベニバイ。南日本〜インド太平洋の暖海に分布するムシロガイ科（またはエゾバイ類近縁）の小型の巻貝。殻は紡錘形で、紅色〜赤褐色をおびることが和名（紅蛽）の由来。砂底にすみ、腐肉などを食べる。",
+      "habitat_hint": "潮下帯〜浅海の砂底、砂礫底。暖かい海の砂の中や表面を這う。",
+      "finding_tips": "紡錘形で紅色を帯びた小型の巻貝を探す。殻の色が紅〜赤褐色であること、砂底性であることが識別点。打ち上げの貝殻から見つかることも多い。"
+    },
+    "en": {
+      "summary": "Benibai. A small gastropod of the family Nassariidae (a whelk relative) found in warm seas from southern Japan through the Indo-Pacific. Its fusiform shell is tinged red to red-brown, the source of its name ('red whelk'). It lives in sandy bottoms and scavenges carrion.",
+      "habitat_hint": "Sandy and gravelly bottoms from the subtidal into shallow water — creeping in and over the sand of warm seas.",
+      "finding_tips": "Look for a small fusiform snail tinged red. Its red-to-red-brown colour and sandy-bottom habit identify it; it is often found among beach shells."
+    },
+    "zh": {
+      "summary": "红染织纹螺（ベニバイ），织纹螺科（蛾螺近缘）小型海螺，分布于南日本至印度太平洋暖海。壳纺锤形，带红至红褐，为和名（红蛽）由来。栖砂底，食腐肉。",
+      "habitat_hint": "栖于潮下带至浅海砂底、砂砾底，于暖海砂中或砂面爬行。",
+      "finding_tips": "寻纺锤形、带红的小型螺。壳呈红至红褐、砂底习性即为辨识要点；常于冲上贝壳中发现。"
+    }
+  },
+  "Himeropteryx miraculosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "黄缺舟蛾"
+    },
+    "ja": {
+      "summary": "キエグリシャチホコ。日本に分布するシャチホコガ科のガ。前翅の外縁が黄色く、その一部がえぐれたように切れ込む（キエグリ＝黄抉り）ことが和名の由来。止まると腹端を反り上げるシャチホコガ特有の姿勢をとる。",
+      "habitat_hint": "低山地〜山地の林縁、雑木林、樹木の多い環境。幼虫は広葉樹の葉を食べる。",
+      "finding_tips": "夏、夜間の灯火に飛来する。前翅外縁の黄色い部分が切れ込んで見える翅形が識別点。止まると腹の先を反らせるシャチホコ独特の姿勢も手がかり。"
+    },
+    "en": {
+      "summary": "Kieguri-shachihoko. A prominent moth of the family Notodontidae found in Japan. The outer margin of its forewing is yellow and notched as if cut away (kieguri, 'yellow-notched'), the source of its name. At rest it cocks up the tip of its abdomen in the classic prominent-moth posture.",
+      "habitat_hint": "Woodland edges, coppice and wooded settings from the low hills into the mountains; larvae feed on broadleaf foliage.",
+      "finding_tips": "In summer it comes to light at night. The notched-looking yellow outer forewing margin is the mark; the cocked-up abdomen tip at rest is another clue."
+    },
+    "zh": {
+      "summary": "黄缺舟蛾（キエグリシャチホコ），舟蛾科蛾类，分布于日本。前翅外缘黄色，部分凹缺如被切（黄抉り），为和名由来。停息时翘起腹端，呈舟蛾特有姿势。",
+      "habitat_hint": "喜低山至山地林缘、杂木林及多树环境，幼虫取食阔叶树叶。",
+      "finding_tips": "夏季夜间趋光。前翅外缘黄色部分凹缺的翅形即为辨识要点；停息翘腹端亦为线索。"
+    }
+  },
+  "Homoeocerus pallidulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "淡缘广蝽缘蝽"
+    },
+    "ja": {
+      "summary": "シロヘリハラビロヘリカメムシ。日本に分布するヘリカメムシ科のカメムシ。腹部が幅広く（ハラビロ）、体の縁（ヘリ）が白っぽい（シロヘリ）ことが和名の由来。緑褐色〜褐色の体をもち、マメ科などの植物の汁を吸う。",
+      "habitat_hint": "草地、林縁、河川敷、畑地の周辺など、マメ科やイネ科の草が茂る環境。",
+      "finding_tips": "夏〜秋、草むらで緑褐色〜褐色の平たいカメムシを探す。腹部が幅広く、体の縁が白っぽく見えることが識別点。近縁のハラビロヘリカメムシより縁が淡い。"
+    },
+    "en": {
+      "summary": "Shiroheri-harabiro-herikamemushi. A leaf-footed bug of the family Coreidae found in Japan. Its broad abdomen (harabiro) and the whitish edge (shiroheri) of the body give its name. Green-brown to brown, it sucks the sap of legumes and other plants.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks and field margins — places thick with legumes and grasses.",
+      "finding_tips": "Summer to autumn look for a flat green-brown-to-brown bug in the grass. The broad abdomen and the whitish body edge identify it; the edge is paler than in the related Homoeocerus dilatatus."
+    },
+    "zh": {
+      "summary": "淡缘广蝽缘蝽（シロヘリハラビロヘリカメムシ），缘蝽科蝽，分布于日本。腹宽（腹広）、体缘偏白（白缘）为和名由来。体绿褐至褐，吸食豆科等植物汁液。",
+      "habitat_hint": "喜草地、林缘、河滩及农地周边等豆科、禾本科草丛环境。",
+      "finding_tips": "夏至秋季于草丛寻绿褐至褐色的扁平蝽。腹宽、体缘偏白即为辨识要点；缘较近缘种更淡。"
+    }
+  },
+  "Hovenia trichocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "毛果枳椇"
+    },
+    "ja": {
+      "summary": "ケケンポナシ。本州〜九州、東アジアに分布するクロウメモドキ科ケンポナシ属の落葉高木。ケンポナシに似るが、果実（果柄）や若枝に毛が多い（ケ＝毛）ことが和名の由来。花後に肥大して肉質になる果柄は甘く食べられる。",
+      "habitat_hint": "山地の谷筋、沢沿い、林縁など、やや湿り気のある肥沃な場所。",
+      "finding_tips": "秋、こぶ状にねじれて肥大した果柄（甘く食べられる）を手がかりにする。果実や若枝に毛が多いことがケンポナシとの識別点。大きな卵形の葉も特徴。"
+    },
+    "en": {
+      "summary": "Ke-kenponashi. A deciduous tree of the buckthorn family (genus Hovenia) found from Honshu to Kyushu and across East Asia. Resembling Hovenia dulcis but with hairier fruit-stalks and young twigs (ke, 'hairy'), the source of its name. The fleshy swollen fruit-stalks are sweet and edible.",
+      "habitat_hint": "Valley bottoms, streamsides and woodland edges in the hills — somewhat moist, fertile ground.",
+      "finding_tips": "In autumn the knobbly, twisted, swollen fruit-stalks (sweet and edible) are the clue. The hairier fruit and young twigs separate it from Hovenia dulcis; the large ovate leaves are also distinctive."
+    },
+    "zh": {
+      "summary": "毛果枳椇（ケケンポナシ），鼠李科枳椇属落叶乔木，分布于本州至九州及东亚。似枳椇但果（果柄）与嫩枝多毛（毛），为和名由来。花后膨大肉质的果柄味甜可食。",
+      "habitat_hint": "喜山地谷地、溪畔及林缘等略湿肥沃处。",
+      "finding_tips": "秋季以瘤状扭曲膨大的果柄（甜可食）为线索。果与嫩枝多毛即与枳椇的辨识要点；大卵形叶亦为特征。"
+    }
+  },
+  "Hoya carnosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wax Plant",
+    "aliases": {
+      "zh-Hans": "球兰"
+    },
+    "ja": {
+      "summary": "サクララン。南西諸島〜東〜東南アジアに分布するキョウチクトウ科（旧ガガイモ科）サクララン属の常緑つる性植物。厚く多肉質で光沢のある葉をもち、初夏、桜色〜白の星形の小花を半球状に多数まとめて咲かせる。花はろう細工のような質感。",
+      "habitat_hint": "暖地の樹上や岩上に着生、または海岸林・照葉樹林の林縁。観賞用の鉢植えとしても栽培される。",
+      "finding_tips": "厚く多肉で光沢のある葉と、半球状に集まって咲くろう質の星形の小花（桜色）が最大の特徴。つる性で他の木や岩に着生すること、花の中心が赤いことも手がかり。"
+    },
+    "en": {
+      "summary": "Sakura-ran (wax plant). An evergreen climber of the family Apocynaceae (formerly Asclepiadaceae; genus Hoya) found from the Ryukyus across East and Southeast Asia. Its thick, fleshy, glossy leaves accompany early-summer clusters of many cherry-pink to white star-shaped flowers in a hemisphere, with a waxy texture.",
+      "habitat_hint": "Epiphytic on trees and rock in warm regions, or at the edges of coastal and evergreen broadleaf forest; also grown as a potted ornamental.",
+      "finding_tips": "The thick fleshy glossy leaves and the hemispherical clusters of waxy pink star-flowers are the key features. Its climbing, epiphytic habit and the red flower centre are further clues."
+    },
+    "zh": {
+      "summary": "球兰（サクララン），夹竹桃科（旧萝藦科）球兰属常绿藤本，分布于西南诸岛至东、东南亚。叶厚肉质而有光泽，初夏半球状聚生多数樱粉至白色星形小花，质如蜡制。",
+      "habitat_hint": "于暖地附生树上或岩上，或生于海岸林、照叶林缘；亦作观赏盆栽。",
+      "finding_tips": "厚肉质光泽叶与半球状聚生的蜡质星形粉花为最大特征。藤本附生、花心红色亦为线索。"
+    }
+  },
+  "Huperzia miyoshiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "东北石松"
+    },
+    "ja": {
+      "summary": "ヒメスギラン。北海道〜本州の高山・亜高山と北半球の寒帯に分布するヒカゲノカズラ科（トウゲシバ属／コスギラン属）のシダ植物。杉の葉のような細い葉を密につけた小さな直立茎をもつ。胞子でふえる原始的なシダの仲間。",
+      "habitat_hint": "高山〜亜高山の岩の隙間、湿った岩壁、コケの間、針葉樹林の林床など、冷涼で湿った場所。",
+      "finding_tips": "杉に似た細い葉を密につけた、小型で直立する株を探す。葉のわきに無性芽（むかご）をつけて繁殖することがあり、高山という生育環境が識別の助け。"
+    },
+    "en": {
+      "summary": "Hime-sugiran. A clubmoss (genus Huperzia) of the family Lycopodiaceae found in the alpine and subalpine zones from Hokkaido to Honshu and across the Northern Hemisphere's cold zone. It has small erect stems densely clad in fine cedar-like leaves; a primitive fern-ally reproducing by spores.",
+      "habitat_hint": "Rock crevices, damp rock walls, among mosses and the floor of conifer forest in the alpine-to-subalpine zone — cool, moist places.",
+      "finding_tips": "Look for a small erect plant densely set with fine cedar-like leaves. It may reproduce by gemmae (bulbils) in the leaf axils, and its alpine habitat helps to identify it."
+    },
+    "zh": {
+      "summary": "东北石松（ヒメスギラン），石松科（石杉属）蕨类植物，分布于北海道至本州高山、亚高山及北半球寒带。小型直立茎密生似杉的细叶，为以孢子繁殖的原始蕨类近亲。",
+      "habitat_hint": "喜高山至亚高山岩缝、湿润岩壁、苔藓间及针叶林床等冷凉湿润处。",
+      "finding_tips": "寻密生似杉细叶的小型直立株。叶腋常生无性芽（珠芽）繁殖，高山生境有助鉴别。"
+    }
+  },
+  "Hydnophora exesa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Horn Coral",
+    "aliases": {
+      "zh-Hans": "刺柄珊瑚"
+    },
+    "ja": {
+      "summary": "イボサンゴ。インド太平洋の暖海に分布するハマサンゴ目（ヒユサンゴ科）の造礁サンゴ。群体の表面に、円錐形〜こぶ状の突起（イボ）が多数並ぶことが和名の由来。突起の間に無数のポリプが分布する。",
+      "habitat_hint": "サンゴ礁の礁斜面や礁池、潮下帯の岩礁。暖かい浅い海の、光がよく届く場所。",
+      "finding_tips": "群体表面に円錐形〜こぶ状のいぼが密に並ぶ塊状〜被覆状のサンゴを探す。突起の並ぶ独特の表面が識別点。造礁サンゴなので採取は避ける。"
+    },
+    "en": {
+      "summary": "Ibo-sango (horn coral). A reef-building coral (family Merulinidae) of the warm Indo-Pacific. Many conical to knob-like projections (ibo, 'warts') stud the colony surface, the source of its name, with countless polyps between them.",
+      "habitat_hint": "Reef slopes, reef pools and subtidal rock — sunlit places in warm, shallow seas.",
+      "finding_tips": "Look for a massive-to-encrusting coral with dense conical-to-knobby projections over the surface. The projection-studded surface is the mark; as a reef-builder it should not be collected."
+    },
+    "zh": {
+      "summary": "刺柄珊瑚（イボサンゴ），滨珊瑚目（枇杷珊瑚科）造礁珊瑚，分布于印度太平洋暖海。群体表面密布圆锥至瘤状突起（疣），为和名由来，突起间遍布众多水螅体。",
+      "habitat_hint": "栖于珊瑚礁斜面、礁池及潮下带岩礁，居温暖浅海阳光充足处。",
+      "finding_tips": "寻群体表面密布圆锥至瘤状突起的块状至被覆状珊瑚。突起密布的独特表面即为辨识要点；为造礁珊瑚，勿采集。"
+    }
+  },
+  "Hydrangea platyarguta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "梅花甘茶"
+    },
+    "ja": {
+      "summary": "バイカアマチャ。関東〜近畿の太平洋側の山地に分布するアジサイ科アジサイ属の落葉低木。日本固有で、初夏、白い装飾花が梅（バイカ）に似た形をなすことが和名の由来。葉を乾かして甘茶（あまちゃ）を作ることができる。",
+      "habitat_hint": "山地の谷筋、渓流沿い、湿った林床など、やや湿り気があり半日陰の場所。",
+      "finding_tips": "初夏、白い装飾花が梅の花のように見える花序を手がかりにする。両性花のまわりに数個の装飾花がつくこと、葉に甘味成分があることが識別点。分布が限られる希少種。"
+    },
+    "en": {
+      "summary": "Baika-amacha. A deciduous shrub of the hydrangea family (genus Hydrangea) found in the Pacific-side mountains from the Kanto to Kinki regions. Endemic to Japan, its white sterile flowers form a plum-blossom (baika) shape in early summer, the source of its name; a sweet tea (amacha) can be made from the dried leaves.",
+      "habitat_hint": "Valley bottoms, streamsides and damp forest floor in the hills — somewhat moist, part-shaded ground.",
+      "finding_tips": "In early summer the plum-blossom-like white sterile flowers are the clue. The few sterile flowers around the fertile ones and the sweet compound in the leaves identify it; a rare species of limited range."
+    },
+    "zh": {
+      "summary": "梅花甘茶（バイカアマチャ），绣球科绣球属落叶灌木，分布于关东至近畿太平洋侧山地。日本特有，初夏白色装饰花形似梅花（梅花），为和名由来；叶干制可作甜茶（甘茶）。",
+      "habitat_hint": "喜山地谷地、溪畔及湿润林床等略湿的半阴处。",
+      "finding_tips": "初夏以白色装饰花似梅花之花序为线索。两性花周围着生数枚装饰花、叶含甜味成分即为辨识要点；分布狭窄，为稀有种。"
+    }
+  },
+  "Hydrangea sikokiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "四国绣球"
+    },
+    "ja": {
+      "summary": "ヤハズアジサイ。本州（近畿以西）〜九州の山地に分布するアジサイ科アジサイ属の落葉低木。日本固有で、葉の先が矢筈（やはず＝矢の末端）のように2つに切れ込むことが和名の由来。夏、白い装飾花のある花序を平らに開く。",
+      "habitat_hint": "山地の谷筋、渓流沿い、湿った林床や崖など、やや湿り気があり半日陰の場所。",
+      "finding_tips": "葉の先が矢筈のように2つに割れる独特の形が最大の識別点。夏、両性花のまわりに白い装飾花がつく平らな花序を開く。渓流沿いに多い。"
+    },
+    "en": {
+      "summary": "Yahazu-ajisai. A deciduous shrub of the hydrangea family (genus Hydrangea) found in the mountains from western Honshu (Kinki westward) to Kyushu. Endemic to Japan, its leaf tips are notched into two like a bowstring-notch (yahazu), the source of its name. In summer it opens a flat cluster with white sterile flowers.",
+      "habitat_hint": "Valley bottoms, streamsides, damp forest floor and cliffs in the hills — somewhat moist, part-shaded ground.",
+      "finding_tips": "The distinctive leaf tips notched into two like an arrow-nock are the key mark. In summer it opens a flat cluster with white sterile flowers around the fertile ones; common along streams."
+    },
+    "zh": {
+      "summary": "四国绣球（ヤハズアジサイ），绣球科绣球属落叶灌木，分布于本州（近畿以西）至九州山地。日本特有，叶端二裂如矢筈（箭尾缺口），为和名由来。夏季开具白色装饰花的扁平花序。",
+      "habitat_hint": "喜山地谷地、溪畔及湿润林床、崖地等略湿的半阴处。",
+      "finding_tips": "叶端二裂如箭尾的独特形态为最大辨识要点。夏季开两性花周围具白色装饰花的扁平花序；多见于溪畔。"
+    }
+  },
+  "Hydrelia flammeolaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Yellow Wave",
+    "aliases": {
+      "zh-Hans": "焰纹波尺蛾"
+    },
+    "ja": {
+      "summary": "キヒメナミシャク。ユーラシアに広く分布するシャクガ科ナミシャク亜科の小型のガ。翅は淡黄色（キ＝黄）の地に、細かな橙褐色の波状の横線が走る。幼虫はカエデ類やハンノキなどの葉を食べる尺取虫。",
+      "habitat_hint": "低山地〜山地の林縁、雑木林、渓流沿いの林など、樹木の多い環境。",
+      "finding_tips": "初夏、夜間の灯火に飛来する。淡黄色の地に橙褐色の波状横線が入る小さな翅が識別点。止まると翅を平らに開く。"
+    },
+    "en": {
+      "summary": "Ki-hime-nami-shaku (small yellow wave). A small geometer moth (subfamily Larentiinae) widespread across Eurasia. Its wings are pale yellow (ki) crossed by fine orange-brown wavy lines. The inchworm larva feeds on maple, alder and similar foliage.",
+      "habitat_hint": "Woodland edges, coppice and streamside woods from the low hills into the mountains — wooded settings.",
+      "finding_tips": "In early summer it comes to light at night. The small pale-yellow wings crossed by orange-brown wavy lines identify it; at rest it holds the wings flat."
+    },
+    "zh": {
+      "summary": "焰纹波尺蛾（キヒメナミシャク），尺蛾科花尺蛾亚科小型蛾类，广布于欧亚。翅淡黄（黄）底具细橙褐色波状横线。幼虫为取食枫、桤木等叶的尺蠖。",
+      "habitat_hint": "喜低山至山地林缘、杂木林及溪畔林等多树环境。",
+      "finding_tips": "初夏夜间趋光。淡黄底具橙褐波状横线的小翅即为辨识要点；停息时平展双翅。"
+    }
+  },
+  "Hyphear tanakae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "田中桑寄生"
+    },
+    "ja": {
+      "summary": "ホザキヤドリギ。本州〜九州、東アジアに分布するオオバヤドリギ科（ヤドリギ類）の半寄生の常緑低木。他の樹木の枝に寄生して根（吸盤）を食い込ませ、養分を得る。小さな花や果実が穂状（ホザキ）につくことが和名の由来。",
+      "habitat_hint": "山地の落葉広葉樹などの樹上。ブナ科やカバノキ科などの枝に寄生する。",
+      "finding_tips": "冬、落葉した木の枝に緑の常緑の株が球状につく姿を探す。花や果実が穂状に並ぶこと、他の木の枝に寄生していることが識別点。ヤドリギより葉が小さい。"
+    },
+    "en": {
+      "summary": "Hozaki-yadorigi. A hemiparasitic evergreen shrub of the family Loranthaceae (a mistletoe) found from Honshu to Kyushu and across East Asia. It parasitises the branches of other trees, sinking haustoria in for nutrients. Its small flowers and fruits are borne in spikes (hozaki), the source of its name.",
+      "habitat_hint": "On the branches of deciduous broadleaf and other mountain trees; it parasitises oaks, birches and the like.",
+      "finding_tips": "In winter look for an evergreen green clump globed on the bare branches of a leafless tree. The spike-borne flowers and fruits and its parasitic habit identify it; its leaves are smaller than common mistletoe."
+    },
+    "zh": {
+      "summary": "田中桑寄生（ホザキヤドリギ），桑寄生科（槲寄生类）半寄生常绿灌木，分布于本州至九州及东亚。寄生他树枝条，以吸盘（吸器）吸取养分。花果穗状（穗咲）为和名由来。",
+      "habitat_hint": "生于山地落叶阔叶等树上，寄生于壳斗科、桦木科等枝条。",
+      "finding_tips": "冬季于落叶树枝上寻球状常绿绿株。花果穗状排列、寄生他树枝条即为辨识要点；叶较槲寄生小。"
+    }
   }
 }
