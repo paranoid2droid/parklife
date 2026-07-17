@@ -256290,5 +256290,605 @@
       "habitat_hint": "喜低山至山地林缘、草地及杂木林等草本丰富的环境。",
       "finding_tips": "夏至秋季夜间趋光。前翅带红褐、具肾形与环形纹即与近缘种的辨识要点。"
     }
+  },
+  "Diachea subsessilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "亮发菌"
+    },
+    "ja": {
+      "summary": "マリジクホコリ。世界に広く分布する変形菌（粘菌）の一種。子実体は短い柄の上に球形の子嚢をつけ、外壁が青緑〜虹色の金属光沢に輝くのが特徴。枯れ葉や朽木の上に群がって発生する。",
+      "habitat_hint": "林内の落ち葉、朽木、枯れ枝の上など、湿った有機物の表面。梅雨〜夏の湿った時期に現れる。",
+      "finding_tips": "湿った落ち葉や朽木の上に群生する、金属光沢のある小さな球形の子実体を探す。虹色に輝く外壁が識別点。ルーペがあるとよい。"
+    },
+    "en": {
+      "summary": "Marijiku-hokori. A myxomycete (slime mould) of worldwide distribution. Its fruiting body is a globular sporangium on a short stalk, its wall shimmering with a blue-green to iridescent metallic sheen. It appears in troops on dead leaves and rotten wood.",
+      "habitat_hint": "On leaf litter, rotten wood and dead twigs within woodland — moist organic surfaces; it appears in the damp rainy season and summer.",
+      "finding_tips": "Look for troops of tiny metallic-glossy globular fruiting bodies on damp litter or dead wood. The iridescent wall is diagnostic; a hand lens helps."
+    },
+    "zh": {
+      "summary": "亮发菌（マリジクホコリ），黏菌（变形菌）之一，世界广布。子实体为短柄上的球形孢囊，壁具蓝绿至虹彩金属光泽。常成群发生于枯叶与朽木上。",
+      "habitat_hint": "生于林内落叶、朽木及枯枝等湿润有机物表面，梅雨至夏季湿润期出现。",
+      "finding_tips": "于湿润落叶或朽木上寻成群的微小金属光泽球形子实体。虹彩囊壁即为辨识要点，宜用放大镜。"
+    }
+  },
+  "Dicheirotrichus tenuimanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "黄缘细胫步甲"
+    },
+    "ja": {
+      "summary": "キベリチビゴモクムシ。日本に分布するオサムシ科ゴモクムシ亜科の小型の甲虫。上翅の縁が淡色（黄縁）に縁取られることが和名の由来。地表を歩き回り、植物の種子や小動物を食べる。",
+      "habitat_hint": "河原、海岸、湿った草地、農地周辺など、開けた湿り気のある地面。",
+      "finding_tips": "夜間、地表や石の下を探す。灯火にも飛来する。小型で、上翅の縁が黄色っぽく縁取られること、光沢のある黒褐色の体が識別点。"
+    },
+    "en": {
+      "summary": "Kiberi-chibi-gomokumushi. A small ground beetle (subfamily Harpalinae) of Japan. The pale (yellow) border to its elytra gives its name. It roams the ground surface, eating plant seeds and small animals.",
+      "habitat_hint": "Riverbanks, coasts, damp grassland and field margins — open, moist ground.",
+      "finding_tips": "At night search the ground surface and under stones; it also comes to light. Its small size, the yellowish border to the elytra and the glossy blackish-brown body identify it."
+    },
+    "zh": {
+      "summary": "黄缘细胫步甲（キベリチビゴモクムシ），步甲科婪步甲亚科小型甲虫，分布于日本。鞘翅缘镶浅色（黄缘），为和名由来。于地表活动，取食植物种子与小动物。",
+      "habitat_hint": "喜河滩、海岸、湿润草地及农地周边等开阔湿润地面。",
+      "finding_tips": "夜间于地表、石下寻找，亦趋光。体小、鞘翅缘黄边、体黑褐有光泽即为辨识要点。"
+    }
+  },
+  "Dideoides latus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "宽宽腹蚜蝇"
+    },
+    "ja": {
+      "summary": "ヨコジマオオヒラタアブ。日本に分布するハナアブ科の中〜大型のアブ。腹部が幅広く平たく、黒地に黄色い横縞（ヨコジマ）模様をもつことが和名の由来。成虫は花に集まり、ハチに擬態する。",
+      "habitat_hint": "低山地〜山地の林縁、草地、花の多い環境。成虫は各種の花で吸蜜する。",
+      "finding_tips": "春〜秋、花の上でホバリングする幅広く平たい体のアブを探す。黒地に黄色い横縞、平らな腹部が識別点。ハチに似るが刺さない。"
+    },
+    "en": {
+      "summary": "Yokojima-ohirata-abu. A medium-to-large hoverfly of the family Syrphidae found in Japan. Its broad, flattened abdomen is marked with yellow cross-bands (yokojima) on black, the source of its name. Adults gather at flowers and mimic bees.",
+      "habitat_hint": "Woodland edges, grassland and flowery places from the low hills into the mountains; adults nectar at many flowers.",
+      "finding_tips": "Spring–autumn look for a broad flat-bodied hoverfly hovering over flowers. The yellow cross-bands on black and the flattened abdomen identify it; it mimics a bee but cannot sting."
+    },
+    "zh": {
+      "summary": "横纹宽腹蚜蝇（ヨコジマオオヒラタアブ），食蚜蝇科中至大型食蚜蝇，分布于日本。腹宽而扁平、黑底具黄色横纹（横缟），为和名由来。成虫访花，拟态蜂类。",
+      "habitat_hint": "喜低山至山地林缘、草地及多花环境，成虫于各种花上吸蜜。",
+      "finding_tips": "春至秋季于花上寻悬停的宽扁体食蚜蝇。黑底黄横纹、扁平腹部即为辨识要点；似蜂而不螫。"
+    }
+  },
+  "Didymium clavus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "钉头绒泡菌"
+    },
+    "ja": {
+      "summary": "ナバカタホコリ。世界に広く分布する変形菌（粘菌）の一種。子実体は細い柄の上に扁平な円盤〜クッション状の子嚢をのせ、表面が石灰質の白い粉におおわれる。枯れ葉や朽木上に群生する。",
+      "habitat_hint": "林内の落ち葉、朽木、草の枯れ茎の上など、湿った有機物の表面。梅雨〜秋の湿った時期。",
+      "finding_tips": "湿った落ち葉の上に立つ、白い粉をまとった扁平な子実体を探す。細い柄と円盤状の子嚢が識別点。近縁のコカタホコリより子嚢がやや平たい。"
+    },
+    "en": {
+      "summary": "Nabakata-hokori. A myxomycete of worldwide distribution. Its fruiting body sets a flat disc-to-cushion-shaped sporangium on a slender stalk, the surface dusted with white lime. It grows in troops on dead leaves and rotten wood.",
+      "habitat_hint": "On leaf litter, rotten wood and dead herb stems in woodland — moist organic surfaces, in the rainy season through autumn.",
+      "finding_tips": "Look on damp litter for the flat, lime-dusted white fruiting bodies on slender stalks. The disc-shaped sporangium is the mark; it is somewhat flatter than the related Didymium minus."
+    },
+    "zh": {
+      "summary": "钉头绒泡菌（ナバカタホコリ），黏菌之一，世界广布。子实体于细柄上托扁平圆盘至垫状孢囊，表面覆白色石灰质粉末。成群生于枯叶与朽木上。",
+      "habitat_hint": "生于林内落叶、朽木及枯茎等湿润有机物表面，梅雨至秋季湿润期。",
+      "finding_tips": "于湿润落叶上寻覆白粉的扁平子实体。细柄与盘状孢囊即为辨识要点；孢囊较近缘的小型种略扁。"
+    }
+  },
+  "Didymium minus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "小绒泡菌"
+    },
+    "ja": {
+      "summary": "コカタホコリ。世界に広く分布する変形菌（粘菌）の一種。ナバカタホコリに似るが子実体がより小さく、球形〜半球形の子嚢を白い石灰の粉でおおう。落ち葉や朽木の上に群生する。",
+      "habitat_hint": "林内の落ち葉、朽木、枯れ枝の上など、湿った有機物の表面。梅雨〜秋の湿った時期。",
+      "finding_tips": "湿った落ち葉の上の、白い粉をまとった小さな球形の子実体を探す。ナバカタホコリより小さく子嚢が丸いことが識別点。"
+    },
+    "en": {
+      "summary": "Kokata-hokori. A myxomycete of worldwide distribution. Resembling Didymium clavus but with a smaller fruiting body, it covers a globular to hemispherical sporangium with white lime powder. It grows in troops on dead leaves and rotten wood.",
+      "habitat_hint": "On leaf litter, rotten wood and dead twigs in woodland — moist organic surfaces, in the rainy season through autumn.",
+      "finding_tips": "Look on damp litter for small, lime-dusted globular fruiting bodies. Its smaller size and rounder sporangium separate it from D. clavus."
+    },
+    "zh": {
+      "summary": "小绒泡菌（コカタホコリ），黏菌之一，世界广布。似钉头绒泡菌但子实体较小，球形至半球形孢囊覆白色石灰粉。成群生于枯叶与朽木上。",
+      "habitat_hint": "生于林内落叶、朽木及枯枝等湿润有机物表面，梅雨至秋季湿润期。",
+      "finding_tips": "于湿润落叶上寻覆白粉的小型球形子实体。体较钉头绒泡菌小、孢囊较圆即为辨识要点。"
+    }
+  },
+  "Diogenes edwardsii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "爱氏活额寄居蟹"
+    },
+    "ja": {
+      "summary": "トゲツノヤドカリ。日本〜インド太平洋の沿岸に分布するヤドカリ科（ツノヤドカリ類）のヤドカリ。左のはさみが右より大きく、はさみや脚にとげと毛をもつ。額の間に突き出す角状の突起（額角）が名の由来。",
+      "habitat_hint": "潮間帯〜浅海の砂底、砂泥底、干潟。巻貝の空き殻を宿にして砂地を歩き回る。",
+      "finding_tips": "干潟や浅い砂底で、巻貝の殻を背負って動く個体を探す。左のはさみが大きいこと、はさみや脚にとげと毛があることが識別点。"
+    },
+    "en": {
+      "summary": "Toge-tsuno-yadokari. A hermit crab of the family Diogenidae found along coasts from Japan through the Indo-Pacific. Its left claw is larger than the right, and the claws and legs bear spines and hairs; the horn-like projection between the eyes gives its name.",
+      "habitat_hint": "Sandy and sandy-mud bottoms and tidal flats from the intertidal into shallow water; it roams the sand in a borrowed snail shell.",
+      "finding_tips": "On flats or shallow sand look for individuals moving about in a snail shell. The larger left claw and the spines and hairs on claws and legs identify it."
+    },
+    "zh": {
+      "summary": "爱氏活额寄居蟹（トゲツノヤドカリ），活额寄居蟹科寄居蟹，分布于日本至印度太平洋沿岸。左螯大于右螯，螯足具刺与毛；额间角状突起为名称由来。",
+      "habitat_hint": "栖于潮间带至浅海砂底、砂泥底及滩涂，背负螺壳于砂地行走。",
+      "finding_tips": "于滩涂、浅砂寻背负螺壳移动的个体。左螯较大、螯足具刺与毛即为辨识要点。"
+    }
+  },
+  "Diospyros maritima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coastal Ebony",
+    "aliases": {
+      "zh-Hans": "滨柿"
+    },
+    "ja": {
+      "summary": "リュウキュウガキ。南西諸島〜東南アジアに分布するカキノキ科カキノキ属の常緑小高木。厚い革質の葉をもち、秋に黄橙色に熟す小さな果実をつける。海岸近くの林に生え、材や染料に利用される。",
+      "habitat_hint": "暖地の海岸林、石灰岩地の林、照葉樹林など。潮風の当たる沿岸の温暖な森。",
+      "finding_tips": "厚く光沢のある革質の葉と、秋に黄橙色に熟す小さなカキ状の果実を手がかりにする。雌雄異株で、海岸性という生育環境も識別点。"
+    },
+    "en": {
+      "summary": "Ryukyu-gaki (coastal ebony). An evergreen small tree of the ebony family (genus Diospyros) found from the Ryukyus into Southeast Asia. It has thick leathery leaves and small fruits ripening yellow-orange in autumn, growing in coastal woods and used for timber and dye.",
+      "habitat_hint": "Coastal woods, limestone forest and evergreen broadleaf forest in warm regions — mild seaside forest touched by salt wind.",
+      "finding_tips": "The thick glossy leathery leaves and the small persimmon-like fruits ripening yellow-orange in autumn are the clues. It is dioecious, and its coastal habitat also helps."
+    },
+    "zh": {
+      "summary": "滨柿（リュウキュウガキ），柿科柿属常绿小乔木，分布于西南诸岛至东南亚。叶厚革质，秋季结黄橙色小果，生于海岸附近林地，材与果可作木料及染料。",
+      "habitat_hint": "喜暖地海岸林、石灰岩地林及照叶林等受海风的温暖沿岸森林。",
+      "finding_tips": "以厚而有光泽的革质叶及秋熟黄橙的柿状小果为线索。雌雄异株、海岸生境亦为辨识要点。"
+    }
+  },
+  "Diplazium conterminum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "边生双盖蕨"
+    },
+    "ja": {
+      "summary": "ニセコクモウクジャク。本州〜南西諸島、東アジアに分布するメシダ科（ヘラシダ属／ノコギリシダ属）の常緑性のシダ。2回羽状に細かく分かれた葉をもち、コクモウクジャクに似るがやや異なる。湿った林床に生える。",
+      "habitat_hint": "山地の谷筋、沢沿い、湿った常緑樹林の林床など、日陰で湿り気のある場所。",
+      "finding_tips": "2回羽状に細裂した葉と、葉裏の細長い胞子嚢群（ソーラス）を手がかりにする。コクモウクジャクとの区別は羽片の切れ込みや軸の様子を確認する。"
+    },
+    "en": {
+      "summary": "Nise-kokumo-kujaku. An evergreen fern of the family Athyriaceae (genus Diplazium) found from Honshu to the Ryukyus and across East Asia. Its bipinnately divided fronds resemble those of Diplazium virescens but differ slightly. It grows on damp forest floor.",
+      "habitat_hint": "Valley bottoms, streamsides and the floor of damp evergreen forest in the hills — shaded, moist ground.",
+      "finding_tips": "The finely bipinnate fronds and the elongate sori on the frond undersides are the clues; check the pinna incision and the rachis to separate it from related Diplazium."
+    },
+    "zh": {
+      "summary": "边生双盖蕨（ニセコクモウクジャク），蹄盖蕨科（双盖蕨属）常绿蕨类，分布于本州至西南诸岛及东亚。叶二回羽状细裂，似黑毛双盖蕨而略异，生于湿润林床。",
+      "habitat_hint": "喜山地谷地、溪畔及湿润常绿林床等阴湿处。",
+      "finding_tips": "以二回羽状细裂之叶及叶背长形孢子囊群为线索；羽片缺刻与叶轴状态可与近缘种区分。"
+    }
+  },
+  "Discina ancilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pig's Ear",
+    "aliases": {
+      "zh-Hans": "盘状马鞍菌"
+    },
+    "ja": {
+      "summary": "フクロシトネタケ。北半球の温帯に分布するノボリリュウタケ科の子嚢菌。子実体は皿〜浅い袋状で、内側（上面）は褐色でしわがあり、外側は淡色。春、針葉樹林などの地上や朽木の近くに発生する。",
+      "habitat_hint": "針葉樹林や混交林の林床、朽木のそば、腐植の多い地面。春に発生する。",
+      "finding_tips": "春、地上に生える皿〜袋状で褐色にしわのある子実体を探す。上面のしわと浅い袋状の形が識別点。よく似た有毒種があるため食用は避ける。"
+    },
+    "en": {
+      "summary": "Fukuro-shitonetake (pig's ear). An ascomycete of the family Discinaceae found in Northern-Hemisphere temperate zones. Its fruiting body is a dish-to-shallow-cup shape, brown and wrinkled inside (upper surface) and paler outside, appearing in spring on the ground or near rotten wood in conifer forest.",
+      "habitat_hint": "Floor of conifer and mixed forest, near rotten wood and on humus-rich ground; it fruits in spring.",
+      "finding_tips": "In spring look on the ground for the dish-to-cup-shaped, brown wrinkled fruiting body. The wrinkled upper surface and shallow cup shape are the marks; avoid eating, as there are toxic look-alikes."
+    },
+    "zh": {
+      "summary": "盘状马鞍菌（フクロシトネタケ），马鞍菌科子囊菌，分布于北半球温带。子实体呈盘至浅袋状，内面（上面）褐色具皱、外面色浅，春季发生于针叶林地上或朽木附近。",
+      "habitat_hint": "喜针叶林、混交林林床、朽木旁及腐殖丰富的地面，春季发生。",
+      "finding_tips": "春季于地上寻盘至袋状、褐色具皱的子实体。上面皱褶与浅袋形即为辨识要点；有毒似种存在，勿食。"
+    }
+  },
+  "Discodoris cebuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "宿务盘海牛"
+    },
+    "ja": {
+      "summary": "ムラクモウミウシ。西太平洋の暖海に分布するイロウミウシ類に近いドーリス型のウミウシ。扁平な体の背面に、群雲（むらくも）のような灰褐色のまだら模様が広がることが和名の由来。背に多数の細かな突起をもつ。",
+      "habitat_hint": "潮下帯〜浅海の岩礁やサンゴ礁。餌となる海綿が付着する岩の表面や転石の下。",
+      "finding_tips": "岩やサンゴの上を這う、扁平で群雲状のまだら模様をもつウミウシを探す。背面の細かな突起と、後端の羽状のえら（鰓）が識別点。"
+    },
+    "en": {
+      "summary": "Murakumo-umiushi. A dorid sea slug of the warm western Pacific. Its flattened body carries a grey-brown mottling like drifting cloud-banks (murakumo) over the back, the source of its name, with many fine tubercles on the surface.",
+      "habitat_hint": "Rocky and coral reefs from the subtidal into shallow water — rock surfaces and under cobbles where its food sponges grow.",
+      "finding_tips": "Look for a flattened sea slug with cloud-bank mottling creeping on rock or coral. The fine dorsal tubercles and the plume of gills at the rear identify it."
+    },
+    "zh": {
+      "summary": "宿务盘海牛（ムラクモウミウシ），暖海多彩海牛型海蛞蝓，分布于西太平洋。体扁平，背面具如群云的灰褐斑纹，为和名由来；背有多数细突起。",
+      "habitat_hint": "栖于潮下带至浅海岩礁、珊瑚礁，居附生食物海绵的岩面与石下。",
+      "finding_tips": "于岩石、珊瑚上寻扁平、具群云状斑纹的海蛞蝓。背面细突起与后端羽状鳃即为辨识要点。"
+    }
+  },
+  "Ditrichum pallidum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "黄丝牛毛藓"
+    },
+    "ja": {
+      "summary": "キンシゴケ。日本各地〜世界に広く分布するキンシゴケ科の蘚類。細い茎に針状の葉を密につけ、胞子体の柄（さく柄）が細く黄色〜金色に輝いて群立することが和名（金糸苔）の由来。",
+      "habitat_hint": "裸地、道端の土手、崩れた斜面、痩せた土の上など、日当たりのよい撹乱された地面。",
+      "finding_tips": "春、地面に金色の細い柄（さく柄）が林立する群落を探す。針状の細い葉と、黄金色に光る胞子体の柄が識別点。"
+    },
+    "en": {
+      "summary": "Kinshigoke. A moss of the family Ditrichaceae, widespread across Japan and the world. Fine needle-like leaves clothe the slender stems, and the thin spore-capsule stalks (setae) rise in troops with a yellow-gold shine — the source of its name ('gold-thread moss').",
+      "habitat_hint": "Bare ground, roadside banks, eroded slopes and thin poor soil — sunny disturbed ground.",
+      "finding_tips": "In spring look for colonies with fine golden setae standing in a forest on the soil. The needle-like leaves and the golden-shining capsule stalks are the marks."
+    },
+    "zh": {
+      "summary": "黄丝牛毛藓（キンシゴケ），牛毛藓科蘚类，广布于日本各地及世界。细茎密生针状叶，孢蒴柄细而黄金光泽成丛直立，为和名「金丝苔」由来。",
+      "habitat_hint": "喜裸地、路旁土坡、崩塌斜面及贫瘠薄土等向阳扰动地面。",
+      "finding_tips": "春季于地面寻金色细蒴柄林立的群落。针状细叶与金黄闪光的孢蒴柄即为辨识要点。"
+    }
+  },
+  "Ditrichum rhynchostegium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "喙萼牛毛藓"
+    },
+    "ja": {
+      "summary": "ベニエキンシゴケ。日本に分布するキンシゴケ科の蘚類。キンシゴケに似るが、胞子体の柄が赤みを帯びる（紅柄＝ベニエ）ことが和名の由来。細い針状の葉を茎に密につけ、地上に群生する。",
+      "habitat_hint": "裸地、崩壊地、道端の土手、痩せた土の上など、日当たりのよい撹乱された地面。",
+      "finding_tips": "地面に赤みを帯びた細い柄（さく柄）が立ち上がる群落を探す。針状の葉と、キンシゴケより赤い胞子体の柄が識別点。"
+    },
+    "en": {
+      "summary": "Benie-kinshigoke. A moss of the family Ditrichaceae found in Japan. It resembles Ditrichum pallidum but the spore-capsule stalk is reddish, hence its name ('red-stalked gold-thread moss'). Fine needle-like leaves densely clothe the stems, and it grows in troops on the ground.",
+      "habitat_hint": "Bare ground, eroded sites, roadside banks and thin poor soil — sunny disturbed ground.",
+      "finding_tips": "Look for colonies with reddish setae rising from the soil. The needle-like leaves and the redder capsule stalks (versus D. pallidum) are the marks."
+    },
+    "zh": {
+      "summary": "喙萼牛毛藓（ベニエキンシゴケ），牛毛藓科蘚类，分布于日本。似黄丝牛毛藓，但孢蒴柄带红（红柄），为和名由来。细针状叶密生于茎，成群生于地上。",
+      "habitat_hint": "喜裸地、崩塌地、路旁土坡及贫瘠薄土等向阳扰动地面。",
+      "finding_tips": "于地面寻带红细蒴柄直立的群落。针状叶与较黄丝牛毛藓更红的蒴柄即为辨识要点。"
+    }
+  },
+  "Dolabrifera dolabrifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Warty Sea Cat",
+    "aliases": {
+      "zh-Hans": "斧壳海兔"
+    },
+    "ja": {
+      "summary": "ビワガタナメクジ。世界の暖海に広く分布するアメフラシ科の一種。体は扁平で幅広く、後方がすぼまって琵琶（ビワ）のような形をしていることが和名の由来。背面に多数のいぼ状突起があり、岩に張りつく。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、タイドプール、サンゴ礁の礁池。岩の表面や隙間で藻類を食べる。",
+      "finding_tips": "干潮時、岩の表面や隙間に張りつく、扁平で琵琶形のいぼ状突起をもつ体を探す。刺激すると紫色の液を出すこともある。"
+    },
+    "en": {
+      "summary": "Biwagata-namekuji (warty sea cat). A sea hare (family Aplysiidae) widespread in warm seas. Its body is flat and broad, tapering behind into a biwa (lute) shape that gives its name; the back is set with many warty tubercles, and it clings to rock.",
+      "habitat_hint": "Rocky shores, tide pools and reef pools from the intertidal to subtidal; it grazes algae on rock surfaces and in crevices.",
+      "finding_tips": "At low tide look on rock surfaces and in crevices for the flat, lute-shaped warty body clinging to rock. It may release a purple fluid when disturbed."
+    },
+    "zh": {
+      "summary": "斧壳海兔（ビワガタナメクジ），海兔科之一，广布于世界暖海。体扁平而宽，后方收窄呈琵琶形，为和名由来；背面多疣状突起，贴附于岩。",
+      "habitat_hint": "栖于潮间带至潮下带岩礁、潮池及礁池，于岩面与缝隙摄食藻类。",
+      "finding_tips": "退潮时于岩面、缝隙寻扁平琵琶形、具疣突之体。受扰时或释出紫色液体。"
+    }
+  },
+  "Dolerosomus gracilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "黄翅细叩甲"
+    },
+    "ja": {
+      "summary": "キバネホソコメツキ。日本に分布するコメツキムシ科の細長い甲虫。上翅が黄色〜黄褐色（黄翅＝キバネ）で、体が細長い（細＝ホソ）ことが和名の由来。ひっくり返ると胸を跳ねて起き上がるコメツキ特有の習性をもつ。",
+      "habitat_hint": "低山地〜山地の林縁、草地、雑木林。成虫は葉上や花で見られ、幼虫（針金虫）は土中や朽木にすむ。",
+      "finding_tips": "初夏〜夏、葉上や下草をすくって探す。黄色い上翅と細長い体形が識別点。押さえると跳ねる習性もコメツキらしい手がかり。"
+    },
+    "en": {
+      "summary": "Kibane-hoso-kometsuki. A slender click beetle of the family Elateridae found in Japan. Its yellow to yellow-brown elytra (kibane, 'yellow wings') and slender body (hoso, 'slim') give its name. It shows the click beetle's trick of snapping its thorax to right itself when overturned.",
+      "habitat_hint": "Woodland edges, grassland and coppice from the low hills into the mountains; adults on foliage and flowers, wireworm larvae in soil and rotten wood.",
+      "finding_tips": "Early summer to summer, sweep foliage and undergrowth to find it. The yellow elytra and slender body identify it; the jumping click when pressed is another clue."
+    },
+    "zh": {
+      "summary": "黄翅细叩甲（キバネホソコメツキ），叩甲科细长甲虫，分布于日本。鞘翅黄至黄褐（黄翅）、体细长（细），为和名由来。具叩甲弹胸翻身之习性。",
+      "habitat_hint": "喜低山至山地林缘、草地及杂木林，成虫见于叶面与花，幼虫（金针虫）栖于土中与朽木。",
+      "finding_tips": "初夏至夏季扫网叶面与下草寻找。黄色鞘翅、细长体形即为辨识要点；按压弹跳亦为叩甲线索。"
+    }
+  },
+  "Doriopsis granulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "颗粒多角海牛"
+    },
+    "ja": {
+      "summary": "キイロクシエラウミウシ。西太平洋の暖海に分布するドーリス型のウミウシ。体は鮮やかな黄色で、背面には細かな粒状の突起が密にある。後端に櫛（くし）状のえら（鰓）をもつことが和名の由来。海綿を食べる。",
+      "habitat_hint": "潮下帯〜浅海の岩礁やサンゴ礁。餌の海綿が付く岩の表面や転石の下。",
+      "finding_tips": "岩やサンゴ上を這う、鮮黄色で粒状突起のあるウミウシを探す。後端の櫛状のえらと、鮮やかな黄色が識別点。"
+    },
+    "en": {
+      "summary": "Kiiro-kushiera-umiushi. A dorid sea slug of the warm western Pacific. Its body is a vivid yellow densely set with fine granular tubercles, and the comb-like gills (kushiera) at the rear give its name. It feeds on sponges.",
+      "habitat_hint": "Rocky and coral reefs from the subtidal into shallow water — rock surfaces and under cobbles where food sponges grow.",
+      "finding_tips": "Look for a vivid yellow, granular-tubercled sea slug creeping on rock or coral. The comb-like rear gills and the bright yellow colour identify it."
+    },
+    "zh": {
+      "summary": "颗粒多角海牛（キイロクシエラウミウシ），暖海多彩海牛型海蛞蝓，分布于西太平洋。体鲜黄，背面密布细颗粒突起，后端具栉状鳃，为和名由来；食海绵。",
+      "habitat_hint": "栖于潮下带至浅海岩礁、珊瑚礁，居附生食物海绵的岩面与石下。",
+      "finding_tips": "于岩石、珊瑚上寻鲜黄、具颗粒突起的海蛞蝓。后端栉状鳃与鲜黄体色即为辨识要点。"
+    }
+  },
+  "Doto pita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "圆瘤枝鳃海牛"
+    },
+    "ja": {
+      "summary": "ヒイラギウミウシ。西太平洋に分布するミノウミウシに近いウミウシ（ドート科）。背に並ぶ突起（背側突起／セラタ）にこぶ状のふくらみが並び、その形がヒイラギの葉のとげを思わせることが和名の由来。ヒドロ虫を食べる。",
+      "habitat_hint": "潮下帯〜浅海の岩礁。餌となるヒドロ虫（クラゲの仲間の群体）が付着する岩や海藻の上。",
+      "finding_tips": "ヒドロ虫の群体の上を探すと見つかりやすい。背に並ぶこぶ状突起（セラタ）の連なりが識別点。体は数ミリと小さいのでルーペがあるとよい。"
+    },
+    "en": {
+      "summary": "Hiiragi-umiushi. A sea slug of the family Dotidae (an aeolid relative) found in the western Pacific. The rows of dorsal cerata carry knob-like swellings whose look recalls the spines of holly (hiiragi) leaves, the source of its name. It feeds on hydroids.",
+      "habitat_hint": "Rocky reefs from the subtidal into shallow water — on rock and algae where its food hydroids (colonial cnidarians) grow.",
+      "finding_tips": "It is most easily found by searching over hydroid colonies. The rows of knobby cerata down the back are diagnostic; being only a few millimetres, a hand lens helps."
+    },
+    "zh": {
+      "summary": "圆瘤枝鳃海牛（ヒイラギウミウシ），枝鳃海牛科（蓑海牛近缘）海蛞蝓，分布于西太平洋。背侧突起（角突）具瘤状膨大，形似冬青（柊）叶刺，为和名由来；食水螅。",
+      "habitat_hint": "栖于潮下带至浅海岩礁，居附生食物水螅（群体刺胞动物）的岩面与海藻上。",
+      "finding_tips": "于水螅群体上搜寻较易发现。背部成列瘤状角突即为辨识要点；体仅数毫米，宜用放大镜。"
+    }
+  },
+  "Dryopteris simasakii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "岛崎鳞毛蕨"
+    },
+    "ja": {
+      "summary": "ヌカイタチシダマガイ。本州〜九州、東アジアに分布するオシダ科オシダ属の常緑性のシダ。ヌカイタチシダに似るが異なる（マガイ＝紛い）ことが和名の由来。2回羽状に分かれた葉をもち、葉柄基部に褐色の鱗片が多い。",
+      "habitat_hint": "低山地〜山地の常緑樹林や混交林の林床、林縁、やや湿った斜面など、半日陰の場所。",
+      "finding_tips": "2回羽状に分かれた常緑の葉と、葉裏に並ぶ円形の胞子嚢群（ソーラス）を手がかりにする。ヌカイタチシダ類は種の区別が難しく、鱗片や羽片の形の確認が必要。"
+    },
+    "en": {
+      "summary": "Nukaitachi-shida-magai. An evergreen wood fern (genus Dryopteris) found from Honshu to Kyushu and across East Asia. Its name means it resembles but is not Dryopteris varia. The bipinnate fronds have many brown scales at the stipe base.",
+      "habitat_hint": "Floor and edges of evergreen and mixed forest and somewhat damp slopes from the low hills into the mountains — part-shaded places.",
+      "finding_tips": "The evergreen bipinnate fronds and the round sori on the frond undersides are the clues. This group is hard to separate to species; check the scales and pinna shape."
+    },
+    "zh": {
+      "summary": "岛崎鳞毛蕨（ヌカイタチシダマガイ），鳞毛蕨科鳞毛蕨属常绿蕨类，分布于本州至九州及东亚。似糠鳞毛蕨而异（「紛い」＝似非），为和名由来。叶二回羽状，叶柄基部多褐色鳞片。",
+      "habitat_hint": "喜低山至山地常绿林、混交林林床、林缘及略湿斜坡等半阴处。",
+      "finding_tips": "以二回羽状常绿叶及叶背圆形孢子囊群为线索。此类物种区分不易，须查鳞片与羽片形态。"
+    }
+  },
+  "Drypetes indica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "核果木"
+    },
+    "ja": {
+      "summary": "ツゲモドキ。南西諸島〜東南アジアに分布するコミカンソウ科（旧トウダイグサ科）ツゲモドキ属の常緑小高木。厚く光沢のある葉が、庭木のツゲに似ることが和名の由来。雌雄異株で、果実は核果。",
+      "habitat_hint": "暖地の照葉樹林、石灰岩地の林、海岸林など。温暖で湿り気のある常緑の森。",
+      "finding_tips": "厚く光沢のあるツゲに似た葉を手がかりにするが、ツゲより葉が大きく互生する点で区別する。果実は熟すと核をもつ核果になる。"
+    },
+    "en": {
+      "summary": "Tsuge-modoki. An evergreen small tree of the family Putranjivaceae (genus Drypetes) found from the Ryukyus into Southeast Asia. Its thick glossy leaves recall those of the garden box (tsuge), the source of its name. Dioecious, with drupe fruits.",
+      "habitat_hint": "Evergreen broadleaf forest, limestone forest and coastal woods in warm regions — mild, moist evergreen forest.",
+      "finding_tips": "The thick glossy box-like leaves are the clue, but the larger, alternate leaves separate it from true box. The fruit ripens into a stone-bearing drupe."
+    },
+    "zh": {
+      "summary": "核果木（ツゲモドキ），叶下珠科（原大戟科）核果木属常绿小乔木，分布于西南诸岛至东南亚。叶厚而有光泽，似庭木黄杨（柘植），为和名由来；雌雄异株，果为核果。",
+      "habitat_hint": "喜暖地照叶林、石灰岩地林及海岸林等温暖湿润的常绿森林。",
+      "finding_tips": "以厚而有光泽、似黄杨之叶为线索，但叶较黄杨大且互生可区分。果熟为具核的核果。"
+    }
+  },
+  "Duthiella flaccida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "小绢藓"
+    },
+    "ja": {
+      "summary": "ノコギリゴケ。日本や東アジアに分布するイタチゴケ科（またはシノブゴケ科近縁）の蘚類。這う茎から枝を出し、葉の縁に鋸歯（きょし＝のこぎり歯）があることが和名の由来。湿った樹幹や岩を覆う。",
+      "habitat_hint": "湿った樹幹の基部、岩上、土手など、林内の日陰で湿り気のある場所。",
+      "finding_tips": "樹幹や岩に広がる緑のマットをルーペで見て、葉縁の鋸歯を確認する。這う茎から不規則に枝が出る姿が手がかり。"
+    },
+    "en": {
+      "summary": "Nokogirigoke. A moss of the family Trachypodaceae found in Japan and East Asia. Its creeping stems give off branches, and the toothed (saw-like) leaf margins give its name ('saw moss'). It coats damp tree trunks and rock.",
+      "habitat_hint": "Damp tree-base bark, rock surfaces and banks — shaded, moist spots within woodland.",
+      "finding_tips": "Examine green mats on bark or rock with a lens for the toothed leaf margins. The irregular branching from a creeping stem is the clue."
+    },
+    "zh": {
+      "summary": "小绢藓（ノコギリゴケ），鼠尾藓科蘚类，分布于日本及东亚。匍匐茎分枝，叶缘具锯齿，为和名（锯苔）由来。常覆于湿润树干与岩石。",
+      "habitat_hint": "喜湿润树基、岩面及土坡等林内阴湿处。",
+      "finding_tips": "以放大镜查树干或岩面绿垫的叶缘锯齿。匍匐茎不规则分枝即为辨识线索。"
+    }
+  },
+  "Dypterygia andreji": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "黑条木纹夜蛾"
+    },
+    "ja": {
+      "summary": "スジクロモクメヨトウ。日本に分布するヤガ科の中型のガ。前翅は木目（もくめ）のような褐色の模様をもち、そこに黒い筋（スジクロ）が走ることが和名の由来。幼虫はタデ科などの草本を食べる。夜行性。",
+      "habitat_hint": "低山地〜山地の林縁、草地、河川敷など、幼虫の食草となる草の多い環境。",
+      "finding_tips": "夏、夜間の灯火に飛来する。木目状の褐色の前翅に黒い筋が入ることが識別点。止まると樹皮や枯れ葉に紛れる。"
+    },
+    "en": {
+      "summary": "Suji-kuro-mokume-yotou. A medium noctuid moth found in Japan. Its forewings carry a wood-grain (mokume) brown pattern crossed by a black streak (suji-kuro), the source of its name. Larvae feed on knotweeds and other herbs. Nocturnal.",
+      "habitat_hint": "Woodland edges, grassland and riverbanks from the low hills into the mountains — places rich in the herbs its larvae eat.",
+      "finding_tips": "In summer it comes to light at night. The wood-grain brown forewing crossed by a black streak identifies it; at rest it blends with bark and dead leaves."
+    },
+    "zh": {
+      "summary": "黑条木纹夜蛾（スジクロモクメヨトウ），夜蛾科中型蛾类，分布于日本。前翅具木纹状褐色斑，其上贯以黑条，为和名由来。幼虫取食蓼科等草本，夜行性。",
+      "habitat_hint": "喜低山至山地林缘、草地及河滩等草本丰富的环境。",
+      "finding_tips": "夏季夜间趋光。木纹褐色前翅贯以黑条即为辨识要点；停息时隐于树皮枯叶间。"
+    }
+  },
+  "Dyschirius aeneus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "铜色宽颚步甲"
+    },
+    "ja": {
+      "summary": "ダイミョウチビヒョウタンゴミムシ。日本に分布するオサムシ科の小型の甲虫。体はくびれてひょうたん形をなし、銅色の金属光沢をもつ。前脚が発達して土を掘るのに適し、水辺の砂泥に穴を掘って暮らす。",
+      "habitat_hint": "河原、湖沼や海岸の砂泥地、湿った裸地など、水辺の柔らかい土のある場所。",
+      "finding_tips": "水辺の砂泥を掘ったり、石をどけたりして探す。小型でくびれたひょうたん形、銅色の光沢、掘るのに適した太い前脚が識別点。"
+    },
+    "en": {
+      "summary": "Daimyo-chibi-hyotan-gomimushi. A small ground beetle of the family Carabidae found in Japan. Its body is waisted into a gourd shape with a coppery metallic sheen; its enlarged forelegs suit digging, and it burrows in sand-mud by water.",
+      "habitat_hint": "Riverbanks, sandy-mud ground by lakes and coasts, and damp bare ground — soft soil near water.",
+      "finding_tips": "Search by digging waterside sand-mud or turning stones. Its small waisted gourd shape, coppery sheen and stout digging forelegs identify it."
+    },
+    "zh": {
+      "summary": "铜色宽颚步甲（ダイミョウチビヒョウタンゴミムシ），步甲科小型甲虫，分布于日本。体缢缩呈葫芦形，具铜色金属光泽；前足发达善掘，于水边砂泥掘穴而居。",
+      "habitat_hint": "喜河滩、湖沼与海岸砂泥地及湿润裸地等水边软土处。",
+      "finding_tips": "掘水边砂泥或翻石寻找。体小缢缩葫芦形、铜色光泽、粗壮掘足即为辨识要点。"
+    }
+  },
+  "Echinocardium cordatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea Potato",
+    "aliases": {
+      "zh-Hans": "心形海胆"
+    },
+    "ja": {
+      "summary": "オカメブンブク。世界の温帯の海に広く分布するブンブクチャガマ科の不正形ウニ（心臓形のウニ）。殻は前後に長い心臓形で、短い毛のような棘に密におおわれる。砂に潜って有機物を食べる。",
+      "habitat_hint": "内湾〜浅海の砂底、砂泥底。砂中に浅く潜って暮らす。",
+      "finding_tips": "生きた個体は砂に潜っているが、白く漂白された心臓形の殻がよく海岸に打ち上がる。前方にくぼみのある心臓形の殻が識別点。"
+    },
+    "en": {
+      "summary": "Okame-bunbuku (sea potato). An irregular (heart-shaped) sea urchin of the family Loveniidae, widespread in the world's temperate seas. Its shell is a fore-and-aft heart shape densely clad in short hair-like spines; it burrows in sand and feeds on organic matter.",
+      "habitat_hint": "Sandy and sandy-mud bottoms from inner bays into shallow water; it lives buried shallowly in the sand.",
+      "finding_tips": "Live animals stay buried, but the bleached white heart-shaped test often washes ashore. The heart-shaped test with a front notch is diagnostic."
+    },
+    "zh": {
+      "summary": "心形海胆（オカメブンブク），拉文海胆科不规则（心形）海胆，广布于世界温带海域。壳前后长呈心形，密被短毛状棘；潜砂摄食有机物。",
+      "habitat_hint": "栖于内湾至浅海砂底、砂泥底，浅埋于砂中生活。",
+      "finding_tips": "活体埋于砂中，漂白的白色心形壳常冲上海岸。前端具凹的心形壳即为辨识要点。"
+    }
+  },
+  "Eisenia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "日本爱胜蚓"
+    },
+    "ja": {
+      "summary": "サクラミミズ。日本に分布するツリミミズ科のミミズ。体が淡い桜色（さくら色）を帯びることが和名の由来。土壌中の有機物を食べて分解し、土を耕して肥沃にする働きをもつ。",
+      "habitat_hint": "畑、庭、林内の落ち葉の下、腐植の多い土壌など、湿った有機物に富む地中。",
+      "finding_tips": "湿った土や落ち葉の下を掘って探す。体が淡い桜色を帯びること、環帯（帯状の部分）の位置などが近縁種との識別点。"
+    },
+    "en": {
+      "summary": "Sakura-mimizu. An earthworm of the family Lumbricidae found in Japan. Its body carries a pale cherry-blossom (sakura) tinge, the source of its name. It eats and breaks down soil organic matter, tilling and enriching the earth.",
+      "habitat_hint": "Fields, gardens, under woodland leaf litter and humus-rich soil — moist, organic-rich ground.",
+      "finding_tips": "Dig in damp soil or under leaf litter to find it. The pale cherry-pink body colour and the position of the clitellum (the banded region) separate it from relatives."
+    },
+    "zh": {
+      "summary": "日本爱胜蚓（サクラミミズ），正蚓科蚯蚓，分布于日本。体带淡樱色，为和名由来。取食并分解土壤有机物，翻耕使土壤肥沃。",
+      "habitat_hint": "喜农田、庭园、林内落叶下及腐殖丰富的土壤等湿润富有机质的地中。",
+      "finding_tips": "掘湿土或翻落叶寻找。体带淡樱粉色、环带位置即与近缘种的辨识要点。"
+    }
+  },
+  "Elaphropus exaratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "",
+    "aliases": {
+      "zh-Hans": "沟纹微步甲"
+    },
+    "ja": {
+      "summary": "ヒラタコミズギワゴミムシ。日本に分布するオサムシ科ミズギワゴミムシ類の微小な甲虫。体は平たく小さく、上翅に縦の溝状の条があることが特徴。水辺の湿った地表を素早く歩き回る。",
+      "habitat_hint": "河原、湖沼や池のふち、湿地の泥地など、水際の湿った開けた地面。",
+      "finding_tips": "水辺の石や落ち葉をどけると素早く走る、平たく微小な甲虫を探す。上翅の縦溝と扁平で小さな体が識別点。灯火にも来る。"
+    },
+    "en": {
+      "summary": "Hirata-ko-mizugiwa-gomimushi. A minute ground beetle (a tachyine bembidiine relative) of the family Carabidae found in Japan. Its body is flat and small, the elytra bearing longitudinal grooves. It runs quickly over damp ground at the water's edge.",
+      "habitat_hint": "Riverbanks, margins of lakes and ponds and muddy wetland — damp, open ground at the waterside.",
+      "finding_tips": "At the waterside turn stones or litter to find the flat, minute beetle running quickly. The grooved elytra and flat small body identify it; it also comes to light."
+    },
+    "zh": {
+      "summary": "沟纹微步甲（ヒラタコミズギワゴミムシ），步甲科水边微型甲虫，分布于日本。体扁小，鞘翅具纵沟状条纹。于水边湿润地表迅速活动。",
+      "habitat_hint": "喜河滩、湖沼池缘及湿地泥地等水际湿润开阔地面。",
+      "finding_tips": "于水边翻石或落叶寻迅速奔走的扁小甲虫。鞘翅纵沟与扁小体形即为辨识要点，亦趋光。"
+    }
   }
 }
