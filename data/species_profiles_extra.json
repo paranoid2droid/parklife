@@ -253053,5 +253053,450 @@
       "habitat_hint": "西南诸岛草地、路旁、河滩、公园草坪。",
       "finding_tips": "暖地几近全年，于草地寻找绕豆科植物飞舞的极小灰蝶。翅背小黑点的排列为辨识要点。"
     }
+  },
+  "Acentrogobius pflaumii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Striped Sandgoby",
+    "ja": {
+      "summary": "スジハゼ。内湾や河口の砂泥底にすむハゼ科の小型の魚。体は淡色で、体側に暗色の斑紋列と青い小点が散る。干潟や浅場の砂泥底に多い。",
+      "habitat_hint": "内湾、河口、干潟、浅い砂泥底、汽水域。",
+      "finding_tips": "干潮時の浅場や潮だまりで、砂泥底にひそむ淡色のハゼを探す。体側の暗色斑列と青い小点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Striped Sandgoby. A small goby (Gobiidae) of muddy-sand bottoms in bays and estuaries, pale with a row of dark blotches and scattered blue dots along the flank; common on shallow muddy-sand.",
+      "habitat_hint": "bays, estuaries, tidal flats, shallow muddy-sand, brackish water.",
+      "finding_tips": "At low tide in shallows and pools look for a pale goby on muddy sand; the row of dark side blotches and blue dots are diagnostic."
+    },
+    "zh": {
+      "summary": "普氏细棘鰕虎（スジハゼ）。栖于内湾与河口砂泥底的鰕虎鱼科小型鱼，体淡色，体侧具暗斑列与散布蓝色小点，多见于滩涂与浅砂泥底。",
+      "habitat_hint": "内湾、河口、滩涂、浅砂泥底、半咸水。",
+      "finding_tips": "退潮浅滩或潮池中寻找伏于砂泥底的淡色鰕虎。体侧暗斑列与蓝色小点为辨识要点。"
+    }
+  },
+  "Acer miyabei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miyabe Maple",
+    "ja": {
+      "summary": "クロビイタヤ。北海道〜本州の山地の谷沿いに生えるムクロジ科（カエデ科）カエデ属の落葉高木。葉は掌状に5裂し、裏に毛がある。数の少ない希少なカエデで、樹皮は暗色。",
+      "habitat_hint": "山地の谷沿い、湿った斜面、渓流沿いの落葉樹林。",
+      "finding_tips": "秋、谷沿いの落葉高木で掌状に5裂した葉と、翼のある果実（翼果）を探す。裏に毛のある葉と暗色の樹皮が識別ポイント。"
+    },
+    "en": {
+      "summary": "Miyabe Maple. A deciduous maple (Sapindaceae, Acer) of montane valleys from Hokkaido to Honshu, its palmate leaves five-lobed and hairy beneath; a scarce maple with dark bark.",
+      "habitat_hint": "montane valleys, damp slopes, streamside deciduous forest.",
+      "finding_tips": "In autumn, along valleys look for a deciduous tree with palmate five-lobed leaves and winged fruit (samaras); the hairy leaf undersides and dark bark are diagnostic."
+    },
+    "zh": {
+      "summary": "宫部枫（クロビイタヤ）。生于日本北海道至本州山地谷沿的无患子科（槭树科）槭属落叶乔木，叶掌状五裂、背面被毛，为数量稀少的槭树，树皮暗色。",
+      "habitat_hint": "山地谷沿、潮湿山坡、溪流沿岸落叶林。",
+      "finding_tips": "秋季于谷沿落叶乔木寻找掌状五裂叶与具翅果实（翅果）。叶背被毛与暗色树皮为辨识要点。"
+    }
+  },
+  "Actebia praecurrens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Early Dart Moth",
+    "ja": {
+      "summary": "オオホソアオバヤガ。本州〜九州の樹林や草地に分布するヤガ科モンヤガ亜科の蛾。前翅は緑がかった灰褐色で、細長い体型。幼虫は各種の草本を食べる。",
+      "habitat_hint": "雑木林、樹林の縁、草地、公園の緑地。",
+      "finding_tips": "秋、夜間に灯火へ来る。緑がかった灰褐色の細長い前翅が識別ポイント。"
+    },
+    "en": {
+      "summary": "Early Dart Moth. A noctuid moth (Noctuidae) of woodland and grassland from Honshu to Kyushu, with greenish grey-brown, elongate forewings; the larvae feed on various herbs.",
+      "habitat_hint": "secondary woodland, forest edges, grassland, park greenery.",
+      "finding_tips": "In autumn it comes to lights at night. The greenish grey-brown elongate forewings are diagnostic."
+    },
+    "zh": {
+      "summary": "绿褐地夜蛾（オオホソアオバヤガ）。分布于日本本州至九州林地与草地的夜蛾科切根夜蛾亚科蛾，前翅带绿灰褐色、体型细长，幼虫取食多种草本。",
+      "habitat_hint": "杂木林、林缘、草地、公园绿地。",
+      "finding_tips": "秋季夜间趋光。带绿的灰褐细长前翅为辨识要点。"
+    }
+  },
+  "Actinidia rufa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shima Hardy Kiwi",
+    "ja": {
+      "summary": "シマサルナシ。暖地の海岸林や山地に生えるマタタビ科マタタビ属のつる性木本。他の木に絡んで伸び、初夏に白い花を咲かせ、秋にキウイに似た小さな果実を実らせる。果実は食用になる。",
+      "habitat_hint": "暖地の海岸林、山地の林縁、谷沿い、照葉樹林。",
+      "finding_tips": "秋、暖地の林で他の木に絡むつるに、キウイを小さくしたような褐色の果実を探す。マタタビに似た葉とつる性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Shima Hardy Kiwi. A woody vine (Actinidiaceae, Actinidia) of warm-region coastal forest and mountains, twining over other trees with white flowers in early summer and small kiwi-like fruit in autumn; the fruit is edible.",
+      "habitat_hint": "warm-region coastal forest, montane forest edges, valleys, evergreen forest.",
+      "finding_tips": "In autumn, in warm-region forest look for a vine twining over trees bearing small brown kiwi-like fruit; the silver-vine-like leaves and climbing habit are diagnostic."
+    },
+    "zh": {
+      "summary": "岛猕猴桃（シマサルナシ）。生于暖地海岸林与山地的猕猴桃科猕猴桃属木质藤本，缠绕他树，初夏开白花，秋结似猕猴桃的小果，果可食。",
+      "habitat_hint": "暖地海岸林、山地林缘、谷沿、照叶林。",
+      "finding_tips": "秋季于暖地林中寻找缠绕他树、结褐色小猕猴桃状果的藤。似木天蓼的叶与蔓性为辨识要点。"
+    }
+  },
+  "Acupalpus sobosanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Seed-eater Ground Beetle",
+    "ja": {
+      "summary": "ホソチビゴモクムシ。水辺や湿地にすむオサムシ科（ゴモクムシの仲間）の微小な甲虫。体は細長く小さく、湿った地表を歩き回る。夜行性で、灯火に飛来することもある。",
+      "habitat_hint": "河川敷、池沼の縁、湿地、水辺の泥や砂。",
+      "finding_tips": "春〜秋、水辺の湿った地面を歩く微小な甲虫を探す。細長く小さな体が識別ポイント。ルーペが必要。"
+    },
+    "en": {
+      "summary": "A minute ground beetle (Carabidae, Acupalpus) of waterside and wetland, small and elongate, roaming damp ground; nocturnal and sometimes drawn to lights.",
+      "habitat_hint": "riverbanks, pond margins, wetlands, waterside mud and sand.",
+      "finding_tips": "From spring to autumn, on damp waterside ground look for a minute beetle; the small elongate body is diagnostic — a hand lens is needed."
+    },
+    "zh": {
+      "summary": "细小婪步甲（ホソチビゴモクムシ）。栖于水边与湿地的步甲科微型甲虫，体细长而小，于潮湿地表游走，夜行性、偶趋光。",
+      "habitat_hint": "河滩、池沼边缘、湿地、水边泥沙。",
+      "finding_tips": "春至秋于水边潮湿地面寻找微小甲虫。细长小体为辨识要点，需借放大镜。"
+    }
+  },
+  "Adenophora pereskiifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moiwa Ladybell",
+    "ja": {
+      "summary": "モイワシャジン。北海道や本州北部の山地の草地や林縁に生えるキキョウ科ツリガネニンジン属の多年草。夏〜秋、青紫色の釣鐘形の花を数段に輪生させて咲かせる。葉は数枚ずつ輪生する。",
+      "habitat_hint": "山地の草地、林縁、明るい斜面、亜高山の草原。",
+      "finding_tips": "7〜9月、山地の草地で青紫色の釣鐘形の花を輪生させる草を探す。輪生する葉と釣鐘形の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Moiwa Ladybell. A perennial (Campanulaceae, Adenophora) of montane grassland and forest edges in Hokkaido and northern Honshu, bearing blue-purple bell-shaped flowers in whorled tiers in summer to autumn, with leaves in whorls.",
+      "habitat_hint": "montane grassland, forest edges, bright slopes, subalpine meadows.",
+      "finding_tips": "From July to September, in montane grassland look for whorled tiers of blue-purple bell-shaped flowers; the whorled leaves and bell flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "薄叶荠苨（モイワシャジン）。生于日本北海道与本州北部山地草地与林缘的桔梗科沙参属多年生草本，夏秋数层轮生青紫色钟形花，叶亦轮生。",
+      "habitat_hint": "山地草地、林缘、明亮山坡、亚高山草原。",
+      "finding_tips": "7 至 9 月于山地草地寻找轮生青紫钟形花的草。轮生叶与钟形花为辨识要点。"
+    }
+  },
+  "Aeginetia sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Ghost-pipe",
+    "ja": {
+      "summary": "オオナンバンギセル。ススキなどの根に寄生するハマウツボ科の一年生の寄生植物。葉緑素を持たず、地上に淡紅紫色の筒状の花を横向きに咲かせる。ナンバンギセルより大型。",
+      "habitat_hint": "ススキ草原、イネ科植物の根際、日当たりのよい草地。",
+      "finding_tips": "8〜10月、ススキの根際で葉のない花茎の先に淡紅紫色の筒状の花を横向きにつける植物を探す。煙管（キセル）のような花の形が識別ポイント。"
+    },
+    "en": {
+      "summary": "Chinese Ghost-pipe. An annual parasitic plant (Orobanchaceae) on the roots of miscanthus and other grasses; lacking chlorophyll, it raises sideways-facing pale purplish-pink tubular flowers above ground. Larger than the common broomrape Aeginetia indica.",
+      "habitat_hint": "miscanthus grassland, at the base of grasses, sunny grassland.",
+      "finding_tips": "From August to October, at the base of miscanthus look for leafless stalks bearing a sideways pale purplish-pink tubular flower; the pipe-like flower shape is diagnostic."
+    },
+    "zh": {
+      "summary": "中国野菰（オオナンバンギセル）。寄生于芒等根部的列当科一年生寄生植物，无叶绿素，地上侧向开淡紫红筒状花，较野菰大。",
+      "habitat_hint": "芒草原、禾本科植物根际、向阳草地。",
+      "finding_tips": "8 至 10 月于芒根际寻找无叶花茎顶端侧生淡紫红筒状花的植物。似烟管的花形为辨识要点。"
+    }
+  },
+  "Aegista oculus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eye Land Snail",
+    "ja": {
+      "summary": "アカマイマイ。本州の山地の林床にすむニッポンマイマイ科の陸産貝（かたつむり）。殻は扁平で赤褐色を帯び、へそ（臍孔）が開く。落ち葉や倒木の下、湿った岩陰で見られる。",
+      "habitat_hint": "山地の落葉樹林の林床、落ち葉や倒木の下、湿った岩陰。",
+      "finding_tips": "雨後、林床の落ち葉をめくって探す。扁平で赤褐色の殻と開いたへそが識別ポイント。"
+    },
+    "en": {
+      "summary": "Eye Land Snail. A land snail (Camaenidae) of montane forest floors in Honshu, its flattened shell reddish-brown with an open umbilicus; found under leaf litter and logs and in damp rock shade.",
+      "habitat_hint": "montane deciduous forest floor, under leaf litter and logs, damp rock shade.",
+      "finding_tips": "After rain, search under forest-floor leaf litter; the flattened reddish-brown shell with an open umbilicus is diagnostic."
+    },
+    "zh": {
+      "summary": "赤蜗牛（アカマイマイ）。栖于日本本州山地林床的日本蜗牛科陆生蜗牛，壳扁平、带赤褐色、脐孔开裂，见于落叶与倒木下及潮湿岩荫。",
+      "habitat_hint": "山地落叶林林床、落叶与倒木下、潮湿岩荫。",
+      "finding_tips": "雨后翻开林床落叶寻找。扁平赤褐壳与开裂脐孔为辨识要点。"
+    }
+  },
+  "Aesopus clausiliformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spindle Dove Shell",
+    "ja": {
+      "summary": "ホンハナマツムシ。房総半島以南の潮下帯の岩礁や海藻の間にすむムシロガイ科（コロモガイ類）の小型の巻貝。殻は細長い紡錘形で、褐色の斑紋がある。海藻の間を這って暮らす。",
+      "habitat_hint": "潮下帯の岩礁、海藻の茂る岩場、浅海の転石。",
+      "finding_tips": "磯や浅海の海藻の間で、細長い紡錘形の小さな巻貝を探す。褐色の斑紋のある細長い殻が識別ポイント。"
+    },
+    "en": {
+      "summary": "Spindle Dove Shell. A small dove snail (Columbellidae) living among subtidal rock and seaweed from the Bōsō Peninsula southward, its elongate spindle-shaped shell marked with brown; it creeps among algae.",
+      "habitat_hint": "subtidal rock, seaweed-covered rocks, shallow-sea boulders.",
+      "finding_tips": "Among shore and shallow-sea seaweed look for a small elongate spindle-shaped snail; the slender brown-marked shell is diagnostic."
+    },
+    "zh": {
+      "summary": "纺锤麦螺（ホンハナマツムシ）。分布于日本房总半岛以南潮下带岩礁与海藻间的麦螺科小型海螺，壳细长纺锤形、具褐斑，于海藻间爬行生活。",
+      "habitat_hint": "潮下带岩礁、海藻繁茂岩场、浅海砾石。",
+      "finding_tips": "于礁岩与浅海海藻间寻找细长纺锤形小螺。具褐斑的细长壳为辨识要点。"
+    }
+  },
+  "Aethia cristatella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "aliases": {
+      "zh-Hans": "凤头海雀"
+    },
+    "ja": {
+      "summary": "エトロフウミスズメ。北太平洋やオホーツク海に分布するウミスズメ科の小型の海鳥。額から前に垂れる黒い冠羽（かんむり羽）が特徴。日本近海では冬に見られることがある。繁殖地では大群をつくる。",
+      "habitat_hint": "外洋、北方の海、岩礁の多い島（繁殖地）、沿岸海域。",
+      "finding_tips": "冬、北日本の沿岸や外洋で、額から前に垂れる黒い冠羽を持つ小さな海鳥を探す。前に垂れる冠羽と赤みのある嘴が識別ポイント。"
+    },
+    "en": {
+      "summary": "Crested Auklet. A small seabird (Alcidae) of the North Pacific and Sea of Okhotsk, distinguished by a forward-curling black crest on the forehead; occasionally seen off Japan in winter, it breeds in huge colonies.",
+      "habitat_hint": "open ocean, northern seas, rocky breeding islands, coastal waters.",
+      "finding_tips": "In winter, off northern Japan look for a small seabird with a forward-curling black crest; the crest and reddish bill are diagnostic."
+    },
+    "zh": {
+      "summary": "凤头海雀（エトロフウミスズメ）。分布于北太平洋与鄂霍次克海的海雀科小型海鸟，额前具向前弯垂的黑色冠羽，日本近海冬季偶见，繁殖地成大群。",
+      "habitat_hint": "外海、北方海域、多岩礁岛屿（繁殖地）、沿岸海域。",
+      "finding_tips": "冬季于日本北部沿岸与外海寻找额前具向前垂黑冠羽的小型海鸟。前垂冠羽与略红的喙为辨识要点。"
+    }
+  },
+  "Agonum thoreyi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh Ground Beetle",
+    "ja": {
+      "summary": "アシミゾヒメヒラタゴミムシ。湿地や池沼の縁にすむオサムシ科（ヒラタゴミムシの仲間）の甲虫。体は細長く光沢があり、湿った環境を好む。夜行性で、水辺の植物の根際や落ち葉の下にひそむ。",
+      "habitat_hint": "湿地、池沼の縁、河川敷、水辺の植物の根際。",
+      "finding_tips": "春〜秋、水辺で植物の根際や落ち葉の下を探す。細長く光沢のある体と湿地性が識別ポイント。"
+    },
+    "en": {
+      "summary": "Marsh Ground Beetle. A ground beetle (Carabidae, Agonum) of wetlands and pond margins, elongate and glossy, favouring damp habitats; nocturnal, it shelters at plant bases and under litter at the water's edge.",
+      "habitat_hint": "wetlands, pond margins, riverbanks, at the base of waterside plants.",
+      "finding_tips": "From spring to autumn, at the water's edge search plant bases and under litter; the elongate glossy body and wetland habitat are diagnostic."
+    },
+    "zh": {
+      "summary": "沼泽婪步甲近缘的细步甲（アシミゾヒメヒラタゴミムシ）。栖于湿地与池沼边缘的步甲科甲虫，体细长有光泽，喜潮湿环境，夜行性，藏于水边植物根际与落叶下。",
+      "habitat_hint": "湿地、池沼边缘、河滩、水边植物根际。",
+      "finding_tips": "春至秋于水边植物根际与落叶下寻找。细长有光泽的体与湿地性为辨识要点。"
+    }
+  },
+  "Agrostis canina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Velvet Bent",
+    "ja": {
+      "summary": "ヒメヌカボ。湿った草地や湿地に生えるイネ科ヌカボ属の多年草。細い茎が束生し、繊細な穂（円錐花序）に微小な小穂を多数つける。ヨーロッパ原産で牧草・芝としても利用される。",
+      "habitat_hint": "湿った草地、湿地、水辺、芝地、明るい斜面。",
+      "finding_tips": "初夏〜夏、湿った草地で細い茎の先に繊細な円錐花序をつけるイネ科植物を探す。微小な小穂の繊細な穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Velvet Bent. A perennial grass (Poaceae, Agrostis) of damp grassland and wetlands, its slender tufted stems bearing delicate panicles of many tiny spikelets; a European grass also used for turf and pasture.",
+      "habitat_hint": "damp grassland, wetlands, waterside, lawns, bright slopes.",
+      "finding_tips": "From early to mid-summer, in damp grassland look for slender stems with delicate panicles; the fine panicle of tiny spikelets is diagnostic."
+    },
+    "zh": {
+      "summary": "犬剪股颖（ヒメヌカボ）。生于潮湿草地与湿地的禾本科剪股颖属多年生草本，细茎丛生，纤细圆锥花序着众多微小小穂，原产欧洲、亦作牧草与草坪。",
+      "habitat_hint": "潮湿草地、湿地、水边、草坪、明亮山坡。",
+      "finding_tips": "初夏至夏于潮湿草地寻找细茎顶端着纤细圆锥花序的禾草。微小小穗的纤细花序为辨识要点。"
+    }
+  },
+  "Ajania rupestris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock Ajania",
+    "ja": {
+      "summary": "イワインチン。本州中部の高山の岩礫地に生えるキク科アジャニア属の多年草。葉は細かく羽状に裂け、裏に白い毛が密生して銀白色に見える。秋、黄色い小さな頭花を集めてつける。",
+      "habitat_hint": "高山帯の岩礫地、砂礫の斜面、風衝地。",
+      "finding_tips": "8〜10月、高山の岩場で細かく裂けた銀白色の葉と黄色い小さな頭花の集まりを探す。裏が白い葉と黄花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Rock Ajania. A perennial (Asteraceae, Ajania) of alpine gravel in central Honshu, its finely pinnately divided leaves densely white-hairy beneath and appearing silvery; in autumn it bears clusters of small yellow flower heads.",
+      "habitat_hint": "alpine gravel, scree slopes, wind-swept ground.",
+      "finding_tips": "From August to October, on alpine rocks look for finely divided silvery leaves and clusters of small yellow heads; the white-backed leaves and yellow flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "岩菊（イワインチン）。生于日本本州中部高山岩砾地的菊科亚菊属多年生草本，叶细羽裂、背面密被白毛而呈银白色，秋季聚生黄色小头状花。",
+      "habitat_hint": "高山带岩砾地、砂砾山坡、风衝地。",
+      "finding_tips": "8 至 10 月于高山岩地寻找细裂银白叶与黄色小头花簇。背白的叶与黄花为辨识要点。"
+    }
+  },
+  "Aliculastrum cylindricum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cylindrical Bubble Snail",
+    "ja": {
+      "summary": "カイコガイ。潮間帯〜浅海の砂底にすむブドウガイ科（またはナツメガイ類）の後鰓類の巻貝。殻は白く円筒形で薄く、蚕（かいこ）の繭のような形をしている。砂に潜って暮らす。",
+      "habitat_hint": "潮間帯〜浅海の砂底、干潟、内湾の砂泥底。",
+      "finding_tips": "干潮時、干潟や浅場の砂を掘ると見つかる。白く薄い円筒形の殻が蚕の繭に似る点が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Cylindrical Bubble Snail. A headshield sea snail (Haminoeidae) of intertidal to shallow sandy bottoms, its white shell thin and cylindrical like a silkworm cocoon; it burrows in sand.",
+      "habitat_hint": "intertidal to shallow sandy bottoms, tidal flats, bay muddy-sand.",
+      "finding_tips": "At low tide, digging sand on flats and shallows reveals it; the thin white cylindrical shell resembling a silkworm cocoon is diagnostic."
+    },
+    "zh": {
+      "summary": "蚕茧螺（カイコガイ）。栖于潮间带至浅海砂底的囊螺科（或枣螺类）后鳃类海螺，壳白色圆筒形而薄、形似蚕茧，潜砂而居。",
+      "habitat_hint": "潮间带至浅海砂底、滩涂、内湾砂泥底。",
+      "finding_tips": "退潮时掘滩涂浅滩砂中可见。白薄圆筒壳似蚕茧为其名之由来与辨识要点。"
+    }
+  },
+  "Alpheus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Snapping Shrimp",
+    "ja": {
+      "summary": "テナガテッポウエビ。内湾や河口の砂泥底にすむテッポウエビ科のエビ。片方のはさみが著しく大きく、これを打ち合わせて「パチン」と音を立て、衝撃波で獲物を気絶させる。巣穴を掘って暮らす。",
+      "habitat_hint": "内湾、河口、干潟、浅い砂泥底、汽水域。",
+      "finding_tips": "干潮時、干潟の砂泥を掘ると巣穴から見つかる。片方の巨大なはさみと、パチンという発音が識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese Snapping Shrimp. A pistol shrimp (Alpheidae) of muddy-sand bottoms in bays and estuaries; one claw is greatly enlarged and snapped shut to make a loud pop, stunning prey with the shockwave. It lives in burrows.",
+      "habitat_hint": "bays, estuaries, tidal flats, shallow muddy-sand, brackish water.",
+      "finding_tips": "At low tide, digging tidal-flat mud reveals it in its burrow; the one giant claw and the snapping sound are diagnostic."
+    },
+    "zh": {
+      "summary": "日本鼓虾（テナガテッポウエビ）。栖于内湾与河口砂泥底的鼓虾科虾，一螯极大，合击发出「啪」声，以冲击波击晕猎物，掘穴而居。",
+      "habitat_hint": "内湾、河口、滩涂、浅砂泥底、半咸水。",
+      "finding_tips": "退潮时掘滩涂砂泥可于洞中见之。单侧巨螯与啪声为辨识要点。"
+    }
+  },
+  "Alpinia formosana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pinstripe Ginger",
+    "ja": {
+      "summary": "クマタケラン。南西諸島などの暖地の林縁や林床に生えるショウガ科ハナミョウガ属の大型の多年草。幅広い葉を茂らせ、初夏に白地に赤い模様のある花を穂状に咲かせ、赤い実を実らせる。",
+      "habitat_hint": "亜熱帯の林縁、林床、谷沿い、人里近くの半日陰。",
+      "finding_tips": "初夏〜夏、暖地の林縁で幅広い葉を茂らせ、白地に赤い斑のある花を穂状につける大型の草を探す。ショウガ科らしい葉と花、秋の赤い実が識別ポイント。"
+    },
+    "en": {
+      "summary": "Pinstripe Ginger. A large perennial (Zingiberaceae, Alpinia) of warm-region forest edges and floors in the Ryukyus, with broad leaves and, in early summer, spikes of white flowers marked red, followed by red fruit.",
+      "habitat_hint": "subtropical forest edges, forest floor, valleys, half-shade near settlements.",
+      "finding_tips": "From early to mid-summer, at warm-region forest edges look for a large broad-leaved plant with spikes of red-marked white flowers; the ginger-family leaves, flowers and red autumn fruit are diagnostic."
+    },
+    "zh": {
+      "summary": "山姜（クマタケラン）。生于日本西南诸岛等暖地林缘与林床的姜科山姜属大型多年生草本，宽叶繁茂，初夏穗状开白底红纹花，结红果。",
+      "habitat_hint": "亚热带林缘、林床、谷沿、近人半荫处。",
+      "finding_tips": "初夏至夏于暖地林缘寻找宽叶繁茂、穗状着白底红纹花的大型草。姜科的叶花与秋季红果为辨识要点。"
+    }
+  },
+  "Altica aenea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Metallic Flea Beetle",
+    "ja": {
+      "summary": "カミナリハムシ。草地や畑、林縁にすむハムシ科ノミハムシ亜科の小型の甲虫。体は金属光沢のある藍青色で、後脚が太く、跳ねて逃げる。タデ科やアカバナ科などの葉を食べる。",
+      "habitat_hint": "草地、畑、林縁、道端、食草の生える環境。",
+      "finding_tips": "春〜秋、草の葉の上で藍青色の金属光沢のある小さな甲虫を探す。触れると跳ねて逃げる点と金属光沢が識別ポイント。"
+    },
+    "en": {
+      "summary": "Metallic Flea Beetle. A small leaf beetle (Chrysomelidae, Alticinae) of grassland, fields and forest edges, metallic blue-green with thickened hind legs for jumping; it feeds on knotweeds, willowherbs and other plants.",
+      "habitat_hint": "grassland, fields, forest edges, waysides, near host plants.",
+      "finding_tips": "From spring to autumn, on leaves look for a small metallic blue-green beetle; the jumping escape and metallic sheen are diagnostic."
+    },
+    "zh": {
+      "summary": "蓝金花跳甲（カミナリハムシ）。栖于草地、农田与林缘的叶甲科跳甲亚科小型甲虫，体蓝青色具金属光泽，后足粗壮善跳，取食蓼科与柳叶菜科等叶片。",
+      "habitat_hint": "草地、农田、林缘、路旁、寄主植物环境。",
+      "finding_tips": "春至秋于草叶上寻找蓝青金属光泽小甲虫。触之弹跳逃逸与金属光泽为辨识要点。"
+    }
+  },
+  "Alyssum alyssoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pale Madwort",
+    "ja": {
+      "summary": "アレチナズナ。ヨーロッパ原産のアブラナ科ミヤマナズナ属の一〜越年草で、道端や荒れ地に帰化する。全体に星状毛が生えて灰緑色を帯び、淡黄色の小さな花を咲かせる。小さな円い果実をつける。",
+      "habitat_hint": "道端、荒れ地、河原、線路脇、乾いた空き地。",
+      "finding_tips": "春、乾いた荒れ地で灰緑色の毛深い小さな草に淡黄色の小花を探す。星状毛で覆われた灰緑色の全体と小さな円い果実が識別ポイント。"
+    },
+    "en": {
+      "summary": "Pale Madwort. An annual to biennial (Brassicaceae, Alyssum) native to Europe and naturalised on waysides and waste ground; clothed in star-shaped hairs and greyish-green, it bears small pale-yellow flowers and small rounded fruit.",
+      "habitat_hint": "waysides, waste ground, riverbanks, railway sides, dry open lots.",
+      "finding_tips": "In spring, on dry waste ground look for a small greyish, hairy plant with pale-yellow flowers; the star-hairy grey-green herb and small round fruits are diagnostic."
+    },
+    "zh": {
+      "summary": "庭荠（アレチナズナ）。原产欧洲的十字花科庭荠属一至越年生草本，归化于路旁荒地，全株被星状毛而呈灰绿色，开淡黄色小花，结小圆果。",
+      "habitat_hint": "路旁、荒地、河滩、铁路旁、干燥空地。",
+      "finding_tips": "春季于干燥荒地寻找灰绿多毛的小草上着淡黄小花。被星状毛的灰绿全株与小圆果为辨识要点。"
+    }
+  },
+  "Amanita flavipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow-foot Amanita",
+    "ja": {
+      "summary": "コガネテングタケ。夏〜秋に雑木林の地上に生えるテングタケ科のキノコ。傘は黄褐色で、表面に黄色い粉状のいぼをつけ、柄の基部が黄色く膨らむ。テングタケ科なので食用にはしない。",
+      "habitat_hint": "夏〜秋の雑木林・広葉樹林の地上、樹木の根際。",
+      "finding_tips": "夏〜秋、林内の地上で黄褐色の傘に黄色い粉状のいぼをつけたキノコを探す。黄色い粉のいぼと黄色い柄基部が識別ポイント。テングタケ科なので採取・食用は避ける。"
+    },
+    "en": {
+      "summary": "Yellow-foot Amanita. An amanita mushroom (Amanitaceae) fruiting on the ground in summer-to-autumn woodland, its yellow-brown cap dotted with yellow powdery warts and its stem base swollen and yellow; as an amanita it is not eaten.",
+      "habitat_hint": "ground of summer-to-autumn secondary and broadleaf woodland, near tree roots.",
+      "finding_tips": "From summer to autumn look for a yellow-brown-capped mushroom with yellow powdery warts and a yellow bulbous stem base; these are diagnostic — being an amanita, avoid collecting or eating it."
+    },
+    "zh": {
+      "summary": "黄脚鹅膏（コガネテングタケ）。夏秋生于杂木林地面的鹅膏科真菌，菌盖黄褐色、表面缀黄色粉状疣，柄基黄色膨大。属鹅膏科，不作食用。",
+      "habitat_hint": "夏秋杂木林与阔叶林地面、树根附近。",
+      "finding_tips": "夏秋于林内地面寻找黄褐盖缀黄粉疣的菌。黄粉疣与黄色柄基为辨识要点。属鹅膏科，勿采勿食。"
+    }
+  },
+  "Amanita virosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "鳞柄白鹅膏"
+    },
+    "ja": {
+      "summary": "ドクツルタケ。夏〜秋に林内の地上に生えるテングタケ科の猛毒キノコ。全体が純白で、傘・柄・つばを持ち、柄の基部に袋状のつぼがある。「死の天使」と呼ばれ、一本で死に至る猛毒。絶対に食べない。",
+      "habitat_hint": "夏〜秋の雑木林・針広混交林の地上、樹木の根際。",
+      "finding_tips": "夏〜秋、林内で全体が純白のキノコを見たら本種を疑う。白い傘・つば・袋状のつぼが識別ポイント。猛毒で死亡例が多く、絶対に触れて口にしない。"
+    },
+    "en": {
+      "summary": "Destroying Angel. A deadly all-white amanita (Amanitaceae) fruiting on the ground in summer-to-autumn woodland, with cap, ring and a sac-like volva at the stem base. Called the 'destroying angel', a single mushroom can be fatal. Never eat it.",
+      "habitat_hint": "ground of summer-to-autumn secondary and mixed woodland, near tree roots.",
+      "finding_tips": "From summer to autumn, an entirely pure-white mushroom in woodland should be suspected; the white cap, ring and sac-like volva are diagnostic — deadly, with many fatalities, never handle or eat it."
+    },
+    "zh": {
+      "summary": "鳞柄白鹅膏（ドクツルタケ）。夏秋生于林内地面的鹅膏科剧毒菌，通体纯白，具盖、柄、菌环，柄基有袋状菌托。被称「死亡天使」，一朵即可致死，切勿食用。",
+      "habitat_hint": "夏秋杂木林与针阔混交林地面、树根附近。",
+      "finding_tips": "夏秋林内若见通体纯白的菌须疑为本种。白色盖、菌环与袋状菌托为辨识要点。剧毒多致死，切勿触食。"
+    }
   }
 }
