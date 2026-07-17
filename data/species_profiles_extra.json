@@ -252512,5 +252512,546 @@
       "habitat_hint": "杂木林、阔叶林、林缘。",
       "finding_tips": "3 至 5 月夜间趋光。白翅上黑色带状横纹为其名之由来与辨识要点，早春可见。"
     }
+  },
+  "Trichostomum planifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat-leaved Screw-moss",
+    "ja": {
+      "summary": "ツチノウエノカタゴケ。裸地や土上、石垣などに生えるセンボンゴケ科のコケ（蘚類）。細い茎に舌状の葉をつけ、乾くと葉が縮れる。小さな緑〜黄緑色の群落をつくる。",
+      "habitat_hint": "裸地、土上、石垣、道端、日当たりのよい乾いた地面。",
+      "finding_tips": "通年、土や石垣で舌状の葉をつけた小さなコケの群落を探す。乾くと葉が縮れ、湿ると開く点が識別の助けになる。"
+    },
+    "en": {
+      "summary": "Flat-leaved Screw-moss. A moss (Pottiaceae) of bare ground, soil and stone walls, its slender stems bearing tongue-shaped leaves that curl when dry, forming small green to yellow-green patches.",
+      "habitat_hint": "bare ground, soil, stone walls, waysides, sunny dry ground.",
+      "finding_tips": "Year-round, on soil and stone walls look for small patches of a moss with tongue-shaped leaves; the leaves curling when dry and opening when wet aid identification."
+    },
+    "zh": {
+      "summary": "地上扁叶藓（ツチノウエノカタゴケ）。生于裸地、土面与石垣的丛藓科苔藓（藓类），细茎着舌状叶，干时叶卷缩，形成绿至黄绿色小群落。",
+      "habitat_hint": "裸地、土面、石垣、路旁、向阳干燥地面。",
+      "finding_tips": "全年可见，于土面石垣寻找着舌状叶的小型藓类群落。干卷湿展的叶态有助辨识。"
+    }
+  },
+  "Tricyrtis setouchiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Setouchi Toad Lily",
+    "ja": {
+      "summary": "セトウチホトトギス。瀬戸内地方の山地の林縁や谷沿いに生えるユリ科ホトトギス属の多年草。秋、白地に紫の斑点のある花を上向きに咲かせる。ヤマホトトギスの仲間で地域性が強い。",
+      "habitat_hint": "山地の林縁、谷沿いの湿った斜面、半日陰の岩場。",
+      "finding_tips": "8〜10月、山地の谷沿いで白地に紫斑のある上向きの花を探す。花被片の斑点模様がホトトギス（鳥）の胸の斑にちなむ識別ポイント。"
+    },
+    "en": {
+      "summary": "Setouchi Toad Lily. A perennial (Liliaceae, Tricyrtis) of montane forest edges and valleys in the Setouchi region, bearing upward-facing flowers spotted purple on white in autumn; a regionally distinct member of the toad lilies.",
+      "habitat_hint": "montane forest edges, damp valley slopes, half-shaded rocks.",
+      "finding_tips": "From August to October, along mountain valleys look for upward-facing flowers spotted purple on white; the spotted tepals (recalling a cuckoo's breast) are diagnostic."
+    },
+    "zh": {
+      "summary": "濑户内油点草（セトウチホトトギス）。生于日本濑户内地方山地林缘与谷沿的百合科油点草属多年生草本，秋季开白底紫斑、朝上的花，为山油点草类中地域性强的种类。",
+      "habitat_hint": "山地林缘、谷沿潮湿山坡、半荫岩地。",
+      "finding_tips": "8 至 10 月于山地谷沿寻找白底紫斑朝上开放的花。花被片斑点（似杜鹃鸟胸斑）为辨识要点。"
+    }
+  },
+  "Triphaenopsis cinerescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pale Yellow Underwing",
+    "ja": {
+      "summary": "ウスキシタヨトウ。本州〜九州の樹林に分布するヤガ科の蛾。前翅は灰褐色で、後翅が淡い黄色を帯びる。幼虫は各種の草本を食べる。",
+      "habitat_hint": "雑木林、樹林の縁、草地、公園の緑地。",
+      "finding_tips": "秋、夜間に灯火へ来る。灰褐色の前翅と、飛んだときに見える淡黄色の後翅が識別ポイント。"
+    },
+    "en": {
+      "summary": "Pale Yellow Underwing. A noctuid moth (Noctuidae) of woodland from Honshu to Kyushu, with grey-brown forewings and pale yellowish hindwings; the larvae feed on various herbs.",
+      "habitat_hint": "secondary woodland, forest edges, grassland, park greenery.",
+      "finding_tips": "In autumn it comes to lights at night. The grey-brown forewings and pale yellow hindwings glimpsed in flight are diagnostic."
+    },
+    "zh": {
+      "summary": "淡黄下夜蛾（ウスキシタヨトウ）。分布于日本本州至九州林地的夜蛾科蛾，前翅灰褐色，后翅带淡黄色，幼虫取食多种草本。",
+      "habitat_hint": "杂木林、林缘、草地、公园绿地。",
+      "finding_tips": "秋季夜间趋光。灰褐前翅与飞行时可见的淡黄后翅为辨识要点。"
+    }
+  },
+  "Trishoplita commoda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bean Land Snail",
+    "ja": {
+      "summary": "マメマイマイ。西日本の山地の林床にすむニッポンマイマイ科の小型の陸産貝（かたつむり）。殻はごく小さく、扁平で低い円錐形。落ち葉や倒木の下でひっそり暮らす。",
+      "habitat_hint": "山地の落葉樹林の林床、落ち葉や倒木の下、湿った岩陰。",
+      "finding_tips": "雨後、林床の落ち葉をめくって探す。殻径1cm以下のごく小さな扁平な巻貝が識別ポイント。ルーペがあると観察しやすい。"
+    },
+    "en": {
+      "summary": "Bean Land Snail. A tiny land snail (Camaenidae) of montane forest floors in western Japan, its very small shell flattened and low-conical; it lives quietly under leaf litter and logs.",
+      "habitat_hint": "montane deciduous forest floor, under leaf litter and logs, damp rock shade.",
+      "finding_tips": "After rain, search under forest-floor leaf litter; the very small flattened shell under 1 cm across is diagnostic — a hand lens helps."
+    },
+    "zh": {
+      "summary": "豆蜗牛（マメマイマイ）。栖于日本西部山地林床的日本蜗牛科小型陆生蜗牛，壳极小、扁平呈低圆锥形，隐居于落叶与倒木下。",
+      "habitat_hint": "山地落叶林林床、落叶与倒木下、潮湿岩荫。",
+      "finding_tips": "雨后翻开林床落叶寻找。壳径不足 1 厘米的极小扁平螺为辨识要点，借放大镜易观察。"
+    }
+  },
+  "Trishoplita kurodai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kuroda's Maiden Snail",
+    "ja": {
+      "summary": "アズマオトメマイマイ。東日本の山地の林床にすむニッポンマイマイ科の小型の陸産貝（かたつむり）。殻は低い円錐形で小さく、光沢がある。落ち葉の下や倒木周辺で見られる。",
+      "habitat_hint": "山地の落葉樹林の林床、落ち葉や倒木の下、湿った岩陰。",
+      "finding_tips": "雨後、林床の落ち葉をめくって探す。小さく光沢のある低い円錐形の殻が識別ポイント。近縁種との区別は難しい。"
+    },
+    "en": {
+      "summary": "Kuroda's Maiden Snail. A small land snail (Camaenidae) of montane forest floors in eastern Japan, its small glossy shell low-conical; found under leaf litter and around logs.",
+      "habitat_hint": "montane deciduous forest floor, under leaf litter and logs, damp rock shade.",
+      "finding_tips": "After rain, search under forest-floor leaf litter; the small glossy low-conical shell is diagnostic, though hard to separate from relatives."
+    },
+    "zh": {
+      "summary": "东少女蜗牛（アズマオトメマイマイ）。栖于日本东部山地林床的日本蜗牛科小型陆生蜗牛，壳低圆锥形而小、有光泽，见于落叶下与倒木周围。",
+      "habitat_hint": "山地落叶林林床、落叶与倒木下、潮湿岩荫。",
+      "finding_tips": "雨后翻开林床落叶寻找。小而有光泽的低圆锥形壳为辨识要点，与近缘种难辨。"
+    }
+  },
+  "Trivirostra edgari": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Edgar's Trivia",
+    "ja": {
+      "summary": "ワスレシラタマ。房総半島以南の潮下帯の岩礁やサンゴ礁にすむウミウサギガイ科（コダマウサギ類）の小型の巻貝。殻は白い卵形で、表面に細かい横畝が全体に走る。",
+      "habitat_hint": "潮下帯の岩礁、サンゴ礁、海綿やホヤの生える岩、浅海。",
+      "finding_tips": "通年、磯や浅海の岩で殻長1cmほどの白い卵形の巻貝を探す。全面に走る細かい横畝が識別ポイント。"
+    },
+    "en": {
+      "summary": "Edgar's Trivia. A small cowry-like snail (Triviidae) of subtidal rock and reef from the Bōsō Peninsula southward, its white egg-shaped shell finely ribbed transversely all over.",
+      "habitat_hint": "subtidal rock, coral reef, sponge- and ascidian-covered rocks, shallow sea.",
+      "finding_tips": "Year-round, on shore and shallow-sea rock look for a white egg-shaped snail about 1 cm long; the fine transverse ribbing over the whole shell is diagnostic."
+    },
+    "zh": {
+      "summary": "埃氏猎女神螺（ワスレシラタマ）。分布于日本房总半岛以南潮下带岩礁与珊瑚礁的猎女神螺科小型海螺，壳白色卵形，全表面具细密横肋。",
+      "habitat_hint": "潮下带岩礁、珊瑚礁、生海绵与海鞘的岩石、浅海。",
+      "finding_tips": "全年可见，于礁岩与浅海岩石寻找壳长约 1 厘米的白色卵形螺。全面细密横肋为辨识要点。"
+    }
+  },
+  "Tubuca arcuata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fiddler Crab",
+    "aliases": {
+      "zh-Hans": "弧边招潮蟹"
+    },
+    "ja": {
+      "summary": "シオマネキ。西日本の干潟や河口の泥地にすむスナガニ科のカニ。雄は片方のはさみが著しく大きく、これを振り上げて求愛や威嚇をする。この動作が潮を招くように見えるのが名の由来。環境省の準絶滅危惧種。",
+      "habitat_hint": "干潟、河口の泥地、塩性湿地、汽水域の泥底。",
+      "finding_tips": "干潮時、干潟で片方の大きなはさみを振り上げる雄のカニを探す。巨大な片方のはさみと、はさみを振る動作が識別ポイント。"
+    },
+    "en": {
+      "summary": "Fiddler Crab. A crab (Ocypodidae) of tidal flats and estuarine mud in western Japan; the male has one hugely enlarged claw which he waves in courtship and threat — a motion said to 'beckon the tide', giving the Japanese name. A Japanese Near Threatened species.",
+      "habitat_hint": "tidal flats, estuarine mud, salt marsh, brackish mud bottoms.",
+      "finding_tips": "At low tide, on tidal flats look for males waving one greatly enlarged claw; the single giant claw and its waving motion are diagnostic."
+    },
+    "zh": {
+      "summary": "弧边招潮蟹（シオマネキ）。栖于日本西部滩涂与河口泥地的沙蟹科螃蟹，雄蟹一螯极大，挥舞以求偶或威吓，动作似招潮，即其名之由来，为日本近危物种。",
+      "habitat_hint": "滩涂、河口泥地、盐沼、半咸水泥底。",
+      "finding_tips": "退潮时于滩涂寻找挥舞一只大螯的雄蟹。单侧巨螯与挥螯动作为辨识要点。"
+    }
+  },
+  "Turbo cornutus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Horned Turban",
+    "aliases": {
+      "zh-Hans": "角蝾螺"
+    },
+    "ja": {
+      "summary": "ナンカイサザエ。暖海の岩礁にすむサザエ科の大型の巻貝で、サザエに近縁。殻は厚く、しばしば長い角状の突起を持ち、海藻を食べる。食用として利用される。",
+      "habitat_hint": "暖海の岩礁海岸、潮下帯、海藻の茂る岩場。",
+      "finding_tips": "岩礁の潮下帯で、厚い殻に角状の突起を持つ大型の巻貝を探す。サザエに似た殻と角状突起、石灰質の丸い蓋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Horned Turban. A large turban snail (Turbinidae) of warm-sea rocky reefs, closely related to the Japanese turban; its thick shell often bears long horn-like spines and it grazes seaweed. Used as food.",
+      "habitat_hint": "warm-sea rocky shores, subtidal zone, seaweed-covered rocks.",
+      "finding_tips": "In the rocky subtidal look for a large snail with a thick shell bearing horn-like spines; the turban shell, horns and round calcareous operculum are diagnostic."
+    },
+    "zh": {
+      "summary": "角蝾螺（ナンカイサザエ）。栖于暖海岩礁的蝾螺科大型海螺，与蝾螺近缘，壳厚、常具长角状突起，取食海藻，供食用。",
+      "habitat_hint": "暖海岩礁海岸、潮下带、海藻繁茂的岩场。",
+      "finding_tips": "于岩礁潮下带寻找厚壳具角状突起的大型海螺。似蝾螺的壳、角状突起与圆形石灰质厣为辨识要点。"
+    }
+  },
+  "Ulva intestinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "肠浒苔"
+    },
+    "ja": {
+      "summary": "ボウアオノリ。潮間帯の岩や石、汽水域にはえるアオサ科の緑藻。細長い袋状（管状）の葉体が房状に群生し、鮮やかな緑色。食用のアオノリの一種として利用される。",
+      "habitat_hint": "潮間帯の岩・石、汽水域、河口、タイドプール。",
+      "finding_tips": "春〜初夏、磯の岩や石の上に鮮やかな緑色の細長い管状の海藻が群生していれば本種。中が空洞の管状の葉体が識別ポイント。"
+    },
+    "en": {
+      "summary": "Gut Weed. A green alga (Ulvaceae) of intertidal rock and brackish water, its long tubular (hollow) fronds growing in bright-green tufts; used as one of the edible green lavers (aonori).",
+      "habitat_hint": "intertidal rock and stones, brackish water, estuaries, tide pools.",
+      "finding_tips": "From spring to early summer, bright-green long tubular seaweed tufting on shore rock signals this species; the hollow tubular fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "肠浒苔（ボウアオノリ）。生于潮间带岩石与半咸水的石莼科绿藻，细长管状（中空）叶体成丛群生、鲜绿色，作食用青海苔之一利用。",
+      "habitat_hint": "潮间带岩石、半咸水、河口、潮池。",
+      "finding_tips": "春至初夏，礁岩石上鲜绿细长管状海藻成丛即为本种。中空管状叶体为辨识要点。"
+    }
+  },
+  "Ulva linza": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "缘管浒苔"
+    },
+    "ja": {
+      "summary": "ウスバアオノリ。潮間帯の岩や石にはえるアオサ科の緑藻。細長い膜状（葉状）の葉体を持ち、縁が波打つ。鮮やかな緑色で、食用のアオノリの一種として利用される。",
+      "habitat_hint": "潮間帯の岩・石、汽水域、河口、内湾。",
+      "finding_tips": "春〜初夏、磯の岩に細長い膜状で縁が波打つ鮮緑色の海藻が群生していれば本種。管状ではなく膜状な点でボウアオノリと区別。"
+    },
+    "en": {
+      "summary": "A green alga (Ulvaceae) of intertidal rock, with long membranous (flat) fronds whose margins are wavy, in bright green; used as one of the edible green lavers (aonori).",
+      "habitat_hint": "intertidal rock and stones, brackish water, estuaries, bays.",
+      "finding_tips": "From spring to early summer, long bright-green membranous seaweed with wavy margins tufting on shore rock signals this species; the flat (not tubular) fronds separate it from gut weed."
+    },
+    "zh": {
+      "summary": "缘管浒苔（ウスバアオノリ）。生于潮间带岩石的石莼科绿藻，具细长膜状（叶状）叶体、边缘波状、鲜绿色，作食用青海苔之一利用。",
+      "habitat_hint": "潮间带岩石、半咸水、河口、内湾。",
+      "finding_tips": "春至初夏，礁岩上细长膜状、缘波状的鲜绿海藻即为本种。叶体膜状而非管状，可与肠浒苔区分。"
+    }
+  },
+  "Urostylis striicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kunugi Shield Bug",
+    "ja": {
+      "summary": "サジクヌギカメムシ。クヌギやコナラの林にすむクヌギカメムシ科のカメムシ。体は緑色でやや扁平。晩秋、クヌギなどの樹皮の割れ目に、ゼリー状の物質に包んだ卵塊を産みつける。",
+      "habitat_hint": "クヌギ・コナラの雑木林、樹皮の割れ目、林縁。",
+      "finding_tips": "秋〜初冬、クヌギの樹皮の割れ目でゼリーに包まれた卵塊や緑色のカメムシを探す。緑色でやや扁平な体と樹皮での産卵が識別ポイント。"
+    },
+    "en": {
+      "summary": "Kunugi Shield Bug. A shield bug (Urostylididae) of sawtooth and jolcham oak woods, green and somewhat flattened; in late autumn it lays egg masses wrapped in a jelly-like substance in the bark crevices of oaks.",
+      "habitat_hint": "sawtooth- and jolcham-oak woodland, bark crevices, forest edges.",
+      "finding_tips": "From autumn to early winter, in oak bark crevices look for jelly-wrapped egg masses or the green bug; the green flattened body and bark egg-laying are diagnostic."
+    },
+    "zh": {
+      "summary": "匙麻栎蝽（サジクヌギカメムシ）。栖于麻栎与枹栎林的娇蝽科蝽类，体绿色略扁，晚秋于麻栎等树皮裂缝产下裹于胶状物质的卵块。",
+      "habitat_hint": "麻栎与枹栎杂木林、树皮裂缝、林缘。",
+      "finding_tips": "秋至初冬于麻栎树皮裂缝寻找裹胶卵块或绿色蝽。绿而略扁的体与树皮产卵为辨识要点。"
+    }
+  },
+  "Valeriana fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "缬草"
+    },
+    "ja": {
+      "summary": "カノコソウ。山地の湿った草地や林縁に生えるスイカズラ科（オミナエシ科）カノコソウ属の多年草。初夏、淡紅色の小花を多数集めて散房状に咲かせ、鹿の子絞りのように見える。根は薬用にされる。",
+      "habitat_hint": "山地の湿った草地、林縁、沢沿い、明るい斜面。",
+      "finding_tips": "5〜7月、山地の湿った草地で淡紅色の小花が集まって咲く草を探す。鹿の子模様に見える花序が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Japanese Valerian. A perennial (Caprifoliaceae, Valeriana) of damp montane grassland and forest edges, bearing many pale-pink flowers in a corymb in early summer that resemble tie-dyed 'fawn-spot' cloth; its roots are used medicinally.",
+      "habitat_hint": "damp montane grassland, forest edges, streamsides, bright slopes.",
+      "finding_tips": "From May to July, in damp montane grassland look for clustered pale-pink flowers; the fawn-spot-like inflorescence is diagnostic."
+    },
+    "zh": {
+      "summary": "缬草（カノコソウ）。生于山地潮湿草地与林缘的忍冬科（败酱科）缬草属多年生草本，初夏聚生众多淡红小花成伞房状、似鹿斑扎染，根供药用。",
+      "habitat_hint": "山地潮湿草地、林缘、沢沿、明亮山坡。",
+      "finding_tips": "5 至 7 月于山地湿润草地寻找聚生淡红小花的草。似鹿斑的花序为其名之由来与辨识要点。"
+    }
+  },
+  "Vicia amurensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノハラクサフジ。山地の草地や林縁に生えるマメ科ソラマメ属のつる性多年草。羽状複葉の先が巻きひげになり、夏に青紫色の蝶形花を穂状に多数咲かせる。クサフジの仲間。",
+      "habitat_hint": "山地の草地、林縁、明るい斜面、河原。",
+      "finding_tips": "6〜8月、草地で青紫色の蝶形花を穂状につけるつる性の草を探す。羽状複葉と巻きひげ、片側に寄った花穂が識別ポイント。"
+    },
+    "en": {
+      "summary": "Amur Vetch. A climbing perennial (Fabaceae, Vicia) of montane grassland and forest edges, its pinnate leaves ending in tendrils and bearing many blue-purple pea-flowers in a raceme in summer; a relative of the tufted vetch.",
+      "habitat_hint": "montane grassland, forest edges, bright slopes, riverbanks.",
+      "finding_tips": "From June to August, in grassland look for a climber with blue-purple pea-flowers in spikes; the pinnate leaves with tendrils and one-sided flower racemes are diagnostic."
+    },
+    "zh": {
+      "summary": "黑龙江野豌豆（ノハラクサフジ）。生于山地草地与林缘的豆科野豌豆属蔓性多年生草本，羽状复叶先端具卷须，夏季穗状开多数青紫色蝶形花，为山野豌豆类。",
+      "habitat_hint": "山地草地、林缘、明亮山坡、河滩。",
+      "finding_tips": "6 至 8 月于草地寻找穗状着青紫蝶形花的蔓性草。羽状复叶带卷须与偏侧花穗为辨识要点。"
+    }
+  },
+  "Vicia fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tsugaru Vetch",
+    "ja": {
+      "summary": "ツガルフジ。本州北部の山地の草地や林縁に生えるマメ科ソラマメ属のつる性多年草。羽状複葉と巻きひげを持ち、夏に青紫色の蝶形花を穂状につける。クサフジの仲間で北方性。",
+      "habitat_hint": "山地の草地、林縁、明るい斜面、河原。",
+      "finding_tips": "6〜8月、山地の草地で青紫色の蝶形花を穂状につけるつる性の草を探す。近縁のクサフジ類との区別には小葉や花の細部の観察が必要。"
+    },
+    "en": {
+      "summary": "Tsugaru Vetch. A climbing perennial (Fabaceae, Vicia) of montane grassland and forest edges in northern Honshu, with pinnate leaves, tendrils and blue-purple pea-flowers in summer spikes; a northern relative of the tufted vetch.",
+      "habitat_hint": "montane grassland, forest edges, bright slopes, riverbanks.",
+      "finding_tips": "From June to August, in montane grassland look for a climber with blue-purple pea-flower spikes; separating it from related vetches needs a look at the leaflets and flower detail."
+    },
+    "zh": {
+      "summary": "津轻野豌豆（ツガルフジ）。生于日本本州北部山地草地与林缘的豆科野豌豆属蔓性多年生草本，具羽状复叶与卷须，夏季穗状开青紫色蝶形花，为山野豌豆类的北方种。",
+      "habitat_hint": "山地草地、林缘、明亮山坡、河滩。",
+      "finding_tips": "6 至 8 月于山地草地寻找穗状着青紫蝶形花的蔓性草。与近缘野豌豆区分需察小叶与花之细部。"
+    }
+  },
+  "Vigna marina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "滨豇豆"
+    },
+    "ja": {
+      "summary": "ハマササゲ。南西諸島などの海岸の砂浜に生えるマメ科ササゲ属のつる性多年草。地を這って砂上に広がり、黄色い蝶形花を咲かせ、細長い莢を実らせる。海流で種子が運ばれる海浜植物。",
+      "habitat_hint": "亜熱帯・熱帯の海岸の砂浜、砂丘、海岸の後背地。",
+      "finding_tips": "夏〜秋、南の砂浜で地を這うつるに黄色い蝶形花と細長い莢をつける草を探す。厚めの3小葉と黄花、砂浜という環境が識別ポイント。"
+    },
+    "en": {
+      "summary": "Beach Cowpea. A trailing perennial legume (Fabaceae, Vigna) of sandy tropical and subtropical beaches, creeping over the sand with yellow pea-flowers and long slender pods; a strand plant whose seeds are dispersed by ocean currents.",
+      "habitat_hint": "subtropical and tropical sandy beaches, dunes, back-shore.",
+      "finding_tips": "From summer to autumn, on southern beaches look for a trailing vine with yellow pea-flowers and long pods; the thickish trifoliate leaves, yellow flowers and beach habitat are diagnostic."
+    },
+    "zh": {
+      "summary": "滨豇豆（ハマササゲ）。生于日本西南诸岛等海岸沙滩的豆科豇豆属蔓性多年生草本，匍匐沙面，开黄色蝶形花、结细长荚，为种子随海流传播的海滨植物。",
+      "habitat_hint": "亚热带与热带海岸沙滩、沙丘、海岸后缘。",
+      "finding_tips": "夏至秋于南方沙滩寻找匍匐藤上着黄色蝶形花与细长荚的草。较厚的三小叶、黄花与沙滩环境为辨识要点。"
+    }
+  },
+  "Vignadula atrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black Mussel",
+    "ja": {
+      "summary": "クログチ。潮間帯の岩礁にすむイガイ科の小型の二枚貝。殻は黒っぽく、足糸で岩に固着し、しばしば群れて付着する。潮間帯上部の岩の割れ目などで見られる。",
+      "habitat_hint": "岩礁海岸の潮間帯、岩の割れ目、転石、防波堤。",
+      "finding_tips": "通年、磯の岩の割れ目や潮間帯上部に黒っぽい小さな二枚貝が群れて付着していれば本種。足糸で固着する黒い小型のイガイが識別ポイント。"
+    },
+    "en": {
+      "summary": "A small mussel (Mytilidae) of rocky intertidal shores, its blackish shell attached to rock by byssal threads, often clustering; found in upper-intertidal rock crevices.",
+      "habitat_hint": "rocky intertidal shores, rock crevices, boulders, breakwaters.",
+      "finding_tips": "Year-round, clustered blackish small bivalves in shore rock crevices and the upper intertidal signal this species; the small black byssally-attached mussel is diagnostic."
+    },
+    "zh": {
+      "summary": "黑荞麦蛤（クログチ）。栖于潮间带岩礁的贻贝科小型双壳类，壳偏黑，以足丝附岩、常成群附着，见于潮间带上部岩缝。",
+      "habitat_hint": "岩礁海岸潮间带、岩缝、砾石、防波堤。",
+      "finding_tips": "全年可见，礁岩岩缝与潮间带上部成群附着的黑色小双壳即为本种。以足丝附岩的黑色小贻贝为辨识要点。"
+    }
+  },
+  "Viola palmata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-lobed Violet",
+    "ja": {
+      "summary": "ミツデスミレ。山地の林縁や草地に生えるスミレ科スミレ属の多年草。葉が3つに深く裂けて手のひら状になるのが名の由来。春、淡紫色の花を咲かせる。裂けた葉が識別の手がかり。",
+      "habitat_hint": "山地の林縁、明るい草地、半日陰の斜面。",
+      "finding_tips": "4〜5月、山地で3つに深く裂けた手のひら状の葉を持つスミレを探す。裂けた葉と淡紫色の花が識別ポイント。"
+    },
+    "en": {
+      "summary": "Three-lobed Violet. A perennial (Violaceae, Viola) of montane forest edges and grassland, named for leaves deeply divided into three palm-like lobes; it bears pale-purple flowers in spring, the divided leaves being a key clue.",
+      "habitat_hint": "montane forest edges, bright grassland, half-shaded slopes.",
+      "finding_tips": "From April to May, in the mountains look for a violet with leaves deeply cut into three palm-like lobes; the divided leaves and pale-purple flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "三裂堇菜（ミツデスミレ）。生于山地林缘与草地的堇菜科堇菜属多年生草本，因叶深裂成三片掌状而得名，春开淡紫色花，裂叶为辨识线索。",
+      "habitat_hint": "山地林缘、明亮草地、半荫山坡。",
+      "finding_tips": "4 至 5 月于山地寻找叶深裂成三掌状裂片的堇菜。裂叶与淡紫花为辨识要点。"
+    }
+  },
+  "Vulpicida pinastri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Powdered Sunshine Lichen",
+    "ja": {
+      "summary": "コナハイマツゴケ。亜高山〜高山の樹幹や枝、倒木に生える葉状地衣類。鮮やかな黄色〜黄緑色の裂片を広げ、縁に黄色い粉状の粉芽をつける。針葉樹林に多く目を引く色の地衣。",
+      "habitat_hint": "亜高山〜高山の針葉樹の樹幹・枝、倒木、木の根元。",
+      "finding_tips": "通年、亜高山の針葉樹の幹や枝で鮮やかな黄色の葉状地衣を探す。縁につく黄色い粉状の粉芽が識別ポイント。"
+    },
+    "en": {
+      "summary": "Powdered Sunshine Lichen. A foliose lichen of subalpine to alpine trunks, branches and logs, spreading vivid yellow to yellow-green lobes edged with yellow powdery soredia; a strikingly coloured lichen common in conifer forest.",
+      "habitat_hint": "subalpine to alpine conifer trunks and branches, logs, tree bases.",
+      "finding_tips": "Year-round, on subalpine conifer trunks and branches look for a vivid yellow foliose lichen; the yellow powdery soredia along the margins are diagnostic."
+    },
+    "zh": {
+      "summary": "粉黄髓衣（コナハイマツゴケ）。生于亚高山至高山针叶树干枝与倒木的叶状地衣，铺展鲜黄至黄绿裂片、边缘生黄色粉状粉芽，为针叶林中色彩醒目的地衣。",
+      "habitat_hint": "亚高山至高山针叶树干枝、倒木、树基。",
+      "finding_tips": "全年可见，于亚高山针叶树干枝寻找鲜黄叶状地衣。边缘黄色粉状粉芽为辨识要点。"
+    }
+  },
+  "Weigela middendorfiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Middendorff's Bush Honeysuckle",
+    "ja": {
+      "summary": "ウコンウツギ。亜高山〜高山の林縁や岩場に生えるスイカズラ科タニウツギ属の落葉低木。初夏、淡黄色（うこん色）の筒状の花を咲かせ、内側に橙色の斑点がある。北方・高地性のウツギの仲間。",
+      "habitat_hint": "亜高山〜高山の林縁、岩場、ハイマツ帯の周縁、明るい斜面。",
+      "finding_tips": "6〜7月、亜高山の林縁や岩場で淡黄色の筒状の花をつける低木を探す。うこん色の花と内側の橙色斑点が識別ポイント。"
+    },
+    "en": {
+      "summary": "Middendorff's Bush Honeysuckle. A deciduous shrub (Caprifoliaceae, Weigela) of subalpine to alpine forest edges and rocks, bearing pale-yellow (turmeric-coloured) tubular flowers with orange spots inside in early summer; a northern, high-elevation relative of the weigelas.",
+      "habitat_hint": "subalpine to alpine forest edges, rocks, margins of the creeping-pine zone, bright slopes.",
+      "finding_tips": "From June to July, at subalpine forest edges and rocks look for a shrub with pale-yellow tubular flowers; the turmeric colour and orange interior spots are diagnostic."
+    },
+    "zh": {
+      "summary": "黄花锦带（ウコンウツギ）。生于亚高山至高山林缘与岩地的忍冬科锦带花属落叶灌木，初夏开淡黄（姜黄色）筒状花、内侧具橙斑，为北方高山性的锦带花类。",
+      "habitat_hint": "亚高山至高山林缘、岩地、偃松带边缘、明亮山坡。",
+      "finding_tips": "6 至 7 月于亚高山林缘岩地寻找开淡黄筒状花的灌木。姜黄色花与内侧橙斑为辨识要点。"
+    }
+  },
+  "Xanthorhoe quadrifasiata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large Twin-spot Carpet",
+    "ja": {
+      "summary": "ヨスジナミシャク。本州〜九州の樹林や草地に分布するシャクガ科ナミシャク亜科の蛾。翅は灰白色で、前翅に4本の暗色の帯状横線が走るのが名の由来。",
+      "habitat_hint": "雑木林、樹林の縁、草地、湿った林縁。",
+      "finding_tips": "5〜8月、夜間に灯火へ来る。灰白色の翅に走る4本の暗色帯が識別ポイント。"
+    },
+    "en": {
+      "summary": "Large Twin-spot Carpet. A carpet moth (Geometridae, Larentiinae) of woodland and grassland from Honshu to Kyushu, with greyish-white wings crossed by four dark bands on the forewing — the source of its Japanese name.",
+      "habitat_hint": "secondary woodland, forest edges, grassland, damp forest margins.",
+      "finding_tips": "From May to August it comes to lights at night. The four dark bands across greyish-white wings are diagnostic."
+    },
+    "zh": {
+      "summary": "四线波尺蛾（ヨスジナミシャク）。分布于日本本州至九州林地与草地的尺蛾科波尺蛾亚科蛾，翅灰白色，前翅具四条暗色带状横线，即其日文名之由来。",
+      "habitat_hint": "杂木林、林缘、草地、潮湿林缘。",
+      "finding_tips": "5 至 8 月夜间趋光。灰白翅面上四条暗色带为辨识要点。"
+    }
+  },
+  "Xestia ditrapezium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Triple-spotted Clay",
+    "ja": {
+      "summary": "タンポヤガ。本州〜九州の樹林や草地に分布するヤガ科モンヤガ亜科の蛾。前翅は赤褐色〜暗褐色で、環状紋と腎状紋が並ぶ。幼虫は各種の草本や低木の葉を食べる。",
+      "habitat_hint": "雑木林、樹林の縁、草地、公園の緑地。",
+      "finding_tips": "6〜8月、夜間に灯火へ来る。赤褐色〜暗褐色の前翅に並ぶ環状紋・腎状紋が識別ポイント。"
+    },
+    "en": {
+      "summary": "Triple-spotted Clay. A noctuid moth (Noctuidae) of woodland and grassland from Honshu to Kyushu, with reddish- to dark-brown forewings marked by orbicular and reniform spots; the larvae feed on various herbs and shrubs.",
+      "habitat_hint": "secondary woodland, forest edges, grassland, park greenery.",
+      "finding_tips": "From June to August it comes to lights at night. The reddish-to-dark-brown forewings with paired orbicular and reniform spots are diagnostic."
+    },
+    "zh": {
+      "summary": "梯斑地夜蛾（タンポヤガ）。分布于日本本州至九州林地与草地的夜蛾科切根夜蛾亚科蛾，前翅红褐至暗褐色，具环状纹与肾状纹，幼虫取食多种草本与灌木。",
+      "habitat_hint": "杂木林、林缘、草地、公园绿地。",
+      "finding_tips": "6 至 8 月夜间趋光。红褐至暗褐前翅上的环状纹与肾状纹为辨识要点。"
+    }
+  },
+  "Zacalantica unguiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Claw Limpet",
+    "ja": {
+      "summary": "ツメナリミヤコドリガイ。潮間帯〜潮下帯の岩礁にすくヨメガカサ科などのカサガイ（笠貝）の一種。殻は低い笠形で、爪のような形をしていることが名の由来。岩に張り付いて海藻を削り取って食べる。",
+      "habitat_hint": "岩礁海岸の潮間帯〜潮下帯、波当たりのある岩肌。",
+      "finding_tips": "通年、磯の岩に張り付く低い笠形の貝を探す。爪のような殻の形が名の由来で識別ポイント。"
+    },
+    "en": {
+      "summary": "Claw Limpet. A true limpet of rocky intertidal to subtidal shores, its low cap-shaped shell claw-like in form — the source of its Japanese name; it clamps to rock and rasps off algae to feed.",
+      "habitat_hint": "rocky intertidal to subtidal shores, wave-washed rock faces.",
+      "finding_tips": "Year-round, on shore rock look for a low cap-shaped limpet; the claw-like shell shape is diagnostic."
+    },
+    "zh": {
+      "summary": "爪形笠螺（ツメナリミヤコドリガイ）。栖于岩礁潮间带至潮下带的笠形贝，壳低笠状、形似爪，即其日文名之由来，附岩刮食海藻。",
+      "habitat_hint": "岩礁海岸潮间带至潮下带、浪击岩面。",
+      "finding_tips": "全年可见，于礁岩寻找紧贴的低笠形贝。似爪的壳形为辨识要点。"
+    }
+  },
+  "Zanclognatha lunalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fan-foot Moth",
+    "ja": {
+      "summary": "コブヒゲアツバ。本州〜九州の樹林に分布するヤガ科クルマアツバ亜科の蛾。翅は褐色で細かい横線が走り、雄の触角に瘤（こぶ）状の突起があるのが名の由来。幼虫は枯れ葉などを食べる。",
+      "habitat_hint": "雑木林、広葉樹林、樹林の縁。",
+      "finding_tips": "6〜8月、夜間に灯火へ来る。褐色の翅と、雄の触角の瘤状突起が識別ポイント。"
+    },
+    "en": {
+      "summary": "A fan-foot moth (Erebidae, Herminiinae) of woodland from Honshu to Kyushu, with brown wings crossed by fine lines; the male antenna bears a knob-like projection, the source of its Japanese name. The larvae feed on dead leaves.",
+      "habitat_hint": "secondary woodland, broadleaf forest, forest edges.",
+      "finding_tips": "From June to August it comes to lights at night. The brown finely-lined wings and the knobbed male antenna are diagnostic."
+    },
+    "zh": {
+      "summary": "瘤须裸夜蛾（コブヒゲアツバ）。分布于日本本州至九州林地的夜蛾科镰须夜蛾亚科蛾，翅褐色具细横线，雄虫触角具瘤状突起，即其日文名之由来，幼虫取食枯叶。",
+      "habitat_hint": "杂木林、阔叶林、林缘。",
+      "finding_tips": "6 至 8 月夜间趋光。褐色细纹翅面与雄虫触角瘤突为辨识要点。"
+    }
+  },
+  "Zizina otis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lesser Grass Blue",
+    "ja": {
+      "summary": "ヒメシルビアシジミ。南西諸島などに分布するシジミチョウ科の小型のチョウ。翅の表は青紫色、裏は灰白色で小さな黒点が散る。食草はマメ科の草本。よく似たシルビアシジミより小型。",
+      "habitat_hint": "南西諸島の草地、道端、河原、公園の芝地。",
+      "finding_tips": "ほぼ通年（暖地）、草地でマメ科植物の周りを飛ぶごく小さなシジミチョウを探す。翅裏の小さな黒点の配列が識別ポイント。"
+    },
+    "en": {
+      "summary": "Lesser Grass Blue. A very small blue butterfly (Lycaenidae) of the Ryukyu Islands and beyond; the upperside is blue-purple, the underside greyish-white sprinkled with small black dots, and its larvae feed on legumes. Smaller than the similar Sylvia grass blue.",
+      "habitat_hint": "Ryukyu grassland, waysides, riverbanks, park lawns.",
+      "finding_tips": "Almost year-round in warm regions, in grassland look for a tiny blue flitting around legumes; the pattern of small black dots on the underside is diagnostic."
+    },
+    "zh": {
+      "summary": "酢浆灰蝶近缘的小灰蝶（ヒメシルビアシジミ）。分布于日本西南诸岛等地的灰蝶科小型蝶，翅面青紫、翅背灰白散小黑点，幼虫取食豆科草本，较近似的银纹灰蝶小。",
+      "habitat_hint": "西南诸岛草地、路旁、河滩、公园草坪。",
+      "finding_tips": "暖地几近全年，于草地寻找绕豆科植物飞舞的极小灰蝶。翅背小黑点的排列为辨识要点。"
+    }
   }
 }
