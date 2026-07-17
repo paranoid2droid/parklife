@@ -253498,5 +253498,530 @@
       "habitat_hint": "夏秋杂木林与针阔混交林地面、树根附近。",
       "finding_tips": "夏秋林内若见通体纯白的菌须疑为本种。白色盖、菌环与袋状菌托为辨识要点。剧毒多致死，切勿触食。"
     }
+  },
+  "Amara lucens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground Beetle",
+    "ja": {
+      "summary": "ヒメツヤマルガタゴミムシ。オサムシ科マルガタゴミムシ亜科の小型甲虫で、体長7mm前後、光沢のある黒褐色。本州から九州の草地や畑地に分布する。",
+      "habitat_hint": "河川敷、草地、畑地、公園の芝地。開けた乾いた地面を好む。",
+      "finding_tips": "4〜9月、地表や石の下を探します。丸みを帯びた体形と金属光沢が識別ポイント。"
+    },
+    "en": {
+      "summary": "A small ground beetle (about 7 mm) with a glossy blackish-brown body, found in grassland and cultivated ground from Honshu to Kyushu.",
+      "habitat_hint": "Riverbanks, grassland, fields and park lawns — prefers open, dry ground.",
+      "finding_tips": "From April to September search the soil surface and under stones. Its rounded, shiny body is diagnostic."
+    },
+    "zh": {
+      "summary": "光滑圆步甲（ヒメツヤマルガタゴミムシ）。步甲科的小型甲虫，体长约7毫米，体色具光泽的黑褐色，分布于本州至九州的草地与耕地。",
+      "habitat_hint": "河滩、草地、田地、公园草坪。喜开阔干燥的地面。",
+      "finding_tips": "4至9月，于地表及石块下寻找。圆润带金属光泽的身体为辨识要点。"
+    }
+  },
+  "Ancistrocerus melanocerus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potter Wasp",
+    "ja": {
+      "summary": "ケブカスジドロバチ。スズメバチ科ドロバチ亜科の狩人バチで、黒地に黄色の帯を持つ。泥で巣室を作り、蛾の幼虫を狩って幼虫の餌とする。",
+      "habitat_hint": "林縁、草地、人家周辺。土壁や竹筒などの既存の空洞に営巣する。",
+      "finding_tips": "5〜9月、花や泥を集める姿を探します。腹部の黄帯と毛深い胸部が識別点。"
+    },
+    "en": {
+      "summary": "A solitary potter wasp, black with yellow bands, that builds mud brood cells and provisions them with caterpillars for its larvae.",
+      "habitat_hint": "Woodland edges, grassland and near houses — nests in existing cavities such as earthen walls and hollow stems.",
+      "finding_tips": "From May to September watch at flowers or mud sources. The yellow abdominal bands and hairy thorax help identify it."
+    },
+    "zh": {
+      "summary": "毛胸蜾蠃（ケブカスジドロバチ）。胡蜂科蜾蠃亚科的独居狩猎蜂，黑底具黄带，以泥筑巢室并捕蛾类幼虫喂养后代。",
+      "habitat_hint": "林缘、草地、人家附近。于土墙、竹筒等既有空腔中营巢。",
+      "finding_tips": "5至9月，观察其访花或采泥。腹部黄带与多毛的胸部为辨识点。"
+    }
+  },
+  "Andromeda polifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "青姬木"
+    },
+    "ja": {
+      "summary": "ヒメシャクナゲ。ツツジ科の常緑小低木で、高山や寒地の湿原に生える。細い葉と淡紅色の壺形の花をつける。全草に毒を含む。",
+      "habitat_hint": "高層湿原、寒冷地の湿地。ミズゴケの発達した酸性の湿地を好む。",
+      "finding_tips": "5〜7月、湿原で下向きに咲く小さな壺形の花を探します。裏面が白い細葉が特徴。"
+    },
+    "en": {
+      "summary": "Bog rosemary, an evergreen dwarf shrub of alpine and cold-climate bogs, with narrow leaves and nodding pink urn-shaped flowers. All parts are poisonous.",
+      "habitat_hint": "Raised bogs and cold-region wetlands — prefers acidic, Sphagnum-rich mires.",
+      "finding_tips": "From May to July look for the small nodding urn-shaped flowers in bogs. The narrow, white-backed leaves are distinctive."
+    },
+    "zh": {
+      "summary": "青姬木（ヒメシャクナゲ）。杜鹃花科常绿小灌木，生于高山及寒地湿原，叶细长，花淡红色壶形下垂，全株有毒。",
+      "habitat_hint": "高位泥炭沼、寒地湿地。喜泥炭藓发达的酸性湿地。",
+      "finding_tips": "5至7月，于湿原寻找下垂的小壶形花。叶背白色的细叶为特征。"
+    }
+  },
+  "Anemonastrum keiskeanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ユキワリイチゲ。キンポウゲ科の多年草で、早春に淡紫色の花を開く。本州から九州の林床に生え、春植物（スプリング・エフェメラル）の一つ。",
+      "habitat_hint": "落葉樹林の林床、竹林、山麓の斜面。やや湿った半日陰を好む。",
+      "finding_tips": "2〜4月、林床で日差しを受けて開く淡紫の花を探します。三出複葉の根生葉が目印。"
+    },
+    "en": {
+      "summary": "A spring ephemeral of the buttercup family that opens pale-violet flowers in early spring on the forest floor from Honshu to Kyushu.",
+      "habitat_hint": "Floors of deciduous woodland, bamboo groves and lower slopes — likes moist, part-shade.",
+      "finding_tips": "From February to April look for the pale-violet flowers opening in sunlight on the forest floor. The trifoliate basal leaves are a clue."
+    },
+    "zh": {
+      "summary": "雪割一华（ユキワリイチゲ）。毛茛科多年生草本，早春开淡紫色花，生于本州至九州的林床，为典型的早春短命植物。",
+      "habitat_hint": "落叶林床、竹林、山麓斜坡。喜略湿的半阴环境。",
+      "finding_tips": "2至4月，于林床寻找受阳光而开放的淡紫花。三出复叶的基生叶为标志。"
+    }
+  },
+  "Anemonastrum narcissiflorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "水仙花银莲花"
+    },
+    "ja": {
+      "summary": "ハクサンイチゲ。キンポウゲ科の多年草で、亜高山〜高山帯の草地に群生する。白い花を数個まとめて咲かせ、高山植物の代表種の一つ。",
+      "habitat_hint": "亜高山〜高山帯の湿った草地、雪田周辺。日当たりの良い草原を好む。",
+      "finding_tips": "6〜8月、高山の草地で白い花の群落を探します。深く裂けた葉と傘状の花序が特徴。"
+    },
+    "en": {
+      "summary": "A perennial of the buttercup family that carpets subalpine to alpine meadows, bearing several white flowers together — a classic Japanese alpine plant.",
+      "habitat_hint": "Moist subalpine to alpine grassland and snow-patch margins — likes sunny meadows.",
+      "finding_tips": "From June to August look for colonies of white flowers in alpine meadows. The deeply divided leaves and umbel-like flower cluster are distinctive."
+    },
+    "zh": {
+      "summary": "水仙银莲花（ハクサンイチゲ）。毛茛科多年生草本，成群生于亚高山至高山草地，数朵白花簇生，为日本代表性高山植物之一。",
+      "habitat_hint": "亚高山至高山湿润草地、雪田周边。喜向阳草原。",
+      "finding_tips": "6至8月，于高山草地寻找白花群落。深裂的叶片与伞状花序为特征。"
+    }
+  },
+  "Anethum graveolens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "莳萝"
+    },
+    "ja": {
+      "summary": "イノンド（ディル）。セリ科の一年草で、羽状に細裂した葉と黄色い小花の傘形花序を持つ。ハーブとして栽培され、葉や種子を香辛料に用いる。",
+      "habitat_hint": "畑、ハーブ園、道端の逸出地。日当たりの良い肥沃な場所を好む。",
+      "finding_tips": "6〜8月、黄色い小花の大きな複散形花序を探します。糸状に細かく裂けた葉と独特の香りが目印。"
+    },
+    "en": {
+      "summary": "Dill, an annual of the carrot family with feathery, finely divided leaves and umbels of tiny yellow flowers; grown as a herb for its leaves and seeds.",
+      "habitat_hint": "Fields, herb gardens and roadside escapes — likes sunny, fertile ground.",
+      "finding_tips": "From June to August look for the large compound umbels of tiny yellow flowers. The thread-like leaves and distinctive aroma are the clues."
+    },
+    "zh": {
+      "summary": "莳萝（イノンド）。伞形科一年生草本，叶羽状细裂，黄色小花组成伞形花序；作香草栽培，叶与种子供作调味。",
+      "habitat_hint": "田地、香草园、路旁逸生地。喜向阳肥沃处。",
+      "finding_tips": "6至8月，寻找黄色小花的大型复伞形花序。丝状细裂的叶与独特香气为标志。"
+    }
+  },
+  "Angelica cartilaginomarginata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマシシウド。セリ科シシウド属の多年草で、山地の草原や林縁に生える。大型で、白い小花からなる複散形花序をつける。",
+      "habitat_hint": "山地の草原、林縁、河岸。日当たりの良いやや湿った場所を好む。",
+      "finding_tips": "7〜9月、白い花の大きな傘形花序を探します。縁が軟骨質になった小葉が名の由来で識別点。"
+    },
+    "en": {
+      "summary": "A large perennial angelica of the carrot family found in mountain grassland and woodland edges, bearing broad compound umbels of small white flowers.",
+      "habitat_hint": "Mountain grassland, woodland edges and riverbanks — likes sunny, somewhat moist ground.",
+      "finding_tips": "From July to September look for the broad white umbels. The cartilage-margined leaflets that give it its name are diagnostic."
+    },
+    "zh": {
+      "summary": "深山猪独活（ミヤマシシウド）。伞形科当归属多年生草本，生于山地草原及林缘，植株高大，白色小花组成复伞形花序。",
+      "habitat_hint": "山地草原、林缘、河岸。喜向阳略湿处。",
+      "finding_tips": "7至9月，寻找白花的大型伞形花序。小叶边缘软骨质（名之由来）为辨识点。"
+    }
+  },
+  "Angelica gmelinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "エゾノシシウド。セリ科シシウド属の大型多年草で、北海道など寒地の海岸や草原に生える。太い茎と白い複散形花序が目立つ。",
+      "habitat_hint": "海岸の草地、河岸、湿った草原。寒冷地の日当たりを好む。",
+      "finding_tips": "7〜9月、海岸近くで白い大きな傘形花序を探します。厚みのある光沢のある葉が識別点。"
+    },
+    "en": {
+      "summary": "A robust angelica of the carrot family growing on cold-region coasts and grassland (e.g. Hokkaido), with a stout stem and broad white compound umbels.",
+      "habitat_hint": "Coastal grassland, riverbanks and moist meadows — likes sunny cold-region sites.",
+      "finding_tips": "From July to September look for the large white umbels near the coast. The thick, glossy leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "虾夷猪独活（エゾノシシウド）。伞形科当归属大型多年生草本，生于北海道等寒地海岸及草原，茎粗壮，白色复伞形花序醒目。",
+      "habitat_hint": "海岸草地、河岸、湿润草原。喜寒地向阳处。",
+      "finding_tips": "7至9月，于近海岸处寻找白色大伞形花序。厚而具光泽的叶为辨识点。"
+    }
+  },
+  "Anoplophora macularia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タイワンゴマダラカミキリ。カミキリムシ科の大型甲虫で、黒地に白い斑紋を散らす。ゴマダラカミキリに似るが、台湾や南西諸島に分布する。",
+      "habitat_hint": "低地の広葉樹林、果樹園、街路樹。生きた樹木を好み幼虫は幹を食害する。",
+      "finding_tips": "5〜8月、樹幹や枝で黒白まだらの成虫を探します。長い触角と白斑の並びが識別点。"
+    },
+    "en": {
+      "summary": "A large longhorn beetle, black with scattered white spots, resembling the white-spotted longhorn but distributed in Taiwan and the Ryukyus.",
+      "habitat_hint": "Lowland broadleaf forest, orchards and street trees — larvae bore into living trunks.",
+      "finding_tips": "From May to August search trunks and branches for the black-and-white mottled adult. The long antennae and pattern of white spots identify it."
+    },
+    "zh": {
+      "summary": "台湾星天牛（タイワンゴマダラカミキリ）。天牛科大型甲虫，黑底散布白斑，似星天牛，分布于台湾及琉球群岛。",
+      "habitat_hint": "低地阔叶林、果园、行道树。喜活树，幼虫蛀食树干。",
+      "finding_tips": "5至8月，于树干枝条寻找黑白斑驳的成虫。长触角与白斑排列为辨识点。"
+    }
+  },
+  "Anzia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen",
+    "ja": {
+      "summary": "サボテンアンチゴケ。ウメノキゴケ科の葉状地衣類で、樹皮や岩上に付着する。裂片の裏が黒く綿状で、独特の質感を持つ。",
+      "habitat_hint": "山地の樹幹、岩上。湿度の高い林内を好む。",
+      "finding_tips": "通年、樹皮上の灰緑色の葉状地衣を探します。裂片裏面の黒い綿毛状の部分が識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen of the Parmeliaceae that grows on bark and rock, with a distinctive cottony black underside to its lobes.",
+      "habitat_hint": "Trunks and rocks in mountain woodland — likes humid forest interiors.",
+      "finding_tips": "Year-round look for the grey-green foliose lichen on bark. The black, cottony lower surface of the lobes is diagnostic."
+    },
+    "zh": {
+      "summary": "日本树发衣（サボテンアンチゴケ）。梅衣科叶状地衣，附生于树皮与岩石，裂片背面黑色绵状，质感独特。",
+      "habitat_hint": "山地树干、岩面。喜湿度高的林内。",
+      "finding_tips": "全年，于树皮上寻找灰绿色叶状地衣。裂片背面的黑色绵毛状部分为辨识点。"
+    }
+  },
+  "Aphanes australis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメイワムシロ。バラ科の小型の一年草で、細裂した葉と極めて小さな緑色の花をつける。畑地や道端に生える帰化・在来の雑草的植物。",
+      "habitat_hint": "畑、道端、荒地。日当たりの良い乾いた地面を好む。",
+      "finding_tips": "4〜6月、地面を這う小さな株を探します。三裂した小葉と目立たない緑の花が特徴。"
+    },
+    "en": {
+      "summary": "A tiny annual of the rose family with finely divided leaves and minute green flowers, growing as a weed on fields and roadsides.",
+      "habitat_hint": "Fields, roadsides and waste ground — likes sunny, dry soil.",
+      "finding_tips": "From April to June look for the small ground-hugging plants. The three-lobed leaflets and inconspicuous green flowers are distinctive."
+    },
+    "zh": {
+      "summary": "南方羽衣草（ヒメイワムシロ）。蔷薇科小型一年生草本，叶细裂，花极小呈绿色，生于田地及路旁，似杂草。",
+      "habitat_hint": "田地、路旁、荒地。喜向阳干燥地面。",
+      "finding_tips": "4至6月，寻找贴地生长的小株。三裂的小叶与不显眼的绿花为特征。"
+    }
+  },
+  "Aplysiopsis minor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea Slug",
+    "ja": {
+      "summary": "ヒメクロモウミウシ。嚢舌目の小型のウミウシで、体長1cm前後。緑褐色の体に細長い突起（背側突起）を密生させ、海藻上で暮らす。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、藻場。緑藻の生える岩上を好む。",
+      "finding_tips": "春〜夏、海藻上で細かい突起を持つ小型のウミウシを探します。糸状の突起と地味な緑褐色が識別点。"
+    },
+    "en": {
+      "summary": "A small sacoglossan sea slug (about 1 cm) with a greenish-brown body densely covered in slender cerata, living on seaweed.",
+      "habitat_hint": "Intertidal to shallow rocky reefs and algal beds — likes rocks with green algae.",
+      "finding_tips": "In spring and summer look on seaweed for the small slug with fine projections. The thread-like cerata and drab green-brown colour identify it."
+    },
+    "zh": {
+      "summary": "小黑藻海蛞蝓（ヒメクロモウミウシ）。囊舌目小型海蛞蝓，体长约1厘米，绿褐色体上密生细长背突，栖于海藻之上。",
+      "habitat_hint": "潮间带至浅海岩礁、藻场。喜生绿藻的岩面。",
+      "finding_tips": "春夏，于海藻上寻找带细突起的小型海蛞蝓。丝状突起与暗绿褐色为辨识点。"
+    }
+  },
+  "Apoderus jekeli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf-rolling Weevil",
+    "ja": {
+      "summary": "オトシブミ。オトシブミ科の甲虫で、赤褐色に黒い脚を持つ。雌が葉を巻いて「揺籃（ゆりかご）」を作り、その中に産卵することで知られる。",
+      "habitat_hint": "雑木林、林縁。ハンノキやクリなどの広葉樹の葉を利用する。",
+      "finding_tips": "4〜6月、葉が巻かれた小さな筒（揺籃）を探すと近くに成虫がいます。赤い体と長い前胸が識別点。"
+    },
+    "en": {
+      "summary": "A leaf-rolling weevil, reddish-brown with black legs; the female rolls a leaf into a 'cradle' and lays her egg inside it.",
+      "habitat_hint": "Coppice woodland and forest edges — uses leaves of broadleaf trees such as alder and chestnut.",
+      "finding_tips": "From April to June look for the small rolled-leaf cradles; adults are nearby. The red body and elongate prothorax identify it."
+    },
+    "zh": {
+      "summary": "卷叶象（オトシブミ）。卷象科甲虫，红褐色，足黑色；雌虫将叶片卷成「摇篮」并于其中产卵而闻名。",
+      "habitat_hint": "杂木林、林缘。利用桤木、栗等阔叶树的叶片。",
+      "finding_tips": "4至6月，寻找卷成小筒的叶「摇篮」，附近即有成虫。红色身体与延长的前胸为辨识点。"
+    }
+  },
+  "Arabella iricolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bloodworm",
+    "ja": {
+      "summary": "セグロイソメ。イソメ科の多毛類（ゴカイの仲間）で、体は細長く虹色の金属光沢を帯びる。砂泥中に潜り、釣り餌としても利用される。",
+      "habitat_hint": "潮間帯〜浅海の砂泥底。河口や内湾の砂泥を好む。",
+      "finding_tips": "干潮時、砂泥を掘って虹色に光る細長い環形動物を探します。金属光沢の体色が識別点。"
+    },
+    "en": {
+      "summary": "A polychaete worm of the family Oenonidae with a long slender body and iridescent metallic sheen; it burrows in sandy mud and is used as fishing bait.",
+      "habitat_hint": "Intertidal to shallow sandy-mud bottoms — likes estuaries and sheltered bays.",
+      "finding_tips": "At low tide dig in sandy mud for the long, iridescent worm. Its metallic-sheened body is diagnostic."
+    },
+    "zh": {
+      "summary": "虹彩矶沙蚕（セグロイソメ）。矶沙蚕科多毛类，体细长，具虹彩金属光泽，潜于砂泥中，亦用作钓饵。",
+      "habitat_hint": "潮间带至浅海砂泥底。喜河口及内湾砂泥。",
+      "finding_tips": "退潮时，掘砂泥寻找虹彩闪光的细长环节动物。金属光泽的体色为辨识点。"
+    }
+  },
+  "Arabis flagellosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スズシロソウ。アブラナ科の多年草で、白い十字花を咲かせる。走出枝（ランナー）を伸ばして増え、山地の岩場や斜面に生える。",
+      "habitat_hint": "山地の岩場、林縁、渓流沿い。やや湿った半日陰を好む。",
+      "finding_tips": "3〜5月、白い小さな十字花を探します。地表を這う走出枝で群生する点が識別点。"
+    },
+    "en": {
+      "summary": "A perennial of the mustard family with small white cross-shaped flowers; it spreads by runners and grows on mountain rocks and slopes.",
+      "habitat_hint": "Mountain rocks, woodland edges and streamsides — likes moist part-shade.",
+      "finding_tips": "From March to May look for the small white four-petalled flowers. The creeping runners forming colonies are diagnostic."
+    },
+    "zh": {
+      "summary": "匍匐南芥（スズシロソウ）。十字花科多年生草本，开白色十字花，以匍匐茎繁殖，生于山地岩场与斜坡。",
+      "habitat_hint": "山地岩场、林缘、溪流边。喜略湿的半阴处。",
+      "finding_tips": "3至5月，寻找白色小十字花。以贴地匍匐茎成群生长为辨识点。"
+    }
+  },
+  "Arachniodes nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fern",
+    "ja": {
+      "summary": "ミドリカナワラビ。オシダ科カナワラビ属の常緑シダで、光沢のある緑色の羽状葉を持つ。暖地の林床に生える。",
+      "habitat_hint": "暖温帯の常緑・落葉樹林の林床。湿った半日陰を好む。",
+      "finding_tips": "通年、林床で光沢のある2〜3回羽状の葉を探します。明るい緑色と硬い質感が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen fern of the wood-fern family with glossy green, pinnately divided fronds, growing on the floor of warm-temperate woodland.",
+      "habitat_hint": "Floors of warm-temperate evergreen and deciduous forest — likes moist part-shade.",
+      "finding_tips": "Year-round look for the glossy 2–3-pinnate fronds on the forest floor. The bright green colour and firm texture are diagnostic."
+    },
+    "zh": {
+      "summary": "绿复叶耳蕨（ミドリカナワラビ）。鳞毛蕨科复叶耳蕨属常绿蕨类，叶羽状具光泽的绿色，生于暖地林床。",
+      "habitat_hint": "暖温带常绿及落叶林床。喜湿润半阴。",
+      "finding_tips": "全年，于林床寻找具光泽的2至3回羽状叶。明亮的绿色与硬质感为辨识点。"
+    }
+  },
+  "Arachniodes sasamotoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fern",
+    "ja": {
+      "summary": "シモダカナワラビ。オシダ科カナワラビ属の常緑シダで、暖地の林床に生える。硬く光沢のある葉を持ち、近縁種との区別には羽片の形が手掛かりになる。",
+      "habitat_hint": "暖温帯の樹林の林床、林縁。湿った半日陰を好む。",
+      "finding_tips": "通年、林床で光沢のある羽状葉を探します。羽片の切れ込みと硬い質感が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen wood fern of warm-region woodland floors, with firm, glossy fronds; the shape of the pinnae distinguishes it from close relatives.",
+      "habitat_hint": "Floors and edges of warm-temperate woodland — likes moist part-shade.",
+      "finding_tips": "Year-round look for the glossy pinnate fronds on the forest floor. The cut of the pinnae and firm texture are diagnostic."
+    },
+    "zh": {
+      "summary": "笹本复叶耳蕨（シモダカナワラビ）。鳞毛蕨科复叶耳蕨属常绿蕨类，生于暖地林床，叶硬而具光泽，羽片形态可与近缘种区别。",
+      "habitat_hint": "暖温带林床、林缘。喜湿润半阴。",
+      "finding_tips": "全年，于林床寻找具光泽的羽状叶。羽片缺刻与硬质感为辨识点。"
+    }
+  },
+  "Araeopteron amoena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moth",
+    "ja": {
+      "summary": "アヤホソコヤガ。ヤガ科の非常に小型の蛾で、開張1cm前後。前翅に細かな波状の斑紋を持つ。暖地の樹林に生息する。",
+      "habitat_hint": "低地〜丘陵の広葉樹林、林縁。暖地の樹林を好む。",
+      "finding_tips": "初夏〜秋、灯火に集まる極小の蛾を探します。前翅の細かい波模様が識別点。"
+    },
+    "en": {
+      "summary": "A very small noctuid moth (wingspan about 1 cm) with finely wavy markings on the forewings, inhabiting warm-region woodland.",
+      "habitat_hint": "Lowland to hill broadleaf forest and woodland edges — likes warm-region groves.",
+      "finding_tips": "From early summer to autumn look for the tiny moth at lights. The fine wavy pattern on the forewings is diagnostic."
+    },
+    "zh": {
+      "summary": "纹细夜蛾（アヤホソコヤガ）。夜蛾科极小型蛾类，翅展约1厘米，前翅具细密波状纹，栖于暖地林间。",
+      "habitat_hint": "低地至丘陵阔叶林、林缘。喜暖地林间。",
+      "finding_tips": "初夏至秋，寻找趋光的极小蛾类。前翅细密波纹为辨识点。"
+    }
+  },
+  "Arnica mallotopus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チョウジギク。キク科の多年草で、山地の湿った岩場や渓流沿いに生える。白い綿毛に包まれた柄の先に黄色い頭花をつけ、丁字形に見える。",
+      "habitat_hint": "山地の湿った岩壁、渓流沿い。水しぶきのかかる岩場を好む。",
+      "finding_tips": "8〜10月、渓流沿いの岩場で白い綿毛の柄の先に咲く黄色い花を探します。丁字形の花が名の由来で識別点。"
+    },
+    "en": {
+      "summary": "A perennial of the daisy family growing on wet mountain rocks and streamsides, with yellow flower heads on white-woolly stalks that look like a clove (chōji).",
+      "habitat_hint": "Wet mountain cliffs and streamsides — likes spray-washed rocks.",
+      "finding_tips": "From August to October look along streams for yellow flowers atop white-woolly stalks. The clove-shaped inflorescence that gives its name is diagnostic."
+    },
+    "zh": {
+      "summary": "丁字菊（チョウジギク）。菊科多年生草本，生于山地湿润岩壁及溪流边，黄色头状花序生于覆白绵毛的花柄之端，形似丁字。",
+      "habitat_hint": "山地湿润岩壁、溪流边。喜受水花溅湿的岩场。",
+      "finding_tips": "8至10月，于溪边岩场寻找白绵毛花柄顶端的黄花。丁字形花（名之由来）为辨识点。"
+    }
+  },
+  "Artemisia fukudo": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フクド。キク科ヨモギ属の二年草で、海岸の塩性湿地に生える。厚みのある羽状葉を持ち、秋に目立たない頭花をつける。海浜植物の一つ。",
+      "habitat_hint": "海岸の塩性湿地、河口の干潟縁。潮の影響を受ける泥地を好む。",
+      "finding_tips": "9〜11月、河口や塩湿地で厚い葉のヨモギ状の株を探します。多肉質の葉と海岸環境が識別点。"
+    },
+    "en": {
+      "summary": "A biennial wormwood of the daisy family growing in coastal salt marshes, with thick pinnate leaves and inconspicuous autumn flower heads — a seashore plant.",
+      "habitat_hint": "Coastal salt marshes and estuarine mudflat margins — likes tidal mud.",
+      "finding_tips": "From September to November look in estuaries and salt marshes for the thick-leaved wormwood-like plant. The fleshy leaves and coastal setting identify it."
+    },
+    "zh": {
+      "summary": "福胡（フクド）。菊科蒿属二年生草本，生于海岸盐沼，叶羽状肥厚，秋季开不显眼的头状花序，为海滨植物之一。",
+      "habitat_hint": "海岸盐沼、河口滩涂边缘。喜受潮汐影响的泥地。",
+      "finding_tips": "9至11月，于河口或盐沼寻找厚叶的蒿状植株。肉质叶与海岸环境为辨识点。"
+    }
+  },
+  "Asaphis violascens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pacific Asaphis",
+    "ja": {
+      "summary": "リュウキュウマスオ。ニッコウガイ科の二枚貝で、殻の内側が紫色を帯びる。南西諸島などの潮間帯の砂礫底に生息し、食用にもなる。",
+      "habitat_hint": "潮間帯〜浅海の砂礫底。暖海の内湾や干潟を好む。",
+      "finding_tips": "干潮時、砂礫を掘って厚みのある楕円形の貝を探します。殻内面の紫色が識別点。"
+    },
+    "en": {
+      "summary": "A bivalve of the family Psammobiidae whose shell interior is tinged purple; it lives in intertidal gravelly sand of warm seas and is edible.",
+      "habitat_hint": "Intertidal to shallow gravelly-sand bottoms — likes sheltered bays and flats of warm seas.",
+      "finding_tips": "At low tide dig in gravelly sand for the thick oval shell. The purple interior of the shell is diagnostic."
+    },
+    "zh": {
+      "summary": "紫色阿刀蛤（リュウキュウマスオ）。紫云蛤科双壳类，壳内面带紫色，栖于琉球群岛等潮间带砂砾底，可食用。",
+      "habitat_hint": "潮间带至浅海砂砾底。喜暖海内湾及滩涂。",
+      "finding_tips": "退潮时，掘砂砾寻找厚实的椭圆形贝。壳内面的紫色为辨识点。"
+    }
+  },
+  "Asarum kooyanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コウヤカンアオイ。ウマノスズクサ科カンアオイ属の常緑多年草で、ハート形の葉を持つ。地際に暗紫色の壺形の花をつける。ギフチョウの食草としても知られる。",
+      "habitat_hint": "常緑・落葉樹林の林床。腐植質に富む湿った半日陰を好む。",
+      "finding_tips": "地際の落ち葉をかき分け、暗紫色の壺形の花を探します。厚いハート形の常緑葉が目印。"
+    },
+    "en": {
+      "summary": "An evergreen wild ginger of the birthwort family with heart-shaped leaves and dark-purple urn-shaped flowers borne at ground level; a food plant of the Luehdorfia butterfly.",
+      "habitat_hint": "Floors of evergreen and deciduous woodland — likes moist, humus-rich part-shade.",
+      "finding_tips": "Part the leaf litter at the base to find the dark-purple urn-shaped flowers. The thick, heart-shaped evergreen leaves are a clue."
+    },
+    "zh": {
+      "summary": "高野寒葵（コウヤカンアオイ）。马兜铃科细辛属常绿多年生草本，叶心形，暗紫色壶形花生于近地面处，为日本虎凤蝶的寄主植物。",
+      "habitat_hint": "常绿及落叶林床。喜富腐殖质的湿润半阴处。",
+      "finding_tips": "拨开近地面落叶，寻找暗紫色壶形花。厚实的心形常绿叶为标志。"
+    }
+  },
+  "Asplenium oligophlebium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spleenwort",
+    "ja": {
+      "summary": "カミガモシダ。チャセンシダ科の常緑の小型シダで、湿った岩上に着生する。細長い単羽状の葉を垂らし、葉先から芽を出して増える。",
+      "habitat_hint": "渓流沿いの湿った岩壁、樹幹。湿度の高い日陰を好む。",
+      "finding_tips": "通年、湿った岩や樹幹で垂れ下がる細い単羽状の葉を探します。葉先の無性芽が識別点。"
+    },
+    "en": {
+      "summary": "A small evergreen spleenwort fern that grows on damp rocks, with narrow once-pinnate fronds that hang down and produce plantlets at their tips.",
+      "habitat_hint": "Damp cliffs and tree trunks along streams — likes humid shade.",
+      "finding_tips": "Year-round look on wet rocks and trunks for the drooping, narrow pinnate fronds. The tip-borne plantlets are diagnostic."
+    },
+    "zh": {
+      "summary": "上贺茂铁角蕨（カミガモシダ）。铁角蕨科常绿小型蕨类，附生于湿润岩面，叶细长一回羽状下垂，于叶尖生芽繁殖。",
+      "habitat_hint": "溪流边湿润岩壁、树干。喜湿度高的阴处。",
+      "finding_tips": "全年，于湿岩或树干寻找下垂的细长一回羽状叶。叶尖的无性芽为辨识点。"
+    }
+  },
+  "Asteropetes noctuina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moth",
+    "ja": {
+      "summary": "ヒメトラガ。ヤガ科トラガ亜科の小型の蛾で、黒地に黄色い斑紋を持ち昼行性。花を訪れて吸蜜する。",
+      "habitat_hint": "低地〜山地の草地、林縁。日当たりの良い花のある環境を好む。",
+      "finding_tips": "5〜8月、昼間に花上で黒地に黄斑の小さな蛾を探します。トラを思わせる黄黒の模様が識別点。"
+    },
+    "en": {
+      "summary": "A small day-flying noctuid moth of the subfamily Agaristinae, black with yellow markings, that visits flowers to feed.",
+      "habitat_hint": "Lowland to mountain grassland and woodland edges — likes sunny, flowery places.",
+      "finding_tips": "From May to August look by day at flowers for the small black moth with yellow spots. The tiger-like yellow-and-black pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "姬虎蛾（ヒメトラガ）。夜蛾科虎蛾亚科小型蛾类，黑底具黄斑，昼行性，访花吸蜜。",
+      "habitat_hint": "低地至山地草地、林缘。喜向阳多花的环境。",
+      "finding_tips": "5至8月，白昼于花上寻找黑底黄斑的小蛾。似虎的黄黑纹为辨识点。"
+    }
   }
 }
