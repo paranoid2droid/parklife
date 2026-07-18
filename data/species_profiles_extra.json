@@ -264328,5 +264328,553 @@
       "habitat_hint": "浅砂底、岩礁、珊瑚礁底。",
       "finding_tips": "于砂底或岩上寻找疣状拟态之鱼；受激时露出胸鳍内侧鲜色；有毒勿触。"
     }
+  },
+  "Scutellaria shikokiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shikoku skullcap",
+    "ja": {
+      "summary": "ミヤマナミキ。四国・本州西部の山地林内に生えるシソ科の小型多年草。茎は四角く、対生の葉をつけ、夏に淡紫色の唇形花を一方向に並べて咲かせる。",
+      "habitat_hint": "山地の落葉樹林の林床、湿った林縁、沢沿い。",
+      "finding_tips": "夏、林床で四角い茎に淡紫色の唇形花を並べる小さな草を探す。上向きに片側へ並ぶ花が識別点。"
+    },
+    "en": {
+      "summary": "Shikoku skullcap (Scutellaria shikokiana). A small mint-family perennial of montane forest floors in Shikoku and western Honshu; the square stems bear opposite leaves and one-sided rows of pale purple lipped flowers in summer.",
+      "habitat_hint": "Floors of montane deciduous forest, damp edges and streamsides.",
+      "finding_tips": "In summer look on the forest floor for a small herb with square stems and pale-purple lipped flowers ranked to one side."
+    },
+    "zh": {
+      "summary": "ミヤマナミキ（四国黄芩）。生于四国及本州西部山地林内的唇形科小型多年生草本，茎四棱、叶对生，夏开淡紫色唇形花偏向一侧排列。",
+      "habitat_hint": "山地落叶林林床、湿润林缘、沟沿。",
+      "finding_tips": "夏于林床寻找四棱茎、淡紫唇形花偏侧排列的小草为辨识点。"
+    }
+  },
+  "Scutellaria yezoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ezo skullcap",
+    "ja": {
+      "summary": "エゾナミキソウ。北海道〜本州の湿った草地や林縁に生えるシソ科の多年草。四角い茎に対生の葉をつけ、夏に青紫色の唇形花を穂状に並べる。ナミキソウに近縁。",
+      "habitat_hint": "湿った草地、林縁、川岸などのやや湿った明るい場所。",
+      "finding_tips": "夏、湿地の草地で四角い茎に青紫色の唇形花を並べる草を探す。片側に並ぶ花序が特徴。"
+    },
+    "en": {
+      "summary": "Ezo skullcap (Scutellaria yezoensis). A mint-family perennial of damp grassland and forest edges from Hokkaido to Honshu; the square stems bear opposite leaves and spikes of blue-purple lipped flowers in summer.",
+      "habitat_hint": "Damp grassland, forest edges and bright riverbanks.",
+      "finding_tips": "In summer on damp grassland look for square stems bearing blue-purple lipped flowers in one-sided spikes."
+    },
+    "zh": {
+      "summary": "エゾナミキソウ（虾夷黄芩）。生于北海道至本州湿润草地与林缘的唇形科多年生草本，茎四棱、叶对生，夏开蓝紫色唇形花排成穗状。",
+      "habitat_hint": "湿润草地、林缘、河岸等稍湿明亮处。",
+      "finding_tips": "夏于湿草地寻找四棱茎、蓝紫唇形花偏侧成穗之草。"
+    }
+  },
+  "Scylla serrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant mud crab",
+    "aliases": {
+      "zh-Hans": "锯缘青蟹"
+    },
+    "ja": {
+      "summary": "アミメノコギリガザミ。南日本〜インド太平洋の河口やマングローブの泥底に生息するワタリガニ科の大型のカニ。甲は緑褐色で網目模様があり、はさみが大きく強力。食用として重要。",
+      "habitat_hint": "河口、干潟、マングローブ林の泥底、汽水域。",
+      "finding_tips": "干潟や河口の泥地で緑褐色の大きなカニを探す。甲の網目模様と大きなはさみが識別点。挟む力が強いので注意。"
+    },
+    "en": {
+      "summary": "Giant mud crab (Scylla serrata). A large swimming crab of estuaries and mangroves from southern Japan through the Indo-Pacific; the greenish-brown carapace bears a net-like pattern and its claws are large and powerful. It is an important food species.",
+      "habitat_hint": "Estuaries, tidal flats, mangrove mud and brackish water.",
+      "finding_tips": "On estuarine mud look for a large greenish-brown crab; the netted carapace and big claws are diagnostic — mind the strong pinch."
+    },
+    "zh": {
+      "summary": "アミメノコギリガザミ（锯缘青蟹）。分布南日本至印度太平洋河口与红树林泥底的梭子蟹科大型蟹，甲绿褐具网纹，螯大而有力，为重要食用蟹。",
+      "habitat_hint": "河口、潮滩、红树林泥底、半咸水域。",
+      "finding_tips": "于河口泥地寻找绿褐色大蟹；甲网纹与大螯为辨识点，夹力强需小心。"
+    }
+  },
+  "Sedum pallidum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pale stonecrop",
+    "ja": {
+      "summary": "シンジュボシマンネングサ。地中海地方原産で道端や石垣に帰化したベンケイソウ科の小さな多肉の一〜二年草。多肉質の細い葉を密につけ、初夏に白い星形の小花を多数咲かせる。",
+      "habitat_hint": "道端、石垣、舗装の隙間、日当たりのよい乾いた場所。",
+      "finding_tips": "初夏、石垣や舗装の隙間で多肉質の細い葉と白い星形の小花を密につける小草を探す。"
+    },
+    "en": {
+      "summary": "Pale stonecrop (Sedum pallidum). A small succulent annual to biennial of the stonecrop family, native to the Mediterranean and naturalised on roadsides and walls; it has crowded fleshy narrow leaves and masses of small white star-shaped flowers in early summer.",
+      "habitat_hint": "Roadsides, stone walls, pavement cracks and dry sunny ground.",
+      "finding_tips": "In early summer on walls and pavement look for a small succulent herb with fleshy leaves and many white star-shaped flowers."
+    },
+    "zh": {
+      "summary": "シンジュボシマンネングサ（苍白景天）。原产地中海、逸生于路边石墙的景天科小型多肉一至二年生草本，肉质细叶密生，初夏开众多白色星形小花。",
+      "habitat_hint": "路边、石墙、铺装缝隙、向阳干燥处。",
+      "finding_tips": "初夏于石墙、铺装缝隙寻找肉质细叶、密生白色星形小花之小草。"
+    }
+  },
+  "Semachrysa pulchella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green lacewing",
+    "ja": {
+      "summary": "ヒメマダラクサカゲロウ。林縁や公園の樹上に見られるクサカゲロウ科の小さな昆虫。翅は透明で暗色のまだら模様があり、金色に光る複眼をもつ。幼虫はアブラムシなどを捕食する益虫。",
+      "habitat_hint": "林縁、雑木林、公園の樹木、庭。",
+      "finding_tips": "夏の夜、灯火に来るまだら模様の翅をもつ小さなクサカゲロウを探す。金色に光る目が特徴。"
+    },
+    "en": {
+      "summary": "A small green lacewing of forest edges and park trees; the transparent wings are dark-mottled and the eyes gleam golden. Its larvae are beneficial predators of aphids.",
+      "habitat_hint": "Forest edges, secondary woodland, park trees and gardens.",
+      "finding_tips": "On summer nights look at lights for a small lacewing with mottled wings; the golden gleaming eyes are distinctive."
+    },
+    "zh": {
+      "summary": "ヒメマダラクサカゲロウ。见于林缘与公园树上的草蛉科小虫，翅透明具暗色斑纹，复眼金光。幼虫捕食蚜虫，为益虫。",
+      "habitat_hint": "林缘、杂木林、公园树木、庭园。",
+      "finding_tips": "夏夜灯下寻找翅具斑纹的小草蛉；金光复眼为特征。"
+    }
+  },
+  "Semidonta biloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maple prominent",
+    "ja": {
+      "summary": "カエデシャチホコ。本州〜九州の雑木林に見られるシャチホコガ科の蛾。前翅は灰褐色で樹皮に似た模様をもち、静止時に独特の姿勢をとる。幼虫はカエデ類の葉を食べる。",
+      "habitat_hint": "雑木林、落葉広葉樹林、公園の樹林。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る灰褐色の蛾を探す。カエデ類の周辺と樹皮擬態の前翅が識別点。"
+    },
+    "en": {
+      "summary": "A prominent moth of broadleaf woodland from Honshu to Kyushu; the grey-brown forewings mimic bark and it rests in the characteristic prominent posture. Larvae feed on maples.",
+      "habitat_hint": "Deciduous woodland, secondary forest and park groves.",
+      "finding_tips": "On early-summer nights look at lights for a grey-brown moth near maples; the bark-mimicking forewings are diagnostic."
+    },
+    "zh": {
+      "summary": "カエデシャチホコ（半齿舟蛾）。见于本州至九州杂木林的舟蛾科蛾，前翅灰褐拟树皮，静止呈特有姿态，幼虫食枫叶。",
+      "habitat_hint": "杂木林、落叶阔叶林、公园林地。",
+      "finding_tips": "初夏至夏夜灯下、枫树周边寻找灰褐色蛾；拟树皮前翅为辨识点。"
+    }
+  },
+  "Semiricinula fusca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dusky rock snail",
+    "ja": {
+      "summary": "レイシダマシモドキ。南日本の潮間帯の岩礁に生息するアクキガイ科の小型の巻貝。殻は暗褐色でごつごつした彫刻をもち、他の貝や固着動物を捕食する。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、転石の下、岩の隙間。",
+      "finding_tips": "干潮時、岩礁で暗褐色のごつごつした小さな巻貝を探す。彫刻のある殻表が識別点。"
+    },
+    "en": {
+      "summary": "A small muricid rock snail of intertidal reefs in southern Japan; the dusky-brown shell is rough-sculptured and it preys on other shellfish and encrusting animals.",
+      "habitat_hint": "Intertidal to subtidal reefs, under boulders and in rock crevices.",
+      "finding_tips": "At low tide on rocky shores look for a small dusky-brown snail with a rough sculptured shell."
+    },
+    "zh": {
+      "summary": "レイシダマシモドキ。栖于南日本潮间带岩礁的骨螺科小型螺，壳暗褐、雕刻粗糙，捕食其他贝类与固着动物。",
+      "habitat_hint": "潮间带至潮下带岩礁、砾石下、岩隙。",
+      "finding_tips": "退潮时于岩礁寻找暗褐粗糙的小螺；壳表雕刻为辨识点。"
+    }
+  },
+  "Semisulcospira multigranosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Warty river snail",
+    "ja": {
+      "summary": "イボカワニナ。河川や湖の砂礫底に生息するカワニナ科の淡水巻貝。殻は円錐形で、表面にいぼ状の突起が並ぶのが名の由来。ゲンジボタルなどの幼虫の餌となる。",
+      "habitat_hint": "清流の砂礫底、湖沼の浅瀬、水路。",
+      "finding_tips": "清流の石の上や砂礫底で、いぼ状突起の並ぶ円錐形の巻貝を探す。ホタルの生息する水辺で見られる。"
+    },
+    "en": {
+      "summary": "A freshwater snail of rivers and lakes; the conical shell bears rows of wart-like nodules (the source of its Japanese name), and it is prey for the larvae of fireflies.",
+      "habitat_hint": "Gravelly beds of clean streams, lake shallows and channels.",
+      "finding_tips": "On stones and gravel of clean streams look for a conical snail with rows of warty nodules; found where fireflies live."
+    },
+    "zh": {
+      "summary": "イボカワニナ。栖于河湖砂砾底的川蜷科淡水螺，壳圆锥形、表面具疣状突起成列（和名之源），为萤火虫幼虫之食。",
+      "habitat_hint": "清流砂砾底、湖沼浅滩、水渠。",
+      "finding_tips": "清流石上或砂砾底寻找具疣突的圆锥形螺；多见于萤火虫水域。"
+    }
+  },
+  "Semisulcospira niponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese river snail",
+    "ja": {
+      "summary": "ヤマトカワニナ。日本の河川や水路に広く分布するカワニナ科の淡水巻貝。細長い円錐形の殻をもち、しばしば殻頂が浸食される。ゲンジボタルの幼虫の重要な餌で、清流環境の指標となる。",
+      "habitat_hint": "清流の砂礫底、水路、用水路、湧水のある水辺。",
+      "finding_tips": "清流の石の上で細長い円錐形の巻貝を探す。ホタルの見られる水辺に多い点が手がかり。"
+    },
+    "en": {
+      "summary": "A freshwater snail widespread in Japanese rivers and channels; the slender conical shell often has an eroded apex. It is a key food for firefly larvae and indicates clean flowing water.",
+      "habitat_hint": "Gravelly stream beds, channels, irrigation ditches and springs.",
+      "finding_tips": "On stones in clean streams look for a slender conical snail; abundance near fireflies is a good clue."
+    },
+    "zh": {
+      "summary": "ヤマトカワニナ。广布日本河川水渠的川蜷科淡水螺，壳细长圆锥、壳顶常被侵蚀，为萤火虫幼虫重要食物，清流指示种。",
+      "habitat_hint": "清流砂砾底、水渠、灌渠、涌泉水边。",
+      "finding_tips": "清流石上寻找细长圆锥形螺；萤火虫水边多见为线索。"
+    }
+  },
+  "Sesamia turpis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stem-borer moth",
+    "ja": {
+      "summary": "テンオビヨトウ。草地や湿地に見られるヤガ科の蛾。前翅は褐色で淡色の帯や点をもち、幼虫はススキやヨシなどイネ科植物の茎に食い入る茎食性。",
+      "habitat_hint": "草地、湿地、河川敷のイネ科草本の群落。",
+      "finding_tips": "夏〜秋の夜、灯火に来る褐色の蛾を探す。イネ科草本の生える環境が手がかり。"
+    },
+    "en": {
+      "summary": "A noctuid moth of grassland and wetlands; the brown forewings bear pale bands and dots, and the larvae bore into the stems of grasses such as miscanthus and reeds.",
+      "habitat_hint": "Grassland, wetlands and riverside stands of tall grasses.",
+      "finding_tips": "On summer–autumn nights look at lights for a brown moth; stands of tall grass are a good clue to its presence."
+    },
+    "zh": {
+      "summary": "テンオビヨトウ。见于草地与湿地的夜蛾科蛾，前翅褐色具淡色带与点，幼虫钻食芒、芦苇等禾本科茎秆。",
+      "habitat_hint": "草地、湿地、河滩禾本科草丛。",
+      "finding_tips": "夏秋夜灯下寻找褐色蛾；禾本草丛环境为线索。"
+    }
+  },
+  "Setoeolis inconspicua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "セトミノウミウシ。南日本の浅い岩礁に生息するミノウミウシ類のウミウシ。背面に細い突起（ミノ）を多数もち、目立たない地味な色合い。刺胞動物などを食べる。",
+      "habitat_hint": "浅い岩礁、潮だまり、海藻やヒドロ虫の生える岩上。",
+      "finding_tips": "潮だまりや岩礁で背に細いミノを多数もつ小さなウミウシを探す。地味な色で見つけにくい。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug of shallow reefs in southern Japan; its back bears many slender projections (cerata) and it is drab and inconspicuous, feeding on cnidarians and other small animals.",
+      "habitat_hint": "Shallow reefs, tide pools and hydroid-covered rocks.",
+      "finding_tips": "In tide pools and on reefs look for a small drab slug whose back is covered in slender cerata; it is easy to overlook."
+    },
+    "zh": {
+      "summary": "セトミノウミウシ。栖于南日本浅岩礁的蓑海牛类，背具众多细长突起（蓑），体色暗淡不显，取食刺胞动物等。",
+      "habitat_hint": "浅岩礁、潮池、生海藻或水螅之岩面。",
+      "finding_tips": "潮池与岩礁寻找背具众多细蓑的小海牛；色暗难觅。"
+    }
+  },
+  "Shirahoshizo rufescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bark weevil",
+    "ja": {
+      "summary": "ニセマツノシラホシゾウムシ。針葉樹林に見られるゾウマシ科の小さな甲虫。体は褐色で白い鱗片の斑をもち、樹皮に擬態する。衰弱したマツなどの樹皮下で幼虫が育つ。",
+      "habitat_hint": "マツなど針葉樹林、伐採木や衰弱木のある林。",
+      "finding_tips": "マツの樹皮上で白斑をもつ褐色の小さなゾウムシを探す。近づくと動きを止めて樹皮に擬態する。"
+    },
+    "en": {
+      "summary": "A small weevil of conifer forests; the brown body is flecked with white scales and mimics bark, and the larvae develop under the bark of weakened pines.",
+      "habitat_hint": "Pine and other conifer forests with felled or ailing trees.",
+      "finding_tips": "On pine bark look for a small brown weevil with white flecks; it freezes and blends with the bark when approached."
+    },
+    "zh": {
+      "summary": "ニセマツノシラホシゾウムシ。见于针叶林的象甲科小甲虫，体褐色具白鳞斑、拟树皮，幼虫于衰弱松树皮下发育。",
+      "habitat_hint": "松等针叶林、有伐木或衰弱木之林。",
+      "finding_tips": "松树皮上寻找带白斑的褐色小象甲；受惊静止拟树皮。"
+    }
+  },
+  "Sibirotrisetum sibiricum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siberian false oat",
+    "aliases": {
+      "zh-Hans": "西伯利亚三毛草"
+    },
+    "ja": {
+      "summary": "チシマカニツリ。北海道〜本州の高山や寒冷地の草地に生えるイネ科の多年草。細い稈の先に黄褐色に光る円錐花序をつける。旧属名トリセツムから三毛草の仲間とされる。",
+      "habitat_hint": "高山・亜高山の草地、寒冷地の明るい斜面。",
+      "finding_tips": "夏、高山の草地で黄褐色に光る円錐花序をつける細い草を探す。艶のある小穂が識別点。"
+    },
+    "en": {
+      "summary": "Siberian false oat (Sibirotrisetum sibiricum). A grass of alpine and cold-climate grassland from Hokkaido to Honshu; slender stems carry a glossy yellow-brown panicle. It was formerly placed in Trisetum.",
+      "habitat_hint": "Alpine and subalpine grassland and cool bright slopes.",
+      "finding_tips": "In summer on alpine grassland look for a slender grass with a glossy yellow-brown panicle; the shiny spikelets are diagnostic."
+    },
+    "zh": {
+      "summary": "チシマカニツリ（西伯利亚三毛草）。生于北海道至本州高山与寒地草地的禾本科多年生草本，细秆顶生黄褐色有光的圆锥花序，旧属三毛草属。",
+      "habitat_hint": "高山、亚高山草地，寒地明亮坡地。",
+      "finding_tips": "夏于高山草地寻找黄褐光泽圆锥花序的细草；小穗有光为辨识点。"
+    }
+  },
+  "Siganus spinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Little spinefoot",
+    "aliases": {
+      "zh-Hans": "刺篮子鱼"
+    },
+    "ja": {
+      "summary": "アミアイゴ。南日本〜インド太平洋のサンゴ礁や岩礁に分布するアイゴ科の魚。体は網目状の模様をもち、海藻を食べる。背びれ・尻びれのとげに毒があり、刺されると激しく痛む。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、藻場、礁池。",
+      "finding_tips": "サンゴ礁で網目模様をもつ群れる魚を探す。鰭のとげに毒があるため素手で触らないこと。"
+    },
+    "en": {
+      "summary": "Little spinefoot (Siganus spinus). A rabbitfish of coral and rocky reefs from southern Japan through the Indo-Pacific; it is marked with a network pattern and grazes algae. The dorsal and anal fin spines are venomous and their sting is painful.",
+      "habitat_hint": "Shallow coral and rocky reefs, seagrass beds and lagoons.",
+      "finding_tips": "On reefs look for a schooling fish with a netted pattern; do not handle bare-handed — the fin spines are venomous."
+    },
+    "zh": {
+      "summary": "アミアイゴ（刺篮子鱼）。分布南日本至印度太平洋珊瑚礁与岩礁的篮子鱼科鱼，体具网纹，啃食海藻。背鳍臀鳍棘有毒，刺伤剧痛。",
+      "habitat_hint": "浅珊瑚礁、岩礁、藻场、礁池。",
+      "finding_tips": "珊瑚礁寻找具网纹的群游鱼；鳍棘有毒，切勿徒手触碰。"
+    }
+  },
+  "Silene dichotoma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Forked catchfly",
+    "aliases": {
+      "zh-Hans": "叉枝蝇子草"
+    },
+    "ja": {
+      "summary": "マンテマモドキ。ヨーロッパ原産で道端や空き地に帰化したナデシコ科の一年草。茎は二又に分かれて花序をつくり、白い花を横向きに並べて咲かせる。萼は毛が多く筒状。",
+      "habitat_hint": "道端、空き地、河川敷、牧草地などの明るい場所。",
+      "finding_tips": "初夏〜夏、二又に分かれた茎に白い花を横向きに並べる草を探す。毛の多い筒状の萼が識別点。"
+    },
+    "en": {
+      "summary": "Forked catchfly (Silene dichotoma). An annual of the pink family, native to Europe and naturalised on roadsides and waste ground; the stems fork into inflorescences bearing rows of sideways white flowers with hairy tubular calyces.",
+      "habitat_hint": "Roadsides, waste ground, riverbanks and open pasture.",
+      "finding_tips": "In early summer look for forked stems with rows of sideways-facing white flowers; the hairy tubular calyx is diagnostic."
+    },
+    "zh": {
+      "summary": "マンテマモドキ（叉枝蝇子草）。原产欧洲、逸生路边空地的石竹科一年生草本，茎二叉分枝成花序，白花侧向排列，萼筒状多毛。",
+      "habitat_hint": "路边、空地、河滩、牧草地等明亮处。",
+      "finding_tips": "初夏至夏寻找二叉茎、白花侧向成列之草；多毛筒状萼为辨识点。"
+    }
+  },
+  "Silene dioica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red campion",
+    "aliases": {
+      "zh-Hans": "红蝇子草"
+    },
+    "ja": {
+      "summary": "アケボノセンノウ。ヨーロッパ原産で観賞用に栽培され逸出するナデシコ科の多年草。夏に紅紫色の五弁花を多数咲かせ、雌雄異株。花弁は先が浅く二裂する。",
+      "habitat_hint": "花壇、庭、逸出した草地や林縁の明るい場所。",
+      "finding_tips": "初夏〜夏、紅紫色で先の二裂する五弁花を探す。雌雄異株で、膨らんだ萼をもつ点が特徴。"
+    },
+    "en": {
+      "summary": "Red campion (Silene dioica). A perennial of the pink family native to Europe, grown ornamentally and sometimes escaping; it bears many rose-pink five-petalled flowers in summer and is dioecious, with each petal shallowly notched.",
+      "habitat_hint": "Flower beds, gardens and escaped bright grassland or edges.",
+      "finding_tips": "In summer look for rose-pink flowers with notched petals; separate male and female plants and an inflated calyx are distinctive."
+    },
+    "zh": {
+      "summary": "アケボノセンノウ（红蝇子草）。原产欧洲、供观赏并偶逸生的石竹科多年生草本，夏开众多玫红色五瓣花，雌雄异株，花瓣先端浅二裂。",
+      "habitat_hint": "花坛、庭园、逸生草地或明亮林缘。",
+      "finding_tips": "夏寻玫红色、瓣端二裂之五瓣花；雌雄异株、萼膨大为特征。"
+    }
+  },
+  "Sisymbrium irio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソエガラシ。ヨーロッパ〜西アジア原産で市街地や道端に帰化したアブラナ科の一〜二年草。細い茎を分枝し、黄色の小さな十字花のあと、細長い果実（長角果）を上向きにつける。",
+      "habitat_hint": "市街地の道端、空き地、舗装の隙間、荒地。",
+      "finding_tips": "春〜初夏、道端で黄色の小花と細長く上を向く果実をもつ草を探す。細い果実が花序より上に伸びる点が特徴。"
+    },
+    "en": {
+      "summary": "London rocket (Sisymbrium irio). An annual to biennial mustard native to Europe and western Asia, naturalised in towns and on roadsides; the branched slender stems bear small yellow four-petalled flowers followed by upright slender seed pods.",
+      "habitat_hint": "Urban roadsides, waste ground, pavement cracks and wasteland.",
+      "finding_tips": "In spring–early summer look for small yellow flowers with slender upright pods overtopping the flower cluster."
+    },
+    "zh": {
+      "summary": "ホソエガラシ（水蒜芥）。原产欧洲至西亚、逸生于市区路边的十字花科一至二年生草本，细茎分枝，黄色小十字花后结细长直立长角果。",
+      "habitat_hint": "市区路边、空地、铺装缝隙、荒地。",
+      "finding_tips": "春至初夏寻找黄色小花与细长直立角果之草；果高出花序为特征。"
+    }
+  },
+  "Sitalina circumcincta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "コシダカシタラ。林床の落葉下や湿った場所に生息するベッコウマイマイ科の小さな陸産巻貝。殻はやや背が高い円錐形で光沢があり、半透明の淡褐色。",
+      "habitat_hint": "林床の落葉下、朽木の下、湿った石の陰。",
+      "finding_tips": "雨後、林床の落葉や朽木の下で光沢のある小さな円錐形の巻貝を探す。やや背の高い殻が識別点。"
+    },
+    "en": {
+      "summary": "A small land snail found under leaf litter and in damp spots on the forest floor; the somewhat tall glossy conical shell is translucent pale brown.",
+      "habitat_hint": "Under leaf litter, rotting wood and damp stones on forest floors.",
+      "finding_tips": "After rain look under leaf litter and dead wood for a small glossy conical snail; the rather tall shell is diagnostic."
+    },
+    "zh": {
+      "summary": "コシダカシタラ。栖于林床落叶下与湿处的琥珀螺科小型陆生螺，壳略高圆锥形、有光泽、半透明淡褐。",
+      "habitat_hint": "林床落叶下、朽木下、湿石阴处。",
+      "finding_tips": "雨后于落叶、朽木下寻找有光泽的小圆锥形螺；壳略高为辨识点。"
+    }
+  },
+  "Smaragdinella sieboldi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bubble snail",
+    "ja": {
+      "summary": "タテジワミドリガイ。潮間帯の岩礁や潮だまりに生息する小型の後鰓類（頭楯類）の巻貝。殻はやや平たく、体は緑色を帯び、殻に縦じわがあるのが名の由来。海藻の間を這う。",
+      "habitat_hint": "潮間帯の岩礁、潮だまり、海藻の生える岩上。",
+      "finding_tips": "潮だまりで海藻の間を這う緑色を帯びた小さな貝を探す。殻の縦じわが識別点。"
+    },
+    "en": {
+      "summary": "A small cephalaspidean bubble snail of intertidal reefs and tide pools; the somewhat flattened shell bears vertical wrinkles (the source of its Japanese name) and the animal is greenish, creeping among algae.",
+      "habitat_hint": "Intertidal reefs, tide pools and algae-covered rocks.",
+      "finding_tips": "In tide pools look among algae for a small greenish snail; the vertically wrinkled shell is diagnostic."
+    },
+    "zh": {
+      "summary": "タテジワミドリガイ。栖于潮间带岩礁与潮池的小型头楯类螺，壳略扁具纵皱（和名之源），体带绿色，行于海藻间。",
+      "habitat_hint": "潮间带岩礁、潮池、生海藻之岩面。",
+      "finding_tips": "潮池海藻间寻找带绿色的小螺；壳纵皱为辨识点。"
+    }
+  },
+  "Solanum diphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Twoleaf nightshade",
+    "aliases": {
+      "zh-Hans": "双叶茄"
+    },
+    "ja": {
+      "summary": "ナガハスズメナスビ。熱帯アメリカ原産で暖地に帰化したナス科の低木状の草本。大小2枚が対になる葉をつけ、白い小花のあと黄橙色の球形の液果を熟す。果実は有毒とされる。",
+      "habitat_hint": "暖地の道端、空き地、公園の植え込み周辺、林縁。",
+      "finding_tips": "大小2枚が対になる葉と、黄橙色の球形の果実の房を探す。果実は有毒なので口にしないこと。"
+    },
+    "en": {
+      "summary": "Twoleaf nightshade (Solanum diphyllum). A shrubby herb of the nightshade family native to tropical America and naturalised in warm regions; leaves come in unequal pairs, and small white flowers are followed by clusters of orange-yellow round berries, considered toxic.",
+      "habitat_hint": "Warm-region roadsides, waste ground, park plantings and edges.",
+      "finding_tips": "Look for unequal paired leaves and clusters of orange-yellow round berries; do not eat the fruit — it is toxic."
+    },
+    "zh": {
+      "summary": "ナガハスズメナスビ（双叶茄）。原产热带美洲、逸生暖地的茄科灌木状草本，叶大小成对，白色小花后结橙黄色球形浆果成簇，果被认为有毒。",
+      "habitat_hint": "暖地路边、空地、公园绿化周边、林缘。",
+      "finding_tips": "寻找大小成对的叶与橙黄色球形果簇；果有毒勿食。"
+    }
+  },
+  "Spathodea campanulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "African tulip tree",
+    "aliases": {
+      "zh-Hans": "火焰树"
+    },
+    "ja": {
+      "summary": "カエンボク。熱帯アフリカ原産で沖縄など暖地に植栽されるノウゼンカズラ科の高木。枝先に緋赤色の大きな杯状の花を多数集めて咲かせ、「火炎木」の名の由来となる。世界の熱帯で街路樹・庭園樹として広く植えられる。",
+      "habitat_hint": "暖地の公園、街路、庭園などの植栽。",
+      "finding_tips": "枝先に集まる緋赤色の大きな杯状の花を探す。開花期には木全体が炎のように見える点が識別点。"
+    },
+    "en": {
+      "summary": "African tulip tree (Spathodea campanulata). A tall tree of the trumpet-vine family native to tropical Africa, planted in warm regions such as Okinawa; masses of large scarlet cup-shaped flowers cluster at the branch tips, giving it its flame-tree name. It is widely grown as a street and garden tree in the tropics.",
+      "habitat_hint": "Parks, streets and gardens in warm regions (as plantings).",
+      "finding_tips": "Look for clusters of large scarlet cup-shaped flowers at the branch tips; in bloom the whole crown looks aflame."
+    },
+    "zh": {
+      "summary": "カエンボク（火焰树）。原产热带非洲、栽于冲绳等暖地的紫葳科乔木，枝端集生绯红色大杯状花，名副其实如火焰，为热带常见行道与庭园树。",
+      "habitat_hint": "暖地公园、街道、庭园栽培。",
+      "finding_tips": "寻找枝端集生的绯红大杯状花；花期整树如焰为辨识点。"
+    }
+  },
+  "Sphaerophoria indiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "ミナミヒメヒラタアブ。草地や花壇に見られるハナアブ科の小さなアブ。細長い腹部に黄色と黒の縞模様をもち、花の上でホバリングして蜜を吸う。幼虫はアブラムシを捕食する益虫。",
+      "habitat_hint": "草地、花壇、畑、公園の花のまわり。",
+      "finding_tips": "春〜秋、花の上でホバリングする細長い黄黒縞のアブを探す。ハチに擬態するが刺さない。"
+    },
+    "en": {
+      "summary": "A small hoverfly of grassland and flower beds; the slender abdomen is banded yellow and black and it hovers over flowers to feed on nectar. The larvae are beneficial aphid predators.",
+      "habitat_hint": "Grassland, flower beds, fields and park flowers.",
+      "finding_tips": "From spring to autumn look for a slender yellow-and-black fly hovering at flowers; it mimics a bee but does not sting."
+    },
+    "zh": {
+      "summary": "ミナミヒメヒラタアブ。见于草地花坛的食蚜蝇科小蝇，腹部细长具黄黑条纹，于花上悬停吸蜜，幼虫捕食蚜虫为益虫。",
+      "habitat_hint": "草地、花坛、农田、公园花丛。",
+      "finding_tips": "春至秋于花上寻找悬停的黄黑细纹蝇；拟蜂而不螫。"
+    }
+  },
+  "Sphaerophoria scripta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long hoverfly",
+    "ja": {
+      "summary": "ヒメヒラタアブ。草地や花壇に普通に見られるハナアブ科の小さなアブ。雄は腹部が翅より長く突き出る。黄色と黒の縞模様をもち、花上でホバリングする。幼虫はアブラムシを捕食する。",
+      "habitat_hint": "草地、花壇、畑、河川敷などの花のまわり。",
+      "finding_tips": "春〜秋、花の上でホバリングする黄黒縞の細長いアブを探す。雄の長く伸びた腹部が識別点。"
+    },
+    "en": {
+      "summary": "Long hoverfly (Sphaerophoria scripta). A common small hoverfly of grassland and flower beds; in males the abdomen projects beyond the wingtips. It is banded yellow and black and hovers over flowers, and its larvae prey on aphids.",
+      "habitat_hint": "Grassland, flower beds, fields and riverside flowers.",
+      "finding_tips": "From spring to autumn look for a slender yellow-and-black hoverfly at flowers; the male's overlong abdomen is diagnostic."
+    },
+    "zh": {
+      "summary": "ヒメヒラタアブ（短翅细腹蚜蝇）。草地花坛常见的食蚜蝇科小蝇，雄虫腹部长过翅端，具黄黑条纹，于花上悬停，幼虫捕食蚜虫。",
+      "habitat_hint": "草地、花坛、农田、河滩花丛。",
+      "finding_tips": "春至秋于花上寻找黄黑细纹悬停蝇；雄虫腹长过翅为辨识点。"
+    }
+  },
+  "Sphaerozius nitidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smooth xanthid crab",
+    "ja": {
+      "summary": "スベスベオウギガニ。潮間帯の岩礁や転石の下に生息するオウギガニ科の小型のカニ。甲は滑らかで扇形、褐色を帯びる。夜行性で昼間は石の下に隠れる。",
+      "habitat_hint": "潮間帯の岩礁、転石の下、岩の隙間。",
+      "finding_tips": "干潮時、岩や転石をめくって滑らかな扇形の甲をもつ小さなカニを探す。昼は石の下に隠れる。"
+    },
+    "en": {
+      "summary": "A small xanthid crab of intertidal reefs found under boulders; the smooth fan-shaped carapace is brownish, and it is nocturnal, hiding under stones by day.",
+      "habitat_hint": "Intertidal reefs, under boulders and in rock crevices.",
+      "finding_tips": "At low tide turn boulders to find a small crab with a smooth fan-shaped carapace; it shelters under stones by day."
+    },
+    "zh": {
+      "summary": "スベスベオウギガニ。栖于潮间带岩礁与砾石下的扇蟹科小蟹，甲光滑扇形、带褐色，夜行性，昼伏石下。",
+      "habitat_hint": "潮间带岩礁、砾石下、岩隙。",
+      "finding_tips": "退潮时翻石寻找甲光滑扇形的小蟹；昼伏石下。"
+    }
   }
 }
