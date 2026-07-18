@@ -261007,5 +261007,580 @@
       "habitat_hint": "内湾砂泥底，潮间带至潮下带。",
       "finding_tips": "退潮时于砂泥地寻找壳厚、螺肋明显的小螺，聚集于腐肉。"
     }
+  },
+  "Nephrolepis brownii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian Sword Fern",
+    "aliases": {
+      "zh-Hans": "毛叶肾蕨"
+    },
+    "ja": {
+      "summary": "ヤンバルタマシダ。ツルシダ科タマシダ属の常緑シダ。細長い羽状の葉を叢生し、南西諸島の明るい林縁や斜面に群生する。タマシダより葉が大きい。",
+      "habitat_hint": "南西諸島の林縁、斜面、道端、明るい二次林。",
+      "finding_tips": "亜熱帯の林縁で、細長く羽状に切れ込んだ葉を叢生する大きなシダを探します。"
+    },
+    "en": {
+      "summary": "Asian Sword Fern. An evergreen fern (Nephrolepidaceae) with clustered elongate pinnate fronds, forming stands on bright forest edges and slopes of the southwest islands; larger than N. cordifolia.",
+      "habitat_hint": "Forest edges, slopes, roadsides and bright secondary woodland of the southwest islands.",
+      "finding_tips": "In subtropical forest edges look for a large fern with clumped elongate pinnate fronds."
+    },
+    "zh": {
+      "summary": "毛叶肾蕨（ヤンバルタマシダ）。肾蕨科肾蕨属常绿蕨，细长羽状叶丛生，成丛生长于西南诸岛明亮林缘与坡地，叶较肾蕨大。",
+      "habitat_hint": "西南诸岛林缘、坡地、路旁及明亮次生林。",
+      "finding_tips": "于亚热带林缘寻找丛生细长羽状叶的大型蕨类。"
+    }
+  },
+  "Nerita polita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Polished Nerite",
+    "aliases": {
+      "zh-Hans": "光滑蜑螺"
+    },
+    "ja": {
+      "summary": "ニシキアマオブネ。アマオブネ科の巻貝。殻は半球形で厚く、なめらかで光沢があり、灰白色地に様々な色斑がある。熱帯の岩礁や砂礫地にすむ。",
+      "habitat_hint": "熱帯〜亜熱帯の岩礁、砂礫の潮間帯。",
+      "finding_tips": "干潮時の岩礁や砂礫地で、光沢のある半球形の厚い巻貝を探します。個体変異に富む色模様が特徴。"
+    },
+    "en": {
+      "summary": "Polished Nerite. A nerite snail (Neritidae) with a thick, smooth, glossy hemispherical shell, greyish-white with variable colour markings; it lives on tropical rocks and gravel.",
+      "habitat_hint": "Rocky and gravelly intertidal zones in tropical to subtropical seas.",
+      "finding_tips": "At low tide on rock and gravel, look for a glossy thick hemispherical snail; the variable colour pattern is characteristic."
+    },
+    "zh": {
+      "summary": "光滑蜑螺（ニシキアマオブネ）。蜑螺科海螺，壳半球形而厚，光滑有光泽，灰白底具多变色斑，栖于热带岩礁与砂砾。",
+      "habitat_hint": "热带至亚热带岩礁与砂砾潮间带。",
+      "finding_tips": "退潮时于礁岩砂砾寻找光泽半球形的厚壳螺，色斑多变为其特征。"
+    }
+  },
+  "Nidula niveotomentosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snowy Bird's Nest Fungus",
+    "aliases": {
+      "zh-Hans": "白绒钹孔菌"
+    },
+    "ja": {
+      "summary": "コチャダイゴケ。チャダイゴケ科の微小なキノコ。褐色のカップ状の子実体の中に、卵のような小塊(小球体)が入り、雨滴で飛散して胞子を散布する。",
+      "habitat_hint": "枯れ枝、朽木、落ち葉、木くずの上。",
+      "finding_tips": "梅雨〜秋、朽木や枯れ枝の上のカップ状の小さなキノコを探します。中に鳥の巣の卵のような粒がある。"
+    },
+    "en": {
+      "summary": "A tiny bird's nest fungus (Nidulariaceae) whose brown cup-shaped body holds egg-like pellets (peridioles) that are splashed out by raindrops to disperse spores.",
+      "habitat_hint": "On dead twigs, rotten wood, leaf litter and wood chips.",
+      "finding_tips": "From the rainy season to autumn, look on rotten wood and twigs for tiny cups holding egg-like pellets, like a nest."
+    },
+    "zh": {
+      "summary": "白绒鸟巢菌（コチャダイゴケ）。鸟巢菌科微小真菌，褐色杯状子实体内含卵状小球（小包），借雨滴溅出以传播孢子。",
+      "habitat_hint": "枯枝、朽木、落叶及木屑上。",
+      "finding_tips": "梅雨至秋于朽木枯枝上寻找杯状小菌，内含似鸟巢卵的小粒。"
+    }
+  },
+  "Nipponentomon uenoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ueno's Proturan",
+    "aliases": {
+      "zh-Hans": "上野原尾虫"
+    },
+    "ja": {
+      "summary": "ウエノカマアシムシ。カマアシムシ目の微小な土壌動物。触角も眼もなく、前脚を触角のように使う。体長1〜2mmで、落ち葉や土壌中に暮らす原始的な六脚類。",
+      "habitat_hint": "落ち葉の下、土壌中、腐植質の多い林床。",
+      "finding_tips": "落ち葉や表土をふるって、白く細長い1〜2mmの微小な虫を探します。前脚を挙げて歩くのが特徴。"
+    },
+    "en": {
+      "summary": "A minute soil hexapod (Protura) without antennae or eyes, using its forelegs like feelers; only 1–2 mm long, it lives among leaf litter and soil as a primitive six-legged animal.",
+      "habitat_hint": "Under leaf litter and in soil rich in humus on the forest floor.",
+      "finding_tips": "Sift leaf litter and topsoil for whitish elongate animals 1–2 mm long; it walks with the forelegs raised."
+    },
+    "zh": {
+      "summary": "上野原尾虫（ウエノカマアシムシ）。原尾目的微小土壤动物，无触角无眼，以前足代触角，体长1–2毫米，栖于落叶与土壤中，为原始六足动物。",
+      "habitat_hint": "落叶下、土壤中及富含腐殖质的林床。",
+      "finding_tips": "筛检落叶与表土，寻找白色细长1–2毫米的微小虫，以举起前足行走为特征。"
+    }
+  },
+  "Nipponocrassatella nana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf Crassatella",
+    "aliases": {
+      "zh-Hans": "小厚壳蛤"
+    },
+    "ja": {
+      "summary": "スダレモシオガイ。マルスダレガイ類に近いモシオガイ科の二枚貝。殻は厚く三角形状で、表面に規則的な同心円の彫刻(すだれ状)がある。砂底にすむ。",
+      "habitat_hint": "沿岸の砂底、潮下帯。",
+      "finding_tips": "浜辺の打ち上げや砂底で、厚く三角形状ですだれ状の同心円彫刻をもつ小さな二枚貝を探します。"
+    },
+    "en": {
+      "summary": "A thick-shelled bivalve (Crassatellidae) with a triangular shell bearing regular concentric ridges like a blind; it lives on sandy bottoms.",
+      "habitat_hint": "Coastal sandy bottoms in the subtidal zone.",
+      "finding_tips": "In beach drift or on sand, look for a small thick triangular shell with regular concentric ridges."
+    },
+    "zh": {
+      "summary": "小厚壳蛤（スダレモシオガイ）。厚壳蛤科双壳类，壳厚呈三角形，表面具规则同心圆脊纹（如帘状），栖于砂底。",
+      "habitat_hint": "沿岸砂底潮下带。",
+      "finding_tips": "于海滩漂积或砂底寻找厚三角形、具帘状同心脊的小型双壳。"
+    }
+  },
+  "Nipponoharpalus discrepans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakodate Seed-eating Ground Beetle",
+    "aliases": {
+      "zh-Hans": "函馆婪步甲"
+    },
+    "ja": {
+      "summary": "ハコダテゴモクムシ。オサムシ科ゴモクムシ類の中型の地上性甲虫。黒色で光沢があり、草地や畑で種子や小動物を食べる。夜行性で灯火に来ることもある。",
+      "habitat_hint": "草地、畑、河川敷、明るい林縁の地表。",
+      "finding_tips": "夜間や石の下で、黒く光沢のある中型のゴミムシを探します。種子食性を含む雑食。"
+    },
+    "en": {
+      "summary": "A medium-sized ground beetle (Carabidae, Harpalini), shiny black, feeding on seeds and small animals in grassland and fields; nocturnal and sometimes drawn to lights.",
+      "habitat_hint": "Ground surface of grassland, fields, riverbanks and bright forest edges.",
+      "finding_tips": "At night or under stones, look for a shiny black medium ground beetle; omnivorous, including seed-eating."
+    },
+    "zh": {
+      "summary": "函馆婪步甲（ハコダテゴモクムシ）。步甲科的中型地栖甲虫，黑色具光泽，于草地田间取食种子与小动物，夜行性，偶趋光。",
+      "habitat_hint": "草地、农田、河滩及明亮林缘地表。",
+      "finding_tips": "夜间或石下寻找黑亮的中型步甲，杂食兼食种子。"
+    }
+  },
+  "Notiophilus impressifrons": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Big-eyed Ground Beetle",
+    "aliases": {
+      "zh-Hans": "凹额大眼步甲"
+    },
+    "ja": {
+      "summary": "ミヤマメダカゴミムシ。オサムシ科の小型の地上性甲虫。大きな複眼をもち、金属光沢のある体で、昼間に落ち葉の上を素早く歩いてトビムシなどを捕食する。",
+      "habitat_hint": "山地の落葉樹林の林床、落ち葉の上。",
+      "finding_tips": "昼間、落ち葉の上を素早く動く小さな金属光沢の甲虫を探します。大きな眼が識別点。"
+    },
+    "en": {
+      "summary": "A small ground beetle (Carabidae) with very large eyes and a metallic body, hunting springtails on leaf litter by day.",
+      "habitat_hint": "Deciduous montane forest floor, on leaf litter.",
+      "finding_tips": "By day, look on leaf litter for a small fast-moving metallic beetle; the large eyes are diagnostic."
+    },
+    "zh": {
+      "summary": "凹额大眼步甲（ミヤマメダカゴミムシ）。步甲科小型地栖甲虫，复眼大，体具金属光泽，白天于落叶上疾行捕食跳虫等。",
+      "habitat_hint": "山地落叶林床落叶层上。",
+      "finding_tips": "白天于落叶上寻找疾行的金属光泽小甲虫，大眼为辨识点。"
+    }
+  },
+  "Notocelia rosaecolana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown Rose Bell Moth",
+    "aliases": {
+      "zh-Hans": "蔷薇白卷蛾"
+    },
+    "ja": {
+      "summary": "バラシロヒメハマキ。ハマキガ科の小型のガ。前翅の基部が白っぽく、後半が褐色。幼虫はバラ科植物の葉を巻いて食べる。",
+      "habitat_hint": "バラ科植物のある庭、公園、林縁、河川敷。",
+      "finding_tips": "初夏〜夏、灯火に来る前翅前半が白く後半が褐色の小さなガを探します。"
+    },
+    "en": {
+      "summary": "A small tortrix moth (Tortricidae) with the basal half of the forewing whitish and the outer half brown; the larva rolls and feeds on the leaves of rose-family plants.",
+      "habitat_hint": "Gardens, parks, forest edges and riverbanks with rose-family plants.",
+      "finding_tips": "Early summer to summer, look at lights for a small moth with a white-based, brown-tipped forewing."
+    },
+    "zh": {
+      "summary": "蔷薇白卷蛾（バラシロヒメハマキ）。卷蛾科小型蛾，前翅基半白、外半褐，幼虫卷食蔷薇科植物叶片。",
+      "habitat_hint": "有蔷薇科植物的庭园、公园、林缘及河滩。",
+      "finding_tips": "初夏至夏于灯下寻找前翅基白外褐的小型蛾。"
+    }
+  },
+  "Notodonta dembowskii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dembowski's Prominent",
+    "aliases": {
+      "zh-Hans": "登氏舟蛾"
+    },
+    "ja": {
+      "summary": "ウチキシャチホコ。シャチホコガ科のガ。褐色の翅に細かな模様があり、静止時に前翅を屋根状にたたむ。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "初夏〜夏、灯火に来る褐色のシャチホコガを探します。太い体と屋根状にたたむ翅が特徴。"
+    },
+    "en": {
+      "summary": "A prominent moth (Notodontidae) with finely patterned brown wings held roof-like at rest; the larva feeds on broadleaf tree leaves.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "Early summer to summer, look at lights for a brown prominent moth; the stout body and roof-like wings are characteristic."
+    },
+    "zh": {
+      "summary": "登氏舟蛾（ウチキシャチホコ）。舟蛾科的蛾，褐色翅具细纹，静止时前翅呈屋脊状叠合，幼虫取食阔叶树叶片。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "初夏至夏于灯下寻找褐色舟蛾，粗壮身体与屋脊状翅为特征。"
+    }
+  },
+  "Notodonta stigmatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marked Prominent",
+    "aliases": {
+      "zh-Hans": "斑纹舟蛾"
+    },
+    "ja": {
+      "summary": "トビスジシャチホコ。シャチホコガ科のガ。褐色の前翅に鳶色(赤褐色)の筋があるのが名の由来。幼虫はカバノキ科などの広葉樹の葉を食べる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "初夏〜夏、灯火に来る赤褐色の筋のある褐色のシャチホコガを探します。"
+    },
+    "en": {
+      "summary": "A prominent moth (Notodontidae) whose brown forewing bears reddish-brown streaks, giving it its Japanese name; the larva feeds on birch-family and other broadleaf trees.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "Early summer to summer, look at lights for a brown prominent moth with reddish-brown streaks."
+    },
+    "zh": {
+      "summary": "斑纹舟蛾（トビスジシャチホコ）。舟蛾科的蛾，褐色前翅具红褐色纵纹（故名），幼虫取食桦木科等阔叶树叶片。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "初夏至夏于灯下寻找具红褐色纵纹的褐色舟蛾。"
+    }
+  },
+  "Oediopalpa caerulescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bluish Flea Beetle",
+    "aliases": {
+      "zh-Hans": "蓝跳甲"
+    },
+    "ja": {
+      "summary": "ヒメカミナリハムシ。ハムシ科の小型の甲虫。青緑色の金属光沢をもち、後脚が発達して跳ねることができる(トビハムシ類)。植物の葉を食べる。",
+      "habitat_hint": "草地、林縁、畑、公園の植栽。",
+      "finding_tips": "春〜秋、植物の葉の上で青緑色に光る小さな甲虫を探します。触ると跳ねて逃げる。"
+    },
+    "en": {
+      "summary": "A small flea beetle (Chrysomelidae) with a blue-green metallic sheen and enlarged hind legs for jumping; it feeds on plant leaves.",
+      "habitat_hint": "Grassland, forest edges, fields and park plantings.",
+      "finding_tips": "Spring to autumn, look on foliage for a small blue-green metallic beetle; it jumps away when touched."
+    },
+    "zh": {
+      "summary": "蓝跳甲（ヒメカミナリハムシ）。叶甲科小型甲虫，具蓝绿色金属光泽，后足发达能跳跃，取食植物叶片。",
+      "habitat_hint": "草地、林缘、农田及公园植栽。",
+      "finding_tips": "春至秋于叶面寻找蓝绿闪光的小甲虫，触之即跳跃逃逸。"
+    }
+  },
+  "Olla v-nigrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ashy Gray Lady Beetle",
+    "aliases": {
+      "zh-Hans": "十斑大瓢虫"
+    },
+    "ja": {
+      "summary": "ハイイロテントウ。テントウムシ科の甲虫。灰白色の上翅に黒い斑点が並ぶ。北米原産で、アブラムシやキジラミを捕食する天敵として各地に定着している。",
+      "habitat_hint": "樹木、公園、街路樹、庭の植栽。",
+      "finding_tips": "春〜秋、灰白色の地に黒斑のあるテントウムシを樹上で探します。アブラムシのいる木を好む。"
+    },
+    "en": {
+      "summary": "Ashy Gray Lady Beetle. A ladybird (Coccinellidae) with black spots on ashy-grey elytra; native to North America, it has established here as a predator of aphids and psyllids.",
+      "habitat_hint": "Trees, parks, street trees and garden plantings.",
+      "finding_tips": "Spring to autumn, look on trees for a ladybird with black spots on pale grey wing-cases; it favours aphid-infested trees."
+    },
+    "zh": {
+      "summary": "十斑大瓢虫（ハイイロテントウ）。瓢虫科甲虫，灰白鞘翅具黑斑，原产北美，作为蚜虫与木虱天敌在各地定居。",
+      "habitat_hint": "树木、公园、行道树及庭园植栽。",
+      "finding_tips": "春至秋于树上寻找灰白底具黑斑的瓢虫，喜有蚜虫的树。"
+    }
+  },
+  "Omphalotus guepiniiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moonlight Mushroom",
+    "aliases": {
+      "zh-Hans": "月夜菌"
+    },
+    "ja": {
+      "summary": "ツキヨタケ。ホウライタケ科(旧キシメジ科)の毒キノコ。ブナなどの倒木に群生し、ヒダが暗所で青白く光る。シイタケやムキタケと誤食され、日本で最も中毒例の多い毒キノコの一つ。絶対に食べないこと。",
+      "habitat_hint": "山地のブナなどの枯木・倒木、朽木の上。",
+      "finding_tips": "夏〜秋、ブナの倒木に半円形に重なって生える。暗所でヒダが青白く光り、柄の付け根を裂くと黒いシミがあるのが識別点。有毒。"
+    },
+    "en": {
+      "summary": "Moonlight Mushroom. A poisonous fungus (Omphalotaceae) growing in clusters on dead beech; its gills glow pale bluish in the dark. Often mistaken for shiitake or Sarcomyxa, it is one of Japan's most common causes of mushroom poisoning — never eat it.",
+      "habitat_hint": "On dead and fallen beech and other rotting logs in the hills.",
+      "finding_tips": "Summer to autumn, growing in overlapping semicircular brackets on beech logs; the gills glow bluish in the dark and a black stain shows at the split stem base. Poisonous."
+    },
+    "zh": {
+      "summary": "月夜菌（ツキヨタケ）。类脐菇科的毒菌，成丛生于山毛榉倒木，菌褶在暗处发青白光。常被误认作香菇或冬蘑，是日本中毒案例最多的毒菌之一，切勿食用。",
+      "habitat_hint": "山地山毛榉等枯木、倒木及朽木上。",
+      "finding_tips": "夏秋于山毛榉倒木上呈半圆覆瓦状群生，暗处菌褶发青白光，撕开柄基见黑斑为辨识点。有毒。"
+    }
+  },
+  "Ophiocordyceps entomorrhiza": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground Beetle Cordyceps",
+    "aliases": {
+      "zh-Hans": "步甲虫草"
+    },
+    "ja": {
+      "summary": "オサムシタケ。冬虫夏草の一種で、地中のオサムシ類の成虫に寄生する菌類。寄主から細長い柄を地上に伸ばし、先端に胞子を作る子実体をつける。",
+      "habitat_hint": "山地の湿った林床、腐植質の多い地中(寄主のいる場所)。",
+      "finding_tips": "梅雨〜秋、林床から立ち上がる細い棒状のキノコを探し、掘ると根元に寄主の甲虫がある。"
+    },
+    "en": {
+      "summary": "A cordyceps fungus (Ophiocordycipitaceae) parasitising adult ground beetles buried in soil; it sends a slender stalk above ground, tipped with a spore-bearing head.",
+      "habitat_hint": "Moist montane forest floor with humus-rich soil where host beetles live.",
+      "finding_tips": "Rainy season to autumn, look for thin rod-like fungi rising from the forest floor; digging reveals the host beetle at the base."
+    },
+    "zh": {
+      "summary": "步甲虫草（オサムシタケ）。虫草类真菌，寄生于地下步甲成虫，自寄主伸出细长柄至地面，顶端形成产孢子实体。",
+      "habitat_hint": "山地湿润林床、富含腐殖质且有寄主的土中。",
+      "finding_tips": "梅雨至秋寻找自林床立起的细棒状真菌，掘出可见基部的寄主甲虫。"
+    }
+  },
+  "Orthopygia glaucinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Double-striped Tabby Moth",
+    "aliases": {
+      "zh-Hans": "双线斑螟"
+    },
+    "ja": {
+      "summary": "フタスジシマメイガ。メイガ科シマメイガ亜科のガ。褐色の前翅に2本の淡色の横帯があるのが名の由来。幼虫は枯葉や堆積物を食べる。",
+      "habitat_hint": "草地、林縁、堆肥や枯葉のたまる場所、人家周辺。",
+      "finding_tips": "初夏〜秋、灯火に来る褐色地に2本の横帯のある小さなガを探します。"
+    },
+    "en": {
+      "summary": "A snout moth (Pyralidae, Pyralinae) with two pale transverse bands across the brown forewing, hence its name; the larva feeds on dead leaves and detritus.",
+      "habitat_hint": "Grassland, forest edges, compost and leaf-litter accumulations, and around houses.",
+      "finding_tips": "Early summer to autumn, look at lights for a small brown moth with two pale cross-bands."
+    },
+    "zh": {
+      "summary": "双线斑螟（フタスジシマメイガ）。螟蛾科的蛾，褐色前翅具两条淡色横带（故名），幼虫取食枯叶与腐屑。",
+      "habitat_hint": "草地、林缘、堆肥落叶堆积处及人居周边。",
+      "finding_tips": "初夏至秋于灯下寻找褐底具两横带的小型蛾。"
+    }
+  },
+  "Orthosia incerta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clouded Drab",
+    "aliases": {
+      "zh-Hans": "混色梀夜蛾"
+    },
+    "ja": {
+      "summary": "ミヤマカバキリガ。ヤガ科キリガ類のガ。早春に出現し、褐色〜灰褐色の前翅に個体変異の多い模様がある。成虫で越冬せず、春に樹液や花に集まる。",
+      "habitat_hint": "低山〜山地の落葉樹林、林縁。",
+      "finding_tips": "3〜5月の早春、灯火や樹液に来る褐色〜灰褐色のガを探します。模様の変異が大きい。"
+    },
+    "en": {
+      "summary": "Clouded Drab. A noctuid moth (Noctuidae) flying in early spring, with brown to grey-brown forewings bearing highly variable markings; it visits sap and flowers in spring.",
+      "habitat_hint": "Deciduous forest and forest edges in low mountains.",
+      "finding_tips": "In early spring (March–May) look at lights and sap for a brown to grey-brown moth; the markings vary greatly."
+    },
+    "zh": {
+      "summary": "混色梀夜蛾（ミヤマカバキリガ）。夜蛾科的蛾，早春出现，前翅褐至灰褐色，斑纹个体变异大，春季访树液与花。",
+      "habitat_hint": "低山至山地落叶林及林缘。",
+      "finding_tips": "3至5月早春于灯下或树液处寻找褐至灰褐色蛾，斑纹变异大。"
+    }
+  },
+  "Ostorhinchus cookii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cook's Cardinalfish",
+    "aliases": {
+      "zh-Hans": "库氏天竺鲷"
+    },
+    "ja": {
+      "summary": "スジイシモチ。テンジクダイ科の小型の海水魚。体側に数本の暗色の縦帯が走り、大きな目をもつ。夜行性で、日中は岩陰やサンゴの間に群れる。",
+      "habitat_hint": "サンゴ礁、岩礁の浅所、潮下帯。",
+      "finding_tips": "岩陰やサンゴの間で、体側に縦帯のある大きな目の小魚の群れを探します。夜間に活動。"
+    },
+    "en": {
+      "summary": "Cook's Cardinalfish. A small marine fish (Apogonidae) with several dark longitudinal stripes and large eyes; nocturnal, it shelters among rocks and coral by day.",
+      "habitat_hint": "Coral reefs and shallow rocky reefs in the subtidal zone.",
+      "finding_tips": "Among rocks and coral, look for schools of small large-eyed fish with side stripes; active at night."
+    },
+    "zh": {
+      "summary": "库氏天竺鲷（スジイシモチ）。天竺鲷科小型海鱼，体侧具数条暗色纵带，眼大，夜行性，白天群栖于岩缝与珊瑚间。",
+      "habitat_hint": "珊瑚礁与浅岩礁潮下带。",
+      "finding_tips": "于岩缝珊瑚间寻找体侧具纵带、大眼的小鱼群，夜间活动。"
+    }
+  },
+  "Oulema oryzae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rice Leaf Beetle",
+    "aliases": {
+      "zh-Hans": "稻负泥虫"
+    },
+    "ja": {
+      "summary": "イネクビボソハムシ。ハムシ科の小型の甲虫。頭・胸は黒く上翅は青藍色の金属光沢をもつ。幼虫はイネの葉を食べる害虫で、幼虫は自分の糞を背負う習性がある。",
+      "habitat_hint": "水田、湿地、イネ科植物の生える草地。",
+      "finding_tips": "春〜初夏、イネや水辺のイネ科植物の葉上で、青藍色の上翅の小さな甲虫を探します。葉に食害の白い筋が残る。"
+    },
+    "en": {
+      "summary": "Rice Leaf Beetle. A small leaf beetle (Chrysomelidae) with a black head and thorax and blue metallic elytra; a rice pest whose larva feeds on rice leaves and carries its own faeces on its back.",
+      "habitat_hint": "Rice paddies, wetlands and grassland with grasses.",
+      "finding_tips": "Spring to early summer, look on rice and waterside grass leaves for a small beetle with blue elytra; feeding leaves whitish streaks."
+    },
+    "zh": {
+      "summary": "稻负泥虫（イネクビボソハムシ）。叶甲科小型甲虫，头胸黑色、鞘翅蓝色金属光泽，为稻害虫，幼虫取食稻叶并背负自身粪便。",
+      "habitat_hint": "水田、湿地及生禾草的草地。",
+      "finding_tips": "春至初夏于稻及水边禾草叶上寻找蓝色鞘翅的小甲虫，取食处留白色条痕。"
+    }
+  },
+  "Oxyperas bernardi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bernard's Trough Shell",
+    "aliases": {
+      "zh-Hans": "伯氏蛤蜊"
+    },
+    "ja": {
+      "summary": "ホクロガイ。バカガイ科の二枚貝。殻は三角状の卵形で、白色地に殻頂付近に暗色の斑(ほくろ)があるのが名の由来。砂底に潜って暮らす。",
+      "habitat_hint": "内湾〜沿岸の砂底、潮下帯。",
+      "finding_tips": "浜辺の打ち上げや砂底で、殻頂付近に暗色の斑をもつ白い三角状の貝を探します。"
+    },
+    "en": {
+      "summary": "A trough shell (Mactridae) with a triangular-oval white shell bearing a dark 'mole' spot near the umbo, hence its Japanese name; it burrows in sandy bottoms.",
+      "habitat_hint": "Sandy bottoms of bays and coasts in the subtidal zone.",
+      "finding_tips": "In beach drift or on sand, look for a white triangular shell with a dark spot near the beak."
+    },
+    "zh": {
+      "summary": "伯氏蛤蜊（ホクロガイ）。蛤蜊科双壳类，壳三角状卵形，白色而壳顶附近具暗斑（如痣，故名），潜居砂底。",
+      "habitat_hint": "内湾至沿岸砂底潮下带。",
+      "finding_tips": "于海滩漂积或砂底寻找壳顶附近具暗斑的白色三角形贝。"
+    }
+  },
+  "Pachybrachius luridus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat Seed Bug",
+    "aliases": {
+      "zh-Hans": "扁长蝽"
+    },
+    "ja": {
+      "summary": "ヒラタヒョウタンナガカメムシ。ナガカメムシ科のカメムシ。体は褐色で扁平、ひょうたん形の胸部をもつ。地表や草の根元で植物の種子の汁を吸う。",
+      "habitat_hint": "草地、河川敷、道端、地表や落ち葉の下。",
+      "finding_tips": "春〜秋、草地の地表や枯れ草の間で、扁平で褐色のひょうたん形のカメムシを探します。"
+    },
+    "en": {
+      "summary": "A seed bug (Rhyparochromidae) with a flat brown body and a gourd-shaped thorax; it sucks plant seeds at the ground surface and among grass bases.",
+      "habitat_hint": "Grassland, riverbanks, roadsides, ground surface and under leaf litter.",
+      "finding_tips": "Spring to autumn, look on grassland ground and among dead grass for a flat brown gourd-shaped bug."
+    },
+    "zh": {
+      "summary": "扁长蝽（ヒラタヒョウタンナガカメムシ）。长蝽科蝽类，体褐而扁平，胸部呈葫芦形，于地表及草根间吸食植物种子。",
+      "habitat_hint": "草地、河滩、路旁、地表及落叶下。",
+      "finding_tips": "春至秋于草地地表与枯草间寻找扁平褐色的葫芦形蝽。"
+    }
+  },
+  "Pachycheles stevensii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stevens' Porcelain Crab",
+    "aliases": {
+      "zh-Hans": "史氏瓷蟹"
+    },
+    "ja": {
+      "summary": "コブカニダマシ。カニダマシ科の小型のカニに似た甲殻類(異尾類)。ハサミ脚が大きく扁平で、甲や脚に顆粒状の突起(コブ)がある。岩の隙間にすむ。",
+      "habitat_hint": "岩礁海岸の潮間帯、岩の下や隙間。",
+      "finding_tips": "干潮時に岩を裏返し、大きく扁平なハサミと顆粒状のコブをもつ小さなカニダマシを探します。"
+    },
+    "en": {
+      "summary": "A small porcelain crab (Porcellanidae, an anomuran) with large flattened claws and granular bumps on the carapace and legs; it lives in rock crevices.",
+      "habitat_hint": "Intertidal rocky shores, under and between rocks.",
+      "finding_tips": "At low tide turn rocks to find a small porcelain crab with large flat claws and granular bumps."
+    },
+    "zh": {
+      "summary": "史氏瓷蟹（コブカニダマシ）。瓷蟹科的小型似蟹甲壳动物（异尾类），螯足大而扁平，头胸甲与足具颗粒状突起，栖于岩缝。",
+      "habitat_hint": "岩岸潮间带，岩石下及缝隙。",
+      "finding_tips": "退潮时翻石寻找螯足大而扁、具颗粒突起的小型瓷蟹。"
+    }
+  },
+  "Pallavicinia levieri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ribbon Liverwort",
+    "aliases": {
+      "zh-Hans": "带叶苔"
+    },
+    "ja": {
+      "summary": "ニセヤハズゴケ。スジゴケ科の葉状苔類(タイ類)。半透明の帯状の葉状体が二又に分かれ、中央に太い中肋がある。湿った地上や岩上に生える。",
+      "habitat_hint": "湿った林床、沢沿いの土上、岩上。",
+      "finding_tips": "一年を通して、半透明の帯状で中央に筋のある葉状体が二又に分かれるコケを探します。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort (Pallaviciniaceae) with a translucent ribbon-like thallus forking in two and a thick central midrib; it grows on damp ground and rocks.",
+      "habitat_hint": "Moist forest floor, streamside soil and rocks.",
+      "finding_tips": "Year-round, look for a translucent ribbon-like liverwort with a central rib, forking in two."
+    },
+    "zh": {
+      "summary": "带叶苔（ニセヤハズゴケ）。带叶苔科叶状苔类，叶状体半透明呈带状二歧分叉，中央具粗中肋，生于湿润地面与岩石。",
+      "habitat_hint": "湿润林床、沟旁土面及岩面。",
+      "finding_tips": "全年可寻找半透明带状、具中肋且二歧分叉的苔类。"
+    }
+  },
+  "Parabapta aetheriata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-lined Pale Geometer",
+    "aliases": {
+      "zh-Hans": "双线尺蛾"
+    },
+    "ja": {
+      "summary": "フタスジウスキエダシャク。シャクガ科エダシャク亜科のガ。淡黄色の翅に2本の細い横線があるのが名の由来。幼虫は尺取り虫で広葉樹の葉を食べる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "春〜初夏、灯火に来る淡黄色地に2本の横線のあるガを探します。"
+    },
+    "en": {
+      "summary": "A geometer moth (Geometridae, Ennominae) with pale yellow wings crossed by two thin lines, hence its name; the looper larva feeds on broadleaf tree leaves.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "Spring to early summer, look at lights for a pale yellow moth with two thin cross-lines."
+    },
+    "zh": {
+      "summary": "双线尺蛾（フタスジウスキエダシャク）。尺蛾科的蛾，翅淡黄具两条细横线（故名），幼虫为尺蠖，取食阔叶树叶片。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "春至初夏于灯下寻找淡黄底具两横线的蛾。"
+    }
   }
 }
