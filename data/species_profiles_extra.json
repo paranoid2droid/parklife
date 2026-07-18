@@ -269019,5 +269019,542 @@
       "habitat_hint": "山地林缘、林内、路边稍明亮处。",
       "finding_tips": "秋于枝上寻找紫色小果成簇之灌木；对生叶与紫珠状姿为线索。"
     }
+  },
+  "Callitriche deflexa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water-starwort",
+    "ja": {
+      "summary": "ナガエアワゴケ。水田や湿った地面、浅い水中に生えるオオバコ科（アワゴケ類）の小さな一年草。細い茎に小さな葉を対生し、水面や地表を這って広がる。果実に長い柄があるのが名の由来。",
+      "habitat_hint": "水田、湿った裸地、浅い水路、池畔の泥地。",
+      "finding_tips": "湿った地面や浅い水で、小さな対生の葉が這って広がる小さな草を探す。長い柄のある果実が識別点。"
+    },
+    "en": {
+      "summary": "A water-starwort (Callitriche deflexa), a small annual of paddies, damp ground and shallow water; slender stems bear small opposite leaves and creep over the surface. The long-stalked fruit gives its Japanese name.",
+      "habitat_hint": "Paddies, damp bare ground, shallow channels and pond mud.",
+      "finding_tips": "On damp ground or in shallow water look for a small herb with small opposite leaves creeping about; the long-stalked fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "ナガエアワゴケ。生于稻田、湿地与浅水的车前科（水马齿类）小型一年生草本，细茎具对生小叶、匍匐铺展，果具长柄（和名之源）。",
+      "habitat_hint": "稻田、湿润裸地、浅水渠、池畔泥地。",
+      "finding_tips": "湿地或浅水寻找对生小叶匍匐铺展之小草；具长柄之果为辨识点。"
+    }
+  },
+  "Calyptrochaeta japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "イバラゴケ。湿った林内の岩上や樹幹の基部、朽木に生える蘚類（ヒラゴケ類）。扁平に葉を並べた茎が這い、透明感のある緑色をしている。やや暗く湿った環境を好む。",
+      "habitat_hint": "湿った林内の岩上、樹幹の基部、朽木。",
+      "finding_tips": "湿った林内の岩や樹幹基部で、扁平に葉を並べた透明感のある緑色の蘚を探す。"
+    },
+    "en": {
+      "summary": "A moss of damp forest rocks, tree bases and rotten wood; the creeping stems bear leaves in a flattened plane and are translucent green. It favours dim, humid conditions.",
+      "habitat_hint": "Rocks, tree bases and rotten wood in damp forest.",
+      "finding_tips": "In damp forest on rock and tree bases look for a translucent green moss with leaves in a flat plane."
+    },
+    "zh": {
+      "summary": "イバラゴケ。生于湿润林内岩面、树基与朽木的藓类（平藓类），茎匍匐、叶扁平排列、绿而透亮，喜阴湿环境。",
+      "habitat_hint": "湿润林内岩面、树基、朽木。",
+      "finding_tips": "湿林内岩石与树基寻找叶扁平排列、透亮绿色之藓。"
+    }
+  },
+  "Cameraria niphonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf-miner moth",
+    "ja": {
+      "summary": "モミジニセキンホソガ。カエデ類につくホソガ科の非常に小さな蛾。幼虫は葉の内部に潜り込み、葉肉を食べて円形〜不規則な潜行痕（リーフマイン）を残す。成虫は金属光沢のある小さな翅をもつ。",
+      "habitat_hint": "カエデ類の生える雑木林、林縁、公園の樹林。",
+      "finding_tips": "初夏〜秋、カエデの葉にできる円形の潜行痕（マイン）を探す。中に幼虫が潜む点が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny leaf-miner moth of maples; the larva tunnels inside the leaf, eating the leaf tissue and leaving a rounded to irregular mine, and the adult has small metallic-sheened wings.",
+      "habitat_hint": "Maple-bearing woodland, forest edges and park groves.",
+      "finding_tips": "From early summer to autumn look for rounded mines in maple leaves; the larva inside is a clue."
+    },
+    "zh": {
+      "summary": "モミジニセキンホソガ。为害枫类的细蛾科极小型蛾，幼虫潜入叶内取食叶肉、留下圆形至不规则潜道（叶潜痕），成虫翅小具金属光泽。",
+      "habitat_hint": "生枫类的杂木林、林缘、公园林地。",
+      "finding_tips": "初夏至秋于枫叶寻找圆形潜道；道内幼虫为线索。"
+    }
+  },
+  "Cantharellus lateritius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smooth chanterelle",
+    "aliases": {
+      "zh-Hans": "平滑鸡油菌"
+    },
+    "ja": {
+      "summary": "アンズタケモドキ。夏〜秋に広葉樹林の地上に発生するアンズタケ科の食用キノコ。全体が卵黄色〜橙黄色で、傘の裏はほぼ平滑（しわ程度でひだが発達しない）。アンズのような香りをもつ。",
+      "habitat_hint": "広葉樹林（特にブナ科）の地上、林床。",
+      "finding_tips": "夏〜秋、広葉樹林の林床で卵黄色のキノコを探す。傘の裏がほぼ平滑でアンズの香りがある点が識別点。"
+    },
+    "en": {
+      "summary": "Smooth chanterelle (Cantharellus lateritius). An edible chanterelle fruiting on the ground in summer–autumn broadleaf forest; it is egg-yellow to orange-yellow overall, with an almost smooth (barely wrinkled, gill-less) underside and an apricot scent.",
+      "habitat_hint": "On the ground in broadleaf forest, especially with oaks.",
+      "finding_tips": "In summer–autumn on broadleaf forest floor look for an egg-yellow mushroom; the near-smooth underside and apricot scent are diagnostic."
+    },
+    "zh": {
+      "summary": "アンズタケモドキ（平滑鸡油菌）。夏秋发生于阔叶林地上的鸡油菌科食用菌，通体蛋黄至橙黄，盖下面近平滑（仅具皱、无真菌褶），具杏香。",
+      "habitat_hint": "阔叶林（尤壳斗科）地上、林床。",
+      "finding_tips": "夏秋于阔叶林床寻找蛋黄色菌；盖下近平滑、有杏香为辨识点。"
+    }
+  },
+  "Cantharellus minor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small chanterelle",
+    "aliases": {
+      "zh-Hans": "小鸡油菌"
+    },
+    "ja": {
+      "summary": "ヒナアンズタケ。夏〜秋に林内の地上に群生するアンズタケ科の小さな食用キノコ。全体が卵黄色〜橙黄色で、アンズタケを小型にしたような姿。傘の裏に浅いひだ状のしわがある。",
+      "habitat_hint": "広葉樹林・混交林の地上、コケの間、林床。",
+      "finding_tips": "夏〜秋、林床で卵黄色の小さなキノコが群生するのを探す。アンズタケより小型な点が識別点。"
+    },
+    "en": {
+      "summary": "Small chanterelle (Cantharellus minor). A small edible chanterelle fruiting in groups on forest ground in summer–autumn; it is egg-yellow to orange-yellow overall, like a miniature chanterelle, with shallow gill-like wrinkles beneath.",
+      "habitat_hint": "On the ground in broadleaf and mixed forest, among moss.",
+      "finding_tips": "In summer–autumn on the forest floor look for small egg-yellow mushrooms in groups; the small size distinguishes it from the common chanterelle."
+    },
+    "zh": {
+      "summary": "ヒナアンズタケ（小鸡油菌）。夏秋群生于林内地上的鸡油菌科小型食用菌，通体蛋黄至橙黄，如鸡油菌之缩小版，盖下具浅褶状皱。",
+      "habitat_hint": "阔叶林与混交林地上、苔藓间、林床。",
+      "finding_tips": "夏秋于林床寻找蛋黄色小菌群生；较鸡油菌小为辨识点。"
+    }
+  },
+  "Capua vulgana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "ハイイロウスモンハマキ。林縁や雑木林に見られるハマキガ科の小さな蛾。前翅は灰色で薄い斑紋をもち、静止時に翅を屋根形にたたむ。幼虫は各種の木の葉を綴って食べる。",
+      "habitat_hint": "林縁、雑木林、公園の樹林、果樹園。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る灰色の小さな蛾を探す。屋根形の静止姿勢と薄い斑紋が手がかり。"
+    },
+    "en": {
+      "summary": "A tortrix moth of forest edges and woodland; the grey forewings bear faint marks and it folds its wings roof-like at rest. The larvae feed within tied leaves of various trees.",
+      "habitat_hint": "Forest edges, woodland, park groves and orchards.",
+      "finding_tips": "On early-summer nights look at lights for a small grey moth; the roof-like resting posture and faint marks are clues."
+    },
+    "zh": {
+      "summary": "ハイイロウスモンハマキ。见于林缘与杂木林的卷蛾科小蛾，前翅灰色具淡斑，静止时翅呈屋脊状，幼虫缀多种树叶取食。",
+      "habitat_hint": "林缘、杂木林、公园林地、果园。",
+      "finding_tips": "初夏至夏夜灯下寻找灰色小蛾；屋脊状静止姿与淡斑为线索。"
+    }
+  },
+  "Cardamine nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine bittercress",
+    "ja": {
+      "summary": "ミヤマタネツケバナ。高山の砂礫地や岩場に生えるアブラナ科の小さな多年草。羽状に分かれた葉をロゼット状につけ、夏に白い十字花を咲かせる。日本の高山帯に分布する。",
+      "habitat_hint": "高山の砂礫地、岩場、風衝地、雪田の縁。",
+      "finding_tips": "夏、高山の砂礫地で羽状の葉と白い十字花をもつ小さな草を探す。低く小型で高山にある点が手がかり。"
+    },
+    "en": {
+      "summary": "Alpine bittercress (Cardamine nipponica). A small perennial of the mustard family on alpine gravel and rocks; it bears pinnately divided leaves in a rosette and white cross-shaped flowers in summer. It grows in Japan's alpine zone.",
+      "habitat_hint": "Alpine gravel, rocks, wind-exposed sites and snowbed edges.",
+      "finding_tips": "In summer on alpine gravel look for a small plant with pinnate leaves and white four-petalled flowers; its low alpine habit is a clue."
+    },
+    "zh": {
+      "summary": "ミヤマタネツケバナ。生于高山砂砾地与岩场的十字花科小型多年生草本，叶羽裂莲座状，夏开白色十字花，分布日本高山带。",
+      "habitat_hint": "高山砂砾地、岩场、风衝地、雪田边缘。",
+      "finding_tips": "夏于高山砂砾地寻找羽裂叶与白色十字花之小草；矮小生于高山为线索。"
+    }
+  },
+  "Carex curta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ハクサンスゲ。高層湿原や山地の湿地に生えるカヤツリグサ科のスゲ。細い稈の先に淡緑色〜灰白色の小穂をいくつかつける。寒冷地や高山の湿った環境に分布する。",
+      "habitat_hint": "高層湿原、山地の湿地、池畔の湿った草地。",
+      "finding_tips": "夏、湿原で細い稈の先に淡い色の小穂をいくつかつけるスゲを探す。湿った寒冷地の環境が手がかり。"
+    },
+    "en": {
+      "summary": "A sedge (Carex curta) of raised bogs and montane wetlands; slender stems carry several pale-green to greyish-white spikelets. It grows in cold and alpine wet habitats.",
+      "habitat_hint": "Raised bogs, montane wetlands and damp pondside grassland.",
+      "finding_tips": "In summer in bogs look for a sedge with several pale spikelets atop slender stems; the cold wet habitat is a clue."
+    },
+    "zh": {
+      "summary": "ハクサンスゲ。生于高位沼泽与山地湿地的莎草科薹草，细秆顶生数枚淡绿至灰白小穗，分布寒地与高山湿润环境。",
+      "habitat_hint": "高位沼泽、山地湿地、池畔湿草地。",
+      "finding_tips": "夏于沼泽寻找细秆顶生数枚淡色小穗之薹草；寒湿环境为线索。"
+    }
+  },
+  "Carex flavocuspis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ミヤマクロスゲ。高山の草地や雪田の縁に生えるカヤツリグサ科のスゲ。稈の先に黒褐色の小穂を数個やや垂れ気味につける。日本の高山帯に分布する。",
+      "habitat_hint": "高山の草地、雪田の縁、湿った礫地。",
+      "finding_tips": "夏、高山の草地で黒褐色の小穂を数個つけるスゲを探す。やや垂れる小穂が識別点。"
+    },
+    "en": {
+      "summary": "A sedge (Carex flavocuspis) of alpine grassland and snowbed margins; the stems carry a few dark-brown, somewhat nodding spikelets. It grows in Japan's alpine zone.",
+      "habitat_hint": "Alpine grassland, snowbed margins and damp gravel.",
+      "finding_tips": "In summer on alpine grassland look for a sedge with a few dark-brown spikelets; the somewhat nodding spikelets are diagnostic."
+    },
+    "zh": {
+      "summary": "ミヤマクロスゲ。生于高山草地与雪田边缘的莎草科薹草，秆顶生数枚黑褐色略下垂小穗，分布日本高山带。",
+      "habitat_hint": "高山草地、雪田边缘、湿润砾地。",
+      "finding_tips": "夏于高山草地寻找数枚黑褐小穗之薹草；小穗略下垂为辨识点。"
+    }
+  },
+  "Carex metallica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "フサスゲ。山地の湿った林縁や谷沿いに生えるカヤツリグサ科のスゲ。細い稈の先に、垂れ下がる細長い小穂を房状にいくつもつける。湿った半日陰を好む。",
+      "habitat_hint": "山地の湿った林縁、谷沿い、沢沿いの半日陰。",
+      "finding_tips": "初夏〜夏、谷沿いで細長い小穂が房のように垂れ下がるスゲを探す。垂れる小穂の房が識別点。"
+    },
+    "en": {
+      "summary": "A sedge (Carex metallica) of damp montane forest edges and valleys; slender stems bear several long, drooping spikelets in a cluster. It favours damp part-shade.",
+      "habitat_hint": "Damp montane forest edges, valleys and shaded streamsides.",
+      "finding_tips": "In early summer by valleys look for a sedge with long spikelets drooping in a cluster; the drooping spikelet cluster is diagnostic."
+    },
+    "zh": {
+      "summary": "フサスゲ。生于山地湿润林缘与谷沿的莎草科薹草，细秆顶生数枚下垂细长小穗成簇，喜湿润半阴。",
+      "habitat_hint": "山地湿润林缘、谷沿、沟沿半阴处。",
+      "finding_tips": "初夏至夏于谷沿寻找细长小穗成簇下垂之薹草；下垂小穗簇为辨识点。"
+    }
+  },
+  "Carex oxyphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "カタスゲ。山地の林内や林縁に生えるカヤツリグサ科のスゲ。かたく細い葉を株立ちにし、稈の先に細い小穂をつける。乾き気味の林床にも生える。",
+      "habitat_hint": "山地の林内、林縁、乾き気味の斜面。",
+      "finding_tips": "林床でかたく細い葉が株立ちになるスゲを探す。稈の先の細い小穂が識別点。"
+    },
+    "en": {
+      "summary": "A sedge (Carex oxyphylla) of montane forests and edges; it forms tufts of stiff narrow leaves and bears slender spikelets atop the stems. It grows even on somewhat dry forest floor.",
+      "habitat_hint": "Montane forest interiors, edges and somewhat dry slopes.",
+      "finding_tips": "On the forest floor look for a tufted sedge with stiff narrow leaves; the slender spikelets atop the stems are diagnostic."
+    },
+    "zh": {
+      "summary": "カタスゲ。生于山地林内与林缘的莎草科薹草，叶硬而细、丛生，秆顶生细小穗，亦生于稍干林床。",
+      "habitat_hint": "山地林内、林缘、稍干坡地。",
+      "finding_tips": "林床寻找硬细叶丛生之薹草；秆顶细小穗为辨识点。"
+    }
+  },
+  "Carex stenantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "イワスゲ。高山の岩場や礫地に生えるカヤツリグサ科のスゲ。細くかたい葉を密に株立ちにし、稈の先に細長い小穂をつける。風衝の厳しい高山環境に適応する。",
+      "habitat_hint": "高山の岩場、礫地、風衝地、稜線。",
+      "finding_tips": "夏、高山の岩場で細くかたい葉が密に株立ちになるスゲを探す。厳しい高山環境が手がかり。"
+    },
+    "en": {
+      "summary": "A sedge (Carex stenantha) of alpine rocks and gravel; it forms dense tufts of fine stiff leaves and bears slender spikelets atop the stems, adapted to harsh wind-exposed alpine sites.",
+      "habitat_hint": "Alpine rocks, gravel, wind-exposed sites and ridges.",
+      "finding_tips": "In summer on alpine rock look for a sedge in dense tufts of fine stiff leaves; the harsh alpine setting is a clue."
+    },
+    "zh": {
+      "summary": "イワスゲ。生于高山岩场与砾地的莎草科薹草，细硬叶密丛生，秆顶生细长小穗，适应严酷风衝高山环境。",
+      "habitat_hint": "高山岩场、砾地、风衝地、山脊。",
+      "finding_tips": "夏于高山岩场寻找细硬叶密丛之薹草；严酷高山环境为线索。"
+    }
+  },
+  "Carex subebracteata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ツルカミカワスゲ。山地の湿った林縁や湿地に生えるカヤツリグサ科のスゲ。細い稈の先に淡緑色〜褐色の小穂をつける。やや湿った明るい環境を好む。",
+      "habitat_hint": "山地の湿った林縁、湿地、池畔の草地。",
+      "finding_tips": "初夏〜夏、湿った林縁でスゲを探し、稈の先の小穂の付き方を確認する。湿った環境が手がかり。"
+    },
+    "en": {
+      "summary": "A sedge (Carex subebracteata) of damp montane forest edges and wetlands; slender stems bear pale-green to brown spikelets. It favours somewhat damp, bright places.",
+      "habitat_hint": "Damp montane forest edges, wetlands and pondside grassland.",
+      "finding_tips": "In early summer at damp forest edges look for a sedge and check the spikelet arrangement atop the stem; the damp setting is a clue."
+    },
+    "zh": {
+      "summary": "ツルカミカワスゲ。生于山地湿润林缘与湿地的莎草科薹草，细秆顶生淡绿至褐色小穗，喜稍湿明亮环境。",
+      "habitat_hint": "山地湿润林缘、湿地、池畔草地。",
+      "finding_tips": "初夏至夏于湿润林缘寻薹草并查秆顶小穗排列；湿润环境为线索。"
+    }
+  },
+  "Carex teinogyna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "フサナキリスゲ。暖地の山地の谷沿いや湿った林縁に生えるカヤツリグサ科のスゲ。細長い小穂を房状に垂れ下げてつける。ナキリスゲの仲間で、やや大型。",
+      "habitat_hint": "暖地の山地の谷沿い、湿った林縁、沢沿い。",
+      "finding_tips": "夏〜秋、谷沿いで細長い小穂が房状に垂れ下がる大きめのスゲを探す。垂れる小穂の房が識別点。"
+    },
+    "en": {
+      "summary": "A sedge (Carex teinogyna) of warm-region montane valleys and damp forest edges; it bears long spikelets drooping in clusters. A member of the drooping-sedge group, it is rather large.",
+      "habitat_hint": "Warm-region montane valleys, damp forest edges and streamsides.",
+      "finding_tips": "In summer–autumn by valleys look for a larger sedge with long spikelets drooping in clusters; the drooping clusters are diagnostic."
+    },
+    "zh": {
+      "summary": "フサナキリスゲ。生于暖地山地谷沿与湿润林缘的莎草科薹草，细长小穗成簇下垂，为其类群中较大者。",
+      "habitat_hint": "暖地山地谷沿、湿润林缘、沟沿。",
+      "finding_tips": "夏秋于谷沿寻找细长小穗成簇下垂之较大薹草；下垂小穗簇为辨识点。"
+    }
+  },
+  "Carminodoris armata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dorid nudibranch",
+    "ja": {
+      "summary": "マンリョウウミウシ。浅い岩礁やサンゴ礁に生息するイロウミウシ類のウミウシ（ドーリス類）。体表に多数の突起があり、赤みを帯びた地に色点が散る。カイメンを食べる。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、潮だまり、転石の下。",
+      "finding_tips": "岩礁で体表に突起をもつ赤みを帯びたウミウシを探す。カイメンの生える岩上が手がかり。"
+    },
+    "en": {
+      "summary": "A dorid nudibranch of shallow rocky and coral reefs; the body bears many tubercles on a reddish ground flecked with colour, and it feeds on sponges.",
+      "habitat_hint": "Shallow rocky and coral reefs, tide pools and under boulders.",
+      "finding_tips": "On reefs look for a reddish nudibranch with a tubercled surface; sponge-covered rock is a clue."
+    },
+    "zh": {
+      "summary": "マンリョウウミウシ。栖于浅岩礁与珊瑚礁的多彩海牛类海牛，体表具众多突起、红底散色点，取食海绵。",
+      "habitat_hint": "浅岩礁、珊瑚礁、潮池、砾石下。",
+      "finding_tips": "岩礁寻找体表具突起的红色海牛；生海绵之岩面为线索。"
+    }
+  },
+  "Carpinus turczaninovii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turczaninow's hornbeam",
+    "aliases": {
+      "zh-Hans": "鹅耳枥"
+    },
+    "ja": {
+      "summary": "イワシデ。山地の岩場や尾根に生えるカバノキ科の落葉小高木。葉は小さく、縁に重鋸歯がある。雌花序は苞葉が連なった穂状で、秋に果実を垂らす。岩地に生えることが名の由来。盆栽にも使われる。",
+      "habitat_hint": "山地の岩場、尾根、石灰岩地、乾いた斜面。",
+      "finding_tips": "岩場で小さな重鋸歯のある葉と、苞葉が連なる垂れた果穂をもつ木を探す。岩地に生える点が手がかり。"
+    },
+    "en": {
+      "summary": "Turczaninow's hornbeam (Carpinus turczaninovii). A deciduous small tree of the birch family on montane rocks and ridges; the small leaves are doubly toothed, and the female catkins of chained bracts hang with fruit in autumn. Its rocky habitat gives the Japanese name, and it is used in bonsai.",
+      "habitat_hint": "Montane rocks, ridges, limestone ground and dry slopes.",
+      "finding_tips": "On rocky ground look for a tree with small doubly toothed leaves and hanging catkins of chained bracts; the rocky habitat is a clue."
+    },
+    "zh": {
+      "summary": "イワシデ（鹅耳枥）。生于山地岩场与山脊的桦木科落叶小乔木，叶小具重锯齿，雌花序为苞叶连缀之穗、秋垂果，生于岩地而得和名，亦作盆景。",
+      "habitat_hint": "山地岩场、山脊、石灰岩地、干坡。",
+      "finding_tips": "岩地寻找小重锯齿叶与苞叶连缀下垂果穗之树；生于岩地为线索。"
+    }
+  },
+  "Carpophilus chalybaeus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sap beetle",
+    "ja": {
+      "summary": "クロハナケシキスイ。花や樹液、熟した果実に集まるデオキスイ科の小さな甲虫。体は黒っぽく金属光沢をもち、上翅が短く腹端が露出する。花粉や発酵した植物質を食べる。",
+      "habitat_hint": "花のまわり、樹液の出る木、落果、堆肥。",
+      "finding_tips": "花の上や樹液で、黒っぽく金属光沢のある小さな甲虫を探す。上翅が短く腹端が露出する点が識別点。"
+    },
+    "en": {
+      "summary": "A sap beetle gathering at flowers, sap and ripe fruit; the body is blackish with a metallic sheen, and the short elytra leave the abdomen tip exposed. It eats pollen and fermenting plant matter.",
+      "habitat_hint": "Around flowers, sap-oozing trees, fallen fruit and compost.",
+      "finding_tips": "On flowers and sap look for a small blackish metallic beetle; the exposed abdomen tip is diagnostic."
+    },
+    "zh": {
+      "summary": "クロハナケシキスイ。聚于花、树液与熟果的露尾甲科小甲虫，体黑而具金属光泽、鞘翅短、腹端外露，食花粉与发酵植物质。",
+      "habitat_hint": "花丛、流树液之木、落果、堆肥。",
+      "finding_tips": "花上与树液处寻找黑色金属光泽小甲虫；鞘翅短腹端外露为辨识点。"
+    }
+  },
+  "Carpophilus marginellus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クリイロデオキスイ。樹液や熟した果実、腐敗した植物質に集まるデオキスイ科の小さな甲虫。体は栗色〜褐色で、上翅が短く腹端が露出する。発酵した植物質を食べる分解者。",
+      "habitat_hint": "樹液の出る木、落果、堆肥、腐った果実のまわり。",
+      "finding_tips": "夏、樹液や落果に集まる栗色の小さな甲虫を探す。上翅が短く腹端が露出する点が識別点。"
+    },
+    "en": {
+      "summary": "A sap beetle gathering at sap, ripe fruit and rotting plant matter; the body is chestnut-brown and the short elytra leave the abdomen tip exposed. It is a decomposer feeding on fermenting plant matter.",
+      "habitat_hint": "Sap-oozing trees, fallen fruit, compost and rotting fruit.",
+      "finding_tips": "In summer at sap and fallen fruit look for a small chestnut-brown beetle; the exposed abdomen tip is diagnostic."
+    },
+    "zh": {
+      "summary": "クリイロデオキスイ（大腋露尾甲）。聚于树液、熟果与腐败植物质的露尾甲科小甲虫，体栗褐、鞘翅短、腹端外露，为食发酵植物质的分解者。",
+      "habitat_hint": "流树液之木、落果、堆肥、腐果周边。",
+      "finding_tips": "夏于树液与落果寻找栗褐小甲虫；鞘翅短腹端外露为辨识点。"
+    }
+  },
+  "Casmaria erinaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Vibex bonnet snail",
+    "ja": {
+      "summary": "ヒナヅル。南日本〜インド太平洋の浅い砂底に生息するトウカムリガイ科（ボウシュウボラ類の近縁）の巻貝。殻は丸みのある卵形で白っぽく、殻口の縁にとげ状の突起が並ぶことがある。砂に潜ってウニなどを食べる。",
+      "habitat_hint": "浅いサンゴ礁・岩礁周辺の砂底、礁池。",
+      "finding_tips": "砂底で丸みのある白っぽい卵形の巻貝を探す。殻口の縁のとげ状突起が識別点。"
+    },
+    "en": {
+      "summary": "A bonnet snail (Casmaria erinaceus) of shallow sand from southern Japan through the Indo-Pacific; the rounded egg-shaped shell is whitish, sometimes with small spines along the lip. It burrows in sand and preys on sea urchins.",
+      "habitat_hint": "Sandy bottoms near shallow coral and rocky reefs, and lagoons.",
+      "finding_tips": "On sand look for a rounded whitish egg-shaped snail; the small spines along the outer lip are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒナヅル。分布南日本至印度太平洋浅砂底的鬘螺科螺，壳圆卵形而白，唇缘有时具小刺，潜砂捕食海胆。",
+      "habitat_hint": "浅珊瑚礁与岩礁周边砂底、礁池。",
+      "finding_tips": "砂底寻找圆卵形白色螺；唇缘小刺为辨识点。"
+    }
+  },
+  "Catalpa bignonioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Southern catalpa",
+    "aliases": {
+      "zh-Hans": "美国梓"
+    },
+    "ja": {
+      "summary": "アメリカキササゲ。北アメリカ原産で公園や街路に植栽されるノウゼンカズラ科の落葉高木。大きな心形の葉をつけ、初夏に白い漏斗状の花を円錐状に多数咲かせる。花のあと、豆のような細長い果実を長く垂らす。",
+      "habitat_hint": "公園、街路、庭園などの植栽。",
+      "finding_tips": "大きな心形の葉と、初夏の白い花房を探す。花のあとに垂れる細長い豆状の果実が識別点。"
+    },
+    "en": {
+      "summary": "Southern catalpa (Catalpa bignonioides). A deciduous tree of the trumpet-vine family native to North America, planted in parks and streets; it has large heart-shaped leaves and dense clusters of white funnel-shaped flowers in early summer, followed by long hanging bean-like pods.",
+      "habitat_hint": "Parks, streets and gardens as an ornamental planting.",
+      "finding_tips": "Look for large heart-shaped leaves and clusters of white early-summer flowers; the long hanging bean-like pods are diagnostic."
+    },
+    "zh": {
+      "summary": "アメリカキササゲ（美国梓）。原产北美、栽于公园街道的紫葳科落叶乔木，叶大心形，初夏白色漏斗状花密集成锥状花序，花后垂长豆荚状果。",
+      "habitat_hint": "公园、街道、庭园栽培。",
+      "finding_tips": "寻找心形大叶与初夏白色花序；花后垂长豆荚状果为辨识点。"
+    }
+  },
+  "Caulacanthus ustulatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "イソダンツウ。潮間帯の岩上に密なマット状に生える紅藻の一種。細かく分枝した糸状〜小枝状の体が絡み合い、暗紅色〜黒紫色のクッション状の群落をつくる。波あたりの強い岩場に多い。",
+      "habitat_hint": "潮間帯の岩上、波あたりの強い岩場、潮だまりの縁。",
+      "finding_tips": "潮間帯の岩上で、細かく分枝した暗紅色のマット状に密生する海藻を探す。クッション状の群落が識別点。"
+    },
+    "en": {
+      "summary": "A red alga forming dense mats on intertidal rock; the finely branched filament-like fronds interweave into dark-red to blackish-purple cushions. It is common on wave-exposed rocky shores.",
+      "habitat_hint": "Intertidal rock, wave-exposed shores and tide-pool margins.",
+      "finding_tips": "On intertidal rock look for a finely branched dark-red alga growing in dense mats; the cushion-like turf is diagnostic."
+    },
+    "zh": {
+      "summary": "イソダンツウ（茎刺藻）。于潮间带岩面密生成垫的红藻，细分枝丝状至小枝状体交织成暗红至黑紫垫状群落，多见于浪击强的岩岸。",
+      "habitat_hint": "潮间带岩面、浪击强岩岸、潮池边缘。",
+      "finding_tips": "潮间带岩面寻找细分枝暗红成垫之藻；垫状群落为辨识点。"
+    }
+  },
+  "Cellana testudinaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turtle limpet",
+    "ja": {
+      "summary": "オオベッコウガサ。南日本〜インド太平洋の潮間帯の岩礁に生息するヨメガカサガイ科の大型の笠貝。殻は低い笠形で、亀の甲羅のような褐色の模様がある。岩に強く張りつき、藻類を削り取って食べる。",
+      "habitat_hint": "潮間帯の岩礁、波あたりのある岩場。",
+      "finding_tips": "干潮時、岩に張りつく大きな笠形の貝を探す。亀甲状の褐色模様をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "Turtle limpet (Cellana testudinaria). A large limpet of intertidal reefs from southern Japan through the Indo-Pacific; the low cap-shaped shell has brown tortoiseshell-like markings. It clings firmly to rock and grazes algae.",
+      "habitat_hint": "Intertidal reefs and wave-washed rocky shores.",
+      "finding_tips": "At low tide look for a large cap-shaped limpet clinging to rock; the brown tortoiseshell markings are diagnostic."
+    },
+    "zh": {
+      "summary": "オオベッコウガサ（龟甲蜑螺笠贝）。分布南日本至印度太平洋潮间带岩礁的青螺科大型笠贝，壳低笠形、具龟甲状褐纹，紧附岩面刮食藻类。",
+      "habitat_hint": "潮间带岩礁、浪击岩岸。",
+      "finding_tips": "退潮时寻找紧附岩面的大笠形贝；龟甲状褐纹为辨识点。"
+    }
+  },
+  "Ceodes umbellifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオクサボク。南西諸島などの海岸林に生えるオシロイバナ科の常緑高木。大きな葉をもち、果実が非常に粘つくのが特徴で、鳥に付着して散布される（時に小鳥が絡めとられることもある）。ムニンノボタン等と同様、島嶼の海岸林を構成する。",
+      "habitat_hint": "亜熱帯・熱帯の海岸林、島嶼の森林。",
+      "finding_tips": "海岸林で大きな葉をもつ高木を探す。非常に粘つく細長い果実が識別点。"
+    },
+    "en": {
+      "summary": "Bird-lime tree (Ceodes umbellifera). An evergreen tree of the four-o'clock family in coastal forests of the Ryukyus and beyond; it has large leaves and extremely sticky fruit that clings to birds for dispersal (small birds are sometimes ensnared). It is a component of island coastal forest.",
+      "habitat_hint": "Subtropical and tropical coastal forest and island woodland.",
+      "finding_tips": "In coastal forest look for a large-leaved tree; the extremely sticky elongate fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "オオクサボク（胶果木）。生于琉球群岛等海岸林的紫茉莉科常绿乔木，叶大，果极黏、附于鸟体散播（小鸟偶被黏缠），为岛屿海岸林组成种。",
+      "habitat_hint": "亚热带与热带海岸林、岛屿森林。",
+      "finding_tips": "海岸林寻找大叶乔木；极黏的细长果为辨识点。"
+    }
+  },
+  "Cepphis advenaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アトボシエダシャク。林縁や雑木林に見られるシャクガ科エダシャク亜科の蛾。翅は黄褐色で、後翅の外縁近くに暗色の紋がある。翅の縁が波打つように見える。幼虫は各種の低木の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、山地の落葉樹林。",
+      "finding_tips": "初夏、林縁で黄褐色に暗色の紋をもつ蛾を探す。波打つような翅の縁と後翅の紋が識別点。"
+    },
+    "en": {
+      "summary": "Little thorn (Cepphis advenaria). A geometer moth of forest edges and woodland; the wings are yellow-brown with a dark mark near the outer margin of the hindwing, and the wing margins look scalloped. The larvae feed on various shrubs.",
+      "habitat_hint": "Forest edges, secondary woodland and montane deciduous forest.",
+      "finding_tips": "In early summer at forest edges look for a yellow-brown moth with a dark hindwing mark; the scalloped wing margins are diagnostic."
+    },
+    "zh": {
+      "summary": "アトボシエダシャク。见于林缘与杂木林的尺蛾科尺蛾亚科蛾，翅黄褐、后翅外缘近处具暗斑、翅缘似波状，幼虫食多种灌木叶。",
+      "habitat_hint": "林缘、杂木林、山地落叶林。",
+      "finding_tips": "初夏于林缘寻找黄褐具暗斑之蛾；波状翅缘与后翅斑为辨识点。"
+    }
   }
 }
