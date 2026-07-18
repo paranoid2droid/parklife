@@ -262132,5 +262132,577 @@
       "habitat_hint": "树干、岩面、混凝土及行道树。",
       "finding_tips": "全年可于树皮岩石上寻找灰绿、裂片狭、下面黑的小型叶状地衣。"
     }
+  },
+  "Phallus rugulosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "皱皮鬼笔"
+    },
+    "ja": {
+      "summary": "キツネノタイマツ。スッポンタケ科のキノコ。細長い柄の先に暗褐色の頭部があり、悪臭のある粘液(グレバ)でハエを誘って胞子を運ばせる。卵状の幼菌から伸び出る。",
+      "habitat_hint": "庭、林縁、竹林、腐植質の多い地上。",
+      "finding_tips": "夏〜秋、悪臭のする細長い赤橙色の柄に暗褐色の頭をもつキノコを探します。ハエが集まる。"
+    },
+    "en": {
+      "summary": "Wrinkly Stinkhorn. A stinkhorn (Phallaceae) with a slender stalk topped by a dark brown head coated in foul-smelling slime (gleba) that attracts flies to disperse the spores; it emerges from an egg-like young stage.",
+      "habitat_hint": "Gardens, forest edges, bamboo groves and humus-rich ground.",
+      "finding_tips": "Summer to autumn, look for a foul-smelling slender reddish-orange stalk with a dark brown head; flies gather on it."
+    },
+    "zh": {
+      "summary": "皱皮鬼笔（キツネノタイマツ）。鬼笔科真菌，细长柄顶端具暗褐色头部，被恶臭黏液（产孢体）诱蝇传播孢子，自卵状幼体伸出。",
+      "habitat_hint": "庭园、林缘、竹林及腐殖质丰富的地面。",
+      "finding_tips": "夏秋寻找散发恶臭、红橙色细长柄顶暗褐头的真菌，常引苍蝇。"
+    }
+  },
+  "Philonotis falcata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sickle-leaved Apple-moss",
+    "aliases": {
+      "zh-Hans": "镰叶泽藓"
+    },
+    "ja": {
+      "summary": "カマサワゴケ。タマゴケ科サワゴケ属の蘚類。葉が鎌状に一方向に曲がるのが名の由来。湿った岩上や水辺に黄緑色の群落をつくる。",
+      "habitat_hint": "沢沿い、湿った岩上、水のしみ出る斜面。",
+      "finding_tips": "一年を通して、水辺の岩に鎌状に曲がった葉をもつ黄緑色のコケの群落を探します。"
+    },
+    "en": {
+      "summary": "A moss (Bartramiaceae) whose leaves curve to one side like a sickle (hence its name), forming yellow-green colonies on wet rocks and by water.",
+      "habitat_hint": "Streamsides, wet rocks and seepage slopes.",
+      "finding_tips": "Year-round, on waterside rocks look for yellow-green moss with sickle-curved leaves."
+    },
+    "zh": {
+      "summary": "镰叶泽藓（カマサワゴケ）。珠藓科泽藓属藓类，叶片镰状偏向一侧（故名），于湿岩与水边形成黄绿色藓丛。",
+      "habitat_hint": "沟旁、湿岩及渗水坡面。",
+      "finding_tips": "全年可于水边岩石上寻找叶镰状弯曲的黄绿色藓丛。"
+    }
+  },
+  "Philonotis thwaitesii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thwaites' Apple-moss",
+    "aliases": {
+      "zh-Hans": "东亚泽藓"
+    },
+    "ja": {
+      "summary": "コツクシサワゴケ。タマゴケ科サワゴケ属の小型の蘚類。湿った土や岩上に黄緑色の密な群落をつくる。茎は直立し、細かな葉を密につける。",
+      "habitat_hint": "湿った土手、岩上、沢沿いの半日陰。",
+      "finding_tips": "一年を通して、湿った土手や岩に密生する黄緑色の小型のコケを探します。"
+    },
+    "en": {
+      "summary": "A small moss (Bartramiaceae) forming dense yellow-green colonies on moist soil and rock; the erect stems bear crowded fine leaves.",
+      "habitat_hint": "Moist banks, rocks and half-shaded streamsides.",
+      "finding_tips": "Year-round, look for dense yellow-green small moss on damp banks and rocks."
+    },
+    "zh": {
+      "summary": "东亚泽藓（コツクシサワゴケ）。珠藓科泽藓属小型藓类，于湿土与岩面形成致密黄绿色藓丛，茎直立密生细叶。",
+      "habitat_hint": "湿润土坡、岩面及沟旁半阴处。",
+      "finding_tips": "全年可于湿润土坡与岩石上寻找致密的黄绿色小型藓类。"
+    }
+  },
+  "Phlebia tremellosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "胶质韧革菌"
+    },
+    "ja": {
+      "summary": "シワタケ。ウロコタケ科の背着〜半背着性のキノコ。枯木の下面に張り付き、しわ状・脈状の子実層をもつ。ゼラチン質でオレンジ〜淡桃色を帯びる。",
+      "habitat_hint": "広葉樹の倒木、枯枝、朽木の下面。",
+      "finding_tips": "秋〜冬、倒木の下面に張り付くしわ状で半透明・淡桃色の子実体を探します。木材を白色腐朽させる。"
+    },
+    "en": {
+      "summary": "Jelly Rot. A resupinate to partly reflexed fungus (Meruliaceae) that adheres to the underside of dead wood, with a wrinkled, vein-like gelatinous surface tinged orange to pale pink; it causes white rot.",
+      "habitat_hint": "Undersides of fallen logs, dead branches and rotting wood of broadleaf trees.",
+      "finding_tips": "Autumn to winter, on the underside of logs look for a wrinkled, translucent pale-pink fruiting layer."
+    },
+    "zh": {
+      "summary": "胶质韧革菌（シワタケ）。皱孔菌科的平伏至半反卷真菌，贴生于枯木下面，子实层皱脉状、胶质，带橙至淡粉色，引起白腐。",
+      "habitat_hint": "阔叶树倒木、枯枝及朽木下面。",
+      "finding_tips": "秋冬于倒木下面寻找皱脉状、半透明淡粉色的子实体，使木材白腐。"
+    }
+  },
+  "Phlogophora illustrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-banded Angle Shades",
+    "aliases": {
+      "zh-Hans": "白带修夜蛾"
+    },
+    "ja": {
+      "summary": "シラオビアカガネヨトウ。ヤガ科のガ。赤銅色を帯びた前翅に白い帯があるのが名の由来。幼虫は各種草本の葉を食べる。",
+      "habitat_hint": "低山〜山地の林縁、草地。",
+      "finding_tips": "初夏〜秋、灯火に来る赤銅色地に白帯のあるヨトウガの仲間を探します。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Noctuidae) whose coppery forewing bears a white band, hence its Japanese name; the larva feeds on various herbaceous plants.",
+      "habitat_hint": "Forest edges and grassland in low mountains.",
+      "finding_tips": "Early summer to autumn, look at lights for a coppery moth with a white band."
+    },
+    "zh": {
+      "summary": "白带修夜蛾（シラオビアカガネヨトウ）。夜蛾科的蛾，前翅赤铜色具白色横带（故名），幼虫取食多种草本植物叶片。",
+      "habitat_hint": "低山至山地林缘与草地。",
+      "finding_tips": "初夏至秋于灯下寻找赤铜底具白带的夜蛾。"
+    }
+  },
+  "Phlox paniculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Garden Phlox",
+    "aliases": {
+      "zh-Hans": "宿根福禄考"
+    },
+    "ja": {
+      "summary": "クサキョウチクトウ。ハナシノブ科フロックス属の多年草。北米原産で、夏に紅紫・桃・白などの小花を円錐状に密集して咲かせる。花壇で広く栽培され、逸出もする。",
+      "habitat_hint": "花壇、庭、公園の植栽、道端(栽培・逸出)。",
+      "finding_tips": "7〜9月、茎の先に紅紫〜桃色の小花が円錐状に密集する花序を探します。甘い香りがある。"
+    },
+    "en": {
+      "summary": "Garden Phlox. A perennial (Polemoniaceae) from North America bearing dense panicles of pink-purple, pink or white flowers in summer; widely grown in beds and sometimes escaping.",
+      "habitat_hint": "Flower beds, gardens, park plantings and roadsides (cultivated/escaped).",
+      "finding_tips": "From July to September look for dense panicles of pink-purple flowers atop the stems; sweetly scented."
+    },
+    "zh": {
+      "summary": "宿根福禄考（クサキョウチクトウ）。花荵科天蓝绣球属多年生草本，原产北美，夏季于圆锥花序密生紫红、粉或白色小花，广泛栽培并有逸生。",
+      "habitat_hint": "花坛、庭园、公园植栽及路旁（栽培或逸出）。",
+      "finding_tips": "7至9月寻找茎顶紫红至粉色小花密集的圆锥花序，具甜香。"
+    }
+  },
+  "Phyllidia ocellata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ocellate Phyllidia",
+    "aliases": {
+      "zh-Hans": "眼斑叶海牛"
+    },
+    "ja": {
+      "summary": "キイロイボウミウシ。イボウミウシ科のウミウシ。黄色〜橙色の背面に黒く縁取られた突起(イボ)が並ぶ。海綿を食べ、体表から刺激性の物質を出す。",
+      "habitat_hint": "サンゴ礁、岩礁の海綿の多い場所、潮下帯。",
+      "finding_tips": "サンゴ礁の岩の上で、黄橙色にイボ状突起の並ぶウミウシを探します。刺激物質を出すので注意。"
+    },
+    "en": {
+      "summary": "A sea slug (Phyllidiidae) with a yellow to orange back studded with black-ringed tubercles; it eats sponges and secretes irritating compounds.",
+      "habitat_hint": "Coral reefs and sponge-rich rocky areas, subtidal.",
+      "finding_tips": "On reef rocks look for a yellow-orange sea slug with rows of tubercles; it releases irritant chemicals, so take care."
+    },
+    "zh": {
+      "summary": "眼斑叶海牛（キイロイボウミウシ）。叶海牛科海蛞蝓，背面黄至橙色，密布黑缘的疣状突起，取食海绵并分泌刺激性物质。",
+      "habitat_hint": "珊瑚礁及富含海绵的岩礁区，潮下带。",
+      "finding_tips": "于珊瑚礁岩石上寻找黄橙、具成排疣突的海蛞蝓，分泌刺激物质需注意。"
+    }
+  },
+  "Phylliscum japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Jelly Lichen",
+    "aliases": {
+      "zh-Hans": "日本胶衣"
+    },
+    "ja": {
+      "summary": "ヤスデゴケモドキ。イワノリ科の小型の膠質地衣。シアノバクテリアを共生させ、湿ると膨潤して黒褐色のゼリー状になる。岩上に着生する。",
+      "habitat_hint": "湿った岩上、渓流沿いの岩、しみ出しのある岩壁。",
+      "finding_tips": "湿った岩の上で、黒褐色の小さな膠質(ゼリー状)の地衣を探します。乾くと縮む。"
+    },
+    "en": {
+      "summary": "A small gelatinous lichen (Lichinaceae) partnered with cyanobacteria; it swells into a blackish-brown jelly when wet and grows on rocks.",
+      "habitat_hint": "Wet rocks, streamside stones and seepage rock walls.",
+      "finding_tips": "On wet rock look for a small blackish-brown gelatinous lichen; it shrinks when dry."
+    },
+    "zh": {
+      "summary": "日本胶衣（ヤスデゴケモドキ）。胶衣科小型胶质地衣，与蓝细菌共生，湿润时膨胀呈黑褐色胶冻状，附生于岩石。",
+      "habitat_hint": "湿岩、溪流边石块及渗水岩壁。",
+      "finding_tips": "于湿岩上寻找黑褐色小型胶质地衣，干燥即皱缩。"
+    }
+  },
+  "Phyllobius picipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green Leaf Weevil",
+    "aliases": {
+      "zh-Hans": "绿绒象"
+    },
+    "ja": {
+      "summary": "コブヒゲボソゾウムシ。ゾウムシ科の小型の甲虫。体表に緑色の金属光沢のある微細な鱗片をまとう。成虫は各種の木の若葉を食べる。触角が短い毛に覆われる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁の木の葉上。",
+      "finding_tips": "春〜初夏、若葉の上で、緑の金属光沢をもつ小さなゾウムシを探します。触れると落下する。"
+    },
+    "en": {
+      "summary": "A small weevil (Curculionidae) covered in fine green metallic scales; the adult feeds on the young leaves of various trees, and its antennae bear short hairs.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains, on foliage.",
+      "finding_tips": "Spring to early summer, look on young leaves for a small green metallic weevil; it drops when touched."
+    },
+    "zh": {
+      "summary": "绿绒象（コブヒゲボソゾウムシ）。象甲科小型甲虫，体被绿色金属光泽细鳞，成虫取食多种树木嫩叶，触角具短毛。",
+      "habitat_hint": "低山至山地阔叶林及林缘叶面。",
+      "finding_tips": "春至初夏于嫩叶上寻找绿色金属光泽的小型象甲，触之即坠落。"
+    }
+  },
+  "Phyllodesmium serratum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sagami Aeolid",
+    "aliases": {
+      "zh-Hans": "锯齿叶鳃海牛"
+    },
+    "ja": {
+      "summary": "サガミミノウミウシ。ミノウミウシ類(裸鰓類)のウミウシ。背面に多数の細長い突起(ミノ)を並べ、半透明で褐色の斑がある。ソフトコーラルなどを食べる。",
+      "habitat_hint": "サンゴ礁、岩礁のソフトコーラルの多い場所、潮下帯。",
+      "finding_tips": "岩礁で、背に多数の細長い突起(ミノ)を並べた半透明のウミウシを探します。刺胞を持つ獲物を食べる。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug with rows of numerous elongate cerata on the back, translucent with brown flecks; it feeds on soft corals.",
+      "habitat_hint": "Coral reefs and rocky areas rich in soft corals, subtidal.",
+      "finding_tips": "On reefs look for a translucent sea slug with many elongate cerata on the back; it feeds on cnidarian prey."
+    },
+    "zh": {
+      "summary": "锯齿叶鳃海牛（サガミミノウミウシ）。蓑海牛类（裸鳃类）海蛞蝓，背面排列众多细长突起（蓑），半透明具褐斑，取食软珊瑚。",
+      "habitat_hint": "珊瑚礁及富含软珊瑚的岩礁区，潮下带。",
+      "finding_tips": "于岩礁寻找背具众多细长蓑突的半透明海蛞蝓，取食刺胞动物。"
+    }
+  },
+  "Phyllodoce nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Mountain Heath",
+    "aliases": {
+      "zh-Hans": "日本高山石南"
+    },
+    "ja": {
+      "summary": "ツガザクラ。ツツジ科ツガザクラ属の常緑小低木。高山に生え、針葉樹の葉に似た細い葉と、淡紅色の壺形の花をつける。高山植物として知られる。",
+      "habitat_hint": "高山帯の岩場、砂礫地、雪田周辺。",
+      "finding_tips": "6〜8月、高山で針葉のような細い葉と淡紅色の壺形の花をつける小低木を探します。"
+    },
+    "en": {
+      "summary": "Japanese Mountain Heath. An evergreen dwarf shrub (Ericaceae) of high mountains, with needle-like leaves and pink urn-shaped flowers; a well-known alpine plant.",
+      "habitat_hint": "Alpine rocks, gravel and snow-patch margins.",
+      "finding_tips": "From June to August in the alpine zone look for a dwarf shrub with needle-like leaves and pink urn-shaped flowers."
+    },
+    "zh": {
+      "summary": "日本高山石南（ツガザクラ）。杜鹃花科高山常绿矮灌木，叶细如针叶，开淡红色壶形花，为著名高山植物。",
+      "habitat_hint": "高山带岩场、砂砾地及雪田周边。",
+      "finding_tips": "6至8月于高山寻找具针状细叶与淡红壶形花的矮灌木。"
+    }
+  },
+  "Physalis longifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "长叶酸浆"
+    },
+    "ja": {
+      "summary": "ウスゲホオズキ。ナス科ホオズキ属の多年草。北米原産の帰化植物で、淡黄色の花を咲かせ、果実は袋状に膨らんだ萼(ホオズキ)に包まれる。",
+      "habitat_hint": "道端、荒地、河川敷、畑地(帰化)。",
+      "finding_tips": "夏、淡黄色の花と、袋状に膨らんだ萼に包まれた果実を探します。ホオズキの仲間。"
+    },
+    "en": {
+      "summary": "Common Groundcherry. A perennial (Solanaceae) from North America, naturalised here; it bears pale yellow flowers and fruit enclosed in an inflated papery calyx (husk).",
+      "habitat_hint": "Roadsides, wasteland, riverbanks and fields (naturalised).",
+      "finding_tips": "In summer look for pale yellow flowers and berries wrapped in an inflated papery husk."
+    },
+    "zh": {
+      "summary": "长叶酸浆（ウスゲホオズキ）。茄科酸浆属多年生草本，原产北美的归化植物，花淡黄色，果实包于膨大的纸质宿萼（灯笼）中。",
+      "habitat_hint": "路旁、荒地、河滩及农田（归化）。",
+      "finding_tips": "夏季寻找淡黄色花与包于膨大纸质宿萼中的浆果。"
+    }
+  },
+  "Physarum roseum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rosy Slime Mould",
+    "aliases": {
+      "zh-Hans": "玫红绒泡菌"
+    },
+    "ja": {
+      "summary": "アカモジホコリ。モジホコリ科の変形菌(粘菌)。淡紅色〜赤みを帯びた小さな子実体を朽木や落ち葉の上に多数つくる。アメーバ状の変形体が集まって子実体になる。",
+      "habitat_hint": "朽木、落ち葉、樹皮の上の湿った環境。",
+      "finding_tips": "梅雨〜秋、朽木や落ち葉の上に群がる赤みを帯びた微小な子実体を探します。ルーペがあると見やすい。"
+    },
+    "en": {
+      "summary": "A slime mould (Physaraceae) forming clusters of small pinkish to reddish fruiting bodies on rotting wood and leaves; its amoeboid plasmodium gathers to form the fruit bodies.",
+      "habitat_hint": "Rotting wood, leaf litter and bark in damp conditions.",
+      "finding_tips": "Rainy season to autumn, look for clusters of tiny reddish fruiting bodies on rotten wood and leaves; a hand lens helps."
+    },
+    "zh": {
+      "summary": "玫红绒泡菌（アカモジホコリ）。绒泡菌科的黏菌，于朽木与落叶上形成成群的淡红至红色微小子实体，变形体聚集而成子实体。",
+      "habitat_hint": "朽木、落叶及树皮上的湿润环境。",
+      "finding_tips": "梅雨至秋于朽木落叶上寻找成群带红色的微小子实体，借放大镜更易观察。"
+    }
+  },
+  "Picipes badius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bay Polypore",
+    "aliases": {
+      "zh-Hans": "黑柄多孔菌"
+    },
+    "ja": {
+      "summary": "アシグロタケ。タマチョレイタケ科の多孔菌。栗褐色で漏斗状の傘をもち、柄の下部が黒いのが名の由来。枯木や倒木に発生し、木材を分解する。",
+      "habitat_hint": "広葉樹の枯木、倒木、朽ちた枝の上。",
+      "finding_tips": "梅雨〜秋、栗褐色の傘に黒い柄をもつ小型の多孔菌を枯木で探します。柄の下部の黒さが識別点。"
+    },
+    "en": {
+      "summary": "A polypore (Polyporaceae) with a chestnut-brown funnel-shaped cap and a stalk that is black below (hence its Japanese name); it grows on dead and fallen wood and decays it.",
+      "habitat_hint": "On dead and fallen broadleaf wood and rotting branches.",
+      "finding_tips": "Rainy season to autumn, on dead wood look for a small polypore with a chestnut cap and a black-based stalk."
+    },
+    "zh": {
+      "summary": "黑柄多孔菌（アシグロタケ）。多孔菌科真菌，菌盖栗褐色漏斗状，菌柄下部黑色（故名），生于枯木倒木并分解木材。",
+      "habitat_hint": "阔叶树枯木、倒木及朽枝上。",
+      "finding_tips": "梅雨至秋于枯木寻找栗褐盖、黑柄的小型多孔菌，柄下部黑色为辨识点。"
+    }
+  },
+  "Picris hieracioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hawkweed Oxtongue",
+    "aliases": {
+      "zh-Hans": "毛连菜"
+    },
+    "ja": {
+      "summary": "カンチコウゾリナ。キク科コウゾリナ属の多年草。黄色い舌状花からなる頭花をつけ、茎や葉に硬い剛毛がある。山地や高原の草地に生える。",
+      "habitat_hint": "山地・高原の草地、道端、明るい斜面。",
+      "finding_tips": "夏〜秋、黄色い頭花と、触るとざらつく剛毛のある茎葉を探します。コウゾリナの高地型。"
+    },
+    "en": {
+      "summary": "Hawkweed Oxtongue. A perennial (Asteraceae) with yellow ligulate flower heads and stiff bristles on the stem and leaves; it grows in montane and highland grassland.",
+      "habitat_hint": "Montane and highland grassland, roadsides and bright slopes.",
+      "finding_tips": "Summer to autumn, look for yellow flower heads and rough bristly stems and leaves; a highland form of oxtongue."
+    },
+    "zh": {
+      "summary": "毛连菜（カンチコウゾリナ）。菊科毛连菜属多年生草本，头状花序黄色舌状花，茎叶具硬刺毛，生于山地与高原草地。",
+      "habitat_hint": "山地、高原草地、路旁及明亮坡地。",
+      "finding_tips": "夏秋寻找黄色头花与触之粗糙的刺毛茎叶。"
+    }
+  },
+  "Pilophorus setulosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ant-mimic Plant Bug",
+    "aliases": {
+      "zh-Hans": "拟蚁盲蝽"
+    },
+    "ja": {
+      "summary": "ヒョウタンメクラガメ。カスミカメムシ科の小型のカメムシ。細くくびれた体でアリに擬態する。植物上でアブラムシなどの小昆虫を捕食する。",
+      "habitat_hint": "樹木、低木、草地の植物上。",
+      "finding_tips": "春〜秋、植物の上でアリのように歩く細身の小さなカメムシを探します。よく見ると翅がある。"
+    },
+    "en": {
+      "summary": "A small plant bug (Miridae) with a slender waisted body that mimics an ant; it preys on aphids and other small insects on plants.",
+      "habitat_hint": "On trees, shrubs and grassland plants.",
+      "finding_tips": "Spring to autumn, look for a slender ant-like small bug walking on plants; closer up it has wings."
+    },
+    "zh": {
+      "summary": "拟蚁盲蝽（ヒョウタンメクラガメ）。盲蝽科小型蝽，体细而束腰，拟态蚂蚁，于植物上捕食蚜虫等小昆虫。",
+      "habitat_hint": "树木、灌木及草地植物上。",
+      "finding_tips": "春至秋于植物上寻找如蚂蚁般行走的细身小蝽，细看具翅。"
+    }
+  },
+  "Pilumnus vespertilio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hairy Crab",
+    "aliases": {
+      "zh-Hans": "多毛毛刺蟹"
+    },
+    "ja": {
+      "summary": "ケブカガニ。ケブカガニ科の小型のカニ。全身が長い毛に密に覆われ、泥や砂をまとってカモフラージュする。岩の隙間やサンゴの間にすむ。",
+      "habitat_hint": "岩礁、サンゴ礁の隙間、潮間帯〜潮下帯。",
+      "finding_tips": "干潮時に岩を裏返し、全身が毛でおおわれた小さなカニを探します。毛に泥や藻をつけて隠れる。"
+    },
+    "en": {
+      "summary": "A small crab (Pilumnidae) densely covered in long hairs that trap mud and sand for camouflage; it lives in crevices among rocks and coral.",
+      "habitat_hint": "Crevices of rocky and coral reefs, intertidal to subtidal.",
+      "finding_tips": "At low tide turn rocks to find a small crab clothed in hairs; it hides by holding mud and algae in its fur."
+    },
+    "zh": {
+      "summary": "多毛毛刺蟹（ケブカガニ）。毛刺蟹科小型蟹，全身密被长毛并沾附泥砂以伪装，栖于岩礁与珊瑚缝隙。",
+      "habitat_hint": "岩礁、珊瑚礁缝隙，潮间带至潮下带。",
+      "finding_tips": "退潮时翻石寻找全身被毛的小蟹，以毛沾泥藻隐蔽。"
+    }
+  },
+  "Pinus koraiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Korean Pine",
+    "aliases": {
+      "zh-Hans": "红松"
+    },
+    "ja": {
+      "summary": "チョウセンマツ。マツ科マツ属の常緑高木。5本の針葉が束生する五葉松の仲間で、大きな球果をつけ、種子(松の実)は食用になる。朝鮮半島や中国東北部、日本にも植栽される。",
+      "habitat_hint": "山地の針葉樹林、植栽地、庭園。",
+      "finding_tips": "一年を通して、5本束の長い針葉と大きな球果をもつマツを探します。種子は食用の松の実。"
+    },
+    "en": {
+      "summary": "Korean Pine. An evergreen tree (Pinaceae), a five-needle pine bearing large cones whose seeds (pine nuts) are edible; native to Korea and NE China and planted in Japan.",
+      "habitat_hint": "Montane conifer forest, plantations and gardens.",
+      "finding_tips": "Year-round, look for a pine with long needles in bundles of five and large cones; the seeds are edible pine nuts."
+    },
+    "zh": {
+      "summary": "红松（チョウセンマツ）。松科松属常绿乔木，为五针一束的五叶松，球果大，种子（松子）可食，原产朝鲜半岛与中国东北，日本亦有栽培。",
+      "habitat_hint": "山地针叶林、栽培地及庭园。",
+      "finding_tips": "全年可寻找五针一束的长针叶与大型球果的松树，种子为可食松子。"
+    }
+  },
+  "Pinus rigida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pitch Pine",
+    "aliases": {
+      "zh-Hans": "刚松"
+    },
+    "ja": {
+      "summary": "リギダマツ。マツ科マツ属の常緑高木。北米原産で、3本束の硬い針葉をもち、幹から直接短い枝葉(不定芽)を出すのが特徴。砂防・緑化用に植栽された。",
+      "habitat_hint": "植栽地、砂地、造林地、公園。",
+      "finding_tips": "一年を通して、3本束の硬い針葉と、幹から直接出る小枝葉をもつマツを探します。"
+    },
+    "en": {
+      "summary": "Pitch Pine. An evergreen tree (Pinaceae) from North America with stiff needles in bundles of three; it characteristically sprouts short leafy shoots directly from the trunk. Planted for erosion control and greening.",
+      "habitat_hint": "Plantations, sandy ground, forestry land and parks.",
+      "finding_tips": "Year-round, look for a pine with stiff needles in threes and small leafy shoots growing directly from the trunk."
+    },
+    "zh": {
+      "summary": "刚松（リギダマツ）。松科松属常绿乔木，原产北美，针叶三针一束而硬，树干可直接萌生短枝叶（不定芽）为其特征，多作固砂绿化栽培。",
+      "habitat_hint": "栽培地、砂地、造林地及公园。",
+      "finding_tips": "全年可寻找三针一束的硬针叶、树干直接萌枝叶的松树。"
+    }
+  },
+  "Plagiochila parvifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small-leaved Featherwort",
+    "aliases": {
+      "zh-Hans": "小叶羽苔"
+    },
+    "ja": {
+      "summary": "ヨコグラハネゴケ。ハネゴケ科の葉状苔類(タイ類)。茎の両側に小さな葉を羽状に密につける。湿った樹幹や岩上、林床に緑色の群落をつくる。",
+      "habitat_hint": "湿った樹幹、岩上、沢沿いの林床。",
+      "finding_tips": "一年を通して、茎の両側に小さな葉を羽状に密生する緑色の苔類を湿った場所で探します。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Plagiochilaceae) with small leaves densely set feather-like along both sides of the stem, forming green colonies on damp trunks, rocks and forest floor.",
+      "habitat_hint": "Moist trunks, rocks and streamside forest floor.",
+      "finding_tips": "Year-round, in damp places look for a green liverwort with small leaves set feather-like on both sides of the stem."
+    },
+    "zh": {
+      "summary": "小叶羽苔（ヨコグラハネゴケ）。羽苔科叶状苔类，茎两侧密生小叶呈羽状，于湿润树干、岩面及林床形成绿色苔丛。",
+      "habitat_hint": "湿润树干、岩面及沟旁林床。",
+      "finding_tips": "全年可于湿处寻找茎两侧羽状密生小叶的绿色苔类。"
+    }
+  },
+  "Plagiogyria sessilifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sessile-leaved Fern",
+    "aliases": {
+      "zh-Hans": "无柄瘤足蕨"
+    },
+    "ja": {
+      "summary": "フタツキジノオ。キジノオシダ科の常緑シダ。栄養葉と胞子葉が分かれ、胞子葉は細く直立する。山地の湿った林床に生える。羽片の基部が茎に無柄でつくのが名の由来。",
+      "habitat_hint": "山地の湿った常緑樹林の林床、沢沿い。",
+      "finding_tips": "一年を通して、栄養葉と細い胞子葉が分かれる常緑シダを湿った林床で探します。"
+    },
+    "en": {
+      "summary": "An evergreen fern (Plagiogyriaceae) with separate sterile and fertile fronds, the fertile ones narrow and erect; it grows on moist montane forest floor. The pinnae attach without stalks, hence its Japanese name.",
+      "habitat_hint": "Moist evergreen montane forest floor and streamsides.",
+      "finding_tips": "Year-round, on damp forest floor look for an evergreen fern with distinct sterile and narrow fertile fronds."
+    },
+    "zh": {
+      "summary": "无柄瘤足蕨（フタツキジノオ）。瘤足蕨科常绿蕨，营养叶与孢子叶分化，孢子叶细而直立，生于山地湿润林床，羽片无柄着生（故名）。",
+      "habitat_hint": "山地湿润常绿林床及沟旁。",
+      "finding_tips": "全年可于湿润林床寻找营养叶与细孢子叶分化的常绿蕨。"
+    }
+  },
+  "Plagiothecium cavifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hollow-leaved Silk Moss",
+    "aliases": {
+      "zh-Hans": "凹叶棉藓"
+    },
+    "ja": {
+      "summary": "マルフサゴケ。サナダゴケ科の蘚類。扁平な茎に丸みを帯びたくぼんだ葉を2列につけ、光沢のある緑色の群落をつくる。湿った土上や腐木、岩上に生える。",
+      "habitat_hint": "湿った林床の土上、腐木、岩上。",
+      "finding_tips": "一年を通して、扁平で光沢のある緑色のコケの群落を湿った林床で探します。葉がくぼむのが特徴。"
+    },
+    "en": {
+      "summary": "A moss (Plagiotheciaceae) with a flattened stem bearing rounded concave leaves in two ranks, forming glossy green mats; it grows on damp soil, rotten wood and rocks.",
+      "habitat_hint": "Damp forest-floor soil, rotten wood and rocks.",
+      "finding_tips": "Year-round, on damp forest floor look for flattened glossy green moss mats; the concave leaves are characteristic."
+    },
+    "zh": {
+      "summary": "凹叶棉藓（マルフサゴケ）。棉藓科藓类，茎扁平，圆钝而凹的叶片二列排列，形成有光泽的绿色藓垫，生于湿土、朽木与岩石。",
+      "habitat_hint": "湿润林床土面、朽木及岩面。",
+      "finding_tips": "全年可于湿润林床寻找扁平有光泽的绿色藓垫，叶片凹陷为其特征。"
+    }
+  },
+  "Plakobranchus ocellatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ocellated Sap-sucking Slug",
+    "aliases": {
+      "zh-Hans": "眼斑背叶海牛"
+    },
+    "ja": {
+      "summary": "チドリミドリガイ。チドリミドリガイ科の嚢舌類のウミウシ。背面に多数の眼状斑があり、食べた藻類の葉緑体を体内に取り込んで光合成する(盗葉緑体)。砂地の海藻の間にすむ。",
+      "habitat_hint": "浅い砂底、海藻の多い岩礁、潮下帯。",
+      "finding_tips": "浅い砂地で、背面に多数の眼状斑をもつ扁平なウミウシを探します。藻の葉緑体で光合成する。"
+    },
+    "en": {
+      "summary": "A sacoglossan sea slug (Plakobranchidae) with many eye-like spots on the back; it retains chloroplasts from the algae it eats and photosynthesises (kleptoplasty). It lives among seaweed on sand.",
+      "habitat_hint": "Shallow sandy bottoms and seaweed-rich reefs, subtidal.",
+      "finding_tips": "On shallow sand look for a flat sea slug with many eye-spots on the back; it photosynthesises using algal chloroplasts."
+    },
+    "zh": {
+      "summary": "眼斑背叶海牛（チドリミドリガイ）。囊舌类海蛞蝓，背面具众多眼状斑，能保留所食藻类叶绿体进行光合作用（盗质体），栖于砂地海藻间。",
+      "habitat_hint": "浅砂底及富藻岩礁，潮下带。",
+      "finding_tips": "于浅砂地寻找背具众多眼状斑的扁平海蛞蝓，借藻叶绿体行光合。"
+    }
   }
 }
