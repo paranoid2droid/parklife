@@ -261582,5 +261582,555 @@
       "habitat_hint": "低山至山地阔叶林及林缘。",
       "finding_tips": "春至初夏于灯下寻找淡黄底具两横线的蛾。"
     }
+  },
+  "Paradarisa consonaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Streaked Geometer",
+    "aliases": {
+      "zh-Hans": "华波纹尺蛾"
+    },
+    "ja": {
+      "summary": "シナトビスジエダシャク。シャクガ科エダシャク亜科のガ。灰褐色の翅に細かい波状の筋が走る。幼虫は尺取り虫で各種の広葉樹の葉を食べる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "春〜夏、灯火に来る灰褐色で波状の筋のあるガを探します。翅を平らに開いてとまる。"
+    },
+    "en": {
+      "summary": "A geometer moth (Geometridae, Ennominae) with greyish-brown wings marked by fine wavy streaks; the looper larva feeds on various broadleaf trees.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "Spring to summer, look at lights for a greyish-brown moth with fine wavy streaks, resting with wings spread flat."
+    },
+    "zh": {
+      "summary": "华波纹尺蛾（シナトビスジエダシャク）。尺蛾科的蛾，翅灰褐具细波状纹，幼虫为尺蠖，取食多种阔叶树叶片。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "春至夏于灯下寻找灰褐具波状纹的蛾，栖时双翅平展。"
+    }
+  },
+  "Paragus haemorrhous": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Black-backed Grass Fly",
+    "aliases": {
+      "zh-Hans": "小食蚜蝇"
+    },
+    "ja": {
+      "summary": "キアシマメヒラタアブ。ハナアブ科の微小なアブ。黒っぽい細い体に黄色い脚をもち、花を訪れる。幼虫はアブラムシを捕食する益虫。",
+      "habitat_hint": "草地、林縁、畑、公園の花壇。",
+      "finding_tips": "春〜秋、低い花の上でホバリングする小さな黒っぽいハナアブを探します。幼虫はアブラムシを食べる。"
+    },
+    "en": {
+      "summary": "A minute hoverfly (Syrphidae) with a slender dark body and yellow legs, visiting flowers; its larva is a beneficial aphid predator.",
+      "habitat_hint": "Grassland, forest edges, fields and park flower beds.",
+      "finding_tips": "Spring to autumn, look for tiny dark hoverflies hovering over low flowers; the larva eats aphids."
+    },
+    "zh": {
+      "summary": "小食蚜蝇（キアシマメヒラタアブ）。食蚜蝇科的微小蝇，体细暗色、足黄色，访花，幼虫捕食蚜虫为益虫。",
+      "habitat_hint": "草地、林缘、农田及公园花坛。",
+      "finding_tips": "春至秋于低矮花上寻找悬停的暗色小食蚜蝇，幼虫食蚜。"
+    }
+  },
+  "Paraleptuca crassipes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-jointed Fiddler Crab",
+    "aliases": {
+      "zh-Hans": "粗腿绿眼招潮蟹"
+    },
+    "ja": {
+      "summary": "ベニシオマネキ。スナガニ科のシオマネキ類のカニ。オスは片方のハサミが大きく、赤や紫を帯びた鮮やかな甲をもつ。干潟で大きなハサミを振る求愛行動が見られる。",
+      "habitat_hint": "河口・干潟の泥地、マングローブ周辺(暖地)。",
+      "finding_tips": "干潮時の干潟で、オスの大きく色鮮やかなハサミを探します。ハサミを振る「シオマネキ」行動が目印。"
+    },
+    "en": {
+      "summary": "Red-jointed Fiddler Crab. A fiddler crab (Ocypodidae); the male has one greatly enlarged claw and a vivid reddish-purple carapace. Males wave the big claw in courtship on the mudflat.",
+      "habitat_hint": "Estuarine and tidal-flat mud, near mangroves in warm regions.",
+      "finding_tips": "At low tide on mudflats, look for the male's large colourful claw; the claw-waving 'beckoning' display is the giveaway."
+    },
+    "zh": {
+      "summary": "粗腿绿眼招潮蟹（ベニシオマネキ）。沙蟹科招潮蟹类，雄蟹一螯特大，头胸甲带鲜艳红紫色，于滩涂挥舞大螯求偶。",
+      "habitat_hint": "河口与滩涂泥地、暖地红树林周边。",
+      "finding_tips": "退潮时于滩涂寻找雄蟹的大而艳的螯，挥螯“招潮”行为为其标志。"
+    }
+  },
+  "Parapercis cylindrica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cylindrical Sandperch",
+    "aliases": {
+      "zh-Hans": "圆虹鱚"
+    },
+    "ja": {
+      "summary": "ダンダラトラギス。トラギス科の小型の海水魚。細長い円筒形の体に暗色の横帯が並ぶ。砂底や礫底に腹をつけて休み、近づく小動物を捕食する。",
+      "habitat_hint": "サンゴ礁周辺の砂底、礫底、潮下帯の浅所。",
+      "finding_tips": "砂底や礫底に腹をつけて静止する、横帯のある細長い小魚を探します。近づくと素早く移動する。"
+    },
+    "en": {
+      "summary": "Cylindrical Sandperch. A small marine fish (Pinguipedidae) with an elongate cylindrical body barred with dark bands; it rests on sand or gravel and darts at passing prey.",
+      "habitat_hint": "Sand and gravel bottoms near coral reefs, shallow subtidal.",
+      "finding_tips": "Look for a slender barred fish resting belly-down on sand or gravel; it darts away when approached."
+    },
+    "zh": {
+      "summary": "圆虹鱚（ダンダラトラギス）。虹鱚科小型海鱼，体细长圆筒形，具暗色横带，伏于砂砾底捕食经过的小动物。",
+      "habitat_hint": "珊瑚礁周边砂底、砾底及浅潮下带。",
+      "finding_tips": "寻找伏于砂砾底、具横带的细长小鱼，靠近时迅速移动。"
+    }
+  },
+  "Parasesarma plicatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ridged Sesarmid Crab",
+    "aliases": {
+      "zh-Hans": "褶痕相手蟹"
+    },
+    "ja": {
+      "summary": "クシテガニ。イワガニ科(モクズガニ類)のカニ。四角い甲をもち、ハサミの上面に櫛状の隆起列があるのが名の由来。河口や干潟の石の下にすむ。",
+      "habitat_hint": "河口・干潟の転石下、マングローブ周辺(暖地)。",
+      "finding_tips": "干潮時に石を裏返し、四角い甲でハサミに櫛状の隆起をもつカニを探します。"
+    },
+    "en": {
+      "summary": "A sesarmid crab (Sesarmidae) with a squarish carapace; the comb-like ridges on the upper surface of the claw give it its Japanese name. It lives under stones on estuaries and mudflats.",
+      "habitat_hint": "Under stones on estuaries and mudflats, near mangroves in warm regions.",
+      "finding_tips": "At low tide turn stones for a square-shelled crab with comb-like ridges on the claws."
+    },
+    "zh": {
+      "summary": "褶痕相手蟹（クシテガニ）。相手蟹科的蟹，头胸甲近方形，螯足上面具梳状隆起列（故名），栖于河口滩涂石下。",
+      "habitat_hint": "河口滩涂转石下、暖地红树林周边。",
+      "finding_tips": "退潮时翻石寻找方甲、螯上具梳状隆起的蟹。"
+    }
+  },
+  "Pardachirus pavoninus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peacock Sole",
+    "aliases": {
+      "zh-Hans": "孔鳎"
+    },
+    "ja": {
+      "summary": "ミナミウシノシタ。ウシノシタ科の平たい底生魚。体は褐色地に白い斑点が散る。背びれと尻びれの基部から出す粘液に毒があり、サメ避け効果も報告される。素手で触らないこと。",
+      "habitat_hint": "砂底、砂泥底の浅い海、河口周辺。",
+      "finding_tips": "砂底に埋もれる褐色地に白斑の平たい魚を探します。ひれの粘液に毒があるので注意。"
+    },
+    "en": {
+      "summary": "Peacock Sole. A flat bottom-dwelling fish (Soleidae), brown with white spots; the mucus secreted at the base of its dorsal and anal fins is toxic (and reported to repel sharks). Do not handle bare-handed.",
+      "habitat_hint": "Shallow sand and sandy-mud bottoms and estuaries.",
+      "finding_tips": "Look for a flat brown fish with white spots buried in sand; beware the toxic fin mucus."
+    },
+    "zh": {
+      "summary": "孔鳎（ミナミウシノシタ）。鳎科的扁平底栖鱼，体褐色散布白斑，背鳍与臀鳍基部分泌的黏液有毒（并有驱鲨报道），勿徒手触碰。",
+      "habitat_hint": "浅海砂底、砂泥底及河口周边。",
+      "finding_tips": "寻找埋于砂中、褐底白斑的扁平鱼，鳍部黏液有毒需注意。"
+    }
+  },
+  "Parietaria pensylvanica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pennsylvania Pellitory",
+    "aliases": {
+      "zh-Hans": "宾州墙草"
+    },
+    "ja": {
+      "summary": "オオヒカゲミズ。イラクサ科ヒカゲミズ属の一年草。北米原産の帰化植物で、葉腋に目立たない小さな花をつける。日陰の道端や石垣に生える。",
+      "habitat_hint": "日陰の道端、石垣、庭、荒地(帰化)。",
+      "finding_tips": "初夏〜秋、葉腋に地味な小花をつける柔らかい草を日陰で探します。ヒカゲミズより大型。"
+    },
+    "en": {
+      "summary": "Pennsylvania Pellitory. An annual (Urticaceae) native to North America and naturalised here, with inconspicuous small flowers in the leaf axils; it grows on shady roadsides and walls.",
+      "habitat_hint": "Shady roadsides, stone walls, gardens and wasteland (naturalised).",
+      "finding_tips": "From early summer to autumn, in shade look for a soft herb with tiny axillary flowers; larger than the native pellitory."
+    },
+    "zh": {
+      "summary": "宾州墙草（オオヒカゲミズ）。荨麻科墙草属一年生草本，原产北美的归化植物，叶腋生不显眼的小花，生于阴处路旁与石墙。",
+      "habitat_hint": "阴处路旁、石墙、庭园及荒地（归化）。",
+      "finding_tips": "初夏至秋于阴处寻找叶腋生小花的柔软草本，较本地墙草大型。"
+    }
+  },
+  "Parioglossus philippinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Philippine Dartfish",
+    "aliases": {
+      "zh-Hans": "菲律宾似瞳鰕虎"
+    },
+    "ja": {
+      "summary": "ベニツケサツキハゼ。クロユリハゼ科の微小な魚。体は半透明で尾の付け根に赤い斑があり、河口や汽水域の表層を群れで泳ぐ。",
+      "habitat_hint": "河口、汽水域、マングローブ周辺の表層。",
+      "finding_tips": "河口や汽水の水面近くで、尾の付け根に赤斑のある半透明の小魚の群れを探します。"
+    },
+    "en": {
+      "summary": "A tiny fish (Ptereleotridae) with a translucent body and a red spot at the tail base, swimming in schools near the surface of estuaries and brackish water.",
+      "habitat_hint": "Surface of estuaries, brackish water and mangrove margins.",
+      "finding_tips": "Near the surface of estuaries and brackish water, look for schools of translucent small fish with a red spot at the tail base."
+    },
+    "zh": {
+      "summary": "菲律宾似瞳鰕虎（ベニツケサツキハゼ）。凤鳍鰕虎科的微小鱼，体半透明，尾基具红斑，成群游于河口与半咸水表层。",
+      "habitat_hint": "河口、半咸水及红树林周边表层。",
+      "finding_tips": "于河口半咸水近水面寻找尾基具红斑的半透明小鱼群。"
+    }
+  },
+  "Parmelina entotheiochroa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crumbling Shield Lichen",
+    "aliases": {
+      "zh-Hans": "碎裂梅衣"
+    },
+    "ja": {
+      "summary": "クズレウチキウメノキゴケ。ウメノキゴケ科の葉状地衣。灰緑色で樹皮に着生し、裂片の表面に粉芽ができて崩れやすいのが名の由来。",
+      "habitat_hint": "山地の樹幹、枝上、明るい林縁。",
+      "finding_tips": "一年を通して、樹皮に着く灰緑色の葉状地衣を探します。表面の粉状の粉芽と崩れやすさが識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Parmeliaceae), grey-green, growing on bark; powdery soredia form on the lobe surface, making it crumble easily — hence its Japanese name.",
+      "habitat_hint": "Trunks, branches and bright forest edges in the hills.",
+      "finding_tips": "Year-round, look on bark for a grey-green leafy lichen; the powdery soredia and crumbling surface are diagnostic."
+    },
+    "zh": {
+      "summary": "碎裂梅衣（クズレウチキウメノキゴケ）。梅衣科叶状地衣，灰绿色附生于树皮，裂片表面生粉芽而易碎裂（故名）。",
+      "habitat_hint": "山地树干、枝条及明亮林缘。",
+      "finding_tips": "全年可于树皮上寻找灰绿色叶状地衣，表面粉芽与易碎为辨识点。"
+    }
+  },
+  "Paspalum orbiculare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Round-seed Paspalum",
+    "aliases": {
+      "zh-Hans": "圆果雀稗"
+    },
+    "ja": {
+      "summary": "スズメノコビエ。イネ科スズメノヒエ属の多年草。細い茎の先に数本の穂を指状につけ、円い小穂が2列に並ぶ。日当たりのよい草地や道端に生える。",
+      "habitat_hint": "日当たりのよい草地、道端、畦、荒地。",
+      "finding_tips": "夏〜秋、細い茎の先に指状に開く数本の穂を探します。円い小穂が2列に並ぶのが特徴。"
+    },
+    "en": {
+      "summary": "A perennial grass (Poaceae) bearing several finger-like spikes at the stem tip, with rounded spikelets in two rows; it grows in sunny grassland and roadsides.",
+      "habitat_hint": "Sunny grassland, roadsides, field margins and wasteland.",
+      "finding_tips": "Summer to autumn, look for several finger-like spikes at the stem tip; the rounded spikelets in two rows are diagnostic."
+    },
+    "zh": {
+      "summary": "圆果雀稗（スズメノコビエ）。禾本科雀稗属多年生草本，茎顶生数枚指状穗，圆形小穗二列排列，生于向阳草地与路旁。",
+      "habitat_hint": "向阳草地、路旁、田埂及荒地。",
+      "finding_tips": "夏秋寻找茎顶指状开展的数枚穗，圆形小穗二列为其特征。"
+    }
+  },
+  "Paspalum sumatrense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sumatra Paspalum",
+    "aliases": {
+      "zh-Hans": "长叶雀稗"
+    },
+    "ja": {
+      "summary": "ナガバスズメノヒエ。イネ科スズメノヒエ属の多年草。細長い葉をもち、茎の先に数本の穂を総状につける。暖地の草地や道端に生える。",
+      "habitat_hint": "暖地の草地、道端、荒地、河川敷。",
+      "finding_tips": "夏〜秋、細長い葉と、茎先に総状につく数本の穂を探します。スズメノヒエ類の識別は小穂の毛の有無に注目。"
+    },
+    "en": {
+      "summary": "A perennial grass (Poaceae) with elongate leaves and several racemose spikes at the stem tip; it grows in warm-region grassland and roadsides.",
+      "habitat_hint": "Grassland, roadsides, wasteland and riverbanks in warm regions.",
+      "finding_tips": "Summer to autumn, look for elongate leaves and several racemose spikes; note spikelet hairs to separate paspalum species."
+    },
+    "zh": {
+      "summary": "长叶雀稗（ナガバスズメノヒエ）。禾本科雀稗属多年生草本，叶细长，茎顶生数枚总状穗，生于暖地草地与路旁。",
+      "habitat_hint": "暖地草地、路旁、荒地及河滩。",
+      "finding_tips": "夏秋寻找细长叶与茎顶数枚总状穗，雀稗类区分留意小穗毛被。"
+    }
+  },
+  "Paspalum vaginatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Seashore Paspalum",
+    "aliases": {
+      "zh-Hans": "海雀稗"
+    },
+    "ja": {
+      "summary": "サワスズメノヒエ。イネ科スズメノヒエ属の多年草。塩分に強く、海岸や河口の湿地に生える。ふつう2本の穂を対に開き、地表を這う茎で広がる。",
+      "habitat_hint": "海岸の湿地、河口、塩性の草地。",
+      "finding_tips": "夏〜秋、海岸近くの湿地で、対に開く2本の穂を探します。塩分に強く這って広がるのが特徴。"
+    },
+    "en": {
+      "summary": "Seashore Paspalum. A salt-tolerant perennial grass (Poaceae) of coastal and estuarine wetland, usually bearing a pair of spikes and spreading by creeping stems.",
+      "habitat_hint": "Coastal wetlands, estuaries and saline grassland.",
+      "finding_tips": "Summer to autumn, in coastal wetland look for a paired spikes; salt-tolerant and spreading by runners is characteristic."
+    },
+    "zh": {
+      "summary": "海雀稗（サワスズメノヒエ）。禾本科雀稗属多年生草本，耐盐，生于海岸与河口湿地，常成对开二穗，以匍匐茎蔓延。",
+      "habitat_hint": "海岸湿地、河口及盐性草地。",
+      "finding_tips": "夏秋于海岸湿地寻找成对的二穗，耐盐匍匐蔓延为其特征。"
+    }
+  },
+  "Penitella gabbii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gabb's Piddock",
+    "aliases": {
+      "zh-Hans": "加氏海笋"
+    },
+    "ja": {
+      "summary": "カモメガイ。ニオガイ科の二枚貝。殻の前部にやすり状の彫刻があり、これで泥岩や軟岩に穴を掘って暮らす穿孔性の貝。殻は白色で細長い。",
+      "habitat_hint": "海岸の泥岩・軟岩の岩盤、潮間帯〜潮下帯。",
+      "finding_tips": "海岸の泥岩に開いた穴の中を探します。殻前部のやすり状彫刻で岩に穿孔するのが特徴。"
+    },
+    "en": {
+      "summary": "A boring bivalve (Pholadidae) whose file-like sculpture on the front of the white elongate shell lets it bore into mudstone and soft rock, where it lives.",
+      "habitat_hint": "Mudstone and soft-rock shelves on the shore, intertidal to subtidal.",
+      "finding_tips": "Look inside holes bored into coastal mudstone; the file-like front sculpture that drills the rock is characteristic."
+    },
+    "zh": {
+      "summary": "加氏海笋（カモメガイ）。海笋科双壳类，壳白细长，前部具锉状雕刻，借此钻入泥岩与软岩穴居。",
+      "habitat_hint": "海岸泥岩、软岩岩盘，潮间带至潮下带。",
+      "finding_tips": "于海岸泥岩钻孔内寻找，壳前部锉状雕刻钻岩为其特征。"
+    }
+  },
+  "Pennithera abolla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dusky-banded Carpet Moth",
+    "aliases": {
+      "zh-Hans": "暗带波尺蛾"
+    },
+    "ja": {
+      "summary": "ウスクロオビナミシャク。シャクガ科ナミシャク亜科のガ。緑色を帯びた翅に暗色の帯があり、幼虫は針葉樹(マツ類)の葉を食べる。",
+      "habitat_hint": "マツ類のある山地林、林縁。",
+      "finding_tips": "秋、灯火に来る緑色地に暗色帯のあるナミシャクを探します。針葉樹林で見られる。"
+    },
+    "en": {
+      "summary": "A carpet moth (Geometridae, Larentiinae) with greenish wings crossed by a dusky band; the larva feeds on conifer (pine) needles.",
+      "habitat_hint": "Montane forest and edges with pines.",
+      "finding_tips": "In autumn, look at lights for a greenish carpet moth with a dusky band; found in conifer forest."
+    },
+    "zh": {
+      "summary": "暗带波尺蛾（ウスクロオビナミシャク）。尺蛾科的蛾，翅带绿色而具暗色横带，幼虫取食松类针叶。",
+      "habitat_hint": "有松类的山地林及林缘。",
+      "finding_tips": "秋季于灯下寻找绿底具暗带的波尺蛾，见于针叶林。"
+    }
+  },
+  "Pentas lanceolata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Egyptian Star Cluster",
+    "aliases": {
+      "zh-Hans": "五星花"
+    },
+    "ja": {
+      "summary": "ペンタス。アカネ科ペンタス属の低木状の草本。熱帯アフリカ原産で、星形の5弁花が半球状に密集して咲く。花壇や鉢花として広く栽培される。チョウがよく訪れる。",
+      "habitat_hint": "花壇、鉢植え、公園の植栽(栽培)。",
+      "finding_tips": "初夏〜秋、赤・桃・白などの星形の小花が半球状に集まる花序を探します。チョウが集まる。"
+    },
+    "en": {
+      "summary": "Egyptian Star Cluster. A shrubby herb (Rubiaceae) from tropical Africa, bearing hemispherical clusters of star-shaped five-petalled flowers; widely grown in beds and pots and much visited by butterflies.",
+      "habitat_hint": "Flower beds, pots and park plantings (cultivated).",
+      "finding_tips": "Early summer to autumn, look for domed clusters of red, pink or white star-shaped flowers; butterflies gather on them."
+    },
+    "zh": {
+      "summary": "五星花（ペンタス）。茜草科五星花属灌木状草本，原产热带非洲，星形五瓣花密聚成半球状花序，广泛栽培于花坛与盆栽，常引蝴蝶。",
+      "habitat_hint": "花坛、盆栽及公园植栽（栽培）。",
+      "finding_tips": "初夏至秋寻找红、粉、白等星形小花聚成半球的花序，常有蝴蝶聚集。"
+    }
+  },
+  "Perenniporia afrominuta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small Perenniporia Bracket",
+    "aliases": {
+      "zh-Hans": "小多年卧孔菌"
+    },
+    "ja": {
+      "summary": "サワフタギタケ。タマチョレイタケ科の硬い多孔菌。枯木や倒木に半円形〜背着状の子実体をつくり、下面に微細な管孔がある。木材を分解する。",
+      "habitat_hint": "広葉樹の枯木、倒木、朽木の上。",
+      "finding_tips": "一年を通して、枯木に張り付く硬い多孔菌を探します。下面の微細な孔が識別点。"
+    },
+    "en": {
+      "summary": "A hard polypore (Polyporaceae) forming semicircular to resupinate brackets on dead and fallen wood, with tiny pores beneath; a wood-decay fungus.",
+      "habitat_hint": "On dead and fallen broadleaf wood.",
+      "finding_tips": "Year-round, look for a hard bracket adhering to dead wood; the minute pores underneath are diagnostic."
+    },
+    "zh": {
+      "summary": "小多年卧孔菌（サワフタギタケ）。多孔菌科的硬质多孔菌，于枯木倒木上形成半圆至平伏子实体，下面具微细管孔，分解木材。",
+      "habitat_hint": "阔叶树枯木、倒木及朽木上。",
+      "finding_tips": "全年可于枯木上寻找贴附的硬质多孔菌，下面微孔为辨识点。"
+    }
+  },
+  "Perinereis mictodonta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock Ragworm",
+    "aliases": {
+      "zh-Hans": "岩虫沙蚕"
+    },
+    "ja": {
+      "summary": "イシイソゴカイ。ゴカイ科の多毛類(環形動物)。体は細長く多数の体節に分かれ、各節に側脚(いぼ足)がある。岩礁や礫の間にすみ、釣り餌にも使われる。",
+      "habitat_hint": "岩礁海岸、礫底、潮間帯の石の間。",
+      "finding_tips": "干潮時に岩や礫の間を掘り、細長く多数の側脚をもつ多毛類を探します。"
+    },
+    "en": {
+      "summary": "A ragworm (Nereididae), a segmented polychaete with a long body and paired parapodia on each segment; it lives among rocks and gravel and is used as fishing bait.",
+      "habitat_hint": "Rocky shores, gravel bottoms and among intertidal stones.",
+      "finding_tips": "At low tide dig among rocks and gravel for an elongate worm with many paired parapodia."
+    },
+    "zh": {
+      "summary": "岩虫沙蚕（イシイソゴカイ）。沙蚕科多毛类环节动物，体细长多节，每节具疣足，栖于岩礁与砾石间，可作钓饵。",
+      "habitat_hint": "岩岸、砾底及潮间带石缝。",
+      "finding_tips": "退潮时于岩砾间翻掘，寻找细长具多数疣足的多毛类。"
+    }
+  },
+  "Perinereis nuntia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "King Ragworm",
+    "aliases": {
+      "zh-Hans": "多齿沙蚕"
+    },
+    "ja": {
+      "summary": "イソゴカイ。ゴカイ科の多毛類。細長い体に多数の側脚をもち、砂泥や礫の間に潜って暮らす。「アオイソメ」などとして釣り餌に広く利用される。",
+      "habitat_hint": "干潟、砂泥底、岩礁の礫の間、潮間帯。",
+      "finding_tips": "干潮時に砂泥や礫を掘り、細長い多毛類を探します。釣り餌としてなじみ深い。"
+    },
+    "en": {
+      "summary": "King Ragworm. A polychaete (Nereididae) with an elongate body and many parapodia, burrowing in sandy mud and gravel; widely used as fishing bait.",
+      "habitat_hint": "Tidal flats, sandy-mud bottoms and among reef gravel, intertidal.",
+      "finding_tips": "At low tide dig sandy mud and gravel for an elongate worm; a familiar fishing bait."
+    },
+    "zh": {
+      "summary": "多齿沙蚕（イソゴカイ）。沙蚕科多毛类，体细长具多数疣足，潜居砂泥与砾石间，广泛用作钓饵。",
+      "habitat_hint": "滩涂、砂泥底及礁区砾石间，潮间带。",
+      "finding_tips": "退潮时翻掘砂泥与砾石寻找细长多毛类，为常见钓饵。"
+    }
+  },
+  "Petricola lapicida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock-boring Petricola",
+    "aliases": {
+      "zh-Hans": "凿石蛤"
+    },
+    "ja": {
+      "summary": "イワホリガイ。イワホリガイ科の二枚貝。殻は白く細長い卵形で、軟らかい石灰岩やサンゴ石に穴を掘って穿孔生活する。殻表に放射状の彫刻がある。",
+      "habitat_hint": "海岸の軟岩・石灰岩、サンゴ石の中、潮間帯〜潮下帯。",
+      "finding_tips": "海岸の軟岩に開いた穴の中に白い細長い貝を探します。放射状の殻の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A rock-boring bivalve (Petricolidae) with a white, elongate-oval shell; it bores into soft limestone and coral rock, where it lives. The shell bears radial sculpture.",
+      "habitat_hint": "Soft rock, limestone and coral rock on the shore, intertidal to subtidal.",
+      "finding_tips": "Look for a white elongate shell inside holes bored into coastal soft rock; the radial sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "凿石蛤（イワホリガイ）。凿石蛤科双壳类，壳白细长卵形，钻入软石灰岩与珊瑚石穴居，壳面具放射状雕刻。",
+      "habitat_hint": "海岸软岩、石灰岩、珊瑚石内，潮间带至潮下带。",
+      "finding_tips": "于海岸软岩钻孔内寻找白色细长贝，放射状壳雕为辨识点。"
+    }
+  },
+  "Pettancylus nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Freshwater Limpet",
+    "aliases": {
+      "zh-Hans": "日本淡水笠螺"
+    },
+    "ja": {
+      "summary": "カワコザラ。カワコザラガイ科の微小な淡水貝。殻は笠形で半透明、水草や石の表面に付着する。殻長数mmと非常に小さい。",
+      "habitat_hint": "池、水路、川の緩流、水草や石の表面。",
+      "finding_tips": "水草や石の表面を丹念に探し、数mmの笠形の半透明な貝を探します。とても小さい。"
+    },
+    "en": {
+      "summary": "A minute freshwater limpet (Planorbidae, Ancylinae) with a translucent cap-shaped shell, clinging to water plants and stones; only a few millimetres long.",
+      "habitat_hint": "Ponds, ditches, slow river currents, on water plants and stones.",
+      "finding_tips": "Search water-plant and stone surfaces carefully for a few-millimetre translucent cap-shaped shell; very small."
+    },
+    "zh": {
+      "summary": "日本淡水笠螺（カワコザラ）。扁蜷科的微小淡水贝，壳笠形半透明，附着于水草与石面，壳长仅数毫米。",
+      "habitat_hint": "池塘、水沟、河流缓流，水草与石面。",
+      "finding_tips": "细查水草与石面，寻找数毫米的笠形半透明贝，极为微小。"
+    }
+  },
+  "Phaeolus schweinitzii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dyer's Polypore",
+    "aliases": {
+      "zh-Hans": "染色多孔菌"
+    },
+    "ja": {
+      "summary": "カイメンタケ。タマチョレイタケ科の多孔菌。針葉樹の根株や幹の根元に発生し、黄褐色でスポンジ状の柔らかい子実体をつくる。材の褐色腐朽を起こす。染色にも利用される。",
+      "habitat_hint": "マツ・スギなど針葉樹の根株、幹の根元、地上。",
+      "finding_tips": "夏〜秋、針葉樹の根元に生える黄褐色でスポンジ状の柔らかいキノコを探します。古くなると褐色で硬くなる。"
+    },
+    "en": {
+      "summary": "Dyer's Polypore. A polypore (Fomitopsidaceae) fruiting at the base of conifer trunks and stumps, forming a soft yellow-brown spongy body; it causes brown rot and is used for dyeing.",
+      "habitat_hint": "On conifer (pine, cedar) stumps, trunk bases and the ground.",
+      "finding_tips": "Summer to autumn, look at conifer bases for a soft yellow-brown spongy mushroom; it turns brown and hard with age."
+    },
+    "zh": {
+      "summary": "染色多孔菌（カイメンタケ）。拟层孔菌科多孔菌，发生于针叶树根株与树基，子实体黄褐色海绵状柔软，引起木材褐腐，可用于染色。",
+      "habitat_hint": "松、杉等针叶树根株、树基及地面。",
+      "finding_tips": "夏秋于针叶树基寻找黄褐色海绵状柔软真菌，老时变褐变硬。"
+    }
+  },
+  "Phaeophyscia limbata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bordered Shadow Lichen",
+    "aliases": {
+      "zh-Hans": "缘毛黑蜈蚣衣"
+    },
+    "ja": {
+      "summary": "クロウラムカデゴケ。ムカデゴケ科の小型の葉状地衣。灰緑色で裂片は細く、裏面が黒いのが名の由来。樹皮や岩に着生する。",
+      "habitat_hint": "樹幹、岩上、コンクリート、街路樹。",
+      "finding_tips": "一年を通して、灰緑色で細い裂片、裏面が黒い小さな葉状地衣を樹皮や岩で探します。"
+    },
+    "en": {
+      "summary": "A small foliose lichen (Physciaceae), grey-green with narrow lobes and a black underside (hence its Japanese name); it grows on bark and rock.",
+      "habitat_hint": "Trunks, rocks, concrete and street trees.",
+      "finding_tips": "Year-round, look on bark and rock for a small grey-green leafy lichen with narrow lobes and a black underside."
+    },
+    "zh": {
+      "summary": "缘毛黑蜈蚣衣（クロウラムカデゴケ）。蜈蚣衣科小型叶状地衣，灰绿色，裂片狭窄，下表面黑色（故名），附生于树皮与岩石。",
+      "habitat_hint": "树干、岩面、混凝土及行道树。",
+      "finding_tips": "全年可于树皮岩石上寻找灰绿、裂片狭、下面黑的小型叶状地衣。"
+    }
   }
 }
