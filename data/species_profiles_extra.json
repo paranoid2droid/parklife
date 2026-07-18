@@ -263268,5 +263268,519 @@
       "habitat_hint": "山地溪流细流，缓流水面与回水处。",
       "finding_tips": "在溪流回水与岩阴水面寻找约2毫米黑色滑行的小虫，常成群移动。"
     }
+  },
+  "Psychotria asiatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian wild coffee",
+    "aliases": {
+      "zh-Hans": "九节"
+    },
+    "ja": {
+      "summary": "ボチョウジ。屋久島・南西諸島の常緑樹林に生えるアカネ科の常緑低木。革質で光沢のある対生の葉をつけ、白い小花のあと赤く熟す球形の果実を房状につける。",
+      "habitat_hint": "亜熱帯〜暖温帯の常緑広葉樹林の林内・林縁。",
+      "finding_tips": "林内で光沢ある対生の葉と、秋〜冬の赤い果実の房を探す。托葉の跡が茎に環状に残る。"
+    },
+    "en": {
+      "summary": "Asian wild coffee (Psychotria asiatica). An evergreen shrub of laurel forests on the Ryukyu Islands and Yakushima; it has glossy leathery opposite leaves and clusters of small white flowers followed by round red berries.",
+      "habitat_hint": "Interior and edges of subtropical to warm-temperate evergreen forest.",
+      "finding_tips": "In shady forest look for glossy paired leaves and clusters of red autumn–winter fruit; ring-like stipule scars mark the stem."
+    },
+    "zh": {
+      "summary": "九节（ボチョウジ）。生于琉球群岛与屋久岛常绿林的茜草科常绿灌木，叶革质光亮对生，白色小花后结球形红熟果，成簇。",
+      "habitat_hint": "亚热带至暖温带常绿阔叶林的林内、林缘。",
+      "finding_tips": "林内寻找对生光亮叶与秋冬成簇红果；茎上环状托叶痕为特征。"
+    }
+  },
+  "Ptilodon hoegei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoege's prominent",
+    "ja": {
+      "summary": "スジエグリシャチホコ。本州〜九州の雑木林に見られるシャチホコガ科の蛾。前翅は灰褐色で暗色の筋があり、静止時は樹皮に似た姿勢をとる。幼虫はカエデ類などの葉を食べる。",
+      "habitat_hint": "雑木林、落葉広葉樹林、公園の樹林。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る個体を探す。前翅の縦筋と縁のえぐれた形が識別点。"
+    },
+    "en": {
+      "summary": "Hoege's prominent (Ptilodon hoegei). A prominent moth of broadleaf woodland from Honshu to Kyushu; the greyish-brown forewings bear dark streaks and it rests in a bark-mimicking posture. Larvae feed on maples and other trees.",
+      "habitat_hint": "Deciduous woodland, secondary forest and park groves.",
+      "finding_tips": "On early-summer nights check lights; the streaked forewing with a notched margin identifies it."
+    },
+    "zh": {
+      "summary": "赫氏舟蛾（スジエグリシャチホコ）。分布于本州至九州杂木林的舟蛾科蛾，前翅灰褐带暗色纵纹，静止时拟似树皮，幼虫取食槭树等叶。",
+      "habitat_hint": "杂木林、落叶阔叶林、公园林地。",
+      "finding_tips": "初夏至夏夜查灯诱个体；前翅纵纹与缘部凹缺为辨识点。"
+    }
+  },
+  "Ptychomitrium indicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oriental candle-snuffer moss",
+    "ja": {
+      "summary": "トウヨウネジクチゴケ。日当たりの良い岩上やコンクリート上に生えるギボウシゴケ科の蘚類。乾くと葉が縮れてねじれ、湿ると開く。暗緑色のクッション状の群落をつくる。",
+      "habitat_hint": "日当たりのよい岩上、石垣、コンクリート、墓石など。",
+      "finding_tips": "年間を通じ、露岩や石垣上の暗緑色のクッション状のコケを探す。乾燥時に葉がねじれ縮れるのが特徴。"
+    },
+    "en": {
+      "summary": "Oriental candle-snuffer moss (Ptychomitrium indicum). A moss of sunny rock, stone walls and concrete; the leaves curl and twist when dry and spread when wet, forming dark-green cushions.",
+      "habitat_hint": "Sunny rock, stone walls, concrete and gravestones.",
+      "finding_tips": "Year-round, look for dark-green cushions on exposed rock and walls; the leaves twisting when dry are diagnostic."
+    },
+    "zh": {
+      "summary": "东洋缩叶藓（トウヨウネジクチゴケ）。生于向阳岩面、石墙与混凝土的净口藓科藓类，干时叶皱缩扭卷、湿时展开，形成暗绿垫状群落。",
+      "habitat_hint": "向阳岩面、石墙、混凝土、墓石等。",
+      "finding_tips": "全年在露岩与石墙上寻找暗绿垫状藓；干时叶扭卷皱缩为特征。"
+    }
+  },
+  "Puccinellia pumila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf alkali grass",
+    "ja": {
+      "summary": "チシマドジョウツナギ。北日本の海岸の塩湿地や岩の隙間に生えるイネ科の多年草。小型で叢生し、細い葉と細い円錐花序をもつ。塩分に強い塩生植物。",
+      "habitat_hint": "海岸の塩湿地、潮上帯の岩の隙間、砂礫地。",
+      "finding_tips": "夏、海岸の塩湿地で小型に叢生する細い穂のイネ科を探す。海辺という環境が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Dwarf alkali grass (Puccinellia pumila). A small tufted perennial grass of coastal salt marshes and rock crevices in northern Japan; it has fine leaves and a slender panicle and tolerates salt.",
+      "habitat_hint": "Coastal salt marsh, supratidal rock crevices and gravel.",
+      "finding_tips": "In summer look on saltmarshes for a small tufted grass with slender panicles; the seaside habitat is a key clue."
+    },
+    "zh": {
+      "summary": "矮碱茅（チシマドジョウツナギ）。生于北日本海岸盐沼与岩缝的禾本科多年生草本，矮小丛生，叶细、圆锥花序纤细，耐盐。",
+      "habitat_hint": "海岸盐沼、潮上带岩缝、砂砾地。",
+      "finding_tips": "夏季在海岸盐沼寻找矮小丛生、花序纤细的禾草；海边生境为线索。"
+    }
+  },
+  "Puncturella nobilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noble puncturella",
+    "ja": {
+      "summary": "コウダカスカシ（ガイ）。北日本の岩礁の潮下帯にすむスカシガイ科の笠型巻貝。円錐形の殻の頂近くに小さな孔（鍵穴）があり、放射状の肋が目立つ。殻高が高く尖るのが特徴。",
+      "habitat_hint": "寒海の岩礁潮下帯、転石の下。",
+      "finding_tips": "岩礁の転石下や漂着貝で、頂近くに小孔のある高い円錐形の笠貝を探す。放射肋と高い殻が識別点。"
+    },
+    "en": {
+      "summary": "Noble puncturella (Puncturella nobilis). A limpet-shaped keyhole snail of rocky subtidal in northern Japan; the tall conical shell has a small slit near the apex and prominent radial ribs.",
+      "habitat_hint": "Rocky subtidal of cold seas, under boulders.",
+      "finding_tips": "Under rocks or as beach-cast shells look for a tall conical limpet with a small hole near the apex; the radial ribs confirm it."
+    },
+    "zh": {
+      "summary": "高帽透孔螺（コウダカスカシ）。栖于北日本岩礁潮下带的透孔螺科笠形螺，壳高圆锥形、近顶端有小孔（钥孔），放射肋明显。",
+      "habitat_hint": "寒海岩礁潮下带、石块下。",
+      "finding_tips": "在石下或滩涂拾获中寻找高圆锥形、近顶具小孔的笠贝；放射肋与高壳为辨识点。"
+    }
+  },
+  "Pyrola subaphylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafless wintergreen",
+    "ja": {
+      "summary": "ヒトツバイチヤクソウ。山地の林床に生えるツツジ科（イチヤクソウ属）の常緑多年草。葉がごく少なく（1枚程度）、細い花茎に白い小花をまばらにつける。菌に依存する半腐生的な性質をもつ。",
+      "habitat_hint": "亜高山〜山地の針葉樹林・混交林の林床。",
+      "finding_tips": "6〜7月、暗い林床で葉のほとんどない細い花茎に白い下向きの花を探す。1枚だけの葉が名の由来。"
+    },
+    "en": {
+      "summary": "Leafless wintergreen (Pyrola subaphylla). An evergreen perennial of montane forest floors with very few leaves (often just one), bearing sparse white nodding flowers on a slender stalk; it is partly mycoheterotrophic.",
+      "habitat_hint": "Floors of subalpine to montane conifer and mixed forest.",
+      "finding_tips": "In June–July on shady forest floor look for slender near-leafless stalks with white nodding flowers; the single leaf gives its name."
+    },
+    "zh": {
+      "summary": "单叶鹿蹄草（ヒトツバイチヤクソウ）。生于山地林下的杜鹃花科（鹿蹄草属）常绿多年生草本，叶极少（常仅1枚），细花茎上疏生白色下垂小花，半菌营养。",
+      "habitat_hint": "亚高山至山地针叶林、混交林的林下。",
+      "finding_tips": "6至7月于阴暗林下寻找近无叶的细花茎与白色垂花；仅一枚叶为名之由来。"
+    }
+  },
+  "Pyrrhobryum latifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broad-leaved pyrrhobryum moss",
+    "ja": {
+      "summary": "ヒロハヒノキゴケ。湿った林床や岩上に生えるヒノキゴケ科の大型蘚類。長く伸びた茎に幅広い葉を放射状につけ、ヒノキの枝葉のような姿になる。暗緑色で群生する。",
+      "habitat_hint": "湿った林床、渓流沿いの岩上・腐植土上。",
+      "finding_tips": "湿った林で、ヒノキの小枝のように葉を放射状につけた大型のコケを探す。幅広い葉がヒノキゴケとの区別点。"
+    },
+    "en": {
+      "summary": "A large moss (Pyrrhobryum latifolium) of damp forest floors and rocks; the long stems bear broad leaves in a radiating spray resembling a cypress twig, forming dark-green colonies.",
+      "habitat_hint": "Damp forest floor, streamside rocks and humus.",
+      "finding_tips": "In moist forest look for a large moss with leaves radiating like a cypress spray; the broad leaves separate it from relatives."
+    },
+    "zh": {
+      "summary": "阔叶桧藓（ヒロハヒノキゴケ）。生于湿润林下与岩上的桧藓科大型藓类，长茎放射状生宽叶，形似桧枝，暗绿色群生。",
+      "habitat_hint": "湿润林下、溪畔岩石与腐殖土。",
+      "finding_tips": "湿润林中寻找叶如桧枝般放射的大型藓；叶宽为与近缘桧藓的区别。"
+    }
+  },
+  "Pyrus calleryana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Callery pear",
+    "aliases": {
+      "zh-Hans": "豆梨"
+    },
+    "ja": {
+      "summary": "マメナシ。本州の一部の湿地周辺に自生するバラ科の落葉小高木で、絶滅危惧種。春に白い5弁花を多数咲かせ、直径1cmほどの小さな球形の梨状果をつける。イヌナシとも呼ばれる。",
+      "habitat_hint": "湿地・ため池のほとりなどの明るい低地。",
+      "finding_tips": "4月、白い花を密につけた小高木を探す。秋の小さな球形の果実（マメのように小さい梨）が名の由来。"
+    },
+    "en": {
+      "summary": "Callery pear (Pyrus calleryana). A deciduous small tree of the rose family; in Japan its wild populations near wetlands are endangered. It bears masses of white five-petalled flowers in spring and tiny round pear-like fruit about 1 cm.",
+      "habitat_hint": "Open lowlands beside wetlands and ponds.",
+      "finding_tips": "In April look for a small tree densely covered in white blossom; the tiny round autumn fruit (bean-sized pears) give its Japanese name."
+    },
+    "zh": {
+      "summary": "豆梨（マメナシ）。蔷薇科落叶小乔木，日本本州湿地周边的野生种为濒危；春开大量白色五瓣花，果小球形似豆大之梨，径约1厘米。",
+      "habitat_hint": "湿地、池塘畔的明亮低地。",
+      "finding_tips": "4月寻找密被白花的小乔木；秋季豆大球形小梨果为名之由来。"
+    }
+  },
+  "Quercus miovariabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tanai oak",
+    "ja": {
+      "summary": "タナイカシ。ブナ科コナラ属の落葉性のカシ・ナラ類の一種で、クヌギ・アベマキに近縁とされる。厚い樹皮と、縁に鋭い鋸歯のある細長い葉、殻斗が線状の鱗片でおおわれるどんぐりをもつ。",
+      "habitat_hint": "低山〜丘陵の落葉樹林、雑木林。",
+      "finding_tips": "細長く鋸歯の鋭い葉と、線状の鱗片が反り返る殻斗のどんぐりで見分ける。クヌギに似た環境に生える。"
+    },
+    "en": {
+      "summary": "Tanai oak (Quercus miovariabilis). A deciduous oak of the beech family allied to the sawtooth oaks; it has thick bark, long leaves with sharp bristle-tipped teeth, and acorns in a cup covered with slender spreading scales.",
+      "habitat_hint": "Deciduous and secondary woodland of low hills.",
+      "finding_tips": "Recognise it by the long sharply toothed leaves and acorn cups clothed in slender curling scales, in sawtooth-oak-like habitat."
+    },
+    "zh": {
+      "summary": "谷内栎（タナイカシ）。壳斗科栎属落叶栎类，近于麻栎，具厚树皮、边缘具锐芒齿的长叶，壳斗被线状反卷鳞片的橡实。",
+      "habitat_hint": "低山至丘陵的落叶林、杂木林。",
+      "finding_tips": "以细长锐齿叶与线状反卷鳞片的壳斗橡实辨识；生于似麻栎的生境。"
+    }
+  },
+  "Quercus takaoyamensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Takaosan oak",
+    "ja": {
+      "summary": "オオツクバネガシ。ツクバネガシとアカガシの雑種とされる常緑のカシで、高尾山にちなむ名をもつ。革質で光沢のある葉は先が尖り、上半部に浅い鋸歯が出ることがある。両親種の中間的な形質を示す。",
+      "habitat_hint": "暖温帯の常緑広葉樹林（照葉樹林）。",
+      "finding_tips": "常緑カシ林で、ツクバネガシとアカガシの中間的な葉（大きめで先が尖る）をもつ木を探す。雑種のため個体差が大きい。"
+    },
+    "en": {
+      "summary": "Takaosan oak (Quercus takaoyamensis). An evergreen oak regarded as a hybrid between Q. sessilifolia and Q. acuta, named after Mt Takao; the glossy leathery leaves are pointed and may show shallow teeth in the upper half, intermediate between its parents.",
+      "habitat_hint": "Warm-temperate evergreen broadleaf (laurel) forest.",
+      "finding_tips": "In evergreen oak forest look for trees with leaves intermediate between the two parent oaks; being a hybrid, individuals vary."
+    },
+    "zh": {
+      "summary": "高尾山栎（オオツクバネガシ）。被视为青冈类杂交种的常绿栎，名源高尾山；叶革质光亮、先端尖，上半部或具浅齿，性状介于双亲之间。",
+      "habitat_hint": "暖温带常绿阔叶（照叶）林。",
+      "finding_tips": "常绿栎林中寻找叶介于两亲本之间的树；因属杂种，个体差异大。"
+    }
+  },
+  "Ramalina sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fishbone beard lichen",
+    "ja": {
+      "summary": "ヒロハカラタチゴケ。樹幹や枝に着生する葉状〜低木状の地衣類（サルオガセ科カラタチゴケ属）。灰緑色で扁平に垂れ下がる裂片をもち、幅がやや広いのが特徴。乾燥に強い。",
+      "habitat_hint": "明るい林の樹幹・枝、公園や街路樹の幹。",
+      "finding_tips": "年間を通じ、樹皮上の灰緑色で扁平にたれる幅広の地衣を探す。幅の広い裂片が近縁種との区別点。"
+    },
+    "en": {
+      "summary": "A beard lichen (Ramalina sinensis) growing on trunks and branches; a grey-green, flattened strap-like fruticose lichen with relatively broad hanging lobes, tolerant of drought.",
+      "habitat_hint": "Trunks and branches in open woodland, park and street trees.",
+      "finding_tips": "Year-round look on bark for a grey-green, flat, broadly strap-like lichen; the wide lobes distinguish it from relatives."
+    },
+    "zh": {
+      "summary": "宽叶树花（ヒロハカラタチゴケ）。着生于树干枝条的枝状地衣（松萝科树花属），灰绿色、裂片扁平下垂而较宽，耐旱。",
+      "habitat_hint": "明亮林的树干枝条、公园与行道树干。",
+      "finding_tips": "全年在树皮上寻找灰绿扁平下垂的宽裂片地衣；裂片宽为与近缘种的区别。"
+    }
+  },
+  "Ranunculus sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's buttercup",
+    "ja": {
+      "summary": "シマキツネノボタン。本州以南の湿った場所に生えるキンポウゲ科の多年草。全体に開出した毛が多く、黄色い5弁花を咲かせる。金平糖状の集合果（そう果に鉤状の突起）をつける。有毒。",
+      "habitat_hint": "田のあぜ、溝、湿った草地、林縁の湿地。",
+      "finding_tips": "春〜初夏、湿地で黄色い光沢のある花を探す。全体に毛が多く、果実が金平糖状になる点でキツネノボタンと区別。"
+    },
+    "en": {
+      "summary": "Siebold's buttercup (Ranunculus sieboldii). A hairy perennial of damp places from Honshu southward with glossy yellow five-petalled flowers; the fruit is a burr-like head of hooked achenes. It is poisonous.",
+      "habitat_hint": "Paddy banks, ditches, wet grassland and forest-edge wetlands.",
+      "finding_tips": "In spring–early summer look in wet ground for glossy yellow flowers; the dense hairiness and spiky fruit head separate it from relatives."
+    },
+    "zh": {
+      "summary": "西氏毛茛（シマキツネノボタン）。生于本州以南湿地的毛茛科多年生草本，全株多开展毛，黄色五瓣花，聚合果如金平糖具钩状瘦果，有毒。",
+      "habitat_hint": "田埂、水沟、湿润草地、林缘湿地。",
+      "finding_tips": "春至初夏于湿地寻找有光泽的黄花；全株多毛、果如金平糖为与近缘种的区别。"
+    }
+  },
+  "Rapa rapa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rapa whelk",
+    "ja": {
+      "summary": "カブラガイ。暖海の潮下帯にすむアッキガイ科の巻貝で、殻がカブ（蕪）のようにふくらむことからの名。殻は薄く白色で、螺塔が低く体層が大きく張り出す。造礁サンゴやウミトサカに寄生的にすむ。",
+      "habitat_hint": "暖海の岩礁・サンゴ礁の潮下帯、軟質サンゴの近く。",
+      "finding_tips": "漂着貝で、白くふくらんだカブ形の薄い殻を探す。低い螺塔と大きな体層が識別点。"
+    },
+    "en": {
+      "summary": "Rapa whelk (Rapa rapa). A muricid snail of warm subtidal seas named for its turnip-shaped inflated shell; the thin white shell has a low spire and a greatly expanded body whorl, and it lives associated with soft corals.",
+      "habitat_hint": "Rocky and coral subtidal of warm seas, near soft corals.",
+      "finding_tips": "Among beach-cast shells look for a white, inflated turnip-shaped thin shell; the low spire and swollen body whorl identify it."
+    },
+    "zh": {
+      "summary": "芜菁螺（カブラガイ）。栖于暖海潮下带的骨螺科螺，壳膨大如芜菁而得名；壳薄白色，螺塔低而体螺层大幅膨出，与软珊瑚共居。",
+      "habitat_hint": "暖海岩礁与珊瑚礁潮下带，近软珊瑚。",
+      "finding_tips": "在滩涂拾获中寻找白色膨大如芜菁的薄壳；螺塔低、体层大为辨识点。"
+    }
+  },
+  "Rhabdoweisia crispata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナメハヤスジゴケ。山地の湿った岩の隙間や崖に生える小型のシッポゴケ科の蘚類。細い茎に線形の葉をつけ、乾くと縮れる。緑色の小さなクッション状の群落をつくる。",
+      "habitat_hint": "山地の湿った岩の割れ目、崖、日陰の岩壁。",
+      "finding_tips": "湿った岩の割れ目で、線形の葉をもつ小型の緑のクッション状コケを探す。乾くと葉が縮れる。"
+    },
+    "en": {
+      "summary": "Toothed streak-moss (Rhabdoweisia crispata). A small moss of damp rock crevices and cliffs in the hills; slender stems bear linear leaves that crisp up when dry, forming small green cushions.",
+      "habitat_hint": "Damp rock crevices, cliffs and shaded rock walls in the hills.",
+      "finding_tips": "Look in moist rock cracks for a small green cushion moss with linear leaves that curl when dry."
+    },
+    "zh": {
+      "summary": "皱叶棒线藓（ナメハヤスジゴケ）。生于山地湿润岩缝与崖壁的曲尾藓科小型藓类，细茎具线形叶，干时皱曲，形成绿色小垫。",
+      "habitat_hint": "山地湿润岩缝、崖壁、阴处岩壁。",
+      "finding_tips": "在湿润岩缝寻找线形叶的绿色小垫藓；干时叶皱曲。"
+    }
+  },
+  "Rhamnus costata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ribbed buckthorn",
+    "ja": {
+      "summary": "クロカンバ。山地に生えるクロウメモドキ科の落葉低木〜小高木。葉は側脈が目立って多数平行し、縁に細かい鋸歯がある。黒く熟す球形の果実をつける。和名は樹皮が黒っぽいことによる。",
+      "habitat_hint": "山地の落葉樹林、林縁、渓谷沿い。",
+      "finding_tips": "側脈が多く平行に走る葉と、秋の黒い球形の果実を探す。枝先が短枝状になり、暗色の樹皮も手がかり。"
+    },
+    "en": {
+      "summary": "Ribbed buckthorn (Rhamnus costata). A deciduous shrub or small tree of the buckthorn family in the hills; the leaves have many prominent parallel side veins and finely toothed margins, and it bears round black fruit. The name refers to its dark bark.",
+      "habitat_hint": "Montane deciduous forest, woodland edges and ravines.",
+      "finding_tips": "Look for leaves with many parallel veins and round black autumn fruit; the short spur-like twigs and dark bark help."
+    },
+    "zh": {
+      "summary": "肋脉鼠李（クロカンバ）。生于山地的鼠李科落叶灌木至小乔木，叶侧脉多而平行明显、边缘细锯齿，果球形黑熟，和名指其树皮暗黑。",
+      "habitat_hint": "山地落叶林、林缘、溪谷沿。",
+      "finding_tips": "寻找侧脉多而平行的叶与秋季黑色球果；短枝状枝端与暗色树皮为线索。"
+    }
+  },
+  "Rhizedra lutosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large wainscot",
+    "ja": {
+      "summary": "ヨシヨトウ。ヨシ原に発生するヤガ科の蛾。前翅は淡い黄褐色で細かな点があり、大型でずんぐりする。幼虫はヨシの地下茎の中を食べて育つ。秋に成虫が現れる。",
+      "habitat_hint": "河川敷・湿地のヨシ原、抽水植物の茂み。",
+      "finding_tips": "秋の夜、ヨシ原周辺の灯火で淡黄褐色の大きな蛾を探す。ヨシ原という環境が手がかり。"
+    },
+    "en": {
+      "summary": "Large wainscot (Rhizedra lutosa). A stout noctuid moth of reed beds; the pale ochre-brown forewings are finely speckled. Larvae bore in the rhizomes of common reed, and adults fly in autumn.",
+      "habitat_hint": "Reed beds of riversides and wetlands.",
+      "finding_tips": "On autumn nights check lights near reed beds for a large pale ochre moth; the reed-bed habitat is the key clue."
+    },
+    "zh": {
+      "summary": "芦夜蛾（ヨシヨトウ）。发生于芦苇丛的夜蛾科蛾，前翅淡黄褐色具细点，体大而粗壮，幼虫钻食芦苇地下茎，成虫秋季出现。",
+      "habitat_hint": "河滩、湿地的芦苇丛。",
+      "finding_tips": "秋夜在芦苇丛旁灯下寻找淡黄褐色大蛾；芦苇生境为线索。"
+    }
+  },
+  "Rhodiola ishidae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender-leaved roseroot",
+    "ja": {
+      "summary": "ホソバイワベンケイ。高山や海岸の岩場に生えるベンケイソウ科の多肉質多年草。イワベンケイに似るが葉が細い。多肉の葉を密につけ、黄色い小花を頂に集めて咲かせる。雌雄異株。",
+      "habitat_hint": "高山帯・亜高山帯や海岸の岩場、岩の隙間。",
+      "finding_tips": "初夏〜夏、岩場で細い多肉の葉と黄色い花の集まりを探す。イワベンケイより葉が細いのが区別点。"
+    },
+    "en": {
+      "summary": "Slender-leaved roseroot (Rhodiola ishidae). A succulent perennial of alpine and coastal rocks resembling roseroot but with narrower leaves; the fleshy leaves are densely set and small yellow flowers cluster at the tips. It is dioecious.",
+      "habitat_hint": "Alpine and subalpine or coastal rocks and crevices.",
+      "finding_tips": "In early summer look on rocks for narrow succulent leaves topped with yellow flower clusters; the slender leaves separate it from roseroot."
+    },
+    "zh": {
+      "summary": "细叶红景天（ホソバイワベンケイ）。生于高山与海岸岩地的景天科多肉多年生草本，似岩景天但叶更细，肉质叶密生，顶生黄色小花簇，雌雄异株。",
+      "habitat_hint": "高山、亚高山及海岸岩地、岩缝。",
+      "finding_tips": "初夏至夏在岩地寻找细肉质叶与顶生黄花簇；叶细为与岩景天的区别。"
+    }
+  },
+  "Rhodiola rosea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Roseroot",
+    "aliases": {
+      "zh-Hans": "红景天"
+    },
+    "ja": {
+      "summary": "イワベンケイ。高山や北方の岩場に生えるベンケイソウ科の多肉質多年草。太い根茎から多肉の茎葉を叢生し、頂に黄色い小花を密に咲かせる。根に芳香があり、薬用（アダプトゲン）として知られる。雌雄異株。",
+      "habitat_hint": "高山帯の岩礫地、風衝地、北方の海岸岩場。",
+      "finding_tips": "初夏〜夏、高山の岩場で多肉の茎葉と黄色い花の集まりを探す。太い根茎とロゼット状の株が識別点。"
+    },
+    "en": {
+      "summary": "Roseroot (Rhodiola rosea). A succulent perennial of alpine and boreal rocks; fleshy stems arise from a stout rhizome and bear dense heads of small yellow flowers. The fragrant root is a well-known medicinal adaptogen, and it is dioecious.",
+      "habitat_hint": "Alpine rock and scree, wind-swept ridges and northern coastal rock.",
+      "finding_tips": "In early summer on alpine rock look for fleshy leafy stems topped with yellow flower heads; the stout rhizome and rosette clumps identify it."
+    },
+    "zh": {
+      "summary": "红景天（イワベンケイ）。生于高山与北方岩地的景天科多肉多年生草本，粗根茎丛生肉质茎叶，顶端密生黄色小花，根有香气、为著名药用适应原植物，雌雄异株。",
+      "habitat_hint": "高山岩砾地、风衝地、北方海岸岩地。",
+      "finding_tips": "初夏至夏在高山岩地寻找肉质茎叶与顶生黄花簇；粗根茎与莲座状株丛为辨识点。"
+    }
+  },
+  "Rhododendron tetramerum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Four-petalled azalea",
+    "ja": {
+      "summary": "チョウジコメツツジ。山地の岩場や尾根に生えるツツジ科の落葉小低木。コメツツジの仲間で小さな葉を密につけ、花冠が4裂した小さな白い花を咲かせる。花筒が長く丁字（チョウジ）状に見える。",
+      "habitat_hint": "山地〜亜高山の岩場、尾根、痩せ地。",
+      "finding_tips": "初夏、岩尾根で小さな葉の低木に、4裂して筒の長い白い小花を探す。花の形（丁字状）が名の由来。"
+    },
+    "en": {
+      "summary": "A small azalea (Rhododendron tetramerum) of montane rocks and ridges; a dwarf deciduous shrub of the komestutsuji group with tiny crowded leaves and small white flowers whose corolla splits into four lobes with a long tube.",
+      "habitat_hint": "Montane to subalpine rocks, ridges and poor soils.",
+      "finding_tips": "In early summer on rocky ridges look for a small-leaved dwarf shrub with tiny four-lobed, long-tubed white flowers."
+    },
+    "zh": {
+      "summary": "丁字米踯躅（チョウジコメツツジ）。生于山地岩地与山脊的杜鹃花科落叶矮灌木，属米踯躅类，叶小密生，花冠4裂、筒长的白色小花，花形似丁字。",
+      "habitat_hint": "山地至亚高山岩地、山脊、贫瘠地。",
+      "finding_tips": "初夏在岩脊寻找小叶矮灌木与4裂长筒白色小花；花形丁字为名之由来。"
+    }
+  },
+  "Rhododendron transiens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miyako azalea",
+    "ja": {
+      "summary": "ミヤコツツジ。ヤマツツジとモチツツジの自然雑種とされるツツジ科の半落葉低木。両親種の中間的な形質をもち、春に紅紫色の花を咲かせる。花や若枝に腺毛による粘りがある。",
+      "habitat_hint": "低山・丘陵の林縁、両親種が混生する場所。",
+      "finding_tips": "春、ヤマツツジとモチツツジが混じる林縁で、両者の中間的な紅紫花のツツジを探す。若枝の粘り気が手がかり。"
+    },
+    "en": {
+      "summary": "Miyako azalea (Rhododendron transiens). A semi-deciduous azalea regarded as a natural hybrid between R. kaempferi and R. macrosepalum; intermediate between its parents, it bears reddish-purple spring flowers and has sticky glandular young shoots.",
+      "habitat_hint": "Woodland edges of low hills where both parent species grow.",
+      "finding_tips": "In spring where the two parent azaleas mix, look for a reddish-purple-flowered azalea intermediate between them; sticky young shoots are a clue."
+    },
+    "zh": {
+      "summary": "都踯躅（ミヤコツツジ）。被视为山踯躅与黐踯躅自然杂交种的杜鹃花科半落叶灌木，性状居两亲之间，春开红紫色花，花与嫩枝具腺毛而黏。",
+      "habitat_hint": "低山丘陵林缘、两亲本混生处。",
+      "finding_tips": "春季于两亲本混生的林缘寻找花色红紫、性状居中的踯躅；嫩枝黏性为线索。"
+    }
+  },
+  "Rhynchalastor frauenfeldi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small potter wasp",
+    "ja": {
+      "summary": "チビドロバチ。低地の草地や林縁に見られる小型のドロバチ類（スズメバチ科ドロバチ亜科）。体長1cm前後で黒色に黄色の斑紋をもつ。泥で巣室をつくり、幼虫の餌に鱗翅目の幼虫を狩る。",
+      "habitat_hint": "草地、林縁、人家周辺の日当たりのよい場所。",
+      "finding_tips": "初夏〜夏、花や葉上で黒地に黄斑の小さなドロバチを探す。腹の付け根がくびれる体形が識別点。"
+    },
+    "en": {
+      "summary": "A small potter wasp (Rhynchalastor frauenfeldi) of lowland grassland and woodland edges; about 1 cm, black with yellow markings. It builds mud brood cells and provisions them with caterpillars for its larvae.",
+      "habitat_hint": "Grassland, woodland edges and sunny spots near habitation.",
+      "finding_tips": "In early summer look on flowers and foliage for a small black-and-yellow wasp; the pinched waist marks it as a potter wasp."
+    },
+    "zh": {
+      "summary": "小蜾蠃（チビドロバチ）。见于低地草地与林缘的小型蜾蠃（胡蜂科蜾蠃亚科），体长约1厘米，黑色具黄斑，以泥筑巢室、猎鳞翅目幼虫饲育幼虫。",
+      "habitat_hint": "草地、林缘、人居周边向阳处。",
+      "finding_tips": "初夏至夏在花叶上寻找黑地黄斑的小型蜾蠃；腹基缢缩的体形为辨识点。"
+    }
+  },
+  "Rhynchostegium ovalifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oval-leaved feather-moss",
+    "ja": {
+      "summary": "イセノテングゴケ。湿った岩上や樹幹の基部に生えるアオギヌゴケ科の蘚類。茎は這って不規則に分枝し、卵形の葉を平らにつける。光沢のある緑色のマットをつくる。",
+      "habitat_hint": "湿った岩上、樹幹基部、渓流沿いの石。",
+      "finding_tips": "湿った岩や樹幹基部で、卵形の葉を平らにつけた光沢ある緑のマットを探す。這う茎と扁平な葉が識別の助け。"
+    },
+    "en": {
+      "summary": "An oval-leaved feather-moss (Rhynchostegium ovalifolium) of damp rock and trunk bases; the creeping, irregularly branched stems bear flat oval leaves, forming glossy green mats.",
+      "habitat_hint": "Damp rock, tree-base bark and streamside stones.",
+      "finding_tips": "On moist rock and trunk bases look for glossy green mats with flat oval leaves; the creeping stems and flattened foliage help."
+    },
+    "zh": {
+      "summary": "卵叶青藓（イセノテングゴケ）。生于湿润岩面与树干基部的青藓科藓类，茎匍匐不规则分枝，卵形叶平展，形成有光泽的绿色垫。",
+      "habitat_hint": "湿润岩面、树干基部、溪畔石块。",
+      "finding_tips": "在湿润岩石与树干基部寻找卵形平展叶的绿色光泽藓垫；匍匐茎与扁平叶为助力。"
+    }
+  },
+  "Ribes sinanense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shinano gooseberry",
+    "ja": {
+      "summary": "スグリ（シナノスグリ）。本州中部の山地に生えるスグリ科の落葉低木。枝にとげがあり、掌状に浅く裂ける葉をつける。春に淡緑色の小花を咲かせ、球形の液果が赤く熟す。果実は食べられる。",
+      "habitat_hint": "山地の林縁、岩場、明るい斜面。",
+      "finding_tips": "春、とげのある枝と掌状の葉をもつ低木に淡緑の小花を探す。夏〜秋の赤い球形の実も手がかり。"
+    },
+    "en": {
+      "summary": "Shinano gooseberry (Ribes sinanense). A deciduous shrub of montane central Honshu with spiny stems and palmately lobed leaves; small greenish flowers in spring are followed by round red edible berries.",
+      "habitat_hint": "Montane woodland edges, rocky slopes and open banks.",
+      "finding_tips": "In spring look for a spiny shrub with palmate leaves and small greenish flowers; the red round summer–autumn berries help."
+    },
+    "zh": {
+      "summary": "信浓茶藨子（スグリ）。生于本州中部山地的茶藨子科落叶灌木，枝具刺、叶掌状浅裂，春开淡绿色小花，球形浆果红熟可食。",
+      "habitat_hint": "山地林缘、岩地、明亮坡地。",
+      "finding_tips": "春季寻找具刺枝与掌状叶的灌木及淡绿小花；夏秋红色球果为线索。"
+    }
   }
 }
