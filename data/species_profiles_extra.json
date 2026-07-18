@@ -260438,5 +260438,574 @@
       "habitat_hint": "低山至山地阔叶林及林缘。",
       "finding_tips": "夏季于灯下寻找褐色蛾，前翅弓形纹为辨识点。"
     }
+  },
+  "Menetus dilatatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bugle Sprite Snail",
+    "aliases": {
+      "zh-Hans": "宽扁旋螺"
+    },
+    "ja": {
+      "summary": "ヒロマキミズマイマイ。ヒラマキガイ科の小型の淡水巻貝。北米原産で、扁平で平巻きの殻をもち、水草などに付着して各地に帰化する。",
+      "habitat_hint": "池、水路、緩やかな流れ、水草の多い止水。",
+      "finding_tips": "一年を通して、水草や水底の小さな平巻きの貝を探します。殻径5mmほどで扁平。"
+    },
+    "en": {
+      "summary": "A small freshwater snail (Planorbidae) native to North America, with a flat coiled shell; it clings to water plants and has naturalised widely.",
+      "habitat_hint": "Ponds, ditches, slow currents and weedy still water.",
+      "finding_tips": "Year-round, search water plants and bottom debris for tiny flat-coiled shells about 5 mm across."
+    },
+    "zh": {
+      "summary": "宽扁旋螺（ヒロマキミズマイマイ）。扁蜷科小型淡水螺，原产北美，壳扁平呈平旋状，附着于水草，各地逸生。",
+      "habitat_hint": "池塘、水沟、缓流及多水草的静水。",
+      "finding_tips": "全年可于水草与水底寻找扁平平旋的小螺，壳径约5毫米。"
+    }
+  },
+  "Metalycaeus hirasei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hirase's Cyclophorid Snail",
+    "aliases": {
+      "zh-Hans": "平濑山蜗牛"
+    },
+    "ja": {
+      "summary": "ミヤコムシオイ。ムシオイガイ科の小型の陸貝。殻は円錐形で微小、蓋をもつ。石灰岩地や落葉下の湿った環境にすむ。",
+      "habitat_hint": "石灰岩地、落葉下、湿った林床。",
+      "finding_tips": "落ち葉や石の下の湿った場所で、数mmの円錐形の陸貝を探します。蓋をもつのが特徴。"
+    },
+    "en": {
+      "summary": "A tiny operculate land snail (Alycaeidae) with a small conical shell; it lives in limestone areas and damp leaf litter.",
+      "habitat_hint": "Limestone country, leaf litter and moist forest floor.",
+      "finding_tips": "Under leaves and stones in damp spots, look for a few-millimetre conical snail; the operculum (lid) is characteristic."
+    },
+    "zh": {
+      "summary": "平濑山蜗牛（ミヤコムシオイ）。芝麻蜗牛科小型陆生螺，壳圆锥形微小，具厣。生于石灰岩地及落叶下的湿润环境。",
+      "habitat_hint": "石灰岩地、落叶层及湿润林床。",
+      "finding_tips": "于落叶与石块下的湿处寻找数毫米的圆锥形陆螺，具厣为其特征。"
+    }
+  },
+  "Metathelypteris hattori": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hattori's Maiden Fern",
+    "aliases": {
+      "zh-Hans": "服部金星蕨"
+    },
+    "ja": {
+      "summary": "ヨコグラヒメワラビ。ヒメシダ科の夏緑性シダ。柔らかい2回羽状の葉をもち、山地の湿った林床に生える。葉柄基部に鱗片がある。",
+      "habitat_hint": "山地の湿った落葉樹林の林床、沢沿い。",
+      "finding_tips": "初夏〜秋、柔らかく細かく切れ込んだシダの葉を探します。湿った林床を好む。"
+    },
+    "en": {
+      "summary": "A summer-green fern (Thelypteridaceae) with soft, twice-pinnate fronds, growing on moist forest floors in the hills; scales are present at the stipe base.",
+      "habitat_hint": "Moist deciduous forest floor and streamsides in the hills.",
+      "finding_tips": "Early summer to autumn, look for soft finely divided fern fronds; it favours damp forest floor."
+    },
+    "zh": {
+      "summary": "服部金星蕨（ヨコグラヒメワラビ）。金星蕨科的夏绿性蕨，叶柔软二回羽状，生于山地湿润林床，叶柄基部具鳞片。",
+      "habitat_hint": "山地湿润落叶林床及沟旁。",
+      "finding_tips": "初夏至秋寻找柔软而细裂的蕨叶，喜湿润林床。"
+    }
+  },
+  "Meteorium buchananii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Trailing Feather Moss",
+    "aliases": {
+      "zh-Hans": "小蔓藓"
+    },
+    "ja": {
+      "summary": "コハイヒモゴケ。ハイヒモゴケ科の樹幹着生蘚類。細長い茎が枝から垂れ下がり、乾くと葉が茎に密着する。ひも状に垂れる姿が特徴。",
+      "habitat_hint": "山地林の樹幹、枝上、湿潤な環境。",
+      "finding_tips": "一年を通して、樹幹や枝から垂れ下がる細いひも状のコケを探します。"
+    },
+    "en": {
+      "summary": "An epiphytic moss (Meteoriaceae) whose slender stems trail and hang from branches; the leaves press to the stem when dry, giving a thread-like drooping habit.",
+      "habitat_hint": "Trunks and branches in humid montane forest.",
+      "finding_tips": "Year-round, look for slender thread-like moss hanging from trunks and branches."
+    },
+    "zh": {
+      "summary": "小蔓藓（コハイヒモゴケ）。蔓藓科的树附生藓类，细长茎自枝条垂下，干燥时叶片贴茎，呈绳索状下垂。",
+      "habitat_hint": "山地林树干、枝条及湿润环境。",
+      "finding_tips": "全年可寻找自树干与枝条垂下的细绳状藓类。"
+    }
+  },
+  "Microscolex phosphoreus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Luminous Earthworm",
+    "aliases": {
+      "zh-Hans": "发光蚯蚓"
+    },
+    "ja": {
+      "summary": "ホタルミミズ。ツリミミズ科の小型ミミズ。刺激を受けると体表から青白い光を放つことで知られる。庭や畑の土中にすむ。",
+      "habitat_hint": "庭、畑、公園の土中、腐植質の多い土壌。",
+      "finding_tips": "秋〜冬、庭や畑の土を掘り、刺激すると青白く光る小さなミミズを探します。夜間に発光がわかりやすい。"
+    },
+    "en": {
+      "summary": "Luminous Earthworm. A small earthworm (Acanthodrilidae) famous for emitting a pale bluish light from its body surface when disturbed; it lives in garden and field soils.",
+      "habitat_hint": "Garden, field and park soil rich in humus.",
+      "finding_tips": "In autumn and winter, dig garden or field soil for small worms that glow bluish when disturbed; the light shows best at night."
+    },
+    "zh": {
+      "summary": "发光蚯蚓（ホタルミミズ）。链胃蚓科小型蚯蚓，受刺激时体表能发出青白色光，栖于庭园与田地土中。",
+      "habitat_hint": "庭园、农田、公园土中富含腐殖质的土壤。",
+      "finding_tips": "秋冬翻掘庭田土壤，寻找受扰后发青白光的小蚯蚓，夜间发光更明显。"
+    }
+  },
+  "Microtus montebelli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "日本田鼠"
+    },
+    "ja": {
+      "summary": "ハタネズミ。ネズミ科ハタネズミ属の小型の野ネズミ。日本固有で、体は褐色、尾は短い。畑や草地で植物の根や茎を食べ、地下に巣穴を掘る。",
+      "habitat_hint": "畑、草地、河川敷、耕作地周辺の地上・地下。",
+      "finding_tips": "草地や畑で、短い尾の丸っこいネズミや地表の巣穴・食痕を探します。昼夜活動する。"
+    },
+    "en": {
+      "summary": "Japanese Grass Vole. A small vole (Cricetidae) endemic to Japan, brown with a short tail; it eats plant roots and stems in fields and grassland and digs underground burrows.",
+      "habitat_hint": "Fields, grassland, riverbanks and farmland margins.",
+      "finding_tips": "In grassland and fields look for a round short-tailed rodent or surface burrows and feeding sign; active by day and night."
+    },
+    "zh": {
+      "summary": "日本田鼠（ハタネズミ）。仓鼠科田鼠属小型鼠，日本特有，体褐色、尾短，于田地草地取食植物根茎并掘地下巢穴。",
+      "habitat_hint": "农田、草地、河滩及耕地周边。",
+      "finding_tips": "于草地田间寻找短尾圆胖的鼠或地表巢穴与取食痕迹，昼夜均活动。"
+    }
+  },
+  "Mitra mitra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Episcopal Miter",
+    "aliases": {
+      "zh-Hans": "主教笔螺"
+    },
+    "ja": {
+      "summary": "チョウセンフデ。フデガイ科の大型の巻貝。白地に橙赤色の斑点が並ぶ細長い紡錘形の殻をもつ。熱帯の砂底にすみ、他の貝を捕食する。",
+      "habitat_hint": "熱帯〜亜熱帯のサンゴ礁周辺の砂底、潮下帯。",
+      "finding_tips": "干潮時の砂地で、白地に赤橙斑の細長い貝殻を探します。フデガイ類では最大級。"
+    },
+    "en": {
+      "summary": "Episcopal Miter. A large gastropod (Mitridae) with an elongate spindle-shaped shell, white with rows of orange-red spots; it lives on tropical sand and preys on other invertebrates.",
+      "habitat_hint": "Sandy bottoms around coral reefs in tropical to subtropical seas.",
+      "finding_tips": "At low tide on sand, look for the elongate white shell spotted orange-red; one of the largest miter shells."
+    },
+    "zh": {
+      "summary": "主教笔螺（チョウセンフデ）。笔螺科大型海螺，壳细长纺锤形，白底具成排橙红色斑点，栖于热带砂底，捕食其他无脊椎动物。",
+      "habitat_hint": "热带至亚热带珊瑚礁周边砂底潮下带。",
+      "finding_tips": "退潮时于砂地寻找白底橙红斑的细长贝壳，为笔螺类中最大者之一。"
+    }
+  },
+  "Mitra stictica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pontifical Miter",
+    "aliases": {
+      "zh-Hans": "锦缘笔螺"
+    },
+    "ja": {
+      "summary": "ニシキノキバフデ。フデガイ科の巻貝。細長い紡錘形の殻で、暗色地に白や橙の斑があり、殻口の縁に牙状の歯がある。熱帯の砂礫底にすむ。",
+      "habitat_hint": "熱帯〜亜熱帯のサンゴ礁周辺の砂礫底、潮下帯。",
+      "finding_tips": "干潮時の砂礫地で、殻口内縁に牙状の歯をもつ細長い貝を探します。"
+    },
+    "en": {
+      "summary": "Pontifical Miter. A miter shell (Mitridae) with an elongate spindle-shaped shell, dark with white and orange marks and tooth-like ridges inside the aperture; it lives on tropical sand and gravel.",
+      "habitat_hint": "Sand-gravel bottoms around coral reefs in tropical to subtropical seas.",
+      "finding_tips": "At low tide on sandy-gravel bottom, look for an elongate shell with tooth-like folds inside the aperture."
+    },
+    "zh": {
+      "summary": "锦缘笔螺（ニシキノキバフデ）。笔螺科海螺，壳细长纺锤形，暗底具白与橙斑，壳口内缘有牙状齿，栖于热带砂砾底。",
+      "habitat_hint": "热带至亚热带珊瑚礁周边砂砾底潮下带。",
+      "finding_tips": "退潮时于砂砾地寻找壳口内缘具牙状褶的细长贝。"
+    }
+  },
+  "Mnium heterophyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Various-leaved Thyme-moss",
+    "aliases": {
+      "zh-Hans": "异叶提灯藓"
+    },
+    "ja": {
+      "summary": "コチョウチンゴケ。チョウチンゴケ科の蘚類。楕円形の葉をもち、湿った林床や岩上に群生する。蒴が提灯状に垂れ下がるのがチョウチンゴケ類の特徴。",
+      "habitat_hint": "湿った林床、岩上、沢沿いの日陰。",
+      "finding_tips": "一年を通して、湿った林床の緑の群落と、垂れ下がる提灯状の蒴を探します。"
+    },
+    "en": {
+      "summary": "A moss (Mniaceae) with elliptic leaves, forming colonies on moist forest floors and rocks; the capsule hangs like a lantern, typical of the thyme-mosses.",
+      "habitat_hint": "Moist forest floor, rocks and shaded streamsides.",
+      "finding_tips": "Year-round, look for green mats on damp ground and the pendent lantern-like capsules."
+    },
+    "zh": {
+      "summary": "异叶提灯藓（コチョウチンゴケ）。提灯藓科藓类，叶椭圆形，群生于湿润林床与岩面，蒴下垂如灯笼为提灯藓类特征。",
+      "habitat_hint": "湿润林床、岩面及沟旁阴处。",
+      "finding_tips": "全年可于湿润地面寻找绿色藓丛与下垂的灯笼状蒴。"
+    }
+  },
+  "Monoplex nicobaricus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nicobar Triton",
+    "aliases": {
+      "zh-Hans": "尼柯巴嵌线螺"
+    },
+    "ja": {
+      "summary": "ミツカドボラ。フジツガイ科(オキニシ科)の巻貝。太い紡錘形の殻に太い縦張肋(バリックス)があり、殻口の縁が張り出す。熱帯の岩礁にすむ肉食性の貝。",
+      "habitat_hint": "熱帯〜亜熱帯のサンゴ礁、岩礁の潮下帯。",
+      "finding_tips": "干潮時の岩礁で、太い縦の隆起(張肋)をもつ紡錘形の貝を探します。肉食性。"
+    },
+    "en": {
+      "summary": "Nicobar Triton. A triton (Cymatiidae) with a stout spindle-shaped shell bearing thick axial varices and a flaring lip; a predatory snail of tropical reefs.",
+      "habitat_hint": "Coral reefs and rocky subtidal zones in tropical to subtropical seas.",
+      "finding_tips": "At low tide on reefs, look for a stout spindle shell with prominent raised axial ridges (varices); it is a predator."
+    },
+    "zh": {
+      "summary": "尼柯巴嵌线螺（ミツカドボラ）。嵌线螺科海螺，壳粗壮纺锤形，具粗纵张肋，壳口外唇外张，为热带礁区肉食性螺。",
+      "habitat_hint": "热带至亚热带珊瑚礁与岩礁潮下带。",
+      "finding_tips": "退潮时于礁区寻找具明显纵向隆起（张肋）的纺锤形贝，肉食性。"
+    }
+  },
+  "Morbakka virulenta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Box Jellyfish",
+    "aliases": {
+      "zh-Hans": "日本箱水母"
+    },
+    "ja": {
+      "summary": "ヒクラゲ。アンドンクラゲに近い箱虫綱のクラゲで、傘は角ばり、4本の触手をもつ。刺胞毒が強く、刺されると激しい痛みを生じるので注意。夏〜秋に沿岸で見られる。",
+      "habitat_hint": "内湾〜沿岸の表層水、夏〜秋の暖かい海。",
+      "finding_tips": "夏〜秋、透明で角ばった傘と細く伸びる触手をもつクラゲに注意。刺胞毒が強いので触れないこと。"
+    },
+    "en": {
+      "summary": "Japanese Box Jellyfish. A cubozoan with a squarish bell and four tentacles; its sting is potent and causes severe pain, so take care. Seen along the coast in summer and autumn.",
+      "habitat_hint": "Surface waters of bays and coasts in warm summer-to-autumn seas.",
+      "finding_tips": "From summer to autumn beware of a transparent squarish-belled jellyfish with long thin tentacles; do not touch — the sting is strong."
+    },
+    "zh": {
+      "summary": "日本箱水母（ヒクラゲ）。箱水母纲的水母，伞体呈方形，具四条触手，刺胞毒性强，蜇伤可致剧痛，须警惕。夏秋见于沿岸。",
+      "habitat_hint": "内湾至沿岸表层水，夏秋温暖海域。",
+      "finding_tips": "夏秋注意透明方形伞、触手细长的水母，勿触碰，刺胞毒性强。"
+    }
+  },
+  "Morchella elata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "尖顶羊肚菌"
+    },
+    "ja": {
+      "summary": "オオトガリアミガサタケ。アミガサタケ科の子嚢菌。円錐形で網目状の凹凸をもつ黒褐色の傘が特徴。春に発生し、加熱すれば食用になるが生食は不可。",
+      "habitat_hint": "春の林地、公園、庭の樹下、撹乱地。",
+      "finding_tips": "3〜5月、地上に立つ円錐形で網目状のスポンジのようなキノコを探します。黒褐色で尖るのが識別点。"
+    },
+    "en": {
+      "summary": "Black Morel. An ascomycete (Morchellaceae) with a conical, dark brown honeycombed cap; it fruits in spring and is edible when cooked but must never be eaten raw.",
+      "habitat_hint": "Spring woodland, parks, garden ground under trees and disturbed soil.",
+      "finding_tips": "From March to May look for a conical sponge-like cap standing on the ground; dark brown and pointed is diagnostic."
+    },
+    "zh": {
+      "summary": "尖顶羊肚菌（オオトガリアミガサタケ）。羊肚菌科子囊菌，菌盖圆锥形、黑褐色具网格状凹凸，春季发生，煮熟可食，忌生食。",
+      "habitat_hint": "春季林地、公园、庭园树下及扰动地。",
+      "finding_tips": "3至5月寻找立于地面的圆锥形海绵状真菌，黑褐而尖为辨识点。"
+    }
+  },
+  "Morula spinosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiny Drupe Snail",
+    "aliases": {
+      "zh-Hans": "刺荔枝螺"
+    },
+    "ja": {
+      "summary": "トゲレイシガイダマシ。アッキガイ科の小型の巻貝。殻表に短いとげ状の突起が並び、灰白色〜褐色をしている。岩礁で他の貝を捕食する。",
+      "habitat_hint": "岩礁海岸の潮間帯〜潮下帯。",
+      "finding_tips": "干潮時の岩礁で、殻表にとげが並ぶ小さな巻貝を探します。肉食性で潮だまりの岩に付く。"
+    },
+    "en": {
+      "summary": "A small predatory gastropod (Muricidae) with rows of short spiny knobs on a greyish to brown shell; it preys on other molluscs on rocky shores.",
+      "habitat_hint": "Rocky shores from intertidal to subtidal.",
+      "finding_tips": "At low tide on rocks, look for a small snail with rows of short spines on the shell; a predator found on tidepool rocks."
+    },
+    "zh": {
+      "summary": "刺荔枝螺（トゲレイシガイダマシ）。骨螺科小型海螺，壳面具成排短刺状突起，灰白至褐色，于岩礁捕食其他贝类。",
+      "habitat_hint": "岩岸潮间带至潮下带。",
+      "finding_tips": "退潮时于礁岩寻找壳面具成排短刺的小螺，肉食性，附于潮池岩石。"
+    }
+  },
+  "Mosla japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Mosla",
+    "aliases": {
+      "zh-Hans": "日本荠苎"
+    },
+    "ja": {
+      "summary": "ヤマジソ。シソ科イヌコウジュ属の一年草。全体に芳香があり、夏〜秋に淡紅紫色の小さな唇形花を穂状につける。日当たりのよい草地に生える。",
+      "habitat_hint": "日当たりのよい草地、道端、河原の砂礫地。",
+      "finding_tips": "8〜10月、淡紅紫色の小花の穂と、揉むと香る葉を探します。イヌコウジュに似るが小型。"
+    },
+    "en": {
+      "summary": "Japanese Mosla. An aromatic annual (Lamiaceae) bearing spikes of small pale pinkish-purple lipped flowers in late summer to autumn; it grows in sunny grassland.",
+      "habitat_hint": "Sunny grassland, roadsides and gravelly riverbanks.",
+      "finding_tips": "From August to October look for spikes of small pinkish flowers and aromatic leaves; smaller than the related Mosla punctulata."
+    },
+    "zh": {
+      "summary": "日本荠苎（ヤマジソ）。唇形科石荠苎属一年生草本，全株有香气，夏秋于穗上开淡紫红色小唇形花，生于向阳草地。",
+      "habitat_hint": "向阳草地、路旁及河滩砂砾地。",
+      "finding_tips": "8至10月寻找淡紫红色小花穗及揉之有香的叶片，较近缘种小型。"
+    }
+  },
+  "Muhlenbergia hakonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakone Muhly Grass",
+    "aliases": {
+      "zh-Hans": "箱根乱子草"
+    },
+    "ja": {
+      "summary": "タチネズミガヤ。イネ科ネズミガヤ属の多年草。細く直立する茎をもち、夏〜秋に細い円錐花序をつける。山地の林縁や草地に生える。",
+      "habitat_hint": "山地の林縁、道端、やや乾いた草地。",
+      "finding_tips": "8〜10月、細く直立した茎の先の細い花序を探します。ネズミガヤより直立性。"
+    },
+    "en": {
+      "summary": "A perennial grass (Poaceae) with slender erect stems and a narrow panicle in late summer to autumn; it grows on forest edges and grassland in the hills.",
+      "habitat_hint": "Forest edges, roadsides and somewhat dry grassland in the hills.",
+      "finding_tips": "From August to October look for a slender panicle atop upright thin stems; more erect than the related Muhlenbergia japonica."
+    },
+    "zh": {
+      "summary": "箱根乱子草（タチネズミガヤ）。禾本科乱子草属多年生草本，茎细直立，夏秋生细圆锥花序，生于山地林缘与草地。",
+      "habitat_hint": "山地林缘、路旁及略干草地。",
+      "finding_tips": "8至10月寻找细直茎顶的狭花序，较近缘种更直立。"
+    }
+  },
+  "Muscari armeniacum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ブドウムスカリ。キジカクシ科ムスカリ属の球根植物。春に濃青紫色の壺形の小花をブドウの房状に密につける。園芸植物として広く栽培される。",
+      "habitat_hint": "花壇、庭、公園の植栽、道端(栽培・逸出)。",
+      "finding_tips": "3〜4月、青紫色の小花がブドウの房のように密集した花序を探します。細い線形の葉をもつ。"
+    },
+    "en": {
+      "summary": "Garden Grape-hyacinth. A bulbous plant (Asparagaceae) bearing dense clusters of deep blue-purple urn-shaped flowers like a bunch of grapes in spring; widely grown ornamentally.",
+      "habitat_hint": "Flower beds, gardens, park plantings and roadsides (cultivated/escaped).",
+      "finding_tips": "In March–April look for dense grape-like clusters of blue-purple flowers above narrow linear leaves."
+    },
+    "zh": {
+      "summary": "葡萄风信子（ブドウムスカリ）。天门冬科蓝壶花属球根植物，春季密生深蓝紫色壶形小花如葡萄串，为广泛栽培的观赏花卉。",
+      "habitat_hint": "花坛、庭园、公园植栽及路旁（栽培或逸出）。",
+      "finding_tips": "3至4月寻找蓝紫色小花密集如葡萄串的花序，叶细长线形。"
+    }
+  },
+  "Musculus discors": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Discordant Mussel",
+    "aliases": {
+      "zh-Hans": "带偏顶蛤"
+    },
+    "ja": {
+      "summary": "ダイコクタマエガイ。イガイ科の小型の二枚貝。殻は膨らんだ卵形で、前後の部分に細かい放射肋があり中央はなめらか。岩や海藻に足糸で付着する。",
+      "habitat_hint": "岩礁や海藻の間、潮間帯〜潮下帯の付着環境。",
+      "finding_tips": "干潮時の岩や海藻の間で、前後に細い肋のある膨らんだ小さな二枚貝を探します。"
+    },
+    "en": {
+      "summary": "A small mussel (Mytilidae) with an inflated oval shell bearing fine radial ribs at each end and a smooth middle; it attaches to rock and seaweed by byssal threads.",
+      "habitat_hint": "Among rocks and seaweed from intertidal to subtidal.",
+      "finding_tips": "At low tide among rocks and weed, look for a small inflated bivalve with fine ribs at both ends."
+    },
+    "zh": {
+      "summary": "带偏顶蛤（ダイコクタマエガイ）。贻贝科小型双壳类，壳膨胀卵形，前后端具细放射肋而中部光滑，以足丝附着于岩石与海藻。",
+      "habitat_hint": "岩礁与海藻间，潮间带至潮下带附着环境。",
+      "finding_tips": "退潮时于岩石海藻间寻找前后具细肋的膨胀小型双壳。"
+    }
+  },
+  "Mya arenaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Soft-shell Clam",
+    "aliases": {
+      "zh-Hans": "砂海螂"
+    },
+    "ja": {
+      "summary": "オオノガイ。オオノガイ科の大型の二枚貝。殻は白色で楕円形、殻皮をかぶる。長い水管をもち、干潟や内湾の砂泥中に深く潜って暮らす。食用にもされる。",
+      "habitat_hint": "干潟、内湾の砂泥底、潮間帯〜浅い潮下帯。",
+      "finding_tips": "干潟の砂泥を掘ると見つかる。白い大きな殻と長い水管が特徴。潜る深さは深い。"
+    },
+    "en": {
+      "summary": "Soft-shell Clam. A large bivalve (Myidae) with a white oval shell covered by periostracum; it has a long siphon and burrows deep in tidal-flat and bay sediments. It is eaten as food.",
+      "habitat_hint": "Tidal flats and sandy-mud bottoms of bays, intertidal to shallow subtidal.",
+      "finding_tips": "Dig tidal-flat mud to find it; the large white shell and long siphon are characteristic, and it burrows deeply."
+    },
+    "zh": {
+      "summary": "砂海螂（オオノガイ）。海螂科大型双壳类，壳白椭圆并被壳皮，水管长，深埋于滩涂与内湾砂泥中，可供食用。",
+      "habitat_hint": "滩涂、内湾砂泥底，潮间带至浅潮下带。",
+      "finding_tips": "翻掘滩涂砂泥可得，白色大壳与长水管为其特征，潜埋较深。"
+    }
+  },
+  "Myadora fluctuosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wavy Watering-pot Clam",
+    "aliases": {
+      "zh-Hans": "波纹筒蛎蛤"
+    },
+    "ja": {
+      "summary": "ヒロカタビラガイ。カタビラガイ科の小型の二枚貝。左右の殻の形が異なり(左殻は平ら)、白色で表面に波状の成長脈がある。砂底にすむ。",
+      "habitat_hint": "沿岸の砂底、潮下帯。",
+      "finding_tips": "浜辺の打ち上げや砂底で、左右非対称で波状の成長脈をもつ白い小さな貝を探します。"
+    },
+    "en": {
+      "summary": "A small bivalve (Myochamidae) with unequal valves (the left flat), white with wavy growth lines on the surface; it lives on sandy bottoms.",
+      "habitat_hint": "Sandy coastal bottoms in the subtidal zone.",
+      "finding_tips": "In beach drift or on sand, look for a small white shell with unequal valves and wavy growth lines."
+    },
+    "zh": {
+      "summary": "波纹筒蛎蛤（ヒロカタビラガイ）。筒蛎蛤科小型双壳类，两壳不等（左壳扁平），白色而表面具波状生长纹，栖于砂底。",
+      "habitat_hint": "沿岸砂底潮下带。",
+      "finding_tips": "于海滩漂积或砂底寻找两壳不等、具波状生长纹的白色小贝。"
+    }
+  },
+  "Myriocoleopsis minutissima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiny Pouchwort",
+    "aliases": {
+      "zh-Hans": "小叶细鳞苔"
+    },
+    "ja": {
+      "summary": "マルバヒメクサリゴケ。クサリゴケ科の微小な苔類(タイ類)。樹皮や葉上に密着して薄い緑色の被膜をつくり、丸みを帯びた葉が鎖状に連なる。",
+      "habitat_hint": "湿った樹皮、常緑樹の葉上、岩上。",
+      "finding_tips": "ルーペで樹皮や葉の表面を観察し、丸い葉が鎖状に並ぶ微小な苔類を探します。"
+    },
+    "en": {
+      "summary": "A minute liverwort (Lejeuneaceae) that forms thin green films pressed to bark or leaves; its rounded leaves link in a chain-like pattern.",
+      "habitat_hint": "Moist bark, evergreen leaf surfaces and rocks.",
+      "finding_tips": "With a hand lens, examine bark and leaf surfaces for a tiny liverwort with rounded leaves in a chain."
+    },
+    "zh": {
+      "summary": "小叶细鳞苔（マルバヒメクサリゴケ）。细鳞苔科微小叶状苔类，紧贴树皮或叶面形成薄绿膜，圆钝小叶呈链状排列。",
+      "habitat_hint": "湿润树皮、常绿树叶面及岩面。",
+      "finding_tips": "以放大镜观察树皮与叶面，寻找圆叶链状排列的微小苔类。"
+    }
+  },
+  "Nagiella inferior": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lesser Four-spotted Grass Moth",
+    "aliases": {
+      "zh-Hans": "小四斑草螟"
+    },
+    "ja": {
+      "summary": "コヨツメノメイガ。ツトガ科ノメイガ亜科のガ。白っぽい翅に黒褐色の紋があり、名の通り小型。幼虫は植物の葉を巻いたり綴ったりして食べる。",
+      "habitat_hint": "草地、林縁、湿地周辺、河川敷。",
+      "finding_tips": "初夏〜秋、灯火や草むらで、白地に黒褐色の紋のある小さなガを探します。"
+    },
+    "en": {
+      "summary": "A grass moth (Crambidae, Pyraustinae) with whitish wings marked with dark brown spots; small, as its name says, its larva rolling or tying leaves to feed.",
+      "habitat_hint": "Grassland, forest edges, wetland margins and riverbanks.",
+      "finding_tips": "Early summer to autumn, look at lights and in grass for a small moth with dark brown spots on whitish wings."
+    },
+    "zh": {
+      "summary": "小四斑草螟（コヨツメノメイガ）。草螟科的蛾，翅白具黑褐色斑，体型小巧，幼虫卷叶或缀叶取食。",
+      "habitat_hint": "草地、林缘、湿地周边及河滩。",
+      "finding_tips": "初夏至秋于灯下或草丛寻找白底黑褐斑的小型蛾。"
+    }
+  },
+  "Nassarius albescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pale Nassa",
+    "aliases": {
+      "zh-Hans": "白织纹螺"
+    },
+    "ja": {
+      "summary": "アワムシロガイ。ムシロガイ科の小型の巻貝。殻は淡色で網目状の彫刻があり、砂底で腐肉などを食べる腐食性の貝。潮の引いた砂地に多い。",
+      "habitat_hint": "干潟、内湾の砂泥底、潮間帯〜潮下帯。",
+      "finding_tips": "干潮時の砂地で、網目彫刻のある淡色の小さな巻貝を探します。腐肉に集まる習性がある。"
+    },
+    "en": {
+      "summary": "A small scavenging gastropod (Nassariidae) with a pale, net-sculptured shell; it feeds on carrion on sandy bottoms and is common on exposed sand at low tide.",
+      "habitat_hint": "Tidal flats and sandy-mud bottoms of bays, intertidal to subtidal.",
+      "finding_tips": "At low tide on sand, look for a small pale snail with netted sculpture; it gathers at carrion."
+    },
+    "zh": {
+      "summary": "白织纹螺（アワムシロガイ）。织纹螺科小型海螺，壳淡色具网格状雕刻，于砂底取食腐肉，退潮砂地常见。",
+      "habitat_hint": "滩涂、内湾砂泥底，潮间带至潮下带。",
+      "finding_tips": "退潮时于砂地寻找具网格雕刻的淡色小螺，有聚集腐肉的习性。"
+    }
+  },
+  "Nassarius semisulcatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Half-grooved Nassa",
+    "aliases": {
+      "zh-Hans": "半沟织纹螺"
+    },
+    "ja": {
+      "summary": "アツムシロ。ムシロガイ科の小型の巻貝。殻は厚くやや太い紡錘形で、螺肋が発達する。砂泥底で腐肉を食べる腐食性の貝。",
+      "habitat_hint": "内湾の砂泥底、潮間帯〜潮下帯。",
+      "finding_tips": "干潮時の砂泥地で、厚くて螺肋の目立つ小さな巻貝を探します。腐肉に集まる。"
+    },
+    "en": {
+      "summary": "A small scavenging gastropod (Nassariidae) with a thick, rather stout spindle-shaped shell and well-developed spiral ribs; it feeds on carrion on muddy-sand bottoms.",
+      "habitat_hint": "Sandy-mud bottoms of bays, intertidal to subtidal.",
+      "finding_tips": "At low tide on muddy sand, look for a small thick snail with prominent spiral ribs; it gathers at carrion."
+    },
+    "zh": {
+      "summary": "半沟织纹螺（アツムシロ）。织纹螺科小型海螺，壳厚而略粗呈纺锤形，螺肋发达，于砂泥底取食腐肉。",
+      "habitat_hint": "内湾砂泥底，潮间带至潮下带。",
+      "finding_tips": "退潮时于砂泥地寻找壳厚、螺肋明显的小螺，聚集于腐肉。"
+    }
   }
 }
