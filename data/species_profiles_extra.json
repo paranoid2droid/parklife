@@ -266864,5 +266864,541 @@
       "habitat_hint": "林缘、草地、朽木、有伐木之林。",
       "finding_tips": "朽木或草上寻找被锈色细毛的褐色细长甲虫；仰翻时弹跳复位为特征。"
     }
+  },
+  "Alectoria ochroleuca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Witch's hair lichen",
+    "ja": {
+      "summary": "コガネキノリ。高山の風衝地や岩上、地上に生える樹状（フルティコース）の地衣。細い糸状の体が黄緑色に密に分枝して垂れ下がり、房状に広がる。寒冷な高山環境の指標となる。",
+      "habitat_hint": "高山の風衝地、岩上、砂礫地、寒冷な地表。",
+      "finding_tips": "高山の岩上や地表で、黄緑色の糸状に分枝する房状の地衣を探す。細い糸状の体が識別点。"
+    },
+    "en": {
+      "summary": "A fruticose (shrubby) lichen of alpine wind-exposed ground, rocks and soil; the slender thread-like body is yellow-green, densely branched and hanging in tufts. It indicates cold alpine conditions.",
+      "habitat_hint": "Alpine wind-exposed ground, rocks, gravel and cold soil.",
+      "finding_tips": "On alpine rock and ground look for a yellow-green thread-like lichen branching into tufts; the fine filaments are diagnostic."
+    },
+    "zh": {
+      "summary": "コガネキノリ。生于高山风衝地、岩面与地上的枝状地衣，丝状体黄绿色密分枝、成簇垂展，为寒冷高山环境的指示种。",
+      "habitat_hint": "高山风衝地、岩面、砂砾地、寒冷地表。",
+      "finding_tips": "高山岩面与地表寻找黄绿丝状分枝成簇之地衣；细丝状体为辨识点。"
+    }
+  },
+  "Allochroa layardi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Air-breathing salt-marsh snail",
+    "ja": {
+      "summary": "カシノメガイ。海岸の岩の隙間や塩性湿地、マングローブ周辺に生息するオカミミガイ科の小さな巻貝。空気呼吸をする有肺類で、殻は褐色の紡錘形。潮上帯の湿った岩や落葉の下に潜む。",
+      "habitat_hint": "海岸の潮上帯、岩の隙間、塩性湿地、マングローブ周辺。",
+      "finding_tips": "潮上帯の岩の隙間や落葉の下で、褐色の紡錘形の小さな巻貝を探す。空気呼吸をする陸寄りの貝。"
+    },
+    "en": {
+      "summary": "A small air-breathing (pulmonate) snail of coastal rock crevices, salt marshes and mangrove margins; the shell is a brown spindle shape, and it shelters under damp supratidal rocks and litter.",
+      "habitat_hint": "Supratidal zone, rock crevices, salt marshes and mangrove edges.",
+      "finding_tips": "In supratidal crevices and under litter look for a small brown spindle-shaped snail; it is an air-breather living near land."
+    },
+    "zh": {
+      "summary": "カシノメガイ。栖于海岸岩隙、盐沼与红树林周边的耳螺科小螺，为空气呼吸的有肺类，壳褐色纺锤形，藏于潮上带湿岩与落叶下。",
+      "habitat_hint": "海岸潮上带、岩隙、盐沼、红树林周边。",
+      "finding_tips": "潮上带岩隙与落叶下寻找褐色纺锤形小螺；近陆的空气呼吸贝类。"
+    }
+  },
+  "Allograpta javana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "オオヒメヒラタアブ。草地や花壇に見られるハナアブ科のアブ。腹部に黄色と黒の縞模様をもち、花の上でホバリングして蜜を吸う。幼虫はアブラムシを捕食する益虫。",
+      "habitat_hint": "草地、花壇、畑、公園の花のまわり。",
+      "finding_tips": "春〜秋、花の上でホバリングする黄黒縞のアブを探す。ハチに擬態するが刺さない。"
+    },
+    "en": {
+      "summary": "A hoverfly of grassland and flower beds; the abdomen is banded yellow and black and it hovers over flowers to feed on nectar. The larvae are beneficial aphid predators.",
+      "habitat_hint": "Grassland, flower beds, fields and park flowers.",
+      "finding_tips": "From spring to autumn look for a yellow-and-black fly hovering at flowers; it mimics a bee but does not sting."
+    },
+    "zh": {
+      "summary": "オオヒメヒラタアブ。见于草地花坛的食蚜蝇科蝇，腹部具黄黑条纹，于花上悬停吸蜜，幼虫捕食蚜虫为益虫。",
+      "habitat_hint": "草地、花坛、农田、公园花丛。",
+      "finding_tips": "春至秋于花上寻找悬停的黄黑纹蝇；拟蜂而不螫。"
+    }
+  },
+  "Amalda albocallosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ancilla snail",
+    "ja": {
+      "summary": "リュウグウホタル。沿岸の砂底に生息するマクラガイ科（アンシラ類）の巻貝。殻は光沢のある紡錘形で、白い滑層（カルス）が発達する。砂に潜って小動物を捕食する肉食性。",
+      "habitat_hint": "沿岸の潮下帯の砂底、内湾のやや深い砂地。",
+      "finding_tips": "砂底で光沢のある紡錘形の巻貝を探す。白い滑層が発達した殻口が識別点。"
+    },
+    "en": {
+      "summary": "An ancilla snail of coastal sand bottoms; the glossy spindle-shaped shell has a well-developed white callus, and it burrows in sand as a carnivore of small animals.",
+      "habitat_hint": "Subtidal sand bottoms and deeper sand of inner bays.",
+      "finding_tips": "On sand look for a glossy spindle-shaped snail; the well-developed white callus at the aperture is diagnostic."
+    },
+    "zh": {
+      "summary": "リュウグウホタル。栖于沿岸砂底的榧螺科（棱螺类）螺，壳光亮纺锤形、白色滑层发达，潜砂肉食小动物。",
+      "habitat_hint": "沿岸潮下带砂底、内湾较深砂地。",
+      "finding_tips": "砂底寻找光亮纺锤形螺；壳口白色滑层发达为辨识点。"
+    }
+  },
+  "Amanita excelsa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キリンタケ。夏〜秋に林内の地上に発生するテングタケ科のキノコ。傘は灰褐色でいぼ状の鱗片が散り、柄には環（つば）がある。有毒とされ、よく似た毒キノコも多いため食用は避けるべき。",
+      "habitat_hint": "広葉樹林、針葉樹林、混交林の地上。",
+      "finding_tips": "夏〜秋、林床で灰褐色にいぼ状鱗片が散る傘とつばのあるキノコを探す。有毒のため食べないこと。"
+    },
+    "en": {
+      "summary": "A mushroom (Amanita excelsa) fruiting on the ground in summer–autumn forests; the grey-brown cap is dotted with warty scales and the stem has a ring. It is regarded as toxic and, with many similar poisonous look-alikes, should not be eaten.",
+      "habitat_hint": "On the ground in broadleaf, conifer and mixed forest.",
+      "finding_tips": "In summer–autumn look for a grey-brown warty-scaled cap with a ringed stem; do not eat — it is toxic."
+    },
+    "zh": {
+      "summary": "キリンタケ（块鳞青毒伞）。夏秋发生于林内地上的鹅膏科菌，盖灰褐、散布疣状鳞片，柄具环。视为有毒，且多有相似毒菌，不宜食用。",
+      "habitat_hint": "阔叶林、针叶林、混交林地上。",
+      "finding_tips": "夏秋于林床寻找灰褐疣鳞盖、柄具环之菌；有毒勿食。"
+    }
+  },
+  "Amanita verna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fool's mushroom",
+    "aliases": {
+      "zh-Hans": "春生鹅膏"
+    },
+    "ja": {
+      "summary": "シロタマゴテングタケ。春〜秋に林内の地上に発生するテングタケ科のキノコ。全体が白く、傘・柄・つば・つぼをもつ。猛毒で、アマトキシンにより肝臓を破壊し、少量でも死に至る。日本で最も危険な毒キノコの一つ。",
+      "habitat_hint": "広葉樹林、針葉樹林、混交林の地上。",
+      "finding_tips": "林床で全体が真っ白な、つばとつぼをもつキノコを見たら猛毒を疑う。絶対に採取・摂食しないこと。"
+    },
+    "en": {
+      "summary": "Fool's mushroom (Amanita verna). An all-white mushroom fruiting on forest ground from spring to autumn, with cap, ring and volva. It is deadly poisonous — its amatoxins destroy the liver and even a small amount can kill. It is one of Japan's most dangerous fungi.",
+      "habitat_hint": "On the ground in broadleaf, conifer and mixed forest.",
+      "finding_tips": "On the forest floor, treat any pure-white mushroom with a ring and a cup-like volva as deadly; never pick or eat it."
+    },
+    "zh": {
+      "summary": "シロタマゴテングタケ（春生鹅膏）。春至秋发生于林内地上的鹅膏科菌，通体纯白，具盖、柄、环与菌托。剧毒，其鹅膏毒素破坏肝脏，少量即可致死，为日本最危险毒菌之一。",
+      "habitat_hint": "阔叶林、针叶林、混交林地上。",
+      "finding_tips": "林床见通体纯白、具环与杯状菌托之菌即应视为剧毒；切勿采食。"
+    }
+  },
+  "Ambulyx sericeipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hawk moth",
+    "ja": {
+      "summary": "アジアホソバスズメ。山地の広葉樹林に見られるスズメガ科の大型の蛾。前翅は細長く、褐色の地に淡色の斑や筋がある。夜行性で灯火に飛来する。幼虫はムクロジ科などの葉を食べる。",
+      "habitat_hint": "山地の広葉樹林、林縁、公園の樹林。",
+      "finding_tips": "夏の夜、灯火に来る前翅の細長い大きなスズメガを探す。褐色に淡色の斑をもつ翅が識別点。"
+    },
+    "en": {
+      "summary": "A large hawk moth of montane broadleaf forest; the elongate forewings are brown with pale marks and streaks. It is nocturnal and comes to lights, and the larvae feed on soapberry-family and other trees.",
+      "habitat_hint": "Montane broadleaf forest, edges and park groves.",
+      "finding_tips": "On summer nights look at lights for a large hawk moth with narrow forewings; the brown wings with pale marks are diagnostic."
+    },
+    "zh": {
+      "summary": "アジアホソバスズメ。见于山地阔叶林的天蛾科大型蛾，前翅细长、褐地具淡斑与纹，夜行趋光，幼虫食无患子科等叶。",
+      "habitat_hint": "山地阔叶林、林缘、公园林地。",
+      "finding_tips": "夏夜灯下寻找前翅细长的大天蛾；褐翅带淡斑为辨识点。"
+    }
+  },
+  "Ampithoe valida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amphipod",
+    "ja": {
+      "summary": "モズミヨコエビ。内湾や藻場の海藻の間に生息する小さな端脚類（ヨコエビの仲間）。体は側扁し、海藻を利用して巣（チューブ）をつくり、その中で暮らす。海藻を食べる。",
+      "habitat_hint": "内湾、藻場、海藻の茂る岩上、潮だまり。",
+      "finding_tips": "海藻の間で、側扁した小さなヨコエビを探す。海藻でつくった巣に潜む点が手がかり。"
+    },
+    "en": {
+      "summary": "A small amphipod living among seaweeds in bays and algal beds; the body is laterally flattened, and it builds and lives in a tube made from algae, feeding on the weed.",
+      "habitat_hint": "Inner bays, algal beds, weedy rocks and tide pools.",
+      "finding_tips": "Among seaweed look for a small side-flattened amphipod; the algae tube it hides in is a clue."
+    },
+    "zh": {
+      "summary": "モズミヨコエビ。栖于内湾与藻场海藻间的小型端足类，体侧扁，用海藻筑管而居、取食海藻。",
+      "habitat_hint": "内湾、藻场、多藻岩面、潮池。",
+      "finding_tips": "海藻间寻找侧扁的小端足类；藏于海藻管中为线索。"
+    }
+  },
+  "Amynthas agrestis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Asian jumping worm",
+    "ja": {
+      "summary": "ハタケミミズ。畑や林床、庭の土中に生息するフトミミズ科のミミズ。刺激を受けると激しく身をくねらせて跳ねるように動く。落葉や有機物を分解し、土壌を耕す。北米などに移入し問題となっている。",
+      "habitat_hint": "畑、林床、庭、腐植の多い湿った土中。",
+      "finding_tips": "落葉や土をめくって、刺激すると激しくくねって跳ねるミミズを探す。素早い動きが識別点。"
+    },
+    "en": {
+      "summary": "Asian jumping worm (Amynthas agrestis). An earthworm of fields, forest floors and garden soil; when disturbed it thrashes and springs about. It breaks down litter and organic matter, and has become an invasive problem in North America.",
+      "habitat_hint": "Fields, forest floor, gardens and humus-rich damp soil.",
+      "finding_tips": "Turn litter or soil to find a worm that thrashes violently and springs when touched; the rapid jumping motion is diagnostic."
+    },
+    "zh": {
+      "summary": "ハタケミミズ（蹦跳蚯蚓）。栖于农田、林床与庭园土中的巨蚓科蚯蚓，受激烈扭动如跳跃，分解落叶与有机物、翻耕土壤，在北美等地成入侵问题。",
+      "habitat_hint": "农田、林床、庭园、腐殖丰富的湿润土中。",
+      "finding_tips": "翻落叶或土寻找受触即剧烈扭跳的蚯蚓；快速跳动为辨识点。"
+    }
+  },
+  "Anacronicta plumbea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "ナマリケンモン。低地〜山地の林縁に見られるヤガ科の蛾。前翅は鉛色（青灰色）を帯び、暗色の紋をもつ。夜行性で灯火に飛来する。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、山地の広葉樹林。",
+      "finding_tips": "夏の夜、灯火に来る鉛色を帯びた蛾を探す。青灰色の前翅の色合いが識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth of lowland to montane forest edges; the forewings are leaden (blue-grey) with dark marks. It is nocturnal and comes to lights, and the larvae feed on broadleaf trees.",
+      "habitat_hint": "Forest edges, secondary woodland and montane broadleaf forest.",
+      "finding_tips": "On summer nights look at lights for a leaden-grey moth; the blue-grey forewing tone is diagnostic."
+    },
+    "zh": {
+      "summary": "ナマリケンモン。见于低地至山地林缘的夜蛾科蛾，前翅带铅色（青灰）、具暗斑，夜行趋光，幼虫食阔叶树叶。",
+      "habitat_hint": "林缘、杂木林、山地阔叶林。",
+      "finding_tips": "夏夜灯下寻找带铅色之蛾；青灰前翅色调为辨识点。"
+    }
+  },
+  "Anadara inaequivalvis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ark clam",
+    "ja": {
+      "summary": "クイチガイサルボウガイ。内湾や沿岸の砂泥底に生息するフネガイ科の二枚貝。殻には放射状の肋があり、左右の殻がわずかに食い違うのが名の由来。血リンパに赤い色素をもつ。",
+      "habitat_hint": "内湾、沿岸の砂泥底、干潟のやや深い場所。",
+      "finding_tips": "砂泥底で放射肋のある厚い二枚貝を探す。左右の殻がわずかに食い違う点が識別点。"
+    },
+    "en": {
+      "summary": "An ark clam of muddy-sand bottoms in bays and coastal waters; the shell bears radial ribs and the two valves are slightly offset (the source of its Japanese name). Its blood contains red pigment.",
+      "habitat_hint": "Muddy-sand bottoms of inner bays and coasts, deeper tidal flats.",
+      "finding_tips": "On muddy sand look for a thick radially ribbed bivalve; the slightly offset valves are diagnostic."
+    },
+    "zh": {
+      "summary": "クイチガイサルボウガイ。栖于内湾与沿岸砂泥底的蚶科双壳，壳具放射肋，左右壳略错位（和名之源），血液含红色素。",
+      "habitat_hint": "内湾、沿岸砂泥底、潮滩较深处。",
+      "finding_tips": "砂泥底寻找具放射肋的厚双壳；左右壳略错位为辨识点。"
+    }
+  },
+  "Anania lancealis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass moth",
+    "ja": {
+      "summary": "キイロノメイガ。林縁や草地に見られるツトガ科ノメイガ亜科の蛾。翅は淡黄色で、細い横線をもつ。夜行性で灯火に飛来する。幼虫は各種の草本の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、草地、公園の樹林周辺。",
+      "finding_tips": "夏の夜、灯火に来る淡黄色の蛾を探す。細い横線をもつ翅が識別点。"
+    },
+    "en": {
+      "summary": "A crambid moth of forest edges and grassland; the wings are pale yellow with fine cross-lines. It is nocturnal and comes to lights, and the larvae feed on various herbs.",
+      "habitat_hint": "Forest edges, secondary woodland, grassland and park groves.",
+      "finding_tips": "On summer nights look at lights for a pale-yellow moth; the fine cross-lines on the wings are diagnostic."
+    },
+    "zh": {
+      "summary": "キイロノメイガ。见于林缘与草地的草螟科野螟亚科蛾，翅淡黄具细横线，夜行趋光，幼虫食多种草本叶。",
+      "habitat_hint": "林缘、杂木林、草地、公园林地周边。",
+      "finding_tips": "夏夜灯下寻找淡黄色蛾；翅具细横线为辨识点。"
+    }
+  },
+  "Anapamea cuneatoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "カバマダラヨトウ。湿地や草地に見られるヤガ科の蛾。前翅は褐色でまだら模様をもつ。夜行性で灯火に飛来する。幼虫はイネ科やカヤツリグサ科などの草本を食べる。",
+      "habitat_hint": "湿地、草地、河川敷、水辺の草むら。",
+      "finding_tips": "夏の夜、湿地の環境で灯火に来る褐色のまだら模様の蛾を探す。前翅の斑が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth of wetlands and grassland; the forewings are brown and mottled. It is nocturnal and comes to lights, and the larvae feed on grasses and sedges.",
+      "habitat_hint": "Wetlands, grassland, riverbanks and waterside vegetation.",
+      "finding_tips": "On summer nights in wetland habitat look at lights for a mottled brown moth; the forewing pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "カバマダラヨトウ。见于湿地与草地的夜蛾科蛾，前翅褐色具斑驳，夜行趋光，幼虫食禾本科与莎草科草本。",
+      "habitat_hint": "湿地、草地、河滩、水边草丛。",
+      "finding_tips": "夏夜于湿地环境灯下寻找斑驳褐蛾；前翅斑纹为辨识点。"
+    }
+  },
+  "Andrena japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "ミツクリフシダカヒメハナバチ。春に活動するヒメハナバチ科の単独性のハナバチ。地面に穴を掘って巣をつくり、花粉と蜜を集めて幼虫を育てる。各種の花を訪れる送粉者。",
+      "habitat_hint": "日当たりのよい草地、林縁、土手、公園の花壇周辺。",
+      "finding_tips": "春、花のまわりや地面の巣穴で、体に花粉をつけた地味な色のハナバチを探す。単独で巣を掘る点が手がかり。"
+    },
+    "en": {
+      "summary": "A solitary mining bee active in spring; it digs nest burrows in the ground and provisions them with pollen and nectar to rear its larvae. It visits many flowers as a pollinator.",
+      "habitat_hint": "Sunny grassland, forest edges, banks and near flower beds.",
+      "finding_tips": "In spring around flowers and ground burrows look for a drab pollen-dusted bee; its solitary ground-nesting habit is a clue."
+    },
+    "zh": {
+      "summary": "ミツクリフシダカヒメハナバチ。春季活动的地花蜂科独居蜂，于地面掘穴筑巢，采集花粉与蜜育幼，为访多种花的传粉者。",
+      "habitat_hint": "向阳草地、林缘、土坡、公园花坛周边。",
+      "finding_tips": "春于花丛与地面巢穴寻找沾花粉的暗色蜂；独居掘地筑巢为线索。"
+    }
+  },
+  "Andrena kaguya": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "カグヤマメヒメハナバチ。春に活動するヒメハナバチ科の小さな単独性のハナバチ。地面に穴を掘って巣をつくる。体は小さく地味な色で、各種の花を訪れて花粉を集める。",
+      "habitat_hint": "日当たりのよい草地、林縁、土手、公園。",
+      "finding_tips": "春、花のまわりで体に花粉をつけた小さな地味なハナバチを探す。地面の巣穴が手がかり。"
+    },
+    "en": {
+      "summary": "A small solitary mining bee active in spring; it digs nest burrows in the ground. Small and drab, it visits many flowers to gather pollen.",
+      "habitat_hint": "Sunny grassland, forest edges, banks and parks.",
+      "finding_tips": "In spring around flowers look for a small drab pollen-dusted bee; ground burrows are a clue."
+    },
+    "zh": {
+      "summary": "カグヤマメヒメハナバチ。春季活动的地花蜂科小型独居蜂，于地面掘穴筑巢，体小色暗，访多种花采粉。",
+      "habitat_hint": "向阳草地、林缘、土坡、公园。",
+      "finding_tips": "春于花丛寻找沾花粉的暗色小蜂；地面巢穴为线索。"
+    }
+  },
+  "Andrena minutula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small mining bee",
+    "ja": {
+      "summary": "マメヒメハナバチ。春〜初夏に活動するヒメハナバチ科の非常に小さな単独性のハナバチ。地面に穴を掘って巣をつくる。体は黒っぽく小さく、各種の花を訪れる送粉者。",
+      "habitat_hint": "日当たりのよい草地、林縁、土手、公園の花のまわり。",
+      "finding_tips": "春、花の上で黒っぽい非常に小さなハナバチを探す。地面に単独で巣を掘る点が手がかり。"
+    },
+    "en": {
+      "summary": "A very small solitary mining bee active in spring to early summer; it digs nest burrows in the ground. Small and blackish, it visits many flowers as a pollinator.",
+      "habitat_hint": "Sunny grassland, forest edges, banks and near flowers in parks.",
+      "finding_tips": "In spring on flowers look for a very small blackish bee; its solitary ground-nesting habit is a clue."
+    },
+    "zh": {
+      "summary": "マメヒメハナバチ。春至初夏活动的地花蜂科极小型独居蜂，于地面掘穴筑巢，体小而黑，访多种花传粉。",
+      "habitat_hint": "向阳草地、林缘、土坡、公园花丛。",
+      "finding_tips": "春于花上寻找极小的黑色蜂；独居掘地筑巢为线索。"
+    }
+  },
+  "Aneura maxima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "ミズゼニゴケモドキ。湿った土上や岩上、水辺に生える葉状体のタイ類（スジゴケ科）。葉状体は厚みのある帯状で分枝し、緑色で光沢がある。清浄な湿潤環境を好む。",
+      "habitat_hint": "湿った土上、岩上、沢沿い、湧水地の水際。",
+      "finding_tips": "湿った土や岩の上で、厚みのある帯状に分枝する緑色の葉状体を探す。ミズゼニゴケに似る点が手がかり。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort of damp soil, rocks and watersides; the fleshy strap-like thallus branches and is glossy green. It favours clean moist conditions.",
+      "habitat_hint": "Damp soil, rocks, streamsides and spring-fed waters' edges.",
+      "finding_tips": "On damp soil and rock look for a fleshy strap-like branching green thallus resembling Pellia."
+    },
+    "zh": {
+      "summary": "ミズゼニゴケモドキ。生于湿土、岩面与水边的叶状苔类（绿片苔科），叶状体厚带状分枝、绿而有光，喜洁净湿润环境。",
+      "habitat_hint": "湿土、岩面、沟沿、涌泉水际。",
+      "finding_tips": "湿土与岩面寻找厚带状分枝的绿色叶体；似溪苔为线索。"
+    }
+  },
+  "Aneura pinguis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greasewort liverwort",
+    "ja": {
+      "summary": "ミドリゼニゴケ。湿った土上や岩上、水辺に生える葉状体のタイ類（スジゴケ科）。葉状体は厚く肉質で、光沢のある緑色をしている。北半球に広く分布する普通種。",
+      "habitat_hint": "湿った土上、岩上、沢沿い、湿地の水際。",
+      "finding_tips": "湿った場所で厚く肉質な光沢のある緑色の葉状体を探す。分枝する帯状の体が識別点。"
+    },
+    "en": {
+      "summary": "Greasewort (Aneura pinguis). A thalloid liverwort of damp soil, rocks and watersides; the thallus is thick and fleshy with a glossy green look. It is a common species widespread in the Northern Hemisphere.",
+      "habitat_hint": "Damp soil, rocks, streamsides and wetland margins.",
+      "finding_tips": "In damp spots look for a thick fleshy glossy-green thallus; the branching strap-like body is diagnostic."
+    },
+    "zh": {
+      "summary": "ミドリゼニゴケ。生于湿土、岩面与水边的叶状苔类（绿片苔科），叶状体厚肉质、绿而有光，为广布北半球的常见种。",
+      "habitat_hint": "湿土、岩面、沟沿、湿地水际。",
+      "finding_tips": "湿处寻找厚肉质光亮绿色叶体；分枝带状体为辨识点。"
+    }
+  },
+  "Anodontia edentula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lucine clam",
+    "ja": {
+      "summary": "カブラツキガイ。内湾や干潟の砂泥底に深く潜って生活するツキガイ科の二枚貝。殻はほぼ球形で白く、蕪（かぶ）のような丸みをもつ。硫化物のある還元環境で化学合成細菌と共生する。",
+      "habitat_hint": "内湾、干潟、マングローブ周辺の砂泥底。",
+      "finding_tips": "干潟の砂泥を深く掘って、白くほぼ球形の丸い二枚貝を探す。蕪のような殻形が識別点。"
+    },
+    "en": {
+      "summary": "A lucine clam that burrows deep in muddy-sand bottoms of bays and tidal flats; the nearly spherical white shell is turnip-round, and it hosts chemosynthetic bacteria in sulphide-rich reducing sediment.",
+      "habitat_hint": "Muddy-sand bottoms of bays, tidal flats and mangrove edges.",
+      "finding_tips": "Dig deep in tidal-flat mud to find a white nearly spherical clam; the turnip-round shell is diagnostic."
+    },
+    "zh": {
+      "summary": "カブラツキガイ。深埋于内湾与潮滩砂泥底的满月蛤科双壳，壳近球形而白、圆如芜菁，在富硫还原环境与化能合成细菌共生。",
+      "habitat_hint": "内湾、潮滩、红树林周边砂泥底。",
+      "finding_tips": "潮滩深掘砂泥寻找白色近球形圆蛤；芜菁状壳形为辨识点。"
+    }
+  },
+  "Anomodontopsis rugelii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "エゾイトゴケ。樹幹の基部や岩上、朽木に生えるヤナギゴケ類（イトヒバゴケ科）の蘚類。細い茎が這って不規則に分枝し、緑〜黄緑色のマットをつくる。やや湿った林内を好む。",
+      "habitat_hint": "樹幹の基部、岩上、朽木、湿った林内。",
+      "finding_tips": "樹幹の基部や岩上で、細い茎が這ってマット状に広がる緑色の蘚を探す。不規則な分枝が手がかり。"
+    },
+    "en": {
+      "summary": "A moss of tree bases, rocks and rotten wood; the slender creeping stems branch irregularly to form green to yellow-green mats. It favours somewhat damp forest interiors.",
+      "habitat_hint": "Tree bases, rocks, rotten wood and damp forest interiors.",
+      "finding_tips": "On tree bases and rock look for a green moss with slender creeping stems forming mats; the irregular branching is a clue."
+    },
+    "zh": {
+      "summary": "エゾイトゴケ。生于树基、岩面与朽木的藓类，细茎匍匐不规则分枝，成绿至黄绿色垫，喜稍湿林内。",
+      "habitat_hint": "树基、岩面、朽木、湿润林内。",
+      "finding_tips": "树基与岩面寻找细茎匍匐成垫的绿藓；不规则分枝为线索。"
+    }
+  },
+  "Anotylus mimulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove beetle",
+    "ja": {
+      "summary": "シワバネセスジハネカクシ。腐植や堆肥、動物の糞、朽木などに集まるハネカクシ科の小さな甲虫。上翅は短く腹部が露出し、上翅にしわ状の彫刻がある。分解者として働く。",
+      "habitat_hint": "腐植、堆肥、動物の糞、朽木、落葉の下。",
+      "finding_tips": "堆肥や腐植をめくって、上翅が短く腹部が露出する小さな甲虫を探す。しわ状の上翅が識別点。"
+    },
+    "en": {
+      "summary": "A small rove beetle gathering at humus, compost, dung and rotten wood; the short elytra leave the abdomen exposed and bear wrinkled sculpture. It functions as a decomposer.",
+      "habitat_hint": "Humus, compost, dung, rotten wood and under litter.",
+      "finding_tips": "Turn compost and humus to find a small beetle with short elytra exposing the abdomen; the wrinkled elytra are diagnostic."
+    },
+    "zh": {
+      "summary": "シワバネセスジハネカクシ。聚于腐殖、堆肥、动物粪与朽木的隐翅虫科小甲虫，鞘翅短、腹外露且具皱状雕刻，为分解者。",
+      "habitat_hint": "腐殖、堆肥、动物粪、朽木、落叶下。",
+      "finding_tips": "翻堆肥与腐殖寻找鞘翅短、腹外露的小甲虫；皱状鞘翅为辨识点。"
+    }
+  },
+  "Anterastria atrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "ビロードコヤガ。林縁や草地に見られるヤガ科コヤガ亜科の小さな蛾。前翅は黒褐色でビロード状の光沢をもつ。夜行性で灯火に飛来する。幼虫は地衣類などを食べる。",
+      "habitat_hint": "林縁、雑木林、草地、公園の樹林周辺。",
+      "finding_tips": "夏の夜、灯火に来る黒褐色でビロード状の光沢をもつ小さな蛾を探す。翅の質感が識別点。"
+    },
+    "en": {
+      "summary": "A small noctuid moth of forest edges and grassland; the forewings are blackish-brown with a velvety sheen. It is nocturnal and comes to lights, and the larvae feed on lichens.",
+      "habitat_hint": "Forest edges, secondary woodland, grassland and park groves.",
+      "finding_tips": "On summer nights look at lights for a small blackish-brown moth with a velvety sheen; the wing texture is diagnostic."
+    },
+    "zh": {
+      "summary": "ビロードコヤガ。见于林缘与草地的夜蛾科小蛾，前翅黑褐具天鹅绒般光泽，夜行趋光，幼虫食地衣。",
+      "habitat_hint": "林缘、杂木林、草地、公园林地周边。",
+      "finding_tips": "夏夜灯下寻找黑褐具绒光之小蛾；翅面质感为辨识点。"
+    }
+  },
+  "Anthriscus caucalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bur chervil",
+    "aliases": {
+      "zh-Hans": "刺果峨参"
+    },
+    "ja": {
+      "summary": "ノハラジャク。ヨーロッパ原産で道端や空き地に帰化したセリ科の一年草。細かく切れ込む羽状の葉をもち、初夏に白い小花を小さな散形花序につける。果実に鉤状のとげがあり衣服につく。",
+      "habitat_hint": "道端、空き地、河川敷、畑の周辺などの日当たりのよい場所。",
+      "finding_tips": "初夏、細かく切れ込む葉と白い小さな散形花序を探す。鉤状のとげのある小さな果実が識別点。"
+    },
+    "en": {
+      "summary": "Bur chervil (Anthriscus caucalis). An annual of the carrot family native to Europe and naturalised on roadsides and waste ground; it has finely divided pinnate leaves and small white umbels in early summer, and its fruit bears hooked bristles that cling to clothing.",
+      "habitat_hint": "Roadsides, waste ground, riverbanks and field margins.",
+      "finding_tips": "In early summer look for finely divided leaves and small white umbels; the hook-bristled fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "ノハラジャク（刺果峨参）。原产欧洲、逸生于路边空地的伞形科一年生草本，叶羽状细裂，初夏生白色小伞形花序，果具钩状刺、附着衣物。",
+      "habitat_hint": "路边、空地、河滩、田边等向阳处。",
+      "finding_tips": "初夏寻找细裂叶与白色小伞形花序；具钩刺的小果为辨识点。"
+    }
+  },
+  "Antidesma japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese antidesma",
+    "aliases": {
+      "zh-Hans": "日本五月茶"
+    },
+    "ja": {
+      "summary": "ヤマヒハツ。南日本の暖地の林内や林縁に生えるコミカンソウ科（旧トウダイグサ科）の常緑〜半常緑の低木〜小高木。革質の葉を互生し、雌雄異株で、雌株は総状に小さな果実をつけ、赤から黒紫色に熟す。",
+      "habitat_hint": "暖地の常緑広葉樹林の林内、林縁、渓谷沿い。",
+      "finding_tips": "革質で光沢のある互生の葉を探す。雌株の総状につく赤〜黒紫色の小果実が識別点。"
+    },
+    "en": {
+      "summary": "Japanese antidesma (Antidesma japonicum). An evergreen to semi-evergreen shrub or small tree of warm-region forests in southern Japan; it has leathery alternate leaves and is dioecious, the female bearing racemes of small fruit ripening from red to blackish-purple.",
+      "habitat_hint": "Interior and edges of warm-region evergreen forest and valleys.",
+      "finding_tips": "Look for leathery glossy alternate leaves; racemes of small red-to-blackish-purple fruit on female plants are diagnostic."
+    },
+    "zh": {
+      "summary": "ヤマヒハツ（日本五月茶）。生于南日本暖地林内与林缘的叶下珠科（旧大戟科）常绿至半常绿灌木或小乔木，叶革质互生，雌雄异株，雌株总状生小果、由红转黑紫。",
+      "habitat_hint": "暖地常绿阔叶林林内、林缘、溪谷沿。",
+      "finding_tips": "寻找革质光亮互生叶；雌株总状红转黑紫小果为辨识点。"
+    }
   }
 }
