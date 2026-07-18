@@ -267400,5 +267400,551 @@
       "habitat_hint": "暖地常绿阔叶林林内、林缘、溪谷沿。",
       "finding_tips": "寻找革质光亮互生叶；雌株总状红转黑紫小果为辨识点。"
     }
+  },
+  "Antrodia albida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bracket fungus",
+    "ja": {
+      "summary": "ヒメシロアミタケ。広葉樹の枯れ木や倒木に発生するタマチョレイタケ科のかたいキノコ。白〜クリーム色で背着〜半背着状に広がり、下面に細かい管孔が並ぶ。材の褐色腐朽を起こす。",
+      "habitat_hint": "広葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "枯れた広葉樹の材で、白っぽく管孔をもつかたいキノコを探す。背着状に広がる姿が識別点。"
+    },
+    "en": {
+      "summary": "A tough poroid bracket fungus on dead broadleaf wood; white to cream, it spreads flat to half-bracketed with fine pores beneath, and it causes brown rot of the wood.",
+      "habitat_hint": "Dead broadleaf wood, fallen logs and stumps.",
+      "finding_tips": "On dead broadleaf wood look for a whitish tough crust with fine pores; the flat-spreading habit is diagnostic."
+    },
+    "zh": {
+      "summary": "ヒメシロアミタケ。发生于阔叶枯木与倒木的多孔菌科硬菌，白至奶油色、平伏至半盖状铺展，下面具细孔，引起木材褐色腐朽。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "阔叶枯木上寻找白色具孔的硬菌；平伏铺展为辨识点。"
+    }
+  },
+  "Aphis gossypii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ワタアブラムシ。ワタ・ウリ類・多くの作物や園芸植物に付くアブラムシ科の小さな害虫。体は黄緑〜暗緑色で、新芽や葉裏に群がって汁を吸い、生育を妨げ、ウイルスを媒介する。",
+      "habitat_hint": "畑、花壇、庭、公園の草木の新芽や葉裏。",
+      "finding_tips": "春〜秋、ウリ類や園芸植物の新芽や葉裏で群がる小さなアブラムシを探す。黄緑〜暗緑の体色が手がかり。"
+    },
+    "en": {
+      "summary": "Melon aphid (Aphis gossypii). A small pest aphid attacking cotton, cucurbits and many crops and garden plants; yellow-green to dark green, it clusters on shoots and leaf undersides sucking sap, stunting growth and transmitting viruses.",
+      "habitat_hint": "Shoots and leaf undersides in fields, flower beds and gardens.",
+      "finding_tips": "From spring to autumn look on cucurbit and garden-plant shoots for clustered small aphids; the yellow-green to dark colour is a clue."
+    },
+    "zh": {
+      "summary": "ワタアブラムシ（棉蚜）。为害棉花、瓜类及众多作物与花卉的蚜科小型害虫，体黄绿至暗绿，群集嫩梢与叶背吸汁，阻碍生长并传播病毒。",
+      "habitat_hint": "农田、花坛、庭园、公园草木的嫩梢与叶背。",
+      "finding_tips": "春至秋于瓜类与花卉嫩梢叶背寻找群集小蚜；黄绿至暗绿体色为线索。"
+    }
+  },
+  "Apium graveolens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Celery",
+    "aliases": {
+      "zh-Hans": "旱芹"
+    },
+    "ja": {
+      "summary": "セロリ。地中海地方原産で野菜として広く栽培されるセリ科の二年草。太く多汁の葉柄を食用にする。独特の強い香りをもち、白い小花を複散形花序につける。逸出して水辺に生えることもある。",
+      "habitat_hint": "畑、家庭菜園、湿った空き地や水辺（逸出）。",
+      "finding_tips": "太く筋のある多汁の葉柄と、強い独特の香りを手がかりに探す。羽状の葉と白い小花が識別点。"
+    },
+    "en": {
+      "summary": "Celery (Apium graveolens). A biennial of the carrot family native to the Mediterranean and widely grown as a vegetable for its thick juicy leaf stalks. It has a strong distinctive scent and white flowers in compound umbels, and sometimes escapes to damp ground.",
+      "habitat_hint": "Fields, kitchen gardens and damp waste ground or watersides.",
+      "finding_tips": "Look for thick ribbed juicy leaf stalks with a strong distinctive smell; pinnate leaves and white umbels are diagnostic."
+    },
+    "zh": {
+      "summary": "セロリ（旱芹）。原产地中海、广作蔬菜栽培的伞形科二年生草本，食用其粗壮多汁叶柄，气味浓烈独特，白色小花成复伞形花序，偶逸生于湿地。",
+      "habitat_hint": "农田、家庭菜园、湿润空地或水边（逸生）。",
+      "finding_tips": "以粗壮多汁、气味浓烈的叶柄为线索；羽状叶与白色伞形花序为辨识点。"
+    }
+  },
+  "Apogon coccineus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ruby cardinalfish",
+    "ja": {
+      "summary": "コミナトテンジクダイ。南日本〜インド太平洋のサンゴ礁や岩礁に生息するテンジクダイ科の小さな魚。体は鮮やかな赤色で目が大きい。夜行性で、昼間は岩の隙間や洞に潜む。",
+      "habitat_hint": "浅いサンゴ礁・岩礁の岩の隙間、洞、礁池。",
+      "finding_tips": "岩の隙間や洞で赤くて目の大きな小さな魚を探す。夜に活動し、昼は隠れる点が手がかり。"
+    },
+    "en": {
+      "summary": "Ruby cardinalfish (Apogon coccineus). A small cardinalfish of coral and rocky reefs from southern Japan through the Indo-Pacific; bright red with large eyes, it is nocturnal and shelters in crevices and caves by day.",
+      "habitat_hint": "Crevices, caves and lagoons of shallow coral and rocky reefs.",
+      "finding_tips": "In crevices and caves look for a small bright-red fish with large eyes; it hides by day and feeds at night."
+    },
+    "zh": {
+      "summary": "コミナトテンジクダイ（红天竺鲷）。分布南日本至印度太平洋珊瑚礁与岩礁的天竺鲷科小鱼，体鲜红、眼大，夜行性，昼伏岩隙与洞穴。",
+      "habitat_hint": "浅珊瑚礁与岩礁的岩隙、洞穴、礁池。",
+      "finding_tips": "岩隙与洞穴寻找鲜红大眼小鱼；昼伏夜出为线索。"
+    }
+  },
+  "Apogonichthyoides sialis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cardinalfish",
+    "ja": {
+      "summary": "ヨコスジイシモチ。南日本の沿岸の岩礁や砂底に生息するテンジクダイ科の小さな魚。体には暗色の横帯があり、目が大きい。夜行性で、雄が口の中で卵を守る口内保育を行う。",
+      "habitat_hint": "沿岸の岩礁、砂底、内湾の浅場。",
+      "finding_tips": "岩礁や砂底で暗色の横帯をもつ目の大きな小さな魚を探す。横帯の模様が識別点。"
+    },
+    "en": {
+      "summary": "A cardinalfish of coastal reefs and sand in southern Japan; the body bears dark cross-bars and large eyes. It is nocturnal, and the male mouth-broods the eggs.",
+      "habitat_hint": "Coastal rocky reefs, sand bottoms and shallow inner bays.",
+      "finding_tips": "On reefs and sand look for a small large-eyed fish with dark cross-bars; the barred pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "ヨコスジイシモチ。栖于南日本沿岸岩礁与砂底的天竺鲷科小鱼，体具暗色横带、眼大，夜行性，雄鱼口孵护卵。",
+      "habitat_hint": "沿岸岩礁、砂底、内湾浅处。",
+      "finding_tips": "岩礁与砂底寻找具暗横带的大眼小鱼；横带纹为辨识点。"
+    }
+  },
+  "Appasus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese giant water bug",
+    "aliases": {
+      "zh-Hans": "负子蝽"
+    },
+    "ja": {
+      "summary": "コオイムシ。池沼や水田、湿地に生息するコオイムシ科の水生カメムシ。雄が背中に卵を背負って守るのが名の由来。前脚は鎌状で、小魚やオタマジャクシ、水生昆虫を捕らえて体液を吸う。",
+      "habitat_hint": "池沼、水田、休耕田、湿地などの止水。",
+      "finding_tips": "初夏、止水で背中に卵を背負った水生カメムシを探す。鎌状の前脚と扁平な体が識別点。"
+    },
+    "en": {
+      "summary": "Japanese giant water bug (Appasus japonicus). An aquatic bug of ponds, paddies and wetlands; the male carries and guards the eggs on his back, the source of its Japanese name. Its sickle-like forelegs seize small fish, tadpoles and insects to suck their fluids.",
+      "habitat_hint": "Still water of ponds, paddies, fallow fields and wetlands.",
+      "finding_tips": "In early summer in still water look for a water bug carrying eggs on its back; the sickle forelegs and flat body are diagnostic."
+    },
+    "zh": {
+      "summary": "コオイムシ（负子蝽）。栖于池沼、稻田与湿地的负子蝽科水生蝽，雄虫背负卵护之（和名之源），前足镰状，捕小鱼、蝌蚪与水生昆虫吸食体液。",
+      "habitat_hint": "池沼、稻田、休耕田、湿地等静水。",
+      "finding_tips": "初夏于静水寻找背负卵之水蝽；镰状前足与扁平体为辨识点。"
+    }
+  },
+  "Aquilonastra batheri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea star",
+    "ja": {
+      "summary": "ヌノメイトマキヒトデ。潮間帯〜浅海の岩礁や転石の下に生息する小さなヒトデ。体は五角形〜星形で、表面に布目のような細かい模様がある。岩上の微小な有機物などを食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石の下、潮だまり。",
+      "finding_tips": "干潮時、転石をめくって布目模様のある小さなヒトデを探す。五角形〜星形の体が識別点。"
+    },
+    "en": {
+      "summary": "A small sea star of intertidal to shallow reefs found under boulders; the pentagonal to star-shaped body has a fine cloth-weave-like surface texture, and it feeds on fine organic matter on rock.",
+      "habitat_hint": "Intertidal to shallow reefs, under boulders and tide pools.",
+      "finding_tips": "At low tide turn boulders to find a small star with a cloth-weave surface; the pentagonal to star shape is diagnostic."
+    },
+    "zh": {
+      "summary": "ヌノメイトマキヒトデ。栖于潮间带至浅海岩礁与砾石下的小型海星，体五角至星形、表面具布纹状细纹，取食岩面微小有机物。",
+      "habitat_hint": "潮间带至浅海岩礁、砾石下、潮池。",
+      "finding_tips": "退潮时翻石寻找具布纹的小海星；五角至星形体为辨识点。"
+    }
+  },
+  "Arachis hypogaea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peanut",
+    "aliases": {
+      "zh-Hans": "落花生"
+    },
+    "ja": {
+      "summary": "ナンキンマメ。南アメリカ原産で食用に広く栽培されるマメ科の一年草。黄色い蝶形花のあと、受精した子房の柄が地中に伸びて、地下で莢（さや）を実らせる。落花生・ピーナッツとして種子を食用にする。",
+      "habitat_hint": "畑、家庭菜園、砂質のよく耕された土。",
+      "finding_tips": "羽状複葉と黄色い蝶形花を探す。花のあと子房柄が地面に潜り、地下で実る独特の習性が識別点。"
+    },
+    "en": {
+      "summary": "Peanut (Arachis hypogaea). An annual legume native to South America and widely cultivated for food; after the yellow pea flowers, the fertilised ovary stalk pushes into the soil to ripen its pods underground. Its seeds are eaten as peanuts.",
+      "habitat_hint": "Fields, kitchen gardens and well-worked sandy soil.",
+      "finding_tips": "Look for pinnate leaves and yellow pea flowers; the ovary stalk burrowing into the ground to fruit underground is diagnostic."
+    },
+    "zh": {
+      "summary": "ナンキンマメ（落花生）。原产南美、广作食用栽培的豆科一年生草本，黄色蝶形花后受精子房柄入土、于地下结荚，种子即花生。",
+      "habitat_hint": "农田、家庭菜园、砂质耕作土。",
+      "finding_tips": "寻找羽状复叶与黄色蝶形花；花后子房柄入土、地下结实之习性为辨识点。"
+    }
+  },
+  "Arachniodes blinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fern",
+    "ja": {
+      "summary": "ホソコバカナワラビ。暖地の林内や林縁に生えるオシダ科のシダ。硬く光沢のある葉を数回羽状に分け、小羽片の縁にとげ状の鋸歯がある。常緑で林床を覆う。",
+      "habitat_hint": "暖地の常緑広葉樹林の林内、林縁、谷沿い。",
+      "finding_tips": "林床で硬く光沢のある数回羽状のシダを探す。小羽片の縁のとげ状鋸歯が識別点。"
+    },
+    "en": {
+      "summary": "A fern of warm-region forests and edges; the stiff glossy fronds are several times pinnate, with spine-tipped teeth along the pinnule margins. It is evergreen and carpets the forest floor.",
+      "habitat_hint": "Warm-region evergreen forest interiors, edges and valleys.",
+      "finding_tips": "On the forest floor look for a stiff glossy several-times-pinnate fern; spine-tipped marginal teeth are diagnostic."
+    },
+    "zh": {
+      "summary": "ホソコバカナワラビ（粗齿黔蕨）。生于暖地林内与林缘的鳞毛蕨科蕨，叶硬而光亮、数回羽状，小羽片缘具刺状锯齿，常绿覆盖林床。",
+      "habitat_hint": "暖地常绿阔叶林林内、林缘、谷沿。",
+      "finding_tips": "林床寻找硬亮数回羽状之蕨；小羽片缘刺状锯齿为辨识点。"
+    }
+  },
+  "Archidium ohioense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ミヤコノツチゴケ。裸地や畑、道端の湿った土上に生える小さな蘚類（ツチゴケ科）。緑色の小さな群落をつくり、比較的大きな胞子を少数つくるのが特徴。都市周辺の人為的環境でも見られる。",
+      "habitat_hint": "裸地、畑、道端、土手などの湿った土上。",
+      "finding_tips": "湿った裸地で緑色の小さな蘚の群落を探す。ルーペで見る比較的大きな胞子が手がかり。"
+    },
+    "en": {
+      "summary": "A small moss of bare soil, fields and damp roadside ground; it forms small green patches and characteristically produces a few relatively large spores. It occurs even in disturbed urban settings.",
+      "habitat_hint": "Bare soil, fields, roadsides and banks on damp ground.",
+      "finding_tips": "On damp bare soil look for small green moss patches; the relatively large spores seen under a lens are a clue."
+    },
+    "zh": {
+      "summary": "ミヤコノツチゴケ。生于裸地、农田与路边湿土的小型藓类（土藓科），成绿色小丛，特征为产少数较大孢子，亦见于城郊人为环境。",
+      "habitat_hint": "裸地、农田、路边、土坡等湿土。",
+      "finding_tips": "湿裸地寻找绿色小藓丛；镜下较大孢子为线索。"
+    }
+  },
+  "Archiphysalis chamaesarachoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマホオズキ。山地の林内や林縁に生えるナス科の多年草。ホオズキに似て、花のあと萼が袋状に膨らんで果実を包む。淡黄色の花を咲かせ、果実は赤く熟す。ナス科のため生食は避ける。",
+      "habitat_hint": "山地の落葉樹林の林内、林縁、やや湿った場所。",
+      "finding_tips": "夏、林内で淡黄色の花と、袋状に膨らむ萼を探す。ホオズキに似るが山地に生える点が手がかり。"
+    },
+    "en": {
+      "summary": "A perennial nightshade of montane forests and edges; like a Chinese lantern, its calyx inflates into a papery husk enclosing the fruit after flowering. The pale-yellow flowers give way to red fruit. As a nightshade, avoid eating it raw.",
+      "habitat_hint": "Montane deciduous forest interiors, edges and damp spots.",
+      "finding_tips": "In summer in forest look for pale-yellow flowers and an inflating papery calyx; its montane habitat separates it from garden lanterns."
+    },
+    "zh": {
+      "summary": "ヤマホオズキ（广西地海椒）。生于山地林内与林缘的茄科多年生草本，似酸浆，花后萼膨大成囊包果，花淡黄、果红熟。属茄科，勿生食。",
+      "habitat_hint": "山地落叶林林内、林缘、稍湿处。",
+      "finding_tips": "夏于林内寻找淡黄花与膨大成囊之萼；生于山地为线索。"
+    }
+  },
+  "Archips ingentana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "オオアトキハマキ。林縁や雑木林に見られるハマキガ科の蛾。前翅は褐色で網目状や帯状の模様をもち、静止時に翅を屋根形にたたむ。幼虫は各種の広葉樹の葉を綴って食べる。",
+      "habitat_hint": "林縁、雑木林、果樹園、公園の樹林。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る褐色で網目模様の蛾を探す。屋根形の静止姿勢が手がかり。"
+    },
+    "en": {
+      "summary": "A tortrix moth of forest edges and woodland; the brown forewings bear net-like or banded marks and it folds its wings roof-like at rest. The larvae feed within tied leaves of various broadleaf trees.",
+      "habitat_hint": "Forest edges, woodland, orchards and park groves.",
+      "finding_tips": "On early-summer nights look at lights for a brown net-marked moth; the roof-like resting posture is a clue."
+    },
+    "zh": {
+      "summary": "オオアトキハマキ。见于林缘与杂木林的卷蛾科蛾，前翅褐色具网状或带状纹，静止时翅呈屋脊状，幼虫缀多种阔叶树叶取食。",
+      "habitat_hint": "林缘、杂木林、果园、公园林地。",
+      "finding_tips": "初夏至夏夜灯下寻找褐色网纹蛾；屋脊状静止姿为线索。"
+    }
+  },
+  "Arcyria obvelata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キウツボホコリ。朽木や倒木、落枝の上に発生する変形菌（粘菌）の一種。細い柄の上に円筒形の子実体をつけ、成熟すると黄色い綿状の胞子塊（毛体）が長く伸びて垂れる。",
+      "habitat_hint": "湿った朽木、倒木、落枝の樹皮上。",
+      "finding_tips": "梅雨〜夏、湿った朽木で黄色い綿状に長く伸びる子実体を探す。ルーペで見る網目状の毛体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould fruiting on rotten wood, logs and fallen branches; slender stalks bear cylindrical fruit bodies that, on maturing, expand into long dangling yellow cottony spore masses.",
+      "habitat_hint": "Damp rotten wood, logs and fallen-branch bark.",
+      "finding_tips": "In the rainy season to summer on damp dead wood look for long yellow cottony fruit bodies; the netted elater mesh under a lens is diagnostic."
+    },
+    "zh": {
+      "summary": "キウツボホコリ（黄垂网菌）。发生于朽木、倒木与落枝的黏菌，细柄上生圆筒形子实体，成熟时膨为长而下垂的黄色棉絮状孢丝团。",
+      "habitat_hint": "湿润朽木、倒木、落枝树皮上。",
+      "finding_tips": "梅雨至夏于湿朽木寻找黄色棉絮状伸长之子实体；镜下网状孢丝为辨识点。"
+    }
+  },
+  "Arisaema iyoanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cobra lily",
+    "ja": {
+      "summary": "オモゴウテンナンショウ（シコクテンナンショウ）。四国の山地の林内に生えるサトイモ科の多年草。仏炎苞に包まれた棒状の花序（付属体）をもつテンナンショウの仲間。全草にシュウ酸カルシウムを含み有毒。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、谷沿いの湿った場所。",
+      "finding_tips": "春〜初夏、林床で仏炎苞に包まれた花序をもつ草を探す。有毒なので口にしないこと。"
+    },
+    "en": {
+      "summary": "A cobra lily (Arisaema iyoanum) of montane forests in Shikoku; like other Arisaema it has a rod-like spadix wrapped in a hooded spathe. The whole plant contains calcium oxalate and is toxic.",
+      "habitat_hint": "Montane forest floor, edges and damp valley sides.",
+      "finding_tips": "In spring–early summer on the forest floor look for a hooded spathe enclosing a spadix; it is toxic — do not eat it."
+    },
+    "zh": {
+      "summary": "オモゴウテンナンショウ（四国天南星）。生于四国山地林内的天南星科多年生草本，具佛焰苞包裹的棒状花序，与他种天南星同含草酸钙、有毒。",
+      "habitat_hint": "山地落叶林林床、林缘、谷沿湿处。",
+      "finding_tips": "春至初夏于林床寻找佛焰苞包裹花序之草；有毒勿食。"
+    }
+  },
+  "Arisaema sikokianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snow-cake cobra lily",
+    "aliases": {
+      "zh-Hans": "雪饼草"
+    },
+    "ja": {
+      "summary": "ユキモチソウ。四国・近畿の山地の林内に生えるサトイモ科の多年草。仏炎苞は暗紫色で、中心の花序付属体の先が白く餅のようにふくらむのが名の由来。観賞価値が高いが全草に毒がある。",
+      "habitat_hint": "山地の落葉樹林の林床、やや湿った谷沿い。",
+      "finding_tips": "春、林床で暗紫色の仏炎苞と、中心の白く丸い付属体をもつ草を探す。白い餅状の突起が識別点。有毒。"
+    },
+    "en": {
+      "summary": "Snow-cake cobra lily (Arisaema sikokianum). A cobra lily of montane forests in Shikoku and Kinki; the spathe is dark purple and the tip of the central spadix appendage swells white like a rice cake, the source of its name. It is prized ornamentally but the whole plant is toxic.",
+      "habitat_hint": "Montane forest floor and damp valley sides.",
+      "finding_tips": "In spring on the forest floor look for a dark-purple spathe with a rounded white central appendage; the white rice-cake knob is diagnostic. Toxic."
+    },
+    "zh": {
+      "summary": "ユキモチソウ（雪饼草）。生于四国、近畿山地林内的天南星科多年生草本，佛焰苞暗紫，中央花序附属体先端白而膨圆如饼（名之源），观赏价值高但全株有毒。",
+      "habitat_hint": "山地落叶林林床、稍湿谷沿。",
+      "finding_tips": "春于林床寻找暗紫佛焰苞与中央白色圆膨附属体；白饼状突起为辨识点；有毒。"
+    }
+  },
+  "Arisaema ternatipartitum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cobra lily",
+    "ja": {
+      "summary": "ミツバテンナンショウ。本州の山地の林内に生えるサトイモ科の多年草。葉が3枚の小葉に分かれるのが名の由来。仏炎苞に包まれた棒状の花序をもつ。全草にシュウ酸カルシウムを含み有毒。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、谷沿いの湿った場所。",
+      "finding_tips": "春〜初夏、林床で3枚の小葉に分かれる葉と仏炎苞の花序をもつ草を探す。三出する葉が識別点。有毒。"
+    },
+    "en": {
+      "summary": "A cobra lily (Arisaema ternatipartitum) of montane forests in Honshu; the leaf divides into three leaflets, the source of its Japanese name. It has a rod-like spadix in a hooded spathe, and the whole plant contains calcium oxalate and is toxic.",
+      "habitat_hint": "Montane forest floor, edges and damp valley sides.",
+      "finding_tips": "In spring–early summer look for a leaf split into three leaflets and a hooded spathe; the trifoliate leaf is diagnostic. Toxic."
+    },
+    "zh": {
+      "summary": "ミツバテンナンショウ。生于本州山地林内的天南星科多年生草本，叶三出（和名之源），具佛焰苞包裹的棒状花序，全株含草酸钙、有毒。",
+      "habitat_hint": "山地落叶林林床、林缘、谷沿湿处。",
+      "finding_tips": "春至初夏于林床寻找三出叶与佛焰苞花序；三出叶为辨识点；有毒。"
+    }
+  },
+  "Arnica unalaschcensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Arnica",
+    "ja": {
+      "summary": "エゾウサギギク。北日本の高山や寒冷地の草地に生えるキク科の多年草。茎の先に黄色い頭花を1個つけ、対生の葉をもつ。ウサギの耳のような葉の形が名の由来とされる。",
+      "habitat_hint": "高山・亜高山の草地、寒冷地の明るい斜面。",
+      "finding_tips": "夏、高山の草地で茎の先に黄色い頭花を1個つける草を探す。対生の葉が識別点。"
+    },
+    "en": {
+      "summary": "An arnica (Arnica unalaschcensis) of alpine and cold-region grassland in northern Japan; a single yellow flower head tops the stem and the leaves are opposite. Its ear-like leaves are said to give the Japanese name (\"hare's flower\").",
+      "habitat_hint": "Alpine and subalpine grassland and cold bright slopes.",
+      "finding_tips": "In summer on alpine grassland look for a stem topped by a single yellow flower head; the opposite leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "エゾウサギギク。生于北日本高山与寒地草地的菊科多年生草本，茎顶生一枚黄色头状花，叶对生，叶形似兔耳而得和名。",
+      "habitat_hint": "高山、亚高山草地，寒地明亮坡地。",
+      "finding_tips": "夏于高山草地寻找茎顶单生黄色头花之草；叶对生为辨识点。"
+    }
+  },
+  "Arothron reticularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Reticulated pufferfish",
+    "aliases": {
+      "zh-Hans": "网纹叉鼻鲀"
+    },
+    "ja": {
+      "summary": "ワモンフグ。南日本〜インド太平洋の河口や内湾の砂泥底に分布するフグ科の魚。体には白い網目状・輪状の模様があり、危険を感じると体を膨らませる。皮膚や内臓に毒をもつため食用は危険。",
+      "habitat_hint": "河口、内湾、汽水域の砂泥底、浅い岩礁。",
+      "finding_tips": "河口や内湾で白い網目・輪状模様をもつフグを探す。毒をもつため素手で扱わず食べないこと。"
+    },
+    "en": {
+      "summary": "Reticulated pufferfish (Arothron reticularis). A pufferfish of estuaries and inner bays from southern Japan through the Indo-Pacific; the body bears white net-like and ring markings and it inflates when threatened. Its skin and organs are toxic, so it is dangerous to eat.",
+      "habitat_hint": "Muddy-sand bottoms of estuaries, bays and shallow reefs.",
+      "finding_tips": "In estuaries and bays look for a puffer with white netted ring markings; it is toxic — do not handle or eat it."
+    },
+    "zh": {
+      "summary": "ワモンフグ（网纹叉鼻鲀）。分布南日本至印度太平洋河口与内湾砂泥底的鲀科鱼，体具白色网纹与环纹，受威胁鼓身，皮肤与内脏有毒、食用危险。",
+      "habitat_hint": "河口、内湾、半咸水砂泥底、浅岩礁。",
+      "finding_tips": "河口内湾寻找具白色网纹环纹之鲀；有毒，勿徒手处理或食用。"
+    }
+  },
+  "Artemisia arctica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Arctic wormwood",
+    "ja": {
+      "summary": "サマニヨモギ。北日本の高山や海岸の礫地に生えるキク科の多年草。羽状に細かく切れ込む葉をもち、独特の香りがある。茎の先に黄色い小さな頭花を穂状につける。寒冷地の植物。",
+      "habitat_hint": "高山の草地・礫地、海岸の礫地、寒冷地の明るい場所。",
+      "finding_tips": "夏、高山や海岸の礫地で羽状に切れ込む香りのある葉をもつ草を探す。黄色い小さな頭花が手がかり。"
+    },
+    "en": {
+      "summary": "Arctic wormwood (Artemisia arctica). A perennial of the daisy family on alpine and coastal gravel in northern Japan; it has finely pinnately divided aromatic leaves and small yellow flower heads in a spike. It is a cold-region plant.",
+      "habitat_hint": "Alpine grassland and gravel, coastal gravel and cold sites.",
+      "finding_tips": "In summer on alpine or coastal gravel look for a plant with finely divided aromatic leaves; small yellow flower heads are a clue."
+    },
+    "zh": {
+      "summary": "サマニヨモギ（北极蒿）。生于北日本高山与海岸砾地的菊科多年生草本，叶羽状细裂、具特殊香气，茎顶穗状生黄色小头花，为寒地植物。",
+      "habitat_hint": "高山草地砾地、海岸砾地、寒地明亮处。",
+      "finding_tips": "夏于高山或海岸砾地寻找羽裂芳香叶之草；黄色小头花为线索。"
+    }
+  },
+  "Artemisia gmelinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gmelin's wormwood",
+    "aliases": {
+      "zh-Hans": "岩蒿"
+    },
+    "ja": {
+      "summary": "イワヨモギ。山地の岩場や乾いた斜面に生えるキク科の多年草〜半低木。羽状に細かく切れ込む葉をもち、ヨモギ特有の香りがある。秋に黄色っぽい小さな頭花を多数つける。",
+      "habitat_hint": "山地の岩場、乾いた斜面、河原の礫地。",
+      "finding_tips": "岩場や乾いた斜面で羽状に細かく切れ込む香りのある葉をもつ草を探す。木質化する茎の基部が手がかり。"
+    },
+    "en": {
+      "summary": "Gmelin's wormwood (Artemisia gmelinii). A perennial to subshrub of the daisy family on montane rocks and dry slopes; it has finely pinnately divided aromatic leaves and many small yellowish flower heads in autumn.",
+      "habitat_hint": "Montane rocks, dry slopes and riverside gravel.",
+      "finding_tips": "On rocks and dry slopes look for a plant with finely divided aromatic leaves; the woody stem base is a clue."
+    },
+    "zh": {
+      "summary": "イワヨモギ（岩蒿）。生于山地岩场与干坡的菊科多年生草本至半灌木，叶羽状细裂、具蒿香，秋生众多黄色小头花。",
+      "habitat_hint": "山地岩场、干坡、河滩砾地。",
+      "finding_tips": "岩场与干坡寻找羽裂芳香叶之草；茎基木质化为线索。"
+    }
+  },
+  "Asarum tohokuense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wild ginger",
+    "ja": {
+      "summary": "トウゴクサイシン。本州の山地の林内に生えるウマノスズクサ科の多年草。心形の葉を地際につけ、春に暗紫色の壺形の地味な花を落葉の下に咲かせる。カンアオイの仲間。",
+      "habitat_hint": "山地の落葉樹林の林床、やや湿った林縁。",
+      "finding_tips": "春、林床で心形の葉の根元をかき分け、暗紫色の壺形の花を探す。地際に隠れて咲く点が手がかり。"
+    },
+    "en": {
+      "summary": "A wild ginger (Asarum tohokuense) of montane forests in Honshu; it bears heart-shaped leaves at ground level and, in spring, dark-purple urn-shaped inconspicuous flowers hidden under leaf litter.",
+      "habitat_hint": "Montane deciduous forest floor and damp forest edges.",
+      "finding_tips": "In spring part the litter beneath the heart-shaped leaves to find dark-purple urn-shaped flowers hidden at ground level."
+    },
+    "zh": {
+      "summary": "トウゴクサイシン。生于本州山地林内的马兜铃科多年生草本，心形叶生于近地面，春于落叶下开暗紫色壶形不显之花，为细辛类。",
+      "habitat_hint": "山地落叶林林床、稍湿林缘。",
+      "finding_tips": "春于林床拨开心形叶根部寻找暗紫壶形花；贴地隐开为线索。"
+    }
+  },
+  "Asarum yoshikawae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wild ginger",
+    "ja": {
+      "summary": "クロヒメカンアオイ。本州の限られた山地の林内に生えるウマノスズクサ科の多年草。常緑の心形の葉をもち、地際に暗紫色の壺形の花を咲かせる。カンアオイの仲間で分布が狭い。",
+      "habitat_hint": "山地の常緑・落葉樹林の林床、やや湿った林縁。",
+      "finding_tips": "林床で常緑の心形の葉の根元を探し、暗紫色の壺形の花を見つける。地際に隠れて咲く点が手がかり。"
+    },
+    "en": {
+      "summary": "A wild ginger (Asarum yoshikawae) of limited montane forests in Honshu; it has evergreen heart-shaped leaves and dark-purple urn-shaped flowers at ground level. It is a narrowly distributed member of the wild-ginger group.",
+      "habitat_hint": "Montane forest floor and damp forest edges.",
+      "finding_tips": "On the forest floor search beneath the evergreen heart-shaped leaves for dark-purple urn-shaped flowers at ground level."
+    },
+    "zh": {
+      "summary": "クロヒメカンアオイ。生于本州局部山地林内的马兜铃科多年生草本，叶常绿心形，近地面开暗紫壶形花，为分布狭窄的细辛类。",
+      "habitat_hint": "山地常绿与落叶林林床、稍湿林缘。",
+      "finding_tips": "林床于常绿心形叶根部寻找暗紫壶形花；贴地隐开为线索。"
+    }
+  },
+  "Aspasmichthys ciconiae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clingfish",
+    "ja": {
+      "summary": "ツルウバウオ。潮間帯〜浅海の岩礁や転石の下に生息するウバウオ科の小さな魚。腹びれが変化した吸盤で岩に張りつく。体は細長く、色は周囲の岩に溶け込む。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石の下、潮だまり。",
+      "finding_tips": "干潮時、転石の裏で岩に吸盤で張りつく細長い小さな魚を探す。腹の吸盤が識別点。"
+    },
+    "en": {
+      "summary": "A clingfish of intertidal to shallow reefs found under boulders; its pelvic fins are modified into a sucker that grips rock. The elongate body blends with the surrounding stone.",
+      "habitat_hint": "Intertidal to shallow reefs, under boulders and tide pools.",
+      "finding_tips": "At low tide on the undersides of boulders look for a small elongate fish gripping rock; the belly sucker is diagnostic."
+    },
+    "zh": {
+      "summary": "ツルウバウオ。栖于潮间带至浅海岩礁与砾石下的喉盘鱼科小鱼，腹鳍特化为吸盘附岩，体细长、色融于周围岩石。",
+      "habitat_hint": "潮间带至浅海岩礁、砾石下、潮池。",
+      "finding_tips": "退潮时于石块背面寻找以吸盘附岩的细长小鱼；腹部吸盘为辨识点。"
+    }
+  },
+  "Asplenium australasicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bird's-nest fern",
+    "aliases": {
+      "zh-Hans": "大鳞巢蕨"
+    },
+    "ja": {
+      "summary": "リュウキュウトリノスシダ。南西諸島の暖地の樹上や岩上に着生するチャセンシダ科の大型のシダ。光沢のある長い単葉がロゼット状に放射状に広がり、中心に落葉をためて鳥の巣のような姿になる。",
+      "habitat_hint": "亜熱帯林の樹幹や大枝、岩上への着生。",
+      "finding_tips": "樹上や岩上で、光沢ある長い単葉が放射状に広がる大型のシダを探す。中心が鳥の巣状にくぼむ点が識別点。"
+    },
+    "en": {
+      "summary": "Bird's-nest fern (Asplenium australasicum). A large epiphytic fern of warm-region trees and rocks in the Ryukyus; glossy long undivided fronds radiate in a rosette, and the centre collects leaf litter, giving a bird's-nest look.",
+      "habitat_hint": "Epiphytic on subtropical-forest trunks, boughs and rocks.",
+      "finding_tips": "On trunks and rocks look for a large fern with glossy long simple fronds radiating in a rosette; the nest-like hollow centre is diagnostic."
+    },
+    "zh": {
+      "summary": "リュウキュウトリノスシダ（大鳞巢蕨）。附生于琉球群岛暖地树上与岩面的铁角蕨科大型蕨，光亮长单叶莲座状放射展开，中心积落叶如鸟巢。",
+      "habitat_hint": "亚热带林树干、大枝、岩面附生。",
+      "finding_tips": "树上或岩面寻找光亮长单叶放射展开的大型蕨；中心巢状凹陷为辨识点。"
+    }
   }
 }
