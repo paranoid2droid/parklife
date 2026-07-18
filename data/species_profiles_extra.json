@@ -265968,5 +265968,359 @@
       "habitat_hint": "流树液之木、落果、堆肥、腐果周边。",
       "finding_tips": "夏于栎树液与落果处寻找肩红的黑色小甲虫；腹端外露为辨识点。"
     }
+  },
+  "Verconia norba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chromodorid nudibranch",
+    "ja": {
+      "summary": "アラリウミウシ。南日本の浅い岩礁やサンゴ礁に生息するイロウミウシ科のウミウシ。体は白っぽく、外套膜の縁が紫や黄で縁取られる。カイメンを食べる。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、潮だまり、転石の下。",
+      "finding_tips": "岩礁で外套膜の縁が色づく白っぽいウミウシを探す。カイメンの生える岩上が手がかり。"
+    },
+    "en": {
+      "summary": "A chromodorid nudibranch of shallow reefs in southern Japan; the whitish body has a mantle margin edged in purple and yellow, and it feeds on sponges.",
+      "habitat_hint": "Shallow rocky and coral reefs, tide pools and under boulders.",
+      "finding_tips": "On reefs look for a whitish nudibranch with a colour-edged mantle; sponge-covered rock is a good clue."
+    },
+    "zh": {
+      "summary": "アラリウミウシ。栖于南日本浅岩礁与珊瑚礁的多彩海牛科海牛，体白、外套缘镶紫黄边，取食海绵。",
+      "habitat_hint": "浅岩礁、珊瑚礁、潮池、砾石下。",
+      "finding_tips": "岩礁寻找外套缘着色的白色海牛；生海绵之岩面为线索。"
+    }
+  },
+  "Veronica americana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "American speedwell",
+    "ja": {
+      "summary": "エゾノカワヂシャ。北日本の水辺や湿地に生えるオオバコ科（旧ゴマノハグサ科）の多年草。多肉質でやや光沢のある葉を対生し、初夏に淡青紫色の小さな花を総状につける。北半球に広く分布。",
+      "habitat_hint": "河畔、湿地、用水路、湧水のある水辺。",
+      "finding_tips": "初夏、水辺で多肉質の対生葉と淡青紫色の小花を探す。水際に群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "American speedwell (Veronica americana). A perennial of watersides and wetlands in northern Japan; the somewhat fleshy glossy leaves are opposite and it bears racemes of small pale blue-violet flowers in early summer. It is widespread across the Northern Hemisphere.",
+      "habitat_hint": "Riverbanks, wetlands, channels and spring-fed watersides.",
+      "finding_tips": "In early summer at the waterside look for fleshy opposite leaves and small pale blue-violet flowers; it grows in waterside stands."
+    },
+    "zh": {
+      "summary": "エゾノカワヂシャ（北美婆婆纳）。生于北日本水边与湿地的车前科（旧玄参科）多年生草本，叶稍肉质光亮对生，初夏总状生淡蓝紫色小花，广布北半球。",
+      "habitat_hint": "河畔、湿地、灌渠、涌泉水边。",
+      "finding_tips": "初夏于水边寻找肉质对生叶与淡蓝紫小花；水际群生为线索。"
+    }
+  },
+  "Vincetoxicum sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's swallow-wort",
+    "ja": {
+      "summary": "トキワカモメヅル。暖地の林縁に生えるキョウチクトウ科（旧ガガイモ科）のつる性多年草。細い茎で他物に絡み、対生の葉をつけ、暗紫色の小さな星形の花を咲かせる。",
+      "habitat_hint": "暖地の林縁、藪、道端の日当たりのよい場所。",
+      "finding_tips": "夏、藪で他物に絡む細い茎と暗紫色の星形の小花を探す。対生の葉が識別点。"
+    },
+    "en": {
+      "summary": "Siebold's swallow-wort (Vincetoxicum sieboldii). A twining perennial of warm-region forest edges; slender stems climb over other plants, bearing opposite leaves and small dark-purple star-shaped flowers.",
+      "habitat_hint": "Warm-region forest edges, thickets and sunny roadsides.",
+      "finding_tips": "In summer in thickets look for slender twining stems with small dark-purple star-shaped flowers; opposite leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "トキワカモメヅル。生于暖地林缘的夹竹桃科（旧萝藦科）藤本多年生草本，细茎缠绕他物，叶对生，开暗紫色星形小花。",
+      "habitat_hint": "暖地林缘、灌丛、路边向阳处。",
+      "finding_tips": "夏于灌丛寻找缠绕细茎与暗紫星形小花；叶对生为辨识点。"
+    }
+  },
+  "Viola sacchalinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakhalin violet",
+    "ja": {
+      "summary": "アイヌタチツボスミレ。北日本の山地の林内や林縁に生えるスミレ科の多年草。茎が立ち上がり、心形の葉をつけ、春に淡紫色の花を咲かせる。タチツボスミレに近縁で寒冷地に分布。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った斜面。",
+      "finding_tips": "春、林床で立ち上がる茎に心形の葉と淡紫色の花をつけるスミレを探す。寒冷地の山地が手がかり。"
+    },
+    "en": {
+      "summary": "Sakhalin violet (Viola sacchalinensis). A perennial violet of montane forests and edges in northern Japan; the stems rise up, bearing heart-shaped leaves and pale-purple spring flowers. It is close to the common blue violet and grows in cold regions.",
+      "habitat_hint": "Montane forest floor, edges and damp slopes in the north.",
+      "finding_tips": "In spring on the forest floor look for a violet with erect stems, heart-shaped leaves and pale-purple flowers; cold montane sites are a clue."
+    },
+    "zh": {
+      "summary": "アイヌタチツボスミレ（库页堇菜）。生于北日本山地林内与林缘的堇菜科多年生草本，茎直立、叶心形，春开淡紫花，近立坪堇菜、分布寒地。",
+      "habitat_hint": "山地落叶林林床、林缘、稍湿坡地。",
+      "finding_tips": "春于林床寻找茎直立、心形叶、淡紫花之堇菜；寒地山区为线索。"
+    }
+  },
+  "Viriola tricincta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Triphorid snail",
+    "ja": {
+      "summary": "キリオレガイ。浅い岩礁やサンゴ礁に生息するクリムシガイ科（オニノツノガイ類）の非常に細長い小型の巻貝。殻は左巻きで、細かい粒列が螺旋状に並ぶ。カイメンを食べる。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、転石の下、礁池。",
+      "finding_tips": "干潮時、転石の下で細長く左巻きの小さな巻貝を探す。螺旋状に並ぶ粒列が識別点。"
+    },
+    "en": {
+      "summary": "A triphorid snail of shallow rocky and coral reefs; the very slender shell is sinistral (left-coiling) with spiral rows of fine beads, and it feeds on sponges.",
+      "habitat_hint": "Shallow rocky and coral reefs, under boulders and lagoons.",
+      "finding_tips": "At low tide under rocks look for a very slender left-coiling snail; the spiral beaded rows are diagnostic."
+    },
+    "zh": {
+      "summary": "キリオレガイ。栖于浅岩礁与珊瑚礁的三口螺科极细长小螺，壳左旋、具螺旋粒列，取食海绵。",
+      "habitat_hint": "浅岩礁、珊瑚礁、砾石下、礁池。",
+      "finding_tips": "退潮时于石下寻找极细长左旋小螺；螺旋粒列为辨识点。"
+    }
+  },
+  "Vitreolina aurata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eulimid snail",
+    "ja": {
+      "summary": "キンイロセトモノガイ。ウミシダやヒトデ、ウニなどの棘皮動物に外部寄生するハナゴウナ科の小さな巻貝。殻は細長い円錐形で光沢が強く、半透明の白〜黄色を帯びる。",
+      "habitat_hint": "浅い岩礁・サンゴ礁で、宿主となる棘皮動物の体表。",
+      "finding_tips": "ウミシダやヒトデの体表で、光沢のある細長い小さな巻貝を探す。半透明の艶やかな殻が識別点。"
+    },
+    "en": {
+      "summary": "An eulimid snail that lives as an external parasite on echinoderms such as feather stars, sea stars and urchins; the slender conical shell is highly glossy and translucent white to yellow.",
+      "habitat_hint": "On host echinoderms of shallow rocky and coral reefs.",
+      "finding_tips": "On feather stars and sea stars look for a small glossy slender snail; the translucent shiny shell is diagnostic."
+    },
+    "zh": {
+      "summary": "キンイロセトモノガイ。外寄生于海羊齿、海星与海胆等棘皮动物的光螺科小螺，壳细长圆锥、极光亮、半透明白至黄色。",
+      "habitat_hint": "浅岩礁与珊瑚礁上寄主棘皮动物体表。",
+      "finding_tips": "于海羊齿、海星体表寻找光亮细长小螺；半透明亮壳为辨识点。"
+    }
+  },
+  "Volucella jeddona": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "ベッコウハナアブ。林縁や樹液の出る木のまわりに見られるハナアブ科の大型のアブ。体は黄褐色で毛深く、ハチに擬態する。幼虫はスズメバチなどの巣の中で暮らすことが知られる。",
+      "habitat_hint": "林縁、雑木林、樹液の出る木、花のまわり。",
+      "finding_tips": "夏、樹液や花のまわりで黄褐色の毛深い大きなアブを探す。ハチに似るが刺さない。"
+    },
+    "en": {
+      "summary": "A large hoverfly of forest edges and sap-oozing trees; the body is tawny and hairy, mimicking a bee. The larvae are known to live inside the nests of social wasps.",
+      "habitat_hint": "Forest edges, secondary woodland, sap trees and flowers.",
+      "finding_tips": "In summer around sap and flowers look for a large tawny hairy fly; it mimics a bee but does not sting."
+    },
+    "zh": {
+      "summary": "ベッコウハナアブ。见于林缘与流树液树木周边的食蚜蝇科大型蝇，体黄褐多毛、拟蜂，幼虫已知生活于胡蜂等巢内。",
+      "habitat_hint": "林缘、杂木林、流树液之木、花丛。",
+      "finding_tips": "夏于树液与花丛寻找黄褐多毛大蝇；拟蜂而不螫。"
+    }
+  },
+  "Volucella pellucens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pellucid hoverfly",
+    "ja": {
+      "summary": "シロスジベッコウハナアブ。林縁や花のまわりに見られるハナアブ科の大型のアブ。黒い体の腹部前方に白っぽい半透明の帯があるのが名の由来。幼虫はハチの巣の中で暮らす。",
+      "habitat_hint": "林縁、雑木林、花のまわり、樹液の出る木。",
+      "finding_tips": "夏、花や葉の上で腹部に白い帯をもつ黒い大きなアブを探す。半透明の白帯が識別点。"
+    },
+    "en": {
+      "summary": "Pellucid hoverfly (Volucella pellucens). A large hoverfly of forest edges and flowers; the black body has a whitish translucent band across the front of the abdomen, giving it its name. The larvae live inside wasp nests.",
+      "habitat_hint": "Forest edges, secondary woodland, flowers and sap trees.",
+      "finding_tips": "In summer on flowers and leaves look for a large black fly with a white abdominal band; the translucent white belt is diagnostic."
+    },
+    "zh": {
+      "summary": "シロスジベッコウハナアブ（透翅蜂蚜蝇）。见于林缘与花丛的食蚜蝇科大型蝇，黑体腹前具白色半透明带（名之源），幼虫生活于蜂巢内。",
+      "habitat_hint": "林缘、杂木林、花丛、流树液之木。",
+      "finding_tips": "夏于花叶上寻找腹具白带的黑色大蝇；半透明白带为辨识点。"
+    }
+  },
+  "Weigela japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese weigela",
+    "aliases": {
+      "zh-Hans": "日本锦带花"
+    },
+    "ja": {
+      "summary": "ツクシヤブウツギ。本州西部〜九州の山地の林縁に生えるスイカズラ科の落葉低木。対生の葉をつけ、初夏に漏斗状の花を咲かせる。花は咲き始めが淡色で、しだいに紅色に変わる。",
+      "habitat_hint": "山地の林縁、渓谷沿い、道端のやや明るい場所。",
+      "finding_tips": "初夏、林縁で漏斗状の花を探す。淡色から紅色へ変化する花色と対生の葉が識別点。"
+    },
+    "en": {
+      "summary": "Japanese weigela (Weigela japonica). A deciduous shrub of montane forest edges from western Honshu to Kyushu; it has opposite leaves and funnel-shaped early-summer flowers that open pale and deepen to red.",
+      "habitat_hint": "Montane forest edges, valley sides and bright roadsides.",
+      "finding_tips": "In early summer at forest edges look for funnel-shaped flowers changing from pale to red; opposite leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "ツクシヤブウツギ（日本锦带花）。生于本州西部至九州山地林缘的忍冬科落叶灌木，叶对生，初夏开漏斗状花，花初淡后渐转红。",
+      "habitat_hint": "山地林缘、溪谷沿、路边稍明亮处。",
+      "finding_tips": "初夏于林缘寻找漏斗状花；花色由淡转红、叶对生为辨识点。"
+    }
+  },
+  "Weisiopsis anomala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "コゴケモドキ。土上や岩上、コンクリートの隙間などに生えるセンボンゴケ科の小型の蘚類。緑色の小さなクッション状の群落をつくり、乾くと葉が縮れる。都市部の人工的な環境でも見られる。",
+      "habitat_hint": "土上、岩上、石垣、コンクリートの隙間など。",
+      "finding_tips": "石垣やコンクリートで緑色の小さなクッション状の蘚を探す。乾くと葉が縮れる点が手がかり。"
+    },
+    "en": {
+      "summary": "A small moss growing on soil, rock and in concrete cracks; it forms small green cushions whose leaves curl when dry, and it occurs even in artificial urban settings.",
+      "habitat_hint": "Soil, rock, stone walls and cracks in concrete.",
+      "finding_tips": "On walls and concrete look for small green moss cushions; leaves curling when dry are a clue."
+    },
+    "zh": {
+      "summary": "コゴケモドキ（褶叶小墙藓）。生于土上、岩面与混凝土缝隙的丛藓科小型藓类，成绿色小垫，干时叶卷缩，亦见于城市人工环境。",
+      "habitat_hint": "土上、岩面、石墙、混凝土缝隙等。",
+      "finding_tips": "石墙与混凝土寻找绿色小垫状藓；干时叶卷缩为线索。"
+    }
+  },
+  "Xenortholitha propinguata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carpet moth",
+    "ja": {
+      "summary": "フタクロテンナミシャク。山地の草地や林縁に見られるシャクガ科ナミシャク亜科の蛾。翅は灰褐色で、2つの黒い点が目立つのが名の由来。細かい波状の横線をもつ。",
+      "habitat_hint": "山地の草地、林縁、明るい斜面。",
+      "finding_tips": "初夏〜夏、草地や灯火で灰褐色に黒い2点をもつ小さな蛾を探す。2つの黒点が識別点。"
+    },
+    "en": {
+      "summary": "A carpet moth (Larentiinae) of montane grassland and forest edges; the greyish-brown wings bear two conspicuous black dots (the source of its Japanese name) and fine wavy cross-lines.",
+      "habitat_hint": "Montane grassland, forest edges and bright slopes.",
+      "finding_tips": "In early summer on grassland or at lights look for a greyish-brown moth with two black dots; the paired spots are diagnostic."
+    },
+    "zh": {
+      "summary": "フタクロテンナミシャク。见于山地草地与林缘的尺蛾科花尺蛾亚科蛾，翅灰褐、具两显著黑点（和名之源）与细波状横线。",
+      "habitat_hint": "山地草地、林缘、明亮坡地。",
+      "finding_tips": "初夏至夏于草地或灯下寻找灰褐具两黑点之小蛾；双黑点为辨识点。"
+    }
+  },
+  "Xerula pudens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Velvet rooting shank",
+    "ja": {
+      "summary": "ビロードツエタケ。広葉樹の切り株や地中の埋もれ木から発生するタマバリタケ科のキノコ。傘と柄が褐色の細かい毛（ビロード状）で覆われ、地中深くまで伸びる長い根状の柄をもつ。",
+      "habitat_hint": "広葉樹林の地上、切り株、埋もれた枯れ木の上。",
+      "finding_tips": "夏〜秋、林床でビロード状の褐色の毛に覆われたキノコを探す。地中に長く伸びる根状の柄が識別点。"
+    },
+    "en": {
+      "summary": "A rooting shank fungus arising from broadleaf stumps and buried wood; cap and stem are covered in fine brown velvety hairs, and it has a long root-like stem extending deep into the soil.",
+      "habitat_hint": "On the ground, stumps and buried dead wood in broadleaf forest.",
+      "finding_tips": "In summer–autumn on the forest floor look for a mushroom clad in brown velvety hairs; the long rooting stem is diagnostic."
+    },
+    "zh": {
+      "summary": "ビロードツエタケ。发生于阔叶树桩与地下埋木的小皮伞科菌，盖与柄被褐色细绒毛（天鹅绒状），具深入土中的长根状柄。",
+      "habitat_hint": "阔叶林地上、树桩、埋于地下的枯木上。",
+      "finding_tips": "夏秋于林床寻找被褐色绒毛之菌；深入土中的长根状柄为辨识点。"
+    }
+  },
+  "Xyleborus atratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ambrosia beetle",
+    "ja": {
+      "summary": "クワノキクイムシ。広葉樹の材に穿孔するキクイムシ（ゾウムシ科キクイムシ亜科）の一種。円筒形の小さな黒っぽい体で、樹幹に坑道を掘って共生菌を栽培し、それを食べる。衰弱木や伐採木につく。",
+      "habitat_hint": "広葉樹林、衰弱木や伐採木、貯木場の材内。",
+      "finding_tips": "衰弱した広葉樹の樹幹で、細かい木屑の出る小さな穴を探す。円筒形の黒っぽい小甲虫が坑道に潜む。"
+    },
+    "en": {
+      "summary": "An ambrosia beetle that bores into broadleaf wood; the small cylindrical dark adults tunnel in trunks and cultivate a symbiotic fungus for food, attacking weakened and felled trees.",
+      "habitat_hint": "Broadleaf forest, weakened or felled trees and lumber yards.",
+      "finding_tips": "On ailing broadleaf trunks look for small holes exuding fine frass; the cylindrical dark beetle hides in its galleries."
+    },
+    "zh": {
+      "summary": "クワノキクイムシ（网纹材小蠹）。蛀入阔叶树材的小蠹（象甲科小蠹亚科），体小圆柱形、暗色，于树干掘坑道培养共生真菌为食，侵袭衰弱与伐倒木。",
+      "habitat_hint": "阔叶林、衰弱或伐倒木、贮木场材内。",
+      "finding_tips": "于衰弱阔叶树干寻找排细木屑的小孔；圆柱形暗色小甲虫藏于坑道。"
+    }
+  },
+  "Xylobolus frustulatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カタウロコタケ。広葉樹（特にコナラ・カシ類）の枯れ木や倒木に発生するウロコタケ科のかたいキノコ。子実体は硬く、多角形の小片が敷石（陶片）のように割れて並ぶのが特徴。材の白色腐朽を起こす。",
+      "habitat_hint": "コナラ・カシ類など広葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "枯れた広葉樹の材で、多角形の小片が敷石状に割れて並ぶかたいキノコを探す。ひび割れた表面が識別点。"
+    },
+    "en": {
+      "summary": "Ceramic parchment (Xylobolus frustulatus). A hard crust fungus on dead broadleaf wood, especially oaks; the tough fruit body cracks into polygonal tile-like pieces resembling ceramic paving, and it causes white rot of the wood.",
+      "habitat_hint": "Dead oak and other broadleaf logs, stumps and fallen wood.",
+      "finding_tips": "On dead oak wood look for a hard crust cracked into polygonal tile-like plates; the ceramic-paving surface is diagnostic."
+    },
+    "zh": {
+      "summary": "カタウロコタケ（丛片趋木菌）。发生于阔叶（尤栎类）枯木倒木的韧革菌科硬菌，子实体坚硬，裂成多角形小片如陶砖铺地，引起木材白色腐朽。",
+      "habitat_hint": "栎类等阔叶枯木、倒木、树桩。",
+      "finding_tips": "枯栎木上寻找裂成多角形砖片状的硬菌；陶砖状开裂面为辨识点。"
+    }
+  },
+  "Yoldia notabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nut clam",
+    "ja": {
+      "summary": "フリソデガイ。内湾や沿岸の砂泥底に生息するロウバイガイ科の二枚貝。殻はやや細長く、光沢のある緑褐色の殻皮に覆われる。泥中に浅く潜り、触手で堆積物の有機物を集めて食べる。",
+      "habitat_hint": "内湾、沿岸のやや深い砂泥底。",
+      "finding_tips": "砂泥底で光沢のある緑褐色のやや細長い二枚貝を探す。薄く扁平な殻が識別点。"
+    },
+    "en": {
+      "summary": "A nut clam of muddy-sand bottoms in bays and coastal waters; the somewhat elongate shell is covered by a glossy greenish-brown periostracum, and it burrows shallowly, gathering organic matter from sediment with its tentacles.",
+      "habitat_hint": "Muddy-sand bottoms of inner bays and coastal waters.",
+      "finding_tips": "On muddy sand look for a somewhat elongate bivalve with a glossy greenish-brown shell; the thin flat shell is diagnostic."
+    },
+    "zh": {
+      "summary": "フリソデガイ（褐色豆荚蛤）。栖于内湾与沿岸砂泥底的云母蛤科双壳，壳稍细长、被光亮绿褐色壳皮，浅埋泥中，以触手收集沉积物有机质为食。",
+      "habitat_hint": "内湾、沿岸较深砂泥底。",
+      "finding_tips": "砂泥底寻找光亮绿褐、稍细长的双壳；壳薄扁平为辨识点。"
+    }
+  },
+  "Zafra mitriformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dove snail",
+    "ja": {
+      "summary": "ノミニナモドキ。潮間帯〜浅海の岩礁や海藻の間に生息するムシロガイ科（コロモガイ類）の非常に小さな巻貝。殻は紡錘形で、褐色の斑紋をもつ。藻の上を這って微小な有機物を食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、海藻の間、転石の下。",
+      "finding_tips": "潮だまりや海藻の間で紡錘形の非常に小さな巻貝を探す。褐色の斑紋をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "A tiny dove snail of intertidal to shallow reefs and among algae; the spindle-shaped shell is marked with brown, and it creeps over weed feeding on fine organic matter.",
+      "habitat_hint": "Intertidal to shallow reefs, among algae and under boulders.",
+      "finding_tips": "In tide pools and among algae look for a very small spindle-shaped snail; the brown-marked shell is diagnostic."
+    },
+    "zh": {
+      "summary": "ノミニナモドキ。栖于潮间带至浅海岩礁与海藻间的核螺科（衣螺类）极小型螺，壳纺锤形、具褐斑，行于藻上取食微小有机物。",
+      "habitat_hint": "潮间带至浅海岩礁、海藻间、砾石下。",
+      "finding_tips": "潮池与海藻间寻找纺锤形极小螺；褐斑壳为辨识点。"
+    }
   }
 }
