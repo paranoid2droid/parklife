@@ -269556,5 +269556,540 @@
       "habitat_hint": "林缘、杂木林、山地落叶林。",
       "finding_tips": "初夏于林缘寻找黄褐具暗斑之蛾；波状翅缘与后翅斑为辨识点。"
     }
+  },
+  "Cepphus columba": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pigeon Guillemot",
+    "aliases": {
+      "zh-Hans": "海鸽"
+    },
+    "ja": {
+      "summary": "ウミバト。北太平洋に分布するウミスズメ科の海鳥。夏羽は黒く、翼に白い斑があり、脚は鮮やかな赤色。冬羽は白っぽくなる。翼を使って潜水し、海底の小魚や甲殻類を捕る。日本には冬鳥として北の海に渡来する。",
+      "habitat_hint": "北方の沿岸の岩礁海域、冬季の日本近海。",
+      "finding_tips": "冬、北の沿岸で翼に白斑をもつ黒っぽい海鳥を探す。鮮やかな赤い脚が識別点。"
+    },
+    "en": {
+      "summary": "Pigeon Guillemot (Cepphus columba). A seabird of the auk family in the North Pacific; in summer it is black with a white wing patch and bright red legs, turning whitish in winter. It dives with its wings for small fish and crustaceans on the bottom, visiting northern Japanese seas in winter.",
+      "habitat_hint": "Northern coastal rocky seas; Japanese seas in winter.",
+      "finding_tips": "In winter on northern coasts look for a blackish seabird with a white wing patch; the bright red legs are diagnostic."
+    },
+    "zh": {
+      "summary": "ウミバト（海鸽）。分布北太平洋的海雀科海鸟，夏羽黑色、翼具白斑、脚鲜红，冬羽转白。以翅潜水捕底栖小鱼与甲壳类，冬季至日本北方海域。",
+      "habitat_hint": "北方沿岸岩礁海域、冬季日本近海。",
+      "finding_tips": "冬于北方沿岸寻找翼具白斑的黑色海鸟；鲜红脚为辨识点。"
+    }
+  },
+  "Ceratostoma burnettii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Burnett's murex",
+    "ja": {
+      "summary": "ヒレガイ。潮下帯の岩礁や砂礫底に生息するアクキガイ科の巻貝。殻には翼状・ひれ状の突起が3列に発達し、独特の姿をもつ。肉食性で、他の貝を襲って食べる。",
+      "habitat_hint": "潮下帯の岩礁、砂礫底、やや深い海底。",
+      "finding_tips": "岩礁や砂礫底で、翼状・ひれ状の突起が発達した巻貝を探す。3列に並ぶひれ状突起が識別点。"
+    },
+    "en": {
+      "summary": "Burnett's murex (Ceratostoma burnettii). A murex snail of subtidal reefs and gravel; the shell develops three rows of wing- or fin-like projections, giving it a distinctive look. It is a carnivore that attacks other shellfish.",
+      "habitat_hint": "Subtidal reefs, gravel bottoms and deeper seafloor.",
+      "finding_tips": "On reefs and gravel look for a snail with well-developed wing-like projections; the three rows of fin-like flanges are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒレガイ（伯氏骨螺）。栖于潮下带岩礁与砂砾底的骨螺科螺，壳发育三列翼状、鳍状突起，形态独特，肉食性、袭食他贝。",
+      "habitat_hint": "潮下带岩礁、砂砾底、较深海底。",
+      "finding_tips": "岩礁与砂砾底寻找具翼状突起之螺；三列鳍状凸缘为辨识点。"
+    }
+  },
+  "Cercidiphyllum magnificum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wide-leaf katsura",
+    "ja": {
+      "summary": "ヒロハカツラ。本州中部の山地に分布するカツラ科の落葉高木。カツラに近縁だが、葉がより大きく円く、鋸歯が浅い。秋に黄葉し、落葉時に甘い香りを放つ。深山の谷沿いなどに生える。",
+      "habitat_hint": "山地の谷沿い、湿った斜面、亜高山の落葉樹林。",
+      "finding_tips": "谷沿いで丸く大きな心形の葉をもつ高木を探す。秋の黄葉と、落葉が放つ甘い香りが手がかり。"
+    },
+    "en": {
+      "summary": "Wide-leaf katsura (Cercidiphyllum magnificum). A deciduous tree of central Honshu mountains; close to katsura but with larger, rounder, shallowly toothed leaves. It turns yellow in autumn and its fallen leaves give off a sweet scent. It grows along deep-mountain valleys.",
+      "habitat_hint": "Montane valleys, damp slopes and subalpine deciduous forest.",
+      "finding_tips": "By valleys look for a tree with large round heart-shaped leaves; autumn yellow and the sweet scent of fallen leaves are clues."
+    },
+    "zh": {
+      "summary": "ヒロハカツラ。分布本州中部山地的连香树科落叶乔木，近连香树而叶更大更圆、锯齿浅，秋叶转黄、落叶散甜香，生于深山谷沿。",
+      "habitat_hint": "山地谷沿、湿润坡地、亚高山落叶林。",
+      "finding_tips": "谷沿寻找具大圆心形叶之乔木；秋黄叶与落叶甜香为线索。"
+    }
+  },
+  "Cercyon laminatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ウスモンケシガムシ。堆肥や腐植、動物の糞、腐った植物質に集まるガムシ科の小さな甲虫。水生のガムシと異なり、陸上の分解物のまわりで暮らす。体は黒っぽく、上翅に細い筋がある。",
+      "habitat_hint": "堆肥、腐植、動物の糞、腐った植物質、落葉の下。",
+      "finding_tips": "堆肥や腐植をめくって、黒っぽい小さな甲虫を探す。上翅の細い筋が識別点。"
+    },
+    "en": {
+      "summary": "A small water-scavenger-family beetle that gathers at compost, humus, dung and rotting plant matter; unlike its aquatic relatives it lives on land around decaying material. The body is blackish with fine striae on the elytra.",
+      "habitat_hint": "Compost, humus, dung, rotting plant matter and under litter.",
+      "finding_tips": "Turn compost and humus to find a small blackish beetle; the fine elytral striae are diagnostic."
+    },
+    "zh": {
+      "summary": "ウスモンケシガムシ（隆线梭腹牙甲）。聚于堆肥、腐殖、动物粪与腐败植物质的牙甲科小甲虫，与水生牙甲不同、陆生于分解物周边，体黑、鞘翅具细纹。",
+      "habitat_hint": "堆肥、腐殖、动物粪、腐败植物质、落叶下。",
+      "finding_tips": "翻堆肥与腐殖寻找黑色小甲虫；鞘翅细纹为辨识点。"
+    }
+  },
+  "Cerithium columna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "コオニノツノガイ。南日本〜インド太平洋の浅いサンゴ礁・岩礁の砂底に生息するオニノツノガイ科の巻貝。殻は細長い塔状で、螺層にいぼ状の突起が並ぶ。砂上の付着藻類や有機物を食べる。",
+      "habitat_hint": "浅いサンゴ礁・岩礁の砂底、礁池、転石の下。",
+      "finding_tips": "砂底や転石の下で、いぼ状突起の並ぶ細長い塔状の巻貝を探す。塔状の殻形が識別点。"
+    },
+    "en": {
+      "summary": "A cerith snail of shallow coral and rocky reef sand from southern Japan through the Indo-Pacific; the slender tower-shaped shell has rows of warty nodules on the whorls. It grazes films of algae and detritus on the sand.",
+      "habitat_hint": "Sand of shallow coral and rocky reefs, lagoons, under boulders.",
+      "finding_tips": "On sand or under boulders look for a slender tower-shaped snail with warty nodules; the tower shape is diagnostic."
+    },
+    "zh": {
+      "summary": "コオニノツノガイ。分布南日本至印度太平洋浅珊瑚礁与岩礁砂底的蟹守螺科螺，壳细长塔状、螺层具疣突成列，刮食砂面附着藻与有机物。",
+      "habitat_hint": "浅珊瑚礁与岩礁砂底、礁池、砾石下。",
+      "finding_tips": "砂底或石下寻找具疣突的细长塔状螺；塔形壳为辨识点。"
+    }
+  },
+  "Cerithium echinatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "メオニノツノガイ。南日本〜インド太平洋の浅いサンゴ礁・岩礁の砂底に生息するオニノツノガイ科の巻貝。殻は塔状で、とげ状の突起が発達する。砂上の付着藻類や有機物を食べる。",
+      "habitat_hint": "浅いサンゴ礁・岩礁の砂底、礁池、転石の下。",
+      "finding_tips": "砂底や転石の下で、とげ状の突起が発達した塔状の巻貝を探す。とげのある殻表が識別点。"
+    },
+    "en": {
+      "summary": "A cerith snail of shallow coral and rocky reef sand from southern Japan through the Indo-Pacific; the tower-shaped shell has well-developed spiny projections. It grazes algal films and detritus on the sand.",
+      "habitat_hint": "Sand of shallow coral and rocky reefs, lagoons, under boulders.",
+      "finding_tips": "On sand or under boulders look for a tower-shaped snail with spiny projections; the spiny shell surface is diagnostic."
+    },
+    "zh": {
+      "summary": "メオニノツノガイ。分布南日本至印度太平洋浅珊瑚礁与岩礁砂底的蟹守螺科螺，壳塔状、棘突发达，刮食砂面附着藻与有机物。",
+      "habitat_hint": "浅珊瑚礁与岩礁砂底、礁池、砾石下。",
+      "finding_tips": "砂底或石下寻找具棘突的塔状螺；带棘壳面为辨识点。"
+    }
+  },
+  "Ceuthorhynchidius albosuturalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Weevil",
+    "ja": {
+      "summary": "ダイコンサルゾウムシ。アブラナ科の作物や野草につくゾウムシ科の小さな甲虫。体は黒っぽく丸みがあり、短い口吻をもつ。刺激を受けると脚を縮めて落下し死んだふりをする。幼虫は茎や葉柄の内部を食べる。",
+      "habitat_hint": "畑、道端、河川敷などのアブラナ科植物の生える場所。",
+      "finding_tips": "春〜初夏、ダイコンやアブラナ科の野草の上で、黒っぽく丸い小さなゾウムシを探す。触れると落下する点が手がかり。"
+    },
+    "en": {
+      "summary": "A small weevil (Ceuthorhynchidius albosuturalis) associated with cabbage-family crops and wild plants; the body is blackish and rounded with a short snout, and when disturbed it tucks its legs and drops, feigning death. The larvae feed inside stems and petioles.",
+      "habitat_hint": "Fields, roadsides and riverbanks with brassica plants.",
+      "finding_tips": "In spring–early summer on radish and wild brassicas look for a small rounded blackish weevil; dropping when touched is a clue."
+    },
+    "zh": {
+      "summary": "ダイコンサルゾウムシ。为害十字花科作物与野草的象甲科小甲虫，体黑而圆、喙短，受激缩足坠落假死，幼虫蛀食茎与叶柄内部。",
+      "habitat_hint": "农田、路边、河滩等生十字花科植物处。",
+      "finding_tips": "春至初夏于萝卜与野生十字花科上寻找黑圆小象甲；触之坠落为线索。"
+    }
+  },
+  "Chasminodes sugii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "クロハナギンガ。林縁や雑木林に見られるヤガ科の蛾。前翅は黒っぽく、白っぽい紋や筋をもつ。夜行性で灯火に飛来する。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、山地の落葉樹林。",
+      "finding_tips": "夏の夜、灯火に来る黒っぽく白い紋をもつ蛾を探す。前翅の白い紋が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth of forest edges and woodland; the forewings are blackish with whitish marks and streaks. It is nocturnal and comes to lights, and the larvae feed on broadleaf trees.",
+      "habitat_hint": "Forest edges, secondary woodland and montane deciduous forest.",
+      "finding_tips": "On summer nights look at lights for a blackish moth with whitish marks; the pale forewing marks are diagnostic."
+    },
+    "zh": {
+      "summary": "クロハナギンガ。见于林缘与杂木林的夜蛾科蛾，前翅黑而具白斑与纹，夜行趋光，幼虫食阔叶树叶。",
+      "habitat_hint": "林缘、杂木林、山地落叶林。",
+      "finding_tips": "夏夜灯下寻找黑色具白斑之蛾；前翅白斑为辨识点。"
+    }
+  },
+  "Cheilosia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "ニッポンクロハナアブ。林縁や草地の花のまわりに見られるハナアブ科のアブ。体は黒っぽく、毛が生え、他のハナアブほど派手な縞模様はない。花を訪れて花粉や蜜を食べる。幼虫は植物などに関係する。",
+      "habitat_hint": "林縁、草地、山地の花のまわり。",
+      "finding_tips": "春〜初夏、花の上で黒っぽく毛の生えたハナアブを探す。縞模様が目立たない点が手がかり。"
+    },
+    "en": {
+      "summary": "A hoverfly (Cheilosia japonica) of forest edges and grassland flowers; the body is blackish and hairy, lacking the bold stripes of many hoverflies. It visits flowers for pollen and nectar, and the larvae are associated with plants.",
+      "habitat_hint": "Forest edges, grassland and montane flowers.",
+      "finding_tips": "In spring–early summer on flowers look for a blackish hairy hoverfly; the lack of bold stripes is a clue."
+    },
+    "zh": {
+      "summary": "ニッポンクロハナアブ。见于林缘与草地花丛的食蚜蝇科蝇，体黑而具毛、无多数食蚜蝇的鲜明条纹，访花取食花粉与蜜，幼虫与植物相关。",
+      "habitat_hint": "林缘、草地、山地花丛。",
+      "finding_tips": "春至初夏于花上寻找黑色多毛食蚜蝇；无鲜明条纹为线索。"
+    }
+  },
+  "Cheilosia ochripes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "キスネクロハナアブ。林縁や草地の花のまわりに見られるハナアブ科のアブ。体は黒っぽく毛が生え、脚が黄色みを帯びるのが名の由来。花を訪れて花粉や蜜を食べる送粉者。",
+      "habitat_hint": "林縁、草地、山地の花のまわり。",
+      "finding_tips": "春〜初夏、花の上で黒っぽく脚が黄色みを帯びたハナアブを探す。黄色い脚が識別点。"
+    },
+    "en": {
+      "summary": "A hoverfly (Cheilosia ochripes) of forest edges and grassland flowers; the body is blackish and hairy with yellowish legs (the source of its Japanese name). It visits flowers for pollen and nectar as a pollinator.",
+      "habitat_hint": "Forest edges, grassland and montane flowers.",
+      "finding_tips": "In spring–early summer on flowers look for a blackish hairy hoverfly with yellowish legs; the yellow legs are diagnostic."
+    },
+    "zh": {
+      "summary": "キスネクロハナアブ。见于林缘与草地花丛的食蚜蝇科蝇，体黑多毛、足带黄色（和名之源），访花取食花粉与蜜、为传粉者。",
+      "habitat_hint": "林缘、草地、山地花丛。",
+      "finding_tips": "春至初夏于花上寻找足带黄色的黑色多毛食蚜蝇；黄足为辨识点。"
+    }
+  },
+  "Cheilosia yesonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "エゾクロハナアブ。北日本や山地の林縁・草地の花のまわりに見られるハナアブ科のアブ。体は黒っぽく毛が生え、縞模様は目立たない。花を訪れて花粉や蜜を食べる。寒冷地に多い。",
+      "habitat_hint": "北日本・山地の林縁、草地、花のまわり。",
+      "finding_tips": "春〜初夏、山地や北日本の花の上で黒っぽく毛の生えたハナアブを探す。寒冷地の環境が手がかり。"
+    },
+    "en": {
+      "summary": "A hoverfly (Cheilosia yesonica) of forest edges and grassland flowers in northern Japan and mountains; the body is blackish and hairy without bold stripes. It visits flowers for pollen and nectar and is common in cold regions.",
+      "habitat_hint": "Forest edges, grassland and flowers of northern Japan and mountains.",
+      "finding_tips": "In spring–early summer on montane or northern flowers look for a blackish hairy hoverfly; the cold-region setting is a clue."
+    },
+    "zh": {
+      "summary": "エゾクロハナアブ。见于北日本与山地林缘草地花丛的食蚜蝇科蝇，体黑多毛、无鲜明条纹，访花取食花粉与蜜，多见于寒地。",
+      "habitat_hint": "北日本与山地林缘、草地、花丛。",
+      "finding_tips": "春至初夏于山地或北方花上寻找黑色多毛食蚜蝇；寒地环境为线索。"
+    }
+  },
+  "Chironomus plumosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Buzzer midge",
+    "aliases": {
+      "zh-Hans": "羽摇蚊"
+    },
+    "ja": {
+      "summary": "オオユスリカ。池沼や湖、水路に生息するユスリカ科の大型のユスリカ。蚊に似るが刺さない。幼虫（アカムシ）は水底の泥中に住み、赤い色をしていて魚の餌になる。成虫は春や秋に大群で群飛（蚊柱）する。",
+      "habitat_hint": "池沼、湖、水路、富栄養な止水とその周辺。",
+      "finding_tips": "春・秋の夕方、水辺で蚊のような虫が柱状に群飛するのを探す。刺さない点と、水底の赤い幼虫が手がかり。"
+    },
+    "en": {
+      "summary": "Buzzer midge (Chironomus plumosus). A large non-biting midge of ponds, lakes and channels; it looks like a mosquito but does not bite. The red larvae (bloodworms) live in bottom mud and are fish food, and adults swarm in columns in spring and autumn.",
+      "habitat_hint": "Ponds, lakes, channels and nutrient-rich still water.",
+      "finding_tips": "At dusk in spring and autumn look for mosquito-like insects swarming in columns by water; not biting, plus red bottom larvae, are clues."
+    },
+    "zh": {
+      "summary": "オオユスリカ（羽摇蚊）。栖于池沼、湖泊与水渠的摇蚊科大型摇蚊，似蚊而不叮，幼虫（红虫/血虫）居水底泥中、红色、为鱼饵，成虫春秋成柱状群飞。",
+      "habitat_hint": "池沼、湖泊、水渠、富营养静水及周边。",
+      "finding_tips": "春秋黄昏于水边寻找似蚊虫柱状群飞；不叮人与水底红色幼虫为线索。"
+    }
+  },
+  "Chlamys albida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scallop",
+    "ja": {
+      "summary": "カミオニシキ。北方の冷たい海の岩礁や砂礫底に生息するイタヤガイ科の二枚貝。殻は扇形で放射状の肋があり、白っぽい。足糸で岩などに固着することがある。北の海に分布する。",
+      "habitat_hint": "北方の潮下帯の岩礁、砂礫底、やや深い海底。",
+      "finding_tips": "北の海の岩礁や砂礫底で、放射肋のある白っぽい扇形の二枚貝を探す。扇形の殻形が識別点。"
+    },
+    "en": {
+      "summary": "A scallop of rocky and gravelly bottoms in cold northern seas; the fan-shaped shell has radial ribs and is whitish, sometimes attaching to rock by byssal threads. It is distributed in northern seas.",
+      "habitat_hint": "Subtidal rocky and gravelly bottoms of cold northern seas.",
+      "finding_tips": "On northern reefs and gravel look for a whitish fan-shaped bivalve with radial ribs; the fan shape is diagnostic."
+    },
+    "zh": {
+      "summary": "カミオニシキ。栖于北方冷水海岩礁与砂砾底的扇贝科双壳，壳扇形具放射肋、色白，有时以足丝固着岩石，分布北方海域。",
+      "habitat_hint": "北方潮下带岩礁、砂砾底、较深海底。",
+      "finding_tips": "北方岩礁与砂砾底寻找具放射肋的白色扇形双壳；扇形壳为辨识点。"
+    }
+  },
+  "Chlorociboria aeruginosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green wood-cup",
+    "ja": {
+      "summary": "ロクショウグサレキン。広葉樹の朽木や落枝に発生するズキンタケ科の小さな盤菌。菌糸が材を青緑色（緑青色）に染めるのが特徴で、青く染まった材の上に小さな椀形の子実体をつける。",
+      "habitat_hint": "湿った広葉樹の朽木、落枝、倒木。",
+      "finding_tips": "青緑色に染まった朽木を探し、その上の小さな椀形の子実体を確認する。材の緑青色の染まりが識別点。"
+    },
+    "en": {
+      "summary": "Green wood-cup (Chlorociboria aeruginosa). A small cup fungus on rotting broadleaf wood and fallen branches; its mycelium stains the wood blue-green (verdigris), and small bowl-shaped fruit bodies form on the stained wood.",
+      "habitat_hint": "Damp rotting broadleaf wood, fallen branches and logs.",
+      "finding_tips": "Look for blue-green stained rotten wood and check for small bowl-shaped fruit bodies on it; the verdigris staining is diagnostic."
+    },
+    "zh": {
+      "summary": "ロクショウグサレキン。发生于阔叶朽木与落枝的胶陀螺科小型盘菌，菌丝将木材染成蓝绿（铜绿）色，于染色木上生小碗状子实体。",
+      "habitat_hint": "湿润阔叶朽木、落枝、倒木。",
+      "finding_tips": "寻找染成蓝绿色的朽木并查其上小碗状子实体；木材铜绿染色为辨识点。"
+    }
+  },
+  "Chondracanthus intermedius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "カイノリ。潮間帯の岩上に生えるスギノリ科の紅藻。葉状体は扁平で二又に分枝し、暗紅色〜黄緑色を帯びる。古くは糊料や食用に利用された。波あたりのある岩場に生える。",
+      "habitat_hint": "潮間帯の岩上、波あたりのある岩場、潮だまりの縁。",
+      "finding_tips": "潮間帯の岩上で、扁平に二又分枝する暗紅色の海藻を探す。やや厚みのある葉状体が識別点。"
+    },
+    "en": {
+      "summary": "A red alga (Chondracanthus intermedius) of intertidal rock; the flattened thallus branches dichotomously and is dark red to yellow-green. It was formerly used for glue and food, and grows on wave-washed rock.",
+      "habitat_hint": "Intertidal rock, wave-washed shores and tide-pool margins.",
+      "finding_tips": "On intertidal rock look for a flattened dichotomously branched dark-red alga; the somewhat thick thallus is diagnostic."
+    },
+    "zh": {
+      "summary": "カイノリ（中间软刺藻）。生于潮间带岩面的杉海苔科红藻，叶状体扁平、二叉分枝、暗红至黄绿，旧作糊料与食用，生于浪击岩场。",
+      "habitat_hint": "潮间带岩面、浪击岩场、潮池边缘。",
+      "finding_tips": "潮间带岩面寻找扁平二叉分枝的暗红藻；叶状体稍厚为辨识点。"
+    }
+  },
+  "Chondrus verrucosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "イボツノマタ。潮間帯の岩上に生えるスギノリ科の紅藻。葉状体は扁平で二又に分枝し、表面に小さないぼ状の突起（生殖器巣）が並ぶのが名の由来。暗紅色で、寒天質を含み食用や糊料に利用される。",
+      "habitat_hint": "潮間帯の岩上、波あたりのある岩場、潮だまりの縁。",
+      "finding_tips": "潮間帯の岩上で、扁平に二又分枝し表面にいぼをもつ暗紅色の海藻を探す。いぼ状の突起が識別点。"
+    },
+    "en": {
+      "summary": "A red alga (Chondrus verrucosus) of intertidal rock; the flattened dichotomously branched thallus bears small wart-like bumps (reproductive structures), the source of its Japanese name. Dark red and gelatinous, it is used for food and glue.",
+      "habitat_hint": "Intertidal rock, wave-washed shores and tide-pool margins.",
+      "finding_tips": "On intertidal rock look for a flattened dichotomous dark-red alga with warty bumps; the warts are diagnostic."
+    },
+    "zh": {
+      "summary": "イボツノマタ（异色角叉菜）。生于潮间带岩面的杉海苔科红藻，叶状体扁平二叉分枝、表面具小疣突（生殖结构，和名之源），暗红胶质，供食用与糊料。",
+      "habitat_hint": "潮间带岩面、浪击岩场、潮池边缘。",
+      "finding_tips": "潮间带岩面寻找扁平二叉、表面具疣的暗红藻；疣突为辨识点。"
+    }
+  },
+  "Chorda filum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea lace",
+    "aliases": {
+      "zh-Hans": "绳藻"
+    },
+    "ja": {
+      "summary": "ツルモ。内湾の浅い海の岩や他の海藻に付着して生える褐藻。体はひも状で分枝せず細長く伸び、ぬるぬるした感触をもつ。春から夏に成長し、しばしば長く垂れ下がる。",
+      "habitat_hint": "内湾の浅い岩上、他の海藻、養殖施設などへの付着。",
+      "finding_tips": "内湾の浅い海で、分枝せず細長くひも状に垂れ下がるぬめりのある褐色の海藻を探す。無分枝の紐状が識別点。"
+    },
+    "en": {
+      "summary": "Sea lace (Chorda filum). A brown alga attaching to rock and other seaweeds in shallow bays; the unbranched cord-like body grows long and slender with a slimy feel, growing in spring–summer and often hanging in long strands.",
+      "habitat_hint": "Shallow inner-bay rocks, other seaweeds and culture structures.",
+      "finding_tips": "In shallow bays look for a slimy unbranched brown alga hanging in long cords; the unbranched cord form is diagnostic."
+    },
+    "zh": {
+      "summary": "ツルモ（绳藻）。附生于内湾浅海岩石与他藻的褐藻，体绳状不分枝、细长而黏滑，春夏生长、常长垂成条。",
+      "habitat_hint": "内湾浅海岩面、他藻、养殖设施附着。",
+      "finding_tips": "内湾浅海寻找不分枝细长黏滑的褐色绳状藻；无分枝绳状为辨识点。"
+    }
+  },
+  "Chorthippus brunneus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒナバッタ。草地や河原、道端に普通に見られるバッタ科の小さなバッタ。体は褐色で、翅を後脚でこすって「チキチキ」と鳴く。日当たりのよい乾いた草地に多い。ユーラシアに広く分布する。",
+      "habitat_hint": "日当たりのよい草地、河原、道端、堤防。",
+      "finding_tips": "夏〜秋、乾いた草地で褐色の小さなバッタを探す。後脚を翅にこすりつけて鳴く点が手がかり。"
+    },
+    "en": {
+      "summary": "Field grasshopper (Chorthippus brunneus). A small common grasshopper of grassland, riverbanks and roadsides; the body is brown and it sings by rubbing its hind legs against the wings. It favours sunny dry grassland and is widespread across Eurasia.",
+      "habitat_hint": "Sunny grassland, riverbanks, roadsides and embankments.",
+      "finding_tips": "In summer–autumn on dry grassland look for a small brown grasshopper; its leg-against-wing song is a clue."
+    },
+    "zh": {
+      "summary": "ヒナバッタ（褐色雏蝗）。草地、河滩与路边常见的蝗科小型蝗，体褐色，以后足摩擦翅发声，喜向阳干草地，广布欧亚。",
+      "habitat_hint": "向阳草地、河滩、路边、堤防。",
+      "finding_tips": "夏秋于干草地寻找褐色小蝗；后足摩翅发声为线索。"
+    }
+  },
+  "Chrysoesthia drurella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Twirler moth",
+    "ja": {
+      "summary": "ヘルマンアカザキバガ。アカザ科（ヒユ科）の植物につくキバガ科の非常に小さな蛾。幼虫は葉の内部に潜り込んで葉肉を食べ、潜行痕（リーフマイン）を残す。成虫は斑紋のある小さな翅をもつ。",
+      "habitat_hint": "アカザ・シロザなどの生える畑、道端、空き地。",
+      "finding_tips": "アカザ・シロザの葉にできる潜行痕（マイン）を探す。中に潜む幼虫が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny twirler moth (Chrysoesthia drurella) associated with goosefoot plants; the larva mines inside leaves eating the tissue and leaving a mine, and the adult has small patterned wings.",
+      "habitat_hint": "Fields, roadsides and waste ground with goosefoot plants.",
+      "finding_tips": "Look for leaf mines on goosefoot and fat-hen leaves; the larva inside is a clue."
+    },
+    "zh": {
+      "summary": "ヘルマンアカザキバガ。为害藜科（苋科）植物的麦蛾科极小型蛾，幼虫潜叶取食叶肉、留潜道，成虫翅小具斑纹。",
+      "habitat_hint": "生藜、灰菜等的农田、路边、空地。",
+      "finding_tips": "于藜与灰菜叶寻找潜道；道内幼虫为线索。"
+    }
+  },
+  "Chrysozephyrus ataxus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キリシマミドリシジミ。山地の広葉樹林に生息するシジミチョウ科のゼフィルス（樹上性のシジミチョウ）。雄の翅表は金属光沢のある鮮やかな緑色。幼虫はアカガシなどの常緑カシ類の葉を食べる。美しいチョウとして人気が高い。",
+      "habitat_hint": "山地の常緑カシ類（アカガシなど）のある広葉樹林。",
+      "finding_tips": "初夏、山地のカシ林で金属緑色に輝くシジミチョウを探す。雄の翅表の鮮やかな緑が識別点。"
+    },
+    "en": {
+      "summary": "A hairstreak butterfly (Chrysozephyrus ataxus) of montane broadleaf forest; the male's upperwings are a brilliant metallic green. The larvae feed on evergreen oaks such as red oak, and it is prized as a beautiful butterfly.",
+      "habitat_hint": "Montane broadleaf forest with evergreen oaks (e.g. red oak).",
+      "finding_tips": "In early summer in montane oak forest look for a hairstreak flashing metallic green; the male's brilliant green upperwing is diagnostic."
+    },
+    "zh": {
+      "summary": "キリシマミドリシジミ（雾岛绿小灰蝶）。栖于山地阔叶林的灰蝶科绿色小灰蝶（树栖），雄蝶翅面金属光泽鲜绿，幼虫食赤橿等常绿栎类叶，为受喜爱的美丽蝶。",
+      "habitat_hint": "山地生常绿栎类（如赤橿）的阔叶林。",
+      "finding_tips": "初夏于山地栎林寻找闪金属绿的小灰蝶；雄蝶翅面鲜绿为辨识点。"
+    }
+  },
+  "Cicindela okinawana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiger beetle",
+    "ja": {
+      "summary": "オキナワハンミョウ。沖縄などの南西諸島の林道や裸地に生息するオサムシ科（ハンミョウ類）の甲虫。体は金属光沢をもち美しい色彩。大きな眼と鋭い大あごをもち、素早く走って小さな虫を捕食する肉食性。",
+      "habitat_hint": "南西諸島の林道、裸地、日当たりのよい地表。",
+      "finding_tips": "晴れた日、林道や裸地で金属光沢のある美しい甲虫が素早く走るのを探す。近づくと少し飛んで逃げる点が手がかり。"
+    },
+    "en": {
+      "summary": "A tiger beetle (Cicindela okinawana) of forest tracks and bare ground in the Ryukyus; the body is metallic and beautifully coloured. With large eyes and sharp jaws, it runs fast to catch small insects as a predator.",
+      "habitat_hint": "Ryukyu forest tracks, bare ground and sunny ground.",
+      "finding_tips": "On sunny days on tracks and bare ground look for a beautiful metallic beetle running fast; flying a short way when approached is a clue."
+    },
+    "zh": {
+      "summary": "オキナワハンミョウ。栖于冲绳等琉球群岛林道与裸地的步甲科（虎甲类）甲虫，体具金属光泽、色彩艳丽，大眼利颚，疾走捕食小虫、肉食性。",
+      "habitat_hint": "琉球群岛林道、裸地、向阳地表。",
+      "finding_tips": "晴日于林道与裸地寻找金属光泽疾走的美丽甲虫；受近时短飞逃走为线索。"
+    }
+  },
+  "Cinnamomum daphnoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Round-leaf camphor",
+    "ja": {
+      "summary": "マルバニッケイ。南日本の海岸近くの林に生えるクスノキ科の常緑低木〜小高木。葉は厚く革質で丸みがあり、三本の脈が目立つ。枝葉に芳香がある。海岸の風に強く、暖地の海岸林を構成する。",
+      "habitat_hint": "暖地の海岸近くの林、崖、常緑広葉樹林。",
+      "finding_tips": "海岸近くで厚く丸い革質の葉をもつ常緑樹を探す。三行脈と、枝葉をちぎったときの芳香が識別点。"
+    },
+    "en": {
+      "summary": "A round-leaf cinnamon (Cinnamomum daphnoides), an evergreen shrub to small tree of the laurel family in coastal woods of southern Japan; the leaves are thick, leathery and rounded with three prominent veins, and the foliage is aromatic. Salt-tolerant, it forms part of warm coastal forest.",
+      "habitat_hint": "Warm-region coastal woods, cliffs and evergreen broadleaf forest.",
+      "finding_tips": "Near coasts look for an evergreen with thick rounded leathery leaves; the three main veins and aromatic foliage are diagnostic."
+    },
+    "zh": {
+      "summary": "マルバニッケイ。生于南日本近海林的樟科常绿灌木至小乔木，叶厚革质而圆、三出脉明显，枝叶芳香，耐海风，为暖地海岸林组成种。",
+      "habitat_hint": "暖地近海林、崖壁、常绿阔叶林。",
+      "finding_tips": "近海寻找厚圆革质叶之常绿树；三出脉与枝叶芳香为辨识点。"
+    }
+  },
+  "Circaea ovata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Enchanter's nightshade",
+    "ja": {
+      "summary": "ミズタキソウ。山地の湿った林内や谷沿いに生えるアカバナ科の多年草。対生の卵形の葉をもち、夏に白い小さな花を穂状につける。果実は鉤状の毛に覆われ、衣服や動物に付着して散布される。",
+      "habitat_hint": "山地の湿った林内、谷沿い、沢沿いの半日陰。",
+      "finding_tips": "夏、湿った林内で対生の卵形の葉と白い小花の穂を探す。鉤状の毛のある小さな果実が識別点。"
+    },
+    "en": {
+      "summary": "An enchanter's nightshade (Circaea ovata) of damp montane forests and valleys; it has opposite egg-shaped leaves and spikes of small white flowers in summer. The fruit is covered in hooked hairs that cling to clothing and animals for dispersal.",
+      "habitat_hint": "Damp montane forest interiors, valleys and shaded streamsides.",
+      "finding_tips": "In summer in damp forest look for opposite egg-shaped leaves and spikes of small white flowers; the hook-haired fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "ミズタキソウ。生于山地湿润林内与谷沿的柳叶菜科多年生草本，叶对生卵形，夏生白色小花成穗，果被钩毛、附衣物与动物散播。",
+      "habitat_hint": "山地湿润林内、谷沿、沟沿半阴处。",
+      "finding_tips": "夏于湿林寻找对生卵叶与白色小花穗；具钩毛小果为辨识点。"
+    }
+  },
+  "Cirsium grayanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thistle",
+    "ja": {
+      "summary": "マルバヒレアザミ。山地の林縁や草地に生えるキク科のアザミの一種。茎に葉が流れて翼（ひれ）状になり、とげをもつ。秋に紅紫色の頭花を咲かせる。葉が丸みを帯びるのが名の由来。",
+      "habitat_hint": "山地の林縁、草地、道端のやや湿った明るい場所。",
+      "finding_tips": "秋、山地で茎にひれ状の翼をもち紅紫色の頭花を咲かせるアザミを探す。丸みのある葉が識別点。"
+    },
+    "en": {
+      "summary": "A thistle (Cirsium grayanum) of montane forest edges and grassland; the leaves run down the stem into spiny wings, and it bears rose-purple flower heads in autumn. The rounded leaves give its Japanese name.",
+      "habitat_hint": "Montane forest edges, grassland and damp bright roadsides.",
+      "finding_tips": "In autumn in the mountains look for a thistle with spiny stem-wings and rose-purple heads; the rounded leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "マルバヒレアザミ。生于山地林缘与草地的菊科蓟属之一，叶下延成翼（鳍）状具刺，秋开紫红头花，叶较圆而得和名。",
+      "habitat_hint": "山地林缘、草地、路边稍湿明亮处。",
+      "finding_tips": "秋于山地寻找茎具鳍状翼、紫红头花之蓟；圆钝叶为辨识点。"
+    }
   }
 }
