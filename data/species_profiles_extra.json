@@ -268481,5 +268481,543 @@
       "habitat_hint": "池沼、稻田、休耕田、湿地等静水。",
       "finding_tips": "静水水草间寻找黄褐散黑点的小型水生甲虫；芝麻状斑为辨识点。"
     }
+  },
+  "Bistolida stolida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stolid cowrie",
+    "ja": {
+      "summary": "スソヨツメダカラガイ。南日本〜インド太平洋の浅いサンゴ礁・岩礁に生息するタカラガイ科の小型の巻貝。殻は卵形で光沢があり、背に暗色の斑紋をもつ。夜行性で昼は岩の隙間に潜む。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、転石の下、礁池。",
+      "finding_tips": "干潮時、転石の下で光沢のある卵形のタカラガイを探す。背の暗色斑紋が識別点。"
+    },
+    "en": {
+      "summary": "Stolid cowrie (Bistolida stolida). A small cowrie of shallow coral and rocky reefs from southern Japan through the Indo-Pacific; the glossy egg-shaped shell has dark dorsal blotches. It is nocturnal, hiding in crevices by day.",
+      "habitat_hint": "Shallow coral and rocky reefs, under boulders and lagoons.",
+      "finding_tips": "At low tide under rocks look for a glossy egg-shaped cowrie; the dark dorsal blotches are diagnostic."
+    },
+    "zh": {
+      "summary": "スソヨツメダカラガイ（愚宝螺）。分布南日本至印度太平洋浅珊瑚礁与岩礁的宝贝科小螺，壳卵形有光泽、背具暗斑，夜行昼伏岩隙。",
+      "habitat_hint": "浅珊瑚礁、岩礁、砾石下、礁池。",
+      "finding_tips": "退潮时于石下寻找光亮卵形宝贝；背面暗斑为辨识点。"
+    }
+  },
+  "Bistorta suffulta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bistort",
+    "ja": {
+      "summary": "クリンユキフデ。山地の林内や林縁に生えるタデ科の多年草。春に白い小花を穂状に段々につけ、その姿が「九輪」のように見えるのが名の由来。心形の根生葉をもつ。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、やや湿った斜面。",
+      "finding_tips": "春〜初夏、林床で白い花穂が段状につく草を探す。心形の根生葉と段になる花序が識別点。"
+    },
+    "en": {
+      "summary": "A bistort (Bistorta suffulta) of montane forests and edges; in spring it bears white flowers in spikes arranged in tiers, the source of its Japanese name, and it has heart-shaped basal leaves.",
+      "habitat_hint": "Montane forest floor, edges and damp slopes.",
+      "finding_tips": "In spring–early summer on the forest floor look for tiered white flower spikes; the heart-shaped basal leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "クリンユキフデ。生于山地林内与林缘的蓼科多年生草本，春开白色小花成穗、层叠如九轮（和名之源），具心形基生叶。",
+      "habitat_hint": "山地落叶林林床、林缘、稍湿坡地。",
+      "finding_tips": "春至初夏于林床寻找白花穗层叠之草；心形基生叶与层叠花序为辨识点。"
+    }
+  },
+  "Blechnopsis orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oriental blechnum",
+    "aliases": {
+      "zh-Hans": "乌毛蕨"
+    },
+    "ja": {
+      "summary": "ヒリュウシダ。南日本の暖地の林縁や崖に生えるシシガシラ科の大型のシダ。太い根茎から羽状の大きな葉を放射状に立て、若葉は赤みを帯びて美しい。飛竜のような姿が名の由来。",
+      "habitat_hint": "暖地の林縁、崖、谷沿いの湿った半日陰。",
+      "finding_tips": "暖地の崖や林縁で、羽状の大きな葉を放射状に立てる大型のシダを探す。赤みを帯びた若葉が識別点。"
+    },
+    "en": {
+      "summary": "Oriental blechnum (Blechnopsis orientalis). A large fern of warm-region forest edges and cliffs in southern Japan; stout rhizomes send up radiating pinnate fronds, and the young fronds are a beautiful red. Its dragon-like form gives the Japanese name.",
+      "habitat_hint": "Warm-region forest edges, cliffs and damp shaded valleys.",
+      "finding_tips": "On warm-region cliffs and edges look for a large fern with radiating pinnate fronds; the reddish young fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒリュウシダ（乌毛蕨）。生于南日本暖地林缘与崖壁的乌毛蕨科大型蕨，粗根茎放射状抽出羽状大叶，幼叶带红美观，形如飞龙而得和名。",
+      "habitat_hint": "暖地林缘、崖壁、谷沿湿润半阴处。",
+      "finding_tips": "暖地崖壁与林缘寻找放射状羽状大叶之蕨；幼叶带红为辨识点。"
+    }
+  },
+  "Blenniella bilitonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rockskipper blenny",
+    "ja": {
+      "summary": "ホホグロギンポ。南日本〜インド太平洋の潮間帯の岩礁に生息するイソギンポ科の小さな魚。頭部に頬の黒い斑があり、体には横帯や斑紋がある。岩の表面を跳ねるように移動し、藻類を食べる。",
+      "habitat_hint": "潮間帯の岩礁、潮だまり、サンゴ礁の縁。",
+      "finding_tips": "潮だまりで頬に黒い斑をもつ小さなギンポを探す。岩の上を跳ねるように動く点が手がかり。"
+    },
+    "en": {
+      "summary": "A rockskipper blenny of intertidal reefs from southern Japan through the Indo-Pacific; it has a dark cheek mark and cross-bars on the body, hops over rock surfaces and grazes algae.",
+      "habitat_hint": "Intertidal reefs, tide pools and coral-reef edges.",
+      "finding_tips": "In tide pools look for a small blenny with a dark cheek mark; its hopping over rock is a clue."
+    },
+    "zh": {
+      "summary": "ホホグロギンポ。分布南日本至印度太平洋潮间带岩礁的鳚科小鱼，颊具黑斑、体有横带斑纹，跳跃于岩面啃食藻类。",
+      "habitat_hint": "潮间带岩礁、潮池、珊瑚礁边缘。",
+      "finding_tips": "潮池寻找颊具黑斑的小鳚；岩面跳跃移动为线索。"
+    }
+  },
+  "Blindia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "コシッポゴケ。渓流沿いの湿った岩上や滝のしぶきのかかる岩に生える蘚類。細い茎に披針形の葉をつけ、暗緑色のクッション状の群落をつくる。清冽な流水環境を好む。",
+      "habitat_hint": "渓流沿いの湿った岩上、滝のしぶきのかかる岩、湿った岩壁。",
+      "finding_tips": "渓流の岩上で、披針形の葉をもつ暗緑色のクッション状の蘚を探す。流水環境が手がかり。"
+    },
+    "en": {
+      "summary": "A moss of wet rocks along streams and spray-soaked rocks by waterfalls; the slender stems bear lance-shaped leaves and form dark-green cushions. It favours clean flowing water.",
+      "habitat_hint": "Wet streamside rocks, waterfall-spray rocks and wet rock walls.",
+      "finding_tips": "On streamside rock look for dark-green cushions with lance-shaped leaves; flowing water is a clue."
+    },
+    "zh": {
+      "summary": "コシッポゴケ（东亚小穗藓）。生于溪流沿湿岩与瀑布飞溅岩面的藓类，细茎具披针形叶、成暗绿垫状，喜清澈流水。",
+      "habitat_hint": "溪流沿湿岩、瀑布飞溅岩面、湿岩壁。",
+      "finding_tips": "溪畔岩面寻找披针叶暗绿垫状之藓；流水环境为线索。"
+    }
+  },
+  "Boerhavia glabrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiderling",
+    "ja": {
+      "summary": "ナハカノコソウ。南西諸島の海岸や道端に生えるオシロイバナ科の多年草。地を這って広がり、対生の葉をつけ、細い花茎の先に小さな紅紫色の花をまばらに咲かせる。暖地の海浜植物。",
+      "habitat_hint": "海岸の砂地・岩地、道端、暖地の日当たりのよい場所。",
+      "finding_tips": "海岸や道端で地を這う茎と、細い花茎にまばらにつく小さな紅紫色の花を探す。粘る果実が手がかり。"
+    },
+    "en": {
+      "summary": "A spiderling (Boerhavia glabrata) of coasts and roadsides in the Ryukyus; it trails over the ground with opposite leaves and bears small pink-purple flowers sparsely on slender flower stalks. It is a warm-region shore plant.",
+      "habitat_hint": "Coastal sand and rock, roadsides and sunny warm sites.",
+      "finding_tips": "On coasts and roadsides look for a trailing herb with sparse small pink-purple flowers on slender stalks; the sticky fruit is a clue."
+    },
+    "zh": {
+      "summary": "ナハカノコソウ。生于琉球群岛海岸与路边的紫茉莉科多年生草本，匍匐铺展、叶对生，细花茎顶疏生紫红小花，为暖地海滨植物。",
+      "habitat_hint": "海岸沙地岩地、路边、暖地向阳处。",
+      "finding_tips": "海岸与路边寻找匍匐茎与细花茎上疏生紫红小花；黏果为线索。"
+    }
+  },
+  "Borbo cinnara": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rice swift skipper",
+    "ja": {
+      "summary": "ユウレイセセリ。暖地の草地や農地に見られるセセリチョウ科の小さなチョウ。翅は褐色で、後翅裏に淡色の小さな斑点が並ぶ。素早く飛び、幼虫はイネ科植物を食べる。",
+      "habitat_hint": "暖地の草地、農地、河川敷、道端の草むら。",
+      "finding_tips": "夏〜秋、草地で素早く飛ぶ褐色の小さなセセリを探す。後翅裏の淡色の斑点列が識別点。"
+    },
+    "en": {
+      "summary": "Rice swift (Borbo cinnara). A small skipper of warm-region grassland and farmland; the wings are brown with a row of small pale spots under the hindwing. It flies fast, and the larvae feed on grasses.",
+      "habitat_hint": "Warm-region grassland, farmland, riverbanks and roadside grass.",
+      "finding_tips": "In summer–autumn on grassland look for a small fast brown skipper; the pale spot row under the hindwing is diagnostic."
+    },
+    "zh": {
+      "summary": "ユウレイセセリ。见于暖地草地与农田的弄蝶科小型蝶，翅褐色、后翅反面具淡色小点列，飞行迅速，幼虫食禾本科。",
+      "habitat_hint": "暖地草地、农田、河滩、路边草丛。",
+      "finding_tips": "夏秋于草地寻找快速飞行的褐色小弄蝶；后翅反面淡点列为辨识点。"
+    }
+  },
+  "Bostrycapulus aculeatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiny slipper snail",
+    "ja": {
+      "summary": "アワブネ。潮間帯〜浅海の岩や他の貝殻に付着して生活するカリバガサガイ科の巻貝。殻は笠状で、表面にとげ状の突起が並ぶ。殻の内側に舟のような隔板をもつ。付着したまま水中の有機物を濾しとって食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩上、他の貝殻、転石の下。",
+      "finding_tips": "岩や貝殻の上で、とげ状突起をもつ笠形の巻貝を探す。殻内の舟状の隔板が識別点。"
+    },
+    "en": {
+      "summary": "Spiny slipper snail (Bostrycapulus aculeatus). A slipper snail that attaches to rocks and other shells from the intertidal to shallow water; the cap-shaped shell bears spiny projections and a boat-like internal shelf. It filter-feeds while attached.",
+      "habitat_hint": "Intertidal to shallow rocks, other shells and under boulders.",
+      "finding_tips": "On rock and shells look for a cap-shaped snail with spiny projections; the boat-like internal shelf is diagnostic."
+    },
+    "zh": {
+      "summary": "アワブネ（刺舟螺）。附着于潮间带至浅海岩石与他贝壳的舟螺科螺，壳笠状、表面具刺突、内具舟状隔板，附着滤食水中有机物。",
+      "habitat_hint": "潮间带至浅海岩面、他贝壳、砾石下。",
+      "finding_tips": "岩石与贝壳上寻找具刺突的笠形螺；壳内舟状隔板为辨识点。"
+    }
+  },
+  "Brachinus incomptus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bombardier beetle",
+    "ja": {
+      "summary": "ヒメホソクビゴミムシ。水辺や湿った草地に生息するオサムシ科（ホソクビゴミムシ類）の甲虫。刺激を受けると腹端から高温の化学物質を音とともに噴射して身を守る「ミイデラゴミムシ」の仲間。頭・胸は赤褐色、上翅は暗色。",
+      "habitat_hint": "水辺、湿った草地、河原、石の下。",
+      "finding_tips": "水辺の石をめくって、頭胸が赤褐色で上翅が暗色の甲虫を探す。刺激すると噴射する点が特徴（要注意）。"
+    },
+    "en": {
+      "summary": "A bombardier beetle of watersides and damp grassland; when disturbed it defends itself by ejecting a hot chemical spray with an audible pop from its abdomen tip. The head and thorax are red-brown, the elytra dark.",
+      "habitat_hint": "Watersides, damp grassland, riverbanks and under stones.",
+      "finding_tips": "Turn waterside stones to find a beetle with red-brown head and thorax and dark elytra; its defensive spray is characteristic (handle with care)."
+    },
+    "zh": {
+      "summary": "ヒメホソクビゴミムシ。栖于水边与湿草地的步甲科（气步甲类）甲虫，受激时自腹端喷射高温化学物质并伴响声自卫，头胸红褐、鞘翅暗色。",
+      "habitat_hint": "水边、湿草地、河滩、石下。",
+      "finding_tips": "翻水边石块寻找头胸红褐、鞘翅暗色之甲虫；受激喷射为特征（宜小心）。"
+    }
+  },
+  "Brachyramphus perdix": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-billed Murrelet",
+    "aliases": {
+      "zh-Hans": "斑海雀"
+    },
+    "ja": {
+      "summary": "マダラウミスズメ。北太平洋に分布するウミスズメ科の小さな海鳥。夏羽は褐色のまだら模様で、内陸の針葉樹林に営巣する変わった習性をもつ。冬は沿岸の海上で過ごす。翼を使って潜水し小魚を捕る。",
+      "habitat_hint": "沿岸の海上、内陸の針葉樹林（繁殖期）、冬季の日本近海。",
+      "finding_tips": "冬、沿岸の海上で褐色のまだら模様の小さな海鳥を探す。ずんぐりした体と細めのくちばしが手がかり。"
+    },
+    "en": {
+      "summary": "Long-billed Murrelet (Brachyramphus perdix). A small auk of the North Pacific; in summer it is mottled brown and unusually nests in inland conifer forest, spending winter on coastal seas. It dives with its wings to catch small fish.",
+      "habitat_hint": "Coastal seas, inland conifer forest (breeding), Japanese seas in winter.",
+      "finding_tips": "In winter on coastal seas look for a small mottled-brown seabird; the stocky body and slim bill are clues."
+    },
+    "zh": {
+      "summary": "マダラウミスズメ（斑海雀）。分布北太平洋的海雀科小型海鸟，夏羽褐色斑驳，异常地于内陆针叶林营巢，冬季栖于沿岸海面，以翅潜水捕小鱼。",
+      "habitat_hint": "沿岸海面、内陆针叶林（繁殖）、冬季日本近海。",
+      "finding_tips": "冬于沿岸海面寻找褐色斑驳小海鸟；体粗壮、喙较细为线索。"
+    }
+  },
+  "Brachythecium coreanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "コマノヒツジゴケ。地上や岩上、樹幹の基部、朽木などに広く生える蘚類（アオギヌゴケ科）。細い茎が這って羽状に分枝し、緑〜黄緑色のマットをつくる。身近な環境でも普通に見られる。",
+      "habitat_hint": "地上、岩上、樹幹の基部、朽木、土手。",
+      "finding_tips": "地上や岩上で、細い茎が這ってマット状に広がる緑色の蘚を探す。光沢のある葉が手がかり。"
+    },
+    "en": {
+      "summary": "A moss growing widely on soil, rocks, tree bases and rotten wood; the slender creeping stems branch pinnately to form green to yellow-green mats. It is common even in everyday settings.",
+      "habitat_hint": "Soil, rocks, tree bases, rotten wood and banks.",
+      "finding_tips": "On soil and rock look for a green moss with slender creeping stems forming mats; the glossy leaves are a clue."
+    },
+    "zh": {
+      "summary": "コマノヒツジゴケ（尖叶青藓）。广生于地上、岩面、树基与朽木的青藓科藓类，细茎匍匐羽状分枝、成绿至黄绿垫，常见于身边环境。",
+      "habitat_hint": "地上、岩面、树基、朽木、土坡。",
+      "finding_tips": "地上与岩面寻找细茎匍匐成垫的绿藓；叶有光泽为线索。"
+    }
+  },
+  "Brachythecium helminthocladum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ヒモヒツジゴケ。地上や岩上、樹幹の基部などに生える蘚類（アオギヌゴケ科）。細い茎が這って伸び、枝が紐状に細長くなるのが名の由来。緑〜黄緑色のマットをつくる。",
+      "habitat_hint": "地上、岩上、樹幹の基部、朽木、やや湿った場所。",
+      "finding_tips": "地上や岩上で、枝が紐状に細長く伸びてマット状に広がる緑色の蘚を探す。細長い枝が識別点。"
+    },
+    "en": {
+      "summary": "A moss of soil, rocks and tree bases; the slender creeping stems produce long thread-like branches (the source of its Japanese name), forming green to yellow-green mats.",
+      "habitat_hint": "Soil, rocks, tree bases, rotten wood and somewhat damp sites.",
+      "finding_tips": "On soil and rock look for a green moss with long thread-like branches forming mats; the elongate branches are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒモヒツジゴケ（平枝青藓）。生于地上、岩面与树基的青藓科藓类，细茎匍匐、枝细长如绳（和名之源），成绿至黄绿垫。",
+      "habitat_hint": "地上、岩面、树基、朽木、稍湿处。",
+      "finding_tips": "地上与岩面寻找枝细长如绳成垫的绿藓；细长枝为辨识点。"
+    }
+  },
+  "Brinckochrysa kintoki": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green lacewing",
+    "ja": {
+      "summary": "キントキクサカゲロウ。林縁や樹上に見られるクサカゲロウ科の小さな昆虫。翅は透明で緑色の脈をもち、金色に光る複眼をもつ。幼虫はアブラムシなどを捕食する益虫。",
+      "habitat_hint": "林縁、雑木林、公園の樹木、庭。",
+      "finding_tips": "夏の夜、灯火に来る透明な翅をもつ緑色のクサカゲロウを探す。金色に光る目が識別点。"
+    },
+    "en": {
+      "summary": "A green lacewing of forest edges and trees; the transparent wings have green veins and the eyes gleam golden. Its larvae are beneficial predators of aphids.",
+      "habitat_hint": "Forest edges, secondary woodland, park trees and gardens.",
+      "finding_tips": "On summer nights at lights look for a green lacewing with transparent wings; the golden gleaming eyes are diagnostic."
+    },
+    "zh": {
+      "summary": "キントキクサカゲロウ。见于林缘与树上的草蛉科小虫，翅透明具绿脉、复眼金光，幼虫捕食蚜虫为益虫。",
+      "habitat_hint": "林缘、杂木林、公园树木、庭园。",
+      "finding_tips": "夏夜灯下寻找翅透明绿脉之草蛉；金光复眼为辨识点。"
+    }
+  },
+  "Buccinum bayani": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "カガバイ。日本海側などの北方のやや深い砂泥底に生息するエゾバイ科の巻貝。殻は紡錘形で、螺旋状の彫刻をもつ。肉食性・腐肉食性で、他の貝や動物の死骸を食べる。食用にもなる。",
+      "habitat_hint": "北方のやや深い海の砂泥底、大陸棚。",
+      "finding_tips": "北の深めの海底で紡錘形の巻貝を探す。螺旋状の彫刻をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "A whelk of deeper muddy-sand bottoms in northern seas such as the Sea of Japan; the spindle-shaped shell bears spiral sculpture. It is a carnivore and scavenger of shellfish and carrion, and is also eaten.",
+      "habitat_hint": "Deeper muddy-sand bottoms and shelf of northern seas.",
+      "finding_tips": "On deeper northern seabeds look for a spindle-shaped whelk; the spiral sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "カガバイ。栖于日本海侧等北方较深砂泥底的蛾螺科螺，壳纺锤形、具螺旋雕刻，肉食兼腐食贝类与动物尸体，亦供食用。",
+      "habitat_hint": "北方较深海砂泥底、大陆架。",
+      "finding_tips": "北方较深海底寻找纺锤形螺；螺旋雕刻为辨识点。"
+    }
+  },
+  "Buccinum tsubai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "ツバイ。日本海の砂泥底に生息するエゾバイ科の巻貝。殻は紡錘形でやや薄く、螺旋状の彫刻をもつ。肉食性・腐肉食性で、日本海側では「バイ」として食用に漁獲される。",
+      "habitat_hint": "日本海のやや深い砂泥底、大陸棚。",
+      "finding_tips": "日本海の砂泥底で紡錘形のやや薄い巻貝を探す。螺旋状の彫刻をもつ殻が識別点。食用貝。"
+    },
+    "en": {
+      "summary": "A whelk of muddy-sand bottoms in the Sea of Japan; the spindle-shaped shell is rather thin with spiral sculpture. A carnivore and scavenger, it is fished for food on the Sea-of-Japan coast.",
+      "habitat_hint": "Deeper muddy-sand bottoms and shelf of the Sea of Japan.",
+      "finding_tips": "On Sea-of-Japan mud-sand look for a spindle-shaped rather thin whelk; the spiral sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "ツバイ。栖于日本海砂泥底的蛾螺科螺，壳纺锤形略薄、具螺旋雕刻，肉食兼腐食，日本海侧作食用贝渔获。",
+      "habitat_hint": "日本海较深砂泥底、大陆架。",
+      "finding_tips": "日本海砂泥底寻找纺锤形略薄之螺；螺旋雕刻为辨识点；为食用贝。"
+    }
+  },
+  "Bucklandiella heterosticha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "クロカワキゴケ。日当たりのよい岩上に生えるギボウシゴケ科の蘚類。乾くと黒っぽく見え、湿ると緑色になる。葉の先に白い透明尖（毛のような部分）をもつことが多い。乾湿の変化に強い。",
+      "habitat_hint": "日当たりのよい岩上、露岩、石垣、山地の岩場。",
+      "finding_tips": "日当たりのよい岩上で、乾くと黒っぽく見えるクッション状の蘚を探す。葉先の白い透明尖が識別点。"
+    },
+    "en": {
+      "summary": "A moss of sunny rocks; it looks blackish when dry and turns green when wet, and the leaves often end in a white hyaline hair-point. It tolerates repeated drying and wetting.",
+      "habitat_hint": "Sunny rocks, exposed outcrops, stone walls and montane rock.",
+      "finding_tips": "On sunny rock look for a cushion moss that darkens when dry; the white hair-points on the leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "クロカワキゴケ。生于向阳岩面的紫萼藓科藓类，干时发黑、湿时转绿，叶尖常具白色透明毛尖，耐干湿变化。",
+      "habitat_hint": "向阳岩面、露岩、石墙、山地岩场。",
+      "finding_tips": "向阳岩面寻找干时发黑的垫状藓；叶尖白色透明毛尖为辨识点。"
+    }
+  },
+  "Buddleja curviflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Butterfly bush",
+    "ja": {
+      "summary": "コフジウツギ。南日本の海岸近くや暖地の林縁に生えるゴマノハグサ科（またはフジウツギ科）の落葉低木。枝先に紅紫色の細い筒状の小花を穂状に多数つける。フジウツギに似るが花がやや小さい。",
+      "habitat_hint": "暖地の海岸近く、林縁、道端の日当たりのよい場所。",
+      "finding_tips": "夏、枝先に紅紫色の細い筒状の小花が穂状につく低木を探す。対生の葉と花穂が識別点。"
+    },
+    "en": {
+      "summary": "A butterfly bush (Buddleja curviflora) of coastal areas and warm-region forest edges in southern Japan; the branch tips bear spikes of many slender tubular pink-purple flowers. It resembles the larger buddleja but with somewhat smaller flowers.",
+      "habitat_hint": "Warm-region coastal areas, forest edges and sunny roadsides.",
+      "finding_tips": "In summer look for a shrub with spikes of slender tubular pink-purple flowers at the branch tips; opposite leaves and flower spikes are diagnostic."
+    },
+    "zh": {
+      "summary": "コフジウツギ（弯花醉鱼草）。生于南日本近海与暖地林缘的玄参科（或马钱科）落叶灌木，枝端穗状生众多紫红细管状小花，似大醉鱼草而花稍小。",
+      "habitat_hint": "暖地近海、林缘、路边向阳处。",
+      "finding_tips": "夏于枝端寻找紫红细管状小花成穗之灌木；对生叶与花穗为辨识点。"
+    }
+  },
+  "Bupleurum longiradiatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hare's ear",
+    "aliases": {
+      "zh-Hans": "大叶柴胡"
+    },
+    "ja": {
+      "summary": "オオホタルサイコ。山地の林縁や草地に生えるセリ科の多年草。細長い葉をもち、夏に黄色い小花を複散形花序につける。薬草のミシマサイコに近縁だが、本種は有毒とされ薬用にはしない。",
+      "habitat_hint": "山地の林縁、草地、やや湿った明るい斜面。",
+      "finding_tips": "夏、山地の草地で細長い葉と黄色い小さな散形花序をもつ草を探す。有毒とされるため利用しないこと。"
+    },
+    "en": {
+      "summary": "A hare's ear (Bupleurum longiradiatum) of montane forest edges and grassland; it has long narrow leaves and yellow flowers in compound umbels in summer. Unlike the medicinal thorowax, this species is considered toxic and is not used medicinally.",
+      "habitat_hint": "Montane forest edges, grassland and damp bright slopes.",
+      "finding_tips": "In summer on montane grassland look for long narrow leaves and small yellow umbels; considered toxic, so do not use it."
+    },
+    "zh": {
+      "summary": "オオホタルサイコ（大叶柴胡）。生于山地林缘与草地的伞形科多年生草本，叶细长，夏生黄色小花复伞形花序。近药用柴胡但本种被认为有毒，不作药用。",
+      "habitat_hint": "山地林缘、草地、稍湿明亮坡地。",
+      "finding_tips": "夏于山地草地寻找细长叶与黄色小伞形花序之草；被视为有毒，勿用。"
+    }
+  },
+  "Bursatella leachii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ragged sea hare",
+    "ja": {
+      "summary": "フレリトゲアメフラシ。内湾の浅い砂泥底や藻場に生息するアメフラシの仲間。体表に多数の房状・とげ状の突起（皮弁）があり、藻や海底に擬態する。海藻や付着藻類を食べる。刺激すると紫色の液を出す。",
+      "habitat_hint": "内湾の浅い砂泥底、藻場、干潟の水たまり。",
+      "finding_tips": "内湾の浅場で、体表に房状の突起を多数もつ緑褐色の軟らかい生き物を探す。海底に擬態する姿が手がかり。"
+    },
+    "en": {
+      "summary": "Ragged sea hare (Bursatella leachii). A sea hare of shallow muddy-sand bottoms and algal beds in inner bays; its surface bears many shaggy branched projections that camouflage it against the bottom. It grazes algae and releases purple fluid when disturbed.",
+      "habitat_hint": "Shallow muddy-sand bottoms, algal beds and tidal-flat pools.",
+      "finding_tips": "In shallow bays look for a soft green-brown animal covered in shaggy projections; its camouflage against the bottom is a clue."
+    },
+    "zh": {
+      "summary": "フレリトゲアメフラシ（利氏海兔）。栖于内湾浅砂泥底与藻场的海兔类，体表具众多丛状分枝突起以拟态底质，啃食藻类，受激释放紫色液。",
+      "habitat_hint": "内湾浅砂泥底、藻场、潮滩水洼。",
+      "finding_tips": "内湾浅处寻找体被丛状突起的绿褐软体；拟态海底为线索。"
+    }
+  },
+  "Caecum glabellum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caecum snail",
+    "ja": {
+      "summary": "ミジンツツガイ。潮間帯〜浅海の砂底や海藻の間に生息する非常に小さな巻貝（ツツガイ科）。殻は角のように少し曲がった細い筒状で、成長とともに初期の巻きが失われる。砂粒ほどの大きさ。",
+      "habitat_hint": "潮間帯〜浅海の砂底、海藻の間、貝殻片の間。",
+      "finding_tips": "砂や貝殻片をふるって、角状に少し曲がった砂粒ほどの筒状の貝殻を探す（要ルーペ）。"
+    },
+    "en": {
+      "summary": "A very small caecum snail of intertidal to shallow sand and among algae; the shell is a slender slightly curved tube, its early whorls lost with growth. It is the size of a sand grain.",
+      "habitat_hint": "Intertidal to shallow sand, among algae and in shell grit.",
+      "finding_tips": "Sift sand and shell grit for a slightly curved tubular shell the size of a sand grain (use a lens)."
+    },
+    "zh": {
+      "summary": "ミジンツツガイ。栖于潮间带至浅海砂底与海藻间的极小型螺（管螺科），壳为略弯的细管状、随生长失去早期螺旋，仅砂粒大小。",
+      "habitat_hint": "潮间带至浅海砂底、海藻间、贝壳碎屑间。",
+      "finding_tips": "筛砂与贝壳碎屑寻找略弯管状、砂粒大小之壳（需放大镜）。"
+    }
+  },
+  "Cakile edentula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "American sea rocket",
+    "ja": {
+      "summary": "オニハマダイコン。北アメリカ原産で海岸の砂浜に帰化したアブラナ科の一年草。多肉質でやや厚い葉をもち、淡紫色の小さな十字花を咲かせる。果実は2節に分かれ、砂浜に群生する。",
+      "habitat_hint": "海岸の砂浜、砂丘、汀線近くの砂地。",
+      "finding_tips": "砂浜で多肉質の厚い葉と淡紫色の小花をもつ草を探す。2節に分かれる特徴的な果実が識別点。"
+    },
+    "en": {
+      "summary": "American sea rocket (Cakile edentula). An annual of the mustard family native to North America and naturalised on sandy beaches; it has somewhat thick fleshy leaves and small pale-purple flowers. The fruit splits into two segments, and it grows in beach stands.",
+      "habitat_hint": "Sandy beaches, dunes and sand near the strandline.",
+      "finding_tips": "On sandy beaches look for a plant with thick fleshy leaves and small pale-purple flowers; the two-segmented fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "オニハマダイコン（美洲海芥）。原产北美、逸生于海岸沙滩的十字花科一年生草本，叶稍厚肉质，开淡紫色小十字花，果分二节，成片生于沙滩。",
+      "habitat_hint": "海岸沙滩、沙丘、汀线附近沙地。",
+      "finding_tips": "沙滩寻找厚肉质叶与淡紫小花之草；果分二节为辨识点。"
+    }
+  },
+  "Calcinus latens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hidden hermit crab",
+    "ja": {
+      "summary": "ツマジロサンゴヤドカリ。南日本〜インド太平洋の浅いサンゴ礁・岩礁に生息するヨコバサミ科のヤドカリ。脚の先が白いのが名の由来。巻貝の殻を宿にし、藻類や有機物を食べる。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、潮だまり、礁池。",
+      "finding_tips": "潮だまりやサンゴ礁で、脚の先が白いヤドカリを探す。巻貝の殻を背負う姿が手がかり。"
+    },
+    "en": {
+      "summary": "Hidden hermit crab (Calcinus latens). A hermit crab of shallow coral and rocky reefs from southern Japan through the Indo-Pacific; the white leg tips give its Japanese name. It lives in snail shells, feeding on algae and detritus.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs, tide pools and lagoons.",
+      "finding_tips": "In tide pools and on reefs look for a hermit crab with white leg tips carrying a snail shell."
+    },
+    "zh": {
+      "summary": "ツマジロサンゴヤドカリ。分布南日本至印度太平洋浅珊瑚礁与岩礁的活额寄居蟹科寄居蟹，足端白色（和名之源），居螺壳，食藻类与有机物。",
+      "habitat_hint": "浅珊瑚礁、岩礁、潮池、礁池。",
+      "finding_tips": "潮池与珊瑚礁寻找足端白色的寄居蟹；背负螺壳为线索。"
+    }
+  },
+  "Calcinus seurati": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Zebra hermit crab",
+    "ja": {
+      "summary": "シロサンゴヤドカリ。南日本〜インド太平洋の潮間帯の岩礁やサンゴ礁に生息するヨコバサミ科のヤドカリ。脚に黒白の縞模様があり、巻貝の殻を宿にする。藻類や有機物を食べる。",
+      "habitat_hint": "潮間帯の岩礁、サンゴ礁、潮だまり。",
+      "finding_tips": "潮だまりで脚に黒白の縞模様をもつヤドカリを探す。巻貝の殻を背負う姿と縞模様が識別点。"
+    },
+    "en": {
+      "summary": "Zebra hermit crab (Calcinus seurati). A hermit crab of intertidal reefs and coral from southern Japan through the Indo-Pacific; its legs are banded black and white and it lives in snail shells, feeding on algae and detritus.",
+      "habitat_hint": "Intertidal rocky reefs, coral reefs and tide pools.",
+      "finding_tips": "In tide pools look for a hermit crab with black-and-white banded legs carrying a snail shell; the banding is diagnostic."
+    },
+    "zh": {
+      "summary": "シロサンゴヤドカリ。分布南日本至印度太平洋潮间带岩礁与珊瑚礁的活额寄居蟹科寄居蟹，足具黑白条纹，居螺壳，食藻类与有机物。",
+      "habitat_hint": "潮间带岩礁、珊瑚礁、潮池。",
+      "finding_tips": "潮池寻找足具黑白条纹的寄居蟹；条纹与背负螺壳为辨识点。"
+    }
+  },
+  "Callicarpa shirasawana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beautyberry",
+    "ja": {
+      "summary": "イヌムラサキシキブ。山地の林縁や林内に生えるシソ科（旧クマツヅラ科）の落葉低木。ムラサキシキブに似て、初夏に淡紫色の小花をつけ、秋に紫色の小さな果実を房状に熟す。ムラサキシキブとヤブムラサキの中間的とされる。",
+      "habitat_hint": "山地の林縁、林内、道端のやや明るい場所。",
+      "finding_tips": "秋、枝に沿って紫色の小さな果実が房状につく低木を探す。対生の葉とムラサキシキブに似た姿が手がかり。"
+    },
+    "en": {
+      "summary": "A beautyberry (Callicarpa shirasawana) of montane forest edges and interiors; like Japanese beautyberry it bears pale-purple flowers in early summer and clusters of small purple fruit in autumn. It is considered intermediate between two related beautyberries.",
+      "habitat_hint": "Montane forest edges, interiors and bright roadsides.",
+      "finding_tips": "In autumn look for a shrub with clusters of small purple fruit along the branches; opposite leaves and a beautyberry look are clues."
+    },
+    "zh": {
+      "summary": "イヌムラサキシキブ。生于山地林缘与林内的唇形科（旧马鞭草科）落叶灌木，似紫珠，初夏开淡紫小花、秋结紫色小果成簇，被认为介于两种近缘紫珠之间。",
+      "habitat_hint": "山地林缘、林内、路边稍明亮处。",
+      "finding_tips": "秋于枝上寻找紫色小果成簇之灌木；对生叶与紫珠状姿为线索。"
+    }
   }
 }
