@@ -264876,5 +264876,553 @@
       "habitat_hint": "潮间带岩礁、砾石下、岩隙。",
       "finding_tips": "退潮时翻石寻找甲光滑扇形的小蟹；昼伏石下。"
     }
+  },
+  "Spinifex littoreus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beach spinifex",
+    "aliases": {
+      "zh-Hans": "老鼠艻"
+    },
+    "ja": {
+      "summary": "ツキイゲ。南日本の海岸砂丘に生えるイネ科の多年草。かたく鋭い葉をもち、砂を固定する。雌雄異株で、雌株は球状に広がる大きな花序をつけ、熟すと転がって種子を散布する。",
+      "habitat_hint": "海岸の砂丘、砂浜の後背、日当たりのよい砂地。",
+      "finding_tips": "砂浜で放射状に広がる球形の大きな花序を探す。かたく鋭い葉と砂を固定する株が識別点。"
+    },
+    "en": {
+      "summary": "Beach spinifex (Spinifex littoreus). A dune grass of southern Japanese coasts with stiff sharp leaves that bind sand; it is dioecious, the female forming a large spherical seed head that detaches and rolls to disperse seeds.",
+      "habitat_hint": "Coastal dunes, back-beach sand and sunny sandy ground.",
+      "finding_tips": "On sandy beaches look for a large spherical radiating seed head; stiff sharp leaves anchoring the sand are diagnostic."
+    },
+    "zh": {
+      "summary": "ツキイゲ（老鼠艻）。生于南日本海岸沙丘的禾本科多年生草本，叶硬而尖、固沙，雌雄异株，雌株结球形大花序，成熟脱落滚动散播种子。",
+      "habitat_hint": "海岸沙丘、沙滩后缘、向阳沙地。",
+      "finding_tips": "沙滩寻找放射状球形大花序；硬尖叶与固沙株丛为辨识点。"
+    }
+  },
+  "Stemonitopsis typhina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ダテコムラサキホコリ。朽木や落枝に発生する変形菌（粘菌）の一種。細い柄の上に円筒形の子実体を群がってつけ、成熟すると暗紫褐色の胞子塊になる。",
+      "habitat_hint": "湿った朽木、落枝、倒木の樹皮上。",
+      "finding_tips": "梅雨〜夏、湿った朽木で細い柄に円筒形の小さな子実体が群生するのを探す。ルーペで観察するとよい。"
+    },
+    "en": {
+      "summary": "A slime mould that fruits on rotting wood and fallen branches; slender stalks bear crowded cylindrical fruiting bodies that mature to dark purplish-brown spore masses.",
+      "habitat_hint": "Damp rotting wood, fallen branches and bark of logs.",
+      "finding_tips": "In the rainy season to summer look on damp dead wood for clusters of small cylindrical stalked fruiting bodies; a hand lens helps."
+    },
+    "zh": {
+      "summary": "ダテコムラサキホコリ（香蒲拟发网菌）。发生于朽木落枝的黏菌，细柄上群生圆筒形子实体，成熟为暗紫褐色孢子团。",
+      "habitat_hint": "湿润朽木、落枝、倒木树皮上。",
+      "finding_tips": "梅雨至夏于湿朽木寻找细柄圆筒形子实体群生；宜用放大镜观察。"
+    }
+  },
+  "Stenotaphrum secundatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "St. Augustine grass",
+    "aliases": {
+      "zh-Hans": "钝叶草"
+    },
+    "ja": {
+      "summary": "イヌシバ。暖地の海岸や芝地に生えるイネ科の多年草。太い匍匐茎（ストロン）を伸ばして地表を密に覆い、扁平な花序に小穂を埋め込むようにつける。暖地の芝生（セントオーガスチングラス）として利用される。",
+      "habitat_hint": "海岸の砂地、暖地の芝地、道端、公園の地被。",
+      "finding_tips": "地表を這う太い匍匐茎と、扁平な軸に小穂が埋まる独特の花序を探す。厚みのある葉が特徴。"
+    },
+    "en": {
+      "summary": "St. Augustine grass (Stenotaphrum secundatum). A perennial grass of warm coasts and turf; thick stolons carpet the ground densely and the spikelets are sunk into a flattened flowering axis. It is used as a warm-climate lawn grass.",
+      "habitat_hint": "Coastal sand, warm-region turf, roadsides and park ground cover.",
+      "finding_tips": "Look for thick creeping stolons and a flattened axis with spikelets embedded in it; the thick leaves are distinctive."
+    },
+    "zh": {
+      "summary": "イヌシバ（钝叶草）。生于暖地海岸与草坪的禾本科多年生草本，粗匍匐茎密覆地面，小穗嵌于扁平花轴，为暖地草坪草（圣奥古斯丁草）。",
+      "habitat_hint": "海岸沙地、暖地草坪、路边、公园地被。",
+      "finding_tips": "寻找粗匍匐茎与小穗嵌入扁平花轴之特殊花序；叶厚为特征。"
+    }
+  },
+  "Stereophaedusa valida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Okinawa door snail",
+    "ja": {
+      "summary": "オキナワギセル。沖縄など南西諸島の林内に生息するキセルガイ科の陸産巻貝。殻は細長い紡錘形で左巻き、褐色を帯びる。湿った林床や石灰岩地の岩上を這う。",
+      "habitat_hint": "亜熱帯林の林床、石灰岩地、湿った岩上や樹幹。",
+      "finding_tips": "雨後、林床や石灰岩の岩上で細長い左巻きの巻貝を探す。紡錘形の殻とキセル状の姿が識別点。"
+    },
+    "en": {
+      "summary": "A door snail of forests on Okinawa and the Ryukyus; the slender spindle-shaped shell is sinistral (left-coiling) and brownish, creeping over damp leaf litter and limestone rocks.",
+      "habitat_hint": "Subtropical forest floor, limestone ground and damp rocks or trunks.",
+      "finding_tips": "After rain on the forest floor and limestone look for a slender left-coiling snail; the spindle-shaped shell is diagnostic."
+    },
+    "zh": {
+      "summary": "オキナワギセル。栖于冲绳等琉球群岛林内的烟管螺科陆生螺，壳细长纺锤形、左旋、带褐色，行于湿润林床与石灰岩面。",
+      "habitat_hint": "亚热带林林床、石灰岩地、湿岩面或树干。",
+      "finding_tips": "雨后于林床、石灰岩寻找细长左旋螺；纺锤形壳如烟管为辨识点。"
+    }
+  },
+  "Stereopsis burtiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rosette crust fungus",
+    "ja": {
+      "summary": "ハナウロコタケ。林内の地上や落葉上に発生するタバコウロコタケ類のキノコ。へら状〜漏斗状の子実体が重なってバラの花のように広がり、革質でうろこ状の表面をもつ。",
+      "habitat_hint": "林内の地上、落葉の間、腐植質に富む林床。",
+      "finding_tips": "秋、林床でへら状の子実体が重なりバラ状に広がるキノコを探す。革質でうろこ状の表面が識別点。"
+    },
+    "en": {
+      "summary": "A leathery fungus fruiting on the ground and litter in forests; spatula- to funnel-shaped fruit bodies overlap into a rose-like rosette with a scaly surface.",
+      "habitat_hint": "On the ground, among litter and in humus-rich forest floor.",
+      "finding_tips": "In autumn look on the forest floor for spatula-shaped fruit bodies overlapping into a rosette; the scaly leathery surface is diagnostic."
+    },
+    "zh": {
+      "summary": "ハナウロコタケ。发生于林内地上与落叶的革质菌，匙形至漏斗形子实体重叠成玫瑰状铺展，表面革质具鳞。",
+      "habitat_hint": "林内地上、落叶间、腐殖质丰富林床。",
+      "finding_tips": "秋于林床寻找匙形子实体重叠成玫瑰状之菌；革质鳞面为辨识点。"
+    }
+  },
+  "Stichopus chloronotus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greenfish sea cucumber",
+    "aliases": {
+      "zh-Hans": "绿刺参"
+    },
+    "ja": {
+      "summary": "シカクナマコ。南日本〜インド太平洋のサンゴ礁に生息するナマコの一種。体は断面が四角く、暗緑〜黒色で、稜に沿って先が赤みを帯びた円錐状の突起が並ぶ。礁池の砂上を這って堆積物を食べる。",
+      "habitat_hint": "浅いサンゴ礁、礁池、岩礁の砂底。",
+      "finding_tips": "礁池で断面が四角く暗緑色の大きなナマコを探す。稜上に並ぶ赤みを帯びた円錐突起が識別点。"
+    },
+    "en": {
+      "summary": "Greenfish sea cucumber (Stichopus chloronotus). A sea cucumber of coral reefs from southern Japan through the Indo-Pacific; the square-sectioned body is dark green to black with rows of conical papillae tipped reddish along the ridges. It grazes sediment on lagoon sand.",
+      "habitat_hint": "Shallow coral reefs, lagoons and sandy reef floors.",
+      "finding_tips": "In lagoons look for a large dark-green sea cucumber square in cross-section; the red-tipped conical papillae along the ridges are diagnostic."
+    },
+    "zh": {
+      "summary": "シカクナマコ（绿刺参）。分布南日本至印度太平洋珊瑚礁的海参，体横断面呈四方形、暗绿至黑色，棱上排列先端泛红的锥状突起，于礁池砂上取食沉积物。",
+      "habitat_hint": "浅珊瑚礁、礁池、岩礁砂底。",
+      "finding_tips": "礁池寻找断面四方、暗绿色的大海参；棱上红尖锥突为辨识点。"
+    }
+  },
+  "Stigmatophora leacrita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Footman moth",
+    "ja": {
+      "summary": "ゴマダラキコケガ。低地〜山地の林縁や草地に見られるヒトリガ科コケガ亜科の蛾。翅は淡黄色で黒い点が胡麻を散らしたように並ぶ。幼虫は樹皮や岩に生える地衣類を食べる。",
+      "habitat_hint": "林縁、雑木林、草地、公園の樹林周辺。",
+      "finding_tips": "夏の夜、灯火に来る淡黄色に黒点を散らした蛾を探す。地衣の多い環境が手がかり。"
+    },
+    "en": {
+      "summary": "A lichen-moth (footman) of lowland to montane forest edges and grassland; the pale-yellow wings are sprinkled with black dots. The larvae feed on lichens growing on bark and rock.",
+      "habitat_hint": "Forest edges, secondary woodland, grassland and park groves.",
+      "finding_tips": "On summer nights look at lights for a pale-yellow moth flecked with black dots; lichen-rich sites are a good clue."
+    },
+    "zh": {
+      "summary": "ゴマダラキコケガ。见于低地至山地林缘草地的灯蛾科苔蛾亚科蛾，翅淡黄散布黑点如撒芝麻，幼虫食树皮与岩生地衣。",
+      "habitat_hint": "林缘、杂木林、草地、公园林地周边。",
+      "finding_tips": "夏夜灯下寻找淡黄散黑点之蛾；地衣多之环境为线索。"
+    }
+  },
+  "Stuckenia pectinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sago pondweed",
+    "aliases": {
+      "zh-Hans": "篦齿眼子菜"
+    },
+    "ja": {
+      "summary": "リュウノヒゲモ。池沼や河川、汽水域に生える沈水性のヒルムシロ科の多年草。糸のように細い葉を多数つけ、水中で束になって伸びる。水質の指標や水鳥の餌として重要。",
+      "habitat_hint": "池沼、河川、用水路、汽水湖などの水中。",
+      "finding_tips": "水中で糸状の細い葉が束になって伸びる沈水植物を探す。細く分枝する葉が識別点。"
+    },
+    "en": {
+      "summary": "Sago pondweed (Stuckenia pectinata). A submerged perennial pondweed of lakes, rivers and brackish water; it bears many thread-like leaves in submerged tufts and is an important waterbird food and water-quality indicator.",
+      "habitat_hint": "Underwater in lakes, rivers, channels and brackish lagoons.",
+      "finding_tips": "Underwater look for a submerged plant with tufts of thread-like leaves; the fine branching leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "リュウノヒゲモ（篦齿眼子菜）。生于池沼、河川及半咸水的眼子菜科沉水多年生草本，叶丝状众多、水中成束伸展，为水鸟重要食物与水质指示种。",
+      "habitat_hint": "池沼、河川、灌渠、半咸水湖之水中。",
+      "finding_tips": "水中寻找丝状叶成束伸展的沉水植物；细分枝叶为辨识点。"
+    }
+  },
+  "Swiftopecten swiftii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swift's scallop",
+    "ja": {
+      "summary": "エゾキンチャク。北日本の岩礁や砂礫底に生息するイタヤガイ科の二枚貝。殻は太い放射肋をもち、しばしば大きな波打つひだが発達する。冷たい海に分布する。",
+      "habitat_hint": "北日本の潮下帯の岩礁、砂礫底、やや深い海底。",
+      "finding_tips": "北の海の岩礁で太い放射肋と波打つひだをもつ扇形の二枚貝を探す。ごつごつした殻表が識別点。"
+    },
+    "en": {
+      "summary": "Swift's scallop (Swiftopecten swiftii). A scallop of rocky and gravelly bottoms in northern Japan; the shell has stout radial ribs, often with large undulating folds, and it inhabits cold seas.",
+      "habitat_hint": "Subtidal rocky and gravelly bottoms and deeper seafloor in the north.",
+      "finding_tips": "On northern reefs look for a fan-shaped bivalve with stout ribs and wavy folds; the rugged shell surface is diagnostic."
+    },
+    "zh": {
+      "summary": "エゾキンチャク。栖于北日本岩礁与砂砾底的扇贝科双壳，壳具粗放射肋，常发育大波状褶，分布于冷水海域。",
+      "habitat_hint": "北日本潮下带岩礁、砂砾底、较深海底。",
+      "finding_tips": "北方岩礁寻找具粗肋与波状褶的扇形双壳；壳面粗糙为辨识点。"
+    }
+  },
+  "Syllepte segnalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass moth",
+    "ja": {
+      "summary": "ヘリキスジノメイガ。林縁や草地に見られるツトガ科ノメイガ亜科の蛾。翅は淡黄褐色で、外縁に沿って黄色い筋があるのが名の由来。幼虫は葉を綴って食べる。",
+      "habitat_hint": "林縁、雑木林、草地、公園の樹林周辺。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る淡黄褐色の蛾を探す。翅の外縁に沿う黄色い筋が識別点。"
+    },
+    "en": {
+      "summary": "A crambid moth of forest edges and grassland; the pale yellow-brown wings bear a yellow line along the outer margin (the source of its Japanese name). The larvae feed within tied leaves.",
+      "habitat_hint": "Forest edges, secondary woodland, grassland and park groves.",
+      "finding_tips": "On early-summer nights look at lights for a pale yellow-brown moth; the yellow line along the wing margin is diagnostic."
+    },
+    "zh": {
+      "summary": "ヘリキスジノメイガ。见于林缘草地的草螟科野螟亚科蛾，翅淡黄褐、外缘具黄纹（和名之源），幼虫缀叶取食。",
+      "habitat_hint": "林缘、杂木林、草地、公园林地周边。",
+      "finding_tips": "初夏至夏夜灯下寻找淡黄褐色蛾；翅外缘黄纹为辨识点。"
+    }
+  },
+  "Sympetrum striolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common darter",
+    "aliases": {
+      "zh-Hans": "条斑赤蜻"
+    },
+    "ja": {
+      "summary": "タイリクアカネ。ユーラシアに広く分布し、日本にも産するトンボ科のアカトンボ。成熟した雄は腹部が赤く、脚の側面に黄色い筋があるのが近縁種との識別点。秋に多く見られる。",
+      "habitat_hint": "池沼、湿地、水田、緩やかな流れのある水辺。",
+      "finding_tips": "秋、水辺で腹部の赤いアカトンボを探す。脚の側面の黄色い筋が近縁のアキアカネなどとの識別点。"
+    },
+    "en": {
+      "summary": "Common darter (Sympetrum striolatum). A widespread Eurasian darter dragonfly also found in Japan; mature males have a red abdomen, and a yellow stripe on the side of the legs distinguishes it from close relatives. It is most abundant in autumn.",
+      "habitat_hint": "Ponds, marshes, paddies and slow watersides.",
+      "finding_tips": "In autumn at the waterside look for a red-bodied darter; the yellow stripe on the legs separates it from similar species."
+    },
+    "zh": {
+      "summary": "タイリクアカネ（条斑赤蜻）。广布欧亚、日本亦产的蜻科红蜻，成熟雄虫腹部红色，足侧具黄纹以别近缘种，秋季多见。",
+      "habitat_hint": "池沼、湿地、稻田、缓流水边。",
+      "finding_tips": "秋于水边寻找腹红之红蜻；足侧黄纹为与近缘种区别点。"
+    }
+  },
+  "Symplocarpus nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf skunk cabbage",
+    "ja": {
+      "summary": "ヒメザゼンソウ。本州〜九州の湿った林内に生えるサトイモ科の多年草。ザゼンソウより小型で、暗紫褐色の仏炎苞に包まれた球形の花序（肉穂花序）を地際につける。葉は花の後に展開する。",
+      "habitat_hint": "山地の湿った林床、沢沿い、湿地の縁。",
+      "finding_tips": "春〜初夏、湿った林床で地際に暗紫褐色の小さな仏炎苞を探す。ザゼンソウより小さい点が識別点。"
+    },
+    "en": {
+      "summary": "Dwarf skunk cabbage (Symplocarpus nipponicus). An arum-family perennial of damp forests from Honshu to Kyushu; smaller than skunk cabbage, it produces a spherical spadix wrapped in a dark purple-brown spathe at ground level, with leaves expanding after flowering.",
+      "habitat_hint": "Damp montane forest floor, streamsides and wetland edges.",
+      "finding_tips": "In spring–early summer on damp forest floor look at ground level for a small dark purple-brown spathe; its small size distinguishes it from skunk cabbage."
+    },
+    "zh": {
+      "summary": "ヒメザゼンソウ（日本臭菘）。生于本州至九州湿润林内的天南星科多年生草本，较臭菘小，暗紫褐色佛焰苞包球形肉穗花序生于近地面，叶于花后展开。",
+      "habitat_hint": "山地湿润林床、沟沿、湿地边缘。",
+      "finding_tips": "春至初夏于湿林床近地面寻找暗紫褐色小佛焰苞；较臭菘小为辨识点。"
+    }
+  },
+  "Syzygites megalocarpus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mushroom pin mould",
+    "ja": {
+      "summary": "フタマタケカビ。ほかのキノコに寄生・腐生する接合菌（ケカビ類）の一種。傷んだキノコの表面に灰白色の綿毛状の菌糸を広げ、二又に分枝した柄の先に胞子嚢をつける。",
+      "habitat_hint": "傷んだキノコ、腐りかけの子実体の上。",
+      "finding_tips": "雨後、腐りかけのキノコの表面に広がる灰白色の綿毛状のカビを探す。二又分枝が名の由来。"
+    },
+    "en": {
+      "summary": "A pin mould that lives on other mushrooms; it spreads greyish-white cottony hyphae over decaying fruit bodies and bears sporangia atop repeatedly forked stalks.",
+      "habitat_hint": "On decaying mushrooms and rotting fungal fruit bodies.",
+      "finding_tips": "After rain look on rotting mushrooms for a greyish-white cottony mould; the forking stalks give it its Japanese name."
+    },
+    "zh": {
+      "summary": "フタマタケカビ。寄生或腐生于其他蘑菇的接合菌（毛霉类），于腐坏子实体表面铺展灰白棉絮状菌丝，二叉分枝柄端着生孢子囊。",
+      "habitat_hint": "腐坏蘑菇、将烂子实体之上。",
+      "finding_tips": "雨后于腐蘑菇表面寻找灰白棉絮状霉；二叉分枝为和名之源。"
+    }
+  },
+  "Syzygium buxifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Boxleaf eugenia",
+    "aliases": {
+      "zh-Hans": "赤楠"
+    },
+    "ja": {
+      "summary": "アデク。南日本の海岸林や暖地の林に生えるフトモモ科の常緑低木〜小高木。革質で光沢のある小さな対生の葉をつけ、白い小花のあと黒紫色に熟す球形の果実をつける。",
+      "habitat_hint": "暖地の海岸林、常緑広葉樹林、林縁。",
+      "finding_tips": "革質で光沢ある小さな対生の葉を探す。夏の白い小花と秋の黒紫色の果実が識別点。"
+    },
+    "en": {
+      "summary": "Boxleaf eugenia (Syzygium buxifolium). An evergreen shrub to small tree of the myrtle family in coastal and warm-region forests of southern Japan; it has small glossy leathery opposite leaves, small white flowers, and round fruit ripening blackish-purple.",
+      "habitat_hint": "Warm-region coastal woodland, evergreen broadleaf forest and edges.",
+      "finding_tips": "Look for small glossy leathery paired leaves; the small white summer flowers and blackish-purple autumn fruit are diagnostic."
+    },
+    "zh": {
+      "summary": "アデク（赤楠）。生于南日本海岸林与暖地林的桃金娘科常绿灌木至小乔木，叶革质光亮、小而对生，白色小花后结黑紫色球形果。",
+      "habitat_hint": "暖地海岸林、常绿阔叶林、林缘。",
+      "finding_tips": "寻找革质光亮的对生小叶；夏白花、秋黑紫果为辨识点。"
+    }
+  },
+  "Tabanus mandarinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Horse fly",
+    "ja": {
+      "summary": "シロフアブ。水辺や林縁に見られるアブ科の大型のアブ。体は灰褐色で、腹部に白っぽい斑紋がある。雌は哺乳類の血を吸い、家畜や人を刺すことがある。",
+      "habitat_hint": "水辺、湿地、林縁、牧草地、河川敷。",
+      "finding_tips": "夏の日中、水辺で灰褐色の大きなアブを探す。雌は吸血し刺すので注意。腹部の白い斑紋が識別点。"
+    },
+    "en": {
+      "summary": "A large horse fly of watersides and forest edges; the body is greyish-brown with pale abdominal markings. Females bite mammals for blood and can attack livestock and people.",
+      "habitat_hint": "Watersides, wetlands, forest edges, pasture and riverbanks.",
+      "finding_tips": "On summer days near water look for a large greyish-brown fly; females bite, so take care — the pale abdominal marks are diagnostic."
+    },
+    "zh": {
+      "summary": "シロフアブ（中华虻）。见于水边与林缘的虻科大型虻，体灰褐、腹部具浅色斑纹，雌虫吸食哺乳动物血液，可叮咬家畜与人。",
+      "habitat_hint": "水边、湿地、林缘、牧草地、河滩。",
+      "finding_tips": "夏日水边寻找灰褐大虻；雌虫吸血叮咬需防，腹部浅斑为辨识点。"
+    }
+  },
+  "Tabanus rufidens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese horse fly",
+    "ja": {
+      "summary": "ヤマトアブ。日本各地の水辺や林縁に普通に見られるアブ科の大型のアブ。体は褐色を帯び、雌は哺乳類の血を吸う。夏に家畜や人を刺す代表的なアブの一つ。",
+      "habitat_hint": "水辺、湿地、林縁、牧草地、河川敷。",
+      "finding_tips": "夏の日中、水辺や牧草地で褐色の大きなアブを探す。雌は吸血し刺すので注意。"
+    },
+    "en": {
+      "summary": "Japanese horse fly (Tabanus rufidens). A large horse fly common at watersides and forest edges throughout Japan; the body is brownish and females bite mammals for blood. It is one of the main biting horse flies of summer.",
+      "habitat_hint": "Watersides, wetlands, forest edges, pasture and riverbanks.",
+      "finding_tips": "On summer days near water or pasture look for a large brownish fly; females bite, so take care."
+    },
+    "zh": {
+      "summary": "ヤマトアブ。日本各地水边与林缘常见的虻科大型虻，体带褐色，雌虫吸食哺乳动物血液，为夏季主要叮人虻之一。",
+      "habitat_hint": "水边、湿地、林缘、牧草地、河滩。",
+      "finding_tips": "夏日于水边或牧草地寻找褐色大虻；雌虫吸血叮咬需防。"
+    }
+  },
+  "Tachinus mimulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove beetle",
+    "ja": {
+      "summary": "キベリマルクビハネカクシ。林床の落葉や腐植、菌類、動物の死骸などに集まるハネカクシ科の甲虫。短い上翅の下に腹部が露出し、前胸の縁が黄色いのが名の由来。",
+      "habitat_hint": "林床の落葉下、腐植、キノコ、動物の死骸のまわり。",
+      "finding_tips": "落葉や腐りかけのキノコをめくって、短い上翅で腹部を露出させた黒い甲虫を探す。前胸の黄色い縁が識別点。"
+    },
+    "en": {
+      "summary": "A rove beetle that gathers at leaf litter, humus, fungi and carrion on the forest floor; the short elytra leave the abdomen exposed, and the yellow-edged pronotum gives it its Japanese name.",
+      "habitat_hint": "Under leaf litter, in humus, on fungi and around carrion.",
+      "finding_tips": "Turn litter and rotting mushrooms to find a black beetle with short elytra exposing the abdomen; the yellow pronotal margin is diagnostic."
+    },
+    "zh": {
+      "summary": "キベリマルクビハネカクシ。聚于林床落叶、腐殖、菌类与动物尸体的隐翅虫科甲虫，鞘翅短、腹部外露，前胸背板缘黄为和名之源。",
+      "habitat_hint": "林床落叶下、腐殖、菌类、动物尸体周边。",
+      "finding_tips": "翻落叶与腐菇寻找鞘翅短、腹外露的黑甲虫；前胸黄缘为辨识点。"
+    }
+  },
+  "Tachys sericans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ウスオビコミズギワゴミムシ。水辺の湿った地面に生息するオサムシ科（ミズギワゴミムシ類）の小さな甲虫。体は褐色で淡色の帯があり、素早く歩き回って小さな虫を捕食する。",
+      "habitat_hint": "河原、池沼の縁、湿地などの湿った裸地。",
+      "finding_tips": "水辺の湿った地面で素早く動く小さな褐色の甲虫を探す。石や落葉をめくると見つかりやすい。"
+    },
+    "en": {
+      "summary": "A small ground beetle of damp waterside soil; the brown body bears a pale band and it runs quickly over bare ground, preying on tiny invertebrates.",
+      "habitat_hint": "Riverbanks, pond margins and damp bare wetland soil.",
+      "finding_tips": "On damp waterside ground look for a small fast brown beetle; turning stones and litter helps find it."
+    },
+    "zh": {
+      "summary": "ウスオビコミズギワゴミムシ。栖于水边湿地的步甲科小甲虫，体褐色具淡带，行动迅速，捕食微小无脊椎动物。",
+      "habitat_hint": "河滩、池沼边缘、湿地等湿润裸地。",
+      "finding_tips": "水边湿地寻找快速移动的褐色小甲虫；翻石与落叶易见。"
+    }
+  },
+  "Taenioides gracilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eel goby",
+    "ja": {
+      "summary": "コガネチワラスボ。河口や干潟の泥底に穴を掘って暮らすハゼ科（ワラスボ類）の細長い魚。体は黄褐色でうなぎ状に細長く、目は小さく退化的。泥中の有機物や小動物を食べる。",
+      "habitat_hint": "河口、干潟、汽水域の軟らかい泥底。",
+      "finding_tips": "干潟の泥底の巣穴の周辺で、細長くうなぎ状の黄褐色の魚を探す。小さな目と細長い体が識別点。"
+    },
+    "en": {
+      "summary": "An eel goby that burrows in the muddy bottoms of estuaries and tidal flats; the yellow-brown body is long and eel-like with small, reduced eyes, and it feeds on organic matter and small animals in the mud.",
+      "habitat_hint": "Soft muddy bottoms of estuaries, tidal flats and brackish water.",
+      "finding_tips": "Around burrows on tidal-flat mud look for a long eel-like yellow-brown fish; the tiny eyes and elongate body are diagnostic."
+    },
+    "zh": {
+      "summary": "コガネチワラスボ。栖于河口与潮滩泥底、掘穴而居的虾虎鱼科细长鱼，体黄褐、鳗状细长，眼小退化，食泥中有机物与小动物。",
+      "habitat_hint": "河口、潮滩、半咸水域软泥底。",
+      "finding_tips": "潮滩泥底巢穴周边寻找鳗状细长黄褐鱼；小眼与细长体为辨识点。"
+    }
+  },
+  "Takifugu poecilonotus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fine-patterned puffer",
+    "ja": {
+      "summary": "コモンフグ。南日本の沿岸に分布するフグ科の魚。背面に小さな暗色の斑点が細かく散り、危険を感じると体を膨らませる。皮膚・内臓に猛毒（テトロドトキシン）をもち、素人調理は危険。",
+      "habitat_hint": "沿岸の砂底・岩礁、内湾、河口近く。",
+      "finding_tips": "沿岸で背に細かい暗色斑点が散るフグを探す。強い毒をもつため、絶対に自分で食べないこと。"
+    },
+    "en": {
+      "summary": "Fine-patterned puffer (Takifugu poecilonotus). A pufferfish of coastal southern Japan; the back is finely speckled with small dark spots and it inflates when threatened. Its skin and organs carry potent tetrodotoxin, so amateur preparation is dangerous.",
+      "habitat_hint": "Coastal sand and reefs, inner bays and near estuaries.",
+      "finding_tips": "In coastal waters look for a puffer finely speckled with dark spots; it is highly toxic — never prepare or eat it yourself."
+    },
+    "zh": {
+      "summary": "コモンフグ（星点多纪鲀）。分布南日本沿岸的鲀科鱼，背面细散暗色小斑点，受威胁时鼓胀身体。皮肤与内脏含剧毒（河鲀毒素），非专业烹调极危险。",
+      "habitat_hint": "沿岸砂底、岩礁、内湾、河口附近。",
+      "finding_tips": "沿岸寻找背具细密暗斑之鲀；有剧毒，切勿自行食用。"
+    }
+  },
+  "Talostolida teres": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tapering cowrie",
+    "ja": {
+      "summary": "エダカラ。南日本〜インド太平洋の浅いサンゴ礁・岩礁に生息するタカラガイ科の小型の巻貝。殻は細長い卵形で光沢があり、褐色の斑紋をもつ。夜行性で昼は岩の隙間に潜む。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、転石の下、礁池。",
+      "finding_tips": "干潮時、岩の隙間や転石の下で細長く光沢のあるタカラガイを探す。褐色の斑紋が識別点。"
+    },
+    "en": {
+      "summary": "A small cowrie of shallow coral and rocky reefs from southern Japan through the Indo-Pacific; the elongate glossy shell is marked with brown. It is nocturnal, sheltering in crevices by day.",
+      "habitat_hint": "Shallow coral and rocky reefs, under boulders and in lagoons.",
+      "finding_tips": "At low tide under rocks look for an elongate glossy cowrie; the brown markings are diagnostic."
+    },
+    "zh": {
+      "summary": "エダカラ。分布南日本至印度太平洋浅珊瑚礁与岩礁的宝贝科小螺，壳细长卵形而有光泽、具褐斑，夜行性昼伏岩隙。",
+      "habitat_hint": "浅珊瑚礁、岩礁、砾石下、礁池。",
+      "finding_tips": "退潮时于岩下寻找细长光亮宝贝；褐斑为辨识点。"
+    }
+  },
+  "Tauphaedusa digonoptyx": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Door snail",
+    "ja": {
+      "summary": "オオタキコギセル。本州の林内や石灰岩地に生息するキセルガイ科の陸産巻貝。殻は細長い紡錘形で左巻き、褐色を帯びる。湿った樹幹や岩上を這う。",
+      "habitat_hint": "山地の林床、石灰岩地、湿った樹幹や岩上。",
+      "finding_tips": "雨後、樹幹や岩上で細長い左巻きのキセルガイを探す。紡錘形の殻が識別点。"
+    },
+    "en": {
+      "summary": "A door snail of forests and limestone areas in Honshu; the slender spindle-shaped shell is sinistral (left-coiling) and brownish, creeping over damp trunks and rocks.",
+      "habitat_hint": "Montane forest floor, limestone ground and damp trunks or rocks.",
+      "finding_tips": "After rain on trunks and rocks look for a slender left-coiling door snail; the spindle-shaped shell is diagnostic."
+    },
+    "zh": {
+      "summary": "オオタキコギセル。栖于本州林内与石灰岩地的烟管螺科陆生螺，壳细长纺锤形、左旋、带褐色，行于湿润树干与岩面。",
+      "habitat_hint": "山地林床、石灰岩地、湿润树干或岩面。",
+      "finding_tips": "雨后于树干、岩面寻找细长左旋烟管螺；纺锤形壳为辨识点。"
+    }
+  },
+  "Tectus pyramis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pyramid top shell",
+    "aliases": {
+      "zh-Hans": "银塔钟螺"
+    },
+    "ja": {
+      "summary": "ギンタカハマ。南日本〜インド太平洋の浅い岩礁・サンゴ礁に生息するニシキウズガイ科の巻貝。殻は円錐形（ピラミッド状）で、内面は銀色の真珠光沢をもつ。海藻を削り取って食べる。食用にもなる。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、潮下帯の岩上。",
+      "finding_tips": "岩礁で円錐形（ピラミッド状）の巻貝を探す。殻をこすると内面の銀色の真珠光沢が見える点が識別点。"
+    },
+    "en": {
+      "summary": "Pyramid top shell (Tectus pyramis). A top shell of shallow rocky and coral reefs from southern Japan through the Indo-Pacific; the conical (pyramid-shaped) shell is silvery and pearly inside, and it grazes algae. It is also eaten.",
+      "habitat_hint": "Shallow rocky and coral reefs and subtidal rocks.",
+      "finding_tips": "On reefs look for a conical pyramid-shaped snail; the silvery pearly interior revealed by abrasion is diagnostic."
+    },
+    "zh": {
+      "summary": "ギンタカハマ（银塔钟螺）。分布南日本至印度太平洋浅岩礁与珊瑚礁的马蹄螺科螺，壳圆锥（塔状），内面银色珍珠光泽，刮食海藻，亦供食用。",
+      "habitat_hint": "浅岩礁、珊瑚礁、潮下带岩面。",
+      "finding_tips": "岩礁寻找圆锥塔状之螺；磨去外层可见内面银色珍珠光泽为辨识点。"
+    }
+  },
+  "Tapinella panuoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イチョウタケ。針葉樹の切り株や木材、朽木に発生するイチョウタケ科のキノコ。柄がほとんどなく、扇形〜貝殻形の黄褐色の傘を側生し、密でしばしば分岐・波打つひだをもつ。食用には適さない。",
+      "habitat_hint": "針葉樹の切り株、倒木、加工木材、貯木場。",
+      "finding_tips": "針葉樹材の上で柄のない扇形の黄褐色のキノコを探す。密で波打つひだが識別点。食用不適。"
+    },
+    "en": {
+      "summary": "Oyster rollrim (Tapinella panuoides). A gilled fungus growing on conifer stumps, timber and dead wood; nearly stalkless, it has a fan- to shell-shaped ochre-brown cap attached at the side, with crowded, often forked and wavy gills. It is not edible.",
+      "habitat_hint": "Conifer stumps, logs, worked timber and lumber yards.",
+      "finding_tips": "On conifer wood look for a stalkless fan-shaped ochre-brown mushroom; the crowded wavy gills are diagnostic. Not for eating."
+    },
+    "zh": {
+      "summary": "イチョウタケ（耳状小塔氏菌）。发生于针叶树桩、木材与朽木的小塔氏菌科菌，几无柄，扇形至贝壳形黄褐色菌盖侧生，菌褶密而常分叉波状。不宜食用。",
+      "habitat_hint": "针叶树桩、倒木、加工木材、贮木场。",
+      "finding_tips": "针叶树材上寻找无柄扇形黄褐色菌；密而波状菌褶为辨识点，不宜食。"
+    }
   }
 }
