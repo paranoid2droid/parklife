@@ -259840,5 +259840,603 @@
       "habitat_hint": "栖于珊瑚礁、岩礁、河口及内湾浅处，幼鱼入汽水域与浅礁池。",
       "finding_tips": "黄褐体、暗色背尾鳍与黄色腹鳍即为辨识要点。笛鲷科略具棱角的体形与大口亦为线索；见于钓获与市场。"
     }
+  },
+  "Lasioglossum taeniolellum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender Furrow Bee",
+    "aliases": {
+      "zh-Hans": "细带隧蜂"
+    },
+    "ja": {
+      "summary": "ヒラタチビハナバチ。本州〜九州に分布するコハナバチ科の小型のハナバチ。体長4〜5mmほどで黒っぽく、腹部に淡色の毛帯がある。",
+      "habitat_hint": "草地、林縁、公園、河川敷など開けた環境。",
+      "finding_tips": "4〜10月、各種の草花を訪れる小さな黒いハチを探します。地中に営巣する。"
+    },
+    "en": {
+      "summary": "A tiny sweat bee (Halictidae) 4–5 mm long, dark-bodied with pale hair bands on the abdomen, found from Honshu to Kyushu.",
+      "habitat_hint": "Grasslands, forest edges, parks and riverbanks — open sunny habitats.",
+      "finding_tips": "From April to October look for small dark bees visiting low flowers. It nests in the ground."
+    },
+    "zh": {
+      "summary": "细带隧蜂（ヒラタチビハナバチ）。分布于本州至九州的隧蜂科小型蜂，体长约4–5毫米，体色暗黑，腹部具淡色毛带。",
+      "habitat_hint": "草地、林缘、公园、河滩等开阔环境。",
+      "finding_tips": "4至10月，于低矮花丛间寻找访花的小型黑蜂。营地下巢。"
+    }
+  },
+  "Lewinskya sordida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sooty Bristle-moss",
+    "aliases": {
+      "zh-Hans": "污色木灵藓"
+    },
+    "ja": {
+      "summary": "タチバヒダゴケ。タチヒダゴケ科の樹幹着生蘚類。樹皮上に暗緑色〜褐色の小さな群落をつくり、乾くと葉が縮れる。",
+      "habitat_hint": "山地の樹幹、岩上など。日当たりのよい樹皮を好む。",
+      "finding_tips": "一年を通して樹幹の小さなコケの塊を探します。直立する蒴の柄が特徴。"
+    },
+    "en": {
+      "summary": "A bark-dwelling moss (Orthotrichaceae) forming small dark green to brownish tufts on tree trunks; leaves curl when dry.",
+      "habitat_hint": "Trunks and rocks in hilly country, favouring sunlit bark.",
+      "finding_tips": "Year-round, search tree bark for small moss cushions; the upright capsules on short stalks are characteristic."
+    },
+    "zh": {
+      "summary": "污色木灵藓（タチバヒダゴケ）。木灵藓科的树附生藓类，于树皮上形成暗绿至褐色的小丛，干燥时叶片卷曲。",
+      "habitat_hint": "山地树干、岩面，喜向阳树皮。",
+      "finding_tips": "全年可于树皮上寻找小型藓丛，直立的蒴柄为其特征。"
+    }
+  },
+  "Lobaria retigera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Netted Lungwort Lichen",
+    "aliases": {
+      "zh-Hans": "网肺衣"
+    },
+    "ja": {
+      "summary": "チヂレカブトゴケモドキ。カブトゴケ科の大型葉状地衣。灰緑色〜褐色で裏面に網目状の隆起があり、湿った林内の樹幹や岩に着生する。",
+      "habitat_hint": "湿潤な山地林の樹幹、岩上、苔むした環境。",
+      "finding_tips": "一年を通して、湿った林で大きな葉状の地衣を探します。裏面の網目模様が識別点。"
+    },
+    "en": {
+      "summary": "A large foliose lichen (Lobariaceae), grey-green to brown with a distinctive net-veined lower surface, growing on trunks and rocks in damp forests.",
+      "habitat_hint": "Trunks, rocks and mossy substrates in humid montane woodland.",
+      "finding_tips": "Year-round, look in wet forest for broad leafy lichens; the netted underside is diagnostic."
+    },
+    "zh": {
+      "summary": "网肺衣（チヂレカブトゴケモドキ）。肺衣科的大型叶状地衣，灰绿至褐色，下表面具网状脉纹，生于湿润林中的树干与岩石上。",
+      "habitat_hint": "湿润山地林的树干、岩面及苔藓环境。",
+      "finding_tips": "全年可于潮湿林中寻找宽大叶状地衣，下表面网纹为辨识要点。"
+    }
+  },
+  "Luzula pallescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fen Wood-rush",
+    "aliases": {
+      "zh-Hans": "淡花地杨梅"
+    },
+    "ja": {
+      "summary": "オカスズメノヒエ。イグサ科スズメノヒエ属の多年草。高さ10〜30cmで、淡褐色の小花が球状に集まった花序をつける。葉縁に長毛がある。",
+      "habitat_hint": "山地の草地、林縁、明るい湿り気のある場所。",
+      "finding_tips": "5〜7月、球状にまとまった淡色の花序を探します。葉のふちの白い長毛が特徴。"
+    },
+    "en": {
+      "summary": "A perennial wood-rush (Juncaceae) 10–30 cm tall, with pale brown flowers clustered in rounded heads and long hairs along the leaf margins.",
+      "habitat_hint": "Montane grasslands, forest edges and bright damp ground.",
+      "finding_tips": "From May to July look for pale rounded flower clusters; the white marginal leaf hairs are distinctive."
+    },
+    "zh": {
+      "summary": "淡花地杨梅（オカスズメノヒエ）。灯心草科地杨梅属多年生草本，高10–30厘米，淡褐色小花聚成球状花序，叶缘具长毛。",
+      "habitat_hint": "山地草甸、林缘及明亮湿润处。",
+      "finding_tips": "5至7月寻找球状淡色花序，叶缘白色长毛为其特征。"
+    }
+  },
+  "Lycoperdon pratense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "草地马勃"
+    },
+    "ja": {
+      "summary": "ヒメホコリタケ。ホコリタケ科の小型のキノコ。白色〜淡黄褐色の扁球形で、幼菌は白く可食とされるが、成熟すると内部が褐色の胞子塊になる。",
+      "habitat_hint": "芝地、草原、公園の芝生など開けた地上。",
+      "finding_tips": "夏〜秋、芝地に生える白い小さなまんじゅう形のキノコを探します。熟すと頂部が破れて胞子を出す。"
+    },
+    "en": {
+      "summary": "Meadow Puffball. A small puffball (Agaricaceae), white to pale tan and rounded; young flesh is white and edible, but it matures into a brown spore mass inside.",
+      "habitat_hint": "Lawns, grassland and park turf — open ground.",
+      "finding_tips": "In summer and autumn look for small white bun-shaped puffballs on grass; the top splits at maturity to release spores."
+    },
+    "zh": {
+      "summary": "草地马勃（ヒメホコリタケ）。马勃科小型真菌，白至淡黄褐色扁球形，幼时肉白可食，成熟后内部变为褐色孢子团。",
+      "habitat_hint": "草坪、草原、公园草地等开阔地面。",
+      "finding_tips": "夏秋于草地寻找白色小馒头状真菌，成熟时顶部破裂散出孢子。"
+    }
+  },
+  "Lyncina lynx": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lynx Cowrie",
+    "aliases": {
+      "zh-Hans": "山猫宝螺"
+    },
+    "ja": {
+      "summary": "ヒメホシダカラガイ。タカラガイ科の巻貝。殻長3〜6cmで、淡褐色地に橙褐色の斑点が散在し、光沢のある卵形をしている。",
+      "habitat_hint": "熱帯〜亜熱帯のサンゴ礁、岩礁の潮下帯。",
+      "finding_tips": "干潮時の岩礁やサンゴ礁で、光沢のある斑点模様の貝殻を探します。生時は外套膜で覆われる。"
+    },
+    "en": {
+      "summary": "Lynx Cowrie. A cowrie (Cypraeidae) 3–6 cm long, glossy and egg-shaped, pale brown with scattered orange-brown spots.",
+      "habitat_hint": "Coral reefs and rocky subtidal zones in tropical to subtropical seas.",
+      "finding_tips": "At low tide on reefs and rocks look for the glossy spotted shell; in life it is covered by the mantle."
+    },
+    "zh": {
+      "summary": "山猫宝螺（ヒメホシダカラガイ）。宝贝科海螺，壳长3–6厘米，卵形而具光泽，淡褐底散布橙褐色斑点。",
+      "habitat_hint": "热带至亚热带珊瑚礁与岩礁潮下带。",
+      "finding_tips": "退潮时于礁岩间寻找具光泽的斑点贝壳，活体时外套膜包覆壳面。"
+    }
+  },
+  "Lysiphlebia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Aphid Parasitoid Wasp",
+    "aliases": {
+      "zh-Hans": "日本蚜茧蜂"
+    },
+    "ja": {
+      "summary": "ニホンアブラバチ。コマユバチ科の微小な寄生蜂で、アブラムシに産卵し幼虫が寄主を内部から食べて育つ。害虫防除の天敵として知られる。",
+      "habitat_hint": "アブラムシが発生する草地、農地、公園の植栽。",
+      "finding_tips": "春〜秋、アブラムシのコロニーやミイラ化した寄主(マミー)を探すと見つかりやすい。"
+    },
+    "en": {
+      "summary": "A minute parasitoid wasp (Braconidae) that lays eggs in aphids; its larva develops inside the host. Valued as a natural enemy in pest control.",
+      "habitat_hint": "Grasslands, farmland and park plantings where aphids occur.",
+      "finding_tips": "Spring to autumn, search aphid colonies for swollen 'mummified' hosts, from which the wasp emerges."
+    },
+    "zh": {
+      "summary": "日本蚜茧蜂（ニホンアブラバチ）。茧蜂科的微小寄生蜂，将卵产于蚜虫体内，幼虫自内取食寄主，是防治蚜虫的重要天敌。",
+      "habitat_hint": "蚜虫发生的草地、农田及公园植栽。",
+      "finding_tips": "春至秋在蚜虫群落中寻找僵化膨大的蚜虫“僵尸”，蜂即由此羽化。"
+    }
+  },
+  "Maackia floribunda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese Maackia",
+    "aliases": {
+      "zh-Hans": "多花马鞍树"
+    },
+    "ja": {
+      "summary": "ハネミイヌエンジュ。マメ科イヌエンジュ属の落葉高木。夏に白い蝶形花を穂状に多数つけ、平たい豆果(莢)が翼状になる。材は堅い。",
+      "habitat_hint": "山地の谷沿い、川岸、湿り気のある落葉樹林。",
+      "finding_tips": "7〜8月、白い花穂を探します。冬は平たく翼のある豆果が識別点。"
+    },
+    "en": {
+      "summary": "A deciduous tree (Fabaceae) bearing spikes of many white pea-flowers in summer; the flat pods are winged. The wood is hard.",
+      "habitat_hint": "Valley sides, streambanks and moist deciduous woodland in the hills.",
+      "finding_tips": "In July–August look for erect white flower spikes; in winter the flat winged pods are diagnostic."
+    },
+    "zh": {
+      "summary": "多花马鞍树（ハネミイヌエンジュ）。豆科马鞍树属落叶乔木，夏季生多数白色蝶形花的花穗，扁平荚果带翅，木质坚硬。",
+      "habitat_hint": "山地谷旁、河岸及湿润落叶林。",
+      "finding_tips": "7至8月寻找直立白色花穗，冬季扁平带翅荚果为辨识点。"
+    }
+  },
+  "Macroschisma sinense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese Keyhole Limpet",
+    "aliases": {
+      "zh-Hans": "中华透孔螺"
+    },
+    "ja": {
+      "summary": "スカシガイ。スカシガイ科の笠形の巻貝。殻頂近くに細長い穴(スカシ穴)が開くのが特徴で、殻は灰白色でやや扁平。",
+      "habitat_hint": "岩礁海岸の潮間帯〜潮下帯、岩の裏面。",
+      "finding_tips": "干潮時に岩の下面を探します。殻頂近くの細長い孔が名前の由来で識別点。"
+    },
+    "en": {
+      "summary": "A keyhole limpet (Fissurellidae) with a cap-shaped, greyish-white shell bearing an elongate slit-like hole near the apex.",
+      "habitat_hint": "Rocky shores from intertidal to subtidal, on the undersides of rocks.",
+      "finding_tips": "At low tide check under rocks; the elongate hole near the shell apex is the diagnostic feature."
+    },
+    "zh": {
+      "summary": "中华透孔螺（スカシガイ）。透孔螺科的笠形贝类，壳灰白略扁，壳顶附近具一细长裂孔。",
+      "habitat_hint": "岩岸潮间带至潮下带，岩石背面。",
+      "finding_tips": "退潮时翻查岩石下面，壳顶附近的细长孔为辨识要点。"
+    }
+  },
+  "Magnolia sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oyama Magnolia",
+    "aliases": {
+      "zh-Hans": "天女花"
+    },
+    "ja": {
+      "summary": "オオヤマレンゲ。モクレン科の落葉小高木。初夏に下向きに開く白い大きな花をつけ、赤い雄しべと芳香が美しい。庭木としても親しまれる。",
+      "habitat_hint": "山地の落葉樹林、渓谷沿いの湿った斜面。",
+      "finding_tips": "5〜7月、下向きに咲く白い大輪の花を探します。赤い雄しべと甘い香りが特徴。"
+    },
+    "en": {
+      "summary": "Oyama Magnolia. A deciduous small tree (Magnoliaceae) with large, nodding, fragrant white flowers in early summer, set off by red stamens; also grown ornamentally.",
+      "habitat_hint": "Montane deciduous forest and moist slopes along ravines.",
+      "finding_tips": "From May to July look for large white downward-facing flowers; the red stamens and sweet scent are distinctive."
+    },
+    "zh": {
+      "summary": "天女花（オオヤマレンゲ）。木兰科落叶小乔木，初夏开大型下垂的芳香白花，红色雄蕊相衬，亦常作庭园观赏。",
+      "habitat_hint": "山地落叶林及溪谷旁湿润坡地。",
+      "finding_tips": "5至7月寻找下垂的大型白花，红色雄蕊与甜香为其特征。"
+    }
+  },
+  "Maianthemum bifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False Lily-of-the-valley",
+    "aliases": {
+      "zh-Hans": "舞鹤草"
+    },
+    "ja": {
+      "summary": "ヒメマイヅルソウ。キジカクシ科マイヅルソウ属の小型多年草。ハート形の葉を2枚つけ、白い小花を総状に咲かせる。マイヅルソウより小型。",
+      "habitat_hint": "亜高山〜高山の針葉樹林下、林床の腐植質。",
+      "finding_tips": "6〜7月、2枚のハート形の葉と白い小花を探します。マイヅルソウより葉も花も小さい。"
+    },
+    "en": {
+      "summary": "False Lily-of-the-valley. A small perennial (Asparagaceae) with two heart-shaped leaves and a raceme of tiny white flowers; smaller than its relative M. dilatatum.",
+      "habitat_hint": "Coniferous forest floor at subalpine to alpine elevations, on humus.",
+      "finding_tips": "In June–July look for the paired heart-shaped leaves and small white flowers; smaller in all parts than the common maianthemum."
+    },
+    "zh": {
+      "summary": "舞鹤草（ヒメマイヅルソウ）。天门冬科舞鹤草属小型多年生草本，具两片心形叶，总状花序开白色小花，较近缘种更小型。",
+      "habitat_hint": "亚高山至高山针叶林下腐殖质林床。",
+      "finding_tips": "6至7月寻找两片心形叶与白色小花，各部均较普通舞鹤草为小。"
+    }
+  },
+  "Maianthemum viridiflorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yamato False Solomon's Seal",
+    "aliases": {
+      "zh-Hans": "大和鹿药"
+    },
+    "ja": {
+      "summary": "ヤマトユキザサ。キジカクシ科ユキザサ属の多年草。茎の先に白緑色の小花を円錐状につけ、葉は楕円形で2列に並ぶ。若芽は山菜にされる。",
+      "habitat_hint": "山地の落葉樹林下、やや湿った林床。",
+      "finding_tips": "5〜6月、茎先の円錐状の白緑色の花序を探します。ユキザサの仲間で葉が2列に並ぶ。"
+    },
+    "en": {
+      "summary": "A perennial (Asparagaceae) with a terminal panicle of small greenish-white flowers and elliptic leaves arranged in two ranks; young shoots are eaten as a wild vegetable.",
+      "habitat_hint": "Deciduous montane forest floor, somewhat moist ground.",
+      "finding_tips": "In May–June look for the terminal greenish-white panicle; leaves lie in two ranks along the stem."
+    },
+    "zh": {
+      "summary": "大和鹿药（ヤマトユキザサ）。天门冬科鹿药属多年生草本，茎顶生圆锥状白绿色小花，叶椭圆呈二列排列，嫩芽可作山菜。",
+      "habitat_hint": "山地落叶林下略湿润林床。",
+      "finding_tips": "5至6月寻找茎顶圆锥状白绿色花序，叶沿茎二列排列。"
+    }
+  },
+  "Malus zumi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Zumi Crabapple",
+    "aliases": {
+      "zh-Hans": "三叶海棠"
+    },
+    "ja": {
+      "summary": "オオズミ。バラ科リンゴ属の落葉小高木。春に白〜淡紅色の花を多数咲かせ、秋に小さな赤い果実をつける。ズミの変種または大型型とされる。",
+      "habitat_hint": "山地の明るい林縁、河畔、日当たりのよい斜面。",
+      "finding_tips": "4〜5月の白い花、秋の小さな赤い果実を探します。若葉は3裂することがある。"
+    },
+    "en": {
+      "summary": "Zumi Crabapple. A deciduous small tree (Rosaceae) with abundant white to pale pink spring flowers and small red autumn fruits; regarded as a large form or variety of Malus toringo.",
+      "habitat_hint": "Bright forest edges, riversides and sunny slopes in the hills.",
+      "finding_tips": "Look for white flowers in April–May and small red fruits in autumn; young leaves are sometimes three-lobed."
+    },
+    "zh": {
+      "summary": "三叶海棠（オオズミ）。蔷薇科苹果属落叶小乔木，春季密生白至淡红色花，秋结小型红果，视为山荆子近缘的大型类型。",
+      "habitat_hint": "山地明亮林缘、河畔及向阳坡地。",
+      "finding_tips": "4至5月赏白花，秋季见小红果，幼叶有时三裂。"
+    }
+  },
+  "Malva moschata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Musk Mallow",
+    "aliases": {
+      "zh-Hans": "麝香锦葵"
+    },
+    "ja": {
+      "summary": "ジャコウアオイ。アオイ科ゼニアオイ属の多年草。ヨーロッパ原産で、淡紅色の大きな花を咲かせる。葉は深く切れ込み、揉むと麝香に似た香りがある。園芸・帰化。",
+      "habitat_hint": "道端、草地、庭、公園などの明るい場所(栽培・逸出)。",
+      "finding_tips": "6〜9月、淡紅色の5弁花を探します。深く裂けた葉が識別点。"
+    },
+    "en": {
+      "summary": "Musk Mallow. A perennial (Malvaceae) native to Europe with large pale-pink flowers; the deeply dissected leaves smell faintly musky when crushed. Grown ornamentally and naturalised.",
+      "habitat_hint": "Roadsides, grassland, gardens and parks in sunny spots (cultivated/escaped).",
+      "finding_tips": "From June to September look for pale pink five-petalled flowers; the deeply cut leaves are distinctive."
+    },
+    "zh": {
+      "summary": "麝香锦葵（ジャコウアオイ）。锦葵科锦葵属多年生草本，原产欧洲，开大型淡红色花，叶深裂，揉之有淡麝香味，常栽培并逸生。",
+      "habitat_hint": "路旁、草地、庭园及公园等向阳处（栽培或逸出）。",
+      "finding_tips": "6至9月寻找淡红色五瓣花，深裂叶片为辨识点。"
+    }
+  },
+  "Marasmius oreades": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fairy Ring Mushroom",
+    "aliases": {
+      "zh-Hans": "硬柄小皮伞"
+    },
+    "ja": {
+      "summary": "シバフタケ。ホウライタケ科の小型のキノコ。淡褐色の傘に細長い丈夫な柄をもち、芝生に環状(妖精の輪)に群生する。食用にされるが、有毒種との誤食に注意。",
+      "habitat_hint": "芝地、草原、公園の芝生など。輪状に発生する。",
+      "finding_tips": "初夏〜秋、芝生に円形に並ぶ小さな淡褐色のキノコを探します。乾くと復活する丈夫な柄が特徴。"
+    },
+    "en": {
+      "summary": "Fairy Ring Mushroom. A small mushroom (Marasmiaceae) with a tan cap and tough slender stem, growing in rings ('fairy rings') on lawns. Edible, but easily confused with toxic look-alikes.",
+      "habitat_hint": "Lawns, grassland and park turf, appearing in rings.",
+      "finding_tips": "Early summer to autumn, look for small tan mushrooms arranged in circles; the tough reviving stem is characteristic."
+    },
+    "zh": {
+      "summary": "硬柄小皮伞（シバフタケ）。小皮伞科小型真菌，淡褐色菌盖配坚韧细柄，于草坪上成环状（仙女环）群生。可食，但需防误采有毒近似种。",
+      "habitat_hint": "草坪、草原及公园草地，常成环状发生。",
+      "finding_tips": "初夏至秋于草坪寻找排成圆环的淡褐色小菇，干后可复原的坚韧菌柄为其特征。"
+    }
+  },
+  "Maxates ambigua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swallow Emerald Moth",
+    "aliases": {
+      "zh-Hans": "燕青尺蛾"
+    },
+    "ja": {
+      "summary": "ツバメアオシャク。シャクガ科アオシャク亜科のガ。淡い緑色の翅をもち、後翅に短い尾状突起があるのが名の由来。開張3cmほど。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "初夏〜夏、灯火に集まる淡緑色のガを探します。後翅の小さな尾状突起が識別点。"
+    },
+    "en": {
+      "summary": "A geometrid moth (Geometridae, Geometrinae) with pale green wings and short tail-like projections on the hindwings, giving it its 'swallow' name; wingspan about 3 cm.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "Early summer to summer, look for pale green moths at lights; the small hindwing tails are diagnostic."
+    },
+    "zh": {
+      "summary": "燕青尺蛾（ツバメアオシャク）。尺蛾科青尺蛾亚科的蛾，翅淡绿色，后翅具短尾突（故名“燕”），翅展约3厘米。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "初夏至夏于灯下寻找淡绿色蛾，后翅小尾突为辨识点。"
+    }
+  },
+  "Megachile kobensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kobe Leafcutter Bee",
+    "aliases": {
+      "zh-Hans": "神户切叶蜂"
+    },
+    "ja": {
+      "summary": "コウベキヌゲハキリバチ。ハキリバチ科の中型のハナバチ。植物の葉を円形に切り取って巣材にする。腹部下面に花粉を運ぶ密な毛(腹毛刷)がある。",
+      "habitat_hint": "草地、林縁、公園、住宅地の庭など。",
+      "finding_tips": "初夏〜秋、花を訪れるハチや葉が円く切り取られた植物を探します。腹の下面で花粉を運ぶのが識別点。"
+    },
+    "en": {
+      "summary": "A medium-sized leafcutter bee (Megachilidae) that cuts circular pieces from leaves to build its nest; it carries pollen on a dense brush of hairs under the abdomen.",
+      "habitat_hint": "Grasslands, forest edges, parks and garden plantings.",
+      "finding_tips": "Early summer to autumn, look for flower-visiting bees or leaves with neat circular cut-outs; note pollen carried on the underside of the abdomen."
+    },
+    "zh": {
+      "summary": "神户切叶蜂（コウベキヌゲハキリバチ）。切叶蜂科的中型蜂，切取植物叶片成圆形作巢材，腹部下面具密毛（腹毛刷）携带花粉。",
+      "habitat_hint": "草地、林缘、公园及庭园植栽。",
+      "finding_tips": "初夏至秋寻找访花的蜂或被切出圆缺口的叶片，以腹下携粉为辨识点。"
+    }
+  },
+  "Megangulus zyonoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ridged Tellin",
+    "aliases": {
+      "zh-Hans": "粗纹樱蛤"
+    },
+    "ja": {
+      "summary": "アラスジサラガイ。ニッコウガイ科の二枚貝。殻は白色で扁平な楕円形、表面に粗い成長脈(筋)が刻まれる。砂泥底に潜って暮らす。",
+      "habitat_hint": "内湾〜沿岸の砂泥底、潮下帯。",
+      "finding_tips": "浜辺に打ち上げられた白く扁平な貝殻を探します。粗い成長筋が名の由来で識別点。"
+    },
+    "en": {
+      "summary": "A tellin bivalve (Tellinidae) with a white, flattened oval shell marked by coarse growth ridges; it burrows in sandy-mud bottoms.",
+      "habitat_hint": "Sandy-mud subtidal bottoms of bays and coastal waters.",
+      "finding_tips": "Search beach drift for the white flattened shell; the coarse growth ridges are diagnostic."
+    },
+    "zh": {
+      "summary": "粗纹樱蛤（アラスジサラガイ）。樱蛤科双壳类，壳白而扁平呈椭圆形，表面刻有粗糙生长纹，潜居砂泥底。",
+      "habitat_hint": "内湾至沿岸砂泥底潮下带。",
+      "finding_tips": "于海滩漂积物中寻找白色扁平贝壳，粗糙生长纹为辨识要点。"
+    }
+  },
+  "Meganola gigas": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant Nola Moth",
+    "aliases": {
+      "zh-Hans": "大瘤蛾"
+    },
+    "ja": {
+      "summary": "オオコブガ。コブガ科の小型のガ。灰褐色の翅に隆起した鱗の束(コブ)があり、名の通りコブガ類では大型。幼虫は樹木の葉を食べる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "初夏〜夏、灯火に来る灰褐色の小さなガを探します。翅の上に盛り上がった鱗のコブが識別点。"
+    },
+    "en": {
+      "summary": "A small moth (Nolidae) with greyish-brown wings bearing raised tufts of scales ('bumps'); large for a nolid, as its name implies. The larva feeds on tree leaves.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "Early summer to summer, look for small greyish-brown moths at lights; the raised scale tufts on the wings are diagnostic."
+    },
+    "zh": {
+      "summary": "大瘤蛾（オオコブガ）。瘤蛾科小型蛾，灰褐色翅面具隆起的鳞簇（瘤），在瘤蛾类中体型偏大，幼虫取食树叶。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "初夏至夏于灯下寻找灰褐色小蛾，翅上隆起鳞簇为辨识点。"
+    }
+  },
+  "Megathyrsus maximus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "大黍"
+    },
+    "ja": {
+      "summary": "ギネアキビ。イネ科の大型多年草。アフリカ原産で高さ1〜3mに達し、牧草・飼料として各地で栽培・帰化する。大きな円錐花序をつける。",
+      "habitat_hint": "道端、荒地、河川敷、南西諸島の暖地。",
+      "finding_tips": "夏〜秋、大きく開いた円錐状の花序と背の高い草姿を探します。暖地で群生する。"
+    },
+    "en": {
+      "summary": "Guineagrass. A tall perennial grass (Poaceae) native to Africa, reaching 1–3 m; widely cultivated and naturalised as a forage grass, with a large open panicle.",
+      "habitat_hint": "Roadsides, wasteland, riverbanks and warm areas of the southwest islands.",
+      "finding_tips": "Summer to autumn, look for tall clumps with large open panicles; it forms dense stands in warm regions."
+    },
+    "zh": {
+      "summary": "大黍（ギネアキビ）。禾本科大型多年生草本，原产非洲，高1–3米，广泛栽培并逸生作牧草，具大型开展圆锥花序。",
+      "habitat_hint": "路旁、荒地、河滩及西南诸岛暖地。",
+      "finding_tips": "夏秋寻找高大草丛与开展的圆锥花序，暖地常成密丛。"
+    }
+  },
+  "Melanelia stygia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine Camouflage Lichen",
+    "aliases": {
+      "zh-Hans": "深色梅衣"
+    },
+    "ja": {
+      "summary": "タカネゴケ。ウメノキゴケ科の葉状地衣。暗褐色〜黒褐色で高山の岩上に密着して生育する。乾燥や寒冷に強い高山性の地衣。",
+      "habitat_hint": "高山・亜高山帯の日当たりのよい岩上。",
+      "finding_tips": "一年を通して、高山の岩に密着する暗褐色の葉状地衣を探します。裂片が細かく密に重なる。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Parmeliaceae), dark brown to blackish, growing tightly appressed on rocks at high elevations; tolerant of cold and drought.",
+      "habitat_hint": "Sunlit rocks in the alpine and subalpine zones.",
+      "finding_tips": "Year-round, look for dark brown leafy lichen pressed onto alpine rock; the finely overlapping lobes are characteristic."
+    },
+    "zh": {
+      "summary": "深色梅衣（タカネゴケ）。梅衣科叶状地衣，暗褐至黑褐色，紧贴生长于高山岩石上，耐寒耐旱。",
+      "habitat_hint": "高山与亚高山带向阳岩面。",
+      "finding_tips": "全年可于高山岩石上寻找紧贴的暗褐色叶状地衣，裂片细密叠覆。"
+    }
+  },
+  "Melanohalea olivacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Olive Camouflage Lichen",
+    "aliases": {
+      "zh-Hans": "橄榄斑叶衣"
+    },
+    "ja": {
+      "summary": "オリーブゴケ。ウメノキゴケ科の葉状地衣。オリーブ色〜褐色で、山地の樹皮や枝に着生する。表面はやや光沢があり細かなしわがある。",
+      "habitat_hint": "山地の落葉樹の樹皮、枝上。",
+      "finding_tips": "一年を通して、樹皮に着くオリーブ色の葉状地衣を探します。褐色の裂片が識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Parmeliaceae), olive to brown, growing on bark and branches in montane forest; the surface is slightly glossy and finely wrinkled.",
+      "habitat_hint": "Bark and branches of deciduous trees in the hills.",
+      "finding_tips": "Year-round, look for olive-coloured leafy lichen on bark; the brown lobes are the identifying feature."
+    },
+    "zh": {
+      "summary": "橄榄斑叶衣（オリーブゴケ）。梅衣科叶状地衣，橄榄至褐色，附生于山地树皮与枝条，表面略具光泽并有细皱。",
+      "habitat_hint": "山地落叶树的树皮与枝条。",
+      "finding_tips": "全年可于树皮上寻找橄榄色叶状地衣，褐色裂片为辨识点。"
+    }
+  },
+  "Melanolepis multiglandulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Otaheite Cabbage Tree",
+    "aliases": {
+      "zh-Hans": "蓝子木"
+    },
+    "ja": {
+      "summary": "ヤンバルアカメガシワ。トウダイグサ科の常緑小高木。南西諸島に分布し、若葉が赤みを帯び、葉裏や新芽に星状毛が密生する。雌雄異株。",
+      "habitat_hint": "南西諸島の海岸林、二次林、林縁。",
+      "finding_tips": "亜熱帯の林縁で、大きな葉と赤みを帯びた新芽を探します。葉裏の白い星状毛が識別点。"
+    },
+    "en": {
+      "summary": "Otaheite Cabbage Tree. An evergreen small tree (Euphorbiaceae) of the southwest islands, with reddish young leaves and dense stellate hairs on the leaf undersides and shoots; dioecious.",
+      "habitat_hint": "Coastal forest, secondary woodland and forest edges of the southwest islands.",
+      "finding_tips": "In subtropical forest edges look for large leaves and reddish new shoots; the white stellate hairs on the leaf underside are diagnostic."
+    },
+    "zh": {
+      "summary": "蓝子木（ヤンバルアカメガシワ）。大戟科常绿小乔木，分布于西南诸岛，嫩叶带红，叶背及新芽密生星状毛，雌雄异株。",
+      "habitat_hint": "西南诸岛的海岸林、次生林及林缘。",
+      "finding_tips": "于亚热带林缘寻找大叶与带红的新芽，叶背白色星状毛为辨识点。"
+    }
+  },
+  "Melapia electaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bow-marked Snout Moth",
+    "aliases": {
+      "zh-Hans": "弓纹夜蛾"
+    },
+    "ja": {
+      "summary": "ユミモンクチバ。ヤガ科シタバガ亜科のガ。褐色の前翅に弓状の紋があるのが名の由来。開張3〜4cmほどで、幼虫は木本の葉を食べる。",
+      "habitat_hint": "低山〜山地の広葉樹林、林縁。",
+      "finding_tips": "夏、灯火に来る褐色のガを探します。前翅の弓状の紋が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Erebidae) with a bow-shaped mark on the brown forewing, giving it its name; wingspan about 3–4 cm, the larva feeding on woody leaves.",
+      "habitat_hint": "Broadleaf forest and forest edges in low mountains.",
+      "finding_tips": "In summer look for brown moths at lights; the bow-shaped forewing mark is diagnostic."
+    },
+    "zh": {
+      "summary": "弓纹夜蛾（ユミモンクチバ）。夜蛾科的蛾，褐色前翅具弓形纹（故名），翅展约3–4厘米，幼虫取食木本植物叶片。",
+      "habitat_hint": "低山至山地阔叶林及林缘。",
+      "finding_tips": "夏季于灯下寻找褐色蛾，前翅弓形纹为辨识点。"
+    }
   }
 }
