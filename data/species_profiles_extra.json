@@ -271707,5 +271707,520 @@
       "habitat_hint": "石灰岩地林床、落叶下、湿润岩隙。",
       "finding_tips": "筛石灰岩区落叶寻找芝麻大纺锤形螺（需放大镜）；九州石灰岩地为线索。"
     }
+  },
+  "Diplommatina uzenensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "ウゼンゴマガイ。東北地方などの石灰岩地や林床の落葉の下に生息するゴマガイ科の非常に小さな陸産巻貝。殻は右巻きの紡錘形で、ゴマ粒ほどの大きさ。湿った石灰岩地に依存し、分布が限られる。",
+      "habitat_hint": "石灰岩地の林床、落葉の下、湿った岩の隙間。",
+      "finding_tips": "石灰岩地の落葉や土をふるって、ゴマ粒ほどの小さな紡錘形の巻貝を探す（要ルーペ）。石灰岩地が手がかり。"
+    },
+    "en": {
+      "summary": "A very small land snail (Diplommatina uzenensis) of limestone areas and forest-floor litter in northeastern Japan and beyond; the dextral spindle-shaped shell is sesame-seed sized. It depends on damp limestone and is narrowly distributed.",
+      "habitat_hint": "Limestone forest floor, under litter and damp rock crevices.",
+      "finding_tips": "Sift limestone-area litter for a sesame-sized spindle-shaped snail (use a lens); limestone ground is a clue."
+    },
+    "zh": {
+      "summary": "ウゼンゴマガイ。栖于东北等地石灰岩与林床落叶下的芝麻螺科极小型陆生螺，壳右旋纺锤形、芝麻粒大，依赖湿润石灰岩、分布局限。",
+      "habitat_hint": "石灰岩地林床、落叶下、湿润岩隙。",
+      "finding_tips": "筛石灰岩区落叶寻找芝麻大纺锤形螺（需放大镜）；石灰岩地为线索。"
+    }
+  },
+  "Diplophyllum andrewsii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "マルバコオイゴケモドキ。山地の湿った岩上や樹幹の基部、朽木に生える葉状のタイ類（ウロコゴケ類）。葉が二裂し、上下の裂片の大きさが異なる。緑色のマット状に広がる。",
+      "habitat_hint": "山地の湿った岩上、樹幹の基部、朽木、沢沿い。",
+      "finding_tips": "湿った岩上や樹幹基部で、二裂した葉をもつ緑色のタイ類を探す。上下で大きさの異なる裂片が識別点。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Diplophyllum andrewsii) of damp montane rocks, tree bases and rotten wood; the leaves are bilobed with the two lobes unequal in size, forming green mats.",
+      "habitat_hint": "Damp montane rocks, tree bases, rotten wood and streamsides.",
+      "finding_tips": "On damp rock and tree bases look for a green liverwort with bilobed leaves; the unequal leaf lobes are diagnostic."
+    },
+    "zh": {
+      "summary": "マルバコオイゴケモドキ。生于山地湿岩、树基与朽木的叶状苔类（鳞苔类），叶二裂、上下裂片不等大，成绿色垫状。",
+      "habitat_hint": "山地湿岩、树基、朽木、沟沿。",
+      "finding_tips": "湿岩与树基寻找二裂叶的绿色苔类；上下裂片不等大为辨识点。"
+    }
+  },
+  "Dipsastraea speciosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moon coral",
+    "ja": {
+      "summary": "キクメイシ。南日本〜インド太平洋の浅いサンゴ礁に生息する造礁性のサンゴ。塊状の群体をつくり、表面に菊の花のような多角形のサンゴ個体（ポリプの骨格）が並ぶのが名の由来。褐虫藻と共生する。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、礁池の日当たりのよい海底。",
+      "finding_tips": "サンゴ礁で、表面に菊花状の多角形の模様が並ぶ塊状のサンゴを探す。菊の花のような個体配列が識別点。"
+    },
+    "en": {
+      "summary": "A reef-building moon coral (Dipsastraea speciosa) of shallow coral reefs from southern Japan through the Indo-Pacific; it forms massive colonies whose surface is patterned with chrysanthemum-like polygonal corallites (the source of its Japanese name), living in symbiosis with zooxanthellae.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs and sunny lagoon floors.",
+      "finding_tips": "On reefs look for a massive coral whose surface bears chrysanthemum-like polygonal cups; the flower-like corallite pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "キクメイシ（秀丽圆星珊瑚）。分布南日本至印度太平洋浅珊瑚礁的造礁珊瑚，群体块状，表面多角形珊瑚个体如菊花排列（和名之源），与虫黄藻共生。",
+      "habitat_hint": "浅珊瑚礁、岩礁、礁池向阳海底。",
+      "finding_tips": "珊瑚礁寻找表面菊花状多角形排列的块状珊瑚；花状个体排列为辨识点。"
+    }
+  },
+  "Dischides belcheri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tusk shell",
+    "ja": {
+      "summary": "フタマタツノガイ。沿岸の砂底に生息するツノガイ類（掘足類）の軟体動物。殻は象牙のように緩く湾曲した細長い管状で、後端（細い方）が二叉に切れ込むのが名の由来。砂中に潜って微小な生物を食べる。",
+      "habitat_hint": "沿岸の砂底、やや深い砂泥底。",
+      "finding_tips": "砂底で、細長い管状で後端が二叉に切れ込むツノガイを探す。二叉の後端が識別点。"
+    },
+    "en": {
+      "summary": "A tusk shell (Dischides belcheri), a scaphopod of coastal sand; the shell is a slender gently curved tube whose narrow rear end is split into two, the source of its Japanese name. It burrows in sand, feeding on microorganisms.",
+      "habitat_hint": "Coastal sand and deeper muddy-sand bottoms.",
+      "finding_tips": "On sand look for a slender tubular tusk shell with a forked rear end; the split posterior is diagnostic."
+    },
+    "zh": {
+      "summary": "フタマタツノガイ。栖于沿岸砂底的角贝类（掘足类）软体动物，壳如象牙般微弯细长管状、后端（细端）分二叉（和名之源），潜砂取食微小生物。",
+      "habitat_hint": "沿岸砂底、较深砂泥底。",
+      "finding_tips": "砂底寻找后端分二叉的细长管状角贝；二叉后端为辨识点。"
+    }
+  },
+  "Distorsio anus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Distorsio snail",
+    "ja": {
+      "summary": "シマイボボラ。南日本〜インド太平洋の浅い岩礁・サンゴ礁に生息するフジツガイ科の巻貝。殻はねじれてゆがんだ形をしており、殻口が複雑に入り組む。表面にいぼ状の彫刻をもつ。肉食性。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、砂底、礁池。",
+      "finding_tips": "岩礁や砂底で、ねじれてゆがんだ形の巻貝を探す。複雑に入り組む殻口といぼ状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A distorsio snail (Distorsio anus) of shallow coral and rocky reefs from southern Japan through the Indo-Pacific; the shell is twisted and distorted with a complexly folded aperture and warty sculpture. It is carnivorous.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs, sand and lagoons.",
+      "finding_tips": "On reefs and sand look for a twisted distorted snail; the complexly folded aperture and warty sculpture are diagnostic."
+    },
+    "zh": {
+      "summary": "シマイボボラ。分布南日本至印度太平洋浅珊瑚礁与岩礁的嵌线螺科螺，壳扭曲变形、壳口褶皱复杂、表面具疣状雕刻，肉食性。",
+      "habitat_hint": "浅珊瑚礁、岩礁、砂底、礁池。",
+      "finding_tips": "岩礁与砂底寻找扭曲变形之螺；复杂壳口与疣状雕刻为辨识点。"
+    }
+  },
+  "Dosinia subalata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dosinia clam",
+    "ja": {
+      "summary": "タマカガミガイ。内湾や沿岸の砂泥底に潜って生活するマルスダレガイ科の二枚貝。殻は円形でよくふくらみ、白っぽく、同心円状の細かい成長線が並ぶ。砂泥中に潜り、水管を伸ばして有機物を濾しとって食べる。",
+      "habitat_hint": "内湾、沿岸の砂泥底、干潟のやや深い場所。",
+      "finding_tips": "砂泥底で円形でよくふくらんだ白っぽい二枚貝を探す。同心円状の細かい成長線が識別点。"
+    },
+    "en": {
+      "summary": "A dosinia clam (Dosinia subalata) that burrows in muddy-sand bottoms of bays and coasts; the shell is round and well-inflated, whitish, with fine concentric growth lines. It burrows and extends siphons to filter organic matter.",
+      "habitat_hint": "Muddy-sand bottoms of inner bays, coasts and deeper tidal flats.",
+      "finding_tips": "On muddy sand look for a round well-inflated whitish clam; the fine concentric growth lines are diagnostic."
+    },
+    "zh": {
+      "summary": "タマカガミガイ。潜居于内湾与沿岸砂泥底的帘蛤科双壳，壳圆而膨、色白、具同心细生长线，埋于泥中伸水管滤食有机物。",
+      "habitat_hint": "内湾、沿岸砂泥底、潮滩较深处。",
+      "finding_tips": "砂泥底寻找圆膨白色双壳；同心细生长线为辨识点。"
+    }
+  },
+  "Doto japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Doto nudibranch",
+    "ja": {
+      "summary": "マツカサウミウシ。浅い岩礁やヒドロ虫の生える場所に生息する小さなウミウシ（ドートー類）。背面にこぶ状の突起が並ぶミノをもち、その姿が松かさ（マツカサ）に似るのが名の由来。ヒドロ虫を食べる。",
+      "habitat_hint": "浅い岩礁、潮だまり、ヒドロ虫の生える岩上や海藻。",
+      "finding_tips": "ヒドロ虫の生える岩や海藻で、こぶ状突起の並ぶミノをもつ小さなウミウシを探す。松かさ状のミノが識別点。"
+    },
+    "en": {
+      "summary": "A Doto nudibranch (Doto japonica) of shallow reefs and hydroid patches; its cerata bear rows of knob-like tubercles resembling a pine cone, the source of its Japanese name. It feeds on hydroids.",
+      "habitat_hint": "Shallow reefs, tide pools and hydroid-covered rocks and weed.",
+      "finding_tips": "On hydroid-covered rock and weed look for a small slug with knobbly pine-cone-like cerata; the tubercled cerata are diagnostic."
+    },
+    "zh": {
+      "summary": "マツカサウミウシ。栖于浅岩礁与生水螅处的小型海牛（Doto类），蓑上具瘤状突起排列、形似松果（和名之源），取食水螅。",
+      "habitat_hint": "浅岩礁、潮池、生水螅之岩面与海藻。",
+      "finding_tips": "生水螅之岩与藻上寻找蓑具瘤突的小海牛；松果状蓑为辨识点。"
+    }
+  },
+  "Drupa ricinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "シロイガレイシガイ。南日本〜インド太平洋の潮間帯のサンゴ礁・岩礁に生息するアクキガイ科の巻貝。殻は白っぽく、表面にとげ状の突起が発達する。殻口は狭く、縁に歯状の突起がある。肉食性で他の貝などを食べる。",
+      "habitat_hint": "潮間帯のサンゴ礁、岩礁、転石の下。",
+      "finding_tips": "干潮時、サンゴ礁でとげ状突起の発達した白っぽい巻貝を探す。狭い殻口と歯状突起が識別点。"
+    },
+    "en": {
+      "summary": "Prickly drupe (Drupa ricinus). A muricid snail of intertidal coral and rocky reefs from southern Japan through the Indo-Pacific; the whitish shell has well-developed spines and a narrow toothed aperture. It is carnivorous, feeding on other shellfish.",
+      "habitat_hint": "Intertidal coral reefs, rocky reefs and under boulders.",
+      "finding_tips": "At low tide on reefs look for a whitish snail with well-developed spines; the narrow toothed aperture is diagnostic."
+    },
+    "zh": {
+      "summary": "シロイガレイシガイ（黄斑核果螺）。分布南日本至印度太平洋潮间带珊瑚礁与岩礁的骨螺科螺，壳白、表面棘突发达、壳口狭而具齿突，肉食性、食他贝。",
+      "habitat_hint": "潮间带珊瑚礁、岩礁、砾石下。",
+      "finding_tips": "退潮时于珊瑚礁寻找棘突发达的白色螺；狭壳口与齿突为辨识点。"
+    }
+  },
+  "Drymonia dodonides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prominent moth",
+    "ja": {
+      "summary": "トビモンシャチホコ。低地〜山地の広葉樹林に見られるシャチホコガ科の蛾。前翅は灰褐色で、樹皮に似た複雑な斑紋をもち、静止時に独特の姿勢をとる。幼虫はブナ科などの広葉樹の葉を食べる。",
+      "habitat_hint": "低地〜山地の広葉樹林、雑木林、公園の樹林。",
+      "finding_tips": "夏の夜、灯火に来る灰褐色で樹皮状の斑紋をもつ蛾を探す。前翅の複雑な模様が識別点。"
+    },
+    "en": {
+      "summary": "A prominent moth (Drymonia dodonides) of lowland to montane broadleaf forest; the grey-brown forewings bear complex bark-like markings and it rests in a characteristic posture. The larvae feed on oaks and other broadleaf trees.",
+      "habitat_hint": "Lowland to montane broadleaf forest, woodland and park groves.",
+      "finding_tips": "On summer nights look at lights for a grey-brown moth with bark-like markings; the complex forewing pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "トビモンシャチホコ。见于低地至山地阔叶林的舟蛾科蛾，前翅灰褐、具拟树皮复杂斑纹，静止呈特有姿态，幼虫食壳斗科等阔叶树叶。",
+      "habitat_hint": "低地至山地阔叶林、杂木林、公园林地。",
+      "finding_tips": "夏夜灯下寻找灰褐拟树皮斑纹之蛾；前翅复杂纹为辨识点。"
+    }
+  },
+  "Dryopteris handeliana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wood fern",
+    "ja": {
+      "summary": "ツクシオオクジャク。暖地の山地の林内や谷沿いに生えるオシダ科の大型のシダ。葉は二回羽状に大きく分かれ、放射状に立ち上がる。オオクジャクの仲間で、九州（筑紫）などに分布する。",
+      "habitat_hint": "暖地の山地の林内、谷沿い、湿った半日陰。",
+      "finding_tips": "湿った林内で、二回羽状に大きく分かれ放射状に立ち上がる大型のシダを探す。大きさと分布地が手がかり。"
+    },
+    "en": {
+      "summary": "A large wood fern (Dryopteris handeliana) of warm-region montane forests and valleys; the fronds are largely twice pinnate and rise in a radiating shuttlecock. A member of the wood-fern group, it is found in Kyushu and beyond.",
+      "habitat_hint": "Warm-region montane forest interiors, valleys and damp shade.",
+      "finding_tips": "In damp forest look for a large twice-pinnate fern rising in a radiating rosette; the size and range are clues."
+    },
+    "zh": {
+      "summary": "ツクシオオクジャク。生于暖地山地林内与谷沿的鳞毛蕨科大型蕨，叶二回羽状大裂、放射状竖立，为大型鳞毛蕨类，分布九州（筑紫）等地。",
+      "habitat_hint": "暖地山地林内、谷沿、湿润半阴处。",
+      "finding_tips": "湿林内寻找二回羽状大裂、放射竖立的大型蕨；体大与分布为线索。"
+    }
+  },
+  "Echinochloa colonum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jungle rice",
+    "aliases": {
+      "zh-Hans": "光头稗"
+    },
+    "ja": {
+      "summary": "コヒメビエ。暖地の水田や畑、道端に生えるイネ科の一年草。ヒエ（イヌビエ）の仲間で、より小型。茎の先に短い枝を規則的につけ、そこに小穂を密に並べる。熱帯〜暖温帯に広く分布する雑草。",
+      "habitat_hint": "暖地の水田、畑、道端、湿った空き地。",
+      "finding_tips": "夏〜秋、水田や畑で短い枝に小穂を密につける小型のヒエの仲間を探す。規則的に並ぶ枝が識別点。"
+    },
+    "en": {
+      "summary": "Jungle rice (Echinochloa colonum). An annual grass of warm-region paddies, fields and roadsides; a smaller relative of barnyard grass, it bears short branches regularly along the stem tip with densely ranked spikelets. It is a widespread tropical-warm-temperate weed.",
+      "habitat_hint": "Warm-region paddies, fields, roadsides and damp waste ground.",
+      "finding_tips": "In summer–autumn in paddies and fields look for a small barnyard-grass relative with short branches of dense spikelets; the regular branches are diagnostic."
+    },
+    "zh": {
+      "summary": "コヒメビエ（光头稗）。生于暖地稻田、农田与路边的禾本科一年生草本，为稗之较小近亲，茎顶规则生短枝、其上密列小穗，为热带至暖温带广布杂草。",
+      "habitat_hint": "暖地稻田、农田、路边、湿润空地。",
+      "finding_tips": "夏秋于稻田农田寻找短枝密列小穗的小型稗类；规则短枝为辨识点。"
+    }
+  },
+  "Echinoderma calcicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiny dapperling",
+    "ja": {
+      "summary": "トゲカラカサタケ。石灰岩地などの林内の地上に発生するハラタケ科のキノコ。傘の表面にとげ状〜いぼ状の突起（鱗片）が密に立つのが特徴。カラカサタケの仲間だが、有毒の可能性があり食用は避ける。",
+      "habitat_hint": "石灰岩地などの広葉樹林の地上、林床。",
+      "finding_tips": "林床で、傘の表面にとげ状の突起が密に立つキノコを探す。とげ状の鱗片が識別点。食用は避ける。"
+    },
+    "en": {
+      "summary": "A spiny dapperling (Echinoderma calcicola) fruiting on the ground in forests, often on limestone; the cap surface is densely set with spiny to warty scales. A relative of parasol mushrooms, it may be toxic, so avoid eating it.",
+      "habitat_hint": "On the ground in broadleaf forest, often limestone areas.",
+      "finding_tips": "On the forest floor look for a mushroom with a densely spiny-scaled cap; the spiny scales are diagnostic. Do not eat it."
+    },
+    "zh": {
+      "summary": "トゲカラカサタケ。发生于石灰岩地等林内地上的蘑菇科菌，盖面密生刺状至疣状鳞片，为伞菌类近亲、可能有毒、勿食。",
+      "habitat_hint": "石灰岩地等阔叶林地上、林床。",
+      "finding_tips": "林床寻找盖面密生刺状突起之菌；刺状鳞片为辨识点；勿食。"
+    }
+  },
+  "Ectephrina semilutata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "アカエダシャク。山地の林縁や広葉樹林に見られるシャクガ科エダシャク亜科の蛾。翅は赤褐色〜橙褐色で、細い横線をもつ。夜行性で灯火に飛来する。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "山地の林縁、広葉樹林、渓谷沿いの林。",
+      "finding_tips": "夏の夜、山地で灯火に来る赤褐色の蛾を探す。赤みを帯びた翅の色合いが識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Ectephrina semilutata) of montane forest edges and broadleaf forest; the wings are red-brown to orange-brown with fine cross-lines. It is nocturnal and comes to lights, and the larvae feed on broadleaf trees.",
+      "habitat_hint": "Montane forest edges, broadleaf forest and valley woods.",
+      "finding_tips": "On summer nights in the mountains look at lights for a red-brown moth; the reddish wing colour is diagnostic."
+    },
+    "zh": {
+      "summary": "アカエダシャク。见于山地林缘与阔叶林的尺蛾科尺蛾亚科蛾，翅红褐至橙褐、具细横线，夜行趋光，幼虫食阔叶树叶。",
+      "habitat_hint": "山地林缘、阔叶林、溪谷沿林。",
+      "finding_tips": "夏夜于山地灯下寻找红褐色蛾；带红翅色为辨识点。"
+    }
+  },
+  "Edessena gentiusalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "マルシラホシアツバ。林縁や雑木林に見られるヤガ科（アツバ類）の蛾。前翅は褐色で、丸い白い斑点をもつのが名の由来。下唇鬚（かしん）が前方に突き出す。夜行性で灯火に飛来する。幼虫は枯葉などを食べる。",
+      "habitat_hint": "林縁、雑木林、山地の広葉樹林。",
+      "finding_tips": "夏の夜、灯火に来る褐色で丸い白斑をもつ蛾を探す。前方に突き出す下唇鬚と白斑が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Edessena gentiusalis) of forest edges and woodland; the brown forewings bear a round white spot, the source of its Japanese name, and the labial palps project forward like a snout. It is nocturnal, and the larvae eat dead leaves.",
+      "habitat_hint": "Forest edges, secondary woodland and montane broadleaf forest.",
+      "finding_tips": "On summer nights look at lights for a brown moth with a round white spot; the forward-projecting snout and white spot are diagnostic."
+    },
+    "zh": {
+      "summary": "マルシラホシアツバ。见于林缘与杂木林的夜蛾科（髭蛾类）蛾，前翅褐色具圆白斑（和名之源），下唇须前突如喙，夜行趋光，幼虫食枯叶。",
+      "habitat_hint": "林缘、杂木林、山地阔叶林。",
+      "finding_tips": "夏夜灯下寻找褐色具圆白斑之蛾；前突下唇须与白斑为辨识点。"
+    }
+  },
+  "Eilicrinia wehrlii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ミミモンエダシャク。林縁や広葉樹林に見られるシャクガ科エダシャク亜科の蛾。翅は淡黄色〜黄褐色で、翅の縁近くに耳状の紋があるのが名の由来。夜行性で灯火に飛来する。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、山地の広葉樹林。",
+      "finding_tips": "夏の夜、灯火に来る淡黄色で縁近くに耳状の紋をもつ蛾を探す。耳状の紋が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Eilicrinia wehrlii) of forest edges and broadleaf forest; the wings are pale yellow to yellow-brown with an ear-like mark near the margin, the source of its Japanese name. It is nocturnal, and the larvae feed on broadleaf trees.",
+      "habitat_hint": "Forest edges, secondary woodland and montane broadleaf forest.",
+      "finding_tips": "On summer nights look at lights for a pale-yellow moth with an ear-like mark near the wing margin; the ear-like mark is diagnostic."
+    },
+    "zh": {
+      "summary": "ミミモンエダシャク。见于林缘与阔叶林的尺蛾科尺蛾亚科蛾，翅淡黄至黄褐、近缘处具耳状斑（和名之源），夜行趋光，幼虫食阔叶树叶。",
+      "habitat_hint": "林缘、杂木林、山地阔叶林。",
+      "finding_tips": "夏夜灯下寻找淡黄、近缘具耳状斑之蛾；耳状斑为辨识点。"
+    }
+  },
+  "Elaeagnus reflexa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Climbing oleaster",
+    "ja": {
+      "summary": "マルバツルグミ。暖地の海岸近くや林縁に生えるグミ科の常緑つる性低木。枝がつる状に長く伸び、革質で丸みのある葉をつける。葉の裏や若枝は褐色の鱗片に覆われる。秋に花を咲かせ、翌春に赤い果実を熟す。",
+      "habitat_hint": "暖地の海岸近くの林、林縁、藪、崖。",
+      "finding_tips": "暖地の林縁で、つる状に伸びる枝と、裏が褐色の鱗片に覆われた丸い革質の葉をもつ植物を探す。赤い果実が識別点。"
+    },
+    "en": {
+      "summary": "A climbing oleaster (Elaeagnus reflexa), an evergreen scrambling shrub of coastal areas and forest edges in warm regions; the branches extend like vines with rounded leathery leaves, their undersides and young twigs covered in brown scales. It flowers in autumn and ripens red fruit the next spring.",
+      "habitat_hint": "Warm-region coastal woods, forest edges, thickets and cliffs.",
+      "finding_tips": "At warm-region edges look for a scrambling shrub with rounded leathery leaves scaly-brown beneath; the red fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "マルバツルグミ。生于暖地近海与林缘的胡颓子科常绿蔓性灌木，枝蔓状长伸、叶革质圆钝，叶背与嫩枝被褐色鳞片，秋花翌春结红果。",
+      "habitat_hint": "暖地近海林、林缘、灌丛、崖壁。",
+      "finding_tips": "暖地林缘寻找蔓状枝与背被褐鳞的圆革质叶之植物；红果为辨识点。"
+    }
+  },
+  "Eleotris melanosoma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broadhead sleeper",
+    "ja": {
+      "summary": "オカメハゼ。河口や汽水域、マングローブ周辺に生息するカワアナゴ科（スリーパー類）の魚。体は暗褐色でずんぐりし、頭部が大きく平たい。底層でじっとして小魚や甲殻類を待ち伏せして捕らえる。",
+      "habitat_hint": "河口、汽水域、マングローブ周辺、下流域の淀み。",
+      "finding_tips": "河口や汽水域の底で、頭が大きく暗褐色のずんぐりした魚を探す。底でじっとしている点が手がかり。"
+    },
+    "en": {
+      "summary": "Broadhead sleeper (Eleotris melanosoma). A sleeper goby of estuaries, brackish water and mangrove margins; the body is dark brown and stocky with a large flat head. It lies still on the bottom, ambushing small fish and crustaceans.",
+      "habitat_hint": "Estuaries, brackish water, mangrove margins and lower-river pools.",
+      "finding_tips": "On estuary bottoms look for a stocky dark-brown fish with a large head; lying still on the bottom is a clue."
+    },
+    "zh": {
+      "summary": "オカメハゼ。栖于河口、半咸水与红树林周边的塘鳢科（睡塘鳢类）鱼，体暗褐粗壮、头大而扁，伏于底层伏击小鱼与甲壳类。",
+      "habitat_hint": "河口、半咸水、红树林周边、下游缓流。",
+      "finding_tips": "河口与半咸水底寻找头大暗褐粗壮之鱼；伏底不动为线索。"
+    }
+  },
+  "Eleutherococcus senticosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siberian ginseng",
+    "aliases": {
+      "zh-Hans": "刺五加"
+    },
+    "ja": {
+      "summary": "エゾウコギ。北日本や北東アジアの山地の林内・林縁に生えるウコギ科の落葉低木。枝に細い刺が密に生え、掌状複葉をもつ。夏に淡黄緑色の小花を球状につけ、秋に黒い果実を熟す。根や樹皮は「刺五加」として薬用にされる。",
+      "habitat_hint": "北日本・寒冷地の山地の林内、林縁、谷沿い。",
+      "finding_tips": "山地の林縁で、枝に細い刺が密に生え掌状複葉をもつ低木を探す。刺の多い枝が識別点。"
+    },
+    "en": {
+      "summary": "Siberian ginseng (Eleutherococcus senticosus). A deciduous shrub of the ivy family in montane forests of northern Japan and northeast Asia; the branches are densely set with fine prickles and it has palmate compound leaves, globe-like clusters of pale yellow-green summer flowers and black autumn fruit. Its roots and bark are used medicinally as eleuthero.",
+      "habitat_hint": "Montane forest interiors, edges and valleys of northern/cold regions.",
+      "finding_tips": "At montane edges look for a shrub with densely prickly branches and palmate leaves; the prickly stems are diagnostic."
+    },
+    "zh": {
+      "summary": "エゾウコギ（刺五加）。生于北日本与东北亚山地林内林缘的五加科落叶灌木，枝密生细刺、掌状复叶，夏生淡黄绿小花成球、秋结黑果，根皮作刺五加药用。",
+      "habitat_hint": "北日本与寒地山地林内、林缘、谷沿。",
+      "finding_tips": "山地林缘寻找枝密生细刺、掌状复叶之灌木；多刺枝为辨识点。"
+    }
+  },
+  "Elysia lobata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "トカラミドリガイ。浅い岩礁や藻場に生息する嚢舌類（ミドリガイ類）のウミウシ。体の両側にひらひらとした側足（パラポディア）を広げ、緑色を帯びる。海藻を食べてその葉緑体を体内に取り込み利用する。",
+      "habitat_hint": "浅い岩礁、藻場、潮だまり、海藻の生える岩上。",
+      "finding_tips": "藻場や潮だまりで、両側にひらひらした側足を広げた緑色のウミウシを探す。海藻の上を這う姿が手がかり。"
+    },
+    "en": {
+      "summary": "A sacoglossan sea slug (Elysia lobata) of shallow reefs and seagrass; it spreads frilly side flaps (parapodia) and is greenish, feeding on algae and retaining their chloroplasts for its own use.",
+      "habitat_hint": "Shallow reefs, seagrass, tide pools and weedy rocks.",
+      "finding_tips": "In seagrass and tide pools look for a greenish slug with frilly side flaps creeping over algae."
+    },
+    "zh": {
+      "summary": "トカラミドリガイ。栖于浅岩礁与藻场的囊舌类海牛，体侧展荷叶状侧足（侧翼）、带绿色，取食海藻并留其叶绿体自用。",
+      "habitat_hint": "浅岩礁、藻场、潮池、生海藻岩面。",
+      "finding_tips": "藻场与潮池寻找体侧展荷叶状侧足的绿色海牛；行于海藻上为线索。"
+    }
+  },
+  "Elysia obtusa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "オトメミドリガイ。浅い岩礁や藻場に生息する嚢舌類（ミドリガイ類）のウミウシ。体の両側に側足を広げ、緑色を帯びて縁が色づくことがある。海藻を食べてその葉緑体を体内に取り込み利用する。",
+      "habitat_hint": "浅い岩礁、藻場、潮だまり、海藻の生える岩上。",
+      "finding_tips": "藻場や潮だまりで、両側に側足を広げた緑色のウミウシを探す。海藻の上を這う姿と縁の色づきが手がかり。"
+    },
+    "en": {
+      "summary": "A sacoglossan sea slug (Elysia obtusa) of shallow reefs and seagrass; it spreads side flaps (parapodia) and is greenish, sometimes with coloured margins, feeding on algae and retaining their chloroplasts.",
+      "habitat_hint": "Shallow reefs, seagrass, tide pools and weedy rocks.",
+      "finding_tips": "In seagrass and tide pools look for a greenish slug with side flaps creeping over algae; coloured margins are a clue."
+    },
+    "zh": {
+      "summary": "オトメミドリガイ。栖于浅岩礁与藻场的囊舌类海牛，体侧展侧足、带绿色、缘偶着色，取食海藻并留其叶绿体自用。",
+      "habitat_hint": "浅岩礁、藻场、潮池、生海藻岩面。",
+      "finding_tips": "藻场与潮池寻找体侧展侧足的绿色海牛；行于海藻上与缘着色为线索。"
+    }
+  },
+  "Emberiza tristrami": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tristram's Bunting",
+    "aliases": {
+      "zh-Hans": "白眉鹀"
+    },
+    "ja": {
+      "summary": "シロハラホオジロ。東アジアに分布するホオジロ科の小鳥。頭部に黒と白の明瞭な縞模様があり、腹は白っぽい。渡りの途中や冬に日本の林縁・藪に立ち寄る旅鳥〜冬鳥。地上や藪で種子や小さな虫を食べる。",
+      "habitat_hint": "山地・低地の林縁、藪、林内の下草、渡り時の公園の茂み。",
+      "finding_tips": "渡りの時期や冬、林縁の藪で頭に黒白の縞模様をもつホオジロ類を探す。明瞭な頭の縞が識別点。"
+    },
+    "en": {
+      "summary": "Tristram's Bunting (Emberiza tristrami). A small bunting of East Asia; the head has a bold black-and-white striped pattern and the underparts are whitish. It stops over in Japanese forest edges and thickets on migration and in winter, feeding on seeds and small insects on the ground and in scrub.",
+      "habitat_hint": "Montane and lowland forest edges, thickets, undergrowth and park scrub on migration.",
+      "finding_tips": "On migration or in winter in scrubby edges look for a bunting with a bold black-and-white head pattern; the striped head is diagnostic."
+    },
+    "zh": {
+      "summary": "シロハラホオジロ（白眉鹀）。分布东亚的鹀科小鸟，头部具明显黑白条纹、腹部发白，迁徙途中与冬季经停日本林缘灌丛，于地面与灌丛取食种子与小虫。",
+      "habitat_hint": "山地与低地林缘、灌丛、林下、迁徙时公园灌丛。",
+      "finding_tips": "迁徙期或冬于林缘灌丛寻找头具黑白条纹的鹀；明显头纹为辨识点。"
+    }
+  },
+  "Entoloma cyanonigrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pinkgill",
+    "ja": {
+      "summary": "コンイロイッポンシメジ。夏〜秋に林内の地上に発生するイッポンシメジ科のキノコ。傘や柄が藍色〜紺色を帯びるのが名の由来。成熟するとひだが胞子の色でピンク色を帯びる。イッポンシメジ科には有毒種が多く、食用は避ける。",
+      "habitat_hint": "広葉樹林・混交林の地上、林床。",
+      "finding_tips": "夏〜秋、林床で藍色〜紺色を帯びたキノコを探す。成熟したひだのピンク色が識別点。イッポンシメジ科は毒に注意し食べないこと。"
+    },
+    "en": {
+      "summary": "A pinkgill (Entoloma cyanonigrum) fruiting on the ground in summer–autumn forest; cap and stem are tinged blue to dark blue, the source of its Japanese name, and the gills turn pink with the spore colour at maturity. Many pinkgills are toxic, so avoid eating it.",
+      "habitat_hint": "On the ground in broadleaf and mixed forest.",
+      "finding_tips": "In summer–autumn on the forest floor look for a blue-tinged mushroom; the pink mature gills are diagnostic. Pinkgills can be toxic, so do not eat it."
+    },
+    "zh": {
+      "summary": "コンイロイッポンシメジ。夏秋发生于林内地上的粉褶菌科菌，盖与柄带蓝至深蓝（和名之源），成熟时菌褶因孢子色转粉红。粉褶菌科多有毒，勿食。",
+      "habitat_hint": "阔叶林与混交林地上、林床。",
+      "finding_tips": "夏秋于林床寻找带蓝色之菌；成熟菌褶粉红为辨识点；粉褶菌类注意有毒、勿食。"
+    }
+  },
+  "Epatolmis luctifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiger moth",
+    "ja": {
+      "summary": "キバラヒトリ。草地や河原、林縁に見られるヒトリガ科の蛾。前翅は黒褐色、後翅と腹部は黄色で、警告色をなす。夜行性で灯火に飛来する。幼虫は毛虫で、各種の草本の葉を食べる。",
+      "habitat_hint": "草地、河原、林縁、荒地の草むら。",
+      "finding_tips": "夏の夜、灯火に来る前翅が黒褐色で腹や後翅が黄色い蛾を探す。黄色い腹部が識別点。"
+    },
+    "en": {
+      "summary": "A tiger moth (Epatolmis luctifera) of grassland, riverbanks and forest edges; the forewings are blackish-brown while the hindwings and abdomen are yellow, forming a warning pattern. It is nocturnal, and the hairy larvae feed on various herbs.",
+      "habitat_hint": "Grassland, riverbanks, forest edges and weedy waste ground.",
+      "finding_tips": "On summer nights look at lights for a moth with blackish-brown forewings and a yellow abdomen and hindwings; the yellow abdomen is diagnostic."
+    },
+    "zh": {
+      "summary": "キバラヒトリ。见于草地、河滩与林缘的灯蛾科蛾，前翅黑褐、后翅与腹部黄色成警戒色，夜行趋光，幼虫为毛虫、食多种草本叶。",
+      "habitat_hint": "草地、河滩、林缘、荒地草丛。",
+      "finding_tips": "夏夜灯下寻找前翅黑褐、腹与后翅黄色之蛾；黄腹为辨识点。"
+    }
   }
 }
