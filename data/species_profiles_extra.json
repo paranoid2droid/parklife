@@ -266322,5 +266322,547 @@
       "habitat_hint": "潮间带至浅海岩礁、海藻间、砾石下。",
       "finding_tips": "潮池与海藻间寻找纺锤形极小螺；褐斑壳为辨识点。"
     }
+  },
+  "Abietinella abietina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "モミシノブゴケ。日当たりのよい草地や岩上、土手に生えるシノブゴケ科の蘚類。一回羽状に規則正しく分枝し、モミの小枝のような姿でマット状に広がる。やや乾いた環境を好む。",
+      "habitat_hint": "日当たりのよい草地、岩上、土手、石灰岩地。",
+      "finding_tips": "乾いた草地や岩上で、モミの小枝のように一回羽状に分枝する蘚を探す。規則的な枝分かれが識別点。"
+    },
+    "en": {
+      "summary": "Wiry fern moss (Abietinella abietina). A moss of sunny grassland, rocks and banks; it is regularly once-pinnately branched, resembling a fir twig, and forms mats. It prefers rather dry sites.",
+      "habitat_hint": "Sunny grassland, rocks, banks and limestone ground.",
+      "finding_tips": "On dry grassland and rock look for a moss branched once-pinnately like a fir twig; the regular branching is diagnostic."
+    },
+    "zh": {
+      "summary": "モミシノブゴケ（山羽藓）。生于向阳草地、岩面与土坡的羽藓科藓类，一回羽状规则分枝、形如冷杉小枝，成垫状，喜稍干环境。",
+      "habitat_hint": "向阳草地、岩面、土坡、石灰岩地。",
+      "finding_tips": "干草地与岩面寻找一回羽状如冷杉小枝之藓；规则分枝为辨识点。"
+    }
+  },
+  "Abronica purpureoanulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ユビワミノウミウシ。浅い岩礁に生息するミノウミウシ類のウミウシ。背面に多数の細い突起（ミノ）をもち、突起に指輪状の色帯があるのが名の由来。ヒドロ虫などを食べる。",
+      "habitat_hint": "浅い岩礁、潮だまり、ヒドロ虫の生える岩上。",
+      "finding_tips": "岩礁で背にミノを多数もつ小さなウミウシを探す。ミノの指輪状の色帯が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug of shallow reefs; its back bears many slender projections (cerata) marked with ring-like colour bands, and it feeds on hydroids.",
+      "habitat_hint": "Shallow reefs, tide pools and hydroid-covered rocks.",
+      "finding_tips": "On reefs look for a small slug whose back is covered in cerata; the ring-like colour bands on the cerata are diagnostic."
+    },
+    "zh": {
+      "summary": "ユビワミノウミウシ。栖于浅岩礁的蓑海牛类海牛，背具众多细蓑，蓑上具指环状色带（和名之源），取食水螅。",
+      "habitat_hint": "浅岩礁、潮池、生水螅之岩面。",
+      "finding_tips": "岩礁寻找背具众多细蓑的小海牛；蓑上指环状色带为辨识点。"
+    }
+  },
+  "Acalolepta sejuncta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Longhorn beetle",
+    "ja": {
+      "summary": "ニセビロウドカミキリ。雑木林や林縁に見られるカミキリムシ科の甲虫。体は褐色でビロード状の細毛に覆われ、長い触角をもつ。幼虫は広葉樹の枯れ木や衰弱木の材を食べる。",
+      "habitat_hint": "雑木林、林縁、広葉樹の枯れ木や伐採木のある林。",
+      "finding_tips": "夏、広葉樹の枯れ枝や灯火でビロード状の褐色のカミキリを探す。長い触角が識別点。"
+    },
+    "en": {
+      "summary": "A longhorn beetle of secondary woodland and forest edges; the brown body is clad in velvety hairs and it has long antennae. The larvae bore in the dead and weakened wood of broadleaf trees.",
+      "habitat_hint": "Secondary woodland, forest edges and dead broadleaf wood.",
+      "finding_tips": "In summer on dead broadleaf branches or at lights look for a velvety brown longhorn; the long antennae are diagnostic."
+    },
+    "zh": {
+      "summary": "ニセビロウドカミキリ。见于杂木林与林缘的天牛科甲虫，体褐色被绒毛、触角长，幼虫蛀食阔叶枯木与衰弱木。",
+      "habitat_hint": "杂木林、林缘、有阔叶枯木或伐木之林。",
+      "finding_tips": "夏于阔叶枯枝或灯下寻找绒毛褐色天牛；长触角为辨识点。"
+    }
+  },
+  "Acanthosoma haemorrhoidale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hawthorn shieldbug",
+    "ja": {
+      "summary": "ツノアカツノカメムシ。林縁や雑木林に見られるツノカメムシ科のカメムシ。緑色の体に赤褐色の斑があり、前胸の左右が角状にとがる。サンザシやカバノキ類などの果実や葉から吸汁する。",
+      "habitat_hint": "林縁、雑木林、サンザシ・カバノキ類の生える場所。",
+      "finding_tips": "秋、木の葉や果実の上で前胸が角状にとがる緑と赤褐色のカメムシを探す。肩の角が識別点。"
+    },
+    "en": {
+      "summary": "Hawthorn shieldbug (Acanthosoma haemorrhoidale). A shieldbug of forest edges and woodland; the green body is marked with red-brown, and the pronotum is drawn out into sharp shoulder points. It feeds on the fruit and leaves of hawthorn and birch.",
+      "habitat_hint": "Forest edges and woodland with hawthorn and birch.",
+      "finding_tips": "In autumn on foliage and berries look for a green-and-red-brown bug with sharp pointed shoulders; the shoulder spines are diagnostic."
+    },
+    "zh": {
+      "summary": "ツノアカツノカメムシ（山楂盾蝽）。见于林缘与杂木林的角蝽科蝽，体绿具红褐斑，前胸两侧突成角，吸食山楂、桦木类的果实与叶。",
+      "habitat_hint": "林缘、杂木林、生山楂桦木之处。",
+      "finding_tips": "秋于叶果上寻找前胸成角、绿与红褐之蝽；肩角为辨识点。"
+    }
+  },
+  "Acanthurus xanthopterus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellowfin surgeonfish",
+    "aliases": {
+      "zh-Hans": "黄鳍刺尾鱼"
+    },
+    "ja": {
+      "summary": "クロハギ。南日本〜インド太平洋のサンゴ礁や岩礁に分布するニザダイ科の魚。体は灰褐色で胸びれの基部が黄色く、目の周りに黄色い帯がある。尾の付け根に鋭い可動式のとげをもつ。海藻を食べる。",
+      "habitat_hint": "サンゴ礁、岩礁、礁池のやや深い場所。",
+      "finding_tips": "サンゴ礁で胸びれ基部と目の周りが黄色い灰褐色の魚を探す。尾の付け根のとげに注意。"
+    },
+    "en": {
+      "summary": "Yellowfin surgeonfish (Acanthurus xanthopterus). A surgeonfish of coral and rocky reefs from southern Japan through the Indo-Pacific; grey-brown with a yellow pectoral-fin base and a yellow band around the eye. It has a sharp movable spine at the tail base and grazes algae.",
+      "habitat_hint": "Coral reefs, rocky reefs and deeper parts of lagoons.",
+      "finding_tips": "On reefs look for a grey-brown fish with a yellow pectoral base and eye band; mind the sharp tail-base spine."
+    },
+    "zh": {
+      "summary": "クロハギ（黄鳍刺尾鱼）。分布南日本至印度太平洋珊瑚礁与岩礁的刺尾鱼科鱼，体灰褐、胸鳍基黄、眼周具黄带，尾柄具锐利可动棘，啃食海藻。",
+      "habitat_hint": "珊瑚礁、岩礁、礁池较深处。",
+      "finding_tips": "珊瑚礁寻找胸鳍基与眼周黄色的灰褐鱼；注意尾柄棘。"
+    }
+  },
+  "Acer nikoense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nikko maple",
+    "ja": {
+      "summary": "アカハダメグスリノキ。山地に生えるムクロジ科（旧カエデ科）の落葉高木で、メグスリノキの仲間。3枚の小葉からなる複葉をつけ、樹皮や小枝に毛がある。秋に美しく紅葉し、樹皮は古くから目薬に用いられた。",
+      "habitat_hint": "山地の落葉広葉樹林、谷沿いのやや湿った林。",
+      "finding_tips": "3枚の小葉からなる複葉と毛の多い枝を探す。秋の鮮やかな紅葉が識別点。"
+    },
+    "en": {
+      "summary": "Nikko maple (Acer nikoense). A deciduous tree of the soapberry family (formerly maples) in the mountains, related to the eye-medicine maple; it has trifoliate compound leaves and hairy bark and twigs, colours brilliantly in autumn, and its bark was long used as an eye-wash.",
+      "habitat_hint": "Montane deciduous broadleaf forest and damp valley woodland.",
+      "finding_tips": "Look for trifoliate compound leaves and hairy twigs; brilliant autumn colour is diagnostic."
+    },
+    "zh": {
+      "summary": "アカハダメグスリノキ。生于山地的无患子科（旧槭树科）落叶乔木，为目药槭近亲，叶为三出复叶，枝与树皮被毛，秋叶艳红，树皮古用作眼药。",
+      "habitat_hint": "山地落叶阔叶林、谷沿稍湿林。",
+      "finding_tips": "寻找三出复叶与被毛枝条；秋季艳红叶为辨识点。"
+    }
+  },
+  "Acesta goliath": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant file clam",
+    "ja": {
+      "summary": "オオハネガイ。やや深い岩礁や崖の割れ目に付着して生活するミノガイ科の大型の二枚貝。殻は白く扇形で、多数の触手をもつ。足糸で岩に固着する。",
+      "habitat_hint": "潮下帯〜深所の岩礁、崖の割れ目、洞窟状の場所。",
+      "finding_tips": "深めの岩礁の割れ目で、白い扇形の大きな二枚貝を探す。多数の触手を出す姿が特徴。"
+    },
+    "en": {
+      "summary": "Giant file clam (Acesta goliath). A large file clam that attaches in crevices on deeper reefs and cliffs; the shell is white and fan-shaped, and it has numerous tentacles, anchoring to rock by byssal threads.",
+      "habitat_hint": "Subtidal to deep reefs, cliff crevices and cave-like sites.",
+      "finding_tips": "In crevices of deeper reefs look for a large white fan-shaped clam with many tentacles."
+    },
+    "zh": {
+      "summary": "オオハネガイ。附着于较深岩礁与崖缝生活的锉蛤科大型双壳，壳白扇形、具众多触手，以足丝固着于岩。",
+      "habitat_hint": "潮下带至深处岩礁、崖缝、洞穴状处。",
+      "finding_tips": "较深岩礁缝隙寻找白色扇形大双壳；伸出众多触手为特征。"
+    }
+  },
+  "Acleris alnivora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "ハンノキミダレモンハマキ。林縁や湿地周辺に見られるハマキガ科の小さな蛾。前翅は褐色で不規則な紋があり、静止時に翅を屋根形にたたむ。幼虫はハンノキ類の葉を綴って食べる。",
+      "habitat_hint": "ハンノキの生える湿地、林縁、河畔林。",
+      "finding_tips": "ハンノキのまわりや灯火で、不規則な紋をもつ小さな褐色の蛾を探す。屋根形の静止姿勢が手がかり。"
+    },
+    "en": {
+      "summary": "A tortrix moth of forest edges and wetland margins; the brown forewings bear irregular marks and it folds its wings roof-like at rest. The larvae feed within tied alder leaves.",
+      "habitat_hint": "Alder-bearing wetlands, forest edges and riverside woods.",
+      "finding_tips": "Around alders or at lights look for a small brown moth with irregular marks; the roof-like resting posture is a clue."
+    },
+    "zh": {
+      "summary": "ハンノキミダレモンハマキ。见于林缘与湿地周边的卷蛾科小蛾，前翅褐色具不规则斑纹，静止时翅呈屋脊状，幼虫缀桤木叶取食。",
+      "habitat_hint": "生桤木的湿地、林缘、河畔林。",
+      "finding_tips": "桤木周边或灯下寻找具不规则斑纹的褐色小蛾；屋脊状静止姿为线索。"
+    }
+  },
+  "Aconitum jaluense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Monkshood",
+    "aliases": {
+      "zh-Hans": "鸭绿乌头"
+    },
+    "ja": {
+      "summary": "センウヅモドキ。山地の林縁や草地に生えるキンポウゲ科の多年草。秋に青紫色の兜状の花を穂状に咲かせる。全草に強い毒（アコニチン系アルカロイド）を含み、誤食は致命的となる。",
+      "habitat_hint": "山地の林縁、草地、やや湿った明るい斜面。",
+      "finding_tips": "秋、山地で青紫色の兜状の花を穂状につける草を探す。猛毒なので絶対に口にしないこと。"
+    },
+    "en": {
+      "summary": "A monkshood (Aconitum jaluense) of montane forest edges and grassland; it bears spikes of blue-purple hooded flowers in autumn. The whole plant contains potent aconitine alkaloids and is deadly if eaten.",
+      "habitat_hint": "Montane forest edges, grassland and damp bright slopes.",
+      "finding_tips": "In autumn on montane ground look for spikes of blue-purple hooded flowers; it is highly poisonous — never eat any part."
+    },
+    "zh": {
+      "summary": "センウヅモドキ（鸭绿乌头）。生于山地林缘与草地的毛茛科多年生草本，秋开蓝紫色盔状花成穗。全株含剧毒（乌头碱类生物碱），误食可致命。",
+      "habitat_hint": "山地林缘、草地、稍湿明亮坡地。",
+      "finding_tips": "秋于山地寻找蓝紫盔状花成穗之草；剧毒，切勿入口。"
+    }
+  },
+  "Aconitum okuyamae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Monkshood",
+    "ja": {
+      "summary": "ウゼントリカブト。東北地方の山地に分布するキンポウゲ科の多年草。秋に青紫色の兜状の花を咲かせる。全草に強い毒を含み、誤食は致命的となる代表的な有毒植物。",
+      "habitat_hint": "山地の林縁、草地、やや湿った斜面。",
+      "finding_tips": "秋、山地で青紫色の兜状の花を探す。猛毒なので絶対に触れて口にしないこと。"
+    },
+    "en": {
+      "summary": "A monkshood (Aconitum okuyamae) of the mountains of northeastern Japan; it bears blue-purple hooded flowers in autumn. The whole plant contains potent toxins and is one of the classic deadly poisonous plants.",
+      "habitat_hint": "Montane forest edges, grassland and damp slopes.",
+      "finding_tips": "In autumn in the mountains look for blue-purple hooded flowers; it is highly poisonous — never eat it."
+    },
+    "zh": {
+      "summary": "ウゼントリカブト。分布东北地方山地的毛茛科多年生草本，秋开蓝紫色盔状花。全株含剧毒，为经典致命有毒植物之一。",
+      "habitat_hint": "山地林缘、草地、稍湿坡地。",
+      "finding_tips": "秋于山地寻找蓝紫盔状花；剧毒，切勿入口。"
+    }
+  },
+  "Aconitum zigzag": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Monkshood",
+    "ja": {
+      "summary": "カワチブシ。近畿地方などの山地に分布するキンポウゲ科の多年草。秋に青紫色の兜状の花を咲かせ、花茎がジグザグに屈曲する。全草に強い毒を含み、誤食は致命的となる。",
+      "habitat_hint": "山地の林縁、草地、谷沿いのやや湿った場所。",
+      "finding_tips": "秋、山地でジグザグに屈曲する茎に青紫色の兜状の花をつける草を探す。猛毒なので口にしないこと。"
+    },
+    "en": {
+      "summary": "A monkshood (Aconitum zigzag) of the mountains of the Kinki region; it bears blue-purple hooded flowers in autumn on a zigzag-bending flower stem. The whole plant is strongly toxic and deadly if eaten.",
+      "habitat_hint": "Montane forest edges, grassland and damp valley sides.",
+      "finding_tips": "In autumn look for blue-purple hooded flowers on a zigzag stem; it is highly poisonous — do not eat it."
+    },
+    "zh": {
+      "summary": "カワチブシ。分布近畿等地山地的毛茛科多年生草本，秋开蓝紫盔状花，花茎作之字形曲折。全株含剧毒，误食可致命。",
+      "habitat_hint": "山地林缘、草地、谷沿稍湿处。",
+      "finding_tips": "秋于山地寻找之字形茎上蓝紫盔状花之草；剧毒勿食。"
+    }
+  },
+  "Acrocirrus validus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bristle worm",
+    "ja": {
+      "summary": "クマノアシツキ。潮間帯〜浅海の岩の隙間や転石の下に生息する多毛類（ゴカイの仲間）。体は太く、赤みを帯び、多数のえら状の突起をもつ。岩の割れ目に潜んで有機物を食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩の隙間、転石の下、岩礁。",
+      "finding_tips": "干潮時、転石をめくって赤みを帯びた太い多毛類を探す。えら状の突起をもつ体が識別点。"
+    },
+    "en": {
+      "summary": "A bristle worm (polychaete) of crevices and boulder undersides from the intertidal to shallow water; the stout body is reddish with many gill-like projections, and it hides in rock cracks feeding on organic matter.",
+      "habitat_hint": "Intertidal to shallow reef crevices and under boulders.",
+      "finding_tips": "At low tide turn boulders to find a stout reddish worm; the gill-like projections along its body are diagnostic."
+    },
+    "zh": {
+      "summary": "クマノアシツキ。栖于潮间带至浅海岩隙与砾石下的多毛类（沙蚕类），体粗、带红、具众多鳃状突起，藏于岩缝取食有机物。",
+      "habitat_hint": "潮间带至浅海岩隙、砾石下、岩礁。",
+      "finding_tips": "退潮时翻石寻找带红的粗壮多毛类；具鳃状突起之体为辨识点。"
+    }
+  },
+  "Acrosorium ciliolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "カギウスバノリ。潮間帯〜浅海の岩上や他の海藻に付着して生える紅藻の一種。葉状体は薄く赤紅色で、縁がかぎ状に巻いて他物に絡みつく。",
+      "habitat_hint": "潮間帯〜浅海の岩上、他の海藻の上、潮だまり。",
+      "finding_tips": "潮だまりや岩上で、薄く赤紅色の葉状体が縁をかぎ状に巻いて絡む海藻を探す。"
+    },
+    "en": {
+      "summary": "A red alga growing on rocks and other seaweeds from the intertidal to shallow water; the thin red thallus has margins that curl into hooks to cling to other objects.",
+      "habitat_hint": "Intertidal to shallow rocks, other seaweeds and tide pools.",
+      "finding_tips": "In tide pools and on rock look for a thin red alga whose margins curl into hooks clinging to other weed."
+    },
+    "zh": {
+      "summary": "カギウスバノリ。附生于潮间带至浅海岩面与他藻的红藻，叶状体薄而赤红，边缘卷成钩状缠附他物。",
+      "habitat_hint": "潮间带至浅海岩面、他藻之上、潮池。",
+      "finding_tips": "潮池与岩面寻找边缘钩卷、薄赤红叶体之红藻。"
+    }
+  },
+  "Actebia praecox": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Portland moth",
+    "ja": {
+      "summary": "ホソアオバヤガ。海岸の砂地や河原に見られるヤガ科の蛾。前翅は青緑色を帯びた灰色で、独特の色合いをもつ。幼虫は砂地に生えるさまざまな草本の葉を食べる。",
+      "habitat_hint": "海岸の砂地、河原、砂丘の草地。",
+      "finding_tips": "夏〜秋の夜、砂地の環境で灯火に来る青緑色を帯びた灰色の蛾を探す。前翅の色合いが識別点。"
+    },
+    "en": {
+      "summary": "Portland moth (Actebia praecox). A noctuid moth of coastal sand and riverbanks; the forewings are grey suffused with blue-green, giving a distinctive tone. The larvae feed on various herbs of sandy ground.",
+      "habitat_hint": "Coastal sand, riverbanks and dune grassland.",
+      "finding_tips": "On summer–autumn nights in sandy habitat look at lights for a grey moth washed with blue-green; the forewing tone is diagnostic."
+    },
+    "zh": {
+      "summary": "ホソアオバヤガ。见于海岸沙地与河滩的夜蛾科蛾，前翅灰色带蓝绿、色调独特，幼虫食沙地各种草本之叶。",
+      "habitat_hint": "海岸沙地、河滩、沙丘草地。",
+      "finding_tips": "夏秋夜于沙地环境灯下寻找带蓝绿的灰色蛾；前翅色调为辨识点。"
+    }
+  },
+  "Adiantum flabellulatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fan maidenhair",
+    "aliases": {
+      "zh-Hans": "扇叶铁线蕨"
+    },
+    "ja": {
+      "summary": "オキナワクジャクシダ。南日本の暖地の林縁や崖に生えるイノモトソウ科（ホウライシダ類）のシダ。細く黒い葉柄が数回分岐し、扇状に葉を広げる。若い葉は美しく、観賞的な姿をもつ。",
+      "habitat_hint": "暖地の林縁、崖、道端の湿った半日陰。",
+      "finding_tips": "暖地の崖や林縁で、黒い葉柄が扇状に分岐するシダを探す。扇形に広がる小葉が識別点。"
+    },
+    "en": {
+      "summary": "Fan maidenhair (Adiantum flabellulatum). A fern of warm-region forest edges and cliffs in southern Japan; the slender black stipes branch several times to spread the fronds in a fan. The young fronds are attractive and decorative.",
+      "habitat_hint": "Warm-region forest edges, cliffs and damp shaded roadsides.",
+      "finding_tips": "On warm-region cliffs and edges look for a fern with black stalks branching into a fan; the fan-spread leaflets are diagnostic."
+    },
+    "zh": {
+      "summary": "オキナワクジャクシダ（扇叶铁线蕨）。生于南日本暖地林缘与崖壁的凤尾蕨科（铁线蕨类）蕨，黑色细叶柄多次分歧、扇状展叶，幼叶美观。",
+      "habitat_hint": "暖地林缘、崖壁、路边湿润半阴处。",
+      "finding_tips": "暖地崖壁与林缘寻找黑柄扇状分歧之蕨；扇形展开小叶为辨识点。"
+    }
+  },
+  "Aeromachus inachus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small skipper butterfly",
+    "aliases": {
+      "zh-Hans": "河伯锷弄蝶"
+    },
+    "ja": {
+      "summary": "ホシチャバネセセリ。草地に生息するセセリチョウ科の小さなチョウ。翅は茶褐色で、後翅の裏に小さな白い斑点が星のように散る。幼虫はイネ科植物を食べる。近年減少している草原性のチョウ。",
+      "habitat_hint": "日当たりのよい草地、河川敷、山地の草原。",
+      "finding_tips": "夏、草地で素早く飛ぶ小さな茶褐色のセセリを探す。後翅裏の星状の白斑が識別点。"
+    },
+    "en": {
+      "summary": "A small skipper butterfly of grassland; the wings are tawny brown with small white star-like spots scattered on the hindwing underside. The larvae feed on grasses, and it is a declining grassland species.",
+      "habitat_hint": "Sunny grassland, riverbanks and montane meadows.",
+      "finding_tips": "In summer on grassland look for a small fast tawny skipper; the star-like white spots under the hindwing are diagnostic."
+    },
+    "zh": {
+      "summary": "ホシチャバネセセリ（河伯锷弄蝶）。栖于草地的弄蝶科小型蝶，翅茶褐、后翅反面散布星状白点，幼虫食禾本科，为近年减少的草原性蝶。",
+      "habitat_hint": "向阳草地、河滩、山地草原。",
+      "finding_tips": "夏于草地寻找快速飞行的茶褐小弄蝶；后翅反面星状白点为辨识点。"
+    }
+  },
+  "Aforia circinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turrid snail",
+    "ja": {
+      "summary": "タラチネヤゲンイグチガイ。北方の冷たい海のやや深い砂泥底に生息するクダマキガイ科の巻貝。殻は細長い紡錘形で、螺旋状の隆起線をもつ。肉食性で小さな動物を捕らえる。",
+      "habitat_hint": "北方のやや深い海の砂泥底、大陸棚。",
+      "finding_tips": "北の深めの海底で細長い紡錘形の巻貝を探す。螺旋状の隆起線をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "A turrid snail of deeper muddy-sand bottoms in cold northern seas; the slender spindle-shaped shell bears spiral ridges. It is carnivorous, capturing small animals.",
+      "habitat_hint": "Deeper muddy-sand bottoms and shelf of cold northern seas.",
+      "finding_tips": "On deeper northern seabeds look for a slender spindle-shaped snail; the spiral ridges are diagnostic."
+    },
+    "zh": {
+      "summary": "タラチネヤゲンイグチガイ。栖于北方冷水海较深砂泥底的塔螺科螺，壳细长纺锤形、具螺旋隆线，肉食性捕捉小动物。",
+      "habitat_hint": "北方较深海砂泥底、大陆架。",
+      "finding_tips": "北方较深海底寻找细长纺锤形螺；螺旋隆线为辨识点。"
+    }
+  },
+  "Ageratum houstonianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Floss flower",
+    "aliases": {
+      "zh-Hans": "熊耳草"
+    },
+    "ja": {
+      "summary": "ムラサキカッコウアザミ。熱帯アメリカ原産で観賞用に栽培され、暖地で野生化するキク科の一年草。青紫色の綿毛のような小さな頭花を多数密につける。花壇の縁取りによく使われる。",
+      "habitat_hint": "花壇、庭、道端、暖地の空き地や畑の周辺。",
+      "finding_tips": "夏〜秋、青紫色の綿毛状の小さな頭花が密に集まる草を探す。ふわふわした花のかたまりが識別点。"
+    },
+    "en": {
+      "summary": "Floss flower (Ageratum houstonianum). An annual daisy native to tropical America, grown ornamentally and naturalising in warm regions; it bears dense clusters of small fluffy blue-purple flower heads and is often used to edge flower beds.",
+      "habitat_hint": "Flower beds, gardens, roadsides and warm-region waste ground.",
+      "finding_tips": "In summer–autumn look for dense clusters of small fluffy blue-purple flower heads; the powder-puff blooms are diagnostic."
+    },
+    "zh": {
+      "summary": "ムラサキカッコウアザミ（熊耳草）。原产热带美洲、供观赏并于暖地逸生的菊科一年生草本，蓝紫色绒毛状小头状花密集，常作花坛镶边。",
+      "habitat_hint": "花坛、庭园、路边、暖地空地与田边。",
+      "finding_tips": "夏秋寻找蓝紫绒毛状小头花密集之草；蓬松花团为辨识点。"
+    }
+  },
+  "Agonum suavissimum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヒメセボシヒラタゴミムシ。水辺や湿地の地表に生息するオサムシ科の小さな甲虫。体は光沢のある黒〜暗褐色で平たく、素早く歩き回って小さな虫を捕食する。",
+      "habitat_hint": "河原、池沼の縁、湿地などの湿った地表。",
+      "finding_tips": "水辺の湿った地面で、光沢のある平たい黒っぽい小さな甲虫を探す。石や落葉の下でも見つかる。"
+    },
+    "en": {
+      "summary": "A small ground beetle of watersides and wetlands; the glossy black to dark-brown body is flattened and it runs quickly, preying on small invertebrates.",
+      "habitat_hint": "Damp ground of riverbanks, pond margins and wetlands.",
+      "finding_tips": "On damp waterside ground look for a small glossy flattened dark beetle; turning stones and litter helps find it."
+    },
+    "zh": {
+      "summary": "ヒメセボシヒラタゴミムシ。栖于水边与湿地地表的步甲科小甲虫，体黑至暗褐有光泽、扁平，行动迅速，捕食小虫。",
+      "habitat_hint": "河滩、池沼边缘、湿地等湿润地表。",
+      "finding_tips": "水边湿地寻找有光泽的扁平暗色小甲虫；翻石与落叶易见。"
+    }
+  },
+  "Agrocybe pediades": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common fieldcap",
+    "ja": {
+      "summary": "ハタケキノコ。芝地や草地、畑、道端の地上に発生するモエギタケ科のキノコ。傘は淡黄褐色で丸山形、ひだは成熟すると褐色になる。都市の公園の芝生などでも普通に見られる。",
+      "habitat_hint": "芝地、草地、畑、道端、公園の芝生。",
+      "finding_tips": "春〜秋、芝生や草地で淡黄褐色の丸山形の傘をもつ小さなキノコを探す。群生することが多い。"
+    },
+    "en": {
+      "summary": "Common fieldcap (Agrocybe pediades). A mushroom fruiting on turf, grassland, fields and roadsides; the cap is pale yellow-brown and domed, and the gills brown with age. It is common even on urban park lawns.",
+      "habitat_hint": "Turf, grassland, fields, roadsides and park lawns.",
+      "finding_tips": "From spring to autumn on lawns and grassland look for a small mushroom with a pale yellow-brown domed cap, often in groups."
+    },
+    "zh": {
+      "summary": "ハタケキノコ（田头菇类）。发生于草坪、草地、农田与路边地上的球盖菇科菌，盖淡黄褐、半球形，褶老熟转褐，城市公园草坪亦常见。",
+      "habitat_hint": "草坪、草地、农田、路边、公园草坪。",
+      "finding_tips": "春至秋于草坪草地寻找淡黄褐半球形盖之小菌；常群生。"
+    }
+  },
+  "Agrostemma githago": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Corncockle",
+    "ja": {
+      "summary": "ムギセンノウ。ヨーロッパ原産で麦畑の雑草として知られ、観賞用にも栽培されるナデシコ科の一年草。細長い茎の先に紅紫色の大きな五弁花を咲かせる。種子には毒があり、誤食は危険。",
+      "habitat_hint": "花壇、畑、道端、逸出した草地。",
+      "finding_tips": "初夏、細長い茎の先に紅紫色の大きな花を探す。萼が花弁より長く突き出る点が識別点。種子は有毒。"
+    },
+    "en": {
+      "summary": "Corncockle (Agrostemma githago). An annual of the pink family, a classic cornfield weed in Europe and also grown ornamentally; slender stems bear large rose-purple five-petalled flowers. The seeds are poisonous and dangerous if eaten.",
+      "habitat_hint": "Flower beds, fields, roadsides and escaped grassland.",
+      "finding_tips": "In early summer look for large rose-purple flowers atop slender stems; the calyx lobes overtopping the petals are diagnostic. Seeds are toxic."
+    },
+    "zh": {
+      "summary": "ムギセンノウ（麦仙翁）。原产欧洲、著名麦田杂草并供观赏的石竹科一年生草本，细茎顶生玫紫色大五瓣花，种子有毒、误食危险。",
+      "habitat_hint": "花坛、农田、路边、逸生草地。",
+      "finding_tips": "初夏于细茎顶端寻找玫紫色大花；萼裂长过花瓣为辨识点；种子有毒。"
+    }
+  },
+  "Agrostis hyemalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter bentgrass",
+    "ja": {
+      "summary": "フユヌカボ。北アメリカ原産で道端や芝地に帰化したイネ科の一〜多年草。細い茎の先に非常に細かく分枝した広がる円錐花序をつけ、霞のように見える。ヌカボの仲間。",
+      "habitat_hint": "道端、芝地、空き地、河川敷などの日当たりのよい場所。",
+      "finding_tips": "初夏、霞のように細かく広がる円錐花序をもつ細い草を探す。極めて細い枝分かれが識別点。"
+    },
+    "en": {
+      "summary": "Winter bentgrass (Agrostis hyemalis). An annual to perennial grass native to North America, naturalised on roadsides and turf; slender stems carry a very finely branched spreading panicle that looks like a haze.",
+      "habitat_hint": "Roadsides, turf, waste ground and sunny riverbanks.",
+      "finding_tips": "In early summer look for a slender grass with a haze-like finely branched panicle; the extremely fine branching is diagnostic."
+    },
+    "zh": {
+      "summary": "フユヌカボ（冬剪股颖）。原产北美、逸生于路边草坪的禾本科一至多年生草本，细茎顶生极细分枝的开展圆锥花序、如烟霞。",
+      "habitat_hint": "路边、草坪、空地、河滩等向阳处。",
+      "finding_tips": "初夏寻找如烟霞般极细分枝圆锥花序的细草；极细分枝为辨识点。"
+    }
+  },
+  "Agrostis mertensii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine bentgrass",
+    "ja": {
+      "summary": "コミヤマヌカボ。高山の草地や礫地に生えるイネ科の多年草。北半球の寒冷地や高山に広く分布する。細い茎の先に紫褐色を帯びた小さな円錐花序をつける。丈は低く、株立ちになる。",
+      "habitat_hint": "高山の草地、礫地、風衝地、寒冷地の岩場。",
+      "finding_tips": "夏、高山の草地や礫地で紫褐色を帯びた小さな円錐花序をもつ低い草を探す。株立ちの姿が手がかり。"
+    },
+    "en": {
+      "summary": "Alpine bentgrass (Agrostis mertensii). A perennial grass of alpine grassland and gravel, widespread in cold and mountain regions of the Northern Hemisphere; slender stems bear a small purplish-brown panicle. It is low and tufted.",
+      "habitat_hint": "Alpine grassland, gravel, wind-exposed sites and cold rock.",
+      "finding_tips": "In summer on alpine ground look for a low tufted grass with a small purplish-brown panicle; the tufted habit is a clue."
+    },
+    "zh": {
+      "summary": "コミヤマヌカボ。生于高山草地与砾地的禾本科多年生草本，广布北半球寒地与高山，细茎顶生带紫褐色小圆锥花序，植株低矮丛生。",
+      "habitat_hint": "高山草地、砾地、风衝地、寒地岩场。",
+      "finding_tips": "夏于高山草地砾地寻找带紫褐小圆锥花序的低矮草；丛生姿为线索。"
+    }
+  },
+  "Agrypnus scrofa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Click beetle",
+    "ja": {
+      "summary": "ヒメサビキコリ。林縁や草地、朽木のまわりに見られるコメツキムシ科の甲虫。体は褐色で錆びたような細毛に覆われる。ひっくり返ると胸を跳ねさせて起き上がる。幼虫は土中や朽木で暮らす。",
+      "habitat_hint": "林縁、草地、朽木、伐採木のある林。",
+      "finding_tips": "朽木や草の上で、錆色の細毛に覆われた褐色の細長い甲虫を探す。仰向けにすると跳ねて起き上がる点が特徴。"
+    },
+    "en": {
+      "summary": "A click beetle of forest edges, grassland and dead wood; the brown body is clad in rust-coloured hairs, and when overturned it snaps its body to right itself. The larvae live in soil and rotten wood.",
+      "habitat_hint": "Forest edges, grassland and around dead and felled wood.",
+      "finding_tips": "On dead wood or foliage look for an elongate brown beetle with rusty hairs; flipped over, it clicks and jumps upright."
+    },
+    "zh": {
+      "summary": "ヒメサビキコリ。见于林缘、草地与朽木周边的叩甲科甲虫，体褐色被锈色细毛，翻身时弹胸跃起复位，幼虫居土中与朽木。",
+      "habitat_hint": "林缘、草地、朽木、有伐木之林。",
+      "finding_tips": "朽木或草上寻找被锈色细毛的褐色细长甲虫；仰翻时弹跳复位为特征。"
+    }
   }
 }
