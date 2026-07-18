@@ -270091,5 +270091,547 @@
       "habitat_hint": "山地林缘、草地、路边稍湿明亮处。",
       "finding_tips": "秋于山地寻找茎具鳍状翼、紫红头花之蓟；圆钝叶为辨识点。"
     }
+  },
+  "Cirsium yatsu-alpicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine thistle",
+    "ja": {
+      "summary": "ヤツタカネアザミ。八ヶ岳など本州中部の高山に分布するキク科のアザミ。高山の草地や礫地に生え、紅紫色の頭花をやや下向きに咲かせる。とげのある葉をもち、分布が限られる高山植物。",
+      "habitat_hint": "高山の草地、礫地、風衝地の明るい場所。",
+      "finding_tips": "夏、高山の草地でとげのある葉と、やや下向きの紅紫色の頭花をもつアザミを探す。高山という環境が手がかり。"
+    },
+    "en": {
+      "summary": "An alpine thistle (Cirsium yatsu-alpicola) of the high mountains of central Honshu such as the Yatsugatake range; it grows on alpine grassland and gravel, bearing somewhat nodding rose-purple flower heads. A spiny-leaved, narrowly distributed alpine plant.",
+      "habitat_hint": "Alpine grassland, gravel and wind-exposed bright sites.",
+      "finding_tips": "In summer on alpine grassland look for a thistle with spiny leaves and slightly nodding rose-purple heads; the alpine setting is a clue."
+    },
+    "zh": {
+      "summary": "ヤツタカネアザミ。分布八岳等本州中部高山的菊科蓟，生于高山草地与砾地，紫红头花略下垂，叶具刺，为分布局限的高山植物。",
+      "habitat_hint": "高山草地、砾地、风衝地明亮处。",
+      "finding_tips": "夏于高山草地寻找刺叶与略下垂紫红头花之蓟；高山环境为线索。"
+    }
+  },
+  "Cladonia arbuscula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Reindeer lichen",
+    "ja": {
+      "summary": "ワラハナゴケ。高山や寒冷地の地上、岩上に生えるハナゴケ科の樹状（フルティコース）の地衣。細い枝が繰り返し分岐して低木状の群落をつくり、灰緑色〜淡黄色。トナカイの餌となる「はなごけ」の仲間。",
+      "habitat_hint": "高山・亜高山の地上、風衝地、寒冷な砂礫地、岩上。",
+      "finding_tips": "高山の地表で、細い枝が繰り返し分岐して低木状に広がる灰緑色の地衣を探す。もろく乾いた質感が手がかり。"
+    },
+    "en": {
+      "summary": "A reindeer lichen (Cladonia arbuscula) of alpine and cold-region ground and rock; the slender stems branch repeatedly into shrubby cushions, grey-green to pale yellow. It is one of the reindeer lichens grazed by reindeer.",
+      "habitat_hint": "Alpine and subalpine ground, wind-exposed sites, cold gravel and rock.",
+      "finding_tips": "On alpine ground look for a grey-green lichen branching repeatedly into shrubby cushions; the brittle dry texture is a clue."
+    },
+    "zh": {
+      "summary": "ワラハナゴケ。生于高山与寒地地上、岩面的石蕊科枝状地衣，细枝反复分歧成灌丛状垫、灰绿至淡黄，为驯鹿所食的鹿蕊类之一。",
+      "habitat_hint": "高山、亚高山地上、风衝地、寒冷砂砾地、岩面。",
+      "finding_tips": "高山地表寻找细枝反复分歧成灌丛状之灰绿地衣；干脆质感为线索。"
+    }
+  },
+  "Cladonia coniocraea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cup lichen",
+    "ja": {
+      "summary": "ヤリノホゴケ。朽木や樹幹の基部、腐植土の上に生えるハナゴケ科の地衣。基部に鱗片状の葉体をもち、そこから槍の穂先のような細い柄（子器柄）を立ち上げる。身近な林内でも見られる。",
+      "habitat_hint": "朽木、樹幹の基部、腐植土上、林床。",
+      "finding_tips": "朽木や樹幹の基部で、鱗片状の葉体から槍の穂先のような細い柄が立ち上がる地衣を探す。細い柄が識別点。"
+    },
+    "en": {
+      "summary": "A cup lichen (Cladonia coniocraea) of rotten wood, tree bases and humus; it has scale-like basal squamules from which slender spear-tip-like stalks (podetia) rise. It occurs even in everyday woodland.",
+      "habitat_hint": "Rotten wood, tree bases, humus and forest floor.",
+      "finding_tips": "On rotten wood and tree bases look for a lichen with scaly base and slender spear-tip stalks; the fine stalks are diagnostic."
+    },
+    "zh": {
+      "summary": "ヤリノホゴケ。生于朽木、树基与腐殖土的石蕊科地衣，基部具鳞片状叶体、其上竖起如枪尖的细柄（子器柄），亦见于身边林内。",
+      "habitat_hint": "朽木、树基、腐殖土、林床。",
+      "finding_tips": "朽木与树基寻找基部鳞片状、竖起枪尖状细柄之地衣；细柄为辨识点。"
+    }
+  },
+  "Cladonia krempelhuberi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cup lichen",
+    "ja": {
+      "summary": "ヤグラゴケ。地上や岩上、腐植土に生えるハナゴケ科の地衣。柄（子器柄）が杯状の段を重ねて「やぐら」のように積み上がるのが名の由来。灰緑色で、乾いた明るい場所に生える。",
+      "habitat_hint": "地上、岩上、腐植土、日当たりのよい林縁。",
+      "finding_tips": "地表で、杯状の段を重ねてやぐらのように立ち上がる灰緑色の地衣を探す。段状に積み重なる柄が識別点。"
+    },
+    "en": {
+      "summary": "A cup lichen (Cladonia krempelhuberi) of ground, rocks and humus; the stalks build up cup upon cup like a scaffold, the source of its Japanese name. It is grey-green and grows in dry, bright places.",
+      "habitat_hint": "Ground, rocks, humus and sunny forest edges.",
+      "finding_tips": "On the ground look for a grey-green lichen with cups stacked scaffold-like; the tiered stacking of cups is diagnostic."
+    },
+    "zh": {
+      "summary": "ヤグラゴケ。生于地上、岩面与腐殖土的石蕊科地衣，子器柄杯状层叠如塔架（和名之源），灰绿色，生于干燥明亮处。",
+      "habitat_hint": "地上、岩面、腐殖土、向阳林缘。",
+      "finding_tips": "地表寻找杯状层叠如塔架的灰绿地衣；层叠杯柄为辨识点。"
+    }
+  },
+  "Cladonia stellaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star reindeer lichen",
+    "ja": {
+      "summary": "ミヤマハナゴケ。高山や寒冷地の地上に生えるハナゴケ科の樹状の地衣。細い枝が密に分岐して球状〜クッション状の塊をつくり、頭頂部が星状に見える。淡黄緑色で、トナカイの餌となる「はなごけ」の代表種。",
+      "habitat_hint": "高山・亜高山の地上、風衝地、寒冷な砂礫地。",
+      "finding_tips": "高山の地表で、密に分岐して球状の塊をつくる淡黄緑色の地衣を探す。頭頂の星状の分岐が識別点。"
+    },
+    "en": {
+      "summary": "Star reindeer lichen (Cladonia stellaris). A shrubby reindeer lichen of alpine and cold-region ground; the slender stems branch densely into ball- or cushion-like heads that look star-shaped on top. Pale yellow-green, it is a classic reindeer lichen.",
+      "habitat_hint": "Alpine and subalpine ground, wind-exposed sites and cold gravel.",
+      "finding_tips": "On alpine ground look for a pale yellow-green lichen forming dense ball-like heads; the star-shaped apical branching is diagnostic."
+    },
+    "zh": {
+      "summary": "ミヤマハナゴケ（星状鹿蕊）。生于高山与寒地地上的石蕊科枝状地衣，细枝密分歧成球状至垫状团、顶部呈星状，淡黄绿色，为驯鹿所食的经典鹿蕊。",
+      "habitat_hint": "高山、亚高山地上、风衝地、寒冷砂砾地。",
+      "finding_tips": "高山地表寻找密分歧成球团的淡黄绿地衣；顶部星状分歧为辨识点。"
+    }
+  },
+  "Clanculus gemmulifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top snail",
+    "ja": {
+      "summary": "ベニエビスガイ。潮間帯〜浅海の岩礁や転石の下に生息するニシキウズガイ科の小さな巻貝。殻はやや低い円錐形で、赤みを帯びた地に粒列が螺旋状に並ぶ。付着藻類を削り取って食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石の下、礁池。",
+      "finding_tips": "干潮時、転石の下で赤みを帯び粒列の並ぶ小さな円錐形の巻貝を探す。粒状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A top snail (Clanculus gemmulifer) of intertidal to shallow reefs found under boulders; the low conical shell is reddish with spiral rows of beads. It grazes films of algae.",
+      "habitat_hint": "Intertidal to shallow reefs, under boulders and lagoons.",
+      "finding_tips": "At low tide under rocks look for a small reddish conical snail with beaded rows; the beaded sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "ベニエビスガイ。栖于潮间带至浅海岩礁与砾石下的马蹄螺科小螺，壳低圆锥、红底具螺旋粒列，刮食附着藻。",
+      "habitat_hint": "潮间带至浅海岩礁、砾石下、礁池。",
+      "finding_tips": "退潮时于石下寻找红底具粒列的小圆锥螺；粒状雕刻为辨识点。"
+    }
+  },
+  "Clariger exilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goby",
+    "ja": {
+      "summary": "シモフリセジロハゼ。沿岸の岩礁や砂礫底に生息するハゼ科の非常に小さな魚。体は細長く半透明で、背に細かい斑点が霜降り状に散る。転石の下や隙間に潜んで暮らす。",
+      "habitat_hint": "沿岸の岩礁、砂礫底、転石の下、潮だまり。",
+      "finding_tips": "潮だまりや転石の下で、半透明で背に細かい斑点をもつ非常に小さなハゼを探す。霜降り状の斑点が識別点。"
+    },
+    "en": {
+      "summary": "A very small goby (Clariger exilis) of coastal reefs and gravel; the elongate body is translucent with fine frost-like speckles on the back, and it shelters under boulders and in crevices.",
+      "habitat_hint": "Coastal reefs, gravel, under boulders and tide pools.",
+      "finding_tips": "In tide pools and under boulders look for a very small translucent goby with fine speckles; the frost-like specks are diagnostic."
+    },
+    "zh": {
+      "summary": "シモフリセジロハゼ。栖于沿岸岩礁与砂砾底的虾虎鱼科极小型鱼，体细长半透明、背散细密斑点如霜降，藏于砾石下与缝隙。",
+      "habitat_hint": "沿岸岩礁、砂砾底、砾石下、潮池。",
+      "finding_tips": "潮池与石下寻找半透明、背具细斑的极小虾虎；霜降状斑点为辨识点。"
+    }
+  },
+  "Clastoderma debaryanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "クビナガホコリ。朽木や落葉、樹皮の上に発生する非常に小さな変形菌（粘菌）。細く長い柄の先に球形の子実体をつけ、成熟すると褐色の胞子塊になる。ルーペや顕微鏡でないと見つけにくい。",
+      "habitat_hint": "湿った朽木、落葉、樹皮の上。",
+      "finding_tips": "湿った朽木や落葉で、細く長い柄の先に小さな球形の子実体をつける変形菌を探す（要ルーペ）。長い柄が識別点。"
+    },
+    "en": {
+      "summary": "A very small slime mould (Clastoderma debaryanum) on rotten wood, litter and bark; a slender long stalk bears a spherical fruit body that matures to a brown spore mass. It is hard to spot without a lens.",
+      "habitat_hint": "Damp rotten wood, leaf litter and bark.",
+      "finding_tips": "On damp dead wood and litter look for a slime mould with a small spherical head on a slender long stalk (use a lens); the long stalk is diagnostic."
+    },
+    "zh": {
+      "summary": "クビナガホコリ（碎皮菌）。发生于朽木、落叶与树皮的极小型黏菌，细长柄顶生球形子实体、成熟为褐色孢子团，需放大镜或显微镜方易见。",
+      "habitat_hint": "湿润朽木、落叶、树皮上。",
+      "finding_tips": "湿朽木与落叶寻找细长柄顶生小球状子实体之黏菌（需放大镜）；长柄为辨识点。"
+    }
+  },
+  "Cleistostoma dilatatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mud crab",
+    "ja": {
+      "summary": "アリアケガニ。河口や干潟の砂泥底に穴を掘って生活するスナガニ科の小さなカニ。甲は横長で、干潟の表面を歩き回って泥の中の有機物を食べる。有明海など内湾の干潟に生息する。",
+      "habitat_hint": "河口、干潟、汽水域の砂泥底。",
+      "finding_tips": "干潟の砂泥底で、横長の甲をもつ小さなカニと巣穴を探す。干潟表面を歩き回る姿が手がかり。"
+    },
+    "en": {
+      "summary": "A small mud crab (Cleistostoma dilatatum) that burrows in muddy-sand bottoms of estuaries and tidal flats; the carapace is wider than long, and it walks the flat surface feeding on organic matter in the mud.",
+      "habitat_hint": "Muddy-sand bottoms of estuaries, tidal flats and brackish water.",
+      "finding_tips": "On tidal-flat mud look for a small crab with a wide carapace and its burrows; walking the flat surface is a clue."
+    },
+    "zh": {
+      "summary": "アリアケガニ。栖于河口与潮滩砂泥底、掘穴而居的沙蟹科小蟹，甲横宽，行于潮滩表面取食泥中有机物，见于内湾潮滩。",
+      "habitat_hint": "河口、潮滩、半咸水砂泥底。",
+      "finding_tips": "潮滩砂泥底寻找甲横宽的小蟹与巢穴；行于滩面为线索。"
+    }
+  },
+  "Clematis chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese clematis",
+    "aliases": {
+      "zh-Hans": "威灵仙"
+    },
+    "ja": {
+      "summary": "サキシマボタンヅル。南西諸島などの暖地の林縁に生えるキンポウゲ科のつる性木本。羽状複葉をもち、夏〜秋に白い十字形の小花を多数円錐状に咲かせる。中国では根を「威霊仙」として薬用にする。",
+      "habitat_hint": "暖地の林縁、藪、道端の日当たりのよい場所。",
+      "finding_tips": "夏〜秋、藪で羽状複葉のつる植物に白い十字形の小花が多数集まるのを探す。花後の羽毛状の果実が識別点。"
+    },
+    "en": {
+      "summary": "Chinese clematis (Clematis chinensis). A woody climber of the buttercup family on warm-region forest edges; it has pinnate leaves and, in summer–autumn, many small white cross-shaped flowers in panicles. In China its roots are used medicinally.",
+      "habitat_hint": "Warm-region forest edges, thickets and sunny roadsides.",
+      "finding_tips": "In summer–autumn in thickets look for a pinnate-leaved climber with many small white cross-shaped flowers; the feathery fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "サキシマボタンヅル（威灵仙）。生于琉球群岛等暖地林缘的毛茛科藤本，羽状复叶，夏秋开众多白色十字形小花成锥状花序，其根在中国作威灵仙药用。",
+      "habitat_hint": "暖地林缘、灌丛、路边向阳处。",
+      "finding_tips": "夏秋于灌丛寻找羽状复叶藤本上众多白色十字小花；花后羽毛状果为辨识点。"
+    }
+  },
+  "Clematis gouriana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clematis",
+    "aliases": {
+      "zh-Hans": "小蓑衣藤"
+    },
+    "ja": {
+      "summary": "リュウキュウボタンヅル。南西諸島の暖地の林縁に生えるキンポウゲ科のつる性木本。羽状複葉をもち、秋に白い十字形の小花を多数円錐状に咲かせる。花後、羽毛状の花柱をもつ果実をつける。",
+      "habitat_hint": "暖地の林縁、藪、道端の日当たりのよい場所。",
+      "finding_tips": "秋、藪で羽状複葉のつる植物に白い小花が多数集まるのを探す。花後の羽毛状の果実が識別点。"
+    },
+    "en": {
+      "summary": "A clematis (Clematis gouriana), a woody climber of the buttercup family on warm-region forest edges in the Ryukyus; it has pinnate leaves and, in autumn, many small white cross-shaped flowers in panicles, followed by fruit with feathery styles.",
+      "habitat_hint": "Warm-region forest edges, thickets and sunny roadsides.",
+      "finding_tips": "In autumn in thickets look for a pinnate-leaved climber with many small white flowers; the feathery-styled fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "リュウキュウボタンヅル（小蓑衣藤）。生于琉球群岛暖地林缘的毛茛科藤本，羽状复叶，秋开众多白色十字形小花成锥状花序，花后果具羽毛状花柱。",
+      "habitat_hint": "暖地林缘、灌丛、路边向阳处。",
+      "finding_tips": "秋于灌丛寻找羽状复叶藤本上众多白色小花；花后羽毛状果为辨识点。"
+    }
+  },
+  "Clibanarius striolatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Striped hermit crab",
+    "ja": {
+      "summary": "タテジマヨコバサミ。南日本〜インド太平洋の潮間帯の岩礁や砂底に生息するヨコバサミ科のヤドカリ。脚に縦の縞模様があるのが名の由来。巻貝の殻を宿にし、藻類や有機物を食べる。",
+      "habitat_hint": "潮間帯の岩礁、砂底、潮だまり、内湾の浅場。",
+      "finding_tips": "潮だまりで脚に縦縞模様をもつヤドカリを探す。巻貝の殻を背負う姿と縦縞が識別点。"
+    },
+    "en": {
+      "summary": "Striped hermit crab (Clibanarius striolatus). A hermit crab of intertidal reefs and sand from southern Japan through the Indo-Pacific; longitudinal leg stripes give its Japanese name. It lives in snail shells, feeding on algae and detritus.",
+      "habitat_hint": "Intertidal reefs, sand, tide pools and shallow inner bays.",
+      "finding_tips": "In tide pools look for a hermit crab with longitudinally striped legs carrying a snail shell; the stripes are diagnostic."
+    },
+    "zh": {
+      "summary": "タテジマヨコバサミ。分布南日本至印度太平洋潮间带岩礁与砂底的活额寄居蟹科寄居蟹，足具纵条纹（和名之源），居螺壳，食藻类与有机物。",
+      "habitat_hint": "潮间带岩礁、砂底、潮池、内湾浅处。",
+      "finding_tips": "潮池寻找足具纵条纹的寄居蟹；纵纹与背负螺壳为辨识点。"
+    }
+  },
+  "Climacodon septentrionalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Northern tooth",
+    "ja": {
+      "summary": "エゾハリタケ。ブナなど広葉樹の生木や枯木の幹に発生するタマチョレイタケ科のキノコ。半円形の子実体が幹に何段も重なって大きな塊をつくり、下面に多数の針状の突起（歯）を垂らす。材の腐朽を起こす。",
+      "habitat_hint": "ブナなど広葉樹の生木・枯木の幹、高い位置。",
+      "finding_tips": "夏〜秋、広葉樹の幹に半円形の子実体が段状に重なり、下面に針状の歯を垂らすキノコを探す。針状の子実層が識別点。"
+    },
+    "en": {
+      "summary": "Northern tooth (Climacodon septentrionalis). A fungus on the trunks of living and dead broadleaf trees such as beech; semicircular fruit bodies stack in tiers into a large mass, with many spine-like teeth hanging beneath. It rots the wood.",
+      "habitat_hint": "Trunks of living and dead broadleaf trees such as beech, often high up.",
+      "finding_tips": "In summer–autumn on broadleaf trunks look for tiered semicircular brackets with spine-like teeth beneath; the toothed underside is diagnostic."
+    },
+    "zh": {
+      "summary": "エゾハリタケ。发生于山毛榉等阔叶活木与枯木干上的多孔菌科菌，半圆形子实体层叠成大团，下面垂多数针状齿，引起木材腐朽。",
+      "habitat_hint": "山毛榉等阔叶活木与枯木干上，常在高处。",
+      "finding_tips": "夏秋于阔叶树干寻找层叠半圆形、下面垂针状齿之菌；针状子实层为辨识点。"
+    }
+  },
+  "Clinopegma unicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "ヤゲンバイ。北方の冷たい海のやや深い砂泥底に生息するエゾバイ科の巻貝。殻はふくらんだ紡錘形で、螺旋状の彫刻をもつ。肉食性・腐肉食性で、他の貝や動物の死骸を食べる。",
+      "habitat_hint": "北方のやや深い海の砂泥底、大陸棚。",
+      "finding_tips": "北の深めの海底でふくらんだ紡錘形の巻貝を探す。螺旋状の彫刻をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "A whelk (Clinopegma unicum) of deeper muddy-sand bottoms in cold northern seas; the inflated spindle-shaped shell bears spiral sculpture. It is a carnivore and scavenger of shellfish and carrion.",
+      "habitat_hint": "Deeper muddy-sand bottoms and shelf of cold northern seas.",
+      "finding_tips": "On deeper northern seabeds look for an inflated spindle-shaped whelk; the spiral sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "ヤゲンバイ。栖于北方冷水海较深砂泥底的蛾螺科螺，壳膨大纺锤形、具螺旋雕刻，肉食兼腐食贝类与动物尸体。",
+      "habitat_hint": "北方较深海砂泥底、大陆架。",
+      "finding_tips": "北方较深海底寻找膨大纺锤形螺；螺旋雕刻为辨识点。"
+    }
+  },
+  "Codonacanthus pauciflorus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bellflower acanthus",
+    "aliases": {
+      "zh-Hans": "钟花草"
+    },
+    "ja": {
+      "summary": "アリモリソウ。南西諸島などの暖地の林内に生えるキツネノマゴ科の多年草。細い茎に対生の葉をつけ、秋に白い小さな花をまばらに咲かせる。林床の湿った半日陰に生える。",
+      "habitat_hint": "暖地の常緑広葉樹林の林床、林縁、谷沿いの半日陰。",
+      "finding_tips": "秋、暖地の林床で細い茎に白い小さな花をまばらにつける草を探す。対生の葉と少数の花が識別点。"
+    },
+    "en": {
+      "summary": "A bellflower acanthus (Codonacanthus pauciflorus), a perennial of the acanthus family in warm-region forests of the Ryukyus and beyond; slender stems bear opposite leaves and sparse small white flowers in autumn. It grows in damp forest-floor shade.",
+      "habitat_hint": "Warm-region evergreen forest floor, edges and shaded valleys.",
+      "finding_tips": "In autumn on warm-region forest floor look for a slender herb with sparse small white flowers; opposite leaves and few flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "アリモリソウ（钟花草）。生于琉球群岛等暖地林内的爵床科多年生草本，细茎叶对生，秋疏开白色小花，生于林床湿润半阴处。",
+      "habitat_hint": "暖地常绿阔叶林林床、林缘、谷沿半阴处。",
+      "finding_tips": "秋于暖地林床寻找细茎上疏生白色小花之草；对生叶与花少为辨识点。"
+    }
+  },
+  "Colasposoma viridicoeruleum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf beetle",
+    "ja": {
+      "summary": "オキナワイモサルハムシ。南西諸島に分布するハムシ科の甲虫。体は青緑色〜藍色の強い金属光沢をもち、丸みのある体型。サツマイモ（ヒルガオ科）などの葉を食べる。",
+      "habitat_hint": "南西諸島の畑、道端、ヒルガオ科植物の生える場所。",
+      "finding_tips": "サツマイモなどヒルガオ科植物の葉の上で、青緑色に金属光沢をもつ丸い甲虫を探す。強い金属光沢が識別点。"
+    },
+    "en": {
+      "summary": "A leaf beetle (Colasposoma viridicoeruleum) of the Ryukyus; the rounded body has a strong blue-green to blue metallic sheen, and it feeds on the leaves of sweet potato and other bindweed-family plants.",
+      "habitat_hint": "Ryukyu fields, roadsides and bindweed-family plants.",
+      "finding_tips": "On sweet potato and related leaves look for a rounded beetle with a strong blue-green metallic sheen; the metallic gloss is diagnostic."
+    },
+    "zh": {
+      "summary": "オキナワイモサルハムシ。分布琉球群岛的叶甲科甲虫，体青绿至蓝色强金属光泽、体型圆钝，食甘薯等旋花科植物之叶。",
+      "habitat_hint": "琉球群岛农田、路边、生旋花科植物处。",
+      "finding_tips": "甘薯等旋花科叶上寻找青绿金属光泽的圆钝甲虫；强金属光泽为辨识点。"
+    }
+  },
+  "Collaria arcyrionema": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ツヤエリホコリ。朽木や落枝、樹皮の上に群生する非常に小さな変形菌（粘菌）。細く長い柄の先に円筒形の子実体をつけ、群がって発生する。成熟すると褐色の胞子塊になる。ルーペで観察するとよい。",
+      "habitat_hint": "湿った朽木、落枝、倒木の樹皮上。",
+      "finding_tips": "湿った朽木で、細長い柄の先に円筒形の子実体が群がって立つ変形菌を探す（要ルーペ）。群生する細い柄が識別点。"
+    },
+    "en": {
+      "summary": "A very small slime mould (Collaria arcyrionema) fruiting in groups on rotten wood, branches and bark; slender long stalks bear cylindrical fruit bodies that cluster together and mature to a brown spore mass. Best seen with a lens.",
+      "habitat_hint": "Damp rotten wood, fallen branches and bark of logs.",
+      "finding_tips": "On damp dead wood look for clustered cylindrical fruit bodies on slender long stalks (use a lens); the clustered fine stalks are diagnostic."
+    },
+    "zh": {
+      "summary": "ツヤエリホコリ（弧线颈环菌）。群生于朽木、落枝与树皮的极小型黏菌，细长柄顶生圆筒形子实体、成群发生，成熟为褐色孢子团，宜用放大镜观察。",
+      "habitat_hint": "湿润朽木、落枝、倒木树皮上。",
+      "finding_tips": "湿朽木寻找细长柄顶生圆筒形子实体成群之黏菌（需放大镜）；群生细柄为辨识点。"
+    }
+  },
+  "Colletes patellatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plasterer bee",
+    "ja": {
+      "summary": "アシブトムカシハナバチ。地面に巣を掘る単独性のムカシハナバチ科のハナバチ。巣穴の内壁を分泌物でセロハン状に裏打ちする習性をもつ。体は黒っぽく、腹部に淡色の帯がある。秋に活動し、キク科などの花を訪れる。",
+      "habitat_hint": "日当たりのよい草地、土手、林縁、砂地の地面。",
+      "finding_tips": "秋、キク科などの花や地面の巣穴で、腹部に淡色の帯をもつハナバチを探す。地面に単独で巣を掘る点が手がかり。"
+    },
+    "en": {
+      "summary": "A plasterer bee (Colletes patellatus), a solitary bee that digs ground nests and lines the burrow walls with a cellophane-like secretion. The body is blackish with pale abdominal bands, and it is active in autumn, visiting daisy-family flowers.",
+      "habitat_hint": "Sunny grassland, banks, forest edges and sandy ground.",
+      "finding_tips": "In autumn on daisy flowers or at ground burrows look for a bee with pale abdominal bands; solitary ground-nesting is a clue."
+    },
+    "zh": {
+      "summary": "アシブトムカシハナバチ。于地面掘巢的地蜂科独居蜂，以分泌物将巢壁衬成玻璃纸状，体黑、腹具淡色带，秋季活动、访菊科等花。",
+      "habitat_hint": "向阳草地、土坡、林缘、沙质地面。",
+      "finding_tips": "秋于菊科花或地面巢穴寻找腹具淡带之蜂；独居掘地筑巢为线索。"
+    }
+  },
+  "Collita okanoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Footman moth",
+    "ja": {
+      "summary": "ミヤマキベリホソバ。山地の林縁や樹上に見られるヒトリガ科コケガ亜科の蛾。翅は細長く、灰色〜黒っぽい地に翅の縁が黄色く縁取られる。幼虫は樹皮や岩に生える地衣類を食べる。",
+      "habitat_hint": "山地の林縁、雑木林、樹林のある場所。",
+      "finding_tips": "夏の夜、山地で灯火に来る翅の縁が黄色い細長い蛾を探す。翅の縁の黄色い縁取りが識別点。"
+    },
+    "en": {
+      "summary": "A lichen-moth (footman) of montane forest edges and trees; the narrow wings are grey to blackish with yellow-edged margins. The larvae feed on lichens growing on bark and rock.",
+      "habitat_hint": "Montane forest edges, secondary woodland and wooded areas.",
+      "finding_tips": "On summer nights in the mountains look at lights for a narrow moth with yellow-edged wings; the yellow wing margins are diagnostic."
+    },
+    "zh": {
+      "summary": "ミヤマキベリホソバ。见于山地林缘与树上的灯蛾科苔蛾亚科蛾，翅细长、灰至黑地、翅缘镶黄，幼虫食树皮与岩生地衣。",
+      "habitat_hint": "山地林缘、杂木林、有林地处。",
+      "finding_tips": "夏夜于山地灯下寻找翅缘黄色的细长蛾；黄色翅缘为辨识点。"
+    }
+  },
+  "Cololejeunea planissima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "ミヤジマヨウジョウゴケ。暖地の常緑樹の葉の表面や樹皮に着生する非常に小さな葉状のタイ類（クサリゴケ科）。葉上に生える「葉上苔類」の一つで、湿潤な森林環境に依存する。ルーペでないと見つけにくい。",
+      "habitat_hint": "暖地の常緑樹林で、生きた葉の表面や樹皮への着生。",
+      "finding_tips": "暖地の常緑樹の葉の表面で、非常に小さな緑色の葉状のタイ類を探す（要ルーペ）。葉の上に生える点が識別点。"
+    },
+    "en": {
+      "summary": "A tiny leafy liverwort (Cololejeunea planissima) that grows on the surface of living leaves and bark of evergreen trees in warm regions; it is one of the epiphyllous liverworts and depends on humid forest. It is hard to spot without a lens.",
+      "habitat_hint": "On living leaf surfaces and bark in warm-region evergreen forest.",
+      "finding_tips": "On evergreen leaf surfaces look for a tiny green leafy liverwort (use a lens); growing on living leaves is diagnostic."
+    },
+    "zh": {
+      "summary": "ミヤジマヨウジョウゴケ。附生于暖地常绿树活叶表面与树皮的极小型叶状苔类（细鳞苔科），为叶附生苔类之一，依赖湿润森林，需放大镜方易见。",
+      "habitat_hint": "暖地常绿林活叶表面与树皮附生。",
+      "finding_tips": "暖地常绿叶面寻找极小绿色叶状苔类（需放大镜）；生于活叶上为辨识点。"
+    }
+  },
+  "Comarum palustre": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh cinquefoil",
+    "aliases": {
+      "zh-Hans": "沼委陵菜"
+    },
+    "ja": {
+      "summary": "クロバナロウゲ。高層湿原や湿地に生えるバラ科の多年草。羽状複葉をもち、夏に暗紅色（黒紫色）の星形の花を咲かせる。花色が暗いのが特徴で、寒冷地や高地の湿原に分布する。",
+      "habitat_hint": "高層湿原、湿地、池畔の湿った草地。",
+      "finding_tips": "夏、湿原で羽状複葉と暗紅色の星形の花をもつ草を探す。黒っぽい花色が識別点。"
+    },
+    "en": {
+      "summary": "Marsh cinquefoil (Comarum palustre). A perennial of the rose family in raised bogs and wetlands; it has pinnate leaves and dark-red (blackish-purple) star-shaped flowers in summer. Its dark flower colour is distinctive, and it grows in cold and highland bogs.",
+      "habitat_hint": "Raised bogs, wetlands and damp pondside grassland.",
+      "finding_tips": "In summer in bogs look for a plant with pinnate leaves and dark-red star-shaped flowers; the dark bloom colour is diagnostic."
+    },
+    "zh": {
+      "summary": "クロバナロウゲ（沼委陵菜）。生于高位沼泽与湿地的蔷薇科多年生草本，羽状复叶，夏开暗红（黑紫）色星形花，花色暗为特征，分布寒地与高地沼泽。",
+      "habitat_hint": "高位沼泽、湿地、池畔湿草地。",
+      "finding_tips": "夏于沼泽寻找羽状复叶与暗红星形花之草；暗色花为辨识点。"
+    }
+  },
+  "Conus frigidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone snail",
+    "ja": {
+      "summary": "フクラキヌカツギイモ。南日本〜インド太平洋の浅いサンゴ礁・岩礁に生息するイモガイ科の巻貝。殻は円錐形で黄褐色。他のイモガイ類と同様、毒のある歯舌で獲物を刺すため、素手で扱うのは危険。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、砂底、礁池。",
+      "finding_tips": "サンゴ礁で黄褐色の円錐形の巻貝を探す。毒をもつため、生きた個体を素手で持たないこと。"
+    },
+    "en": {
+      "summary": "A cone snail (Conus frigidus) of shallow coral and rocky reefs from southern Japan through the Indo-Pacific; the conical shell is yellow-brown. Like other cones it stings prey with a venomous radular tooth, so it is dangerous to handle bare-handed.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs, sand and lagoons.",
+      "finding_tips": "On reefs look for a yellow-brown conical snail; it is venomous, so never hold a live one bare-handed."
+    },
+    "zh": {
+      "summary": "フクラキヌカツギイモ。分布南日本至印度太平洋浅珊瑚礁与岩礁的芋螺科螺，壳圆锥形、黄褐色。与他种芋螺同以毒齿舌刺猎物，徒手处理危险。",
+      "habitat_hint": "浅珊瑚礁、岩礁、砂底、礁池。",
+      "finding_tips": "珊瑚礁寻找黄褐圆锥形螺；有毒，勿徒手持活体。"
+    }
+  },
+  "Conus geographus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geography cone",
+    "aliases": {
+      "zh-Hans": "地纹芋螺"
+    },
+    "ja": {
+      "summary": "アンボイナ。南日本〜インド太平洋の浅いサンゴ礁に生息するイモガイ科の大型の巻貝。殻には地図のような網目模様がある。魚を捕食し、毒のある銛状の歯舌で刺す。その毒は非常に強力で、人が刺されると死に至ることもある最も危険な貝の一つ。絶対に素手で触らないこと。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、砂底、礁池。",
+      "finding_tips": "サンゴ礁で地図状の網目模様をもつ大きな円錐形の巻貝を見たら、絶対に手を触れないこと。猛毒で命に関わる。"
+    },
+    "en": {
+      "summary": "Geography cone (Conus geographus). A large cone snail of shallow coral reefs from southern Japan through the Indo-Pacific; the shell bears a map-like network pattern. It preys on fish, stinging with a harpoon-like venomous tooth. Its venom is extremely potent and human stings can be fatal — one of the most dangerous shells. Never touch it bare-handed.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs, sand and lagoons.",
+      "finding_tips": "On coral reefs, if you see a large conical shell with a map-like net pattern, never touch it — its venom can kill."
+    },
+    "zh": {
+      "summary": "アンボイナ（地纹芋螺）。分布南日本至印度太平洋浅珊瑚礁的芋螺科大型螺，壳具地图状网纹。捕食鱼类，以鱼叉状毒齿舌刺击，毒性极强、人被刺可致死，为最危险贝类之一。切勿徒手触碰。",
+      "habitat_hint": "浅珊瑚礁、岩礁、砂底、礁池。",
+      "finding_tips": "珊瑚礁见具地图状网纹的大圆锥螺，切勿触碰；剧毒可致命。"
+    }
+  },
+  "Conus miliaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サヤガタイモガイ。南日本〜インド太平洋の浅いサンゴ礁・岩礁に生息するイモガイ科の小さな巻貝。殻は円錐形で、白っぽい地に細かい模様がある。毒のある歯舌で獲物を刺すため、素手で扱うのは危険。",
+      "habitat_hint": "浅いサンゴ礁、岩礁、砂底、礁池。",
+      "finding_tips": "サンゴ礁で白っぽい円錐形の小さな巻貝を探す。毒をもつため、生きた個体を素手で持たないこと。"
+    },
+    "en": {
+      "summary": "A cone snail (Conus miliaris) of shallow coral and rocky reefs from southern Japan through the Indo-Pacific; the small conical shell is whitish with fine patterning. It stings prey with a venomous tooth, so handling it bare-handed is dangerous.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs, sand and lagoons.",
+      "finding_tips": "On reefs look for a small whitish conical snail; it is venomous, so never hold a live one bare-handed."
+    },
+    "zh": {
+      "summary": "サヤガタイモガイ（百万芋螺）。分布南日本至印度太平洋浅珊瑚礁与岩礁的芋螺科小螺，壳圆锥形、白底具细纹，以毒齿舌刺猎物，徒手处理危险。",
+      "habitat_hint": "浅珊瑚礁、岩礁、砂底、礁池。",
+      "finding_tips": "珊瑚礁寻找白色圆锥形小螺；有毒，勿徒手持活体。"
+    }
   }
 }
