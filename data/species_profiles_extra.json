@@ -271173,5 +271173,539 @@
       "habitat_hint": "湿地、水边、休耕田、河滩湿处。",
       "finding_tips": "夏秋于水边寻找三棱秆顶散生褐色小穗的高草；长地下茎群生为线索。"
     }
+  },
+  "Cyphodemidea saundersi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plant bug",
+    "ja": {
+      "summary": "マダラカスミカメ。草地や樹上に見られるカスミカメムシ科の小さなカメムシ。体は褐色でまだら模様があり、細長い触角と脚をもつ。植物の汁を吸い、時に小さな虫も捕食する。",
+      "habitat_hint": "草地、林縁、樹上、河川敷の草むら。",
+      "finding_tips": "初夏〜夏、草や葉の上で褐色のまだら模様をもつ細長い小さなカメムシを探す。長い触角が識別点。"
+    },
+    "en": {
+      "summary": "A plant bug (Cyphodemidea saundersi) of grassland and foliage; the brown body is mottled, with long antennae and legs. It sucks plant sap and sometimes preys on small insects.",
+      "habitat_hint": "Grassland, forest edges, foliage and riverside vegetation.",
+      "finding_tips": "In early summer on foliage look for a slender mottled brown bug; the long antennae are diagnostic."
+    },
+    "zh": {
+      "summary": "マダラカスミカメ（萨氏拟草盲蝽）。见于草地与树上的盲蝽科小蝽，体褐具斑驳、触角与足细长，吸食植物汁液、有时捕食小虫。",
+      "habitat_hint": "草地、林缘、树上、河滩草丛。",
+      "finding_tips": "初夏至夏于草叶上寻找褐色斑驳细长小蝽；长触角为辨识点。"
+    }
+  },
+  "Cyrtococcum patens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメチゴザサ。暖地の林縁や湿った半日陰に生えるイネ科の一年草。細い茎を這わせて広がり、幅の広い短い葉をつける。小さな小穂を散開状の花序につける。やわらかい草質。",
+      "habitat_hint": "暖地の林縁、湿った半日陰、道端、畑の周辺。",
+      "finding_tips": "夏〜秋、湿った半日陰で幅の広い短い葉を這わせるやわらかいイネ科の草を探す。散開する小さな花序が識別点。"
+    },
+    "en": {
+      "summary": "A soft annual grass (Cyrtococcum patens) of warm-region forest edges and damp shade; it creeps with slender stems bearing short broad leaves and carries small spikelets in an open panicle.",
+      "habitat_hint": "Warm-region forest edges, damp shade, roadsides and field margins.",
+      "finding_tips": "In summer–autumn in damp shade look for a soft grass creeping with short broad leaves; the open little panicle is diagnostic."
+    },
+    "zh": {
+      "summary": "ヒメチゴザサ（弓果黍）。生于暖地林缘与湿润半阴的禾本科一年生草本，细茎匍匐、叶短而宽，小穗生于开展花序，草质柔软。",
+      "habitat_hint": "暖地林缘、湿润半阴、路边、田边。",
+      "finding_tips": "夏秋于湿润半阴寻找短宽叶匍匐的柔软禾草；开展小花序为辨识点。"
+    }
+  },
+  "Daedalea dickinsii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maze bracket",
+    "ja": {
+      "summary": "ホウロクタケ。広葉樹の枯れ木や倒木に発生するタマチョレイタケ科のかたい多年生のキノコ。半円形の子実体は灰褐色で、下面の管孔が迷路状に長く伸びる（迷宮状孔）のが特徴。材の褐色腐朽を起こす。",
+      "habitat_hint": "広葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "枯れた広葉樹の材で、半円形の灰褐色のかたいキノコを探す。下面の迷路状に伸びる孔が識別点。"
+    },
+    "en": {
+      "summary": "A maze bracket fungus (Daedalea dickinsii) on dead broadleaf wood; the tough perennial semicircular fruit body is grey-brown with maze-like elongated pores beneath. It causes brown rot of the wood.",
+      "habitat_hint": "Dead broadleaf wood, fallen logs and stumps.",
+      "finding_tips": "On dead broadleaf wood look for a tough grey-brown semicircular bracket; the maze-like pores beneath are diagnostic."
+    },
+    "zh": {
+      "summary": "ホウロクタケ。发生于阔叶枯木与倒木的多孔菌科坚硬多年生菌，半圆形子实体灰褐、下面孔口迷宫状延长，引起木材褐色腐朽。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "阔叶枯木上寻找半圆形灰褐硬菌；下面迷宫状孔为辨识点。"
+    }
+  },
+  "Damnacanthus giganteus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rubiaceae shrub",
+    "ja": {
+      "summary": "ナガバジュズネノキ。暖地の常緑樹林の林内に生えるアカネ科の常緑低木。ジュズネノキ（アリドオシ）の仲間で、細長い革質の葉を対生する。白い小花のあと赤い小さな果実をつける。数珠状にふくらむ根が名の由来。",
+      "habitat_hint": "暖地の常緑広葉樹林の林内、林縁、谷沿い。",
+      "finding_tips": "林内で細長い革質の対生葉と、赤い小さな果実をもつ低木を探す。葉が細長い点がアリドオシとの違い。"
+    },
+    "en": {
+      "summary": "An evergreen shrub of the madder family (Damnacanthus giganteus) in warm-region evergreen forests; related to the beaded-root shrub, it has long leathery opposite leaves, small white flowers and small red fruit. Its bead-swollen roots give the group its Japanese name.",
+      "habitat_hint": "Warm-region evergreen forest interiors, edges and valleys.",
+      "finding_tips": "In forest look for a shrub with long leathery opposite leaves and small red fruit; the elongate leaves distinguish it from its relatives."
+    },
+    "zh": {
+      "summary": "ナガバジュズネノキ。生于暖地常绿林内的茜草科常绿灌木，为虎刺近亲，叶细长革质对生，白色小花后结红色小果，根念珠状膨大而得类群和名。",
+      "habitat_hint": "暖地常绿阔叶林林内、林缘、谷沿。",
+      "finding_tips": "林内寻找细长革质对生叶与红色小果之灌木；叶细长以别虎刺。"
+    }
+  },
+  "Dasiphora fruticosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shrubby cinquefoil",
+    "aliases": {
+      "zh-Hans": "银露梅"
+    },
+    "ja": {
+      "summary": "ギンロバイ（ハクロバイ）。高山や寒冷地の岩場・草地に生えるバラ科の落葉小低木。羽状複葉をもち、夏に白い五弁の花を咲かせる。黄花のキンロバイに対し、白花のものをギンロバイ（ハクロバイ）と呼ぶ。",
+      "habitat_hint": "高山・亜高山の岩場、草地、寒冷地の礫地。",
+      "finding_tips": "夏、高山の岩場で羽状複葉と白い五弁花をもつ小低木を探す。白い花が識別点（黄花のキンロバイと区別）。"
+    },
+    "en": {
+      "summary": "Shrubby cinquefoil (Dasiphora fruticosa), white-flowered form. A deciduous low shrub of the rose family on alpine and cold-region rocks and grassland; it has pinnate leaves and five-petalled summer flowers. This white-flowered form is distinguished from the yellow-flowered type.",
+      "habitat_hint": "Alpine and subalpine rocks, grassland and cold gravel.",
+      "finding_tips": "In summer on alpine rock look for a low shrub with pinnate leaves and white five-petalled flowers; the white flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "ギンロバイ（银露梅）。生于高山与寒地岩场草地的蔷薇科落叶小灌木，羽状复叶，夏开白色五瓣花，与黄花的金露梅相对、白花者称银露梅。",
+      "habitat_hint": "高山、亚高山岩场、草地、寒地砾地。",
+      "finding_tips": "夏于高山岩场寻找羽状复叶与白色五瓣花之小灌；白花为辨识点（别于黄花金露梅）。"
+    }
+  },
+  "Deiratonotus cristatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mud crab",
+    "ja": {
+      "summary": "アリアケモドキ。河口や干潟の砂泥底に穴を掘って生活するムツハアリアケガニ科の小さなカニ。甲は横長で、干潟の泥の中の有機物を食べる。汽水域の泥干潟に依存する。",
+      "habitat_hint": "河口、干潟、汽水域の砂泥底。",
+      "finding_tips": "干潟の砂泥底で、横長の甲をもつ小さなカニと巣穴を探す。泥干潟に生息する点が手がかり。"
+    },
+    "en": {
+      "summary": "A small mud crab (Deiratonotus cristatum) that burrows in muddy-sand bottoms of estuaries and tidal flats; the carapace is wider than long, and it feeds on organic matter in the mud, depending on brackish mudflats.",
+      "habitat_hint": "Muddy-sand bottoms of estuaries, tidal flats and brackish water.",
+      "finding_tips": "On tidal-flat mud look for a small crab with a wide carapace and its burrows; mudflat habitat is a clue."
+    },
+    "zh": {
+      "summary": "アリアケモドキ。栖于河口与潮滩砂泥底、掘穴而居的六足蟹科小蟹，甲横宽，取食泥中有机物，依赖半咸水泥滩。",
+      "habitat_hint": "河口、潮滩、半咸水砂泥底。",
+      "finding_tips": "潮滩砂泥底寻找甲横宽的小蟹与巢穴；泥滩栖息为线索。"
+    }
+  },
+  "Dendriscosticta wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen",
+    "ja": {
+      "summary": "アツバヨロイゴケ。山地の樹幹や岩上に生える大型の葉状地衣。葉体は厚く革質で灰緑色〜褐色を帯び、裏面に毛状の構造をもつ。清浄な老齢林の指標となる大型地衣。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩上、老齢林。",
+      "finding_tips": "湿潤な山地林で、樹幹や岩上に張りつく厚く大型の葉状地衣を探す。厚い革質の葉体が識別点。"
+    },
+    "en": {
+      "summary": "A large foliose lichen (Dendriscosticta wrightii) on montane tree trunks and rocks; the thick leathery lobes are grey-green to brownish with hairy structures beneath. It is a large lichen indicating clean old-growth forest.",
+      "habitat_hint": "Moist montane tree trunks, mossy rocks and old-growth forest.",
+      "finding_tips": "In humid montane forest look for a thick large leafy lichen on trunks and rock; the thick leathery lobes are diagnostic."
+    },
+    "zh": {
+      "summary": "アツバヨロイゴケ。生于山地树干与岩面的大型叶状地衣，裂片厚革质、灰绿至褐、背面具毛状结构，为洁净老龄林的指示大型地衣。",
+      "habitat_hint": "山地湿润树干、苔藓岩面、老龄林。",
+      "finding_tips": "湿润山地林中寻找附于树干岩面的厚大叶状地衣；厚革质裂片为辨识点。"
+    }
+  },
+  "Dendroleon pupillaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Antlion",
+    "ja": {
+      "summary": "マダラウスバカゲロウ。林縁や樹林に見られるウスバカゲロウ科の昆虫。成虫はトンボに似た細長い体と網目状の翅をもち、翅にまだら模様がある。幼虫は樹洞の乾いた粉の中などにすみ、小さな虫を捕らえる（すり鉢状の巣は作らない種もある）。",
+      "habitat_hint": "林縁、雑木林、樹洞のある樹林、乾いた土のある場所。",
+      "finding_tips": "夏の夜、灯火に来る細長い体と網目状のまだら模様の翅をもつ昆虫を探す。まだら模様の翅が識別点。"
+    },
+    "en": {
+      "summary": "An antlion (Dendroleon pupillaris) of forest edges and woodland; the adult has a slender dragonfly-like body and net-veined wings with mottled markings. The larva lives in dry debris such as tree hollows and catches small insects.",
+      "habitat_hint": "Forest edges, woodland, tree-hollow groves and dry soil.",
+      "finding_tips": "On summer nights look at lights for a slender insect with net-veined mottled wings; the mottled wings are diagnostic."
+    },
+    "zh": {
+      "summary": "マダラウスバカゲロウ。见于林缘与林地的蚁蛉科昆虫，成虫体细长似蜻蜓、翅网状具斑驳，幼虫居树洞干粉等处捕食小虫。",
+      "habitat_hint": "林缘、杂木林、有树洞的林地、干土处。",
+      "finding_tips": "夏夜灯下寻找体细长、翅网状斑驳的昆虫；斑驳翅为辨识点。"
+    }
+  },
+  "Dentalium buccinulum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tusk shell",
+    "ja": {
+      "summary": "ヒメナガツノガイ。沿岸のやや深い砂泥底に生息するツノガイ類（掘足類）の軟体動物。殻は象牙のように緩く湾曲した細長い管状で、両端が開く。砂泥中に頭を下にして潜り、有孔虫などの微小な生物を食べる。",
+      "habitat_hint": "沿岸のやや深い砂泥底、大陸棚。",
+      "finding_tips": "砂泥底で、象牙状に湾曲した細長い管状の殻を探す。両端が開く角のような殻形が識別点。"
+    },
+    "en": {
+      "summary": "A tusk shell (Dentalium buccinulum), a scaphopod mollusc of deeper coastal muddy-sand bottoms; the shell is a slender gently curved tube open at both ends, like a tiny tusk. It burrows head-down in sediment, feeding on foraminifera and other microorganisms.",
+      "habitat_hint": "Deeper coastal muddy-sand bottoms and the shelf.",
+      "finding_tips": "On muddy sand look for a slender gently curved tubular shell open at both ends; the tusk shape is diagnostic."
+    },
+    "zh": {
+      "summary": "ヒメナガツノガイ。栖于沿岸较深砂泥底的角贝类（掘足类）软体动物，壳如象牙般微弯细长管状、两端开口，头向下潜于泥中，取食有孔虫等微小生物。",
+      "habitat_hint": "沿岸较深砂泥底、大陆架。",
+      "finding_tips": "砂泥底寻找象牙状微弯细长管壳；两端开口的角状壳为辨识点。"
+    }
+  },
+  "Depressaria taciturna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat-body moth",
+    "ja": {
+      "summary": "マエジロマルハキバガ。林縁や草地に見られるマルハキバガ科の小さな蛾。体は細長く扁平で、静止時に平たく翅をたたむ。前翅の前方が白っぽいのが名の由来。幼虫はセリ科などの植物の葉を綴って食べる。",
+      "habitat_hint": "林縁、草地、河川敷、セリ科植物の生える場所。",
+      "finding_tips": "夜、灯火に来る細長く扁平な小さな蛾を探す。前翅前方の白っぽい部分が識別点。"
+    },
+    "en": {
+      "summary": "A flat-body moth (Depressaria taciturna) of forest edges and grassland; the body is long and flattened, folding its wings flat at rest. The pale front of the forewing gives its Japanese name, and the larvae feed within tied leaves of carrot-family plants.",
+      "habitat_hint": "Forest edges, grassland, riverbanks and carrot-family plants.",
+      "finding_tips": "At night at lights look for a long flat small moth; the pale forewing front is diagnostic."
+    },
+    "zh": {
+      "summary": "マエジロマルハキバガ。见于林缘与草地的平蛾科小蛾，体细长扁平、静止时翅平折，前翅前部发白（和名之源），幼虫缀伞形科等叶取食。",
+      "habitat_hint": "林缘、草地、河滩、生伞形科植物处。",
+      "finding_tips": "夜于灯下寻找细长扁平的小蛾；前翅前部发白为辨识点。"
+    }
+  },
+  "Dermatobranchus primus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nudibranch",
+    "ja": {
+      "summary": "カメキオトメウミウシ。浅い岩礁やサンゴ礁の砂底に生息するタテジマウミウシ類（アルミナ類）のウミウシ。体表に縦の隆起線が走り、白っぽい地に色帯をもつ。ウミトサカなどの軟サンゴを食べる。",
+      "habitat_hint": "浅い岩礁、サンゴ礁の砂底、軟サンゴの生える場所。",
+      "finding_tips": "サンゴ礁の砂底で、体表に縦の隆起線をもつウミウシを探す。軟サンゴの近くが手がかり。"
+    },
+    "en": {
+      "summary": "An arminid nudibranch (Dermatobranchus primus) of sandy bottoms on shallow rocky and coral reefs; the surface bears longitudinal ridges on a whitish ground with colour bands, and it feeds on soft corals.",
+      "habitat_hint": "Sandy bottoms of shallow rocky and coral reefs, near soft corals.",
+      "finding_tips": "On reef sand look for a nudibranch with longitudinal ridges; proximity to soft corals is a clue."
+    },
+    "zh": {
+      "summary": "カメキオトメウミウシ。栖于浅岩礁与珊瑚礁砂底的多线海牛类海牛，体表具纵脊、白底具色带，取食软珊瑚。",
+      "habitat_hint": "浅岩礁、珊瑚礁砂底、生软珊瑚处。",
+      "finding_tips": "珊瑚礁砂底寻找体具纵脊之海牛；近软珊瑚为线索。"
+    }
+  },
+  "Derops longicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove beetle",
+    "ja": {
+      "summary": "ヒゲナガホソミズギワハネカクシ。渓流や水辺の湿った砂礫地に生息するハネカクシ科の細長い小さな甲虫。触角が長いのが名の由来。上翅が短く腹部が露出する。水際を素早く歩き回る。",
+      "habitat_hint": "渓流沿い、河原、水辺の湿った砂礫地。",
+      "finding_tips": "水辺の湿った砂礫地で、触角の長い細長い小さな甲虫を探す。長い触角と露出する腹部が識別点。"
+    },
+    "en": {
+      "summary": "A slender small rove beetle (Derops longicornis) of damp gravel by streams and watersides; its long antennae give the Japanese name, and the short elytra leave the abdomen exposed. It runs quickly along the water's edge.",
+      "habitat_hint": "Streamsides, riverbanks and damp waterside gravel.",
+      "finding_tips": "On damp waterside gravel look for a slender small beetle with long antennae; the long antennae and exposed abdomen are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒゲナガホソミズギワハネカクシ。栖于溪流与水边湿润砂砾地的隐翅虫科细长小甲虫，触角长（和名之源），鞘翅短、腹外露，于水际疾走。",
+      "habitat_hint": "溪流沿、河滩、水边湿润砂砾地。",
+      "finding_tips": "水边砂砾地寻找触角长的细长小甲虫；长触角与外露腹部为辨识点。"
+    }
+  },
+  "Derris trifoliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common derris",
+    "aliases": {
+      "zh-Hans": "鱼藤"
+    },
+    "ja": {
+      "summary": "シイノキカズラ。南西諸島などの海岸やマングローブ周辺に生えるマメ科のつる性木本。羽状複葉をもち、淡紅色〜白色の蝶形花を総状に咲かせる。根や茎にロテノンを含み、かつて魚毒漁に用いられた。",
+      "habitat_hint": "暖地の海岸林、マングローブ周辺、河口近くの藪。",
+      "finding_tips": "海岸近くの藪で羽状複葉のつる植物と淡紅色の蝶形花を探す。マングローブ周辺に絡む点が手がかり。有毒（ロテノン）。"
+    },
+    "en": {
+      "summary": "Common derris (Derris trifoliata). A woody climbing legume of coasts and mangrove margins in the Ryukyus and beyond; it has pinnate leaves and racemes of pale pink to white pea flowers. Its roots and stems contain rotenone and were once used as a fish poison.",
+      "habitat_hint": "Warm-region coastal woods, mangrove margins and estuary thickets.",
+      "finding_tips": "Near coasts look for a pinnate-leaved climber with pale-pink pea flowers scrambling around mangroves; it is toxic (rotenone)."
+    },
+    "zh": {
+      "summary": "シイノキカズラ（鱼藤）。生于琉球群岛等海岸与红树林周边的豆科藤本，羽状复叶，总状开淡红至白色蝶形花，根茎含鱼藤酮、昔用于毒鱼捕捞。",
+      "habitat_hint": "暖地海岸林、红树林周边、河口附近灌丛。",
+      "finding_tips": "近海灌丛寻找羽状复叶藤本与淡红蝶形花；缠绕红树林周边为线索；有毒（鱼藤酮）。"
+    }
+  },
+  "Dibaeis arcuata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lichen",
+    "ja": {
+      "summary": "センニンゴケ。林縁や土手、崖の土上に生える地衣の一種。灰白色の地衣体の上に、細い柄の先に小さな球形〜こん棒状の子器（アポテキウム）を立ち上げる。日当たりのやや悪い土上に群生する。",
+      "habitat_hint": "林縁、土手、崖の土上、道端の裸地。",
+      "finding_tips": "土手や崖の土上で、灰白色の地衣体から細い柄の先に小さな球状の子器を立ち上げる地衣を探す。柄の先の球状子器が識別点。"
+    },
+    "en": {
+      "summary": "A lichen (Dibaeis arcuata) of forest edges, banks and soil on cliffs; from a grey-white thallus it raises slender stalks tipped with small spherical to club-shaped fruiting bodies (apothecia). It grows on shaded soil.",
+      "habitat_hint": "Forest edges, banks, cliff soil and bare roadside ground.",
+      "finding_tips": "On bank or cliff soil look for a grey-white lichen raising slender stalks with small spherical fruiting heads; the stalked heads are diagnostic."
+    },
+    "zh": {
+      "summary": "センニンゴケ。生于林缘、土坡与崖土的地衣，灰白色地衣体上以细柄顶生小球至棒状子器（子囊盘），群生于较阴土面。",
+      "habitat_hint": "林缘、土坡、崖土、路边裸地。",
+      "finding_tips": "土坡与崖土寻找灰白地衣体上细柄顶生小球状子器之地衣；柄顶球状子器为辨识点。"
+    }
+  },
+  "Dichanthelium lanuginosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニコゲヌカキビ。北アメリカ原産で道端や芝地に帰化したイネ科の多年草。茎や葉に軟らかい毛が生えるのが名の由来。細かい枝分かれの広がる円錐花序に小さな小穂をつける。",
+      "habitat_hint": "道端、芝地、空き地、河川敷などの日当たりのよい場所。",
+      "finding_tips": "初夏、道端で茎や葉に軟毛が生え、細かく広がる円錐花序をもつ草を探す。軟らかい毛が識別点。"
+    },
+    "en": {
+      "summary": "Woolly panicgrass (Dichanthelium lanuginosum). A perennial grass native to North America, naturalised on roadsides and turf; soft hairs on the stems and leaves give its Japanese name, and it bears small spikelets in a finely branched spreading panicle.",
+      "habitat_hint": "Roadsides, turf, waste ground and sunny riverbanks.",
+      "finding_tips": "In early summer on roadsides look for a grass with soft-hairy stems and leaves and a finely branched panicle; the soft hairs are diagnostic."
+    },
+    "zh": {
+      "summary": "ニコゲヌカキビ。原产北美、逸生于路边草坪的禾本科多年生草本，茎叶被软毛（和名之源），小穗生于细分枝开展的圆锥花序。",
+      "habitat_hint": "路边、草坪、空地、河滩等向阳处。",
+      "finding_tips": "初夏于路边寻找茎叶被软毛、圆锥花序细展的草；软毛为辨识点。"
+    }
+  },
+  "Dicliptera chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese dicliptera",
+    "aliases": {
+      "zh-Hans": "狗肝菜"
+    },
+    "ja": {
+      "summary": "ヤンバルハグロソウ。南西諸島などの暖地の林縁や道端に生えるキツネノマゴ科の一年草〜多年草。対生の葉をつけ、紅紫色の唇形の小花を苞に包まれて咲かせる。湿ったやや日陰の場所に生える。中国では薬草として利用される。",
+      "habitat_hint": "暖地の林縁、道端、畑の周辺、湿った半日陰。",
+      "finding_tips": "夏〜秋、暖地の道端で対生の葉と、苞に包まれた紅紫色の唇形花をもつ草を探す。苞に包まれる花が識別点。"
+    },
+    "en": {
+      "summary": "Chinese dicliptera (Dicliptera chinensis). An annual to perennial of the acanthus family on warm-region forest edges and roadsides; it has opposite leaves and small pink-purple lipped flowers enclosed in bracts. It grows in damp part-shade and is used medicinally in China.",
+      "habitat_hint": "Warm-region forest edges, roadsides, field margins and damp shade.",
+      "finding_tips": "In summer–autumn on warm-region roadsides look for opposite leaves and pink-purple lipped flowers in bracts; the bract-enclosed flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "ヤンバルハグロソウ（狗肝菜）。生于琉球群岛等暖地林缘与路边的爵床科一至多年生草本，叶对生，紫红唇形小花包于苞片内，生于湿润半阴，中国作药用。",
+      "habitat_hint": "暖地林缘、路边、田边、湿润半阴处。",
+      "finding_tips": "夏秋于暖地路边寻找对生叶与包于苞片的紫红唇形花；苞包花为辨识点。"
+    }
+  },
+  "Diderma hemisphaericum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ナバホネホコリ。落葉や朽木、生きた植物の上に群生する小さな変形菌（粘菌）。子実体は白い半球形で、石灰質の殻をもち、地際にへばりつくようにつく。成熟すると割れて胞子を出す。",
+      "habitat_hint": "湿った落葉、朽木、腐植、生きた下草の上。",
+      "finding_tips": "湿った落葉や朽木で、白い半球形の小さな子実体が群がってつくのを探す。石灰質の白い殻が識別点。"
+    },
+    "en": {
+      "summary": "A small slime mould (Diderma hemisphaericum) fruiting in groups on litter, rotten wood and living plants; the fruit body is a white hemisphere with a limy shell, hugging the surface. It splits open on maturing to release spores.",
+      "habitat_hint": "Damp leaf litter, rotten wood, humus and living undergrowth.",
+      "finding_tips": "On damp litter and wood look for small white hemispherical fruit bodies in groups; the limy white shell is diagnostic."
+    },
+    "zh": {
+      "summary": "ナバホネホコリ（半圆双皮菌）。群生于落叶、朽木与活植物上的小型黏菌，子实体白色半球形、具石灰质壳、贴附表面，成熟裂开释放孢子。",
+      "habitat_hint": "湿润落叶、朽木、腐殖、活的下层植物上。",
+      "finding_tips": "湿落叶与朽木上寻找白色半球形小子实体成群；石灰质白壳为辨识点。"
+    }
+  },
+  "Diderma testaceum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "マンジュウホネホコリ。落葉や朽木、腐植の上に群生する小さな変形菌（粘菌）。子実体は饅頭のように丸くふくらみ、淡褐色の石灰質の殻をもつ。成熟すると殻が割れて暗色の胞子塊が現れる。",
+      "habitat_hint": "湿った落葉、朽木、腐植の上。",
+      "finding_tips": "湿った落葉や朽木で、饅頭のように丸くふくらんだ淡褐色の小さな子実体を探す。丸い殻が識別点。"
+    },
+    "en": {
+      "summary": "A small slime mould (Diderma testaceum) fruiting in groups on litter, rotten wood and humus; the fruit body is rounded and bun-like with a pale-brown limy shell, splitting to reveal a dark spore mass on maturing.",
+      "habitat_hint": "Damp leaf litter, rotten wood and humus.",
+      "finding_tips": "On damp litter and wood look for small rounded bun-like pale-brown fruit bodies; the rounded shell is diagnostic."
+    },
+    "zh": {
+      "summary": "マンジュウホネホコリ。群生于落叶、朽木与腐殖上的小型黏菌，子实体圆膨如馒头、具淡褐石灰质壳，成熟裂开露暗色孢子团。",
+      "habitat_hint": "湿润落叶、朽木、腐殖上。",
+      "finding_tips": "湿落叶与朽木上寻找圆膨如馒头的淡褐小子实体；圆壳为辨识点。"
+    }
+  },
+  "Didymium flexuosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "クネリカタホコリ。落葉や朽木、腐植の上に群生する小さな変形菌（粘菌）。柄の上に細長く曲がりくねった子実体をつけるのが名の由来。表面は石灰の結晶で白っぽく覆われる。成熟すると胞子を出す。",
+      "habitat_hint": "湿った落葉、朽木、腐植、下草の上。",
+      "finding_tips": "湿った落葉や朽木で、細長く曲がりくねった白っぽい子実体をつける変形菌を探す（要ルーペ）。曲がる形が識別点。"
+    },
+    "en": {
+      "summary": "A small slime mould (Didymium flexuosum) fruiting in groups on litter, rotten wood and humus; a stalk bears an elongate, winding fruit body, the source of its Japanese name, whitened by lime crystals on the surface.",
+      "habitat_hint": "Damp leaf litter, rotten wood, humus and undergrowth.",
+      "finding_tips": "On damp litter and wood look for a slime mould with an elongate winding whitish fruit body (use a lens); the winding form is diagnostic."
+    },
+    "zh": {
+      "summary": "クネリカタホコリ（弯曲钙皮菌）。群生于落叶、朽木与腐殖上的小型黏菌，柄上生细长弯曲的子实体（和名之源），表面被石灰结晶而发白，成熟释放孢子。",
+      "habitat_hint": "湿润落叶、朽木、腐殖、下层植物上。",
+      "finding_tips": "湿落叶与朽木上寻找细长弯曲发白之子实体（需放大镜）；弯曲形为辨识点。"
+    }
+  },
+  "Dimorphopterus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニッポンコバネナガカメムシ。ススキやヨシなどイネ科の大型草本の株元に生息するナガカメムシ科のカメムシ。体は細長く黒っぽく、翅が短い（小翅型）個体が多い。イネ科植物の茎や葉の汁を吸う。",
+      "habitat_hint": "ススキ・ヨシなどイネ科草本の茂る草地、河川敷、湿地。",
+      "finding_tips": "ススキやヨシの株元をかき分けて、細長く黒っぽい翅の短いカメムシを探す。イネ科草本の根際が手がかり。"
+    },
+    "en": {
+      "summary": "A seed bug (Dimorphopterus japonicus) living at the base of tall grasses such as miscanthus and reeds; the body is slender and blackish, often short-winged. It sucks sap from the stems and leaves of grasses.",
+      "habitat_hint": "Grassland, riverbanks and wetlands with miscanthus and reeds.",
+      "finding_tips": "Part the base of miscanthus and reeds to find a slender blackish short-winged bug; the grass-base habitat is a clue."
+    },
+    "zh": {
+      "summary": "ニッポンコバネナガカメムシ（高粱狭长蝽）。栖于芒、芦苇等高大禾本科草本株基的长蝽科蝽，体细长而黑、多短翅型，吸食禾本科茎叶汁液。",
+      "habitat_hint": "生芒、芦苇等禾本科草本的草地、河滩、湿地。",
+      "finding_tips": "拨开芒与芦苇株基寻找细长黑色短翅之蝽；禾本科根际为线索。"
+    }
+  },
+  "Dioryctria abietella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Conifer cone moth",
+    "ja": {
+      "summary": "マツノマダラメイガ。マツやモミなど針葉樹林に見られるメイガ科の蛾。前翅は灰色に赤褐色や白の斑が入る。幼虫は針葉樹の球果（まつぼっくり）や新梢の内部を食べ、林業上の害虫となることがある。",
+      "habitat_hint": "マツ・モミなどの針葉樹林、その植栽地。",
+      "finding_tips": "夏の夜、針葉樹林で灯火に来る灰色にまだら模様の蛾を探す。球果に加害された痕（脱出孔やヤニ）も手がかり。"
+    },
+    "en": {
+      "summary": "A conifer cone moth (Dioryctria abietella) of pine and fir forests; the grey forewings are marked with red-brown and white. The larvae feed inside conifer cones and new shoots and can be forestry pests.",
+      "habitat_hint": "Pine, fir and other conifer forests and plantations.",
+      "finding_tips": "On summer nights in conifer forest look at lights for a grey mottled moth; damaged cones with exit holes or resin are also clues."
+    },
+    "zh": {
+      "summary": "マツノマダラメイガ。见于松、冷杉等针叶林的螟蛾科蛾，前翅灰色带红褐与白斑，幼虫蛀食针叶树球果与新梢，可为林业害虫。",
+      "habitat_hint": "松、冷杉等针叶林及其栽植地。",
+      "finding_tips": "夏夜于针叶林灯下寻找灰色斑驳之蛾；球果被害痕（脱出孔或松脂）亦为线索。"
+    }
+  },
+  "Diplazium dilatatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fern",
+    "ja": {
+      "summary": "ヒロハノコギリシダ。暖地の山地の林内や谷沿いに生えるメシダ科の大型のシダ。葉は二回羽状に分かれ、幅が広くやや光沢がある。湿った林床に群生する常緑性のシダ。",
+      "habitat_hint": "暖地の山地の林内、谷沿い、湿った半日陰。",
+      "finding_tips": "湿った林床で、幅の広い二回羽状の大型のシダを探す。やや光沢のある葉と大きさが手がかり。"
+    },
+    "en": {
+      "summary": "A large fern (Diplazium dilatatum) of warm-region montane forests and valleys; the fronds are twice pinnate, broad and somewhat glossy. It is an evergreen fern forming stands on damp forest floor.",
+      "habitat_hint": "Warm-region montane forest interiors, valleys and damp shade.",
+      "finding_tips": "On damp forest floor look for a large broad twice-pinnate fern; the glossy leaves and size are clues."
+    },
+    "zh": {
+      "summary": "ヒロハノコギリシダ。生于暖地山地林内与谷沿的蹄盖蕨科大型蕨，叶二回羽状、宽而略亮，为常绿蕨、群生于湿润林床。",
+      "habitat_hint": "暖地山地林内、谷沿、湿润半阴处。",
+      "finding_tips": "湿润林床寻找宽大二回羽状之大蕨；略亮叶与体大为线索。"
+    }
+  },
+  "Diplommatina kobelti": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "コベルトゴマガイ。石灰岩地や林床の落葉の下に生息するゴマガイ科の非常に小さな陸産巻貝。殻は右巻きの紡錘形で、ゴマ粒ほどの大きさ。湿った石灰岩地の環境に依存する。",
+      "habitat_hint": "石灰岩地の林床、落葉の下、湿った岩の隙間。",
+      "finding_tips": "石灰岩地の落葉や土をふるって、ゴマ粒ほどの小さな紡錘形の巻貝を探す（要ルーペ）。石灰岩地が手がかり。"
+    },
+    "en": {
+      "summary": "A very small land snail (Diplommatina kobelti) of limestone areas and forest-floor litter; the dextral spindle-shaped shell is the size of a sesame seed. It depends on damp limestone habitats.",
+      "habitat_hint": "Limestone forest floor, under litter and damp rock crevices.",
+      "finding_tips": "Sift limestone-area litter and soil for a sesame-sized spindle-shaped snail (use a lens); limestone ground is a clue."
+    },
+    "zh": {
+      "summary": "コベルトゴマガイ。栖于石灰岩地与林床落叶下的芝麻螺科极小型陆生螺，壳右旋纺锤形、仅芝麻粒大，依赖湿润石灰岩环境。",
+      "habitat_hint": "石灰岩地林床、落叶下、湿润岩隙。",
+      "finding_tips": "筛石灰岩区落叶与土寻找芝麻大纺锤形螺（需放大镜）；石灰岩地为线索。"
+    }
+  },
+  "Diplommatina kyushuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "キュウシュウゴマガイ。九州などの石灰岩地や林床の落葉の下に生息するゴマガイ科の非常に小さな陸産巻貝。殻は右巻きの紡錘形で、ゴマ粒ほどの大きさ。湿った石灰岩地に依存し、分布が限られる。",
+      "habitat_hint": "石灰岩地の林床、落葉の下、湿った岩の隙間。",
+      "finding_tips": "石灰岩地の落葉や土をふるって、ゴマ粒ほどの小さな紡錘形の巻貝を探す（要ルーペ）。九州の石灰岩地が手がかり。"
+    },
+    "en": {
+      "summary": "A very small land snail (Diplommatina kyushuensis) of limestone areas and forest-floor litter in Kyushu and beyond; the dextral spindle-shaped shell is sesame-seed sized. It depends on damp limestone habitats and is narrowly distributed.",
+      "habitat_hint": "Limestone forest floor, under litter and damp rock crevices.",
+      "finding_tips": "Sift limestone-area litter for a sesame-sized spindle-shaped snail (use a lens); Kyushu limestone ground is a clue."
+    },
+    "zh": {
+      "summary": "キュウシュウゴマガイ。栖于九州等地石灰岩与林床落叶下的芝麻螺科极小型陆生螺，壳右旋纺锤形、芝麻粒大，依赖湿润石灰岩、分布局限。",
+      "habitat_hint": "石灰岩地林床、落叶下、湿润岩隙。",
+      "finding_tips": "筛石灰岩区落叶寻找芝麻大纺锤形螺（需放大镜）；九州石灰岩地为线索。"
+    }
   }
 }
