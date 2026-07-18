@@ -270633,5 +270633,545 @@
       "habitat_hint": "浅珊瑚礁、岩礁、砂底、礁池。",
       "finding_tips": "珊瑚礁寻找白色圆锥形小螺；有毒，勿徒手持活体。"
     }
+  },
+  "Conus pulicarius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flea-spotted cone",
+    "ja": {
+      "summary": "ゴマフイモガイ。南日本〜インド太平洋の浅い砂底に生息するイモガイ科の巻貝。殻は円錐形で白っぽく、黒い斑点が胡麻を散らしたように並ぶ。毒のある歯舌で獲物を刺すため、素手で扱うのは危険。",
+      "habitat_hint": "浅いサンゴ礁・岩礁周辺の砂底、礁池。",
+      "finding_tips": "砂底で白っぽい円錐形の殻に黒い斑点をもつ巻貝を探す。毒をもつため生きた個体を素手で持たないこと。"
+    },
+    "en": {
+      "summary": "Flea-spotted cone (Conus pulicarius). A cone snail of shallow sand from southern Japan through the Indo-Pacific; the conical shell is whitish sprinkled with black spots. It stings prey with a venomous tooth, so handling it bare-handed is dangerous.",
+      "habitat_hint": "Sandy bottoms near shallow coral and rocky reefs, and lagoons.",
+      "finding_tips": "On sand look for a whitish conical shell sprinkled with black spots; it is venomous, so never hold a live one bare-handed."
+    },
+    "zh": {
+      "summary": "ゴマフイモガイ（斑芋螺）。分布南日本至印度太平洋浅砂底的芋螺科螺，壳圆锥形、白底散黑点如撒芝麻，以毒齿舌刺猎物、徒手处理危险。",
+      "habitat_hint": "浅珊瑚礁与岩礁周边砂底、礁池。",
+      "finding_tips": "砂底寻找白底散黑点的圆锥螺；有毒，勿徒手持活体。"
+    }
+  },
+  "Corbula nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Basket clam",
+    "ja": {
+      "summary": "イナカクチベニ。内湾や沿岸の砂泥底に生息するクチベニガイ科の小さな二枚貝。殻は三角形に近く厚みがあり、左右の殻の大きさがやや異なる。殻口の縁が紅色を帯びることがある。",
+      "habitat_hint": "内湾、沿岸の砂泥底、干潟のやや深い場所。",
+      "finding_tips": "砂泥底で三角形に近い厚みのある小さな二枚貝を探す。左右の殻の大きさが異なる点が識別点。"
+    },
+    "en": {
+      "summary": "A basket clam (Corbula nipponica) of muddy-sand bottoms in bays and coastal waters; the shell is thick and nearly triangular, with the two valves slightly unequal in size, and the shell margin can be tinged red.",
+      "habitat_hint": "Muddy-sand bottoms of inner bays, coasts and deeper tidal flats.",
+      "finding_tips": "On muddy sand look for a thick nearly triangular small clam; the slightly unequal valves are diagnostic."
+    },
+    "zh": {
+      "summary": "イナカクチベニ。栖于内湾与沿岸砂泥底的篮蛤科小型双壳，壳近三角而厚、左右壳略不等大，壳缘偶带红。",
+      "habitat_hint": "内湾、沿岸砂泥底、潮滩较深处。",
+      "finding_tips": "砂泥底寻找近三角形较厚的小双壳；左右壳不等大为辨识点。"
+    }
+  },
+  "Cortinarius subalboviolaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Webcap",
+    "ja": {
+      "summary": "ウスムラサキフウセンタケ。夏〜秋に林内の地上に発生するフウセンタケ科のキノコ。傘や柄が淡い紫色を帯び、幼菌のとき傘と柄をつなぐクモの巣状の膜（コルチナ）をもつ。フウセンタケ類には有毒種が多く、食用は避ける。",
+      "habitat_hint": "広葉樹林・針葉樹林・混交林の地上、林床。",
+      "finding_tips": "夏〜秋、林床で淡紫色を帯びた傘とクモの巣状の膜の跡をもつキノコを探す。フウセンタケ類は毒に注意し食べないこと。"
+    },
+    "en": {
+      "summary": "A webcap (Cortinarius subalboviolaceus) fruiting on the ground in summer–autumn forest; cap and stem are tinged pale violet, and young fruit bodies have a cobweb-like veil (cortina) linking cap and stem. Many webcaps are toxic, so avoid eating it.",
+      "habitat_hint": "On the ground in broadleaf, conifer and mixed forest.",
+      "finding_tips": "In summer–autumn look for a pale-violet-tinged cap with traces of a cobweb-like veil; webcaps can be toxic, so do not eat it."
+    },
+    "zh": {
+      "summary": "ウスムラサキフウセンタケ。夏秋发生于林内地上的丝膜菌科菌，盖与柄带淡紫色，幼菌具连接盖柄的蛛网状膜（丝膜）。丝膜菌类多有毒，勿食。",
+      "habitat_hint": "阔叶林、针叶林、混交林地上、林床。",
+      "finding_tips": "夏秋于林床寻找带淡紫色盖、具蛛网状膜痕之菌；丝膜菌类注意有毒、勿食。"
+    }
+  },
+  "Corydalis kushiroensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Corydalis",
+    "ja": {
+      "summary": "チドリケマン。北日本の湿った林縁や草地に生えるケシ科の越年草〜多年草。細かく切れ込む葉をもち、春に淡紅紫色の筒状の花を穂状に咲かせる。花の姿を千鳥に見立てたのが名の由来。全草に毒がある。",
+      "habitat_hint": "北日本の湿った林縁、草地、川岸のやや湿った場所。",
+      "finding_tips": "春、湿った林縁で細かく切れ込む葉と淡紅紫色の筒状花の穂を探す。距のある花の形が識別点。有毒。"
+    },
+    "en": {
+      "summary": "A corydalis (Corydalis kushiroensis) of damp forest edges and grassland in northern Japan; it has finely divided leaves and spikes of pale reddish-purple tubular flowers in spring, likened to plovers. The whole plant is toxic.",
+      "habitat_hint": "Damp forest edges, grassland and riverbanks in northern Japan.",
+      "finding_tips": "In spring at damp edges look for finely divided leaves and spikes of pale reddish-purple tubular flowers; the spurred flowers are diagnostic. Toxic."
+    },
+    "zh": {
+      "summary": "チドリケマン。生于北日本湿润林缘与草地的罂粟科越年至多年生草本，叶细裂，春开淡红紫色管状花成穗、花形似千鸟，全株有毒。",
+      "habitat_hint": "北日本湿润林缘、草地、河岸稍湿处。",
+      "finding_tips": "春于湿润林缘寻找细裂叶与淡红紫管状花穗；具距花形为辨识点；有毒。"
+    }
+  },
+  "Cosmia pyralina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lunar-spotted pinion",
+    "ja": {
+      "summary": "ナシキリガ。林縁や果樹園に見られるヤガ科の蛾。前翅は赤褐色で、淡色の横線と小さな紋をもつ。夜行性で灯火に飛来する。幼虫はナシ・サクラ・ニレなど広葉樹の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、果樹園、公園の樹林。",
+      "finding_tips": "夏の夜、灯火に来る赤褐色の蛾を探す。前翅の淡色の横線と小さな紋が識別点。"
+    },
+    "en": {
+      "summary": "Lunar-spotted pinion (Cosmia pyralina). A noctuid moth of forest edges and orchards; the forewings are red-brown with pale cross-lines and a small mark. It is nocturnal and comes to lights, and the larvae feed on pear, cherry, elm and other broadleaf trees.",
+      "habitat_hint": "Forest edges, secondary woodland, orchards and park groves.",
+      "finding_tips": "On summer nights look at lights for a red-brown moth; the pale cross-lines and small mark on the forewing are diagnostic."
+    },
+    "zh": {
+      "summary": "ナシキリガ。见于林缘与果园的夜蛾科蛾，前翅红褐、具淡色横线与小斑，夜行趋光，幼虫食梨、樱、榆等阔叶树叶。",
+      "habitat_hint": "林缘、杂木林、果园、公园林地。",
+      "finding_tips": "夏夜灯下寻找红褐色蛾；前翅淡横线与小斑为辨识点。"
+    }
+  },
+  "Cotoneaster horizontalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock cotoneaster",
+    "aliases": {
+      "zh-Hans": "平枝栒子"
+    },
+    "ja": {
+      "summary": "ベニシタン。中国原産で庭園や公園に植栽されるバラ科の落葉〜半常緑低木。枝が水平に羽状に広がり、小さな葉を密につける。初夏に淡紅色の小花を咲かせ、秋に赤い小さな果実を多数つける。グラウンドカバーや盆栽に使われる。",
+      "habitat_hint": "庭園、公園、石垣、法面などの植栽。",
+      "finding_tips": "枝が水平に羽状に広がり、小さな葉と赤い小果を密につける低木を探す。魚の骨のような枝ぶりが識別点。"
+    },
+    "en": {
+      "summary": "Rock cotoneaster (Cotoneaster horizontalis). A deciduous to semi-evergreen shrub of the rose family native to China, planted in gardens and parks; the branches spread horizontally in a herringbone pattern with small crowded leaves, pale pink flowers in early summer and many small red berries in autumn. It is used as ground cover and in bonsai.",
+      "habitat_hint": "Gardens, parks, stone walls and slopes as a planting.",
+      "finding_tips": "Look for a low shrub with branches spreading horizontally in a fishbone pattern bearing small leaves and red berries; the herringbone branching is diagnostic."
+    },
+    "zh": {
+      "summary": "ベニシタン（平枝栒子）。原产中国、栽于庭园公园的蔷薇科落叶至半常绿灌木，枝水平羽状展开、密生小叶，初夏开淡红小花、秋结众多红色小果，供地被与盆景。",
+      "habitat_hint": "庭园、公园、石墙、护坡等栽培。",
+      "finding_tips": "寻找枝水平羽状展开、密生小叶与红果之矮灌；鱼骨状枝形为辨识点。"
+    }
+  },
+  "Craniophora praeclara": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "ニッコウケンモン。山地の林縁や広葉樹林に見られるヤガ科の蛾。前翅は灰緑色〜灰白色で、暗色の複雑な紋がある。夜行性で灯火に飛来する。幼虫はモクセイ科などの葉を食べる。",
+      "habitat_hint": "山地の林縁、広葉樹林、渓谷沿いの林。",
+      "finding_tips": "夏の夜、山地で灯火に来る灰緑色の複雑な紋をもつ蛾を探す。前翅の模様が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Craniophora praeclara) of montane forest edges and broadleaf forest; the forewings are grey-green to greyish-white with complex dark marks. It is nocturnal and comes to lights, and the larvae feed on olive-family trees.",
+      "habitat_hint": "Montane forest edges, broadleaf forest and valley woods.",
+      "finding_tips": "On summer nights in the mountains look at lights for a grey-green moth with complex dark marks; the forewing pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "ニッコウケンモン。见于山地林缘与阔叶林的夜蛾科蛾，前翅灰绿至灰白、具暗色复杂斑纹，夜行趋光，幼虫食木樨科等叶。",
+      "habitat_hint": "山地林缘、阔叶林、溪谷沿林。",
+      "finding_tips": "夏夜于山地灯下寻找灰绿具复杂斑纹之蛾；前翅斑纹为辨识点。"
+    }
+  },
+  "Cratena lineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ハクセンミノウミウシ。浅い岩礁やサンゴ礁に生息するミノウミウシ類のウミウシ。背面に多数の細い突起（ミノ）をもち、体に白い線が走るのが名の由来。ヒドロ虫を食べ、その刺胞を取り込んで身を守る。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、潮だまり、ヒドロ虫の生える場所。",
+      "finding_tips": "岩礁で背にミノを多数もち、体に白線が走るウミウシを探す。白い線が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug (Cratena lineata) of shallow rocky and coral reefs; its back bears many slender cerata and a white line runs along the body, the source of its Japanese name. It eats hydroids, storing their stinging cells for defence.",
+      "habitat_hint": "Shallow rocky and coral reefs, tide pools and hydroid patches.",
+      "finding_tips": "On reefs look for a slug with many cerata and a white line along the body; the white line is diagnostic."
+    },
+    "zh": {
+      "summary": "ハクセンミノウミウシ。栖于浅岩礁与珊瑚礁的蓑海牛类海牛，背具众多细蓑、体具白线（和名之源），食水螅并贮其刺细胞自卫。",
+      "habitat_hint": "浅岩礁、珊瑚礁、潮池、生水螅之处。",
+      "finding_tips": "岩礁寻找背具众多蓑、体具白线之海牛；白线为辨识点。"
+    }
+  },
+  "Crepidomanes schmidtianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Filmy fern",
+    "ja": {
+      "summary": "チチブホラゴケ。渓流沿いの湿った岩上や樹幹の基部に着生するコケシノブ科の小さなシダ。葉は膜のように薄く半透明で、常に湿った日陰の環境に依存する。コケのように見える。",
+      "habitat_hint": "渓流沿いの湿った岩上、樹幹の基部、滝のしぶきのかかる岩。",
+      "finding_tips": "渓流沿いの湿った岩上で、膜のように薄く半透明の小さなシダを探す。コケのような姿と半透明の葉が識別点。"
+    },
+    "en": {
+      "summary": "A filmy fern (Crepidomanes schmidtianum) growing on wet rocks and tree bases along streams; the fronds are membranous and translucent, and it depends on constantly damp shade. It looks moss-like.",
+      "habitat_hint": "Wet streamside rocks, tree bases and waterfall-spray rocks.",
+      "finding_tips": "On wet streamside rock look for a tiny translucent membranous fern; the moss-like look and see-through fronds are diagnostic."
+    },
+    "zh": {
+      "summary": "チチブホラゴケ。附生于溪流沿湿岩与树基的膜蕨科小型蕨，叶薄如膜、半透明，依赖常湿阴环境，形似苔藓。",
+      "habitat_hint": "溪流沿湿岩、树基、瀑布飞溅岩面。",
+      "finding_tips": "溪畔湿岩寻找薄如膜、半透明的小蕨；似苔藓与透明叶为辨识点。"
+    }
+  },
+  "Crepidotus badiofloccosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oysterling",
+    "ja": {
+      "summary": "クリゲノチャヒラタケ。広葉樹の朽木や落枝に発生するチャヒラタケ科の小さなキノコ。柄がほとんどなく、半円形〜貝殻形の傘を側生する。傘の表面は褐色の細かい毛（鱗片）に覆われる。",
+      "habitat_hint": "広葉樹の朽木、落枝、倒木。",
+      "finding_tips": "朽木で、柄のない半円形の傘が褐色の毛に覆われた小さなキノコを探す。毛におおわれた傘表面が識別点。"
+    },
+    "en": {
+      "summary": "An oysterling fungus (Crepidotus badiofloccosus) on rotting broadleaf wood and fallen branches; nearly stalkless, it attaches a semicircular to shell-shaped cap at the side, its surface covered in fine brown hairs (scales).",
+      "habitat_hint": "Rotting broadleaf wood, fallen branches and logs.",
+      "finding_tips": "On rotten wood look for a small stalkless semicircular cap covered in brown hairs; the hairy cap surface is diagnostic."
+    },
+    "zh": {
+      "summary": "クリゲノチャヒラタケ。发生于阔叶朽木与落枝的靴耳科小菌，几无柄，半圆至贝壳形盖侧生，盖面被褐色细毛（鳞片）。",
+      "habitat_hint": "阔叶朽木、落枝、倒木。",
+      "finding_tips": "朽木上寻找无柄半圆形、被褐毛之小菌；被毛盖面为辨识点。"
+    }
+  },
+  "Cribraria intricata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "フシアミホコリ。朽木や倒木の上に群生する非常に小さな変形菌（粘菌）。細い柄の先に球形の子実体をつけ、成熟すると胞子が抜け落ち、網目状の骨組み（網体）だけが残る。ルーペで観察するとよい。",
+      "habitat_hint": "湿った朽木、倒木、落枝の樹皮上。",
+      "finding_tips": "湿った朽木で、細い柄の先に網目状の骨組みを残す小さな変形菌を探す（要ルーペ）。網目状の網体が識別点。"
+    },
+    "en": {
+      "summary": "A tiny slime mould (Cribraria intricata) fruiting in groups on rotten wood and logs; a slender stalk bears a spherical fruit body, and on maturing the spores fall away leaving only a net-like framework. Best seen with a lens.",
+      "habitat_hint": "Damp rotten wood, logs and fallen-branch bark.",
+      "finding_tips": "On damp dead wood look for a small slime mould leaving a net-like framework atop a slender stalk (use a lens); the netted mesh is diagnostic."
+    },
+    "zh": {
+      "summary": "フシアミホコリ（密筛菌）。群生于朽木与倒木的极小型黏菌，细柄顶生球形子实体，成熟孢子脱落、仅留网状骨架，宜用放大镜观察。",
+      "habitat_hint": "湿润朽木、倒木、落枝树皮上。",
+      "finding_tips": "湿朽木寻找细柄顶留网状骨架之小黏菌（需放大镜）；网状网体为辨识点。"
+    }
+  },
+  "Cribraria languescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "オジギアミホコリ。朽木や倒木の上に群生する非常に小さな変形菌（粘菌）。細い柄の先に球形の子実体をつけ、柄が曲がってお辞儀をするように傾くのが名の由来。成熟すると網目状の網体が残る。",
+      "habitat_hint": "湿った朽木、倒木、落枝の樹皮上。",
+      "finding_tips": "湿った朽木で、柄が傾いてお辞儀するように見える小さな変形菌を探す（要ルーペ）。傾いた柄と網目状の網体が識別点。"
+    },
+    "en": {
+      "summary": "A tiny slime mould (Cribraria languescens) on rotten wood and logs; a slender stalk bears a spherical fruit body and bends to nod over, the source of its Japanese name, leaving a net-like framework on maturing.",
+      "habitat_hint": "Damp rotten wood, logs and fallen-branch bark.",
+      "finding_tips": "On damp dead wood look for a small slime mould with a nodding bent stalk (use a lens); the bent stalk and netted mesh are diagnostic."
+    },
+    "zh": {
+      "summary": "オジギアミホコリ（紫褐筛菌）。群生于朽木与倒木的极小型黏菌，细柄顶生球形子实体、柄弯曲如鞠躬（和名之源），成熟留网状网体。",
+      "habitat_hint": "湿润朽木、倒木、落枝树皮上。",
+      "finding_tips": "湿朽木寻找柄弯如鞠躬之小黏菌（需放大镜）；弯柄与网状网体为辨识点。"
+    }
+  },
+  "Cribraria piriformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ナシアミホコリ。朽木や倒木の上に群生する非常に小さな変形菌（粘菌）。細い柄の先に洋梨形の子実体をつけるのが名の由来。成熟すると胞子が抜け落ち、網目状の網体が残る。ルーペで観察するとよい。",
+      "habitat_hint": "湿った朽木、倒木、落枝の樹皮上。",
+      "finding_tips": "湿った朽木で、細い柄の先に洋梨形の子実体をつける小さな変形菌を探す（要ルーペ）。梨形の子実体が識別点。"
+    },
+    "en": {
+      "summary": "A tiny slime mould (Cribraria piriformis) on rotten wood and logs; a slender stalk bears a pear-shaped fruit body, the source of its Japanese name, and on maturing the spores fall away leaving a net-like framework.",
+      "habitat_hint": "Damp rotten wood, logs and fallen-branch bark.",
+      "finding_tips": "On damp dead wood look for a small slime mould with a pear-shaped head on a slender stalk (use a lens); the pear shape is diagnostic."
+    },
+    "zh": {
+      "summary": "ナシアミホコリ（梨形筛菌）。群生于朽木与倒木的极小型黏菌，细柄顶生梨形子实体（和名之源），成熟孢子脱落、留网状网体，宜用放大镜观察。",
+      "habitat_hint": "湿润朽木、倒木、落枝树皮上。",
+      "finding_tips": "湿朽木寻找细柄顶生梨形子实体之小黏菌（需放大镜）；梨形子实体为辨识点。"
+    }
+  },
+  "Cribraria tenella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "アミホコリ。朽木や倒木の上に群生する非常に小さな変形菌（粘菌）。非常に細い柄の先に小さな球形の子実体をつけ、成熟すると網目状の網体が残る。アミホコリ類の代表種。ルーペで観察するとよい。",
+      "habitat_hint": "湿った朽木、倒木、落枝の樹皮上。",
+      "finding_tips": "湿った朽木で、非常に細い柄の先に小さな網目状の子実体をつける変形菌を探す（要ルーペ）。細い柄と網体が識別点。"
+    },
+    "en": {
+      "summary": "A tiny slime mould (Cribraria tenella) on rotten wood and logs; a very slender stalk bears a small spherical fruit body leaving a net-like framework on maturing. It is a typical member of its genus, best seen with a lens.",
+      "habitat_hint": "Damp rotten wood, logs and fallen-branch bark.",
+      "finding_tips": "On damp dead wood look for a slime mould with a small netted head on a very fine stalk (use a lens); the fine stalk and mesh are diagnostic."
+    },
+    "zh": {
+      "summary": "アミホコリ（细筛菌）。群生于朽木与倒木的极小型黏菌，极细柄顶生小球形子实体、成熟留网状网体，为该类群代表种，宜用放大镜观察。",
+      "habitat_hint": "湿润朽木、倒木、落枝树皮上。",
+      "finding_tips": "湿朽木寻找极细柄顶生小网状子实体之黏菌（需放大镜）；细柄与网体为辨识点。"
+    }
+  },
+  "Cribraria violacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "スミレアミホコリ。朽木や倒木の上に群生する非常に小さな変形菌（粘菌）。細い柄の先に球形の子実体をつけ、紫色を帯びるのが名の由来。成熟すると網目状の網体が残る。ルーペで観察するとよい。",
+      "habitat_hint": "湿った朽木、倒木、落枝の樹皮上。",
+      "finding_tips": "湿った朽木で、紫色を帯びた小さな球形の子実体をつける変形菌を探す（要ルーペ）。紫色を帯びる点が識別点。"
+    },
+    "en": {
+      "summary": "A tiny slime mould (Cribraria violacea) on rotten wood and logs; a slender stalk bears a spherical fruit body tinged violet, the source of its Japanese name, leaving a net-like framework on maturing. Best seen with a lens.",
+      "habitat_hint": "Damp rotten wood, logs and fallen-branch bark.",
+      "finding_tips": "On damp dead wood look for a small slime mould with a violet-tinged head (use a lens); the violet tint is diagnostic."
+    },
+    "zh": {
+      "summary": "スミレアミホコリ（紫筛菌）。群生于朽木与倒木的极小型黏菌，细柄顶生球形子实体、带紫色（和名之源），成熟留网状网体，宜用放大镜观察。",
+      "habitat_hint": "湿润朽木、倒木、落枝树皮上。",
+      "finding_tips": "湿朽木寻找带紫色的小球形子实体之黏菌（需放大镜）；带紫色为辨识点。"
+    }
+  },
+  "Crocinoboletus laetissimus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange bolete",
+    "ja": {
+      "summary": "ダイダイイグチ。夏〜秋にブナ科の樹下の地上に発生するイグチ科のキノコ。傘・柄・管孔とも鮮やかな橙色（だいだい色）で、傷つくと青変することがある。鮮やかな色彩が目を引く。",
+      "habitat_hint": "ブナ科（カシ・シイ・ナラ）などの樹下の地上、林床。",
+      "finding_tips": "夏〜秋、ブナ科樹下の林床で全体が鮮やかな橙色のイグチを探す。傘の裏の管孔も橙色である点が識別点。"
+    },
+    "en": {
+      "summary": "Orange bolete (Crocinoboletus laetissimus). A bolete fruiting on the ground under oaks in summer–autumn; cap, stem and pores are all vivid orange, and it may bruise blue. Its striking colour is eye-catching.",
+      "habitat_hint": "On the ground under oaks and other beech-family trees.",
+      "finding_tips": "In summer–autumn under oaks look for a bolete that is vivid orange all over; the orange pores beneath the cap are diagnostic."
+    },
+    "zh": {
+      "summary": "ダイダイイグチ。夏秋发生于壳斗科树下地上的牛肝菌科菌，盖、柄与管孔均鲜橙色，伤后或变蓝，色彩鲜明夺目。",
+      "habitat_hint": "壳斗科（栎、栲、楢）等树下地上、林床。",
+      "finding_tips": "夏秋于壳斗科树下林床寻找通体鲜橙的牛肝菌；盖下管孔亦橙色为辨识点。"
+    }
+  },
+  "Crucibulum laeve": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common bird's nest fungus",
+    "aliases": {
+      "zh-Hans": "白蛋巢菌"
+    },
+    "ja": {
+      "summary": "ツネノチャダイゴケ。朽木や木片、腐植の上に群生するハラタケ科の小さなキノコ。子実体は椀（鳥の巣）状で、中に卵のような小塊（胞子の詰まった小塊＝ペリジオール）が入る。雨だれで小塊が飛び散り胞子を散布する。",
+      "habitat_hint": "朽木、木片、ウッドチップ、腐植の上。",
+      "finding_tips": "朽木やウッドチップの上で、椀状で中に卵のような小塊が入った小さなキノコを探す。鳥の巣状の姿が識別点。"
+    },
+    "en": {
+      "summary": "Common bird's nest fungus (Crucibulum laeve). A small fungus growing in groups on rotten wood, wood chips and humus; the fruit body is a cup (nest) holding egg-like packets (peridioles) of spores, which raindrops splash out to disperse.",
+      "habitat_hint": "On rotten wood, wood chips, mulch and humus.",
+      "finding_tips": "On rotten wood or mulch look for small cups holding egg-like packets; the bird's-nest form is diagnostic."
+    },
+    "zh": {
+      "summary": "ツネノチャダイゴケ（白蛋巢菌）。群生于朽木、木屑与腐殖上的蘑菇科小菌，子实体碗（巢）状、内含卵状小包（含孢子的小体），雨滴溅出小包以散播孢子。",
+      "habitat_hint": "朽木、木屑、覆盖木片、腐殖上。",
+      "finding_tips": "朽木与覆盖木片上寻找碗状内含卵状小包之小菌；鸟巢状为辨识点。"
+    }
+  },
+  "Cryptomya busoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clam",
+    "ja": {
+      "summary": "ヒメマスオガイ。干潟や内湾の砂泥底に潜って生活するオキナガイ科の小さな二枚貝。水管が短く、他の生物（アナジャコやゴカイなど）の巣穴に水管を差し込んで水を得る習性で知られる。",
+      "habitat_hint": "干潟、内湾、汽水域の砂泥底、他生物の巣穴の近く。",
+      "finding_tips": "干潟の砂泥を掘って、白っぽい小さな二枚貝を探す。他の生物の巣穴の近くに多い点が手がかり。"
+    },
+    "en": {
+      "summary": "A small clam (Cryptomya busoensis) that burrows in muddy-sand bottoms of tidal flats and bays; its siphons are short, and it is known for inserting them into the burrows of other animals (such as ghost shrimp and worms) to obtain water.",
+      "habitat_hint": "Muddy-sand of tidal flats and bays, near others' burrows.",
+      "finding_tips": "Dig tidal-flat mud to find a small whitish clam; abundance near other animals' burrows is a clue."
+    },
+    "zh": {
+      "summary": "ヒメマスオガイ。潜居于潮滩与内湾砂泥底的鸭嘴蛤科小型双壳，水管短，以将水管插入他种生物（如泥虾、沙蚕）洞穴取水而著称。",
+      "habitat_hint": "潮滩、内湾、半咸水砂泥底、他生物洞穴附近。",
+      "finding_tips": "潮滩掘泥寻找白色小双壳；多近他生物洞穴为线索。"
+    }
+  },
+  "Ctenoides lischkei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "File clam",
+    "ja": {
+      "summary": "ハネガイ。潮下帯の岩礁や崖の割れ目に足糸で固着して生活するミノガイ科の二枚貝。殻は白く扇形で、縁から多数の触手を出す。刺激すると殻を開閉して泳ぐように移動することがある。",
+      "habitat_hint": "潮下帯の岩礁、崖の割れ目、洞窟状の場所。",
+      "finding_tips": "潮下帯の岩礁の割れ目で、白い扇形の殻から多数の触手を出す二枚貝を探す。触手を出す姿が識別点。"
+    },
+    "en": {
+      "summary": "A file clam (Ctenoides lischkei) that attaches by byssal threads in subtidal reef and cliff crevices; the white fan-shaped shell extends many tentacles from its margin, and when disturbed it may swim by flapping its valves.",
+      "habitat_hint": "Subtidal reefs, cliff crevices and cave-like sites.",
+      "finding_tips": "In subtidal crevices look for a white fan-shaped clam extending many tentacles; the tentacles are diagnostic."
+    },
+    "zh": {
+      "summary": "ハネガイ。以足丝固着于潮下带岩礁与崖缝的锉蛤科双壳，壳白扇形、缘伸众多触手，受激时或开合壳瓣如游泳般移动。",
+      "habitat_hint": "潮下带岩礁、崖缝、洞穴状处。",
+      "finding_tips": "潮下带岩缝寻找白色扇形、缘伸众多触手之双壳；伸触手为辨识点。"
+    }
+  },
+  "Cucullia perforata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sharktail moth",
+    "ja": {
+      "summary": "セダカモクメ。草地や河原に見られるヤガ科セダカモクメ亜科の蛾。前翅は細長く、木目や枯れ枝に似た褐色の模様をもち、静止時に背が高く盛り上がった独特の姿勢をとる。幼虫はキク科植物の花や葉を食べる。",
+      "habitat_hint": "草地、河原、林縁、荒地の草むら。",
+      "finding_tips": "夏の夜、灯火に来る背が高く盛り上がった姿勢の細長い蛾を探す。木目状の前翅と独特の静止姿勢が識別点。"
+    },
+    "en": {
+      "summary": "A sharktail (Cucullia perforata), a noctuid moth of grassland and riverbanks; the narrow forewings mimic wood grain or a dead twig, and at rest it humps its back into a distinctive high posture. The larvae feed on the flowers and leaves of daisy-family plants.",
+      "habitat_hint": "Grassland, riverbanks, forest edges and weedy waste ground.",
+      "finding_tips": "On summer nights look at lights for a narrow moth resting with a high humped back; the wood-grain forewings and posture are diagnostic."
+    },
+    "zh": {
+      "summary": "セダカモクメ。见于草地与河滩的夜蛾科冠夜蛾亚科蛾，前翅细长、拟木纹或枯枝，静止时背高高隆起姿态独特，幼虫食菊科植物花与叶。",
+      "habitat_hint": "草地、河滩、林缘、荒地草丛。",
+      "finding_tips": "夏夜灯下寻找背高隆起姿态的细长蛾；木纹前翅与独特静止姿为辨识点。"
+    }
+  },
+  "Culex tritaeniorhynchus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Vector mosquito",
+    "aliases": {
+      "zh-Hans": "三带喙库蚊"
+    },
+    "ja": {
+      "summary": "コガタアカイエカ。水田や湿地に発生するイエカ属の小さな蚊。幼虫（ボウフラ）は水田などの止水で育つ。日本脳炎ウイルスを媒介する重要な衛生害虫で、豚と鳥の間でウイルスを運び、人にも感染させる。夏に多い。",
+      "habitat_hint": "水田、湿地、水たまりなどの止水とその周辺。",
+      "finding_tips": "夏、水田周辺で吸血する小さな蚊を確認する。日本脳炎を媒介するため、水田地帯では防蚊対策が重要。"
+    },
+    "en": {
+      "summary": "A vector mosquito (Culex tritaeniorhynchus) breeding in paddies and wetlands; the larvae develop in still water such as rice fields. It is an important vector of Japanese encephalitis virus, carrying it between pigs and birds and infecting people. It is abundant in summer.",
+      "habitat_hint": "Rice paddies, wetlands, standing water and their surroundings.",
+      "finding_tips": "In summer near paddies note small biting mosquitoes; as a Japanese-encephalitis vector, mosquito protection matters in paddy areas."
+    },
+    "zh": {
+      "summary": "コガタアカイエカ（三带喙库蚊）。孳生于稻田与湿地的库蚊属小蚊，幼虫（孑孓）育于稻田等静水，为传播日本脑炎病毒的重要卫生害虫，于猪与鸟间携带病毒并感染人，夏季多见。",
+      "habitat_hint": "稻田、湿地、积水等静水及周边。",
+      "finding_tips": "夏于稻田周边留意吸血小蚊；作为日本脑炎媒介，稻区防蚊尤重要。"
+    }
+  },
+  "Cychrus morawitzi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snail-eating ground beetle",
+    "ja": {
+      "summary": "セダカオサムシ。山地の林床に生息するオサムシ科の甲虫。頭部と前胸が細長く突き出ており、カタツムリの殻の中に頭を突っ込んで中身を食べるのに適応している。背が高く盛り上がった体型が名の由来。飛べない。",
+      "habitat_hint": "山地の林床、落葉の下、朽木のまわり。",
+      "finding_tips": "夜、山地の林床で頭と前胸が細長く突き出た背の高い甲虫を探す。カタツムリを食べる細長い頭部が識別点。"
+    },
+    "en": {
+      "summary": "A snail-eating ground beetle (Cychrus morawitzi) of montane forest floors; the head and thorax are drawn out into a long snout, adapted for reaching into snail shells to eat the occupant. Its high humped body gives its Japanese name, and it is flightless.",
+      "habitat_hint": "Montane forest floor, under litter and around dead wood.",
+      "finding_tips": "At night on montane forest floor look for a high-bodied beetle with a long narrow head and thorax; the elongate snail-eating head is diagnostic."
+    },
+    "zh": {
+      "summary": "セダカオサムシ。栖于山地林床的步甲科甲虫，头与前胸细长前突，适于伸入蜗牛壳取食其体，体背高隆而得和名，不能飞。",
+      "habitat_hint": "山地林床、落叶下、朽木周边。",
+      "finding_tips": "夜于山地林床寻找头胸细长前突的高身甲虫；食蜗牛的细长头部为辨识点。"
+    }
+  },
+  "Cydia glandicolana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Acorn tortrix",
+    "ja": {
+      "summary": "サンカクモンヒメハマキ。ブナ科の樹林に見られるハマキガ科の小さな蛾。前翅に三角形の紋があるのが名の由来。幼虫はコナラ・クヌギなどのどんぐり（堅果）の内部を食べる。",
+      "habitat_hint": "ブナ科（コナラ・クヌギなど）の生える雑木林、林縁。",
+      "finding_tips": "初夏〜夏、ブナ科樹林で前翅に三角形の紋をもつ小さな蛾を探す。三角形の紋が識別点。"
+    },
+    "en": {
+      "summary": "An acorn tortrix (Cydia glandicolana) of oak woodland; a triangular mark on the forewing gives its Japanese name. The larvae feed inside the acorns of oaks such as konara and sawtooth oak.",
+      "habitat_hint": "Oak woodland and forest edges with beech-family trees.",
+      "finding_tips": "In early summer in oak woodland look for a small moth with a triangular forewing mark; the triangular mark is diagnostic."
+    },
+    "zh": {
+      "summary": "サンカクモンヒメハマキ。见于壳斗科林的卷蛾科小蛾，前翅具三角形斑（和名之源），幼虫蛀食枹栎、麻栎等橡实（坚果）内部。",
+      "habitat_hint": "生壳斗科（枹栎、麻栎等）的杂木林、林缘。",
+      "finding_tips": "初夏至夏于壳斗科林寻找前翅具三角斑之小蛾；三角斑为辨识点。"
+    }
+  },
+  "Cyperus longus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Galingale",
+    "aliases": {
+      "zh-Hans": "长根莎草"
+    },
+    "ja": {
+      "summary": "セイタカハマスゲ。湿地や水辺に生えるカヤツリグサ科の多年草。長く伸びる地下茎で広がり、三角形の稈の先に褐色の小穂を散開状につける。ハマスゲより大型で背が高い。",
+      "habitat_hint": "湿地、水辺、休耕田、河川敷の湿った場所。",
+      "finding_tips": "夏〜秋、水辺で三角形の稈の先に褐色の小穂を散開状につける背の高い草を探す。長い地下茎で群生する点が手がかり。"
+    },
+    "en": {
+      "summary": "Galingale (Cyperus longus). A perennial sedge of wetlands and watersides; it spreads by long rhizomes and bears brown spikelets in an open spray atop triangular stems. It is larger and taller than nutgrass.",
+      "habitat_hint": "Wetlands, watersides, fallow paddies and damp riverbanks.",
+      "finding_tips": "In summer–autumn at the waterside look for a tall sedge with brown spikelets in an open spray atop triangular stems; spreading by long rhizomes is a clue."
+    },
+    "zh": {
+      "summary": "セイタカハマスゲ（长根莎草）。生于湿地与水边的莎草科多年生草本，以长地下茎蔓延，三棱秆顶散生褐色小穗，较香附子更大更高。",
+      "habitat_hint": "湿地、水边、休耕田、河滩湿处。",
+      "finding_tips": "夏秋于水边寻找三棱秆顶散生褐色小穗的高草；长地下茎群生为线索。"
+    }
   }
 }
