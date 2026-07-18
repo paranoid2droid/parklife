@@ -262704,5 +262704,569 @@
       "habitat_hint": "浅砂底及富藻岩礁，潮下带。",
       "finding_tips": "于浅砂地寻找背具众多眼状斑的扁平海蛞蝓，借藻叶绿体行光合。"
     }
+  },
+  "Planaxis sulcatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Furrowed clusterwink",
+    "aliases": {
+      "zh-Hans": "沟纹拟蟹守螺"
+    },
+    "ja": {
+      "summary": "ゴマフニナ。房総半島以南の岩礁潮間帯に群れるクマサカガイ上科（ゴマフニナ科）の巻貝。殻高2cm前後、濃褐色に白い斑があり螺肋が明瞭。",
+      "habitat_hint": "暖海の岩礁・転石帯の潮間帯。潮だまりや岩の隙間。",
+      "finding_tips": "干潮時、岩の割れ目や転石の下に密集する黒っぽい小型巻貝を探す。螺肋と白斑が識別点。"
+    },
+    "en": {
+      "summary": "Furrowed clusterwink (Planaxis sulcatus). A small dark intertidal snail of warm rocky shores from the Boso Peninsula southward; shell about 2 cm, blackish-brown with white flecks and strong spiral cords.",
+      "habitat_hint": "Intertidal rocky and cobble shores of warm seas; tidepools and crevices.",
+      "finding_tips": "At low tide look in rock cracks and under boulders for clustered dark snails; the spiral cords and white spots are diagnostic."
+    },
+    "zh": {
+      "summary": "沟纹拟蟹守螺（ゴマフニナ）。分布于房总半岛以南暖海岩礁潮间带的小型螺，壳高约2厘米，深褐色带白斑，螺肋明显。",
+      "habitat_hint": "暖海岩礁与砾石潮间带；潮池与岩缝。",
+      "finding_tips": "退潮时在岩缝、石块下寻找成群的深色小螺；螺肋与白斑为辨识要点。"
+    }
+  },
+  "Platanthera hologlottis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water butterfly orchid",
+    "aliases": {
+      "zh-Hans": "湿地舌唇兰"
+    },
+    "ja": {
+      "summary": "ミズチドリ。北海道〜九州の日当たりの良い湿原に生えるラン科ツレサギソウ属の多年草。高さ50〜90cm、初夏に白い小花を穂状に多数つけ芳香がある。",
+      "habitat_hint": "日当たりの良い低地〜山地の湿原、湿った草地。",
+      "finding_tips": "6〜7月、湿原で白い花穂と甘い香りを頼りに探す。葉が細長く直立するのが特徴。"
+    },
+    "en": {
+      "summary": "Water butterfly orchid (Platanthera hologlottis). A perennial orchid of sunny bogs and wet meadows across Japan, 50–90 cm tall, bearing a fragrant spike of many small white flowers in early summer.",
+      "habitat_hint": "Sunny lowland to montane bogs and wet grassland.",
+      "finding_tips": "In June–July scan wetlands for white flower spikes and a sweet scent; the narrow erect leaves help confirm it."
+    },
+    "zh": {
+      "summary": "湿地舌唇兰（ミズチドリ）。分布于北海道至九州向阳湿原的兰科多年生草本，高50–90厘米，初夏抽出多花白色花穗，具芳香。",
+      "habitat_hint": "向阳的低地至山地湿原、湿润草甸。",
+      "finding_tips": "6至7月于湿原凭白色花穗与甜香寻找；细长直立的叶为特征。"
+    }
+  },
+  "Platanus orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oriental plane",
+    "aliases": {
+      "zh-Hans": "三球悬铃木"
+    },
+    "ja": {
+      "summary": "スズカケノキ。地中海〜西アジア原産のスズカケノキ科の落葉高木で、街路樹・公園樹として植栽される。掌状に深く裂ける大きな葉と、鈴のような球形の集合果が特徴。",
+      "habitat_hint": "公園・街路・キャンパスなどの植栽地。",
+      "finding_tips": "秋〜冬、細い柄からぶら下がる球形の果実（1本の柄に2〜3個）と斑にはがれる樹皮で見分ける。"
+    },
+    "en": {
+      "summary": "Oriental plane (Platanus orientalis). A large deciduous tree native to the Mediterranean and western Asia, widely planted as a street and park tree; noted for deeply palmate leaves and ball-shaped seed heads hung like bells.",
+      "habitat_hint": "Planted along streets, in parks and campuses.",
+      "finding_tips": "In autumn–winter look for hanging spherical fruit clusters (2–3 per stalk) and mottled flaking bark."
+    },
+    "zh": {
+      "summary": "三球悬铃木（スズカケノキ）。原产地中海至西亚的悬铃木科落叶乔木，广植为行道树与公园树；叶掌状深裂，球形聚合果如悬铃。",
+      "habitat_hint": "行道、公园、校园等栽培地。",
+      "finding_tips": "秋冬凭一柄常悬2–3枚球形果序与斑驳剥落的树皮辨识。"
+    }
+  },
+  "Platygyrium repens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat-brocade moss",
+    "ja": {
+      "summary": "イヌサナダゴケ。樹幹や倒木の上を這うシトネゴケ科の蘚類。茎は羽状に分枝し、光沢のある黄緑色のマットをつくる。無性芽をつけて繁殖することが多い。",
+      "habitat_hint": "樹幹の基部、倒木、切株の樹皮上。",
+      "finding_tips": "年間を通じ、湿った樹皮上の光沢ある黄緑のマットを探す。枝先の無性芽の房が識別の助けになる。"
+    },
+    "en": {
+      "summary": "Flat-brocade moss (Platygyrium repens). A pleurocarpous moss creeping over tree trunks and logs, forming glossy yellow-green mats with pinnate branching; it often reproduces by clusters of brood branchlets.",
+      "habitat_hint": "Trunk bases, fallen logs and stump bark.",
+      "finding_tips": "Year-round, look for glossy yellow-green mats on damp bark; the tufts of gemma-like branchlets at shoot tips aid identification."
+    },
+    "zh": {
+      "summary": "犬真田藓（イヌサナダゴケ）。爬于树干与倒木的侧蒴藓类，羽状分枝，形成有光泽的黄绿色垫，常以芽胞状小枝繁殖。",
+      "habitat_hint": "树干基部、倒木、树桩树皮。",
+      "finding_tips": "全年在潮湿树皮上寻找有光泽的黄绿藓垫；枝端成簇的繁殖小枝为辨识助力。"
+    }
+  },
+  "Platynychus nothus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large flower click beetle",
+    "ja": {
+      "summary": "オオハナコメツキ。本州〜九州の低山地に見られるコメツキムシ科の甲虫。体長1cm前後、黒褐色で微毛におおわれ、花に集まる。触れると胸の関節ではねて起き上がる。",
+      "habitat_hint": "雑木林の林縁、草地、花の咲く低木。",
+      "finding_tips": "5〜7月、日当たりの良い花上を探す。仰向けにするとパチンとはねる動作で見分けられる。"
+    },
+    "en": {
+      "summary": "A flower-visiting click beetle (Platynychus nothus) of low hills from Honshu to Kyushu; about 1 cm, dark brown and finely hairy, it gathers on blossoms and snaps upright with an audible click when overturned.",
+      "habitat_hint": "Woodland edges, grassland and flowering shrubs.",
+      "finding_tips": "In May–July check sunlit flowers; flip one over and the audible clicking jump confirms it as a click beetle."
+    },
+    "zh": {
+      "summary": "大花叩甲（オオハナコメツキ）。分布于本州至九州低山的叩甲科甲虫，体长约1厘米，黑褐色被细毛，喜访花，翻覆时以胸部关节弹跳翻正并发声。",
+      "habitat_hint": "杂木林林缘、草地、开花灌木。",
+      "finding_tips": "5至7月在向阳花上寻找；翻转后弹跳翻身并发出咔声即可确认。"
+    }
+  },
+  "Platypleura kuroiwae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kuroiwa's cicada",
+    "aliases": {
+      "zh-Hans": "黑岩宽翅蝉"
+    },
+    "ja": {
+      "summary": "クロイワニイニイ。奄美・沖縄などの南西諸島に分布するニイニイゼミ属のセミ。ニイニイゼミに似るが小型で、樹皮に紛れる灰褐色のまだら模様をもつ。",
+      "habitat_hint": "亜熱帯の樹林、林縁の樹幹。",
+      "finding_tips": "初夏〜夏、樹幹に静止する小型のまだらのセミを探す。「チー…」と控えめに鳴く声も手がかり。"
+    },
+    "en": {
+      "summary": "Kuroiwa's cicada (Platypleura kuroiwae). A small cicada of the Nansei (Ryukyu) Islands including Amami and Okinawa; resembling the robust cicada but smaller, with grey-brown mottling that blends into bark.",
+      "habitat_hint": "Subtropical forest and forest-edge tree trunks.",
+      "finding_tips": "In early summer look for small mottled cicadas resting on trunks; the soft continuous buzz is a clue."
+    },
+    "zh": {
+      "summary": "黑岩宽翅蝉（クロイワニイニイ）。分布于奄美、冲绳等南西诸岛的蝉，形似姬蝉但更小，具灰褐斑纹以隐于树皮。",
+      "habitat_hint": "亚热带树林与林缘树干。",
+      "finding_tips": "初夏至夏在树干上寻找伏止的小型斑纹蝉；轻柔的连续鸣声亦为线索。"
+    }
+  },
+  "Plicaturopsis crispa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crimped gill",
+    "aliases": {
+      "zh-Hans": "皱波革菌"
+    },
+    "ja": {
+      "summary": "チヂレタケ。広葉樹の枯枝に群生する小型のキノコ。半円形〜扇形の傘は黄褐色で縁が波打ち、裏面は白くしわ状のひだをもつ。木材腐朽菌。",
+      "habitat_hint": "広葉樹（ハンノキ・カバなど）の落枝・枯れ枝。",
+      "finding_tips": "秋〜冬、枯枝に重なって生える小さな扇形のキノコを探す。縁の縮れと白いしわ状のひだが識別点。"
+    },
+    "en": {
+      "summary": "Crimped gill (Plicaturopsis crispa). A small wood-rotting fungus growing in troops on dead hardwood branches; the fan-shaped caps are tan with wavy crimped margins and a whitish, wrinkled fold-like underside.",
+      "habitat_hint": "Dead and fallen branches of hardwoods (alder, birch, etc.).",
+      "finding_tips": "In autumn–winter look for overlapping small fan-shaped brackets on dead twigs; the crimped edge and wrinkled underside are diagnostic."
+    },
+    "zh": {
+      "summary": "皱波革菌（チヂレタケ）。群生于阔叶树枯枝的小型木腐菌，扇形菌盖黄褐色、边缘波状皱曲，下面白色具皱褶状褶。",
+      "habitat_hint": "阔叶树（桤木、桦等）的落枝、枯枝。",
+      "finding_tips": "秋冬在枯枝上寻找叠生的小扇形菌；皱曲的边缘与皱褶下面为辨识点。"
+    }
+  },
+  "Plicifusus kroyeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kroyer's whelk",
+    "ja": {
+      "summary": "オオエゾシワバイ。北日本〜オホーツク海の冷たい海の砂泥底にすむエゾバイ科の巻貝。殻高5〜7cm、紡錘形で縦の畝と細い螺肋があり、殻表は褐色の殻皮におおわれる。",
+      "habitat_hint": "寒海の水深数十m〜の砂泥底。",
+      "finding_tips": "底引き網や漂着貝で見つかる。紡錘形で縦畝のある大型のシワバイ類として区別する。"
+    },
+    "en": {
+      "summary": "Kroyer's whelk (Plicifusus kroyeri). A spindle-shaped buccinid snail of cold northern seas around Japan and the Sea of Okhotsk, living on sand-mud bottoms; shell 5–7 cm with axial ribs and fine spiral cords under a brown periostracum.",
+      "habitat_hint": "Cold-water sand and mud bottoms from tens of metres deep.",
+      "finding_tips": "Found in trawls or as beach-cast shells; recognise it as a large spindle-shaped whelk with axial ribbing."
+    },
+    "zh": {
+      "summary": "克氏皱峨螺（オオエゾシワバイ）。栖于日本北部及鄂霍次克海冷水砂泥底的蛾螺科螺，壳高5–7厘米，纺锤形具纵肋与细螺肋，外被褐色壳皮。",
+      "habitat_hint": "寒海数十米以深的砂泥底。",
+      "finding_tips": "见于拖网或滩涂拾获空壳；以纵肋纺锤形的大型皱峨螺辨识。"
+    }
+  },
+  "Plicomugil labiosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hornlip mullet",
+    "aliases": {
+      "zh-Hans": "厚唇鲻"
+    },
+    "ja": {
+      "summary": "ワニグチボラ。南日本〜インド太平洋の沿岸に分布するボラ科の魚。上唇が厚く前に突き出し、乳頭状の突起が並ぶのが特徴。河口や内湾の浅所を群れで泳ぐ。",
+      "habitat_hint": "河口・内湾・岩礁縁の浅い汽水〜海水域。",
+      "finding_tips": "浅場を泳ぐボラ類の中で、極端に厚く突き出た上唇があれば本種。潮だまりの群れでも観察できる。"
+    },
+    "en": {
+      "summary": "Hornlip mullet (Plicomugil labiosus). A mullet of southern Japan and the Indo-Pacific coasts, distinguished by a thick, forward-projecting upper lip fringed with papillae; it schools in shallow estuaries and bays.",
+      "habitat_hint": "Estuaries, sheltered bays and reef margins in shallow brackish to marine water.",
+      "finding_tips": "Among shallow-water mullets, the strikingly thick papillate upper lip marks this species; schools appear even in tidepools."
+    },
+    "zh": {
+      "summary": "厚唇鲻（ワニグチボラ）。分布于南日本至印度太平洋沿岸的鲻科鱼，上唇厚而前突并具乳突为特征，成群游于河口内湾浅处。",
+      "habitat_hint": "河口、内湾、礁缘的浅汽水至海水区。",
+      "finding_tips": "浅水鲻类中，若上唇极厚前突且具乳突即为本种；潮池成群亦可观察。"
+    }
+  },
+  "Polinices meisensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Meisen moon snail",
+    "ja": {
+      "summary": "メイセンタマガイ。日本沿岸の砂底にすむタマガイ科の巻貝。球形で殻表は淡褐色になめらか、へそが深い。砂中の二枚貝を穿孔して捕食する肉食性の巻貝。",
+      "habitat_hint": "内湾〜浅海の砂底。",
+      "finding_tips": "砂浜の漂着貝で、丸くつやのある淡色の殻とへその穴を探す。砂中に潜って移動する。"
+    },
+    "en": {
+      "summary": "A moon snail (Polinices meisensis) of sandy bottoms around Japan; the globular shell is smooth and pale brown with a deep umbilicus. Like other moon snails it is a predator that drills into buried bivalves.",
+      "habitat_hint": "Sandy bottoms of bays and shallow seas.",
+      "finding_tips": "Among beach-cast shells look for a rounded glossy pale shell with a deep navel-like umbilicus; it burrows through sand."
+    },
+    "zh": {
+      "summary": "名泉玉螺（メイセンタマガイ）。栖于日本沿岸砂底的玉螺科螺，壳球形、淡褐色而光滑，脐深。与其他玉螺一样为肉食性，钻孔捕食埋沙的双壳类。",
+      "habitat_hint": "内湾至浅海砂底。",
+      "finding_tips": "在滩涂拾获的空壳中寻找圆润光滑的淡色壳与深脐；活体潜沙移动。"
+    }
+  },
+  "Polycera japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese polycera",
+    "aliases": {
+      "zh-Hans": "日本多角海牛"
+    },
+    "ja": {
+      "summary": "オウカンウミウシ。北日本〜本州沿岸の岩礁にすむドーリス系のウミウシ（フジタウミウシ科）。半透明白色の体に黄橙色の斑と突起があり、頭部前縁の突起が王冠のように見える。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、海藻・コケムシの上。",
+      "finding_tips": "春〜初夏、コケムシの生えた岩や海藻上を探す。頭前縁に並ぶ冠状の突起と黄橙の斑が識別点。"
+    },
+    "en": {
+      "summary": "Japanese polycera (Polycera japonica). A sea slug of rocky shores from northern to central Japan; the translucent white body bears yellow-orange spots and papillae, with crown-like frontal processes on the head.",
+      "habitat_hint": "Intertidal to shallow subtidal rock, on algae and bryozoans.",
+      "finding_tips": "In spring–early summer search bryozoan-covered rocks and weed; the crown of frontal processes and orange markings identify it."
+    },
+    "zh": {
+      "summary": "日本多角海牛（オウカンウミウシ）。栖于北至中部日本沿岸岩礁的海牛，半透明白色体带黄橙斑与突起，头前缘突起如冠。",
+      "habitat_hint": "潮间带至浅海岩礁，附于海藻与苔虫。",
+      "finding_tips": "春至初夏在长苔虫的岩石与海藻上寻找；头前的冠状突起与橙斑为辨识点。"
+    }
+  },
+  "Polydactylus plebeius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Striped threadfin",
+    "aliases": {
+      "zh-Hans": "六指多指马鲅"
+    },
+    "ja": {
+      "summary": "ツバメコノシロ。南日本〜インド太平洋の砂浜海岸や河口に分布するツバメコノシロ科の魚。胸びれの下部が数本の遊離した糸状軟条に分かれ、砂底の獲物を探るのに使う。体側に縦帯が走る。",
+      "habitat_hint": "砂浜海岸の波打ち際、河口・汽水域。",
+      "finding_tips": "投げ釣りや浅場で、胸びれ下に垂れる数本の糸状ひげ（遊離軟条）があれば本種。体側の縦線も手がかり。"
+    },
+    "en": {
+      "summary": "Striped threadfin (Polydactylus plebeius). A threadfin of sandy surf beaches and estuaries from southern Japan across the Indo-Pacific; the lower pectoral fin splits into several free thread-like rays used to probe the bottom, and dark stripes run along the flank.",
+      "habitat_hint": "Sandy surf beaches, estuaries and brackish water.",
+      "finding_tips": "In the surf zone or on light tackle, several free filament-like rays below the pectoral fin identify it; the flank stripes help too."
+    },
+    "zh": {
+      "summary": "六指多指马鲅（ツバメコノシロ）。分布于南日本至印度太平洋砂滩与河口的马鲅科鱼，胸鳍下部分离为数条丝状游离鳍条以探底觅食，体侧具纵纹。",
+      "habitat_hint": "砂质海滩碎浪带、河口与汽水域。",
+      "finding_tips": "碎浪区或轻钓时，胸鳍下若有数条丝状游离鳍条即为本种；体侧纵纹亦为线索。"
+    }
+  },
+  "Polyopes prolifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rice-grain red alga",
+    "ja": {
+      "summary": "コメノリ。本州以南の潮間帯下部の岩上に生える紅藻。扁平で二又分枝し、暗紅色の葉状体をつくる。表面に小さな突起（増殖枝）を密生する。食用にされることもある。",
+      "habitat_hint": "潮間帯下部〜漸深帯の岩上。やや波あたりのある場所。",
+      "finding_tips": "春〜初夏、岩上の暗紅色で二又に分かれる平たい海藻を探す。表面のざらつく小突起が識別の助け。"
+    },
+    "en": {
+      "summary": "A red alga (Polyopes prolifer) growing on rocks in the lower intertidal from central Japan southward; the flattened, dichotomously branched dark-red fronds are densely beset with small proliferous outgrowths, and it is sometimes eaten.",
+      "habitat_hint": "Rocks of the lower intertidal to shallow subtidal, in moderately exposed spots.",
+      "finding_tips": "In spring–early summer look for flat dark-red forking seaweed on rock; the rough surface bumps (proliferations) help confirm it."
+    },
+    "zh": {
+      "summary": "米海苔（コメノリ）。生于本州以南潮间带下部岩上的红藻，叶状体扁平二叉分枝、暗红色，表面密生小增殖突起，亦可食用。",
+      "habitat_hint": "潮间带下部至浅潮下带岩面，略有波浪处。",
+      "finding_tips": "春至初夏在岩上寻找暗红扁平二叉分枝的海藻；表面粗糙的小突起为辨识助力。"
+    }
+  },
+  "Polytrichum juniperinum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Juniper haircap moss",
+    "aliases": {
+      "zh-Hans": "桧叶金发藓"
+    },
+    "ja": {
+      "summary": "スギゴケ（ジュニパースギゴケ）。日当たりの良い痩せ地に群生するスギゴケ科の大型蘚類。直立する茎に硬い針状の葉が密につき、葉先が赤褐色に色づくのが特徴。乾くと葉が茎に沿って閉じる。",
+      "habitat_hint": "日当たりのよい裸地、砂質・礫質の痩せ地、火山灰地。",
+      "finding_tips": "年間を通じ、乾いた開けた地面に密生するスギ状のコケを探す。葉先の赤褐色に内曲する縁が近縁種との区別点。"
+    },
+    "en": {
+      "summary": "Juniper haircap moss (Polytrichum juniperinum). A robust haircap moss forming turfs on sunny, poor soils; erect stems bear stiff needle-like leaves whose reddish-brown tips are inrolled, and the leaves clasp the stem when dry.",
+      "habitat_hint": "Open sunny bare ground, sandy or gravelly poor soils and volcanic ash.",
+      "finding_tips": "Year-round, look for haircap turfs on dry open ground; the reddish incurved leaf margins distinguish it from relatives."
+    },
+    "zh": {
+      "summary": "桧叶金发藓（スギゴケ）。丛生于向阳贫瘠地的金发藓科大型藓类，直立茎密生硬针状叶，叶尖红褐色内卷，干时叶贴茎。",
+      "habitat_hint": "向阳裸地、砂砾贫瘠土、火山灰地。",
+      "finding_tips": "全年在干燥开阔地寻找金发藓状丛；叶缘红褐内卷是与近缘种的区别。"
+    }
+  },
+  "Porphyra pseudolinearis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter laver",
+    "ja": {
+      "summary": "ウップルイノリ。日本海側〜北日本の冬の岩礁に生える紅藻（アマノリ類）。細長い葉状体で暗紫〜紫褐色。古くから食用の高級ノリとして知られ、島根の十六島（うっぷるい）が名の由来。",
+      "habitat_hint": "冬季、波あたりの強い潮間帯上部の岩上。",
+      "finding_tips": "冬、荒磯の岩上に張りつく細長い紫褐色の葉状のノリを探す。他のアマノリより細葉で冬に繁茂する。"
+    },
+    "en": {
+      "summary": "Winter laver (Porphyra pseudolinearis). A red alga (laver) growing on winter rocky shores of the Sea of Japan coast and northern Japan; the narrow dark purple-brown blades are prized as premium edible nori, named after Uppurui in Shimane.",
+      "habitat_hint": "Upper intertidal rock in wave-exposed sites, in winter.",
+      "finding_tips": "In winter look for narrow purple-brown sheet-like laver clinging to exposed rocks; its slender blades and winter growth distinguish it."
+    },
+    "zh": {
+      "summary": "十六岛紫菜（ウップルイノリ）。生于日本海侧及北日本冬季岩礁的红藻（紫菜类），叶状体细长、暗紫褐色，自古为高级食用紫菜，得名于岛根十六岛。",
+      "habitat_hint": "冬季波浪强的潮间带上部岩面。",
+      "finding_tips": "冬季在荒磯岩上寻找贴附的细长紫褐色片状紫菜；叶窄且冬季繁盛为特征。"
+    }
+  },
+  "Portulaca umbraticola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wingpod purslane",
+    "aliases": {
+      "zh-Hans": "阔叶马齿苋"
+    },
+    "ja": {
+      "summary": "ハナスベリヒユ。園芸で広く栽培されるスベリヒユ科の多肉質一年草で、ポーチュラカの名で流通する。多肉の葉と、赤・黄・橙・白など鮮やかな花を日中に開く。花壇・鉢植えで普通。",
+      "habitat_hint": "花壇、プランター、日当たりの良い乾いた場所。",
+      "finding_tips": "夏、日なたの花壇で多肉の葉と鮮やかな一重〜八重の花を探す。曇天や夕方には花が閉じる。"
+    },
+    "en": {
+      "summary": "Wingpod purslane (Portulaca umbraticola). A succulent annual of the purslane family widely grown as 'Portulaca'; it has fleshy leaves and bright red, yellow, orange or white flowers that open in daytime, common in beds and pots.",
+      "habitat_hint": "Flower beds, planters and sunny dry sites.",
+      "finding_tips": "In summer look in sunny beds for fleshy-leaved plants with vivid single to double flowers; blooms close on cloudy days and in the evening."
+    },
+    "zh": {
+      "summary": "阔叶马齿苋（ハナスベリヒユ）。广泛栽培的马齿苋科多肉一年生草本，以“太阳花／半支莲”之名流通，肉质叶，白昼开红黄橙白等艳丽花。",
+      "habitat_hint": "花坛、花盆、向阳干燥处。",
+      "finding_tips": "夏季在向阳花坛寻找肉质叶与艳丽单瓣至重瓣花；阴天与傍晚花闭合。"
+    }
+  },
+  "Portunus trituberculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gazami swimming crab",
+    "aliases": {
+      "zh-Hans": "三疣梭子蟹"
+    },
+    "ja": {
+      "summary": "ガザミ。北海道南部以南の内湾・砂泥底にすむワタリガニ科の大型カニで、食用として重要。甲は横に張った菱形で左右に鋭いとげ、最後脚が遊泳用のオール状になる。甲中央に3つのこぶがある。",
+      "habitat_hint": "内湾・河口の砂泥底、水深数m〜数十m。",
+      "finding_tips": "干潟や浅場、漁獲物で、菱形の甲・左右の長い鋭刺・平たい遊泳脚をもつ大型ガニを探す。甲中央の3こぶが決め手。"
+    },
+    "en": {
+      "summary": "Gazami swimming crab (Portunus trituberculatus). A large, commercially important swimming crab of sheltered sandy-mud bays from southern Hokkaido southward; the diamond-shaped carapace has long lateral spines, paddle-like hind legs, and three tubercles down the middle.",
+      "habitat_hint": "Sand-mud bottoms of bays and estuaries, a few to tens of metres deep.",
+      "finding_tips": "On tidal flats, in shallows or catches, look for a large crab with a wide diamond carapace, long side spines and paddle hind legs; the three central bumps clinch it."
+    },
+    "zh": {
+      "summary": "三疣梭子蟹（ガザミ）。栖于北海道南部以南内湾砂泥底的大型梭子蟹，为重要食用蟹；头胸甲横菱形、两侧具长锐刺，末对步足呈桨状游泳足，甲中央有三疣。",
+      "habitat_hint": "内湾、河口砂泥底，水深数米至数十米。",
+      "finding_tips": "在滩涂、浅水或渔获中寻找横菱形甲、两侧长刺、桨状游泳足的大蟹；甲中三疣为决定性特征。"
+    }
+  },
+  "Pristosia aeneola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender flat ground beetle",
+    "ja": {
+      "summary": "ホソヒラタゴミムシ。本州〜九州の平地〜低山にすむオサムシ科（ゴミムシ類）の甲虫。体長1cm前後、細長く扁平で黒〜黒褐色に金属光沢。石下や落葉下にひそみ、夜に活動する。",
+      "habitat_hint": "林床の落葉下、石下、湿った地表。",
+      "finding_tips": "石や倒木をめくると現れる、細長く平たい光沢のある地表性甲虫を探す。素早く物陰へ走り込む。"
+    },
+    "en": {
+      "summary": "A slender flat ground beetle (Pristosia aeneola) of lowlands and low hills from Honshu to Kyushu; about 1 cm, elongate and flattened, black to brownish-black with a metallic sheen, hiding under stones and leaf litter and active at night.",
+      "habitat_hint": "Under leaf litter and stones on damp forest floor.",
+      "finding_tips": "Turn stones and logs to find an elongate, flattened, glossy ground beetle that dashes quickly for cover."
+    },
+    "zh": {
+      "summary": "细扁步甲（ホソヒラタゴミムシ）。分布于本州至九州平地及低山的步甲科甲虫，体长约1厘米，细长扁平，黑至黑褐色具金属光泽，伏于石下落叶下，夜间活动。",
+      "habitat_hint": "林下落叶层、石下、潮湿地表。",
+      "finding_tips": "翻开石块或倒木可见细长扁平有光泽的地表甲虫，受惊迅速奔入隐蔽处。"
+    }
+  },
+  "Propeamussium sibogai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glass scallop",
+    "ja": {
+      "summary": "クラゲツキヒガイ。深海の泥底にすむナデシコガイ科の二枚貝。殻は薄く半透明で光沢があり、内面に放射状の肋（内肋）をもつ。生時はクラゲなどに付着することからの名という。",
+      "habitat_hint": "水深数百mの深海泥底。",
+      "finding_tips": "深海調査や底引きの副産物として得られる。薄く半透明で内側に放射肋のある小型のツキヒガイ類として区別する。"
+    },
+    "en": {
+      "summary": "A glass scallop (Propeamussium sibogai), a deep-sea bivalve of muddy bottoms; the shell is thin, translucent and glossy with internal radial ribs. Its Japanese name refers to an association with jellyfish.",
+      "habitat_hint": "Deep-sea mud bottoms, several hundred metres down.",
+      "finding_tips": "Obtained mainly from deep-sea sampling or trawls; recognise it as a thin, translucent small scallop with internal radial ribbing."
+    },
+    "zh": {
+      "summary": "西波加拟花海扇蛤（クラゲツキヒガイ）。栖于深海泥底的拟日月蛤科双壳类，壳薄而半透明具光泽，内面有放射内肋，和名指其与水母的关联。",
+      "habitat_hint": "数百米深的深海泥底。",
+      "finding_tips": "多由深海采样或拖网获得；以薄而半透明、内具放射肋的小型日月蛤类辨识。"
+    }
+  },
+  "Pseudoaustroboletus valens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rosy-cheeked bolete",
+    "ja": {
+      "summary": "ホオベニシロアシイグチ。夏〜秋、広葉樹林の地上に発生するイグチ科のキノコ。傘は灰白〜淡褐色、柄は白く網目状の隆起があり、傷つくと頬紅のように淡紅色を帯びる。菌根菌。",
+      "habitat_hint": "広葉樹林（ブナ科など）の地上。夏〜秋。",
+      "finding_tips": "夏〜秋、林床で白い網目の柄をもつ淡色のイグチを探す。柄に現れる淡紅色の色づきが識別点。"
+    },
+    "en": {
+      "summary": "Rosy-cheeked bolete (Pseudoaustroboletus valens). A bolete of broadleaf forest floors in summer to autumn; the greyish to pale-brown cap sits on a white reticulate stem that flushes faintly rosy where handled. It is mycorrhizal.",
+      "habitat_hint": "On the ground in broadleaf (oak/beech) forest, summer–autumn.",
+      "finding_tips": "In summer–autumn look for a pale bolete with a white net-patterned stem; the faint rosy flush on the stem is diagnostic."
+    },
+    "zh": {
+      "summary": "颊红白脚牛肝菌（ホオベニシロアシイグチ）。夏秋发生于阔叶林地面的牛肝菌，菌盖灰白至淡褐，柄白具网纹，触伤处泛淡红如颊红，为菌根菌。",
+      "habitat_hint": "阔叶（壳斗科等）林地面，夏至秋。",
+      "finding_tips": "夏秋在林下寻找柄具白色网纹的淡色牛肝菌；柄上泛出的淡红色为辨识点。"
+    }
+  },
+  "Pseudocyphellaria aurata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Specklebelly lichen",
+    "ja": {
+      "summary": "キンブチゴケ。暖地の樹幹や岩上に着生する大型の葉状地衣（コケではなく地衣類）。裂片の縁や裏面に黄色い粉状の構造（ソラリア・偽杯点）をもち、名の「金縁」の由来となっている。",
+      "habitat_hint": "暖温帯〜亜熱帯の樹幹、コケむした岩上。湿度の高い林。",
+      "finding_tips": "湿った林の樹幹で、裂片の縁が黄色く縁取られる大型の葉状地衣を探す。裏面の黄色い粉状部が決め手。"
+    },
+    "en": {
+      "summary": "Specklebelly lichen (Pseudocyphellaria aurata). A large foliose lichen (not a moss) growing on trunks and rocks in warm regions; yellow soralia and pseudocyphellae edge the lobes and undersurface, giving its 'gold-rimmed' Japanese name.",
+      "habitat_hint": "Trunks and mossy rocks in warm-temperate to subtropical, humid forest.",
+      "finding_tips": "In humid forest look on trunks for a large leafy lichen with yellow-rimmed lobes; the yellow powdery patches beneath clinch it."
+    },
+    "zh": {
+      "summary": "金缘肺衣（キンブチゴケ）。着生于暖地树干与岩石的大型叶状地衣（非藓类），裂片边缘与背面具黄色粉状的粉芽与假杯点，故名“金缘”。",
+      "habitat_hint": "暖温带至亚热带湿润林的树干、长苔岩石。",
+      "finding_tips": "湿润林中于树干寻找裂片边缘镶黄的大型叶状地衣；背面黄色粉斑为决定特征。"
+    }
+  },
+  "Pseudonebularia chrysalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chrysalis miter shell",
+    "ja": {
+      "summary": "マユフデガイ。房総半島以南のサンゴ礁・岩礁の潮間帯〜浅海にすむフデガイ科の小型巻貝。殻は紡錘形で厚く、繭のようなふくらみと褐色地に白帯をもつ。肉食性で他の小動物を捕食する。",
+      "habitat_hint": "暖海の岩礁・サンゴ礁の潮間帯〜浅所、転石下。",
+      "finding_tips": "干潮時に転石をめくり、繭形でずんぐりした褐色に白帯の小さな巻貝を探す。厚い殻と紡錘形が識別点。"
+    },
+    "en": {
+      "summary": "Chrysalis miter shell (Pseudonebularia chrysalis). A small mitre snail of coral and rocky intertidal to shallow water from the Boso Peninsula southward; the thick, cocoon-shaped fusiform shell is brown with white banding. It is a predatory snail.",
+      "habitat_hint": "Warm-water rocky and coral intertidal to shallows, under stones.",
+      "finding_tips": "At low tide turn boulders for a small stout cocoon-shaped brown shell with white bands; the thick fusiform form identifies it."
+    },
+    "zh": {
+      "summary": "茧笔螺（マユフデガイ）。栖于房总半岛以南珊瑚礁与岩礁潮间带至浅海的笔螺科小螺，壳纺锤形而厚、如茧鼓胀，褐地具白带，肉食性。",
+      "habitat_hint": "暖海岩礁与珊瑚礁潮间带至浅处，石块下。",
+      "finding_tips": "退潮翻石寻找茧形粗壮、褐地白带的小螺；厚壳纺锤形为辨识点。"
+    }
+  },
+  "Pseudopleuronectes yokohamae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marbled flounder",
+    "aliases": {
+      "zh-Hans": "钝吻黄盖鲽"
+    },
+    "ja": {
+      "summary": "マコガレイ。北海道〜九州の内湾・砂泥底にすむカレイ科の魚で、食用の代表的なカレイ。両眼が右側にあり、有眼側は褐色に不規則な斑紋、無眼側は白い。夏の「城下かれい」など地域ブランドでも知られる。",
+      "habitat_hint": "内湾・沿岸の砂泥底、水深数m〜数十m。",
+      "finding_tips": "砂泥底に潜み目だけ出す。有眼側のまだら模様と、口が小さいことでイシガレイなどと区別する。"
+    },
+    "en": {
+      "summary": "Marbled flounder (Pseudopleuronectes yokohamae). A right-eyed flatfish of sandy-mud bays from Hokkaido to Kyushu and a prized food fish; the eyed side is brown with irregular mottling, the blind side white. It is famed in regional brands.",
+      "habitat_hint": "Sand-mud bottoms of bays and coasts, a few to tens of metres deep.",
+      "finding_tips": "It lies buried with only the eyes showing; the mottled eyed side and small mouth separate it from related flounders."
+    },
+    "zh": {
+      "summary": "钝吻黄盖鲽（マコガレイ）。栖于北海道至九州内湾砂泥底的鲽科鱼，为代表性食用鲽；两眼位右侧，有眼侧褐色具不规则斑纹，无眼侧白，为多地名产。",
+      "habitat_hint": "内湾与沿岸砂泥底，水深数米至数十米。",
+      "finding_tips": "潜伏砂泥仅露双眼；以有眼侧斑纹与口小与石鲽等区分。"
+    }
+  },
+  "Pseudovelia tibialis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Riffle water cricket",
+    "ja": {
+      "summary": "ナガレカタビロアメンボ。渓流や細流の水面にすむカタビロアメンボ科の小型水生カメムシ。体長2mm前後、黒褐色で流れの緩い水面を素早く走る。落葉や岩陰の淀みに群れることが多い。",
+      "habitat_hint": "山地の渓流・細流、流れの緩い水面や淀み。",
+      "finding_tips": "沢の淀みや岩陰の水面を走る、2mmほどの黒い小さなアメンボ状の虫を探す。群れて動く様子が手がかり。"
+    },
+    "en": {
+      "summary": "A small riffle bug (Pseudovelia tibialis) living on the surface of streams and rivulets; about 2 mm, dark brown, it skates quickly over slow water and often gathers in eddies among leaves and rock shade.",
+      "habitat_hint": "Montane streams and rivulets, on slow water and eddies.",
+      "finding_tips": "Look on the surface of stream eddies and shaded pockets for tiny 2-mm dark skating bugs, usually moving in small groups."
+    },
+    "zh": {
+      "summary": "溪流宽肩黾（ナガレカタビロアメンボ）。栖于溪流细流水面的宽肩黾科小型水生蝽，体长约2毫米、黑褐色，在缓流水面迅速滑行，常聚于落叶岩阴的回水。",
+      "habitat_hint": "山地溪流细流，缓流水面与回水处。",
+      "finding_tips": "在溪流回水与岩阴水面寻找约2毫米黑色滑行的小虫，常成群移动。"
+    }
   }
 }
