@@ -265424,5 +265424,549 @@
       "habitat_hint": "针叶树桩、倒木、加工木材、贮木场。",
       "finding_tips": "针叶树材上寻找无柄扇形黄褐色菌；密而波状菌褶为辨识点，不宜食。"
     }
+  },
+  "Tenguella musiva": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mosaic rock snail",
+    "ja": {
+      "summary": "シマレイシガイダマシ。南日本の潮間帯の岩礁に生息するアクキガイ科の小型の巻貝。殻はごつごつした彫刻をもち、暗色の斑がモザイク状に並ぶ。フジツボや他の貝を捕食する肉食性。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、転石の下、岩の隙間。",
+      "finding_tips": "干潮時、岩礁でごつごつした彫刻とモザイク状の斑をもつ小さな巻貝を探す。"
+    },
+    "en": {
+      "summary": "A small muricid rock snail of intertidal reefs in southern Japan; the roughly sculptured shell bears dark mosaic-like blotches. It is a predator of barnacles and other shellfish.",
+      "habitat_hint": "Intertidal to subtidal reefs, under boulders and in crevices.",
+      "finding_tips": "At low tide on rocky shores look for a small snail with rough sculpture and dark mosaic blotches."
+    },
+    "zh": {
+      "summary": "シマレイシガイダマシ。栖于南日本潮间带岩礁的骨螺科小型螺，壳雕刻粗糙、具暗色斑呈镶嵌状，肉食性，捕食藤壶与其他贝类。",
+      "habitat_hint": "潮间带至潮下带岩礁、砾石下、岩隙。",
+      "finding_tips": "退潮时于岩礁寻找雕刻粗糙、暗斑镶嵌的小螺。"
+    }
+  },
+  "Tetraneura nigriabdominalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rice root aphid",
+    "ja": {
+      "summary": "アキニレヨスジワタムシ。ニレ類を一次寄主とするアブラムシ科の昆虫。春にアキニレの葉に虫こぶ（虫えい）をつくり、夏はイネ科植物の根で暮らす寄主転換を行う。有翅型は白い綿状の分泌物をまとう。",
+      "habitat_hint": "アキニレの生える林縁・公園、イネ科草本の根際。",
+      "finding_tips": "春、アキニレの葉にできる袋状の虫こぶを探す。中に集まるアブラムシと綿状分泌物が手がかり。"
+    },
+    "en": {
+      "summary": "Rice root aphid (Tetraneura nigriabdominalis). An aphid that uses elm as its primary host, forming leaf galls on Chinese elm in spring and living on the roots of grasses in summer. Winged forms bear white waxy secretions.",
+      "habitat_hint": "Elm-bearing forest edges and parks; roots of grasses.",
+      "finding_tips": "In spring look for pouch-like galls on Chinese elm leaves; the aphids inside and their white waxy wool are clues."
+    },
+    "zh": {
+      "summary": "アキニレヨスジワタムシ。以榆为一次寄主的蚜科昆虫，春在榔榆叶上形成虫瘿，夏移居禾本科植物根部行寄主转换，有翅型披白色蜡质绵毛。",
+      "habitat_hint": "生榔榆的林缘、公园；禾本科草本根际。",
+      "finding_tips": "春于榔榆叶寻找囊状虫瘿；瘿内蚜虫与白色绵毛为线索。"
+    }
+  },
+  "Thelephora aurantiotincta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange earthfan",
+    "ja": {
+      "summary": "ボタンイボタケ。マツ林や広葉樹林の地上に発生するイボタケ科のキノコ。漏斗状〜扇形の子実体が重なり、若いうちは橙色を帯び、成熟すると褐色になる。食用とされる地方がある。",
+      "habitat_hint": "マツ林、広葉樹林、混交林の地上。",
+      "finding_tips": "秋、林床で漏斗状に重なり橙色を帯びる革質のキノコを探す。裏面のいぼ状の子実層が識別点。"
+    },
+    "en": {
+      "summary": "An earthfan fungus fruiting on the ground in pine and broadleaf forests; funnel- to fan-shaped fruit bodies overlap, tinged orange when young and browning with age. It is eaten in some regions.",
+      "habitat_hint": "On the ground in pine, broadleaf and mixed forests.",
+      "finding_tips": "In autumn on the forest floor look for leathery orange-tinged funnels overlapping; the warty under-surface is diagnostic."
+    },
+    "zh": {
+      "summary": "ボタンイボタケ。发生于松林与阔叶林地上的革菌科菌，漏斗至扇形子实体重叠，幼时带橙色、老熟转褐，部分地区可食。",
+      "habitat_hint": "松林、阔叶林、混交林地上。",
+      "finding_tips": "秋于林床寻找漏斗状重叠、带橙色的革质菌；背面疣状子实层为辨识点。"
+    }
+  },
+  "Thuidium delicatulum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コバノエゾシノブゴケ。林床や岩上、朽木に群生するシノブゴケ科の蘚類。三回羽状に細かく分枝し、シダのような繊細な姿でマット状に広がる。緑〜黄緑色。",
+      "habitat_hint": "林床の腐植、湿った岩上、朽木、土手。",
+      "finding_tips": "林床でシダのように三回羽状に分枝する繊細な蘚を探す。細かく規則的な枝分かれが識別点。"
+    },
+    "en": {
+      "summary": "Delicate fern moss (Thuidium delicatulum). A moss forming mats on forest floors, rocks and rotten wood; it is thrice-pinnately branched into a delicate fern-like form, green to yellow-green.",
+      "habitat_hint": "Forest-floor humus, damp rocks, rotten wood and banks.",
+      "finding_tips": "On the forest floor look for a fern-like moss branched three times over; the fine regular branching is diagnostic."
+    },
+    "zh": {
+      "summary": "コバノエゾシノブゴケ（细枝羽藓）。群生于林床、岩面与朽木的羽藓科藓类，三回羽状细分枝，形如蕨叶、成垫状铺展，绿至黄绿色。",
+      "habitat_hint": "林床腐殖、湿岩面、朽木、土坡。",
+      "finding_tips": "林床寻找三回羽状分枝、形如蕨叶的纤细藓；规则细分枝为辨识点。"
+    }
+  },
+  "Thuidium pristocalyx": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fern moss",
+    "ja": {
+      "summary": "アオシノブゴケ。林床や岩上、樹幹の基部に群生するシノブゴケ科の蘚類。二〜三回羽状に分枝し、青みを帯びた緑色でマット状に広がる。コバノエゾシノブゴケに似るがやや大きい。",
+      "habitat_hint": "林床、湿った岩上、樹幹の基部、土手。",
+      "finding_tips": "林床で青緑色にシダ状に分枝する蘚を探す。近縁種よりやや大きく、青みを帯びる点が手がかり。"
+    },
+    "en": {
+      "summary": "A fern moss forming mats on forest floors, rocks and tree bases; it is two- to three-pinnately branched and bluish-green, resembling delicate fern moss but somewhat larger.",
+      "habitat_hint": "Forest floor, damp rocks, tree bases and banks.",
+      "finding_tips": "On the forest floor look for a bluish-green fern-like moss; its slightly larger size and blue tint separate it from relatives."
+    },
+    "zh": {
+      "summary": "アオシノブゴケ（苞叶羽藓）。群生于林床、岩面与树基的羽藓科藓类，二至三回羽状分枝，蓝绿色成垫，似细枝羽藓而略大。",
+      "habitat_hint": "林床、湿岩面、树基、土坡。",
+      "finding_tips": "林床寻找蓝绿色蕨状分枝之藓；较近缘种略大、带蓝晕为线索。"
+    }
+  },
+  "Thuja occidentalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Northern white cedar",
+    "aliases": {
+      "zh-Hans": "北美香柏"
+    },
+    "ja": {
+      "summary": "ニオイヒバ。北アメリカ原産で庭園や公園に植栽されるヒノキ科の常緑針葉樹。枝は扁平で、鱗片状の葉が密につき、揉むと芳香がある。園芸品種が多く、生垣にも使われる。",
+      "habitat_hint": "庭園、公園、生垣などの植栽。",
+      "finding_tips": "扁平な枝に密につく鱗片状の葉を探す。葉を揉むと独特の芳香がある点が識別点。"
+    },
+    "en": {
+      "summary": "Northern white cedar (Thuja occidentalis). An evergreen conifer of the cypress family native to North America, planted in gardens and parks; the flattened sprays are densely clad in scale leaves that are aromatic when crushed. Many cultivars exist and it is used for hedges.",
+      "habitat_hint": "Gardens, parks and hedges as an ornamental planting.",
+      "finding_tips": "Look for flattened sprays densely set with scale leaves; a distinctive scent when crushed is diagnostic."
+    },
+    "zh": {
+      "summary": "ニオイヒバ（北美香柏）。原产北美、栽于庭园公园的柏科常绿针叶树，小枝扁平、密被鳞叶，揉之有香气，园艺品种多，常作绿篱。",
+      "habitat_hint": "庭园、公园、绿篱等栽培。",
+      "finding_tips": "寻找扁平小枝密被鳞叶；揉叶有特殊香气为辨识点。"
+    }
+  },
+  "Thuridilla albopustulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sacoglossan sea slug",
+    "ja": {
+      "summary": "スイートジェリーミドリガイ。南日本の浅い岩礁や藻場に生息する嚢舌類（ミドリガイ類）のウミウシ。体は鮮やかな色彩と白い斑点をもち、海藻を食べてその葉緑体を利用する。",
+      "habitat_hint": "浅い岩礁、藻場、サンゴ礁、潮だまり。",
+      "finding_tips": "潮だまりや藻場で白い斑点をもつ鮮やかなウミウシを探す。海藻の上を這う小さな体が手がかり。"
+    },
+    "en": {
+      "summary": "A sacoglossan sea slug of shallow reefs and seagrass in southern Japan; brightly coloured with white spots, it feeds on algae and retains their chloroplasts.",
+      "habitat_hint": "Shallow reefs, seagrass beds, coral reefs and tide pools.",
+      "finding_tips": "In tide pools and seagrass look for a small brightly coloured slug with white spots creeping over algae."
+    },
+    "zh": {
+      "summary": "スイートジェリーミドリガイ。栖于南日本浅岩礁与藻场的囊舌类海牛，体色鲜艳具白点，取食海藻并利用其叶绿体。",
+      "habitat_hint": "浅岩礁、藻场、珊瑚礁、潮池。",
+      "finding_tips": "潮池与藻场寻找具白点的鲜艳小海牛；行于海藻上为线索。"
+    }
+  },
+  "Tilia amurensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amur linden",
+    "aliases": {
+      "zh-Hans": "紫椴"
+    },
+    "ja": {
+      "summary": "アムールシナノキ。北東アジア原産のアオイ科（旧シナノキ科）の落葉高木で、シナノキに近縁。心形の葉をつけ、夏に苞葉に花序をつけて芳香のある淡黄色の花を咲かせる。良質の蜜源。",
+      "habitat_hint": "山地の落葉樹林、寒冷地の林、植栽。",
+      "finding_tips": "心形の葉と、へら状の苞葉から垂れる花序・果実を探す。夏の芳香ある花が識別点。"
+    },
+    "en": {
+      "summary": "Amur linden (Tilia amurensis). A deciduous tree of the mallow family native to northeast Asia, close to Japanese linden; it has heart-shaped leaves and fragrant pale-yellow summer flowers borne on a strap-like bract. It is a good nectar source.",
+      "habitat_hint": "Montane deciduous forest, cold-region woodland and plantings.",
+      "finding_tips": "Look for heart-shaped leaves and flower/fruit clusters hanging from a strap-like bract; fragrant summer flowers are diagnostic."
+    },
+    "zh": {
+      "summary": "アムールシナノキ（紫椴）。原产东北亚的锦葵科（旧椴树科）落叶乔木，近日本椴，叶心形，夏于苞叶上生芳香淡黄花序，为优质蜜源。",
+      "habitat_hint": "山地落叶林、寒地林、栽培。",
+      "finding_tips": "寻找心形叶与自带状苞叶垂下的花果序；夏季芳香花为辨识点。"
+    }
+  },
+  "Tilia noziricola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nojiri linden",
+    "ja": {
+      "summary": "ノジリボダイジュ。日本の山地に分布するアオイ科（旧シナノキ科）の落葉高木。シナノキとオオバボダイジュの中間的な特徴をもつとされる。心形の葉と、苞葉から垂れる花序をつける。",
+      "habitat_hint": "山地の落葉広葉樹林、谷沿いの林。",
+      "finding_tips": "心形の葉と、へら状の苞葉から垂れる花序・果実を探す。シナノキ類の中間的な姿が手がかり。"
+    },
+    "en": {
+      "summary": "Nojiri linden (Tilia noziricola). A deciduous tree of the mallow family in the mountains of Japan, considered intermediate between Japanese linden and large-leaf linden; it has heart-shaped leaves and flower clusters hanging from strap-like bracts.",
+      "habitat_hint": "Montane deciduous broadleaf forest and valley woodland.",
+      "finding_tips": "Look for heart-shaped leaves and clusters hanging from strap-like bracts; its intermediate linden look is a clue."
+    },
+    "zh": {
+      "summary": "ノジリボダイジュ。分布日本山地的锦葵科（旧椴树科）落叶乔木，被认为介于日本椴与大叶椴之间，叶心形，花序自带状苞叶垂下。",
+      "habitat_hint": "山地落叶阔叶林、谷沿林。",
+      "finding_tips": "寻找心形叶与自带状苞叶垂下的花果序；介于椴类之间为线索。"
+    }
+  },
+  "Tribulus terrestris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Puncturevine",
+    "aliases": {
+      "zh-Hans": "蒺藜"
+    },
+    "ja": {
+      "summary": "ハマビシ。海岸の砂地に生えるハマビシ科の一年草。地を這って広がり、羽状複葉と黄色い五弁花をつける。果実はかたく鋭いとげをもち、踏むと危険。準絶滅危惧とされる海浜植物。",
+      "habitat_hint": "海岸の砂地、砂丘、日当たりのよい乾いた砂浜。",
+      "finding_tips": "砂浜で地を這う羽状複葉と黄色い小花を探す。鋭いとげのある果実に注意。"
+    },
+    "en": {
+      "summary": "Puncturevine (Tribulus terrestris). An annual of coastal sand; it trails over the ground with pinnate leaves and yellow five-petalled flowers. The hard fruit bears sharp spines and is painful to step on. It is a threatened shore plant in Japan.",
+      "habitat_hint": "Coastal sand, dunes and dry sunny beaches.",
+      "finding_tips": "On sandy shores look for a trailing herb with pinnate leaves and small yellow flowers; beware the sharp-spined fruit."
+    },
+    "zh": {
+      "summary": "ハマビシ（蒺藜）。生于海岸沙地的蒺藜科一年生草本，匍匐铺展，羽状复叶、黄色五瓣花，果实硬而具锐刺、踩之危险，在日本为受威胁的海滨植物。",
+      "habitat_hint": "海岸沙地、沙丘、向阳干燥沙滩。",
+      "finding_tips": "沙滩寻找匍匐羽状复叶与黄色小花；注意锐刺果实。"
+    }
+  },
+  "Trichobaptria exsecuta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carpet moth",
+    "ja": {
+      "summary": "シロオビクロナミシャク。低地〜山地の林縁に見られるシャクガ科ナミシャク亜科の蛾。翅は黒褐色で白い帯が走る。昼間に樹幹や葉上で静止していることもある。",
+      "habitat_hint": "林縁、渓谷沿いの林、雑木林。",
+      "finding_tips": "初夏〜夏、樹幹や灯火で黒褐色に白帯をもつ蛾を探す。翅の白い帯が識別点。"
+    },
+    "en": {
+      "summary": "A carpet moth (Larentiinae) of lowland to montane forest edges; the wings are blackish-brown crossed by a white band, and it sometimes rests by day on trunks and leaves.",
+      "habitat_hint": "Forest edges, valley woodland and secondary forest.",
+      "finding_tips": "In early summer look on trunks or at lights for a blackish-brown moth; the white cross-band is diagnostic."
+    },
+    "zh": {
+      "summary": "シロオビクロナミシャク。见于低地至山地林缘的尺蛾科花尺蛾亚科蛾，翅黑褐具白带，有时白昼静停于树干叶面。",
+      "habitat_hint": "林缘、溪谷沿林、杂木林。",
+      "finding_tips": "初夏至夏于树干或灯下寻找黑褐带白之蛾；翅白带为辨识点。"
+    }
+  },
+  "Tricholoma equestre": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow knight",
+    "aliases": {
+      "zh-Hans": "黄绿口蘑"
+    },
+    "ja": {
+      "summary": "キシメジ。マツ林などの砂地に発生するキシメジ科のキノコ。傘もひだも鮮やかな黄色で、古くは食用とされたが、近年ヨーロッパで大量摂取による横紋筋融解症の中毒例が報告され、食用を避けるべきとされる。",
+      "habitat_hint": "マツ林や海岸のクロマツ林などの砂地。",
+      "finding_tips": "秋、マツ林の砂地で傘・ひだとも黄色いキノコを探す。中毒の恐れがあるため食べないこと。"
+    },
+    "en": {
+      "summary": "Yellow knight (Tricholoma equestre). A mushroom fruiting on sandy ground in pine woods; both cap and gills are bright yellow. Once eaten, it is now avoided after cases of rhabdomyolysis from heavy consumption were reported in Europe.",
+      "habitat_hint": "Sandy ground in pine woods and coastal black-pine stands.",
+      "finding_tips": "In autumn on sandy pine-wood ground look for a mushroom with yellow cap and gills; do not eat it — it can cause poisoning."
+    },
+    "zh": {
+      "summary": "キシメジ（黄绿口蘑）。发生于松林砂地的口蘑科菌，盖与褶均鲜黄，旧作食用，近因欧洲大量食用致横纹肌溶解中毒案例而应避免食用。",
+      "habitat_hint": "松林、海岸黑松林等砂地。",
+      "finding_tips": "秋于松林砂地寻找盖褶皆黄之菌；有中毒风险，勿食。"
+    }
+  },
+  "Trichostomum platyphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムツコネジレゴケ。岩上や土手、コンクリート上などに生えるセンボンゴケ科の小型の蘚類。乾くと葉がねじれて縮み、湿ると広がる。緑〜黄緑色で密なクッション状の群落をつくる。",
+      "habitat_hint": "岩上、石垣、土手、コンクリートなどの乾きやすい場所。",
+      "finding_tips": "岩や石垣で乾くと葉がねじれ縮む小さな蘚のクッションを探す。湿らせると葉が開く点が手がかり。"
+    },
+    "en": {
+      "summary": "A small moss growing on rocks, banks and concrete; the leaves twist and shrink when dry and spread when wet, forming dense green to yellow-green cushions.",
+      "habitat_hint": "Rocks, stone walls, banks and concrete in drought-prone spots.",
+      "finding_tips": "On rock and walls look for small moss cushions whose leaves twist when dry; wetting them makes the leaves open."
+    },
+    "zh": {
+      "summary": "ムツコネジレゴケ（阔叶毛口藓）。生于岩面、土坡与混凝土的丛藓科小型藓类，干时叶扭缩、湿时展开，绿至黄绿色成密垫。",
+      "habitat_hint": "岩面、石墙、土坡、混凝土等易干处。",
+      "finding_tips": "岩石与石墙寻找干时叶扭缩的小藓垫；湿润后叶展开为线索。"
+    }
+  },
+  "Trichotichnus congruus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヒメツヤゴモクムシ。林縁や草地の地表に生息するオサムシ科（ゴモクムシ類）の小さな甲虫。体は光沢のある黒褐色で、夜行性。地表を歩き回り、小さな虫や植物の種子を食べる。",
+      "habitat_hint": "林縁、草地、畑、河川敷などの地表。",
+      "finding_tips": "夜、地表を歩く光沢のある黒褐色の小さな甲虫を探す。石や落葉の下でも見つかる。"
+    },
+    "en": {
+      "summary": "A small ground beetle of forest edges and grassland; the body is glossy blackish-brown and nocturnal, roaming the ground to eat small invertebrates and seeds.",
+      "habitat_hint": "Ground of forest edges, grassland, fields and riverbanks.",
+      "finding_tips": "At night look for a small glossy blackish-brown beetle on the ground; also found under stones and litter."
+    },
+    "zh": {
+      "summary": "ヒメツヤゴモクムシ。栖于林缘与草地地表的步甲科小甲虫，体黑褐有光泽、夜行性，于地面觅食小虫与植物种子。",
+      "habitat_hint": "林缘、草地、农田、河滩地表。",
+      "finding_tips": "夜间于地面寻找有光泽的黑褐小甲虫；石与落叶下亦可见。"
+    }
+  },
+  "Trichotropis bicarinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-keeled hairysnail",
+    "ja": {
+      "summary": "ヒゲマキナワボラ。北方の冷たい海の砂礫底に生息する巻貝。殻に2本の顕著な竜骨（キール）があり、表面は毛状の殻皮に覆われる。付着物や有機物を食べる。",
+      "habitat_hint": "北方の潮下帯〜やや深い海の砂礫底。",
+      "finding_tips": "北の海の底で2本の竜骨と毛状の殻皮をもつ巻貝を探す。殻の毛と稜が識別点。"
+    },
+    "en": {
+      "summary": "Two-keeled hairysnail (Trichotropis bicarinata). A snail of cold northern seas on gravelly bottoms; the shell has two prominent keels and is covered by a hairy periostracum. It feeds on detritus and organic matter.",
+      "habitat_hint": "Subtidal to deeper gravelly bottoms of cold northern seas.",
+      "finding_tips": "On northern seabeds look for a snail with two keels and a hairy shell surface; the bristly periostracum is diagnostic."
+    },
+    "zh": {
+      "summary": "ヒゲマキナワボラ。栖于北方冷水海砂砾底的螺，壳具两条显著龙骨、表面覆毛状壳皮，取食碎屑与有机物。",
+      "habitat_hint": "北方潮下带至较深海砂砾底。",
+      "finding_tips": "北方海底寻找具两龙骨与毛状壳皮之螺；壳毛与棱为辨识点。"
+    }
+  },
+  "Trivirostra hordacea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea button",
+    "ja": {
+      "summary": "コムギツブガイ。南日本〜インド太平洋の浅い岩礁やサンゴ礁に生息するウミウサギ科（トリビア類）の非常に小さな巻貝。殻は卵形で、表面に細かい横肋が並ぶ。ホヤなどを食べる。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、転石の下、礁池。",
+      "finding_tips": "干潮時、転石の下で麦粒ほどの小さな卵形の巻貝を探す。横肋の並ぶ殻が識別点。"
+    },
+    "en": {
+      "summary": "A very small trivia snail of shallow rocky and coral reefs from southern Japan through the Indo-Pacific; the egg-shaped shell bears fine transverse ribs. It feeds on ascidians.",
+      "habitat_hint": "Shallow rocky and coral reefs, under boulders and lagoons.",
+      "finding_tips": "At low tide under rocks look for a tiny egg-shaped snail the size of a grain; the transverse ribs are diagnostic."
+    },
+    "zh": {
+      "summary": "コムギツブガイ。分布南日本至印度太平洋浅岩礁与珊瑚礁的海兔螺科（猥贝类）极小型螺，壳卵形、表面具细横肋，取食海鞘。",
+      "habitat_hint": "浅岩礁、珊瑚礁、砾石下、礁池。",
+      "finding_tips": "退潮时于石下寻找麦粒大的卵形小螺；横肋壳为辨识点。"
+    }
+  },
+  "Tugali decussata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Keyhole limpet",
+    "ja": {
+      "summary": "シロスソカケ。潮間帯の岩礁に生息するスカシガイ科の笠形の巻貝。殻は笠状で放射状と同心円状の彫刻が交わり格子模様をつくる。岩に張りつき、藻類などを削り取って食べる。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、転石の下。",
+      "finding_tips": "干潮時、岩に張りつく笠形の貝を探す。格子状の彫刻をもつ白っぽい殻が識別点。"
+    },
+    "en": {
+      "summary": "A cap-shaped keyhole-limpet relative of intertidal reefs; the limpet-like shell bears crossing radial and concentric sculpture forming a lattice. It clings to rock and grazes algae.",
+      "habitat_hint": "Intertidal to subtidal reefs and under boulders.",
+      "finding_tips": "At low tide look for a cap-shaped shell clinging to rock; the whitish latticed sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "シロスソカケ。栖于潮间带岩礁的裂螺科笠形螺，壳笠状、放射与同心雕刻交织成格纹，附岩刮食藻类。",
+      "habitat_hint": "潮间带至潮下带岩礁、砾石下。",
+      "finding_tips": "退潮时寻找附岩的笠形壳；白色格纹雕刻为辨识点。"
+    }
+  },
+  "Tylothais aculeata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spiny rock snail",
+    "ja": {
+      "summary": "ツノテツレイシ。南日本〜インド太平洋の潮間帯の岩礁に生息するアクキガイ科の巻貝。殻には角状に突出したとげの列があり、ごつごつした姿をもつ。フジツボや二枚貝を捕食する肉食性。",
+      "habitat_hint": "潮間帯〜潮下帯の岩礁、サンゴ礁、転石の下。",
+      "finding_tips": "干潮時、岩礁で角状のとげが列をなす巻貝を探す。ごつごつした殻が識別点。"
+    },
+    "en": {
+      "summary": "A muricid rock snail of intertidal reefs from southern Japan through the Indo-Pacific; the shell bears rows of horn-like spines, giving it a rugged look. It preys on barnacles and bivalves.",
+      "habitat_hint": "Intertidal to subtidal reefs, coral reefs and under boulders.",
+      "finding_tips": "At low tide on reefs look for a snail with rows of horn-like spines; the rugged spiny shell is diagnostic."
+    },
+    "zh": {
+      "summary": "ツノテツレイシ。分布南日本至印度太平洋潮间带岩礁的骨螺科螺，壳具角状棘成列、形态粗糙，肉食性捕食藤壶与双壳。",
+      "habitat_hint": "潮间带至潮下带岩礁、珊瑚礁、砾石下。",
+      "finding_tips": "退潮时于岩礁寻找具角状棘列之螺；粗糙棘壳为辨识点。"
+    }
+  },
+  "Ulva arasakii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea lettuce",
+    "ja": {
+      "summary": "ナガアオサ。潮間帯の岩上に生える緑藻の一種（アオサ科）。葉状体は細長く伸び、鮮やかな緑色で薄い膜状。波あたりの穏やかな岩場や潮だまりに群生する。",
+      "habitat_hint": "潮間帯の岩上、潮だまり、内湾の穏やかな岩場。",
+      "finding_tips": "潮間帯の岩上で細長く伸びる鮮緑色の薄い葉状体を探す。膜状で光を透かす点が手がかり。"
+    },
+    "en": {
+      "summary": "A sea lettuce (green alga); the thallus grows long and narrow, bright green and thinly membranous. It grows in beds on sheltered intertidal rocks and in tide pools.",
+      "habitat_hint": "Intertidal rocks, tide pools and sheltered inner-bay reefs.",
+      "finding_tips": "On intertidal rock look for long narrow bright-green membranous fronds; their thin translucent sheets are a clue."
+    },
+    "zh": {
+      "summary": "ナガアオサ。潮间带岩面所生的绿藻（石莼科），叶状体细长、鲜绿而薄膜状，群生于波浪平缓的岩场与潮池。",
+      "habitat_hint": "潮间带岩面、潮池、内湾平缓岩场。",
+      "finding_tips": "潮间带岩面寻找细长鲜绿薄膜状叶体；膜薄透光为线索。"
+    }
+  },
+  "Uria lomvia": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thick-billed Murre",
+    "aliases": {
+      "zh-Hans": "厚嘴海鸦"
+    },
+    "ja": {
+      "summary": "ハシブトウミガラス。北極圏〜北方の海に分布するウミスズメ科の海鳥。黒い頭・背と白い腹をもち、太く短いくちばしが特徴。日本には冬鳥として北の海に少数が渡来する。翼を使って潜水し魚を捕る。",
+      "habitat_hint": "外洋、北方の沿岸、冬季の日本近海。",
+      "finding_tips": "冬、北の海で黒白のずんぐりした海鳥を探す。太いくちばしと、くちばし基部の白い線がウミガラスとの識別点。"
+    },
+    "en": {
+      "summary": "Thick-billed Murre (Uria lomvia). A seabird of the auk family from the Arctic and northern seas; black above and white below with a thick short bill. It visits northern Japanese seas in small numbers in winter and dives with its wings to catch fish.",
+      "habitat_hint": "Open ocean, northern coasts and Japanese seas in winter.",
+      "finding_tips": "In winter on northern seas look for a stocky black-and-white seabird; the thick bill with a pale line at its base separates it from the Common Murre."
+    },
+    "zh": {
+      "summary": "ハシブトウミガラス（厚嘴海鸦）。分布北极与北方海域的海雀科海鸟，上体黑、下体白，喙粗短。冬季少数至日本北方海域，以翅潜水捕鱼。",
+      "habitat_hint": "外海、北方沿岸、冬季日本近海。",
+      "finding_tips": "冬于北方海面寻找黑白粗壮海鸟；喙粗且基部白线为与崖海鸦区别点。"
+    }
+  },
+  "Urochloa glumaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Signalgrass",
+    "ja": {
+      "summary": "ニクキビモドキ。暖地の道端や畑、荒地に生えるイネ科の一年草。地を這うように広がり、細い枝を分けて小穂を片側に並べた花序をつける。熱帯〜亜熱帯に広く分布する雑草。",
+      "habitat_hint": "暖地の道端、畑、荒地、砂地など日当たりのよい場所。",
+      "finding_tips": "夏〜秋、地を這う茎と片側に並ぶ小穂の花序を探す。イネ科の雑草として畑周辺に多い。"
+    },
+    "en": {
+      "summary": "A signalgrass, an annual grass of warm-region roadsides, fields and waste ground; it spreads along the ground and bears branches with spikelets ranked to one side. It is a widespread tropical-subtropical weed.",
+      "habitat_hint": "Warm-region roadsides, fields, waste ground and sunny sand.",
+      "finding_tips": "In summer–autumn look for ground-spreading stems with spikelets ranked to one side; common as a weed around fields."
+    },
+    "zh": {
+      "summary": "ニクキビモドキ。生于暖地路边、农田与荒地的禾本科一年生草本，匍匐铺展、分细枝、小穗偏于一侧成序，为热带亚热带广布杂草。",
+      "habitat_hint": "暖地路边、农田、荒地、沙地等向阳处。",
+      "finding_tips": "夏秋寻找匍匐茎与小穗偏侧之花序；田边常见的禾本科杂草。"
+    }
+  },
+  "Utricularia uliginosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bladderwort",
+    "aliases": {
+      "zh-Hans": "齿萼挖耳草"
+    },
+    "ja": {
+      "summary": "ムラサキミミカキグサ。湿地や休耕田の湿った地面に生えるタヌキモ科の小さな食虫植物。地中や水中に捕虫嚢をもち、微小な動物を捕らえる。夏〜秋、細い花茎に淡紫色の小さな唇形花を咲かせる。",
+      "habitat_hint": "湿地、休耕田、池畔、湧水地などの貧栄養な湿った地面。",
+      "finding_tips": "夏〜秋、湿地で細い花茎に淡紫色の小さな唇形花をつける草を探す。地際の小ささが手がかり。"
+    },
+    "en": {
+      "summary": "A small carnivorous bladderwort of wetlands and fallow paddies; it bears tiny bladder traps below ground or in water to catch microscopic animals, and in summer–autumn opens small pale-purple lipped flowers on a slender stalk.",
+      "habitat_hint": "Nutrient-poor damp ground of wetlands, fallow paddies and seeps.",
+      "finding_tips": "In summer–autumn on damp ground look for a slender stalk bearing small pale-purple lipped flowers; its tiny size is a clue."
+    },
+    "zh": {
+      "summary": "ムラサキミミカキグサ（齿萼挖耳草）。生于湿地与休耕田湿土的狸藻科小型食虫植物，地下或水中具捕虫囊捕捉微小动物，夏秋于细花茎开淡紫色小唇形花。",
+      "habitat_hint": "湿地、休耕田、池畔、涌泉等贫营养湿地。",
+      "finding_tips": "夏秋于湿地寻找细花茎上淡紫小唇形花之草；植株极小为线索。"
+    }
+  },
+  "Venusia semistrigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carpet moth",
+    "ja": {
+      "summary": "マエモンハイイロナミシャク。山地の林に見られるシャクガ科ナミシャク亜科の蛾。翅は灰白色で細かい波状の横線があり、前縁に暗色の紋をもつ。樹皮に似た模様で静止する。",
+      "habitat_hint": "山地の落葉樹林、林縁、渓谷沿いの林。",
+      "finding_tips": "春〜初夏、樹幹や灯火で灰白色に波状線をもつ蛾を探す。前縁の暗色紋が識別点。"
+    },
+    "en": {
+      "summary": "A carpet moth (Larentiinae) of montane woodland; the greyish-white wings bear fine wavy cross-lines and a dark mark on the leading edge, resting in a bark-like pattern.",
+      "habitat_hint": "Montane deciduous woodland, forest edges and valley forest.",
+      "finding_tips": "In spring–early summer on trunks or at lights look for a greyish-white moth with wavy lines; the dark costal mark is diagnostic."
+    },
+    "zh": {
+      "summary": "マエモンハイイロナミシャク。见于山地林的尺蛾科花尺蛾亚科蛾，翅灰白具细波状横线、前缘有暗斑，静止时拟树皮。",
+      "habitat_hint": "山地落叶林、林缘、溪谷沿林。",
+      "finding_tips": "春至初夏于树干或灯下寻找灰白具波状线之蛾；前缘暗斑为辨识点。"
+    }
+  },
+  "Urophorus humeralis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カタベニデオキスイ。発酵した樹液や熟した果実、腐敗した植物質に集まるデオキスイ科の小さな甲虫。体は黒色で肩の部分が赤みを帯び、上翅が短く腹端が露出する。",
+      "habitat_hint": "樹液の出る木、落果、堆肥、腐った果実のまわり。",
+      "finding_tips": "夏、クヌギなどの樹液や落果に集まる、肩の赤い小さな黒い甲虫を探す。腹端が露出する点が識別点。"
+    },
+    "en": {
+      "summary": "A sap beetle that gathers at fermenting sap, ripe fruit and rotting plant matter; the black body has reddish shoulders and the short elytra leave the abdomen tip exposed.",
+      "habitat_hint": "Sap-oozing trees, fallen fruit, compost and rotting fruit.",
+      "finding_tips": "In summer at oak sap and fallen fruit look for a small black beetle with red shoulders; the exposed abdomen tip is diagnostic."
+    },
+    "zh": {
+      "summary": "カタベニデオキスイ（隆肩露尾甲）。聚于发酵树液、熟果与腐败植物质的露尾甲科小甲虫，体黑、肩部泛红，鞘翅短而腹端外露。",
+      "habitat_hint": "流树液之木、落果、堆肥、腐果周边。",
+      "finding_tips": "夏于栎树液与落果处寻找肩红的黑色小甲虫；腹端外露为辨识点。"
+    }
   }
 }
