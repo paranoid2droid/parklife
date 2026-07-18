@@ -263782,5 +263782,551 @@
       "habitat_hint": "山地林缘、岩地、明亮坡地。",
       "finding_tips": "春季寻找具刺枝与掌状叶的灌木及淡绿小花；夏秋红色球果为线索。"
     }
+  },
+  "Ricasolia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow lettuce lichen",
+    "ja": {
+      "summary": "キイロエビラゴケ。山地の樹幹や岩上に生える大型の葉状地衣。葉体は黄緑〜灰緑色で縁が波打ち、裏面には網目状の隆起がある。清浄な森林環境の指標となる。",
+      "habitat_hint": "山地の湿った樹幹、苔むした岩上、老齢林。",
+      "finding_tips": "湿潤な老齢林で樹幹を覆う黄緑色の葉状地衣を探す。裏面の網目状の隆起が識別点。"
+    },
+    "en": {
+      "summary": "A large foliose lichen growing on tree trunks and mossy rocks in montane forests; the yellow-green to grey-green lobes have wavy margins and a network of ridges on the underside. It indicates clean old-growth woodland.",
+      "habitat_hint": "Moist montane tree trunks, mossy boulders, old-growth forest.",
+      "finding_tips": "In humid mature forest look for a yellow-green leafy lichen sheeting tree trunks; the reticulate ridged underside is diagnostic."
+    },
+    "zh": {
+      "summary": "キイロエビラゴケ。生于山地树干与苔藓岩面的大型叶状地衣，裂片黄绿至灰绿色、边缘波状，背面具网状脊突。为洁净老龄林的指示种。",
+      "habitat_hint": "山地湿润树干、苔藓岩面、老龄林。",
+      "finding_tips": "湿润成熟林中寻找覆盖树干的黄绿色叶状地衣；背面网状脊突为辨识要点。"
+    }
+  },
+  "Riccia nigrella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blackish crystalwort",
+    "ja": {
+      "summary": "サビイロハタケゴケ。畑地や裸地に生える葉状体のゼニゴケ類（ウキゴケ科）。葉状体はロゼット状に広がり、乾くと錆色〜黒褐色を帯びる。胞子体は葉状体内に埋もれる。",
+      "habitat_hint": "畑地、休耕田、道端の裸地など日当たりのよい湿った土上。",
+      "finding_tips": "冬〜春、耕作地の湿った地面に広がる小さなロゼット状の葉状体を探す。乾くと錆色になる点が特徴。"
+    },
+    "en": {
+      "summary": "A thalloid liverwort of fields and bare soil that spreads in small rosettes and turns rusty to blackish-brown when dry; the spore capsules are embedded within the thallus.",
+      "habitat_hint": "Cultivated fields, fallow paddies and bare open ground on damp soil.",
+      "finding_tips": "In winter–spring look on damp cultivated soil for small rosette-forming thalli that darken to rust when dry."
+    },
+    "zh": {
+      "summary": "サビイロハタケゴケ。生于农田与裸地的叶状苔类（钱苔科），叶状体呈莲座状铺展，干燥时呈锈色至黑褐色，孢子体埋于叶状体内。",
+      "habitat_hint": "农田、休耕田、路边裸地等向阳湿润土面。",
+      "finding_tips": "冬春于耕地湿润地面寻找小型莲座状叶状体；干燥转锈色为特征。"
+    }
+  },
+  "Rotala mexicana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "轮叶节节菜"
+    },
+    "ja": {
+      "summary": "ミズマツバ。水田や湿地に生えるミソハギ科の一年草。細い茎に線形の葉を数枚ずつ輪生し、葉腋に小さな花をつける。松葉状の葉が名の由来。",
+      "habitat_hint": "水田、休耕田、湿地、池畔の泥地。",
+      "finding_tips": "夏〜秋、水田の泥地で線形葉を輪生する細い草を探す。葉が松葉に似る点が識別点。"
+    },
+    "en": {
+      "summary": "An annual herb of paddy fields and wetlands with slender stems bearing whorls of narrow linear leaves and tiny flowers in the leaf axils; the pine-needle-like leaves give it its Japanese name.",
+      "habitat_hint": "Rice paddies, fallow fields, marshes and muddy pond margins.",
+      "finding_tips": "In summer–autumn look on paddy mud for a slender herb with whorled linear leaves resembling pine needles."
+    },
+    "zh": {
+      "summary": "ミズマツバ（轮叶节节菜）。生于稻田与湿地的千屈菜科一年生草本，细茎上线形叶数枚轮生，叶腋生小花，叶似松针而得和名。",
+      "habitat_hint": "稻田、休耕田、湿地、池畔泥地。",
+      "finding_tips": "夏秋于稻田泥地寻找线形叶轮生的纤细草本；叶似松针为辨识点。"
+    }
+  },
+  "Rubus croceacanthus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオバライチゴ。本州南部〜南西諸島の林縁に生えるバラ科の常緑〜半常緑低木。茎に赤みを帯びた鋭いとげがあり、白い大きな花のあと橙赤色の甘い果実を熟す。",
+      "habitat_hint": "暖地の林縁、道端、伐採跡地の日当たりのよい場所。",
+      "finding_tips": "春の白い大きな花と初夏の橙赤色の果実を探す。赤みを帯びたとげと大きめの葉が特徴。"
+    },
+    "en": {
+      "summary": "An evergreen to semi-evergreen bramble of forest edges from southern Honshu to the Ryukyus; the reddish-tinged stems bear sharp thorns, and large white flowers are followed by sweet orange-red fruit.",
+      "habitat_hint": "Sunny forest edges, roadsides and clearings in warm regions.",
+      "finding_tips": "Look for large white spring flowers and orange-red early-summer fruit; reddish thorns and broad leaves are distinctive."
+    },
+    "zh": {
+      "summary": "オオバライチゴ。分布于本州南部至琉球群岛林缘的蔷薇科常绿至半常绿灌木，茎带红晕并具锐刺，白色大花后结橙红色甜果。",
+      "habitat_hint": "暖地林缘、路边、采伐迹地等向阳处。",
+      "finding_tips": "春寻白色大花、初夏寻橙红色果；红晕锐刺与较大叶片为特征。"
+    }
+  },
+  "Rubus fruticosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "黑莓"
+    },
+    "ja": {
+      "summary": "ブラックベリー。ヨーロッパ原産のバラ科の落葉つる性低木で、栽培品が各地で野生化している。とげのある長い茎を伸ばし、白〜淡紅色の花のあと黒く熟す集合果をつける。果実は生食・ジャムに利用される。",
+      "habitat_hint": "空き地、道端、河川敷、逸出した藪。",
+      "finding_tips": "夏、とげのある長い茎と黒く熟す集合果を探す。赤から黒へ熟す果実が識別点。"
+    },
+    "en": {
+      "summary": "Blackberry. A deciduous scrambling bramble native to Europe, now naturalised from cultivation; its thorny arching canes bear white to pale-pink flowers followed by black aggregate fruit used fresh and in jam.",
+      "habitat_hint": "Waste ground, roadsides, riverbanks and escaped thickets.",
+      "finding_tips": "In summer look for long thorny canes with aggregate fruit ripening from red to black."
+    },
+    "zh": {
+      "summary": "ブラックベリー（黑莓）。原产欧洲的蔷薇科落叶蔓性灌木，栽培后各地逸生。具刺长茎拱曲，白至淡红色花后结黑色聚合果，供鲜食与制酱。",
+      "habitat_hint": "空地、路边、河滩、逸生灌丛。",
+      "finding_tips": "夏季寻找具刺长茎与聚合果；果由红转黑为辨识点。"
+    }
+  },
+  "Rubus pungens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "刺毛悬钩子"
+    },
+    "ja": {
+      "summary": "サナギイチゴ。山地の林縁や草地に生えるバラ科の落葉小低木。茎は地を這い、細いとげと腺毛が密生する。白い花のあと赤く熟す集合果をつける。",
+      "habitat_hint": "山地の林縁、草地、道端の日当たりのよい斜面。",
+      "finding_tips": "初夏の白花と初夏〜夏の赤い果実を探す。地を這う細いとげのある茎が特徴。"
+    },
+    "en": {
+      "summary": "A low deciduous bramble of montane forest edges and grassland; the trailing stems are densely set with slender thorns and glandular hairs, and white flowers give way to red aggregate fruit.",
+      "habitat_hint": "Sunny montane forest edges, grassland and roadside slopes.",
+      "finding_tips": "Look for white early-summer flowers and red fruit on creeping, finely thorny stems."
+    },
+    "zh": {
+      "summary": "サナギイチゴ（刺毛悬钩子）。生于山地林缘与草地的蔷薇科落叶小灌木，茎匍匐、密生细刺与腺毛，白花后结红色聚合果。",
+      "habitat_hint": "山地林缘、草地、路边向阳坡。",
+      "finding_tips": "初夏寻白花、初夏至夏寻红果；匍匐细刺茎为特征。"
+    }
+  },
+  "Sageretia thea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "雀梅藤"
+    },
+    "ja": {
+      "summary": "クロイゲ。本州西部〜南西諸島の海岸や石灰岩地に生えるクロウメモドキ科の常緑低木。枝はよく分枝してとげ状となり、小さな葉を対生する。秋に黒紫色の小さな果実を熟す。盆栽にも使われる。",
+      "habitat_hint": "暖地の海岸林、石灰岩地、林縁の岩地。",
+      "finding_tips": "とげ状の小枝と小さな対生の葉を探す。秋の黒紫色の小果実が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen shrub of coasts and limestone areas from western Honshu to the Ryukyus; its much-branched twigs end in spines, the small leaves are opposite, and it ripens tiny purple-black fruit in autumn. It is used in bonsai.",
+      "habitat_hint": "Warm coastal woodland, limestone ground and rocky forest edges.",
+      "finding_tips": "Look for spine-tipped twigs with small opposite leaves; purple-black autumn fruit is diagnostic."
+    },
+    "zh": {
+      "summary": "クロイゲ（雀梅藤）。分布本州西部至琉球群岛海岸及石灰岩地的鼠李科常绿灌木，枝多分而成刺，小叶对生，秋结紫黑色小果，可作盆景。",
+      "habitat_hint": "暖地海岸林、石灰岩地、林缘岩地。",
+      "finding_tips": "寻找刺状小枝与对生小叶；秋季紫黑色小果为辨识点。"
+    }
+  },
+  "Sagina apetala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "无瓣漆姑草"
+    },
+    "ja": {
+      "summary": "イトツメクサ。ヨーロッパ原産で道端や空き地に帰化したナデシコ科の小さな一年草。糸のように細い葉を対生し、花弁を欠くか極小の目立たない花をつける。",
+      "habitat_hint": "道端、舗装の隙間、空き地、庭先の裸地。",
+      "finding_tips": "春〜初夏、舗装の隙間で糸状の細い葉をもつ小さな草を探す。花弁のない小花が特徴。"
+    },
+    "en": {
+      "summary": "A tiny annual of the pink family, native to Europe and naturalised on roadsides and waste ground; it has thread-like opposite leaves and inconspicuous flowers that lack petals or have minute ones.",
+      "habitat_hint": "Roadsides, pavement cracks, waste ground and bare garden soil.",
+      "finding_tips": "In spring–early summer look in pavement cracks for a small herb with thread-like leaves and petal-less flowers."
+    },
+    "zh": {
+      "summary": "イトツメクサ（无瓣漆姑草）。原产欧洲、逸生于路边空地的石竹科小型一年生草本，叶丝状对生，花无瓣或瓣极小而不显。",
+      "habitat_hint": "路边、铺装缝隙、空地、庭院裸土。",
+      "finding_tips": "春至初夏于铺装缝隙寻找丝状叶小草；无瓣小花为特征。"
+    }
+  },
+  "Sambucus williamsii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "接骨木"
+    },
+    "ja": {
+      "summary": "コウライニワトコ。朝鮮半島〜中国北部原産のレンプクソウ科（旧スイカズラ科）の落葉低木で、日本のニワトコに近縁。奇数羽状複葉をもち、春に黄白色の小花を円錐状に多数つけ、夏に赤い小果を熟す。",
+      "habitat_hint": "山地の林縁、河畔、やや湿った明るい場所。",
+      "finding_tips": "春の黄白色の花房と羽状複葉を探す。夏の赤い集まった小果が識別点。"
+    },
+    "en": {
+      "summary": "A deciduous shrub native to Korea and northern China, close to the Japanese elder; it has odd-pinnate leaves, dense clusters of yellowish-white spring flowers, and red summer berries.",
+      "habitat_hint": "Montane forest edges, streamsides and damp bright sites.",
+      "finding_tips": "Look for yellowish-white flower clusters and pinnate leaves in spring; clusters of red summer fruit are diagnostic."
+    },
+    "zh": {
+      "summary": "コウライニワトコ（接骨木）。原产朝鲜半岛至中国北部的五福花科（旧忍冬科）落叶灌木，近日本接骨木，奇数羽状复叶，春开黄白色小花成锥状花序，夏结红色小果。",
+      "habitat_hint": "山地林缘、河畔、稍湿的明亮处。",
+      "finding_tips": "春寻黄白色花序与羽状复叶；夏季红色聚生小果为辨识点。"
+    }
+  },
+  "Sarcomyxa serotina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "亚侧耳"
+    },
+    "ja": {
+      "summary": "ムキタケ。晩秋にブナなど広葉樹の倒木・枯木に群生するガマノホタケ科の食用キノコ。半円形の傘は黄褐〜緑褐色でゼラチン質、傘表皮がむけるのが名の由来。よく似た有毒のツキヨタケと混同されやすい。",
+      "habitat_hint": "山地のブナ・ミズナラなど広葉樹の倒木・枯幹。",
+      "finding_tips": "晩秋、広葉樹の枯木に重なって生える半円形の傘を探す。有毒ツキヨタケとの区別（柄の付け根の黒斑・発光の有無）に注意。"
+    },
+    "en": {
+      "summary": "A late-autumn edible mushroom growing in tiers on dead beech and other broadleaf trunks; the semicircular cap is yellow- to greenish-brown and gelatinous, and its skin peels off (the source of its Japanese name). It is easily confused with the poisonous moonlight mushroom.",
+      "habitat_hint": "Fallen and standing dead beech and oak in montane forest.",
+      "finding_tips": "In late autumn look for tiered semicircular caps on dead broadleaf wood; beware confusion with the toxic Omphalotus (check for a dark stem-base spot)."
+    },
+    "zh": {
+      "summary": "ムキタケ（亚侧耳）。晚秋群生于山毛榉等阔叶枯木的食用菌，半圆形菌盖黄褐至绿褐、胶质，表皮可剥（和名之源），易与有毒的月夜菌混淆。",
+      "habitat_hint": "山地山毛榉、水楢等阔叶倒木、枯干。",
+      "finding_tips": "晚秋于阔叶枯木寻找成层半圆形菌盖；注意与有毒月夜菌（柄基黑斑、发光）区别。"
+    }
+  },
+  "Sargocentron praslin": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "黑鳍新东洋"
+    },
+    "ja": {
+      "summary": "クロオビエビス。南日本〜インド太平洋のサンゴ礁に分布するイットウダイ科の魚。赤い体に白い縦帯が並び、鰓蓋にとげをもつ。夜行性で昼間は岩陰に潜む。",
+      "habitat_hint": "浅いサンゴ礁・岩礁の岩陰や洞。",
+      "finding_tips": "夜、サンゴ礁で赤地に白い縦帯の魚を探す。大きな目と鰓蓋のとげが識別点。"
+    },
+    "en": {
+      "summary": "A squirrelfish of coral reefs from southern Japan through the Indo-Pacific; it is red with white longitudinal stripes and a spine on the gill cover. Nocturnal, it shelters in crevices by day.",
+      "habitat_hint": "Crevices and caves of shallow coral and rocky reefs.",
+      "finding_tips": "At night on the reef look for a red fish striped with white; the large eye and gill-cover spine are diagnostic."
+    },
+    "zh": {
+      "summary": "クロオビエビス（黑鳍新东洋）。分布南日本至印度太平洋珊瑚礁的鳂科鱼，体红具白色纵带，鳃盖具刺，夜行性，昼伏岩隙。",
+      "habitat_hint": "浅珊瑚礁与岩礁的岩隙、洞穴。",
+      "finding_tips": "夜间珊瑚礁寻找红底白纵带之鱼；大眼与鳃盖刺为辨识点。"
+    }
+  },
+  "Sasa pubiculmis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オモエザサ。山地の林床に群生するイネ科のササの一種。稈は細く、節や稈に毛があり、細長い葉を茂らせて一面を覆う。冬も緑を保つ。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁の斜面。",
+      "finding_tips": "林床を覆う細いササを探す。稈や節の毛と、冬も枯れない葉が特徴。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (sasa) of montane forest floors; the slender culms bear hairs at the nodes, and its long leaves form dense evergreen ground cover.",
+      "habitat_hint": "Floors of montane deciduous forest and forest-edge slopes.",
+      "finding_tips": "Look for a slender sasa carpeting the forest floor; hairy culms and nodes and winter-green leaves are distinctive."
+    },
+    "zh": {
+      "summary": "オモエザサ。群生于山地林床的禾本科矮竹（笹）之一，秆细、节与秆具毛，长叶密生覆地，冬季常绿。",
+      "habitat_hint": "山地落叶林林床、林缘坡地。",
+      "finding_tips": "寻找覆盖林床的细矮竹；秆节具毛、冬叶不枯为特征。"
+    }
+  },
+  "Satsuma eucosmia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オキナワヤマタカマイマイ。沖縄本島などに分布するナンバンマイマイ科の陸産カタツムリ。殻はやや高い円錐形で光沢があり、林床の落葉や岩上を這う。地域固有性が高い。",
+      "habitat_hint": "亜熱帯林の林床、湿った岩上、石灰岩地。",
+      "finding_tips": "雨後、林床の落葉や岩上でやや背の高い光沢のある巻貝を探す。円錐状の殻形が識別点。"
+    },
+    "en": {
+      "summary": "A land snail of Okinawa and nearby islands; the rather tall, glossy conical shell moves over leaf litter and rocks on the forest floor. It is a regional endemic.",
+      "habitat_hint": "Subtropical forest floor, damp rocks and limestone ground.",
+      "finding_tips": "After rain look on leaf litter and rocks for a somewhat tall glossy snail; the conical shell shape is diagnostic."
+    },
+    "zh": {
+      "summary": "オキナワヤマタカマイマイ。分布冲绳本岛等地的南蛮蜗牛科陆生蜗牛，壳略高圆锥形而有光泽，行于林床落叶与岩面，地域特有性强。",
+      "habitat_hint": "亚热带林林床、湿润岩面、石灰岩地。",
+      "finding_tips": "雨后于林床落叶、岩面寻找略高有光泽的蜗牛；圆锥形壳为辨识点。"
+    }
+  },
+  "Saussurea sendaica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "センダイトウヒレン。本州の山地に分布するキク科の多年草。茎の上部に頭花を数個つけ、筒状花からなる紫紅色の花を秋に咲かせる。葉は三角状で基部が心形になる。",
+      "habitat_hint": "山地の林縁、草地、やや湿った明るい斜面。",
+      "finding_tips": "秋、山地の草地で紫紅色の筒状花からなる頭花を探す。三角状で基部が心形の葉が識別点。"
+    },
+    "en": {
+      "summary": "A perennial of montane Honshu in the daisy family; it bears a few heads of purple-red tubular flowers in autumn, and its triangular leaves have heart-shaped bases.",
+      "habitat_hint": "Montane forest edges, grassland and damp bright slopes.",
+      "finding_tips": "In autumn on montane grassland look for heads of purple-red tubular florets; triangular, heart-based leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "センダイトウヒレン。分布本州山地的菊科多年生草本，茎上部生数枚头状花序，秋开紫红色管状花，叶三角形、基部心形。",
+      "habitat_hint": "山地林缘、草地、稍湿明亮坡地。",
+      "finding_tips": "秋于山地草地寻找紫红色管状花头序；三角形心基叶为辨识点。"
+    }
+  },
+  "Scapania undulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "波叶合叶苔"
+    },
+    "ja": {
+      "summary": "ムラサキヒシャクゴケ。渓流の水中や湿った岩上に生えるヒシャクゴケ科の苔類（タイ類）。葉は二裂し、しばしば赤紫色を帯びる。清冽な流水環境を好む。",
+      "habitat_hint": "山地渓流の水中や飛沫のかかる岩上、湿った岩壁。",
+      "finding_tips": "渓流の岩上で赤紫色を帯びた二裂の葉をもつ苔を探す。流水環境に群生する点が特徴。"
+    },
+    "en": {
+      "summary": "A leafy liverwort of streams and wet rocks; the bilobed leaves are often tinged purple-red, and it favours clean flowing water.",
+      "habitat_hint": "Submerged or splashed rocks of montane streams and wet rock walls.",
+      "finding_tips": "On streamside rocks look for a liverwort with purple-red bilobed leaves growing where water flows."
+    },
+    "zh": {
+      "summary": "ムラサキヒシャクゴケ（波叶合叶苔）。生于溪流水中及湿岩的合叶苔科苔类，叶二裂常带紫红，喜清澈流水。",
+      "habitat_hint": "山地溪流水中或飞溅岩面、湿润岩壁。",
+      "finding_tips": "溪畔岩面寻找紫红二裂叶之苔类；群生于流水处为特征。"
+    }
+  },
+  "Scaphoideus festivus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafhopper",
+    "ja": {
+      "summary": "シラホシスカシヨコバイ。草地や林縁に見られるヨコバイ科の小さな昆虫。前翅は半透明で白い斑紋が散り、後脚で跳ねて移動する。植物の汁を吸う。",
+      "habitat_hint": "草地、林縁、河川敷の草むら。",
+      "finding_tips": "夏、草の上で半透明の翅に白斑をもつ小さなヨコバイを探す。近づくと横歩きし、跳ねて逃げる。"
+    },
+    "en": {
+      "summary": "A small leafhopper of grassland and forest edges; its semi-transparent forewings are speckled with white and it hops away on its hind legs while feeding on plant sap.",
+      "habitat_hint": "Grassland, forest edges and riverside vegetation.",
+      "finding_tips": "In summer look on foliage for a small leafhopper with white-flecked translucent wings; it sidles and hops when disturbed."
+    },
+    "zh": {
+      "summary": "シラホシスカシヨコバイ。见于草地与林缘的叶蝉科小虫，前翅半透明散布白斑，以后足跳跃，吸食植物汁液。",
+      "habitat_hint": "草地、林缘、河滩草丛。",
+      "finding_tips": "夏于草上寻找半透明翅带白斑的小叶蝉；受惊侧行并跳跃。"
+    }
+  },
+  "Sceptridium elegans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカネハナワラビ。山地の林床に生えるハナワラビ科のシダ。栄養葉は細かく切れ込み、秋に胞子葉を立ち上げて胞子嚢の穂をつける。冬に葉が赤みを帯びることがある。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁の腐植質に富む場所。",
+      "finding_tips": "秋〜冬、林床で細かく切れ込む栄養葉と直立する胞子葉の穂を探す。葉が赤く色づく点が名の由来。"
+    },
+    "en": {
+      "summary": "A grape fern of montane forest floors; the finely divided sterile frond is accompanied in autumn by an erect fertile spike bearing sporangia, and the foliage may flush red in winter.",
+      "habitat_hint": "Floors of montane deciduous forest and humus-rich edges.",
+      "finding_tips": "In autumn–winter look on the forest floor for a finely cut sterile frond with an erect spore-bearing spike; reddish winter colour gives its name."
+    },
+    "zh": {
+      "summary": "アカネハナワラビ。生于山地林床的阴地蕨科蕨类，营养叶细裂，秋季抽出直立孢子叶穗，冬季叶常带红晕。",
+      "habitat_hint": "山地落叶林林床、腐殖质丰富的林缘。",
+      "finding_tips": "秋冬于林床寻找细裂营养叶与直立孢子穗；叶红晕为和名之源。"
+    }
+  },
+  "Schoenoplectiella uzenensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アイノコカンガレイ。湿地や池畔に生えるカヤツリグサ科の多年草。カンガレイとホタルイの中間的な特徴をもつ交雑起源とされ、三角形の稈の先近くに小穂を集める。",
+      "habitat_hint": "湿地、池沼の縁、休耕田などの浅い水辺。",
+      "finding_tips": "夏〜秋、水辺で三角形の稈の先近くに小穂を集める草を探す。カンガレイとの中間的な姿が特徴。"
+    },
+    "en": {
+      "summary": "A sedge of wetlands and pond margins of presumed hybrid origin, intermediate between related club-rushes; clusters of spikelets sit near the tip of the triangular stem.",
+      "habitat_hint": "Marshes, pond edges and shallow water of fallow paddies.",
+      "finding_tips": "In summer–autumn at the waterside look for spikelet clusters near the tip of a triangular stem; its intermediate look is distinctive."
+    },
+    "zh": {
+      "summary": "アイノコカンガレイ。生于湿地与池畔的莎草科多年生草本，被认为为杂交起源，介于近缘萤蔺之间，三棱秆近顶集生小穗。",
+      "habitat_hint": "湿地、池沼边缘、休耕田等浅水处。",
+      "finding_tips": "夏秋于水边寻找三棱秆近顶集生小穗之草；介于近缘种之间为特征。"
+    }
+  },
+  "Scilla luciliae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Glory-of-the-snow",
+    "aliases": {
+      "zh-Hans": "雪光花"
+    },
+    "ja": {
+      "summary": "ユキゲユリ。トルコ原産のキジカクシ科（旧ユリ科）の小さな球根植物で、園芸用に栽培され逸出することがある。早春に星形の青紫色（中心が白い）の花を数個咲かせる。",
+      "habitat_hint": "花壇、庭、逸出した草地や林縁。",
+      "finding_tips": "早春、地際で中心が白い星形の青紫色の花を探す。低い草丈と早い開花期が識別点。"
+    },
+    "en": {
+      "summary": "Glory-of-the-snow. A small bulb of the asparagus family native to Turkey, grown ornamentally and sometimes escaping; in early spring it opens a few star-shaped blue flowers with white centres.",
+      "habitat_hint": "Flower beds, gardens and escaped grassland or forest edges.",
+      "finding_tips": "In early spring look near ground level for star-shaped blue flowers with white centres; the low habit and early bloom are diagnostic."
+    },
+    "zh": {
+      "summary": "ユキゲユリ（雪光花）。原产土耳其的天门冬科（旧百合科）小型球根植物，供观赏栽培并偶逸生，早春开数朵星形蓝紫色、中心白色的花。",
+      "habitat_hint": "花坛、庭园、逸生草地或林缘。",
+      "finding_tips": "早春于近地面寻找中心白色的星形蓝紫花；植株低矮、花期极早为辨识点。"
+    }
+  },
+  "Scirpus ternatanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオアブラガヤ。湿地や水辺に生えるカヤツリグサ科の大型多年草。太い稈の先に多数の小穂を散房状につけ、褐色に熟す。アブラガヤより大きく群生する。",
+      "habitat_hint": "湿地、休耕田、河畔、池沼の縁の湿った場所。",
+      "finding_tips": "夏〜秋、水辺で太い稈の先に褐色の小穂を散房状につける大型の草を探す。群生する点が特徴。"
+    },
+    "en": {
+      "summary": "A large sedge of wetlands and watersides; stout stems carry many spikelets in loose corymb-like clusters that ripen brown, and it forms bigger stands than related bulrushes.",
+      "habitat_hint": "Marshes, fallow paddies, riverbanks and pond margins.",
+      "finding_tips": "In summer–autumn at the waterside look for a large sedge with brown spikelet clusters atop stout stems, growing in dense stands."
+    },
+    "zh": {
+      "summary": "オオアブラガヤ。生于湿地与水边的莎草科大型多年生草本，粗秆顶端散房状生多数小穗、成熟褐色，较近缘种更大而群生。",
+      "habitat_hint": "湿地、休耕田、河畔、池沼边缘湿地。",
+      "finding_tips": "夏秋于水边寻找粗秆顶生褐色散房状小穗的大型草本；成片群生为特征。"
+    }
+  },
+  "Scolytoplatypus tycon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ambrosia beetle",
+    "ja": {
+      "summary": "タイコンキクイムシ。広葉樹の材に穿孔するキクイムシの一種（ゾウムシ科キクイムシ亜科）。円筒形の小さな体で、樹幹に坑道を掘り、共生菌（アンブロシア菌）を栽培して食べる。",
+      "habitat_hint": "山地・低地の広葉樹林、衰弱木や伐採木の材内。",
+      "finding_tips": "衰弱した広葉樹の樹幹で細かい木屑（フラス）の出る小孔を探す。円筒形の小さな甲虫が坑道に潜む。"
+    },
+    "en": {
+      "summary": "An ambrosia beetle that bores into broadleaf wood; the small cylindrical adults tunnel in trunks and cultivate a symbiotic fungus for food.",
+      "habitat_hint": "Broadleaf forests; within the wood of weakened or felled trees.",
+      "finding_tips": "On ailing broadleaf trunks look for small holes exuding fine frass; the cylindrical beetle hides in its galleries."
+    },
+    "zh": {
+      "summary": "タイコンキクイムシ。蛀入阔叶树材的小蠹（象甲科小蠹亚科），体小圆柱形，于树干掘坑道并培养共生真菌（食菌小蠹）为食。",
+      "habitat_hint": "山地与低地阔叶林、衰弱木或伐倒木材内。",
+      "finding_tips": "于衰弱阔叶树干寻找排出细木屑的小孔；圆柱形小甲虫藏于坑道。"
+    }
+  },
+  "Scopula tenuisocius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wave moth",
+    "ja": {
+      "summary": "アメイロヒメシャク。低地〜山地の林縁や草地に見られるシャクガ科ヒメシャク亜科の小さな蛾。翅は飴色（黄褐色）で細い横線があり、静止時に翅を平らに広げる。",
+      "habitat_hint": "林縁、草地、公園の樹林周辺。",
+      "finding_tips": "初夏〜夏の夜、灯火に来る飴色の小さなシャクガを探す。細い横線と平らに広げた翅が識別点。"
+    },
+    "en": {
+      "summary": "A small wave moth (Sterrhinae) of lowland and montane forest edges and grassland; the amber-brown wings bear fine cross-lines and rest spread flat.",
+      "habitat_hint": "Forest edges, grassland and park woodland margins.",
+      "finding_tips": "On early-summer nights look at lights for a small amber geometrid; fine cross-lines and flat-spread wings are diagnostic."
+    },
+    "zh": {
+      "summary": "アメイロヒメシャク。见于低地至山地林缘草地的尺蛾科姬尺蛾亚科小蛾，翅琥珀褐色具细横线，静止时平展。",
+      "habitat_hint": "林缘、草地、公园林缘。",
+      "finding_tips": "初夏至夏夜灯下寻找琥珀色小尺蛾；细横线与平展翅为辨识点。"
+    }
+  },
+  "Scorpaenodes guamensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "关岛小鲉"
+    },
+    "ja": {
+      "summary": "グアムカサゴ。南日本〜インド太平洋の浅い岩礁・サンゴ礁に分布するフサカサゴ科の小型魚。赤褐色のまだら模様で岩に擬態し、鰭のとげに毒をもつ。夜行性で岩陰に潜む。",
+      "habitat_hint": "浅い岩礁・サンゴ礁の岩の隙間や礁池。",
+      "finding_tips": "岩礁で赤褐色のまだら模様の小魚が岩に擬態するのを探す。鰭のとげに毒があるため触れないこと。"
+    },
+    "en": {
+      "summary": "A small scorpionfish of shallow rocky and coral reefs from southern Japan through the Indo-Pacific; reddish-brown and mottled, it mimics rock, hides by day and has venomous fin spines.",
+      "habitat_hint": "Crevices and tide pools of shallow rocky and coral reefs.",
+      "finding_tips": "On reefs look for a small mottled reddish fish disguised against rock; do not touch — the fin spines are venomous."
+    },
+    "zh": {
+      "summary": "グアムカサゴ（关岛小鲉）。分布南日本至印度太平洋浅岩礁与珊瑚礁的鲉科小鱼，红褐斑驳拟态岩石，鳍棘有毒，夜行昼伏。",
+      "habitat_hint": "浅岩礁、珊瑚礁的岩隙与潮池。",
+      "finding_tips": "岩礁寻找红褐斑驳拟态岩石之小鱼；鳍棘有毒，切勿触碰。"
+    }
+  },
+  "Scorpaenopsis neglecta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "斑鳍圆鳞鲉"
+    },
+    "ja": {
+      "summary": "サツマカサゴ。南日本〜インド太平洋の砂底や岩礁に分布するフサカサゴ科の魚。体はいぼ状の皮弁に覆われ底質に擬態する。胸鰭の内側に鮮やかな警告色があり、鰭のとげに強い毒をもつ。",
+      "habitat_hint": "浅い砂底、岩礁、サンゴ礁の底。",
+      "finding_tips": "砂底や岩の上でいぼ状のこぶをもつ擬態した魚を探す。刺激すると胸鰭内側の鮮色を見せる。毒があるので触れないこと。"
+    },
+    "en": {
+      "summary": "A scorpionfish of sand and reefs from southern Japan through the Indo-Pacific; warty skin flaps camouflage it against the bottom, the inner pectoral fins flash bright warning colour, and its fin spines are strongly venomous.",
+      "habitat_hint": "Shallow sand flats, rocky reefs and coral-reef floors.",
+      "finding_tips": "On sand or rock look for a warty camouflaged fish; when provoked it flashes bright inner pectoral colour. Do not touch — venomous spines."
+    },
+    "zh": {
+      "summary": "サツマカサゴ（斑鳍圆鳞鲉）。分布南日本至印度太平洋砂底与岩礁的鲉科鱼，皮瓣疣状拟态底质，胸鳍内侧具鲜艳警戒色，鳍棘剧毒。",
+      "habitat_hint": "浅砂底、岩礁、珊瑚礁底。",
+      "finding_tips": "于砂底或岩上寻找疣状拟态之鱼；受激时露出胸鳍内侧鲜色；有毒勿触。"
+    }
   }
 }
