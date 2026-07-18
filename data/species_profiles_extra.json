@@ -267946,5 +267946,540 @@
       "habitat_hint": "亚热带林树干、大枝、岩面附生。",
       "finding_tips": "树上或岩面寻找光亮长单叶放射展开的大型蕨；中心巢状凹陷为辨识点。"
     }
+  },
+  "Assiminea hiradoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Salt-marsh snail",
+    "ja": {
+      "summary": "ヒラドカワザンショウ。河口の塩性湿地やヨシ原、干潟の縁に生息するカワザンショウガイ科の非常に小さな巻貝。殻は円錐形で褐色。泥や植物の表面を這って有機物を食べる。汽水環境に依存する。",
+      "habitat_hint": "河口の塩性湿地、ヨシ原、干潟の縁、汽水域。",
+      "finding_tips": "干潟やヨシ原の泥の上で、褐色で円錐形の非常に小さな巻貝を探す。汽水の湿地環境が手がかり。"
+    },
+    "en": {
+      "summary": "A very small salt-marsh snail of estuarine marshes, reed beds and tidal-flat margins; the conical shell is brown, and it creeps over mud and plants feeding on organic matter. It depends on brackish habitats.",
+      "habitat_hint": "Estuarine salt marshes, reed beds, tidal-flat edges and brackish water.",
+      "finding_tips": "On mud in marshes and reed beds look for a very small brown conical snail; the brackish wetland setting is a clue."
+    },
+    "zh": {
+      "summary": "ヒラドカワザンショウ。栖于河口盐沼、芦苇丛与潮滩边缘的拟沼螺科极小型螺，壳圆锥形、褐色，行于泥与植物表面取食有机物，依赖半咸水环境。",
+      "habitat_hint": "河口盐沼、芦苇丛、潮滩边缘、半咸水域。",
+      "finding_tips": "潮滩与芦苇丛泥面寻找褐色圆锥形极小螺；半咸湿地环境为线索。"
+    }
+  },
+  "Aster spathulifolius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Seashore aster",
+    "aliases": {
+      "zh-Hans": "匙叶紫菀"
+    },
+    "ja": {
+      "summary": "ダルマギク。海岸の岩場や崖に生えるキク科の多年草。厚く多肉質でへら状の葉をロゼット状につけ、秋に淡青紫色の頭花を咲かせる。潮風に強く、株はこんもりと丸くまとまる。",
+      "habitat_hint": "海岸の岩場、崖、磯の日当たりのよい場所。",
+      "finding_tips": "秋、海岸の岩場で厚く多肉質のへら状の葉と淡青紫色の頭花をもつ草を探す。こんもりした株が識別点。"
+    },
+    "en": {
+      "summary": "Seashore aster (Aster spathulifolius). A perennial daisy of coastal rocks and cliffs; it bears thick fleshy spatula-shaped leaves in a rosette and pale blue-purple flower heads in autumn. Salt-tolerant, it forms rounded mounded clumps.",
+      "habitat_hint": "Coastal rocks, cliffs and sunny rocky shores.",
+      "finding_tips": "In autumn on coastal rock look for a plant with thick fleshy spatula leaves and pale blue-purple flower heads; the mounded clump is diagnostic."
+    },
+    "zh": {
+      "summary": "ダルマギク（匙叶紫菀）。生于海岸岩场与崖壁的菊科多年生草本，叶厚肉质匙形、莲座状，秋开淡蓝紫色头花，耐盐、株丛圆整。",
+      "habitat_hint": "海岸岩场、崖壁、矶岸向阳处。",
+      "finding_tips": "秋于海岸岩场寻找厚肉质匙叶与淡蓝紫头花之草；圆整株丛为辨识点。"
+    }
+  },
+  "Astilbe japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese astilbe",
+    "ja": {
+      "summary": "アワモリショウマ。山地の谷沿いや湿った岩場に生えるユキノシタ科の多年草。数回に分かれた複葉をもち、初夏に白い小花を円錐状に密につけ、泡が盛り上がるように見えるのが名の由来。",
+      "habitat_hint": "山地の谷沿い、湿った岩場、沢沿いの林縁。",
+      "finding_tips": "初夏、谷沿いで白い小花が泡立つように密につく円錐花序を探す。数回分かれる複葉が識別点。"
+    },
+    "en": {
+      "summary": "Japanese astilbe (Astilbe japonica). A perennial of the saxifrage family on montane valley sides and damp rocks; it has compound leaves divided several times and dense conical clusters of small white flowers in early summer that look like frothing foam.",
+      "habitat_hint": "Montane valley sides, damp rocks and streamside edges.",
+      "finding_tips": "In early summer by valleys look for conical clusters of small white flowers frothing like foam; the several-times-divided leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "アワモリショウマ（日本落新妇）。生于山地谷沿与湿岩的虎耳草科多年生草本，叶为多回复叶，初夏白色小花密集成锥状花序、状如泡沫涌起（和名之源）。",
+      "habitat_hint": "山地谷沿、湿岩、沟沿林缘。",
+      "finding_tips": "初夏于谷沿寻找白色小花如泡沫密集之锥状花序；多回复叶为辨识点。"
+    }
+  },
+  "Athyrium amagi-pedis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lady fern",
+    "ja": {
+      "summary": "イズイヌワラビ。山地の林内や林縁に生えるメシダ科のシダ。葉は二回羽状に分かれ、やわらかい草質。イヌワラビの仲間で、伊豆地方などに分布する。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁、谷沿いのやや湿った場所。",
+      "finding_tips": "林床でやわらかい二回羽状のシダを探す。イヌワラビ類の中でも地域性のある種で、分布地が手がかり。"
+    },
+    "en": {
+      "summary": "A lady fern (Athyrium amagi-pedis) of montane forests and edges; the fronds are twice pinnate and soft in texture. A member of the lady-fern group, it is found in the Izu area and nearby.",
+      "habitat_hint": "Montane forest floor, edges and damp valley sides.",
+      "finding_tips": "On the forest floor look for a soft twice-pinnate lady fern; its regional distribution helps distinguish it."
+    },
+    "zh": {
+      "summary": "イズイヌワラビ。生于山地林内与林缘的蹄盖蕨科蕨，叶二回羽状、草质柔软，为蹄盖蕨类，分布伊豆等地。",
+      "habitat_hint": "山地落叶林林床、林缘、谷沿稍湿处。",
+      "finding_tips": "林床寻找柔软二回羽状之蕨；地域性分布为线索。"
+    }
+  },
+  "Athyrium kuratae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lady fern",
+    "ja": {
+      "summary": "ツクシイヌワラビ。暖地の山地の林内や林縁に生えるメシダ科のシダ。葉は二回羽状に分かれ、やわらかい草質。イヌワラビの仲間で、九州（筑紫）地方などに分布する。",
+      "habitat_hint": "暖地の山地の林床、林縁、谷沿いのやや湿った場所。",
+      "finding_tips": "林床でやわらかい二回羽状のシダを探す。イヌワラビ類で、暖地に分布する点が手がかり。"
+    },
+    "en": {
+      "summary": "A lady fern (Athyrium kuratae) of warm-region montane forests and edges; the fronds are twice pinnate and soft. A member of the lady-fern group, it is found in Kyushu and nearby warm areas.",
+      "habitat_hint": "Warm-region montane forest floor, edges and damp valleys.",
+      "finding_tips": "On the forest floor look for a soft twice-pinnate lady fern; its warm-region distribution is a clue."
+    },
+    "zh": {
+      "summary": "ツクシイヌワラビ。生于暖地山地林内与林缘的蹄盖蕨科蕨，叶二回羽状、草质柔软，为蹄盖蕨类，分布九州（筑紫）等暖地。",
+      "habitat_hint": "暖地山地林床、林缘、谷沿稍湿处。",
+      "finding_tips": "林床寻找柔软二回羽状之蕨；分布暖地为线索。"
+    }
+  },
+  "Atrachea sordida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "マエホシヨトウ。低地〜山地の林縁や草地に見られるヤガ科の蛾。前翅は褐色でくすんだ色合いをもち、暗色の紋がある。夜行性で灯火に飛来する。幼虫は草本の葉を食べる。",
+      "habitat_hint": "林縁、雑木林、草地、河川敷の草むら。",
+      "finding_tips": "夏の夜、灯火に来る褐色でくすんだ色合いの蛾を探す。前翅の暗色の紋が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth of lowland to montane forest edges and grassland; the forewings are dull brown with dark marks. It is nocturnal and comes to lights, and the larvae feed on herbaceous plants.",
+      "habitat_hint": "Forest edges, secondary woodland, grassland and riverbanks.",
+      "finding_tips": "On summer nights look at lights for a dull brown moth; the dark forewing marks are diagnostic."
+    },
+    "zh": {
+      "summary": "マエホシヨトウ。见于低地至山地林缘与草地的夜蛾科蛾，前翅褐色暗淡、具暗斑，夜行趋光，幼虫食草本叶。",
+      "habitat_hint": "林缘、杂木林、草地、河滩草丛。",
+      "finding_tips": "夏夜灯下寻找暗淡褐色蛾；前翅暗斑为辨识点。"
+    }
+  },
+  "Atrina pectinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Comb pen shell",
+    "aliases": {
+      "zh-Hans": "栉江珧"
+    },
+    "ja": {
+      "summary": "タイラギガイ。内湾の砂泥底に、とがった殻を下にして半ば埋もれて立って生活するハボウキガイ科の大型の二枚貝。殻は三角形で薄く、足糸で砂泥に固着する。貝柱（後閉殻筋）が大きく、食用として重要。",
+      "habitat_hint": "内湾、沿岸の砂泥底のやや深い場所。",
+      "finding_tips": "砂泥底で、三角形の大きな殻がとがった方を下にして立つ二枚貝を探す。大きな貝柱をもつ点が特徴。"
+    },
+    "en": {
+      "summary": "Comb pen shell (Atrina pectinata). A large fan-shaped bivalve of muddy-sand bottoms in bays, living half-buried and standing point-down; the thin triangular shell anchors by byssal threads. Its large adductor muscle makes it an important food.",
+      "habitat_hint": "Deeper muddy-sand bottoms of inner bays and coasts.",
+      "finding_tips": "On muddy sand look for a large triangular shell standing point-down half-buried; the big adductor muscle is characteristic."
+    },
+    "zh": {
+      "summary": "タイラギガイ（栉江珧）。栖于内湾砂泥底、尖端向下半埋直立生活的江珧科大型双壳，壳三角形而薄、以足丝固着，闭壳肌（贝柱）大、为重要食用贝。",
+      "habitat_hint": "内湾、沿岸砂泥底较深处。",
+      "finding_tips": "砂泥底寻找三角形大壳尖端向下直立半埋之双壳；具大贝柱为特征。"
+    }
+  },
+  "Atuphora stictica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spittlebug",
+    "ja": {
+      "summary": "ホシアワフキ。草地や林縁に見られるアワフキムシ科の小さな昆虫。成虫は褐色で淡色の斑点をもち、後脚で跳ねて移動する。幼虫は植物の汁を吸い、泡状の分泌物に包まれて身を守る。",
+      "habitat_hint": "草地、林縁、河川敷の草むら、低木のまわり。",
+      "finding_tips": "初夏〜夏、草の茎で泡状の分泌物を探し、その中の幼虫を確認する。成虫は淡色の斑点をもつ点が識別点。"
+    },
+    "en": {
+      "summary": "A spittlebug of grassland and forest edges; the brown adults bear pale spots and hop away on their hind legs. The nymphs suck plant sap and shelter within a protective mass of froth.",
+      "habitat_hint": "Grassland, forest edges, riverside vegetation and shrubs.",
+      "finding_tips": "In early summer look on plant stems for a mass of froth with the nymph inside; the adult's pale spots are diagnostic."
+    },
+    "zh": {
+      "summary": "ホシアワフキ。见于草地与林缘的沫蝉科小虫，成虫褐色具淡斑、以后足跳跃，若虫吸植物汁并藏于泡沫状分泌物中自卫。",
+      "habitat_hint": "草地、林缘、河滩草丛、灌木周边。",
+      "finding_tips": "初夏至夏于草茎寻找泡沫分泌物及其中若虫；成虫淡斑为辨识点。"
+    }
+  },
+  "Aulodrilus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aquatic worm",
+    "ja": {
+      "summary": "ヒメイトミミズ。池沼や水路、水田の泥底に生息する小さな水生の貧毛類（イトミミズの仲間）。体は細く赤みを帯び、泥中で有機物を食べる。水質のやや汚れた環境にも耐える。",
+      "habitat_hint": "池沼、水路、水田、河川の泥底。",
+      "finding_tips": "泥底で細く赤みを帯びた小さな水生ミミズを探す。泥中で群れて生活する点が手がかり。"
+    },
+    "en": {
+      "summary": "A small aquatic oligochaete worm of ponds, channels and paddy mud; the slender body is reddish, and it feeds on organic matter in the mud, tolerating somewhat polluted water.",
+      "habitat_hint": "Muddy bottoms of ponds, channels, paddies and rivers.",
+      "finding_tips": "In mud look for a slender reddish aquatic worm; its living in groups within the mud is a clue."
+    },
+    "zh": {
+      "summary": "ヒメイトミミズ。栖于池沼、水渠与稻田泥底的小型水生寡毛类（水丝蚓类），体细带红，于泥中取食有机物，耐轻度污染水质。",
+      "habitat_hint": "池沼、水渠、稻田、河川泥底。",
+      "finding_tips": "泥底寻找细而带红的小型水生蚯蚓；泥中成群生活为线索。"
+    }
+  },
+  "Azorinus abbreviatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clam",
+    "ja": {
+      "summary": "ズングリアゲマキ。内湾や干潟の砂泥底に潜って生活するキヌタアゲマキ科の二枚貝。殻はやや短く長方形に近く、白っぽい。砂泥に深く潜り、水管を伸ばして水中の有機物を濾しとって食べる。",
+      "habitat_hint": "内湾、干潟、汽水域の砂泥底。",
+      "finding_tips": "干潟の砂泥を掘って、やや短い長方形に近い白っぽい二枚貝を探す。ずんぐりした殻形が識別点。"
+    },
+    "en": {
+      "summary": "A burrowing clam of muddy-sand bottoms in bays and tidal flats; the shell is rather short and nearly rectangular and whitish. It burrows deep, extending siphons to filter organic matter from the water.",
+      "habitat_hint": "Muddy-sand bottoms of inner bays, tidal flats and brackish water.",
+      "finding_tips": "Dig tidal-flat mud to find a short, nearly rectangular whitish clam; the stocky shell shape is diagnostic."
+    },
+    "zh": {
+      "summary": "ズングリアゲマキ。栖于内湾与潮滩砂泥底、潜埋生活的截蛏科双壳，壳略短近长方形、色白，深埋泥中伸水管滤食有机物。",
+      "habitat_hint": "内湾、潮滩、半咸水砂泥底。",
+      "finding_tips": "潮滩掘泥寻找略短近长方形的白色双壳；壳形短壮为辨识点。"
+    }
+  },
+  "Baculentulus morikawai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Proturan",
+    "ja": {
+      "summary": "モリカワカマアシムシ。林床の腐植や土壌中に生息するカマアシムシ類（原尾類）の非常に小さな土壌動物。目も触角もなく、前脚を触角のように前に伸ばして歩く。分解者として土壌生態系を支える。",
+      "habitat_hint": "林床の腐植、落葉の下、湿った土壌中。",
+      "finding_tips": "落葉や腐植をふるって、白く非常に小さな細長い虫を探す。前脚を前に伸ばして歩く点が識別点（要ルーペ）。"
+    },
+    "en": {
+      "summary": "A proturan, a very small soil animal of forest-floor humus and soil; it lacks eyes and antennae and walks with its forelegs held out like feelers. It is a decomposer supporting the soil ecosystem.",
+      "habitat_hint": "Forest-floor humus, under litter and in damp soil.",
+      "finding_tips": "Sift litter and humus for a tiny white elongate animal; holding the forelegs forward as feelers is diagnostic (use a lens)."
+    },
+    "zh": {
+      "summary": "モリカワカマアシムシ。栖于林床腐殖与土壤中的原尾类极微小土壤动物，无眼无触角，前足前伸如触角行走，为支撑土壤生态的分解者。",
+      "habitat_hint": "林床腐殖、落叶下、湿润土壤中。",
+      "finding_tips": "筛落叶腐殖寻找白色极小细长虫；前足前伸如触角行走为辨识点（需放大镜）。"
+    }
+  },
+  "Baeolidia salaamica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "サラームミノウミウシ。浅い岩礁やサンゴ礁に生息するミノウミウシ類のウミウシ。背面に多数の平たい突起（ミノ）をもち、イソギンチャクなどの刺胞動物を食べ、その刺胞を体内に取り込んで身を守る。",
+      "habitat_hint": "浅い岩礁、サンゴ礁、潮だまり、イソギンチャクの生える場所。",
+      "finding_tips": "岩礁やサンゴ礁で背に平たいミノを多数もつウミウシを探す。イソギンチャクの近くが手がかり。"
+    },
+    "en": {
+      "summary": "An aeolid sea slug of shallow rocky and coral reefs; its back bears many flattened projections (cerata), and it eats anemones and other cnidarians, storing their stinging cells for defence.",
+      "habitat_hint": "Shallow rocky and coral reefs, tide pools and anemone patches.",
+      "finding_tips": "On reefs look for a slug whose back bears many flattened cerata; proximity to sea anemones is a clue."
+    },
+    "zh": {
+      "summary": "サラームミノウミウシ。栖于浅岩礁与珊瑚礁的蓑海牛类海牛，背具众多扁平蓑，取食海葵等刺胞动物并贮其刺细胞自卫。",
+      "habitat_hint": "浅岩礁、珊瑚礁、潮池、生海葵之处。",
+      "finding_tips": "岩礁与珊瑚礁寻找背具众多扁平蓑之海牛；近海葵为线索。"
+    }
+  },
+  "Baetiella japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mayfly",
+    "ja": {
+      "summary": "フタバコカゲロウ。渓流や河川に生息するコカゲロウ科の小さなカゲロウ。幼虫（水生）は流れのある清冽な水の石の表面に付き、藻類などを食べる。成虫は短命で、水辺で群飛する。水質の指標となる。",
+      "habitat_hint": "清流、渓流、河川の石のある流水環境。",
+      "finding_tips": "清流の石をめくって、流線形で尾の長い小さなカゲロウの幼虫を探す。清冽な流水環境が手がかり。"
+    },
+    "en": {
+      "summary": "A small mayfly of streams and rivers; the aquatic nymph clings to stones in clean flowing water, grazing algae. Adults are short-lived and swarm at the waterside. It indicates good water quality.",
+      "habitat_hint": "Stony flowing water of clean streams and rivers.",
+      "finding_tips": "Turn stones in clean streams to find a streamlined long-tailed mayfly nymph; clean flowing water is a clue."
+    },
+    "zh": {
+      "summary": "フタバコカゲロウ。栖于溪流与河川的四节蜉科小型蜉蝣，水生若虫附于清澈流水石面刮食藻类，成虫短命、于水边群飞，为水质指示种。",
+      "habitat_hint": "清流、溪流、河川的多石流水环境。",
+      "finding_tips": "清流翻石寻找流线形长尾蜉蝣若虫；清澈流水为线索。"
+    }
+  },
+  "Balaenoptera borealis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sei whale",
+    "aliases": {
+      "zh-Hans": "塞鲸"
+    },
+    "ja": {
+      "summary": "イワシクジラ。外洋に分布するナガスクジラ科の大型のヒゲクジラ。体は細長く青灰色で、背びれが比較的大きい。オキアミや小魚を食べる。かつての捕鯨で激減し、現在は保護されている。日本近海にも来遊する。",
+      "habitat_hint": "外洋、大陸棚縁辺、季節的に日本近海に来遊。",
+      "finding_tips": "外洋で細長い青灰色の大型クジラを探す。比較的大きな背びれと、噴気（潮吹き）が手がかり。"
+    },
+    "en": {
+      "summary": "Sei whale (Balaenoptera borealis). A large baleen whale of the open ocean; the slender body is blue-grey with a relatively tall dorsal fin, and it feeds on krill and small fish. Severely depleted by whaling, it is now protected and occurs off Japan.",
+      "habitat_hint": "Open ocean, shelf edges; seasonally off Japanese coasts.",
+      "finding_tips": "In the open sea look for a slender blue-grey great whale; the relatively tall dorsal fin and blow are clues."
+    },
+    "zh": {
+      "summary": "イワシクジラ（塞鲸）。分布外海的须鲸科大型鲸，体细长青灰、背鳍较高，以磷虾与小鱼为食。曾因捕鲸剧减，现受保护，亦游经日本近海。",
+      "habitat_hint": "外海、大陆架边缘，季节性游经日本近海。",
+      "finding_tips": "外海寻找细长青灰色大鲸；较高背鳍与喷气为线索。"
+    }
+  },
+  "Balta vilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミナミヒラタゴキブリ。暖地の林縁や草地、樹上に見られるチャバネゴキブリ科の小さなゴキブリ。体は平たく淡褐色で、屋外性で野外の落葉や樹皮の下、植物の上で暮らす。屋内の害虫ではない。",
+      "habitat_hint": "暖地の林縁、草地、樹上、落葉や樹皮の下。",
+      "finding_tips": "暖地の野外で、平たく淡褐色の小さなゴキブリを植物の上や落葉の下で探す。屋外性である点が手がかり。"
+    },
+    "en": {
+      "summary": "A small outdoor cockroach of warm-region forest edges, grassland and foliage; the flat body is pale brown, and it lives outdoors under litter and bark and on plants. It is not an indoor pest.",
+      "habitat_hint": "Warm-region forest edges, grassland, foliage, under litter and bark.",
+      "finding_tips": "Outdoors in warm regions look on plants and under litter for a small flat pale-brown cockroach; its outdoor habit is a clue."
+    },
+    "zh": {
+      "summary": "ミナミヒラタゴキブリ（维丽巴蠊）。见于暖地林缘、草地与树上的姬蠊科小型蜚蠊，体扁淡褐、室外性，栖于野外落叶、树皮下与植物上，非室内害虫。",
+      "habitat_hint": "暖地林缘、草地、树上、落叶与树皮下。",
+      "finding_tips": "暖地野外于植物上与落叶下寻找扁平淡褐小蜚蠊；室外性为线索。"
+    }
+  },
+  "Barbatia amygdalumtostum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ark clam",
+    "ja": {
+      "summary": "ベニエガイ。潮間帯〜浅海の岩の隙間や転石の下に足糸で固着して生活するフネガイ科の二枚貝。殻は細長く、赤褐色の殻皮に毛が生える。放射状の細かい肋をもつ。",
+      "habitat_hint": "潮間帯〜浅海の岩の隙間、転石の下、岩礁。",
+      "finding_tips": "干潮時、岩の隙間で赤褐色の毛の生えた細長い二枚貝を探す。足糸で岩に固着する点が識別点。"
+    },
+    "en": {
+      "summary": "An ark clam that attaches by byssal threads in rock crevices and under boulders from the intertidal to shallow water; the elongate shell has a hairy red-brown periostracum and fine radial ribs.",
+      "habitat_hint": "Intertidal to shallow rock crevices, under boulders and reefs.",
+      "finding_tips": "At low tide in crevices look for an elongate hairy red-brown clam; attachment by byssal threads is diagnostic."
+    },
+    "zh": {
+      "summary": "ベニエガイ。以足丝固着于潮间带至浅海岩隙与砾石下的蚶科双壳，壳细长、被红褐毛状壳皮、具细放射肋。",
+      "habitat_hint": "潮间带至浅海岩隙、砾石下、岩礁。",
+      "finding_tips": "退潮时于岩隙寻找红褐被毛的细长双壳；足丝固着为辨识点。"
+    }
+  },
+  "Baris deplanata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "クワヒメゾウムシ。クワ（桑）につくゾウムシ科の小さな甲虫。体は黒っぽく光沢があり、短い口吻をもつ。幼虫は茎や枝の内部を食べる。桑を栽培する地域で見られる。",
+      "habitat_hint": "桑畑、クワの生える林縁、河川敷。",
+      "finding_tips": "クワの茎や葉の上で、黒っぽく光沢のある小さなゾウムシを探す。桑のまわりに集まる点が手がかり。"
+    },
+    "en": {
+      "summary": "A small weevil (Baris deplanata) associated with mulberry; the body is glossy blackish with a short snout, and the larvae feed inside stems and shoots. It is found where mulberry is grown.",
+      "habitat_hint": "Mulberry groves, mulberry-bearing edges and riverbanks.",
+      "finding_tips": "On mulberry stems and leaves look for a small glossy blackish weevil; its association with mulberry is a clue."
+    },
+    "zh": {
+      "summary": "クワヒメゾウムシ（桑象）。为害桑树的象甲科小甲虫，体黑而有光泽、喙短，幼虫蛀食茎枝内部，见于植桑地区。",
+      "habitat_hint": "桑园、生桑林缘、河滩。",
+      "finding_tips": "桑茎与叶上寻找黑亮小象甲；聚于桑树周边为线索。"
+    }
+  },
+  "Basterotia gouldi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clam",
+    "ja": {
+      "summary": "イソカゼガイ。内湾や干潟の泥底に生息する小さな二枚貝。殻は三角形に近くふくらみ、白っぽい。他の生物のつくった巣穴などに共生的に住むことが知られる。",
+      "habitat_hint": "内湾、干潟、汽水域の泥底、他生物の巣穴。",
+      "finding_tips": "干潟の泥底や、他の生物の巣穴の周辺で三角形に近い白っぽい小さな二枚貝を探す。"
+    },
+    "en": {
+      "summary": "A small clam of muddy bottoms in bays and tidal flats; the whitish shell is nearly triangular and inflated. It is known to live commensally in burrows made by other animals.",
+      "habitat_hint": "Muddy bottoms of inner bays, tidal flats and others' burrows.",
+      "finding_tips": "In tidal-flat mud and around other animals' burrows look for a small whitish nearly triangular clam."
+    },
+    "zh": {
+      "summary": "イソカゼガイ。栖于内湾与潮滩泥底的小型双壳，壳近三角而膨、色白，已知共栖于他种生物所掘之洞穴。",
+      "habitat_hint": "内湾、潮滩、半咸水泥底、他生物洞穴。",
+      "finding_tips": "潮滩泥底或他生物洞穴周边寻找近三角形白色小双壳。"
+    }
+  },
+  "Bathygobius cocosensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frillfin goby",
+    "ja": {
+      "summary": "スジクモハゼ。潮間帯の岩礁や潮だまりに生息するハゼ科の小さな魚。体は褐色で暗色のまだら模様があり、周囲の岩や砂に溶け込む。胸びれの上部の鰭条が遊離するのが特徴。",
+      "habitat_hint": "潮間帯の岩礁、潮だまり、転石のある海辺。",
+      "finding_tips": "潮だまりで褐色のまだら模様をもつ小さなハゼを探す。岩に溶け込む体色と遊離する胸びれ上部が識別点。"
+    },
+    "en": {
+      "summary": "A frillfin goby of intertidal reefs and tide pools; the brown body is dark-mottled and blends with rock and sand. The upper pectoral-fin rays are free (frilled), a feature of the group.",
+      "habitat_hint": "Intertidal reefs, tide pools and boulder shores.",
+      "finding_tips": "In tide pools look for a small brown mottled goby blending with rock; the free upper pectoral rays are diagnostic."
+    },
+    "zh": {
+      "summary": "スジクモハゼ。栖于潮间带岩礁与潮池的虾虎鱼科小鱼，体褐具暗斑驳、融于岩砂，胸鳍上部鳍条游离（穗状）为其类群特征。",
+      "habitat_hint": "潮间带岩礁、潮池、多砾海边。",
+      "finding_tips": "潮池寻找融于岩石的褐色斑驳小虾虎；胸鳍上部游离鳍条为辨识点。"
+    }
+  },
+  "Bathygobius cyclopterus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frillfin goby",
+    "ja": {
+      "summary": "ヤハズハゼ。潮間帯の岩礁や潮だまりに生息するハゼ科の小さな魚。体は褐色でまだら模様をもち、岩や砂に擬態する。胸びれの上部の鰭条が遊離する。潮だまりで普通に見られる。",
+      "habitat_hint": "潮間帯の岩礁、潮だまり、転石のある海辺。",
+      "finding_tips": "潮だまりで岩に擬態する褐色のまだら模様の小さなハゼを探す。遊離する胸びれ上部が識別点。"
+    },
+    "en": {
+      "summary": "A frillfin goby of intertidal reefs and tide pools; the brown mottled body mimics rock and sand, and the upper pectoral-fin rays are free. It is common in tide pools.",
+      "habitat_hint": "Intertidal reefs, tide pools and boulder shores.",
+      "finding_tips": "In tide pools look for a brown mottled goby camouflaged on rock; the free upper pectoral rays are diagnostic."
+    },
+    "zh": {
+      "summary": "ヤハズハゼ。栖于潮间带岩礁与潮池的虾虎鱼科小鱼，体褐斑驳拟岩砂，胸鳍上部鳍条游离，潮池常见。",
+      "habitat_hint": "潮间带岩礁、潮池、多砾海边。",
+      "finding_tips": "潮池寻找拟岩的褐色斑驳小虾虎；胸鳍上部游离鳍条为辨识点。"
+    }
+  },
+  "Bembidion poppii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "カギモンミズギワゴミムシ。河原や水辺の湿った地面に生息するオサムシ科（ミズギワゴミムシ類）の小さな甲虫。体は光沢があり、上翅にかぎ状の淡色紋をもつ。素早く歩き回って小さな虫を捕食する。",
+      "habitat_hint": "河原、池沼の縁、湿地などの湿った裸地。",
+      "finding_tips": "水辺の湿った地面で、上翅にかぎ状の淡色紋をもつ光沢のある小さな甲虫を探す。素早い動きが手がかり。"
+    },
+    "en": {
+      "summary": "A small ground beetle of damp riverbank and waterside soil; the glossy body bears hook-shaped pale marks on the elytra, and it runs quickly, preying on small invertebrates.",
+      "habitat_hint": "Damp bare ground of riverbanks, pond margins and wetlands.",
+      "finding_tips": "On damp waterside ground look for a small glossy beetle with hook-shaped pale elytral marks; its quick movement is a clue."
+    },
+    "zh": {
+      "summary": "カギモンミズギワゴミムシ。栖于河滩与水边湿地的步甲科小甲虫，体有光泽、鞘翅具钩状淡斑，行动迅速捕食小虫。",
+      "habitat_hint": "河滩、池沼边缘、湿地等湿润裸地。",
+      "finding_tips": "水边湿地寻找鞘翅具钩状淡斑的光泽小甲虫；行动迅速为线索。"
+    }
+  },
+  "Bembidion stenoderum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ドウイロミズギワゴミムシ。河原や水辺の湿った地面に生息するオサムシ科（ミズギワゴミムシ類）の小さな甲虫。体は銅色の金属光沢をもつ。素早く歩き回って小さな虫を捕食する。",
+      "habitat_hint": "河原、池沼の縁、湿地などの湿った裸地。",
+      "finding_tips": "水辺の湿った地面で、銅色の金属光沢をもつ小さな甲虫を探す。素早い動きと光沢が識別点。"
+    },
+    "en": {
+      "summary": "A small ground beetle of damp riverbank and waterside soil; the body has a coppery metallic sheen, and it runs quickly, preying on small invertebrates.",
+      "habitat_hint": "Damp bare ground of riverbanks, pond margins and wetlands.",
+      "finding_tips": "On damp waterside ground look for a small beetle with a coppery metallic sheen; its quick movement and sheen are diagnostic."
+    },
+    "zh": {
+      "summary": "ドウイロミズギワゴミムシ。栖于河滩与水边湿地的步甲科小甲虫，体具铜色金属光泽，行动迅速捕食小虫。",
+      "habitat_hint": "河滩、池沼边缘、湿地等湿润裸地。",
+      "finding_tips": "水边湿地寻找具铜色金属光泽的小甲虫；迅速与光泽为辨识点。"
+    }
+  },
+  "Beringius polynematicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "ナガバイ。北方の冷たい海のやや深い砂泥底に生息するエゾバイ科の大型の巻貝。殻は細長い紡錘形で、螺旋状の隆起をもつ。肉食性・腐肉食性で、他の貝や動物の死骸を食べる。食用にもなる。",
+      "habitat_hint": "北方のやや深い海の砂泥底、大陸棚。",
+      "finding_tips": "北の深めの海底で細長い紡錘形の大きな巻貝を探す。螺旋状の隆起をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "A large whelk of deeper muddy-sand bottoms in cold northern seas; the slender spindle-shaped shell bears spiral ridges. It is a carnivore and scavenger of other shellfish and carrion, and is also eaten.",
+      "habitat_hint": "Deeper muddy-sand bottoms and shelf of cold northern seas.",
+      "finding_tips": "On deeper northern seabeds look for a large slender spindle-shaped whelk; the spiral ridges are diagnostic."
+    },
+    "zh": {
+      "summary": "ナガバイ。栖于北方冷水海较深砂泥底的蛾螺科大型螺，壳细长纺锤形、具螺旋隆起，肉食兼腐食其他贝类与动物尸体，亦供食用。",
+      "habitat_hint": "北方较深海砂泥底、大陆架。",
+      "finding_tips": "北方较深海底寻找细长纺锤形大螺；螺旋隆起为辨识点。"
+    }
+  },
+  "Berosus signaticollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water scavenger beetle",
+    "ja": {
+      "summary": "ゴマフガムシ。池沼や水田、湿地の止水に生息するガムシ科の小さな水生甲虫。体は黄褐色で黒い斑点が胡麻を散らしたように並ぶ。水草の間を泳ぎ、幼虫は肉食性。",
+      "habitat_hint": "池沼、水田、休耕田、湿地などの止水。",
+      "finding_tips": "止水の水草の間で、黄褐色に黒い斑点を散らした小さな水生甲虫を探す。胡麻状の斑が識別点。"
+    },
+    "en": {
+      "summary": "A small water scavenger beetle of still water in ponds, paddies and wetlands; the yellow-brown body is sprinkled with black dots. It swims among water plants, and the larvae are carnivorous.",
+      "habitat_hint": "Still water of ponds, paddies, fallow fields and wetlands.",
+      "finding_tips": "In still water among plants look for a small yellow-brown beetle sprinkled with black dots; the sesame-like spots are diagnostic."
+    },
+    "zh": {
+      "summary": "ゴマフガムシ。栖于池沼、稻田与湿地静水的牙甲科小型水生甲虫，体黄褐散布黑点如撒芝麻，泳于水草间，幼虫肉食。",
+      "habitat_hint": "池沼、稻田、休耕田、湿地等静水。",
+      "finding_tips": "静水水草间寻找黄褐散黑点的小型水生甲虫；芝麻状斑为辨识点。"
+    }
   }
 }
