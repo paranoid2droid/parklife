@@ -150,6 +150,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-07-19 (Claude/Opus) — np2-4 grind np24-l..p (+117), profile_count 11,876
+- Continued the np=4 sub-tier alphabetically (letters E→I). 5 sidecar-only batches (np24-l..p), commits `5f715525`→`60484d22`. Scripts `/tmp/profile_batch_np24_{l,m,n,o,p}.py`.
+- New name-mismatch skips added to the NOT IN filter: `Haliotis ovina` (ja=マアナゴ conger-eel name on an abalone). `Dryopteris paomowanensis` (ja=モミジカラマツ) still skipped from np24-k. Kept `Gigahomalopoma nocturnum`/`amussitatum` excluded as a precaution.
+- Coverage E→I: groupers/morays/gobies, sea slugs (Goniobranchus/Gymnodoris/Favorinus/Hypselodoris), geometer+erebid moths, mosses, fleabanes, funori/Hypnea algae, pheasant-tailed jacana (eBird), European tree frog, Tohoku salamander, bunashimeji, coral hibiscus. **NEXT: continue np=4 from letter I (Impatiens balfourii onward).** Same workflow + skip filters; deploy still classifier-blocked (sidecar commits are the deliverable).
+
 ### 2026-07-19 (Claude/Opus) — 🧹 disk cleanup: reclaimed ~30 G (256 G Mac hit 98%)
 - Root cause: photo caches stored **whole** API responses though readers use ~8 fields. `inat_photos` 21 G (95× waste), `gbif` 7.7 G. No image bytes ever downloaded — only URLs, already in `species_photo`/`park_species_photo`.
 - Wrote `scripts/prune_caches.py` (report / slim-inat / slim-gbif / trim-backups). Slimmed both caches in place (lossless for read fields, stays re-runnable): inat 21 G→0.4 G, gbif 7.7 G→0.7 G. Deleted 8 old DB backups (kept newest 1). **Project 34 G→4.3 G.**
