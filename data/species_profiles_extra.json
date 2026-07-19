@@ -274312,5 +274312,543 @@
       "habitat_hint": "阔叶倒木、枯枝、树桩。",
       "finding_tips": "秋于倒木枯枝寻找侧生之肾形略黏小菇；肾形近无柄盖为线索。"
     }
+  },
+  "Holostrophus orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False darkling beetle",
+    "ja": {
+      "summary": "アヤモンヒメナガクチキ。朽ち木や樹皮の下にすむナガクチキムシ科の小型の甲虫。細長い体に綾（あや）状の斑紋をもち、菌の生えた枯れ木で見られる。夜行性で灯火にも飛来する。",
+      "habitat_hint": "枯れ木、倒木、樹皮の下、菌の生えた朽ち木。",
+      "finding_tips": "菌の生えた枯れ木や樹皮下で、細長く綾状の斑紋をもつ小さな甲虫を探す。細長い体形が手がかり。"
+    },
+    "en": {
+      "summary": "A false darkling beetle (Holostrophus orientalis) living in dead wood and under bark; the elongate body bears a patterned marking and it occurs on fungus-ridden dead wood, coming to light at night.",
+      "habitat_hint": "Dead wood, logs, under bark, fungus-ridden rotten wood.",
+      "finding_tips": "On fungus-ridden dead wood or under bark look for a small elongate patterned beetle; the elongate shape is the clue."
+    },
+    "zh": {
+      "summary": "アヤモンヒメナガクチキ。长朽木甲科小型甲虫，栖朽木与树皮下，体细长具斑纹，见于生菌枯木，夜间趋光。",
+      "habitat_hint": "枯木、倒木、树皮下、生菌朽木。",
+      "finding_tips": "生菌枯木或树皮下寻找细长具斑纹之小甲虫；细长体形为线索。"
+    }
+  },
+  "Homaliadelphus targionianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "タチヒラゴケ。石灰岩の岩上や樹幹に着生する平たい蘚類（コケ）。葉が扁平に二列に並んで広がり、光沢をもつ。石灰岩地の湿った岩でよく見られる。",
+      "habitat_hint": "石灰岩の岩上、樹幹、湿った林内、着生。",
+      "finding_tips": "石灰岩地の湿った岩や樹幹で、葉が扁平に広がる光沢のあるコケを探す。平たく広がる葉が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Homaliadelphus targionianus) growing flat on limestone rock and tree trunks; the glossy leaves are arranged in two flattened ranks. It is common on damp limestone rock.",
+      "habitat_hint": "Limestone rock, tree trunks, damp forest, epiphytic.",
+      "finding_tips": "On damp limestone rock and trunks look for a glossy moss spreading flat; the flattened two-ranked leaves are the clue."
+    },
+    "zh": {
+      "summary": "タチヒラゴケ。附生于石灰岩与树干之扁平藓类，叶二列扁平铺展、有光泽，常见于石灰岩湿岩。",
+      "habitat_hint": "石灰岩岩上、树干、湿林内，附生。",
+      "finding_tips": "石灰岩湿岩或树干寻找叶扁平铺展、有光泽之藓；扁平叶为线索。"
+    }
+  },
+  "Hupodonta lignea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prominent moth",
+    "ja": {
+      "summary": "スジモクメシャチホコ。シャチホコガ科の中型の蛾で、前翅は木目（もくめ）のような灰褐色の模様をもち、樹皮に似せた保護色になる。夜行性で灯火に来て、幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、灯火で木目模様の灰褐色の蛾を探す。樹皮に似た木目状の模様が識別点。"
+    },
+    "en": {
+      "summary": "A prominent moth (Hupodonta lignea), a medium notodontid whose greyish-brown forewings bear a wood-grain pattern that camouflages it against bark. Nocturnal and attracted to light, its larvae feed on broadleaf trees.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at lights look for a greyish-brown moth with a wood-grain pattern; the bark-like figuring is the clue."
+    },
+    "zh": {
+      "summary": "スジモクメシャチホコ。舟蛾科中型蛾，前翅具木纹状灰褐斑、拟树皮为保护色，夜行趋光，幼虫食阔叶树叶。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜灯下寻找具木纹之灰褐蛾；拟树皮木纹为辨识点。"
+    }
+  },
+  "Hydraecia amurensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Butterbur borer moth",
+    "ja": {
+      "summary": "フキヨトウ。ヤガ科の中型の蛾で、幼虫がフキ（蕗）などの茎や地下茎に潜って食べることが名の由来。前翅は褐色で、夜行性で灯火に来る。湿った草地や河畔で見られる。",
+      "habitat_hint": "湿った草地、河畔、フキの生える林縁。",
+      "finding_tips": "秋の夜、フキの多い湿地や河畔の灯火で褐色の中型ヤガを探す。フキの群生地が手がかり。"
+    },
+    "en": {
+      "summary": "A butterbur borer moth (Hydraecia amurensis), a medium noctuid whose larvae bore into the stems and rhizomes of butterbur (Petasites), giving its Japanese name; the brown-forewinged adult comes to light. It occurs in damp grassland and riversides.",
+      "habitat_hint": "Damp grassland, riversides, butterbur-grown forest edges.",
+      "finding_tips": "On autumn nights at lights near butterbur stands look for a brown medium noctuid; butterbur colonies are the clue."
+    },
+    "zh": {
+      "summary": "フキヨトウ。夜蛾科中型蛾，幼虫钻食蜂斗菜（蕗）之茎与根状茎而得名，前翅褐色、夜行趋光，见于湿草地与河畔。",
+      "habitat_hint": "湿草地、河畔、生蜂斗菜之林缘。",
+      "finding_tips": "秋夜于多蜂斗菜之湿地灯下寻找褐色中型夜蛾；蜂斗菜群落为线索。"
+    }
+  },
+  "Hydrelia bicauliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "マダラウスナミシャク。シャクガ科ナミシャク亜科の小型の蛾で、灰白色の翅にまだら状の斑紋と細い横線をもつ。夜行性で灯火に来て、山地の湿った林で見られる。",
+      "habitat_hint": "山地〜低山地の湿った落葉樹林、林縁、渓流沿い。",
+      "finding_tips": "夏の夜、山地の灯火で灰白色にまだら模様と細い横線をもつ小さな蛾を探す。まだら状の斑紋が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Hydrelia bicauliata), a small larentiine with greyish-white wings marked with mottling and fine cross-lines. Nocturnal and attracted to light, it occurs in damp montane woods.",
+      "habitat_hint": "Montane to low-mountain damp deciduous forest, edges, streamsides.",
+      "finding_tips": "On summer nights at upland lights look for a small greyish-white moth with mottled marks and fine lines; the mottling is the clue."
+    },
+    "zh": {
+      "summary": "マダラウスナミシャク。尺蛾科灰尺蛾亚科小型蛾，灰白翅具斑驳斑纹与细横线，夜行趋光，见于山地湿林。",
+      "habitat_hint": "山地至低山湿润落叶林、林缘、溪流沿岸。",
+      "finding_tips": "夏夜于山地灯下寻找灰白具斑驳纹与细横线之小蛾；斑驳纹为辨识点。"
+    }
+  },
+  "Hydrelia sylvata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Waved carpet moth",
+    "ja": {
+      "summary": "キスジハイイロナミシャク。シャクガ科ナミシャク亜科の小型の蛾で、灰色の翅に黄色みを帯びた筋（横線）が走る。夜行性で灯火に来て、山地の落葉樹林で見られる。幼虫は広葉樹の葉を食べる。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、山地の灯火で灰色に黄色い筋をもつ小さな蛾を探す。黄色みの横線が識別点。"
+    },
+    "en": {
+      "summary": "Waved carpet moth (Hydrelia sylvata), a small larentiine with grey wings crossed by yellowish lines. Nocturnal and attracted to light, it occurs in montane deciduous forest; larvae feed on broadleaf trees.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at upland lights look for a small grey moth with yellowish cross-lines; the yellowish lines are the clue."
+    },
+    "zh": {
+      "summary": "キスジハイイロナミシャク。尺蛾科灰尺蛾亚科小型蛾，灰翅具带黄色横线，夜行趋光，见于山地落叶林，幼虫食阔叶树叶。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜于山地灯下寻找灰翅具黄线之小蛾；黄横线为辨识点。"
+    }
+  },
+  "Hydrocotyle dichondroides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pennywort",
+    "ja": {
+      "summary": "ケチドメグサ。湿った地面を這うウコギ科（旧セリ科）チドメグサ属の小型の多年草。丸みのある葉に毛があり、地面を這って広がる。田の畦や湿地、庭の隅など身近な湿った場所で見られる。",
+      "habitat_hint": "田の畦、湿地、庭、路傍の湿った地面。",
+      "finding_tips": "湿った地面で丸く毛のある小さな葉が地を這って広がるのを探す。毛のある丸葉が識別点。"
+    },
+    "en": {
+      "summary": "A pennywort (Hydrocotyle dichondroides), a small creeping perennial of damp ground; the rounded leaves are hairy and it spreads flat over the soil, in paddy bunds, wet ground and garden corners.",
+      "habitat_hint": "Paddy bunds, wet ground, gardens, damp roadsides.",
+      "finding_tips": "On damp ground look for small rounded hairy leaves creeping flat over the soil; the hairy round leaves are the clue."
+    },
+    "zh": {
+      "summary": "ケチドメグサ。五加科（旧伞形科）天胡荽属小型匍匐多年生草，叶圆有毛、贴地铺展，见于田埂、湿地、庭园等身边湿处。",
+      "habitat_hint": "田埂、湿地、庭园、路旁湿地。",
+      "finding_tips": "湿地寻找圆而有毛之小叶贴地铺展；有毛圆叶为辨识点。"
+    }
+  },
+  "Hydrophasianus chirurgus": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pheasant-tailed jacana",
+    "aliases": {
+      "zh-Hans": "水雉"
+    },
+    "ja": {
+      "summary": "レンカク。ハスやヒシの浮葉の上を長い指と爪で歩き回るレンカク科の水鳥。夏羽では首の後ろが金色、繁殖期に長い尾羽が伸びて美しい。日本には主に旅鳥・夏鳥としてまれに渡来する。",
+      "habitat_hint": "ハスやヒシなど浮葉植物の茂る池、湖沼、湿地。",
+      "finding_tips": "夏、浮葉の池で長い尾と金色の首をもち、浮葉の上を歩く水鳥を探す。長い指と尾羽が識別点。"
+    },
+    "en": {
+      "summary": "Pheasant-tailed jacana (Hydrophasianus chirurgus), a waterbird that walks over floating leaves of lotus and water chestnut on long toes and claws; breeding birds have a golden hindneck and long tail plumes. In Japan it is a rare passage/summer visitor.",
+      "habitat_hint": "Ponds, lakes and wetlands with floating-leaved plants like lotus.",
+      "finding_tips": "In summer on floating-leaved ponds look for a bird with a long tail and golden neck walking over the leaves; the long toes and tail are diagnostic."
+    },
+    "zh": {
+      "summary": "レンカク（水雉）。水雉科水鸟，以长趾长爪行走于莲、菱等浮叶之上，夏羽后颈金色、繁殖期尾羽长而华丽，日本主要为罕见过境／夏候鸟。",
+      "habitat_hint": "生莲、菱等浮叶植物之池塘、湖沼、湿地。",
+      "finding_tips": "夏于浮叶池塘寻找具长尾金颈、行于浮叶之水鸟；长趾与尾羽为辨识点。"
+    }
+  },
+  "Hygrobates calliger": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water mite",
+    "ja": {
+      "summary": "カワオヨギダニ。河川や渓流の水中にすむミズダニ類（水生のダニ）で、丸みのある体で水中を泳ぎ回る。幼虫は水生昆虫に寄生し、成虫は小動物を捕食する。清流の指標にもなる。",
+      "habitat_hint": "河川・渓流の礫底、水草の間、清流の水中。",
+      "finding_tips": "清流の石の裏や水草の間で、丸く赤みを帯びて泳ぐ微小なミズダニを探す。水中を泳ぐ姿が手がかり。"
+    },
+    "en": {
+      "summary": "A water mite (Hygrobates calliger) living in rivers and streams; the rounded body swims through the water. Larvae parasitise aquatic insects and adults prey on small animals; it indicates clean streams.",
+      "habitat_hint": "Gravel beds and among water plants in clean rivers and streams.",
+      "finding_tips": "Under clean-stream stones or among water plants look for a tiny rounded reddish swimming mite; the swimming habit is the clue."
+    },
+    "zh": {
+      "summary": "カワオヨギダニ。水螨类（水生螨），栖河川溪流水中，体圆而游泳，幼虫寄生水生昆虫、成虫捕食小动物，为清流指标。",
+      "habitat_hint": "河川溪流砾底、水草间、清流水中。",
+      "finding_tips": "清流石下或水草间寻找圆而带红、游泳之微小水螨；游泳之姿为线索。"
+    }
+  },
+  "Hygrophorus lucorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Larch waxcap",
+    "ja": {
+      "summary": "キヌメリガサ。カラマツ林の地上に生えるヌメリガサ科のきのこ。傘は鮮やかな黄色でぬめりがあり、ひだは垂生する。カラマツと菌根を作り、秋に発生する。食用になる。",
+      "habitat_hint": "カラマツ林の地上、カラマツと菌根を作る場所。",
+      "finding_tips": "秋、カラマツ林で鮮やかな黄色でぬめりのある傘のきのこを探す。黄色い傘とカラマツ林が手がかり。"
+    },
+    "en": {
+      "summary": "Larch waxcap (Hygrophorus lucorum), a mushroom of larch woods with a bright yellow slimy cap and decurrent gills; it forms mycorrhiza with larch and fruits in autumn. It is edible.",
+      "habitat_hint": "On the ground in larch woods, mycorrhizal with larch.",
+      "finding_tips": "In autumn in larch woods look for a bright yellow slimy-capped mushroom; the yellow cap under larch is the clue."
+    },
+    "zh": {
+      "summary": "キヌメリガサ。蜡伞科真菌，生落叶松林地上，盖鲜黄而黏、褶延生，与落叶松共生菌根、秋季发生，可食。",
+      "habitat_hint": "落叶松林地上、与落叶松共生处。",
+      "finding_tips": "秋于落叶松林寻找鲜黄黏盖之菇；黄盖与松林为线索。"
+    }
+  },
+  "Hyla arborea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "European tree frog",
+    "aliases": {
+      "zh-Hans": "欧洲雨蛙"
+    },
+    "ja": {
+      "summary": "ヨーロッパアマガエル。ヨーロッパに広く分布するアマガエル科の小型のカエルで、鮮やかな緑色の体と吸盤のある指をもつ。日本のニホンアマガエルによく似る。木や草の上で暮らし、春〜夏に大きな声で鳴く。",
+      "habitat_hint": "池沼周辺の草地、低木、水辺の植生（ヨーロッパ）。",
+      "finding_tips": "水辺の草や低木の上で、鮮やかな緑色に体側の暗い線をもつ小さなカエルを探す。指の吸盤が識別点。"
+    },
+    "en": {
+      "summary": "European tree frog (Hyla arborea), a small hylid widespread in Europe with a bright green body and adhesive toe discs, closely resembling the Japanese tree frog. It lives on trees and grasses and calls loudly in spring–summer.",
+      "habitat_hint": "Grassland, shrubs and waterside vegetation near ponds (Europe).",
+      "finding_tips": "On waterside grass and shrubs look for a small bright-green frog with a dark flank stripe; the toe discs are diagnostic."
+    },
+    "zh": {
+      "summary": "ヨーロッパアマガエル（欧洲雨蛙）。雨蛙科小型蛙，广布欧洲，体鲜绿、趾具吸盘，甚似日本雨蛙，栖树草之上，春夏高声鸣叫。",
+      "habitat_hint": "池沼周边草地、灌丛、水边植被（欧洲）。",
+      "finding_tips": "水边草丛灌木寻找鲜绿具体侧暗纹之小蛙；趾吸盘为辨识点。"
+    }
+  },
+  "Hylodesmum laxum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tick-trefoil",
+    "ja": {
+      "summary": "オオバヌスビトハギ。山地の林床や林縁に生えるマメ科の多年草で、三小葉の大きな葉をもつ。淡紅色の小さな蝶形花のあと、節ごとにくびれた豆果をつけ、これが衣服にくっつく（ひっつき虫）。",
+      "habitat_hint": "山地の林床、林縁、やや湿った林内。",
+      "finding_tips": "夏〜秋、山地の林縁で三小葉の大きな葉と淡紅色の小花、くびれた豆果をもつ草を探す。節でくびれる豆果が識別点。"
+    },
+    "en": {
+      "summary": "A tick-trefoil (Hylodesmum laxum), a montane perennial legume of forest floors and edges with large trifoliate leaves; after small pale-pink pea flowers it forms jointed pods constricted at each segment that stick to clothing.",
+      "habitat_hint": "Montane forest floor, edges, somewhat damp woodland.",
+      "finding_tips": "In summer–autumn at montane edges look for a plant with large trifoliate leaves, small pink flowers and segmented sticky pods; the constricted pods are diagnostic."
+    },
+    "zh": {
+      "summary": "オオバヌスビトハギ。豆科多年生草，生山地林床与林缘，叶三出而大，淡红蝶形小花后结节间缢缩之荚（黏附衣物）。",
+      "habitat_hint": "山地林床、林缘、稍湿林内。",
+      "finding_tips": "夏秋于山地林缘寻找大三出叶、淡红小花、缢缩荚之草；节间缢缩荚为辨识点。"
+    }
+  },
+  "Hynobius lichenatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tohoku salamander",
+    "ja": {
+      "summary": "トウホクサンショウウオ。東北地方を中心に分布する日本固有の小型のサンショウウオ（有尾類）。体は褐色で、地衣（りゃくてん）を思わせる不規則な斑紋をもつ。春、山地の池や水たまりで繁殖する。",
+      "habitat_hint": "山地〜丘陵の落葉樹林の林床、繁殖期は止水（池・水たまり）。",
+      "finding_tips": "春、山地の池や湿地で褐色に不規則な斑紋をもつ小型のサンショウウオや、その卵のうを探す。斑紋と分布が手がかり。"
+    },
+    "en": {
+      "summary": "Tohoku salamander (Hynobius lichenatus), a small Japanese-endemic salamander centred on the Tohoku region; brown with an irregular lichen-like mottling. It breeds in spring in montane ponds and pools.",
+      "habitat_hint": "Montane–hill deciduous forest floor; still water for breeding.",
+      "finding_tips": "In spring in montane ponds and wet ground look for a small brown salamander with irregular mottling, or its egg sacs; the pattern and range are the clue."
+    },
+    "zh": {
+      "summary": "トウホクサンショウウオ。日本特有小型有尾类（蝾螈类），主分布东北地区，体褐、具似地衣之不规则斑纹，春于山地池塘水洼繁殖。",
+      "habitat_hint": "山地至丘陵落叶林床；繁殖期于静水（池塘、水洼）。",
+      "finding_tips": "春于山地池塘湿地寻找体褐具不规则斑纹之小型山椒鱼或其卵囊；斑纹与分布为线索。"
+    }
+  },
+  "Hypena pulverulenta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "コテングアツバ。ヤガ科（アツバ類）の小型の蛾で、下唇鬚が前に長く突き出て天狗の鼻のように見える。前翅は褐色で細かな粉をふいたような斑紋をもつ。夜行性で灯火に来る。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "夏の夜、灯火で下唇鬚が前に突き出た褐色の小さなアツバ類を探す。天狗の鼻状の突出が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Hypena pulverulenta), a small erebid whose labial palps project forward like a long snout; the brown forewing has a fine powdery patterning. It is nocturnal and comes to light.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "On summer nights at lights look for a small brown moth with a forward-projecting snout; the long snout is diagnostic."
+    },
+    "zh": {
+      "summary": "コテングアツバ。裳蛾科小型蛾，下唇须前伸如天狗之鼻，前翅褐色具细粉状斑纹，夜行趋光。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "夏夜灯下寻找下唇须前伸之褐色小蛾；长吻状突出为辨识点。"
+    }
+  },
+  "Hypena similata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "ナミガタアツバ。ヤガ科（アツバ類）の小型の蛾で、下唇鬚が前に突き出る。前翅は褐色で、波状の横線（波形）をもつのが名の由来。夜行性で灯火に来て、雑木林や林縁で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "夏の夜、灯火で波状の横線をもつ褐色の小さなアツバ類を探す。波形の横線と突き出た下唇鬚が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Hypena similata), a small erebid with forward-projecting palps; the brown forewing bears wavy cross-lines that name it in Japanese. Nocturnal and attracted to light, it occurs in coppice and edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "On summer nights at lights look for a small brown moth with wavy cross-lines and a projecting snout; the wavy lines are the clue."
+    },
+    "zh": {
+      "summary": "ナミガタアツバ。裳蛾科小型蛾，下唇须前伸，前翅褐色具波状横线而得名，夜行趋光，见于杂木林与林缘。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "夏夜灯下寻找具波状横线、下唇须前伸之褐色小蛾；波状线为辨识点。"
+    }
+  },
+  "Hypena whiteleyi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "ホソバアツバ。ヤガ科（アツバ類）の小型の蛾で、下唇鬚が前に突き出る。前翅は細長く褐色で、翅形が細い（細翅）のが名の由来。夜行性で灯火に来て、雑木林や林縁で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "夏の夜、灯火で前翅が細長い褐色の小さなアツバ類を探す。細長い翅と突き出た下唇鬚が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Hypena whiteleyi), a small erebid with forward-projecting palps; the brown forewing is elongate and narrow, giving its Japanese name. Nocturnal and attracted to light, it occurs in coppice and edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "On summer nights at lights look for a small brown moth with elongate narrow forewings and a projecting snout; the slim wings are the clue."
+    },
+    "zh": {
+      "summary": "ホソバアツバ。裳蛾科小型蛾，下唇须前伸，前翅细长而褐色（细翅）而得名，夜行趋光，见于杂木林与林缘。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "夏夜灯下寻找前翅细长之褐色小蛾；细翅与前伸下唇须为辨识点。"
+    }
+  },
+  "Hyperaxis fayciata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf beetle",
+    "ja": {
+      "summary": "クロオビカサハラハムシ。ハムシ科の小型の甲虫で、丸みのある体に黒い帯状の模様をもつ。低木や草の葉を食べ、林縁や草地で見られる。危険を感じると脚を縮めて落下する。",
+      "habitat_hint": "林縁、雑木林、草地、低木の葉の上。",
+      "finding_tips": "春〜夏、林縁の低木や草の葉で黒い帯をもつ丸い小さなハムシを探す。黒帯の模様が識別点。"
+    },
+    "en": {
+      "summary": "A leaf beetle (Hyperaxis fayciata), a small rounded chrysomelid with a dark band-like marking. It eats the leaves of shrubs and herbs and occurs at forest edges and grassland, dropping with legs tucked when disturbed.",
+      "habitat_hint": "Forest edges, coppice, grassland, on shrub and herb leaves.",
+      "finding_tips": "In spring–summer on edge shrubs and herbs look for a small rounded beetle with a dark band; the banded pattern is the clue."
+    },
+    "zh": {
+      "summary": "クロオビカサハラハムシ。叶甲科小型甲虫，体圆具黑色带状纹，食灌木与草叶，见于林缘草地，受惊则缩足坠落。",
+      "habitat_hint": "林缘、杂木林、草地、灌木草叶上。",
+      "finding_tips": "春夏于林缘灌木草叶寻找具黑带之圆形小叶甲；黑带纹为辨识点。"
+    }
+  },
+  "Hypnea charoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "イバラノリ。潮間帯〜浅海の岩上に生えるイバラノリ科の紅藻で、細い円柱状の枝がよく分岐し、小さなとげ状の突起が茨（いばら）のように出るのが名の由来。寒天質を含み、海藻加工の原料にもなる。",
+      "habitat_hint": "潮間帯下部〜浅海の岩上、タイドプール。",
+      "finding_tips": "潮間帯の岩で、細く分岐した枝にとげ状の突起をもつ赤紫色の海藻を探す。茨状の小突起が識別点。"
+    },
+    "en": {
+      "summary": "A red alga (Hypnea charoides) growing on intertidal to shallow rock; slender cylindrical branches divide freely and bear small thorn-like spinelets, naming it in Japanese for its bramble look. It contains agar-like gel and is used in seaweed processing.",
+      "habitat_hint": "Lower intertidal to shallow rock, tide pools.",
+      "finding_tips": "On intertidal rock look for a reddish-purple alga with fine branching and small thorn-like spinelets; the bramble-like spinelets are diagnostic."
+    },
+    "zh": {
+      "summary": "イバラノリ。凋毛藻类（沙菜科）红藻，生潮间带至浅海岩上，圆柱状枝多分歧、具小刺状突起如荆棘而得名，含琼胶质、供海藻加工。",
+      "habitat_hint": "潮间带下部至浅海岩上、潮池。",
+      "finding_tips": "潮间带岩石寻找细枝多歧、具刺状突起之红紫海藻；荆棘状小突起为辨识点。"
+    }
+  },
+  "Hypocala subsatura": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "タイワンキシタクチバ。ヤガ科（シタバガ類）の中型の蛾で、前翅は褐色だが、後翅は黄色に黒い斑紋をもち、飛ぶと鮮やかに見える。幼虫はカキ（柿）などの葉を食べる。夜行性で灯火に来る。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、果樹のある場所。",
+      "finding_tips": "夏の夜、灯火で褐色の前翅に、黄色と黒の後翅をちらつかせる中型の蛾を探す。飛翔時の黄色い後翅が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Hypocala subsatura), medium-sized with brown forewings but yellow hindwings marked with black that flash in flight; larvae feed on persimmon (Diospyros) and related plants. It is nocturnal and comes to light.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, near fruit trees.",
+      "finding_tips": "On summer nights at lights look for a brown-forewinged medium moth flashing yellow-and-black hindwings; the yellow hindwing in flight is diagnostic."
+    },
+    "zh": {
+      "summary": "タイワンキシタクチバ。裳蛾科中型蛾，前翅褐色，后翅黄地具黑斑、飞时鲜明，幼虫食柿等叶，夜行趋光。",
+      "habitat_hint": "低山至平地杂木林、林缘、果树处。",
+      "finding_tips": "夏夜灯下寻找前翅褐、后翅黄黑闪现之中型蛾；飞时黄后翅为辨识点。"
+    }
+  },
+  "Hypochaeris glabra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smooth cat's-ear",
+    "ja": {
+      "summary": "ヒメブタナ。ヨーロッパ原産で各地に帰化したキク科エゾコウゾリナ属（ブタナ属）の一年草。ブタナに似るが小型で、ロゼット状の根生葉から細い花茎を伸ばし、黄色いタンポポに似た頭花をつける。",
+      "habitat_hint": "路傍、芝地、荒地、砂地。",
+      "finding_tips": "春〜初夏、芝地や荒地でロゼット葉から細い茎を伸ばし黄色い頭花をつける小型のキク科を探す。ブタナより小さいのが手がかり。"
+    },
+    "en": {
+      "summary": "Smooth cat's-ear (Hypochaeris glabra), a European annual naturalised widely; smaller than the common cat's-ear, it sends up slender stems from a leaf rosette bearing small yellow dandelion-like heads.",
+      "habitat_hint": "Roadsides, lawns, waste ground, sandy places.",
+      "finding_tips": "In spring–early summer on lawns and waste ground look for a small daisy with a leaf rosette and slender yellow-flowered stems; its small size is the clue."
+    },
+    "zh": {
+      "summary": "ヒメブタナ（光猫儿菊）。菊科猫儿菊属一年生草，欧洲原产、各地归化，较猫儿菊小，莲座状基生叶抽细花茎、顶生黄色似蒲公英之头花。",
+      "habitat_hint": "路旁、草坪、荒地、砂地。",
+      "finding_tips": "春至初夏于草坪荒地寻找莲座叶抽细茎、顶黄头花之小型菊科；较猫儿菊小为线索。"
+    }
+  },
+  "Hypselodoris tryoni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "マダライロウミウシ。暖海のサンゴ礁にすむイロウミウシ科のウミウシで、淡い体色に暗色の輪状の斑紋（まだら模様）が散らばり、外套膜の縁が細く色づく。海綿を餌とし、岩礁の浅所で見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所。",
+      "finding_tips": "暖海のサンゴ礁で淡色の体に暗色の輪状斑をもつウミウシを探す。まだらの輪状斑が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Hypselodoris tryoni) of warm-water reefs, pale-bodied with scattered dark ringed spots and a finely coloured mantle margin. It feeds on sponges in shallow reef areas.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow water.",
+      "finding_tips": "On warm reefs look for a pale slug with dark ringed spots; the mottled ringed pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "マダライロウミウシ。多彩海蛞蝓科海蛞蝓，栖暖海珊瑚礁，体淡散布暗色环斑、外套缘细具色，食海绵、见于礁区浅处。",
+      "habitat_hint": "暖海珊瑚礁、岩礁浅处。",
+      "finding_tips": "暖海珊瑚礁寻找体淡具暗色环斑之海蛞蝓；斑驳环斑为辨识点。"
+    }
+  },
+  "Hypsizygus marmoreus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown beech mushroom",
+    "aliases": {
+      "zh-Hans": "蟹味菇"
+    },
+    "ja": {
+      "summary": "ブナシメジ。ブナなど広葉樹の倒木や切り株に生えるシメジ科のきのこ。傘は淡褐色で、表面に大理石模様（marble）状の濃淡がある。栽培品が「ぶなしめじ」として広く流通する食用きのこ。",
+      "habitat_hint": "ブナなど広葉樹の倒木、枯れ木、切り株。",
+      "finding_tips": "秋、ブナなどの倒木で傘に大理石状の模様をもつ淡褐色のきのこが束生するのを探す。大理石模様が識別点。"
+    },
+    "en": {
+      "summary": "Brown beech mushroom (Hypsizygus marmoreus), growing on logs and stumps of beech and other hardwoods; the pale-brown cap has a marbled mottling. Its cultivated form (bunashimeji) is a widely sold edible mushroom.",
+      "habitat_hint": "Logs, dead wood and stumps of beech and other hardwoods.",
+      "finding_tips": "In autumn on beech logs look for clustered pale-brown mushrooms with a marbled cap; the marbling is diagnostic."
+    },
+    "zh": {
+      "summary": "ブナシメジ（蟹味菇／斑玉蕈）。离褶伞科真菌，生山毛榉等阔叶倒木与树桩，盖淡褐、表面具大理石状浓淡，栽培品广为流通之食用菇。",
+      "habitat_hint": "山毛榉等阔叶倒木、枯木、树桩。",
+      "finding_tips": "秋于山毛榉倒木寻找盖具大理石纹之淡褐丛生菇；大理石纹为辨识点。"
+    }
+  },
+  "Idaea effusaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "モンウスキヒメシャク。シャクガ科ヒメシャク亜科の小型の蛾で、淡黄色の翅に小さな紋（斑点）と細い横線をもつ。夜行性で灯火に来て、幼虫は枯れ葉などを食べる。草地や林縁でよく見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "夏の夜、灯火で淡黄色に小さな紋をもつ小さな蛾を探す。淡黄色地の小紋が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Idaea effusaria), a small sterrhine with pale-yellow wings bearing small spots and fine cross-lines. Nocturnal and attracted to light, its larvae feed on withered leaves; it is common in grassland and edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "On summer nights at lights look for a small pale-yellow moth with small spots; the pale ground with small marks is the clue."
+    },
+    "zh": {
+      "summary": "モンウスキヒメシャク。尺蛾科姬尺蛾亚科小型蛾，翅淡黄具小斑与细横线，夜行趋光，幼虫食枯叶，草地林缘常见。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "夏夜灯下寻找淡黄具小斑之小蛾；淡黄地小斑为辨识点。"
+    }
+  },
+  "Idia curvipalpis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "シロホシクロアツバ。ヤガ科（アツバ類）の小型の蛾で、黒褐色の前翅に白い点（星）が散らばるのが名の由来。夜行性で灯火に来て、幼虫は枯れ葉や菌類を食べるとされる。雑木林で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁。",
+      "finding_tips": "夏の夜、灯火で黒褐色に白い点をもつ小さなアツバ類を探す。黒地に白い星が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Idia curvipalpis), a small moth whose blackish-brown forewings are scattered with white dots, naming it in Japanese; nocturnal and attracted to light, its larvae are thought to feed on dead leaves and fungi. It occurs in coppice.",
+      "habitat_hint": "Lowland to low-mountain coppice and forest edges.",
+      "finding_tips": "On summer nights at lights look for a small blackish moth with white dots; the white spots on dark ground are diagnostic."
+    },
+    "zh": {
+      "summary": "シロホシクロアツバ。裳蛾科小型蛾，黑褐前翅散布白点（星）而得名，夜行趋光，幼虫据载食枯叶与菌类，见于杂木林。",
+      "habitat_hint": "低山至平地杂木林、林缘。",
+      "finding_tips": "夏夜灯下寻找黑褐具白点之小蛾；黑地白星为辨识点。"
+    }
   }
 }
