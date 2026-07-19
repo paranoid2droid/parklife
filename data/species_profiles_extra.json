@@ -273286,5 +273286,511 @@
       "habitat_hint": "暖地海岸、林缘、草地、向阳坡。",
       "finding_tips": "夏秋于暖地海岸林缘寻找三出叶、淡红紫蝶形小花之缠绕草；缠茎与豆花为线索。"
     }
+  },
+  "Fissidens grandifrons": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソホウオウゴケ。渓流や湧水のある岩の上に生える水生のホウオウゴケ科の蘚類（コケ）。羽状に並んだ葉が鳳凰の羽のように見え、比較的大きく丈夫な質感をもつ。清冽な流水を好む。",
+      "habitat_hint": "渓流や湧水の岩上、水にぬれる場所。",
+      "finding_tips": "清流の岩で、羽状に葉が並ぶやや大きめのしっかりしたコケを探す。流水中で羽状に広がる姿が手がかり。"
+    },
+    "en": {
+      "summary": "Largeleaf pocket moss (Fissidens grandifrons), an aquatic moss growing on rocks in streams and spring-fed water; its two-ranked leaves resemble a phoenix's feather, and it is comparatively large and firm, favouring clean flowing water.",
+      "habitat_hint": "Rocks in streams and spring water, wetted surfaces.",
+      "finding_tips": "On clean-stream rocks look for a largish firm moss with feather-like two-ranked leaves; its feathery form in running water is the clue."
+    },
+    "zh": {
+      "summary": "ホソホウオウゴケ。凤尾藓科水生藓类，生溪流与泉水岩上，叶二列如凤羽、体较大而质坚，喜清冽流水。",
+      "habitat_hint": "溪流泉水岩上、被水浸润处。",
+      "finding_tips": "清溪岩石寻找叶二列如羽、较大而坚挺之藓；流水中羽状展开为线索。"
+    }
+  },
+  "Galium mollugo": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hedge bedstraw",
+    "ja": {
+      "summary": "トゲナシムグラ。ヨーロッパ原産で各地に帰化したアカネ科ヤエムグラ属の多年草。四角い茎に細い葉が輪生し、白い小さな花を多数つける。近縁のヤエムグラと違い刺（かぎ状の毛）が目立たないことが名の由来。",
+      "habitat_hint": "路傍、草地、河原、荒地。",
+      "finding_tips": "初夏〜夏、草地で輪生する細葉と白い小花の集まり、刺の少ない茎をもつ草を探す。刺のなさが手がかり。"
+    },
+    "en": {
+      "summary": "Hedge bedstraw (Galium mollugo), a European perennial naturalised widely; it has square stems with whorls of narrow leaves and many small white flowers, named in Japanese for lacking the hooked bristles of its relatives.",
+      "habitat_hint": "Roadsides, grassland, riverbanks, waste ground.",
+      "finding_tips": "In early summer in grassland look for a plant with whorled narrow leaves, clusters of small white flowers and smooth stems; the lack of clinging bristles is the clue."
+    },
+    "zh": {
+      "summary": "トゲナシムグラ（原拉拉藤）。茜草科拉拉藤属多年生草，欧洲原产、各地归化，方茎、细叶轮生、多数白色小花，因少钩刺而得名。",
+      "habitat_hint": "路旁、草地、河滩、荒地。",
+      "finding_tips": "初夏至夏于草地寻找细叶轮生、白色小花成簇、茎少刺之草；无钩刺为线索。"
+    }
+  },
+  "Geheebia ferruginea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ジムカデゴケ。土上や岩上に生えるセンボンゴケ科の小型の蘚類（コケ）。細い茎に鱗片状の葉が並び、乾くと縮れて赤褐色を帯びる。人里の路傍や石垣など身近な場所でも見られる。",
+      "habitat_hint": "土上、岩上、石垣、路傍のやや乾いた場所。",
+      "finding_tips": "路傍や石垣で、乾くと縮れて赤褐色を帯びる小さなマット状のコケを探す。乾湿での変化と赤褐色が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Geheebia ferruginea) of soil and rock in the Pottiaceae; slender stems bear scale-like leaves that curl and turn rusty-brown when dry. It grows in everyday places such as roadsides and stone walls.",
+      "habitat_hint": "Soil, rock, stone walls, drier roadside spots.",
+      "finding_tips": "On roadsides and walls look for a small mat-forming moss that curls and reddens when dry; the moisture response and rusty tone are the clue."
+    },
+    "zh": {
+      "summary": "ジムカデゴケ。丛藓科小型藓类，生土上岩上，细茎具鳞状叶、干时卷缩带锈褐，路旁石墙等常见。",
+      "habitat_hint": "土上、岩上、石墙、路旁较干处。",
+      "finding_tips": "路旁石墙寻找干时卷缩带锈褐之小垫状藓；干湿变化与锈色为线索。"
+    }
+  },
+  "Gemmabryum caespiticium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホソハリガネゴケ。土上や石の上、コンクリートの隙間などに生えるハリガネゴケ科の小型の蘚類（コケ）。細い茎に小さな葉が密につき、緑〜黄緑色のマットを作る。都市部でもよく見られる普通種。",
+      "habitat_hint": "土上、石上、コンクリートや舗装の隙間、路傍。",
+      "finding_tips": "街中の石やコンクリートの隙間で、細い茎に小葉が密につく小さな緑のマットを探す。身近な普通種。"
+    },
+    "en": {
+      "summary": "A common small moss (Gemmabryum caespiticium) of soil, stones and pavement cracks; slender stems densely set with small leaves form green to yellow-green mats, and it is frequent even in cities.",
+      "habitat_hint": "Soil, stones, concrete and pavement cracks, roadsides.",
+      "finding_tips": "In urban stone and pavement cracks look for a small green mat of slender leafy stems; it is a common everyday moss."
+    },
+    "zh": {
+      "summary": "ホソハリガネゴケ。真藓科小型藓类，生土上石上及混凝土缝隙，细茎密生小叶、成绿至黄绿垫，城市亦常见。",
+      "habitat_hint": "土上、石上、混凝土与铺装缝隙、路旁。",
+      "finding_tips": "城中石缝铺装缝寻找细茎密叶之绿色小垫；身边常见种。"
+    }
+  },
+  "Gentiana sikokiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gentian",
+    "ja": {
+      "summary": "アサマリンドウ。近畿以西の山地の林縁や草地に生えるリンドウ科リンドウ属の多年草。秋に青紫色の鐘形の花を上向きに開き、花冠内側に斑点がある。日本固有で、庭でも観賞される。",
+      "habitat_hint": "山地の林縁、明るい草地、林床。",
+      "finding_tips": "秋、山地の林縁で青紫色の鐘形花を上向きに開くリンドウを探す。花冠内側の斑点が手がかり。"
+    },
+    "en": {
+      "summary": "A gentian (Gentiana sikokiana), a perennial of montane forest edges and grasslands in western Japan; in autumn it opens upward-facing blue-purple bell flowers spotted inside the corolla. Endemic to Japan and grown ornamentally.",
+      "habitat_hint": "Montane forest edges, open grassland, woodland floor.",
+      "finding_tips": "In autumn at montane edges look for upward blue-purple bell flowers; the spots inside the corolla are the clue."
+    },
+    "zh": {
+      "summary": "アサマリンドウ。龙胆科龙胆属多年生草，生近畿以西山地林缘草地，秋开青紫钟形花朝上、冠内具斑，日本特有、亦供观赏。",
+      "habitat_hint": "山地林缘、明亮草地、林床。",
+      "finding_tips": "秋于山地林缘寻找朝上青紫钟形花之龙胆；冠内斑点为线索。"
+    }
+  },
+  "Geometra papilionaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Large emerald",
+    "ja": {
+      "summary": "オオシロオビアオシャク。シャクガ科アオシャク亜科の大型の蛾で、翅は鮮やかな緑色に白い帯（波状の線）が入る。夜行性で灯火に来て、幼虫はカバノキ類などの葉を食べる尺取り虫。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、山地の灯火で鮮やかな緑色に白帯をもつ大きめの蛾を探す。緑色と白い波線が識別点。"
+    },
+    "en": {
+      "summary": "Large emerald (Geometra papilionaria), a large geometrid whose wings are bright green with white wavy bands. It is nocturnal and comes to light; larvae are inchworms feeding on birch and related trees.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at upland lights look for a large bright-green moth with white wavy bands; the green colour and white lines are diagnostic."
+    },
+    "zh": {
+      "summary": "オオシロオビアオシャク。尺蛾科青尺蛾亚科大型蛾，翅鲜绿具白色波状带，夜行趋光，幼虫为食桦木类之尺蠖。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜于山地灯下寻找鲜绿具白带之较大蛾；绿色与白波线为辨识点。"
+    }
+  },
+  "Geometra valida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald moth",
+    "ja": {
+      "summary": "クロスジアオシャク。シャクガ科アオシャク亜科の中〜大型の蛾で、緑色の翅に黒っぽい筋（横線）が走る。夜行性で灯火に来て、幼虫は樹木の葉を食べる尺取り虫。オオシロオビアオシャクに似るが線の様子で区別。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、灯火で緑色に黒っぽい筋をもつ蛾を探す。黒い筋の走り方が識別点。"
+    },
+    "en": {
+      "summary": "An emerald moth (Geometra valida), a medium-to-large geometrid with green wings crossed by darker lines. Nocturnal and attracted to light, its larvae are leaf-feeding inchworms; it resembles G. papilionaria but is told by the line pattern.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at lights look for a green moth with dark cross-lines; the arrangement of the dark lines is the clue."
+    },
+    "zh": {
+      "summary": "クロスジアオシャク。尺蛾科青尺蛾亚科中至大型蛾，绿翅具暗色横线，夜行趋光，幼虫为食叶尺蠖，与大白带青尺蛾以线纹区别。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜灯下寻找绿翅具暗线之蛾；暗线走向为辨识点。"
+    }
+  },
+  "Gerhardtia foliicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mushroom",
+    "ja": {
+      "summary": "コノハシメジ。落葉の積もった林床に発生するキシメジ科のきのこ。傘は褐色を帯び、名のとおり落ち葉（木の葉）にまぎれるように生える。秋に群がって出ることがある。",
+      "habitat_hint": "広葉樹林の落葉の積もった林床。",
+      "finding_tips": "秋、落葉の積もった林床で褐色の傘をもつ小〜中型のきのこを探す。落ち葉に紛れる発生場所が手がかり。"
+    },
+    "en": {
+      "summary": "A woodland mushroom (Gerhardtia foliicola) fruiting on leaf-litter-rich forest floor; the cap is brownish and, as its Japanese name suggests, it grows among fallen leaves, sometimes in autumn troops.",
+      "habitat_hint": "Broadleaf forest floor rich in fallen leaves.",
+      "finding_tips": "In autumn on leaf-littered forest floor look for a small-to-medium brown-capped mushroom among the leaves; the litter habitat is the clue."
+    },
+    "zh": {
+      "summary": "コノハシメジ。口蘑科真菌，生落叶厚积之林床，菌盖带褐、如其名混于落叶间，秋季或成群发生。",
+      "habitat_hint": "阔叶林落叶厚积之林床。",
+      "finding_tips": "秋于落叶厚积林床寻找褐盖之中小型菇；混于落叶之生境为线索。"
+    }
+  },
+  "Geum ternatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow avens",
+    "ja": {
+      "summary": "コキンバイ。山地の林床に生えるバラ科の多年草で、三小葉の根生葉と、黄色い五弁の花をつける。キンバイソウ類に似た黄花だが小型であることが名の由来。春に開花する。",
+      "habitat_hint": "山地の落葉樹林の林床、林縁。",
+      "finding_tips": "春、山地の林床で三小葉と黄色い五弁花をもつ小さな草を探す。小型で黄色い花が手がかり。"
+    },
+    "en": {
+      "summary": "A small yellow avens (Geum ternatum), a perennial of montane forest floors with trifoliate basal leaves and yellow five-petalled flowers; its Japanese name notes it as a small version of the larger golden-flowered kin. It blooms in spring.",
+      "habitat_hint": "Montane deciduous forest floor and edges.",
+      "finding_tips": "In spring on montane forest floor look for a small plant with trifoliate leaves and yellow five-petalled flowers; its small size and yellow bloom are the clue."
+    },
+    "zh": {
+      "summary": "コキンバイ。蔷薇科多年生草，生山地林床，基生叶三出、黄色五瓣花，因似金梅草类而小得名，春季开花。",
+      "habitat_hint": "山地落叶林床、林缘。",
+      "finding_tips": "春于山地林床寻找三出叶、黄色五瓣花之小草；小型黄花为线索。"
+    }
+  },
+  "Gibberulus gibberulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Humpbacked conch",
+    "ja": {
+      "summary": "ネジマガキ。暖海のサンゴ礁や砂底にすむソデガイ科（スイショウガイ類）の巻貝で、殻はこぶ状にふくらみ、外唇が発達する。砂の上を跳ねるように移動し、目を長く伸ばすのが特徴。",
+      "habitat_hint": "暖海のサンゴ礁の砂底、礁池、浅い砂地。",
+      "finding_tips": "暖海の浅い砂地でこぶ状にふくらんだ殻の巻貝を探す。跳ねるような動きと長い眼柄が手がかり。"
+    },
+    "en": {
+      "summary": "Humpbacked conch (Gibberulus gibberulus), a strombid snail of warm-water reefs and sand; the shell is swollen and hump-like with a flared outer lip. It moves in leaping hops over sand and extends long eye-stalks.",
+      "habitat_hint": "Warm-water reef sand, reef flats, shallow sandy areas.",
+      "finding_tips": "On warm shallow sand look for a swollen hump-shaped snail; the leaping movement and long eye-stalks are the clue."
+    },
+    "zh": {
+      "summary": "ネジマガキ。凤凰螺科（蜘蛛螺类）螺，栖暖海珊瑚礁砂底，壳膨如驼峰、外唇发达，于砂上跳跃而行、伸长眼柄。",
+      "habitat_hint": "暖海珊瑚礁砂底、礁坪、浅砂地。",
+      "finding_tips": "暖海浅砂寻找壳膨如驼峰之螺；跳跃移动与长眼柄为线索。"
+    }
+  },
+  "Gigantalcis flavolinearia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "フタキスジエダシャク。シャクガ科エダシャク亜科の中型の蛾で、淡色の翅に黄色みを帯びた二本の筋（横線）が走る。夜行性で灯火に来て、幼虫は樹木の葉を食べる尺取り虫。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "初夏〜夏の夜、灯火で淡色に黄色い二本の筋をもつ蛾を探す。二本の黄色い横線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Gigantalcis flavolinearia), a medium ennomine with pale wings crossed by two yellowish lines. Nocturnal and attracted to light, its larvae are leaf-feeding inchworms.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On early-summer nights at lights look for a pale moth with two yellowish cross-lines; the paired yellow lines are diagnostic."
+    },
+    "zh": {
+      "summary": "フタキスジエダシャク。尺蛾科尺蛾亚科中型蛾，淡翅具两条黄色横线，夜行趋光，幼虫为食叶尺蠖。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "初夏至夏夜灯下寻找淡翅具两黄横线之蛾；两黄线为辨识点。"
+    }
+  },
+  "Glaucorhoe unduliferaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "シラナミナミシャク。シャクガ科ナミシャク亜科の中型の蛾で、灰白色の翅に波状の細い横線が幾重にも走る（白波のような模様）。夜行性で灯火に来て、山地の林でよく見られる。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、山地の灯火で灰白色に波状の横線が幾重にも走る蛾を探す。白波状の模様が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Glaucorhoe unduliferaria), a medium larentiine with greyish-white wings crossed by many fine wavy lines suggesting white waves. It is nocturnal, comes to light, and is common in montane woods.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at upland lights look for a greyish moth with many wavy cross-lines; the white-wave pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "シラナミナミシャク。尺蛾科灰尺蛾亚科中型蛾，灰白翅具多重波状细横线（如白浪），夜行趋光，山地林常见。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜于山地灯下寻找灰白具多重波状横线之蛾；白浪纹为辨识点。"
+    }
+  },
+  "Glebocarcinus amphioetus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock crab",
+    "ja": {
+      "summary": "コイチョウガニ。岩礁の潮間帯〜浅海にすむカニ（イチョウガニ科の仲間）で、甲は横に広い扇形。石の下や岩の隙間に潜み、比較的小型。北日本などの岩礁海岸で見られる。",
+      "habitat_hint": "岩礁の潮間帯〜浅海、石の下、岩の隙間。",
+      "finding_tips": "岩礁の潮だまりで石をめくり、横に広い扇形の甲をもつ小さなカニを探す。扇形の甲が手がかり。"
+    },
+    "en": {
+      "summary": "A rock crab (Glebocarcinus amphioetus) of intertidal to shallow rocky shores in the Cancridae; the carapace is broad and fan-shaped and it hides under stones and in crevices, staying fairly small. Found on northern rocky coasts.",
+      "habitat_hint": "Rocky intertidal to shallow water, under stones, in crevices.",
+      "finding_tips": "In rocky tide pools turn stones to find a small crab with a broad fan-shaped shell; the wide fan carapace is the clue."
+    },
+    "zh": {
+      "summary": "コイチョウガニ。黄道蟹科之蟹，栖岩礁潮间带至浅海，甲宽扇形，藏于石下岩隙、体较小，见于北方岩岸。",
+      "habitat_hint": "岩礁潮间带至浅海、石下、岩隙。",
+      "finding_tips": "岩礁潮池翻石寻找甲宽扇形之小蟹；扇形甲为线索。"
+    }
+  },
+  "Glochidion lanceolatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cheese tree",
+    "ja": {
+      "summary": "キールンカンコノキ。琉球列島や台湾に分布するコミカンソウ科カンコノキ属の常緑の小高木。互生する革質の葉をもち、ごく小さな花のあとにミカンを小さくしたような分果をつける。暖地の林で見られる。",
+      "habitat_hint": "亜熱帯の常緑樹林、林縁（琉球列島など）。",
+      "finding_tips": "暖地の林で革質の互生葉と、小さなミカン状に割れる果実をもつ常緑樹を探す。分果の形が手がかり。"
+    },
+    "en": {
+      "summary": "A cheese tree (Glochidion lanceolatum), an evergreen small tree of the Ryukyus and Taiwan in the Phyllanthaceae; it has alternate leathery leaves and, after tiny flowers, small pumpkin-shaped capsules. It grows in warm-region forest.",
+      "habitat_hint": "Subtropical evergreen forest and edges (Ryukyus etc.).",
+      "finding_tips": "In warm-region forest look for an evergreen with leathery alternate leaves and small ribbed capsules; the little pumpkin-shaped fruit is the clue."
+    },
+    "zh": {
+      "summary": "キールンカンコノキ（基隆算盘子）。叶下珠科算盘子属常绿小乔木，分布琉球与台湾，叶互生革质，微花后结小南瓜状蒴果，见于暖地林。",
+      "habitat_hint": "亚热带常绿林、林缘（琉球等）。",
+      "finding_tips": "暖地林中寻找革质互生叶、具小南瓜状裂果之常绿树；分果形状为线索。"
+    }
+  },
+  "Gloiopeltis complanata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Funori red alga",
+    "ja": {
+      "summary": "ハナフノリ。潮間帯の岩上に生えるフノリ科の紅藻で、扁平で枝分かれした藻体をもつ。フクロフノリと同様に食用・糊料に用いられる。乾燥に強く、潮間帯上部の岩でよく見られる。",
+      "habitat_hint": "潮間帯上部の岩上、波の当たる岩礁。",
+      "finding_tips": "潮間帯上部の岩で、扁平に枝分かれした赤紫色のフノリを探す。平たい藻体が識別点。"
+    },
+    "en": {
+      "summary": "A funori red alga (Gloiopeltis complanata) growing on intertidal rocks, with a flattened branched thallus; like other funori it is used as food and as a sizing glue. Drought-tolerant, it is common on upper-shore rock.",
+      "habitat_hint": "Upper intertidal rock, wave-washed reef.",
+      "finding_tips": "On upper-shore rock look for a flattened branched reddish-purple funori; the flat thallus is diagnostic."
+    },
+    "zh": {
+      "summary": "ハナフノリ。海萝科红藻，生潮间带岩上，藻体扁平分枝，同海萝可食兼作糊料，耐干、常见于潮间带上部岩石。",
+      "habitat_hint": "潮间带上部岩上、受浪岩礁。",
+      "finding_tips": "潮间带上部岩石寻找扁平分枝之红紫海萝类；扁平藻体为辨识点。"
+    }
+  },
+  "Gloiopeltis furcata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Funori red alga",
+    "aliases": {
+      "zh-Hans": "海萝"
+    },
+    "ja": {
+      "summary": "フクロフノリ。潮間帯の岩上に生えるフノリ科の紅藻で、細い円柱状の枝が二又に分かれ、内部が中空になる。古くから食用や布のり（フノリ）の原料に用いられる海藻。",
+      "habitat_hint": "潮間帯の岩上、波の当たる岩礁。",
+      "finding_tips": "潮間帯の岩で、円柱状の枝が二又に分かれる赤紫色のフノリを探す。中空の枝が識別点。"
+    },
+    "en": {
+      "summary": "Funori (Gloiopeltis furcata), a red alga of intertidal rocks whose slender cylindrical branches fork dichotomously and are hollow inside; long used as food and as a cloth-sizing glue.",
+      "habitat_hint": "Intertidal rock, wave-washed reef.",
+      "finding_tips": "On intertidal rock look for a reddish-purple alga with forking hollow cylindrical branches; the hollow forked branches are diagnostic."
+    },
+    "zh": {
+      "summary": "フクロフノリ（海萝）。海萝科红藻，生潮间带岩上，圆柱状枝二叉分枝、内中空，自古作食用与布糊（fu-nori）原料。",
+      "habitat_hint": "潮间带岩上、受浪岩礁。",
+      "finding_tips": "潮间带岩石寻找圆柱状枝二叉、中空之红紫海萝；中空叉枝为辨识点。"
+    }
+  },
+  "Gloripallium pallium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Royal cloak scallop",
+    "ja": {
+      "summary": "チサラガイ。暖海のサンゴ礁や岩礁の浅所にすむイタヤガイ科の二枚貝で、放射状の太い肋と赤褐色〜紫色の帯模様をもつ扇形の殻が美しい。貝殻収集の対象になる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所。",
+      "finding_tips": "暖海の浅所や打ち上げで、太い放射肋と赤褐色の帯模様をもつ扇形の二枚貝を探す。肋と色帯が識別点。"
+    },
+    "en": {
+      "summary": "Royal cloak scallop (Gloripallium pallium), a pectinid of shallow warm-water reefs; the fan-shaped shell has strong radial ribs and reddish-brown to purple banding, prized by shell collectors.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow water.",
+      "finding_tips": "On warm shallows or in drift look for a fan-shaped scallop with strong ribs and reddish banding; the ribs and colour bands are the clue."
+    },
+    "zh": {
+      "summary": "チサラガイ。海扇蛤科双壳，栖暖海珊瑚与岩礁浅处，扇形壳具粗放射肋与红褐至紫色带纹，为贝壳收藏对象。",
+      "habitat_hint": "暖海珊瑚礁、岩礁浅处。",
+      "finding_tips": "暖海浅处或冲积寻找具粗肋与红褐带纹之扇形双壳；粗肋与色带为辨识点。"
+    }
+  },
+  "Glossodoris rufomarginata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "キャラメルウミウシ。暖海のサンゴ礁にすむイロウミウシ科のウミウシで、体はキャラメルのような淡褐色、外套膜の縁が細く赤褐色に縁取られる。海綿を餌とし、岩礁の浅所で見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所。",
+      "finding_tips": "暖海のサンゴ礁で淡褐色の体に赤褐色の縁取りをもつウミウシを探す。外套膜の細い赤縁が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Glossodoris rufomarginata) of warm-water reefs; its body is caramel pale-brown with a fine reddish-brown mantle margin. It feeds on sponges and occurs in shallow reef areas.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow water.",
+      "finding_tips": "On warm reefs look for a pale-brown slug edged with a thin reddish-brown margin; the fine red mantle rim is diagnostic."
+    },
+    "zh": {
+      "summary": "キャラメルウミウシ。多彩海蛞蝓科海蛞蝓，栖暖海珊瑚礁，体焦糖淡褐、外套膜缘细镶红褐，食海绵、见于礁区浅处。",
+      "habitat_hint": "暖海珊瑚礁、岩礁浅处。",
+      "finding_tips": "暖海珊瑚礁寻找淡褐体缘镶红褐之海蛞蝓；细红外套缘为辨识点。"
+    }
+  },
+  "Glycera nicobarica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bloodworm",
+    "ja": {
+      "summary": "チロリ。干潟や砂泥底の泥中にすむチロリ科の多毛類（ゴカイの仲間）。細長い体は淡紅色で光沢があり、鋭い顎をもつ。釣り餌として利用されることでも知られる。",
+      "habitat_hint": "干潟、内湾の砂泥底の泥中。",
+      "finding_tips": "干潟の砂泥を掘って、光沢のある淡紅色で細長い多毛類を探す。鋭い顎と紅色の体が手がかり。"
+    },
+    "en": {
+      "summary": "A bloodworm (Glycera nicobarica), a glycerid polychaete living buried in mud on tidal flats and sand-mud bottoms; the slender glossy body is pinkish and it has sharp jaws. It is well known as fishing bait.",
+      "habitat_hint": "Tidal flats and bay sand-mud bottoms, buried in mud.",
+      "finding_tips": "Dig tidal-flat mud for a slender glossy pinkish worm; the sharp jaws and pink body are the clue."
+    },
+    "zh": {
+      "summary": "チロリ。吻沙蚕科多毛类（沙蚕类），栖滩涂与砂泥底泥中，体细长淡红有光泽、具锐颚，常用作钓饵。",
+      "habitat_hint": "滩涂、内湾砂泥底泥中。",
+      "finding_tips": "掘滩涂砂泥寻找有光泽之淡红细长多毛类；锐颚与红体为线索。"
+    }
+  },
+  "Glycymeris reevei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bittersweet clam",
+    "ja": {
+      "summary": "ソメワケグリガイ。タマキガイ科（クリガイ類）の二枚貝で、丸みのある殻に細かな放射肋があり、褐色の模様が染め分けたように入る。砂底にすみ、浜に殻が打ち上がることが多い。",
+      "habitat_hint": "沿岸の砂底、砂礫底。",
+      "finding_tips": "砂浜の打ち上げで、丸く放射肋のある殻に褐色の染め分け模様をもつ二枚貝を探す。染め分け模様が識別点。"
+    },
+    "en": {
+      "summary": "A bittersweet clam (Glycymeris reevei), a glycymerid bivalve with a rounded finely ribbed shell patterned in brown as if dyed in patches. It lives on sand bottoms and its shells often wash up on beaches.",
+      "habitat_hint": "Coastal sand and gravel bottoms.",
+      "finding_tips": "In beach drift look for a rounded ribbed clam with patchy brown markings; the parti-coloured pattern is diagnostic."
+    },
+    "zh": {
+      "summary": "ソメワケグリガイ。蚶蜊科（蚶蜊类）双壳，壳圆具细放射肋、褐色纹如染分片，栖砂底，壳常冲上海滩。",
+      "habitat_hint": "沿岸砂底、砂砾底。",
+      "finding_tips": "海滩冲积寻找壳圆具放射肋、褐纹染分之双壳；染分纹为辨识点。"
+    }
+  },
+  "Goera japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caddisfly",
+    "ja": {
+      "summary": "ニンギョウトビケラ。幼虫が小石を集めて筒状の巣（携帯巣）を作るニンギョウトビケラ科のトビケラ。巣の両側に大きな石を配してバランスをとる姿が人形のように見える。清流にすみ、水質の指標にもなる。",
+      "habitat_hint": "清流や河川の礫底、瀬。",
+      "finding_tips": "清流の石の裏で、小石を組んだ両側に大きな石をつけた筒状の巣を探す。人形状の巣が識別点。"
+    },
+    "en": {
+      "summary": "A caddisfly (Goera japonica) whose larva builds a portable tube case of small stones, balanced with a large ballast stone on each side that gives a doll-like look. It lives in clean streams and indicates good water quality.",
+      "habitat_hint": "Gravel beds and riffles of clean streams and rivers.",
+      "finding_tips": "Under clean-stream stones look for a tube case of small stones flanked by a big ballast stone each side; the doll-like case is diagnostic."
+    },
+    "zh": {
+      "summary": "ニンギョウトビケラ。石蛾类，幼虫以小石筑筒状携带巢、两侧各附大石平衡而形如人偶，栖清流、为水质指标。",
+      "habitat_hint": "清流河川砾底、浅濑。",
+      "finding_tips": "清流石下寻找小石筒巢、两侧各附大石者；人偶状巢为辨识点。"
+    }
+  },
+  "Gomphidius roseus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オウギタケ。マツ林の地上に生えるオウギタケ科のきのこで、傘は淡紅色〜バラ色、ひだは垂生して灰色を帯びる。ヌメリイグチ類と同じ場所に出て、その菌に寄生的に関わるとされる。食用になる。",
+      "habitat_hint": "マツ林の地上、ヌメリイグチ類の出る場所。",
+      "finding_tips": "秋、マツ林でバラ色の傘と垂生する灰色のひだをもつきのこを探す。ヌメリイグチの近くに出るのが手がかり。"
+    },
+    "en": {
+      "summary": "Rosy spike (Gomphidius roseus), a mushroom of pine woods with a pinkish-rose cap and grey decurrent gills; it fruits with slippery boletes (Suillus) and is thought to be parasitic on them. It is edible.",
+      "habitat_hint": "On the ground in pine woods, where Suillus boletes fruit.",
+      "finding_tips": "In autumn in pine woods look for a rose-capped mushroom with grey decurrent gills; its appearance near Suillus boletes is the clue."
+    },
+    "zh": {
+      "summary": "オウギタケ（玫瑰铆钉菇）。铆钉菇科真菌，生松林地上，盖淡红至玫瑰色、褶延生带灰，与黏盖牛肝菌同处发生并似寄生其上，可食。",
+      "habitat_hint": "松林地上、黏盖牛肝菌发生处。",
+      "finding_tips": "秋于松林寻找玫瑰色盖、灰色延生褶之菇；近黏盖牛肝菌发生为线索。"
+    }
+  },
+  "Gonepatica opalina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "フタスジエグリアツバ。ヤガ科（アツバ類）の小型の蛾で、前翅の外縁がえぐれたようになり、二本の筋（横線）が走る。夜行性で灯火に来て、雑木林や林縁で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "夏の夜、灯火で外縁がえぐれ二本の筋をもつ小さな蛾を探す。えぐれた翅形と二本線が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Gonepatica opalina), a small moth whose forewing outer margin is notched and crossed by two lines. Nocturnal and attracted to light, it occurs in coppice and forest edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "On summer nights at lights look for a small moth with a notched wing margin and two cross-lines; the notched shape and paired lines are the clue."
+    },
+    "zh": {
+      "summary": "フタスジエグリアツバ。裳蛾科小型蛾，前翅外缘凹缺、具两条横线，夜行趋光，见于杂木林与林缘。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "夏夜灯下寻找外缘凹缺、具两横线之小蛾；凹翅与双线为辨识点。"
+    }
   }
 }
