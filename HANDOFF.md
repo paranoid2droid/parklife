@@ -150,6 +150,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-07-20 (Claude/Opus) — np2-4 grind np24-q..s (+71), sidecar 11,953
+- Continued the np=4 sub-tier alphabetically (letters I→L). 3 sidecar-only batches: np24-q (+24, I-K Impatiens→Katha, commit `c8262e9e`), np24-r (+24, K-L Koeleria→Lethrinus, `cb81bf63`), np24-s (+23, L Leucania→Lyonsia, `cb81bf63`+1). Scripts `/tmp/profile_batch_np24_{q,r,s}.py`.
+- Coverage I→L: touch-me-not/morning-glory/iris/juniper plants, Inocybe/Lactarius/Laccaria/Lepiota/Limacella mushrooms, Ishige/Laurencia/Leathesia/Lomentaria algae, Lecanora/Lobaria/Leptogium lichens, geometer+noctuid moths, Janthina violet snails, nudibranchs, spider conch, dottyback/tripletail/emperor fish, Gray's grasshopper warbler (eBird). No new name-mismatch skips needed this run.
+- **NEXT: continue np=4 from letter L (Lycoperdon lividum onward — deferred from np24-s).** Same workflow + skip filters; deploy still classifier-blocked (sidecar commits are the deliverable).
+
 ### 2026-07-19 (Claude/Opus) — np2-4 grind np24-l..p (+117), profile_count 11,876
 - Continued the np=4 sub-tier alphabetically (letters E→I). 5 sidecar-only batches (np24-l..p), commits `5f715525`→`60484d22`. Scripts `/tmp/profile_batch_np24_{l,m,n,o,p}.py`.
 - New name-mismatch skips added to the NOT IN filter: `Haliotis ovina` (ja=マアナゴ conger-eel name on an abalone). `Dryopteris paomowanensis` (ja=モミジカラマツ) still skipped from np24-k. Kept `Gigahomalopoma nocturnum`/`amussitatum` excluded as a precaution.
