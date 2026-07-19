@@ -275906,5 +275906,515 @@
       "habitat_hint": "砂底、砂砾浅海、内湾、南日本暖岸。",
       "finding_tips": "砂底浅海寻找背鳍延长成丝之淡褐小鱼；丝状背鳍为辨识点。"
     }
+  },
+  "Leucania obsoleta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wainscot moth",
+    "ja": {
+      "summary": "ノヒラキヨトウ。ヨシ原や湿った草地に生えるヤガ科の中型の蛾で、前翅は麦わら色〜淡褐色で細い筋をもつ（キヨトウの仲間）。夜行性で灯火に来て、幼虫はヨシやイネ科植物の葉を食べる。",
+      "habitat_hint": "ヨシ原、湿った草地、河畔、水辺のイネ科植物のある場所。",
+      "finding_tips": "夏の夜、ヨシ原や湿地の灯火で麦わら色に細い筋をもつ中型のヤガを探す。麦わら色の翅が識別点。"
+    },
+    "en": {
+      "summary": "A wainscot moth (Leucania obsoleta), a medium noctuid of reedbeds and damp grassland with straw- to pale-brown forewings marked by fine streaks; nocturnal and attracted to light, its larvae feed on reeds and grasses.",
+      "habitat_hint": "Reedbeds, damp grassland, riversides, grassy watersides.",
+      "finding_tips": "On summer nights at reedbed lights look for a medium straw-coloured noctuid with fine streaks; the straw wing is the clue."
+    },
+    "zh": {
+      "summary": "ノヒラキヨトウ。夜蛾科中型蛾，生芦苇丛与湿草地，前翅麦秆色至淡褐、具细纵纹，夜行趋光，幼虫食芦苇与禾草叶。",
+      "habitat_hint": "芦苇丛、湿草地、河畔、水边禾草处。",
+      "finding_tips": "夏夜于芦苇灯下寻找麦秆色具细纹之中型夜蛾；麦秆色翅为辨识点。"
+    }
+  },
+  "Leucapamea askoldis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "コマエアカシロヨトウ。ヤガ科の中型の蛾で、前翅は淡い赤褐色〜白っぽい地に細かい紋をもつ。夜行性で灯火に来る。山地〜低山地の林縁や草地で見られ、幼虫はイネ科などの草本を食べる。",
+      "habitat_hint": "山地〜低山地の林縁、草地、湿った草原。",
+      "finding_tips": "夏の夜、山地の灯火で淡い赤褐色〜白っぽい地に細かい紋をもつ中型のヤガを探す。淡赤褐に細紋が識別点。"
+    },
+    "en": {
+      "summary": "An owlet moth (Leucapamea askoldis), a medium noctuid with pale reddish-brown to whitish forewings bearing fine markings; nocturnal and attracted to light, it occurs at montane edges and grassland and its larvae feed on grasses.",
+      "habitat_hint": "Montane to low-mountain forest edges, grassland, damp meadows.",
+      "finding_tips": "On summer nights at upland lights look for a medium moth with pale reddish-whitish wings and fine marks; the pale ground with fine marks is the clue."
+    },
+    "zh": {
+      "summary": "コマエアカシロヨトウ。夜蛾科中型蛾，前翅淡红褐至偏白、具细斑，夜行趋光，见于山地林缘与草地，幼虫食禾草。",
+      "habitat_hint": "山地至低山林缘、草地、湿草原。",
+      "finding_tips": "夏夜于山地灯下寻找淡红褐偏白具细斑之中型夜蛾；淡红褐细斑为辨识点。"
+    }
+  },
+  "Leucotina casta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pyram snail",
+    "ja": {
+      "summary": "マキモノガイ。潮間帯〜浅い海の砂底にすむトウガタガイ科の小型の巻貝で、細長い塔形の白い殻をもつ。この科の多くは他の貝や多毛類に外部寄生して体液を吸う。砂底や他の貝の周りで見られる。",
+      "habitat_hint": "潮間帯〜浅海の砂底、他の貝の周り、干潟。",
+      "finding_tips": "砂底や干潟で、細長い塔形の白い微小な巻貝を探す。細長い白い塔形の殻が識別点。"
+    },
+    "en": {
+      "summary": "A pyram snail (Leucotina casta), a small pyramidellid of intertidal to shallow sandy bottoms with a slender white tower-shaped shell; many in this family ectoparasitise other molluscs and worms, sucking their fluids. It occurs on sand and around other shells.",
+      "habitat_hint": "Intertidal to shallow sandy bottoms, near other shells, tidal flats.",
+      "finding_tips": "On sand or tidal flats look for a tiny slender white tower-shaped snail; the slim white tower shell is the clue."
+    },
+    "zh": {
+      "summary": "マキモノガイ。塔螺科（小塔螺）微小巻贝，栖潮间带至浅海砂底，壳细长塔形而白，本科多外寄生他贝与多毛类吸食体液，见于砂底与他贝周。",
+      "habitat_hint": "潮间带至浅海砂底、他贝周、潮滩。",
+      "finding_tips": "砂底或潮滩寻找细长塔形之白色微小巻贝；细白塔壳为辨识点。"
+    }
+  },
+  "Ligdia japonaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "シロスジヒメエダシャク。シャクガ科エダシャク亜科の小型の蛾で、白っぽい翅に黒褐色の帯（すじ）が走る。夜行性で灯火に来て、幼虫はニシキギ科の植物の葉を食べる。低山地の雑木林や林縁で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、ニシキギ類のある場所。",
+      "finding_tips": "初夏の夜、灯火で白っぽい翅に黒褐色の帯をもつ小さな蛾を探す。白地に黒褐色の帯が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Ligdia japonaria), a small ennomine with whitish wings crossed by dark blackish-brown bands; nocturnal and attracted to light, its larvae feed on spindle-tree family plants. It occurs in low-mountain coppice and edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, edges, where spindle trees grow.",
+      "finding_tips": "On early-summer nights at lights look for a small whitish moth with dark bands; the dark bands on a white ground are the clue."
+    },
+    "zh": {
+      "summary": "シロスジヒメエダシャク。尺蛾科尺蛾亚科小型蛾，翅偏白具黑褐带纹，夜行趋光，幼虫食卫矛科植物叶，见于低山杂木林与林缘。",
+      "habitat_hint": "低山至平地杂木林、林缘、生卫矛类处。",
+      "finding_tips": "初夏夜于灯下寻找白翅具黑褐带之小蛾；白地黑褐带为辨识点。"
+    }
+  },
+  "Lilium pensylvanicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ezo lily",
+    "ja": {
+      "summary": "エゾスカシユリ。北日本の海岸や草原に生えるユリ科の多年草で、初夏に上向きの鮮やかな橙赤色の花を咲かせる。花被片の基部がすいて（透いて）見えることが名の由来。日当たりのよい草地や砂地で見られる。",
+      "habitat_hint": "海岸の草原、砂地、日当たりのよい高原の草地。",
+      "finding_tips": "初夏、海岸や草原で上向きに咲く鮮やかな橙赤色のユリを探す。上向きの橙赤色の花が識別点。"
+    },
+    "en": {
+      "summary": "The Ezo lily (Lilium pensylvanicum), a northern Japanese lily of coasts and grassland bearing upward-facing vivid orange-red flowers in early summer; the Japanese name notes the gap seen at the base of the petals. It grows in sunny grassland and sandy ground.",
+      "habitat_hint": "Coastal grassland, sandy ground, sunny upland meadows.",
+      "finding_tips": "In early summer on coasts or grassland look for a lily with upward-facing vivid orange-red flowers; the erect orange flower is the clue."
+    },
+    "zh": {
+      "summary": "エゾスカシユリ。百合科多年生草，生北日本海岸与草原，初夏开朝上之鲜橙红花，名指花被基部透空，见于向阳草地与砂地。",
+      "habitat_hint": "海岸草原、砂地、向阳高原草地。",
+      "finding_tips": "初夏于海岸或草原寻找朝上开放之鲜橙红百合；直立橙红花为辨识点。"
+    }
+  },
+  "Limacella delicata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slimy mushroom",
+    "ja": {
+      "summary": "チャヌメリカラカサタケ。林内の地上に生えるテングタケ科のきのこで、傘は淡褐色でぬめりがあり、柄にはつばをもつ。テングタケの仲間だが傘に強いぬめりがあるのが特徴。樹木と菌根を作り、夏〜秋に発生する。",
+      "habitat_hint": "広葉樹林・針葉樹林の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、林内で淡褐色でぬめりのある傘とつばのある柄をもつきのこを探す。強いぬめりのある傘が識別点。"
+    },
+    "en": {
+      "summary": "A slimy mushroom (Limacella delicata), an Amanita-family fungus of woodland ground with a slimy pale-brown cap and a ringed stem; related to Amanita but marked by its strongly slimy cap. Mycorrhizal with trees, it fruits in summer to autumn.",
+      "habitat_hint": "On the ground in broadleaf and conifer woods, mycorrhizal.",
+      "finding_tips": "In summer–autumn in woods look for a slimy pale-brown-capped mushroom with a ringed stem; the strongly slimy cap is the clue."
+    },
+    "zh": {
+      "summary": "チャヌメリカラカサタケ。鹅膏科真菌，生林地，盖淡褐而黏、柄具环，近鹅膏而以盖强黏为特征，与树木共生菌根，夏秋发生。",
+      "habitat_hint": "阔叶林、针叶林地上，与树木共生处。",
+      "finding_tips": "夏秋于林中寻找盖淡褐而黏、柄具环之菇；强黏之盖为辨识点。"
+    }
+  },
+  "Limenandra fusiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dorid nudibranch",
+    "ja": {
+      "summary": "ホソエラワグシウミウシ。潮間帯〜浅い海の岩礁にすむウミウシの一種で、細長い体の背中に触角と、後方に羽状のえら（鰓）をもつ。海綿などを食べる。岩やサンゴのがれきの間で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、サンゴのがれき、海綿の周り。",
+      "finding_tips": "岩礁や海綿の周りで、細長い体に触角と後方の羽状のえらをもつウミウシを探す。細長い体と後方のえらが識別点。"
+    },
+    "en": {
+      "summary": "A dorid nudibranch (Limenandra fusiformis), a sea slug of intertidal to shallow rocky reefs with an elongate body bearing rhinophores and a rear rosette of feathery gills; it eats sponges and occurs among rock and coral rubble.",
+      "habitat_hint": "Intertidal to shallow rocky reefs, coral rubble, around sponges.",
+      "finding_tips": "On reef rock or near sponges look for an elongate sea slug with rear feathery gills; the slim body with a rear gill tuft is the clue."
+    },
+    "zh": {
+      "summary": "ホソエラワグシウミウシ。海蛞蝓之一，栖潮间带至浅海岩礁，体细长、背具触角、后端具羽状鳃，食海绵，见于岩石与珊瑚碎屑间。",
+      "habitat_hint": "潮间带至浅海岩礁、珊瑚碎屑、海绵周边。",
+      "finding_tips": "岩礁或海绵周寻找体细长、后端具羽状鳃之海蛞蝓；细长体与后鳃为辨识点。"
+    }
+  },
+  "Lindera citriodora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "May chang",
+    "ja": {
+      "summary": "アオモジ。暖地の林縁や崩壊地に生えるクスノキ科の落葉小高木で、緑色の枝と、早春に葉に先立って咲く淡黄色の小さな花が特徴。葉や実にレモンのような芳香があり、枝は生け花や楊枝に使われる。",
+      "habitat_hint": "暖地の林縁、崩壊地、日当たりのよい二次林。",
+      "finding_tips": "早春、暖地の林縁で緑の枝に葉より先に淡黄色の小花をつける木を探す。緑の枝とレモン様の香りが識別点。"
+    },
+    "en": {
+      "summary": "May chang (Lindera citriodora), a warm-region deciduous small tree of the laurel family with green twigs and small pale-yellow flowers that open in early spring before the leaves; the leaves and fruit smell of lemon, and the twigs are used for flower arranging and toothpicks.",
+      "habitat_hint": "Warm-region forest edges, disturbed slopes, sunny secondary woods.",
+      "finding_tips": "In early spring at warm-region edges look for a tree with green twigs and pale-yellow flowers before the leaves; the green twigs and lemon scent are the clues."
+    },
+    "zh": {
+      "summary": "アオモジ。樟科落叶小乔木，生暖地林缘与崩塌地，枝绿，早春先叶开淡黄小花，叶果具柠檬香，枝供插花与牙签。",
+      "habitat_hint": "暖地林缘、崩塌地、向阳次生林。",
+      "finding_tips": "早春于暖地林缘寻找绿枝先叶开淡黄小花之木；绿枝与柠檬香为辨识点。"
+    }
+  },
+  "Liocarcinus corrugatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wrinkled swimming crab",
+    "ja": {
+      "summary": "シワガザミ。浅い海の砂底や砂礫底にすむワタリガニ科の小型のカニで、甲の表面が細かいしわ（隆起線）で覆われるのが名の由来。後脚がひれ状になり泳ぐ。夜行性で、砂に潜って身を隠す。",
+      "habitat_hint": "浅海の砂底・砂礫底、藻場、内湾。",
+      "finding_tips": "浅い海の砂底で、甲の表面が細かいしわで覆われ後脚がひれ状のカニを探す。しわ状の甲が識別点。"
+    },
+    "en": {
+      "summary": "The wrinkled swimming crab (Liocarcinus corrugatus), a small portunid of shallow sandy and gravelly bottoms named for its finely ridged (wrinkled) carapace; the rear legs are paddle-like for swimming, and it hides buried in sand, active at night.",
+      "habitat_hint": "Shallow sandy and gravelly bottoms, weed beds, bays.",
+      "finding_tips": "On shallow sandy bottoms look for a crab with a finely wrinkled carapace and paddle rear legs; the ridged shell is the clue."
+    },
+    "zh": {
+      "summary": "シワガザミ。梭子蟹科小型蟹，栖浅海砂底与砂砾底，甲面被细皱（隆起线）而得名，后足桨状能游，夜行、潜砂藏身。",
+      "habitat_hint": "浅海砂底、砂砾底、藻场、内湾。",
+      "finding_tips": "浅海砂底寻找甲面细皱、后足桨状之蟹；皱状甲为辨识点。"
+    }
+  },
+  "Liotinaria peronii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea snail",
+    "ja": {
+      "summary": "リュウキュウヒメカタベ。潮間帯〜浅い海の岩礁やサンゴ礁にすむ微小な巻貝で、丸みのある殻に格子状の彫刻をもつ。岩やサンゴの隙間、海藻の間で見られ、微細な藻や有機物を食べる。南日本の暖かい海に分布する。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、サンゴ礁、海藻の間、南日本の暖かい海。",
+      "finding_tips": "岩礁やサンゴの隙間で、丸みのある殻に格子状の彫刻をもつ微小な巻貝を探す。格子状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A tiny sea snail (Liotinaria peronii) of intertidal to shallow rocky and coral reefs with a rounded shell bearing latticed sculpture; it lives in rock and coral crannies and among seaweed, grazing fine algae and detritus in warm southern Japanese waters.",
+      "habitat_hint": "Intertidal to shallow rocky and coral reefs, among seaweed, warm southern seas.",
+      "finding_tips": "In reef and coral crannies look for a tiny rounded snail with latticed sculpture; the lattice pattern is the clue."
+    },
+    "zh": {
+      "summary": "リュウキュウヒメカタベ。微小巻贝，栖潮间带至浅海岩礁与珊瑚礁，壳圆具格状雕刻，居岩珊瑚隙与海藻间、刮食微藻与碎屑，分布南日本暖海。",
+      "habitat_hint": "潮间带至浅海岩礁、珊瑚礁、海藻间、南日本暖海。",
+      "finding_tips": "岩礁与珊瑚隙寻找壳圆具格状雕刻之微小巻贝；格状雕刻为辨识点。"
+    }
+  },
+  "Lithophane consocia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sallow moth",
+    "ja": {
+      "summary": "シロクビキリガ。ヤガ科の中型の蛾で、成虫で越冬するキリガ類の一種。前翅は樹皮に似た灰褐色で、首のあたりに白っぽい部分をもつ。晩秋と早春に活動し、樹液や熟した果実に集まる。落葉樹林で見られる。",
+      "habitat_hint": "低山地〜平地の落葉樹林、雑木林、林縁。",
+      "finding_tips": "晩秋や早春の夜、樹液や灯火で樹皮色の灰褐色に首元が白っぽい中型の蛾を探す。首元の白っぽさが識別点。"
+    },
+    "en": {
+      "summary": "A sallow moth (Lithophane consocia), a medium noctuid that overwinters as an adult; the bark-like grey-brown forewings have a whitish area near the 'neck'. Active in late autumn and early spring, it gathers at sap and ripe fruit in deciduous forest.",
+      "habitat_hint": "Lowland to low-mountain deciduous and coppice forest, edges.",
+      "finding_tips": "On late-autumn or early-spring nights at sap or lights look for a bark-coloured moth with a whitish 'neck'; the pale neck is the clue."
+    },
+    "zh": {
+      "summary": "シロクビキリガ。夜蛾科中型蛾，以成虫越冬，前翅灰褐拟树皮、颈部偏白，晚秋与早春活动、聚于树液与熟果，见于落叶林。",
+      "habitat_hint": "低山至平地落叶林、杂木林、林缘。",
+      "finding_tips": "晚秋或早春夜于树液或灯下寻找树皮色而颈部偏白之中型蛾；颈部白色为辨识点。"
+    }
+  },
+  "Lobaria discolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lung lichen",
+    "ja": {
+      "summary": "エビラゴケ。湿った林内の樹幹や岩に着生する大型の葉状地衣類で、上面は緑褐色、下面は淡色で、しわや網目状の凹凸をもつ。空気のきれいな森の指標とされる。古い森の樹幹でゆっくり成長する。",
+      "habitat_hint": "湿った林内の樹幹、岩、古い森、空気のきれいな環境。",
+      "finding_tips": "湿った森の樹幹で、緑褐色で網目状の凹凸をもつ大きな葉状の地衣類を探す。大きな網目状の葉状体が識別点。"
+    },
+    "en": {
+      "summary": "A lung lichen (Lobaria discolor), a large foliose lichen on trunks and rock in humid forest; the upper surface is greenish-brown and the pale underside is wrinkled and net-ridged. Regarded as an indicator of clean air, it grows slowly on old-forest trunks.",
+      "habitat_hint": "Trunks and rock in humid forest, old growth, clean-air sites.",
+      "finding_tips": "On humid-forest trunks look for a large leafy lichen, greenish-brown with a net-ridged surface; the large ridged lobes are the clue."
+    },
+    "zh": {
+      "summary": "エビラゴケ。大型叶状地衣，附生湿林树干与岩，上面绿褐、下面淡色、具皱与网状凹凸，为洁净空气森林之指标，于老林树干缓慢生长。",
+      "habitat_hint": "湿林树干、岩石、老林、空气洁净之境。",
+      "finding_tips": "湿林树干寻找绿褐、表面网状凹凸之大型叶状地衣；大网状叶体为辨识点。"
+    }
+  },
+  "Lobotes surinamensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Atlantic tripletail",
+    "ja": {
+      "summary": "マツダイ。外洋の表層を漂う流れ藻や浮遊物のそばにつく大型の海水魚で、背びれ・しりびれの後方が丸く張り出し、尾びれと合わせて三つの尾のように見えるのが名（tripletail）の由来。木の葉に擬態して横倒しに漂うことがある。",
+      "habitat_hint": "外洋・沿岸の表層、流れ藻や浮遊物の周り、内湾。",
+      "finding_tips": "海面の流れ藻や浮遊物のそばで、背・しりびれが後方に張り出し三つの尾のように見える大型魚を探す。三つ尾のような姿が識別点。"
+    },
+    "en": {
+      "summary": "The Atlantic tripletail (Lobotes surinamensis), a large fish that associates with drifting weed and flotsam at the surface; the rounded rear of its dorsal and anal fins, with the tail, gives a 'three-tailed' look. It sometimes drifts on its side mimicking a leaf.",
+      "habitat_hint": "Open-ocean and coastal surface, around drifting weed and flotsam, bays.",
+      "finding_tips": "Near surface weed or flotsam look for a large fish appearing three-tailed from its rounded rear fins; the triple-tail look is the clue."
+    },
+    "zh": {
+      "summary": "マツダイ。大型海鱼，随外洋表层之流藻与漂浮物，背鳍臀鳍后端圆张、与尾鳍合似三尾（tripletail）而得名，或侧倒漂浮拟枯叶。",
+      "habitat_hint": "外洋与沿岸表层、流藻与漂浮物周、内湾。",
+      "finding_tips": "海面流藻或漂浮物旁寻找后鳍圆张似三尾之大型鱼；三尾之姿为辨识点。"
+    }
+  },
+  "Locastra muscosalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "トサカフトメイガ。メイガ科の中型の蛾で、前翅は褐色で、静止時に翅を立てて先端がとさか（鶏冠）のように盛り上がって見える。夜行性で灯火に来る。幼虫は葉を綴って巣を作り、集団で葉を食べる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、幼虫の食樹のある場所。",
+      "finding_tips": "夏の夜、灯火で褐色の翅を立ててとさか状に見える中型のメイガを探す。とさか状の止まり方が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Locastra muscosalis), a medium pyralid whose brown forewings, held raised at rest, rise into a crest-like tip; nocturnal and attracted to light, its larvae web leaves into a nest and feed gregariously.",
+      "habitat_hint": "Lowland to low-mountain coppice, edges, near larval host trees.",
+      "finding_tips": "On summer nights at lights look for a medium brown moth holding its wings raised into a crest; the crested resting pose is the clue."
+    },
+    "zh": {
+      "summary": "トサカフトメイガ。螟蛾科中型蛾，前翅褐色，静止时竖翅、端部隆起如鸡冠，夜行趋光，幼虫缀叶结巢、群集食叶。",
+      "habitat_hint": "低山至平地杂木林、林缘、近幼虫寄主处。",
+      "finding_tips": "夏夜灯下寻找竖翅呈鸡冠状之褐色中型螟蛾；鸡冠状栖姿为辨识点。"
+    }
+  },
+  "Locustella fasciolata": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gray's grasshopper warbler",
+    "aliases": {
+      "zh-Hans": "北蝗莺"
+    },
+    "ja": {
+      "summary": "エゾセンニュウ。北日本の林や高原のやぶで繁殖するセンニュウ科の夏鳥で、上面はオリーブ褐色、胸から脇に淡い褐色みがある。やぶの中にひそみ、姿を見せずに「ジョッピンカケタカ」と聞きなされる大きな声でさえずる。",
+      "habitat_hint": "北日本〜山地の林縁、高原のやぶ、湿った草地の茂み。",
+      "finding_tips": "初夏、北日本のやぶで大きな独特のさえずりを頼りに探す。姿を見せず声で存在がわかるのが手がかり。"
+    },
+    "en": {
+      "summary": "Gray's grasshopper warbler (Locustella fasciolata), a summer visitor breeding in scrub of northern Japanese woods and uplands; olive-brown above with a faint buff wash on the breast and flanks. It skulks in cover and sings a loud far-carrying phrase without showing itself.",
+      "habitat_hint": "Northern Japan to montane edges, upland scrub, damp grassy thickets.",
+      "finding_tips": "In early summer in northern scrub locate it by its loud distinctive song; heard-not-seen is the clue."
+    },
+    "zh": {
+      "summary": "エゾセンニュウ（北蝗莺）。蝗莺科夏候鸟，繁殖于北日本林与高原灌丛，上体橄榄褐、胸胁淡褐，隐于灌丛不露面，以洪亮远传之鸣唱著称。",
+      "habitat_hint": "北日本至山地林缘、高原灌丛、湿草丛。",
+      "finding_tips": "初夏于北方灌丛凭洪亮独特鸣唱寻找；闻声不见影为线索。"
+    }
+  },
+  "Lomentaria hakodatensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "コスジフシツナギ。潮間帯〜浅い海の岩上や他の海藻に付着して生える紅藻で、中空で節ごとにくびれた円柱状の枝が繰り返し分かれる。赤紫色でやわらかく、春〜夏に見られる。岩礁の潮だまり周辺でふつうに見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩上、他の海藻の上、潮だまりの縁。",
+      "finding_tips": "潮間帯の岩や海藻で、中空で節ごとにくびれた円柱状に分枝する赤紫の海藻を探す。節でくびれる中空の枝が識別点。"
+    },
+    "en": {
+      "summary": "A red alga (Lomentaria hakodatensis) on intertidal to shallow rock and other seaweeds; hollow cylindrical branches constricted at each node fork repeatedly, reddish-purple and soft, seen in spring–summer. It is common around rocky tide pools.",
+      "habitat_hint": "Intertidal to shallow rock, on other seaweeds, tide-pool margins.",
+      "finding_tips": "On intertidal rock or weed look for a reddish-purple alga of hollow node-constricted cylinders that fork; the constricted hollow branches are the clue."
+    },
+    "zh": {
+      "summary": "コスジフシツナギ。红藻，附生潮间带至浅海岩上与他海藻，中空圆柱枝逐节缢缩、反复分枝，赤紫而柔，春夏可见，岩礁潮池周边常见。",
+      "habitat_hint": "潮间带至浅海岩上、他海藻上、潮池边缘。",
+      "finding_tips": "潮间带岩或海藻上寻找中空逐节缢缩之赤紫分枝藻；节缢中空枝为辨识点。"
+    }
+  },
+  "Lomographa nivea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ウスオビシロエダシャク。シャクガ科エダシャク亜科の小型の蛾で、白い翅に淡い褐色の細い帯（薄帯）が走る。夜行性で灯火に来て、幼虫はバラ科などの広葉樹の葉を食べる。低山地の雑木林や林縁で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、果樹のある場所。",
+      "finding_tips": "初夏の夜、灯火で白い翅に淡褐色の細い帯をもつ小さな蛾を探す。白地に淡い細帯が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Lomographa nivea), a small ennomine with white wings crossed by a faint pale-brown band; nocturnal and attracted to light, its larvae feed on rose-family and other broadleaf trees. It occurs in low-mountain coppice and edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, edges, near fruit trees.",
+      "finding_tips": "On early-summer nights at lights look for a small white moth with a faint pale band; the pale band on white is the clue."
+    },
+    "zh": {
+      "summary": "ウスオビシロエダシャク。尺蛾科尺蛾亚科小型蛾，白翅具淡褐细带，夜行趋光，幼虫食蔷薇科等阔叶树叶，见于低山杂木林与林缘。",
+      "habitat_hint": "低山至平地杂木林、林缘、近果树处。",
+      "finding_tips": "初夏夜于灯下寻找白翅具淡褐细带之小蛾；白地淡细带为辨识点。"
+    }
+  },
+  "Lonicera hypoglauca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Honeysuckle",
+    "ja": {
+      "summary": "キダチニンドウ。暖地の林縁や崩壊地に生えるスイカゴズラ科のつる性の低木で、初夏に白から黄色に変わる筒状の花を咲かせる。葉の裏が白っぽいのが特徴。スイカズラに似るが、より木立ち状になる。",
+      "habitat_hint": "暖地の林縁、崩壊地、日当たりのよい二次林。",
+      "finding_tips": "初夏、暖地の林縁で白から黄に変わる筒状の花と裏の白っぽい葉をもつつる性の木を探す。葉裏の白さが手がかり。"
+    },
+    "en": {
+      "summary": "A honeysuckle (Lonicera hypoglauca), a warm-region climbing shrub bearing tubular flowers that turn from white to yellow in early summer; the leaf undersides are whitish. Similar to Japanese honeysuckle but growing more shrubby, it occurs at forest edges and disturbed slopes.",
+      "habitat_hint": "Warm-region forest edges, disturbed slopes, sunny secondary woods.",
+      "finding_tips": "In early summer at warm edges look for a climber with white-to-yellow tubular flowers and whitish leaf undersides; the pale undersides are the clue."
+    },
+    "zh": {
+      "summary": "キダチニンドウ。忍冬科攀缘灌木，生暖地林缘与崩塌地，初夏开由白转黄之筒状花，叶背偏白，似忍冬而更木立状。",
+      "habitat_hint": "暖地林缘、崩塌地、向阳次生林。",
+      "finding_tips": "初夏于暖地林缘寻找具白转黄筒花、叶背偏白之攀缘木；叶背白色为线索。"
+    }
+  },
+  "Lonicera maackii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amur honeysuckle",
+    "ja": {
+      "summary": "ハナヒョウタンボク。落葉広葉樹林の林縁や河畔に生えるスイカズラ科の落葉低木で、初夏に白から黄色に変わる花を対に咲かせ、秋に赤い実を対につける。二つの実がひょうたん状に並ぶのが名の由来。実は有毒。",
+      "habitat_hint": "落葉樹林の林縁、河畔、日当たりのよい斜面。",
+      "finding_tips": "初夏に白〜黄の花を、秋に赤い実を対につける低木を探す。二個一組の赤い実が識別点。実は口にしない。"
+    },
+    "en": {
+      "summary": "Amur honeysuckle (Lonicera maackii), a deciduous shrub of forest edges and riversides bearing paired white-to-yellow flowers in early summer and paired red berries in autumn; the twinned fruit, gourd-like, names it in Japanese. The berries are poisonous.",
+      "habitat_hint": "Deciduous forest edges, riversides, sunny slopes.",
+      "finding_tips": "Look for a shrub with paired white-to-yellow flowers in early summer and paired red berries in autumn; the twinned red fruit is the clue. Do not eat the berries."
+    },
+    "zh": {
+      "summary": "ハナヒョウタンボク。忍冬科落叶灌木，生落叶林缘与河畔，初夏成对开白转黄之花、秋成对结红果，双果并列如葫芦而得名，果有毒。",
+      "habitat_hint": "落叶林缘、河畔、向阳坡。",
+      "finding_tips": "寻找初夏成对白转黄花、秋成对红果之灌木；成对红果为辨识点，果勿食。"
+    }
+  },
+  "Lonicera mochidzukiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Honeysuckle",
+    "ja": {
+      "summary": "ヤマヒョウタンボク。山地の林縁や林内に生えるスイカズラ科の落葉低木で、初夏に淡黄色の花を対に咲かせ、夏に赤い実を対につける。二つの実がひょうたん状に並ぶヒョウタンボクの仲間。山地でやや局地的に見られる。",
+      "habitat_hint": "山地の林縁、落葉樹林内、明るい林床。",
+      "finding_tips": "初夏、山地の林縁で淡黄色の花を対につける低木を探す。夏の二個一組の赤い実が識別点。実は口にしない。"
+    },
+    "en": {
+      "summary": "A honeysuckle (Lonicera mochidzukiana), a montane deciduous shrub bearing paired pale-yellow flowers in early summer and paired red berries in summer; one of the gourd-fruited honeysuckles, it occurs somewhat locally in the mountains.",
+      "habitat_hint": "Montane forest edges, deciduous woodland, bright understorey.",
+      "finding_tips": "In early summer at montane edges look for a shrub with paired pale-yellow flowers; the paired red summer berries are the clue. Do not eat them."
+    },
+    "zh": {
+      "summary": "ヤマヒョウタンボク。忍冬科落叶灌木，生山地林缘与林内，初夏成对开淡黄花、夏成对结红果，为葫芦忍冬之类，山地略呈局地分布。",
+      "habitat_hint": "山地林缘、落叶林内、明亮林下。",
+      "finding_tips": "初夏于山地林缘寻找成对淡黄花之灌木；夏之成对红果为辨识点，果勿食。"
+    }
+  },
+  "Lophoruza pulcherrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "モモイロツマキリコヤガ。ヤガ科（コヤガ類）の小型の蛾で、前翅の外縁が切れ込み、桃色を帯びた美しい色彩をもつ。夜行性で灯火に来る。低山地の雑木林や林縁で見られ、幼虫は地衣類などを食べるとされる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、地衣類の多い環境。",
+      "finding_tips": "夏の夜、灯火で外縁が切れ込み桃色を帯びた小さな美しい蛾を探す。桃色の色彩と切れ込む翅が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Lophoruza pulcherrima), a small moth whose forewing outer margin is notched and beautifully tinged pink; nocturnal and attracted to light, it occurs in low-mountain coppice and edges and its larvae are thought to eat lichens.",
+      "habitat_hint": "Lowland to low-mountain coppice, edges, lichen-rich sites.",
+      "finding_tips": "On summer nights at lights look for a small beautiful moth with a notched outer margin tinged pink; the pink hue and notched wing are the clues."
+    },
+    "zh": {
+      "summary": "モモイロツマキリコヤガ。裳蛾科小型蛾，前翅外缘缺刻、带桃色而艳丽，夜行趋光，见于低山杂木林与林缘，幼虫据载食地衣。",
+      "habitat_hint": "低山至平地杂木林、林缘、多地衣之境。",
+      "finding_tips": "夏夜灯下寻找外缘缺刻带桃色之艳丽小蛾；桃色与缺刻翅为辨识点。"
+    }
+  },
+  "Luidia quinaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sand star",
+    "ja": {
+      "summary": "スナヒトデ。内湾や浅い海の砂泥底にすむヒトデの一種で、5本の細長い腕をもち、体は薄く柔らかい。砂に潜って小動物を捕食する。腕がちぎれやすく、再生する。干潟や浅海の砂底でふつうに見られる。",
+      "habitat_hint": "内湾・浅海の砂泥底、干潟、砂に潜る。",
+      "finding_tips": "浅海や干潟の砂底で、5本の細長い腕をもつ薄く柔らかいヒトデを探す。細長い5本の腕が識別点。"
+    },
+    "en": {
+      "summary": "A sand star (Luidia quinaria), a sea star of bays and shallow sandy-muddy bottoms with five long slender arms and a thin, soft body; it burrows in sand to prey on small animals, sheds arms readily and regenerates them. It is common on tidal flats and shallow sand.",
+      "habitat_hint": "Bay and shallow sandy-muddy bottoms, tidal flats, burrowing in sand.",
+      "finding_tips": "On shallow sandy bottoms or flats look for a thin soft starfish with five long slender arms; the long slim arms are the clue."
+    },
+    "zh": {
+      "summary": "スナヒトデ。海星之一，栖内湾与浅海砂泥底，具五条细长腕、体薄软，潜砂捕食小动物，腕易断而能再生，潮滩与浅海砂底常见。",
+      "habitat_hint": "内湾、浅海砂泥底、潮滩，潜砂。",
+      "finding_tips": "浅海或潮滩砂底寻找具五细长腕之薄软海星；细长五腕为辨识点。"
+    }
+  },
+  "Lyonsia ventricosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lyonsia clam",
+    "ja": {
+      "summary": "サザナミガイ。内湾や浅い海の砂泥底に浅く潜ってすむウミタケガイモドキ科の二枚貝で、殻は白く薄くもろく、表面にさざなみ状の細かい成長脈をもつのが名の由来。殻の内面は真珠光沢をもつ。干潟や浅海で見られる。",
+      "habitat_hint": "内湾・浅海の砂泥底、干潟、砂泥に浅く潜る。",
+      "finding_tips": "干潟や浅海の砂泥で、白く薄くさざなみ状の細かい脈をもつもろい二枚貝を探す。さざなみ状の成長脈が識別点。"
+    },
+    "en": {
+      "summary": "A lyonsia clam (Lyonsia ventricosa), a bivalve burrowing shallowly in bay and shallow sandy-mud bottoms; the shell is white, thin and fragile with fine ripple-like growth lines (naming it in Japanese) and a pearly interior. It occurs on tidal flats and in shallow water.",
+      "habitat_hint": "Bay and shallow sandy-mud bottoms, tidal flats, shallow burrower.",
+      "finding_tips": "On flats or shallow sandy-mud look for a fragile thin white bivalve with fine ripple growth lines; the ripple lines are the clue."
+    },
+    "zh": {
+      "summary": "サザナミガイ。薄壳蛤科二枚贝，浅潜于内湾与浅海砂泥底，壳白薄脆、表面具波纹状细生长纹而得名，壳内具珍珠光泽，见于潮滩与浅海。",
+      "habitat_hint": "内湾、浅海砂泥底、潮滩，浅潜砂泥。",
+      "finding_tips": "潮滩或浅海砂泥寻找白薄脆、具波纹细纹之二枚贝；波纹生长纹为辨识点。"
+    }
   }
 }
