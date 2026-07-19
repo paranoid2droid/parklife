@@ -273792,5 +273792,525 @@
       "habitat_hint": "低山至平地杂木林、林缘、草地。",
       "finding_tips": "夏夜灯下寻找外缘凹缺、具两横线之小蛾；凹翅与双线为辨识点。"
     }
+  },
+  "Goniobranchus leopardus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leopard sea slug",
+    "ja": {
+      "summary": "ヒョウモンウミウシ。暖海のサンゴ礁にすむイロウミウシ科のウミウシで、白っぽい体に豹紋（ヒョウ柄）のような赤褐色の輪状斑が散らばる。海綿を餌とし、岩礁の浅所で見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所。",
+      "finding_tips": "暖海のサンゴ礁で白地に豹柄状の輪斑をもつウミウシを探す。輪状の斑紋が識別点。"
+    },
+    "en": {
+      "summary": "Leopard sea slug (Goniobranchus leopardus), a chromodorid of warm-water reefs with a whitish body scattered with leopard-like reddish-brown ringed spots. It feeds on sponges in shallow reef areas.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow water.",
+      "finding_tips": "On warm reefs look for a white slug with leopard-like ringed spots; the ringed markings are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒョウモンウミウシ。多彩海蛞蝓科海蛞蝓，栖暖海珊瑚礁，体白散布似豹纹之红褐环斑，食海绵、见于礁区浅处。",
+      "habitat_hint": "暖海珊瑚礁、岩礁浅处。",
+      "finding_tips": "暖海珊瑚礁寻找白地具豹纹环斑之海蛞蝓；环状斑为辨识点。"
+    }
+  },
+  "Goniobranchus rufomaculatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "ヒメコモンウミウシ。暖海のサンゴ礁にすむイロウミウシ科の小型のウミウシで、白っぽい体に赤褐色の斑点が散らばる。外套膜の縁に色帯をもつ。海綿を餌とし、岩礁の浅所で見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所。",
+      "finding_tips": "暖海のサンゴ礁で白地に赤褐色の斑点が散る小さなウミウシを探す。縁の色帯が手がかり。"
+    },
+    "en": {
+      "summary": "A small sea slug (Goniobranchus rufomaculatus) of warm-water reefs, whitish with scattered reddish-brown spots and a coloured mantle margin. It feeds on sponges in shallow reef areas.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow water.",
+      "finding_tips": "On warm reefs look for a small white slug with reddish-brown spots; the coloured mantle edge is the clue."
+    },
+    "zh": {
+      "summary": "ヒメコモンウミウシ。多彩海蛞蝓科小型海蛞蝓，栖暖海珊瑚礁，体白散布红褐斑、外套缘具色带，食海绵、见于礁区浅处。",
+      "habitat_hint": "暖海珊瑚礁、岩礁浅处。",
+      "finding_tips": "暖海珊瑚礁寻找白地具红褐斑之小海蛞蝓；缘部色带为线索。"
+    }
+  },
+  "Gymnodoris impudica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "キイボキヌハダウミウシ。他のウミウシを襲って食べる肉食性のキヌハダウミウシ科のウミウシ。半透明の体に黄色いいぼ状の突起が散らばる。潮間帯〜浅海の岩礁で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、他のウミウシのいる場所。",
+      "finding_tips": "岩礁で半透明の体に黄色いいぼ状突起をもつウミウシを探す。黄色いいぼが識別点。"
+    },
+    "en": {
+      "summary": "A predatory sea slug (Gymnodoris impudica) that attacks and eats other sea slugs; the translucent body is scattered with yellow wart-like tubercles. It occurs on intertidal to shallow reefs.",
+      "habitat_hint": "Intertidal to shallow reefs where other sea slugs occur.",
+      "finding_tips": "On reefs look for a translucent slug dotted with yellow warts; the yellow tubercles are diagnostic."
+    },
+    "zh": {
+      "summary": "キイボキヌハダウミウシ。绢肤海蛞蝓科肉食性海蛞蝓，袭食他种海蛞蝓，半透明体散布黄色疣突，见于潮间带至浅海岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁、他种海蛞蝓处。",
+      "finding_tips": "岩礁寻找半透明体具黄疣之海蛞蝓；黄疣为辨识点。"
+    }
+  },
+  "Gymnodoris subornata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "ヒメキヌハダウミウシ。他のウミウシを食べる肉食性のキヌハダウミウシ科の小型のウミウシ。半透明〜白っぽい体にオレンジ色の点が散らばる。潮間帯〜浅海の岩礁で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁。",
+      "finding_tips": "岩礁で半透明〜白い体にオレンジの点をもつ小さなウミウシを探す。オレンジの点が手がかり。"
+    },
+    "en": {
+      "summary": "A small predatory sea slug (Gymnodoris subornata) that eats other sea slugs; the translucent to whitish body is scattered with orange dots. It occurs on intertidal to shallow reefs.",
+      "habitat_hint": "Intertidal to shallow reefs.",
+      "finding_tips": "On reefs look for a small translucent-white slug with orange dots; the orange spotting is the clue."
+    },
+    "zh": {
+      "summary": "ヒメキヌハダウミウシ。绢肤海蛞蝓科小型肉食海蛞蝓，食他种海蛞蝓，半透明至白体散布橙点，见于潮间带至浅海岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁。",
+      "finding_tips": "岩礁寻找半透明白体具橙点之小海蛞蝓；橙点为线索。"
+    }
+  },
+  "Gymnopilus penetrans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common rustgill",
+    "ja": {
+      "summary": "キツムタケ。針葉樹や広葉樹の切り株や倒木、木片に群がって生えるチャツムタケ科のきのこ。傘は黄褐色〜橙褐色で、ひだや古い胞子で錆色を帯びる。苦味があり食用には向かない。",
+      "habitat_hint": "切り株、倒木、ウッドチップなどの朽ち木上。",
+      "finding_tips": "秋、切り株やウッドチップで黄橙褐色の傘をもつきのこが群生するのを探す。錆色を帯びるひだが手がかり。"
+    },
+    "en": {
+      "summary": "Common rustgill (Gymnopilus penetrans), a mushroom growing in troops on conifer and hardwood stumps, logs and wood chips; the cap is yellow- to orange-brown and the gills rust with spores. It is bitter and not eaten.",
+      "habitat_hint": "Stumps, logs and wood chips of decaying wood.",
+      "finding_tips": "In autumn on stumps and wood chips look for troops of yellow-orange-brown mushrooms; the rust-toned gills are the clue."
+    },
+    "zh": {
+      "summary": "キツムタケ。锈伞科真菌，群生于针阔叶树桩、倒木与木片，盖黄褐至橙褐、褶随孢子带锈色，味苦不宜食。",
+      "habitat_hint": "树桩、倒木、木片等朽木上。",
+      "finding_tips": "秋于树桩木片寻找群生之黄橙褐盖菇；褶带锈色为线索。"
+    }
+  },
+  "Gymnothorax fimbriatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fimbriated moray",
+    "ja": {
+      "summary": "ヘリゴイシウツボ。暖海のサンゴ礁や岩礁にすむウツボ科の魚。淡色の体に黒い斑点が縁（ヘリ）に沿って碁石を並べたように点在するのが名の由来。昼は岩穴に潜み、夜に活動する。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の穴や隙間。",
+      "finding_tips": "サンゴ礁の岩穴から顔を出す、黒斑が並ぶ淡色のウツボを探す。碁石状の黒斑が識別点。"
+    },
+    "en": {
+      "summary": "Fimbriated moray (Gymnothorax fimbriatus), a moray eel of warm coral and rocky reefs; the pale body bears black spots along the margins like lined-up game stones, giving its Japanese name. It shelters in holes by day and hunts at night.",
+      "habitat_hint": "Warm coral and rocky reefs, holes and crevices.",
+      "finding_tips": "In reef holes look for a pale moray with rows of black spots; the game-stone-like spots are diagnostic."
+    },
+    "zh": {
+      "summary": "ヘリゴイシウツボ（细斑裸胸鳝）。海鳝科鱼，栖暖海珊瑚与岩礁，体淡、黑斑沿缘排列如棋子而得名，昼藏岩洞、夜出活动。",
+      "habitat_hint": "暖海珊瑚与岩礁、洞穴与缝隙。",
+      "finding_tips": "珊瑚礁洞口寻找露头之淡色具黑斑海鳝；棋子状黑斑为辨识点。"
+    }
+  },
+  "Gymnothorax pseudothyrsoideus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Highfin moray",
+    "ja": {
+      "summary": "アミメウツボ。暖海のサンゴ礁や岩礁にすむウツボ科の魚で、褐色の体に淡い網目模様が広がる。昼は岩穴に潜んで頭だけ出し、夜に小魚や甲殻類を捕食する。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の穴や隙間。",
+      "finding_tips": "サンゴ礁の岩穴で褐色に網目模様のウツボを探す。網目状の模様が識別点。"
+    },
+    "en": {
+      "summary": "A moray eel (Gymnothorax pseudothyrsoideus) of warm coral and rocky reefs, brown with a pale reticulate pattern. It shelters head-out in reef holes by day and hunts fish and crustaceans at night.",
+      "habitat_hint": "Warm coral and rocky reefs, holes and crevices.",
+      "finding_tips": "In reef holes look for a brown moray with a pale net pattern; the reticulation is diagnostic."
+    },
+    "zh": {
+      "summary": "アミメウツボ。海鳝科鱼，栖暖海珊瑚与岩礁，体褐具淡网纹，昼藏岩洞露头、夜捕小鱼与甲壳类。",
+      "habitat_hint": "暖海珊瑚与岩礁、洞穴与缝隙。",
+      "finding_tips": "珊瑚礁洞穴寻找褐色具网纹之海鳝；网纹为辨识点。"
+    }
+  },
+  "Gypsophila vaccaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cow soapwort",
+    "aliases": {
+      "zh-Hans": "麦蓝菜"
+    },
+    "ja": {
+      "summary": "ドウカンソウ。ヨーロッパ〜西アジア原産のナデシコ科の一年草で、麦畑などに交じって帰化する。二又に分かれた茎の先に淡紅色の小さな五弁花をつける。種子は生薬（王不留行）として用いられる。",
+      "habitat_hint": "麦畑、路傍、荒地、河原。",
+      "finding_tips": "初夏、荒地や畑で二又に分かれた茎の先に淡紅色の小花をつける草を探す。二又の花序と淡紅色の花が手がかり。"
+    },
+    "en": {
+      "summary": "Cow soapwort (Gypsophila vaccaria / Vaccaria hispanica), a European–west-Asian annual pink that naturalises among cereal fields; forked stems bear small pale-pink five-petalled flowers, and the seeds are used in herbal medicine.",
+      "habitat_hint": "Cereal fields, roadsides, waste ground, riverbanks.",
+      "finding_tips": "In early summer on waste ground look for a plant with forked stems tipped by small pale-pink flowers; the branching sprays are the clue."
+    },
+    "zh": {
+      "summary": "ドウカンソウ（麦蓝菜／王不留行）。石竹科一年生草，原产欧洲至西亚，杂生麦田而归化，二歧分枝顶生淡红五瓣小花，种子入药称王不留行。",
+      "habitat_hint": "麦田、路旁、荒地、河滩。",
+      "finding_tips": "初夏于荒地田地寻找二歧分枝顶具淡红小花之草；二歧花序与淡红花为线索。"
+    }
+  },
+  "Gyrochaetostylus atricomes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "クロモリヒラタゴミムシ。林床の落ち葉や石の下にすむオサムシ科（ゴミムシの仲間）の甲虫。体は黒く扁平で、夜行性で地表を歩き回り小動物を捕食する。湿った林でよく見られる。",
+      "habitat_hint": "林床の落ち葉の下、石の下、朽ち木の下。",
+      "finding_tips": "湿った林で落ち葉や石をめくり、黒く扁平なゴミムシを探す。扁平な体と黒色が手がかり。"
+    },
+    "en": {
+      "summary": "A ground beetle (Gyrochaetostylus atricomes) of forest-floor litter and under stones; the body is black and flattened, and it is a nocturnal ground predator of small invertebrates, common in damp woods.",
+      "habitat_hint": "Under forest-floor litter, stones and rotten wood.",
+      "finding_tips": "In damp woods turn litter and stones for a black flattened ground beetle; the flat black body is the clue."
+    },
+    "zh": {
+      "summary": "クロモリヒラタゴミムシ。步甲科甲虫，栖林床落叶与石下，体黑而扁、夜行于地表捕食小动物，常见于湿林。",
+      "habitat_hint": "林床落叶下、石下、朽木下。",
+      "finding_tips": "湿林翻落叶石块寻找黑而扁之步甲；扁黑体为线索。"
+    }
+  },
+  "Habrosyne dieckmanni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hooktip moth",
+    "ja": {
+      "summary": "ウスベニアヤトガリバ。カギバガ科トガリバ亜科の中型の蛾で、前翅に薄紅色を帯びた複雑な綾模様（斜めの線や斑）をもつ。夜行性で灯火に来て、幼虫はキイチゴ類などを食べる。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、灯火で薄紅色を帯びた綾模様の中型の蛾を探す。斜めの綾模様が識別点。"
+    },
+    "en": {
+      "summary": "A hooktip moth (Habrosyne dieckmanni), a medium drepanid of the Thyatirinae with intricate oblique lines and marks tinged pinkish on the forewing. Nocturnal and attracted to light, its larvae feed on brambles (Rubus).",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at lights look for a medium moth with pinkish intricate oblique patterning; the diagonal figuring is diagnostic."
+    },
+    "zh": {
+      "summary": "ウスベニアヤトガリバ。钩蛾科尖钩蛾亚科中型蛾，前翅具带微红之复杂斜纹与斑，夜行趋光，幼虫食悬钩子类。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜灯下寻找带微红复杂斜纹之中型蛾；斜纹为辨识点。"
+    }
+  },
+  "Hadennia nakatanii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "ヒメハナマガリアツバ。ヤガ科（アツバ類）の小型の蛾で、雄の下唇鬚（かぎ状に曲がる部分）が発達する。前翅は褐色で細い横線をもつ。夜行性で灯火に来て、雑木林で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁。",
+      "finding_tips": "夏の夜、灯火で褐色に細い横線をもつ小さなアツバ類を探す。曲がった下唇鬚が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Hadennia nakatanii), a small moth in which the male's labial palps are strongly developed and curved; the brown forewing has fine cross-lines. Nocturnal and attracted to light, it occurs in coppice.",
+      "habitat_hint": "Lowland to low-mountain coppice and forest edges.",
+      "finding_tips": "On summer nights at lights look for a small brown moth with fine cross-lines; the curved palps are diagnostic."
+    },
+    "zh": {
+      "summary": "ヒメハナマガリアツバ。裳蛾科小型蛾，雄下唇须发达弯曲，前翅褐色具细横线，夜行趋光，见于杂木林。",
+      "habitat_hint": "低山至平地杂木林、林缘。",
+      "finding_tips": "夏夜灯下寻找褐色具细横线之小蛾；弯曲下唇须为辨识点。"
+    }
+  },
+  "Haliotis asinina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Donkey's ear abalone",
+    "aliases": {
+      "zh-Hans": "耳鲍"
+    },
+    "ja": {
+      "summary": "ミミガイ。暖海のサンゴ礁や岩礁にすむミミガイ科（アワビの仲間）の巻貝で、殻が細長く耳のような形をしているのが名の由来。殻の縁に呼吸用の孔が並ぶ。動きが速く、夜に海藻を食べる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所、岩の隙間。",
+      "finding_tips": "暖海の岩礁で、細長い耳形の殻に孔が並ぶ巻貝を探す。耳形の殻と縁の孔が識別点。"
+    },
+    "en": {
+      "summary": "Donkey's ear abalone (Haliotis asinina), a warm-water abalone whose shell is elongate and ear-shaped, with a row of respiratory holes along the margin. Fast-moving, it grazes algae at night.",
+      "habitat_hint": "Warm coral and rocky reefs, shallow water, crevices.",
+      "finding_tips": "On warm reefs look for an elongate ear-shaped shell with a row of holes; the ear shape and marginal holes are diagnostic."
+    },
+    "zh": {
+      "summary": "ミミガイ（耳鲍）。鲍科螺，栖暖海珊瑚与岩礁，壳细长呈耳形而得名，缘具一列呼吸孔，行动迅捷、夜食海藻。",
+      "habitat_hint": "暖海珊瑚与岩礁、浅处、岩隙。",
+      "finding_tips": "暖海岩礁寻找细长耳形、缘具孔列之螺；耳形壳与缘孔为辨识点。"
+    }
+  },
+  "Hastula albula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Auger snail",
+    "ja": {
+      "summary": "ミガキタケ。砂浜や浅海の砂底にすむタケノコガイ科（Terebridae）の巻貝で、殻は細長く尖った塔形で表面がなめらかで光沢がある（磨いたよう）。砂中を這って小動物を捕食する。",
+      "habitat_hint": "砂浜、内湾〜浅海の砂底。",
+      "finding_tips": "砂浜の打ち上げで、細長い塔形でなめらかに光る巻貝を探す。磨いたような光沢が手がかり。"
+    },
+    "en": {
+      "summary": "An auger snail (Hastula albula), a terebrid of sandy beaches and shallow sand; the shell is a slender pointed tower with a smooth glossy surface. It ploughs through sand preying on small animals.",
+      "habitat_hint": "Sandy beaches, bay to shallow sand bottoms.",
+      "finding_tips": "In beach drift look for a slender glossy pointed tower shell; the polished smooth surface is the clue."
+    },
+    "zh": {
+      "summary": "ミガキタケ。笋螺科螺，栖砂滩与浅海砂底，壳细长尖塔形、表面光滑有光泽（如磨光），行于砂中捕食小动物。",
+      "habitat_hint": "砂滩、内湾至浅海砂底。",
+      "finding_tips": "砂滩冲积寻找细长尖塔、光滑发亮之螺；磨光光泽为线索。"
+    }
+  },
+  "Helenium autumnale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "堆心菊"
+    },
+    "ja": {
+      "summary": "ダンゴギク。北アメリカ原産のキク科の多年草で、観賞用に栽培され各地で見られる。黄色〜赤褐色の舌状花の中央に、団子のように盛り上がった球形の花心があるのが名の由来。夏〜秋に咲く。",
+      "habitat_hint": "花壇、公園、路傍、逸出した草地。",
+      "finding_tips": "夏〜秋、花壇や草地で中央が団子状に盛り上がる黄〜赤褐色の頭花を探す。盛り上がった花心が識別点。"
+    },
+    "en": {
+      "summary": "Sneezeweed (Helenium autumnale), a North-American perennial daisy grown ornamentally and widely seen; yellow to red-brown rays surround a dumpling-like domed disc that names it in Japanese. It blooms in summer–autumn.",
+      "habitat_hint": "Flower beds, parks, roadsides, escaped grassland.",
+      "finding_tips": "In summer–autumn in beds and grassland look for daisy heads with a raised domed centre and yellow-to-red rays; the domed disc is diagnostic."
+    },
+    "zh": {
+      "summary": "ダンゴギク（堆心菊）。菊科多年生草，原产北美、供观赏而各地可见，舌状花黄至红褐、中央盘心隆起如团子而得名，夏秋开花。",
+      "habitat_hint": "花坛、公园、路旁、逸生草地。",
+      "finding_tips": "夏秋于花坛草地寻找中央隆起、舌花黄至红褐之头状花；隆起盘心为辨识点。"
+    }
+  },
+  "Heliacus enoshimensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sundial snail",
+    "ja": {
+      "summary": "ナワメグルマ。潮間帯〜浅海の岩礁や砂底にすむクルマガイ科（Architectonicidae）の小型の巻貝で、殻は平たい円盤状で、表面に縄目状の彫刻をもつ。臍（へそ）が深く開く。イソギンチャクなどに関わる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、砂底。",
+      "finding_tips": "潮だまりや浜の打ち上げで、平たい円盤状で縄目模様の小さな巻貝を探す。深い臍と縄目彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A sundial snail (Heliacus enoshimensis), a small architectonicid of intertidal to shallow reefs and sand; the shell is a flat disc with rope-like sculpture and a deep open umbilicus. It associates with sea anemones.",
+      "habitat_hint": "Intertidal to shallow reefs and sand bottoms.",
+      "finding_tips": "In tide pools or drift look for a small flat disc-shaped snail with rope-like sculpture; the deep umbilicus is the clue."
+    },
+    "zh": {
+      "summary": "ナワメグルマ。车轮螺科小型螺，栖潮间带至浅海岩礁与砂底，壳平圆盘状、表面具绳纹雕刻、脐深而开，与海葵相关。",
+      "habitat_hint": "潮间带至浅海岩礁、砂底。",
+      "finding_tips": "潮池或冲积寻找平圆盘状具绳纹之小螺；深脐与绳纹为辨识点。"
+    }
+  },
+  "Hemipilia cucullata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hooded orchid",
+    "aliases": {
+      "zh-Hans": "兜被兰"
+    },
+    "ja": {
+      "summary": "ミヤマモジズリ。山地の林床や草地に生えるラン科の小型の多年草。細い花茎に淡紅紫色の小さな花を穂状に多数つけ、萼片が兜（かぶと）状に集まる。花がねじれて並ぶ様子がモジズリ（ネジバナ）を思わせる。",
+      "habitat_hint": "山地の林床、林縁、明るい草地。",
+      "finding_tips": "夏、山地の林床で細い花茎に淡紅紫の小花を穂状につける小さなランを探す。兜状の萼と穂状の花が識別点。"
+    },
+    "en": {
+      "summary": "A hooded orchid (Hemipilia cucullata), a small montane terrestrial orchid; slender spikes bear many small pale pink-purple flowers whose sepals gather into a hood, arranged in a way recalling the twisted ladies'-tresses.",
+      "habitat_hint": "Montane forest floor, edges, open grassland.",
+      "finding_tips": "In summer on montane forest floor look for a small orchid with a slender spike of pale purple flowers; the hooded sepals are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマモジズリ（兜被兰）。兰科小型地生兰，生山地林床草地，细花茎密生淡红紫小花成穗、萼片聚成兜状，花列略似绶草。",
+      "habitat_hint": "山地林床、林缘、明亮草地。",
+      "finding_tips": "夏于山地林床寻找细茎穗生淡紫小花之小兰；兜状萼与穗状花为辨识点。"
+    }
+  },
+  "Hemithea marina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald moth",
+    "ja": {
+      "summary": "アオスジアオシャク。シャクガ科アオシャク亜科の小型の蛾で、緑色の翅に白い筋（横線）が二本走る。夜行性で灯火に来て、幼虫は樹木の葉を食べる尺取り虫。雑木林や林縁でよく見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁。",
+      "finding_tips": "初夏〜夏の夜、灯火で緑色に白い二本の筋をもつ小さな蛾を探す。緑地に白い横線が識別点。"
+    },
+    "en": {
+      "summary": "An emerald moth (Hemithea marina), a small geometrid with green wings crossed by two white lines. Nocturnal and attracted to light, its larvae are leaf-feeding inchworms; it is common in coppice and at forest edges.",
+      "habitat_hint": "Lowland to low-mountain coppice and forest edges.",
+      "finding_tips": "On early-summer nights at lights look for a small green moth with two white cross-lines; the white lines on green are the clue."
+    },
+    "zh": {
+      "summary": "アオスジアオシャク。尺蛾科青尺蛾亚科小型蛾，绿翅具两条白色横线，夜行趋光，幼虫为食叶尺蠖，杂木林林缘常见。",
+      "habitat_hint": "低山至平地杂木林、林缘。",
+      "finding_tips": "初夏至夏夜灯下寻找绿翅具两白线之小蛾；绿地白线为辨识点。"
+    }
+  },
+  "Herminia fentoni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "ホソナミアツバ。ヤガ科（アツバ類）の小型の蛾で、細い体に、前翅に細かな波状の横線が走る。夜行性で灯火に来て、幼虫は落ち葉などを食べるとされる。雑木林や林縁で見られる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "夏の夜、灯火で細い波状の横線をもつ細身の小さなアツバ類を探す。細かな波線が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Herminia fentoni), a small slender moth whose forewing bears fine wavy cross-lines. Nocturnal and attracted to light, its larvae are thought to feed on leaf litter; it occurs in coppice and edges.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "On summer nights at lights look for a small slender moth with fine wavy cross-lines; the wavy lines are the clue."
+    },
+    "zh": {
+      "summary": "ホソナミアツバ。裳蛾科小型蛾，体细、前翅具细密波状横线，夜行趋光，幼虫据载食落叶，见于杂木林与林缘。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "夏夜灯下寻找具细波状横线之细身小蛾；细波线为辨识点。"
+    }
+  },
+  "Hesione reticulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Polychaete worm",
+    "ja": {
+      "summary": "オトヒメゴカイ。潮間帯〜浅海の岩礁や礫の隙間、海藻の間にすむオトヒメゴカイ科の多毛類（ゴカイの仲間）。体は短めで、背に網目状の模様をもつ。石の下や転石帯で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、礫の隙間、海藻の間。",
+      "finding_tips": "潮だまりで石をめくり、背に網目模様のある短めの多毛類を探す。網目模様が手がかり。"
+    },
+    "en": {
+      "summary": "A polychaete worm (Hesione reticulata) of intertidal to shallow reefs, living among gravel crevices and algae; the fairly short body bears a net-like dorsal pattern. It is found under stones and in cobble.",
+      "habitat_hint": "Intertidal to shallow reefs, gravel crevices, among algae.",
+      "finding_tips": "In tide pools turn stones for a shortish worm with a net-like back pattern; the reticulation is the clue."
+    },
+    "zh": {
+      "summary": "オトヒメゴカイ。海女沙蚕科多毛类，栖潮间带至浅海岩礁、砾隙与海藻间，体较短、背具网纹，见于石下与砾石带。",
+      "habitat_hint": "潮间带至浅海岩礁、砾隙、海藻间。",
+      "finding_tips": "潮池翻石寻找背具网纹之较短多毛类；网纹为线索。"
+    }
+  },
+  "Heterostegane hyriaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "サザナミオビエダシャク。シャクガ科エダシャク亜科の小型の蛾で、淡黄色〜淡褐色の翅に細かな波状の帯（さざ波状の模様）が走る。夜行性で灯火に来て、幼虫は樹木の葉を食べる尺取り虫。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁。",
+      "finding_tips": "夏の夜、灯火で淡黄色にさざ波状の帯をもつ小さな蛾を探す。さざ波状の模様が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Heterostegane hyriaria), a small ennomine with pale yellow to buff wings crossed by fine ripple-like bands. Nocturnal and attracted to light, its larvae are leaf-feeding inchworms.",
+      "habitat_hint": "Lowland to low-mountain coppice and forest edges.",
+      "finding_tips": "On summer nights at lights look for a small pale-yellow moth with ripple-like bands; the fine wavy banding is diagnostic."
+    },
+    "zh": {
+      "summary": "サザナミオビエダシャク。尺蛾科尺蛾亚科小型蛾，翅淡黄至淡褐、具细波状带（如涟漪），夜行趋光，幼虫为食叶尺蠖。",
+      "habitat_hint": "低山至平地杂木林、林缘。",
+      "finding_tips": "夏夜灯下寻找淡黄具涟漪状带之小蛾；波状纹为辨识点。"
+    }
+  },
+  "Hibiscus schizopetalus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coral hibiscus",
+    "aliases": {
+      "zh-Hans": "吊灯扶桑"
+    },
+    "ja": {
+      "summary": "フウリンブッソウゲ。東アフリカ原産のアオイ科フヨウ属の常緑低木で、暖地で観賞用に栽培される。長い花柄の先に赤い花を下向きにつけ、花弁が深く細かく裂けて反り返り、雄しべの柱が長く垂れる。風鈴のように見えるのが名の由来。",
+      "habitat_hint": "暖地の庭園、公園、温室（沖縄などで露地栽培）。",
+      "finding_tips": "暖地の庭で、長い柄の先に下向きに咲く赤い花、細かく裂けて反り返る花弁を探す。垂れ下がる風鈴状の花が識別点。"
+    },
+    "en": {
+      "summary": "Coral hibiscus (Hibiscus schizopetalus), an East-African evergreen shrub grown ornamentally in warm regions; red flowers hang down on long stalks with deeply fringed, recurved petals and a long dangling staminal column, resembling a wind chime, which names it in Japanese.",
+      "habitat_hint": "Warm-region gardens, parks, glasshouses (grown outdoors in Okinawa etc.).",
+      "finding_tips": "In warm gardens look for red flowers dangling on long stalks with fringed recurved petals; the wind-chime-like hanging flower is diagnostic."
+    },
+    "zh": {
+      "summary": "フウリンブッソウゲ（吊灯扶桑）。锦葵科木槿属常绿灌木，原产东非、暖地供观赏，红花下垂于长花梗、花瓣深裂反卷、雄蕊柱长垂如风铃而得名。",
+      "habitat_hint": "暖地庭园、公园、温室（冲绳等露地栽培）。",
+      "finding_tips": "暖地庭园寻找长梗下垂、花瓣细裂反卷之红花；下垂风铃状花为辨识点。"
+    }
+  },
+  "Hirasa paupera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "クロスジハイイロエダシャク。シャクガ科エダシャク亜科の中型の蛾で、灰色の翅に黒っぽい筋（横線）が走る。夜行性で灯火に来て、幼虫は樹木の葉を食べる尺取り虫。山地の林でよく見られる。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "夏の夜、灯火で灰色に黒っぽい筋をもつ中型の蛾を探す。灰色地の黒い横線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Hirasa paupera), a medium ennomine with grey wings crossed by darker lines. Nocturnal and attracted to light, its larvae are leaf-feeding inchworms; it is common in montane woods.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On summer nights at lights look for a grey medium moth with dark cross-lines; the dark lines on grey are the clue."
+    },
+    "zh": {
+      "summary": "クロスジハイイロエダシャク。尺蛾科尺蛾亚科中型蛾，灰翅具暗色横线，夜行趋光，幼虫为食叶尺蠖，山地林常见。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "夏夜灯下寻找灰翅具暗横线之中型蛾；灰地暗线为辨识点。"
+    }
+  },
+  "Hohenbuehelia reniformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oyster-like mushroom",
+    "ja": {
+      "summary": "ヒメムキタケ。広葉樹の倒木や枯れ枝に生えるヒラタケ類（Hohenbuehelia属）のきのこ。傘は腎臓形〜半円形で短い柄またはほぼ無柄、ゼラチン質を含み表面がやや粘る。ムキタケを小さくしたような姿が名の由来。",
+      "habitat_hint": "広葉樹の倒木、枯れ枝、切り株。",
+      "finding_tips": "秋、倒木や枯れ枝で腎臓形のやや粘る小さなきのこが横向きに生えるのを探す。腎臓形の傘とほぼ無柄が手がかり。"
+    },
+    "en": {
+      "summary": "An oyster-like mushroom (Hohenbuehelia reniformis) growing on hardwood logs and dead branches; the kidney-shaped to semicircular cap is nearly stalkless, gelatinous and slightly sticky. It looks like a small version of the related Sarcomyxa.",
+      "habitat_hint": "Hardwood logs, dead branches, stumps.",
+      "finding_tips": "In autumn on logs and dead branches look for a small kidney-shaped slightly sticky bracket growing sideways; the reniform nearly stalkless cap is the clue."
+    },
+    "zh": {
+      "summary": "ヒメムキタケ。侧耳类（Hohenbuehelia属）真菌，生阔叶倒木与枯枝，盖肾形至半圆、近无柄、含胶质而略黏，如小型冻蘑而得名。",
+      "habitat_hint": "阔叶倒木、枯枝、树桩。",
+      "finding_tips": "秋于倒木枯枝寻找侧生之肾形略黏小菇；肾形近无柄盖为线索。"
+    }
   }
 }
