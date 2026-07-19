@@ -274850,5 +274850,533 @@
       "habitat_hint": "低山至平地杂木林、林缘。",
       "finding_tips": "夏夜灯下寻找黑褐具白点之小蛾；黑地白星为辨识点。"
     }
+  },
+  "Impatiens balfourii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Balfour's touch-me-not",
+    "ja": {
+      "summary": "ハナツリフネソウ。ヒマラヤ原産のツリフネソウ科の一年草で、ピンクと黄色の帽子のような花を夏〜秋に咲かせる。観賞用に栽培され、湿った場所で野生化することもある。熟した実に触れると種を弾き飛ばす。",
+      "habitat_hint": "湿った半日陰、庭、道端、河畔の逸出地。",
+      "finding_tips": "夏〜秋、湿った半日陰でピンクと黄色の帽子形の花と、触れると弾ける実を探す。二色の花が識別点。"
+    },
+    "en": {
+      "summary": "Balfour's touch-me-not (Impatiens balfourii), a Himalayan annual balsam bearing pink-and-yellow bonnet-like flowers in summer to autumn; grown as an ornamental, it can naturalise in damp places, and ripe capsules explode to fling their seeds.",
+      "habitat_hint": "Damp part-shade, gardens, roadsides, riverside escapes.",
+      "finding_tips": "In summer–autumn in damp part-shade look for pink-and-yellow bonnet flowers and explosive capsules; the two-tone flower is the clue."
+    },
+    "zh": {
+      "summary": "ハナツリフネソウ。凤仙花科一年生草，原产喜马拉雅，夏秋开粉黄相间似帽之花，供观赏、可于湿处逸生，熟果触之弹射种子。",
+      "habitat_hint": "湿润半阴、庭园、路旁、河畔逸生地。",
+      "finding_tips": "夏秋于湿润半阴寻找粉黄相间之帽形花与弹裂之果；双色花为辨识点。"
+    }
+  },
+  "Indigofera trifoliata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-leaf indigo",
+    "ja": {
+      "summary": "ナハエボシグサ。日当たりのよい草地や海岸に生えるマメ科コマツナギ属の小型の草本。三枚の小葉と淡紅色の小さな蝶形花をつけ、細長い豆果を結ぶ。南日本の暖地で見られる。",
+      "habitat_hint": "日当たりのよい草地、海岸、路傍、荒れ地。",
+      "finding_tips": "夏、暖地の草地で三枚の小葉と淡紅色の小さな豆の花をもつ小さな草を探す。三小葉が手がかり。"
+    },
+    "en": {
+      "summary": "A small indigo (Indigofera trifoliata), a legume of sunny grassland and coasts with three leaflets, small pinkish pea-flowers and slender pods; it occurs in warm parts of southern Japan.",
+      "habitat_hint": "Sunny grassland, coasts, roadsides, waste ground.",
+      "finding_tips": "In summer in warm grassland look for a small plant with three leaflets and small pinkish pea-flowers; the trifoliate leaf is the clue."
+    },
+    "zh": {
+      "summary": "ナハエボシグサ。豆科木蓝属小型草本，生向阳草地与海岸，具三小叶与淡红小蝶形花、结细长荚，见于南日本暖地。",
+      "habitat_hint": "向阳草地、海岸、路旁、荒地。",
+      "finding_tips": "夏于暖地草地寻找具三小叶与淡红小豆花之小草；三小叶为线索。"
+    }
+  },
+  "Inocybe asterospora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star-spored fibrecap",
+    "ja": {
+      "summary": "カブラアセタケ。林内の地上に生えるアセタケ科のきのこで、傘は褐色で繊維状、柄の基部が球根（かぶら）状に膨らむのが名の由来。胞子が星形をしている。有毒で、樹木と菌根を作る。",
+      "habitat_hint": "広葉樹林・針葉樹林の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、林内で褐色繊維状の傘と球根状に膨らむ柄のきのこを探す。膨らんだ柄の基部が識別点。"
+    },
+    "en": {
+      "summary": "Star-spored fibrecap (Inocybe asterospora), a woodland mushroom with a brown fibrous cap and a bulbous stem base (naming it in Japanese); its spores are star-shaped. It is poisonous and mycorrhizal with trees.",
+      "habitat_hint": "On the ground in broadleaf and conifer woods, mycorrhizal with trees.",
+      "finding_tips": "In summer–autumn in woods look for a brown fibrous-capped mushroom with a bulbous stem base; the swollen base is the clue."
+    },
+    "zh": {
+      "summary": "カブラアセタケ。丝盖伞科真菌，生林地，盖褐而纤维状、柄基膨大呈球（蕪菁）状而得名，孢子星形，有毒，与树木共生菌根。",
+      "habitat_hint": "阔叶林、针叶林地上，与树木共生处。",
+      "finding_tips": "夏秋于林中寻找褐色纤维盖、柄基球状膨大之菇；膨大柄基为辨识点。"
+    }
+  },
+  "Inocybe kobayasii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fibrecap",
+    "ja": {
+      "summary": "コバヤシアセタケ。林内の地上に生えるアセタケ科の小型のきのこ。傘は淡褐色で繊維状に裂け、柄は細い。樹木と菌根を作り、アセタケ類の多くと同様に有毒とされる。",
+      "habitat_hint": "広葉樹林・針葉樹林の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、林内で淡褐色に繊維状に裂ける傘の小さなきのこを探す。繊維状の傘が識別点。"
+    },
+    "en": {
+      "summary": "A fibrecap (Inocybe kobayasii), a small woodland mushroom with a pale-brown cap that splits into fibres and a slender stem; mycorrhizal with trees and, like most fibrecaps, regarded as poisonous.",
+      "habitat_hint": "On the ground in broadleaf and conifer woods, mycorrhizal with trees.",
+      "finding_tips": "In summer–autumn in woods look for a small pale-brown mushroom with a fibrous splitting cap; the fibrous cap is the clue."
+    },
+    "zh": {
+      "summary": "コバヤシアセタケ。丝盖伞科小型真菌，生林地，盖淡褐纤维状开裂、柄细，与树木共生菌根，如多数丝盖伞被视为有毒。",
+      "habitat_hint": "阔叶林、针叶林地上，与树木共生处。",
+      "finding_tips": "夏秋于林中寻找盖淡褐纤维状开裂之小菇；纤维状盖为辨识点。"
+    }
+  },
+  "Inversiunio reinianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Freshwater mussel",
+    "ja": {
+      "summary": "セタイシガイ。河川や用水路の砂泥底にすむイシガイ科の淡水二枚貝。殻はやや細長く厚みがあり、砂泥に潜って生活する。幼生（グロキディウム）は魚のえらやひれに一時的に寄生して分散する。",
+      "habitat_hint": "河川・用水路の砂泥底、流れの緩やかな水底。",
+      "finding_tips": "流れの緩やかな川底の砂泥で、やや細長い厚みのある二枚貝を探す。砂泥に潜る殻が手がかり。"
+    },
+    "en": {
+      "summary": "A freshwater mussel (Inversiunio reinianus) of sandy-muddy river and channel beds; the shell is somewhat elongate and thick and it burrows in the substrate. Its larvae (glochidia) briefly parasitise the gills and fins of fish to disperse.",
+      "habitat_hint": "Sandy-muddy beds of rivers and channels, slow-flowing bottoms.",
+      "finding_tips": "In slow river bottoms look for a somewhat elongate thick bivalve buried in sand-mud; the burrowing shell is the clue."
+    },
+    "zh": {
+      "summary": "セタイシガイ。蚌科淡水二枚贝，栖河川与水渠砂泥底，壳略长而厚、潜于底质，幼体（钩介幼虫）短暂寄生鱼鳃鳍以扩散。",
+      "habitat_hint": "河川、水渠砂泥底、缓流水底。",
+      "finding_tips": "缓流河底砂泥中寻找略长而厚之二枚贝；潜底之壳为线索。"
+    }
+  },
+  "Ipomoea tricolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Morning glory",
+    "ja": {
+      "summary": "アメリカソライロアサガオ。中南米原産のヒルガオ科のつる性植物で、鮮やかな空色（青紫）の大きな漏斗形の花を朝に開く。観賞用に栽培され、フェンスや生垣に絡んで広がる。「ヘブンリーブルー」の名で親しまれる。",
+      "habitat_hint": "庭、フェンス、生垣、日当たりのよい逸出地。",
+      "finding_tips": "夏〜秋の朝、フェンスに絡んで鮮やかな空色の漏斗形の花を探す。空色の大きな花が識別点。"
+    },
+    "en": {
+      "summary": "Morning glory (Ipomoea tricolor), a Central/South American twining bindweed opening large sky-blue funnel flowers in the morning; grown as an ornamental (the 'Heavenly Blue' cultivar), it scrambles over fences and hedges.",
+      "habitat_hint": "Gardens, fences, hedges, sunny escapes.",
+      "finding_tips": "On summer mornings look for large sky-blue funnel flowers twining over fences; the sky-blue flower is the clue."
+    },
+    "zh": {
+      "summary": "アメリカソライロアサガオ。旋花科缠绕植物，原产中南美，晨开鲜天蓝（青紫）大漏斗花，供观赏、攀篱与绿篱，以「天蓝」（Heavenly Blue）著称。",
+      "habitat_hint": "庭园、篱笆、绿篱、向阳逸生地。",
+      "finding_tips": "夏秋清晨于篱笆寻找缠绕之鲜天蓝漏斗花；天蓝大花为辨识点。"
+    }
+  },
+  "Iris sibirica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siberian iris",
+    "ja": {
+      "summary": "シベリアンアイリス。ユーラシア原産のアヤメ科の多年草で、細い剣状の葉と紫青色の花を初夏に咲かせる。湿った草地や水辺を好み、丈夫で観賞用に広く栽培される。園芸品種が多い。",
+      "habitat_hint": "湿った草地、水辺、庭、日当たり〜半日陰。",
+      "finding_tips": "初夏、水辺や庭で細い剣状の葉と紫青色の花をもつアヤメの仲間を探す。細葉と紫青の花が手がかり。"
+    },
+    "en": {
+      "summary": "Siberian iris (Iris sibirica), a Eurasian perennial iris with narrow sword-shaped leaves and violet-blue flowers in early summer; it favours damp grassland and watersides and is a hardy, widely grown ornamental with many cultivars.",
+      "habitat_hint": "Damp grassland, waterside, gardens, sun to part-shade.",
+      "finding_tips": "In early summer at watersides or in gardens look for an iris with narrow leaves and violet-blue flowers; the slim leaves and blue flower are the clues."
+    },
+    "zh": {
+      "summary": "シベリアンアイリス。鸢尾科多年生草，原产欧亚，具细剑形叶，初夏开紫蓝花，喜湿草地与水边，强健、广栽观赏、品种繁多。",
+      "habitat_hint": "湿草地、水边、庭园、向阳至半阴。",
+      "finding_tips": "初夏于水边或庭园寻找细剑叶、紫蓝花之鸢尾；细叶紫蓝花为线索。"
+    }
+  },
+  "Ishige okamurae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown alga",
+    "ja": {
+      "summary": "イシゲ。潮間帯の岩上に生える褐藻の一種で、円柱状で二又に分枝する紐（ひも）のような体をもつ。春〜夏に茂り、乾くと黒く縮れる。岩礁の潮だまり周辺でふつうに見られる。",
+      "habitat_hint": "潮間帯の岩上、岩礁、潮だまりの縁。",
+      "finding_tips": "春〜夏、潮間帯の岩で円柱状に二又分枝する紐状の褐藻を探す。二又に分かれる円柱状の体が識別点。"
+    },
+    "en": {
+      "summary": "A brown alga (Ishige okamurae) growing on intertidal rock; the body is cylindrical and repeatedly forks like cords, thriving in spring–summer and shrivelling black when dry. It is common around rocky tide pools.",
+      "habitat_hint": "Intertidal rock, rocky shores, tide-pool margins.",
+      "finding_tips": "In spring–summer on intertidal rock look for a cord-like cylindrical alga that repeatedly forks; the forking cylinders are the clue."
+    },
+    "zh": {
+      "summary": "イシゲ。褐藻之一，生潮间带岩上，体圆柱状、二叉分枝如绳，春夏繁茂、干则黑缩，岩礁潮池周边常见。",
+      "habitat_hint": "潮间带岩上、岩礁、潮池边缘。",
+      "finding_tips": "春夏于潮间带岩上寻找圆柱状二叉分枝之绳状褐藻；二叉圆柱体为辨识点。"
+    }
+  },
+  "Ishige sinicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown alga",
+    "ja": {
+      "summary": "イロロ。潮間帯の岩上に生える褐藻で、イシゲに近縁だが体が扁平で葉状に広がり二又に分かれる。春〜夏に茂り、食用にされる地方もある。岩礁の潮間帯でふつうに見られる。",
+      "habitat_hint": "潮間帯の岩上、岩礁、潮だまりの縁。",
+      "finding_tips": "春〜夏、潮間帯の岩で扁平に広がり二又に分かれる葉状の褐藻を探す。扁平で二又の体が識別点。"
+    },
+    "en": {
+      "summary": "A brown alga (Ishige sinicola) of intertidal rock, close to Ishige okamurae but with a flattened, leaf-like forking body; it thrives in spring–summer and is eaten in some regions. It is common on rocky intertidal shores.",
+      "habitat_hint": "Intertidal rock, rocky shores, tide-pool margins.",
+      "finding_tips": "In spring–summer on intertidal rock look for a flattened leaf-like alga that forks in two; the flat forking body is the clue."
+    },
+    "zh": {
+      "summary": "イロロ。褐藻，生潮间带岩上，近イシゲ而体扁平叶状、二叉分枝，春夏繁茂、部分地区食用，岩礁潮间带常见。",
+      "habitat_hint": "潮间带岩上、岩礁、潮池边缘。",
+      "finding_tips": "春夏于潮间带岩上寻找扁平叶状二叉分枝之褐藻；扁平二叉体为辨识点。"
+    }
+  },
+  "Isomonia umbonata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bivalve",
+    "ja": {
+      "summary": "シマナミマガシワモドキ。岩や他の貝に付着して生活するマガシワ類に似た二枚貝で、殻は薄く不規則な形をとり、付着面に合わせて歪む。潮間帯〜浅い海の岩礁で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、他の貝殻や硬い基質の表面。",
+      "finding_tips": "岩や貝殻の表面で、薄く不規則に歪んだ形の付着性二枚貝を探す。基質に合わせて歪む薄い殻が手がかり。"
+    },
+    "en": {
+      "summary": "A bivalve (Isomonia umbonata) that lives cemented to rock and other shells; the thin shell takes an irregular shape warped to fit its attachment surface. It occurs on intertidal to shallow-water rocky reefs.",
+      "habitat_hint": "Intertidal to shallow rocky reefs, on shells and hard substrate.",
+      "finding_tips": "On rock or shell surfaces look for a thin irregularly-warped attached bivalve; the substrate-fitted thin shell is the clue."
+    },
+    "zh": {
+      "summary": "シマナミマガシワモドキ。附着性二枚贝，固着于岩石与他贝，壳薄、形不规则、随附着面而扭曲，见于潮间带至浅海岩礁。",
+      "habitat_hint": "潮间带至浅海岩礁、他贝壳与硬基质表面。",
+      "finding_tips": "岩石或贝壳表面寻找薄而不规则扭曲之附着二枚贝；随基质扭曲之薄壳为线索。"
+    }
+  },
+  "Isotrema tanzawanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dutchman's pipe",
+    "ja": {
+      "summary": "タンザワウマノスズクサ。丹沢周辺の山地に分布するウマノスズクサ科のつる性植物で、サックス（管楽器）のように曲がった暗紫色の花をつける。ジャコウアゲハの幼虫の食草になる。林縁ややぶで見られる。",
+      "habitat_hint": "山地の林縁、やぶ、崩壊地、他の植物に絡む。",
+      "finding_tips": "初夏、山地の林縁で管楽器のように曲がった暗紫色の花とつるを探す。曲がった筒状の花が識別点。"
+    },
+    "en": {
+      "summary": "A Dutchman's pipe (Isotrema tanzawanum), a climbing birthwort of montane areas around Tanzawa bearing dark-purple flowers curved like a saxophone; it is a larval foodplant of the Chinese windmill butterfly, occurring at forest edges and thickets.",
+      "habitat_hint": "Montane forest edges, thickets, disturbed slopes, climbing on other plants.",
+      "finding_tips": "In early summer at montane edges look for a vine with dark-purple pipe-curved flowers; the bent tubular flower is the clue."
+    },
+    "zh": {
+      "summary": "タンザワウマノスズクサ。马兜铃科缠绕植物，分布丹泽周边山地，花暗紫、弯曲如萨克斯管，为麝凤蝶幼虫食草，见于林缘与灌丛。",
+      "habitat_hint": "山地林缘、灌丛、崩塌地，攀于他植物。",
+      "finding_tips": "初夏于山地林缘寻找具暗紫弯管花之藤；弯曲管状花为辨识点。"
+    }
+  },
+  "Ittibittium parcum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "オオシマチグサカニモリ。潮間帯〜浅い海の砂底や藻場にすむカニモリガイ科の微小な巻貝。細長い塔形の殻に細かい彫刻をもち、海藻や砂の上を這って有機物を食べる。多数が集まって見られることが多い。",
+      "habitat_hint": "潮間帯〜浅海の砂底、藻場、海藻の表面。",
+      "finding_tips": "潮間帯の砂底や海藻で、細長い塔形の微小な巻貝を探す。塔形の小さな殻が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny cerith snail (Ittibittium parcum) of intertidal to shallow sandy bottoms and seaweed beds; the slender tower-shaped shell is finely sculptured and it grazes organic matter over weed and sand, often occurring in numbers.",
+      "habitat_hint": "Intertidal to shallow sandy bottoms, weed beds, on seaweed.",
+      "finding_tips": "On intertidal sand or seaweed look for a tiny slender tower-shaped snail; the small tower shell is the clue."
+    },
+    "zh": {
+      "summary": "オオシマチグサカニモリ。蟹守螺科微小巻贝，栖潮间带至浅海砂底与藻场，壳细长塔形具细雕刻，于海藻与砂上刮食有机物，常成群。",
+      "habitat_hint": "潮间带至浅海砂底、藻场、海藻表面。",
+      "finding_tips": "潮间带砂底或海藻上寻找细长塔形之微小巻贝；塔形小壳为线索。"
+    }
+  },
+  "Ixeris tamagawaensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "River gravel lettuce",
+    "ja": {
+      "summary": "カワラニガナ。河原の砂礫地に生えるキク科の多年草で、細い茎の先に黄色い小さな頭花を咲かせる。乾いた河原に適応した植物で、河川改修などで数を減らしている。ニガナの仲間で、茎を切ると白い乳液を出す。",
+      "habitat_hint": "河原の砂礫地、乾いた河川敷、日当たりのよい荒れ地。",
+      "finding_tips": "初夏〜夏、河原の砂礫地で細い茎に黄色い小さな花をつける草を探す。乾いた河原という環境が手がかり。"
+    },
+    "en": {
+      "summary": "A river-gravel lettuce (Ixeris tamagawaensis), a daisy-family perennial of gravelly riverbeds bearing small yellow flower-heads on slender stems; adapted to dry riverbeds, it has declined with river engineering and, like its relatives, exudes white latex when cut.",
+      "habitat_hint": "Gravelly riverbeds, dry floodplains, sunny open ground.",
+      "finding_tips": "In early summer on gravelly riverbeds look for slender stems with small yellow flower-heads; the dry riverbed habitat is the clue."
+    },
+    "zh": {
+      "summary": "カワラニガナ。菊科多年生草，生河原砂砾地，细茎顶生黄色小头花，适应干燥河床、因河川整治而减少，如同属折断流白色乳汁。",
+      "habitat_hint": "河原砂砾地、干燥河滩、向阳荒地。",
+      "finding_tips": "初夏于河原砂砾地寻找细茎具黄色小花之草；干燥河床之境为线索。"
+    }
+  },
+  "Jankowskia pseudathleta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "キタウンモンエダシャク。シャクガ科エダシャク亜科の中型の蛾で、灰白色の翅に雲紋（うんもん）状の細かい模様をもち、樹皮に止まると見分けにくい保護色になる。夜行性で灯火に来る。山地の落葉樹林で見られる。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "春〜夏の夜、山地の灯火で灰白色に雲紋模様をもつ中型の蛾を探す。樹皮に紛れる雲紋が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Jankowskia pseudathleta), a medium ennomine with greyish-white wings finely patterned like clouds, camouflaged against bark; nocturnal and attracted to light, it occurs in montane deciduous forest.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On spring–summer nights at upland lights look for a medium greyish moth with a cloud-like pattern; the bark-blending mottling is the clue."
+    },
+    "zh": {
+      "summary": "キタウンモンエダシャク。尺蛾科尺蛾亚科中型蛾，翅灰白具云纹细斑、拟树皮为保护色，夜行趋光，见于山地落叶林。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "春夏夜于山地灯下寻找灰白具云纹之中型蛾；拟树皮之云纹为辨识点。"
+    }
+  },
+  "Janthina janthina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Violet sea snail",
+    "ja": {
+      "summary": "アサガオガイ。外洋の海面に浮かんで漂う紫色の巻貝で、自ら泡でつくった浮き（いかだ）にぶら下がって暮らす。クラゲの仲間（カツオノエボシなど）を食べる。時化のあと砂浜に打ち上げられる。",
+      "habitat_hint": "外洋の海面、漂流生活、時化後の砂浜への漂着。",
+      "finding_tips": "時化のあとの砂浜で、紫色の丸みのある薄い巻貝や泡のいかだを探す。鮮やかな紫色の殻が識別点。"
+    },
+    "en": {
+      "summary": "The violet sea snail (Janthina janthina), a purple snail that floats at the open-ocean surface hanging from a raft of bubbles it makes itself; it feeds on siphonophores such as the Portuguese man o' war and washes ashore after storms.",
+      "habitat_hint": "Open-ocean surface, drifting; stranded on beaches after storms.",
+      "finding_tips": "On beaches after storms look for a rounded thin purple snail or its bubble raft; the vivid purple shell is the clue."
+    },
+    "zh": {
+      "summary": "アサガオガイ。紫色巻贝，浮于外洋海面，悬于自制之气泡筏而漂流，食僧帽水母等，风暴后冲上沙滩。",
+      "habitat_hint": "外洋海面、漂流生活、风暴后漂上沙滩。",
+      "finding_tips": "风暴后于沙滩寻找圆而薄之紫色巻贝或气泡筏；鲜紫壳为辨识点。"
+    }
+  },
+  "Janthina umbilicata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Violet sea snail",
+    "ja": {
+      "summary": "ヒメルリガイ。アサガオガイに近縁で、外洋の海面に泡のいかだで浮かぶ小型の紫色の巻貝。殻はより球形で臍（へそ）が開く。クラゲの仲間を食べ、時化のあと砂浜に打ち上げられる。",
+      "habitat_hint": "外洋の海面、漂流生活、時化後の砂浜への漂着。",
+      "finding_tips": "時化のあとの砂浜で、小さく球形の紫色の巻貝を探す。臍の開いた球形の紫色の殻が識別点。"
+    },
+    "en": {
+      "summary": "A violet sea snail (Janthina umbilicata), close to J. janthina, a small purple snail floating on a bubble raft at the open-ocean surface; its shell is more globular with an open umbilicus. It eats siphonophores and strands on beaches after storms.",
+      "habitat_hint": "Open-ocean surface, drifting; stranded on beaches after storms.",
+      "finding_tips": "On beaches after storms look for a small globular purple snail; the rounded shell with an open umbilicus is the clue."
+    },
+    "zh": {
+      "summary": "ヒメルリガイ。近アサガオガイ之小型紫色巻贝，浮于外洋海面之气泡筏，壳较球形、脐孔开，食水母类，风暴后冲上沙滩。",
+      "habitat_hint": "外洋海面、漂流生活、风暴后漂上沙滩。",
+      "finding_tips": "风暴后于沙滩寻找小而球形之紫色巻贝；脐孔开之球形紫壳为辨识点。"
+    }
+  },
+  "Jatropha integerrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spicy jatropha",
+    "ja": {
+      "summary": "テイキンザクラ。西インド諸島原産のトウダイグサ科の低木で、一年中サクラに似た鮮やかな紅色の花を咲かせる。暖地や温室で観賞用に栽培される。全体に有毒で、白い乳液を出す。",
+      "habitat_hint": "暖地の庭、公園、温室、鉢植え。",
+      "finding_tips": "暖地の庭で一年中咲くサクラに似た紅色の五弁花を探す。サクラ形の赤い花が識別点。"
+    },
+    "en": {
+      "summary": "Spicy jatropha (Jatropha integerrima), a West Indian spurge-family shrub bearing vivid red cherry-like flowers almost year-round; grown as an ornamental in warm regions and greenhouses, it is poisonous throughout and exudes white latex.",
+      "habitat_hint": "Warm-region gardens, parks, greenhouses, pots.",
+      "finding_tips": "In warm gardens look for vivid red five-petalled cherry-like flowers blooming year-round; the cherry-shaped red flower is the clue."
+    },
+    "zh": {
+      "summary": "テイキンザクラ。大戟科灌木，原产西印度群岛，几全年开似樱之鲜红花，暖地与温室观赏栽培，全株有毒、流白色乳汁。",
+      "habitat_hint": "暖地庭园、公园、温室、盆栽。",
+      "finding_tips": "暖地庭园寻找全年开放之鲜红五瓣似樱花；樱形红花为辨识点。"
+    }
+  },
+  "Java nigrita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Semi-slug",
+    "ja": {
+      "summary": "シランオオベッコウ。湿った林床の落ち葉や朽ち木の下にすむベッコウマイマイ類の陸貝で、殻が体を覆いきれない半なめくじ（半殻）状になる。夜や雨の後に活動し、菌類や腐植を食べる。",
+      "habitat_hint": "湿った林床、落ち葉の下、朽ち木、石の下。",
+      "finding_tips": "雨の後や夜、湿った林床の落ち葉の下で、小さな殻を背負った半なめくじ状の陸貝を探す。覆いきれない殻が手がかり。"
+    },
+    "en": {
+      "summary": "A semi-slug (Java nigrita), a land mollusc of damp forest-floor leaf litter and rotten wood whose shell is too small to cover the body; it is active at night and after rain, feeding on fungi and decaying matter.",
+      "habitat_hint": "Damp forest floor, under leaf litter, rotten wood, stones.",
+      "finding_tips": "After rain or at night in damp litter look for a slug-like mollusc carrying a small shell; the body-covering-failed shell is the clue."
+    },
+    "zh": {
+      "summary": "シランオオベッコウ。陆生软体动物（半蛞蝓），栖湿润林床落叶与朽木下，壳小不能覆体，夜与雨后活动，食菌类与腐殖。",
+      "habitat_hint": "湿润林床、落叶下、朽木、石下。",
+      "finding_tips": "雨后或夜于湿润落叶下寻找背负小壳之蛞蝓状陆贝；不能覆体之壳为线索。"
+    }
+  },
+  "Jodis lactearia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Little emerald moth",
+    "ja": {
+      "summary": "ナミガタウスキアオシャク。シャクガ科アオシャク亜科の小型の蛾で、淡い青緑色の翅に波形の白い横線が走る。夜行性で灯火に来て、幼虫は広葉樹の葉を食べる。緑色はやがて色あせて白っぽくなる。",
+      "habitat_hint": "低山地〜平地の落葉樹林、雑木林、林縁。",
+      "finding_tips": "初夏の夜、灯火で淡い青緑色に波形の白線をもつ小さな蛾を探す。淡緑色に波状の横線が識別点。"
+    },
+    "en": {
+      "summary": "A little emerald moth (Jodis lactearia), a small geometrid with pale blue-green wings crossed by wavy white lines; nocturnal and attracted to light, its larvae feed on broadleaf trees and the green fades to whitish with age.",
+      "habitat_hint": "Lowland to low-mountain deciduous and coppice forest, edges.",
+      "finding_tips": "On early-summer nights at lights look for a small pale blue-green moth with wavy white lines; the pale green with wavy lines is the clue."
+    },
+    "zh": {
+      "summary": "ナミガタウスキアオシャク。尺蛾科青尺蛾亚科小型蛾，翅淡青绿具波形白横线，夜行趋光，幼虫食阔叶树叶，绿色渐褪为白。",
+      "habitat_hint": "低山至平地落叶林、杂木林、林缘。",
+      "finding_tips": "初夏夜于灯下寻找淡青绿具波白线之小蛾；淡绿波横线为辨识点。"
+    }
+  },
+  "Juncus polyanthemus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rush",
+    "ja": {
+      "summary": "コゴメイ。水辺や湿地に生えるイグサ科の多年草で、細い円柱形の茎が群がって立つ。イ（イグサ）に似るが茎の内部の構造で区別される。近年、日本各地で野生化が確認されている。花は茎の側面に小さくつく。",
+      "habitat_hint": "水辺、湿地、休耕田、溝、湿った草地。",
+      "finding_tips": "水辺で細い円柱形の茎が群がって立ち、茎の側面に小さな花をつける草を探す。束生する細い茎が手がかり。"
+    },
+    "en": {
+      "summary": "A rush (Juncus polyanthemus), a rush-family perennial of watersides and wetlands with slender cylindrical stems in tufts; similar to soft rush but distinguished by internal stem structure, and now naturalising across Japan. The flowers sit small on the side of the stem.",
+      "habitat_hint": "Watersides, wetlands, fallow paddies, ditches, damp grassland.",
+      "finding_tips": "At watersides look for tufts of slender cylindrical stems with small flowers on the stem side; the tufted round stems are the clue."
+    },
+    "zh": {
+      "summary": "コゴメイ。灯心草科多年生草，生水边与湿地，细圆柱茎丛生，似灯心草而以茎内部结构区分，近年在日本各地逸生，花小生于茎侧。",
+      "habitat_hint": "水边、湿地、休耕田、水沟、湿草地。",
+      "finding_tips": "水边寻找细圆柱茎丛生、茎侧生小花之草；丛生细茎为线索。"
+    }
+  },
+  "Juniperus communis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common juniper",
+    "ja": {
+      "summary": "ミヤマネズ。高山や寒冷地に生えるヒノキ科の常緑針葉樹で、針のように鋭くとがった三輪生の葉をもつ。雌株は青黒く熟す球果（ジュニパーベリー）をつける。世界に広く分布し、匍匐状〜低木状になる。",
+      "habitat_hint": "高山の岩場、寒冷地の尾根、日当たりのよい斜面。",
+      "finding_tips": "高山の岩場で、針状に鋭くとがった三輪生の葉をもつ這うような針葉樹を探す。鋭い三輪生の葉が識別点。"
+    },
+    "en": {
+      "summary": "Common juniper (Juniperus communis), an evergreen conifer of alpine and cold regions with sharp needle-like leaves in whorls of three; female plants bear blue-black ripe cones (juniper berries). Widely distributed worldwide, it grows prostrate to shrubby.",
+      "habitat_hint": "Alpine rocks, cold-region ridges, sunny slopes.",
+      "finding_tips": "On alpine rocks look for a low creeping conifer with sharp needle leaves in threes; the sharp whorled needles are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマネズ。柏科常绿针叶树，生高山与寒地，叶针状锐尖、三枚轮生，雌株结蓝黑成熟球果（杜松子），世界广布，匍匐至灌木状。",
+      "habitat_hint": "高山岩场、寒地山脊、向阳坡。",
+      "finding_tips": "高山岩场寻找具锐尖三轮生针叶之匍匐针叶树；锐尖三轮叶为辨识点。"
+    }
+  },
+  "Karaftohelix blakeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "ホンブレイキマイマイ。北日本の林床にすむオナジマイマイ科の陸貝で、平たく巻いた褐色の殻をもつ。湿った落ち葉や朽ち木の周りで活動し、菌類や腐植を食べる。雨の後に活発になる。",
+      "habitat_hint": "湿った林床、落ち葉の下、朽ち木、石の下。",
+      "finding_tips": "雨の後、湿った林床で平たく巻いた褐色の殻をもつカタツムリを探す。平たい巻きの殻が手がかり。"
+    },
+    "en": {
+      "summary": "A land snail (Karaftohelix blakeana) of northern Japanese forest floors with a low-coiled brown shell; it is active around damp leaf litter and rotten wood, feeding on fungi and decaying matter, and becomes active after rain.",
+      "habitat_hint": "Damp forest floor, under leaf litter, rotten wood, stones.",
+      "finding_tips": "After rain on damp forest floor look for a snail with a low-coiled brown shell; the flattened coil is the clue."
+    },
+    "zh": {
+      "summary": "ホンブレイキマイマイ。巴蜗牛科陆贝，栖北日本林床，壳褐色低平旋绕，于湿润落叶与朽木周活动、食菌类与腐殖，雨后活跃。",
+      "habitat_hint": "湿润林床、落叶下、朽木、石下。",
+      "finding_tips": "雨后于湿润林床寻找壳褐色低平旋绕之蜗牛；扁平旋壳为线索。"
+    }
+  },
+  "Karteroiulus niger": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Millipede",
+    "ja": {
+      "summary": "クロヒメヤスデ。湿った林床の落ち葉や朽ち木の下にすむ小型のヤスデで、黒っぽい円筒形の体に多数の脚をもつ。落ち葉や腐植を食べて土づくりに役立つ。触れると丸くなり、独特の匂いを出すことがある。",
+      "habitat_hint": "湿った林床、落ち葉の下、朽ち木、石の下、土壌表層。",
+      "finding_tips": "湿った落ち葉や朽ち木の下で、黒っぽい円筒形で脚の多い小さなヤスデを探す。多数の脚と円筒形の体が識別点。"
+    },
+    "en": {
+      "summary": "A millipede (Karteroiulus niger), a small millipede of damp forest-floor litter and rotten wood with a blackish cylindrical body and many legs; it feeds on litter and humus, aiding soil formation, and may curl up and emit an odour when disturbed.",
+      "habitat_hint": "Damp forest floor, under leaf litter, rotten wood, stones, topsoil.",
+      "finding_tips": "Under damp litter or rotten wood look for a small blackish cylindrical many-legged millipede; the many legs and round body are the clues."
+    },
+    "zh": {
+      "summary": "クロヒメヤスデ。小型马陆，栖湿润林床落叶与朽木下，体黑而圆筒、足众多，食落叶腐殖、助成土，受扰蜷缩并或散异味。",
+      "habitat_hint": "湿润林床、落叶下、朽木、石下、表土。",
+      "finding_tips": "湿润落叶或朽木下寻找黑色圆筒多足之小马陆；众足圆筒体为辨识点。"
+    }
+  },
+  "Katha laevis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Footman moth",
+    "ja": {
+      "summary": "ツマキホソバ。ヒトリガ科コケガ亜科の小型の蛾で、細長い翅の先（褄）が黄色く、体は淡い灰色をしている。夜行性で灯火に来て、幼虫は樹皮や岩に生える地衣類を食べる。林縁や樹林で見られる。",
+      "habitat_hint": "低山地〜平地の樹林、林縁、地衣類の多い環境。",
+      "finding_tips": "夏の夜、灯火で細長い翅の先が黄色い淡灰色の小さな蛾を探す。翅の先の黄色が識別点。"
+    },
+    "en": {
+      "summary": "A footman moth (Katha laevis), a small lichen-moth (Arctiinae) with narrow wings tipped yellow and a pale-grey body; nocturnal and attracted to light, its larvae eat lichens on bark and rock. It occurs in woodland and edges.",
+      "habitat_hint": "Lowland to low-mountain woodland, edges, lichen-rich sites.",
+      "finding_tips": "On summer nights at lights look for a small pale-grey moth with narrow yellow-tipped wings; the yellow wingtips are the clue."
+    },
+    "zh": {
+      "summary": "ツマキホソバ。灯蛾科苔蛾亚科小型蛾，翅细长、翅端（褄）黄色、体淡灰，夜行趋光，幼虫食树皮与岩生地衣，见于树林与林缘。",
+      "habitat_hint": "低山至平地树林、林缘、多地衣之境。",
+      "finding_tips": "夏夜灯下寻找翅细长端黄之淡灰小蛾；翅端黄色为辨识点。"
+    }
   }
 }
