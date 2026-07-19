@@ -19,6 +19,7 @@ from curl_cffi import requests
 
 from parklife import db
 from parklife.licenses import parse_license
+from scripts.prune_caches import slim_payload
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
@@ -72,7 +73,7 @@ def fetch_photos(taxon_id: int, *, per_page: int = 40) -> tuple[dict | None, boo
     if r.status_code != 200:
         print(f"  taxon {taxon_id}: HTTP {r.status_code}", file=sys.stderr, flush=True)
         return None, True
-    data = r.json()
+    data = slim_payload(r.json())  # store only the photo-selection fields, not the full response
     cp.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
     return data, True
 
@@ -103,7 +104,7 @@ def fetch_broad_photos(taxon_id: int, *, per_page: int = 40) -> tuple[dict | Non
     if r.status_code != 200:
         print(f"  taxon {taxon_id}: broad HTTP {r.status_code}", file=sys.stderr, flush=True)
         return None, True
-    data = r.json()
+    data = slim_payload(r.json())  # store only the photo-selection fields, not the full response
     cp.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
     return data, True
 

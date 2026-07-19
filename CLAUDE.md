@@ -155,6 +155,20 @@ Source tiers, high→low confidence: `text:negative` · `text:restricted` · `te
 - All fetched HTML is cached under `data/raw/<prefecture>/<park-slug>/<sha>.html` and gitignored. Scrapers should re-parse the cache rather than re-fetching during development.
 - Be polite: 1 req/sec default, set a descriptive User-Agent, respect `robots.txt`. Many target sites are run by small municipal teams.
 - Japanese text is UTF-8 throughout. SQLite handles this natively; don't add encoding shims.
+- **Photo caches store only the fields consumed, not whole API responses.** The photo-selection scripts (`collect_species_photos.py`, `park_species_photo.py`) read ~8 fields per record, but the iNat/GBIF endpoints return 60+; caching the full payload once bloated `data/cache/inat_photos` to 21 GB (95× waste) and `data/cache/gbif` to 7.7 GB. Writers now slim on write via `scripts.prune_caches.slim_payload` / `slim_gbif` (the field whitelists live there — extend them if a reader needs a new field). Never re-introduce a raw-response cache. All photo URLs are already baked into `species_photo` / `park_species_photo`, so the caches are pure re-run artifacts.
+
+## Maintenance / disk hygiene
+
+`data/cache/` is regeneratable and gitignored but grows unbounded; reclaim it with:
+
+```bash
+.venv/bin/python -m scripts.prune_caches report                 # cache + backup sizes
+.venv/bin/python -m scripts.prune_caches slim-inat [--dry-run]  # shrink inat_photos in place (~95×), keeps re-runnable
+.venv/bin/python -m scripts.prune_caches slim-gbif [--dry-run]  # shrink gbif occurrence cache in place (~7×)
+.venv/bin/python -m scripts.prune_caches trim-backups --keep 1  # delete all but newest N DB backups (kept-file = last by filename, not date)
+```
+
+Slimming is idempotent (re-slimming a slim file is a no-op) and lossless for every field the pipeline reads.
 
 ## Operational notes
 

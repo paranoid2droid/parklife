@@ -150,6 +150,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-07-19 (Claude/Opus) — 🧹 disk cleanup: reclaimed ~30 G (256 G Mac hit 98%)
+- Root cause: photo caches stored **whole** API responses though readers use ~8 fields. `inat_photos` 21 G (95× waste), `gbif` 7.7 G. No image bytes ever downloaded — only URLs, already in `species_photo`/`park_species_photo`.
+- Wrote `scripts/prune_caches.py` (report / slim-inat / slim-gbif / trim-backups). Slimmed both caches in place (lossless for read fields, stays re-runnable): inat 21 G→0.4 G, gbif 7.7 G→0.7 G. Deleted 8 old DB backups (kept newest 1). **Project 34 G→4.3 G.**
+- Patched writers `collect_species_photos.py` + `gbif.py` to slim-on-write (can't regrow). Field whitelists in prune_caches (`slim_payload`/`slim_gbif`). Documented in CLAUDE.md "Maintenance / disk hygiene". Import + read smoke tests pass. **Uncommitted** (3 code files + CLAUDE.md).
+
 ### 2026-07-18 (Claude/Opus) — 🔎 state review + np59-bl (profile_count 11,408)
 - Profiled np59-bl (+24, np5 R→S: lichens/liverworts/mosses/sedges/scorpionfish/etc., through Scorpaenopsis neglecta). Sidecar committed. Next batch starts at Scutellaria shikokiana.
 - **Full state review (see Status top):** flagged (1) **165 unpushed commits** since 07-08 (all sidecar/handoff, backup-safe to push), (2) **live demo stale since 06-29** (grind output not deployed). merge/np≥10 both clean. Surfaced the strategic question (keep grinding ~7,350 long-tail spp vs pivot) to the user.

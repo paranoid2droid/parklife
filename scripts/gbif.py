@@ -24,6 +24,7 @@ from pathlib import Path
 from curl_cffi import requests
 
 from parklife import db
+from scripts.prune_caches import slim_gbif
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
@@ -158,8 +159,9 @@ def fetch_park(slug: str, prefecture: str, lat: float, lon: float) -> tuple[str,
     # Don't cache on failure — let the next run retry
     if failed and not all_results:
         return ("error", [])
-    # Partial success (some pages OK, then timeout) — cache what we have
-    cp.write_text(json.dumps(all_results, ensure_ascii=False), encoding="utf-8")
+    # Partial success (some pages OK, then timeout) — cache what we have.
+    # Store only the ingestion + photo-selection fields (see scripts.prune_caches).
+    cp.write_text(json.dumps(slim_gbif(all_results), ensure_ascii=False), encoding="utf-8")
     return ("network", all_results)
 
 
