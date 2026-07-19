@@ -272777,5 +272777,514 @@
       "habitat_hint": "草原、林缘、人居周边、可取泥之水边。",
       "finding_tips": "夏于花或泥处寻找腹细具柄、黄足之狩猎蜂；壶形泥巢亦为线索。"
     }
+  },
+  "Euphrasia matsumurae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Eyebright",
+    "ja": {
+      "summary": "ヒメコゴメグサ。日本の山地の草原などに生えるハマウツボ科コゴメグサ属の小さな半寄生の一年草。他の植物の根に寄生しつつ光合成もし、白地に紫の筋と黄斑をもつ小さな唇形の花をつける。",
+      "habitat_hint": "山地の日当たりのよい草原、草地、礫地。",
+      "finding_tips": "夏〜秋、山地の草原で白地に紫筋と黄斑をもつごく小さな唇形花の草を探す。小型で半寄生なのが手がかり。"
+    },
+    "en": {
+      "summary": "An eyebright (Euphrasia matsumurae), a small hemiparasitic annual of Japanese montane grasslands; it taps other plants' roots yet photosynthesises, and bears tiny two-lipped white flowers marked with purple veins and a yellow spot.",
+      "habitat_hint": "Sunny montane grassland, meadows, gravel.",
+      "finding_tips": "In summer–autumn on upland grassland look for a tiny plant with small white lipped flowers veined purple with a yellow blotch; its small hemiparasitic habit is the clue."
+    },
+    "zh": {
+      "summary": "ヒメコゴメグサ。列当科小米草属山地草原之小型半寄生一年生草，寄生他株根部兼自养，花小唇形、白地紫脉带黄斑。",
+      "habitat_hint": "山地向阳草原、草地、砾地。",
+      "finding_tips": "夏秋于山地草原寻找花白具紫脉黄斑之极小唇形花草；小型半寄生为线索。"
+    }
+  },
+  "Eupithecia addictata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pug moth",
+    "ja": {
+      "summary": "ミジンカバナミシャク。シャクガ科ナミシャク亜科のごく小型の蛾（ナミシャク＝pug moth類）。灰褐色の細い翅に細かな横線が走り、静止時は翅を平たく広げる。幼虫は花や若い果実を食べる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "春〜初夏、灯火で翅を平たく広げる灰褐色の極小の蛾を探す。小ささと細かな横線が手がかり。"
+    },
+    "en": {
+      "summary": "A pug moth (Eupithecia addictata), a very small geometrid of the Larentiinae with slender greyish-brown wings crossed by fine lines; it rests with wings held flat. Larvae feed on flowers and young fruit.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "In spring to early summer at lights look for a very small greyish moth resting with flat wings; the tiny size and fine cross-lines are the clue."
+    },
+    "zh": {
+      "summary": "ミジンカバナミシャク。尺蛾科灰尺蛾亚科极小型蛾（pug 类），翅灰褐、具细密横线，静止平展，幼虫食花与幼果。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "春至初夏灯下寻找平展翅之灰褐极小蛾；极小与细横线为线索。"
+    }
+  },
+  "Eupithecia daemionata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pug moth",
+    "ja": {
+      "summary": "ナカグロチビナミシャク。シャクガ科ナミシャク亜科の小型の蛾。灰色地の前翅の中央に黒っぽい部分をもつのが名の由来で、翅を平たく広げてとまる。幼虫は各種植物の花や実を食べる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、草地。",
+      "finding_tips": "春〜夏、灯火で前翅中央が黒っぽい灰色の小さな蛾を探す。中央の暗色部が識別点。"
+    },
+    "en": {
+      "summary": "A pug moth (Eupithecia daemionata), a small larentiine geometrid; the grey forewing has a darker central area giving the Japanese name, and it rests with wings held flat. Larvae feed on flowers and fruit of various plants.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, grassland.",
+      "finding_tips": "In spring–summer at lights look for a small grey moth with a darkened forewing centre; the dark middle is diagnostic."
+    },
+    "zh": {
+      "summary": "ナカグロチビナミシャク。尺蛾科灰尺蛾亚科小型蛾，灰翅中部具暗色区而得名，平展停息，幼虫食多种植物花果。",
+      "habitat_hint": "低山至平地杂木林、林缘、草地。",
+      "finding_tips": "春至夏灯下寻找前翅中部发暗之灰色小蛾；中部暗区为辨识点。"
+    }
+  },
+  "Euspira pila": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moon snail",
+    "ja": {
+      "summary": "タマツメタ。タマガイ科の肉食性の巻貝で、球形に近い光沢のある殻をもつ。砂底を這い、二枚貝の殻に円い穴をあけて中身を食べる。潮間帯〜浅海の砂底に生息する。",
+      "habitat_hint": "潮間帯〜浅海の砂底、干潟。",
+      "finding_tips": "砂浜や干潟で球形の光沢ある巻貝、または二枚貝に円い穴があいた殻を探す。丸い穿孔が捕食の痕。"
+    },
+    "en": {
+      "summary": "A moon snail (Euspira pila), a predatory naticid with a nearly globular glossy shell. It ploughs through sand and drills a neat round hole in bivalve shells to eat the flesh, living on intertidal to shallow sand.",
+      "habitat_hint": "Intertidal to shallow sand bottoms and tidal flats.",
+      "finding_tips": "On sandy flats look for a glossy globular snail, or bivalve shells with a round bored hole; the neat drill-hole is the predation sign."
+    },
+    "zh": {
+      "summary": "タマツメタ。玉螺科肉食性螺，壳近球形有光泽，行于砂底、于双壳贝壳钻圆孔食其肉，栖潮间带至浅海砂底。",
+      "habitat_hint": "潮间带至浅海砂底、滩涂。",
+      "finding_tips": "砂滩寻找球形光泽螺，或具圆钻孔之双壳贝壳；圆孔为捕食痕。"
+    }
+  },
+  "Eustroma aerosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ミヤマアミメナミシャク。シャクガ科ナミシャク亜科の中型の蛾。緑がかった地に細かな網目状の模様をもち、山地の林で見られる。夜行性で灯火に来る。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "初夏〜夏の夜、山地の灯火で緑がかった網目模様の蛾を探す。網目状の細かな線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Eustroma aerosa), a medium larentiine with a greenish ground crossed by a fine net-like pattern, found in montane woodland; nocturnal and attracted to light.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On early-summer nights at upland lights look for a greenish moth with a fine reticulate pattern; the net-like lines are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマアミメナミシャク。尺蛾科灰尺蛾亚科中型蛾，翅带绿具细网纹，见于山地林，夜行趋光。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "初夏至夏夜于山地灯下寻找带绿网纹之蛾；网状细线为辨识点。"
+    }
+  },
+  "Eustroma reticulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Netted carpet moth",
+    "ja": {
+      "summary": "アミメナミシャク。シャクガ科ナミシャク亜科の中型の蛾で、白っぽい地に細かな網目模様が全面に広がる。幼虫はツリフネソウ類などを食べ、夜行性で灯火に来る。",
+      "habitat_hint": "山地〜低山地の湿った林縁、渓流沿い。",
+      "finding_tips": "夏の夜、灯火で白地に網目模様が広がる蛾を探す。全面の細かな網目が識別点。"
+    },
+    "en": {
+      "summary": "Netted carpet moth (Eustroma reticulata), a medium larentiine with a whitish ground overspread by a fine net-like pattern; larvae feed on touch-me-nots (Impatiens). It is nocturnal and comes to light.",
+      "habitat_hint": "Montane to low-mountain damp forest edges and streamsides.",
+      "finding_tips": "On summer nights at lights look for a whitish moth covered in a fine net pattern; the all-over reticulation is diagnostic."
+    },
+    "zh": {
+      "summary": "アミメナミシャク。尺蛾科灰尺蛾亚科中型蛾，白地满布细网纹，幼虫食凤仙花类，夜行趋光。",
+      "habitat_hint": "山地至低山湿润林缘、溪流沿岸。",
+      "finding_tips": "夏夜灯下寻找白地满布网纹之蛾；全面网纹为辨识点。"
+    }
+  },
+  "Evergestis extimalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cabbage web moth",
+    "ja": {
+      "summary": "ウスベニニセノメイガ。ツトガ科ノメイガ類の小型の蛾で、前翅は淡い黄褐色〜薄紅色を帯びる。幼虫はアブラナ科植物を食べ、畑地でも見られる。夜行性で灯火に飛来する。",
+      "habitat_hint": "草地、畑地、河原、荒地。",
+      "finding_tips": "初夏〜夏の夜、灯火で淡い黄褐〜薄紅色の小さなノメイガを探す。柔らかな色調が手がかり。"
+    },
+    "en": {
+      "summary": "A cabbage web moth (Evergestis extimalis), a small crambid with pale yellowish-brown to faintly pink forewings; larvae feed on brassicas and it occurs in cultivated ground. It is nocturnal and comes to light.",
+      "habitat_hint": "Grassland, cultivated fields, riverbanks, waste ground.",
+      "finding_tips": "On early-summer nights at lights look for a small pale yellow-brown to pinkish moth; the soft colour is the clue."
+    },
+    "zh": {
+      "summary": "ウスベニニセノメイガ。草螟科小型蛾，前翅淡黄褐至微红，幼虫食十字花科，见于田地，夜行趋光。",
+      "habitat_hint": "草地、田地、河滩、荒地。",
+      "finding_tips": "初夏至夏夜灯下寻找淡黄褐至微红之小螟蛾；柔和色调为线索。"
+    }
+  },
+  "Exangerona prattiaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "オイワケキエダシャク。シャクガ科エダシャク亜科の中型の蛾で、黄色みを帯びた翅に暗色の斜め線（追分＝分かれ道状の模様）をもつ。夜行性で灯火に来て、幼虫は樹木の葉を食べる尺取り虫。",
+      "habitat_hint": "山地〜低山地の落葉樹林、林縁。",
+      "finding_tips": "初夏〜夏の夜、灯火で黄色みを帯び斜めの暗線をもつ蛾を探す。斜線の模様が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Exangerona prattiaria), a medium ennomine with yellowish wings marked by dark oblique lines; nocturnal and attracted to light, its larvae are leaf-feeding inchworms.",
+      "habitat_hint": "Montane to low-mountain deciduous forest and edges.",
+      "finding_tips": "On early-summer nights at lights look for a yellowish moth with dark oblique lines; the slanting lines are diagnostic."
+    },
+    "zh": {
+      "summary": "オイワケキエダシャク。尺蛾科尺蛾亚科中型蛾，翅带黄具暗色斜线，夜行趋光，幼虫为食叶尺蠖。",
+      "habitat_hint": "山地至低山落叶林、林缘。",
+      "finding_tips": "初夏至夏夜灯下寻找带黄具暗斜线之蛾；斜线纹为辨识点。"
+    }
+  },
+  "Excellichlamys spectabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scallop",
+    "ja": {
+      "summary": "チヒロガイ。イタヤガイ科の小型の二枚貝で、放射状の太い肋と鮮やかな色彩をもつ扇形の殻が美しい。暖海のサンゴ礁や岩礁の浅所にすみ、貝殻収集の対象にもなる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の浅所。",
+      "finding_tips": "暖海の浜の打ち上げや浅所で、放射肋のある鮮やかな扇形の小さな二枚貝を探す。太い放射肋と色彩が手がかり。"
+    },
+    "en": {
+      "summary": "A scallop (Excellichlamys spectabilis), a small pectinid with a fan-shaped shell bearing strong radial ribs and vivid colours. It lives in shallow warm-water reefs and is sought by shell collectors.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow water.",
+      "finding_tips": "On warm-region beaches or shallows look for a small brightly coloured fan-shaped bivalve with bold radial ribs; the strong ribs and colour are the clue."
+    },
+    "zh": {
+      "summary": "チヒロガイ。海扇蛤科小型双壳，扇形壳具粗放射肋、色彩鲜艳，栖暖海珊瑚与岩礁浅处，为贝壳收藏对象。",
+      "habitat_hint": "暖海珊瑚礁、岩礁浅处。",
+      "finding_tips": "暖地海滩或浅处寻找具放射肋、色彩鲜艳之扇形小双壳；粗肋与色彩为线索。"
+    }
+  },
+  "Excirolana chiltoni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beach isopod",
+    "ja": {
+      "summary": "ヒメスナホリムシ。砂浜の波打ち際の砂中にすむスナホリムシ科の小型の等脚類（甲殻類）。素早く砂に潜り、打ち上げられた魚などの死体に群がって食べる。海水浴客の脚をかむこともある。",
+      "habitat_hint": "外洋に面した砂浜の波打ち際、砂中。",
+      "finding_tips": "砂浜の波打ち際で砂を掘る、または死んだ魚に群がる素早い小さな等脚類を探す。砂に潜る速さが手がかり。"
+    },
+    "en": {
+      "summary": "A beach isopod (Excirolana chiltoni), a small cirolanid crustacean living buried in the swash zone of sandy beaches. It burrows quickly and swarms onto stranded carrion; it may nip bathers' legs.",
+      "habitat_hint": "Swash zone and sand of open sandy beaches.",
+      "finding_tips": "At the beach swash line dig the sand or watch stranded fish for fast small isopods; the rapid burrowing is the clue."
+    },
+    "zh": {
+      "summary": "ヒメスナホリムシ。潜砂水虱科小型等足类，栖砂滩浪拍带砂中，迅速潜砂、群集啃食搁浅尸体，或咬泳客之腿。",
+      "habitat_hint": "面向外海砂滩之浪拍带、砂中。",
+      "finding_tips": "砂滩浪拍带掘砂或于死鱼上寻找迅捷之小等足类；潜砂之速为线索。"
+    }
+  },
+  "Ezocallista brevisiphonata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Venus clam",
+    "ja": {
+      "summary": "エゾワスレ。北日本の砂底にすむマルスダレガイ科の二枚貝で、丸みのある殻に光沢と淡い色帯をもつ。冷たい海の浅所〜やや深所に生息し、食用にもなる。",
+      "habitat_hint": "北日本の冷たい海の砂底、浅所〜やや深所。",
+      "finding_tips": "北の海の砂底や浜の打ち上げで、丸く光沢のある淡色の二枚貝を探す。丸い殻形と光沢が手がかり。"
+    },
+    "en": {
+      "summary": "A venus clam (Ezocallista brevisiphonata) of northern Japanese sand bottoms, with a rounded glossy shell showing faint colour bands; it lives in cold shallow to moderately deep water and is edible.",
+      "habitat_hint": "Cold northern sand bottoms, shallow to moderately deep.",
+      "finding_tips": "On northern sand bottoms or beach drift look for a rounded glossy pale bivalve; the round glossy shell is the clue."
+    },
+    "zh": {
+      "summary": "エゾワスレ。北方砂底的帘蛤科双壳，壳圆有光泽、具淡色带，栖冷海浅至稍深处，可食。",
+      "habitat_hint": "北方冷海砂底、浅至稍深处。",
+      "finding_tips": "北方砂底或海滩冲积寻找圆而有光泽之淡色双壳；圆壳光泽为线索。"
+    }
+  },
+  "Favonigobius reichei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tropical sand goby",
+    "ja": {
+      "summary": "ミナミヒメハゼ。暖地の内湾や河口の砂底にすむ小型のハゼ。淡い体色に暗色の斑紋が並び、砂に紛れて底にとどまる。潮だまりや干潟でよく見られる。",
+      "habitat_hint": "内湾・河口の砂底、干潟、潮だまり。",
+      "finding_tips": "干潟や潮だまりの砂底で、淡色に斑紋の並ぶ小さなハゼを探す。砂に溶け込む体色が手がかり。"
+    },
+    "en": {
+      "summary": "Tropical sand goby (Favonigobius reichei), a small goby of warm-region bays and estuaries over sand; pale with rows of dark blotches, it rests on the bottom camouflaged against sand, common on flats and in tide pools.",
+      "habitat_hint": "Bay and estuary sand bottoms, tidal flats, tide pools.",
+      "finding_tips": "On flats and in tide pools look on sand for a small pale goby with dark blotches; the sand-matching colour is the clue."
+    },
+    "zh": {
+      "summary": "ミナミヒメハゼ。暖地内湾河口砂底之小型鰕虎鱼，体淡具成列暗斑，伏底拟砂，常见于滩涂与潮池。",
+      "habitat_hint": "内湾河口砂底、滩涂、潮池。",
+      "finding_tips": "滩涂潮池砂底寻找体淡具暗斑之小鰕虎鱼；拟砂体色为线索。"
+    }
+  },
+  "Favorinus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "チゴミノウミウシ。ミノウミウシ類（Favorinus属）の小型のウミウシで、他のウミウシや巻貝の卵塊を主な餌とする。背に細長い突起（cerata）が並び、触角の途中にこぶ状のふくらみをもつのが特徴。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、他の貝の卵塊のある場所。",
+      "finding_tips": "潮間帯の岩や海藻で、他の卵塊のそばにいる背に突起の並ぶ小さなウミウシを探す。触角のこぶが識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (Favorinus japonicus), a small sea slug that feeds mainly on the egg masses of other sea slugs and snails; rows of slender cerata line the back and the rhinophores bear a characteristic swelling.",
+      "habitat_hint": "Intertidal to shallow reefs where other molluscs' egg masses occur.",
+      "finding_tips": "On intertidal rocks and algae look near egg masses for a small slug with rows of cerata; the bulge on the rhinophores is diagnostic."
+    },
+    "zh": {
+      "summary": "チゴミノウミウシ。Favorinus属小型海蛞蝓，主食他种海蛞蝓与螺之卵块，背具成列细长突起，触角中部具瘤状膨大。",
+      "habitat_hint": "潮间带至浅海岩礁、他贝卵块处。",
+      "finding_tips": "潮间带岩石海藻近卵块处寻找背具突起之小海蛞蝓；触角瘤突为辨识点。"
+    }
+  },
+  "Favorinus mirabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ウツセミミノウミウシ。ミノウミウシ類（Favorinus属）の小型で半透明のウミウシ。名（空蟬＝セミの抜け殻）のとおり透き通った体をもち、他のウミウシなどの卵塊を食べる。背に細い突起が並ぶ。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、卵塊のある海藻上。",
+      "finding_tips": "潮間帯の岩や海藻で、半透明で背に突起の並ぶごく小さなウミウシを探す。透き通った体が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (Favorinus mirabilis), a small translucent sea slug; as its Japanese name (“cicada shell”) suggests the body is see-through. It eats the egg masses of other sea slugs and bears rows of slender cerata.",
+      "habitat_hint": "Intertidal to shallow reefs and egg-mass-bearing algae.",
+      "finding_tips": "On intertidal rocks and algae look for a very small see-through slug with rows of cerata; the translucent body is diagnostic."
+    },
+    "zh": {
+      "summary": "ウツセミミノウミウシ。Favorinus属小型半透明海蛞蝓，如其名（蝉蜕）体透明，食他种海蛞蝓卵块，背具成列细突起。",
+      "habitat_hint": "潮间带至浅海岩礁、带卵块海藻上。",
+      "finding_tips": "潮间带岩石海藻寻找半透明、背具突起之极小海蛞蝓；透明体为辨识点。"
+    }
+  },
+  "Ferdinandea cuprea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Copper hoverfly",
+    "ja": {
+      "summary": "スズキフタモンハナアブ。ハナアブ科の中型のアブで、体が銅色〜金属光沢を帯びるのが特徴。成虫は花や樹液に集まり、幼虫は樹木の傷から出る樹液のたまりで育つ。",
+      "habitat_hint": "林縁、雑木林、樹液の出る木の周辺、花の多い場所。",
+      "finding_tips": "春〜秋、樹液や花で銅色に光る中型のハナアブを探す。金属光沢のある体色が識別点。"
+    },
+    "en": {
+      "summary": "Copper hoverfly (Ferdinandea cuprea), a medium hoverfly with a coppery, metallic-sheened body. Adults visit flowers and sap runs; larvae develop in sap oozing from tree wounds.",
+      "habitat_hint": "Forest edges, coppice, around sap-bleeding trees, flowery places.",
+      "finding_tips": "From spring to autumn at sap or flowers look for a medium coppery metallic hoverfly; the metallic sheen is diagnostic."
+    },
+    "zh": {
+      "summary": "スズキフタモンハナアブ。食蚜蝇科中型蝇，体呈铜色具金属光泽，成虫访花与树液，幼虫生于树伤溢出之树液潭。",
+      "habitat_hint": "林缘、杂木林、溢液树周边、花多之处。",
+      "finding_tips": "春至秋于树液或花上寻找铜色金属光泽之中型食蚜蝇；金属光泽为辨识点。"
+    }
+  },
+  "Forsstroemia flexiramea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "コメリンスゴケ。樹幹や岩上に着生するイタチゴケ科（またはリンスゴケの仲間）の蘚類（コケ）。枝が不規則に分かれて垂れ下がるように広がり、乾くと縮れる。低山地の湿った林でよく見られる。",
+      "habitat_hint": "低山地の林内の樹幹、岩上、着生。",
+      "finding_tips": "湿った林で樹幹や岩に垂れ下がるように着生する光沢のあるコケを探す。枝の垂れ下がりと着生性が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Forsstroemia flexiramea) growing epiphytically on tree trunks and rocks; its irregularly branched shoots spread and hang down and curl when dry, common in damp low-mountain forest.",
+      "habitat_hint": "Epiphytic on trunks and rocks in low-mountain forest.",
+      "finding_tips": "In damp forest look on trunks and rocks for a glossy moss hanging in irregular branches; the pendent epiphytic habit is the clue."
+    },
+    "zh": {
+      "summary": "コメリンスゴケ。附生于树干岩石之藓类，枝不规则分叉、悬垂铺展，干时卷缩，常见于低山湿林。",
+      "habitat_hint": "低山林内树干、岩石，附生。",
+      "finding_tips": "湿林中于树干岩石寻找悬垂状附生之有光泽藓；悬枝与附生为线索。"
+    }
+  },
+  "Forsstroemia yezoana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "エゾヒラゴケ。樹幹や岩上に着生するイタチゴケ科の蘚類（コケ）で、扁平に広がる枝をもつ。北日本などの湿った林で見られ、乾湿で葉の様子が変わる。",
+      "habitat_hint": "北日本〜山地の林内の樹幹、岩上、着生。",
+      "finding_tips": "湿った林で樹幹や岩に扁平に広がって着生するコケを探す。平たく広がる枝が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Forsstroemia yezoana) growing epiphytically on trunks and rocks, with flattened spreading branches; found in damp forests of northern Japan and mountains, its leaves change with moisture.",
+      "habitat_hint": "Epiphytic on trunks and rocks in northern/montane forest.",
+      "finding_tips": "In damp forest look for a moss spreading flat over trunks and rocks; the flattened branches are the clue."
+    },
+    "zh": {
+      "summary": "エゾヒラゴケ。附生树干岩石之藓类，枝扁平铺展，见于北方及山地湿林，叶随干湿而变。",
+      "habitat_hint": "北方至山地林内树干、岩石，附生。",
+      "finding_tips": "湿林中寻找于树干岩石扁平铺展之附生藓；扁平枝为线索。"
+    }
+  },
+  "Fragaria vesca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Woodland strawberry",
+    "aliases": {
+      "zh-Hans": "野草莓"
+    },
+    "ja": {
+      "summary": "エゾヘビイチゴ。北半球に広く分布するバラ科オランダイチゴ属の多年草で、栽培イチゴの原種の一つ。白い五弁花のあと、小さな赤い果実をつけ、食べられる。日本では北方や山地に見られる。",
+      "habitat_hint": "山地〜北方の林縁、草地、明るい林床。",
+      "finding_tips": "初夏、林縁で白い五弁花や小さな赤い実、三小葉の葉をもつ這う草を探す。小さく甘い果実が手がかり。"
+    },
+    "en": {
+      "summary": "Woodland strawberry (Fragaria vesca). A widespread Northern-Hemisphere perennial of the rose family and one of the wild ancestors of the cultivated strawberry; after white five-petalled flowers it bears small edible red fruit. In Japan it grows in the north and mountains.",
+      "habitat_hint": "Montane to northern forest edges, meadows, open woodland floor.",
+      "finding_tips": "In early summer at forest edges look for a creeping plant with white five-petalled flowers, trifoliate leaves and tiny red fruit; the small sweet berries are the clue."
+    },
+    "zh": {
+      "summary": "エゾヘビイチゴ（野草莓）。蔷薇科草莓属多年生草，广布北半球，为栽培草莓野生祖先之一，白色五瓣花后结小红果可食，日本见于北方与山地。",
+      "habitat_hint": "山地至北方林缘、草地、明亮林床。",
+      "finding_tips": "初夏于林缘寻找具白五瓣花、三出叶、小红果之匍匐草；小而甜之果为线索。"
+    }
+  },
+  "Fulgoraria cancellata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Volute",
+    "ja": {
+      "summary": "チリメンヒタチオビ。ガクフボラ科（ヒタチオビ類）の中〜大型の巻貝で、紡錘形の殻に細かな彫刻（縮緬状の模様）をもつ。やや深い砂泥底にすむ肉食性の貝で、貝殻収集の対象になる。",
+      "habitat_hint": "沿岸のやや深い砂泥底。",
+      "finding_tips": "底引き網や打ち上げで、紡錘形に細かな縮緬状の彫刻をもつ巻貝を探す。細かな表面彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A volute (Fulgoraria cancellata), a medium-to-large snail with a spindle-shaped shell bearing fine crinkled sculpture. A predatory snail of deeper sand-mud bottoms, it is prized by shell collectors.",
+      "habitat_hint": "Deeper coastal sand-mud bottoms.",
+      "finding_tips": "In trawl catches or drift look for a spindle-shaped snail with fine crinkled surface sculpture; the delicate sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "チリメンヒタチオビ。涡螺类中至大型螺，纺锤形壳具细密皱纹雕刻，肉食，栖较深砂泥底，为贝壳收藏对象。",
+      "habitat_hint": "沿岸较深砂泥底。",
+      "finding_tips": "拖网或冲积寻找纺锤形具细皱雕刻之螺；细雕为辨识点。"
+    }
+  },
+  "Fumaria capreolata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White ramping fumitory",
+    "ja": {
+      "summary": "ニセカラクサケマン。地中海地方原産でヨーロッパなどに広がるケシ科カラクサケマン属のつる状の一年草。細かく裂けた葉と、白っぽく先が暗紅色を帯びる筒状の小花をつける。荒地や畑地に帰化する。",
+      "habitat_hint": "路傍、畑地、荒地、市街地の隙間。",
+      "finding_tips": "春、荒地で細かく裂けた葉とつる状の茎、白〜暗紅色の小さな筒状花をもつ草を探す。よじ登る茎と細裂葉が手がかり。"
+    },
+    "en": {
+      "summary": "White ramping fumitory (Fumaria capreolata), a Mediterranean scrambling annual of the poppy family spread through Europe; it has finely divided leaves and tubular flowers that are whitish tipped with dark crimson, naturalising on waste and cultivated ground.",
+      "habitat_hint": "Roadsides, cultivated ground, waste land, urban gaps.",
+      "finding_tips": "In spring on waste ground look for a scrambling plant with finely cut leaves and small whitish crimson-tipped tubular flowers; the climbing stems and dissected leaves are the clue."
+    },
+    "zh": {
+      "summary": "ニセカラクサケマン。罂粟科烟堇属地中海原产之攀缘一年生草，叶细裂，筒状小花白色而端暗红，归化于荒地田地。",
+      "habitat_hint": "路旁、田地、荒地、市区缝隙。",
+      "finding_tips": "春于荒地寻找叶细裂、茎攀缘、花白端暗红之草；攀茎与细裂叶为线索。"
+    }
+  },
+  "Gafrarium divaricatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Venus clam",
+    "ja": {
+      "summary": "ケマンガイ。マルスダレガイ科の小型の二枚貝で、殻の表面に細かい格子状の彫刻をもつ。暖海の潮間帯〜浅海の砂礫底にすみ、南日本の海岸で見られる。",
+      "habitat_hint": "暖海の潮間帯〜浅海の砂礫底、サンゴ礁縁。",
+      "finding_tips": "南日本の砂礫の海岸で、格子状の彫刻をもつ丸みのある小さな二枚貝を探す。格子彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A venus clam (Gafrarium divaricatum), a small veneriid with a finely latticed shell surface. It lives on warm-water intertidal to shallow gravel-sand bottoms and occurs on southern Japanese shores.",
+      "habitat_hint": "Warm intertidal to shallow gravel-sand bottoms, reef edges.",
+      "finding_tips": "On southern gravelly shores look for a rounded small bivalve with a lattice-sculptured surface; the crosshatched sculpture is diagnostic."
+    },
+    "zh": {
+      "summary": "ケマンガイ。帘蛤科小型双壳，壳面具细格状雕刻，栖暖海潮间带至浅海砂砾底，见于南日本海岸。",
+      "habitat_hint": "暖海潮间带至浅海砂砾底、礁缘。",
+      "finding_tips": "南日本砂砾海岸寻找具格状雕刻之圆形小双壳；格状雕刻为辨识点。"
+    }
+  },
+  "Gafrarium pectinatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Comb venus clam",
+    "ja": {
+      "summary": "ホソスジイナミガイ。マルスダレガイ科の小型の二枚貝で、殻の表面に放射状の細い肋（すじ）が並ぶ。暖海の潮間帯〜浅海の砂礫底にすむ。南方系の貝で、貝殻がよく浜に打ち上がる。",
+      "habitat_hint": "暖海の潮間帯〜浅海の砂礫底。",
+      "finding_tips": "南方の砂礫の海岸で、放射状の細い肋が並ぶ丸みのある小さな二枚貝を探す。細かな放射肋が識別点。"
+    },
+    "en": {
+      "summary": "Comb venus clam (Gafrarium pectinatum), a small veneriid whose shell bears fine radial ribs. It lives on warm-water intertidal to shallow gravel-sand bottoms, a southern species often washed up on beaches.",
+      "habitat_hint": "Warm intertidal to shallow gravel-sand bottoms.",
+      "finding_tips": "On southern gravelly shores look for a rounded small bivalve with fine radial ribs; the ribbing is diagnostic."
+    },
+    "zh": {
+      "summary": "ホソスジイナミガイ。帘蛤科小型双壳，壳面具细放射肋，栖暖海潮间带至浅海砂砾底，为南方种、常冲上海滩。",
+      "habitat_hint": "暖海潮间带至浅海砂砾底。",
+      "finding_tips": "南方砂砾海岸寻找具细放射肋之圆形小双壳；放射肋为辨识点。"
+    }
+  },
+  "Galactia tashiroi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Milk pea",
+    "ja": {
+      "summary": "ハギカズラ。南日本〜琉球の海岸や林縁に生えるマメ科ハギカズラ属のつる性の多年草。三小葉の葉をもち、淡紅紫色の小さな蝶形花をつける。地面や他の植物に絡んで広がる。",
+      "habitat_hint": "暖地の海岸、林縁、草地、明るい斜面。",
+      "finding_tips": "夏〜秋、暖地の海岸や林縁で三小葉と淡紅紫の小さな蝶形花をもつつる草を探す。絡みつく茎と豆花が手がかり。"
+    },
+    "en": {
+      "summary": "A milk pea (Galactia tashiroi), a twining perennial legume of coasts and forest edges in southern Japan and the Ryukyus; it has trifoliate leaves and small pale pink-purple pea flowers, sprawling over the ground and other plants.",
+      "habitat_hint": "Warm-region coasts, forest edges, grassland, sunny slopes.",
+      "finding_tips": "In summer–autumn on warm coasts look for a twining vine with trifoliate leaves and small pinkish-purple pea flowers; the twining stems and pea flowers are the clue."
+    },
+    "zh": {
+      "summary": "ハギカズラ。豆科乳豆属缠绕多年生草，生南日本至琉球海岸与林缘，叶三出、蝶形小花淡红紫，缠绕地面与他株铺展。",
+      "habitat_hint": "暖地海岸、林缘、草地、向阳坡。",
+      "finding_tips": "夏秋于暖地海岸林缘寻找三出叶、淡红紫蝶形小花之缠绕草；缠茎与豆花为线索。"
+    }
   }
 }
