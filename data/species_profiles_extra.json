@@ -275378,5 +275378,533 @@
       "habitat_hint": "低山至平地树林、林缘、多地衣之境。",
       "finding_tips": "夏夜灯下寻找翅细长端黄之淡灰小蛾；翅端黄色为辨识点。"
     }
+  },
+  "Koeleria macrantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "June grass",
+    "ja": {
+      "summary": "ミノボロ。日当たりのよい乾いた草地や砂地に生えるイネ科の多年草で、細い茎の先に淡緑色〜銀白色の円柱形の穂をつける。穂が短毛でみのぼろ（蓑の切れ端）のように見える。世界に広く分布する。",
+      "habitat_hint": "日当たりのよい乾いた草地、砂地、海岸、荒れ地。",
+      "finding_tips": "初夏、乾いた草地で細い茎の先に淡緑〜銀白の円柱形の穂をもつイネ科を探す。密な円柱形の穂が識別点。"
+    },
+    "en": {
+      "summary": "June grass (Koeleria macrantha), a grass of sunny dry grassland and sandy ground with slender stems topped by a pale-green to silvery cylindrical spike; the softly hairy head recalls a frayed straw cape in Japanese. It is widely distributed worldwide.",
+      "habitat_hint": "Sunny dry grassland, sandy ground, coasts, waste ground.",
+      "finding_tips": "In early summer in dry grassland look for slender stems with a pale silvery cylindrical spike; the dense cylinder head is the clue."
+    },
+    "zh": {
+      "summary": "ミノボロ。禾本科多年生草，生向阳干燥草地与砂地，细茎顶生淡绿至银白圆柱状穗，穗被短毛似破蓑而得名，世界广布。",
+      "habitat_hint": "向阳干燥草地、砂地、海岸、荒地。",
+      "finding_tips": "初夏于干草地寻找细茎顶生淡绿至银白圆柱穗之禾草；密圆柱穗为辨识点。"
+    }
+  },
+  "Labracinus cyclophthalmus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fire dottyback",
+    "ja": {
+      "summary": "メギス。サンゴ礁や岩礁の物陰にすむメギス科の小型の海水魚で、赤みを帯びた体に青い小斑点が散らばる。岩の隙間や穴を好み、なわばりを持って素早く動く。南日本の暖かい海で見られる。",
+      "habitat_hint": "サンゴ礁・岩礁の隙間、穴、物陰、南日本の暖かい浅海。",
+      "finding_tips": "岩礁の隙間や穴の入り口で、赤みを帯びて青い小斑点をもつ小魚を探す。赤い体に青斑が識別点。"
+    },
+    "en": {
+      "summary": "The fire dottyback (Labracinus cyclophthalmus), a small reef fish of coral and rocky crevices with a reddish body scattered with small blue spots; it favours holes and crannies, holds a territory and darts quickly, occurring in warm southern Japanese waters.",
+      "habitat_hint": "Coral and rocky-reef crevices, holes, shelter, warm shallows of southern Japan.",
+      "finding_tips": "At reef crevice entrances look for a small reddish fish with small blue spots; the red body with blue dots is the clue."
+    },
+    "zh": {
+      "summary": "メギス。拟雀鲷科小型海鱼，栖珊瑚礁与岩礁隙缝，体带红、散布蓝色小斑，喜洞隙、有领域、动作迅捷，见于南日本暖海。",
+      "habitat_hint": "珊瑚礁、岩礁隙缝、洞穴、遮蔽处、南日本暖浅海。",
+      "finding_tips": "岩礁隙缝口寻找带红具蓝小斑之小鱼；红体蓝斑为辨识点。"
+    }
+  },
+  "Laccaria bicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bicoloured deceiver",
+    "ja": {
+      "summary": "オオキツネタケ。林内の地上に群生するキシメジ科（ヒドナンギウム科）のきのこで、傘は淡い黄土色〜肌色、ひだは薄紫色を帯びる。樹木と菌根を作り、秋に発生する。菌根研究のモデル生物としても知られる。",
+      "habitat_hint": "広葉樹林・針葉樹林の地上、樹木と菌根を作る場所。",
+      "finding_tips": "秋、林内で淡い黄土色の傘に薄紫のひだをもつきのこの群れを探す。薄紫のひだが識別点。"
+    },
+    "en": {
+      "summary": "The bicoloured deceiver (Laccaria bicolor), a woodland mushroom fruiting in troops with a pale ochre to flesh-coloured cap and lilac-tinged gills; mycorrhizal with trees, it fruits in autumn and is a model organism for mycorrhiza research.",
+      "habitat_hint": "On the ground in broadleaf and conifer woods, mycorrhizal with trees.",
+      "finding_tips": "In autumn in woods look for troops of pale ochre mushrooms with lilac-tinged gills; the lilac gills are the clue."
+    },
+    "zh": {
+      "summary": "オオキツネタケ。口蘑科（漆蜡伞科）真菌，群生林地，盖淡赭至肉色、褶带淡紫，与树木共生菌根、秋季发生，为菌根研究模式生物。",
+      "habitat_hint": "阔叶林、针叶林地上，与树木共生处。",
+      "finding_tips": "秋于林中寻找盖淡赭、褶带淡紫之成群菇；淡紫褶为辨识点。"
+    }
+  },
+  "Lactarius pterosporus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Milkcap",
+    "ja": {
+      "summary": "ウスイロカラチチタケ。広葉樹林の地上に生えるベニタケ科チチタケ属のきのこで、傷つけると白い乳液を出す。傘は淡い灰褐色でビロード状、乳液は辛味をもつ。樹木と菌根を作り、夏〜秋に発生する。",
+      "habitat_hint": "広葉樹林（特にブナ科）の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、広葉樹林で淡灰褐色のビロード状の傘をもち、傷つけると白い乳液を出すきのこを探す。白い乳液が手がかり。"
+    },
+    "en": {
+      "summary": "A milkcap (Lactarius pterosporus), a woodland Russula-family mushroom that bleeds white milk when cut; the pale grey-brown cap is velvety and the milk is acrid. Mycorrhizal with broadleaf trees, it fruits in summer to autumn.",
+      "habitat_hint": "On the ground in broadleaf (especially oak/beech) woods, mycorrhizal.",
+      "finding_tips": "In summer–autumn in broadleaf woods look for a velvety grey-brown mushroom bleeding white milk; the white milk is the clue."
+    },
+    "zh": {
+      "summary": "ウスイロカラチチタケ。红菇科乳菇属真菌，生阔叶林地，伤则流白乳汁，盖淡灰褐、绒状、乳汁辛辣，与阔叶树共生菌根，夏秋发生。",
+      "habitat_hint": "阔叶林（尤壳斗科）地上，与树木共生处。",
+      "finding_tips": "夏秋于阔叶林寻找盖淡灰褐绒状、伤流白乳汁之菇；白乳汁为线索。"
+    }
+  },
+  "Lactarius uvidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Milkcap",
+    "ja": {
+      "summary": "トビチャチチタケ。湿った林内の地上に生えるベニタケ科チチタケ属のきのこで、傷つけると白い乳液を出し、乳液や傷口が紫色に変色する。傘は灰紫褐色でぬめりがある。樹木と菌根を作り、夏〜秋に発生する。",
+      "habitat_hint": "湿った広葉樹林・針葉樹林の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、湿った林内で灰紫褐色のぬめる傘をもち、傷つけると乳液が紫に変わるきのこを探す。紫に変色する乳液が識別点。"
+    },
+    "en": {
+      "summary": "A milkcap (Lactarius uvidus), a woodland mushroom that bleeds white milk which — with the flesh — stains lilac-purple; the greyish lilac-brown cap is slimy. Mycorrhizal with trees, it fruits in summer to autumn.",
+      "habitat_hint": "On the ground in damp broadleaf and conifer woods, mycorrhizal.",
+      "finding_tips": "In summer–autumn in damp woods look for a slimy greyish-lilac mushroom whose cut milk turns purple; the purple-staining milk is the clue."
+    },
+    "zh": {
+      "summary": "トビチャチチタケ。红菇科乳菇属真菌，生湿林地，伤流白乳汁、乳汁与伤口变紫，盖灰紫褐而黏，与树木共生菌根，夏秋发生。",
+      "habitat_hint": "湿润阔叶林、针叶林地上，与树木共生处。",
+      "finding_tips": "夏秋于湿林寻找盖灰紫褐而黏、伤乳汁变紫之菇；变紫之乳汁为辨识点。"
+    }
+  },
+  "Lactarius violascens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Milkcap",
+    "ja": {
+      "summary": "ウズハツ。広葉樹林の地上に生えるベニタケ科チチタケ属のきのこで、傷つけると白い乳液を出し、乳液や傷口が紫色に変わる。傘は褐色で環紋（うずまき状の輪）があるのが名の由来。樹木と菌根を作り、夏〜秋に発生する。",
+      "habitat_hint": "広葉樹林（特にブナ科）の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、広葉樹林で環紋のある褐色の傘をもち、乳液が紫に変わるきのこを探す。渦巻き状の環紋が識別点。"
+    },
+    "en": {
+      "summary": "A milkcap (Lactarius violascens), a woodland mushroom bleeding white milk that stains lilac; the brown cap bears concentric zonation (naming it 'whorl milkcap' in Japanese). Mycorrhizal with broadleaf trees, it fruits in summer to autumn.",
+      "habitat_hint": "On the ground in broadleaf (especially oak/beech) woods, mycorrhizal.",
+      "finding_tips": "In summer–autumn in broadleaf woods look for a zoned brown mushroom whose milk turns lilac; the concentric rings are the clue."
+    },
+    "zh": {
+      "summary": "ウズハツ。红菇科乳菇属真菌，生阔叶林地，伤流白乳汁、变紫，盖褐色具同心环纹（漩涡状）而得名，与阔叶树共生菌根，夏秋发生。",
+      "habitat_hint": "阔叶林（尤壳斗科）地上，与树木共生处。",
+      "finding_tips": "夏秋于阔叶林寻找盖褐具环纹、乳汁变紫之菇；漩涡环纹为辨识点。"
+    }
+  },
+  "Lactifluus vellereus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fleecy milkcap",
+    "ja": {
+      "summary": "ケシロハツ。広葉樹林の地上に生えるベニタケ科の大型のきのこで、傘は白く、表面が細かい毛でビロード状（羊毛状）になる。傷つけると白い乳液を出し、辛味がある。樹木と菌根を作り、夏〜秋に発生する。",
+      "habitat_hint": "広葉樹林（特にブナ科）の地上、樹木と菌根を作る場所。",
+      "finding_tips": "夏〜秋、広葉樹林で白く羊毛状の傘をもつ大型のきのこを探す。白い羊毛状の傘と白い乳液が識別点。"
+    },
+    "en": {
+      "summary": "The fleecy milkcap (Lactifluus vellereus), a large woodland mushroom with a white, finely woolly (fleecy) cap that bleeds white acrid milk when cut; mycorrhizal with broadleaf trees, it fruits in summer to autumn.",
+      "habitat_hint": "On the ground in broadleaf (especially oak/beech) woods, mycorrhizal.",
+      "finding_tips": "In summer–autumn in broadleaf woods look for a large white fleecy-capped mushroom bleeding white milk; the woolly white cap is the clue."
+    },
+    "zh": {
+      "summary": "ケシロハツ。红菇科大型真菌，生阔叶林地，盖白、表面细毛呈绒（羊毛）状，伤流白色辛辣乳汁，与阔叶树共生菌根，夏秋发生。",
+      "habitat_hint": "阔叶林（尤壳斗科）地上，与树木共生处。",
+      "finding_tips": "夏秋于阔叶林寻找盖白呈羊毛状之大型菇；羊毛白盖与白乳汁为辨识点。"
+    }
+  },
+  "Lambis lambis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Common spider conch",
+    "ja": {
+      "summary": "クモガイ。サンゴ礁の浅い海の砂地や岩礁にすむソデガイ科の大型の巻貝で、殻の縁から6本の長いとげ状の突起が伸びてクモの脚のように見える。海藻を食べ、南日本の暖かい海で見られる。殻は装飾品にも使われる。",
+      "habitat_hint": "サンゴ礁の浅い砂地、岩礁、南日本の暖かい浅海。",
+      "finding_tips": "サンゴ礁の浅い砂地で、殻の縁から6本の長いとげが伸びる大型の巻貝を探す。クモの脚状のとげが識別点。"
+    },
+    "en": {
+      "summary": "The common spider conch (Lambis lambis), a large sea snail of shallow coral-reef sand and rock whose shell lip bears six long spiny projections like spider legs; it grazes seaweed in warm southern Japanese waters and its shell is used decoratively.",
+      "habitat_hint": "Shallow coral-reef sand and rock, warm shallows of southern Japan.",
+      "finding_tips": "On shallow reef sand look for a large snail with six long spines from the shell lip; the spider-leg spines are the clue."
+    },
+    "zh": {
+      "summary": "クモガイ。凤螺科（蜘蛛螺）大型巻贝，栖珊瑚礁浅海砂地与岩礁，壳缘伸出六长棘如蛛足，食海藻，见于南日本暖海，壳供装饰。",
+      "habitat_hint": "珊瑚礁浅砂地、岩礁、南日本暖浅海。",
+      "finding_tips": "珊瑚礁浅砂地寻找壳缘伸六长棘之大型巻贝；蛛足状棘为辨识点。"
+    }
+  },
+  "Larerannis filipjevi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter geometer moth",
+    "ja": {
+      "summary": "フタマタフユエダシャク。晩秋〜冬に出現するフユシャク（冬尺蛾）の一種で、雄は灰褐色の翅をもつが雌は翅が退化して飛べない。夜行性で灯火に来る。冬の落葉樹林で見られ、幼虫は春に葉を食べる。",
+      "habitat_hint": "低山地〜平地の落葉樹林、雑木林、林縁。",
+      "finding_tips": "晩秋〜冬の夜、落葉樹林の灯火や樹幹で灰褐色の翅の雄を探す。冬に出る蛾という点が手がかり。"
+    },
+    "en": {
+      "summary": "A winter geometer moth (Larerannis filipjevi), one of the winter moths appearing in late autumn to winter; males have grey-brown wings while females are flightless with reduced wings. Nocturnal and attracted to light, it occurs in winter deciduous forest and its larvae feed on leaves in spring.",
+      "habitat_hint": "Lowland to low-mountain deciduous and coppice forest, edges.",
+      "finding_tips": "On late-autumn to winter nights at lights or on trunks look for a grey-brown-winged male; a moth flying in winter is the clue."
+    },
+    "zh": {
+      "summary": "フタマタフユエダシャク。冬尺蛾之一，晚秋至冬出现，雄具灰褐翅、雌翅退化不能飞，夜行趋光，见于冬季落叶林，幼虫春季食叶。",
+      "habitat_hint": "低山至平地落叶林、杂木林、林缘。",
+      "finding_tips": "晚秋至冬夜于落叶林灯下或树干寻找灰褐翅之雄；冬季飞蛾为线索。"
+    }
+  },
+  "Lasallia caroliniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock tripe lichen",
+    "ja": {
+      "summary": "シワイワタケ。山地の露出した岩の上に着生するイワタケ科の大型の地衣類で、灰褐色〜暗褐色の葉状体が一点で岩に付き、しわ状の凹凸をもつ。乾くと縮れ、湿るとやわらかく広がる。岩肌でゆっくり成長する。",
+      "habitat_hint": "山地の露出した岩の上、岩壁、日の当たる岩肌。",
+      "finding_tips": "山地の露岩で、一点で岩に付き、しわ状の凹凸をもつ大きな葉状の地衣類を探す。しわ状の葉状体が識別点。"
+    },
+    "en": {
+      "summary": "A rock tripe lichen (Lasallia caroliniana), a large foliose lichen attached to exposed montane rock at a single point, with a grey- to dark-brown thallus wrinkled and puckered; it shrivels when dry and softens when wet, growing slowly on rock faces.",
+      "habitat_hint": "Exposed montane rock, cliffs, sunlit rock faces.",
+      "finding_tips": "On montane exposed rock look for a large leafy lichen fixed at one point with a wrinkled surface; the puckered thallus is the clue."
+    },
+    "zh": {
+      "summary": "シワイワタケ。石耳科大型地衣，附生山地露岩，灰褐至暗褐叶状体以一点着岩、表面具皱褶，干则皱缩、湿则展软，于岩面缓慢生长。",
+      "habitat_hint": "山地露岩、岩壁、向阳岩面。",
+      "finding_tips": "山地露岩寻找以一点着岩、表面皱褶之大型叶状地衣；皱褶叶状体为辨识点。"
+    }
+  },
+  "Lasianthus fordii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shrub",
+    "ja": {
+      "summary": "リュウキュウルリミノキ。南日本の暖地の林内に生えるアカネ科の常緑低木で、革質の細長い葉をもち、実は熟すと瑠璃（るり）色に輝く。名は「瑠璃実の木」に由来する。林床のやや暗い湿った場所で見られる。",
+      "habitat_hint": "暖地の常緑樹林の林床、湿った林内、林縁。",
+      "finding_tips": "暖地の林内で革質の細長い葉をもち、瑠璃色に輝く実をつける低木を探す。瑠璃色の実が識別点。"
+    },
+    "en": {
+      "summary": "An evergreen shrub (Lasianthus fordii) of warm southern Japanese forests with leathery narrow leaves and fruit that ripens to a lustrous lapis-blue, giving its Japanese name 'lapis-fruit tree'; it grows in shaded damp forest understorey.",
+      "habitat_hint": "Warm evergreen forest understorey, damp woods, edges.",
+      "finding_tips": "In warm forests look for a shrub with leathery narrow leaves and lustrous blue fruit; the lapis-blue berries are the clue."
+    },
+    "zh": {
+      "summary": "リュウキュウルリミノキ。茜草科常绿灌木，生南日本暖地林内，叶革质细长，果熟呈琉璃蓝而有光泽，名意「琉璃果之木」，见于阴湿林下。",
+      "habitat_hint": "暖地常绿林下、湿林内、林缘。",
+      "finding_tips": "暖地林内寻找叶革质细长、果琉璃蓝有光泽之灌木；琉璃蓝果为辨识点。"
+    }
+  },
+  "Laurencia pinnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "ハネソゾ。潮間帯〜浅い海の岩上に生える紅藻の一種で、主軸から羽状に細かく枝分かれする。赤紫色〜暗紫色で、独特の匂い（臭素化合物）をもつことがある。岩礁の潮だまり周辺で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩上、岩礁、潮だまりの縁。",
+      "finding_tips": "潮間帯の岩で、主軸から羽状に細かく枝分かれする赤紫色の海藻を探す。羽状の枝分かれが識別点。"
+    },
+    "en": {
+      "summary": "A red alga (Laurencia pinnata) growing on intertidal to shallow rock, branching finely and pinnately from a main axis; reddish- to dark-purple, it can carry a distinctive smell from brominated compounds. It occurs around rocky tide pools.",
+      "habitat_hint": "Intertidal to shallow rock, rocky shores, tide-pool margins.",
+      "finding_tips": "On intertidal rock look for a reddish-purple alga branching finely and feather-like; the pinnate branching is the clue."
+    },
+    "zh": {
+      "summary": "ハネソゾ。红藻之一，生潮间带至浅海岩上，自主轴羽状细分枝，赤紫至暗紫、或具溴化物特殊气味，见于岩礁潮池周边。",
+      "habitat_hint": "潮间带至浅海岩上、岩礁、潮池边缘。",
+      "finding_tips": "潮间带岩上寻找自主轴羽状细分枝之赤紫海藻；羽状分枝为辨识点。"
+    }
+  },
+  "Leathesia marina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea potato",
+    "ja": {
+      "summary": "ネバリモ。潮間帯の岩上や他の海藻に付着して生える褐藻で、脳のようにしわのある中空の球状〜塊状になり、ぬるぬるとして弾力がある。春〜夏に見られ、握るとつぶれる。潮だまり周辺でふつうに見られる。",
+      "habitat_hint": "潮間帯の岩上、他の海藻の上、潮だまりの縁。",
+      "finding_tips": "春〜夏、潮間帯の岩や海藻の上で、脳状にしわのあるぬるぬるした中空の塊を探す。しわのある弾力ある塊が識別点。"
+    },
+    "en": {
+      "summary": "The sea potato (Leathesia marina), a brown alga growing on intertidal rock and other seaweeds as a hollow brain-like wrinkled blob, slimy and rubbery; seen in spring–summer, it squashes when squeezed and is common around tide pools.",
+      "habitat_hint": "Intertidal rock, on other seaweeds, tide-pool margins.",
+      "finding_tips": "In spring–summer on intertidal rock or weed look for a slimy hollow brain-like wrinkled lump; the wrinkled rubbery blob is the clue."
+    },
+    "zh": {
+      "summary": "ネバリモ。褐藻，附生潮间带岩上与他海藻，呈脑状皱褶之中空球块、黏滑而有弹性，春夏可见、握之则破，潮池周边常见。",
+      "habitat_hint": "潮间带岩上、他海藻上、潮池边缘。",
+      "finding_tips": "春夏于潮间带岩或海藻上寻找脑状皱褶黏滑之中空块；皱褶弹性块为辨识点。"
+    }
+  },
+  "Lecanora albella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rim lichen",
+    "ja": {
+      "summary": "チャシブゴケ。樹皮や岩の上に着生する痂状（かさぶた状）の地衣類で、灰白色の地に淡い色の小さな盤（子器）が多数散らばる。基物に固く張りつき、身近な木の幹でもふつうに見られる。",
+      "habitat_hint": "樹皮、岩、木の幹、日の当たる基物の表面。",
+      "finding_tips": "木の幹や岩で、灰白色に固く張りつき小さな盤が散らばる痂状の地衣類を探す。散らばる小さな盤が識別点。"
+    },
+    "en": {
+      "summary": "A rim lichen (Lecanora albella), a crustose lichen on bark and rock with a greyish-white crust scattered with many small pale discs (apothecia); it clings tightly to the substrate and is common even on everyday tree trunks.",
+      "habitat_hint": "Bark, rock, tree trunks, sunlit substrate surfaces.",
+      "finding_tips": "On trunks or rock look for a tightly-clinging greyish-white crust dotted with small discs; the scattered pale discs are the clue."
+    },
+    "zh": {
+      "summary": "チャシブゴケ。痂状地衣，附生树皮与岩上，灰白痂上散布多数淡色小盘（子器），紧贴基物，常见于身边树干。",
+      "habitat_hint": "树皮、岩石、树干、向阳基物表面。",
+      "finding_tips": "树干或岩上寻找灰白紧贴、散布小盘之痂状地衣；散布小盘为辨识点。"
+    }
+  },
+  "Lecanora decorata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rim lichen",
+    "ja": {
+      "summary": "アワモチゴケ。樹皮や岩に着生する痂状の地衣類で、灰白色の地衣体の上に淡褐色の小さな盤（子器）が集まってつく。基物に固く張りつき、身近な木の幹や石の表面でふつうに見られる。",
+      "habitat_hint": "樹皮、岩、木の幹、石の表面。",
+      "finding_tips": "木の幹や石で、灰白色に固く張りつき淡褐色の小さな盤が集まる痂状の地衣類を探す。集まった小さな盤が識別点。"
+    },
+    "en": {
+      "summary": "A rim lichen (Lecanora decorata), a crustose lichen on bark and rock whose greyish-white thallus carries clusters of small pale-brown discs (apothecia); it clings tightly and is common on everyday trunks and stones.",
+      "habitat_hint": "Bark, rock, tree trunks, stone surfaces.",
+      "finding_tips": "On trunks or stone look for a tightly-clinging greyish crust with clustered small brown discs; the clustered discs are the clue."
+    },
+    "zh": {
+      "summary": "アワモチゴケ。痂状地衣，附生树皮与岩，灰白地衣体上聚生淡褐小盘（子器），紧贴基物，常见于身边树干与石面。",
+      "habitat_hint": "树皮、岩石、树干、石面。",
+      "finding_tips": "树干或石上寻找灰白紧贴、聚生淡褐小盘之痂状地衣；聚生小盘为辨识点。"
+    }
+  },
+  "Lecanorchis suginoana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mycoheterotrophic orchid",
+    "ja": {
+      "summary": "エンシュウムヨウラン。葉緑素をもたず菌類に養分を頼るラン科ムヨウラン属の腐生植物で、暗い林床から褐色の花茎を立て、淡黄褐色の小さな花をつける。夏に一時的に地上に現れる。常緑樹林の湿った林床で見られる。",
+      "habitat_hint": "常緑樹林・広葉樹林の湿った暗い林床、腐植の多い場所。",
+      "finding_tips": "夏、暗い林床で葉のない褐色の花茎に淡黄褐色の小さな花をつけるランを探す。葉がなく菌に頼る姿が識別点。"
+    },
+    "en": {
+      "summary": "A mycoheterotrophic orchid (Lecanorchis suginoana) that lacks chlorophyll and takes nutrients from fungi; it raises a brown flower-stalk from dark forest floor bearing small pale-yellow-brown flowers, appearing briefly above ground in summer in damp evergreen forest.",
+      "habitat_hint": "Damp shaded floor of evergreen and broadleaf forest, humus-rich ground.",
+      "finding_tips": "In summer on dark forest floor look for a leafless brown stalk with small pale flowers; the leafless fungus-fed form is the clue."
+    },
+    "zh": {
+      "summary": "エンシュウムヨウラン。兰科无叶兰属腐生植物，无叶绿素、赖菌获养，自阴暗林床立褐色花茎、生淡黄褐小花，夏季短暂出土，见于常绿林湿润林床。",
+      "habitat_hint": "常绿林、阔叶林湿润阴暗林床、富腐殖处。",
+      "finding_tips": "夏于阴暗林床寻找无叶褐色花茎具淡黄褐小花之兰；无叶赖菌之姿为辨识点。"
+    }
+  },
+  "Lemna perpusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Duckweed",
+    "ja": {
+      "summary": "チビウキクサ。池や水田、溝の水面に浮かぶウキクサ科の微小な水草で、緑色の小さな楕円形の葉状体が浮かび、下に1本の根を垂らす。分裂して急速に増え、水面を緑に覆う。身近な止水でふつうに見られる。",
+      "habitat_hint": "池、水田、溝、流れの緩やかな止水の水面。",
+      "finding_tips": "止水の水面で、小さな緑の葉状体が浮かび1本の根を垂らす微小な水草を探す。1本根の小さな浮葉が識別点。"
+    },
+    "en": {
+      "summary": "A duckweed (Lemna perpusilla), a tiny floating plant of ponds, paddies and ditches; small green oval fronds float on the surface with a single root hanging below, multiplying by division to cover the water green. It is common in still water.",
+      "habitat_hint": "Ponds, paddies, ditches, slow still-water surfaces.",
+      "finding_tips": "On still water look for tiny floating green fronds each with one hanging root; the single-rooted small frond is the clue."
+    },
+    "zh": {
+      "summary": "チビウキクサ。浮萍科微小水生植物，浮于池塘、水田、水沟水面，绿色小椭圆叶状体浮生、下垂一根，分裂速增、绿覆水面，止水常见。",
+      "habitat_hint": "池塘、水田、水沟、缓流止水水面。",
+      "finding_tips": "止水水面寻找浮生绿小叶状体、下垂一根之微小水草；单根小浮叶为辨识点。"
+    }
+  },
+  "Lentinus brumalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winter polypore",
+    "ja": {
+      "summary": "オツネンタケモドキ。広葉樹の枯れ木や倒木に生えるタマチョレイタケ科のきのこで、褐色の円い傘の中央がややくぼみ、裏面は細かい管孔になる。柄をもち、革質で丈夫。晩秋〜冬・早春に発生し、越年することもある。",
+      "habitat_hint": "広葉樹の枯れ木、倒木、切り株。",
+      "finding_tips": "晩秋〜早春、広葉樹の枯れ木で中央がくぼんだ褐色の円い傘と管孔の裏面をもつ革質のきのこを探す。管孔の裏面が識別点。"
+    },
+    "en": {
+      "summary": "The winter polypore (Lentinus brumalis), a bracket fungus of dead broadleaf wood with a round brown cap slightly depressed at the centre and a finely pored underside; stalked, leathery and tough, it fruits in late autumn to early spring and may overwinter.",
+      "habitat_hint": "Dead broadleaf wood, logs, stumps.",
+      "finding_tips": "In late autumn to early spring on dead broadleaf wood look for a leathery round brown cap depressed at the centre with a pored underside; the pored underside is the clue."
+    },
+    "zh": {
+      "summary": "オツネンタケモドキ。多孔菌科真菌，生阔叶枯木与倒木，褐色圆盖中央微凹、背面细管孔，有柄、革质而坚韧，晚秋至早春发生、可越年。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "晚秋至早春于阔叶枯木寻找中央凹陷之褐圆盖、背面管孔之革质菇；管孔背面为辨识点。"
+    }
+  },
+  "Leostyletus misakiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ミサキヒメミノウミウシ。潮間帯〜浅い海の岩礁にすむミノウミウシ類の小型のウミウシで、背中に多数のミノ（突起）をもつ。ヒドロ虫（刺胞動物）を食べ、その刺胞を体内に取り込んで身を守る。岩やヒドロ虫の群れの周りで見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、ヒドロ虫の群れ、藻場。",
+      "finding_tips": "岩礁やヒドロ虫の群れで、背中に多数のミノ状突起をもつ小さなウミウシを探す。背中のミノが識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (Leostyletus misakiensis), a small sea slug of intertidal to shallow rocky reefs with many finger-like cerata on its back; it eats hydroids and stores their stinging cells for defence, occurring around rock and hydroid colonies.",
+      "habitat_hint": "Intertidal to shallow rocky reefs, hydroid colonies, weed beds.",
+      "finding_tips": "On reef rock or hydroid colonies look for a small sea slug with many finger-like projections on its back; the dorsal cerata are the clue."
+    },
+    "zh": {
+      "summary": "ミサキヒメミノウミウシ。蓑海牛类小型海蛞蝓，栖潮间带至浅海岩礁，背具多数蓑状突起（角），食水螅、储其刺细胞自卫，见于岩石与水螅群周边。",
+      "habitat_hint": "潮间带至浅海岩礁、水螅群、藻场。",
+      "finding_tips": "岩礁或水螅群寻找背具多数指状突起之小海蛞蝓；背部蓑角为辨识点。"
+    }
+  },
+  "Lepidonotus elongatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scale worm",
+    "ja": {
+      "summary": "ヤチウロコムシ。潮間帯〜浅い海の岩の下や石の間にすむウロコムシ類の多毛類（ゴカイの仲間）で、背中を二列のうろこ状の板が覆う。夜行性で、石をひっくり返すと素早く逃げる。岩礁や転石地でふつうに見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩の下、石の間、転石地。",
+      "finding_tips": "潮間帯で石をひっくり返し、背中がうろこ状の板で覆われた平たい多毛類を探す。二列のうろこが識別点。"
+    },
+    "en": {
+      "summary": "A scale worm (Lepidonotus elongatus), a polychaete of intertidal to shallow-water undersides of rock and stone gaps, its back covered by two rows of scale-like plates (elytra); nocturnal, it darts away when stones are turned. It is common on rocky and cobble shores.",
+      "habitat_hint": "Under intertidal to shallow rock, in stone gaps, cobble shores.",
+      "finding_tips": "On intertidal shores turn stones and look for a flat worm with two rows of scales on its back; the scale plates are the clue."
+    },
+    "zh": {
+      "summary": "ヤチウロコムシ。鳞沙蚕类多毛类（沙蚕近亲），栖潮间带至浅海岩下与石隙，背覆二列鳞状板（鳞片），夜行、翻石则速逃，岩礁与砾石岸常见。",
+      "habitat_hint": "潮间带至浅海岩下、石隙、砾石地。",
+      "finding_tips": "潮间带翻石寻找背覆鳞状板之扁平多毛类；二列鳞片为辨识点。"
+    }
+  },
+  "Lepiota clypeolaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shield dapperling",
+    "ja": {
+      "summary": "ワタカラカサタケ。林内の地上に生えるハラタケ科カラカサタケ属の小型のきのこで、傘の中央は褐色、周辺は綿毛状の鱗片で覆われ、柄も綿状のささくれをまとう。有毒とされ、食用にしない。夏〜秋に発生する。",
+      "habitat_hint": "広葉樹林・針葉樹林の地上、林縁、腐植の多い場所。",
+      "finding_tips": "夏〜秋、林内で中央が褐色、周辺と柄が綿毛状のささくれをもつ小さなきのこを探す。綿状のささくれが識別点。"
+    },
+    "en": {
+      "summary": "The shield dapperling (Lepiota clypeolaria), a small woodland mushroom with a brown-centred cap covered outward with woolly scales and a stem clad in cottony shagginess; regarded as poisonous, not eaten, it fruits in summer to autumn.",
+      "habitat_hint": "On the ground in broadleaf and conifer woods, edges, humus-rich ground.",
+      "finding_tips": "In summer–autumn in woods look for a small mushroom with a brown centre and woolly scaly cap and shaggy stem; the cottony shagginess is the clue."
+    },
+    "zh": {
+      "summary": "ワタカラカサタケ。蘑菇科环柄菇属小型真菌，生林地，盖中央褐色、周边被绵毛状鳞片、柄亦具绵状糙片，被视有毒、不食，夏秋发生。",
+      "habitat_hint": "阔叶林、针叶林地上、林缘、富腐殖处。",
+      "finding_tips": "夏秋于林中寻找中央褐色、周边与柄具绵毛糙片之小菇；绵状糙片为辨识点。"
+    }
+  },
+  "Leptogium pichneum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jelly lichen",
+    "ja": {
+      "summary": "コナアオキノリ。樹皮や岩、コケの上に着生するイワノリ科の地衣類で、湿ると青みを帯びた暗灰色のゼリー状の葉状体になる。表面に粉状の芽（粉芽）をつけて増える。湿った林内の樹幹や岩でよく見られる。",
+      "habitat_hint": "湿った樹皮、岩、コケの上、林内の湿った場所。",
+      "finding_tips": "湿った樹幹や岩で、湿るとゼリー状にふくらむ暗灰色〜青灰色の葉状の地衣類を探す。ゼリー状の質感が識別点。"
+    },
+    "en": {
+      "summary": "A jelly lichen (Leptogium pichneum) growing on bark, rock and moss; when wet its dark-grey thallus turns bluish and jelly-like, spreading by powdery propagules (soredia). It is common on damp trunks and rock in humid woods.",
+      "habitat_hint": "Damp bark, rock, over moss, humid woodland spots.",
+      "finding_tips": "On damp trunks or rock look for a dark bluish-grey leafy lichen that swells jelly-like when wet; the gelatinous texture is the clue."
+    },
+    "zh": {
+      "summary": "コナアオキノリ。猫耳衣科地衣，附生树皮、岩石与苔上，湿则呈带蓝暗灰之胶质叶状体，以粉状芽（粉芽）繁殖，常见于湿林树干与岩。",
+      "habitat_hint": "湿润树皮、岩石、苔上、林内湿处。",
+      "finding_tips": "湿润树干或岩上寻找湿则胀成胶质之暗蓝灰叶状地衣；胶质质感为辨识点。"
+    }
+  },
+  "Leskeella pusilla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ヒメウスグロゴケ。樹皮や岩の上に着生する小型の蘚類（コケ）で、細い茎が這って広がり、小さな葉が密につく。暗緑色〜黒緑色をおび、乾くと茎に葉が寄り添う。身近な木の幹や石の表面でも見られる。",
+      "habitat_hint": "樹皮、岩、木の幹、石の表面、着生。",
+      "finding_tips": "木の幹や岩で、細い茎が這って小さな葉を密につける暗緑色の小さなコケを探す。這う細い茎が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Leskeella pusilla) growing on bark and rock; slender creeping stems spread with densely-set small leaves, dark green to blackish-green, the leaves pressing to the stem when dry. It occurs even on everyday trunks and stones.",
+      "habitat_hint": "Bark, rock, tree trunks, stone surfaces, epiphytic.",
+      "finding_tips": "On trunks or rock look for a small dark-green moss with slender creeping stems and densely-set tiny leaves; the creeping stems are the clue."
+    },
+    "zh": {
+      "summary": "ヒメウスグロゴケ。小型藓类，附生树皮与岩，细茎匍匐铺展、密生小叶，暗绿至黑绿、干则叶贴茎，身边树干与石面亦见。",
+      "habitat_hint": "树皮、岩石、树干、石面，附生。",
+      "finding_tips": "树干或岩上寻找细茎匍匐、密生小叶之暗绿小藓；匍匐细茎为线索。"
+    }
+  },
+  "Lethrinus genivittatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Threadfin emperor",
+    "ja": {
+      "summary": "イトフエフキ。砂底や砂礫底の浅い海にすむフエフキダイ科の小型の海水魚で、背びれの一部が糸状に伸びるのが名の由来。淡褐色の体に不規則な斑があり、底の小動物を food とする。南日本の暖かい浅海で見られる。",
+      "habitat_hint": "砂底・砂礫底の浅い海、内湾、南日本の暖かい沿岸。",
+      "finding_tips": "砂底の浅い海で、背びれの一部が糸状に伸びた淡褐色の小魚を探す。糸状に伸びる背びれが識別点。"
+    },
+    "en": {
+      "summary": "The threadfin emperor (Lethrinus genivittatus), a small emperor fish of shallow sandy and gravelly bottoms named for a thread-like extension of part of the dorsal fin; the pale-brown body has irregular blotches and it feeds on bottom animals in warm southern Japanese shallows.",
+      "habitat_hint": "Shallow sandy and gravelly bottoms, bays, warm southern Japanese coasts.",
+      "finding_tips": "On shallow sandy bottoms look for a pale-brown fish with a thread-like extended dorsal spine; the threadfin is the clue."
+    },
+    "zh": {
+      "summary": "イトフエフキ。裸颊鲷科小型海鱼，栖砂底与砂砾浅海，背鳍一部延长成丝而得名，体淡褐具不规则斑，食底栖小动物，见于南日本暖浅海。",
+      "habitat_hint": "砂底、砂砾浅海、内湾、南日本暖岸。",
+      "finding_tips": "砂底浅海寻找背鳍延长成丝之淡褐小鱼；丝状背鳍为辨识点。"
+    }
   }
 }
