@@ -272222,5 +272222,560 @@
       "habitat_hint": "草地、河滩、林缘、荒地草丛。",
       "finding_tips": "夏夜灯下寻找前翅黑褐、腹与后翅黄色之蛾；黄腹为辨识点。"
     }
+  },
+  "Epinephelus akaara": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hong Kong grouper",
+    "aliases": {
+      "zh-Hans": "赤点石斑鱼"
+    },
+    "ja": {
+      "summary": "キジハタ。本州中部以南の岩礁域にすむハタ科の食用魚。体は赤褐色で橙色の小斑点が散らばり、雌から雄へ性転換する。高級魚として釣り・料理の対象。",
+      "habitat_hint": "沿岸の岩礁、防波堤、藻場のある岩場。",
+      "finding_tips": "夏〜秋、岩礁や堤防でオレンジの斑点をもつ赤褐色のハタを探す。斑点の色が識別点。"
+    },
+    "en": {
+      "summary": "Hong Kong grouper (Epinephelus akaara). A reef grouper of central Honshu southward, reddish-brown with scattered orange spots; a protogynous hermaphrodite prized as a food and angling fish.",
+      "habitat_hint": "Coastal rocky reefs, breakwaters, weedy rocky bottoms.",
+      "finding_tips": "In summer–autumn look over reefs and breakwaters for a reddish-brown grouper with orange spots; the spot colour is diagnostic."
+    },
+    "zh": {
+      "summary": "キジハタ（赤点石斑鱼）。本州中部以南岩礁的石斑鱼科食用鱼，体红褐、散布橙色小斑，雌先性转雄，为高级食用与垂钓对象。",
+      "habitat_hint": "沿岸岩礁、防波堤、藻场岩底。",
+      "finding_tips": "夏秋于岩礁、堤防寻找红褐带橙斑之石斑鱼；斑点颜色为辨识点。"
+    }
+  },
+  "Epinephelus awoara": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow grouper",
+    "aliases": {
+      "zh-Hans": "青石斑鱼"
+    },
+    "ja": {
+      "summary": "アオハタ。西日本以南の岩礁・砂礫底にすむハタ科の魚。体は黄褐色で数本の暗色横帯があり、ひれの縁が黄色い。白身の食用魚として市場に出る。",
+      "habitat_hint": "沿岸の岩礁、砂礫底、藻場。",
+      "finding_tips": "岩礁周りで暗色横帯とひれの黄縁をもつ黄褐色のハタを探す。ひれの黄色が手がかり。"
+    },
+    "en": {
+      "summary": "Yellow grouper (Epinephelus awoara). A grouper of rocky and gravel bottoms from western Japan southward, yellowish-brown with several dark bars and yellow fin margins; a white-fleshed market fish.",
+      "habitat_hint": "Coastal reefs, gravel bottoms, weed beds.",
+      "finding_tips": "Around reefs look for a yellowish-brown grouper with dark bars and yellow-edged fins; the yellow fin margins are the clue."
+    },
+    "zh": {
+      "summary": "アオハタ（青石斑鱼）。西日本以南岩礁与砂砾底的石斑鱼科鱼，体黄褐、具数条暗横带、鳍缘黄色，为白肉食用鱼。",
+      "habitat_hint": "沿岸岩礁、砂砾底、藻场。",
+      "finding_tips": "岩礁周围寻找具暗横带、鳍缘黄之黄褐石斑鱼；黄鳍缘为线索。"
+    }
+  },
+  "Epinephelus coeruleopunctatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whitespotted grouper",
+    "aliases": {
+      "zh-Hans": "白点石斑鱼"
+    },
+    "ja": {
+      "summary": "ハクテンハタ。琉球列島など暖海のサンゴ礁にすむハタ科の魚。体は暗褐色で青白い小点が全身に散らばり、大型になる。定住性が強く岩陰にひそむ。",
+      "habitat_hint": "サンゴ礁、岩礁の穴やオーバーハング、礁斜面。",
+      "finding_tips": "暖海のサンゴ礁で青白い小点が散る暗褐色のハタを探す。白点が識別点。"
+    },
+    "en": {
+      "summary": "Whitespotted grouper (Epinephelus coeruleopunctatus). A coral-reef grouper of warm seas including the Ryukyus, dark brown covered with pale bluish-white spots; large and site-attached, sheltering in reef holes.",
+      "habitat_hint": "Coral reefs, reef holes and overhangs, reef slopes.",
+      "finding_tips": "On warm-water reefs look for a dark-brown grouper peppered with pale white spots; the white spotting is diagnostic."
+    },
+    "zh": {
+      "summary": "ハクテンハタ（白点石斑鱼）。琉球等暖海珊瑚礁的石斑鱼科鱼，体暗褐、遍布青白小点，体大恋礁，藏于礁洞。",
+      "habitat_hint": "珊瑚礁、礁洞与悬突、礁坡。",
+      "finding_tips": "暖海珊瑚礁寻找遍布白点之暗褐石斑鱼；白点为辨识点。"
+    }
+  },
+  "Epinephelus coioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange-spotted grouper",
+    "aliases": {
+      "zh-Hans": "点带石斑鱼"
+    },
+    "ja": {
+      "summary": "チャイロマルハタ。西太平洋の沿岸やマングローブ、汽水域にもすむハタ科の大型魚。体は淡褐色でオレンジ色の斑点が散らばる。養殖対象としても重要。",
+      "habitat_hint": "沿岸の岩礁、砂泥底、マングローブや河口の汽水域。",
+      "finding_tips": "河口や岩礁でオレンジ斑点をもつ淡褐色の大型ハタを探す。斑点色と汽水耐性が手がかり。"
+    },
+    "en": {
+      "summary": "Orange-spotted grouper (Epinephelus coioides). A large West-Pacific grouper of coasts, mangroves and brackish estuaries, pale brown with scattered orange spots; an important aquaculture species.",
+      "habitat_hint": "Coastal reefs, mud-sand bottoms, mangroves and brackish estuaries.",
+      "finding_tips": "In estuaries and on reefs look for a large pale-brown grouper with orange spots; the spot colour and brackish tolerance are clues."
+    },
+    "zh": {
+      "summary": "チャイロマルハタ（点带石斑鱼）。西太平洋沿岸、红树林及咸淡水的大型石斑鱼科鱼，体淡褐、散橙斑，为重要养殖种。",
+      "habitat_hint": "沿岸岩礁、泥砂底、红树林与河口咸淡水。",
+      "finding_tips": "河口、岩礁寻找具橙斑之大型淡褐石斑鱼；橙斑与耐咸淡为线索。"
+    }
+  },
+  "Epinephelus melanostigma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "One-blotch grouper",
+    "aliases": {
+      "zh-Hans": "黑边石斑鱼"
+    },
+    "ja": {
+      "summary": "スミツキハタ。琉球列島など暖海のサンゴ礁にすむ小型のハタ科の魚。体は赤褐色の網目模様で、背びれ後方の背中に一つの黒い斑紋があるのが名の由来。",
+      "habitat_hint": "サンゴ礁、礁池、岩礁のがれ場。",
+      "finding_tips": "サンゴ礁で背に黒斑を一つもつ赤褐色網目模様の小型ハタを探す。黒斑が識別点。"
+    },
+    "en": {
+      "summary": "One-blotch grouper (Epinephelus melanostigma). A small coral-reef grouper of warm seas including the Ryukyus, reddish-brown with a fine reticulate pattern and a single black blotch on the back below the rear dorsal fin.",
+      "habitat_hint": "Coral reefs, reef flats, rubble around reefs.",
+      "finding_tips": "On reefs look for a small reddish reticulated grouper with one black saddle on the back; the single blotch is diagnostic."
+    },
+    "zh": {
+      "summary": "スミツキハタ（黑边石斑鱼）。琉球等暖海珊瑚礁的小型石斑鱼科鱼，体红褐具网纹，背鳍后方背部有一枚黑斑而得名。",
+      "habitat_hint": "珊瑚礁、礁坪、礁区碎石。",
+      "finding_tips": "珊瑚礁寻找背具单黑斑之红褐网纹小石斑鱼；黑斑为辨识点。"
+    }
+  },
+  "Epinotia salicicolana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "セシロモンヒメハマキ。ハマキガ科ヒメハマキ亜科の小型の蛾。前翅は暗褐色で、名のとおり背側に白い紋があり、ヤナギ類などが幼虫の食樹とされる。夜間に灯火に来る。",
+      "habitat_hint": "河畔林、雑木林、ヤナギの生える湿地周辺。",
+      "finding_tips": "初夏〜夏、ヤナギの多い場所の灯火で前翅の白紋をもつ小さな蛾を探す。白紋の位置が手がかり。"
+    },
+    "en": {
+      "summary": "A small tortricid moth (Epinotia salicicolana) with dark-brown forewings bearing a pale dorsal mark; as its name suggests the larvae are associated with willows. It comes to light at night.",
+      "habitat_hint": "Riverside woodland, coppice, willow-fringed wetlands.",
+      "finding_tips": "In early to mid summer look at lights near willows for a small moth with a pale mark on the forewing; the mark's position is the clue."
+    },
+    "zh": {
+      "summary": "セシロモンヒメハマキ。卷蛾科小蛾，前翅暗褐、背侧具白斑，幼虫据载食柳类，夜间趋光。",
+      "habitat_hint": "河畔林、杂木林、柳生湿地周边。",
+      "finding_tips": "初夏至夏于多柳处灯下寻找前翅具白斑之小蛾；白斑位置为线索。"
+    }
+  },
+  "Epiplema plagifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Two-tailed moth",
+    "ja": {
+      "summary": "クロオビシロフタオ。フタオガ科（ツバメガ上科）の小型の蛾で、後翅の外縁に尾状の突起が二対あるのが特徴。白っぽい地に黒い帯があり、静止時は翅を独特の形にたたむ。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁。",
+      "finding_tips": "夜間の灯火で、後翅に尾状突起をもつ白地に黒帯の小さな蛾を探す。二対の尾が識別点。"
+    },
+    "en": {
+      "summary": "A small hook-tip/epiplemid moth (Epiplema plagifera) whose hindwings bear two pairs of tail-like projections; whitish with a dark band, it folds its wings into a characteristic shape at rest.",
+      "habitat_hint": "Lowland to low-mountain coppice woodland and forest edges.",
+      "finding_tips": "At night lights look for a small whitish moth with a dark band and tailed hindwings; the paired tails are diagnostic."
+    },
+    "zh": {
+      "summary": "クロオビシロフタオ。燕蛾总科二尾蛾科小蛾，后翅外缘具两对尾状突起，白地黑带，静止时以独特姿态叠翅。",
+      "habitat_hint": "低山至平地杂木林、林缘。",
+      "finding_tips": "夜间灯下寻找后翅具尾突之白地黑带小蛾；两对尾突为辨识点。"
+    }
+  },
+  "Epipremnum pinnatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tibatib / dragon-tail plant",
+    "aliases": {
+      "zh-Hans": "麒麟叶"
+    },
+    "ja": {
+      "summary": "ハブカズラ。琉球列島や熱帯アジアに分布するサトイモ科のつる植物。気根で樹幹や岩を這い登り、成葉は羽状に深く切れ込む。観葉植物として栽培される近縁種も多い。",
+      "habitat_hint": "亜熱帯・熱帯の林内、樹幹や岩上をよじ登る。",
+      "finding_tips": "暖地の林で幹を這い上がり、羽状に切れ込む大きな葉をもつつる植物を探す。切れ込む成葉が識別点。"
+    },
+    "en": {
+      "summary": "Dragon-tail plant (Epipremnum pinnatum). An aroid climber of the Ryukyus and tropical Asia that ascends trunks and rocks by aerial roots; mature leaves are deeply pinnately divided. Close relatives are popular houseplants.",
+      "habitat_hint": "Subtropical–tropical forest, climbing trunks and rocks.",
+      "finding_tips": "In warm-region forest look for a vine climbing trunks with large deeply pinnate leaves; the split mature leaves are diagnostic."
+    },
+    "zh": {
+      "summary": "ハブカズラ（麒麟叶）。琉球及热带亚洲的天南星科藤本，以气根攀附树干岩石，成叶羽状深裂，近缘种多作观叶植物。",
+      "habitat_hint": "亚热带、热带林内，攀附树干与岩石。",
+      "finding_tips": "暖地林中寻找攀干、叶大羽状深裂之藤本；深裂成叶为辨识点。"
+    }
+  },
+  "Epitonium auritum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wentletrap",
+    "ja": {
+      "summary": "オダマキ（貝）。イトカケガイ科の小型の巻貝で、白い塔形の殻に縦に走る薄板状の肋（縦肋）が規則正しく並ぶ。潮間帯〜浅海の砂底にすみ、イソギンチャクなどに寄生的に付く。",
+      "habitat_hint": "潮間帯〜浅海の砂底、イソギンチャクの周辺。",
+      "finding_tips": "砂浜の打ち上げや浅海の砂底で、白い塔形に縦の薄板肋が並ぶ小巻貝を探す。規則的な縦肋が識別点。"
+    },
+    "en": {
+      "summary": "A wentletrap (Epitonium auritum), a small snail with a white tower-shaped shell bearing regular blade-like axial ribs. It lives on intertidal to shallow sand and associates with sea anemones, on which it feeds.",
+      "habitat_hint": "Intertidal to shallow sand, near sea anemones.",
+      "finding_tips": "In beach drift or shallow sand look for a small white tower shell with regular blade-like ribs; the neat axial ribs are diagnostic."
+    },
+    "zh": {
+      "summary": "オダマキ（贝）。梯螺科小型螺，壳白塔形、具规则片状纵肋，栖潮间带至浅海砂底，附于海葵取食。",
+      "habitat_hint": "潮间带至浅海砂底、海葵周边。",
+      "finding_tips": "海滩冲积或浅海砂底寻找白塔形具片状纵肋之小螺；规则纵肋为辨识点。"
+    }
+  },
+  "Eragrostis viscosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sticky lovegrass",
+    "ja": {
+      "summary": "ヌカカゼクサ。イネ科スズメガヤ属の一年草で、暖地の路傍や畑地、荒地に生える。花序は細かく枝分かれし、腺から粘る物質を出してべたつくのが特徴。",
+      "habitat_hint": "暖地の路傍、畑地、荒地、河原。",
+      "finding_tips": "夏〜秋、暖地の荒地で細かく枝分かれし触るとべたつく小穂をもつ小型のイネ科を探す。粘り気が手がかり。"
+    },
+    "en": {
+      "summary": "Sticky lovegrass (Eragrostis viscosa). An annual grass of warm-region roadsides, fields and waste ground, with a finely branched panicle that is sticky from glandular secretions.",
+      "habitat_hint": "Warm-region roadsides, cultivated ground, waste land, riverbanks.",
+      "finding_tips": "In summer–autumn on warm-region waste ground look for a small finely branched lovegrass whose panicle feels sticky; the stickiness is the clue."
+    },
+    "zh": {
+      "summary": "ヌカカゼクサ（黏画眉草）。禾本科画眉草属一年生草，生暖地路旁、田地与荒地，花序细密分枝，腺体分泌黏物而触之发黏。",
+      "habitat_hint": "暖地路旁、田地、荒地、河滩。",
+      "finding_tips": "夏秋于暖地荒地寻找细密分枝、触之发黏之小型画眉草；黏性为线索。"
+    }
+  },
+  "Ercheia niveostrigata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "モンシロムラサキクチバ。ヤガ科（シタバガ亜科）の中型の蛾で、前翅は紫褐色を帯び、白い筋状の斑紋が走る。夜行性で灯火に飛来し、幼虫はマメ科などを食べる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁、河畔林。",
+      "finding_tips": "夏の夜、灯火で紫褐色の地に白い筋をもつ中型の蛾を探す。白筋の並びが識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Ercheia niveostrigata), medium-sized with purplish-brown forewings crossed by whitish streaks. It is nocturnal and comes to light; larvae feed on legumes and other plants.",
+      "habitat_hint": "Lowland to low-mountain coppice, forest edges, riverside woods.",
+      "finding_tips": "On summer nights look at lights for a medium purplish-brown moth with white streaks; the pattern of white lines is the clue."
+    },
+    "zh": {
+      "summary": "モンシロムラサキクチバ。裳蛾科中型蛾，前翅紫褐、贯以白色条纹，夜行趋光，幼虫食豆科等。",
+      "habitat_hint": "低山至平地杂木林、林缘、河畔林。",
+      "finding_tips": "夏夜灯下寻找紫褐地具白纹之中型蛾；白纹排列为辨识点。"
+    }
+  },
+  "Ercolania boodleae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sacoglossan sea slug",
+    "ja": {
+      "summary": "アリモウミウシ。嚢舌目（サコグロッサ）の小型のウミウシで、緑藻のアオモグサ（Boodlea）などに付き、細胞内容を吸って食べる。体は緑色を帯び、背中に多数の突起（cerata）をもつ。",
+      "habitat_hint": "潮間帯〜浅海の緑藻の茂み、タイドプール。",
+      "finding_tips": "潮だまりの緑藻をよく見て、緑がかった体に突起の並ぶ数mmの小さなウミウシを探す。緑藻上にいるのが手がかり。"
+    },
+    "en": {
+      "summary": "A sacoglossan sea slug (Ercolania boodleae) that lives on green algae such as Boodlea and sucks out their cell contents. The greenish body carries many dorsal cerata.",
+      "habitat_hint": "Intertidal to shallow green-algal turf and tide pools.",
+      "finding_tips": "Search green algae in tide pools for a few-millimetre greenish slug with rows of cerata; its presence on green algae is the clue."
+    },
+    "zh": {
+      "summary": "アリモウミウシ。囊舌目小型海蛞蝓，附于刚毛藻（Boodlea）等绿藻、吸食细胞内容，体带绿、背具多数突起。",
+      "habitat_hint": "潮间带至浅海绿藻丛、潮池。",
+      "finding_tips": "细察潮池绿藻寻找体带绿、具突起之数毫米小海蛞蝓；栖于绿藻为线索。"
+    }
+  },
+  "Ericeia pertendens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "ウスムラサキクチバ。ヤガ科（シタバガ亜科）の中型の蛾で、前翅は淡い紫褐色を帯び、横に走る細い線をもつ。夜行性で灯火に来る。幼虫はマメ科植物などを食べる。",
+      "habitat_hint": "低山地〜平地の雑木林、林縁。",
+      "finding_tips": "夏の夜、灯火で淡い紫褐色に細い横線をもつ中型の蛾を探す。落ち着いた紫褐色が手がかり。"
+    },
+    "en": {
+      "summary": "An erebid moth (Ericeia pertendens), medium-sized with pale purplish-brown forewings crossed by fine transverse lines. It is nocturnal and comes to light; larvae feed on legumes and related plants.",
+      "habitat_hint": "Lowland to low-mountain coppice woodland and forest edges.",
+      "finding_tips": "On summer nights look at lights for a medium moth of muted purplish-brown with fine cross-lines; the subdued colour is the clue."
+    },
+    "zh": {
+      "summary": "ウスムラサキクチバ。裳蛾科中型蛾，前翅淡紫褐、具细横线，夜行趋光，幼虫食豆科等。",
+      "habitat_hint": "低山至平地杂木林、林缘。",
+      "finding_tips": "夏夜灯下寻找淡紫褐具细横线之中型蛾；柔和紫褐为线索。"
+    }
+  },
+  "Erigeron acris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bitter fleabane",
+    "aliases": {
+      "zh-Hans": "飞蓬"
+    },
+    "ja": {
+      "summary": "エゾムカシヨモギ。北日本や高地の草原・礫地に生えるキク科ムカシヨモギ属の二年草。細い茎の先に淡紫色の小さな頭花を多数つけ、舌状花は糸のように細い。",
+      "habitat_hint": "山地〜高地の草原、河原、礫地、路傍。",
+      "finding_tips": "夏、山地の草原で細い舌状花の淡紫色の小頭花を多数つける直立草を探す。糸状の舌状花が識別点。"
+    },
+    "en": {
+      "summary": "Bitter fleabane (Erigeron acris). A biennial of northern and montane grasslands and gravels, bearing many small pale-purple heads on slender stems, with thread-like ray florets.",
+      "habitat_hint": "Montane to alpine grassland, riverbanks, gravel, roadsides.",
+      "finding_tips": "In summer on upland grassland look for an erect plant with many small pale-purple heads and hair-fine rays; the thread-like rays are diagnostic."
+    },
+    "zh": {
+      "summary": "エゾムカシヨモギ（飞蓬）。菊科飞蓬属二年生草，生北方及山地草原砾地，细茎顶生多数淡紫小头状花，舌状花丝状。",
+      "habitat_hint": "山地至高山草原、河滩、砾地、路旁。",
+      "finding_tips": "夏于山地草原寻找具多数淡紫小头花、舌状花丝状之直立草；丝状舌花为辨识点。"
+    }
+  },
+  "Erigeron bellioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rocky Mountain fleabane",
+    "ja": {
+      "summary": "コケセンボンギクモドキ。熱帯アメリカ原産で暖地に帰化したキク科の小型の一年草。地面を這うように低く広がり、ごく小さな白〜淡紫色の頭花をつける。芝地や路傍で見られる。",
+      "habitat_hint": "暖地の芝地、路傍、庭、公園の隙間。",
+      "finding_tips": "暖地の芝生や路傍で地を低く這い、極小の頭花をつける小さなキク科を探す。矮小で這う姿が手がかり。"
+    },
+    "en": {
+      "summary": "A small annual fleabane (Erigeron bellioides), native to tropical America and naturalised in warm regions of Japan. It spreads low over the ground and bears very small white to pale-purple heads, appearing in lawns and on roadsides.",
+      "habitat_hint": "Warm-region lawns, roadsides, gardens, pavement gaps.",
+      "finding_tips": "In warm-region lawns look for a tiny prostrate daisy with very small heads; its dwarf creeping habit is the clue."
+    },
+    "zh": {
+      "summary": "コケセンボンギクモドキ。原产热带美洲、归化暖地的菊科小型一年生草，贴地低展、头花极小、白至淡紫，见于草坪路旁。",
+      "habitat_hint": "暖地草坪、路旁、庭园、铺装缝隙。",
+      "finding_tips": "暖地草坪寻找贴地铺展、头花极小之小型菊科；矮小匍匐为线索。"
+    }
+  },
+  "Erigeron kamtschaticus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamchatka fleabane",
+    "ja": {
+      "summary": "ムカシヨモギ。北日本や本州の山地の草原・礫地に生えるキク科ムカシヨモギ属の越年草。エゾムカシヨモギに近く、淡紫色〜白色の細い舌状花をもつ小さな頭花を多数つける。",
+      "habitat_hint": "山地〜低地の草原、河原、路傍、礫地。",
+      "finding_tips": "夏、草原や河原で細い舌状花の小頭花を多数つける直立草を探す。エゾムカシヨモギに似るが分布・毛の様子で区別。"
+    },
+    "en": {
+      "summary": "Kamchatka fleabane (Erigeron kamtschaticus). A winter-annual of northern and montane grasslands and gravels, close to E. acris, bearing many small heads with fine pale-purple to white ray florets.",
+      "habitat_hint": "Montane to lowland grassland, riverbanks, roadsides, gravel.",
+      "finding_tips": "In summer on grassland look for an erect plant with many small heads and fine rays; distinguished from E. acris by range and hairiness."
+    },
+    "zh": {
+      "summary": "ムカシヨモギ（堪察加飞蓬）。菊科飞蓬属越年生草，生北方及山地草原砾地，近似飞蓬，多数小头花具淡紫至白细舌状花。",
+      "habitat_hint": "山地至低地草原、河滩、路旁、砾地。",
+      "finding_tips": "夏于草原寻找具多数小头花、细舌状花之直立草；与飞蓬以分布及被毛区别。"
+    }
+  },
+  "Erimacrus isenbeckii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Horsehair crab",
+    "aliases": {
+      "zh-Hans": "伊氏毛甲蟹"
+    },
+    "ja": {
+      "summary": "ケガニ。北日本の冷たい海の砂泥底にすむクリガニ科のカニで、甲羅全体が短い剛毛におおわれる。北海道の代表的な食用ガニとして珍重される。",
+      "habitat_hint": "水深十〜数百mの冷たい砂泥底。",
+      "finding_tips": "北の海の底引きや市場で、甲全体が毛におおわれた栗色のカニを探す。全身の毛が識別点。"
+    },
+    "en": {
+      "summary": "Horsehair crab (Erimacrus isenbeckii). A crab of cold northern seas over sand-mud bottoms, its whole carapace covered in short stiff hairs; it is a prized food crab of Hokkaido.",
+      "habitat_hint": "Cold sand-mud bottoms from tens to hundreds of metres deep.",
+      "finding_tips": "In northern trawl catches or markets look for a chestnut crab whose whole shell is furry; the all-over hair is diagnostic."
+    },
+    "zh": {
+      "summary": "ケガニ（伊氏毛甲蟹）。北方冷海砂泥底的栗蟹科蟹，甲面遍布短硬毛，为北海道著名食用蟹。",
+      "habitat_hint": "水深数十至数百米之冷砂泥底。",
+      "finding_tips": "北方拖网或市场寻找甲面遍布毛之栗色蟹；满身硬毛为辨识点。"
+    }
+  },
+  "Eristalis kyokoae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Drone fly",
+    "ja": {
+      "summary": "キョウコシマハナアブ。ハナアブ科ハナアブ属の中型のアブで、腹部に黄色や黒の縞模様をもちミツバチに似せた擬態をする。成虫は花に集まり、幼虫は水たまりなどの有機物に富む水中で育つ。",
+      "habitat_hint": "草原、林縁、湿地、花の多い場所。",
+      "finding_tips": "春〜秋、花の上でミツバチに似た縞模様のハナアブを探す。ホバリングと大きな複眼が手がかり。"
+    },
+    "en": {
+      "summary": "A drone fly (Eristalis kyokoae), a medium hoverfly with a yellow-and-black banded abdomen mimicking a honeybee. Adults visit flowers, and larvae develop in organic-rich water such as puddles.",
+      "habitat_hint": "Grassland, forest edges, wetlands, flowery places.",
+      "finding_tips": "From spring to autumn watch flowers for a bee-like banded hoverfly; the hovering and large eyes are the clue."
+    },
+    "zh": {
+      "summary": "キョウコシマハナアブ。食蚜蝇科管蚜蝇属中型蝇，腹具黄黑条纹拟蜜蜂，成虫访花，幼虫生于富有机质水中。",
+      "habitat_hint": "草原、林缘、湿地、花多之处。",
+      "finding_tips": "春至秋于花上寻找似蜜蜂之条纹食蚜蝇；悬停与大复眼为线索。"
+    }
+  },
+  "Etrumeus sadina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-eye round herring",
+    "aliases": {
+      "zh-Hans": "脂眼鲱"
+    },
+    "ja": {
+      "summary": "ウルメイワシ。沿岸〜沖合を群れで泳ぐニシン科の回遊魚で、イワシ類の一つ。目が大きく脂瞼（脂で覆われた膜）におおわれて潤んで見えるのが名の由来。丸干しや目刺しにされる。",
+      "habitat_hint": "沿岸〜沖合の表層、群れで回遊。",
+      "finding_tips": "定置網や市場で、目が大きく潤んで見える細長い銀白色のイワシを探す。大きな脂瞼の目が識別点。"
+    },
+    "en": {
+      "summary": "Red-eye round herring (Etrumeus sadina). A schooling clupeid of coastal to offshore waters and one of the Japanese “sardines”; its large eye is covered by an adipose eyelid, giving a moist look that names it. It is dried whole for food.",
+      "habitat_hint": "Coastal to offshore surface waters, migrating in schools.",
+      "finding_tips": "In set nets or markets look for a slender silvery sardine with a large moist-looking eye; the big adipose-lidded eye is diagnostic."
+    },
+    "zh": {
+      "summary": "ウルメイワシ（脂眼鲱）。鲱科洄游鱼，为日本沙丁鱼之一，眼大而覆脂睑显湿润而得名，常制丸干。",
+      "habitat_hint": "沿岸至外海表层，成群洄游。",
+      "finding_tips": "定置网或市场寻找眼大湿润之细长银白沙丁鱼；大脂睑眼为辨识点。"
+    }
+  },
+  "Eubranchus virginalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ジョオウミノウミウシ。ミノウミウシ類（Eubranchus属）の小型のウミウシで、背に膨らんだこぶ状の突起（cerata）が並ぶ。ヒドロ虫を餌とし、潮間帯〜浅海の海藻やヒドロ虫の群体の上で見られる。",
+      "habitat_hint": "潮間帯〜浅海のヒドロ虫の群体、海藻上。",
+      "finding_tips": "潮だまりのヒドロ虫をよく見て、背にこぶ状の突起が並ぶ数mmの小さなウミウシを探す。膨れた突起が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (Eubranchus virginalis), a small sea slug with rows of swollen knob-like cerata on the back. It feeds on hydroids and occurs on algae and hydroid colonies from the intertidal into shallow water.",
+      "habitat_hint": "Intertidal to shallow hydroid colonies and algae.",
+      "finding_tips": "Examine tide-pool hydroids for a few-millimetre slug with rows of inflated cerata; the swollen knobs are diagnostic."
+    },
+    "zh": {
+      "summary": "ジョオウミノウミウシ。Eubranchus属小型海蛞蝓，背具成列膨大瘤状突起（cerata），食水螅，见于潮间带至浅海海藻与水螅群体。",
+      "habitat_hint": "潮间带至浅海水螅群体、海藻上。",
+      "finding_tips": "细察潮池水螅寻找背具膨大瘤突之数毫米小海蛞蝓；膨突为辨识点。"
+    }
+  },
+  "Eucalyptus melliodora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow box",
+    "ja": {
+      "summary": "シダレユーカリ（イエローボックス）。オーストラリア原産のフトモモ科ユーカリ属の高木で、公園や街路に植栽される。細い葉が枝から垂れ下がり、香りのよい花は良質の蜂蜜源として知られる。",
+      "habitat_hint": "公園、街路、植物園などの植栽地（暖温帯）。",
+      "finding_tips": "公園でなめらかな樹皮と垂れ下がる細い葉、ユーカリ特有の香りをもつ高木を探す。垂れる葉と芳香が手がかり。"
+    },
+    "en": {
+      "summary": "Yellow box (Eucalyptus melliodora). An Australian eucalypt planted in parks and streets; slender leaves hang from the branches and its fragrant flowers yield a prized honey.",
+      "habitat_hint": "Parks, streets and botanical gardens in warm-temperate areas.",
+      "finding_tips": "In parks look for a tree with smooth bark, hanging narrow leaves and the typical eucalyptus scent; the drooping foliage and aroma are the clue."
+    },
+    "zh": {
+      "summary": "シダレユーカリ（黄箱桉）。原产澳大利亚的桃金娘科桉属乔木，植于公园街道，细叶下垂，花香为优质蜜源。",
+      "habitat_hint": "暖温带公园、街道、植物园等植栽地。",
+      "finding_tips": "公园寻找树皮光滑、细叶下垂、具桉树香气之乔木；垂叶与芳香为线索。"
+    }
+  },
+  "Eugraphe sigma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "マエウスヤガ。ヤガ科モンヤガ亜科の中型の蛾で、前翅は褐色を帯び、腎状紋・環状紋などヤガらしい斑紋をもつ。夜行性で灯火に来て、幼虫は各種の草本を食べる地際性の芋虫。",
+      "habitat_hint": "山地〜低地の草原、林縁、雑木林。",
+      "finding_tips": "夜間の灯火で、前翅に腎状紋をもつ褐色の中型ヤガを探す。落ち着いた褐色と斑紋が手がかり。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Eugraphe sigma), medium-sized with brownish forewings bearing the typical kidney and orbicular spots. It is nocturnal and comes to light; larvae are ground-dwelling cutworms feeding on various herbs.",
+      "habitat_hint": "Montane to lowland grassland, forest edges, coppice.",
+      "finding_tips": "At night lights look for a brown medium noctuid with a kidney-shaped mark; the muted brown and spots are the clue."
+    },
+    "zh": {
+      "summary": "マエウスヤガ。夜蛾科中型蛾，前翅褐色、具肾形与环形斑等典型夜蛾斑纹，夜行趋光，幼虫为地栖切根虫食多种草本。",
+      "habitat_hint": "山地至低地草原、林缘、杂木林。",
+      "finding_tips": "夜间灯下寻找前翅具肾形斑之褐色中型夜蛾；柔褐与斑纹为线索。"
+    }
+  },
+  "Euhadra nachicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "ナチマイマイ。紀伊半島の那智周辺に分布するオナジマイマイ科の陸産巻貝で、比較的大型。殻は右巻きで色帯をもつことが多く、分布の限られる地域固有性の強い種。",
+      "habitat_hint": "照葉樹林や渓谷沿いの林床、湿った岩場。",
+      "finding_tips": "梅雨〜夏の雨の日、紀伊半島南部の林で色帯をもつ大きめの右巻きマイマイを探す。分布地と色帯が手がかり。"
+    },
+    "en": {
+      "summary": "A land snail (Euhadra nachicola) of the Nachi area of the Kii Peninsula, a fairly large bradybaenid; the dextral shell often bears colour bands, and the species is strongly local in range.",
+      "habitat_hint": "Evergreen broadleaf forest floor and damp rocks along valleys.",
+      "finding_tips": "On rainy days in early summer in southern Kii forests look for a largish banded dextral snail; the locality and colour bands are the clue."
+    },
+    "zh": {
+      "summary": "ナチマイマイ。分布纪伊半岛那智一带的同型巴蜗牛科陆生螺，体较大，壳右旋、常具色带，地域特有性强。",
+      "habitat_hint": "照叶林及溪谷林床、湿润岩地。",
+      "finding_tips": "梅雨至夏雨日于纪伊半岛南部林中寻找具色带之较大右旋蜗牛；产地与色带为线索。"
+    }
+  },
+  "Eumenes rubrofemoratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potter wasp",
+    "ja": {
+      "summary": "キアシトックリバチ。ドロバチ科（トックリバチ類）の狩りバチで、細くくびれた腹をもつ。泥で徳利（とっくり）形の巣を作り、麻酔した蛾の幼虫を詰めて卵を産む。脚が黄色みを帯びる。",
+      "habitat_hint": "草原、林縁、人家周辺、泥のとれる水辺。",
+      "finding_tips": "夏、花や泥のある場所で腹の細くくびれた黄脚の狩りバチを探す。徳利形の泥巣も手がかり。"
+    },
+    "en": {
+      "summary": "A potter wasp (Eumenes rubrofemoratus) with a slender waisted abdomen. It builds a flask-shaped mud nest, provisions it with paralysed caterpillars and lays an egg inside; the legs are yellowish.",
+      "habitat_hint": "Grassland, forest edges, near houses, muddy waterside.",
+      "finding_tips": "In summer at flowers or mud look for a slim waisted wasp with yellowish legs; the little flask-shaped mud pot is also a clue."
+    },
+    "zh": {
+      "summary": "キアシトックリバチ。蜾蠃科狩猎蜂，腹细具柄，以泥筑徳利（酒壶）形巢、储麻痹之蛾幼虫产卵，足带黄色。",
+      "habitat_hint": "草原、林缘、人居周边、可取泥之水边。",
+      "finding_tips": "夏于花或泥处寻找腹细具柄、黄足之狩猎蜂；壶形泥巢亦为线索。"
+    }
   }
 }
