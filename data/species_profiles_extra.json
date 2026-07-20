@@ -277956,5 +277956,512 @@
       "habitat_hint": "北方岩礁潮间带下部至潮下带、冷海。",
       "finding_tips": "北方岩礁寻掌状分裂之红紫柔软叶状藻；扁平掌状叶体为辨识点。"
     }
+  },
+  "Panilla petrina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Litter moth",
+    "ja": {
+      "summary": "オオトウアツバ。ヤガ科アツバ亜科(またはトモエガ科)のガで、前翅は褐色で暗色の横線をもつ。下唇鬚(かしんしゅ)が前に突き出すアツバ類の一つ。林や林縁にすみ、幼虫は枯葉などを食べる。灯火に飛来する。",
+      "habitat_hint": "樹林、林縁、雑木林。",
+      "finding_tips": "初夏〜秋の夜、灯火で下唇鬚が前に突き出た褐色のガを探す。前に突き出た口(鬚)がアツバ類の手がかり。"
+    },
+    "en": {
+      "summary": "A litter moth (Panilla petrina), an erebid moth with brown forewings crossed by darker lines and the forward-projecting palps typical of the group; it lives in and around woodland where the larvae eat dead leaves, and comes to light.",
+      "habitat_hint": "Woodland, woodland edges, coppice.",
+      "finding_tips": "On summer nights at lights look for a brown moth with palps thrust forward; those projecting mouthparts are the clue."
+    },
+    "zh": {
+      "summary": "オオトウアツバ。夜蛾科（裳蛾类）之蛾，前翅褐色具暗横线，下唇须前伸为其类特征，栖树林林缘，幼虫食枯叶，趋光。",
+      "habitat_hint": "树林、林缘、杂木林。",
+      "finding_tips": "初夏至秋夜于灯下寻下唇须前伸之褐蛾；前伸口须为辨识点。"
+    }
+  },
+  "Paracolax bilineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Litter moth",
+    "ja": {
+      "summary": "ニセミスジアツバ。ヤガ科アツバ亜科のガで、前翅は淡褐色で数本の細い横線をもつ。林や林縁にすみ、幼虫は落葉や枯れた植物を食べる。よく似たミスジアツバに紛れることが名の由来。灯火に飛来する。",
+      "habitat_hint": "樹林、林縁、雑木林。",
+      "finding_tips": "初夏〜秋の夜、灯火で淡褐色に細い横線をもつ小型のガを探す。細い横線の並びが手がかり。"
+    },
+    "en": {
+      "summary": "A litter moth (Paracolax bilineata), an erebid with pale-brown forewings crossed by several fine lines; it lives in woodland where the larvae eat leaf litter and dead plant matter, and comes to light. Its Japanese name notes its likeness to a related species.",
+      "habitat_hint": "Woodland, woodland edges, coppice.",
+      "finding_tips": "On summer nights at lights look for a small pale-brown moth with fine cross-lines; the pattern of lines is the clue."
+    },
+    "zh": {
+      "summary": "ニセミスジアツバ。夜蛾科裳蛾类，前翅淡褐具数条细横线，栖树林林缘，幼虫食落叶枯株，因似近种而得名，趋光。",
+      "habitat_hint": "树林、林缘、杂木林。",
+      "finding_tips": "初夏至秋夜于灯下寻淡褐具细横线之小蛾；细横线排列为辨识点。"
+    }
+  },
+  "Paradelphacodes paludosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Planthopper",
+    "ja": {
+      "summary": "エゾトビウンカ。ウンカ科の小型の昆虫で、湿地やヨシ原などのイネ科・カヤツリグサ科の生える湿った草地にすむ。植物の茎から汁を吸い、危険を感じると跳ねて逃げる。翅の長い型と短い型がある。",
+      "habitat_hint": "湿地、ヨシ原、湿った草地。",
+      "finding_tips": "夏、湿地の草をすくい網ですくって、跳ねて逃げる数mmの小さなウンカを探す。湿地環境と跳躍が手がかり。"
+    },
+    "en": {
+      "summary": "A planthopper (Paradelphacodes paludosus), a small delphacid of wetlands and reed beds where grasses and sedges grow; it sucks sap from plant stems and springs away when disturbed, occurring in long- and short-winged forms.",
+      "habitat_hint": "Wetlands, reed beds, damp grassland.",
+      "finding_tips": "In summer sweep-net wet grassland for a tiny hopper a few mm long that springs away; its wetland setting and jump are the clues."
+    },
+    "zh": {
+      "summary": "エゾトビウンカ。飞虱科小型昆虫，栖湿地、芦苇丛等生禾草莎草之湿草地，吸茎汁、受扰弹跳，具长翅与短翅型。",
+      "habitat_hint": "湿地、芦苇丛、湿草地。",
+      "finding_tips": "夏于湿草地扫网寻数毫米弹跳之小飞虱；湿地环境与跳跃为辨识点。"
+    }
+  },
+  "Paradromius ruficollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "チャバネホソアトキリゴミムシ。オサムシ科アトキリゴミムシ類の細身の甲虫で、前翅(上翅)が茶色を帯びる。ヨシ原や湿った草地の植物の茎や葉の上で活動し、小さな昆虫を捕食する。名のとおり体が細長い。",
+      "habitat_hint": "ヨシ原、湿った草地、植物の茎や葉の上。",
+      "finding_tips": "春〜秋、ヨシ原や湿地の草の上で、茶色い上翅をもつ細身のゴミムシを探す。細長い体つきが手がかり。"
+    },
+    "en": {
+      "summary": "A ground beetle (Paradromius ruficollis), a slender lebiine carabid with brownish elytra; it lives up on the stems and leaves of reeds and damp grassland, hunting small insects, and is notably narrow-bodied.",
+      "habitat_hint": "Reed beds, damp grassland, on plant stems and leaves.",
+      "finding_tips": "From spring to autumn on reed or grass stems look for a slender ground beetle with brown wing-cases; the narrow body is the clue."
+    },
+    "zh": {
+      "summary": "チャバネホソアトキリゴミムシ。步甲科细身甲虫，鞘翅带褐，栖芦苇丛与湿草地之茎叶上，捕食小虫，体细长如名。",
+      "habitat_hint": "芦苇丛、湿草地、植物茎叶上。",
+      "finding_tips": "春秋于芦苇湿地草上寻褐鞘之细身步甲；细长体为辨识点。"
+    }
+  },
+  "Parapercis pacifica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sandperch",
+    "ja": {
+      "summary": "オグロトラギス。サンゴ礁や岩礁周辺の砂底にすむトラギス科の小魚で、体側に暗色の横帯が並ぶ。砂底に腹をつけて静止し、近づく小動物を捕らえる。尾びれに黒い模様をもつのが名の由来。",
+      "habitat_hint": "サンゴ礁・岩礁周辺の砂底、潮下帯。",
+      "finding_tips": "潮下帯の砂底で、横帯をもち砂の上に腹をつけて静止する小魚を探す。尾の黒い模様と横帯が識別点。"
+    },
+    "en": {
+      "summary": "A sandperch (Parapercis pacifica), a small pinguipedid of sandy patches around coral and rocky reefs, banded darkly on the sides; it rests belly-down on the sand and darts at passing prey, with a dark tail marking that names it.",
+      "habitat_hint": "Sandy patches around coral and rocky reefs, subtidal.",
+      "finding_tips": "In the subtidal on sand look for a banded fish resting belly-down; the dark tail mark and side bars are the clues."
+    },
+    "zh": {
+      "summary": "オグロトラギス。虎鳉科（拟鲈科）小鱼，栖珊瑚礁岩礁周边砂底，体侧具暗横带，伏砂静候捕近旁小动物，尾具黑纹而得名。",
+      "habitat_hint": "珊瑚礁、岩礁周边砂底、潮下带。",
+      "finding_tips": "潮下带砂底寻具横带伏砂之小鱼；尾黑纹与横带为辨识点。"
+    }
+  },
+  "Parapholas quadrizonata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Piddock",
+    "ja": {
+      "summary": "モモガイ。ニオガイ科の二枚貝で、岩や硬い泥岩に穴をあけて内部にすむ穿孔性の貝(いわゆる石を穿つ貝)。殻の前部にやすり状の彫刻があり、これで岩を削って掘り進む。殻は白く、掘った穴の中で一生を過ごす。",
+      "habitat_hint": "岩・泥岩・硬い底質に穿孔、潮間帯〜浅海。",
+      "finding_tips": "海岸の岩や泥岩にあいた丸い穴を割って、中にすむ白い二枚貝を探す。岩に穿孔する習性が識別点。"
+    },
+    "en": {
+      "summary": "A piddock (Parapholas quadrizonata), a boring bivalve of the Pholadidae that drills into rock and hard mudstone and lives inside; the front of the white shell bears file-like sculpture used to rasp its burrow, where it spends its life.",
+      "habitat_hint": "Bored into rock, mudstone and hard substrate, intertidal to shallow sea.",
+      "finding_tips": "Break open round holes in shore rock or mudstone to find the white bivalve within; the rock-boring habit is the clue."
+    },
+    "zh": {
+      "summary": "モモガイ。海笋科二枚贝，钻凿岩石与硬泥岩而居其内之穿孔贝，壳前具锉状雕刻以磨掘洞穴，壳白，终生居于所凿之洞。",
+      "habitat_hint": "钻凿岩石、泥岩、硬底质，潮间至浅海。",
+      "finding_tips": "敲开海岸岩或泥岩之圆孔寻内居白色二枚贝；穿凿岩石之习为辨识点。"
+    }
+  },
+  "Parapsestis umbrosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "ウスジロトガリバ。カギバガ科トガリバ亜科のガで、前翅は灰白色〜淡褐色で暗色の陰影や横線をもつ。山地や林にすみ、幼虫は広葉樹の葉を食べる。灯火に飛来する。地味だが翅の陰影が美しい。",
+      "habitat_hint": "山地の樹林、林縁、雑木林。",
+      "finding_tips": "春〜初夏の夜、灯火で灰白色に暗い陰影をもつ中型のガを探す。翅の淡い地色と陰影が手がかり。"
+    },
+    "en": {
+      "summary": "A thyatirine moth (Parapsestis umbrosa), a drepanid with greyish-white to pale-brown forewings shaded and lined darkly; it lives in montane woodland where the larvae eat broadleaf foliage, and comes to light.",
+      "habitat_hint": "Montane woodland, woodland edges, coppice.",
+      "finding_tips": "On spring nights at lights look for a medium greyish moth with dark shading; the pale ground colour with shadowing is the clue."
+    },
+    "zh": {
+      "summary": "ウスジロトガリバ。钩蛾科（波纹蛾类）之蛾，前翅灰白至淡褐、具暗晕与横线，栖山地林，幼虫食阔叶，趋光。",
+      "habitat_hint": "山地树林、林缘、杂木林。",
+      "finding_tips": "春至初夏夜于灯下寻灰白具暗晕之中型蛾；淡地色带晕为辨识点。"
+    }
+  },
+  "Parasa sinica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slug moth",
+    "ja": {
+      "summary": "クロシタアオイラガ。イラガ科のガで、前翅は鮮やかな緑色で縁が褐色を帯びる。幼虫はナメクジ状で、体に毒のあるとげをもち、触れると激しく痛む(いわゆる電気虫)。広葉樹の葉を食べ、公園の樹木でも見られる。",
+      "habitat_hint": "広葉樹の樹上・林縁、公園や庭の木。",
+      "finding_tips": "夏、広葉樹の葉裏でとげのある緑色のナメクジ状の幼虫を探す(素手で触れない)。成虫は緑の翅が識別点。"
+    },
+    "en": {
+      "summary": "A slug moth (Parasa sinica), a limacodid with bright green forewings edged brown; its slug-like caterpillar bears venomous stinging spines that cause a sharp burning sting if touched. It feeds on broadleaf foliage and appears on park trees.",
+      "habitat_hint": "Broadleaf trees and woodland edges, park and garden trees.",
+      "finding_tips": "In summer check the underside of broadleaf leaves for a spiny green slug-like caterpillar (do not touch); the adult's green wings are the clue."
+    },
+    "zh": {
+      "summary": "クロシタアオイラガ。刺蛾科之蛾，前翅鲜绿、缘带褐，幼虫似蛞蝓、体具毒刺，触之剧痛（俗称电虫），食阔叶，公园树木亦见。",
+      "habitat_hint": "阔叶树上、林缘、公园庭园树。",
+      "finding_tips": "夏于阔叶叶背寻具刺绿色蛞蝓状幼虫（勿徒手触碰）；成虫绿翅为辨识点。"
+    }
+  },
+  "Parasenecio nipponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシコウモリソウ。山地の林内や林縁に生えるキク科の多年草で、コウモリが翼を広げたような形の大きな葉が名の由来。夏〜秋、細い花茎に白っぽい筒状花からなる小さな頭花を多数つける。九州(筑紫)を中心に分布。",
+      "habitat_hint": "山地の林内・林縁、やや湿った樹陰。",
+      "finding_tips": "夏〜秋、山地の林内でコウモリ形の大きな葉と白っぽい小さな頭花を探す。翼を広げたような葉が識別点。"
+    },
+    "en": {
+      "summary": "A bat-leaf ragwort (Parasenecio nipponicus), a daisy-family perennial of montane woodland interiors and edges named for its large bat-wing-shaped leaves; in late summer to autumn it bears many small whitish tubular-flowered heads on slender stalks, centred on Kyushu.",
+      "habitat_hint": "Montane woodland interiors and edges, damp shade.",
+      "finding_tips": "In late summer to autumn in mountain woods look for large bat-wing leaves and small whitish flower heads; the winged leaf is the clue."
+    },
+    "zh": {
+      "summary": "ツクシコウモリソウ。菊科多年草，生山地林内林缘，大叶如蝙蝠展翼而得名，夏秋细茎生多数白色管状花之小头状花，以九州为中心分布。",
+      "habitat_hint": "山地林内林缘、稍湿树荫。",
+      "finding_tips": "夏秋于山地林内寻蝙蝠形大叶与白色小头状花；展翼状叶为辨识点。"
+    }
+  },
+  "Parasteatoda culicivora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cobweb spider",
+    "ja": {
+      "summary": "カグヤヒメグモ。ヒメグモ科の小型のクモで、不規則な立体網(いわゆる不規則網)を張って小さな昆虫を捕らえる。名は蚊などをよく捕食することに由来する。人家周辺や林縁の低い位置に網を張る。",
+      "habitat_hint": "人家周辺、林縁、低木や物陰の低い位置。",
+      "finding_tips": "物陰や低木の間に張られた不規則な立体網と、小さなクモを探す。乱れた立体網が識別点。"
+    },
+    "en": {
+      "summary": "A cobweb spider (Parasteatoda culicivora), a small theridiid that spins an irregular tangle web to catch small insects; its name notes that it often preys on mosquitoes. It webs low around buildings and woodland edges.",
+      "habitat_hint": "Around buildings, woodland edges, low tangles in shade.",
+      "finding_tips": "In shaded corners or low shrubs look for an irregular 3-D tangle web with a small spider; the messy tangle web is the clue."
+    },
+    "zh": {
+      "summary": "カグヤヒメグモ。球腹蛛科小型蜘蛛，结不规则立体网捕小虫，名取其常捕蚊，多于人居周边与林缘低处结网。",
+      "habitat_hint": "人居周边、林缘、灌木物荫低处。",
+      "finding_tips": "于物荫或低灌间寻不规则立体网与小蛛；杂乱立体网为辨识点。"
+    }
+  },
+  "Paratalanta ussurialis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass moth",
+    "ja": {
+      "summary": "フチグロノメイガ。ツトガ科ノメイガ亜科のガで、翅は淡黄色で縁が黒褐色に縁取られるのが名の由来。草地や林縁にすみ、幼虫は草本植物の葉を食べる。日中に草むらから飛び立つこともあり、灯火にも飛来する。",
+      "habitat_hint": "草地、林縁、河川敷など。",
+      "finding_tips": "初夏〜秋、草地で淡黄色に縁が黒い中型のメイガを探す。翅の黒い縁取りが識別点。"
+    },
+    "en": {
+      "summary": "A grass moth (Paratalanta ussurialis), a crambid whose pale-yellow wings are bordered dark brown (the source of its Japanese name); it lives in grassland and woodland edges where the larvae eat herbaceous foliage, flushing by day and coming to light.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks.",
+      "finding_tips": "From early summer look in grassland for a medium pale-yellow moth with dark wing borders; the dark margin is the clue."
+    },
+    "zh": {
+      "summary": "フチグロノメイガ。草螟科（野螟类）之蛾，翅淡黄、缘镶黑褐而得名，栖草地林缘，幼虫食草本叶，昼可惊飞、亦趋光。",
+      "habitat_hint": "草地、林缘、河滩等。",
+      "finding_tips": "初夏至秋于草地寻淡黄缘黑之中型螟蛾；翅缘黑边为辨识点。"
+    }
+  },
+  "Paratectonatica tigrina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moon snail",
+    "ja": {
+      "summary": "ヘソクリ。内湾や浅海の砂底にすむタマガイ科の肉食性の巻貝で、殻は丸く光沢があり、表面に暗色の小斑が散る(tigrina＝虎斑)。臍孔が塞がっている(名の由来)。砂に潜り、二枚貝の殻に穴をあけて中身を食べる。",
+      "habitat_hint": "内湾・浅海の砂底、干潟、潮下帯。",
+      "finding_tips": "干潟や砂浜で、丸く光沢があり暗斑の散る巻貝を探す。二枚貝にあいた円い穴も本種など肉食巻貝の手がかり。"
+    },
+    "en": {
+      "summary": "A moon snail (Paratectonatica tigrina), a predatory naticid of bay and shallow sandy bottoms with a rounded glossy shell speckled darkly (tigrina = tiger-spotted) and a closed umbilicus (naming it in Japanese); it burrows in sand and drills bivalves to eat them.",
+      "habitat_hint": "Bay and shallow sandy bottoms, tidal flats, subtidal.",
+      "finding_tips": "On flats or sand look for a rounded glossy snail with dark speckles; neat round holes drilled in clam shells are a further clue."
+    },
+    "zh": {
+      "summary": "ヘソクリ。玉螺科肉食海螺，栖内湾浅海砂底，壳圆有光泽、面散暗斑（tigrina＝虎斑）、脐孔封闭而得名，潜砂钻食二枚贝。",
+      "habitat_hint": "内湾、浅海砂底、潮滩、潮下带。",
+      "finding_tips": "潮滩沙滩寻圆润光泽散暗斑之螺；蛤壳上圆钻孔为肉食螺辨识点。"
+    }
+  },
+  "Parupeneus ciliatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goatfish",
+    "ja": {
+      "summary": "ホウライヒメジ。サンゴ礁や岩礁周辺の砂底にすむヒメジ科の魚で、下あごに一対の長いひげ(ひげ状の触角)をもつ。このひげで砂中の小動物を探って食べる。体色を変えることができ、赤みを帯びることが多い。",
+      "habitat_hint": "サンゴ礁・岩礁周辺の砂底、潮下帯。",
+      "finding_tips": "潮下帯の砂底で、下あごのひげを使って砂を探る魚を探す。あごの一対の長いひげが識別点。"
+    },
+    "en": {
+      "summary": "A goatfish (Parupeneus ciliatus), a mullid of sandy areas around coral and rocky reefs with a pair of long chin barbels used to probe the sand for small animals; it can change colour and is often reddish.",
+      "habitat_hint": "Sandy areas around coral and rocky reefs, subtidal.",
+      "finding_tips": "In the subtidal on sand look for a fish probing the bottom with chin barbels; the pair of long barbels is diagnostic."
+    },
+    "zh": {
+      "summary": "ホウライヒメジ。羊鱼科鱼，栖珊瑚礁岩礁周边砂底，颏下具一对长须，以须探砂觅小动物，能变色、常带红。",
+      "habitat_hint": "珊瑚礁、岩礁周边砂底、潮下带。",
+      "finding_tips": "潮下带砂底寻以颏须探砂之鱼；一对长颏须为辨识点。"
+    }
+  },
+  "Paspalum setaceum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slender crowngrass",
+    "ja": {
+      "summary": "ヒゲスズメノヒエ。北アメリカ原産で各地に帰化したイネ科スズメノヒエ属の多年草。細い花茎の先に、片側に小穂が二列に並ぶ細い花序を数本つける。日当たりのよい草地や道ばた、芝地に生える。",
+      "habitat_hint": "日当たりのよい草地、道ばた、芝地(帰化)。",
+      "finding_tips": "夏〜秋、草地で細い花茎の先に片側二列の小穂が並ぶ細い花序を探す。片側に並ぶ小穂がスズメノヒエ類の手がかり。"
+    },
+    "en": {
+      "summary": "Slender crowngrass (Paspalum setaceum), a North American paspalum perennial naturalised widely; it bears a few slender racemes with spikelets in two rows along one side, on sunny grassland, waysides and lawns.",
+      "habitat_hint": "Sunny grassland, waysides, lawns (naturalised).",
+      "finding_tips": "In summer–autumn in grassland look for slender racemes with spikelets ranked on one side; the one-sided spikelet rows are the clue."
+    },
+    "zh": {
+      "summary": "ヒゲスズメノヒエ。禾本科雀稗属多年草，原产北美、各地归化，细花茎顶生数条一侧二列小穗之细总状花序，生向阳草地路旁草坪。",
+      "habitat_hint": "向阳草地、路旁、草坪（归化）。",
+      "finding_tips": "夏秋于草地寻小穗偏生一侧二列之细花序；单侧列小穗为雀稗类辨识点。"
+    }
+  },
+  "Passer domesticus": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "House sparrow",
+    "aliases": {
+      "zh-Hans": "家麻雀"
+    },
+    "ja": {
+      "summary": "イエスズメ。ヨーロッパ〜アジアの人里に広く分布するスズメ科の小鳥で、世界各地に人為的に広がった。オスは頭が灰色で喉に黒い斑があり、日本のスズメ(ほおに黒斑)とは異なる。日本では北海道などでまれに記録される。市街地や農地の人の暮らしの近くにすむ。",
+      "habitat_hint": "市街地、農地、人家周辺(日本ではまれ)。",
+      "finding_tips": "人家周辺でスズメに似るが頬に黒斑がなく、オスは頭が灰色で喉が黒い小鳥を探す。頭の灰色と喉の黒斑が識別点。"
+    },
+    "en": {
+      "summary": "House sparrow (Passer domesticus), a small sparrow of human settlements across Eurasia and spread worldwide by people; the male has a grey crown and black throat, unlike Japan's tree sparrow with its cheek spot. In Japan it is a rare record, mainly in Hokkaido, living close to towns and farmland.",
+      "habitat_hint": "Towns, farmland, around houses (rare in Japan).",
+      "finding_tips": "Near houses look for a sparrow lacking the cheek spot; the male's grey crown and black throat are the clues."
+    },
+    "zh": {
+      "summary": "イエスズメ（家麻雀）。雀科小鸟，广布欧亚人居、经人为扩散至世界各地，雄鸟头灰、喉具黑斑，异于日本之麻雀（颊具黑斑），在日本仅北海道等偶有记录，栖市区农田人居附近。",
+      "habitat_hint": "市区、农田、人家周边（日本罕见）。",
+      "finding_tips": "人家周边寻颊无黑斑之麻雀；雄鸟头灰、喉黑为辨识点。"
+    }
+  },
+  "Patagoniodes nipponella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "トビスジマダラメイガ。メイガ科(マダラメイガ亜科)の小型のガで、前翅は褐色でとび色や暗色の筋・斑をもつ。林縁や草地にすみ、幼虫は植物の枯れた部分や貯蔵物などを食べるものが多い。灯火に飛来する。",
+      "habitat_hint": "林縁、草地、人家周辺。",
+      "finding_tips": "初夏〜秋の夜、灯火で褐色に暗い筋をもつ細長い小型のメイガを探す。とび色の筋模様が手がかり。"
+    },
+    "en": {
+      "summary": "A snout moth (Patagoniodes nipponella), a small phycitine pyralid with brown forewings marked by dusky streaks and spots; it lives at woodland edges and grassland, the larvae often feeding on dead plant matter or stored material, and comes to light.",
+      "habitat_hint": "Woodland edges, grassland, around buildings.",
+      "finding_tips": "On summer nights at lights look for a small elongate brown moth with dark streaks; the dusky streaking is the clue."
+    },
+    "zh": {
+      "summary": "トビスジマダラメイガ。螟蛾科（斑螟类）小型蛾，前翅褐色具暗筋斑，栖林缘草地，幼虫多食枯株或贮物，趋光。",
+      "habitat_hint": "林缘、草地、人家周边。",
+      "finding_tips": "初夏至秋夜于灯下寻褐色具暗筋之细长小螟蛾；暗色筋纹为辨识点。"
+    }
+  },
+  "Pedicularis chamissonis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lousewort",
+    "ja": {
+      "summary": "ヨツバシオガマ。高山の草地や湿った草原に生えるハマウツボ科の多年草で、葉が茎に4枚ずつ輪生する(四葉)のが名の由来。夏、茎の上部に紅紫色の唇形の花を段状に数段つける。半寄生植物で、他の植物の根から養分を得る。",
+      "habitat_hint": "高山の草地・湿った草原、雪田周辺。",
+      "finding_tips": "7〜8月、高山の草地で4枚輪生の葉と、段状につく紅紫色の唇形花を探す。四葉と段咲きの花が識別点。"
+    },
+    "en": {
+      "summary": "A lousewort (Pedicularis chamissonis), a broomrape-family perennial of alpine meadows and damp grassland, named for its whorls of four leaves; in summer it bears rose-purple two-lipped flowers in tiers up the stem. It is hemiparasitic, drawing nutrients from other plants' roots.",
+      "habitat_hint": "Alpine meadows and damp grassland, snow-patch edges.",
+      "finding_tips": "In July–August in alpine meadow look for whorls of four leaves and tiered rose-purple two-lipped flowers; the four-leaf whorls are the clue."
+    },
+    "zh": {
+      "summary": "ヨツバシオガマ。列当科多年草，生高山草地与湿草原，叶四枚轮生而得名，夏于茎上部分层生紫红唇形花，半寄生、自他植物根吸养。",
+      "habitat_hint": "高山草地、湿草原、雪田周边。",
+      "finding_tips": "7〜8月于高山草地寻四叶轮生与分层紫红唇形花；四叶轮生为辨识点。"
+    }
+  },
+  "Pennellianthus frutescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock penstemon",
+    "ja": {
+      "summary": "イワブクロ。高山や火山の砂礫地に生えるオオバコ科(旧ゴマノハグサ科)の多年草で、タルマイソウとも呼ばれる。夏、茎の先に淡紫色の筒状の花を数個やや下向きに咲かせる。厚くつやのある葉を対生し、火山礫地に群生する。",
+      "habitat_hint": "高山・火山の砂礫地、火口周辺の裸地。",
+      "finding_tips": "7〜8月、火山礫地で淡紫色の筒状花と厚い対生葉をもつ株を探す。淡紫色の筒花と火山砂礫の環境が識別点。"
+    },
+    "en": {
+      "summary": "A rock penstemon (Pennellianthus frutescens), a plantain-family perennial of alpine and volcanic gravel, also called Tarumai-so; in summer it bears a few pale-purple tubular flowers nodding at the stem tip over thick glossy paired leaves, growing in patches on volcanic scree.",
+      "habitat_hint": "Alpine and volcanic gravel, bare ground near craters.",
+      "finding_tips": "In July–August on volcanic gravel look for pale-purple tubular flowers over thick paired leaves; the tubular flowers on scree are the clue."
+    },
+    "zh": {
+      "summary": "イワブクロ。车前科（旧玄参科）多年草，生高山与火山砂砾地，别名樽前草，夏于茎顶生数朵淡紫筒状花稍下垂，厚亮叶对生，成片生于火山砾地。",
+      "habitat_hint": "高山、火山砂砾地、火口周边裸地。",
+      "finding_tips": "7〜8月于火山砾地寻淡紫筒状花与厚对生叶；淡紫筒花配火山砾为辨识点。"
+    }
+  },
+  "Perillula reptans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "スズコウジュ。山地の湿った林内や谷沿いに生えるシソ科の多年草で、茎は地をはってから立ち上がる。秋、白い小さな唇形の花を穂状につけ、花後に鈴のようなふくらんだ萼が残るのが名の由来。日陰の湿った林床でよく見られる。",
+      "habitat_hint": "山地の湿った林内、谷沿い、日陰の林床。",
+      "finding_tips": "秋、山地の湿った林床で白い小さな唇形花と、花後に残る鈴形にふくらんだ萼を探す。鈴状の萼が識別点。"
+    },
+    "en": {
+      "summary": "A mint-family perennial (Perillula reptans) of damp montane woodland and ravines, with stems that creep then rise; in autumn it bears small white two-lipped flowers in spikes, and the swollen bell-like calyx that persists after flowering names it in Japanese. It favours shaded moist forest floors.",
+      "habitat_hint": "Damp montane woodland, ravines, shaded forest floors.",
+      "finding_tips": "In autumn on damp forest floor look for small white two-lipped flowers and swollen bell-like calyces after flowering; the bell calyx is the clue."
+    },
+    "zh": {
+      "summary": "スズコウジュ。唇形科多年草，生山地湿林与谷畔，茎先匍匐后升，秋生白色小唇形花成穗，花后宿存膨大如铃之萼而得名，多见于阴湿林床。",
+      "habitat_hint": "山地湿林、谷畔、阴湿林床。",
+      "finding_tips": "秋于山地湿林床寻白色小唇形花与花后铃状膨萼；铃状萼为辨识点。"
+    }
+  },
+  "Phasianella solida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pheasant shell",
+    "ja": {
+      "summary": "サラサバイ。岩礁や海藻の茂る浅海にすむサラサバイ科の小型の巻貝で、殻は円錐形でつやがあり、赤・褐・白などが更紗(さらさ)模様のように入り混じる美しい色彩をもつ。海藻の上をはい回り、藻類を食べる。",
+      "habitat_hint": "岩礁・海藻の茂る浅海、潮間帯〜潮下帯。",
+      "finding_tips": "潮だまりや海藻の間で、円錐形でつやのある更紗模様の小さな巻貝を探す。色鮮やかなまだら模様が識別点。"
+    },
+    "en": {
+      "summary": "A pheasant shell (Phasianella solida), a small phasianellid snail of weedy shallow reefs with a glossy conical shell beautifully mottled in red, brown and white like printed calico; it crawls over seaweed grazing algae.",
+      "habitat_hint": "Rocky and weedy shallow reefs, intertidal to subtidal.",
+      "finding_tips": "In tide pools or among seaweed look for a small glossy conical snail with calico mottling; the colourful pattern is the clue."
+    },
+    "zh": {
+      "summary": "サラサバイ。花螺科小型海螺，栖岩礁与海藻繁茂之浅海，壳圆锥形富光泽、红褐白相杂如印花更纱之美纹，爬行海藻上刮食藻类。",
+      "habitat_hint": "岩礁、海藻浅海、潮间至潮下带。",
+      "finding_tips": "潮池或海藻间寻圆锥光泽具花纹之小螺；艳丽斑纹为辨识点。"
+    }
+  },
+  "Pheretima californica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Earthworm",
+    "ja": {
+      "summary": "メキシコミミズ。フトミミズ科のミミズで、人為的に各地に広がった帰化種。畑や庭、温室などの土壌にすみ、落葉や土中の有機物を食べて土を耕す。体は環状の体節が多数連なり、環帯(生殖帯)が体の前方にある。",
+      "habitat_hint": "畑・庭・温室などの土壌、落葉の下。",
+      "finding_tips": "湿った土や落葉の下を掘り、環帯をもつミミズを探す。フトミミズ科の太めの体が手がかり。"
+    },
+    "en": {
+      "summary": "An earthworm (Pheretima californica), a megascolecid worm spread by human activity; it lives in the soil of fields, gardens and greenhouses, eating litter and soil organics and turning the earth. Its many ring segments carry a clitellum (saddle) toward the front.",
+      "habitat_hint": "Soil of fields, gardens and greenhouses, under litter.",
+      "finding_tips": "Dig in damp soil or under litter for a worm bearing a saddle band; the stout megascolecid body is the clue."
+    },
+    "zh": {
+      "summary": "メキシコミミズ。巨蚓科蚯蚓，经人为扩散之归化种，栖田园温室土壤，食落叶与土中有机物、翻耕土壤，体多环节、生殖带（环带）近体前部。",
+      "habitat_hint": "田园、温室土壤，落叶下。",
+      "finding_tips": "掘湿土或落叶下寻具环带之蚯蚓；巨蚓科粗体为辨识点。"
+    }
+  },
+  "Pholcus manueli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cellar spider",
+    "ja": {
+      "summary": "タイリクユウレイグモ。ユウレイグモ科の細長い脚をもつクモで、家屋の隅や物陰、洞穴のような暗く湿った場所に不規則な網を張る。刺激を受けると体を激しく揺すって振動するのが特徴。小昆虫や他のクモを捕らえる。",
+      "habitat_hint": "家屋の隅・物陰、暗く湿った場所、軒下や倉庫。",
+      "finding_tips": "家屋や物置の暗い隅で、極端に長い脚をもつ細身のクモと乱れた網を探す。触れると体を揺する動きが識別点。"
+    },
+    "en": {
+      "summary": "A cellar spider (Pholcus manueli), a pholcid with very long thin legs that webs in the corners of buildings and dark damp recesses; when disturbed it whirls its body in a blur. It preys on small insects and other spiders.",
+      "habitat_hint": "Corners of buildings, dark damp recesses, eaves and sheds.",
+      "finding_tips": "In dark building corners look for a slender spider with extremely long legs in a loose web; the body-whirling when disturbed is the clue."
+    },
+    "zh": {
+      "summary": "タイリクユウレイグモ。幽灵蛛科长足细身蜘蛛，于屋角、物荫与洞穴般阴湿处结不规则网，受扰急剧摆身抖动为特征，捕小虫与他蛛。",
+      "habitat_hint": "屋角、物荫、阴湿处、檐下仓库。",
+      "finding_tips": "于屋内暗角寻极长足之细蛛与乱网；触之摆身抖动为辨识点。"
+    }
+  },
+  "Pholiota aurivella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヌメリスギタケモドキ。広葉樹の生木や枯木の幹に群生するモエギタケ科のキノコで、傘は黄褐色で強い粘性(ぬめり)があり、表面にささくれ状の鱗片が散る。柄にも鱗片があり、木の高い位置に束生することが多い。",
+      "habitat_hint": "広葉樹(ヤナギ・ブナなど)の生木・枯木の幹。",
+      "finding_tips": "秋、広葉樹の幹で黄褐色でぬめりがあり鱗片の散る傘のキノコが束生するのを探す。粘性のある傘と鱗片が識別点。"
+    },
+    "en": {
+      "summary": "Golden pholiota (Pholiota aurivella), a strophariaceous mushroom clustering on living and dead broadleaf trunks; the yellow-brown cap is strongly slimy and dotted with shaggy scales, the stem also scaly, often growing in tufts high on the tree.",
+      "habitat_hint": "Living and dead broadleaf trunks (willow, beech, etc.).",
+      "finding_tips": "In autumn on broadleaf trunks look for tufts of yellow-brown scaly slimy-capped mushrooms; the slimy scaly cap is the clue."
+    },
+    "zh": {
+      "summary": "ヌメリスギタケモドキ。球盖菇科菇，丛生于阔叶活木枯木干，菌盖黄褐、强黏、散生毛状鳞片，柄亦具鳞，多丛生树高处。",
+      "habitat_hint": "阔叶（柳、山毛榉等）活木枯木干。",
+      "finding_tips": "秋于阔叶树干寻黄褐具鳞黏盖丛生之菇；黏盖具鳞为辨识点。"
+    }
   }
 }
