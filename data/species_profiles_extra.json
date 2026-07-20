@@ -282038,5 +282038,506 @@
       "habitat_hint": "内湾浅海砂泥底、海草床。",
       "finding_tips": "浅内湾海底寻带状长叶直立群生之海草；直立长茎与带状叶为辨识点。"
     }
+  },
+  "Melanelixia huei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Foliose lichen",
+    "ja": {
+      "summary": "オリーブゴケモドキ。樹幹や岩に着生する葉状の地衣類(ウメノキゴケの仲間)で、体はオリーブ褐色〜暗褐色でやや光沢がある。裂片状に広がって樹皮や岩の上に貼りつくように群落をつくる。山地や公園の古木の樹皮などで見られる。",
+      "habitat_hint": "樹幹、岩、古木の樹皮などの着生環境。",
+      "finding_tips": "一年中、樹皮や岩でオリーブ褐色でやや光沢のある葉状の地衣類を探す。裂片状に広がる褐色の体が手がかり。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Melanelixia huei), an epiphyte of trunks and rock in the Parmeliaceae; the olive-brown to dark-brown, somewhat glossy body spreads in lobes pressed to bark or stone, seen on montane and park old-tree bark.",
+      "habitat_hint": "Tree trunks, rock, old-tree bark (epiphytic).",
+      "finding_tips": "Year-round on bark or rock look for an olive-brown, slightly glossy lobed foliose lichen; the brown lobed body is the clue."
+    },
+    "zh": {
+      "summary": "オリーブゴケモドキ。梅衣科叶状地衣，附生树干与岩石，体橄榄褐至暗褐、略具光泽，以裂片状贴生树皮岩面成群落，见于山地与公园古木树皮。",
+      "habitat_hint": "树干、岩石、古木树皮附生。",
+      "finding_tips": "全年于树皮岩面寻橄榄褐略亮之叶状地衣；裂片状褐体为辨识点。"
+    }
+  },
+  "Metajapelion pericochlion": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea snail",
+    "ja": {
+      "summary": "ネジボラ。やや深い岩礁や砂礫底にすむ巻貝で、殻は細長い紡錘形で、螺塔がねじれるように高く伸びるのが名の由来(ねじ＋ぼら)。殻表に螺状や縦の彫刻をもつ。肉食性で、他の小動物などを食べる。",
+      "habitat_hint": "やや深い岩礁・砂礫底、潮下帯以深。",
+      "finding_tips": "海岸に打ち上げられた、細長くねじれたように高い紡錘形の巻貝の殻を探す。ねじれて高く伸びる殻塔が識別点。"
+    },
+    "en": {
+      "summary": "A sea snail (Metajapelion pericochlion) of deeper rocky and gravelly bottoms with a slender spindle shell whose spire twists up high (its Japanese name means 'screw whelk'); the surface bears spiral and axial sculpture, and it is a carnivore of small animals.",
+      "habitat_hint": "Deeper rocky and gravel bottoms, below the subtidal.",
+      "finding_tips": "On the strandline look for a slender high-spired spindle shell that seems to twist upward; the twisted tall spire is the clue."
+    },
+    "zh": {
+      "summary": "ネジボラ。较深岩礁与砂砾底之海螺，壳细长纺锤形、螺塔如拧转般高耸而得名（螺＋蛾螺），面具螺纵雕刻，肉食小动物。",
+      "habitat_hint": "较深岩礁、砂砾底、潮下带以深。",
+      "finding_tips": "海岸拾细长如拧转高塔之纺锤螺壳；拧转高塔为辨识点。"
+    }
+  },
+  "Neophysopella ampelopsidis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Vine rust fungus",
+    "ja": {
+      "summary": "ツタのサビ病菌。ツタ(ナツヅタ)やブドウ類の葉に寄生するサビ病菌の一種で、葉の裏面に黄色〜橙色の粉状の胞子のかたまり(夏胞子堆など)を生じる。感染した葉の表面には黄色い斑点があらわれる。植物に寄生して生活する病原菌。",
+      "habitat_hint": "ツタ・ブドウ類の葉(生きた寄主植物の上)。",
+      "finding_tips": "夏〜秋、ツタやブドウの葉の裏で、黄〜橙色の粉状の胞子のかたまりを探す。葉裏の黄色い粉状の斑点(サビ)が識別点。"
+    },
+    "en": {
+      "summary": "A vine rust fungus (Neophysopella ampelopsidis), a rust that parasitises the leaves of Boston ivy and grapevines, producing yellow to orange powdery spore masses on the leaf underside, with yellow spots showing on the upper surface of infected leaves. It is a plant-parasitic pathogen.",
+      "habitat_hint": "Leaves of Boston ivy and grapevines (on living host plants).",
+      "finding_tips": "In summer–autumn on the underside of ivy or grape leaves look for yellow-orange powdery spore masses; the yellow rust pustules beneath the leaf are the clue."
+    },
+    "zh": {
+      "summary": "ツタのサビ病菌。寄生于地锦（爬山虎）与葡萄类叶之锈菌，于叶背生黄至橙色粉状孢子堆，感染叶表现黄斑，为寄生植物之病原菌。",
+      "habitat_hint": "地锦、葡萄类之叶（活寄主上）。",
+      "finding_tips": "夏秋于地锦葡萄叶背寻黄橙粉状孢子堆；叶背黄色锈斑为辨识点。"
+    }
+  },
+  "Ochrolechia parellula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crustose lichen",
+    "ja": {
+      "summary": "イワニクイボゴケ。岩や樹皮の上に貼りつくように広がる痂状(かさぶた状)の地衣類で、灰白色の厚い体をつくり、表面にいぼ状の突起や皿状の子器(繁殖器官)を生じる。日当たりのよい岩場などで見られる。",
+      "habitat_hint": "岩・樹皮の上、日当たりのよい岩場。",
+      "finding_tips": "一年中、岩や樹皮で灰白色の厚い痂状の地衣類とその表面のいぼ状の突起を探す。かさぶた状に広がる灰白色の体が識別点。"
+    },
+    "en": {
+      "summary": "A crustose lichen (Ochrolechia parellula) that spreads as a crust on rock and bark, forming a thick greyish-white body dotted with wart-like bumps and disc-shaped fruiting bodies; it is found on sunny rock and similar surfaces.",
+      "habitat_hint": "On rock and bark, sunny rocky places.",
+      "finding_tips": "Year-round on rock or bark look for a thick greyish-white crust with wart-like bumps; the crusty greyish body is the clue."
+    },
+    "zh": {
+      "summary": "イワニクイボゴケ。痂状地衣，贴生岩石与树皮，体厚灰白，面具疣状突起与盘状子器，见于向阳岩地等。",
+      "habitat_hint": "岩石、树皮上，向阳岩地。",
+      "finding_tips": "全年于岩石树皮寻灰白厚痂状地衣与疣状突起；痂状灰白体为辨识点。"
+    }
+  },
+  "Oeosporangium kuhnii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマウラジロ。山地の日当たりのよい岩場や崖に生えるイノモトソウ科(旧ホウライシダ科)の小型のシダで、葉の裏面が白い粉におおわれて白っぽく見えるのが名の由来。乾燥に強く、岩のすき間などに生える。葉は2〜3回羽状に細かく分かれる。",
+      "habitat_hint": "山地の日当たりのよい岩場・崖、岩のすき間。",
+      "finding_tips": "一年中、山地の岩場で葉の裏が白い粉におおわれた小型のシダを探す。裏面が白っぽい点が識別点。"
+    },
+    "en": {
+      "summary": "A cloak fern (Oeosporangium kuhnii), a small pteridoid fern of sunny montane rocks and cliffs whose frond underside is coated white with a powder (its Japanese name means 'white-backed'); drought-tolerant, it grows in rock crevices, with two- to three-times pinnate fronds.",
+      "habitat_hint": "Sunny montane rocks and cliffs, rock crevices.",
+      "finding_tips": "Year-round on mountain rock look for a small fern with a white-powdered frond underside; the whitish back is the clue."
+    },
+    "zh": {
+      "summary": "ミヤマウラジロ。凤尾蕨科（旧铁线蕨科）小型蕨，生山地向阳岩场与崖，叶背被白粉而显白得名，耐旱、生于岩隙，叶2〜3回羽状细裂。",
+      "habitat_hint": "山地向阳岩场、崖、岩隙。",
+      "finding_tips": "全年于山地岩场寻叶背被白粉之小蕨；背面泛白为辨识点。"
+    }
+  },
+  "Oliva annulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Olive shell",
+    "ja": {
+      "summary": "サツマビナガイ。内湾や浅海の砂底にすむマクラガイ科(オリーブシェル)の巻貝で、殻は円筒形でつやつやと強い光沢があり、色彩や模様に富む。夜行性で砂に潜って活動し、肉食性で二枚貝や小動物などを捕らえて食べる。",
+      "habitat_hint": "内湾・浅海の砂底、砂に潜る、潮下帯。",
+      "finding_tips": "浅海の砂底や砂浜で、円筒形でつやのある美しい巻貝を探す。強い光沢のある円筒形の殻が識別点。"
+    },
+    "en": {
+      "summary": "An olive shell (Oliva annulata), an olivid snail of bay and shallow sandy bottoms with a cylindrical, highly glossy shell rich in colour and pattern; nocturnal, it burrows in sand and is a carnivore, catching bivalves and small animals.",
+      "habitat_hint": "Bay and shallow sandy bottoms, burrowing in sand, subtidal.",
+      "finding_tips": "On shallow sand look for a cylindrical highly glossy patterned snail; the strongly glossy cylindrical shell is the clue."
+    },
+    "zh": {
+      "summary": "サツマビナガイ。榧螺科（橄榄螺）海螺，栖内湾浅海砂底，壳圆筒形、光泽极强、色纹丰富，夜行潜砂，肉食，捕食二枚贝与小动物。",
+      "habitat_hint": "内湾、浅海砂底，潜砂，潮下带。",
+      "finding_tips": "浅海砂底寻圆筒形光泽艳丽之螺；强光泽圆筒壳为辨识点。"
+    }
+  },
+  "Orthotomicus suturalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bark beetle",
+    "ja": {
+      "summary": "ホンスンキクイムシ。マツなどの針葉樹の樹皮下に穿孔して坑道をつくるキクイムシ(ゾウムシ科キクイムシ亜科)の一種。体は小さく円筒形で褐色。衰弱木や伐採木、倒木に集まり、雌雄が樹皮下に坑道を掘って産卵し、幼虫が内樹皮を食べる。",
+      "habitat_hint": "マツなど針葉樹の樹皮下、衰弱木・倒木。",
+      "finding_tips": "マツの枯れ木や倒木の樹皮をはがして、樹皮下の坑道と小さな円筒形の褐色の甲虫を探す。樹皮下の坑道が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A bark beetle (Orthotomicus suturalis), a scolytine weevil that bores under the bark of pines and other conifers to make galleries; small, cylindrical and brown, it gathers on weakened, felled and fallen trees, where the sexes excavate galleries and lay eggs and the larvae eat the inner bark.",
+      "habitat_hint": "Under bark of pines and conifers, weakened and fallen trees.",
+      "finding_tips": "Peel bark from dead or fallen pine to find galleries and small cylindrical brown beetles; the under-bark galleries are the clue."
+    },
+    "zh": {
+      "summary": "ホンスンキクイムシ。象甲科小蠹类，钻凿松等针叶树皮下作坑道，体小圆筒褐色，聚于衰弱木、伐倒木与倒木，雌雄于皮下掘道产卵、幼虫食内皮。",
+      "habitat_hint": "松等针叶树皮下、衰弱木、倒木。",
+      "finding_tips": "剥松枯木倒木树皮寻皮下坑道与圆筒褐色小甲虫；皮下坑道为辨识点。"
+    }
+  },
+  "Oxyurichthys cornutus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goby",
+    "ja": {
+      "summary": "カマヒレマツゲハゼ。内湾の泥底や河口の干潟にすむハゼ科の小魚で、体は細長く、目の上にまつげ状の小さな突起をもつ(マツゲハゼ)。背びれが鎌(かま)状に伸びるのが名の由来。泥底に巣穴を掘ってすみ、堆積物中の有機物などを食べる。",
+      "habitat_hint": "内湾の泥底、河口の干潟、潮下帯。",
+      "finding_tips": "干潟や泥底で、目の上にまつげ状の突起と鎌状に伸びる背びれをもつ細長いハゼを探す。目上の突起と鎌状の背びれが識別点。"
+    },
+    "en": {
+      "summary": "A goby (Oxyurichthys cornutus), a small gobiid of muddy bays and estuarine flats with an elongate body and small eyelash-like projections above the eyes; the dorsal fin extends into a sickle shape (its Japanese name). It burrows in mud and eats sediment organics.",
+      "habitat_hint": "Muddy bays, estuarine flats, subtidal.",
+      "finding_tips": "On mudflats look for an elongate goby with eyelash-like projections above the eyes and a sickle-shaped dorsal fin; those eye projections and sickle fin are the clues."
+    },
+    "zh": {
+      "summary": "カマヒレマツゲハゼ。虾虎鱼科小鱼，栖内湾泥底与河口潮滩，体细长、眼上具睫毛状小突（睫虾虎），背鳍延伸如镰而得名，穴居泥底、食沉积有机物。",
+      "habitat_hint": "内湾泥底、河口潮滩、潮下带。",
+      "finding_tips": "潮滩泥底寻眼上具睫状突、背鳍如镰之细长虾虎；眼上突与镰背鳍为辨识点。"
+    }
+  },
+  "Parasitala reinhardti": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "マルシタラガイ。ごく小型の陸生のカタツムリ(ベッコウマイマイ科など)で、殻は低い円錐形〜円盤状で光沢がある。樹林の落葉の下や朽木、湿った地表などにすみ、落葉や菌類などを食べる。数mmほどの微小な陸貝。",
+      "habitat_hint": "樹林の落葉の下、朽木、湿った地表。",
+      "finding_tips": "雨後、樹林の落葉の下で、数mmほどの低い円盤状で光沢のあるごく小さなカタツムリを探す。微小で光沢のある殻が手がかり。"
+    },
+    "en": {
+      "summary": "A land snail (Parasitala reinhardti), a very small land snail with a low conical to disc-shaped glossy shell; it lives under woodland litter, in rotten wood and on damp ground, eating litter and fungi. It is a minute land snail only a few millimetres across.",
+      "habitat_hint": "Under woodland litter, rotten wood, damp ground.",
+      "finding_tips": "After rain under woodland litter look for a minute low disc-shaped glossy snail a few mm across; the tiny glossy shell is the clue."
+    },
+    "zh": {
+      "summary": "マルシタラガイ。极小型陆生蜗牛，壳低圆锥至圆盘状、具光泽，居林间落叶下、朽木与湿地表，食落叶与菌，为数毫米之微小陆螺。",
+      "habitat_hint": "林间落叶下、朽木、湿地表。",
+      "finding_tips": "雨后于林间落叶下寻数毫米低圆盘状光泽小蜗牛；微小光泽壳为辨识点。"
+    }
+  },
+  "Paraumbogrella pumilio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Harvestman",
+    "ja": {
+      "summary": "フタコブザトウムシ。ザトウムシ(クモに近い節足動物)の一種で、体は小さく丸みを帯び、背に2つのこぶ状の突起をもつのが名の由来。脚は細長い。林床の落葉の下や湿った地表、岩の下などにすみ、小さな動物質や有機物を食べる。クモと違い網は張らない。",
+      "habitat_hint": "林床の落葉の下、湿った地表、岩の下。",
+      "finding_tips": "落葉や石をめくって、細長い脚と背に2つのこぶをもつ小さなザトウムシを探す。背の2つのこぶが識別点。"
+    },
+    "en": {
+      "summary": "A harvestman (Paraumbogrella pumilio), an arachnid (a spider relative) with a small rounded body bearing two hump-like bumps on the back (its Japanese name) and long slender legs; it lives under woodland litter, on damp ground and under rock, eating small animal matter and detritus. Unlike spiders it spins no web.",
+      "habitat_hint": "Under woodland litter, damp ground, under rock.",
+      "finding_tips": "Turn litter or stones to find a small long-legged harvestman with two bumps on the back; those two humps are the clue."
+    },
+    "zh": {
+      "summary": "フタコブザトウムシ。盲蛛（近蛛之节肢动物），体小圆、背具两瘤状突起而得名，足细长，居林床落叶下、湿地表与岩下，食小动物质与碎屑，不结网。",
+      "habitat_hint": "林床落叶下、湿地表、岩下。",
+      "finding_tips": "翻落叶石块寻足细长、背具两瘤之小盲蛛；背二瘤为辨识点。"
+    }
+  },
+  "Parmelia fertilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shield lichen",
+    "ja": {
+      "summary": "ナメラカラクサゴケ。樹幹や岩に着生する葉状の地衣類(ウメノキゴケの仲間)で、灰緑色の裂片が唐草模様のように広がって群落をつくる。表面はやや滑らかで、皿状の子器(繁殖器官)をつけることが多い。山地や公園の樹皮・岩でよく見られる。",
+      "habitat_hint": "樹幹、岩、山地や公園の樹皮・岩。",
+      "finding_tips": "一年中、樹皮や岩で灰緑色の裂片が唐草状に広がる葉状の地衣類を探す。裂片状に広がる灰緑色の体が識別点。"
+    },
+    "en": {
+      "summary": "A shield lichen (Parmelia fertilis), a foliose lichen on trunks and rock whose grey-green lobes spread in an arabesque-like pattern; the surface is fairly smooth and it often bears disc-shaped fruiting bodies, common on montane and park bark and stone.",
+      "habitat_hint": "Tree trunks, rock, montane and park bark and stone.",
+      "finding_tips": "Year-round on bark or rock look for a grey-green lobed foliose lichen spreading in a scrolling pattern; the grey-green lobes are the clue."
+    },
+    "zh": {
+      "summary": "ナメラカラクサゴケ。梅衣科叶状地衣，附生树干与岩石，灰绿裂片如卷草纹铺展成群落，表面较平滑、常具盘状子器，多见于山地与公园树皮岩面。",
+      "habitat_hint": "树干、岩石、山地与公园树皮岩面。",
+      "finding_tips": "全年于树皮岩面寻灰绿裂片卷草状铺展之叶状地衣；灰绿裂片为辨识点。"
+    }
+  },
+  "Parmelia homogenes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shield lichen",
+    "ja": {
+      "summary": "ウチキウメノキゴケ。樹幹や岩に着生する葉状の地衣類(ウメノキゴケの仲間)で、灰白色〜灰緑色の裂片が広がって群落をつくる。裂片の縁や表面に粉芽(こなめ＝繁殖のための粉状のかたまり)を生じることがある。山地や公園の古木の樹皮などで見られる。",
+      "habitat_hint": "樹幹、岩、古木の樹皮などの着生環境。",
+      "finding_tips": "一年中、樹皮や岩で灰白色〜灰緑色の裂片が広がる葉状の地衣類を探す。裂片状に広がる灰白色の体が識別点。"
+    },
+    "en": {
+      "summary": "A shield lichen (Parmelia homogenes), a foliose lichen on trunks and rock whose greyish-white to grey-green lobes spread in colonies; the lobe margins and surface may bear soredia (powdery propagules). It is seen on montane and park old-tree bark.",
+      "habitat_hint": "Tree trunks, rock, old-tree bark (epiphytic).",
+      "finding_tips": "Year-round on bark or rock look for a greyish-white to grey-green lobed foliose lichen; the pale grey lobes are the clue."
+    },
+    "zh": {
+      "summary": "ウチキウメノキゴケ。梅衣科叶状地衣，附生树干与岩石，灰白至灰绿裂片铺展成群落，裂片缘面或生粉芽（粉状繁殖体），见于山地与公园古木树皮。",
+      "habitat_hint": "树干、岩石、古木树皮附生。",
+      "finding_tips": "全年于树皮岩面寻灰白至灰绿裂片之叶状地衣；灰白裂片为辨识点。"
+    }
+  },
+  "Peltigera polydactylon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dog lichen",
+    "ja": {
+      "summary": "モミジツメゴケ。湿った地上やコケの間、腐植の上などに生える大型の葉状の地衣類(ツメゴケの仲間)で、体は灰褐色〜暗褐色で幅広い。縁に赤褐色で爪状に立ち上がる子器(繁殖器官)をつけるのが特徴。山地の日陰の湿った場所に多い。",
+      "habitat_hint": "湿った地上、コケの間、腐植の上、山地の日陰。",
+      "finding_tips": "一年中、山地の湿った地上やコケの間で幅広い灰褐色の葉状地衣と、縁に立ち上がる赤褐色の爪状の子器を探す。爪状の子器が識別点。"
+    },
+    "en": {
+      "summary": "A dog lichen (Peltigera polydactylon), a large foliose lichen of damp ground, among mosses and on humus with a broad grey-brown to dark-brown body; its edges bear reddish-brown, claw-like erect fruiting bodies (its Japanese name). It favours shaded damp montane places.",
+      "habitat_hint": "Damp ground, among mosses, on humus, shaded montane places.",
+      "finding_tips": "Year-round on damp montane ground look for a broad grey-brown foliose lichen with reddish-brown claw-like fruiting bodies at the edges; those claw-like fruits are the clue."
+    },
+    "zh": {
+      "summary": "モミジツメゴケ。地卷科大型叶状地衣，生湿地面、藓间与腐植上，体灰褐至暗褐而宽，缘生红褐爪状直立子器为特征，多见于山地阴湿处。",
+      "habitat_hint": "湿地面、藓间、腐植上、山地阴处。",
+      "finding_tips": "全年于山地湿地面藓间寻宽灰褐叶状地衣与缘生红褐爪状子器；爪状子器为辨识点。"
+    }
+  },
+  "Peridea graeseri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Prominent moth",
+    "ja": {
+      "summary": "イシダシャチホコ。シャチホコガ科の中型のガで、前翅は灰褐色で樹皮に似た模様をもち、とまるときに翅を体に巻きつけるようにして枝や幹に擬態する。幼虫は広葉樹の葉を食べる尺取り虫状〜シャチホコ状の姿勢をとる。灯火に飛来する。",
+      "habitat_hint": "山地の樹林、林縁、雑木林。",
+      "finding_tips": "初夏〜夏の夜、灯火で灰褐色で樹皮状の模様をもつ中型のガを探す。樹皮に似た模様と枝状に擬態する姿勢が手がかり。"
+    },
+    "en": {
+      "summary": "A prominent moth (Peridea graeseri), a medium notodontid with grey-brown, bark-patterned forewings that wraps its wings around the body at rest to mimic a twig on branch or trunk; its larva eats broadleaf foliage and rests in the humped prominent-moth posture. It comes to light.",
+      "habitat_hint": "Montane woodland, woodland edges, coppice.",
+      "finding_tips": "On summer nights at lights look for a medium grey-brown moth with bark-like markings; the bark pattern and twig-mimicking posture are the clues."
+    },
+    "zh": {
+      "summary": "イシダシャチホコ。舟蛾科中型蛾，前翅灰褐、拟树皮纹，静止时翅裹体拟枝，栖枝干，幼虫食阔叶、作舟蛾状姿势，趋光。",
+      "habitat_hint": "山地树林、林缘、杂木林。",
+      "finding_tips": "初夏至夏夜于灯下寻灰褐拟树皮之中型蛾；拟树皮纹与拟枝姿势为辨识点。"
+    }
+  },
+  "Phidiana anulifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "シャクジョウミノウミウシ。岩礁の潮下帯にすむミノウミウシ類(裸鰓類)の一種で、背に多数の細長い突起(ミノ＝背側突起)を房状に並べる。ミノの中に消化腺が通り、餌のヒドロ虫の刺胞を体に取り込んで身を守る。ヒドロ虫を食べる肉食性のウミウシ。",
+      "habitat_hint": "岩礁の海底、潮下帯、ヒドロ虫のある所。",
+      "finding_tips": "潮下帯の岩やヒドロ虫のついた基質で、背に細長いミノを房状に並べたウミウシを探す。背に並ぶ多数のミノが識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (Phidiana anulifera) of the rocky subtidal, its back set with many slender finger-like projections (cerata) in clusters; digestive gland runs into the cerata, and it stores the stinging cells of the hydroids it eats for defence. It is a carnivore of hydroids.",
+      "habitat_hint": "Rocky seabed, subtidal, where hydroids grow.",
+      "finding_tips": "In the subtidal on hydroid-covered rock look for a nudibranch with clusters of slender cerata on the back; those many back projections are the clue."
+    },
+    "zh": {
+      "summary": "シャクジョウミノウミウシ。裸鳃类蓑海牛之一，栖岩礁潮下带，背具多数细长突起（蓑／背突）成丛，蓑内通消化腺、取食水螅并存其刺胞自卫，为食水螅之肉食海蛞蝓。",
+      "habitat_hint": "岩礁海底、潮下带、水螅处。",
+      "finding_tips": "潮下带具水螅之岩上寻背具丛生细蓑之海蛞蝓；背列多蓑为辨识点。"
+    }
+  },
+  "Phlegmariurus hamiltonii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hanging clubmoss",
+    "ja": {
+      "summary": "ナンカクラン。暖地の樹幹や岩に着生するヒカゲノカズラ科の常緑のシダ植物(小葉類)で、細い茎が垂れ下がり、鱗片状の小さな葉を密につける。花はつけず胞子で殖える。着生ランのように垂れる姿から観賞用にもされ、南西諸島などに分布する。",
+      "habitat_hint": "暖地の樹幹・岩に着生、常緑樹林(南西諸島など)。",
+      "finding_tips": "一年中、暖地の樹幹や岩から垂れ下がる、鱗片状の小葉を密につけた細い茎の常緑植物を探す。垂れ下がる茎と鱗片状の葉が識別点。"
+    },
+    "en": {
+      "summary": "A hanging clubmoss (Phlegmariurus hamiltonii), an evergreen epiphytic clubmoss of tree trunks and rock in warm regions; its slender stems hang down densely set with small scale-like leaves, and it reproduces by spores rather than flowers. Its pendent, orchid-like habit makes it an ornamental, and it ranges through the southwest islands.",
+      "habitat_hint": "Epiphytic on trunks and rock in warm evergreen forest (SW islands, etc.).",
+      "finding_tips": "Year-round on warm-region trunks or rock look for slender hanging stems densely set with scale-like leaves; the pendent stems and scale leaves are the clues."
+    },
+    "zh": {
+      "summary": "ナンカクラン。石松科常绿附生小叶植物，附生暖地树干与岩石，细茎下垂、密生鳞片状小叶，不开花、以孢子繁殖，因悬垂如附生兰而供观赏，分布西南诸岛等。",
+      "habitat_hint": "暖地树干、岩石附生，常绿林（西南诸岛等）。",
+      "finding_tips": "全年于暖地树干岩石寻下垂细茎密生鳞状小叶之常绿植物；下垂茎与鳞叶为辨识点。"
+    }
+  },
+  "Physciella denigrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Foliose lichen",
+    "ja": {
+      "summary": "ナメラムカデコゴケ。樹幹や岩に着生する小型の葉状の地衣類で、灰白色〜灰緑色の細い裂片が放射状に広がって群落をつくる。表面はやや滑らかで、皿状の子器をつけることがある。日当たりのよい樹皮や岩でよく見られる。",
+      "habitat_hint": "樹幹、岩、日当たりのよい樹皮・岩。",
+      "finding_tips": "一年中、樹皮や岩で灰白色の細い裂片が放射状に広がる小型の葉状地衣類を探す。放射状の細い裂片が識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Physciella denigrata), a small foliose lichen on trunks and rock whose greyish-white to grey-green narrow lobes spread radially in colonies; the surface is fairly smooth and may bear disc-shaped fruiting bodies. It is common on sunny bark and rock.",
+      "habitat_hint": "Tree trunks, rock, sunny bark and stone.",
+      "finding_tips": "Year-round on bark or rock look for a small greyish-white foliose lichen with narrow radiating lobes; those radiating narrow lobes are the clue."
+    },
+    "zh": {
+      "summary": "ナメラムカデコゴケ。附生树干与岩石之小型叶状地衣，灰白至灰绿细裂片放射状铺展成群落，表面较平滑、或具盘状子器，多见于向阳树皮岩面。",
+      "habitat_hint": "树干、岩石、向阳树皮岩面。",
+      "finding_tips": "全年于树皮岩面寻灰白细裂片放射铺展之小叶状地衣；放射细裂片为辨识点。"
+    }
+  },
+  "Plagiogyria wakabae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アイキジノオ。山地の湿った林内や谷沿いに生えるキジノオシダ科の常緑のシダで、キジノオシダの仲間。栄養葉は単羽状で光沢のある革質、胞子をつける葉(胞子葉)は羽片が細く縮れたようになり直立する。日陰の湿った樹陰に生える。",
+      "habitat_hint": "山地の湿った林内、谷沿い、日陰の樹陰。",
+      "finding_tips": "一年中、山地の湿った林で単羽状で光沢のある栄養葉と、細く縮れた胞子葉をもつ常緑のシダを探す。細い胞子葉と光沢のある栄養葉が識別点。"
+    },
+    "en": {
+      "summary": "A fern (Plagiogyria wakabae), an evergreen plagiogyriad fern of damp montane woodland and ravines; the sterile fronds are once-pinnate, glossy and leathery, while the spore-bearing fronds have narrow, contracted pinnae held erect. It grows in shaded damp forest.",
+      "habitat_hint": "Damp montane woodland, ravines, shaded forest.",
+      "finding_tips": "Year-round in damp mountain woods look for a fern with glossy leathery once-pinnate sterile fronds and narrow erect fertile fronds; the contracted fertile fronds are the clue."
+    },
+    "zh": {
+      "summary": "アイキジノオ。瘤足蕨科常绿蕨，生山地湿林与谷畔，营养叶单羽状、革质有光泽，孢子叶羽片细缩而直立，生于阴湿树荫。",
+      "habitat_hint": "山地湿林、谷畔、阴湿树荫。",
+      "finding_tips": "全年于山地湿林寻单羽状亮革营养叶与细缩直立孢子叶之常绿蕨；细孢子叶为辨识点。"
+    }
+  },
+  "Poa tuberifera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムカゴツヅリ。山地や草地に生えるイネ科イチゴツナギ属(スズメノカタビラの仲間)の多年草で、花序の小穂が種子ではなくむかご(珠芽)状になって、そのまま落ちて新しい株になる(胎生)のが名の由来。細い葉と細い花穂をもつ。",
+      "habitat_hint": "山地、草地、林縁、やや湿った草地。",
+      "finding_tips": "初夏〜夏、草地で細い花穂の小穂がむかご状になるイネ科草本を探す。小穂がむかご状になる点が識別点。"
+    },
+    "en": {
+      "summary": "A bluegrass (Poa tuberifera), a grass of mountains and grassland in the meadow-grass genus whose spikelets turn into bulbil-like propagules (rather than seeds) that drop and grow into new plants (viviparous), naming it in Japanese; it has slender leaves and slender flowering spikes.",
+      "habitat_hint": "Mountains, grassland, woodland edges, damp grassland.",
+      "finding_tips": "In early summer in grassland look for a grass whose slender spikelets become bulbil-like; the bulbil-forming spikelets are the clue."
+    },
+    "zh": {
+      "summary": "ムカゴツヅリ。禾本科早熟禾属多年草，生山地与草地，花序小穗不结种子而成珠芽（胎生）、落地即成新株而得名，具细叶与细花穗。",
+      "habitat_hint": "山地、草地、林缘、湿草地。",
+      "finding_tips": "初夏至夏于草地寻小穗成珠芽状之禾草；小穗成珠芽为辨识点。"
+    }
+  },
+  "Pogonatum cirratum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ホウライスギゴケ。山地の林内の湿った土や崖、林道の斜面などに生えるスギゴケ科の蘚類で、スギの葉のように細い葉を茎の周りに密につけて立ち上がる。乾くと葉が茎に寄り添って縮れる。日陰の湿った裸地に群落をつくる。",
+      "habitat_hint": "山地の林内の湿った土、崖、林道の斜面。",
+      "finding_tips": "一年中、山地の林の湿った土や崖で、スギの葉状の細い葉を密につけて立ち上がる蘚を探す。スギ状の細い葉が手がかり。"
+    },
+    "en": {
+      "summary": "A haircap moss (Pogonatum cirratum), a polytrichaceous moss of damp soil, cliffs and trail banks in montane woodland; it stands erect with narrow cedar-like leaves densely set around the stem, the leaves curling in against the stem when dry. It forms colonies on shaded damp bare ground.",
+      "habitat_hint": "Damp soil, cliffs and trail banks in montane woodland.",
+      "finding_tips": "Year-round on damp mountain-woodland soil or cliffs look for an erect moss with narrow cedar-like leaves; those cedar-like leaves are the clue."
+    },
+    "zh": {
+      "summary": "ホウライスギゴケ。金发藓科藓类，生山地林内湿土、崖与林道坡，茎周密生如杉之细叶而直立，干时叶贴茎皱缩，于阴湿裸地成群落。",
+      "habitat_hint": "山地林内湿土、崖、林道坡。",
+      "finding_tips": "全年于山地林湿土或崖寻密生杉状细叶而直立之藓；杉状细叶为辨识点。"
+    }
+  },
+  "Polystichum okanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナメライノデ。山地の林内や林縁、谷沿いの樹陰に生えるオシダ科イノデ属の常緑のシダで、葉は2回羽状に分かれ、革質でやや光沢がある(「なめら」＝滑らかで光沢のある葉)。イノデの仲間で、湿った日陰の林床に群生する。",
+      "habitat_hint": "山地の林内・林縁、谷沿いの樹陰、湿った林床。",
+      "finding_tips": "一年中、山地の湿った林で2回羽状に分かれた革質でやや光沢のある常緑のシダを探す。光沢のある革質の葉が識別点。"
+    },
+    "en": {
+      "summary": "A holly fern (Polystichum okanum), an evergreen dryopterid fern of montane woodland interiors, edges and shaded ravines; the twice-pinnate fronds are leathery and somewhat glossy (its Japanese name notes the smooth glossy leaves). It grows in colonies on damp shaded forest floors.",
+      "habitat_hint": "Montane woodland interiors and edges, shaded ravines, damp forest floors.",
+      "finding_tips": "Year-round in damp mountain woods look for an evergreen fern with twice-pinnate leathery glossy fronds; the glossy leathery frond is the clue."
+    },
+    "zh": {
+      "summary": "ナメライノデ。鳞毛蕨科耳蕨属常绿蕨，生山地林内林缘与谷畔树荫，叶二回羽状、革质略具光泽（名指光滑亮叶），为耳蕨类，群生于湿阴林床。",
+      "habitat_hint": "山地林内林缘、谷畔树荫、湿林床。",
+      "finding_tips": "全年于山地湿林寻二回羽状革质亮叶之常绿蕨；亮革质叶为辨识点。"
+    }
+  },
+  "Pomaulax japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turban snail",
+    "ja": {
+      "summary": "ヒラサザエ。岩礁の潮間帯下部〜潮下帯にすむリュウテン科(サザエの仲間)の巻貝で、殻は低く平たい円錐形で頑丈。殻口をふさぐ石灰質の厚いふた(蓋)をもつ。岩に吸着し、岩表の海藻をかじって食べる。サザエに近縁で、より平たい殻をもつ。",
+      "habitat_hint": "岩礁の潮間帯下部〜潮下帯、岩の上。",
+      "finding_tips": "潮間帯〜潮下帯の岩で、低く平たい円錐形の頑丈な巻貝を探す。平たい殻と厚い石灰質のふたが識別点。"
+    },
+    "en": {
+      "summary": "A turban snail (Pomaulax japonicus), a turbinid snail of the lower rocky intertidal and subtidal with a low, flattened, sturdy conical shell closed by a thick calcareous operculum; it clamps to rock and grazes algae. A relative of the horned turban, it has a flatter shell.",
+      "habitat_hint": "Lower rocky intertidal and subtidal, on rock.",
+      "finding_tips": "On lower intertidal rock look for a low flattened sturdy conical snail; the flat shell and thick stony operculum are the clues."
+    },
+    "zh": {
+      "summary": "ヒラサザエ。蝾螺科海螺，栖岩礁潮间带下部至潮下带，壳低扁圆锥、坚实，具厚石灰质厣封口，吸附岩面刮食海藻，近缘于蝾螺而壳更扁。",
+      "habitat_hint": "岩礁潮间带下部至潮下带、岩上。",
+      "finding_tips": "潮间下部岩上寻低扁圆锥坚实之螺；扁壳与厚石灰厣为辨识点。"
+    }
+  },
+  "Quercus nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oak",
+    "ja": {
+      "summary": "ホソバガシワ。ブナ科コナラ属の落葉樹で、カシワに似るが葉が細い(細葉柏)のが名の由来。葉は倒卵形で縁が波状に大きく切れ込み、カシワより細長い。どんぐり(堅果)をつける。カシワ類の一型として、山地や丘陵の林に見られる。",
+      "habitat_hint": "山地・丘陵の林、林縁。",
+      "finding_tips": "秋、山地の林でカシワに似るがより細い波状の葉と、どんぐりをもつ落葉樹を探す。細長い波状の葉が識別点。"
+    },
+    "en": {
+      "summary": "An oak (Quercus nipponica), a deciduous beech-family oak resembling the daimyo oak but with narrower leaves (its Japanese name means 'narrow-leaf kashiwa'); the obovate leaves have large wavy lobed margins and are more elongate than the daimyo oak's, and it bears acorns. A kashiwa-type oak, it occurs in montane and hill woodland.",
+      "habitat_hint": "Montane and hill woodland, woodland edges.",
+      "finding_tips": "In autumn in mountain woods look for a deciduous oak like the daimyo oak but with narrower wavy-lobed leaves and acorns; the narrow wavy leaves are the clue."
+    },
+    "zh": {
+      "summary": "ホソバガシワ。壳斗科栎属落叶树，似柏栎（槲树）而叶细（细叶柏）而得名，叶倒卵形、缘大波状裂、较槲树狭长，结橡实，为槲树类之一型，见于山地丘陵林。",
+      "habitat_hint": "山地、丘陵林、林缘。",
+      "finding_tips": "秋于山地林寻似槲树而叶较窄之波状裂叶、具橡实之落叶树；狭长波状叶为辨识点。"
+    }
   }
 }
