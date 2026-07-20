@@ -280578,5 +280578,490 @@
       "habitat_hint": "珊瑚礁、岩礁及周边浅海、外洋缘。",
       "finding_tips": "礁区寻细长银体具利齿之大鱼独悬水中；长银体与利齿为辨识点。"
     }
+  },
+  "Sphyraena putnamae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sawtooth barracuda",
+    "ja": {
+      "summary": "オオカマス。サンゴ礁やその周辺の浅海にすむカマス科の大型の肉食魚で、体は細長い銀色。体側に前上がりの暗色の横帯(斜め帯)が並ぶのが特徴。昼間しばしば大きな群れをつくり、鋭い歯で小魚を襲う。",
+      "habitat_hint": "サンゴ礁・岩礁とその周辺の浅海、群れる。",
+      "finding_tips": "サンゴ礁の周辺で、細長い銀色の体に前上がりの斜め帯が並ぶ大型の魚の群れを探す。斜めの横帯が識別点。"
+    },
+    "en": {
+      "summary": "Sawtooth barracuda (Sphyraena putnamae), a large predatory barracuda of coral reefs and adjacent shallows, slender and silvery, marked by a row of dark chevron-like oblique bars along the side; it often schools by day and strikes small fish with sharp teeth.",
+      "habitat_hint": "Coral and rocky reefs and adjacent shallows, schooling.",
+      "finding_tips": "Around reefs look for schools of slender silver fish with oblique dark bars along the flank; the chevron bars are the clue."
+    },
+    "zh": {
+      "summary": "オオカマス。魣科大型肉食鱼，栖珊瑚礁及周边浅海，体细长银色，体侧具前上斜之暗色横带列为特征，昼常成大群、以利齿袭小鱼。",
+      "habitat_hint": "珊瑚礁、岩礁及周边浅海，群栖。",
+      "finding_tips": "礁区寻细长银体具斜横带之大鱼群；斜横带为辨识点。"
+    }
+  },
+  "Spilarctia obliquizonata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiger moth",
+    "ja": {
+      "summary": "フトスジモンヒトリ。ヒトリガ科の中型のガで、前翅は淡黄色〜白っぽい地に太い斜めの筋(帯)や点をもつ。幼虫は毛虫(いわゆるケムシ)で、さまざまな草本の葉を食べる。夜行性で灯火に飛来する。成虫は口が退化しほとんど摂食しない。",
+      "habitat_hint": "草地、林縁、河川敷、人家周辺。",
+      "finding_tips": "初夏〜夏の夜、灯火で淡黄色に太い斜め筋をもつ中型のヒトリガを探す。太い斜めの筋が識別点。"
+    },
+    "en": {
+      "summary": "A tiger moth (Spilarctia obliquizonata), a medium arctiine with pale-yellow to whitish forewings bearing bold oblique streaks and dots; its hairy caterpillar eats various herbs. Nocturnal and coming to light, the adult has reduced mouthparts and barely feeds.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks, around houses.",
+      "finding_tips": "On summer nights at lights look for a medium pale-yellow moth with bold oblique streaks; those thick diagonal streaks are the clue."
+    },
+    "zh": {
+      "summary": "フトスジモンヒトリ。灯蛾科中型蛾，前翅淡黄至偏白、具粗斜纹与点，幼虫为食多种草本之毛虫，夜行趋光，成虫口器退化几不取食。",
+      "habitat_hint": "草地、林缘、河滩、人家周边。",
+      "finding_tips": "初夏至夏夜于灯下寻淡黄具粗斜纹之中型灯蛾；粗斜纹为辨识点。"
+    }
+  },
+  "Stauridium tetras": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green alga",
+    "ja": {
+      "summary": "ヒメクンショウモ。池沼や水田などの淡水にすむ微小な緑藻(かつてクンショウモ属に含まれた)で、数個〜十数個の細胞が平面上に規則正しく並んで勲章(メダル)状の群体をつくる。植物プランクトンとして水中に浮遊する。",
+      "habitat_hint": "池沼・水田・止水域の淡水(植物プランクトン)。",
+      "finding_tips": "顕微鏡で、池の水中の細胞が平面に規則正しく並んだ勲章状の微小な緑藻の群体を探す。放射状に並ぶ細胞が識別点。"
+    },
+    "en": {
+      "summary": "A green alga (Stauridium tetras, formerly in Pediastrum), a microscopic freshwater green alga of ponds and paddies in which a few to a dozen cells are arranged in a flat, regular medal-like colony; it floats in the water as phytoplankton.",
+      "habitat_hint": "Ponds, paddies and still freshwater (phytoplankton).",
+      "finding_tips": "Under a microscope in pond water look for a tiny flat medal-shaped colony of regularly arranged green cells; the radial cell arrangement is the clue."
+    },
+    "zh": {
+      "summary": "ヒメクンショウモ。微小淡水绿藻（旧属盘星藻），栖池沼水田，数至十余细胞于一平面规则排列成勋章（盘）状群体，作浮游植物悬于水中。",
+      "habitat_hint": "池沼、水田、止水淡水（浮游植物）。",
+      "finding_tips": "显微镜下于池水寻细胞规则平面排列之勋章状微小绿藻群体；放射排列细胞为辨识点。"
+    }
+  },
+  "Stelidota multiguttata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sap beetle",
+    "ja": {
+      "summary": "マルキマダラケシキスイ。ケシキスイ科の小型の甲虫で、体は褐色に淡色の斑(まだら模様)をもつ。樹液や熟した果実、腐りかけた植物質、キノコなどに集まり、発酵した匂いに誘われて飛来する。落葉や朽木の下でも見られる。",
+      "habitat_hint": "樹液・熟果・腐果、キノコ、朽木の下。",
+      "finding_tips": "夏、樹液の出る木や落ちた熟果で、褐色にまだら模様のある小さな甲虫を探す。淡色のまだら斑が手がかり。"
+    },
+    "en": {
+      "summary": "A sap beetle (Stelidota multiguttata), a small nitidulid mottled pale on brown; it gathers at tree sap, ripe and rotting fruit, decaying plant matter and fungi, drawn by fermenting smells, and is also found under litter and rotten wood.",
+      "habitat_hint": "Tree sap, ripe and rotting fruit, fungi, under rotten wood.",
+      "finding_tips": "In summer at sap runs or fallen ripe fruit look for a small brown beetle mottled pale; the pale mottling is the clue."
+    },
+    "zh": {
+      "summary": "マルキマダラケシキスイ。露尾甲科小型甲虫，体褐具淡色斑（花斑），聚于树液、熟果腐果、腐植与菌，受发酵气味引来，亦见于落叶朽木下。",
+      "habitat_hint": "树液、熟果腐果、菌、朽木下。",
+      "finding_tips": "夏于流液树或落熟果寻褐色具淡斑之小甲虫；淡色花斑为辨识点。"
+    }
+  },
+  "Stenobothrus fumatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grasshopper",
+    "ja": {
+      "summary": "ヒロバネヒナバッタ。バッタ科(ヒナバッタ類)の小〜中型のバッタで、体は褐色〜緑褐色。日当たりのよい草地や河川敷にすみ、翅をこすって(または後脚を翅にこすって)音を出して鳴く。イネ科などの草を食べる。ヒナバッタより翅が広め。",
+      "habitat_hint": "日当たりのよい草地、河川敷、乾いた草原。",
+      "finding_tips": "夏〜秋、草地で褐色の中型のバッタを探し、鳴き声も手がかりにする。やや幅広の翅と草地環境が識別点。"
+    },
+    "en": {
+      "summary": "A grasshopper (Stenobothrus fumatus), a small-to-medium brown to greenish-brown acridid of sunny grassland and riverbanks; it stridulates by rubbing its legs against the wings and eats grasses, with somewhat broader wings than the related small grasshoppers.",
+      "habitat_hint": "Sunny grassland, riverbanks, dry meadows.",
+      "finding_tips": "In summer–autumn in grassland look for a medium brown grasshopper and listen for its song; the broadish wings and grassland setting are the clues."
+    },
+    "zh": {
+      "summary": "ヒロバネヒナバッタ。蝗科小至中型蝗，体褐至绿褐，栖向阳草地与河滩，以腿翅相摩发声，食禾草，翅较近缘之小蝗为宽。",
+      "habitat_hint": "向阳草地、河滩、干草原。",
+      "finding_tips": "夏秋于草地寻褐色中型蝗，兼听其鸣；较宽翅与草地环境为辨识点。"
+    }
+  },
+  "Stenodema rubrinervis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass bug",
+    "ja": {
+      "summary": "アカミャクメクラガメ。カスミカメムシ科の細長いカメムシで、体は緑色〜黄緑色で、翅の脈(みゃく)が赤みを帯びるのが名の由来。イネ科植物の穂や茎から汁を吸い、草地やイネ科の茂る場所にすむ。細長い体で草に紛れる。",
+      "habitat_hint": "草地、イネ科の茂る場所、河川敷。",
+      "finding_tips": "初夏〜秋、イネ科の草地で細長い緑色のカメムシを探す。翅脈が赤みを帯びる点が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A grass bug (Stenodema rubrinervis), an elongate green to yellow-green mirid whose wing veins are tinged red (its Japanese name); it sucks the sap of grass ears and stems and lives in grassland and grassy places, its slender body blending with the grass.",
+      "habitat_hint": "Grassland, grassy places, riverbanks.",
+      "finding_tips": "From early summer in grassy places look for a slender green bug; reddish wing veins are the clue."
+    },
+    "zh": {
+      "summary": "アカミャクメクラガメ。盲蝽科细长蝽，体绿至黄绿、翅脉带红而得名，吸食禾草穗茎，栖草地与禾草丛，细长体隐于草间。",
+      "habitat_hint": "草地、禾草丛、河滩。",
+      "finding_tips": "初夏至秋于禾草地寻细长绿蝽；翅脉带红为辨识点。"
+    }
+  },
+  "Stereocaulon sorediiferum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snow lichen",
+    "ja": {
+      "summary": "オオキゴケ。岩の上や地上、火山礫地などに生える灰白色の樹枝状(こん棒状)の地衣類(キゴケの仲間)で、直立する偽子柄(小さな柱状の枝)を密に分枝させて群落をつくる。日当たりのよい岩場や高地の裸地に多い。",
+      "habitat_hint": "岩の上、地上、火山礫地、日当たりのよい裸地。",
+      "finding_tips": "一年中、岩場や火山礫地で灰白色に直立して密に分枝する樹枝状の地衣類を探す。こん棒状に分枝する体が識別点。"
+    },
+    "en": {
+      "summary": "A snow lichen (Stereocaulon sorediiferum), a whitish-grey shrubby (club-like) lichen of rock, ground and volcanic gravel; it forms colonies of densely branched erect pseudopodetia, common on sunny rocks and upland bare ground.",
+      "habitat_hint": "Rock, ground, volcanic gravel, sunny bare ground.",
+      "finding_tips": "Year-round on rock or volcanic gravel look for a whitish-grey erect densely branched shrubby lichen; the club-like branching is the clue."
+    },
+    "zh": {
+      "summary": "オオキゴケ。灰白色枝状（棒状）地衣，生岩上、地面与火山砾地，直立之拟果柄密分枝成群落，多见于向阳岩地与高地裸地。",
+      "habitat_hint": "岩上、地面、火山砾地、向阳裸地。",
+      "finding_tips": "全年于岩地火山砾寻灰白直立密枝之枝状地衣；棒状分枝为辨识点。"
+    }
+  },
+  "Stereophaedusa vasta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Door snail",
+    "ja": {
+      "summary": "オキギセル。キセルガイ科の陸生の巻貝で、殻は左巻きで細長い煙管(キセル)形。樹幹や岩、落葉の下などの湿った場所にすみ、樹皮や岩に付着した藻類・地衣・菌類などをかじって食べる。キセルガイの仲間で殻口に小さな襞(ひだ)をもつ。",
+      "habitat_hint": "樹幹、岩、落葉の下などの湿った林。",
+      "finding_tips": "雨後、樹幹や岩で左巻きの細長い煙管形の陸貝を探す。左巻きで細長い殻がキセルガイ類の識別点。"
+    },
+    "en": {
+      "summary": "A door snail (Stereophaedusa vasta), a land snail of the Clausiliidae with a sinistral (left-coiling), elongate pipe-shaped shell; it lives in damp places on tree trunks, rock and under litter, grazing algae, lichen and fungi from bark and stone, and has small folds at the shell mouth.",
+      "habitat_hint": "Tree trunks, rock, under litter in damp woodland.",
+      "finding_tips": "After rain on trunks or rock look for a left-coiling elongate pipe-shaped land snail; the sinistral slender shell is the clue."
+    },
+    "zh": {
+      "summary": "オキギセル。烟管螺科陆生螺，壳左旋、细长如烟管，栖树干、岩石与落叶下之湿处，刮食树皮岩面之藻、地衣与菌，壳口具小襞。",
+      "habitat_hint": "树干、岩石、落叶下之湿林。",
+      "finding_tips": "雨后于树干岩面寻左旋细长烟管形之陆螺；左旋细长壳为辨识点。"
+    }
+  },
+  "Stethoconus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lace-bug predator bug",
+    "ja": {
+      "summary": "グンバイカスミカメ。カスミカメムシ科の小型のカメムシで、植物を吸うのではなく、ツツジ類などにつくグンバイムシ(軍配虫)を捕食する肉食性のカメムシ。ツツジの葉裏などでグンバイムシを探して食べる、園芸上は益虫。",
+      "habitat_hint": "ツツジ類などグンバイムシのつく植物の葉裏。",
+      "finding_tips": "初夏〜夏、グンバイムシのつくツツジの葉裏で、それを捕食する小さなカメムシを探す。グンバイムシのいる葉が手がかり。"
+    },
+    "en": {
+      "summary": "A lace-bug predator bug (Stethoconus japonicus), a small predatory mirid that, rather than sucking plants, preys on the lace bugs infesting azaleas and similar plants; hunting them on the undersides of azalea leaves, it is a beneficial insect in gardens.",
+      "habitat_hint": "Undersides of azalea and other lace-bug-infested leaves.",
+      "finding_tips": "In early summer on the underside of lace-bug-infested azalea leaves look for a small bug preying on them; the presence of lace bugs is the clue."
+    },
+    "zh": {
+      "summary": "グンバイカスミカメ。盲蝽科小型蝽，不吸植物而捕食杜鹃等上之军配虫（网蝽），于杜鹃叶背搜食网蝽，园艺上为益虫。",
+      "habitat_hint": "杜鹃等有网蝽植物之叶背。",
+      "finding_tips": "初夏至夏于有网蝽之杜鹃叶背寻捕食之小蝽；有网蝽之叶为辨识点。"
+    }
+  },
+  "Strigatella paupercula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miter shell",
+    "ja": {
+      "summary": "ナガシマヤタテガイ。岩礁やサンゴ礁の浅海にすむフデガイ科の小型の巻貝で、殻は紡錘形で、暗色の地に淡色の帯や斑模様をもつ。潮間帯〜潮下帯の岩の下やサンゴ礫の間にすみ、肉食性で小動物などを食べる。",
+      "habitat_hint": "岩礁・サンゴ礁の浅海、岩の下、潮間帯〜潮下帯。",
+      "finding_tips": "潮間帯〜潮下帯の岩の下で、紡錘形で暗色地に淡色帯をもつ小さな巻貝を探す。紡錘形の殻と帯模様が識別点。"
+    },
+    "en": {
+      "summary": "A miter shell (Strigatella paupercula), a small mitrid snail of shallow rocky and coral reefs with a spindle-shaped shell dark-banded and paler-marked; it lives under rock and among coral rubble from the intertidal into the subtidal and is a carnivore of small animals.",
+      "habitat_hint": "Shallow rocky and coral reefs, under rock, intertidal to subtidal.",
+      "finding_tips": "Under intertidal to subtidal rock look for a small spindle snail dark with paler bands; the spindle shell and banding are the clues."
+    },
+    "zh": {
+      "summary": "ナガシマヤタテガイ。笔螺科小型海螺，栖岩礁珊瑚礁浅海，壳纺锤形、暗底具淡色带斑，居岩下与珊瑚砾间，潮间至潮下带，肉食小动物。",
+      "habitat_hint": "岩礁、珊瑚礁浅海、岩下、潮间至潮下带。",
+      "finding_tips": "潮间至潮下带岩下寻纺锤暗底具淡带之小螺；纺锤壳与带纹为辨识点。"
+    }
+  },
+  "Strobilanthes flexicaulis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ryukyu strobilanthes",
+    "ja": {
+      "summary": "オキナワスズムシソウ。沖縄など南西諸島の湿った林縁や渓流沿いに生えるキツネノマゴ科の多年草。秋、青紫色の筒状の唇形花を穂状に咲かせる。イセハナビの仲間で、暖地の日陰の湿った場所に群生することがある。",
+      "habitat_hint": "南西諸島の湿った林縁、渓流沿い、日陰の湿地。",
+      "finding_tips": "秋、南西諸島の湿った林縁で青紫色の筒状花を穂状につける草本を探す。青紫の筒状唇形花が識別点。"
+    },
+    "en": {
+      "summary": "A strobilanthes (Strobilanthes flexicaulis), an acanthus-family perennial of damp woodland edges and streamsides in Okinawa and the southwest islands; in autumn it bears blue-purple tubular two-lipped flowers in spikes, sometimes growing in patches in warm shaded moist places.",
+      "habitat_hint": "Damp woodland edges and streamsides in the SW islands, shaded wet ground.",
+      "finding_tips": "In autumn at damp SW-island woodland edges look for spikes of blue-purple tubular flowers; the blue-purple tubular blooms are the clue."
+    },
+    "zh": {
+      "summary": "オキナワスズムシソウ。爵床科多年草，生冲绳等西南诸岛之湿林缘与溪畔，秋生青紫筒状唇形花成穗，为马蓝类，暖地阴湿处或成片生。",
+      "habitat_hint": "西南诸岛湿林缘、溪畔、阴湿地。",
+      "finding_tips": "秋于西南诸岛湿林缘寻青紫筒状花穗之草；青紫筒状唇花为辨识点。"
+    }
+  },
+  "Struthiopteris castanea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマシシガシラ。山地〜亜高山の林内や林縁に生えるシシガシラ科の常緑のシダで、シシガシラの仲間。根ぎわから細長い単羽状の葉をロゼット状に立て、胞子をつける葉(胞子葉)は栄養葉より細く直立する。日陰の湿った斜面に多い。",
+      "habitat_hint": "山地〜亜高山の林内・林縁、日陰の湿った斜面。",
+      "finding_tips": "一年中、山地の林で細長い単羽状の葉をロゼット状に立てる常緑のシダを探す。細く直立する胞子葉が手がかり。"
+    },
+    "en": {
+      "summary": "A hard fern (Struthiopteris castanea), an evergreen deer-fern relative of montane to subalpine woodland interiors and edges; it stands narrow once-pinnate fronds in a rosette from the base, the spore-bearing fronds narrower and more erect than the sterile ones. It favours shaded damp slopes.",
+      "habitat_hint": "Montane to subalpine woodland interiors and edges, shaded damp slopes.",
+      "finding_tips": "Year-round in mountain woods look for an evergreen fern with narrow once-pinnate fronds in a rosette; the narrow erect fertile fronds are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマシシガシラ。乌毛蕨科常绿蕨，生山地至亚高山林内林缘，为狮子蕨类，自基部立细长单羽状叶成莲座，孢子叶较营养叶细而直立，多见于阴湿坡。",
+      "habitat_hint": "山地至亚高山林内林缘、阴湿坡。",
+      "finding_tips": "全年于山地林寻细长单羽状叶成莲座之常绿蕨；细直孢子叶为辨识点。"
+    }
+  },
+  "Styrax shiraianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snowbell",
+    "ja": {
+      "summary": "コハクウンボク。山地の林内や林縁に生えるエゴノキ科の落葉小高木で、ハクウンボクの仲間。大きな円形〜広卵形の葉をもち、初夏、枝先に白い釣鐘状の花を房状に垂れ下げて咲かせる。ハクウンボクより葉や花序がやや小型。",
+      "habitat_hint": "山地の林内・林縁、谷沿い。",
+      "finding_tips": "5〜6月、山地の林で大きな円い葉と、枝先に垂れ下がる白い釣鐘状の花房をもつ木を探す。垂れ下がる白い花房が識別点。"
+    },
+    "en": {
+      "summary": "A snowbell (Styrax shiraianus), a deciduous small tree of montane woodland interiors and edges, a relative of the fragrant snowbell; it has large round to broadly ovate leaves and hangs clusters of white bell-shaped flowers at the shoot tips in early summer, with somewhat smaller leaves and clusters than its relative.",
+      "habitat_hint": "Montane woodland interiors and edges, ravines.",
+      "finding_tips": "In May–June in mountain woods look for a tree with large round leaves and drooping clusters of white bell flowers at the shoot tips; the hanging white bells are the clue."
+    },
+    "zh": {
+      "summary": "コハクウンボク。安息香科落叶小乔木，生山地林内林缘，为玉铃花之近亲，具大圆至广卵叶，初夏枝顶垂生白色钟状花簇，叶与花序较玉铃花略小。",
+      "habitat_hint": "山地林内林缘、谷畔。",
+      "finding_tips": "5〜6月于山地林寻大圆叶、枝顶垂生白钟花簇之木；下垂白钟花为辨识点。"
+    }
+  },
+  "Suillus grevillei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Larch bolete",
+    "aliases": {
+      "zh-Hans": "厚环乳牛肝菌"
+    },
+    "ja": {
+      "summary": "ハナイグチ。カラマツ林の地上に生えるヌメリイグチ科のイグチ(管孔をもつキノコ)で、傘は鮮やかな黄褐色〜赤褐色で強い粘性(ぬめり)がある。カラマツと共生する。食用として人気が高く、地方名も多い(ジコボウなど)。秋に多発する。",
+      "habitat_hint": "秋、カラマツ林の地上(カラマツと共生)。",
+      "finding_tips": "秋、カラマツ林の地上で黄褐色〜赤褐色でぬめりのある傘と、下面が黄色い管孔のキノコを探す。ぬめる傘と黄色い管孔が識別点。"
+    },
+    "en": {
+      "summary": "Larch bolete (Suillus grevillei), a slippery bolete of larch woodland with a vivid yellow-brown to red-brown, strongly slimy cap; it partners with larch. A popular edible with many local names, it flushes in autumn.",
+      "habitat_hint": "Autumn on the ground in larch woodland (partnering larch).",
+      "finding_tips": "In autumn under larch look for a slimy yellow-brown to red-brown cap over a yellow pored underside; the slimy cap and yellow pores are the clues."
+    },
+    "zh": {
+      "summary": "ハナイグチ（厚环乳牛肝菌）。乳牛肝菌科牛肝菌，生落叶松林地上，盖鲜黄褐至红褐、强黏，与落叶松共生，为受欢迎之食用菌、地方名多，秋季多发。",
+      "habitat_hint": "秋，落叶松林地上（与落叶松共生）。",
+      "finding_tips": "秋于落叶松林寻黄褐至红褐黏盖、下面黄色管孔之菌；黏盖与黄管孔为辨识点。"
+    }
+  },
+  "Swertia diluta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌセンブリ。湿った草地や湿地の縁に生えるリンドウ科の一〜二年草で、薬草のセンブリに似るが苦味が少ない(役に立たない意で「イヌ」)。秋、白地に紫色の脈が入る星形の花を咲かせる。センブリより湿った環境を好む。",
+      "habitat_hint": "湿った草地、湿地の縁、日当たりのよい湿地。",
+      "finding_tips": "9〜11月、湿った草地で白地に紫の脈が入る星形の小花をもつ草本を探す。紫脈の入る白い花が識別点。"
+    },
+    "en": {
+      "summary": "A swertia (Swertia diluta), a gentian-family annual or biennial of damp grassland and wetland margins; like the medicinal Japanese green gentian but far less bitter (hence 'dog' = useless in Japanese), in autumn it opens star-shaped flowers white with purple veins, preferring damper ground than its relative.",
+      "habitat_hint": "Damp grassland, wetland margins, sunny wet ground.",
+      "finding_tips": "From September to November in damp grassland look for star-shaped flowers white with purple veins; the purple-veined white flower is the clue."
+    },
+    "zh": {
+      "summary": "イヌセンブリ。龙胆科一至二年草，生湿草地与湿地边缘，似药用之当药而苦味少（故名「犬」＝无用），秋开白底具紫脉之星状花，较当药更喜湿。",
+      "habitat_hint": "湿草地、湿地边缘、向阳湿地。",
+      "finding_tips": "9〜11月于湿草地寻白底具紫脉之星状小花；紫脉白花为辨识点。"
+    }
+  },
+  "Syngnathoides biaculeatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alligator pipefish",
+    "ja": {
+      "summary": "トゲヨウジ。浅い海の海草藻場(アマモ場)や流れ藻の間にすむヨウジウオ科の魚で、体は細長く角ばり、緑色〜褐色で海草に擬態する。尾は物に巻きつけられ、海草に尾を巻いて漂う。タツノオトシゴの近縁で、吻で小さなプランクトンを吸い込んで食べる。",
+      "habitat_hint": "浅海の海草藻場(アマモ場)、流れ藻の間。",
+      "finding_tips": "浅い海草藻場で、細長く角ばった緑〜褐色の魚が尾を海草に巻きつけているのを探す。海草に擬態する細長い体が識別点。"
+    },
+    "en": {
+      "summary": "Alligator pipefish (Syngnathoides biaculeatus), a pipefish of shallow seagrass beds and drifting weed with a long, angular, green to brown body that mimics seagrass; its prehensile tail grips, letting it hang from the weed. A seahorse relative, it sucks tiny plankton through its snout.",
+      "habitat_hint": "Shallow seagrass beds, drifting weed.",
+      "finding_tips": "In shallow seagrass look for a long angular green-brown fish gripping the grass with its tail; the seagrass-mimicking body is the clue."
+    },
+    "zh": {
+      "summary": "トゲヨウジ。海龙科鱼，栖浅海海草床（大叶藻场）与漂藻间，体细长具棱、绿至褐拟海草，尾具缠握力可卷草而悬，为海马近缘，以吻吸食小型浮游生物。",
+      "habitat_hint": "浅海海草床、漂藻间。",
+      "finding_tips": "浅海草床寻细长具棱绿褐、以尾卷草之鱼；拟海草长体为辨识点。"
+    }
+  },
+  "Synuchus callitheres": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "キアシツヤヒラタゴミムシ。オサムシ科の甲虫で、体は黒く光沢があり、脚が黄褐色(黄脚)なのが名の由来。林の地表や林縁の落葉の下にすみ、地表を歩き回って小さな昆虫やその卵などを捕食する。夜行性で、飛ばずに地表で暮らす。",
+      "habitat_hint": "林の地表、林縁、落葉の下。",
+      "finding_tips": "落葉や石をめくって、黒く光沢のある体に黄褐色の脚をもつ地表性の甲虫を探す。黄色い脚が識別点。"
+    },
+    "en": {
+      "summary": "A ground beetle (Synuchus callitheres), a glossy black carabid with yellowish-brown legs (its Japanese name); it lives on woodland ground and under litter at woodland edges, walking the surface to prey on small insects and their eggs, nocturnal, flightless and ground-dwelling.",
+      "habitat_hint": "Woodland ground, woodland edges, under leaf litter.",
+      "finding_tips": "Turn litter or stones to find a glossy black ground beetle with yellow-brown legs; the yellow legs are the clue."
+    },
+    "zh": {
+      "summary": "キアシツヤヒラタゴミムシ。步甲科甲虫，体黑有光泽、足黄褐（黄足）而得名，栖林间地表与林缘落叶下，行地表捕食小虫及卵，夜行、地栖不飞。",
+      "habitat_hint": "林间地表、林缘、落叶下。",
+      "finding_tips": "翻落叶石块寻黑亮体、黄褐足之地栖甲虫；黄足为辨识点。"
+    }
+  },
+  "Syrphus vitripennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "マガイヒラタアブ。ハナアブ科のアブで、腹に黒と黄の帯模様をもちハチに似るが刺さない。成虫は花を訪れて花粉や蜜をなめ、空中で静止飛行(ホバリング)する。幼虫はアブラムシを捕食する益虫。市街地から山地まで広く見られる。",
+      "habitat_hint": "花のある草地・庭・林縁、市街地〜山地。",
+      "finding_tips": "春〜秋、花の周りで空中静止するハチに似たアブを探す。刺さず、素早いホバリングが手がかり。"
+    },
+    "en": {
+      "summary": "A hoverfly (Syrphus vitripennis), a syrphid banded black and yellow that mimics a wasp but cannot sting; adults visit flowers for pollen and nectar and hover in mid-air, while the larvae are useful aphid predators. It is common from towns to mountains.",
+      "habitat_hint": "Flowery grassland, gardens and woodland edges, town to mountain.",
+      "finding_tips": "From spring to autumn watch flowers for a wasp-like fly hovering in place; the stingless hovering is the clue."
+    },
+    "zh": {
+      "summary": "マガイヒラタアブ。食蚜蝇科蚜蝇，腹具黑黄带拟蜂而不螫，成虫访花、善空中悬停，幼虫捕食蚜虫为益虫，自市区至山地广见。",
+      "habitat_hint": "有花草地、庭园、林缘，市区至山地。",
+      "finding_tips": "春秋于花间寻拟蜂而悬停之蝇；不螫、悬飞为辨识点。"
+    }
+  },
+  "Taraxacum venustum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ezo dandelion",
+    "ja": {
+      "summary": "エゾタンポポ。北日本や山地の草地に生える在来のタンポポ(キク科)で、総苞の外片が反り返らず密着するのが外来のセイヨウタンポポとの違い。春、黄色い頭花を咲かせ、綿毛のついた種子を風で散らす。日当たりのよい草地に生える。",
+      "habitat_hint": "北日本・山地の草地、日当たりのよい草地。",
+      "finding_tips": "春、草地で黄色い頭花を咲かせるタンポポの、花の下(総苞外片)が反り返らず密着しているものを探す。総苞が反り返らない点が在来種の識別点。"
+    },
+    "en": {
+      "summary": "Ezo dandelion (Taraxacum venustum), a native Japanese dandelion of northern and montane grassland; its outer involucral bracts stay appressed rather than reflexing, unlike the introduced common dandelion. In spring it opens yellow flower heads and scatters plumed seeds on the wind, in sunny grassland.",
+      "habitat_hint": "Northern and montane grassland, sunny grassland.",
+      "finding_tips": "In spring in grassland look for a yellow dandelion whose outer bracts under the head stay pressed flat, not curled back; those appressed bracts mark a native species."
+    },
+    "zh": {
+      "summary": "エゾタンポポ。菊科在来蒲公英，生北日本与山地草地，总苞外片贴伏不反卷，异于外来之西洋蒲公英，春开黄色头状花、种具冠毛随风散布，生向阳草地。",
+      "habitat_hint": "北日本、山地草地、向阳草地。",
+      "finding_tips": "春于草地寻黄花蒲公英之总苞外片贴伏不反卷者；总苞不反卷为在来种辨识点。"
+    }
+  },
+  "Tephroseris kirilowii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ragwort",
+    "ja": {
+      "summary": "オカオグルマ。日当たりのよい草地や丘、河川敷に生えるキク科の多年草。全体に白い綿毛が生え、春〜初夏、茎の先に黄色い頭花(舌状花+筒状花)を数個〜多数まとめて咲かせる。オグルマに似るが乾いた丘や草地に生える。",
+      "habitat_hint": "日当たりのよい草地、丘、河川敷、土手。",
+      "finding_tips": "4〜6月、日当たりのよい草地で白い綿毛と黄色い頭花をもつ草本を探す。白い綿毛と黄色い頭花が識別点。"
+    },
+    "en": {
+      "summary": "A ragwort (Tephroseris kirilowii), a daisy-family perennial of sunny grassland, hills and riverbanks; woolly-white throughout, in spring to early summer it bears several to many yellow flower heads (ray plus disc florets) at the stem tip, growing on drier hills and grassland.",
+      "habitat_hint": "Sunny grassland, hills, riverbanks, banks.",
+      "finding_tips": "In April–June in sunny grassland look for a white-woolly plant with yellow daisy-like heads; the white wool and yellow heads are the clues."
+    },
+    "zh": {
+      "summary": "オカオグルマ。菊科多年草，生向阳草地、丘陵与河滩，全株被白色绵毛，春至初夏茎顶生数至多枚黄色头状花（舌状加管状花），似旋覆花而生于较干丘草地。",
+      "habitat_hint": "向阳草地、丘陵、河滩、土坡。",
+      "finding_tips": "4〜6月于向阳草地寻被白绵毛、具黄头状花之草；白绵毛与黄头花为辨识点。"
+    }
+  },
+  "Tetraloniella mitsukurii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Long-horned bee",
+    "ja": {
+      "summary": "ミツクリヒゲナガハナバチ。ヒゲナガハナバチの仲間(ミツバチ科)のハナバチで、オスは名のとおり非常に長い触角をもつ。体は毛深く、後脚などに花粉を運ぶ毛をもつ。春、マメ科などの花を訪れて花粉・蜜を集め、地中に巣をつくる単独性のハチ。",
+      "habitat_hint": "草地・林縁・河川敷、地中に営巣。",
+      "finding_tips": "春、マメ科などの花で毛深く、オスは非常に長い触角をもつハナバチを探す。長い触角(オス)と毛深い体が識別点。"
+    },
+    "en": {
+      "summary": "A long-horned bee (Tetraloniella mitsukurii), an eucerine bee whose males have very long antennae as the name says; hairy-bodied with pollen-carrying hairs on the hind legs, in spring it visits pea-family and other flowers for pollen and nectar and nests solitarily in the ground.",
+      "habitat_hint": "Grassland, woodland edges and riverbanks; nests in the ground.",
+      "finding_tips": "In spring on pea-family flowers look for a hairy bee whose male has very long antennae; the long antennae and hairy body are the clues."
+    },
+    "zh": {
+      "summary": "ミツクリヒゲナガハナバチ。蜜蜂科长须蜂类，雄蜂触角极长如名，体多毛、后足具集粉毛，春访豆科等花采粉蜜，独居营巢于地下。",
+      "habitat_hint": "草地、林缘、河滩，地下营巢。",
+      "finding_tips": "春于豆科花寻多毛、雄具极长触角之花蜂；长触角（雄）与多毛体为辨识点。"
+    }
+  },
+  "Thermopsis lanceolata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False lupine",
+    "ja": {
+      "summary": "センダイハギ。海岸の砂地や草地、北方の草原に生えるマメ科の多年草。三出複葉をもち、初夏、茎の先に黄色い蝶形花を穂状に多数咲かせる。地下茎で広がって群生する。北方系の海岸植物で、鮮やかな黄色い花穂が目立つ。",
+      "habitat_hint": "海岸の砂地・草地、北方の草原。",
+      "finding_tips": "5〜7月、海岸や北方の草地で三出複葉と黄色い蝶形花の穂を立てる草本を探す。黄色い花穂と三出複葉が識別点。"
+    },
+    "en": {
+      "summary": "A false lupine (Thermopsis lanceolata), a pea-family perennial of coastal sand and grassland and northern meadows; with trifoliate leaves, in early summer it raises spikes of many yellow pea-flowers at the stem tips and spreads into stands by rhizomes. A striking northern coastal plant with vivid yellow spikes.",
+      "habitat_hint": "Coastal sand and grassland, northern meadows.",
+      "finding_tips": "In May–July on coast or northern grassland look for trifoliate leaves under spikes of yellow pea-flowers; the yellow flower spikes and trifoliate leaves are the clues."
+    },
+    "zh": {
+      "summary": "センダイハギ。豆科多年草，生海岸砂地草地与北方草原，具三出复叶，初夏茎顶生多数黄色蝶形花之穗，以地下茎蔓延成片，为北方海岸植物，黄色花穗醒目。",
+      "habitat_hint": "海岸砂地草地、北方草原。",
+      "finding_tips": "5〜7月于海岸或北方草地寻三出复叶与黄色蝶形花穗之草；黄花穗与三出叶为辨识点。"
+    }
   }
 }
