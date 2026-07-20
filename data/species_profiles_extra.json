@@ -283607,5 +283607,514 @@
       "habitat_hint": "湿润岩上、土上、溪畔阴湿地。",
       "finding_tips": "于溪畔湿岩湿土寻两列生卵圆叶而带绿红褐之匍匐苔类；匍匐茎与两列卵叶为辨识点。"
     }
+  },
+  "Solidago yokusaiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goldenrod",
+    "ja": {
+      "summary": "アオヤギバナ。渓流沿いの岩上や礫地に生えるキク科アキノキリンソウ属の多年草で、葉は細長い線状披針形(やなぎ葉)。秋に黄色い小さな頭花を穂状〜円錐状につける。アキノキリンソウの渓流型で、増水に耐える細い葉をもつ。",
+      "habitat_hint": "渓流沿いの岩上、礫地、河畔。",
+      "finding_tips": "秋、渓流沿いの岩で細い柳葉状の葉と黄色い小花の穂をもつキク科を探す。細い柳葉と黄色い花穂が識別点。"
+    },
+    "en": {
+      "summary": "A goldenrod (Solidago yokusaiana, Asteraceae), a perennial of streamside rock and gravel; the leaves are narrow linear-lanceolate (willow-like) and it bears small yellow flower heads in spikes to panicles in autumn. A streamside form of the Asian goldenrod, its narrow leaves tolerate flooding.",
+      "habitat_hint": "Streamside rock, gravel and riverbanks.",
+      "finding_tips": "In autumn on streamside rock look for an aster with narrow willow-like leaves and spikes of small yellow flowers; the narrow leaves with yellow flower spikes are the clue."
+    },
+    "zh": {
+      "summary": "アオヤギバナ。菊科一枝黄花属多年草，生溪畔岩上砾地，叶细长线状披针（柳叶状），秋于穗状至圆锥状生黄色小头花，为一枝黄花之溪流型，细叶耐涨水。",
+      "habitat_hint": "溪畔岩上、砾地、河畔。",
+      "finding_tips": "秋于溪畔岩上寻具细柳叶与黄色小花穗之菊科；细柳叶与黄花穗为辨识点。"
+    }
+  },
+  "Sparganium glomeratum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clustered bur-reed",
+    "ja": {
+      "summary": "タマミクリ。池沼や湿地の浅水に生えるガマ科(ミクリ科)の抽水性多年草で、細長い線形の葉を水面に伸ばす。夏に球状の頭花を茎の上部にかたまってつけ(glomeratum=球状に集まる)、金平糖状のとげとげした集合果を結ぶ。北日本や高地の湿地に多い。",
+      "habitat_hint": "池沼、湿地、休耕田の浅い止水。",
+      "finding_tips": "夏、湿地の浅水で細長い葉と球状のとげとげした集合果をかためてつける水草を探す。球状に集まる果実のかたまりが識別点。"
+    },
+    "en": {
+      "summary": "A bur-reed (Sparganium glomeratum, Typhaceae), an emergent perennial of ponds and wetland shallows; the long linear leaves reach across the water and it bears globose flower heads clustered on the upper stem (glomeratum = clustered), ripening into spiky burr-like aggregate fruits. Common in northern and upland wetland.",
+      "habitat_hint": "Ponds, wetland, fallow-paddy shallows (still water).",
+      "finding_tips": "In summer in wetland shallows look for a plant with long linear leaves and clustered globose spiky burr fruits; the clustered burr heads are the clue."
+    },
+    "zh": {
+      "summary": "タマミクリ。香蒲科（黑三棱科）挺水多年草，生池沼湿地浅水，长线形叶伸向水面，夏于茎上部密生球状头花（glomeratum 球状聚集），结金平糖状具刺聚合果，多见于北日本及高地湿地。",
+      "habitat_hint": "池沼、湿地、休耕田浅静水。",
+      "finding_tips": "夏于湿地浅水寻具长线叶与成簇球状具刺果之水草；球状聚集果团为辨识点。"
+    }
+  },
+  "Sperchon plumifer": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water mite",
+    "ja": {
+      "summary": "ハネケナガレダニ。渓流や清流の石の間にすむ水生のダニ(ミズダニ類)で、体は丸っこく赤〜赤褐色。脚に羽状の長い毛(羽毛状の剛毛)をもつのが名の由来。流水中を這い回り、水生昆虫の幼虫などを捕食する。幼虫期はカワゲラやユスリカに寄生する。",
+      "habitat_hint": "渓流、清流の石の間、礫底の間隙。",
+      "finding_tips": "渓流の石をめくり、丸っこい赤色でごく小さな水生のダニを探す。赤い丸い体と羽状の脚の毛が識別点(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A water mite (Sperchon plumifer, Hydrachnidia) living among stones in streams and clear running water; the rounded body is red to red-brown and the legs bear long feathery (plumose) setae (the source of the Japanese name). It crawls in flowing water preying on aquatic insect larvae; the larval stage parasitises stoneflies and midges.",
+      "habitat_hint": "Streams, clear running water, among stones and gravel.",
+      "finding_tips": "Turn stream stones to find a tiny rounded red aquatic mite; the round red body with feathery leg setae is the clue (lens needed)."
+    },
+    "zh": {
+      "summary": "ハネケナガレダニ。水生螨（水螨类），栖溪流清流石间，体圆、红至红褐，足具羽状长毛（羽状刚毛，名之由来），于流水中爬行捕食水生昆虫幼虫，幼期寄生石蝇与摇蚊。",
+      "habitat_hint": "溪流、清流石间、砾底间隙。",
+      "finding_tips": "翻溪石寻圆而红之极小水生螨；红圆体与羽状足毛为辨识点（需放大镜）。"
+    }
+  },
+  "Sphagnum microporum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peat moss",
+    "ja": {
+      "summary": "コアナミズゴケ。湿地や湿原に群生するミズゴケ科の蘚類で、多量の水を保持して盛り上がったマットをつくる。名(小穴)は葉細胞の透明細胞にある孔が小さいことに由来する。淡緑〜黄緑色で、しばしば赤みを帯びる。高層湿原などの泥炭形成に関わる。",
+      "habitat_hint": "湿地、湿原、貧栄養の湿った酸性地。",
+      "finding_tips": "湿原で、多量の水を含んで盛り上がる淡緑〜黄緑色のミズゴケのマットを探す。ふかふかの吸水性マットが識別点(種の確定は顕微鏡が必要)。"
+    },
+    "en": {
+      "summary": "A peat moss (Sphagnum microporum, Sphagnaceae) growing gregariously in wetland and bog, forming water-holding raised mats; the Japanese name ('small-pore') refers to the small pores of the hyaline leaf cells. Pale to yellow-green and often reddish-tinged, it contributes to peat formation in raised bogs.",
+      "habitat_hint": "Wetland, bog, nutrient-poor acid wet ground.",
+      "finding_tips": "In bogs look for a pale to yellow-green Sphagnum mat swollen with water; the spongy water-holding mat is the clue (species ID needs a microscope)."
+    },
+    "zh": {
+      "summary": "コアナミズゴケ。泥炭藓科藓类，群生于湿地泥炭沼，蓄大量水成隆起垫，和名（小孔）指其透明细胞孔小，淡绿至黄绿、常带红，参与高位沼泽泥炭形成。",
+      "habitat_hint": "湿地、泥炭沼、贫营养湿润酸性地。",
+      "finding_tips": "于泥炭沼寻含大量水而隆起之淡黄绿泥炭藓垫；松软吸水垫为辨识点（定种需显微镜）。"
+    }
+  },
+  "Sphenophorus venatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hunting billbug",
+    "aliases": {
+      "zh-Hans": "斯氏狭胸象"
+    },
+    "ja": {
+      "summary": "シバオサゾウムシ。芝地やイネ科草地にすむオサゾウムシ科の甲虫で、体は黒っぽく、口吻が長く前方に伸びる。幼虫と成虫がシバ(芝)などイネ科の茎や地際を食害し、ゴルフ場や芝生の害虫として知られる。北米原産の帰化種。",
+      "habitat_hint": "芝地、ゴルフ場、イネ科草地、公園の芝生。",
+      "finding_tips": "初夏〜夏、芝生で口吻が長く前方に伸びる黒っぽい中型のゾウムシを探す。長い口吻と黒い体が識別点。"
+    },
+    "en": {
+      "summary": "The hunting billbug (Sphenophorus venatus, Curculionidae), a weevil of turf and grassland; the dark body has a long forward-projecting snout. Both larvae and adults damage the stems and crowns of turfgrass and other grasses, making it a known pest of golf courses and lawns. It is naturalised from North America.",
+      "habitat_hint": "Turf, golf courses, grassland, park lawns.",
+      "finding_tips": "In early summer to summer on lawns look for a dark medium-sized weevil with a long forward-pointing snout; the long snout on a dark body is the clue."
+    },
+    "zh": {
+      "summary": "シバオサゾウムシ。象甲科甲虫，栖草坪与禾草地，体黑，喙长而前伸，幼虫成虫皆蛀食草坪等禾本茎与基部，为高尔夫球场与草坪之害虫，原产北美之归化种。",
+      "habitat_hint": "草坪、高尔夫球场、禾草地、公园草地。",
+      "finding_tips": "初夏至夏于草坪寻喙长前伸之黑色中型象甲；长喙黑体为辨识点。"
+    }
+  },
+  "Spruceanthus polymorphus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "チャボゴヘイゴケ。暖地の樹幹や岩、葉上に着生する葉状体をもつクサリゴケ科の苔類で、茎に沿って背片・腹片に分かれた葉を密に2列につける。名のとおり小型(矮鶏)で、緑〜褐色を帯びる。多形(polymorphus)で変異に富む。",
+      "habitat_hint": "暖地の湿った樹幹、岩、常緑樹の葉上。",
+      "finding_tips": "暖地の湿った樹皮や葉で、茎に葉を密に2列につける小型の這う苔類を探す。密な2列の葉をもつ小型の茎が識別点。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Spruceanthus polymorphus, Lejeuneaceae) epiphytic on trunks, rock and leaves in warm regions; the stems bear densely two-ranked leaves divided into a dorsal lobe and a ventral lobule. The Japanese name means 'dwarf', and the species is small, green to brown and highly variable (polymorphus).",
+      "habitat_hint": "Moist warm-region trunks, rock, evergreen leaves (epiphytic).",
+      "finding_tips": "On moist warm-region bark or leaves look for a small creeping liverwort with densely two-ranked leaves; the small stem with crowded two-ranked leaves is the clue."
+    },
+    "zh": {
+      "summary": "チャボゴヘイゴケ。细鳞苔科叶苔类，附生暖地树干、岩石、叶面，茎密生两列叶（分背片与腹片），和名（矮鸡）指其小型，绿至褐，多形（polymorphus）而变异丰富。",
+      "habitat_hint": "暖地湿润树干、岩石、常绿叶面（附生）。",
+      "finding_tips": "于暖地湿润树皮叶面寻密生两列叶之小型匍匐苔类；密两列叶之小茎为辨识点。"
+    }
+  },
+  "Stemonitis pallida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "イリマメムラサキホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、細い柄の上に円筒形の子実体が林立し、群がって生じる。ムラサキホコリ類だがやや淡色(pallida=淡い)を帯びる。変形体は朽木上をはい回り、成熟すると胞子塊(綿毛状)をつくる。",
+      "habitat_hint": "朽木、倒木、落葉上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で細い柄の上に円筒形の子実体が林立して群がるのを探す。林立する円筒形の子実体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Stemonitis pallida) fruiting on rotten wood and litter; cylindrical sporangia stand on slender stalks in dense clustered tufts. A Stemonitis-type but somewhat pale (pallida), its plasmodium creeps over rotten wood before maturing into cottony spore masses.",
+      "habitat_hint": "Rotten wood, fallen logs, leaf litter (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for dense tufts of cylindrical sporangia on slender stalks; the stalked cylindrical tufts are the clue."
+    },
+    "zh": {
+      "summary": "イリマメムラサキホコリ。变形菌（黏菌）之一，生朽木落叶上，圆筒形孢囊立于细柄成丛密生，属发网菌类而色略淡（pallida），变形体爬行朽木后成熟结棉絮状孢子团。",
+      "habitat_hint": "朽木、倒木、落叶上潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻细柄上林立成丛之圆筒孢囊；林立圆筒孢囊为辨识点。"
+    }
+  },
+  "Stemonitopsis hyperopta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "コムラサキホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、細い柄の上に小型の円筒形の子実体が群がって林立する。ムラサキホコリ類に似るがより小型(小紫)。紫褐色〜暗褐色。変形体は朽木上をはい回り、成熟すると胞子塊をつくる。",
+      "habitat_hint": "朽木、倒木、落葉上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で細い柄の上に小型の円筒形子実体が群がるのを探す。小型で林立する円筒形の子実体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Stemonitopsis hyperopta) on rotten wood and litter; small cylindrical sporangia stand clustered on slender stalks. It resembles Stemonitis but is smaller (the Japanese name means 'small purple slime mould'), purple-brown to dark brown; the plasmodium creeps over rotten wood before maturing into spore masses.",
+      "habitat_hint": "Rotten wood, fallen logs, leaf litter (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered small cylindrical sporangia on slender stalks; the small stalked cylindrical tufts are the clue."
+    },
+    "zh": {
+      "summary": "コムラサキホコリ。变形菌（黏菌）之一，生朽木落叶上，小型圆筒孢囊立于细柄成丛，似发网菌类而较小（小紫），紫褐至暗褐，变形体爬行朽木后成熟结孢子团。",
+      "habitat_hint": "朽木、倒木、落叶上潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻细柄上成丛之小型圆筒孢囊；小型林立圆筒孢囊为辨识点。"
+    }
+  },
+  "Stenocranus matsumurai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Delphacid planthopper",
+    "ja": {
+      "summary": "エゾナガウンカ。イネ科やカヤツリグサ科の生える湿った草地にすむウンカ科の小さな昆虫で、体は細長く、頭部が前方にとがって伸びる。淡褐色で背に淡色の縦条をもつことが多い。植物の汁を吸う。名(蝦夷)のとおり北日本に多い。学名は昆虫学者松村にちなむ。",
+      "habitat_hint": "湿った草地、イネ科・カヤツリグサ科の茂み、湿地周辺。",
+      "finding_tips": "湿った草地で、頭が前にとがった細長い淡褐色の小さなウンカを探す。細長い体と前にとがる頭が識別点。"
+    },
+    "en": {
+      "summary": "A delphacid planthopper (Stenocranus matsumurai) of moist grassland with grasses and sedges; the elongate body has a head produced forward into a point, is pale brown and often has a pale dorsal stripe. It sucks plant sap. Common in northern Japan (the epithet honours the entomologist Matsumura).",
+      "habitat_hint": "Moist grassland, grass and sedge stands, wetland edges.",
+      "finding_tips": "In moist grassland look for an elongate pale-brown planthopper with a forward-pointed head; the elongate body with a pointed head is the clue."
+    },
+    "zh": {
+      "summary": "エゾナガウンカ。飞虱科小虫，栖生禾草莎草之湿润草地，体细长、头前伸成尖，淡褐、背常具淡色纵条，吸食植物汁液，多见于北日本（种名纪念昆虫学家松村）。",
+      "habitat_hint": "湿润草地、禾草莎草丛、湿地周边。",
+      "finding_tips": "于湿润草地寻头前尖之细长淡褐飞虱；细长体与前尖头为辨识点。"
+    }
+  },
+  "Stenolophus connotatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "セグロマメゴモクムシ。田畑や草地、水辺の地表にすむオサムシ科(ゴモクムシ類)の小型の甲虫で、上翅の背(合わせ目付近)が黒く、周囲や脚が淡色を帯びる(背黒)。夜間に活動し、灯火に飛来する。地表を歩き、小さな昆虫や植物の種子を食べる。",
+      "habitat_hint": "田畑、草地、水辺、河原などの湿った地表。",
+      "finding_tips": "夜、灯火や地表で上翅の背が黒く周囲が淡色の小さなゴモクムシを探す。黒い背と淡い体縁が識別点。"
+    },
+    "en": {
+      "summary": "A ground beetle (Stenolophus connotatus, Carabidae) of fields, grassland and waterside ground; the small beetle has a darkened elytral disc (near the suture) with paler margins and legs (the Japanese name means 'black-backed'). Nocturnal and attracted to lights, it walks the ground eating small insects and seeds.",
+      "habitat_hint": "Fields, grassland, waterside, riverbanks (moist ground).",
+      "finding_tips": "At night at lights or on the ground look for a small ground beetle with a dark elytral disc and pale margins; the black back with pale edges is the clue."
+    },
+    "zh": {
+      "summary": "セグロマメゴモクムシ。步甲科小型甲虫，栖田地、草地、水边地表，鞘翅背（合缝附近）黑、周缘与足带淡色（背黑），夜行趋光，于地表食小昆虫与种子。",
+      "habitat_hint": "田地、草地、水边、河滩等湿润地表。",
+      "finding_tips": "夜于灯下或地表寻鞘翅背黑而周缘淡之小步甲；黑背淡缘为辨识点。"
+    }
+  },
+  "Stenolophus kurosai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "クロサマメゴモクムシ。田畑や草地、水辺の地表にすむオサムシ科(ゴモクムシ類)の小型の甲虫で、体は黒っぽく、脚や触角が淡色を帯びる。夜間に活動して灯火に飛来し、地表を歩いて小さな昆虫や植物の種子を食べる。学名は採集者クロサにちなむ。",
+      "habitat_hint": "田畑、草地、水辺、河原などの湿った地表。",
+      "finding_tips": "夜、灯火や地表で黒っぽく脚が淡色の小さなゴモクムシを探す。黒い体に淡い脚が識別点(近縁種は交尾器などで区別)。"
+    },
+    "en": {
+      "summary": "A ground beetle (Stenolophus kurosai, Carabidae) of fields, grassland and waterside ground; the small beetle is dark with paler legs and antennae. Nocturnal and attracted to lights, it walks the ground eating small insects and seeds (the epithet honours the collector Kurosa).",
+      "habitat_hint": "Fields, grassland, waterside, riverbanks (moist ground).",
+      "finding_tips": "At night at lights or on the ground look for a small dark ground beetle with pale legs; the dark body with pale legs is the clue (relatives separated by genitalia)."
+    },
+    "zh": {
+      "summary": "クロサマメゴモクムシ。步甲科小型甲虫，栖田地、草地、水边地表，体黑、足与触角带淡色，夜行趋光，于地表食小昆虫与种子（种名纪念采集者 Kurosa）。",
+      "habitat_hint": "田地、草地、水边、河滩等湿润地表。",
+      "finding_tips": "夜于灯下或地表寻体黑而足淡之小步甲；黑体淡足为辨识点（近缘种以交尾器区分）。"
+    }
+  },
+  "Stenus bohemicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove beetle",
+    "ja": {
+      "summary": "ボヘミアカワベメダカハネカクシ。水辺の湿った地表にすむハネカクシ科メダカハネカクシ属の小型の甲虫で、上翅が短く腹部が露出し、大きな目(メダカ)をもつ。黒っぽく光沢がある。下唇を弾くように伸ばしてトビムシなどの小さな獲物を捕らえる。水面を走ることもできる。",
+      "habitat_hint": "水辺、湿地、河原などの湿った地表。",
+      "finding_tips": "水辺の湿った地面で、大きな目をもち上翅が短い黒く光沢のある小さなハネカクシを探す。大きな目と短い上翅が識別点。"
+    },
+    "en": {
+      "summary": "A rove beetle (Stenus bohemicus, Staphylinidae), a small beetle of moist waterside ground with short elytra exposing the abdomen and large eyes (the Japanese name means 'big-eyed'). Dark and glossy, it shoots out its labium to seize small prey such as springtails and can even run on the water surface.",
+      "habitat_hint": "Waterside, wetland, riverbanks (moist ground).",
+      "finding_tips": "On moist waterside ground look for a small dark glossy rove beetle with large eyes and short elytra; the big eyes with short wing-cases are the clue."
+    },
+    "zh": {
+      "summary": "ボヘミアカワベメダカハネカクシ。隐翅虫科（Stenus 属）小型甲虫，栖水边湿润地表，鞘翅短、腹外露、眼大（和名大眼），体黑具光泽，弹伸下唇捕捉跳虫等小猎物，亦能于水面奔行。",
+      "habitat_hint": "水边、湿地、河滩等湿润地表。",
+      "finding_tips": "于水边湿地寻眼大、鞘翅短之黑亮小隐翅虫；大眼与短鞘翅为辨识点。"
+    }
+  },
+  "Strigula smaragdula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf lichen",
+    "ja": {
+      "summary": "アオバゴケ。暖地の常緑樹の葉の表面に着生する葉上地衣(ヒメゴケ科)で、体は薄い膜状で葉に貼りつき、緑色(青葉)を帯びる(smaragdula=エメラルド色)。葉の表面に緑色の斑点や膜として広がり、黒い小さな子器を散らす。照葉樹林の葉上に多い。",
+      "habitat_hint": "暖地の常緑広葉樹の葉上、照葉樹林。",
+      "finding_tips": "照葉樹林で、常緑樹の葉の表面に貼りついた緑色の薄い膜状の地衣を探す。葉上に広がる緑色の膜が識別点。"
+    },
+    "en": {
+      "summary": "A foliicolous lichen (Strigula smaragdula, Strigulaceae) growing on the surface of evergreen leaves in warm regions; the thin filmy thallus is pressed to the leaf and tinged green (smaragdula = emerald). It spreads as green patches or films dotted with small black perithecia, common on the leaves of laurel forest.",
+      "habitat_hint": "On evergreen broadleaf leaves in warm-region laurel forest.",
+      "finding_tips": "In laurel forest look on evergreen leaf surfaces for a thin green filmy lichen pressed to the leaf; the green film on the leaf is the clue."
+    },
+    "zh": {
+      "summary": "アオバゴケ。叶上地衣（Strigulaceae），附生暖地常绿树叶面，体薄膜状贴叶、带绿（smaragdula 翠绿），于叶面成绿色斑膜并散生黑色小子器，多见于照叶林之叶上。",
+      "habitat_hint": "暖地常绿阔叶树叶面、照叶林。",
+      "finding_tips": "于照叶林寻贴生常绿叶面之绿色薄膜状地衣；叶上绿色膜为辨识点。"
+    }
+  },
+  "Synchroa melanotoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False darkling beetle",
+    "ja": {
+      "summary": "ヒメコメツキガタナガクチキ。朽木にすむナガクチキムシ科の細長い甲虫で、体は黒っぽく、コメツキムシに似た細長い体形をもつ(コメツキ形)。成虫は朽木や樹皮下で見られ、幼虫は朽木内を食べて育つ。夜間に灯火へ飛来することがある。",
+      "habitat_hint": "朽木、倒木、樹皮下の枯死木。",
+      "finding_tips": "朽木や樹皮下で、コメツキムシに似た細長い黒っぽい甲虫を探す。細長いコメツキ形の体が識別点。"
+    },
+    "en": {
+      "summary": "A false darkling beetle (Synchroa melanotoides, Melandryidae), an elongate beetle of dead wood; the dark body has an elongate click-beetle-like form (the source of the Japanese name). Adults occur on rotten wood and under bark, and larvae develop feeding within dead wood. Adults sometimes come to lights.",
+      "habitat_hint": "Rotten wood, fallen logs, under bark of dead trees.",
+      "finding_tips": "On rotten wood or under bark look for an elongate dark beetle resembling a click beetle; the elongate click-beetle-like body is the clue."
+    },
+    "zh": {
+      "summary": "ヒメコメツキガタナガクチキ。长朽木甲科（Melandryidae）之细长甲虫，栖朽木，体黑、形细长似叩甲（叩甲形），成虫见于朽木树皮下，幼虫蛀食朽木，成虫时趋光。",
+      "habitat_hint": "朽木、倒木、枯木树皮下。",
+      "finding_tips": "于朽木树皮下寻似叩甲之细长黑甲虫；细长叩甲形体为辨识点。"
+    }
+  },
+  "Sypnoides fumosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Erebid moth",
+    "ja": {
+      "summary": "クロシラフクチバ。ヤガ科(シタバガ亜科)のガで、前翅は黒褐色〜煙褐色(fumosa=煙色)の地に白っぽい斑や横線をもつ。中〜大型で、静止時は翅を屋根形にたたむ。幼虫はシャクトリムシ型で、木本の葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夏の夜、灯火などで黒褐色地に白っぽい斑をもつ中〜大型のヤガを探す。煙褐色地の白斑が識別点。"
+    },
+    "en": {
+      "summary": "An erebid moth (Sypnoides fumosa, Erebidae: Catocalinae); the forewings are dark-brown to smoky-brown (fumosa = smoky) with whitish blotches and cross-lines. Medium to large, it folds its wings roof-like at rest, and the looper caterpillar feeds on woody-plant leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "On summer nights at lights look for a medium to large moth with smoky-brown forewings and whitish blotches; the smoky ground with white marks is the clue."
+    },
+    "zh": {
+      "summary": "クロシラフクチバ。夜蛾科（裳蛾亚科）之蛾，前翅黑褐至烟褐（fumosa 烟色）具白斑与横线，中至大型，静止时翅呈屋脊状，幼虫尺蠖型食木本叶，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夏夜于灯下寻黑褐底具白斑之中大型夜蛾；烟褐底白斑为辨识点。"
+    }
+  },
+  "Tachys pallescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ウスイロコミズギワゴミムシ。水辺や湿地の地表にすむオサムシ科(ミズギワゴミムシ類)のごく小型の甲虫で、体長は数mm。体は淡色(薄色)を帯び、素早く歩く。河原や田の畔などの湿った地面や石の下にすみ、微小な小動物を捕食する。",
+      "habitat_hint": "水辺、湿地、河原、田の畔などの湿った地表・石下。",
+      "finding_tips": "水辺の湿った地面や石をめくり、数mmの淡色で素早く歩く微小なゴミムシを探す。淡色でごく小さな体が識別点。"
+    },
+    "en": {
+      "summary": "A ground beetle (Tachys pallescens, Carabidae), a very small beetle only a few millimetres long living on waterside and wetland ground; the body is pale (pallescens = pale) and it runs quickly. It lives under stones on moist ground of riverbanks and paddy banks, preying on minute animals.",
+      "habitat_hint": "Waterside, wetland, riverbanks, paddy banks (moist ground, under stones).",
+      "finding_tips": "On moist waterside ground turn stones to find a pale few-millimetre fast-running tiny ground beetle; the pale minute body is the clue."
+    },
+    "zh": {
+      "summary": "ウスイロコミズギワゴミムシ。步甲科（水际类）之极小甲虫，体长仅数毫米，栖水边湿地地表，体带淡色（pallescens 淡）而行动迅速，居河滩田埂湿地石下，捕食微小动物。",
+      "habitat_hint": "水边、湿地、河滩、田埂等湿润地表、石下。",
+      "finding_tips": "于水边湿地翻石寻数毫米、淡色而疾行之微小步甲；淡色极小体为辨识点。"
+    }
+  },
+  "Taraxacum shikotanense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shikotan dandelion",
+    "ja": {
+      "summary": "シコタンタンポポ。北方の海岸や高山の草地に生えるキク科タンポポ属の多年草で、在来のタンポポの一種。総苞外片が反り返らず密着し、黄色い頭花を1つつける。葉は根生してロゼットをつくり、羽状に切れ込む。名は千島の色丹(しこたん)島に由来する。",
+      "habitat_hint": "北方の海岸草地、高山の草地、礫地。",
+      "finding_tips": "春〜夏、北方の草地で総苞外片が反り返らない黄色いタンポポを探す。反り返らない総苞と北方分布が識別点(外来種と区別)。"
+    },
+    "en": {
+      "summary": "A native dandelion (Taraxacum shikotanense, Asteraceae), a perennial of northern coastal and alpine grassland; the outer involucral bracts are appressed (not reflexed) and it bears a single yellow flower head. The pinnately-lobed leaves form a basal rosette (the name refers to Shikotan in the Kurils).",
+      "habitat_hint": "Northern coastal grassland, alpine grassland, gravel.",
+      "finding_tips": "In spring to summer in northern grassland look for a yellow dandelion with appressed (non-reflexed) outer bracts; the appressed involucre with a northern range is the clue (distinguishing it from aliens)."
+    },
+    "zh": {
+      "summary": "シコタンタンポポ。菊科蒲公英属多年草，为在来蒲公英之一，生北方海岸与高山草地，总苞外片贴生不反卷，头花单生黄色，叶基生成莲座、羽状裂，名源千岛色丹岛。",
+      "habitat_hint": "北方海岸草地、高山草地、砾地。",
+      "finding_tips": "春至夏于北方草地寻总苞外片不反卷之黄色蒲公英；不反卷总苞与北方分布为辨识点（别于外来种）。"
+    }
+  },
+  "Tautoneura japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafhopper",
+    "ja": {
+      "summary": "クズヒメヨコバイ。クズ(葛)などマメ科のつる植物につくヨコバイ科の小さな昆虫で、体は細長いくさび形。淡黄色〜淡緑色の地に淡い斑紋をもつことが多い。葉裏に群れて汁を吸い、驚くと横に素早く歩く(横這い)。低地の草地や林縁のクズに多い。",
+      "habitat_hint": "クズなどマメ科つる植物の茂み、草地、林縁。",
+      "finding_tips": "夏、クズの葉裏で細長いくさび形の淡黄色の小さなヨコバイを探す。細長い淡色の体と葉裏の群れが識別点。"
+    },
+    "en": {
+      "summary": "A leafhopper (Tautoneura japonica, Cicadellidae) on kudzu and other leguminous vines; the small wedge-shaped body is pale yellow to pale green, often with faint markings. It clusters on leaf undersides sucking sap and walks sideways quickly when disturbed. Common on kudzu at lowland grassland and woodland edges.",
+      "habitat_hint": "Kudzu and other legume-vine thickets, grassland, woodland edges.",
+      "finding_tips": "In summer on kudzu leaf undersides look for a small elongate wedge-shaped pale-yellow leafhopper; the pale elongate body clustering under leaves is the clue."
+    },
+    "zh": {
+      "summary": "クズヒメヨコバイ。叶蝉科小虫，栖葛等豆科藤蔓，体细长楔形，淡黄至淡绿、常具淡纹，群集叶背吸汁，受惊则横行迅速，多见于低地草地林缘之葛。",
+      "habitat_hint": "葛等豆科藤蔓丛、草地、林缘。",
+      "finding_tips": "夏于葛叶背寻细长楔形之淡黄小叶蝉；淡色细长体与叶背群集为辨识点。"
+    }
+  },
+  "Termioptycha nigrescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snout moth",
+    "ja": {
+      "summary": "クロフトメイガ。メイガ科(フトメイガ亜科)のガで、前翅は黒褐色(黒斑)を帯びた地に横線をもち、太めのがっしりした体をもつ(太螟蛾)。静止時は翅を体に沿ってたたむ。幼虫は樹木の葉や落葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夏の夜、灯火などで黒褐色を帯びた太めのメイガを探す。黒っぽい体色とがっしりした体が識別点。"
+    },
+    "en": {
+      "summary": "A snout moth (Termioptycha nigrescens, Pyralidae: Epipaschiinae); the forewings are dark-brown-tinged with transverse lines, and the body is stout (the Japanese name means 'black stout snout-moth'). It folds its wings along the body at rest, and larvae feed on tree leaves and litter. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "On summer nights at lights look for a stout dark-brown-tinged pyralid; the dark stout body is the clue."
+    },
+    "zh": {
+      "summary": "クロフトメイガ。螟蛾科（粗螟亚科）之蛾，前翅黑褐（黑斑）具横线，体粗壮（黑粗螟蛾），静止时翅贴体，幼虫食树叶与落叶，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夏夜于灯下寻黑褐而粗壮之螟蛾；黑体粗壮为辨识点。"
+    }
+  },
+  "Tetraphis pellucida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Four-tooth moss",
+    "ja": {
+      "summary": "ヨツバゴケ。朽木や切り株、腐植土上に群生する小型の蘚類(ヨツバゴケ科)で、蒴(さく)の口に4枚の大きな歯(ペリストーム)をもつのが名(四つ歯)の由来。茎の先に杯状の無性芽器(gemma cup)をつくり、その中の無性芽で盛んにふえる。半透明(pellucida)の葉をもつ。",
+      "habitat_hint": "朽木、切り株、腐植土上、酸性の湿った有機物。",
+      "finding_tips": "湿った朽木や切り株で、茎の先に杯状の芽体をつける小型の緑色の蘚を探す。杯状の無性芽器が識別点。"
+    },
+    "en": {
+      "summary": "The four-tooth moss (Tetraphis pellucida, Tetraphidaceae), a small moss growing gregariously on rotten wood, stumps and humus; the capsule mouth has just four large teeth (peristome), the source of the name. It forms cup-like gemma cups at stem tips and spreads freely by the gemmae inside, with translucent (pellucida) leaves.",
+      "habitat_hint": "Rotten wood, stumps, humus, acid moist organic matter.",
+      "finding_tips": "On moist rotten wood or stumps look for a small green moss with cup-like gemma cups at the stem tips; the gemma cups are the clue."
+    },
+    "zh": {
+      "summary": "ヨツバゴケ。四齿藓科小型藓类，群生于朽木、树桩、腐殖土，蒴口仅具四大齿（蒴齿，名之由来），茎顶生杯状芽杯（gemma cup），以其内芽胞繁殖，叶半透明（pellucida）。",
+      "habitat_hint": "朽木、树桩、腐殖土、酸性湿润有机物。",
+      "finding_tips": "于湿润朽木树桩寻茎顶生杯状芽体之绿色小藓；杯状芽杯为辨识点。"
+    }
+  },
+  "Thamnobryum alopecurum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fox-tail feather-moss",
+    "ja": {
+      "summary": "キツネノオゴケ。渓流沿いの湿った岩上や樹幹の基部に生える中型の蘚類(アオギヌゴケ科)で、主茎から枝を出して樹木状に立ち上がり、枝先が房状になる。名(狐の尾)や種名(alopecurum=キツネの尾)は、その毛筆〜尾のような枝ぶりに由来する。",
+      "habitat_hint": "渓流沿いの湿った岩上、樹幹基部、石灰岩地。",
+      "finding_tips": "渓流沿いの湿った岩で、主茎から枝を出して樹木状に立ち上がる中型の蘚を探す。樹木状に立つ房状の枝が識別点。"
+    },
+    "en": {
+      "summary": "A feather-moss (Thamnobryum alopecurum, Neckeraceae) of moist streamside rock and trunk bases; from a main stem it sends up dendroid (tree-like) fronds with tufted branch tips. Both the Japanese name ('fox-tail moss') and the epithet (alopecurum = fox-tail) refer to its brush- or tail-like branching.",
+      "habitat_hint": "Moist streamside rock, trunk bases, limestone.",
+      "finding_tips": "On moist streamside rock look for a medium moss that rises tree-like with tufted branch tips from a main stem; the dendroid tufted fronds are the clue."
+    },
+    "zh": {
+      "summary": "キツネノオゴケ。青藓科（Neckeraceae）中型藓类，生溪畔湿岩与树干基部，自主茎生枝、树状直立，枝端成簇，和名（狐尾）与种名（alopecurum 狐尾）皆指其如毛笔或尾之枝态。",
+      "habitat_hint": "溪畔湿岩、树干基部、石灰岩地。",
+      "finding_tips": "于溪畔湿岩寻自主茎生枝、树状直立而枝端成簇之中型藓；树状成簇枝为辨识点。"
+    }
+  },
+  "Thaxterogaster purpurascens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Webcap",
+    "ja": {
+      "summary": "カワムラフウセンタケ。夏〜秋、主にブナ科など広葉樹林の地上に発生するフウセンタケ科のきのこで、傘や柄は紫色を帯び、傷つくと紫色が強まる(purpurascens=紫色を帯びる)。若い時は柄が膨らんで風船状。ひだにクモの巣状の被膜(コルチナ)の痕を残す。菌根菌。",
+      "habitat_hint": "夏〜秋、ブナ科など広葉樹林・針葉樹林の地上。",
+      "finding_tips": "夏〜秋、林内の地上で紫色を帯び柄が膨らんだフウセンタケ類を探す。紫色を帯びる傘・柄とクモの巣状被膜の痕が識別点。"
+    },
+    "en": {
+      "summary": "A webcap (Thaxterogaster purpurascens, Cortinariaceae) fruiting on the ground in broadleaf (esp. Fagaceae) and conifer woodland in summer to autumn; cap and stipe are purple-tinged and bruise more strongly purple (purpurascens). The stipe is swollen when young, and the gills retain traces of the cobweb-like cortina. It is ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf and conifer woodland.",
+      "finding_tips": "In summer to autumn on the woodland floor look for a purple-tinged webcap with a swollen stipe; the purplish cap and stipe with cortina traces are the clue."
+    },
+    "zh": {
+      "summary": "カワムラフウセンタケ。丝膜菌科真菌，夏秋生阔叶（尤壳斗科）与针叶林地上，盖柄带紫、伤则紫加深（purpurascens 带紫），幼时柄膨如球，菌褶留蛛网状菌幕（cortina）痕，为菌根菌。",
+      "habitat_hint": "夏秋阔叶与针叶林地上。",
+      "finding_tips": "夏秋于林地寻带紫、柄膨之丝膜菌类；紫盖柄与蛛网菌幕痕为辨识点。"
+    }
+  },
+  "Theora lata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Semele clam",
+    "ja": {
+      "summary": "シズクガイ。内湾の泥底にすむ小型の二枚貝(クチベニガイ科)で、殻は薄くしずく(雫)形にやや後方へ長く伸び、白色半透明。有機物に富む軟泥に多く、貧酸素にも比較的強いため、内湾の環境指標種とされる。潮下帯の泥中に浅く埋在する。",
+      "habitat_hint": "内湾、河口の泥底、軟泥、潮下帯。",
+      "finding_tips": "内湾の泥底で、白色半透明で薄いしずく形の小さな二枚貝を探す。しずく形の薄い半透明の殻が識別点。"
+    },
+    "en": {
+      "summary": "A small semele clam (Theora lata, Semelidae) of muddy bay bottoms; the thin shell is drop-shaped and drawn out posteriorly, white and translucent. Abundant on organic-rich soft mud and relatively tolerant of low oxygen, it is used as an environmental indicator of inner bays, buried shallowly in subtidal mud.",
+      "habitat_hint": "Inner bays, estuary mud, soft mud, subtidal.",
+      "finding_tips": "On muddy bay bottoms look for a small thin translucent white drop-shaped clam; the thin translucent teardrop shell is the clue."
+    },
+    "zh": {
+      "summary": "シズクガイ。栖内湾泥底之小型双壳（唇齿蛤科 Semelidae），壳薄呈水滴形、后方略延伸，白色半透明，多见于富有机质软泥、较耐缺氧，为内湾环境指标种，浅埋潮下带泥中。",
+      "habitat_hint": "内湾、河口泥底、软泥、潮下带。",
+      "finding_tips": "于内湾泥底寻白色半透明、薄水滴形之小双壳；薄透明水滴壳为辨识点。"
+    }
   }
 }
