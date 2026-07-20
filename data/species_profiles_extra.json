@@ -281532,5 +281532,511 @@
       "habitat_hint": "岩礁、珊瑚礁海底、潮下带。",
       "finding_tips": "潮下带礁隙寻蓝底具黄纵线之美丽海蛞蝓；黄纵线配色为辨识点。"
     }
+  },
+  "Upogebia major": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese mud shrimp",
+    "ja": {
+      "summary": "アナジャコ。干潟や河口の砂泥底に深いY字状の巣穴を掘ってすむアナジャコ類の甲殻類。体は淡い灰褐色で軟らかく、脚の毛で水中の有機物やプランクトンを濾しとって食べる濾過食者。干潟の生態系で重要な役割を果たし、その巣穴には多くの共生生物が同居する。",
+      "habitat_hint": "干潟・河口の砂泥底、深いY字状の巣穴。",
+      "finding_tips": "干潮時の干潟で、砂泥の表面に開く巣穴を探す。深い巣穴と淡灰褐色の軟らかい体が識別点。掘り出すのは難しい。"
+    },
+    "en": {
+      "summary": "Japanese mud shrimp (Upogebia major), a burrowing thalassinid crustacean that digs deep Y-shaped tunnels in the sandy-mud of tidal flats and estuaries; pale greyish-brown and soft-bodied, it filters organic matter and plankton with leg setae. It is ecologically important on flats, and many symbionts share its burrow.",
+      "habitat_hint": "Sandy-mud of tidal flats and estuaries, deep Y-shaped burrows.",
+      "finding_tips": "At low tide on flats look for burrow openings in the sandy-mud; the deep burrow and soft pale-brown body are the clues, though it is hard to dig out."
+    },
+    "zh": {
+      "summary": "アナジャコ。穴虾类甲壳动物，于潮滩与河口砂泥底掘深Y形洞穴而居，体淡灰褐、柔软，以足毛滤食水中有机物与浮游生物，为潮滩生态之要角，其洞多有共生生物同居。",
+      "habitat_hint": "潮滩、河口砂泥底，深Y形洞穴。",
+      "finding_tips": "退潮潮滩寻砂泥面之洞口；深洞与淡灰褐软体为辨识点，挖出不易。"
+    }
+  },
+  "Upogebia yokoyai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mud shrimp",
+    "ja": {
+      "summary": "ヨコヤアナジャコ。干潟や河口の砂泥底に巣穴を掘ってすむアナジャコ類の甲殻類で、アナジャコに似るがやや小型。体は淡い灰褐色で軟らかく、脚の毛で水中の有機物を濾しとって食べる。干潟の砂泥中に深い巣穴をつくる。",
+      "habitat_hint": "干潟・河口の砂泥底、深い巣穴。",
+      "finding_tips": "干潮時の干潟で、砂泥面に開く巣穴を探す。アナジャコよりやや小型で淡灰褐色の軟らかい体が手がかり。"
+    },
+    "en": {
+      "summary": "A mud shrimp (Upogebia yokoyai), a burrowing thalassinid crustacean of tidal-flat and estuarine sandy-mud, like the Japanese mud shrimp but somewhat smaller; soft and pale greyish-brown, it filters organic matter with leg setae and makes deep burrows in the flats.",
+      "habitat_hint": "Sandy-mud of tidal flats and estuaries, deep burrows.",
+      "finding_tips": "At low tide on flats look for burrow openings; its smaller size and soft pale-brown body separate it from the larger mud shrimp."
+    },
+    "zh": {
+      "summary": "ヨコヤアナジャコ。穴虾类甲壳动物，栖潮滩与河口砂泥底掘洞，似穴虾而略小，体淡灰褐、柔软，以足毛滤食有机物，于潮滩砂泥中作深洞。",
+      "habitat_hint": "潮滩、河口砂泥底，深洞穴。",
+      "finding_tips": "退潮潮滩寻砂泥面洞口；较穴虾略小、淡灰褐软体为辨识点。"
+    }
+  },
+  "Urena lobata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caesarweed",
+    "aliases": {
+      "zh-Hans": "地桃花"
+    },
+    "ja": {
+      "summary": "オオバボンテンカ。暖地の道ばたや荒れ地に生えるアオイ科の低木状の草本で、熱帯〜亜熱帯に広く分布する。葉は浅く裂け、夏〜秋に淡紅色の5弁の花を咲かせる。果実には鉤(かぎ)状のとげが密生し、動物や衣服にくっついて運ばれる(ひっつき虫)。",
+      "habitat_hint": "暖地の道ばた、荒れ地、林縁(南方系)。",
+      "finding_tips": "夏〜秋、暖地の荒れ地で淡紅色の5弁花と、鉤状のとげをもつ丸い果実をつける草本を探す。ひっつく果実と淡紅色の花が識別点。"
+    },
+    "en": {
+      "summary": "Caesarweed (Urena lobata), a shrubby mallow-family herb of warm-region waysides and waste ground, widespread in the tropics and subtropics; the shallowly lobed leaves accompany pale-pink five-petalled flowers in summer to autumn, and the fruit is covered with hooked spines that cling to animals and clothing.",
+      "habitat_hint": "Warm-region waysides, waste ground, woodland edges (southern).",
+      "finding_tips": "In summer–autumn on warm waste ground look for pale-pink five-petalled flowers and round hook-spined fruit; the clinging burr fruit and pink flowers are the clues."
+    },
+    "zh": {
+      "summary": "オオバボンテンカ（地桃花）。锦葵科灌木状草本，生暖地路旁与荒地，广布热带亚热带，叶浅裂，夏秋开淡红五瓣花，果密生钩刺，附着动物衣物而传播（黏人果）。",
+      "habitat_hint": "暖地路旁、荒地、林缘（南方）。",
+      "finding_tips": "夏秋于暖地荒地寻淡红五瓣花与钩刺圆果之草；黏人果与粉红花为辨识点。"
+    }
+  },
+  "Usnea japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Beard lichen",
+    "ja": {
+      "summary": "フクレサルオガセ。樹幹や枝から垂れ下がる樹枝状(ひげ状)の地衣類(サルオガセの仲間)で、灰緑色の細い枝が房状に分枝して垂れる。枝がやや膨らむのが名の由来。空気のきれいな山地の樹林に多く、大気汚染の指標にもなる。",
+      "habitat_hint": "山地の樹幹・枝、空気のきれいな樹林。",
+      "finding_tips": "一年中、山地の木の枝から垂れ下がる灰緑色のひげ状の地衣類を探す。房状に垂れる細い枝が識別点。中心に丈夫な芯がある。"
+    },
+    "en": {
+      "summary": "A beard lichen (Usnea japonica), a shrubby (beard-like) lichen hanging from trunks and branches in tufts of grey-green threads; its somewhat swollen branches name it in Japanese. Common on montane trees in clean air, it is used as an air-quality indicator.",
+      "habitat_hint": "Montane trunks and branches, clean-air woodland.",
+      "finding_tips": "Year-round on mountain branches look for grey-green beard-like lichen hanging in tufts; the tufted hanging threads with a tough central cord are the clues."
+    },
+    "zh": {
+      "summary": "フクレサルオガセ。松萝科枝状（须状）地衣，自树干枝条成丛垂下，灰绿细枝分枝而垂，枝略膨大而得名，多见于空气洁净之山地林，为大气污染指标。",
+      "habitat_hint": "山地树干枝条、洁净空气之林。",
+      "finding_tips": "全年于山地枝条寻灰绿须状垂下之地衣；成丛垂枝、中具韧芯为辨识点。"
+    }
+  },
+  "Usnea rubicunda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカヒゲゴケ。樹幹や枝から垂れ下がる樹枝状(ひげ状)の地衣類(サルオガセの仲間)で、枝が赤みを帯びる(赤ひげ)のが名の由来。灰緑〜赤褐色の細い枝が房状に分枝して垂れる。空気のきれいな樹林に生え、大気汚染に敏感。",
+      "habitat_hint": "樹幹・枝、空気のきれいな樹林。",
+      "finding_tips": "一年中、木の枝から垂れ下がる赤みを帯びたひげ状の地衣類を探す。赤褐色を帯びる細い枝が識別点。"
+    },
+    "en": {
+      "summary": "Red beard lichen (Usnea rubicunda), a shrubby beard-like lichen hanging from trunks and branches whose reddish branches give its name; grey-green to red-brown threads branch and hang in tufts. It grows in clean-air woodland and is sensitive to air pollution.",
+      "habitat_hint": "Trunks and branches, clean-air woodland.",
+      "finding_tips": "Year-round on branches look for reddish beard-like lichen hanging in tufts; the red-brown-tinged threads are the clue."
+    },
+    "zh": {
+      "summary": "アカヒゲゴケ。松萝科枝状（须状）地衣，自树干枝条垂下，枝带红（红须）而得名，灰绿至红褐细枝分枝成丛而垂，生于洁净空气之林，对大气污染敏感。",
+      "habitat_hint": "树干枝条、洁净空气之林。",
+      "finding_tips": "全年于枝条寻带红须状垂下之地衣；红褐细枝为辨识点。"
+    }
+  },
+  "Vaccinium praestans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kamchatka bilberry",
+    "ja": {
+      "summary": "イワツツジ。亜高山〜高山の林縁や岩場、針葉樹林の林床に生えるツツジ科スノキ属の落葉小低木で、茎は地をはって広がる。初夏、淡紅色の小さな鐘形の花を咲かせ、夏〜秋に赤く熟す径1cmほどの液果をつける。果実は食べられ、甘酸っぱい。",
+      "habitat_hint": "亜高山〜高山の林縁・岩場、針葉樹林の林床。",
+      "finding_tips": "夏〜秋、亜高山〜高山の林床で地をはう茎に赤く熟した球形の実をつける小低木を探す。地をはう茎と赤い液果が識別点。"
+    },
+    "en": {
+      "summary": "Kamchatka bilberry (Vaccinium praestans), a deciduous dwarf heath-family shrub of subalpine to alpine woodland edges, rocks and conifer floors with stems creeping over the ground; in early summer it bears small pale-pink bell-shaped flowers, and in summer to autumn round red berries about 1 cm across, edible and sweet-tart.",
+      "habitat_hint": "Subalpine–alpine woodland edges, rocks, conifer forest floors.",
+      "finding_tips": "In summer–autumn on a subalpine forest floor look for a creeping dwarf shrub with round red berries; the creeping stems and red berries are the clues."
+    },
+    "zh": {
+      "summary": "イワツツジ。杜鹃花科越橘属落叶矮灌木，生亚高山至高山林缘、岩场与针叶林床，茎匍匐铺展，初夏开淡红小钟形花，夏秋结径约1厘米红熟浆果，可食、甜酸。",
+      "habitat_hint": "亚高山至高山林缘岩场、针叶林床。",
+      "finding_tips": "夏秋于亚高山林床寻匍匐茎结红熟球果之矮灌木；匍匐茎与红浆果为辨识点。"
+    }
+  },
+  "Vaccinium wrightii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ryukyu blueberry",
+    "ja": {
+      "summary": "ギーマ。南西諸島の日当たりのよい林縁や草地に生えるツツジ科スノキ属の常緑の低木で、革質の葉をもつ。春、白い壺形の小花を房状に咲かせ、夏〜秋に黒紫色に熟す球形の液果をつける。果実は食べられ、沖縄などで親しまれる。",
+      "habitat_hint": "南西諸島の日当たりのよい林縁・草地、丘陵。",
+      "finding_tips": "春、南西諸島の林縁で革質の葉と白い壺形の小花の房をもつ常緑低木を探す。壺形の白花と黒紫の液果が識別点。"
+    },
+    "en": {
+      "summary": "Ryukyu blueberry (Vaccinium wrightii), an evergreen heath-family shrub of sunny woodland edges and grassland in the southwest islands, with leathery leaves; in spring it bears clusters of small white urn-shaped flowers, and in summer to autumn round berries ripening blackish-purple. The fruit is edible and popular in Okinawa.",
+      "habitat_hint": "Sunny woodland edges and grassland, hills (SW islands).",
+      "finding_tips": "In spring at SW-island woodland edges look for an evergreen shrub with leathery leaves and clusters of white urn-shaped flowers; the urn flowers and blackish berries are the clues."
+    },
+    "zh": {
+      "summary": "ギーマ。杜鹃花科越橘属常绿灌木，生西南诸岛向阳林缘与草地，叶革质，春生白色壶形小花之花簇，夏秋结黑紫熟球形浆果，可食，冲绳等地喜食。",
+      "habitat_hint": "西南诸岛向阳林缘草地、丘陵。",
+      "finding_tips": "春于西南诸岛林缘寻革质叶与白壶形小花簇之常绿灌木；壶形白花与黑紫浆果为辨识点。"
+    }
+  },
+  "Vasticardium compunctum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cockle",
+    "ja": {
+      "summary": "イレズミザル。サンゴ礁や岩礁周辺の浅海の砂底にすむザルガイ科の二枚貝で、殻は丸みのある四角形で放射状の肋(うね)が並ぶ。肋の上に刺青(いれずみ)のような細かい模様や斑をもつのが名の由来。砂に浅く潜って生活する。",
+      "habitat_hint": "サンゴ礁・岩礁周辺の浅海の砂底、砂に浅く潜る。",
+      "finding_tips": "浅海の砂底や砂浜で、放射肋のある丸い四角形の殻に細かい模様をもつ二枚貝を探す。放射肋と刺青状の模様が識別点。"
+    },
+    "en": {
+      "summary": "A cockle (Vasticardium compunctum), a cardiid bivalve of shallow sandy bottoms around coral and rocky reefs; the rounded squarish shell has radiating ribs marked with fine tattoo-like patterns and spots (its Japanese name). It burrows shallowly in sand.",
+      "habitat_hint": "Shallow sandy bottoms around coral and rocky reefs, shallow burrower.",
+      "finding_tips": "On shallow sand look for a rounded squarish ribbed bivalve with fine markings; the radial ribs and tattoo-like pattern are the clues."
+    },
+    "zh": {
+      "summary": "イレズミザル。鸟蛤科二枚贝，栖珊瑚礁岩礁周边浅海砂底，壳圆方形具放射肋，肋上具刺青般细纹与斑而得名，浅潜砂中而居。",
+      "habitat_hint": "珊瑚礁、岩礁周边浅海砂底，浅潜。",
+      "finding_tips": "浅海砂底寻具放射肋、细纹之圆方形贝；放射肋与刺青纹为辨识点。"
+    }
+  },
+  "Vasticardium pectiniforme": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cockle",
+    "ja": {
+      "summary": "アサザル。サンゴ礁や岩礁周辺の浅海の砂底にすむザルガイ科の二枚貝で、殻は丸みのある四角形で、放射状の肋が扇(ホタテ)のように整然と並ぶのが名の由来(pectiniforme＝櫛・扇状)。砂に浅く潜って生活する。",
+      "habitat_hint": "サンゴ礁・岩礁周辺の浅海の砂底、砂に浅く潜る。",
+      "finding_tips": "浅海の砂底や砂浜で、扇状に整然と並ぶ放射肋をもつ丸い四角形の二枚貝を探す。整然とした放射肋が識別点。"
+    },
+    "en": {
+      "summary": "A cockle (Vasticardium pectiniforme), a cardiid bivalve of shallow sandy bottoms around coral and rocky reefs; the rounded squarish shell has neat radiating ribs arranged like a scallop or comb (pectiniforme). It burrows shallowly in sand.",
+      "habitat_hint": "Shallow sandy bottoms around coral and rocky reefs, shallow burrower.",
+      "finding_tips": "On shallow sand look for a rounded squarish bivalve with neat scallop-like radial ribs; the tidy radiating ribs are the clue."
+    },
+    "zh": {
+      "summary": "アサザル。鸟蛤科二枚贝，栖珊瑚礁岩礁周边浅海砂底，壳圆方形，放射肋整齐排列如扇（pectiniforme＝栉/扇状）而得名，浅潜砂中而居。",
+      "habitat_hint": "珊瑚礁、岩礁周边浅海砂底，浅潜。",
+      "finding_tips": "浅海砂底寻放射肋整齐如扇之圆方形贝；整齐放射肋为辨识点。"
+    }
+  },
+  "Verconia purpurea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "フジイロウミウシ。岩礁の潮下帯にすむイロウミウシ科の小型のウミウシ(裸鰓類)で、体は藤色(淡い紫色)を帯び、縁や触角・えらが濃い色で縁取られる美しいウミウシ。海綿を食べる。潮下帯の岩の下面などで見られる。",
+      "habitat_hint": "岩礁の海底、潮下帯、海綿のある所。",
+      "finding_tips": "潮下帯の岩の下面で、藤色(淡紫色)の地に濃色の縁取りをもつ小型のウミウシを探す。藤色の体色が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Verconia purpurea), a small chromodorid nudibranch of the rocky subtidal with a wisteria-purple (pale lilac) body edged and tipped darker on the margin, rhinophores and gills; it feeds on sponges and is found under rocks in the subtidal.",
+      "habitat_hint": "Rocky seabed, subtidal, where sponges grow.",
+      "finding_tips": "In the subtidal under rock look for a small pale-lilac nudibranch with darker-edged margins; the wisteria-purple colour is the clue."
+    },
+    "zh": {
+      "summary": "フジイロウミウシ。多彩海蛞蝓科小型海蛞蝓，栖岩礁潮下带，体呈藤紫（淡紫），缘、触角与鳃镶深色而美，食海绵，潮下带岩下可见。",
+      "habitat_hint": "岩礁海底、潮下带、海绵处。",
+      "finding_tips": "潮下带岩下寻藤紫底具深缘之小海蛞蝓；藤紫体色为辨识点。"
+    }
+  },
+  "Vexillum exasperatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miter shell",
+    "ja": {
+      "summary": "ハマヅト。岩礁やサンゴ礁の浅海にすむフデガイ科(ヒタチオビ類)の小型の巻貝で、殻は細長い紡錘形で、縦横の彫刻が格子状に交わってざらつく。暗色の地に淡色の帯をもつことが多い。肉食性で、潮間帯〜潮下帯の岩の下にすむ。",
+      "habitat_hint": "岩礁・サンゴ礁の浅海、岩の下、潮間帯〜潮下帯。",
+      "finding_tips": "潮間帯〜潮下帯の岩の下で、細長い紡錘形で格子状の彫刻がざらつく小さな巻貝を探す。格子状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A miter shell (Vexillum exasperatum), a small costellariid snail of shallow rocky and coral reefs with an elongate spindle shell roughened by a lattice of axial and spiral sculpture, often dark with paler bands; a carnivore, it lives under rock from the intertidal into the subtidal.",
+      "habitat_hint": "Shallow rocky and coral reefs, under rock, intertidal to subtidal.",
+      "finding_tips": "Under intertidal to subtidal rock look for a small elongate spindle snail roughened with lattice sculpture; the cross-hatched sculpture is the clue."
+    },
+    "zh": {
+      "summary": "ハマヅト。笔螺科小型海螺，栖岩礁珊瑚礁浅海，壳细长纺锤形、纵横雕刻交织成格而粗糙，多暗底具淡带，肉食，居岩下、潮间至潮下带。",
+      "habitat_hint": "岩礁、珊瑚礁浅海、岩下、潮间至潮下带。",
+      "finding_tips": "潮间至潮下带岩下寻细长纺锤、格状雕刻粗糙之小螺；格状雕刻为辨识点。"
+    }
+  },
+  "Vigna reflexopilosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wild adzuki",
+    "ja": {
+      "summary": "オオヤブツルアズキ。原野や河川敷、林縁に生えるマメ科ササゲ属のつる性の一年草で、ヤブツルアズキ(アズキの原種に近い)に似るがより大型。夏〜秋、黄色い蝶形花を咲かせ、細長い豆果をつける。他物にからみついて広がる。",
+      "habitat_hint": "原野、河川敷、林縁、やぶ。",
+      "finding_tips": "夏〜秋、草地や河川敷で他物にからむつる性の茎に黄色い蝶形花と細長い豆果をつける草本を探す。黄色い蝶形花と細長い豆果が識別点。"
+    },
+    "en": {
+      "summary": "A wild adzuki (Vigna reflexopilosa), a pea-family annual vine of open ground, riverbanks and woodland edges, like the wild azuki bean (a relative of cultivated adzuki) but larger; in summer to autumn it bears yellow pea-flowers and slender pods, climbing over other plants.",
+      "habitat_hint": "Open ground, riverbanks, woodland edges, thickets.",
+      "finding_tips": "In summer–autumn in grassland look for a climbing vine with yellow pea-flowers and slender pods; the yellow flowers and long thin pods are the clues."
+    },
+    "zh": {
+      "summary": "オオヤブツルアズキ。豆科豇豆属藤本一年草，生原野、河滩与林缘，似赤小豆之野生近亲而较大，夏秋开黄色蝶形花、结细长荚，缠绕他物而蔓延。",
+      "habitat_hint": "原野、河滩、林缘、丛薮。",
+      "finding_tips": "夏秋于草地寻缠绕藤茎具黄蝶形花与细长荚之草；黄蝶形花与细长荚为辨识点。"
+    }
+  },
+  "Vincetoxicum macrophyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツルガシワ。山地の林内や林縁に生えるキョウチクトウ科(旧ガガイモ科)の多年草で、茎の上部がつる状にのびる。大きな対生の葉をもち、夏、葉のつけ根から出た花序に淡黄緑色〜暗紫色の小さな星形の花を咲かせる。袋状の果実(袋果)をつける。",
+      "habitat_hint": "山地の林内・林縁、樹陰の斜面。",
+      "finding_tips": "夏、山地の林で大きな対生の葉と、上部がつる状にのびる茎、淡黄緑色の小さな星形の花をもつ草本を探す。つる状の茎と対生の大きな葉が手がかり。"
+    },
+    "en": {
+      "summary": "A swallowwort (Vincetoxicum macrophyllum), a dogbane-family (former milkweed) perennial of montane woodland interiors and edges whose upper stem becomes twining; with large opposite leaves, in summer it bears small star-shaped flowers of pale yellow-green to dark purple in axillary clusters, followed by pod-like follicles.",
+      "habitat_hint": "Montane woodland interiors and edges, shaded slopes.",
+      "finding_tips": "In summer in mountain woods look for large opposite leaves on a stem twining above, with small star flowers; the twining stem and large opposite leaves are the clues."
+    },
+    "zh": {
+      "summary": "ツルガシワ。夹竹桃科（旧萝藦科）多年草，生山地林内林缘，茎上部呈藤状伸展，具大对生叶，夏于叶腋花序生淡黄绿至暗紫之星状小花，结袋状蓇葖果。",
+      "habitat_hint": "山地林内林缘、树荫坡。",
+      "finding_tips": "夏于山地林寻大对生叶、上部藤状茎与淡黄绿星状小花之草；藤状茎与大对生叶为辨识点。"
+    }
+  },
+  "Viola variegata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Violet",
+    "ja": {
+      "summary": "ゲンジスミレ。日当たりのよい草地や林縁に生えるスミレ科の多年草で、葉の表面の葉脈に沿って白っぽい斑(ふ)が入り、裏面が紫色を帯びるのが特徴。春、紅紫色の花を咲かせる。斑入りの葉が美しく、他のスミレと見分けやすい。",
+      "habitat_hint": "日当たりのよい草地、林縁、やや乾いた斜面。",
+      "finding_tips": "春、草地で葉脈に沿って白い斑が入り裏が紫色のスミレを探す。斑入りの葉と紫色の葉裏が識別点。"
+    },
+    "en": {
+      "summary": "A violet (Viola variegata), a perennial of sunny grassland and woodland edges whose leaves are marked with whitish variegation along the veins and are purple beneath; it flowers reddish-purple in spring. The patterned leaves are attractive and make it easy to tell from other violets.",
+      "habitat_hint": "Sunny grassland, woodland edges, drier slopes.",
+      "finding_tips": "In spring in grassland look for a violet with whitish vein-markings on the leaves and purple undersides; the variegated leaves and purple backs are the clues."
+    },
+    "zh": {
+      "summary": "ゲンジスミレ。堇菜科多年草，生向阳草地与林缘，叶面沿脉具白色斑纹、背面带紫为特征，春开紫红花，斑叶美观、易别于他堇。",
+      "habitat_hint": "向阳草地、林缘、稍干坡。",
+      "finding_tips": "春于草地寻沿脉具白斑、背紫之堇；斑叶与紫背为辨识点。"
+    }
+  },
+  "Volucella linearis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "ニトベベッコウハナアブ。ハナアブ科の中〜大型のアブで、体はやや細長く、腹に褐色(べっこう色)の帯模様をもちハチに似るが刺さない。成虫は花を訪れて花粉や蜜をなめる。幼虫はスズメバチやアシナガバチの巣の中で、巣くずや死骸などを食べて育つと考えられている。",
+      "habitat_hint": "花のある林縁・草地、ハチの巣の近く。",
+      "finding_tips": "夏、花の周りで腹にべっこう色の帯をもつやや細長いハナアブを探す。刺さず、ハチに似た体と帯模様が手がかり。"
+    },
+    "en": {
+      "summary": "A hoverfly (Volucella linearis), a medium-large syrphid, somewhat elongate with tortoiseshell-brown abdominal banding that mimics a wasp but cannot sting; adults visit flowers for pollen and nectar, and the larvae are thought to live in the nests of hornets and paper wasps, feeding on nest debris and remains.",
+      "habitat_hint": "Flowery woodland edges and grassland, near wasp nests.",
+      "finding_tips": "In summer at flowers look for a somewhat elongate hoverfly with tortoiseshell-brown banding; the stingless wasp-like body and banding are the clues."
+    },
+    "zh": {
+      "summary": "ニトベベッコウハナアブ。食蚜蝇科中大型蚜蝇，体略细长、腹具褐色（玳瑁色）带纹拟蜂而不螫，成虫访花，幼虫据信居胡蜂马蜂巢中食巢屑与残骸。",
+      "habitat_hint": "有花林缘草地、蜂巢附近。",
+      "finding_tips": "夏于花间寻腹具玳瑁色带之略细长蚜蝇；不螫、拟蜂之体与带纹为辨识点。"
+    }
+  },
+  "Vulpicida juniperinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sunshine lichen",
+    "ja": {
+      "summary": "ハイマツゴケ。針葉樹(ハイマツやマツ、ネズ・ビャクシンなど)の枝や幹に着生する葉状の地衣類で、黄色〜黄緑色の鮮やかな体をもつ。縁が波打って裂け、日当たりのよい高地の針葉樹でよく見られる。鮮やかな黄色が目を引く。",
+      "habitat_hint": "高地の針葉樹(ハイマツ・マツ・ネズなど)の枝・幹。",
+      "finding_tips": "一年中、高地の針葉樹の枝で黄色〜黄緑色の鮮やかな葉状の地衣類を探す。鮮やかな黄色い体色が識別点。"
+    },
+    "en": {
+      "summary": "A sunshine lichen (Vulpicida juniperinus), a foliose lichen on the branches and trunks of conifers such as dwarf pine, pine and juniper, with a vivid yellow to yellow-green body; its margins are wavy and lobed, and it is common on sunny upland conifers. The bright yellow catches the eye.",
+      "habitat_hint": "Branches and trunks of upland conifers (dwarf pine, pine, juniper).",
+      "finding_tips": "Year-round on upland conifer branches look for a vivid yellow to yellow-green foliose lichen; the bright yellow colour is the clue."
+    },
+    "zh": {
+      "summary": "ハイマツゴケ。叶状地衣，附生于偃松、松、桧柏等针叶树枝干，体鲜黄至黄绿，缘波状分裂，多见于向阳高地针叶树，鲜黄夺目。",
+      "habitat_hint": "高地针叶树（偃松、松、桧柏等）枝干。",
+      "finding_tips": "全年于高地针叶枝寻鲜黄至黄绿之叶状地衣；鲜黄体色为辨识点。"
+    }
+  },
+  "Weigela hakonensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakone weigela",
+    "ja": {
+      "summary": "ハコネニシキウツギ。箱根周辺など山地の林縁に生えるスイカズラ科タニウツギ属の落葉低木で、ニシキウツギの仲間。初夏、漏斗状の花を咲かせ、咲き始めは白っぽく、しだいに紅色に変わって一株に白と紅の花が混じる(二色＝錦)のが特徴。",
+      "habitat_hint": "箱根周辺など山地の林縁、道ばた。",
+      "finding_tips": "5〜6月、山地の林縁で漏斗状の花が白から紅に変わり、一株に白と紅が混じる低木を探す。白と紅が混じる花が識別点。"
+    },
+    "en": {
+      "summary": "Hakone weigela (Weigela hakonensis), a deciduous honeysuckle-family shrub of montane woodland edges around Hakone, a relative of the two-colour weigela; in early summer its funnel-shaped flowers open whitish and gradually turn red, so white and red flowers mingle on one plant (the 'brocade' of its name).",
+      "habitat_hint": "Montane woodland edges and waysides around Hakone.",
+      "finding_tips": "In May–June at mountain woodland edges look for a shrub whose funnel flowers shift from white to red, mixing both colours on one plant; that white-and-red mix is the clue."
+    },
+    "zh": {
+      "summary": "ハコネニシキウツギ。忍冬科锦带花属落叶灌木，生箱根周边等山地林缘，为锦带花类，初夏开漏斗状花，初白渐转红，一株白红相间（双色＝锦）为特征。",
+      "habitat_hint": "箱根周边等山地林缘、路旁。",
+      "finding_tips": "5〜6月于山地林缘寻花由白转红、一株白红相间之灌木；白红相间花为辨识点。"
+    }
+  },
+  "Weissia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヒメツボゴケ。田のあぜや道ばた、畑などの日当たりのよい湿った土の上に生える小型の蘚類で、緑色の小さな群落をつくる。乾くと葉が内側に巻いて縮れる。胞子のう(さく)は壺形で、埋もれるように短い柄の上につく。身近な裸地に普通に生える。",
+      "habitat_hint": "田のあぜ、道ばた、畑などの日当たりのよい湿った土。",
+      "finding_tips": "一年中、道ばたや畑の土の上で乾くと葉が巻いて縮れる小さな緑色の蘚を探す。乾湿で葉が変化する小さな群落が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Weissia japonica), a small moss of sunny damp soil on paddy banks, waysides and fields, forming small green patches; the leaves curl inward and crisp when dry, and the urn-shaped capsule sits low on a short seta. It is common on ordinary bare ground.",
+      "habitat_hint": "Sunny damp soil of paddy banks, waysides and fields.",
+      "finding_tips": "Year-round on wayside or field soil look for a small green moss whose leaves curl and crisp when dry; that wet-dry leaf change in small patches is the clue."
+    },
+    "zh": {
+      "summary": "ヒメツボゴケ。小型藓类，生田埂、路旁与农田等向阳湿土，成小型绿色群落，干时叶内卷皱缩，孢蒴壶形、埋于短柄上，常见于寻常裸地。",
+      "habitat_hint": "田埂、路旁、农田等向阳湿土。",
+      "finding_tips": "全年于路旁田土寻干时叶卷缩之小绿藓；干湿叶变之小群落为辨识点。"
+    }
+  },
+  "Xandrames dholaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ヒロオビオオエダシャク。シャクガ科エダシャク亜科の大型のガで、翅は白っぽい地に太い暗色の帯(広帯)が横切るのが名の由来。山地の樹林にすみ、幼虫は枝に似た尺取り虫で広葉樹の葉を食べる。灯火に飛来する。",
+      "habitat_hint": "山地の樹林、林縁。",
+      "finding_tips": "春〜初夏の夜、灯火で白っぽい翅に太い暗色の帯をもつ大型のシャクガを探す。翅を横切る太い帯が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Xandrames dholaria), a large geometrid whose whitish wings are crossed by a broad dark band (its Japanese name); it lives in montane woodland where the twig-like inchworm larva eats broadleaf foliage, and it comes to light.",
+      "habitat_hint": "Montane woodland, woodland edges.",
+      "finding_tips": "On spring nights at lights look for a large whitish moth crossed by a broad dark band; that thick band is the clue."
+    },
+    "zh": {
+      "summary": "ヒロオビオオエダシャク。尺蛾科大型蛾，翅白底具粗暗横带（宽带）而得名，栖山地林，幼虫为拟枝尺蠖、食阔叶，趋光。",
+      "habitat_hint": "山地树林、林缘。",
+      "finding_tips": "春至初夏夜于灯下寻白翅具粗暗带之大尺蛾；贯翅粗带为辨识点。"
+    }
+  },
+  "Xanthorhoe designata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flame carpet",
+    "ja": {
+      "summary": "トビスジコナミシャク。シャクガ科ナミシャク亜科の小型のガで、前翅は淡褐色〜灰褐色に暗色の帯や波状の横線をもつ。山地や林縁にすみ、幼虫はアブラナ科などの草本の葉を食べる。夜行性で灯火に飛来する。",
+      "habitat_hint": "山地の樹林、林縁、草地。",
+      "finding_tips": "春〜秋の夜、灯火で淡褐色に暗色の帯と波状の横線をもつ小型のシャクガを探す。波状の横線と暗色帯が識別点。"
+    },
+    "en": {
+      "summary": "Flame carpet (Xanthorhoe designata), a small geometrid whose pale-brown to grey-brown forewings carry a dark band and wavy cross-lines; it lives in montane woodland and edges where the larvae eat crucifers and other herbs, and it comes to light.",
+      "habitat_hint": "Montane woodland, woodland edges, grassland.",
+      "finding_tips": "On spring-to-autumn nights at lights look for a small pale-brown moth with a dark band and wavy lines; the wavy cross-lines and dark band are the clues."
+    },
+    "zh": {
+      "summary": "トビスジコナミシャク。尺蛾科小型蛾，前翅淡褐至灰褐、具暗带与波状横线，栖山地林、林缘与草地，幼虫食十字花科等草本，夜行趋光。",
+      "habitat_hint": "山地树林、林缘、草地。",
+      "finding_tips": "春至秋夜于灯下寻淡褐具暗带波纹之小尺蛾；波状横线与暗带为辨识点。"
+    }
+  },
+  "Xerocomus subtomentosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Suede bolete",
+    "ja": {
+      "summary": "アワタケ。夏〜秋、広葉樹林や針葉樹林の地上に生えるイグチ科のキノコ(管孔をもつ)で、傘はオリーブ褐色〜黄褐色でビロード状(スエード状)の質感をもつ。下面の管孔は黄色く、傷つくとやや青変することがある。樹木と共生する。",
+      "habitat_hint": "夏〜秋、広葉樹林・針葉樹林の地上。",
+      "finding_tips": "夏〜秋、林内の地上でビロード状のオリーブ褐色の傘と黄色い管孔をもつイグチを探す。ビロード状の傘と黄色い管孔が識別点。"
+    },
+    "en": {
+      "summary": "Suede bolete (Xerocomus subtomentosus), a summer-to-autumn bolete of broadleaf and conifer woodland with an olive-brown to yellow-brown, velvety (suede-like) cap; the yellow pores beneath may bruise slightly blue. It partners with trees.",
+      "habitat_hint": "Summer–autumn on the ground in broadleaf and conifer woodland.",
+      "finding_tips": "In summer–autumn on the woodland floor look for a velvety olive-brown-capped bolete with yellow pores; the suede cap and yellow pores are the clues."
+    },
+    "zh": {
+      "summary": "アワタケ。牛肝菌科菌，夏秋生阔叶林针叶林地上，盖橄榄褐至黄褐、具绒（麂皮）质感，下面管孔黄色、伤后或略变蓝，与树木共生。",
+      "habitat_hint": "夏秋，阔叶林、针叶林地上。",
+      "finding_tips": "夏秋于林地寻绒状橄榄褐盖、黄管孔之牛肝菌；绒盖与黄管孔为辨识点。"
+    }
+  },
+  "Xysticus croceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crab spider",
+    "ja": {
+      "summary": "ヤミイロカニグモ。カニグモ科のクモで、横に張り出した前2対の脚をカニのように広げ、網を張らずに待ち伏せして獲物を捕らえる。体は褐色〜暗褐色で、地表や落葉、低い草の上などにすむ。花や葉の上で小昆虫を待ち伏せする。",
+      "habitat_hint": "地表・落葉、低い草や低木の上、林縁。",
+      "finding_tips": "春〜秋、地表や低い草の上で前脚を横に広げた褐色のカニグモを探す。カニのように横に広げた前脚が識別点。"
+    },
+    "en": {
+      "summary": "A crab spider (Xysticus croceus), a thomisid that holds its long front two leg-pairs out sideways like a crab and ambushes prey without a web; brown to dark-brown, it lives on the ground, in leaf litter and on low vegetation, waiting on leaves and flowers for small insects.",
+      "habitat_hint": "Ground and litter, low plants and shrubs, woodland edges.",
+      "finding_tips": "From spring to autumn on the ground or low plants look for a brown spider holding its front legs out sideways; those crab-like spread front legs are the clue."
+    },
+    "zh": {
+      "summary": "ヤミイロカニグモ。蟹蛛科蜘蛛，前二对足横展如蟹、不结网而伏击捕猎，体褐至暗褐，栖地表、落叶与低草灌木，于花叶上伏候小虫。",
+      "habitat_hint": "地表、落叶、低草灌木、林缘。",
+      "finding_tips": "春秋于地表或低草寻前足横展之褐色蟹蛛；蟹状横展前足为辨识点。"
+    }
+  },
+  "Zostera caulescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tall eelgrass",
+    "ja": {
+      "summary": "タチアマモ。内湾の浅い海の砂泥底に生える海草(海の中で花を咲かせる種子植物)で、細長いリボン状の葉をもつ。アマモの仲間だが茎が長く立ち上がり、群生して海中に草原(アマモ場)をつくる。多くの魚や小動物のすみかや産卵場となる重要な生態系。",
+      "habitat_hint": "内湾の浅い海の砂泥底、アマモ場。",
+      "finding_tips": "浅い内湾の海底で、細長いリボン状の葉が立ち上がって群生する海草を探す。立ち上がる長い茎とリボン状の葉が識別点。"
+    },
+    "en": {
+      "summary": "Tall eelgrass (Zostera caulescens), a seagrass (a flowering plant that blooms underwater) of shallow sheltered sandy-mud bottoms with long ribbon-like leaves; unlike common eelgrass it has tall upright stems, and it forms underwater meadows (eelgrass beds) that are vital habitat and spawning grounds for many fish and small animals.",
+      "habitat_hint": "Shallow sheltered sandy-mud bottoms, eelgrass beds.",
+      "finding_tips": "On a shallow sheltered seabed look for a seagrass with long ribbon leaves on tall upright stems forming meadows; the tall stems and ribbon leaves are the clues."
+    },
+    "zh": {
+      "summary": "タチアマモ。海草（于海中开花之种子植物），生内湾浅海砂泥底，具细长带状叶，异于大叶藻而茎长直立，群生成海中草甸（海草床），为众多鱼类小动物之栖所与产卵场，生态重要。",
+      "habitat_hint": "内湾浅海砂泥底、海草床。",
+      "finding_tips": "浅内湾海底寻带状长叶直立群生之海草；直立长茎与带状叶为辨识点。"
+    }
   }
 }
