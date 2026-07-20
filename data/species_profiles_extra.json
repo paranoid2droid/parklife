@@ -279525,5 +279525,542 @@
       "habitat_hint": "暖地山林内外、树荫（西日本至西南诸岛）。",
       "finding_tips": "3〜5月于暖地山林寻樱色花、枝顶簇革叶之常绿杜鹃；似樱淡红花为辨识点。"
     }
+  },
+  "Rhododendron scabrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kerama azalea",
+    "ja": {
+      "summary": "ケラマツツジ。南西諸島(慶良間諸島など)原産のツツジ科の半常緑低木で、春に径5〜6cmの大きく鮮やかな紅色の花を咲かせる。花が大きく色が濃いため観賞用に広く植えられ、多くの園芸ツツジの交配親にもなっている。",
+      "habitat_hint": "庭園・公園に植栽、原産地は南西諸島の林縁。",
+      "finding_tips": "4〜5月、庭園や公園で径5〜6cmの大きく濃い紅色の花を咲かせるツツジを探す。大輪の鮮紅色の花が識別点。"
+    },
+    "en": {
+      "summary": "Kerama azalea (Rhododendron scabrum), a semi-evergreen azalea native to Japan's southwest islands; in spring it bears large, vivid crimson flowers 5–6 cm across. Its large deep-coloured blooms make it a popular ornamental and a parent of many garden azaleas.",
+      "habitat_hint": "Planted in gardens and parks; native to SW-island woodland edges.",
+      "finding_tips": "In April–May in gardens look for an azalea with large deep-crimson flowers 5–6 cm across; the big vivid red bloom is the clue."
+    },
+    "zh": {
+      "summary": "ケラマツツジ。杜鹃花科半常绿灌木，原产日本西南诸岛（庆良间等），春开径5〜6厘米鲜红大花，因花大色浓而广植观赏，亦为众多园艺杜鹃之亲本。",
+      "habitat_hint": "植于庭园公园，原产西南诸岛林缘。",
+      "finding_tips": "4〜5月于庭园寻径5〜6厘米深红大花之杜鹃；大轮鲜红花为辨识点。"
+    }
+  },
+  "Rhopalum latronum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Square-headed wasp",
+    "ja": {
+      "summary": "クロギングチ。ギングチバチ科の細身の狩りバチで、体は黒く、腹柄が細い。枯れ枝や茎の髄、既存の穴などに巣をつくり、麻酔した小昆虫を幼虫の餌として運び込む。人を刺すことはほとんどない。",
+      "habitat_hint": "林縁・草地、枯れ枝や茎の中に営巣。",
+      "finding_tips": "春〜夏、林縁で細身で黒い小型の狩りバチや、枯れ枝の穴に出入りするハチを探す。細い腹柄と黒い体が手がかり。"
+    },
+    "en": {
+      "summary": "A square-headed wasp (Rhopalum latronum), a slender black crabronid hunting wasp with a narrow petiole; it nests in the pith of dead twigs and stems or in existing holes, stocking each cell with paralysed small insects for its larvae. It rarely stings people.",
+      "habitat_hint": "Woodland edges and grassland; nests in dead twigs and stems.",
+      "finding_tips": "From spring to summer at woodland edges look for a slender black wasp entering holes in dead twigs; the narrow waist and black body are the clues."
+    },
+    "zh": {
+      "summary": "クロギングチ。方头泥蜂科细身猎蜂，体黑、腹柄细，于枯枝茎髓或现成孔洞筑巢，贮麻醉小虫饲幼虫，罕螫人。",
+      "habitat_hint": "林缘、草地，枯枝茎中营巢。",
+      "finding_tips": "春夏于林缘寻细身黑色小猎蜂或出入枯枝孔之蜂；细腹柄黑体为辨识点。"
+    }
+  },
+  "Rhynchium quinquecinctum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potter wasp",
+    "ja": {
+      "summary": "フカイドロバチ。スズメバチ科ドロバチ亜科の狩りバチで、黒地に黄色や橙色の帯模様をもつ。竹筒や既存の穴、泥でつくった巣室に、狩ったガの幼虫(イモムシ)を麻酔して運び込み、幼虫の餌にする。単独性で攻撃性は低い。",
+      "habitat_hint": "林縁・草地・人家周辺、竹筒や穴に営巣。",
+      "finding_tips": "春〜夏、花や竹筒の巣の周りで黒地に黄橙の帯をもつ単独性のハチを探す。帯模様の腹と泥の巣が手がかり。"
+    },
+    "en": {
+      "summary": "A potter wasp (Rhynchium quinquecinctum), a solitary eumenine vespid banded yellow-orange on black; it provisions nest cells in bamboo tubes, existing holes or mud with paralysed caterpillars for its larvae. Solitary and non-aggressive.",
+      "habitat_hint": "Woodland edges, grassland, around houses; nests in tubes and holes.",
+      "finding_tips": "From spring to summer at flowers or bamboo nest tubes look for a solitary wasp banded yellow-orange on black; the banded abdomen and mud cells are the clues."
+    },
+    "zh": {
+      "summary": "フカイドロバチ。胡蜂科蜾蠃亚科猎蜂，黑底具黄橙带纹，于竹筒、现成孔或泥筑巢室，贮麻醉青虫饲幼虫，独居、攻击性低。",
+      "habitat_hint": "林缘、草地、人家周边，竹筒孔洞营巢。",
+      "finding_tips": "春夏于花或竹筒巢旁寻黑底黄橙带之独居蜂；带纹腹与泥巢为辨识点。"
+    }
+  },
+  "Riccardia chamedryfolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ナミガタスジゴケ。湿った土や岩、腐木の上に生える葉状体の苔類(ツノゴケ・ゼニゴケの仲間)で、細かく羽状に枝分かれする緑色の葉状体をもつ。縁が波打つことが名の由来。水辺や湿った林床でよく見られる。",
+      "habitat_hint": "湿った土・岩・腐木、水辺、湿った林床。",
+      "finding_tips": "一年中、湿った土や腐木で細かく羽状に枝分かれする緑色の葉状の苔類を探す。羽状に分かれる葉状体が手がかり。"
+    },
+    "en": {
+      "summary": "A thallose liverwort (Riccardia chamedryfolia) of damp soil, rock and rotten wood, with finely pinnately branched green thalli whose wavy margins name it in Japanese; it is common by water and on damp forest floors.",
+      "habitat_hint": "Damp soil, rock and rotten wood, watersides, damp forest floors.",
+      "finding_tips": "Year-round on damp soil or rotten wood look for a green liverwort with finely pinnate branching thalli; the pinnate branching is the clue."
+    },
+    "zh": {
+      "summary": "ナミガタスジゴケ。羽苔类叶状体苔类，生湿土、岩石与腐木，叶状体细羽状分枝、缘波状而得名，常见于水边与湿林床。",
+      "habitat_hint": "湿土、岩石、腐木、水边、湿林床。",
+      "finding_tips": "全年于湿土腐木寻细羽状分枝之绿色叶状苔类；羽状分枝为辨识点。"
+    }
+  },
+  "Riccia miyakeana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤケハタケゴケ。田のあぜや水の引いた湿地、畑などの湿った裸地に生える葉状体の苔類(ゼニゴケの仲間)。二又に分かれる帯状の葉状体がロゼット状に広がり、しばしば地面に貼りつくように群生する。水位変動のある湿地に多い。",
+      "habitat_hint": "田のあぜ、水の引いた湿地、畑などの湿った裸地。",
+      "finding_tips": "秋〜春、水の引いた湿った地面で、二又に分かれる帯状の葉状体がロゼット状に広がる苔類を探す。ロゼット状の葉状体が手がかり。"
+    },
+    "en": {
+      "summary": "A thallose liverwort (Riccia miyakeana) of paddy banks, exposed wetland and damp fields; its forking ribbon-like thalli spread in rosettes pressed to the ground, often in patches, common on wet ground with fluctuating water.",
+      "habitat_hint": "Paddy banks, exposed wetland, damp fields, bare wet ground.",
+      "finding_tips": "In autumn–spring on exposed damp ground look for forking ribbon-like thalli spreading in a rosette; the flat ground-hugging rosette is the clue."
+    },
+    "zh": {
+      "summary": "ミヤケハタケゴケ。钱苔类叶状体苔类，生田埂、退水湿地与农田等湿裸地，二叉带状叶状体成莲座状铺展、常贴地成片，多见于水位涨落之湿地。",
+      "habitat_hint": "田埂、退水湿地、农田等湿裸地。",
+      "finding_tips": "秋春于退水湿地寻二叉带状叶状体成莲座铺展之苔类；贴地莲座为辨识点。"
+    }
+  },
+  "Rigidoporus lineatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bracket fungus",
+    "ja": {
+      "summary": "スルメタケ。広葉樹の枯木や倒木に生える多孔菌(タコウキン)の一種で、半円形〜棚状の子実体を横に張り出す。乾くと硬く革質になり、表面に同心円状の模様(帯)をもつ。下面は微細な管孔からなる木材腐朽菌。",
+      "habitat_hint": "広葉樹の枯木・倒木・切株。",
+      "finding_tips": "一年中、広葉樹の枯木で半円形の棚状に張り出す硬いキノコを探す。同心円模様と革質の質感が手がかり。"
+    },
+    "en": {
+      "summary": "A bracket fungus (Rigidoporus lineatus), a polypore of dead and fallen broadleaf wood that projects semicircular to shelf-like fruit bodies; drying hard and leathery with concentric zones on the cap and a fine-pored underside, it is a wood-rotting fungus.",
+      "habitat_hint": "Dead and fallen broadleaf wood, stumps.",
+      "finding_tips": "Year-round on dead broadleaf wood look for a hard semicircular shelf bracket with concentric zoning; the leathery zoned cap is the clue."
+    },
+    "zh": {
+      "summary": "スルメタケ。多孔菌类，生阔叶枯木倒木，子实体半圆至层架状横生，干后硬革质、面具同心环带、下面细密管孔，为木材腐朽菌。",
+      "habitat_hint": "阔叶枯木、倒木、树桩。",
+      "finding_tips": "全年于阔叶枯木寻半圆层架状硬菇；同心环纹与革质为辨识点。"
+    }
+  },
+  "Rochia nilotica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Commercial top shell",
+    "aliases": {
+      "zh-Hans": "马蹄螺"
+    },
+    "ja": {
+      "summary": "タカセガイ。サンゴ礁の浅海にすむニシキウズガイ科の大型の巻貝で、殻は高い円錐形(独楽形)で、赤褐色と白の斑模様をもつ。厚い殻の内側は真珠光沢が強く、ボタンや貝細工の材料として重要な水産資源。海藻を食べる。",
+      "habitat_hint": "サンゴ礁の浅海、岩礁、潮下帯。",
+      "finding_tips": "サンゴ礁の浅海で、高い円錐形で赤褐色と白のまだら模様をもつ大きな巻貝を探す。独楽形の大きな殻が識別点。"
+    },
+    "en": {
+      "summary": "Commercial top shell (Rochia nilotica), a large trochid snail of shallow coral reefs with a tall conical (top-shaped) shell mottled red-brown and white; the thick shell has a strongly pearly interior and is an important resource for buttons and shell craft. It grazes algae.",
+      "habitat_hint": "Shallow coral reefs, rocky reefs, subtidal.",
+      "finding_tips": "On shallow reef look for a large tall conical snail mottled red-brown and white; the big top-shaped shell is the clue."
+    },
+    "zh": {
+      "summary": "タカセガイ（马蹄螺）。马蹄螺科大型海螺，栖珊瑚礁浅海，壳高圆锥（陀螺形）、饰红褐与白斑，厚壳内具强珍珠光泽，为纽扣与贝工艺之重要水产资源，刮食藻类。",
+      "habitat_hint": "珊瑚礁浅海、岩礁、潮下带。",
+      "finding_tips": "浅海珊瑚礁寻高圆锥、红褐白斑之大螺；陀螺形大壳为辨识点。"
+    }
+  },
+  "Rosa sambucina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wild rose",
+    "ja": {
+      "summary": "ヤマイバラ。暖地の山地の林縁や谷沿いに生えるバラ科のつる性〜半つる性の低木で、日本のノイバラ類では大型。茎に鋭いとげがあり、初夏に白い5弁の花を房状に咲かせる。花後に赤い小さな果実(偽果)をつける。",
+      "habitat_hint": "暖地の山地の林縁、谷沿い、崖地。",
+      "finding_tips": "5〜6月、山地の林縁でとげのあるつる状の茎に白い5弁花の房をつける野バラを探す。大きめの株と白い花房が手がかり。"
+    },
+    "en": {
+      "summary": "A wild rose (Rosa sambucina), a climbing to half-scrambling rosaceous shrub of warm montane woodland edges and ravines, large for a Japanese wild rose; its prickly stems bear clusters of white five-petalled flowers in early summer, followed by small red hips.",
+      "habitat_hint": "Warm montane woodland edges, ravines, cliffs.",
+      "finding_tips": "In May–June at mountain woodland edges look for a prickly climbing rose with clusters of white five-petalled flowers; the large habit and white flower clusters are the clues."
+    },
+    "zh": {
+      "summary": "ヤマイバラ。蔷薇科攀援至半攀援灌木，生暖地山地林缘与谷畔，为日本野蔷薇中较大者，茎具锐刺，初夏生白色五瓣花之花簇，花后结红色小果。",
+      "habitat_hint": "暖地山地林缘、谷畔、崖地。",
+      "finding_tips": "5〜6月于山地林缘寻具刺攀茎、白五瓣花簇之野蔷薇；大株白花簇为辨识点。"
+    }
+  },
+  "Rostanga orientalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sponge sea slug",
+    "ja": {
+      "summary": "イソウミウシ。岩礁の潮間帯〜潮下帯にすむ小型のウミウシ(裸鰓類)で、体は赤橙色を帯び、背にビロード状の細かい突起が密生する。同じような色の海綿の上にすみ、その海綿を食べる(擬態しやすい)。",
+      "habitat_hint": "岩礁の潮間帯〜潮下帯、赤橙色の海綿の上。",
+      "finding_tips": "潮だまりや岩の下面で、赤橙色でビロード状の小型ウミウシを探す。同色の海綿の上にいる点が手がかり。"
+    },
+    "en": {
+      "summary": "A sponge sea slug (Rostanga orientalis), a small nudibranch of the rocky intertidal and subtidal with a reddish-orange body densely covered in velvety tubercles; it lives on and eats similarly coloured sponges, so it is well camouflaged.",
+      "habitat_hint": "Rocky intertidal to subtidal, on reddish sponges.",
+      "finding_tips": "In tide pools or under rock look for a small red-orange velvety nudibranch; finding it on a matching sponge is the clue."
+    },
+    "zh": {
+      "summary": "イソウミウシ。裸鳃类小型海蛞蝓，栖岩礁潮间至潮下带，体红橙、背密生绒状细突，居于同色海绵上并食之，善拟态。",
+      "habitat_hint": "岩礁潮间至潮下带、红橙海绵上。",
+      "finding_tips": "潮池或岩下寻红橙绒状之小海蛞蝓；居同色海绵为辨识点。"
+    }
+  },
+  "Rostanga risbeci": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sponge sea slug",
+    "ja": {
+      "summary": "クロイソウミウシ。岩礁の潮間帯〜潮下帯にすむ小型のウミウシ(裸鰓類)で、体は暗赤色〜黒っぽい赤色を帯び、背に細かい突起が密生する。イソウミウシに似るがより暗色。海綿の上にすみ、これを食べる。",
+      "habitat_hint": "岩礁の潮間帯〜潮下帯、海綿の上。",
+      "finding_tips": "潮だまりや岩の下面で、暗い赤色でビロード状の小型ウミウシを探す。暗赤色の体色がイソウミウシとの違い。"
+    },
+    "en": {
+      "summary": "A sponge sea slug (Rostanga risbeci), a small nudibranch of the rocky intertidal and subtidal with a dark-red to blackish-red velvety body densely tubercled; like Rostanga orientalis but darker, it lives on and eats sponges.",
+      "habitat_hint": "Rocky intertidal to subtidal, on sponges.",
+      "finding_tips": "In tide pools or under rock look for a small dark-red velvety nudibranch; its darker red colour separates it from R. orientalis."
+    },
+    "zh": {
+      "summary": "クロイソウミウシ。裸鳃类小型海蛞蝓，栖岩礁潮间至潮下带，体暗红至黑红、背密生细突，似矶海蛞蝓而更暗，居海绵上并食之。",
+      "habitat_hint": "岩礁潮间至潮下带、海绵上。",
+      "finding_tips": "潮池或岩下寻暗红绒状之小海蛞蝓；暗红体色别于矶海蛞蝓。"
+    }
+  },
+  "Rotala ramosior": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lowland toothcup",
+    "ja": {
+      "summary": "アメリカキカシグサ。アメリカ原産で水田や湿地に帰化したミソハギ科の一年草。茎はよく枝分かれし、水辺の泥地に生える。葉は細長く、夏〜秋、葉のつけ根に淡紅色〜白色のごく小さな花を目立たずつける。水田雑草のひとつ。",
+      "habitat_hint": "水田、湿地、水辺の泥地(帰化)。",
+      "finding_tips": "夏〜秋、水田や湿地の泥地でよく枝分かれし、葉のつけ根に極小の花をつける小さな草本を探す。分枝する赤みを帯びた茎が手がかり。"
+    },
+    "en": {
+      "summary": "Lowland toothcup (Rotala ramosior), an American annual naturalised in paddies and wetlands; the much-branched stems grow on wet muddy ground, with narrow leaves and tiny inconspicuous pinkish-white flowers in the leaf axils from summer to autumn — a paddy weed.",
+      "habitat_hint": "Paddies, wetlands, wet muddy ground (naturalised).",
+      "finding_tips": "In summer–autumn on wet mud look for a small much-branched herb with tiny flowers tucked in the leaf axils; the branching reddish stems are the clue."
+    },
+    "zh": {
+      "summary": "アメリカキカシグサ（美洲节节菜）。千屈菜科一年草，原产美洲、归化于水田湿地，茎多分枝生湿泥地，叶细长，夏秋叶腋生淡粉至白之极小花不显，为水田杂草。",
+      "habitat_hint": "水田、湿地、水边泥地（归化）。",
+      "finding_tips": "夏秋于水田湿泥寻多分枝、叶腋具极小花之小草；分枝红茎为辨识点。"
+    }
+  },
+  "Rubus pseudojaponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Creeping raspberry",
+    "ja": {
+      "summary": "ヒメゴヨウイチゴ。山地〜亜高山の林内や林縁に生えるバラ科キイチゴ属の小型の草本状の低木で、茎は地をはって広がる。葉は3〜5小葉からなり、初夏に白い花を咲かせ、夏に赤く熟す小さな集合果(木いちご)をつける。",
+      "habitat_hint": "山地〜亜高山の林内・林縁、樹陰。",
+      "finding_tips": "初夏〜夏、山地の林床で地をはう小型のキイチゴと白い花・赤い実を探す。地をはう茎と小さな木いちごが手がかり。"
+    },
+    "en": {
+      "summary": "A creeping raspberry (Rubus pseudojaponicus), a small herb-like rosaceous bramble of montane to subalpine woodland with stems that creep over the ground; the leaves have three to five leaflets, and it flowers white in early summer and ripens small red aggregate berries in summer.",
+      "habitat_hint": "Montane to subalpine woodland interiors and edges, shade.",
+      "finding_tips": "In early summer on a mountain forest floor look for a low creeping bramble with white flowers and small red berries; the creeping stems and small raspberries are the clues."
+    },
+    "zh": {
+      "summary": "ヒメゴヨウイチゴ。蔷薇科悬钩子属小型草本状灌木，生山地至亚高山林内林缘，茎匍匐铺展，叶3〜5小叶，初夏开白花，夏结红熟小聚合果（木莓）。",
+      "habitat_hint": "山地至亚高山林内林缘、树荫。",
+      "finding_tips": "初夏至夏于山地林床寻匍匐小悬钩子与白花红果；匍匐茎与小木莓为辨识点。"
+    }
+  },
+  "Rumex pratensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dock",
+    "ja": {
+      "summary": "ノハラダイオウ。原野や河川敷、道ばたに生えるタデ科ギシギシ属の多年草で、大きな長楕円形の根生葉をもつ。夏、高い花茎を立てて多数の緑色〜赤褐色の小花を穂状につけ、果実には翼(翼状の内花被)がある。ギシギシの仲間。",
+      "habitat_hint": "原野、河川敷、道ばた、やや湿った草地。",
+      "finding_tips": "夏、草地や河川敷で高い花茎に緑〜赤褐色の小花を穂状につける大型のタデ科草本を探す。翼のある果実と大きな根生葉が手がかり。"
+    },
+    "en": {
+      "summary": "A dock (Rumex pratensis), a polygonaceous perennial of open ground, riverbanks and waysides with large oblong basal leaves; in summer it raises a tall stalk of many green to red-brown flowers in whorled spikes, the fruit bearing winged valves — a member of the docks.",
+      "habitat_hint": "Open ground, riverbanks, waysides, damp grassland.",
+      "finding_tips": "In summer in grassland look for a tall dock with spikes of green-brown flowers; the winged fruit valves and large basal leaves are the clues."
+    },
+    "zh": {
+      "summary": "ノハラダイオウ。蓼科酸模属多年草，生原野、河滩与路旁，具大长椭圆基生叶，夏抽高花茎生多数绿至红褐小花成穗，果具翅（翼状内被），为酸模类。",
+      "habitat_hint": "原野、河滩、路旁、湿草地。",
+      "finding_tips": "夏于草地寻高茎穗状绿褐小花之大酸模；翅果与大基生叶为辨识点。"
+    }
+  },
+  "Ruscus aculeatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Butcher's-broom",
+    "aliases": {
+      "zh-Hans": "假叶树"
+    },
+    "ja": {
+      "summary": "ナギイカダ。地中海地方原産のキジカクシ科の常緑低木で、観賞用に植えられる。葉のように見えるのは扁平化した枝(葉状枝)で、その先が鋭くとがる。葉状枝の表面の中央に小さな花をつけ、赤い球形の果実が実る。",
+      "habitat_hint": "庭園、公園に植栽(原産地は林床)。",
+      "finding_tips": "一年中、庭園で葉状の扁平な枝の先がとがり、その枝の表面中央に赤い実をつける常緑低木を探す。枝の面に実がつく点が識別点。"
+    },
+    "en": {
+      "summary": "Butcher's-broom (Ruscus aculeatus), an evergreen Mediterranean shrub grown as an ornamental; what look like leaves are flattened stems (cladodes) tipped with a sharp spine, and it bears tiny flowers and round red berries in the centre of the cladode surface.",
+      "habitat_hint": "Gardens and parks (native to woodland floors).",
+      "finding_tips": "Year-round in gardens look for an evergreen shrub with spine-tipped leaf-like flattened stems bearing red berries on their face; berries on the stem surface are diagnostic."
+    },
+    "zh": {
+      "summary": "ナギイカダ（假叶树）。天门冬科常绿灌木，原产地中海，供观赏，似叶者为扁化之枝（叶状枝）、先端具锐刺，花与红色球果生于叶状枝面之中央。",
+      "habitat_hint": "庭园、公园栽培（原产林床）。",
+      "finding_tips": "全年于庭园寻叶状扁枝先端具刺、枝面生红果之常绿灌木；果生枝面为辨识点。"
+    }
+  },
+  "Russula compacta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brittlegill",
+    "ja": {
+      "summary": "アカカバイロタケ。夏〜秋、広葉樹林や針葉樹林の地上に生えるベニタケ科のキノコで、傘は赤褐色〜樺色でしっかりと厚く、傷つくと赤褐色に変色する。ひだと柄は白っぽく、古くなると魚臭を帯びることがある。",
+      "habitat_hint": "夏〜秋、広葉樹林・針葉樹林の地上。",
+      "finding_tips": "夏〜秋、林内の地上で赤褐色の厚くしっかりした傘のキノコを探し、傷つけて赤褐色に変色するか確かめる。厚い傘と変色が識別点。"
+    },
+    "en": {
+      "summary": "A brittlegill (Russula compacta), a summer-to-autumn russula of broadleaf and conifer woodland with a firm, thick reddish-brown to birch-brown cap that stains reddish-brown when bruised; the gills and stem are whitish, sometimes fishy-smelling with age.",
+      "habitat_hint": "Summer–autumn on the ground in broadleaf and conifer woodland.",
+      "finding_tips": "In summer–autumn on the woodland floor find a firm thick reddish-brown-capped mushroom and bruise it to check for reddish staining; the thick cap and staining are the clues."
+    },
+    "zh": {
+      "summary": "アカカバイロタケ。红菇科菇，夏秋生阔叶林与针叶林地上，盖红褐至桦褐、厚实，伤后变红褐，褶柄偏白，老时或带鱼腥。",
+      "habitat_hint": "夏秋，阔叶林、针叶林地上。",
+      "finding_tips": "夏秋于林地寻红褐厚实盖之菇，伤之验红褐变色；厚盖与变色为辨识点。"
+    }
+  },
+  "Russula foetens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stinking brittlegill",
+    "ja": {
+      "summary": "クサハツ。夏〜秋、広葉樹林や針葉樹林の地上に生えるベニタケ科のキノコで、傘は黄褐色でぬめりがあり、周縁に放射状の溝(条線)がある。強い不快臭(名の由来)をもち、味も不快。食には向かない。",
+      "habitat_hint": "夏〜秋、広葉樹林・針葉樹林の地上。",
+      "finding_tips": "夏〜秋、林内の地上で黄褐色でぬめりがあり縁に溝のある傘のキノコを探す。強い不快臭が識別の手がかり。"
+    },
+    "en": {
+      "summary": "Stinking brittlegill (Russula foetens), a summer-to-autumn russula of broadleaf and conifer woodland with a slimy yellow-brown cap grooved radially at the margin; it has a strong unpleasant smell (its name) and taste and is not for eating.",
+      "habitat_hint": "Summer–autumn on the ground in broadleaf and conifer woodland.",
+      "finding_tips": "In summer–autumn find a slimy yellow-brown grooved-margined cap; the strong foul smell is the clue. Not for the table."
+    },
+    "zh": {
+      "summary": "クサハツ。红菇科菇，夏秋生阔叶林针叶林地上，盖黄褐具黏、缘具放射沟纹，具强烈不快气味（名之由来）与不快味，不宜食。",
+      "habitat_hint": "夏秋，阔叶林、针叶林地上。",
+      "finding_tips": "夏秋于林地寻黄褐黏盖、缘具沟纹之菇；强烈臭味为辨识点，不宜食。"
+    }
+  },
+  "Russula sanguinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bloody brittlegill",
+    "ja": {
+      "summary": "チシオハツ。夏〜秋、主にマツなどの針葉樹林の地上に生えるベニタケ科のキノコで、傘は鮮やかな血赤色〜紅色。柄もしばしば赤みを帯び、ひだは白〜淡黄色。辛味があり食用には向かない。鮮やかな赤色が印象的。",
+      "habitat_hint": "夏〜秋、マツなど針葉樹林の地上。",
+      "finding_tips": "夏〜秋、マツ林の地上で鮮やかな血赤色の傘と赤みを帯びた柄のキノコを探す。鮮紅色の傘と柄が識別点。"
+    },
+    "en": {
+      "summary": "Bloody brittlegill (Russula sanguinea), a summer-to-autumn russula mainly of pine and other conifer woodland with a vivid blood-red to crimson cap; the stem is often reddish too and the gills whitish to pale yellow. Acrid-tasting, it is not for eating, but its bright red is striking.",
+      "habitat_hint": "Summer–autumn on the ground in pine and conifer woodland.",
+      "finding_tips": "In summer–autumn in pine woods look for a vivid blood-red cap on a reddish stem; the bright red cap and stem are the clues."
+    },
+    "zh": {
+      "summary": "チシオハツ。红菇科菇，夏秋主生于松等针叶林地上，盖鲜血红至绯红，柄常带红，褶白至淡黄，味辣不宜食，鲜红夺目。",
+      "habitat_hint": "夏秋，松等针叶林地上。",
+      "finding_tips": "夏秋于松林寻鲜血红盖、红柄之菇；鲜红盖柄为辨识点。"
+    }
+  },
+  "Russula senecis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brittlegill",
+    "ja": {
+      "summary": "オキナクサハツ。夏〜秋、広葉樹林の地上に生えるベニタケ科のキノコで、傘は黄褐色〜褐色でぬめりがあり、周縁にいぼ状の突起の並ぶ粗い条線がある。柄は表面がささくれて黒ずむ。クサハツに似て不快臭をもつ。",
+      "habitat_hint": "夏〜秋、広葉樹林(特にブナ科)の地上。",
+      "finding_tips": "夏〜秋、林内で黄褐色でぬめりがあり縁にいぼ状の条線をもつ傘と、ささくれて黒ずむ柄のキノコを探す。粗い条線とささくれた柄が識別点。"
+    },
+    "en": {
+      "summary": "A brittlegill (Russula senecis), a summer-to-autumn russula of broadleaf woodland with a slimy yellow-brown to brown cap whose margin has coarse, warted grooves; the stem is roughened and darkening. Like the stinking brittlegill it smells unpleasant.",
+      "habitat_hint": "Summer–autumn on the ground in broadleaf woodland (esp. oak/beech).",
+      "finding_tips": "In summer–autumn look for a slimy yellow-brown cap with a coarsely warted grooved margin on a roughened darkening stem; those coarse grooves and rough stem are the clues."
+    },
+    "zh": {
+      "summary": "オキナクサハツ。红菇科菇，夏秋生阔叶林地上，盖黄褐至褐、具黏，缘具疣状粗沟纹，柄面粗糙而变暗，似臭红菇具不快气味。",
+      "habitat_hint": "夏秋，阔叶林（尤壳斗科）地上。",
+      "finding_tips": "夏秋于林中寻黄褐黏盖、缘具疣状沟纹与粗糙暗柄之菇；粗沟纹与糙柄为辨识点。"
+    }
+  },
+  "Sagaminopteron psychedelicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Psychedelic batwing slug",
+    "ja": {
+      "summary": "トウモンウミコチョウ。ウミコチョウの仲間(頭楯類)の小型の海の巻貝(貝殻は退化)で、体は鮮やかな青緑色の地に橙色や黄色の縁取りや斑をもつ、非常にカラフルなウミウシ状の動物。体の両側に翼状のひれ(側足)をひらひらさせて泳ぐ。海綿を食べる。",
+      "habitat_hint": "岩礁・サンゴ礁の浅海、海綿のある所、潮下帯。",
+      "finding_tips": "潮下帯の海綿の周りで、青緑色に橙色の縁取りをもつ非常に派手な小型の海のウシを探す。翼状の側足と鮮やかな色彩が識別点。"
+    },
+    "en": {
+      "summary": "Psychedelic batwing slug (Sagaminopteron psychedelicum), a small headshield sea slug (with a reduced shell), vividly blue-green edged and spotted with orange and yellow — extremely colourful; it flaps wing-like parapodia to swim and feeds on sponges.",
+      "habitat_hint": "Shallow rocky and coral reefs, near sponges, subtidal.",
+      "finding_tips": "In the subtidal near sponges look for a small very gaudy blue-green slug edged in orange; the wing-like flaps and vivid colours are the clues."
+    },
+    "zh": {
+      "summary": "トウモンウミコチョウ。头楯类小型海生贝（壳退化），体鲜蓝绿、缘与斑呈橙黄，极其艳丽如海蛞蝓，以两侧翼状侧足摆动而游，食海绵。",
+      "habitat_hint": "岩礁、珊瑚礁浅海、海绵处、潮下带。",
+      "finding_tips": "潮下带海绵旁寻蓝绿具橙缘之极艳小海牛；翼状侧足与艳色为辨识点。"
+    }
+  },
+  "Salix taraikensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Willow",
+    "ja": {
+      "summary": "タライカヤナギ。北海道など北方の山地や湿地、河原に生えるヤナギ科の落葉低木〜小高木。葉は楕円形で裏面が白っぽく、春、葉に先立って尾状の花穂(花序)をつける。他のヤナギ類と同様に湿った環境を好む。",
+      "habitat_hint": "北方の山地・湿地・河原(北海道など)。",
+      "finding_tips": "春、北方の湿地や河原で葉に先立つ尾状の花穂をつけるヤナギを探す。裏が白っぽい楕円形の葉が手がかり。"
+    },
+    "en": {
+      "summary": "A willow (Salix taraikensis), a deciduous shrub to small tree of northern mountains, wetlands and river gravel in Hokkaido and beyond; the elliptic leaves are whitish beneath, and it bears catkins before the leaves in spring, favouring damp ground like other willows.",
+      "habitat_hint": "Northern mountains, wetlands and river gravel (Hokkaido, etc.).",
+      "finding_tips": "In spring in northern wetlands look for a willow with catkins before leafing; the elliptic leaves whitish beneath are the clue."
+    },
+    "zh": {
+      "summary": "タライカヤナギ。杨柳科落叶灌木至小乔木，生北方山地、湿地与河滩（北海道等），叶椭圆、背面偏白，春先叶生柔荑花序，如众柳喜湿。",
+      "habitat_hint": "北方山地、湿地、河滩（北海道等）。",
+      "finding_tips": "春于北方湿地寻先叶生柔荑之柳；叶椭圆背白为辨识点。"
+    }
+  },
+  "Salvinia molesta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Giant salvinia",
+    "aliases": {
+      "zh-Hans": "人厌槐叶苹"
+    },
+    "ja": {
+      "summary": "オオサンショウモ。南米原産で世界の暖地に広がった浮遊性の水生シダで、水面に浮かぶ2枚の葉が対になって連なる。葉の表面には水をはじく細かい毛が卵形に密生する。急速に増えて水面を覆い、水路や池をふさぐ侵略的外来種として問題になる。",
+      "habitat_hint": "池沼・水路・止水域の水面(浮遊)。",
+      "finding_tips": "夏、止水の水面で対になった小さな緑の葉が連なって浮かぶ水草を探す。葉表の卵形に密生する毛が識別点。急増して水面を覆う。"
+    },
+    "en": {
+      "summary": "Giant salvinia (Salvinia molesta), a South American floating water fern spread through warm regions worldwide; its paired floating leaves run in chains, their surfaces densely covered with water-repellent egg-beater-shaped hairs. It multiplies fast to blanket the water and is a notorious invasive that clogs channels and ponds.",
+      "habitat_hint": "Ponds, channels and still water surfaces (free-floating).",
+      "finding_tips": "In summer on still water look for chains of small paired green floating leaves; the egg-shaped clusters of surface hairs are the clue. It rapidly covers the surface."
+    },
+    "zh": {
+      "summary": "オオサンショウモ（人厌槐叶苹）。漂浮水生蕨，原产南美、已扩散至世界暖地，水面浮叶成对相连，叶面密生打蛋器状拒水毛，繁殖极快覆盖水面，为堵塞水渠池塘之恶性入侵种。",
+      "habitat_hint": "池沼、水渠、止水水面（漂浮）。",
+      "finding_tips": "夏于止水寻成对相连之绿色浮叶；叶面卵形密毛为辨识点，且急增覆水。"
+    }
+  },
+  "Sambucus racemosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red elderberry",
+    "aliases": {
+      "zh-Hans": "红果接骨木"
+    },
+    "ja": {
+      "summary": "セイヨウアカミニワトコ。ヨーロッパ〜アジアに分布するレンプクソウ科(旧スイカズラ科)の落葉低木で、羽状複葉をもつ。春、円錐状に多数の白い小花を咲かせ、夏に赤く熟す小さな果実を房状につける。ニワトコの仲間で、庭木・緑化にも使われる。",
+      "habitat_hint": "山地の林縁、明るい林内、庭園(植栽)。",
+      "finding_tips": "春、林縁で羽状複葉と白い小花の円錐花序をもつ低木を探す。夏に赤く熟す房状の果実が識別点。"
+    },
+    "en": {
+      "summary": "Red elderberry (Sambucus racemosa), a Eurasian deciduous shrub of the moschatel family with pinnate leaves; in spring it bears conical clusters of many small white flowers, followed by clusters of small red berries in summer. An elder relative, it is also planted in gardens.",
+      "habitat_hint": "Montane woodland edges, open woodland, gardens (planted).",
+      "finding_tips": "In spring at woodland edges look for a shrub with pinnate leaves and conical clusters of white flowers; the summer clusters of red berries are the clue."
+    },
+    "zh": {
+      "summary": "セイヨウアカミニワトコ（红果接骨木）。五福花科（旧忍冬科）落叶灌木，广布欧亚，具羽状复叶，春生圆锥状多数白色小花，夏结红熟小果成簇，为接骨木类，亦供庭植绿化。",
+      "habitat_hint": "山地林缘、明亮林内、庭园（栽培）。",
+      "finding_tips": "春于林缘寻具羽状复叶与白花圆锥序之灌木；夏红熟果簇为辨识点。"
+    }
+  },
+  "Sarcoscypha occidentalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scarlet cup",
+    "ja": {
+      "summary": "ベニチャワンタケモドキ。湿った林内の落枝や腐った小枝の上に生える子嚢菌(チャワンタケの仲間)で、鮮やかな赤い椀形〜皿形の子実体をつける。外側は白っぽく、内側の子実層が鮮紅色。春など涼しい季節に発生する小型のきのこ。",
+      "habitat_hint": "湿った林内の落枝・腐った小枝の上。",
+      "finding_tips": "春など涼しい時期、湿った林の落枝で内側が鮮紅色の小さな椀形のキノコを探す。赤い椀形の子実体が識別点。"
+    },
+    "en": {
+      "summary": "A scarlet cup (Sarcoscypha occidentalis), an ascomycete fungus growing on fallen twigs and rotting sticks in damp woodland; it forms a vivid red cup- to disc-shaped fruit body, whitish outside with a scarlet inner surface, appearing in cool seasons such as spring.",
+      "habitat_hint": "Fallen twigs and rotting sticks in damp woodland.",
+      "finding_tips": "In cool seasons on damp fallen twigs look for a small cup with a scarlet inner surface; the red cup fruit body is the clue."
+    },
+    "zh": {
+      "summary": "ベニチャワンタケモドキ。子囊菌（盘菌类），生湿林内落枝与朽枝，子实体鲜红碗至盘状，外壁偏白、内子实层鲜红，多于春等凉季发生，为小型菌。",
+      "habitat_hint": "湿林内落枝、朽枝上。",
+      "finding_tips": "凉季于湿林落枝寻内壁鲜红之小碗菌；红色碗状子实体为辨识点。"
+    }
+  },
+  "Saussurea triptera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマヒゴタイ。亜高山〜高山の草地や岩場に生えるキク科トウヒレン属の多年草で、茎に翼(ひれ)があるのが特徴。夏〜秋、茎の先に紅紫色の筒状花だけからなる頭花を数個つける。アザミに似るがとげはない。北方系の高山植物。",
+      "habitat_hint": "亜高山〜高山の草地・岩場、風衝地。",
+      "finding_tips": "8〜9月、高山の草地で茎に翼があり、紅紫色の筒状花の頭花をつける草本を探す。翼のある茎とアザミ状の花が識別点。"
+    },
+    "en": {
+      "summary": "A saw-wort (Saussurea triptera), a daisy-family perennial of subalpine to alpine meadows and rocks with winged stems; in late summer to autumn it bears a few purplish-red flower heads of tubular florets at the stem tip. Thistle-like but without spines, it is a northern alpine plant.",
+      "habitat_hint": "Subalpine–alpine meadows and rocks, wind-exposed ground.",
+      "finding_tips": "In August–September in alpine meadow look for a plant with winged stems and purplish-red thistle-like flower heads; the winged stem and spineless heads are the clues."
+    },
+    "zh": {
+      "summary": "ミヤマヒゴタイ。菊科风毛菊属多年草，生亚高山至高山草地岩场，茎具翅为特征，夏秋于茎顶生数枚紫红管状花之头状花，似蓟而无刺，为北方高山植物。",
+      "habitat_hint": "亚高山至高山草地岩场、风衝地。",
+      "finding_tips": "8〜9月于高山草地寻茎具翅、紫红头状花之草；翅茎与无刺蓟状花为辨识点。"
+    }
   }
 }
