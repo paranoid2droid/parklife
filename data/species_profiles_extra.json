@@ -277413,5 +277413,548 @@
       "habitat_hint": "潮滩、河口砂泥底，深洞穴中。",
       "finding_tips": "退潮潮滩寻喷砂之洞口；淡粉软体、一大螯为辨识点。"
     }
+  },
+  "Neptunea kuroshio": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "ヒメエゾボラモドキ。エゾボラ類(エゾバイ科)の巻貝で、殻は太い紡錘形で厚く、螺状の肋をもつ。やや深い冷たい砂泥底にすむ肉食性の巻貝で、他の貝や動物の死体を食べる。エゾボラ(真つぶ)の仲間。",
+      "habitat_hint": "やや深い冷たい海の砂泥底、潮下帯以深。",
+      "finding_tips": "海岸に打ち上げられた太い紡錘形で螺肋のある厚い巻貝の殻を探す。太く重い殻がエゾボラ類の手がかり。"
+    },
+    "en": {
+      "summary": "A whelk (Neptunea kuroshio), a buccinid snail with a thick, stout spindle-shaped shell bearing spiral ridges; a predator of deeper, cold sandy-mud bottoms, it feeds on other shellfish and carrion.",
+      "habitat_hint": "Deeper cold-sea sandy-mud bottoms, below the subtidal.",
+      "finding_tips": "On the strandline look for a stout thick spindle-shaped shell with spiral ridges; the heavy shell marks a Neptunea whelk."
+    },
+    "zh": {
+      "summary": "ヒメエゾボラモドキ。蛾螺科海螺，壳粗纺锤形而厚、具螺肋，栖较深冷海砂泥底，肉食，取食他贝与动物尸体，为峨螺类。",
+      "habitat_hint": "较深冷海砂泥底、潮下带以深。",
+      "finding_tips": "海岸拾粗纺锤形具螺肋之厚螺壳；壳粗重为峨螺类辨识点。"
+    }
+  },
+  "Nereiphylla castanea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Paddle worm",
+    "ja": {
+      "summary": "アケノサシバ。海の岩礁や砂礫底にすむ多毛類(サシバゴカイ科)のゴカイの仲間で、体は細長く多くの体節からなり、各節に葉状(パドル状)の疣足(いぼあし)をもつ。岩の下や海藻の間をはい回り、小動物を食べる。",
+      "habitat_hint": "岩礁・砂礫底、岩の下、海藻の間、潮間帯〜潮下帯。",
+      "finding_tips": "潮間帯の岩をめくり、体節ごとに葉状の疣足をもつ細長い多毛類を探す。パドル状の疣足が識別点。"
+    },
+    "en": {
+      "summary": "A paddle worm (Nereiphylla castanea), a phyllodocid polychaete of rocky and gravelly seabed; the long many-segmented body bears leaf-like (paddle) lobes on each segment, and it crawls under rocks and among seaweed hunting small animals.",
+      "habitat_hint": "Rocky and gravel seabed, under rocks and among weed, intertidal to subtidal.",
+      "finding_tips": "Turn intertidal rocks to find a long segmented worm with leaf-like lobes on each segment; the paddle lobes are the clue."
+    },
+    "zh": {
+      "summary": "アケノサシバ。多毛类叶须虫科沙蚕近亲，栖岩礁与砂砾海底，体细长多节、每节具叶状（桨状）疣足，穴行岩下海藻间捕食小动物。",
+      "habitat_hint": "岩礁、砂砾海底、岩下海藻间、潮间至潮下带。",
+      "finding_tips": "翻潮间带岩石寻每节具叶状疣足之细长多毛类；桨状疣足为辨识点。"
+    }
+  },
+  "Nipponacmea gloriosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Limpet",
+    "ja": {
+      "summary": "サクラアオガイ。岩礁の潮間帯にすむユキノカサガイ科の小型のカサガイ(笠貝)で、殻は低い笠形。殻表や内面に桜色〜青みを帯びた美しい色彩をもつのが名の由来。岩に吸着し、岩表の微細な藻類をかじって食べる。",
+      "habitat_hint": "岩礁の潮間帯、岩の表面に吸着。",
+      "finding_tips": "潮間帯の岩で、桜色や青みを帯びた小さな笠形の貝を探す。美しい淡紅〜青の色彩が識別点。"
+    },
+    "en": {
+      "summary": "A limpet (Nipponacmea gloriosa), a small lottiid limpet of the rocky intertidal with a low cap-shaped shell; its shell shows a beautiful cherry-pink to bluish tint (the source of its Japanese name). It clamps to rock and grazes microalgae.",
+      "habitat_hint": "Rocky intertidal, clamped to rock surfaces.",
+      "finding_tips": "On intertidal rock look for a small cap-shaped shell tinted pink or blue; the pretty pink-blue colour is the clue."
+    },
+    "zh": {
+      "summary": "サクラアオガイ。莲花青螺科小型笠贝，栖岩礁潮间带，壳低笠形，壳面内呈樱粉至泛蓝之美色而得名，吸附岩面刮食微藻。",
+      "habitat_hint": "岩礁潮间带，吸附岩面。",
+      "finding_tips": "潮间带岩上寻带樱粉或蓝色之小笠形贝；粉蓝美色为辨识点。"
+    }
+  },
+  "Nolathripa lactaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tuft moth",
+    "ja": {
+      "summary": "コマバシロコブガ。コブガ科の小型のガで、前翅には鱗粉が盛り上がったこぶ状の突起があり、静止時に独特の質感を見せる。翅は白っぽく暗色の模様をもつ。林縁や樹林にすみ、灯火に飛来する。",
+      "habitat_hint": "樹林、林縁、雑木林。",
+      "finding_tips": "初夏〜秋の夜、灯火で白っぽく翅にこぶ状の盛り上がりをもつ小さなガを探す。翅上のこぶが識別点。"
+    },
+    "en": {
+      "summary": "A tuft moth (Nolathripa lactaria), a small nolid moth whose forewings carry raised tufts of scales giving a bumpy texture at rest; the wings are whitish with darker markings. It lives in woodland and comes to light.",
+      "habitat_hint": "Woodland, woodland edges, coppice.",
+      "finding_tips": "On summer nights at lights look for a small whitish moth with raised scale-tufts on the wings; those bumps are the clue."
+    },
+    "zh": {
+      "summary": "コマバシロコブガ。瘤蛾科小型蛾，前翅具隆起鳞簇成瘤状而质感独特，翅白具暗纹，栖树林林缘，趋光。",
+      "habitat_hint": "树林、林缘、杂木林。",
+      "finding_tips": "初夏至秋夜于灯下寻翅具瘤状隆起之白色小蛾；翅上瘤簇为辨识点。"
+    }
+  },
+  "Nomada flavoguttata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nomad bee",
+    "ja": {
+      "summary": "ヒメキマダラハナバチ。ハナバチの一種だが、自分では巣をつくらず他のハナバチ(主にヒメハナバチ類)の巣に産卵する労働寄生(托卵)性のハチ。体はほぼ無毛で、黒地に黄や赤の斑をもちアシナガバチのように見える。花で吸蜜する。",
+      "habitat_hint": "草地・林縁・庭、宿主(ヒメハナバチ類)の営巣地。",
+      "finding_tips": "春、宿主のハナバチが営巣する地面近くや花で、無毛で黄斑をもつ小型のハチを探す。無毛でスズメバチ風の体が手がかり。"
+    },
+    "en": {
+      "summary": "A nomad bee (Nomada flavoguttata), a cuckoo bee that builds no nest of its own but lays in the nests of other bees (mainly Andrena mining bees); nearly hairless and black marked with yellow and red, it looks wasp-like and sips nectar at flowers.",
+      "habitat_hint": "Grassland, woodland edges and gardens, near host nests.",
+      "finding_tips": "In spring near host mining-bee nesting ground or on flowers look for a small hairless yellow-spotted bee; the hairless wasp-like look is the clue."
+    },
+    "zh": {
+      "summary": "ヒメキマダラハナバチ。花蜂之一，不自筑巢而寄生于他蜂（主为地花蜂）巢之杜鹃蜂，体近无毛、黑底具黄红斑似胡蜂，于花上吸蜜。",
+      "habitat_hint": "草地林缘庭园，寄主营巢地附近。",
+      "finding_tips": "春于寄主地花蜂营巢地或花上寻无毛具黄斑小蜂；无毛似蜂之体为辨识点。"
+    }
+  },
+  "Nomada ginran": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nomad bee",
+    "ja": {
+      "summary": "ギンランキマダラハナバチ。他のハナバチの巣に産卵する労働寄生(托卵)性のハナバチ(キマダラハナバチ属)の一種。体はほぼ無毛で、黒地に黄色や赤の斑をもち、細身でスズメバチに似た姿。花で吸蜜する。",
+      "habitat_hint": "草地・林縁、宿主となるハナバチの営巣地。",
+      "finding_tips": "春、地面近くや花で、無毛で黄斑をもつ細身のハチを探す。無毛でスズメバチ風の体が手がかり。"
+    },
+    "en": {
+      "summary": "A nomad bee (Nomada ginran), a cuckoo bee that lays in other bees' nests; nearly hairless, slender and black marked with yellow and red, it resembles a small wasp and takes nectar at flowers.",
+      "habitat_hint": "Grassland and woodland edges, near host bee nests.",
+      "finding_tips": "In spring near the ground or on flowers look for a slender hairless yellow-marked bee; the hairless wasp-like form is the clue."
+    },
+    "zh": {
+      "summary": "ギンランキマダラハナバチ。寄生于他蜂巢之杜鹃蜂（斑蜂属），体近无毛、黑底黄红斑、体细似小胡蜂，于花上吸蜜。",
+      "habitat_hint": "草地林缘，寄主蜂营巢地附近。",
+      "finding_tips": "春于近地或花上寻无毛具黄斑细蜂；无毛似蜂之体为辨识点。"
+    }
+  },
+  "Nothopsyche ruficollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Caddisfly",
+    "ja": {
+      "summary": "ホタルトビケラ。トビケラ目(エグリトビケラ科)の水生昆虫で、幼虫は川や湿地で植物片などを綴って筒状の巣(ケース)をつくり、その中にすむ。成虫は前胸が赤みを帯び、蛾に似た体で秋に多く見られ、灯火に飛来する。",
+      "habitat_hint": "河川・湿地・水辺(幼虫は水中の筒巣)。",
+      "finding_tips": "秋の夜、水辺の灯火で前胸が赤っぽい蛾に似た昆虫を探す。幼虫は水底の植物片でできた筒巣が手がかり。"
+    },
+    "en": {
+      "summary": "A caddisfly (Nothopsyche ruficollis), an aquatic insect whose larva builds a tubular case of plant fragments in streams and wetlands; the moth-like adult has a reddish prothorax, is common in autumn and comes to light.",
+      "habitat_hint": "Streams, wetlands and watersides (larva in a plant-case).",
+      "finding_tips": "On autumn nights near water at lights look for a moth-like insect with a reddish 'neck'; the larva's plant-fragment tube case is the clue."
+    },
+    "zh": {
+      "summary": "ホタルトビケラ。毛翅目沼石蛾科水生昆虫，幼虫于河流湿地以植物碎片缀成筒状巢居其中，成虫前胸带红、似蛾，秋多见并趋光。",
+      "habitat_hint": "河流、湿地、水边（幼虫水中筒巢）。",
+      "finding_tips": "秋夜于水边灯下寻前胸泛红似蛾之虫；幼虫植物碎片筒巢为辨识点。"
+    }
+  },
+  "Nucella freycinetii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dogwhelk",
+    "ja": {
+      "summary": "ナガチヂミボラ。岩礁の潮間帯にすむアッキガイ科の肉食性の巻貝(チヂミボラの仲間)で、殻はやや細長い紡錘形で表面に縮んだような彫刻をもつ。フジツボやイガイなどに穴をあけて中身を食べる。北方の岩礁に多い。",
+      "habitat_hint": "北方の岩礁の潮間帯、岩の割れ目。",
+      "finding_tips": "潮間帯の岩で、細長く縮んだような彫刻のある巻貝を探す。フジツボやイガイに寄り集まる点も手がかり。"
+    },
+    "en": {
+      "summary": "A dogwhelk (Nucella freycinetii), a predatory muricid snail of the rocky intertidal with a somewhat elongate spindle shell sculptured with wrinkled ridges; it drills barnacles and mussels to eat them and is common on northern shores.",
+      "habitat_hint": "Northern rocky intertidal, rock crevices.",
+      "finding_tips": "On intertidal rock look for an elongate wrinkle-sculptured snail; its clustering among barnacles and mussels is a further clue."
+    },
+    "zh": {
+      "summary": "ナガチヂミボラ。骨螺科肉食海螺，栖岩礁潮间带，壳略长纺锤形、表面具皱缩雕刻，钻食藤壶与贻贝，北方岩岸多见。",
+      "habitat_hint": "北方岩礁潮间带、岩缝。",
+      "finding_tips": "潮间带岩上寻细长具皱缩雕刻之螺；聚于藤壶贻贝间亦为辨识点。"
+    }
+  },
+  "Nuphar saikokuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pond-lily",
+    "ja": {
+      "summary": "サイコクヒメコウホネ。ため池や水路にすむスイレン科コウホネ属の水草で、西日本に分布する。水面に浮く楕円形の葉をもち、初夏〜夏に水面から花茎を立てて黄色い椀形の小さな花を咲かせる。ヒメコウホネの仲間。",
+      "habitat_hint": "ため池、水路、浅い止水域(西日本)。",
+      "finding_tips": "5〜9月、ため池で水面に浮く楕円形の葉と、水上に立つ黄色い椀形の花を探す。黄色い椀形の花が識別点。"
+    },
+    "en": {
+      "summary": "A small pond-lily (Nuphar saikokuensis), an aquatic waterlily-relative of ponds and channels in western Japan; it has floating oval leaves and raises a stalk above the water bearing small yellow cup-shaped flowers in early to mid summer.",
+      "habitat_hint": "Ponds, channels, shallow still water (western Japan).",
+      "finding_tips": "From May to September look for floating oval leaves and small yellow cup-shaped flowers held above the water; the yellow cup is the clue."
+    },
+    "zh": {
+      "summary": "サイコクヒメコウホネ。睡莲科萍蓬草属水草，分布西日本池塘水渠，具浮水椭圆叶，初夏至夏抽茎出水开黄色碗状小花。",
+      "habitat_hint": "池塘、水渠、浅止水（西日本）。",
+      "finding_tips": "5〜9月于池塘寻浮水椭圆叶与出水黄色碗状花；黄碗花为辨识点。"
+    }
+  },
+  "Oberonia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Necklace orchid",
+    "ja": {
+      "summary": "ヨウラクラン。樹幹に着生するラン科の小型のランで、多肉質で扁平な葉を扇状につける。初夏、細い花茎に極小の花を多数密につけて垂れ下がり、その姿が瓔珞(ようらく＝仏具の飾り)に見えることが名の由来。暖地の樹林に分布。",
+      "habitat_hint": "暖地の樹幹に着生、常緑樹林。",
+      "finding_tips": "5〜6月、暖地の樹幹で扇状の多肉葉と、極小花を密につけて垂れる花茎を探す。垂れ下がる数珠状の花序が識別点。"
+    },
+    "en": {
+      "summary": "A necklace orchid (Oberonia japonica), a small epiphytic orchid of tree trunks with fleshy, flattened leaves in a fan; in early summer it hangs a slender stalk densely set with minute flowers like a Buddhist ornament, in warm-region woodland.",
+      "habitat_hint": "Epiphytic on tree trunks, warm-region evergreen woods.",
+      "finding_tips": "In May–June on warm-woodland trunks look for fanned fleshy leaves and a drooping stalk of tiny flowers; the pendulous beaded spike is the clue."
+    },
+    "zh": {
+      "summary": "ヨウラクラン。兰科小型附生兰，附生树干，肉质扁平叶成扇状排列，初夏细花茎密生极小花而下垂，状如璎珞而得名，分布暖地林。",
+      "habitat_hint": "暖地树干附生、常绿林。",
+      "finding_tips": "5〜6月于暖地树干寻扇状肉叶与下垂密小花之花茎；下垂串珠状花序为辨识点。"
+    }
+  },
+  "Oenothera grandis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Largeflower evening primrose",
+    "ja": {
+      "summary": "オオバナコマツヨイグサ。北アメリカ原産で海岸の砂地や道ばたに帰化したアカバナ科の一〜二年草。地をはって広がり、夕方に径3〜4cmの黄色い花を開き、翌朝しぼむとやや赤みを帯びる。コマツヨイグサより花が大きい。",
+      "habitat_hint": "海岸の砂地、道ばた、空き地。",
+      "finding_tips": "初夏〜秋の夕方〜朝、海岸の砂地で地をはう茎に開く大きめの黄色い花を探す。しぼむと赤みを帯びる点が手がかり。"
+    },
+    "en": {
+      "summary": "Largeflower evening primrose (Oenothera grandis), a North American annual/biennial naturalised on coastal sand and waysides; it sprawls over the ground and opens yellow flowers 3–4 cm across in the evening that fade reddish by morning, larger-flowered than its relatives.",
+      "habitat_hint": "Coastal sand, waysides, waste ground.",
+      "finding_tips": "In evening or early morning from summer to autumn look on coastal sand for sprawling stems with fairly large yellow flowers; the reddish fading is the clue."
+    },
+    "zh": {
+      "summary": "オオバナコマツヨイグサ。柳叶菜科一至二年草，原产北美、归化于海岸沙地与路旁，匍匐铺展，傍晚开径3〜4厘米黄花、翌晨萎而带红，较小月见草花大。",
+      "habitat_hint": "海岸沙地、路旁、空地。",
+      "finding_tips": "初夏至秋傍晚至清晨于海岸沙地寻匍匐茎较大黄花；萎后带红为辨识点。"
+    }
+  },
+  "Origanum vulgare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oregano",
+    "aliases": {
+      "zh-Hans": "牛至"
+    },
+    "ja": {
+      "summary": "ハナハッカ。ヨーロッパ〜アジア原産のシソ科の多年草で、料理に使うオレガノ(ワイルドマジョラム)として知られる。全体に芳香があり、夏に淡紅紫色の小花を散房状に多数咲かせる。日当たりのよい草地や庭に植えられ、一部は野生化する。",
+      "habitat_hint": "日当たりのよい草地、道ばた、庭(栽培・逸出)。",
+      "finding_tips": "夏、日なたの草地で淡紅紫色の小花を密につけた芳香のあるシソ科草本を探す。葉をもむとオレガノの香りがある点が識別点。"
+    },
+    "en": {
+      "summary": "Oregano / wild marjoram (Origanum vulgare), an aromatic Eurasian mint-family perennial famed as the culinary herb; the whole plant is fragrant and it bears many small pinkish-purple flowers in flat-topped clusters in summer, grown in gardens and sometimes escaping.",
+      "habitat_hint": "Sunny grassland, waysides, gardens (grown/escaped).",
+      "finding_tips": "In summer in sunny grassland look for an aromatic mint-family plant with clustered pinkish-purple flowers; the oregano scent when crushed is the clue."
+    },
+    "zh": {
+      "summary": "ハナハッカ（牛至）。唇形科多年草，原产欧亚，即调味用之牛至（野马郁兰），全株芳香，夏开多数淡紫红小花成伞房状，植于向阳草地庭园，部分逸为野生。",
+      "habitat_hint": "向阳草地、路旁、庭园（栽培逸出）。",
+      "finding_tips": "夏于向阳草地寻密生淡紫红小花之芳香唇形草；揉叶有牛至香为辨识点。"
+    }
+  },
+  "Ornithogalum orthophyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star-of-Bethlehem",
+    "ja": {
+      "summary": "ホソバオオアマナ。地中海地方原産で各地に帰化したキジカクシ科(ユリ科)の球根植物。細い線形の葉を根ぎわに数枚出し、春に白い6弁の星形の花を咲かせる。花被の外側に緑の筋があるのが特徴。空き地や芝地に群生する。",
+      "habitat_hint": "空き地、芝地、道ばた(帰化)。",
+      "finding_tips": "春、芝地や空き地で細い葉の間から立つ白い6弁の星形の花を探す。外側の緑の筋が識別点。"
+    },
+    "en": {
+      "summary": "A star-of-Bethlehem (Ornithogalum orthophyllum), a Mediterranean bulb naturalised widely; it has a few narrow basal leaves and opens white six-petalled star-shaped flowers in spring, each petal green-striped on the back, growing in patches on waste and grassy ground.",
+      "habitat_hint": "Waste ground, lawns, waysides (naturalised).",
+      "finding_tips": "In spring on grassy ground look for white six-petalled star flowers over narrow leaves; the green stripe on the petal backs is the clue."
+    },
+    "zh": {
+      "summary": "ホソバオオアマナ。天门冬科（百合科）球根植物，原产地中海、各地归化，基生数枚线形叶，春开白色六瓣星状花、花被背具绿纹，成片生于空地草坪。",
+      "habitat_hint": "空地、草坪、路旁（归化）。",
+      "finding_tips": "春于草地寻窄叶间白色六瓣星状花；花被背绿纹为辨识点。"
+    }
+  },
+  "Orostachys malacophylla": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock rosette",
+    "ja": {
+      "summary": "イワレンゲ。岩の上や古い屋根、崖などに生えるベンケイソウ科の多肉植物で、多肉質の葉をロゼット状に密につけ蓮の花のように見える。秋、ロゼットの中心から花茎を高く立てて白い小花を多数つけ、開花・結実後に枯れる。",
+      "habitat_hint": "岩の上、崖、古い瓦屋根、日当たりのよい乾いた場所。",
+      "finding_tips": "秋、岩や古い屋根で蓮の花状の多肉ロゼットと、中心から高く立つ白い花穂を探す。多肉のロゼットが識別点。"
+    },
+    "en": {
+      "summary": "Rock rosette (Orostachys malacophylla), a stonecrop-family succulent of rocks, cliffs and old roof tiles; its fleshy leaves form a dense lotus-like rosette, and in autumn a tall stalk rises from the centre with many small white flowers, after which it dies.",
+      "habitat_hint": "Rocks, cliffs, old tiled roofs, sunny dry places.",
+      "finding_tips": "In autumn on rock or old roofs look for a lotus-like succulent rosette with a tall white flower spike; the fleshy rosette is the clue."
+    },
+    "zh": {
+      "summary": "イワレンゲ。景天科多肉植物，生岩上、崖壁与旧瓦屋顶，肉质叶密聚成莲花状莲座，秋自莲座中心高抽花茎生多数白色小花，花果后枯死。",
+      "habitat_hint": "岩上、崖壁、旧瓦屋顶、向阳干燥处。",
+      "finding_tips": "秋于岩石旧屋顶寻莲花状多肉莲座与中心高花穗；肉质莲座为辨识点。"
+    }
+  },
+  "Orchestes amurensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flea weevil",
+    "ja": {
+      "summary": "ムネスジノミゾウムシ。小型のゾウムシ(ノミゾウムシの仲間)で、後脚の腿節(ももの部分)が太く発達し、ノミのように跳ねて逃げるのが特徴。成虫は木の葉を食べ、幼虫は葉の中に潜って食害(潜葉)する。名は胸に筋があることに由来する。",
+      "habitat_hint": "落葉広葉樹の樹上・林縁、食樹の葉。",
+      "finding_tips": "春〜初夏、食樹の葉で跳ねて逃げる小さなゾウムシを探す。触れると跳ねる点と太い後脚が識別点。"
+    },
+    "en": {
+      "summary": "A flea weevil (Orchestes amurensis), a small weevil with thickened hind femora that let it jump away like a flea; adults eat leaves while the larvae mine inside them. Its Japanese name refers to ridges on the thorax.",
+      "habitat_hint": "Deciduous broadleaf trees and woodland edges, host foliage.",
+      "finding_tips": "In spring on host foliage look for a tiny weevil that springs away when disturbed; the jumping and swollen hind legs are the clues."
+    },
+    "zh": {
+      "summary": "ムネスジノミゾウムシ。小型象甲（跳象类），后足腿节粗大、如蚤跳跃逃逸，成虫食叶、幼虫潜叶为害，名取胸具棱。",
+      "habitat_hint": "落叶阔叶树、林缘、寄主叶。",
+      "finding_tips": "春于寄主叶寻受扰弹跳之小象甲；跳跃与粗后腿为辨识点。"
+    }
+  },
+  "Osmia cornifrons": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "マメコバチ。ツツハナバチの一種(ハキリバチ科)で、体は黒く毛深く、腹の下面に花粉を運ぶ毛をもつ。ヨシの筒や巣箱の穴に泥で仕切った巣室をつくる。リンゴなど果樹の重要な花粉媒介者として利用される。",
+      "habitat_hint": "果樹園、林縁、ヨシ筒や竹筒・巣箱の穴。",
+      "finding_tips": "春、果樹の花や、ヨシを束ねた巣箱の周りで、腹の下に花粉をつけた黒く毛深い小型のハチを探す。泥で仕切る筒巣が手がかり。"
+    },
+    "en": {
+      "summary": "Hornfaced bee (Osmia cornifrons), a mason bee that is black and hairy with a pollen brush under the abdomen; it partitions nest cells with mud in reed tubes and nest-box holes and is used as an important pollinator of apple and other orchard fruit.",
+      "habitat_hint": "Orchards, woodland edges, reed tubes and nest-box holes.",
+      "finding_tips": "In spring on fruit blossom or around reed nest-boxes look for a black hairy bee with pollen under its belly; the mud-partitioned tube nest is the clue."
+    },
+    "zh": {
+      "summary": "マメコバチ（角额壁蜂）。切叶蜂科壁蜂类，体黑多毛、腹下具集粉毛，于芦苇筒与巢箱孔以泥隔筑巢室，为苹果等果树重要传粉者。",
+      "habitat_hint": "果园、林缘、芦苇筒竹筒巢箱孔。",
+      "finding_tips": "春于果花或芦苇巢箱旁寻腹下带粉之黑色多毛小蜂；泥隔筒巢为辨识点。"
+    }
+  },
+  "Ostorhinchus properuptus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cardinalfish",
+    "ja": {
+      "summary": "キンセンイシモチ。サンゴ礁や岩礁の浅海にすむテンジクダイ科の小魚で、体側に金色〜黄色の細い縦線が数本走るのが名の由来。夜行性で、昼はサンゴや岩陰に群れ、オスが口の中で卵を保護する(口内保育)。",
+      "habitat_hint": "サンゴ礁・岩礁の浅海、岩陰、群れる。",
+      "finding_tips": "潮下帯のサンゴや岩陰で、体側に金色の縦線をもつ小魚の群れを探す。金色の縦線が識別点。"
+    },
+    "en": {
+      "summary": "A cardinalfish (Ostorhinchus properuptus), a small apogonid of shallow coral and rocky reefs with several fine golden-yellow stripes along the body (its Japanese name); nocturnal, it schools in reef shade by day and the male mouth-broods the eggs.",
+      "habitat_hint": "Shallow coral and rocky reefs, reef shade, schooling.",
+      "finding_tips": "In the subtidal among coral or rock shade look for a small schooling fish with golden body stripes; the golden lines are the clue."
+    },
+    "zh": {
+      "summary": "キンセンイシモチ。天竺鲷科小鱼，栖珊瑚礁岩礁浅海，体侧具数条金黄细纵纹而得名，夜行、昼群于礁荫，雄鱼口孵护卵。",
+      "habitat_hint": "珊瑚礁、岩礁浅海、礁荫、群栖。",
+      "finding_tips": "潮下带珊瑚岩荫寻体具金纵纹之小群鱼；金色纵纹为辨识点。"
+    }
+  },
+  "Otus sunia": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oriental scops owl",
+    "aliases": {
+      "zh-Hans": "红角鸮"
+    },
+    "ja": {
+      "summary": "コノハズク。日本で最も小さいフクロウの一種(コノハズク属)で、全長20cmほど。夏鳥として山地の落葉樹林に渡来し、耳のような羽角(うかく)をもつ。「ブッポウソウ」と聞こえる声で鳴くことで知られ(声の主＝仏法僧)、夜行性で昆虫を食べる。",
+      "habitat_hint": "山地の落葉広葉樹林、雑木林(夏鳥)。",
+      "finding_tips": "5〜8月の夜、山地の林で『ブッ・ポウ・ソウ』と規則的に繰り返す声を探す。小さな体と羽角が識別点。"
+    },
+    "en": {
+      "summary": "Oriental scops owl (Otus sunia), one of Japan's smallest owls at about 20 cm, a summer visitor to montane deciduous forest with small ear-tufts; famous for a call once attributed to another bird, it is nocturnal and eats insects.",
+      "habitat_hint": "Montane deciduous broadleaf forest, coppice (summer visitor).",
+      "finding_tips": "On May–August nights in mountain woods listen for a steadily repeated three-note call; the tiny size and ear-tufts are the clues."
+    },
+    "zh": {
+      "summary": "コノハズク（红角鸮）。日本最小的鸮类之一，全长约20厘米，夏候鸟迁至山地落叶林，具小耳羽簇，以其规律鸣声著名，夜行食虫。",
+      "habitat_hint": "山地落叶阔叶林、杂木林（夏候鸟）。",
+      "finding_tips": "5〜8月夜于山地林听规律重复之三音鸣声；体小具耳羽为辨识点。"
+    }
+  },
+  "Oxyria digyna": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mountain sorrel",
+    "aliases": {
+      "zh-Hans": "山蓼"
+    },
+    "ja": {
+      "summary": "ジンヨウスイバ。高山の岩場や礫地、雪田の周辺に生えるタデ科の多年草で、腎臓形(ジンヨウ)の葉が名の由来。夏、細い花茎に緑〜赤みを帯びた小花を多数つけ、果実は円い翼をもつ。葉は酸味があり食べられる。北半球の高山に広く分布。",
+      "habitat_hint": "高山の岩場・礫地、雪田周辺。",
+      "finding_tips": "7〜8月、高山の岩場で腎臓形の葉と、円い翼のある果実をつけるタデ科草本を探す。腎形の葉と円い翼果が識別点。"
+    },
+    "en": {
+      "summary": "Mountain sorrel (Oxyria digyna), a dock-family perennial of alpine rocks, scree and snow-patch edges, named for its kidney-shaped leaves; in summer a slender stalk bears many small greenish-red flowers ripening to round-winged fruit, and the sour leaves are edible. It ranges across northern-hemisphere mountains.",
+      "habitat_hint": "Alpine rocks, scree, snow-patch margins.",
+      "finding_tips": "In July–August on alpine rock look for kidney-shaped leaves and round-winged fruit; the kidney leaves and disc-winged seeds are the clues."
+    },
+    "zh": {
+      "summary": "ジンヨウスイバ（山蓼）。蓼科多年草，生高山岩地、砾地与雪田周边，叶肾形而得名，夏抽细茎生多数绿带红小花，果具圆翅，叶味酸可食，广布北半球高山。",
+      "habitat_hint": "高山岩地、砾地、雪田周边。",
+      "finding_tips": "7〜8月于高山岩地寻肾形叶与圆翅果之蓼科草；肾叶、圆翅果为辨识点。"
+    }
+  },
+  "Oxyporus cuneatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bracket fungus",
+    "ja": {
+      "summary": "ヒメシロカイメンタケ。針葉樹などの枯木や倒木に生える白色〜淡色の多孔菌(タコウキン)の一種で、木材を腐らせる木材腐朽菌。半円形〜くさび形の子実体を棚状につけ、下面は微細な管孔からなる。",
+      "habitat_hint": "針葉樹の枯木・倒木・切株。",
+      "finding_tips": "一年中、針葉樹の枯木で白っぽい半円形の硬いキノコを探す。下面が微細な管孔である点が多孔菌の手がかり。"
+    },
+    "en": {
+      "summary": "A bracket fungus (Oxyporus cuneatus), a whitish to pale polypore of dead and fallen conifer wood; a wood-rotting fungus, it forms semicircular to wedge-shaped shelf-like brackets with a fine-pored underside.",
+      "habitat_hint": "Dead and fallen conifer wood, stumps.",
+      "finding_tips": "Year-round on dead conifer wood look for a whitish semicircular hard bracket; the fine-pored underside marks it as a polypore."
+    },
+    "zh": {
+      "summary": "ヒメシロカイメンタケ。多孔菌类，生针叶树枯木倒木，白至淡色，为木材腐朽菌，子实体半圆至楔形层叠、下面具细密管孔。",
+      "habitat_hint": "针叶树枯木、倒木、树桩。",
+      "finding_tips": "全年于针叶枯木寻白色半圆硬菇；下面细密管孔为多孔菌辨识点。"
+    }
+  },
+  "Pacifastacus leniusculus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Signal crayfish",
+    "aliases": {
+      "zh-Hans": "信号螯虾"
+    },
+    "ja": {
+      "summary": "ウチダザリガニ。北アメリカ原産のザリガニで、日本には食用に移入され、湖沼や河川で野生化した特定外来生物。はさみの関節に青白い斑紋(シグナル)があるのが名の由来。在来のニホンザリガニを圧迫するため、飼育・移動が規制されている。",
+      "habitat_hint": "冷涼な湖沼・河川・用水路(移入・定着)。",
+      "finding_tips": "湖沼や川の石の下で、はさみの関節に青白い斑をもつ大型のザリガニを探す。はさみ根元の白斑が識別点。飼育・放流は法律で禁止。"
+    },
+    "en": {
+      "summary": "Signal crayfish (Pacifastacus leniusculus), a North American crayfish introduced to Japan for food and now a naturalised invasive in lakes and rivers; a pale blue-white patch at the claw joint (the 'signal') names it. It displaces the native Japanese crayfish and is legally restricted.",
+      "habitat_hint": "Cool lakes, rivers and channels (introduced, established).",
+      "finding_tips": "Under stones in lakes or rivers look for a large crayfish with a pale patch at the claw hinge; that white 'signal' is diagnostic. Keeping or releasing it is prohibited by law."
+    },
+    "zh": {
+      "summary": "ウチダザリガニ（信号螯虾）。原产北美之螯虾，因食用引入日本，于湖河野化，为特定外来生物；螯关节具青白斑（信号）而得名，压迫在来日本螯虾，饲养移动受法律管制。",
+      "habitat_hint": "冷凉湖沼、河流、水渠（引入定着）。",
+      "finding_tips": "湖河石下寻螯关节具青白斑之大螯虾；螯基白斑为辨识点。饲养放流为法律所禁。"
+    }
+  },
+  "Pachygnatha tenera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thick-jawed spider",
+    "ja": {
+      "summary": "ヒメアシナガグモ。アシナガグモ科の小型のクモで、成体は網をあまり張らず、地表や草の根ぎわ、落葉の間を徘徊して小昆虫を捕らえる。名は大きなあご(上顎)をもつことに由来する。湿った草地や水辺に多い。",
+      "habitat_hint": "湿った草地、水辺、落葉・草の根ぎわ。",
+      "finding_tips": "春〜秋、湿った草地の地表や落葉をかき分けて、大きなあごをもつ小型のクモを探す。発達した上顎が識別点。"
+    },
+    "en": {
+      "summary": "A thick-jawed spider (Pachygnatha tenera), a small tetragnathid; adults spin little web and instead roam the ground, grass bases and leaf litter hunting small insects. Its name refers to its large jaws (chelicerae). It favours damp grassland and watersides.",
+      "habitat_hint": "Damp grassland, watersides, leaf litter and grass bases.",
+      "finding_tips": "From spring to autumn part damp grassland litter to find a small spider with large jaws; the enlarged chelicerae are the clue."
+    },
+    "zh": {
+      "summary": "ヒメアシナガグモ。肖蛸科小型蜘蛛，成体少结网，于地表、草根际与落叶间徘徊捕小虫，名取其大颚（螯肢），多见于湿草地水边。",
+      "habitat_hint": "湿草地、水边、落叶与草根际。",
+      "finding_tips": "春秋于湿草地落叶间寻具大颚之小蛛；发达螯肢为辨识点。"
+    }
+  },
+  "Palmadusta ziczac": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Zigzag cowrie",
+    "ja": {
+      "summary": "アジロダカラ。サンゴ礁や岩礁の浅海にすむ小型のタカラガイ(宝貝)で、殻はつやつやと光沢があり、背面にジグザグ(稲妻状)の細かい模様が網代(あじろ)状に走るのが名の由来。昼は岩陰に隠れ、夜に活動して海藻などを食べる。",
+      "habitat_hint": "サンゴ礁・岩礁の浅海、岩陰、潮下帯。",
+      "finding_tips": "潮下帯の岩の下で、背にジグザグ模様のある光沢のある小さなタカラガイを探す。網代状のジグザグ模様が識別点。"
+    },
+    "en": {
+      "summary": "Zigzag cowrie (Palmadusta ziczac), a small glossy cowrie of shallow coral and rocky reefs; its shell bears fine zigzag lightning-like markings across the back (the source of its Japanese name). It hides by day and grazes at night.",
+      "habitat_hint": "Shallow coral and rocky reefs, rock shade, subtidal.",
+      "finding_tips": "In the subtidal under rock look for a small glossy cowrie with zigzag markings on the back; the lightning-line pattern is the clue."
+    },
+    "zh": {
+      "summary": "アジロダカラ。宝贝科小型宝螺，栖珊瑚礁岩礁浅海，壳富光泽、背具锯齿状（闪电状）细纹如网席而得名，昼隐夜出刮食海藻。",
+      "habitat_hint": "珊瑚礁、岩礁浅海、岩荫、潮下带。",
+      "finding_tips": "潮下带岩下寻背具锯齿纹之光泽小宝螺；网席状闪电纹为辨识点。"
+    }
+  },
+  "Palmaria palmata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dulse",
+    "aliases": {
+      "zh-Hans": "掌状红皮藻"
+    },
+    "ja": {
+      "summary": "ダルス。北方の岩礁の潮間帯下部〜潮下帯に生える赤紫色の紅藻で、扁平な葉状体が手のひら状に不規則に分裂する。柔らかく食用になり、欧米では古くから乾燥させて食べられてきた海藻。冷たい海に分布する。",
+      "habitat_hint": "北方の岩礁の潮間帯下部〜潮下帯、冷たい海。",
+      "finding_tips": "北方の岩礁で、手のひら状に裂けた赤紫色の柔らかい葉状の海藻を探す。掌状に裂ける平たい葉状体が識別点。"
+    },
+    "en": {
+      "summary": "Dulse (Palmaria palmata), a reddish-purple foliose red alga of the lower intertidal and subtidal on northern rocky shores; the flat blade divides irregularly into hand-like lobes. Soft and edible, it has long been dried and eaten in the West and grows in cold seas.",
+      "habitat_hint": "Lower intertidal to subtidal on northern rocky shores, cold seas.",
+      "finding_tips": "On northern rocky shore look for a soft reddish-purple blade split into hand-like lobes; the flat palmate blade is the clue."
+    },
+    "zh": {
+      "summary": "ダルス（掌状红皮藻）。红藻，生北方岩礁潮间带下部至潮下带，扁平叶状体不规则掌状分裂，柔软可食，欧美久有干食之习，分布冷海。",
+      "habitat_hint": "北方岩礁潮间带下部至潮下带、冷海。",
+      "finding_tips": "北方岩礁寻掌状分裂之红紫柔软叶状藻；扁平掌状叶体为辨识点。"
+    }
   }
 }
