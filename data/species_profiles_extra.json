@@ -276908,5 +276908,510 @@
       "habitat_hint": "珊瑚礁、岩礁浅海、近底。",
       "finding_tips": "潮下带礁隙寻细长硬体小鱼；棒状体、短吻为辨识点。"
     }
+  },
+  "Micromitrium tenerum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "カンムリゴケ。田のあぜや池畔などの湿った裸地に生える、ごく小型で短命の蘚類。植物体は微小で目立たず、湿った泥の上に薄い群落をつくり、短期間で胞子を散らして枯れる一年生的な性質をもつ。",
+      "habitat_hint": "田のあぜ、池畔、湿った裸地の泥上。",
+      "finding_tips": "秋〜冬、水の引いた湿った泥の上でごく小さな緑の膜状の蘚を探す。微小で短命なことが手がかり。"
+    },
+    "en": {
+      "summary": "A tiny ephemeral moss (Micromitrium tenerum) of damp bare ground such as pond margins and paddy banks; the minute plants form a thin film on wet mud and complete their brief life, shedding spores, within a season.",
+      "habitat_hint": "Pond margins, paddy banks, damp bare mud.",
+      "finding_tips": "In autumn–winter on exposed wet mud look for a very small green film of moss; its minute, short-lived habit is the clue."
+    },
+    "zh": {
+      "summary": "カンムリゴケ。极小型短命藓类，生于池畔、田埂等湿润裸地，植物体微小，于湿泥上成薄层群落，短期散孢即枯，近一年生。",
+      "habitat_hint": "池畔、田埂、湿润裸泥。",
+      "finding_tips": "秋冬于退水湿泥寻极小绿色膜状藓；微小短命为辨识点。"
+    }
+  },
+  "Micropolypodium okuboi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオクボシダ。ウラボシ科の常緑の小型シダで、湿った岩や樹幹に着生する。細く垂れ下がる単羽状の葉を密につけ、葉の縁や表面に毛が生える。暖温帯の渓谷など湿度の高い場所に見られる。",
+      "habitat_hint": "湿った岩壁、樹幹、渓谷の着生環境。",
+      "finding_tips": "一年中、湿った岩や樹皮に垂れ下がる細い単羽状の小シダを探す。密に垂れる細い葉が手がかり。"
+    },
+    "en": {
+      "summary": "A small grammitid fern (Micropolypodium okuboi), an evergreen epiphyte of damp rock and tree trunks; it hangs in tufts of narrow, once-pinnate fronds fringed with fine hairs, favouring humid ravines of the warm-temperate zone.",
+      "habitat_hint": "Damp rock faces, tree trunks, humid ravines.",
+      "finding_tips": "Year-round on wet rock or bark look for small narrow once-pinnate fronds hanging in tufts; the hanging hairy fronds are the clue."
+    },
+    "zh": {
+      "summary": "オオクボシダ。水龙骨科小型常绿蕨，附生湿岩与树干，细窄单羽状叶密垂、缘面被毛，多见于暖温带湿润溪谷。",
+      "habitat_hint": "湿岩壁、树干、溪谷附生。",
+      "finding_tips": "全年于湿岩树皮寻密垂细窄单羽小蕨；下垂细叶为辨识点。"
+    }
+  },
+  "Microstegium fasciculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオササガヤ。イネ科の一年草で、林縁や道ばた、湿った草地に生える。細い茎が地をはってから斜めに立ち上がり、笹に似た薄い葉をつける。秋に細い花穂を出す。ササガヤの仲間で、やや大型。",
+      "habitat_hint": "林縁、道ばた、やや湿った草地。",
+      "finding_tips": "秋、林縁の湿った草地で笹状の薄い葉と細い花穂をもつイネ科草本を探す。地をはう茎が手がかり。"
+    },
+    "en": {
+      "summary": "A grass (Microstegium fasciculatum), an annual of woodland edges, waysides and damp grassland; the slender stems creep then rise, bearing thin bamboo-like leaves and slender flowering spikes in autumn — a larger relative of the Japanese sasa-gaya grasses.",
+      "habitat_hint": "Woodland edges, waysides, damp grassland.",
+      "finding_tips": "In autumn at damp woodland edges look for a grass with thin bamboo-like leaves and slender spikes; the creeping stems are the clue."
+    },
+    "zh": {
+      "summary": "オオササガヤ。禾本科一年草，生林缘、路旁与湿草地，细茎先匍匐后斜升，具似竹薄叶，秋抽细穗，为莠竹类中较大者。",
+      "habitat_hint": "林缘、路旁、湿草地。",
+      "finding_tips": "秋于林缘湿草地寻具竹状薄叶细穗之禾草；匍匐茎为辨识点。"
+    }
+  },
+  "Microstegium nudum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマササガヤ。イネ科の一年草で、山地の林内や林縁の陰湿地に生える。細く柔らかい茎が地をはって広がり、笹に似た薄い葉をつける。秋にまばらな細い花穂を出す。日陰の湿った林床でよく見られる。",
+      "habitat_hint": "山地の林内・林縁、陰湿地。",
+      "finding_tips": "秋、山地の日陰の林床で笹状の薄い葉とまばらな細い花穂をもつイネ科草本を探す。柔らかく地をはう茎が手がかり。"
+    },
+    "en": {
+      "summary": "A grass (Microstegium nudum), an annual of shaded, damp montane woodland floors and edges; soft slender stems creep and spread, bearing thin bamboo-like leaves and sparse fine spikes in autumn — common on shaded forest floors.",
+      "habitat_hint": "Montane woodland interiors and edges, shaded moist ground.",
+      "finding_tips": "In autumn on a shaded forest floor look for a soft grass with thin bamboo-like leaves and sparse spikes; the creeping soft stems are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマササガヤ。禾本科一年草，生山地林内林缘阴湿地，柔细茎匍匐铺展，具似竹薄叶，秋抽稀疏细穗，常见于阴湿林床。",
+      "habitat_hint": "山地林内林缘、阴湿地。",
+      "finding_tips": "秋于山地阴湿林床寻竹状薄叶稀疏细穗之禾草；柔软匍匐茎为辨识点。"
+    }
+  },
+  "Mimachlamys albolineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White-lined scallop",
+    "ja": {
+      "summary": "シロスジナデシコ。イタヤガイ科の小型のホタテ類(イタヤガイの仲間)で、扇形の殻に放射状の肋があり、白い筋模様をもつ。岩礁や礫底に足糸で付着してすみ、色彩に変異がある。",
+      "habitat_hint": "岩礁・礫底の潮下帯、足糸で付着。",
+      "finding_tips": "潮下帯の岩や礫の下で、放射肋のある小型の扇形二枚貝を探す。白い放射状の筋が識別点。"
+    },
+    "en": {
+      "summary": "A white-lined scallop (Mimachlamys albolineata), a small pectinid with a fan-shaped, radially ribbed shell marked by white lines; it attaches by byssal threads to rock and gravel bottoms and varies in colour.",
+      "habitat_hint": "Rocky and gravel bottoms, subtidal, byssally attached.",
+      "finding_tips": "In the subtidal under rock or gravel look for a small ribbed fan-shaped bivalve; the white radial lines are the clue."
+    },
+    "zh": {
+      "summary": "シロスジナデシコ。扇贝科小型海扇，壳扇形具放射肋、饰白色纹，以足丝附着岩礁砾底，色多变。",
+      "habitat_hint": "岩礁、砾底潮下带，足丝附着。",
+      "finding_tips": "潮下带岩砾下寻具放射肋之小扇形贝；白色放射纹为辨识点。"
+    }
+  },
+  "Mitrella albuginosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dove shell",
+    "ja": {
+      "summary": "マンテンマツムシ。マツムシガイ科(コロンベラ科)の小型の巻貝で、殻は紡錘形で光沢があり、白地に細かい斑点が星空のように散る。岩礁や海藻の間にすみ、潮間帯〜潮下帯で見られる。",
+      "habitat_hint": "岩礁、海藻の間、潮間帯〜潮下帯。",
+      "finding_tips": "潮だまりや岩の下で、紡錘形で光沢のある小さな巻貝を探す。白地に散る細かい斑点が識別点。"
+    },
+    "en": {
+      "summary": "A dove shell (Mitrella albuginosa), a small glossy columbellid snail with a spindle-shaped shell speckled starrily on white; it lives among rock and seaweed from the intertidal into the shallow subtidal.",
+      "habitat_hint": "Rock and seaweed, intertidal to shallow subtidal.",
+      "finding_tips": "In tide pools or under rock look for a small glossy spindle-shaped snail; the fine star-like speckling on white is the clue."
+    },
+    "zh": {
+      "summary": "マンテンマツムシ。牙螺科小型螺，壳纺锤形有光泽，白底散布细斑如星空，栖岩礁与海藻间，潮间至潮下带可见。",
+      "habitat_hint": "岩礁、海藻间、潮间至潮下带。",
+      "finding_tips": "潮池或岩下寻纺锤形光泽小螺；白底细斑如星为辨识点。"
+    }
+  },
+  "Miyabea fruticella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤベゴケ。樹幹や岩上に着生する蘚類で、茎が這って不規則に枝分かれし、小さな葉を密につけてマット状の群落をつくる。山地の樹皮や岩の上でよく見られる。",
+      "habitat_hint": "樹幹、岩上、山地の着生環境。",
+      "finding_tips": "一年中、樹皮や岩の上で這って枝分かれするマット状の蘚を探す。密につく小葉が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Miyabea fruticella), an epiphyte of tree trunks and rock; its creeping, irregularly branched stems are densely set with small leaves forming mats, common on montane bark and stone.",
+      "habitat_hint": "Tree trunks, rock surfaces, montane epiphyte.",
+      "finding_tips": "Year-round on bark or rock look for creeping, branched moss mats; the densely set small leaves are the clue."
+    },
+    "zh": {
+      "summary": "ミヤベゴケ。附生藓类，茎匍匐不规则分枝、密生小叶成垫状，常见于山地树皮岩面。",
+      "habitat_hint": "树干、岩面、山地附生。",
+      "finding_tips": "全年于树皮岩面寻匍匐分枝垫状藓；密生小叶为辨识点。"
+    }
+  },
+  "Mizuhopecten tokyoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tokyo scallop",
+    "ja": {
+      "summary": "ホクリクホタテ。イタヤガイ科の大型のホタテ類で、ホタテガイに近縁。扇形の殻に放射状の肋をもち、砂泥底にすむ。化石として更新統からも産し、日本近海の冷たい海に分布する。",
+      "habitat_hint": "冷たい海の砂泥底、潮下帯〜浅海。",
+      "finding_tips": "海岸や浅海の砂泥で、放射肋のある大型の扇形二枚貝の殻を探す。ホタテに似た大きな扇形が手がかり。"
+    },
+    "en": {
+      "summary": "A scallop (Mizuhopecten tokyoensis), a large pectinid close to the Japanese scallop; the fan-shaped shell bears radiating ribs and it lives on sandy-mud bottoms in cold seas around Japan, also known as a Pleistocene fossil.",
+      "habitat_hint": "Cold-sea sandy-mud bottoms, subtidal to shallow water.",
+      "finding_tips": "On shores or shallows look for a large ribbed fan-shaped bivalve shell; the big scallop-like fan is the clue."
+    },
+    "zh": {
+      "summary": "ホクリクホタテ。扇贝科大型海扇，近缘于虾夷扇贝，壳扇形具放射肋，栖冷海砂泥底，亦见于更新世化石。",
+      "habitat_hint": "冷海砂泥底、潮下带至浅海。",
+      "finding_tips": "海岸浅海砂泥寻具放射肋之大扇形贝；似扇贝之大扇形为辨识点。"
+    }
+  },
+  "Modiola caroliniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carolina bristlemallow",
+    "ja": {
+      "summary": "キクノハアオイ。アメリカ原産で各地に帰化したアオイ科の一〜多年草。茎は地をはって広がり、菊の葉のように深く裂けた葉をつける。春〜秋に径1cmほどの橙赤色の小花を咲かせる道ばたの雑草。",
+      "habitat_hint": "道ばた、空き地、芝地などの人里。",
+      "finding_tips": "春〜秋、地をはう茎に菊状に裂けた葉と橙赤色の小花を探す。深く裂けた葉と小さな橙花が手がかり。"
+    },
+    "en": {
+      "summary": "Carolina bristlemallow (Modiola caroliniana), an American mallow naturalised widely; the creeping stems spread over the ground bearing deeply chrysanthemum-like lobed leaves and small orange-red flowers about 1 cm across from spring to autumn — a wayside weed.",
+      "habitat_hint": "Waysides, waste ground, lawns and disturbed places.",
+      "finding_tips": "From spring to autumn look for creeping stems with deeply lobed leaves and small orange-red flowers; the cut leaves and orange bloom are the clues."
+    },
+    "zh": {
+      "summary": "キクノハアオイ（赛葵近属）。锦葵科一至多年草，原产美洲、各地归化，茎匍匐铺展，叶如菊深裂，春至秋开径约1厘米橙红小花，为路旁杂草。",
+      "habitat_hint": "路旁、空地、草坪等人居地。",
+      "finding_tips": "春至秋寻匍匐茎具菊状裂叶与橙红小花；深裂叶、小橙花为辨识点。"
+    }
+  },
+  "Moerella hilaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tellin",
+    "ja": {
+      "summary": "モモノハナガイ。ニッコウガイ科の小型二枚貝で、殻は薄く扁平でつやがあり、桃の花を思わせる淡紅色を帯びるのが名の由来。内湾や浅海の砂泥底に浅く潜ってすみ、干潟で殻がよく拾われる。",
+      "habitat_hint": "内湾・浅海の砂泥底、干潟、浅く潜る。",
+      "finding_tips": "干潟や砂浜で、薄く扁平でつやのある淡紅色の小型二枚貝の殻を探す。桃色を帯びる点が識別点。"
+    },
+    "en": {
+      "summary": "A tellin (Moerella hilaris), a small thin flattened glossy bivalve tinged pale pink like peach blossom (its Japanese name); it burrows shallowly in bay and shallow sandy-mud bottoms and its shells are often found on flats.",
+      "habitat_hint": "Bay and shallow sandy-mud bottoms, tidal flats, shallow burrower.",
+      "finding_tips": "On flats or beaches look for a thin flat glossy pinkish bivalve shell; the peach-pink tint is the clue."
+    },
+    "zh": {
+      "summary": "モモノハナガイ。樱蛤科小型二枚贝，壳薄扁有光泽、带桃花般淡红而得名，浅潜内湾浅海砂泥底，潮滩常拾其壳。",
+      "habitat_hint": "内湾、浅海砂泥底、潮滩，浅潜。",
+      "finding_tips": "潮滩沙滩寻薄扁光泽淡红小贝；桃粉色泽为辨识点。"
+    }
+  },
+  "Monostroma nitidum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hitoegusa green laver",
+    "aliases": {
+      "zh-Hans": "礁膜"
+    },
+    "ja": {
+      "summary": "ヒトエグサ。一層の細胞からなる薄い膜状の緑藻で、内湾の潮間帯の岩などに生える。柔らかく鮮やかな緑色で、青のりや佃煮の原料として養殖・利用される食用海藻。冬〜春に生育する。",
+      "habitat_hint": "内湾の潮間帯の岩・干潟、汽水域。",
+      "finding_tips": "冬〜春、内湾の潮間帯の岩で薄い膜状の柔らかな緑藻を探す。一層の薄い膜質が識別点。"
+    },
+    "en": {
+      "summary": "Hitoegusa green laver (Monostroma nitidum), a soft, single-cell-thick membranous green alga of sheltered intertidal rocks; bright green and tender, it is cultivated and eaten as aonori and in tsukudani, growing in winter and spring.",
+      "habitat_hint": "Sheltered intertidal rock and flats, brackish water.",
+      "finding_tips": "In winter–spring on sheltered intertidal rock look for a thin soft membranous green alga; the single-layer sheet is the clue."
+    },
+    "zh": {
+      "summary": "ヒトエグサ（礁膜）。单层细胞薄膜状绿藻，生内湾潮间带岩上，柔嫩鲜绿，为青海苔与佃煮原料，人工养殖食用，冬春生长。",
+      "habitat_hint": "内湾潮间带岩、潮滩、汽水域。",
+      "finding_tips": "冬春于内湾潮间带岩寻薄膜柔软绿藻；单层薄膜为辨识点。"
+    }
+  },
+  "Muhlenbergia ramosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キダチノネズミガヤ。イネ科ネズミガヤ属の多年草で、やや乾いた草地や林縁、岩場に生える。よく枝分かれして木立状になり、細い葉と細い花穂をつける。ネズミガヤの仲間で、細く目立たない穂をもつ。",
+      "habitat_hint": "やや乾いた草地、林縁、岩場。",
+      "finding_tips": "秋、林縁や岩場で枝分かれした木立状の株に細い花穂をもつイネ科草本を探す。細く分枝する茎が手がかり。"
+    },
+    "en": {
+      "summary": "A muhly grass (Muhlenbergia ramosa), a perennial of drier grassland, woodland edges and rocky ground; it branches into a bushy tuft with narrow leaves and slender inconspicuous flowering spikes.",
+      "habitat_hint": "Drier grassland, woodland edges, rocky ground.",
+      "finding_tips": "In autumn on rocky edges look for a branched bushy grass with slender spikes; the wiry branching stems are the clue."
+    },
+    "zh": {
+      "summary": "キダチノネズミガヤ。禾本科乱子草属多年草，生较干草地、林缘与岩地，多分枝呈丛立状，具细叶细穗，穗细不显。",
+      "habitat_hint": "较干草地、林缘、岩地。",
+      "finding_tips": "秋于林缘岩地寻分枝丛立细穗之禾草；纤细分枝茎为辨识点。"
+    }
+  },
+  "Muhlenbergia schreberi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nimblewill",
+    "ja": {
+      "summary": "コネズミガヤ。イネ科ネズミガヤ属の多年草で、林縁や道ばた、やや湿った半日陰地に生える。細い茎が地をはってから立ち上がり、細く小さな葉と、ごく細い花穂をつける。ネズミガヤより小型。",
+      "habitat_hint": "林縁、道ばた、半日陰のやや湿った地。",
+      "finding_tips": "秋、半日陰の林縁で地をはう細い茎とごく細い花穂をもつ小型のイネ科草本を探す。小さく細い姿が手がかり。"
+    },
+    "en": {
+      "summary": "Nimblewill (Muhlenbergia schreberi), a perennial muhly grass of woodland edges, waysides and damp half-shade; slender stems creep then rise, bearing small narrow leaves and very fine flowering spikes — smaller than related muhly grasses.",
+      "habitat_hint": "Woodland edges, waysides, damp half-shade.",
+      "finding_tips": "In autumn in half-shade look for a small creeping grass with very fine spikes; its small delicate form is the clue."
+    },
+    "zh": {
+      "summary": "コネズミガヤ。禾本科乱子草属多年草，生林缘、路旁及半阴湿地，细茎先匍匐后升，具细小叶与极细花穗，较乱子草为小。",
+      "habitat_hint": "林缘、路旁、半阴湿地。",
+      "finding_tips": "秋于半阴林缘寻匍匐细茎极细穗之小禾草；细小之姿为辨识点。"
+    }
+  },
+  "Mussaenda parviflora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mussaenda",
+    "ja": {
+      "summary": "コンロンカ（崑崙花）。アカネ科の半つる性の低木で、暖地の林縁に生える。夏、黄色い小さな花を咲かせるが、花序の一部の萼片が大きく白い花弁状に発達し、緑の中に白い葉を散らしたように見えるのが特徴。",
+      "habitat_hint": "暖地の林縁、海岸近くの林、琉球など。",
+      "finding_tips": "6〜8月、暖地の林縁で黄色い小花と、白く葉状に大きくなった萼片をもつ低木を探す。白い花弁状の萼が識別点。"
+    },
+    "en": {
+      "summary": "Mussaenda (Mussaenda parviflora), a half-scrambling rubiaceous shrub of warm-region woodland edges; in summer it bears small yellow flowers, but one sepal of some flowers enlarges into a showy white petal-like blade, scattering white 'leaves' through the green.",
+      "habitat_hint": "Warm-region woodland edges, coastal woods, Ryukyu.",
+      "finding_tips": "From June to August at warm woodland edges look for a shrub with small yellow flowers and enlarged white leaf-like sepals; the white petal-sepals are diagnostic."
+    },
+    "zh": {
+      "summary": "コンロンカ（玉叶金花）。茜草科半藤状灌木，生暖地林缘，夏开黄色小花，花序部分萼片扩大成白色叶状，绿中缀白甚为醒目。",
+      "habitat_hint": "暖地林缘、近海林、琉球等。",
+      "finding_tips": "6〜8月于暖地林缘寻黄小花具白叶状大萼之灌木；白色花瓣状萼为辨识点。"
+    }
+  },
+  "Mycena crocata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Saffron bonnet",
+    "ja": {
+      "summary": "アカチシオタケ。林内の落枝や腐木に群生する小型のキノコ(クヌギタケ科)で、傘は円錐〜鐘形。柄や傷つけた部分から鮮やかな橙赤色の乳液を出すのが最大の特徴で、名の由来にもなっている。",
+      "habitat_hint": "林内の落枝・腐木、ブナ科などの林。",
+      "finding_tips": "夏〜秋、林内の落枝で鐘形の小さなキノコを探し、柄を折る。切り口から橙赤色の乳液が出れば本種。"
+    },
+    "en": {
+      "summary": "Saffron bonnet (Mycena crocata), a small bonnet mushroom growing on fallen twigs and rotten wood in woodland; the conical-to-bell-shaped cap sits on a stem that bleeds bright orange-red latex when broken — its defining feature.",
+      "habitat_hint": "Fallen twigs and rotten wood in broadleaf woodland.",
+      "finding_tips": "In summer–autumn find a small bell-shaped mushroom on fallen wood and snap the stem; bright orange latex confirms it."
+    },
+    "zh": {
+      "summary": "アカチシオタケ。小菇科小型菇，群生林内落枝腐木，菌盖圆锥至钟形，柄或伤处流出鲜橙红乳液，为其最大特征与名之由来。",
+      "habitat_hint": "林内落枝腐木、壳斗科林。",
+      "finding_tips": "夏秋于林内落枝寻钟形小菇，折柄见橙红乳液即为本种。"
+    }
+  },
+  "Mylia verrucosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イボカタウロコゴケ。カタウロコゴケ科の葉状の苔類(蘚苔類)で、茎に卵形の葉を二列に瓦状につける。湿った岩や樹幹、腐木上に群生し、山地の湿潤な林でよく見られる。",
+      "habitat_hint": "湿った岩、樹幹、腐木、山地の湿潤林。",
+      "finding_tips": "一年中、湿った岩や腐木で卵形の葉を二列につける葉状の苔類を探す。瓦状に重なる葉が手がかり。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Mylia verrucosa) whose stems bear two rows of overlapping egg-shaped leaves; it grows in patches on damp rock, tree trunks and rotten wood in humid montane woodland.",
+      "habitat_hint": "Damp rock, tree trunks, rotten wood, humid montane woods.",
+      "finding_tips": "Year-round on damp rock or rotten wood look for a leafy liverwort with two rows of egg-shaped leaves; the overlapping leaves are the clue."
+    },
+    "zh": {
+      "summary": "イボカタウロコゴケ。片鳞苔科叶状苔类，茎具两列覆瓦状卵形叶，成片生于湿岩、树干与腐木，多见于山地湿润林。",
+      "habitat_hint": "湿岩、树干、腐木、山地湿润林。",
+      "finding_tips": "全年于湿岩腐木寻具两列卵叶之叶状苔类；覆瓦状叶为辨识点。"
+    }
+  },
+  "Myrica gale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bog myrtle",
+    "aliases": {
+      "zh-Hans": "香杨梅"
+    },
+    "ja": {
+      "summary": "ヤチヤナギ。湿原や湿地に生えるヤマモモ科の落葉小低木で、北方系の植物。葉や枝に芳香があり、根に窒素固定を行う共生菌をもつ。春、葉に先立って赤褐色の花穂をつける。北海道や本州の高層湿原に分布。",
+      "habitat_hint": "高層湿原、湿地、寒冷地の湿った草地。",
+      "finding_tips": "春、湿原で葉に先立つ赤褐色の花穂をもつ低木を探す。葉をもむと芳香がある点が識別点。"
+    },
+    "en": {
+      "summary": "Bog myrtle / sweet gale (Myrica gale), a northern deciduous shrub of bogs and wetlands; its aromatic leaves and twigs are fragrant, its roots fix nitrogen via symbionts, and it bears reddish catkins before the leaves in spring.",
+      "habitat_hint": "Raised bogs, wetlands, cool damp ground.",
+      "finding_tips": "In spring in a bog look for a low shrub with reddish catkins before leafing; crushing a leaf releases a resinous scent — the clue."
+    },
+    "zh": {
+      "summary": "ヤチヤナギ（香杨梅）。杨梅科落叶小灌木，生湿原沼泽，北方植物，枝叶芳香、根具固氮共生菌，春先叶生红褐花穗，分布北海道与本州高位泥炭沼。",
+      "habitat_hint": "高位泥炭沼、湿地、寒地湿草地。",
+      "finding_tips": "春于湿原寻先叶生红褐花穗之灌木；揉叶有香为辨识点。"
+    }
+  },
+  "Myrmeleon formicarius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Antlion",
+    "ja": {
+      "summary": "コウスバカゲロウ。ウスバカゲロウ科の昆虫で、成虫はトンボに似た細長い体と網目の翅をもつが、飛翔は弱い。幼虫はいわゆるアリジゴクで、乾いた砂地にすり鉢状の巣穴を掘り、落ちてきたアリなどを大あごで捕らえる。",
+      "habitat_hint": "軒下や崖下など雨のかからない乾いた砂地(幼虫)。",
+      "finding_tips": "初夏〜秋、軒下や神社の床下の乾いた砂地ですり鉢状の巣穴(アリジゴク)を探す。円錐形の穴が幼虫の証拠。"
+    },
+    "en": {
+      "summary": "An antlion (Myrmeleon formicarius), whose adult resembles a weak-flying damselfly with a slender body and netted wings; the larva is the classic ant-lion, digging a conical sand pit in dry sheltered ground to seize ants that slide in with its jaws.",
+      "habitat_hint": "Dry sheltered sand under eaves and overhangs (larva).",
+      "finding_tips": "From early summer to autumn look under eaves or overhangs for conical sand pits; the funnel pit betrays the larva."
+    },
+    "zh": {
+      "summary": "コウスバカゲロウ。蚁蛉科昆虫，成虫似豆娘、体细翅具网纹而飞弱；幼虫即蚁狮，于干燥沙地掘漏斗状巢穴，以大颚捕食坠入之蚂蚁。",
+      "habitat_hint": "屋檐下、崖下等避雨干燥沙地（幼虫）。",
+      "finding_tips": "初夏至秋于檐下干沙寻漏斗状巢穴；圆锥沙坑为幼虫之证。"
+    }
+  },
+  "Mythimna conigera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown-line bright-eye",
+    "ja": {
+      "summary": "シロテンキヨトウ。ヤガ科キヨトウ亜科のガで、前翅は黄褐色で、中央に白い小紋(白点)をもつのが名の由来。草地や林縁にすみ、幼虫はイネ科植物の葉を食べる。灯火に飛来する。",
+      "habitat_hint": "草地、林縁、河川敷などのイネ科の多い環境。",
+      "finding_tips": "初夏〜秋の夜、灯火で前翅中央に白点をもつ黄褐色のガを探す。白い小紋が識別点。"
+    },
+    "en": {
+      "summary": "Brown-line bright-eye (Mythimna conigera), a wainscot moth with tawny forewings bearing a small white spot in the centre (the source of its Japanese name); it lives in grassland and woodland edges, the larvae feeding on grasses, and comes to light.",
+      "habitat_hint": "Grassland, woodland edges, grassy riverbanks.",
+      "finding_tips": "On summer nights at lights look for a tawny moth with a small white central spot; that white speck is the clue."
+    },
+    "zh": {
+      "summary": "シロテンキヨトウ。夜蛾科秆夜蛾类，前翅黄褐、中央具白色小斑而得名，栖草地林缘，幼虫食禾草，趋光。",
+      "habitat_hint": "草地、林缘、河滩等多禾草处。",
+      "finding_tips": "初夏至秋夜于灯下寻前翅中央具白斑之黄褐蛾；白色小斑为辨识点。"
+    }
+  },
+  "Mythimna divergens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wainscot moth",
+    "ja": {
+      "summary": "ナガフタオビキヨトウ。ヤガ科キヨトウ亜科のガで、前翅は細長く黄褐色で、二本の暗色の帯(横線)が走る。草地や水辺のイネ科の多い環境にすみ、幼虫はイネ科植物を食べる。灯火に飛来する。",
+      "habitat_hint": "草地、水辺、河川敷などのイネ科の多い環境。",
+      "finding_tips": "初夏〜秋の夜、灯火で細長い黄褐色の翅に二本の暗色帯をもつガを探す。二本の帯が識別点。"
+    },
+    "en": {
+      "summary": "A wainscot moth (Mythimna divergens), with elongate tawny forewings crossed by two darker bands; it lives in grassy places and wetlands where its larvae feed on grasses, and it comes to light.",
+      "habitat_hint": "Grassland, waterside, grassy riverbanks.",
+      "finding_tips": "On summer nights at lights look for a slender tawny moth with two dark cross-bands; the paired bands are the clue."
+    },
+    "zh": {
+      "summary": "ナガフタオビキヨトウ。夜蛾科秆夜蛾类，前翅狭长黄褐、具两条暗色横带，栖草地水边多禾草处，幼虫食禾草，趋光。",
+      "habitat_hint": "草地、水边、河滩等多禾草处。",
+      "finding_tips": "初夏至秋夜于灯下寻狭长黄褐翅具两暗带之蛾；双带为辨识点。"
+    }
+  },
+  "Nais communis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aquatic worm",
+    "ja": {
+      "summary": "ナミミズミミズ。淡水にすむ体長数mmほどのごく細い環形動物(ミズミミズの仲間)で、池・川・水路の底の泥や水草の間にすむ。体は半透明で、体をちぎるように分裂して無性的に増える。有機物や藻類を食べる。",
+      "habitat_hint": "池・川・水路の底の泥、水草の間、淡水。",
+      "finding_tips": "水底の泥や水草をすくい、白く細い糸のように動く数mmの小さな虫を探す。細く半透明な体が手がかり。"
+    },
+    "en": {
+      "summary": "A freshwater worm (Nais communis), a very slender aquatic oligochaete a few millimetres long living in bottom mud and among water plants of ponds, streams and ditches; the translucent worm reproduces asexually by fragmenting and feeds on detritus and algae.",
+      "habitat_hint": "Bottom mud and water plants of ponds, streams, ditches.",
+      "finding_tips": "Sieve bottom mud or weed and look for a tiny pale thread-like worm a few mm long; its slender translucent body is the clue."
+    },
+    "zh": {
+      "summary": "ナミミズミミズ。淡水寡毛类环节动物，体极细仅数毫米，栖池、河、沟底泥与水草间，体半透明、以断裂行无性繁殖，食有机碎屑与藻类。",
+      "habitat_hint": "池、河、沟底泥，水草间，淡水。",
+      "finding_tips": "取水底泥或水草寻数毫米白色细丝状虫；细长半透明体为辨识点。"
+    }
+  },
+  "Neohaustator fortilirata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turret shell",
+    "ja": {
+      "summary": "エゾキリガイダマシ。キリガイダマシ科(タワミ型の巻貝)の一種で、殻は細長い塔状(錐状)に多くの層が積み重なり、各層に螺状の肋をもつ。北方の砂泥底にすみ、砂に潜って微小な有機物を濾しとって食べる。",
+      "habitat_hint": "北方の内湾・浅海の砂泥底、潮下帯。",
+      "finding_tips": "海岸や浅海の砂泥で、細長い塔状で螺肋のある巻貝の殻を探す。錐状に伸びる殻が識別点。"
+    },
+    "en": {
+      "summary": "A turret shell (Neohaustator fortilirata), a turritellid snail with a slender, many-whorled tower-shaped shell bearing spiral ridges; it lives on northern sandy-mud bottoms, burrowing and filtering fine organic particles.",
+      "habitat_hint": "Northern bay and shallow sandy-mud bottoms, subtidal.",
+      "finding_tips": "On shores or shallows look for a slender tower-shaped snail shell with spiral ridges; the tall screw shape is the clue."
+    },
+    "zh": {
+      "summary": "エゾキリガイダマシ。锥螺科海螺，壳细长塔状多层、各层具螺肋，栖北方砂泥底，潜砂滤食细有机物。",
+      "habitat_hint": "北方内湾、浅海砂泥底、潮下带。",
+      "finding_tips": "海岸浅海砂泥寻细长塔状具螺肋之螺壳；锥状高壳为辨识点。"
+    }
+  },
+  "Neotrypaea japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese ghost shrimp",
+    "ja": {
+      "summary": "ニホンスナモグリ。干潟や砂泥底に深いY字状の巣穴を掘ってすむアナジャコ類に近い甲殻類(スナモグリ)。体は淡いピンク〜白色で軟らかく、片方のはさみが大きい。巣穴に潜り、堆積物中の有機物を食べる。釣り餌にも使われる。",
+      "habitat_hint": "干潟・河口の砂泥底、深い巣穴の中。",
+      "finding_tips": "干潮時の干潟で、砂の噴き出す穴や巣穴を探す。淡いピンクで軟らかい体と大きな片はさみが手がかり。"
+    },
+    "en": {
+      "summary": "Japanese ghost shrimp (Neotrypaea japonica), a soft-bodied burrowing crustacean that digs deep Y-shaped tunnels in tidal flats and sandy-mud bottoms; pale pink to white with one enlarged claw, it feeds on sediment organics and is used as fishing bait.",
+      "habitat_hint": "Tidal-flat and estuarine sandy-mud, deep burrows.",
+      "finding_tips": "At low tide on flats look for burrow openings pushing out sand; the soft pinkish body with one big claw is the clue."
+    },
+    "zh": {
+      "summary": "ニホンスナモグリ。掘穴甲壳类（美人虾类），于潮滩砂泥底掘深Y形洞，体淡粉至白、柔软、一螯特大，穴居滤食沉积有机物，亦作钓饵。",
+      "habitat_hint": "潮滩、河口砂泥底，深洞穴中。",
+      "finding_tips": "退潮潮滩寻喷砂之洞口；淡粉软体、一大螯为辨识点。"
+    }
   }
 }
