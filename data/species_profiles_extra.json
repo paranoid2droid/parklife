@@ -284116,5 +284116,533 @@
       "habitat_hint": "内湾、河口泥底、软泥、潮下带。",
       "finding_tips": "于内湾泥底寻白色半透明、薄水滴形之小双壳；薄透明水滴壳为辨识点。"
     }
+  },
+  "Sasa kagamiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "アリマコスズ。山地の林床や林縁に密な群落をつくるイネ科のササ(笹)の一種で、地下茎で広がり常緑の葉を茂らせる。稈(かん)は細く、冬には葉の縁が枯れて白く隈取られる。近縁のササ類と見分けは難しく、本州の山地に分布する。林の下草として一面を覆う。",
+      "habitat_hint": "山地の林床、林縁、斜面などの半日陰。",
+      "finding_tips": "一年中、林床で細い稈と常緑の笹葉が一面に広がる群落を探す。冬に葉縁が白く枯れ込む笹の茂みが手がかり(種の確定は稈や葉鞘の毛などの細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (a Sasa, Poaceae) forming dense colonies on montane forest floor and edges; it spreads by rhizomes and bears evergreen leaves, with slender culms and leaf margins that wither white in winter. Hard to separate from related dwarf bamboos, 本州の山地に分布する. It carpets the woodland understory.",
+      "habitat_hint": "Montane forest floor, edges and slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of slender culms and evergreen bamboo leaves; a dwarf-bamboo thicket with white-withered winter leaf margins is the clue (species ID needs culm/sheath hair detail)."
+    },
+    "zh": {
+      "summary": "アリマコスズ。禾本科笹类之一，于山地林床林缘成密丛，以地下茎蔓延、叶常绿，稈细，冬则叶缘枯白成镶边。与近缘笹类难辨，本州の山地に分布する。常作林下草覆盖一面。",
+      "habitat_hint": "山地林床、林缘、坡地等半阴处。",
+      "finding_tips": "全年于林床寻细稈与常绿笹叶铺展之丛；冬叶缘枯白之笹丛为线索（定种需稈与叶鞘毛等细部）。"
+    }
+  },
+  "Sasa suzukii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "カワウチザサ。山地の林床や林縁に密な群落をつくるイネ科のササ(笹)の一種で、地下茎で広がり常緑の葉を茂らせる。稈(かん)は細く、冬には葉の縁が枯れて白く隈取られる。近縁のササ類と見分けは難しく、分布や産地にちなむ名をもつ。林の下草として一面を覆う。",
+      "habitat_hint": "山地の林床、林縁、斜面などの半日陰。",
+      "finding_tips": "一年中、林床で細い稈と常緑の笹葉が一面に広がる群落を探す。冬に葉縁が白く枯れ込む笹の茂みが手がかり(種の確定は稈や葉鞘の毛などの細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (a Sasa, Poaceae) forming dense colonies on montane forest floor and edges; it spreads by rhizomes and bears evergreen leaves, with slender culms and leaf margins that wither white in winter. Hard to separate from related dwarf bamboos, 分布や産地にちなむ名をもつ. It carpets the woodland understory.",
+      "habitat_hint": "Montane forest floor, edges and slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of slender culms and evergreen bamboo leaves; a dwarf-bamboo thicket with white-withered winter leaf margins is the clue (species ID needs culm/sheath hair detail)."
+    },
+    "zh": {
+      "summary": "カワウチザサ。禾本科笹类之一，于山地林床林缘成密丛，以地下茎蔓延、叶常绿，稈细，冬则叶缘枯白成镶边。与近缘笹类难辨，分布や産地にちなむ名をもつ。常作林下草覆盖一面。",
+      "habitat_hint": "山地林床、林缘、坡地等半阴处。",
+      "finding_tips": "全年于林床寻细稈与常绿笹叶铺展之丛；冬叶缘枯白之笹丛为线索（定种需稈与叶鞘毛等细部）。"
+    }
+  },
+  "Sasa takizawana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "チトセザサ。山地の林床や林縁に密な群落をつくるイネ科のササ(笹)の一種で、地下茎で広がり常緑の葉を茂らせる。稈(かん)は細く、冬には葉の縁が枯れて白く隈取られる。近縁のササ類と見分けは難しく、分布や産地にちなむ名をもつ。林の下草として一面を覆う。",
+      "habitat_hint": "山地の林床、林縁、斜面などの半日陰。",
+      "finding_tips": "一年中、林床で細い稈と常緑の笹葉が一面に広がる群落を探す。冬に葉縁が白く枯れ込む笹の茂みが手がかり(種の確定は稈や葉鞘の毛などの細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (a Sasa, Poaceae) forming dense colonies on montane forest floor and edges; it spreads by rhizomes and bears evergreen leaves, with slender culms and leaf margins that wither white in winter. Hard to separate from related dwarf bamboos, 分布や産地にちなむ名をもつ. It carpets the woodland understory.",
+      "habitat_hint": "Montane forest floor, edges and slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of slender culms and evergreen bamboo leaves; a dwarf-bamboo thicket with white-withered winter leaf margins is the clue (species ID needs culm/sheath hair detail)."
+    },
+    "zh": {
+      "summary": "チトセザサ。禾本科笹类之一，于山地林床林缘成密丛，以地下茎蔓延、叶常绿，稈细，冬则叶缘枯白成镶边。与近缘笹类难辨，分布や産地にちなむ名をもつ。常作林下草覆盖一面。",
+      "habitat_hint": "山地林床、林缘、坡地等半阴处。",
+      "finding_tips": "全年于林床寻细稈与常绿笹叶铺展之丛；冬叶缘枯白之笹丛为线索（定种需稈与叶鞘毛等细部）。"
+    }
+  },
+  "Sasa tatewakiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "エゾミヤマザサ。山地の林床や林縁に密な群落をつくるイネ科のササ(笹)の一種で、地下茎で広がり常緑の葉を茂らせる。稈(かん)は細く、冬には葉の縁が枯れて白く隈取られる。近縁のササ類と見分けは難しく、名(蝦夷深山)のとおり北日本の深山に多い。林の下草として一面を覆う。",
+      "habitat_hint": "山地の林床、林縁、斜面などの半日陰。",
+      "finding_tips": "一年中、林床で細い稈と常緑の笹葉が一面に広がる群落を探す。冬に葉縁が白く枯れ込む笹の茂みが手がかり(種の確定は稈や葉鞘の毛などの細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (a Sasa, Poaceae) forming dense colonies on montane forest floor and edges; it spreads by rhizomes and bears evergreen leaves, with slender culms and leaf margins that wither white in winter. Hard to separate from related dwarf bamboos, 名(蝦夷深山)のとおり北日本の深山に多い. It carpets the woodland understory.",
+      "habitat_hint": "Montane forest floor, edges and slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of slender culms and evergreen bamboo leaves; a dwarf-bamboo thicket with white-withered winter leaf margins is the clue (species ID needs culm/sheath hair detail)."
+    },
+    "zh": {
+      "summary": "エゾミヤマザサ。禾本科笹类之一，于山地林床林缘成密丛，以地下茎蔓延、叶常绿，稈细，冬则叶缘枯白成镶边。与近缘笹类难辨，名(蝦夷深山)のとおり北日本の深山に多い。常作林下草覆盖一面。",
+      "habitat_hint": "山地林床、林缘、坡地等半阴处。",
+      "finding_tips": "全年于林床寻细稈与常绿笹叶铺展之丛；冬叶缘枯白之笹丛为线索（定种需稈与叶鞘毛等细部）。"
+    }
+  },
+  "Sasa tokugawana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "トクガワザサ。山地の林床や林縁に密な群落をつくるイネ科のササ(笹)の一種で、地下茎で広がり常緑の葉を茂らせる。稈(かん)は細く、冬には葉の縁が枯れて白く隈取られる。近縁のササ類と見分けは難しく、産地や人名にちなむ名をもつ。林の下草として一面を覆う。",
+      "habitat_hint": "山地の林床、林縁、斜面などの半日陰。",
+      "finding_tips": "一年中、林床で細い稈と常緑の笹葉が一面に広がる群落を探す。冬に葉縁が白く枯れ込む笹の茂みが手がかり(種の確定は稈や葉鞘の毛などの細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (a Sasa, Poaceae) forming dense colonies on montane forest floor and edges; it spreads by rhizomes and bears evergreen leaves, with slender culms and leaf margins that wither white in winter. Hard to separate from related dwarf bamboos, 産地や人名にちなむ名をもつ. It carpets the woodland understory.",
+      "habitat_hint": "Montane forest floor, edges and slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of slender culms and evergreen bamboo leaves; a dwarf-bamboo thicket with white-withered winter leaf margins is the clue (species ID needs culm/sheath hair detail)."
+    },
+    "zh": {
+      "summary": "トクガワザサ。禾本科笹类之一，于山地林床林缘成密丛，以地下茎蔓延、叶常绿，稈细，冬则叶缘枯白成镶边。与近缘笹类难辨，産地や人名にちなむ名をもつ。常作林下草覆盖一面。",
+      "habitat_hint": "山地林床、林缘、坡地等半阴处。",
+      "finding_tips": "全年于林床寻细稈与常绿笹叶铺展之丛；冬叶缘枯白之笹丛为线索（定种需稈与叶鞘毛等细部）。"
+    }
+  },
+  "Sasa tsukubensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "イナコスズ。山地の林床や林縁に密な群落をつくるイネ科のササ(笹)の一種で、地下茎で広がり常緑の葉を茂らせる。稈(かん)は細く、冬には葉の縁が枯れて白く隈取られる。近縁のササ類と見分けは難しく、種名は筑波(つくば)山に由来する。林の下草として一面を覆う。",
+      "habitat_hint": "山地の林床、林縁、斜面などの半日陰。",
+      "finding_tips": "一年中、林床で細い稈と常緑の笹葉が一面に広がる群落を探す。冬に葉縁が白く枯れ込む笹の茂みが手がかり(種の確定は稈や葉鞘の毛などの細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (a Sasa, Poaceae) forming dense colonies on montane forest floor and edges; it spreads by rhizomes and bears evergreen leaves, with slender culms and leaf margins that wither white in winter. Hard to separate from related dwarf bamboos, 種名は筑波(つくば)山に由来する. It carpets the woodland understory.",
+      "habitat_hint": "Montane forest floor, edges and slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of slender culms and evergreen bamboo leaves; a dwarf-bamboo thicket with white-withered winter leaf margins is the clue (species ID needs culm/sheath hair detail)."
+    },
+    "zh": {
+      "summary": "イナコスズ。禾本科笹类之一，于山地林床林缘成密丛，以地下茎蔓延、叶常绿，稈细，冬则叶缘枯白成镶边。与近缘笹类难辨，種名は筑波(つくば)山に由来する。常作林下草覆盖一面。",
+      "habitat_hint": "山地林床、林缘、坡地等半阴处。",
+      "finding_tips": "全年于林床寻细稈与常绿笹叶铺展之丛；冬叶缘枯白之笹丛为线索（定种需稈与叶鞘毛等细部）。"
+    }
+  },
+  "Sasaella leucorhoda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dwarf bamboo",
+    "ja": {
+      "summary": "アタミシノ。丘陵〜低山の林床や林縁に群落をつくるイネ科アズマザサ属(Sasaella)のササ類で、地下茎で広がり常緑の葉を茂らせる。ササ類とアズマザサ類の中間的な性質をもつ。名は静岡の熱海(あたみ)に由来する。林の下草として一面を覆う。",
+      "habitat_hint": "丘陵〜低山の林床、林縁、斜面の半日陰。",
+      "finding_tips": "一年中、林床で常緑の笹葉が一面に広がる群落を探す。細い稈と常緑の笹葉の茂みが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A dwarf bamboo (Sasaella leucorhoda, Poaceae) forming colonies on hill to low-montane forest floor and edges; it spreads by rhizomes with evergreen leaves and is intermediate between Sasa and Sasaella-type bamboos. The Japanese name refers to Atami, Shizuoka. It carpets the woodland understory.",
+      "habitat_hint": "Hill to low-montane forest floor, edges, slopes (half shade).",
+      "finding_tips": "Year-round on the forest floor look for a carpet of evergreen bamboo leaves; the slender culms with evergreen leaves are the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "アタミシノ。禾本科东笹属（Sasaella）之笹类，于丘陵至低山林床林缘成丛，以地下茎蔓延、叶常绿，性状介于笹与东笹之间，名源静冈热海，常作林下草覆盖一面。",
+      "habitat_hint": "丘陵至低山林床、林缘、坡地半阴处。",
+      "finding_tips": "全年于林床寻常绿笹叶铺展之丛；细稈常绿笹叶为线索（定种需细部）。"
+    }
+  },
+  "Thrincia saxatilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock hawkbit",
+    "ja": {
+      "summary": "カワリミタンポポモドキ。日当たりのよい岩場や乾いた草地に生えるキク科の草で、タンポポに似た黄色い頭花を1つつけるが、タンポポとは別属。葉は根生してロゼットをつくり、羽状に切れ込む。果実(痩果)が中央と外周で形が異なる(変わり実)のが名の由来。",
+      "habitat_hint": "日当たりのよい岩場、乾いた草地、海岸、荒れ地。",
+      "finding_tips": "春〜夏、岩場や乾いた草地で、タンポポに似た黄色い頭花とロゼットの切れ込む葉をもつ草を探す。タンポポに似るが果実の形が2型なのが識別点。"
+    },
+    "en": {
+      "summary": "A hawkbit (Thrincia saxatilis, Asteraceae) of sunny rocky ground and dry grassland; it bears a single dandelion-like yellow flower head but is a different genus. The pinnately-lobed leaves form a basal rosette, and the achenes differ in shape between the centre and margin of the head (the source of the Japanese name 'variable-fruit false dandelion').",
+      "habitat_hint": "Sunny rocky ground, dry grassland, coasts, waste ground.",
+      "finding_tips": "In spring to summer on rocky or dry grassland look for a dandelion-like plant with a yellow head and a rosette of lobed leaves; dimorphic achenes distinguish it from true dandelions."
+    },
+    "zh": {
+      "summary": "カワリミタンポポモドキ。菊科之草，生向阳岩地与干草地，具似蒲公英之单生黄色头花而属别，叶基生成莲座、羽状裂，瘦果于头之中央与外周形态不同（异形果，名之由来）。",
+      "habitat_hint": "向阳岩地、干草地、海岸、荒地。",
+      "finding_tips": "春至夏于岩地干草地寻具黄色头花与莲座裂叶之似蒲公英草；果二型别于真蒲公英为辨识点。"
+    }
+  },
+  "Trichomalopsis apanteloctena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pteromalid wasp",
+    "ja": {
+      "summary": "アオムシコマユコガネバチ。アオムシコマユバチなどの寄生バチの繭に二次寄生する小さな寄生バチ(コガネコバチ科)で、体はごく小型で金属光沢を帯びる。チョウの幼虫(アオムシ)に寄生したコマユバチの繭に産卵し、その幼虫を食べて育つ(高次寄生)。",
+      "habitat_hint": "草地、畑、林縁などアオムシと寄生バチのいる環境。",
+      "finding_tips": "コマユバチの繭のかたまりのまわりで、金属光沢のあるごく小さな寄生バチを探す。金属光沢の微小な体が識別点(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A pteromalid wasp (Trichomalopsis apanteloctena, Pteromalidae), a tiny wasp that hyperparasitises the cocoons of braconid parasitoids such as Cotesia; the body is minute and metallic. It lays eggs in the cocoons of braconids that had parasitised butterfly caterpillars, its larvae then consuming the braconid larvae (a hyperparasitoid).",
+      "habitat_hint": "Grassland, fields, woodland edges (where caterpillars and parasitoids occur).",
+      "finding_tips": "Around clusters of braconid cocoons look for a tiny metallic wasp; the minute metallic body is the clue (lens needed)."
+    },
+    "zh": {
+      "summary": "アオムシコマユコガネバチ。金小蜂科之小型寄生蜂，二次寄生于绒茧蜂等寄生蜂之茧，体极小具金属光泽，产卵于曾寄生蝶幼虫（青虫）之绒茧蜂茧中，幼虫食其幼虫（重寄生）。",
+      "habitat_hint": "草地、田地、林缘等有青虫与寄生蜂之环境。",
+      "finding_tips": "于绒茧蜂茧团旁寻具金属光泽之极小寄生蜂；金属微小体为辨识点（需放大镜）。"
+    }
+  },
+  "Trichopteryx ignorata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ハイイロコバネナミシャク。シャクガ科ナミシャク亜科のガで、前翅は灰色(灰色)の地に細かい波状の横線をもつ。名(小翅)のとおりやや小型。早春に出現する種が多いナミシャク類の一つ。幼虫はシャクトリムシ型で木本の葉を食べる。夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "早春〜春の夜、灯火などで灰色地に細かい波状横線をもつ小型のシャクガを探す。灰色地の波状線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Trichopteryx ignorata, Larentiinae); the forewings are grey with fine wavy transverse lines, and it is rather small (the Japanese name means 'small-winged'). One of the early-spring carpet moths, its looper caterpillar feeds on woody-plant leaves and adults come to lights.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "On early-spring to spring nights at lights look for a small grey geometer with fine wavy cross-lines; the grey ground with wavy lines is the clue."
+    },
+    "zh": {
+      "summary": "ハイイロコバネナミシャク。尺蛾科波尺蛾亚科之蛾，前翅灰色具细波状横线，体略小（小翅），为早春波尺蛾类之一，幼虫尺蠖型食木本叶，夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "早春至春夜于灯下寻灰底具细波状横线之小型尺蛾；灰底波线为辨识点。"
+    }
+  },
+  "Trichopteryx misera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "シタコバネナミシャク。シャクガ科ナミシャク亜科のガで、前翅は褐色〜灰褐色の地に細かい横線をもち、やや小型。ナミシャク類らしく静止時は翅を平らに開く。早春に出現する種の一つ。幼虫はシャクトリムシ型で木本の葉を食べる。夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "早春〜春の夜、灯火などで褐色地に細かい横線をもつ小型のシャクガを探す。褐色地の細横線と小型の翅が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Trichopteryx misera, Larentiinae); the rather small forewings are brown to grey-brown with fine transverse lines and are held flat at rest. One of the early-spring carpet moths, its looper caterpillar feeds on woody-plant leaves and adults come to lights.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "On early-spring to spring nights at lights look for a small brown geometer with fine cross-lines; the small brown wings with fine lines are the clue."
+    },
+    "zh": {
+      "summary": "シタコバネナミシャク。尺蛾科波尺蛾亚科之蛾，前翅褐至灰褐具细横线、体略小，静止平展，为早春出现种之一，幼虫尺蠖型食木本叶，夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "早春至春夜于灯下寻褐底具细横线之小型尺蛾；褐底细线与小翅为辨识点。"
+    }
+  },
+  "Trichotichnus kantoonus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "チャバネクビアカツヤゴモクムシ。山地の林床にすむオサムシ科(ゴモクムシ類)の甲虫で、上翅は茶色っぽく(茶羽)、前胸(首)が赤みを帯び、体につやがある(艶)。落葉下や石下にひそみ、夜間に活動して小動物や植物の種子を食べる。名(関東)のとおり関東地方に分布する。",
+      "habitat_hint": "山地の林床、落葉下、石下の湿った場所。",
+      "finding_tips": "山地で落葉や石をめくり、上翅が茶色く前胸が赤みを帯びるつやのあるゴモクムシを探す。茶色い上翅と赤い前胸のつやが識別点。"
+    },
+    "en": {
+      "summary": "A ground beetle (Trichotichnus kantoonus, Carabidae) of montane forest floor; the elytra are brownish, the pronotum ('neck') is reddish and the body is glossy (the Japanese name means 'brown-winged red-necked glossy ground beetle'). It hides under litter and stones, active at night eating small animals and seeds, and occurs in the Kanto region (the source of the epithet).",
+      "habitat_hint": "Montane forest floor, under litter and stones (moist).",
+      "finding_tips": "In mountains turn litter or stones for a glossy ground beetle with brownish elytra and a reddish pronotum; the brown wings with a red glossy pronotum are the clue."
+    },
+    "zh": {
+      "summary": "チャバネクビアカツヤゴモクムシ。步甲科甲虫，栖山地林床，鞘翅褐（茶翅），前胸（颈）带红，体具光泽（艳），伏落叶石下，夜行食小动物与种子，分布关东（种名之由来）。",
+      "habitat_hint": "山地林床、落叶下、石下湿处。",
+      "finding_tips": "于山地翻落叶石寻鞘翅褐、前胸带红而具光泽之步甲；褐翅红胸光泽为辨识点。"
+    }
+  },
+  "Triphaenopsis postflava": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "ナカジロキシタヨトウ。ヤガ科(ヨトウガ類)のガで、前翅は褐色系で中央付近に白っぽい部分(中白)をもち、後翅は黄色(黄下)を帯びる。中型で、静止時は翅を屋根形にたたむ。幼虫はヨトウムシ型で草本の葉を食べる。低山地の林や草地で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林縁、草地、雑木林。",
+      "finding_tips": "夏の夜、灯火などで前翅中央が白っぽく後翅が黄色い中型のヤガを探す。中白の前翅と黄色い後翅が識別点。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Triphaenopsis postflava, Noctuidae); the brownish forewings have a whitish central area and the hindwings are yellowish (the Japanese name means 'white-centred yellow-under noctuid'). Medium-sized, it folds its wings roof-like at rest, and the cutworm-type larva feeds on herb leaves. Adults come to lights in low montane woodland and grassland.",
+      "habitat_hint": "Low montane to hill woodland edges, grassland, secondary forest.",
+      "finding_tips": "On summer nights at lights look for a medium noctuid with a whitish forewing centre and yellowish hindwings; the white-centred forewing with yellow hindwing is the clue."
+    },
+    "zh": {
+      "summary": "ナカジロキシタヨトウ。夜蛾科（夜盗蛾类）之蛾，前翅褐系、中央具白斑（中白），后翅带黄（黄下），中型，静止屋脊状，幼虫夜盗型食草本叶，低山地林与草地夜间趋光。",
+      "habitat_hint": "低山地至丘陵林缘、草地、杂木林。",
+      "finding_tips": "夏夜于灯下寻前翅中央白、后翅黄之中型夜蛾；中白前翅与黄后翅为辨识点。"
+    }
+  },
+  "Tuckneraria pseudocomplicata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Foliose lichen",
+    "ja": {
+      "summary": "ウスカワゴケ。山地の樹幹や枝、岩に着生する葉状の地衣類(ウメノキゴケ科)で、体は薄く(薄皮)、淡黄緑色〜黄褐色を帯びる。裂片状に広がり、縁がやや反り返る。亜高山帯の針葉樹などの樹皮に群落をつくる。空気のきれいな森林に多い。",
+      "habitat_hint": "山地〜亜高山の樹幹、枝、岩上の着生環境。",
+      "finding_tips": "一年中、山地の樹皮や枝で薄く淡黄緑色の葉状地衣を探す。薄い体と淡黄緑色の裂片が識別点。"
+    },
+    "en": {
+      "summary": "A foliose lichen (Tuckneraria pseudocomplicata, Parmeliaceae) epiphytic on montane trunks, branches and rock; the thallus is thin (the Japanese name means 'thin-skin lichen'), pale yellow-green to yellow-brown, spreading in lobes with somewhat upturned margins. It forms colonies on subalpine conifer bark and indicates clean-air forest.",
+      "habitat_hint": "Montane to subalpine trunks, branches and rock (epiphytic).",
+      "finding_tips": "Year-round on montane bark or branches look for a thin pale yellow-green foliose lichen; the thin thallus with pale yellow-green lobes is the clue."
+    },
+    "zh": {
+      "summary": "ウスカワゴケ。梅衣科叶状地衣，附生山地树干、枝条、岩石，体薄（薄皮），淡黄绿至黄褐，裂片状伸展、缘略上卷，于亚高山针叶树皮成群落，多见于洁净森林。",
+      "habitat_hint": "山地至亚高山树干、枝条、岩上附生。",
+      "finding_tips": "全年于山地树皮枝条寻薄而淡黄绿之叶状地衣；薄体与淡黄绿裂片为辨识点。"
+    }
+  },
+  "Turbonilla hiradoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pyram snail",
+    "ja": {
+      "summary": "ホソイトカケギリガイ。砂底や砂泥底にすむごく小型の巻貝(トウガタガイ科)で、殻は細長い塔形(錐形)で、多数の螺層に縦の肋(いとかけ状)が規則的に並ぶ。数mmと小さい。他の貝や多毛類などに外部寄生して体液を吸うと考えられている。",
+      "habitat_hint": "潮間帯〜浅海の砂底、砂泥底。",
+      "finding_tips": "海岸の砂で、細長い塔形で縦肋が規則的に並ぶ数mmの微小な巻貝を探す。細い塔形と規則的な縦肋が識別点。"
+    },
+    "en": {
+      "summary": "A pyram snail (Turbonilla hiradoensis, Pyramidellidae) of sand and sand-mud bottoms; the elongate tower-shaped (awl-like) shell has many whorls with regular axial ribs (like laced threads) and is only a few millimetres long. It is thought to ectoparasitise other molluscs and polychaetes, sucking body fluids.",
+      "habitat_hint": "Intertidal to shallow sand and sand-mud bottoms.",
+      "finding_tips": "In beach sand look for an elongate tower-shaped few-millimetre snail with regular axial ribs; the slender awl shape with regular ribs is the clue."
+    },
+    "zh": {
+      "summary": "ホソイトカケギリガイ。栖砂底砂泥底之极小型螺（塔螺科 Pyramidellidae），壳细长塔形（锥形），螺层多而具规则纵肋（如缠丝），仅数毫米，据信外寄生于他贝与多毛类吸食体液。",
+      "habitat_hint": "潮间带至浅海砂底、砂泥底。",
+      "finding_tips": "于海岸砂寻细长塔形、纵肋规则之数毫米微小螺；细锥形与规则纵肋为辨识点。"
+    }
+  },
+  "Tylopilus alutaceoumbrinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bitter bolete",
+    "ja": {
+      "summary": "フモトニガイグチ。夏〜秋、ブナ科など広葉樹林の地上に発生するイグチ科のきのこで、傘は淡褐色〜暗褐色(なめし革色)。管孔(裏の孔)は淡色から次第に淡紅色を帯びる。ニガイグチ類らしく味は苦い。名(麓)は低山の山麓の林に生えることに由来する。菌根菌。",
+      "habitat_hint": "夏〜秋、ブナ科など広葉樹林・混交林の地上、山麓。",
+      "finding_tips": "夏〜秋、山麓の林の地上で淡褐色の傘に淡紅色を帯びる管孔をもつイグチを探す。苦い肉と淡紅色の管孔が識別点。"
+    },
+    "en": {
+      "summary": "A bitter bolete (Tylopilus alutaceoumbrinus, Boletaceae) fruiting on the ground in broadleaf (esp. Fagaceae) woodland in summer to autumn; the cap is pale to dark brown (leather-coloured) and the pores turn from pale to pinkish. Like other Tylopilus it tastes bitter. The Japanese name ('foothill') reflects its occurrence in low-hill woodland. It is ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf and mixed woodland, foothills.",
+      "finding_tips": "In summer to autumn on foothill woodland floor look for a brown-capped bolete with pinkish-tinged pores and bitter flesh; the bitter taste with pinkish pores is the clue."
+    },
+    "zh": {
+      "summary": "フモトニガイグチ。牛肝菌科真菌，夏秋生阔叶（尤壳斗科）林地上，盖淡褐至暗褐（革色），管孔由淡渐带淡红，味苦如苦粉孢牛肝菌类，名（山麓）指其生于低山山麓林，为菌根菌。",
+      "habitat_hint": "夏秋阔叶与混交林地上、山麓。",
+      "finding_tips": "夏秋于山麓林地寻褐盖、管孔带淡红而味苦之牛肝菌；苦味与淡红管孔为辨识点。"
+    }
+  },
+  "Uromyces erythronii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rust fungus",
+    "ja": {
+      "summary": "アマナさび病菌。アマナ(甘菜)などユリ科の植物の葉や茎に寄生するさび病菌(サビキン類)で、宿主の葉裏などに橙黄色〜褐色の粉状の胞子堆(さび胞子・夏胞子)を生じる。寄生された葉は変色し、時に変形する。植物病原菌で、春にアマナの葉に現れる。",
+      "habitat_hint": "アマナなどユリ科植物の生える林縁、草地、土手。",
+      "finding_tips": "春、アマナの葉や茎で橙黄色〜褐色の粉状の胞子堆(さび)を探す。宿主葉上の橙褐色の粉状のさびが識別点。"
+    },
+    "en": {
+      "summary": "A rust fungus (Uromyces erythronii, Pucciniales) parasitising the leaves and stems of Amana and other Liliaceae; it produces orange-yellow to brown powdery spore masses (aecia/uredinia) on the host, mainly on leaf undersides. Infected leaves discolour and may deform. A plant pathogen, it appears on Amana leaves in spring.",
+      "habitat_hint": "Woodland edges, grassland and banks where Amana and lilies grow.",
+      "finding_tips": "In spring on Amana leaves and stems look for orange-yellow to brown powdery rust pustules; the orange-brown powdery rust on the host leaf is the clue."
+    },
+    "zh": {
+      "summary": "アマナさび病菌。锈菌类，寄生于老鸦瓣（アマナ）等百合科植物之叶茎，于寄主叶背等生橙黄至褐色粉状孢子堆（锈孢子、夏孢子），被害叶变色、时变形，为植物病原菌，春现于老鸦瓣叶上。",
+      "habitat_hint": "老鸦瓣等百合科植物生长之林缘、草地、土堤。",
+      "finding_tips": "春于老鸦瓣叶茎寻橙黄至褐色粉状孢子堆（锈）；寄主叶上橙褐粉状锈为辨识点。"
+    }
+  },
+  "Vinealobryum vineale": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "チュウゴクネジグチゴケ。日当たりのよい岩上や石垣、土上に生えるセンボンゴケ科の小型の蘚類で、乾くと葉がねじれるように巻く(ねじ口)。葉は舌形〜披針形。名(中国)のとおり中国大陸にも分布する。都市部の石垣やコンクリートでも見られる乾燥に強い蘚。",
+      "habitat_hint": "日当たりのよい岩上、石垣、土上、コンクリート。",
+      "finding_tips": "岩や石垣で、乾くとねじれて巻く舌形の葉をもつ小型の蘚を探す。乾くとねじれる葉が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Vinealobryum vineale, Pottiaceae) of sunny rock, stone walls and soil; the leaves twist and curl when dry (the Japanese name means 'twisted-mouth moss'), and are tongue-shaped to lanceolate. Its range extends into continental China (reflected in the Japanese name), and this drought-tolerant moss also grows on urban walls and concrete.",
+      "habitat_hint": "Sunny rock, stone walls, soil, concrete.",
+      "finding_tips": "On rock or walls look for a small moss with tongue-shaped leaves that twist and curl when dry; the twisting dry leaves are the clue."
+    },
+    "zh": {
+      "summary": "チュウゴクネジグチゴケ。丛藓科小型藓类，生向阳岩上、石垣、土上，干则叶扭卷（扭口），叶舌形至披针形，分布及中国大陆（和名之由来），耐旱，城市石墙混凝土亦见。",
+      "habitat_hint": "向阳岩上、石垣、土上、混凝土。",
+      "finding_tips": "于岩石石墙寻具舌形叶而干则扭卷之小型藓；干则扭卷之叶为辨识点。"
+    }
+  },
+  "Volva volva": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silky sheath mushroom",
+    "ja": {
+      "summary": "キヌオオフクロタケ。夏〜秋、暖地の林内や竹林、草地の地上に発生するウラベニガサ科(フクロタケの仲間)のきのこで、幼時は白い卵形の外被膜(つぼ)に包まれ、成長すると柄の基部に袋状のつぼ(volva)を残す。傘は絹のような光沢(絹)をもち灰白色。ひだは初め白く、胞子が熟すと淡紅色を帯びる。",
+      "habitat_hint": "夏〜秋、暖地の林内、竹林、腐植に富む草地の地上。",
+      "finding_tips": "夏〜秋、地上で柄の基部に袋状のつぼを残し傘に絹の光沢をもつきのこを探す。基部の袋状のつぼと淡紅色のひだが識別点。"
+    },
+    "en": {
+      "summary": "A silky sheath mushroom (Volva volva, Pluteaceae, a relative of Volvariella) fruiting on the ground in warm-region woodland, bamboo groves and grassland in summer to autumn; it emerges from a white egg-like universal veil and leaves a sac-like volva at the stipe base. The greyish-white cap has a silky sheen, and the gills are white then pinkish as spores mature.",
+      "habitat_hint": "Summer-autumn on the ground in warm-region woodland, bamboo groves, humus-rich grassland.",
+      "finding_tips": "In summer to autumn on the ground look for a mushroom with a sac-like volva at the stipe base and a silky-sheened cap; the basal volva with pinkish gills is the clue."
+    },
+    "zh": {
+      "summary": "キヌオオフクロタケ。光柄菇科（草菇之亲缘）真菌，夏秋生暖地林内、竹林、草地地上，幼时被白色卵形外菌幕（苞），成熟于柄基留袋状菌托（volva），盖灰白具绢光泽（绢），菌褶初白、孢子熟则带淡红。",
+      "habitat_hint": "夏秋暖地林内、竹林、富腐殖草地地上。",
+      "finding_tips": "夏秋于地上寻柄基留袋状菌托、盖具绢光泽之菌；基部菌托与淡红菌褶为辨识点。"
+    }
+  },
+  "Xylota coquilletti": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "ナミルリイロハラナガハナアブ。ハナアブ科の中型のアブで、腹部が細長く(腹長)、体に瑠璃色〜青緑色の金属光沢をもつ。成虫は樹液や葉上、朽木のまわりで見られ、素早く飛ぶ。幼虫は朽木や樹洞内の腐植中で育つ。訪花もする。名(並)のとおり普通に見られる。",
+      "habitat_hint": "林縁、樹液の出る木、朽木や倒木のまわり、林内。",
+      "finding_tips": "初夏〜夏、朽木や葉上で腹部が細長く瑠璃色の金属光沢をもつハナアブを探す。細長い腹と青緑の金属光沢が識別点。"
+    },
+    "en": {
+      "summary": "A hoverfly (Xylota coquilletti, Syrphidae), a medium fly with an elongate abdomen and a lapis-blue to blue-green metallic sheen. Adults occur on sap runs, foliage and around dead wood and fly quickly; the larvae develop in the humus of rotten wood and tree holes, and adults also visit flowers. The Japanese name means it is commonly seen.",
+      "habitat_hint": "Woodland edges, sap-running trees, around dead wood, forest interior.",
+      "finding_tips": "In early summer to summer on dead wood or foliage look for a hoverfly with an elongate abdomen and blue metallic sheen; the elongate abdomen with metallic blue-green is the clue."
+    },
+    "zh": {
+      "summary": "ナミルリイロハラナガハナアブ。食蚜蝇科之中型蝇，腹部细长（腹长），体具琉璃至青绿金属光泽，成虫见于树液、叶上、朽木周边、飞行迅速，幼虫于朽木树洞腐殖中发育，亦访花，和名（并）指其常见。",
+      "habitat_hint": "林缘、流树液之树、朽木倒木周边、林内。",
+      "finding_tips": "初夏至夏于朽木叶上寻腹细长而具琉璃金属光泽之食蚜蝇；细长腹与青绿金属光泽为辨识点。"
+    }
+  },
+  "Yamatochlamys lampra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "オオクラヒメベッコウ。林床の落葉下や朽木の間にすむごく小型の陸貝(ベッコウマイマイ類)で、殻は低い円錐形で光沢があり(lampra=輝く)、半透明の飴色(べっこう色)。名(姫)のとおり数mmと小さい。湿った落葉や倒木の下を這い、菌類や腐植を食べる。",
+      "habitat_hint": "林床の落葉下、朽木の間、湿った腐植上。",
+      "finding_tips": "湿った林床で落葉をめくり、光沢のある飴色で数mmの微小な巻貝を探す。光沢のある半透明の小さな殻が識別点。"
+    },
+    "en": {
+      "summary": "A tiny land snail (Yamatochlamys lampra) of forest-floor litter and rotten wood; the low conical shell is glossy (lampra = shining) and translucent amber (tortoiseshell colour). Only a few millimetres across (the Japanese name means 'dwarf'), it creeps under moist litter and logs, feeding on fungi and humus.",
+      "habitat_hint": "Forest-floor litter, among rotten wood, moist humus.",
+      "finding_tips": "On moist forest floor turn litter for a glossy few-millimetre amber snail; the small glossy translucent shell is the clue."
+    },
+    "zh": {
+      "summary": "オオクラヒメベッコウ。极小型陆贝（琥珀蜗类），栖林床落叶下与朽木间，壳低圆锥、具光泽（lampra 闪亮）、半透明琥珀色（玳瑁色），仅数毫米（姫），爬于湿润落叶倒木下，食菌类腐殖。",
+      "habitat_hint": "林床落叶下、朽木间、湿润腐殖上。",
+      "finding_tips": "于湿润林床翻落叶寻具光泽琥珀色之数毫米微小螺；小型光泽半透明壳为辨识点。"
+    }
+  },
+  "Yoldia johanni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yoldia clam",
+    "ja": {
+      "summary": "エゾソデガイ。やや深い泥底や砂泥底にすむ二枚貝(ロウバイガイ科)で、殻は薄く前後に細長い卵形で、後方がやや伸びて着物の袖(そで)のような形になるのが名の由来。殻表は黄褐色の殻皮に覆われ光沢がある。名(蝦夷)のとおり北方の海に多い。堆積物中の有機物を食べる。",
+      "habitat_hint": "北方のやや深い泥底、砂泥底、内湾。",
+      "finding_tips": "海岸や底引きで、薄く前後に細長く後方が袖状に伸びた黄褐色の二枚貝を探す。袖状に伸びた薄い殻が識別点。"
+    },
+    "en": {
+      "summary": "A yoldia clam (Yoldia johanni, Yoldiidae) of somewhat deep mud and sand-mud bottoms; the thin shell is elongate-oval and drawn out posteriorly like a kimono sleeve (the source of the Japanese name), covered by a glossy yellow-brown periostracum. Common in northern seas (the epithet 'Ezo'), it feeds on sediment organic matter.",
+      "habitat_hint": "Northern somewhat-deep mud, sand-mud bottoms, bays.",
+      "finding_tips": "On the beach or in trawls look for a thin elongate yellow-brown clam drawn out posteriorly like a sleeve; the sleeve-like thin shell is the clue."
+    },
+    "zh": {
+      "summary": "エゾソデガイ。栖略深泥底砂泥底之双壳（云母蛤科 Yoldiidae），壳薄、前后细长卵形、后方略伸如和服之袖（和名之由来），壳面被黄褐壳皮而具光泽，多见于北方海（虾夷），食沉积有机物。",
+      "habitat_hint": "北方略深泥底、砂泥底、内湾。",
+      "finding_tips": "于海岸或底拖寻薄而前后细长、后方袖状延伸之黄褐双壳；袖状薄壳为辨识点。"
+    }
+  },
+  "Zehneria liukiuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ryukyu bryony",
+    "ja": {
+      "summary": "クロミノオキナワスズメウリ。暖地の林縁や藪に生えるウリ科のつる植物で、巻きひげで他物にからむ。葉は掌状に浅く裂ける。夏に小さな白い花を咲かせ、球形の小さな果実は熟すと黒くなる(黒実)のが名の由来。名のとおり沖縄など南西諸島に多い。",
+      "habitat_hint": "暖地の林縁、藪、道端、海岸林の縁。",
+      "finding_tips": "夏〜秋、暖地の藪で掌状に裂ける葉と巻きひげをもち、黒く熟す球形の小さな実をつけるつる草を探す。黒く熟す小さな球形の実が識別点。"
+    },
+    "en": {
+      "summary": "A bryony (Zehneria liukiuensis, Cucurbitaceae), a tendril-climbing vine of warm-region woodland edges and thickets; the leaves are palmately shallow-lobed, and it bears small white flowers in summer followed by small round fruits that ripen black (the source of the Japanese name 'black-fruited Okinawa sparrow-gourd'). It is common in the Ryukyus.",
+      "habitat_hint": "Warm-region woodland edges, thickets, roadsides, coastal forest margins.",
+      "finding_tips": "In summer to autumn in warm-region thickets look for a tendril vine with palmately lobed leaves and small round fruits ripening black; the small black-ripening round fruit is the clue."
+    },
+    "zh": {
+      "summary": "クロミノオキナワスズメウリ。葫芦科藤本，生暖地林缘灌丛，以卷须攀附，叶掌状浅裂，夏开白色小花，球形小果熟则转黑（黑实，名之由来），多见于冲绳等西南诸岛。",
+      "habitat_hint": "暖地林缘、灌丛、路旁、海岸林缘。",
+      "finding_tips": "夏秋于暖地灌丛寻具掌裂叶与卷须、结黑熟球形小果之藤草；黑熟小球果为辨识点。"
+    }
+  },
+  "Zelkova ungeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Zelkova",
+    "ja": {
+      "summary": "ニレバケヤキ。ケヤキ属の落葉高木で、ケヤキに似るが葉がニレ(楡)の葉のように大きめで鋸歯が粗いことが名(楡葉欅)の由来。葉は左右非対称の基部をもち、縁に鋸歯が並ぶ。かつて日本にも分布した化石種としても知られ、近縁の栽培・植栽個体が公園などに見られる。",
+      "habitat_hint": "公園、植栽、社寺林、落葉広葉樹林。",
+      "finding_tips": "ケヤキに似るが葉がやや大きく鋸歯が粗い落葉高木を探す。ニレ葉状の大きめの葉と粗い鋸歯が識別点。"
+    },
+    "en": {
+      "summary": "A zelkova (Zelkova ungeri, Ulmaceae), a deciduous tree resembling the Japanese zelkova but with larger, more coarsely toothed leaves like an elm's (the source of the Japanese name 'elm-leaved zelkova'). The leaves have an asymmetric base and toothed margins. Known also as a fossil species once present in Japan, related planted individuals occur in parks.",
+      "habitat_hint": "Parks, plantings, shrine-temple woods, deciduous broadleaf woodland.",
+      "finding_tips": "Look for a deciduous tree like the Japanese zelkova but with somewhat larger, coarsely toothed elm-like leaves; the larger elm-like leaves with coarse teeth are the clue."
+    },
+    "zh": {
+      "summary": "ニレバケヤキ。榉属落叶乔木，似榉树而叶较大、锯齿较粗如榆叶（榆叶榉，名之由来），叶基左右不对称、缘具锯齿，亦为曾分布日本之化石种，其近缘栽植个体见于公园。",
+      "habitat_hint": "公园、栽植、寺社林、落叶阔叶林。",
+      "finding_tips": "寻似榉树而叶略大、锯齿较粗之落叶乔木；榆叶状较大叶与粗锯齿为辨识点。"
+    }
   }
 }
