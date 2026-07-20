@@ -278972,5 +278972,558 @@
       "habitat_hint": "海岸、河口附近砂地、海岸林（暖地至热带）。",
       "finding_tips": "初夏于海岸林寻具羽状复叶、淡紫红蝶形花簇与扁荚之常绿乔木；海漂扁荚为辨识点。"
     }
+  },
+  "Portunus sanguinolentus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Three-spot swimming crab",
+    "aliases": {
+      "zh-Hans": "红星梭子蟹"
+    },
+    "ja": {
+      "summary": "ジャノメガザミ。ワタリガニ科の遊泳性のカニで、いちばん後ろの脚が平たいオール状になり泳ぐことができる。甲の後方に赤く縁取られた蛇の目状の丸い斑が3つ並ぶのが名の由来。内湾や浅海の砂底にすみ、食用にもなる。",
+      "habitat_hint": "内湾・浅海の砂底、砂泥底、潮下帯。",
+      "finding_tips": "浅海の砂底で、甲の後方に赤く縁取られた丸い斑が3つ並ぶカニを探す。オール状の後脚と3つの蛇の目模様が識別点。"
+    },
+    "en": {
+      "summary": "Three-spot swimming crab (Portunus sanguinolentus), a portunid whose flattened, oar-like hind legs let it swim; three round, red-ringed eye-spots across the back of the carapace name it. It lives on sandy bays and shallow bottoms and is edible.",
+      "habitat_hint": "Bays and shallow sandy or sandy-mud bottoms, subtidal.",
+      "finding_tips": "On shallow sand look for a crab with three red-ringed round spots across the rear carapace; the oar-like hind legs and three eye-spots are the clues."
+    },
+    "zh": {
+      "summary": "ジャノメガザミ（红星梭子蟹）。梭子蟹科游泳蟹，末对步足扁如桨可游泳，甲后方具三枚红缘圆眼斑而得名，栖内湾浅海砂底，可食。",
+      "habitat_hint": "内湾、浅海砂底、砂泥底、潮下带。",
+      "finding_tips": "浅海砂底寻甲后具三红缘圆斑之蟹；桨状后足与三眼斑为辨识点。"
+    }
+  },
+  "Potamogeton leptocephalus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pondweed",
+    "ja": {
+      "summary": "ヒロハノセンニンモ。池沼や流れのゆるい川、水路に生えるヒルムシロ科の沈水性の水草。水中に半透明でやや幅広い線形の葉を互生し、夏に水面上に細い花穂を出す。止水〜緩流の水域にすむ。",
+      "habitat_hint": "池沼、流れのゆるい川、水路(沈水)。",
+      "finding_tips": "夏、池や水路の水中で半透明のやや幅広い線形の葉をもつ水草と、水面に立つ細い花穂を探す。水中葉が識別点。"
+    },
+    "en": {
+      "summary": "A pondweed (Potamogeton leptocephalus), a submerged aquatic of ponds, slow rivers and channels; it bears translucent, fairly broad linear leaves under water and raises a slender flower spike above the surface in summer, in still to slow water.",
+      "habitat_hint": "Ponds, slow rivers, channels (submerged).",
+      "finding_tips": "In summer in pond or channel water look for a submerged plant with translucent broadish linear leaves and a slender emergent spike; the underwater leaves are the clue."
+    },
+    "zh": {
+      "summary": "ヒロハノセンニンモ。眼子菜科沉水水草，生池沼、缓流河与水渠，水中互生半透明较宽线形叶，夏抽细花穗出水，栖止水至缓流。",
+      "habitat_hint": "池沼、缓流河、水渠（沉水）。",
+      "finding_tips": "夏于池渠水中寻半透明较宽线形叶之水草与出水细穗；水中叶为辨识点。"
+    }
+  },
+  "Priacanthus hamrur": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moontail bullseye",
+    "ja": {
+      "summary": "ホウセキキントキ。岩礁やサンゴ礁の周辺にすむキントキダイ科の魚で、体は赤く、大きな目をもつ夜行性の魚。尾びれの後縁が三日月形に暗く縁取られるのが特徴。昼は岩陰に潜み、夜に活動して小魚やプランクトンを食べる。",
+      "habitat_hint": "岩礁・サンゴ礁の周辺、やや深い岩陰。",
+      "finding_tips": "潮下帯の岩陰で、赤い体と大きな目、尾の後縁が暗い三日月形の魚を探す。大きな目と赤い体が識別点。"
+    },
+    "en": {
+      "summary": "Moontail bullseye (Priacanthus hamrur), a red, large-eyed nocturnal priacanthid of rocky and coral reef surrounds; the rear edge of the tail is dark and crescent-shaped. By day it hides in reef shade and by night hunts small fish and plankton.",
+      "habitat_hint": "Around rocky and coral reefs, deeper reef shade.",
+      "finding_tips": "In reef shade look for a red big-eyed fish with a dark crescent tail margin; the large eyes and red body are the clues."
+    },
+    "zh": {
+      "summary": "ホウセキキントキ。大眼鲷科鱼，栖岩礁珊瑚礁周边，体红、目大、夜行，尾后缘暗呈新月形，昼隐礁荫、夜捕小鱼与浮游生物。",
+      "habitat_hint": "岩礁、珊瑚礁周边、较深礁荫。",
+      "finding_tips": "潮下带礁荫寻红体大眼、尾后缘暗新月之鱼；大眼红体为辨识点。"
+    }
+  },
+  "Prunus japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Korean cherry",
+    "aliases": {
+      "zh-Hans": "郁李"
+    },
+    "ja": {
+      "summary": "ニワウメ。バラ科サクラ属の落葉低木で、庭木として植えられる。春、葉より先または同時に淡紅色〜白色の小さな花を枝いっぱいに咲かせ、初夏に径1cmほどの赤い小さな果実(食用)をつける。ウメの名がつくがサクラの仲間。",
+      "habitat_hint": "庭園、公園、生垣、栽培。",
+      "finding_tips": "3〜4月、低木の枝いっぱいに淡紅色の小花が並ぶのを探す。初夏に赤い小さな実をつける点も手がかり。"
+    },
+    "en": {
+      "summary": "Korean cherry / dwarf flowering almond (Prunus japonica), a deciduous rosaceous shrub grown as an ornamental; in spring it lines its twigs with small pale-pink to white flowers before or with the leaves, and bears small red edible fruit about 1 cm across in early summer. Despite the Japanese name 'niwa-ume', it is a cherry relative.",
+      "habitat_hint": "Gardens, parks, hedges, cultivated.",
+      "finding_tips": "In March–April look for a shrub with twigs lined in small pale-pink flowers; the small red fruit in early summer is a further clue."
+    },
+    "zh": {
+      "summary": "ニワウメ（郁李）。蔷薇科樱属落叶灌木，多作庭木，春于枝上密生淡粉至白色小花（先叶或同时），初夏结径约1厘米红色小果可食，名带梅而实为樱属。",
+      "habitat_hint": "庭园、公园、绿篱、栽培。",
+      "finding_tips": "3〜4月寻枝上密生淡粉小花之灌木；初夏红色小果亦为辨识点。"
+    }
+  },
+  "Prunus pseudocerasus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese cherry",
+    "aliases": {
+      "zh-Hans": "樱桃"
+    },
+    "ja": {
+      "summary": "シナミザクラ。中国原産のバラ科サクラ属の落葉小高木で、いわゆる中国のサクランボ(桜桃)。春、白色〜淡紅色の花を咲かせ、初夏に赤く熟す小さな果実(食用のサクランボ)をつける。果樹・観賞用に植えられる。",
+      "habitat_hint": "果樹園、庭園、公園、栽培。",
+      "finding_tips": "3〜4月に白〜淡紅色の花、初夏に赤い小さなサクランボを探す。食用の赤い実が手がかり。"
+    },
+    "en": {
+      "summary": "Chinese cherry (Prunus pseudocerasus), a Chinese deciduous rosaceous tree, the source of Chinese cherries; it flowers white to pale pink in spring and ripens small red edible cherries in early summer, grown for fruit and ornament.",
+      "habitat_hint": "Orchards, gardens, parks, cultivated.",
+      "finding_tips": "In March–April look for white-pink blossom and in early summer small red cherries; the edible red fruit is the clue."
+    },
+    "zh": {
+      "summary": "シナミザクラ（樱桃）。蔷薇科樱属落叶小乔木，原产中国，即中国樱桃，春开白至淡粉花，初夏结红熟小果（可食樱桃），植为果树与观赏。",
+      "habitat_hint": "果园、庭园、公园、栽培。",
+      "finding_tips": "3〜4月寻白粉花，初夏寻红色小樱桃；可食红果为辨识点。"
+    }
+  },
+  "Prunus salicina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese plum",
+    "aliases": {
+      "zh-Hans": "李"
+    },
+    "ja": {
+      "summary": "スモモ。中国原産のバラ科サクラ属の落葉小高木で、果樹として広く栽培される。春、葉より先に白い花を枝いっぱいに咲かせ、夏に赤〜紫や黄色に熟す球形の果実(すもも)をつける。果実は生食され、多くの品種がある。",
+      "habitat_hint": "果樹園、庭園、栽培(逸出することもある)。",
+      "finding_tips": "3〜4月、葉より先に白い花を枝一面に咲かせる木を探す。夏に赤〜紫の球形の果実をつける点が手がかり。"
+    },
+    "en": {
+      "summary": "Japanese plum (Prunus salicina), a Chinese deciduous rosaceous tree widely grown for fruit; in spring it covers its twigs with white flowers before the leaves and ripens round red-purple to yellow plums in summer. The fruit is eaten fresh and there are many cultivars.",
+      "habitat_hint": "Orchards, gardens, cultivated (sometimes escaping).",
+      "finding_tips": "In March–April look for a tree massed with white flowers before leafing; the round red-purple summer plums are the clue."
+    },
+    "zh": {
+      "summary": "スモモ（李）。蔷薇科樱属落叶小乔木，原产中国，为广植果树，春先叶满枝生白花，夏结红紫至黄之球形果（李子），鲜食、品种繁多。",
+      "habitat_hint": "果园、庭园、栽培（偶逸出）。",
+      "finding_tips": "3〜4月寻先叶满枝白花之树；夏红紫球形果为辨识点。"
+    }
+  },
+  "Pseudeustrotia candidula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "タデキリガ。ヤガ科の小型のガで、前翅は褐色に白っぽい斑や横線をもつ。草地や湿地、林縁にすみ、幼虫はタデ科などの草本植物の葉を食べる。夜行性で灯火に飛来する。",
+      "habitat_hint": "草地、湿地、林縁。",
+      "finding_tips": "初夏〜秋の夜、灯火で褐色に白っぽい斑をもつ小型のヤガを探す。翅の白斑が手がかり。"
+    },
+    "en": {
+      "summary": "A small owlet moth (Pseudeustrotia candidula), a noctuid with brown forewings marked with whitish spots and lines; it lives in grassland, wetland and woodland edges, the larvae feeding on knotweeds and other herbs, and comes to light.",
+      "habitat_hint": "Grassland, wetland, woodland edges.",
+      "finding_tips": "On summer nights at lights look for a small brown moth with whitish spots; the pale wing markings are the clue."
+    },
+    "zh": {
+      "summary": "タデキリガ。夜蛾科小型蛾，前翅褐色具白斑与横线，栖草地湿地林缘，幼虫食蓼科等草本，夜行趋光。",
+      "habitat_hint": "草地、湿地、林缘。",
+      "finding_tips": "初夏至秋夜于灯下寻褐色具白斑之小夜蛾；翅上白斑为辨识点。"
+    }
+  },
+  "Pseudocatharylla simplex": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass moth",
+    "ja": {
+      "summary": "マエキツトガ。ツトガ科の細長い小型のガで、前翅の前縁沿いが黄色を帯びるのが名の由来。草地や芝地にすみ、幼虫はイネ科植物の根ぎわや茎を食べる。とまるときは翅を体に巻きつけるように細くたたむ。灯火に飛来する。",
+      "habitat_hint": "草地、芝地、河川敷などのイネ科の多い環境。",
+      "finding_tips": "初夏〜秋の夜、灯火で細長く前縁が黄色い小型のツトガを探す。前縁の黄色い帯が識別点。"
+    },
+    "en": {
+      "summary": "A grass moth (Pseudocatharylla simplex), a slender small crambid whose forewing is yellowish along the leading edge (its Japanese name); it lives in grassland and lawns where the larvae feed at grass bases and stems, folding its wings tightly at rest, and comes to light.",
+      "habitat_hint": "Grassland, lawns, grassy riverbanks.",
+      "finding_tips": "On summer nights at lights look for a slender small moth with a yellow forewing edge; the yellow leading margin is the clue."
+    },
+    "zh": {
+      "summary": "マエキツトガ。草螟科细长小型蛾，前翅前缘带黄而得名，栖草地草坪，幼虫食禾草根际与茎，静止时翅紧卷贴体，趋光。",
+      "habitat_hint": "草地、草坪、河滩等多禾草处。",
+      "finding_tips": "初夏至秋夜于灯下寻前缘黄色之细长小螟蛾；前缘黄带为辨识点。"
+    }
+  },
+  "Pseudophegopteris microstegia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "タチヒメワラビ。山地の林内や林縁、谷沿いに生えるヒメシダ科のシダで、やや大型の三角形の葉を斜めに立てる。葉は2回羽状に細かく分かれ、柔らかい。湿った樹陰の斜面などに群生する。",
+      "habitat_hint": "山地の林内・林縁、谷沿い、湿った樹陰。",
+      "finding_tips": "山地の湿った林で、斜めに立つ三角形で2回羽状の柔らかいシダを探す。立ち上がる三角形の葉が手がかり。"
+    },
+    "en": {
+      "summary": "A fern (Pseudophegopteris microstegia), a thelypteroid fern of montane woodland, edges and ravines, holding fairly large triangular fronds obliquely erect; the soft fronds are twice-pinnate, and it grows in colonies on damp shaded slopes.",
+      "habitat_hint": "Montane woodland and edges, ravines, damp shade.",
+      "finding_tips": "In damp mountain woods look for soft twice-pinnate triangular fronds held obliquely erect; the erect triangular frond is the clue."
+    },
+    "zh": {
+      "summary": "タチヒメワラビ。金星蕨科蕨，生山地林内林缘与谷畔，较大三角形叶斜立，二回羽状细裂而柔软，群生于湿润树荫坡地。",
+      "habitat_hint": "山地林内林缘、谷畔、湿润树荫。",
+      "finding_tips": "山地湿林寻斜立三角二回羽状柔软之蕨；斜立三角叶为辨识点。"
+    }
+  },
+  "Pteris kiuschiuensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ニシノコハチジョウシダ。暖地の林内や林縁、石灰岩地などに生えるイノモトソウ科の常緑のシダ。葉は羽状に分かれ、革質でやや光沢がある。ハチジョウシダの仲間で、西日本を中心に分布する。",
+      "habitat_hint": "暖地の林内・林縁、石灰岩地、樹陰の斜面。",
+      "finding_tips": "一年中、暖地の林で羽状に分かれた革質でやや光沢のある常緑のシダを探す。革質の羽状葉が手がかり。"
+    },
+    "en": {
+      "summary": "A brake fern (Pteris kiuschiuensis), an evergreen pteridoid fern of warm-region woodland, edges and limestone ground; its pinnate fronds are leathery and slightly glossy. A relative of the larger brakes, it is centred on western Japan.",
+      "habitat_hint": "Warm-region woodland and edges, limestone ground, shaded slopes.",
+      "finding_tips": "Year-round in warm-region woods look for an evergreen fern with leathery slightly glossy pinnate fronds; the leathery pinnate frond is the clue."
+    },
+    "zh": {
+      "summary": "ニシノコハチジョウシダ。凤尾蕨科常绿蕨，生暖地林内林缘与石灰岩地，叶羽状分裂、革质略具光泽，为凤尾蕨类，以西日本为中心分布。",
+      "habitat_hint": "暖地林内林缘、石灰岩地、树荫坡。",
+      "finding_tips": "全年于暖地林寻革质略亮之羽状常绿蕨；革质羽状叶为辨识点。"
+    }
+  },
+  "Pterostichus adstrictus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "エゾマルガタナガゴミムシ。オサムシ科ナガゴミムシ類の甲虫で、体は黒く光沢があり、丸みを帯びた頑丈な体つき。北方や山地の林床、石や落葉の下にすみ、地表を歩き回って小昆虫やミミズなどを捕食する。飛ばずに地表で暮らす。",
+      "habitat_hint": "北方・山地の林床、石や落葉の下、草地。",
+      "finding_tips": "石や落葉をめくって、黒く光沢のある丸みのある地表性の甲虫を探す。光沢のある頑丈な体が手がかり。"
+    },
+    "en": {
+      "summary": "A ground beetle (Pterostichus adstrictus), a glossy black pterostichine carabid with a rounded, robust body; it lives on northern and montane forest floors under stones and litter, roaming the ground to prey on small insects and worms, flightless and ground-dwelling.",
+      "habitat_hint": "Northern and montane forest floors, under stones and litter, grassland.",
+      "finding_tips": "Turn stones or litter to find a glossy black rounded ground-dwelling beetle; the glossy robust body is the clue."
+    },
+    "zh": {
+      "summary": "エゾマルガタナガゴミムシ。步甲科甲虫，体黑有光泽、圆钝坚实，栖北方与山地林床石落叶下，行于地表捕食小虫蚯蚓，地栖不飞。",
+      "habitat_hint": "北方、山地林床，石落叶下，草地。",
+      "finding_tips": "翻石落叶寻黑亮圆钝之地栖甲虫；光泽坚实体为辨识点。"
+    }
+  },
+  "Pterostichus leptis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "クロオオナガゴミムシ。オサムシ科ナガゴミムシ類の大型の甲虫で、体は黒く細長い。山地や林の地表、石や倒木の下にすみ、地表を歩いて小昆虫やミミズなどを捕食する。夜行性で、飛ばずに地表で暮らす。",
+      "habitat_hint": "山地・林の地表、石や倒木の下。",
+      "finding_tips": "石や倒木をめくって、黒く細長い大型の地表性の甲虫を探す。細長く黒い体が手がかり。"
+    },
+    "en": {
+      "summary": "A ground beetle (Pterostichus leptis), a large elongate black pterostichine carabid; it lives on montane and woodland ground under stones and fallen logs, walking the surface to prey on small insects and worms, nocturnal, flightless and ground-dwelling.",
+      "habitat_hint": "Montane and woodland ground, under stones and logs.",
+      "finding_tips": "Turn stones or logs to find a large elongate black ground beetle; the long black body is the clue."
+    },
+    "zh": {
+      "summary": "クロオオナガゴミムシ。步甲科大型甲虫，体黑细长，栖山地与林间地表、石与倒木下，行地表捕食小虫蚯蚓，夜行、地栖不飞。",
+      "habitat_hint": "山地、林间地表，石与倒木下。",
+      "finding_tips": "翻石倒木寻黑色细长之大地栖甲虫；细长黑体为辨识点。"
+    }
+  },
+  "Ptychostomum pseudotriquetrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "オオハリガネゴケ。湿地や水辺、湿った岩や土の上に群生するハリガネゴケ科の蘚類で、しばしば大きなマット状の群落をつくる。茎は赤みを帯び、卵形の葉を密につける。湿った環境を好み、しばしば湧水地や渓流沿いに見られる。",
+      "habitat_hint": "湿地、水辺、湿った岩や土、湧水地。",
+      "finding_tips": "一年中、湿地や水辺で赤みを帯びた茎に卵形の葉を密につける蘚のマットを探す。赤い茎と湿地環境が手がかり。"
+    },
+    "en": {
+      "summary": "Marsh bryum (Ptychostomum pseudotriquetrum), a bryaceous moss that forms often large mats in wetlands, watersides and on damp rock and soil; the reddish stems are densely set with egg-shaped leaves. It favours wet ground and is often found by springs and streams.",
+      "habitat_hint": "Wetlands, watersides, damp rock and soil, springs.",
+      "finding_tips": "Year-round in wet places look for moss mats with reddish stems and dense egg-shaped leaves; the red stems and wet setting are the clues."
+    },
+    "zh": {
+      "summary": "オオハリガネゴケ。真藓科藓类，成常大之垫状群落，生湿地、水边与湿岩湿土，茎带红、密生卵形叶，喜湿，常见于泉边溪畔。",
+      "habitat_hint": "湿地、水边、湿岩湿土、泉边。",
+      "finding_tips": "全年于湿处寻红茎密生卵叶之藓垫；红茎与湿境为辨识点。"
+    }
+  },
+  "Pupa strigosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Barrel bubble snail",
+    "ja": {
+      "summary": "コシイノミガイ。内湾や浅海の砂底にすむトウガタガイ類に近いオオシイノミガイ科の小型の巻貝で、殻は細長い樽形〜円筒形で、螺状に走る細かい溝(彫刻)をもつ。砂に潜って生活する。殻は白っぽく光沢がある。",
+      "habitat_hint": "内湾・浅海の砂底、干潟、潮下帯。",
+      "finding_tips": "干潟や浅海の砂で、細長い樽形で螺状の細い溝をもつ小さな白い巻貝を探す。樽形の殻と螺状の溝が識別点。"
+    },
+    "en": {
+      "summary": "A barrel bubble snail (Pupa strigosa), a small acteonid-relative snail of bay and shallow sandy bottoms with an elongate barrel to cylindrical shell sculptured with fine spiral grooves; it burrows in sand and has a whitish glossy shell.",
+      "habitat_hint": "Bay and shallow sandy bottoms, tidal flats, subtidal.",
+      "finding_tips": "On flats or shallow sand look for a small white elongate barrel-shaped snail with fine spiral grooves; the barrel shell and spiral grooves are the clues."
+    },
+    "zh": {
+      "summary": "コシイノミガイ。捻螺科小型海螺，栖内湾浅海砂底，壳细长桶形至圆筒形、具螺行细沟雕刻，潜砂而居，壳白略具光泽。",
+      "habitat_hint": "内湾、浅海砂底、潮滩、潮下带。",
+      "finding_tips": "潮滩浅砂寻细长桶形具螺沟之白色小螺；桶壳与螺沟为辨识点。"
+    }
+  },
+  "Pusia discolaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miter shell",
+    "ja": {
+      "summary": "シマオトメフデ。岩礁やサンゴ礁の浅海にすむフデガイ科の小型の巻貝で、殻は紡錘形で細長く、螺状や縦の彫刻と暗色の縞模様をもつ。肉食性で、他の小動物や環形動物などを食べる。岩の下やサンゴのすき間にすむ。",
+      "habitat_hint": "岩礁・サンゴ礁の浅海、岩の下、潮下帯。",
+      "finding_tips": "潮下帯の岩の下で、細長い紡錘形で縞模様のある小さな巻貝を探す。紡錘形の殻と縞模様が識別点。"
+    },
+    "en": {
+      "summary": "A miter shell (Pusia discolaria), a small costellariid snail of shallow coral and rocky reefs with an elongate spindle shell sculptured spirally and axially and banded darkly; a carnivore, it eats small animals and worms, living under rock and in reef crevices.",
+      "habitat_hint": "Shallow coral and rocky reefs, under rock, subtidal.",
+      "finding_tips": "In the subtidal under rock look for a small elongate spindle snail with dark banding; the spindle shell and bands are the clues."
+    },
+    "zh": {
+      "summary": "シマオトメフデ。笔螺科小型海螺，栖珊瑚礁岩礁浅海，壳细长纺锤形、具螺纵雕刻与暗色条纹，肉食、食小动物与环虫，居岩下与礁隙。",
+      "habitat_hint": "岩礁、珊瑚礁浅海、岩下、潮下带。",
+      "finding_tips": "潮下带岩下寻细长纺锤具条纹之小螺；纺锤壳与条纹为辨识点。"
+    }
+  },
+  "Pyrausta limbata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass moth",
+    "ja": {
+      "summary": "トモンノメイガ。ツトガ科ノメイガ亜科の小型のガで、翅は暗褐色〜赤褐色の地に黄色い小さな紋(斑)が散る鮮やかな配色をもつ。草地や林縁にすみ、幼虫はシソ科などの草本の葉を食べる。日中に活動することもあり、灯火にも飛来する。",
+      "habitat_hint": "草地、林縁、シソ科植物の生える環境。",
+      "finding_tips": "初夏〜秋、草地で暗褐色の地に黄色い小紋が散る小型のメイガを探す。黄色い斑の散る配色が識別点。"
+    },
+    "en": {
+      "summary": "A grass moth (Pyrausta limbata), a small pyraustine crambid with dark brown to red-brown wings dotted with small yellow spots in a bright pattern; it lives in grassland and woodland edges where the larvae eat mint-family and other herbs, active by day and coming to light.",
+      "habitat_hint": "Grassland, woodland edges, near mint-family plants.",
+      "finding_tips": "From early summer in grassland look for a small dark moth spotted yellow; the scattered yellow spots are the clue."
+    },
+    "zh": {
+      "summary": "トモンノメイガ。草螟科（野螟类）小型蛾，翅暗褐至红褐、散布黄色小斑而配色鲜艳，栖草地林缘，幼虫食唇形科等草本，昼可活动、亦趋光。",
+      "habitat_hint": "草地、林缘、唇形科植物处。",
+      "finding_tips": "初夏至秋于草地寻暗褐散黄斑之小螟蛾；散布黄斑为辨识点。"
+    }
+  },
+  "Pyropia yezoensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Susabi-nori",
+    "aliases": {
+      "zh-Hans": "甘紫菜"
+    },
+    "ja": {
+      "summary": "スサビノリ。内湾の潮間帯の岩などに生える紅藻で、薄い膜状の葉状体をもつ。乾すと黒紫色になり、板海苔(のり)の主要な養殖種として広く利用される食用海藻。冬に生育し、養殖では網に胞子をつけて育てる。",
+      "habitat_hint": "内湾の潮間帯の岩、養殖網(冬)。",
+      "finding_tips": "冬、内湾の潮間帯の岩で薄い膜状の紅紫色の海藻を探す。乾すと黒紫になる薄い葉状体が識別点。"
+    },
+    "en": {
+      "summary": "Susabi-nori (Pyropia yezoensis), a red alga of sheltered intertidal rocks with a thin membranous blade; drying to blackish-purple, it is the main farmed species for sheet nori and a widely used edible seaweed. It grows in winter and is farmed by seeding spores onto nets.",
+      "habitat_hint": "Sheltered intertidal rock, farming nets (winter).",
+      "finding_tips": "In winter on sheltered intertidal rock look for a thin membranous reddish-purple alga; the thin blade drying to blackish-purple is the clue."
+    },
+    "zh": {
+      "summary": "スサビノリ（甘紫菜）。红藻，生内湾潮间带岩上，叶状体薄膜状，干后黑紫，为板紫菜（海苔）主要养殖种、广用之食用海藻，冬季生长，养殖以网附孢子育成。",
+      "habitat_hint": "内湾潮间带岩、养殖网（冬）。",
+      "finding_tips": "冬于内湾潮间带岩寻薄膜红紫之藻；薄叶体干后转黑紫为辨识点。"
+    }
+  },
+  "Rallina eurizonoides": {
+    "sources": [
+      "iNaturalist",
+      "eBird",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slaty-legged crake",
+    "aliases": {
+      "zh-Hans": "白喉斑秧鸡"
+    },
+    "ja": {
+      "summary": "オオクイナ。クイナ科の中型の鳥で、頭から胸が赤褐色、腹に白と黒の横しま模様をもつ。夜行性・薄明活動性で警戒心が強く、林床や湿った藪の中を歩き回る。南西諸島などに分布し、本州以北ではまれな旅鳥・迷鳥。",
+      "habitat_hint": "林床、湿った藪、水辺の茂み(南西諸島)。",
+      "finding_tips": "夜明けや夕方、湿った林床や藪で赤褐色の頭胸と腹の白黒横しまをもつ鳥を探す。赤褐色の上半身と横しま腹が識別点。声も手がかり。"
+    },
+    "en": {
+      "summary": "Slaty-legged crake (Rallina eurizonoides), a medium rail with a rufous head and breast and black-and-white barred belly; secretive and active at dusk and night, it walks the forest floor and damp thickets. It occurs in Japan's southwest islands and is a rare passage/vagrant farther north.",
+      "habitat_hint": "Forest floor, damp thickets, waterside scrub (SW islands).",
+      "finding_tips": "At dawn or dusk in damp forest look for a rail with a rufous head-breast and barred belly; the rufous upperbody and barred flanks are the clues; listen for its call."
+    },
+    "zh": {
+      "summary": "オオクイナ（白喉斑秧鸡）。秧鸡科中型鸟，头胸棕红、腹具黑白横斑，夜行与晨昏活动、机警，行于林床与湿灌丛，分布日本西南诸岛，本州以北为罕见过境或迷鸟。",
+      "habitat_hint": "林床、湿灌丛、水边丛（西南诸岛）。",
+      "finding_tips": "晨昏于湿林寻头胸棕红、腹具横斑之秧鸡；棕红上体与横斑腹为辨识点，鸣声亦为线索。"
+    }
+  },
+  "Rana temporaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "European common frog",
+    "aliases": {
+      "zh-Hans": "欧洲林蛙"
+    },
+    "ja": {
+      "summary": "ヨーロッパアカガエル。ヨーロッパに広く分布するアカガエル科のカエルで、体は褐色〜赤褐色、目の後ろに暗色の斑がある。森林や草地、湿地にすみ、春に池や水たまりに集まって産卵する。日本には自然分布しない外来・記録種。",
+      "habitat_hint": "森林、草地、湿地、繁殖期は池や水たまり。",
+      "finding_tips": "春、産卵のため水辺に集まる褐色〜赤褐色で目の後ろに暗斑をもつカエルを探す。目後の暗斑が識別点。"
+    },
+    "en": {
+      "summary": "European common frog (Rana temporaria), a brown frog widespread across Europe, brown to reddish-brown with a dark patch behind the eye; it lives in woods, grassland and wetlands and gathers at ponds and pools to spawn in spring. It is not native to Japan.",
+      "habitat_hint": "Woods, grassland, wetlands; ponds and pools in the breeding season.",
+      "finding_tips": "In spring at breeding water look for a brown to reddish frog with a dark patch behind the eye; that eye-patch is the clue."
+    },
+    "zh": {
+      "summary": "ヨーロッパアカガエル（欧洲林蛙）。蛙科，广布欧洲，体褐至红褐、眼后具暗斑，栖森林草地湿地，春季集于池塘水洼产卵，非日本本土分布。",
+      "habitat_hint": "森林、草地、湿地，繁殖期池塘水洼。",
+      "finding_tips": "春于繁殖水域寻褐至红褐、眼后具暗斑之蛙；眼后暗斑为辨识点。"
+    }
+  },
+  "Ranunculus acris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Meadow buttercup",
+    "aliases": {
+      "zh-Hans": "毛茛"
+    },
+    "ja": {
+      "summary": "セイヨウキンポウゲ。ヨーロッパ原産で各地に帰化したキンポウゲ科の多年草。掌状に深く裂けた葉をもち、初夏に光沢のある黄色い5弁の花を咲かせる。牧草地や道ばた、芝地に生える。全草にやや有毒な成分を含む。",
+      "habitat_hint": "牧草地、道ばた、芝地、草地(帰化)。",
+      "finding_tips": "初夏、草地で光沢のある黄色い5弁の花と掌状に裂けた葉をもつ草本を探す。つやのある黄色い花が識別点。"
+    },
+    "en": {
+      "summary": "Meadow buttercup (Ranunculus acris), a European perennial naturalised widely; it has palmately deeply lobed leaves and glossy yellow five-petalled flowers in early summer, growing in meadows, waysides and lawns. The whole plant is mildly toxic.",
+      "habitat_hint": "Meadows, waysides, lawns, grassland (naturalised).",
+      "finding_tips": "In early summer in grassland look for glossy yellow five-petalled flowers over palmately cut leaves; the shiny yellow flower is the clue."
+    },
+    "zh": {
+      "summary": "セイヨウキンポウゲ（毛茛）。毛茛科多年草，原产欧洲、各地归化，叶掌状深裂，初夏开有光泽黄色五瓣花，生牧草地、路旁与草坪，全株略具毒。",
+      "habitat_hint": "牧草地、路旁、草坪、草地（归化）。",
+      "finding_tips": "初夏于草地寻掌裂叶上具光泽黄色五瓣花；亮黄花为辨识点。"
+    }
+  },
+  "Rhododendron aureum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow alpine rhododendron",
+    "ja": {
+      "summary": "キバナシャクナゲ。高山の岩場やハイマツ帯に生えるツツジ科の常緑の低木で、日本のシャクナゲ類では珍しく淡黄色の花を咲かせる。革質で厚い葉をもち、夏に枝先に数個の黄色い花をまとめてつける。高山を代表する花木のひとつ。",
+      "habitat_hint": "高山の岩場、ハイマツ帯、風衝地。",
+      "finding_tips": "7〜8月、高山の岩場やハイマツ帯で厚い革質の葉と淡黄色の花をつける低木を探す。黄色い花のシャクナゲは本種のみで識別点。"
+    },
+    "en": {
+      "summary": "Yellow alpine rhododendron (Rhododendron aureum), an evergreen alpine shrub of rocky ground and dwarf-pine zones that, unusually for Japanese rhododendrons, bears pale-yellow flowers; it has thick leathery leaves and clusters a few yellow flowers at the shoot tips in summer, a signature alpine shrub.",
+      "habitat_hint": "Alpine rocks, dwarf-pine zone, wind-exposed ground.",
+      "finding_tips": "In July–August in the alpine zone look for a leathery-leaved shrub with pale-yellow flowers; a yellow-flowered rhododendron is diagnostic of this species."
+    },
+    "zh": {
+      "summary": "キバナシャクナゲ。杜鹃花科常绿灌木，生高山岩地与偃松带，于日本杜鹃中罕见地开淡黄花，叶厚革质，夏于枝顶簇生数朵黄花，为代表性高山花木。",
+      "habitat_hint": "高山岩地、偃松带、风衝地。",
+      "finding_tips": "7〜8月于高山岩地寻厚革叶开淡黄花之灌木；黄花杜鹃即本种，为辨识点。"
+    }
+  },
+  "Rhododendron kiusianum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kyushu azalea",
+    "aliases": {
+      "zh-Hans": "九州杜鹃"
+    },
+    "ja": {
+      "summary": "ミヤマキリシマ。九州の高山・火山の風衝地に群生するツツジ科の半常緑の低木で、初夏に紅紫色〜淡紅色の小さな花を株一面に咲かせる。霧島や雲仙、阿蘇などの山肌をピンクに染める名所の花として知られる。",
+      "habitat_hint": "九州の高山・火山の風衝地、草原状の斜面。",
+      "finding_tips": "5〜6月、九州の高山で株一面に紅紫色の小花を咲かせる低いツツジの大群落を探す。火山の斜面を染める群生が識別点。"
+    },
+    "en": {
+      "summary": "Kyushu azalea (Rhododendron kiusianum), a semi-evergreen dwarf azalea forming colonies on wind-exposed high volcanic ground in Kyushu; in early summer it covers itself with small purplish-pink flowers, famed for turning mountainsides at Kirishima, Unzen and Aso pink.",
+      "habitat_hint": "Wind-exposed high volcanic ground and grassy slopes in Kyushu.",
+      "finding_tips": "In May–June on Kyushu peaks look for great colonies of low azaleas massed with purplish-pink flowers; the pink-washed volcanic slopes are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマキリシマ（九州杜鹃）。杜鹃花科半常绿矮灌木，成片生于九州高山火山风衝地，初夏满株开紫红至淡红小花，以染红雾岛、云仙、阿苏山坡之名花著称。",
+      "habitat_hint": "九州高山、火山风衝地、草原状坡。",
+      "finding_tips": "5〜6月于九州峰顶寻满株紫红小花之矮杜鹃大群落；染坡群生为辨识点。"
+    }
+  },
+  "Rhododendron ripense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Riverbank azalea",
+    "ja": {
+      "summary": "キシツツジ。川岸の岩場や河原に生えるツツジ科の半常緑の低木で、増水時に水をかぶるような岩の上に張りつくように育つ。春〜初夏、淡紅紫色の花を咲かせる。西日本の渓流沿いに分布する渓流沿い植物のひとつ。",
+      "habitat_hint": "川岸の岩場、河原、渓流沿いの岩上(西日本)。",
+      "finding_tips": "4〜6月、渓流や川岸の岩場で淡紅紫色の花を咲かせる低いツツジを探す。川沿いの岩に張りつく生育が識別点。"
+    },
+    "en": {
+      "summary": "Riverbank azalea (Rhododendron ripense), a semi-evergreen dwarf azalea of riverside rocks and gravel that clings to rocks liable to be submerged in floods; it flowers pale purplish-pink in spring to early summer, one of the rheophytes of western Japan's streams.",
+      "habitat_hint": "Riverside rocks, gravel, streamside rock (western Japan).",
+      "finding_tips": "In April–June on streamside rock look for a low azalea with pale purplish-pink flowers; growing pressed to riverside rock is the clue."
+    },
+    "zh": {
+      "summary": "キシツツジ。杜鹃花科半常绿矮灌木，生河岸岩地与河滩，贴生于洪水时可没之岩上，春至初夏开淡紫红花，为西日本溪流沿岸之流水植物之一。",
+      "habitat_hint": "河岸岩地、河滩、溪畔岩上（西日本）。",
+      "finding_tips": "4〜6月于溪畔岩地寻开淡紫红花之矮杜鹃；贴生河岸岩为辨识点。"
+    }
+  },
+  "Rhododendron tashiroi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cherry azalea",
+    "ja": {
+      "summary": "サクラツツジ。暖地の山地の林内や林縁に生えるツツジ科の常緑の低木〜小高木で、春、サクラを思わせる淡紅色〜淡紅紫色の花を咲かせるのが名の由来。革質の葉を枝先に輪生状につける。西日本〜南西諸島に分布する。",
+      "habitat_hint": "暖地の山地の林内・林縁、樹陰(西日本〜南西諸島)。",
+      "finding_tips": "3〜5月、暖地の山林で桜色の花と枝先に集まる革質の葉をもつ常緑のツツジを探す。桜を思わせる淡紅色の花が識別点。"
+    },
+    "en": {
+      "summary": "Cherry azalea (Rhododendron tashiroi), an evergreen azalea shrub to small tree of warm montane woodland interiors and edges; in spring it bears pale pink to purplish-pink flowers recalling cherry blossom (its Japanese name), with leathery leaves whorled at the shoot tips. It ranges from western Japan to the southwest islands.",
+      "habitat_hint": "Warm montane woodland interiors and edges, shade (western Japan to SW islands).",
+      "finding_tips": "In March–May in warm mountain woods look for an evergreen azalea with cherry-pink flowers and leathery leaves clustered at the tips; the cherry-like pink flower is the clue."
+    },
+    "zh": {
+      "summary": "サクラツツジ。杜鹃花科常绿灌木至小乔木，生暖地山林内外，春开淡红至淡紫红花似樱而得名，革质叶轮生枝顶，分布西日本至西南诸岛。",
+      "habitat_hint": "暖地山林内外、树荫（西日本至西南诸岛）。",
+      "finding_tips": "3〜5月于暖地山林寻樱色花、枝顶簇革叶之常绿杜鹃；似樱淡红花为辨识点。"
+    }
   }
 }
