@@ -278463,5 +278463,514 @@
       "habitat_hint": "阔叶（柳、山毛榉等）活木枯木干。",
       "finding_tips": "秋于阔叶树干寻黄褐具鳞黏盖丛生之菇；黏盖具鳞为辨识点。"
     }
+  },
+  "Pholiota carbonaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Charcoal pholiota",
+    "ja": {
+      "summary": "ヤケアトツムタケ。山火事の跡や焚き火の跡など、焼けた地面や炭化した土に生えるモエギタケ科のキノコ。傘は黄褐色〜赤褐色で湿るとやや粘り、焼け跡にいち早く発生する菌のひとつ。柄は細く群生する。",
+      "habitat_hint": "山火事跡、焚き火跡、焼けた地面・炭化した土。",
+      "finding_tips": "焚き火や山火事の跡地で、黄褐色の傘をもつ小型のキノコが群生するのを探す。焼け跡に出る点が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A charcoal pholiota (Pholiota carbonaria), a strophariaceous mushroom of burnt ground such as forest-fire and campfire sites; the yellow-brown to red-brown cap is slightly viscid when moist, and it is one of the first fungi to colonise scorched, charcoal-rich soil, growing in slender tufts.",
+      "habitat_hint": "Forest-fire and campfire sites, burnt ground, charred soil.",
+      "finding_tips": "On old fire sites look for clustered small yellow-brown-capped mushrooms; growing on burnt ground is the clue."
+    },
+    "zh": {
+      "summary": "ヤケアトツムタケ。球盖菇科菇，生山火迹、篝火迹等烧过之地与炭化土，菌盖黄褐至红褐、湿时略黏，为火烧迹地先锋菌之一，柄细丛生。",
+      "habitat_hint": "山火迹、篝火迹、烧焦地面、炭化土。",
+      "finding_tips": "于火烧迹地寻黄褐盖丛生之小菇；生于火烧地为辨识点。"
+    }
+  },
+  "Phthonosema invenustaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "トビネオオエダシャク。シャクガ科エダシャク亜科の大型のガで、翅は灰褐色でこまかな斑や横線をもち、樹皮に似た地味な模様で保護色となる。幼虫は枝に似た「尺取り虫」で広葉樹の葉を食べる。灯火に飛来する。",
+      "habitat_hint": "樹林、林縁、雑木林。",
+      "finding_tips": "初夏〜秋の夜、灯火で灰褐色で樹皮状の模様をもつ大型のシャクガを探す。枝状の尺取り虫の幼虫も手がかり。"
+    },
+    "en": {
+      "summary": "A geometer moth (Phthonosema invenustaria), a large geometrid with grey-brown wings finely speckled and lined in a bark-like camouflage pattern; its twig-like 'inchworm' larva feeds on broadleaf foliage. It comes to light.",
+      "habitat_hint": "Woodland, woodland edges, coppice.",
+      "finding_tips": "On summer nights at lights look for a large grey-brown moth with bark-like markings; the twig-mimic inchworm larva is a further clue."
+    },
+    "zh": {
+      "summary": "トビネオオエダシャク。尺蛾科大型蛾，翅灰褐具细斑横线、拟树皮为保护色，幼虫为拟枝之尺蠖，食阔叶，趋光。",
+      "habitat_hint": "树林、林缘、杂木林。",
+      "finding_tips": "初夏至秋夜于灯下寻灰褐拟树皮之大尺蛾；拟枝尺蠖幼虫亦为辨识点。"
+    }
+  },
+  "Phylloporus cyanescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gilled bolete",
+    "ja": {
+      "summary": "イロガワリキヒダタケ。イグチ科(ヤマドリタケの仲間)でありながら、管孔ではなく黄色いひだをもつ変わったキノコ。傘は褐色で、傷つけると青く変色する(イロガワリ＝色変わり)。夏〜秋、広葉樹林などの地上に生える。",
+      "habitat_hint": "夏〜秋、広葉樹林・雑木林の地上。",
+      "finding_tips": "夏〜秋、林内の地上で黄色いひだをもつ褐色のキノコを探し、傷つけて青変するか確かめる。ひだ+青変が識別点。"
+    },
+    "en": {
+      "summary": "A gilled bolete (Phylloporus cyanescens), an unusual bolete relative that has yellow gills instead of pores; the brown cap bruises blue (its Japanese name means 'colour-changer'). It grows on the ground in broadleaf woodland in summer and autumn.",
+      "habitat_hint": "Summer–autumn on the ground in broadleaf woodland.",
+      "finding_tips": "In summer–autumn on the woodland floor find a brown mushroom with yellow gills and bruise it to check for blueing; gills plus blueing are the clues."
+    },
+    "zh": {
+      "summary": "イロガワリキヒダタケ。牛肝菌科而具黄色菌褶（非管孔）之奇菇，盖褐、伤后变蓝（名意「变色」），夏秋生于阔叶林地上。",
+      "habitat_hint": "夏秋，阔叶林、杂木林地上。",
+      "finding_tips": "夏秋于林地寻具黄褶之褐菇，伤之验其蓝变；黄褶加蓝变为辨识点。"
+    }
+  },
+  "Physcomitrium sphaericum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アゼゴケ。田のあぜや池畔、水の引いた湿った泥地に生える小型で短命の蘚類。緑色の小さな植物体をつくり、丸い球形の胞子のう(さく)を短い柄の上につけるのが特徴。水位変動のある湿った裸地に群生する。",
+      "habitat_hint": "田のあぜ、池畔、水の引いた湿った泥地。",
+      "finding_tips": "秋〜春、水の引いた湿った泥の上で、丸い球形のさくをつける小さな蘚を探す。球形のさくが識別点。"
+    },
+    "en": {
+      "summary": "Dwarf bladder-moss (Physcomitrium sphaericum), a small ephemeral moss of paddy banks, pond margins and exposed damp mud; it forms tiny green plants topped by a rounded spherical spore capsule on a short seta, growing in patches on wet bare ground with fluctuating water.",
+      "habitat_hint": "Paddy banks, pond margins, exposed damp mud.",
+      "finding_tips": "In autumn–spring on exposed wet mud look for a small moss with a rounded spherical capsule; the globe-shaped capsule is the clue."
+    },
+    "zh": {
+      "summary": "アゼゴケ。小型短命藓类，生田埂、池畔与退水湿泥地，植物体小而绿，短柄上具圆球形孢蒴，成片生于水位涨落之湿裸地。",
+      "habitat_hint": "田埂、池畔、退水湿泥地。",
+      "finding_tips": "秋春于退水湿泥寻具圆球孢蒴之小藓；球形孢蒴为辨识点。"
+    }
+  },
+  "Picea glehnii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakhalin spruce",
+    "aliases": {
+      "zh-Hans": "北海道云杉"
+    },
+    "ja": {
+      "summary": "アカエゾマツ。北海道やサハリンに分布するマツ科の常緑針葉樹で、樹皮が赤褐色を帯びるのが名の由来。エゾマツより湿地や火山礫地など厳しい環境にも生え、円錐形の樹形をつくる。小さな球果を垂れ下げる。北海道の重要な林業樹種。",
+      "habitat_hint": "北海道・サハリンの山地、湿原周辺、火山礫地。",
+      "finding_tips": "北海道の山地で、赤褐色の樹皮と短い針葉、垂れ下がる小さな球果をもつ針葉樹を探す。赤みを帯びた樹皮が識別点。"
+    },
+    "en": {
+      "summary": "Sakhalin spruce (Picea glehnii), an evergreen conifer of Hokkaido and Sakhalin whose reddish-brown bark gives its Japanese name; hardier than the related Yezo spruce, it grows even in bogs and volcanic gravel, forming a conical crown and hanging small cones. It is an important Hokkaido forestry tree.",
+      "habitat_hint": "Hokkaido and Sakhalin mountains, bog margins, volcanic gravel.",
+      "finding_tips": "In Hokkaido mountains look for a conifer with reddish-brown bark, short needles and small hanging cones; the red-tinged bark is the clue."
+    },
+    "zh": {
+      "summary": "アカエゾマツ（北海道云杉）。松科常绿针叶树，分布北海道与库页岛，树皮红褐而得名，较虾夷云杉耐湿地与火山砾等严苛环境，树冠圆锥、垂生小球果，为北海道重要林业树种。",
+      "habitat_hint": "北海道、库页岛山地，湿原周边，火山砾地。",
+      "finding_tips": "北海道山地寻具红褐树皮、短针叶与下垂小球果之针叶树；红褐树皮为辨识点。"
+    }
+  },
+  "Pilea angulata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミヤマミズ。山地の湿った林内や谷沿いの陰湿地に生えるイラタムシ科(イラクサ科)ミズ属の一年草で、多汁でやや透明感のある茎をもつ。葉は対生し縁に鋸歯がある。夏〜秋、葉のつけ根に緑色の目立たない小花を集めてつける。",
+      "habitat_hint": "山地の湿った林内、谷沿い、陰湿地。",
+      "finding_tips": "夏〜秋、湿った林内で多汁で透明感のある茎と対生の鋸歯葉をもつ草本を探す。みずみずしい茎が手がかり。"
+    },
+    "en": {
+      "summary": "A clearweed (Pilea angulata), a nettle-family annual of damp montane woodland and shaded ravines with a juicy, somewhat translucent stem; the toothed leaves are opposite, and in late summer to autumn it clusters tiny green inconspicuous flowers in the leaf axils.",
+      "habitat_hint": "Damp montane woodland, ravines, shaded moist ground.",
+      "finding_tips": "In late summer in damp woods look for an herb with a juicy translucent stem and opposite toothed leaves; the succulent stem is the clue."
+    },
+    "zh": {
+      "summary": "ミヤマミズ。荨麻科冷水花属一年草，生山地湿林与谷畔阴湿地，茎多汁略透明，叶对生具锯齿，夏秋于叶腋簇生绿色不显小花。",
+      "habitat_hint": "山地湿林、谷畔、阴湿地。",
+      "finding_tips": "夏秋于湿林寻多汁透明茎与对生锯齿叶之草；水灵之茎为辨识点。"
+    }
+  },
+  "Pilea notata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "コミヤマミズ。山地の湿った林床や谷沿いに生えるイラクサ科ミズ属の多年草で、ミヤマミズに似るがより小型。多汁でやや透明感のある茎に、鋸歯のある葉を対生する。夏〜秋、葉のつけ根に緑色の小花を集めてつける。",
+      "habitat_hint": "山地の湿った林床、谷沿い、陰湿地。",
+      "finding_tips": "夏〜秋、湿った林床で多汁の茎と小型の対生鋸歯葉をもつ草本を探す。小型でみずみずしい姿が手がかり。"
+    },
+    "en": {
+      "summary": "A clearweed (Pilea notata), a nettle-family perennial of damp montane forest floors and ravines, like Pilea angulata but smaller; the juicy translucent stem bears opposite toothed leaves, and it clusters small green flowers in the leaf axils in late summer to autumn.",
+      "habitat_hint": "Damp montane forest floors, ravines, shaded moist ground.",
+      "finding_tips": "In late summer on damp forest floor look for a small herb with a juicy stem and opposite toothed leaves; its small succulent form is the clue."
+    },
+    "zh": {
+      "summary": "コミヤマミズ。荨麻科冷水花属多年草，生山地湿林床与谷畔，似深山冷水花而小，茎多汁略透明、叶对生具锯齿，夏秋叶腋簇生绿色小花。",
+      "habitat_hint": "山地湿林床、谷畔、阴湿地。",
+      "finding_tips": "夏秋于湿林床寻多汁茎与小型对生锯齿叶之草；小巧水灵为辨识点。"
+    }
+  },
+  "Pilophorus erraticus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plant bug",
+    "ja": {
+      "summary": "ホソヒョウタンカスミカメ。カスミカメムシ科の細身のカメムシで、体はくびれてアリに似た形をもち、アリに擬態していると考えられる。樹上や低木にすみ、アブラムシなどの小昆虫を捕食するとともに植物にも口針を刺す。",
+      "habitat_hint": "樹上・低木、アブラムシのいる植物。",
+      "finding_tips": "春〜秋、低木や樹上でアリに似た細くくびれた小型のカメムシを探す。アリ状の体形が識別点。"
+    },
+    "en": {
+      "summary": "A plant bug (Pilophorus erraticus), a slender mirid whose constricted, ant-like body is thought to mimic ants; it lives on trees and shrubs, preying on aphids and other small insects while also probing plants.",
+      "habitat_hint": "Trees and shrubs, plants with aphids.",
+      "finding_tips": "From spring to autumn on shrubs look for a slender constricted ant-like bug; the ant-shaped body is the clue."
+    },
+    "zh": {
+      "summary": "ホソヒョウタンカスミカメ。盲蝽科细身蝽，体缢缩似蚂蚁、被认为拟蚁，栖树上灌木，捕食蚜虫等小虫并刺吸植物。",
+      "habitat_hint": "树上、灌木、有蚜之植物。",
+      "finding_tips": "春秋于灌木树上寻缢缩似蚁之细小蝽；拟蚁体形为辨识点。"
+    }
+  },
+  "Pinna muricata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pen shell",
+    "ja": {
+      "summary": "イワカワハゴロモ。ハボウキガイ科の大型の二枚貝(ペンシェル)で、殻は細長い三角形〜扇形で薄くもろく、表面に小さなとげ状の突起が並ぶ。とがった殻の先を砂泥や海草藻場に突き刺し、足糸で固定して立った状態ですむ。",
+      "habitat_hint": "浅海の砂泥底・海草藻場、殻を立てて埋在。",
+      "finding_tips": "浅海の砂泥や藻場で、細長い三角形の大きな殻がとがった先を下にして立っているのを探す。とげ状突起のある薄い殻が識別点。"
+    },
+    "en": {
+      "summary": "A pen shell (Pinna muricata), a large pinnid bivalve with a thin fragile elongate triangular-to-fan shell bearing rows of small spines; it stands buried point-down in sandy-mud or seagrass beds, anchored by byssal threads.",
+      "habitat_hint": "Shallow sandy-mud and seagrass beds, buried upright.",
+      "finding_tips": "In shallow sand or seagrass look for a large elongate triangular shell standing point-down; the thin spiny shell is the clue."
+    },
+    "zh": {
+      "summary": "イワカワハゴロモ。江珧科大型二枚贝（笔贝），壳细长三角至扇形、薄脆、面具小刺列，尖端插入砂泥或海草床、以足丝固定而直立埋生。",
+      "habitat_hint": "浅海砂泥底、海草床，竖立埋生。",
+      "finding_tips": "浅海砂泥或海草中寻尖端向下直立之细长三角大壳；薄具刺之壳为辨识点。"
+    }
+  },
+  "Pinus densithunbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hybrid pine",
+    "ja": {
+      "summary": "アイグロマツ。アカマツとクロマツの自然交雑によって生じたマツ科の常緑針葉樹で、両者の中間的な性質をもつ。樹皮や冬芽の色、葉の硬さなどがアカマツとクロマツの中間で、海岸〜内陸の両者が接する場所に見られる。",
+      "habitat_hint": "アカマツとクロマツが接する海岸〜内陸、両種の混生地。",
+      "finding_tips": "海岸林などで、樹皮・冬芽・葉がアカマツとクロマツの中間的な特徴をもつマツを探す。両者の中間形質が手がかり。"
+    },
+    "en": {
+      "summary": "A hybrid pine (Pinus densithunbergii), an evergreen conifer arising from natural crossing of Japanese red pine and black pine, with characters intermediate between the parents; bark colour, winter-bud colour and needle stiffness fall between the two, and it occurs where the parents meet from coast to inland.",
+      "habitat_hint": "Where red and black pine meet, coast to inland, mixed stands.",
+      "finding_tips": "In coastal pine woods look for a pine intermediate between red and black pine in bark, buds and needles; those intermediate traits are the clue."
+    },
+    "zh": {
+      "summary": "アイグロマツ。松科常绿针叶树，为赤松与黑松自然杂交所生，性状介于两者之间，树皮、冬芽色与针叶硬度皆居中，见于两亲本交会之海岸至内陆。",
+      "habitat_hint": "赤松黑松交会之海岸至内陆、两种混生地。",
+      "finding_tips": "海岸松林寻树皮冬芽针叶介于赤松黑松间之松；居中性状为辨识点。"
+    }
+  },
+  "Placonotus testaceus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat bark beetle",
+    "ja": {
+      "summary": "カドムネチビヒラタムシ。ヒラタムシ科の非常に平たく細長い小型の甲虫で、体は褐色。枯木や倒木の樹皮の下の狭いすき間にすみ、菌類やほかの小昆虫などを食べる。平たい体は樹皮下の生活に適応したもの。",
+      "habitat_hint": "枯木・倒木の樹皮の下、朽木。",
+      "finding_tips": "枯木の樹皮をはがして、非常に平たく細長い褐色の小甲虫を探す。極端に平たい体が識別点。"
+    },
+    "en": {
+      "summary": "A flat bark beetle (Placonotus testaceus), a very flat, elongate small brown beetle of the Laemophloeidae; it lives in the narrow space under the bark of dead and fallen wood, eating fungi and other small insects, its flattened body suited to life beneath bark.",
+      "habitat_hint": "Under bark of dead and fallen wood, rotten timber.",
+      "finding_tips": "Peel bark from dead wood to find a very flat elongate brown beetle; the extremely flattened body is the clue."
+    },
+    "zh": {
+      "summary": "カドムネチビヒラタムシ。扁甲科极扁细长之小型甲虫，体褐，居枯木倒木树皮下狭隙，食菌类与他小虫，扁体适于皮下生活。",
+      "habitat_hint": "枯木、倒木树皮下、朽木。",
+      "finding_tips": "剥枯木树皮寻极扁细长之褐色小甲虫；极扁之体为辨识点。"
+    }
+  },
+  "Platnickina mneon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Comb-footed spider",
+    "ja": {
+      "summary": "サトヒメグモ。ヒメグモ科の小型のクモで、樹木や低木の葉間、人家周辺などに不規則な立体網を張って小昆虫を捕らえる。腹部に淡色と暗色の斑紋をもつ。人里近くの環境でごく普通に見られる。",
+      "habitat_hint": "樹木・低木の葉間、人家周辺、庭。",
+      "finding_tips": "低木や葉の間に張られた不規則な立体網と、腹に斑紋をもつ小さなクモを探す。乱れた立体網が手がかり。"
+    },
+    "en": {
+      "summary": "A comb-footed spider (Platnickina mneon), a small theridiid that spins an irregular tangle web among tree and shrub foliage and around houses to catch small insects; its abdomen is marked pale and dark. It is very common near human settlement.",
+      "habitat_hint": "Tree and shrub foliage, around houses, gardens.",
+      "finding_tips": "Among shrub leaves look for an irregular tangle web with a small patterned spider; the messy tangle web is the clue."
+    },
+    "zh": {
+      "summary": "サトヒメグモ。球腹蛛科小型蜘蛛，于树灌叶间与人居周边结不规则立体网捕小虫，腹具淡暗斑纹，人居近处极常见。",
+      "habitat_hint": "树灌叶间、人居周边、庭园。",
+      "finding_tips": "于灌叶间寻不规则立体网与腹具斑纹之小蛛；杂乱立体网为辨识点。"
+    }
+  },
+  "Platydema marseuli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Darkling beetle",
+    "ja": {
+      "summary": "アオツヤキノコゴミムシダマシ。ゴミムシダマシ科の小型の甲虫で、体は青みを帯びた金属光沢をもつ。枯木や倒木の樹皮下、キノコ(多孔菌など)に集まり、菌類を食べる。丸みのある体につやのある青緑色が美しい。",
+      "habitat_hint": "枯木・倒木の樹皮下、木に生えるキノコ。",
+      "finding_tips": "枯木の樹皮下や木に生えたキノコで、青緑色の金属光沢をもつ丸い小甲虫を探す。青みのある金属光沢が識別点。"
+    },
+    "en": {
+      "summary": "A darkling beetle (Platydema marseuli), a small tenebrionid with a bluish metallic sheen; it gathers under the bark of dead wood and on bracket fungi, feeding on fungi. Its rounded body with glossy blue-green lustre is attractive.",
+      "habitat_hint": "Under bark of dead and fallen wood, wood-growing fungi.",
+      "finding_tips": "Under dead-wood bark or on bracket fungi look for a rounded small beetle with a blue-green metallic sheen; that bluish lustre is the clue."
+    },
+    "zh": {
+      "summary": "アオツヤキノコゴミムシダマシ。拟步甲科小型甲虫，体带蓝色金属光泽，聚于枯木倒木树皮下与木生菌（多孔菌等）食菌，圆体蓝绿光泽甚美。",
+      "habitat_hint": "枯木、倒木树皮下、木生菌。",
+      "finding_tips": "于枯木皮下或木生菌上寻蓝绿金属光泽之圆小甲虫；蓝色光泽为辨识点。"
+    }
+  },
+  "Platygyra daedalea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maze coral",
+    "ja": {
+      "summary": "ヒラノウサンゴ。サンゴ礁を作る造礁サンゴ(イシサンゴ)の一種で、群体の表面に曲がりくねった谷と尾根が入り組み、脳の表面のような迷路状の模様(ノウ＝脳)をつくる。塊状〜半球状の群体をつくり、暖かい浅海の礁に生育する。",
+      "habitat_hint": "暖かい浅海のサンゴ礁、岩礁。",
+      "finding_tips": "浅海のサンゴ礁で、表面が脳の溝のように迷路状にうねる塊状のサンゴを探す。曲がりくねった谷と尾根が識別点。"
+    },
+    "en": {
+      "summary": "A maze (brain) coral (Platygyra daedalea), a reef-building stony coral whose colony surface is a maze of winding valleys and ridges resembling the folds of a brain; it forms massive to hemispherical colonies on warm shallow reefs.",
+      "habitat_hint": "Warm shallow coral reefs and rocky reefs.",
+      "finding_tips": "On shallow reef look for a massive coral with a brain-like maze of winding valleys and ridges; the meandering pattern is the clue."
+    },
+    "zh": {
+      "summary": "ヒラノウサンゴ。造礁石珊瑚，群体表面曲折之谷脊交错如脑纹（迷宫状），成块状至半球状群体，生于暖浅海礁。",
+      "habitat_hint": "暖浅海珊瑚礁、岩礁。",
+      "finding_tips": "浅海礁上寻表面如脑纹迷宫状起伏之块状珊瑚；曲折谷脊为辨识点。"
+    }
+  },
+  "Platygyra lamellina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brain coral",
+    "ja": {
+      "summary": "ノウサンゴ。造礁サンゴの一種で、群体表面に曲がりくねった谷と尾根が並び、脳の表面のような模様をつくる。ヒラノウサンゴに似るが、谷や尾根の壁がより薄い板状に発達する。暖かい浅海のサンゴ礁に塊状の群体をつくる。",
+      "habitat_hint": "暖かい浅海のサンゴ礁、岩礁。",
+      "finding_tips": "浅海のサンゴ礁で、脳の溝のような迷路状の塊状サンゴを探す。薄い板状の谷壁がヒラノウサンゴとの違い。"
+    },
+    "en": {
+      "summary": "A brain coral (Platygyra lamellina), a reef-building coral whose colony surface bears winding valleys and ridges like a brain; similar to Platygyra daedalea but with thinner, more lamellar walls to the valleys. It forms massive colonies on warm shallow reefs.",
+      "habitat_hint": "Warm shallow coral reefs and rocky reefs.",
+      "finding_tips": "On shallow reef look for a massive brain-patterned coral; the thinner lamellar valley walls separate it from P. daedalea."
+    },
+    "zh": {
+      "summary": "ノウサンゴ。造礁珊瑚，群体表面曲折谷脊如脑纹，似平脑珊瑚而谷脊壁更薄呈板状，于暖浅海礁成块状群体。",
+      "habitat_hint": "暖浅海珊瑚礁、岩礁。",
+      "finding_tips": "浅海礁寻脑纹迷宫状块状珊瑚；谷壁薄板状别于平脑珊瑚。"
+    }
+  },
+  "Platynereis dumerilii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ragworm",
+    "ja": {
+      "summary": "イソツルヒゲゴカイ。岩礁や海藻の間、潮だまりにすむゴカイ科の多毛類で、体は細長く多くの体節からなり、各節に疣足(いぼあし)をもつ。海藻や堆積物を食べる。発生・再生の研究に用いられるモデル生物としても知られる。",
+      "habitat_hint": "岩礁・海藻の間、潮だまり、潮間帯〜潮下帯。",
+      "finding_tips": "潮だまりの海藻や石の下で、細長く体節ごとに疣足をもつ多毛類を探す。多数の疣足をもつ細長い体が識別点。"
+    },
+    "en": {
+      "summary": "A ragworm (Platynereis dumerilii), a nereidid polychaete of rocky shores, seaweed and tide pools with a long many-segmented body bearing paddle-like lobes on each segment; it eats algae and detritus and is a well-known laboratory model for development and regeneration.",
+      "habitat_hint": "Rocky shores, seaweed and tide pools, intertidal to subtidal.",
+      "finding_tips": "In tide-pool weed or under stones look for a long segmented worm with lobes on each segment; the many paddle lobes are the clue."
+    },
+    "zh": {
+      "summary": "イソツルヒゲゴカイ。沙蚕科多毛类，栖岩礁、海藻间与潮池，体细长多节、每节具疣足，食藻与碎屑，为发育与再生研究之知名模式生物。",
+      "habitat_hint": "岩礁、海藻间、潮池、潮间至潮下带。",
+      "finding_tips": "潮池海藻或石下寻每节具疣足之细长多毛类；多疣足细长体为辨识点。"
+    }
+  },
+  "Plectotropis aemula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "チクヤケマイマイ。陸生のカタツムリ(オナジマイマイ科)で、殻は低い円盤状で周縁に角(かど)があり、殻表に細かい毛が生えることがある。落葉の下や樹林の湿った地表にすみ、落葉や菌類を食べる。",
+      "habitat_hint": "樹林の湿った地表、落葉の下、林縁。",
+      "finding_tips": "雨後、林の落葉の下で低い円盤状で周縁に角のある小型のカタツムリを探す。平たい殻と周縁の角が識別点。"
+    },
+    "en": {
+      "summary": "A land snail (Plectotropis aemula), a bradybaenid with a low disc-shaped shell keeled at the periphery, sometimes bearing fine hairs; it lives under leaf litter and on damp forest ground, eating litter and fungi.",
+      "habitat_hint": "Damp forest ground, under leaf litter, woodland edges.",
+      "finding_tips": "After rain under woodland litter look for a small low disc-shaped snail with a keeled edge; the flat keeled shell is the clue."
+    },
+    "zh": {
+      "summary": "チクヤケマイマイ。陆生蜗牛（同型巴蜗牛科），壳低盘状、周缘具棱、壳面或具细毛，居林间湿地表与落叶下，食落叶与菌类。",
+      "habitat_hint": "林间湿地表、落叶下、林缘。",
+      "finding_tips": "雨后于林间落叶下寻低盘状周缘具棱之小蜗牛；扁壳带棱为辨识点。"
+    }
+  },
+  "Pododesmus macrochisma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jingle shell",
+    "ja": {
+      "summary": "ナミマガシワモドキ。岩や貝殻に固着してすむナミマガシワ科の二枚貝で、下側の殻に足糸が通る穴があり、これで岩に固着する。上側の殻は丸く平たく、真珠光沢をもつ。潮間帯〜浅海の岩礁で見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、岩や貝殻に固着。",
+      "finding_tips": "岩や大きな貝殻の表面で、丸く平たく真珠光沢のある薄い二枚貝を探す。固着面の殻に穴があるのが識別点。"
+    },
+    "en": {
+      "summary": "A jingle shell (Pododesmus macrochisma), an anomiid bivalve that cements to rock and shells; the lower valve has a hole through which byssal threads pass to anchor it, while the round flat upper valve is pearly. It occurs on intertidal to shallow rocky reefs.",
+      "habitat_hint": "Intertidal to shallow rocky reefs, cemented to rock and shells.",
+      "finding_tips": "On rock or large shells look for a round flat pearly thin bivalve; the hole in the attached valve is the clue."
+    },
+    "zh": {
+      "summary": "ナミマガシワモドキ。不等蛤科二枚贝，固着于岩石与贝壳，下壳具足丝孔以附岩，上壳圆扁、具珍珠光泽，见于潮间至浅海岩礁。",
+      "habitat_hint": "潮间至浅海岩礁，固着岩石贝壳。",
+      "finding_tips": "岩石或大贝上寻圆扁具珍珠光泽之薄贝；附着壳具孔为辨识点。"
+    }
+  },
+  "Pogostemon yatabeanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water horehound",
+    "ja": {
+      "summary": "ミズトラノオ。池沼や湿地、休耕田などの湿った場所に生えるシソ科の多年草。細い茎の先に、淡紅紫色の小花が密集した太い花穂を虎の尾状に立てるのが名の由来。葉は3〜4枚輪生する。近年減少している湿地の植物。",
+      "habitat_hint": "池沼・湿地・休耕田などの湿った場所。",
+      "finding_tips": "8〜10月、湿地で淡紅紫色の小花が密集する太い花穂を立てる草本を探す。虎の尾状の花穂と輪生葉が識別点。"
+    },
+    "en": {
+      "summary": "A water horehound (Pogostemon yatabeanus), a mint-family perennial of ponds, wetlands and fallow paddies; it raises a thick spike of densely packed pale reddish-purple flowers like a tiger's tail (its Japanese name) over whorls of three to four leaves. It is a declining wetland plant.",
+      "habitat_hint": "Ponds, wetlands, fallow paddies, damp ground.",
+      "finding_tips": "From August to October in wetland look for a thick spike of pale purple flowers over whorled leaves; the tiger-tail spike is the clue."
+    },
+    "zh": {
+      "summary": "ミズトラノオ。唇形科多年草，生池沼、湿地与休耕田等湿处，细茎顶生淡紫红小花密集之粗花穗如虎尾而得名，叶3〜4枚轮生，为近年减少之湿地植物。",
+      "habitat_hint": "池沼、湿地、休耕田等湿处。",
+      "finding_tips": "8〜10月于湿地寻淡紫红小花密集之粗花穗与轮生叶；虎尾状花穗为辨识点。"
+    }
+  },
+  "Polia goliath": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Owlet moth",
+    "ja": {
+      "summary": "オオシモフリヨトウ。ヤガ科ヨトウガ亜科の大型のガで、前翅は灰白色に黒い霜降り状の模様をもち、樹皮に似た保護色となる。山地の樹林にすみ、幼虫は各種の草本や木本の葉を食べる。灯火に飛来する。",
+      "habitat_hint": "山地の樹林、林縁。",
+      "finding_tips": "初夏〜夏の夜、灯火で灰白色に黒い霜降り模様をもつ大型のヤガを探す。霜降り状の翅模様が識別点。"
+    },
+    "en": {
+      "summary": "A large owlet moth (Polia goliath), a noctuid with grey-white forewings mottled black in a frosted pattern that mimics bark; it lives in montane woodland where the larvae eat various herbs and woody foliage, and comes to light.",
+      "habitat_hint": "Montane woodland, woodland edges.",
+      "finding_tips": "On summer nights at lights look for a large grey-white moth with black frosted mottling; the frosted wing pattern is the clue."
+    },
+    "zh": {
+      "summary": "オオシモフリヨトウ。夜蛾科大型蛾，前翅灰白具黑色霜降状纹、拟树皮为保护色，栖山地林，幼虫食多种草木叶，趋光。",
+      "habitat_hint": "山地树林、林缘。",
+      "finding_tips": "初夏至夏夜于灯下寻灰白具黑霜纹之大夜蛾；霜降翅纹为辨识点。"
+    }
+  },
+  "Polistes riparius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Paper wasp",
+    "ja": {
+      "summary": "トガリフタモンアシナガバチ。スズメバチ科アシナガバチ亜科の細身のハチで、黒地に黄色の斑紋をもつ。低木や草の茎、人家の軒下などに逆さ吊りの巣をつくり、幼虫の餌にイモムシを狩る。刺すので巣に近づくときは注意が必要。",
+      "habitat_hint": "草地・林縁・人家周辺、低木や軒下に営巣。",
+      "finding_tips": "春〜秋、草地や軒下で細い巣柄でぶら下がる巣と、黒地に黄斑の細身のハチを探す。逆さ吊りの巣が識別点。近づきすぎない。"
+    },
+    "en": {
+      "summary": "A paper wasp (Polistes riparius), a slender vespid with a black body marked yellow; it builds an open, downward-hanging paper nest on shrubs, grass stems and under eaves and hunts caterpillars to feed its larvae. It can sting, so keep away from nests.",
+      "habitat_hint": "Grassland, woodland edges and around houses; nests on shrubs and eaves.",
+      "finding_tips": "From spring to autumn look for a small hanging paper nest and a slender black-and-yellow wasp; the exposed hanging comb is the clue. Do not approach closely."
+    },
+    "zh": {
+      "summary": "トガリフタモンアシナガバチ。胡蜂科马蜂类细身蜂，黑底具黄斑，于灌木、草茎与屋檐下筑倒垂纸巢，猎捕青虫饲幼虫，能螫，近巢须谨慎。",
+      "habitat_hint": "草地、林缘、人家周边，灌木屋檐下营巢。",
+      "finding_tips": "春秋于草地屋檐寻细柄倒垂之纸巢与黑底黄斑细蜂；倒垂巢为辨识点，勿近。"
+    }
+  },
+  "Polycera fujitai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "フジタウミウシ。フジタウミウシ科の小型のウミウシ(裸鰓類)で、体は半透明の白っぽい地に黄色や橙色の斑や突起をもつ。岩礁の潮下帯にすみ、コケムシ(苔虫)を主に食べる。頭部や背に突起状の付属物をもつ。",
+      "habitat_hint": "岩礁の海底、潮下帯、コケムシのある所。",
+      "finding_tips": "潮下帯の岩やコケムシのついた基質で、白っぽい地に黄橙色の斑と突起をもつ小型ウミウシを探す。黄橙の斑と突起が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Polycera fujitai), a small polycerid nudibranch with a translucent whitish body marked and tipped with yellow to orange; it lives in the rocky subtidal and feeds mainly on bryozoans, bearing finger-like processes on the head and back.",
+      "habitat_hint": "Rocky seabed, subtidal, where bryozoans grow.",
+      "finding_tips": "In the subtidal on bryozoan-covered rock look for a small whitish nudibranch tipped yellow-orange; the orange-tipped processes are the clue."
+    },
+    "zh": {
+      "summary": "フジタウミウシ。多角海蛞蝓科小型海蛞蝓，体半透明白底具黄橙斑与突起，栖岩礁潮下带，主食苔藓虫，头背具指状附器。",
+      "habitat_hint": "岩礁海底、潮下带、苔藓虫处。",
+      "finding_tips": "潮下带具苔藓虫之岩上寻白底黄橙斑突之小海蛞蝓；黄橙突起为辨识点。"
+    }
+  },
+  "Pongamia pinnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Indian beech",
+    "aliases": {
+      "zh-Hans": "水黄皮"
+    },
+    "ja": {
+      "summary": "クロヨナ。海岸や河口近くに生えるマメ科の常緑高木で、暖地〜熱帯に分布する。羽状複葉をつけ、初夏に淡紅紫色〜白色の蝶形花を房状に咲かせる。豆果は扁平で1個の種子を含み、水に浮いて海流で散布される。海岸林を構成する。",
+      "habitat_hint": "海岸・河口近くの砂地、海岸林(暖地〜熱帯)。",
+      "finding_tips": "初夏、海岸林で羽状複葉と淡紅紫色の蝶形花の房、扁平な豆果をもつ常緑高木を探す。海流散布の扁平な豆果が識別点。"
+    },
+    "en": {
+      "summary": "Indian beech / pongam (Pongamia pinnata), an evergreen legume tree of coasts and estuaries in warm and tropical regions; it has pinnate leaves and clusters of pale pinkish-purple to white pea-flowers in early summer, and its flat one-seeded pods float and disperse on sea currents. It forms coastal woodland.",
+      "habitat_hint": "Coastal and estuarine sand, coastal woodland (warm to tropical).",
+      "finding_tips": "In early summer in coastal woodland look for an evergreen tree with pinnate leaves, pinkish pea-flower clusters and flat pods; the sea-drifted flat pods are the clue."
+    },
+    "zh": {
+      "summary": "クロヨナ（水黄皮）。豆科常绿乔木，生海岸与河口附近，分布暖地至热带，具羽状复叶，初夏生淡紫红至白色蝶形花之花簇，荚扁含一子、浮水随海流散布，构成海岸林。",
+      "habitat_hint": "海岸、河口附近砂地、海岸林（暖地至热带）。",
+      "finding_tips": "初夏于海岸林寻具羽状复叶、淡紫红蝶形花簇与扁荚之常绿乔木；海漂扁荚为辨识点。"
+    }
   }
 }
