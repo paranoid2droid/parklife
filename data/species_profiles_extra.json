@@ -284644,5 +284644,542 @@
       "habitat_hint": "公园、栽植、寺社林、落叶阔叶林。",
       "finding_tips": "寻似榉树而叶略大、锯齿较粗之落叶乔木；榆叶状较大叶与粗锯齿为辨识点。"
     }
+  },
+  "Ablennes hians": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat needlefish",
+    "ja": {
+      "summary": "ハマダツ。暖海の沿岸表層を泳ぐダツ科の細長い魚で、上下のあごが長く伸びて針状の歯が並ぶ。体は側扁して細長く、背は青緑色で腹は銀白色。体側に暗色の横帯が並ぶ。群れで表層を泳ぎ、小魚を追って捕食する。夜、光に集まる習性がある。食用。",
+      "habitat_hint": "暖海の沿岸表層、内湾、外洋の表層。",
+      "finding_tips": "表層で、細長く側扁した体と針状に伸びたあごをもつ銀白色の魚を探す。長い針状のあごと側扁した体が識別点。"
+    },
+    "en": {
+      "summary": "The flat needlefish (Ablennes hians, Belonidae), an elongate fish of warm-water coastal surface waters; both jaws are drawn out into a long beak set with needle-like teeth. The laterally compressed elongate body is blue-green above and silvery below with dark vertical bars. It schools at the surface hunting small fish, is attracted to light at night, and is used for food.",
+      "habitat_hint": "Warm-water coastal surface waters, bays, open-sea surface.",
+      "finding_tips": "At the surface look for an elongate laterally-compressed silvery fish with long needle-like jaws; the long beak on a compressed body is the clue."
+    },
+    "zh": {
+      "summary": "ハマダツ。颌针鱼科细长鱼，游于暖海沿岸表层，上下颌延长成喙、具针状齿，体侧扁细长，背青绿、腹银白，体侧具暗色横带，成群于表层追食小鱼，夜间趋光，供食用。",
+      "habitat_hint": "暖海沿岸表层、内湾、外海表层。",
+      "finding_tips": "于表层寻体细长侧扁、颌延长成针状之银白鱼；长针状颌与侧扁体为辨识点。"
+    }
+  },
+  "Acacia cultriformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Knife-leaf wattle",
+    "aliases": {
+      "zh-Hans": "刀叶金合欢"
+    },
+    "ja": {
+      "summary": "サンカクアカシア。オーストラリア原産のマメ科アカシア属の常緑低木〜小高木で、公園や庭に植えられる。葉に見える部分は三角形の葉状柄(仮葉、フィロード)で、灰緑色。早春に黄色い球状の花を多数つけ、枝いっぱいに咲く。乾燥に強く、暖地で植栽される。",
+      "habitat_hint": "公園、庭園、街路などの植栽(暖地)。",
+      "finding_tips": "早春、三角形の灰緑色の葉(仮葉)をもち黄色い球状の花を枝いっぱいに咲かせる常緑樹を探す。三角形の仮葉と黄色い球状花が識別点。"
+    },
+    "en": {
+      "summary": "The knife-leaf wattle (Acacia cultriformis, Fabaceae), an Australian evergreen shrub to small tree planted in parks and gardens; the leaf-like organs are triangular phyllodes, grey-green in colour. It bears masses of yellow globular flowers in early spring covering the branches, is drought-tolerant and is grown in warm regions.",
+      "habitat_hint": "Parks, gardens, street plantings (warm regions).",
+      "finding_tips": "In early spring look for an evergreen with grey-green triangular phyllodes covered in yellow globular flowers; the triangular phyllodes with yellow ball flowers are the clue."
+    },
+    "zh": {
+      "summary": "サンカクアカシア。豆科金合欢属常绿灌木至小乔，原产澳洲，植于公园庭园，其似叶者为三角形叶状柄（假叶），灰绿，早春满枝生黄色球状花，耐旱，暖地栽植。",
+      "habitat_hint": "公园、庭园、街道栽植（暖地）。",
+      "finding_tips": "早春寻具灰绿三角假叶、满枝黄色球状花之常绿树；三角假叶与黄色球花为辨识点。"
+    }
+  },
+  "Acar plicata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ark clam",
+    "ja": {
+      "summary": "コシロガイ。岩の割れ目やサンゴ礫の間に足糸で付着してすむ小型の二枚貝(フネガイ科)で、殻は白っぽく長方形〜台形。殻表に細かい放射肋と成長肋が交差して格子状になる(plicata=ひだのある)。潮間帯〜浅海の岩礁にすみ、水中の懸濁物を漉して食べる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁の割れ目、サンゴ礫の間。",
+      "finding_tips": "岩礁で、白っぽく長方形で格子状の彫刻をもつ小型の二枚貝を探す。白っぽい格子状彫刻の殻が識別点。"
+    },
+    "en": {
+      "summary": "A small ark clam (Acar plicata, Arcidae) attaching by byssus in rock crevices and among coral rubble; the whitish shell is oblong to trapezoidal, with fine radial and growth ribs crossing into a lattice (plicata = folded). It lives on intertidal to shallow reefs, filtering suspended matter.",
+      "habitat_hint": "Intertidal to shallow reef crevices, among coral rubble.",
+      "finding_tips": "On reefs look for a small whitish oblong bivalve with lattice sculpture; the whitish latticed shell is the clue."
+    },
+    "zh": {
+      "summary": "コシロガイ。栖岩缝与珊瑚砾间、以足丝附着之小型双壳（蚶科），壳白、长方至梯形，壳面细放射肋与生长肋交成格状（plicata 具褶），居潮间带至浅海岩礁，滤食悬浮物。",
+      "habitat_hint": "潮间带至浅海岩礁缝、珊瑚砾间。",
+      "finding_tips": "于岩礁寻白色长方而具格状雕刻之小型双壳；白色格状壳为辨识点。"
+    }
+  },
+  "Acentrogobius nebulosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shadow goby",
+    "ja": {
+      "summary": "ツムギハゼ。暖海の内湾やサンゴ礁の砂底、河口の汽水域にすむハゼ科の小型の魚で、体には雲状(nebulosus=雲状の)の暗色斑が散らばる。フグ毒と同じテトロドトキシンをもつ有毒種として知られ、食べると危険。底近くにすみ、小動物を食べる。",
+      "habitat_hint": "暖海の内湾、サンゴ礁の砂底、河口の汽水域。",
+      "finding_tips": "暖海の砂底で、体に雲状の暗色斑が散らばる小型のハゼを探す。雲状の暗色斑が識別点(有毒・食用不可)。"
+    },
+    "en": {
+      "summary": "The shadow goby (Acentrogobius nebulosus, Gobiidae), a small fish of warm-water bays, reef sand and brackish estuaries; the body is scattered with cloud-like (nebulosus) dark blotches. It is notoriously toxic, containing tetrodotoxin like pufferfish, and is dangerous to eat. It lives near the bottom eating small animals.",
+      "habitat_hint": "Warm-water bays, reef sand, brackish estuaries.",
+      "finding_tips": "On warm-water sand look for a small goby scattered with cloud-like dark blotches; the cloudy dark blotches are the clue (toxic, inedible)."
+    },
+    "zh": {
+      "summary": "ツムギハゼ。鰕虎科小型鱼，栖暖海内湾、珊瑚礁砂底、河口汽水域，体散布云状（nebulosus 云状）暗斑，含与河鲀同之河鲀毒素（tetrodotoxin），食之危险，近底而居，食小动物。",
+      "habitat_hint": "暖海内湾、珊瑚礁砂底、河口汽水域。",
+      "finding_tips": "于暖海砂底寻体散云状暗斑之小型鰕虎；云状暗斑为辨识点（有毒不可食）。"
+    }
+  },
+  "Acer platanoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Norway maple",
+    "aliases": {
+      "zh-Hans": "挪威槭"
+    },
+    "ja": {
+      "summary": "ノルウェーカエデ。ヨーロッパ原産のムクロジ科(カエデ属)の落葉高木で、街路樹や公園樹として植えられる。葉は手のひら状に5〜7裂し、裂片の先がとがる。葉柄を切ると白い乳液が出るのが特徴。春、葉に先だって黄緑色の花を多数つけ、秋には黄色く紅葉する。翼のある果実(翼果)は水平近くに開く。",
+      "habitat_hint": "街路樹、公園樹、植栽地(冷涼〜温帯)。",
+      "finding_tips": "手のひら状に裂け先がとがる葉をもつカエデで、葉柄を切ると白い乳液が出るものを探す。乳液の出る葉柄と水平に開く翼果が識別点。"
+    },
+    "en": {
+      "summary": "The Norway maple (Acer platanoides, Sapindaceae), a European deciduous tree planted as a street and park tree; the palmate leaves have 5-7 sharp-pointed lobes and exude white latex when the petiole is cut. It bears masses of yellow-green flowers before the leaves in spring and turns yellow in autumn, with winged fruits (samaras) spreading nearly horizontally.",
+      "habitat_hint": "Street and park trees, plantings (cool to temperate).",
+      "finding_tips": "Look for a maple with sharply-lobed palmate leaves whose petiole exudes white latex when cut; the milky petiole and near-horizontal samaras are the clue."
+    },
+    "zh": {
+      "summary": "ノルウェーカエデ。无患子科（槭属）落叶乔木，原产欧洲，作行道树与公园树，叶掌状5-7裂、裂片尖，断叶柄出白色乳汁，春先叶开黄绿花多数，秋叶转黄，翅果近水平张开。",
+      "habitat_hint": "行道树、公园树、栽植地（凉至温带）。",
+      "finding_tips": "寻掌状尖裂叶、断叶柄出白乳汁之槭；乳汁叶柄与近水平翅果为辨识点。"
+    }
+  },
+  "Acer rubrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red maple",
+    "aliases": {
+      "zh-Hans": "红花槭"
+    },
+    "ja": {
+      "summary": "アカカエデ。北アメリカ東部原産のムクロジ科(カエデ属)の落葉高木で、公園樹や街路樹として植えられる。葉は3〜5裂し、裂片の縁に鋸歯がある。名(赤)のとおり早春の花・葉柄・翼果・秋の紅葉が赤みを帯びるのが特徴で、鮮やかに紅葉する。湿った土地を好む。",
+      "habitat_hint": "公園樹、街路樹、植栽地、湿った土地。",
+      "finding_tips": "秋、鮮やかに赤く紅葉する3〜5裂の葉をもつカエデを探す。赤い花柄・翼果と鮮紅色の紅葉が識別点。"
+    },
+    "en": {
+      "summary": "The red maple (Acer rubrum, Sapindaceae), a deciduous tree of eastern North America planted as a park and street tree; the 3-5 lobed leaves have toothed margins. True to its name, the early-spring flowers, petioles, samaras and autumn foliage are all reddish, and it colours vividly red in autumn. It favours moist ground.",
+      "habitat_hint": "Park and street trees, plantings, moist ground.",
+      "finding_tips": "In autumn look for a maple with 3-5 lobed leaves turning vivid red; the red flower stalks, samaras and brilliant autumn colour are the clue."
+    },
+    "zh": {
+      "summary": "アカカエデ。无患子科（槭属）落叶乔木，原产北美东部，作公园树与行道树，叶3-5裂、缘具锯齿，如名（赤），早春花、叶柄、翅果与秋叶皆带红，秋鲜红，喜湿地。",
+      "habitat_hint": "公园树、行道树、栽植地、湿地。",
+      "finding_tips": "秋寻3-5裂叶而鲜红变色之槭；红色花梗翅果与鲜红秋叶为辨识点。"
+    }
+  },
+  "Acerentulus keikoae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Proturan",
+    "ja": {
+      "summary": "アズマミスジカマアシムシ。落葉下や土壌中にすむ原始的な微小昆虫(カマアシムシ目)で、体長1〜2mmほど。目や触角をもたず、代わりに前脚を触角のように高く持ち上げて歩く(鎌脚)のが名の由来。土壌中の菌類などを食べる。名(東)のとおり東日本に分布する。",
+      "habitat_hint": "落葉下、腐植土中、朽木の下などの湿った土壌。",
+      "finding_tips": "落葉や土壌をふるって、目も触角もなく前脚を高く上げて歩く1〜2mmの微小な虫を探す。前脚を触角のように上げる姿が識別点(要顕微鏡)。"
+    },
+    "en": {
+      "summary": "A proturan (Acerentulus keikoae, Protura), a primitive minute hexapod of leaf litter and soil, only 1-2 mm long; it lacks eyes and antennae and instead holds its forelegs up like antennae as it walks (the source of the Japanese name 'sickle-legged'). It feeds on soil fungi and occurs in eastern Japan.",
+      "habitat_hint": "Under leaf litter, in humus soil, under rotten wood (moist soil).",
+      "finding_tips": "Sift litter or soil for a 1-2 mm eyeless, antenna-less creature that raises its forelegs like antennae; the raised forelegs are the clue (microscope needed)."
+    },
+    "zh": {
+      "summary": "アズマミスジカマアシムシ。原始微小六足动物（原尾目），栖落叶下与土壤，体长约1-2毫米，无眼无触角，代以前足如触角般高举而行（镰足，名之由来），食土壤菌类，分布东日本。",
+      "habitat_hint": "落叶下、腐殖土中、朽木下湿润土壤。",
+      "finding_tips": "筛落叶土壤寻无眼无触角、前足高举而行之1-2毫米微虫；举前足之姿为辨识点（需显微镜）。"
+    }
+  },
+  "Achlya flavicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow horned moth",
+    "ja": {
+      "summary": "ミスジトガリバ。カギバガ科(トガリバ亜科)のガで、前翅は灰褐色の地に3本ほどの淡色の横線(三筋)が走り、前翅の先がややとがる(尖翅)。触角が黄色みを帯びる(flavicornis=黄色い触角)。早春に出現する。幼虫はカバノキ科などの葉を食べる。夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の落葉広葉樹林、林縁。",
+      "finding_tips": "早春の夜、灯火などで灰褐色地に3本の淡色横線をもち前翅の先がとがるガを探す。3本の横線と尖った前翅が識別点。"
+    },
+    "en": {
+      "summary": "The yellow horned moth (Achlya flavicornis, Drepanidae: Thyatirinae); the grey-brown forewings bear about three pale transverse lines (the source of the Japanese name 'three-line') and a somewhat pointed apex, with yellowish antennae (flavicornis). An early-spring species, its larva feeds on birch-family leaves and adults come to lights.",
+      "habitat_hint": "Low montane to hill deciduous broadleaf woodland, edges.",
+      "finding_tips": "On early-spring nights at lights look for a grey-brown moth with three pale cross-lines and a pointed forewing tip; the three lines with a pointed apex are the clue."
+    },
+    "zh": {
+      "summary": "ミスジトガリバ。钩蛾科（尖翅蛾亚科）之蛾，前翅灰褐具约三条淡色横线（三筋），翅端略尖（尖翅），触角带黄（flavicornis 黄触角），早春出现，幼虫食桦木科叶，夜间趋光。",
+      "habitat_hint": "低山地至丘陵落叶阔叶林、林缘。",
+      "finding_tips": "早春夜于灯下寻灰褐底具三淡横线而翅端尖之蛾；三横线与尖翅端为辨识点。"
+    }
+  },
+  "Achrosis paupera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "フタマエホシエダシャク。シャクガ科(エダシャク亜科)のガで、前翅の前縁付近に一対の暗色の斑点(前星)をもつことが名の由来。地色は淡褐色〜黄褐色。静止時は翅を平らに開く。幼虫はシャクトリムシ型で木本の葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで淡褐色地に前翅前縁付近に一対の暗色斑点をもつエダシャクを探す。前縁の一対の斑点が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Achrosis paupera, Ennominae); a pair of dark spots near the forewing costa gives the Japanese name ('two front-spots geometer'). The ground colour is pale to yellow-brown, and it holds its wings flat at rest. The looper caterpillar feeds on woody-plant leaves and adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a pale-brown geometer with a pair of dark spots near the forewing leading edge; the paired costal spots are the clue."
+    },
+    "zh": {
+      "summary": "フタマエホシエダシャク。尺蛾科（尺蛾亚科）之蛾，前翅前缘附近具一对暗斑（前星，名之由来），底色淡褐至黄褐，静止平展，幼虫尺蠖型食木本叶，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻淡褐底、前翅前缘具一对暗斑之尺蛾；前缘一对斑为辨识点。"
+    }
+  },
+  "Acicnemis dorsonigrita": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Weevil",
+    "ja": {
+      "summary": "アトジロカレキゾウムシ。枯れ枝や朽木にすむゾウムシ科の甲虫で、体は褐色〜黒褐色で、上翅の後方(後端)に白っぽい斑(後白)をもつ。口吻が長く前方に伸びる。枯れ枝や朽木に擬態するように静止し、幼虫は枯れ枝内で育つ。夜行性で灯火に飛来することがある。",
+      "habitat_hint": "枯れ枝、朽木、倒木のある林、林縁。",
+      "finding_tips": "枯れ枝や朽木で、上翅後方に白っぽい斑をもち口吻の長い褐色のゾウムシを探す。後端の白斑と長い口吻が識別点。"
+    },
+    "en": {
+      "summary": "A weevil (Acicnemis dorsonigrita, Curculionidae) living on dead branches and rotten wood; the brown to blackish-brown body has a whitish patch at the rear of the elytra (the source of the Japanese name 'white-rear deadwood weevil') and a long forward-projecting snout. It rests camouflaged on dead branches, and larvae develop within them.",
+      "habitat_hint": "Woodland with dead branches, rotten wood and fallen logs.",
+      "finding_tips": "On dead branches look for a brown weevil with a whitish rear elytral patch and a long snout; the white rear patch with a long snout is the clue."
+    },
+    "zh": {
+      "summary": "アトジロカレキゾウムシ。象甲科甲虫，栖枯枝朽木，体褐至黑褐，鞘翅后端具白斑（后白），喙长前伸，静止时拟态枯枝，幼虫于枯枝内发育，夜行趋光。",
+      "habitat_hint": "具枯枝、朽木、倒木之林、林缘。",
+      "finding_tips": "于枯枝朽木寻鞘翅后端具白斑而喙长之褐色象甲；后端白斑与长喙为辨识点。"
+    }
+  },
+  "Acila mirabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nut clam",
+    "ja": {
+      "summary": "オオキララ。やや深い泥底や砂泥底にすむ二枚貝(クルミガイ科)で、殻は三角形〜卵三角形で、殻表に細かい格子状(雲母のように光る)の彫刻をもつのが特徴。本種は同科の中では大型で、殻の格子彫刻が目立つ。潮下帯の泥中に浅く埋在し、触手で堆積物中の有機物を集めて食べる。",
+      "habitat_hint": "やや深い泥底、砂泥底、内湾〜沖合。",
+      "finding_tips": "海岸や底引きで、三角形で殻表に細かい格子状の彫刻をもつ二枚貝を探す。雲母のように光る格子状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A nut clam (Nuculidae); the triangular to ovate-triangular shell has fine lattice-like (mica-glittering) sculpture. 本種は同科の中では大型で、殻の格子彫刻が目立つ. It buries shallowly in subtidal mud, gathering sediment organic matter with tentacles.",
+      "habitat_hint": "Somewhat deep mud and sand-mud bottoms, bays to offshore.",
+      "finding_tips": "On the beach or in trawls look for a triangular clam with fine lattice sculpture; the mica-glittering lattice sculpture is the clue."
+    },
+    "zh": {
+      "summary": "オオキララ。栖略深泥底砂泥底之双壳（胡桃蛤科），壳三角至卵三角，壳面具细格状（如云母闪光）雕刻。本種は同科の中では大型で、殻の格子彫刻が目立つ。浅埋潮下带泥中，以触手收集沉积有机物取食。",
+      "habitat_hint": "略深泥底、砂泥底、内湾至外海。",
+      "finding_tips": "于海岸或底拖寻三角形而具细格状雕刻之双壳；如云母闪光之格状雕刻为辨识点。"
+    }
+  },
+  "Acila vigilia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nut clam",
+    "ja": {
+      "summary": "カラフトキララガイ。やや深い泥底や砂泥底にすむ二枚貝(クルミガイ科)で、殻は三角形〜卵三角形で、殻表に細かい格子状(雲母のように光る)の彫刻をもつのが特徴。名(樺太)のとおり北方の海に多く、殻はやや小型。潮下帯の泥中に浅く埋在し、触手で堆積物中の有機物を集めて食べる。",
+      "habitat_hint": "やや深い泥底、砂泥底、内湾〜沖合。",
+      "finding_tips": "海岸や底引きで、三角形で殻表に細かい格子状の彫刻をもつ二枚貝を探す。雲母のように光る格子状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A nut clam (Nuculidae); the triangular to ovate-triangular shell has fine lattice-like (mica-glittering) sculpture. 名(樺太)のとおり北方の海に多く、殻はやや小型. It buries shallowly in subtidal mud, gathering sediment organic matter with tentacles.",
+      "habitat_hint": "Somewhat deep mud and sand-mud bottoms, bays to offshore.",
+      "finding_tips": "On the beach or in trawls look for a triangular clam with fine lattice sculpture; the mica-glittering lattice sculpture is the clue."
+    },
+    "zh": {
+      "summary": "カラフトキララガイ。栖略深泥底砂泥底之双壳（胡桃蛤科），壳三角至卵三角，壳面具细格状（如云母闪光）雕刻。名(樺太)のとおり北方の海に多く、殻はやや小型。浅埋潮下带泥中，以触手收集沉积有机物取食。",
+      "habitat_hint": "略深泥底、砂泥底、内湾至外海。",
+      "finding_tips": "于海岸或底拖寻三角形而具细格状雕刻之双壳；如云母闪光之格状雕刻为辨识点。"
+    }
+  },
+  "Acleris abietana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "スジグロハマキ。ハマキガ科(ハマキモドキではなくハマキガ亜科)のガで、前翅は暗色の筋(条)が走る。小型で、静止時は翅を屋根形にたたみ、前翅の縁が波打つ。幼虫は葉を巻いたり綴ったりして中で葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで前翅の縁が波打つ小型のハマキガを探す。翅を屋根形にたたむ小型の姿が識別点(近縁種は斑紋や交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A tortrix moth (Tortricidae); the forewings are 暗色の筋(条)が走る typical of the genus Acleris. Small, it folds its wings roof-like at rest with a scalloped forewing margin, and the larva feeds within rolled or tied leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a small tortrix with a scalloped forewing margin folded roof-like; the small roof-folded form is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "スジグロハマキ。卷蛾科之蛾（Acleris 属），前翅具其属型斑纹，小型，静止时翅呈屋脊状、前翅缘波状，幼虫卷叶或缀叶于内取食，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻前翅缘波状之小型卷蛾；屋脊状小型姿为辨识点（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Acleris expressa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "モンウスイロハマキ。ハマキガ科(ハマキモドキではなくハマキガ亜科)のガで、前翅は淡色の地に紋をもつ。小型で、静止時は翅を屋根形にたたみ、前翅の縁が波打つ。幼虫は葉を巻いたり綴ったりして中で葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで前翅の縁が波打つ小型のハマキガを探す。翅を屋根形にたたむ小型の姿が識別点(近縁種は斑紋や交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A tortrix moth (Tortricidae); the forewings are 淡色の地に紋をもつ typical of the genus Acleris. Small, it folds its wings roof-like at rest with a scalloped forewing margin, and the larva feeds within rolled or tied leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a small tortrix with a scalloped forewing margin folded roof-like; the small roof-folded form is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "モンウスイロハマキ。卷蛾科之蛾（Acleris 属），前翅具其属型斑纹，小型，静止时翅呈屋脊状、前翅缘波状，幼虫卷叶或缀叶于内取食，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻前翅缘波状之小型卷蛾；屋脊状小型姿为辨识点（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Acleris filipjevi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "コウスアオハマキ。ハマキガ科(ハマキモドキではなくハマキガ亜科)のガで、前翅は淡い緑色みを帯びる。小型で、静止時は翅を屋根形にたたみ、前翅の縁が波打つ。幼虫は葉を巻いたり綴ったりして中で葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで前翅の縁が波打つ小型のハマキガを探す。翅を屋根形にたたむ小型の姿が識別点(近縁種は斑紋や交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A tortrix moth (Tortricidae); the forewings are 淡い緑色みを帯びる typical of the genus Acleris. Small, it folds its wings roof-like at rest with a scalloped forewing margin, and the larva feeds within rolled or tied leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a small tortrix with a scalloped forewing margin folded roof-like; the small roof-folded form is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "コウスアオハマキ。卷蛾科之蛾（Acleris 属），前翅具其属型斑纹，小型，静止时翅呈屋脊状、前翅缘波状，幼虫卷叶或缀叶于内取食，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻前翅缘波状之小型卷蛾；屋脊状小型姿为辨识点（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Acleris paradiseana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "ツマモンエグリハマキ。ハマキガ科(ハマキモドキではなくハマキガ亜科)のガで、前翅は翅の端(褄)に紋があり、外縁がえぐれる。小型で、静止時は翅を屋根形にたたみ、前翅の縁が波打つ。幼虫は葉を巻いたり綴ったりして中で葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで前翅の縁が波打つ小型のハマキガを探す。翅を屋根形にたたむ小型の姿が識別点(近縁種は斑紋や交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A tortrix moth (Tortricidae); the forewings are 翅の端(褄)に紋があり、外縁がえぐれる typical of the genus Acleris. Small, it folds its wings roof-like at rest with a scalloped forewing margin, and the larva feeds within rolled or tied leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a small tortrix with a scalloped forewing margin folded roof-like; the small roof-folded form is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "ツマモンエグリハマキ。卷蛾科之蛾（Acleris 属），前翅具其属型斑纹，小型，静止时翅呈屋脊状、前翅缘波状，幼虫卷叶或缀叶于内取食，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻前翅缘波状之小型卷蛾；屋脊状小型姿为辨识点（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Acmaeopleura parvula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shore crab",
+    "ja": {
+      "summary": "ヒメアカイソガニ。河口や内湾の転石の下、岩の割れ目などにすむ小型のカニ(モクズガニ科に近いイワガニ類)で、甲は横長でやや扁平。名(姫)のとおり甲幅は1cm前後と小さい。潮間帯の石をめくると見られ、藻類や有機物を食べる。素早く横歩きで逃げる。",
+      "habitat_hint": "河口、内湾の潮間帯の転石下、岩の割れ目。",
+      "finding_tips": "潮間帯の石をめくり、甲幅1cm前後の横長でやや扁平な小さなカニを探す。ごく小型で横長の甲が識別点。"
+    },
+    "en": {
+      "summary": "A small shore crab (Acmaeopleura parvula, Varunidae) living under stones and in rock crevices of estuaries and bays; the carapace is transversely broad and somewhat flattened, and only about 1 cm wide (the Japanese name means 'dwarf'). Found by turning intertidal stones, it eats algae and detritus and scuttles away sideways.",
+      "habitat_hint": "Estuary and bay intertidal under stones, rock crevices.",
+      "finding_tips": "Turn intertidal stones for a small transversely-broad flattened crab about 1 cm wide; the very small broad carapace is the clue."
+    },
+    "zh": {
+      "summary": "ヒメアカイソガニ。栖河口内湾转石下与岩缝之小型蟹（弓蟹类），甲横宽而略扁，甲宽约1厘米（姫），翻潮间带石可见，食藻类与有机物，横行迅速逃逸。",
+      "habitat_hint": "河口、内湾潮间带转石下、岩缝。",
+      "finding_tips": "翻潮间带石寻甲宽约1厘米、横宽略扁之小蟹；极小横宽甲为辨识点。"
+    }
+  },
+  "Acrolepiopsis sapporensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leek moth",
+    "ja": {
+      "summary": "ネギコガ。ネギやニラなどネギ属(ヒガンバナ科)の葉を食べる小型のガ(スガ上科)で、前翅は褐色で中央付近に白い三角形の紋をもつ。幼虫はネギの葉に潜り込んだり表面を食べたりして食害するため、畑の害虫として知られる。名(札幌)は記載産地に由来する。",
+      "habitat_hint": "ネギ・ニラなどの畑、家庭菜園、ネギ属の生える草地。",
+      "finding_tips": "ネギ畑で、前翅中央に白い三角紋をもつ褐色の小さなガや、葉に食害痕がないか探す。前翅の白い三角紋が識別点。"
+    },
+    "en": {
+      "summary": "The leek moth (Acrolepiopsis sapporensis, Acrolepiidae), a small moth whose larvae feed on the leaves of Allium (leek, chives etc.); the brown forewings have a white triangular mark near the middle. The larva mines and grazes onion leaves and is a known crop pest (the epithet refers to Sapporo, the type locality).",
+      "habitat_hint": "Leek and chive fields, home gardens, grassland with Allium.",
+      "finding_tips": "In leek fields look for a small brown moth with a white triangular forewing mark, or leaf-mining damage; the white triangular mark is the clue."
+    },
+    "zh": {
+      "summary": "ネギコガ。菜蛾类小型蛾，幼虫食葱、韭等葱属（石蒜科）之叶，前翅褐、中央具白色三角纹，幼虫潜叶或食叶面为害，为菜园害虫（种名指记载地札幌）。",
+      "habitat_hint": "葱韭等菜地、家庭菜园、生葱属之草地。",
+      "finding_tips": "于葱地寻前翅中央具白三角纹之褐色小蛾，或查叶上食痕；前翅白三角纹为辨识点。"
+    }
+  },
+  "Acronicta alni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dagger moth",
+    "ja": {
+      "summary": "ハンノケンモン。ヤガ科(ケンモンヤガ亜科)のガで、前翅は灰色系の地に黒い短剣状の紋(ケンモン)をもつ。幼虫は黒地に黄色の帯をもち、体の棍棒状の毛が目立つ独特な姿で、ハンノキやカバノキ科の葉を食べる。中型で、静止時は翅を屋根形にたたむ。幼虫は毛虫状で木本の葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夏の夜、灯火などで灰色地に黒い短剣状の紋をもつ中型のヤガを探す。短剣状の黒紋が識別点。"
+    },
+    "en": {
+      "summary": "A dagger moth (Acronicta, Noctuidae); the greyish forewings bear black dagger-shaped marks (the source of the group name). 幼虫は黒地に黄色の帯をもち、体の棍棒状の毛が目立つ独特な姿で、ハンノキやカバノキ科の葉を食べる. Medium-sized, it folds its wings roof-like at rest, and the hairy caterpillar feeds on woody-plant leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "On summer nights at lights look for a medium grey moth with black dagger-shaped marks; the dagger marks are the clue."
+    },
+    "zh": {
+      "summary": "ハンノケンモン。夜蛾科（剑纹夜蛾亚科）之蛾，前翅灰系具黑色短剑状纹（剑纹）。幼虫は黒地に黄色の帯をもち、体の棍棒状の毛が目立つ独特な姿で、ハンノキやカバノキ科の葉を食べる。中型，静止屋脊状，幼虫毛虫状食木本叶，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夏夜于灯下寻灰底具黑色短剑纹之中型夜蛾；短剑状黑纹为辨识点。"
+    }
+  },
+  "Acronicta catocaloida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dagger moth",
+    "ja": {
+      "summary": "キシタケンモン。ヤガ科(ケンモンヤガ亜科)のガで、前翅は灰色系の地に黒い短剣状の紋(ケンモン)をもつ。後翅が黄色(黄下)を帯びるのが名の由来。中型で、静止時は翅を屋根形にたたむ。幼虫は毛虫状で木本の葉を食べる。低山地の林で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夏の夜、灯火などで灰色地に黒い短剣状の紋をもつ中型のヤガを探す。短剣状の黒紋が識別点。"
+    },
+    "en": {
+      "summary": "A dagger moth (Acronicta, Noctuidae); the greyish forewings bear black dagger-shaped marks (the source of the group name). 後翅が黄色(黄下)を帯びるのが名の由来. Medium-sized, it folds its wings roof-like at rest, and the hairy caterpillar feeds on woody-plant leaves. Adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "On summer nights at lights look for a medium grey moth with black dagger-shaped marks; the dagger marks are the clue."
+    },
+    "zh": {
+      "summary": "キシタケンモン。夜蛾科（剑纹夜蛾亚科）之蛾，前翅灰系具黑色短剑状纹（剑纹）。後翅が黄色(黄下)を帯びるのが名の由来。中型，静止屋脊状，幼虫毛虫状食木本叶，低山地林夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夏夜于灯下寻灰底具黑色短剑纹之中型夜蛾；短剑状黑纹为辨识点。"
+    }
+  },
+  "Actaea semblatae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Reef crab",
+    "ja": {
+      "summary": "サメハダオウギガニ。サンゴ礁や岩礁にすむオウギガニ科のカニで、甲は扇形(扇蟹)で、表面がさめ肌のように細かい顆粒でざらつく(鮫肌)。はさみ脚は太く、指先は黒っぽい。多くのオウギガニ類と同様に毒(渦鞭毛藻由来の毒)をもつことがあり、食用にできない。岩の隙間にひそむ。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の隙間や礫の下。",
+      "finding_tips": "サンゴ礁の岩の隙間で、扇形でさめ肌のようにざらつく甲をもつカニを探す。ざらつく扇形の甲と黒い指先が識別点(有毒の可能性・食用不可)。"
+    },
+    "en": {
+      "summary": "A reef crab (Actaea semblatae, Xanthidae) of coral and rocky reefs; the fan-shaped carapace is roughened by fine granules like shark skin (the source of the Japanese name), and the stout claws have blackish tips. Like many xanthids it can be poisonous (dinoflagellate-derived toxins) and is inedible. It hides in rock crevices.",
+      "habitat_hint": "Warm-water coral and rocky reef crevices, under rubble.",
+      "finding_tips": "In reef crevices look for a fan-shaped crab with a shark-skin-rough carapace and black-tipped claws; the granular fan carapace with black claw tips is the clue (possibly toxic, inedible)."
+    },
+    "zh": {
+      "summary": "サメハダオウギガニ。扇蟹科之蟹，栖珊瑚礁岩礁，甲扇形（扇蟹），面被细颗粒如鲨皮粗涩（鲨肌），螯足粗、指端黑，如众多扇蟹类可含毒（甲藻源毒素）不可食，伏于岩隙。",
+      "habitat_hint": "暖海珊瑚礁、岩礁隙、砾下。",
+      "finding_tips": "于礁隙寻扇形而甲如鲨皮粗涩之蟹；粗颗粒扇甲与黑指端为辨识点（或有毒不可食）。"
+    }
+  },
+  "Adomerus biguttatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Burrowing bug",
+    "ja": {
+      "summary": "フタボシツチカメムシ。地表や落葉下、植物の根際にすむツチカメムシ科のカメムシで、体は黒く光沢があり、左右の上翅(小盾板の脇)に一対の白〜淡色の斑(二星)をもつのが名の由来。土中や落葉下でシソ科などの植物の種子や汁を吸う。母虫が卵や幼虫を保護する亜社会性が知られる。",
+      "habitat_hint": "地表、落葉下、草地や林縁の植物の根際。",
+      "finding_tips": "落葉や地表で、黒く光沢のある体に一対の白い斑をもつ小さなカメムシを探す。黒い体の一対の白斑が識別点。"
+    },
+    "en": {
+      "summary": "A burrowing bug (Adomerus biguttatus, Cydnidae) of ground surface, litter and plant bases; the glossy black body has a pair of white to pale spots on the forewings (the source of the Japanese name 'two-star'). It feeds on the seeds and sap of Lamiaceae and other plants under litter, and is known for subsocial maternal care of eggs and nymphs.",
+      "habitat_hint": "Ground surface, under litter, plant bases in grassland and edges.",
+      "finding_tips": "In litter or on the ground look for a small glossy black bug with a pair of white spots; the black body with paired white spots is the clue."
+    },
+    "zh": {
+      "summary": "フタボシツチカメムシ。土蝽科之蝽，栖地表、落叶下、植物根际，体黑具光泽，前翅具一对白至淡色斑（二星，名之由来），于土中落叶下吸唇形科等植物之种子与汁，具母虫护卵护幼之亚社会性。",
+      "habitat_hint": "地表、落叶下、草地林缘植物根际。",
+      "finding_tips": "于落叶地表寻黑亮而具一对白斑之小蝽；黑体一对白斑为辨识点。"
+    }
+  },
+  "Aegires villosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "センヒメウミウシ。岩礁や礫底にすむ小型のウミウシ(裸鰓類のミカドウミウシ類に近いAegiresのなかまでカイメンやコケムシを食べる)で、体表に多数の小さな突起(villosus=毛深い)をもち、ざらついた見た目。地色は淡色〜黄白色。海綿の上を這い、それを食べる。潮下帯の岩礁に見られる。",
+      "habitat_hint": "潮間帯下部〜浅海の岩礁、礫底、海綿の周辺。",
+      "finding_tips": "岩礁で海綿の上を這う、体表に小突起の多いざらついた小型のウミウシを探す。ざらついた突起の多い体が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Aegires villosus, Aegiridae), a small nudibranch of rock and gravel bottoms; the body bears numerous small tubercles (villosus = shaggy) giving a rough look, pale to yellowish-white. It creeps on sponges, feeding on them, and is seen on subtidal reefs.",
+      "habitat_hint": "Lower intertidal to shallow reef, gravel, around sponges.",
+      "finding_tips": "On reefs look on sponges for a small pale sea slug with a rough tuberculate body; the many small tubercles are the clue."
+    },
+    "zh": {
+      "summary": "センヒメウミウシ。海蛞蝓（裸鳃类 Aegires 类），栖岩礁砾底之小型种，体表具众多小突起（villosus 多毛）而显粗糙，色淡至黄白，爬于海绵上食之，见于潮下带岩礁。",
+      "habitat_hint": "潮间带下部至浅海岩礁、砾底、海绵周边。",
+      "finding_tips": "于岩礁海绵上寻体表多小突起而粗糙之淡色小海蛞蝓；多小突起之体为辨识点。"
+    }
+  },
+  "Aethina flavicollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sap beetle",
+    "ja": {
+      "summary": "クロモンムクゲケシキスイ。花や樹液、朽ちた果実などに集まる小型の甲虫(ケシキスイ科)で、体は黒っぽく、前胸(首)が黄色みを帯びる(flavicollis=黄色い首)。体に細かい毛(むくげ)がある。花粉や発酵した樹液・果実を食べる。ケシキスイ科らしく数mmと小さい。",
+      "habitat_hint": "花、樹液の出る木、腐った果実、堆肥のまわり。",
+      "finding_tips": "花や樹液で、黒っぽく前胸が黄色みを帯びる数mmの微小な甲虫を探す。黒い体に黄色い前胸が識別点。"
+    },
+    "en": {
+      "summary": "A sap beetle (Aethina flavicollis, Nitidulidae), a small beetle gathering at flowers, sap and rotting fruit; the dark body has a yellowish pronotum ('neck', flavicollis) and is finely hairy. It feeds on pollen and fermenting sap and fruit, and like other nitidulids is only a few millimetres long.",
+      "habitat_hint": "Flowers, sap-running trees, rotting fruit, around compost.",
+      "finding_tips": "At flowers or sap look for a dark few-millimetre beetle with a yellowish pronotum; the dark body with a yellow neck is the clue."
+    },
+    "zh": {
+      "summary": "クロモンムクゲケシキスイ。露尾甲科小型甲虫，聚于花、树液、腐果，体黑、前胸（颈）带黄（flavicollis 黄颈），体具细毛，食花粉与发酵树液果实，如露尾甲类仅数毫米。",
+      "habitat_hint": "花、流树液之树、腐果、堆肥周边。",
+      "finding_tips": "于花或树液寻体黑而前胸带黄之数毫米微小甲虫；黑体黄胸为辨识点。"
+    }
   }
 }
