@@ -287332,5 +287332,536 @@
       "habitat_hint": "低山地至丘陵林、林缘、溪畔。",
       "finding_tips": "夜于灯下寻白底具淡细横线之纤弱小型波尺蛾；白底淡细线之纤弱翅为辨识点。"
     }
+  },
+  "Astraeus koreanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Barometer earthstar",
+    "ja": {
+      "summary": "コツチグリ。乾いた林や砂地、道端などの地上に発生する腹菌類(ツチグリ科)のきのこで、成熟すると外皮が星形に数片に裂け開き、中央の袋(胞子袋)から胞子を出す。ツチグリに似るが小型(小土栗)。外皮は湿ると開き乾くと閉じる湿度計のような性質をもつ。胞子は雨滴などで飛散する。",
+      "habitat_hint": "乾いた林、砂地、道端、崖地の地上。",
+      "finding_tips": "乾いた地面で、外皮が星形に裂け開き中央に胞子袋をもつ小型のきのこを探す。星形に裂ける外皮と中央の胞子袋が識別点。"
+    },
+    "en": {
+      "summary": "A barometer earthstar (Astraeus koreanus, Diplocystidiaceae) fruiting on dry woodland, sandy and roadside ground; at maturity the outer wall splits into a star of several rays and the central spore sac releases spores. It resembles the common earthstar but is smaller, and the rays open when damp and close when dry, like a hygrometer. Spores are dispersed by raindrops.",
+      "habitat_hint": "Dry woodland, sandy ground, roadsides, banks.",
+      "finding_tips": "On dry ground look for a small star-splitting fungus with a central spore sac; the star-splitting outer wall with a central sac is the clue."
+    },
+    "zh": {
+      "summary": "コツチグリ。腹菌类（地星科）之菌，生干燥林地、砂地、路旁地上，成熟时外皮裂成星形数瓣、中央孢子袋释孢，似地星而小（小土栗），外皮湿则开、干则闭如湿度计，孢子借雨滴散播。",
+      "habitat_hint": "干燥林地、砂地、路旁、崖地。",
+      "finding_tips": "于干地寻外皮裂成星形、中央具孢子袋之小型菌；星裂外皮与中央孢子袋为辨识点。"
+    }
+  },
+  "Astralium heimburgi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star turban snail",
+    "ja": {
+      "summary": "カサウラウズ。暖海の岩礁やサンゴ礁にすむ巻貝(リュウテン科ウラウズガイ類)で、殻は円錐形で底面が平たく、殻の周縁に鱗片状〜棘状の突起が星形に並ぶ。ふた(蓋)は厚い石灰質。殻はやや低く笠(かさ)状に平たく広がる。岩の上を這って付着藻類を削り取って食べる。殻はしばしば海藻や石灰藻に覆われる。",
+      "habitat_hint": "暖海の潮間帯下部〜浅海の岩礁、サンゴ礁。",
+      "finding_tips": "岩礁で、円錐形で周縁に鱗片状の突起が星形に並ぶ巻貝と、厚い石灰質のふたを探す。星形に並ぶ周縁の突起と石灰質のふたが識別点。"
+    },
+    "en": {
+      "summary": "A star turban snail (Turbinidae) of warm-water rock and coral reef; the conical shell has a flat base and a periphery ringed with scaly to spiny star-like projections, with a thick calcareous operculum. 殻はやや低く笠(かさ)状に平たく広がる. It grazes attached algae while creeping over rock, and the shell is often overgrown with seaweed and coralline algae.",
+      "habitat_hint": "Warm-water lower intertidal to shallow rock and coral reef.",
+      "finding_tips": "On reefs look for a conical snail with a star-like ring of scaly projections and a thick calcareous operculum; the star-ringed periphery and calcareous lid are the clue."
+    },
+    "zh": {
+      "summary": "カサウラウズ。蝾螺科（星螺类）之螺，栖暖海岩礁与珊瑚礁，壳圆锥、底平，壳周缘具鳞片至棘状突起呈星形排列，厣厚石灰质。殻はやや低く笠(かさ)状に平たく広がる。爬于岩面刮食附着藻类，壳常被海藻与石灰藻覆盖。",
+      "habitat_hint": "暖海潮间带下部至浅海岩礁、珊瑚礁。",
+      "finding_tips": "于岩礁寻圆锥而周缘具鳞片状突起呈星形之螺与厚石灰质厣；星形周缘突起与石灰厣为辨识点。"
+    }
+  },
+  "Astralium rhodostomum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Star turban snail",
+    "ja": {
+      "summary": "オオウラウズガイ。暖海の岩礁やサンゴ礁にすむ巻貝(リュウテン科ウラウズガイ類)で、殻は円錐形で底面が平たく、殻の周縁に鱗片状〜棘状の突起が星形に並ぶ。ふた(蓋)は厚い石灰質。同類の中では大型(大)で、殻口の内側が紅色(rhodostomum=紅色の口)を帯びる。岩の上を這って付着藻類を削り取って食べる。殻はしばしば海藻や石灰藻に覆われる。",
+      "habitat_hint": "暖海の潮間帯下部〜浅海の岩礁、サンゴ礁。",
+      "finding_tips": "岩礁で、円錐形で周縁に鱗片状の突起が星形に並ぶ巻貝と、厚い石灰質のふたを探す。星形に並ぶ周縁の突起と石灰質のふたが識別点。"
+    },
+    "en": {
+      "summary": "A star turban snail (Turbinidae) of warm-water rock and coral reef; the conical shell has a flat base and a periphery ringed with scaly to spiny star-like projections, with a thick calcareous operculum. 同類の中では大型(大)で、殻口の内側が紅色(rhodostomum=紅色の口)を帯びる. It grazes attached algae while creeping over rock, and the shell is often overgrown with seaweed and coralline algae.",
+      "habitat_hint": "Warm-water lower intertidal to shallow rock and coral reef.",
+      "finding_tips": "On reefs look for a conical snail with a star-like ring of scaly projections and a thick calcareous operculum; the star-ringed periphery and calcareous lid are the clue."
+    },
+    "zh": {
+      "summary": "オオウラウズガイ。蝾螺科（星螺类）之螺，栖暖海岩礁与珊瑚礁，壳圆锥、底平，壳周缘具鳞片至棘状突起呈星形排列，厣厚石灰质。同類の中では大型(大)で、殻口の内側が紅色(rhodostomum=紅色の口)を帯びる。爬于岩面刮食附着藻类，壳常被海藻与石灰藻覆盖。",
+      "habitat_hint": "暖海潮间带下部至浅海岩礁、珊瑚礁。",
+      "finding_tips": "于岩礁寻圆锥而周缘具鳞片状突起呈星形之螺与厚石灰质厣；星形周缘突起与石灰厣为辨识点。"
+    }
+  },
+  "Astrea curta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coral",
+    "ja": {
+      "summary": "マルキクメイシ。暖海の浅い海の岩礁やサンゴ礁にすむ造礁サンゴ(キクメイシ科)で、群体はかたまり状〜半球状になり、表面に多数の丸みのある個虫の骨格(ポリプの入る杯=莢)が菊の花や亀甲のように密に並ぶ(菊目石)。褐虫藻と共生し、日光を受けて成長する。サンゴ礁を形づくる。",
+      "habitat_hint": "暖海の浅い岩礁、サンゴ礁、礁池。",
+      "finding_tips": "浅い岩礁で、表面に丸い杯が菊の花状に密に並ぶかたまり状の造礁サンゴを探す。菊の花状に並ぶ丸い個虫の杯が識別点。"
+    },
+    "en": {
+      "summary": "A reef-building coral (Astrea curta, Merulinidae) of shallow warm-water rock and reef; the colony forms a massive to hemispherical mound whose surface bears many rounded corallites (polyp cups) packed like chrysanthemum flowers or a tortoiseshell (the source of the Japanese name). It hosts symbiotic zooxanthellae, grows in sunlight and builds reef.",
+      "habitat_hint": "Shallow warm-water rock, coral reef, reef pools.",
+      "finding_tips": "On shallow reefs look for a massive coral whose surface has rounded corallites packed like chrysanthemum flowers; the flower-like packed round cups are the clue."
+    },
+    "zh": {
+      "summary": "マルキクメイシ。造礁珊瑚（菊珊瑚科），栖暖海浅岩礁与珊瑚礁，群体块状至半球，表面密布圆润珊瑚杯（虫体杯）如菊花或龟甲（菊目石），与虫黄藻共生、受日光而生长、造礁。",
+      "habitat_hint": "暖海浅岩礁、珊瑚礁、礁池。",
+      "finding_tips": "于浅岩礁寻表面圆杯密排如菊花之块状造礁珊瑚；菊花状密排圆杯为辨识点。"
+    }
+  },
+  "Astygisa morosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ヨスジアカエダシャク。シャクガ科(エダシャク亜科)のガで、前翅は赤褐色〜橙褐色を帯び、翅を横切る数本(四筋ほど)の暗色の線が走る。静止時は翅を平らに開く。幼虫はシャクトリムシ型で木本の葉を食べる。低山地の林で夜間に灯火へ飛来する。赤みを帯びた翅と数本の横線が目立つ。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで赤褐色の翅に数本の暗色の横線をもつエダシャクを探す。赤褐色の地と数本の横線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Astygisa morosa, Ennominae); the forewings are red-brown to orange-brown, crossed by several (about four) dark lines, and held flat at rest. The looper caterpillar feeds on woody-plant leaves, and adults come to lights in low montane woodland. The reddish wings with several cross-lines stand out.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a red-brown geometer crossed by several dark lines; the reddish ground with several cross-lines is the clue."
+    },
+    "zh": {
+      "summary": "ヨスジアカエダシャク。尺蛾科（尺蛾亚科）之蛾，前翅红褐至橙褐、横贯数条（约四筋）暗线，静止平展，幼虫尺蠖型食木本叶，低山地林夜间趋光，红翅与数横线醒目。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻红褐翅具数条暗横线之尺蛾；红褐底与数横线为辨识点。"
+    }
+  },
+  "Atagema intecta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dorid nudibranch",
+    "ja": {
+      "summary": "カイメンウミウシ。岩礁や礫底にすむドーリス類(イボウミウシに近い)のウミウシで、体は硬めで扁平、背面はざらついて多数の小突起があり、カイメン(海綿)そっくりに見えるのが名の由来。背の後方に羽状の二次鰓、頭部に一対の触角をもつ。カイメンを食べる肉食性で、擬態して岩上でカイメンにまぎれる。",
+      "habitat_hint": "潮間帯下部〜浅海の岩礁、礫底、カイメンの周辺。",
+      "finding_tips": "岩礁で、扁平でざらつきカイメンそっくりに見える地味なウミウシを探す。カイメン状のざらついた扁平な体が識別点。"
+    },
+    "en": {
+      "summary": "A dorid nudibranch (Atagema intecta) of rock and gravel bottoms; the firm, flattened body has a rough back covered with many small tubercles, looking just like a sponge (the source of the Japanese name), with feathery secondary gills at the rear and a pair of rhinophores. A sponge-eating carnivore, it hides on rock camouflaged among sponges.",
+      "habitat_hint": "Lower intertidal to shallow reef, gravel, around sponges.",
+      "finding_tips": "On reefs look for a flattened rough drab sea slug that looks just like a sponge; the sponge-like rough flattened body is the clue."
+    },
+    "zh": {
+      "summary": "カイメンウミウシ。多角海蛞蝓类（近疣海蛞蝓）之海蛞蝓，栖岩礁砾底，体硬而扁、背粗具众多小突、酷似海绵（和名之由来），后部具羽状二次鳃、头具一对触角，肉食性食海绵，拟态混于岩上海绵。",
+      "habitat_hint": "潮间带下部至浅海岩礁、砾底、海绵周边。",
+      "finding_tips": "于岩礁寻扁平粗糙酷似海绵之朴素海蛞蝓；海绵状粗糙扁平体为辨识点。"
+    }
+  },
+  "Atherinomorus lacunosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hardyhead silverside",
+    "ja": {
+      "summary": "ヤクシマイワシ。暖海の沿岸表層やサンゴ礁の礁池にすむトウゴロウイワシ科の小型の魚で、体は細長く半透明で、体側に銀白色の縦帯が1本走る。イワシの名がつくがニシン科のイワシとは別のなかま。大群で表層を泳ぎ、プランクトンを食べる。名(屋久島)は分布にちなむ。",
+      "habitat_hint": "暖海の沿岸表層、サンゴ礁の礁池、内湾。",
+      "finding_tips": "暖海の沿岸で、細長く半透明で体側に銀白色の縦帯をもつ小魚の群れを探す。銀白色の縦帯と半透明の体が識別点。"
+    },
+    "en": {
+      "summary": "A hardyhead silverside (Atherinomorus lacunosus, Atherinidae), a small fish of warm-water coastal surface waters and reef pools; the elongate translucent body has a silvery-white lateral stripe. Despite the Japanese name meaning 'sardine', it is not a true (clupeid) sardine. It schools at the surface eating plankton (the name refers to Yakushima).",
+      "habitat_hint": "Warm-water coastal surface waters, reef pools, bays.",
+      "finding_tips": "In warm coastal water look for schools of elongate translucent small fish with a silvery lateral stripe; the silvery stripe on a translucent body is the clue."
+    },
+    "zh": {
+      "summary": "ヤクシマイワシ。银汉鱼科小型鱼，栖暖海沿岸表层与珊瑚礁礁池，体细长半透明、体侧具一银白纵带，虽名『鰛』而非鲱科真沙丁鱼，成大群游于表层食浮游生物（名源屋久岛）。",
+      "habitat_hint": "暖海沿岸表层、珊瑚礁礁池、内湾。",
+      "finding_tips": "于暖海沿岸寻细长半透明、体侧具银白纵带之小鱼群；银白纵带与半透明体为辨识点。"
+    }
+  },
+  "Atherinomorus pinguis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silverside",
+    "ja": {
+      "summary": "ホソオビヤクシマイワシ。暖海の沿岸表層やサンゴ礁の礁池にすむトウゴロウイワシ科の小型の魚で、ヤクシマイワシに似るが、体側の銀白色の縦帯がやや細い(細帯)。体は細長く半透明。大群で表層を泳ぎ、プランクトンを食べる。ニシン科のイワシとは別のなかま。",
+      "habitat_hint": "暖海の沿岸表層、サンゴ礁の礁池、内湾。",
+      "finding_tips": "暖海の沿岸で、細長く半透明で体側の銀白色の縦帯がやや細い小魚の群れを探す。やや細い銀白色の縦帯が識別点。"
+    },
+    "en": {
+      "summary": "A silverside (Atherinomorus pinguis, Atherinidae), a small fish of warm-water coastal surface waters and reef pools resembling the hardyhead silverside but with a somewhat narrower silvery lateral stripe. The elongate body is translucent, and it schools at the surface eating plankton. It is not a true (clupeid) sardine.",
+      "habitat_hint": "Warm-water coastal surface waters, reef pools, bays.",
+      "finding_tips": "In warm coastal water look for schools of elongate translucent small fish with a rather narrow silvery lateral stripe; the narrow silvery stripe is the clue."
+    },
+    "zh": {
+      "summary": "ホソオビヤクシマイワシ。银汉鱼科小型鱼，栖暖海沿岸表层与珊瑚礁礁池，似前种而体侧银白纵带略细（细带），体细长半透明，成大群游于表层食浮游生物，非鲱科真沙丁鱼。",
+      "habitat_hint": "暖海沿岸表层、珊瑚礁礁池、内湾。",
+      "finding_tips": "于暖海沿岸寻细长半透明、体侧银白纵带略细之小鱼群；略细银白纵带为辨识点。"
+    }
+  },
+  "Athetis lapidea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "ヒメウスグロヨトウ。ヤガ科(ウスグロヨトウ類、Athetis)の小型のガで、前翅は灰褐色〜暗褐色で地味な色調。同類の中では小型(姫)で、前翅に淡色の細点をもつことがある。静止時は翅を屋根形にたたむ。幼虫はヨトウムシ型で、枯れ葉や低い草本を食べるとされる。低地〜低山地の草地や林縁で夜間に灯火へ飛来する。",
+      "habitat_hint": "低地〜低山地の草地、林縁、河原。",
+      "finding_tips": "夜、灯火などで灰褐色で地味な小型のヤガを探す。地味な灰褐色の小型の翅が手がかり(近縁種は斑紋・交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Athetis, Noctuidae), a small moth with drab grey-brown to dark-brown forewings; 同類の中では小型(姫)で、前翅に淡色の細点をもつことがある. It folds its wings roof-like at rest, and the cutworm-type larva is thought to feed on withered leaves and low herbs. Adults come to lights in lowland to low-montane grassland and edges.",
+      "habitat_hint": "Lowland to low-montane grassland, edges, riverbanks.",
+      "finding_tips": "At night at lights look for a small drab grey-brown noctuid; the drab small grey-brown wings are the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "ヒメウスグロヨトウ。夜蛾科（暗夜盗类，Athetis）小型蛾，前翅灰褐至暗褐、色调朴素，同類の中では小型(姫)で、前翅に淡色の細点をもつことがある。静止屋脊状，幼虫夜盗型据信食枯叶与低矮草本，低地至低山地草地林缘夜间趋光。",
+      "habitat_hint": "低地至低山地草地、林缘、河滩。",
+      "finding_tips": "夜于灯下寻灰褐朴素之小型夜蛾；朴素灰褐小翅为线索（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Athetis pallidipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "キバネシロテンウスグロヨトウ。ヤガ科(ウスグロヨトウ類、Athetis)の小型のガで、前翅は灰褐色〜暗褐色で地味な色調。前翅がやや黄色みを帯び(黄翅)、白い小点(白点)をもつ。静止時は翅を屋根形にたたむ。幼虫はヨトウムシ型で、枯れ葉や低い草本を食べるとされる。低地〜低山地の草地や林縁で夜間に灯火へ飛来する。",
+      "habitat_hint": "低地〜低山地の草地、林縁、河原。",
+      "finding_tips": "夜、灯火などで灰褐色で地味な小型のヤガを探す。地味な灰褐色の小型の翅が手がかり(近縁種は斑紋・交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A noctuid moth (Athetis, Noctuidae), a small moth with drab grey-brown to dark-brown forewings; 前翅がやや黄色みを帯び(黄翅)、白い小点(白点)をもつ. It folds its wings roof-like at rest, and the cutworm-type larva is thought to feed on withered leaves and low herbs. Adults come to lights in lowland to low-montane grassland and edges.",
+      "habitat_hint": "Lowland to low-montane grassland, edges, riverbanks.",
+      "finding_tips": "At night at lights look for a small drab grey-brown noctuid; the drab small grey-brown wings are the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "キバネシロテンウスグロヨトウ。夜蛾科（暗夜盗类，Athetis）小型蛾，前翅灰褐至暗褐、色调朴素，前翅がやや黄色みを帯び(黄翅)、白い小点(白点)をもつ。静止屋脊状，幼虫夜盗型据信食枯叶与低矮草本，低地至低山地草地林缘夜间趋光。",
+      "habitat_hint": "低地至低山地草地、林缘、河滩。",
+      "finding_tips": "夜于灯下寻灰褐朴素之小型夜蛾；朴素灰褐小翅为线索（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Atriplex maximowicziana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Saltbush",
+    "ja": {
+      "summary": "ミヤコジマハマアカザ。暖地の海岸の砂地や岩場、塩性地に生えるヒユ科(アカザ科)の一年草で、全体が白っぽい粉状の粒(鱗片)におおわれ、しばしば銀白色に見える。葉は三角形〜菱形で、塩分や乾燥に強い。名のとおり宮古島など南西諸島の海岸に分布する。目立たない緑色の小さな花をつける。",
+      "habitat_hint": "暖地の海岸の砂地、岩場、塩性地、砂礫海岸。",
+      "finding_tips": "暖地の海岸で、全体が白っぽい粉状の粒におおわれ三角形の葉をもつ塩生植物を探す。白い粉におおわれた三角形の葉が識別点。"
+    },
+    "en": {
+      "summary": "A saltbush (Atriplex maximowicziana, Amaranthaceae), an annual of warm-region coastal sand, rocky and saline ground; the whole plant is covered in whitish mealy scales, often looking silvery, with triangular to rhombic leaves and tolerance of salt and drought. It occurs on Ryukyu coasts including Miyakojima, bearing inconspicuous small green flowers.",
+      "habitat_hint": "Warm-region coastal sand, rocky ground, saline ground, sand-gravel shores.",
+      "finding_tips": "On warm-region coasts look for a salt-tolerant plant covered in whitish mealy scales with triangular leaves; the mealy-white triangular leaves are the clue."
+    },
+    "zh": {
+      "summary": "ミヤコジマハマアカザ。苋科（藜科）一年草，生暖地海岸砂地、岩场、盐地，全株被白粉状粒（鳞片）、常显银白，叶三角至菱形，耐盐耐旱，分布宫古岛等西南诸岛海岸，花小绿色不显。",
+      "habitat_hint": "暖地海岸砂地、岩场、盐地、砂砾海岸。",
+      "finding_tips": "于暖地海岸寻全株被白粉状粒、叶三角之盐生植物；被白粉之三角叶为辨识点。"
+    }
+  },
+  "Aulacofusus esychus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Whelk",
+    "ja": {
+      "summary": "ツムバイ。やや深い砂泥底にすむ巻貝(エゾバイ科)で、殻は紡錘形(つむ形)で殻塔が高く、螺状の肋や彫刻をもつ。淡褐色の殻皮に覆われる。肉食性・腐肉食性で、他の小動物や死骸を食べる。北日本以北のやや冷たい海に多い。バイ(貝)のなかまとして底引きで得られる。",
+      "habitat_hint": "やや深い砂泥底、砂底、北方の冷たい海。",
+      "finding_tips": "底引きや海岸で、紡錘形で殻塔が高く螺状の肋をもつ巻貝を探す。紡錘形で高い殻塔と螺状の肋が識別点。"
+    },
+    "en": {
+      "summary": "A whelk (Aulacofusus esychus, Buccinidae) of somewhat deep sand-mud bottoms; the fusiform (spindle) shell has a tall spire with spiral ribs and sculpture, covered by a pale-brown periostracum. A carnivore and scavenger, it eats small animals and carrion, and is common in the cooler seas of northern Japan and beyond, taken in trawls.",
+      "habitat_hint": "Somewhat deep sand-mud and sand bottoms, cold northern seas.",
+      "finding_tips": "In trawls or on the beach look for a fusiform snail with a tall spire and spiral ribs; the spindle shape with a tall ribbed spire is the clue."
+    },
+    "zh": {
+      "summary": "ツムバイ。蛾螺科之螺，栖略深砂泥底，壳纺锤形（纺锤）、螺塔高、具螺旋肋与雕刻，被淡褐壳皮，肉食兼食腐，食小动物与尸体，多见于北日本以北略冷之海，作蛾螺类以底拖得之。",
+      "habitat_hint": "略深砂泥底、砂底、北方冷海。",
+      "finding_tips": "于底拖或海岸寻纺锤形、螺塔高而具螺旋肋之螺；纺锤形与高螺塔螺肋为辨识点。"
+    }
+  },
+  "Aulacomnium heterostichum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ナガミチョウチンゴケ。湿った林床や腐植土、朽木の上に生えるコバノチョウチンゴケ科(Aulacomnium)の蘚類で、茎は直立し、卵形〜舌形の葉を左右2列的に(heterostichum=不ぞろいに列をなす)つける。名(長実)のとおり蒴(さく)が細長い。しばしば茎の先に無性芽の集まりをつけてふえる。",
+      "habitat_hint": "湿った林床、腐植土、朽木の上、沢沿いの木陰。",
+      "finding_tips": "湿った林床で、直立した茎に卵形の葉をつける中型の緑色の蘚を探す。直立する茎と細長い蒴が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Aulacomnium heterostichum, Aulacomniaceae) growing on moist forest floor, humus and rotten wood; the erect stems bear ovate to tongue-shaped leaves arranged somewhat two-ranked (heterostichum = unequally ranked). The Japanese name ('long-fruited') refers to the elongate capsule, and it often propagates by clusters of gemmae at the stem tips.",
+      "habitat_hint": "Moist forest floor, humus, rotten wood, shaded ravines.",
+      "finding_tips": "On moist forest floor look for a medium green moss with erect stems bearing ovate leaves; the erect stems with an elongate capsule are the clue."
+    },
+    "zh": {
+      "summary": "ナガミチョウチンゴケ。皱蒴藓科（Aulacomnium）藓类，生湿润林床、腐殖土、朽木，茎直立、生卵形至舌形叶而略成两列（heterostichum 不等列），和名（长实）指蒴细长，常于茎顶生芽胞团繁殖。",
+      "habitat_hint": "湿润林床、腐殖土、朽木上、沢畔树荫。",
+      "finding_tips": "于湿润林床寻茎直立、生卵形叶之中型绿藓；直立茎与细长蒴为辨识点。"
+    }
+  },
+  "Aureoboletus thibetanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bolete",
+    "ja": {
+      "summary": "ヌメリコウジタケ。夏〜秋、ブナ科など広葉樹林の地上に発生するイグチ科のきのこで、傘は紅色〜赤褐色(麹色)を帯び、湿ると強い粘性(ぬめり)をもつ。管孔(裏の孔)は黄色。柄は細めで、しばしば粘る。菌根菌で、樹木の根と共生する。ぬめりのある赤い傘が特徴。",
+      "habitat_hint": "夏〜秋、ブナ科など広葉樹林の地上。",
+      "finding_tips": "夏〜秋、林の地上で紅色〜赤褐色で湿ると強く粘る傘と黄色い管孔をもつイグチを探す。粘る赤い傘と黄色い管孔が識別点。"
+    },
+    "en": {
+      "summary": "A bolete (Aureoboletus thibetanus, Boletaceae) fruiting on the ground in broadleaf (esp. Fagaceae) woodland in summer to autumn; the cap is reddish to red-brown and strongly viscid when wet, and the pores are yellow. The slender stipe is often slimy. It is ectomycorrhizal, symbiotic with tree roots — the slimy red cap is characteristic.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf (esp. Fagaceae) woodland.",
+      "finding_tips": "In summer to autumn on the woodland floor look for a bolete with a reddish strongly-slimy cap and yellow pores; the slimy red cap with yellow pores is the clue."
+    },
+    "zh": {
+      "summary": "ヌメリコウジタケ。牛肝菌科真菌，夏秋生壳斗科等阔叶林地上，盖红至红褐（麹色）、湿时强黏，管孔黄，柄细而常黏，为菌根菌、与树根共生，黏红盖为特征。",
+      "habitat_hint": "夏秋壳斗科等阔叶林地上。",
+      "finding_tips": "夏秋于林地寻盖红而湿时强黏、管孔黄之牛肝菌；黏红盖与黄管孔为辨识点。"
+    }
+  },
+  "Auriscalpium vulgare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pinecone tooth fungus",
+    "ja": {
+      "summary": "マツカサタケ。地面に落ちて埋もれたマツ(松)などの球果(松かさ)から発生する小型のきのこ(マツカサタケ科)で、傘は褐色で腎形〜円形、柄が傘の横に偏ってつく。傘の裏には針状の突起(歯)が多数垂れ下がり、そこに胞子をつくる。名のとおり松かさを分解して育つ。秋〜冬に見られる。",
+      "habitat_hint": "地面に落ちて埋もれたマツなどの球果の上。",
+      "finding_tips": "林床で、落ちた松かさから生える褐色で柄が横につく小型のきのこを探す。松かさから出て裏に針状突起をもつ傘が識別点。"
+    },
+    "en": {
+      "summary": "The pinecone tooth fungus (Auriscalpium vulgare, Auriscalpiaceae), a small mushroom fruiting from fallen buried pine cones; the brown cap is kidney-shaped to round with the stipe attached at the side, and the underside hangs with many tooth-like spines that bear the spores. As the name says, it grows by decomposing pine cones and is seen in autumn to winter.",
+      "habitat_hint": "On fallen buried pine (and other conifer) cones.",
+      "finding_tips": "On the forest floor look for a small brown side-stalked mushroom growing from a fallen pine cone; the cone origin with tooth-like spines beneath is the clue."
+    },
+    "zh": {
+      "summary": "マツカサタケ。耳匙菌科小型菌，生于落地埋没之松等球果（松果）上，盖褐、肾形至圆形，柄偏生盖侧，盖下垂多数针状突起（齿）生孢子，如名分解松果而生，秋冬可见。",
+      "habitat_hint": "落地埋没之松等球果上。",
+      "finding_tips": "于林床寻自落松果生出、柄偏侧之褐色小菌；出自松果而下具针状突起之盖为辨识点。"
+    }
+  },
+  "Auritibicen intermedius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cicada",
+    "ja": {
+      "summary": "エゾゼミ。山地の林にすむ大型のセミ(セミ科)で、体は黒地に緑色や黄褐色の斑紋をもち、胸の背にH字形やW字形の黒い模様がある。翅は透明。夏、幹の高い所にとまり『ギーー』と鋭く長く鳴く。名(蝦夷)がつくが北海道だけでなく本州の山地にも広く分布する。幹に縦にとまることが多い。",
+      "habitat_hint": "山地〜丘陵の林、マツやスギなどの大木、社寺林。",
+      "finding_tips": "夏、山地の木の幹で黒地に緑や黄褐の斑をもつ大型のセミを探す。胸背のH字形の黒紋と鋭い鳴き声が識別点。"
+    },
+    "en": {
+      "summary": "A cicada (Auritibicen intermedius, Cicadidae), a large cicada of montane woodland; the body is black with green and yellow-brown markings and an H- or W-shaped black mark on the thorax, with clear wings. In summer it perches high on trunks giving a sharp, long 'gieee' call. Despite the Japanese name 'Ezo', it ranges widely in the mountains of Honshu as well as Hokkaido, often perched vertically on trunks.",
+      "habitat_hint": "Montane to hill woodland, large pines and cedars, shrine-temple woods.",
+      "finding_tips": "In summer on montane trunks look for a large cicada, black with green-and-brown markings; the H-shaped black thoracic mark and sharp call are the clue."
+    },
+    "zh": {
+      "summary": "エゾゼミ。蝉科大型蝉，栖山地林，体黑具绿与黄褐斑、胸背具H形或W形黑纹，翅透明，夏栖树干高处发『唧——』尖长鸣声，虽名（虾夷）而广布本州山地及北海道，常竖栖树干。",
+      "habitat_hint": "山地至丘陵林、松杉等大树、寺社林。",
+      "finding_tips": "夏于山地树干寻黑底具绿黄褐斑之大型蝉；胸背H形黑纹与尖锐鸣声为辨识点。"
+    }
+  },
+  "Austrapoda dentatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slug moth",
+    "ja": {
+      "summary": "ムラサキイラガ。イラガ科のガで、成虫の前翅は紫褐色〜赤紫褐色を帯びる(紫)。幼虫はイラガ類特有のずんぐりしたナメクジ状で、体表に毒針毛をもつ刺毛の束があり、触れると激しく痛む(刺す)。幼虫はカキやサクラなど各種の樹木の葉を食べる。まゆは硬い卵形。夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜平地の林、果樹園、公園、庭の広葉樹。",
+      "finding_tips": "夏、木の葉でずんぐりしたナメクジ状で刺毛をもつ幼虫や、紫褐色の翅をもつ成虫を探す。刺毛のあるナメクジ状の幼虫が識別点(触れると痛む)。"
+    },
+    "en": {
+      "summary": "A slug moth (Austrapoda dentata, Limacodidae); the adult forewings are purple-brown to red-purple-brown (the source of the Japanese name 'purple'). The larva is the stout slug-like caterpillar typical of the family, bearing tufts of venomous stinging spines that hurt intensely on contact. It feeds on the leaves of various trees such as persimmon and cherry, and pupates in a hard egg-shaped cocoon. Adults come to lights.",
+      "habitat_hint": "Low montane to lowland woodland, orchards, parks, garden broadleaf trees.",
+      "finding_tips": "In summer on leaves look for a stout slug-like caterpillar with stinging spines, or a purple-brown-winged adult; the stinging slug-like larva is the clue (painful to touch)."
+    },
+    "zh": {
+      "summary": "ムラサキイラガ。刺蛾科之蛾，成虫前翅紫褐至红紫褐（紫），幼虫为刺蛾类特有之粗短蛞蝓状、体具毒刺毛束、触之剧痛（刺），食柿、樱等多种树叶，茧硬卵形，夜间趋光。",
+      "habitat_hint": "低山地至平地林、果园、公园、庭园阔叶树。",
+      "finding_tips": "夏于树叶寻粗短蛞蝓状具刺毛之幼虫，或紫褐翅之成虫；具刺毛之蛞蝓状幼虫为辨识点（触之痛）。"
+    }
+  },
+  "Autosticha kyotensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Concealer moth",
+    "ja": {
+      "summary": "ヒマラヤスギミツボシキバガ。キバガ上科(Autosticha、シマキバガ類)の小型のガで、前翅は細長く褐色で、黒っぽい小点(三つ星状の点)をもつ。名のとおりヒマラヤスギ(セドラス)などにつくとされる。静止時は翅を体に沿ってたたむ。幼虫は落葉や枯れた植物質を食べるとされる。夜間に灯火へ飛来する。",
+      "habitat_hint": "低地〜低山地の林、林縁、植栽地。",
+      "finding_tips": "夜、灯火などで前翅の細長い褐色で黒い小点をもつ小型のキバガを探す。細長い褐色の前翅と黒い小点が識別点。"
+    },
+    "en": {
+      "summary": "A concealer moth (Autosticha kyotensis, Autostichidae), a small moth with narrow brown forewings marked with dark small dots (a three-star pattern). The Japanese name links it to Himalayan cedar (Cedrus). It folds its wings along the body at rest, and the larva is thought to feed on litter and dead plant matter. Adults come to lights.",
+      "habitat_hint": "Lowland to low-montane woodland, edges, plantings.",
+      "finding_tips": "At night at lights look for a small moth with narrow brown forewings and dark small dots; the narrow brown forewings with dark dots are the clue."
+    },
+    "zh": {
+      "summary": "ヒマラヤスギミツボシキバガ。麦蛾类（Autosticha）小型蛾，前翅细长褐色具黑色小点（三星状点），和名指其附于雪松（Cedrus）等，静止翅贴体，幼虫据信食落叶枯植质，夜间趋光。",
+      "habitat_hint": "低地至低山地林、林缘、栽植地。",
+      "finding_tips": "夜于灯下寻前翅细长褐色具黑小点之小型麦蛾；细长褐前翅与黑小点为辨识点。"
+    }
+  },
+  "Baccha maculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "マダラコシボソハナアブ。ハナアブ科の細身のアブで、腹部が非常に細くくびれ(腰細)、腹部に黄色や淡色の斑(まだら)が並ぶ。ゆっくりと草間や葉の上をホバリングしながら飛ぶ。成虫は花を訪れて花粉や蜜を食べ、幼虫はアブラムシを捕食する益虫。低地〜山地の草地や林縁で見られる。",
+      "habitat_hint": "草地、林縁、湿地周辺、アブラムシのつく植物のまわり。",
+      "finding_tips": "草間で、腹部が非常に細くくびれ淡色の斑をもつ細身のハナアブを探す。極端に細い腰と葉上のホバリングが識別点。"
+    },
+    "en": {
+      "summary": "A hoverfly (Baccha maculata, Syrphidae), a very slender fly with a strongly constricted 'wasp-waisted' abdomen bearing yellow or pale spots. It hovers slowly among grasses and over leaves; adults visit flowers for pollen and nectar and the larvae are aphid-eating beneficials. It is seen in lowland to montane grassland and woodland edges.",
+      "habitat_hint": "Grassland, woodland edges, wetland margins, around aphid-infested plants.",
+      "finding_tips": "Among grasses look for a very slender wasp-waisted hoverfly with pale spots; the extremely thin waist and slow hovering over leaves are the clue."
+    },
+    "zh": {
+      "summary": "マダラコシボソハナアブ。食蚜蝇科之细身蝇，腹部极细而缢缩（细腰），具黄或淡色斑（斑驳），于草间叶上缓缓悬停，成虫访花食粉蜜，幼虫捕食蚜虫为益虫，见于低地至山地草地林缘。",
+      "habitat_hint": "草地、林缘、湿地周边、生蚜植物周围。",
+      "finding_tips": "于草间寻腹极细缢缩、具淡斑之细身食蚜蝇；极细之腰与叶上悬停为辨识点。"
+    }
+  },
+  "Bambusa tuldoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Punting-pole bamboo",
+    "aliases": {
+      "zh-Hans": "青皮竹"
+    },
+    "ja": {
+      "summary": "シホウチク。中国南部原産のイネ科の株立ちする竹(バンブー類)で、暖地で植栽される。稈は緑色で直立し、節ごとに枝を多数出す。マダケ類のように地下茎で広がらず、株が一か所に密集して立つのが特徴。名(四方竹)や用途にちなむとされるが、稈は細めでしなやか。庭園や生垣に使われる。",
+      "habitat_hint": "暖地の庭園、公園、生垣、植栽地。",
+      "finding_tips": "暖地の庭で、地下茎で広がらず一か所に密集して株立ちする緑色の竹を探す。株立ちする性質と多数の枝が識別点。"
+    },
+    "en": {
+      "summary": "The punting-pole bamboo (Bambusa tuldoides, Poaceae), a clumping bamboo native to southern China planted in warm regions; the green culms stand erect, branching profusely at the nodes. Unlike running bamboos it does not spread by rhizomes but forms a dense clump in one spot. The slender flexible culms are used in gardens and hedges.",
+      "habitat_hint": "Warm-region gardens, parks, hedges, plantings.",
+      "finding_tips": "In warm-region gardens look for a green bamboo forming a dense clump in one place rather than spreading; the clumping habit with many branches is the clue."
+    },
+    "zh": {
+      "summary": "シホウチク。禾本科丛生竹（簕竹类），原产华南，暖地栽植，秆绿直立、每节多分枝，不似刚竹类以地下茎蔓延而于一处密集丛立，秆细而柔韧，用于庭园与绿篱。",
+      "habitat_hint": "暖地庭园、公园、绿篱、栽植地。",
+      "finding_tips": "于暖地庭园寻不蔓延而于一处密集丛立之绿色竹；丛生习性与多分枝为辨识点。"
+    }
+  },
+  "Baris rubricata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Weevil",
+    "ja": {
+      "summary": "タテスジアカヒメゾウムシ。草本の茎や根にすむゾウムシ科(チビゾウムシ類、Baris)の小型の甲虫で、体は光沢があり、上翅に縦の筋(縦条)があって赤みを帯びる(赤)。口吻は下向きに曲がる。幼虫は草本(キク科など)の茎や根の中を食べて育つ。日当たりのよい草地や畑で見られる。",
+      "habitat_hint": "草地、畑、道端、荒れ地の草本上。",
+      "finding_tips": "草の茎で、光沢があり上翅に縦筋をもち赤みを帯びる小型のゾウムシを探す。縦筋のある赤みを帯びた光沢の体が識別点。"
+    },
+    "en": {
+      "summary": "A weevil (Baris rubricata, Curculionidae), a small beetle living on herb stems and roots; the glossy body has longitudinal striae on the elytra and a reddish tint (the source of the Japanese name), with a down-curved snout. The larva develops within the stems and roots of herbs (e.g. Asteraceae). It is seen in sunny grassland and fields.",
+      "habitat_hint": "Grassland, fields, roadsides, waste ground (on herbs).",
+      "finding_tips": "On herb stems look for a small glossy weevil with striate reddish elytra; the striate reddish glossy body is the clue."
+    },
+    "zh": {
+      "summary": "タテスジアカヒメゾウムシ。象甲科（Baris 类）小型甲虫，栖草本茎根，体具光泽、鞘翅具纵条而带红（赤），喙下弯，幼虫蛀食草本（如菊科）之茎根，见于向阳草地与田地。",
+      "habitat_hint": "草地、田地、路旁、荒地草本上。",
+      "finding_tips": "于草茎寻具光泽、鞘翅具纵条而带红之小型象甲；纵条带红光泽体为辨识点。"
+    }
+  },
+  "Basilepta ruficollis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf beetle",
+    "ja": {
+      "summary": "ムネアカサルハムシ。草本や低木の葉にすむハムシ科(サルハムシ類)の小型の甲虫で、体は丸っこく、前胸(胸)が赤い(胸赤)ことが名の由来。上翅は金属光沢のある暗色や褐色。成虫は葉を食べて小さな穴をあけ、幼虫は土中で植物の根を食べる。日当たりのよい草地や林縁で見られる。",
+      "habitat_hint": "草地、林縁、畑、荒れ地の草本や低木上。",
+      "finding_tips": "草や低木の葉で、丸っこく前胸が赤い小型のハムシを探す。赤い前胸と光沢のある上翅が識別点。"
+    },
+    "en": {
+      "summary": "A leaf beetle (Basilepta ruficollis, Chrysomelidae), a small rounded beetle on herbs and shrubs; the red pronotum ('red chest') gives the Japanese name, and the elytra are dark or brown with a metallic sheen. Adults chew small holes in leaves and larvae feed on roots in the soil. It is seen in sunny grassland and woodland edges.",
+      "habitat_hint": "Grassland, woodland edges, fields, waste ground (on herbs and shrubs).",
+      "finding_tips": "On leaves look for a small rounded leaf beetle with a red pronotum; the red pronotum with glossy elytra is the clue."
+    },
+    "zh": {
+      "summary": "ムネアカサルハムシ。叶甲科（隐头叶甲类）小型甲虫，栖草本与灌木叶，体圆、前胸红（胸赤，名之由来），鞘翅暗色或褐、具金属光泽，成虫食叶穿小孔，幼虫于土中食根，见于向阳草地与林缘。",
+      "habitat_hint": "草地、林缘、田地、荒地草本与灌木上。",
+      "finding_tips": "于草或灌木叶寻体圆而前胸红之小型叶甲；红前胸与光泽鞘翅为辨识点。"
+    }
+  },
+  "Batepenaeopsis tenella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Smooth shrimp",
+    "ja": {
+      "summary": "スベスベエビ。内湾や沿岸のやや浅い砂泥底にすむクルマエビ科の小型のエビで、体表がなめらか(すべすべ)なことが名の由来。体は半透明でやや赤みや斑を帯びることがある。昼は砂に潜り、夜に活動して底の有機物や小動物を食べる。小型だが数がまとまると小エビとして利用されることもある。",
+      "habitat_hint": "内湾、沿岸のやや浅い砂底、砂泥底。",
+      "finding_tips": "砂泥底で、体表がなめらかで半透明の小型のエビを探す。なめらかな体表と半透明の体が識別点。"
+    },
+    "en": {
+      "summary": "A small penaeid shrimp (Batepenaeopsis tenella, Penaeidae) of somewhat shallow bay and coastal sand-mud bottoms; the smooth body surface is the source of the Japanese name ('smooth shrimp'). The body is translucent, sometimes reddish or spotted. It burrows in sand by day and forages at night on sediment organic matter and small animals; though small, it is sometimes used as a small shrimp.",
+      "habitat_hint": "Bay and coastal somewhat-shallow sand and sand-mud bottoms.",
+      "finding_tips": "On sand-mud look for a small translucent shrimp with a smooth body; the smooth translucent body is the clue."
+    },
+    "zh": {
+      "summary": "スベスベエビ。对虾科小型虾，栖内湾与沿岸略浅砂泥底，体表光滑（滑溜，名之由来），体半透明、时带红或斑，昼潜砂、夜出食底之有机物与小动物，虽小、量多时亦作小虾利用。",
+      "habitat_hint": "内湾、沿岸略浅砂底、砂泥底。",
+      "finding_tips": "于砂泥底寻体表光滑而半透明之小型虾；光滑体表与半透明体为辨识点。"
+    }
+  },
+  "Bathygobius cotticeps": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frillfin goby",
+    "ja": {
+      "summary": "クサビハゼ。潮間帯の岩礁やタイドプール、転石の下にすむハゼ科の小型の魚で、体は褐色で暗色のまだら模様をもち、後方がくさび形に細くなる。胸びれの上部の鰭条が遊離して糸状になるフリルフィンハゼ類の特徴をもつ。岩の隙間にひそみ、小さな甲殻類などを食べる。暖海の岩礁で普通に見られる。",
+      "habitat_hint": "潮間帯の岩礁、タイドプール、転石の下。",
+      "finding_tips": "干潮時のタイドプールや転石下で、褐色でまだら模様の後方がくさび形の小型のハゼを探す。褐色のまだら模様とくさび形の体が識別点。"
+    },
+    "en": {
+      "summary": "A frillfin goby (Bathygobius cotticeps, Gobiidae), a small fish of intertidal reef, tide pools and under stones; the brown body is mottled with dark markings and tapers wedge-like behind. It has the free filamentous upper pectoral rays typical of frillfin gobies. It hides in rock crevices eating small crustaceans and is common on warm-water reefs.",
+      "habitat_hint": "Intertidal reef, tide pools, under stones.",
+      "finding_tips": "At low tide in tide pools or under stones look for a small mottled-brown goby tapering wedge-like behind; the mottled brown body with free pectoral rays is the clue."
+    },
+    "zh": {
+      "summary": "クサビハゼ。鰕虎科小型鱼，栖潮间带岩礁、潮池、转石下，体褐具暗斑、后方渐细如楔，具丝鳍鰕虎类特有之胸鳍上部游离丝状鳍条，伏岩隙食小甲壳类，暖海岩礁常见。",
+      "habitat_hint": "潮间带岩礁、潮池、转石下。",
+      "finding_tips": "退潮时于潮池或转石下寻体褐具斑、后方楔形之小型鰕虎；褐色斑纹与楔形体为辨识点。"
+    }
   }
 }
