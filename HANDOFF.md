@@ -150,6 +150,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-07-20 (Claude/Opus) — np2-4 grind np24-t..x (+115), sidecar 12,068
+- Continued the np=4 sub-tier alphabetically (letters L→P). 5 sidecar-only batches: np24-t (+22, L-M, `df7094e5`), np24-u (+23, M-N, `3ab74c7e`), np24-v (+24, N-P, `a605b5b6`), np24-w (+23, P Pan-Pho, `6eb3d824`), np24-x (+23, P Pho-Pon, `e3da993a`). Scripts in scratchpad `profile_np24{t,u,v,w,x}.py`.
+- Coverage L→P: many marine (sea slugs/scallops/tellins/cowries/moon-snails/whelks/pen-shell/piddock/ragworms/corals/goatfish/cardinalfish/sandperch), bryophytes/ferns/grasses/saxifrages/alpines (mountain-sorrel, lousewort, Iwabukuro, rock-rosette), moths/bees/beetles, Oriental scops owl + house sparrow (eBird), signal crayfish, dulse, Indian beech, Sakhalin spruce, oregano. No new name-mismatch skips needed.
+- **NEXT: continue np=4 from letter P (Pomaulax japonicus / Portunus / Priacanthus onward — several P-genera skipped this run: Physarum slime molds, Parmelia/Peltigera lichens, Peristernia, Peasiella).** Same workflow (scratchpad `profile_np24*.py` + robust-rekey + `NOT LIKE '%属'` skip; `ORDER BY np DESC, s.scientific_name`, np=4 first); deploy still classifier-blocked (sidecar commits are the deliverable). np2-4 remaining=3,259.
+
 ### 2026-07-20 (Claude/Opus) — np2-4 grind np24-q..s (+71), sidecar 11,953
 - Continued the np=4 sub-tier alphabetically (letters I→L). 3 sidecar-only batches: np24-q (+24, I-K Impatiens→Katha, commit `c8262e9e`), np24-r (+24, K-L Koeleria→Lethrinus, `cb81bf63`), np24-s (+23, L Leucania→Lyonsia, `cb81bf63`+1). Scripts `/tmp/profile_batch_np24_{q,r,s}.py`.
 - Coverage I→L: touch-me-not/morning-glory/iris/juniper plants, Inocybe/Lactarius/Laccaria/Lepiota/Limacella mushrooms, Ishige/Laurencia/Leathesia/Lomentaria algae, Lecanora/Lobaria/Leptogium lichens, geometer+noctuid moths, Janthina violet snails, nudibranchs, spider conch, dottyback/tripletail/emperor fish, Gray's grasshopper warbler (eBird). No new name-mismatch skips needed this run.
