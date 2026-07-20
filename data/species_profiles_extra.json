@@ -283070,5 +283070,542 @@
       "habitat_hint": "暖地湿润林床、地表、岩石、朽木上。",
       "finding_tips": "于湿润林床岩面寻叶扁平两列、背面另列小叶而叶尖针状之匍匐藓；两列叶加背列副叶为辨识点。"
     }
+  },
+  "Ranularia pyrum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pear triton",
+    "ja": {
+      "summary": "オオゾウガイ。暖海の岩礁やサンゴ礁にすむ中型の巻貝(フジツガイ科)で、殻は洋なし形(pyrum=なし)にふくらみ、太い縦張肋と結節状の彫刻をもつ。殻口は狭く、内唇・外唇に歯状のひだが並ぶ。肉食性で、他の無脊椎動物を捕食する。",
+      "habitat_hint": "暖海の潮下帯の岩礁、サンゴ礁、礫底。",
+      "finding_tips": "海岸に打ち上げられた、洋なし形にふくらみ太い縦肋と結節をもつ巻貝を探す。なし形の殻と結節状彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A triton (Ranularia pyrum, Cymatiidae) of warm-water rock and coral reef; the shell is pear-shaped (pyrum = pear) and inflated, with strong axial varices and nodular sculpture, and a narrow aperture lined with tooth-like folds. It is a carnivore preying on other invertebrates.",
+      "habitat_hint": "Warm-water subtidal rock, coral reef and gravel.",
+      "finding_tips": "On the beach look for an inflated pear-shaped snail shell with strong axial ribs and nodules; the pear shape with nodular sculpture is the clue."
+    },
+    "zh": {
+      "summary": "オオゾウガイ。栖暖海岩礁珊瑚礁之中型螺（嵌线螺科），壳梨形（pyrum 梨）而膨大，具粗纵张肋与结节雕刻，壳口狭、内外唇具齿状褶，肉食性，捕食其他无脊椎动物。",
+      "habitat_hint": "暖海潮下带岩礁、珊瑚礁、砾底。",
+      "finding_tips": "于海岸寻梨形膨大、具粗纵肋与结节之螺壳；梨形与结节雕刻为辨识点。"
+    }
+  },
+  "Ranunculus franchetii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Franchet's buttercup",
+    "ja": {
+      "summary": "エゾキンポウゲ。山地の湿った草地や林縁に生えるキンポウゲ科の多年草で、根生葉は3〜5裂する。春〜初夏に光沢のある黄色い5弁花を咲かせる。北日本や高地に多い。学名はフランスの植物学者Franchetにちなむ。",
+      "habitat_hint": "山地の湿った草地、林縁、渓流沿い。",
+      "finding_tips": "春〜初夏、山地の湿った草地で光沢のある黄色い5弁花と3〜5裂する葉のキンポウゲを探す。光沢のある黄花と裂ける葉が識別点。"
+    },
+    "en": {
+      "summary": "A buttercup (Ranunculus franchetii, Ranunculaceae), a perennial of moist montane grassland and woodland edges; the basal leaves are 3-5 lobed and it bears glossy yellow five-petalled flowers in spring to early summer. Common in northern Japan and uplands (the epithet honours the botanist Franchet).",
+      "habitat_hint": "Moist montane grassland, woodland edges, streamsides.",
+      "finding_tips": "In spring to early summer on moist montane grassland look for a buttercup with glossy yellow five-petalled flowers and 3-5 lobed leaves; the glossy yellow flowers with lobed leaves are the clue."
+    },
+    "zh": {
+      "summary": "エゾキンポウゲ。毛茛科多年草，生山地湿润草地林缘，基生叶3-5裂，春至初夏开具光泽之黄色五瓣花，多见于北日本及高地（种名纪念法国植物学家 Franchet）。",
+      "habitat_hint": "山地湿润草地、林缘、溪畔。",
+      "finding_tips": "春至初夏于山地湿润草地寻具光泽黄色五瓣花、叶3-5裂之毛茛；亮黄花与裂叶为辨识点。"
+    }
+  },
+  "Ranunculus hakkodensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakkoda buttercup",
+    "ja": {
+      "summary": "ツルキツネノボタン。山地の湿地や湿った草地に生えるキンポウゲ科の多年草で、走出枝(つる)を伸ばしてふえる。葉は3出複葉で、春〜夏に黄色い5弁花を咲かせ、金平糖状の集合果をつける。学名は青森の八甲田(Hakkoda)にちなむ。",
+      "habitat_hint": "山地の湿地、湿った草地、水辺。",
+      "finding_tips": "春〜夏、山地の湿地で走出枝を伸ばし黄色い5弁花と3出複葉をもつキンポウゲを探す。つる状の走出枝が識別点。"
+    },
+    "en": {
+      "summary": "A buttercup (Ranunculus hakkodensis, Ranunculaceae), a perennial of montane wetland and moist grassland spreading by runners (stolons); the leaves are trifoliate and it bears yellow five-petalled flowers in spring to summer followed by a knobbly aggregate fruit. The epithet honours Mt Hakkoda, Aomori.",
+      "habitat_hint": "Montane wetland, moist grassland, waterside.",
+      "finding_tips": "In spring to summer on montane wetland look for a buttercup spreading by runners with yellow five-petalled flowers and trifoliate leaves; the creeping runners are the clue."
+    },
+    "zh": {
+      "summary": "ツルキツネノボタン。毛茛科多年草，生山地湿地与湿润草地，伸走茎（匍匐枝）繁殖，叶三出复叶，春至夏开黄色五瓣花，结金平糖状聚合果（种名纪念青森八甲田）。",
+      "habitat_hint": "山地湿地、湿润草地、水边。",
+      "finding_tips": "春至夏于山地湿地寻伸走茎、具黄色五瓣花与三出复叶之毛茛；匍匐走茎为辨识点。"
+    }
+  },
+  "Reinia variegata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Door snail",
+    "ja": {
+      "summary": "ヒロクチコギセル。樹幹や岩、石灰岩地にすむ細長い巻貝(キセルガイ科)で、殻は左巻きの塔形。名(広口)のとおり殻口がやや広く、殻表に細かい成長肋が斜めに走る。落葉下や樹皮の湿った場所を這い、地衣や菌類などを食べる。",
+      "habitat_hint": "樹幹、岩、石灰岩地、落葉下の湿った場所。",
+      "finding_tips": "湿った樹皮や岩で、左巻きの細長い塔形で殻口がやや広いキセルガイを探す。左巻きの塔形と広めの殻口が識別点。"
+    },
+    "en": {
+      "summary": "A door snail (Reinia variegata, Clausiliidae) living on trunks, rock and limestone; the elongate shell is sinistral (left-coiled) and tower-shaped, with a somewhat wide aperture (the source of the Japanese name) and fine oblique growth ribs. It creeps in moist bark and litter, grazing lichens and fungi.",
+      "habitat_hint": "Trunks, rock, limestone, moist places under litter.",
+      "finding_tips": "On moist bark or rock look for an elongate left-coiled tower-shaped door snail with a rather wide aperture; the sinistral tower shell is the clue."
+    },
+    "zh": {
+      "summary": "ヒロクチコギセル。栖树干、岩石、石灰岩地之细长螺（烟管螺科），壳左旋、塔形，壳口略宽（和名广口之由来），壳面具细斜生长肋，爬于湿润树皮落叶下，食地衣菌类。",
+      "habitat_hint": "树干、岩石、石灰岩地、落叶下湿处。",
+      "finding_tips": "于湿润树皮岩面寻左旋细长塔形而壳口略宽之烟管螺；左旋塔壳为辨识点。"
+    }
+  },
+  "Rhabdoblennius nitidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blenny",
+    "ja": {
+      "summary": "ロウソクギンポ。潮間帯の岩礁やタイドプールにすむ小型のイソギンポ科の魚で、体は細長く鱗がなく、頭部に小さな皮弁(触角状の突起)をもつ。名(蝋燭)は体形やなめらかな体表に由来する。岩の割れ目に潜み、付着藻類や小動物を食べる。",
+      "habitat_hint": "潮間帯の岩礁、タイドプール、岩の割れ目。",
+      "finding_tips": "干潮時のタイドプールで、鱗がなく頭に小さな皮弁をもつ細長い小魚を探す。細長い無鱗の体と頭の皮弁が識別点。"
+    },
+    "en": {
+      "summary": "A blenny (Rhabdoblennius nitidus, Blenniidae), a small intertidal fish of rocky shores and tide pools; the elongate scaleless body has small cirri (tentacle-like flaps) on the head. It hides in rock crevices, feeding on attached algae and small animals.",
+      "habitat_hint": "Intertidal rock, tide pools, rock crevices.",
+      "finding_tips": "At low tide in tide pools look for a small elongate scaleless fish with small flaps on its head; the scaleless body with head cirri is the clue."
+    },
+    "zh": {
+      "summary": "ロウソクギンポ。栖潮间带岩礁与潮池之小型鳚科鱼，体细长无鳞，头具小皮瓣（触角状突），和名（蜡烛）由体形与光滑体表而来，伏于岩缝，食附着藻类与小动物。",
+      "habitat_hint": "潮间带岩礁、潮池、岩缝。",
+      "finding_tips": "退潮时于潮池寻无鳞、头具小皮瓣之细长小鱼；无鳞体加头皮瓣为辨识点。"
+    }
+  },
+  "Rhinoclavis sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "トウガタカニモリ。暖海の砂底や砂礫底にすむ細長い巻貝(オニノツノガイ科)で、殻は塔形で多数の螺層をもち、結節状や螺状の彫刻をもつ。殻口の下端に短い水管溝がある。干潟や浅海の砂底を這い、堆積物中の有機物を食べる。",
+      "habitat_hint": "暖海の潮間帯〜浅海の砂底、砂礫底、干潟。",
+      "finding_tips": "干潟や浅海の砂で、塔形で多数の螺層と結節をもつ細長い巻貝を探す。塔形で結節をもつ殻が識別点。"
+    },
+    "en": {
+      "summary": "A cerith snail (Rhinoclavis sinensis, Cerithiidae) of warm-water sand and sand-gravel bottoms; the elongate tower-shaped shell has many whorls with nodular and spiral sculpture and a short anterior siphonal canal. It crawls over tidal-flat and shallow sand, feeding on sediment organic matter.",
+      "habitat_hint": "Warm-water intertidal to shallow sand, sand-gravel, tidal flats.",
+      "finding_tips": "On tidal flats or shallow sand look for an elongate tower-shaped snail with many whorls and nodules; the nodular tower shell is the clue."
+    },
+    "zh": {
+      "summary": "トウガタカニモリ。栖暖海砂底砂砾底之细长螺（蟹守螺科），壳塔形、螺层多，具结节与螺旋雕刻，壳口下端具短水管沟，爬于滩涂浅海砂底，食沉积有机物。",
+      "habitat_hint": "暖海潮间带至浅海砂底、砂砾底、滩涂。",
+      "finding_tips": "于滩涂浅砂寻塔形、螺层多而具结节之细长螺；结节塔壳为辨识点。"
+    }
+  },
+  "Rhododendron mucronatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snow azalea",
+    "aliases": {
+      "zh-Hans": "白琉球杜鹃"
+    },
+    "ja": {
+      "summary": "シロリュウキュウ。庭園や公園に広く植えられるツツジ科の半常緑低木で、春に純白の大きな漏斗状の花を咲かせる。リュウキュウツツジの仲間で、栽培起源とされる。枝葉には粗い毛があり、刈り込みに強く生垣にも使われる。",
+      "habitat_hint": "庭園、公園、生垣、街路の植栽。",
+      "finding_tips": "春、庭園や公園で純白の大きな漏斗状の花を咲かせる常緑のツツジを探す。真っ白な大輪の花が識別点。"
+    },
+    "en": {
+      "summary": "A snow azalea (Rhododendron mucronatum, Ericaceae), a semi-evergreen shrub widely planted in gardens and parks; it bears large pure-white funnel-shaped flowers in spring. A cultivated Ryukyu-azalea relative of garden origin, it has coarsely hairy shoots, tolerates clipping and is used for hedges.",
+      "habitat_hint": "Gardens, parks, hedges, street plantings.",
+      "finding_tips": "In spring in gardens and parks look for an evergreen azalea with large pure-white funnel-shaped flowers; the large snow-white blooms are the clue."
+    },
+    "zh": {
+      "summary": "シロリュウキュウ。杜鹃花科半常绿灌木，广植于庭园公园，春开纯白大型漏斗状花，为琉球杜鹃类之栽培品，枝叶具粗毛，耐修剪，常作绿篱。",
+      "habitat_hint": "庭园、公园、绿篱、街道栽植。",
+      "finding_tips": "春于庭园公园寻开纯白大型漏斗状花之常绿杜鹃；雪白大花为辨识点。"
+    }
+  },
+  "Russula eburneoareolata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brittlegill",
+    "ja": {
+      "summary": "ツギハギハツ。夏〜秋、広葉樹林の地上に発生するベニタケ科のきのこで、傘は湿ると粘性を帯び、表皮がひび割れて象牙色の地に区画(継ぎ接ぎ)状の模様を生じるのが名の由来。ひだと柄は白い。ベニタケ属らしくもろい肉をもつ。菌根菌。",
+      "habitat_hint": "夏〜秋、広葉樹林(特にブナ科)の地上。",
+      "finding_tips": "夏〜秋、林内の地上で傘の表皮がひび割れて象牙色の区画模様をもつもろいきのこを探す。継ぎ接ぎ状のひび割れた傘が識別点。"
+    },
+    "en": {
+      "summary": "A brittlegill (Russula eburneoareolata, Russulaceae) fruiting on the ground in broadleaf woodland in summer to autumn; the cap is viscid when wet and the cuticle cracks into a patchwork of areolae over an ivory ground (the source of the name), with white gills and stipe. Like other Russula it has brittle flesh; it is ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf (esp. Fagaceae) woodland.",
+      "finding_tips": "In summer to autumn look on the woodland floor for a brittle mushroom whose cap cuticle cracks into an ivory patchwork; the patchwork-cracked cap is the clue."
+    },
+    "zh": {
+      "summary": "ツギハギハツ。红菇科真菌，夏秋生阔叶林地上，菌盖湿时具黏性、表皮龟裂成象牙色底之区块（补丁）状纹（名之由来），菌褶与柄白，肉脆如红菇属，为菌根菌。",
+      "habitat_hint": "夏秋阔叶林（尤壳斗科）地上。",
+      "finding_tips": "夏秋于林地寻盖表皮龟裂成象牙色补丁纹之脆质菌；补丁状龟裂盖为辨识点。"
+    }
+  },
+  "Salangichthys microdon": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese icefish",
+    "aliases": {
+      "zh-Hans": "白肌银鱼"
+    },
+    "ja": {
+      "summary": "シラウオ。内湾や河口の汽水域にすむシラウオ科の小魚で、体は細長く半透明でほぼ無色、死ぬと白くなる。全長10cm弱。春に川をさかのぼって産卵する。プランクトンを食べる。踊り食いや佃煮などで食用にされ、シロウオ(ハゼ科)とは別種。",
+      "habitat_hint": "内湾、河口、汽水域、産卵期は下流域の川。",
+      "finding_tips": "春、河口や汽水域で細長く半透明の小魚の群れを探す。半透明で無色の細長い体が識別点(ハゼ科のシロウオと混同注意)。"
+    },
+    "en": {
+      "summary": "The Japanese icefish (Salangichthys microdon, Salangidae), a small fish of bays and brackish estuaries; the slender body is translucent and almost colourless, turning white when dead, and reaches under 10 cm. It runs up rivers to spawn in spring and feeds on plankton. Eaten fresh or simmered, it is distinct from the goby shirouo.",
+      "habitat_hint": "Bays, estuaries, brackish water; lower rivers when spawning.",
+      "finding_tips": "In spring in estuaries look for schools of slender translucent small fish; the colourless see-through body is the clue (not the goby shirouo)."
+    },
+    "zh": {
+      "summary": "シラウオ。银鱼科小鱼，栖内湾河口汽水域，体细长半透明近无色、死后转白，全长不足10厘米，春溯河产卵，食浮游生物，可食，与鰕虎科之シロウオ为别种。",
+      "habitat_hint": "内湾、河口、汽水域；产卵期于下游河川。",
+      "finding_tips": "春于河口汽水域寻细长半透明之小鱼群；无色透明细长体为辨识点（勿与鰕虎类混淆）。"
+    }
+  },
+  "Sarcophaga melanura": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flesh fly",
+    "ja": {
+      "summary": "シリグロニクバエ。ニクバエ科のハエで、胸部背面に3本の黒い縦条、腹部に市松模様(銀白と黒の斑)をもつ。名(尻黒)は腹端が黒みを帯びることに由来する。動物の死骸や糞、腐敗物に集まり、雌は卵ではなく幼虫(蛆)を直接産む(卵胎生)。",
+      "habitat_hint": "動物の死骸、糞、腐敗物、人家周辺。",
+      "finding_tips": "死骸や腐敗物のまわりで、胸に3黒条・腹に市松模様をもち腹端が黒っぽいハエを探す。市松模様の腹と黒い腹端が識別点。"
+    },
+    "en": {
+      "summary": "A flesh fly (Sarcophaga melanura, Sarcophagidae) with three black longitudinal stripes on the thorax and a chequered (silver-and-black) abdomen; the Japanese name ('black-rear') refers to the darkened abdomen tip. It gathers at carrion, dung and decaying matter, and females deposit live larvae (maggots) rather than eggs.",
+      "habitat_hint": "Carrion, dung, decaying matter, around houses.",
+      "finding_tips": "At carrion or decay look for a fly with three thoracic black stripes, a chequered abdomen and a dark rear tip; the chequered abdomen with dark tip is the clue."
+    },
+    "zh": {
+      "summary": "シリグロニクバエ。麻蝇科之蝇，胸背具三黑纵条，腹部具棋盘状（银白与黑）斑，和名（尻黑）指腹端带黑，聚于动物尸体、粪、腐物，雌直产幼虫（蛆）而非卵（卵胎生）。",
+      "habitat_hint": "动物尸体、粪、腐物、人家周边。",
+      "finding_tips": "于尸体腐物旁寻胸具三黑条、腹棋盘纹而腹端带黑之蝇；棋盘腹与黑腹端为辨识点。"
+    }
+  },
+  "Sarcophaga similis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flesh fly",
+    "ja": {
+      "summary": "ナミニクバエ。ニクバエ科のごく普通のハエで、胸部背面に3本の黒い縦条、腹部に銀白と黒の市松模様をもつ。名(並)のとおり最も普通に見られる種の一つ。動物の死骸や糞、腐敗物に集まり、雌は幼虫を直接産む(卵胎生)。",
+      "habitat_hint": "動物の死骸、糞、腐敗物、人家周辺。",
+      "finding_tips": "死骸や腐敗物のまわりで、胸に3黒条・腹に市松模様をもつ普通のハエを探す。市松模様の腹が識別点(近縁種とは交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A flesh fly (Sarcophaga similis, Sarcophagidae), a very common fly with three black thoracic stripes and a silver-and-black chequered abdomen; the Japanese name means 'common' as it is one of the most frequently seen species. It gathers at carrion, dung and decay, and females deposit live larvae.",
+      "habitat_hint": "Carrion, dung, decaying matter, around houses.",
+      "finding_tips": "At carrion or decay look for a common fly with three thoracic stripes and a chequered abdomen; the chequered abdomen is the clue (relatives separated by genitalia)."
+    },
+    "zh": {
+      "summary": "ナミニクバエ。麻蝇科极常见之蝇，胸背具三黑纵条，腹部具银白与黑之棋盘斑，和名（并）指其为最常见之一，聚于动物尸体、粪、腐物，雌直产幼虫（卵胎生）。",
+      "habitat_hint": "动物尸体、粪、腐物、人家周边。",
+      "finding_tips": "于尸体腐物旁寻胸具三黑条、腹棋盘纹之常见蝇；棋盘腹为辨识点（近缘种以交尾器区分）。"
+    }
+  },
+  "Sardinella lemuru": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bali sardinella",
+    "aliases": {
+      "zh-Hans": "巴厘小沙丁鱼"
+    },
+    "ja": {
+      "summary": "カタボシイワシ。ニシン科の海水魚で、体は細長い紡錘形で背は青緑色、腹は銀白色。えらぶた後方に暗色斑(肩星)をもつのが名(肩星)の由来。群れで沿岸表層を回遊し、プランクトンを食べる。暖海性で、近年分布が北上している。食用。",
+      "habitat_hint": "暖海の沿岸表層、内湾。",
+      "finding_tips": "沿岸で、えらぶた後方に暗色斑をもつ細長い銀白色のイワシの群れを探す。肩の暗色斑が識別点。"
+    },
+    "en": {
+      "summary": "The Bali sardinella (Sardinella lemuru, Clupeidae), a marine fish with a slender fusiform body, blue-green back and silvery belly; a dark spot behind the gill cover (the 'shoulder star') gives the Japanese name. It migrates in surface coastal schools feeding on plankton, is warm-water and has been spreading northward, and is used for food.",
+      "habitat_hint": "Warm-water coastal surface waters and bays.",
+      "finding_tips": "Along the coast look for schools of slender silvery sardines with a dark spot behind the gill cover; the shoulder spot is the clue."
+    },
+    "zh": {
+      "summary": "カタボシイワシ。鲱科海鱼，体细长纺锤，背青绿、腹银白，鳃盖后具暗斑（肩星，和名之由来），成群洄游于沿岸表层食浮游生物，暖水性、近年北扩，供食用。",
+      "habitat_hint": "暖海沿岸表层、内湾。",
+      "finding_tips": "于沿岸寻鳃盖后具暗斑之细长银白沙丁鱼群；肩部暗斑为辨识点。"
+    }
+  },
+  "Sargocentron punctatissimum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Speckled squirrelfish",
+    "ja": {
+      "summary": "ホシエビス。サンゴ礁や岩礁にすむイットウダイ科の魚で、体は赤みを帯び、各鱗に沿って細かい斑点が並んで星をちりばめたように見えるのが名(星)の由来。目が大きい夜行性の魚で、昼は岩陰にひそみ、夜に小動物を食べる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁、礁の穴や岩陰。",
+      "finding_tips": "サンゴ礁の岩陰で、赤みを帯び細かい斑点が星のように並ぶ大きな目の魚を探す。星状の細点と大きな目が識別点。"
+    },
+    "en": {
+      "summary": "A squirrelfish (Sargocentron punctatissimum, Holocentridae) of coral and rocky reefs; the reddish body has fine spots along each scale row giving a star-speckled look (the source of the Japanese name). Large-eyed and nocturnal, it hides in reef crevices by day and hunts small animals at night.",
+      "habitat_hint": "Warm-water coral and rocky reefs, holes and crevices.",
+      "finding_tips": "In reef crevices look for a reddish large-eyed fish finely speckled like stars along the scale rows; the star-speckling with big eyes is the clue."
+    },
+    "zh": {
+      "summary": "ホシエビス。金鳞鱼科之鱼，栖珊瑚礁岩礁，体带红，各鳞列具细斑如缀星（和名星之由来），眼大、夜行，昼伏礁隙、夜食小动物。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、礁洞岩隙。",
+      "finding_tips": "于礁隙寻体红、眼大而具星状细斑之鱼；星状细点与大眼为辨识点。"
+    }
+  },
+  "Saurida macrolepis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brushtooth lizardfish",
+    "ja": {
+      "summary": "マエソ。砂底や砂泥底にすむエソ科の魚で、体は細長い円筒形、口は大きく細かい歯が多数ならぶ。名(大鱗)のとおり近縁種より鱗が大きい。海底に静止して待ち伏せし、小魚などに素早く飛びかかって食べる。かまぼこの原料にもされる。",
+      "habitat_hint": "沿岸〜やや深い砂底、砂泥底。",
+      "finding_tips": "砂底で、細長い円筒形で大きな口と多数の細歯をもつ待ち伏せ型の魚を探す。大きな口と細長い体、大きめの鱗が識別点。"
+    },
+    "en": {
+      "summary": "A lizardfish (Saurida macrolepis, Synodontidae) of sand and sand-mud bottoms; the elongate cylindrical body has a large mouth set with many fine teeth, and the scales are larger than in relatives (the source of the Japanese name). It lies still on the bottom and ambushes small fish; it is used for fish paste.",
+      "habitat_hint": "Coastal to moderately deep sand and sand-mud bottoms.",
+      "finding_tips": "On sand look for an elongate cylindrical ambush fish with a large many-toothed mouth and rather large scales; the big toothy mouth on a slender body is the clue."
+    },
+    "zh": {
+      "summary": "マエソ。狗母鱼科之鱼，栖砂底砂泥底，体细长圆筒、口大、多细齿，鳞较近缘种大（和名大鳞之由来），静伏海底伏击小鱼，亦作鱼糜原料。",
+      "habitat_hint": "沿岸至略深砂底、砂泥底。",
+      "finding_tips": "于砂底寻细长圆筒、口大而多细齿之伏击鱼；大口细长体加较大鳞为辨识点。"
+    }
+  },
+  "Schwetschkea laxa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "キノウエノケゴケ。樹幹や枝の上を這うように広がる小型のヤナギゴケ類(コゴメゴケ科)の蘚類。茎は細く不規則に分枝し、卵状披針形の小さな葉をややまばらに(laxa=ゆるい)つける。名(木の上の毛苔)のとおり樹上に着生する。",
+      "habitat_hint": "樹幹、枝、まれに岩上などの着生環境。",
+      "finding_tips": "樹皮や枝で、細い茎が這って小さな葉をややまばらにつける緑色の小型蘚を探す。樹上を這うまばらな葉が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Schwetschkea laxa) creeping over trunks and branches, a small epiphytic pleurocarp; the slender stems branch irregularly and bear small ovate-lanceolate leaves rather loosely (laxa = loose). The Japanese name means 'hair-moss on the tree', reflecting its epiphytic habit.",
+      "habitat_hint": "Tree trunks, branches, rarely rock (epiphytic).",
+      "finding_tips": "On bark or branches look for a small green moss with slender creeping stems and loosely-set small leaves; the loosely-leaved epiphytic creeper is the clue."
+    },
+    "zh": {
+      "summary": "キノウエノケゴケ。着生藓类，匍匐于树干枝条，茎细、不规则分枝，稀疏（laxa 松散）生卵状披针形小叶，和名（树上毛苔）指其树上附生。",
+      "habitat_hint": "树干、枝条，稀岩上（附生）。",
+      "finding_tips": "于树皮枝条寻茎细匍匐、小叶稀疏之绿色小藓；树上匍匐稀叶为辨识点。"
+    }
+  },
+  "Scirpus georgianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Georgia bulrush",
+    "ja": {
+      "summary": "セフリアブラガヤ。湿地や水辺に生えるカヤツリグサ科の多年草で、アブラガヤに似るが小穂が球状に密集してかたまり、光沢のある黒褐色を帯びる。茎は三角形で、葉は線形。名は福岡の脊振(せふり)山地に由来する。",
+      "habitat_hint": "湿地、水辺、湿った草地、休耕田。",
+      "finding_tips": "夏〜秋、湿地で三角形の茎の先に球状に密集した黒褐色の小穂のかたまりをつけるカヤツリグサ科を探す。球状に集まる光沢ある小穂が識別点。"
+    },
+    "en": {
+      "summary": "A bulrush (Scirpus georgianus, Cyperaceae), a perennial of wetland and waterside; it resembles Scirpus wichurae but the spikelets cluster in dense glossy dark-brown globose heads. The stems are triangular and the leaves linear (the Japanese name refers to the Sefuri Mountains, Fukuoka).",
+      "habitat_hint": "Wetland, waterside, moist grassland, fallow paddies.",
+      "finding_tips": "In summer to autumn in wetland look for a sedge with triangular stems bearing dense glossy dark-brown globose clusters of spikelets; the globose glossy spikelet heads are the clue."
+    },
+    "zh": {
+      "summary": "セフリアブラガヤ。莎草科多年草，生湿地水边，似油莎（アブラガヤ）而小穗密集成球状团、具光泽暗褐色，茎三棱、叶线形，和名源于福冈脊振山地。",
+      "habitat_hint": "湿地、水边、湿润草地、休耕田。",
+      "finding_tips": "夏秋于湿地寻三棱茎顶生球状密集暗褐小穗团之莎草；球状光泽小穗团为辨识点。"
+    }
+  },
+  "Scrophularia alata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Winged figwort",
+    "ja": {
+      "summary": "エゾヒナノウスツボ。山地の湿った林縁や渓流沿いに生えるゴマノハグサ科の多年草で、茎は四角形で稜に翼(alata=翼のある)をもつ。葉は対生し卵形。夏に暗紫褐色の小さな壺形の花をまばらにつける。名(蝦夷)のとおり北日本に多い。",
+      "habitat_hint": "山地の湿った林縁、渓流沿い、草地。",
+      "finding_tips": "夏、山地の湿った所で四角形の茎に翼をもち暗紫褐色の壺形の小花をつける草を探す。翼のある四角い茎と壺形の暗色花が識別点。"
+    },
+    "en": {
+      "summary": "A figwort (Scrophularia alata, Scrophulariaceae), a perennial of moist montane woodland edges and streamsides; the quadrangular stem has winged angles (alata = winged), the leaves are opposite and ovate, and it bears small dark purple-brown urn-shaped flowers loosely in summer. Common in northern Japan.",
+      "habitat_hint": "Moist montane woodland edges, streamsides, grassland.",
+      "finding_tips": "In summer in moist montane spots look for a plant with a winged quadrangular stem and small dark purple-brown urn-shaped flowers; the winged square stem with dark urn flowers is the clue."
+    },
+    "zh": {
+      "summary": "エゾヒナノウスツボ。玄参科多年草，生山地湿润林缘溪畔，茎四棱、棱具翼（alata 有翼），叶对生卵形，夏疏生暗紫褐色小壶状花，和名（虾夷）指多见于北日本。",
+      "habitat_hint": "山地湿润林缘、溪畔、草地。",
+      "finding_tips": "夏于山地湿处寻茎四棱具翼、开暗紫褐壶状小花之草；具翼方茎与暗色壶花为辨识点。"
+    }
+  },
+  "Scutarcopagia scobinata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rasp tellin",
+    "ja": {
+      "summary": "サメザラガイ。暖海の砂底や砂礫底にすむ二枚貝(ニッコウガイ科)で、殻はやや厚く円形〜卵円形。殻表に細かい鱗片状やざらざらした彫刻があり、さめ肌(鮫皮)のようにざらつくのが名の由来。潮下帯の砂中に埋在し、水管で堆積物を吸って食べる。",
+      "habitat_hint": "暖海の潮間帯〜浅海の砂底、砂礫底。",
+      "finding_tips": "海岸で、円形でさめ肌のようにざらつく彫刻をもつ二枚貝を探す。ざらざらした鱗片状の殻表が識別点。"
+    },
+    "en": {
+      "summary": "A rasp tellin (Scutarcopagia scobinata, Tellinidae) of warm-water sand and sand-gravel bottoms; the rather thick rounded to oval shell has fine scaly, rough sculpture giving a shark-skin texture (the source of the Japanese name). It burrows in subtidal sand, feeding on deposits through its siphons.",
+      "habitat_hint": "Warm-water intertidal to shallow sand and sand-gravel.",
+      "finding_tips": "On the beach look for a rounded clam with a rough, scaly shark-skin-textured surface; the rasping scaly sculpture is the clue."
+    },
+    "zh": {
+      "summary": "サメザラガイ。栖暖海砂底砂砾底之双壳（樱蛤科），壳略厚、圆至卵圆，壳面具细鳞片状粗糙雕刻，如鲨皮般粗涩（名之由来），埋于潮下带砂中，以水管吸食沉积物。",
+      "habitat_hint": "暖海潮间带至浅海砂底、砂砾底。",
+      "finding_tips": "于海岸寻圆形而表面如鲨皮粗涩之双壳；粗糙鳞片状壳面为辨识点。"
+    }
+  },
+  "Sebastes trivittatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Threestripe rockfish",
+    "ja": {
+      "summary": "シマゾイ。北日本の岩礁域にすむメバル科の魚で、体は太めの紡錘形。体側に暗色の縦じま(縞)が数本走るのが名(縞)の由来。背びれのとげには弱い毒がある。岩礁の中層〜底層にすみ、甲殻類や小魚を食べる。食用の根魚として釣り対象になる。",
+      "habitat_hint": "北日本の沿岸の岩礁、藻場、根周り。",
+      "finding_tips": "岩礁域で、体側に暗色の縦じまが数本走る太めの魚を探す。数本の暗色縦じまが識別点。"
+    },
+    "en": {
+      "summary": "A rockfish (Sebastes trivittatus, Sebastidae) of rocky grounds in northern Japan; the stout fusiform body bears several dark longitudinal stripes (the source of the Japanese name 'striped rockfish'). The dorsal spines are mildly venomous. It lives in the mid to bottom layer of reefs, eating crustaceans and small fish, and is a food and angling target.",
+      "habitat_hint": "Coastal rocky reefs, kelp beds and structure in northern Japan.",
+      "finding_tips": "On rocky ground look for a stout fish with several dark longitudinal stripes along the body; the dark body stripes are the clue."
+    },
+    "zh": {
+      "summary": "シマゾイ。鲉科（Sebastidae）之鱼，栖北日本岩礁，体粗纺锤，体侧具数条暗色纵纹（和名条纹之由来），背鳍棘具弱毒，居礁之中底层食甲壳类与小鱼，为食用之根鱼与钓获对象。",
+      "habitat_hint": "北日本沿岸岩礁、藻场、礁区。",
+      "finding_tips": "于岩礁寻体侧具数条暗色纵纹之粗壮鱼；数条暗纵纹为辨识点。"
+    }
+  },
+  "Siliqua alta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Razor clam",
+    "ja": {
+      "summary": "オオミゾガイ。砂底や砂泥底に深く潜って暮らす細長い二枚貝(マテガイ科に近いキヌマトイガイ科)で、殻は薄く長方形〜長楕円形。殻内に斜めに走る肋(みぞ)があるのが名(溝)の由来。潮下帯の砂中に垂直に潜り、水管で植物プランクトンを食べる。",
+      "habitat_hint": "潮間帯〜浅海の砂底、砂泥底に深く埋在。",
+      "finding_tips": "砂浜で、薄く細長い長方形で内面に斜めの肋をもつ二枚貝の殻を探す。細長い薄い殻と内面の斜めの溝が識別点。"
+    },
+    "en": {
+      "summary": "A razor clam (Siliqua alta, Pharidae) living buried deep in sand and sand-mud bottoms; the thin shell is oblong to elongate-oval with an internal oblique rib (the source of the Japanese name 'groove'). It burrows vertically in subtidal sand, filtering phytoplankton through its siphons.",
+      "habitat_hint": "Intertidal to shallow sand and sand-mud, buried deep.",
+      "finding_tips": "On sandy beaches look for a thin elongate oblong bivalve shell with an oblique internal rib; the thin elongate shell with an internal groove is the clue."
+    },
+    "zh": {
+      "summary": "オオミゾガイ。栖砂底砂泥底深处之细长双壳（刀蛏科 Pharidae），壳薄、长方至长椭圆，壳内具斜肋（沟，和名之由来），垂直埋于潮下带砂中，以水管滤食浮游植物。",
+      "habitat_hint": "潮间带至浅海砂底、砂泥底深埋。",
+      "finding_tips": "于砂滩寻薄而细长长方、内面具斜肋之双壳壳；细长薄壳与内斜沟为辨识点。"
+    }
+  },
+  "Sinomphisa plagialis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crambid moth",
+    "ja": {
+      "summary": "キササゲノメイガ。ツトガ科(ノメイガ亜科)のガで、翅は半透明の白色地に黒褐色の帯や斑をもつ。幼虫はキササゲ(木大角豆)などノウゼンカズラ科の葉を食べるのが名の由来。低地〜山地の林縁で夜間に灯火へ飛来する。",
+      "habitat_hint": "低地〜山地の林縁、キササゲの生える河原や社寺周辺。",
+      "finding_tips": "初夏〜夏の夜、灯火などで半透明白地に黒褐色の帯をもつノメイガを探す。半透明の白翅に黒帯が識別点。"
+    },
+    "en": {
+      "summary": "A crambid moth (Sinomphisa plagialis, Crambidae: Spilomelinae); the semi-transparent white wings bear dark-brown bands and blotches. The larva feeds on the leaves of Catalpa (kisasage) and other Bignoniaceae (the source of the Japanese name). Adults come to lights at woodland edges from lowland to montane areas.",
+      "habitat_hint": "Lowland to montane woodland edges where Catalpa grows.",
+      "finding_tips": "On early-summer to summer nights at lights look for a crambid with semi-transparent white wings and dark-brown bands; the translucent white wings with dark bands are the clue."
+    },
+    "zh": {
+      "summary": "キササゲノメイガ。草螟科（斑螟亚科）之蛾，翅半透明白底具黑褐带斑，幼虫食梓树（キササゲ）等紫葳科叶（和名之由来），低地至山地林缘夜间趋光。",
+      "habitat_hint": "低地至山地林缘、梓树生长之河滩与寺社周边。",
+      "finding_tips": "初夏至夏夜于灯下寻半透明白底具黑褐带之螟蛾；半透明白翅带黑带为辨识点。"
+    }
+  },
+  "Siphonosoma cumanense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peanut worm",
+    "ja": {
+      "summary": "スジホシムシモドキ。干潟や浅海の砂泥中にすむ星口動物(ホシムシ)の一種で、体は細長い円筒形で伸縮し、前端の吻(introvert)を出し入れする。体表に縦の筋(すじ)状の模様がある。堆積物中の有機物を食べる。ホシムシ類として釣り餌にされることもある。",
+      "habitat_hint": "干潟、内湾、浅海の砂泥底、砂礫底。",
+      "finding_tips": "干潟の砂泥を掘って、細長い円筒形で前端の吻を出し入れする筋模様のある星口動物を探す。伸縮する吻と縦の筋が識別点。"
+    },
+    "en": {
+      "summary": "A peanut worm (Siphonosoma cumanense, Sipuncula) living in the sand-mud of tidal flats and shallow seas; the elongate cylindrical body is extensible and everts an anterior introvert, with longitudinal striations over the surface. It feeds on sediment organic matter and is sometimes used as fishing bait.",
+      "habitat_hint": "Tidal flats, bays, shallow sand-mud and sand-gravel bottoms.",
+      "finding_tips": "Dig tidal-flat sand-mud for an elongate cylindrical worm that everts an anterior introvert and has longitudinal striations; the retractable introvert with striations is the clue."
+    },
+    "zh": {
+      "summary": "スジホシムシモドキ。星虫动物之一，栖滩涂浅海砂泥中，体细长圆筒可伸缩，前端翻吻（introvert）可伸出，体表具纵纹（筋），食沉积有机物，星虫类有时作钓饵。",
+      "habitat_hint": "滩涂、内湾、浅海砂泥底、砂砾底。",
+      "finding_tips": "掘滩涂砂泥寻细长圆筒、前端可翻吻而具纵纹之星虫；伸缩翻吻与纵纹为辨识点。"
+    }
+  },
+  "Solanum angustifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nightshade",
+    "ja": {
+      "summary": "トマトダマシ。荒れ地や道端に生えるナス科の一年草〜多年草で、葉は細く切れ込む。夏に白〜淡紫の星形の花を咲かせ、球形の小さな果実がトマトに似る(だまし)ことが名の由来だが、有毒で食用にならない。南北アメリカ原産の帰化植物。",
+      "habitat_hint": "荒れ地、道端、畑地、河原などの日当たりのよい撹乱地。",
+      "finding_tips": "夏〜秋、荒れ地で細く切れ込む葉と白〜淡紫の星形花、トマトに似た小さな球形の実をもつ草を探す。トマトに似た小さな実が識別点(有毒・非食用)。"
+    },
+    "en": {
+      "summary": "A nightshade (Solanum angustifolium, Solanaceae), an annual to perennial of waste ground and roadsides with narrow lobed leaves; it bears white to pale-purple star-shaped flowers in summer and small round fruits resembling tomatoes (the source of the Japanese name 'false tomato'), but it is poisonous and inedible. A naturalised plant of American origin.",
+      "habitat_hint": "Waste ground, roadsides, fields, riverbanks (sunny disturbed sites).",
+      "finding_tips": "In summer to autumn on waste ground look for a plant with narrow lobed leaves, white-to-pale-purple star flowers and small tomato-like round fruits; the tomato-like fruit is the clue (poisonous, inedible)."
+    },
+    "zh": {
+      "summary": "トマトダマシ。茄科一年至多年草，生荒地路旁，叶细而裂，夏开白至淡紫星形花，球形小果似番茄（和名「假番茄」之由来）而有毒不可食，原产南北美洲之归化植物。",
+      "habitat_hint": "荒地、路旁、田地、河滩等向阳扰动地。",
+      "finding_tips": "夏秋于荒地寻叶细裂、白至淡紫星花而具似番茄小圆果之草；似番茄小果为辨识点（有毒不可食）。"
+    }
+  },
+  "Solenostoma ovalifolium": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Liverwort",
+    "ja": {
+      "summary": "ハイツボミゴケ。湿った岩上や土上、渓流沿いに這って広がる葉状体をもつツボミゴケ科の苔類。茎に沿って卵円形(ovalifolium=卵形の葉)の葉を2列に並べ、しばしば緑〜赤褐色を帯びる。名(這い蕾苔)のとおり地表を這う。",
+      "habitat_hint": "湿った岩上、土上、渓流沿いの陰湿地。",
+      "finding_tips": "渓流沿いの湿った岩や土で、卵円形の葉を2列につけて這う緑〜赤褐色の苔類を探す。這う茎と卵円形の2列の葉が識別点。"
+    },
+    "en": {
+      "summary": "A leafy liverwort (Solenostoma ovalifolium, Solenostomataceae) creeping over moist rock, soil and along streams; the stems bear ovate leaves (ovalifolium = oval-leaved) in two rows, often tinged green to red-brown. The Japanese name means 'creeping bud-liverwort', reflecting its prostrate habit.",
+      "habitat_hint": "Moist rock, soil, shaded damp ground along streams.",
+      "finding_tips": "On moist streamside rock or soil look for a creeping liverwort with oval leaves in two rows, tinged green to red-brown; the prostrate stems with two-ranked oval leaves are the clue."
+    },
+    "zh": {
+      "summary": "ハイツボミゴケ。叶苔类（Solenostomataceae），匍匐于湿润岩土及溪畔，茎两列生卵圆形叶（ovalifolium 卵叶），常带绿至红褐，和名（匍匐蕾苔）指其贴地匍匐。",
+      "habitat_hint": "湿润岩上、土上、溪畔阴湿地。",
+      "finding_tips": "于溪畔湿岩湿土寻两列生卵圆叶而带绿红褐之匍匐苔类；匍匐茎与两列卵叶为辨识点。"
+    }
   }
 }
