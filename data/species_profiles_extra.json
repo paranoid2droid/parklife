@@ -276416,5 +276416,497 @@
       "habitat_hint": "内湾、浅海砂泥底、潮滩，浅潜砂泥。",
       "finding_tips": "潮滩或浅海砂泥寻找白薄脆、具波纹细纹之二枚贝；波纹生长纹为辨识点。"
     }
+  },
+  "Lycoperdon lividum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grassland puffball",
+    "aliases": {
+      "zh-Hans": "灰褐色马勃"
+    },
+    "ja": {
+      "summary": "キホコリタケ。芝地・砂丘・河原など日当たりのよい裸地に生えるホコリタケ科の小型の担子菌で、径1〜3cmの球〜洋梨形。幼時は白く、成熟すると黄褐色〜茶褐色になり、頂の孔から褐色の胞子を煙のように放出する。",
+      "habitat_hint": "芝地、砂丘、河原、日当たりのよい裸地。",
+      "finding_tips": "夏〜秋、芝地や砂地で径数cmの黄褐色の小球を探す。頂孔から胞子を吹き出す点がホコリタケ類の識別点。"
+    },
+    "en": {
+      "summary": "Grassland puffball (Lycoperdon lividum). A small puffball of lawns, dunes and open sandy ground; the 1–3 cm ball is white when young, ripening ochre-brown and puffing brown spores from an apical pore.",
+      "habitat_hint": "Lawns, dunes, river gravel, open sunny bare ground.",
+      "finding_tips": "In summer–autumn on turf or sand look for a small yellow-brown ball; the spore-puffing apical pore marks it as a puffball."
+    },
+    "zh": {
+      "summary": "キホコリタケ（黄褐马勃）。灰包科小型担子菌，生于草地、沙丘、河滩等向阳裸地，球至梨形径1〜3厘米，幼时白色，成熟转黄褐至茶褐，顶孔喷出褐色孢子。",
+      "habitat_hint": "草地、沙丘、河滩、向阳裸地。",
+      "finding_tips": "夏秋于草地或沙地寻数厘米黄褐小球，顶孔喷孢子为马勃类辨识点。"
+    }
+  },
+  "Lysimachia barystachys": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ノジトラノオ。湿った草地や河原に生えるサクラソウ科の多年草で、高さ0.4〜1m。夏、茎の先に白い小花が密集した細長い花穂を垂れ気味につけ、オカトラノオに似るが花穂がより細く直立気味で葉が細いのが特徴。",
+      "habitat_hint": "湿った草地、河原、湿地の縁。",
+      "finding_tips": "6〜8月、湿地の草地で白い小花の細長い花穂を探す。オカトラノオより細い葉と穂で見分ける。"
+    },
+    "en": {
+      "summary": "Manchurian yellow loosestrife (Lysimachia barystachys). Despite the name, a white-flowered perennial of damp grassland and riverbanks, 0.4–1 m tall, with a slender nodding spike of small white flowers; narrower leaves and a more upright spike than its relative L. clethroides.",
+      "habitat_hint": "Damp grassland, riverbanks, wet meadow margins.",
+      "finding_tips": "From June to August in wet grassland look for the slender spike of small white flowers; the narrow leaves separate it from L. clethroides."
+    },
+    "zh": {
+      "summary": "ノジトラノオ（狼尾花）。报春花科多年草，生湿草地与河滩，高0.4〜1米，夏季茎顶生细长稍下垂的白色小花穗；较近缘的珍珠菜叶更窄、穗更直。",
+      "habitat_hint": "湿草地、河滩、湿地边缘。",
+      "finding_tips": "6〜8月于湿草地寻细长白色花穗；窄叶、直穗别于珍珠菜。"
+    }
+  },
+  "Macromitrium gymnostomum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Macromitrium moss",
+    "ja": {
+      "summary": "ヒメミノゴケ。樹幹や岩上に群生するタチヒダゴケ科の蘚類で、乾くと葉が縮れて巻き、湿ると開く。小型でマット状の群落をつくり、暖地の樹皮や岩の上でよく見られる。",
+      "habitat_hint": "樹幹、岩上、暖地の着生環境。",
+      "finding_tips": "一年中、樹皮や岩の上の小型のマット状の蘚を探す。乾くと葉が縮れ巻く点が手がかり。"
+    },
+    "en": {
+      "summary": "A macromitrium moss (Macromitrium gymnostomum), a small epiphytic moss of the Orthotrichaceae forming mats on bark and rock; the leaves curl and twist when dry and spread when wet, common on tree trunks in warm regions.",
+      "habitat_hint": "Tree trunks, rock surfaces, warm-region epiphyte.",
+      "finding_tips": "Year-round look for small cushiony mats on bark or rock; leaves curling when dry are the clue."
+    },
+    "zh": {
+      "summary": "ヒメミノゴケ。木灵藓科小型藓类，成垫状群生于树干与岩面，干时叶卷缩、湿时展开，暖地树皮岩上常见。",
+      "habitat_hint": "树干、岩面、暖地附生。",
+      "finding_tips": "全年于树皮岩面寻小型垫状藓；干时叶卷缩为辨识点。"
+    }
+  },
+  "Macroscytus fraterculus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Burrower bug",
+    "ja": {
+      "summary": "コツチカメムシ。ツチカメムシ科のカメムシで、体は黒く光沢があり、地表や石・落葉の下、植物の根ぎわにすむ。地中性で植物の根や種子から吸汁する。灯火に飛来することもある。",
+      "habitat_hint": "地表、石や落葉の下、植物の根ぎわ。",
+      "finding_tips": "春〜秋、石や落葉をめくって黒く光沢のある小型のカメムシを探す。地表性で丸みのある体つきが手がかり。"
+    },
+    "en": {
+      "summary": "A burrower bug (Macroscytus fraterculus), a shiny black cydnid bug living at the soil surface, under stones and leaf litter and around plant roots, feeding on roots and seeds; sometimes drawn to lights.",
+      "habitat_hint": "Soil surface, under stones and litter, around plant roots.",
+      "finding_tips": "From spring to autumn turn stones or litter to find a small glossy black bug; its rounded ground-dwelling form is the clue."
+    },
+    "zh": {
+      "summary": "コツチカメムシ。土蝽科蝽类，体黑有光泽，栖地表、石与落叶下及植物根际，地下性，吸食根与种子，偶趋光。",
+      "habitat_hint": "地表、石与落叶下、植物根际。",
+      "finding_tips": "春秋翻石或落叶寻黑亮小蝽；地栖圆体为辨识点。"
+    }
+  },
+  "Mactra crossei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Trough shell",
+    "ja": {
+      "summary": "ヒメバカガイ。内湾や浅海の砂底に浅く潜ってすむバカガイ科の小型二枚貝で、殻は三角形に近く薄くもろい。バカガイに似るがより小型で、砂浜や干潟で殻が拾われる。",
+      "habitat_hint": "内湾・浅海の砂底、干潟、砂に浅く潜る。",
+      "finding_tips": "干潟や砂浜で、三角形に近い薄くもろい小型の二枚貝の殻を探す。バカガイより小さいことが手がかり。"
+    },
+    "en": {
+      "summary": "A small trough shell (Mactra crossei), a fragile mactrid bivalve burrowing shallowly in bay and shallow sandy bottoms; the near-triangular thin shell resembles a small surf clam and is often found washed up on flats.",
+      "habitat_hint": "Bay and shallow sandy bottoms, tidal flats, shallow burrower.",
+      "finding_tips": "On flats or beaches look for a small fragile near-triangular bivalve shell; its small size separates it from the larger surf clam."
+    },
+    "zh": {
+      "summary": "ヒメバカガイ。蛤蜊科小型二枚贝，浅潜于内湾与浅海砂底，壳近三角、薄脆，似中华马珂蛤而小，常于潮滩沙滩拾得。",
+      "habitat_hint": "内湾、浅海砂底、潮滩，浅潜砂中。",
+      "finding_tips": "潮滩沙滩寻近三角薄脆小型贝壳；体小别于马珂蛤。"
+    }
+  },
+  "Madrella ferruginosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red-rust sea slug",
+    "ja": {
+      "summary": "ショウジョウウミウシ。岩礁の海底にすむウミウシ(裸鰓類)の一種で、体は赤橙色〜さび色を帯び、背に細かい突起が並ぶ。名は猩々のような赤い体色に由来する。海綿などを食べる。",
+      "habitat_hint": "岩礁・転石帯の海底、潮下帯。",
+      "finding_tips": "潮下帯の岩の下面や側面で、赤橙〜さび色で背に細突起のあるウミウシを探す。鮮やかな赤い体色が手がかり。"
+    },
+    "en": {
+      "summary": "A red sea slug (Madrella ferruginosa), a nudibranch of rocky bottoms with a reddish-orange to rust-coloured body dotted with fine tubercles; the Japanese name likens its red hue to a mythical crimson creature. It feeds on encrusting invertebrates.",
+      "habitat_hint": "Rocky and boulder-strewn seabed, subtidal zone.",
+      "finding_tips": "In the subtidal look under and beside rocks for a rust-red nudibranch with fine tubercles; the vivid red colour is the clue."
+    },
+    "zh": {
+      "summary": "ショウジョウウミウシ。裸鳃类海蛞蝓，栖岩礁海底，体呈红橙至锈色、背具细突起，名取其猩红体色，取食附着无脊椎动物。",
+      "habitat_hint": "岩礁、乱石海底、潮下带。",
+      "finding_tips": "潮下带岩下侧寻锈红、背具细突之海蛞蝓；鲜红体色为辨识点。"
+    }
+  },
+  "Mahidolia mystacina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flagfin prawn-goby",
+    "ja": {
+      "summary": "カスリハゼ。内湾の泥底や河口の干潟にすむハゼ科の小魚で、テッポウエビ類と巣穴を共有する共生ハゼ。体はかすり模様で、第一背びれが高く伸びる。干潟の穴の入口でしばしば見られる。",
+      "habitat_hint": "内湾の泥底、河口・干潟、テッポウエビの巣穴。",
+      "finding_tips": "干潮時、干潟の巣穴の入口でかすり模様のハゼを探す。テッポウエビと同居し、高い背びれが手がかり。"
+    },
+    "en": {
+      "summary": "Flagfin prawn-goby (Mahidolia mystacina). A small goby of muddy bays and estuarine flats that shares a burrow with alpheid snapping shrimp; it has a mottled body and a tall first dorsal fin, often seen at the burrow mouth.",
+      "habitat_hint": "Muddy bays, estuaries and tidal flats, shrimp burrows.",
+      "finding_tips": "At low tide watch burrow entrances on mudflats for a mottled goby; its shrimp partner and tall dorsal fin are the clues."
+    },
+    "zh": {
+      "summary": "カスリハゼ。虾虎鱼科小鱼，栖内湾泥底与河口潮滩，与鼓虾共居洞穴，体具碎斑、第一背鳍高耸，常见于洞口。",
+      "habitat_hint": "内湾泥底、河口潮滩、鼓虾洞穴。",
+      "finding_tips": "退潮时于潮滩洞口寻碎斑虾虎；与鼓虾共居、高背鳍为辨识点。"
+    }
+  },
+  "Maladera renardi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Velvety chafer",
+    "ja": {
+      "summary": "オオビロウドコガネ。コガネムシ科ビロウドコガネ亜科の甲虫で、体は黒褐色で細かい毛におおわれ、ビロウド状の質感をもつ。夜行性で灯火に飛来し、成虫は葉を、幼虫は植物の根を食べる。",
+      "habitat_hint": "草地・林縁、灯火に飛来、幼虫は土中。",
+      "finding_tips": "初夏〜夏の夜、灯火に集まる黒褐色でビロウド状の小型コガネムシを探す。細毛におおわれた鈍い光沢が手がかり。"
+    },
+    "en": {
+      "summary": "A velvety chafer (Maladera renardi), a small scarab beetle clothed in fine hairs giving a velvety, dull sheen; nocturnal and drawn to lights, the adults eat foliage and the larvae feed on roots underground.",
+      "habitat_hint": "Grassland and woodland edges; larvae in soil; comes to lights.",
+      "finding_tips": "On early-summer nights look at lights for a small dark velvety scarab; the hair-covered dull finish is the clue."
+    },
+    "zh": {
+      "summary": "オオビロウドコガネ。金龟科绒金龟类甲虫，体黑褐、被细毛呈绒状暗泽，夜行趋光，成虫食叶、幼虫土中食根。",
+      "habitat_hint": "草地林缘，趋光，幼虫土中。",
+      "finding_tips": "初夏夜晚于灯下寻黑褐绒状小金龟；被毛暗泽为辨识点。"
+    }
+  },
+  "Malus kaido": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hall's crabapple",
+    "aliases": {
+      "zh-Hans": "海棠"
+    },
+    "ja": {
+      "summary": "ミカイドウ（実海棠）。バラ科リンゴ属の落葉小高木で、春に淡紅色の花を垂れ下がって咲かせ、秋に径2cmほどの小さな赤い果実(実海棠)を多数つける。花・実とも観賞用に庭園や公園に植えられる。",
+      "habitat_hint": "庭園、公園、栽培。",
+      "finding_tips": "4〜5月に垂れ下がる淡紅色の花、秋に小さな赤い実を探す。長い花柄で花や実が垂れる点が手がかり。"
+    },
+    "en": {
+      "summary": "Hall's crabapple (Malus kaido), a small deciduous rosaceous tree grown in gardens and parks; it bears nodding pale-pink spring blossom on long stalks and abundant small red apples about 2 cm across in autumn.",
+      "habitat_hint": "Gardens, parks, cultivated.",
+      "finding_tips": "In April–May look for nodding pale-pink blossom, in autumn for small red fruit; the long drooping stalks are the clue."
+    },
+    "zh": {
+      "summary": "ミカイドウ（西府海棠/实海棠）。蔷薇科苹果属落叶小乔木，春开下垂淡粉花，秋结径约2厘米红色小果，花果俱佳，多植于庭园公园。",
+      "habitat_hint": "庭园、公园、栽培。",
+      "finding_tips": "4〜5月寻下垂淡粉花，秋寻红色小果；长梗下垂为辨识点。"
+    }
+  },
+  "Malus prunifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plumleaf crabapple",
+    "aliases": {
+      "zh-Hans": "楸子"
+    },
+    "ja": {
+      "summary": "イヌリンゴ。バラ科リンゴ属の落葉小高木で、春に白〜淡紅色の花を咲かせ、秋に径2〜3cmの小さな赤い果実をつける。リンゴの近縁で台木や観賞に用いられ、果実は酸味が強い。",
+      "habitat_hint": "庭園、公園、果樹園、栽培。",
+      "finding_tips": "4〜5月に白〜淡紅色の花、秋に小さな赤い果実を探す。萼(がく)が果実に残る点がリンゴ類の手がかり。"
+    },
+    "en": {
+      "summary": "Plumleaf crabapple (Malus prunifolia), a small deciduous apple relative with white to pinkish spring flowers and small red fruit 2–3 cm across in autumn; used as rootstock and ornament, the tart apples persist on the tree.",
+      "habitat_hint": "Gardens, parks, orchards, cultivated.",
+      "finding_tips": "In April–May look for white-pink flowers and in autumn small red apples; the persistent calyx on the fruit is the apple clue."
+    },
+    "zh": {
+      "summary": "イヌリンゴ（楸子）。蔷薇科苹果属落叶小乔木，春开白至淡粉花，秋结径2〜3厘米红色小果，为苹果近缘，多作砧木与观赏，果味酸。",
+      "habitat_hint": "庭园、公园、果园、栽培。",
+      "finding_tips": "4〜5月寻白粉花，秋寻红色小果；果顶宿萼为苹果类辨识点。"
+    }
+  },
+  "Margarinotus cadavericola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clown beetle",
+    "ja": {
+      "summary": "オオサワヒメエンマムシ。エンマムシ科の小型甲虫で、体は黒く強く光沢があり、丸みのある頑丈な体つき。動物の死体やその下の土壌に集まり、そこに集まるウジなどを捕食する腐肉環境の掃除役。",
+      "habitat_hint": "動物の死体、その下の土壌、腐肉環境。",
+      "finding_tips": "死体やその周辺の土をめくって、黒く光沢のある丸い小甲虫を探す。触れると脚をたたむ点がエンマムシ類の手がかり。"
+    },
+    "en": {
+      "summary": "A clown beetle (Margarinotus cadavericola), a small, hard, strongly shining black histerid with a rounded compact body; it gathers at animal carcasses and the soil beneath, preying on the maggots and other insects there.",
+      "habitat_hint": "Carcasses and the soil beneath, carrion habitats.",
+      "finding_tips": "Search carcasses or the soil around them for a small rounded glossy black beetle; tucking its legs when disturbed is the clue."
+    },
+    "zh": {
+      "summary": "オオサワヒメエンマムシ。阎甲科小型甲虫，体黑强光泽、圆钝坚实，聚于动物尸体及其下土壤，捕食蝇蛆等，为腐肉环境清道夫。",
+      "habitat_hint": "动物尸体、其下土壤、腐肉环境。",
+      "finding_tips": "翻尸体周边土寻黑亮圆小甲虫；受扰缩足为阎甲辨识点。"
+    }
+  },
+  "Martadoris amakusana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green dorid",
+    "ja": {
+      "summary": "コミドリリュウグウウミウシ。岩礁の海底にすむ小型のウミウシ(裸鰓類)で、体は緑色を帯び、背に模様や突起をもつ。潮下帯の岩の下面などで見られ、海綿やコケムシなどを食べる。",
+      "habitat_hint": "岩礁・転石帯の海底、潮下帯。",
+      "finding_tips": "潮下帯の岩の下面で、緑色の小型ウミウシを探す。小型で緑がかった体色が手がかり。"
+    },
+    "en": {
+      "summary": "A small green dorid (Martadoris amakusana), a nudibranch of rocky bottoms with a greenish body patterned and tubercled on the back; found under rocks in the subtidal, it grazes sponges and bryozoans.",
+      "habitat_hint": "Rocky and boulder seabed, subtidal zone.",
+      "finding_tips": "In the subtidal look under rocks for a small greenish sea slug; its small size and green tone are the clues."
+    },
+    "zh": {
+      "summary": "コミドリリュウグウウミウシ。裸鳃类小型海蛞蝓，栖岩礁海底，体带绿色、背具纹与突起，潮下带岩下可见，取食海绵苔藓虫。",
+      "habitat_hint": "岩礁、乱石海底、潮下带。",
+      "finding_tips": "潮下带岩下寻小型绿色海蛞蝓；小体绿色为辨识点。"
+    }
+  },
+  "Megachile nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafcutter bee",
+    "ja": {
+      "summary": "バラハキリバチ。ハキリバチ科のハナバチで、メスは大あごでバラなどの葉を円く切り取り、それを巣室の材料に使う。腹の下面に花粉を運ぶ毛(腹面剛毛)をもち、竹筒や木の穴などに営巣する。",
+      "habitat_hint": "草地・林縁・庭、竹筒や木の穴に営巣。",
+      "finding_tips": "初夏〜夏、花を訪れる腹の下に花粉をつけたハナバチや、円く切り取られたバラの葉を探す。葉の切り跡が手がかり。"
+    },
+    "en": {
+      "summary": "A leafcutter bee (Megachile nipponica), a solitary bee whose females cut neat circular pieces from rose and other leaves to line their nest cells; it carries pollen on a brush of hairs under the abdomen and nests in hollow stems and wood.",
+      "habitat_hint": "Grassland, woodland edges and gardens; nests in cavities.",
+      "finding_tips": "In early summer look for a bee carrying pollen under its belly, or neat circular cut-outs on rose leaves; the leaf cuts are the clue."
+    },
+    "zh": {
+      "summary": "バラハキリバチ。切叶蜂科独居蜂，雌蜂以大颚从蔷薇等叶切下圆片衬巢室，腹下具集粉毛，营巢于竹筒木孔。",
+      "habitat_hint": "草地林缘庭园，营巢于孔洞。",
+      "finding_tips": "初夏寻腹下带粉之蜂或蔷薇叶上圆缺口；叶切痕为辨识点。"
+    }
+  },
+  "Megasyrphus erratica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "オオオビヒラタアブ。ハナアブ科の中〜大型のアブで、腹に黒と黄の帯模様をもちハチに似るが刺さない。成虫は花を訪れて花粉や蜜をなめ、幼虫はアブラムシを捕食する益虫。空中で静止飛行(ホバリング)する。",
+      "habitat_hint": "花のある草地・林縁、山地。",
+      "finding_tips": "春〜秋、花の周りで空中静止するハチに似たアブを探す。刺さず、素早いホバリングが手がかり。"
+    },
+    "en": {
+      "summary": "A hoverfly (Megasyrphus erratica), a medium-large syrphid with black-and-yellow banding that mimics a wasp but cannot sting; adults visit flowers for pollen and nectar while the larvae are useful aphid predators, and it hovers in mid-air.",
+      "habitat_hint": "Flowery grassland, woodland edges, uplands.",
+      "finding_tips": "From spring to autumn watch flowers for a wasp-like fly hovering in place; the stingless hovering habit is the clue."
+    },
+    "zh": {
+      "summary": "オオオビヒラタアブ。食蚜蝇科中大型蚜蝇，腹具黑黄带拟蜂而不螫，成虫访花、幼虫捕食蚜虫为益虫，善空中悬停。",
+      "habitat_hint": "有花草地、林缘、山地。",
+      "finding_tips": "春秋于花间寻拟蜂而悬停之蝇；不螫、悬飞为辨识点。"
+    }
+  },
+  "Mesoplodon stejnegeri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stejneger's beaked whale",
+    "aliases": {
+      "zh-Hans": "史氏中喙鲸"
+    },
+    "ja": {
+      "summary": "オウギハクジラ。オキゴンドウなどと同じアカボウクジラ科の中型のハクジラで、北太平洋の冷たい深海にすむ。オスは下あごに扇形の大きな歯を1対もつ。深く潜ってイカを食べ、外洋性で目撃は少ない。",
+      "habitat_hint": "北太平洋の冷たい外洋・深海。",
+      "finding_tips": "外洋の深海性で観察は困難。海岸に打ち上げられた個体で、オスの扇形の歯が識別点。"
+    },
+    "en": {
+      "summary": "Stejneger's beaked whale (Mesoplodon stejnegeri), a medium beaked whale of cold, deep North Pacific waters; males bear a single pair of large fan-shaped teeth in the lower jaw. It dives deep for squid, is oceanic and rarely seen.",
+      "habitat_hint": "Cold offshore and deep waters of the North Pacific.",
+      "finding_tips": "Oceanic and deep-diving, so seldom seen; in stranded animals the male's fan-shaped teeth are diagnostic."
+    },
+    "zh": {
+      "summary": "オウギハクジラ（史氏中喙鲸）。喙鲸科中型齿鲸，栖北太平洋冷水深海，雄性下颌具一对扇形大齿，深潜食乌贼，远洋性罕见。",
+      "habitat_hint": "北太平洋冷水远洋、深海。",
+      "finding_tips": "远洋深潜难见；搁浅个体以雄性扇形齿为辨识点。"
+    }
+  },
+  "Mespilia globulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sphere sea urchin",
+    "ja": {
+      "summary": "コシダカウニ。サンゴ礁や岩礁の浅海にすむウニで、殻はやや高い球形。棘のない裸出帯が10本の青い縦帯となって並ぶのが美しく、飼育用に人気がある。夜行性で海藻などを食べる。",
+      "habitat_hint": "サンゴ礁・岩礁の浅海、潮下帯。",
+      "finding_tips": "潮下帯の岩やサンゴのすき間で、青い縦帯のある高球形のウニを探す。10本の青帯が識別点。"
+    },
+    "en": {
+      "summary": "Sphere sea urchin (Mespilia globulus), a rather tall globular urchin of shallow reefs and rocky bottoms; ten bare blue bands run down the test between the spines, making it a popular aquarium species. It is nocturnal and grazes algae.",
+      "habitat_hint": "Shallow coral and rocky reefs, subtidal zone.",
+      "finding_tips": "In the subtidal search reef crevices for a tall globular urchin with blue bands; the ten blue stripes are diagnostic."
+    },
+    "zh": {
+      "summary": "コシダカウニ（球海胆）。栖珊瑚礁与岩礁浅海，壳略高球形，棘间具十条裸出蓝带甚美，为观赏热门，夜行食藻。",
+      "habitat_hint": "珊瑚礁、岩礁浅海、潮下带。",
+      "finding_tips": "潮下带礁隙寻具蓝带之高球形海胆；十条蓝带为辨识点。"
+    }
+  },
+  "Metzgeria pubescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ケフタマタゴケ。フタマタゴケ科の葉状体の苔類(ゼニゴケの仲間)で、二又に分かれる細い帯状の葉状体をもち、表面や縁に細かい毛が生えるのが名の由来。湿った岩や樹幹に貼りつくように広がる。",
+      "habitat_hint": "湿った岩、樹幹、日陰の湿潤地。",
+      "finding_tips": "一年中、湿った岩や樹皮で二又に分かれる細い帯状の苔類を探す。表面の細毛が識別点。"
+    },
+    "en": {
+      "summary": "Downy veilwort (Metzgeria pubescens), a thallose liverwort with narrow, repeatedly forked ribbon-like thalli fringed and covered with fine hairs (hence 'downy'); it spreads pressed against damp rock and tree bark in shady places.",
+      "habitat_hint": "Damp rock, tree trunks, shaded moist ground.",
+      "finding_tips": "Year-round on damp rock or bark look for narrow forking ribbon-like thalli; the fine surface hairs are diagnostic."
+    },
+    "zh": {
+      "summary": "ケフタマタゴケ。叉苔科叶状体苔类，具反复二叉之窄带状叶状体，面缘被细毛而得名，贴生于湿岩树干阴湿处。",
+      "habitat_hint": "湿岩、树干、阴湿地。",
+      "finding_tips": "全年于湿岩树皮寻二叉窄带状苔类；面被细毛为辨识点。"
+    }
+  },
+  "Mexichromis aurora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Strawberry-milk sea slug",
+    "ja": {
+      "summary": "イチゴミルクウミウシ。イロウミウシ科の小型のウミウシで、体は白地にピンクの斑や縁取りをもち、イチゴミルクを思わせる色合いが名の由来。岩礁の潮下帯にすみ、海綿を食べる。",
+      "habitat_hint": "岩礁の海底、潮下帯。",
+      "finding_tips": "潮下帯の岩の下面で、白地にピンクの斑をもつ小型ウミウシを探す。イチゴミルク色の配色が識別点。"
+    },
+    "en": {
+      "summary": "A strawberry-milk sea slug (Mexichromis aurora), a small chromodorid nudibranch, white marked and edged with pink that recalls strawberry milk; it lives in the rocky subtidal and feeds on sponges.",
+      "habitat_hint": "Rocky seabed, subtidal zone.",
+      "finding_tips": "In the subtidal look under rocks for a small white nudibranch spotted with pink; the strawberry-milk colouring is the clue."
+    },
+    "zh": {
+      "summary": "イチゴミルクウミウシ。多彩海蛞蝓科小型海蛞蝓，白底具粉斑与粉边，色似草莓牛奶而得名，栖岩礁潮下带食海绵。",
+      "habitat_hint": "岩礁海底、潮下带。",
+      "finding_tips": "潮下带岩下寻白底粉斑小海蛞蝓；草莓牛奶配色为辨识点。"
+    }
+  },
+  "Miamira flavicostata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miamira sea slug",
+    "ja": {
+      "summary": "ミアミラウミウシ。イロウミウシ科の大型のウミウシで、体は緑色を基調に黄色い隆起した稜(costa)や突起をもち、色彩変異に富む。岩礁やサンゴ礁の潮下帯にすみ、海綿を食べる。",
+      "habitat_hint": "岩礁・サンゴ礁の海底、潮下帯。",
+      "finding_tips": "潮下帯の岩やサンゴのすき間で、緑地に黄色い隆起をもつ大型ウミウシを探す。黄色い稜線が識別点。"
+    },
+    "en": {
+      "summary": "A miamira sea slug (Miamira flavicostata), a large chromodorid nudibranch, green with raised yellow ridges and tubercles and highly variable; it lives on rocky and coral reefs in the subtidal and eats sponges.",
+      "habitat_hint": "Rocky and coral reef seabed, subtidal zone.",
+      "finding_tips": "In the subtidal search reef crevices for a large green nudibranch with raised yellow ridges; the yellow ridges are the clue."
+    },
+    "zh": {
+      "summary": "ミアミラウミウシ。多彩海蛞蝓科大型海蛞蝓，体绿具隆起黄棱与突起、色变丰富，栖岩礁珊瑚礁潮下带食海绵。",
+      "habitat_hint": "岩礁、珊瑚礁海底、潮下带。",
+      "finding_tips": "潮下带礁隙寻绿体黄棱之大海蛞蝓；黄色隆棱为辨识点。"
+    }
+  },
+  "Micranthes japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "フキユキノシタ。ユキノシタ科の多年草で、湿った岩場や渓流沿いの岩壁に生える。フキに似た円い葉をロゼット状につけ、初夏に細い花茎を立てて白い小花を多数咲かせる。深山の水しぶきのかかる岩に多い。",
+      "habitat_hint": "湿った岩場、渓流沿いの岩壁、山地。",
+      "finding_tips": "5〜7月、渓流沿いの湿った岩で、円い葉の上に白い小花の花穂を探す。フキ状の円い葉が手がかり。"
+    },
+    "en": {
+      "summary": "A saxifrage (Micranthes japonica), a perennial of wet rocks and streamside cliffs; it forms a rosette of rounded, butterbur-like leaves and sends up a slender stalk of many small white flowers in early summer, favouring spray-washed mountain rock.",
+      "habitat_hint": "Wet rocks, streamside cliffs, mountains.",
+      "finding_tips": "From May to July on wet streamside rock look for a spike of small white flowers over rounded leaves; the butterbur-like leaves are the clue."
+    },
+    "zh": {
+      "summary": "フキユキノシタ。虎耳草科多年草，生湿岩与溪畔岩壁，圆形似蜂斗菜之叶成莲座状，初夏抽细茎生多数白色小花，多见于山地飞溅岩面。",
+      "habitat_hint": "湿岩、溪畔岩壁、山地。",
+      "finding_tips": "5〜7月于溪畔湿岩寻圆叶上白色小花穗；蜂斗菜状圆叶为辨识点。"
+    }
+  },
+  "Micranthes sachalinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ヤマハナソウ。ユキノシタ科の多年草で、亜高山〜高山の湿った岩場や草地に生える。根ぎわに葉をロゼット状につけ、夏に細い花茎を立てて白い小花をまばらに咲かせる。北方系の高山植物。",
+      "habitat_hint": "亜高山〜高山の湿った岩場・草地、雪田周辺。",
+      "finding_tips": "7〜8月、高山の湿った岩場でロゼットから立つ細い花茎に白い小花を探す。高山の湿地環境が手がかり。"
+    },
+    "en": {
+      "summary": "A saxifrage (Micranthes sachalinensis), a northern alpine perennial of wet rocks and meadows in the subalpine to alpine zone; it forms a basal rosette and sends up a slender stalk bearing sparse small white flowers in summer.",
+      "habitat_hint": "Subalpine–alpine wet rocks and meadows, snow-patch edges.",
+      "finding_tips": "In July–August on wet alpine rock look for a slender stalk of small white flowers rising from a rosette; the alpine wet setting is the clue."
+    },
+    "zh": {
+      "summary": "ヤマハナソウ。虎耳草科多年草，生亚高山至高山湿岩与草地，基生叶成莲座，夏抽细茎疏生白色小花，为北方高山植物。",
+      "habitat_hint": "亚高山至高山湿岩草地、雪田周边。",
+      "finding_tips": "7〜8月于高山湿岩寻莲座抽细茎白色小花；高山湿地环境为辨识点。"
+    }
+  },
+  "Micrognathus andersonii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Shortnose pipefish",
+    "ja": {
+      "summary": "カンムリヨウジ。ヨウジウオ科の小型の魚で、体は細長く硬い環状の骨板におおわれ、吻は短め。サンゴ礁や岩礁の浅海の底近くにすみ、小さなプランクトンを吸い込んで食べる。タツノオトシゴの近縁。",
+      "habitat_hint": "サンゴ礁・岩礁の浅海、底近く。",
+      "finding_tips": "潮下帯の岩やサンゴのすき間で、細長く硬い体の小魚を探す。棒状の体と短い吻が識別点。"
+    },
+    "en": {
+      "summary": "Shortnose pipefish (Micrognathus andersonii), a small pipefish with a slender body encased in bony rings and a short snout; a seahorse relative, it lives near the bottom of shallow coral and rocky reefs, sucking in tiny plankton.",
+      "habitat_hint": "Shallow coral and rocky reefs, near the bottom.",
+      "finding_tips": "In the subtidal search reef crevices for a slender stiff-bodied little fish; the rod-like body and short snout are the clues."
+    },
+    "zh": {
+      "summary": "カンムリヨウジ。海龙科小型鱼，体细长具硬骨环、吻较短，为海马近缘，栖珊瑚礁岩礁浅海近底，吸食小型浮游生物。",
+      "habitat_hint": "珊瑚礁、岩礁浅海、近底。",
+      "finding_tips": "潮下带礁隙寻细长硬体小鱼；棒状体、短吻为辨识点。"
+    }
   }
 }
