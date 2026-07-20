@@ -280062,5 +280062,521 @@
       "habitat_hint": "亚高山至高山草地岩场、风衝地。",
       "finding_tips": "8〜9月于高山草地寻茎具翅、紫红头状花之草；翅茎与无刺蓟状花为辨识点。"
     }
+  },
+  "Scheuchzeria palustris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rannoch-rush",
+    "ja": {
+      "summary": "ホロムイソウ。高層湿原(ミズゴケ湿原)に生えるホロムイソウ科の多年草で、北方系の湿原植物。細い線形の葉をもち、地下茎で広がる。初夏、細い花茎に淡緑色の目立たない花を数個つける。ミズゴケの間に点々と生える。",
+      "habitat_hint": "高層湿原、ミズゴケ湿原(北方・高地)。",
+      "finding_tips": "初夏〜夏、ミズゴケ湿原で細い線形の葉と淡緑色の目立たない花をもつ草本を探す。湿原環境と細い葉が手がかり。"
+    },
+    "en": {
+      "summary": "Rannoch-rush (Scheuchzeria palustris), a northern perennial of raised Sphagnum bogs; it has narrow linear leaves, spreads by rhizomes, and bears a few inconspicuous pale-green flowers on a slender stalk in early summer, growing scattered among the bog moss.",
+      "habitat_hint": "Raised Sphagnum bogs (northern, upland).",
+      "finding_tips": "In early summer in a Sphagnum bog look for narrow linear leaves and inconspicuous pale-green flowers; the bog setting and narrow leaves are the clues."
+    },
+    "zh": {
+      "summary": "ホロムイソウ。冰沼草科多年草，生高位泥炭藓沼，为北方湿原植物，具细线形叶、以地下茎蔓延，初夏细茎生数朵淡绿不显花，散生于泥炭藓间。",
+      "habitat_hint": "高位泥炭沼、泥炭藓沼（北方、高地）。",
+      "finding_tips": "初夏于泥炭藓沼寻细线形叶与淡绿不显花之草；沼境与细叶为辨识点。"
+    }
+  },
+  "Schwetschkeopsis fabronia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "イヌケゴケ。樹幹や岩、板塀などに着生する小型の蘚類で、茎が這って不規則に枝分かれし、細く尖った葉を密につけてマット状の群落をつくる。乾くと葉が寄り添う。暖地の樹皮や石垣でよく見られる。",
+      "habitat_hint": "樹幹、岩、石垣、板塀などの着生環境。",
+      "finding_tips": "一年中、樹皮や石垣で這って枝分かれし細く尖った葉を密につけるマット状の蘚を探す。細く尖った葉が手がかり。"
+    },
+    "en": {
+      "summary": "A small moss (Schwetschkeopsis fabronia), an epiphyte of tree trunks, rock and fences; its creeping, irregularly branched stems are densely set with narrow pointed leaves forming mats, the leaves appressed when dry. It is common on warm-region bark and stone walls.",
+      "habitat_hint": "Tree trunks, rock, stone walls and fences (epiphytic).",
+      "finding_tips": "Year-round on bark or stone walls look for creeping branched moss mats with narrow pointed leaves; the fine pointed leaves are the clue."
+    },
+    "zh": {
+      "summary": "イヌケゴケ。小型附生藓类，附生树干、岩石与板墙，茎匍匐不规则分枝、密生细尖叶成垫状，干时叶贴茎，常见于暖地树皮石墙。",
+      "habitat_hint": "树干、岩石、石墙、板墙等附生。",
+      "finding_tips": "全年于树皮石墙寻匍匐分枝、密生细尖叶之垫状藓；细尖叶为辨识点。"
+    }
+  },
+  "Scionomia mendica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ソトキクロエダシャク。シャクガ科エダシャク亜科のガで、翅は白っぽい地に黒い斑や外縁の黄色みをもつ。早春に出現するものが多く、山地や林縁にすみ、幼虫は木本の葉を食べる尺取り虫。灯火に飛来する。",
+      "habitat_hint": "山地の樹林、林縁。",
+      "finding_tips": "早春〜春の夜、灯火で白っぽい地に黒斑をもつシャクガを探す。外縁の黄色みと黒斑が手がかり。"
+    },
+    "en": {
+      "summary": "A geometer moth (Scionomia mendica), a geometrid with whitish wings marked black and tinged yellow at the outer margin; often an early-spring flier, it lives in montane woodland where its inchworm larva eats woody foliage, and comes to light.",
+      "habitat_hint": "Montane woodland, woodland edges.",
+      "finding_tips": "On early-spring nights at lights look for a whitish moth with black spots and yellowish margins; the black-on-white with yellow edge is the clue."
+    },
+    "zh": {
+      "summary": "ソトキクロエダシャク。尺蛾科之蛾，翅白底具黑斑、外缘带黄，多早春出现，栖山地林与林缘，幼虫为食木本叶之尺蠖，趋光。",
+      "habitat_hint": "山地树林、林缘。",
+      "finding_tips": "早春夜于灯下寻白底具黑斑之尺蛾；外缘带黄与黑斑为辨识点。"
+    }
+  },
+  "Scleria mikawana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ミカワシンジュガヤ。湿地や湿った草地に生えるカヤツリグサ科シンジュガヤ属の多年草で、三角形の茎と細長い葉をもつ。果実(痩果)が白く光沢のある真珠のような球形になるのが名の由来。湿った日当たりのよい草地に生える。",
+      "habitat_hint": "湿地、湿った草地、日当たりのよい湿地。",
+      "finding_tips": "夏〜秋、湿地で三角形の茎と、白く光沢のある真珠状の果実をつけるカヤツリグサ科植物を探す。白い真珠状の果実が識別点。"
+    },
+    "en": {
+      "summary": "A nutrush (Scleria mikawana), a sedge-family perennial of wetlands and damp grassland with a triangular stem and narrow leaves; its whitish glossy pearl-like round nutlets give the Japanese name. It grows in sunny wet grassland.",
+      "habitat_hint": "Wetlands, damp grassland, sunny wet ground.",
+      "finding_tips": "In summer–autumn in wetland look for a triangular-stemmed sedge bearing whitish pearl-like nutlets; the glossy white nutlets are the clue."
+    },
+    "zh": {
+      "summary": "ミカワシンジュガヤ。莎草科珍珠茅属多年草，生湿地与湿草地，茎三棱、叶细长，瘦果白而具光泽如珍珠球形而得名，生于向阳湿草地。",
+      "habitat_hint": "湿地、湿草地、向阳湿地。",
+      "finding_tips": "夏秋于湿地寻三棱茎、具白色珍珠状果之莎草；白珍珠状果为辨识点。"
+    }
+  },
+  "Sclerodoris apiculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "カクレカザンウミウシ。岩礁の潮下帯にすむイロウミウシ類の大型のウミウシ(裸鰓類)で、体は褐色〜くすんだ色合いで、背に低い隆起やこぶ状の突起をもち、周囲の岩や海綿に紛れる保護色をもつ。海綿を食べる。",
+      "habitat_hint": "岩礁の海底、潮下帯、海綿のある所。",
+      "finding_tips": "潮下帯の岩の下面で、褐色でこぶ状の突起をもつ大型のウミウシを探す。地味な保護色とこぶ状の背が手がかり。"
+    },
+    "en": {
+      "summary": "A sea slug (Sclerodoris apiculata), a large dorid nudibranch of the rocky subtidal, brownish and dull-coloured with low ridges and knob-like tubercles on the back that camouflage it against rock and sponge; it feeds on sponges.",
+      "habitat_hint": "Rocky seabed, subtidal, where sponges grow.",
+      "finding_tips": "In the subtidal under rock look for a large brown knobbly nudibranch; the drab camouflage and lumpy back are the clues."
+    },
+    "zh": {
+      "summary": "カクレカザンウミウシ。裸鳃类大型海蛞蝓，栖岩礁潮下带，体褐晦、背具低隆与瘤突以拟岩与海绵之保护色，食海绵。",
+      "habitat_hint": "岩礁海底、潮下带、海绵处。",
+      "finding_tips": "潮下带岩下寻褐色具瘤突之大海蛞蝓；晦暗保护色与瘤背为辨识点。"
+    }
+  },
+  "Scolytus chikisanii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Elm bark beetle",
+    "ja": {
+      "summary": "ニレノキクイムシ。キクイムシの一種(ゾウムシ科キクイムシ亜科)で、ニレ類の樹皮下に穿孔して坑道をつくり、幼虫が内樹皮を食べる。体は小さく円筒形。ニレの衰弱木や伐採木に集まり、樹木の病気を媒介することもある。",
+      "habitat_hint": "ニレ類の樹皮下、衰弱木・伐採木。",
+      "finding_tips": "ニレの枯れ木や弱った木の樹皮をはがして、樹皮下の坑道と小さな円筒形の甲虫を探す。樹皮下の坑道が識別の手がかり。"
+    },
+    "en": {
+      "summary": "An elm bark beetle (Scolytus chikisanii), a scolytine weevil that bores under elm bark to make galleries in which the larvae eat the inner bark; small and cylindrical, it gathers on weakened and felled elms and can transmit tree diseases.",
+      "habitat_hint": "Under elm bark, weakened and felled trees.",
+      "finding_tips": "Peel bark from dead or ailing elm to find galleries and small cylindrical beetles; the under-bark galleries are the clue."
+    },
+    "zh": {
+      "summary": "ニレノキクイムシ。象甲科小蠹类，钻凿榆树皮下作坑道、幼虫食内皮，体小圆筒形，聚于衰弱与伐倒之榆，可传播树木病害。",
+      "habitat_hint": "榆树皮下、衰弱木、伐倒木。",
+      "finding_tips": "剥榆枯木或弱木树皮寻皮下坑道与圆筒小甲虫；皮下坑道为辨识点。"
+    }
+  },
+  "Scopula pudicaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wave moth",
+    "ja": {
+      "summary": "クロスジシロヒメシャク。シャクガ科ヒメシャク亜科の小型のガで、翅は白っぽい地に黒い細い横線(スジ)が走る。草地や林縁にすみ、幼虫は低い草本の葉を食べる尺取り虫。夜行性で灯火に飛来する。",
+      "habitat_hint": "草地、林縁、河川敷。",
+      "finding_tips": "初夏〜秋の夜、灯火で白っぽい地に黒い細い横線をもつ小型のシャクガを探す。黒い細い横線が識別点。"
+    },
+    "en": {
+      "summary": "A wave moth (Scopula pudicaria), a small geometrid with whitish wings crossed by fine black lines; it lives in grassland and woodland edges where its inchworm larva eats low herbs, and it comes to light.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks.",
+      "finding_tips": "On summer nights at lights look for a small whitish moth crossed by fine black lines; the thin dark cross-lines are the clue."
+    },
+    "zh": {
+      "summary": "クロスジシロヒメシャク。尺蛾科小型蛾，翅白底具黑色细横线，栖草地林缘，幼虫为食低矮草本之尺蠖，夜行趋光。",
+      "habitat_hint": "草地、林缘、河滩。",
+      "finding_tips": "初夏至秋夜于灯下寻白底具黑细横线之小尺蛾；黑细横线为辨识点。"
+    }
+  },
+  "Scorpaenopsis ramaraoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scorpionfish",
+    "ja": {
+      "summary": "イヌカサゴ。サンゴ礁や岩礁の海底にすむフサカサゴ科の魚で、体はごつごつして皮弁や突起をもち、岩や海底に擬態して待ち伏せする。背びれのとげに毒があり、刺されると激しく痛むので注意。近づく小魚などを一瞬で吸い込んで食べる。",
+      "habitat_hint": "サンゴ礁・岩礁の海底、潮下帯。",
+      "finding_tips": "潮下帯の岩やサンゴのすき間で、ごつごつして海底に擬態する魚を探す(素手で触れない)。背びれの毒とげに注意。"
+    },
+    "en": {
+      "summary": "A scorpionfish (Scorpaenopsis ramaraoi), a scorpaenid of coral and rocky reef bottoms; its knobbly, flap-fringed body mimics rock as it ambushes prey, sucking in passing fish. The venomous dorsal spines cause a severe sting, so do not touch it.",
+      "habitat_hint": "Coral and rocky reef bottoms, subtidal.",
+      "finding_tips": "In the subtidal among reef look for a knobbly fish camouflaged against rock (do not touch); beware the venomous dorsal spines."
+    },
+    "zh": {
+      "summary": "イヌカサゴ。鲉科鱼，栖珊瑚礁岩礁海底，体粗糙具皮瓣突起、拟岩伏击，吸食近旁小鱼，背鳍棘有毒、刺之剧痛须防。",
+      "habitat_hint": "珊瑚礁、岩礁海底、潮下带。",
+      "finding_tips": "潮下带礁隙寻粗糙拟岩之鱼（勿徒手触碰）；背鳍毒棘须防。"
+    }
+  },
+  "Scutellaria kiusiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ツクシタツナミソウ。九州(筑紫)を中心に暖地の林縁や草地に生えるシソ科タツナミソウ属の多年草。初夏、茎の先に青紫色の唇形の花を同じ向きにそろえて咲かせ、波立つ立浪のように見えるのがタツナミソウ類の特徴。",
+      "habitat_hint": "暖地の林縁、草地、道ばた(西日本)。",
+      "finding_tips": "5〜6月、林縁で青紫色の唇形花が一方向にそろって並ぶ小型のシソ科草本を探す。片側にそろう花並びが手がかり。"
+    },
+    "en": {
+      "summary": "A skullcap (Scutellaria kiusiana), a mint-family perennial of warm-region woodland edges and grassland centred on Kyushu; in early summer its stem tip bears blue-purple two-lipped flowers all facing one way, giving the 'standing-wave' look typical of the skullcaps.",
+      "habitat_hint": "Warm-region woodland edges, grassland, waysides (western Japan).",
+      "finding_tips": "In May–June at woodland edges look for a small mint with blue-purple two-lipped flowers ranked to one side; the one-sided flower row is the clue."
+    },
+    "zh": {
+      "summary": "ツクシタツナミソウ。唇形科黄芩属多年草，以九州为中心生暖地林缘草地，初夏茎顶生青紫唇形花朝同一方向，如立浪起伏，为黄芩类之特征。",
+      "habitat_hint": "暖地林缘、草地、路旁（西日本）。",
+      "finding_tips": "5〜6月于林缘寻青紫唇形花偏向一侧排列之小唇形草；单侧花列为辨识点。"
+    }
+  },
+  "Scutellaria rubropunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "アカボシタツナミソウ。海岸近くの林縁や崖地などに生えるシソ科タツナミソウ属の多年草で、南方系の植物。青紫色の唇形花を一方向にそろえて咲かせ、花の下唇に赤い斑点(赤星)があるのが名の由来。暖地の海岸沿いに分布する。",
+      "habitat_hint": "海岸近くの林縁、崖地(暖地・南西諸島)。",
+      "finding_tips": "春〜初夏、海岸近くで青紫色の唇形花と、その下唇の赤い斑点をもつタツナミソウを探す。花の赤い斑点が識別点。"
+    },
+    "en": {
+      "summary": "A skullcap (Scutellaria rubropunctata), a southern mint-family perennial of coastal woodland edges and cliffs; it bears blue-purple two-lipped flowers ranked to one side, the lower lip spotted red (its Japanese name). It grows along warm-region coasts.",
+      "habitat_hint": "Coastal woodland edges and cliffs (warm regions, SW islands).",
+      "finding_tips": "In spring to early summer near the coast look for a skullcap whose blue-purple flowers have red-spotted lower lips; those red spots are the clue."
+    },
+    "zh": {
+      "summary": "アカボシタツナミソウ。唇形科黄芩属多年草，为南方植物，生近海林缘与崖地，青紫唇形花偏向一侧，下唇具红斑（赤星）而得名，分布暖地海岸。",
+      "habitat_hint": "近海林缘、崖地（暖地、西南诸岛）。",
+      "finding_tips": "春至初夏于近海寻花下唇具红斑之黄芩；花上红斑为辨识点。"
+    }
+  },
+  "Scutellera nepalensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jewel bug",
+    "ja": {
+      "summary": "ラデンキンカメムシ。キンカメムシ科の大型のカメムシで、金属光沢のある鮮やかな体色をもつ美しい昆虫。体は緑や青、赤の金属光沢が入り混じり、螺鈿(らでん)細工のように見えるのが名の由来。暖地の樹上にすみ、植物の汁を吸う。",
+      "habitat_hint": "暖地の樹上・林縁、食草・食樹の上(南方系)。",
+      "finding_tips": "暖地の樹上や葉の上で、金属光沢のある緑・青・赤の鮮やかな大型のカメムシを探す。螺鈿のような金属光沢が識別点。"
+    },
+    "en": {
+      "summary": "A jewel bug (Scutellera nepalensis), a large shield bug of brilliant metallic colouring; its body mixes green, blue and red metallic sheens like mother-of-pearl inlay (its Japanese name). It lives on trees in warm regions, sucking plant sap.",
+      "habitat_hint": "Trees and woodland edges in warm regions (southern).",
+      "finding_tips": "On warm-region foliage look for a large shield bug shining metallic green, blue and red; the mother-of-pearl lustre is the clue."
+    },
+    "zh": {
+      "summary": "ラデンキンカメムシ。盾蝽科大型蝽，体具金属光泽、色彩绚丽，绿蓝红金属光交织如螺钿镶嵌而得名，栖暖地树上吸食植物汁液。",
+      "habitat_hint": "暖地树上、林缘、寄主之上（南方）。",
+      "finding_tips": "暖地枝叶上寻金属绿蓝红之艳丽大蝽；螺钿般金属光泽为辨识点。"
+    }
+  },
+  "Scyllaea pelagica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sargassum nudibranch",
+    "ja": {
+      "summary": "オキウミウシ。外洋を漂う流れ藻(ホンダワラ類)に付着してくらすウミウシ(裸鰓類)で、体は褐色で藻に似た平たい突起(側枝)をもち、流れ藻に紛れる巧みな擬態をする。流れ藻についたヒドロ虫などを食べ、海流とともに広く分布する。",
+      "habitat_hint": "外洋の流れ藻(ホンダワラ類)の上、漂流環境。",
+      "finding_tips": "海岸に漂着した流れ藻や、海面の流れ藻の間で、褐色で藻に似た突起をもつウミウシを探す。流れ藻への擬態が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A sargassum nudibranch (Scyllaea pelagica), a sea slug that lives clinging to drifting Sargassum weed; brown with flat weed-like lobes, it mimics the floating seaweed superbly, eats the hydroids on it and ranges widely with ocean currents.",
+      "habitat_hint": "On drifting Sargassum weed, open-ocean drift.",
+      "finding_tips": "In stranded or floating Sargassum look for a brown slug with weed-like lobes; its mimicry of the drifting weed is the clue."
+    },
+    "zh": {
+      "summary": "オキウミウシ。裸鳃类海蛞蝓，附于漂浮马尾藻而居，体褐、具似藻扁突（侧枝），巧妙拟态漂藻，食其上水螅，随洋流广布。",
+      "habitat_hint": "外洋漂浮马尾藻上、漂流环境。",
+      "finding_tips": "于漂着或海面马尾藻间寻褐色具似藻突起之海蛞蝓；拟态漂藻为辨识点。"
+    }
+  },
+  "Sebastes vulpes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fox jacopever",
+    "ja": {
+      "summary": "キツネメバル。岩礁域にすむメバル科の魚で、体は褐色でまだら模様をもち、大きな口と目をもつ。北日本の沿岸〜やや深い岩礁に多く、夜行性で小魚や甲殻類を食べる。卵ではなく仔魚を産む卵胎生。食用として重要な魚。",
+      "habitat_hint": "北日本の岩礁域、やや深い岩場。",
+      "finding_tips": "岩礁の海底で、褐色のまだら模様と大きな口・目をもつメバル類の魚を探す。がっしりした体と斑模様が手がかり。"
+    },
+    "en": {
+      "summary": "Fox jacopever (Sebastes vulpes), a rockfish of rocky grounds, brown and mottled with a large mouth and eyes; common on northern Japanese coasts and deeper rocky bottoms, it is nocturnal, eats small fish and crustaceans, and bears live young. It is an important food fish.",
+      "habitat_hint": "Northern Japanese rocky grounds, deeper rocky bottoms.",
+      "finding_tips": "On rocky bottoms look for a stout mottled brown rockfish with a big mouth and eyes; the robust mottled body is the clue."
+    },
+    "zh": {
+      "summary": "キツネメバル。平鲉科鱼，栖岩礁区，体褐具斑、口目皆大，多见于北日本沿岸至较深岩礁，夜行食小鱼甲壳类，卵胎生产仔，为重要食用鱼。",
+      "habitat_hint": "北日本岩礁区、较深岩场。",
+      "finding_tips": "岩礁海底寻褐色具斑、大口大眼之平鲉；壮实斑体为辨识点。"
+    }
+  },
+  "Sebastolobus macrochir": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Broadbanded thornyhead",
+    "aliases": {
+      "zh-Hans": "大翅鲪鲉"
+    },
+    "ja": {
+      "summary": "キチジ。北日本の深海の砂泥底にすむフサカサゴ科の魚で、体は鮮やかな赤色。頭にとげが多く、胸びれが大きい。「キンキ」の名でも呼ばれ、脂がのった白身は高級食材として珍重される。ゆっくり成長する深海性の魚。",
+      "habitat_hint": "北日本の深海の砂泥底、大陸斜面。",
+      "finding_tips": "深海性のため観察は困難。市場で頭にとげが多く鮮やかな赤色の大型の胸びれをもつ魚が本種(キンキ)。赤い体ととげの多い頭が識別点。"
+    },
+    "en": {
+      "summary": "Broadbanded thornyhead (Sebastolobus macrochir), a bright-red deep-sea scorpionfish of northern Japan's soft slopes with a spiny head and large pectoral fins; known as 'kinki', its rich white flesh is a prized delicacy. It is a slow-growing deep-water fish.",
+      "habitat_hint": "Deep sandy-mud bottoms and continental slopes off northern Japan.",
+      "finding_tips": "Deep-living and rarely seen alive; in the market a bright-red fish with a spiny head and large pectorals is this species (kinki); the red body and spiny head are the clues."
+    },
+    "zh": {
+      "summary": "キチジ（大翅鲪鲉）。鲉科深海鱼，栖北日本深海砂泥底与大陆坡，体鲜红、头多棘、胸鳍大，别名「喜知次/kinki」，脂厚白肉为高档食材，生长缓慢。",
+      "habitat_hint": "北日本深海砂泥底、大陆坡。",
+      "finding_tips": "深海罕见活体；市场中头多棘、体鲜红、胸鳍大之鱼即本种；红体多棘头为辨识点。"
+    }
+  },
+  "Sechium edule": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "aliases": {
+      "zh-Hans": "佛手瓜"
+    },
+    "ja": {
+      "summary": "ハヤトウリ。中央アメリカ原産のウリ科のつる性多年草で、野菜として栽培される。巻きひげで他物にからみ、大きな心形の葉をもつ。秋、淡緑色〜白色の洋なし形の果実を多数つけ、果実は漬物や炒め物などに利用される。日本では鹿児島などで栽培される。",
+      "habitat_hint": "畑・庭の棚、栽培(暖地で逸出も)。",
+      "finding_tips": "秋、棚仕立てのつるに淡緑色の洋なし形の果実がなるウリ科植物を探す。表面にしわのある洋なし形の実が識別点。"
+    },
+    "en": {
+      "summary": "Chayote (Sechium edule), a Central American cucurbit vine grown as a vegetable; it climbs by tendrils with large heart-shaped leaves and in autumn bears many pale-green to white pear-shaped fruit used pickled or stir-fried. In Japan it is grown notably in Kagoshima.",
+      "habitat_hint": "Field and garden trellises; cultivated (escaping in warm areas).",
+      "finding_tips": "In autumn on a trellised vine look for pale-green pear-shaped fruit; the wrinkled pear-shaped fruit is the clue."
+    },
+    "zh": {
+      "summary": "ハヤトウリ（佛手瓜）。葫芦科藤本多年草，原产中美洲，作蔬菜栽培，以卷须攀援、叶大心形，秋结多数淡绿至白色梨形果，供腌制炒食，日本以鹿儿岛等地栽培。",
+      "habitat_hint": "田园棚架、栽培（暖地或逸出）。",
+      "finding_tips": "秋于棚架藤上寻淡绿梨形果之葫芦科植物；具皱梨形果为辨识点。"
+    }
+  },
+  "Sedum dasyphyllum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Corsican stonecrop",
+    "ja": {
+      "summary": "ヒメホシビジン。ヨーロッパ原産のベンケイソウ科の小型の多肉植物で、青みを帯びた粉白色の丸く多肉質の小さな葉を密につける。乾いた岩場や石垣、鉢植えなどで育ち、初夏に白い小さな星形の花を咲かせる。観賞用のセダムのひとつ。",
+      "habitat_hint": "乾いた岩場・石垣、鉢植え、日当たりのよい場所(栽培)。",
+      "finding_tips": "初夏、石垣や岩場で青白い粉を帯びた丸く多肉の小さな葉と白い星形の小花をもつ多肉植物を探す。青白い丸い多肉葉が識別点。"
+    },
+    "en": {
+      "summary": "Corsican stonecrop (Sedum dasyphyllum), a small European stonecrop succulent densely set with rounded, fleshy, blue-grey mealy leaves; it grows on dry rock, walls and in pots and opens small white star-shaped flowers in early summer — a popular ornamental sedum.",
+      "habitat_hint": "Dry rock and walls, pots, sunny places (cultivated).",
+      "finding_tips": "In early summer on rock or walls look for a succulent with rounded blue-grey mealy leaves and small white star flowers; the blue-grey round leaves are the clue."
+    },
+    "zh": {
+      "summary": "ヒメホシビジン。景天科小型多肉，原产欧洲，密生青白被粉之圆润肉质小叶，生干岩、石墙与盆栽，初夏开白色星状小花，为观赏景天之一。",
+      "habitat_hint": "干岩、石墙、盆栽、向阳处（栽培）。",
+      "finding_tips": "初夏于岩墙寻青白被粉圆肉小叶与白星小花之多肉；青白圆肉叶为辨识点。"
+    }
+  },
+  "Semisulcospira nakasekoae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "River snail",
+    "ja": {
+      "summary": "ナカセコカワニナ。河川や用水路などの淡水にすむカワニナ科の巻貝で、殻は細長い塔形。付着藻類などを食べる。カワニナ類はゲンジボタルなどの幼虫の重要な餌となり、ホタルの生息と深く結びついている。琵琶湖水系などに分布する。",
+      "habitat_hint": "河川・用水路の淡水、石の多い流れ。",
+      "finding_tips": "川や用水路の石の上や石の下で、細長い塔形の巻貝を探す。塔形の殻と流水環境が手がかり。ホタルの生息地の指標にもなる。"
+    },
+    "en": {
+      "summary": "A river snail (Semisulcospira nakasekoae), a freshwater snail of rivers and channels with an elongate tower-shaped shell; it grazes attached algae. Kawanina snails are a vital food of firefly larvae, so they are closely tied to firefly habitat. It occurs in the Lake Biwa system and beyond.",
+      "habitat_hint": "Freshwater rivers and channels, stony flowing water.",
+      "finding_tips": "On or under stones in rivers or channels look for an elongate tower-shaped snail; the tower shell in flowing water is the clue, and it marks firefly habitat."
+    },
+    "zh": {
+      "summary": "ナカセコカワニナ。川蜷科淡水螺，栖河流与水渠，壳细长塔形，刮食附着藻类，川蜷类为萤火虫幼虫要食、与萤栖境密切相关，分布琵琶湖水系等。",
+      "habitat_hint": "河流、水渠淡水，多石流水。",
+      "finding_tips": "河渠石上石下寻细长塔形之螺；塔壳与流水为辨识点，亦为萤栖指标。"
+    }
+  },
+  "Smilax bracteata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Greenbrier",
+    "ja": {
+      "summary": "サツマサンキライ。暖地の林縁や林内に生えるサルトリイバラ科の常緑のつる植物で、茎にとげがあり、革質でつやのある葉をもつ。葉のつけ根から出る巻きひげで他物にからむ。秋〜冬に黒く熟す球形の果実をつける。西日本〜南西諸島に分布。",
+      "habitat_hint": "暖地の林縁・林内、崖地(西日本〜南西諸島)。",
+      "finding_tips": "暖地の林縁で、とげのある茎と革質でつやのある葉、巻きひげをもつ常緑のつる植物を探す。とげと革質の葉、黒い果実が手がかり。"
+    },
+    "en": {
+      "summary": "A greenbrier (Smilax bracteata), an evergreen climber of warm-region woodland edges and interiors with prickly stems and leathery glossy leaves; it climbs by tendrils from the leaf bases and ripens round black berries in autumn to winter. It ranges from western Japan to the southwest islands.",
+      "habitat_hint": "Warm-region woodland edges and interiors, cliffs (W Japan to SW islands).",
+      "finding_tips": "At warm woodland edges look for an evergreen climber with prickly stems, leathery glossy leaves and tendrils; the prickles, leathery leaves and black berries are the clues."
+    },
+    "zh": {
+      "summary": "サツマサンキライ。菝葜科常绿藤本，生暖地林缘与林内，茎具刺、叶革质有光泽，以叶基卷须攀援，秋冬结黑熟球果，分布西日本至西南诸岛。",
+      "habitat_hint": "暖地林缘、林内、崖地（西日本至西南诸岛）。",
+      "finding_tips": "暖地林缘寻具刺茎、革质亮叶与卷须之常绿藤；刺、革叶与黑果为辨识点。"
+    }
+  },
+  "Solanum erianthum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potato tree",
+    "aliases": {
+      "zh-Hans": "山烟草"
+    },
+    "ja": {
+      "summary": "ヤンバルナスビ。暖地の林縁や道ばた、荒れ地に生えるナス科の低木〜小高木で、全体に星状毛が密生して灰白色を帯びる。大きな葉と、白い星形の花、黄色く熟す球形の果実をつける。南西諸島などに分布し、荒れ地に群生する。",
+      "habitat_hint": "暖地の林縁、道ばた、荒れ地(南西諸島など)。",
+      "finding_tips": "暖地の荒れ地で、星状毛で灰白色を帯びた大きな葉と白い星形の花、黄色い球果をもつ低木を探す。灰白色の毛深い葉が識別点。"
+    },
+    "en": {
+      "summary": "Potato tree / mullein nightshade (Solanum erianthum), a nightshade shrub to small tree of warm-region woodland edges, waysides and waste ground, greyish-white with dense stellate hairs; it has large leaves, white star-shaped flowers and round yellow-ripening fruit, growing in patches on disturbed ground in the southwest islands and beyond.",
+      "habitat_hint": "Warm-region woodland edges, waysides, waste ground (SW islands, etc.).",
+      "finding_tips": "On warm waste ground look for a shrub with grey-hairy large leaves, white star flowers and yellow round fruit; the greyish felted leaves are the clue."
+    },
+    "zh": {
+      "summary": "ヤンバルナスビ（山烟草）。茄科灌木至小乔木，生暖地林缘、路旁与荒地，全株密被星状毛呈灰白，具大叶、白色星状花与黄熟球果，分布西南诸岛等，成片生于荒地。",
+      "habitat_hint": "暖地林缘、路旁、荒地（西南诸岛等）。",
+      "finding_tips": "暖地荒地寻灰白毛之大叶、白星花与黄球果之灌木；灰白毡毛叶为辨识点。"
+    }
+  },
+  "Solidago nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goldenrod",
+    "ja": {
+      "summary": "オオアキノキリンソウ。山地の草地や林縁に生えるキク科アキノキリンソウ属の多年草で、アキノキリンソウの仲間。秋、茎の上部に黄色い小さな頭花を穂状〜円錐状に多数つける。日当たりのよい山地の草地でよく見られる。",
+      "habitat_hint": "山地の草地、林縁、日当たりのよい斜面。",
+      "finding_tips": "秋、山地の草地で茎の上部に黄色い小さな頭花を穂状につける草本を探す。黄色い花穂とやや大きな草姿が手がかり。"
+    },
+    "en": {
+      "summary": "A goldenrod (Solidago nipponica), a daisy-family perennial of montane grassland and woodland edges, related to the common goldenrod; in autumn the upper stem bears many small yellow flower heads in spike-like to conical clusters, common in sunny mountain grassland.",
+      "habitat_hint": "Montane grassland, woodland edges, sunny slopes.",
+      "finding_tips": "In autumn in mountain grassland look for a plant with small yellow flower heads in spikes at the stem top; the yellow flower spikes are the clue."
+    },
+    "zh": {
+      "summary": "オオアキノキリンソウ。菊科一枝黄花属多年草，生山地草地与林缘，为一枝黄花之近亲，秋于茎上部生多数黄色小头状花成穗至圆锥状，常见于向阳山地草地。",
+      "habitat_hint": "山地草地、林缘、向阳坡。",
+      "finding_tips": "秋于山地草地寻茎上部穗状黄色小头状花之草；黄花穗为辨识点。"
+    }
+  },
+  "Sonchus arvensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Field sow-thistle",
+    "aliases": {
+      "zh-Hans": "苣荬菜"
+    },
+    "ja": {
+      "summary": "アレチノゲシ。ヨーロッパ原産で各地に帰化したキク科の多年草。地下茎で広がり、荒れ地や道ばた、畑に生える。夏〜秋、タンポポに似た黄色い大きめの頭花を咲かせる。茎や葉を切ると白い乳液が出る。しばしば群生する雑草。",
+      "habitat_hint": "荒れ地、道ばた、畑、河川敷(帰化)。",
+      "finding_tips": "夏〜秋、荒れ地でタンポポに似た黄色い頭花と、切ると白い乳液の出る茎をもつ大型の草本を探す。黄色い頭花と乳液が手がかり。"
+    },
+    "en": {
+      "summary": "Field sow-thistle (Sonchus arvensis), a European daisy-family perennial naturalised widely; spreading by rhizomes on waste ground, waysides and fields, it opens fairly large dandelion-like yellow flower heads in summer to autumn, and the cut stems exude white latex. It often grows in stands.",
+      "habitat_hint": "Waste ground, waysides, fields, riverbanks (naturalised).",
+      "finding_tips": "In summer–autumn on waste ground look for a tall plant with dandelion-like yellow heads whose cut stems bleed white latex; the yellow heads and milky sap are the clues."
+    },
+    "zh": {
+      "summary": "アレチノゲシ（苣荬菜）。菊科多年草，原产欧洲、各地归化，以地下茎蔓延，生荒地、路旁与农田，夏秋开似蒲公英之较大黄色头状花，茎叶折断流白色乳液，常成片为杂草。",
+      "habitat_hint": "荒地、路旁、农田、河滩（归化）。",
+      "finding_tips": "夏秋于荒地寻似蒲公英黄头状花、折茎流白乳之大草；黄头状花与乳液为辨识点。"
+    }
+  },
+  "Sorbus sambucifolia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine rowan",
+    "ja": {
+      "summary": "タカネナナカマド。亜高山〜高山の林縁や岩場に生えるバラ科ナナカマド属の落葉低木で、ナナカマドより小型。羽状複葉をもち、初夏に白い小花を散房状に咲かせ、秋に赤く熟す果実と紅葉が美しい。高山を彩る木のひとつ。",
+      "habitat_hint": "亜高山〜高山の林縁、岩場、ハイマツ帯の縁。",
+      "finding_tips": "秋、高山の岩場や林縁で羽状複葉と赤く熟した果実、鮮やかな紅葉をもつ小型の木を探す。羽状複葉と赤い実が手がかり。"
+    },
+    "en": {
+      "summary": "Alpine rowan (Sorbus sambucifolia), a deciduous rosaceous shrub of subalpine to alpine woodland edges and rocks, smaller than the common rowan; it has pinnate leaves, flat clusters of small white flowers in early summer, and beautiful red fruit and autumn colour, one of the shrubs that adorn the high mountains.",
+      "habitat_hint": "Subalpine–alpine woodland edges, rocks, dwarf-pine margins.",
+      "finding_tips": "In autumn on alpine rocks look for a small shrub with pinnate leaves, red berries and vivid autumn colour; the pinnate leaves and red fruit are the clues."
+    },
+    "zh": {
+      "summary": "タカネナナカマド。蔷薇科花楸属落叶灌木，生亚高山至高山林缘与岩场，较花楸为小，具羽状复叶，初夏生白色小花之伞房序，秋果红熟、红叶亦美，为点缀高山之木。",
+      "habitat_hint": "亚高山至高山林缘、岩场、偃松带缘。",
+      "finding_tips": "秋于高山岩场寻羽状复叶、红熟果与红叶之小木；羽状复叶与红果为辨识点。"
+    }
+  },
+  "Sphyraena barracuda": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Great barracuda",
+    "aliases": {
+      "zh-Hans": "大魣"
+    },
+    "ja": {
+      "summary": "オニカマス。サンゴ礁やその周辺の浅海にすむカマス科の大型の肉食魚で、全長1.5mに達する。体は細長い銀色で、鋭い歯をもつ大きな口をもつ。単独で待ち伏せし、素早く小魚を襲う。大型個体は毒(シガテラ)をもつことがあり、食用には注意が必要。",
+      "habitat_hint": "サンゴ礁・岩礁とその周辺の浅海、外洋の縁。",
+      "finding_tips": "サンゴ礁の周辺で、細長い銀色の体と鋭い歯をもつ大型の魚が単独で漂うのを探す。細長い銀の体と鋭い歯が識別点。"
+    },
+    "en": {
+      "summary": "Great barracuda (Sphyraena barracuda), a large predatory barracuda of coral reefs and adjacent shallows reaching about 1.5 m; the slender silvery body has a large mouth full of sharp teeth. It ambushes solitarily and strikes small fish fast; large individuals can carry ciguatera toxin, so eating them needs caution.",
+      "habitat_hint": "Coral and rocky reefs and adjacent shallows, ocean edge.",
+      "finding_tips": "Around reefs look for a large slender silvery fish with sharp teeth hanging solitarily in the water; the long silver body and fangs are the clues."
+    },
+    "zh": {
+      "summary": "オニカマス（大魣）。魣科大型肉食鱼，栖珊瑚礁及周边浅海，全长可达1.5米，体细长银色、大口具利齿，独居伏击、迅袭小鱼，大个体或带雪卡毒素，食须谨慎。",
+      "habitat_hint": "珊瑚礁、岩礁及周边浅海、外洋缘。",
+      "finding_tips": "礁区寻细长银体具利齿之大鱼独悬水中；长银体与利齿为辨识点。"
+    }
   }
 }
