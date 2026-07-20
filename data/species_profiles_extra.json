@@ -285730,5 +285730,539 @@
       "habitat_hint": "夏秋阔叶与针阔混交林地上。",
       "finding_tips": "夏秋于林地见盖黄褐、柄具环、基部具白袋状托之菌即视为剧毒回避；黄褐盖与环、袋状托为辨识点（剧毒·绝不可食）。"
     }
+  },
+  "Amauropelta miyagii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Maiden fern",
+    "ja": {
+      "summary": "リュウキュウハシゴシダ。暖地や亜熱帯の湿った林床や渓流沿いに生えるヒメシダ科の常緑性のシダで、葉は羽状に深く裂け、多数の羽片が梯子(はしご)のように規則的に並ぶのが名の由来。名のとおり沖縄など南西諸島に分布する。羽片の裏に胞子のうの集まり(ソーラス)をつける。",
+      "habitat_hint": "暖地・亜熱帯の湿った林床、渓流沿い、林縁。",
+      "finding_tips": "暖地の湿った林床で、多数の羽片が梯子状に規則的に並ぶ羽状のシダを探す。梯子状に並ぶ羽片が識別点。"
+    },
+    "en": {
+      "summary": "A maiden fern (Amauropelta miyagii, Thelypteridaceae), an evergreen fern of moist warm-region and subtropical forest floor and streamsides; the fronds are deeply pinnate with many pinnae arranged regularly like the rungs of a ladder (the source of the Japanese name). It occurs in the Ryukyus, bearing sori on the pinnae undersides.",
+      "habitat_hint": "Moist warm-region and subtropical forest floor, streamsides, edges.",
+      "finding_tips": "On moist warm-region forest floor look for a pinnate fern with many ladder-like regularly-spaced pinnae; the ladder-like pinnae are the clue."
+    },
+    "zh": {
+      "summary": "リュウキュウハシゴシダ。金星蕨科常绿蕨，生暖地与亚热带湿润林床及溪畔，叶羽状深裂、众多羽片如梯级般规则排列（名之由来），分布冲绳等西南诸岛，羽片背面生孢子囊群。",
+      "habitat_hint": "暖地与亚热带湿润林床、溪畔、林缘。",
+      "finding_tips": "于暖地湿润林床寻羽片众多如梯级规则排列之羽状蕨；梯级状羽片为辨识点。"
+    }
+  },
+  "Amblychaeturichthys sciistius": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goby",
+    "ja": {
+      "summary": "コモチジャコ。内湾や沿岸のやや深い泥底・砂泥底にすむハゼ科の小型の魚で、体は細長く淡褐色。頬から下あごにかけてひげ状の小突起をもつ。名(子持ち)は多くの卵を抱えることに由来するとされる。底近くにすんで小さな甲殻類などを食べる。底引き網などで見られる。",
+      "habitat_hint": "内湾、沿岸のやや深い泥底、砂泥底。",
+      "finding_tips": "内湾の泥底や底引きで、頬にひげ状突起をもつ細長い淡褐色の小型のハゼを探す。頬のひげ状突起と細長い体が識別点。"
+    },
+    "en": {
+      "summary": "A goby (Amblychaeturichthys sciistius, Gobiidae), a small fish of somewhat deep mud and sand-mud bottoms in bays and coasts; the elongate body is pale brown, with small barbel-like projections on the cheek and lower jaw. It lives near the bottom eating small crustaceans and is taken in trawls.",
+      "habitat_hint": "Bay and coastal somewhat-deep mud and sand-mud bottoms.",
+      "finding_tips": "On bay mud or in trawls look for an elongate pale-brown small goby with barbel-like cheek projections; the cheek barbels on an elongate body are the clue."
+    },
+    "zh": {
+      "summary": "コモチジャコ。鰕虎科小型鱼，栖内湾沿岸略深泥底与砂泥底，体细长淡褐，颊至下颌具须状小突，和名（子持）指其抱卵多，近底而居食小甲壳类，底拖网可见。",
+      "habitat_hint": "内湾、沿岸略深泥底、砂泥底。",
+      "finding_tips": "于内湾泥底或底拖寻颊具须状突之细长淡褐小鰕虎；颊须与细长体为辨识点。"
+    }
+  },
+  "Amblygobius phalaena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Banded goby",
+    "ja": {
+      "summary": "サラサハゼ。サンゴ礁や岩礁の砂底にすむハゼ科の魚で、体は淡色の地に暗色の横帯が数本走り、更紗(さらさ)模様に見えるのが名の由来。砂を口に含んで底の有機物や小動物をこし取って食べる(砂を吐き出す)習性がある。つがいで縄張りをもつことが多い。サンゴ礁の砂底で普通に見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁の砂底、礁湖。",
+      "finding_tips": "サンゴ礁の砂底で、淡色地に暗色の横帯が数本走り砂をこす小型のハゼを探す。更紗模様の横帯と砂をこす行動が識別点。"
+    },
+    "en": {
+      "summary": "The banded goby (Amblygobius phalaena, Gobiidae) of reef and rocky sand bottoms; the pale body has several dark vertical bars giving a calico pattern (the source of the Japanese name). It takes mouthfuls of sand to sift out organic matter and small animals (spitting the sand out), and often holds a territory as a pair. It is common on reef sand.",
+      "habitat_hint": "Warm-water coral and rocky reef sand, lagoons.",
+      "finding_tips": "On reef sand look for a small goby with several dark bars sifting sand; the barred calico pattern and sand-sifting behaviour are the clue."
+    },
+    "zh": {
+      "summary": "サラサハゼ。鰕虎科之鱼，栖珊瑚礁与岩礁砂底，体淡底具数条暗横带、如更纱纹（和名之由来），含砂滤食底之有机物与小动物（吐砂），常成对守域，珊瑚礁砂底常见。",
+      "habitat_hint": "暖海珊瑚礁、岩礁砂底、礁湖。",
+      "finding_tips": "于珊瑚礁砂底寻淡底具数暗横带而滤砂之小鰕虎；更纱横带与滤砂行为为辨识点。"
+    }
+  },
+  "Amorphophallus rivieri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Konjac",
+    "aliases": {
+      "zh-Hans": "蒟蒻"
+    },
+    "ja": {
+      "summary": "コンニャク。地下に大きな球茎(こんにゃく芋)をつくるサトイモ科の多年草で、この球茎からこんにゃく(食品)が作られる。葉は1枚で、長い柄の先が3つに分かれ更に細かく裂けて、まるで小さな木のように広がる。数年に一度、暗紫色の大きな仏炎苞に包まれた花序を出し、悪臭を放つ。栽培される。",
+      "habitat_hint": "畑での栽培、家庭菜園、逸出地。",
+      "finding_tips": "畑で、長い斑点のある柄の先に細かく裂けた1枚の葉を木のように広げる草を探す。1枚の傘状に裂ける葉と地下の大きな球茎が識別点。"
+    },
+    "en": {
+      "summary": "Konjac (Amorphophallus rivieri, Araceae), a perennial forming a large underground corm from which the food konjac is made; it has a single leaf whose long stalk divides into three and repeatedly dissects, spreading like a small tree. Every few years it produces an inflorescence wrapped in a large dark-purple spathe that emits a foul smell. It is cultivated.",
+      "habitat_hint": "Field cultivation, home gardens, escapes.",
+      "finding_tips": "In fields look for a plant with a long spotted stalk bearing a single finely-dissected leaf spread tree-like; the single umbrella-like dissected leaf over a large corm is the clue."
+    },
+    "zh": {
+      "summary": "コンニャク。天南星科多年草，地下结大球茎（蒟蒻芋），以之制蒟蒻食品，叶单一、长柄顶三分再细裂如小树般展开，数年一度抽由暗紫大佛焰苞包之花序、放恶臭，为栽培作物。",
+      "habitat_hint": "田间栽培、家庭菜园、逸出地。",
+      "finding_tips": "于田间寻长而具斑之柄顶生单一细裂叶如树状展开之草；单一伞状裂叶与地下大球茎为辨识点。"
+    }
+  },
+  "Ampedus carbunculus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Click beetle",
+    "ja": {
+      "summary": "ヒメクロコメツキ。朽木や倒木のある林にすむコメツキムシ科の小型の甲虫で、体は黒っぽく細長い。裏返しになると胸と腹の関節を『パチン』と弾いて跳ね起きるコメツキムシ特有の習性をもつ。幼虫は朽木の中にすみ、他の昆虫の幼虫などを捕食するとされる。夜、灯火に飛来することがある。",
+      "habitat_hint": "朽木や倒木のある林、林縁、樹皮下。",
+      "finding_tips": "朽木や樹皮下で、黒っぽく細長い小型のコメツキムシを探す。裏返すと跳ね起きる習性と黒い細長い体が識別点。"
+    },
+    "en": {
+      "summary": "A click beetle (Ampedus carbunculus, Elateridae), a small dark elongate beetle of woodland with rotten wood and logs; like other click beetles it snaps its thorax-abdomen joint to jump upright when overturned. The larva lives in rotten wood and is thought to prey on other insect larvae. Adults sometimes come to lights.",
+      "habitat_hint": "Woodland with rotten wood and logs, edges, under bark.",
+      "finding_tips": "On rotten wood or under bark look for a small dark elongate click beetle; the jump-when-flipped behaviour and dark elongate body are the clue."
+    },
+    "zh": {
+      "summary": "ヒメクロコメツキ。叩甲科小型甲虫，栖具朽木倒木之林，体黑细长，翻身时以胸腹关节『啪』弹跳起（叩甲特性），幼虫居朽木、据信捕食他虫幼虫，夜间趋光。",
+      "habitat_hint": "具朽木倒木之林、林缘、树皮下。",
+      "finding_tips": "于朽木树皮下寻黑而细长之小型叩甲；翻身弹跳与黑细长体为辨识点。"
+    }
+  },
+  "Amphiroa anceps": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coralline alga",
+    "ja": {
+      "summary": "カニノテ。潮間帯〜浅海の岩上に生える紅藻類のサンゴモ科の海藻で、体は石灰質を沈着してかたく、節ごとに枝分かれして、カニのはさみ(蟹の手)のように見えるのが名の由来。淡紅色〜紫紅色でごつごつとした感触。岩に固着して群落をつくり、他の生物の付着基盤にもなる。",
+      "habitat_hint": "潮間帯〜浅海の岩上、タイドプール、岩礁。",
+      "finding_tips": "岩やタイドプールで、石灰質でかたく節ごとに枝分かれする淡紅色の海藻を探す。カニのはさみ状に枝分かれするかたい体が識別点。"
+    },
+    "en": {
+      "summary": "A coralline alga (Amphiroa anceps, Corallinaceae), a red seaweed of intertidal to shallow rock; the thallus is hardened with calcium carbonate and branches at each segment, resembling a crab's claw (the source of the Japanese name). Pinkish to purple-red and rough to the touch, it attaches to rock in colonies and serves as a substrate for other organisms.",
+      "habitat_hint": "Intertidal to shallow rock, tide pools, reefs.",
+      "finding_tips": "On rock or in tide pools look for a hard calcified pinkish seaweed branching at each joint; the hard crab-claw-like segmented branching is the clue."
+    },
+    "zh": {
+      "summary": "カニノテ。红藻珊瑚藻科海藻，生潮间带至浅海岩上，体沉积石灰质而硬、逐节分枝、状似蟹螯（和名之由来），淡红至紫红、触之粗糙，固着岩面成群落，亦为他生物附着基。",
+      "habitat_hint": "潮间带至浅海岩上、潮池、岩礁。",
+      "finding_tips": "于岩面潮池寻石灰质硬而逐节分枝之淡红海藻；蟹螯状分枝之硬体为辨识点。"
+    }
+  },
+  "Anacampsis anisogramma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Twirler moth",
+    "ja": {
+      "summary": "サクラキバガ。キバガ科(Anacampsis)の小型のガで、前翅は細長く、褐色〜暗褐色で、幼虫はサクラなどバラ科の葉につく。静止時は翅を体に沿ってたたむ。幼虫は葉を綴ったり巻いたりして中で葉を食べる。低山地の林や林縁で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで前翅の細長い小型のキバガを探す。細長い前翅の小型のガが手がかり(近縁種は斑紋で区別)。"
+    },
+    "en": {
+      "summary": "A twirler moth (Anacampsis, Gelechiidae), a small moth with narrow forewings; 褐色〜暗褐色で、幼虫はサクラなどバラ科の葉につく. It folds its wings along the body at rest, and the larva feeds within tied or rolled leaves. Adults come to lights in low montane woodland and edges.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a small gelechiid with narrow forewings; the narrow-winged small moth is the clue (relatives separated by pattern)."
+    },
+    "zh": {
+      "summary": "サクラキバガ。麦蛾科（Anacampsis）小型蛾，前翅细长，褐色〜暗褐色で、幼虫はサクラなどバラ科の葉につく。静止时翅贴体，幼虫缀叶或卷叶于内取食，低山地林与林缘夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻前翅细长之小型麦蛾；细长前翅之小蛾为线索（近缘种以斑纹区分）。"
+    }
+  },
+  "Anacampsis solemnella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Twirler moth",
+    "ja": {
+      "summary": "シロオビクロキバガ。キバガ科(Anacampsis)の小型のガで、前翅は細長く、黒っぽい地に白い帯(白帯)が横に走る。静止時は翅を体に沿ってたたむ。幼虫は葉を綴ったり巻いたりして中で葉を食べる。低山地の林や林縁で夜間に灯火へ飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、雑木林。",
+      "finding_tips": "夜、灯火などで前翅の細長い小型のキバガを探す。細長い前翅の小型のガが手がかり(近縁種は斑紋で区別)。"
+    },
+    "en": {
+      "summary": "A twirler moth (Anacampsis, Gelechiidae), a small moth with narrow forewings; 黒っぽい地に白い帯(白帯)が横に走る. It folds its wings along the body at rest, and the larva feeds within tied or rolled leaves. Adults come to lights in low montane woodland and edges.",
+      "habitat_hint": "Low montane to hill woodland, edges, secondary forest.",
+      "finding_tips": "At night at lights look for a small gelechiid with narrow forewings; the narrow-winged small moth is the clue (relatives separated by pattern)."
+    },
+    "zh": {
+      "summary": "シロオビクロキバガ。麦蛾科（Anacampsis）小型蛾，前翅细长，黒っぽい地に白い帯(白帯)が横に走る。静止时翅贴体，幼虫缀叶或卷叶于内取食，低山地林与林缘夜间趋光。",
+      "habitat_hint": "低山地至丘陵林、林缘、杂木林。",
+      "finding_tips": "夜于灯下寻前翅细长之小型麦蛾；细长前翅之小蛾为线索（近缘种以斑纹区分）。"
+    }
+  },
+  "Anaptychia isidiza": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fringe lichen",
+    "ja": {
+      "summary": "トゲヒメゲジゲジゴケ。樹幹や岩に着生する葉状〜小低木状の地衣類(ムカデゴケ科)で、体は灰色〜灰褐色。裂片が細く分かれ、縁や表面に棘状の粒(isidia、無性生殖器)を多くつけるのが名の由来。ゲジゲジのように細かく分かれた見た目。山地の樹皮や岩に群落をつくる。",
+      "habitat_hint": "山地の樹幹、岩上、蘚苔上の着生環境。",
+      "finding_tips": "一年中、樹皮や岩で灰色の細く分かれた裂片に棘状の粒を多くつける地衣を探す。細い裂片と棘状の粒(イシディア)が識別点。"
+    },
+    "en": {
+      "summary": "A fringe lichen (Anaptychia isidiza, Physciaceae) epiphytic on trunks and rock; the grey to grey-brown thallus is foliose to subfruticose, with narrow lobes bearing many spine-like granules (isidia, vegetative propagules) on the margins and surface (the source of the Japanese name). It looks finely divided like a centipede and forms colonies on montane bark and rock.",
+      "habitat_hint": "Montane trunks, rock, over mosses (epiphytic).",
+      "finding_tips": "Year-round on bark or rock look for a grey finely-divided lichen with narrow lobes bearing spine-like granules; the narrow lobes with isidia are the clue."
+    },
+    "zh": {
+      "summary": "トゲヒメゲジゲジゴケ。附生树干岩石之叶状至亚灌木状地衣（蜈蚣衣科），体灰至灰褐，裂片细分、缘与面多具刺状粒（isidia 营养繁殖体，名之由来），状细分如蜈蚣，于山地树皮岩面成群落。",
+      "habitat_hint": "山地树干、岩上、藓苔上附生。",
+      "finding_tips": "全年于树皮岩面寻灰色细分裂片而多具刺状粒之地衣；细裂片与刺状粒（isidia）为辨识点。"
+    }
+  },
+  "Anaspis marseuli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False flower beetle",
+    "ja": {
+      "summary": "クロフナガタハナノミ。花に集まるハナノミ科(Anaspis)の小型の甲虫で、体は黒っぽく、横から見ると舟形(舟形)にやや丸みを帯びる。腹端がとがり、驚くと跳ねる。成虫は花に来て花粉を食べ、幼虫は朽木や枯れ枝の中で育つ。春〜初夏に各種の花で見られる。",
+      "habitat_hint": "花、林縁、朽木や枯れ枝のある林。",
+      "finding_tips": "春〜初夏、花の上で黒っぽく舟形で腹端のとがった小さな甲虫を探す。舟形の体と跳ねる習性が識別点。"
+    },
+    "en": {
+      "summary": "A false flower beetle (Anaspis marseuli, Scraptiidae), a small flower-visiting beetle; the dark body is boat-shaped and somewhat rounded in side view, with a pointed abdomen tip, and it jumps when disturbed. Adults visit flowers to eat pollen and larvae develop in rotten wood and dead branches. It is seen on various flowers in spring to early summer.",
+      "habitat_hint": "Flowers, woodland edges, woods with rotten wood and dead branches.",
+      "finding_tips": "In spring to early summer on flowers look for a small dark boat-shaped beetle with a pointed abdomen; the boat shape and jumping habit are the clue."
+    },
+    "zh": {
+      "summary": "クロフナガタハナノミ。花蚤科（Anaspis）小型甲虫，聚于花，体黑、侧视舟形而略圆，腹端尖、受惊善跳，成虫访花食花粉，幼虫于朽木枯枝内发育，春至初夏见于各花。",
+      "habitat_hint": "花、林缘、具朽木枯枝之林。",
+      "finding_tips": "春至初夏于花上寻黑而舟形、腹端尖之小甲虫；舟形体与跳跃习性为辨识点。"
+    }
+  },
+  "Ancistrocerus trifasciatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Potter wasp",
+    "ja": {
+      "summary": "シブヤスジドロバチ。ドロバチ科(狩人バチ)のハチで、体は黒地に黄色の帯(条)が数本並び、腹部に三本ほどの黄帯(三帯)をもつ。竹筒や既存の穴などに泥で仕切った巣室を作り、狩った蛾などの幼虫(青虫)を麻酔して詰め、卵を産む。単独性で、幼虫はその獲物を食べて育つ。",
+      "habitat_hint": "林縁、草地、人家周辺の竹筒や穴のある環境。",
+      "finding_tips": "初夏〜夏、花や竹筒のまわりで黒地に黄帯をもつ細身のドロバチを探す。腹の黄帯と泥で巣を作る習性が識別点。"
+    },
+    "en": {
+      "summary": "A potter wasp (Ancistrocerus trifasciatus, Vespidae: Eumeninae), a solitary hunting wasp; the black body bears several yellow bands, with about three yellow bands on the abdomen (the source of the Japanese name 'three-banded'). It builds mud-partitioned cells in bamboo tubes or existing holes, stocking them with paralysed caterpillars and laying an egg; the larva feeds on the prey.",
+      "habitat_hint": "Woodland edges, grassland, around houses with bamboo tubes and holes.",
+      "finding_tips": "In early summer to summer around flowers or bamboo tubes look for a slender black-and-yellow-banded wasp; the yellow abdominal bands and mud-nesting habit are the clue."
+    },
+    "zh": {
+      "summary": "シブヤスジドロバチ。蜾蠃科（狩猎蜂）之蜂，体黑具数条黄带、腹部约三黄带（三带），于竹筒或现成孔中以泥隔巢室、贮麻醉之蛾类幼虫（青虫）产卵，独居，幼虫食其猎物。",
+      "habitat_hint": "林缘、草地、人家周边具竹筒孔穴处。",
+      "finding_tips": "初夏至夏于花或竹筒旁寻黑底具黄带之细身蜾蠃；腹黄带与泥筑巢习性为辨识点。"
+    }
+  },
+  "Andrena foveopunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "テンコクヒメハナバチ。地中に単独で巣穴を掘って営巣するヒメハナバチ科(Andrena)のハナバチで、主に春に活動する。体はやや細く、雌は後脚などに花粉を集める毛をもつ。花を訪れて花粉と蜜を集め、巣穴の各室に貯えて産卵する。体に点刻(punctata=点刻のある)が目立つ。日当たりのよい地面に集まって営巣することがある。",
+      "habitat_hint": "日当たりのよい裸地や土手、草地、林縁の花のある環境。",
+      "finding_tips": "春、花や日当たりのよい地面で、単独営巣するやや小型のハナバチを探す。春に地面へ出入りする単独性ハナバチが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A mining bee (Andrena, Andrenidae) that nests solitarily in burrows in the ground, active mainly in spring; the body is rather slender and females carry pollen-collecting hairs on the hind legs. It visits flowers for pollen and nectar, provisioning cells in its burrow. 体に点刻(punctata=点刻のある)が目立つ. It sometimes nests in aggregations on sunny ground.",
+      "habitat_hint": "Sunny bare ground and banks, grassland, flowery woodland edges.",
+      "finding_tips": "In spring at flowers or on sunny ground look for a rather small solitary bee; a spring solitary bee entering ground burrows is the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "テンコクヒメハナバチ。地花蜂科（Andrena）之蜂，于地中单独掘穴营巢，主春季活动，体略细，雌于后足等具集粉毛，访花采粉蜜、贮于巢室产卵。体に点刻(punctata=点刻のある)が目立つ。有时集群于向阳地面营巢。",
+      "habitat_hint": "向阳裸地、土堤、草地、林缘有花处。",
+      "finding_tips": "春于花或向阳地面寻单独营巢之略小型花蜂；春季出入地穴之独居蜂为线索（定种需细部）。"
+    }
+  },
+  "Andrena halictoides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "ホオナガヒメハナバチ。地中に単独で巣穴を掘って営巣するヒメハナバチ科(Andrena)のハナバチで、主に春に活動する。体はやや細く、雌は後脚などに花粉を集める毛をもつ。花を訪れて花粉と蜜を集め、巣穴の各室に貯えて産卵する。顔(頬)が長めなのが名の由来で、コハナバチ(Halictus)に似た姿をもつ。日当たりのよい地面に集まって営巣することがある。",
+      "habitat_hint": "日当たりのよい裸地や土手、草地、林縁の花のある環境。",
+      "finding_tips": "春、花や日当たりのよい地面で、単独営巣するやや小型のハナバチを探す。春に地面へ出入りする単独性ハナバチが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A mining bee (Andrena, Andrenidae) that nests solitarily in burrows in the ground, active mainly in spring; the body is rather slender and females carry pollen-collecting hairs on the hind legs. It visits flowers for pollen and nectar, provisioning cells in its burrow. 顔(頬)が長めなのが名の由来で、コハナバチ(Halictus)に似た姿をもつ. It sometimes nests in aggregations on sunny ground.",
+      "habitat_hint": "Sunny bare ground and banks, grassland, flowery woodland edges.",
+      "finding_tips": "In spring at flowers or on sunny ground look for a rather small solitary bee; a spring solitary bee entering ground burrows is the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "ホオナガヒメハナバチ。地花蜂科（Andrena）之蜂，于地中单独掘穴营巢，主春季活动，体略细，雌于后足等具集粉毛，访花采粉蜜、贮于巢室产卵。顔(頬)が長めなのが名の由来で、コハナバチ(Halictus)に似た姿をもつ。有时集群于向阳地面营巢。",
+      "habitat_hint": "向阳裸地、土堤、草地、林缘有花处。",
+      "finding_tips": "春于花或向阳地面寻单独营巢之略小型花蜂；春季出入地穴之独居蜂为线索（定种需细部）。"
+    }
+  },
+  "Andrena hikosana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "ヒコサンマメヒメハナバチ。地中に単独で巣穴を掘って営巣するヒメハナバチ科(Andrena)のハナバチで、主に春に活動する。体はやや細く、雌は後脚などに花粉を集める毛をもつ。花を訪れて花粉と蜜を集め、巣穴の各室に貯えて産卵する。名は九州の英彦(ひこ)山に由来し、やや小型(豆)。日当たりのよい地面に集まって営巣することがある。",
+      "habitat_hint": "日当たりのよい裸地や土手、草地、林縁の花のある環境。",
+      "finding_tips": "春、花や日当たりのよい地面で、単独営巣するやや小型のハナバチを探す。春に地面へ出入りする単独性ハナバチが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A mining bee (Andrena, Andrenidae) that nests solitarily in burrows in the ground, active mainly in spring; the body is rather slender and females carry pollen-collecting hairs on the hind legs. It visits flowers for pollen and nectar, provisioning cells in its burrow. 名は九州の英彦(ひこ)山に由来し、やや小型(豆). It sometimes nests in aggregations on sunny ground.",
+      "habitat_hint": "Sunny bare ground and banks, grassland, flowery woodland edges.",
+      "finding_tips": "In spring at flowers or on sunny ground look for a rather small solitary bee; a spring solitary bee entering ground burrows is the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "ヒコサンマメヒメハナバチ。地花蜂科（Andrena）之蜂，于地中单独掘穴营巢，主春季活动，体略细，雌于后足等具集粉毛，访花采粉蜜、贮于巢室产卵。名は九州の英彦(ひこ)山に由来し、やや小型(豆)。有时集群于向阳地面营巢。",
+      "habitat_hint": "向阳裸地、土堤、草地、林缘有花处。",
+      "finding_tips": "春于花或向阳地面寻单独营巢之略小型花蜂；春季出入地穴之独居蜂为线索（定种需细部）。"
+    }
+  },
+  "Andrena knuthi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "キバナヒメハナバチ。地中に単独で巣穴を掘って営巣するヒメハナバチ科(Andrena)のハナバチで、主に春に活動する。体はやや細く、雌は後脚などに花粉を集める毛をもつ。花を訪れて花粉と蜜を集め、巣穴の各室に貯えて産卵する。黄色い花をよく訪れることが名の由来とされる。日当たりのよい地面に集まって営巣することがある。",
+      "habitat_hint": "日当たりのよい裸地や土手、草地、林縁の花のある環境。",
+      "finding_tips": "春、花や日当たりのよい地面で、単独営巣するやや小型のハナバチを探す。春に地面へ出入りする単独性ハナバチが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A mining bee (Andrena, Andrenidae) that nests solitarily in burrows in the ground, active mainly in spring; the body is rather slender and females carry pollen-collecting hairs on the hind legs. It visits flowers for pollen and nectar, provisioning cells in its burrow. 黄色い花をよく訪れることが名の由来とされる. It sometimes nests in aggregations on sunny ground.",
+      "habitat_hint": "Sunny bare ground and banks, grassland, flowery woodland edges.",
+      "finding_tips": "In spring at flowers or on sunny ground look for a rather small solitary bee; a spring solitary bee entering ground burrows is the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "キバナヒメハナバチ。地花蜂科（Andrena）之蜂，于地中单独掘穴营巢，主春季活动，体略细，雌于后足等具集粉毛，访花采粉蜜、贮于巢室产卵。黄色い花をよく訪れることが名の由来とされる。有时集群于向阳地面营巢。",
+      "habitat_hint": "向阳裸地、土堤、草地、林缘有花处。",
+      "finding_tips": "春于花或向阳地面寻单独营巢之略小型花蜂；春季出入地穴之独居蜂为线索（定种需细部）。"
+    }
+  },
+  "Andrena tsukubana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "コガタウツギヒメハナバチ。地中に単独で巣穴を掘って営巣するヒメハナバチ科(Andrena)のハナバチで、主に春に活動する。体はやや細く、雌は後脚などに花粉を集める毛をもつ。花を訪れて花粉と蜜を集め、巣穴の各室に貯えて産卵する。ウツギ(卯の花)の花をよく訪れ、やや小型(小型)。日当たりのよい地面に集まって営巣することがある。",
+      "habitat_hint": "日当たりのよい裸地や土手、草地、林縁の花のある環境。",
+      "finding_tips": "春、花や日当たりのよい地面で、単独営巣するやや小型のハナバチを探す。春に地面へ出入りする単独性ハナバチが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A mining bee (Andrena, Andrenidae) that nests solitarily in burrows in the ground, active mainly in spring; the body is rather slender and females carry pollen-collecting hairs on the hind legs. It visits flowers for pollen and nectar, provisioning cells in its burrow. ウツギ(卯の花)の花をよく訪れ、やや小型(小型). It sometimes nests in aggregations on sunny ground.",
+      "habitat_hint": "Sunny bare ground and banks, grassland, flowery woodland edges.",
+      "finding_tips": "In spring at flowers or on sunny ground look for a rather small solitary bee; a spring solitary bee entering ground burrows is the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "コガタウツギヒメハナバチ。地花蜂科（Andrena）之蜂，于地中单独掘穴营巢，主春季活动，体略细，雌于后足等具集粉毛，访花采粉蜜、贮于巢室产卵。ウツギ(卯の花)の花をよく訪れ、やや小型(小型)。有时集群于向阳地面营巢。",
+      "habitat_hint": "向阳裸地、土堤、草地、林缘有花处。",
+      "finding_tips": "春于花或向阳地面寻单独营巢之略小型花蜂；春季出入地穴之独居蜂为线索（定种需细部）。"
+    }
+  },
+  "Andrena yamato": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mining bee",
+    "ja": {
+      "summary": "ヤマトヒメハナバチ。地中に単独で巣穴を掘って営巣するヒメハナバチ科(Andrena)のハナバチで、主に春に活動する。体はやや細く、雌は後脚などに花粉を集める毛をもつ。花を訪れて花粉と蜜を集め、巣穴の各室に貯えて産卵する。名(ヤマト)のとおり日本(本州など)に広く分布する。日当たりのよい地面に集まって営巣することがある。",
+      "habitat_hint": "日当たりのよい裸地や土手、草地、林縁の花のある環境。",
+      "finding_tips": "春、花や日当たりのよい地面で、単独営巣するやや小型のハナバチを探す。春に地面へ出入りする単独性ハナバチが手がかり(種の確定は細部が必要)。"
+    },
+    "en": {
+      "summary": "A mining bee (Andrena, Andrenidae) that nests solitarily in burrows in the ground, active mainly in spring; the body is rather slender and females carry pollen-collecting hairs on the hind legs. It visits flowers for pollen and nectar, provisioning cells in its burrow. 名(ヤマト)のとおり日本(本州など)に広く分布する. It sometimes nests in aggregations on sunny ground.",
+      "habitat_hint": "Sunny bare ground and banks, grassland, flowery woodland edges.",
+      "finding_tips": "In spring at flowers or on sunny ground look for a rather small solitary bee; a spring solitary bee entering ground burrows is the clue (species ID needs detail)."
+    },
+    "zh": {
+      "summary": "ヤマトヒメハナバチ。地花蜂科（Andrena）之蜂，于地中单独掘穴营巢，主春季活动，体略细，雌于后足等具集粉毛，访花采粉蜜、贮于巢室产卵。名(ヤマト)のとおり日本(本州など)に広く分布する。有时集群于向阳地面营巢。",
+      "habitat_hint": "向阳裸地、土堤、草地、林缘有花处。",
+      "finding_tips": "春于花或向阳地面寻单独营巢之略小型花蜂；春季出入地穴之独居蜂为线索（定种需细部）。"
+    }
+  },
+  "Anemina arcaeformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Freshwater mussel",
+    "ja": {
+      "summary": "フネドブガイ。池沼や河川の泥底にすむ淡水産の二枚貝(イシガイ科)で、殻はやや薄く、ふくらんで舟(船)のような形になるのが名の由来。殻は緑褐色〜黒褐色。泥に潜って暮らし、水中の懸濁物を漉して食べる。幼生(グロキディウム)は一時的に魚のえらやひれに付着して分散する。",
+      "habitat_hint": "池沼、用水路、河川のゆるやかな泥底。",
+      "finding_tips": "池沼の泥底で、やや薄くふくらんだ舟形の緑褐色〜黒褐色の淡水二枚貝を探す。ふくらんだ舟形の薄い殻が識別点。"
+    },
+    "en": {
+      "summary": "A freshwater mussel (Anemina arcaeformis, Unionidae) of pond and river mud bottoms; the somewhat thin, inflated shell is boat-shaped (the source of the Japanese name), greenish-brown to blackish-brown. It burrows in mud filtering suspended matter, and its larvae (glochidia) temporarily attach to fish gills and fins to disperse.",
+      "habitat_hint": "Ponds, irrigation channels, slow river mud bottoms.",
+      "finding_tips": "On pond mud look for a somewhat thin, inflated boat-shaped greenish-brown freshwater bivalve; the inflated boat-shaped thin shell is the clue."
+    },
+    "zh": {
+      "summary": "フネドブガイ。蚌科淡水双壳，栖池沼河川泥底，壳略薄而膨、呈舟形（和名之由来），绿褐至黑褐，潜泥而居、滤食悬浮物，幼体（钩介幼虫）暂附鱼鳃鳍以分散。",
+      "habitat_hint": "池沼、水渠、河川缓流泥底。",
+      "finding_tips": "于池沼泥底寻略薄而膨、舟形之绿褐淡水双壳；膨大舟形薄壳为辨识点。"
+    }
+  },
+  "Angelica multisecta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Angelica",
+    "ja": {
+      "summary": "ミヤマゼンゴ。山地の草地や林縁、岩礫地に生えるセリ科シシウド属の多年草で、葉は細かく何回も羽状に裂ける(multisecta=多裂の)。夏〜秋に茎の先に白い小さな花が多数集まった複散形花序をつける。名(深山前胡)のとおり山地に生える。全体にセリ科特有の芳香がある。",
+      "habitat_hint": "山地の草地、林縁、岩礫地、亜高山。",
+      "finding_tips": "夏〜秋、山地の草地で細かく何回も裂ける葉と白い小花の複散形花序をもつセリ科を探す。細かく多裂する葉と白い散形花序が識別点。"
+    },
+    "en": {
+      "summary": "An angelica (Angelica multisecta, Apiaceae), a perennial of montane grassland, woodland edges and rocky ground; the leaves are finely and repeatedly pinnately divided (multisecta = many-cut). In summer to autumn it bears compound umbels of many small white flowers. The Japanese name means 'deep-mountain angelica', and the whole plant has the aromatic scent typical of the family.",
+      "habitat_hint": "Montane grassland, woodland edges, rocky ground, subalpine.",
+      "finding_tips": "In summer to autumn in montane grassland look for an umbellifer with finely much-divided leaves and compound umbels of small white flowers; the finely dissected leaves with white umbels are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマゼンゴ。伞形科当归属多年草，生山地草地、林缘、岩砾地，叶细而多回羽状分裂（multisecta 多裂），夏秋于茎顶生众多白色小花之复伞形花序，名（深山前胡）指其生山地，全株具伞形科特有芳香。",
+      "habitat_hint": "山地草地、林缘、岩砾地、亚高山。",
+      "finding_tips": "夏秋于山地草地寻叶多回细裂、具白色小花复伞形花序之伞形科；细裂叶与白伞序为辨识点。"
+    }
+  },
+  "Angustassiminea castanea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Assiminea snail",
+    "ja": {
+      "summary": "クリイロカワザンショウガイ。河口や干潟の潮上帯、塩性湿地の泥や石の上、植物の根際などにすむごく小型の巻貝(カワザンショウガイ科)で、殻は栗色(クリ色)を帯びた円錐形。数mmと小さい。水陸の境の湿った環境で、デトリタスや微細藻類を食べる。干潟の後背湿地などに群れる。",
+      "habitat_hint": "河口・干潟の潮上帯、塩性湿地、石や植物の根際。",
+      "finding_tips": "干潟の後背や塩性湿地で、栗色を帯びた数mmの円錐形の微小な巻貝を探す。栗色のごく小さな円錐形の殻が識別点。"
+    },
+    "en": {
+      "summary": "An assiminea snail (Angustassiminea castanea, Assimineidae), a very small snail of the supralittoral of estuaries and tidal flats, salt marsh mud and stones and plant bases; the conical shell is chestnut-coloured (the source of the Japanese name) and only a few millimetres long. It grazes detritus and microalgae in the moist land-water margin, clustering in back-marshes of tidal flats.",
+      "habitat_hint": "Estuary/tidal-flat supralittoral, salt marsh, on stones and plant bases.",
+      "finding_tips": "In salt marsh or tidal-flat back-marsh look for a chestnut-coloured few-millimetre conical snail; the tiny chestnut conical shell is the clue."
+    },
+    "zh": {
+      "summary": "クリイロカワザンショウガイ。麂眼螺科（Assimineidae）之极小型螺，栖河口滩涂潮上带、盐沼泥石与植物根际，壳栗色、圆锥形，仅数毫米，于水陆之交湿处食碎屑与微藻，群集于滩涂后背湿地。",
+      "habitat_hint": "河口滩涂潮上带、盐沼、石上与植物根际。",
+      "finding_tips": "于盐沼滩涂后背寻栗色数毫米圆锥之微小螺；栗色极小圆锥壳为辨识点。"
+    }
+  },
+  "Anomala geniculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scarab beetle",
+    "ja": {
+      "summary": "ヒメサクラコガネ。コガネムシ科(スジコガネ類)の小型の甲虫で、体は光沢のある褐色〜赤褐色で、サクラコガネに似るが小型(姫)。脚の関節(膝、geniculata=膝のある)が目立つ。成虫は各種の植物の葉を食べ、幼虫は土中で植物の根を食べる。初夏〜夏に灯火へ飛来する。",
+      "habitat_hint": "草地、林縁、畑、雑木林などの植物の多い環境。",
+      "finding_tips": "初夏〜夏の夜、灯火などで光沢のある褐色の小型のコガネムシを探す。光沢のある褐色の小さな体が識別点(近縁種と要区別)。"
+    },
+    "en": {
+      "summary": "A scarab beetle (Anomala geniculata, Scarabaeidae), a small beetle with a glossy brown to red-brown body resembling the larger Anomala but smaller (the Japanese name means 'dwarf'); the leg joints (geniculata = kneed) are conspicuous. Adults eat the leaves of various plants and larvae feed on roots in the soil. It comes to lights in early summer to summer.",
+      "habitat_hint": "Grassland, woodland edges, fields, secondary forest (plant-rich).",
+      "finding_tips": "On early-summer to summer nights at lights look for a small glossy brown scarab; the small glossy brown body is the clue (distinguish from relatives)."
+    },
+    "zh": {
+      "summary": "ヒメサクラコガネ。金龟科（条金龟类）小型甲虫，体具光泽褐至红褐，似樱金龟而小（姫），足关节（膝，geniculata）显著，成虫食各种植物叶，幼虫于土中食根，初夏至夏趋光。",
+      "habitat_hint": "草地、林缘、田地、杂木林等多植物处。",
+      "finding_tips": "初夏至夏夜于灯下寻具光泽褐色之小型金龟；光泽褐色小体为辨识点（须别近缘种）。"
+    }
+  },
+  "Anopheles sinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chinese malaria mosquito",
+    "aliases": {
+      "zh-Hans": "中华按蚊"
+    },
+    "ja": {
+      "summary": "シナハマダラカ。水田や池沼、湿地で発生するハマダラカ属(Anopheles)の蚊で、翅に暗色と淡色の斑(斑ら)がある。静止時は体を斜めに立てて壁などに止まるのが特徴。かつて日本のマラリア(三日熱マラリア)を媒介した種として知られる。雌は主に夜間に吸血する。幼虫(ボウフラ)は水面で暮らす。",
+      "habitat_hint": "水田、池沼、湿地、水たまりなどの止水。",
+      "finding_tips": "水田周辺で、翅に斑があり体を斜めに立てて止まる蚊を探す。斑らの翅と体を斜めに立てる止まり方が識別点。"
+    },
+    "en": {
+      "summary": "The Chinese malaria mosquito (Anopheles sinensis, Culicidae), a mosquito breeding in paddies, ponds and wetland; the wings have dark-and-pale mottling and it rests at an angle with the body tilted against a surface. It is historically known as a vector of malaria (vivax) in Japan. Females bite mainly at night, and larvae live at the water surface.",
+      "habitat_hint": "Paddies, ponds, wetland, pools (still water).",
+      "finding_tips": "Around paddies look for a mottled-winged mosquito resting with its body tilted at an angle; the mottled wings and tilted resting posture are the clue."
+    },
+    "zh": {
+      "summary": "シナハマダラカ。按蚊属（Anopheles）之蚊，孳生于水田、池沼、湿地，翅具暗淡斑（麻斑），静止时体斜立于壁面，历史上为日本疟疾（间日疟）之媒介，雌主夜间吸血，幼虫（孑孓）栖水面。",
+      "habitat_hint": "水田、池沼、湿地、积水等静水。",
+      "finding_tips": "于水田周边寻翅具斑而体斜立停栖之蚊；麻斑翅与斜立停姿为辨识点。"
+    }
+  },
+  "Anotylus laticornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove beetle",
+    "ja": {
+      "summary": "ヒメクロセスジハネカクシ。堆肥や腐敗物、動物の糞などに集まるハネカクシ科(Anotylus)の小型の甲虫で、上翅が短く腹部が露出し、体は黒っぽい。背に縦の筋(背筋)があり、触角の先がやや太まる(laticornis=幅広い触角)。腐敗物中で他の微小な虫や菌を食べる。数mmと小さい。",
+      "habitat_hint": "堆肥、腐敗物、動物の糞、腐った植物のまわり。",
+      "finding_tips": "堆肥や腐敗物で、上翅が短く背に縦筋のある黒っぽい数mmのハネカクシを探す。短い上翅と背の縦筋が識別点。"
+    },
+    "en": {
+      "summary": "A rove beetle (Anotylus laticornis, Staphylinidae), a small beetle gathering at compost, decaying matter and dung; the short elytra expose the abdomen, the body is dark with dorsal ridges (grooves), and the antennal tips are somewhat broadened (laticornis = broad-horned). It feeds on other minute animals and fungi in decay and is only a few millimetres long.",
+      "habitat_hint": "Compost, decaying matter, dung, around rotting plants.",
+      "finding_tips": "In compost or decay look for a small dark rove beetle with short elytra and dorsal ridges; the short elytra with back ridges are the clue."
+    },
+    "zh": {
+      "summary": "ヒメクロセスジハネカクシ。隐翅虫科（Anotylus）小型甲虫，聚于堆肥、腐物、动物粪，鞘翅短、腹外露，体黑、背具纵脊（背筋），触角端略粗（laticornis 宽角），于腐物中食微小虫与菌，仅数毫米。",
+      "habitat_hint": "堆肥、腐物、动物粪、腐植周边。",
+      "finding_tips": "于堆肥腐物寻鞘翅短、背具纵脊之黑色数毫米隐翅虫；短鞘翅与背脊为辨识点。"
+    }
+  },
+  "Anteaeolidiella takanosimensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ホンミノウミウシ。潮間帯〜浅海の岩礁にすむミノウミウシ類のウミウシで、背にミノ(蓑)のような多数の突起(cerata)を並べる。地色は淡色で、突起の内部に食べたイソギンチャクの刺胞を蓄えて身を守る。イソギンチャクを食べる肉食性。岩やタイドプールで見られる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、タイドプール、イソギンチャクの周辺。",
+      "finding_tips": "岩礁やタイドプールで、背にミノ状の突起を多数並べる小型のウミウシを探す。背の多数のミノ状突起が識別点。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (Anteaeolidiella takanosimensis) of intertidal to shallow reef; the back bears numerous cloak-like projections (cerata), and the pale body stores stinging cells from the sea anemones it eats inside these cerata for defence. A carnivore feeding on anemones, it is seen on rock and in tide pools.",
+      "habitat_hint": "Intertidal to shallow reef, tide pools, around sea anemones.",
+      "finding_tips": "On reef or in tide pools look for a small sea slug with many cloak-like projections on its back; the numerous dorsal cerata are the clue."
+    },
+    "zh": {
+      "summary": "ホンミノウミウシ。蓑海蛞蝓类之海蛞蝓，栖潮间带至浅海岩礁，背列众多如蓑之突起（cerata），体色淡，于突起内蓄所食海葵之刺细胞自卫，肉食性食海葵，见于岩面与潮池。",
+      "habitat_hint": "潮间带至浅海岩礁、潮池、海葵周边。",
+      "finding_tips": "于岩礁潮池寻背列众多蓑状突起之小型海蛞蝓；背之众多蓑状突起为辨识点。"
+    }
   }
 }
