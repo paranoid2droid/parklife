@@ -285181,5 +285181,554 @@
       "habitat_hint": "花、流树液之树、腐果、堆肥周边。",
       "finding_tips": "于花或树液寻体黑而前胸带黄之数毫米微小甲虫；黑体黄胸为辨识点。"
     }
+  },
+  "Aetobatus narutobiei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Naru eagle ray",
+    "ja": {
+      "summary": "ナルトビエイ。内湾や沿岸の砂泥底の上を泳ぐトビエイ科のエイで、胸びれが大きな菱形に張り出し、頭部が前方に突き出す。長い尾に毒棘をもつ。群れで泳ぎ、貝類を噛み砕いて食べるため、アサリなどの漁場で食害が問題になる。名(鳴門)は鳴門海峡に由来する。",
+      "habitat_hint": "内湾、沿岸の砂泥底の上、干潟周辺。",
+      "finding_tips": "内湾で、大きな菱形の胸びれと前に突き出た頭、長い尾をもつエイを探す。菱形の体と突き出た頭が識別点。"
+    },
+    "en": {
+      "summary": "The Naru eagle ray (Aetobatus narutobiei, Myliobatidae), a ray swimming over the sand-mud of bays and coasts; the large pectoral fins spread into a broad rhombus and the head projects forward, with a long venomous-spined tail. It schools and crushes shellfish, causing damage on clam grounds. The name refers to the Naruto Strait.",
+      "habitat_hint": "Bays, coastal sand-mud bottoms, around tidal flats.",
+      "finding_tips": "In bays look for a ray with broad rhombic pectoral wings, a forward-projecting head and a long tail; the diamond body with a projecting head is the clue."
+    },
+    "zh": {
+      "summary": "ナルトビエイ。鲼科之魟，游于内湾沿岸砂泥底上，胸鳍展成大菱形、头前突，长尾具毒棘，成群而游、咬碎贝类为食，于蛤类渔场造成危害，名（鸣门）源鸣门海峡。",
+      "habitat_hint": "内湾、沿岸砂泥底上、滩涂周边。",
+      "finding_tips": "于内湾寻具大菱形胸鳍、头前突而长尾之魟；菱形体与前突头为辨识点。"
+    }
+  },
+  "Agabus conspicuus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Diving beetle",
+    "ja": {
+      "summary": "クロズマメゲンゴロウ。池沼や水田、湿地の止水にすむ小型のゲンゴロウ(ゲンゴロウ科マメゲンゴロウ類)で、体は卵形で流線形。頭部が黒く(黒頭)、上翅は褐色〜暗褐色。後脚が遊泳脚になっていて水中をよく泳ぐ。成虫・幼虫とも水生小動物を捕食する。夜、灯火に飛来する。",
+      "habitat_hint": "池沼、水田、湿地の止水、水草の多い浅い水域。",
+      "finding_tips": "水草の多い止水で、頭が黒く卵形で流線形の小さなゲンゴロウを探す。黒い頭と褐色の上翅が識別点。"
+    },
+    "en": {
+      "summary": "A diving beetle (Agabus conspicuus, Dytiscidae), a small predaceous water beetle of ponds, paddies and wetland still water; the streamlined oval body has a black head (the source of the Japanese name) and brown to dark-brown elytra, with swimming hind legs. Both adults and larvae prey on small aquatic animals, and adults come to lights at night.",
+      "habitat_hint": "Ponds, paddies, wetland still water, shallow weedy water.",
+      "finding_tips": "In weedy still water look for a small streamlined oval diving beetle with a black head; the black head with brown elytra is the clue."
+    },
+    "zh": {
+      "summary": "クロズマメゲンゴロウ。龙虱科小型水生甲虫，栖池沼、水田、湿地静水，体卵形流线，头黑（黑头），鞘翅褐至暗褐，后足为游泳足善游，成虫幼虫皆捕食水生小动物，夜间趋光。",
+      "habitat_hint": "池沼、水田、湿地静水、多水草浅水。",
+      "finding_tips": "于多水草静水寻头黑而卵形流线之小龙虱；黑头褐鞘翅为辨识点。"
+    }
+  },
+  "Aglossa dimidiatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Meal moth",
+    "ja": {
+      "summary": "コメシマメイガ。人家や倉庫、納屋などにすむメイガ科(シマメイガ亜科)のガで、前翅は褐色で、内半分と外半分で色調が異なる(dimidiatus=半分に分かれた)。幼虫は貯蔵された穀物(米)や乾物、動物質の残渣などを食べる貯穀害虫。夜間に灯火に飛来する。",
+      "habitat_hint": "人家、倉庫、納屋、穀物の貯蔵場所。",
+      "finding_tips": "倉庫や人家で、前翅の内外で色調が異なる褐色の小さなメイガを探す。前翅が半分で色分かれする点が識別点。"
+    },
+    "en": {
+      "summary": "A meal moth (Aglossa dimidiatus, Pyralidae: Pyralinae) living in houses, warehouses and barns; the brown forewing differs in tone between its inner and outer halves (dimidiatus = halved). The larva feeds on stored grain (rice), dried foods and animal residues as a stored-product pest, and adults come to lights.",
+      "habitat_hint": "Houses, warehouses, barns, grain-storage areas.",
+      "finding_tips": "In storage or homes look for a small brown pyralid whose forewing is two-toned across inner and outer halves; the halved-tone forewing is the clue."
+    },
+    "zh": {
+      "summary": "コメシマメイガ。螟蛾科（螟亚科）之蛾，栖人家、仓库、谷仓，前翅褐、内外半色调不同（dimidiatus 分半），幼虫食贮藏谷物（米）、干货、动物残渣，为贮谷害虫，夜间趋光。",
+      "habitat_hint": "人家、仓库、谷仓、谷物贮藏处。",
+      "finding_tips": "于仓库人家寻前翅内外色调不同之褐色小螟蛾；前翅分半色调为辨识点。"
+    }
+  },
+  "Agonopterix propinquella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat-body moth",
+    "ja": {
+      "summary": "シノノメマルハキバガ。マルハキバガ科(ヒラタマルハキバガ類)の小型のガで、前翅は幅広く、静止時に体を平たく伏せる。前翅は褐色〜灰褐色で細かい斑紋をもつ。幼虫はキク科などの葉を巻いたり綴ったりして食べる。成虫で越冬し、夜間に灯火へ飛来する。",
+      "habitat_hint": "草地、林縁、河原などキク科植物の生える環境。",
+      "finding_tips": "夜、灯火などで体を平たく伏せる幅広い褐色の小さなガを探す。平たく伏せる止まり方と幅広い前翅が識別点。"
+    },
+    "en": {
+      "summary": "A flat-body moth (Agonopterix propinquella, Depressariidae), a small moth with broad forewings that rests with the body pressed flat; the brown to grey-brown forewings have fine markings. The larva feeds within rolled or tied leaves of Asteraceae, and the adult overwinters and comes to lights.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks where Asteraceae grow.",
+      "finding_tips": "At night at lights look for a small broad brown moth resting pressed flat; the flat resting posture with broad wings is the clue."
+    },
+    "zh": {
+      "summary": "シノノメマルハキバガ。绒蛾科（扁绒蛾类）小型蛾，前翅宽阔，静止时体平伏，前翅褐至灰褐具细纹，幼虫卷缀菊科叶取食，成虫越冬、夜间趋光。",
+      "habitat_hint": "草地、林缘、河滩等生菊科植物之处。",
+      "finding_tips": "夜于灯下寻体平伏、前翅宽阔之褐色小蛾；平伏姿与宽前翅为辨识点。"
+    }
+  },
+  "Agrimonia nipponopilosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Agrimony",
+    "ja": {
+      "summary": "アイノコキンミズヒキ。山野の道端や林縁に生えるバラ科の多年草で、キンミズヒキとヒメキンミズヒキの中間的な性質(合いの子)をもつ。羽状複葉をつけ、夏〜秋に細長い花穂に黄色い小さな5弁花をまばらに咲かせる。果実にはかぎ状の刺があり、衣服や動物にくっついて運ばれる。",
+      "habitat_hint": "山野の道端、林縁、草地、やや湿った場所。",
+      "finding_tips": "夏〜秋、道端で細長い花穂に黄色い小さな5弁花をまばらにつけるバラ科を探す。羽状複葉とかぎ状刺のある果実が識別点。"
+    },
+    "en": {
+      "summary": "An agrimony (Agrimonia nipponopilosa, Rosaceae), a perennial of paths and woodland edges intermediate between the two Japanese agrimonies (the name means 'hybrid'); it has pinnate leaves and bears small yellow five-petalled flowers loosely on a slender spike in summer to autumn. The hooked fruits cling to clothing and animals for dispersal.",
+      "habitat_hint": "Rural paths, woodland edges, grassland, somewhat moist places.",
+      "finding_tips": "In summer to autumn along paths look for a rose-family plant with pinnate leaves and a slender spike of small yellow flowers; the pinnate leaves with hooked burr fruits are the clue."
+    },
+    "zh": {
+      "summary": "アイノコキンミズヒキ。蔷薇科多年草，生山野路旁林缘，性状介于龙牙草与小龙牙草之间（合子），羽状复叶，夏秋于细长花穗疏生黄色五瓣小花，果具钩刺、附衣物动物传播。",
+      "habitat_hint": "山野路旁、林缘、草地、略湿处。",
+      "finding_tips": "夏秋于路旁寻具羽状复叶、细穗疏生黄色小花之蔷薇科；羽状叶与钩刺果为辨识点。"
+    }
+  },
+  "Agriocnemis femina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pygmy dartlet",
+    "ja": {
+      "summary": "コフキヒメイトトンボ。池沼や水田、湿地の抽水植物の間にすむごく小型のイトトンボ科のトンボで、体は華奢で細長い。成熟した雄は胸や腹に白い粉(粉吹き)を帯びる。名(姫)のとおり日本のイトトンボ類でも最小級。ゆっくりと水面近くを飛び、小さな虫を食べる。",
+      "habitat_hint": "池沼、水田、湿地の抽水植物や草の間。",
+      "finding_tips": "夏、水辺の草の間でごく小さく華奢なイトトンボを探す。極小の華奢な体と、成熟雄の白い粉吹きが識別点。"
+    },
+    "en": {
+      "summary": "A pygmy dartlet (Agriocnemis femina, Coenagrionidae), a very small damselfly living among emergent plants of ponds, paddies and wetland; the body is slender and delicate, and mature males become pruinose (dusted white) on thorax and abdomen. One of the smallest Japanese damselflies, it flies slowly near the water eating tiny insects.",
+      "habitat_hint": "Ponds, paddies, wetland among emergent plants and grasses.",
+      "finding_tips": "In summer among waterside grasses look for a very small delicate damselfly; the tiny slender body and white pruinose mature males are the clue."
+    },
+    "zh": {
+      "summary": "コフキヒメイトトンボ。蟌科极小型豆娘，栖池沼、水田、湿地挺水植物间，体纤细，成熟雄胸腹被白粉，为日本最小豆娘之一，缓飞水面近处食小虫。",
+      "habitat_hint": "池沼、水田、湿地挺水植物与草间。",
+      "finding_tips": "夏于水边草间寻极小纤细之豆娘；极小纤体与成熟雄之白粉为辨识点。"
+    }
+  },
+  "Agroeca kamurai": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spider",
+    "ja": {
+      "summary": "カムラタンボグモ。草地や田の畔、林縁の地表や落葉層にすむワシグモ科(タンボグモ類)のクモで、造網せず徘徊して獲物を捕らえる。体は褐色で、腹部に淡色の斑紋をもつことが多い。夜行性で、地表を歩いて小さな昆虫を捕食する。卵嚢を植物の茎などに吊り下げる仲間として知られる。",
+      "habitat_hint": "草地、田の畔、林縁の地表、落葉層。",
+      "finding_tips": "草地の地表や落葉をめくり、網を張らず徘徊する褐色の中型のクモを探す。腹部の淡色斑と徘徊性が識別点。"
+    },
+    "en": {
+      "summary": "A spider (Agroeca kamurai, Gnaphosidae/Liocranidae-type ground spider) of grassland, paddy banks and woodland-edge ground and litter; it does not build a web but wanders to catch prey. The brown body often has pale markings on the abdomen. Nocturnal, it walks the ground hunting small insects, and relatives are known for hanging egg sacs on plant stems.",
+      "habitat_hint": "Grassland, paddy banks, woodland-edge ground and litter.",
+      "finding_tips": "On grassland ground or under litter look for a brown medium wandering spider with no web; the pale-marked abdomen and wandering habit are the clue."
+    },
+    "zh": {
+      "summary": "カムラタンボグモ。平腹蛛类地栖蜘蛛，栖草地、田埂、林缘地表与落叶层，不结网而徘徊捕猎，体褐、腹部常具淡纹，夜行于地表捕食小昆虫，近缘者以将卵囊悬于植物茎著称。",
+      "habitat_hint": "草地、田埂、林缘地表、落叶层。",
+      "finding_tips": "于草地地表或翻落叶寻不结网而徘徊之褐色中型蛛；腹部淡纹与徘徊习性为辨识点。"
+    }
+  },
+  "Agropyron desertorum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Desert wheatgrass",
+    "ja": {
+      "summary": "ニセコムギダマシ。ユーラシアの乾燥地原産のイネ科の多年草で、コムギに似た穂をつけるコムギダマシ(Agropyron)の仲間だが別種であることが名(偽)の由来。穂は扁平で、小穂が2列に密に並び櫛の歯状に見える。道端や荒れ地、造成地などに帰化して生える。乾燥に強い。",
+      "habitat_hint": "道端、荒れ地、造成地、乾いた草地。",
+      "finding_tips": "初夏、荒れ地で扁平な穂に小穂が2列に櫛の歯状に並ぶイネ科を探す。扁平で櫛歯状に並ぶ穂が識別点。"
+    },
+    "en": {
+      "summary": "The desert wheatgrass (Agropyron desertorum, Poaceae), a perennial grass native to arid Eurasia; it resembles crested wheatgrass but is a distinct species (the Japanese name means 'false wheat-mimic'). The flattened spike bears spikelets in two dense comb-like rows. It naturalises on roadsides, waste ground and graded land and is drought-tolerant.",
+      "habitat_hint": "Roadsides, waste ground, graded land, dry grassland.",
+      "finding_tips": "In early summer on waste ground look for a grass with a flattened spike bearing comb-like two-ranked spikelets; the flattened comb-toothed spike is the clue."
+    },
+    "zh": {
+      "summary": "ニセコムギダマシ。禾本科多年草，原产欧亚干旱地，似冰草（Agropyron）而为别种（伪，名之由来），穗扁平、小穗二列密排如梳齿，归化于路旁、荒地、造地，耐旱。",
+      "habitat_hint": "路旁、荒地、造地、干草地。",
+      "finding_tips": "初夏于荒地寻穗扁平而小穗二列如梳齿之禾草；扁平梳齿穗为辨识点。"
+    }
+  },
+  "Aidia cochinchinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rubiaceae shrub",
+    "ja": {
+      "summary": "ミサオノキ。暖地の常緑樹林に生えるアカネ科の常緑小高木で、葉は対生し光沢のある楕円形。初夏に白い小さな筒状の花を咲かせ、球形の果実は熟すと黒くなる。名(操の木)は樹皮や材にちなむとされる。西南日本や南西諸島の照葉樹林に分布する。",
+      "habitat_hint": "暖地の常緑広葉樹林、照葉樹林、林縁。",
+      "finding_tips": "常緑樹林で、対生する光沢のある楕円形の葉と白い筒状の小花、黒く熟す球形の実をもつ木を探す。対生の光沢葉と黒い球果が識別点。"
+    },
+    "en": {
+      "summary": "A shrub (Aidia cochinchinensis, Rubiaceae), an evergreen small tree of warm-region evergreen forest; the opposite leaves are glossy and elliptic. It bears small white tubular flowers in early summer and round fruits ripening black. It grows in the laurel forests of southwestern Japan and the Ryukyus.",
+      "habitat_hint": "Warm-region evergreen broadleaf and laurel forest, edges.",
+      "finding_tips": "In evergreen forest look for a tree with opposite glossy elliptic leaves, small white tubular flowers and black-ripening round fruits; the opposite glossy leaves with black fruits are the clue."
+    },
+    "zh": {
+      "summary": "ミサオノキ。茜草科常绿小乔木，生暖地常绿林，叶对生、光泽椭圆，初夏开白色筒状小花，球形果熟则黑，分布西南日本与西南诸岛之照叶林。",
+      "habitat_hint": "暖地常绿阔叶林、照叶林、林缘。",
+      "finding_tips": "于常绿林寻叶对生光泽椭圆、白筒状小花、黑熟球果之木；对生光泽叶与黑球果为辨识点。"
+    }
+  },
+  "Ainsliaea macroclinidioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Okinawa ainsliaea",
+    "ja": {
+      "summary": "オキナワハグマ。暖地の林床や林縁に生えるキク科モミジハグマ属の多年草で、葉は根際に集まって卵形〜三角状卵形。秋に細長い花茎を伸ばし、白い頭花を穂状につける。頭花は3個の小花からなり、花冠が細く5裂して反り返る。名のとおり沖縄など西南日本に分布する。",
+      "habitat_hint": "暖地の常緑樹林の林床、林縁、木陰。",
+      "finding_tips": "秋、暖地の林床で細長い花茎に白い頭花を穂状につけるキク科を探す。細く5裂して反り返る花冠と根際の卵形の葉が識別点。"
+    },
+    "en": {
+      "summary": "An ainsliaea (Ainsliaea macroclinidioides, Asteraceae), a perennial of warm-region forest floor and edges; the ovate to triangular-ovate leaves cluster near the base. In autumn a slender flowering stem bears white flower heads in a spike, each head of three florets whose narrow corollas split into five reflexed lobes. It occurs in southwestern Japan including Okinawa.",
+      "habitat_hint": "Warm-region evergreen forest floor, edges, shade.",
+      "finding_tips": "In autumn on warm-region forest floor look for an aster with basal ovate leaves and a slender spike of white heads; the narrow five-lobed reflexed florets are the clue."
+    },
+    "zh": {
+      "summary": "オキナワハグマ。菊科兔儿风属多年草，生暖地林床林缘，叶聚基部、卵形至三角状卵形，秋抽细长花茎、穗状生白色头花，头花由3小花组成、花冠细而5裂反卷，分布冲绳等西南日本。",
+      "habitat_hint": "暖地常绿林林床、林缘、树荫。",
+      "finding_tips": "秋于暖地林床寻细花茎穗生白头花之菊科；细5裂反卷花冠与基部卵叶为辨识点。"
+    }
+  },
+  "Albugo candida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White rust",
+    "aliases": {
+      "zh-Hans": "白锈菌"
+    },
+    "ja": {
+      "summary": "アブラナ・シロサビビョウキン(シロサビビョウキン)。アブラナ科の植物に寄生する白さび病(白錆病)の病原菌で、菌類に似るが卵菌類(ツユカビの仲間)に属する。宿主の葉や茎の表面に、白い粉状〜膨れた斑(胞子堆)を生じる。ダイコンやナズナなどに発生し、被害部は変形・肥大することがある。",
+      "habitat_hint": "アブラナ科植物の畑、道端、荒れ地(宿主の葉・茎)。",
+      "finding_tips": "アブラナ科の葉や茎で、白い粉状〜膨れた斑点(白いさび)を探す。宿主表面の白い胞子堆が識別点。"
+    },
+    "en": {
+      "summary": "White rust (Albugo candida, Albuginaceae), the pathogen of white blister rust on Brassicaceae; despite resembling a fungus it is an oomycete (a downy-mildew relative). It produces white powdery to swollen pustules (sori) on host leaves and stems, occurring on radish, shepherd's purse and others, and infected parts may deform or swell.",
+      "habitat_hint": "Fields, roadsides and waste ground with Brassicaceae (on host leaves/stems).",
+      "finding_tips": "On brassica leaves and stems look for white powdery to swollen pustules; the white blister sori on the host surface are the clue."
+    },
+    "zh": {
+      "summary": "アブラナ・シロサビビョウキン（白锈病菌）。寄生十字花科之白锈病病原，虽似真菌而属卵菌（霜霉之亲缘），于寄主叶茎表面生白色粉状至膨起斑（孢子堆），见于萝卜、荠菜等，被害部或变形肥大。",
+      "habitat_hint": "十字花科植物之田地、路旁、荒地（寄主叶茎）。",
+      "finding_tips": "于十字花科叶茎寻白色粉状至膨起之斑（白锈）；寄主表面白色孢子堆为辨识点。"
+    }
+  },
+  "Allium fistulosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Welsh onion",
+    "aliases": {
+      "zh-Hans": "葱"
+    },
+    "ja": {
+      "summary": "ネギ。畑で広く栽培されるヒガンバナ科ネギ属の多年草(野菜)で、中空で円筒形の緑の葉と白い葉鞘(白根)をもつ。タマネギのような大きな球根はつくらない。独特の香りと辛味があり、薬味や煮物など日本料理に欠かせない。夏にネギ坊主と呼ばれる球状の花序をつける。",
+      "habitat_hint": "畑、家庭菜園、逸出して道端など。",
+      "finding_tips": "畑で、中空の円筒形の緑の葉と白い葉鞘をもつネギ属を探す。中空円筒の葉とネギ坊主の球状花序が識別点。"
+    },
+    "en": {
+      "summary": "The Welsh onion (Allium fistulosum, Amaryllidaceae), a widely cultivated perennial vegetable with hollow cylindrical green leaves and a white sheath ('white root'); it does not form a large bulb like the common onion. With a distinctive pungent aroma, it is essential in Japanese cooking, and in summer it bears a globular flower head (negi-bozu).",
+      "habitat_hint": "Fields, home gardens, sometimes escaped to roadsides.",
+      "finding_tips": "In fields look for an Allium with hollow cylindrical green leaves and a white sheath; the hollow cylindrical leaves with a globular flower head are the clue."
+    },
+    "zh": {
+      "summary": "ネギ。石蒜科葱属多年生蔬菜，广泛栽培，具中空圆筒之绿叶与白色叶鞘（白根），不结如洋葱之大鳞茎，具特殊香辛味，为日本料理不可缺之调味与煮物料，夏生球状花序（葱坊主）。",
+      "habitat_hint": "田地、家庭菜园、逸出于路旁等。",
+      "finding_tips": "于田地寻具中空圆筒绿叶与白叶鞘之葱属；中空圆筒叶与球状花序为辨识点。"
+    }
+  },
+  "Allium sativum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Garlic",
+    "aliases": {
+      "zh-Hans": "大蒜"
+    },
+    "ja": {
+      "summary": "ニンニク。畑で栽培されるヒガンバナ科ネギ属の多年草(野菜)で、地下に複数の小鱗片(片)が集まった鱗茎(球)をつくる。強い香りと辛味があり、香辛料・薬味として世界中で用いられる。細長い葉をつけ、初夏に花茎(にんにくの芽)を伸ばす。中央アジア原産で古くから栽培される。",
+      "habitat_hint": "畑、家庭菜園、逸出地。",
+      "finding_tips": "畑で、細長い葉をもち地下に片の集まった鱗茎をつくるネギ属を探す。強い香りと片に分かれた鱗茎が識別点。"
+    },
+    "en": {
+      "summary": "Garlic (Allium sativum, Amaryllidaceae), a cultivated perennial vegetable forming an underground bulb of several cloves; with a strong pungent aroma, it is used worldwide as a spice and seasoning. It bears slender leaves and sends up a flower stalk (garlic scape) in early summer. Native to Central Asia, it has long been cultivated.",
+      "habitat_hint": "Fields, home gardens, escapes.",
+      "finding_tips": "In fields look for an Allium with slender leaves forming an underground bulb of cloves; the strong aroma and clove-divided bulb are the clue."
+    },
+    "zh": {
+      "summary": "ニンニク。石蒜科葱属多年生蔬菜，栽培，地下结由数小鳞瓣（瓣）组成之鳞茎（球），气味辛烈，全球作香辛料与调味，叶细长，初夏抽花茎（蒜薹），原产中亚、栽培悠久。",
+      "habitat_hint": "田地、家庭菜园、逸出地。",
+      "finding_tips": "于田地寻叶细长、地下结分瓣鳞茎之葱属；辛烈气味与分瓣鳞茎为辨识点。"
+    }
+  },
+  "Allocasuarina verticillata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Drooping she-oak",
+    "aliases": {
+      "zh-Hans": "垂枝木麻黄"
+    },
+    "ja": {
+      "summary": "モクマオウ。オーストラリア原産のモクマオウ科の常緑高木で、海岸の防風・防砂樹や公園樹として暖地に植えられる。葉に見える細長く枝垂れた緑の部分は節のある小枝(同化枝)で、本当の葉は節に輪生する微小な鱗片。マツのような見た目で、松かさに似た球果をつける。",
+      "habitat_hint": "海岸の防風林、公園、街路などの植栽(暖地)。",
+      "finding_tips": "海岸や公園で、マツに似た細長く枝垂れる同化枝と松かさ状の球果をもつ常緑樹を探す。節のある枝垂れた緑枝と球果が識別点。"
+    },
+    "en": {
+      "summary": "The drooping she-oak (Allocasuarina verticillata, Casuarinaceae), an Australian evergreen tree planted in warm regions as a coastal windbreak and park tree; the drooping green 'foliage' is jointed photosynthetic branchlets, the true leaves being minute scales whorled at the joints. Pine-like in look, it bears cone-like woody fruits.",
+      "habitat_hint": "Coastal windbreaks, parks, street plantings (warm regions).",
+      "finding_tips": "On coasts or in parks look for a pine-like evergreen with long drooping jointed branchlets and cone-like fruits; the jointed drooping green branchlets with cones are the clue."
+    },
+    "zh": {
+      "summary": "モクマオウ。木麻黄科常绿乔木，原产澳洲，暖地植为海岸防风防砂树与公园树，似叶之细长垂绿为具节同化枝，真叶为节上轮生之微小鳞片，形似松、结似松果之球果。",
+      "habitat_hint": "海岸防风林、公园、街道栽植（暖地）。",
+      "finding_tips": "于海岸公园寻似松而具细长垂枝与似松果之常绿树；具节垂绿枝与球果为辨识点。"
+    }
+  },
+  "Alloeotomus simplus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Plant bug",
+    "ja": {
+      "summary": "マツノヒゲボソカスミカメ。マツ類の樹上にすむカスミカメムシ科のカメムシで、体は褐色〜赤褐色で細長い。触角が短めで先が太まる(髭坊主)。マツの葉や球果につき、他の小さな昆虫やダニ、あるいは植物の汁を吸う。松林や公園のマツで見られる。",
+      "habitat_hint": "マツ林、公園や社寺のマツの樹上。",
+      "finding_tips": "マツの葉や枝で、褐色〜赤褐色の細長いカスミカメを探す。マツにつく赤褐色の細長い体が識別点。"
+    },
+    "en": {
+      "summary": "A plant bug (Alloeotomus simplus, Miridae) living in pines; the body is brown to red-brown and elongate, with shortish antennae thickened at the tip. It occurs on pine needles and cones, feeding on small insects, mites or plant sap, and is seen on pines in pine woods and parks.",
+      "habitat_hint": "Pine woods, pines in parks and shrine-temple grounds.",
+      "finding_tips": "On pine needles and twigs look for an elongate brown to red-brown plant bug; the red-brown elongate body on pines is the clue."
+    },
+    "zh": {
+      "summary": "マツノヒゲボソカスミカメ。盲蝽科之蝽，栖松树上，体褐至红褐、细长，触角略短而端粗（髭坊主），于松叶松果上取食小昆虫、螨或植物汁，见于松林与公园之松。",
+      "habitat_hint": "松林、公园与寺社之松树上。",
+      "finding_tips": "于松叶松枝寻褐至红褐之细长盲蝽；松上红褐细长体为辨识点。"
+    }
+  },
+  "Alpheus brevicristatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snapping shrimp",
+    "ja": {
+      "summary": "テッポウエビ。内湾や干潟の砂泥底に巣穴を掘ってすむテッポウエビ科のエビで、左右不対称のはさみをもち、大きい方のはさみを素早く閉じて『パチン』という大きな衝撃音(気泡の破裂)を出す。この音で獲物を気絶させたり身を守ったりする。ハゼ類と巣穴を共有する共生でも知られる。",
+      "habitat_hint": "内湾、干潟、河口の砂泥底の巣穴。",
+      "finding_tips": "干潟の砂泥を掘り、左右で大きさの違うはさみをもつエビを探す。大きな片方のはさみと『パチン』という音が識別点。"
+    },
+    "en": {
+      "summary": "A snapping shrimp (Alpheus brevicristatus, Alpheidae) burrowing in the sand-mud of bays and tidal flats; it has asymmetric claws and snaps the larger one shut to produce a loud 'crack' (a bursting cavitation bubble), used to stun prey and for defence. It is also known for sharing burrows symbiotically with gobies.",
+      "habitat_hint": "Bay, tidal-flat and estuary sand-mud burrows.",
+      "finding_tips": "Dig tidal-flat sand-mud for a shrimp with one much-enlarged claw; the oversized snapping claw and its cracking sound are the clue."
+    },
+    "zh": {
+      "summary": "テッポウエビ。鼓虾科之虾，于内湾滩涂砂泥底掘穴而居，具左右不对称之螯，急闭大螯发出『啪』之巨响（气泡爆裂），用以击晕猎物与防身，亦知与鰕虎共穴共生。",
+      "habitat_hint": "内湾、滩涂、河口砂泥底之穴。",
+      "finding_tips": "掘滩涂砂泥寻左右螯大小不一之虾；巨大单螯与『啪』响为辨识点。"
+    }
+  },
+  "Alsophila spinulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flying spider-monkey tree fern",
+    "aliases": {
+      "zh-Hans": "桫椤"
+    },
+    "ja": {
+      "summary": "ヘゴ。暖地や亜熱帯の湿った林に生えるヘゴ科の木生シダで、太い幹状の茎が直立し高さ数mになる。幹の先に大きな羽状複葉の葉を放射状に広げ、木のような姿になる。幹には古い葉柄の跡が残る。名のとおり南西諸島や本州南部の渓谷などに分布する。シダ植物としては大型。",
+      "habitat_hint": "暖地・亜熱帯の湿った林、渓谷、林縁。",
+      "finding_tips": "暖地の湿った林で、太い幹が直立し先に大きな羽状複葉を放射状に広げる木生シダを探す。木のような幹と放射状の大きな葉が識別点。"
+    },
+    "en": {
+      "summary": "A tree fern (Alsophila spinulosa, Cyatheaceae) of moist warm-region and subtropical forest; a thick trunk-like stem stands erect to several metres, spreading large pinnate fronds in a radial crown for a tree-like form, with old frond-base scars on the trunk. It occurs in the Ryukyus and southern Honshu ravines and is large for a fern.",
+      "habitat_hint": "Moist warm-region and subtropical forest, ravines, edges.",
+      "finding_tips": "In moist warm-region forest look for a tree fern with an erect trunk crowned by large radial pinnate fronds; the tree-like trunk with a radial frond crown is the clue."
+    },
+    "zh": {
+      "summary": "ヘゴ。桫椤科木本蕨，生暖地与亚热带湿润林，粗干状茎直立高数米，顶端放射展开大型羽状复叶而成树状，干留旧叶柄痕，分布西南诸岛与本州南部溪谷，为大型蕨类。",
+      "habitat_hint": "暖地与亚热带湿润林、溪谷、林缘。",
+      "finding_tips": "于暖地湿润林寻干直立、顶放射展大型羽状叶之木本蕨；树状干与放射叶冠为辨识点。"
+    }
+  },
+  "Alstroemeria pelegrina": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Peruvian lily",
+    "aliases": {
+      "zh-Hans": "六出花"
+    },
+    "ja": {
+      "summary": "ユリズイセン。南米原産のユリズイセン科(アルストロメリア属)の多年草で、観賞用に栽培され切り花として人気が高い。細長い葉が上下逆にねじれてつくのが特徴。初夏に、ユリに似た6弁の花を咲かせ、内側の花被片に濃色の筋や斑が入る。花色はピンク・赤・白など。逸出して野生化することもある。",
+      "habitat_hint": "庭園、花壇、切り花栽培、逸出地。",
+      "finding_tips": "初夏、庭でユリに似た6弁花で内側に濃色の筋や斑が入る草を探す。ねじれてつく細長い葉と筋のある花被が識別点。"
+    },
+    "en": {
+      "summary": "A Peruvian lily (Alstroemeria pelegrina, Alstroemeriaceae), a South American perennial grown as an ornamental and popular cut flower; the narrow leaves are characteristically resupinate (twisted upside down). In early summer it bears lily-like six-tepalled flowers with darker streaks and flecks on the inner tepals, in pink, red or white, and sometimes escapes into the wild.",
+      "habitat_hint": "Gardens, flower beds, cut-flower culture, escapes.",
+      "finding_tips": "In early summer in gardens look for a plant with lily-like six-tepalled flowers streaked inside; the twisted narrow leaves and streaked tepals are the clue."
+    },
+    "zh": {
+      "summary": "ユリズイセン。六出花科（六出花属）多年草，原产南美，作观赏栽培、为受欢迎之切花，细长叶上下扭转（倒转）而生，初夏开似百合之六瓣花、内轮花被具浓色条纹与斑，花色粉红白等，亦逸为野生。",
+      "habitat_hint": "庭园、花坛、切花栽培、逸出地。",
+      "finding_tips": "初夏于庭园寻似百合六瓣、内具浓色条纹之花草；扭转细长叶与具纹花被为辨识点。"
+    }
+  },
+  "Alysicarpus vaginalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alyce clover",
+    "aliases": {
+      "zh-Hans": "链荚豆"
+    },
+    "ja": {
+      "summary": "ササハギ。暖地の海岸や道端、草地に生えるマメ科のつる状〜這性の多年草で、葉は1枚の小葉からなる単葉状(ハギに似た葉)。夏〜秋に紅紫色の小さな蝶形花を咲かせ、豆果が数珠状にくびれてつながる(節果)のが特徴。名のとおり南西諸島や暖地に多い。牧草や緑肥にも使われる。",
+      "habitat_hint": "暖地の海岸、道端、草地、荒れ地。",
+      "finding_tips": "夏〜秋、暖地の草地で1枚の小葉と紅紫の小さな蝶形花、数珠状にくびれる豆果をもつマメ科を探す。数珠状にくびれる豆果が識別点。"
+    },
+    "en": {
+      "summary": "Alyce clover (Alysicarpus vaginalis, Fabaceae), a trailing perennial of warm-region coasts, roadsides and grassland; the leaves are unifoliolate (a single leaflet). In summer to autumn it bears small reddish-purple pea flowers followed by jointed pods constricted like a string of beads (a loment). Common in the Ryukyus and warm regions, it is used as forage and green manure.",
+      "habitat_hint": "Warm-region coasts, roadsides, grassland, waste ground.",
+      "finding_tips": "In summer to autumn in warm grassland look for a legume with single leaflets, small reddish-purple pea flowers and bead-like jointed pods; the constricted bead-like pods are the clue."
+    },
+    "zh": {
+      "summary": "ササハギ。豆科匍匐多年草，生暖地海岸、路旁、草地，叶为单小叶（似胡枝子之叶），夏秋开红紫色蝶形小花，荚果如念珠般缢缩相连（节荚），多见于西南诸岛与暖地，亦作牧草绿肥。",
+      "habitat_hint": "暖地海岸、路旁、草地、荒地。",
+      "finding_tips": "夏秋于暖地草地寻单小叶、红紫蝶形小花与念珠状缢缩荚之豆科；念珠状缢缩荚为辨识点。"
+    }
+  },
+  "Amanita castanopsis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Amanita",
+    "ja": {
+      "summary": "コシロオニタケ。夏〜秋、シイ・カシなどブナ科の照葉樹林の地上に発生するテングタケ科のきのこで、傘は白色で表面にとがった突起(いぼ)状の外被膜片をつける。柄にはつばがあり、基部は膨らんでつぼ状になる。シロオニタケに似るが小型(小白鬼)。有毒とされ食用にしない。菌根菌。",
+      "habitat_hint": "夏〜秋、シイ・カシなどブナ科照葉樹林の地上。",
+      "finding_tips": "夏〜秋、照葉樹林の地上で白い傘にとがったいぼをつけ柄につばをもつ小型のきのこを探す。白い傘のとがったいぼと膨らんだ基部が識別点(有毒)。"
+    },
+    "en": {
+      "summary": "An Amanita (Amanita castanopsis, Amanitaceae) fruiting on the ground in Fagaceae (Castanopsis/Quercus) laurel forest in summer to autumn; the white cap bears pointed wart-like veil remnants, the stipe has a ring, and the base swells into a volva. It resembles the larger white Amanita but is smaller (the name means 'small white ogre'). Considered poisonous and not eaten; ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in Fagaceae laurel forest.",
+      "finding_tips": "In summer to autumn in laurel forest look for a small white-capped mushroom with pointed warts and a ringed stipe; the warty white cap with a swollen base is the clue (poisonous)."
+    },
+    "zh": {
+      "summary": "コシロオニタケ。鹅膏科真菌，夏秋生栲、栎等壳斗科照叶林地上，盖白、面具尖刺状外菌幕片（疣），柄具环、基部膨大成菌托，似白鬼鹅膏而较小（小白鬼），有毒不食，为菌根菌。",
+      "habitat_hint": "夏秋栲、栎等壳斗科照叶林地上。",
+      "finding_tips": "夏秋于照叶林地寻白盖具尖疣、柄具环之小型菌；白盖尖疣与膨大基部为辨识点（有毒）。"
+    }
+  },
+  "Amanita cheelii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grisette",
+    "ja": {
+      "summary": "オオツルタケ。夏〜秋、広葉樹林や針広混交林の地上に発生するテングタケ科のきのこで、傘は灰褐色〜褐色で縁に明瞭な放射状の条線(溝線)をもつ。つば(環)をもたないツルタケの仲間で、大型(大鶴茸)。柄の基部は白い袋状のつぼに包まれる。食用にする地域もあるが生食は危険で、近縁の毒種との誤認に注意。菌根菌。",
+      "habitat_hint": "夏〜秋、広葉樹林、針広混交林の地上。",
+      "finding_tips": "夏〜秋、林の地上で傘の縁に条線があり、つばがなく基部に袋状のつぼをもつ灰褐色の大型きのこを探す。縁の条線とつばのない柄、袋状のつぼが識別点。"
+    },
+    "en": {
+      "summary": "A grisette (Amanita cheelii, Amanitaceae) fruiting on the ground in broadleaf and mixed woodland in summer to autumn; the grey-brown to brown cap has a distinctly striate (grooved) margin. A ringless grisette-type Amanita and large (the name means 'large grisette'), its stipe base sits in a white saccate volva. Eaten in some areas but risky raw and easily confused with poisonous relatives; ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf and mixed woodland.",
+      "finding_tips": "In summer to autumn look for a large grey-brown mushroom with a striate cap margin, no ring, and a saccate volva at the base; the striate margin with a ringless stipe and volva is the clue."
+    },
+    "zh": {
+      "summary": "オオツルタケ。鹅膏科真菌，夏秋生阔叶与针阔混交林地上，盖灰褐至褐、缘具明显放射沟纹（沟线），为无环之灰花鹅膏（鹤茸）类而大型（大鹤茸），柄基被白色袋状菌托，部分地区食用但生食危险、易与毒近缘种混淆，为菌根菌。",
+      "habitat_hint": "夏秋阔叶与针阔混交林地上。",
+      "finding_tips": "夏秋于林地寻盖缘具沟纹、无环而基部具袋状菌托之灰褐大型菌；缘沟纹、无环柄与袋状托为辨识点。"
+    }
+  },
+  "Amanita gemmata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gemmed Amanita",
+    "ja": {
+      "summary": "ウスキテングタケ。夏〜秋、マツなど針葉樹林や広葉樹林の地上に発生するテングタケ科のきのこで、傘は淡黄色〜クリーム色で、白い膜片(外被膜のかけら)を散らす。柄にはつばがあり、基部は膨らんでつばの跡(えり状のつぼ)をもつ。有毒で食用にしない。テングタケ類らしく菌根菌。",
+      "habitat_hint": "夏〜秋、マツ林など針葉樹林・広葉樹林の地上。",
+      "finding_tips": "夏〜秋、林の地上で淡黄色の傘に白い膜片を散らし柄につばをもつきのこを探す。淡黄色の傘の白い膜片と膨らんだ基部が識別点(有毒)。"
+    },
+    "en": {
+      "summary": "The gemmed Amanita (Amanita gemmata, Amanitaceae) fruiting on the ground in conifer and broadleaf woodland in summer to autumn; the pale yellow to cream cap is dotted with white veil fragments, the stipe has a ring, and the swollen base has a collar-like volva remnant. It is poisonous and not eaten; like other Amanita it is ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in conifer (esp. pine) and broadleaf woodland.",
+      "finding_tips": "In summer to autumn look for a pale-yellow-capped mushroom dotted with white veil flecks and a ringed stipe; the pale yellow cap with white flecks and a swollen base is the clue (poisonous)."
+    },
+    "zh": {
+      "summary": "ウスキテングタケ。鹅膏科真菌，夏秋生松等针叶林与阔叶林地上，盖淡黄至奶油色、散白色膜片（外菌幕碎片），柄具环，基部膨大具领状菌托痕，有毒不食，为菌根菌。",
+      "habitat_hint": "夏秋松林等针叶林与阔叶林地上。",
+      "finding_tips": "夏秋于林地寻盖淡黄散白膜片、柄具环之菌；淡黄盖白膜片与膨大基部为辨识点（有毒）。"
+    }
+  },
+  "Amanita javanica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Javan slender Caesar",
+    "ja": {
+      "summary": "キタマゴタケ。夏〜秋、ブナ科など広葉樹林や針広混交林の地上に発生するテングタケ科のきのこで、幼時は白い卵形のつぼに包まれ、傘は鮮やかな黄色。柄と柄のつばも黄色みを帯びる。基部に白い袋状のつぼを残す。タマゴタケ(赤い傘)の黄色版で、食用にされるが有毒種との誤認に注意。菌根菌。",
+      "habitat_hint": "夏〜秋、広葉樹林、針広混交林の地上。",
+      "finding_tips": "夏〜秋、林の地上で鮮やかな黄色い傘と黄色いつば、白い袋状のつぼをもつきのこを探す。黄色い傘・つばと白い袋状のつぼが識別点(毒種と要区別)。"
+    },
+    "en": {
+      "summary": "The Javan slender Caesar (Amanita javanica, Amanitaceae) fruiting on the ground in broadleaf and mixed woodland in summer to autumn; it emerges from a white egg-like volva and has a bright yellow cap, with a yellowish stipe and ring, leaving a white saccate volva at the base. A yellow counterpart of the red Caesar's mushroom, it is eaten but easily confused with poisonous species; ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf and mixed woodland.",
+      "finding_tips": "In summer to autumn look for a mushroom with a bright yellow cap, yellowish ring and a white saccate volva; the yellow cap and ring with a white volva are the clue (distinguish from poisonous species)."
+    },
+    "zh": {
+      "summary": "キタマゴタケ。鹅膏科真菌，夏秋生壳斗科等阔叶与针阔混交林地上，幼时被白卵形菌托，盖鲜黄，柄与柄环亦带黄，基部留白色袋状菌托，为红色橙盖鹅膏之黄色版，可食但易与毒种混淆，为菌根菌。",
+      "habitat_hint": "夏秋阔叶与针阔混交林地上。",
+      "finding_tips": "夏秋于林地寻盖鲜黄、环黄而基部具白袋状托之菌；黄盖黄环与白菌托为辨识点（须别毒种）。"
+    }
+  },
+  "Amanita subjunquillea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "East Asian death cap",
+    "ja": {
+      "summary": "アケボノドクツルタケ。夏〜秋、ブナ科など広葉樹林や針広混交林の地上に発生するテングタケ科の猛毒きのこで、傘は黄褐色〜オリーブ褐色。柄にはつばがあり、基部は白い袋状のつぼに包まれる。ドクツルタケに近縁で、アマトキシンを含み、少量でも死に至ることがある。絶対に食べてはいけない。菌根菌。",
+      "habitat_hint": "夏〜秋、広葉樹林、針広混交林の地上。",
+      "finding_tips": "夏〜秋、林の地上で黄褐色の傘、つばのある柄、白い袋状のつぼをもつきのこを見たら猛毒として避ける。黄褐色の傘とつば・袋状のつぼが識別点(猛毒・絶対に食べない)。"
+    },
+    "en": {
+      "summary": "The East Asian death cap (Amanita subjunquillea, Amanitaceae), a deadly poisonous mushroom fruiting on the ground in broadleaf and mixed woodland in summer to autumn; the cap is yellow-brown to olive-brown, the stipe has a ring, and the base sits in a white saccate volva. A relative of the destroying angel, it contains amatoxins and can kill in small amounts — never eat it. Ectomycorrhizal.",
+      "habitat_hint": "Summer-autumn on the ground in broadleaf and mixed woodland.",
+      "finding_tips": "In summer to autumn treat any mushroom with a yellow-brown cap, a ringed stipe and a white saccate volva as deadly and avoid it; the yellow-brown cap with ring and volva is the clue (deadly poisonous — never eat)."
+    },
+    "zh": {
+      "summary": "アケボノドクツルタケ。鹅膏科剧毒真菌，夏秋生壳斗科等阔叶与针阔混交林地上，盖黄褐至橄榄褐，柄具环，基部被白色袋状菌托，近于致命白毒伞、含鹅膏毒素，微量亦可致死，绝不可食，为菌根菌。",
+      "habitat_hint": "夏秋阔叶与针阔混交林地上。",
+      "finding_tips": "夏秋于林地见盖黄褐、柄具环、基部具白袋状托之菌即视为剧毒回避；黄褐盖与环、袋状托为辨识点（剧毒·绝不可食）。"
+    }
   }
 }
