@@ -286795,5 +286795,542 @@
       "habitat_hint": "低山地至丘陵林、林缘、果园、杂木林。",
       "finding_tips": "夜于灯下寻前翅宽阔褐色而具角状斑之卷蛾；宽前翅与角状斑为辨识点（近缘种以斑纹与交尾器区分）。"
     }
+  },
+  "Architectonica perspectiva": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clear sundial",
+    "ja": {
+      "summary": "クロスジグルマ。暖海の砂底にすむ巻貝(クルマガイ科)で、殻は低い円錐形で、上から見ると車輪(車)のように渦を巻き、螺状に黒い筋(黒条)が並ぶのが名の由来。底面中央に深いへそ(臍孔)が開き、そこに段状の螺旋が見える。イソギンチャクやウミエラなどの刺胞動物を食べるとされる。",
+      "habitat_hint": "暖海の潮間帯下部〜浅海の砂底、砂礫底。",
+      "finding_tips": "海岸で、低い円錐形で車輪状に黒い螺状の筋が並ぶ巻貝を探す。車輪状の殻と黒い螺条、深いへそが識別点。"
+    },
+    "en": {
+      "summary": "A sundial snail (Architectonica perspectiva, Architectonicidae) of warm-water sand bottoms; the low conical shell coils like a wheel viewed from above, with spiral rows of black lines (the source of the Japanese name) and a deep central umbilicus showing stepped whorls. It is thought to feed on cnidarians such as anemones and sea pens.",
+      "habitat_hint": "Warm-water lower intertidal to shallow sand and sand-gravel.",
+      "finding_tips": "On the beach look for a low conical wheel-like snail with spiral black lines; the wheel-shaped shell with black spiral lines and deep umbilicus is the clue."
+    },
+    "zh": {
+      "summary": "クロスジグルマ。车轮螺科之螺，栖暖海砂底，壳低圆锥、俯视如车轮盘旋，螺列黑条（黑纹，名之由来），底中央具深脐孔、内见阶状螺旋，据信食海葵、海鳃等刺胞动物。",
+      "habitat_hint": "暖海潮间带下部至浅海砂底、砂砾底。",
+      "finding_tips": "于海岸寻低圆锥、如车轮而具黑螺条之螺；车轮壳、黑螺纹与深脐为辨识点。"
+    }
+  },
+  "Arctoscopus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sailfin sandfish",
+    "aliases": {
+      "zh-Hans": "日本叉牙鱼"
+    },
+    "ja": {
+      "summary": "ハタハタ。日本海や北日本の沿岸〜やや深い砂泥底にすむハタハタ科の魚で、体はうろこがなく、大きな口が上向きに開く。ふだんは深みにすむが、晩秋〜初冬に産卵のため沿岸の藻場に大群で押し寄せる。秋田など日本海側の冬の味覚として有名で、しょっつる(魚醤)や鍋、ぶりこ(卵)で親しまれる。",
+      "habitat_hint": "日本海・北日本の沿岸〜やや深い砂泥底、産卵期は沿岸の藻場。",
+      "finding_tips": "冬、日本海側の海で、うろこがなく口が上向きに開く体側扁の魚を探す。無鱗の体と上向きの大きな口が識別点。"
+    },
+    "en": {
+      "summary": "The sailfin sandfish (Arctoscopus japonicus, Trichodontidae) of the Sea of Japan and northern coastal to somewhat deep sand-mud bottoms; the body is scaleless with a large upward-opening mouth. Usually in deeper water, it swarms inshore to weedy grounds to spawn in late autumn to early winter. Famous as a winter delicacy on the Sea of Japan side (e.g. Akita), used in fish sauce (shottsuru), hot pots and for its roe (buriko).",
+      "habitat_hint": "Sea of Japan and northern coastal to deeper sand-mud; inshore weed beds when spawning.",
+      "finding_tips": "In winter on the Sea of Japan side look for a scaleless compressed fish with a large upward-opening mouth; the scaleless body with an upturned mouth is the clue."
+    },
+    "zh": {
+      "summary": "ハタハタ。叉牙鱼科之鱼，栖日本海与北日本沿岸至略深砂泥底，体无鳞、大口上向而开，平时居深处，晚秋至初冬为产卵大群涌至沿岸藻场，为日本海侧著名冬味，用于鱼酱（しょっつる）、火锅与鱼卵（ぶりこ）。",
+      "habitat_hint": "日本海与北日本沿岸至略深砂泥底，产卵期近岸藻场。",
+      "finding_tips": "冬于日本海侧寻无鳞、口上向而开之侧扁鱼；无鳞体与上向大口为辨识点。"
+    }
+  },
+  "Arctostaphylos alpinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine bearberry",
+    "aliases": {
+      "zh-Hans": "高山熊果"
+    },
+    "ja": {
+      "summary": "ウラシマツツジ。高山帯の砂礫地や風衝草原に生えるツツジ科の落葉小低木で、地面を這うように広がる。葉は倒卵形で網目状の脈がへこみ、秋に鮮やかに紅葉するのが特徴。初夏に壺形の小さな白い花を咲かせ、黒く熟す球形の実をつける。名(浦島)は葉の様子などにちなむとされる。高山の代表的な紅葉植物。",
+      "habitat_hint": "高山帯の砂礫地、風衝草原、岩礫地。",
+      "finding_tips": "秋、高山の砂礫地で地を這い網目状の脈のある葉が鮮やかに紅葉する小低木を探す。地を這う枝と網目脈の紅葉する葉が識別点。"
+    },
+    "en": {
+      "summary": "The alpine bearberry (Arctostaphylos alpinus, Ericaceae), a deciduous dwarf shrub of alpine gravel and wind-swept grassland, spreading prostrate over the ground; the obovate leaves have sunken net-like veins and colour vividly in autumn. In early summer it bears small white urn-shaped flowers followed by round fruits ripening black. A signature alpine autumn-colour plant.",
+      "habitat_hint": "Alpine gravel, wind-swept grassland, rocky ground.",
+      "finding_tips": "In autumn on alpine gravel look for a prostrate dwarf shrub with net-veined leaves turning vivid red; the creeping stems with net-veined autumn leaves are the clue."
+    },
+    "zh": {
+      "summary": "ウラシマツツジ。杜鹃花科落叶矮灌木，生高山砾地与风衝草原，贴地匍匐，叶倒卵形、网脉凹陷，秋鲜艳变红，初夏开壶状白色小花、结黑熟球果，为高山代表性红叶植物。",
+      "habitat_hint": "高山砾地、风衝草原、岩砾地。",
+      "finding_tips": "秋于高山砾地寻贴地匍匐、网脉叶鲜红之矮灌木；匍匐枝与网脉红叶为辨识点。"
+    }
+  },
+  "Arcyria incarnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "モモイロウツボホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、小さな柄の上に俵形〜球形の子実体をつけ、成熟すると外皮が破れて網目状の細毛(毛体)がばね状に伸び出す。子実体が淡紅色〜桃色(桃色)を帯びる。群がって生じる。変形体は朽木上をはい回り、成熟して子実体をつくる。",
+      "habitat_hint": "朽木、倒木、落葉上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で小さな柄の上に俵形の子実体が群がり、網目状の毛がばね状に伸びるのを探す。ばね状に伸びる網目の毛体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Arcyria, Trichiaceae) fruiting on rotten wood and litter; barrel- to globose sporangia sit on small stalks, and at maturity the wall splits to let a net-like elastic capillitium spring out. 子実体が淡紅色〜桃色(桃色)を帯びる. They appear in clusters, the plasmodium creeping over rotten wood before maturing into fruiting bodies.",
+      "habitat_hint": "Rotten wood, fallen logs, leaf litter (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered barrel-shaped sporangia on small stalks with a net-like capillitium springing out; the springy netted capillitium is the clue."
+    },
+    "zh": {
+      "summary": "モモイロウツボホコリ。变形菌（黏菌）之一，生朽木落叶上，小柄上生桶形至球形孢囊，成熟时外皮破裂、网状细毛（毛体）如弹簧般伸出。子実体が淡紅色〜桃色(桃色)を帯びる。成群而生，变形体爬行朽木后成熟结子实体。",
+      "habitat_hint": "朽木、倒木、落叶上潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻小柄上成群桶形孢囊、网状毛如弹簧伸出者；弹簧状网毛体为辨识点。"
+    }
+  },
+  "Arcyria pomiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "マルウツボホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、小さな柄の上に俵形〜球形の子実体をつけ、成熟すると外皮が破れて網目状の細毛(毛体)がばね状に伸び出す。子実体が小さく丸い(丸)ことが名の由来で、黄色〜黄褐色を帯びる。群がって生じる。変形体は朽木上をはい回り、成熟して子実体をつくる。",
+      "habitat_hint": "朽木、倒木、落葉上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で小さな柄の上に俵形の子実体が群がり、網目状の毛がばね状に伸びるのを探す。ばね状に伸びる網目の毛体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Arcyria, Trichiaceae) fruiting on rotten wood and litter; barrel- to globose sporangia sit on small stalks, and at maturity the wall splits to let a net-like elastic capillitium spring out. 子実体が小さく丸い(丸)ことが名の由来で、黄色〜黄褐色を帯びる. They appear in clusters, the plasmodium creeping over rotten wood before maturing into fruiting bodies.",
+      "habitat_hint": "Rotten wood, fallen logs, leaf litter (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered barrel-shaped sporangia on small stalks with a net-like capillitium springing out; the springy netted capillitium is the clue."
+    },
+    "zh": {
+      "summary": "マルウツボホコリ。变形菌（黏菌）之一，生朽木落叶上，小柄上生桶形至球形孢囊，成熟时外皮破裂、网状细毛（毛体）如弹簧般伸出。子実体が小さく丸い(丸)ことが名の由来で、黄色〜黄褐色を帯びる。成群而生，变形体爬行朽木后成熟结子实体。",
+      "habitat_hint": "朽木、倒木、落叶上潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻小柄上成群桶形孢囊、网状毛如弹簧伸出者；弹簧状网毛体为辨识点。"
+    }
+  },
+  "Arcyria stipata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ムレウツボホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、小さな柄の上に俵形〜球形の子実体をつけ、成熟すると外皮が破れて網目状の細毛(毛体)がばね状に伸び出す。子実体が密に群がって(群れ)生じる。群がって生じる。変形体は朽木上をはい回り、成熟して子実体をつくる。",
+      "habitat_hint": "朽木、倒木、落葉上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で小さな柄の上に俵形の子実体が群がり、網目状の毛がばね状に伸びるのを探す。ばね状に伸びる網目の毛体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Arcyria, Trichiaceae) fruiting on rotten wood and litter; barrel- to globose sporangia sit on small stalks, and at maturity the wall splits to let a net-like elastic capillitium spring out. 子実体が密に群がって(群れ)生じる. They appear in clusters, the plasmodium creeping over rotten wood before maturing into fruiting bodies.",
+      "habitat_hint": "Rotten wood, fallen logs, leaf litter (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered barrel-shaped sporangia on small stalks with a net-like capillitium springing out; the springy netted capillitium is the clue."
+    },
+    "zh": {
+      "summary": "ムレウツボホコリ。变形菌（黏菌）之一，生朽木落叶上，小柄上生桶形至球形孢囊，成熟时外皮破裂、网状细毛（毛体）如弹簧般伸出。子実体が密に群がって(群れ)生じる。成群而生，变形体爬行朽木后成熟结子实体。",
+      "habitat_hint": "朽木、倒木、落叶上潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻小柄上成群桶形孢囊、网状毛如弹簧伸出者；弹簧状网毛体为辨识点。"
+    }
+  },
+  "Ardeadoris cruenta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "アカテンイロウミウシ。サンゴ礁や岩礁にすむイロウミウシ科の裸鰓類(ウミウシ)で、体は白っぽい地に赤い斑点(赤点)が散らばる。背の後方に羽状の二次鰓、頭部に一対の触角(触角)をもつ。カイメンを食べる肉食性。暖海の岩礁やサンゴ礁の斜面で見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁、カイメンの周辺。",
+      "finding_tips": "サンゴ礁で、白っぽい体に赤い斑点が散らばる中型のウミウシを探す。白地に赤点の散らばる体が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Ardeadoris cruenta, Chromodorididae), a nudibranch of coral and rocky reefs; the whitish body is scattered with red spots (the source of the Japanese name), with feathery secondary gills at the rear and a pair of rhinophores on the head. A sponge-eating carnivore, it is seen on warm-water reef slopes.",
+      "habitat_hint": "Warm-water coral and rocky reef, around sponges.",
+      "finding_tips": "On reefs look for a medium whitish sea slug scattered with red spots; the white body with red spots is the clue."
+    },
+    "zh": {
+      "summary": "アカテンイロウミウシ。多彩海蛞蝓科裸鳃类，栖珊瑚礁与岩礁，体白底散红斑（赤点），后部具羽状二次鳃、头具一对触角，肉食性食海绵，见于暖海礁坡。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、海绵周边。",
+      "finding_tips": "于珊瑚礁寻白底散红斑之中型海蛞蝓；白底红点之体为辨识点。"
+    }
+  },
+  "Ardeadoris egretta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "メレンゲウミウシ。サンゴ礁や岩礁にすむイロウミウシ科の裸鰓類(ウミウシ)で、体は純白で、外套膜の縁が波打ってひだ状になり、泡立てた卵白(メレンゲ)のように見えるのが名の由来。学名の種小名egretta(白鷺)も白さにちなむ。カイメンを食べる。暖海の岩礁やサンゴ礁で見られる。",
+      "habitat_hint": "暖海のサンゴ礁、岩礁、カイメンの周辺。",
+      "finding_tips": "サンゴ礁で、純白で外套膜の縁が波打ってひだ状になる中型のウミウシを探す。波打つ白いひだ状の縁が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Ardeadoris egretta, Chromodorididae), a pure-white nudibranch of coral and rocky reefs; the mantle margin is wavy and frilled, looking like whipped egg-white meringue (the source of the Japanese name; the epithet egretta, 'egret', also refers to its whiteness). It eats sponges and is seen on warm-water reefs.",
+      "habitat_hint": "Warm-water coral and rocky reef, around sponges.",
+      "finding_tips": "On reefs look for a pure-white sea slug with a wavy frilled mantle margin; the frilled white margin is the clue."
+    },
+    "zh": {
+      "summary": "メレンゲウミウシ。多彩海蛞蝓科裸鳃类，栖珊瑚礁与岩礁，体纯白、外套膜缘波褶如打发之蛋白（蛋白霜，名之由来；种名 egretta 白鹭亦指其白），食海绵，见于暖海礁。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、海绵周边。",
+      "finding_tips": "于珊瑚礁寻纯白而外套膜缘波褶之中型海蛞蝓；波褶白缘为辨识点。"
+    }
+  },
+  "Ardisia quinquegona": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ardisia",
+    "ja": {
+      "summary": "シシアクチ。暖地の常緑樹林に生えるサクラソウ科(ヤブコウジ科)の常緑低木で、葉は互生し光沢のある倒披針形。初夏に白い小さな星形の花を咲かせる。果実は扁球形で、名(五角)や種小名(quinquegona=五角の)のとおり熟すと5角形〜稜のある形になり黒紫色になる。南西日本や南西諸島に分布する。",
+      "habitat_hint": "暖地の常緑広葉樹林、照葉樹林、林縁。",
+      "finding_tips": "常緑樹林で、光沢のある倒披針形の葉と白い星形の小花、5角状の黒紫の果実をもつ低木を探す。5角状の果実が識別点。"
+    },
+    "en": {
+      "summary": "An ardisia (Ardisia quinquegona, Primulaceae/Myrsinaceae), an evergreen shrub of warm-region evergreen forest; the alternate leaves are glossy and oblanceolate. In early summer it bears small white star-shaped flowers, and the oblate fruit becomes five-angled (quinquegona = five-angled) and blackish-purple when ripe. It occurs in southwestern Japan and the Ryukyus.",
+      "habitat_hint": "Warm-region evergreen broadleaf and laurel forest, edges.",
+      "finding_tips": "In evergreen forest look for a shrub with glossy oblanceolate leaves, small white star flowers and five-angled blackish-purple fruit; the five-angled fruit is the clue."
+    },
+    "zh": {
+      "summary": "シシアクチ。报春花科（紫金牛科）常绿灌木，生暖地常绿林，叶互生、光泽倒披针，初夏开白色星形小花，果扁球、熟时呈五角（quinquegona 五角）而黑紫，分布西南日本与西南诸岛。",
+      "habitat_hint": "暖地常绿阔叶林、照叶林、林缘。",
+      "finding_tips": "于常绿林寻光泽倒披针叶、白星形小花、五角黑紫果之灌木；五角状果为辨识点。"
+    }
+  },
+  "Arenicola brasiliensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lugworm",
+    "ja": {
+      "summary": "タマシキゴカイ。干潟や内湾の砂泥中にU字形の巣穴を掘ってすむ大型の多毛類(タマシキゴカイ科)で、体は太く、体側に房状の赤い鰓をもつ。堆積物を飲み込んで有機物を消化し、砂を糞塊(砂を紐状にひねった山)として排出する。干潟の表面に見られる渦巻き状の糞塊は本種の存在を示す。釣り餌にされる。",
+      "habitat_hint": "干潟、内湾の砂泥底のU字形巣穴。",
+      "finding_tips": "干潟の表面で、砂を紐状にひねった渦巻き状の糞塊を探す。渦巻き状の砂の糞塊が本種の存在を示す識別点。"
+    },
+    "en": {
+      "summary": "A lugworm (Arenicola brasiliensis, Arenicolidae), a large polychaete living in a U-shaped burrow in tidal-flat and bay sand-mud; the stout body bears tufted red gills along the sides. It swallows sediment to digest organic matter and ejects sand as coiled faecal casts. The spiral casts seen on tidal-flat surfaces reveal its presence, and it is used as fishing bait.",
+      "habitat_hint": "Tidal-flat and bay sand-mud U-shaped burrows.",
+      "finding_tips": "On tidal-flat surfaces look for coiled spiral sand casts; the spiral faecal casts reveal the worm below (the identifying clue)."
+    },
+    "zh": {
+      "summary": "タマシキゴカイ。沙蠋科大型多毛类，于滩涂内湾砂泥中掘U形穴而居，体粗、体侧具丛状红鳃，吞食沉积物消化有机物、以扭曲成绳状之砂粪团排出，滩涂表面之螺旋砂粪团即示其存在，供作钓饵。",
+      "habitat_hint": "滩涂、内湾砂泥底之U形穴。",
+      "finding_tips": "于滩涂表面寻扭曲成绳之螺旋砂粪团；螺旋砂粪团示其存在为辨识点。"
+    }
+  },
+  "Arhopala ganesa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Loomis's oakblue",
+    "ja": {
+      "summary": "ルーミスシジミ。暖地の常緑広葉樹林(照葉樹林)にすむシジミチョウ科のチョウで、翅の表面は明るい青紫色に輝き、裏面は白っぽい灰色。イチイガシなど常緑のカシ類の葉を幼虫が食べる。生息地が限られる希少種で、地域によっては保護対象になっている。年数回発生し、成虫で越冬する。",
+      "habitat_hint": "暖地の常緑広葉樹林、照葉樹林、渓谷林。",
+      "finding_tips": "照葉樹林で、翅表が明るい青紫に輝き裏が白っぽいシジミチョウを探す。青紫に輝く翅表と白っぽい裏面が識別点(希少種)。"
+    },
+    "en": {
+      "summary": "Loomis's oakblue (Arhopala ganesa, Lycaenidae), a butterfly of warm-region evergreen broadleaf (laurel) forest; the wing uppersides shine bright blue-purple and the undersides are whitish grey. The larva feeds on the leaves of evergreen oaks such as Quercus gilva. A rare, locally-restricted species, it is protected in some areas, has several broods a year and overwinters as an adult.",
+      "habitat_hint": "Warm-region evergreen broadleaf and laurel forest, ravine forest.",
+      "finding_tips": "In laurel forest look for a lycaenid with bright blue-purple uppersides and whitish undersides; the shining blue-purple upperside with pale underside is the clue (rare)."
+    },
+    "zh": {
+      "summary": "ルーミスシジミ。灰蝶科之蝶，栖暖地常绿阔叶（照叶）林，翅面亮青紫闪耀、翅背白灰，幼虫食青栲等常绿栎类叶，为分布局限之稀有种、部分地区受保护，年数代、以成虫越冬。",
+      "habitat_hint": "暖地常绿阔叶林、照叶林、溪谷林。",
+      "finding_tips": "于照叶林寻翅面亮青紫、翅背白之灰蝶；青紫闪耀翅面与白背为辨识点（稀有）。"
+    }
+  },
+  "Arichanna tetrica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "キジマエダシャク。シャクガ科(エダシャク亜科)の中〜大型のガで、前翅は淡黄色〜黄白色の地に黒っぽい斑点や暗色部が散らばる。静止時は翅を平らに開く。幼虫はシャクトリムシ型で、ツツジ科など木本の葉を食べる。山地の林で夜間に灯火へ飛来する。ヒョウモンエダシャクに似た黄地に黒斑のなかま。",
+      "habitat_hint": "山地〜丘陵の林、林縁、ツツジ科の多い林。",
+      "finding_tips": "夜、灯火などで淡黄色地に黒っぽい斑点が散らばる中〜大型のエダシャクを探す。黄地に黒斑の散らばる翅が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Arichanna tetrica, Ennominae), a medium to large moth; the pale yellow to yellow-white forewings are scattered with blackish spots and dark areas, and it holds its wings flat at rest. The looper caterpillar feeds on woody plants such as Ericaceae. Adults come to lights in montane woodland — one of the yellow-with-black-spots Arichanna group.",
+      "habitat_hint": "Montane to hill woodland, edges, Ericaceae-rich woods.",
+      "finding_tips": "At night at lights look for a medium-large geometer with a pale yellow ground scattered with black spots; the yellow ground with black spots is the clue."
+    },
+    "zh": {
+      "summary": "キジマエダシャク。尺蛾科（尺蛾亚科）之中至大型蛾，前翅淡黄至黄白、散黑斑与暗部，静止平展，幼虫尺蠖型食杜鹃花科等木本，山地林夜间趋光，为黄底黑斑之 Arichanna 类。",
+      "habitat_hint": "山地至丘陵林、林缘、多杜鹃花科之林。",
+      "finding_tips": "夜于灯下寻淡黄底散黑斑之中大型尺蛾；黄底散黑斑翅为辨识点。"
+    }
+  },
+  "Arisaema mayebarae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jack-in-the-pulpit",
+    "ja": {
+      "summary": "ヒトヨシテンナンショウ。林床や林縁に生えるサトイモ科テンナンショウ属の多年草で、春に仏炎苞(ぶつえんほう)に包まれた独特の花序を立てる。仏炎苞は筒状で先が前に垂れ、内部に棒状の付属体(花軸の先)が立つ。葉は鳥足状〜掌状に分かれる。名(人吉)のとおり九州の人吉地方などに分布する。秋にトウモロコシ状の赤い果実をつける。有毒。",
+      "habitat_hint": "湿った林床、林縁、竹林、谷沿いの木陰。",
+      "finding_tips": "春、林床で仏炎苞に包まれた独特の花序を立てるテンナンショウを探す。筒状の仏炎苞と鳥足状の葉が識別点(近縁種は苞や付属体の形で区別)。"
+    },
+    "en": {
+      "summary": "A jack-in-the-pulpit (Arisaema, Araceae), a perennial of forest floor and edges; in spring it raises a distinctive inflorescence wrapped in a spathe, tubular with a forward-drooping tip and a club-like spadix appendage inside. The leaves are pedately to palmately divided. 名(人吉)のとおり九州の人吉地方などに分布する. In autumn it bears a corn-cob-like red fruit; it is poisonous.",
+      "habitat_hint": "Moist forest floor, edges, bamboo groves, shaded valleys.",
+      "finding_tips": "In spring on forest floor look for a jack-in-the-pulpit raising a spathe-wrapped inflorescence; the tubular spathe with pedate leaves is the clue (relatives separated by spathe and appendage)."
+    },
+    "zh": {
+      "summary": "ヒトヨシテンナンショウ。天南星科天南星属多年草，生林床林缘，春立由佛焰苞包之独特花序，苞筒状、端前垂，内立棒状附属体（花轴端），叶鸟足状至掌状分裂。名(人吉)のとおり九州の人吉地方などに分布する。秋结如玉米之红果，有毒。",
+      "habitat_hint": "湿润林床、林缘、竹林、谷畔树荫。",
+      "finding_tips": "春于林床寻立佛焰苞包花序之天南星；筒状佛焰苞与鸟足状叶为辨识点（近缘种以苞与附属体区分）。"
+    }
+  },
+  "Arisaema minus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Jack-in-the-pulpit",
+    "ja": {
+      "summary": "ハリママムシグサ。林床や林縁に生えるサトイモ科テンナンショウ属の多年草で、春に仏炎苞(ぶつえんほう)に包まれた独特の花序を立てる。仏炎苞は筒状で先が前に垂れ、内部に棒状の付属体(花軸の先)が立つ。葉は鳥足状〜掌状に分かれる。名(播磨)のとおり兵庫の播磨地方などに分布し、やや小型(minus=小さい)。秋にトウモロコシ状の赤い果実をつける。有毒。",
+      "habitat_hint": "湿った林床、林縁、竹林、谷沿いの木陰。",
+      "finding_tips": "春、林床で仏炎苞に包まれた独特の花序を立てるテンナンショウを探す。筒状の仏炎苞と鳥足状の葉が識別点(近縁種は苞や付属体の形で区別)。"
+    },
+    "en": {
+      "summary": "A jack-in-the-pulpit (Arisaema, Araceae), a perennial of forest floor and edges; in spring it raises a distinctive inflorescence wrapped in a spathe, tubular with a forward-drooping tip and a club-like spadix appendage inside. The leaves are pedately to palmately divided. 名(播磨)のとおり兵庫の播磨地方などに分布し、やや小型(minus=小さい). In autumn it bears a corn-cob-like red fruit; it is poisonous.",
+      "habitat_hint": "Moist forest floor, edges, bamboo groves, shaded valleys.",
+      "finding_tips": "In spring on forest floor look for a jack-in-the-pulpit raising a spathe-wrapped inflorescence; the tubular spathe with pedate leaves is the clue (relatives separated by spathe and appendage)."
+    },
+    "zh": {
+      "summary": "ハリママムシグサ。天南星科天南星属多年草，生林床林缘，春立由佛焰苞包之独特花序，苞筒状、端前垂，内立棒状附属体（花轴端），叶鸟足状至掌状分裂。名(播磨)のとおり兵庫の播磨地方などに分布し、やや小型(minus=小さい)。秋结如玉米之红果，有毒。",
+      "habitat_hint": "湿润林床、林缘、竹林、谷畔树荫。",
+      "finding_tips": "春于林床寻立佛焰苞包花序之天南星；筒状佛焰苞与鸟足状叶为辨识点（近缘种以苞与附属体区分）。"
+    }
+  },
+  "Artemisia pedunculosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mugwort",
+    "ja": {
+      "summary": "ミヤマオトコヨモギ。高山や亜高山の砂礫地、岩場に生えるキク科ヨモギ属の多年草で、オトコヨモギの高山型。葉はへら形〜くさび形で、しばしば先が浅く裂ける。夏〜秋に、長い柄のある(pedunculosa=柄のある)球形の小さな頭花を穂状につけ、うつむき加減に咲く。名(深山)のとおり山地に生える。",
+      "habitat_hint": "高山・亜高山の砂礫地、岩場、風衝地。",
+      "finding_tips": "夏〜秋、高山の砂礫地でへら形の葉と長い柄のある球形の小さな頭花をうつむいてつけるヨモギを探す。長い柄のうつむく頭花が識別点。"
+    },
+    "en": {
+      "summary": "A mugwort (Artemisia pedunculosa, Asteraceae), a perennial of alpine and subalpine gravel and rocky ground, an alpine form of the male mugwort; the spatulate to wedge-shaped leaves are often shallowly lobed at the tip. In summer to autumn it bears small globose flower heads on long stalks (pedunculosa = stalked), nodding in a spike. The Japanese name means 'deep-mountain'.",
+      "habitat_hint": "Alpine and subalpine gravel, rocky ground, wind-swept sites.",
+      "finding_tips": "In summer to autumn on alpine gravel look for a mugwort with spatulate leaves and small globose nodding heads on long stalks; the long-stalked nodding heads are the clue."
+    },
+    "zh": {
+      "summary": "ミヤマオトコヨモギ。菊科蒿属多年草，生高山与亚高山砾地岩场，为牡蒿之高山型，叶匙形至楔形、端常浅裂，夏秋于长梗（pedunculosa 具梗）生球形小头花、俯垂成穗，名（深山）指其生山地。",
+      "habitat_hint": "高山与亚高山砾地、岩场、风衝地。",
+      "finding_tips": "夏秋于高山砾地寻匙形叶、长梗俯垂球形小头花之蒿；长梗俯垂头花为辨识点。"
+    }
+  },
+  "Artemisia schmidtiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Silvermound artemisia",
+    "aliases": {
+      "zh-Hans": "银蒿"
+    },
+    "ja": {
+      "summary": "アサギリソウ。海岸や高山の岩場、砂礫地に生えるキク科ヨモギ属の多年草で、全体が銀白色の絹毛に密におおわれ、柔らかい。葉は細かく糸状に裂け、株全体がふわふわとした銀色のクッション状になる。名(朝霧)はこの銀白色の霞むような姿に由来する。観賞用にも栽培される。",
+      "habitat_hint": "海岸の岩場、高山の岩場、砂礫地、庭園の植栽。",
+      "finding_tips": "岩場で、全体が銀白色の絹毛におおわれ細かく糸状に裂けた葉がふわふわとした株を探す。銀白色の絹毛と糸状に細裂する葉が識別点。"
+    },
+    "en": {
+      "summary": "The silvermound artemisia (Artemisia schmidtiana, Asteraceae), a perennial of coastal and alpine rocky and gravel ground; the whole plant is densely covered in silvery-white silky hairs and is soft, with finely thread-divided leaves forming a fluffy silver cushion. The Japanese name ('morning mist') refers to this silvery hazy look, and it is also grown ornamentally.",
+      "habitat_hint": "Coastal and alpine rocky ground, gravel, garden plantings.",
+      "finding_tips": "On rocky ground look for a soft cushion plant covered in silvery silky hairs with finely thread-divided leaves; the silvery silky finely-divided foliage is the clue."
+    },
+    "zh": {
+      "summary": "アサギリソウ。菊科蒿属多年草，生海岸与高山岩场砾地，全株密被银白丝毛而柔软，叶细裂如丝，全株成蓬松银色垫状，名（朝雾）指其银白如霞之态，亦作观赏栽培。",
+      "habitat_hint": "海岸岩场、高山岩场、砾地、庭园栽植。",
+      "finding_tips": "于岩场寻全株被银白丝毛、叶细裂如丝而蓬松之株；银白丝毛与丝状细裂叶为辨识点。"
+    }
+  },
+  "Arthrolipes lewisi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Minute marsh-loving beetle",
+    "ja": {
+      "summary": "ナカグロミジンムシ。朽木や樹皮下、菌類の生えた枯れ木などにすむごく小型の甲虫で、体長1mm前後と微小(微塵)。体は黒っぽく、中央が特に黒い(中黒)。菌類の胞子や菌糸などを食べるとされる。微小なため見つけにくいが、朽木や樹皮下をていねいに探すと得られる。",
+      "habitat_hint": "朽木、樹皮下、菌類の生えた枯れ木。",
+      "finding_tips": "朽木や樹皮下で、体長1mm前後のごく微小な黒っぽい甲虫を探す。1mm前後のごく小さな体が識別点(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A minute beetle (Arthrolipes lewisi), a tiny beetle only about 1 mm long living on rotten wood, under bark and on fungus-covered dead wood; the body is dark, especially in the middle (the Japanese name means 'black-centred mite-beetle'). It is thought to feed on fungal spores and hyphae. Minute and hard to spot, it is found by carefully searching rotten wood and under bark.",
+      "habitat_hint": "Rotten wood, under bark, fungus-covered dead wood.",
+      "finding_tips": "On rotten wood or under bark look for a dark beetle only about 1 mm long; the ~1 mm minute body is the clue (lens needed)."
+    },
+    "zh": {
+      "summary": "ナカグロミジンムシ。极小型甲虫，栖朽木、树皮下、生菌之枯木，体长约1毫米（微尘），体黑、中央尤黑（中黑），据信食菌类孢子与菌丝，微小难见，细搜朽木树皮下可得。",
+      "habitat_hint": "朽木、树皮下、生菌之枯木。",
+      "finding_tips": "于朽木树皮下寻体长约1毫米之极微小黑甲虫；约1毫米之极小体为辨识点（需放大镜）。"
+    }
+  },
+  "Asaphes pubescens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Pteromalid wasp",
+    "ja": {
+      "summary": "ケブカアブラコガネコバチ。アブラムシに寄生する寄生バチ(コマユバチなど)にさらに寄生する小さな寄生バチ(コガネコバチ科)で、体はごく小型で金属光沢を帯び、細かい毛(毛深い)がある。アブラムシに寄生した一次寄生バチの繭やマミー(硬化したアブラムシ)に産卵し、その幼虫を食べて育つ(高次寄生)。",
+      "habitat_hint": "アブラムシとその寄生バチがいる草地、畑、林縁。",
+      "finding_tips": "アブラムシのコロニーやマミーのまわりで、金属光沢のあるごく小さな寄生バチを探す。金属光沢の微小な体が識別点(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A pteromalid wasp (Asaphes pubescens, Pteromalidae), a tiny wasp that hyperparasitises the primary parasitoids (such as braconids) of aphids; the body is minute, metallic and finely hairy. It lays eggs in the cocoons or mummies (hardened aphids) of the primary parasitoid, its larvae consuming them (a hyperparasitoid).",
+      "habitat_hint": "Grassland, fields, woodland edges with aphids and their parasitoids.",
+      "finding_tips": "Around aphid colonies and mummies look for a tiny metallic wasp; the minute metallic body is the clue (lens needed)."
+    },
+    "zh": {
+      "summary": "ケブカアブラコガネコバチ。金小蜂科小型寄生蜂，重寄生于蚜虫之一次寄生蜂（绒茧蜂等），体极小、具金属光泽、被细毛，产卵于一次寄生蜂之茧或僵蚜（硬化之蚜），幼虫食之（重寄生）。",
+      "habitat_hint": "有蚜虫及其寄生蜂之草地、田地、林缘。",
+      "finding_tips": "于蚜群与僵蚜旁寻具金属光泽之极小寄生蜂；金属微小体为辨识点（需放大镜）。"
+    }
+  },
+  "Asimitellaria stylosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Miterwort",
+    "ja": {
+      "summary": "タキミチャルメルソウ。渓流沿いの湿った岩上や林床に生えるユキノシタ科の多年草で、根生葉は卵形。春に細長い花茎を伸ばし、まばらに小さな花をつける。花弁が魚の骨のように細かく羽状に裂けるのがチャルメルソウ類の特徴。果実の形が楽器のチャルメラ(哨吶)に似ることが名の由来。名(滝見)は渓流沿いに生えることにちなむ。",
+      "habitat_hint": "渓流沿いの湿った岩上、林床、沢沿いの木陰。",
+      "finding_tips": "春、渓流沿いで細長い花茎に魚の骨状に細裂する花弁の小花をつける草を探す。羽状に細裂する花弁が識別点。"
+    },
+    "en": {
+      "summary": "A miterwort (Asimitellaria stylosa, Saxifragaceae), a perennial of moist streamside rock and forest floor; the basal leaves are ovate. In spring a slender flowering stem bears small flowers sparsely, the petals finely pinnately divided like fish bones (typical of the miterworts). The fruit shape resembles a charumera (shawm), the source of the name; 'takimi' refers to its streamside habit.",
+      "habitat_hint": "Moist streamside rock, forest floor, shaded ravines.",
+      "finding_tips": "In spring along streams look for a plant with a slender stem bearing small flowers whose petals are finely divided like fish bones; the fish-bone-divided petals are the clue."
+    },
+    "zh": {
+      "summary": "タキミチャルメルソウ。虎耳草科多年草，生溪畔湿岩与林床，基生叶卵形，春抽细长花茎、疏生小花，花瓣如鱼骨般细羽裂（唢呐草类之特征），果形似唢呐（名之由来），名（滝见）指其生溪畔。",
+      "habitat_hint": "溪畔湿岩、林床、沢畔树荫。",
+      "finding_tips": "春于溪畔寻细花茎生花瓣如鱼骨细裂之小花之草；羽状细裂花瓣为辨识点。"
+    }
+  },
+  "Asplenium setoi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bird's-nest fern",
+    "ja": {
+      "summary": "ヤエヤマオオタニワタリ。暖地・亜熱帯の樹幹や岩に着生するチャセンシダ科の大型のシダ(オオタニワタリの仲間)で、光沢のある単葉(切れ込まない葉)を放射状に大きく広げ、中央がくぼんで鳥の巣状になる。この中央に落ち葉などがたまり養分になる。名のとおり八重山諸島など南西諸島に分布する。葉裏に線形のソーラスをつける。",
+      "habitat_hint": "暖地・亜熱帯の樹幹、岩上の着生環境、渓谷林。",
+      "finding_tips": "南西諸島の樹上や岩で、光沢のある大きな単葉を放射状に広げ中央がくぼむ大型のシダを探す。放射状に広がる鳥の巣状の葉が識別点。"
+    },
+    "en": {
+      "summary": "A bird's-nest fern (Asplenium setoi, Aspleniaceae), a large epiphytic fern of warm-region and subtropical trunks and rock; the glossy simple (undivided) fronds spread radially into a large rosette, funnel-shaped in the centre like a bird's nest, where fallen leaves collect as nutrients. It occurs in the Ryukyus including the Yaeyama Islands, bearing linear sori on the frond undersides.",
+      "habitat_hint": "Warm-region and subtropical trunks, rock (epiphytic), ravine forest.",
+      "finding_tips": "On Ryukyu trees or rock look for a large fern with glossy simple fronds spread radially and a funnel-shaped centre; the nest-like radial fronds are the clue."
+    },
+    "zh": {
+      "summary": "ヤエヤマオオタニワタリ。铁角蕨科大型附生蕨，附生暖地与亚热带树干岩石，光泽单叶（不裂）放射大展、中央凹陷如鸟巢，其中积落叶为养分，分布八重山等西南诸岛，叶背生线形孢子囊群。",
+      "habitat_hint": "暖地与亚热带树干、岩上附生、溪谷林。",
+      "finding_tips": "于西南诸岛树上或岩面寻光泽单叶放射展、中央凹陷之大型蕨；放射鸟巢状叶为辨识点。"
+    }
+  },
+  "Astarte borealis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Astarte clam",
+    "ja": {
+      "summary": "エゾシラオガイ。北方の冷たい海の砂底や砂礫底にすむ二枚貝(シラオガイ科)で、殻は厚く丸みのある卵三角形。殻表は褐色の殻皮におおわれ、同心円状の成長肋がはっきりと刻まれる。名(蝦夷)のとおり北日本以北の寒海に分布する。潮下帯〜やや深い砂底に埋在し、植物プランクトンを漉して食べる。",
+      "habitat_hint": "北方の冷たい海の潮下帯〜やや深い砂底、砂礫底。",
+      "finding_tips": "北方の海岸や底引きで、厚く丸い卵三角形で同心円状の成長肋がはっきりした二枚貝を探す。厚い殻の明瞭な同心円肋が識別点。"
+    },
+    "en": {
+      "summary": "An astarte clam (Astarte borealis, Astartidae) of cold northern sand and sand-gravel bottoms; the thick, rounded ovate-triangular shell is covered by a brown periostracum with distinct concentric growth ridges. Common in cold seas from northern Japan northward (the epithet 'boreal'), it buries in subtidal to somewhat deep sand, filtering phytoplankton.",
+      "habitat_hint": "Cold northern subtidal to somewhat deep sand and sand-gravel bottoms.",
+      "finding_tips": "On northern beaches or in trawls look for a thick rounded ovate-triangular clam with distinct concentric ridges; the thick shell with clear concentric ridges is the clue."
+    },
+    "zh": {
+      "summary": "エゾシラオガイ。北方冷海之双壳（星蛤科 Astartidae），栖砂底砂砾底，壳厚、圆卵三角，被褐色壳皮、具明显同心生长肋，分布北日本以北寒海（虾夷），埋于潮下带至略深砂底、滤食浮游植物。",
+      "habitat_hint": "北方冷海潮下带至略深砂底、砂砾底。",
+      "finding_tips": "于北方海岸或底拖寻厚圆卵三角、同心生长肋明显之双壳；厚壳与明显同心肋为辨识点。"
+    }
+  },
+  "Aster viscidulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hakone aster",
+    "ja": {
+      "summary": "ハコネギク。山地の草地や岩場、林縁に生えるキク科シオン属の多年草で、名のとおり箱根など本州中部の山地に多い。夏〜秋に、淡紫色の舌状花と黄色い筒状花からなる頭花を咲かせる。茎や葉に腺毛があってやや粘る(viscidulus=やや粘る)のが特徴。ミヤマヨメナに近い野菊のなかま。",
+      "habitat_hint": "山地の草地、岩場、林縁、亜高山。",
+      "finding_tips": "夏〜秋、山地の草地で淡紫色の頭花を咲かせ、茎や葉がやや粘る野菊を探す。淡紫の頭花と腺毛でやや粘る茎葉が識別点。"
+    },
+    "en": {
+      "summary": "The Hakone aster (Aster viscidulus, Asteraceae), a perennial of montane grassland, rocky ground and woodland edges, common in the mountains of central Honshu including Hakone. In summer to autumn it bears flower heads of pale-purple ray florets and yellow disc florets, and the stems and leaves have glandular hairs making them slightly sticky (viscidulus). It is a wild aster close to the Miyama-yomena group.",
+      "habitat_hint": "Montane grassland, rocky ground, woodland edges, subalpine.",
+      "finding_tips": "In summer to autumn in montane grassland look for a wild aster with pale-purple heads and slightly sticky stems and leaves; the pale-purple heads with sticky glandular foliage are the clue."
+    },
+    "zh": {
+      "summary": "ハコネギク。菊科紫菀属多年草，生山地草地、岩场、林缘，多见于箱根等本州中部山地，夏秋开淡紫舌状花与黄色管状花之头花，茎叶具腺毛而略黏（viscidulus 略黏），为近深山紫菀之野菊。",
+      "habitat_hint": "山地草地、岩场、林缘、亚高山。",
+      "finding_tips": "夏秋于山地草地寻开淡紫头花、茎叶略黏之野菊；淡紫头花与腺毛略黏茎叶为辨识点。"
+    }
+  },
+  "Asterropteryx semipunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Starry goby",
+    "ja": {
+      "summary": "ホシハゼ。内湾やサンゴ礁の砂泥底、河口の汽水域にすむハゼ科の小型の魚で、体は暗色で、体側や頭部に青白い小さな斑点(星)が散らばるのが名の由来。第一背びれの後方が糸状に伸びることがある。底近くにすみ、小さな甲殻類などを食べる。暖海の内湾や礁湖で普通に見られる。",
+      "habitat_hint": "暖海の内湾、サンゴ礁の砂泥底、河口の汽水域。",
+      "finding_tips": "内湾の砂泥底で、暗色の体に青白い小さな斑点が散らばる小型のハゼを探す。青白い星状の斑点が識別点。"
+    },
+    "en": {
+      "summary": "The starry goby (Asterropteryx semipunctata, Gobiidae), a small fish of bay and reef sand-mud bottoms and brackish estuaries; the dark body is scattered with small bluish-white spots (stars, the source of the Japanese name), and the rear of the first dorsal fin may extend into filaments. It lives near the bottom eating small crustaceans and is common in warm-water bays and lagoons.",
+      "habitat_hint": "Warm-water bays, reef sand-mud, brackish estuaries.",
+      "finding_tips": "On bay sand-mud look for a small dark goby scattered with bluish-white spots; the starry bluish-white spots are the clue."
+    },
+    "zh": {
+      "summary": "ホシハゼ。鰕虎科小型鱼，栖内湾与珊瑚礁砂泥底、河口汽水域，体暗、体侧与头散青白小斑（星，名之由来），第一背鳍后端或延成丝，近底而居食小甲壳类，暖海内湾与礁湖常见。",
+      "habitat_hint": "暖海内湾、珊瑚礁砂泥底、河口汽水域。",
+      "finding_tips": "于内湾砂泥底寻体暗散青白小斑之小型鰕虎；青白星状斑为辨识点。"
+    }
+  },
+  "Asthena amurensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "ウステンシロナミシャク。シャクガ科ナミシャク亜科の小型のガで、翅は白っぽい地に淡い細かな横線(点や線)をもち、全体に白くきゃしゃな印象。静止時は翅を平らに開く。幼虫はシャクトリムシ型で木本の葉を食べる。低山地の林や渓流沿いで夜間に灯火へ飛来する。学名はアムール(amurensis)地方に由来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、渓流沿い。",
+      "finding_tips": "夜、灯火などで白っぽい地に淡い細横線をもつきゃしゃな小型のナミシャクを探す。白い地に淡い細線のきゃしゃな翅が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Asthena amurensis, Larentiinae), a small moth; the whitish wings have faint fine transverse lines and dots, giving an overall white, delicate look, held flat at rest. The looper caterpillar feeds on woody-plant leaves, and adults come to lights in low montane woodland and along streams (the epithet refers to the Amur region).",
+      "habitat_hint": "Low montane to hill woodland, edges, streamsides.",
+      "finding_tips": "At night at lights look for a small delicate white carpet moth with faint fine lines; the whitish delicate wings with faint lines are the clue."
+    },
+    "zh": {
+      "summary": "ウステンシロナミシャク。尺蛾科波尺蛾亚科小型蛾，翅白底具淡细横线（点线），整体白而纤弱，静止平展，幼虫尺蠖型食木本叶，低山地林与溪畔夜间趋光（种名源阿穆尔 amurensis）。",
+      "habitat_hint": "低山地至丘陵林、林缘、溪畔。",
+      "finding_tips": "夜于灯下寻白底具淡细横线之纤弱小型波尺蛾；白底淡细线之纤弱翅为辨识点。"
+    }
   }
 }
