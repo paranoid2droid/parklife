@@ -281063,5 +281063,474 @@
       "habitat_hint": "海岸砂地草地、北方草原。",
       "finding_tips": "5〜7月于海岸或北方草地寻三出复叶与黄色蝶形花穗之草；黄花穗与三出叶为辨识点。"
     }
+  },
+  "Thespesia populnea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Portia tree",
+    "aliases": {
+      "zh-Hans": "杨叶肖槿"
+    },
+    "ja": {
+      "summary": "サキシマハマボウ。海岸に生えるアオイ科の常緑高木で、熱帯〜亜熱帯に広く分布する。ハート形の葉をもち、ハイビスカスに似た黄色い花を咲かせるが、夕方には赤紫色に変わる。海岸林を構成し、種子は水に浮いて海流で散布される。",
+      "habitat_hint": "海岸・河口の砂地、海岸林(暖地〜熱帯)。",
+      "finding_tips": "初夏〜秋、海岸林でハート形の葉と、朝は黄色・夕方は赤紫に変わるハイビスカス状の花をもつ常緑樹を探す。花色の変化とハート形の葉が識別点。"
+    },
+    "en": {
+      "summary": "Portia tree (Thespesia populnea), an evergreen coastal tree of the mallow family widespread in the tropics and subtropics; it has heart-shaped leaves and hibiscus-like yellow flowers that turn purplish-red by evening. It forms coastal woodland, and its seeds float and disperse on sea currents.",
+      "habitat_hint": "Coastal and estuarine sand, coastal woodland (warm to tropical).",
+      "finding_tips": "From early summer look in coastal woodland for an evergreen with heart-shaped leaves and hibiscus-like flowers yellow by morning and purplish by evening; the colour change and heart leaves are the clues."
+    },
+    "zh": {
+      "summary": "サキシマハマボウ（杨叶肖槿）。锦葵科常绿乔木，广布热带亚热带海岸，叶心形，花似木槿黄色而傍晚转紫红，构成海岸林，种子浮水随海流散布。",
+      "habitat_hint": "海岸、河口砂地、海岸林（暖地至热带）。",
+      "finding_tips": "初夏至秋于海岸林寻心形叶、晨黄暮紫之木槿状花之常绿树；花色变化与心形叶为辨识点。"
+    }
+  },
+  "Timandra dichela": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Wave moth",
+    "ja": {
+      "summary": "ウスベニスジヒメシャク。シャクガ科ヒメシャク亜科の小型のガで、翅は淡いベージュ色の地に、前翅から後翅へ一直線につながる淡紅色の斜め線(スジ)が走るのが特徴。草地や林縁にすみ、幼虫はタデ科などの草本を食べる。灯火に飛来する。",
+      "habitat_hint": "草地、林縁、河川敷。",
+      "finding_tips": "初夏〜秋の夜、灯火で淡ベージュ地に前後翅を貫く淡紅色の斜め線をもつ小型のシャクガを探す。一直線の斜め線が識別点。"
+    },
+    "en": {
+      "summary": "A wave moth (Timandra dichela), a small geometrid whose pale-beige wings carry a pinkish oblique line running straight from fore- to hindwing; it lives in grassland and woodland edges where the larvae eat knotweeds and other herbs, and comes to light.",
+      "habitat_hint": "Grassland, woodland edges, riverbanks.",
+      "finding_tips": "On summer nights at lights look for a small pale-beige moth with a pinkish oblique line crossing both wings in one straight line; that continuous line is the clue."
+    },
+    "zh": {
+      "summary": "ウスベニスジヒメシャク。尺蛾科小型蛾，翅淡米色，具自前翅贯至后翅之淡红斜线为特征，栖草地林缘，幼虫食蓼科等草本，趋光。",
+      "habitat_hint": "草地、林缘、河滩。",
+      "finding_tips": "初夏至秋夜于灯下寻淡米底具贯翅淡红斜线之小尺蛾；一直斜线为辨识点。"
+    }
+  },
+  "Timoclea marica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Venus clam",
+    "ja": {
+      "summary": "カノコアサリ。内湾や浅海の砂底に浅く潜ってすむマルスダレガイ科の小型の二枚貝で、殻は丸みのある三角形。表面に細かい放射肋と成長肋が格子状に交わり、鹿の子(かのこ)絞りのような斑模様をもつのが名の由来。干潟で殻がよく拾われる。",
+      "habitat_hint": "内湾・浅海の砂底、干潟、浅く潜る。",
+      "finding_tips": "干潟や砂浜で、格子状の彫刻と鹿の子模様の斑をもつ丸い小型の二枚貝を探す。鹿の子模様と格子彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A venus clam (Timoclea marica), a small venerid bivalve burrowing shallowly in bay and shallow sandy bottoms; the rounded triangular shell has fine radial and concentric ribs crossing in a lattice, dappled like fawn-spotted tie-dye (its Japanese name). Its shells are often found on flats.",
+      "habitat_hint": "Bay and shallow sandy bottoms, tidal flats, shallow burrower.",
+      "finding_tips": "On flats or beaches look for a small rounded bivalve with lattice sculpture and dappled markings; the fawn-spotted pattern and lattice are the clues."
+    },
+    "zh": {
+      "summary": "カノコアサリ。帘蛤科小型二枚贝，浅潜内湾浅海砂底，壳圆三角形，面具放射肋与生长肋交织成格、斑纹如鹿子扎染而得名，潮滩常拾其壳。",
+      "habitat_hint": "内湾、浅海砂底、潮滩，浅潜。",
+      "finding_tips": "潮滩沙滩寻具格状雕刻与鹿子斑之圆小贝；鹿子斑与格纹为辨识点。"
+    }
+  },
+  "Torenia anagallis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False pimpernel",
+    "ja": {
+      "summary": "シマウリクサ。暖地の湿った道ばたや畑、水田の縁などに生えるアゼトウガラシ科(旧ゴマノハグサ科)の小型の一年草。地をはって広がり、葉のつけ根に淡紫色〜白色の小さな唇形の花をつける。トレニアの仲間で、南方系の草本。",
+      "habitat_hint": "暖地の湿った道ばた、畑、水田の縁。",
+      "finding_tips": "夏〜秋、暖地の湿った地面で地をはう茎に淡紫色の小さな唇形花をもつ小さな草本を探す。小さな唇形花と地をはう姿が手がかり。"
+    },
+    "en": {
+      "summary": "A false pimpernel (Torenia anagallis), a small annual of damp waysides, fields and paddy margins in warm regions; it creeps over the ground and bears small pale-purple to white two-lipped flowers in the leaf axils. A relative of the garden torenias, it is a southern herb.",
+      "habitat_hint": "Damp waysides, fields, paddy margins in warm regions.",
+      "finding_tips": "In summer–autumn on warm damp ground look for a small creeping herb with small pale-purple two-lipped flowers; the small lipped flowers and creeping habit are the clues."
+    },
+    "zh": {
+      "summary": "シマウリクサ。母草科（旧玄参科）小型一年草，生暖地湿润路旁、田间与水田缘，匍匐铺展，叶腋生淡紫至白色小唇形花，为蝴蝶草类，属南方草本。",
+      "habitat_hint": "暖地湿润路旁、田间、水田缘。",
+      "finding_tips": "夏秋于暖地湿地寻匍匐茎具淡紫小唇形花之小草；小唇形花与匍匐姿为辨识点。"
+    }
+  },
+  "Torymus aiolomorphi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Torymid wasp",
+    "ja": {
+      "summary": "モウソウタマオナガコバチ。タマバチなどにつく寄生バチ(オナガコバチ科)の一種で、モウソウチクなどのタケにできる虫こぶ(タケノタマバエの仲間の虫こぶ)に産卵し、幼虫がその中の幼虫に寄生する。メスは長い産卵管をもつ。体は小さく金属光沢を帯びる。",
+      "habitat_hint": "モウソウチクなどのタケ林、虫こぶのできる竹。",
+      "finding_tips": "春、タケにできた虫こぶの周りで、長い産卵管をもつ金属光沢の小さなハチを探す。長い産卵管と金属光沢が識別点。"
+    },
+    "en": {
+      "summary": "A torymid wasp (Torymus aiolomorphi), a parasitic chalcid that lays into the galls formed by gall midges on moso and other bamboo, its larvae parasitising the gall-maker within; the female has a long ovipositor and the small body is metallic.",
+      "habitat_hint": "Moso and other bamboo groves with insect galls.",
+      "finding_tips": "In spring around bamboo galls look for a small metallic wasp with a long ovipositor; the long ovipositor and metallic sheen are the clues."
+    },
+    "zh": {
+      "summary": "モウソウタマオナガコバチ。长尾小蜂科寄生蜂，产卵于毛竹等竹上瘿瘤（竹瘿蚊类所致）中，幼虫寄生瘤内幼虫，雌具长产卵器，体小具金属光泽。",
+      "habitat_hint": "毛竹等竹林、生瘿之竹。",
+      "finding_tips": "春于竹瘿旁寻具长产卵器之金属光泽小蜂；长产卵器与金属光泽为辨识点。"
+    }
+  },
+  "Trachypus bicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "ムジナゴケ。樹幹や岩に着生する蘚類で、茎が這ってから枝を垂らし、細い葉を密につけてマット状〜房状の群落をつくる。暖地の照葉樹林の樹皮などでよく見られ、乾くと葉がやや縮れる。",
+      "habitat_hint": "樹幹、岩、暖地の照葉樹林の着生環境。",
+      "finding_tips": "一年中、暖地の樹皮や岩で這って枝を垂らす房状の蘚を探す。垂れる枝と密な細葉が手がかり。"
+    },
+    "en": {
+      "summary": "A moss (Trachypus bicolor), an epiphyte of tree trunks and rock whose creeping stems hang branches densely set with narrow leaves, forming mats to tufts; it is common on bark in warm-region evergreen forest and the leaves crisp somewhat when dry.",
+      "habitat_hint": "Tree trunks, rock, warm-region evergreen forest (epiphytic).",
+      "finding_tips": "Year-round on warm-region bark or rock look for tufted moss with hanging branches; the drooping branches and dense fine leaves are the clues."
+    },
+    "zh": {
+      "summary": "ムジナゴケ。附生藓类，附生树干与岩石，茎匍匐后垂枝、密生细叶成垫至丛状，常见于暖地照叶林树皮，干时叶略缩。",
+      "habitat_hint": "树干、岩石、暖地照叶林附生。",
+      "finding_tips": "全年于暖地树皮岩面寻匍匐垂枝之丛状藓；垂枝与密细叶为辨识点。"
+    }
+  },
+  "Tribolium castaneum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red flour beetle",
+    "aliases": {
+      "zh-Hans": "赤拟谷盗"
+    },
+    "ja": {
+      "summary": "コクヌストモドキ。ゴミムシダマシ科の小型の甲虫で、体は赤褐色で細長い。小麦粉や穀粉、乾物などの貯蔵食品を食害する世界的な貯穀害虫。倉庫や台所などの人の生活環境に発生する。遺伝学の実験材料としてもよく用いられる。",
+      "habitat_hint": "倉庫・台所・食品貯蔵庫、小麦粉や穀粉の中。",
+      "finding_tips": "小麦粉や乾物の中で、赤褐色で細長い数mmの小さな甲虫を探す。粉の中で動く赤褐色の小甲虫が識別点。"
+    },
+    "en": {
+      "summary": "Red flour beetle (Tribolium castaneum), a small reddish-brown elongate darkling beetle; a worldwide stored-product pest of flour, meal and dried foods, it infests warehouses and kitchens and is also a common laboratory model in genetics.",
+      "habitat_hint": "Warehouses, kitchens and food stores, in flour and meal.",
+      "finding_tips": "In flour or dried foods look for a small reddish-brown elongate beetle a few mm long; the reddish beetle moving in the meal is the clue."
+    },
+    "zh": {
+      "summary": "コクヌストモドキ（赤拟谷盗）。拟步甲科小型甲虫，体红褐细长，为世界性贮粮害虫，蛀食面粉、谷粉与干货，发生于仓库厨房等人居环境，亦为遗传学常用实验材料。",
+      "habitat_hint": "仓库、厨房、食品贮藏，面粉谷粉中。",
+      "finding_tips": "于面粉干货中寻红褐细长之数毫米小甲虫；粉中活动之红褐小甲虫为辨识点。"
+    }
+  },
+  "Tricholoma fulvum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キヒダマツシメジ。秋、カバノキ類など広葉樹の林の地上に生えるキシメジ科のキノコで、傘は赤褐色〜黄褐色で湿るとやや粘る。ひだと柄の内部が黄色みを帯びるのが特徴。マツシメジ(キシメジ)の仲間で、樹木と共生する。",
+      "habitat_hint": "秋、カバノキ類など広葉樹林の地上。",
+      "finding_tips": "秋、カバノキの林の地上で赤褐色の傘とやや黄色みを帯びたひだをもつキノコを探す。黄色いひだと赤褐色の傘が識別点。"
+    },
+    "en": {
+      "summary": "Birch knight (Tricholoma fulvum), a knight mushroom growing on the ground in birch and other broadleaf woodland in autumn; the cap is red-brown to yellow-brown and slightly viscid when moist, and the gills and stem flesh are tinged yellow. A tricholoma, it partners with trees.",
+      "habitat_hint": "Autumn on the ground in birch and broadleaf woodland.",
+      "finding_tips": "In autumn under birch look for a red-brown cap over yellowish gills; the yellow-tinged gills and red-brown cap are the clues."
+    },
+    "zh": {
+      "summary": "キヒダマツシメジ。口蘑科菇，秋生桦木等阔叶林地上，盖红褐至黄褐、湿时略黏，褶与柄内带黄为特征，为口蘑类，与树木共生。",
+      "habitat_hint": "秋，桦木等阔叶林地上。",
+      "finding_tips": "秋于桦林寻红褐盖、褶带黄之菇；黄褶与红褐盖为辨识点。"
+    }
+  },
+  "Trichosanthes multiloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snake gourd",
+    "ja": {
+      "summary": "モミジカラスウリ。山地の林縁や谷沿いに生えるウリ科カラスウリ属のつる性の多年草で、葉がモミジのように深く裂けるのが名の由来。夏の夜、白い糸状に細かく裂けたレース状の花を咲かせる。秋に赤く熟す卵形の果実をつける。",
+      "habitat_hint": "山地の林縁、谷沿い、やぶ。",
+      "finding_tips": "夏の夜〜早朝、山地の林縁でモミジ状に裂けた葉と白いレース状の花をもつつる植物を探す。深く裂けた葉と糸状の白花が識別点。"
+    },
+    "en": {
+      "summary": "A snake gourd (Trichosanthes multiloba), a cucurbit vine of montane woodland edges and ravines named for its deeply maple-like lobed leaves; on summer nights it opens white flowers finely fringed into lace-like threads, and it ripens ovoid red fruit in autumn.",
+      "habitat_hint": "Montane woodland edges, ravines, thickets.",
+      "finding_tips": "On summer nights at mountain woodland edges look for a vine with deeply maple-lobed leaves and white lacy fringed flowers; the cut leaves and threaded white flowers are the clues."
+    },
+    "zh": {
+      "summary": "モミジカラスウリ。葫芦科栝楼属藤本多年草，生山地林缘与谷畔，叶深裂如枫而得名，夏夜开白色细裂如丝之蕾丝状花，秋结卵形红熟果。",
+      "habitat_hint": "山地林缘、谷畔、丛薮。",
+      "finding_tips": "夏夜至清晨于山地林缘寻枫状裂叶与白色蕾丝花之藤；深裂叶与丝状白花为辨识点。"
+    }
+  },
+  "Trifolium lupinaster": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lupine clover",
+    "ja": {
+      "summary": "シャジクソウ。山地や高原の日当たりのよい草地に生えるマメ科シャジクソウ属の多年草。葉は5枚前後の小葉が手のひら状(車軸状)につくのが特徴で、クローバー(3小葉)と異なる。夏、紅紫色〜淡紅色の蝶形花が集まった頭状の花序をつける。",
+      "habitat_hint": "山地・高原の日当たりのよい草地、草原。",
+      "finding_tips": "夏、山地の草地で5枚前後の小葉が車軸状につく葉と、紅紫色の頭状の花をもつ草本を探す。車軸状につく小葉が識別点。"
+    },
+    "en": {
+      "summary": "A lupine clover (Trifolium lupinaster), a pea-family perennial of sunny montane and upland grassland; unlike the three-leaflet clovers, its leaves have about five leaflets arranged palmately (like a spoke wheel), and in summer it bears heads of clustered purplish-red to pink pea-flowers.",
+      "habitat_hint": "Sunny montane and upland grassland, meadows.",
+      "finding_tips": "In summer in mountain grassland look for leaves of about five spoke-like leaflets under heads of purplish-red flowers; the palmate five-leaflet leaves are the clue."
+    },
+    "zh": {
+      "summary": "シャジクソウ。豆科车轴草属多年草，生山地高原向阳草地，叶具约五枚小叶掌状（车轴状）排列，异于三出之三叶草，夏生紫红至淡红蝶形花之头状花序。",
+      "habitat_hint": "山地、高原向阳草地、草原。",
+      "finding_tips": "夏于山地草地寻约五小叶车轴状之叶与紫红头状花之草；车轴状小叶为辨识点。"
+    }
+  },
+  "Triglochin palustris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh arrowgrass",
+    "ja": {
+      "summary": "ホソバノシバナ。海岸の塩性湿地や内陸の湿地に生えるシバナ科の多年草で、細い線形の葉を根ぎわから束生する。夏、細い花茎を立てて緑色〜赤褐色の目立たない小花を穂状にまばらにつける。細く華奢な湿地植物。",
+      "habitat_hint": "海岸の塩性湿地、内陸の湿地、湿った草地。",
+      "finding_tips": "夏、湿地で細い線形の葉と、細い花茎に目立たない小花を穂状につける草本を探す。細く華奢な姿と湿地環境が手がかり。"
+    },
+    "en": {
+      "summary": "Marsh arrowgrass (Triglochin palustris), a perennial of coastal salt marshes and inland wetlands with narrow linear leaves tufted at the base; in summer it raises slender stalks bearing sparse, inconspicuous green to red-brown flowers in a spike. A slender, delicate wetland plant.",
+      "habitat_hint": "Coastal salt marshes, inland wetlands, damp grassland.",
+      "finding_tips": "In summer in wetland look for narrow linear leaves and slender stalks with sparse inconspicuous flowers; the slender delicate form in wet ground is the clue."
+    },
+    "zh": {
+      "summary": "ホソバノシバナ。水麦冬科多年草，生海岸盐沼与内陆湿地，细线形叶基部丛生，夏抽细花茎疏生绿至红褐不显小花成穗，为细弱之湿地植物。",
+      "habitat_hint": "海岸盐沼、内陆湿地、湿草地。",
+      "finding_tips": "夏于湿地寻细线形叶与细茎疏生不显小花之草；细弱之姿与湿境为辨识点。"
+    }
+  },
+  "Tripleurospermum tetragonospermum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mayweed",
+    "ja": {
+      "summary": "シカギク。北日本の海岸や河原、荒れ地に生えるキク科の一〜多年草。細かく糸状に裂けた葉をもち、夏〜秋、白い舌状花と黄色い筒状花からなるマーガレットに似た頭花を咲かせる。カミツレ(カモミール)に近い仲間で、北方系の植物。",
+      "habitat_hint": "北日本の海岸、河原、荒れ地。",
+      "finding_tips": "夏〜秋、北方の海岸や河原で糸状に裂けた葉と白いマーガレット状の頭花をもつ草本を探す。糸状の葉と白い頭花が識別点。"
+    },
+    "en": {
+      "summary": "A mayweed (Tripleurospermum tetragonospermum), a daisy-family annual to perennial of northern Japanese coasts, river gravel and waste ground; with finely thread-like divided leaves, in summer to autumn it bears marguerite-like heads of white rays and yellow disc florets. Related to chamomile, it is a northern plant.",
+      "habitat_hint": "Northern Japanese coasts, river gravel, waste ground.",
+      "finding_tips": "In summer–autumn on northern coasts look for thread-like leaves under white marguerite-like flower heads; the feathery leaves and white heads are the clues."
+    },
+    "zh": {
+      "summary": "シカギク。菊科一至多年草，生北日本海岸、河滩与荒地，叶细裂如丝，夏秋开白舌状花与黄管状花之玛格丽特状头状花，近缘于洋甘菊，为北方植物。",
+      "habitat_hint": "北日本海岸、河滩、荒地。",
+      "finding_tips": "夏秋于北方海岸寻丝状裂叶与白色玛格丽特状头状花之草；丝叶与白头花为辨识点。"
+    }
+  },
+  "Trishoplita awajiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "アワジオトメマイマイ。陸生のカタツムリ(ニッポンマイマイ科など)の一種で、殻は小型でやや低い円錐形〜そろばん玉状、光沢がある。樹林の落葉の下や樹幹、岩などの湿った場所にすみ、落葉や菌類、藻類などを食べる。淡路島などに分布する。",
+      "habitat_hint": "樹林の落葉の下、樹幹、岩などの湿った場所。",
+      "finding_tips": "雨後、樹林の落葉の下や樹幹で、小型でやや低い円錐形の光沢のあるカタツムリを探す。小型で光沢のある殻が手がかり。"
+    },
+    "en": {
+      "summary": "A land snail (Trishoplita awajiensis), a small glossy land snail with a somewhat low conical to bead-like shell; it lives in damp places under woodland litter and on trunks and rock, eating litter, fungi and algae. It occurs on Awaji Island and beyond.",
+      "habitat_hint": "Under woodland litter, on trunks and rock, damp places.",
+      "finding_tips": "After rain under woodland litter or on trunks look for a small glossy low-conical snail; the small glossy shell is the clue."
+    },
+    "zh": {
+      "summary": "アワジオトメマイマイ。陆生蜗牛，壳小、略低圆锥至算珠状、具光泽，居林间落叶下、树干与岩石之湿处，食落叶、菌与藻，分布淡路岛等。",
+      "habitat_hint": "林间落叶下、树干、岩石之湿处。",
+      "finding_tips": "雨后于林间落叶下或树干寻小型略低圆锥之光泽蜗牛；小巧光泽壳为辨识点。"
+    }
+  },
+  "Truncatella pfeifferi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Looping snail",
+    "ja": {
+      "summary": "ヤマトクビキレガイ。海岸の潮上帯〜飛沫帯の石の下や打ち上げ海藻の間などにすむ、ごく小型の巻貝(クビキレガイ科)。殻は細長い塔形だが、成長すると殻頂側の古い部分が欠けて(首が切れたように)なるのが名の由来。海岸性の微小貝。",
+      "habitat_hint": "海岸の潮上帯〜飛沫帯、石の下、打ち上げ海藻の間。",
+      "finding_tips": "海岸の石の下や打ち上げ海藻の間で、細長い塔形で殻頂が欠けた数mmの微小な巻貝を探す。殻頂が切れる点が識別点。"
+    },
+    "en": {
+      "summary": "A looping snail (Truncatella pfeifferi), a very small truncatellid snail of the coastal supralittoral and splash zone, living under stones and among stranded seaweed; its slender tower-shaped shell loses the old apical whorls as it grows (as if the top were cut off, its Japanese name). A tiny shore snail.",
+      "habitat_hint": "Coastal supralittoral and splash zone, under stones, in stranded weed.",
+      "finding_tips": "Under shore stones or in stranded weed look for a tiny slender tower snail a few mm long with a truncated apex; the cut-off top is the clue."
+    },
+    "zh": {
+      "summary": "ヤマトクビキレガイ。截螺科极小海螺，栖海岸潮上带至浪溅带石下与漂藻间，壳细长塔形，长成后壳顶旧部脱落（如截首）而得名，为海岸微小螺。",
+      "habitat_hint": "海岸潮上带至浪溅带、石下、漂藻间。",
+      "finding_tips": "海岸石下或漂藻间寻壳顶截断之数毫米细长塔螺；壳顶截断为辨识点。"
+    }
+  },
+  "Truncospora tephropora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bracket fungus",
+    "ja": {
+      "summary": "シイサルノコシカケ。シイやカシなど広葉樹の枯木や生木の幹に生える多孔菌(タコウキン)で、半円形〜棚状の硬い子実体を横に張り出す。表面は帯状の模様をもち、下面は微細な管孔からなる木材腐朽菌。多年生で長く残る。",
+      "habitat_hint": "シイ・カシなど広葉樹の枯木・生木の幹。",
+      "finding_tips": "一年中、シイやカシの幹で半円形に張り出す硬い棚状のキノコを探す。硬い棚状の子実体と管孔のある下面が識別点。"
+    },
+    "en": {
+      "summary": "A bracket fungus (Truncospora tephropora), a polypore on dead and living broadleaf trunks such as chinquapin and oak, projecting hard semicircular to shelf-like fruit bodies; the zoned cap sits over a fine-pored underside, a perennial wood-rotting fungus that persists.",
+      "habitat_hint": "Dead and living broadleaf trunks (chinquapin, oak, etc.).",
+      "finding_tips": "Year-round on chinquapin or oak trunks look for a hard semicircular shelf bracket; the hard shelf and fine-pored underside are the clues."
+    },
+    "zh": {
+      "summary": "シイサルノコシカケ。多孔菌类，生栲、栎等阔叶枯木与活木干，半圆至层架状硬子实体横生，面具环带、下面细密管孔，为多年生木材腐朽菌，久存。",
+      "habitat_hint": "栲、栎等阔叶枯木、活木干。",
+      "finding_tips": "全年于栲栎树干寻半圆层架状硬菇；硬层架与管孔下面为辨识点。"
+    }
+  },
+  "Tubifex tubifex": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sludge worm",
+    "aliases": {
+      "zh-Hans": "颤蚓"
+    },
+    "ja": {
+      "summary": "イトミミズ。川や池、水路の泥底にすむ細長い赤色の環形動物(イトミミズの仲間)で、体は糸のように細く、多数が群がって泥底にすむ。有機物の多い(汚れた)水域に多く、尾を水中に出して揺らして呼吸する。金魚などの生き餌としても利用される。",
+      "habitat_hint": "川・池・水路の泥底、有機物の多い水域。",
+      "finding_tips": "川や水路の泥底で、赤く細い糸状の虫が群がって揺れているのを探す。群がって揺れる赤い糸状の体が識別点。"
+    },
+    "en": {
+      "summary": "Sludge worm (Tubifex tubifex), a slender red aquatic annelid of the muddy bottoms of streams, ponds and channels; thread-thin, it lives in dense colonies in the mud, is abundant in organically rich (polluted) water, and waves its tail into the water to breathe. It is used as live fish food.",
+      "habitat_hint": "Muddy bottoms of streams, ponds and channels; organic-rich water.",
+      "finding_tips": "In muddy stream or channel bottoms look for masses of thin red thread-like worms waving; the swaying red thread colony is the clue."
+    },
+    "zh": {
+      "summary": "イトミミズ（颤蚓）。栖河、池、沟泥底之细长红色环节动物，体细如丝、群集泥底，多见于富有机质（污染）水域，尾伸水中摆动以呼吸，亦作金鱼活饵。",
+      "habitat_hint": "河、池、沟泥底，富有机质水域。",
+      "finding_tips": "河沟泥底寻群集摆动之红色细丝状虫；群集摆动之红丝为辨识点。"
+    }
+  },
+  "Turritella nipponica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turret shell",
+    "ja": {
+      "summary": "ホソエゾキリガイダマシ。内湾や浅海の砂泥底にすむキリガイダマシ科の巻貝で、殻は細長い塔状に多くの層が積み重なり、各層に螺状の細い肋をもつ。砂泥に潜り、微小な有機物を濾しとって食べる。エゾキリガイダマシに似て細身。",
+      "habitat_hint": "内湾・浅海の砂泥底、潮下帯。",
+      "finding_tips": "海岸や浅海の砂泥で、細長い塔状で螺肋のある巻貝の殻を探す。細身で錐状に伸びる殻が識別点。"
+    },
+    "en": {
+      "summary": "A turret shell (Turritella nipponica), a turritellid snail of bay and shallow sandy-mud bottoms with a slender, many-whorled tower-shaped shell bearing fine spiral ridges; it burrows in the sediment and filters fine organic particles, slimmer than the related screw shells.",
+      "habitat_hint": "Bay and shallow sandy-mud bottoms, subtidal.",
+      "finding_tips": "On shores or shallows look for a slender tower-shaped snail shell with spiral ridges; the slim screw shape is the clue."
+    },
+    "zh": {
+      "summary": "ホソエゾキリガイダマシ。锥螺科海螺，栖内湾浅海砂泥底，壳细长塔状多层、各层具螺行细肋，潜砂滤食细有机物，较近缘之锥螺更细。",
+      "habitat_hint": "内湾、浅海砂泥底、潮下带。",
+      "finding_tips": "海岸浅海砂泥寻细长塔状具螺肋之螺壳；细身锥壳为辨识点。"
+    }
+  },
+  "Turtonia minuta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tiny bivalve",
+    "ja": {
+      "summary": "ノミハマグリ。海岸の岩や海藻、フジツボのすき間などにすむごく小型の二枚貝で、殻の長さは数mmほど。足糸で岩や海藻に付着し、潮間帯の岩礁でひっそりと暮らす。名のとおりノミのように小さいハマグリ形の貝。",
+      "habitat_hint": "潮間帯の岩・海藻・フジツボのすき間、足糸で付着。",
+      "finding_tips": "潮間帯の岩や海藻の根元で、数mmほどのごく小さなハマグリ形の二枚貝を探す。極めて小さい殻が識別の手がかり。"
+    },
+    "en": {
+      "summary": "A tiny bivalve (Turtonia minuta), a very small clam only a few millimetres long that lives among rock, seaweed and barnacles on the shore; it attaches by byssal threads and lives quietly on the rocky intertidal — a flea-sized clam as its Japanese name says.",
+      "habitat_hint": "Rocky intertidal among rock, weed and barnacles; byssally attached.",
+      "finding_tips": "On the rocky intertidal among weed bases look for a clam only a few mm long; its extremely small size is the clue."
+    },
+    "zh": {
+      "summary": "ノミハマグリ。极小型二枚贝，壳长仅数毫米，栖海岸岩石、海藻与藤壶间，以足丝附着，静居潮间带岩礁，如名般小若跳蚤之蛤形贝。",
+      "habitat_hint": "潮间带岩、海藻、藤壶间，足丝附着。",
+      "finding_tips": "潮间带岩石海藻根际寻仅数毫米之小蛤形贝；极小之壳为辨识点。"
+    }
+  },
+  "Tylopilus balloui": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bitter bolete",
+    "ja": {
+      "summary": "キニガイグチ。夏〜秋、広葉樹林や針葉樹林の地上に生えるイグチ科のキノコ(管孔をもつ)で、傘・柄ともにあざやかな橙黄色〜黄褐色。ニガイグチの仲間で強い苦味があり、食用には向かない。樹木と共生する。",
+      "habitat_hint": "夏〜秋、広葉樹林・針葉樹林の地上。",
+      "finding_tips": "夏〜秋、林内の地上で傘も柄も橙黄色のイグチを探す。鮮やかな橙黄色の全体と苦味が識別点。"
+    },
+    "en": {
+      "summary": "A bitter bolete (Tylopilus balloui), a summer-to-autumn bolete of broadleaf and conifer woodland with a bright orange-yellow to yellow-brown cap and stem; a member of the bitter boletes, it is strongly bitter and not for eating, and partners with trees.",
+      "habitat_hint": "Summer–autumn on the ground in broadleaf and conifer woodland.",
+      "finding_tips": "In summer–autumn on the woodland floor look for a bolete bright orange-yellow all over; the vivid orange colour and bitter taste are the clues."
+    },
+    "zh": {
+      "summary": "キニガイグチ。牛肝菌科菌，夏秋生阔叶林针叶林地上，盖柄皆鲜橙黄至黄褐，为苦粉孢牛肝类、味强苦不宜食，与树木共生。",
+      "habitat_hint": "夏秋，阔叶林、针叶林地上。",
+      "finding_tips": "夏秋于林地寻盖柄皆橙黄之牛肝菌；鲜橙黄整体与苦味为辨识点。"
+    }
+  },
+  "Typhula maritima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Club fungus",
+    "ja": {
+      "summary": "スナハマガマノホタケ。海岸の砂浜に生えるシロキクラゲ目(ガマノホタケ科)の小型のキノコで、砂に埋もれた植物の枯れた茎や根などから発生する。細い棒状〜こん棒状の子実体を地上に立てる。海浜という特殊な環境に生える珍しいキノコ。",
+      "habitat_hint": "海岸の砂浜、砂に埋もれた枯れた植物質の上。",
+      "finding_tips": "秋〜冬、海岸の砂浜で細い棒状に立つ小さなキノコを探す。砂浜に立つ細いこん棒状の子実体が識別点。"
+    },
+    "en": {
+      "summary": "A club fungus (Typhula maritima), a small typhuloid fungus of coastal sand that arises from the buried dead stems and roots of plants; it stands slender rod- to club-shaped fruit bodies above the sand — an unusual fungus of the specialised beach habitat.",
+      "habitat_hint": "Coastal sand beaches, on buried dead plant matter.",
+      "finding_tips": "In autumn–winter on a sandy beach look for small slender rod-like fruit bodies standing in the sand; the club standing on the beach is the clue."
+    },
+    "zh": {
+      "summary": "スナハマガマノホタケ。银耳目小型菌，生海岸沙滩，自埋于沙中之枯茎枯根发生，立细棒至棒状子实体于沙上，为海滨特殊生境之罕见菌。",
+      "habitat_hint": "海岸沙滩、埋沙之枯植物质上。",
+      "finding_tips": "秋冬于沙滩寻立于沙中之细棒状小菌；沙滩细棒子实体为辨识点。"
+    }
+  },
+  "Tyrannodoris luteolineata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "イシガキリュウグウウミウシ。岩礁やサンゴ礁の潮下帯にすむウミウシ(裸鰓類)で、体は青みを帯びた地に黄色い縦線(ライン)が走る美しい配色をもつ。ほかのウミウシを捕食する肉食性のウミウシとして知られる。石垣島などで見られる。",
+      "habitat_hint": "岩礁・サンゴ礁の海底、潮下帯。",
+      "finding_tips": "潮下帯の岩やサンゴのすき間で、青地に黄色い縦線をもつ美しいウミウシを探す。黄色い縦線の配色が識別点。"
+    },
+    "en": {
+      "summary": "A sea slug (Tyrannodoris luteolineata), a nudibranch of the rocky and coral-reef subtidal with a bluish body striped lengthwise in yellow; it is known as a carnivore that preys on other sea slugs. It occurs around Ishigaki and beyond.",
+      "habitat_hint": "Rocky and coral reef seabed, subtidal.",
+      "finding_tips": "In the subtidal among reef look for a striking bluish nudibranch with yellow lengthwise lines; the yellow-lined pattern is the clue."
+    },
+    "zh": {
+      "summary": "イシガキリュウグウウミウシ。裸鳃类海蛞蝓，栖岩礁珊瑚礁潮下带，体带蓝底具黄色纵线之美丽配色，为捕食他海蛞蝓之肉食种，见于石垣岛等。",
+      "habitat_hint": "岩礁、珊瑚礁海底、潮下带。",
+      "finding_tips": "潮下带礁隙寻蓝底具黄纵线之美丽海蛞蝓；黄纵线配色为辨识点。"
+    }
   }
 }
