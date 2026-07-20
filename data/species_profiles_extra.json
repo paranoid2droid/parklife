@@ -282539,5 +282539,536 @@
       "habitat_hint": "山地、丘陵林、林缘。",
       "finding_tips": "秋于山地林寻似槲树而叶较窄之波状裂叶、具橡实之落叶树；狭长波状叶为辨识点。"
     }
+  },
+  "Oligonema favogineum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ヒョウタンケホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、微小な子実体(子嚢)がひょうたん形〜俵形にくびれるのが名の由来。黄褐色〜オリーブ色を帯び、群がって生じる。変形体は朽木内をはい回り、成熟すると胞子塊を作る。",
+      "habitat_hint": "朽木、落葉、腐植上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上でひょうたん形にくびれた微小な黄褐色の子実体が群がるのを探す。くびれた俵形が識別点。"
+    },
+    "en": {
+      "summary": "A myxomycete (slime mould, Oligonema favogineum) fruiting on rotten wood and leaf litter; the minute sporangia are constricted into a gourd- or barrel-shape (the source of the Japanese name), yellow-brown to olive, and appear in clusters. The plasmodium creeps within decaying wood before maturing into spore masses.",
+      "habitat_hint": "Rotten wood, leaf litter, humus (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered minute yellow-brown sporangia pinched into a gourd shape; the constricted barrel form is the clue."
+    },
+    "zh": {
+      "summary": "ヒョウタンケホコリ。变形菌（黏菌）之一，生朽木落叶上，微小孢囊缢缩呈葫芦状至桶状（和名之由来），黄褐至橄榄色，成群而生。变形体于朽木内爬行，成熟结孢子团。",
+      "habitat_hint": "朽木、落叶、腐殖等潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻成群缢缩呈葫芦状之微小黄褐孢囊；缢缩桶状为辨识点。"
+    }
+  },
+  "Opuntia monacantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Drooping prickly pear",
+    "aliases": {
+      "zh-Hans": "单刺仙人掌"
+    },
+    "ja": {
+      "summary": "タンシウチワ(単刺団扇)。南米原産のウチワサボテンの一種で、平たいうちわ状の茎節(葉状茎)を連ねて育つ。刺は普通1本ずつ(名の由来)。黄色い花を咲かせ、赤紫の液果をつける。暖地では逸出して海岸などに野生化する。",
+      "habitat_hint": "暖地の海岸、崖地、乾いた砂地、逸出地。",
+      "finding_tips": "一年中、平たいうちわ状の茎節を連ねたサボテンで、刺がほぼ1本ずつ出るものを探す。単刺のうちわ形茎節が識別点。"
+    },
+    "en": {
+      "summary": "A prickly pear (Opuntia monacantha), a South American cactus with flat, paddle-shaped stem segments (cladodes) borne in chains; spines are usually solitary (the source of the Japanese name 'single-spine paddle'). It bears yellow flowers and reddish-purple fleshy fruit, and naturalises on coasts in warm regions.",
+      "habitat_hint": "Warm-region coasts, cliffs, dry sand, disturbed escapes.",
+      "finding_tips": "Year-round look for a cactus of flat paddle-shaped pads in chains with mostly single spines per areole; the solitary spines on paddle pads are the clue."
+    },
+    "zh": {
+      "summary": "タンシウチワ（单刺团扇）。原产南美之仙人掌类，扁平桨状茎节（叶状茎）连缀而生，刺通常单生（和名之由来），开黄花，结红紫色浆果，暖地逸出于海岸等处野化。",
+      "habitat_hint": "暖地海岸、崖地、干砂、逸出地。",
+      "finding_tips": "全年寻扁平桨状茎节连缀、每处多单刺之仙人掌；单刺桨形茎节为辨识点。"
+    }
+  },
+  "Orphanopusia patriarchalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea snail",
+    "ja": {
+      "summary": "クチベニオトメガイ。岩礁や礫底にすむ小型の巻貝で、殻は紡錘形〜卵形、殻口の縁(内唇や外唇)が紅色を帯びるのが名(口紅)の由来。殻表には螺状の彫刻がある。肉食性で、他の小動物を捕食する。",
+      "habitat_hint": "潮下帯の岩礁、礫底、砂礫底。",
+      "finding_tips": "海岸に打ち上げられた、殻口の縁が紅色を帯びた小型の紡錘形巻貝を探す。紅色の殻口が識別点。"
+    },
+    "en": {
+      "summary": "A small sea snail (Orphanopusia patriarchalis) of rocky and gravel bottoms; the fusiform to ovate shell has a mouth margin (inner and outer lip) tinged reddish (the source of the Japanese name 'lipstick maiden shell') and spiral sculpture. It is a carnivore preying on small animals.",
+      "habitat_hint": "Subtidal rock, gravel and sand-gravel bottoms.",
+      "finding_tips": "Look on the beach for a small fusiform snail shell with a reddish-tinged aperture margin; the red lip is the clue."
+    },
+    "zh": {
+      "summary": "クチベニオトメガイ。栖岩礁砾底之小型螺，壳纺锤至卵形，壳口缘（内外唇）带红色（和名口红之由来），壳面具螺旋雕刻，肉食性，捕食小动物。",
+      "habitat_hint": "潮下带岩礁、砾底、砂砾底。",
+      "finding_tips": "于海岸寻壳口缘带红之小型纺锤螺壳；红色壳口为辨识点。"
+    }
+  },
+  "Osteomugil engeli": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Kanda mullet",
+    "ja": {
+      "summary": "モンナシボラ。ボラ科の海水魚で、内湾や河口の汽水域を好む。体は細長い紡錘形で銀白色、ボラに似るが、胸びれ基部に暗色斑(紋)を欠くのが名(紋無し)の由来。群れで表層〜中層を泳ぎ、泥中の有機物やケイ藻を食べる。",
+      "habitat_hint": "内湾、河口、汽水域の表層〜中層。",
+      "finding_tips": "河口や内湾で、ボラに似るが胸びれ基部の暗色斑を欠く銀白色の細長い魚の群れを探す。紋のない胸びれ基部が識別点。"
+    },
+    "en": {
+      "summary": "A mullet (Osteomugil engeli) of the Mugilidae favouring bays and brackish estuaries; the slender silvery body resembles the flathead grey mullet but lacks the dark spot at the pectoral-fin base (the source of the Japanese name 'spotless mullet'). It schools in surface to mid water, feeding on detritus and diatoms in mud.",
+      "habitat_hint": "Bays, estuaries and brackish water, surface to mid depth.",
+      "finding_tips": "In estuaries and bays look for schooling slender silvery mullet-like fish lacking a dark pectoral-base spot; the spotless pectoral base is the clue."
+    },
+    "zh": {
+      "summary": "モンナシボラ。鲻科海鱼，喜内湾河口汽水域，体细长纺锤、银白，似鲻而胸鳍基缺暗斑（和名无纹之由来），成群游于表中层，食泥中有机物与硅藻。",
+      "habitat_hint": "内湾、河口、汽水域表至中层。",
+      "finding_tips": "于河口内湾寻似鲻而胸鳍基无暗斑之银白细长鱼群；无纹胸鳍基为辨识点。"
+    }
+  },
+  "Otoplecta frigida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "クロフシロナミシャク。シャクガ科ナミシャク亜科のガで、白っぽい地色に黒い斑紋(黒斑)と細かい波状の横線をもつ。前翅は幅広く、静止時は翅を平らに開く。幼虫はシャクトリムシ型で、寄主植物の葉を食べる。山地の林に多い。",
+      "habitat_hint": "山地〜丘陵の林、林縁、渓流沿い。",
+      "finding_tips": "春〜初夏の夜、灯火などで白地に黒斑と波状横線をもつシャクガを探す。白地の黒斑と波状線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Otoplecta frigida) of the Larentiinae; the whitish ground colour bears black blotches and fine wavy transverse lines, with broad forewings held flat at rest. The looper caterpillar feeds on host-plant leaves. It is common in montane woodland.",
+      "habitat_hint": "Montane to hill woodland, edges, streamsides.",
+      "finding_tips": "On spring to early-summer nights look at lights for a geometer with a whitish ground, black blotches and wavy cross-lines; the black-marked white wings are the clue."
+    },
+    "zh": {
+      "summary": "クロフシロナミシャク。尺蛾科波尺蛾亚科之蛾，白底具黑斑与细波状横线，前翅宽阔，静止时平展，幼虫尺蠖型食寄主叶，多见于山地林。",
+      "habitat_hint": "山地至丘陵林、林缘、溪畔。",
+      "finding_tips": "春至初夏夜于灯下寻白底具黑斑与波状横线之尺蛾；白底黑斑波线为辨识点。"
+    }
+  },
+  "Otostigmus scaber": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Stone centipede",
+    "ja": {
+      "summary": "ノコバゼムカデ。オオムカデ目のムカデで、体は細長く多数の体節をもち、各節に1対の歩脚をもつ。背板の後縁がのこぎり歯状にとがるのが名(鋸歯)の由来。落葉下や石下にひそみ、夜間に活動して小動物を捕食する。暖地に多い。",
+      "habitat_hint": "落葉下、石下、朽木下などの湿った暗所。",
+      "finding_tips": "暖地で石や落葉をめくり、背板後縁がのこぎり歯状の細長いムカデを探す。鋸歯状の背板縁が識別点。"
+    },
+    "en": {
+      "summary": "A centipede (Otostigmus scaber) of the Scolopendromorpha; the elongate body has many segments each with one pair of legs, and the rear margins of the tergites are toothed like a saw (the source of the Japanese name). It hides under litter and stones, hunting small animals at night, and is common in warm regions.",
+      "habitat_hint": "Under leaf litter, stones and rotten wood (moist, dark).",
+      "finding_tips": "In warm regions turn stones or litter to find an elongate centipede with saw-toothed tergite margins; the toothed back plates are the clue."
+    },
+    "zh": {
+      "summary": "ノコバゼムカデ。蜈蚣目之蜈蚣，体细长多节，每节一对足，背板后缘锯齿状（和名之由来），伏于落叶石下，夜行捕食小动物，多见于暖地。",
+      "habitat_hint": "落叶下、石下、朽木下潮湿暗处。",
+      "finding_tips": "暖地翻石落叶寻背板后缘锯齿之细长蜈蚣；锯齿背板缘为辨识点。"
+    }
+  },
+  "Parmeliella incisa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Foliose lichen",
+    "ja": {
+      "summary": "ヤマシロゴケ。樹幹や岩に着生する小型の葉状地衣類で、体は青灰色〜暗青灰色を帯び、裂片の縁が切れ込む(incisa=切れ込んだ)。ラン藻を共生藻とするため湿ると青みが強まる。山地の湿った樹皮や岩上に群落をつくる。",
+      "habitat_hint": "山地の湿った樹幹、岩、蘚苔上。",
+      "finding_tips": "一年中、山地の湿った樹皮や岩で青灰色を帯び裂片縁が切れ込む小型の葉状地衣を探す。切れ込む青灰色の裂片が識別点。"
+    },
+    "en": {
+      "summary": "A small foliose lichen (Parmeliella incisa) epiphytic on trunks and rock; the blue-grey to dark blue-grey thallus has incised lobe margins (incisa = incised). With a cyanobacterial photobiont, it turns bluer when wet, forming colonies on moist montane bark and stone.",
+      "habitat_hint": "Moist montane trunks, rock and over mosses.",
+      "finding_tips": "Year-round on moist montane bark or rock look for a small blue-grey foliose lichen with incised lobe margins; the incised blue-grey lobes are the clue."
+    },
+    "zh": {
+      "summary": "ヤマシロゴケ。附生树干岩石之小型叶状地衣，体青灰至暗青灰，裂片缘具缺刻（incisa 之意），以蓝藻为共生藻，湿则青色更显，于山地湿润树皮岩面成群落。",
+      "habitat_hint": "山地湿润树干、岩石、藓苔上。",
+      "finding_tips": "全年于山地湿润树皮岩面寻青灰而裂片缘具缺刻之小型叶状地衣；缺刻青灰裂片为辨识点。"
+    }
+  },
+  "Peasiella habei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Periwinkle snail",
+    "ja": {
+      "summary": "コビトウラウズガイ。潮間帯上部の岩上にすむごく小型の巻貝(タマキビ科)で、殻はやや低い円錐形で螺状の彫刻をもつ。名(小人)のとおり数mmと小さい。乾燥に強く、飛沫帯の岩の割れ目などに群れる。付着藻類を削り取って食べる。",
+      "habitat_hint": "潮間帯上部〜飛沫帯の岩上、岩の割れ目。",
+      "finding_tips": "海岸の飛沫帯の岩で、数mmのごく小さな円錐形の巻貝が群れているのを探す。ごく小型の円錐形が識別点。"
+    },
+    "en": {
+      "summary": "A tiny periwinkle (Peasiella habei, Littorinidae) living on rock in the upper intertidal; the low conical shell has spiral sculpture and is only a few millimetres across (the Japanese name means 'dwarf'). Drought-tolerant, it clusters in rock crevices of the splash zone, grazing attached algae.",
+      "habitat_hint": "Upper intertidal to splash-zone rock and crevices.",
+      "finding_tips": "In the splash zone look on rock for clusters of tiny few-millimetre conical snails; the very small conical shell is the clue."
+    },
+    "zh": {
+      "summary": "コビトウラウズガイ。栖潮间带上部岩上之极小型螺（滨螺科），壳低圆锥形具螺旋雕刻，仅数毫米（和名小人之意），耐旱，群集于飞沫带岩缝，刮食附着藻类。",
+      "habitat_hint": "潮间带上部至飞沫带岩上、岩缝。",
+      "finding_tips": "于飞沫带岩上寻数毫米之极小圆锥形群栖小螺；极小圆锥壳为辨识点。"
+    }
+  },
+  "Peristernia nassatula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Latirus snail",
+    "ja": {
+      "summary": "ムラサキツノマタガイモドキ。暖海の岩礁や礫底にすむ中型の巻貝(フデガイ上科イトマキボラ科)で、殻は紡錘形で縦の肋(縦張肋)と螺状の彫刻をもち、殻口内は紫色を帯びる。肉食性で、他の貝や小動物を捕食する。",
+      "habitat_hint": "暖海の潮下帯の岩礁、礫底、サンゴ礁縁。",
+      "finding_tips": "海岸に打ち上げられた、縦肋と螺状彫刻をもち殻口内が紫色を帯びる紡錘形の巻貝を探す。紫色の殻口内が識別点。"
+    },
+    "en": {
+      "summary": "A latirus snail (Peristernia nassatula, Fasciolariidae) of warm-water rock and gravel bottoms; the fusiform shell has axial ribs and spiral sculpture, with a purple-tinged aperture interior. It is a carnivore preying on other shells and small animals.",
+      "habitat_hint": "Warm-water subtidal rock, gravel and reef edges.",
+      "finding_tips": "Look on the beach for a fusiform ribbed snail shell with a purple-tinged aperture interior; the purple mouth is the clue."
+    },
+    "zh": {
+      "summary": "ムラサキツノマタガイモドキ。栖暖海岩礁砾底之中型螺（旋螺科），壳纺锤形具纵肋与螺旋雕刻，壳口内带紫，肉食性，捕食他贝与小动物。",
+      "habitat_hint": "暖海潮下带岩礁、砾底、珊瑚礁缘。",
+      "finding_tips": "于海岸寻具纵肋螺纹而壳口内带紫之纺锤螺壳；紫色壳口内为辨识点。"
+    }
+  },
+  "Petaloscapus basicornis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ant-loving beetle",
+    "ja": {
+      "summary": "ヒゲブトムネトゲアリヅカムシ。アリヅカムシ(ハネカクシ科アリヅカムシ亜科)の一種で、体長1〜2mmほどのごく小型の甲虫。触角の先が太まり(髭太)、前胸(胸)に棘状の突起をもつ。アリの巣内やその周辺の落葉下にすみ、アリと共生的に暮らす。",
+      "habitat_hint": "アリの巣内、巣の周辺の落葉下、朽木下。",
+      "finding_tips": "落葉やアリの巣をふるって、触角先が太く胸に棘をもつ1〜2mmの微小甲虫を探す。太い触角先と胸の棘が識別点。"
+    },
+    "en": {
+      "summary": "An ant-loving beetle (Petaloscapus basicornis, Staphylinidae: Pselaphinae), a tiny beetle only 1-2 mm long; the antennal tip is thickened and the pronotum bears spine-like projections. It lives in and around ant nests under litter, in a symbiotic association with ants.",
+      "habitat_hint": "Inside ant nests, under litter and rotten wood nearby.",
+      "finding_tips": "Sift litter or ant nests for a 1-2 mm minute beetle with a thickened antennal tip and a spined pronotum; the clubbed antennae and thoracic spines are the clue."
+    },
+    "zh": {
+      "summary": "ヒゲブトムネトゲアリヅカムシ。蚁甲（隐翅虫科蚁甲亚科）之一，体长约1-2毫米之极小甲虫，触角端膨大（髭太），前胸具棘突，栖蚁巢内及周边落叶下，与蚁共生。",
+      "habitat_hint": "蚁巢内、巢周落叶下、朽木下。",
+      "finding_tips": "筛落叶或蚁巢寻触角端粗、前胸具棘之1-2毫米微小甲虫；粗触角端与胸棘为辨识点。"
+    }
+  },
+  "Philonthus solidus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rove beetle",
+    "ja": {
+      "summary": "ヘリアカバコガシラハネカクシ。ハネカクシ科の細長い甲虫で、上翅(鞘翅)が短く腹部の大部分が露出する。体は黒っぽく、頭が小さめ(小頭)で、上翅や体縁が赤みを帯びる(縁赤)。動物の死骸や腐敗物、堆肥などに集まり、他の小昆虫やその幼虫を捕食する。",
+      "habitat_hint": "動物の死骸、腐敗物、堆肥、糞、落葉下。",
+      "finding_tips": "腐敗物や死骸のまわりで、上翅が短く縁が赤みを帯びた細長い黒っぽいハネカクシを探す。短い上翅と赤い体縁が識別点。"
+    },
+    "en": {
+      "summary": "A rove beetle (Philonthus solidus, Staphylinidae) with the short elytra typical of the family exposing most of the abdomen; the dark body has a smallish head and reddish-tinged elytra and body margins. It gathers at carrion, decaying matter and compost, preying on small insects and their larvae.",
+      "habitat_hint": "Carrion, decaying matter, compost, dung, under litter.",
+      "finding_tips": "At carrion or decay look for an elongate dark rove beetle with short elytra and reddish margins; the short wing-cases and red edges are the clue."
+    },
+    "zh": {
+      "summary": "ヘリアカバコガシラハネカクシ。隐翅虫科之细长甲虫，鞘翅短、腹部大部外露，体黑、头略小，鞘翅与体缘带红，聚于动物尸体、腐物、堆肥，捕食小昆虫及其幼虫。",
+      "habitat_hint": "动物尸体、腐物、堆肥、粪、落叶下。",
+      "finding_tips": "于腐物尸体旁寻鞘翅短、体缘带红之细长黑隐翅虫；短鞘翅与红体缘为辨识点。"
+    }
+  },
+  "Physarum bivalve": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ガマグチフクロホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、扁平な子実体が二枚貝の殻のように左右に開いて胞子を放出する(名の由来)。石灰質を含み白っぽく、群がって生じる。変形体は朽木上をはい回り、成熟して子実体をつくる。",
+      "habitat_hint": "朽木、落葉、腐植上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で二枚貝が口を開けたように裂ける白っぽい扁平な子実体を探す。がま口状に開く子実体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Physarum bivalve) fruiting on rotten wood and litter; the flattened sporangia split open like a bivalve shell to release spores (the source of the name). Lime-encrusted and whitish, they appear in clusters. The plasmodium creeps over rotten wood before maturing into fruiting bodies.",
+      "habitat_hint": "Rotten wood, leaf litter, humus (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for whitish flattened sporangia splitting open like a clam; the bivalve-like opening is the clue."
+    },
+    "zh": {
+      "summary": "ガマグチフクロホコリ。变形菌（黏菌）之一，生朽木落叶上，扁平孢囊如双壳贝般左右张开释孢（名之由来），含石灰质而白，成群而生，变形体爬行朽木后成熟结子实体。",
+      "habitat_hint": "朽木、落叶、腐殖等潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻如贝张口般裂开之白色扁平孢囊；张口状孢囊为辨识点。"
+    }
+  },
+  "Physarum bogoriense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "ボゴールフクロホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、球形〜やや扁球形の子実体が細い柄の上につく。石灰質を帯びて灰白色〜淡褐色。学名はインドネシアのボゴール(Bogor)にちなむ。変形体は朽木上をはい回り、成熟して群がった子実体をつくる。",
+      "habitat_hint": "朽木、落葉、腐植上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で細い柄の上に球形の灰白色の子実体が群がるのを探す。柄の上の球形子実体が識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Physarum bogoriense) on rotten wood and litter; the globose to sub-globose sporangia sit atop slender stalks, lime-encrusted and greyish-white to pale brown (the epithet honours Bogor, Indonesia). The plasmodium creeps over rotten wood before maturing into clustered fruiting bodies.",
+      "habitat_hint": "Rotten wood, leaf litter, humus (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered globose greyish-white sporangia on slender stalks; the stalked globose head is the clue."
+    },
+    "zh": {
+      "summary": "ボゴールフクロホコリ。变形菌（黏菌）之一，生朽木落叶上，孢囊球形至近扁球形，立于细柄上，含石灰质而灰白至淡褐（种名纪念印尼茂物 Bogor），变形体爬行朽木后成熟结成群子实体。",
+      "habitat_hint": "朽木、落叶、腐殖等潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻细柄上成群之球形灰白孢囊；柄上球形头为辨识点。"
+    }
+  },
+  "Physarum plicatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "ja": {
+      "summary": "エリタテフクロホコリ。朽木や落葉上に発生する変形菌(粘菌)の一種で、子実体の基部に襟(えり)のような膜質のひだ(plicatum=ひだのある)が立つのが名の由来。石灰質を帯びて灰白色。変形体は朽木上をはい回り、成熟して群がった子実体をつくる。",
+      "habitat_hint": "朽木、落葉、腐植上などの湿った有機物。",
+      "finding_tips": "梅雨〜秋、朽木上で基部に襟状のひだをもつ灰白色の子実体が群がるのを探す。襟状のひだが識別点。"
+    },
+    "en": {
+      "summary": "A slime mould (Physarum plicatum) on rotten wood and litter; the sporangia have a collar-like membranous frill at the base (plicatum = folded/pleated, the source of the name). Lime-encrusted and greyish-white, the plasmodium creeps over rotten wood before maturing into clustered fruiting bodies.",
+      "habitat_hint": "Rotten wood, leaf litter, humus (moist organic matter).",
+      "finding_tips": "In the rainy season to autumn look on rotten wood for clustered greyish-white sporangia with a collar-like frill at the base; the basal frill is the clue."
+    },
+    "zh": {
+      "summary": "エリタテフクロホコリ。变形菌（黏菌）之一，生朽木落叶上，孢囊基部具领状膜质褶（plicatum 有褶之意，名之由来），含石灰质而灰白，变形体爬行朽木后成熟结成群子实体。",
+      "habitat_hint": "朽木、落叶、腐殖等潮湿有机物。",
+      "finding_tips": "梅雨至秋于朽木寻基部具领状褶之灰白孢囊群；领状基褶为辨识点。"
+    }
+  },
+  "Plagiobryoides cellularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "オンセンゴケ。日当たりのよい湿った地面や岩上、時に温泉地周辺などに生えるハリガネゴケ科の蘚類。茎は短く、卵形〜さじ形の葉を密につけ、しばしば赤みを帯びる。無性芽で盛んにふえる。名は温泉地などの裸地に生じることに由来する。",
+      "habitat_hint": "日当たりのよい湿った裸地、岩上、温泉地周辺。",
+      "finding_tips": "湿った裸地や岩で、卵形の葉を密につけ赤みを帯びる小型の蘚類を探す。赤みを帯びた密な葉が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Plagiobryoides cellularis, Bryaceae) growing on sunny moist bare ground and rock, sometimes around hot springs; the short stems bear crowded ovate to spoon-shaped leaves that are often reddish, and it spreads freely by gemmae. The Japanese name ('hot-spring moss') refers to its occurrence on bare ground such as around springs.",
+      "habitat_hint": "Sunny moist bare ground, rock, around hot springs.",
+      "finding_tips": "On moist bare ground or rock look for a small moss with crowded ovate reddish leaves; the reddish crowded leaves are the clue."
+    },
+    "zh": {
+      "summary": "オンセンゴケ。真藓科藓类，生向阳湿润裸地岩上，或温泉地周边，茎短，密生卵形至匙形叶、常带红，以芽胞繁殖。和名（温泉苔）指其生于温泉等裸地。",
+      "habitat_hint": "向阳湿润裸地、岩上、温泉地周边。",
+      "finding_tips": "于湿润裸地岩面寻密生卵形而带红叶之小型藓；带红密叶为辨识点。"
+    }
+  },
+  "Pleuromeris pygmaea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carditid clam",
+    "ja": {
+      "summary": "ヒナフミガイ。砂礫底や貝殻底にすむごく小型の二枚貝(トマヤガイ科)で、殻は厚く丸みを帯びた三角形、放射状の太い肋をもつ。名(雛)のとおり数mmと小さい。フミガイ類に似るが微小。潮下帯の砂底などに埋在する。",
+      "habitat_hint": "潮下帯の砂礫底、貝殻底。",
+      "finding_tips": "海岸で、放射肋のある厚く丸い三角形の数mmの微小な二枚貝を探す。ごく小さな放射肋のある殻が識別点。"
+    },
+    "en": {
+      "summary": "A tiny carditid clam (Pleuromeris pygmaea, Carditidae) of sandy-gravel and shell bottoms; the thick, rounded-triangular shell has strong radial ribs and is only a few millimetres across (the Japanese name means 'chick'). It resembles larger carditids but is minute, buried in subtidal sand.",
+      "habitat_hint": "Subtidal sand-gravel and shell bottoms.",
+      "finding_tips": "On the beach look for a thick rounded-triangular few-millimetre clam with strong radial ribs; the tiny radially-ribbed shell is the clue."
+    },
+    "zh": {
+      "summary": "ヒナフミガイ。栖砂砾贝壳底之极小型双壳（心蛤科 Carditidae），壳厚、圆三角形，具粗放射肋，仅数毫米（和名雏之意），似心蛤类而微小，埋于潮下带砂底。",
+      "habitat_hint": "潮下带砂砾底、贝壳底。",
+      "finding_tips": "于海岸寻具放射肋、厚圆三角形之数毫米微小双壳；极小放射肋壳为辨识点。"
+    }
+  },
+  "Polyophthalmus pictus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Opheliid polychaete",
+    "ja": {
+      "summary": "カスリオフェリア。潮間帯〜浅海の砂泥底にすむ多毛類(オフェリアゴカイ科)で、体は細長い円筒形で滑らか、体側に並ぶ眼点(側眼)をもつ。体表に絣(かすり)模様のような斑をもつのが名の由来。砂中を活発に潜り、堆積物中の有機物を食べる。",
+      "habitat_hint": "潮間帯〜浅海の砂底、砂泥底。",
+      "finding_tips": "砂浜や干潟の砂を掘り、体側に眼点が並び絣模様をもつ細長い円筒形の多毛類を探す。並ぶ側眼と絣模様が識別点。"
+    },
+    "en": {
+      "summary": "An opheliid polychaete (Polyophthalmus pictus) of intertidal to shallow sand-mud bottoms; the smooth elongate cylindrical body has a row of lateral eyespots (the genus name means 'many eyes') and a splashed, kasuri-like pattern (the source of the Japanese name). It burrows actively in sand, feeding on sediment organic matter.",
+      "habitat_hint": "Intertidal to shallow sand and sand-mud bottoms.",
+      "finding_tips": "Dig beach or tidal-flat sand for a smooth elongate worm with a row of lateral eyespots and a mottled pattern; the lateral eyespots are the clue."
+    },
+    "zh": {
+      "summary": "カスリオフェリア。栖潮间带至浅海砂泥底之多毛类（矶沙蚕类之 Opheliidae），体细长圆筒而光滑，体侧具列眼点（属名多眼之意），体表具絣纹（和名之由来），善钻砂，食沉积有机物。",
+      "habitat_hint": "潮间带至浅海砂底、砂泥底。",
+      "finding_tips": "掘砂滩滩涂之砂寻体侧具列眼点、有絣纹之细长圆筒多毛类；列生侧眼为辨识点。"
+    }
+  },
+  "Pseudocyphellaria bartlettii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Foliose lichen",
+    "ja": {
+      "summary": "アイイロカブトゴケ。山地の湿った樹幹や岩、蘚苔上に着生する大型の葉状地衣類(カブトゴケ科)で、体は青みを帯びた灰緑色〜青灰色(藍色)。裏面には黄色い偽杯点(pseudocyphellae)が散らばる。空気のきれいな森林の指標とされる。",
+      "habitat_hint": "山地の湿った樹幹、岩、蘚苔上、渓谷林。",
+      "finding_tips": "一年中、湿った森林の樹皮や岩で青灰色の大型葉状地衣を探し、裏面の黄色い点を確認する。青灰色の体と裏面の黄点が識別点。"
+    },
+    "en": {
+      "summary": "A large foliose lichen (Pseudocyphellaria bartlettii, Lobariaceae) epiphytic on moist montane trunks, rock and mosses; the thallus is bluish grey-green to blue-grey, with scattered yellow pseudocyphellae on the underside. It indicates clean-air forest.",
+      "habitat_hint": "Moist montane trunks, rock, over mosses, ravine forest.",
+      "finding_tips": "Year-round in moist forest look on bark or rock for a large blue-grey foliose lichen and check the underside for yellow dots; the blue-grey thallus with yellow pseudocyphellae is the clue."
+    },
+    "zh": {
+      "summary": "アイイロカブトゴケ。附生山地湿润树干、岩石、藓苔之大型叶状地衣（肺衣科），体带蓝之灰绿至青灰（蓝色），背面散布黄色假杯点（pseudocyphellae），为洁净森林之指标。",
+      "habitat_hint": "山地湿润树干、岩石、藓苔上、溪谷林。",
+      "finding_tips": "全年于湿润林之树皮岩面寻青灰之大型叶状地衣，查背面黄点；青灰体与背面黄点为辨识点。"
+    }
+  },
+  "Pseudoleskeopsis zippelii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "アサイトゴケ。樹幹や岩、コンクリート塀などに這うように広がるハイゴケ類(シノブゴケ科)の蘚類。茎は不規則に分枝して細い糸のように這い(麻糸)、卵状披針形の小さな葉を密につける。都市部でも見られる。",
+      "habitat_hint": "樹幹、岩、石垣、コンクリート塀など。",
+      "finding_tips": "樹皮や石垣で、細い糸状に這って細かい葉を密につける緑色のマット状の蘚類を探す。糸状に這う細い茎が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Pseudoleskeopsis zippelii, Thuidiaceae) creeping in mats over trunks, rock and concrete walls; the irregularly branched stems creep like fine threads (the Japanese name means 'hemp-thread moss'), densely set with small ovate-lanceolate leaves. It occurs even in urban areas.",
+      "habitat_hint": "Tree trunks, rock, stone walls, concrete walls.",
+      "finding_tips": "On bark or stone walls look for a green mat-forming moss creeping in fine threads with small crowded leaves; the thread-like creeping stems are the clue."
+    },
+    "zh": {
+      "summary": "アサイトゴケ。羽藓科藓类，如毯般铺展于树干、岩石、混凝土墙，茎不规则分枝、细如丝而匍匐（麻丝之意），密生卵状披针形小叶，城市亦见。",
+      "habitat_hint": "树干、岩石、石垣、混凝土墙等。",
+      "finding_tips": "于树皮石墙寻细丝状匍匐、密生细叶之绿色毯状藓；丝状匍匐茎为辨识点。"
+    }
+  },
+  "Pseudostegania defectata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Geometer moth",
+    "ja": {
+      "summary": "キイロナミシャク。シャクガ科ナミシャク亜科のガで、前翅は黄色っぽい地色に細かい横線をもつ。前翅は幅広く、静止時は翅を平らに開く。幼虫はシャクトリムシ型で、寄主植物の葉を食べる。低山地の林で灯火に飛来する。",
+      "habitat_hint": "低山地〜丘陵の林、林縁、樹林。",
+      "finding_tips": "春〜夏の夜、灯火などで黄色っぽい地に細かい横線をもつシャクガを探す。黄色い地色と細横線が識別点。"
+    },
+    "en": {
+      "summary": "A geometer moth (Pseudostegania defectata) of the Larentiinae; the broad forewings have a yellowish ground with fine transverse lines and are held flat at rest. The looper caterpillar feeds on host-plant leaves, and adults come to lights in low montane woodland.",
+      "habitat_hint": "Low montane to hill woodland and edges.",
+      "finding_tips": "On spring to summer nights look at lights for a geometer with a yellowish ground and fine cross-lines; the yellow ground with fine lines is the clue."
+    },
+    "zh": {
+      "summary": "キイロナミシャク。尺蛾科波尺蛾亚科之蛾，前翅黄底具细横线，翅宽阔，静止平展，幼虫尺蠖型食寄主叶，低山地林之灯下可见。",
+      "habitat_hint": "低山地至丘陵林、林缘、树林。",
+      "finding_tips": "春至夏夜于灯下寻黄底具细横线之尺蛾；黄底细线为辨识点。"
+    }
+  },
+  "Ptychomitrium dentatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ハチヂレゴケ。岩上や石垣に半球状のクッション(群落)をつくるチヂレゴケ科の蘚類。乾くと葉が強く縮れ(ちぢれ)、湿ると開く。葉は披針形で、葉先の縁に歯(dentatum=歯のある)をもつ。日当たりのよい岩上に多い。",
+      "habitat_hint": "日当たりのよい岩上、石垣、コンクリート。",
+      "finding_tips": "岩や石垣で、乾くと強く縮れる半球状のクッションをつくる蘚類を探し、葉縁の歯を確認する。乾くと縮れるクッションが識別点。"
+    },
+    "en": {
+      "summary": "A moss (Ptychomitrium dentatum, Ptychomitriaceae) forming hemispherical cushions on rock and stone walls; the leaves curl strongly when dry and spread when wet, and are lanceolate with toothed margins near the tip (dentatum = toothed). It is common on sunny rock.",
+      "habitat_hint": "Sunny rock, stone walls, concrete.",
+      "finding_tips": "On rock or walls look for a moss forming hemispherical cushions that curl strongly when dry, and check the toothed leaf tips; the curling cushion is the clue."
+    },
+    "zh": {
+      "summary": "ハチヂレゴケ。缩叶藓科藓类，于岩石石垣结半球状垫（群落），干则叶强烈卷缩、湿则展，叶披针形、近尖处缘具齿（dentatum 有齿），多见于向阳岩上。",
+      "habitat_hint": "向阳岩上、石垣、混凝土。",
+      "finding_tips": "于岩石石墙寻干则强烈卷缩之半球状垫藓，查叶缘齿；干缩之垫为辨识点。"
+    }
+  },
+  "Ptychomitrium fauriei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "ヒダゴケ。岩上や石垣に半球状のクッションをつくるチヂレゴケ科の蘚類で、乾くと葉が縮れて巻く。葉は披針形で細長く、乾湿でよく動く。日当たり〜半日陰の岩上に群落をつくる。学名はフランスの採集家Faurieにちなむ。",
+      "habitat_hint": "日当たり〜半日陰の岩上、石垣。",
+      "finding_tips": "岩や石垣で、乾くと縮れて巻く細い披針形の葉をもつ半球状のクッション蘚を探す。乾くと巻く細葉が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Ptychomitrium fauriei, Ptychomitriaceae) forming hemispherical cushions on rock and stone walls; the narrow lanceolate leaves curl and twist when dry and move markedly with wetting (the epithet honours the French collector Faurie). It colonises sunny to half-shaded rock.",
+      "habitat_hint": "Sunny to half-shaded rock and stone walls.",
+      "finding_tips": "On rock or walls look for a hemispherical cushion moss with narrow lanceolate leaves that curl when dry; the curling narrow leaves are the clue."
+    },
+    "zh": {
+      "summary": "ヒダゴケ。缩叶藓科藓类，于岩石石垣结半球状垫，干则叶卷缩，叶披针形细长、随干湿明显动（种名纪念法国采集家 Faurie），于向阳至半阴岩上成群。",
+      "habitat_hint": "向阳至半阴岩上、石垣。",
+      "finding_tips": "于岩石石墙寻具干则卷缩之细披针叶之半球垫藓；干卷细叶为辨识点。"
+    }
+  },
+  "Ptychomitrium gardneri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "シナチジレゴケ。岩上や石垣に半球状のクッションをつくるチヂレゴケ科の蘚類で、乾くと葉が強く縮れる。葉は披針形。中国大陸にも広く分布することが名(シナ=支那)に含まれる。日当たりのよい岩上に多い。",
+      "habitat_hint": "日当たりのよい岩上、石垣、コンクリート。",
+      "finding_tips": "岩や石垣で、乾くと強く縮れる半球状のクッションをつくる披針形の葉の蘚を探す。乾くと縮れるクッションが識別点。"
+    },
+    "en": {
+      "summary": "A moss (Ptychomitrium gardneri, Ptychomitriaceae) forming hemispherical cushions on rock and stone walls; the lanceolate leaves curl strongly when dry. Its range extends into continental China (reflected in the Japanese name). It is common on sunny rock.",
+      "habitat_hint": "Sunny rock, stone walls, concrete.",
+      "finding_tips": "On rock or walls look for a hemispherical cushion moss with lanceolate leaves that curl strongly when dry; the curling cushion is the clue."
+    },
+    "zh": {
+      "summary": "シナチジレゴケ。缩叶藓科藓类，于岩石石垣结半球状垫，干则叶强烈卷缩，叶披针形，分布及中国大陆（和名含「支那」），多见于向阳岩上。",
+      "habitat_hint": "向阳岩上、石垣、混凝土。",
+      "finding_tips": "于岩石石墙寻干则强烈卷缩之披针叶半球垫藓；干缩之垫为辨识点。"
+    }
+  },
+  "Racopilum cuspidigerum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Moss",
+    "ja": {
+      "summary": "シバゴケ。地表や岩、朽木上を這って広がるシバゴケ科の蘚類で、茎に沿って葉が2列に並び、その上面に小さな葉(副葉)が別列につくのが特徴。葉先は針状に細くとがる(cuspidigerum=尖端をもつ)。暖地の湿った林床や岩上に多い。",
+      "habitat_hint": "暖地の湿った林床、地表、岩、朽木上。",
+      "finding_tips": "湿った林床や岩で、葉が扁平に2列+背面に別列につき葉先が針状にとがる這う蘚を探す。2列の葉と背面の副葉列が識別点。"
+    },
+    "en": {
+      "summary": "A moss (Racopilum cuspidigerum, Racopilaceae) creeping over ground, rock and rotten wood; the leaves are arranged in two lateral rows with a separate row of smaller leaves (amphigastria) on the upper side, and the leaf tips taper into a fine point (cuspidigerum = bearing a cusp). It is common on moist warm-region forest floor and rock.",
+      "habitat_hint": "Moist warm-region forest floor, ground, rock, rotten wood.",
+      "finding_tips": "On moist forest floor or rock look for a creeping moss with leaves in two flat rows plus a dorsal row of smaller leaves and fine-pointed tips; the two-ranked leaves with a dorsal row are the clue."
+    },
+    "zh": {
+      "summary": "シバゴケ。硬叶藓科（Racopilaceae）藓类，匍匐于地表、岩石、朽木，叶沿茎两列排列，其上面另具一列小叶（副叶），叶尖针状渐尖（cuspidigerum 具尖头），多见于暖地湿润林床岩上。",
+      "habitat_hint": "暖地湿润林床、地表、岩石、朽木上。",
+      "finding_tips": "于湿润林床岩面寻叶扁平两列、背面另列小叶而叶尖针状之匍匐藓；两列叶加背列副叶为辨识点。"
+    }
   }
 }
