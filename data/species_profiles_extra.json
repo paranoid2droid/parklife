@@ -291618,5 +291618,545 @@
       "habitat_hint": "公园、庭园、墓地、街道栽培（暖地）。",
       "finding_tips": "寻细窄圆柱（扫帚形）而直立之常绿针叶树；细长之树形与鳞状叶为线索。"
     }
+  },
+  "Curculio convexus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Acorn weevil",
+    "ja": {
+      "summary": "セダカシギゾウムシ。ドングリ(ブナ科の堅果)などに産卵するシギゾウムシ科(Curculio)の甲虫。名(鴫)のとおり口(口吻)がシギのくちばしのように細く長く伸びるのが特徴。背が丸く盛り上がって見える(名の由来)中型種。メスは長い口吻でドングリに穴を開けて中に産卵し、幼虫が実の中を食べて育つ。",
+      "habitat_hint": "ブナ科(コナラ・クヌギなど)の林、林縁。",
+      "finding_tips": "クヌギやコナラの枝葉・ドングリで、口が異様に長く伸びた小さなゾウムシを探す。背が丸く盛り上がって見える(名の由来)中型種。細長い口吻が手がかり。"
+    },
+    "en": {
+      "summary": "An acorn weevil (セダカシギゾウムシ, Curculio) that lays eggs in acorns and other nuts; distinctively, the snout is drawn out long and thin like a snipe's bill (the source of the group name). a medium species with a strongly humped back (the source of the name). The female bores into an acorn with the long snout to lay eggs, and the larva feeds inside the nut.",
+      "habitat_hint": "Oak/beech (Quercus) woods and edges.",
+      "finding_tips": "On oaks and acorns look for a small weevil with an extraordinarily long snout; a medium species with a strongly humped back (the source of the name). The long thin snout is the clue."
+    },
+    "zh": {
+      "summary": "セダカシギゾウムシ。象甲科（Curculio 长足象类）之甲虫，产卵于橡实（壳斗科坚果），口吻细长如鹬喙（类名之由来）为特征。背强隆而显（和名之由来）之中型种。雌以长喙钻橡实产卵、幼虫食实内而长。",
+      "habitat_hint": "壳斗科（麻栎、枹栎等）之林、林缘。",
+      "finding_tips": "于麻栎、枹栎枝叶与橡实寻口吻异常长之小象甲；背强隆而显（和名之由来）之中型种。细长之喙为线索。"
+    }
+  },
+  "Curculio roelofsi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Acorn weevil",
+    "ja": {
+      "summary": "レロフチビシギゾウムシ。ドングリ(ブナ科の堅果)などに産卵するシギゾウムシ科(Curculio)の甲虫。名(鴫)のとおり口(口吻)がシギのくちばしのように細く長く伸びるのが特徴。体長数mmのごく小型種。メスは長い口吻でドングリに穴を開けて中に産卵し、幼虫が実の中を食べて育つ。",
+      "habitat_hint": "ブナ科(コナラ・クヌギなど)の林、林縁。",
+      "finding_tips": "クヌギやコナラの枝葉・ドングリで、口が異様に長く伸びた小さなゾウムシを探す。体長数mmのごく小型種。細長い口吻が手がかり。"
+    },
+    "en": {
+      "summary": "An acorn weevil (レロフチビシギゾウムシ, Curculio) that lays eggs in acorns and other nuts; distinctively, the snout is drawn out long and thin like a snipe's bill (the source of the group name). a very small species only a few millimetres long. The female bores into an acorn with the long snout to lay eggs, and the larva feeds inside the nut.",
+      "habitat_hint": "Oak/beech (Quercus) woods and edges.",
+      "finding_tips": "On oaks and acorns look for a small weevil with an extraordinarily long snout; a very small species only a few millimetres long. The long thin snout is the clue."
+    },
+    "zh": {
+      "summary": "レロフチビシギゾウムシ。象甲科（Curculio 长足象类）之甲虫，产卵于橡实（壳斗科坚果），口吻细长如鹬喙（类名之由来）为特征。体长数毫米之极小型种。雌以长喙钻橡实产卵、幼虫食实内而长。",
+      "habitat_hint": "壳斗科（麻栎、枹栎等）之林、林缘。",
+      "finding_tips": "于麻栎、枹栎枝叶与橡实寻口吻异常长之小象甲；体长数毫米之极小型种。细长之喙为线索。"
+    }
+  },
+  "Cybaeus communis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Soft spider",
+    "ja": {
+      "summary": "ザラナミハグモ。林の落ち葉の下や石の下、土の割れ目にすむナミハグモ科(Cybaeus)のクモ。網を張らずに徘徊し、地表で小さな虫を捕らえる(または不規則な受信糸を張る)。体は褐色〜暗褐色で地味。本州などにふつうに見られる種。夜行性で、湿った林床に多い。",
+      "habitat_hint": "林の落ち葉の下、石の下、土の割れ目(湿った林床)。",
+      "finding_tips": "湿った林床で落ち葉や石をめくり、褐色で地味な中型のクモを探す。本州などにふつうに見られる種。落ち葉の下にひそむ点が手がかり。"
+    },
+    "en": {
+      "summary": "A soft spider (ザラナミハグモ, Cybaeus, Cybaeidae) living under leaf litter and stones and in soil cracks in woods; it wanders without a snare to catch small insects on the ground (or spins irregular trip-lines). The body is brown to dark brown and drab. a species commonly seen in Honshu and elsewhere. Nocturnal, it is common on moist forest floor.",
+      "habitat_hint": "Under leaf litter and stones and in soil cracks (moist forest floor).",
+      "finding_tips": "On moist forest floor turn litter and stones for a drab brown medium spider; a species commonly seen in Honshu and elsewhere. Hiding under litter is the clue."
+    },
+    "zh": {
+      "summary": "ザラナミハグモ。暗蛛科（Cybaeus）之蛛，栖林中落叶下、石下与土隙，不结网而徘徊、于地表捕小虫（或张不规则丝），体褐至暗褐而朴素。本州等常见之种。夜行，多见于湿润林床。",
+      "habitat_hint": "林中落叶下、石下、土隙（湿润林床）。",
+      "finding_tips": "于湿润林床翻落叶、石寻褐色朴素之中型蛛；本州等常见之种。匿于落叶下为线索。"
+    }
+  },
+  "Cybaeus mellotteei": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Soft spider",
+    "ja": {
+      "summary": "ムロテナミハグモ。林の落ち葉の下や石の下、土の割れ目にすむナミハグモ科(Cybaeus)のクモ。網を張らずに徘徊し、地表で小さな虫を捕らえる(または不規則な受信糸を張る)。体は褐色〜暗褐色で地味。やや局地的に分布する種。夜行性で、湿った林床に多い。",
+      "habitat_hint": "林の落ち葉の下、石の下、土の割れ目(湿った林床)。",
+      "finding_tips": "湿った林床で落ち葉や石をめくり、褐色で地味な中型のクモを探す。やや局地的に分布する種。落ち葉の下にひそむ点が手がかり。"
+    },
+    "en": {
+      "summary": "A soft spider (ムロテナミハグモ, Cybaeus, Cybaeidae) living under leaf litter and stones and in soil cracks in woods; it wanders without a snare to catch small insects on the ground (or spins irregular trip-lines). The body is brown to dark brown and drab. a somewhat local species. Nocturnal, it is common on moist forest floor.",
+      "habitat_hint": "Under leaf litter and stones and in soil cracks (moist forest floor).",
+      "finding_tips": "On moist forest floor turn litter and stones for a drab brown medium spider; a somewhat local species. Hiding under litter is the clue."
+    },
+    "zh": {
+      "summary": "ムロテナミハグモ。暗蛛科（Cybaeus）之蛛，栖林中落叶下、石下与土隙，不结网而徘徊、于地表捕小虫（或张不规则丝），体褐至暗褐而朴素。分布略局地之种。夜行，多见于湿润林床。",
+      "habitat_hint": "林中落叶下、石下、土隙（湿润林床）。",
+      "finding_tips": "于湿润林床翻落叶、石寻褐色朴素之中型蛛；分布略局地之种。匿于落叶下为线索。"
+    }
+  },
+  "Cyclosa ginnaga": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Trashline orbweaver",
+    "ja": {
+      "summary": "ギンナガゴミグモ。円い網の中心に、食べかすや脱皮殻、ごみを縦に連ねた「ごみリボン(隠れ帯)」をつくり、その中に紛れて身を隠すゴミグモ類(コガネグモ科)のクモ。名(銀長)のとおり細長い腹部が銀白色に光る。垂直の円網を張り、かかった小さな虫を食べる。",
+      "habitat_hint": "林縁、庭、やぶ、草地(垂直の円網を張る)。",
+      "finding_tips": "円網の中心に縦に連なるごみのリボンを探し、その中に紛れる銀色で細長い腹のクモを見つける。ごみリボンと銀色の腹が手がかり。"
+    },
+    "en": {
+      "summary": "A trashline orbweaver (ギンナガゴミグモ, Cyclosa, Araneidae) that builds a vertical 'trash ribbon' (stabilimentum) of prey remains, moults and debris down the centre of its round web and hides among it; as the Japanese name ('silver-long') implies, the elongate abdomen shines silvery-white. It spins a vertical orb web and eats trapped small insects.",
+      "habitat_hint": "Woodland edges, gardens, thickets and grassland (vertical orb web).",
+      "finding_tips": "Look for a vertical ribbon of debris down the centre of a round web, with a silvery elongate-bellied spider hidden in it; the trash ribbon and silver abdomen are the clue."
+    },
+    "zh": {
+      "summary": "ギンナガゴミグモ。金蛛科之垃圾蛛类，于圆网中央竖列食余、蜕壳与碎屑成「垃圾带（隐带）」、藏身其中，腹细长而银白闪光（和名意为银长），张垂直圆网、食落网之小虫。",
+      "habitat_hint": "林缘、庭园、灌丛、草地（张垂直圆网）。",
+      "finding_tips": "寻圆网中央竖列之碎屑带、及藏于其中腹细长而银之蛛；垃圾带与银腹为线索。"
+    }
+  },
+  "Cymodoce japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marine isopod",
+    "ja": {
+      "summary": "ニホンコツブムシ。潮間帯の岩の割れ目や海藻の間、転石の下にすむ小さな等脚類(ダンゴムシに近い甲殻類、コツブムシ科)。体は平たく楕円形で、危険を感じると体を丸める。海藻や有機物を食べ、岩礁や港の護岸などでふつうに見られる。",
+      "habitat_hint": "潮間帯の岩の割れ目、海藻の間、転石の下、護岸。",
+      "finding_tips": "潮間帯で石をめくったり海藻をかき分けたりして、平たい楕円形で丸くなる小さなダンゴムシ状の甲殻類を探す。丸くなる平たい体が手がかり。"
+    },
+    "en": {
+      "summary": "A marine isopod (ニホンコツブムシ, Cymodoce, Sphaeromatidae), a small crustacean related to woodlice, living in intertidal rock crevices, among seaweed and under stones; the body is flat and oval and it rolls up when disturbed. It eats seaweed and organic matter and is common on reefs and harbour walls.",
+      "habitat_hint": "Intertidal rock crevices, among seaweed, under stones and on sea walls.",
+      "finding_tips": "In the intertidal turn stones and part seaweed for a flat oval woodlouse-like crustacean that rolls up; the flat body that rolls up is the clue."
+    },
+    "zh": {
+      "summary": "ニホンコツブムシ。团水虱科之小型等足类（近潮虫之甲壳类），栖潮间带岩缝、海藻间与石下，体扁椭圆、遇险蜷体，食海藻与有机物，常见于岩礁与港岸。",
+      "habitat_hint": "潮间带岩缝、海藻间、石下、护岸。",
+      "finding_tips": "于潮间带翻石、拨藻寻扁椭圆而能蜷之似潮虫甲壳类；能蜷之扁体为线索。"
+    }
+  },
+  "Cynanchum boudieri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swallowwort",
+    "ja": {
+      "summary": "アマミイケマ。他の木や草にからんで伸びるキョウチクトウ科(旧ガガイモ科、カモメヅル属)のつる性の多年草。奄美など南西諸島に分布し、イケマ(生馬)の仲間。夏、星形の小さな花を集めて咲かせ、傷つけると白い乳液を出す。果実は細長い袋状で、熟すと割れて綿毛のついた種子が風で飛ぶ。",
+      "habitat_hint": "南西諸島などの林縁、やぶ、海岸近く。",
+      "finding_tips": "林縁で、他の植物にからむつる草に星形の小さな花がついていないか探す。奄美など南西諸島に分布し、イケマ(生馬)の仲間。星形の小花と白い乳液が手がかり。"
+    },
+    "en": {
+      "summary": "A swallowwort (アマミイケマ, Cynanchum, Apocynaceae), a twining perennial vine that climbs over other plants. of the Ryukyus such as Amami, a relative of Cynanchum caudatum (ikema). In summer it bears clusters of small star-shaped flowers and exudes white latex when cut. The fruit is a slender follicle that splits when ripe to release plumed seeds on the wind.",
+      "habitat_hint": "Ryukyu and warm-region woodland edges, thickets and near coast.",
+      "finding_tips": "At woodland edges look for a twining vine with small star-shaped flowers; of the Ryukyus such as Amami, a relative of Cynanchum caudatum (ikema). The star-shaped flowers and white latex are the clue."
+    },
+    "zh": {
+      "summary": "アマミイケマ。夹竹桃科（旧萝藦科，鹅绒藤属）之缠绕多年生藤本，攀他木他草而伸。分布奄美等西南诸岛、为牛皮消类之亲。夏聚开星形小花、伤则出白色乳汁，果为细长蓇葖、熟裂而具冠毛之种随风飞散。",
+      "habitat_hint": "西南诸岛等林缘、灌丛、近海。",
+      "finding_tips": "于林缘寻缠绕他物、开星形小花之藤草；分布奄美等西南诸岛、为牛皮消类之亲。星形小花与白乳汁为线索。"
+    }
+  },
+  "Cynanchum liukiuense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swallowwort",
+    "ja": {
+      "summary": "リュウキュウガシワ。他の木や草にからんで伸びるキョウチクトウ科(旧ガガイモ科、カモメヅル属)のつる性の多年草。南西諸島(琉球)に分布する常緑のつる植物。夏、星形の小さな花を集めて咲かせ、傷つけると白い乳液を出す。果実は細長い袋状で、熟すと割れて綿毛のついた種子が風で飛ぶ。",
+      "habitat_hint": "南西諸島などの林縁、やぶ、海岸近く。",
+      "finding_tips": "林縁で、他の植物にからむつる草に星形の小さな花がついていないか探す。南西諸島(琉球)に分布する常緑のつる植物。星形の小花と白い乳液が手がかり。"
+    },
+    "en": {
+      "summary": "A swallowwort (リュウキュウガシワ, Cynanchum, Apocynaceae), a twining perennial vine that climbs over other plants. an evergreen vine of the Ryukyus. In summer it bears clusters of small star-shaped flowers and exudes white latex when cut. The fruit is a slender follicle that splits when ripe to release plumed seeds on the wind.",
+      "habitat_hint": "Ryukyu and warm-region woodland edges, thickets and near coast.",
+      "finding_tips": "At woodland edges look for a twining vine with small star-shaped flowers; an evergreen vine of the Ryukyus. The star-shaped flowers and white latex are the clue."
+    },
+    "zh": {
+      "summary": "リュウキュウガシワ。夹竹桃科（旧萝藦科，鹅绒藤属）之缠绕多年生藤本，攀他木他草而伸。分布西南诸岛（琉球）之常绿藤。夏聚开星形小花、伤则出白色乳汁，果为细长蓇葖、熟裂而具冠毛之种随风飞散。",
+      "habitat_hint": "西南诸岛等林缘、灌丛、近海。",
+      "finding_tips": "于林缘寻缠绕他物、开星形小花之藤草；分布西南诸岛（琉球）之常绿藤。星形小花与白乳汁为线索。"
+    }
+  },
+  "Cyperus echinatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Teasel Sedge",
+    "ja": {
+      "summary": "ミクリガヤツリ。カヤツリグサ科カヤツリグサ属の草。三角形の茎の先に、線形の苞葉を放射状に広げ、その間に小穂(しょうすい)を集めてつける。小穂が球状に密集してとげのある玉のように見える。湿った空き地や水辺、道ばたに生える。",
+      "habitat_hint": "湿った空き地、水辺、田畑のふち、道ばた。",
+      "finding_tips": "夏〜秋、三角形の茎の先に放射状の苞葉と小穂の集まりをもつカヤツリグサを探す。小穂が球状に密集してとげのある玉のように見える。小穂のつき方が手がかり。"
+    },
+    "en": {
+      "summary": "A flatsedge (ミクリガヤツリ, Cyperus, Cyperaceae); at the top of the triangular stem it spreads linear bracts in a whorl, with spikelets gathered among them. the spikelets clustered into spiny globular heads. It grows on moist waste ground, waterside and roadsides.",
+      "habitat_hint": "Moist waste ground, waterside, field margins and roadsides.",
+      "finding_tips": "In summer–autumn look for a flatsedge with radiating bracts and spikelet clusters atop a triangular stem; the spikelets clustered into spiny globular heads. The spikelet arrangement is the clue."
+    },
+    "zh": {
+      "summary": "ミクリガヤツリ。莎草科莎草属之草，三棱茎顶放射状展线形苞叶、其间聚生小穗。小穗密聚成球、如具刺之球。生湿润空地、水边与路旁。",
+      "habitat_hint": "湿润空地、水边、田畑边、路旁。",
+      "finding_tips": "夏秋寻三棱茎顶具放射苞叶与小穗簇之莎草；小穗密聚成球、如具刺之球。小穗着生方式为线索。"
+    }
+  },
+  "Cyperus sphacelatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flatsedge",
+    "ja": {
+      "summary": "ゴマフガヤツリ。カヤツリグサ科カヤツリグサ属の草。三角形の茎の先に、線形の苞葉を放射状に広げ、その間に小穂(しょうすい)を集めてつける。熱帯〜暖地に分布し、小穂に黒っぽい斑(胡麻斑)が入る。湿った空き地や水辺、道ばたに生える。",
+      "habitat_hint": "湿った空き地、水辺、田畑のふち、道ばた。",
+      "finding_tips": "夏〜秋、三角形の茎の先に放射状の苞葉と小穂の集まりをもつカヤツリグサを探す。熱帯〜暖地に分布し、小穂に黒っぽい斑(胡麻斑)が入る。小穂のつき方が手がかり。"
+    },
+    "en": {
+      "summary": "A flatsedge (ゴマフガヤツリ, Cyperus, Cyperaceae); at the top of the triangular stem it spreads linear bracts in a whorl, with spikelets gathered among them. of tropical to warm regions, with dark-flecked ('sesame-spotted') spikelets. It grows on moist waste ground, waterside and roadsides.",
+      "habitat_hint": "Moist waste ground, waterside, field margins and roadsides.",
+      "finding_tips": "In summer–autumn look for a flatsedge with radiating bracts and spikelet clusters atop a triangular stem; of tropical to warm regions, with dark-flecked ('sesame-spotted') spikelets. The spikelet arrangement is the clue."
+    },
+    "zh": {
+      "summary": "ゴマフガヤツリ。莎草科莎草属之草，三棱茎顶放射状展线形苞叶、其间聚生小穗。分布热带至暖地、小穗具黑斑（芝麻斑）。生湿润空地、水边与路旁。",
+      "habitat_hint": "湿润空地、水边、田畑边、路旁。",
+      "finding_tips": "夏秋寻三棱茎顶具放射苞叶与小穗簇之莎草；分布热带至暖地、小穗具黑斑（芝麻斑）。小穗着生方式为线索。"
+    }
+  },
+  "Cyphon padi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Marsh beetle",
+    "ja": {
+      "summary": "キタクロチビマルハナノミ。水辺や湿地の植物の上に見られる、体長数mmの小さなマルハナノミ科の甲虫。体はやや丸みがあり、黒っぽく柔らかい。幼虫は水中で暮らし、落ち葉などの有機物を食べる。成虫は水辺の草の上に集まり、驚くと跳ねるように逃げる。",
+      "habitat_hint": "池沼・湿地・水辺の草の上、幼虫は水中。",
+      "finding_tips": "水辺の草の上で、数mmの黒っぽく丸みのある柔らかい小さな甲虫を探す。水辺という環境と丸い体が手がかり。"
+    },
+    "en": {
+      "summary": "A marsh beetle (キタクロチビマルハナノミ, Cyphon, Scirtidae), a small soft beetle a few millimetres long found on waterside plants; the body is somewhat rounded, darkish and soft. Larvae live in water eating organic matter such as leaf litter, and adults gather on waterside vegetation, jumping away when disturbed.",
+      "habitat_hint": "On plants at ponds, wetlands and waterside; larvae aquatic.",
+      "finding_tips": "On waterside plants look for a few-millimetre darkish rounded soft beetle; the waterside setting and rounded body are the clue."
+    },
+    "zh": {
+      "summary": "キタクロチビマルハナノミ。花蚤近缘之圆花甲科（Scirtidae）之小甲虫，体长数毫米，见于水边湿地植物上，体略圆、偏黑而软，幼虫水生、食落叶等有机物，成虫聚于水边草上、受惊跳逃。",
+      "habitat_hint": "池沼、湿地、水边草上；幼虫水生。",
+      "finding_tips": "于水边草上寻数毫米、偏黑略圆而软之小甲虫；水边之境与圆体为线索。"
+    }
+  },
+  "Cystinarius rubicundulus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ruddy webcap",
+    "ja": {
+      "summary": "イロガワリフウセンタケ。秋、林の地上に生えるフウセンタケ科(Cortinarius近縁)のキノコ。傷つけたり時間がたつと赤褐色に変色する(名の由来)。若いとき傘とひだの間にクモの巣状の膜(コルチナ)を張り、胞子紋はさび色。フウセンタケの仲間には毒種が多く、安易に食べない。",
+      "habitat_hint": "秋、林内の地上(広葉樹・針葉樹林、菌根性)。",
+      "finding_tips": "秋の林で、傷つけると赤褐色に変わるキノコを探す。変色性とさび色の胞子紋が手がかり。食は避ける。"
+    },
+    "en": {
+      "summary": "The ruddy webcap (イロガワリフウセンタケ, Cystinarius/Cortinarius), an autumn woodland mushroom that stains reddish-brown when bruised or with age (the source of the name); when young it stretches a cobweb veil (cortina) between cap and gills, with a rusty spore print. Many webcaps are toxic, so it should not be eaten casually.",
+      "habitat_hint": "On the ground in autumn woods (broadleaf and conifer; mycorrhizal).",
+      "finding_tips": "In autumn woods look for a mushroom that stains reddish-brown when bruised; the colour change and rusty spore print are the clue. Avoid eating."
+    },
+    "zh": {
+      "summary": "イロガワリフウセンタケ。丝膜菌科（近 Cortinarius）之菌，秋生林地，伤或久则变红褐（和名之由来），幼时盖褶间张蛛网状膜（丝膜）、孢子印锈色，丝膜菌类多毒、勿轻食。",
+      "habitat_hint": "秋林内地上（阔叶、针叶林，菌根性）。",
+      "finding_tips": "秋林寻伤则变红褐之菌；变色性与锈色孢子印为线索。忌食。"
+    }
+  },
+  "Cystopteris fragilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brittle bladder-fern",
+    "aliases": {
+      "zh-Hans": "冷蕨"
+    },
+    "ja": {
+      "summary": "ナヨシダ。山地の岩の割れ目や石垣、湿った林床に生える小型のシダ(ナヨシダ科)。葉柄や中軸が細くて弱々しく(名の由来)、羽状に切れ込んだやわらかい葉を広げる。世界の温帯〜寒帯に広く分布する。夏緑性で、冬には枯れる。",
+      "habitat_hint": "山地の岩の割れ目、石垣、湿った林床、沢のふち。",
+      "finding_tips": "岩の割れ目や石垣で、細く弱々しい葉柄に羽状のやわらかい葉をつける小さなシダを探す。細く折れやすい葉柄が手がかり。"
+    },
+    "en": {
+      "summary": "The brittle bladder-fern (ナヨシダ, Cystopteris fragilis), a small fern of rock crevices, stone walls and moist forest floor in the mountains; the stipe and rachis are slender and weak (the source of the name), bearing soft pinnately divided fronds. It is widespread across the world's temperate and cold zones and dies back in winter.",
+      "habitat_hint": "Montane rock crevices, stone walls, moist forest floor and stream margins.",
+      "finding_tips": "In rock crevices and stone walls look for a small fern with a slender weak stipe and soft pinnate fronds; the thin brittle stipe is the clue."
+    },
+    "zh": {
+      "summary": "冷蕨（ナヨシダ）。冷蕨科之小型蕨，生山地岩缝、石墙与湿润林床，叶柄与中轴细弱（和名之由来），展羽状深裂之柔叶，广布世界温带至寒带，夏绿性、冬则枯。",
+      "habitat_hint": "山地岩缝、石墙、湿润林床、沢边。",
+      "finding_tips": "于岩缝、石墙寻叶柄细弱、叶羽状而柔之小蕨；细而易折之叶柄为线索。"
+    }
+  },
+  "Dacrymyces chrysospermus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orange jelly",
+    "ja": {
+      "summary": "ハナビラダクリオキン。針葉樹の倒木や切り株に生える、あざやかな橙黄色のゼリー状のキノコ(アカキクラゲ科)。花びらが集まったような、脳のようなしわのあるかたまりをつくる。湿ると膨らんでぷるぷるし、乾くとちぢんで硬くなる。よく似たハナビラニカワタケなどと混同されやすい。",
+      "habitat_hint": "針葉樹の倒木、切り株、朽木の上(湿った林)。",
+      "finding_tips": "針葉樹の倒木で、あざやかな橙色の花びら状〜脳状のゼリーのかたまりを探す。橙色でぷるぷるした質感が手がかり。"
+    },
+    "en": {
+      "summary": "Orange jelly (ハナビラダクリオキン, Dacrymyces chrysospermus), a vivid orange-yellow jelly fungus (Dacrymycetaceae) growing on conifer logs and stumps; it forms brain-like wrinkled masses like clustered petals. It swells gelatinous when wet and shrinks hard when dry, and is easily confused with the similar witch's butter.",
+      "habitat_hint": "Conifer logs, stumps and rotten wood (damp woods).",
+      "finding_tips": "On conifer logs look for a vivid orange petal-like to brain-like jelly mass; the orange gelatinous texture is the clue."
+    },
+    "zh": {
+      "summary": "ハナビラダクリオキン。花耳科之鲜橙黄胶质菌，生针叶树倒木与树桩，成如花瓣聚生、脑状具皱之团块，湿则胀而滑、干则缩而硬，易与近似之金耳类相混。",
+      "habitat_hint": "针叶树倒木、树桩、朽木上（湿润林）。",
+      "finding_tips": "于针叶倒木寻鲜橙之花瓣状至脑状胶团；橙色滑润之质感为线索。"
+    }
+  },
+  "Dactylioglypha tonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Tortrix moth",
+    "ja": {
+      "summary": "スジオビヒメハマキ。ハマキガ科(ヒメハマキ類)の小さなガ。前翅に斜めの筋(帯)模様があり、とまると鐘形〜筒形に見える。夜行性で灯火に飛来し、幼虫は葉を巻いたり綴(つづ)ったりして中にひそみ、葉を食べる。林縁や雑木林でふつうに見られる。",
+      "habitat_hint": "雑木林、林縁、庭。",
+      "finding_tips": "夜、灯火で前翅に斜めの筋模様のある小さなハマキガを探す。斜めの帯と筒形にとまる姿が手がかり。"
+    },
+    "en": {
+      "summary": "A tortrix moth (スジオビヒメハマキ, Dactylioglypha, Tortricidae), small, with oblique streak (band) markings on the forewings and a bell- to tube-shaped resting outline. Nocturnal and drawn to lights, its larvae roll or web leaves and hide inside eating them. It is common at woodland edges and coppice.",
+      "habitat_hint": "Coppice, woodland edges and gardens.",
+      "finding_tips": "At night at lights look for a small tortrix with oblique streaks on the forewings; the slanting bands and tube-like posture are the clue."
+    },
+    "zh": {
+      "summary": "スジオビヒメハマキ。卷蛾科（小卷蛾类）之小蛾，前翅具斜纹（带），静止时呈钟至筒形，夜行趋光，幼虫卷叶或缀叶而匿食叶，常见于杂木林与林缘。",
+      "habitat_hint": "杂木林、林缘、庭园。",
+      "finding_tips": "夜于灯下寻前翅具斜纹之小卷蛾；斜带与筒形之姿为线索。"
+    }
+  },
+  "Dahlia pinnata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dahlia",
+    "ja": {
+      "summary": "ダリア(テンジクボタン)。メキシコ原産で観賞用に広く栽培されるキク科の多年草(球根)。夏〜秋、赤・桃・黄・白・紫など多彩で大きな頭花を咲かせる。八重や球状など花形の品種が非常に多い。地下に太い塊根をもち、寒地では掘り上げて越冬させる。",
+      "habitat_hint": "花壇・庭・畑の植栽。",
+      "finding_tips": "夏〜秋、多彩で大きな八重の頭花をもつ草を探す。大きくカラフルな花と豊富な花形が手がかり。"
+    },
+    "en": {
+      "summary": "Dahlia (ダリア, Dahlia pinnata), a tuberous perennial (Asteraceae) native to Mexico and widely grown as an ornamental; from summer to autumn it bears large, showy flower heads in red, pink, yellow, white or purple. Cultivars are very numerous, from double to ball forms. It has thick tuberous roots and is lifted to overwinter in cold areas.",
+      "habitat_hint": "Flower beds, gardens and field plantings.",
+      "finding_tips": "In summer–autumn look for a plant with large showy double flower heads in many colours; the big colourful flowers and varied forms are the clue."
+    },
+    "zh": {
+      "summary": "大丽花（ダリア，天竺牡丹）。菊科块根多年生草，原产墨西哥、广为观赏栽培，夏秋开红、粉、黄、白、紫等多彩之大头状花，重瓣、球形等品种极繁，具粗块根、寒地掘出越冬。",
+      "habitat_hint": "花坛、庭园、田间栽培。",
+      "finding_tips": "夏秋寻多彩而大之重瓣头状花之草；大而多彩之花与繁多花形为线索。"
+    }
+  },
+  "Daphnella radula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Turrid snail",
+    "ja": {
+      "summary": "カスリフデシャジクガイ。浅海の砂底や岩礁にすむクダマキガイ類(フデシャジク科/Raphitomidae)の小さな巻貝。殻は細長い紡錘形で、格子状の彫刻とかすり模様をもつ。多くのクダマキガイ類と同じく、細長い歯で獲物を刺す肉食の貝。数mm〜1cmほどと小さい。",
+      "habitat_hint": "浅海の砂底、岩礁、貝殻まじりの海底。",
+      "finding_tips": "浅い海底や打ち上げで、細長い紡錘形で格子彫刻とかすり模様のある小さな巻貝を探す。格子状の彫刻が手がかり。"
+    },
+    "en": {
+      "summary": "A turrid snail (カスリフデシャジクガイ, Daphnella, Raphitomidae) of shallow sand bottoms and reefs; the shell is a slender fusiform with lattice sculpture and a mottled ('kasuri') pattern. Like many turrids it is a carnivore that stabs prey with slender teeth, and is small — a few millimetres to about a centimetre.",
+      "habitat_hint": "Shallow sand bottoms, reefs and shelly seabed.",
+      "finding_tips": "On shallow seabed or as beach-cast look for a small slender fusiform snail with lattice sculpture and mottling; the lattice sculpture is the clue."
+    },
+    "zh": {
+      "summary": "カスリフデシャジクガイ。塔螺类（Raphitomidae）之小螺，栖浅海砂底与岩礁，壳细长纺锤形、具格状雕刻与飞白斑纹，如多数塔螺以细齿刺猎、为肉食螺，体仅数毫米至约1厘米。",
+      "habitat_hint": "浅海砂底、岩礁、含贝壳之海底。",
+      "finding_tips": "于浅海底或滩上冲积寻细长纺锤、具格雕与飞白纹之小螺；格状雕刻为线索。"
+    }
+  },
+  "Deiratonotus japonicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Estuarine crab",
+    "ja": {
+      "summary": "カワスナガニ。河口の干潟や汽水域の砂泥底にすむ小さなカニ(スナガニ上科カワスナガニ科)。甲は四角ばって幅が広く、砂泥にもぐって暮らす。名(川砂蟹)のとおり汽水の砂地を好み、干潟の泥の中の有機物を食べる。数cmと小さい。",
+      "habitat_hint": "河口の干潟、汽水域の砂泥底。",
+      "finding_tips": "河口の干潟で、四角ばった幅広い甲をもつ数cmの小さなカニを探す。汽水の砂泥という環境と四角い甲が手がかり。"
+    },
+    "en": {
+      "summary": "An estuarine crab (カワスナガニ, Deiratonotus, Camptandriidae), a small crab of estuarine tidal flats and brackish sand-mud; the carapace is squarish and broad, and it burrows in sand-mud. As the Japanese name ('river sand crab') implies, it favours brackish sand and eats organic matter in the flat mud. It is only a few centimetres.",
+      "habitat_hint": "Estuarine tidal flats and brackish sand-mud bottoms.",
+      "finding_tips": "On estuary flats look for a small few-centimetre crab with a squarish broad carapace; the brackish sand-mud setting and square carapace are the clue."
+    },
+    "zh": {
+      "summary": "カワスナガニ。和尚蟹总科之小型蟹（Camptandriidae），栖河口滩涂与汽水砂泥底，头胸甲方而宽，潜砂泥而居，如和名（川砂蟹）喜汽水砂地、食滩泥中有机物，体仅数厘米。",
+      "habitat_hint": "河口滩涂、汽水砂泥底。",
+      "finding_tips": "于河口滩涂寻头胸甲方而宽、数厘米之小蟹；汽水砂泥之境与方甲为线索。"
+    }
+  },
+  "Dendrodoris carbunculosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dorid nudibranch",
+    "ja": {
+      "summary": "コウシンウミウシ。暖かい海の岩礁やサンゴ礁にすむドーリス類の大きな海牛(ウミウシ)。体は褐色〜暗褐色で、背一面に大小のこぶ状の突起(いぼ)が盛り上がってごつごつして見える。海綿を食べ、刺激を受けると防御物質を出す。大型で肉厚。",
+      "habitat_hint": "暖海の岩礁・サンゴ礁、潮だまり、浅い海。",
+      "finding_tips": "岩礁で、背一面にこぶ状の突起が盛り上がった大きな褐色のウミウシを探す。ごつごつしたこぶ状の背が手がかり。"
+    },
+    "en": {
+      "summary": "A large dorid nudibranch (コウシンウミウシ, Dendrodoris) of warm-water rocky and coral reefs; the body is brown to dark brown, the whole back raised into large and small warty tubercles giving a rugged look. It eats sponges and releases defensive chemicals when irritated, and is large and fleshy.",
+      "habitat_hint": "Warm-water rocky and coral reefs, tide pools, shallow sea.",
+      "finding_tips": "On reefs look for a large brown nudibranch with the whole back raised into warty tubercles; the rugged warty back is the clue."
+    },
+    "zh": {
+      "summary": "コウシンウミウシ。多角海牛类之大型海牛，栖暖海岩礁与珊瑚礁，体褐至暗褐、背面满布大小疣突而显粗糙，食海绵、受激则出防御物质，体大而肉厚。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、潮池、浅海。",
+      "finding_tips": "于礁区寻背满布疣突之大型褐色海牛；粗糙疣状之背为线索。"
+    }
+  },
+  "Dentex tumifrons": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellowback seabream",
+    "aliases": {
+      "zh-Hans": "黄背牙鲷"
+    },
+    "ja": {
+      "summary": "キダイ(レンコダイ)。やや深い砂泥底にすむタイ科の魚。マダイに似るがやや小さく、体は淡い赤色で、背中に3つの黄色い斑が並ぶ。口の中も黄色い。マダイの代用として食用に重要で、練り製品や干物にもされる。底引き網などで漁獲される。",
+      "habitat_hint": "やや深い砂泥底、大陸棚。",
+      "finding_tips": "魚屋や漁港で、マダイに似た淡赤色で背に黄色い斑が並ぶやや小型のタイを探す。背の黄斑と口の中の黄色が手がかり。"
+    },
+    "en": {
+      "summary": "The yellowback seabream (キダイ, Dentex tumifrons, Sparidae), a fish of moderately deep sand-mud bottoms; similar to red seabream but smaller, pale red with three yellow blotches along the back and a yellow mouth interior. Important as food, often used in place of red seabream and made into fish paste and dried products, it is caught by trawling.",
+      "habitat_hint": "Moderately deep sand-mud bottoms and continental shelf.",
+      "finding_tips": "At fish markets look for a smallish pale-red seabream with yellow blotches along the back; the back blotches and yellow mouth are the clue."
+    },
+    "zh": {
+      "summary": "黄背牙鲷（キダイ，连子鲷）。鲷科之鱼，栖较深砂泥底，似真鲷而略小，体淡红、背具三黄斑、口内亦黄，为重要食用鱼、常代真鲷、亦作鱼糜与干制，以底拖网捕获。",
+      "habitat_hint": "较深砂泥底、大陆棚。",
+      "finding_tips": "于鱼市寻似真鲷而略小、淡红且背具黄斑之鲷；背之黄斑与口内之黄为线索。"
+    }
+  },
+  "Deporaus unicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leaf-rolling weevil",
+    "aliases": {
+      "zh-Hans": "黑色切叶象"
+    },
+    "ja": {
+      "summary": "コナライクビチョッキリ。コナラなどブナ科の葉を巻いて「揺籃(ようらん)」をつくるオトシブミ科(チョッキリ類)の小さな甲虫。全体が黒っぽく、首(前胸)が細くくびれる。メスが葉を切って巻き上げ、その中に産卵する。幼虫は巻かれた葉の中で葉を食べて育つ。",
+      "habitat_hint": "コナラ・クヌギなどブナ科の林、林縁。",
+      "finding_tips": "初夏、コナラの葉で、葉を筒状に巻いた「揺籃」と、首の細い黒い小さな甲虫を探す。巻かれた葉と黒い体が手がかり。"
+    },
+    "en": {
+      "summary": "A leaf-rolling weevil (コナライクビチョッキリ, Deporaus, Attelabidae), a small beetle that rolls oak and other Fagaceae leaves into a 'cradle'; it is darkish overall with a slender constricted neck (pronotum). The female cuts and rolls a leaf and lays eggs inside, and the larva feeds within the rolled leaf.",
+      "habitat_hint": "Oak (Quercus) and other Fagaceae woods and edges.",
+      "finding_tips": "In early summer on oak leaves look for tube-rolled leaf 'cradles' and a slender-necked black small beetle; the rolled leaf and black body are the clue."
+    },
+    "zh": {
+      "summary": "黑色切叶象（コナライクビチョッキリ）。卷叶象科（切叶象类）之小甲虫，卷枹栎等壳斗科之叶成「摇篮」，体偏黑、颈（前胸）细缢，雌切叶卷之而产卵于内，幼虫于卷叶中食叶而长。",
+      "habitat_hint": "枹栎、麻栎等壳斗科之林、林缘。",
+      "finding_tips": "初夏于枹栎叶寻筒卷之叶「摇篮」与颈细之黑色小甲虫；卷叶与黑体为线索。"
+    }
+  },
+  "Dermestes coarctatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hide beetle",
+    "aliases": {
+      "zh-Hans": "双带皮蠹"
+    },
+    "ja": {
+      "summary": "カドムネカツオブシムシ。動物の死体や乾燥した肉、皮、羽毛などに集まるカツオブシムシ科(ヒョウホンムシに近い)の甲虫。体は黒っぽく、短い毛におおわれる。幼虫が乾いた動物質を食べる分解者で、標本や毛皮、貯蔵食品を食害する害虫にもなる。動物遺体の白骨化にも関わる。",
+      "habitat_hint": "動物の死体、乾燥肉・皮・羽毛、倉庫、標本。",
+      "finding_tips": "動物の死体や乾いた獣皮のまわりで、黒っぽく短毛におおわれた小さな甲虫と、毛深い幼虫を探す。乾燥動物質に集まる点が手がかり。"
+    },
+    "en": {
+      "summary": "A hide beetle (カドムネカツオブシムシ, Dermestes, Dermestidae) that gathers at carcasses and dried meat, hide and feathers; the body is darkish and clothed in short hairs. A decomposer whose larvae eat dried animal matter, it is also a pest of specimens, furs and stored food, and takes part in skeletonising carcasses.",
+      "habitat_hint": "Carcasses, dried meat/hide/feathers, warehouses and specimens.",
+      "finding_tips": "Around carcasses and dried hide look for a darkish short-haired small beetle and hairy larvae; gathering at dried animal matter is the clue."
+    },
+    "zh": {
+      "summary": "双带皮蠹（カドムネカツオブシムシ）。皮蠹科之甲虫，聚于动物尸体、干肉、皮、羽，体偏黑、被短毛，幼虫食干动物质、为分解者，亦害标本、毛皮与贮藏食品，且参与尸体白骨化。",
+      "habitat_hint": "动物尸体、干肉皮羽、仓库、标本。",
+      "finding_tips": "于尸体、干兽皮旁寻偏黑被短毛之小甲虫与多毛之幼虫；聚于干动物质为线索。"
+    }
+  },
+  "Desmarestia viridis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Acid weed",
+    "ja": {
+      "summary": "ケウルシグサ。冷ための海の岩礁に生える褐藻の海藻。細い主軸から羽状に細かく枝分かれし、房状にふさふさと広がる。細胞の中に硫酸をため込んでいて、採ると自分や周りの海藻を酸で傷めることがある(酸性の海藻)。春に育ち、水温が上がると衰える。",
+      "habitat_hint": "冷ための海の岩礁、藻場(春に多い)。",
+      "finding_tips": "春、岩礁で細い軸から羽状に細かく枝分かれする房状の褐藻を探す。細かい羽状の枝が手がかり。採ると酸で傷むので注意。"
+    },
+    "en": {
+      "summary": "Acid weed (ケウルシグサ, Desmarestia viridis), a brown alga growing on rock in cooler seas; from a slender main axis it branches finely and pinnately into bushy tufts. It stores sulphuric acid in its cells, so when collected it can damage itself and nearby seaweeds with acid. It grows in spring and declines as the water warms.",
+      "habitat_hint": "Rocky reef in cooler seas and weed beds (mostly spring).",
+      "finding_tips": "In spring on reef rock look for a bushy brown alga finely and pinnately branched from a slender axis; the fine pinnate branching is the clue — it releases acid when cut."
+    },
+    "zh": {
+      "summary": "ケウルシグサ。褐藻，生较冷海之岩礁，自细主轴羽状细分枝、成丛蓬松，细胞内蓄硫酸、采时可以酸伤己及邻藻（酸性海藻），春长、水温升则衰。",
+      "habitat_hint": "较冷海之岩礁、藻场（多见于春）。",
+      "finding_tips": "春于礁岩寻自细轴羽状细分枝而成丛之褐藻；细羽状之枝为线索——采则出酸，须注意。"
+    }
+  },
+  "Diacria trispinosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea butterfly",
+    "ja": {
+      "summary": "ヒラカメガイ。外洋の表層をただよって暮らすカメガイ類(有殻翼足類)の小さな巻貝の仲間。透明でガラス質の平たい殻をもち、うしろに3本のとげ状の突起がある(名の由来)。足が翼のように変化し、はばたいて泳ぐ。プランクトンとして海中をただよい、微小な餌をとらえて食べる。",
+      "habitat_hint": "外洋の表層(プランクトンとして漂う)。",
+      "finding_tips": "プランクトンネットの採集物や海面近くで、透明で平たくうしろに3本のとげのあるごく小さな殻を探す。3本のとげのある透明な殻が手がかり。"
+    },
+    "en": {
+      "summary": "A sea butterfly (ヒラカメガイ, Diacria trispinosa), a small shelled pteropod snail drifting in the open-ocean surface; it has a transparent glassy flattened shell with three spine-like projections at the rear (the source of the name). Its foot is modified into wings and it 'flies' to swim, drifting as plankton and catching minute food.",
+      "habitat_hint": "Open-ocean surface (drifting as plankton).",
+      "finding_tips": "In plankton-net catches or near the surface look for a very small transparent flattened shell with three rear spines; the three-spined transparent shell is the clue."
+    },
+    "zh": {
+      "summary": "ヒラカメガイ。龟螺类（有壳翼足类）之小螺，漂浮于外洋表层，具透明玻璃质之扁壳、后端具三刺状突起（和名之由来），足特化如翼、振翅而泳，随浮游漂流、捕微小之食。",
+      "habitat_hint": "外洋表层（随浮游漂流）。",
+      "finding_tips": "于浮游拖网获物或近海面寻透明扁而后具三刺之极小壳；三刺之透明壳为线索。"
+    }
   }
 }
