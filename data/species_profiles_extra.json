@@ -288400,5 +288400,537 @@
       "habitat_hint": "山地至丘陵落叶阔叶林、林缘。",
       "finding_tips": "早春夜于灯下寻灰底具木纹状纹之中大型夜蛾；细波状木纹为辨识点。"
     }
+  },
+  "Brachystomia bipyramidata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Parasitic pyram snail",
+    "ja": {
+      "summary": "カキウラクチキレモドキ。カキやその他の二枚貝の殻表につく、ごく小さな白い巻貝(クチキレモドキ科・トウガタガイ類)。殻は数mmで細長い塔形をなす。口吻を宿主に差し込んで体液を吸う外部寄生者で、しばしばカキ養殖の付着生物として見つかる。",
+      "habitat_hint": "潮間帯〜浅海の岩礁・養殖棚、カキなど二枚貝の殻表。",
+      "finding_tips": "カキやイガイの殻の表面を探し、数mmの細長い白い塔形の小さな巻貝を見つける。宿主に付いている点と塔形の殻が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny white parasitic snail (Amathinidae/pyram allies) living on the shells of oysters and other bivalves; the slender tower-shaped shell is only a few millimetres. It is an ectoparasite that inserts a proboscis into the host to suck body fluid, and is often found as a fouling organism in oyster culture.",
+      "habitat_hint": "Intertidal to shallow rocky reef and culture racks, on shells of oysters and other bivalves.",
+      "finding_tips": "Search the surface of oyster and mussel shells for a few-millimetre slender white tower-shaped snail; attachment to the host and the tower shell are the clues."
+    },
+    "zh": {
+      "summary": "カキウラクチキレモドキ。栖牡蛎等二枚贝壳面之极小白色螺（塔螺类近缘），壳仅数毫米、细长塔形。以口吻插入宿主吸取体液之外寄生者，常见于牡蛎养殖之附着生物。",
+      "habitat_hint": "潮间带至浅海岩礁与养殖棚，牡蛎等二枚贝壳面。",
+      "finding_tips": "于牡蛎、贻贝壳面寻数毫米之细长白色塔形小螺；附于宿主与塔形壳为线索。"
+    }
+  },
+  "Brachythecium noesicum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Feather moss",
+    "ja": {
+      "summary": "エゾヤノネゴケ。北日本などの湿った林床や岩上、腐木上にはう蘚類(アオギヌゴケ科)。マット状〜からむように群生し、湿った環境を好むごく小さなコケ(蘚類)で、他のコケや基物の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "湿った林床、岩上、腐木上。",
+      "finding_tips": "湿った湿った林床、岩上、腐木上。で緑〜黄緑色のマット状のコケを探す。近縁種が多く正確な同定には葉の細胞や中肋の観察が要る。"
+    },
+    "en": {
+      "summary": "Feather moss (エゾヤノネゴケ). A feather moss (Brachytheciaceae) creeping over damp forest floor, rocks and rotten wood in northern Japan and elsewhere. A small moss forming mats or intertwined turfs in damp places; relatives are usually separated by microscopic leaf characters.",
+      "habitat_hint": "damp forest floor, rocks and rotten wood",
+      "finding_tips": "In damp damp forest floor, rocks and rotten wood look for green to yellow-green moss mats; accurate ID of these relatives needs leaf-cell and costa detail."
+    },
+    "zh": {
+      "summary": "エゾヤノネゴケ。青绢藓科之藓类，匍匐于北日本等湿润林床、岩上与腐木。喜湿之小型藓类，成垫状或交织之毡状群生，近缘种多以显微叶部特征区分。",
+      "habitat_hint": "湿润林床、岩上、腐木。",
+      "finding_tips": "于潮湿之湿润林床、岩上、腐木。寻绿至黄绿色藓垫；近缘种之准确鉴定需观叶细胞与中肋。"
+    }
+  },
+  "Brachythecium rivulare": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "River feather-moss",
+    "ja": {
+      "summary": "タニゴケ。谷川や湧水のふちなど水辺の岩や地表を覆う、光沢のある明るい緑のアオギヌゴケ科の蘚類。マット状〜からむように群生し、湿った環境を好むごく小さなコケ(蘚類)で、他のコケや基物の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "谷川・湧水のふちの岩や湿った地表。",
+      "finding_tips": "湿った谷川・湧水のふちの岩や湿った地表。で緑〜黄緑色のマット状のコケを探す。近縁種が多く正確な同定には葉の細胞や中肋の観察が要る。"
+    },
+    "en": {
+      "summary": "River feather-moss (タニゴケ). A glossy bright-green feather moss (Brachytheciaceae) coating rocks and ground beside streams and springs. A small moss forming mats or intertwined turfs in damp places; relatives are usually separated by microscopic leaf characters.",
+      "habitat_hint": "rocks and moist ground by streams and springs",
+      "finding_tips": "In damp rocks and moist ground by streams and springs look for green to yellow-green moss mats; accurate ID of these relatives needs leaf-cell and costa detail."
+    },
+    "zh": {
+      "summary": "タニゴケ。青绢藓科之藓类，覆于溪流、泉边水湿之岩石与地表，色亮绿而具光泽。喜湿之小型藓类，成垫状或交织之毡状群生，近缘种多以显微叶部特征区分。",
+      "habitat_hint": "溪流、泉边之岩石与湿地。",
+      "finding_tips": "于潮湿之溪流、泉边之岩石与湿地。寻绿至黄绿色藓垫；近缘种之准确鉴定需观叶细胞与中肋。"
+    }
+  },
+  "Brachyxanthia zelotypa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yellow noctuid moth",
+    "ja": {
+      "summary": "キイロトガリヨトウ。前翅がくすんだ黄色〜黄褐色をした中型のヤガ科(ヨトウ類)のガ。名(尖り夜盗)のとおり翅の先がやや尖る。成虫は主に秋に出現し、夜間に灯火へ飛来する。幼虫は各種の草本の葉を食べる。",
+      "habitat_hint": "草地、林縁、湿地まわりの明るい環境。",
+      "finding_tips": "秋の夜、灯火などでくすんだ黄色をした翅先の尖る中型のヤガを探す。黄色い地色が手がかり。"
+    },
+    "en": {
+      "summary": "A medium-sized noctuid moth (キイロトガリヨトウ) with dull yellow to yellow-brown forewings that are slightly pointed at the tip, as the Japanese name ('pointed cutworm') implies. Adults fly mainly in autumn and come to lights at night; larvae feed on the leaves of various herbs.",
+      "habitat_hint": "Grassland, woodland edges and open ground around wetlands.",
+      "finding_tips": "On autumn nights at lights look for a medium noctuid with dull yellow, slightly pointed wings; the yellow ground colour is the clue."
+    },
+    "zh": {
+      "summary": "キイロトガリヨトウ。夜蛾科（夜盗类）之中型蛾，前翅暗黄至黄褐、翅端略尖（和名意为尖夜盗），成虫多秋出现、夜间趋光，幼虫食各种草本之叶。",
+      "habitat_hint": "草地、林缘、湿地周边明亮之地。",
+      "finding_tips": "秋夜于灯下寻暗黄而翅端略尖之中型夜蛾；黄色底色为线索。"
+    }
+  },
+  "Bridelia insulana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Island bridelia",
+    "ja": {
+      "summary": "マルヤマカンコノキ。南西諸島などの常緑林に生えるコミカンソウ科(旧トウダイグサ科)の小高木。葉は楕円形でやや厚く、両面とも無毛に近い。小さく目立たない花をつけ、丸い小さな果実は熟すと黒っぽくなる。",
+      "habitat_hint": "南西諸島の常緑広葉樹林、林縁。",
+      "finding_tips": "沖縄など亜熱帯の林で、楕円形の葉を互生する小高木を探す。丸く小さな果実が手がかり(近縁のカンコノキ類と葉で区別)。"
+    },
+    "en": {
+      "summary": "A small tree (マルヤマカンコノキ, Phyllanthaceae) of evergreen forests in the Ryukyus and nearby; the elliptic leaves are slightly thick and nearly hairless on both sides. It bears small inconspicuous flowers and small round fruit that ripen dark.",
+      "habitat_hint": "Ryukyu evergreen broadleaf forest and edges.",
+      "finding_tips": "In subtropical woods of Okinawa look for a small tree with alternate elliptic leaves; the small round fruit is a clue (leaves separate it from related Glochidion)."
+    },
+    "zh": {
+      "summary": "マルヤマカンコノキ。叶下珠科之小乔木，生于西南诸岛等地常绿林，叶椭圆略厚、两面近无毛，花小不显，果小而圆、熟时转暗。",
+      "habitat_hint": "西南诸岛常绿阔叶林、林缘。",
+      "finding_tips": "于冲绳等亚热带林寻互生椭圆叶之小乔木；小圆果为线索（叶可与近缘算盘子属区分）。"
+    }
+  },
+  "Bromus rubens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "チャボチャヒキ。地中海地方原産で各地に帰化した一年生のイネ科(スズメノチャヒキ属)の草。高さは低め(数十cm)で、赤紫色を帯びた密な穂(花序)を直立してつけるのが特徴。荒れ地や道ばた、乾いた造成地に生える。",
+      "habitat_hint": "道ばた、荒れ地、乾いた造成地・空き地。",
+      "finding_tips": "初夏、赤紫色を帯びた密な直立の穂をもつ低いイネ科の草を探す。密で赤みを帯びた穂が識別点。"
+    },
+    "en": {
+      "summary": "Red brome (チャボチャヒキ), an annual grass (Bromus) native to the Mediterranean and naturalised widely; a low plant (a few tens of cm) with a dense, erect, purplish-red flower head. It grows on waste ground, roadsides and dry disturbed sites.",
+      "habitat_hint": "Roadsides, waste ground, dry disturbed lots.",
+      "finding_tips": "In early summer look for a low grass with a dense, erect, purplish-red head; the dense reddish spike is diagnostic."
+    },
+    "zh": {
+      "summary": "红雀麦（チャボチャヒキ）。禾本科雀麦属一年生草，原产地中海、各地归化，株矮（数十厘米），花序密而直立、带紫红色，生于荒地、路旁与干燥造地。",
+      "habitat_hint": "路旁、荒地、干燥造地与空地。",
+      "finding_tips": "初夏寻具密而直立、带紫红穗之矮禾草；密而带红之穗为辨识点。"
+    }
+  },
+  "Brugmansia suaveolens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "キダチチョウセンアサガオ。南米原産で観賞用に栽培されるナス科の低木。長さ20〜30cmもある大きなラッパ形の花を下向きに垂らし、白〜淡黄色で甘い香りを放つ。全草にアルカロイドを含む有毒植物で、口にすると強い中毒を起こすため注意。",
+      "habitat_hint": "公園・庭の植栽、暖地の逸出地。",
+      "finding_tips": "夏〜秋、下向きに垂れる巨大なラッパ形の白い花を探す。大きな垂れ下がる花が目印。有毒なので触れても口に入れない。"
+    },
+    "en": {
+      "summary": "Angel's trumpet (キダチチョウセンアサガオ), a South-American shrub (Solanaceae) grown as an ornamental; it hangs huge trumpet flowers 20–30 cm long, white to pale yellow and sweetly fragrant. The whole plant contains alkaloids and is poisonous, causing severe intoxication if eaten.",
+      "habitat_hint": "Park and garden plantings; escapes in warm areas.",
+      "finding_tips": "In summer–autumn look for enormous pendent white trumpet flowers; the large hanging blooms are the mark — do not ingest, it is toxic."
+    },
+    "zh": {
+      "summary": "大花木曼陀罗（キダチチョウセンアサガオ）。茄科灌木，原产南美、供观赏栽培，垂挂长20~30厘米之巨大喇叭形花，白至淡黄、香甜。全株含生物碱有毒，误食致重度中毒，须警惕。",
+      "habitat_hint": "公园、庭园栽培；暖地逸出。",
+      "finding_tips": "夏至秋寻下垂之巨大白色喇叭花；大而垂之花为标志——有毒，勿入口。"
+    }
+  },
+  "Bryum auratum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bryum moss",
+    "ja": {
+      "summary": "ヒメギンゴケモドキ。道ばたや石垣、地表などにこんもりと群生する、銀緑色を帯びたごく小さなハリガネゴケ科(ハリガネゴケ属)の蘚類。マット状〜からむように群生し、湿った環境を好むごく小さなコケ(蘚類)で、他のコケや基物の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "道ばた、石垣、裸地。",
+      "finding_tips": "湿った道ばた、石垣、裸地。で緑〜黄緑色のマット状のコケを探す。近縁種が多く正確な同定には葉の細胞や中肋の観察が要る。"
+    },
+    "en": {
+      "summary": "Bryum moss (ヒメギンゴケモドキ). A tiny silvery-green moss (Bryum, Bryaceae) forming low cushions on roadsides, stone walls and bare ground. A small moss forming mats or intertwined turfs in damp places; relatives are usually separated by microscopic leaf characters.",
+      "habitat_hint": "roadsides, stone walls and bare ground",
+      "finding_tips": "In damp roadsides, stone walls and bare ground look for green to yellow-green moss mats; accurate ID of these relatives needs leaf-cell and costa detail."
+    },
+    "zh": {
+      "summary": "ヒメギンゴケモドキ。真藓科真藓属之极小藓类，成低垫状群生于路旁、石墙与裸地，色带银绿。喜湿之小型藓类，成垫状或交织之毡状群生，近缘种多以显微叶部特征区分。",
+      "habitat_hint": "路旁、石墙、裸地。",
+      "finding_tips": "于潮湿之路旁、石墙、裸地。寻绿至黄绿色藓垫；近缘种之准确鉴定需观叶细胞与中肋。"
+    }
+  },
+  "Buccinum ochotense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Okhotsk whelk",
+    "ja": {
+      "summary": "オホーツクバイ。冷たい海の砂泥底にすむエゾバイ科(バイ類)の中〜大型の巻貝で、殻は厚く紡錘形。オホーツク海など北方の冷たい海に分布する。肉食性で、死んだ魚やゴカイなどをかぎつけて食べる腐肉食者でもあり、かご網で漁獲され食用にされるものが多い。",
+      "habitat_hint": "冷水域の砂泥底(やや深い海)。",
+      "finding_tips": "水産物として売られる殻つきのバイ類、あるいは浜に打ち上げられた厚い紡錘形の殻を探す。殻の形と彫刻が近縁種の識別点。"
+    },
+    "en": {
+      "summary": "Okhotsk whelk (オホーツクバイ), a medium to large whelk (Buccinidae) of cold-water sand-mud bottoms with a thick fusiform shell. found in the cold northern seas such as the Sea of Okhotsk. It is a carnivore and scavenger that scents out dead fish and worms, and many species are trapped and eaten.",
+      "habitat_hint": "Cold-water sand-mud bottoms, moderately deep.",
+      "finding_tips": "Look for shelled whelks sold as seafood, or thick fusiform shells cast up on the shore; shell shape and sculpture separate the relatives."
+    },
+    "zh": {
+      "summary": "オホーツクバイ。峨螺科（蛾螺类）之中至大型螺，栖冷水砂泥底，壳厚呈纺锤形。分布于鄂霍次克海等北方冷海。肉食兼腐食，嗅寻死鱼与沙蚕为食，多以笼网捕捞供食用。",
+      "habitat_hint": "冷水海域砂泥底（较深处）。",
+      "finding_tips": "寻市售带壳之峨螺，或滩上冲积之厚纺锤形壳；壳形与雕刻为近缘种辨识点。"
+    }
+  },
+  "Buccinum opisoplectum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Constricted whelk",
+    "ja": {
+      "summary": "クビレバイ。冷たい海の砂泥底にすむエゾバイ科(バイ類)の中〜大型の巻貝で、殻は厚く紡錘形。殻の各層のあいだが締まって「くびれ」て見えるのが名の由来。肉食性で、死んだ魚やゴカイなどをかぎつけて食べる腐肉食者でもあり、かご網で漁獲され食用にされるものが多い。",
+      "habitat_hint": "冷水域の砂泥底(やや深い海)。",
+      "finding_tips": "水産物として売られる殻つきのバイ類、あるいは浜に打ち上げられた厚い紡錘形の殻を探す。殻の形と彫刻が近縁種の識別点。"
+    },
+    "en": {
+      "summary": "Constricted whelk (クビレバイ), a medium to large whelk (Buccinidae) of cold-water sand-mud bottoms with a thick fusiform shell. named for the constricted look between the shell whorls. It is a carnivore and scavenger that scents out dead fish and worms, and many species are trapped and eaten.",
+      "habitat_hint": "Cold-water sand-mud bottoms, moderately deep.",
+      "finding_tips": "Look for shelled whelks sold as seafood, or thick fusiform shells cast up on the shore; shell shape and sculpture separate the relatives."
+    },
+    "zh": {
+      "summary": "クビレバイ。峨螺科（蛾螺类）之中至大型螺，栖冷水砂泥底，壳厚呈纺锤形。各层间收束如缢、名之由来。肉食兼腐食，嗅寻死鱼与沙蚕为食，多以笼网捕捞供食用。",
+      "habitat_hint": "冷水海域砂泥底（较深处）。",
+      "finding_tips": "寻市售带壳之峨螺，或滩上冲积之厚纺锤形壳；壳形与雕刻为近缘种辨识点。"
+    }
+  },
+  "Buccinum striatissimum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Etchu whelk",
+    "ja": {
+      "summary": "エッチュウバイ。冷たい海の砂泥底にすむエゾバイ科(バイ類)の中〜大型の巻貝で、殻は厚く紡錘形。日本海側の深い砂泥底にすみ、身が大きく食用として珍重される(白バイの一つ)。肉食性で、死んだ魚やゴカイなどをかぎつけて食べる腐肉食者でもあり、かご網で漁獲され食用にされるものが多い。",
+      "habitat_hint": "冷水域の砂泥底(やや深い海)。",
+      "finding_tips": "水産物として売られる殻つきのバイ類、あるいは浜に打ち上げられた厚い紡錘形の殻を探す。殻の形と彫刻が近縁種の識別点。"
+    },
+    "en": {
+      "summary": "Etchu whelk (エッチュウバイ), a medium to large whelk (Buccinidae) of cold-water sand-mud bottoms with a thick fusiform shell. living on deep sand-mud bottoms of the Japan Sea; large-bodied and prized as food (a 'white bai'). It is a carnivore and scavenger that scents out dead fish and worms, and many species are trapped and eaten.",
+      "habitat_hint": "Cold-water sand-mud bottoms, moderately deep.",
+      "finding_tips": "Look for shelled whelks sold as seafood, or thick fusiform shells cast up on the shore; shell shape and sculpture separate the relatives."
+    },
+    "zh": {
+      "summary": "エッチュウバイ。峨螺科（蛾螺类）之中至大型螺，栖冷水砂泥底，壳厚呈纺锤形。栖日本海侧深砂泥底，肉大而供食用（白蛾螺之一）。肉食兼腐食，嗅寻死鱼与沙蚕为食，多以笼网捕捞供食用。",
+      "habitat_hint": "冷水海域砂泥底（较深处）。",
+      "finding_tips": "寻市售带壳之峨螺，或滩上冲积之厚纺锤形壳；壳形与雕刻为近缘种辨识点。"
+    }
+  },
+  "Buccinum verkruezeni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sakhalin whelk",
+    "ja": {
+      "summary": "オオカラフトバイ。冷たい海の砂泥底にすむエゾバイ科(バイ類)の中〜大型の巻貝で、殻は厚く紡錘形。北方の冷たい海に分布する大型のバイで、殻の表面はやや粗い。肉食性で、死んだ魚やゴカイなどをかぎつけて食べる腐肉食者でもあり、かご網で漁獲され食用にされるものが多い。",
+      "habitat_hint": "冷水域の砂泥底(やや深い海)。",
+      "finding_tips": "水産物として売られる殻つきのバイ類、あるいは浜に打ち上げられた厚い紡錘形の殻を探す。殻の形と彫刻が近縁種の識別点。"
+    },
+    "en": {
+      "summary": "Sakhalin whelk (オオカラフトバイ), a medium to large whelk (Buccinidae) of cold-water sand-mud bottoms with a thick fusiform shell. a large northern cold-water whelk with a somewhat rough shell surface. It is a carnivore and scavenger that scents out dead fish and worms, and many species are trapped and eaten.",
+      "habitat_hint": "Cold-water sand-mud bottoms, moderately deep.",
+      "finding_tips": "Look for shelled whelks sold as seafood, or thick fusiform shells cast up on the shore; shell shape and sculpture separate the relatives."
+    },
+    "zh": {
+      "summary": "オオカラフトバイ。峨螺科（蛾螺类）之中至大型螺，栖冷水砂泥底，壳厚呈纺锤形。北方冷海之大型蛾螺，壳面略粗。肉食兼腐食，嗅寻死鱼与沙蚕为食，多以笼网捕捞供食用。",
+      "habitat_hint": "冷水海域砂泥底（较深处）。",
+      "finding_tips": "寻市售带壳之峨螺，或滩上冲积之厚纺锤形壳；壳形与雕刻为近缘种辨识点。"
+    }
+  },
+  "Bucklandiella laeta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock moss",
+    "ja": {
+      "summary": "トカチスナゴケ。山地の日当たりのよい岩上に黒緑色のクッション状に群生するギボウシゴケ科の蘚類。マット状〜からむように群生し、湿った環境を好むごく小さなコケ(蘚類)で、他のコケや基物の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "山地の日当たりのよい岩上。",
+      "finding_tips": "湿った山地の日当たりのよい岩上。で緑〜黄緑色のマット状のコケを探す。近縁種が多く正確な同定には葉の細胞や中肋の観察が要る。"
+    },
+    "en": {
+      "summary": "Rock moss (トカチスナゴケ). A dark-green cushion moss (Grimmiaceae) growing on sunny montane rocks. A small moss forming mats or intertwined turfs in damp places; relatives are usually separated by microscopic leaf characters.",
+      "habitat_hint": "sunny montane rocks",
+      "finding_tips": "In damp sunny montane rocks look for green to yellow-green moss mats; accurate ID of these relatives needs leaf-cell and costa detail."
+    },
+    "zh": {
+      "summary": "トカチスナゴケ。紫萼藓科之藓类，成暗绿垫状生于山地向阳岩面。喜湿之小型藓类，成垫状或交织之毡状群生，近缘种多以显微叶部特征区分。",
+      "habitat_hint": "山地向阳岩面。",
+      "finding_tips": "于潮湿之山地向阳岩面。寻绿至黄绿色藓垫；近缘种之准确鉴定需观叶细胞与中肋。"
+    }
+  },
+  "Bufo bufo": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "European common toad",
+    "ja": {
+      "summary": "ヨーロッパヒキガエル。ヨーロッパから西アジアに広く分布するヒキガエル科のカエル(日本には自然分布しない)。体はずんぐりして皮膚はいぼ状、褐色〜灰褐色。夜行性で、目の後ろの耳腺から出す分泌液は有毒。ゆっくり歩き、繁殖期に水辺へ集まる。",
+      "habitat_hint": "森林、草地、庭、池のまわり(ヨーロッパ〜西アジア)。",
+      "finding_tips": "夜、地面をのそのそ歩くいぼ状の皮膚をもつ褐色のカエルを探す。ずんぐりした体と耳腺が手がかり。分泌液は有毒なので触れたら手を洗う。"
+    },
+    "en": {
+      "summary": "The European common toad (Bufo bufo), a toad (Bufonidae) widespread from Europe to western Asia (not native to Japan). It is squat with warty brown to grey-brown skin; nocturnal, with toxic secretion from the paratoid glands behind the eyes. It walks slowly and gathers at water to breed.",
+      "habitat_hint": "Woodland, grassland, gardens and pond margins (Europe to western Asia).",
+      "finding_tips": "At night look for a squat brown toad with warty skin plodding over the ground; the stout body and paratoid glands are the clue — the secretion is toxic, wash hands after handling."
+    },
+    "zh": {
+      "summary": "欧洲蟾蜍（ヨーロッパヒキガエル）。蟾蜍科，广布欧洲至西亚（非日本原生）。体粗壮、皮肤具疣、褐至灰褐，夜行性，眼后耳腺分泌物有毒，行动迟缓，繁殖期聚于水边。",
+      "habitat_hint": "森林、草地、庭园、池畔（欧洲至西亚）。",
+      "finding_tips": "夜寻皮肤具疣、缓行于地之褐色蟾蜍；粗壮之体与耳腺为线索——分泌物有毒，触后洗手。"
+    }
+  },
+  "Cadella delta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small tellin",
+    "ja": {
+      "summary": "クサビザラ。潮間帯〜浅海の砂底にすむニッコウガイ科の小さな二枚貝。殻は薄く、名(楔・くさび)のとおりやや三角形をおびて後ろがすぼまる。白っぽく、水管を伸ばして海底の有機物(デトリタス)を吸い込んで食べる。",
+      "habitat_hint": "潮間帯〜浅海の砂底。",
+      "finding_tips": "干潟や砂浜で、白っぽくやや三角形をした薄い小さな二枚貝の殻を探す。楔形の薄い殻が手がかり。"
+    },
+    "en": {
+      "summary": "A small tellin bivalve (クサビザラ, Tellinidae) of intertidal to shallow sand bottoms; the shell is thin and, as the Japanese name ('wedge') implies, somewhat triangular and narrowed behind. It is whitish and feeds by extending siphons to draw in seabed detritus.",
+      "habitat_hint": "Intertidal to shallow sand bottoms.",
+      "finding_tips": "On tidal flats and sandy beaches look for a whitish, somewhat triangular thin small bivalve shell; the thin wedge shape is the clue."
+    },
+    "zh": {
+      "summary": "クサビザラ。樱蛤科之小型二枚贝，栖潮间带至浅海砂底，壳薄、如楔（和名）略呈三角、后端渐窄，色偏白，伸水管吸食海底有机碎屑。",
+      "habitat_hint": "潮间带至浅海砂底。",
+      "finding_tips": "于滩涂、砂滩寻偏白、略三角之薄小二枚贝壳；楔形薄壳为线索。"
+    }
+  },
+  "Calcinus gaimardii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gaimard's hermit crab",
+    "ja": {
+      "summary": "セグロサンゴヤドカリ。サンゴ礁の浅瀬にすむホンヤドカリ科(サンゴヤドカリ属)のヤドカリ。脚は濃い色で、名(背黒)のとおり体の背側が暗色を帯び、触角がオレンジ色をおびる個体が多い。巻貝の殻を宿にし、岩やサンゴの表面の藻や有機物を食べる。",
+      "habitat_hint": "サンゴ礁・岩礁の潮だまり、浅い海。",
+      "finding_tips": "サンゴ礁の潮だまりで、巻貝の殻を背負い濃い色の脚とオレンジの触角をもつヤドカリを探す。背側の暗色が手がかり。"
+    },
+    "en": {
+      "summary": "Gaimard's hermit crab (セグロサンゴヤドカリ, Calcinus), a hermit crab of shallow coral reefs; the legs are dark and the body dark above (as the Japanese name 'black-backed' implies), often with orange antennae. It occupies snail shells and grazes algae and organic matter off rock and coral.",
+      "habitat_hint": "Coral and rocky reef tide pools and shallow sea.",
+      "finding_tips": "In reef tide pools look for a hermit crab in a snail shell with dark legs and orange antennae; the dark back is the clue."
+    },
+    "zh": {
+      "summary": "セグロサンゴヤドカリ。活额寄居蟹科（珊瑚寄居蟹属），栖珊瑚礁浅处，足深色、背暗（和名意为背黑），触角常橙色，居螺壳中、刮食岩与珊瑚面之藻与有机物。",
+      "habitat_hint": "珊瑚礁、岩礁潮池与浅海。",
+      "finding_tips": "于礁区潮池寻背螺壳、足深色而触角橙之寄居蟹；背侧暗色为线索。"
+    }
+  },
+  "Callicladium fujiyamae": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Feather moss",
+    "ja": {
+      "summary": "フジハイゴケ。低地〜山地の腐木や樹幹の根ぎわ、岩上をはってマット状に広がる光沢のあるハイゴケ科の蘚類。マット状〜からむように群生し、湿った環境を好むごく小さなコケ(蘚類)で、他のコケや基物の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "腐木、樹幹の根ぎわ、岩上。",
+      "finding_tips": "湿った腐木、樹幹の根ぎわ、岩上。で緑〜黄緑色のマット状のコケを探す。近縁種が多く正確な同定には葉の細胞や中肋の観察が要る。"
+    },
+    "en": {
+      "summary": "Feather moss (フジハイゴケ). A glossy mat-forming moss (Hypnaceae) creeping over rotten wood, tree bases and rocks from lowland to montane areas. A small moss forming mats or intertwined turfs in damp places; relatives are usually separated by microscopic leaf characters.",
+      "habitat_hint": "rotten wood, tree bases and rocks",
+      "finding_tips": "In damp rotten wood, tree bases and rocks look for green to yellow-green moss mats; accurate ID of these relatives needs leaf-cell and costa detail."
+    },
+    "zh": {
+      "summary": "フジハイゴケ。灰藓科之藓类，具光泽、匍匐成垫状于腐木、树基与岩面，见于低地至山地。喜湿之小型藓类，成垫状或交织之毡状群生，近缘种多以显微叶部特征区分。",
+      "habitat_hint": "腐木、树基、岩面。",
+      "finding_tips": "于潮湿之腐木、树基、岩面。寻绿至黄绿色藓垫；近缘种之准确鉴定需观叶细胞与中肋。"
+    }
+  },
+  "Calliergonella lindbergii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lindberg's moss",
+    "ja": {
+      "summary": "エゾハイゴケ。湿った地表や水辺、湿地にマット状に広がる、やや太めの茎をもつ蘚類。マット状〜からむように群生し、湿った環境を好むごく小さなコケ(蘚類)で、他のコケや基物の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "湿った地表、水辺、湿地。",
+      "finding_tips": "湿った湿った地表、水辺、湿地。で緑〜黄緑色のマット状のコケを探す。近縁種が多く正確な同定には葉の細胞や中肋の観察が要る。"
+    },
+    "en": {
+      "summary": "Lindberg's moss (エゾハイゴケ). A rather stout-stemmed moss forming mats on damp ground, waterside and wetlands. A small moss forming mats or intertwined turfs in damp places; relatives are usually separated by microscopic leaf characters.",
+      "habitat_hint": "damp ground, waterside and wetlands",
+      "finding_tips": "In damp damp ground, waterside and wetlands look for green to yellow-green moss mats; accurate ID of these relatives needs leaf-cell and costa detail."
+    },
+    "zh": {
+      "summary": "エゾハイゴケ。茎略粗之藓类，成垫状于湿润地表、水边与湿地。喜湿之小型藓类，成垫状或交织之毡状群生，近缘种多以显微叶部特征区分。",
+      "habitat_hint": "湿润地表、水边、湿地。",
+      "finding_tips": "于潮湿之湿润地表、水边、湿地。寻绿至黄绿色藓垫；近缘种之准确鉴定需观叶细胞与中肋。"
+    }
+  },
+  "Callionymus enneactis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dragonet",
+    "ja": {
+      "summary": "ハナビヌメリ。浅い海の砂底にすむネズッポ科(ヌメリゴチ類)の小型の魚。体はうろこがなくぬめり、頭は平たく、砂に紛れる地味な斑紋をもつ。名(花火)のように、ひれに細かな斑点が散る。砂の上で小さな底生動物をついばんで食べる。",
+      "habitat_hint": "内湾〜浅海の砂底。",
+      "finding_tips": "浅い砂底で、頭が平たくぬめる地味な小魚を探す。ひれに散る細かな斑点が手がかり(近縁種はひれの模様で区別)。"
+    },
+    "en": {
+      "summary": "A small dragonet (ハナビヌメリ, Callionymidae) of shallow sand bottoms; the scaleless body is slimy, the head flattened, and the drab pattern blends with sand. As the Japanese name ('firework') suggests, its fins are dotted with fine spots. It picks small bottom animals off the sand.",
+      "habitat_hint": "Sheltered bays to shallow sand bottoms.",
+      "finding_tips": "On shallow sand look for a small slimy flat-headed fish; the fine spots scattered on the fins are the clue (relatives separated by fin pattern)."
+    },
+    "zh": {
+      "summary": "ハナビヌメリ。䲗科（鼠䲗类）之小型鱼，栖浅海砂底，体无鳞而黏滑、头扁、斑纹晦暗拟砂，鳍散细点（和名意为烟花），于砂面啄食小型底栖动物。",
+      "habitat_hint": "内湾至浅海砂底。",
+      "finding_tips": "于浅砂寻头扁、黏滑之晦暗小鱼；鳍上散布之细点为线索（近缘种以鳍纹区分）。"
+    }
+  },
+  "Callistephus chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "China aster",
+    "aliases": {
+      "zh-Hans": "翠菊"
+    },
+    "ja": {
+      "summary": "エゾギク(アスター)。中国北部原産で観賞用に広く栽培されるキク科の一年草。夏〜秋に、紫・青・桃・白などの大きな頭花を咲かせる。切り花や花壇によく使われ、逸出して見られることもある。多くの園芸品種があり花色・花形が豊か。",
+      "habitat_hint": "花壇・畑の植栽、道ばたの逸出地。",
+      "finding_tips": "夏〜秋、紫や桃色などの大きな一重〜八重の頭花をもつ草を探す。大きくカラフルな頭花が目印。"
+    },
+    "en": {
+      "summary": "China aster (エゾギク), an annual (Asteraceae) native to northern China and widely grown as an ornamental; from summer to autumn it bears large flower heads in purple, blue, pink or white. Popular for cut flowers and beds, it sometimes escapes, and many cultivars offer varied colour and form.",
+      "habitat_hint": "Flower beds and field plantings; roadside escapes.",
+      "finding_tips": "In summer–autumn look for a plant with large single to double heads in purple or pink; the large colourful flower head is the mark."
+    },
+    "zh": {
+      "summary": "翠菊（エゾギク）。菊科一年生草，原产华北、广为观赏栽培，夏至秋开紫、蓝、粉、白等大型头状花，多用作切花与花坛，偶有逸出，园艺品种繁多、花色花形丰富。",
+      "habitat_hint": "花坛、田间栽培；路旁逸出。",
+      "finding_tips": "夏至秋寻具紫或粉之大型单至重瓣头状花之草；大而多彩之头状花为标志。"
+    }
+  },
+  "Callogobius snelliusi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Goby",
+    "ja": {
+      "summary": "シュンカンハゼ。サンゴ礁や岩礁の物陰にすむハゼ科(クモハゼ類)の小型の魚。体は褐色〜暗色で、頭や体に感覚器の並ぶ皮弁(ひだ)があるのが特徴。岩の割れ目や転石の下にひそみ、小さな底生動物を食べる。",
+      "habitat_hint": "サンゴ礁・岩礁の岩陰、転石の下。",
+      "finding_tips": "礁の岩陰や転石の下で、褐色で頭に皮弁の並ぶ小さなハゼを探す。頭部の皮弁の列が手がかり。"
+    },
+    "en": {
+      "summary": "A small goby (シュンカンハゼ, Callogobius) living in shelter on coral and rocky reefs; the body is brown to dark and, distinctively, the head and body carry flaps (ridges) of sensory papillae. It hides in rock crevices and under stones, eating small bottom animals.",
+      "habitat_hint": "Coral and rocky reef crevices and under stones.",
+      "finding_tips": "In reef crevices and under stones look for a brown small goby with rows of flaps on the head; the head flaps are the clue."
+    },
+    "zh": {
+      "summary": "シュンカンハゼ。虾虎鱼科（云虾虎类）之小型鱼，栖珊瑚礁与岩礁隐处，体褐至暗，头与体具感觉乳突之皮褶（辨识点），匿于岩缝、石下，食小型底栖动物。",
+      "habitat_hint": "珊瑚礁、岩礁岩缝与石下。",
+      "finding_tips": "于礁缝、石下寻头具皮褶之褐色小虾虎；头部皮褶之列为线索。"
+    }
+  },
+  "Callosobruchus chinensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Adzuki bean weevil",
+    "aliases": {
+      "zh-Hans": "绿豆象"
+    },
+    "ja": {
+      "summary": "アズキマメゾウムシ。アズキやササゲ、緑豆など貯蔵した豆に発生する、体長2〜3mmのマメゾウムシ科の小さな甲虫。世界的な貯穀害虫で、幼虫が豆の内部を食い荒らし、成虫が丸い穴を開けて出てくる。触角がくし状になるのが特徴。",
+      "habitat_hint": "貯蔵した豆(倉庫・台所)、畑のマメ科植物。",
+      "finding_tips": "保存したアズキや緑豆に丸い小さな穴と2〜3mmの茶色い甲虫がいないか探す。くし状の触角と豆の穴が手がかり。"
+    },
+    "en": {
+      "summary": "The adzuki bean weevil (アズキマメゾウムシ, Bruchidae), a 2–3 mm beetle infesting stored beans such as adzuki, cowpea and mung bean. A worldwide stored-grain pest, its larvae bore inside beans and adults emerge through round holes; the comb-like antennae are distinctive.",
+      "habitat_hint": "Stored beans (warehouses, kitchens) and field legumes.",
+      "finding_tips": "Check stored adzuki or mung beans for small round exit holes and 2–3 mm brown beetles; the comb-like antennae and bean holes are the clue."
+    },
+    "zh": {
+      "summary": "绿豆象（アズキマメゾウムシ）。豆象科之小甲虫，体长2~3毫米，害赤豆、豇豆、绿豆等贮藏豆类，为世界性贮粮害虫，幼虫蛀食豆内、成虫钻圆孔而出，触角栉状为特征。",
+      "habitat_hint": "贮藏豆类（仓库、厨房）、田间豆科植物。",
+      "finding_tips": "查贮藏赤豆、绿豆有无小圆孔与2~3毫米褐甲虫；栉状触角与豆孔为线索。"
+    }
+  },
+  "Caloglossa ogasawaraensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red alga",
+    "ja": {
+      "summary": "ホソアヤギヌ。河口や干潟のマングローブの根、護岸などに付着する小さな紅藻(アヤギヌ属)。体は暗赤色〜暗紫色の細い葉状で、平たく枝分かれし、二又に分かれてマット状に広がる。汽水域を好む海藻。",
+      "habitat_hint": "河口・干潟のマングローブの根や護岸、汽水域。",
+      "finding_tips": "河口の石や根の表面で、暗赤色をした細く平たく二又に枝分かれする小さな海藻を探す。二又状に分かれる細い葉状体が手がかり。"
+    },
+    "en": {
+      "summary": "A small red alga (ホソアヤギヌ, Caloglossa) attached to mangrove roots, tidal-flat surfaces and embankments at estuaries; the dark-red to purplish thallus is a thin flat frond that branches, forking to form mats. It favours brackish water.",
+      "habitat_hint": "Mangrove roots, tidal flats and embankments in estuaries; brackish water.",
+      "finding_tips": "On estuary rocks and roots look for a small dark-red thin flat alga that forks repeatedly; the forking narrow frond is the clue."
+    },
+    "zh": {
+      "summary": "ホソアヤギヌ。红藻（凋毛藻类近缘），附于河口、滩涂之红树根、护岸，体暗红至暗紫、细扁叶状、二叉分枝成垫，喜汽水域。",
+      "habitat_hint": "河口、滩涂之红树根与护岸、汽水域。",
+      "finding_tips": "于河口岩石、树根面寻暗红、细扁而反复二叉之小藻；二叉细扁之体为线索。"
+    }
+  },
+  "Caloria indica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "ヒブサミノウミウシ。浅い岩礁やサンゴ礁にすむミノウミウシ類の海牛(ウミウシ)。背中に多数のミノ(突起)を房状に生やし、突起の先が赤や橙で色づく。刺胞動物(ヒドロ虫など)を食べ、獲物の刺胞をミノの先に蓄えて身を守る。",
+      "habitat_hint": "浅い岩礁・サンゴ礁、潮だまり。",
+      "finding_tips": "岩礁の潮だまりで、背中に赤や橙の色づくミノを房状に生やす小さなウミウシを探す。先の色づくミノが手がかり。"
+    },
+    "en": {
+      "summary": "An aeolid nudibranch (ヒブサミノウミウシ, Caloria) of shallow rocky and coral reefs; it carries many finger-like cerata in clusters on the back, tipped with red or orange. It eats cnidarians such as hydroids and stores their stinging cells in the ceratal tips for defence.",
+      "habitat_hint": "Shallow rocky and coral reefs, tide pools.",
+      "finding_tips": "In reef tide pools look for a small sea slug with clustered cerata tipped red or orange on the back; the coloured ceratal tips are the clue."
+    },
+    "zh": {
+      "summary": "ヒブサミノウミウシ。蓑海牛类之海牛，栖浅岩礁与珊瑚礁，背具多数簇生之蓑状突起、端染红橙，食水螅等刺胞动物、并将其刺细胞蓄于蓑端以自卫。",
+      "habitat_hint": "浅岩礁、珊瑚礁、潮池。",
+      "finding_tips": "于礁区潮池寻背具红橙端之簇生蓑突之小海牛；端部染色之蓑突为线索。"
+    }
   }
 }
