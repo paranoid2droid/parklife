@@ -288932,5 +288932,540 @@
       "habitat_hint": "浅岩礁、珊瑚礁、潮池。",
       "finding_tips": "于礁区潮池寻背具红橙端之簇生蓑突之小海牛；端部染色之蓑突为线索。"
     }
+  },
+  "Calyptra hokkaida": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Fruit-piercing moth",
+    "ja": {
+      "summary": "キタエグリバ。前翅の外縁が「えぐれた」ように波打つ、枯れ葉によく似た茶色いヤガ科(エグリバ類)のガ。成虫は鋭い口吻で果実に穴を開けて果汁を吸う果実加害性のガで、この仲間(Calyptra)には吸血する種も知られる。夜行性で灯火に来る。",
+      "habitat_hint": "林縁、樹林、果樹園まわり。",
+      "finding_tips": "夜、灯火などで翅の外縁がえぐれた枯れ葉状の茶色いガを探す。えぐれた翅の縁が手がかり。"
+    },
+    "en": {
+      "summary": "A brown fruit-piercing moth (キタエグリバ, Calyptra, Noctuidae) whose forewing outer margin is scalloped as if 'gouged', resembling a dead leaf. Adults use a sharp proboscis to pierce fruit and drink the juice; some in this genus are even known to suck blood. It is nocturnal and comes to lights.",
+      "habitat_hint": "Woodland edges, forest and around orchards.",
+      "finding_tips": "At night at lights look for a dead-leaf-like brown moth with a gouged wing margin; the scalloped outer edge is the clue."
+    },
+    "zh": {
+      "summary": "キタエグリバ。夜蛾科（缺翅夜蛾类）之褐蛾，前翅外缘凹缺如剜、拟枯叶，成虫以锐利口吻刺果吸汁害果，本属（Calyptra）更有吸血之种，夜行趋光。",
+      "habitat_hint": "林缘、林地、果园周边。",
+      "finding_tips": "夜于灯下寻外缘凹缺、拟枯叶之褐蛾；剜缺之翅缘为线索。"
+    }
+  },
+  "Campanula dasyantha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Alpine bellflower",
+    "ja": {
+      "summary": "チシマギキョウ。高山の岩場や砂礫地に生えるキキョウ科の多年草。夏に、青紫色の大きな鐘形の花を横〜下向きに1個つける。花冠のふちに白い長い毛が密生するのが近縁のイワギキョウとの違い。背が低く、地面にはうように育つ。",
+      "habitat_hint": "高山帯の岩場、砂礫地、風衝草原。",
+      "finding_tips": "夏、高山の岩場で横向きに咲く青紫の鐘形の花を探す。花のふちの白く長い毛が識別点(イワギキョウは無毛)。"
+    },
+    "en": {
+      "summary": "An alpine bellflower (チシマギキョウ, Campanula), a perennial of high-mountain rocks and gravel; in summer it bears a single large blue-purple bell held sideways to downward. Long white hairs densely fringe the corolla mouth, separating it from the related C. lasiocarpa. It is low and mat-forming.",
+      "habitat_hint": "Alpine rocks, gravel and wind-swept turf.",
+      "finding_tips": "In summer on alpine rocks look for a sideways blue-purple bell; the long white hairs fringing the flower are diagnostic (C. lasiocarpa is hairless)."
+    },
+    "zh": {
+      "summary": "チシマギキョウ。桔梗科多年生草，生高山岩地与砂砾，夏开单朵大型蓝紫钟形花、横至下垂，花冠缘密生白色长毛（别于近缘之岩桔梗），株矮而匍匐。",
+      "habitat_hint": "高山带岩地、砂砾、风衝草地。",
+      "finding_tips": "夏于高山岩地寻横向之蓝紫钟形花；花缘之白色长毛为辨识点（岩桔梗无毛）。"
+    }
+  },
+  "Campylopus umbellatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swan-neck moss",
+    "ja": {
+      "summary": "フデゴケ。日当たりのよい地表や岩上、砂地に、筆先のように穂先のとがった細い茎を立てて密に群生する曲柄蘚類。ごく小さな蘚類で、種の判別は顕微鏡的な特徴によることが多い。",
+      "habitat_hint": "日当たりのよい地表、岩上、砂地。",
+      "finding_tips": "湿った日当たりのよい地表、岩上、砂地。で緑色のコケを探す。近縁種が多く、正確な同定には葉の観察が要る。"
+    },
+    "en": {
+      "summary": "Swan-neck moss (フデゴケ). A swan-neck moss forming dense turfs on sunny ground, rocks and sand, its slender shoots tapering to a brush-like point. A small moss usually separated from relatives by microscopic leaf characters.",
+      "habitat_hint": "sunny ground, rocks and sand",
+      "finding_tips": "In damp sunny ground, rocks and sand look for a green moss; accurate ID of relatives needs leaf detail."
+    },
+    "zh": {
+      "summary": "フデゴケ。曲柄藓类，密丛生于向阳地表、岩上与砂地，茎细而梢尖如笔。小型藓类，多以显微叶部特征与近缘种区分。",
+      "habitat_hint": "向阳地表、岩上、砂地。",
+      "finding_tips": "于潮湿之向阳地表、岩上、砂地。寻绿色藓类；近缘种之鉴定需观叶。"
+    },
+    "aliases": {
+      "zh-Hans": "节茎曲柄藓"
+    }
+  },
+  "Canarium labiatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dog conch",
+    "ja": {
+      "summary": "フトスジムカシタモト。浅い海の砂底やサンゴ礁にすむソデガイ科(ムカシタモト類)の巻貝。殻は太い螺肋(らせん状のすじ)をもち、殻口が広がる。眼柄をもち、腹足でとび跳ねるように移動して海底の藻や有機物を食べる。",
+      "habitat_hint": "浅い海の砂底、サンゴ礁の礁原。",
+      "finding_tips": "サンゴ礁の砂底で、太いすじのある殻口の広がった巻貝を探す。太い螺肋が手がかり。"
+    },
+    "en": {
+      "summary": "A dog conch (フトスジムカシタモト, Strombidae) of shallow sandy bottoms and coral reefs; the shell bears thick spiral cords and a flared aperture. With stalked eyes, it moves in a hopping fashion on a foot, grazing algae and organic matter off the seabed.",
+      "habitat_hint": "Shallow sandy bottoms and reef flats.",
+      "finding_tips": "On reef sand look for a conch with thick spiral cords and a flared aperture; the coarse cords are the clue."
+    },
+    "zh": {
+      "summary": "フトスジムカシタモト。凤螺科之螺，栖浅海砂底与珊瑚礁，壳具粗螺肋、壳口外张，具眼柄，以足跳跃而行、刮食海底藻与有机物。",
+      "habitat_hint": "浅海砂底、珊瑚礁礁坪。",
+      "finding_tips": "于礁砂寻壳具粗螺肋、壳口外张之螺；粗螺肋为线索。"
+    }
+  },
+  "Candelaria asiatica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Candleflame lichen",
+    "ja": {
+      "summary": "ロウソクゴケ。樹皮や岩、コンクリートなどに広がる、あざやかな黄色〜黄緑色の地衣類(ロウソクゴケ科)。ごく小さな粒状〜鱗片状の体が集まって黄色いパッチを作る。都市部でもよく見られ、大気環境の指標にもなる。",
+      "habitat_hint": "樹皮、岩、コンクリート、塀など(都市〜郊外)。",
+      "finding_tips": "木の幹や塀に、あざやかな黄色い粒状の地衣がパッチ状に広がっていないか探す。鮮黄色が目印。"
+    },
+    "en": {
+      "summary": "The candleflame lichen (ロウソクゴケ, Candelaria), a vivid yellow to yellow-green lichen spreading over bark, rock and concrete; tiny granular to scaly units gather into yellow patches. Common even in cities, it can indicate air quality.",
+      "habitat_hint": "Bark, rock, concrete and walls (urban to suburban).",
+      "finding_tips": "On tree trunks and walls look for vivid yellow granular lichen forming patches; the bright yellow colour is the mark."
+    },
+    "zh": {
+      "summary": "ロウソクゴケ。烛衣科之地衣，鲜黄至黄绿，蔓生于树皮、岩石与混凝土，极小之粒状至鳞片状体聚成黄斑，城市亦常见、可作大气环境指标。",
+      "habitat_hint": "树皮、岩石、混凝土、墙垣（城市至郊区）。",
+      "finding_tips": "于树干、墙面寻鲜黄粒状地衣成斑；鲜黄之色为标志。"
+    }
+  },
+  "Cantharellus atrolilacinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Chanterelle",
+    "ja": {
+      "summary": "オトヒメアンズタケ。夏〜秋、林の地上に生えるアンズタケ科の小さなキノコ。傘は暗い紫色を帯び、傘の裏はひだではなく、ゆるやかな脈状のしわ(偽ひだ)が柄へ流れる。アンズタケの仲間はよい香りをもつものが多い。",
+      "habitat_hint": "夏〜秋、林内の地上(広葉樹林など)。",
+      "finding_tips": "夏〜秋の林で、暗紫色をおびた小さな傘と、裏の脈状のしわをもつキノコを探す。脈状の偽ひだが手がかり。"
+    },
+    "en": {
+      "summary": "A small chanterelle (オトヒメアンズタケ, Cantharellus) growing on the ground in woods in summer–autumn; the cap is tinged dark purple, and the underside bears not true gills but shallow vein-like wrinkles (false gills) running down the stem. Many chanterelles are pleasantly scented.",
+      "habitat_hint": "On the ground in woodland (broadleaf) in summer–autumn.",
+      "finding_tips": "In summer–autumn woods look for a small mushroom with a dark-purplish cap and vein-like wrinkles beneath; the false gills are the clue."
+    },
+    "zh": {
+      "summary": "オトヒメアンズタケ。鸡油菌科之小菌，夏秋生林地，菌盖带暗紫，盖下非真菌褶而为浅脉状皱纹（假褶）延柄而下，鸡油菌类多具香气。",
+      "habitat_hint": "夏秋林内地上（阔叶林等）。",
+      "finding_tips": "夏秋林中寻盖带暗紫、下具脉状皱纹之小菌；假褶为线索。"
+    }
+  },
+  "Capsicum annuum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bell pepper",
+    "aliases": {
+      "zh-Hans": "辣椒"
+    },
+    "ja": {
+      "summary": "ピーマン(トウガラシ)。中南米原産で世界中で栽培されるナス科の一年草(温帯では)。白い小さな花のあと、緑〜赤や黄色の中空の果実をつける。ピーマン・パプリカ・シシトウ・トウガラシなど多くの品種があり、辛味のないものから激辛のものまで幅広い。",
+      "habitat_hint": "畑・家庭菜園の栽培、逸出地。",
+      "finding_tips": "夏、白い小花のあと緑〜赤の中空の実をつける草を探す。中空でつやのある実が目印。品種で辛味は大きく異なる。"
+    },
+    "en": {
+      "summary": "Pepper / bell pepper (ピーマン, Capsicum annuum), a Solanaceae plant native to the Americas and grown worldwide (annual in temperate climates). After small white flowers it forms hollow fruit that ripen green to red or yellow. Its many cultivars — bell pepper, paprika, shishito, chilli — range from mild to fiercely hot.",
+      "habitat_hint": "Fields and kitchen gardens; occasional escapes.",
+      "finding_tips": "In summer look for a plant with small white flowers followed by hollow glossy green-to-red fruit; heat varies enormously by cultivar."
+    },
+    "zh": {
+      "summary": "辣椒（ピーマン，甜椒）。茄科植物，原产美洲、全球栽培（温带作一年生），白色小花后结中空果、由绿转红或黄，品种繁多（甜椒、彩椒、狮子椒、辣椒），辣度自无辣至极辣不等。",
+      "habitat_hint": "田间、家庭菜园栽培；偶逸出。",
+      "finding_tips": "夏寻具白色小花、后结中空光亮之绿转红果之草；辣度依品种大异。"
+    }
+  },
+  "Capulus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cap shell",
+    "ja": {
+      "summary": "シワカツラガイ。他の貝や硬い基物の表面につく、笠(かさ)のような形をしたカツラガイ科の巻貝。殻はうずまきが1回ほどでほぼ帽子形をなし、表面にしわ状の彫刻がある。付着した貝の出す水流から餌の粒子をこし取って食べる(懸濁物食)。",
+      "habitat_hint": "浅海〜やや深い海の岩礁や他の貝の殻の上。",
+      "finding_tips": "他の貝殻や岩の上で、帽子のような形のしわのある小さな貝を探す。笠形でしわのある殻が手がかり。"
+    },
+    "en": {
+      "summary": "A cap shell (シワカツラガイ, Capulidae), a snail attached to other shells or hard surfaces, shaped like a cap; the shell is barely coiled and almost hat-like, with wrinkled sculpture. It filter-feeds, taking food particles from the water current of the host it sits on.",
+      "habitat_hint": "Shallow to moderately deep reef and on other shells.",
+      "finding_tips": "On other shells or rock look for a small cap-shaped wrinkled shell; the hat-like wrinkled form is the clue."
+    },
+    "zh": {
+      "summary": "シワカツラガイ。帽贝形之螺（帽蓬螺科），附于他贝或硬基面，壳几不旋卷、近帽状、面具皱纹之雕刻，滤取所附宿主水流中之食粒（悬浮物食）。",
+      "habitat_hint": "浅海至较深海之岩礁与他贝壳上。",
+      "finding_tips": "于他贝壳或岩上寻帽状具皱之小贝；帽形具皱之壳为线索。"
+    }
+  },
+  "Carabus opaculus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ヒメクロオサムシ。地表を歩く黒いオサムシ科(オサムシ属)の中型の甲虫。後翅が退化して飛べず、地面を歩き回る。夜行性で、ミミズや他の昆虫、動物の死体などを食べる肉食者。上翅には細かな筋や点刻があり、鈍い黒色をしている。",
+      "habitat_hint": "低地〜山地の林床、林縁、草地の地表。",
+      "finding_tips": "夜や雨あがり、地表を素早く歩く黒い中型のオサムシを探す。飛べず地面を歩く点と鈍い黒色が手がかり。"
+    },
+    "en": {
+      "summary": "A black ground beetle (ヒメクロオサムシ, Carabus), a medium beetle that walks the ground; its hindwings are reduced so it cannot fly. Nocturnal and carnivorous, it eats earthworms, other insects and carrion. The elytra have fine striae and punctures and a dull black colour.",
+      "habitat_hint": "Forest floor, woodland edges and grassland ground from lowland to montane areas.",
+      "finding_tips": "At night or after rain look for a black medium ground beetle walking quickly on the ground; flightlessness and dull black colour are the clue."
+    },
+    "zh": {
+      "summary": "ヒメクロオサムシ。步甲科（步甲属）之中型黑甲虫，行于地表，后翅退化不能飞，夜行肉食，食蚯蚓、他虫及腐尸，鞘翅具细纹与刻点、色暗黑。",
+      "habitat_hint": "低地至山地林床、林缘、草地地表。",
+      "finding_tips": "夜或雨后寻疾行地表之黑色中型步甲；不能飞而行地、暗黑之色为线索。"
+    }
+  },
+  "Cardiagyris miquelianus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aster",
+    "ja": {
+      "summary": "オオバヨメナ。山地の林縁や草地に生えるキク科の多年草。名(大葉嫁菜)のとおり葉が大きめで、秋に淡い紫色〜白の頭花を咲かせる。ヨメナの仲間で、若い葉は山菜として利用されることもある。",
+      "habitat_hint": "山地の林縁、道ばた、やや湿った草地。",
+      "finding_tips": "秋、山地で淡紫色〜白の菊のような頭花と大きめの葉をもつ草を探す。大きな葉が近縁のヨメナ類との手がかり。"
+    },
+    "en": {
+      "summary": "A large-leaved aster (オオバヨメナ, Asteraceae), a perennial of montane woodland edges and grassland; as its Japanese name ('big-leaf yomena') implies, the leaves are fairly large, and in autumn it bears pale purple to white flower heads. In the yomena group, the young leaves are sometimes eaten as a wild vegetable.",
+      "habitat_hint": "Montane woodland edges, roadsides and moist grassland.",
+      "finding_tips": "In autumn in the mountains look for a plant with pale purple to white daisy-like heads and fairly large leaves; the large leaves separate it from related yomena."
+    },
+    "zh": {
+      "summary": "オオバヨメナ。菊科多年生草，生山地林缘与草地，叶较大（和名意为大叶嫁菜），秋开淡紫至白之头状花，属女菀类，嫩叶偶作山菜。",
+      "habitat_hint": "山地林缘、路旁、略湿草地。",
+      "finding_tips": "秋于山地寻具淡紫至白之菊状头花、叶较大之草；大叶为别于近缘女菀类之线索。"
+    }
+  },
+  "Carex alliiformis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "リュウキュウスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。南西諸島の暖地に分布する。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "南西諸島の林縁、道ばた、やや湿った地。",
+      "finding_tips": "南西諸島の林縁、道ばた、やや湿った地。で、三角形の茎に地味な穂をつけるスゲを探す。南西諸島の暖地に分布する。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "リュウキュウスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. distributed in the warm Ryukyu Islands. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "Ryukyu woodland edges, roadsides and moist ground",
+      "finding_tips": "In Ryukyu woodland edges, roadsides and moist ground look for a sedge with a triangular stem and drab spikes; distributed in the warm Ryukyu Islands. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "リュウキュウスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。分布于西南诸岛暖地。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "西南诸岛林缘、路旁、略湿地。",
+      "finding_tips": "于西南诸岛林缘、路旁、略湿地。寻茎三棱、穗晦暗之薹草；分布于西南诸岛暖地。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex crawfordii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "クシロヤガミスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。湿地や湿った草地に生え、小穂が頭状に密集する。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "湿地、湿った草地、水辺。",
+      "finding_tips": "湿地、湿った草地、水辺。で、三角形の茎に地味な穂をつけるスゲを探す。湿地や湿った草地に生え、小穂が頭状に密集する。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "クシロヤガミスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. of wetlands and moist grassland, its spikelets clustered into a head. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "wetlands, moist grassland and waterside",
+      "finding_tips": "In wetlands, moist grassland and waterside look for a sedge with a triangular stem and drab spikes; of wetlands and moist grassland, its spikelets clustered into a head. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "クシロヤガミスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生湿地与湿草地、小穗密集成头状。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "湿地、湿草地、水边。",
+      "finding_tips": "于湿地、湿草地、水边。寻茎三棱、穗晦暗之薹草；生湿地与湿草地、小穗密集成头状。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex dolichocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ミタケスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。湿地や水辺に生える。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "湿地、池沼のふち、水辺。",
+      "finding_tips": "湿地、池沼のふち、水辺。で、三角形の茎に地味な穂をつけるスゲを探す。湿地や水辺に生える。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "ミタケスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. of wetlands and waterside. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "wetlands, pond margins and waterside",
+      "finding_tips": "In wetlands, pond margins and waterside look for a sedge with a triangular stem and drab spikes; of wetlands and waterside. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "ミタケスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生湿地与水边。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "湿地、池沼边、水边。",
+      "finding_tips": "于湿地、池沼边、水边。寻茎三棱、穗晦暗之薹草；生湿地与水边。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex musashiensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "タカオスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。低山の林内や林縁に生える。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "低山の林床、林縁、木陰。",
+      "finding_tips": "低山の林床、林縁、木陰。で、三角形の茎に地味な穂をつけるスゲを探す。低山の林内や林縁に生える。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "タカオスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. of low-mountain woodland and edges. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "low-mountain forest floor and edges",
+      "finding_tips": "In low-mountain forest floor and edges look for a sedge with a triangular stem and drab spikes; of low-mountain woodland and edges. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "タカオスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生低山林内与林缘。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "低山林床、林缘、树荫。",
+      "finding_tips": "于低山林床、林缘、树荫。寻茎三棱、穗晦暗之薹草；生低山林内与林缘。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex rugulosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "オオクグ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。海岸の塩性湿地や河口の汽水域に群生する大型のスゲ。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "海岸の塩性湿地、河口の汽水域。",
+      "finding_tips": "海岸の塩性湿地、河口の汽水域。で、三角形の茎に地味な穂をつけるスゲを探す。海岸の塩性湿地や河口の汽水域に群生する大型のスゲ。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "オオクグ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. a large sedge growing in coastal salt marsh and brackish estuaries. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "coastal salt marsh and brackish estuaries",
+      "finding_tips": "In coastal salt marsh and brackish estuaries look for a sedge with a triangular stem and drab spikes; a large sedge growing in coastal salt marsh and brackish estuaries. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "オオクグ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生海岸盐沼与河口汽水域之大型薹草。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "海岸盐沼、河口汽水域。",
+      "finding_tips": "于海岸盐沼、河口汽水域。寻茎三棱、穗晦暗之薹草；生海岸盐沼与河口汽水域之大型薹草。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex sacrosancta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ジングウスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。低地〜低山の林内や林縁の湿った所に生える。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "低地〜低山の林床、林縁の湿った所。",
+      "finding_tips": "低地〜低山の林床、林縁の湿った所。で、三角形の茎に地味な穂をつけるスゲを探す。低地〜低山の林内や林縁の湿った所に生える。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "ジングウスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. of moist places in lowland to low-mountain woodland and edges. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "moist lowland to low-mountain woodland and edges",
+      "finding_tips": "In moist lowland to low-mountain woodland and edges look for a sedge with a triangular stem and drab spikes; of moist places in lowland to low-mountain woodland and edges. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "ジングウスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生低地至低山林内与林缘之湿处。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "低地至低山林床、林缘之湿处。",
+      "finding_tips": "于低地至低山林床、林缘之湿处。寻茎三棱、穗晦暗之薹草；生低地至低山林内与林缘之湿处。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex scoparia": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "アメリカヤガミスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。北米原産で帰化し、湿った空き地や造成地に生える。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "湿った空き地、造成地、水辺。",
+      "finding_tips": "湿った空き地、造成地、水辺。で、三角形の茎に地味な穂をつけるスゲを探す。北米原産で帰化し、湿った空き地や造成地に生える。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "アメリカヤガミスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. native to North America and naturalised, growing on moist waste and disturbed ground. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "moist waste ground, disturbed sites and waterside",
+      "finding_tips": "In moist waste ground, disturbed sites and waterside look for a sedge with a triangular stem and drab spikes; native to North America and naturalised, growing on moist waste and disturbed ground. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "アメリカヤガミスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。原产北美而归化，生湿润空地与造地。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "湿润空地、造地、水边。",
+      "finding_tips": "于湿润空地、造地、水边。寻茎三棱、穗晦暗之薹草；原产北美而归化，生湿润空地与造地。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex subumbellata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "クモマシバスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。亜高山〜高山の草地や林縁に生える小型のスゲ。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "亜高山〜高山の草地、林縁。",
+      "finding_tips": "亜高山〜高山の草地、林縁。で、三角形の茎に地味な穂をつけるスゲを探す。亜高山〜高山の草地や林縁に生える小型のスゲ。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "クモマシバスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. a small sedge of subalpine to alpine grassland and woodland edges. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "subalpine to alpine grassland and edges",
+      "finding_tips": "In subalpine to alpine grassland and edges look for a sedge with a triangular stem and drab spikes; a small sedge of subalpine to alpine grassland and woodland edges. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "クモマシバスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生亚高山至高山草地与林缘之小型薹草。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "亚高山至高山草地、林缘。",
+      "finding_tips": "于亚高山至高山草地、林缘。寻茎三棱、穗晦暗之薹草；生亚高山至高山草地与林缘之小型薹草。准确鉴定需观果囊之形。"
+    }
+  },
+  "Carex tenuinervis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sedge",
+    "ja": {
+      "summary": "ツルナシオオイトスゲ。カヤツリグサ科スゲ属の多年草。細長い葉と三角形の茎をもち、地味な穂(小穂)をつける。山地の林内に生え、細い糸のような葉をもつ。スゲ属は種類が多く、果胞(かほう)や小穂の形で識別する。",
+      "habitat_hint": "山地の林床、木陰。",
+      "finding_tips": "山地の林床、木陰。で、三角形の茎に地味な穂をつけるスゲを探す。山地の林内に生え、細い糸のような葉をもつ。正確な同定には果胞の形を見る。"
+    },
+    "en": {
+      "summary": "ツルナシオオイトスゲ, a perennial sedge (Carex, Cyperaceae) with narrow leaves and a triangular stem bearing drab spikes. of montane woodland, with fine thread-like leaves. Carex is a large genus separated by the shape of the perigynia and spikelets.",
+      "habitat_hint": "montane forest floor and shade",
+      "finding_tips": "In montane forest floor and shade look for a sedge with a triangular stem and drab spikes; of montane woodland, with fine thread-like leaves. Accurate ID needs the perigynium shape."
+    },
+    "zh": {
+      "summary": "ツルナシオオイトスゲ。莎草科薹草属多年生草，叶细长、茎三棱、穗（小穗）晦暗。生山地林内、叶细如丝。薹草属种类繁多，以果囊与小穗形态区分。",
+      "habitat_hint": "山地林床、树荫。",
+      "finding_tips": "于山地林床、树荫。寻茎三棱、穗晦暗之薹草；生山地林内、叶细如丝。准确鉴定需观果囊之形。"
+    }
+  },
+  "Caridina leucosticta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Freshwater shrimp",
+    "ja": {
+      "summary": "ミゾレヌマエビ。河川の中〜下流や河口近くにすむ小型のヌマエビ科(ヌマエビ属)のエビ。体は半透明で、名(みぞれ)のとおり細かい白い斑点が散る。幼生期を汽水〜海で過ごす両側回遊性で、川底の石についた藻や有機物を食べる。",
+      "habitat_hint": "河川の中〜下流、河口近くの流れ。",
+      "finding_tips": "川の石の間で、半透明で白い細かな斑点が散る小さなエビを探す。細かい白斑が名の由来で手がかり。"
+    },
+    "en": {
+      "summary": "A small freshwater shrimp (ミゾレヌマエビ, Caridina) of the middle to lower reaches of rivers and near estuaries; the body is translucent, scattered with fine white spots (the Japanese name means 'sleet'). Amphidromous, its larvae develop in brackish or sea water, and it grazes algae and organic matter off streambed stones.",
+      "habitat_hint": "Middle to lower river reaches and flows near estuaries.",
+      "finding_tips": "Among river stones look for a small translucent shrimp with scattered fine white spots; the fine white speckling is the clue."
+    },
+    "zh": {
+      "summary": "ミゾレヌマエビ。匙指虾科（新米虾属）之小型虾，栖河川中下游与近河口，体半透明、散布细白点（和名意为霰），幼生期于汽水至海中度过（两侧洄游），刮食河底石上藻与有机物。",
+      "habitat_hint": "河川中下游、近河口之流水。",
+      "finding_tips": "于河石间寻半透明而散布细白点之小虾；细白斑为线索。"
+    }
+  },
+  "Carpodacus erythrinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Common rosefinch",
+    "ja": {
+      "summary": "アカマシコ。ユーラシアに広く分布するアトリ科の小鳥で、日本ではおもに旅鳥・冬鳥。オスは頭・胸・腰があざやかな紅色に染まるが、メスや若い個体は地味な茶褐色。太く短いくちばしで草の種子などを食べる。日本では数は少ない。",
+      "habitat_hint": "林縁、低木林、草地、湿地のヨシ原など。",
+      "finding_tips": "渡りの時期、林縁や草地で頭や胸が紅色のスズメ大の鳥を探す。太いくちばしと(オスの)紅色が手がかり。"
+    },
+    "en": {
+      "summary": "The common rosefinch (アカマシコ, Carpodacus erythrinus), a widespread Eurasian finch that in Japan is mainly a passage migrant and winter visitor. Males flush bright crimson on head, breast and rump, while females and young are plain brown. It eats seeds with a thick short bill and is scarce in Japan.",
+      "habitat_hint": "Woodland edges, scrub, grassland and reed beds.",
+      "finding_tips": "On passage look at woodland edges and grassland for a sparrow-sized bird with a crimson head and breast; the stout bill and (male) crimson are the clue."
+    },
+    "zh": {
+      "summary": "アカマシコ（普通朱雀）。雀科小鸟，广布欧亚，于日本主为旅鸟、冬候鸟。雄头、胸、腰染鲜红，雌与幼则朴素褐色，以粗短之喙食草籽，在日本数量甚少。",
+      "habitat_hint": "林缘、灌丛、草地、湿地芦苇。",
+      "finding_tips": "迁徙期于林缘、草地寻头胸红色之雀大之鸟；粗喙与（雄之）红色为线索。"
+    }
+  },
+  "Carpomitra costata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brown alga",
+    "ja": {
+      "summary": "イチメガサ。やや深い岩礁に生える褐藻の海藻。体は円柱状の細い軸から羽状〜叉状に枝分かれし、茶褐色をしている。先端が円錐形の帽子(ミトラ)のように見えることが属名の由来。冷ための海の岩の上に着生する。",
+      "habitat_hint": "やや深い岩礁、冷ための海。",
+      "finding_tips": "岩礁で、細い軸から枝分かれする茶褐色の海藻を探す。円柱状の軸と叉状の枝が手がかり。"
+    },
+    "en": {
+      "summary": "A brown alga (イチメガサ, Carpomitra costata) growing on somewhat deep rocky reefs; the brownish thallus branches pinnately to forked from a slender cylindrical axis. The mitre-like conical tips give the genus its name, and it attaches to rock in cooler seas.",
+      "habitat_hint": "Somewhat deep rocky reef in cooler seas.",
+      "finding_tips": "On reef rock look for a brownish alga branching from a slender axis; the cylindrical axis with forked branches is the clue."
+    },
+    "zh": {
+      "summary": "イチメガサ。褐藻，生较深岩礁，体自细圆柱状之轴羽状至叉状分枝、色茶褐，顶端如锥形之冠（属名之由来），着生于较冷海之岩上。",
+      "habitat_hint": "较深岩礁、较冷海域。",
+      "finding_tips": "于礁岩寻自细轴分枝之茶褐藻；圆柱状轴与叉状枝为线索。"
+    }
+  },
+  "Casmaria ponderosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Helmet shell",
+    "ja": {
+      "summary": "アメガイ。浅い海の砂底にすむトウカムリ科(カブトガイ類)の巻貝。殻はやや厚くふくらんだ卵形で、白っぽい地に淡い模様をもち、殻口の縁に小さな歯状の突起が並ぶ。砂にもぐって主にウニなどの棘皮動物を食べる肉食の貝。",
+      "habitat_hint": "浅い海〜サンゴ礁の砂底。",
+      "finding_tips": "砂浜やサンゴ礁の砂底で、白っぽくふくらんだ卵形の厚い巻貝を探す。殻口のふちの歯状突起が手がかり。"
+    },
+    "en": {
+      "summary": "A helmet shell (アメガイ, Casmaria, Cassidae) of shallow sandy bottoms; the shell is rather thick and inflated-ovate, whitish with faint markings, with small tooth-like nodes along the aperture edge. It burrows in sand and preys mainly on echinoderms such as sea urchins.",
+      "habitat_hint": "Shallow sea to reef sandy bottoms.",
+      "finding_tips": "On sandy beaches and reef sand look for a whitish inflated-ovate thick snail; the tooth-like nodes on the aperture edge are the clue."
+    },
+    "zh": {
+      "summary": "アメガイ。冠螺科之螺，栖浅海砂底，壳略厚而膨呈卵形、色偏白具淡纹，壳口缘列小齿状突起，潜砂而主食海胆等棘皮动物之肉食螺。",
+      "habitat_hint": "浅海至珊瑚礁砂底。",
+      "finding_tips": "于砂滩、礁砂寻偏白膨卵形之厚螺；壳口缘之齿状突起为线索。"
+    }
+  },
+  "Cassiope lycopodioides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clubmoss mountain-heather",
+    "ja": {
+      "summary": "イワヒゲ。高山の岩場や礫地に生えるツツジ科の常緑小低木。細い茎に小さなうろこ状の葉が密につき、ヒカゲノカズラ(club moss)のような見た目をつくる。夏、白い小さな釣鐘形の花を細い花柄の先に下向きに咲かせる。地面をはうように広がる。",
+      "habitat_hint": "高山帯の岩場、礫地、風衝地。",
+      "finding_tips": "夏、高山の岩場ではうように広がる、うろこ状の葉をもつ細い茎と、白い釣鐘形の小花を探す。ひも状の茎が名(岩髭)の由来で手がかり。"
+    },
+    "en": {
+      "summary": "Clubmoss mountain-heather (イワヒゲ, Cassiope lycopodioides), an evergreen dwarf shrub (Ericaceae) of high-mountain rocks and gravel; tiny scale-like leaves densely clothe slender stems, giving a clubmoss-like look. In summer it hangs small white bell flowers on thread-like stalks, and it spreads mat-like over the ground.",
+      "habitat_hint": "Alpine rocks, gravel and wind-swept ground.",
+      "finding_tips": "In summer on alpine rocks look for mat-forming thread-like stems with scale leaves and small white bells; the cord-like stems (the name means 'rock whisker') are the clue."
+    },
+    "zh": {
+      "summary": "イワヒゲ。杜鹃花科常绿矮灌木，生高山岩地与砾地，细茎密被鳞状小叶、状如石松，夏于丝状花梗端垂开白色小钟形花，匍匐成垫。",
+      "habitat_hint": "高山带岩地、砾地、风衝地。",
+      "finding_tips": "夏于高山岩地寻匍匐、丝状茎具鳞叶而开白色小钟花者；索状之茎（和名意为岩须）为线索。"
+    }
   }
 }
