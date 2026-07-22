@@ -291085,5 +291085,538 @@
       "habitat_hint": "珊瑚礁、岩礁砂底与礁坪（暖海）。",
       "finding_tips": "于礁区寻圆锥（芋形）之螺；芋形之壳为线索——具毒针，活体切勿徒手持。"
     }
+  },
+  "Conus obscurus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone snail",
+    "ja": {
+      "summary": "ムラサキアンボイナガイ。サンゴ礁や岩礁の砂底にすむイモガイ科(イモガイ類)の巻貝。殻は円錐形(いも形)。殻は紫褐色をおび、アンボイナ(強毒で知られる仲間)に近い。イモガイ類は毒針(歯舌歯)をもち、獲物に毒を注入して捕らえる肉食の貝で、大型種の毒は人にも危険なことがある。生きた個体を素手で持たないこと。",
+      "habitat_hint": "サンゴ礁・岩礁の砂底、礁原(暖海)。",
+      "finding_tips": "サンゴ礁で円錐形(いも形)の巻貝を探す。殻は紫褐色をおび、アンボイナ(強毒で知られる仲間)に近い。毒針をもつので生きた個体は素手で持たない。"
+    },
+    "en": {
+      "summary": "A cone snail (ムラサキアンボイナガイ, Conus) of coral and rocky reef sand; the shell is conical (cone-shaped). the shell is purplish-brown, close to the notoriously venomous geographer cone group. Cone snails carry a venomous harpoon (radular tooth) with which they inject venom to catch prey; large species can be dangerous to humans. Never handle live ones bare-handed.",
+      "habitat_hint": "Coral and rocky reef sand and flats (warm seas).",
+      "finding_tips": "On reefs look for a conical (cone-shaped) snail; the shell is purplish-brown, close to the notoriously venomous geographer cone group. Being venomous, never handle live ones bare-handed."
+    },
+    "zh": {
+      "summary": "ムラサキアンボイナガイ。芋螺科（芋螺类）之螺，栖珊瑚礁与岩礁砂底，壳圆锥形（芋形）。壳带紫褐、近于剧毒之鸡心螺类。芋螺具毒针（齿舌齿），注毒捕猎、为肉食螺，大型种之毒对人亦可危险，切勿徒手持活体。",
+      "habitat_hint": "珊瑚礁、岩礁砂底与礁坪（暖海）。",
+      "finding_tips": "于礁区寻圆锥（芋形）之螺；壳带紫褐、近于剧毒之鸡心螺类。具毒针，活体切勿徒手持。"
+    }
+  },
+  "Conus planorbis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone snail",
+    "ja": {
+      "summary": "サラサミナシモドキ。サンゴ礁や岩礁の砂底にすむイモガイ科(イモガイ類)の巻貝。殻は円錐形(いも形)。殻に更紗(さらさ)のような細かい模様がある。イモガイ類は毒針(歯舌歯)をもち、獲物に毒を注入して捕らえる肉食の貝で、大型種の毒は人にも危険なことがある。生きた個体を素手で持たないこと。",
+      "habitat_hint": "サンゴ礁・岩礁の砂底、礁原(暖海)。",
+      "finding_tips": "サンゴ礁で円錐形(いも形)の巻貝を探す。殻に更紗(さらさ)のような細かい模様がある。毒針をもつので生きた個体は素手で持たない。"
+    },
+    "en": {
+      "summary": "A cone snail (サラサミナシモドキ, Conus) of coral and rocky reef sand; the shell is conical (cone-shaped). the shell has a fine calico-like pattern. Cone snails carry a venomous harpoon (radular tooth) with which they inject venom to catch prey; large species can be dangerous to humans. Never handle live ones bare-handed.",
+      "habitat_hint": "Coral and rocky reef sand and flats (warm seas).",
+      "finding_tips": "On reefs look for a conical (cone-shaped) snail; the shell has a fine calico-like pattern. Being venomous, never handle live ones bare-handed."
+    },
+    "zh": {
+      "summary": "サラサミナシモドキ。芋螺科（芋螺类）之螺，栖珊瑚礁与岩礁砂底，壳圆锥形（芋形）。壳具细如更纱之纹。芋螺具毒针（齿舌齿），注毒捕猎、为肉食螺，大型种之毒对人亦可危险，切勿徒手持活体。",
+      "habitat_hint": "珊瑚礁、岩礁砂底与礁坪（暖海）。",
+      "finding_tips": "于礁区寻圆锥（芋形）之螺；壳具细如更纱之纹。具毒针，活体切勿徒手持。"
+    }
+  },
+  "Conus quercinus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone snail",
+    "ja": {
+      "summary": "ロウソクガイ。サンゴ礁や岩礁の砂底にすむイモガイ科(イモガイ類)の巻貝。殻は円錐形(いも形)。殻は黄色っぽく細かい線が入り、ろうそくのように見える。イモガイ類は毒針(歯舌歯)をもち、獲物に毒を注入して捕らえる肉食の貝で、大型種の毒は人にも危険なことがある。生きた個体を素手で持たないこと。",
+      "habitat_hint": "サンゴ礁・岩礁の砂底、礁原(暖海)。",
+      "finding_tips": "サンゴ礁で円錐形(いも形)の巻貝を探す。殻は黄色っぽく細かい線が入り、ろうそくのように見える。毒針をもつので生きた個体は素手で持たない。"
+    },
+    "en": {
+      "summary": "A cone snail (ロウソクガイ, Conus) of coral and rocky reef sand; the shell is conical (cone-shaped). the shell is yellowish with fine lines, looking candle-like. Cone snails carry a venomous harpoon (radular tooth) with which they inject venom to catch prey; large species can be dangerous to humans. Never handle live ones bare-handed.",
+      "habitat_hint": "Coral and rocky reef sand and flats (warm seas).",
+      "finding_tips": "On reefs look for a conical (cone-shaped) snail; the shell is yellowish with fine lines, looking candle-like. Being venomous, never handle live ones bare-handed."
+    },
+    "zh": {
+      "summary": "ロウソクガイ。芋螺科（芋螺类）之螺，栖珊瑚礁与岩礁砂底，壳圆锥形（芋形）。壳偏黄具细线、状如烛。芋螺具毒针（齿舌齿），注毒捕猎、为肉食螺，大型种之毒对人亦可危险，切勿徒手持活体。",
+      "habitat_hint": "珊瑚礁、岩礁砂底与礁坪（暖海）。",
+      "finding_tips": "于礁区寻圆锥（芋形）之螺；壳偏黄具细线、状如烛。具毒针，活体切勿徒手持。"
+    }
+  },
+  "Conus vexillum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone snail",
+    "ja": {
+      "summary": "カバミナシ。サンゴ礁や岩礁の砂底にすむイモガイ科(イモガイ類)の巻貝。殻は円錐形(いも形)。大型で、殻に旗(flag)のような茶色い模様がある。イモガイ類は毒針(歯舌歯)をもち、獲物に毒を注入して捕らえる肉食の貝で、大型種の毒は人にも危険なことがある。生きた個体を素手で持たないこと。",
+      "habitat_hint": "サンゴ礁・岩礁の砂底、礁原(暖海)。",
+      "finding_tips": "サンゴ礁で円錐形(いも形)の巻貝を探す。大型で、殻に旗(flag)のような茶色い模様がある。毒針をもつので生きた個体は素手で持たない。"
+    },
+    "en": {
+      "summary": "A cone snail (カバミナシ, Conus) of coral and rocky reef sand; the shell is conical (cone-shaped). large, with a brown flag-like pattern on the shell. Cone snails carry a venomous harpoon (radular tooth) with which they inject venom to catch prey; large species can be dangerous to humans. Never handle live ones bare-handed.",
+      "habitat_hint": "Coral and rocky reef sand and flats (warm seas).",
+      "finding_tips": "On reefs look for a conical (cone-shaped) snail; large, with a brown flag-like pattern on the shell. Being venomous, never handle live ones bare-handed."
+    },
+    "zh": {
+      "summary": "カバミナシ。芋螺科（芋螺类）之螺，栖珊瑚礁与岩礁砂底，壳圆锥形（芋形）。体大、壳具如旗之褐纹。芋螺具毒针（齿舌齿），注毒捕猎、为肉食螺，大型种之毒对人亦可危险，切勿徒手持活体。",
+      "habitat_hint": "珊瑚礁、岩礁砂底与礁坪（暖海）。",
+      "finding_tips": "于礁区寻圆锥（芋形）之螺；体大、壳具如旗之褐纹。具毒针，活体切勿徒手持。"
+    }
+  },
+  "Copelatus weymarni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Diving beetle",
+    "ja": {
+      "summary": "ホソセスジゲンゴロウ。池沼や水たまり、水田にすむゲンゴロウ科の小型の水生甲虫。細長い体で、上翅に細い縦の筋(すじ)がある(名の由来)。後脚を左右そろえて動かして泳ぐ。肉食性で小さな水生動物を食べ、成虫は飛んで新しい水場に移動し、灯火にも飛来する。",
+      "habitat_hint": "池沼、水たまり、水田、湿地の止水。",
+      "finding_tips": "止水の水中や灯火で、細長く上翅に縦筋のある小さなゲンゴロウを探す。細身の体と縦筋が手がかり。"
+    },
+    "en": {
+      "summary": "A diving beetle (ホソセスジゲンゴロウ, Copelatus, Dytiscidae), a small aquatic beetle of ponds, puddles and paddies; the body is elongate with fine longitudinal striae on the elytra (the source of the name). It swims with the hind legs beating together, is carnivorous on small aquatic animals, and adults fly to new water and to lights.",
+      "habitat_hint": "Ponds, puddles, paddies and still wetland water.",
+      "finding_tips": "In still water or at lights look for a small elongate diving beetle with striped elytra; the slender body and striae are the clue."
+    },
+    "zh": {
+      "summary": "ホソセスジゲンゴロウ。龙虱科之小型水生甲虫，栖池沼、水洼与水田，体细长、鞘翅具细纵纹（和名之由来），后足并动而泳，肉食小型水生动物，成虫飞迁新水场、亦趋光。",
+      "habitat_hint": "池沼、水洼、水田、湿地止水。",
+      "finding_tips": "于止水中或灯下寻细长而鞘翅具纵纹之小龙虱；细身与纵纹为线索。"
+    }
+  },
+  "Coralliophila erosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Coral snail",
+    "ja": {
+      "summary": "カブトサンゴヤドリガイ。サンゴやイソギンチャクにつき、その体液や組織を吸って生きるアッキガイ科(サンゴヤドリ類)の巻貝。殻はずんぐりして表面が浸食されたようにざらつく(名の由来)。宿主のサンゴにぴったりつき、口吻を差し込んで栄養をとる寄生的な貝。",
+      "habitat_hint": "サンゴ礁、サンゴやイソギンチャクの上(暖海)。",
+      "finding_tips": "生きたサンゴやイソギンチャクの根もとで、表面のざらついたずんぐりした巻貝がついていないか探す。宿主に付く点とざらつく殻が手がかり。"
+    },
+    "en": {
+      "summary": "A coral snail (カブトサンゴヤドリガイ, Coralliophila, Muricidae) that attaches to corals and anemones and lives by sucking their fluids and tissue; the stout shell has an eroded-looking rough surface (the source of the name). Parasitic, it clamps onto the host coral and inserts a proboscis to feed.",
+      "habitat_hint": "Coral reefs, on corals and anemones (warm seas).",
+      "finding_tips": "At the base of live coral or anemones look for a stout snail with a rough eroded surface; attachment to the host and the rough shell are the clue."
+    },
+    "zh": {
+      "summary": "カブトサンゴヤドリガイ。骨螺科（珊瑚寄生类）之螺，附于珊瑚与海葵、吸其体液组织为生，壳粗壮而面如侵蚀般粗糙（和名之由来），寄生性、紧附宿主珊瑚而插口吻取养。",
+      "habitat_hint": "珊瑚礁，珊瑚与海葵之上（暖海）。",
+      "finding_tips": "于活珊瑚、海葵基部寻面粗糙而粗壮之螺；附于宿主与粗糙之壳为线索。"
+    }
+  },
+  "Coriophora fusca": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Triphora snail",
+    "ja": {
+      "summary": "サツマキリオレ。岩礁や海綿の上にすむキリオレ科(Triphoridae)のごく小さな巻貝。殻は細長い塔形で、暗褐色をおび、粒状の彫刻が螺状に並ぶ。多くのキリオレ類と同じく殻口が左巻きに見え(左旋)、海綿を食べて暮らす。数mmと小さい。",
+      "habitat_hint": "岩礁、海綿の上、転石帯(浅海)。",
+      "finding_tips": "岩や海綿の上で、数mmの暗褐色で細長い塔形の巻貝を探す。粒状の彫刻と左旋の殻が手がかり(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A triphora snail (サツマキリオレ, Triphoridae), a very small snail living on rock and sponges; the shell is a slender dark-brown tower with spiral rows of granular sculpture. Like most triphorids the shell is sinistral (left-coiled), and it feeds on sponges. It is only a few millimetres long.",
+      "habitat_hint": "Rock, on sponges and boulder zones (shallow sea).",
+      "finding_tips": "On rock and sponges look for a few-millimetre dark-brown slender tower snail; the granular sculpture and left-coiled shell are the clue (use a lens)."
+    },
+    "zh": {
+      "summary": "サツマキリオレ。锥螺近缘之三口螺科（Triphoridae）之极小螺，栖岩礁与海绵上，壳细长塔形、暗褐、具粒状螺列雕刻，多如三口螺类壳左旋，食海绵、体仅数毫米。",
+      "habitat_hint": "岩礁、海绵上、砾石带（浅海）。",
+      "finding_tips": "于岩、海绵上寻数毫米、暗褐细长塔形之螺；粒状雕刻与左旋之壳为线索（须放大镜）。"
+    }
+  },
+  "Cortinarius cumatilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Webcap",
+    "ja": {
+      "summary": "ライラックフウセンタケ。秋、林の地上に生えるフウセンタケ科(フウセンタケ属、Cortinarius)のキノコ。若いとき傘とひだの間にクモの巣のような膜(コルチナ)を張り、胞子紋はさび色。傘がライラック色(青紫)を帯び、湿ると少しぬめる。この属には猛毒種(オレラニン中毒)も含まれるため、安易に食用にしないこと。",
+      "habitat_hint": "秋、林内の地上(広葉樹・針葉樹林、菌根性)。",
+      "finding_tips": "秋の林で、若いとき傘とひだにクモの巣状の膜をもつキノコを探す。傘がライラック色(青紫)を帯び、湿ると少しぬめる。さび色の胞子紋が属の手がかり。食は避ける。"
+    },
+    "en": {
+      "summary": "A webcap (ライラックフウセンタケ, Cortinarius); an autumn woodland mushroom that when young stretches a cobweb-like veil (cortina) between cap and gills, with a rust-coloured spore print. the cap is lilac (blue-purple) and slightly viscid when moist. The genus includes deadly species (orellanine poisoning), so it should not be eaten casually.",
+      "habitat_hint": "On the ground in autumn woods (broadleaf and conifer; mycorrhizal).",
+      "finding_tips": "In autumn woods look for a mushroom with a cobweb veil between cap and gills when young; the cap is lilac (blue-purple) and slightly viscid when moist. The rusty spore print marks the genus. Avoid eating."
+    },
+    "zh": {
+      "summary": "ライラックフウセンタケ。丝膜菌科（丝膜菌属，Cortinarius）之菌，秋生林地，幼时盖与褶间张蛛网状膜（丝膜），孢子印锈色。盖带丁香色（蓝紫）、湿时略黏。本属含剧毒种（奥来毒素中毒），勿轻易食用。",
+      "habitat_hint": "秋林内地上（阔叶、针叶林，菌根性）。",
+      "finding_tips": "秋林寻幼时盖褶间具蛛网状膜之菌；盖带丁香色（蓝紫）、湿时略黏。锈色孢子印为属之线索。忌食。"
+    }
+  },
+  "Cortinarius iodes": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Webcap",
+    "ja": {
+      "summary": "ムラサキアブラシメジ。秋、林の地上に生えるフウセンタケ科(フウセンタケ属、Cortinarius)のキノコ。若いとき傘とひだの間にクモの巣のような膜(コルチナ)を張り、胞子紋はさび色。傘が紫色でぬめり(油)があり、幼時は全体が紫を帯びる。この属には猛毒種(オレラニン中毒)も含まれるため、安易に食用にしないこと。",
+      "habitat_hint": "秋、林内の地上(広葉樹・針葉樹林、菌根性)。",
+      "finding_tips": "秋の林で、若いとき傘とひだにクモの巣状の膜をもつキノコを探す。傘が紫色でぬめり(油)があり、幼時は全体が紫を帯びる。さび色の胞子紋が属の手がかり。食は避ける。"
+    },
+    "en": {
+      "summary": "A webcap (ムラサキアブラシメジ, Cortinarius); an autumn woodland mushroom that when young stretches a cobweb-like veil (cortina) between cap and gills, with a rust-coloured spore print. the cap is purple and viscid (oily), the young fruit body flushed purple throughout. The genus includes deadly species (orellanine poisoning), so it should not be eaten casually.",
+      "habitat_hint": "On the ground in autumn woods (broadleaf and conifer; mycorrhizal).",
+      "finding_tips": "In autumn woods look for a mushroom with a cobweb veil between cap and gills when young; the cap is purple and viscid (oily), the young fruit body flushed purple throughout. The rusty spore print marks the genus. Avoid eating."
+    },
+    "zh": {
+      "summary": "ムラサキアブラシメジ。丝膜菌科（丝膜菌属，Cortinarius）之菌，秋生林地，幼时盖与褶间张蛛网状膜（丝膜），孢子印锈色。盖紫而具黏（油）、幼时通体带紫。本属含剧毒种（奥来毒素中毒），勿轻易食用。",
+      "habitat_hint": "秋林内地上（阔叶、针叶林，菌根性）。",
+      "finding_tips": "秋林寻幼时盖褶间具蛛网状膜之菌；盖紫而具黏（油）、幼时通体带紫。锈色孢子印为属之线索。忌食。"
+    }
+  },
+  "Cortinarius prunicola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Webcap",
+    "ja": {
+      "summary": "ウメウスフジフウセンタケ。秋、林の地上に生えるフウセンタケ科(フウセンタケ属、Cortinarius)のキノコ。若いとき傘とひだの間にクモの巣のような膜(コルチナ)を張り、胞子紋はさび色。全体に淡い藤色(うすい紫)を帯びる。この属には猛毒種(オレラニン中毒)も含まれるため、安易に食用にしないこと。",
+      "habitat_hint": "秋、林内の地上(広葉樹・針葉樹林、菌根性)。",
+      "finding_tips": "秋の林で、若いとき傘とひだにクモの巣状の膜をもつキノコを探す。全体に淡い藤色(うすい紫)を帯びる。さび色の胞子紋が属の手がかり。食は避ける。"
+    },
+    "en": {
+      "summary": "A webcap (ウメウスフジフウセンタケ, Cortinarius); an autumn woodland mushroom that when young stretches a cobweb-like veil (cortina) between cap and gills, with a rust-coloured spore print. flushed pale wisteria (pale purple) throughout. The genus includes deadly species (orellanine poisoning), so it should not be eaten casually.",
+      "habitat_hint": "On the ground in autumn woods (broadleaf and conifer; mycorrhizal).",
+      "finding_tips": "In autumn woods look for a mushroom with a cobweb veil between cap and gills when young; flushed pale wisteria (pale purple) throughout. The rusty spore print marks the genus. Avoid eating."
+    },
+    "zh": {
+      "summary": "ウメウスフジフウセンタケ。丝膜菌科（丝膜菌属，Cortinarius）之菌，秋生林地，幼时盖与褶间张蛛网状膜（丝膜），孢子印锈色。通体染淡藤色（浅紫）。本属含剧毒种（奥来毒素中毒），勿轻易食用。",
+      "habitat_hint": "秋林内地上（阔叶、针叶林，菌根性）。",
+      "finding_tips": "秋林寻幼时盖褶间具蛛网状膜之菌；通体染淡藤色（浅紫）。锈色孢子印为属之线索。忌食。"
+    }
+  },
+  "Cortinarius pseudopurpurascens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Webcap",
+    "ja": {
+      "summary": "フウセンタケモドキ。秋、林の地上に生えるフウセンタケ科(フウセンタケ属、Cortinarius)のキノコ。若いとき傘とひだの間にクモの巣のような膜(コルチナ)を張り、胞子紋はさび色。傷つくと紫色に変色する性質がある。この属には猛毒種(オレラニン中毒)も含まれるため、安易に食用にしないこと。",
+      "habitat_hint": "秋、林内の地上(広葉樹・針葉樹林、菌根性)。",
+      "finding_tips": "秋の林で、若いとき傘とひだにクモの巣状の膜をもつキノコを探す。傷つくと紫色に変色する性質がある。さび色の胞子紋が属の手がかり。食は避ける。"
+    },
+    "en": {
+      "summary": "A webcap (フウセンタケモドキ, Cortinarius); an autumn woodland mushroom that when young stretches a cobweb-like veil (cortina) between cap and gills, with a rust-coloured spore print. staining purple where bruised. The genus includes deadly species (orellanine poisoning), so it should not be eaten casually.",
+      "habitat_hint": "On the ground in autumn woods (broadleaf and conifer; mycorrhizal).",
+      "finding_tips": "In autumn woods look for a mushroom with a cobweb veil between cap and gills when young; staining purple where bruised. The rusty spore print marks the genus. Avoid eating."
+    },
+    "zh": {
+      "summary": "フウセンタケモドキ。丝膜菌科（丝膜菌属，Cortinarius）之菌，秋生林地，幼时盖与褶间张蛛网状膜（丝膜），孢子印锈色。伤则变紫。本属含剧毒种（奥来毒素中毒），勿轻易食用。",
+      "habitat_hint": "秋林内地上（阔叶、针叶林，菌根性）。",
+      "finding_tips": "秋林寻幼时盖褶间具蛛网状膜之菌；伤则变紫。锈色孢子印为属之线索。忌食。"
+    }
+  },
+  "Coryphellina exoptata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aeolid nudibranch",
+    "ja": {
+      "summary": "アデヤカミノウミウシ。暖かい海の岩礁やサンゴ礁にすむミノウミウシ類の海牛(ウミウシ)。名(艶やか)のとおりあざやかで、体は半透明の地に青や紫、橙などの色がのり、背に多数のミノ(突起)を生やす。刺胞動物(ヒドロ虫など)を食べ、獲物の刺胞をミノの先に蓄えて身を守る。",
+      "habitat_hint": "暖海の岩礁・サンゴ礁、浅い海。",
+      "finding_tips": "岩礁で、あざやかな色の背に多数のミノを生やす小さなウミウシを探す。鮮やかな体色と房状のミノが手がかり。"
+    },
+    "en": {
+      "summary": "A brightly coloured aeolid nudibranch (アデヤカミノウミウシ, Coryphellina) of warm-water rocky and coral reefs; as the Japanese name ('gorgeous') implies, it is vivid, the translucent body washed with blue, purple and orange and carrying many cerata on the back. It eats cnidarians such as hydroids and stores their stinging cells in the ceratal tips for defence.",
+      "habitat_hint": "Warm-water rocky and coral reefs, shallow sea.",
+      "finding_tips": "On reefs look for a small vividly coloured sea slug with many cerata on the back; the bright colour and clustered cerata are the clue."
+    },
+    "zh": {
+      "summary": "アデヤカミノウミウシ。蓑海牛类之海牛，栖暖海岩礁与珊瑚礁，色艳（和名意为艳丽），体半透明而染青、紫、橙，背具多数蓑突，食水螅等刺胞动物、蓄其刺细胞于蓑端自卫。",
+      "habitat_hint": "暖海岩礁、珊瑚礁、浅海。",
+      "finding_tips": "于礁区寻色艳而背具多蓑突之小海牛；鲜艳之体色与簇生蓑突为线索。"
+    }
+  },
+  "Crateva formosensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spider tree",
+    "ja": {
+      "summary": "ギョボク(魚木)。南西諸島などの海岸近くに生えるフウチョウソウ科の落葉小高木。葉は3枚の小葉からなる。花は白〜淡黄で、細長い雄しべが多数飛び出して蜘蛛の脚のように見える。ツマベニチョウなど白いチョウの食草になる。材が柔らかく釣りの浮きなどに使われたことが名の由来。",
+      "habitat_hint": "南西諸島の海岸近くの林、石灰岩地。",
+      "finding_tips": "暖地の海岸林で、3枚の小葉からなる葉と、細長い雄しべの飛び出した白い花をもつ木を探す。3出複葉と蜘蛛脚状の花が手がかり。"
+    },
+    "en": {
+      "summary": "The spider tree (ギョボク, Crateva formosensis, Capparaceae), a deciduous small tree of coastal areas in the Ryukyus; the leaves are trifoliate. The white to pale-yellow flowers push out many long stamens like spider legs. It is a larval food plant of white butterflies such as the great orange tip, and its soft wood (used for fishing floats) gives the Japanese name ('fish tree').",
+      "habitat_hint": "Coastal woods and limestone in the Ryukyus.",
+      "finding_tips": "In warm coastal woods look for a tree with trifoliate leaves and white flowers with long protruding stamens; the trifoliate leaves and spider-leg flowers are the clue."
+    },
+    "zh": {
+      "summary": "ギョボク（鱼木）。山柑科落叶小乔木，生西南诸岛近海之地，叶为三小叶，花白至淡黄、多数细长雄蕊伸出如蛛足，为鹤顶粉蝶等白蝶之食草，材软（曾作钓具浮子）为和名（鱼木）之由来。",
+      "habitat_hint": "西南诸岛近海之林、石灰岩地。",
+      "finding_tips": "于暖地海岸林寻具三出复叶、花白而雄蕊细长伸出之树；三出叶与蛛足状花为线索。"
+    }
+  },
+  "Cremastra unguiculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Orchid",
+    "ja": {
+      "summary": "トケンラン。山地の湿った林床に生えるラン科の多年草。地中の球茎から数枚の葉を出し、初夏、細い花茎に淡い褐色〜紫褐色の地味な花を数個〜十数個まばらに咲かせる。花に紫褐色の斑があるのがホトトギス(杜鵑)の胸の斑に見立てられ、名の由来。日本では数の少ない希少なラン。",
+      "habitat_hint": "山地の湿った林床、木陰(落葉広葉樹林)。",
+      "finding_tips": "初夏、湿った林床で細い花茎に淡褐色の地味な花をまばらにつけるランを探す。紫褐色の斑のある花が手がかり。希少種なので採らずに観察を。"
+    },
+    "en": {
+      "summary": "An orchid (トケンラン, Cremastra unguiculata) of moist montane forest floor; from an underground corm it raises a few leaves, and in early summer bears a loose spike of a few to a dozen drab pale-brown to purple-brown flowers. The purple-brown spotting is likened to the breast markings of the lesser cuckoo (the source of the name). It is a scarce orchid in Japan.",
+      "habitat_hint": "Moist montane forest floor and shade (deciduous broadleaf woods).",
+      "finding_tips": "In early summer on moist forest floor look for an orchid with a loose spike of drab pale-brown flowers; the purple-brown spotting is the clue — a scarce species, observe without picking."
+    },
+    "zh": {
+      "summary": "トケンラン。兰科多年生草，生山地湿润林床，地下球茎出数叶，初夏细花茎疏生数至十余朵淡褐至紫褐之晦暗花，花之紫褐斑喻如小杜鹃胸斑（和名之由来），在日本为稀少之兰。",
+      "habitat_hint": "山地湿润林床、树荫（落叶阔叶林）。",
+      "finding_tips": "初夏于湿润林床寻细花茎疏生淡褐晦暗花之兰；紫褐斑之花为线索——稀少种，勿采、宜观察。"
+    }
+  },
+  "Crioceris quatuordecimpunctata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Spotted asparagus beetle",
+    "ja": {
+      "summary": "ジュウシホシクビナガハムシ。アスパラガス(クサスギカズラ)につくハムシ科(クビナガハムシ類)の小さな甲虫。橙色の体に黒い斑点が14個ほど散る(名の由来)。頭のうしろがくびれて首のように見える。成虫・幼虫ともアスパラガスの茎葉を食べる。",
+      "habitat_hint": "アスパラガスの畑、クサスギカズラの生える所。",
+      "finding_tips": "アスパラガスの茎葉で、橙色に黒い斑点が多数散る小さな甲虫を探す。14個ほどの黒斑とくびれた首が手がかり。"
+    },
+    "en": {
+      "summary": "The spotted asparagus beetle (ジュウシホシクビナガハムシ, Crioceris quatuordecimpunctata, Chrysomelidae), a small beetle on asparagus; the orange body is scattered with about fourteen black spots (the source of the name), and the neck is constricted behind the head. Both adults and larvae eat asparagus stems and foliage.",
+      "habitat_hint": "Asparagus fields and where wild asparagus grows.",
+      "finding_tips": "On asparagus stems and foliage look for a small orange beetle with many black spots; about fourteen spots and the constricted neck are the clue."
+    },
+    "zh": {
+      "summary": "ジュウシホシクビナガハムシ。叶甲科（茎甲类）之小甲虫，害石刁柏（芦笋），体橙、散约十四黑斑（和名之由来），头后缢缩如颈，成幼虫均食芦笋茎叶。",
+      "habitat_hint": "芦笋田、生石刁柏之处。",
+      "finding_tips": "于芦笋茎叶寻橙底散多黑斑之小甲虫；约十四黑斑与缢颈为线索。"
+    }
+  },
+  "Croomia japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Croomia",
+    "ja": {
+      "summary": "ヒメナベワリ。山地の湿った林床に生えるビャクブ科(ナベワリ属)の多年草。細い茎に幅の広い葉を数枚つけ、初夏、葉のわきに緑色の小さな地味な花を下向きにつける。近縁のナベワリより小型でひかえめ。暖地の樹陰に生える。",
+      "habitat_hint": "山地の湿った林床、木陰(暖地の樹林)。",
+      "finding_tips": "初夏、湿った林床で、幅広い葉のわきに緑色の小さな花を下向きにつける草を探す。地味な緑の花と幅広い葉が手がかり。"
+    },
+    "en": {
+      "summary": "Croomia (ヒメナベワリ, Croomia japonica, Stemonaceae), a perennial of moist montane forest floor; slender stems bear a few broad leaves, and in early summer small drab green flowers hang from the leaf axils. Smaller and more modest than its relative Croomia heterosepala, it grows in shade in warm-region woods.",
+      "habitat_hint": "Moist montane forest floor and shade (warm-region woods).",
+      "finding_tips": "In early summer on moist forest floor look for a plant with small green flowers hanging at the axils of broad leaves; the drab green flowers and broad leaves are the clue."
+    },
+    "zh": {
+      "summary": "ヒメナベワリ。百部科（黄精叶钩吻属近缘之 Croomia）之多年生草，生山地湿润林床，细茎生数枚宽叶，初夏叶腋垂生绿色晦暗小花，较近缘之种小而低调，生暖地树荫。",
+      "habitat_hint": "山地湿润林床、树荫（暖地林）。",
+      "finding_tips": "初夏于湿润林床寻宽叶腋垂生绿色小花之草；晦暗之绿花与宽叶为线索。"
+    }
+  },
+  "Crosslandia viridis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sea slug",
+    "ja": {
+      "summary": "コチョウウミウシ。海藻(ホンダワラなど)や砂底の藻の上にすむミノウミウシに近い海牛(ウミウシ)の仲間(ミノウミウシ上目)。体の側面に木の葉のような平たい突起を並べ、緑色をおびて海藻に紛れる。名(小蝶)のとおり泳ぐとき突起がはためく。海藻の上をはって暮らす。",
+      "habitat_hint": "海藻の上、藻場、砂底(浅海)。",
+      "finding_tips": "藻場やホンダワラの上で、木の葉状の平たい突起を並べた緑色のウミウシを探す。海藻に似た葉状の突起が手がかり。"
+    },
+    "en": {
+      "summary": "A sea slug (コチョウウミウシ, Crosslandia viridis, Scyllaeidae) living on seaweeds such as Sargassum and on algae over sand; it lines its sides with flat leaf-like lobes and is greenish, blending with the weed. As the Japanese name ('little butterfly') implies, the lobes flap when it swims, and it creeps over the weed.",
+      "habitat_hint": "On seaweeds, weed beds and over sand (shallow sea).",
+      "finding_tips": "On weed beds or Sargassum look for a greenish sea slug lined with flat leaf-like lobes; the weed-like leafy lobes are the clue."
+    },
+    "zh": {
+      "summary": "コチョウウミウシ。蓑海牛类近缘之海牛（背楯目 Scyllaeidae），栖海藻（马尾藻等）与砂上藻间，体侧列扁如叶之突起、色带绿而拟藻，游时突起翩然（和名意为小蝶），爬行于藻上。",
+      "habitat_hint": "海藻上、藻场、砂底（浅海）。",
+      "finding_tips": "于藻场或马尾藻上寻体侧列叶状扁突之绿色海牛；拟藻之叶状突起为线索。"
+    }
+  },
+  "Crossotarsus niponicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ambrosia beetle",
+    "ja": {
+      "summary": "ヤチダモノナガキクイムシ。ヤチダモなどの生木・枯れ木の材に穴を掘って入り込む、細長い円筒形のナガキクイムシ(ゾウムシ科ナガキクイムシ類)。掘った坑道の壁に「養菌(アンブロシア菌)」を育て、成虫・幼虫ともその菌を食べる(菌食性)。木に丸い小さな穴を開ける。",
+      "habitat_hint": "ヤチダモなど広葉樹の生木・枯れ木、湿った林。",
+      "finding_tips": "弱った木や倒木で、丸い小さな穴と、そこから出入りする細長い円筒形の甲虫を探す。細長い体と材の穴が手がかり。"
+    },
+    "en": {
+      "summary": "An ambrosia beetle (ヤチダモノナガキクイムシ, Crossotarsus, Platypodinae), a slender cylindrical beetle that bores into the wood of living and dead trees such as Japanese ash; it cultivates ambrosia fungus on its tunnel walls, and both adults and larvae eat the fungus (fungus-farming). It leaves small round holes in wood.",
+      "habitat_hint": "Living and dead broadleaf wood (e.g. ash) in damp woods.",
+      "finding_tips": "On weakened or fallen trees look for small round holes with a slender cylindrical beetle entering; the elongate body and wood holes are the clue."
+    },
+    "zh": {
+      "summary": "ヤチダモノナガキクイムシ。象甲科（长小蠹类，Platypodinae）之细长圆筒形甲虫，蛀入水曲柳等生木、枯木之材，于坑道壁培「养菌（真菌）」、成幼虫均食之（食菌性），于木上留小圆孔。",
+      "habitat_hint": "水曲柳等阔叶之生木、枯木，湿润林。",
+      "finding_tips": "于衰弱木、倒木寻小圆孔及出入之细长圆筒形甲虫；细长之体与材之孔为线索。"
+    }
+  },
+  "Crotalaria juncea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "ja": {
+      "summary": "サンヘンプ(サンヘネケン)。インド原産で緑肥や繊維作物として栽培されるマメ科の一年草。高さ1〜3mになり、茎はまっすぐで、夏〜秋に黄色いチョウ形の花を穂状に咲かせる。根に窒素を固定するので緑肥(肥料になる作物)や土壌改良、線虫対策に使われる。丈夫な繊維(サンヘンプ)もとれる。",
+      "habitat_hint": "畑の緑肥・繊維栽培地、逸出地。",
+      "finding_tips": "夏〜秋、背の高い直立した茎に黄色いマメ科の花を穂状につける草を探す。高い草姿と黄色い蝶形花が手がかり。"
+    },
+    "en": {
+      "summary": "Sunn hemp (サンヘンプ, Crotalaria juncea), an annual legume native to India grown for green manure and fibre; it reaches 1–3 m with erect stems, and in summer–autumn bears spikes of yellow pea flowers. Fixing nitrogen at its roots, it is used as green manure, for soil improvement and nematode suppression, and yields a tough fibre (sunn hemp).",
+      "habitat_hint": "Green-manure and fibre plantings; escapes.",
+      "finding_tips": "In summer–autumn look for a tall erect plant with spikes of yellow pea flowers; the tall habit and yellow pea flowers are the clue."
+    },
+    "zh": {
+      "summary": "菽麻（サンヘンプ，太阳麻）。豆科一年生草，原产印度、作绿肥与纤维作物栽培，高1~3米、茎直立，夏秋穗状开黄色蝶形花，根固氮、用作绿肥、改良土壤与防线虫，并产坚韧纤维（菽麻）。",
+      "habitat_hint": "绿肥、纤维栽培地；逸出。",
+      "finding_tips": "夏秋寻高而直立、穗状开黄色蝶形花之草；高株与黄蝶形花为线索。"
+    }
+  },
+  "Cryphia bryophasma": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "エゾキノコヨトウ。前翅が灰緑色〜緑がかった地に暗い模様をもつヤガ科(キノコヨトウ類)の小型のガ。翅の色と模様が樹皮や地衣類(コケ)によく紛れる。幼虫は樹皮や岩の上の地衣類を食べる。夜行性で灯火に飛来する。",
+      "habitat_hint": "雑木林、林縁、地衣類の多い樹幹・岩まわり。",
+      "finding_tips": "夜、灯火で灰緑色に暗い模様のある小さなヤガを探す。地衣に紛れる緑がかった翅が手がかり。"
+    },
+    "en": {
+      "summary": "A noctuid moth (エゾキノコヨトウ, Cryphia) with grey-green to greenish forewings marked darker; the wing colour and pattern blend well with bark and lichen. Larvae eat lichens on bark and rock. Nocturnal, it comes to lights.",
+      "habitat_hint": "Coppice, woodland edges and lichen-rich trunks and rock.",
+      "finding_tips": "At night at lights look for a small noctuid with grey-green dark-marked wings; the lichen-blending greenish wings are the clue."
+    },
+    "zh": {
+      "summary": "エゾキノコヨトウ。夜蛾科（菌夜蛾类）之小型蛾，前翅灰绿至带绿而具暗纹，翅色与纹拟树皮与地衣，幼虫食树皮与岩上之地衣，夜行趋光。",
+      "habitat_hint": "杂木林、林缘、地衣丰富之树干与岩。",
+      "finding_tips": "夜于灯下寻灰绿具暗纹之小夜蛾；拟地衣之带绿翅为线索。"
+    }
+  },
+  "Cryptopleurum subtile": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water scavenger beetle",
+    "aliases": {
+      "zh-Hans": "微小陆牙甲"
+    },
+    "ja": {
+      "summary": "セマルケシガムシ。ふんや腐った植物、堆肥のまわりにすむ、体長2mm前後のごく小さなガムシ科(ケシガムシ類)の甲虫。背が丸く盛り上がり(名の由来)、黒っぽい。水生のガムシと違い陸生で、腐植や糞に集まって有機物を食べる。",
+      "habitat_hint": "牛馬のふん、堆肥、腐った植物のまわり、湿った地表。",
+      "finding_tips": "ふんや堆肥のまわりで、背の丸い2mmほどの黒い小さな甲虫を探す。丸く盛り上がった背と小ささが手がかり。"
+    },
+    "en": {
+      "summary": "A water scavenger beetle (セマルケシガムシ, Cryptopleurum, Hydrophilidae) about 2 mm long, living around dung, rotting plants and compost; the back is strongly domed (the source of the name) and darkish. Unlike aquatic hydrophilids it is terrestrial, gathering at humus and dung to eat organic matter.",
+      "habitat_hint": "Around dung, compost, rotting plants and moist ground.",
+      "finding_tips": "Around dung and compost look for a domed 2 mm black beetle; the strongly domed back and small size are the clue."
+    },
+    "zh": {
+      "summary": "微小陆牙甲（セマルケシガムシ）。牙甲科（芥牙甲类）之极小甲虫，体长约2毫米，栖粪、腐植与堆肥周围，背强隆（和名之由来）、偏黑，异于水生牙甲而为陆生，聚于腐植与粪食有机物。",
+      "habitat_hint": "牛马粪、堆肥、腐败植物周围、湿润地表。",
+      "finding_tips": "于粪、堆肥旁寻背隆、约2毫米之黑色小甲虫；强隆之背与微小之体为线索。"
+    }
+  },
+  "Ctena bella": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lucine clam",
+    "ja": {
+      "summary": "ヒメツキガイ。潮間帯〜浅海の砂泥底に浅くもぐってすむツキガイ科(ツキ貝類)の小さな二枚貝。殻はほぼ円形で白っぽく、殻の表面に細かい格子状の彫刻があり、やや小型。えらに硫黄酸化細菌を共生させ、その細菌がつくる養分を利用して生きる(化学合成共生)。有機物のたまった還元的な砂泥を好む。",
+      "habitat_hint": "潮間帯〜浅海の砂泥底(還元的な底質)。",
+      "finding_tips": "干潟や浅い砂泥底で、白っぽくほぼ円形の小さな二枚貝の殻を探す。殻の表面に細かい格子状の彫刻があり、やや小型。円形で白い殻が手がかり。"
+    },
+    "en": {
+      "summary": "A lucine clam (ヒメツキガイ, Lucinidae), a small bivalve buried shallowly in intertidal to shallow sand-mud; the shell is nearly circular and whitish, with fine lattice-like surface sculpture and rather small. It hosts sulphur-oxidising bacteria in its gills and lives off the nutrients they make (chemosymbiosis), favouring reducing organic-rich sand-mud.",
+      "habitat_hint": "Intertidal to shallow sand-mud bottoms (reducing sediment).",
+      "finding_tips": "On tidal flats and shallow sand-mud look for a whitish nearly circular small bivalve shell; with fine lattice-like surface sculpture and rather small. The round white shell is the clue."
+    },
+    "zh": {
+      "summary": "ヒメツキガイ。满月蛤科之小型二枚贝，浅埋于潮间带至浅海砂泥，壳近圆形而偏白，壳面具细格状雕刻、体略小。鳃内共生硫氧化细菌、赖其所产养分为生（化能共生），喜富有机质之还原性砂泥。",
+      "habitat_hint": "潮间带至浅海砂泥底（还原性底质）。",
+      "finding_tips": "于滩涂、浅砂泥寻偏白近圆之小二枚贝壳；壳面具细格状雕刻、体略小。圆而白之壳为线索。"
+    }
+  },
+  "Ctena delicatula": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Lucine clam",
+    "ja": {
+      "summary": "ウミアサガイ。潮間帯〜浅海の砂泥底に浅くもぐってすむツキガイ科(ツキ貝類)の小さな二枚貝。殻はほぼ円形で白っぽく、殻が薄く繊細で、表面の彫刻は弱い。えらに硫黄酸化細菌を共生させ、その細菌がつくる養分を利用して生きる(化学合成共生)。有機物のたまった還元的な砂泥を好む。",
+      "habitat_hint": "潮間帯〜浅海の砂泥底(還元的な底質)。",
+      "finding_tips": "干潟や浅い砂泥底で、白っぽくほぼ円形の小さな二枚貝の殻を探す。殻が薄く繊細で、表面の彫刻は弱い。円形で白い殻が手がかり。"
+    },
+    "en": {
+      "summary": "A lucine clam (ウミアサガイ, Lucinidae), a small bivalve buried shallowly in intertidal to shallow sand-mud; the shell is nearly circular and whitish, with a thin delicate shell and weak surface sculpture. It hosts sulphur-oxidising bacteria in its gills and lives off the nutrients they make (chemosymbiosis), favouring reducing organic-rich sand-mud.",
+      "habitat_hint": "Intertidal to shallow sand-mud bottoms (reducing sediment).",
+      "finding_tips": "On tidal flats and shallow sand-mud look for a whitish nearly circular small bivalve shell; with a thin delicate shell and weak surface sculpture. The round white shell is the clue."
+    },
+    "zh": {
+      "summary": "ウミアサガイ。满月蛤科之小型二枚贝，浅埋于潮间带至浅海砂泥，壳近圆形而偏白，壳薄而纤细、面之雕刻弱。鳃内共生硫氧化细菌、赖其所产养分为生（化能共生），喜富有机质之还原性砂泥。",
+      "habitat_hint": "潮间带至浅海砂泥底（还原性底质）。",
+      "finding_tips": "于滩涂、浅砂泥寻偏白近圆之小二枚贝壳；壳薄而纤细、面之雕刻弱。圆而白之壳为线索。"
+    }
+  },
+  "Cupressus sempervirens": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Italian cypress",
+    "aliases": {
+      "zh-Hans": "地中海柏木"
+    },
+    "ja": {
+      "summary": "イトスギ(セイヨウイトスギ)。地中海地方原産のヒノキ科の常緑針葉樹。細い円柱状(ほうき形)にまっすぐ高く伸びる樹形が特徴で、公園や墓地、街路の植栽によく使われる。葉はうろこ状で密につき、球形の小さな球果をつける。地中海の風景を象徴する木。",
+      "habitat_hint": "公園、庭園、墓地、街路の植栽(暖地)。",
+      "finding_tips": "細い円柱状(ほうき形)にまっすぐ立つ常緑針葉樹を探す。細長い樹形とうろこ状の葉が手がかり。"
+    },
+    "en": {
+      "summary": "The Italian (Mediterranean) cypress (イトスギ, Cupressus sempervirens, Cupressaceae), an evergreen conifer native to the Mediterranean; its narrow columnar (broom-shaped) upright form is distinctive and much planted in parks, cemeteries and along streets. The scale-like leaves are densely set and it bears small globular cones — an icon of Mediterranean landscapes.",
+      "habitat_hint": "Parks, gardens, cemeteries and street plantings (warm regions).",
+      "finding_tips": "Look for a narrow columnar (broom-shaped) upright evergreen conifer; the slender form and scale-like leaves are the clue."
+    },
+    "zh": {
+      "summary": "地中海柏木（イトスギ）。柏科常绿针叶树，原产地中海，树形细窄圆柱状（扫帚形）而直立高耸为其特征，多植于公园、墓地与街道，叶鳞状密生、球果小而圆，为地中海风景之象征。",
+      "habitat_hint": "公园、庭园、墓地、街道栽培（暖地）。",
+      "finding_tips": "寻细窄圆柱（扫帚形）而直立之常绿针叶树；细长之树形与鳞状叶为线索。"
+    }
   }
 }
