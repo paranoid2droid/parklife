@@ -289467,5 +289467,545 @@
       "habitat_hint": "高山带岩地、砾地、风衝地。",
       "finding_tips": "夏于高山岩地寻匍匐、丝状茎具鳞叶而开白色小钟花者；索状之茎（和名意为岩须）为线索。"
     }
+  },
+  "Catocala agitatrix": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Underwing moth",
+    "ja": {
+      "summary": "ハイモンキシタバ。ヤガ科(シタバガ類、Catocala)の中〜大型のガ。とまると見える前翅は樹皮そっくりの灰褐色で、飛ぶと後翅の黄色に黒帯のある鮮やかな模様があらわれて敵を驚かせる。夜行性で樹液や灯火に集まり、幼虫は各種の広葉樹の葉を食べる。",
+      "habitat_hint": "雑木林、落葉広葉樹林、林縁。",
+      "finding_tips": "夏〜秋の夜、樹液や灯火で樹皮状の前翅をもつ大きなガを探す。飛んだとき見える後翅の黄色に黒帯のある鮮やかな模様が手がかり。"
+    },
+    "en": {
+      "summary": "Underwing moth (ハイモンキシタバ, Catocala, Noctuidae), a medium to large moth; at rest the bark-like grey-brown forewings hide the vivid yellow-and-black-banded hindwings, which flash to startle predators in flight. Nocturnal, it gathers at tree sap and lights, and larvae feed on the leaves of various broadleaf trees.",
+      "habitat_hint": "Deciduous broadleaf woodland and edges.",
+      "finding_tips": "On summer–autumn nights at sap or lights look for a large moth with bark-like forewings; the vivid yellow-and-black-banded hindwings shown in flight are the clue."
+    },
+    "zh": {
+      "summary": "ハイモンキシタバ。夜蛾科（裳蛾类，Catocala）之中至大型蛾，静止时如树皮之灰褐前翅掩其后翅，飞时露鲜艳之黄地黑带之后翅以惊敌，夜行、趋树液与灯火，幼虫食各种阔叶树叶。",
+      "habitat_hint": "杂木林、落叶阔叶林、林缘。",
+      "finding_tips": "夏秋夜于树液或灯下寻具树皮状前翅之大蛾；飞时所露鲜艳之黄地黑带后翅为线索。"
+    }
+  },
+  "Catocala deuteronympha": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Underwing moth",
+    "ja": {
+      "summary": "ケンモンキシタバ。ヤガ科(シタバガ類、Catocala)の中〜大型のガ。とまると見える前翅は樹皮そっくりの灰褐色で、飛ぶと後翅の黄色に黒帯のある模様があらわれて敵を驚かせる。夜行性で樹液や灯火に集まり、幼虫は各種の広葉樹の葉を食べる。",
+      "habitat_hint": "雑木林、落葉広葉樹林、林縁。",
+      "finding_tips": "夏〜秋の夜、樹液や灯火で樹皮状の前翅をもつ大きなガを探す。飛んだとき見える後翅の黄色に黒帯のある模様が手がかり。"
+    },
+    "en": {
+      "summary": "Underwing moth (ケンモンキシタバ, Catocala, Noctuidae), a medium to large moth; at rest the bark-like grey-brown forewings hide the yellow with black bands hindwings, which flash to startle predators in flight. Nocturnal, it gathers at tree sap and lights, and larvae feed on the leaves of various broadleaf trees.",
+      "habitat_hint": "Deciduous broadleaf woodland and edges.",
+      "finding_tips": "On summer–autumn nights at sap or lights look for a large moth with bark-like forewings; the yellow with black bands hindwings shown in flight are the clue."
+    },
+    "zh": {
+      "summary": "ケンモンキシタバ。夜蛾科（裳蛾类，Catocala）之中至大型蛾，静止时如树皮之灰褐前翅掩其后翅，飞时露黄地黑带之后翅以惊敌，夜行、趋树液与灯火，幼虫食各种阔叶树叶。",
+      "habitat_hint": "杂木林、落叶阔叶林、林缘。",
+      "finding_tips": "夏秋夜于树液或灯下寻具树皮状前翅之大蛾；飞时所露黄地黑带后翅为线索。"
+    }
+  },
+  "Catocala nupta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Red underwing",
+    "ja": {
+      "summary": "エゾベニシタバ。ヤガ科(シタバガ類、Catocala)の中〜大型のガ。とまると見える前翅は樹皮そっくりの灰褐色で、飛ぶと後翅のあざやかな紅色に黒帯のある模様があらわれて敵を驚かせる。夜行性で樹液や灯火に集まり、幼虫は各種の広葉樹の葉を食べる。",
+      "habitat_hint": "雑木林、落葉広葉樹林、林縁。",
+      "finding_tips": "夏〜秋の夜、樹液や灯火で樹皮状の前翅をもつ大きなガを探す。飛んだとき見える後翅のあざやかな紅色に黒帯のある模様が手がかり。"
+    },
+    "en": {
+      "summary": "Red underwing (エゾベニシタバ, Catocala, Noctuidae), a medium to large moth; at rest the bark-like grey-brown forewings hide the bright red with black bands hindwings, which flash to startle predators in flight. Nocturnal, it gathers at tree sap and lights, and larvae feed on the leaves of various broadleaf trees.",
+      "habitat_hint": "Deciduous broadleaf woodland and edges.",
+      "finding_tips": "On summer–autumn nights at sap or lights look for a large moth with bark-like forewings; the bright red with black bands hindwings shown in flight are the clue."
+    },
+    "zh": {
+      "summary": "エゾベニシタバ。夜蛾科（裳蛾类，Catocala）之中至大型蛾，静止时如树皮之灰褐前翅掩其后翅，飞时露鲜红而具黑带之后翅以惊敌，夜行、趋树液与灯火，幼虫食各种阔叶树叶。",
+      "habitat_hint": "杂木林、落叶阔叶林、林缘。",
+      "finding_tips": "夏秋夜于树液或灯下寻具树皮状前翅之大蛾；飞时所露鲜红而具黑带后翅为线索。"
+    }
+  },
+  "Ceratina okinawana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small carpenter bee",
+    "ja": {
+      "summary": "オキナワツヤハナバチ。沖縄など南西諸島にすむ、体長1cmほどの小さなハナバチ(ミツバチ科ツヤハナバチ属)。体は黒〜暗色で青緑や金属光沢を帯び、細長い。枯れた茎の髄をかじって巣穴をつくり、花粉と蜜を集めて幼虫を育てる。花をよく訪れる。",
+      "habitat_hint": "南西諸島の草地、林縁、花のある環境。",
+      "finding_tips": "花の上で、金属光沢を帯びた黒っぽい細長い小さなハチを探す。細長い体とつやのある光沢が手がかり。"
+    },
+    "en": {
+      "summary": "A small carpenter bee (オキナワツヤハナバチ, Ceratina) of the Ryukyus, about 1 cm long; the slender body is black to dark with a blue-green metallic sheen. It gnaws the pith of dead stems to make a nest tunnel and provisions pollen and nectar for its larvae, and visits flowers readily.",
+      "habitat_hint": "Ryukyu grassland, woodland edges and flowery places.",
+      "finding_tips": "On flowers look for a slender darkish small bee with a metallic sheen; the slender glossy body is the clue."
+    },
+    "zh": {
+      "summary": "オキナワツヤハナバチ。蜜蜂科（青条蜂近缘之芦蜂属）之小型蜂，体长约1厘米，见于西南诸岛，体黑至暗、带青绿金属光泽而细长，啮枯茎之髓为巢、贮花粉花蜜育幼，喜访花。",
+      "habitat_hint": "西南诸岛草地、林缘、花境。",
+      "finding_tips": "于花上寻带金属光泽之黑而细长之小蜂；细长而具光泽之体为线索。"
+    }
+  },
+  "Ceratosoma bicolor": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dorid nudibranch",
+    "ja": {
+      "summary": "フタイロニシキウミウシ。暖かい海のサンゴ礁や岩礁にすむイロウミウシ科の海牛(ウミウシ)。名(二色)のとおり体は2色に色分かれし、背に突起(突起状の隆起)をもつ。海綿を食べ、体内に取り込んだ化学物質で身を守ると考えられる。ゆっくり岩の上をはう。",
+      "habitat_hint": "暖海のサンゴ礁・岩礁、浅い海。",
+      "finding_tips": "サンゴ礁の岩の上で、2色にはっきり色分かれした背に突起のあるウミウシを探す。2色の体色が手がかり。"
+    },
+    "en": {
+      "summary": "A dorid nudibranch (フタイロニシキウミウシ, Ceratosoma) of warm-water coral and rocky reefs; as the Japanese name ('two-colour') implies, the body is divided into two colours and bears raised ridges on the back. It eats sponges and is thought to defend itself with chemicals taken from them, creeping slowly over rock.",
+      "habitat_hint": "Warm-water coral and rocky reefs, shallow sea.",
+      "finding_tips": "On reef rock look for a nudibranch sharply divided into two colours with ridges on the back; the two-tone body is the clue."
+    },
+    "zh": {
+      "summary": "フタイロニシキウミウシ。多彩海牛科之海牛，栖暖海珊瑚礁与岩礁，体分二色（和名意为二色）、背具突起状隆起，食海绵、疑以自其体取之化学物质自卫，缓爬于岩。",
+      "habitat_hint": "暖海珊瑚礁、岩礁、浅海。",
+      "finding_tips": "于礁岩寻体明分二色、背具隆起之海牛；二色之体为线索。"
+    }
+  },
+  "Cerceris carinalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Digger wasp",
+    "ja": {
+      "summary": "ヒメツチスガリ。地面に巣穴を掘るギングチバチ科(ツチスガリ類、Cerceris)の中型のハチ。黒地に黄色い斑紋をもち、腹部のくびれが目立つ。小型で、ゾウムシなどの甲虫を狩る。メスは狩った獲物を麻酔して巣穴に運び、幼虫の餌にする。日当たりのよい裸地に営巣する。",
+      "habitat_hint": "日当たりのよい裸地、砂地、土手、林縁。",
+      "finding_tips": "夏、日当たりのよい裸地で黒地に黄斑のハチが地面に出入りしていないか探す。小型で、ゾウムシなどの甲虫を狩る。腹部のくびれが手がかり。"
+    },
+    "en": {
+      "summary": "A digger wasp (ヒメツチスガリ, Cerceris, Crabronidae) that digs burrows in the ground; it is black with yellow markings and a conspicuous waist. small, hunting weevils and other beetles. The female paralyses hunted prey and carries it to the burrow to feed her larvae, nesting in sunny bare ground.",
+      "habitat_hint": "Sunny bare ground, sand, banks and woodland edges.",
+      "finding_tips": "In summer on sunny bare ground watch for a black-and-yellow wasp entering the ground; small, hunting weevils and other beetles. The waisted body is the clue."
+    },
+    "zh": {
+      "summary": "ヒメツチスガリ。方头泥蜂科（Cerceris）之中型蜂，掘穴于地，黑底具黄斑、腰缢显著。体较小、猎象甲等甲虫。雌以麻醉之猎物运入穴中饲幼，营巢于向阳裸地。",
+      "habitat_hint": "向阳裸地、砂地、土堤、林缘。",
+      "finding_tips": "夏于向阳裸地察黑底黄斑之蜂出入地面；体较小、猎象甲等甲虫。缢腰之体为线索。"
+    }
+  },
+  "Cerceris japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Digger wasp",
+    "ja": {
+      "summary": "マルモンツチスガリ。地面に巣穴を掘るギングチバチ科(ツチスガリ類、Cerceris)の中型のハチ。黒地に黄色い斑紋をもち、腹部のくびれが目立つ。腹部に丸い黄色の斑紋が並び、ハナバチなどを狩る。メスは狩った獲物を麻酔して巣穴に運び、幼虫の餌にする。日当たりのよい裸地に営巣する。",
+      "habitat_hint": "日当たりのよい裸地、砂地、土手、林縁。",
+      "finding_tips": "夏、日当たりのよい裸地で黒地に黄斑のハチが地面に出入りしていないか探す。腹部に丸い黄色の斑紋が並び、ハナバチなどを狩る。腹部のくびれが手がかり。"
+    },
+    "en": {
+      "summary": "A digger wasp (マルモンツチスガリ, Cerceris, Crabronidae) that digs burrows in the ground; it is black with yellow markings and a conspicuous waist. with rows of round yellow spots on the abdomen, hunting bees. The female paralyses hunted prey and carries it to the burrow to feed her larvae, nesting in sunny bare ground.",
+      "habitat_hint": "Sunny bare ground, sand, banks and woodland edges.",
+      "finding_tips": "In summer on sunny bare ground watch for a black-and-yellow wasp entering the ground; with rows of round yellow spots on the abdomen, hunting bees. The waisted body is the clue."
+    },
+    "zh": {
+      "summary": "マルモンツチスガリ。方头泥蜂科（Cerceris）之中型蜂，掘穴于地，黑底具黄斑、腰缢显著。腹具圆形黄斑成列、猎蜂类。雌以麻醉之猎物运入穴中饲幼，营巢于向阳裸地。",
+      "habitat_hint": "向阳裸地、砂地、土堤、林缘。",
+      "finding_tips": "夏于向阳裸地察黑底黄斑之蜂出入地面；腹具圆形黄斑成列、猎蜂类。缢腰之体为线索。"
+    }
+  },
+  "Cerithium lifuense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "ヨロイツノブエ。サンゴ礁や岩礁の潮間帯にすむオニノツノガイ科(ツノブエ類)の巻貝。殻は細長い塔形で、いぼ状〜とげ状の突起が「鎧(よろい)」のように並ぶのが名の由来。海底の藻や有機物(デトリタス)を食べる。",
+      "habitat_hint": "サンゴ礁・岩礁の潮間帯、礁原。",
+      "finding_tips": "サンゴ礁の岩の上や礁原で、いぼ状の突起が並ぶ細長い塔形の巻貝を探す。鎧のような突起の列が手がかり。"
+    },
+    "en": {
+      "summary": "A cerith snail (ヨロイツノブエ, Cerithiidae) of the intertidal on coral and rocky reefs; the shell is a slender tower with rows of wart- to spine-like nodes arranged like 'armour', which gives the Japanese name. It eats algae and detritus off the seabed.",
+      "habitat_hint": "Intertidal of coral and rocky reefs, reef flats.",
+      "finding_tips": "On reef rock and flats look for a slender tower snail with rows of wart-like nodes; the armour-like rows of nodes are the clue."
+    },
+    "zh": {
+      "summary": "ヨロイツノブエ。锥螺近缘之蟹守螺科螺，栖珊瑚礁与岩礁潮间带，壳细长塔形、疣状至刺状突起排列如甲（和名之由来），食海底藻与有机碎屑。",
+      "habitat_hint": "珊瑚礁、岩礁潮间带、礁坪。",
+      "finding_tips": "于礁岩、礁坪寻具疣突成列之细长塔形螺；如甲之突起列为线索。"
+    }
+  },
+  "Ceuthorrhynchidius hypocritus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Weevil",
+    "ja": {
+      "summary": "キイチゴトゲサルゾウムシ。キイチゴ類(バラ科キイチゴ属)につく、体長数mmのごく小さなゾウムシ(サルゾウムシ類)。体は黒っぽく、丸っこくて口が象の鼻のように長く伸びる。危険を感じると脚を縮めて地面に落ちて死んだふりをする。幼虫・成虫とも植物を食べる。",
+      "habitat_hint": "キイチゴ類の生える林縁、やぶ、草地。",
+      "finding_tips": "キイチゴの葉や茎で、数mmの黒くて丸い長い口のゾウムシを探す。象の鼻のような口吻が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny weevil (キイチゴトゲサルゾウムシ, Ceutorhynchinae) only a few millimetres long, associated with brambles (Rubus, Rosaceae); it is darkish, rounded, with the mouth drawn out into an elephant-trunk-like rostrum. When alarmed it tucks its legs and drops to the ground playing dead. Both larvae and adults feed on the plant.",
+      "habitat_hint": "Woodland edges, thickets and grassland where brambles grow.",
+      "finding_tips": "On bramble leaves and stems look for a few-millimetre black rounded weevil with a long snout; the elephant-trunk rostrum is the clue."
+    },
+    "zh": {
+      "summary": "キイチゴトゲサルゾウムシ。象甲科之极小型象甲，体长数毫米，寄悬钩子（蔷薇科悬钩子属），体偏黑而圆、口伸如象鼻，遇险则缩足坠地假死，幼成虫均食植物。",
+      "habitat_hint": "生悬钩子之林缘、灌丛、草地。",
+      "finding_tips": "于悬钩子叶茎寻数毫米、黑圆而具长喙之象甲；象鼻状之喙为线索。"
+    }
+  },
+  "Chaenorhinum minus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Small toadflax",
+    "aliases": {
+      "zh-Hans": "小柳穿鱼"
+    },
+    "ja": {
+      "summary": "ヒナウンラン。ヨーロッパ原産で帰化した小さな一年草(オオバコ科、旧ゴマノハグサ科)。線路ぎわや荒れ地、砂利地に生え、腺毛があってやや粘る。夏、淡い紫色に黄色の斑のある小さな唇形の花を咲かせる。花のうしろに短い距(きょ)がある。",
+      "habitat_hint": "線路ぎわ、砂利地、荒れ地、道ばた。",
+      "finding_tips": "夏、砂利地で淡紫に黄斑のある数mmの小さな唇形の花をつける細い草を探す。小さな距のある花が手がかり。"
+    },
+    "en": {
+      "summary": "Small toadflax (ヒナウンラン, Chaenorhinum minus), a small annual (Plantaginaceae) native to Europe and naturalised; it grows along railways, waste ground and gravel, is glandular-hairy and slightly sticky. In summer it bears tiny pale-purple two-lipped flowers marked yellow, each with a short spur behind.",
+      "habitat_hint": "Railway sides, gravel, waste ground and roadsides.",
+      "finding_tips": "In summer on gravel look for a slender plant with tiny pale-purple two-lipped flowers spotted yellow; the small spurred flower is the clue."
+    },
+    "zh": {
+      "summary": "小柳穿鱼（ヒナウンラン）。车前科（旧玄参科）之小型一年生草，原产欧洲而归化，生铁道边、荒地与砾地，具腺毛略黏，夏开淡紫具黄斑之小唇形花、花后具短距。",
+      "habitat_hint": "铁道边、砾地、荒地、路旁。",
+      "finding_tips": "夏于砾地寻具淡紫黄斑之数毫米小唇形花之细草；具短距之小花为线索。"
+    }
+  },
+  "Chaetocnema ingenua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flea beetle",
+    "aliases": {
+      "zh-Hans": "粟凹茎跳甲"
+    },
+    "ja": {
+      "summary": "ヒサゴトビハムシ。イネ科やタデ科などの葉を食べる、体長2mmほどのごく小さなハムシ科(トビハムシ類)の甲虫。後脚のもも節が太く、跳ねて逃げる。体は黒っぽく金属光沢を帯びる。葉に小さな穴を開けるように食害する。",
+      "habitat_hint": "水田、湿地、河原などイネ科・タデ科の生える所。",
+      "finding_tips": "草の葉の上で、2mmほどで金属光沢のある黒い甲虫が跳ねないか探す。太い後脚で跳ねる点が手がかり。"
+    },
+    "en": {
+      "summary": "A flea beetle (ヒサゴトビハムシ, Chaetocnema, Chrysomelidae) about 2 mm long, feeding on the leaves of grasses and knotweeds; its thickened hind femora let it jump away. The body is dark with a metallic sheen, and it chews small holes in leaves.",
+      "habitat_hint": "Paddies, wetlands and riverbanks where grasses and knotweeds grow.",
+      "finding_tips": "On leaves look for a 2 mm dark metallic beetle that jumps; the thick jumping hind legs are the clue."
+    },
+    "zh": {
+      "summary": "粟凹茎跳甲（ヒサゴトビハムシ）。叶甲科（跳甲类）之极小甲虫，体长约2毫米，食禾本科与蓼科之叶，后足腿节粗大、能跳逃，体偏黑具金属光泽，啮叶成小孔。",
+      "habitat_hint": "水田、湿地、河滩等生禾本、蓼科之处。",
+      "finding_tips": "于草叶寻约2毫米、黑而具金属光泽且能跳之甲虫；粗大之后足为线索。"
+    }
+  },
+  "Chaetodon kleinii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Klein's butterflyfish",
+    "aliases": {
+      "zh-Hans": "克氏蝴蝶鱼"
+    },
+    "ja": {
+      "summary": "ミゾレチョウチョウウオ。サンゴ礁にすむチョウチョウウオ科の魚。体は黄褐色で、体側に淡い斑点が散り(名のみぞれ)、目を通る黒い帯がある。円盤形の体で、単独やペアで泳ぎ、サンゴのポリプや動物プランクトン、藻などを幅広く食べる。",
+      "habitat_hint": "サンゴ礁、岩礁の礁斜面、やや深い所。",
+      "finding_tips": "サンゴ礁で、黄褐色に淡い斑点が散り目に黒帯のある円盤形の魚を探す。淡い斑点と目の黒帯が手がかり。"
+    },
+    "en": {
+      "summary": "Klein's butterflyfish (ミゾレチョウチョウウオ, Chaetodon kleinii) of coral reefs; the disc-shaped body is yellow-brown, scattered with faint spots (the Japanese name 'sleet') and crossed by a black bar through the eye. Swimming alone or in pairs, it eats broadly — coral polyps, zooplankton and algae.",
+      "habitat_hint": "Coral and rocky reef slopes, somewhat deep.",
+      "finding_tips": "On reefs look for a disc-shaped yellow-brown fish with faint spots and a black eye-bar; the faint spotting and eye-bar are the clue."
+    },
+    "zh": {
+      "summary": "克氏蝴蝶鱼（ミゾレチョウチョウウオ）。蝴蝶鱼科，栖珊瑚礁，体黄褐、体侧散淡斑（和名意为霰）、过眼具黑带，体呈圆盘形，单独或成对游动，广食珊瑚虫、浮游动物与藻。",
+      "habitat_hint": "珊瑚礁、岩礁礁坡、较深处。",
+      "finding_tips": "于礁区寻黄褐散淡斑、过眼具黑带之圆盘形鱼；淡斑与眼带为线索。"
+    }
+  },
+  "Chaetomorpha aerea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green alga",
+    "aliases": {
+      "zh-Hans": "气生硬毛藻"
+    },
+    "ja": {
+      "summary": "タルガタジュズモ。潮間帯の岩やタイドプールに生える緑藻(シオグサ科ジュズモ属)。太めの糸状で枝分かれせず、細胞が数珠(じゅず)のようにつながって見えるのが名の由来。ごわごわとした手ざわりで、岩の上に房状に生える。",
+      "habitat_hint": "潮間帯の岩、タイドプール、汽水域。",
+      "finding_tips": "潮だまりの岩で、枝分かれしないごわごわした緑色の糸状の海藻を探す。数珠状につながる太い糸が手がかり。"
+    },
+    "en": {
+      "summary": "A green alga (タルガタジュズモ, Chaetomorpha, Cladophoraceae) of intertidal rock and tide pools; the rather thick unbranched filaments have cells strung like a rosary, which gives the Japanese name. It is coarse to the touch and grows in tufts on rock.",
+      "habitat_hint": "Intertidal rock, tide pools and brackish water.",
+      "finding_tips": "In tide pools look for a coarse unbranched green filamentous alga; the thick rosary-like strands are the clue."
+    },
+    "zh": {
+      "summary": "气生硬毛藻（タルガタジュズモ）。绿藻（刚毛藻科硬毛藻属），生潮间带岩石与潮池，丝状较粗而不分枝、细胞串连如念珠（和名之由来），手感粗糙，成丛生于岩上。",
+      "habitat_hint": "潮间带岩石、潮池、汽水域。",
+      "finding_tips": "于潮池岩石寻不分枝而粗糙之绿色丝状藻；串珠状之粗丝为线索。"
+    }
+  },
+  "Charybdis bimaculata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Swimming crab",
+    "ja": {
+      "summary": "フタホシイシガニ。浅い海の砂泥底にすむワタリガニ科(イシガニ類)の小型のカニ。いちばん後ろの脚が平たいかい(オール)状になっていて泳ぐことができる。甲や体に2つの目立つ斑(星)があるのが名の由来。夜行性で小動物や有機物を食べ、底引き網でよくとれる。",
+      "habitat_hint": "浅い海〜やや深い海の砂泥底。",
+      "finding_tips": "砂泥底や底引きの水揚げで、後ろ脚が平たく2つの斑をもつ小型のワタリガニを探す。オール状の後脚と2つの斑が手がかり。"
+    },
+    "en": {
+      "summary": "A swimming crab (フタホシイシガニ, Charybdis, Portunidae) of shallow sand-mud bottoms; the rearmost legs are flattened into paddles for swimming. Two conspicuous spots on the body give the Japanese name ('two-star'). Nocturnal, it eats small animals and organic matter and is often taken in trawls.",
+      "habitat_hint": "Shallow to moderately deep sand-mud bottoms.",
+      "finding_tips": "On sand-mud bottoms or in trawl catches look for a small swimming crab with paddle rear legs and two spots; the paddles and two spots are the clue."
+    },
+    "zh": {
+      "summary": "フタホシイシガニ。梭子蟹科（蟳类）之小型蟹，栖浅海砂泥底，最后一对足扁如桨能游，体具二显斑（和名意为二星）为名之由来，夜行食小动物与有机物，常为底拖网所获。",
+      "habitat_hint": "浅海至较深海砂泥底。",
+      "finding_tips": "于砂泥底或拖网渔获寻后足扁桨、具二斑之小型梭子蟹；桨状后足与二斑为线索。"
+    }
+  },
+  "Chasminodes atrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "エゾクロギンガ。ヤガ科の小〜中型のガで、翅が黒っぽく銀白色の細い筋(すじ)が入る。成虫は夜行性で灯火に飛来し、幼虫は各種の草本や木本の葉を食べる。翅の地色や斑紋が近縁種の識別点になる。",
+      "habitat_hint": "林縁、雑木林、草地。",
+      "finding_tips": "夜、灯火で翅が黒っぽく銀白色の細い筋(すじ)が入るの小〜中型のガを探す。翅の地色と模様が手がかり。"
+    },
+    "en": {
+      "summary": "A small to medium noctuid moth (エゾクロギンガ); with darkish wings and fine silvery-white streaks. Adults are nocturnal and come to lights, and larvae feed on the leaves of various herbs and woody plants. Wing ground colour and pattern separate the relatives.",
+      "habitat_hint": "Woodland edges, coppice and grassland.",
+      "finding_tips": "At night at lights look for a small-medium moth with darkish wings and fine silvery-white streaks; wing colour and pattern are the clue."
+    },
+    "zh": {
+      "summary": "エゾクロギンガ。夜蛾科之小至中型蛾，翅偏黑而具银白细纹。成虫夜行趋光，幼虫食各种草本与木本之叶，翅之底色与斑纹为近缘种辨识点。",
+      "habitat_hint": "林缘、杂木林、草地。",
+      "finding_tips": "夜于灯下寻翅偏黑而具银白细纹之小中型蛾；翅之底色与斑纹为线索。"
+    }
+  },
+  "Chasminodes nervosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Noctuid moth",
+    "ja": {
+      "summary": "ウラギンガ。ヤガ科の小〜中型のガで、後翅の裏が銀白色に光る。成虫は夜行性で灯火に飛来し、幼虫は各種の草本や木本の葉を食べる。翅の地色や斑紋が近縁種の識別点になる。",
+      "habitat_hint": "林縁、雑木林、草地。",
+      "finding_tips": "夜、灯火で後翅の裏が銀白色に光るの小〜中型のガを探す。翅の地色と模様が手がかり。"
+    },
+    "en": {
+      "summary": "A small to medium noctuid moth (ウラギンガ); with the hindwing underside shining silvery-white. Adults are nocturnal and come to lights, and larvae feed on the leaves of various herbs and woody plants. Wing ground colour and pattern separate the relatives.",
+      "habitat_hint": "Woodland edges, coppice and grassland.",
+      "finding_tips": "At night at lights look for a small-medium moth with the hindwing underside shining silvery-white; wing colour and pattern are the clue."
+    },
+    "zh": {
+      "summary": "ウラギンガ。夜蛾科之小至中型蛾，后翅之背面银白闪光。成虫夜行趋光，幼虫食各种草本与木本之叶，翅之底色与斑纹为近缘种辨识点。",
+      "habitat_hint": "林缘、杂木林、草地。",
+      "finding_tips": "夜于灯下寻后翅之背面银白闪光之小中型蛾；翅之底色与斑纹为线索。"
+    }
+  },
+  "Chavania striata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Semele clam",
+    "ja": {
+      "summary": "チヂミウメガイ。浅い海の砂泥底にすむユキノアシタガイ科(シオガマガイ類)の小さな二枚貝。殻はやや丸みのある楕円形で、表面に細かい成長脈の縮んだような彫刻(名の由来)がある。水管を伸ばして海底の有機物をこし取って食べる。",
+      "habitat_hint": "潮間帯〜浅海の砂泥底。",
+      "finding_tips": "干潟や浅い砂泥底で、丸みのある小さな二枚貝で表面に縮んだような細かい筋のある殻を探す。縮んだ彫刻が名の由来で手がかり。"
+    },
+    "en": {
+      "summary": "A small semele clam (チヂミウメガイ, Semelidae) of shallow sand-mud bottoms; the somewhat rounded oval shell has fine, crumpled-looking growth sculpture, which gives the Japanese name. It filter-feeds on seabed organic matter through extended siphons.",
+      "habitat_hint": "Intertidal to shallow sand-mud bottoms.",
+      "finding_tips": "On tidal flats and shallow sand-mud look for a small rounded bivalve with fine crumpled surface sculpture; the crumpled ridging is the clue."
+    },
+    "zh": {
+      "summary": "チヂミウメガイ。双带蛤科之小型二枚贝，栖浅海砂泥底，壳略圆之椭圆形、面具细而如皱之生长纹雕刻（和名之由来），伸水管滤食海底有机物。",
+      "habitat_hint": "潮间带至浅海砂泥底。",
+      "finding_tips": "于滩涂、浅砂泥寻略圆而面具皱状细纹之小二枚贝；皱状雕刻为线索。"
+    }
+  },
+  "Cheilolejeunea xanthocarpa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafy liverwort",
+    "ja": {
+      "summary": "シロクサリゴケ。樹幹や枝、岩の上をはう、ごく小さな葉状の苔類(クサリゴケ科)。茎に沿って重なる小さな葉が鎖(くさり)のように連なって見えるのが名の由来。淡い黄緑色で、湿った樹皮などに薄く広がる。ルーペで見ないと構造がわからないほど小さい。",
+      "habitat_hint": "樹幹、枝、岩の上(やや湿った所)。",
+      "finding_tips": "木の幹や枝で、鎖状に重なる淡黄緑の小さな苔類が薄く広がっていないか探す。ルーペで見る鎖状の葉が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny leafy liverwort (シロクサリゴケ, Cheilolejeunea, Lejeuneaceae) creeping over trunks, twigs and rock; small overlapping leaves run along the stem like a chain, which gives the Japanese name. Pale yellow-green, it spreads thinly on damp bark and is small enough to need a lens.",
+      "habitat_hint": "Trunks, twigs and rock in damp places.",
+      "finding_tips": "On trunks and twigs look for a pale yellow-green liverwort of chain-like overlapping leaves spreading thinly; the chain-like leaves (under a lens) are the clue."
+    },
+    "zh": {
+      "summary": "シロクサリゴケ。细鳞苔科之极小型叶状苔类，匍匐于树干、枝与岩，茎上小叶交叠如链（和名之由来），色淡黄绿、薄展于湿润树皮，须放大镜方辨其构造。",
+      "habitat_hint": "树干、枝、岩上（略湿处）。",
+      "finding_tips": "于树干、枝寻淡黄绿、小叶如链而薄展之苔类；放大镜下之链状叶为线索。"
+    }
+  },
+  "Cheilosia matsumurana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Hoverfly",
+    "ja": {
+      "summary": "マツムラクロハナアブ。花によく訪れるハナアブ科(クロハナアブ類)のハエ。体は黒っぽくずんぐりし、光沢や短毛がある。ハチに似ず地味だが、ハナアブの仲間なので刺さない。成虫は花の蜜や花粉をなめ、春〜初夏に見られることが多い。",
+      "habitat_hint": "林縁、草地、花の咲く環境。",
+      "finding_tips": "春〜初夏、花の上で黒っぽくずんぐりした光沢のあるハナアブを探す。刺さないハエで、黒い体が手がかり。"
+    },
+    "en": {
+      "summary": "A hoverfly (マツムラクロハナアブ, Cheilosia, Syrphidae) that visits flowers; the body is darkish and stout, with a sheen and short hairs. Drab and not wasp-like, it is a harmless fly that does not sting. Adults lick nectar and pollen and are often seen in spring to early summer.",
+      "habitat_hint": "Woodland edges, grassland and flowery places.",
+      "finding_tips": "In spring to early summer on flowers look for a darkish stout glossy hoverfly; a stingless fly with a black body is the clue."
+    },
+    "zh": {
+      "summary": "マツムラクロハナアブ。食蚜蝇科（黑蚜蝇类）之蝇，喜访花，体偏黑而粗壮、具光泽与短毛，不似蜂而朴素、然为食蚜蝇故不螫，成虫舐食花蜜花粉，多见于春至初夏。",
+      "habitat_hint": "林缘、草地、花境。",
+      "finding_tips": "春至初夏于花上寻偏黑粗壮而具光泽之食蚜蝇；不螫之蝇、黑体为线索。"
+    }
+  },
+  "Chelidonura amoena": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Headshield slug",
+    "ja": {
+      "summary": "コナユキツバメガイ。サンゴ礁や砂底にすむミスガイ科(ツバメガイ類)の後鰓類(ウミウシに近い巻貝の仲間)。体は黒っぽい地に細かい白い斑点(粉雪)が散り、尾のうしろが燕(つばめ)の尾のように二叉に伸びる。頭に平たい盾状の部分をもち、砂の上をはって扁形動物などを食べる。",
+      "habitat_hint": "サンゴ礁・砂底、浅い海。",
+      "finding_tips": "サンゴ礁の砂の上で、黒地に白い細点が散り尾が二叉に分かれた小さなウミウシ状の動物を探す。燕尾状の尾が手がかり。"
+    },
+    "en": {
+      "summary": "A headshield slug (コナユキツバメガイ, Chelidonura, Aglajidae), an opisthobranch (a sea-slug relative) of coral reefs and sand; the darkish body is scattered with fine white spots ('powder snow') and the tail forks like a swallow's. A flat shield on the head, it glides over sand eating flatworms and the like.",
+      "habitat_hint": "Coral reefs, sand and shallow sea.",
+      "finding_tips": "On reef sand look for a small sea-slug-like animal, dark with fine white spots and a forked tail; the swallow-tail is the clue."
+    },
+    "zh": {
+      "summary": "コナユキツバメガイ。壳蛞蝓科（燕尾类）之后鳃类（近海牛之螺类），栖珊瑚礁与砂底，体偏黑而散细白点（粉雪）、尾后二叉如燕尾，头具扁盾，滑行砂上食扁虫等。",
+      "habitat_hint": "珊瑚礁、砂底、浅海。",
+      "finding_tips": "于礁砂寻黑底散细白点、尾二叉之小海牛状动物；燕尾状之尾为线索。"
+    }
+  },
+  "Chengiodendron marginatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ryukyu osmanthus",
+    "ja": {
+      "summary": "リュウキュウモクセイ。南西諸島の常緑林に生えるモクセイ科の常緑小高木。葉は革質で光沢があり、縁がやや裏側に巻く。小さな白い花をつけ、キンモクセイなどに近い仲間。海に近い林や石灰岩地に育つ。",
+      "habitat_hint": "南西諸島の常緑広葉樹林、海岸林、石灰岩地。",
+      "finding_tips": "沖縄など亜熱帯の林で、革質で光沢のある対生の葉をもつ常緑の小高木を探す。縁が裏に巻く光沢のある葉が手がかり。"
+    },
+    "en": {
+      "summary": "Ryukyu osmanthus (リュウキュウモクセイ, Oleaceae), an evergreen small tree of Ryukyu evergreen forests; the leathery glossy leaves have margins rolled slightly under. It bears small white flowers and is a relative of the fragrant osmanthus, growing in coastal woods and on limestone.",
+      "habitat_hint": "Ryukyu evergreen broadleaf and coastal forest, limestone.",
+      "finding_tips": "In subtropical Okinawan woods look for an evergreen small tree with leathery glossy opposite leaves; the under-rolled glossy leaves are the clue."
+    },
+    "zh": {
+      "summary": "リュウキュウモクセイ。木樨科常绿小乔木，生西南诸岛常绿林，叶革质具光泽、缘略反卷，开白色小花，与桂花同类，生近海之林与石灰岩地。",
+      "habitat_hint": "西南诸岛常绿阔叶林、海岸林、石灰岩地。",
+      "finding_tips": "于冲绳等亚热带林寻叶革质光泽、对生之常绿小乔木；缘反卷而具光泽之叶为线索。"
+    }
+  },
+  "Chironomus yoshimatsui": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Non-biting midge",
+    "ja": {
+      "summary": "セスジユスリカ。都市の川や下水、富栄養化した水域で大発生する、蚊に似たユスリカ科のハエ。名(背筋)のとおり胸の背に筋がある。蚊に似るが口が退化して血を吸わず刺さない。幼虫は「アカムシ」と呼ばれる赤い水生幼虫で、汚れた水の底の泥にすむ。成虫は夕方に群れて「蚊柱」をつくる。",
+      "habitat_hint": "都市河川、下水、富栄養化した池・水路。",
+      "finding_tips": "夕方、水辺で蚊に似た虫が群れて柱状に飛んでいないか探す。刺さないユスリカで、背の筋と細い体が手がかり。"
+    },
+    "en": {
+      "summary": "A non-biting midge (セスジユスリカ, Chironomus, Chironomidae) that swarms in city rivers, sewers and eutrophic water; the thorax has a dorsal stripe (the Japanese name means 'back-stripe'). Mosquito-like but with reduced mouthparts, it neither bites nor sucks blood. Its red aquatic larvae ('bloodworms') live in polluted bottom mud, and adults form mating swarms ('midge columns') at dusk.",
+      "habitat_hint": "Urban rivers, sewers and eutrophic ponds and channels.",
+      "finding_tips": "At dusk by water look for mosquito-like insects swarming in a column; a non-biting midge, the back-stripe and slender body are the clue."
+    },
+    "zh": {
+      "summary": "セスジユスリカ。摇蚊科之蝇，似蚊，于城市河川、下水与富营养水域大发生，胸背具纵纹（和名意为背筋）。似蚊而口器退化、不吸血不螫，幼虫为红色水生之「血虫」、栖污水底泥，成虫黄昏群飞成「蚊柱」。",
+      "habitat_hint": "城市河川、下水、富营养之池与水渠。",
+      "finding_tips": "黄昏于水边察似蚊之虫群飞成柱；不螫之摇蚊、背纹与细体为线索。"
+    }
+  },
+  "Chlaenius tetragonoderus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ムナビロアトボシアオゴミムシ。水辺や湿った地表を歩くオサムシ科(アオゴミムシ類、Chlaenius)の中型の甲虫。胸(前胸)が幅広く、上翅の後方に黄色い斑(あとぼし)がある。上翅は緑や銅色の金属光沢を帯びる。夜行性で、小さな昆虫などを食べる肉食者。",
+      "habitat_hint": "河原、池沼のふち、水田など湿った地表。",
+      "finding_tips": "水辺の湿った地面や石の下で、幅広い胸と上翅後方の黄斑をもつ金属光沢の甲虫を探す。後方の黄斑が名の由来で手がかり。"
+    },
+    "en": {
+      "summary": "A ground beetle (ムナビロアトボシアオゴミムシ, Chlaenius) walking waterside and moist ground; the pronotum is broad and the elytra bear a yellow spot toward the rear, with a green or coppery metallic sheen. Nocturnal and carnivorous, it eats small insects.",
+      "habitat_hint": "Riverbanks, pond margins and paddies — moist ground.",
+      "finding_tips": "On moist waterside ground or under stones look for a metallic beetle with a broad pronotum and a rear yellow spot; the rear spot is the clue."
+    },
+    "zh": {
+      "summary": "ムナビロアトボシアオゴミムシ。步甲科（青步甲类，Chlaenius）之中型甲虫，行于水边与湿润地表，前胸宽阔、鞘翅后方具黄斑、翅带绿或铜之金属光泽，夜行肉食、食小虫。",
+      "habitat_hint": "河滩、池沼边、水田等湿润地表。",
+      "finding_tips": "于水边湿地或石下寻前胸宽、鞘翅后具黄斑之金属甲虫；后方之黄斑为线索。"
+    }
+  },
+  "Chlamys cosibensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Scallop",
+    "ja": {
+      "summary": "コシバニシキ。岩礁や礫底に足糸で付着するイタヤガイ科(ニシキガイ類)の小型の二枚貝。殻は扇形で放射状の肋(ろく)があり、しばしば紅色や橙、黄など鮮やかな色をおびる。プランクトンや有機物をこし取って食べ、若い個体は足糸で基物にくっつく。",
+      "habitat_hint": "岩礁、礫底、貝殻まじりの海底(浅海)。",
+      "finding_tips": "岩礁の海底や打ち上げで、放射状の肋のある扇形の小さな二枚貝を探す。鮮やかな色と扇形の殻が手がかり。"
+    },
+    "en": {
+      "summary": "A small scallop (コシバニシキ, Chlamys, Pectinidae) attached by byssus to rock and gravel; the fan-shaped shell has radial ribs and is often vividly coloured red, orange or yellow. It filter-feeds on plankton and organic matter, and young attach to hard surfaces by byssal threads.",
+      "habitat_hint": "Rocky and gravel bottoms and shelly seabed (shallow).",
+      "finding_tips": "On rocky seabed or as beach-cast look for a small fan-shaped bivalve with radial ribs; the vivid colour and fan shape are the clue."
+    },
+    "zh": {
+      "summary": "コシバニシキ。扇贝科（锦贝类）之小型二枚贝，以足丝附于岩礁与砾底，壳扇形具放射肋、常染红橙黄之鲜色，滤食浮游生物与有机物，幼体以足丝附于硬基。",
+      "habitat_hint": "岩礁、砾底、含贝壳之海底（浅海）。",
+      "finding_tips": "于礁底或滩上冲积寻具放射肋之扇形小二枚贝；鲜色与扇形之壳为线索。"
+    }
   }
 }
