@@ -290548,5 +290548,542 @@
       "habitat_hint": "山地林缘、灌丛、路旁。",
       "finding_tips": "夏秋于林缘寻多开白色十字花之藤；四白萼片与羽状果为线索。"
     }
+  },
+  "Clematis leschenaultiana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clematis",
+    "ja": {
+      "summary": "ビロードボタンヅル。キンポウゲ科センニンソウ属のつる性植物。他の木や草にからんで伸び、白い花(花弁に見えるのはがく片)を多数咲かせる。葉や茎にビロード状の細かい毛が密生するのが名の由来で、暖地に分布する。花のあと、羽毛状の長い毛をもつ果実(仙人の髭)をつける。全草にやや刺激性がある。",
+      "habitat_hint": "山地〜暖地の林縁、やぶ、道ばた。",
+      "finding_tips": "林縁で白い花を多数つけるつる植物を探す。葉や茎にビロード状の細かい毛が密生するのが名の由来で、暖地に分布する。白いがく片と羽毛状の果実が手がかり。"
+    },
+    "en": {
+      "summary": "A clematis (ビロードボタンヅル, Clematis), a climber that scrambles over other plants and bears many white flowers (the 'petals' are sepals). densely covered with velvety hairs on leaves and stems (the name means 'velvet'), of warm regions. After flowering it forms fruit with long feathery hairs. The whole plant is slightly irritant.",
+      "habitat_hint": "Montane to warm-region woodland edges, thickets and roadsides.",
+      "finding_tips": "At woodland edges look for a climber with many white flowers; densely covered with velvety hairs on leaves and stems (the name means 'velvet'), of warm regions. The white sepals and feathery fruit are the clue."
+    },
+    "zh": {
+      "summary": "ビロードボタンヅル。毛茛科铁线莲属藤本，攀他木他草而伸，开多数白花（似花瓣者为萼片）。叶茎密被丝绒状细毛（和名之由来）、分布暖地。花后结具羽状长毛之果，全株略具刺激性。",
+      "habitat_hint": "山地至暖地林缘、灌丛、路旁。",
+      "finding_tips": "于林缘寻多开白花之藤；叶茎密被丝绒状细毛（和名之由来）、分布暖地。白萼片与羽状果为线索。"
+    }
+  },
+  "Clematis meyeniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clematis",
+    "ja": {
+      "summary": "ヤンバルセンニンソウ。キンポウゲ科センニンソウ属のつる性植物。他の木や草にからんで伸び、白い花(花弁に見えるのはがく片)を多数咲かせる。南西諸島(やんばるなど)に分布する常緑のつる植物。花のあと、羽毛状の長い毛をもつ果実(仙人の髭)をつける。全草にやや刺激性がある。",
+      "habitat_hint": "山地〜暖地の林縁、やぶ、道ばた。",
+      "finding_tips": "林縁で白い花を多数つけるつる植物を探す。南西諸島(やんばるなど)に分布する常緑のつる植物。白いがく片と羽毛状の果実が手がかり。"
+    },
+    "en": {
+      "summary": "A clematis (ヤンバルセンニンソウ, Clematis), a climber that scrambles over other plants and bears many white flowers (the 'petals' are sepals). an evergreen climber of the Ryukyus (Yanbaru and beyond). After flowering it forms fruit with long feathery hairs. The whole plant is slightly irritant.",
+      "habitat_hint": "Montane to warm-region woodland edges, thickets and roadsides.",
+      "finding_tips": "At woodland edges look for a climber with many white flowers; an evergreen climber of the Ryukyus (Yanbaru and beyond). The white sepals and feathery fruit are the clue."
+    },
+    "zh": {
+      "summary": "ヤンバルセンニンソウ。毛茛科铁线莲属藤本，攀他木他草而伸，开多数白花（似花瓣者为萼片）。分布西南诸岛（山原等）之常绿藤。花后结具羽状长毛之果，全株略具刺激性。",
+      "habitat_hint": "山地至暖地林缘、灌丛、路旁。",
+      "finding_tips": "于林缘寻多开白花之藤；分布西南诸岛（山原等）之常绿藤。白萼片与羽状果为线索。"
+    }
+  },
+  "Clibanarius longitarsus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mangrove hermit crab",
+    "ja": {
+      "summary": "ツメナガヨコバサミ。河口のマングローブや干潟にすむヨコバサミ科のヤドカリ。名(爪長)のとおり脚が細長い。左右のはさみがほぼ同じ大きさで、脚に縦縞をもつことが多い。巻貝の殻を宿にし、干潟の地表の有機物や藻を食べる。汽水域に多い。",
+      "habitat_hint": "河口のマングローブ、干潟、汽水域。",
+      "finding_tips": "干潟やマングローブの地表で、細長い脚に縦縞をもつヤドカリを探す。左右そろったはさみと細長い脚が手がかり。"
+    },
+    "en": {
+      "summary": "A mangrove hermit crab (ツメナガヨコバサミ, Clibanarius) of estuarine mangroves and tidal flats; as the Japanese name ('long-clawed') implies, the legs are slender, the two claws nearly equal, and the legs often striped. It occupies snail shells and eats surface organic matter and algae, being common in brackish water.",
+      "habitat_hint": "Estuarine mangroves, tidal flats and brackish water.",
+      "finding_tips": "On tidal flats and mangrove ground look for a hermit crab with slender striped legs; equal claws and long legs are the clue."
+    },
+    "zh": {
+      "summary": "ツメナガヨコバサミ。活额寄居蟹科（细螯寄居蟹属）之寄居蟹，栖河口红树林与滩涂，足细长（和名意为爪长），左右螯近等大、足多具纵纹，居螺壳、食滩面有机物与藻，多见于汽水域。",
+      "habitat_hint": "河口红树林、滩涂、汽水域。",
+      "finding_tips": "于滩涂、红树林地面寻足细长具纵纹之寄居蟹；等大之螯与细长足为线索。"
+    }
+  },
+  "Clinocardium nuttallii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nuttall's cockle",
+    "ja": {
+      "summary": "オオイシカゲガイ。冷たい海の砂泥底にすむザルガイ科(イシカゲガイ類)の中〜大型の二枚貝。殻はふくらんだ丸みのある形で、放射状の太い肋(ろく)があり、ザルのような彫刻をもつ。左右の殻が大きくふくらみ、食用にもなる。北方の海に多い。",
+      "habitat_hint": "冷たい海の砂泥底(浅海〜やや深い所)。",
+      "finding_tips": "砂泥底や打ち上げで、ふくらんだ丸い殻に放射状の太い肋のある大きな二枚貝を探す。ザル状の放射肋が手がかり。"
+    },
+    "en": {
+      "summary": "Nuttall's cockle (オオイシカゲガイ, Clinocardium, Cardiidae), a medium to large cockle of cold-water sand-mud bottoms; the inflated rounded shell has strong radial ribs with a basket-like sculpture. With deeply inflated valves, it is edible and common in northern seas.",
+      "habitat_hint": "Cold-water sand-mud bottoms (shallow to moderately deep).",
+      "finding_tips": "On sand-mud bottoms or as beach-cast look for a large inflated rounded bivalve with strong radial ribs; the basket-like ribbing is the clue."
+    },
+    "zh": {
+      "summary": "オオイシカゲガイ。鸟蛤科之中至大型二枚贝，栖冷海砂泥底，壳膨圆、具粗放射肋、雕如笸箩，左右壳深膨，可食，多见于北方海。",
+      "habitat_hint": "冷海砂泥底（浅海至较深）。",
+      "finding_tips": "于砂泥底或滩上冲积寻膨圆而具粗放射肋之大二枚贝；笸箩状放射肋为线索。"
+    }
+  },
+  "Clithon faba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nerite snail",
+    "ja": {
+      "summary": "カノコガイ。河口の汽水域や潮間帯の岩・石につくアマオブネガイ科(カノコガイ類)の小さな巻貝。半球形の殻に、名(鹿の子)のとおり鹿の子模様の細かい斑紋があり、模様や色は個体ごとに変異が大きい。殻はやや大きめで、黒地に白い鹿の子模様が目立つ。岩の上の藻類を削り取って食べる。",
+      "habitat_hint": "河口の汽水域、潮間帯の岩・石、マングローブ。",
+      "finding_tips": "河口や潮間帯の石で、半球形で鹿の子模様の小さな巻貝を探す。殻はやや大きめで、黒地に白い鹿の子模様が目立つ。細かな斑紋が手がかり。"
+    },
+    "en": {
+      "summary": "A nerite snail (カノコガイ, Neritidae) on rock and stones in estuarine brackish water and the intertidal; the hemispherical shell bears a fine fawn-dappled pattern (the Japanese name means 'fawn'), highly variable in pattern and colour between individuals. the shell is fairly large with a striking white-on-black fawn pattern. It rasps algae off rock.",
+      "habitat_hint": "Estuarine brackish water, intertidal rock and stones, mangroves.",
+      "finding_tips": "On estuary and intertidal stones look for a small hemispherical fawn-dappled snail; the shell is fairly large with a striking white-on-black fawn pattern. The fine dappling is the clue."
+    },
+    "zh": {
+      "summary": "カノコガイ。蜑螺科（鹿子螺类）之小螺，附于河口汽水与潮间带之岩石，壳半球形、具细鹿斑纹（和名意为鹿子），斑纹与色个体变异大。壳略大、黑地白鹿斑显著。刮食岩上藻类。",
+      "habitat_hint": "河口汽水、潮间带岩石、红树林。",
+      "finding_tips": "于河口、潮间带石上寻半球形具鹿斑之小螺；壳略大、黑地白鹿斑显著。细斑纹为线索。"
+    }
+  },
+  "Clithon oualaniense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Nerite snail",
+    "ja": {
+      "summary": "ヒメカノコガイ。河口の汽水域や潮間帯の岩・石につくアマオブネガイ科(カノコガイ類)の小さな巻貝。半球形の殻に、名(鹿の子)のとおり鹿の子模様の細かい斑紋があり、模様や色は個体ごとに変異が大きい。殻は数mmとごく小さく、色や模様の変異がとくに豊か。岩の上の藻類を削り取って食べる。",
+      "habitat_hint": "河口の汽水域、潮間帯の岩・石、マングローブ。",
+      "finding_tips": "河口や潮間帯の石で、半球形で鹿の子模様の小さな巻貝を探す。殻は数mmとごく小さく、色や模様の変異がとくに豊か。細かな斑紋が手がかり。"
+    },
+    "en": {
+      "summary": "A nerite snail (ヒメカノコガイ, Neritidae) on rock and stones in estuarine brackish water and the intertidal; the hemispherical shell bears a fine fawn-dappled pattern (the Japanese name means 'fawn'), highly variable in pattern and colour between individuals. the shell is very small (a few millimetres) and exceptionally variable in colour and pattern. It rasps algae off rock.",
+      "habitat_hint": "Estuarine brackish water, intertidal rock and stones, mangroves.",
+      "finding_tips": "On estuary and intertidal stones look for a small hemispherical fawn-dappled snail; the shell is very small (a few millimetres) and exceptionally variable in colour and pattern. The fine dappling is the clue."
+    },
+    "zh": {
+      "summary": "ヒメカノコガイ。蜑螺科（鹿子螺类）之小螺，附于河口汽水与潮间带之岩石，壳半球形、具细鹿斑纹（和名意为鹿子），斑纹与色个体变异大。壳仅数毫米、色纹变异尤富。刮食岩上藻类。",
+      "habitat_hint": "河口汽水、潮间带岩石、红树林。",
+      "finding_tips": "于河口、潮间带石上寻半球形具鹿斑之小螺；壳仅数毫米、色纹变异尤富。细斑纹为线索。"
+    }
+  },
+  "Clitocybe nebularis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clouded agaric",
+    "aliases": {
+      "zh-Hans": "烟云杯伞"
+    },
+    "ja": {
+      "summary": "ハイイロシメジ。秋、林の地上に群生(しばしば環状の「菌輪」をつくる)する、灰色っぽい大きなキノコ(ハラタケ科/キシメジ科)。傘は灰褐色で、ひだと柄は白っぽく、強い粉臭がある。食用とされることもあるが、人によっては胃腸障害を起こすため注意が必要。",
+      "habitat_hint": "秋、林内や竹林の地上(広葉樹・針葉樹林)。",
+      "finding_tips": "秋、林の地上に灰色の大きな傘のキノコが列や輪をつくっていないか探す。灰褐色の傘と強い粉臭が手がかり。食は自己責任で。"
+    },
+    "en": {
+      "summary": "The clouded agaric (ハイイロシメジ, Clitocybe nebularis), a large greyish autumn mushroom growing gregariously (often in fairy rings) on woodland ground; the cap is grey-brown, the gills and stem whitish, with a strong mealy smell. Sometimes eaten, but it can cause gastric upset in some people, so caution is needed.",
+      "habitat_hint": "On the ground in woods and bamboo in autumn (broadleaf and conifer).",
+      "finding_tips": "In autumn look for large grey-capped mushrooms in rows or rings on the ground; the grey-brown cap and strong mealy smell are the clue — eat at your own risk."
+    },
+    "zh": {
+      "summary": "烟云杯伞（ハイイロシメジ）。秋于林地群生（常成「蘑菇圈」）之灰色大菌，盖灰褐、褶与柄偏白、具浓粉气味，偶作食用，然部分人食之致胃肠不适、须谨慎。",
+      "habitat_hint": "秋林内、竹林之地上（阔叶、针叶林）。",
+      "finding_tips": "秋寻地上成列或成圈之灰盖大菌；灰褐之盖与浓粉气味为线索——食须自负其责。"
+    }
+  },
+  "Coccotrypes graniceps": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Seed bark beetle",
+    "ja": {
+      "summary": "ドングリキクイムシ。ドングリ(ブナ科の堅果)などの種子に穴を開けて中にもぐりこむ、体長2mmほどのごく小さなキクイムシ(ゾウムシ科キクイムシ類)。円筒形の黒っぽい体で、落ちたドングリの中で繁殖する。堅果に丸い小さな穴が開いていたらこの仲間の仕業のことが多い。",
+      "habitat_hint": "ブナ科の林、落ちたドングリのある地面。",
+      "finding_tips": "落ちたドングリに丸い小さな穴が開いていないか探す。穴の中の2mmほどの円筒形の黒い甲虫が手がかり。"
+    },
+    "en": {
+      "summary": "A seed bark beetle (ドングリキクイムシ, Coccotrypes, Scolytinae) about 2 mm long that bores into acorns and other seeds; the cylindrical darkish beetle breeds inside fallen acorns. Small round holes in nuts are often its work.",
+      "habitat_hint": "Oak/beech woods and ground with fallen acorns.",
+      "finding_tips": "Check fallen acorns for small round holes; a 2 mm cylindrical black beetle inside is the clue."
+    },
+    "zh": {
+      "summary": "ドングリキクイムシ。象甲科（小蠹类）之极小型甲虫，体长约2毫米，蛀入橡实（壳斗科坚果）等种子，体圆筒形偏黑、于落地橡实内繁殖，坚果上之小圆孔多为其所为。",
+      "habitat_hint": "壳斗科林、落有橡实之地面。",
+      "finding_tips": "查落地橡实有无小圆孔；孔内约2毫米之圆筒形黑甲虫为线索。"
+    }
+  },
+  "Codriophorus carinatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rock moss",
+    "ja": {
+      "summary": "チョウセンスナゴケ。山地の日当たりのよい岩上や岩れき地に、黒緑色のマット状〜クッション状に群生するギボウシゴケ科の蘚類。乾くと葉が縮れ、湿ると開く。葉の先が白い透明な毛(のぎ)になる仲間で、乾燥や日ざしに強い。",
+      "habitat_hint": "山地の日当たりのよい岩上、岩れき地。",
+      "finding_tips": "日当たりのよい岩の上で、黒緑色のマット状のコケを探す。乾くと縮れ、葉先が白い毛になる点が手がかり。"
+    },
+    "en": {
+      "summary": "A rock moss (チョウセンスナゴケ, Codriophorus, Grimmiaceae) forming dark-green mats to cushions on sunny montane rock and stony ground; the leaves curl when dry and open when wet. In the group whose leaf tips end in a white hair-point, it tolerates drought and sun.",
+      "habitat_hint": "Sunny montane rock and stony ground.",
+      "finding_tips": "On sunny rock look for a dark-green mat moss; curling when dry with white hair-tipped leaves is the clue."
+    },
+    "zh": {
+      "summary": "チョウセンスナゴケ。紫萼藓科之藓类，成暗绿垫状至丛状生于山地向阳岩上与砾地，干则叶卷、湿则展，叶端具白色透明毛尖，耐旱耐晒。",
+      "habitat_hint": "山地向阳岩上、砾地。",
+      "finding_tips": "于向阳岩面寻暗绿垫状藓；干卷而叶端具白毛为线索。"
+    }
+  },
+  "Coelastrea aspera": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Brain coral",
+    "ja": {
+      "summary": "パリカメノコキクメイシ。サンゴ礁をつくる造礁サンゴ(キクメイシ科)。群体の表面に、亀の甲羅(かめのこ)のような多角形のくぼみ(サンゴ個虫の骨格)が敷き詰められた模様をもつ。褐虫藻と共生して浅い暖かい海の礁を形成する。刺胞をもつ。",
+      "habitat_hint": "暖海のサンゴ礁、浅い岩礁。",
+      "finding_tips": "サンゴ礁で、亀の甲のような多角形のくぼみが並ぶかたい群体サンゴを探す。ハニカム状の骨格模様が手がかり。"
+    },
+    "en": {
+      "summary": "A reef-building brain/honeycomb coral (パリカメノコキクメイシ, Coelastrea, Merulinidae); the colony surface is paved with polygonal pits (the skeletons of the coral polyps) like a tortoise shell. Living with symbiotic zooxanthellae, it builds reefs in shallow warm seas and bears stinging cells.",
+      "habitat_hint": "Warm-water coral reefs and shallow rocky reef.",
+      "finding_tips": "On reefs look for a hard colonial coral paved with polygonal tortoise-shell pits; the honeycomb skeleton pattern is the clue."
+    },
+    "zh": {
+      "summary": "パリカメノコキクメイシ。造礁珊瑚（蜂巢珊瑚科），群体表面密布多角形凹穴（珊瑚虫骨骼）、如龟甲，与虫黄藻共生、于浅暖海筑礁，具刺胞。",
+      "habitat_hint": "暖海珊瑚礁、浅岩礁。",
+      "finding_tips": "于礁区寻表面密布多角形龟甲状凹穴之硬质群体珊瑚；蜂巢状骨骼纹为线索。"
+    }
+  },
+  "Coelioxys fenestratus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sharp-tailed bee",
+    "ja": {
+      "summary": "オオトガリハナバチ。ハキリバチ科(トガリハナバチ属、Coelioxys)のハチ。この仲間としては大型。メスは腹部の先が鋭く尖り、ハキリバチ類の巣に卵を産みつける労働寄生(托卵)性で、自分では巣を作らない。黒地に白い毛の帯があり、花を訪れて蜜をなめる。",
+      "habitat_hint": "日当たりのよい草地、林縁、花のある環境。",
+      "finding_tips": "花の上で、腹の先がとがった黒っぽいハチを探す。この仲間としては大型。とがった腹端が手がかり。"
+    },
+    "en": {
+      "summary": "A sharp-tailed bee (オオトガリハナバチ, Coelioxys, Megachilidae); large for this group. The female's abdomen tapers to a sharp point, and it is a cleptoparasite laying eggs in the nests of leafcutter bees rather than building its own. Black with bands of white hair, it visits flowers for nectar.",
+      "habitat_hint": "Sunny grassland, woodland edges and flowery places.",
+      "finding_tips": "On flowers look for a darkish bee with a sharply pointed abdomen; large for this group. The pointed abdomen tip is the clue."
+    },
+    "zh": {
+      "summary": "オオトガリハナバチ。切叶蜂科（尖腹蜂属，Coelioxys）之蜂；于此类为大型。雌腹端锐尖，为托卵于切叶蜂巢之寄生者、不自营巢，体黑而具白毛带，访花舐蜜。",
+      "habitat_hint": "向阳草地、林缘、花境。",
+      "finding_tips": "于花上寻腹端锐尖之偏黑蜂；于此类为大型。尖锐之腹端为线索。"
+    }
+  },
+  "Coelioxys hiroba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sharp-tailed bee",
+    "ja": {
+      "summary": "ヒロバトガリハナバチ。ハキリバチ科(トガリハナバチ属、Coelioxys)のハチ。翅が幅広く見える中型種。メスは腹部の先が鋭く尖り、ハキリバチ類の巣に卵を産みつける労働寄生(托卵)性で、自分では巣を作らない。黒地に白い毛の帯があり、花を訪れて蜜をなめる。",
+      "habitat_hint": "日当たりのよい草地、林縁、花のある環境。",
+      "finding_tips": "花の上で、腹の先がとがった黒っぽいハチを探す。翅が幅広く見える中型種。とがった腹端が手がかり。"
+    },
+    "en": {
+      "summary": "A sharp-tailed bee (ヒロバトガリハナバチ, Coelioxys, Megachilidae); a medium species with broad-looking wings. The female's abdomen tapers to a sharp point, and it is a cleptoparasite laying eggs in the nests of leafcutter bees rather than building its own. Black with bands of white hair, it visits flowers for nectar.",
+      "habitat_hint": "Sunny grassland, woodland edges and flowery places.",
+      "finding_tips": "On flowers look for a darkish bee with a sharply pointed abdomen; a medium species with broad-looking wings. The pointed abdomen tip is the clue."
+    },
+    "zh": {
+      "summary": "ヒロバトガリハナバチ。切叶蜂科（尖腹蜂属，Coelioxys）之蜂；翅显宽阔之中型种。雌腹端锐尖，为托卵于切叶蜂巢之寄生者、不自营巢，体黑而具白毛带，访花舐蜜。",
+      "habitat_hint": "向阳草地、林缘、花境。",
+      "finding_tips": "于花上寻腹端锐尖之偏黑蜂；翅显宽阔之中型种。尖锐之腹端为线索。"
+    }
+  },
+  "Coelioxys inermis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sharp-tailed bee",
+    "ja": {
+      "summary": "スジボソトガリハナバチ。ハキリバチ科(トガリハナバチ属、Coelioxys)のハチ。腹部に細い白毛の帯が並ぶ。メスは腹部の先が鋭く尖り、ハキリバチ類の巣に卵を産みつける労働寄生(托卵)性で、自分では巣を作らない。黒地に白い毛の帯があり、花を訪れて蜜をなめる。",
+      "habitat_hint": "日当たりのよい草地、林縁、花のある環境。",
+      "finding_tips": "花の上で、腹の先がとがった黒っぽいハチを探す。腹部に細い白毛の帯が並ぶ。とがった腹端が手がかり。"
+    },
+    "en": {
+      "summary": "A sharp-tailed bee (スジボソトガリハナバチ, Coelioxys, Megachilidae); with narrow bands of white hair on the abdomen. The female's abdomen tapers to a sharp point, and it is a cleptoparasite laying eggs in the nests of leafcutter bees rather than building its own. Black with bands of white hair, it visits flowers for nectar.",
+      "habitat_hint": "Sunny grassland, woodland edges and flowery places.",
+      "finding_tips": "On flowers look for a darkish bee with a sharply pointed abdomen; with narrow bands of white hair on the abdomen. The pointed abdomen tip is the clue."
+    },
+    "zh": {
+      "summary": "スジボソトガリハナバチ。切叶蜂科（尖腹蜂属，Coelioxys）之蜂；腹具细白毛带成列。雌腹端锐尖，为托卵于切叶蜂巢之寄生者、不自营巢，体黑而具白毛带，访花舐蜜。",
+      "habitat_hint": "向阳草地、林缘、花境。",
+      "finding_tips": "于花上寻腹端锐尖之偏黑蜂；腹具细白毛带成列。尖锐之腹端为线索。"
+    }
+  },
+  "Coelioxys yanonis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sharp-tailed bee",
+    "ja": {
+      "summary": "ヤノトガリハナバチ。ハキリバチ科(トガリハナバチ属、Coelioxys)のハチ。本州などでふつうに見られる種。メスは腹部の先が鋭く尖り、ハキリバチ類の巣に卵を産みつける労働寄生(托卵)性で、自分では巣を作らない。黒地に白い毛の帯があり、花を訪れて蜜をなめる。",
+      "habitat_hint": "日当たりのよい草地、林縁、花のある環境。",
+      "finding_tips": "花の上で、腹の先がとがった黒っぽいハチを探す。本州などでふつうに見られる種。とがった腹端が手がかり。"
+    },
+    "en": {
+      "summary": "A sharp-tailed bee (ヤノトガリハナバチ, Coelioxys, Megachilidae); a species commonly seen in Honshu and elsewhere. The female's abdomen tapers to a sharp point, and it is a cleptoparasite laying eggs in the nests of leafcutter bees rather than building its own. Black with bands of white hair, it visits flowers for nectar.",
+      "habitat_hint": "Sunny grassland, woodland edges and flowery places.",
+      "finding_tips": "On flowers look for a darkish bee with a sharply pointed abdomen; a species commonly seen in Honshu and elsewhere. The pointed abdomen tip is the clue."
+    },
+    "zh": {
+      "summary": "ヤノトガリハナバチ。切叶蜂科（尖腹蜂属，Coelioxys）之蜂；本州等常见之种。雌腹端锐尖，为托卵于切叶蜂巢之寄生者、不自营巢，体黑而具白毛带，访花舐蜜。",
+      "habitat_hint": "向阳草地、林缘、花境。",
+      "finding_tips": "于花上寻腹端锐尖之偏黑蜂；本州等常见之种。尖锐之腹端为线索。"
+    }
+  },
+  "Coleosporium clerodendri": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rust fungus",
+    "aliases": {
+      "zh-Hans": "臭牡丹鞘锈菌"
+    },
+    "ja": {
+      "summary": "クサギのサビ病菌。クサギ(シソ科)の葉に寄生するサビキン(サビキン目)の菌類。葉の裏に橙色〜黄色の粉状の胞子のかたまり(夏胞子・冬胞子)をつくり、感染した葉には黄色い斑点が現れる。植物に寄生して生きる絶対寄生菌で、生活史の中でマツ類など別の宿主も利用する。",
+      "habitat_hint": "クサギの生える林縁、やぶ、河原。",
+      "finding_tips": "クサギの葉の裏に、橙色〜黄色の粉状の斑点(胞子のかたまり)がついていないか探す。葉裏の橙色の粉が手がかり。"
+    },
+    "en": {
+      "summary": "A rust fungus (クサギのサビ病菌, Coleosporium) parasitic on the leaves of harlequin glorybower (Clerodendrum); it forms orange to yellow powdery spore masses on the leaf underside, and infected leaves show yellow spots. An obligate parasite living on plants, it also uses alternate hosts such as pines in its life cycle.",
+      "habitat_hint": "Woodland edges, thickets and riverbanks where Clerodendrum grows.",
+      "finding_tips": "On the underside of Clerodendrum leaves look for orange to yellow powdery spots (spore masses); the orange powder beneath the leaf is the clue."
+    },
+    "zh": {
+      "summary": "臭牡丹鞘锈菌（クサギのサビ病菌）。锈菌目之菌，寄生臭牡丹（唇形科）之叶，于叶背生橙至黄之粉状孢子堆（夏、冬孢子），感染叶现黄斑，为专性寄生菌、生活史中亦利用松类等转主。",
+      "habitat_hint": "生臭牡丹之林缘、灌丛、河滩。",
+      "finding_tips": "于臭牡丹叶背寻橙至黄之粉状斑（孢子堆）；叶背之橙粉为线索。"
+    }
+  },
+  "Collita griseola": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Footman moth",
+    "ja": {
+      "summary": "ウスキシタホソバ。細長い前翅を体に巻きつけるようにとまるヒトリガ科(コケガ類、footman)の小型のガ。前翅は灰色をおび、後翅がうすい黄色をしている(名の由来)。幼虫は樹皮や岩の上の地衣類(コケ)を食べる。夜行性で灯火に飛来する。",
+      "habitat_hint": "雑木林、林縁、地衣類の多い樹幹まわり。",
+      "finding_tips": "夜、灯火で細長い灰色の前翅を巻いてとまる小さなガを探す。うすい黄色の後翅と巻いてとまる姿が手がかり。"
+    },
+    "en": {
+      "summary": "A footman moth (ウスキシタホソバ, Collita, Erebidae: Arctiinae) that rests with the narrow forewings wrapped around the body; the forewings are greyish and the hindwings pale yellow (the source of the name). Larvae eat lichens on bark and rock. Nocturnal, it comes to lights.",
+      "habitat_hint": "Coppice, woodland edges and lichen-rich trunks.",
+      "finding_tips": "At night at lights look for a small moth with narrow grey forewings wrapped around it; the pale yellow hindwings and wrapped posture are the clue."
+    },
+    "zh": {
+      "summary": "ウスキシタホソバ。灯蛾科（苔蛾类，footman）之小蛾，静止时细长前翅裹体，前翅带灰、后翅淡黄（名之由来），幼虫食树皮与岩上之地衣，夜行趋光。",
+      "habitat_hint": "杂木林、林缘、地衣丰富之树干周边。",
+      "finding_tips": "夜于灯下寻细长灰前翅裹体之小蛾；淡黄后翅与裹体之姿为线索。"
+    }
+  },
+  "Cololejeunea lanciloba": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Leafy liverwort",
+    "ja": {
+      "summary": "オオスミヨウジョウゴケ。生きた葉の表面(着生)や樹皮、岩の上をはう、ごく小さな葉状の苔類(クサリゴケ科)。淡緑色で、茎に沿って小さな葉が2列に並ぶ。葉上生(ようじょうせい)といって、常緑樹の葉の上に薄く広がることがあるのが特徴。ルーペが必要なほど小さい。",
+      "habitat_hint": "常緑樹の葉の上、樹皮、岩の上(湿った暖地)。",
+      "finding_tips": "常緑樹の葉の表面や樹皮で、淡緑色のごく小さな苔類が薄く広がっていないか探す。葉の上に生える点が手がかり。"
+    },
+    "en": {
+      "summary": "A tiny leafy liverwort (オオスミヨウジョウゴケ, Cololejeunea, Lejeuneaceae) creeping over living leaf surfaces, bark and rock; pale green, with small leaves in two rows along the stem. Distinctively epiphyllous, it can spread thinly over the leaves of evergreen trees, and is small enough to need a lens.",
+      "habitat_hint": "On evergreen leaves, bark and rock (damp warm regions).",
+      "finding_tips": "On evergreen leaf surfaces and bark look for a pale-green very small liverwort spreading thinly; growing on leaves is the clue."
+    },
+    "zh": {
+      "summary": "オオスミヨウジョウゴケ。细鳞苔科之极小型叶状苔类，匍匐于活叶面（附生）、树皮与岩，色淡绿、小叶沿茎二列，具叶面生之特性、可薄展于常绿树叶上，须放大镜方辨。",
+      "habitat_hint": "常绿树叶面、树皮、岩上（湿润暖地）。",
+      "finding_tips": "于常绿树叶面、树皮寻淡绿极小之苔类薄展；生于叶上为线索。"
+    }
+  },
+  "Comatricha tenerrima": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Slime mould",
+    "aliases": {
+      "zh-Hans": "细发菌"
+    },
+    "ja": {
+      "summary": "ツムギカミノケホコリ。腐木や落ち葉の上に生える変形菌(粘菌)。細い柄の先に、細い糸(細毛体)が房状にからんだごく小さな暗色の子実体を立てる。名(髪の毛)のとおり髪の毛のように繊細。アメーバ状の変形体が微生物を食べて育ち、やがて胞子をつくる子実体になる。",
+      "habitat_hint": "腐木、落ち葉、朽ちた樹皮の上(湿った林内)。",
+      "finding_tips": "湿った腐木の表面で、細い柄に髪の毛状の房をもつごく小さな暗色の子実体が群がっていないか探す。繊細な糸状の房が手がかり(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A slime mould (ツムギカミノケホコリ, Comatricha) growing on rotten wood and leaf litter; on a slender stalk it raises a very small dark fruiting body of fine threads (capillitium) tangled in a tuft, delicate as hair (the Japanese name). Its amoeboid plasmodium eats microbes before forming spore-bearing fruiting bodies.",
+      "habitat_hint": "Rotten wood, leaf litter and decaying bark (damp woodland).",
+      "finding_tips": "On damp rotten wood look for clusters of very small dark fruiting bodies with hair-like tufts on slender stalks; the delicate threads are the clue (use a lens)."
+    },
+    "zh": {
+      "summary": "细发菌（ツムギカミノケホコリ）。生于腐木与落叶之黏菌，细柄之端立极小暗色子实体、其细丝（孢丝）缠结成簇、纤细如发（和名之由来），变形体食微生物而长、终成产孢之子实体。",
+      "habitat_hint": "腐木、落叶、朽皮上（湿润林内）。",
+      "finding_tips": "于湿润腐木面寻细柄具发状簇之极小暗色子实体成群；纤细丝状之簇为线索（须放大镜）。"
+    }
+  },
+  "Comibaena ingrata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald moth",
+    "ja": {
+      "summary": "カラフトウスアオシャク。翅がうすい緑色をしたシャクガ科(アオシャク類)の小型のガ。緑色は死ぬと退色しやすい。夜行性で灯火に飛来し、幼虫(シャクトリムシ)は植物の葉やその破片を体につけて身を隠す習性が知られる。",
+      "habitat_hint": "雑木林、林縁、山地の林。",
+      "finding_tips": "夜、灯火でうすい緑色の小さなシャクガを探す。淡い緑色の翅が手がかり。"
+    },
+    "en": {
+      "summary": "An emerald moth (カラフトウスアオシャク, Comibaena, Geometridae) with pale green wings; the green fades easily after death. Nocturnal and drawn to lights, its looper larvae are known to camouflage themselves by attaching leaf fragments to the body.",
+      "habitat_hint": "Coppice, woodland edges and montane woods.",
+      "finding_tips": "At night at lights look for a small pale-green geometer; the pale green wings are the clue."
+    },
+    "zh": {
+      "summary": "カラフトウスアオシャク。尺蛾科（青尺蛾类）之小型蛾，翅淡绿、死后易褪，夜行趋光，幼虫（尺蠖）以叶片碎片附于体上以匿身。",
+      "habitat_hint": "杂木林、林缘、山地林。",
+      "finding_tips": "夜于灯下寻淡绿之小尺蛾；淡绿之翅为线索。"
+    }
+  },
+  "Commelina caroliniana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Carolina dayflower",
+    "ja": {
+      "summary": "カロライナツユクサ。アジア原産で北米などにも帰化したツユクサ科の一年草。ツユクサに似るが、やや細身で、青い小さな花を咲かせる。畑や湿った空き地、水辺に生える。花は朝に開いて昼にはしぼむ一日花。ツユクサ同様、節から根を出して広がる。",
+      "habitat_hint": "畑、湿った空き地、水辺、道ばた。",
+      "finding_tips": "夏、湿った所で青い小さな花をつけるツユクサに似た草を探す。細身の草姿と一日花の青い花が手がかり。"
+    },
+    "en": {
+      "summary": "The Carolina dayflower (カロライナツユクサ, Commelina caroliniana), an annual (Commelinaceae) native to Asia and naturalised in North America and elsewhere; similar to Asiatic dayflower but slenderer, with small blue flowers. It grows in fields, moist waste ground and waterside, the flowers opening in the morning and wilting by midday, and it spreads by rooting at the nodes.",
+      "habitat_hint": "Fields, moist waste ground, waterside and roadsides.",
+      "finding_tips": "In summer in moist places look for a dayflower-like plant with small blue flowers; the slender habit and one-day blue flowers are the clue."
+    },
+    "zh": {
+      "summary": "カロライナツユクサ（卡罗来纳鸭跖草）。鸭跖草科一年生草，原产亚洲、北美等归化，似鸭跖草而略细，开蓝色小花，生田间、湿润空地与水边，花晨开午萎、为一日花，节处生根而蔓延。",
+      "habitat_hint": "田间、湿润空地、水边、路旁。",
+      "finding_tips": "夏于湿处寻似鸭跖草而开蓝色小花之草；细身之姿与一日蓝花为线索。"
+    }
+  },
+  "Coneuplecta praealta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Land snail",
+    "ja": {
+      "summary": "タカキビ。林の落ち葉の下や樹皮の下にすむ、殻の直径が数mmとごく小さな陸貝(ベッコウマイマイ類などの微小巻貝)。殻は円錐形にやや高く巻き(名の由来)、薄くて半透明。落ち葉や朽木の表面の菌や有機物を食べる。ルーペで見ないと形がわからないほど小さい。",
+      "habitat_hint": "林内の落ち葉の下、朽木や樹皮の下(湿った所)。",
+      "finding_tips": "落ち葉や朽木の下で、直径数mmで円錐形にやや高く巻いた小さな陸貝を探す。ごく小さくやや高い殻が手がかり(要ルーペ)。"
+    },
+    "en": {
+      "summary": "A tiny land snail (タカキビ, Coneuplecta) living under leaf litter and bark in woodland, the shell only a few millimetres across; it is coiled somewhat tall and conical (the source of the name), thin and translucent. It eats fungi and organic matter off litter and rotten wood, and is small enough to need a lens.",
+      "habitat_hint": "Under leaf litter, rotten wood and bark in damp woods.",
+      "finding_tips": "Under litter and rotten wood look for a few-millimetre snail coiled tall and conical; the very small tallish shell is the clue (use a lens)."
+    },
+    "zh": {
+      "summary": "タカキビ。陆生小螺（琥珀螺近缘之微小螺），栖林中落叶下与树皮下，壳径仅数毫米，旋卷略高呈锥形（和名之由来）、薄而半透明，食落叶朽木面之菌与有机物，极小须放大镜方辨。",
+      "habitat_hint": "林内落叶下、朽木与树皮下（湿处）。",
+      "finding_tips": "于落叶、朽木下寻径数毫米、锥形略高之小陆螺；极小而略高之壳为线索（须放大镜）。"
+    }
+  },
+  "Conidens laticephalus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clingfish",
+    "ja": {
+      "summary": "アンコウウバウオ。岩礁の潮間帯や浅い海にすむウバウオ科の小さな魚。腹びれが変化した吸盤で岩や石にぴったり張りつく。頭が平たく幅広い(名の由来)。うろこがなくぬめり、岩の割れ目や石の下にひそんで小さな甲殻類などを食べる。",
+      "habitat_hint": "岩礁の潮間帯、潮だまり、浅い海の石の下。",
+      "finding_tips": "潮だまりで石をめくり、腹の吸盤で張りつく頭の平たい小さな魚を探す。腹の吸盤と平たい頭が手がかり。"
+    },
+    "en": {
+      "summary": "A clingfish (アンコウウバウオ, Conidens, Gobiesocidae), a small fish of the rocky intertidal and shallow sea; a sucker formed from the modified pelvic fins clamps it to rock and stones. The head is flat and broad (the source of the name), the body scaleless and slimy, and it hides in crevices and under stones eating small crustaceans.",
+      "habitat_hint": "Rocky intertidal, tide pools and under stones in shallow sea.",
+      "finding_tips": "In tide pools turn stones for a small flat-headed fish clinging by a belly sucker; the ventral sucker and flat head are the clue."
+    },
+    "zh": {
+      "summary": "アンコウウバウオ。喉盘鱼科之小型鱼，栖岩礁潮间带与浅海，腹鳍特化之吸盘紧附岩石，头扁而宽（和名之由来），体无鳞而黏滑，匿于岩缝、石下食小型甲壳类。",
+      "habitat_hint": "岩礁潮间带、潮池、浅海石下。",
+      "finding_tips": "于潮池翻石寻以腹吸盘附石、头扁之小鱼；腹吸盘与扁头为线索。"
+    }
+  },
+  "Coniogramme fraxinea": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Bamboo fern",
+    "ja": {
+      "summary": "オオバノイワガネゼンマイ(イワガネゼンマイの仲間)。山地の谷ぞいの湿った林床に生えるイノモトソウ科(イワガネゼンマイ属)の常緑性のシダ。大きな羽状の葉を広げ、小羽片は細長い。葉裏の脈に沿って線状の胞子のう群(ソーラス)が並ぶのが特徴。暖地の林に多い。",
+      "habitat_hint": "山地の谷ぞい、湿った林床、沢のふち(暖地)。",
+      "finding_tips": "湿った林床で、大きな羽状の葉をもち、葉裏の脈に沿って線状の胞子のう群が並ぶシダを探す。脈に沿う線状のソーラスが手がかり。"
+    },
+    "en": {
+      "summary": "A bamboo fern (オオバノイワガネゼンマイ, Coniogramme, Pteridaceae), an evergreen fern of moist streamside forest floor in the mountains; it spreads large pinnate fronds with long-elliptic pinnules. Diagnostically, the sori run in lines along the veins on the frond underside. It is common in warm-region woods.",
+      "habitat_hint": "Montane streamsides, moist forest floor and stream margins (warm regions).",
+      "finding_tips": "On moist forest floor look for a fern with large pinnate fronds and line-shaped sori running along the veins beneath; the vein-following linear sori are the clue."
+    },
+    "zh": {
+      "summary": "オオバノイワガネゼンマイ。凤尾蕨科（凤了蕨属）之常绿蕨，生山地溪畔湿润林床，展大而羽状之叶、小羽片长椭圆，叶背孢子囊群沿脉成线状排列（辨识点），多见于暖地林。",
+      "habitat_hint": "山地溪畔、湿润林床、沢边（暖地）。",
+      "finding_tips": "于湿润林床寻叶大羽状、背面孢子囊群沿脉成线之蕨；沿脉之线状孢子囊群为线索。"
+    }
+  },
+  "Conus balteatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cone snail",
+    "ja": {
+      "summary": "ベニイタダキイモ。サンゴ礁や岩礁にすむイモガイ科(イモガイ類)の巻貝。殻は円錐形(いも形)で、殻頂まわりが紅色をおびる。イモガイ類は毒針(歯舌歯)をもち、獲物に毒を注入して捕らえる肉食の貝で、大型種の毒は人にも危険なことがある。むやみに素手で持たないこと。",
+      "habitat_hint": "サンゴ礁・岩礁の砂底、礁原(暖海)。",
+      "finding_tips": "サンゴ礁で、円錐形(いも形)の巻貝を探す。イモ形の殻が手がかり。毒針をもつので生きた個体は素手で持たない。"
+    },
+    "en": {
+      "summary": "A cone snail (ベニイタダキイモ, Conus) of coral and rocky reefs; the shell is conical (cone-shaped), tinged red around the spire. Cone snails have a venomous harpoon (radular tooth) with which they inject venom to catch prey; the venom of large species can be dangerous to humans. Never handle live ones bare-handed.",
+      "habitat_hint": "Coral and rocky reef sand and flats (warm seas).",
+      "finding_tips": "On reefs look for a conical (cone-shaped) snail; the cone shape is the clue — being venomous, never handle live ones bare-handed."
+    },
+    "zh": {
+      "summary": "ベニイタダキイモ。芋螺科（芋螺类）之螺，栖珊瑚礁与岩礁，壳圆锥形（芋形）、螺顶周围带红。芋螺具毒针（齿舌齿），注毒以捕猎、为肉食螺，大型种之毒对人亦可危险，切勿徒手持活体。",
+      "habitat_hint": "珊瑚礁、岩礁砂底与礁坪（暖海）。",
+      "finding_tips": "于礁区寻圆锥（芋形）之螺；芋形之壳为线索——具毒针，活体切勿徒手持。"
+    }
   }
 }
