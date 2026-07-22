@@ -290007,5 +290007,546 @@
       "habitat_hint": "岩礁、砾底、含贝壳之海底（浅海）。",
       "finding_tips": "于礁底或滩上冲积寻具放射肋之扇形小二枚贝；鲜色与扇形之壳为线索。"
     }
+  },
+  "Chlorissa amphitritaria": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Emerald moth",
+    "ja": {
+      "summary": "ハラアカアオシャク。翅があざやかな緑色をしたシャクガ科(アオシャク類)の小型のガ。名(腹赤)のとおり腹部に赤みを帯びる。緑色は死ぬと退色しやすい。夜行性で灯火に飛来し、幼虫(シャクトリムシ)は各種の植物の葉を食べて枝に擬態する。",
+      "habitat_hint": "雑木林、林縁、草地。",
+      "finding_tips": "夜、灯火であざやかな緑色の小さなシャクガを探す。緑の翅と腹の赤みが手がかり。"
+    },
+    "en": {
+      "summary": "An emerald moth (ハラアカアオシャク, Chlorissa, Geometridae) with vivid green wings; as the Japanese name ('red belly') implies, the abdomen is tinged red. The green fades easily after death. Nocturnal and drawn to lights, its looper larvae eat various leaves and mimic twigs.",
+      "habitat_hint": "Coppice, woodland edges and grassland.",
+      "finding_tips": "At night at lights look for a small vivid-green geometer; the green wings and reddish abdomen are the clue."
+    },
+    "zh": {
+      "summary": "ハラアカアオシャク。尺蛾科（青尺蛾类）之小型蛾，翅鲜绿，腹带红（和名意为腹赤），绿色死后易褪。夜行趋光，幼虫（尺蠖）食各种植物之叶、拟态枝条。",
+      "habitat_hint": "杂木林、林缘、草地。",
+      "finding_tips": "夜于灯下寻鲜绿之小尺蛾；绿翅与腹之红为线索。"
+    }
+  },
+  "Chrysis fuscipennis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cuckoo wasp",
+    "ja": {
+      "summary": "クロバネセイボウ。金属光沢に輝く青緑〜金色の体をもつセイボウ科(セイボウ類)のハチ。名(黒翅)のとおり翅が黒っぽい。ほかのハチ(ドロバチなど)の巣に卵を産みつける労働寄生(托卵)性で、危険を感じると体を丸めて防御する。日当たりのよい壁や枯れ木、花を訪れる。",
+      "habitat_hint": "日当たりのよい壁、枯れ木、崖、花のある環境。",
+      "finding_tips": "壁や枯れ木で、金属光沢に輝く青緑色で翅の黒い小さなハチを探す。宝石のような金属光沢が手がかり。"
+    },
+    "en": {
+      "summary": "A cuckoo wasp (クロバネセイボウ, Chrysis, Chrysididae) with a metallic blue-green to gold body; the Japanese name ('black-wing') refers to its darkish wings. A brood parasite that lays in the nests of other wasps such as potter wasps, it rolls into a ball when threatened. It visits sunny walls, dead wood and flowers.",
+      "habitat_hint": "Sunny walls, dead wood, cliffs and flowery places.",
+      "finding_tips": "On walls and dead wood look for a small jewel-like metallic blue-green wasp with dark wings; the gem-like sheen is the clue."
+    },
+    "zh": {
+      "summary": "クロバネセイボウ。青蜂科之蜂，体金属光泽、青绿至金，翅偏黑（和名意为黑翅）。为寄生（托卵）于他蜂（如蜾蠃）巢之种，遇险则蜷体自卫，访向阳之墙、枯木与花。",
+      "habitat_hint": "向阳之墙、枯木、崖、花境。",
+      "finding_tips": "于墙、枯木寻金属青绿而翅黑之小蜂；宝石般之金属光泽为线索。"
+    }
+  },
+  "Chrysomya megacephala": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Oriental latrine fly",
+    "aliases": {
+      "zh-Hans": "大头金蝇"
+    },
+    "ja": {
+      "summary": "オビキンバエ。金属光沢のある青緑色をしたクロバエ科(キンバエ類)の中型のハエ。名(帯)のとおり腹部に暗い横帯がある。腐肉やふん、生ごみに集まって産卵し、幼虫(ウジ)はそれらを食べる。伝染病を運ぶ衛生害虫だが、遺体の死後経過推定に使われる法医昆虫でもある。",
+      "habitat_hint": "人家周辺、ごみ・腐肉・ふんのある所、市街地。",
+      "finding_tips": "腐ったものや生ごみのまわりで、金属光沢のある青緑色で腹に帯のあるハエを探す。輝く青緑の体と腹の帯が手がかり。"
+    },
+    "en": {
+      "summary": "The Oriental latrine fly (オビキンバエ, Chrysomya megacephala, Calliphoridae), a medium fly with a metallic blue-green body and (as the Japanese name implies) dark bands across the abdomen. It gathers at carrion, dung and refuse to lay eggs, and its maggots feed on them. A sanitary pest that spreads disease, it is also used in forensic entomology to estimate time of death.",
+      "habitat_hint": "Around houses, refuse, carrion and dung, and towns.",
+      "finding_tips": "Around rotting matter and refuse look for a metallic blue-green fly with abdominal bands; the shiny blue-green body and bands are the clue."
+    },
+    "zh": {
+      "summary": "大头金蝇（オビキンバエ）。丽蝇科（金蝇类）之中型蝇，体金属青绿、腹具暗横带（和名意为带），聚于腐肉、粪与垃圾产卵，幼虫（蛆）食之，为传病之卫生害虫，亦用于法医昆虫学推定死后时间。",
+      "habitat_hint": "住家周边、垃圾腐肉粪便处、市街。",
+      "finding_tips": "于腐物、垃圾旁寻金属青绿而腹具带之蝇；青绿闪亮之体与腹带为线索。"
+    }
+  },
+  "Chrysosplenium kiotense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Golden saxifrage",
+    "ja": {
+      "summary": "ボタンネコノメソウ。山地の谷ぞいの湿った林床に生えるユキノシタ科(ネコノメソウ属)の小さな多年草。早春、黄緑色の小さな花が集まって咲き、花のまわりの葉(苞)も黄色みを帯びて目立つ。花のあと、種子が丸くまとまって「猫の目」のように見えるのが仲間の名の由来。",
+      "habitat_hint": "山地の谷ぞい、湿った林床、沢のふち。",
+      "finding_tips": "早春、沢ぞいの湿った林床で、黄緑色の小花が集まり苞も黄色い小さな草を探す。黄色みを帯びた集散状の花が手がかり。"
+    },
+    "en": {
+      "summary": "A golden saxifrage (ボタンネコノメソウ, Chrysosplenium), a small perennial of moist streamside forest floor in the mountains; in early spring small yellow-green flowers cluster together, the surrounding bract-leaves also flushed yellow and showy. After flowering the seeds gather into a rounded 'cat's-eye', which names the group.",
+      "habitat_hint": "Montane streamsides, moist forest floor and stream margins.",
+      "finding_tips": "In early spring on moist streamside floor look for a small plant with clustered yellow-green flowers and yellowish bracts; the yellow-flushed flower cluster is the clue."
+    },
+    "zh": {
+      "summary": "ボタンネコノメソウ。虎耳草科（金腰属）之小型多年生草，生山地溪畔湿润林床，早春黄绿小花聚生、花周之苞叶亦染黄而显，花后种子聚成圆如「猫眼」（属名之由来）。",
+      "habitat_hint": "山地溪畔、湿润林床、沢边。",
+      "finding_tips": "早春于溪畔湿床寻黄绿小花聚生、苞叶亦黄之小草；带黄之聚伞花为线索。"
+    }
+  },
+  "Chrysoteuchia atrosignatus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Grass moth",
+    "ja": {
+      "summary": "クロマダラツトガ。イネ科の草地に多いツトガ科(ツトガ類)の小さなガ。細長い前翅を屋根形にたたんでとまり、翅に黒い斑や白っぽい筋がある。幼虫はイネ科植物の根ぎわや葉を食べる。夜行性で灯火に飛来し、草をゆすると飛び立つ。",
+      "habitat_hint": "イネ科の草地、河原、田畑まわり。",
+      "finding_tips": "草地で歩くと飛び立つ、細長い前翅に黒斑のある小さなガを探す。屋根形にとまる細い翅が手がかり。"
+    },
+    "en": {
+      "summary": "A grass moth (クロマダラツトガ, Chrysoteuchia, Crambidae), a small moth common in grassy places; it rests with the narrow forewings folded roof-like, marked with black spots and whitish streaks. Larvae feed at the base and leaves of grasses. Nocturnal, it comes to lights and flushes from grass when disturbed.",
+      "habitat_hint": "Grassland, riverbanks and around fields.",
+      "finding_tips": "In grassland look for a small moth that flushes as you walk, with narrow black-spotted forewings; the roof-like narrow wings are the clue."
+    },
+    "zh": {
+      "summary": "クロマダラツトガ。草螟科（草螟类）之小蛾，多见于禾本科草地，静止时细长前翅折如屋脊、具黑斑与白纹，幼虫食禾草根际与叶，夜行趋光、扰草则飞。",
+      "habitat_hint": "禾本科草地、河滩、田畑周边。",
+      "finding_tips": "于草地寻行走时惊飞、前翅细长具黑斑之小蛾；折如屋脊之细翅为线索。"
+    }
+  },
+  "Chrysothrix candelaris": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Gold dust lichen",
+    "ja": {
+      "summary": "コガネゴケ。樹皮や岩の日陰などに広がる、あざやかな黄色〜黄金色の粉状の地衣類(コガネゴケ科)。決まった形をもたず、黄色い粉(粉芽)を吹きつけたように基物を覆う。乾いた樹皮のくぼみや岩の下面など、雨の当たりにくい所によく育つ。",
+      "habitat_hint": "樹皮のくぼみ、岩の下面、雨の当たりにくい日陰。",
+      "finding_tips": "木の幹のくぼみや岩陰で、黄金色の粉をまいたように広がる地衣を探す。あざやかな黄色い粉状の体が手がかり。"
+    },
+    "en": {
+      "summary": "The gold dust lichen (コガネゴケ, Chrysothrix candelaris), a vivid yellow to golden powdery lichen spreading over shaded bark and rock; formless, it coats the surface as if dusted with yellow powder (soredia). It favours dry, rain-sheltered spots such as bark hollows and rock undersides.",
+      "habitat_hint": "Bark hollows, rock undersides and rain-sheltered shade.",
+      "finding_tips": "In bark hollows and rock shade look for a lichen spread like golden powder; the vivid yellow powdery body is the clue."
+    },
+    "zh": {
+      "summary": "コガネゴケ。金粉衣科之地衣，鲜黄至金黄之粉状，蔓于遮荫之树皮与岩，无定形、如撒黄粉（粉芽）覆基面，喜树皮凹处、岩下面等避雨之荫处。",
+      "habitat_hint": "树皮凹处、岩下面、避雨之荫。",
+      "finding_tips": "于树干凹处、岩荫寻如撒金粉之地衣；鲜黄粉状之体为线索。"
+    }
+  },
+  "Cibotium barometz": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Golden chicken fern",
+    "aliases": {
+      "zh-Hans": "金毛狗"
+    },
+    "ja": {
+      "summary": "タカワラビ(キンモウコウ)。大きな根茎が黄金色の長い毛におおわれ、まるで小動物のように見える大型のシダ(タカワラビ科)。この毛深い根茎は「金毛狗(きんもうこう)」と呼ばれ、生薬として止血や強壮に用いられる。羽状に大きく切れ込んだ葉を広げる。暖地の林に生える。",
+      "habitat_hint": "暖地の林内、渓流ぞい、亜熱帯林。",
+      "finding_tips": "暖地の林で、金色の毛におおわれた太い根茎と大きな羽状の葉をもつシダを探す。金毛の根茎が最大の手がかり。"
+    },
+    "en": {
+      "summary": "The golden chicken fern (タカワラビ, Cibotium barometz), a large fern whose big rhizome is clothed in golden hairs, looking like a small animal. This woolly rhizome ('gou ji' / 金毛狗) is used in herbal medicine as a haemostatic and tonic. It spreads large pinnately divided fronds and grows in warm-region forests.",
+      "habitat_hint": "Warm-region forest, streamsides and subtropical woods.",
+      "finding_tips": "In warm-region woods look for a fern with a thick golden-haired rhizome and large pinnate fronds; the golden woolly rhizome is the key clue."
+    },
+    "zh": {
+      "summary": "金毛狗（タカワラビ）。金毛狗科之大型蕨，粗根状茎被金黄长毛、状如小兽，此毛茸茸之根茎（金毛狗）入药、可止血强壮，展大而羽状深裂之叶，生暖地之林。",
+      "habitat_hint": "暖地林内、溪流畔、亚热带林。",
+      "finding_tips": "于暖地林寻粗根茎被金黄毛、叶大而羽状之蕨；金毛之根茎为最大线索。"
+    }
+  },
+  "Ciconia nigra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia",
+      "eBird"
+    ],
+    "common_name_en": "Black stork",
+    "aliases": {
+      "zh-Hans": "黑鹳"
+    },
+    "ja": {
+      "summary": "ナベコウ。ユーラシアに広く分布するコウノトリ科の大型の水鳥で、日本ではまれな冬鳥・旅鳥。全身が黒く、腹だけが白い。くちばしと脚は赤い。人里を避け、山あいの湿地や川、湖沼で魚やカエルなどをとって食べる。警戒心が強く単独でいることが多い。",
+      "habitat_hint": "山あいの湿地、川、湖沼、水田。",
+      "finding_tips": "冬、川や湿地で全身黒く腹が白い大きな水鳥を探す。黒い体に赤いくちばしと脚が手がかり(似たコウノトリは白黒)。"
+    },
+    "en": {
+      "summary": "The black stork (ナベコウ, Ciconia nigra), a large widespread Eurasian stork that in Japan is a rare winter visitor and passage migrant. It is black all over with only a white belly, and has a red bill and legs. Avoiding people, it hunts fish and frogs at hill wetlands, rivers and lakes, and is wary and usually solitary.",
+      "habitat_hint": "Hill wetlands, rivers, lakes and paddies.",
+      "finding_tips": "In winter at rivers and wetlands look for a large black waterbird with a white belly; the black body with red bill and legs is the clue (the similar Oriental stork is black-and-white)."
+    },
+    "zh": {
+      "summary": "黑鹳（ナベコウ）。鹳科大型水鸟，广布欧亚，于日本为罕见之冬候鸟、旅鸟。通体黑、唯腹白，喙与脚红，避人而于山间湿地、河湖捕鱼蛙，警觉、多单独。",
+      "habitat_hint": "山间湿地、河川、湖沼、水田。",
+      "finding_tips": "冬于河、湿地寻通体黑而腹白之大水鸟；黑体配红喙红脚为线索（近似之东方白鹳为黑白）。"
+    }
+  },
+  "Cinnamomum pseudopedunculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ogasawara camphor-laurel",
+    "ja": {
+      "summary": "オガサワラヤブニッケイ。小笠原諸島に固有のクスノキ科の常緑樹。ヤブニッケイに近い仲間で、葉は革質で光沢があり、three-nerved(三行脈)のクスノキ科らしい葉脈をもつ。枝葉には芳香がある。小笠原の固有種として保全上重要。",
+      "habitat_hint": "小笠原諸島の常緑林(固有)。",
+      "finding_tips": "小笠原の林で、革質で光沢があり葉脈が3本目立つ常緑樹を探す。葉をもむと香る点と3行脈が手がかり。"
+    },
+    "en": {
+      "summary": "A camphor-laurel (オガサワラヤブニッケイ, Cinnamomum, Lauraceae) endemic to the Ogasawara (Bonin) Islands; close to the Japanese false-cinnamon, its leathery glossy leaves show the three-nerved venation typical of the genus. The foliage is aromatic, and as an Ogasawara endemic it is of conservation importance.",
+      "habitat_hint": "Ogasawara evergreen forest (endemic).",
+      "finding_tips": "In Ogasawara woods look for an evergreen tree with leathery glossy three-nerved leaves; the aromatic crushed leaf and three main veins are the clue."
+    },
+    "zh": {
+      "summary": "オガサワラヤブニッケイ。樟科常绿树，小笠原诸岛特有，近于薮肉桂，叶革质具光泽、具樟科典型之三出脉，枝叶芳香，为小笠原特有种、保育上重要。",
+      "habitat_hint": "小笠原诸岛常绿林（特有）。",
+      "finding_tips": "于小笠原林寻叶革质光泽、三主脉显之常绿树；揉叶生香与三出脉为线索。"
+    }
+  },
+  "Cinnamomum sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Japanese cinnamon",
+    "aliases": {
+      "zh-Hans": "日本肉桂"
+    },
+    "ja": {
+      "summary": "ニッケイ(ニッキ)。暖地で栽培・野生化するクスノキ科の常緑樹。根の皮に甘く香辛料のような香りと甘みがあり、「ニッキ」として昔から菓子や飲み物に使われてきた。葉は革質で光沢があり、three-nerved(三行脈)。小さな黄色っぽい花をつけ、黒く熟す果実をつける。",
+      "habitat_hint": "暖地の人里、林、栽培地・野生化した所。",
+      "finding_tips": "暖地の林で、革質で3本の葉脈が目立つ常緑樹を探す。根や樹皮をかむと甘い香辛料の香りがする点が手がかり。"
+    },
+    "en": {
+      "summary": "Japanese cinnamon (ニッケイ, Cinnamomum sieboldii, Lauraceae), an evergreen tree cultivated and naturalised in warm areas; its root bark has a sweet, spicy fragrance and sweetness and has long been used ('nikki') in sweets and drinks. The leathery glossy leaves are three-nerved, and it bears small yellowish flowers and fruit ripening black.",
+      "habitat_hint": "Warm-region settlements, woods and cultivated/naturalised sites.",
+      "finding_tips": "In warm-region woods look for an evergreen tree with leathery three-nerved leaves; a sweet spicy scent when the root or bark is chewed is the clue."
+    },
+    "zh": {
+      "summary": "日本肉桂（ニッケイ）。樟科常绿树，暖地栽培并野生化，根皮具甘甜辛香与甜味、自古用于点心饮料，叶革质光泽、三出脉，开黄色小花、果熟黑。",
+      "habitat_hint": "暖地人里、林、栽培与野生化处。",
+      "finding_tips": "于暖地林寻叶革质、三脉显之常绿树；嚼根皮生甘辛香为线索。"
+    }
+  },
+  "Circobotys heterogenalis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crambid moth",
+    "ja": {
+      "summary": "キホソノメイガ。ツトガ科(ノメイガ類)の小型のガで、前翅が細長く、黄色みを帯びた地に暗い横線が入る。夜行性で灯火に飛来し、幼虫は植物の葉を綴(つづ)って食べる。林縁や草地でふつうに見られる。",
+      "habitat_hint": "林縁、雑木林、草地。",
+      "finding_tips": "夜、灯火で細長い前翅に黄色みと暗い横線のある小さなノメイガを探す。細長く黄色みのある翅が手がかり。"
+    },
+    "en": {
+      "summary": "A crambid moth (キホソノメイガ, Circobotys, Crambidae), small with narrow forewings that are yellowish with dark cross-lines. Nocturnal and drawn to lights, its larvae web and eat leaves. It is common at woodland edges and grassland.",
+      "habitat_hint": "Woodland edges, coppice and grassland.",
+      "finding_tips": "At night at lights look for a small moth with narrow yellowish dark-lined forewings; the narrow yellowish wings are the clue."
+    },
+    "zh": {
+      "summary": "キホソノメイガ。草螟科（斑野螟类）之小型蛾，前翅细长、带黄底具暗横线，夜行趋光，幼虫缀叶而食，常见于林缘与草地。",
+      "habitat_hint": "林缘、杂木林、草地。",
+      "finding_tips": "夜于灯下寻前翅细长、带黄具暗横线之小螟蛾；细长带黄之翅为线索。"
+    }
+  },
+  "Cirsium kagamontanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thistle",
+    "ja": {
+      "summary": "カガノアザミ。キク科アザミ属の多年草。葉のふちにとげがあり、秋を中心に紅紫色の筒状花だけからなる頭花を咲かせる。加賀(石川県)地方を中心に分布する地域的なアザミ。アザミの仲間は地域ごとに分化した種が多く、頭花のつき方や総苞(そうほう)の形で区別する。",
+      "habitat_hint": "山地〜低地の草地、林縁、道ばた、川べり。",
+      "finding_tips": "秋、とげのある葉と紅紫色の頭花をもつアザミを探す。加賀(石川県)地方を中心に分布する地域的なアザミ。総苞の形が同定の手がかり。"
+    },
+    "en": {
+      "summary": "A thistle (カガノアザミ, Cirsium, Asteraceae), a perennial with spiny leaf margins bearing reddish-purple flower heads of tubular florets, mainly in autumn. a regional thistle centred on the Kaga area (Ishikawa). Cirsium has many regionally differentiated species, separated by head arrangement and involucre shape.",
+      "habitat_hint": "Montane to lowland grassland, edges, roadsides and riverbanks.",
+      "finding_tips": "In autumn look for a thistle with spiny leaves and reddish-purple heads; a regional thistle centred on the Kaga area (Ishikawa). The involucre shape aids ID."
+    },
+    "zh": {
+      "summary": "カガノアザミ。菊科蓟属多年生草，叶缘具刺，主于秋开紫红色、仅具管状花之头状花。以加贺（石川县）一带分布之地域性蓟。蓟属多地域分化之种，以头花着生与总苞形态区分。",
+      "habitat_hint": "山地至低地草地、林缘、路旁、河边。",
+      "finding_tips": "秋寻具刺叶与紫红头花之蓟；以加贺（石川县）一带分布之地域性蓟。总苞之形为鉴定线索。"
+    }
+  },
+  "Cirsium misawaense": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thistle",
+    "ja": {
+      "summary": "ミサワアザミ。キク科アザミ属の多年草。葉のふちにとげがあり、秋を中心に紅紫色の筒状花だけからなる頭花を咲かせる。限られた地域に分布するアザミ。アザミの仲間は地域ごとに分化した種が多く、頭花のつき方や総苞(そうほう)の形で区別する。",
+      "habitat_hint": "山地〜低地の草地、林縁、道ばた、川べり。",
+      "finding_tips": "秋、とげのある葉と紅紫色の頭花をもつアザミを探す。限られた地域に分布するアザミ。総苞の形が同定の手がかり。"
+    },
+    "en": {
+      "summary": "A thistle (ミサワアザミ, Cirsium, Asteraceae), a perennial with spiny leaf margins bearing reddish-purple flower heads of tubular florets, mainly in autumn. a thistle of limited local distribution. Cirsium has many regionally differentiated species, separated by head arrangement and involucre shape.",
+      "habitat_hint": "Montane to lowland grassland, edges, roadsides and riverbanks.",
+      "finding_tips": "In autumn look for a thistle with spiny leaves and reddish-purple heads; a thistle of limited local distribution. The involucre shape aids ID."
+    },
+    "zh": {
+      "summary": "ミサワアザミ。菊科蓟属多年生草，叶缘具刺，主于秋开紫红色、仅具管状花之头状花。分布局限之地域性蓟。蓟属多地域分化之种，以头花着生与总苞形态区分。",
+      "habitat_hint": "山地至低地草地、林缘、路旁、河边。",
+      "finding_tips": "秋寻具刺叶与紫红头花之蓟；分布局限之地域性蓟。总苞之形为鉴定线索。"
+    }
+  },
+  "Cirsium tenuipedunculatum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Thistle",
+    "ja": {
+      "summary": "ホソエノアザミ。キク科アザミ属の多年草。葉のふちにとげがあり、秋を中心に紅紫色の筒状花だけからなる頭花を咲かせる。細い花柄の先に頭花を下向きにつけるのが名の由来。アザミの仲間は地域ごとに分化した種が多く、頭花のつき方や総苞(そうほう)の形で区別する。",
+      "habitat_hint": "山地〜低地の草地、林縁、道ばた、川べり。",
+      "finding_tips": "秋、とげのある葉と紅紫色の頭花をもつアザミを探す。細い花柄の先に頭花を下向きにつけるのが名の由来。総苞の形が同定の手がかり。"
+    },
+    "en": {
+      "summary": "A thistle (ホソエノアザミ, Cirsium, Asteraceae), a perennial with spiny leaf margins bearing reddish-purple flower heads of tubular florets, mainly in autumn. named for its heads borne nodding on slender stalks. Cirsium has many regionally differentiated species, separated by head arrangement and involucre shape.",
+      "habitat_hint": "Montane to lowland grassland, edges, roadsides and riverbanks.",
+      "finding_tips": "In autumn look for a thistle with spiny leaves and reddish-purple heads; named for its heads borne nodding on slender stalks. The involucre shape aids ID."
+    },
+    "zh": {
+      "summary": "ホソエノアザミ。菊科蓟属多年生草，叶缘具刺，主于秋开紫红色、仅具管状花之头状花。头花垂于细花梗端、名之由来。蓟属多地域分化之种，以头花着生与总苞形态区分。",
+      "habitat_hint": "山地至低地草地、林缘、路旁、河边。",
+      "finding_tips": "秋寻具刺叶与紫红头花之蓟；头花垂于细花梗端、名之由来。总苞之形为鉴定线索。"
+    }
+  },
+  "Citrus junos": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Yuzu",
+    "ja": {
+      "summary": "ユズ。中国原産で日本で広く栽培される、香りのよいミカン科の常緑小高木。枝には鋭いとげがある。果実は黄色く、でこぼこした厚い皮からさわやかな強い香りが立ち、果汁は酸味が強い。冬至の柚子湯や料理の香りづけ・ポン酢などに使われる。",
+      "habitat_hint": "人里、庭、畑の植栽、暖地の栽培地。",
+      "finding_tips": "秋〜冬、枝にとげのある常緑の木に、でこぼこした黄色い香りの強い実がついていないか探す。強い香りとごつごつした皮が手がかり。"
+    },
+    "en": {
+      "summary": "Yuzu (ユズ, Citrus junos), a fragrant evergreen small tree (Rutaceae) native to China and widely grown in Japan; the branches bear sharp thorns. The yellow fruit has a thick bumpy rind giving a bright, strong aroma and sharply sour juice, used in winter-solstice yuzu baths, as a cooking scent and in ponzu.",
+      "habitat_hint": "Settlements, gardens and orchard plantings in warm areas.",
+      "finding_tips": "In autumn–winter look for a thorny evergreen tree with bumpy strongly fragrant yellow fruit; the powerful scent and knobbly rind are the clue."
+    },
+    "zh": {
+      "summary": "香橙（ユズ，柚子）。芸香科常绿小乔木，原产中国、日本广栽，枝具锐刺，果黄、皮厚而凹凸、香气清冽浓烈、汁极酸，用于冬至之柚子浴、烹调增香与柚子醋。",
+      "habitat_hint": "人里、庭园、果园栽培（暖地）。",
+      "finding_tips": "秋冬寻枝具刺之常绿树、结凹凸而浓香之黄果；浓烈之香与粗糙之皮为线索。"
+    }
+  },
+  "Citrus tachibana": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Flat lemon",
+    "ja": {
+      "summary": "シーカーシャー(シークヮーサー)。南西諸島などで栽培・自生する小さなミカン科の常緑樹。果実は小さく緑色のうちに収穫され、強い酸味とさわやかな香りをもつ。果汁を絞って料理や飲み物の酸味づけに使い、沖縄を代表する柑橘のひとつ。枝には小さなとげがある。",
+      "habitat_hint": "南西諸島の人里、畑、山地の林(暖地)。",
+      "finding_tips": "暖地で、小さな緑〜黄色の酸っぱい柑橘の実をつける常緑の低木・小高木を探す。小さな実と強い酸味・香りが手がかり。"
+    },
+    "en": {
+      "summary": "The flat lemon / shikuwasa (シーカーシャー, treated under Citrus tachibana), a small evergreen citrus (Rutaceae) grown and wild in the Ryukyus; the small fruit is picked while green, intensely sour and fragrant. Its juice is squeezed to sour dishes and drinks, and it is one of Okinawa's signature citrus. The branches bear small thorns.",
+      "habitat_hint": "Ryukyu settlements, orchards and montane woods (warm regions).",
+      "finding_tips": "In warm regions look for an evergreen shrub to small tree with small green-to-yellow sour citrus fruit; the small fruit and sharp sour scent are the clue."
+    },
+    "zh": {
+      "summary": "シークヮーサー（シーカーシャー，归于 Citrus tachibana）。芸香科小型常绿柑橘，栽培并野生于西南诸岛，果小、青时采收、极酸而清香，榨汁用于烹调饮料增酸，为冲绳代表柑橘之一，枝具小刺。",
+      "habitat_hint": "西南诸岛人里、果园、山地林（暖地）。",
+      "finding_tips": "于暖地寻结青至黄之小酸柑橘之常绿灌木至小乔木；小果与浓酸清香为线索。"
+    }
+  },
+  "Cladonia macilenta": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cladonia lichen",
+    "ja": {
+      "summary": "ウロコバアカミゴケ。地上や腐木、岩の上に生えるハナゴケ科(Cladonia)の地衣類。基部の鱗片状の体から、細い柱状や杯(さかずき)状の子器柄(しきへい)を立てるのが特徴。細い柱状の子器柄の先に赤い子器(しき)がつくのが目印。菌類と藻類の共生体で、貧栄養な酸性の地面によく育つ。",
+      "habitat_hint": "日当たりのよい地上、腐木、岩上、砂地(酸性・貧栄養地)。",
+      "finding_tips": "地上や腐木で、鱗片状の体から細い柱や杯を立てる地衣を探す。細い柱状の子器柄の先に赤い子器(しき)がつくのが目印。"
+    },
+    "en": {
+      "summary": "A Cladonia lichen (ウロコバアカミゴケ) growing on ground, rotten wood and rock; from a base of scale-like squamules it raises slender stalk- or cup-shaped podetia. the slender podetia tipped with red apothecia are the mark. A fungus-alga symbiont, it thrives on poor acid ground.",
+      "habitat_hint": "Sunny ground, rotten wood, rock and sand (acid, nutrient-poor).",
+      "finding_tips": "On ground and rotten wood look for a lichen raising slender stalks or cups from scaly squamules; the slender podetia tipped with red apothecia are the mark."
+    },
+    "zh": {
+      "summary": "ウロコバアカミゴケ。石蕊科（Cladonia）地衣，生地上、腐木与岩，基部鳞片状体上立细柱状或杯状之子器柄。细柱状子器柄之端具红色子器为标志。为菌藻共生体，喜贫瘠酸性之地。",
+      "habitat_hint": "向阳地上、腐木、岩上、砂地（酸性贫瘠）。",
+      "finding_tips": "于地上、腐木寻自鳞状体立细柱或杯之地衣；细柱状子器柄之端具红色子器为标志。"
+    }
+  },
+  "Cladonia mitis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cladonia lichen",
+    "ja": {
+      "summary": "ワラハナゴケモドキ。地上や腐木、岩の上に生えるハナゴケ科(Cladonia)の地衣類。基部の鱗片状の体から、細い柱状や杯(さかずき)状の子器柄(しきへい)を立てるのが特徴。細かく枝分かれしてクッション状に群生するトナカイゴケ(ハナゴケ)の仲間で、赤い子器はつかない。菌類と藻類の共生体で、貧栄養な酸性の地面によく育つ。",
+      "habitat_hint": "日当たりのよい地上、腐木、岩上、砂地(酸性・貧栄養地)。",
+      "finding_tips": "地上や腐木で、鱗片状の体から細い柱や杯を立てる地衣を探す。細かく枝分かれしてクッション状に群生するトナカイゴケ(ハナゴケ)の仲間で、赤い子器はつかない。"
+    },
+    "en": {
+      "summary": "A Cladonia lichen (ワラハナゴケモドキ) growing on ground, rotten wood and rock; from a base of scale-like squamules it raises slender stalk- or cup-shaped podetia. a much-branched reindeer-lichen forming cushions, without red apothecia. A fungus-alga symbiont, it thrives on poor acid ground.",
+      "habitat_hint": "Sunny ground, rotten wood, rock and sand (acid, nutrient-poor).",
+      "finding_tips": "On ground and rotten wood look for a lichen raising slender stalks or cups from scaly squamules; a much-branched reindeer-lichen forming cushions, without red apothecia."
+    },
+    "zh": {
+      "summary": "ワラハナゴケモドキ。石蕊科（Cladonia）地衣，生地上、腐木与岩，基部鳞片状体上立细柱状或杯状之子器柄。细密分枝成垫状之驯鹿地衣类、无红色子器。为菌藻共生体，喜贫瘠酸性之地。",
+      "habitat_hint": "向阳地上、腐木、岩上、砂地（酸性贫瘠）。",
+      "finding_tips": "于地上、腐木寻自鳞状体立细柱或杯之地衣；细密分枝成垫状之驯鹿地衣类、无红色子器。"
+    }
+  },
+  "Cladonia phyllophora": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cladonia lichen",
+    "ja": {
+      "summary": "マダラハナゴケ。地上や腐木、岩の上に生えるハナゴケ科(Cladonia)の地衣類。基部の鱗片状の体から、細い柱状や杯(さかずき)状の子器柄(しきへい)を立てるのが特徴。杯状〜柱状の子器柄が褐色を帯び、まだら模様に見える。菌類と藻類の共生体で、貧栄養な酸性の地面によく育つ。",
+      "habitat_hint": "日当たりのよい地上、腐木、岩上、砂地(酸性・貧栄養地)。",
+      "finding_tips": "地上や腐木で、鱗片状の体から細い柱や杯を立てる地衣を探す。杯状〜柱状の子器柄が褐色を帯び、まだら模様に見える。"
+    },
+    "en": {
+      "summary": "A Cladonia lichen (マダラハナゴケ) growing on ground, rotten wood and rock; from a base of scale-like squamules it raises slender stalk- or cup-shaped podetia. with brownish cup- to stalk-shaped podetia looking mottled. A fungus-alga symbiont, it thrives on poor acid ground.",
+      "habitat_hint": "Sunny ground, rotten wood, rock and sand (acid, nutrient-poor).",
+      "finding_tips": "On ground and rotten wood look for a lichen raising slender stalks or cups from scaly squamules; with brownish cup- to stalk-shaped podetia looking mottled."
+    },
+    "zh": {
+      "summary": "マダラハナゴケ。石蕊科（Cladonia）地衣，生地上、腐木与岩，基部鳞片状体上立细柱状或杯状之子器柄。杯状至柱状之子器柄带褐、呈斑驳。为菌藻共生体，喜贫瘠酸性之地。",
+      "habitat_hint": "向阳地上、腐木、岩上、砂地（酸性贫瘠）。",
+      "finding_tips": "于地上、腐木寻自鳞状体立细柱或杯之地衣；杯状至柱状之子器柄带褐、呈斑驳。"
+    }
+  },
+  "Cladonia pleurota": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cladonia lichen",
+    "ja": {
+      "summary": "アカミゴケ。地上や腐木、岩の上に生えるハナゴケ科(Cladonia)の地衣類。基部の鱗片状の体から、細い柱状や杯(さかずき)状の子器柄(しきへい)を立てるのが特徴。杯状の子器柄の縁に赤い子器がつくのが目印。菌類と藻類の共生体で、貧栄養な酸性の地面によく育つ。",
+      "habitat_hint": "日当たりのよい地上、腐木、岩上、砂地(酸性・貧栄養地)。",
+      "finding_tips": "地上や腐木で、鱗片状の体から細い柱や杯を立てる地衣を探す。杯状の子器柄の縁に赤い子器がつくのが目印。"
+    },
+    "en": {
+      "summary": "A Cladonia lichen (アカミゴケ) growing on ground, rotten wood and rock; from a base of scale-like squamules it raises slender stalk- or cup-shaped podetia. the cup-shaped podetia rimmed with red apothecia are the mark. A fungus-alga symbiont, it thrives on poor acid ground.",
+      "habitat_hint": "Sunny ground, rotten wood, rock and sand (acid, nutrient-poor).",
+      "finding_tips": "On ground and rotten wood look for a lichen raising slender stalks or cups from scaly squamules; the cup-shaped podetia rimmed with red apothecia are the mark."
+    },
+    "zh": {
+      "summary": "アカミゴケ。石蕊科（Cladonia）地衣，生地上、腐木与岩，基部鳞片状体上立细柱状或杯状之子器柄。杯状子器柄之缘具红色子器为标志。为菌藻共生体，喜贫瘠酸性之地。",
+      "habitat_hint": "向阳地上、腐木、岩上、砂地（酸性贫瘠）。",
+      "finding_tips": "于地上、腐木寻自鳞状体立细柱或杯之地衣；杯状子器柄之缘具红色子器为标志。"
+    }
+  },
+  "Cladonia pseudevansii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cladonia lichen",
+    "ja": {
+      "summary": "ウスイロミヤマハナゴケ。地上や腐木、岩の上に生えるハナゴケ科(Cladonia)の地衣類。基部の鱗片状の体から、細い柱状や杯(さかずき)状の子器柄(しきへい)を立てるのが特徴。淡い色をした高山〜寒地のハナゴケの仲間。菌類と藻類の共生体で、貧栄養な酸性の地面によく育つ。",
+      "habitat_hint": "日当たりのよい地上、腐木、岩上、砂地(酸性・貧栄養地)。",
+      "finding_tips": "地上や腐木で、鱗片状の体から細い柱や杯を立てる地衣を探す。淡い色をした高山〜寒地のハナゴケの仲間。"
+    },
+    "en": {
+      "summary": "A Cladonia lichen (ウスイロミヤマハナゴケ) growing on ground, rotten wood and rock; from a base of scale-like squamules it raises slender stalk- or cup-shaped podetia. a pale reindeer-lichen relative of alpine and cold regions. A fungus-alga symbiont, it thrives on poor acid ground.",
+      "habitat_hint": "Sunny ground, rotten wood, rock and sand (acid, nutrient-poor).",
+      "finding_tips": "On ground and rotten wood look for a lichen raising slender stalks or cups from scaly squamules; a pale reindeer-lichen relative of alpine and cold regions."
+    },
+    "zh": {
+      "summary": "ウスイロミヤマハナゴケ。石蕊科（Cladonia）地衣，生地上、腐木与岩，基部鳞片状体上立细柱状或杯状之子器柄。色淡之高山与寒地驯鹿地衣类。为菌藻共生体，喜贫瘠酸性之地。",
+      "habitat_hint": "向阳地上、腐木、岩上、砂地（酸性贫瘠）。",
+      "finding_tips": "于地上、腐木寻自鳞状体立细柱或杯之地衣；色淡之高山与寒地驯鹿地衣类。"
+    }
+  },
+  "Cladophora sakaii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Green alga",
+    "ja": {
+      "summary": "アサミドリシオグサ。潮間帯の岩やタイドプールに生える緑藻(シオグサ科シオグサ属)。名(浅緑)のとおり明るい緑色で、細い糸状体が枝分かれして房状〜綿状に広がる。岩の上に付着し、手ざわりはやや粗い。",
+      "habitat_hint": "潮間帯の岩、タイドプール、内湾の浅所。",
+      "finding_tips": "潮だまりの岩で、明るい緑色の枝分かれした糸状の海藻が房状に広がっていないか探す。細く枝分かれする緑の糸が手がかり。"
+    },
+    "en": {
+      "summary": "A green alga (アサミドリシオグサ, Cladophora, Cladophoraceae) of intertidal rock and tide pools; as the Japanese name ('pale green') implies, it is bright green, its fine branched filaments spreading in tufts or wads. It attaches to rock and is somewhat coarse to the touch.",
+      "habitat_hint": "Intertidal rock, tide pools and sheltered shallows.",
+      "finding_tips": "In tide pools look for a bright-green branched filamentous alga spreading in tufts; the fine branched green threads are the clue."
+    },
+    "zh": {
+      "summary": "アサミドリシオグサ。绿藻（刚毛藻科刚毛藻属），生潮间带岩石与潮池，色亮绿（和名意为浅绿），细丝状体分枝、成丛至棉絮状铺展，附于岩上、手感略粗。",
+      "habitat_hint": "潮间带岩石、潮池、内湾浅处。",
+      "finding_tips": "于潮池岩石寻亮绿而分枝之丝状藻成丛；细而分枝之绿丝为线索。"
+    }
+  },
+  "Clanculus bronni": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Top snail",
+    "ja": {
+      "summary": "コマキアゲエビス。潮間帯〜浅海の岩礁にすむニシキウズガイ科(エビスガイ類)の小さな巻貝。殻はやや低いこま形で、粒状の彫刻が螺状に並び、赤褐色などの模様をもつ。岩の上の藻類や有機物を削り取って食べる。殻口の内側に真珠光沢がある。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、転石帯。",
+      "finding_tips": "岩礁で、こま形で表面に粒々の彫刻がある小さな巻貝を探す。粒状の螺肋とこま形の殻が手がかり。"
+    },
+    "en": {
+      "summary": "A top snail (コマキアゲエビス, Clanculus, Trochidae) of intertidal to shallow rocky reef; the rather low top-shaped shell has spiral rows of granular sculpture and reddish-brown markings. It rasps algae and organic matter off rock, and the aperture has a pearly interior.",
+      "habitat_hint": "Intertidal to shallow rocky reef and boulder zones.",
+      "finding_tips": "On reef rock look for a small top-shaped snail with beaded surface sculpture; the granular spiral cords and top shape are the clue."
+    },
+    "zh": {
+      "summary": "コマキアゲエビス。马蹄螺科（蜑螺近缘之埃螺类）之小螺，栖潮间带至浅海岩礁，壳略低陀螺形、具粒状螺列雕刻与红褐斑纹，刮食岩上藻与有机物，壳口内具珍珠光泽。",
+      "habitat_hint": "潮间带至浅海岩礁、砾石带。",
+      "finding_tips": "于礁岩寻陀螺形而面具粒状雕刻之小螺；粒状螺肋与陀螺形壳为线索。"
+    }
+  },
+  "Clematis fujisanensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Clematis",
+    "ja": {
+      "summary": "フジセンニンソウ。山地の林縁ややぶに生えるキンポウゲ科(センニンソウ属)のつる性の植物。他の木や草にからみついて伸び、夏〜秋に白い十字形の花(花弁に見えるのはがく片)を多数咲かせる。花のあと、羽毛状の長い毛のついた果実(仙人の髭)をつける。全草にやや刺激性がある。",
+      "habitat_hint": "山地の林縁、やぶ、道ばた。",
+      "finding_tips": "夏〜秋、林縁で白い十字形の花を多数つけるつる植物を探す。白い4枚のがく片と羽毛状の果実が手がかり。"
+    },
+    "en": {
+      "summary": "A clematis (フジセンニンソウ, Clematis) of montane woodland edges and thickets; a climber, it scrambles over other plants and in summer–autumn bears many white cross-shaped flowers (the 'petals' are sepals). After flowering it forms fruit with long feathery hairs (the 'hermit's beard'). The whole plant is slightly irritant.",
+      "habitat_hint": "Montane woodland edges, thickets and roadsides.",
+      "finding_tips": "In summer–autumn at woodland edges look for a climber with many white cross-shaped flowers; the four white sepals and feathery fruit are the clue."
+    },
+    "zh": {
+      "summary": "フジセンニンソウ。毛茛科（铁线莲属）之藤本，生山地林缘与灌丛，攀他木他草而伸，夏秋开多数白色十字形花（似花瓣者为萼片），花后结具羽状长毛之果（仙人须），全株略具刺激性。",
+      "habitat_hint": "山地林缘、灌丛、路旁。",
+      "finding_tips": "夏秋于林缘寻多开白色十字花之藤；四白萼片与羽状果为线索。"
+    }
   }
 }
