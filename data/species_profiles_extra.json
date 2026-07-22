@@ -287863,5 +287863,542 @@
       "habitat_hint": "潮间带岩礁、潮池、转石下。",
       "finding_tips": "退潮时于潮池或转石下寻体褐具斑、后方楔形之小型鰕虎；褐色斑纹与楔形体为辨识点。"
     }
+  },
+  "Bathygobius hongkongensis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frillfin goby",
+    "ja": {
+      "summary": "クロホシヤハズハゼ。潮間帯の岩礁やタイドプール、転石の下にすむハゼ科の小型の魚で、体は褐色でまだら模様をもち、体側に黒い斑点(黒星)が並ぶ。胸びれ上部の鰭条が糸状に遊離するフリルフィンハゼ類。名(矢筈)は尾びれや斑紋の形にちなむ。岩の隙間にひそみ、小さな甲殻類などを食べる。暖海の岩礁で見られる。",
+      "habitat_hint": "潮間帯の岩礁、タイドプール、転石の下。",
+      "finding_tips": "干潮時のタイドプールや転石下で、褐色でまだら模様に黒い斑点をもつ小型のハゼを探す。体側の黒い斑点と胸びれの遊離鰭条が識別点。"
+    },
+    "en": {
+      "summary": "A frillfin goby (Bathygobius hongkongensis, Gobiidae), a small fish of intertidal reef, tide pools and under stones; the mottled brown body has a row of black spots along the side, and the free filamentous upper pectoral rays mark it as a frillfin goby. It hides in rock crevices eating small crustaceans and occurs on warm-water reefs.",
+      "habitat_hint": "Intertidal reef, tide pools, under stones.",
+      "finding_tips": "At low tide in tide pools or under stones look for a small mottled-brown goby with black side-spots; the black side-spots with free pectoral rays are the clue."
+    },
+    "zh": {
+      "summary": "クロホシヤハズハゼ。鰕虎科小型鱼，栖潮间带岩礁、潮池、转石下，体褐具斑、体侧列黑斑（黑星），具丝鳍鰕虎类之胸鳍上部游离丝状鳍条，伏岩隙食小甲壳类，见于暖海岩礁。",
+      "habitat_hint": "潮间带岩礁、潮池、转石下。",
+      "finding_tips": "退潮时于潮池或转石下寻体褐具斑而侧列黑斑之小型鰕虎；体侧黑斑与游离胸鳍条为辨识点。"
+    }
+  },
+  "Bathygobius laddi": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Frillfin goby",
+    "ja": {
+      "summary": "ヤミクモハゼ。潮間帯の岩礁やタイドプール、転石の下にすむハゼ科の小型の魚で、体は暗褐色で暗色のまだら模様をもち、全体に地味で目立たない(闇)。胸びれ上部の鰭条が糸状に遊離するフリルフィンハゼ類。岩の隙間や礫の下にひそみ、夜に活動して小さな甲殻類などを食べる。暖海の岩礁で見られる。",
+      "habitat_hint": "潮間帯の岩礁、タイドプール、転石の下、礫底。",
+      "finding_tips": "干潮時の転石下やタイドプールで、暗褐色で地味なまだら模様の小型のハゼを探す。暗褐色の地味な体と胸びれの遊離鰭条が識別点。"
+    },
+    "en": {
+      "summary": "A frillfin goby (Bathygobius laddi, Gobiidae), a small fish of intertidal reef, tide pools and under stones; the dark-brown body is mottled with dark markings and is drab and inconspicuous overall (the Japanese name means 'darkness'). The free filamentous upper pectoral rays mark it as a frillfin goby. It hides under rock and rubble, foraging at night on small crustaceans, on warm-water reefs.",
+      "habitat_hint": "Intertidal reef, tide pools, under stones, gravel bottoms.",
+      "finding_tips": "At low tide under stones or in tide pools look for a small drab dark-brown mottled goby; the drab dark body with free pectoral rays is the clue."
+    },
+    "zh": {
+      "summary": "ヤミクモハゼ。鰕虎科小型鱼，栖潮间带岩礁、潮池、转石下，体暗褐具暗斑、整体朴素不显（闇），具丝鳍鰕虎类之胸鳍上部游离丝状鳍条，伏岩隙砾下、夜出食小甲壳类，见于暖海岩礁。",
+      "habitat_hint": "潮间带岩礁、潮池、转石下、砾底。",
+      "finding_tips": "退潮时于转石下或潮池寻暗褐朴素而具斑之小型鰕虎；暗褐朴素体与游离胸鳍条为辨识点。"
+    }
+  },
+  "Bembidion chloropus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ホソトビミズギワゴミムシ。河原や水辺の湿った地表、砂礫地にすむオサムシ科(ミズギワゴミムシ類、Bembidion)のごく小型の甲虫で、体は数mmと小さく、しばしば金属光沢を帯びる。同類の中では細身(細)で、脚が淡色〜緑褐色(chloropus=淡緑色の脚)を帯びる。素早く歩き、驚くと跳ねるように逃げる。地表を歩いてトビムシなどの微小な小動物を捕食する。夜、灯火に飛来することがある。",
+      "habitat_hint": "河原、水辺、湿地の砂礫地・湿った地表、石の下。",
+      "finding_tips": "水辺の湿った地面や石をめくり、数mmで金属光沢のある素早いミズギワゴミムシを探す。ごく小型で素早い体が手がかり(近縁種は斑紋・交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A ground beetle (Bembidion, Carabidae), a very small beetle only a few millimetres long living on moist waterside ground and gravel, often with a metallic sheen. 同類の中では細身(細)で、脚が淡色〜緑褐色(chloropus=淡緑色の脚)を帯びる. It runs quickly and jumps away when disturbed, walking the ground to prey on minute animals such as springtails. Adults sometimes come to lights at night.",
+      "habitat_hint": "Riverbanks, waterside, wetland gravel and moist ground, under stones.",
+      "finding_tips": "On moist waterside ground or under stones look for a fast few-millimetre metallic ground beetle; the tiny fast body is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "ホソトビミズギワゴミムシ。步甲科（水际类，Bembidion）之极小型甲虫，栖河滩水边湿润地表与砂砾，体仅数毫米、常具金属光泽。同類の中では細身(細)で、脚が淡色〜緑褐色(chloropus=淡緑色の脚)を帯びる。行动迅速、受惊跳逃，于地表捕食跳虫等微小动物，夜间偶趋光。",
+      "habitat_hint": "河滩、水边、湿地砂砾与湿润地表、石下。",
+      "finding_tips": "于水边湿地或翻石寻数毫米、具金属光泽而迅速之水际步甲；极小迅速之体为线索（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Bembidion lucillum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ハコネミズギワゴミムシ。河原や水辺の湿った地表、砂礫地にすむオサムシ科(ミズギワゴミムシ類、Bembidion)のごく小型の甲虫で、体は数mmと小さく、しばしば金属光沢を帯びる。名(箱根)のとおり本州中部の山地の渓流沿いなどに分布する。素早く歩き、驚くと跳ねるように逃げる。地表を歩いてトビムシなどの微小な小動物を捕食する。夜、灯火に飛来することがある。",
+      "habitat_hint": "河原、水辺、湿地の砂礫地・湿った地表、石の下。",
+      "finding_tips": "水辺の湿った地面や石をめくり、数mmで金属光沢のある素早いミズギワゴミムシを探す。ごく小型で素早い体が手がかり(近縁種は斑紋・交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A ground beetle (Bembidion, Carabidae), a very small beetle only a few millimetres long living on moist waterside ground and gravel, often with a metallic sheen. 名(箱根)のとおり本州中部の山地の渓流沿いなどに分布する. It runs quickly and jumps away when disturbed, walking the ground to prey on minute animals such as springtails. Adults sometimes come to lights at night.",
+      "habitat_hint": "Riverbanks, waterside, wetland gravel and moist ground, under stones.",
+      "finding_tips": "On moist waterside ground or under stones look for a fast few-millimetre metallic ground beetle; the tiny fast body is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "ハコネミズギワゴミムシ。步甲科（水际类，Bembidion）之极小型甲虫，栖河滩水边湿润地表与砂砾，体仅数毫米、常具金属光泽。名(箱根)のとおり本州中部の山地の渓流沿いなどに分布する。行动迅速、受惊跳逃，于地表捕食跳虫等微小动物，夜间偶趋光。",
+      "habitat_hint": "河滩、水边、湿地砂砾与湿润地表、石下。",
+      "finding_tips": "于水边湿地或翻石寻数毫米、具金属光泽而迅速之水际步甲；极小迅速之体为线索（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Bembidion misellum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Ground beetle",
+    "ja": {
+      "summary": "ニッコウミズギワゴミムシ。河原や水辺の湿った地表、砂礫地にすむオサムシ科(ミズギワゴミムシ類、Bembidion)のごく小型の甲虫で、体は数mmと小さく、しばしば金属光沢を帯びる。名(日光)のとおり山地の渓流沿いなどに分布し、やや小型。素早く歩き、驚くと跳ねるように逃げる。地表を歩いてトビムシなどの微小な小動物を捕食する。夜、灯火に飛来することがある。",
+      "habitat_hint": "河原、水辺、湿地の砂礫地・湿った地表、石の下。",
+      "finding_tips": "水辺の湿った地面や石をめくり、数mmで金属光沢のある素早いミズギワゴミムシを探す。ごく小型で素早い体が手がかり(近縁種は斑紋・交尾器で区別)。"
+    },
+    "en": {
+      "summary": "A ground beetle (Bembidion, Carabidae), a very small beetle only a few millimetres long living on moist waterside ground and gravel, often with a metallic sheen. 名(日光)のとおり山地の渓流沿いなどに分布し、やや小型. It runs quickly and jumps away when disturbed, walking the ground to prey on minute animals such as springtails. Adults sometimes come to lights at night.",
+      "habitat_hint": "Riverbanks, waterside, wetland gravel and moist ground, under stones.",
+      "finding_tips": "On moist waterside ground or under stones look for a fast few-millimetre metallic ground beetle; the tiny fast body is the clue (relatives separated by pattern and genitalia)."
+    },
+    "zh": {
+      "summary": "ニッコウミズギワゴミムシ。步甲科（水际类，Bembidion）之极小型甲虫，栖河滩水边湿润地表与砂砾，体仅数毫米、常具金属光泽。名(日光)のとおり山地の渓流沿いなどに分布し、やや小型。行动迅速、受惊跳逃，于地表捕食跳虫等微小动物，夜间偶趋光。",
+      "habitat_hint": "河滩、水边、湿地砂砾与湿润地表、石下。",
+      "finding_tips": "于水边湿地或翻石寻数毫米、具金属光泽而迅速之水际步甲；极小迅速之体为线索（近缘种以斑纹与交尾器区分）。"
+    }
+  },
+  "Benthosema pterotum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Skinnycheek lanternfish",
+    "ja": {
+      "summary": "イワハダカ。外洋の中〜深層にすむハダカイワシ科の小型の魚で、体は細長く鱗がはがれやすく(裸)、体の側面や腹に発光器(光る器官)が点々と並ぶ。夜に表層近くまで浮上し、昼は深みに戻る日周鉛直移動を行う。動物プランクトンを食べ、海の食物連鎖で重要な役割を果たす。群れをなす。",
+      "habitat_hint": "外洋の中〜深層(表層近くへ夜間に浮上)。",
+      "finding_tips": "外洋や深海の標本で、体側や腹に発光器が点々と並ぶ細長い小魚を探す。腹の列状の発光器と鱗のはがれやすい体が識別点。"
+    },
+    "en": {
+      "summary": "A lanternfish (Benthosema pterotum, Myctophidae), a small fish of the open-ocean mid to deep water; the elongate body sheds its scales easily (the Japanese name means 'naked') and has rows of light organs (photophores) along the sides and belly. It undertakes daily vertical migration, rising near the surface at night and returning to depth by day. It eats zooplankton, schools, and is important in the ocean food web.",
+      "habitat_hint": "Open-ocean mid to deep water (rising near surface at night).",
+      "finding_tips": "In open-ocean or deep-sea samples look for an elongate small fish with rows of photophores on side and belly; the belly light-organ rows and easily-shed scales are the clue."
+    },
+    "zh": {
+      "summary": "イワハダカ。灯笼鱼科小型鱼，栖外洋中至深层，体细长、鳞易脱（裸），体侧与腹具成列发光器（发光器官），行昼夜垂直洄游、夜升近表层、昼返深处，食浮游动物、成群，为海洋食物链重要一环。",
+      "habitat_hint": "外洋中至深层（夜间升近表层）。",
+      "finding_tips": "于外洋或深海标本寻体侧与腹具成列发光器之细长小鱼；腹之列状发光器与易脱鳞为辨识点。"
+    }
+  },
+  "Berardius bairdii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Baird's beaked whale",
+    "aliases": {
+      "zh-Hans": "贝氏喙鲸"
+    },
+    "ja": {
+      "summary": "ツチクジラ。太平洋の沖合の深い海にすむアカボウクジラ科の大型のハクジラで、体は細長い紡錘形、頭が丸くふくらみ、くちばし状に細く突き出た吻(つち=槌)をもつのが名の由来。体色は暗灰色〜黒褐色で、古い個体は傷跡が多い。深く潜ってイカや深海魚を食べる。日本近海では捕鯨の対象にもなってきた。数頭〜十数頭の群れで行動する。",
+      "habitat_hint": "太平洋の沖合、大陸斜面沖の深い海。",
+      "finding_tips": "沖合の深い海で、頭が丸くくちばし状の吻をもつ細長い大型のハクジラを探す。丸い頭とくちばし状の吻、暗色で傷の多い体が識別点。"
+    },
+    "en": {
+      "summary": "Baird's beaked whale (Berardius bairdii, Ziphiidae), a large toothed whale of the deep offshore Pacific; the elongate fusiform body has a bulbous forehead and a slender beak-like snout (the source of the Japanese name 'mallet'). Dark grey to blackish-brown, old animals are heavily scarred. It dives deep to eat squid and deep-sea fish, has been a whaling target off Japan, and travels in groups of several to a dozen or more.",
+      "habitat_hint": "Offshore Pacific, deep water off the continental slope.",
+      "finding_tips": "In deep offshore water look for a large elongate toothed whale with a bulbous head and a beak-like snout; the bulbous forehead, beak and dark scarred body are the clue."
+    },
+    "zh": {
+      "summary": "ツチクジラ。喙鲸科大型齿鲸，栖太平洋外海深处，体细长纺锤、额圆隆、吻细如喙突出如槌（和名之由来），体暗灰至黑褐、老龄多疤，深潜食乌贼与深海鱼，日本近海曾为捕鲸对象，数头至十余头成群。",
+      "habitat_hint": "太平洋外海、大陆坡外之深海。",
+      "finding_tips": "于外海深处寻额圆、吻如喙之细长大型齿鲸；圆额、喙吻与暗色多疤之体为辨识点。"
+    }
+  },
+  "Berberis sieboldii": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Siebold's barberry",
+    "ja": {
+      "summary": "ヘビノボラズ。丘陵や低山の林縁、湿った草地に生えるメギ科メギ属の落葉低木で、枝に鋭い刺(3分岐する刺)が多数あるのが特徴。名(蛇上らず)はこの刺のためヘビも登れないことに由来する。春に黄色い小さな花を房状に咲かせ、秋に赤い楕円形の実をつける。葉は倒卵形で縁に刺状の鋸歯がある。",
+      "habitat_hint": "丘陵〜低山の林縁、湿った草地、疎林。",
+      "finding_tips": "林縁で、枝に鋭い刺が多数あり黄色い小花を房状につける落葉低木を探す。鋭い分岐する刺と赤い楕円形の実が識別点。"
+    },
+    "en": {
+      "summary": "Siebold's barberry (Berberis sieboldii, Berberidaceae), a deciduous shrub of hill and low-montane woodland edges and moist grassland; the branches bear many sharp (three-forked) spines. The Japanese name ('snakes can't climb') refers to these spines. It bears small yellow flowers in racemes in spring and red oval fruits in autumn, with obovate leaves toothed with spiny margins.",
+      "habitat_hint": "Hill to low-montane woodland edges, moist grassland, open woods.",
+      "finding_tips": "At woodland edges look for a deciduous shrub with many sharp spines and yellow flowers in clusters; the sharp forked spines and red oval fruits are the clue."
+    },
+    "zh": {
+      "summary": "ヘビノボラズ。小檗科小檗属落叶灌木，生丘陵与低山林缘、湿润草地，枝多锐刺（三分叉刺），和名（蛇不上）指其刺使蛇亦难攀，春开黄色小花成总状、秋结红色椭圆果，叶倒卵、缘具刺状锯齿。",
+      "habitat_hint": "丘陵至低山林缘、湿润草地、疏林。",
+      "finding_tips": "于林缘寻枝多锐刺、黄色小花成簇之落叶灌木；锐利分叉刺与红椭圆果为辨识点。"
+    }
+  },
+  "Beringraja pulchra": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Mottled skate",
+    "ja": {
+      "summary": "メガネカスベ。沿岸〜やや深い砂泥底にすむガンギエイ科のエイ(カスベ類)で、体は平たいひし形で、胸びれが左右に広がる。体の背面の左右に、眼状(めがね状)の斑紋を一対もつのが名の由来。尾は細長い。海底で貝類や甲殻類、小魚を食べる。卵生で、四角い卵殻(人魚の財布)を産む。食用にされる。",
+      "habitat_hint": "沿岸〜やや深い砂底、砂泥底、大陸棚。",
+      "finding_tips": "砂泥底や漁獲物で、平たいひし形で背に一対の眼状斑をもつエイを探す。背の一対の眼状(めがね状)斑が識別点。"
+    },
+    "en": {
+      "summary": "The mottled skate (Beringraja pulchra, Rajidae), a skate of coastal to somewhat deep sand-mud bottoms; the flattened rhombic body has broad pectoral 'wings'. A pair of eye-like (spectacle) spots on the back gives the Japanese name, and the tail is slender. It eats shellfish, crustaceans and small fish on the seabed, is egg-laying (producing square 'mermaid's purse' egg cases), and is used for food.",
+      "habitat_hint": "Coastal to somewhat deep sand and sand-mud bottoms, continental shelf.",
+      "finding_tips": "On sand-mud or in catches look for a flattened rhombic ray with a pair of eye-like spots on the back; the paired spectacle spots are the clue."
+    },
+    "zh": {
+      "summary": "メガネカスベ。鳐科之鳐（鳐类），栖沿岸至略深砂泥底，体扁菱形、胸鳍左右张开，背面左右具一对眼状（眼镜状）斑（和名之由来），尾细长，于海底食贝类、甲壳与小鱼，卵生、产方形卵壳（美人鱼钱包），供食用。",
+      "habitat_hint": "沿岸至略深砂底、砂泥底、大陆架。",
+      "finding_tips": "于砂泥底或渔获寻扁菱形而背具一对眼状斑之鳐；背之一对眼镜状斑为辨识点。"
+    }
+  },
+  "Bero elegans": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Sculpin",
+    "ja": {
+      "summary": "ベロ。沿岸の岩礁や藻場、砂礫底にすむカジカ科の小型の魚で、体は細長く、頭が大きめでとげをもち、うろこがない。体は褐色〜赤褐色で斑があり、海藻や岩に紛れる保護色をもつ。底に張りついてじっとし、近づく小さな甲殻類や小魚を待ち伏せて食べる。北日本の沿岸に多い。",
+      "habitat_hint": "沿岸の岩礁、藻場、砂礫底、潮だまり。",
+      "finding_tips": "沿岸の岩礁や藻場で、頭が大きくとげをもつうろこのない細長い小魚を探す。大きな頭と保護色の斑、うろこのない体が識別点。"
+    },
+    "en": {
+      "summary": "A sculpin (Bero elegans, Cottidae), a small fish of coastal reefs, weed beds and sand-gravel bottoms; the elongate body has a largish spiny head and no scales, is brown to red-brown and mottled for camouflage among weed and rock. It sits still on the bottom and ambushes passing small crustaceans and fish. It is common on northern Japanese coasts.",
+      "habitat_hint": "Coastal reefs, weed beds, sand-gravel bottoms, tide pools.",
+      "finding_tips": "On coastal reefs or weed beds look for a scaleless elongate small fish with a large spiny head; the big head with camouflage mottling and scaleless body are the clue."
+    },
+    "zh": {
+      "summary": "ベロ。杜父鱼科小型鱼，栖沿岸岩礁、藻场、砂砾底，体细长、头略大具棘、无鳞，体褐至红褐具斑、拟态藻岩，伏底不动、伏击近前之小甲壳与小鱼，多见于北日本沿岸。",
+      "habitat_hint": "沿岸岩礁、藻场、砂砾底、潮池。",
+      "finding_tips": "于沿岸岩礁藻场寻头大具棘、无鳞之细长小鱼；大头、拟态斑与无鳞体为辨识点。"
+    }
+  },
+  "Berosus japonicus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Water scavenger beetle",
+    "ja": {
+      "summary": "ヤマトゴマフガムシ。池沼や水田、湿地の止水にすむガムシ科(ゴマフガムシ類)の小型の甲虫で、体は卵形で背面がよく盛り上がり、淡黄褐色の地に黒っぽいごま状の斑(胡麻斑)が散らばる。後脚で泳ぐが泳ぎは下手。成虫・幼虫とも水中で暮らし、幼虫は肉食性、成虫は藻類などを食べる。夜、灯火に飛来する。",
+      "habitat_hint": "池沼、水田、湿地の水草の多い止水。",
+      "finding_tips": "水草の多い止水で、卵形で背が盛り上がり淡黄褐色にごま状の斑をもつ小さな甲虫を探す。ごま状の斑と盛り上がった背が識別点。"
+    },
+    "en": {
+      "summary": "A water scavenger beetle (Berosus japonicus, Hydrophilidae), a small beetle of ponds, paddies and wetland still water; the oval body is strongly humped above, pale yellow-brown scattered with dark sesame-like spots (the source of the Japanese name). It swims with its hind legs (poorly), and both adults and larvae live in water — larvae carnivorous, adults eating algae. Adults come to lights at night.",
+      "habitat_hint": "Ponds, paddies, wetland still water with abundant weed.",
+      "finding_tips": "In weedy still water look for a small oval strongly-humped beetle, pale yellow-brown with sesame-like dark spots; the sesame spots on a humped back are the clue."
+    },
+    "zh": {
+      "summary": "ヤマトゴマフガムシ。牙甲科（芝麻牙甲类）小型甲虫，栖池沼、水田、湿地静水，体卵形、背强隆，淡黄褐底散黑色芝麻状斑（胡麻斑），以后足游泳而拙，成虫幼虫皆水生、幼虫肉食、成虫食藻，夜间趋光。",
+      "habitat_hint": "池沼、水田、湿地多水草静水。",
+      "finding_tips": "于多水草静水寻卵形背隆、淡黄褐具芝麻状斑之小甲虫；芝麻斑与隆背为辨识点。"
+    }
+  },
+  "Betaeus granulimanus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Snapping-shrimp relative",
+    "ja": {
+      "summary": "テッポウエビモドキ。内湾や潮間帯の岩礫の間、他の生物の巣穴などにすむエビ(テッポウエビ科に近いBetaeus)で、テッポウエビに似るが、はさみは左右がほぼ同大で音を出す発達したはさみをもたない(擬き)。はさみの表面に細かい粒(顆粒、granulimanus=粒のある手)がある。岩の隙間や他の動物の巣に共生的にすむことがある。",
+      "habitat_hint": "内湾、潮間帯の岩礫の間、他の生物の巣穴。",
+      "finding_tips": "潮間帯の岩礫の間で、テッポウエビに似るが左右のはさみがほぼ同大のエビを探す。左右同大のはさみと粒状のはさみ表面が識別点。"
+    },
+    "en": {
+      "summary": "A shrimp (Betaeus granulimanus, Alpheidae relative) living among intertidal rock and rubble and in other animals' burrows; it resembles a snapping shrimp but has claws of nearly equal size and lacks the enlarged sound-making claw (the Japanese name means 'false snapping shrimp'). The claw surface is finely granular (granulimanus = granular hand). It may live symbiotically in crevices and other animals' burrows.",
+      "habitat_hint": "Bays, intertidal rock and rubble, other animals' burrows.",
+      "finding_tips": "Among intertidal rubble look for a shrimp like a snapping shrimp but with nearly equal-sized claws; the equal claws with granular surfaces are the clue."
+    },
+    "zh": {
+      "summary": "テッポウエビモドキ。近鼓虾科之虾（Betaeus），栖内湾潮间带岩砾间与他生物穴中，似鼓虾而左右螯近等大、无发声之大螯（拟），螯面具细颗粒（granulimanus 具粒之手），或共生于岩隙与他物之穴。",
+      "habitat_hint": "内湾、潮间带岩砾间、他生物穴。",
+      "finding_tips": "于潮间带砾间寻似鼓虾而左右螯近等大之虾；等大之螯与颗粒螯面为辨识点。"
+    }
+  },
+  "Betula davurica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Dahurian birch",
+    "aliases": {
+      "zh-Hans": "黑桦"
+    },
+    "ja": {
+      "summary": "ヤエガワカンバ。山地に生えるカバノキ科の落葉高木で、樹皮が灰褐色〜暗褐色で厚く、不規則に細かくめくれて幾重にも重なってはがれる(八重皮)のが名の由来。シラカンバのような白い樹皮ではない。葉は卵形で縁に鋸歯がある。春に尾状の花序を垂らす。本州中部の山地や北方に分布し、日当たりのよい斜面に生える。",
+      "habitat_hint": "山地の日当たりのよい斜面、尾根、二次林。",
+      "finding_tips": "山地で、樹皮が灰褐色で幾重にも細かくめくれてはがれる落葉高木を探す。八重にめくれる厚い樹皮が識別点(白樺とは異なる)。"
+    },
+    "en": {
+      "summary": "The Dahurian birch (Betula davurica, Betulaceae), a deciduous tree of the mountains; the grey-brown to dark-brown bark is thick and peels irregularly in many overlapping fine layers (the source of the Japanese name 'many-layered bark'), unlike the white bark of white birch. The ovate leaves have toothed margins, and it hangs catkins in spring. It grows on sunny mountain slopes in central Honshu and northward.",
+      "habitat_hint": "Sunny mountain slopes, ridges, secondary forest.",
+      "finding_tips": "In mountains look for a deciduous tree with grey-brown bark peeling in many overlapping fine layers; the many-layered peeling thick bark is the clue (not the white birch)."
+    },
+    "zh": {
+      "summary": "ヤエガワカンバ。桦木科落叶乔木，生山地，树皮灰褐至暗褐而厚、不规则细裂多层叠而剥落（八重皮，名之由来），非白桦之白皮，叶卵形缘具锯齿，春垂柔荑花序，分布本州中部山地及北方、生向阳坡。",
+      "habitat_hint": "山地向阳坡、山脊、次生林。",
+      "finding_tips": "于山地寻树皮灰褐而多层细裂剥落之落叶乔木；多层剥落之厚树皮为辨识点（异于白桦）。"
+    }
+  },
+  "Biphyllus flexuosus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "False skin beetle",
+    "ja": {
+      "summary": "ケマダラムクゲキスイ。朽木や樹皮下、菌類の生えた枯れ木にすむムクゲキスイ科(Biphyllus)の小型の甲虫で、体は褐色〜暗褐色で、細かい毛(むくげ)におおわれ、まだら模様(斑)をもつ。硬い菌類(サルノコシカケ類など)やその周辺で見られ、菌糸や胞子を食べるとされる。数mmと小さい。",
+      "habitat_hint": "朽木、樹皮下、菌類の生えた枯れ木。",
+      "finding_tips": "朽木や菌類の生えた枯れ木で、細かい毛におおわれまだら模様の褐色の小さな甲虫を探す。細毛に覆われたまだら模様の体が識別点。"
+    },
+    "en": {
+      "summary": "A false skin beetle (Biphyllus flexuosus, Biphyllidae), a small beetle of rotten wood, under bark and fungus-covered dead wood; the brown to dark-brown body is covered in fine hairs and mottled. It occurs on and around hard fungi (bracket fungi etc.), feeding on hyphae and spores, and is only a few millimetres long.",
+      "habitat_hint": "Rotten wood, under bark, fungus-covered dead wood.",
+      "finding_tips": "On rotten wood or bracket fungi look for a small brown finely-hairy mottled beetle; the hairy mottled body is the clue."
+    },
+    "zh": {
+      "summary": "ケマダラムクゲキスイ。伪毛蕈甲科（Biphyllus）小型甲虫，栖朽木、树皮下、生菌之枯木，体褐至暗褐、被细毛（毛茸）而具斑驳纹，见于硬菌（多孔菌类）及周边，据信食菌丝孢子，仅数毫米。",
+      "habitat_hint": "朽木、树皮下、生菌之枯木。",
+      "finding_tips": "于朽木或多孔菌寻被细毛而具斑纹之褐色小甲虫；被细毛之斑纹体为辨识点。"
+    }
+  },
+  "Bittium glareosum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Cerith snail",
+    "ja": {
+      "summary": "ノミカニモリ。潮間帯〜浅海の岩礁や砂礫底、海藻の間にすむごく小型の巻貝(オニノツノガイ科に近いカニモリ類)で、殻は細長い塔形で、格子状の細かい彫刻をもつ。名(蚤)のとおり数mmと非常に小さい。付着藻類やデトリタスを食べる。海藻の根元や礫の間に多数群れることがある。",
+      "habitat_hint": "潮間帯〜浅海の岩礁、砂礫底、海藻の間。",
+      "finding_tips": "海藻の根元や礫の間で、細長い塔形で格子状の彫刻をもつ数mmの微小な巻貝を探す。細い塔形と格子状の彫刻が識別点。"
+    },
+    "en": {
+      "summary": "A cerith snail (Bittium glareosum, Cerithiidae/Bittiidae), a very small snail of intertidal to shallow reef, sand-gravel and among seaweed; the elongate tower-shaped shell has fine lattice sculpture and is only a few millimetres long (the Japanese name means 'flea'). It grazes attached algae and detritus and can cluster in numbers among seaweed bases and rubble.",
+      "habitat_hint": "Intertidal to shallow reef, sand-gravel, among seaweed.",
+      "finding_tips": "Among seaweed bases or rubble look for a few-millimetre elongate tower-shaped snail with lattice sculpture; the slender tower with lattice sculpture is the clue."
+    },
+    "zh": {
+      "summary": "ノミカニモリ。近蟹守螺之极小型螺（Bittiidae），栖潮间带至浅海岩礁、砂砾底、海藻间，壳细长塔形、具格状细雕刻，仅数毫米（蚤），食附着藻与碎屑，常成群于海藻基部与砾间。",
+      "habitat_hint": "潮间带至浅海岩礁、砂砾底、海藻间。",
+      "finding_tips": "于海藻基部或砾间寻细长塔形而具格状雕刻之数毫米微小螺；细塔形与格状雕刻为辨识点。"
+    }
+  },
+  "Biwadrilus bathybates": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aquatic earthworm",
+    "ja": {
+      "summary": "ヤマトヒモミミズ。池沼や河川、水路のゆるやかな泥底にすむ水生のミミズ(貧毛類)で、体は細長い紐(ひも)状で、水底の泥中にすむ。日本固有で、ミミズの仲間だが淡水の泥に適応している。泥中の有機物を食べ、泥をかき混ぜて底質環境に影響する。ホタルの幼虫のえさになることもある。",
+      "habitat_hint": "池沼、河川、水路のゆるやかな泥底。",
+      "finding_tips": "淡水の泥底で、細長い紐状の水生ミミズを探す。細長い紐状の体で淡水の泥中にすむことが手がかり。"
+    },
+    "en": {
+      "summary": "An aquatic earthworm (Biwadrilus bathybates, Biwadrilidae), a freshwater oligochaete of the muddy bottoms of ponds, rivers and channels; the body is a long thread and it lives in bottom mud. Endemic to Japan, it is an earthworm relative adapted to freshwater mud. It eats sediment organic matter and stirs the mud, affecting the bottom environment, and can be prey for firefly larvae.",
+      "habitat_hint": "Muddy bottoms of ponds, rivers and slow channels.",
+      "finding_tips": "In freshwater mud look for a long thread-like aquatic worm; the long thread-like body in freshwater mud is the clue."
+    },
+    "zh": {
+      "summary": "ヤマトヒモミミズ。淡水寡毛类（水生蚯蚓），栖池沼、河川、水渠缓流泥底，体细长如绳、居水底泥中，日本特有、为适应淡水泥之蚯蚓亲缘，食泥中有机物、搅动泥质而影响底质，亦为萤火虫幼虫之饵。",
+      "habitat_hint": "池沼、河川、水渠缓流泥底。",
+      "finding_tips": "于淡水泥底寻细长如绳之水生蚯蚓；细长绳状体居淡水泥中为线索。"
+    }
+  },
+  "Blenniella periophthalmus": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blenny",
+    "ja": {
+      "summary": "ハナカエルウオ。サンゴ礁の礁原や潮間帯の岩の上にすむイソギンポ科(カエルウオ類)の小型の魚で、体はうろこがなく、頭が丸くカエルのような顔つき(蛙魚)をもつ。頭部に房状の皮弁(飾り)をもち、体には暗色の横帯や斑がある。岩の上をはねるように移動し、付着藻類を削り取って食べる。暖海のサンゴ礁で見られる。",
+      "habitat_hint": "暖海のサンゴ礁の礁原、潮間帯の岩の上、タイドプール。",
+      "finding_tips": "サンゴ礁の礁原で、うろこがなく頭が丸くカエルのような顔で頭に皮弁をもつ小魚を探す。カエルのような顔と頭の皮弁が識別点。"
+    },
+    "en": {
+      "summary": "A blenny (Blenniella periophthalmus, Blenniidae), a small fish of reef flats and intertidal rock; the scaleless body has a rounded frog-like face (the Japanese name means 'frog-fish') with tufted cirri on the head, and dark bars and spots on the body. It hops over rock grazing attached algae and is seen on warm-water reefs.",
+      "habitat_hint": "Warm-water reef flats, intertidal rock, tide pools.",
+      "finding_tips": "On reef flats look for a scaleless small fish with a rounded frog-like face and head cirri; the frog-like face with head cirri is the clue."
+    },
+    "zh": {
+      "summary": "ハナカエルウオ。鳚科（蛙鳚类）小型鱼，栖珊瑚礁礁坪与潮间带岩上，体无鳞、头圆如蛙面（蛙鱼），头具丛状皮瓣（饰），体具暗横带与斑，于岩上跳跃移动、刮食附着藻，见于暖海珊瑚礁。",
+      "habitat_hint": "暖海珊瑚礁礁坪、潮间带岩上、潮池。",
+      "finding_tips": "于礁坪寻无鳞、头圆如蛙而头具皮瓣之小鱼；蛙状面与头皮瓣为辨识点。"
+    }
+  },
+  "Blumea conspicua": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blumea",
+    "ja": {
+      "summary": "オオキバナムカシヨモギ。暖地の道端や荒れ地、草地に生えるキク科ツルハグマ属(Blumea)の大型の草本で、全体に毛があり芳香をもつ。茎は太く直立し、大きく育つ(大)。夏〜秋に、黄色い筒状花からなる頭花を多数、円錐状につける(黄花)。葉は大きく縁に鋸歯がある。南西日本や南西諸島に分布する。",
+      "habitat_hint": "暖地の道端、荒れ地、草地、林縁。",
+      "finding_tips": "夏〜秋、暖地の草地で大きく育ち黄色い筒状花の頭花を多数つける毛のあるキク科を探す。大型で黄色い頭花を多数つける姿が識別点。"
+    },
+    "en": {
+      "summary": "A blumea (Blumea conspicua, Asteraceae), a large herb of warm-region roadsides, waste ground and grassland; the whole plant is hairy and aromatic. The stout stem stands erect and grows large, bearing many yellow disc-floret flower heads in a panicle in summer to autumn. The leaves are large and toothed, and it occurs in southwestern Japan and the Ryukyus.",
+      "habitat_hint": "Warm-region roadsides, waste ground, grassland, woodland edges.",
+      "finding_tips": "In summer to autumn in warm grassland look for a large hairy aster bearing many yellow flower heads; the large stature with many yellow heads is the clue."
+    },
+    "zh": {
+      "summary": "オオキバナムカシヨモギ。菊科艾纳香属（Blumea）大型草本，生暖地路旁、荒地、草地，全株具毛而有香气，茎粗直立、长成大株（大），夏秋于圆锥状生众多黄色管状花头花（黄花），叶大缘具锯齿，分布西南日本与西南诸岛。",
+      "habitat_hint": "暖地路旁、荒地、草地、林缘。",
+      "finding_tips": "夏秋于暖地草地寻长成大株、生众多黄色头花之具毛菊科；大型而多黄头花之姿为辨识点。"
+    }
+  },
+  "Blumea sinuata": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Blumea",
+    "ja": {
+      "summary": "サケバコウゾリナ。暖地の道端や荒れ地、草地に生えるキク科ツルハグマ属(Blumea)の草本で、全体に毛があり、葉が羽状に切れ込む(裂け葉、sinuata=波状に切れ込んだ)のが名の由来。コウゾリナ(別属)に似た切れ込む葉をもつことにちなむ。夏〜秋に黄色い筒状花からなる小さな頭花を多数つける。南西日本や南西諸島に分布する。",
+      "habitat_hint": "暖地の道端、荒れ地、草地、耕地周辺。",
+      "finding_tips": "夏〜秋、暖地の草地で羽状に切れ込む葉と黄色い小さな頭花を多数つける毛のあるキク科を探す。羽状に切れ込む葉が識別点。"
+    },
+    "en": {
+      "summary": "A blumea (Blumea sinuata, Asteraceae), a hairy herb of warm-region roadsides, waste ground and grassland; the pinnately lobed leaves (sinuata = with wavy lobes) give the Japanese name, likening the divided leaves to those of a hawkbit (a different genus). In summer to autumn it bears many small yellow disc-floret flower heads. It occurs in southwestern Japan and the Ryukyus.",
+      "habitat_hint": "Warm-region roadsides, waste ground, grassland, around cultivation.",
+      "finding_tips": "In summer to autumn in warm grassland look for a hairy aster with pinnately lobed leaves and many small yellow heads; the lobed leaves are the clue."
+    },
+    "zh": {
+      "summary": "サケバコウゾリナ。菊科艾纳香属（Blumea）草本，生暖地路旁、荒地、草地，全株具毛，叶羽状分裂（裂叶，sinuata 波状裂，名之由来），叶似黄鹌菜（别属）而裂，夏秋生众多黄色管状花小头花，分布西南日本与西南诸岛。",
+      "habitat_hint": "暖地路旁、荒地、草地、耕地周边。",
+      "finding_tips": "夏秋于暖地草地寻叶羽状裂、生众多黄色小头花之具毛菊科；羽状裂叶为辨识点。"
+    }
+  },
+  "Boletinus spectabilis": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rosy larch bolete",
+    "ja": {
+      "summary": "キノボリイグチ。夏〜秋、カラマツ林の地上に発生するイグチ科(ヌメリイグチ類に近い)のきのこで、傘は鮮やかな赤〜紅色で、表面に赤い綿毛状のささくれ(鱗片)をもち美しい(spectabilis=見事な)。管孔(裏の孔)は黄色で大きめ。若い時はつばのような被膜がある。カラマツと共生する菌根菌で、カラマツ林の指標になる。",
+      "habitat_hint": "夏〜秋、カラマツ林の地上、林縁。",
+      "finding_tips": "夏〜秋、カラマツ林の地上で鮮やかな赤い傘に赤い綿毛状の鱗片をもつイグチを探す。鮮やかな赤い傘と黄色い大きめの管孔が識別点。"
+    },
+    "en": {
+      "summary": "The rosy larch bolete (Boletinus spectabilis, Suillaceae) fruiting on the ground in larch woodland in summer to autumn; the cap is vivid red to rosy-red with red cottony scales on the surface, and is strikingly beautiful (spectabilis = showy). The yellow pores are largish, and young fruit bodies have a veil-like ring. Ectomycorrhizal with larch, it indicates larch woodland.",
+      "habitat_hint": "Summer-autumn on the ground in larch woodland, edges.",
+      "finding_tips": "In summer to autumn in larch woods look for a bolete with a vivid red cap bearing red cottony scales; the vivid red scaly cap with largish yellow pores is the clue."
+    },
+    "zh": {
+      "summary": "キノボリイグチ。乳牛肝菌科（近粘盖牛肝菌）真菌，夏秋生落叶松林地上，盖鲜红至玫红、面具红色棉毛状鳞片、甚美（spectabilis 华丽），管孔黄而略大，幼时具环状菌幕，与落叶松共生之菌根菌，为落叶松林之指标。",
+      "habitat_hint": "夏秋落叶松林地上、林缘。",
+      "finding_tips": "夏秋于落叶松林地寻盖鲜红而具红色棉毛状鳞片之牛肝菌；鲜红鳞片盖与略大黄管孔为辨识点。"
+    }
+  },
+  "Boltonia asteroides": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "White doll's daisy",
+    "aliases": {
+      "zh-Hans": "假紫菀"
+    },
+    "ja": {
+      "summary": "アメリカギク。北アメリカ原産のキク科の多年草で、観賞用に栽培され、逸出して野生化することもある。茎は直立してよく分枝し、夏〜秋に、白〜淡紫色の舌状花と黄色い筒状花からなる小さな頭花を多数つける。ノギク(野菊)に似た花を密につけて咲く。葉は細長く、縁はほぼ全縁。湿った土地を好む。",
+      "habitat_hint": "庭園、花壇、逸出地、湿った草地や水辺。",
+      "finding_tips": "夏〜秋、庭や逸出地で白〜淡紫の小さな野菊状の頭花を多数つける直立した草を探す。多数の小さな野菊状の頭花が識別点。"
+    },
+    "en": {
+      "summary": "The white doll's daisy (Boltonia asteroides, Asteraceae), a perennial native to North America grown as an ornamental and sometimes escaping into the wild; the erect, well-branched stems bear many small flower heads of white to pale-purple ray florets and yellow disc florets in summer to autumn, aster-like and densely borne. The leaves are narrow and nearly entire, and it favours moist ground.",
+      "habitat_hint": "Gardens, flower beds, escapes, moist grassland and waterside.",
+      "finding_tips": "In summer to autumn in gardens or escapes look for an erect plant with many small white-to-pale-purple aster-like heads; the many small aster-like heads are the clue."
+    },
+    "zh": {
+      "summary": "アメリカギク。菊科多年草，原产北美，作观赏栽培、亦逸为野生，茎直立多分枝，夏秋生众多白至淡紫舌状花与黄色管状花之小头花、密生如野菊，叶细长近全缘，喜湿地。",
+      "habitat_hint": "庭园、花坛、逸出地、湿润草地与水边。",
+      "finding_tips": "夏秋于庭园或逸出地寻直立而生众多白至淡紫小野菊状头花之草；众多小野菊状头花为辨识点。"
+    }
+  },
+  "Bombyliospora japonica": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Crustose lichen",
+    "ja": {
+      "summary": "オオコゲボシゴケ。樹幹や岩に着生する固着地衣(痂状地衣)の一種で、体は灰白色〜灰緑色の薄い痂状に樹皮や岩に貼りつく。表面に黒っぽく焦げたような子器(apothecia、コゲボシ=焦げ星)が点々と散らばり、この子器が大きめ(大)なのが名の由来。山地の樹皮や岩に群落をつくる。",
+      "habitat_hint": "山地の樹幹、岩上の着生環境。",
+      "finding_tips": "一年中、樹皮や岩で灰白色の痂状の地衣に黒っぽい焦げたような子器が散らばるのを探す。黒く焦げたような大きめの子器が識別点。"
+    },
+    "en": {
+      "summary": "A crustose lichen (Bombyliospora japonica) epiphytic on trunks and rock; the thallus is a thin grey-white to grey-green crust pressed to bark or stone, scattered with blackish scorched-looking fruiting bodies (apothecia; the Japanese name means 'large scorch-star lichen') that are largish. It forms colonies on montane bark and rock.",
+      "habitat_hint": "Montane trunks and rock (epiphytic).",
+      "finding_tips": "Year-round on bark or rock look for a grey-white crustose lichen scattered with blackish scorched-looking fruiting bodies; the largish scorched apothecia are the clue."
+    },
+    "zh": {
+      "summary": "オオコゲボシゴケ。固着地衣（痂状地衣）之一，附生树干岩石，体灰白至灰绿之薄痂状贴生树皮岩面，面散黑色如焦之子器（apothecia，焦星），子器较大（大，名之由来），于山地树皮岩面成群落。",
+      "habitat_hint": "山地树干、岩上附生。",
+      "finding_tips": "全年于树皮岩面寻灰白痂状地衣散黑色如焦子器者；较大之焦黑子器为辨识点。"
+    }
+  },
+  "Bothrioneurum vejdovskyanum": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Aquatic worm",
+    "ja": {
+      "summary": "フクロイトミミズ。池沼や河川、水路の有機物に富む泥底にすむ水生の貧毛類(イトミミズのなかま)で、体は細長い糸状で赤みを帯びる。頭部に袋状の器官(袋)をもつことが名の由来。泥中に体を潜らせ、尾を水中で振って呼吸しながら、泥中の有機物を食べる。有機汚濁のある水域の指標にもなる。",
+      "habitat_hint": "池沼、河川、水路の有機物に富む泥底。",
+      "finding_tips": "泥底で、赤みを帯びた細長い糸状の水生のミミズが群れているのを探す。赤い糸状の体で泥に潜り尾を振る様子が手がかり。"
+    },
+    "en": {
+      "summary": "An aquatic worm (Bothrioneurum vejdovskyanum, Naididae/Tubificinae), a freshwater oligochaete of organic-rich mud in ponds, rivers and channels; the body is a long red-tinged thread. A sac-like organ on the head is the source of the Japanese name. It buries its body in mud and waves its tail in the water to breathe while eating sediment organic matter, and indicates organically-polluted water.",
+      "habitat_hint": "Organic-rich mud of ponds, rivers and channels.",
+      "finding_tips": "On muddy bottoms look for clusters of long red-tinged thread-like aquatic worms; the red threadlike body buried in mud with a waving tail is the clue."
+    },
+    "zh": {
+      "summary": "フクロイトミミズ。淡水寡毛类（丝蚯蚓类），栖池沼、河川、水渠富有机质泥底，体细长如丝、带红，头具袋状器官（袋，名之由来），体潜泥中、尾摆于水呼吸、食泥中有机物，为有机污染水域之指标。",
+      "habitat_hint": "池沼、河川、水渠富有机质泥底。",
+      "finding_tips": "于泥底寻带红细长如丝之水生蚯蚓成群；红丝状体潜泥而摆尾为线索。"
+    }
+  },
+  "Brachionycha nubeculosa": {
+    "sources": [
+      "iNaturalist",
+      "Wikipedia"
+    ],
+    "common_name_en": "Rannoch sprawler",
+    "ja": {
+      "summary": "エゾモクメキリガ。早春に出現するヤガ科(キリガ類)の中〜大型のガで、前翅は灰色〜灰褐色の地に木目(もくめ)のような細かい波状の模様をもち、樹皮に紛れる。名(蝦夷)がつくが北日本だけでなく本州の山地にも分布する。成虫は早春の寒い時期に活動し、幼虫は各種の広葉樹の葉を食べる。夜間に灯火へ飛来する。",
+      "habitat_hint": "山地〜丘陵の落葉広葉樹林、林縁。",
+      "finding_tips": "早春の夜、灯火などで灰色地に木目状の模様をもつ中〜大型のヤガを探す。木目状の細かい波状模様が識別点。"
+    },
+    "en": {
+      "summary": "The Rannoch sprawler (Brachionycha nubeculosa, Noctuidae), a medium to large early-spring moth; the grey to grey-brown forewings have fine wavy wood-grain-like markings that blend with bark. Despite the Japanese name 'Ezo', it ranges in the mountains of Honshu as well as northern Japan. Adults are active in the cold of early spring and larvae feed on the leaves of various broadleaf trees; adults come to lights.",
+      "habitat_hint": "Montane to hill deciduous broadleaf woodland, edges.",
+      "finding_tips": "On early-spring nights at lights look for a medium-large grey moth with wood-grain-like markings; the fine wavy wood-grain pattern is the clue."
+    },
+    "zh": {
+      "summary": "エゾモクメキリガ。夜蛾科（冬夜蛾类）之中至大型蛾，早春出现，前翅灰至灰褐、具如木纹之细波状纹、拟态树皮，虽名（虾夷）而分布本州山地及北日本，成虫于早春寒时活动，幼虫食各种阔叶树叶，夜间趋光。",
+      "habitat_hint": "山地至丘陵落叶阔叶林、林缘。",
+      "finding_tips": "早春夜于灯下寻灰底具木纹状纹之中大型夜蛾；细波状木纹为辨识点。"
+    }
   }
 }
