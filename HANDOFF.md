@@ -24,7 +24,9 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
-**⚠️ 2026-07-18 (Claude/Opus) — STATE REVIEW: two operational items need the user's call (grind itself is healthy).**
+**✅ 2026-08-04 (Claude/Opus) — BOTH operational items from the 2026-07-18 review RESOLVED (user chose "ship" over more grind):** pushed 378 backlog commits to origin/main (backup) + rebuilt `site/` via `export_static` + force-pushed gh-pages (`deploy_pages.sh`). **Live demo is now current** (was last deployed 2026-07-06). See top Recent-sessions entry. The *new-direction* choice (productization / いきものログ / resume np=1) is still open — ask the user.
+
+**⚠️ 2026-07-18 (Claude/Opus) — STATE REVIEW: two operational items need the user's call (grind itself is healthy). [①②RESOLVED 2026-08-04, see above]**
 1. **165 local commits UNPUSHED to origin/main** (oldest 2026-07-08). ALL are profile-sidecar + handoff commits (0 code/ingestion) — verified. `git push origin main` is a **backup**, NOT the withheld action (the withheld one is `deploy_pages.sh` force-push to the public `gh-pages` demo). The sidecar edits don't touch `docs/`, so pushing main changes **nothing user-facing**. Recommend pushing to protect 10 days of work.
 2. **Live demo is stale (docs/ dated 2026-06-29).** The ~2,900 profiles added since then (grind output) are **not visible to users** — by design (deploy classifier-blocked). Republishing needs the user (re-export `docs/` + `export_static` + `deploy_pages.sh`).
 3. **Grind health: GOOD.** merge_duplicate_species dry-run CLEAN (0 groups); np≥10 truly exhausted (8 non-profilable stubs). Remaining profilable backlog: **np5-9=96 spp (~4 batches), np2-4=3,833 spp, np1=3,419 spp** = ~7,350 long-tail species (~300 batches). Diminishing returns: np1 = species in a single park. **Open strategic question for the user: keep grinding the long tail, or pivot to photo-3rd-source / deploy?**
@@ -149,6 +151,12 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 - **Cheap feasibility probes to run first:** (a) iNat photo license distribution (how many survive a commercial filter); (b) 国土数値情報 都市公園 schema check.
 
 ## Recent sessions
+
+### 2026-08-04 (Claude/Opus) — 🚀 SHIP: pushed 378 backlog commits + redeployed live demo (was 4 wks stale)
+- User asked "which direction next"; state review showed **378 unpushed commits** (oldest 2026-07-08, all sidecar/handoff, 0 code) and the **live gh-pages demo last deployed 2026-07-06** — a month of np=2/np=1 grind (sidecar → 15,618) was invisible to users AND unbacked. User chose **落地已有成果** over more grind.
+- **Done, all 3 steps:** (1) `git push origin main` → 378 commits backed up (1cc48c33..9df281fb). (2) `.venv/bin/python -m scripts.export_static` → `site/` rebuilt (5,046 files, 24,690 species / 3,190 parks; verified new profiles present — e.g. Aster scaber シラヤマギク 4-lang in shard). (3) `SKIP_BUILD=1 scripts/deploy_pages.sh` → orphan force-push to gh-pages (f305693a→e6df5866). **Live demo now current.** `git gc` reclaimed deploy objects.
+- **Note:** local `.git` still **194M** (main history carries old `docs/parklife-data.json` blobs) — the permanent git-slim (retire `docs/` from tracking, see P2 Status entry ➡️NEXT) is still an open follow-up, unrelated to this deploy.
+- **➡️ NEXT direction still open** (user deferred choosing a *new* track): productization/spatial backend · いきものログ · or resume np=1 grind (~3,096 clean remaining, diminishing returns). Ask the user.
 
 ### 2026-08-03 (Claude/Opus) — np=1 grind (np1-bo..by, +302), sidecar 15,618 [IN PROGRESS]
 - Grinding the **np=1 long tail** (single-park species). Query = same as np=2 with `HAVING COUNT(DISTINCT ps.park_id)=1` + skip filters (`NOT LIKE '%属'/%科/%亜科/%の一種/%近似%/%?%/%？%`). **np=1 clean remaining now 3,113.** Alphabetical from A; 12 batches done: bo–by covering A through Assara (bv Althaea–Antennatus, bw Anisostira–Arachniodes, bx Amichrotus–Arisaema, by Anomoia–Assara). **NEXT frontier: continue from `Aster`/`Asterina`/`Astomella`... onward (rest of A → As/At/Au...).** Heavy repeat taxa → type-helpers built inline each batch (geometers, ウワバ Plusiinae, ハマキ tortrix, マダラメイガ, ナガタマムシ Agrilus, ヒラタゴミムシ/マルガタ Amara, マルハキバガ, ハネカクシ Aleochara/Anotylus, ミドリイシ coral, ザルガイ cockle, snails, サビキコリ/コメツキ, ヌカボ/Agrostis, ミミズ Amynthas, サルボウ Anadara, ノメイガ, ヒメハナバチ Andrena, シシウド Angelica, ベッコウ Anoplius, スジコガネ Anomala, ゴケ Anzia lichen, カエルアンコウ frogfish, ヨトウ Apamea, ボヤ Aplidium, アオカスミカメ Apolygus, カナワラビ Arachniodes).
