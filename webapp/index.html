@@ -94,6 +94,31 @@
   .mbody .sec b { display: block; font-size: 12px; color: #3a5a45; margin-bottom: 2px; }
   .pill { display: inline-block; background: #eef5f0; color: #2a6b3b; border-radius: 10px; font-size: 11px;
           padding: 2px 8px; margin: 0 4px 4px 0; }
+  /* credits */
+  .credits-btn { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b; font-size: 14px; line-height: 1;
+                 width: 26px; height: 26px; border-radius: 50%; cursor: pointer; flex: none; }
+  .credits-btn:hover { background: #eef5f0; }
+  #credits { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
+             align-items: center; justify-content: center; padding: 16px; z-index: 9999; }
+  #credits.on { display: flex; }
+  .cbox { background: #fff; border-radius: 12px; width: min(640px, 100%); max-height: 88vh; overflow-y: auto;
+          padding: 20px 22px 24px; position: relative; }
+  .cbox .close { position: absolute; top: 8px; right: 12px; font-size: 22px; cursor: pointer; color: #6a7b70;
+                 background: none; border: none; }
+  .cbox h2 { margin: 0 6px 6px 0; font-size: 19px; color: #2a6b3b; }
+  .cbox .intro { font-size: 13px; color: #4a5b50; line-height: 1.6; margin: 0 0 6px; }
+  .cbox h3 { font-size: 13px; color: #3a5a45; margin: 16px 0 6px; border-bottom: 1px dashed #d6e2da; padding-bottom: 3px; }
+  .cbox ul { list-style: none; margin: 0; padding: 0; }
+  .cbox li { font-size: 13px; line-height: 1.5; padding: 3px 0; }
+  .cbox li a { color: #2a6b3b; font-weight: 600; }
+  .cbox li .prov { color: #6a7b70; }
+  .cbox li .lic { display: inline-block; font-size: 11px; color: #5a6b60; background: #eef5f0;
+                  border-radius: 8px; padding: 1px 7px; margin-left: 4px; white-space: nowrap; }
+  .cbox .note { font-size: 12px; color: #6a7b70; line-height: 1.6; margin: 8px 0 0; }
+  .cbox .fb { margin: 14px 0 0; font-size: 13px; }
+  .cbox .fb a { color: #2a6b3b; font-weight: 600; }
+  .cbox .disc { font-size: 11.5px; color: #8a9b90; line-height: 1.6; margin-top: 14px;
+                border-top: 1px solid #eef2ef; padding-top: 12px; }
   @media (max-width: 760px) {
     main { flex-direction: column; }
     #map { flex: none; height: 42vh; }
@@ -109,6 +134,7 @@
   <span class="spacer"></span>
   <input id="search" type="search" autocomplete="off">
   <div class="lang" id="lang"></div>
+  <button id="creditsBtn" class="credits-btn" onclick="App.openCredits()" aria-label="Credits">ⓘ</button>
 </header>
 <main>
   <div id="map">
@@ -120,6 +146,10 @@
   <button class="close" onclick="App.closeModal()">×</button>
   <div class="mphoto" id="mphoto"></div>
   <div class="mbody" id="mbody"></div>
+</div></div>
+<div id="credits"><div class="cbox">
+  <button class="close" onclick="App.closeCredits()">×</button>
+  <div id="cbody"></div>
 </div></div>
 <script src="app.js"></script>
 <script>

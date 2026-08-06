@@ -118,6 +118,69 @@ const UI = {
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
+// ---- credits / data-source attribution --------------------------------------
+const FEEDBACK_URL = 'https://github.com/paranoid2droid/parklife/issues';
+// Source names/URLs are language-neutral; only headings/prose are translated.
+// Each item: {name?, url?, lic?, prov}. Without `name`, the translated
+// provides-label is used as the primary text (e.g. the park official sites row).
+const SOURCE_GROUPS = [
+  { sec:'secOcc', items:[
+    { name:'iNaturalist', url:'https://www.inaturalist.org', lic:'CC0 · CC BY · CC BY-NC', prov:'occ' },
+    { name:'GBIF', url:'https://www.gbif.org', lic:'CC BY · CC0', prov:'occ' },
+    { name:'eBird · Cornell Lab of Ornithology', url:'https://ebird.org', lic:'CC BY-NC', prov:'occ' },
+  ]},
+  { sec:'secPhoto', items:[
+    { name:'iNaturalist', url:'https://www.inaturalist.org', lic:'CC0 · CC BY · CC BY-NC · CC BY-SA', prov:'photo' },
+    { name:'Wikimedia Commons', url:'https://commons.wikimedia.org', lic:'CC · Public Domain', prov:'photo' },
+    { name:'GBIF', url:'https://www.gbif.org', lic:'CC', prov:'photo' },
+  ]},
+  { sec:'secName', items:[
+    { name:'Wikipedia (日本語)', url:'https://ja.wikipedia.org', lic:'CC BY-SA', prov:'name' },
+    { name:'Catalogue of Life', url:'https://www.catalogueoflife.org', lic:'CC BY', prov:'name' },
+    { name:'GBIF Backbone Taxonomy', url:'https://www.gbif.org', lic:'CC BY', prov:'name' },
+  ]},
+  { sec:'secPark', items:[
+    { name:'国土数値情報 都市公園データ · 国土交通省 (MLIT)', url:'https://nlftp.mlit.go.jp/ksj/', lic:'政府標準利用規約', prov:'park' },
+    { prov:'web' },
+    { name:'OpenStreetMap', url:'https://www.openstreetmap.org/copyright', lic:'ODbL', prov:'map' },
+    { name:'Nominatim · OpenStreetMap', url:'https://nominatim.org', lic:'ODbL', prov:'geo' },
+  ]},
+];
+const CREDITS = {
+  ja: { title:'データ出典・クレジット', close:'閉じる',
+    intro:'「パークライフ」は公開されているオープンデータを組み合わせた非営利プロジェクトです。主なデータ出典とライセンスは次のとおりです。',
+    secOcc:'生きもの観察データ', secPhoto:'写真', secName:'名前・分類', secPark:'公園・地図データ',
+    photoNote:'各写真には撮影者とライセンスを表示しています。写真の著作権は各撮影者に帰属し、記載のクリエイティブ・コモンズ条件のもとで利用しています。',
+    feedback:'誤りの報告・ご意見', feedbackLink:'GitHub Issues で報告',
+    disclaimer:'本サイトは非営利の個人プロジェクトであり、掲載する公園やデータ提供元とは関係ありません。データは現状有姿（無保証）で提供されます。',
+    provides:{ occ:'観察記録', photo:'写真', name:'和名・学名・分類', park:'公園一覧・面積・区域',
+      map:'地図・駐車場', geo:'座標（ジオコーディング）', web:'各公園の公式サイト（東京都・神奈川県・千葉県・埼玉県 ほか）' } },
+  en: { title:'Data sources & credits', close:'Close',
+    intro:'Parklife is a non-commercial project built from publicly available open data. The main sources and licenses are listed below.',
+    secOcc:'Species occurrence data', secPhoto:'Photos', secName:'Names & taxonomy', secPark:'Park & map data',
+    photoNote:'Each photo shows its photographer and license. Photos remain © their photographers and are used under the stated Creative Commons terms.',
+    feedback:'Report an error / feedback', feedbackLink:'Report on GitHub Issues',
+    disclaimer:'This is a non-commercial personal project and is not affiliated with the parks or data providers shown. Data is provided “as is”, without warranty.',
+    provides:{ occ:'occurrence records', photo:'photos', name:'names & taxonomy', park:'park list, area & boundary',
+      map:'map & parking', geo:'coordinates (geocoding)', web:'park official sites (Tokyo, Kanagawa, Chiba, Saitama, etc.)' } },
+  zh: { title:'数据来源与致谢', close:'关闭',
+    intro:'「Parklife」是基于公开开放数据构建的非营利项目。主要数据来源与许可如下。',
+    secOcc:'生物观察数据', secPhoto:'照片', secName:'名称与分类', secPark:'公园与地图数据',
+    photoNote:'每张照片都会显示拍摄者与许可协议。照片版权归各拍摄者所有，依据所标注的知识共享（CC）条款使用。',
+    feedback:'报告错误 / 反馈', feedbackLink:'在 GitHub Issues 反馈',
+    disclaimer:'本站为非营利个人项目，与所列公园及数据提供方无关。数据按“现状”提供，不作任何担保。',
+    provides:{ occ:'观察记录', photo:'照片', name:'名称与分类', park:'公园列表・面积・范围',
+      map:'地图与停车场', geo:'坐标（地理编码）', web:'各公园官方网站（东京都・神奈川县・千叶县・埼玉县 等）' } },
+  zhT: { title:'資料來源與致謝', close:'關閉',
+    intro:'「Parklife」是基於公開開放資料建構的非營利專案。主要資料來源與授權如下。',
+    secOcc:'生物觀察資料', secPhoto:'照片', secName:'名稱與分類', secPark:'公園與地圖資料',
+    photoNote:'每張照片都會顯示拍攝者與授權條款。照片版權歸各拍攝者所有，依所標註的創用 CC 條款使用。',
+    feedback:'回報錯誤 / 意見', feedbackLink:'於 GitHub Issues 回報',
+    disclaimer:'本站為非營利個人專案，與所列公園及資料提供方無關。資料按「現狀」提供，不作任何擔保。',
+    provides:{ occ:'觀察記錄', photo:'照片', name:'名稱與分類', park:'公園列表・面積・範圍',
+      map:'地圖與停車場', geo:'座標（地理編碼）', web:'各公園官方網站（東京都・神奈川縣・千葉縣・埼玉縣 等）' } },
+};
+
 // ---- state ------------------------------------------------------------------
 let lang = localStorage.getItem('pl_lang') || (navigator.language || 'ja').slice(0,2);
 if (!LANGS.includes(lang)) lang = lang.startsWith('zh') ? 'zh' : (lang === 'ja' ? 'ja' : 'en');
@@ -458,6 +521,31 @@ function onSearch(e) {
   }, 280);
 }
 
+// ---- credits ----------------------------------------------------------------
+function renderCredits() {
+  const c = CREDITS[lang];
+  let h = `<h2>${esc(c.title)}</h2><p class="intro">${esc(c.intro)}</p>`;
+  for (const g of SOURCE_GROUPS) {
+    h += `<h3>${esc(c[g.sec])}</h3><ul>`;
+    for (const it of g.items) {
+      const label = it.name || c.provides[it.prov];
+      const primary = it.url
+        ? `<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(label)}</a>` : esc(label);
+      const prov = it.name ? ` <span class="prov">— ${esc(c.provides[it.prov])}</span>` : '';
+      const lic = it.lic ? `<span class="lic">${esc(it.lic)}</span>` : '';
+      h += `<li>${primary}${prov}${lic}</li>`;
+    }
+    h += '</ul>';
+    if (g.sec === 'secPhoto') h += `<p class="note">${esc(c.photoNote)}</p>`;
+  }
+  h += `<p class="fb">${esc(c.feedback)}: `
+     + `<a href="${FEEDBACK_URL}" target="_blank" rel="noopener">${esc(c.feedbackLink)}</a></p>`;
+  h += `<p class="disc">${esc(c.disclaimer)}</p>`;
+  $('cbody').innerHTML = h;
+}
+function openCredits() { renderCredits(); $('credits').classList.add('on'); }
+function closeCredits() { $('credits').classList.remove('on'); }
+
 // ---- chrome -----------------------------------------------------------------
 function setLang(l) {
   lang = l; localStorage.setItem('pl_lang', l);
@@ -466,6 +554,7 @@ function setLang(l) {
   if (map) addParkingControl();  // its label is language-dependent
   { const lb = $('locateBtn'); if (lb) { lb.title = UI[lang].locate; lb.setAttribute('aria-label', UI[lang].locate); } }
   if (modalSpecies) renderModal();
+  if ($('credits').classList.contains('on')) renderCredits();
   if (curPark) renderPark(); else $('ph').innerHTML = UI[lang].placeholder;
   if (speciesFilter) {  // refresh the reverse-view banner in the new language
     $('mapBanner').innerHTML =
@@ -478,10 +567,11 @@ function renderChrome() {
   $('search').placeholder = UI[lang].srch;
   $('lang').innerHTML = LANGS.map(l =>
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
+  { const cb = $('creditsBtn'); if (cb) { cb.title = CREDITS[lang].title; cb.setAttribute('aria-label', CREDITS[lang].title); } }
 }
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
-              viewSpeciesOnMap, clearSpeciesFilter };
+              viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits };
 window.App = App;
 
 (function main() {
@@ -489,8 +579,9 @@ window.App = App;
   $('ph').innerHTML = UI[lang].placeholder;
   $('search').addEventListener('input', onSearch);
   $('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
+  $('credits').addEventListener('click', e => { if (e.target.id === 'credits') closeCredits(); });
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') closeModal();
+    if (e.key === 'Escape') { closeModal(); closeCredits(); }
     if (modalSpecies && e.key === 'ArrowLeft') photo(-1);
     if (modalSpecies && e.key === 'ArrowRight') photo(1);
   });
