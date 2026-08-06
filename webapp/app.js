@@ -183,7 +183,8 @@ const ABOUT = {
       '種をクリックすると写真・解説・見られる季節・分布する公園が見られます',
       '右上のボタンで 日本語・English・简・繁 を切り替えられます'],
     stat:(p,s)=>`${p} 公園 · ${s} 種を収録`, upd:(d)=>`最終更新: ${d}`,
-    creditsLink:'データ出典・クレジット →', start:'はじめる' },
+    creditsLink:'データ出典・クレジット →', start:'はじめる',
+    install:'📲 アプリをインストール', installHint:'共有メニューから「ホーム画面に追加」でアプリとして使えます' },
   en: { sub:"A map of life in Japan's parks",
     lead:'Explore the plants, animals and fungi recorded in parks across Japan — by park and by season. It combines observation data from iNaturalist, GBIF and eBird with each park’s official information.',
     howTitle:'How to use',
@@ -192,7 +193,8 @@ const ABOUT = {
       'Click a species for photos, a description, its season, and the parks where it occurs',
       'Switch between 日本語 / English / 简 / 繁 with the top-right buttons'],
     stat:(p,s)=>`${p} parks · ${s} species`, upd:(d)=>`Last updated: ${d}`,
-    creditsLink:'Data sources & credits →', start:'Get started' },
+    creditsLink:'Data sources & credits →', start:'Get started',
+    install:'📲 Install app', installHint:'Tap Share → “Add to Home Screen” to install' },
   zh: { sub:'日本公园的生物地图',
     lead:'探索日本各地公园记录到的植物、动物与菌类——按公园、按季节查询。整合了 iNaturalist、GBIF、eBird 的观察数据与各公园的官方信息。',
     howTitle:'使用方法',
@@ -201,7 +203,8 @@ const ABOUT = {
       '点击物种可查看照片、简介、出现季节及分布的公园',
       '右上角按钮可切换 日本語 / English / 简 / 繁'],
     stat:(p,s)=>`收录 ${p} 个公园 · ${s} 种`, upd:(d)=>`最后更新：${d}`,
-    creditsLink:'数据来源与致谢 →', start:'开始使用' },
+    creditsLink:'数据来源与致谢 →', start:'开始使用',
+    install:'📲 安装应用', installHint:'点击分享 →「添加到主屏幕」即可作为应用使用' },
   zhT: { sub:'日本公園的生物地圖',
     lead:'探索日本各地公園記錄到的植物、動物與菌類——按公園、按季節查詢。整合了 iNaturalist、GBIF、eBird 的觀察資料與各公園的官方資訊。',
     howTitle:'使用方法',
@@ -210,7 +213,8 @@ const ABOUT = {
       '點擊物種可查看照片、簡介、出現季節及分布的公園',
       '右上角按鈕可切換 日本語 / English / 简 / 繁'],
     stat:(p,s)=>`收錄 ${p} 個公園 · ${s} 種`, upd:(d)=>`最後更新：${d}`,
-    creditsLink:'資料來源與致謝 →', start:'開始使用' },
+    creditsLink:'資料來源與致謝 →', start:'開始使用',
+    install:'📲 安裝應用', installHint:'點擊分享 →「加入主畫面」即可作為應用使用' },
 };
 const CREDITS = {
   ja: { title:'データ出典・クレジット', close:'閉じる',
@@ -265,6 +269,7 @@ let speciesFilter = null; // {ids:Set<parkId>, name} when showing one species' p
 let userLayer = null;     // Leaflet layer for the user's location dot + accuracy circle
 let locateControl = null; // the "my location" map button
 let locating = false;     // guard against overlapping geolocation requests
+let deferredPrompt = null; // captured beforeinstallprompt event (Android/Chrome PWA install)
 
 const $ = (id) => document.getElementById(id);
 const esc = (s) => (s == null ? '' : String(s)).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -718,7 +723,23 @@ function renderAbout() {
     + statLine
     + `<h3>${esc(a.howTitle)}</h3><ol>${a.how.map(s => `<li>${esc(s)}</li>`).join('')}</ol>`
     + `<p class="credits-link"><a onclick="App.closeAbout();App.openCredits()">${esc(a.creditsLink)}</a></p>`
+    + installMarkup(a)
     + `<button class="start-btn" onclick="App.closeAbout()">${esc(a.start)}</button>`;
+}
+const isStandalone = () =>
+  matchMedia('(display-mode: standalone)').matches || navigator.standalone === true;
+function installMarkup(a) {
+  if (isStandalone()) return '';                       // already installed
+  if (deferredPrompt)                                  // Android/Chrome: real prompt
+    return `<p class="fb"><button class="near-btn" onclick="App.installApp()">${esc(a.install)}</button></p>`;
+  if (/iphone|ipad|ipod/i.test(navigator.userAgent))   // iOS Safari: manual A2HS hint
+    return `<p class="note">${esc(a.installHint)}</p>`;
+  return '';
+}
+function installApp() {
+  if (!deferredPrompt) return;
+  deferredPrompt.prompt();
+  deferredPrompt.userChoice.finally(() => { deferredPrompt = null; renderAbout(); });
 }
 function openAbout() {
   renderAbout();
@@ -785,7 +806,7 @@ function renderChrome() {
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
               viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout,
-              discoverNearby, discoverSeason, seasonMore, toggleSeasonGroup, toggleSeasonAll };
+              discoverNearby, discoverSeason, seasonMore, toggleSeasonGroup, toggleSeasonAll, installApp };
 window.App = App;
 
 (function main() {
@@ -800,6 +821,11 @@ window.App = App;
     if (modalSpecies && e.key === 'ArrowLeft') photo(-1);
     if (modalSpecies && e.key === 'ArrowRight') photo(1);
   });
+  window.addEventListener('beforeinstallprompt', (e) => {  // stash for a custom install button
+    e.preventDefault(); deferredPrompt = e;
+    if ($('about').classList.contains('on')) renderAbout();
+  });
+  window.addEventListener('appinstalled', () => { deferredPrompt = null; });
   window.addEventListener('hashchange', applyHash);  // back/forward + manual edits (pushState doesn't fire this)
   initMap();
   loadParks()

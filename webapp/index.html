@@ -9,6 +9,9 @@
 <link rel="manifest" href="manifest.webmanifest">
 <meta name="theme-color" content="#2a6b3b">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Parklife">
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
       integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
@@ -22,8 +25,10 @@
   html, body { margin: 0; height: 100%; }
   body { font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans CJK JP", sans-serif;
          color: #20342a; background: #fff; display: flex; flex-direction: column; height: 100vh; }
-  header { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-bottom: 1px solid #e3ece5;
-           flex: none; flex-wrap: wrap; }
+  header { display: flex; align-items: center; gap: 10px; border-bottom: 1px solid #e3ece5;
+           flex: none; flex-wrap: wrap;
+           padding: calc(8px + env(safe-area-inset-top)) calc(12px + env(safe-area-inset-right))
+                    8px calc(12px + env(safe-area-inset-left)); }
   header h1 { font-size: 16px; margin: 0; font-weight: 700; color: #2a6b3b; white-space: nowrap; cursor: pointer; }
   header h1:hover { color: #1e5230; }
   header .sub { font-size: 11px; color: #7a8b80; }
@@ -41,7 +46,8 @@
                align-items: center; gap: 10px; max-width: 92%; }
   #mapBanner button { border: 1px solid #c9d8cc; background: #f3faf5; color: #2a6b3b; font-size: 12px;
                       padding: 3px 9px; border-radius: 6px; cursor: pointer; white-space: nowrap; }
-  #panel { flex: 4; max-width: 560px; overflow-y: auto; border-left: 1px solid #e3ece5; padding: 12px 14px; }
+  #panel { flex: 4; max-width: 560px; overflow-y: auto; border-left: 1px solid #e3ece5;
+           padding: 12px 14px calc(16px + env(safe-area-inset-bottom)); }
   .park-name { font-size: 18px; font-weight: 700; margin: 0 0 2px; }
   .park-meta { font-size: 12px; color: #6a7b70; margin-bottom: 8px; }
   .park-meta a { color: #2a6b3b; }
@@ -162,8 +168,16 @@
     main { flex-direction: column; }
     #map { flex: none; height: 42vh; }
     #panel { max-width: none; border-left: none; border-top: 1px solid #e3ece5; }
-    #search { width: 130px; }
+    #search { width: 130px; flex: 1 1 120px; }
     header .sub { display: none; }   /* free header room for the labelled buttons */
+    /* comfortable touch targets on phones (≈40px) */
+    .lang button, .hbtn, .credits-btn { height: 34px; padding: 0 11px; font-size: 13px; }
+    .lang button { min-width: 38px; }
+    .gcb { padding: 7px 12px; }
+    .card { border-radius: 8px; }
+    .more-btn, .near-btn { padding: 10px 16px; }
+    #modal { padding: 0; align-items: flex-end; }   /* bottom sheet feel on phones */
+    .mp { width: 100%; max-height: 92vh; border-radius: 14px 14px 0 0; }
   }
 </style>
 </head>

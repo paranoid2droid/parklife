@@ -10,7 +10,9 @@
  * All shell paths are RELATIVE so the SW works whether the site is served from
  * the origin root or a subpath (GitHub Pages project sites live at /<repo>/).
  */
-const VERSION = 'parklife-v5';
+// Bump VERSION on every shell change (index.html / app.js / manifest / icons) so
+// returning PWA users' cache-first shell is replaced instead of served stale.
+const VERSION = 'parklife-v6';
 const SHELL = ['./', './index.html', './app.js', './manifest.webmanifest',
                './icon.svg', './icon-192.png', './icon-512.png'];
 
