@@ -420,7 +420,7 @@ function renderEmpty() {
 function discoverNearby() {
   if (locating) return;
   const U = UI[lang];
-  inSeasonView = false; curPark = null; speciesFilter = null;
+  inSeasonView = false; curPark = null; speciesFilter = null; setHash('', false);
   $('panel').innerHTML = `<div class="placeholder">${esc(U.nearBusy)}</div>`;
   locating = true; setLocateState('busy');
   geolocate(
@@ -455,7 +455,7 @@ const SEASON_CAP = 60;
 let seasonMonth = 0, seasonRanked = [], seasonShown = SEASON_CAP, inSeasonView = false;
 async function discoverSeason(month) {
   seasonMonth = month || (new Date().getMonth() + 1);  // auto-load the current month
-  inSeasonView = true; curPark = null; speciesFilter = null;
+  inSeasonView = true; curPark = null; speciesFilter = null; setHash('', false);
   $('panel').innerHTML = '<div class="placeholder">…</div>';
   const [rows, map] = await Promise.all([dataSeason(seasonMonth), searchMap()]);
   seasonRanked = rows.map(([id]) => map.get(id)).filter(Boolean);  // rank order preserved
@@ -744,6 +744,8 @@ function renderChrome() {
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
   { const cb = $('creditsBtn'); if (cb) { cb.title = CREDITS[lang].title; cb.setAttribute('aria-label', CREDITS[lang].title); } }
   { const br = $('brand'); if (br) br.title = ABOUT[lang].sub; }
+  { const nb = $('nearBtn'); if (nb) { nb.title = UI[lang].nearMe; nb.setAttribute('aria-label', UI[lang].nearMe); } }
+  { const sb = $('seasonBtn'); if (sb) { sb.title = UI[lang].seasonNow; sb.setAttribute('aria-label', UI[lang].seasonNow); } }
 }
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
