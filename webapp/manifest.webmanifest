@@ -1,7 +1,7 @@
 {
-  "name": "パークライフ — 公園の生きもの地図",
-  "short_name": "パークライフ",
-  "description": "A map of the flora and fauna observed in Japanese parks.",
+  "name": "Parklife — 公園の生きもの地図",
+  "short_name": "Parklife",
+  "description": "A map of the plants, animals and fungi observed in parks across Japan.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

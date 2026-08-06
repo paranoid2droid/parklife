@@ -92,6 +92,10 @@ def main() -> int:
     with sync_playwright() as p:
         browser = p.chromium.launch(channel="chrome", headless=True)
         page = browser.new_page(viewport={"width": 1200, "height": 820})
+        # Skip the first-visit About greeting so its overlay doesn't intercept
+        # clicks — this suite tests the steady-state map/panel/modal features
+        # (the greeting itself is covered separately by about_e2e).
+        page.add_init_script("try { localStorage.setItem('pl_seen_about','1'); } catch(e) {}")
         page.on("console", lambda m: errors.append(f"{m.type}: {m.text}")
                 if m.type == "error" else None)
         page.on("pageerror", lambda e: errors.append(f"pageerror: {e}"))

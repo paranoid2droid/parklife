@@ -25,6 +25,7 @@ function getJSON(path) {
 }
 const bucketOf = (id) => ((id % SPECIES_BUCKETS) + SPECIES_BUCKETS) % SPECIES_BUCKETS;
 const dataParks = () => getJSON(DATA + '/parks.json');
+const dataMeta = () => getJSON(DATA + '/meta.json');
 const dataPark = (id) => getJSON(DATA + '/parks/' + id + '.json');
 async function dataSpecies(id) {
   const b = await getJSON(DATA + '/species/' + bucketOf(id) + '.json');
@@ -146,6 +147,44 @@ const SOURCE_GROUPS = [
     { name:'Nominatim · OpenStreetMap', url:'https://nominatim.org', lic:'ODbL', prov:'geo' },
   ]},
 ];
+const ABOUT = {
+  ja: { sub:'公園の生きもの地図',
+    lead:'日本全国の公園で記録された植物・動物・菌類を、公園ごと・季節ごとに調べられる地図です。iNaturalist・GBIF・eBird などの観察データと、各公園の公式情報を統合しています。',
+    howTitle:'使い方',
+    how:['地図の公園マーカーをクリックすると、その公園の生きもの一覧が開きます',
+      '上の検索ボックスで種名・公園名を検索できます',
+      '種をクリックすると写真・解説・見られる季節・分布する公園が見られます',
+      '右上のボタンで 日本語・English・简・繁 を切り替えられます'],
+    stat:(p,s)=>`${p} 公園 · ${s} 種を収録`, upd:(d)=>`最終更新: ${d}`,
+    creditsLink:'データ出典・クレジット →', start:'はじめる' },
+  en: { sub:"A map of life in Japan's parks",
+    lead:'Explore the plants, animals and fungi recorded in parks across Japan — by park and by season. It combines observation data from iNaturalist, GBIF and eBird with each park’s official information.',
+    howTitle:'How to use',
+    how:['Click a park marker on the map to open that park’s species list',
+      'Search a species or park name in the box above',
+      'Click a species for photos, a description, its season, and the parks where it occurs',
+      'Switch between 日本語 / English / 简 / 繁 with the top-right buttons'],
+    stat:(p,s)=>`${p} parks · ${s} species`, upd:(d)=>`Last updated: ${d}`,
+    creditsLink:'Data sources & credits →', start:'Get started' },
+  zh: { sub:'日本公园的生物地图',
+    lead:'探索日本各地公园记录到的植物、动物与菌类——按公园、按季节查询。整合了 iNaturalist、GBIF、eBird 的观察数据与各公园的官方信息。',
+    howTitle:'使用方法',
+    how:['点击地图上的公园标记，查看该公园的物种列表',
+      '在上方搜索框搜索物种名或公园名',
+      '点击物种可查看照片、简介、出现季节及分布的公园',
+      '右上角按钮可切换 日本語 / English / 简 / 繁'],
+    stat:(p,s)=>`收录 ${p} 个公园 · ${s} 种`, upd:(d)=>`最后更新：${d}`,
+    creditsLink:'数据来源与致谢 →', start:'开始使用' },
+  zhT: { sub:'日本公園的生物地圖',
+    lead:'探索日本各地公園記錄到的植物、動物與菌類——按公園、按季節查詢。整合了 iNaturalist、GBIF、eBird 的觀察資料與各公園的官方資訊。',
+    howTitle:'使用方法',
+    how:['點擊地圖上的公園標記，查看該公園的物種列表',
+      '在上方搜尋框搜尋物種名或公園名',
+      '點擊物種可查看照片、簡介、出現季節及分布的公園',
+      '右上角按鈕可切換 日本語 / English / 简 / 繁'],
+    stat:(p,s)=>`收錄 ${p} 個公園 · ${s} 種`, upd:(d)=>`最後更新：${d}`,
+    creditsLink:'資料來源與致謝 →', start:'開始使用' },
+};
 const CREDITS = {
   ja: { title:'データ出典・クレジット', close:'閉じる',
     intro:'「パークライフ」は公開されているオープンデータを組み合わせた非営利プロジェクトです。主なデータ出典とライセンスは次のとおりです。',
@@ -521,6 +560,36 @@ function onSearch(e) {
   }, 280);
 }
 
+// ---- about / landing --------------------------------------------------------
+let _meta = null;  // {parks, species, generated} cached after first About open
+function renderAbout() {
+  const a = ABOUT[lang];
+  const nf = (n) => n == null ? '—' : n.toLocaleString(lang === 'ja' ? 'ja-JP' : 'en-US');
+  let statLine = '';
+  if (_meta) {
+    const d = _meta.generated
+      ? new Date(_meta.generated * 1000).toISOString().slice(0, 10) : null;
+    statLine = `<div class="stat">${esc(a.stat(nf(_meta.parks), nf(_meta.species)))}`
+      + (d ? ` <span class="upd">· ${esc(a.upd(d))}</span>` : '') + `</div>`;
+  }
+  $('abody').innerHTML =
+    `<h2>🌿 Parklife</h2><p class="sub">${esc(a.sub)}</p>`
+    + `<p class="lead">${esc(a.lead)}</p>`
+    + statLine
+    + `<h3>${esc(a.howTitle)}</h3><ol>${a.how.map(s => `<li>${esc(s)}</li>`).join('')}</ol>`
+    + `<p class="credits-link"><a onclick="App.closeAbout();App.openCredits()">${esc(a.creditsLink)}</a></p>`
+    + `<button class="start-btn" onclick="App.closeAbout()">${esc(a.start)}</button>`;
+}
+function openAbout() {
+  renderAbout();
+  $('about').classList.add('on');
+  if (!_meta) dataMeta().then(m => { _meta = m; if ($('about').classList.contains('on')) renderAbout(); }).catch(() => {});
+}
+function closeAbout() {
+  $('about').classList.remove('on');
+  try { localStorage.setItem('pl_seen_about', '1'); } catch {}
+}
+
 // ---- credits ----------------------------------------------------------------
 function renderCredits() {
   const c = CREDITS[lang];
@@ -554,6 +623,7 @@ function setLang(l) {
   if (map) addParkingControl();  // its label is language-dependent
   { const lb = $('locateBtn'); if (lb) { lb.title = UI[lang].locate; lb.setAttribute('aria-label', UI[lang].locate); } }
   if (modalSpecies) renderModal();
+  if ($('about').classList.contains('on')) renderAbout();
   if ($('credits').classList.contains('on')) renderCredits();
   if (curPark) renderPark(); else $('ph').innerHTML = UI[lang].placeholder;
   if (speciesFilter) {  // refresh the reverse-view banner in the new language
@@ -568,10 +638,11 @@ function renderChrome() {
   $('lang').innerHTML = LANGS.map(l =>
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
   { const cb = $('creditsBtn'); if (cb) { cb.title = CREDITS[lang].title; cb.setAttribute('aria-label', CREDITS[lang].title); } }
+  { const br = $('brand'); if (br) br.title = ABOUT[lang].sub; }
 }
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
-              viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits };
+              viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout };
 window.App = App;
 
 (function main() {
@@ -580,14 +651,22 @@ window.App = App;
   $('search').addEventListener('input', onSearch);
   $('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
   $('credits').addEventListener('click', e => { if (e.target.id === 'credits') closeCredits(); });
+  $('about').addEventListener('click', e => { if (e.target.id === 'about') closeAbout(); });
   document.addEventListener('keydown', e => {
-    if (e.key === 'Escape') { closeModal(); closeCredits(); }
+    if (e.key === 'Escape') { closeModal(); closeCredits(); closeAbout(); }
     if (modalSpecies && e.key === 'ArrowLeft') photo(-1);
     if (modalSpecies && e.key === 'ArrowRight') photo(1);
   });
   window.addEventListener('hashchange', applyHash);  // back/forward + manual edits (pushState doesn't fire this)
   initMap();
   loadParks()
-    .then(() => { applyHash(); if (!location.hash) autoLocate(); })  // shared link, else auto-locate
+    .then(() => {
+      applyHash();
+      if (!location.hash) {  // no shared link: auto-locate, and greet first-time visitors
+        autoLocate();
+        let seen; try { seen = localStorage.getItem('pl_seen_about'); } catch {}
+        if (!seen) openAbout();
+      }
+    })
     .catch(err => { $('ph').innerHTML = 'load error: ' + esc(err.message); });
 })();

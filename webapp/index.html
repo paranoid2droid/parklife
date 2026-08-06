@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>パークライフ — 公園の生きもの地図</title>
+<title>Parklife — 公園の生きもの地図</title>
 <link rel="icon" href="icon.svg">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="manifest" href="manifest.webmanifest">
@@ -24,7 +24,8 @@
          color: #20342a; background: #fff; display: flex; flex-direction: column; height: 100vh; }
   header { display: flex; align-items: center; gap: 10px; padding: 8px 12px; border-bottom: 1px solid #e3ece5;
            flex: none; flex-wrap: wrap; }
-  header h1 { font-size: 16px; margin: 0; font-weight: 700; color: #2a6b3b; white-space: nowrap; }
+  header h1 { font-size: 16px; margin: 0; font-weight: 700; color: #2a6b3b; white-space: nowrap; cursor: pointer; }
+  header h1:hover { color: #1e5230; }
   header .sub { font-size: 11px; color: #7a8b80; }
   .spacer { flex: 1; }
   .lang { display: flex; gap: 2px; }
@@ -98,9 +99,9 @@
   .credits-btn { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b; font-size: 14px; line-height: 1;
                  width: 26px; height: 26px; border-radius: 50%; cursor: pointer; flex: none; }
   .credits-btn:hover { background: #eef5f0; }
-  #credits { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
+  #credits, #about { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
              align-items: center; justify-content: center; padding: 16px; z-index: 9999; }
-  #credits.on { display: flex; }
+  #credits.on, #about.on { display: flex; }
   .cbox { background: #fff; border-radius: 12px; width: min(640px, 100%); max-height: 88vh; overflow-y: auto;
           padding: 20px 22px 24px; position: relative; }
   .cbox .close { position: absolute; top: 8px; right: 12px; font-size: 22px; cursor: pointer; color: #6a7b70;
@@ -119,6 +120,19 @@
   .cbox .fb a { color: #2a6b3b; font-weight: 600; }
   .cbox .disc { font-size: 11.5px; color: #8a9b90; line-height: 1.6; margin-top: 14px;
                 border-top: 1px solid #eef2ef; padding-top: 12px; }
+  /* about */
+  .cbox .sub { font-size: 13px; color: #6a7b70; margin: 0 0 10px; }
+  .cbox .lead { font-size: 14px; color: #34473c; line-height: 1.65; margin: 0 0 4px; }
+  .cbox .stat { font-size: 12.5px; color: #2a6b3b; background: #eef5f0; border-radius: 8px;
+                padding: 8px 12px; margin: 12px 0 2px; }
+  .cbox .stat .upd { color: #6a7b70; }
+  .cbox ol { margin: 4px 0 0; padding-left: 20px; }
+  .cbox ol li { font-size: 13.5px; line-height: 1.55; padding: 4px 0; color: #34473c; }
+  .cbox .start-btn { display: inline-block; margin-top: 16px; border: none; background: #2a6b3b; color: #fff;
+                     font-size: 14px; font-weight: 600; padding: 8px 20px; border-radius: 8px; cursor: pointer; }
+  .cbox .start-btn:hover { background: #235a31; }
+  .cbox .credits-link { margin-top: 14px; font-size: 13px; }
+  .cbox .credits-link a { color: #2a6b3b; font-weight: 600; cursor: pointer; }
   @media (max-width: 760px) {
     main { flex-direction: column; }
     #map { flex: none; height: 42vh; }
@@ -129,7 +143,7 @@
 </head>
 <body>
 <header>
-  <h1>🌿 パークライフ</h1>
+  <h1 id="brand" onclick="App.openAbout()">🌿 Parklife</h1>
   <span class="sub" id="tagline"></span>
   <span class="spacer"></span>
   <input id="search" type="search" autocomplete="off">
@@ -150,6 +164,10 @@
 <div id="credits"><div class="cbox">
   <button class="close" onclick="App.closeCredits()">×</button>
   <div id="cbody"></div>
+</div></div>
+<div id="about"><div class="cbox">
+  <button class="close" onclick="App.closeAbout()">×</button>
+  <div id="abody"></div>
 </div></div>
 <script src="app.js"></script>
 <script>
