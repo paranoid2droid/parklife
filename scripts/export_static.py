@@ -174,10 +174,40 @@ def main() -> None:
     write_json(data / "search-index.json", idx)
     print(f"search-index.json: {len(idx)} species")
 
-    # 8. meta ------------------------------------------------------------------
+    # 8. season shards: visible species in season per month --------------------
+    # `park_species.months_bitmap` (bit m = month m+1, OR'd across sources) is
+    # the per-(park,species) phenology. For a global "what's in season this
+    # month" browse we rank species by how many parks record them in that month
+    # (tiebreak: overall spread). NULL/0 bitmaps = year-round/unknown, excluded.
+    # Payload is [[species_id, in_season_park_count], ...]; the client joins to
+    # search-index for names/photos, so no data is duplicated across months.
+    (data / "season").mkdir()
+    vis_ids = {r[0] for r in shared.execute(
+        "SELECT id FROM species WHERE common_name_ja IS NOT NULL AND common_name_ja!=''")}
+    month_counts: list[dict[int, int]] = [{} for _ in range(12)]
+    for r in shared.execute(
+        "SELECT species_id, months_bitmap FROM park_species "
+        "WHERE months_bitmap IS NOT NULL AND months_bitmap!=0"
+    ):
+        sid, mb = r["species_id"], r["months_bitmap"]
+        if sid not in vis_ids or sid not in rs:
+            continue
+        for m in range(12):
+            if mb & (1 << m):
+                month_counts[m][sid] = month_counts[m].get(sid, 0) + 1
+    season_counts = []
+    for m in range(12):
+        ranked = sorted(month_counts[m].items(),
+                        key=lambda kv: (-kv[1], -npmap.get(kv[0], 1)))
+        write_json(data / "season" / f"{m + 1}.json", ranked)
+        season_counts.append(len(ranked))
+    print(f"season/*.json: 12 months, in-season counts {season_counts}")
+
+    # 9. meta ------------------------------------------------------------------
     write_json(data / "meta.json", {
         "buckets": BUCKETS, "parks": len(parks),
         "species": len(reachable), "generated": int(time.time()),
+        "seasonCounts": season_counts,
     })
 
     print(f"done in {time.time() - t0:.1f}s -> {OUT}")

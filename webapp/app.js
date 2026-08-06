@@ -26,6 +26,7 @@ function getJSON(path) {
 const bucketOf = (id) => ((id % SPECIES_BUCKETS) + SPECIES_BUCKETS) % SPECIES_BUCKETS;
 const dataParks = () => getJSON(DATA + '/parks.json');
 const dataMeta = () => getJSON(DATA + '/meta.json');
+const dataSeason = (m) => getJSON(DATA + '/season/' + m + '.json');
 const dataPark = (id) => getJSON(DATA + '/parks/' + id + '.json');
 async function dataSpecies(id) {
   const b = await getJSON(DATA + '/species/' + bucketOf(id) + '.json');
@@ -53,6 +54,16 @@ async function dataSearch(q, limit) {
   return hits.slice(0, limit).map(r => ({
     id: r[0], sci: r[1], ja: r[2], en: r[3], zh: r[4], zhT: r[5], group: r[6], p: r[7],
   }));
+}
+let _searchMap = null;  // id -> species card object, built once from the search index
+async function searchMap() {
+  if (!_searchIdx) _searchIdx = await getJSON(DATA + '/search-index.json');
+  if (!_searchMap) {
+    _searchMap = new Map();
+    for (const r of _searchIdx)  // [id, sci, ja, en, zh, zhT, group, p, np]
+      _searchMap.set(r[0], { id: r[0], sci: r[1], ja: r[2], en: r[3], zh: r[4], zhT: r[5], group: r[6], p: r[7] });
+  }
+  return _searchMap;
 }
 
 // ---- i18n -------------------------------------------------------------------
@@ -93,7 +104,8 @@ const UI = {
     showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示`,
     viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る', locate:'現在地に移動',
     nearMe:'📍 近くの公園', nearHeader:(n)=>`近くの公園 ${n} 件`, nearBusy:'現在地を取得中…',
-    nearNone:'この付近に公園が見つかりませんでした', geoDenied:'位置情報を取得できませんでした（ブラウザの位置情報を許可してください）' },
+    nearNone:'この付近に公園が見つかりませんでした', geoDenied:'位置情報を取得できませんでした（ブラウザの位置情報を許可してください）',
+    seasonNow:'🌸 今が見ごろ', seasonHeader:(mn,n)=>`${mn}に見られる ${n} 種` },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
@@ -103,7 +115,8 @@ const UI = {
     showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining`,
     viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks', locate:'My location',
     nearMe:'📍 Parks near me', nearHeader:(n)=>`${n} parks near you`, nearBusy:'Finding your location…',
-    nearNone:'No parks found nearby', geoDenied:'Couldn’t get your location (allow location access in your browser)' },
+    nearNone:'No parks found nearby', geoDenied:'Couldn’t get your location (allow location access in your browser)',
+    seasonNow:'🌸 In season now', seasonHeader:(mn,n)=>`${n} species in season · ${mn}` },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
@@ -113,7 +126,8 @@ const UI = {
     showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种`,
     viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园', locate:'我的位置',
     nearMe:'📍 附近的公园', nearHeader:(n)=>`附近 ${n} 个公园`, nearBusy:'正在获取你的位置…',
-    nearNone:'附近未找到公园', geoDenied:'无法获取你的位置（请在浏览器中允许定位）' },
+    nearNone:'附近未找到公园', geoDenied:'无法获取你的位置（请在浏览器中允许定位）',
+    seasonNow:'🌸 本月当季', seasonHeader:(mn,n)=>`${mn}当季 ${n} 种` },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
@@ -123,7 +137,8 @@ const UI = {
     showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種`,
     viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園', locate:'我的位置',
     nearMe:'📍 附近的公園', nearHeader:(n)=>`附近 ${n} 個公園`, nearBusy:'正在取得你的位置…',
-    nearNone:'附近未找到公園', geoDenied:'無法取得你的位置（請在瀏覽器中允許定位）' },
+    nearNone:'附近未找到公園', geoDenied:'無法取得你的位置（請在瀏覽器中允許定位）',
+    seasonNow:'🌸 本月當季', seasonHeader:(mn,n)=>`${mn}當季 ${n} 種` },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -394,15 +409,18 @@ function autoLocate() {                      // silent recommend-nearest on firs
 }
 // ---- discovery: parks near me -----------------------------------------------
 function renderEmpty() {
+  inSeasonView = false;
   $('panel').innerHTML =
     `<div class="placeholder" id="ph">${UI[lang].placeholder}`
-    + `<div class="near-cta"><button class="near-btn" onclick="App.discoverNearby()">${esc(UI[lang].nearMe)}</button></div>`
-    + `</div>`;
+    + `<div class="near-cta">`
+    + `<button class="near-btn" onclick="App.discoverNearby()">${esc(UI[lang].nearMe)}</button> `
+    + `<button class="near-btn alt" onclick="App.discoverSeason()">${esc(UI[lang].seasonNow)}</button>`
+    + `</div></div>`;
 }
 function discoverNearby() {
   if (locating) return;
   const U = UI[lang];
-  curPark = null; speciesFilter = null;
+  inSeasonView = false; curPark = null; speciesFilter = null;
   $('panel').innerHTML = `<div class="placeholder">${esc(U.nearBusy)}</div>`;
   locating = true; setLocateState('busy');
   geolocate(
@@ -431,6 +449,35 @@ function renderNearby(list) {
   $('panel').innerHTML = `<div class="park-name">📍 ${esc(U.nearHeader(list.length))}</div>`
     + `<div class="near-list">${rows}</div>`;
 }
+
+// ---- discovery: in season this month ----------------------------------------
+const SEASON_CAP = 60;
+let seasonMonth = 0, seasonRanked = [], seasonShown = SEASON_CAP, inSeasonView = false;
+async function discoverSeason(month) {
+  seasonMonth = month || (new Date().getMonth() + 1);  // auto-load the current month
+  inSeasonView = true; curPark = null; speciesFilter = null;
+  $('panel').innerHTML = '<div class="placeholder">…</div>';
+  const [rows, map] = await Promise.all([dataSeason(seasonMonth), searchMap()]);
+  seasonRanked = rows.map(([id]) => map.get(id)).filter(Boolean);  // rank order preserved
+  seasonShown = SEASON_CAP;
+  renderSeason();
+}
+function renderSeason() {
+  const U = UI[lang];
+  const opts = MONTHS[lang].map((nm, i) =>
+    `<option value="${i + 1}"${i + 1 === seasonMonth ? ' selected' : ''}>${esc(nm)}</option>`).join('');
+  const shown = seasonRanked.slice(0, seasonShown);
+  const more = seasonRanked.length > seasonShown
+    ? `<button class="more-btn" onclick="App.seasonMore()">${esc(U.showMore(Math.min(SEASON_CAP, seasonRanked.length - seasonShown)))}</button>`
+    : '';
+  $('panel').innerHTML =
+    `<div class="park-name">🌸 ${esc(U.seasonHeader(MONTHS[lang][seasonMonth - 1], seasonRanked.length))}</div>`
+    + `<div class="controls"><span>${esc(U.month)}: `
+    + `<select onchange="App.discoverSeason(+this.value)">${opts}</select></span></div>`
+    + `<div class="grid">${shown.map(speciesCard).join('')}</div>${more}`;
+}
+function seasonMore() { seasonShown += SEASON_CAP; renderSeason(); }
+
 function addLocateControl() {
   if (locateControl) return;
   const C = L.Control.extend({ options: { position: 'topleft' },
@@ -469,6 +516,7 @@ async function applyHash() {
 
 // ---- park panel -------------------------------------------------------------
 async function openPark(id, push = true) {
+  inSeasonView = false;
   $('panel').innerHTML = '<div class="placeholder">…</div>';
   const p = await dataPark(id);
   curPark = p;
@@ -609,7 +657,7 @@ function onSearch(e) {
   if (q.length < 2) return;
   searchTimer = setTimeout(async () => {
     const res = await dataSearch(q, 24);
-    curPark = null;  // search context: cards open without a park
+    inSeasonView = false; curPark = null;  // search context: cards open without a park
     let html = `<div class="park-name">🔍 ${esc(q)}</div><div class="park-meta">${res.length} ${UI[lang].species}</div><div class="grid">`;
     html += res.map(speciesCard).join('');
     html += '</div>';
@@ -682,7 +730,7 @@ function setLang(l) {
   if (modalSpecies) renderModal();
   if ($('about').classList.contains('on')) renderAbout();
   if ($('credits').classList.contains('on')) renderCredits();
-  if (curPark) renderPark(); else if ($('ph')) renderEmpty();
+  if (curPark) renderPark(); else if (inSeasonView) renderSeason(); else if ($('ph')) renderEmpty();
   if (speciesFilter) {  // refresh the reverse-view banner in the new language
     $('mapBanner').innerHTML =
       `<span>${UI[lang].mapFiltered(esc(speciesFilter.name), speciesFilter.ids.size)}</span>`
@@ -700,7 +748,7 @@ function renderChrome() {
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
               viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout,
-              discoverNearby };
+              discoverNearby, discoverSeason, seasonMore };
 window.App = App;
 
 (function main() {
