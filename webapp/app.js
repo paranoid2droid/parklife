@@ -91,7 +91,9 @@ const UI = {
     sort:'並び順', sortFreq:'記録数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致`,
     showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示`,
-    viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る', locate:'現在地に移動' },
+    viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る', locate:'現在地に移動',
+    nearMe:'📍 近くの公園', nearHeader:(n)=>`近くの公園 ${n} 件`, nearBusy:'現在地を取得中…',
+    nearNone:'この付近に公園が見つかりませんでした', geoDenied:'位置情報を取得できませんでした（ブラウザの位置情報を許可してください）' },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
@@ -99,7 +101,9 @@ const UI = {
     sort:'Sort', sortFreq:'Record count (high→low)', sortName:'Name', sortSci:'Scientific A→Z',
     month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched`,
     showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining`,
-    viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks', locate:'My location' },
+    viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks', locate:'My location',
+    nearMe:'📍 Parks near me', nearHeader:(n)=>`${n} parks near you`, nearBusy:'Finding your location…',
+    nearNone:'No parks found nearby', geoDenied:'Couldn’t get your location (allow location access in your browser)' },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
@@ -107,7 +111,9 @@ const UI = {
     sort:'排序', sortFreq:'记录数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合`,
     showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种`,
-    viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园', locate:'我的位置' },
+    viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园', locate:'我的位置',
+    nearMe:'📍 附近的公园', nearHeader:(n)=>`附近 ${n} 个公园`, nearBusy:'正在获取你的位置…',
+    nearNone:'附近未找到公园', geoDenied:'无法获取你的位置（请在浏览器中允许定位）' },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
@@ -115,7 +121,9 @@ const UI = {
     sort:'排序', sortFreq:'記錄數（多→少）', sortName:'名稱', sortSci:'學名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合`,
     showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種`,
-    viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園', locate:'我的位置' },
+    viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園', locate:'我的位置',
+    nearMe:'📍 附近的公園', nearHeader:(n)=>`附近 ${n} 個公園`, nearBusy:'正在取得你的位置…',
+    nearNone:'附近未找到公園', geoDenied:'無法取得你的位置（請在瀏覽器中允許定位）' },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -335,6 +343,16 @@ function nearestPark(lat, lon) {
   }
   return best ? { park: best, km: bestKm } : null;
 }
+function nearestParks(lat, lon, n = 12) {
+  const withKm = [];
+  for (const p of allParks) {
+    if (p.lat == null || p.lon == null) continue;
+    withKm.push({ park: p, km: distanceKm(lat, lon, p.lat, p.lon) });
+  }
+  withKm.sort((a, b) => a.km - b.km);
+  return withKm.slice(0, n);
+}
+const fmtKm = (km) => (km < 10 ? km.toFixed(1) : Math.round(km).toString()) + ' km';
 function showUserLocation(lat, lon, acc) {
   if (!userLayer) userLayer = L.layerGroup().addTo(map);
   userLayer.clearLayers();
@@ -373,6 +391,45 @@ function autoLocate() {                      // silent recommend-nearest on firs
     const near = nearestPark(lat, lon);
     if (near && near.km <= 30) openPark(near.park.id, false);
   });
+}
+// ---- discovery: parks near me -----------------------------------------------
+function renderEmpty() {
+  $('panel').innerHTML =
+    `<div class="placeholder" id="ph">${UI[lang].placeholder}`
+    + `<div class="near-cta"><button class="near-btn" onclick="App.discoverNearby()">${esc(UI[lang].nearMe)}</button></div>`
+    + `</div>`;
+}
+function discoverNearby() {
+  if (locating) return;
+  const U = UI[lang];
+  curPark = null; speciesFilter = null;
+  $('panel').innerHTML = `<div class="placeholder">${esc(U.nearBusy)}</div>`;
+  locating = true; setLocateState('busy');
+  geolocate(
+    (lat, lon, acc) => {
+      locating = false; setLocateState('');
+      showUserLocation(lat, lon, acc);
+      map.setView([lat, lon], 11);
+      renderNearby(nearestParks(lat, lon, 12));
+    },
+    () => {
+      locating = false; setLocateState('err');
+      $('panel').innerHTML = `<div class="placeholder">${esc(U.geoDenied)}`
+        + `<div class="near-cta"><button class="near-btn" onclick="App.discoverNearby()">${esc(U.nearMe)}</button></div></div>`;
+    });
+}
+function renderNearby(list) {
+  const U = UI[lang];
+  if (!list.length) { $('panel').innerHTML = `<div class="placeholder">${esc(U.nearNone)}</div>`; return; }
+  const rows = list.map(({ park: p, km }) => {
+    const name = (lang === 'ja' ? p.name_ja : (p.name_en || p.name_ja)) || p.name_ja;
+    const pk = p.has_parking === 1 ? `<span class="near-pk">${esc(U.parking[1])}</span>` : '';
+    return `<div class="near-item" onclick="App.openPark(${p.id})">`
+      + `<div class="near-nm">${esc(name)}${pk}</div>`
+      + `<div class="near-km">${esc(fmtKm(km))}</div></div>`;
+  }).join('');
+  $('panel').innerHTML = `<div class="park-name">📍 ${esc(U.nearHeader(list.length))}</div>`
+    + `<div class="near-list">${rows}</div>`;
 }
 function addLocateControl() {
   if (locateControl) return;
@@ -625,7 +682,7 @@ function setLang(l) {
   if (modalSpecies) renderModal();
   if ($('about').classList.contains('on')) renderAbout();
   if ($('credits').classList.contains('on')) renderCredits();
-  if (curPark) renderPark(); else $('ph').innerHTML = UI[lang].placeholder;
+  if (curPark) renderPark(); else if ($('ph')) renderEmpty();
   if (speciesFilter) {  // refresh the reverse-view banner in the new language
     $('mapBanner').innerHTML =
       `<span>${UI[lang].mapFiltered(esc(speciesFilter.name), speciesFilter.ids.size)}</span>`
@@ -642,12 +699,13 @@ function renderChrome() {
 }
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
-              viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout };
+              viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout,
+              discoverNearby };
 window.App = App;
 
 (function main() {
   renderChrome();
-  $('ph').innerHTML = UI[lang].placeholder;
+  renderEmpty();
   $('search').addEventListener('input', onSearch);
   $('modal').addEventListener('click', e => { if (e.target.id === 'modal') closeModal(); });
   $('credits').addEventListener('click', e => { if (e.target.id === 'credits') closeCredits(); });
