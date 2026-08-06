@@ -51,6 +51,15 @@
   .grp-h { cursor: pointer; user-select: none; }
   .grp-h.off { opacity: .45; }
   .grp-h.off + .grid { display: none; }
+  .grp-h.static { cursor: default; }
+  .grp-filter { display: flex; flex-wrap: wrap; gap: 5px 12px; margin: 8px 0 10px;
+                font-size: 12px; align-items: center; }
+  .gcb { display: inline-flex; align-items: center; gap: 4px; cursor: pointer; color: #3a5a45;
+         background: #f4f7f5; border: 1px solid #e3ece5; border-radius: 14px; padding: 3px 10px 3px 8px; }
+  .gcb:hover { border-color: #9cc4ab; }
+  .gcb input { vertical-align: -1px; margin: 0; cursor: pointer; }
+  .gcb .count { color: #8a9b90; }
+  .gcb.all { font-weight: 700; background: #eef5f0; }
   .more-btn { display: inline-block; margin: 2px 6px 8px 0; border: 1px solid #c9d8cc; background: #f3faf5;
               color: #2a6b3b; font-size: 12px; padding: 4px 10px; border-radius: 6px; cursor: pointer; }
   .more-btn:hover { background: #e8f4eb; }
@@ -114,6 +123,7 @@
   .credits-btn, .hbtn { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b; font-size: 14px; line-height: 1;
                  height: 26px; min-width: 26px; padding: 0 5px; border-radius: 13px; cursor: pointer; flex: none; }
   .credits-btn:hover, .hbtn:hover { background: #eef5f0; }
+  .hbtn { font-size: 12.5px; padding: 0 10px; white-space: nowrap; font-weight: 600; }
   #credits, #about { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
              align-items: center; justify-content: center; padding: 16px; z-index: 9999; }
   #credits.on, #about.on { display: flex; }
@@ -153,6 +163,7 @@
     #map { flex: none; height: 42vh; }
     #panel { max-width: none; border-left: none; border-top: 1px solid #e3ece5; }
     #search { width: 130px; }
+    header .sub { display: none; }   /* free header room for the labelled buttons */
   }
 </style>
 </head>
@@ -163,7 +174,7 @@
   <span class="spacer"></span>
   <input id="search" type="search" autocomplete="off">
   <button id="nearBtn" class="hbtn" onclick="App.discoverNearby()">📍</button>
-  <button id="seasonBtn" class="hbtn" onclick="App.discoverSeason()">🌸</button>
+  <button id="seasonBtn" class="hbtn" onclick="App.discoverSeason()">🌸</button><!-- labels set by renderChrome -->
   <div class="lang" id="lang"></div>
   <button id="creditsBtn" class="credits-btn" onclick="App.openCredits()" aria-label="Credits">ⓘ</button>
 </header>

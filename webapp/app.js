@@ -105,7 +105,8 @@ const UI = {
     viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る', locate:'現在地に移動',
     nearMe:'📍 近くの公園', nearHeader:(n)=>`近くの公園 ${n} 件`, nearBusy:'現在地を取得中…',
     nearNone:'この付近に公園が見つかりませんでした', geoDenied:'位置情報を取得できませんでした（ブラウザの位置情報を許可してください）',
-    seasonNow:'🌸 今が見ごろ', seasonHeader:(mn,n)=>`${mn}に見られる ${n} 種` },
+    seasonNow:'🌸 今が見ごろ', seasonHeader:(mn,n)=>`${mn}に見られる ${n} 種`,
+    nearShort:'📍 近く', seasonShort:'🌸 見ごろ', allGroups:'すべて' },
   en: { tagline:'A map of life in Japanese parks', placeholder:'🗺 Click a park marker on the map<br>or use the search box above',
     species:'species', parking:{1:'🅿️ Parking',0:'🚫 No parking'}, official:'Official site ↗',
     summary:'About', habitat:'Habitat', tips:'How to find', season:'Recorded months', srch:'Search species / park',
@@ -116,7 +117,8 @@ const UI = {
     viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks', locate:'My location',
     nearMe:'📍 Parks near me', nearHeader:(n)=>`${n} parks near you`, nearBusy:'Finding your location…',
     nearNone:'No parks found nearby', geoDenied:'Couldn’t get your location (allow location access in your browser)',
-    seasonNow:'🌸 In season now', seasonHeader:(mn,n)=>`${n} species in season · ${mn}` },
+    seasonNow:'🌸 In season now', seasonHeader:(mn,n)=>`${n} species in season · ${mn}`,
+    nearShort:'📍 Near me', seasonShort:'🌸 In season', allGroups:'All' },
   zh: { tagline:'日本公园的生物地图', placeholder:'🗺 点击地图上的公园标记<br>或使用上方搜索框',
     species:'种', parking:{1:'🅿️ 有停车场',0:'🚫 无停车场'}, official:'官方网站 ↗',
     summary:'简介', habitat:'栖息环境', tips:'观察提示', season:'记录月份', srch:'搜索物种 / 公园',
@@ -127,7 +129,8 @@ const UI = {
     viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园', locate:'我的位置',
     nearMe:'📍 附近的公园', nearHeader:(n)=>`附近 ${n} 个公园`, nearBusy:'正在获取你的位置…',
     nearNone:'附近未找到公园', geoDenied:'无法获取你的位置（请在浏览器中允许定位）',
-    seasonNow:'🌸 本月当季', seasonHeader:(mn,n)=>`${mn}当季 ${n} 种` },
+    seasonNow:'🌸 本月当季', seasonHeader:(mn,n)=>`${mn}当季 ${n} 种`,
+    nearShort:'📍 附近', seasonShort:'🌸 当季', allGroups:'全部' },
   zhT: { tagline:'日本公園的生物地圖', placeholder:'🗺 點擊地圖上的公園標記<br>或使用上方搜尋框',
     species:'種', parking:{1:'🅿️ 有停車場',0:'🚫 無停車場'}, official:'官方網站 ↗',
     summary:'簡介', habitat:'棲息環境', tips:'觀察提示', season:'記錄月份', srch:'搜尋物種 / 公園',
@@ -138,7 +141,8 @@ const UI = {
     viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園', locate:'我的位置',
     nearMe:'📍 附近的公園', nearHeader:(n)=>`附近 ${n} 個公園`, nearBusy:'正在取得你的位置…',
     nearNone:'附近未找到公園', geoDenied:'無法取得你的位置（請在瀏覽器中允許定位）',
-    seasonNow:'🌸 本月當季', seasonHeader:(mn,n)=>`${mn}當季 ${n} 種` },
+    seasonNow:'🌸 本月當季', seasonHeader:(mn,n)=>`${mn}當季 ${n} 種`,
+    nearShort:'📍 附近', seasonShort:'🌸 當季', allGroups:'全部' },
 };
 const PROFILE_LANG = { ja:'ja', en:'en', zh:'zh', zhT:'zhT' };  // species_profile.lang keys
 
@@ -451,32 +455,63 @@ function renderNearby(list) {
 }
 
 // ---- discovery: in season this month ----------------------------------------
-const SEASON_CAP = 60;
-let seasonMonth = 0, seasonRanked = [], seasonShown = SEASON_CAP, inSeasonView = false;
+const SEASON_GROUP_CAP = 24;
+let seasonMonth = 0, seasonRanked = [], inSeasonView = false;
+let seasonGroups = null;      // Set of enabled taxon groups (null before first load)
+let seasonGroupShown = {};    // per-group card cap
 async function discoverSeason(month) {
   seasonMonth = month || (new Date().getMonth() + 1);  // auto-load the current month
   inSeasonView = true; curPark = null; speciesFilter = null; setHash('', false);
   $('panel').innerHTML = '<div class="placeholder">…</div>';
   const [rows, map] = await Promise.all([dataSeason(seasonMonth), searchMap()]);
-  seasonRanked = rows.map(([id]) => map.get(id)).filter(Boolean);  // rank order preserved
-  seasonShown = SEASON_CAP;
+  seasonRanked = rows.map(([id]) => map.get(id)).filter(Boolean);  // global rank order preserved
+  seasonGroups = new Set(seasonGroupsPresent().map(([g]) => g));   // default: all groups checked
+  seasonGroupShown = {};
   renderSeason();
+}
+function seasonGroupsPresent() {
+  const m = new Map();
+  for (const s of seasonRanked) { const g = s.group || 'unclassified'; m.set(g, (m.get(g) || 0) + 1); }
+  return [...m.entries()].sort((a, b) =>
+    (GROUP_ORDER.indexOf(a[0]) + 1 || 99) - (GROUP_ORDER.indexOf(b[0]) + 1 || 99));
 }
 function renderSeason() {
   const U = UI[lang];
+  const present = seasonGroupsPresent();
   const opts = MONTHS[lang].map((nm, i) =>
     `<option value="${i + 1}"${i + 1 === seasonMonth ? ' selected' : ''}>${esc(nm)}</option>`).join('');
-  const shown = seasonRanked.slice(0, seasonShown);
-  const more = seasonRanked.length > seasonShown
-    ? `<button class="more-btn" onclick="App.seasonMore()">${esc(U.showMore(Math.min(SEASON_CAP, seasonRanked.length - seasonShown)))}</button>`
-    : '';
+  const allOn = present.every(([g]) => seasonGroups.has(g));
+  const chips = `<label class="gcb all"><input type="checkbox"${allOn ? ' checked' : ''} `
+      + `onchange="App.toggleSeasonAll(this.checked)"> ${esc(U.allGroups)}</label>`
+    + present.map(([g, c]) => `<label class="gcb"><input type="checkbox"${seasonGroups.has(g) ? ' checked' : ''} `
+      + `onchange="App.toggleSeasonGroup('${g}')"> ${grpLabel(g)} <span class="count">${c}</span></label>`).join('');
+  let body = '';
+  for (const [g, c] of present) {
+    if (!seasonGroups.has(g)) continue;
+    const list = seasonRanked.filter(s => (s.group || 'unclassified') === g);  // rank-ordered
+    const cap = seasonGroupShown[g] || SEASON_GROUP_CAP;
+    body += `<div class="grp-h static">${grpLabel(g)} <span class="count">(${c})</span></div>`
+      + `<div class="grid">${list.slice(0, cap).map(speciesCard).join('')}</div>`;
+    const rest = list.length - cap;
+    if (rest > 0) {
+      const step = Math.min(rest, 48);
+      body += `<button class="more-btn" onclick="App.seasonMore('${g}',${step})">${esc(U.showMore(step))}</button>`;
+      if (rest > step) body += `<button class="more-btn" onclick="App.seasonMore('${g}',${rest})">${esc(U.showAll(rest))}</button>`;
+    }
+  }
   $('panel').innerHTML =
     `<div class="park-name">🌸 ${esc(U.seasonHeader(MONTHS[lang][seasonMonth - 1], seasonRanked.length))}</div>`
     + `<div class="controls"><span>${esc(U.month)}: `
     + `<select onchange="App.discoverSeason(+this.value)">${opts}</select></span></div>`
-    + `<div class="grid">${shown.map(speciesCard).join('')}</div>${more}`;
+    + `<div class="grp-filter">${chips}</div>`
+    + body;
 }
-function seasonMore() { seasonShown += SEASON_CAP; renderSeason(); }
+function seasonMore(g, n) { seasonGroupShown[g] = (seasonGroupShown[g] || SEASON_GROUP_CAP) + n; renderSeason(); }
+function toggleSeasonGroup(g) { seasonGroups.has(g) ? seasonGroups.delete(g) : seasonGroups.add(g); renderSeason(); }
+function toggleSeasonAll(on) {
+  seasonGroups = on ? new Set(seasonGroupsPresent().map(([g]) => g)) : new Set();
+  renderSeason();
+}
 
 function addLocateControl() {
   if (locateControl) return;
@@ -744,13 +779,13 @@ function renderChrome() {
     `<button class="${l === lang ? 'on' : ''}" onclick="App.setLang('${l}')">${LANG_LABEL[l]}</button>`).join('');
   { const cb = $('creditsBtn'); if (cb) { cb.title = CREDITS[lang].title; cb.setAttribute('aria-label', CREDITS[lang].title); } }
   { const br = $('brand'); if (br) br.title = ABOUT[lang].sub; }
-  { const nb = $('nearBtn'); if (nb) { nb.title = UI[lang].nearMe; nb.setAttribute('aria-label', UI[lang].nearMe); } }
-  { const sb = $('seasonBtn'); if (sb) { sb.title = UI[lang].seasonNow; sb.setAttribute('aria-label', UI[lang].seasonNow); } }
+  { const nb = $('nearBtn'); if (nb) { nb.textContent = UI[lang].nearShort; nb.title = UI[lang].nearMe; nb.setAttribute('aria-label', UI[lang].nearMe); } }
+  { const sb = $('seasonBtn'); if (sb) { sb.textContent = UI[lang].seasonShort; sb.title = UI[lang].seasonNow; sb.setAttribute('aria-label', UI[lang].seasonNow); } }
 }
 
 const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
               viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout,
-              discoverNearby, discoverSeason, seasonMore };
+              discoverNearby, discoverSeason, seasonMore, toggleSeasonGroup, toggleSeasonAll };
 window.App = App;
 
 (function main() {

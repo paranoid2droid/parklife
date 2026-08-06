@@ -1,4 +1,4 @@
-"""E2E for #3b: 'in season this month' discovery (real Chrome)."""
+"""E2E for #3b: 'in season this month' — grouped + checkbox-filtered (real Chrome)."""
 import os, sys, datetime
 from playwright.sync_api import sync_playwright
 
@@ -9,38 +9,51 @@ CUR_MONTH = datetime.date.today().month
 
 def check(page):
     page.goto(BASE, wait_until="networkidle")
-    # empty-state has both discovery buttons
-    page.wait_for_selector(".near-btn.alt", timeout=8000)
 
-    # open season (no arg -> auto-load current month)
+    # header discovery buttons carry readable text labels (not hover-only tooltips)
+    assert len(page.locator("#nearBtn").inner_text()) > 2, "near button lacks a text label"
+    assert len(page.locator("#seasonBtn").inner_text()) > 2, "season button lacks a text label"
+
+    # open season -> auto-loads the current month, grouped with a checkbox filter row
     page.evaluate("App.discoverSeason()")
-    page.wait_for_selector(".grid .card", timeout=8000)
-    # month <select> defaults to the current month
-    sel = int(page.locator(".controls select").input_value())
-    assert sel == CUR_MONTH, f"season did not auto-load current month: got {sel}, want {CUR_MONTH}"
-    n_cards = page.locator(".grid .card").count()
-    assert n_cards > 0, "no season cards"
-    hdr = page.locator(".park-name").inner_text()
-    assert "🌸" in hdr
+    page.wait_for_selector(".grp-filter", timeout=8000)
+    assert int(page.locator(".controls select").input_value()) == CUR_MONTH, "did not auto-load current month"
+    headers = page.locator(".grp-h.static").count()
+    groups = page.locator(".grp-filter .gcb:not(.all)").count()
+    assert headers >= 2 and groups == headers, f"not grouped by taxon: {headers} headers / {groups} chips"
+    assert page.locator(".grid .card").count() > 0, "no season cards"
+    assert "🌸" in page.locator(".park-name").inner_text()
 
-    # show-more grows the list
+    # unchecking a group hides its section
+    page.locator(".grp-filter .gcb:not(.all) input").first.uncheck()
+    page.wait_for_timeout(150)
+    assert page.locator(".grp-h.static").count() == headers - 1, "uncheck did not hide a group"
+
+    # 'All' checkbox: on -> all sections, off -> none
+    page.locator(".gcb.all input").check(); page.wait_for_timeout(120)
+    assert page.locator(".grp-h.static").count() == headers, "All-on did not restore all groups"
+    page.locator(".gcb.all input").uncheck(); page.wait_for_timeout(120)
+    assert page.locator(".grp-h.static").count() == 0, "All-off did not clear sections"
+    page.locator(".gcb.all input").check(); page.wait_for_timeout(120)
+
+    # per-group show-more grows that group
     if page.locator(".more-btn").count():
         before = page.locator(".grid .card").count()
-        page.locator(".more-btn").click()
+        page.locator(".more-btn").first.click()
         page.wait_for_timeout(150)
-        assert page.locator(".grid .card").count() > before, "show-more did not add cards"
+        assert page.locator(".grid .card").count() > before, "show-more added no cards"
 
-    # switching month re-loads a different shard
+    # switching month reloads a different shard (and resets groups to all)
     other = 6 if CUR_MONTH != 6 else 12
     page.select_option(".controls select", str(other))
     page.wait_for_timeout(300)
     assert int(page.locator(".controls select").input_value()) == other
     assert page.locator(".grid .card").count() > 0
 
-    # a card opens the species modal (no park context)
+    # a card opens the species modal
     page.locator(".grid .card").first.click()
     page.wait_for_selector("#modal.on", timeout=8000)
-    assert page.locator("#mbody h2").count() > 0, "species modal did not open"
+    assert page.locator("#mbody h2").count() > 0
     page.keyboard.press("Escape")
 
     # language switch re-renders the season view (header localizes)
@@ -50,7 +63,7 @@ def check(page):
     page.wait_for_timeout(150)
     assert "in season" in page.locator(".park-name").inner_text().lower(), "season header did not re-localize"
 
-    print(f"SEASON E2E: auto-loaded month {CUR_MONTH}, {n_cards}+ cards, month-switch + card modal + i18n — OK")
+    print(f"SEASON E2E: month {CUR_MONTH} auto-loaded, {groups} groups, checkbox filter + show-more + modal + i18n — OK")
 
 
 with sync_playwright() as p:
