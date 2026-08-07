@@ -92,7 +92,8 @@ def insert_admin_source(conn, park_id: int, taxon_key_url: str) -> int:
     return row["id"] if row else 0
 
 
-def select_species(conn, names: list[str], group: str | None, limit: int | None):
+def select_species(conn, names: list[str], group: str | None,
+                   kingdom: str | None, limit: int | None):
     if names:
         q = ("SELECT id, scientific_name, common_name_ja FROM species "
              "WHERE scientific_name IN (%s)" % ",".join("?" * len(names)))
@@ -103,6 +104,9 @@ def select_species(conn, names: list[str], group: str | None, limit: int | None)
     if group:
         sql += " AND taxon_group=?"
         params.append(group)
+    if kingdom:
+        sql += " AND kingdom=?"
+        params.append(kingdom)
     sql += " ORDER BY id"
     if limit:
         sql += f" LIMIT {int(limit)}"
@@ -113,13 +117,14 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("names", nargs="*", help="scientific names (default: --group/all)")
     ap.add_argument("--group", help="taxon_group filter, e.g. insect")
+    ap.add_argument("--kingdom", help="kingdom filter, e.g. animalia")
     ap.add_argument("--limit", type=int)
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
 
     db_path = ROOT / "data" / "parklife.db"
     with db.connect(db_path) as conn:
-        species = select_species(conn, args.names, args.group, args.limit)
+        species = select_species(conn, args.names, args.group, args.kingdom, args.limit)
         print(f"species to process: {len(species)}")
         admin_match._load_parks(conn)  # warm the gazetteer once
 
