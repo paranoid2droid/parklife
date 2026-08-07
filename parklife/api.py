@@ -124,7 +124,10 @@ def park_index(bbox: tuple[float, float, float, float] | None = None,
     sql = (
         "SELECT p.id, p.slug, p.name_ja, p.name_en, p.prefecture, p.municipality,"
         "       p.lat, p.lon, p.area_m2, p.official_url, p.has_parking,"
-        "       (SELECT COUNT(*) FROM park_species ps WHERE ps.park_id = p.id) AS n "
+        # n = confirmed on-site species only (the honest headline count); the
+        # weaker 'admin:municipality' regional tier is opt-in in the client.
+        "       (SELECT COUNT(*) FROM park_species ps WHERE ps.park_id = p.id"
+        "        AND ps.evidence_tier = 'onsite') AS n "
         "FROM park p"
     )
     params: list = []
@@ -154,7 +157,8 @@ def park_detail(park_id: int) -> dict | None:
             """
             SELECT s.id, s.scientific_name, s.common_name_ja, s.common_name_en,
                    s.taxon_group, s.kingdom, s.photo_url,
-                   ps.months_bitmap, ps.observation_count, ps.source_count
+                   ps.months_bitmap, ps.observation_count, ps.source_count,
+                   ps.evidence_tier
             FROM park_species ps
             JOIN species s ON s.id = ps.species_id
             WHERE ps.park_id = ?
@@ -163,8 +167,9 @@ def park_detail(park_id: int) -> dict | None:
             (park_id,),
         ).fetchall()
         zmap = _zh_alias_map(conn, [r["id"] for r in rows])
-        species = [
-            {
+        species = []
+        for r in rows:
+            card = {
                 "id": r["id"],
                 "sci": r["scientific_name"],
                 "ja": r["common_name_ja"],
@@ -179,9 +184,14 @@ def park_detail(park_id: int) -> dict | None:
                 "oc": r["observation_count"] or 1,
                 "sc": r["source_count"] or 1,
             }
-            for r in rows
-        ]
-        out = _park_row(p, len(species))
+            # 'a':1 flags a weaker regional (市区町村) record; on-site is untagged
+            # to keep the common case's payload small. Client hides these unless
+            # the user opts into "含周边区域记录".
+            if r["evidence_tier"] == "admin:municipality":
+                card["a"] = 1
+            species.append(card)
+        # headline n = confirmed on-site only (matches park_index)
+        out = _park_row(p, sum(1 for c in species if not c.get("a")))
         out["species"] = species
         return out
 

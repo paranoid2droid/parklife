@@ -81,7 +81,8 @@ CREATE TABLE IF NOT EXISTS observation (
     months_bitmap   INTEGER,                 -- bit 0 = Jan, bit 11 = Dec; NULL = year-round/unknown
     location_hint   TEXT,                    -- e.g. '池の周辺', '雑木林'
     characteristics TEXT,                    -- free-form notes from the page
-    source_id       INTEGER REFERENCES source(id) ON DELETE SET NULL
+    source_id       INTEGER REFERENCES source(id) ON DELETE SET NULL,
+    evidence_tier   TEXT NOT NULL DEFAULT 'onsite'  -- spatial confidence: 'onsite' (radius/scrape) | 'admin:municipality' (GBIF coord-less, matched by 市区町村)
 );
 
 CREATE INDEX IF NOT EXISTS idx_observation_park    ON observation(park_id);
@@ -100,6 +101,7 @@ CREATE TABLE IF NOT EXISTS park_species (
     raw_names         TEXT,    -- pipe-separated unique raw names seen for this pair
     location_hints    TEXT,    -- semicolon-joined unique location hints
     characteristics   TEXT,    -- semicolon-joined unique characteristics notes
+    evidence_tier     TEXT NOT NULL DEFAULT 'onsite',  -- strongest tier among this pair's observations ('onsite' beats 'admin:municipality')
     PRIMARY KEY (park_id, species_id)
 );
 

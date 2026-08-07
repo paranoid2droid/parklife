@@ -101,6 +101,7 @@ const UI = {
     seasonUnknown:'通年／不明', parksWith:'この種が見られる公園',
     sort:'並び順', sortFreq:'記録数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月', monthAll:'全て', parkingOnly:'🅿️ 駐車場ありのみ', inPark:'この公園での写真', matched:n=>`${n} 種が条件に合致`,
+    regional:n=>`周辺地域の記録も表示 (+${n})`, regionalBadge:m=>`📍${m} 地域`, regionalNote:'この地域（市区町村）で記録あり・園内確認ではありません',
     showMore:n=>`さらに ${n} 種を表示`, showAll:n=>`残り ${n} 種をすべて表示`,
     viewOnMap:'この種が見られる公園を地図で表示', mapFiltered:(name,n)=>`📍 ${name} が見られる ${n} 公園`, showAllParks:'すべての公園に戻る', locate:'現在地に移動',
     nearMe:'📍 近くの公園', nearHeader:(n)=>`近くの公園 ${n} 件`, nearBusy:'現在地を取得中…',
@@ -113,6 +114,7 @@ const UI = {
     seasonUnknown:'Year-round / unknown', parksWith:'Parks where this species occurs',
     sort:'Sort', sortFreq:'Record count (high→low)', sortName:'Name', sortSci:'Scientific A→Z',
     month:'Month', monthAll:'All', parkingOnly:'🅿️ Parking only', inPark:'Photos at this park', matched:n=>`${n} species matched`,
+    regional:n=>`Show nearby regional records (+${n})`, regionalBadge:m=>`📍${m} region`, regionalNote:'Recorded in this municipality — not confirmed inside the park',
     showMore:n=>`Show ${n} more`, showAll:n=>`Show all ${n} remaining`,
     viewOnMap:'Show parks with this species on the map', mapFiltered:(name,n)=>`📍 ${n} parks with ${name}`, showAllParks:'Back to all parks', locate:'My location',
     nearMe:'📍 Parks near me', nearHeader:(n)=>`${n} parks near you`, nearBusy:'Finding your location…',
@@ -125,6 +127,7 @@ const UI = {
     seasonUnknown:'全年／不明', parksWith:'可见到该物种的公园',
     sort:'排序', sortFreq:'记录数（多→少）', sortName:'名称', sortSci:'学名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 仅有停车场', inPark:'本公园实拍', matched:n=>`共 ${n} 种符合`,
+    regional:n=>`含周边区域记录 (+${n})`, regionalBadge:m=>`📍${m} 区域`, regionalNote:'该市区町村有记录 · 非园内确认',
     showMore:n=>`再显示 ${n} 种`, showAll:n=>`显示剩余全部 ${n} 种`,
     viewOnMap:'在地图上显示有该物种的公园', mapFiltered:(name,n)=>`📍 ${n} 个公园有 ${name}`, showAllParks:'返回全部公园', locate:'我的位置',
     nearMe:'📍 附近的公园', nearHeader:(n)=>`附近 ${n} 个公园`, nearBusy:'正在获取你的位置…',
@@ -137,6 +140,7 @@ const UI = {
     seasonUnknown:'全年／不明', parksWith:'可見到該物種的公園',
     sort:'排序', sortFreq:'記錄數（多→少）', sortName:'名稱', sortSci:'學名 A→Z',
     month:'月份', monthAll:'全部', parkingOnly:'🅿️ 僅有停車場', inPark:'本公園實拍', matched:n=>`共 ${n} 種符合`,
+    regional:n=>`含周邊區域記錄 (+${n})`, regionalBadge:m=>`📍${m} 區域`, regionalNote:'該市區町村有記錄 · 非園內確認',
     showMore:n=>`再顯示 ${n} 種`, showAll:n=>`顯示剩餘全部 ${n} 種`,
     viewOnMap:'在地圖上顯示有該物種的公園', mapFiltered:(name,n)=>`📍 ${n} 個公園有 ${name}`, showAllParks:'返回全部公園', locate:'我的位置',
     nearMe:'📍 附近的公園', nearHeader:(n)=>`附近 ${n} 個公園`, nearBusy:'正在取得你的位置…',
@@ -260,6 +264,7 @@ let modalImgs = [];       // combined gallery shown in modal (park-local + speci
 let photoIdx = 0;
 let sortMode = localStorage.getItem('pl_sort') || 'freq';  // freq | name | sci
 let monthFilter = 0;      // 0 = all; 1..12 = that month (soft filter)
+let showRegional = localStorage.getItem('pl_regional') === '1';  // include 'admin:municipality' (a:1) cards
 let hiddenGroups = new Set();
 let parkingOnly = false;
 let allParks = [];        // cached light park index for the map filter
@@ -569,9 +574,12 @@ const GROUP_ORDER = ['plant','bird','insect','mammal','herp','fish','mollusk','c
                      'arachnid_myriapod','mushroom','small_aquatic','other_animal','unclassified'];
 function speciesCard(s) {
   const bg = s.p ? `background-image:url('${esc(s.p)}')` : '';
-  return `<div class="card" onclick="App.openSpecies(${s.id},${curPark ? curPark.id : 'null'})">`
+  // 'a' = regional (市区町村) record, not confirmed on-site: badge it with the muni.
+  const badge = (s.a && curPark && curPark.municipality)
+    ? `<span class="reg-badge" title="${esc(UI[lang].regionalNote)}">${esc(UI[lang].regionalBadge(curPark.municipality))}</span>` : '';
+  return `<div class="card${s.a ? ' regional' : ''}" onclick="App.openSpecies(${s.id},${curPark ? curPark.id : 'null'})">`
        + `<div class="ph" style="${bg}"></div>`
-       + `<div class="nm"><b>${esc(dispName(s))}</b><i>${esc(s.sci || '')}</i></div></div>`;
+       + `<div class="nm"><b>${esc(dispName(s))}</b><i>${esc(s.sci || '')}</i>${badge}</div></div>`;
 }
 function sortSpecies(arr) {
   const a = arr.slice();
@@ -593,7 +601,8 @@ function renderPark() {
   if (p.has_parking === 1 || p.has_parking === 0) meta.push(U.parking[p.has_parking]);
   if (p.official_url) meta.push(`<a href="${esc(p.official_url)}" target="_blank" rel="noopener">${U.official}</a>`);
 
-  const shown = p.species.filter(passMonth);
+  const regionalCount = p.species.reduce((n, s) => n + (s.a ? 1 : 0), 0);
+  const shown = p.species.filter(s => passMonth(s) && (showRegional || !s.a));
   const byGrp = {};
   for (const s of shown) (byGrp[s.group || 'unclassified'] ||= []).push(s);
   const groups = Object.keys(byGrp).sort((a, b) =>
@@ -609,6 +618,8 @@ function renderPark() {
     + `<option value="name"${sortMode==='name'?' selected':''}>${U.sortName}</option>`
     + `<option value="sci"${sortMode==='sci'?' selected':''}>${U.sortSci}</option></select></span>`
     + `<span>${U.month}: <select onchange="App.setMonth(this.value)">${monthOpts}</select></span>`
+    + (regionalCount ? `<label class="reg-toggle" title="${esc(U.regionalNote)}">`
+        + `<input type="checkbox"${showRegional ? ' checked' : ''} onchange="App.setRegional(this.checked)"> ${U.regional(regionalCount)}</label>` : '')
     + `</div>`;
   for (const g of groups) {
     const off = hiddenGroups.has(g) ? ' off' : '';
@@ -630,6 +641,7 @@ function renderPark() {
 function showMore(g, n) { groupShown[g] = (groupShown[g] || GROUP_CAP) + n; renderPark(); }
 function setSort(v) { sortMode = v; localStorage.setItem('pl_sort', v); renderPark(); }
 function setMonth(v) { monthFilter = +v; renderPark(); }
+function setRegional(on) { showRegional = !!on; localStorage.setItem('pl_regional', on ? '1' : '0'); groupShown = {}; renderPark(); }
 function toggleGroup(g) { if (hiddenGroups.has(g)) hiddenGroups.delete(g); else hiddenGroups.add(g); renderPark(); }
 
 // ---- species modal ----------------------------------------------------------
@@ -804,7 +816,7 @@ function renderChrome() {
   { const sb = $('seasonBtn'); if (sb) { sb.textContent = UI[lang].seasonShort; sb.title = UI[lang].seasonNow; sb.setAttribute('aria-label', UI[lang].seasonNow); } }
 }
 
-const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, toggleGroup, showMore,
+const App = { openPark, openSpecies, setLang, closeModal, photo, setSort, setMonth, setRegional, toggleGroup, showMore,
               viewSpeciesOnMap, clearSpeciesFilter, openCredits, closeCredits, openAbout, closeAbout,
               discoverNearby, discoverSeason, seasonMore, toggleSeasonGroup, toggleSeasonAll, installApp };
 window.App = App;

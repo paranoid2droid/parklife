@@ -39,15 +39,19 @@ def main() -> None:
     with db.connect(db_path) as conn:
         rows = conn.execute("""
             SELECT park_id, species_id, months_bitmap, raw_name,
-                   location_hint, characteristics, source_id
+                   location_hint, characteristics, source_id, evidence_tier
             FROM observation
             WHERE species_id IS NOT NULL
         """).fetchall()
 
+        # 'onsite' (radius/scrape) outranks 'admin:municipality' (coarse regional).
+        # The pair's tier is the strongest tier seen across its observations.
+        TIER_RANK = {"onsite": 0, "admin:municipality": 1}
+
         # aggregate in Python (BIT_OR isn't available in this SQLite build)
         agg: dict[tuple[int, int], dict] = defaultdict(lambda: {
             "months": 0, "count": 0, "sources": set(),
-            "raw_names": [], "loc": [], "chars": [],
+            "raw_names": [], "loc": [], "chars": [], "tier": "admin:municipality",
         })
         for r in rows:
             key = (r["park_id"], r["species_id"])
@@ -59,6 +63,9 @@ def main() -> None:
             a["raw_names"].append(r["raw_name"])
             a["loc"].append(r["location_hint"])
             a["chars"].append(r["characteristics"])
+            tier = r["evidence_tier"] or "onsite"
+            if TIER_RANK.get(tier, 9) < TIER_RANK.get(a["tier"], 9):
+                a["tier"] = tier
 
         conn.execute("DELETE FROM park_species")
         inserted = 0
@@ -66,8 +73,9 @@ def main() -> None:
             conn.execute(
                 """INSERT INTO park_species
                    (park_id, species_id, months_bitmap, observation_count,
-                    source_count, raw_names, location_hints, characteristics)
-                   VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+                    source_count, raw_names, location_hints, characteristics,
+                    evidence_tier)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
                 (
                     pid, sid,
                     a["months"] or None,  # 0 → NULL (truly unknown vs known-no-month)
@@ -76,6 +84,7 @@ def main() -> None:
                     _join_unique(a["raw_names"], sep="|"),
                     _join_unique(a["loc"]),
                     _join_unique(a["chars"]),
+                    a["tier"],
                 ),
             )
             inserted += 1
