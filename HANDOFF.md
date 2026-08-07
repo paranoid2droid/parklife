@@ -24,6 +24,8 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
+**✅ 2026-08-07 (Claude/Opus) — FREE-TOOL TRACK #1–#4 NOW LIVE.** Deployed via `scripts/deploy_pages.sh` (orphan `c1a8738`, 5058 files → `origin/gh-pages`); live `app.js` == latest, `sw.js` == `parklife-v6`. This was the last blocker from the 2026-08-07 #4 entry (Pages outage had held it). Fixed the user-reported "empty species panel on many parks" — it was just the stale old app.js on gh-pages; current code/data are clean (probe: 40 parks, 0 empty). The only genuinely empty parks are 16 with `n=0` (no occurrence records). Next: optional #5 custom domain, or a new track (monetization / いきものログ / resume np=1) — ask the user.
+
 **✅ 2026-08-04 (Claude/Opus) — BOTH operational items from the 2026-07-18 review RESOLVED (user chose "ship" over more grind):** pushed 378 backlog commits to origin/main (backup) + rebuilt `site/` via `export_static` + force-pushed gh-pages (`deploy_pages.sh`). **Live demo is now current** (was last deployed 2026-07-06). See top Recent-sessions entry. The *new-direction* choice (productization / いきものログ / resume np=1) is still open — ask the user.
 
 **⚠️ 2026-07-18 (Claude/Opus) — STATE REVIEW: two operational items need the user's call (grind itself is healthy). [①②RESOLVED 2026-08-04, see above]**
@@ -151,6 +153,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 - **Cheap feasibility probes to run first:** (a) iNat photo license distribution (how many survive a commercial filter); (b) 国土数値情報 都市公園 schema check.
 
 ## Recent sessions
+
+### 2026-08-07 (Claude/Opus) — 🚀 DEPLOYED free-tool track #1–#4 to gh-pages (was the last blocker)
+- **User reported "many parks show an empty species panel."** Root cause: **gh-pages was stale** — deployed `app.js` predated the #1–#4 commits and `sw.js` was still `parklife-v5`; local `site/app.js` (latest) was fine. Verified data was identical on both sides (3190 parks, same 16 truly-empty `n=0` parks) and a real-Chrome probe over 40 random parks with the current code found **0 empty, 0 console errors** — so it was purely a not-yet-deployed problem, not a code/data bug.
+- **Ran `scripts/deploy_pages.sh`** (Pages/Actions outage had cleared): rebuilt static export (3190 parks · 24690 species · 512 buckets, ~84s) → orphan commit `c1a8738`, force-pushed **5058 files** to `origin/gh-pages`. Verified live `app.js` now == local latest and `sw.js` == `parklife-v6` (returning PWA users' cache-first shell auto-replaces). Allow a few min for Pages CDN.
+- **➡️ NEXT:** live demo is now current with #1–#4. Remaining: optional #5 custom domain (needs user), or a new track (monetization gate, いきものログ, resume species grind). The 16 `n=0` parks are a genuine data gap (no occurrence records), unrelated to this fix.
 
 ### 2026-08-07 (Claude/Opus) — 🏗️ PRODUCTIZATION (free-tool track) #4: mobile + PWA polish — FREE-TOOL TRACK #1–#4 COMPLETE
 - **#4 DONE & committed (`0b39525`).** Safe-area insets (iOS notch/home-indicator) on header+panel; iOS meta (status-bar-style, app title) + android mobile-web-app-capable; **bigger touch targets** on ≤760 (≈34px buttons, roomier chips) + **modal → bottom sheet** on phones; **PWA install**: `beforeinstallprompt` → '📲 Install app' button in About (Android/Chrome), iOS Safari gets an A2HS hint, hidden when standalone, `appinstalled` clears it, 4-lang; **sw.js VERSION v5→v6** so returning PWA users get the new shell (added a "bump on every shell change" comment — **remember this on future shell edits**). Verified at phone viewport + iOS UA + android install-event; all 5 e2e suites pass, 0 console errors.
