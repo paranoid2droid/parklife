@@ -307,10 +307,10 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
                 conn.execute(
                     """INSERT INTO observation
                        (park_id, species_id, raw_name, months_bitmap,
-                        location_hint, characteristics, source_id)
-                       VALUES (?, ?, ?, NULL, ?, ?, ?)""",
+                        location_hint, characteristics, source_id, obs_count)
+                       VALUES (?, ?, ?, NULL, ?, ?, ?, ?)""",
                     (p["id"], sid, sci, "GBIF",
-                     f"GBIF occurrences: {info['count']}", src_id),
+                     f"GBIF occurrences: {info['count']}", src_id, info["count"]),
                 )
                 park_inserted += 1
                 total_inserted += 1

@@ -201,10 +201,10 @@ def main(prefecture_filter: str | None = None,
                     conn.execute(
                         """INSERT INTO observation
                            (park_id, species_id, raw_name, months_bitmap,
-                            location_hint, characteristics, source_id)
-                           VALUES (?, ?, ?, NULL, ?, ?, ?)""",
+                            location_hint, characteristics, source_id, obs_count)
+                           VALUES (?, ?, ?, NULL, ?, ?, ?, ?)""",
                         (p["id"], sid, raw_name, "iNaturalist (research grade)",
-                         f"observations: {count}", src_id),
+                         f"observations: {count}", src_id, count or None),
                     )
                     park_inserted += 1; total_inserted += 1
             conn.commit()

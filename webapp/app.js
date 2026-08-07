@@ -585,7 +585,9 @@ function sortSpecies(arr) {
   const a = arr.slice();
   if (sortMode === 'name') a.sort((x, y) => dispName(x).localeCompare(dispName(y)));
   else if (sortMode === 'sci') a.sort((x, y) => (x.sci || '~').localeCompare(y.sci || '~'));
-  else a.sort((x, y) => (y.oc || 0) - (x.oc || 0) || (y.sc || 0) - (x.sc || 0));
+  // 'freq' = abundance (real source-reported sightings) first, so the species a
+  // visitor actually notices lead and the single-record long tail sinks.
+  else a.sort((x, y) => (y.ab || 0) - (x.ab || 0) || (y.oc || 0) - (x.oc || 0) || (y.sc || 0) - (x.sc || 0));
   return a;
 }
 function passMonth(s) {

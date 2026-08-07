@@ -12,7 +12,7 @@
  */
 // Bump VERSION on every shell change (index.html / app.js / manifest / icons) so
 // returning PWA users' cache-first shell is replaced instead of served stale.
-const VERSION = 'parklife-v7';
+const VERSION = 'parklife-v8';
 const SHELL = ['./', './index.html', './app.js', './manifest.webmanifest',
                './icon.svg', './icon-192.png', './icon-512.png'];
 

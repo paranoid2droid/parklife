@@ -158,11 +158,11 @@ def park_detail(park_id: int) -> dict | None:
             SELECT s.id, s.scientific_name, s.common_name_ja, s.common_name_en,
                    s.taxon_group, s.kingdom, s.photo_url,
                    ps.months_bitmap, ps.observation_count, ps.source_count,
-                   ps.evidence_tier
+                   ps.evidence_tier, ps.abundance
             FROM park_species ps
             JOIN species s ON s.id = ps.species_id
             WHERE ps.park_id = ?
-            ORDER BY ps.observation_count DESC, s.scientific_name
+            ORDER BY ps.abundance DESC, ps.observation_count DESC, s.scientific_name
             """,
             (park_id,),
         ).fetchall()
@@ -183,6 +183,7 @@ def park_detail(park_id: int) -> dict | None:
                 "mb": r["months_bitmap"] or 0,
                 "oc": r["observation_count"] or 1,
                 "sc": r["source_count"] or 1,
+                "ab": r["abundance"] or 0,   # source-reported sightings; abundance/perception signal
             }
             # 'a':1 flags a weaker regional (市区町村) record; on-site is untagged
             # to keep the common case's payload small. Client hides these unless

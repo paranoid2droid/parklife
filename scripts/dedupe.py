@@ -39,7 +39,8 @@ def main() -> None:
     with db.connect(db_path) as conn:
         rows = conn.execute("""
             SELECT park_id, species_id, months_bitmap, raw_name,
-                   location_hint, characteristics, source_id, evidence_tier
+                   location_hint, characteristics, source_id, evidence_tier,
+                   obs_count
             FROM observation
             WHERE species_id IS NOT NULL
         """).fetchall()
@@ -52,6 +53,7 @@ def main() -> None:
         agg: dict[tuple[int, int], dict] = defaultdict(lambda: {
             "months": 0, "count": 0, "sources": set(),
             "raw_names": [], "loc": [], "chars": [], "tier": "admin:municipality",
+            "abundance": 0,
         })
         for r in rows:
             key = (r["park_id"], r["species_id"])
@@ -66,6 +68,11 @@ def main() -> None:
             tier = r["evidence_tier"] or "onsite"
             if TIER_RANK.get(tier, 9) < TIER_RANK.get(a["tier"], 9):
                 a["tier"] = tier
+            # abundance = strongest on-site source signal (MAX, not SUM: iNat
+            # monthly rows would otherwise multiply the same sightings). Admin
+            # rows are regional record tallies, not on-site abundance — skip.
+            if tier == "onsite" and r["obs_count"]:
+                a["abundance"] = max(a["abundance"], r["obs_count"])
 
         conn.execute("DELETE FROM park_species")
         inserted = 0
@@ -74,8 +81,8 @@ def main() -> None:
                 """INSERT INTO park_species
                    (park_id, species_id, months_bitmap, observation_count,
                     source_count, raw_names, location_hints, characteristics,
-                    evidence_tier)
-                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                    evidence_tier, abundance)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
                 (
                     pid, sid,
                     a["months"] or None,  # 0 → NULL (truly unknown vs known-no-month)
@@ -85,6 +92,7 @@ def main() -> None:
                     _join_unique(a["loc"]),
                     _join_unique(a["chars"]),
                     a["tier"],
+                    a["abundance"] or None,
                 ),
             )
             inserted += 1

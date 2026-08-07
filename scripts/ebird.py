@@ -223,12 +223,14 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
                     detail.append(f"near: {rec['locName']}")
                 if species_code:
                     detail.append(f"eBird code: {species_code}")
+                how = rec.get("howMany")
                 conn.execute(
                     """INSERT INTO observation
                        (park_id, species_id, raw_name, months_bitmap,
-                        location_hint, characteristics, source_id)
-                       VALUES (?, ?, ?, NULL, 'eBird', ?, ?)""",
-                    (p["id"], sid, raw_name, "; ".join(detail), src_id),
+                        location_hint, characteristics, source_id, obs_count)
+                       VALUES (?, ?, ?, NULL, 'eBird', ?, ?, ?)""",
+                    (p["id"], sid, raw_name, "; ".join(detail), src_id,
+                     how if isinstance(how, int) else None),
                 )
                 park_inserted += 1
                 total_inserted += 1

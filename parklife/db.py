@@ -82,7 +82,8 @@ CREATE TABLE IF NOT EXISTS observation (
     location_hint   TEXT,                    -- e.g. '池の周辺', '雑木林'
     characteristics TEXT,                    -- free-form notes from the page
     source_id       INTEGER REFERENCES source(id) ON DELETE SET NULL,
-    evidence_tier   TEXT NOT NULL DEFAULT 'onsite'  -- spatial confidence: 'onsite' (radius/scrape) | 'admin:municipality' (GBIF coord-less, matched by 市区町村)
+    evidence_tier   TEXT NOT NULL DEFAULT 'onsite',  -- spatial confidence: 'onsite' (radius/scrape) | 'admin:municipality' (GBIF coord-less, matched by 市区町村)
+    obs_count       INTEGER                          -- source-reported count of underlying sightings (iNat/GBIF/eBird); NULL/1 = single/unknown. Abundance signal.
 );
 
 CREATE INDEX IF NOT EXISTS idx_observation_park    ON observation(park_id);
@@ -102,6 +103,7 @@ CREATE TABLE IF NOT EXISTS park_species (
     location_hints    TEXT,    -- semicolon-joined unique location hints
     characteristics   TEXT,    -- semicolon-joined unique characteristics notes
     evidence_tier     TEXT NOT NULL DEFAULT 'onsite',  -- strongest tier among this pair's observations ('onsite' beats 'admin:municipality')
+    abundance         INTEGER, -- max source-reported obs_count across the pair's onsite rows; the "will a visitor perceive this" signal (NULL = unknown)
     PRIMARY KEY (park_id, species_id)
 );
 
