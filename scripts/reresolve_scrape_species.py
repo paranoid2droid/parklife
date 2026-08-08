@@ -35,7 +35,8 @@ def inat_resolve_ja(name: str) -> dict | None:
     """iNat taxon whose Japanese common name EXACTLY equals `name` and is a
     species (or below). Returns {sci, rank, obs} or None. Cached."""
     CACHE.mkdir(parents=True, exist_ok=True)
-    ck = CACHE / (urllib.parse.quote(name, safe="") + ".json")
+    import hashlib
+    ck = CACHE / (hashlib.md5(name.encode("utf-8")).hexdigest() + ".json")
     if ck.exists():
         return json.loads(ck.read_text())
     url = "https://api.inaturalist.org/v1/taxa?" + urllib.parse.urlencode(
