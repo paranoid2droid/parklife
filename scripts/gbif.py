@@ -120,11 +120,17 @@ def cache_path(slug: str, prefecture: str) -> Path:
     return ROOT / "data" / "cache" / "gbif" / f"{prefecture}__{slug}.json"
 
 
-def fetch_park(slug: str, prefecture: str, lat: float, lon: float) -> tuple[str, list[dict]]:
-    """Return ("cache"|"network", list_of_occurrence_records)."""
+def fetch_park(slug: str, prefecture: str, lat: float, lon: float,
+               refresh: bool = False) -> tuple[str, list[dict]]:
+    """Return ("cache"|"network", list_of_occurrence_records).
+
+    refresh=True bypasses the cache read and re-fetches from GBIF — needed to
+    capture individualCount (survey abundance), which older cache files were
+    slimmed without. On success the cache is overwritten with the new whitelist.
+    """
     cp = cache_path(slug, prefecture)
     cp.parent.mkdir(parents=True, exist_ok=True)
-    if cp.exists():
+    if cp.exists() and not refresh:
         return ("cache", json.loads(cp.read_text(encoding="utf-8")))
 
     geo = f"{lat},{lon},{RADIUS_KM}km"
@@ -251,7 +257,8 @@ def insert_source(conn, park_id: int, prefecture: str, slug: str, url: str) -> i
     return row["id"] if row else 0
 
 
-def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> int:
+def main(prefecture_filter: str | None = None, max_parks: int | None = None,
+         refresh: bool = False) -> int:
     db_path = ROOT / "data" / "parklife.db"
     with db.connect(db_path) as conn:
         sql = ("SELECT id, slug, prefecture, lat, lon, name_ja FROM park "
@@ -272,7 +279,7 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
 
     with db.connect(db_path) as conn:
         for i, p in enumerate(parks, 1):
-            src, occurrences = fetch_park(p["slug"], p["prefecture"], p["lat"], p["lon"])
+            src, occurrences = fetch_park(p["slug"], p["prefecture"], p["lat"], p["lon"], refresh=refresh)
             if src == "cache":
                 cache_hits += 1
             else:
@@ -317,6 +324,16 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
                     (p["id"], sid),
                 ).fetchone()
                 if existing:
+                    if refresh:
+                        # re-pull: refresh the rich fields on the existing row
+                        # (captures individualCount, updates recency/observers)
+                        conn.execute(
+                            """UPDATE observation SET obs_count=?, last_year=?,
+                               observer_count=?, individual_count=? WHERE id=?""",
+                            (info["count"], info["last_year"],
+                             len(info["observers"]) or None,
+                             info["individual_count"], existing["id"]),
+                        )
                     continue
                 conn.execute(
                     """INSERT INTO observation
@@ -344,6 +361,8 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
 
 
 if __name__ == "__main__":
-    pref = next((a for a in sys.argv[1:] if not a.isdigit()), None)
-    cap = next((int(a) for a in sys.argv[1:] if a.isdigit()), None)
-    sys.exit(main(prefecture_filter=pref, max_parks=cap))
+    args = [a for a in sys.argv[1:] if a != "--refresh"]
+    refresh = "--refresh" in sys.argv[1:]
+    pref = next((a for a in args if not a.isdigit()), None)
+    cap = next((int(a) for a in args if a.isdigit()), None)
+    sys.exit(main(prefecture_filter=pref, max_parks=cap, refresh=refresh))
