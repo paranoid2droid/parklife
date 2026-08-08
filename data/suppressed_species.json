@@ -98,5 +98,30 @@
   "ja": "ヤエザクラ",
   "sci": null,
   "reason": "scrape-uncorroborated-no-ja-match"
+ },
+ "2503": {
+  "ja": "ビスカッチャ",
+  "sci": "Lagostomus maximus",
+  "reason": "review-suppress-noise"
+ },
+ "211": {
+  "ja": "シャクナゲ",
+  "sci": "R.arborea",
+  "reason": "review-suppress-noise"
+ },
+ "350": {
+  "ja": "バラ",
+  "sci": "Rosa alba",
+  "reason": "review-suppress-noise"
+ },
+ "433": {
+  "ja": "モンステラ属",
+  "sci": "Monstera adansonii",
+  "reason": "review-suppress-noise"
+ },
+ "473": {
+  "ja": "ルピナス属",
+  "sci": "L. hirsutus",
+  "reason": "review-suppress-noise"
  }
 }
