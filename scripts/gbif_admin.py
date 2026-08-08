@@ -34,7 +34,10 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
 GBIF = "https://api.gbif.org/v1"
 CACHE = ROOT / "data" / "cache" / "gbif_admin"
-MAX_REC = 3000            # cap coord-less pull per species (common ones have thousands)
+MAX_REC = 600             # cap coord-less pull per species: 2 pages is plenty to find
+                          # the municipalities where a species is well-attested; the
+                          # long tail of 1-record municipalities is low-value regional
+                          # noise anyway. (3000 made each common species ~10 pages -> ~5x slower.)
 PAGE = 300
 
 
