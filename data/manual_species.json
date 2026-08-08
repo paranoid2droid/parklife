@@ -70,6 +70,7 @@
   "ナノハナ":                { "scientific_name": "Brassica rapa var. nippo-oleifera", "kingdom": "plantae", "taxon_group": "herb" },
   "ニオイウツギ":            { "scientific_name": "Weigela coraeensis",           "kingdom": "plantae", "taxon_group": "shrub" },
   "ニホントビナナフシ":        { "scientific_name": "Micadina phluctainoides",     "kingdom": "animalia", "taxon_group": "insect" },
+  "ナナフシ":               { "scientific_name": "Ramulus mikado",              "kingdom": "animalia", "taxon_group": "insect" },
   "ノササゲ":                { "scientific_name": "Dumasia truncata",             "kingdom": "plantae", "taxon_group": "herb" },
   "ハチジョウアザミ":         { "scientific_name": "Cirsium hachijoense",         "kingdom": "plantae", "taxon_group": "herb" },
   "ハチジョウキブシ":         { "scientific_name": "Stachyurus praecox var. macrocarpus", "kingdom": "plantae", "taxon_group": "shrub" },
