@@ -37,6 +37,18 @@ def main() -> None:
     db_path = ROOT / "data" / "parklife.db"
     db.init(db_path)  # ensure park_species table exists
     with db.connect(db_path) as conn:
+        # Species too microscopic to be a park "sighting" — kept in `observation`
+        # for provenance but never surfaced in the clean park_species listing.
+        # Bacteria/viruses/archaea are always dropped; protozoa/chromista only
+        # when they lack a Japanese vernacular (so slime molds ススホコリ and
+        # seaweeds ワカメ/ヒジキ, which DO have one, stay).
+        noise = {r[0] for r in conn.execute("""
+            SELECT id FROM species WHERE
+                kingdom IN ('bacteria','viruses','archaea')
+                OR (kingdom IN ('protozoa','chromista')
+                    AND (common_name_ja IS NULL OR common_name_ja=''))
+        """)}
+
         rows = conn.execute("""
             SELECT park_id, species_id, months_bitmap, raw_name,
                    location_hint, characteristics, source_id, evidence_tier,
@@ -56,6 +68,8 @@ def main() -> None:
             "abundance": 0,
         })
         for r in rows:
+            if r["species_id"] in noise:
+                continue
             key = (r["park_id"], r["species_id"])
             a = agg[key]
             a["months"] |= (r["months_bitmap"] or 0)
