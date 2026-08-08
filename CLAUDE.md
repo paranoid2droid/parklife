@@ -127,7 +127,7 @@ A note on disambiguation: common-word entries (フジ, ボケ, モミジ, サク
 ### Provenance vs deduplication: `observation` vs `park_species`
 
 - **`observation`** is append-only. Each row records a single sighting from a single source (TMG flora list, iNat species_counts, iNat monthly query, etc.). Rows for the same park-species pair from different sources coexist — that's how we keep provenance. `where ソメイヨシノ` against `observation` would show duplicates.
-- **`park_species`** is a derived table built by `scripts.dedupe`: one row per (park_id, species_id) with `months_bitmap` OR'd across sources, and `raw_names` / `location_hints` / `characteristics` joined. This is what queries and exports should consume by default.
+- **`park_species`** is a derived table built by `scripts.dedupe`: one row per (park_id, species_id) with `months_bitmap` OR'd across sources, and `raw_names` / `location_hints` / `characteristics` joined. Also carries `evidence_tier` (strongest of onsite/admin:municipality) and `abundance` (max source-reported obs_count on the onsite rows — the perception/ranking signal). This is what queries and exports should consume by default. **dedupe drops non-perceivable microbes** (bacteria/viruses/archaea always; protozoa/chromista only when they lack a JA vernacular — so slime molds/seaweeds stay); the raw rows remain in `observation` for provenance.
 
 Rule of thumb:
 - "How did we know X is at park Y?" → query `observation` (provenance).
