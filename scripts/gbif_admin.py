@@ -43,9 +43,39 @@ def _get(url: str) -> dict:
     return json.load(urllib.request.urlopen(req, timeout=60))
 
 
+_TK_CACHE = CACHE / "_taxonkeys.json"   # {scientific_name: usageKey or 0}
+_tk: dict | None = None
+_tk_dirty = 0
+
+
+def _tk_load() -> dict:
+    global _tk
+    if _tk is None:
+        _tk = json.loads(_TK_CACHE.read_text()) if _TK_CACHE.exists() else {}
+    return _tk
+
+
+def _tk_save(force: bool = False) -> None:
+    global _tk_dirty
+    if _tk is None:
+        return
+    _tk_dirty += 1
+    if force or _tk_dirty % 100 == 0:
+        CACHE.mkdir(parents=True, exist_ok=True)
+        _TK_CACHE.write_text(json.dumps(_tk, ensure_ascii=False))
+
+
 def taxon_key(sci: str) -> int | None:
+    """sci -> GBIF usageKey, cached on disk so resume skips already-matched species
+    without a live API call (0 = no match, also cached)."""
+    tk = _tk_load()
+    if sci in tk:
+        return tk[sci] or None
     d = _get(f"{GBIF}/species/match?" + urllib.parse.urlencode({"name": sci}))
-    return d.get("usageKey") if d.get("matchType") != "NONE" else None
+    key = d.get("usageKey") if d.get("matchType") != "NONE" else None
+    tk[sci] = key or 0
+    _tk_save()
+    return key
 
 
 def coordless_pairs(sci: str) -> dict[tuple[str, str], int] | None:
@@ -171,6 +201,7 @@ def main() -> int:
                 print(f"  [{i}/{len(species)}] {sci[:34]:34} {s['common_name_ja'] or '':10} "
                       f"-> {len(parks_for_species):>3} parks")
 
+    _tk_save(force=True)
     print(f"\n=== gbif_admin done ({'DRY-RUN' if args.dry_run else 'written'}) ===")
     print(f"  species with ≥1 admin park: {tot_species_hit}")
     print(f"  observations inserted: {tot_obs}")
