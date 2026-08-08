@@ -59,7 +59,7 @@ def main() -> None:
         rows = conn.execute("""
             SELECT park_id, species_id, months_bitmap, raw_name,
                    location_hint, characteristics, source_id, evidence_tier,
-                   obs_count
+                   obs_count, last_year, observer_count, individual_count
             FROM observation
             WHERE species_id IS NOT NULL
         """).fetchall()
@@ -72,7 +72,7 @@ def main() -> None:
         agg: dict[tuple[int, int], dict] = defaultdict(lambda: {
             "months": 0, "count": 0, "sources": set(),
             "raw_names": [], "loc": [], "chars": [], "tier": "admin:municipality",
-            "abundance": 0,
+            "abundance": 0, "indiv": 0, "last_year": None, "observers": 0,
         })
         for r in rows:
             if r["species_id"] in noise:
@@ -94,6 +94,12 @@ def main() -> None:
             # rows are regional record tallies, not on-site abundance — skip.
             if tier == "onsite" and r["obs_count"]:
                 a["abundance"] = max(a["abundance"], r["obs_count"])
+            if tier == "onsite" and r["individual_count"]:
+                a["indiv"] = max(a["indiv"], r["individual_count"])
+            if r["last_year"] and (a["last_year"] is None or r["last_year"] > a["last_year"]):
+                a["last_year"] = r["last_year"]
+            if r["observer_count"]:
+                a["observers"] = max(a["observers"], r["observer_count"])
 
         conn.execute("DELETE FROM park_species")
         inserted = 0
@@ -102,8 +108,8 @@ def main() -> None:
                 """INSERT INTO park_species
                    (park_id, species_id, months_bitmap, observation_count,
                     source_count, raw_names, location_hints, characteristics,
-                    evidence_tier, abundance)
-                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+                    evidence_tier, abundance, last_year, observer_count)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
                 (
                     pid, sid,
                     a["months"] or None,  # 0 → NULL (truly unknown vs known-no-month)
@@ -113,7 +119,11 @@ def main() -> None:
                     _join_unique(a["loc"]),
                     _join_unique(a["chars"]),
                     a["tier"],
-                    a["abundance"] or None,
+                    # prefer survey individual counts (モニタリングサイト1000 etc.) as
+                    # the abundance signal; fall back to occurrence count.
+                    (a["indiv"] or a["abundance"]) or None,
+                    a["last_year"],
+                    a["observers"] or None,
                 ),
             )
             inserted += 1

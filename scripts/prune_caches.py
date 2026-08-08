@@ -69,6 +69,7 @@ GBIF_OCC_KEYS = (
     "species", "scientificName", "vernacularName",
     "kingdom", "phylum", "class", "order", "family",
     "decimalLatitude", "decimalLongitude", "recordedBy", "eventDate",
+    "individualCount",   # GBIF survey counts (モニタリングサイト1000 etc.) = true abundance
 )
 GBIF_MEDIA_KEYS = (
     "identifier", "references", "type", "format",

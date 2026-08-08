@@ -192,9 +192,23 @@ def aggregate_species(occurrences: list[dict]) -> dict[int, dict]:
                 "taxon_group": tg,
                 "vernacular": occ.get("vernacularName") or None,
                 "count": 1,
+                "observers": set(), "last_year": None, "individual_count": None,
             }
+            info = out[sk]
         else:
             info["count"] += 1
+        # rich fields: recency, observer diversity, survey abundance
+        rb = occ.get("recordedBy")
+        if rb:
+            info["observers"].add(rb)
+        ed = occ.get("eventDate")
+        if ed and len(ed) >= 4 and ed[:4].isdigit():
+            yr = int(ed[:4])
+            if info["last_year"] is None or yr > info["last_year"]:
+                info["last_year"] = yr
+        ic = occ.get("individualCount")
+        if isinstance(ic, int) and (info["individual_count"] is None or ic > info["individual_count"]):
+            info["individual_count"] = ic
     return out
 
 
@@ -307,10 +321,13 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
                 conn.execute(
                     """INSERT INTO observation
                        (park_id, species_id, raw_name, months_bitmap,
-                        location_hint, characteristics, source_id, obs_count)
-                       VALUES (?, ?, ?, NULL, ?, ?, ?, ?)""",
+                        location_hint, characteristics, source_id, obs_count,
+                        last_year, observer_count, individual_count)
+                       VALUES (?, ?, ?, NULL, ?, ?, ?, ?, ?, ?, ?)""",
                     (p["id"], sid, sci, "GBIF",
-                     f"GBIF occurrences: {info['count']}", src_id, info["count"]),
+                     f"GBIF occurrences: {info['count']}", src_id, info["count"],
+                     info["last_year"], len(info["observers"]) or None,
+                     info["individual_count"]),
                 )
                 park_inserted += 1
                 total_inserted += 1
