@@ -48,6 +48,13 @@ def main() -> None:
                 OR (kingdom IN ('protozoa','chromista')
                     AND (common_name_ja IS NULL OR common_name_ja=''))
         """)}
+        # plus species flagged by scripts.audit_scrape_only / reresolve_scrape_species
+        # (scrape-derived, no iNat/GBIF corroboration, no valid re-map) — kept in
+        # `observation` for provenance, excluded from the clean listing.
+        _sup = ROOT / "data" / "suppressed_species.json"
+        if _sup.exists():
+            import json as _json
+            noise |= {int(k) for k in _json.loads(_sup.read_text())}
 
         rows = conn.execute("""
             SELECT park_id, species_id, months_bitmap, raw_name,
