@@ -123,5 +123,10 @@
   "ja": "ルピナス属",
   "sci": "L. hirsutus",
   "reason": "review-suppress-noise"
+ },
+ "15124": {
+  "ja": "アンテキヌス",
+  "sci": "Antechinus leo",
+  "reason": "foreign-zoo-marsupial"
  }
 }
