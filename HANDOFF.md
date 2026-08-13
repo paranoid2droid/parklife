@@ -24,6 +24,8 @@ Shared between Claude Code and Codex (and any other agent the user adds). This f
 
 ## Status
 
+**🚀 2026-08-13 (Claude/Opus) — DEPLOYED. zh coverage 43.6%→49.9%.** New `scripts/fetch_inat_zh_names.py` (iNat `locale=zh-CN`, fail-closed) added **+1,518 visible-species Chinese names** → gh-pages `2fc1828` (live 200), script on main `543f364`. DB backup `bak_pre_inat_zh`; reversible via `DELETE FROM species_alias WHERE status LIKE 'inat-zh%'`. Also closed the いきものログ TODO-churn (it was DECIDED-SKIP 2026-08-08 but kept getting re-proposed). See top Recent-sessions entry.
+
 **🚀 2026-08-11 (Claude/Opus) — DEPLOYED. gh-pages now current.** Ran `dedupe` (861,239 park_species rows; applied マアナゴ→Haliotis ovina suppression) → `deploy_pages.sh` (export_static rebuilt `site/`, 5058 files, orphan force-push `c1a8738`→`9c211dc` to origin/gh-pages) → live HTTP 200. Also `git push origin main` (backup, `…→f992940`). Live site now carries: this session's ~1050 profiles + recovery track (92.3% named-pool coverage; 17,312/24,298 exported species have a `pr` profile), admin:municipality tier + abundance + rich fields (individualCount/observer/last_year), and the マアナゴ suppression. NOTE discovered during verify: some R1 "recovered" flagship birds (ヒヨドリ etc.) were **already** DB-profiled from an earlier session — my residue-scan keyed on sidecar keys not the `species_profile` table, so it re-flagged already-covered species (harmless; seed keeps existing DB rows). The **tail-158** were correctly DB-filtered, so those are genuinely new.
 
 **✅ 2026-08-10 (Claude/Opus) — PROFILING: weak-gate "exhaustion" was WRONG; STRONGER GATE recovered the commonest species in Japan. + AUTONOMOUS DATA PIPELINE COMPLETED.**
@@ -121,21 +123,21 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
    - `.venv/bin/python -m scripts.fix_romaji_ja_names` — rescues ASCII-prefix `common_name_ja` placeholders via iNat `locale=ja`; preserves romaji form as ja alias. **Last run 2026-06-17:** iNat had no ja-name for the 2 it flagged, but a manual sweep found **5 romaji-prefix unprofiled species** (the np-query had always excluded ASCII-prefix names): renamed+profiled 4 in A234 (Pedinotrichia parallela→オオクロコガネ **np=15**, Polyphylla laticollis→ヒゲコガネ, Crepidiastrum nakaii→ヤクシワダン, Fibularia coffea→コーヒーマメウニ; romaji kept as ja alias), deleted the 5th (Streptococcus agalactiae, Group-B strep, out-of-scope). **0 romaji-prefix species remain.** New iNat ingestion re-introduces these — re-sweep with `SUBSTR(common_name_ja,1,1) BETWEEN 'A' AND 'Z'`.
    - Both have `--dry-run`; run after eBird/GBIF/iNat enrichment passes.
 
-3. **いきものログ ingest (env.go.jp)** *(not started — the ONLY remaining external-data source; low priority)*
-   - **Context: eBird + GBIF occurrence + GBIF vernacular are ALL DONE & ingested** (verified 2026-06-20, see Status — GBIF is the largest source at 9,170 species). いきものログ is the last unstarted piece of the old "external enrichment" TODO.
-   - Japan MoE platform, all taxa, gov-curated. No public API; bulk CSV ingest. eBird + GBIF + iNat already cover the bulk of what's reachable; this would add rarer / locally-restricted records and validate edge cases.
+3. **いきものログ ingest — ❌ DECIDED: SKIP (2026-08-08, evaluated & closed). Do NOT re-add as an open option.**
+   - **Verdict (see Recent sessions 2026-08-08):** its high-value systematic data (モニタリングサイト1000 = Satoyama Birds 103k / Mammals 25k, with coords + individualCount) is **already on GBIF**, which we ingest by radius (~51% of a sample fell within 3 km of a park). Only pure citizen reports are いきものログ-exclusive; access is a WAF (curl TLS reset) + a multi-step questionnaire that currently errors server-side. License is fine (PDL1.0) but **not worth it**. Instead of scraping, that session added GBIF rich-field ingestion (individualCount/observer/last_year) — that was the better payoff.
+   - **This is a closed decision, not a backlog item.** Only re-open if the user explicitly asks, or if いきものログ ships a real API. Don't list it under "NEXT: …" menus.
 
 4. **TMG SPA parking parse via scrapling** *(deferred, low priority)*
    - 32 `tokyo-park.or.jp/park/<slug>/index.html` URLs are JS-rendered SPA shells. Current `scripts/extract_parking.py` + `scripts/reclassify_parking.py` fail on them (stub returns 0 text). Would need `scrapling install` (~200 MB Chromium). Not worth the dependency for 32 parks alone.
 
 ### Follow-ups (defer until needed)
 
-- **Chinese name coverage** *(10,585 / 24,295 visible = 43.6% as of 2026-08-13 — the % dropped from the old 83.1% because the admin ingest + 地区公園 expansion added ~14.7k obscure GBIF marine/insect visible species that lack zh; the absolute zh count kept rising)*
-  - **2026-08-13 (Claude): +33 hand-curated zh (zh-Hans+zh-Hant via OpenCC), highest-np confident species only** — 13 birds (喜鹊/大白鹭/攀雀/黄腰柳莺/领角鸮…), 7 widespread butterflies (灿福蛱蝶/玄灰蝶/史氏绢蝶…), 13 fish+1 toad (刺鲳/白姑鱼/五条鰤/短尾大眼鲷/星点多纪鲀…). Method: `scratchpad/add_zh_{birds,butterflies,fish}.py` — fail-closed ja-verification before INSERT into `species_alias`, skip if row gone / ja changed / zh already present. `opencc-python-reimplemented` installed in venv (pure-python; the documented s2t tool). Deployed (gh-pages `18a2db6`, live 200, 喜鹊 in search-index).
-  - **Remaining ~13.7k missing zh are dominated by obscure GBIF marine mollusks / leafcutter bees / ground beetles / Japanese-endemic hairstreaks with NO unambiguous standard CN name** — do NOT fabricate (memory warning). Next confident pockets if wanted: more fish, common odonata (needs verification), reptiles. The top-np list is now mostly un-nameable tail.
-  - Manual curation for high-frequency species still missing zh — `query top --group X` and seed `species_profile` zh fields directly. Most impact per hour of work.
+- **Chinese name coverage** *(12,123 / 24,295 visible = 49.9% as of 2026-08-13 after the iNat zh pass below; was 43.6%)*
+  - **2026-08-13 (Claude): +1,518 zh via NEW `scripts/fetch_inat_zh_names.py` (iNat `locale=zh-CN`).** Mirrors `fetch_inat_ja_names.py`: pulls iNat's curated simplified-Chinese `preferred_common_name` for tid-bearing visible species with no zh alias. **Fail-closed identity gate** (iNat `results[tid].name` must == our `scientific_name`, caught 166 stale/wrong tids), rejects kana (Japanese fallbacks) + Han-echoes of the ja name, collision-guarded, zh-Hant via OpenCC. Inserts `status='inat-zh'`/`'inat-zh-hant'` → reversible in one `DELETE FROM species_alias WHERE status LIKE 'inat-zh%'`. Cached under `data/cache/inat_zh/`. **Sourced from iNat, NOT fabricated** — this cracked the "un-nameable tail" (obscure GBIF mollusks/leafcutter-bees/spiders DO have iNat zh names: 蔷薇切叶蜂 np=401, 红树拟蟹守螺 381, 铜绿金光伪蜻 263…). DB backup `data/parklife.db.bak_pre_inat_zh`. Maintenance dry-runs clean. **Deployed (gh-pages `2fc1828`, live 200) + script pushed to main (`543f364`).** To extend: re-run after new iNat/GBIF ingestion (idempotent), or point it at the 5,453 no-tid candidates via `ensure_inat_taxon` first.
+  - **2026-08-13 (Claude): +33 hand-curated zh (zh-Hans+zh-Hant via OpenCC), highest-np confident species only** — 13 birds (喜鹊/大白鹭/攀雀…), 7 butterflies, 13 fish+1 toad. Method: fail-closed ja-verification before INSERT into `species_alias`. `opencc-python-reimplemented` in venv (s2t).
+  - **Remaining ~12.2k missing zh** = the no-tid tail (5,453 have no `inat_taxon_id` so the iNat pass can't reach them) + species iNat has no zh for (1,181 skipped this pass). Do NOT fabricate (memory warning). Next lever: run `ensure_inat_taxon` (⚠️ fix the `best_match` `results[0]` bug first, see Photo-gallery follow-up) to give no-tid species a tid, THEN re-run `fetch_inat_zh_names`.
+  - Manual curation for high-frequency species still missing zh — `query top --group X` and seed `species_profile` zh fields directly.
   - Try newer sp2000 release when published (current is `chinacol2023`).
-  - iNaturalist `?locale=zh-CN` taxon names for high-traffic taxa not in CoL China.
   - Keep raw aliases first-class in `species_alias` (lang=`zh-Hans`/`zh-Hant`); never overwrite Japanese names. Avoid English-Wikipedia-title backfill (tested 2026-05-02, unsafe).
 
 - **Park coverage beyond P13** *(post-`e1f93b2`, 461 parks)*
@@ -168,6 +170,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 - **Cheap feasibility probes to run first:** (a) iNat photo license distribution (how many survive a commercial filter); (b) 国土数値情報 都市公園 schema check.
 
 ## Recent sessions
+
+### 2026-08-13 (Claude/Opus) — 🇨🇳 zh coverage 43.6%→49.9% via iNat locale=zh-CN + closed the いきものログ churn
+- **NEW `scripts/fetch_inat_zh_names.py`** (iNat `locale=zh-CN`, fail-closed identity gate, kana/echo reject, collision-guard, zh-Hant via OpenCC, `status='inat-zh'` reversible). **+1,518 visible species got Chinese names** (12,123/24,295 = 49.9%). Cracked the supposed "un-nameable tail" — iNat curators DO have zh for the obscure GBIF mollusks/bees/spiders (蔷薇切叶蜂 np=401…). Non-fabricated. DB backup `data/parklife.db.bak_pre_inat_zh`; maintenance dry-runs clean. **Deployed gh-pages `2fc1828` (live 200); script pushed to main `543f364`.** Full detail in the "Chinese name coverage" follow-up.
+- **Process fix (user flagged inefficiency):** いきものログ was **already evaluated & DECIDED-SKIP on 2026-08-08** (its high-value data is on GBIF) but stayed listed as an open "NEXT:" option, so a fresh /clear re-proposed it. Rewrote Active #3 → **❌ CLOSED-SKIP, not a backlog item** + purged it from the productization memo / MEMORY.md / todos so it stops resurfacing.
+- **Next zh lever:** fix `ensure_inat_taxon` `best_match` bug → assign tids to the 5,453 no-tid candidates → re-run `fetch_inat_zh_names`.
 
 ### 2026-08-12 (Claude/Opus) — ✅ hand-curated the 3 janame mismatches + relaunched gbif_admin animalia full
 - **Closed the `data/janame_review.json` hand-curation** the 08-09 session deferred (annotated in-file with per-row `resolution`). DB backup `data/parklife.db.bak_pre_janame_20260812`. Used `scripts.merge_species_pair`:
