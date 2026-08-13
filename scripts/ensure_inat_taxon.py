@@ -54,26 +54,47 @@ def lookup(query: str, locale: str = "en") -> tuple[dict | None, bool]:
 
 
 def best_match(data: dict, sci: str | None, ja: str | None) -> dict | None:
+    """Return the iNat result that is CONFIDENTLY our species, or None.
+
+    Fail-closed: an unmatched query means "not confidently on iNat", NOT
+    "take the top hit". The old ``results[0]`` fallback silently assigned the
+    top search hit — a WRONG taxon (and its default photo) for obscure GBIF-only
+    species that merely share a substring — which injected ~135 bad tids in the
+    2026-06-27 photo run. A bare genus-prefix match had the same failure mode
+    (it grabbed an unrelated congener), so it is tightened to genus+epithet.
+    """
     if not data:
         return None
     results = data.get("results") or []
-    # exact name match wins
-    for r in results:
-        if sci and r.get("name") and r["name"].lower() == sci.lower():
-            return r
-    # any partial sci-name match (e.g., subspecies) — accept if first word matches genus
+    if not results:
+        return None
+    # 1) exact scientific-name match wins
     if sci:
-        genus = sci.split()[0].lower()
         for r in results:
-            if r.get("name", "").lower().startswith(genus):
+            if r.get("name") and r["name"].lower() == sci.lower():
                 return r
-    # match by ja vernacular
-    if ja:
-        for r in results:
-            for v in (r.get("preferred_common_name"), r.get("matched_term")):
-                if v and v == ja:
+    # 2) infraspecific match: the result must share the SAME genus+epithet
+    #    (a subspecies/variety of our species), not merely the genus.
+    if sci:
+        toks = sci.lower().split()
+        if len(toks) >= 2:
+            prefix = f"{toks[0]} {toks[1]}"
+            for r in results:
+                nm = (r.get("name") or "").lower()
+                if nm == prefix or nm.startswith(prefix + " "):
                     return r
-    return results[0] if results else None
+        elif len(toks) == 1:  # our record is genus-level
+            for r in results:
+                if (r.get("name") or "").lower() == toks[0]:
+                    return r
+    # 3) match by ja vernacular ONLY when it uniquely identifies one result
+    if ja:
+        ja_hits = [r for r in results
+                   if ja in (r.get("preferred_common_name"), r.get("matched_term"))]
+        if len(ja_hits) == 1:
+            return ja_hits[0]
+    # NO results[0] fallback — refuse to guess.
+    return None
 
 
 def main(limit: int | None = None, missing_photo: bool = False) -> int:

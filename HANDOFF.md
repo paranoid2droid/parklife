@@ -78,7 +78,14 @@ Project is in maintenance + enrichment mode. **🌏 NATIONWIDE EXPANSION COMPLET
 
 ## Blocked / waiting
 
-*(none currently)*
+**⏳ 2026-08-13 (Claude) — zh-expansion round 2 RUNNING in background (nohup, NOT harness-tracked; my trackers kept getting env-killed).**
+- **What's running:** `scripts.ensure_inat_taxon` (pid was 6001) assigns CORRECT iNat tids to the 5,453 no-tid visible katakana-named species (best_match bug now fixed — commit pending). A chained `scratchpad/chain_zh.sh` (pid was 6542) waits for it to exit, then auto-runs `scripts.fetch_inat_zh_names` to turn the new tids into zh names. Progress at last check: **2,765 new tids**.
+- **RESUME when done** (chain writes `ALL DONE` to `scratchpad/chain_zh.log`; if scratchpad is gone, check `sqlite3 data/parklife.db "SELECT COUNT(*) FROM species_alias WHERE status='inat-zh'"` > 1518):
+  1. Verify: `merge_duplicate_species --dry-run` clean; 0 kana leaks / echoes (queries in the 08-13 zh commit).
+  2. `export_static` → confirm a new zh name in `site/data/search-index.json`.
+  3. `SKIP_BUILD=1 scripts/deploy_pages.sh` + `git push origin main`; curl gh-pages 200.
+  4. Update the "Chinese name coverage" follow-up + prepend a Recent-sessions entry with final zh count.
+- **If processes died early:** just re-run `.venv/bin/python -m scripts.ensure_inat_taxon` (idempotent, cached) then `.venv/bin/python -m scripts.fetch_inat_zh_names`. DB backups: `bak_pre_ensure_tid`, `bak_pre_inat_zh`. **⚠️ commit the `ensure_inat_taxon.py` best_match fix (working-tree edit, not yet committed).**
 
 ## Next up
 
