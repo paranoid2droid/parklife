@@ -130,7 +130,9 @@ Active TODOs only. Shipped items are pruned to git log + Recent sessions. Pick f
 
 ### Follow-ups (defer until needed)
 
-- **Chinese name coverage** *(7,963 / 9,577 visible species have a zh alias = 83.1%, verified 2026-06-20 — much higher than the old 4,948 figure thanks to the GBIF vernacular pass)*
+- **Chinese name coverage** *(10,585 / 24,295 visible = 43.6% as of 2026-08-13 — the % dropped from the old 83.1% because the admin ingest + 地区公園 expansion added ~14.7k obscure GBIF marine/insect visible species that lack zh; the absolute zh count kept rising)*
+  - **2026-08-13 (Claude): +33 hand-curated zh (zh-Hans+zh-Hant via OpenCC), highest-np confident species only** — 13 birds (喜鹊/大白鹭/攀雀/黄腰柳莺/领角鸮…), 7 widespread butterflies (灿福蛱蝶/玄灰蝶/史氏绢蝶…), 13 fish+1 toad (刺鲳/白姑鱼/五条鰤/短尾大眼鲷/星点多纪鲀…). Method: `scratchpad/add_zh_{birds,butterflies,fish}.py` — fail-closed ja-verification before INSERT into `species_alias`, skip if row gone / ja changed / zh already present. `opencc-python-reimplemented` installed in venv (pure-python; the documented s2t tool). Deployed (gh-pages `18a2db6`, live 200, 喜鹊 in search-index).
+  - **Remaining ~13.7k missing zh are dominated by obscure GBIF marine mollusks / leafcutter bees / ground beetles / Japanese-endemic hairstreaks with NO unambiguous standard CN name** — do NOT fabricate (memory warning). Next confident pockets if wanted: more fish, common odonata (needs verification), reptiles. The top-np list is now mostly un-nameable tail.
   - Manual curation for high-frequency species still missing zh — `query top --group X` and seed `species_profile` zh fields directly. Most impact per hour of work.
   - Try newer sp2000 release when published (current is `chinacol2023`).
   - iNaturalist `?locale=zh-CN` taxon names for high-traffic taxa not in CoL China.
@@ -166,6 +168,16 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 - **Cheap feasibility probes to run first:** (a) iNat photo license distribution (how many survive a commercial filter); (b) 国土数値情報 都市公園 schema check.
 
 ## Recent sessions
+
+### 2026-08-12 (Claude/Opus) — ✅ hand-curated the 3 janame mismatches + relaunched gbif_admin animalia full
+- **Closed the `data/janame_review.json` hand-curation** the 08-09 session deferred (annotated in-file with per-row `resolution`). DB backup `data/parklife.db.bak_pre_janame_20260812`. Used `scripts.merge_species_pair`:
+  - **ヤマガラ**: merged 3 synonym rows → `Sittiparus varius`(7139, accepted). `Poecile varius`(3111) was mislabeled **オーストンヤマガラ** (that 和名 = *Sittiparus owstoni*); purged its owstoni-specific aliases first, then merged 3111+`Parus varius`(14456) in. obs 2765.
+  - **カルガモ**: merged `Anas poecilorhyncha`(3042, インドカルガモ s.s., not wild in JP) → `Anas zonorhyncha`(579, accepted JP カルガモ); the 1048 records were old-broad-concept eastern カルガモ. obs 5447.
+  - **ニイニイゼミ**: NO CHANGE — false positive (`Platypleura kaempferi` is correct; iNat's `Planopleura` is a genus-spelling variant).
+- **`gbif_admin --kingdom animalia` FULL — DONE** via `scratch_run_admin.sh` (nohup, direct — NOT the queue, so no 4h TASK_TIMEOUT that killed the earlier 922/14835 partial). Chain rc=0: gbif_admin(14942 spp) → dedupe → export_static (12:25–12:27 UTC). **park_species 861,239 → 926,929 (+65,690); admin:municipality tier now 474,022 pairs** (huge coordinate-less animal-museum-specimen recovery, now > onsite 452,907; still behind the webapp opt-in toggle, headline counts onsite only). Merges folded in & stable post-dedupe.
+- **DEPLOY auto-running** via `scratch_deploy_after.sh` (nohup detached — user opted into auto-deploy-on-completion). It waited for `ALL DONE` then ran `SKIP_BUILD=1 scripts/deploy_pages.sh`; built orphan commit `0ee16e7` (5058 files), force-push to origin/gh-pages **in progress** (large push, throttle-prone per past notes — may retry). **Verify: `tail data/deploy_after.log` for `DEPLOY OK`, then curl gh-pages for HTTP 200.** If the push timed out, re-run `SKIP_BUILD=1 scripts/deploy_pages.sh`.
+- **NOTE:** `data/janame_review.json` only had the top-np 3 flagged (the 08-09 scan was np-ordered/limited); the long tail was not fully scanned. A full `scripts.fix_janame_mismatches.py` re-scan (iNat call per visible species, ~hours, cached) could surface more — deferred, low yield.
+- **Scratch files left (untracked, safe to delete):** `scratch_run_admin.sh`, `scratch_wait_admin.sh`, `scratch_deploy_after.sh`, `data/gbif_admin_full.log`, `data/deploy_after.log`. DB backup `data/parklife.db.bak_pre_janame_20260812`.
 
 ### 2026-08-09 (Claude/Opus) — 🧬 profiling resume → found backlog is contaminated; mismatch auto-fix proven unviable
 - **Resumed profiling with a quality gate** (iNat-ja verify before profiling): +14 verified species (sidecar 15632, batches 1-2 committed). But discovered the remaining ~3130-species backlog is **~60-85% mis-maps/unconfirmable** (top-50-by-np: 19 confirmed; next np=1 block: ~1/7) — the residue prior passes correctly skipped. Profiling it is low-value; flagged to user.

@@ -1,0 +1,28 @@
+[
+ {
+  "id": 3111,
+  "sci": "Poecile varius",
+  "ja": "オーストンヤマガラ",
+  "ja_belongs_to": "Sittiparus owstoni",
+  "inat_sci_ja": null,
+  "np": 1157,
+  "resolution": "FIXED 2026-08-12 (Claude). Genuine mis-attachment: en='Varied Tit'=ヤマガラ, so オーストンヤマガラ (=Sittiparus owstoni) was wrong. Poecile varius is an old-genus synonym of Sittiparus varius (ヤマガラ). MERGED 3111 + 14456 (Parus varius) -> 7139 (Sittiparus varius, accepted). Purged owstoni-specific aliases (オーストンヤマガラ/ja, Owston's Tit/en) before merge."
+ },
+ {
+  "id": 3042,
+  "sci": "Anas poecilorhyncha",
+  "ja": "カルガモ",
+  "ja_belongs_to": "Anas zonorhyncha",
+  "inat_sci_ja": "アカボシカルガモ",
+  "np": 998,
+  "resolution": "FIXED 2026-08-12 (Claude). Taxonomic split (docstring-warned): A. poecilorhyncha s.s. = インドカルガモ, not wild in Japan; all 1048 park records under it are old-broad-concept eastern カルガモ = A. zonorhyncha. Both rows labeled カルガモ -> MERGED 3042 -> 579 (Anas zonorhyncha, accepted JP カルガモ). Renaming to インドカルガモ would have mislabeled 1048 records."
+ },
+ {
+  "id": 647,
+  "sci": "Platypleura kaempferi",
+  "ja": "ニイニイゼミ",
+  "inat_sci_ja": null,
+  "np": 496,
+  "resolution": "NO CHANGE 2026-08-12 (Claude). FALSE POSITIVE: Platypleura kaempferi IS the correct sci for ニイニイゼミ. iNat forward-lookup returned 'Planopleura kaempferi' which is just a genus-spelling variant of the same species, not a different bearer. Left as-is."
+ }
+]
