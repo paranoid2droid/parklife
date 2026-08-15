@@ -1,0 +1,186 @@
+{
+  "prefecture": "kagoshima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2ef5198030",
+      "name_ja": "小野公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.613836,
+      "lon": 130.512346,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-c27114aa34",
+      "name_ja": "寺山ふれあい公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.657791,
+      "lon": 130.601358,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-70a3c27001",
+      "name_ja": "天保山公園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.572714,
+      "lon": 130.564706,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-6c9b30a1c6",
+      "name_ja": "万田ヶ宇都墓園",
+      "municipality": "鹿児島市",
+      "operator": "鹿児島県",
+      "lat": 31.52853,
+      "lon": 130.502353,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-b44060d2f7",
+      "name_ja": "クレインパークいずみ",
+      "municipality": "出水市",
+      "operator": "鹿児島県",
+      "lat": 32.097881,
+      "lon": 130.343877,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-1cfd243c90",
+      "name_ja": "潟山運動公園",
+      "municipality": "指宿市",
+      "operator": "鹿児島県",
+      "lat": 31.256867,
+      "lon": 130.65412,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-6b3914e066",
+      "name_ja": "清水ヶ岡公園",
+      "municipality": "薩摩川内市",
+      "operator": "鹿児島県",
+      "lat": 31.811841,
+      "lon": 130.292424,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-40b2717c47",
+      "name_ja": "東市来運動公園",
+      "municipality": "日置市",
+      "operator": "鹿児島県",
+      "lat": 31.661612,
+      "lon": 130.329573,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-2862a1951f",
+      "name_ja": "コケキャンチ高之峯公園",
+      "municipality": "曽於市",
+      "operator": "鹿児島県",
+      "lat": 31.70198,
+      "lon": 130.994138,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-ae3b6dc10d",
+      "name_ja": "岩崎公園",
+      "municipality": "曽於市",
+      "operator": "鹿児島県",
+      "lat": 31.591418,
+      "lon": 130.998919,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-910561cc37",
+      "name_ja": "北公園",
+      "municipality": "霧島市",
+      "operator": "鹿児島県",
+      "lat": 31.757808,
+      "lon": 130.790701,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-3386a3cb48",
+      "name_ja": "多目的広場まきばドーム",
+      "municipality": "霧島市",
+      "operator": "鹿児島県",
+      "lat": 31.661125,
+      "lon": 130.844967,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-b57e04a46d",
+      "name_ja": "木原墓地",
+      "municipality": "いちき串木野市",
+      "operator": "鹿児島県",
+      "lat": 31.70765,
+      "lon": 130.286886,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-cc4216aea9",
+      "name_ja": "有明開田の里公園",
+      "municipality": "志布志市",
+      "operator": "鹿児島県",
+      "lat": 31.496131,
+      "lon": 131.04801,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-64fd9824c3",
+      "name_ja": "知覧テニスの森公園",
+      "municipality": "南九州市",
+      "operator": "鹿児島県",
+      "lat": 31.403196,
+      "lon": 130.503468,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-0eebb39991",
+      "name_ja": "八幡公園",
+      "municipality": "姶良市",
+      "operator": "鹿児島県",
+      "lat": 31.7671,
+      "lon": 130.569422,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-d57f936e9e",
+      "name_ja": "東谷墓地公園",
+      "municipality": "薩摩郡さつま町",
+      "operator": "鹿児島県",
+      "lat": 31.906306,
+      "lon": 130.461124,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-16884945c5",
+      "name_ja": "春田浜海浜公園",
+      "municipality": "熊毛郡屋久島町",
+      "operator": "鹿児島県",
+      "lat": 30.298795,
+      "lon": 130.652488,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    }
+  ]
+}

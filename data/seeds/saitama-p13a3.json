@@ -1,0 +1,236 @@
+{
+  "prefecture": "saitama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4f692f94af",
+      "name_ja": "合併記念見沼公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.905657,
+      "lon": 139.647264,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-6b0f59c3c2",
+      "name_ja": "大谷口公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.853586,
+      "lon": 139.690472,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-7a0e19bb1a",
+      "name_ja": "大崎公園",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.884433,
+      "lon": 139.71423,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-7bf0aa7fec",
+      "name_ja": "大間木公園（見沼通船掘公園内）",
+      "municipality": "さいたま市",
+      "operator": "埼玉県",
+      "lat": 35.864557,
+      "lon": 139.709353,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-27e9b36e09",
+      "name_ja": "御伊勢塚公園",
+      "municipality": "川越市",
+      "operator": "埼玉県",
+      "lat": 35.92374,
+      "lon": 139.42535,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-7d05c68a95",
+      "name_ja": "寺山緑地",
+      "municipality": "川越市",
+      "operator": "埼玉県",
+      "lat": 35.938948,
+      "lon": 139.466142,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-c1ac9e7a80",
+      "name_ja": "川口自然公園",
+      "municipality": "川口市",
+      "operator": "埼玉県",
+      "lat": 35.872977,
+      "lon": 139.724351,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-8abb90d6bb",
+      "name_ja": "唐子中央公園",
+      "municipality": "東松山市",
+      "operator": "埼玉県",
+      "lat": 36.026839,
+      "lon": 139.364052,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-516d5e120c",
+      "name_ja": "殿山緑地",
+      "municipality": "東松山市",
+      "operator": "埼玉県",
+      "lat": 36.057197,
+      "lon": 139.417637,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-b17df290c6",
+      "name_ja": "牛島公園",
+      "municipality": "春日部市",
+      "operator": "埼玉県",
+      "lat": 35.985256,
+      "lon": 139.770666,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-36c1f5c6e1",
+      "name_ja": "平塚公園",
+      "municipality": "上尾市",
+      "operator": "埼玉県",
+      "lat": 35.987103,
+      "lon": 139.609614,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-566027be5c",
+      "name_ja": "蕨市民公園",
+      "municipality": "蕨市",
+      "operator": "埼玉県",
+      "lat": 35.82325,
+      "lon": 139.70042,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-affec15df5",
+      "name_ja": "中央公園",
+      "municipality": "入間市",
+      "operator": "埼玉県",
+      "lat": 35.815748,
+      "lon": 139.3798,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-a6bcb88d30",
+      "name_ja": "城山公園",
+      "municipality": "朝霞市",
+      "operator": "埼玉県",
+      "lat": 35.812654,
+      "lon": 139.602402,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-58427af64d",
+      "name_ja": "上大崎運動公園",
+      "municipality": "久喜市",
+      "operator": "埼玉県",
+      "lat": 36.056066,
+      "lon": 139.60327,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-e89af23d16",
+      "name_ja": "水子貝塚公園",
+      "municipality": "富士見市",
+      "operator": "埼玉県",
+      "lat": 35.845519,
+      "lon": 139.561225,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-74b6ce0af1",
+      "name_ja": "西城沼公園",
+      "municipality": "蓮田市",
+      "operator": "埼玉県",
+      "lat": 36.000374,
+      "lon": 139.657751,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-e67310eb52",
+      "name_ja": "高須賀池公園",
+      "municipality": "幸手市",
+      "operator": "埼玉県",
+      "lat": 36.098078,
+      "lon": 139.713367,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-aef8e14d29",
+      "name_ja": "福岡中央公園",
+      "municipality": "ふじみ野市",
+      "operator": "埼玉県",
+      "lat": 35.875594,
+      "lon": 139.517185,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-da46edde3f",
+      "name_ja": "蝶の里公園",
+      "municipality": "比企郡嵐山町",
+      "operator": "埼玉県",
+      "lat": 36.034255,
+      "lon": 139.31881,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-80a3f954ae",
+      "name_ja": "南部緑地",
+      "municipality": "比企郡吉見町",
+      "operator": "埼玉県",
+      "lat": 36.017885,
+      "lon": 139.466916,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-799576a1eb",
+      "name_ja": "さくら堤公園",
+      "municipality": "比企郡吉見町",
+      "operator": "埼玉県",
+      "lat": 36.033989,
+      "lon": 139.48586,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-b1ba0f415e",
+      "name_ja": "倉松公園",
+      "municipality": "北葛飾郡杉戸町",
+      "operator": "埼玉県",
+      "lat": 36.036705,
+      "lon": 139.746595,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    }
+  ]
+}

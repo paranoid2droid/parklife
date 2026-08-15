@@ -1,0 +1,66 @@
+{
+  "prefecture": "tokushima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-71fe3389f7",
+      "name_ja": "津田公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.045571,
+      "lon": 134.582805,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-33c46f8972",
+      "name_ja": "西部公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.06952,
+      "lon": 134.513939,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-4e91511cd9",
+      "name_ja": "しらさぎ台自然公園",
+      "municipality": "徳島市",
+      "operator": "徳島県",
+      "lat": 34.031002,
+      "lon": 134.484548,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-3528260dd0",
+      "name_ja": "桑島公園",
+      "municipality": "鳴門市",
+      "operator": "徳島県",
+      "lat": 34.187485,
+      "lon": 134.610305,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-75f8911e1a",
+      "name_ja": "新町公園",
+      "municipality": "美馬市",
+      "operator": "徳島県",
+      "lat": 34.066442,
+      "lon": 134.131478,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-979a7cac6a",
+      "name_ja": "飯尾川公園",
+      "municipality": "名西郡石井町",
+      "operator": "徳島県",
+      "lat": 34.084825,
+      "lon": 134.445555,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    }
+  ]
+}

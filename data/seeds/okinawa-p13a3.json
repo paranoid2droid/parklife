@@ -1,0 +1,186 @@
+{
+  "prefecture": "okinawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b53261d516",
+      "name_ja": "旭ケ丘公園",
+      "municipality": "那覇市",
+      "operator": "沖縄県",
+      "lat": 26.22023,
+      "lon": 127.672042,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-b8ca9a39fd",
+      "name_ja": "弁ケ岳公園",
+      "municipality": "那覇市",
+      "operator": "沖縄県",
+      "lat": 26.218405,
+      "lon": 127.731287,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-6243987b5f",
+      "name_ja": "森川公園",
+      "municipality": "宜野湾市",
+      "operator": "沖縄県",
+      "lat": 26.270268,
+      "lon": 127.741626,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-e31a5525e9",
+      "name_ja": "いこいの市民パーク",
+      "municipality": "宜野湾市",
+      "operator": "沖縄県",
+      "lat": 26.267045,
+      "lon": 127.763438,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-770ba86a34",
+      "name_ja": "観音堂歴史公園",
+      "municipality": "石垣市",
+      "operator": "沖縄県",
+      "lat": 24.366931,
+      "lon": 124.118022,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-88e00488e2",
+      "name_ja": "真壁公園",
+      "municipality": "糸満市",
+      "operator": "沖縄県",
+      "lat": 26.109837,
+      "lon": 127.693602,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-9612c2cab7",
+      "name_ja": "豊崎都市緑地",
+      "municipality": "豊見城市",
+      "operator": "沖縄県",
+      "lat": 26.154164,
+      "lon": 127.667136,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-117dc2f60d",
+      "name_ja": "安慶名中央公園",
+      "municipality": "うるま市",
+      "operator": "沖縄県",
+      "lat": 26.381396,
+      "lon": 127.850593,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-d444208b46",
+      "name_ja": "野鳥の森自然公園",
+      "municipality": "うるま市",
+      "operator": "沖縄県",
+      "lat": 26.375728,
+      "lon": 127.870638,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-39dc59afac",
+      "name_ja": "冨祖崎公園",
+      "municipality": "南城市",
+      "operator": "沖縄県",
+      "lat": 26.177282,
+      "lon": 127.791496,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-dc9ac2d17f",
+      "name_ja": "大里内原公園",
+      "municipality": "南城市",
+      "operator": "沖縄県",
+      "lat": 26.186097,
+      "lon": 127.761008,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-edcd805a64",
+      "name_ja": "セーラの森公園",
+      "municipality": "中頭郡読谷村",
+      "operator": "沖縄県",
+      "lat": 26.395422,
+      "lon": 127.728815,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-b9fce08105",
+      "name_ja": "泊城公園",
+      "municipality": "中頭郡読谷村",
+      "operator": "沖縄県",
+      "lat": 26.36447,
+      "lon": 127.738111,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-b2456c9295",
+      "name_ja": "屋良城跡公園",
+      "municipality": "中頭郡嘉手納町",
+      "operator": "沖縄県",
+      "lat": 26.367638,
+      "lon": 127.75979,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-13bead94d2",
+      "name_ja": "若松公園",
+      "municipality": "中頭郡北中城村",
+      "operator": "沖縄県",
+      "lat": 26.297907,
+      "lon": 127.788895,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-b2416a4858",
+      "name_ja": "東崎公園",
+      "municipality": "中頭郡西原町",
+      "operator": "沖縄県",
+      "lat": 26.216194,
+      "lon": 127.774207,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-cd8f2baca0",
+      "name_ja": "与那古浜公園",
+      "municipality": "島尻郡与那原町",
+      "operator": "沖縄県",
+      "lat": 26.204236,
+      "lon": 127.762612,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-473f983cd5",
+      "name_ja": "八重瀬公園",
+      "municipality": "島尻郡八重瀬町",
+      "operator": "沖縄県",
+      "lat": 26.132863,
+      "lon": 127.720296,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    }
+  ]
+}

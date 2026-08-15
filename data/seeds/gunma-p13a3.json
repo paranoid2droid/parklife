@@ -1,0 +1,196 @@
+{
+  "prefecture": "gunma",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-c68b050384",
+      "name_ja": "南町公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.376646,
+      "lon": 139.062507,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-e95a9d8d00",
+      "name_ja": "荻窪南公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.415822,
+      "lon": 139.132307,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-99e13f3d9e",
+      "name_ja": "大利根緑地",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.353225,
+      "lon": 139.070281,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-5415fd3160",
+      "name_ja": "石関公園",
+      "municipality": "前橋市",
+      "operator": "群馬県",
+      "lat": 36.389163,
+      "lon": 139.115294,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-8b76956c3c",
+      "name_ja": "城址公園",
+      "municipality": "高崎市",
+      "operator": "群馬県",
+      "lat": 36.321876,
+      "lon": 139.004324,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-18259179d6",
+      "name_ja": "山上城跡公園",
+      "municipality": "桐生市",
+      "operator": "群馬県",
+      "lat": 36.427501,
+      "lon": 139.227837,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-de61e9fc8f",
+      "name_ja": "伊勢崎市波志江沼環境ふれあい公園",
+      "municipality": "伊勢崎市",
+      "operator": "群馬県",
+      "lat": 36.35827,
+      "lon": 139.192695,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-5e21996953",
+      "name_ja": "伊勢崎市子供のもり公園伊勢崎",
+      "municipality": "伊勢崎市",
+      "operator": "群馬県",
+      "lat": 36.278608,
+      "lon": 139.220725,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-a7ad113da1",
+      "name_ja": "伊勢崎市赤堀せせらぎ公園",
+      "municipality": "伊勢崎市",
+      "operator": "群馬県",
+      "lat": 36.373173,
+      "lon": 139.214502,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-a937dcfafc",
+      "name_ja": "薮塚本町中央公園",
+      "municipality": "太田市",
+      "operator": "群馬県",
+      "lat": 36.352789,
+      "lon": 139.298304,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-ce4e5ef153",
+      "name_ja": "八王子山公園",
+      "municipality": "太田市",
+      "operator": "群馬県",
+      "lat": 36.3521,
+      "lon": 139.334928,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-0968c8fdd6",
+      "name_ja": "歴史公園",
+      "municipality": "太田市",
+      "operator": "群馬県",
+      "lat": 36.262479,
+      "lon": 139.274925,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-bbbba0e46c",
+      "name_ja": "妙義総合運動公園",
+      "municipality": "富岡市",
+      "operator": "群馬県",
+      "lat": 36.294103,
+      "lon": 138.796091,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-e829b68bef",
+      "name_ja": "郷原緑地公園",
+      "municipality": "安中市",
+      "operator": "群馬県",
+      "lat": 36.303728,
+      "lon": 138.840079,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-ccf198ec67",
+      "name_ja": "すみれヶ丘公園",
+      "municipality": "安中市",
+      "operator": "群馬県",
+      "lat": 36.2882,
+      "lon": 138.87561,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-fef551390d",
+      "name_ja": "高津戸公園",
+      "municipality": "みどり市",
+      "operator": "群馬県",
+      "lat": 36.438529,
+      "lon": 139.2807,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-212e8d31ce",
+      "name_ja": "矢瀬親水公園",
+      "municipality": "利根郡みなかみ町",
+      "operator": "群馬県",
+      "lat": 36.697228,
+      "lon": 138.982003,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-784fa5ddcf",
+      "name_ja": "東部スポーツ広場公園",
+      "municipality": "佐波郡玉村町",
+      "operator": "群馬県",
+      "lat": 36.297605,
+      "lon": 139.154709,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-b4889c86bb",
+      "name_ja": "北部公園",
+      "municipality": "佐波郡玉村町",
+      "operator": "群馬県",
+      "lat": 36.319077,
+      "lon": 139.122524,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    }
+  ]
+}

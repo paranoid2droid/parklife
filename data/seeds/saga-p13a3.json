@@ -1,0 +1,126 @@
+{
+  "prefecture": "saga",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9fe21f26f6",
+      "name_ja": "佐野記念公園",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.20725,
+      "lon": 130.339854,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-dd9a7fe34b",
+      "name_ja": "中の島緑地",
+      "municipality": "佐賀市",
+      "operator": "佐賀県",
+      "lat": 33.219109,
+      "lon": 130.369228,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-6107a99a5d",
+      "name_ja": "東の浜海浜公園",
+      "municipality": "唐津市",
+      "operator": "佐賀県",
+      "lat": 33.447224,
+      "lon": 129.991355,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-111a8f7631",
+      "name_ja": "舞鶴海浜公園",
+      "municipality": "唐津市",
+      "operator": "佐賀県",
+      "lat": 33.453652,
+      "lon": 129.978542,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-96be9849c5",
+      "name_ja": "北部公園",
+      "municipality": "嬉野市",
+      "operator": "佐賀県",
+      "lat": 33.148887,
+      "lon": 130.056742,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-44fe2fb322",
+      "name_ja": "神埼中央公園",
+      "municipality": "神埼市",
+      "operator": "佐賀県",
+      "lat": 33.313748,
+      "lon": 130.371263,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-6c6a2aec49",
+      "name_ja": "中央公園",
+      "municipality": "神埼郡吉野ヶ里町",
+      "operator": "佐賀県",
+      "lat": 33.313478,
+      "lon": 130.401946,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-a4dffe7955",
+      "name_ja": "上峰町中央公園",
+      "municipality": "三養基郡上峰町",
+      "operator": "佐賀県",
+      "lat": 33.310637,
+      "lon": 130.424911,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-f06fa28bfe",
+      "name_ja": "グリーンパーク香田",
+      "municipality": "三養基郡みやき町",
+      "operator": "佐賀県",
+      "lat": 33.363487,
+      "lon": 130.448401,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-08981133fb",
+      "name_ja": "菅野公園",
+      "municipality": "西松浦郡有田町",
+      "operator": "佐賀県",
+      "lat": 33.175217,
+      "lon": 129.895022,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-667318b363",
+      "name_ja": "鳴江河畔公園",
+      "municipality": "杵島郡江北町",
+      "operator": "佐賀県",
+      "lat": 33.213843,
+      "lon": 130.180334,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-a6a2c07df1",
+      "name_ja": "中央公園",
+      "municipality": "杵島郡白石町",
+      "operator": "佐賀県",
+      "lat": 33.18103,
+      "lon": 130.143149,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    }
+  ]
+}

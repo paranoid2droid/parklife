@@ -1,0 +1,236 @@
+{
+  "prefecture": "kumamoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a2c59605a9",
+      "name_ja": "瑞厳寺公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.846559,
+      "lon": 130.687258,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-e19acff527",
+      "name_ja": "田迎公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.759005,
+      "lon": 130.728242,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-9c356cc742",
+      "name_ja": "小島公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.776496,
+      "lon": 130.635382,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-3ebbfc2589",
+      "name_ja": "植木総合スポーツセンター公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.920167,
+      "lon": 130.686218,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-c964b7564d",
+      "name_ja": "合志川河川公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.95339,
+      "lon": 130.725278,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-f5497f183b",
+      "name_ja": "北岡自然公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.79581,
+      "lon": 130.691675,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-3cfaa90f15",
+      "name_ja": "田原坂公園",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.91195,
+      "lon": 130.651128,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-f65822caa2",
+      "name_ja": "立田山緑地",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.820879,
+      "lon": 130.731564,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-2920ebd127",
+      "name_ja": "白川飽田緑地",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.771644,
+      "lon": 130.666926,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-1668c1b428",
+      "name_ja": "和泉貢緑地",
+      "municipality": "熊本市",
+      "operator": "熊本県",
+      "lat": 32.850518,
+      "lon": 130.697328,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-92e4a9d94c",
+      "name_ja": "日奈久ドリ－ムランド「シ－・湯・遊」",
+      "municipality": "八代市",
+      "operator": "熊本県",
+      "lat": 32.431385,
+      "lon": 130.5668,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-34b5adff23",
+      "name_ja": "城山公園",
+      "municipality": "水俣市",
+      "operator": "熊本県",
+      "lat": 32.207447,
+      "lon": 130.415129,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-5ee6013e09",
+      "name_ja": "山鹿墓地公園",
+      "municipality": "山鹿市",
+      "operator": "熊本県",
+      "lat": 33.007434,
+      "lon": 130.708134,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-28ce6964bf",
+      "name_ja": "宇土城跡西岡台公園",
+      "municipality": "宇土市",
+      "operator": "熊本県",
+      "lat": 32.678968,
+      "lon": 130.648264,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-e87c92b153",
+      "name_ja": "龍燈公園",
+      "municipality": "宇城市",
+      "operator": "熊本県",
+      "lat": 32.647067,
+      "lon": 130.66021,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-51b402d68f",
+      "name_ja": "本渡運動公園",
+      "municipality": "天草市",
+      "operator": "熊本県",
+      "lat": 32.453217,
+      "lon": 130.197789,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-12de8f8f0a",
+      "name_ja": "十万山公園",
+      "municipality": "天草市",
+      "operator": "熊本県",
+      "lat": 32.443031,
+      "lon": 130.185924,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-3e17434e7f",
+      "name_ja": "竹迫城跡公園",
+      "municipality": "合志市",
+      "operator": "熊本県",
+      "lat": 32.898884,
+      "lon": 130.794703,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-58746eaaaa",
+      "name_ja": "昭和園",
+      "municipality": "菊池郡大津町",
+      "operator": "熊本県",
+      "lat": 32.881296,
+      "lon": 130.857021,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-ac8ca742f3",
+      "name_ja": "南阿蘇村長陽運動公園",
+      "municipality": "阿蘇郡南阿蘇村",
+      "operator": "熊本県",
+      "lat": 32.870138,
+      "lon": 130.998247,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-40d05cb861",
+      "name_ja": "服掛松カントリーパーク",
+      "municipality": "上益城郡山都町",
+      "operator": "熊本県",
+      "lat": 32.699598,
+      "lon": 131.164481,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-a3e9a9af9c",
+      "name_ja": "城山公園",
+      "municipality": "葦北郡芦北町",
+      "operator": "熊本県",
+      "lat": 32.302845,
+      "lon": 130.502199,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-15f09423f8",
+      "name_ja": "湯前グリーンパレス",
+      "municipality": "球磨郡湯前町",
+      "operator": "熊本県",
+      "lat": 32.271817,
+      "lon": 130.999355,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "prefecture": "fukuoka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1a583d7b15",
+      "name_ja": "老松公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.947408,
+      "lon": 130.969473,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-117e076f3a",
+      "name_ja": "清滝公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.939038,
+      "lon": 130.960775,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-8a9ce0c343",
+      "name_ja": "小森江子供のもり公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.919779,
+      "lon": 130.948798,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-c82e83922f",
+      "name_ja": "新門司１号緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.866992,
+      "lon": 130.979904,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-7e1b61f0c8",
+      "name_ja": "新門司海浜公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.897503,
+      "lon": 130.986031,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-e585b9fdc8",
+      "name_ja": "長野緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.819133,
+      "lon": 130.911409,
+      "p13_kdp": "広域公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-ab21d6e447",
+      "name_ja": "紫川河畔公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.839784,
+      "lon": 130.869083,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-fc8c9e5b42",
+      "name_ja": "吉田太陽の丘公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.843891,
+      "lon": 130.947788,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-c7fb6ec802",
+      "name_ja": "菖蒲谷池自然公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.908652,
+      "lon": 130.782761,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-a6688a1c16",
+      "name_ja": "枝光公園",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.875761,
+      "lon": 130.817404,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-9d62f46ae6",
+      "name_ja": "楠東緑地",
+      "municipality": "北九州市",
+      "operator": "福岡県",
+      "lat": 33.792134,
+      "lon": 130.735783,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-12c1525373",
+      "name_ja": "松崎緑地",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.638056,
+      "lon": 130.445384,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-b7f643ffe4",
+      "name_ja": "香椎東緑地",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.656825,
+      "lon": 130.456225,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-18f207a922",
+      "name_ja": "大井中央公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.60366,
+      "lon": 130.441439,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-bb64764d9f",
+      "name_ja": "百道中央公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.588343,
+      "lon": 130.350821,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-6a944a7934",
+      "name_ja": "西油山中央公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.532862,
+      "lon": 130.349903,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-b2416ebd3f",
+      "name_ja": "徳永南公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.565224,
+      "lon": 130.262027,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-683f52f626",
+      "name_ja": "生松台中央公園",
+      "municipality": "福岡市",
+      "operator": "福岡県",
+      "lat": 33.551642,
+      "lon": 130.29816,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-3cf8db6d8b",
+      "name_ja": "手鎌北町公園",
+      "municipality": "大牟田市",
+      "operator": "福岡県",
+      "lat": 33.054988,
+      "lon": 130.448523,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-9a9c6722b9",
+      "name_ja": "筑後川さくら園",
+      "municipality": "久留米市",
+      "operator": "福岡県",
+      "lat": 33.323735,
+      "lon": 130.547336,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-9d8b93fcd5",
+      "name_ja": "窓ケ原公園",
+      "municipality": "筑後市",
+      "operator": "福岡県",
+      "lat": 33.218435,
+      "lon": 130.49462,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-9093dd8edb",
+      "name_ja": "自由ヶ丘中央公園",
+      "municipality": "宗像市",
+      "operator": "福岡県",
+      "lat": 33.791814,
+      "lon": 130.575938,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-bbff00655f",
+      "name_ja": "鹿部山公園",
+      "municipality": "古賀市",
+      "operator": "福岡県",
+      "lat": 33.723707,
+      "lon": 130.46682,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-6a59a1e87a",
+      "name_ja": "平成の森公園",
+      "municipality": "糟屋郡志免町",
+      "operator": "福岡県",
+      "lat": 33.571069,
+      "lon": 130.485746,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-0fd2eb0865",
+      "name_ja": "大谷自然公園",
+      "municipality": "鞍手郡鞍手町",
+      "operator": "福岡県",
+      "lat": 33.809083,
+      "lon": 130.647233,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-9b117e52aa",
+      "name_ja": "竜光寺公園",
+      "municipality": "八女郡広川町",
+      "operator": "福岡県",
+      "lat": 33.248052,
+      "lon": 130.548218,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-a1fd8d11f5",
+      "name_ja": "石人山・弘化谷古墳公園",
+      "municipality": "八女郡広川町",
+      "operator": "福岡県",
+      "lat": 33.237139,
+      "lon": 130.517381,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.4
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "prefecture": "nagano",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3e08483fce",
+      "name_ja": "松代城公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.566079,
+      "lon": 138.196095,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-403ee8c84e",
+      "name_ja": "青垣公園",
+      "municipality": "長野市",
+      "operator": "長野県",
+      "lat": 36.553933,
+      "lon": 138.203554,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-5f07e8a227",
+      "name_ja": "芳川公園",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.184523,
+      "lon": 137.958476,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-1528e7706d",
+      "name_ja": "平瀬緑地",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.268995,
+      "lon": 137.942898,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-bb79767040",
+      "name_ja": "大久保緑地",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.183787,
+      "lon": 137.993577,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-5e19844ef3",
+      "name_ja": "奈良井川緑地",
+      "municipality": "松本市",
+      "operator": "長野県",
+      "lat": 36.214496,
+      "lon": 137.942817,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-6fbe47da6f",
+      "name_ja": "玄蕃山公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.411902,
+      "lon": 138.282526,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-d4d28dae2a",
+      "name_ja": "山王山公園",
+      "municipality": "上田市",
+      "operator": "長野県",
+      "lat": 36.34562,
+      "lon": 138.199729,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-f886fab65b",
+      "name_ja": "扇町公園",
+      "municipality": "飯田市",
+      "operator": "長野県",
+      "lat": 35.513732,
+      "lon": 137.822962,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-9e2e7755d5",
+      "name_ja": "1号丸塚緑地",
+      "municipality": "駒ヶ根市",
+      "operator": "長野県",
+      "lat": 35.718278,
+      "lon": 137.967501,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-49522d5798",
+      "name_ja": "大町公園",
+      "municipality": "大町市",
+      "operator": "長野県",
+      "lat": 36.505142,
+      "lon": 137.869914,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-f397314ba7",
+      "name_ja": "高瀬渓谷緑地",
+      "municipality": "大町市",
+      "operator": "長野県",
+      "lat": 36.517295,
+      "lon": 137.780879,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-34b1df39ad",
+      "name_ja": "岳麓公園",
+      "municipality": "茅野市",
+      "operator": "長野県",
+      "lat": 36.0197,
+      "lon": 138.254746,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-06be59b645",
+      "name_ja": "4・4・1塩尻北部公園",
+      "municipality": "塩尻市",
+      "operator": "長野県",
+      "lat": 36.153782,
+      "lon": 137.943013,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-c8a67a3cb0",
+      "name_ja": "鼻顔公園",
+      "municipality": "佐久市",
+      "operator": "長野県",
+      "lat": 36.271434,
+      "lon": 138.488726,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-9895ba51c5",
+      "name_ja": "さくラさく小径",
+      "municipality": "佐久市",
+      "operator": "長野県",
+      "lat": 36.238872,
+      "lon": 138.463724,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-af5e0f9c39",
+      "name_ja": "稲荷山公園",
+      "municipality": "佐久市",
+      "operator": "長野県",
+      "lat": 36.192904,
+      "lon": 138.482193,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-be88d643e9",
+      "name_ja": "松尾寺山",
+      "municipality": "安曇野市",
+      "operator": "長野県",
+      "lat": 36.371964,
+      "lon": 137.829494,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-647ff85c34",
+      "name_ja": "矢ヶ崎公園",
+      "municipality": "北佐久郡軽井沢町",
+      "operator": "長野県",
+      "lat": 36.345419,
+      "lon": 138.637471,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-66016122aa",
+      "name_ja": "やまゆり公園",
+      "municipality": "北佐久郡御代田町",
+      "operator": "長野県",
+      "lat": 36.331463,
+      "lon": 138.498758,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-f97b4daaf6",
+      "name_ja": "辰野ほたる童謡公園",
+      "municipality": "上伊那郡辰野町",
+      "operator": "長野県",
+      "lat": 35.991844,
+      "lon": 138.00316,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-f80204d603",
+      "name_ja": "下辰野公園",
+      "municipality": "上伊那郡辰野町",
+      "operator": "長野県",
+      "lat": 35.987026,
+      "lon": 137.995222,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-5266cb8f66",
+      "name_ja": "大草城址公園",
+      "municipality": "上伊那郡中川村",
+      "operator": "長野県",
+      "lat": 35.628122,
+      "lon": 137.946523,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-041f2e99b0",
+      "name_ja": "桑原公園",
+      "municipality": "上伊那郡中川村",
+      "operator": "長野県",
+      "lat": 35.623447,
+      "lon": 137.990776,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-d39788dff4",
+      "name_ja": "天白公園",
+      "municipality": "下伊那郡高森町",
+      "operator": "長野県",
+      "lat": 35.561526,
+      "lon": 137.853451,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-b9e608a13e",
+      "name_ja": "山形なろう原公園",
+      "municipality": "東筑摩郡山形村",
+      "operator": "長野県",
+      "lat": 36.165714,
+      "lon": 137.862843,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-a23eae1b8f",
+      "name_ja": "川西運動公園",
+      "municipality": "北安曇郡松川村",
+      "operator": "長野県",
+      "lat": 36.429305,
+      "lon": 137.831148,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-acfe9ab400",
+      "name_ja": "夜間瀬川緑地公園",
+      "municipality": "下高井郡山ノ内町",
+      "operator": "長野県",
+      "lat": 36.753252,
+      "lon": 138.398339,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.6
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "prefecture": "kyoto",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9cf302ce87",
+      "name_ja": "京都府立伏見港公園",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.92506,
+      "lon": 135.758,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-835d0cd8b7",
+      "name_ja": "吉祥院",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.965864,
+      "lon": 135.723194,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-963cf14c19",
+      "name_ja": "深草墓園",
+      "municipality": "京都市",
+      "operator": "京都府",
+      "lat": 34.965347,
+      "lon": 135.776429,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-47626997b8",
+      "name_ja": "匂崎公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.464191,
+      "lon": 135.327709,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-60b2bd3c72",
+      "name_ja": "夕潮台公園",
+      "municipality": "舞鶴市",
+      "operator": "京都府",
+      "lat": 35.474946,
+      "lon": 135.387955,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-b66075debe",
+      "name_ja": "高倉公園",
+      "municipality": "綾部市",
+      "operator": "京都府",
+      "lat": 35.327038,
+      "lon": 135.276825,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-364256b54e",
+      "name_ja": "井根山公園",
+      "municipality": "綾部市",
+      "operator": "京都府",
+      "lat": 35.288809,
+      "lon": 135.267714,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-f0d67b011c",
+      "name_ja": "大吉山風致公園",
+      "municipality": "宇治市",
+      "operator": "京都府",
+      "lat": 34.892675,
+      "lon": 135.811966,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-55f8f9b2e8",
+      "name_ja": "西宇治公園",
+      "municipality": "宇治市",
+      "operator": "京都府",
+      "lat": 34.900417,
+      "lon": 135.776657,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-225beae1cd",
+      "name_ja": "日置ふれあい公園",
+      "municipality": "宮津市",
+      "operator": "京都府",
+      "lat": 35.603042,
+      "lon": 135.2164,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-88882470d1",
+      "name_ja": "長岡公園",
+      "municipality": "長岡京市",
+      "operator": "京都府",
+      "lat": 34.922359,
+      "lon": 135.686038,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-291902351e",
+      "name_ja": "西山公園",
+      "municipality": "長岡京市",
+      "operator": "京都府",
+      "lat": 34.934121,
+      "lon": 135.676527,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-7e483799e8",
+      "name_ja": "木津川台公園",
+      "municipality": "木津川市",
+      "operator": "京都府",
+      "lat": 34.739967,
+      "lon": 135.787782,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-e32d0b2c42",
+      "name_ja": "兜谷公園",
+      "municipality": "木津川市",
+      "operator": "京都府",
+      "lat": 34.730245,
+      "lon": 135.787711,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-657e8d3658",
+      "name_ja": "不動川公園",
+      "municipality": "木津川市",
+      "operator": "京都府",
+      "lat": 34.7778,
+      "lon": 135.821896,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-53629aea90",
+      "name_ja": "和束運動公園",
+      "municipality": "相楽郡和束町",
+      "operator": "京都府",
+      "lat": 34.795539,
+      "lon": 135.895528,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-a267c55213",
+      "name_ja": "城山公園",
+      "municipality": "与謝郡与謝野町",
+      "operator": "京都府",
+      "lat": 35.564813,
+      "lon": 135.147247,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-ae29802f5b",
+      "name_ja": "男山八幡公園",
+      "municipality": "与謝郡与謝野町",
+      "operator": "京都府",
+      "lat": 35.57518,
+      "lon": 135.164771,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-469aa9cb15",
+      "name_ja": "阿蘇シーサイドパーク",
+      "municipality": "与謝郡与謝野町",
+      "operator": "京都府",
+      "lat": 35.567986,
+      "lon": 135.156086,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-15518b829e",
+      "name_ja": "大江山運動公園",
+      "municipality": "与謝郡与謝野町",
+      "operator": "京都府",
+      "lat": 35.481949,
+      "lon": 135.096142,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    }
+  ]
+}

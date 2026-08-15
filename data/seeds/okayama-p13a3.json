@@ -1,0 +1,146 @@
+{
+  "prefecture": "okayama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-f525684e09",
+      "name_ja": "西大寺一宮公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.612882,
+      "lon": 134.102698,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-445c523a18",
+      "name_ja": "上道公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.697147,
+      "lon": 134.052223,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-db7e2561cb",
+      "name_ja": "当新田公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.622124,
+      "lon": 133.896027,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-a44a0e52a3",
+      "name_ja": "高松城址公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.692095,
+      "lon": 133.822265,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-fc879bd4f7",
+      "name_ja": "浅越スポーツパーク",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.666466,
+      "lon": 134.034041,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-5d41eaa028",
+      "name_ja": "犬島公園",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.562457,
+      "lon": 134.103073,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-8a1fd00651",
+      "name_ja": "なださきレークサイドパーク",
+      "municipality": "岡山市",
+      "operator": "岡山県",
+      "lat": 34.566852,
+      "lon": 133.903596,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-b52748723c",
+      "name_ja": "向山公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.590988,
+      "lon": 133.779732,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-66bcf2617f",
+      "name_ja": "足高公園",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.577789,
+      "lon": 133.763497,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-43cdc50de8",
+      "name_ja": "高梁川真備川辺ふれあい広場（緑）",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.638738,
+      "lon": 133.725278,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-1d158205f3",
+      "name_ja": "六間川緑地",
+      "municipality": "倉敷市",
+      "operator": "岡山県",
+      "lat": 34.585739,
+      "lon": 133.809692,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-ed1b97bae2",
+      "name_ja": "梅の里公園",
+      "municipality": "津山市",
+      "operator": "岡山県",
+      "lat": 35.038655,
+      "lon": 133.904502,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-42760139a2",
+      "name_ja": "山手スポーツ広場",
+      "municipality": "総社市",
+      "operator": "岡山県",
+      "lat": 34.654293,
+      "lon": 133.78174,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-4963929d3f",
+      "name_ja": "ききょう緑地",
+      "municipality": "高梁市",
+      "operator": "岡山県",
+      "lat": 34.783037,
+      "lon": 133.606109,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.4
+    }
+  ]
+}

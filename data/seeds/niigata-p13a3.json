@@ -1,0 +1,196 @@
+{
+  "prefecture": "niigata",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4f58e71b09",
+      "name_ja": "山の下海浜公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.953904,
+      "lon": 139.093262,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-f1f3228dd5",
+      "name_ja": "北山池公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.87275,
+      "lon": 139.120366,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-552d41c686",
+      "name_ja": "大江山公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.881531,
+      "lon": 139.152223,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-dd07575bcc",
+      "name_ja": "亀田公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.880249,
+      "lon": 139.110427,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-7b06cf5b9c",
+      "name_ja": "矢川ふれあい公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.761559,
+      "lon": 138.877621,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-f657f4f731",
+      "name_ja": "雁巻緑地",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.750665,
+      "lon": 139.068209,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-44372ecf26",
+      "name_ja": "山田河川敷公園",
+      "municipality": "新潟市",
+      "operator": "新潟県",
+      "lat": 37.87286,
+      "lon": 139.022085,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-9e964e360f",
+      "name_ja": "駅前公園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.366183,
+      "lon": 138.560087,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-05de95be56",
+      "name_ja": "鯖石川改修記念公園",
+      "municipality": "柏崎市",
+      "operator": "新潟県",
+      "lat": 37.390427,
+      "lon": 138.576132,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-71c2e6a350",
+      "name_ja": "新発田城址公園",
+      "municipality": "新発田市",
+      "operator": "新潟県",
+      "lat": 37.954435,
+      "lon": 139.323556,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-5de12e0b55",
+      "name_ja": "下条中央公園",
+      "municipality": "十日町市",
+      "operator": "新潟県",
+      "lat": 37.206963,
+      "lon": 138.788546,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-aa21791f0c",
+      "name_ja": "ふるさと公園",
+      "municipality": "阿賀野市",
+      "operator": "新潟県",
+      "lat": 37.844322,
+      "lon": 139.183939,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-defb34b23b",
+      "name_ja": "金井運動公園",
+      "municipality": "佐渡市",
+      "operator": "新潟県",
+      "lat": 38.032375,
+      "lon": 138.370568,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-431916a779",
+      "name_ja": "赤泊臨海運動公園",
+      "municipality": "佐渡市",
+      "operator": "新潟県",
+      "lat": 37.86536,
+      "lon": 138.410517,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-a35869a30a",
+      "name_ja": "三ツ峰いこいの森公園",
+      "municipality": "魚沼市",
+      "operator": "新潟県",
+      "lat": 37.288312,
+      "lon": 138.944639,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-6076e0eaaa",
+      "name_ja": "上原コスモス園",
+      "municipality": "魚沼市",
+      "operator": "新潟県",
+      "lat": 37.270027,
+      "lon": 138.964876,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-c6ed08a409",
+      "name_ja": "陣場原自然公園",
+      "municipality": "魚沼市",
+      "operator": "新潟県",
+      "lat": 37.271331,
+      "lon": 138.971063,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-b71cf22f6e",
+      "name_ja": "銭淵公園",
+      "municipality": "南魚沼市",
+      "operator": "新潟県",
+      "lat": 37.068519,
+      "lon": 138.887232,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-65aac0c01a",
+      "name_ja": "弁天潟風致公園",
+      "municipality": "北蒲原郡聖籠町",
+      "operator": "新潟県",
+      "lat": 37.963586,
+      "lon": 139.262009,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.9
+    }
+  ]
+}

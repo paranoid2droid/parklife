@@ -1,0 +1,296 @@
+{
+  "prefecture": "miyagi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-46a6a0f625",
+      "name_ja": "川平緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.303632,
+      "lon": 140.839749,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-a5c4ca1f6e",
+      "name_ja": "三本松緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.290549,
+      "lon": 140.867941,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-cfe0074581",
+      "name_ja": "錦ヶ丘西緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.252433,
+      "lon": 140.757155,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-5fe7ded242",
+      "name_ja": "西原緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.258518,
+      "lon": 141.009317,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-253aa7ab8d",
+      "name_ja": "中田中央公園",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.198396,
+      "lon": 140.899114,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-33e7abd7cd",
+      "name_ja": "人来田２号緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.227303,
+      "lon": 140.805323,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-0f87b2c81a",
+      "name_ja": "旗立三丁目緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.227159,
+      "lon": 140.810487,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-7bd5ee0133",
+      "name_ja": "太白緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.233188,
+      "lon": 140.822072,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-07c0c4cbe0",
+      "name_ja": "大沢三丁目緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.356892,
+      "lon": 140.876348,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-fc3a6c5238",
+      "name_ja": "寺岡中央公園",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.34047,
+      "lon": 140.83322,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-fa0e45651d",
+      "name_ja": "寺岡緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.342127,
+      "lon": 140.820781,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-5bddb9433d",
+      "name_ja": "館四丁目西緑地",
+      "municipality": "仙台市",
+      "operator": "宮城県",
+      "lat": 38.324979,
+      "lon": 140.796748,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-8d23371616",
+      "name_ja": "大門崎公園",
+      "municipality": "石巻市",
+      "operator": "宮城県",
+      "lat": 38.421483,
+      "lon": 141.323674,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-91c0c9edb5",
+      "name_ja": "河南中央公園",
+      "municipality": "石巻市",
+      "operator": "宮城県",
+      "lat": 38.454755,
+      "lon": 141.244074,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-ccf6a8ee21",
+      "name_ja": "三峰公園",
+      "municipality": "気仙沼市",
+      "operator": "宮城県",
+      "lat": 38.8777,
+      "lon": 141.559249,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-e90e4880e8",
+      "name_ja": "安波山公園",
+      "municipality": "気仙沼市",
+      "operator": "宮城県",
+      "lat": 38.913067,
+      "lon": 141.567575,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-3d51f964d7",
+      "name_ja": "大萩山公園",
+      "municipality": "白石市",
+      "operator": "宮城県",
+      "lat": 38.017157,
+      "lon": 140.652273,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-67914b0f68",
+      "name_ja": "中央公園",
+      "municipality": "多賀城市",
+      "operator": "宮城県",
+      "lat": 38.301041,
+      "lon": 140.988697,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-a651aaf282",
+      "name_ja": "多賀城",
+      "municipality": "多賀城市",
+      "operator": "宮城県",
+      "lat": 38.295034,
+      "lon": 141.013331,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-96cc46ada5",
+      "name_ja": "鹿ヶ城公園",
+      "municipality": "登米市",
+      "operator": "宮城県",
+      "lat": 38.694553,
+      "lon": 141.195948,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-dd504c6fdc",
+      "name_ja": "花の公園",
+      "municipality": "登米市",
+      "operator": "宮城県",
+      "lat": 38.587041,
+      "lon": 141.250198,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-c433bff1a1",
+      "name_ja": "一迫中央公園",
+      "municipality": "栗原市",
+      "operator": "宮城県",
+      "lat": 38.744112,
+      "lon": 140.955315,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-71c2407fbc",
+      "name_ja": "滝山公園",
+      "municipality": "東松島市",
+      "operator": "宮城県",
+      "lat": 38.411959,
+      "lon": 141.181534,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-ae88bee089",
+      "name_ja": "東部運動公園",
+      "municipality": "東松島市",
+      "operator": "宮城県",
+      "lat": 38.385891,
+      "lon": 141.17791,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-f019c3de58",
+      "name_ja": "荒雄公園",
+      "municipality": "大崎市",
+      "operator": "宮城県",
+      "lat": 38.580754,
+      "lon": 140.972089,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-8e5dfb4718",
+      "name_ja": "ほなみ親水公園",
+      "municipality": "大崎市",
+      "operator": "宮城県",
+      "lat": 38.561965,
+      "lon": 140.942133,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-4c071d1377",
+      "name_ja": "江合川緑地",
+      "municipality": "大崎市",
+      "operator": "宮城県",
+      "lat": 38.742473,
+      "lon": 140.712955,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 5.0
+    },
+    {
+      "slug": "p13-9ec73f66f9",
+      "name_ja": "白山公園",
+      "municipality": "刈田郡蔵王町",
+      "operator": "宮城県",
+      "lat": 38.109332,
+      "lon": 140.677492,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-62e3363589",
+      "name_ja": "館山公園",
+      "municipality": "宮城郡利府町",
+      "operator": "宮城県",
+      "lat": 38.335921,
+      "lon": 140.98125,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.2
+    }
+  ]
+}

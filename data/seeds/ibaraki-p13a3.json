@@ -1,0 +1,196 @@
+{
+  "prefecture": "ibaraki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-afc49a9019",
+      "name_ja": "弘道館公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.375848,
+      "lon": 140.476885,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-8f83d5b7dd",
+      "name_ja": "茨城空港公園",
+      "municipality": "小美玉市",
+      "operator": "茨城県",
+      "lat": 36.175369,
+      "lon": 140.409425,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-f1efd1f19f",
+      "name_ja": "弁天池公園",
+      "municipality": "水戸市",
+      "operator": "茨城県",
+      "lat": 36.354765,
+      "lon": 140.396134,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-225675313b",
+      "name_ja": "日立市東平霊園",
+      "municipality": "日立市",
+      "operator": "茨城県",
+      "lat": 36.600312,
+      "lon": 140.64162,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-d9ada03d5b",
+      "name_ja": "日立市十王パノラマ公園",
+      "municipality": "日立市",
+      "operator": "茨城県",
+      "lat": 36.669959,
+      "lon": 140.664956,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-4d65439d4e",
+      "name_ja": "神立公園",
+      "municipality": "土浦市",
+      "operator": "茨城県",
+      "lat": 36.117526,
+      "lon": 140.23041,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-c5e21d614d",
+      "name_ja": "朝日峠展望公園",
+      "municipality": "土浦市",
+      "operator": "茨城県",
+      "lat": 36.172298,
+      "lon": 140.164337,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-0976517ccd",
+      "name_ja": "柏原池公園",
+      "municipality": "石岡市",
+      "operator": "茨城県",
+      "lat": 36.210508,
+      "lon": 140.258911,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-992c9d6c56",
+      "name_ja": "磯原地区公園",
+      "municipality": "北茨城市",
+      "operator": "茨城県",
+      "lat": 36.801265,
+      "lon": 140.742303,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-09dd8fb072",
+      "name_ja": "大池公園",
+      "municipality": "つくば市",
+      "operator": "茨城県",
+      "lat": 36.17428,
+      "lon": 140.104183,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-9029a5b099",
+      "name_ja": "筑波北部公園",
+      "municipality": "つくば市",
+      "operator": "茨城県",
+      "lat": 36.155827,
+      "lon": 140.054905,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-b2850d587c",
+      "name_ja": "六ツ野公園",
+      "municipality": "ひたちなか市",
+      "operator": "茨城県",
+      "lat": 36.402738,
+      "lon": 140.539004,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-34f159a30a",
+      "name_ja": "大島公園",
+      "municipality": "ひたちなか市",
+      "operator": "茨城県",
+      "lat": 36.406872,
+      "lon": 140.521868,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-0ea97f9b6e",
+      "name_ja": "ふれあいの杜公園",
+      "municipality": "那珂市",
+      "operator": "茨城県",
+      "lat": 36.489435,
+      "lon": 140.444104,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-50eb20f61a",
+      "name_ja": "磯部桜川公園",
+      "municipality": "桜川市",
+      "operator": "茨城県",
+      "lat": 36.365305,
+      "lon": 140.136981,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-e69237346c",
+      "name_ja": "宝山公園",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.849066,
+      "lon": 140.728904,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-0b3ae57fe5",
+      "name_ja": "神栖海浜墓地公園",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.897274,
+      "lon": 140.722887,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-5c886a864a",
+      "name_ja": "土合緑地",
+      "municipality": "神栖市",
+      "operator": "茨城県",
+      "lat": 35.795781,
+      "lon": 140.782613,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-db95a9158d",
+      "name_ja": "羽黒山公園",
+      "municipality": "行方市",
+      "operator": "茨城県",
+      "lat": 35.990248,
+      "lon": 140.480593,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    }
+  ]
+}

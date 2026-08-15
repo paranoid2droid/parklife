@@ -1,0 +1,116 @@
+{
+  "prefecture": "wakayama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-b998789022",
+      "name_ja": "和歌山東公園",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.219981,
+      "lon": 135.198564,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-a03bf60663",
+      "name_ja": "紀の川第２緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.246381,
+      "lon": 135.223701,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-74d95c26be",
+      "name_ja": "紀の川第７緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.249111,
+      "lon": 135.229928,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-b7db70dbe2",
+      "name_ja": "紀の川第８緑地",
+      "municipality": "和歌山市",
+      "operator": "和歌山県",
+      "lat": 34.248952,
+      "lon": 135.177607,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-4b3b965082",
+      "name_ja": "向副緑地",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.315393,
+      "lon": 135.618323,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-8d531bcce9",
+      "name_ja": "紀の川高野口第１緑地",
+      "municipality": "橋本市",
+      "operator": "和歌山県",
+      "lat": 34.29481,
+      "lon": 135.559787,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-a0489bc8e0",
+      "name_ja": "目良公園",
+      "municipality": "田辺市",
+      "operator": "和歌山県",
+      "lat": 33.736084,
+      "lon": 135.356376,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-c47905a102",
+      "name_ja": "丹鶴城公園",
+      "municipality": "新宮市",
+      "operator": "和歌山県",
+      "lat": 33.72921,
+      "lon": 135.992468,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-9368412e8d",
+      "name_ja": "粉河河南緑地",
+      "municipality": "紀の川市",
+      "operator": "和歌山県",
+      "lat": 34.258249,
+      "lon": 135.395592,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-8c11471ecb",
+      "name_ja": "愛宕池公園",
+      "municipality": "紀の川市",
+      "operator": "和歌山県",
+      "lat": 34.269003,
+      "lon": 135.455112,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-167b660565",
+      "name_ja": "かつらぎ公園",
+      "municipality": "伊都郡かつらぎ町",
+      "operator": "和歌山県",
+      "lat": 34.295036,
+      "lon": 135.516025,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    }
+  ]
+}

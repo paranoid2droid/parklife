@@ -1,0 +1,106 @@
+{
+  "prefecture": "mie",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2acc1e0a80",
+      "name_ja": "お城公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.718085,
+      "lon": 136.507362,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-2e46979eff",
+      "name_ja": "海浜公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.722706,
+      "lon": 136.525675,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-b12a5bf8ed",
+      "name_ja": "香良洲公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.641825,
+      "lon": 136.546425,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-b36f0ddd55",
+      "name_ja": "津球場公園",
+      "municipality": "津市",
+      "operator": "三重県",
+      "lat": 34.711219,
+      "lon": 136.510764,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-dbee7f170a",
+      "name_ja": "三重城山緑地",
+      "municipality": "四日市市",
+      "operator": "三重県",
+      "lat": 34.990916,
+      "lon": 136.584533,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-a598829253",
+      "name_ja": "宝塚古墳公園",
+      "municipality": "松阪市",
+      "operator": "三重県",
+      "lat": 34.549933,
+      "lon": 136.515458,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-23657c912f",
+      "name_ja": "松ヶ崎公園",
+      "municipality": "松阪市",
+      "operator": "三重県",
+      "lat": 34.603582,
+      "lon": 136.527288,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-44a1e4b11b",
+      "name_ja": "御座池公園",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.831421,
+      "lon": 136.571665,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-ea7a401103",
+      "name_ja": "鼓ヶ浦サン・スポーツランド",
+      "municipality": "鈴鹿市",
+      "operator": "三重県",
+      "lat": 34.821894,
+      "lon": 136.582296,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-da816f892f",
+      "name_ja": "市民の森公園",
+      "municipality": "鳥羽市",
+      "operator": "三重県",
+      "lat": 34.469499,
+      "lon": 136.84934,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    }
+  ]
+}

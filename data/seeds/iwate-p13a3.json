@@ -1,0 +1,136 @@
+{
+  "prefecture": "iwate",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-285ddc7854",
+      "name_ja": "都南中央公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.651709,
+      "lon": 141.15581,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-59a71c3321",
+      "name_ja": "小鹿公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.745011,
+      "lon": 141.160513,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-760f71da88",
+      "name_ja": "愛宕山記念公園",
+      "municipality": "盛岡市",
+      "operator": "岩手県",
+      "lat": 39.713901,
+      "lon": 141.161708,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-cbfdd764b5",
+      "name_ja": "豊沢川緑地",
+      "municipality": "花巻市",
+      "operator": "岩手県",
+      "lat": 39.38196,
+      "lon": 141.115888,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-bde7122634",
+      "name_ja": "大迫総合運動公園",
+      "municipality": "花巻市",
+      "operator": "岩手県",
+      "lat": 39.466723,
+      "lon": 141.273565,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-b3adedf29e",
+      "name_ja": "詩歌の森公園",
+      "municipality": "北上市",
+      "operator": "岩手県",
+      "lat": 39.292156,
+      "lon": 141.114967,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-1b7e69cfd6",
+      "name_ja": "早瀬川緑地",
+      "municipality": "遠野市",
+      "operator": "岩手県",
+      "lat": 39.333607,
+      "lon": 141.539412,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-d131dcdc42",
+      "name_ja": "厳美公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.943808,
+      "lon": 141.048585,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-059077aed7",
+      "name_ja": "釣山公園",
+      "municipality": "一関市",
+      "operator": "岩手県",
+      "lat": 38.924573,
+      "lon": 141.129336,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-7840877c88",
+      "name_ja": "大天場公園",
+      "municipality": "釜石市",
+      "operator": "岩手県",
+      "lat": 39.271301,
+      "lon": 141.854134,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-34cd27b764",
+      "name_ja": "馬仙峡公園",
+      "municipality": "二戸市",
+      "operator": "岩手県",
+      "lat": 40.251819,
+      "lon": 141.278607,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-8720b9fb29",
+      "name_ja": "下惣田ふれあい公園",
+      "municipality": "奥州市",
+      "operator": "岩手県",
+      "lat": 39.184874,
+      "lon": 141.174565,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-d80708de0f",
+      "name_ja": "思惟大橋コミュニティー公園",
+      "municipality": "下閉伊郡田野畑村",
+      "operator": "岩手県",
+      "lat": 39.909989,
+      "lon": 141.901658,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    }
+  ]
+}

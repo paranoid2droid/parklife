@@ -1,0 +1,136 @@
+{
+  "prefecture": "toyama",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-f42f32d3ee",
+      "name_ja": "布瀬南公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.67193,
+      "lon": 137.19987,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-6410b56449",
+      "name_ja": "神通川左岸広場",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.679316,
+      "lon": 137.193025,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-f8993252ad",
+      "name_ja": "五福山水苑",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.699104,
+      "lon": 137.196851,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-ae2fe6b13f",
+      "name_ja": "猿倉山公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.557531,
+      "lon": 137.226214,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-849c077d05",
+      "name_ja": "羽根ピースフル公園",
+      "municipality": "富山市",
+      "operator": "富山県",
+      "lat": 36.660943,
+      "lon": 137.144026,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-9d76fc123c",
+      "name_ja": "島尾海浜公園",
+      "municipality": "氷見市",
+      "operator": "富山県",
+      "lat": 36.830016,
+      "lon": 137.013644,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-1f8358112e",
+      "name_ja": "海浜植物園",
+      "municipality": "氷見市",
+      "operator": "富山県",
+      "lat": 36.837248,
+      "lon": 137.004486,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-7caf6de7f3",
+      "name_ja": "柳田布尾山古墳公園",
+      "municipality": "氷見市",
+      "operator": "富山県",
+      "lat": 36.824519,
+      "lon": 136.99231,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-a4ad6303cf",
+      "name_ja": "赤坂墓園",
+      "municipality": "砺波市",
+      "operator": "富山県",
+      "lat": 36.626347,
+      "lon": 137.026994,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-dcc2d9131b",
+      "name_ja": "小矢部河川公園",
+      "municipality": "小矢部市",
+      "operator": "富山県",
+      "lat": 36.68123,
+      "lon": 136.881279,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-5bece3f7e4",
+      "name_ja": "小矢部川公園",
+      "municipality": "南砺市",
+      "operator": "富山県",
+      "lat": 36.555727,
+      "lon": 136.873563,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-ec988ff7a5",
+      "name_ja": "射水市海老江緑地",
+      "municipality": "射水市",
+      "operator": "富山県",
+      "lat": 36.761712,
+      "lon": 137.150851,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-3d93f039f2",
+      "name_ja": "沢スギ自然観察公園",
+      "municipality": "下新川郡入善町",
+      "operator": "富山県",
+      "lat": 36.942492,
+      "lon": 137.472453,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    }
+  ]
+}

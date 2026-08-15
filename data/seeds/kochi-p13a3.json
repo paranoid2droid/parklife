@@ -1,0 +1,36 @@
+{
+  "prefecture": "kochi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a3a759a3de",
+      "name_ja": "土佐公園",
+      "municipality": "土佐市",
+      "operator": "高知県",
+      "lat": 33.49874,
+      "lon": 133.404465,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-31efdad372",
+      "name_ja": "四万十川桜づつみ公園",
+      "municipality": "四万十市",
+      "operator": "高知県",
+      "lat": 33.002662,
+      "lon": 132.901696,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-0d687c6e2b",
+      "name_ja": "宮ノ前公園",
+      "municipality": "高岡郡越知町",
+      "operator": "高知県",
+      "lat": 33.536293,
+      "lon": 133.245594,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    }
+  ]
+}

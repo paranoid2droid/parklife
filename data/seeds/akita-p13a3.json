@@ -1,0 +1,156 @@
+{
+  "prefecture": "akita",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-63ad457238",
+      "name_ja": "記念公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.304564,
+      "lon": 140.568396,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-d14eeacc82",
+      "name_ja": "前郷墓園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.298233,
+      "lon": 140.571818,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-46d4145fb9",
+      "name_ja": "十五野公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.259659,
+      "lon": 140.504202,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-b42b119f2d",
+      "name_ja": "西河畔公園",
+      "municipality": "横手市",
+      "operator": "秋田県",
+      "lat": 39.359808,
+      "lon": 140.518734,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-4b52672fc6",
+      "name_ja": "扇田地区米代川河川緑地",
+      "municipality": "大館市",
+      "operator": "秋田県",
+      "lat": 40.232193,
+      "lon": 140.578024,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-9b5a629b53",
+      "name_ja": "愛宕公園",
+      "municipality": "湯沢市",
+      "operator": "秋田県",
+      "lat": 39.148739,
+      "lon": 140.495087,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-c065b4d77e",
+      "name_ja": "中央公園",
+      "municipality": "湯沢市",
+      "operator": "秋田県",
+      "lat": 39.16338,
+      "lon": 140.495638,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-782c182310",
+      "name_ja": "桜山地区公園",
+      "municipality": "鹿角市",
+      "operator": "秋田県",
+      "lat": 40.190957,
+      "lon": 140.794694,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-f0a1322fb1",
+      "name_ja": "高城公園",
+      "municipality": "由利本荘市",
+      "operator": "秋田県",
+      "lat": 39.498251,
+      "lon": 140.090775,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-a60636f429",
+      "name_ja": "神岡中央公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.497069,
+      "lon": 140.414902,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-2e9a22070e",
+      "name_ja": "米ヶ森公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.619106,
+      "lon": 140.364622,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-c80523686b",
+      "name_ja": "太田南部地区公園",
+      "municipality": "大仙市",
+      "operator": "秋田県",
+      "lat": 39.505549,
+      "lon": 140.607324,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-db3ecb516f",
+      "name_ja": "米代川河川緑地",
+      "municipality": "北秋田市",
+      "operator": "秋田県",
+      "lat": 40.216507,
+      "lon": 140.363203,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-83f4040731",
+      "name_ja": "北緯40度カントリーパーク",
+      "municipality": "北秋田市",
+      "operator": "秋田県",
+      "lat": 40.001999,
+      "lon": 140.400091,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-0a07bcafd1",
+      "name_ja": "清水岱公園",
+      "municipality": "山本郡藤里町",
+      "operator": "秋田県",
+      "lat": 40.27958,
+      "lon": 140.252927,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    }
+  ]
+}

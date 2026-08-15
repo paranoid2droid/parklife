@@ -1,0 +1,116 @@
+{
+  "prefecture": "ehime",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-626c031a64",
+      "name_ja": "東村海岸公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.043065,
+      "lon": 133.031699,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-06ddc95cd3",
+      "name_ja": "鹿ノ子池公園",
+      "municipality": "今治市",
+      "operator": "愛媛県",
+      "lat": 34.019115,
+      "lon": 133.001225,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-7ff9851fc4",
+      "name_ja": "石丸公園",
+      "municipality": "宇和島市",
+      "operator": "愛媛県",
+      "lat": 33.180931,
+      "lon": 132.543516,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-cfb3edd3f3",
+      "name_ja": "吉田公園",
+      "municipality": "宇和島市",
+      "operator": "愛媛県",
+      "lat": 33.284072,
+      "lon": 132.532693,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-a64b6de1d5",
+      "name_ja": "西条市民公園",
+      "municipality": "西条市",
+      "operator": "愛媛県",
+      "lat": 33.917423,
+      "lon": 133.193241,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-6fbedf605b",
+      "name_ja": "新谷公園",
+      "municipality": "大洲市",
+      "operator": "愛媛県",
+      "lat": 33.538653,
+      "lon": 132.597116,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-dcedff9a31",
+      "name_ja": "五色浜公園",
+      "municipality": "伊予市",
+      "operator": "愛媛県",
+      "lat": 33.755348,
+      "lon": 132.696636,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-0b0592d632",
+      "name_ja": "御旅公園",
+      "municipality": "西予市",
+      "operator": "愛媛県",
+      "lat": 33.362113,
+      "lon": 132.521448,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-fe1b62a748",
+      "name_ja": "あけはまシーサイド・サンパーク",
+      "municipality": "西予市",
+      "operator": "愛媛県",
+      "lat": 33.316053,
+      "lon": 132.445677,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-e0bc255c47",
+      "name_ja": "重信川緑地",
+      "municipality": "伊予郡松前町",
+      "operator": "愛媛県",
+      "lat": 33.796259,
+      "lon": 132.767047,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-0b66d5afc5",
+      "name_ja": "松前公園",
+      "municipality": "伊予郡松前町",
+      "operator": "愛媛県",
+      "lat": 33.788479,
+      "lon": 132.713604,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    }
+  ]
+}

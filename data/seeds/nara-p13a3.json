@@ -1,0 +1,116 @@
+{
+  "prefecture": "nara",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-ad2e9e8600",
+      "name_ja": "柏木公園",
+      "municipality": "奈良市",
+      "operator": "奈良県",
+      "lat": 34.666328,
+      "lon": 135.796846,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-0457e905b1",
+      "name_ja": "佐保台第５号緑地",
+      "municipality": "奈良市",
+      "operator": "奈良県",
+      "lat": 34.706893,
+      "lon": 135.816932,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-9bc436e536",
+      "name_ja": "九条公園",
+      "municipality": "大和郡山市",
+      "operator": "奈良県",
+      "lat": 34.658816,
+      "lon": 135.790324,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-8c3531b6b2",
+      "name_ja": "神宮外苑公園",
+      "municipality": "天理市",
+      "operator": "奈良県",
+      "lat": 34.59647,
+      "lon": 135.85037,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-2811982c45",
+      "name_ja": "むかいやま公園",
+      "municipality": "生駒市",
+      "operator": "奈良県",
+      "lat": 34.663292,
+      "lon": 135.696387,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-4cecb4c9b9",
+      "name_ja": "鹿ノ台第２緑地",
+      "municipality": "生駒市",
+      "operator": "奈良県",
+      "lat": 34.741327,
+      "lon": 135.748792,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-d324c8044e",
+      "name_ja": "高塚地区公園",
+      "municipality": "香芝市",
+      "operator": "奈良県",
+      "lat": 34.545057,
+      "lon": 135.722412,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-adf2596443",
+      "name_ja": "カントリーパーク大川",
+      "municipality": "山辺郡山添村",
+      "operator": "奈良県",
+      "lat": 34.69709,
+      "lon": 136.073563,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-1e1c27336e",
+      "name_ja": "竜田運動公園",
+      "municipality": "生駒郡三郷町",
+      "operator": "奈良県",
+      "lat": 34.594248,
+      "lon": 135.684138,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-f26891b63f",
+      "name_ja": "高取中央公園",
+      "municipality": "高市郡高取町",
+      "operator": "奈良県",
+      "lat": 34.45035,
+      "lon": 135.792233,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-d12de6f2f7",
+      "name_ja": "平畑運動公園",
+      "municipality": "吉野郡大淀町",
+      "operator": "奈良県",
+      "lat": 34.397392,
+      "lon": 135.786837,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.3
+    }
+  ]
+}

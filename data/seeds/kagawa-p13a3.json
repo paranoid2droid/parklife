@@ -1,0 +1,96 @@
+{
+  "prefecture": "kagawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1bf75ee9d0",
+      "name_ja": "中央公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.34126,
+      "lon": 134.04668,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-cb8b201fcf",
+      "name_ja": "如意輪寺公園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.309483,
+      "lon": 133.95357,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-ca3cc118a0",
+      "name_ja": "六ツ目墓園",
+      "municipality": "高松市",
+      "operator": "香川県",
+      "lat": 34.289849,
+      "lon": 133.972637,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-49b8d31c43",
+      "name_ja": "蓬莱海浜公園",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.308016,
+      "lon": 133.778547,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-c48fd76a4f",
+      "name_ja": "塩屋町緑地",
+      "municipality": "丸亀市",
+      "operator": "香川県",
+      "lat": 34.292573,
+      "lon": 133.783837,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-d9103e51fd",
+      "name_ja": "一の宮公園",
+      "municipality": "観音寺市",
+      "operator": "香川県",
+      "lat": 34.085559,
+      "lon": 133.638894,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-deaa9fb297",
+      "name_ja": "鶴羽墓園",
+      "municipality": "さぬき市",
+      "operator": "香川県",
+      "lat": 34.274563,
+      "lon": 134.25657,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-7e9d8419f0",
+      "name_ja": "財田川リバーサイドパーク",
+      "municipality": "三豊市",
+      "operator": "香川県",
+      "lat": 34.138495,
+      "lon": 133.690577,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-c7566b8fa9",
+      "name_ja": "馬木公園",
+      "municipality": "小豆郡小豆島町",
+      "operator": "香川県",
+      "lat": 34.473607,
+      "lon": 134.315138,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    }
+  ]
+}

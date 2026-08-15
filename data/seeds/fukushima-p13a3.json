@@ -1,0 +1,136 @@
+{
+  "prefecture": "fukushima",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-aa27e72ffe",
+      "name_ja": "森合運動公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.765283,
+      "lon": 140.448735,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-8dbd48eae8",
+      "name_ja": "松川運動公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.781611,
+      "lon": 140.458511,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-5afbd1f591",
+      "name_ja": "新山霊園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.763186,
+      "lon": 140.497695,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-06f118a6c3",
+      "name_ja": "腰浜緑地",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.760475,
+      "lon": 140.486992,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-841615d64b",
+      "name_ja": "あぶくま親水公園",
+      "municipality": "福島市",
+      "operator": "福島県",
+      "lat": 37.765542,
+      "lon": 140.491497,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-86318a2bab",
+      "name_ja": "風土記の丘公園",
+      "municipality": "郡山市",
+      "operator": "福島県",
+      "lat": 37.391728,
+      "lon": 140.422977,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-b409a6a3c9",
+      "name_ja": "金山公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 36.929466,
+      "lon": 140.820262,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-f09e7dee45",
+      "name_ja": "松ヶ岡公園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 37.054887,
+      "lon": 140.882668,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-410473ad36",
+      "name_ja": "東田墓園",
+      "municipality": "いわき市",
+      "operator": "福島県",
+      "lat": 36.928655,
+      "lon": 140.811681,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-bb1cdfd4c0",
+      "name_ja": "旭ヶ岡公園",
+      "municipality": "須賀川市",
+      "operator": "福島県",
+      "lat": 37.281565,
+      "lon": 140.364433,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-e46f150cb1",
+      "name_ja": "御殿場公園",
+      "municipality": "喜多方市",
+      "operator": "福島県",
+      "lat": 37.597485,
+      "lon": 139.881996,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-864dd9cf35",
+      "name_ja": "恵向公園",
+      "municipality": "本宮市",
+      "operator": "福島県",
+      "lat": 37.478008,
+      "lon": 140.373231,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-1333fc7860",
+      "name_ja": "丈六公園",
+      "municipality": "双葉郡浪江町",
+      "operator": "福島県",
+      "lat": 37.481878,
+      "lon": 140.996346,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    }
+  ]
+}

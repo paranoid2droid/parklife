@@ -1,0 +1,286 @@
+{
+  "prefecture": "shizuoka",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-1144e1cd4d",
+      "name_ja": "鳥羽山公園",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.858149,
+      "lon": 137.80582,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-de45110e70",
+      "name_ja": "安間川公園",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.730771,
+      "lon": 137.786125,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-837c91fa99",
+      "name_ja": "馬込川上島緑地",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.747798,
+      "lon": 137.742574,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-a44d8fd450",
+      "name_ja": "高丘公園",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.753996,
+      "lon": 137.708513,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-b71cb11777",
+      "name_ja": "梔池緑地",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.813499,
+      "lon": 137.76102,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-928ee12779",
+      "name_ja": "天竜川中瀬緑地",
+      "municipality": "浜松市",
+      "operator": "静岡県",
+      "lat": 34.822449,
+      "lon": 137.823228,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-1cecdb7b3c",
+      "name_ja": "門池公園",
+      "municipality": "沼津市",
+      "operator": "静岡県",
+      "lat": 35.129352,
+      "lon": 138.882779,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-7e788b3d75",
+      "name_ja": "梅園",
+      "municipality": "熱海市",
+      "operator": "静岡県",
+      "lat": 35.097584,
+      "lon": 139.059294,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-39ca90442d",
+      "name_ja": "網代朝日山公園",
+      "municipality": "熱海市",
+      "operator": "静岡県",
+      "lat": 35.044702,
+      "lon": 139.097419,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-6eb54917f6",
+      "name_ja": "小山臨海公園",
+      "municipality": "熱海市",
+      "operator": "静岡県",
+      "lat": 35.046857,
+      "lon": 139.077736,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-2b257b70b9",
+      "name_ja": "伊東霊園",
+      "municipality": "伊東市",
+      "operator": "静岡県",
+      "lat": 34.880291,
+      "lon": 139.055367,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-2f415cb1af",
+      "name_ja": "浮島ヶ原自然公園",
+      "municipality": "富士市",
+      "operator": "静岡県",
+      "lat": 35.139831,
+      "lon": 138.746507,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-3dfab0e016",
+      "name_ja": "厚原スポーツ公園",
+      "municipality": "富士市",
+      "operator": "静岡県",
+      "lat": 35.186192,
+      "lon": 138.66265,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-ec842506d9",
+      "name_ja": "中央公園",
+      "municipality": "磐田市",
+      "operator": "静岡県",
+      "lat": 34.720042,
+      "lon": 137.85511,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-b1322fd8da",
+      "name_ja": "安久路公園",
+      "municipality": "磐田市",
+      "operator": "静岡県",
+      "lat": 34.721427,
+      "lon": 137.871481,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-6233c0177f",
+      "name_ja": "竜洋西堀河川敷公園",
+      "municipality": "磐田市",
+      "operator": "静岡県",
+      "lat": 34.696727,
+      "lon": 137.801971,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-e2782d9bda",
+      "name_ja": "福田公園",
+      "municipality": "磐田市",
+      "operator": "静岡県",
+      "lat": 34.666021,
+      "lon": 137.877373,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-6b3adee9d6",
+      "name_ja": "石津浜公園",
+      "municipality": "焼津市",
+      "operator": "静岡県",
+      "lat": 34.842274,
+      "lon": 138.334658,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-02d32288f0",
+      "name_ja": "中央公園",
+      "municipality": "御殿場市",
+      "operator": "静岡県",
+      "lat": 35.30609,
+      "lon": 138.92722,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-f403a819cd",
+      "name_ja": "桜公園",
+      "municipality": "御殿場市",
+      "operator": "静岡県",
+      "lat": 35.323155,
+      "lon": 138.881245,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-aeed4aac97",
+      "name_ja": "田原緑地",
+      "municipality": "袋井市",
+      "operator": "静岡県",
+      "lat": 34.734952,
+      "lon": 137.905468,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-d8d67ac894",
+      "name_ja": "新居弁天公園",
+      "municipality": "湖西市",
+      "operator": "静岡県",
+      "lat": 34.681854,
+      "lon": 137.586586,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-a1bd50d928",
+      "name_ja": "蓮池公園",
+      "municipality": "菊川市",
+      "operator": "静岡県",
+      "lat": 34.6947,
+      "lon": 138.07259,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-2cf3b674a4",
+      "name_ja": "狩野川リバーサイドパーク",
+      "municipality": "伊豆の国市",
+      "operator": "静岡県",
+      "lat": 35.025178,
+      "lon": 138.941157,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-836b48d19e",
+      "name_ja": "守山西公園",
+      "municipality": "伊豆の国市",
+      "operator": "静岡県",
+      "lat": 35.046577,
+      "lon": 138.936403,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-b516aa2b54",
+      "name_ja": "柿田川公園",
+      "municipality": "駿東郡清水町",
+      "operator": "静岡県",
+      "lat": 35.107695,
+      "lon": 138.901597,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-179aa11d6e",
+      "name_ja": "駿河平自然公園",
+      "municipality": "駿東郡長泉町",
+      "operator": "静岡県",
+      "lat": 35.172557,
+      "lon": 138.870348,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-f34ca543bd",
+      "name_ja": "湯日川親水公園",
+      "municipality": "榛原郡吉田町",
+      "operator": "静岡県",
+      "lat": 34.758772,
+      "lon": 138.268773,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.7
+    }
+  ]
+}

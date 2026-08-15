@@ -1,0 +1,76 @@
+{
+  "prefecture": "fukui",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-a24b4fd9d1",
+      "name_ja": "幾久公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.082083,
+      "lon": 136.222492,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-674270b0a4",
+      "name_ja": "グリーンハイツ5号公園",
+      "municipality": "福井市",
+      "operator": "福井県",
+      "lat": 36.038959,
+      "lon": 136.167469,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-a57bfe1d0d",
+      "name_ja": "日野川緑地",
+      "municipality": "鯖江市",
+      "operator": "福井県",
+      "lat": 35.946125,
+      "lon": 136.172879,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-33ebc8ddad",
+      "name_ja": "北潟湖畔公園",
+      "municipality": "あわら市",
+      "operator": "福井県",
+      "lat": 36.257867,
+      "lon": 136.226791,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-c6ffa7a2f5",
+      "name_ja": "花筐公園",
+      "municipality": "越前市",
+      "operator": "福井県",
+      "lat": 35.918613,
+      "lon": 136.238237,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-a141fc99cb",
+      "name_ja": "織田中央公園",
+      "municipality": "丹生郡越前町",
+      "operator": "福井県",
+      "lat": 35.949167,
+      "lon": 136.056543,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-421805be27",
+      "name_ja": "不老山公園",
+      "municipality": "丹生郡越前町",
+      "operator": "福井県",
+      "lat": 35.956747,
+      "lon": 136.061448,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    }
+  ]
+}

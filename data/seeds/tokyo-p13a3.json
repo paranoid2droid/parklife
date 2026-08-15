@@ -1,0 +1,256 @@
+{
+  "prefecture": "tokyo",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-47eb03cbd9",
+      "name_ja": "大神山公園",
+      "municipality": "小笠原村",
+      "operator": "東京都",
+      "lat": 27.093688,
+      "lon": 142.192381,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 15.3
+    },
+    {
+      "slug": "p13-cc25e396dc",
+      "name_ja": "外濠公園",
+      "municipality": "千代田区",
+      "operator": "東京都",
+      "lat": 35.694419,
+      "lon": 139.739437,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-35901ab58e",
+      "name_ja": "隅田川公園",
+      "municipality": "中央区",
+      "operator": "東京都",
+      "lat": 35.688254,
+      "lon": 139.788959,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-53ed95d29f",
+      "name_ja": "駒場野公園",
+      "municipality": "目黒区",
+      "operator": "東京都",
+      "lat": 35.6581,
+      "lon": 139.68018,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-3f3ace166a",
+      "name_ja": "碑文谷公園",
+      "municipality": "目黒区",
+      "operator": "東京都",
+      "lat": 35.62587,
+      "lon": 139.68228,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-e1fe1900de",
+      "name_ja": "多摩川大師橋緑地",
+      "municipality": "大田区",
+      "operator": "東京都",
+      "lat": 35.544903,
+      "lon": 139.73126,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-a1c73b4140",
+      "name_ja": "次大夫堀公園",
+      "municipality": "世田谷区",
+      "operator": "東京都",
+      "lat": 35.631255,
+      "lon": 139.599254,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-5281b6ed3b",
+      "name_ja": "柏の宮公園",
+      "municipality": "杉並区",
+      "operator": "東京都",
+      "lat": 35.678321,
+      "lon": 139.626294,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-afcb0a5298",
+      "name_ja": "曳舟川親水公園",
+      "municipality": "葛飾区",
+      "operator": "東京都",
+      "lat": 35.761315,
+      "lon": 139.845694,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-fc36be6167",
+      "name_ja": "西水元水辺の公園",
+      "municipality": "葛飾区",
+      "operator": "東京都",
+      "lat": 35.786237,
+      "lon": 139.846928,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-4098403fbe",
+      "name_ja": "小松川運動公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.703679,
+      "lon": 139.853155,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-742c90e138",
+      "name_ja": "小松川境川親水公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.711508,
+      "lon": 139.867461,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-af64cb09a8",
+      "name_ja": "一之江境川親水公園",
+      "municipality": "江戸川区",
+      "operator": "東京都",
+      "lat": 35.696644,
+      "lon": 139.881393,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-53a532fe23",
+      "name_ja": "武蔵台公園",
+      "municipality": "府中市",
+      "operator": "東京都",
+      "lat": 35.68868,
+      "lon": 139.46075,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-694cfcd522",
+      "name_ja": "図師日影坂下公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.585906,
+      "lon": 139.416999,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-06b1055ba7",
+      "name_ja": "沢谷戸自然公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.57801,
+      "lon": 139.49036,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-ab3042aa88",
+      "name_ja": "上小山田みつやせせらぎ公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.597155,
+      "lon": 139.402498,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-17a812f28c",
+      "name_ja": "日向山公園",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.567628,
+      "lon": 139.446527,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-1b6f6cdfa6",
+      "name_ja": "真光寺緑地",
+      "municipality": "町田市",
+      "operator": "東京都",
+      "lat": 35.605125,
+      "lon": 139.467671,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-c1daf053a2",
+      "name_ja": "福生公園",
+      "municipality": "福生市",
+      "operator": "東京都",
+      "lat": 35.7342,
+      "lon": 139.33684,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-6c8f560b18",
+      "name_ja": "上仲原公園",
+      "municipality": "東大和市",
+      "operator": "東京都",
+      "lat": 35.74139,
+      "lon": 139.44373,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-3b3491caa9",
+      "name_ja": "東寺方橋緑地",
+      "municipality": "多摩市",
+      "operator": "東京都",
+      "lat": 35.646526,
+      "lon": 139.441881,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-70e3ed1072",
+      "name_ja": "多摩川緑地公園",
+      "municipality": "稲城市",
+      "operator": "東京都",
+      "lat": 35.644561,
+      "lon": 139.522002,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-c2e55baf84",
+      "name_ja": "動物公園",
+      "municipality": "羽村市",
+      "operator": "東京都",
+      "lat": 35.767475,
+      "lon": 139.328856,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-9ffeed53cc",
+      "name_ja": "西東京いこいの森公園",
+      "municipality": "西東京市",
+      "operator": "東京都",
+      "lat": 35.740408,
+      "lon": 139.541149,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    }
+  ]
+}

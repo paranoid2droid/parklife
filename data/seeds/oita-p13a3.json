@@ -1,0 +1,166 @@
+{
+  "prefecture": "oita",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-814cb605f2",
+      "name_ja": "家島緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.259033,
+      "lon": 131.693688,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-7e6480f801",
+      "name_ja": "大分城址公園",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.240154,
+      "lon": 131.611536,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-aebc324918",
+      "name_ja": "高江西緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.160192,
+      "lon": 131.610587,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-8b44154091",
+      "name_ja": "高江南緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.167228,
+      "lon": 131.614719,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-5392248e24",
+      "name_ja": "田尻ニュータウン緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.175893,
+      "lon": 131.581656,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-5a6c9df4c7",
+      "name_ja": "鶴崎スポーツパーク",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.22558,
+      "lon": 131.69175,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-2f6dfd9de1",
+      "name_ja": "富士見が丘南緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.183677,
+      "lon": 131.524142,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-d7391889f1",
+      "name_ja": "堀川緑地",
+      "municipality": "大分市",
+      "operator": "大分県",
+      "lat": 33.24827,
+      "lon": 131.681289,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-ca48c668e0",
+      "name_ja": "鏡坂公園",
+      "municipality": "日田市",
+      "operator": "大分県",
+      "lat": 33.308979,
+      "lon": 130.923601,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-929b2fab74",
+      "name_ja": "月隈公園",
+      "municipality": "日田市",
+      "operator": "大分県",
+      "lat": 33.332199,
+      "lon": 130.936011,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-75f367fa53",
+      "name_ja": "亀山公園",
+      "municipality": "日田市",
+      "operator": "大分県",
+      "lat": 33.314479,
+      "lon": 130.92849,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-204f98e3c0",
+      "name_ja": "佐伯弥生スポーツ公園",
+      "municipality": "佐伯市",
+      "operator": "大分県",
+      "lat": 32.969598,
+      "lon": 131.841488,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-bf9a202259",
+      "name_ja": "鷹居地区公園",
+      "municipality": "宇佐市",
+      "operator": "大分県",
+      "lat": 33.532254,
+      "lon": 131.353001,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-9b60e255dd",
+      "name_ja": "安国寺公園",
+      "municipality": "国東市",
+      "operator": "大分県",
+      "lat": 33.565011,
+      "lon": 131.716469,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-144cdb4aca",
+      "name_ja": "黒岩公園",
+      "municipality": "速見郡日出町",
+      "operator": "大分県",
+      "lat": 33.377012,
+      "lon": 131.516544,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-aeaf8b04d9",
+      "name_ja": "三島公園",
+      "municipality": "玖珠郡玖珠町",
+      "operator": "大分県",
+      "lat": 33.303421,
+      "lon": 131.156711,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.0
+    }
+  ]
+}

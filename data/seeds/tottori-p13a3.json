@@ -1,0 +1,76 @@
+{
+  "prefecture": "tottori",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4c42a5ea41",
+      "name_ja": "美保公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.482312,
+      "lon": 134.224537,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-ecd241ea91",
+      "name_ja": "浜村砂丘公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.512195,
+      "lon": 134.053108,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-6bb6103b8c",
+      "name_ja": "樗谿公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.498684,
+      "lon": 134.242593,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-4129eef8b2",
+      "name_ja": "青谷上寺地遺跡公園",
+      "municipality": "鳥取市",
+      "operator": "鳥取県",
+      "lat": 35.512838,
+      "lon": 133.990468,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-e7e9b3b8f6",
+      "name_ja": "福市公園",
+      "municipality": "米子市",
+      "operator": "鳥取県",
+      "lat": 35.40345,
+      "lon": 133.366803,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-c3f0715fd5",
+      "name_ja": "史跡大御堂廃寺跡歴史公園",
+      "municipality": "倉吉市",
+      "operator": "鳥取県",
+      "lat": 35.431203,
+      "lon": 133.838852,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-d4e8f40176",
+      "name_ja": "海浜運動公園",
+      "municipality": "西伯郡日吉津村",
+      "operator": "鳥取県",
+      "lat": 35.452719,
+      "lon": 133.388573,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "prefecture": "ishikawa",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-2b6416ea7f",
+      "name_ja": "額谷ふれあい公園",
+      "municipality": "金沢市",
+      "operator": "石川県",
+      "lat": 36.509214,
+      "lon": 136.628953,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-da30b9ffb8",
+      "name_ja": "小丸山公園",
+      "municipality": "七尾市",
+      "operator": "石川県",
+      "lat": 37.046474,
+      "lon": 136.959447,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-a14372344b",
+      "name_ja": "芦城公園",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.40984,
+      "lon": 136.447909,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-3a9fdbf9f0",
+      "name_ja": "末広緑地",
+      "municipality": "小松市",
+      "operator": "石川県",
+      "lat": 36.400803,
+      "lon": 136.434572,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-85e43a3ec7",
+      "name_ja": "野々江総合公園",
+      "municipality": "珠洲市",
+      "operator": "石川県",
+      "lat": 37.44629,
+      "lon": 137.270869,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-d6acbdd19a",
+      "name_ja": "松籟公園",
+      "municipality": "加賀市",
+      "operator": "石川県",
+      "lat": 36.291653,
+      "lon": 136.367163,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-804d8bdeed",
+      "name_ja": "高松墓園",
+      "municipality": "かほく市",
+      "operator": "石川県",
+      "lat": 36.769682,
+      "lon": 136.749495,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-2299a73b20",
+      "name_ja": "谷公園",
+      "municipality": "かほく市",
+      "operator": "石川県",
+      "lat": 36.742445,
+      "lon": 136.72728,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-22588cceaa",
+      "name_ja": "中条公園",
+      "municipality": "河北郡津幡町",
+      "operator": "石川県",
+      "lat": 36.652981,
+      "lon": 136.716276,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-66b4b0fefe",
+      "name_ja": "住吉公園",
+      "municipality": "河北郡津幡町",
+      "operator": "石川県",
+      "lat": 36.673599,
+      "lon": 136.725501,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.0
+    }
+  ]
+}

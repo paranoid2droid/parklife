@@ -1,0 +1,56 @@
+{
+  "prefecture": "shimane",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-9ce6f6319f",
+      "name_ja": "来待ストーン",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.413458,
+      "lon": 132.949305,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-262acd2aa5",
+      "name_ja": "玉作公園",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.417943,
+      "lon": 133.012217,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-499a9402bb",
+      "name_ja": "花冠の里(花木公園)",
+      "municipality": "松江市",
+      "operator": "島根県",
+      "lat": 35.485589,
+      "lon": 132.984904,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-f0ad516909",
+      "name_ja": "三隅公園",
+      "municipality": "浜田市",
+      "operator": "島根県",
+      "lat": 34.775431,
+      "lon": 131.966348,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-b99e03269c",
+      "name_ja": "高角山公園",
+      "municipality": "江津市",
+      "operator": "島根県",
+      "lat": 34.994846,
+      "lon": 132.23923,
+      "p13_kdp": "都市緑地",
+      "p13_area_ha": 4.7
+    }
+  ]
+}

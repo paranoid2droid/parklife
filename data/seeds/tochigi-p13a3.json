@@ -1,0 +1,286 @@
+{
+  "prefecture": "tochigi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-c5e387a60e",
+      "name_ja": "栃木県日光田母沢御用邸記念公園",
+      "municipality": "日光市",
+      "operator": "栃木県",
+      "lat": 36.752765,
+      "lon": 139.591644,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-9c7aa9bc44",
+      "name_ja": "御幸公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.583355,
+      "lon": 139.930267,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-82e07aeba5",
+      "name_ja": "宇都宮駅東公園",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.560555,
+      "lon": 139.909156,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-a201349601",
+      "name_ja": "宇都宮城址公園（旧御本丸）",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.554642,
+      "lon": 139.88527,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-09494d4492",
+      "name_ja": "とよさとこもれびの森緑地",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.604831,
+      "lon": 139.889835,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-44ac6d0bed",
+      "name_ja": "とよさと野鳥の森緑地",
+      "municipality": "宇都宮市",
+      "operator": "栃木県",
+      "lat": 36.607144,
+      "lon": 139.887405,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-c393cfb61f",
+      "name_ja": "足利公園",
+      "municipality": "足利市",
+      "operator": "栃木県",
+      "lat": 36.337066,
+      "lon": 139.434946,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-7eaa226c0b",
+      "name_ja": "五十部運動公園",
+      "municipality": "足利市",
+      "operator": "栃木県",
+      "lat": 36.336411,
+      "lon": 139.427863,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-468a3d5e84",
+      "name_ja": "太平山風致公園",
+      "municipality": "栃木市",
+      "operator": "栃木県",
+      "lat": 36.361018,
+      "lon": 139.698277,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-e72606e41f",
+      "name_ja": "城山公園",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.318761,
+      "lon": 139.578977,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-ccfd279042",
+      "name_ja": "松原公園",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.360119,
+      "lon": 139.55101,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-af2d5c9676",
+      "name_ja": "旗川戸奈良緑地",
+      "municipality": "佐野市",
+      "operator": "栃木県",
+      "lat": 36.371459,
+      "lon": 139.560874,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-7605be4e38",
+      "name_ja": "御殿山公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.567791,
+      "lon": 139.743093,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    },
+    {
+      "slug": "p13-1d4a855062",
+      "name_ja": "千手山公園",
+      "municipality": "鹿沼市",
+      "operator": "栃木県",
+      "lat": 36.572636,
+      "lon": 139.743929,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-d7ddc8499b",
+      "name_ja": "藤原運動公園",
+      "municipality": "日光市",
+      "operator": "栃木県",
+      "lat": 36.814902,
+      "lon": 139.716725,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-8e211576ff",
+      "name_ja": "城山公園",
+      "municipality": "小山市",
+      "operator": "栃木県",
+      "lat": 36.317805,
+      "lon": 139.800017,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-c6937178a1",
+      "name_ja": "間々田八幡公園",
+      "municipality": "小山市",
+      "operator": "栃木県",
+      "lat": 36.27418,
+      "lon": 139.766719,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-c1617effe3",
+      "name_ja": "間々田美しが丘公園",
+      "municipality": "小山市",
+      "operator": "栃木県",
+      "lat": 36.263842,
+      "lon": 139.773391,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-25872f1440",
+      "name_ja": "龍城公園",
+      "municipality": "大田原市",
+      "operator": "栃木県",
+      "lat": 36.868498,
+      "lon": 140.034735,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-10bc0d5b08",
+      "name_ja": "与一公園",
+      "municipality": "大田原市",
+      "operator": "栃木県",
+      "lat": 36.801947,
+      "lon": 140.051539,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-cc48479f20",
+      "name_ja": "大田原グリーンパーク",
+      "municipality": "大田原市",
+      "operator": "栃木県",
+      "lat": 36.840955,
+      "lon": 140.037613,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-7ba5c30183",
+      "name_ja": "関谷南公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.941523,
+      "lon": 139.904255,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-fac91bc971",
+      "name_ja": "塩原運動公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.989615,
+      "lon": 139.804589,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-80e1c08fa4",
+      "name_ja": "乃木公園",
+      "municipality": "那須塩原市",
+      "operator": "栃木県",
+      "lat": 36.887763,
+      "lon": 140.003728,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-50d188416b",
+      "name_ja": "お丸山公園",
+      "municipality": "さくら市",
+      "operator": "栃木県",
+      "lat": 36.71921,
+      "lon": 140.01967,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-b88b01d0db",
+      "name_ja": "城山公園",
+      "municipality": "芳賀郡茂木町",
+      "operator": "栃木県",
+      "lat": 36.537264,
+      "lon": 140.185984,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-9824b3f664",
+      "name_ja": "芳賀町総合運動公園",
+      "municipality": "芳賀郡芳賀町",
+      "operator": "栃木県",
+      "lat": 36.549503,
+      "lon": 140.070205,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-2f0b27ce64",
+      "name_ja": "ひばりが丘公園",
+      "municipality": "芳賀郡芳賀町",
+      "operator": "栃木県",
+      "lat": 36.555178,
+      "lon": 140.024539,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.7
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "prefecture": "yamaguchi",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-bd378de6ef",
+      "name_ja": "安岡地区公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.032209,
+      "lon": 130.917148,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-749478d95f",
+      "name_ja": "勝山地区公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.020896,
+      "lon": 130.972404,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-30e9a02afe",
+      "name_ja": "長府庭園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 33.990521,
+      "lon": 130.989973,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-11708600c6",
+      "name_ja": "豊洋運動公園",
+      "municipality": "下関市",
+      "operator": "山口県",
+      "lat": 34.127679,
+      "lon": 130.903414,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-462bdde01a",
+      "name_ja": "琴崎公園",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 33.9716,
+      "lon": 131.271686,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-4715f049a9",
+      "name_ja": "南方公園",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 33.965785,
+      "lon": 131.309496,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-d61d8dad46",
+      "name_ja": "請川公園",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 33.985697,
+      "lon": 131.296597,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-755ae8feb8",
+      "name_ja": "岩鼻公園",
+      "municipality": "宇部市",
+      "operator": "山口県",
+      "lat": 33.98002,
+      "lon": 131.226946,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-ffd1fd4595",
+      "name_ja": "中央公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.169872,
+      "lon": 131.466359,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-e232ffc9fa",
+      "name_ja": "藤尾山公園",
+      "municipality": "山口市",
+      "operator": "山口県",
+      "lat": 34.032461,
+      "lon": 131.384146,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-870552f5e5",
+      "name_ja": "陶芸の村公園",
+      "municipality": "萩市",
+      "operator": "山口県",
+      "lat": 34.4077,
+      "lon": 131.423389,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-5d5d5c61e2",
+      "name_ja": "久保緑地",
+      "municipality": "下松市",
+      "operator": "山口県",
+      "lat": 34.035346,
+      "lon": 131.911765,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-6bc412987f",
+      "name_ja": "小河内公園",
+      "municipality": "長門市",
+      "operator": "山口県",
+      "lat": 34.342182,
+      "lon": 131.177064,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-3d5e7ea685",
+      "name_ja": "黒杭川ダム公園",
+      "municipality": "柳井市",
+      "operator": "山口県",
+      "lat": 33.993056,
+      "lon": 132.093151,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-4ed0395020",
+      "name_ja": "石山公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 34.064548,
+      "lon": 131.092539,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-661f0535c8",
+      "name_ja": "二番堤公園",
+      "municipality": "山陽小野田市",
+      "operator": "山口県",
+      "lat": 33.985195,
+      "lon": 131.181411,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.2
+    }
+  ]
+}

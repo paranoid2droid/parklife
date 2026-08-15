@@ -1,0 +1,186 @@
+{
+  "prefecture": "aomori",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-3090d4866b",
+      "name_ja": "野木中央公園",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.766016,
+      "lon": 140.747019,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-5a16b86e33",
+      "name_ja": "戸山中央緑地",
+      "municipality": "青森市",
+      "operator": "青森県",
+      "lat": 40.799252,
+      "lon": 140.807056,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-fc43c60021",
+      "name_ja": "大仏公園",
+      "municipality": "弘前市",
+      "operator": "青森県",
+      "lat": 40.547858,
+      "lon": 140.543888,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.8
+    },
+    {
+      "slug": "p13-b0cd496e3f",
+      "name_ja": "北地区海浜緑地",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.583517,
+      "lon": 141.470729,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-0ad5e47b49",
+      "name_ja": "北インター自然公園",
+      "municipality": "八戸市",
+      "operator": "青森県",
+      "lat": 40.557155,
+      "lon": 141.431012,
+      "p13_kdp": "都市林",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-e5c73ea2fa",
+      "name_ja": "長者森平和公園",
+      "municipality": "五所川原市",
+      "operator": "青森県",
+      "lat": 40.811339,
+      "lon": 140.508925,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.0
+    },
+    {
+      "slug": "p13-7a6fe348e9",
+      "name_ja": "三本木霊園",
+      "municipality": "十和田市",
+      "operator": "青森県",
+      "lat": 40.615311,
+      "lon": 141.230935,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.4
+    },
+    {
+      "slug": "p13-c75163ed26",
+      "name_ja": "三沢公園",
+      "municipality": "三沢市",
+      "operator": "青森県",
+      "lat": 40.676934,
+      "lon": 141.352679,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-adff721511",
+      "name_ja": "ふるさとはまなす公園",
+      "municipality": "三沢市",
+      "operator": "青森県",
+      "lat": 40.780612,
+      "lon": 141.3975,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.0
+    },
+    {
+      "slug": "p13-b49b5d6ea4",
+      "name_ja": "四川目ふるさと広場",
+      "municipality": "三沢市",
+      "operator": "青森県",
+      "lat": 40.700116,
+      "lon": 141.424541,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-6bc1926187",
+      "name_ja": "金谷公園",
+      "municipality": "むつ市",
+      "operator": "青森県",
+      "lat": 41.295358,
+      "lon": 141.200047,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-42937cafc6",
+      "name_ja": "ひらかわ市民の森",
+      "municipality": "平川市",
+      "operator": "青森県",
+      "lat": 40.571235,
+      "lon": 140.591546,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-55efd427cb",
+      "name_ja": "岩木川河川公園",
+      "municipality": "北津軽郡板柳町",
+      "operator": "青森県",
+      "lat": 40.69216,
+      "lon": 140.455014,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-04a860eba7",
+      "name_ja": "三保野公園",
+      "municipality": "上北郡横浜町",
+      "operator": "青森県",
+      "lat": 41.083052,
+      "lon": 141.253898,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-52cd1a03e2",
+      "name_ja": "海浜公園",
+      "municipality": "上北郡おいらせ町",
+      "operator": "青森県",
+      "lat": 40.653071,
+      "lon": 141.441333,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.1
+    },
+    {
+      "slug": "p13-cd91a7cc7e",
+      "name_ja": "松原公園",
+      "municipality": "三戸郡三戸町",
+      "operator": "青森県",
+      "lat": 40.385362,
+      "lon": 141.247037,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-953e78e615",
+      "name_ja": "南部町ふれあい公園",
+      "municipality": "三戸郡南部町",
+      "operator": "青森県",
+      "lat": 40.465059,
+      "lon": 141.380251,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.3
+    },
+    {
+      "slug": "p13-3b832e14cc",
+      "name_ja": "山館前公園",
+      "municipality": "三戸郡階上町",
+      "operator": "青森県",
+      "lat": 40.438477,
+      "lon": 141.619089,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 5.0
+    }
+  ]
+}

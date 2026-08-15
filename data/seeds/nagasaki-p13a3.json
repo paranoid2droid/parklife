@@ -1,0 +1,166 @@
+{
+  "prefecture": "nagasaki",
+  "source": "国土数値情報 P13-11 (都市公園)",
+  "parks": [
+    {
+      "slug": "p13-4bbdf5043a",
+      "name_ja": "立山",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.759769,
+      "lon": 129.879787,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-677a55d0e7",
+      "name_ja": "金比羅",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.769369,
+      "lon": 129.882488,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 3.6
+    },
+    {
+      "slug": "p13-1415957a9c",
+      "name_ja": "中の島",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.634031,
+      "lon": 129.746717,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.2
+    },
+    {
+      "slug": "p13-0212a6925d",
+      "name_ja": "琴海中央",
+      "municipality": "長崎市",
+      "operator": "長崎県",
+      "lat": 32.902594,
+      "lon": 129.786638,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.6
+    },
+    {
+      "slug": "p13-1f4e4fa746",
+      "name_ja": "三川内中央運動公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.153325,
+      "lon": 129.827995,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.4
+    },
+    {
+      "slug": "p13-ec83734d3e",
+      "name_ja": "弓張公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.180613,
+      "lon": 129.701578,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.9
+    },
+    {
+      "slug": "p13-af7a2b24ea",
+      "name_ja": "天神山公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.150963,
+      "lon": 129.739191,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-d0f5f33709",
+      "name_ja": "花の森公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.122395,
+      "lon": 129.686834,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.9
+    },
+    {
+      "slug": "p13-db057e700c",
+      "name_ja": "浦頭引揚記念平和公園",
+      "municipality": "佐世保市",
+      "operator": "長崎県",
+      "lat": 33.100372,
+      "lon": 129.758492,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.3
+    },
+    {
+      "slug": "p13-f992be497f",
+      "name_ja": "なごみの里運動公園",
+      "municipality": "諫早市",
+      "operator": "長崎県",
+      "lat": 32.837893,
+      "lon": 129.983143,
+      "p13_kdp": "総合公園",
+      "p13_area_ha": 4.1
+    },
+    {
+      "slug": "p13-8d142b4529",
+      "name_ja": "のぞみ公園",
+      "municipality": "諫早市",
+      "operator": "長崎県",
+      "lat": 32.845831,
+      "lon": 129.972367,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.2
+    },
+    {
+      "slug": "p13-8246eafb05",
+      "name_ja": "森園公園",
+      "municipality": "大村市",
+      "operator": "長崎県",
+      "lat": 32.919793,
+      "lon": 129.938823,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 4.8
+    },
+    {
+      "slug": "p13-18e47c6252",
+      "name_ja": "アルカディア記念公園",
+      "municipality": "大村市",
+      "operator": "長崎県",
+      "lat": 32.942061,
+      "lon": 129.984094,
+      "p13_kdp": "特殊公園",
+      "p13_area_ha": 3.7
+    },
+    {
+      "slug": "p13-9acb2b203f",
+      "name_ja": "福島総合運動公園",
+      "municipality": "松浦市",
+      "operator": "長崎県",
+      "lat": 33.363464,
+      "lon": 129.825882,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 3.5
+    },
+    {
+      "slug": "p13-a229113b99",
+      "name_ja": "峰町ファミリーパーク",
+      "municipality": "対馬市",
+      "operator": "長崎県",
+      "lat": 34.45185,
+      "lon": 129.311718,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.5
+    },
+    {
+      "slug": "p13-5a1e1f12a3",
+      "name_ja": "青嶋公園",
+      "municipality": "壱岐市",
+      "operator": "長崎県",
+      "lat": 33.780713,
+      "lon": 129.778255,
+      "p13_kdp": "地区公園",
+      "p13_area_ha": 4.8
+    }
+  ]
+}
