@@ -70,6 +70,7 @@ GBIF_OCC_KEYS = (
     "kingdom", "phylum", "class", "order", "family",
     "decimalLatitude", "decimalLongitude", "recordedBy", "eventDate",
     "individualCount",   # GBIF survey counts (モニタリングサイト1000 etc.) = true abundance
+    "basisOfRecord",     # keep so future caches are auditable for zoo/fossil leakage (gbif.py already API-filters it)
 )
 GBIF_MEDIA_KEYS = (
     "identifier", "references", "type", "format",

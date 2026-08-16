@@ -133,5 +133,25 @@
   "ja": "マアナゴ",
   "sci": "Haliotis ovina",
   "reason": "inat-inherited-mislabel: マアナゴ is a conger eel; Haliotis ovina is an abalone"
+ },
+ "619": {
+  "ja": "キリン",
+  "sci": "Giraffa camelopardalis",
+  "reason": "foreign-zoo-captive: African, not wild in Japan; GBIF LIVING_SPECIMEN leak near 平川動物公園/こども動物自然公園. Source fixed in gbif.py basisOfRecord filter."
+ },
+ "15120": {
+  "ja": "コアラ",
+  "sci": "Phascolarctos cinereus",
+  "reason": "foreign-zoo-captive: Australian marsupial, not wild in Japan; GBIF LIVING_SPECIMEN leak."
+ },
+ "2500": {
+  "ja": "トラ",
+  "sci": "Panthera tigris",
+  "reason": "foreign-zoo-captive: no wild tiger in Japan; GBIF LIVING_SPECIMEN leak near 豊橋総合動植物公園."
+ },
+ "10756": {
+  "ja": "チリーフラミンゴ",
+  "sci": "Phoenicopterus chilensis",
+  "reason": "foreign-zoo-captive: South American flamingo, only in Japanese zoos; GBIF LIVING_SPECIMEN leak."
  }
 }

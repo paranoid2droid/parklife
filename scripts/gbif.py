@@ -34,6 +34,23 @@ RADIUS_KM = 1.5
 PAGE_LIMIT = 300
 MAX_PAGES = 5  # cap at 1500 occurrences per park; almost always covers full diversity
 
+# Record types to KEEP. GBIF's search API filters positively (no "exclude"
+# syntax), so we allow-list everything EXCEPT the two captive/non-wild classes
+# that leak zoo & fossil noise into a park's "what lives here" list:
+#   * LIVING_SPECIMEN — zoo/aquarium/botanical-garden animals (キリン near
+#     平川動物公園, トラ near 豊橋総合動植物公園, コアラ, etc.)
+#   * FOSSIL_SPECIMEN — paleontological records (e.g. a Paleozoic coral at an
+#     inland park), never a present-day sighting.
+# PRESERVED_SPECIMEN (museum vouchers) is KEPT: with hasCoordinate=true it marks
+# a real collection locality, i.e. genuine distribution evidence.
+# NOTE: only takes effect on a fresh fetch / --refresh; existing slimmed caches
+# were written before this filter, so re-run gbif --refresh to purge legacy
+# zoo rows at the source. Interim removal is handled by data/suppressed_species.json.
+BASIS_OF_RECORD_KEEP = [
+    "HUMAN_OBSERVATION", "MACHINE_OBSERVATION", "OBSERVATION", "OCCURRENCE",
+    "PRESERVED_SPECIMEN", "MATERIAL_SAMPLE", "MATERIAL_CITATION",
+]
+
 # Animal classes → our taxon_group taxonomy
 CLASS_TO_GROUP = {
     "Aves": "bird",
@@ -140,6 +157,7 @@ def fetch_park(slug: str, prefecture: str, lat: float, lon: float,
         params = {
             "geoDistance": geo,
             "hasCoordinate": "true",
+            "basisOfRecord": BASIS_OF_RECORD_KEEP,  # drop LIVING_SPECIMEN (zoo) + FOSSIL_SPECIMEN
             "limit": PAGE_LIMIT,
             "offset": page * PAGE_LIMIT,
         }
