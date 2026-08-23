@@ -49,6 +49,7 @@ All Python work runs in the project venv (`Python 3.13`):
 .venv/bin/python -m scripts.backfill_display_gaps    # card polish: common_name_ja from kana alias (collision-guarded) + photo_url from park-local photo; --dry-run
 .venv/bin/python -m scripts.fetch_inat_ja_names      # fill common_name_ja from iNat locale=ja for tid-bearing Latin-only species (Japanese-only, collision-guarded, cached); --dry-run
 .venv/bin/python -m scripts.merge_dupname_synonyms   # merge same-ja-name genus-reassignment/gender-variant synonyms (one has tid); RE-RUN scripts.dedupe after; --dry-run
+.venv/bin/python -m scripts.dq_audit                 # read-only integrity self-check (run after any ingestion): wrong-photo contamination / tid collisions / microbe noise / captive leak / orphan FKs / placeholder names. Exit 1 on any HARD defect (gate-able); --quiet = hard-only
 
 # autonomous queue (no Claude required)
 .venv/bin/python -m scripts.run_pending              # process data/run_queue.txt under fcntl lock
