@@ -272,6 +272,7 @@ let groupShown = {};      // group -> how many cards currently expanded (paginat
 const GROUP_CAP = 48;     // initial cards per group before "show more"
 let speciesFilter = null; // {ids:Set<parkId>, name} when showing one species' parks on the map
 let userLayer = null;     // Leaflet layer for the user's location dot + accuracy circle
+let selectedLayer = null; // Leaflet layer for the currently-open park's highlight marker
 let locateControl = null; // the "my location" map button
 let locating = false;     // guard against overlapping geolocation requests
 let deferredPrompt = null; // captured beforeinstallprompt event (Android/Chrome PWA install)
@@ -390,6 +391,16 @@ function showUserLocation(lat, lon, acc) {
   L.circleMarker([lat, lon], { radius: 7, color: '#fff', weight: 2,
     fillColor: '#1a73e8', fillOpacity: 1 }).addTo(userLayer)
     .bindTooltip(UI[lang].locate, { direction: 'top' });
+}
+function focusPark(p) {  // pan + highlight the open park so the user sees where it is
+  if (!map || p == null || p.lat == null || p.lon == null) return;
+  if (!selectedLayer) selectedLayer = L.layerGroup().addTo(map);
+  selectedLayer.clearLayers();
+  const name = (lang === 'ja' ? p.name_ja : (p.name_en || p.name_ja)) || p.name_ja;
+  L.circleMarker([p.lat, p.lon], { radius: 11, color: '#b1430e', weight: 3,
+    fillColor: '#ff7a3c', fillOpacity: .9, interactive: false }).addTo(selectedLayer)
+    .bindTooltip(name, { permanent: true, direction: 'top', className: 'sel-tip' }).openTooltip();
+  map.flyTo([p.lat, p.lon], Math.max(map.getZoom(), 14), { duration: .6 });
 }
 function geolocate(onOk, onFail) {
   if (!navigator.geolocation || !window.isSecureContext) { if (onFail) onFail(); return; }
@@ -566,6 +577,7 @@ async function openPark(id, push = true) {
   const p = await dataPark(id);
   curPark = p;
   groupShown = {};
+  focusPark(p);
   renderPark();
   setHash('#park/' + id, push);
   if (window.matchMedia('(max-width: 760px)').matches) $('panel').scrollIntoView({ behavior: 'smooth' });

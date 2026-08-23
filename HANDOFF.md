@@ -202,6 +202,11 @@ Strategic goal: turn the dataset into a **shareable, possibly monetized PWA** fo
 
 ## Recent sessions
 
+### 2026-08-23 (Claude/Opus) — 🗺️ webapp: park selection now moves the map → DEPLOYED
+- **Bug:** picking a park (from "附近" nearby list OR any non-map path) updated the species panel but the map never moved — user couldn't tell where the park was. `openPark()` never touched the map.
+- **Fix (`webapp/app.js`):** new `focusPark(p)` — `map.flyTo` to the park (min zoom 14) + orange highlight `circleMarker` on a dedicated `selectedLayer` + permanent name tooltip (`.sel-tip` styled in `index.html`). Called from `openPark()`, so ALL entry points (nearby list, search, marker click, URL) behave identically — the map marker's own handler is literally `openPark(p.id)`, so nearby-selection == marker-selection by construction.
+- Bumped `sw.js` VERSION v8→v9 so installed PWAs pick up the new shell. Rebuilt `site/` (`export_static`) → `SKIP_BUILD=1 deploy_pages.sh` → gh-pages `3161c0ac`. Verified live serves v9 + `focusPark`. E2e: existing suite green + new map-focus test (scratchpad). No DB/data change.
+
 ### 2026-08-23 (Claude/Opus) — 🖼️ photo-gallery enrichment (≥3ha 429-tail) → DEPLOYED
 - **Context on resume:** verified the ≥3ha expansion (4,100 parks) was already committed (`ea3b5cc3`) AND live (gh-pages `9d43ac8a` = 4,100/26,457); the HANDOFF "awaiting deploy" line 57 was stale. Only loose end = its photo pass 429-partialed.
 - **Resumed `collect_species_photos`** (backup `bak_pre_photo_resume_20260823`): **+16,876 photo rows → 97,892; +106 illustrated species → 20,634.** Non-200 (incl 429) is NOT cached, so re-runs are safe/idempotent. Most inserts enriched existing galleries, not the zero-photo gap.
