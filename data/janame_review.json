@@ -1,28 +1,154 @@
 [
  {
-  "id": 3111,
-  "sci": "Poecile varius",
-  "ja": "オーストンヤマガラ",
-  "ja_belongs_to": "Sittiparus owstoni",
-  "inat_sci_ja": null,
-  "np": 1157,
-  "resolution": "FIXED 2026-08-12 (Claude). Genuine mis-attachment: en='Varied Tit'=ヤマガラ, so オーストンヤマガラ (=Sittiparus owstoni) was wrong. Poecile varius is an old-genus synonym of Sittiparus varius (ヤマガラ). MERGED 3111 + 14456 (Parus varius) -> 7139 (Sittiparus varius, accepted). Purged owstoni-specific aliases (オーストンヤマガラ/ja, Owston's Tit/en) before merge."
- },
- {
-  "id": 3042,
-  "sci": "Anas poecilorhyncha",
-  "ja": "カルガモ",
-  "ja_belongs_to": "Anas zonorhyncha",
-  "inat_sci_ja": "アカボシカルガモ",
-  "np": 998,
-  "resolution": "FIXED 2026-08-12 (Claude). Taxonomic split (docstring-warned): A. poecilorhyncha s.s. = インドカルガモ, not wild in Japan; all 1048 park records under it are old-broad-concept eastern カルガモ = A. zonorhyncha. Both rows labeled カルガモ -> MERGED 3042 -> 579 (Anas zonorhyncha, accepted JP カルガモ). Renaming to インドカルガモ would have mislabeled 1048 records."
- },
- {
   "id": 647,
   "sci": "Platypleura kaempferi",
   "ja": "ニイニイゼミ",
+  "ja_belongs_to": "Planopleura kaempferi",
   "inat_sci_ja": null,
-  "np": 496,
-  "resolution": "NO CHANGE 2026-08-12 (Claude). FALSE POSITIVE: Platypleura kaempferi IS the correct sci for ニイニイゼミ. iNat forward-lookup returned 'Planopleura kaempferi' which is just a genus-spelling variant of the same species, not a different bearer. Left as-is."
+  "np": 573
+ },
+ {
+  "id": 2587,
+  "sci": "Acusta despecta",
+  "ja": "ウスカワマイマイ",
+  "ja_belongs_to": "Acusta sieboldtiana",
+  "inat_sci_ja": "オキナワウスカワマイマイ(広義)",
+  "np": 514
+ },
+ {
+  "id": 8036,
+  "sci": "Ninox scutulata",
+  "ja": "アオバズク",
+  "ja_belongs_to": "Ninox japonica",
+  "inat_sci_ja": "チャイロアオバズク",
+  "np": 376
+ },
+ {
+  "id": 4666,
+  "sci": "Necrophila japonica",
+  "ja": "オオヒラタシデムシ",
+  "ja_belongs_to": "Eusilpha japonica",
+  "inat_sci_ja": null,
+  "np": 375
+ },
+ {
+  "id": 5243,
+  "sci": "Allopeas clavulinum",
+  "ja": "オカチョウジガイ",
+  "ja_belongs_to": "Allopeas clavulinum kyotoense",
+  "inat_sci_ja": null,
+  "np": 373
+ },
+ {
+  "id": 3102,
+  "sci": "Persicaria lapathifolia",
+  "ja": "サナエタデ",
+  "ja_belongs_to": "Persicaria tomentosa",
+  "inat_sci_ja": "オオイヌタデ(広義)",
+  "np": 357
+ },
+ {
+  "id": 3092,
+  "sci": "Dryopteris immixta",
+  "ja": "オオイタチシダ",
+  "ja_belongs_to": "Dryopteris pacifica",
+  "inat_sci_ja": null,
+  "np": 350
+ },
+ {
+  "id": 3019,
+  "sci": "Butorides striata",
+  "ja": "ササゴイ",
+  "ja_belongs_to": "Butorides atricapilla",
+  "inat_sci_ja": null,
+  "np": 343
+ },
+ {
+  "id": 642,
+  "sci": "Meimuna opalifera",
+  "ja": "ツクツクボウシ",
+  "ja_belongs_to": "Sinfonia opalifera",
+  "inat_sci_ja": null,
+  "np": 338
+ },
+ {
+  "id": 3098,
+  "sci": "Boehmeria japonica",
+  "ja": "アカソ",
+  "ja_belongs_to": "Boehmeria silvestrii",
+  "inat_sci_ja": "ヤブマオ",
+  "np": 329
+ },
+ {
+  "id": 9928,
+  "sci": "Ladoga camilla",
+  "ja": "イチモンジチョウ",
+  "ja_belongs_to": "Limenitis camilla",
+  "inat_sci_ja": null,
+  "np": 312
+ },
+ {
+  "id": 2564,
+  "sci": "Chlaenius costiger",
+  "ja": "スジアオゴミムシ",
+  "ja_belongs_to": "Chlaenius costiger costiger",
+  "inat_sci_ja": null,
+  "np": 272
+ },
+ {
+  "id": 3086,
+  "sci": "Euphorbia maculata",
+  "ja": "オオニシキソウ",
+  "ja_belongs_to": "Euphorbia nutans",
+  "inat_sci_ja": "コニシキソウ",
+  "np": 265
+ },
+ {
+  "id": 5014,
+  "sci": "Micropterus salmoides",
+  "ja": "オオクチバス",
+  "ja_belongs_to": "Micropterus nigricans",
+  "inat_sci_ja": null,
+  "np": 243
+ },
+ {
+  "id": 6896,
+  "sci": "Macoma tokyoensis",
+  "ja": "ユウシオガイ",
+  "ja_belongs_to": "Jitlada culter",
+  "inat_sci_ja": null,
+  "np": 240
+ },
+ {
+  "id": 4750,
+  "sci": "Macrothelypteris oligophlebia",
+  "ja": "ヒメワラビ",
+  "ja_belongs_to": "Macrothelypteris torresiana",
+  "inat_sci_ja": "トウヒメワラビ",
+  "np": 238
+ },
+ {
+  "id": 4624,
+  "sci": "Batillaria cumingii",
+  "ja": "ホソウミニナ",
+  "ja_belongs_to": "Batillaria attramentaria",
+  "inat_sci_ja": null,
+  "np": 237
+ },
+ {
+  "id": 4698,
+  "sci": "Viola hamiltoniana",
+  "ja": "ツボスミレ",
+  "ja_belongs_to": "Viola arcuata",
+  "inat_sci_ja": "コケスミレ",
+  "np": 237
+ },
+ {
+  "id": 9170,
+  "sci": "Assiminea japonica",
+  "ja": "カワザンショウガイ",
+  "ja_belongs_to": "Assiminea lutea",
+  "inat_sci_ja": null,
+  "np": 236
  }
 ]
