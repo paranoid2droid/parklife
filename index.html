@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Parklife — 公園の生きもの地図</title>
+<link rel="icon" href="icon.svg">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#2a6b3b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Parklife">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans CJK JP", sans-serif;
+         color: #20342a; background: #fff; display: flex; flex-direction: column; height: 100vh; }
+  header { display: flex; align-items: center; gap: 10px; border-bottom: 1px solid #e3ece5;
+           flex: none; flex-wrap: wrap;
+           padding: calc(8px + env(safe-area-inset-top)) calc(12px + env(safe-area-inset-right))
+                    8px calc(12px + env(safe-area-inset-left)); }
+  header h1 { font-size: 16px; margin: 0; font-weight: 700; color: #2a6b3b; white-space: nowrap; cursor: pointer; }
+  header h1:hover { color: #1e5230; }
+  header .sub { font-size: 11px; color: #7a8b80; }
+  .spacer { flex: 1; }
+  .lang { display: flex; gap: 2px; }
+  .lang button { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b; font-size: 12px;
+                 padding: 3px 8px; border-radius: 5px; cursor: pointer; }
+  .lang button.on { background: #2a6b3b; color: #fff; }
+  #search { border: 1px solid #c9d8cc; border-radius: 6px; padding: 5px 9px; font-size: 13px; width: 190px; }
+  main { flex: 1; display: flex; min-height: 0; }
+  #map { flex: 5; min-height: 300px; position: relative; }
+  #mapBanner { display: none; position: absolute; top: 8px; left: 50%; transform: translateX(-50%);
+               z-index: 1000; background: #fff; border: 1px solid #e6b48c; border-radius: 8px;
+               box-shadow: 0 2px 8px rgba(0,0,0,.25); padding: 6px 10px; font-size: 13px;
+               align-items: center; gap: 10px; max-width: 92%; }
+  #mapBanner button { border: 1px solid #c9d8cc; background: #f3faf5; color: #2a6b3b; font-size: 12px;
+                      padding: 3px 9px; border-radius: 6px; cursor: pointer; white-space: nowrap; }
+  #panel { flex: 4; max-width: 560px; overflow-y: auto; border-left: 1px solid #e3ece5;
+           padding: 12px 14px calc(16px + env(safe-area-inset-bottom)); }
+  .park-name { font-size: 18px; font-weight: 700; margin: 0 0 2px; }
+  .park-meta { font-size: 12px; color: #6a7b70; margin-bottom: 8px; }
+  .park-meta a { color: #2a6b3b; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; margin: 6px 0 4px;
+              font-size: 12px; color: #4a5b50; }
+  .controls select { font-size: 12px; border: 1px solid #c9d8cc; border-radius: 5px; padding: 2px 5px; }
+  .grp-h { cursor: pointer; user-select: none; }
+  .grp-h.off { opacity: .45; }
+  .grp-h.off + .grid { display: none; }
+  .grp-h.static { cursor: default; }
+  .grp-filter { display: flex; flex-wrap: wrap; gap: 5px 12px; margin: 8px 0 10px;
+                font-size: 12px; align-items: center; }
+  .gcb { display: inline-flex; align-items: center; gap: 4px; cursor: pointer; color: #3a5a45;
+         background: #f4f7f5; border: 1px solid #e3ece5; border-radius: 14px; padding: 3px 10px 3px 8px; }
+  .gcb:hover { border-color: #9cc4ab; }
+  .gcb input { vertical-align: -1px; margin: 0; cursor: pointer; }
+  .gcb .count { color: #8a9b90; }
+  .gcb.all { font-weight: 700; background: #eef5f0; }
+  .more-btn { display: inline-block; margin: 2px 6px 8px 0; border: 1px solid #c9d8cc; background: #f3faf5;
+              color: #2a6b3b; font-size: 12px; padding: 4px 10px; border-radius: 6px; cursor: pointer; }
+  .more-btn:hover { background: #e8f4eb; }
+  .map-ctrl { background: #fff; padding: 5px 8px; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,.3);
+              font-size: 12px; color: #2a6b3b; cursor: pointer; user-select: none; }
+  .map-ctrl input { vertical-align: -1px; margin-right: 3px; }
+  .leaflet-tooltip.sel-tip { background: #b1430e; color: #fff; border: none; font-weight: 600;
+    box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+  .leaflet-tooltip.sel-tip::before { border-top-color: #b1430e; }
+  .map-locate { font-size: 18px; color: #2a6b3b; }
+  .map-locate.busy { color: #b0870e; }
+  .map-locate.err { color: #c0392b; }
+  .placeholder { color: #8a9b90; font-size: 14px; text-align: center; margin-top: 40px; line-height: 1.7; }
+  .near-cta { margin-top: 18px; }
+  .near-btn { border: none; background: #2a6b3b; color: #fff; font-size: 14px; font-weight: 600;
+              padding: 9px 18px; border-radius: 8px; cursor: pointer; }
+  .near-btn:hover { background: #235a31; }
+  .near-btn.alt { background: #c07d1a; }
+  .near-btn.alt:hover { background: #a86a12; }
+  .near-list { display: flex; flex-direction: column; gap: 6px; margin-top: 8px; }
+  .near-item { display: flex; align-items: center; justify-content: space-between; gap: 10px;
+               background: #f4f7f5; border: 1px solid #e8efea; border-radius: 8px; padding: 9px 12px;
+               cursor: pointer; }
+  .near-item:hover { border-color: #9cc4ab; background: #eef5f0; }
+  .near-nm { font-size: 14px; color: #20342a; font-weight: 600; }
+  .near-pk { font-size: 11px; color: #2a6b3b; background: #e3efe7; border-radius: 8px;
+             padding: 1px 7px; margin-left: 8px; font-weight: 500; white-space: nowrap; }
+  .near-km { font-size: 13px; color: #6a7b70; white-space: nowrap; flex: none; }
+  .grp-h { font-size: 13px; font-weight: 700; margin: 14px 0 6px; color: #3a5a45;
+           border-bottom: 1px dashed #d6e2da; padding-bottom: 3px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 7px; }
+  .card { background: #f4f7f5; border-radius: 6px; overflow: hidden; cursor: pointer; position: relative;
+          border: 1px solid #e8efea; }
+  .card:hover { border-color: #9cc4ab; }
+  .card .ph { width: 100%; aspect-ratio: 1/1; background: #dde7e0 no-repeat center / cover; }
+  .card .nm { padding: 4px 5px 5px; font-size: 11px; line-height: 1.25; }
+  .card .nm b { display: block; font-size: 12px; }
+  .card .nm i { color: #7a8b80; font-style: italic; font-size: 10px; }
+  /* regional (市区町村) tier: opt-in weaker records, visually de-emphasised */
+  .reg-toggle { display: inline-flex; align-items: center; gap: 4px; cursor: pointer; color: #8a6d3b; }
+  .reg-toggle input { cursor: pointer; }
+  .card.regional { opacity: 0.82; }
+  .card.regional .ph { filter: grayscale(0.35); }
+  .reg-badge { display: block; margin-top: 2px; font-size: 9px; color: #8a6d3b;
+               background: #fbf3e4; border-radius: 3px; padding: 1px 3px; font-style: normal; }
+  .count { font-size: 12px; color: #6a7b70; }
+  /* modal */
+  #modal { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
+           align-items: center; justify-content: center; padding: 16px; z-index: 9999; }
+  #modal.on { display: flex; }
+  .mp { background: #fff; border-radius: 12px; width: min(720px, 100%); max-height: 88vh; overflow-y: auto;
+        position: relative; }
+  .mp .close { position: absolute; top: 8px; right: 10px; font-size: 22px; cursor: pointer; color: #fff;
+               text-shadow: 0 1px 4px rgba(0,0,0,.6); z-index: 2; background: none; border: none; }
+  .mphoto { position: relative; width: 100%; height: clamp(240px, 46vh, 460px); background: #222 no-repeat center / contain; }
+  .mphoto .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 34px; height: 46px;
+                 background: rgba(0,0,0,.4); color: #fff; border: none; font-size: 20px; cursor: pointer; }
+  .mphoto .nav.l { left: 0; } .mphoto .nav.r { right: 0; }
+  .mphoto .attr { position: absolute; bottom: 0; left: 0; right: 0; font-size: 10px; color: #eee;
+                  background: linear-gradient(transparent, rgba(0,0,0,.7)); padding: 12px 8px 4px; }
+  .mphoto .attr a { color: #cfe; }
+  .mbody { padding: 14px 18px 20px; }
+  .mbody h2 { margin: 0 0 1px; font-size: 20px; }
+  .mbody .sci { font-style: italic; color: #7a8b80; font-size: 13px; margin-bottom: 2px; }
+  .mbody .alt { font-size: 13px; color: #4a5b50; margin-bottom: 10px; }
+  .mbody .sec { margin: 10px 0; font-size: 14px; line-height: 1.65; }
+  .mbody .sec b { display: block; font-size: 12px; color: #3a5a45; margin-bottom: 2px; }
+  .pill { display: inline-block; background: #eef5f0; color: #2a6b3b; border-radius: 10px; font-size: 11px;
+          padding: 2px 8px; margin: 0 4px 4px 0; }
+  /* credits */
+  .credits-btn, .hbtn { border: 1px solid #c9d8cc; background: #fff; color: #2a6b3b; font-size: 14px; line-height: 1;
+                 height: 26px; min-width: 26px; padding: 0 5px; border-radius: 13px; cursor: pointer; flex: none; }
+  .credits-btn:hover, .hbtn:hover { background: #eef5f0; }
+  .hbtn { font-size: 12.5px; padding: 0 10px; white-space: nowrap; font-weight: 600; }
+  #credits, #about { position: fixed; inset: 0; background: rgba(20,40,30,.55); display: none;
+             align-items: center; justify-content: center; padding: 16px; z-index: 9999; }
+  #credits.on, #about.on { display: flex; }
+  .cbox { background: #fff; border-radius: 12px; width: min(640px, 100%); max-height: 88vh; overflow-y: auto;
+          padding: 20px 22px 24px; position: relative; }
+  .cbox .close { position: absolute; top: 8px; right: 12px; font-size: 22px; cursor: pointer; color: #6a7b70;
+                 background: none; border: none; }
+  .cbox h2 { margin: 0 6px 6px 0; font-size: 19px; color: #2a6b3b; }
+  .cbox .intro { font-size: 13px; color: #4a5b50; line-height: 1.6; margin: 0 0 6px; }
+  .cbox h3 { font-size: 13px; color: #3a5a45; margin: 16px 0 6px; border-bottom: 1px dashed #d6e2da; padding-bottom: 3px; }
+  .cbox ul { list-style: none; margin: 0; padding: 0; }
+  .cbox li { font-size: 13px; line-height: 1.5; padding: 3px 0; }
+  .cbox li a { color: #2a6b3b; font-weight: 600; }
+  .cbox li .prov { color: #6a7b70; }
+  .cbox li .lic { display: inline-block; font-size: 11px; color: #5a6b60; background: #eef5f0;
+                  border-radius: 8px; padding: 1px 7px; margin-left: 4px; white-space: nowrap; }
+  .cbox .note { font-size: 12px; color: #6a7b70; line-height: 1.6; margin: 8px 0 0; }
+  .cbox .fb { margin: 14px 0 0; font-size: 13px; }
+  .cbox .fb a { color: #2a6b3b; font-weight: 600; }
+  .cbox .disc { font-size: 11.5px; color: #8a9b90; line-height: 1.6; margin-top: 14px;
+                border-top: 1px solid #eef2ef; padding-top: 12px; }
+  /* about */
+  .cbox .sub { font-size: 13px; color: #6a7b70; margin: 0 0 10px; }
+  .cbox .lead { font-size: 14px; color: #34473c; line-height: 1.65; margin: 0 0 4px; }
+  .cbox .stat { font-size: 12.5px; color: #2a6b3b; background: #eef5f0; border-radius: 8px;
+                padding: 8px 12px; margin: 12px 0 2px; }
+  .cbox .stat .upd { color: #6a7b70; }
+  .cbox ol { margin: 4px 0 0; padding-left: 20px; }
+  .cbox ol li { font-size: 13.5px; line-height: 1.55; padding: 4px 0; color: #34473c; }
+  .cbox .start-btn { display: inline-block; margin-top: 16px; border: none; background: #2a6b3b; color: #fff;
+                     font-size: 14px; font-weight: 600; padding: 8px 20px; border-radius: 8px; cursor: pointer; }
+  .cbox .start-btn:hover { background: #235a31; }
+  .cbox .credits-link { margin-top: 14px; font-size: 13px; }
+  .cbox .credits-link a { color: #2a6b3b; font-weight: 600; cursor: pointer; }
+  @media (max-width: 760px) {
+    main { flex-direction: column; }
+    #map { flex: none; height: 42vh; }
+    #panel { max-width: none; border-left: none; border-top: 1px solid #e3ece5; }
+    #search { width: 130px; flex: 1 1 120px; }
+    header .sub { display: none; }   /* free header room for the labelled buttons */
+    /* comfortable touch targets on phones (≈40px) */
+    .lang button, .hbtn, .credits-btn { height: 34px; padding: 0 11px; font-size: 13px; }
+    .lang button { min-width: 38px; }
+    .gcb { padding: 7px 12px; }
+    .card { border-radius: 8px; }
+    .more-btn, .near-btn { padding: 10px 16px; }
+    #modal { padding: 0; align-items: flex-end; }   /* bottom sheet feel on phones */
+    .mp { width: 100%; max-height: 92vh; border-radius: 14px 14px 0 0; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1 id="brand" onclick="App.openAbout()">🌿 Parklife</h1>
+  <span class="sub" id="tagline"></span>
+  <span class="spacer"></span>
+  <input id="search" type="search" autocomplete="off">
+  <button id="nearBtn" class="hbtn" onclick="App.discoverNearby()">📍</button>
+  <button id="seasonBtn" class="hbtn" onclick="App.discoverSeason()">🌸</button><!-- labels set by renderChrome -->
+  <div class="lang" id="lang"></div>
+  <button id="creditsBtn" class="credits-btn" onclick="App.openCredits()" aria-label="Credits">ⓘ</button>
+</header>
+<main>
+  <div id="map">
+    <div id="mapBanner"></div>
+  </div>
+  <div id="panel"><div class="placeholder" id="ph"></div></div>
+</main>
+<div id="modal"><div class="mp">
+  <button class="close" onclick="App.closeModal()">×</button>
+  <div class="mphoto" id="mphoto"></div>
+  <div class="mbody" id="mbody"></div>
+</div></div>
+<div id="credits"><div class="cbox">
+  <button class="close" onclick="App.closeCredits()">×</button>
+  <div id="cbody"></div>
+</div></div>
+<div id="about"><div class="cbox">
+  <button class="close" onclick="App.closeAbout()">×</button>
+  <div id="abody"></div>
+</div></div>
+<script src="app.js"></script>
+<script>
+  if ('serviceWorker' in navigator)
+    window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+</script>
+</body>
+</html>
