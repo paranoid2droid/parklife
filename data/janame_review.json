@@ -96,14 +96,6 @@
   "np": 272
  },
  {
-  "id": 3086,
-  "sci": "Euphorbia maculata",
-  "ja": "オオニシキソウ",
-  "ja_belongs_to": "Euphorbia nutans",
-  "inat_sci_ja": "コニシキソウ",
-  "np": 265
- },
- {
   "id": 5014,
   "sci": "Micropterus salmoides",
   "ja": "オオクチバス",
@@ -150,5 +142,357 @@
   "ja_belongs_to": "Assiminea lutea",
   "inat_sci_ja": null,
   "np": 236
+ },
+ {
+  "id": 5784,
+  "sci": "Papilio protenor",
+  "ja": "クロアゲハ",
+  "ja_belongs_to": "Papilio demetrius",
+  "inat_sci_ja": null,
+  "np": 232
+ },
+ {
+  "id": 12,
+  "sci": "Solidago virgaurea",
+  "ja": "アキノキリンソウ",
+  "ja_belongs_to": "Solidago virgaurea asiatica",
+  "inat_sci_ja": null,
+  "np": 228
+ },
+ {
+  "id": 4437,
+  "sci": "Arisaema serratum",
+  "ja": "マムシグサ",
+  "ja_belongs_to": "Arisaema japonicum",
+  "inat_sci_ja": "カントウマムシグサ",
+  "np": 220
+ },
+ {
+  "id": 10,
+  "sci": "Thalictrum minus",
+  "ja": "アキカラマツ",
+  "ja_belongs_to": "Thalictrum minus hypoleucum",
+  "inat_sci_ja": null,
+  "np": 216
+ },
+ {
+  "id": 5333,
+  "sci": "Deparia pycnosora",
+  "ja": "ハクモウイノデ",
+  "ja_belongs_to": "Deparia pycnosora albosquamata",
+  "inat_sci_ja": "ミヤマシケシダ",
+  "np": 214
+ },
+ {
+  "id": 7620,
+  "sci": "Stictoleptura succedanea",
+  "ja": "アカハナカミキリ",
+  "ja_belongs_to": "Stictoleptura dichroa",
+  "inat_sci_ja": null,
+  "np": 214
+ },
+ {
+  "id": 5012,
+  "sci": "Rhinogobius giurinus",
+  "ja": "ゴクラクハゼ",
+  "ja_belongs_to": "Rhinogobius similis",
+  "inat_sci_ja": null,
+  "np": 204
+ },
+ {
+  "id": 9933,
+  "sci": "Kalimeris pinnatifida",
+  "ja": "ユウガギク",
+  "ja_belongs_to": "Aster iinumae",
+  "inat_sci_ja": null,
+  "np": 197
+ },
+ {
+  "id": 4700,
+  "sci": "Chelidonium majus",
+  "ja": "クサノオウ",
+  "ja_belongs_to": "Chelidonium asiaticum",
+  "inat_sci_ja": null,
+  "np": 195
+ },
+ {
+  "id": 3440,
+  "sci": "Salix subfragilis",
+  "ja": "シダレヤナギ",
+  "ja_belongs_to": "Salix babylonica",
+  "inat_sci_ja": null,
+  "np": 192
+ },
+ {
+  "id": 4941,
+  "sci": "Cerastium fontanum",
+  "ja": "ミミナグサ",
+  "ja_belongs_to": "Cerastium holosteoides",
+  "inat_sci_ja": null,
+  "np": 190
+ },
+ {
+  "id": 5823,
+  "sci": "Eurydema rugosa",
+  "ja": "ナガメ",
+  "ja_belongs_to": "Eurydema gebleri rugosa",
+  "inat_sci_ja": null,
+  "np": 189
+ },
+ {
+  "id": 3532,
+  "sci": "Juncus prismatocarpus",
+  "ja": "コウガイゼキショウ",
+  "ja_belongs_to": "Juncus prismatocarpus leschenaultii",
+  "inat_sci_ja": null,
+  "np": 189
+ },
+ {
+  "id": 8110,
+  "sci": "Anax parthenope",
+  "ja": "ギンヤンマ",
+  "ja_belongs_to": "Anax julius",
+  "inat_sci_ja": null,
+  "np": 187
+ },
+ {
+  "id": 11485,
+  "sci": "Cephalotaxus harringtonii",
+  "ja": "イヌガヤ",
+  "ja_belongs_to": "Cephalotaxus harringtonia",
+  "inat_sci_ja": null,
+  "np": 185
+ },
+ {
+  "id": 15785,
+  "sci": "Itatsina praticola",
+  "ja": "イタチグモ",
+  "ja_belongs_to": "Prochora praticola",
+  "inat_sci_ja": null,
+  "np": 182
+ },
+ {
+  "id": 307,
+  "sci": "Lyonia ovalifolia",
+  "ja": "ネジキ",
+  "ja_belongs_to": "Lyonia ovalifolia elliptica",
+  "inat_sci_ja": null,
+  "np": 179
+ },
+ {
+  "id": 14755,
+  "sci": "Planaeschna milnei",
+  "ja": "ミルンヤンマ",
+  "ja_belongs_to": "Aeschnophlebia milnei",
+  "inat_sci_ja": null,
+  "np": 176
+ },
+ {
+  "id": 3396,
+  "sci": "Lindernia dubia",
+  "ja": "タケトアゼナ",
+  "ja_belongs_to": "Lindernia dubia dubia",
+  "inat_sci_ja": "アメリカアゼナ",
+  "np": 168
+ },
+ {
+  "id": 6143,
+  "sci": "Odontobutis obscura",
+  "ja": "ドンコ",
+  "ja_belongs_to": "Odontobutis obscurus",
+  "inat_sci_ja": null,
+  "np": 167
+ },
+ {
+  "id": 87,
+  "sci": "Lamium album",
+  "ja": "オドリコソウ",
+  "ja_belongs_to": "Lamium album barbatum",
+  "inat_sci_ja": null,
+  "np": 164
+ },
+ {
+  "id": 4772,
+  "sci": "Fimbristylis quinquangularis",
+  "ja": "ヒデリコ",
+  "ja_belongs_to": "Fimbristylis littoralis",
+  "inat_sci_ja": "イヌヒデリコ",
+  "np": 162
+ },
+ {
+  "id": 49,
+  "sci": "Prunella vulgaris",
+  "ja": "ウツボグサ",
+  "ja_belongs_to": "Prunella vulgaris asiatica",
+  "inat_sci_ja": "セイヨウウツボグサ(広義)",
+  "np": 157
+ },
+ {
+  "id": 3419,
+  "sci": "Chloranthus japonicus",
+  "ja": "ヒトリシズカ",
+  "ja_belongs_to": "Chloranthus quadrifolius",
+  "inat_sci_ja": null,
+  "np": 154
+ },
+ {
+  "id": 3103,
+  "sci": "Elaphropus laetificus",
+  "ja": "ヨツモンコミズギワゴミムシ",
+  "ja_belongs_to": "Tachyura laetifica",
+  "inat_sci_ja": null,
+  "np": 154
+ },
+ {
+  "id": 4381,
+  "sci": "Apoderus erythrogaster",
+  "ja": "ヒメクロオトシブミ",
+  "ja_belongs_to": "Compsapoderus erythrogaster",
+  "inat_sci_ja": null,
+  "np": 153
+ },
+ {
+  "id": 1683,
+  "sci": "Pipistrellus abramus",
+  "ja": "アブラコウモリ",
+  "ja_belongs_to": "Alionoctula abramus",
+  "inat_sci_ja": null,
+  "np": 153
+ },
+ {
+  "id": 5133,
+  "sci": "Ditrema temminckii",
+  "ja": "マタナゴ",
+  "ja_belongs_to": "Ditrema temminckii pacificum",
+  "inat_sci_ja": "ウミタナゴ",
+  "np": 150
+ },
+ {
+  "id": 3745,
+  "sci": "Mesosa japonica",
+  "ja": "ゴマフカミキリ",
+  "ja_belongs_to": "Mesosa myops japonica",
+  "inat_sci_ja": null,
+  "np": 150
+ },
+ {
+  "id": 7400,
+  "sci": "Scarites terricola",
+  "ja": "ナガヒョウタンゴミムシ",
+  "ja_belongs_to": "Scarites terricola pacificus",
+  "inat_sci_ja": null,
+  "np": 150
+ },
+ {
+  "id": 6683,
+  "sci": "Sorbus japonica",
+  "ja": "ナナカマド",
+  "ja_belongs_to": "Sorbus commixta",
+  "inat_sci_ja": null,
+  "np": 147
+ },
+ {
+  "id": 4064,
+  "sci": "Clinopodium chinense",
+  "ja": "クルマバナ",
+  "ja_belongs_to": "Clinopodium chinense parviflorum",
+  "inat_sci_ja": "オキナワクルマバナ",
+  "np": 146
+ },
+ {
+  "id": 7694,
+  "sci": "Parapolybia indica",
+  "ja": "ムモンホソアシナガバチ",
+  "ja_belongs_to": "Parapolybia crocea",
+  "inat_sci_ja": null,
+  "np": 146
+ },
+ {
+  "id": 366,
+  "sci": "Broussonetia kazinoki",
+  "ja": "ヒメコウゾ",
+  "ja_belongs_to": "Broussonetia monoica",
+  "inat_sci_ja": null,
+  "np": 137
+ },
+ {
+  "id": 11174,
+  "sci": "Melampus nuxcastaneus",
+  "ja": "ハマシイノミガイ",
+  "ja_belongs_to": "Melampus castaneus",
+  "inat_sci_ja": null,
+  "np": 137
+ },
+ {
+  "id": 4279,
+  "sci": "Festuca rubra",
+  "ja": "オオウシノケグサ",
+  "ja_belongs_to": "Festuca rubra rubra",
+  "inat_sci_ja": "ヤマオオウシノケグサ",
+  "np": 134
+ },
+ {
+  "id": 5658,
+  "sci": "Quercus mongolica",
+  "ja": "モンゴリナラ",
+  "ja_belongs_to": "Quercus mongolica mongolica",
+  "inat_sci_ja": "ミズナラ（広義）",
+  "np": 131
+ },
+ {
+  "id": 177,
+  "sci": "Zehneria japonica",
+  "ja": "ゴキヅル",
+  "ja_belongs_to": "Actinostemma tenerum",
+  "inat_sci_ja": "スズメウリ",
+  "np": 131
+ },
+ {
+  "id": 4221,
+  "sci": "Ficus sarmentosa",
+  "ja": "ヒメイタビ",
+  "ja_belongs_to": "Ficus thunbergii",
+  "inat_sci_ja": null,
+  "np": 130
+ },
+ {
+  "id": 3881,
+  "sci": "Archipatrobus flavipes",
+  "ja": "キアシヌレチゴミムシ",
+  "ja_belongs_to": "Archipatrobus flavipes flavipes",
+  "inat_sci_ja": null,
+  "np": 128
+ },
+ {
+  "id": 5607,
+  "sci": "Cicindela transbaicalica",
+  "ja": "コニワハンミョウ",
+  "ja_belongs_to": "Cicindela transbaicalica japanensis",
+  "inat_sci_ja": null,
+  "np": 128
+ },
+ {
+  "id": 11718,
+  "sci": "Takifugu poecilonotus",
+  "ja": "コモンフグ",
+  "ja_belongs_to": "Takifugu flavipterus",
+  "inat_sci_ja": null,
+  "np": 128
+ },
+ {
+  "id": 3329,
+  "sci": "Vicia villosa",
+  "ja": "ナヨクサフジ",
+  "ja_belongs_to": "Vicia villosa varia",
+  "inat_sci_ja": "ビロードクサフジ(広義)",
+  "np": 128
+ },
+ {
+  "id": 3341,
+  "sci": "Carex breviculmis",
+  "ja": "アオスゲ",
+  "ja_belongs_to": "Carex leucochlora",
+  "inat_sci_ja": null,
+  "np": 126
  }
 ]
