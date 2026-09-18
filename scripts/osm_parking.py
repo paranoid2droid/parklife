@@ -23,13 +23,18 @@ from parklife.parking import classify_osm
 
 ROOT = Path(__file__).resolve().parent.parent
 UA = "parklife-bot/0.1 (research; contact: paranoid2droid@gmail.com)"
+# overpass-api.de only (rate limit: 2 slots/IP; over-quota answers are 429 or a
+# fast 504 — both mean "wait and retry", not "broken"). The kumi.systems mirror
+# was dropped 2026-09-19: it hung the full 60 s timeout on every call, so each
+# throttled park cost ~90 s and the nationwide pass could not finish in 4 h.
 ENDPOINTS = [
     "https://overpass-api.de/api/interpreter",
-    "https://overpass.kumi.systems/api/interpreter",
 ]
+RETRIES = 5          # per park, on 429 / 5xx / network error
+BACKOFF_S = (8, 15, 30, 60, 90)
 CACHE = ROOT / "data" / "cache" / "osm_parking"
 RADIUS_M = 300
-SLEEP_S = 1.5
+SLEEP_S = 3.0  # ~2 slots/IP with cooldown; 1.5 s tripped 504s
 
 
 def cache_path(lat: float, lon: float, radius: int) -> Path:
@@ -58,21 +63,20 @@ def fetch(lat: float, lon: float, radius: int) -> dict | None:
             pass
     CACHE.mkdir(parents=True, exist_ok=True)
     q = overpass_query(lat, lon, radius)
-    for endpoint in ENDPOINTS:
+    endpoint = ENDPOINTS[0]
+    for attempt in range(RETRIES):
         try:
             r = requests.post(endpoint, data={"data": q},
                               headers={"User-Agent": UA},
-                              timeout=60, impersonate="chrome")
+                              timeout=45, impersonate="chrome")
         except Exception as e:
-            print(f"  net err {endpoint}: {type(e).__name__}: {e}",
+            print(f"  net err {endpoint}: {type(e).__name__}: {e}; retry in {BACKOFF_S[attempt]}s",
                   file=sys.stderr, flush=True)
+            time.sleep(BACKOFF_S[attempt])
             continue
-        if r.status_code == 429:
-            print(f"  429 from {endpoint}; backing off 30s", flush=True)
-            time.sleep(30)
-            continue
-        if r.status_code >= 500:
-            print(f"  {r.status_code} from {endpoint}; trying next", flush=True)
+        if r.status_code == 429 or r.status_code >= 500:
+            print(f"  {r.status_code} from overpass; backing off {BACKOFF_S[attempt]}s", flush=True)
+            time.sleep(BACKOFF_S[attempt])
             continue
         if r.status_code != 200:
             print(f"  {r.status_code} from {endpoint}; giving up this query",
