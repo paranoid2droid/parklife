@@ -123,7 +123,8 @@ def main(taxon_keys: list[str], pref_filter: str | None = None,
                         # find existing species
                         sp = None
                         if sci:
-                            sp = conn.execute("SELECT id FROM species WHERE scientific_name=?", (sci,)).fetchone()
+                            sid0 = db.resolve_species_id(conn, sci)  # alias-aware
+                            sp = {"id": sid0} if sid0 else None
                         if not sp and ja:
                             sp = conn.execute("SELECT id FROM species WHERE common_name_ja=?", (ja,)).fetchone()
                         if not sp:

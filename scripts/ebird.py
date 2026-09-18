@@ -113,9 +113,8 @@ def insert_source(conn, park_id: int, prefecture: str, slug: str, url: str) -> i
 def upsert_species(conn, sci_name: str, ja_name: str | None, en_name: str | None) -> int | None:
     if not sci_name:
         return None
-    row = conn.execute("SELECT id FROM species WHERE scientific_name=?", (sci_name,)).fetchone()
-    if row:
-        sid = row["id"]
+    sid = db.resolve_species_id(conn, sci_name)  # alias-aware: never re-create a merged synonym
+    if sid:
         conn.execute(
             """UPDATE species SET common_name_ja = COALESCE(common_name_ja, ?),
                                   common_name_en = COALESCE(common_name_en, ?),
@@ -156,6 +155,10 @@ def main(prefecture_filter: str | None = None, max_parks: int | None = None) -> 
         if prefecture_filter:
             sql += " AND prefecture=?"
             params.append(prefecture_filter)
+        if os.environ.get("PARK_IDS"):  # e.g. PARK_IDS=27,40 — re-run just a few parks
+            ids = [int(x) for x in os.environ["PARK_IDS"].split(",") if x.strip()]
+            sql += f" AND id IN ({','.join('?' * len(ids))})"
+            params.extend(ids)
         sql += " ORDER BY prefecture, name_ja"
         parks = list(conn.execute(sql, params))
     if max_parks:

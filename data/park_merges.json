@@ -1,0 +1,23 @@
+{
+  "_doc": "Duplicate park rows to fold: src (a P13-seeded twin, or an annex) is merged INTO dst (the original website-seeded park). Applied by scripts.merge_duplicate_parks; logged to park_merged_log. Pairs reviewed 2026-09-18: same facility, same name, <1 km apart (P13 dedup only ran within P13, never against the original 209 seeds).",
+  "pairs": [
+    {"src": 3112, "dst": 7,   "why": "千葉県立手賀沼自然ふれあい緑道 = 手賀沼自然ふれあい緑道 (dst had no coords)"},
+    {"src": 212,  "dst": 10,  "why": "千葉県立長生の森公園 = 長生の森公園 (dst had no coords)"},
+    {"src": 3147, "dst": 19,  "why": "はやま三ヶ岡山緑地 (dst had no coords)"},
+    {"src": 341,  "dst": 46,  "why": "加須はなさき公園 = 加須はなさき水上公園 (dst had no coords)"},
+    {"src": 685,  "dst": 71,  "why": "荒川大麻生公園 (dst had no coords)"},
+    {"src": 697,  "dst": 161, "why": "野山北・六道山公園 (dst had no coords)"},
+    {"src": 688,  "dst": 94,  "why": "大島小松川公園"},
+    {"src": 698,  "dst": 119, "why": "桜ヶ丘公園"},
+    {"src": 576,  "dst": 16,  "why": "四季の森公園"},
+    {"src": 684,  "dst": 41,  "why": "戸田公園 (P13 twin 1)"},
+    {"src": 687,  "dst": 41,  "why": "戸田公園 (P13 twin 2)"},
+    {"src": 695,  "dst": 208, "why": "神代植物公園"},
+    {"src": 700,  "dst": 208, "why": "植物多様性センター annex seeded as 神代植物公園; 0 onsite species, no coords"},
+    {"src": 694,  "dst": 186, "why": "武蔵野の森公園"},
+    {"src": 690,  "dst": 167, "why": "光が丘公園"},
+    {"src": 691,  "dst": 126, "why": "篠崎公園"},
+    {"src": 210,  "dst": 12,  "why": "千葉県立富津公園 = 富津公園"},
+    {"src": 211,  "dst": 9,   "why": "千葉県立北総花の丘公園 = 北総花の丘公園"}
+  ]
+}

@@ -34,3 +34,6 @@ data/run_queue.stderr
 data/run_queue.stdout
 data/.ebird_key
 *.log
+
+# legacy demo blob (deploy is gh-pages via scripts/deploy_pages.sh; never re-add)
+docs/parklife-data.json

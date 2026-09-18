@@ -165,3 +165,29 @@ def init(db_path: str | Path) -> None:
     Path(db_path).parent.mkdir(parents=True, exist_ok=True)
     with connect(db_path) as conn:
         conn.executescript(SCHEMA)
+
+
+def resolve_species_id(conn: sqlite3.Connection, sci_name: str | None) -> int | None:
+    """Alias-aware scientific-name → species.id lookup for ingesters.
+
+    Checks ``species.scientific_name`` first, then ``species_alias`` rows with
+    ``lang='sci'`` — so a synonym that was merged into a canonical row (and
+    left behind as a sci alias) resolves to that row instead of being
+    re-created as a fresh, name-less duplicate on the next ingestion.
+    Every ingester MUST go through this before INSERTing into ``species``.
+    """
+    if not sci_name:
+        return None
+    row = conn.execute(
+        "SELECT id FROM species WHERE scientific_name=?", (sci_name,)
+    ).fetchone()
+    if row:
+        return row[0]
+    row = conn.execute(
+        """SELECT al.species_id FROM species_alias al
+           JOIN species s ON s.id = al.species_id
+           WHERE al.raw_name=? AND al.lang='sci'
+           ORDER BY al.id LIMIT 1""",
+        (sci_name,),
+    ).fetchone()
+    return row[0] if row else None

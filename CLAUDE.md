@@ -49,10 +49,13 @@ All Python work runs in the project venv (`Python 3.13`):
 .venv/bin/python -m scripts.backfill_display_gaps    # card polish: common_name_ja from kana alias (collision-guarded) + photo_url from park-local photo; --dry-run
 .venv/bin/python -m scripts.fetch_inat_ja_names      # fill common_name_ja from iNat locale=ja for tid-bearing Latin-only species (Japanese-only, collision-guarded, cached); --dry-run
 .venv/bin/python -m scripts.merge_dupname_synonyms   # merge same-ja-name genus-reassignment/gender-variant synonyms (one has tid); RE-RUN scripts.dedupe after; --dry-run
+.venv/bin/python -m scripts.remerge_alias_dups       # fold species rows whose sci name is a `sci` alias of another row (ingester-bypass repair; exclusions in data/alias_dup_exclusions.json); RE-RUN scripts.dedupe after; --dry-run
+.venv/bin/python -m scripts.merge_duplicate_parks    # fold duplicate park rows listed in data/park_merges.json (P13 twins of original seeds); logs park_merged_log; RE-RUN scripts.dedupe after; --dry-run
 .venv/bin/python -m scripts.dq_audit                 # read-only integrity self-check (run after any ingestion): wrong-photo contamination / tid collisions / microbe noise / captive leak / orphan FKs / placeholder names. Exit 1 on any HARD defect (gate-able); --quiet = hard-only
 
 # autonomous queue (no Claude required)
 .venv/bin/python -m scripts.run_pending              # process data/run_queue.txt under fcntl lock
+#   queue lines are module names: e.g. `pending: osm_parking` / `pending: export_static` / `pending: deploy_pages` (scripts/deploy_pages.py wraps deploy_pages.sh with SKIP_BUILD=1)
 # To enable launchd auto-resume across reboots / sessions:
 #   cp com.parklife.queue.plist ~/Library/LaunchAgents/
 #   launchctl load ~/Library/LaunchAgents/com.parklife.queue.plist
@@ -122,6 +125,10 @@ Two invariants that the pipeline depends on:
 - **Aliases are first-class.** `species_alias` maps any (raw_name, lang) → species. Two distinct katakana names that resolve to the same Latin binomial share one `species` row (synonyms collapse). New scrapers add aliases; they don't mutate species rows. Re-running normalization is cheap and reversible.
 
 Don't match species by string equality across parks — always go through `species_alias`.
+
+**Ingesters must resolve scientific names through `parklife.db.resolve_species_id`** (checks `species.scientific_name`, then `species_alias` with `lang='sci'`). Until 2026-09-19 the four radius ingesters matched the name column only, so every synonym that had been merged into a canonical row came back as a fresh ja-name-less duplicate on the next ingest (ヤマガラ showed as `Poecile varius` in 725 parks). `scripts.remerge_alias_dups` repairs any such rows; run it (then `dedupe`) after ingestion as a safety net.
+
+Spot re-runs: the three radius ingesters (`gbif`, `inaturalist`, `ebird`) accept `PARK_IDS=27,40` (env, comma-separated park ids) to re-pull just those parks — used after fixing coordinates. If a park moved >1 km, delete its old radius `observation` rows and its `data/cache/{gbif,inat,inat_monthly,ebird}` files first, or the stale cache is silently reused.
 
 A note on disambiguation: common-word entries (フジ, ボケ, モミジ, サクラ) often hit Wikipedia disambiguation pages. These are routed to the user-facing default species via `data/manual_species.json` (e.g. フジ → *Wisteria floribunda*, the noda-fuji). When in doubt, prefer the species most commonly meant in a Japanese park context.
 

@@ -1,0 +1,12 @@
+{
+  "_doc": "scientific_name values whose `sci` alias pointing at a DIFFERENT species row was found to be WRONG (distinct taxon, not a synonym). scripts.remerge_alias_dups deletes that alias instead of merging. Reviewed 2026-09-18.",
+  "Mimachlamys crassicostata": "scallop ヒオウギガイ; alias pointed at Iris domestica ヒオウギ (cross-kingdom ja-homonym trap)",
+  "Salix matsudana": "ペキンヤナギ is its own species; alias pointed at Salix subfragilis",
+  "Xanthium strumarium": "オナモミ ≠ オオオナモミ (X. occidentale)",
+  "Erosa erosa": "stonefish ダルマオコゼ; alias pointed at a cowrie (Monetaria caputserpentis)",
+  "Trachelospermum gracilipes": "オキナワテイカカズラ kept distinct from T. asiaticum",
+  "Ranunculus grandis": "シコタンキンポウゲ ≠ ウマノアシガタ (R. japonicus)",
+  "Aconitum iinumae": "オオレイジンソウ ≠ エゾレイジンソウ (A. gigas)",
+  "Brassica nigra": "クロガラシ; target row Hirschfeldia incana is itself mislabeled クロガラシ — do not fold",
+  "Debregeasia edulis": "ヤナギイチゴ ≠ イワガネ (Oreocnide frutescens)"
+}

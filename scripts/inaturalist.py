@@ -19,6 +19,8 @@ duplicates.
 
 from __future__ import annotations
 
+import os
+
 import json
 import sys
 import time
@@ -83,13 +85,11 @@ def upsert_species(conn, sci_name: str | None, ja_name: str | None,
     """Find or create a species. Match priority: scientific_name → common_name_ja."""
     if not (sci_name or ja_name):
         return None
-    row = None
-    if sci_name:
-        row = conn.execute("SELECT id FROM species WHERE scientific_name=?", (sci_name,)).fetchone()
-    if not row and ja_name:
+    sid = db.resolve_species_id(conn, sci_name)  # alias-aware: never re-create a merged synonym
+    if not sid and ja_name:
         row = conn.execute("SELECT id FROM species WHERE common_name_ja=?", (ja_name,)).fetchone()
-    if row:
-        sid = row["id"]
+        sid = row["id"] if row else None
+    if sid:
         conn.execute(
             """UPDATE species SET scientific_name = COALESCE(scientific_name, ?),
                                   common_name_ja = COALESCE(common_name_ja, ?),
@@ -141,6 +141,10 @@ def main(prefecture_filter: str | None = None,
         if prefecture_filter:
             sql += " AND prefecture=?"
             params.append(prefecture_filter)
+        if os.environ.get("PARK_IDS"):  # e.g. PARK_IDS=27,40 — re-run just a few parks
+            ids = [int(x) for x in os.environ["PARK_IDS"].split(",") if x.strip()]
+            sql += f" AND id IN ({','.join('?' * len(ids))})"
+            params.extend(ids)
         sql += " ORDER BY prefecture, name_ja"
         parks = list(conn.execute(sql, params))
     if max_parks:
